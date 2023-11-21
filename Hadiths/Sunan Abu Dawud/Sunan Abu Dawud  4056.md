@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas:The Messenger of Allah (ﷺ) gave license to 'Abd al-Rahman b. 'Aw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufail] berkata, telah menceritakan kepada kami [Isa] -yaitu Ibnu Yunus- dari [Sa'id bin Abu Arubah] dari [Qatadah] dari [Anas] ia berkata, "Dalam suatu perjalanan Rasulullah shallallahu 'alaihi wasallam memberi keringanan kepada 'Abdurrahman bin Auf dan Zubair Ibnul Awwam untuk mengenakan baju sutera karena sakit gatal yang mereka derita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2919) Sahih Muslim (2076)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4056</td></tr><tr><td>Arabic No</td><td>4056</td></tr><tr><td>Reference</td><td>Book 34 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса, да будет доволен им Аллах: «Посланник Аллаха ﷺ разрешил во время путешествия ‘Абду-р-Рахману ибн ‘Ауфу и аз-Зубайру ибн аль-‘Авваму носить шёлковые рубахи, потому что они страдали от чесотки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2919) Sahih Muslim (2076)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4056</td></tr><tr><td>Arabic No</td><td>4056</td></tr><tr><td>Reference</td><td>Book 34 Hadith 37</td></tr></tbody></table></div>
 

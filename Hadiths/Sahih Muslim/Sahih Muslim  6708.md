@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) Saying:Souls are troops collected t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Muhammad dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: Roh-roh itu seperti prajurit yang berkelompok-kelompok, jika saling mengenal mereka akan menjadi akrab, dan jika saling bermusuhan maka mereka akan saling berselisih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6708</td></tr><tr><td>Arabic No</td><td>2638.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Души (подобны) призванным в войско воинам, и те из них, которые узнают друг друга, объединяются, те же, которые не узнают, противоречат друг другу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6708</td></tr><tr><td>Arabic No</td><td>2638.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 204</td></tr></tbody></table></div>
 

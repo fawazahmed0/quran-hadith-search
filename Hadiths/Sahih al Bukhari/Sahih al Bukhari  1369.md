@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib : The Prophet (p.b.u.h) said, "When a faithful belie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami [Syu'bah] dari ['Alqamah bin Martsad] dari [Sa'ad bin 'Ubadah] dari [Al Bara' bin 'Azib radliallahu 'anhuma] dari Nabi Shallallahu'alaihiwasallam bersabda: "Apabila (jenazah) seorang muslim sudah didudukkan dalam kuburnya maka dia akan dihadapkan (pertanyaan malaikat), kemudian ia bersaksi bahwa tidak ada ilah yang berhak disembah kecuali Allah dan Muhammad utusan Allah. Itulah perkataan seorang muslim sebagaimana firman Allah subhanahu wata'ala (QS Ibrahim ayat 27 yang artinya): ("Allah akan meneguhkan (iman) orang-orang yang beriman dengan ucapan yang teguh itu"). Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] seperti riwayat ini lalu menambahkannya (firman Allah subhanahu wata'ala): ("Allah akan meneguhkan (iman) orang-orang yang beriman…") ayat ini turun berkenaan dengan masalah siksa kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1369</td></tr><tr><td>Arabic No</td><td>1369</td></tr><tr><td>Reference</td><td>Book 23 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Бара бин ‘Азиба, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «После того как верующего усадят в его могиле и к нему придут (ангелы), он принесёт свидетельство о том, что нет истинного бога, кроме Аллаха, и что Мухаммад — Посланник Аллаха, ибо сказал (Всевышний): “Аллах укрепит верующих твёрдым словом…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1369</td></tr><tr><td>Arabic No</td><td>1369</td></tr><tr><td>Reference</td><td>Book 23 Hadith 121</td></tr></tbody></table></div>
 

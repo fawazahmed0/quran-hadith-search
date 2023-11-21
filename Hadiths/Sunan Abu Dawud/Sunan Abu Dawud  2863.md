@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Messenger of Allah (ﷺ) did not leave dinars, dirhams, cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Muhammad bin Al 'Ala'], mereka berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Wail], dari [Masruq] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam tidak meninggalkan dinar, dirham, unta serta kambing dan beliau tidak berwasiat dengan sesuatupun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1635)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2863</td></tr><tr><td>Arabic No</td><td>2863</td></tr><tr><td>Reference</td><td>Book 18 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ не оставил после себя ни динара, ни дирхема, ни овцы, ни верблюда и ничего не завещал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1635)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2863</td></tr><tr><td>Arabic No</td><td>2863</td></tr><tr><td>Reference</td><td>Book 18 Hadith 2</td></tr></tbody></table></div>
 

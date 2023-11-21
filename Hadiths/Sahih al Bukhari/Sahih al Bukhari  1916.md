@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:When the above verses were revealed: 'Until the white th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Husyaim] berkata, telah mengabarkan kepada saya [Hushain bin 'Abdurrahman] dari [Asy-Sya'biy] dari ['Adi bin Hatim radliallahu 'anhu] berkata: Ketika turun QS Al Baqarah ayat 197 ("… hingga terang bagi kalian benang putih dari benang hitam yaitu di waktu fajar"), maka aku mengambil benang hitam dan benang putih lalu aku letakkan di bawah bantalku untuk aku lihat pada sebagian malam namun tidak tampak olehku. Maka di pagi harinya aku menemui Rasulullah shallallahu 'alaihi wasallam lalu aku ceritakan hal tadi. Maka Beliau bersabda: "Sesungguhnya yang dimaksud dengan ayat itu adalah gelapnya malam dan terangya siang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 30 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади бин Хатим, да будет доволен им Аллах, сказал: «Когда был ниспослан (аят, в котором сказано): “…ешьте и пейте, пока заря не позволит вам отличить белую нить от чёрной…” (сура «аль-Бакара», 187), я взял чёрные и белые путы и положил их себе под подушку, а ночью стал смотреть на них, но ничего не смог различить. Утром я пошёл к Посланнику Аллаха ﷺ рассказал ему обо всём, и он сказал (мне): “Поистине, это — чернота ночи и белизна дня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 30 Hadith 26</td></tr></tbody></table></div>
 

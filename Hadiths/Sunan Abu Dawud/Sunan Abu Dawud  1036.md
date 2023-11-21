@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mughirah ibn Shu'bah: The Prophet (ﷺ) said: When an imam stands up
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin 'Amru] dari [Abdullah bin Walid] dari [Sufyan] dari [Jabir yaitu Al Ju'fi] dia berkata; telah menceritakan kepada kami [Al Mughirah bin Syubail Al Ahmasi] dari [Qais bin Abu Hazim] dari [Al Mughirah bin Syu'bah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; "Apabila seorang imam terlanjur berdiri pada raka'at kedua, dan ingat sebelum berdiri tegak, hendaknya ia kembali duduk, dan apabila telah berdiri tegak hendaknya ia tidak duduk dan sujudlah dua kali yaitu sujud sahwi." Abu Daud berkata; "Dan dalam kitabku tidak di sebutkan dari Jabir Al Ju'fi kecuali dari hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 2 Hadith 647</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Аль-Мугиры ибн Шу‘бы, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если имам поднялся после двух рак‘атов, то, если он заметил свою оплошность до того, как полностью выпрямился, ему следует сесть. Если же он уже встал, то он уже не должен садиться, но ему следует совершить два земных поклона во искупление своей оплошности»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 2 Hadith 647</td></tr></tbody></table></div>
 

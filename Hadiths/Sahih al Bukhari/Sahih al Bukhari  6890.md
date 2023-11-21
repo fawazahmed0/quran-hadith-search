@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:"When it was the day of (the battle of) Uhud, the pagans were de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin manshur] telah mengabarkan kepada kami [Abu Usamah], [Hisyam] mengatakan, ia mengabarkan kepada kami dari [Ayahnya] dari ['Aisyah], mengatakan, Dalam perang Uhud kaum musyrikin kocar kacir dan Iblis berseru; 'hai hamba Allah, awas barisan belakang kalian! ' Maka pasukan depan kaum musyrikin berbalik kearah belakang sehingga tubrukan sesama mereka tak terelakkan. Lantas Hudzaifah melihat anggota pasukan satu persatu, dan dia dapatkan ayahnya, Al Yaman. Maka ia berseru: 'hai hamba Allah, awas itu ayahku, awas itu ayahku! ' Aisyah berkata; Demi Allah, kaum muslimin tak sabar menahan diri hingga mereka membunuh ayahnya. Khudzaifah kemudian mengatakan; 'Semoga Allah mengampuni kalian.' 'Urwah berkomentar; pada diri Khudzaifah tiada henti tertanam sifat-sifat kebaikan hingga ia menjumpai Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6890</td></tr><tr><td>Arabic No</td><td>6890</td></tr><tr><td>Reference</td><td>Book 87 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «В день (битвы) при Ухуде, когда многобожники были побеждены, Иблис воскликнул: “О рабы Аллаха! Защищайте ваши спины!” Тогда (мусульмане) из первых рядов обернулись и стали сражаться с мусульманами из задних рядов (думая, что это многобожники). Когда Хузейфа оглянулся и увидел своего отца аль-Йамана, (подвергшегося нападению мусульман), он воскликнул: “О рабы Аллаха! Мой отец! Мой отец!” Клянусь Аллахом, они не остановились, пока не убили его. Тогда Хузейфа сказал: “Да простит вас Аллах!”».\n‘Урва сказал: «Хузейфа продолжал творить добро (призывая Аллаха простить убийц своего отца), пока не встретил Аллаха (т.е. пока умер)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6890</td></tr><tr><td>Arabic No</td><td>6890</td></tr><tr><td>Reference</td><td>Book 87 Hadith 28</td></tr></tbody></table></div>
 

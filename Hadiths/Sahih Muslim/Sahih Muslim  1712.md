@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hafsa reported:Never did I see the Messenger of Allah (ﷺ) observing supereroga
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], katanya, Pernah aku menyetorkan hapalan kepada [Malik] dari [Ibn Syihab] dari [Saib bin YAzid] dari [Muththalib bin Abi Wada'ah Assahmi] dari [Hafsah], katanya, belum pernha kulihat Rasulullah shallallahu 'alaihi wasallam dalam shalat sunnahnya beliau lakukan dengan duduk, hingga setahun sebelum wafatnya, beliau lakukan shalat sunnahnya dengan duduk, beliau baca sebuah surat dan beliau baca dengan tartil, hingga melebihi panjang daripada yang pernah beliau baca dengan panjang. Dan telah menceritakan kepadaku [Abu Tahir] dan [Harmalah], kata keduanya, Telah mengabarkan kepada kami [Ibn Wahb] telah mengabarkan kepadaku [Yunus] --Lewat jalur periwayatan lain-Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abd bin humaid], kata keduanya, Telah mengabarkan kepada kami [Abdurrazaq] Telah mengabarkan kepada kami [Ma'mar], kesemuanya dari [Azzuhri] dengan isnad ini semisalnya hanya keduanya katakan, setahun atau dua tahun sebelum kewafatannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1712</td></tr><tr><td>Arabic No</td><td>733.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хафса сказала: «Я не видела, чтобы Посланник Аллаха ﷺ совершал дополнительные молитвы сидя, пока до его смерти не остался один год, и (только) тогда он стал совершать дополнительные молитвы сидя. И он читал (во время молитвы) суру (таким размеренным чтением), что (из-за продолжительности её чтения) она становилась длиннее, чем сура длиннее неё (по количеству аятов)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1712</td></tr><tr><td>Arabic No</td><td>733.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 142</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "For every betrayer (perfidious perso
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya akan di kibarkan bendera untuk para penghianat pada hari Kiamat kelak, dan dikatakan; "Ini adalah bendera penghianatan fulan bin fulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6177</td></tr><tr><td>Arabic No</td><td>6177</td></tr><tr><td>Reference</td><td>Book 78 Hadith 201</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «В День воскресения для (каждого) вероломного водрузят знамя, и будет сказано: “Это вероломство такого-то, сына такого-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6177</td></tr><tr><td>Arabic No</td><td>6177</td></tr><tr><td>Reference</td><td>Book 78 Hadith 201</td></tr></tbody></table></div>
 

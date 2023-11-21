@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubadah ibn as-Samit: The Prophet (ﷺ) said: I have told you so much ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haiwah bin Syuraih] berkata, telah menceritakan kepada kami [Baqiyyah] berkata, telah menceritakan kepadaku [Bahir] dari [Khalid bin Ma'dan] dari [Amru Ibnul Aswad] dari [Junadah bin Abu Umayyah] dari [Ubadah bin Ash Shamit] bahwa ia menceritakan kepada mereka, Bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh, aku telah menceritakan perihal Dajjal kepada kalian, hingga aku kawatir kalian tidak lagi mampu memahaminya. Sesungguhnya Al Masih Dajjal adalah seorang laki-laki yang pendek, berkaki bengkok, berambut keriting, buta sebelah dan matanya tidak terlalu menonjol dan tidak pula terlalu tenggelam. Jika kalian merasa bingung, maka ketahuilah bahwa Rabb kalian tidak bermata juling." Abu Dawud berkata, "Amru Ibnul Aswad adalah seorang hakim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4320</td></tr><tr><td>Arabic No</td><td>4320</td></tr><tr><td>Reference</td><td>Book 39 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Убады ибн ас-Самита, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, я рассказал вам о Даджжале, однако я побоялся, что вы не поняли до конца (или не запомнили всего, поскольку я очень много говорил вам о нём). Поистине, Масих Даджжаль человек низкого роста, кривоногий, с курчавыми волосами, одноглазый: второй глаз у него сглажен, он не выступающий и не запавший. И если будете вы пребывать в сомнении относительно того, кто он, знайте, что Господь ваш не одноглазый»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4320</td></tr><tr><td>Arabic No</td><td>4320</td></tr><tr><td>Reference</td><td>Book 39 Hadith 30</td></tr></tbody></table></div>
 

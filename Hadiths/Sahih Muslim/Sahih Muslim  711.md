@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:A woman asked the Messenger of Allah (way peace be upon h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Dawud bin Rusyaid] telah menceritakan kepada kami [Shalih bin Umar] telah menceritakan kepada kami [Abu Malik al-Asyja'i] dari [Anas bin Malik] dia berkata, "Seorang wanita bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang wanita yang bermimpi (bersenggama) dalam tidurnya sebagaimana seorang laki-laki bermimpi dalam tidurnya. Maka beliau menjawab, 'Apabila dia mengalami sesuatu yang dialami oleh seorang laki-laki, hendaklah dia mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>711</td></tr><tr><td>Arabic No</td><td>312</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) некая женщина спросила Посланника Аллаха ﷺ о (том, что следует делать) женщине, которая видит во сне то же, что видит во сне мужчина, и он ответил: “Если из неё (выделится) то, что (выделяется) из мужчины, то пусть совершит большое омовение /гусль/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>711</td></tr><tr><td>Arabic No</td><td>312</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
 

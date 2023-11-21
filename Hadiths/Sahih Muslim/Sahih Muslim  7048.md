@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported that a person from the People of the Book came to Allah's Apos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] dia berkata; aku mendengar [Ibrahim] berkata; aku mendengar ['Alqamah] berkata; ['Abdullah] berkata;; "Seorang laki-laki dari ahlu kitab datang kepada Nabi shallallahu 'alaihi wasallam lalu dia berkata; 'Wahai Abu Qasim! Kelak di hari kiamat Allah Ta'ala memegang langit, bumi, pohon-pohon, binatang-binatang, dan seluruh makhluk dengan jari-Nya seraya berkata; 'Akulah Raja (Penguasa)! Akulah Raja! ' Abdullah berkata; 'Maka aku melihat Rasulullah shallallahu 'alaihi wasallam pun tertawa hingga nampak gigi serinya. Kemudian beliau membaca ayat: 'Dan mereka tidak mengagungkan Allah dengan pengagungan yang semestinya. (QS. Azzumar 67).' Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] mereka berdua berkata; telah menceritakan kepada kami [Abu Mu'awiyah] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Ali bin Khasyram] mereka berdua berkata; telah mengabarkan kepada kami ['Isa bin Yunus] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] semuanya dari [Al A'masy] dengan sanad ini. Namun di semua Hadits mereka disebutkan lafazh; 'pohon-pohon dan binatang binatang. sedangkan di dalam Hadits Jarir tidak di sebutkan; lafazh 'makhluk-makhluk' akan tetapi disebutkan lafazh gunung-gunung juga ada tambahan; sebagai pembenaran terhadapnya dan rasa kagum terhadap apa yang dia katakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7048</td></tr><tr><td>Arabic No</td><td>2786.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7048</td></tr><tr><td>Arabic No</td><td>2786.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 4</td></tr></tbody></table></div>
 

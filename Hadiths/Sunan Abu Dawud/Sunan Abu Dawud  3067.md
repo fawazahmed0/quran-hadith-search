@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sakhr ibn al-Ayla al-Ahmasi: The Messenger of Allah (ﷺ) raided Thaqif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Al Khathab Abu Hafsh], telah menceritakan kepada kami [Al Firyabi] telah menceritakan kepada kami [Aban], Umar berkata; ia adalah Ibnu Abdullah bin Abu Hazin, ia berkata; telah menceritakan kepadaku, [Utsman bin Abu Hazin] dari [ayahnya] dari [kakeknya yaitu Shakhr] bahwa Rasulullah shallallahu 'alaihi wasallam memerangi Tsaqif, kemudian tatkala Shakh mendengar hal tersebut ia mengendarai kudanya menuju kepada Nabi shallallahu 'alaihi wasallam, kemudian ia mendapati Nabi shallallahu 'alaihi wasallam telah pergi, dan tidak menaklukkan Tsaqif. Kemudian pada saat itu ia menjadikan janji Allah untuk tidak meninggalkan benteng ini hingga mereka turun kepada hukum Rasulullah shallallahu 'alaihi wasallam. Kemudian Shakhr menulis surat kepadanya; sesungguhnya Tsaqif telah menyerahkan kepada hukummu wahai Rasulullah, dan aku datang kepada mereka, sementara mereka berada dalam pasukan berkuda. Kemudian Rasulullah shallallahu 'alaihi wasallam memerintahan agar melakukan shalat berjama'ah. Kemudian beliau berdoa untuk Ahmas sepuluh kali doa: "Ya Allah, berkahilah untuk Ahmas pada kudanya dan para penunggangnya." Kemudian orang-orang tersebut datang kepada beliau, lalu Al Mughirah bin Syu'bah berbicara. Ia berkata; wahai nabi Allah, sesungguhnya Shakhr telah mengambil bibiku, sementara ia telah memasuki apa yang dimasuki orang-orang muslim. Kemudian beliau memanggil Shakhr dan berkata: "Wahai Shakhr, sesungguhnya sebuah kaum, apabila telah masuk Islam maka mereka melindungi darah mereka dan harta mereka, maka serahkan bibi Al Mughirah kepadanya!" kemudian ia menyerahkannya kepada Al Mughirah. Dan Nabi shallallahu 'alaihi wasallam bertanya mengapa orang-orang Bani Sulaim lari dari Islam dan meninggalkan air tersebut? Kemudian Al Mughirah berkata; wahai Nabi Allah, serahkan hal tesebut kepadaku dan kepada kaumku. Beliau bekata; ya. lalu beliau menyerahkn kepadanya, dn orang Bani Sulaim masuk Islam. Lalu mereka datang kepada Shakhr, dan meminta kepadanya agar menyerahkan kepada mereka mata air tersebut, namun ia menolak. Kemudian mereka datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; wahai Nabi Allah, kami telah masuk Islam, mereka telah melindungi harta mereka dan darah mereka. Maka serahkan kepada orang-orang tersebut mata air mereka! Beliau berkata: "Ya." kemudian aku melihat wajah Rasulullah shallallahu 'alaihi wasallam berubah pada saat itu memerah karena rasa malu telah mengambil budak wanita dan mata air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3067</td></tr><tr><td>Arabic No</td><td>3067</td></tr><tr><td>Reference</td><td>Book 20 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3067</td></tr><tr><td>Arabic No</td><td>3067</td></tr><tr><td>Reference</td><td>Book 20 Hadith 140</td></tr></tbody></table></div>
 

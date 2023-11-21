@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid bin Jabr:'Abdullah bin 'Umar used to say, "There is no migratio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Yazid] Telah menceritakan kepada kami [Yahya bin Hamzah] katanya, Telah menceritakan kepadaku [Abu Amru, Auza'i] dari [Abdah bin Abu Lubabah] dari [Mujahid bin Jabr Al Makki] bahwasanya [Abdullah bin Umar] radliallahu 'anhuma mengatakan; "Tak ada lagi hijrah setelah kemenangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4311</td></tr><tr><td>Arabic No</td><td>4311</td></tr><tr><td>Reference</td><td>Book 64 Hadith 342</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, говорил: «Нет хиджры (переселения) после завоевания (Мекки)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4311</td></tr><tr><td>Arabic No</td><td>4311</td></tr><tr><td>Reference</td><td>Book 64 Hadith 342</td></tr></tbody></table></div>
 

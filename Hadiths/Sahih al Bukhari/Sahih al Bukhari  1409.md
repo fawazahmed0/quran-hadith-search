@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:I heard the Prophet (ﷺ) saying, "There is no envy except i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari [Isma'il] berkata, telah menceritakan kepada saya [Qais] dari [Ibnu Mas'ud radliallahu 'anhu] berkata; Aku mendengar Nabi Shallallahu'alaihiwasallam bersabda: "Tidak boleh iri (dengki) kecuali kepada dua hal. (Yaitu kepada) seorang yang Allah berikan kepadanya harta lalu dia menguasainya dan membelanjakannya di jalan yang haq (benar) dan seorang yang Allah berikan hikmah (ilmu) lalu dia melaksanakannya dan mengajarkannya (kepada orang lain)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1409</td></tr><tr><td>Arabic No</td><td>1409</td></tr><tr><td>Reference</td><td>Book 24 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Не следует завидовать никому, кроме (обладающих) двумя качествами: человеку, которому Аллах даровал богатство и которого Он направил к тому, чтобы без остатка потратить его на должное, и другому (человеку), которому Аллах даровал мудрость и который поступает сообразно ей и передаёт её (другим)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1409</td></tr><tr><td>Arabic No</td><td>1409</td></tr><tr><td>Reference</td><td>Book 24 Hadith 13</td></tr></tbody></table></div>
 

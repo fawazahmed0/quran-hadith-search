@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:Al-'Aqib and Saiyid, the rulers of Najran, came to Allah's Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abbas bin Husain] Telah menceritakan kepada kami [Yahya bin Adam] dari [Israil] dari [Abu Ishaq] dari [Shilah bin Zufar] dari [Hudzaifah] dia berkata; Seorang baginda dan budak dari Najran mendatangi Nabi shallallahu 'alaihi wasallam untuk melaknat beliau, Hudzaifah berkata; salah satu dari mereka berkata kepada temannya; 'Jangan kamu lakukan, Demi Allah, Seandainya dia benar seorang nabi maka dia yang akan melaknat kita, hingga kita tidak akan pernah beruntung dan tidak punya keturunan lagi setelah kita. Kemudian keduanya berkata: wahai Rasulullah! Kami akan memberikan apa yang engkau minta kepada kami. Oleh karena itu utuslah orang kepercayaan engkau kepada kami. Dan jangan sekali-kali engkau mengutusnya kecuali memang orang itu sangat terpercaya. Maka nabi shallallahu 'alaihi wasallam bersabda: "Aku akan mengutus orang kepercayaan yang sebenar-benarnya." Maka para sahabat merasa penasaran dan akhirnya menunggu-nunggu orang yang dimaksud oleh Rasulullah itu. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: 'Berdirilah wahai Abu Ubaidah bin Jarrah! ' setelah Abu Ubaidah bin Jarrah berdiri, Rasulullah shallallahu 'alaihi wasallam bersabda: 'Dialah orang kepercayaan umat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4380</td></tr><tr><td>Arabic No</td><td>4380</td></tr><tr><td>Reference</td><td>Book 64 Hadith 403</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузейфа, да будет доволен им Аллах, сказал: «Когда правители Наджрана аль-‘Акиб и ас-Сайид явились к Посланнику Аллаха ﷺ, чтобы предложить ему призвать проклятия друг на друга, один из них сказал другому: “Не делай этого, ибо, клянусь Аллахом, если он (и в самом деле) является пророком, а мы станем призывать друг на друга проклятия, то не будет успеха ни нам, ни нашим потомкам!” (А потом) они сказали (Пророку ﷺ): “Поистине, мы дадим тебе то, чего ты у нас просишь, но ты должен послать с нами надежного человека, и не посылай с нами никого, кроме надежного!” (На это Пророк ﷺ) сказал (им): “Я обязательно пошлю с вами действительно надежного человека”, и (каждый из) сподвижников Посланника Аллаха ﷺ пожелал (, чтобы было названо его имя, что же касается Пророка ﷺ, то) он сказал: “Встань, о Абу ‘Убайда ибн аль-Джаррах!” А когда он встал, Посланник Аллаха ﷺ сказал: “Этот (человек) является доверенным лицом /амин/ этой общины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4380</td></tr><tr><td>Arabic No</td><td>4380</td></tr><tr><td>Reference</td><td>Book 64 Hadith 403</td></tr></tbody></table></div>
 

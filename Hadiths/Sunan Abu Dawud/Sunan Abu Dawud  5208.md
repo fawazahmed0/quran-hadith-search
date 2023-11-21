@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: When one of you comes to an assemb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Musaddad] keduanya berkata; telah menceritakan kepada kami [Bisyr] -yang dimaksud oleh keduanya adalah Bisyr bin Al Mufadhdhal- dari [Ibnu Ajlan] dari [Al Maqburi] -Musaddad berkata; Said bin Abu Said Al Maqburi- dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian sampai pada suatu majlis hendaklah ia mengucapkan salam, dan jika akan bangkit hendaklah mengucapkan salam, dan tidaklah yang pertama itu lebih berhak dari yang terakhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5208</td></tr><tr><td>Arabic No</td><td>5208</td></tr><tr><td>Reference</td><td>Book 43 Hadith 436</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас явится в собрание, пусть приветствует салямом (присутствующих), и когда он захочет уйти, пусть (тоже) приветствует салямом их, ибо первое не более обязательно, чем второе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5208</td></tr><tr><td>Arabic No</td><td>5208</td></tr><tr><td>Reference</td><td>Book 43 Hadith 436</td></tr></tbody></table></div>
 

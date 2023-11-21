@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu 'Atiyya reported:I and Misruq went to 'A'isha (Allah be pleased with her) an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnu Abu Za'idah] dari [Al A'masy] dari [Umarah] dari [Abu 'Athiyah] ia berkata; Saya dan Masruq menemui [Aisyah] radliallahu 'anha. Kemudian Masruq berkata kepadanya, "Ada dua orang dari kalangan sahabat Muhammad shallallahu 'alaihi wasallam, keduanya begitu bersemangat untuk mendapatkan kebaikan. Yang satu menyegerakan shalat Maghrib dan Ifthar (berbuka). Sedangkan yang satu lagi, mengakhirkan shalat Maghrib dan juga Ifthar." Lalu Aisyah bertanya, "Siapa yang menyegerakan shalat Maghrib dan Ifthar?" Ia menjawab, "Abdullah." Maka Aisyah berkata, "Seperti inilah yang telah diperbuat oleh Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2557</td></tr><tr><td>Arabic No</td><td>1099.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2557</td></tr><tr><td>Arabic No</td><td>1099.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 63</td></tr></tbody></table></div>
 

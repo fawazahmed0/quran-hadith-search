@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa b. Zubair reported that Hisham b. Hakim found a person (the ruler of Hims) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] bahwa [Hisyam bin Hakim] pernah melewati orang di Syam sedang menjemur beberapa orang petani di terik matahari karena tidak membayar pajak. Kemudian Hisyam bertanya; 'Mengapa mereka ini dihukum? ' 'Sesungguhnya saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya Allah akan menyiksa orang-orang yang menyiksa orang lain di dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6660</td></tr><tr><td>Arabic No</td><td>2613.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6660</td></tr><tr><td>Arabic No</td><td>2613.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 157</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Once the Prophet (ﷺ) was preaching while a bedouin was si
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] telah menceritakan kepada kami [Fulaih] telah menceritakan kepada kami [Hilal] dari ['Atha' bin Yasar] dari [Abu Hurairah], bahwa Nabi shallallahu 'alaihi wasallam suatu hari menyampaikan hadis sedang di sisinya ada seorang arab badui: "Ada seorang penduduk surga meminta ijin Tuhannya untuk menanam. Allah berujar, 'Bukankah engkau diperkenankan sekehendakmu! ' Orang tersebut menjawab, 'Memang, namun aku ingin menanam! ' Orang itu kemudian bergegas menabur benih, dan ujung-ujung tanamannya sedemikian cepat tumbuh, juga perkembangbiakannya, sehingga ia juga cepat memanen, yang himpunan panenannya sebesar gunung. Kemudian Allah berfirman, 'Silahkan kau ambil hai Anak adam, sungguh tak ada sesuatu yang menjadikanmu puas! ' Maka si arab badui berkata, 'Wahai Rasulullah, (jika demikian) tidak akan engkau temukan seperti orang ini selain dari Quraisy atau orang anshar, sebab mereka hobi bercocok tanam, adapun kami, tidak suka bercocok tanam! Rasulullah pun menjadi tertawa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7519</td></tr><tr><td>Arabic No</td><td>7519</td></tr><tr><td>Reference</td><td>Book 97 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «В один из дней, когда у Пророка ﷺ находился какой-то бедуин, он рассказал (следующее): “Поистине, один из обитателей Рая попросит у своего Господа разрешить ему возделывать землю. (Господь) спросит его: “Разве ты не получил всё, что пожелал?” Он ответит: “Да”. Он поспешит и посеет зерно, и в мгновение ока оно прорастёт, выпрямится, созреет и приобретёт округлую форму. Оно будет величиной с горы, а потом Всевышний Аллах скажет: ”Возьми это, о, сын Адама, и, поистине, ничто не способно насытить тебя”. Тут этот бедуин сказал: “О Посланник Аллаха, это окажется один из курайшитов или ансаров, потому что они занимаются земледелием, а мы — нет”, — и Посланник Аллаха ﷺ засмеялся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7519</td></tr><tr><td>Arabic No</td><td>7519</td></tr><tr><td>Reference</td><td>Book 97 Hadith 144</td></tr></tbody></table></div>
 

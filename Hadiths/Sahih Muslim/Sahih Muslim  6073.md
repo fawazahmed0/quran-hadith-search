@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Sîrîn a dit : "Comme on demandait à Anas si le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] serta ['Amru bin An Naqid] seluruhnya dari [Ibnu Idris], [Amru] berkata; Telah menceritakan kepada kami [Abdullah bin Idris Al Audi] dari [Hisyam] dari [Ibnu Sirin] dia berkata; [Anas bin Malik] ditanya, Apakah Rasulullah shallallahu 'alaihi wasallam mencelup rambut beliau?" Jawab Anas; "Beliau tidak kelihatan beruban, kecuali -Ibnu Idris berkata; - sepertinya dia menyebutkan 'sedikit.' Sedangkan Abu Bakr dan Umar telah mencelup rambutnya dengan inai dan yang sejenisnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6073</td></tr><tr><td>Arabic No</td><td>2341.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6073</td></tr><tr><td>Arabic No</td><td>2341.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 131</td></tr></tbody></table></div>
 

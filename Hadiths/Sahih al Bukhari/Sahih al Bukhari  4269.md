@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:Allah's Messenger (ﷺ) sent us towards Al-Huruqa, and i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru bin Muhammad] Telah menceritakan kepada kami [Husyaim] Telah mengabarkan kepada kami [Hushain] Telah mengabarkan kepada kami [Abu Zhabyan] katanya, aku mendengar [Usamah bin Zaid] radliallahu 'anhuma mengatakan, Rasulullah shallallahu 'alaihi wasallam mengirim kami ke Khurqah, lantas kami melakukan penyerbuan ketika pagi buta, kemudian kami mengobrak abrik mereka. Aku dan seorang laki-laki Anshar kebetulan berhasil memergoki seorang laki-laki dari mereka, ketika kami bisa mengepungnya, tiba-tiba ia mengucapkan syahadat "laa-ilaaha-illallah". Si laki-laki Anshar rupanya menahan diri dari penyerbuannya, namun aku nekad menusuknya dengan tombakku hingga aku berhasil membunuhnya. Ketika kami tiba, berita ini sampai kepada Nabi shallallahu 'alaihi wasallam. Lantas beliau berujar kepadaku: "Wahai Usamah, apakah engkau membunuhnya setelah mengucapkan laa-ilaaha-illallah? Saya jawab; "Dia mengucapkan kalimat itu hanya untuk mencari selamat saja!" Rasul tidak henti melancarkan kritiknya padaku hingga aku berangan-angan kalaulah aku belum masuk Islam sebelum hari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4269</td></tr><tr><td>Arabic No</td><td>4269</td></tr><tr><td>Reference</td><td>Book 64 Hadith 303</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама ибн Зейд, да будет доволен Аллах ими обоими, сказал: «(В свое время) Посланник Аллаха ﷺ отправил нас в Хуракат, и мы напали на (них) утром и разбили их. Вместе с одним из ансаров я преследовал одного из (этих людей), когда же мы приблизились к нему вплотную, он закричал: “Нет истинного бога, кроме Аллаха!” (Услышав его слова,) тот ансар перестал (преследовать его), а я нанес ему удар своим копьём и убил его. После того как мы вернулись обратно, об этом стало известно Пророку ﷺ, и он спросил: “О Усама, неужели же ты убил его после того, как он сказал “Ля иляха илля-Ллах”?!” Я воскликнул: “(Но ведь он сказал это, только) желая спастись!” — однако (Пророк ﷺ) не переставал задавать (этот вопрос) до тех пор, пока я не пожалел о том, что принял ислам раньше, чем (дожил до) этого дня!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4269</td></tr><tr><td>Arabic No</td><td>4269</td></tr><tr><td>Reference</td><td>Book 64 Hadith 303</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) took a silver ring and had 'Muha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Hammad] dari [Abdul Aziz bin Shuhaib] dari [Anas bin Malik] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam pernah membuat cincin dari perak dan mengukirnya dengan tulisan "Muhammad Rasulullah" kemudian beliau bersabda: "Sesungguhnya saya telah membuat cincin dari perak dan telah kuukir dengan tulisan 'Muhammad Rasulullah' maka janganlah kalian mengukir dengan ukiran seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5877</td></tr><tr><td>Arabic No</td><td>5877</td></tr><tr><td>Reference</td><td>Book 77 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса бин Малика, да будет доволен им Аллах, что (в своё время) Посланник Аллаха ﷺ стал носить серебряный перстень, на котором (по его велению) было выгравирована (надпись) “Мухаммад, Посланник Аллаха”, и он сказал: «Поистине, есть у меня серебряный перстень, на котором я написал “Мухаммад, Посланник Аллаха”, и никто не должен делать на своём перстне (такую же) надпись, какая имеется на моём!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5877</td></tr><tr><td>Arabic No</td><td>5877</td></tr><tr><td>Reference</td><td>Book 77 Hadith 94</td></tr></tbody></table></div>
 

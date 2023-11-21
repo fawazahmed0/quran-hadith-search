@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The people of the Book used to let their hair hand down, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] berkata, telah mengabarkan kepadaku [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah] dari [Ibnu Abbas] ia berkata, "orang-orang ahli kitab biasa mengurai rambutnya dan orang-orang musyrik biasa membelah rambut kepada mereka menjadi dua bagian. Sedangkan Rasulullah shallallahu 'alaihi wasallam lebih senang menyamai orang-orang ahli kitab pada hal-hal yang tidak ada perintahnya. Maka Rasulullah shallallahu 'alaihi wasallam pun mengurai rambutnya bagian depan, kemudian membelahnya setelah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5917) Sahih Muslim (2336)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4188</td></tr><tr><td>Arabic No</td><td>4188</td></tr><tr><td>Reference</td><td>Book 35 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Люди Писания оставляли волосы свисать на лоб, а язычники расчёсывали их на пробор, а Посланник Аллаха ﷺ любил поступать так же, как люди Писания, в том, в чём ему не было велено противоречить им, и Посланник Аллаха ﷺ, носил чёлку, а потом стал расчёсывать волосы на пробор»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5917) Sahih Muslim (2336)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4188</td></tr><tr><td>Arabic No</td><td>4188</td></tr><tr><td>Reference</td><td>Book 35 Hadith 30</td></tr></tbody></table></div>
 

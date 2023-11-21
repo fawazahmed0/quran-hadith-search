@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Tamim narrated on the authority of his uncle ('Abdullah b. Zaid) that the Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Sufyan bin Uyainah] dari [Abdullah bin Abu Bakar] dari [Abbad bin Tamim] dari [pamannya] ia berkata; "Suatu ketika Rasulullah shallallahu 'alaihi wasallam keluar menuju Mushalla (tanah lapang untuk shalat) hendak menunaikan shalat Istisqa', maka beliau pun menghadap kiblat dan membalik pakaiannya kemudian shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2071</td></tr><tr><td>Arabic No</td><td>894.02</td></tr><tr><td>Reference</td><td>Book 9 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аббад ибн Тамим передал, что его дядя (‘Абдуллах ибн Зейд аль-Мазини) сказал: «(Однажды) Пророк ﷺ отправился к (избранному им) месту молитвы и обращался к Аллаху с мольбой о ниспослании дождя. (Там) он обратился лицом к къибле и потом перевернул свой плащ, и совершил молитву в два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2071</td></tr><tr><td>Arabic No</td><td>894.02</td></tr><tr><td>Reference</td><td>Book 9 Hadith 2</td></tr></tbody></table></div>
 

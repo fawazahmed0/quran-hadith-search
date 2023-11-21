@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Rafi' b. Khadij reported that Allah's Messenger (ﷺ) came to Medina and the peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Ar Rumi Al Yamami] dan ['Abbas bin 'Abdul 'Azhim Al 'Anbari] dan [Ahmad bin Ja'far Al Ma'qiri] mereka berkata; Telah menceritakan kepada kami [An Nadhr bin Muhammad]; Telah menceritakan kepada kami ['Ikrimah] yaitu Ibnu 'Ammar; Telah menceritakan kepada kami [Abu An Najasyi]; Telah menceritakan kepadaku [Rafi' bin Khadij] dia berkata; Ketika Nabi shallallahu 'alaihi wasallam datang ke Madinah, para penduduk Madinah sedang menyerbukkan bunga kurma agar dapat berbuah yang hal itu biasa mereka sebut dengan 'mengawinkan', maka beliaupun bertanya: apa yang sedang kalian kerjakan? Mereka menjawab: Dari dulu kami selalu melakukan hal ini. Beliau berkata: 'Seandainya kalian tidak melakukannya, niscaya hal itu lebih baik.' Maka merekapun meninggalkannya, dan ternyata kurma-kurma itu malah rontok dan berguguran. Ia berkata: lalu hal itu diadukan kepada beliau dan beliaupun berkata: 'Sesungguhnya aku hanyalah manusia biasa, oleh karenanya apabila aku memerintahkan sesuatu dari urusan dien (agama) kalian, maka ambillah (laksanakanlah) dan jika aku memerintahkan sesuatu kepada kalian berdasar pendapatku semata, maka ketahuilah bahwa sungguh aku hanyalah manusia biasa. -Ikrimah berkata: kurang lebih seperti itu.- Al Ma'qiri berkata: maka iapun berguguran, -dan dia tidak meragukan hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6127</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 43 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6127</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 43 Hadith 185</td></tr></tbody></table></div>
 

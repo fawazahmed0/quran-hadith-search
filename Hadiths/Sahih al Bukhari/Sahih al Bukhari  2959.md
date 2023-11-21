@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zaid:that in the time (of the battle) of Al-Harra a perso
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Wuhaib] telah bercerita kepada kami ['Amru bin Yahya] dari ['Abbad bin Tamim] dari ['Abdullah bin Zaid radliallahu 'anhu] berkata: "Ketika terjadi peperangan Harrah (dan orang-orang membai'at 'Abdullah bin Hanzholah untuk kematian), ada orang yang datang kepadanya ('Abdullah bin Zaid) seraya berkata: "Sesungguhnya Ibnu Hanzholah membai'at manusia atas kematian". Maka dia berkata: "Aku tidak akan berbai'at kepada seseorang untuk hal itu kecuali kepada Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2959</td></tr><tr><td>Arabic No</td><td>2959</td></tr><tr><td>Reference</td><td>Book 56 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Зейда, да будет доволен им Аллах, что во время битвы на харре кто-то подошёл к нему и сказал: «Поистине, Ибн Ханзаля призывает людей поклясться в (том, что они будут сражаться) насмерть». (На это ‘Абдуллах ибн Зейд, да будет доволен им Аллах,) сказал: «После (смерти) Посланника Аллаха ﷺ я уже никому не стану клясться в этом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2959</td></tr><tr><td>Arabic No</td><td>2959</td></tr><tr><td>Reference</td><td>Book 56 Hadith 170</td></tr></tbody></table></div>
 

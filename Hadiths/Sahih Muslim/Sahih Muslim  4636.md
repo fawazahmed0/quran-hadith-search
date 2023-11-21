@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated through a different chain of transmitters on the authority 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ibrahim bin Sa'id Al Jauhari] telah menceritakan kepada kami [Abu Usamah] dari [Malik bin Mighwal] dari [Abu Hashin] dari [Abu Wa'il] dia berkata; aku mendengar [Sahl bin Hunaif] berkata ketika di Shifin, "Perhatikanlah diri kalian, niscaya kalian akan mengetahui perkara agama kalian, sungguh aku pernah melihat peristiwa Abu Jandal, sekiranya aku mampu menolak perintah Rasulullah shallallahu 'alaihi wasallam, niscaya kami tidak akan diberi jalan keluar dalam permusuhan tersebut, melainkan permusuhan tersebut senantiasa masih ada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4636</td></tr><tr><td>Arabic No</td><td>1785.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4636</td></tr><tr><td>Arabic No</td><td>1785.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 118</td></tr></tbody></table></div>
 

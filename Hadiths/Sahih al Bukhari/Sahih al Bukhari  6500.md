@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'adh bin Jabal:While I was riding behind the Prophet (ﷺ) as a compa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hudbah bin Khalid] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Anas bin Malik] dari [Mu'adz bin Jabal] radhilayyahu'anhu mengatakan, ketika aku dibonceng Nabi shallallahu 'alaihi wasallam, dan tidak ada penghalang antara diriku dan dia selain pelepah kayu yang diletakkan dipunggung unta, beliau berseru: "Hai Mu'adz!" 'Baik, dan aku penuhi panggilanmu Ya Rasulullah, ' Jawabku. Lantas beliau lanjutkan perjalanan beberapa saat dan berujar: "Hai Mu'adz!" 'Baik, dan aku penuhi panggilanmu hai Rasulullah, ' Jawabku. Beliau bertanya: "Apa hak Allah atas hamba-Nya?" Aku menjawab; 'Allah dan Rasul-Nya yang lebih tahu'. Beliau bersabda: "Hak Allah atas hamba-Nya adalah agar mereka beribadah kepada-Nya semurni-murninya, dan tidak menyekutukan-Nya dengan sesuatu apapun." Kemudian beliau meneruskan perjalanan dan berseru; "hai Mu'adz, ' 'Baik, dan aku penuhi panggilanmu hai Rasulullah, ' Jawabku. Tanya beliau; "Apa hak hamba atas Allah?" Kujawab; 'Allah dan rasul-Nya lah yang lebih tahu'. Beliau menjelaskan: "Hak hamba atas Allah adalah agar Dia tidak menyiksa mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6500</td></tr><tr><td>Arabic No</td><td>6500</td></tr><tr><td>Reference</td><td>Book 81 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘аз ибн Джабаль, да будет доволен им Аллах, сказал: «(Однажды) я сидел верхом (на верблюде) позади Пророк ﷺ, и между мной и им не было ничего, кроме задней части седла, которая служила ручкой (чтобы держаться). Он сказал (мне): “О Му‘аз!” Тогда я сказал: “Я повинуюсь тебе, о Посланник Аллаха, и счастлив служить тебе!” Затем он продолжил путь какое-то время. Затем он сказал (мне): “О Му‘аз!” Тогда я сказал: “Я повинуюсь тебе, о Посланник Аллаха, и счастлив служить тебе!” Затем он продолжил путь какое-то время. Затем он сказал (мне): “О Му‘аз ибн Джабаль!” Тогда я сказал: “Я повинуюсь тебе, о Посланник Аллаха, и счастлив служить тебе!” Затем он сказал (мне): “Известно ли тебе, какое право Аллаха должны соблюдать рабы Его?” Я сказал: “Аллах и Его посланник знают об этом лучше”. (Тогда) он сказал: “Право Аллаха, которое обязаны соблюдать рабы Его, (состоит) в том, что им следует поклоняться Ему (одному), не придавая Ему в сотоварищи ничего”. Затем он продолжил путь какое-то время. Затем он сказал (мне): “О Му‘аз ибн Джабаль!” Тогда я сказал: “Я повинуюсь тебе, о Посланник Аллаха, и счастлив служить тебе!” (Тогда) он сказал: “А известно ли тебе, что в праве ожидать рабы Аллаха, если они будут это совершать?” Я сказал: “Аллах и Его посланник знают об этом лучше”. И он сказал: “Право рабов Аллаха на Аллахе — то, что Он не станет подвергать их мучениям (если они притворят истинное единобожие в своей жизни)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6500</td></tr><tr><td>Arabic No</td><td>6500</td></tr><tr><td>Reference</td><td>Book 81 Hadith 89</td></tr></tbody></table></div>
 

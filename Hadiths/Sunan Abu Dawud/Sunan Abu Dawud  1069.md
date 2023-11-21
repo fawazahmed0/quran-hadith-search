@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ka'b ibn Malik: AbdurRahman ibn Ka'b ibn Malik said: When Ka'b ibn Mali
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ibnu Idris] dari [Muhammad bin Ishaq] dari [Muhammad bin Abu Umamah bin Sahl] dari [ayahnya] dari [Abdurrahman bin Ka'b bin Malik] -dia adalah seorang yang selalu menuntun ayahnya setelah ayahnya buta- dari [ayahnya yaitu Ka'ab bin Malik] bahwa apabila dia mendengar adzan pada hari jum'at, dia memohonkan rahmat untuk As'ad bin Zurarah. Lantas aku bertanya kepadanya; "Mengapa anda memohonkan rahmat untk as'ad bin Zurarah setiap kali mendengar adzan Jum'at?" jawabnya; Karena dia adalah orang yang pertama kali sebagai pelopor pelaksanaan shalat Jum'at di tengah-tengah kami di Hazmin-nabit, yang terletak di Bani Bayadhah di Baqi', yaitu Naqi'ul Khadhamat." Aku bertanya; "Berapakah jumlah kalian ketika itu?" dia menjawab; "Empat puluh orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1069</td></tr><tr><td>Arabic No</td><td>1069</td></tr><tr><td>Reference</td><td>Book 2 Hadith 680</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абду-р-Рахман, сын Ка‘ба ибн Малика, который был поводырём своего отца, когда тот ослеп, рассказывает, что каждый раз, когда его отец слышал призыв на пятничную молитву, он говорил: «Да помилует Аллах Ас‘ада ибн Зурару!» ‘Абду-р-Рахман сказал: «Однажды я спросил его: “Почему каждый раз, когда ты слышишь призыв на пятничную молитву, ты говоришь: “Да помилует Аллах Асада ибн Зурару!”?” Он ответил: “Потому что он был первым, кто собрал нас для совершения пятничной молитвы в Хазм-ан-Набите на лавовых полях бану Баяда в Накы‘-аль-Хадамате”. Я спросил: “А сколько вас было тогда?”Он ответил: “Сорок”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1069</td></tr><tr><td>Arabic No</td><td>1069</td></tr><tr><td>Reference</td><td>Book 2 Hadith 680</td></tr></tbody></table></div>
 

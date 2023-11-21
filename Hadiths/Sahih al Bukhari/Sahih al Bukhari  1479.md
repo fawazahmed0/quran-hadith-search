@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The poor person is not the o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah menceritakan kepada saya [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah Shallallahu'alaihiwasallam bersabda: "Bukanlah disebut miskin orang berkeliling meminta-minta kepada manusia dan bisa diatasi dengan satu atau dua suap makanan atau satu dua butir kurma. Akan tetapi yang disebut miskin adalah orang yang tidak mendapatkan seseorang yang bisa memenuhi kecukupannya, atau yang kondisinya tidak diketahui orang sehingga siapa tahu ada yang memberinya shedaqah atau orang yang tidak meminta-minta kepada manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1479</td></tr><tr><td>Arabic No</td><td>1479</td></tr><tr><td>Reference</td><td>Book 24 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не тот беден /мискин/, кто обходит людей, получая кусок-другой еды или один-два финика. Однако по-настоящему беден тот человек, кто не имеет достаточно средств, которых бы ему хватило, и о положении которого люди не догадываются, и потому не подают ему, а сам он не обращается с просьбами к людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1479</td></tr><tr><td>Arabic No</td><td>1479</td></tr><tr><td>Reference</td><td>Book 24 Hadith 80</td></tr></tbody></table></div>
 

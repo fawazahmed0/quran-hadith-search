@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "Free the captives, feed the hungry an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari [Abu Musa radliallahu 'anhu] berkata; Rasulullah Shallallahu'alaiwasallam bersabda: "Bebaskanlah orang yang tertahan, maksudnya tawanan, beri makanlah orang yang kelaparan dan jenguklah orang yang sakit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3046</td></tr><tr><td>Arabic No</td><td>3046</td></tr><tr><td>Reference</td><td>Book 56 Hadith 252</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Освобождайте испытывающего трудности, имея в виду находящегося в плену, кормите голодного и навещайте больного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3046</td></tr><tr><td>Arabic No</td><td>3046</td></tr><tr><td>Reference</td><td>Book 56 Hadith 252</td></tr></tbody></table></div>
 

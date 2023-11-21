@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:A woman came to Allah's Messenger (ﷺ) and said, "O Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Ya'qub] dari [Abu Hazim] dari [Sahl bin Sa'd] bahwa ada seorang wanita datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, aku datang untuk menghibahkan diriku untuk Anda." Maka Rasulullah shallallahu 'alaihi wasallam mengamati wanita dengan cermat dan setelah itu beliau menundukkan kepala. Ketika wanita itu melihat, bahwa beliau belum memberikan putusan apa-apa terhadapnya, ia pun duduk. Tiba-tiba berdirilah seorang laki-laki dari sahabat beliau dan berkata, "Wahai Rasulullah, bila Anda tak berhasrat pada wanita itu, maka nikahkanlah aku dengannya." Beliau bertanya: "Apakah kamu punya sesuatu (sebagai mahar)?" ia menjawab, "Tidak, demi Allah wahai Rasulullah." Beliau bersabda: "Kalau begitu, pergilah kepada keluargamu, dan lihatlah apakah ada sesuatu yang kamu dapatkan." Laki-laki itu pun pergi, lalu kembali dan berkata, "Tidak, demi Allah wahai Rasulullah, aku tidak mendapatkan sesuatu." Beliau bersabda: "Lihatlah meskipun itu hanya cincin dari besi." Laki-laki itu pergi lagi, lalu kembali dan berkata, "Tidak ada, demi Allah wahai Rasulullah, meskipun hanya cincin besi. Tetapi, ini adalah kainku." Sahl berkata; Ia tidaklah memiliki baju, maka calon isterinya berilah setengah sarungnya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Apa yang bisa kamu lakukan jika kau gunakan setengah sarungmu. Bila kamu memakainya, maka separoh badanmu tak tertutup kain, dan bila calon isterimu memakainya, separoh badannya pun tak tertutup kain." Akhirnya laki-laki itu pun duduk hingga lama, lalu ia beranjak hendak pergi. Kemudian Rasulullah shallallahu 'alaihi wasallam melihatnya, beliau pun memeritahkan agar orang itu dipanggil. Dan ketika laki-laki itu datang beliau bertanya: "Apa yang kamu hafal dari Al Qur'an?" laki-laki itu menjawab, "Aku menghafal surat ini dan ini." Ia menghitungnya. Kemudian beliau bersabda: "Bacalah dari hafalanmu itu untuknya." Ia menjawab, "Baik." Beliau bersabda: "Pergilah, sesungguhnya aku telah menikahkanmu dengan wanita itu dan hafalan Al Qur'anmu sebagai mahar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5126</td></tr><tr><td>Arabic No</td><td>5126</td></tr><tr><td>Reference</td><td>Book 67 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса, также передаваемой со слов Сахля бин Са‘да, да будет доволен им Аллах, сообщается, что) одна женщина пришла к Посланнику Аллаха ﷺ и сказала ему: «О Посланник Аллаха, я пришла, чтобы предложить себя тебе в дар». Посланник Аллаха ﷺ пристально посмотрел на неё, а потом опустил голову. Увидев, что (Пророк ﷺ) не принял никакого решения, эта женщина села, а один человек из числа его сподвижников поднялся (со своего места) и сказал: «О Посланник Аллаха, если ты в ней не нуждаешься, выдай её замуж за меня».\nЗатем (передатчик) привёл (вышеупомянутый) хадис, сообщив, что потом (Пророк ﷺ) спросил (этого человека): «И ты знаешь (эти суры) наизусть?» Он сказал: «Да». (Тогда Пророк ﷺ) сказал (ему): «Ступай! Я выдаю её замуж за тебя за то, чем ты владеешь из Корана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5126</td></tr><tr><td>Arabic No</td><td>5126</td></tr><tr><td>Reference</td><td>Book 67 Hadith 62</td></tr></tbody></table></div>
 

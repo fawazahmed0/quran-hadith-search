@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما), a dit : Lorsque le Prophète (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] katanya; telah mengabarkan kepadaku [Nafi'] bahwa apabila [Ibnu Umar] melakukan perjalanan antara Maghrib dan Isyak', yaitu setelah mega merah menghilang, dia akan mengatakan; "Jika Rasulullah shallallahu 'alaihi wasallam melakukan perjalanan, maka beliau menjamak antara Maghrib dan isya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1622</td></tr><tr><td>Arabic No</td><td>703.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Нафи‘а, что, когда Ибн ‘Умар спешил во время путешествия, он объединял между закатной и вечерней молитвой, после того, как исчезала вечерняя заря, и говорил: «Поистине, когда Посланник Аллаха ﷺ спешил во время путешествия, он объединял между закатной и вечерней молитвой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1622</td></tr><tr><td>Arabic No</td><td>703.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 53</td></tr></tbody></table></div>
 

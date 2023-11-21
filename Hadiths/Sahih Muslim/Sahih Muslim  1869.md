@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibrahim reported that the Messenger of Allah (ﷺ) asked 'Abdullah b. Mas'ud to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepadaku [Mis'ar] - [Abu Kuraib] - berkata, dari [Mis'ari] dari [Amru bin Murrah] dari [Ibrahim] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda kepada [Abdullah bin Mas'ud]: "Bacakanlah Al Qur'an kepadaku." Abdullah bertanya, "Apakah saya akan membacakannya kepada Anda, sementara Al Qur'an diturunkan kepada Anda?" beliau bersabda: "Saya suka untuk mendengarnya dari orang lain." Maka Abdullah bin Mas'ud pun membaca ayat pertama surat An Nisa' hingga ayat: "Maka bagaimanakah (halnya orang kafir nanti), apabila kami mendatangkan seseorang saksi (rasul) dari tiap-tiap umat dan kami mendatangkan kamu (Muhammad) sebagai saksi atas mereka itu (sebagai umatmu)." Maka beliau pun menangis. [Mis'ar] berkata; telah menceritakan kepadaku [Ma'n] dari [Ja'far bin Amru bin Huraits] dari [bapaknya] dari [Ibnu Mas'ud] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda kepada: "(Saya) menjadi saksi, selama aku hidup di tengah-tengah mereka. -atau- selama aku masih berada di tengah-tengah mereka." Mis'ar ragu (diantara dua pernyataan tersebut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1869</td></tr><tr><td>Arabic No</td><td>800.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 297</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибрахима, что (однажды) Пророк ﷺ сказал ‘Абдуллаху ибн Мас‘уду: «Почитай мне (Коран)». Он воскликнул: «(Как я могу) читать его тебе, когда тебе он был ниспослан?!» (Пророк ﷺ) ответил: «Поистине, я хочу послушать его от кого-нибудь другого». Тогда он (начал) читать ему сначала суры “ан-Ниса”, а когда дошёл до аята(, в котором сказано): “И как же будет (положение людей), когда приведём Мы приведём от каждой общины по свидетелю и приведём тебя как свидетеля против них?!” (Сура «ан-Ниса», аят 41), он (Пророк ﷺ) заплакал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1869</td></tr><tr><td>Arabic No</td><td>800.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 297</td></tr></tbody></table></div>
 

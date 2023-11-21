@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud:The Prophet (ﷺ) prohibited taking the price of a dog, the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Abu Bakr bin Abdurrahman] dari [Abu Mas'ud] radliallahu 'anhu, ia berkata; Nabi shallallahu 'alaihi wasallam melarang untuk memakan hasil keuntungan dari anjing, dan dukun dan pelacur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5346</td></tr><tr><td>Arabic No</td><td>5346</td></tr><tr><td>Reference</td><td>Book 68 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мас‘уда, что Пророк ﷺ запретил (брать) деньги за собаку, а также заработок предсказателя и блудницы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5346</td></tr><tr><td>Arabic No</td><td>5346</td></tr><tr><td>Reference</td><td>Book 68 Hadith 91</td></tr></tbody></table></div>
 

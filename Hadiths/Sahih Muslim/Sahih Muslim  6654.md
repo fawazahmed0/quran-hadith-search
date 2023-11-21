@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:When any one of you fight
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia mendengar [Abu Ayyub] bercerita dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Apabila salah seorang darimu berkelahi dengan saudaranya yang muslim, maka janganlah menampar wajah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6654</td></tr><tr><td>Arabic No</td><td>2612.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6654</td></tr><tr><td>Arabic No</td><td>2612.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 151</td></tr></tbody></table></div>
 

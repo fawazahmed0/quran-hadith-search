@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Asma' daughter of Abu Bakr said:I heard a woman asking the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Fathimah binti Al Mundzir] dari [Asma' binti Abu Bakr] dia berkata; Saya pernah mendengar seorang wanita bertanya kepada Rasulullah shallallahu 'alaihi wasallam; Bagaimana seharusnya tindakan salah seorang dari kami, kalau melihat kainnya bersih? Apakah boleh dia pakai untuk shalat? Beliau bersabda: "Lihat dulu, kalau dia melihat ada darah, maka hendaklah menggosoknya dengan sedikit air, dan memerciknya kalau tidak melihat ada darah. setelah itu, shalatlah dia dengan kain tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>360</td></tr><tr><td>Arabic No</td><td>360</td></tr><tr><td>Reference</td><td>Book 1 Hadith 360</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асмаъ бинт Абу Бакр сказала: «Я слышала, как одна женщина спросила Посланника Аллаха ﷺ: “Что делать одной из нас со своей одеждой, если она увидит, что очистилась (от менструаций)? Можно ли ей молиться в ней?” Он ответил: “Она посмотрит (на свою одежду), и если увидит на ней (следы) крови, пусть растирает ее наливая на нее воду и побрызгает то место, которое не заметно, а затем совершит в ней молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>360</td></tr><tr><td>Arabic No</td><td>360</td></tr><tr><td>Reference</td><td>Book 1 Hadith 360</td></tr></tbody></table></div>
 

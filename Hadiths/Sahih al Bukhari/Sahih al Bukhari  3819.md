@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Isma'il:I asked 'Abdullah bin Abi 'Aufa, "Did the Prophet (ﷺ) give gl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Isma'il] berkata; Aku bertanya kepada ['Abdullah bin Abu Awfaa radliallahu 'anhu]; "Apakah Nabi shallallahu 'alaihi wasallam pernah memberi kabar gembira kepada Khadijah?" Dia menjawab; "Ya pernah, berupa rumah yang terbuat dari mutiara (di surga kelak) yang isinya tidak ada suara hirup pikuk dan kelelahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3819</td></tr><tr><td>Arabic No</td><td>3819</td></tr><tr><td>Reference</td><td>Book 63 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Исма‘иль сказал: «Я спросил ‘Абдуллаха ибн Абу Ауфа, да будет доволен Аллах им и его отцом: “Обрадовал ли Пророк ﷺ Хадиджу?” Он ответил: “Да, он обрадовал её вестью о доме из полого жемчуга (, который ждёт её) в Раю и в котором не будет ни шума, ни усталости”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3819</td></tr><tr><td>Arabic No</td><td>3819</td></tr><tr><td>Reference</td><td>Book 63 Hadith 44</td></tr></tbody></table></div>
 

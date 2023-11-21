@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), on amena à l'Envoy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Hakam bin Musa Abu Shalih] telah menceritakan kepada kami [Syua'ib bin Ishaq] telah mengabarkan kepada kami ['Ubaidullah] dari [Nafi'] bahwa [Abdullah bin Umar] telah mengabarkan kepadanya, bahwa seorang laki-laki dan seorang wanita dihadapkan kepada Rasulullah shallallahu 'alaihi wasallam karena keduanya dituduh telah berbuat zina. Rasulullah shallallahu 'alaihi wasallam lantas pergi hingga menemui orang-orang Yahudi, beliau kemudian bertanya: "Apa yang kalian ketahui dalam Taurat tentang hukuman bagi orang yang telah berzina?" mereka menjawab: "Kami lumuri muka mereka dengan arang, kemudian kami naikkan kedua orang tersebut ke atas kendaraan dengan posisi berbelakang-belakangan lalu diarak keliling kota." Beliau bersabda: "Jika kalian benar, coba perlihatkan kitab Tauratmu." Lalu mereka bawa kitab Taurat dan mereka membacanya di hadapan beliau. Ketika bacaannya sampai kepada ayat rajam, pemuda yang membacanya meletakkan tangannya agar bisa menutupi ayat tersebut hingga lewat sampai ayat berikutnya. Tetapi Abdullah bin Salam, yang ketika itu mendampingi Rasulullah shallallahu 'alaihi wasallam berkata, "Wahai Rasulullah, suruhlah dia mengangkat tangannya." Ketika pemuda itu mengangkat tangannya, ternyata di bawah tangannya terdapat ayat rajam. Kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan supaya keduanya dihukum rajam, akhirnya keduanya dihukum rajam." Abdullah bin Umar berkata, "Aku ikut serta merajam keduanya, aku lihat yang laki-laki berusaha melindungi wanita (ya) dengan tubuhnya dari lemparan-lemparan batu." Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] -yaitu Ibnu 'Ulayyah- dari [Ayyub]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abu At Thahir] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku tokoh laki-laki dari alim ulama, di antaranya adalah [Malik bin Anas], bahwa [Nafi'] telah mengabarkan kepada mereka dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam pernah merajam laki-laki dan wanita Yahudi yang ketahuan berzina, lalu orang-orang Yahudi menyerahkan keduanya kepada Rasulullah shallallahu 'alaihi wasallam …lalu mereka melanjutkan hadits seperti hadits di atas." Dan telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu Umar], bahwa orang-orang Yahudi datang kepada Rasulullah shallallahu 'alaihi wasallam dengan membawa seorang laki-laki dan seorang wanita yang telah berzina…lalu dia menyebutkan sebagaimana hadits Ubaidullah dari Nafi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4437</td></tr><tr><td>Arabic No</td><td>1699.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4437</td></tr><tr><td>Arabic No</td><td>1699.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 40</td></tr></tbody></table></div>
 

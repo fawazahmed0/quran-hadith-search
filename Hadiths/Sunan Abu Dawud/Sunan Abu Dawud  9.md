@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Ayyub :That he (the Holy Prophet, sal Allahu alayhi wa sallam) said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] telah menceritakan kepada kami [Sufyan] dari [az Zuhri] dari ['Atha' bin Yazid al Laitsi] dari [Abu Ayyub] yang dia riwayatkan dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Apabila kalian mendatangi tempat buang hajat, maka janganlah kalian menghadap kiblat pada saat buang air besar dan buang air kecil, akan tetapi menghadaplah ke timur atau ke barat." Lalu kami datang ke Syam, ternyata kami dapati tempat-tempat buang hajat telah dibangun menghadap kiblat, maka kami berpaling darinya dan memohon ampun kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (394) Sahih Muslim (264)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Arabic No</td><td>9</td></tr><tr><td>Reference</td><td>Book 1 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В версии от Абу Аййуба сообщается, что (Посланник Аллаха ﷺ) сказал: «Когда вы отправитесь в отхожее место, то не поворачивайтесь в сторону къиблы, справляя как большую, так и малую нужду. Однако поворачивайтесь в сторону востока или запада». И когда мы отправились в аш-Шам, то нашли, что там туалеты были построены в направлении къиблы, и мы отворачивались от нее и просили Аллаха о прощении
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (394) Sahih Muslim (264)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Arabic No</td><td>9</td></tr><tr><td>Reference</td><td>Book 1 Hadith 9</td></tr></tbody></table></div>
 

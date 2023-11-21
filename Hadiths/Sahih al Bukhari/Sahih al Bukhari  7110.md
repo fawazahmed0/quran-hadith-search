@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Harmala:(Usama's Maula) Usama (bin Zaid) sent me to 'Ali (at Kufa) and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] mengatakan, ['Amru] mengatakan, Telah mengabarkan kepadaku [Muhammad bin Ali], bahwasanya [Harmalah] maula Usamah mengabarkan kepadanya. 'Amru berkata; aku pernah melihat Harmalah mengatakan; [Usamah] mengutusku menemui Ali, dan dia mengatakan; 'Sesungguhnya Ali pasti akan bertanya kepadamu sekarang, dia berkata; 'Apa yang menyebabkan kawanmu tidak berangkat bersama aku? ' maka katakan kepadanya; 'kalaulah aku dalam mulut singa, niscaya aku ingin bersamamu, namun ini adalah sebuah masalah yang belum pernah kulihat sama sekali sebelumnya.' Ali tidak memberiku perbekalan apa-apa, karenanya aku pun pergi ke Al Hasan dan Al Husain serta Ibnu Ja'far, dan mereka memberi perbekalan-perbekalan diatas kendaraanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7110</td></tr><tr><td>Arabic No</td><td>7110</td></tr><tr><td>Reference</td><td>Book 92 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр (ибн Динар аль-Маккий) сказал: \n— Однажды я видел Хармалю, который сказал: «Однажды Усама (ибн Зейд) послал меня к ‘Али (ибн Абу Талибу) и сказал: “Поистине, (‘Али) сейчас спросит тебя: “Что помешало твоему товарищу (присоединиться ко мне)?”, — а ты ответь ему: “Он передаёт тебе: ‹Если бы ты оказался в пасти льва, я непременно пожелал бы оказаться там вместе с тобой, но (участие) в этом деле, я не считаю (правильным)›””. (Я отправился к ‘Али, передал ему эти слова), а он не дал мне ничего. Затем я отправился к Хасану, Хусейну и (‘Абдуллах) ибн Джа‘фару, и они нагрузили мою верблюдицу (ценным имуществом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7110</td></tr><tr><td>Arabic No</td><td>7110</td></tr><tr><td>Reference</td><td>Book 92 Hadith 57</td></tr></tbody></table></div>
 

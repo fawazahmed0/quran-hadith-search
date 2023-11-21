@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:I never heard Allah's Messenger (ﷺ) saying, "Let my father and m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepadaku [Sa'd bin Ibrahim] dari [Abdullah bin Syaddad] dari [Ali] radliallahu 'anhu dia berkata; "Saya belum pernah mendengar Rasulullah shallallahu 'alaihi wasallam menjadikan tebusan kepada salah seorang pun melainkan kepada Sa'd, beliau bersabda: "Lemparlah, demi ayah dan ibuku sebagai tebusanmu." Aku mengira peristiwa itu terjadi pada waktu perang Uhud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6184</td></tr><tr><td>Arabic No</td><td>6184</td></tr><tr><td>Reference</td><td>Book 78 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Я не слышал, чтобы ради кого-нибудь Посланник Аллаха ﷺ упомянул своих обоих родителей, кроме Са‘да. Я слышал, как он говорил: “О Са’д, стреляй, да станут мои отец и мать выкупом за тебя!” — думаю, что это было в день битвы при Ухуде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6184</td></tr><tr><td>Arabic No</td><td>6184</td></tr><tr><td>Reference</td><td>Book 78 Hadith 208</td></tr></tbody></table></div>
 

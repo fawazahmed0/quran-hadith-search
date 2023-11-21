@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:The people of Medina asked Ibn 'Abbas about a woman who got her
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari ['Ikrimah] bahwa sebagian penduduk Madinah bertanya kepada [Ibnu 'Abbas radliallahu 'anhuma] tentang seorang wanita yang melaksanakan thawaf kemudian mengalami haidh. Dia berkata, kepada mereka: "Dia boleh berangkat (pulang) ". Mereka berkata: "Kami tidak mengambil pendapatmu namun kami mengambil pendapat Zaid". Ibnu 'Abbas radliallahu 'anhuma berkata: "Jika kalian telah sampai di Madinah bertanyalah?". Ketika telah tiba di Madinah mereka bertanya dan diantara orang yang mereka tanya adalah Ummu Sulaim. Lalu Ummu Sulaim menyebutkan hadits Shafiyah yang diriwayatkan oleh [Khalid] dan [Qatadah] dari ['Ikrimah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1759</td></tr><tr><td>Arabic No</td><td>1759</td></tr><tr><td>Reference</td><td>Book 25 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Икримы, что жители Медины спросили Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, о женщине, у которой началась менструация после того, как она совершила таваф. Он ответил им: «Она может уехать (из Мекки)». Тогда люди сказали: «Мы не примем твои слова (постановление), оставив слова Зейда». Ибн ‘Аббас сказал: «Когда прибудете в Медину, спросите об этом». Когда они прибыли в Медину, они спросили об этом, и одним из тех, кого они спросили, была Умм Сулейм, и она рассказала им хадис о Сафии
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1759</td></tr><tr><td>Arabic No</td><td>1759</td></tr><tr><td>Reference</td><td>Book 25 Hadith 236</td></tr></tbody></table></div>
 

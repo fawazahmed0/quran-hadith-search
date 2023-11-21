@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father:Once Gabriel promised to visit the Prophet (ﷺ) but he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] dia berkata; telah menceritakan kepadaku [Ibnu Wahb] dia berkata; telah menceritakan kepadaku [Umar yaitu Ibnu Muhammad] dari [Salim] dari [Ayahnya] dia berkata; "Jibril pernah berjanji kepada Nabi shallallahu 'alaihi wasallam, namun Jibril terlambat datang hingga Nabi shallallahu 'alaihi wasallam menunggu sangat lama, lalu Nabi shallallahu 'alaihi wasallam keluar dan menemuinya lalu menanyakan sebenarnya apa yang tengah terjadi, maka Jibril berkata kepada beliau: "Sesungguhnya kami tidak memasuki rumah yang di dalamnya terdapat gambar dan anjing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5960</td></tr><tr><td>Arabic No</td><td>5960</td></tr><tr><td>Reference</td><td>Book 77 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Салима, что его отец сказал: «Однажды Джибриль пообещал Пророку ﷺ, (что посетит его,) но не пришёл, от чего Пророк ﷺ стал тревожится. Выйдя из дома, Пророк ﷺ встретил его и пожаловался ему на своё состояние, а (Джибриль) сказал: “Мы (ангелы), не входим в дом, в котором есть изображения или собака”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5960</td></tr><tr><td>Arabic No</td><td>5960</td></tr><tr><td>Reference</td><td>Book 77 Hadith 176</td></tr></tbody></table></div>
 

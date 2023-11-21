@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported:We were with the Messenger of Allah (ﷺ) in a journey 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1564</td></tr><tr><td>Arabic No</td><td>682.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 397</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Имран ибн Хусайн сказал: «(Однажды,) находясь в пути вместе с Посланником Аллаха ﷺ мы передвигались ночью, пока в конце её не (достигли одного места, где) упали (на землю от усталости), и нет для путника ничего слаще этого. (И мы заснули так крепко, что) разбудила нас только жара (, так как уже поднялось солнце)…». Далее подобно предыдущему хадису, но с небольшими изменениями.Также он сказал в этом хадисе: «…Когда ‘Умар ибн аль-Хаттаб, который был выносливым человеком, проснулся и увидел, что происходит с людьми, он громко закричал: “Аллах велик”, и продолжал кричать до тех пор, пока от его крика не проснулся Посланник Аллаха ﷺ, которому люди стали жаловаться на то, что их постигло. Он сказал: “Не беда (или: Это не повредит вам), отправляйтесь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1564</td></tr><tr><td>Arabic No</td><td>682.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 397</td></tr></tbody></table></div>
 

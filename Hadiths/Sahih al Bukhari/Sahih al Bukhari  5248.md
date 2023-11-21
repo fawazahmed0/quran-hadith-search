@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim:The people differed about the type of treatment which had bee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Sufyan] dari [Abu Hazim] ia berkata; Orang-orang berselisih, dengan obat apa luka Rasulullah shallallahu 'alaihi wasallam diobati pada perang Uhud. Mereka bertanya kepada [Sahl bin Sa'd As Sa'idi] -ia termasuk salah seorang sahabat yang paling akhir wafat di Madinah- ia pun berkata; "Tidak ada seorang pun yang lebih tahu tentangnya melebihi aku. Fathimah 'Alaihas Salam membersihkan luka dari wajah beliau, sementara Ali datang membawakan air dengan menggunakan tameng. Kemudian diambillah sehelai tikar lalu dirobek dan digunakan untuk membalut lukanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5248</td></tr><tr><td>Arabic No</td><td>5248</td></tr><tr><td>Reference</td><td>Book 67 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хазим рассказывал: «Когда между людьми возникли разногласия относительно того, чем лечили рану Посланника Аллаха ﷺ в день битвы при Ухуде, они спросили об этом Сахля ибн Са‘да ас-Са‘иди, который был последним оставшимся в живых сподвижником Пророка ﷺ в Медине. Он сказал: “Сейчас уже не осталось никого, кто знал бы об этом лучше меня. Фатыма, мир ей, смывала кровь с его лица, ‘Али же приносил в своём щите воду, а потом (они) взяли циновку, сожгли её и приложили (золу) к ране Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5248</td></tr><tr><td>Arabic No</td><td>5248</td></tr><tr><td>Reference</td><td>Book 67 Hadith 181</td></tr></tbody></table></div>
 

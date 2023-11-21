@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:That he asked 'Aisha regarding the Verse: 'If you fear that you s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah menceritakan kepada kami [Syu'aib] dari [Az Zuhri] mengatakan, [Urwah] menceritakan; ia bertanya [Aisyah] tentang ayat; 'Jika kalian khawatir tidak bisa berbuat adil terhadap yatimmu, maka nikahilah wanita yang baik-baik bagimu, dua, tiga, atau empat (QS. Annisa'; 3) dia mengatakan; 'yaitu yatim dalam asuhan walinya, dan si wali tersebut kurang menyukai kecantikan dan hartanya, namun tetap akan ia nikahi dengan syarat membayar mahar serendah-rendahnya yang menyalahi adat normal. Maka mereka dilarang menikahi anak-anak yatim tersebut kecuali jika berbuat adil dengan membayar mahar secara sempurna, lantas para sahabat bertanya kepada Rasulullah shallallahu 'alaihi wasallam di kemudian hari, maka Allah menurunkan ayat; 'Mereka meminta fatwa kepadamu,,, dan seterusnya (QS. Annisa' 127), kemudian dia menyebutkan hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6965</td></tr><tr><td>Arabic No</td><td>6965</td></tr><tr><td>Reference</td><td>Book 90 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва спросил ‘Аишу о словах Всевышнего «Если вы боитесь, что не будете справедливы к сиротам, то женитесь на других женщинах, которые нравятся вам…». Она сказала: «Речь идёт о сироте, которую воспитывает её опекун, а его привлекает её богатство и красота, и он желает жениться на ней, дав ей меньше махра (брачный дар), чем обычно дают подобным женщинам другие. Им было запрещено жениться на них, если только они не станут соблюдать справедливость в том, что касается махра и не дадут им предельно высокий (для им подобных) махр. А потом люди начали спрашивать Посланника Аллаха ﷺ (о женщинах). И Аллах ниспослал: “Они просят тебя вынести решение относительно женщин…” (сура «ан-Ниса», аят 127)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6965</td></tr><tr><td>Arabic No</td><td>6965</td></tr><tr><td>Reference</td><td>Book 90 Hadith 12</td></tr></tbody></table></div>
 

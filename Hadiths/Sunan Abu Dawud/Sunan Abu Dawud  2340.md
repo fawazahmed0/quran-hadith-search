@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: A bedouin came to the Prophet (ﷺ) and said: I hav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Bakkar bin Ar Rayyan], telah menceritakan kepada kami [Al Walid bin Abu Tsaur], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Al Husain Al Ju'fi] dari [Zaidah] secara makna, dari [Simak], dari [Ikrimah] dari [Ibnu Abbas], ia berkata; seorang badui telah datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; sesungguhnya aku telah melihat Hilal -Al Hasan dalam haditsnya mengatakan; yaitu Hilal Ramadhan-, kemudian beliau berkata; apakah engkau bersaksi bahwa tidak ada tuhan yang berhak disembah disembah kecuali Allah? Ia berkata; ya. Beliau berkata; apakah engkau bersaksi bahwa Muhammad adalah Rasulullah? Ia berkata; ya. Beliau berkata; wahai Bilal, umumkan kepada orang-orang agar mereka berpuasa besok
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2340</td></tr><tr><td>Arabic No</td><td>2340</td></tr><tr><td>Reference</td><td>Book 14 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Однажды к Пророку ﷺ пришёл какой-то бедуин и сказал: “Я видел народившийся месяц”». Аль-Хасан сказал: «Это был народившийся месяц рамадана». (Посланник Аллаха ﷺ) сказал этому бедуину: «Свидетельствуешь ли ты, что нет бога [заслуживающего поклонение], кроме Аллаха?» Тот ответил: «Да». Тогда (Посланник Аллаха ﷺ) спросил: «Свидетельствуешь ли ты, что я Посланник Аллаха?» Он ответил: «Да». (Посланник Аллаха ﷺ) сказал: «О Биляль! Объяви людям, чтобы завтра начинали поститься»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2340</td></tr><tr><td>Arabic No</td><td>2340</td></tr><tr><td>Reference</td><td>Book 14 Hadith 28</td></tr></tbody></table></div>
 

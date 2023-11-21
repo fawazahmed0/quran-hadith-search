@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:"One night Allah's Messenger (ﷺ) led us in the 'Isha' praye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Yunus] dari [Az Zuhri], [Salim] berkata, ['Abdullah] mengabarkan kepadaku, ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah memimpin kami melaksanakan shalat 'Isya pada waktu yang orang-orang menyebutnya dengan sebutan 'Atamah. Selesai shalat beliau berpaling dan menghadap ke arah kami seraya bertanya: "Tidakkah kalian melihat malam kalian ini? Ketahuilah, sesungguhnya pada setiap seratus tahun tidak ada seorang pun yang hidup di atas bumi akan tersisa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>564</td></tr><tr><td>Arabic No</td><td>564</td></tr><tr><td>Reference</td><td>Book 9 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн ‘Умар), да будет доволен Аллах ими обоими, сказал: «(Однажды) ночью Посланник Аллаха ﷺ совершил с нами вечернюю /‘ишаъ/ молитву, а это та (молитва), которую люди называют “аль-‘атама”. Когда же он закончил (молитву), он повернулся к нам и сказал: “Понимаете ли вы, что это за ночь? Поистине, через сто лет после этой (ночи), не останется на земле ни одного из живущих на ней (ныне)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>564</td></tr><tr><td>Arabic No</td><td>564</td></tr><tr><td>Reference</td><td>Book 9 Hadith 41</td></tr></tbody></table></div>
 

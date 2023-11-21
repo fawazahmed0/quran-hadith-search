@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "Do not abuse the dead, for they have re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Ja'd] telah mengabarkan kepada kami [Syu'bah] dari [Al A'masy] dari [Mujahid] dari ['Aisyah] mengatakan, Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mencaci orang yang telah mati, sebab mereka telah menghadapi apa yang mereka lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6516</td></tr><tr><td>Arabic No</td><td>6516</td></tr><tr><td>Reference</td><td>Book 81 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Пророк ﷺ сказал: «Не ругайте покойных, ибо они уже отправились к тому, что уготовили для себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6516</td></tr><tr><td>Arabic No</td><td>6516</td></tr><tr><td>Reference</td><td>Book 81 Hadith 105</td></tr></tbody></table></div>
 

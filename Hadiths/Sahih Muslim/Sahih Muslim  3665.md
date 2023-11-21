@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported:I divorced my wife while she was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar]. Ibnu Mutsanna mengatakan; Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia berkata; Saya mendengar [Yunus bin Jubair] berkata; Saya mendengar [Ibnu Umar] berkata; Saya pernah menceraikan istriku yang sedang haidl, lantas Umar mendatangi Nabi shallallahu 'alaihi wasallam dan melaporkan hal itu kepadanya, kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Suruhlah dia (Ibnu Umar) merujuknya, jika istrinya telah suci, maka dia boleh mentalaknya." Dia (Yunus) berkata; Maka saya bertanya kepada Ibnu Umar; Apakah seorang istri harus menjalani masa iddahnya seperti itu? Dia menjawab; Apa kiranya yang menghalangi jatuhnya talak! Meskipun dia tidak mampu rujuk dan melakukan kebodohan?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3665</td></tr><tr><td>Arabic No</td><td>1471.14</td></tr><tr><td>Reference</td><td>Book 18 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3665</td></tr><tr><td>Arabic No</td><td>1471.14</td></tr><tr><td>Reference</td><td>Book 18 Hadith 14</td></tr></tbody></table></div>
 

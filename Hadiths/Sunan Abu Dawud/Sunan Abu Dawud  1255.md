@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Prophet (ﷺ) would pray two rak'ahs before the dawn prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Syu'aib Al Harrani] telah menceritakan kepada kami [Zuhair bin Mu'awiyah] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Muhammad bin Abdurrahman] dari ['Amrah] dari [Aisyah] dia berkata; "Nabi shallallahu 'alaihi wasallam biasa mempersingkat (shalat) dua raka'at sebelum fajar, sehingga aku berkata (dalam hati), apakah beliau hanya membaca al Fatihah saja dalam dua raka'at tersebut?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1171) Sahih Muslim (724)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1255</td></tr><tr><td>Arabic No</td><td>1255</td></tr><tr><td>Reference</td><td>Book 5 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах: «Совершая два рак‘ата перед обязательной утренней молитвой, Пророк ﷺ делал их настолько лёгкими, что порой я даже задавалась вопросом: а прочитал ли он в них “умм аль-Кур‘ан”?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1171) Sahih Muslim (724)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1255</td></tr><tr><td>Arabic No</td><td>1255</td></tr><tr><td>Reference</td><td>Book 5 Hadith 6</td></tr></tbody></table></div>
 

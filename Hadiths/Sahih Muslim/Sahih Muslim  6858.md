@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Agharr al-Muzani, who was one amongst the Companions (of the Holy Prophet) re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Sa'id] dan [Abu Ar Rabi' Al 'Ataki] semuanya dari [Hammad], Yahya berkata; telah mengabarkan kepada kami Hammad bin Zaid dari [Tsabit] dari [Abu Burdah] dari [Al Aghar Al Muzanni], -salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam, - Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya hatiku tidak pernah lalai dari dzikir kepada Allah, susungguhnya Aku beristighfar seratus kali dalam sehari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6858</td></tr><tr><td>Arabic No</td><td>2702.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6858</td></tr><tr><td>Arabic No</td><td>2702.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 52</td></tr></tbody></table></div>
 

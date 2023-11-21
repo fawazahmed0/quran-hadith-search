@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : At-Tufayl et ses compagnons vinrent tr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Al Mughirah bin 'Abdur Rahman] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dia berkata; "Thufail dan para sahabatnya mendatangi Rasulullah lalu berkata; Ya Rasulullah, sesungguhnya kabilah Daus telah kafir dan membangkang. Oleh karena itu, berdoalah kepada Allah agar mereka mendapatkan kecelakaan.' Seseorang berkata; "Binasalah Kabilah Daus!" Tetapi Rasulullah shallallahu 'alaihi wasallam berdoa: "Ya Allah, berikanlah petunjuk kepada kabilah Daus dan datangkanlah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6450</td></tr><tr><td>Arabic No</td><td>2524</td></tr><tr><td>Reference</td><td>Book 44 Hadith 279</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6450</td></tr><tr><td>Arabic No</td><td>2524</td></tr><tr><td>Reference</td><td>Book 44 Hadith 279</td></tr></tbody></table></div>
 

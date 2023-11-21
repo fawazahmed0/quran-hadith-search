@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The hand of a thief was not cut off during the lifetime of the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abi Syaibah] telah menceritakan kepada kami ['Abdah] dari [Hisyam bin 'Urwah] dari [ayahnya] mengatakan, telah mengabarkan kepadaku ['Aisyah]; bahwa tangan pencuri tidak dipotong di zaman Nabi shallallahu 'alaihi wasallam kecuali jika telah mencapai senilai harga perisai. Telah menceritakan kepada kami [Utsman] telah menceritakan kepada kami [Humaid bin Abdurrahman] telah menceritakan kepada kami [Hisyam] dari [ayahnya] dari ['Aisyah] semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6792</td></tr><tr><td>Arabic No</td><td>6792</td></tr><tr><td>Reference</td><td>Book 86 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что при жизни Пророка ﷺ руку вора отрубали за (кражу) того, что стоило не меньше щита
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6792</td></tr><tr><td>Arabic No</td><td>6792</td></tr><tr><td>Reference</td><td>Book 86 Hadith 21</td></tr></tbody></table></div>
 

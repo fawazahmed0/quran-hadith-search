@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir reported the Prophet (ﷺ) as saying:What a good condiment vinegar is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Mu'awiyah bin Hisyam] telah menceritakan kepada kami [Sufyan] dari [Muharib bin Ditsar] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sebaik-baik lauk adalah cuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3820</td></tr><tr><td>Arabic No</td><td>3820</td></tr><tr><td>Reference</td><td>Book 28 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира, да будет доволен Аллах им и его отцом, что однажды Пророк ﷺ сказал: «Прекрасная приправа уксус!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3820</td></tr><tr><td>Arabic No</td><td>3820</td></tr><tr><td>Reference</td><td>Book 28 Hadith 85</td></tr></tbody></table></div>
 

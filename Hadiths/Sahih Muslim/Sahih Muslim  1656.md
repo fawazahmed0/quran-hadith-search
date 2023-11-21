@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn 'Abdillâh (رضي الله عنهما) a dit : "Le Prophète (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Jawwash Al Hanafi Abu 'Ashim] telah menceritakan kepada kami ['Ubaidullah Al Asyja'i] dari [Sufyan] dari [Muharib bin Ditsar] dari [Jabir bin Abdullah] katanya; Nabi shallallahu 'alaihi wasallam pernah mempunyai hutang kepadaku, maka beliau melunasiku dan bahkan memberiku tambahan. Setelah aku masuk masjid menemuinya, tiba-tiba beliau bersabda: "Shalatlah dua rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1656</td></tr><tr><td>Arabic No</td><td>715.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «Когда Пророка ﷺ задолжал мне, он (не только) рассчитался со мной, но и прибавил. Я зашёл к нему в мечеть, и он сказал мне: “Соверши молитву в два рак‘ата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1656</td></tr><tr><td>Arabic No</td><td>715.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 86</td></tr></tbody></table></div>
 

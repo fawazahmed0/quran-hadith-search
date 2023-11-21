@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: I said to the Prophet (ﷺ): It is enough for yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sufyan] ia berkata; telah menceritakan kepadaku [Ali Ibnul Aqmar] dari [Abu Hudzaifah] dari ['Aisyah] ia berkata; aku berkata kepada Nabi shallallahu 'alaihi wasallam, "cukuplah Shafiah bagimu seperti ini dan seperti ini- maksudnya pendek-." Beliau lalu bersabda: "Sungguh engkau telah mengatakan suatu kalimat, sekiranya itu dicampur dengan air laut maka ia akan dapat menjadikannya berubah tawar." 'Aisyah berkata, "Aku juga pernah mencerikan orang lain kepada beliau, tetapi beliau balik berkata, "Aku tidak menceritakan perihal orang lain meskipun aku beri begini dan begini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4875</td></tr><tr><td>Arabic No</td><td>4875</td></tr><tr><td>Reference</td><td>Book 43 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Аиша, да будет доволен ею Аллах, сказала: (Однажды) я сказала Пророку ﷺ: «Достаточно тебе и того, что Сафийа такая-то и такая-то!» Один из передатчиков (этого хадиса) сказал: «Она имела в виду (, что Сафийа) мала ростом». (Аиша, да будет доволен ею Аллах, сказала): (Услышав это, Пророк ﷺ) воскликнул: «Поистине, ты сказала (такое), что (осквернило бы) собой (целое) море, если бы смешалось с ним!» (Аиша, да будет доволен ею Аллах, сказала): А (однажды) я (стала изображать) перед ним одного человека (, передразнивая его), и (Пророк ﷺ) сказал: «Не хочу я, чтобы передо мной изображали кого бы то ни было, даже если (дадут) мне за это то-то и то-то!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4875</td></tr><tr><td>Arabic No</td><td>4875</td></tr><tr><td>Reference</td><td>Book 43 Hadith 103</td></tr></tbody></table></div>
 

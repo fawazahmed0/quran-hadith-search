@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mughaffal: The Prophet (ﷺ) said: Were dogs not a species
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yazid], telah menceritakan kepada kami [Yunus], dari [Al Hasan], dari [Abdullah bin Mughaffal], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seandainya anjing itu tidak termasuk salah satu umat diantara berbagai umat, niscaya aku diperintahkan untuk membunuhnya. Bunuhlah anjing yang hitam pekat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2845</td></tr><tr><td>Arabic No</td><td>2845</td></tr><tr><td>Reference</td><td>Book 17 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн Мугаффаля, что Посланник Аллаха ﷺ сказал: «Если бы собаки не были одной из общин, я велел бы убивать их. Убивайте же полностью чёрных собак»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2845</td></tr><tr><td>Arabic No</td><td>2845</td></tr><tr><td>Reference</td><td>Book 17 Hadith 2</td></tr></tbody></table></div>
 

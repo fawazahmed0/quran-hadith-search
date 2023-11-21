@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:During the holy battle of Khaibar the Prophet (ﷺ) said, "Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] berkata, telah menceritakan kepadaku [Nafi'] dari [Ibnu 'Umar] radliallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wasallam bersabda saat terjadinya perang Khaibar: "Barangsiapa memakan dari pohon ini, yaitu bawang putih, maka jangan sekali-kali dia mendekati masjid kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>853</td></tr><tr><td>Arabic No</td><td>853</td></tr><tr><td>Reference</td><td>Book 10 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал во время похода на Хайбар: «Пусть тот, кто поел из этого растения (он имел в виду чеснок), не приближается к нашей мечети!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>853</td></tr><tr><td>Arabic No</td><td>853</td></tr><tr><td>Reference</td><td>Book 10 Hadith 244</td></tr></tbody></table></div>
 

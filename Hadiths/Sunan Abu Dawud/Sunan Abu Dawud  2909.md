@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Usamah b. Zaid:The Prophet (ﷺ) as saying: A Muslim may not inherit fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Ali bin Husain] dari ['Amr bin Utsman] dari [Usamah bin Zaid] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Orang muslim tidak mewarisi orang kafir, dan orang kafir tidak mewarisi orang muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4282، 4283) Sahih Muslim (1614)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2909</td></tr><tr><td>Arabic No</td><td>2909</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Усамы ибн Зейда, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Мусульманин не наследует неверующему, а неверующий не наследует мусульманину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4282، 4283) Sahih Muslim (1614)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2909</td></tr><tr><td>Arabic No</td><td>2909</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
 

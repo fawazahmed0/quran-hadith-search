@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:While we were with the Prophet, he said, "Will you 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] berkata; [Az Zuhri] Telah menceritakannya kepada kami, ia berkata; telah menceritakan kepadaku [Abu Idris] bahwa telah mendengar [Ubadah bin Shamit radliallahu 'anhu] berkata; Suatu hari, kami berada di sisi Nabi shallallahu 'alaihi wasallam, maka beliau pun bersabda: "Apakah kalian mau berbai'at kepadaku bahwa kalian tidak akan menyekutukan Allah dengan sesuatu apa pun, dan kalian tidak akan berzina dan tidak pula akan mencuri?" kemudian beliau membaca ayat dari surat An Nisa'. Dan mayoritas redaksi Sufyan "Ia membacakan ayat" (Bukan ayat surat Annisa'). Barangsiapa di antara kalian yang memenuhi janjinya, maka ganjaran pahala ada di sisi Allah. Dan siapa yang melanggar satu darinya lalu ia disiksa, maka hal itu adalah kafarah baginya. Namun, siapa yang melanggar satu darinya lalu Allah menyembunyikan kesalahannya, maka dosa hal itu kembali kepada Allah, bila Dia berkehendak, maka Dia akan menyiksanya, dan bila menghendaki, Dia akan mengampuninya. Hadits ini diperkuat oleh [Abdurrazzaq] dari [Ma'mar], yakni terkait dengan ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4894</td></tr><tr><td>Arabic No</td><td>4894</td></tr><tr><td>Reference</td><td>Book 65 Hadith 414</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Идриса, что ‘Убада ибн ас-Самит, да будет доволен им Аллах, сказал: «Однажды, когда мы были вместе с Пророком ﷺ, он сказал: “Поклянитесь ли вы мне в том, что не станете поклоняться наряду с Аллахом ничему, и не станете прелюбодействовать и воровать?!” Затем он прочитал аят, касающийся женщин. Затем он сказал: “Кто из вас будет верен этому, тот получит награду от Аллаха. А кто совершит какой-либо из этих (грехов) и будет наказан в мире этом за это, для того это наказание станет искуплением и очищением. Если же кто-то совершит какой-либо из этих (грехов), а Аллах покроет его (грех), то его участь будет зависеть от Аллаха: если Он пожелает, то подвергнет его мучениям, а если пожелает, то простит его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4894</td></tr><tr><td>Arabic No</td><td>4894</td></tr><tr><td>Reference</td><td>Book 65 Hadith 414</td></tr></tbody></table></div>
 

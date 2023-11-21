@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:(The people) stood up for prayer and the Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ismail bin Ulayyah] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abdul Warits] keduanya meriwayatkan dari [Abdul Aziz] dari [Anas] dia berkata, "Shalat diiqamatkan, sedangkan Rasulullah shallallahu 'alaihi wasallam membisiki seorang laki-laki." Dan dalam hadits Abdul Warits, "Dan Nabi Allah membisiki seorang laki-laki, lalu beliau tidak mendirikan shalat hingga kaum tersebut tertidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>833</td></tr><tr><td>Arabic No</td><td>376.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(Однажды) о начале молитвы было объявлено в то время, когда Посланник Аллаха ﷺ беседовал с каким-то человеком с глазу на глаз, и (Пророк ﷺ) не приступил к молитве, пока люди не заснули»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>833</td></tr><tr><td>Arabic No</td><td>376.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 154</td></tr></tbody></table></div>
 

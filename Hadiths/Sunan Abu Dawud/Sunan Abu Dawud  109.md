@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu ‘Alqamah said that ‘Uthman called for water and performed ablution. He t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>109</td></tr><tr><td>Arabic No</td><td>109</td></tr><tr><td>Reference</td><td>Book 1 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу ‘Алькъамы о том, что (однажды) ‘Усман попросил принести воды и совершая омовение налил (воду) правой рукой на левую, и затем помыл их вместе с суставами запястий.(Абу ‘Алькъама) сказал: «Затем он прополоснул рот и нос по три (раза)».И он упомянул об обмывании (остальных частей тела) по три раза.(Абу ‘Алькъама) сказал: «И он обтёр свою голову, а затем помыв ноги, сказал: “Я видел, как Посланник Аллаха ﷺ совершил омовение точно так же, как вы видели омовение, которое совершил я”». Затем он до конца привёл хадис подобный тому, который передал аз-Зухри
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>109</td></tr><tr><td>Arabic No</td><td>109</td></tr><tr><td>Reference</td><td>Book 1 Hadith 109</td></tr></tbody></table></div>
 

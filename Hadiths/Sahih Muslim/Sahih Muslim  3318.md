@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Sa'd reported on the authority of his father (Allah be pleased with him)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Utsman bin Hakim] telah menceritakan kepadaku [Amir bin Sa'dari] dari [bapaknya] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku menjadikan kota Madinah sebagai tanah haram, yaitu antara kedua bukitnya yang berbatu-batu hitam. Jangan ditebang pepohonannya, dan jangan pula dibunuh hewan buruannya." Dan beliau juga bersabda: "Kota Madinah lebih baik bagi mereka jika sekiranya mereka mengetahuinya. Orang yang meninggalkan kota itu karena tidak senang kepadanya, maka Allah akan menggantinya dengan orang yang lebih baik daripadanya. Seorang yang betah tinggal di kota itu dalam kesusahan dan kesulitan hidup, maka aku akan memberinya syafa'atku atau menjadi saksi baginya di hari kiamat nanti." Dan Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Marwan bin Mu'awiyah] telah menceritakan kepada kami [Utsman bin Hakim Al Anshari] telah mengabarkan kepadaku [Amir bin Sa'id bin Abu Waqash] dari [bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda. Lalu ia pun menyebutkan hadits yang serupa dengan haditsnya Ibnu Numair. Dan ia menambahkan di dalam hadits itu; "Tidaklah salah seorang penduduk Madinah menginginkan keburukan, kecuali Allah akan menyiksanya di dalam neraka, yaitu dengan lelehan timah atau lelehan garam di dalam air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3318</td></tr><tr><td>Arabic No</td><td>1363.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 522</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3318</td></tr><tr><td>Arabic No</td><td>1363.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 522</td></tr></tbody></table></div>
 

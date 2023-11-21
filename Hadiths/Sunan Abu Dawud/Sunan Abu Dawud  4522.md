@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Shu'aib: The Messenger of Allah (ﷺ) killed a man of Banu Nadr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] dan [Katsir bin Ubaid] keduanya berkata; telah menceritakan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Ash Shabbah bin Sufyan] berkata, telah mengabarkan kepada kami [Al Walid] dari [Abu Amru] dari [Amru bin Syu'aib] dari Rasulullah shallallahu 'alaihi wasallam bahwasanya beliau membunuh laki-laki dari bani Nashr bin Malik karena sumpah, yaitu di suatu tempat dataran rendah bernama Rugha, di sisi pantai. Ia (Mahmud) berkata, "Baik yang membunuh atau yang dibunuh adalah dari mereka (bani Nashr)." Ini adalah lafadz Mahmud, yaitu Mahmud mempunyai lafdh sendiri (dalam riwayatnya berupa; "di suatu tempat dataran rendah bernama Rugha', di sisi pantai)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4522</td></tr><tr><td>Arabic No</td><td>4522</td></tr><tr><td>Reference</td><td>Book 41 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Амра ибн Шу‘айба, что Посланник Аллаха ﷺ велел казнить одного человека из бану наср ибн Малик в Бахрат-ар-руга на берегу Лият аль-Бахра на основании клятвы, которую принесли пятьдесят человек. И он передаёт, что и убийца, и убитый были из их числа. Упоминание о береге Лият аль-Бахра передаёт только передатчик Махмуд
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4522</td></tr><tr><td>Arabic No</td><td>4522</td></tr><tr><td>Reference</td><td>Book 41 Hadith 29</td></tr></tbody></table></div>
 

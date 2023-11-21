@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: I never saw the Messenger of Allah (ﷺ) that some disp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Abdullah bin bakr bin Abdullah Al Muzani] dari [Atha bin Abu Maimunah] dari [Anas bin Malik] ia berkata, "Aku tidak pernah melihat Nabi shallallahu 'alaihi wasallam mendapat pengaduan yang padanya ada Qishas, kecuali beliau menganjurkan untuk memaafkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4497</td></tr><tr><td>Arabic No</td><td>4497</td></tr><tr><td>Reference</td><td>Book 41 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах: «Всякий раз, когда на моих глазах к Пророку ﷺ обращались по делу о том, что требует воздаяния равным /кысас/, он велел (покровителям жертвы) прощать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4497</td></tr><tr><td>Arabic No</td><td>4497</td></tr><tr><td>Reference</td><td>Book 41 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aslam:'Umar bin Al-Khattab appointed a freed slave of his, called Hunai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il] berkata telah bercerita kepadaku [Malik] dari [Zaid bin Aslam] dari [bapaknya] bahwa ['Umar bin Al Khaththab radliallahu 'anhu] memberikan tugas sebagai penjaga (hewan ternak shodaqoh) kepada maulanya yang bernama Hunayya. Dia berkata; "Wahai Hunaya, rendahkanlah hatimu kepada kaum Muslimin, takutlah terhadap do'a orang yang dizhalimi karena do'a orang yang dizhalimi itu mustajab (terkabul), masukkanlah pengembala unta dan pengembala kambing (yang jumlah hewannya tidak lebih dari tiga puluh) dan sungguh aku menghindari diriku dari hewan-hewannya ('Abdur Rohman) bin 'Auf dan hewan-hewannya ('Utsman) bin 'Affan karena jika hewan-hewan mereka berdua binasa keduannya akan beralih kepada hartanya (yang lain) berupa kebun kurma dan pertanian. Adapun pemilik hewan-hewan yang sedikit itu, bila hewan-hewan mereka binasa, dia akan datang kepadaku dengan membawa anak-anaknya dan berkata; "Wahai Amirul Mu'minin, adakah aku harus meninggalkan mereka kepadamu dan tidak mempedulikan mereka?. Maka dalam hal ini, air dan ladang tempat pengembalaan lebih mudah bagiku (melindunginya) dari pada emas dan perak. Demi Allah, sungguh mereka akan menduga bahwa aku telah menzhalimi mereka. Sungguh tanah ini adalah negeri mereka dimana mereka di masa jahiliyah berperang di sana dan mereka masuk Islam pun di sana. Demi Dzat Yang jiwaku berada di tangan-Nya, seandainya tidak ada harta (unta, kuda) yang aku gunakan untuk berperang di jalan Allah, tentu aku tidak akan melindungi mereka sejengkalpun di negeri mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3059</td></tr><tr><td>Arabic No</td><td>3059</td></tr><tr><td>Reference</td><td>Book 56 Hadith 264</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Асляма, что, когда Умар ибн аль-Хаттаб назначил своего освобожденного раба по имени Хунай управляющим «аль-химой» (место, выделенное правителем для содержания животных, предназначенных для милостыни), он сказал ему: «О Хунай! Не притесняй мусульман и остерегайся мольбы притеснённого, ведь Аллах отвечает на мольбу притеснённого. И разрешай пастуху, у которого есть несколько верблюдов, и тем, у кого есть несколько овец (пасти своих животных в «аль-химе»). И не впускай скот Ибн ‘Ауфа и Ибн ‘Аффана, потому что, если их скот погибнет, у них есть свои пастбища и сады, в то время как те, у кого есть только несколько верблюдов и те, у кого есть только несколько овец, если их скот погибнет, приведут своих детей ко мне (и обратятся за помощью), говоря: “О повелитель правоверных!” Так неужели я стану пренебрегать ими? Поэтому мне легче дать им воду и траву, чем давать им золото и серебро (из казны). Клянусь Аллахом, эти люди думают, что я поступил с ними несправедливо. Это их земля, и в доисламский период они боролись за неё и приняли ислам (добровольно), когда она находилась в их владении. Клянусь Тем, в Чьих Руках моя душа! Если бы не животные, которых я даю тем, кто принимает участие в войне на пути Аллаха, я не отгородил бы от них даже пядь их земли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3059</td></tr><tr><td>Arabic No</td><td>3059</td></tr><tr><td>Reference</td><td>Book 56 Hadith 264</td></tr></tbody></table></div>
 

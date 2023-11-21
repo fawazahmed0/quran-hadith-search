@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I heard the Prophet (ﷺ) saying, (or the Prophet (ﷺ) said)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yusuf bin Musa] telah menceritakan kepada kami [Al Fadhl bin Dukain] telah menceritakan kepada kami [Shakhr bin Juwairiyah] dari [Nafi'] dari [Abdullah bin Umar] radliallahu 'anhuma saya mendengar Nabi shallallahu 'alaihi wasallam atau Nabi shallallahu 'alaihi wasallam bersabda: "Orang yang mentato dan yang minta ditato serta orang yang menyambung rambutnya dan yang minta disambung rambutnya." Maksudnya adalah Nabi shallallahu 'alaihi wasallam melaknatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5942</td></tr><tr><td>Arabic No</td><td>5942</td></tr><tr><td>Reference</td><td>Book 77 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ проклял наносящую татуировку, и ту, что просит сделать ей это и подвязывающую (к волосам другие) волосы, и ту, что просит подвязать их ей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5942</td></tr><tr><td>Arabic No</td><td>5942</td></tr><tr><td>Reference</td><td>Book 77 Hadith 157</td></tr></tbody></table></div>
 

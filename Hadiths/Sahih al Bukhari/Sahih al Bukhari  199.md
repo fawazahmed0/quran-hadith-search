@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Yahya:(on the authority of his father) My uncle used to perfor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Mukhallad] berkata, telah menceritakan kepada kami [Sulaiman bin Bilal] berkata, telah menceritakan kepadaku ['Amru bin Yahya] dari [Bapaknya] berkata, " Pamanku berlebihan dalam berwudlu, lalu ia berkata kepada ['Abdullah bin Zaid], "Beritahu kami berdua bagaimana kamu melihat Nabi shallallahu 'alaihi wasallam wudlu. 'Abdullah bin Zaid minta bejana berisi air, lalu ia menuangkan ke telapak tangannya dan mencucinya tiga kali. Kemudian memasukkan tangannya ke dalam bejana tersebut, lalu berkumur dan mengeluarkan air dari dalam hidung sebanyak tiga kali dari satu cidukan tangan. Kemudian memasukkan tangannya ke dalam bejana menciduk air dan membasuh mukanya tiga kali. Kemudian membasuh tangannya sampai siku dua kali-dua kali. Kemudian mengambil air dengan tangannya dan mengusap kepalanya, ia tarik tangannya ke belakang kepala lalu dikembalikan ke depan. Kemudian membasuh kakinya. Setelah itu berkata, "Begitulah aku melihat Nabi shallallahu 'alaihi wasallam berwudlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>199</td></tr><tr><td>Arabic No</td><td>199</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Амр ибн Яхйа сообщил со слов своего отца, который сказал: «Мой дядя со стороны отца (‘Амр ибн Абу Хасан) часто совершал омовение и однажды он попросил ‘Абдуллу ибн Зейда: “Расскажи мне о том, как ты видел, как совершал омовение /вудуъ/ Пророк ﷺ”. И (‘Абдуллах ибн Зейд) велел принести тазик с водой, (а когда её принесли,) он слил воду себе на руки и трижды вымыл их, потом опустил руку в тазик и трижды прополоснул рот и высморкался (и сделал это) из одной пригоршни. Затем он снова опустил руку (в тазик) и вычерпнув ею (воду) трижды омыл лицо. Потом он дважды вымыл каждую руку до локтей, после чего набрав рукой воду протёр свою голову, проведя руками назад и вперёд и затем омыл свои ноги. Затем он сказал: “Таким образом я видел, как совершал омовение Пророк ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>199</td></tr><tr><td>Arabic No</td><td>199</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
 

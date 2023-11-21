@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu al-Aswad al-Dailani said:While we were present with Abu Dharr, he said: In t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyah] telah mengabarkan kepada kami [Khalid] dari [Washil] dari [Yahya bin 'Uqail] dari [Yahya bin Ya'mar] dari [Abu Al Aswad Ad Du'ali] dia berkata; "ketika kami berada di dekat [Abu Dzar], dia berkata; "Hendaklah masing-masing dari kalian setiap harinya bersedekah untuk setiap ruas tulangnya. Setiap shalat (yang ia kerjakan) menjadi sedekah baginya, puasa adalah sedekah, haji adalah sedekah, bacaan tasbih adalah sedekah, bacaan takbir juga sedekah, bacaan tahmid adalah sedekah." Rasulullah shallallahu 'alaihi wasallam menghitung (menyebutkan) semua amal Shalih ini, lalu bersabda: "Cukuplah salah seorang dari kalian mengerjakan shalat dua raka'at dhuha untuk menggantikan semua itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (720)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1286</td></tr><tr><td>Arabic No</td><td>1286</td></tr><tr><td>Reference</td><td>Book 5 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу аль-Асвада ад-Дуали: «Когда мы были у Абу Зарра, да будет доволен им Аллах, он сказал, что Пророк ﷺ сказал: «Каждое утро все сочленения в теле сына Адама обязаны подавать милостыню. Совершение каждой молитвы милостыня, соблюдать пост милостыня, совершать хадж милостыня. Каждое произнесение слов “Пречист Аллах” /Субхана-Ллах/ милостыня, и каждое произнесение слов “Аллах Велик” /Аллаху Акбар/ милостыня, и каждое произнесение слов “Хвала Аллаху” /Аль-хамду ли-Ллях/ милостыня». И он перечислил несколько благих дел, а потом сказал: «Однако всё это заменяют два рак‘ата молитвы-духа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (720)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1286</td></tr><tr><td>Arabic No</td><td>1286</td></tr><tr><td>Reference</td><td>Book 5 Hadith 37</td></tr></tbody></table></div>
 

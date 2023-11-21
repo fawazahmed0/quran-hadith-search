@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah sent down His Divine Inspiration to His Apostle co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Muhammad] Telah menceritakan kepada kami [Ya'qub bin Ibrahim] Telah menceritakan kepada kami [bapakku] dari [Shalih bin Kaisan] dari [Ibnu Syihab] ia berkata, Telah mengabarkan kepadaku [Anas bin Malik] radliallahu 'anhu, bahwa Allah telah menurunkan wahyu secara berturut-turut kepada Rasulullah shallallahu 'alaihi wasallam sebelum wafatnya, setelah turunnya wahyu sempurnya, maka wafatlah Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4982</td></tr><tr><td>Arabic No</td><td>4982</td></tr><tr><td>Reference</td><td>Book 66 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что незадолго до смерти Своего посланника Аллах Всевышний непрерывно ниспосылал ему откровения, когда же откровений (ниспосылалось) больше всего, Он упокоил его, и Посланник Аллаха ﷺ скончался
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4982</td></tr><tr><td>Arabic No</td><td>4982</td></tr><tr><td>Reference</td><td>Book 66 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abbad bin Tamim from his uncle:"I saw the Prophet (ﷺ) on the day whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Az Zuhri] dari ['Abbad bin Tamim] dari [Pamannya] berkata, "Aku pernah melihat Nabi shallallahu 'alaihi wasallam di hari saat beliau keluar minta turunnya hujan. Beliau kemudian menghadap ke arah kiblat dengan menghadapkan punggungnya ke arah manusia, beliau lalu berdoa sambil membalikkan kain selendangnya. Setelah itu beliau mengimami kami shalat dua rakaat dengan mengeraskan bacaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1025</td></tr><tr><td>Arabic No</td><td>1025</td></tr><tr><td>Reference</td><td>Book 15 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аббад бин Тамим передал от своего дяди, который сказал: «Я видел, как Пророк ﷺ отправился (к месту намаза), чтобы обратиться к Аллаху с мольбой о ниспослании дождя. Он повернулся к людям спиной, обратился в сторону киблы и стал взывать к Аллаху, потом он (надел) свой плащ по-другому, а потом совершил с нами намаз в два рак‘ата, читая Коран вслух»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1025</td></tr><tr><td>Arabic No</td><td>1025</td></tr><tr><td>Reference</td><td>Book 15 Hadith 20</td></tr></tbody></table></div>
 

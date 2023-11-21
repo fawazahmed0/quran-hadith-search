@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' reported that whenever Allah's Messenger (ﷺ) went to bed, he said:" O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Syu'bah] dari ['Abdullah bin Abus Safar] dari [Abu Bakr bin Abu Musa] dari [Al Barra'] bahwasanya Nabi shallallahu 'alaihi wasallam apabila Rasulullah shallallahu 'alaihi wasallam hendak tidur, maka beliau membaca doa: "ALLOOHUMMA, BISMIKALLOOHUMMA AHYAA WABISMIKA AMUUTU" Ya Allah, dengan nama-Mu aku hidup dan dengan nama-Mu aku mati." Apabila bangun dari tidur, maka beliau membaca doa: 'ALHAMDU LILLAAHIL LADZII AHYAANAA BA'DA MAA AMAATANAA WAILAIHINNUSYUURU' Segala puji bagi Allah yang telah menghidupkan kami kembali setelah mematikan kami dan hanya kepada-Nyalah tempat kami kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6887</td></tr><tr><td>Arabic No</td><td>2711</td></tr><tr><td>Reference</td><td>Book 48 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6887</td></tr><tr><td>Arabic No</td><td>2711</td></tr><tr><td>Reference</td><td>Book 48 Hadith 80</td></tr></tbody></table></div>
 

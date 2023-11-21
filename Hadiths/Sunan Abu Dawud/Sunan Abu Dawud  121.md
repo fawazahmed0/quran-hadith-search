@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miqdam ibn Ma'dikarib al-Kindi: The ablution water was brought to th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>121</td></tr><tr><td>Arabic No</td><td>121</td></tr><tr><td>Reference</td><td>Book 1 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хариз сказал: Рассказал мне ‘Абду-р-Рахман ибн Майсара аль-Хадрами, (который сказал): Я слышал, как аль-Микъдам ибн Ma‘дикариб аль-Кинди сказал: «(Однажды) Посланнику Аллаха ﷺ принесли воды для омовения и он совершил омовение, (начав) мыть кисти рук, (и сделал это) три раза. Затем прополоснул рот и нос по три раза, помыл лицо три раза, после чего помыл руки с локтями включительно – каждую по три раза. Затем он обтёр свою голову и (протёр) уши снаружи и изнутри»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>121</td></tr><tr><td>Arabic No</td><td>121</td></tr><tr><td>Reference</td><td>Book 1 Hadith 121</td></tr></tbody></table></div>
 

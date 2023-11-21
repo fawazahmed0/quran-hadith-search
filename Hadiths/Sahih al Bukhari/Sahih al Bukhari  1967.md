@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "Do not fast continuo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Hamzah] telah menceritakan kepada saya [Ibnu Abu HAzim] dari [YAzid] dari ['Abdullah bin Khabbab] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian melaksanakan puasa wishal, maka siapa dari kalian yang mau melakukan puasa wishal hendaklah dia melakukannya hingga (makan) sahur". Mereka berkata: "Bukankah anda melakukan puasa wishal, wahai Rasulullah?" Beliau bersabda: "Aku tidak sama dengan keadaan seorang kalian karena bagiku ada pemberi makan yang memberi aku makan dan pemberi minum yang memberi aku minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1967</td></tr><tr><td>Arabic No</td><td>1967</td></tr><tr><td>Reference</td><td>Book 30 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не поститесь непрерывно! Тот же из вас, кто хочет постится непрерывно, пусть поститься до “сухура”». Тогда люди сказали: «Но ведь ты постишься без разговения, о Посланник Аллаха!» Он ответил: «Я не подобен вам. Поистине, у меня есть Тот, Кто кормит и поит меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1967</td></tr><tr><td>Arabic No</td><td>1967</td></tr><tr><td>Reference</td><td>Book 30 Hadith 74</td></tr></tbody></table></div>
 

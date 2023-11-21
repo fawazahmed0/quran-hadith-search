@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : "L'Envoyé de Dieu faisait la prièr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibnah bin Said] telah menceritakan kepada kami [Laits] katanya; (dan dari jalur lain) telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Anas bin Malik] dia mengabarkan kepanya bahwa Rasulullah shallallahu 'alaihi wasallam pernah shalat ashar ketika matahari tengah naik, panas dan warnanya belum berubah, lantas seseorang yang pergi ke 'Awali dan ia sampai ke Awali ketika matahari juga masih meninggi." Namun Qutaibah tidak menyebutkan; "Lantas ia datang ke 'Awali." Dan telah menceritakan kepadaku [Harun bin Said Al Ail] telah menceritakan kepada kami [Ibn Wahb] telah mengabarkan kepadaku ['Amru] dari [Ibnu Syihab] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam pernah shalat ashar seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1408</td></tr><tr><td>Arabic No</td><td>621.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что обычно Посланник Аллаха ﷺ совершал послеполуденную молитву /‘аср/ в то время, когда солнце стояло высоко и ярко светило, и (если после этого) кто-нибудь отправлялся в ‘Авали (предместье Медины), то он добирался до места, когда солнце всё ещё было высоко
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1408</td></tr><tr><td>Arabic No</td><td>621.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 242</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ahmad bin Abdah Adl Dlabbi] Telah menceritakan kepada kami [Yazid bin Zurai'] Telah menceritakan kepada kami [Habib Al Mu'allim] dari [Atha'] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam bertanya kepada seorang wanita Anshar yang namanya Ummu Sinan: "Apa yang menghalangimu untuk mengerjakan haji bersama kami?" wanita itu menjawab, "Kami hanya memiliki dua ekor unta. Yang satu dipakai suamiku pergi haji bersama anaknya, sedangkan yang satu lagi dipakai pembantu kami untuk menyiram kebun." Akhirnya beliau pun bersabda: "Kalau begitu, kerjakanlah umrah nanti di bulan Ramadlan, nilainya sama dengan naik haji bersamaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3039</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3039</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

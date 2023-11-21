@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Warrad, the scribe of Mughira b. Shu'ba, reported:Mu'awiya wrote to Mughira: Wri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Abu Umar Al Makki] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Abdah bin Abu Lubabah] dan [Abdul Malik bin Umair], keduanya mendengar [Warrad] juru tulis Mughirah bin Syu'bah berkata; Muawiyah berkirim surat kepada [Mughirah], katanya; "Tulislah untukku sesuatu yang engkau dengar dari Rasulullah shallallahu 'alaihi wasallam!." Lantas Mughirah menulis untuknya; "Aku mendengar Rasulullah shallallahu 'alaihi wasallam seusai shalat memanjatkan doa; "LAA ILAAHA ILLALLAAH WAHDAHU LAA SYARIIKA LAH, LAHUL MULKU WLAHUL HAMDU WAHUWA ALAA KULLI SYAI'IN QADIIR, ALLAAHUMMA LAA MAANI'A LIMAA A'THAITA WALAA MU'THIYA LIMAA MANA'TA WALAA YANFA'U DZAL JADDI MINKAL JADDU (Tiada sesembahan selain Allah semata yang tiada sekutu bagi-Nya, milik-Nyalah segala kerajaan dan milik-Nyalah segala pujian, dan Dia Maha kuasa atas segala sesuatu. Ya Allah, tiada yang bisa menghalangi apa yang Engkau berikan, dan tidak ada yang bisa memberi apa yang Engkau cegah, dan tidak bermanfaat pemilik kekayaan, dan dari-Mulah segala kekayaan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1342</td></tr><tr><td>Arabic No</td><td>593.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Варрад, писарь аль-Мугыры ибн Шу‘ба сказал: «(Однажды) Му‘авия написал аль-Мугыре: “Напиши мне о том, что ты слышал от Посланника Аллаха ﷺ”. И аль-Мугыра написал ему (в ответ): “Я слышал, как Посланник Аллаха ﷺ говорил в конце молитвы: “Нет божества, достойного поклонения, кроме Аллаха, Единого, у Которого нет сотоварища. Ему принадлежит владычество, Ему хвала, и Он всё может! О Аллах, никто не лишит того, что Ты даровал, и никто не дарует того, чего Ты лишил, и бесполезным окажется перед Тобой могущество обладающего могуществом /Ля иляха илля-Ллаху вахда-ху ля шарикя ля-ху. Ля-ху-ль-мульку, ва ля-ху-ль-хамду ва хуа ‘аля кулли шайъин кадир! Аллахумма, ля мани’а ли-ма а’тайта, ва ля му’тыйа ли-ма мана’та ва ля йанфа’у за-ль-джадди мин-кя-ль-джадд/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1342</td></tr><tr><td>Arabic No</td><td>593.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 179</td></tr></tbody></table></div>
 

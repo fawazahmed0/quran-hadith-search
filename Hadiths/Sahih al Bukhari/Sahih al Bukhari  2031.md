@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to embrace me during my menses. He also u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam pernah mencumbui aku ketika aku sedang haidh dan Beliau juga pernah mengeluarkan kepala Beliau dari masjid ketika sedang beri'tikaf lalu aku membasuh rambut Beliau sedangkan aku saat itu sedang haidh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>2031</td></tr><tr><td>Reference</td><td>Book 33 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+«И когда он совершал и‘тикяф, он высовывал ко мне голову из мечети, а я мыла его волосы, хотя у меня были месячные»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>2031</td></tr><tr><td>Reference</td><td>Book 33 Hadith 6</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hafsa narrated on the authority of Umm 'Atiyya that she said:When this verse was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ishaq bin Ibrahim] semuanya dari [Abu Mu'awiyah] - [Zuhair] berkata- Telah menceritakan kepada kami [Muhammad bin Khazim] telah menceritakan kepada kami ['Ashim] dari [Hafshah] dari [Ummu 'Athiyyah] ia berkata; Ketika turun ayat ini, "(Apabila datang kepadamu perempuan-perempuan yang beriman) untuk mengadakan janji setia, bahwa mereka tiada akan menyekutukan Allah, … dan tidak akan mendurhakaimu dalam urusan yang baik." Ummu 'Athyiyyah berkata; Termasuk di antaranya adalah An Niyahah (meratapi mayit). Saya berkata, " Kecuali keluarga si Fulan, sesungguhnya mereka mengajakku untuk melakukan niyahah bersama mereka pada waktu jahiliyah, hingga saya terpaksa menyertai mereka melakukannya." Beliau bersabda: "Kecuali keluarga si Fulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2165</td></tr><tr><td>Arabic No</td><td>937</td></tr><tr><td>Reference</td><td>Book 11 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа сказала: «Когда был ниспослан этот аят: “…чтобы присягнуть в том, что они не будут приобщать сотоварищей к Аллаху, красть, прелюбодействовать, убивать своих детей, покрывать клеветой то, что между их руками и ногами, и ослушаться тебя в благих делах”, то среди (того, в чём мы присягнули) был (запрет) причитать по покойным. И я сказала: “О Посланник Аллаха, (я обещаю не причитать над всеми покойными), кроме (покойных) семьи такого-то, ведь во времена невежества они помогли мне (причитать по моим близким), и теперь я должна помочь им”. И Посланник Аллаха ﷺ сказал: “(Хорошо) кроме (покойных) семьи такого-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2165</td></tr><tr><td>Arabic No</td><td>937</td></tr><tr><td>Reference</td><td>Book 11 Hadith 43</td></tr></tbody></table></div>
 

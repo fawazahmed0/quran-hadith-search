@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) sent Aban from Medina to Najd as th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>4238</td></tr><tr><td>Reference</td><td>Book 64 Hadith 276</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ отправил Абана во главе отряда из Медины в сторону Неджда. Затем, после того как Пророк ﷺ захватил Хайбар, Абан прибыл к нему вместе со своими спутниками, а поводья их лошадей были из пальмовых волокон». Абу Хурайра сказал: «Я сказал: “О Посланник Аллаха, ничего не выделяй им”. Абан на это сказал: “(Ты говоришь такое), при том, что тот, кто ты есть, о даман (маленький зверёк), спустившийся с вершины Дана (название горы)”. Тогда Пророк ﷺ сказал: “Сядь, о Абан!” И не выделил ему доли (из военной добычи)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>4238</td></tr><tr><td>Reference</td><td>Book 64 Hadith 276</td></tr></tbody></table></div>
 

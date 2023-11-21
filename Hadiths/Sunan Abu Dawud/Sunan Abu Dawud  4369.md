@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Some people raided the camels of the Prophet (ﷺ), 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Abdullah bin Wahb] berkata, telah mengabarkan kepadaku [Amru] dari [Sa'id bin Abu Hilal] dari [Abu Az Zinad] dari [Abdullah bin Ubaidullah] -Ahmad berkata; dia adalah Abdullah bin Ubaidullah bin Umar bin Al Khaththab- dari [Ibnu Umar] ia berkata, "Ada beberapa orang mencuri unta Nabi shallallahu 'alaihi wasallam, mereka murtad dari Islam dan membunuh para pengembala Rasulullah shallallahu 'alaihi wasallam yang telah beriman. Beliau lalu mengirim mata-mata untuk mengikuti jejak mereka, mereka pun ditangkap. Beliau memotong tangan dan kaki, serta mencongkel mata mereka." Ibnu Umar melanjutkan, "Lalu turunlah ayat Al Muharabah (peperangan) berkenaan dengan mereka. itu pulalah yang dikabarkan Anas bin Malik kepada Al Hajjaj saat ia bertanya kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4369</td></tr><tr><td>Arabic No</td><td>4369</td></tr><tr><td>Reference</td><td>Book 40 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что некие люди напали на верблюдов Пророка ﷺ и увели их. При этом они отреклись от ислама и убили пастуха Посланника Аллаха ﷺ который был верующим. Посланник Аллаха ﷺ послал за ними погоню, и их поймали. (По велению Посланника Аллаха ﷺ) им отрубили кисти и ступни и выжгли глаза. Относительно них был ниспослан аят о разбое. Это те, о которых Анас ибн Малик сообщил аль-Хаджжаджу, когда тот спросил его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4369</td></tr><tr><td>Arabic No</td><td>4369</td></tr><tr><td>Reference</td><td>Book 40 Hadith 19</td></tr></tbody></table></div>
 

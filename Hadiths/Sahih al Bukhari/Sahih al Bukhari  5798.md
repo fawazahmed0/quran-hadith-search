@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:The Prophet (ﷺ) went to answer the call of natu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qais bin Hafsh] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Al A'masy] dia berkata; telah menceritakan kepadaku [Abu Adl Dluha] dia berkata; telah menceritakan kepadaku [Masruq] dia berkata; telah menceritakan kepadaku [Al Mughirah bin Syu'bah] dia berkata; "Nabi shallallahu 'alaihi wasallam pergi untuk suatu kebutuhan, lalu beliau datang dan akupun langsung menemui beliau dengan membawa air, kemudian beliau berwudlu', waktu itu beliau sedang mengenakan jubah dari Syam, lalu beliau berkumur-kumur dan beristinsyaq (memasukkan air ke dalam hidung) serta membasuh wajahnya, beliau berusaha mengeluarkan kedua tangannya dari kedua lengan bajunya, karena sempit maka beliau mengeluarkan kedua tangan beliau melalui bawah jubahnya, lalu beliau membasuh kedua tangan beliau dan mengusap kepala beliau serta kedua sepatu beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5798</td></tr><tr><td>Arabic No</td><td>5798</td></tr><tr><td>Reference</td><td>Book 77 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугъира ибн Шу‘ба сказал: «Как-то раз Пророк ﷺ вышел, чтобы справить нужду. Затем, когда он вернулся, я ждал его с водой. Он совершил омовение, будучи одетым в джуббу из Шама. Сполоснув рот и нос и омыв лицо, он хотел вынуть руки из её рукавов, но оказалось, что они слишком узки, тогда он продел руки снизу, помыл их и протёр (влажными руками) голову и кожаные носки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5798</td></tr><tr><td>Arabic No</td><td>5798</td></tr><tr><td>Reference</td><td>Book 77 Hadith 16</td></tr></tbody></table></div>
 

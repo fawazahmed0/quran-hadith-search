@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Mas'ud reported:The Messenger of Allah (ﷺ) said: Let those who are
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib al-Haritsi] dan [Shalih bin Hatim bin Wardan] keduanya berkata, telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepadaku [Khalid bin al-Hadzdza'] dari [Abu Ma'syar] dari [Ibrahim] dari ['Alqamah] dari [Abdullah bin Mas'ud] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, 'Hendaklah yang berada tepat di belakang shalatku orang yang dewasa yang memiliki kecerdasan dan orang yang sudah berakal di antara kalian, kemudian orang yang sesudah mereka tiga kali, dan hendaklah kalian menjauhi kebisingan dan perselisihan pasar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>432.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ трижды сказал: “Пусть становятся (ближе ко мне) зрелые и разумные, а за ними следующие”, (после чего добавил): “И ни в коем случае (не ведите себя так, будто находитесь) на рынке!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>432.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 136</td></tr></tbody></table></div>
 

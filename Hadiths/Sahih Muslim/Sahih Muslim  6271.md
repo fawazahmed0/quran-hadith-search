@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Alî (que Dieu l'agrée) a dit : J'ai entendu l'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdullah bin Numair] dan [Abu Usamah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Usamah] dan [Ibnu Numair] dan [Waki'] dan [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami ['Abdah bin Sulaiman] seluruhnya dari [Hisyam bin 'Urwah] dan lafazh ini milik Abu Usamah; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dia berkata; Aku mendengar ['Abdullah bin Ja'far] berkata; "Saya pernah mendengar [Ali] ketika di Kufah berkata; 'Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya wanita yang paling baik (pada masa lalu) adalah Maryam binti Imran dan wanita yang paling baik (sesudah masa itu) adalah Khadijah binti Khuwailid.' Abu Kuraib berkata; "Waki' meriwayatkan hadits ini sambil memberi isyarat ke langit dan ke bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6271</td></tr><tr><td>Arabic No</td><td>2430</td></tr><tr><td>Reference</td><td>Book 44 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6271</td></tr><tr><td>Arabic No</td><td>2430</td></tr><tr><td>Reference</td><td>Book 44 Hadith 101</td></tr></tbody></table></div>
 

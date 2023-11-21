@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Marwan b. a-hakkam said:Zaid b. Thabit asked me: Why do you recite short surahs 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Abdurrazaq] dari [Ibnu Juraij] telah menceritakan kepadaku [Ibnu Abu Mulaikah] dari ['Urwah bin Zubair] dari [Marwan bin Al Hakam] dia berkata; [Zaid bin Tsabit] berkata kepadaku; "Kenapa anda biasa membaca surat-surat pendek pada saat shalat Maghrib? Padahal aku melihat Rasulullah shallallahu 'alaihi wasallam membaca dua surat panjang dari surat-surat panjang dalam shalat Maghrib?." Ibnu Abu Mulaikah berkata; "Kataku; "Apakah dua surat panjang dari surat-surat panjang tersebut?" Urwah menjawab; "Yaitu Al A'raf dan Al An'am." Ibnu Juraij berkata; Aku bertanya kepada Ibnu Abu Mulaikah, lalu menurut dirinya adalah surat Al Maidah dan Al A'raf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (764)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>812</td></tr><tr><td>Arabic No</td><td>812</td></tr><tr><td>Reference</td><td>Book 2 Hadith 422</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мерван ибн аль-Хакам, да будет доволен им Аллах, рассказывает: «Зейд ибн Сабит сказал мне: “Почему ты читаешь во время закатной молитвы короткие суры из муфассаля? Я видел, как Посланник Аллаха ﷺ читал самую длинную из двух длинных сур”. Я спросил: “Что значит самую длинную из двух сур?” Он ответил: ““Аль-А‘раф”. А вторая длинная сура это “аль-Ан‘ам””. А когда я спросил Ибн Абу Муляйку, он сказал мне от себя, что это “аль-Маида” и “аль-А‘раф”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (764)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>812</td></tr><tr><td>Arabic No</td><td>812</td></tr><tr><td>Reference</td><td>Book 2 Hadith 422</td></tr></tbody></table></div>
 

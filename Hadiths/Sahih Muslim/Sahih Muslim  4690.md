@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Umm 'Atiyya, the Ansarite, who said:I t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdurrahim bin Sulaiman] dari [Hisyam] dari [Hafshah binti Sirin] dari [Ummu 'Athiyah Al Anshariyah] dia berkata, "Aku pernah ikut berperang bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam sebanyak tujuh kali peperangan, aku tinggal di perkemahan mereka, memasak makanan untuk mereka, mengobati yang luka dan merawat orang-orang yang sakit." Dan telah menceritakan kepada kami ['Amru An Naqid] telah menceritakan kepada kami [Yazid bin Harun] telah menceritakan kepada kami [Hisyam bin Hasan] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4690</td></tr><tr><td>Arabic No</td><td>1812.07</td></tr><tr><td>Reference</td><td>Book 32 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4690</td></tr><tr><td>Arabic No</td><td>1812.07</td></tr><tr><td>Reference</td><td>Book 32 Hadith 172</td></tr></tbody></table></div>
 

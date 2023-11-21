@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] bahwa [Abu Yunus] Maula Abu Hurairah, menceritakan dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Pada suatu hari, aku pulang ke rumah isteriku, lalu kudapati sebuah kurma jatuh di lantai. Kurma itu kuambil hendak kumakan, tapi tiba-tiba aku ingat kalau-kalau kurma itu kurma sedekah, maka kuletakkan saja kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2476</td></tr><tr><td>Arabic No</td><td>1070.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Поистине, (бывает так, что) я прихожу к себе домой, нахожу на своей постели упавший финик и поднимаю его, чтобы съесть, а потом (начинаю) опасаться, что он (может) оказаться (частью) милостыни, и бросаю его (обратно)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2476</td></tr><tr><td>Arabic No</td><td>1070.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 213</td></tr></tbody></table></div>
 

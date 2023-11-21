@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Verse: 'But you did hide in your mind that which All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim] Telah menceritakan kepada kami [Mu'alla bin Manshur] dari [Hammad bin Zaid] Telah menceritakan kepada kami [Tsabit] dari [Anas bin Malik radliallahu 'anhu] bahwa ayat ini: "Sedang kamu menyembunyikan di dalam hatimu apa yang Allah akan menyatakannya.. (Al Ahzab: 37). Diturunkan berkenaan dengan Zainab binti Jahsy dan Zaid bin Haritsah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4787</td></tr><tr><td>Arabic No</td><td>4787</td></tr><tr><td>Reference</td><td>Book 65 Hadith 309</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал, что аят «Ты скрыл в своей душе то, что Аллах сделает явным…» был ниспослан по поводу Зейнаб бинт Джахш и Зейда ибн Харисы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4787</td></tr><tr><td>Arabic No</td><td>4787</td></tr><tr><td>Reference</td><td>Book 65 Hadith 309</td></tr></tbody></table></div>
 

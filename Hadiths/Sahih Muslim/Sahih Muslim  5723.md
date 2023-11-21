@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported in connection with incantation that he had been granted s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Abu Khaitsamah] dari ['Ashim Al Ahwal] dari [Yusuf bin 'Abdullah] dari [Anas bin Malik] mengenai ruqyah dia berkata; Di bolehkan meruqyah penyakit karena penyakit demam, karena gigitan semut, dan pengaruh pandangan mata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5723</td></tr><tr><td>Arabic No</td><td>2196.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5723</td></tr><tr><td>Arabic No</td><td>2196.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 77</td></tr></tbody></table></div>
 

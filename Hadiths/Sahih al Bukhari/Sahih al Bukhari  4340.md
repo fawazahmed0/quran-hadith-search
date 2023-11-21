@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:The Prophet (ﷺ) sent a Sariya under the command of a man from th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Abdul Wahid] Telah menceritakan kepada kami [Al A'masy] katanya, Telah menceritakan kepadaku [Sa'd bin Ubaidah] dari [Abu Abdurrahman] dari [Ali] radliallahu 'anhu, katanya, Nabi shallallahu 'alaihi wasallam suatu kali mengirim sebuah ekspedisi militer dan beliau angkat seorang laki-laki anshar untuk mengomandoi mereka sekaligus beliau perintahkan agar menaatinya. Selanjutnya si laki-laki anshar ini emosi dan berujar; "Bukankah Nabi telah perintahkan kalian untuk menaatiku?"Itu benar" Jawab anggotanya. Kata sang komandan; "Kalau begitu, kumpulkanlah kayu bakar untukku." Mereka pun melaksanakannya. Ia meneruskan intruksinya; "Sekarang, nyalakanlah api!" Mereka pun menyalakan. Ia meneruskan lagi; "Sekarang masuklah kalian ke api itu! Dan sebagian mereka mencegah sebagian lainya seraya berujar "Awas, kita dahulu menemui Nabi shallallahu 'alaihi wasallam dalam rangka menghindari api!" Terus mereka dengungkan peringatan ini hingga api padam, kemudian emosi sang komandan mereda. Berita ini sampai kepada Nabi shallallahu 'alaihi wasallam sehingga beliau bersabda: "Kalaulah mereka memasukinya, niscaya mereka tak bakalan bisa keluar hingga kiamat tiba. Sesungguhnya ketaatan hanya berlaku dalam kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4340</td></tr><tr><td>Arabic No</td><td>4340</td></tr><tr><td>Reference</td><td>Book 64 Hadith 369</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «(Как-то раз) Пророк ﷺ послал (в поход) отряд, поставив во главе его одного человека из числа ансаров и велев (остальным) подчиняться ему. (Во время похода этот человек за что-то) разгневался на них и воскликнул: “Разве Пророк ﷺ не велел вам подчиняться мне?!” Они сказали: “Да”. Тогда он велел: “Соберите мне дров!” — и они (сделали это). Потом он велел: “Разожгите огонь!” — и они разожгли его, а (затем) он велел: “Войдите в огонь!” (Сначала) они хотели (выполнить его приказ), но (потом) стали удерживать друг друга (от этого), говоря: “Прибегаем к (защите) Пророка ﷺ от огня!” — и они продолжали (повторять эти слова), пока огонь не погас, а гнев (этого человека) не улегся. Все это дошло до Пророка ﷺ и он сказал: “Если бы они вошли в (этот огонь), то уже не вышли бы из него до самого Дня воскресения, ибо повиноваться (следует лишь тому, что) одобряется (шариатом)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4340</td></tr><tr><td>Arabic No</td><td>4340</td></tr><tr><td>Reference</td><td>Book 64 Hadith 369</td></tr></tbody></table></div>
 

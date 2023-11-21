@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "If Allah sends punishment upon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Utsman], Telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] telah mengabarkan kepada kami [Hamzah bin Abdullah bin Umar], ia mendengar [Ibnu Umar] radliallahu 'anhuma mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika Allah menurunkan adzab, maka adzab itu akan mengenai siapa saja yang berada ditengah-tengah mereka, lantas mereka dihisab sesuai amalan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7108</td></tr><tr><td>Arabic No</td><td>7108</td></tr><tr><td>Reference</td><td>Book 92 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Когда Аллах посылает наказание на какой-нибудь народ, оно поражает собой всех тех, кто находится среди (этих людей), а потом их воскресят (и будут судить) по делам их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7108</td></tr><tr><td>Arabic No</td><td>7108</td></tr><tr><td>Reference</td><td>Book 92 Hadith 55</td></tr></tbody></table></div>
 

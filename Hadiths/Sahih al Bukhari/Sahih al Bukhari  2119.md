@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The congregational prayer of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] berkata: Telah bersabda Rasulullah shallallahu 'alaihi wasallam: "Shalat seseorang dari kalian dengan berjama'ah akan ditambahkan pahalanya dibanding shalatnya di pasarnya atau di rumahnya dengan lebih dua puluh derajat. Yang demikian itu karena bila dia berwudhu' dengan menyempurnakan wudhu'nya lalu menuju ke masjid, yang dia tidak keluar kecuali untuk melaksanakan shalat jamaah, tidak bergerak kecuali untuk shalat (berjama'ah), maka tidak ada satu langkahpun dari langkahnya kecuali akan ditinggikan satu derajat baginya atau akan dihapuskan satu kesalahannya. Dan Malaikat akan mendo'akan salah seorang dari kalian selama dia masih pada tempat shalatnya yang dia dijadikannya sebagai tempat shalatnya, (do'a malaikat tersebut): "Ya Allah, berilah shalawat untuknya. Ya Allah, rahmatilah dia, selama dia belum berhadats dan tidak menyakiti orang lain disana ". Dan Beliau bersabda: " Salah seorang diantara kalian sudah dianggap mendirikan shalat, ketika menunggu waktu shalat didirikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2119</td></tr><tr><td>Arabic No</td><td>2119</td></tr><tr><td>Reference</td><td>Book 34 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Коллективная молитва любого из вас превосходит его молитву на рынке или у себя дома в двадцать с лишним раз, так как если он совершит омовение должным образом, а затем придёт в мечеть с единственной целью совершить молитву, и ничто, кроме молитвы не будет побуждать его (к этому), то за каждый сделанный им шаг он будет возвышаться на одну ступень, или с него будет сниматься одно прегрешение. И ангелы будут обращаться с мольбами к Аллаху за каждого из вас всё то время, пока он будет оставаться на месте, где он помолился, говоря: «О Аллах, благослови его, о Аллах, помилуй его!» До тех пор, пока он не осквернится или пока он (никому) не причинит обиды (находясь там)». Так же он (Пророк ﷺ) сказал: «(будет считаться, что) человек занят молитвой всё то время, пока (лишь) молитва будет удерживать его (там)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2119</td></tr><tr><td>Arabic No</td><td>2119</td></tr><tr><td>Reference</td><td>Book 34 Hadith 72</td></tr></tbody></table></div>
 

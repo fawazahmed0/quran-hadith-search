@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nawwas b. Sam'an reported:I stayed with Allah's Messenger (ﷺ) for one year. Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili]; Telah menceritakan kepada kami ['Abdullah bin Wahb]; Telah menceritakan kepadaku [Mu'awiyah] yaitu Ibnu Shalih dari ['Abdur Rahman bin Jubair bin Nufair] dari [Bapaknya] dari [Nawwas bin Sim'an] dia berkata; "Saya pernah tinggal bersama Rasulullah shallallahu 'alaihi wasallam selama satu tahun di Madinah. Saya tidak dapat pergi hijrah (bersama Rasulullah shallallahu 'alaihi wasallam) karena adanya suatu masalah." Seseorang dari kami apabila berhijrah biasanya tidak menanyakan tentang sesuatupun kepada Rasulullah shallallahu 'alaihi wasallam. Kemudian saya bertanya kepada Rasulullah tentang kebaikan dan dosa. Lalu beliau bersabda: 'Kebaikan adalah budi pekerti yang baik, sedangkan dosa adalah apa yang terlintas/terdetik dalam dadamu dan kamu tidak suka jika hal itu diketahui orang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6517</td></tr><tr><td>Arabic No</td><td>2553.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6517</td></tr><tr><td>Arabic No</td><td>2553.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 17</td></tr></tbody></table></div>
 

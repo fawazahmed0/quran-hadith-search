@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I accompanied Allah's Messenger (ﷺ) and he never offered mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari ['Isa bin Hafsh bin 'Ashim] berkata, telah menceritakan kepada saya [Bapakku] bahwasanya dia mendengar [Ibnu 'Umar radliallahu 'anhuma] berkata: "Aku pernah menemani Rasulullah shallallahu 'alaihi wasallam ketika safar (bepergian), selama kepergian itu Beliau tidak lebih melaksanakan shalat kecuali dua raka'at. Begitu juga dengan Abu Bakar, 'Umar dan 'Utsman radliallahu 'anhum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1102</td></tr><tr><td>Arabic No</td><td>1102</td></tr><tr><td>Reference</td><td>Book 18 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Я сопровождал Посланника Аллаха ﷺ и он не совершал больше двух рак‘атов во время путешествия. Абу Бакр, ‘Умар и ‘Усман, да будет доволен ими Аллах, делали то же самое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1102</td></tr><tr><td>Arabic No</td><td>1102</td></tr><tr><td>Reference</td><td>Book 18 Hadith 22</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Bahz bin Hakim reported on the authority of his father from his grandfather (Mu'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Basysyar], telah menceritakan kepada kami [Yahya bin Sa'id], telah menceritakan kepada kami [Bahz bin Hakim], telah menceritakan kepadaku [ayahku] dari [kakekku], ia berkata; aku katakan; wahai Rasulullah, apa yang boleh kami lakukan dalam menggauli istri kami dan apa yang harus kami tinggalkan? Beliau menjawab: "Datangilah tanah tempat bercocok-tanammu itu bagaimana saja kamu kehendaki. Dan berilah mereka makan apabila engkau makan, berilah ia pakaian apabila engkau berpakaian, dan janganlah engkau menjelekkan (mencaci) wajah(nya), serta janganlah engkau memukul (wajahnya)." Abu Daud berkata; [Syu'bah] telah meriwayatkan dengan kata; engkau memberinya makan apabila engkau makan, dan memberinya pakaian apabila engkau memakai pakaian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2143</td></tr><tr><td>Arabic No</td><td>2143</td></tr><tr><td>Reference</td><td>Book 12 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Бахза ибн Хакима: «Мне рассказывал мой отец от моего деда: “Я спросил: “О Посланник Аллаха, что нам дозволено делать с нашими жёнами, а что запрещено?” Он ответил: “Приходи на пашню свою, как пожелаешь… Корми жену, когда ешь сам, одевай её, когда одеваешься сам, и не оскорбляй её и не бей””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2143</td></tr><tr><td>Arabic No</td><td>2143</td></tr><tr><td>Reference</td><td>Book 12 Hadith 98</td></tr></tbody></table></div>
 

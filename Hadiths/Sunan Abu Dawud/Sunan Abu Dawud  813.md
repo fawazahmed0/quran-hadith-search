@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ HIsham b . ‘Urwah said that his father (‘Umrah) used to recite the surahs as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Hisyam bin 'Urwah] bahwa dalam shalat Maghrib [ayahnya (Urwah)] biasa membaca (surat) sebatas kalian membaca surat "WAL 'ADIYAT" dan surat semisalnya." Abu Daud berkata; "Ini menunjukkan bahwa hadits yang diatas terhapus, sedangkan hadits ini lebih shahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>813</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 2 Hadith 423</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хишама ибн ‘Урва, что его отец обычно читал во время закатной молитвы суры наподобие «аль-‘Адият» и других подобных сур.Абу Дауд сказал: «Это указывает на то, что (долгое чтение аятов) в закатной молитве было отменено, и это более достоверно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>813</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 2 Hadith 423</td></tr></tbody></table></div>
 

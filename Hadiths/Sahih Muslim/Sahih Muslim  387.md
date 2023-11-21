@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée) l'Envoyé de Dieu (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Shalih bin Shalih al-Hamdani] dari [Asy-Sya'bi] dia berkata, "Saya melihat seorang laki-laki penduduk Khurasan bertanya kepada asy-Sya'bi, ia tanyakan, 'Wahai Abu Amru, orang-orang sebelum kami dari penduduk Khurasan berkata tentang seorang laki-laki yang membebaskan budak wanitanya kemudian menikahinya, maka laki-laki itu seperti orang yang mengendarai untanya? ' Lalu asy-Sya'bi menjawab, " [Abu Burdah bin Abu Musa] telah menceritakan kepadaku, dari [ayahnya], dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Ada tiga orang manusia yang diberi pahala dua kali lipat: seorang lelaki Ahli Kitab yang beriman kepada nabinya, ketika ia berjumpa Nabi Muhammad shallallahu 'alaihi wasallam kemudian beriman kepadanya, mengikuti dan membenarkannya, maka dia mendapat dua pahala. Kedua, seorang hamba sahaya yang menunaikan kewajibannya terhadap Allah dan kewajibannya terhadap tuannya, maka dia juga mendapat dua pahala. Ketiga, ialah seseorang yang mempunyai hamba sahaya perempuan, dia memberinya makan dengan baik, mendidiknya dengan sebaik-baik pendidikan, lalu memerdekakan dan menikahinya, maka dia juga mendapat dua pahala." Kemudian Asy-Sya'bi berkata kepada orang Khurasan itu, "Ambilah hadits ini dengan Cuma-Cuma (geratis), sungguh orang-orang dahulu melakukan perjalanan hingga madinah untuk sesuatu (mendapatkan hadits) yang kurang dari ini." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Abdah bin Sulaiman]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan]. (dalam jalur lain disebutkan) Dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] seluruhnya dari [Shalih bin Shalih] dengan isnad ini, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>387</td></tr><tr><td>Arabic No</td><td>154.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 293</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салих ибн Салих аль-Хамдани передал об аш-Ша‘би следующее: «Я слышал, как один человек из Хорасана, который задавал аш-Ша‘би вопросы, сказал (ему): “О Абу ‘Амр, кого бы из хорасанцев мы ни принимали, все они говорят, что человек, который освободил свою рабыню, а потом женился на ней, подобен тому, кто ездит на своей жертвенной верблюдице /бадана/”. (На это) аш-Ша‘би сказал: “Абу Бурда ибн Аби Муса передал мне со слов своего отца, что Посланник Аллаха ﷺ сказал: “Троим награда будет дана дважды: человеку из числа людей Писания, который веровал в своего пророка, а (потом) застал (этого) Пророка ﷺ, уверовал в него, последовал за ним и поверил ему, ему (достанется) двойная награда; подневольному рабу, который выполнял свои обязанности как по отношению к Аллаху Всевышнему, так и по отношению к своему хозяину, ему (достанется) двойная награда; и человеку, который, имел рабыню, хорошо кормил её и дал ей хорошее воспитание, а потом освободил её и женился на ней, ему (достанется) двойная награда”». А потом аш-Ша‘би сказал (этому) хорасанцу: «Возьми этот хадис бесплатно, а (другие) люди приезжали в Медину и за меньшим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>387</td></tr><tr><td>Arabic No</td><td>154.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 293</td></tr></tbody></table></div>
 

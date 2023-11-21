@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported Allah's Messenger (ﷺ) as saying:For every Umma there is a man of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Ismail bin 'Ulayyah] dari [Khalid] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Ismail bin Ulayyah] Telah mengabarkan kepada kami [Khalid] dari [Abu Qilabah] dia berkata; [Anas] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya setiap umat memiliki 'Amin' (penjaga/orang terpercaya) dan Amin kita adalah Abu Ubaidah bin Jarrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6252</td></tr><tr><td>Arabic No</td><td>2419.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6252</td></tr><tr><td>Arabic No</td><td>2419.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 82</td></tr></tbody></table></div>
 

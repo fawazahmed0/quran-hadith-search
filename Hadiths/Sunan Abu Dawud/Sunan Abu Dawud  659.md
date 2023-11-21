@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mughirah ibn Shu'bah: The Messenger of Allah (ﷺ) used to pray on a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah] dan [Utsman bin Abi Syaibah] dengan makna yang sama dalam isnad dan lafazh hadits. Mereka berdua berkata; Telah menceritakan kepada kami [Abu Ahmad Az-Zubairi] dari [Yunus bin Al-Harits] dari [Abu 'Aun] dari [Ayahnya] dari [Al-Mughirah bin Syu'bah] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah shalat di atas tikar dan kulit yang telah disamak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>659</td></tr><tr><td>Arabic No</td><td>659</td></tr><tr><td>Reference</td><td>Book 2 Hadith 269</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугъира ибн Шу‘ба сказал: «Посланник Аллаха ﷺ совершал молитву на циновке и дублённой шкуре».Также этот хадис передали Ахмад 4/254, Ибн Хузайма 2/110, аль-Хаким 1/259, аль-Байхакъи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>659</td></tr><tr><td>Arabic No</td><td>659</td></tr><tr><td>Reference</td><td>Book 2 Hadith 269</td></tr></tbody></table></div>
 

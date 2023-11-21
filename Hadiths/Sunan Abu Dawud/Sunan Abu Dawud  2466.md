@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:The Prophet (ﷺ) used to observe I'tikaf during ten days of R
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad], dari [Abu Bakr] dari [Abu Hushain] dari [Abu Shalih] dari [Abu Hurairah], ia berkata; Nabi shallallahu 'alaihi wasallam beri'tikaf sepuluh hari setiap Bulan Ramadhan. Kemudian tatkala pada tahun meninggalnya, beliau melakukan i'tikaf sebanyak dua puluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2044)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2466</td></tr><tr><td>Arabic No</td><td>2466</td></tr><tr><td>Reference</td><td>Book 14 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ совершал каждый рамадан и‘тикаф в течение десяти дней, а в последний год своей жизни он совершал и‘тикаф в течение двадцати дней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2044)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2466</td></tr><tr><td>Arabic No</td><td>2466</td></tr><tr><td>Reference</td><td>Book 14 Hadith 154</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that when the Messenger of Allah (ﷺ) fasted on the day of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Al Hasan bin Ali Al Hulwani] telah menceritakan kepada kami [Ibnu Abu Maryam] telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepadaku [Isma'il bin Umayyah] bahwa ia mendengar [Abu Ghathafan bin Tharif Al Murri] berkata, saya mendengar [Abdullah bin Abbas] radliallahu 'anhuma berkata saat Rasulullah shallallahu 'alaihi wasallam berpuasa pada hari 'Asyura'dan juga memerintahkan para sahabatnya untuk berpuasa; Para sahabat berkata, "Wahai Rasulullah, itu adalah hari yang sangat diagungkan oleh kaum Yahudi dan Nashrani." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada tahun depan insya Allah, kita akan berpuasa pada hari ke sembilan (Muharram)." Tahun depan itu pun tak kunjung tiba, hingga Rasulullah shallallahu 'alaihi wasallam wafat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2666</td></tr><tr><td>Arabic No</td><td>1134.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Абу Гъатафана ибн Тарийфа аль-Мурри о том, что он слышал, как Ибн ‘Аббас, да будет доволен ими обоими Аллах, говорил: «Когда Посланник Аллаха ﷺ постился в день ‘Ашураъ, и велел другим поститься, люди сказали: “О, Посланник Аллаха, этот день возвеличивают иудеи и христиане”. И тогда Посланник Аллаха ﷺ сказал: “Когда настанет будущий год, если пожелает Аллах, то будем поститься и девятый день”».(Ибн ‘Аббас, да будет доволен ими обоими Аллах,) сказал: «Но не успел настать следующий год, как Посланник Аллаха, да благословит его Аллах и приветствует, умер»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2666</td></tr><tr><td>Arabic No</td><td>1134.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 172</td></tr></tbody></table></div>
 

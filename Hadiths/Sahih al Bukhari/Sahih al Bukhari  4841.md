@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin Sahban:'Abdullah bin Mughaffal Al-Muzani who was one of those
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Syababah] Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia berkata; Aku mendengar ['Uqbah bin Shahban] dari [Abdullah bin Mughaffal Al Muzani], Sesungguhnya aku termasuk orang yang menghadiri peristiwa bai'atur Ridwan. Rasulullah shallallahu 'alaihi wasallam melarang melempar buruan dengan batu. Dan dari Uqbah bin Shahban dia berkata; Aku mendengar Abdullah bin Mughaffal Al Muzani berkata mengenai kencing ditempat pemandian menyebabkan rasa was-was
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4841</td></tr><tr><td>Arabic No</td><td>4841</td></tr><tr><td>Reference</td><td>Book 65 Hadith 362</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Укбы ибн Сухбана, что ‘Абдуллах ибн Мугъаффаль аль-Музани, который был одним из тех, кто давал присягу под деревом, сказал: «Пророк ﷺ запретил метать камешки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4841</td></tr><tr><td>Arabic No</td><td>4841</td></tr><tr><td>Reference</td><td>Book 65 Hadith 362</td></tr></tbody></table></div>
 

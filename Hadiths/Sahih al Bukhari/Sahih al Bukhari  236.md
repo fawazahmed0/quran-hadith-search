@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:The Prophet (ﷺ) was asked regarding ghee in which a mouse had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Ma'n] berkata, telah menceritakan kepada kami [Malik] dari [Ibnu Syihab] dari [Ubaidullah bin 'Abdullah bin 'Utbah bin Mas'ud] dari [Ibnu 'Abbas] dari [Maimunah], bahwa Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang bangkai tikus yang jatuh ke dalam lemak (minyak samin). Beliau lalu menjawab: "Buanglah bangkai tikus itu dan lemak yang ada di sekitarnya." [Ma'n] berkata, telah menceritakan kepada kami [Malik] -apa yang aku tidak bisa menghitungnya- ia berkata dari [Ibnu 'Abbas] dari [Maimunah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>236</td></tr><tr><td>Arabic No</td><td>236</td></tr><tr><td>Reference</td><td>Book 4 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Аббас передал со слов Маймуны, да будет доволен ею Аллах, что однажды Пророка ﷺ спросили о (том, что следует делать с) маслом, в которое попала мышь, и он сказал: «Достаньте и выбросьте (мышь) со всем тем, что вокруг неё есть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>236</td></tr><tr><td>Arabic No</td><td>236</td></tr><tr><td>Reference</td><td>Book 4 Hadith 102</td></tr></tbody></table></div>
 

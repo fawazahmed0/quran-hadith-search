@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Whenever Ibn 'Umar was asked about marrying a Christian lady or a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Laits] dari [Nafi'] bahwa apabila [Ibnu Umar] ditanya tentang hukum menikahi wanita Nashrani dan wanita Yahudi ia menjawab, "Sesungguhnya Allah telah mengharamkan wanita-wanita musyrik atas orang-orang yang beriman. Dan aku tidak mengetahui adanya kesyirikan yang paling besar daripada seorang wanita yang mengatakan bahwa Rabbnya adalah Isa, padahal ia hanyalah hamba dari hamba-hamba Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5285</td></tr><tr><td>Arabic No</td><td>5285</td></tr><tr><td>Reference</td><td>Book 68 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ рассказал о том, что, когда Ибн ‘Умара спрашивали о женитьбе на христианке или иудейке, он говорил: «Поистине, Аллах сделал многобожниц запретными для верующих, и я не знаю такого вида многобожия, который был бы хуже, чем слова женщины, говорящей о том, что ‘Иса — её Бог! При том, что он является (лишь) одним из рабов Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5285</td></tr><tr><td>Arabic No</td><td>5285</td></tr><tr><td>Reference</td><td>Book 68 Hadith 34</td></tr></tbody></table></div>
 

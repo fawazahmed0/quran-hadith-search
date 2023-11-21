@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I saw that Allah's Messenger (ﷺ) used to ride on his Mount 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Isa] telah menceritakan kepada kami [Ibnu Wahab] dari [Yunus] dari [Ibnu Syihab] bahwa [Salim bin 'Abdullah bin 'Umar] mengabarkannya bahwa [Ibnu 'Umar radliallahu 'anhuma] berkata; "Aku melihat Rasulullah shallallahu 'alaihi wasallam menunggang hewan tunggangannya di Dzul Hulaifah kemudian Beliau bertalbiyyah (memulia niat hajji) ketika tunggangannya itu berdiri tegak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1514</td></tr><tr><td>Arabic No</td><td>1514</td></tr><tr><td>Reference</td><td>Book 25 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я видел, как в Зуль-Хулейфе Посланник Аллаха ﷺ садился верхом на свою верблюдицу, а в состояние ихрама он начал входить после того, как она поднялась на ноги вместе с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1514</td></tr><tr><td>Arabic No</td><td>1514</td></tr><tr><td>Reference</td><td>Book 25 Hadith 2</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "Today a pious man from Eth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] telah mengabarkan mereka, katanya telah mengabarkan kepada saya ['Atha'] bahwa dia mendengar [Jabir bin 'Abdullah radliallahu 'anha] berkata,: "Hari ini telah wafat seorang laki-laki shalih, untuk itu marilah laksanakan shalat untuknya". Dia (Jabir) berkata,: Maka kami dibariskan lalu Nabi Shallallahu'alaihiwasallam melaksanakan shalat dan kami bersama Beliau shalat dalam barisan (shaf-shaf di belakang). Berkata, [Abu Az Zubair] dari [Jabir]: "Dan aku berada pada shaf kedua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1320</td></tr><tr><td>Arabic No</td><td>1320</td></tr><tr><td>Reference</td><td>Book 23 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, от Джабира ибн ‘Абдуллаха, да будет доволен ими обоим Аллах, что Пророк ﷺ сказал: «Сегодня умер праведный человек из Эфиопии, так встаньте и помолитесь за него». (Джабир) сказал: «Мы выстроились рядами, и Пророк ﷺ совершил за него молитву, а мы стояли позади него, выстроившись рядами». Джабир добавил: «Я был во втором ряду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1320</td></tr><tr><td>Arabic No</td><td>1320</td></tr><tr><td>Reference</td><td>Book 23 Hadith 77</td></tr></tbody></table></div>
 

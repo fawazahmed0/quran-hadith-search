@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I said, "O Allah's Messenger (ﷺ)! I have two neighbors! To who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] dia berkata; telah mengabarkan kepadaku [Abu 'Imran] dia berkata; saya mendengar [Thalhah] dari [Aisyah] dia berkata; saya bertanya; "Wahai Rasulullah, saya memiliki dua tetangga, lalu manakah yang lebih aku beri hadiah terlebih dahulu?" beliau menjawab: "Yang lebih dekat dengan pintu rumahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6020</td></tr><tr><td>Arabic No</td><td>6020</td></tr><tr><td>Reference</td><td>Book 78 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) я спросила: “О Посланник Аллаха, у меня есть два соседа, так кому же из них сделать подарок?”, (на что Пророк ﷺ) сказал: “Тому, чья дверь к тебе ближе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6020</td></tr><tr><td>Arabic No</td><td>6020</td></tr><tr><td>Reference</td><td>Book 78 Hadith 51</td></tr></tbody></table></div>
 

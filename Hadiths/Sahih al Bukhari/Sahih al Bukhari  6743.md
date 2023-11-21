@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:While I was sick, the Prophet (ﷺ) entered upon me and asked for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Utsman] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Syu'bah] dari [Muhammad bin Al Munkadir] mengatakan; aku mendengar [Jabir radhiyallhu'anhu] mengatakan; Nabi shallallahu 'alaihi wasallam mendatangiku ketika saya sedang sakit, kemudian beliau meminta diambilkan air dan berwudhu, kemudian beliau memerciki saya dengan bekas air wudhunya sehingga saya siuman, maka kutanyakan; 'Wahai Rasulullah, saya mempunyai beberapa saudara perempuan! ' maka turunlah ayat faraidh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6743</td></tr><tr><td>Arabic No</td><td>6743</td></tr><tr><td>Reference</td><td>Book 85 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Однажды, когда я заболел, Пророк ﷺ пришёл ко мне, совершил омовение и побрызгал на меня воду, (оставшуюся после омовения), после чего я пришёл в себя и сказал: “О Посланник Аллаха, у меня есть только сёстры, (как мне распорядиться своим имуществом)?” И тогда был ниспослан аят о наследовании»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6743</td></tr><tr><td>Arabic No</td><td>6743</td></tr><tr><td>Reference</td><td>Book 85 Hadith 20</td></tr></tbody></table></div>
 

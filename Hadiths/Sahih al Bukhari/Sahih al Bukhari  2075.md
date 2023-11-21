@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zubair bin Al-Awwam:The Prophet (ﷺ) said, "One would rather take a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [bapaknya] dari [Az Zubair bin Al 'Awam radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: Sungguh seseorang dari kalian yang mengambil talinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2075</td></tr><tr><td>Arabic No</td><td>2075</td></tr><tr><td>Reference</td><td>Book 34 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Зубейра ибн аль-‘Ауама, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, для любого из вас взять верёвки…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2075</td></tr><tr><td>Arabic No</td><td>2075</td></tr><tr><td>Reference</td><td>Book 34 Hadith 28</td></tr></tbody></table></div>
 

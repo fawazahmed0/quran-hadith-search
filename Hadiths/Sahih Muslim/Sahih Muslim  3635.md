@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb], [Muhammad bin Al Mutsanna] dan ['Ubaidullah bin Sa'id] mereka berkata; Telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Ubaidillah] telah mengabarkan kepadaku [Sa'id bin Abu Sa'id] dari [ayahnya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Seorang wanita dinikahi karena empat perkara; karena hartanya, keturunannya, kecantikannya, dan karena agamanya, maka pilihlah karena agamanya, niscaya kamu beruntung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3635</td></tr><tr><td>Arabic No</td><td>1466</td></tr><tr><td>Reference</td><td>Book 17 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3635</td></tr><tr><td>Arabic No</td><td>1466</td></tr><tr><td>Reference</td><td>Book 17 Hadith 68</td></tr></tbody></table></div>
 

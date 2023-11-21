@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Safwan b. Ya'la reported that a person bit the arm of the servant of Ya'la b. Mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [Ayahku] dari [Qatadah] dari [Budail] dari ['Atha bin Abu Rabah] dari [Shafwan bin Ya'la], bahwa seorang laki-laki pernah menggigit lengan pembantu milik Ya'la bin Munabbih, lalu dia berusaha menarik tangannya, sehingga gigi orang yang mengigit itu pun tanggal. Ketika permasalahan itu sampai kepada Nabi shallallahu 'alaihi wasallam, maka beliau tidak mengambil diyatnya, bahkan beliau bersabda: "Apakah kamu ingin menggigitnya sebagaimana kuda pejantan menggigit?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4369</td></tr><tr><td>Arabic No</td><td>1674.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4369</td></tr><tr><td>Arabic No</td><td>1674.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 28</td></tr></tbody></table></div>
 

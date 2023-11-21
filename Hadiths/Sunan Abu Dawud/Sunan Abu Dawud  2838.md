@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: The Prophet (ﷺ) said: A boy is in pledge for his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Al Mutsanna], telah menceritakan kepada kami [Ibnu Abu Adi], dari [Sa'id] dari [Qatadah] dari [Al Hasan] dari [Samurah bin Jundub] bahwa Rasulullah shallallahu 'alaihi wasallam berkata: "Setiap anak tergadaikan dengan aqiqahnya, disembelihkan untuknya pada hari ketujuhnya, dicukur rambutnya dan diberi nama." Abu Daud berkata; dan kata yusamma (diberi nama) adalah lebih benar. Demikianlah yang dikatakan [Sallam bin Abu Muthi'] dari [Qatadah] serta [Iyas bin Daghfal], dan [Asy'ats], dari [Al Hasan], ia berkata; dan diberi nama. Dan hadits tersebut diriwayatkan oleh Asy'ats dari Al Hasan dari Nabi shallallahu 'alaihi wasallam dan ia diberi nama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2838</td></tr><tr><td>Arabic No</td><td>2838</td></tr><tr><td>Reference</td><td>Book 16 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Самуры ибн Джундуба, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Каждый мальчик является заложником своей ‘акыки. Животное режется за него на седьмой день после рождения, и тогда же ему бреют голову и дают имя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2838</td></tr><tr><td>Arabic No</td><td>2838</td></tr><tr><td>Reference</td><td>Book 16 Hadith 51</td></tr></tbody></table></div>
 

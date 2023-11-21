@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' bin 'Azib:The Messenger of Allah (ﷺ) delivered a sermon to u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu Al Ahwash], telah menceritakan kepada kami [Manshur], dari [Asy Sya'bi], dari [Al Bara'], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkhutbah kepada kami pada hari penyembelihan ('idul Adhha) setelah melakukan shalat. Beliau berkata: "Barangsiapa yang melakukan shalat seperti shalat kami dan menyembelih sembelihan kami maka sungguh ia telah telah melakukan kurban, dan barang siapa yang menyembelih sebelum shalat maka hal itu adalah kambing daging (untuk dimakan dagingnya saja)." Kemudian Abu Burdah bin Diyar berdiri dan berkata; wahai Rasulullah, aku telah menyembelih sebelum keluar untuk melakukan shalat, dan aku telah mengetahui bahwa hari ini adalah hari makan dan minum, maka aku segerekan penyembelihan tersebut, lalu aku makan dan memberi makan keluarga serta tetanggaku. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Itu adalah kambing untuk dimakan dagingnya saja." Kemudian beliau bersabda: "Sesungguhnya bagiku kambing yang berumur satu tahun lebih baik daripada dua kambing daging (yang dimakan dagingnya saja)." Al Bara' berkata: "Apakah sah bagiku? Ia berkata; ya. Dan tidak sah untuk seorang pun setelahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (983) Sahih Muslim (1961)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2800</td></tr><tr><td>Arabic No</td><td>2800</td></tr><tr><td>Reference</td><td>Book 16 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Бара, да будет доволен им Аллах: «Посланник Аллаха ﷺ в день жертвоприношения обратился к нам с проповедью после молитвы. Он сказал: “Кто совершил нашу молитву и наше жертвоприношение, тот совершил жертвоприношение. А если кто-то совершил жертвоприношение до молитвы, эта овца просто мясо”. Тогда поднялся Абу Бурда ибн Нияр и сказал: “О Посланник Аллаха! Клянусь Аллахом! Я зарезал животное до того, как пойти на молитву. Я узнал, что сегодня день еды и питья, и поторопился поесть и накормить членов своей семьи и соседей”. Посланник Аллаха ﷺ сказал: “Эта овца просто мясо”. Он сказал: “У меня дома есть небольшая козочка (в возрасте меньше года). Она даже лучше, чем две овцы. Будет ли моё жертвоприношение действительным, если я принесу в жертву её?” (Посланник Аллаха ﷺ) сказал: “Да, однако такое жертвоприношение не будет действительным ни для кого после тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (983) Sahih Muslim (1961)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2800</td></tr><tr><td>Arabic No</td><td>2800</td></tr><tr><td>Reference</td><td>Book 16 Hadith 13</td></tr></tbody></table></div>
 

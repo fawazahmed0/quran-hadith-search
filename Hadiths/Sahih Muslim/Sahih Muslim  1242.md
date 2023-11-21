@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Messenger of Allah (ﷺ) said: When the supper is bro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] dari [Ibnu Syihab] dia berkata, telah menceritakan kepadaku [Anas bin Malik] "Bahwa Rasulullah Shallallahu'alaihiwasallam bersabda, 'Apabila makan malam sudah dihidangkan, sedangkan shalat sudah diiqamatkan, maka dahulukanlah makan malam sebelum kalian makan maghrib, dan jangan tergesa-gesa dalam makan malammu'." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ibnu Numair], [Hafsh] dan [Waki'] dari [Hisyam] dari [Bapaknya] dari [Aisyah radhiyallahu'anhu] dari Nabi Shallallahu'alaihiwasallam dengan semisal hadits Ibnu Uyainah, dari az-Zuhri dari Anas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1242</td></tr><tr><td>Arabic No</td><td>557.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика о том, что Посланник Аллаха ﷺ сказал: «Если принесут ужин и (в это время объявят о) начале молитвы, начинайте ужинать перед тем, как совершить закатную молитву и во время своего ужина не торопитесь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1242</td></tr><tr><td>Arabic No</td><td>557.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 80</td></tr></tbody></table></div>
 

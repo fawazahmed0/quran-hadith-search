@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:Allah's Messenger (ﷺ) stopped (for a while near th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Isa bin Tholhah] dari ['Abdullah bin 'Amru] bahwa Rasulullah shallallahu 'alaihi wasallam ketika sedang wuquf pada saat haji Wada' orang-orang pada bertanya kepada Beliau. Berkata, seorang laki-laki: "Aku belum mengerti sehingga aku mencukur rambut sebelum aku menyembelih hewan qurban?". Beliau menjawab: "Sembelihlah dan tidak dosa". Lalu datang orang lain, seraya berkata: "Aku belum mengerti sehingga aku menyembelih qurban sebelum aku melempar jumrah". Beliau menjawab: "Melemparlah dan tidak dosa". Dan tidaklah Beliau ditanya pada hari itu tentang sesuatu apakah didahulukan atau diakhirkan melainkan Beliau selalau berkata: "Lakukanlah dan tidak dosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1736</td></tr><tr><td>Arabic No</td><td>1736</td></tr><tr><td>Reference</td><td>Book 25 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ в прощальном хадже стоял в Мине, люди задавали ему вопросы, и один человек сказал: «Я забыл и обрил голову прежде, чем совершить жертвоприношение…». Посланник Аллаха ﷺ сказал: «Совершай жертвоприношение. Ничего страшного». Тогда пришёл другой и сказал: «Я не знал и совершил жертвоприношение до того, как бросить камешки…». Пророк ﷺ сказал в ответ: «Бросай сейчас, ничего страшного». И о чём бы ни спросили его в тот день, совершенного раньше или позже положенного времени, он отвечал: «Делай так, ничего страшного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1736</td></tr><tr><td>Arabic No</td><td>1736</td></tr><tr><td>Reference</td><td>Book 25 Hadith 214</td></tr></tbody></table></div>
 

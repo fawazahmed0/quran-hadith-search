@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMusa al-Ash'ari: The Messenger of Allah (ﷺ) said: He who plays bac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Musa bin Maisarah] dari [Sa'id bin Abu Hind] dari [Abu Musa Al Asy'ari] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang bermain-main dengan dadu, maka ia telah bermaksiat kepada Allah dan Rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4938</td></tr><tr><td>Arabic No</td><td>4938</td></tr><tr><td>Reference</td><td>Book 43 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы аль-Аш‘ари (да будет доволен им Аллах), что Посланник Аллаха ﷺ сказал: «Тот, кто сыграл в нарды, проявил непокорность Аллаху и Его Посланнику»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4938</td></tr><tr><td>Arabic No</td><td>4938</td></tr><tr><td>Reference</td><td>Book 43 Hadith 166</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tariq:'Abdullah said, "The best talk is Allah's Book (Qur'an), and the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari [Muhariq] saya mendengar [Thariq] berkata; [Abdullah] berkata; "Sesungguhnya sebaik-baik ucapan adalah kitabullah, dan sebaik-baik petunjuk adalah petunjuk Muhammad shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6098</td></tr><tr><td>Arabic No</td><td>6098</td></tr><tr><td>Reference</td><td>Book 78 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Тарик ибн Шихаба, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Воистину, самые лучшие слова — это книга Аллаха, а самый лучший путь — это путь Мухаммада ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6098</td></tr><tr><td>Arabic No</td><td>6098</td></tr><tr><td>Reference</td><td>Book 78 Hadith 125</td></tr></tbody></table></div>
 

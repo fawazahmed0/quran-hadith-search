@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) looked at the people of the well (the well 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepadaku [bapakku] dari [Shalih] telah menceritakan kepada saya [Nafi'] bahwa [Ibnu 'Umar radliallahu 'anhuma] mengabarkannya berkata; Nabi Shallallahu'alaihiwasallam mendatangi para penghuni sumur (kaum musyrikin) yang terbunuh dalam perang Badar lalu bersabda: "Kalian telah mendapatkan apa yang dijanjkan Rabb kalian adalah benar". Lalu Beliau ditanya: "Anda memanggil mereka (yang sudah mati)?". Maka Beliau menjawab: "Tidaklah kalian lebih bisa mendengar daripada mereka, hanya saja mereka tidak dapat menjawab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1370</td></tr><tr><td>Arabic No</td><td>1370</td></tr><tr><td>Reference</td><td>Book 23 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Посмотрев на убитых, которые были сброшены в колодец, Пророк ﷺ сказал: “(Теперь) вы поняли, что обещанное Господом вашим — истина?” Кто-то спросил его: “Неужели ты обращаешься к мёртвым?” (На это Пророк ﷺ) сказал: “Они слышат не хуже вас, но только не могут ответить”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1370</td></tr><tr><td>Arabic No</td><td>1370</td></tr><tr><td>Reference</td><td>Book 23 Hadith 122</td></tr></tbody></table></div>
 

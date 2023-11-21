@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Farwa' b. Naufal Ashja'i reported:I asked: 'A'isha, in what words did Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Ishaq bin Ibrahim] -dan lafadh ini milik Yahya- mereka berkata; telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Hilal] dari [Farwah bin Naufal Al Asyja'i] dia berkata; "Saya pernah bertanya kepada Aisyah tentang doa yang pernah diucapkan oleh Rasulullah shallallahu 'alaihi wasallam memohon kepada Allah Azza wa Jalla. Maka [Aisyah] menjawab; 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam pernah berdoa sebagai berikut: "ALLAHUMMA INNI A'UUDZU BIKA MIN SYARRI MAA 'AMILTU WA MIN SYARRI MAA LAM A'MAL (Ya Allah, aku berlindung kepada-Mu dari keburukan perbuatan yang telah aku lakukan dan yang belum aku lakukan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895</td></tr><tr><td>Arabic No</td><td>2716.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6895</td></tr><tr><td>Arabic No</td><td>2716.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 88</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) sent for a slave who had the professio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Humaid Ath-Thowil] dari [Anas bin Malik radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam memanggil seorang budak tukang bekam. Maka dia membekam Bel; iau dan Beliau memberi satu sha' atau dua sha atau satu mud atau dua mud dan berpesan agar pajaknya diringankan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2281</td></tr><tr><td>Arabic No</td><td>2281</td></tr><tr><td>Reference</td><td>Book 37 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ позвал раба-цирюльника. Он сделал ему кровопускание, и Пророк ﷺ приказал дать ему (за это) один или два са‘ (фиников), или мудд, или два мудда, и поговорил с его хозяевами, чтобы они снизили (взимаемую) с него плату»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2281</td></tr><tr><td>Arabic No</td><td>2281</td></tr><tr><td>Reference</td><td>Book 37 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:We stayed (in Mecca) for ten days along with the Prophet (ﷺ) and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] -lewat jalur periwayatan lain-Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Yahya bin Abu Ishaq] dari [Anas] radliallahu 'anhu, katanya, kami bermukim bersama Nabi shallallahu 'alaihi wasallam sepuluh hari, dan sekian hari itu kami melakukan qashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4297</td></tr><tr><td>Arabic No</td><td>4297</td></tr><tr><td>Reference</td><td>Book 64 Hadith 330</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Мы пробыли (в Мекке) вместе с Пророком ﷺ десять дней, сокращая молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4297</td></tr><tr><td>Arabic No</td><td>4297</td></tr><tr><td>Reference</td><td>Book 64 Hadith 330</td></tr></tbody></table></div>
 

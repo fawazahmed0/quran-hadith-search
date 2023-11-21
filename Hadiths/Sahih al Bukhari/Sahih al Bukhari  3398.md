@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The Prophet (ﷺ) said, 'People will be struck unconscious on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Sufyan] dari ['Amru binYahya] dari [bapaknya] dari [Abu Sa'id radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Manusia semua akan mati pada hari qiyamat lalu aku menjadi orang yang pertama yang sadar (dihidupkan lagi), ternyata di hadapanku ada Nabi Musa 'Alaihissalam yang sedang berpegangan salah satu tiang dari tiang 'Arsy. Aku tidak tahu apakah dia lebih dahulu sadar (dihidupkan) sebelum aku, atau dia termasuk orang yang dikecualikan dari kematian saat kegoncangan hari qiyamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3398</td></tr><tr><td>Arabic No</td><td>3398</td></tr><tr><td>Reference</td><td>Book 60 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида, что Пророк ﷺ сказал: «В День воскресения люди потеряют сознание, и я буду первым, кто воскреснет. И я увижу Мусу, который будет держаться за одну из колонн Трона. И мне будет неизвестно, был ли он оживлён до меня, или же ему было воздано поражением на (горе) Тур (в этой жизни)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3398</td></tr><tr><td>Arabic No</td><td>3398</td></tr><tr><td>Reference</td><td>Book 60 Hadith 71</td></tr></tbody></table></div>
 

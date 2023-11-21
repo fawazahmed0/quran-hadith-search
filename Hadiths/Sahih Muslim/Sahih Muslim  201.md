@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jarir that he observed:I owed allegiance to t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Suraij bin Yunus] dan [Ya'qub ad-Dauraqi] keduanya berkata, telah menceritakan kepada kami [Husyaim] dari [Sayyar] dari [asy-Sya'bi] dari [Jarir] dia berkata, "Aku berbaiat kepada Nabi shallallahu 'alaihi wasallam untuk mendengar dan taat, maka beliau menuntunku (mengucapkan kalimat) dalam hal yang mampu aku ucapkan dan untuk menasihat setiap muslim." Ya'qub menyebutkan dalam riwayatnya, ia berkata, 'Sayyar telah menceritakan kepada kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>201</td></tr><tr><td>Arabic No</td><td>56.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джарир сказал: «Я присягнул Пророку ﷺ в том, что буду слушать и повиноваться, и он разъяснил мне: “В том, что мне под силу, и проявлять искренность (в наставлении) по отношению к каждому мусульманину”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>201</td></tr><tr><td>Arabic No</td><td>56.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 108</td></tr></tbody></table></div>
 

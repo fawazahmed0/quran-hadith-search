@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:When the Prophet (ﷺ) passed by (a place called) A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad] telah mengabarkan kepada kami ['Abdullah] dari [Ma'mar] dari [Az Zuhriy] berkata telah mengabarkan kepadaku [Salim bin 'Abdullah] dari [bapaknya radliallahu 'anhum] bahwa Nabi shallallahu 'alaihi wasallam ketika berjalan melewati al-Hijr, Beliau berkata: "Janganlah kalian memasuki tempat tinggal orang-orang yang telah menzhalimi diri mereka sendiri kecuali jika kalian menangis, karena dikhawatirkan kalian terkena musibah sebagaimana mereka mendapatkannya". Kemudian Beliau menutup kepala dan wajah Beliau sedangkan Beliau berada di atas tunggangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3380</td></tr><tr><td>Arabic No</td><td>3380</td></tr><tr><td>Reference</td><td>Book 60 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, что, проходя мимо аль-Хиджра, Пророк ﷺ сказал: «Не входите в жилища тех, кто поступили несправедливо в отношении самих себя, чтобы вас не постигло то, что постигло их, если только вы (не входите туда) плачущими». После этого он закрыл лицо своим покрывалом, и он сидел на верблюде
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3380</td></tr><tr><td>Arabic No</td><td>3380</td></tr><tr><td>Reference</td><td>Book 60 Hadith 54</td></tr></tbody></table></div>
 

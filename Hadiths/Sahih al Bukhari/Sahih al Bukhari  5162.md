@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: that she prepared a lady for a man from the Ansar as his bride 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Fadllu bin Ya'qub] Telah menceritakan kepada kami [Muhammad bin Sabiq] Telah menceritakan kepada kami [Isra'il] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] bahwa ia menyerahkan pengantin wanita kepada seorang laki-laki dari kalangan Anshar. Kemudian Nabi shallallahu 'alaihi wasallam pun bersabda: "Wahai Aisyah, apakah tidak ada hiburan, sebab orang-orang Anshar senang akan hiburan?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5162</td></tr><tr><td>Arabic No</td><td>5162</td></tr><tr><td>Reference</td><td>Book 67 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (как-то раз) она принимала участие в проводах невесты к жениху из числа ансаров, а потом пророк Аллаха ﷺ сказал (ей): «О Аиша, не развлекались ли вы там, ибо, поистине, ансары любят увеселения?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5162</td></tr><tr><td>Arabic No</td><td>5162</td></tr><tr><td>Reference</td><td>Book 67 Hadith 97</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuTha'labah al-Khushani: When the people encamped, (the narrator Amr i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin Utsman Al Himshi], dan [Yazid bin Qubais] dari penduduk Jabalah, sebuah pesisir Himsh. Dan ini adalah lafazh Yazid, mereka berkata; telah menceritakan kepada kami [Al Walid bin Muslim], dari [Abdullah bin Al 'Ala'], bahwa ia mendengar [Muslim bin Misykam Abu 'Ubaidullah] berkata; telah menceritakan kepada kami [Abu Tsa'labah Al Khusyani], ia berkata; dahulu orang-orang apabila singgah di suatu tempat …. -sedangkan 'Amr berkata; dahulu apabila Rasulullah shallallahu 'alaihi wasallam singgah di suatu tempat- mereka menyebar di jalan-jalan lembah dan bukit. Rasulullah shallallahu 'alaihi wasallam berkata: "Sesungguhnya menyebarnya kalian di jalan-jalan lembah dan bukit adalah berasal dari syetan." Kemudian beliau tidak singgah di suatu tempat melainkan sebagian mereka bergabung dengan sebagian yang lain hingga dikatakan bahwa apabila dihamparkan selembar kain niscaya dapat menampung mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2628</td></tr><tr><td>Arabic No</td><td>2628</td></tr><tr><td>Reference</td><td>Book 15 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2628</td></tr><tr><td>Arabic No</td><td>2628</td></tr><tr><td>Reference</td><td>Book 15 Hadith 152</td></tr></tbody></table></div>
 

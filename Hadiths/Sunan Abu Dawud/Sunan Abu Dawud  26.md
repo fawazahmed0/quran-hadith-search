@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: The Messenger of Allah (ﷺ) said: Be on your guard a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Suwaid Ar Ramli] dan [Umar bin Al Khaththab Abu Hafsh] dan haditsnya lebih sempurna, bahwasanya [Sa'id bin Al Hakam] telah menceritakan kepada mereka, dia berkata; Telah mengabarkan kepada kami [Nafi' bin Yazid] telah menceritakan kepada kami [Haiwah bin Syuraih] bahwasanya [Abu Sa'id Al Himyari] telah menceritakan kepadanya dari [Mu'adz bin Jabal], dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Takutlah kalian terhadap tiga hal yang terlaknat; buang air besar di sumber air, tengah jalanan, dan tempat berteduh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘аз ибн Джабаль сказал: «Посланник Аллаха ﷺ сказал: “Остерегайтесь трех вещей, которые навлекают проклятие: испражнение в источники воды, на прохожей части дороги, где ходят люди и в тени (деревьев)”». Иснад этого хадиса является слабым из-за разрыва между Му‘азом ибн Джабаль и (Абу Са‘идом) аль-Химьяри, и его слабым назвали автор данной книги (Абу Дауд) и другие. Но у этого хадиса есть другой подтверждающий хадис со слов Ибн ‘Аббаса, который передал имам Ахмад (1/299). Подробнее см. «Сахих Аби Дауд»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
 

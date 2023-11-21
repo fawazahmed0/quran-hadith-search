@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zhuri:regarding an animal, e.g., a mouse or some other animal that h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Abdullah] dari [Yunus] dari [Az Zuhri] mengenai seekor binatang melata yang mati di minyak samin baik yang telah memadat ataupun masih mencair, baik itu seekor tikus ataupun binatang melata lainnya, Az Zuhri berkata; "Telah sampai (riwayat) kepada kami bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan supaya membuang tikus tersebut dan sesuatu yang ada di sekelilingnya, baru minyak tersebut dapat di konsumsi, " yaitu dari hadits riwayat ['Ubaidullah bin Abdullah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5539</td></tr><tr><td>Arabic No</td><td>5539</td></tr><tr><td>Reference</td><td>Book 72 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри, да будет доволен им Аллах, сказал о животном, мыши или какого-либо другого животного, которое умерло(, упав) в масло или сливочный жир, твердое или жидкое: «Мне сообщили, что мышь умерла в сливочном жире, после чего Посланник Аллаха ﷺ приказал (выбросить) ее и все, что рядом с ней — (люди) выбросили (то, что было приказано,) и съели остальную часть (масла)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5539</td></tr><tr><td>Arabic No</td><td>5539</td></tr><tr><td>Reference</td><td>Book 72 Hadith 64</td></tr></tbody></table></div>
 

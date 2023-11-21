@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mundhir b. Jarir narrated on the authority of his father:When we were sitting in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2353</td></tr><tr><td>Arabic No</td><td>1017.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джарир ибн ‘Абдуллах сказал: «Однажды, когда я сидел у Пророка ﷺ, к нему пришли люди одетые в полосатые куски шерстяной ткани». Далее подобно предыдущему хадису, но в этой версии он добавил: «Затем (Пророк ﷺ) совершил полуденную молитву /зухр/, а потом поднялся на невысокий минбар, прославил и восхвалил Аллаха, после чего сказал: “А затем. Поистине Аллах ниспослал в Своей Книге: “О люди! Бойтесь вашего Господа…” (Сура «ан-Ниса», аят 1)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2353</td></tr><tr><td>Arabic No</td><td>1017.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 90</td></tr></tbody></table></div>
 

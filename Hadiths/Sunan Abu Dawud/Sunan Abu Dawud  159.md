@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mughirah ibn Shu'bah: The Messenger of Allah (ﷺ) performed ablutio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dari [Waki'] dari [Sufyan Ats-Tsauri] dari [Abu Qais Al Audi, yaitu Abdurrahman bin Tsarwan] dari [Huzail bin Syurahbil] darin [Al-Mughirah bin Syu'bah] bahwasanya Rasulullah shallallahu 'alaihi wasallam berwudhu dan mengusap bagian atas kedua kaos kaki dan sandalnya. Abu Dawud berkata; Abdurrahman bin Mahdi tidak menceritakan hadits ini, karena yang diketahui dari Mughirah, bahwasanya Nabi shallallahu 'alaihi wasallam mengusap bagian atas kedua khuf." Abu Dawud berkata; Dan ini diriwayatkan juga dari Abu Musa Al Asy'ari dari Nabi shallallahu 'alaihi wasallam, bahwasanya beliau mengusap bagian atas kedua kaos kaki. Namun hadits ini tidak bersambung dan tidak kuat. Abu Dawud berkata; Sahabat yang pernah mengusap bagian atas kedua kaos kaki adalah Ali bin Abi Thalib, Ibnu Mas'ud, Al-Bara' bin 'Azib, Anas bin Malik, Abu Umamah, Sahal bin Sa'ad, dan Amru bin Huraits. Demikian pula hal itu diriwayatkan dari Umar bin Al-Khaththab dan Ibnu Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>159</td></tr><tr><td>Arabic No</td><td>159</td></tr><tr><td>Reference</td><td>Book 1 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Аль-Мугъиры ибн Шу‘ба: «Посланник Аллаха ﷺ совершил омовение и обтер поверх носков /джаурабайн/ и обуви /на‘лайн/».Абу Дауд сказал: «‘Абду-р-Рахман ибн Махдий не рассказывал этот хадис, поскольку от аль-Мугъиры известно о том, что Пророк ﷺ обтирал кожаные носки».Абу Дауд сказал: «Так же об этом передают со слов Абу Мусы аль-Аш‘ари, что Пророк ﷺ обтер носки /джаурабайн/. Однако этот хадис не является целостным или сильным».Абу Дауд сказал: «Также носки /джаурабайн/ обтирали ‘Али ибн Абу Талиб, Ибн Мас‘уд, аль-Бараъ ибн ‘Азиб, Анас ибн Малик, Абу Умама, Сахль ибн Са‘д, ‘Амр ибн Хурайс. Также об этом передают от ‘Умара ибн аль-Хаттаба и Ибн ‘Аббаса»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>159</td></tr><tr><td>Arabic No</td><td>159</td></tr><tr><td>Reference</td><td>Book 1 Hadith 159</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zaid b. Thabit said:The Messenger of Allah (ﷺ) used to offer the Zuhr prayer i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepadaku [Amru bin Abu Hakim] dia berkata; Saya telah mendengar [Az Zibriqan] menceritakan dari [Urwah bin Az Zubair] dari [Zaid bin Tsabit] dia berkata; Rasulullah Shallallahu alaihi wasallam pernah shalat Zhuhur pada siang hari yang sangat panas, dan beliau belum pernah melaksanakan shalat yang paling berat bagi para sahabat Rasulullah Shallallahu alaihi wasallam selain daripadanya, maka turunlah Firman Allah Ta'ala: "Peliharalah semua shalat dan shalat Wushtha", dan beliau bersabda: "Sesungguhnya ada dua shalat sebelumnya dan dua shalat setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>411</td></tr><tr><td>Arabic No</td><td>411</td></tr><tr><td>Reference</td><td>Book 2 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Сабит сказал: «Посланник Аллаха ﷺ совершал полуденную молитву в полдень, и не было для сподвижников Посланника Аллаха ﷺ молитвы тяжелее этой, и было ниспослано (откровение): “Оберегайте молитвы, и особенно среднюю молитву”». И он сказал: «Поистине, до неё есть две молитвы и после неё (также есть) две молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>411</td></tr><tr><td>Arabic No</td><td>411</td></tr><tr><td>Reference</td><td>Book 2 Hadith 21</td></tr></tbody></table></div>
 

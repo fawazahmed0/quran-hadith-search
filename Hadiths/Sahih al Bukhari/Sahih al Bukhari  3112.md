@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Muhammad bin Suqa:I heard Mundhir at-Tuzi reporting Ibn Hanafiya who said, "My f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3112</td></tr><tr><td>Arabic No</td><td>3112</td></tr><tr><td>Reference</td><td>Book 57 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн аль-Ханафия сказал: «Однажды мой отец отправил меня с письмом, сказав: “Возьми это письмо и отправляйся с ним к ‘Усману, ибо в нём содержатся указания Пророка ﷺ относительно милостыни”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3112</td></tr><tr><td>Arabic No</td><td>3112</td></tr><tr><td>Reference</td><td>Book 57 Hadith 21</td></tr></tbody></table></div>
 

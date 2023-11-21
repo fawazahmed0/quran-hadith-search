@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abu Bakr:When Az-Zubair married me, he had no real property 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Hisyam] ia berkata; Telah mengabarkan kepadaku [bapakku] dari [Asma' binti Abu Bakar radliallahu 'anhuma] ia berkata; Az Zubair bin Awwam menikahiku. Saat itu, ia tidak memiliki harta dan tidak juga memiliki budak serta tidak memiliki apa-apa kecuali alat penyiram lahan dan seekor kuda. Maka akulah yang memberi makan dan minum kudanya, menjahit timbanya serta membuatkan adonan roti. Padahal aku bukanlah seorang yang pandai membuat roti. Karena itu, para tetanggaku dari kaum Anshar-lah yang membuatkan roti. Aku memindahkan biji kurma dari kebun Az Zubair yang telah ditetapkan oleh Rasulullah shallallahu 'alaihi wasallam di atas kepalaku. Tanah itu dariku atas duapertiga Farsakh. Suatu hari aku datang sementara biji kurma ada di atas kepalaku. Lalu aku berjumpa dengan Rasulullah shallallahu 'alaihi wasallam yang sedang bersama beberapa orang dari kaum Anshar. Beliau kemudian memanggilku dan bersabda: "Hei, hei, rupanya beliau berhasrat untuk menaikkanku diatas kendaraan di belakangnya. Namun, aku malu untuk berjalan bersama para lelaki dan aku ingat akan kecemburuan Az Zubair, ia adalah orang yang paling pencemburu. Maka Rasulullah shallallahu 'alaihi wasallam pun tahu bahwa aku malu, hingga beliau pun berlalu. Setelah itu, aku pun menemui Az Zubair dan berkata, "Rasulullah shallallahu 'alaihi wasallam menemuiku sementara di atas kepalaku ada biji kurma. Sedangkan beliau sedang bersama beberapa orang dari kalangan Anshar, lalu beliau mempersilahkan agar aku naik kendaraan, namun aku malu dan juga tahu akan kecemburuanmu." Maka Az Zubair pun berkata, "Demi Allah, kamu membawa biji kurma itu adalah lebih besar bagiku daripada engkau naik kendaraan bersama beliau." Akhirnya Abu Bakar pun mengutuskan seorang khadim yang dapat mencukupi pekerjaanku untuk mengurusi kuda. Dan seolah-olah ia telah membebaskanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5224</td></tr><tr><td>Arabic No</td><td>5224</td></tr><tr><td>Reference</td><td>Book 67 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асмаъ бинт Аби Бакр, да будет доволен Аллах ими обоими, сказала: «Когда аз-Зубайр женился на мне, не было у него на земле ни имущества, ни раба и ничего другого, кроме верблюда(, использовавшегося для вычёрпывания воды из источника,) и его коня. Я задавала корм его коню, черпала воду, зашивала (кожаную) бадью для воды и замешивала тесто, однако я не умела хорошо печь хлеб, и его пекли (для нас) мои соседки из числа ансаров, которые были достойными женщинами, и я носила на голове финиковые косточки с земли, которую Посланник Аллаха ﷺ выделил аз-Зубайру и которая находилась на расстоянии двух третей фарсаха от моего (дома). Однажды я несла эти косточки на голове и встретила по дороге Посланника Аллаха ﷺ, которого сопровождало несколько человек из числа ансаров. (Пророк ﷺ) подозвал меня и сказал: “Их, их!” — желая посадить меня в седло позади себя. Однако я постеснялась ехать вместе с мужчинами, вспомнив об аз-Зубайре и его ревности, ибо был он одним из самых ревнивых людей. Посланник Аллаха ﷺ понял, что я стесняюсь, и поехал дальше, а я пришла к аз-Зубайру и сказала (ему): “Когда я несла на голове финиковые косточки, меня повстречал Посланник Аллаха ﷺ с группой своих сподвижников, и он заставил своего верблюда опуститься на колени, чтобы я села, но я постеснялась его, вспомнив о твоей ревности”. (Услышав это, аз-Зубайр, да будет доволен им Аллах,) сказал: “Клянусь Аллахом, то, что ты несла финиковые косточки, тяжелее для меня, чем то, что ты могла бы сесть в седло вместе с ним!” (И я продолжала работать таким образом), пока впоследствии Абу Бакр не прислал мне слугу, чтобы он вместо меня присматривал за конём, и(, сделав это,) он как будто бы отпустил меня на свободу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5224</td></tr><tr><td>Arabic No</td><td>5224</td></tr><tr><td>Reference</td><td>Book 67 Hadith 157</td></tr></tbody></table></div>
 

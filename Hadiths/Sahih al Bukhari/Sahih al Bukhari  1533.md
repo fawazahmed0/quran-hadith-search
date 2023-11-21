@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) used to go (for Hajj) via Ash-Shajara
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Anas bin 'Iyadh] dari ['Ubaidullah] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhua] bahwa Rasulullah shallallahu 'alaihi wasallam pernah keluar (dari Madinah) melalui jalur Asy-Syajarah dan memasuki (Ka'bah) melalui jalur Al Mu'arras. Dan bahwa Rasulullah shallallahu 'alaihi wasallam jika keluar menuju Makkah, Beliau shalat di masjid Asy-Syajarah dan jika kembali Beliau shalat di Dzul Hulaifah di dasar lembah dan bermalam disana hingga shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1533</td></tr><tr><td>Arabic No</td><td>1533</td></tr><tr><td>Reference</td><td>Book 25 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен им Аллах, что Пророк ﷺ отправлялся (в Мекку) через аш-Шаджару, а (возвращался в Медину обычно) через аль-Му‘аррас, и что, когда Посланник Аллаха ﷺ выезжал в Мекку, он совершал молитву в мечети аш-Шаджары, когда же возвращался назад, совершал молитву в Зуль-Хулейфе, (а именно — в сухом русле) вади, где и оставался до утра
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1533</td></tr><tr><td>Arabic No</td><td>1533</td></tr><tr><td>Reference</td><td>Book 25 Hadith 21</td></tr></tbody></table></div>
 

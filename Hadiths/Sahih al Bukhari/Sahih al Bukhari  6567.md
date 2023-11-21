@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Um (the mother of) Haritha came to Allah's Messenger (ﷺ) after H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6567</td></tr><tr><td>Arabic No</td><td>6567</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(В своё время) мать Харисы, сын которой был убит стрелой, пущенной неизвестным человеком, в день (битвы при) Бадре, пришла к Посланнику Аллаха ﷺ и сказала: “О Посланник Аллаха, ты знаешь какое положение Хариса занимал (в моём сердце), и если он находится в Раю, то я не буду плакать о нём, если же нет, то увидишь, что я сделаю”. Он сказал ей: “Ты сошла с ума? Разве Рай один? Есть много райских садов, а он в высочайшем, (называемом) аль-Фирдаус”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6567</td></tr><tr><td>Arabic No</td><td>6567</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

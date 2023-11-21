@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Burda reported on the authority of his father:We offered the sunset prayer a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan ['Abdullah bin 'Umar bin Aban] seluruhnya dari [Husain] dia berkata; [Abu Bakr] Telah menceritakan kepada kami [Husain bin 'Ali Al Ju'fi] dari [Mujamma' bin Yahya] dari [Sa'id bin Abu Burdah] dari [Abu Burdah] dari [Bapaknya] dia berkata; "Kami pernah melaksanakan shalat berjama'ah bersama Rasulullah shallallahu 'alaihi wasallam. Kemudian kami berkata; 'Sebaiknya kami duduk bersama Rasulullah shallallahu 'alaihi wasallam sambil menunggu waktu shalat Isya'. Bapak Abu Burdah berkata; 'Kami duduk-duduk di masjid, kemudian Rasulullah shallallahu 'alaihi wasallam mendatangi kami seraya bertanya: 'Kalian masih di sini? ' Kami menjawab, Benar ya Rasulullah! Kami telah melaksanakan shalat Maghrib berjamaah bersama engkau. Oleh karena itu kami memilih untuk duduk-duduk di masjid sambil menunggu shalat Isya berjamaah dengan engkau." Rasulullah pun berkata: "Kalian benar-benar te! ah melakukan kebaikan." Lalu Rasulullah mengangkat kepalanya ke atas dan berkata: 'Bintang-bintang ini merupakan stabilisator langit. Apabila bintang-bintang tersebut hilang, maka langit akan tertimpa apa yang telah dijanjikan. Aku adalah penenteram para sahabatku. Kalau aku sudah tidak ada, maka mereka, para sahabatku, akan tertimpa apa yang telah dijanjikan. Para sahabatku adalah penenteram umatku. Apabila para sahabatku telah tiada, maka umatku pasti akan tertimpa apa yang telah dijanjikan kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6466</td></tr><tr><td>Arabic No</td><td>2531</td></tr><tr><td>Reference</td><td>Book 44 Hadith 295</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6466</td></tr><tr><td>Arabic No</td><td>2531</td></tr><tr><td>Reference</td><td>Book 44 Hadith 295</td></tr></tbody></table></div>
 

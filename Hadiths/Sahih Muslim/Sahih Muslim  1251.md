@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan ['Abd bin Humaid] 'Abd berkata, telah mengabarkan kepada kami, sedangkan Ibnu Rafi' berkata, telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] dari [Ibnu al-Musayyab] dari [Abu Hurairah radhiyallahu'anhu] dia berkata, Rasulullah Shallallahu'alaihiwasallam telah bersabda, "Barangsiapa makan sebagian dari pohon ini, maka janganlah dia mendekati masjid kami, dan janganlah dia menyakiti kami dengan bau bawang putih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1251</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Пусть тот, кто поел это растение, не приближается к нашей мечети и не причиняет нам страдания запахом чеснока»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1251</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu al-Zubair said:I asked Jabir bin 'Abdallah about riding on the sacrificial c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Yahya bin Sa'id] dari [Ibnu Juraij], telah mengabarkan kepadaku [Abu Az Zubair], aku bertanya kepada [Jabir bin Abdullah] mengenai menaiki hewan kurban. Kemudian ia berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: Naikilah dengan cara yang ma'ruf, apabila kalian terpaksa untuk menaikinya hingga mendapatkan tunggannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1324)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1761</td></tr><tr><td>Arabic No</td><td>1761</td></tr><tr><td>Reference</td><td>Book 11 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аз-Зубайр сообщил: «Я спросил Джабира ибн ‘Абдуллаха о том, можно ли ездить на жертвенном животном, и он ответил, что слышал, как Посланник Аллаха ﷺ сказал: “Езди на них, как ездят обычно, если ты вынужден, пока не найдёшь другое верховое животное”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1324)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1761</td></tr><tr><td>Arabic No</td><td>1761</td></tr><tr><td>Reference</td><td>Book 11 Hadith 41</td></tr></tbody></table></div>
 

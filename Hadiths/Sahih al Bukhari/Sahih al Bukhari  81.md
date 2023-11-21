@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I will narrate to you a Hadith and none other than I will tell you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Qotadah] dari [Anas bin Malik] berkata: Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya diantara tanda-tanda kiamat adalah sedikitnya ilmu dan merebaknya kebodohan, perzinahan secara terang-terangan, jumlah perempuan yang lebih banyak dan sedikitnya laki-laki, sampai-sampai (perbandingannya) lima puluh perempuan sama dengan hanya satu orang laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Arabic No</td><td>81</td></tr><tr><td>Reference</td><td>Book 3 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Анас, да будет доволен им Аллах, сказал: «Я передам вам такой хадис, которого после меня не передаст уже никто. Я слышал, как Посланник Аллаха ﷺ говорил: „Предзнаменованием близости Часа этого станет то, что (количество) знания уменьшится, а невежество и прелюбодеяния получат (широкое) распространение, и возрастёт количество женщин, а количество мужчин сократится (до такой степени), что на пятьдесят женщин будет приходиться (только) один мужчина, опекающий их“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Arabic No</td><td>81</td></tr><tr><td>Reference</td><td>Book 3 Hadith 23</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Some angels came to the Prophet (ﷺ) while he was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubadah] Telah mengabarkan kepada kami [Yazid] telah menceritakan kepada kami [Salim bin Hayyan] dan ia memujinya, telah menceritakan kepada kami [Sa'id bin Mina'] telah menceritakan kepada kami, atau aku mendengar [Jabir bin 'Abdullah] berkata, "Malaikat datang kepada nabi shallallahu 'alaihi wasallam yang ketika itu sedang tidur, lantas sebagian malaikat berkata "Dia sedang tidur!" Sedang sebagian mengatakan "Mata dia tidur, namun hatinya selalu terjaga." Lantas mereka katakan, "Sesungguhnya sahabat kalian ini adalah perumpamaan, maka buatlah perumpamaan baginya." Lantas sebagian berkata, "Dia sedang tidur!" Sebagian lagi mengatakan, "Mata dia tidur, namun hatinya selalu terjaga." Lantas mereka katakan, "Perumpaman dia bagaikan seseorang yang membangun rumah, dan mengisi rumahnya dengan hidangan, lantas mengutus seorang juru undang, maka barangsiapa memenuhi undangan si pengundang, ia masuk rumah dan menyantap hidangan, sebaliknya barangsiapa tidak memenuhi sang pengundang, ia tak bakalan masuk rumah dan tidak pula menyantap hidangan." Para malaikat berkata, "Tolong takwilkanlah perumpaan itu agar dia paham." Lantas sebagian mengatakan "Sesungguhnya ia sedang tidur!" Sebagian lagi berkata, "Mata bolehlah tidur namun hatinya selalu terjaga." Lantas mereka katakan, "Rumah itu adalah surga, dan Sang pengundang adalah Muhammad shallallahu 'alaihi wasallam, artinya barangsiapa menaati Muhammad shallallahu 'alaihi wasallam, berarti ia menaati Allah, dan barangsiapa membangkang Muhammad shallallahu 'alaihi wasallam telah membangkang Allah." Hadits ini diperkuat oleh [Qutaibah] dari [Al Laits] dari [Khalid] dari [Sa'id bin Abu Hilal] dari [Jabir], 'Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam menemui kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7281</td></tr><tr><td>Arabic No</td><td>7281</td></tr><tr><td>Reference</td><td>Book 96 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «(Однажды, когда) Пророк ﷺ спал, к нему явились ангелы, и один из них сказал: “Поистине, он спит”. Другой сказал: “Поистине, глаз (его) спит, а сердце бодрствует”. Тогда они сказали: “Для того, к кому вы пришли, есть пример, приведите же его ему”. Один из них сказал: “Он ведь спит!” — другой же сказал: “Поистине, глаз (его) спит, а сердце бодрствует”, после чего они сказали: “Его можно сравнить с человеком, который построил дом, приготовил в нём угощение и послал (человека, чтобы пригласить на него гостей). И тот, кто принял приглашение приглашавшего, вошёл в этот дом и отведал угощения, а тот, кто приглашения приглашавшего не принял, не вошёл в дом и не попробовал этого угощения”. (Потом ангелы) сказали: “Истолкуйте ему (эту притчу), чтобы он понял её”, и один из них сказал: “Он ведь спит!” — другой же сказал: “Поистине, глаз (его) спит, а сердце бодрствует”. Тогда они сказали: “Дом — это рай, а приглашавший — это Мухаммад ﷺ и тот, кто подчинился Мухаммаду ﷺ подчинился Аллаху, а кто ослушался Мухаммада ﷺ ослушался Аллаха, и Мухаммад ﷺ разделил людей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7281</td></tr><tr><td>Arabic No</td><td>7281</td></tr><tr><td>Reference</td><td>Book 96 Hadith 13</td></tr></tbody></table></div>
 

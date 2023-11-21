@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari ['Urwah] dari [Aisyah] dia berkata; "Aku tidak pernah melihat sama sekali Rasulullah shallallahu 'alaihi wasallam membaca dalam shalat malam sambil duduk sehingga beliau memasuki usia lanjut, di masa itu, barulah beliau membaca sambil duduk, apabila ayat yang belum di baca tinggal sekitar empat puluh atau tiga puluh ayat, beliau membacanya sambil berdiri kemudian sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1118) Sahih Muslim (731)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>953</td></tr><tr><td>Arabic No</td><td>953</td></tr><tr><td>Reference</td><td>Book 2 Hadith 564</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Я никогда не видела, чтобы Посланник Аллаха ﷺ совершал свою ночную молитву сидя, пока он не вступил в преклонный возраст. Тогда он стал молиться сидя, а когда от его обычного чтения оставалось тридцать или сорок аятов, он вставал и дочитывал их стоя, после чего совершал поклоны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1118) Sahih Muslim (731)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>953</td></tr><tr><td>Arabic No</td><td>953</td></tr><tr><td>Reference</td><td>Book 2 Hadith 564</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir: Uqbah consulted the Prophet (ﷺ) about his sister who 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya bin Sa'id Al Qaththan], ia berkata; telah mengabarkan kepadaku [Yahya bin Sa'id Al Anshari], telah mengabarkan kepadaku ['Ubaidullah bin Zahr] bahwa [Abu Sa'id] telah mengabarkan kepadanya bahwa [Abdullah bin Malik] telah mengabarkan kepadanya bahwa ['Uqbah bin 'Amir] telah mengabarkan kepadanya bahwa ia pernah bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai saudara wanitanya yang bernadzar untuk berhaji dengan tidak beralas kaki dan tidak bertutup kepala. Kemudian beliau berkata: "Perintahkan dia agar menutup kepala, menaiki kendaraan serta berpuasa tiga hari." Telah menceritakan kepada kami [Makhlad bin Khalid], telah menceritakan kepada kami [Abdurrazzaq], telah menceritakan kepada kami [Ibnu Juraij], ia berkata; [Yahya bin Sa'id] telah menulis surat kepadaku; telah mengabarkan kepadaku ['Ubaidullah bin Zahr] mantan budak Bani Dhamrah bahwa [Abu Sa'id Ar Ru'aini] telah mengabarkan kepadanya dengan sanad Yahya dan maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3293</td></tr><tr><td>Arabic No</td><td>3293</td></tr><tr><td>Reference</td><td>Book 22 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что сестра ‘Укбы ибн ‘Амира дала обет совершить хадж пешком, однако у неё не было на это сил, и Пророк ﷺ сказал: «Поистине, Аллах не нуждается в том, чтобы твоя сестра шла пешком. Пусть едет верхом и принесёт в жертву верблюда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3293</td></tr><tr><td>Arabic No</td><td>3293</td></tr><tr><td>Reference</td><td>Book 22 Hadith 52</td></tr></tbody></table></div>
 

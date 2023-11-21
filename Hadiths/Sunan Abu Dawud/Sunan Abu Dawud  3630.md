@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Bahz bin Hakim, on his father's authority, said that his grandfather told that t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi] telah mengabarkan kepada kami [Abdurrazzaq] dari [Ma'mar] dari [Bahz bin Hakim] dari [Ayahnya] dari [Kakeknya] bahwa Nabi shallallahu 'alaihi wasallam menahan seorang laki-laki karena suatu tuduhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3630</td></tr><tr><td>Arabic No</td><td>3630</td></tr><tr><td>Reference</td><td>Book 25 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Бахз ибн Хаким передаёт от своего отца рассказ своего деда о том, что Пророк ﷺ задержал одного человека по обвинению в чём-то
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3630</td></tr><tr><td>Arabic No</td><td>3630</td></tr><tr><td>Reference</td><td>Book 25 Hadith 60</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:Prayer said by a ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al-A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Pahala shalat seseorang dengan berjamaah melebihi pahala shalatnya di rumah dan di pasar sebanyak dua puluh lima derajat. Hal tersebut, karena apabila seseorang di antara kalian berwudlu, lalu memperbagus wudlunya, kemudian pergi ke masjid semata mata karena untuk mengerjakan shalat, dan kesempatan itu hanya dipergunakan untuk shalat, maka orang tersebut tidak melangkahkan satu langkah, kecuali setiap langkahnya itu diangkat baginya satu derajat, dan dihapus darinya satu dosa, sampai dia masuk ke dalam masjid. Apabila dia telah masuk masjid, maka dia dihitung dalam keadaan shalat selama tertahan karena shalat (tidak keluar dari masjid karena menunggu shalat), dan para malaikat akan bershalawat (memohonkan rahmat dan ampunan) kepada seseorang di antara kalian, selama dia tetap berada di tempat dia mengerjakan shalatnya, mereka (para malaikat) berdoa; Ya Allah, ampunilah dia, rahmatilah dia dan terimalah taubatnya. Para malaikat itu berdoa demikian selama orang itu tidak mengganggu orang lain di tempat itu atau berhadats
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (477) Sahih Muslim (649)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>559</td></tr><tr><td>Arabic No</td><td>559</td></tr><tr><td>Reference</td><td>Book 2 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Молитва мужчины в джама‘ате превосходит его молитву у себя дома или на рынке в двадцать пять раз, и это по той причине, если кто-нибудь из вас совершит омовение и сделает это должным образом, а затем явится в мечеть с единственной целью совершить молитву, и не выводит его (из дома) ничто, кроме (желания совершить) молитву, то (Аллах) за каждый сделанный им шаг обязательно будет возвышать его на одну ступень и снимать с него одно прегрешение до тех пор, пока он не войдёт в мечеть. А когда (человек) войдёт туда, (будет считаться, что) он занят молитвой всё то время, пока он станет ожидать её начала, и ангелы будут обращаться с мольбами к Аллаху за каждого из вас всё то время, пока он будет оставаться на месте, где он помолился, говоря: “О Аллах, прости его, о Аллах помилуй его, о Аллах, прими его покаяние, пока он не станет обижать кого-либо (своими словами или действиями) или пока у него не нарушится омовение!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (477) Sahih Muslim (649)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>559</td></tr><tr><td>Arabic No</td><td>559</td></tr><tr><td>Reference</td><td>Book 2 Hadith 169</td></tr></tbody></table></div>
 

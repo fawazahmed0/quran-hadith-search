@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) heard a reciter reciting, the Qur'an in the mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Adam] Telah mengabarkan kepada kami [Ali bin Mushir] Telah mengabarkan kepada kami [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Pada suatu malam, Nabi shallallahu 'alaihi wasallam mendengar seseorang membaca Al Qur'an di dalam Masjid, maka beliau pun bersabda: "Semoga Allah merahmatinya, sungguh ia telah mengingatkanku ayat ini dan ini, yakni ayat yang telah aku gugurkan dari surat ini dan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5042</td></tr><tr><td>Arabic No</td><td>5042</td></tr><tr><td>Reference</td><td>Book 66 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) ночью Пророк ﷺ, который услышал, как какой-то человек читает (Коран) в мечети, сказал: “Да помилует его Аллах! Он напомнил мне такие-то аяты из таких-то сур, которые я забыл”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5042</td></tr><tr><td>Arabic No</td><td>5042</td></tr><tr><td>Reference</td><td>Book 66 Hadith 66</td></tr></tbody></table></div>
 

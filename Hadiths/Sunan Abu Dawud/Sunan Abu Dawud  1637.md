@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu-Said reported :Messenger of Allah (May peace be upon him) said : Sadaqah is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin 'Auf Ath Thai], telah menceritakan kepada Kami [Al Firyabi], telah menceritakan kepada Kami [Sufyan] dari [Imran Al Bariqi] dari ['Athiyyah] dari [Abu Sa'id], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Tidak halal zakat bagi orang kaya, kecuali di jalan Allah, atau orang yang dalam perjalanan, atau tetangga fakir yang diberi zakat kemudian ia memberikan hadiah kepadamu atau mengundangmu." Abu Daud berkata; dan hadits tersebut telah diriwayatkan oleh [Firas], dan [Ibnu Abu Laila] dari ['Athiyyah], dari [Abu Sa'id] dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1637</td></tr><tr><td>Arabic No</td><td>1637</td></tr><tr><td>Reference</td><td>Book 9 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид (аль-Худри), да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Не разрешается принимать милостыню состоятельному, если только он не на пути Аллаха и не путник, и (сюда же относится случай, когда) бедный сосед, которому подают милостыню (садака), дарит тебе что-то или приглашает тебя (разделить с ним трапезу)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1637</td></tr><tr><td>Arabic No</td><td>1637</td></tr><tr><td>Reference</td><td>Book 9 Hadith 82</td></tr></tbody></table></div>
 

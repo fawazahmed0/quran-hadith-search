@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (may peace be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Daud bin Rusyaid] telah menceritakan kepada kami [Walid bin Muslim] dari [Muhammad bin Mutharrif Abu Ghassan Al Madani] dari [Zaid bin Aslam] dari ['Ali bin Husain] dari [Sa'id bin Marjanah] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa yang memerdekakan budak, maka Allah akan membebaskan setiap anggota badannya dari api neraka dengan setiap anggota badan budak yang dimerdekakan, hingga kemaluannya dengan kemaluan (budak yang dimerdekakan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3796</td></tr><tr><td>Arabic No</td><td>1509.02</td></tr><tr><td>Reference</td><td>Book 20 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3796</td></tr><tr><td>Arabic No</td><td>1509.02</td></tr><tr><td>Reference</td><td>Book 20 Hadith 26</td></tr></tbody></table></div>
 

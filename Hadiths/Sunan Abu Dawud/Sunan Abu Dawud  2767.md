@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Dhu Mikhbar: Hassan ibn Atiyyah said: Makhul and Ibn Zakariyya went to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Isa bin Yunus], telah menceritakan kepada kami [Al Auza'i], dari [Hassan bin 'Athiyyah], ia berkata; Makhul dan Ibnu Zakariya' pergi kepada [Khalid bin Ma'dan] dan aku ikut bersama mereka berdua. Kemudian ia menceritakan kepada kami dari [Jubair bin Nufair], ia berkata; Jubair berkata; pergilah bersama kami ke [Dzu Mikhbar] seorang sahabat Nabi shallallahu 'alaihi wasallam, kemudian kami datang kepadanya. Kemudian Jubair bertanya kepadanya mengenai perjanjian damai. Kemudian ia berkata; aku telah mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Kalian akan mengadakan perjanjian damai dengan orang-orang Romawi, dan kalian bersama mereka akan menyerang musuh di belakang kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2767</td></tr><tr><td>Arabic No</td><td>2767</td></tr><tr><td>Reference</td><td>Book 15 Hadith 291</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2767</td></tr><tr><td>Arabic No</td><td>2767</td></tr><tr><td>Reference</td><td>Book 15 Hadith 291</td></tr></tbody></table></div>
 

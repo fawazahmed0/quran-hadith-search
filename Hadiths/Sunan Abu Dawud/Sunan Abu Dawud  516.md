@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:when the call to pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Qa'nabi] dari [Malik] dari [Abu Az-Zinad] dari [Al-A'raj] dari [Abu Hurairah], bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila telah diserukan panggilan (adzan) untuk shalat, maka setan mundur seraya mengeluarkan kentutnya hingga ia tidak mendengar suara adzan. Apabila panggilan adzan itu telah selesai, ia datang lagi. Ketika dibacakan iqamah shalat, ia membelakang lagi, sampai ketika pembacaan iqamah selesai, baru ia datang lagi, sehingga melintas (mengganggu) hati orang yang sedang shalat, dan ia berkata; Ingatlah ini, ingatlah ini!, ia mengingatkan sesuatu yang tidak di ingat ingatnya sebelum dia shalat, sampai orang itu keliru dan dia tidak tahu, sudah berapa rakaatkah shalat yang telah dia kerjakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (608) Sahih Muslim (389)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>516</td></tr><tr><td>Reference</td><td>Book 2 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «Когда произносится призыв к молитве, шайтан отступает, с шумом выпуская кишечные газы, чтобы не слышать этого призыва, а когда призыв завершается, он (снова) возвращается. И он отступает во время икамы, а когда объявление о начале молитвы завершается, он (снова) подступает, чтобы встать между человеком и сердцем (внушая ему) и говорит: “Вспомни о том-то и том-то”, о чём тот и не помышлял (до молитвы, и он делает это) для того, чтобы человек сбился (с толку), чтобы он не знал, сколько (рак‘атов) молитвы он совершил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (608) Sahih Muslim (389)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>516</td></tr><tr><td>Reference</td><td>Book 2 Hadith 126</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [al-A'masy] dari [Abu Sufyan] dari [Jabir] dari [Abu Shalih] dari [Abu Hurairah] keduanya berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku diperintahkan untuk memerangi manusia' sebagaimana hadits Ibnu al-Musayyab dari Abu Hurairah. (dalam riwayat lain disebutkan) Dan telah menceritakan kepadaku [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki']. (dalam riwayat lain disebutkan) Dan telah menceritakan kepadaku [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abdurrahman] -yaitu bin Mahdi- keduanya berkata, telah menceritakan kepada kami [Sufyan] dari [Abu az-Zubair] dari [Jabir] dia berkata, "Rasulullah bersabda: "Aku diperintahkan untuk memerangi manusia hingga mereka mengucapkan, 'Tidak ada tuhan (yang berhak disembah) melainkan Allah', maka mereka mengucapkan, 'Tidak ada tuhan (yang berhak disembah) melainkan Allah', maka sungguh mereka telah menjaga harta dan jiwanya dari (seranganku) kecuali disebabkan hak Islam. Dan hisab mereka diserahkan kepada Allah. Kemudian beliau membaca: '(Sesungguhnya kamu (hanyalah) pemberi peringatan. Kamu sekali-kali tidak mempunyai kekuasaan atas mereka) ' (Qs. Al Ghaasyiyah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>128</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир (ибн ‘Абдуллах) сказал: «Посланник Аллаха ﷺ сказал: “Мне велено сражаться с этими людьми до тех пор, пока они не станут говорить: “Нет бога, достойного поклонения, кроме Аллаха /Ля иляха илля Ллах/”, а если они скажут Ля иляха илля Ллах, то защитят от меня свою кровь и своё имущество, если только (не совершат ничего такого, за что можно будет лишить их имущества или жизни) по праву, и тогда (лишь) Аллах (сможет потребовать) от них отчёта”. А затем он (Пророк ﷺ) прочел (аят в котором сказано): “Так наставляй же, ведь ты наставник, и ты не властен над ними”» Сура «Покрывающее», аяты
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>128</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

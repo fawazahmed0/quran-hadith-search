@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Apostle (ﷺ) as saying:When anyone amongst you dozes in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] -dalam jalur periwayatan lain- Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] -dalam jalur lain- Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] semuanya dari [Hisyam bin Urwah] -dalam jalur lain- Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] -lafazh darinya- dari [Malik bin Anas] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian mengantuk di dalam shalatnya, maka hendaklah ia tidur hingga rasa kantuknya hilang. Karena jika salah seorang dari kalian shalat dalam keadaan mengantuk, mungkin saja ia memohon ampunan, namun ternyata justru mencaci-maki dirinya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1835</td></tr><tr><td>Arabic No</td><td>786</td></tr><tr><td>Reference</td><td>Book 6 Hadith 263</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Пророк ﷺ сказал: «Когда кого-нибудь из вас во время молитвы станет одолевать дремота, пусть поспит, пока сон его не пройдёт, ибо, поистине, если кто-нибудь из вас будет молиться, засыпая, может случиться так, что (он захочет) попросить (у Аллаха) прощения, но (вместо этого) станет проклинать самого себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1835</td></tr><tr><td>Arabic No</td><td>786</td></tr><tr><td>Reference</td><td>Book 6 Hadith 263</td></tr></tbody></table></div>
 

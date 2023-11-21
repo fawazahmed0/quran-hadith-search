@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) reached Khaibar in the early mor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3647</td></tr><tr><td>Arabic No</td><td>3647</td></tr><tr><td>Reference</td><td>Book 61 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Пророк ﷺ вошёл в Хайбар ранним утром, когда его жители стали выходить со своими лопатами. Увидев его, они сказали: “Это Мухаммад со (своей) пятёркой!” И поспешили к своей крепости, (чтобы укрыться в ней). Тогда Пророк ﷺ поднял руки и сказал: “Велик Аллах /Аллаху акбар/, Хайбар разрушен! Поистине, когда мы появляемся у селений людей, (враждующих с нами), плохим становится утро для тех, кого предупреждали!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3647</td></tr><tr><td>Arabic No</td><td>3647</td></tr><tr><td>Reference</td><td>Book 61 Hadith 150</td></tr></tbody></table></div>
 

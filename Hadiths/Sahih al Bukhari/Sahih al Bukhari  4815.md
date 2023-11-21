@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:I asked 'Abdullah bin 'Amr bin Al-'As to inform me 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Al Walid bin Muslim] Telah menceritakan kepada kami [Al Auza'i] dia berkata; Telah menceritakan kepadaku [Yahya bin Abu Katsir] dia berkata; Telah menceritakan kepadaku [Muhammad bin Ibrahim At Taimi] dia berkata; Telah menceritakan kepadaku [Urwah bin Zubair] dia berkata kepada [Abdullah bin Amru bin Al Ash]; "Kabarkanlah kepadaku perbuatan paling kejam yang dilakukan kaum musyrikin terhadap Rasulullah shallallahu 'alaihi wasallam. Dia berkata; "Ketika Rasulullah sedang shalat di halaman Ka'bah tiba-tiba 'Uqbah bin Abi Mu'aith menghampiri beliau dan menarik bahunya shallallahu 'alaihi wasallam serta melilitkan bajunya ke leher beliau dan mencekiknya kuat-kuat. Kemudian Abu Bakar mendekatinya, lalu dia menarik bahunya dan mendorongnya dari Rasulullah shallallahu 'alaihi wasallam seraya berkata: "Apakah kamu akan membunuh seorang laki-laki karena dia menyatakan: "Rabbku adalah Allah, padahal telah datang kepadamu keterangan-keterangan dari Rabbmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4815</td></tr><tr><td>Arabic No</td><td>4815</td></tr><tr><td>Reference</td><td>Book 65 Hadith 337</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва ибн аз-Зубайр сказал: «(Однажды) я попросил ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса: “Расскажи мне о наихудшем из того, что сделали многобожники с Посланником Аллаха ﷺ”. Он сказал: “(Как-то раз, когда) Посланник Аллаха ﷺ молился у Каабы, ‘Укба ибн Аби Му‘айт подошёл (к нему сзади), накинул ему на шею свою одежду и сильно сдавил. (Увидев это,) к нему бросился Абу Бакр, который схватил его за плечи, отбросил от Посланника Аллаха ﷺ и воскликнул: “Неужели вы убьёте человека за то, что он говорит: “Мой Господь — Аллах”? Ведь он явился к вам с ясными знамениями от вашего Господа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4815</td></tr><tr><td>Arabic No</td><td>4815</td></tr><tr><td>Reference</td><td>Book 65 Hadith 337</td></tr></tbody></table></div>
 

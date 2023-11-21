@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) used to say, "O Allah! Our Lord! Give us in this
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] Telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz] dari [Anas] dia berkata; Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam berdo'a; "RABBANAA AATINA FID DUNYA HASANATAN WA FIL AKHIRATI HASANAH WAQIAN ADZABAN NAAR (Ya Allah berilah kami kebaikan di dunia dan di akhirat, dan lindungilah kami dari adzab neraka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4522</td></tr><tr><td>Arabic No</td><td>4522</td></tr><tr><td>Reference</td><td>Book 65 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ часто говорил: «О Аллах, Господь наш, даруй нам в мире этом добро и в мире вечном добро и защити нас от мук огня! /Аллахумма, Рабба-на, ати-на фи-д-дунйа хасанатан ва фи-ль-ахырати хасанатан, ва кы-на ‘азаба-н-нар!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4522</td></tr><tr><td>Arabic No</td><td>4522</td></tr><tr><td>Reference</td><td>Book 65 Hadith 47</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that Nabidh was prepared from raisins for Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Al A'masy] dari [Yahya bin Abi Umar] dari [Ibnu Abbas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam biasa dibuatkan perasan zabib dalam wadah air minum, kemudian beliau meminumnya pada hari itu, esok harinya dan lusa, pada waktu sore di hari ketiga beliau masih menuangkan dan meminumnya, tapi jika masih juga tersisa maka beliau menumpahkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5229</td></tr><tr><td>Arabic No</td><td>2004.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5229</td></tr><tr><td>Arabic No</td><td>2004.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 103</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet (p.b.u.h) In the lifetime of the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepadaku [Al Laits] dari ['Uqail] dari [Ibnu Syihab]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Ahmad bin Shalih] berkata, telah menceritakan kepada kami ['Anbasah] berkata, telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku ['Urwah] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, ia berkata, "Pernah terjadi gerhana matahari pada masa Nabi shallallahu 'alaihi wasallam. Beliau keluar menuju masjid, lalu orang-orang membuat barisan di belakang beliau, beliau lalu takbir dan membaca surat yang panjang. Lalu beliau takbir dan rukuk dengan rukuk yang panjang, lalu mengucapkan SAMI'ALLAHU LIMAN HAMIDAH dan berdiri tanpa sujud. Kemudian beliau membaca bacaan yang panjang namun tidak sebagaimana bacaan yang pertama, lalu takbir dan rukuk dengan rukuk yang panjang namun tidak sebagaimana rukuk yang pertama, lalu mengucapkan SAMI'ALLAHU LIMAN HAMIDAH terus kemudian sujud. Setelah itu beliau melakukannya sepeti itu pada rakaat yang akhir hingga sempurnalah empat rukuk dalam empat sujud. Dan matahari nampak kembali sebelum shalat beliau selesai. Setelah itu beliau berdiri (menyampaikan khutbah) dengan memuji Allah dengan pujian yang patas untuk-Nya, beliau bersabda: "Keduanya adalah dua tanda dari tanda-tanda kebesaran Allah, dan gerhana tidak akan terjadi hanya karena mati atau hidupnya seseorang. Jika kalian melihat (gerhan) keduanya, maka bersegeralah mendirikan shalat." [Katsir bin 'Abbas] menceritakan bahwa ['Abdullah bin 'Abbas] radliallahu 'anhuma menceritakan tentang hari terjadinya gerhana marahari seperti hadits 'Urwah dari 'Aisyah ini. Aku lalu berkata kepada 'Urwah, "Sesungguhnya ketika terjadi gerhana di Madinah, saudaramu tidak pernah menambah lebih dari dua rakaat, seperti shalat shubuh." Dia menjawab, "Benar. Dia telah ia telah menyelisihi sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>1046</td></tr><tr><td>Reference</td><td>Book 16 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, жена Пророка ﷺ сказала: «(Когда) при жизни Посланника Аллаха ﷺ произошло солнечное затмение, он пошел в мечеть, а люди выстроились за ним. Он произнес такбир и удлинил чтение (Корана), затем сказал такбир и совершил продолжительный поясной поклон; затем он (поднял голову и) сказал: “Сами‘а Аллаху лиман хамидах!”. Затем он выпрямился и не совершил земного поклона, а прочел длинным чтением, которое было короче первого. Он снова сказал такбир, и поклонился продолжительным поклоном, но более коротким, чем первый, затем сказал: “Сами‘а Аллаху лиман хамидах! Раббана уа ляк альхамд”. Затем он совершил земной поклон и сделал то же самое во втором рака‘ате. Таким образом, он завершил четыре поясных поклона и четыре земных. Солнце (затмение) рассеялось прежде, чем он закончил молитву. (После молитвы) он встал, прославил и восхвалил Аллаха, как Он того заслуживает, а затем сказал: “Солнце и Луна — это два знамения Аллаха. Они не затмеваются из-за смерти или жизни кого-то. Когда вы увидите их, то спешите на молитву!”». \nАз-Зухри сказал: «Я сказал ‘Урве: “Когда солнце затмилось в Медине, твой брат (‘Абдуллах ибн аз-Зубайр) совершил только два рака‘ата, подобные утренней молитве” ‘Урва ответил: “Да, потому что он ошибся в выполнение сунны”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>1046</td></tr><tr><td>Reference</td><td>Book 16 Hadith 7</td></tr></tbody></table></div>
 

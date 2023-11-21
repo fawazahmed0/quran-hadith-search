@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Once in a cold night, Ibn 'Umar pronounced the Adhan for the pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah mengabarkan kepada kami [Yahya] dari ['Ubaidullah bin 'Umar] berkata, telah menceritakan kepadaku [Nafi'] berkata, " [Ibnu 'Umar] pernah adzan di malam yang dingin di bukit Dlajnan. Kemudian ia berkata, "Shalatlah di tempat tinggal kalian!" Lalu dia mengabarkan kepada kami bahwa Rasulullah shallallahu 'alaihi wasallam pernah memerintahkan seorang mu'adzin untuk mengumandangkan adzan, kemudian berseru setelah selesai adzan, "Hendaklah kalian shalat di tempat tinggal kalian pada malam yang dingin, atau saat turun hujan dalam perjalanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>632</td></tr><tr><td>Arabic No</td><td>632</td></tr><tr><td>Reference</td><td>Book 10 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убайдуллах ибн ‘Умар сказал:\n— Передал мне Нафи‘, который сказал: «(Однажды) в дождливую ночь, будучи возле Даджнана, Ибн ‘Умар, да будет доволен Аллах ими обоими, возвестил азан и затем сказал: “Совершайте молитву на своих местах!” И он (Ибн ‘Умар) сообщил нам о том, что находясь в пути в холодную или дождливую ночь, Посланник Аллаха ﷺ обычно повелевал муаззину призвать людей к молитве, а после (завершения азана) говорил: “Молитесь на своих местах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>632</td></tr><tr><td>Arabic No</td><td>632</td></tr><tr><td>Reference</td><td>Book 10 Hadith 29</td></tr></tbody></table></div>
 

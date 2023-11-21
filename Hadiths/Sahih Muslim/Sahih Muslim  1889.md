@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) came out to us and said: I am 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Washil bin Abdul A'la] telah menceritakan kepada kami [Ibnu Fudlail] dari [Basyir bin Abu Isma'il] dari [Abu Hazim] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam keluar dan bersa bda: "Saya akan membacakan kepada kalian (surat yang menyamai) sepertiga Al Qur'an." Maka beliau pun membaca: "QUL HUWALLAHU AHAD." Beliau membacanya hingga selesai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1889</td></tr><tr><td>Arabic No</td><td>812.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 317</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «(Однажды) Посланник Аллаха ﷺ вышел к нам и сказал: “Я прочту вам треть Корана”, и зачитал: «Скажи: “Он Аллах, Один. Аллах Самодостаточный”», и так прочитал суру полностью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1889</td></tr><tr><td>Arabic No</td><td>812.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 317</td></tr></tbody></table></div>
 

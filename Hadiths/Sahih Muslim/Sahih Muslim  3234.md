@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar reported that he reached the Ka'ba and Allah's Apostle (ﷺ) ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Humaid bin Mas'adah] Telah menceritakan kepada kami [Khalid bin Al Harits] Telah menceritakan kepada kami [Abdullah bin Aun] dari [Nafi'] dari [Abdullah bin Umar] bahwasanya; Ketika ia sampai di Ka'bah, ternyata Rasulullah shallallahu 'alaihi wasallam telah masuk ke dalamnya beserta [Bilal], [Usamah] dan yang terakhir dan menutup pintu adalah [Utsman bin Thalhah]. Lalu mereka berdiam diri beberapa lama di dalamnya. Kemudian pintu Ka'bah di buka kembali, dan keluarlah Nabi shallallahu 'alaihi wasallam, lalu aku pun segera naik dan masuk ke dalam Baitullah kemudian aku tanyakan, "Di manakah Nabi shallallahu 'alaihi wasallam shalat?" Mereka menjawab, "Di sini (yakni di atara dua tiang)." Dan aku lupa untuk menanyakan kepada mereka, berapa raka'atkah beliau shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3234</td></tr><tr><td>Arabic No</td><td>1329.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 438</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3234</td></tr><tr><td>Arabic No</td><td>1329.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 438</td></tr></tbody></table></div>
 

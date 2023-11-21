@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported Allah's Apostle (ﷺ) as saying:The house in which remembrance
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Barrad Al Asy'ari] dan [Muhammad bin Al 'Ala'] keduanya berkata, telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Perumpamaan rumah yang di dalamnya selalu disebut nama Allah Ta'ala dengan rumah yang di dalamnya tidak pernah disebut nama Allah adalah sebagaimana orang hidup dan orang mati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1823</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 6 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы, что Пророк ﷺ сказал: «Дом, в котором поминают Аллаха, и дом, в котором Аллаха не поминают, подобны живому и мёртвому»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1823</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 6 Hadith 251</td></tr></tbody></table></div>
 

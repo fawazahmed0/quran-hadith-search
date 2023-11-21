@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said :Messenger of Allah (SWAS) prayed four rak’ahs at Madinah and prayed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Muhammad bin Bakr], telah menceritakan kepada Kami [Ibnu Juraij] dari [Muhammad bin Al Munkadir] dari [Anas], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam melakukan shalat Zhuhur di Madinah empat raka'at, dan Shalat 'Ashar Di Dzul Hulaifah dua raka'at, kemudian bermalam di Dzul Hulaifah hingga pagi hari. Kemudian tatkala beliau menaiki kendaraannya dan kendaraan tersebut telah berada di tempat yang tinggi beliau bertalbiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1546) Sahih Muslim (690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1773</td></tr><tr><td>Arabic No</td><td>1773</td></tr><tr><td>Reference</td><td>Book 11 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ совершил полуденную молитву /зухр/ в четыре рак‘ата в Медине. А потом в Зуль-Хулейфе он совершил послеполуденную молитву /‘аср/ уже в два рак‘ата. Потом он провёл ночь в Зуль-Хулейфе, а утром, когда он сел на свою верблюдицу и она поднялась с ним, он произнёс тальбию
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1546) Sahih Muslim (690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1773</td></tr><tr><td>Arabic No</td><td>1773</td></tr><tr><td>Reference</td><td>Book 11 Hadith 53</td></tr></tbody></table></div>
 

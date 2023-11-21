@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) passed by a man who was admonishi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Abdul Aziz bin Abu Salamah] telah menceritakan kepada kami [Ibnu Syihab] dari [Salim] dari [Abdullah bin Umar] radliallahu 'anhuma; "Nabi shallallahu 'alaihi wasallam pernah melewati seorang laki-laki yang tengah mencela saudaranya karena malu, kata laki-laki itu; "Sesungguhnya kamu selalu malu hingga hal itu akan membahayakan bagimu." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Biarkanlah ia, karena sesungguhnya sifat malu itu termasuk dari iman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6118</td></tr><tr><td>Arabic No</td><td>6118</td></tr><tr><td>Reference</td><td>Book 78 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды Посланник Аллаха ﷺ проходил мимо человека, который упрекал своего брата за стеснительность, говоря: «Поистине, ты стесняешься». Как будто имея ввиду: «Это вредит тебе». Услышав это, Посланник Аллаха ﷺ сказал: «Оставь его, ибо, поистине, стыдливость — от веры!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6118</td></tr><tr><td>Arabic No</td><td>6118</td></tr><tr><td>Reference</td><td>Book 78 Hadith 145</td></tr></tbody></table></div>
 

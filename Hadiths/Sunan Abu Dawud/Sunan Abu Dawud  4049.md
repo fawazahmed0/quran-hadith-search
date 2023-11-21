@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abul Husayn, that is al-Haytham ibn Shafi I and a companion of mine cal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid bin Khalid bin Abdullah bin Mauhab Al Hamdani] berkata, telah mengabarkan kepadaku [Al Mufadhdhal] -yaitu Ibnu Fadhalah- dari [Ayyasy bin Abbas Al Qitbani] dari [Abu Al Hushain] -yaitu Al Haitsam bin Syafi ia berkata, "Aku dan seorang sahabatku yang dipanggil dengan nama [Abu Amir], seorang laki-laki dari Al Ma'afir, keluar untuk melaksanakan shalat di Illiya. Mereka (penduduk setempat) mempunyai penasihat seorang laki-laki dari Al Azdi, ia biasa dipanggil dengan nama Abu raihanah, seorang sahabat Nabi." Abu Al Hushain berkata, "Sahabatku tersebut mendahuluiku datang ke masjid, lalu aku menyusul dari belakang dan duduk di sisinya. Ia lantas bertanya kepadaku, "Apakah kamu mendengar cerita [Abu Raihanah]?" Aku menjawab, "Tidak." Ia berkata, "Aku mendengar dia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang dari sepuluh hal; mengikir gigi, membuat tato, mencabut alis, seorang laki-laki tidur dengan laki-laki lain dalam satu selimut tanpa ada kain pembatas, seorang wanita tidur dengan wanita lain dalam satu selimut tanpa ada kain pembatas, seorang laki-laki yang menambahi sutera pada bagian bawah kainnya seperti orang 'ajam (bukan arab), atau menjadikan pada kain di bagian pundaknya berupa sutera seperi orang 'ajam. Beliau juga melarang dari merampas harta orang lain, memakai kulit macan, dan mamakai cincin kecuali penguasa." Abu Dawud berkata " yang membuat hadits ini menyendiri dan berbeda dengan hadits lainnya adalah penyebutan lafadh; 'dan memakai cincin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4049</td></tr><tr><td>Arabic No</td><td>4049</td></tr><tr><td>Reference</td><td>Book 34 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу аль-Хусайна аль-Хайсама ибн Шуфайй: «Мы с моим товарищем Абу ‘Амиром отправились в путь, чтобы совершить молитву в Илии (Иерусалим). А местным пересказчиком хадисов и наставником был человек из племени азд из Ма‘афира из числа сподвижников по имени Абу Рейхана». Абу аль-Хусайн сказал: «И мой товарищ опередил меня, прибыв в мечеть первым, я же подошёл позже и сел возле него. Он спросил меня: “Успел ли ты послушать речи Абу Рейханы?” Я ответил: “Нет”. Тогда он сказал: “Я слышал, как он говорил, что Посланник Аллаха ﷺ запретил десять вещей: подтачивать зубы, наносить татуировки, выщипывать брови, лежать мужчинам вместе без разделяющей их одежды, лежать женщинам вместе без разделяющей их одежды, а также отделывать мужчине шёлком края одежды, как поступают неарабы, и носить шёлк на плечах (подразумевается полоса шире четырёх пальцев), как поступают неарабы, а также грабить, ездить на леопардовых шкурах и ещё носить перстень кому-то, кроме обладающего властью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4049</td></tr><tr><td>Arabic No</td><td>4049</td></tr><tr><td>Reference</td><td>Book 34 Hadith 30</td></tr></tbody></table></div>
 

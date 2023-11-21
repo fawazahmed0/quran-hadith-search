@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: We observed the prayer after nightfall with the Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyr bin Al Mufadldlal] telah menceritakan kepada kami [Dawud bin Abu Hind] dari [Abu An Nadlrah] dari [Abu Said Al Khudlri] dia berkata; Kami melaksanakan shalat 'atamah (mengakhirkan shalat isya) bersama Rasulullah Shallallahu alaihi wasallam hingga setengah malam sudah berlalu, lalu beliau bersabda: "Carilah tempat duduk kalian masing-masing!" Maka masing-masing kami mengambil posisi duduk. Lalu beliau bersabda lagi: "Sesungguhnya orang-orang lain telah melaksanakan shalat dan beranjak tidur, sementara kalian masih saja dalam (mendapatkan pahala) shalat selagi kalian menunggu pelaksanaannya, kalau bukanlah karena orang yang lemah atau orang yang sakit pasti aku akan mengakhirkan shalat isya ini hingga pertengahan malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>422</td></tr><tr><td>Arabic No</td><td>422</td></tr><tr><td>Reference</td><td>Book 2 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «Мы совершали с посланником Аллаха ﷺ вечернюю молитву, и однажды он не вышел, пока не прошла примерно половина ночи, а затем сказал: “Занимайте свои места!” И мы заняли свои места, а он сказал: “Поистине, люди уже совершили молитву и заняли места на своих ложах, вы же были заняты молитвой (всё то время), пока ожидали (начала) молитвы. И если бы не слабость слабых и болезнь больных, то я бы задержал эту молитву до полуночи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>422</td></tr><tr><td>Arabic No</td><td>422</td></tr><tr><td>Reference</td><td>Book 2 Hadith 32</td></tr></tbody></table></div>
 

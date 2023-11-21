@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Procrastination (delay) in r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Abdul A'laa] dari [Ma'mar] dari [Hammam bin Munabbih, saudaranya Wahb bin Munabbih] bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Menunda pembayaran hutang bagi orang kaya adalah kezhaliman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2400</td></tr><tr><td>Arabic No</td><td>2400</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передал, что Посланник Аллаха ﷺ сказал: «Затягивание (выплаты долга) богатым человеком является (проявлением) несправедливости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2400</td></tr><tr><td>Arabic No</td><td>2400</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
 

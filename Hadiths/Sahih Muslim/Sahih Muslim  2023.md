@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that Sulaik Ghatafani came on Friday (for prayer) while the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Laits] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Abu Zubair] dari [Jabir] bahwa ia berkata; Sulaik Al Ghathafani datang pada hari Jum'at sementara Rasulullah shallallahu 'alaihi wasallam sedang duduk di atas mimbar, maka Sulaik pun duduk sebelum ia shalat. Maka Nabi shallallahu 'alaihi wasallam bertanya padanya, "Apakah kamu telah shalat dua raka'at?" ia menjawab, "belum." Beliau bersabda: "Bangunlah, dan shalatlah dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2023</td></tr><tr><td>Arabic No</td><td>875.06</td></tr><tr><td>Reference</td><td>Book 7 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир сказал: «(Как-то раз) в пятницу Сулейк аль-Гатафани явился (в мечеть) в то время, когда Посланник Аллаха ﷺ сидел на минбаре. Сулейк сел, не помолившись, и Пророк ﷺ спросил его: “Совершил ли ты молитву в два рак‘ата?” Тот ответил: “Нет”, и тогда (Пророк ﷺ) сказал: “Встань и соверши (эти рак‘аты)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2023</td></tr><tr><td>Arabic No</td><td>875.06</td></tr><tr><td>Reference</td><td>Book 7 Hadith 73</td></tr></tbody></table></div>
 

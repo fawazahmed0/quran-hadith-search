@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The first batch (of people) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] telah bercerita kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Rombongan pertama yang memasuki surga rupa mereka bagaikan bulan saat purnama dan rombongan berikutnya yang mengiringi mereka bagaikan bintang yang sangat terang cahayanya. Hati mereka bagaikan hati seorang laki-laki yang tidak pernah berselisih dan saling membenci di antara mereka. Setiap orang dari mereka memiliki dua istri (bidadari) yang setiap istri itu sumsum tulangnya dapat kelihatan dari betis-betis mereka dari balik daging karena teramat sangat cantiknya. Tidak ada perselisihan (pertengkaran) di sana dan tidak ada pula saling benci. Hati mereka bagaikan hati yang satu yang senantiasa bertasbih pagi dan petang. Mereka tidak pernah sakit, tidak pernah beringus dan tidak pernah meludah. Perabotan mereka terbuat dari emas dan perak, sisir-sisir mereka terbuat dari emas dan tempat perapian mereka terbuat dari kayu cendana". Abu Al Yaman berkata; "Maksudnya kayu yang dibakar untuk wewangian". Keringat mereka seharum minyak misik". Mujahid berkata; 'al-Ibkar artinya awal fajar sedangkan al-'asyiyy condongnya matahari ke barat hingga akan terlihat akan terbenam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3246</td></tr><tr><td>Arabic No</td><td>3246</td></tr><tr><td>Reference</td><td>Book 59 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса, также передаваемой со слов Абу Хурайры, да будет доволен им Аллах, сообщается,) что Посланник Аллаха ﷺ сказал: «Обликом своим те, кто войдёт в Рай в первой группе, будут подобны луне в ночь полнолуния, а те, кто (войдёт в Рай сразу же) вслед за ними, будут подобны ярчайшей планете. Сердца их будут подобны единому сердцу, и не будет меж ними ни разногласий, ни ненависти. У каждого из них будет по две жены, и костный мозг каждой из них будет виден сквозь плоть из-за (их) красоты. Станут они славить Аллаха утром и вечером и не будут ни болеть, ни сморкаться, ни плевать. Их сосуды будут золотыми и серебряными, а гребни — золотыми, в их курильницах (будет гореть) алоэ, а пот их (будет пахнуть) мускусом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3246</td></tr><tr><td>Arabic No</td><td>3246</td></tr><tr><td>Reference</td><td>Book 59 Hadith 57</td></tr></tbody></table></div>
 

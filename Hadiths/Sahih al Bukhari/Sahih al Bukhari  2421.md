@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Abu bin Zam'a and Sa'd bin Abi Waqqas carried the case of their c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] dari [Az Zuhriy] dari ['Urwah] dari ['Aisyah radliallahu 'anha] bahwa 'Abdu bin Zam'ah dan Sa'ad bin Abi Waqash mengadu kepada Nabi shallallahu 'alaihi wasallam tentang anak budak wanita Zam'ah. Sa'ad berkata: "Wahai Rasulullah, saudaraku berwasiat kepadaku apabila aku datang dan bertemu dengan anak hamba sahaya Zam'ah supaya aku mengambilnya karena dia adalah anakku". Dan berkata 'Abdu bin Zam'ah: "Saudaraku dan anak dari hamba sahaya bapakku lahir diatas tempat tidur bapakku". Nabi shallallahu 'alaihi wasallam melihat tanda kemiripan dengan jelas ada pada 'Utbah namun Beliau berkata: "Anak itu milikmu wahai 'Abdu bin Zam'ah. Anak itu berasal dari tempat tidur (perkawinan) sedangkan untuk pezina baginya batu (rajam). Jauhkanlah dia dariku, wahai Saudah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2421</td></tr><tr><td>Arabic No</td><td>2421</td></tr><tr><td>Reference</td><td>Book 44 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «‘Абд ибн Зам‘а и Са‘д ибн Абу Ваккас поспорили и пришли к Пророку ﷺ. Предметом спора стал сын рабыни Зам‘ы. Са‘д сказал: “О Посланник Аллаха, мой брат ‘Утба поручил мне по прибытии (в Мекку) позаботиться и забрать сына невольницы Зам‘ы, поскольку это его сын”. ‘Абд ибн Зам‘а сказал: “Он мой брат, сын невольницы моего отца, рождённый на постели моего отца”. Пророк ﷺ увидел, что он действительно похож на ‘Утбу, и сказал: “Он твой, о ‘Абд бин Зам‘а. Ребёнок принадлежит постели. Закройся от него, о Сауда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2421</td></tr><tr><td>Arabic No</td><td>2421</td></tr><tr><td>Reference</td><td>Book 44 Hadith 11</td></tr></tbody></table></div>
 

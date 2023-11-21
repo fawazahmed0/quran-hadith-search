@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whoever obeys me, obeys Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] telah mengabarkan kepada kami [Abdullah] dari [Yunus] dari [Al Karmani] telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman], ia mendengar [Abu Hurairah] radliallahu 'anhu berkata, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang mentaatiku berarti ia mentaati Allah, sebaliknya barangsiapa membangkang terhadapku, ia membangkang Allah, dan barangsiapa mentaatiku amirku berarti ia mentaatiku, dan barangsiapa membangkang amirku, berarti ia membangkang terhadapku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7137</td></tr><tr><td>Arabic No</td><td>7137</td></tr><tr><td>Reference</td><td>Book 93 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Повинующийся мне повинуется Аллаху, а ослушавшийся меня ослушался Аллаха. Повинующийся правителю повинуется мне, а ослушавшийся правителя ослушался меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7137</td></tr><tr><td>Arabic No</td><td>7137</td></tr><tr><td>Reference</td><td>Book 93 Hadith 1</td></tr></tbody></table></div>
 

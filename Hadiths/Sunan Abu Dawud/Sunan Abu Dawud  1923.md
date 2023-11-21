@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hisham bin ‘Urwah reported on the authority of his father Usamah bin Zaid was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi] dari [Malik] dari [Hisyam bin 'Urwah], dari [ayahnya], bahwa ia berkata; [Usamah bin Zaid] ditanya sementara aku dalam keadaan duduk; bagaimana Rasulullah shallAllahu wa'alaihi wa sallam berjalan pada waktu haji wada' ketika beliau bertolak? Ia berkata; beliau berjalan pelan, kemudian apabila beliau mendapatkan kelapangan beliau mempercepat jalannya. Hisyam berkata; Nash (jalan cepat) adalah lebih dari 'anaq (jalan pelan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1666) Sahih Muslim (1286)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1923</td></tr><tr><td>Arabic No</td><td>1923</td></tr><tr><td>Reference</td><td>Book 11 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Урва передаёт: «В моём присутствии Усаму ибн Зейда спросили о том, как двигался Посланник Аллаха ﷺ в прощальном хадже, когда покидал ‘Арафат, и он сказал: “Он двигался размеренным ходом, а если видел свободное место, то ускорял аллюр”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1666) Sahih Muslim (1286)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1923</td></tr><tr><td>Arabic No</td><td>1923</td></tr><tr><td>Reference</td><td>Book 11 Hadith 203</td></tr></tbody></table></div>
 

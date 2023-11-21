@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu al-Sa’ib said I went to visit Abu Sa’ld al-Khudri, and while I was sitti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid bin Mauhab Ar ramli] berkata, telah menceritakan kepada kami [Al Laits] dari [Ibnu Ajlan] dari [Shaifi bin Abu Sa'id] -mantan budak Al Anshar- dari [Abu Sa'ib] ia berkata, "Aku menemui [Abu Sa'id Al Khudri], ketika aku duduk di sisinya, aku mendengar sesuatu yang bergerak di bawah ranjangnya. Saat aku lihat, ternyata adalah ular. maka aku pun berdiri (ingin membunuh). Abu Sa'id lalu bertanya, "Ada apa dengan kamu?" Aku menjawab, "Ada ular di sini." Abu Sa'id bertanya lagi, "Lalu kamu mau apa?" Aku menjawab, "Aku ingin membunuhnya." Lalu Abu Sa'id menunjuk sebuah rumah yang ada di depan rumahnya seraya berkata, "Anak pamanku pernah tinggal di rumah itu, saat terjadi perang Ahzab ia minta izin untuk menemui isterinya, sebab ia masih menjadi pengantin baru. Lalu Rasulullah shallallahu 'alaihi wasallam memberi izin dan menyuruhnya untuk membawa senjata. Kemudian ia pulang ke rumah dan mendapati isterinya berdiri di luar rumah. Ia (anak pamanku) lalu mengacungkan tombaknya kepada isterinya (kawatir isterinya serong). Isterinya pun berkata, "Janganlah kamu terburu-buru hingga engkau melihat apa yang menjadikan aku keluar dari dalam rumah." Ia kemudian masuk ke dalam rumah dan mendapati seekor ular besar dan membunuhnya dengan tombak, setelah itu ia keluar dengan membawa tombak dan dalam keadaan sempoyongan. Aku tidak tahu, siapa di antara keduanya yang mati lebih dahulu, laki-laki atau ular itu. Lalu Kaumnya kemudian mendatangi Rasulullah shallallahu 'alaihi wasallam dan berkata, "Berdoalah kepada Allah agar menghidupkan sahabat kami." Beliau menjawab: "Mintakanlah ampunan untuk sahabat kalian." Setelah itu beliau bersabda lagi: "Sesungguhnya segolongan jin telah masuk Islam di kota Madinah ini, jika kalian melihat salah satu dari mereka maka berilah peringatan kepadanya hingga tiga kali, kemudian jika setelah itu kalian ingin membunuhnya maka bunuhlah setelah peringatan yang ketiga kali." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Ibnu Ajlan] meriwayatkan semisal hadits ini dengan ringkas. Beliau bersabda: "Berilah ia waktu hingga tiga hari, jika setelah itu tetap terlihat maka bunuhlah, sebab itu adalah setan." Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani] berkata, telah mengabarkan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Malik] dari [Shaifi] -mantan budak (yang telah dimerdekakan oleh) Ibnu Aflah- ia berkata; telah mengabarkan kepadaku [Abu As Sa'ib] -mantan budak (yang telah dimerdekakan oleh) Hisyam bin Zuhrah- Bahwasanya ia pernah menemui [Abu Sa'id Al Khudri] …lalu ia menyebutkan seperti hadits tersebut dan bahkan lebih lengkap. Beliau bersabda: "Berilah ia waktu hingga tiga hari, jika setelah itu ia tetap terlihat maka bunuhlah, sebab itu adalah setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2236)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5257</td></tr><tr><td>Arabic No</td><td>5257</td></tr><tr><td>Reference</td><td>Book 43 Hadith 485</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2236)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5257</td></tr><tr><td>Arabic No</td><td>5257</td></tr><tr><td>Reference</td><td>Book 43 Hadith 485</td></tr></tbody></table></div>
 

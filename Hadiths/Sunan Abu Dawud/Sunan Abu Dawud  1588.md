@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Atik: The Prophet (ﷺ) said: Riders who are objects of disli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abbas bin 'Abdul 'Azhim] dan [Muhammad bin Al Mutsanna], mereka berkata; telah menceritakan kepada Kami [Bisyr bin Umar] dari [Abu Al Ghushn] dari [Shakhr bin Ishaq] dari [Abdurrahman bin Jabir bin 'Atik] dari [ayahnya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: akan datang kepada kalian para petugas pengambil zakat, jika mereka sudah datang kepada kalian, maka sambutlah mereka dan biarkanlah mereka mengambil apa yang mereka inginkan, jika mereka berbuat adil maka itu adalah kebaikan buat kalian dan jika mereka berbuat dzalim maka dosanya bagi mereka, buatlah mereka ridha, sebab kesempurnaan zakat kalian pada keridhaan mereka, dan hendaklah mereka mendo'akan kalian. Abu Daud berkata; Abu Al Ghushn adalah Tsabit bin Qais bin Ghushn
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1588</td></tr><tr><td>Arabic No</td><td>1588</td></tr><tr><td>Reference</td><td>Book 9 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абду-р-Рахман ибн Джабир ибн ‘Атик передаёт от своего отца, что Посланник Аллаха ﷺ сказал: «Приедет к вам небольшая группа людей, ненавистных вам. Когда они прибудут к вам, встретьте их радушно, не мешайте им взять то, за чем они пришли, и если они будут поступать справедливо, то во благо себе же, а если поступят с вами несправедливо, то во вред себе же. Сделайте так, чтобы они остались довольны, ибо закят ваш будет полноценным, только в том случае, если они будут довольны. И пусть они обращаются к Аллаху с мольбами за вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1588</td></tr><tr><td>Arabic No</td><td>1588</td></tr><tr><td>Reference</td><td>Book 9 Hadith 33</td></tr></tbody></table></div>
 

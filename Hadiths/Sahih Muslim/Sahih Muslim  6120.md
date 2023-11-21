@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that a person said:Allah's Messenger, who is my father? A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Ma'mar bin Rib'i Al Qaisi]; Telah menceritakan kepada kami [Rauh bin 'Ubadah]; Telah menceritakan kepada kami [Syu'bah]; Telah mengabarkan kepadaku [Musa bin Anas] dia berkata; Aku mendengar [Anas bin Malik]; dia berkata; "Ada seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam; "Ya Rasulullah, siapa bapakku?" Nabi shallallahu 'alaihi wasallam menjawab: "Bapakmu si Fulan." Kemudian turunlah ayat: "Hai, orang-orang yang beriman! Janganlah kamu bertanya sesuatu, yang apabila dijelaskan kepadamu, hal itu akan memberatkanmu……" hingga akhir ayat (Al Maidah, 5:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6120</td></tr><tr><td>Arabic No</td><td>2359.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6120</td></tr><tr><td>Arabic No</td><td>2359.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 178</td></tr></tbody></table></div>
 

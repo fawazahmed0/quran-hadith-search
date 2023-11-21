@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I twisted (the garlands) for the Hadis of the Prophet (ﷺ) befo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zakariya'] dari ['Amir] dari [Masruq] dari ['Aisyah radliallahu 'anha] berkata: "Aku telah mengikatkan kalung (sebagai tanda) pada hewan qurban milik Nabi Shallallahu'alaihiwasallam, yang dia maksud adalah hewan qalaid (hewan yang ditandai sebagai hewan hadyu), sebelum Beliau berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1704</td></tr><tr><td>Arabic No</td><td>1704</td></tr><tr><td>Reference</td><td>Book 25 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я плела повязки для жертвенного скота Пророка ﷺ до того, как он заходил в состояние ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1704</td></tr><tr><td>Arabic No</td><td>1704</td></tr><tr><td>Reference</td><td>Book 25 Hadith 182</td></tr></tbody></table></div>
 

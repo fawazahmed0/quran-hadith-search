@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira:I heard the Prophet (ﷺ) saying, "Ascribing false things to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sa'id bin 'Ubaid] dari ['Ali bin Rabi'ah] dari [Al Mughirah radliallahu 'anhu] berkata; Aku mendengar Nabi Shallallahu'alaihiwasallam bersabda: "Sesungguhnya berdusta kepadaku tidak sama dengan orang yang berdusta kepada orang lain. Barangsiapa yang berdusta atas namaku dengan sengaja maka hendaklah dia bersiap-siap (mendapat) tempat duduknya di neraka. Aku juga mendengar Nabi Shallallahu'alaihiwasallam bersabda: "Barangsiapa yang meratapi mayat maka mayat itu akan disiksa disebabkan ratapan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1291</td></tr><tr><td>Arabic No</td><td>1291</td></tr><tr><td>Reference</td><td>Book 23 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугира, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ сказал: “Поистине, возводить ложь на меня совсем не то, что возводить ложь на любого другого, (а поэтому) пусть тот, кто делал это намеренно, займёт своё место в аду!”»\n(Аль-Мугира также сказал): «И я слышал, как Пророк ﷺ сказал: “Тот, по ком громко причитают, подвергается из-за этого мучениям”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1291</td></tr><tr><td>Arabic No</td><td>1291</td></tr><tr><td>Reference</td><td>Book 23 Hadith 49</td></tr></tbody></table></div>
 

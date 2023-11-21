@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), l'Envoyé de Dieu (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan kepada kami [Al Mahzumi] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] dari [Al A'masy] dia berkata, "Kami menyebutkan gadai dalam salam (jual beli dengan membayar terlebih dahulu sebelum ada barangnya) di hadapan [Ibrahim An Nakha'i] lalu dia berkata, " [Al Aswad bin Yazid] telah menceritakan kepada dari ['Aisyah], bahwa Rasulullah shallallahu 'alaihi wasallam pernah membeli makanan dari orang Yahudi sampai batas waktu yang ditentukan, dan beliau menggadaikan baju besi miliknya." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Al A'masy] dari [Ibrahim] dia berkata; telah menceritakan kepadaku [Al Aswad] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam seperti itu, dan ia tidak menyebutkan, "Dari besi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4116</td></tr><tr><td>Arabic No</td><td>1603.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4116</td></tr><tr><td>Arabic No</td><td>1603.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 155</td></tr></tbody></table></div>
 

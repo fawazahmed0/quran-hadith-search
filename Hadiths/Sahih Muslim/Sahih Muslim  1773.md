@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Allah descends every nigh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub] ia dalah Ibnu Abdurrahman Al Qariy, dari [Suhail bin Abu Shalih] dari [bapaknya] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Allah turun ke langit dunia pada setiap malamnya, yaitu saat sepertiga malam terakhir seraya berfirman, 'Aku adalah Raja, Aku adalah Raja, Siapa yang berdo'a padaKu niscaya akan Aku kabulkan dan siapa yang meminta kepadaKu niscaya akan Aku berikan dan siapa yang meminta ampun kepadaKu, niscaya akan Aku ampuni.' Keadaan itu berlangsung hingga tiba waktu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1773</td></tr><tr><td>Arabic No</td><td>758.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «По истечении первой трети каждой ночи Аллах нисходит к нижнему небу и говорит: “Я Царь, Я Царь, кто станет обращаться ко Мне с мольбами, чтобы Я ответил ему? Кто станет просить Меня (о чём-нибудь), чтобы Я даровал ему (это)? Кто станет молить Меня о прощении, чтобы Я простил его?” и это продолжается до тех пор, пока не займётся заря»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1773</td></tr><tr><td>Arabic No</td><td>758.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 202</td></tr></tbody></table></div>
 

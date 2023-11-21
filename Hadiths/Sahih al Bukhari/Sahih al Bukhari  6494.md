@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:A bedouin came to the Prophet (ﷺ) and said, "O Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] mengatakan; telah menceritakan kepadaku [Atho' bin yazid], bahwasanya [Abu Sa'id] menceritakan kepadanya, dia menuturkan; ada yang bertanya; 'wahai Rasulullah, ' -sedang [Muhammad bin Yusuf] mengatakan; telah menceritakan kepada kami [Al Auza'i] telah menceritakan kepada kami [Az Zuhri] dari ['Atho' bin Yazid Al Laitsi] dari [Abu Sa'id Al Khudzri] mengatakan-, seorang arab badui mendatangi Nabi shallallahu 'alaihi wasallam dan bertanya; 'Wahai Rasulullah, siapa manusia terbaik? ' Nabi menjawab: "Seseorang yang berjihad dengan nyawa dan hartanya, dan seseorang yang mengucilkan diri di sebuah puncak perbukitan untuk konsentrasi beribadah kepada tuhannya dan meninggalkan manusia dari kejahatannya." Hadist ini diperkuat oleh [Az Zubaidi] dan [Sulaiman bin Katsir] dan [Nu'man] dari [Az Zuhri], dan mengatakan, [Ma'mar] dari [Az Zuhri] dari [Atho'] atau [Ubaidullah] dari [Abu Sa'id] dari Nabi shallallahu 'alaihi wasallam dan [Yunus], [Ibnu Musafir], dan [Yahya bin Sa'id] mengatakan dari [Ibnu Syihab] dari [Atho'] dari [beberapa sahabat] Nabi shallallahu 'alaihi wasallam, dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6494</td></tr><tr><td>Arabic No</td><td>6494</td></tr><tr><td>Reference</td><td>Book 81 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: \n— Один человек пришёл к Посланнику Аллаха ﷺ и спросил: «Кто является лучшим из людей?» (Пророк ﷺ) сказал: «Верующий, который ведёт борьбу на пути Аллаха (, не жалея) ни самого себя, ни своего имущества». (Пророка ﷺ) спросили: «А после (него)?» Он сказал: «(Такой) верующий, который находится в одном из горных ущелий, поклоняясь Аллаху и избавляя людей от зла (, которое он может им принести)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6494</td></tr><tr><td>Arabic No</td><td>6494</td></tr><tr><td>Reference</td><td>Book 81 Hadith 83</td></tr></tbody></table></div>
 

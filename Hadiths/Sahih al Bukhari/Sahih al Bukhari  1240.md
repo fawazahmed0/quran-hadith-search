@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "The rights of a Mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah menceritakan kepada kami ['Amru bin Abu Salamah] dari [Al Awza'iy] berkata, telah mengabarkan kepada saya [Ibnu Syihab] berkata, telah mengabarkan kepada saya [Sa'id bin Al Musayyab] bahwa [Abu Hurairah radliallahu 'anhu] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Hak muslim atas muslim lainnya ada lima, yaitu; menjawab salam, menjenguk yang sakit, mengiringi jenazah, memenuhi undangan dan mendoakan orang yang bersin". Hadits ini diriwayatkan pula oleh ['Abdur Razaq] berkata, telah mengabarkan kepada kami [Ma'mar] dan meriwayatkan kepadanya [Salamah bin Rauh] dari ['Uqail]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1240</td></tr><tr><td>Arabic No</td><td>1240</td></tr><tr><td>Reference</td><td>Book 23 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Пять вещей входят в число обязанностей всех мусульман по отношению друг к другу: отвечать на приветствие /салям/, посещать больных, провожать покойного, отвечать на приглашение и желать блага чихнувшему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1240</td></tr><tr><td>Arabic No</td><td>1240</td></tr><tr><td>Reference</td><td>Book 23 Hadith 4</td></tr></tbody></table></div>
 

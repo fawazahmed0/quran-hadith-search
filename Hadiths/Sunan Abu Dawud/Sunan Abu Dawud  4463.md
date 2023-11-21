@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: If a man who is not married is seized committing so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim bin Rahawaih] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Ibnu Khutsaim] ia berkata, "Aku mendengar [Sa'id bin Jubair] dan [Mujahid] menceritakan dari [Ibnu Abbas] tentang seorang gadis yang melakukan perbuatan kaum Luth, ia berkata, "Hukumannya adalah rajam." Abu Dawud berkata, "Hadits Abu Dawud ini melemahkan hadits Amru bin Abu Amru
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4463</td></tr><tr><td>Arabic No</td><td>4463</td></tr><tr><td>Reference</td><td>Book 40 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, говорил, что не состоявшего в браке мужчину, совершившего содомский грех, следует побить камнями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4463</td></tr><tr><td>Arabic No</td><td>4463</td></tr><tr><td>Reference</td><td>Book 40 Hadith 113</td></tr></tbody></table></div>
 

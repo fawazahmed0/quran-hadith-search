@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) said to me, "I will give you so much (the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Al Munkadir] dia mendengar [Jabir radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam berkata, kepadaku: "Seandainya tiba kepada kita harta dari negeri Bahrain aku pasti memberikan kepadamu sekian". Beliau mengucapkannya tiga kali. Dan harta Bahrain itu belum juga datang hingga Nabi shallallahu 'alaihi wasallam keburu wafat. Kemudian (Setelah harta datang) Abu Bakar memanggil penyeru lalu berkata: "Siapa yang kepadanya Nabi shallallahu 'alaihi wasallam pernah berjanji atau mempunyai hutang hendaklah datang kepada kami". Maka aku datangi dia dan aku katakana; "Sesungguhnya Nabi shallallahu 'alaihi wasallam pernah menjanjikan aku". Maka Abu Bakar memberiku sebanyak tiga tangkup (ukuran dua belah telapak tangan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2598</td></tr><tr><td>Arabic No</td><td>2598</td></tr><tr><td>Reference</td><td>Book 51 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал (мне): “Если бы доставили деньги из Бахрейна, я дал бы тебе столько”, указав трижды. Однако Пророк ﷺ умер прежде, чем доставили деньги. (Когда же они прибыли) Абу Бакр велел глашатаю объявить следующие слова: “Пусть придёт к нам тот, кому Пророк ﷺ обещал что-нибудь, или тот, кому Пророк ﷺ остался что-то должен”. Тогда я пришёл к (Абу Бакру) и сказал: “Поистине, Пророк ﷺ обещал (дать) мне (денег)”, и он отсыпал мне три пригоршни (монет)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2598</td></tr><tr><td>Arabic No</td><td>2598</td></tr><tr><td>Reference</td><td>Book 51 Hadith 32</td></tr></tbody></table></div>
 

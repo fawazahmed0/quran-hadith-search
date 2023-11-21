@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar reported the Messenger of Allah(ﷺ) as saying:Kill snakes, kill tho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Salim] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Bunuhlah semua ular; yang berbisa dan yang berekor pendek. Karena keduanya dapat membuat mata buta dan gugurnya kandungan." Ia (perawi) berkata, "Abdullah selalu membunuh ular yang ia dapati, hingga Abu Lubabah, atau Zaid Ibnul Khaththab pernah melihatnya mengejar-ngejar ular. Maka Abu Lubabah berkata, "Sesungguhnya di larang membunuh ular yang ada dalam rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3297) Sahih Muslim (2233)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5252</td></tr><tr><td>Arabic No</td><td>5252</td></tr><tr><td>Reference</td><td>Book 43 Hadith 480</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3297) Sahih Muslim (2233)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5252</td></tr><tr><td>Arabic No</td><td>5252</td></tr><tr><td>Reference</td><td>Book 43 Hadith 480</td></tr></tbody></table></div>
 

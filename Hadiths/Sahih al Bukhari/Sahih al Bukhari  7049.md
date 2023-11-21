@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "I am your predecessor at the Lake-Fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Mughirah] dari [Abu Wa'il] mengatakan ' [Abdullah] mengatakan, Nabi shallallahu 'alaihi wasallam bersabda; "Aku adalah manusia pertama-tama diantara kalian yang menuju telaga, lantas diperlihatkan padaku beberapa orang diantara kalian, hingga jika aku ingin menggandeng mereka, tiba-tiba mereka ditangkap dan dijauhkan dariku, sehingga aku berteriak-teriak 'Ya rabbi, itu sahabatku, ya rabbi, itu sahabatku! ' Allah menjawab; kamu tidak tahu apa yang perbuat sepeninggalmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7049</td></tr><tr><td>Arabic No</td><td>7049</td></tr><tr><td>Reference</td><td>Book 92 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Я раньше вас приду к водоёму, некоторых из вас непременно покажут мне, и когда я склонюсь дать им немного воды, они будут оторваны от меня, и я скажу: “О Господь мой, мои сподвижники!” Тогда будет сказано: “Ты не знаешь, что они сделали после тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7049</td></tr><tr><td>Arabic No</td><td>7049</td></tr><tr><td>Reference</td><td>Book 92 Hadith 2</td></tr></tbody></table></div>
 

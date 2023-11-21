@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Wa'il that there came a person from Hadramaut
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakar bin Abu Syaibah] dan [Hannad bin as-Sari] dan [Abu Ashim al-Hanafi] sementara lafazh hadits ini milik Qutaibah, mereka berkata, telah menceritakan kepada kami [Abu al-Ahwash] dari [Simak] dari [Alqamah bin Wail] dari [bapaknya] dia berkata, "Seorang laki-laki dari Hadlramaut dan seorang laki-laki dari Kindah mendatangi Nabi shallallahu 'alaihi wasallam, lalu orang Hadlramaut itu berkata, 'Wahai Rasulullah, sesungguhnya orang ini telah mengalahkanku atas tanah milikku yang dahulu milik bapakku.' Maka orang Kindi pun berkata, 'Itu adalah tanahku yang berada dalam genggamanku, dan aku telah menanaminya, maka dia tidak memiliki hak atasnya." Rasulullah shallallahu 'alaihi wasallam kemudian bertanya kepada orang Hadlrami tersebut: 'Apakah kamu memiliki bukti? ' Dia menjawab, 'Tidak'. Beliau bersabda: 'Kamu mendapatkan sumpahnya (rivalnya).' Lelaki dari Hadlramaut itu pun berkata, 'Wahai Rasulullah, sesungguhnya seorang laki-laki durhaka tidak akan mengindahkan atas sesuatu yang dia sumpahi, dia tidak akan takut terhadap sesuatu pun.' Maka Beliau bersabda: 'Kamu tidak mendapatkan darinya kecuali sumpahnya itu.' Ketika laki-laki dari Kindi itu akan bersumpah, ketika itu Rasulullah shallallahu 'alaihi wasallam bersabda: 'Ketahuilah, jika dia bersumpah untuk menguasai hartanya dengan zhalim, maka ia akan bertemu Allah dalam keadaan Allah murka kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>139.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 265</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ваиль ибн Худжр рассказывал: «(Однажды) к Пророку ﷺ пришли человек из Хадрамаута и человек из Кинды. Человек из Хадрамаута сказал: “О Посланник Аллаха! Этот (человек) силой отобрал (у меня) мою землю, которая досталась мне от моего отца”. Но человек из Кинды возразил: “Это моя земля, и именно я распоряжаюсь ею. Именно я засеял её, а у него нет на неё прав”. Посланник Аллаха ﷺ спросил у человека из Хадрамаута: “Есть ли у тебя доказательство (на твоё заявление)?” Тот ответил: “Нет”. Тогда (Пророк ﷺ) сказал: “Тогда он поклянётся перед тобой”. Но (человек из Хадрамаута) сказал: “О Посланник Аллаха! Этот лживый человек (даже) не обратит на то, относительно чего он клянётся, и не постесняется (забрать мою землю)”. Но (Пророк ﷺ) ответил: “(Если у тебя нет доказательств), ты можешь получить лишь его клятву!” (Услышав это), человек из Кинды удалился (в сторону), чтобы принести свою клятву, а когда он ушёл, Посланник Аллаху ﷺ сказал: “Если он принесёт клятву об имуществе этого (человек из Хадрамаута) с целью его несправедливого присвоения, то он непременно встретит Аллаха так, что Аллах отвернётся от него, (в гневе)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>139.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 265</td></tr></tbody></table></div>
 

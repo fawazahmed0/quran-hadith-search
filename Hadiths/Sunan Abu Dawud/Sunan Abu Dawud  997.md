@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wa'il ibn Hujr: I offered prayer along with the Prophet (ﷺ). He would
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdah bin Abdullah] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Musa bin Qais Al Hadlrami] dari [Salamah bin Kuhail] dari ['Alqamah bin Wa'il] dari [ayahnya] dia berkata; "Aku shalat di belakang Rasulullah shallallahu 'alaihi wasallam, beliau memberi salam ke arah kanan dengan mengucapkan "Assalamu 'alaikum wa rahmatullahi wa barakatuh (Semoga keselamatan, rahmat dan berkah Allah tetap atas kalian), " dan kearah kiri dengan mengucapkan "Assalamu 'alaikum warahmatullah (Semoga keselamatan dan rahmat Allah tetap atas kalian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>997</td></tr><tr><td>Arabic No</td><td>997</td></tr><tr><td>Reference</td><td>Book 2 Hadith 608</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ваиля, да будет доволен им Аллах: «Я совершал молитву вместе с Пророком ﷺ и, поворачивая голову направо во время таслима, он говорил: “Мир вам, милость Аллаха и Его благословения /Ассаляму ‘алейкум ва рахмату-Ллахи ва баракату-ху/”, а поворачивая голову налево, он говорил: “Мир вам и милость Аллаха /Ассаляму ‘алейкум ва рахмату-Ллах/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>997</td></tr><tr><td>Arabic No</td><td>997</td></tr><tr><td>Reference</td><td>Book 2 Hadith 608</td></tr></tbody></table></div>
 

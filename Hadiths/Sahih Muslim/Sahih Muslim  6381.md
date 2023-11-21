@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qays Ibn 'Ubâd a dit : "J'étais assis à Médine (dans la mosquée) avec des g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna Al 'Anbari]; Telah menceritakan kepada kami [Mu'adz bin Mu'adz]; Telah menceritakan kepada kami ['Abdullah bin 'Aun] dari [Muhammad bin Sirin] dari [Qais bin 'Ubad] dia berkata; Pada suatu hari aku berada di Madinah bersama orang-orang yang di antara mereka terdapat sahabat Nabi shallallahu 'alaihi wasallam. lalu seseorang datang dan di wajahnya terdapat tanda kekhusyu'an. Orang-orang berkata; Orang itu termasuk penghuni surga, orang itu termasuk penghuni surga. kemudian ia shalat dua rakaat yang ringan. Saat ia keluar dari masjid, aku mengikutinya hingga ia masuk rumah, akupun ikut masuk bersamanya lalu kami berbincang-bincang. saat ia mendengar, aku berkata padanya; Saat kau masuk masjid, orang-orang berkata seperti ini dan itu. Orang itu berkata; Subhaanallaah, tidak sepatutnya orang mengatakan sesuatu yang tidak diketahui. Aku akan menceritakan kepadamu, aku bermimpi sesuatu dimasa Rasulullah Shallalahu 'alaihi wa sallam lalu aku ceritakan mimpi itu pada beliau, aku bermimpi sepertinya aku berada di sebuah taman, -Ibnu 'Aun berkata; dia menyebutkan luasnya, hijau rumputnya, dan di tengahnya ada tiang besi, bawahnya menancap ke bumi dan atasnya sampai langit. Di atasnya ada tali lalu dikatakan kepadaku: Naiklah. Aku berkata; Aku tidak bisa. Lalu datanglah misnhaf -berkata Ibnu 'Aun al minshaf adalah Pelayan- lalu ia mengangkat bajuku dari belakang, ia berkata; Naiklah. Aku pun naik hingga aku berada di atas tiang dan meraih tali, ia berkata; Berpeganganlah pada tali. Lalu aku terbangun dan tali itu ada di tanganku. Aku mendatangi nabi Shallalahu 'alaihi wa sallam kemudian aku ceritakan padanya. Rasulullah Shallalahu 'alaihi wa sallam bersabda: "Maksud tanaman itu adalah Islam, tiangnya itu adalah tiang Islam sedangkan talinya itu adalah tali yang erat, dan engkau berada dalam Islam hingga kamu meninggal." Berkata Ibnu 'Aun: 'orang yang dimaksudkan itu adalah ['Abdullah bin Salam]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6381</td></tr><tr><td>Arabic No</td><td>2484.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6381</td></tr><tr><td>Arabic No</td><td>2484.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 211</td></tr></tbody></table></div>
 

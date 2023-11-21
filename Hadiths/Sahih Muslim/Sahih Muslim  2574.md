@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sufyan reported:I said to 'Abd al-Rahman b. Qasim: Have you heard from your fath
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ali bin Hujr As Sa'di] dan [Ibnu Abu Umar] keduanya berkata, telah menceritakan kepada kami [Sufyan] ia berkata, saya bertanya kepada [Abdurrahman bin Al Qasim], "Apakah Anda telah mendengar [bapak Anda] menceritakan dari [Aisyah] radliallahu 'anha, bahwa Nabi shallallahu 'alaihi wasallam menciumnya saat beliau berpuasa?" Abdurrahman diam sejenak kemudian menjawab, "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>1106.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>1106.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 80</td></tr></tbody></table></div>
 

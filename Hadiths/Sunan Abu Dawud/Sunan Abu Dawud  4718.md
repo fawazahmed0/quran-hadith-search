@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said :A man asked : where is my father, Messenger of Allah? He replied! You
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Anas] berkata, "Seorang laki-laki berkata, "Wahai Rasulullah, dimanakah bapakku?" beliau menjawab: "Bapakmu ada di neraka." Ketika laki-laki itu berlalu pergi, beliau bersabda: "Sesungguhnya bapakku dan bapakmu ada di dalam neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (203)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4718</td></tr><tr><td>Arabic No</td><td>4718</td></tr><tr><td>Reference</td><td>Book 42 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, что один человек спросил: «О Посланник Аллаха, где мой отец?» Он ответил: «Твой отец в Огне». А когда тот повернулся, чтобы уйти, (Посланник Аллаха ﷺ) сказал: «И мой, и твой отец в Огне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (203)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4718</td></tr><tr><td>Arabic No</td><td>4718</td></tr><tr><td>Reference</td><td>Book 42 Hadith 123</td></tr></tbody></table></div>
 

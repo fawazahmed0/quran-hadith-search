@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ammar ibn Yasir: The Messenger of Allah (ﷺ) encamped at Ulat al-Jaysh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ahmad bin Abi Khalaf] dan [Muhammad bin Yahya An-Naisaburi] pada para perawi yang lain, mereka berkata; Telah menceritakan kepada kami [Ya'qub] telah mengabarkan kepada kami [Ayahku] dari [Shalih] dari [Ibnu Syihab] telah menceritakan kepadaku [Ubaidullah bin Abdullah] dari [Ibnu Abbas] dari [Ammar bin Yasir] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah beristirahat dalam suatu perjalanan di akhir malam di Awwalatul Jaisy (nama suatu tempat dekat Madinah) dan beliau bersama Aisyah. Lalu kalung Aisyah yang terbuat dari manik Zhifar terputus (dan hilang). Karena itu, orang-orang tertahan untuk mencari kalungnya itu sampai fajar menyingsing, sedangkan mereka tidak mempunyai air. Maka Abu Bakar marah kepada Aisyah, dan berkata; Kamu telah menahan orang banyak, sementara mereka tidak mempunyai air. Maka Allah Ta'ala menurunkan (wahyu) kepada Rasulullah shallallahu 'alaihi wasallam tentang rukhshah (keringanan) bersuci dengan debu (tanah) yang baik (suci). Maka berdirilah kaum Muslimin bersama Rasulullah shallallahu 'alaihi wasallam kemudian mereka menepukkan tangan ke tanah, lalu mereka angkat tanpa menggenggam debu sedikit pun, kemudian mereka usapkan ke muka dan tangan sampai ke pundak, dan dari bagian dalam tangan sampai ketiak. Ibnu Yahya menambahkan dalam hadits riwayatnya; Ibnu Syihab berkata di dalam hadits riwayatnya; Orang-orang tidak menganggap hadits ini. Abu Dawud berkata; Demikian pula diriwayatkan oleh [Ibnu Ishaq] dia berkata padanya dari [Ibnu Abbas]; Dia menyebutkan dua tepukan ke tanah sebagaimana yang disebutkan oleh Yunus. Dan diriwayatkan oleh [Ma'mar] dari [Az-Zuhri] dua tepukan ke tanah. [Malik] berkata; dari [Az-Zuhri] dari [Ubaidullah bin Abdullah] dari [Ayahnya] dari [Ammar]. Demikian pula [Abu Uwais] berkata dari [Az-Zuhri] dan [Ibnu Uyainah] ragu-ragu dalam hadits ini, suatu kali dia mengatakan dari [Ubaidullah] dari [Ayahnya] atau dari [Ubaidullah] dari [Ibnu Abbas], dan suatu kali dia mengatakan dari Ibnu Abbas. Ibnu Uyainah mudldltharib (guncang) padanya dan pada pendengarannya dari Az-Zuhri, dan tidak ada seorang pun dari para perawi di dalam hadits ini yang menyebutkan dua kali tepukan kecuali orang yang saya sebutkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>320</td></tr><tr><td>Arabic No</td><td>320</td></tr><tr><td>Reference</td><td>Book 1 Hadith 320</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса о том, что ‘Аммар ибн Йасир рассказывал: «Однажды Посланник Аллаха ﷺ остановился на ночлег в Улати-ль-Джайш, и с ним в это время была ‘Аиша, у которой оборвалось ожерелье из зафарского оникса (которое где-то упало). Люди задержались в поисках этого ожерелья, пока не рассвело, и у них небыло воды. Абу Бакр рассердился на нее и сказал: “Ты задержала людей, а у них нет с собой воды”. И Всевышний Аллах, ниспослал откровение Своему посланнику ﷺ в котором было разрешено очищаться с чистым песком. Тогда мусульмане встали с посланником Аллаха ﷺ и начали ударять о землю своими руками. Затем они поднимали свои руки не набирая землю (руками), и обтирали свои лица и руки до плеч, а затем от ладоней до подмышек».Ибн Йахйа привел этот хадис с дополнением: «Ибн Шихаб сказал в своем хадисе: “Но люди не придают этому (хадису) значения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>320</td></tr><tr><td>Arabic No</td><td>320</td></tr><tr><td>Reference</td><td>Book 1 Hadith 320</td></tr></tbody></table></div>
 

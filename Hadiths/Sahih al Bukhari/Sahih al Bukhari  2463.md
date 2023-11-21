@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Araj:Abu Huraira said, "Allah's Messenger (ﷺ) said, 'No one should
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah seseorang melarang tetangganya untuk menyandarkan kayunya di dinding rumahnya". Kemudian Abu Hurairah radliallahu 'anhu berkata: "Jangan sampai aku lihat kalian menolak ketentuan hukum ini. Demi Allah, kalau sampai terjadi, akan aku lempar kayu-kayu itu menimpa samping kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2463</td></tr><tr><td>Arabic No</td><td>2463</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не препятствуйте своему соседу забить доску на его стену [то есть пристроить ­что-нибудь со своей стороны к уже готовому общему забору или стене]». Затем Абу Хурайра сказал: «Что с вами? Я вижу, что вы отворачиваетесь [от этой Сунны или вам не нравится этот хадис]? Клянусь Аллахом, я брошу её [Сунну или, по мнению других, доску, которую они запрещали забить] между вашими плечами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2463</td></tr><tr><td>Arabic No</td><td>2463</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
 

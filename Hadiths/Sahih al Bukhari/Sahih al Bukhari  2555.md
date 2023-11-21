@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Zaid bin Khalid:The Prophet (ﷺ) said, "If a slave-gir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kami [Sufyan] dari [Az Zuhriy] telah menceritakan kepadaku ['Ubaidullah]; aku mendengar [Abu Hurairah radliallahu 'anhu] dan [Zaid buin Khalid] dari Nabi shallallahu 'alaihi wasallam bersabda: "Jika seorang budak wanita berzina, maka cambuklah dia kemudian jika berzina lagi maka cambuklah dia, kemudian jika berzina lagi maka cambuklah dia untuk yang ketiga kalinya atau keempat, kemudian juallah sekalipun dengan harga seuntai rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2555</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 49 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры и Зейда ибн Халида, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Если рабыня совершит прелюбодеяние, подвергните её бичеванию, если она опять совершит прелюбодеяние, подвергните её бичеванию, а потом, если она совершит прелюбодеяние — (после третьего или после четвёртого раза), продайте её, пусть даже по цене верёвки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2555</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 49 Hadith 38</td></tr></tbody></table></div>
 

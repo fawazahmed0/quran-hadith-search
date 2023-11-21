@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbudDarda': The Prophet (ﷺ) said: If anyone takes land by (paying) it
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haiwah bin Syuraih Al Hadhrami] telah menceritakan kepada kami [Baqiyyah] telah menceritakan kepada kami ['Umarah bin Abu Asy sya'tsa'] telah menceritakan kepadaku [Sinan bin Qais], telah menceritakan kepadaku [Syabib bin Nu'aim] telah menceritakan kepadaku [Yazid bin Khumair] telah menceritakan kepadaku [Abu Ad Darda'] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang mengambil tanah dengan jizyahnya maka sungguh ia telah melepas hijranya. Dan barang siapa yang melepas kehinaan orang kafir dan ia meletakkannya pada lehernya maka sungguh ia telah membuat Islam lari ke belakangnya." Ia berkata; kemudian Khalid bin Ma'dan mendengar hadits ini dariku, lalu Asyubaib berkata kepadaku; apakah ia menceritakan kepadamu? Aku katakan; ya. ia berkata; apabila engkau datang maka mintalah kepadanya agar menulis hadits tersebut kepadaku. ia berkata; kemudian ia menulis hadits tersebut untuk Asyubaib. Kemudian tatkala aku datang, Khalid bin Ma'dan meminta kertas kepadaku, kemudian aku berikan kepadanya. kemudian tatkala ia membacanya ia meninggalkan tanah yang ada di kekuasaannya, ketika ia mendengar hal tersebut. Abu Daud berkata; ini adalah Yazid bin Khumair Al yazini, ia bukan sahabat Syu'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3082</td></tr><tr><td>Arabic No</td><td>3082</td></tr><tr><td>Reference</td><td>Book 20 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу ад-Дарды ﷺ что Посланник Аллаха ﷺ сказал: «Кто взял землю с её джизьей, тот как будто отменил свою хиджру, и кто снял с неверующего унижение его и возложил на себя, тот повернулся к исламу спиной». Передатчик этого хадиса сказал: «Когда Халид ибн Ми‘дан услышал от меня этот хадис, он сказал: “Это Шабиб пересказал тебе его?” Я ответил: “Да”. Он сказал: “Попроси его написать для меня этот хадис”. Он написал, и, когда я прибыл к Халиду, он попросил у меня запись и я отдал ему. Он прочитал этот хадис и оставил земли, которые были в его руках»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3082</td></tr><tr><td>Arabic No</td><td>3082</td></tr><tr><td>Reference</td><td>Book 20 Hadith 155</td></tr></tbody></table></div>
 

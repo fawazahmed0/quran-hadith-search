@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: If anyone resorts to a diviner and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) Telah diriwayatkan [Musaddad] telah menceritakan kepada kami [Yahya] dari [Hammad bin Salamah] dari [Hakim Al Atsram] dari [Abu Tamimah] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mendatangi seorang dukun -Musa menyebutkan dalam haditsnya- kemudian membenarkan apa yang ia katakan -kemudian keduanya sepakat pada lafadz-, atau mendatangi seorang wanita -Musaddad menyebutkan-, isterinya saat haid, atau mendatangi wanita -Musaddad menyebutkan; mendatangi istrinya lewat dubur-, maka ia telah berlepas diri dari apa yang telah diturunkan kepada Muhammad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3904</td></tr><tr><td>Arabic No</td><td>3904</td></tr><tr><td>Reference</td><td>Book 30 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто пришёл к прорицателю и поверил тому, что он сказал, или совершил половое сношение с женой в период менструации или половое сношение в задний проход, тот отрёкся от того, что Аллах ниспослал Мухаммаду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3904</td></tr><tr><td>Arabic No</td><td>3904</td></tr><tr><td>Reference</td><td>Book 30 Hadith 1</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that (hadrat) Sauda was a bulky lady
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Al Mutsanna] semuanya dari [Ats Tsaqafi] - [Ibnul Mutsanna] berkata- Telah menceritakan kepada kami [Abdul Wahhab] Telah menceritakan kepada kami [Ayyub] dari [Abdurrahman bin Al Qasim] dari [Al Qasim] dari [Aisyah] ia berkata; Saudah adalah seorang wanita yang gemuk lagi lamban. Maka ia pun meminta izin kepada Rasulullah shallallahu 'alaihi wasallam untuk berangkat lebih awal dari Jam' di malam hari, maka beliau pun mengizinkannya. Maka Aisyah pun berkata, "Sekiranya aku meminta izin kepada Rasulullah shallallahu 'alaihi wasallam sebagaimana Saudah." Saat itu, Aisyah tidak berangkat kecuali bersama Imam (Rasulullah shallallahu 'alaihi wasallam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3119</td></tr><tr><td>Arabic No</td><td>1290.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 323</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3119</td></tr><tr><td>Arabic No</td><td>1290.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 323</td></tr></tbody></table></div>
 

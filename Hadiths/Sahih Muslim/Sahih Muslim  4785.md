@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It his been narrated through a different chain of transmitters, on the authority
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad Ibnu Sahl bin 'Askar At Tamimi] telah menceritakan kepada kami [Yahya bin Hasan]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Yahya] -yaitu Ibnu Hassan- telah menceritakan kepada kami [Mu'awiyah] -yaitu Ibnu Salam- telah menceritakan kepada kami [Zaid bin Sallam] dari [Abu Sallam] dia berkata; [Hudzaifah bin Yaman] berkata, "Saya bertanya, "Wahai Rasulullah, dahulu saya berada dalam kejahatan, kemudian Allah menurunkan kebaikan (agama Islam) kepada kami, apakah setelah kebaikan ini timbul lagi kejatahan?" beliau menjawab: "Ya." Saya bertanya lagi, "Apakah setelah kejahatan tersebut akan timbul lagi kebaikan?" beliau menjawab: "Ya." Saya bertanya lagi, "Apakah setelah kebaikan ini timbul lagi kejahatan?" beliau menjawab: "Ya." Aku bertanya, "Bagaimana hal itu?" beliau menjawab: "Setelahku nanti akan ada pemimpin yang memimpin tidak dengan petunjukku dan mengambil sunah bukan dari sunahku, lalu akan datang beberapa laki-laki yang hati mereka sebagaimana hatinya setan dalam rupa manusia." Hudzaifah berkata; saya betanya, "Wahai Rasulullah, jika hal itu menimpaku apa yang anda perintahkan kepadaku?" beliau menjawab: "Dengar dan patuhilah kepada pemimpinmu, walaupun ia memukulmu dan merampas harta bendamu, dengar dan patuhilah dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4785</td></tr><tr><td>Arabic No</td><td>1847.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4785</td></tr><tr><td>Arabic No</td><td>1847.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 82</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said “The Apostle of Allaah(ﷺ) said to the spouses who invoked c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Sufyan bin 'Uyainah], ia berkata; saya mendengar ['Amr] dan [Sa'id bin Jubair] berkata; saya mendengar [Ibnu Umar] berkata; Rasulullah shallallahu 'alaihi wasallam berkata kepada kedua orang yang saling melaknat: "Hisab kalian ada pada Allah, salah seorang diantara kalian berdusta. Engkau tidak memiliki kekuasaan atas dirinya." Laki-laki tersebut berkata; wahai Rasulullah, hartaku. Beliau berkata: "Tidak ada harta yang menjadi hakmu, apabila engkau telah memberikan mahar kepadanya maka harta tersebut adalah sebagai ganti farji yang kalian halalkan, dan apabila engkau berdusta terhadapnya maka hal tersebut lebih jauh lagi bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5312) Sahih Muslim (1493)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2257</td></tr><tr><td>Arabic No</td><td>2257</td></tr><tr><td>Reference</td><td>Book 13 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал супругам, которые принесли соответствующие клятвы /ли‘ан/: «Вам отвечать перед Аллахом. Один из вас лжёт. Однако нет тебе пути против неё». Мужчина сказал: «О Посланник Аллаха! А как же моё имущество?» Он ответил: «Это больше не твоё имущество. Если, обвиняя её, ты сказал правду, то оно остаётся ей в качестве платы за то, что она стала дозволенной для тебя. А если ты солгал, то у тебя ещё меньше прав на это имущество»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5312) Sahih Muslim (1493)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2257</td></tr><tr><td>Arabic No</td><td>2257</td></tr><tr><td>Reference</td><td>Book 13 Hadith 83</td></tr></tbody></table></div>
 

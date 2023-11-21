@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) recited often these words: Hallowed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin al-Mutsanna] telah menceritakan kepadaku [Abdul A'la] telah menceritakan kepada kami [Dawud] dari [Amir] dari [Masruq] dari [Aisyah ra] dia berkata, "Dahulu Rasulullah Shallallahu'alaihiwasallam memperbanyak pertakataan, 'SUBHAANALLOOH WABIHAMDIHI ASTAGHFIRULLAH WA ATUUBU ILAIHI Mahasuci Allah dan dengan memujiNya, saya memohon ampunan kepada Allah dan saya bertaubat kepadaNya'." Aisyah berkata, "Lalu aku berkata, 'Wahai Rasulullah, saya melihatmu memperbanyak perkataan, 'Mahasuci Allah dan dengan memujiNya, aku memohon ampunan kepada Allah dan bertaubat kepadaNya'. Maka beliau menjawab, 'Rabbku telah mengabarkan kepadaku bahwa aku akan melihat suatu tanda pada umatku, ketika aku melihatnya maka aku memperbanyak membaca, 'Mahasuci Allah dan dengan memujiNya, aku memohon ampun kepada Allah dan bertaubat kepadaNya', maka sungguh aku telah melihatnya, yaitu (ketika pertolongan Allah datang dan pembukaanNya) yaitu pembukaan (fath) Makkah, dan dan kamu telah melihat manusia masuk ke dalam agama Allah secara berbondong-bondong, lalu bertasbihlah dengan memuji Rabbmu dan memohon ampunlah, sesungguhnya Dia Maha Pemberi taubat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1088</td></tr><tr><td>Arabic No</td><td>484.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «(Начиная с определённого времени,) Посланник Аллаха ﷺ стал часто повторять (слова): “Слава Аллаху и хвала Ему, прошу у Аллаха прощения и каюсь перед Ним /Субхана-Ллахи ва би-хамди-хи, астагфиру-Ллаха ва атубу иляй-хи/”». (‘Аиша) сказала: «Я сказала: «О Посланник Аллаха, я вижу, что ты часто повторяешь слова “Слава Аллаху и хвала Ему, прошу у Аллаха прощения и каюсь перед Ним”». Он сказал: «Мой Господь поведал мне, что я увижу знак, имеющий отношение к моей общине, (сказав, что) когда я увижу его, то должен буду часто повторять: “Слава Аллаху и хвала Ему, прошу у Аллаха прощения и каюсь перед Ним”, и я увидел (этот знак). Слова “Когда придёт помощь Аллаха и победа…” (Сура «ан-Наср», аят 1) это завоевание Мекки “…и увидишь ты людей, присоединяющихся к религии Аллаха толпами, то прославляй Господа твоего хвалой и проси у Него прощения, ведь Он Приемлющий покаяние” (Сура «ан-Наср», аят 3)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1088</td></tr><tr><td>Arabic No</td><td>484.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 250</td></tr></tbody></table></div>
 

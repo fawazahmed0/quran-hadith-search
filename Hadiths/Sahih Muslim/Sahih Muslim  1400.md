@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:The Mu'adhdbin (the announcer of the hour of prayer) of the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata; aku mendengar [Muhajir Abu Al Hasan] menceritakan bhawa ia mendengar [Zaid bin Wahb] menceritakan dari [Abu Dzar] dia berkata; Mu'adzin Rasulullah shallallahu 'alaihi wasallam pernah mengumandangkan adzan zhuhur, lalu Nabi shallallahu 'alaihi wasallam bersabda: "Tangguhkanlah hingga suhu agak dingin, tangguhkanlah hingga suhu agak dingin." -atau dengan redaksi- "Tunggu dulu, tunggu dulu." Lalu beliau melanjutkan sabdanya: "Panas yang menyengat berasal dari uap jahannam, jika panas menyengat, maka tangguhkanlah shalat hingga suhu agak dingin." Abu Dzar mengatakan; "Hingga kami lihat bayangan benda yang telentang (maksudnya beliau akhirkan sekian lama, dan benda yang telentang sangat jarang mempunyai bayangan selain setelah matahari sekian condong sekian banyak -pent)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1400</td></tr><tr><td>Arabic No</td><td>616</td></tr><tr><td>Reference</td><td>Book 5 Hadith 234</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр сказал: «(Однажды, когда) муаззин Посланника Аллаха ﷺ стал призывать людей на молитву, Пророк ﷺ велел: “Отложи (молитву), отложи (молитву), пока не станет прохладнее (или: Подожди, подожди). Поистине, (причиной) сильной жары является распространение жара Геенны, а поэтому откладывайте молитву, если жара усилится”». Абу Зарр (также) сказал: «(И мы откладывали молитву), пока не видели тени холмов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1400</td></tr><tr><td>Arabic No</td><td>616</td></tr><tr><td>Reference</td><td>Book 5 Hadith 234</td></tr></tbody></table></div>
 

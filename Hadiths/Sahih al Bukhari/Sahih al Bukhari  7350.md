@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri and Abu Huraira:Allah's Messenger (ﷺ) sent the br
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] dari [saudaranya] dari [Sulaiman bin Bilal] dari [Abdul Majid bin Suhail bin Abdurrahman bin Auf] ia mendengar [Sa'id bin Musayyab] menceritakan bahwa [Abu Sa'id alkhudzri] dan [Abu Hurairah] menceritakan kepadanya, Rasulullah Shallallahu'alaihiwasallam mengutus saudara bani 'Adi Al anshari dan mempekerjakannya untuk mengelola kebun Khaibar, selanjutnya ia membawa kurma yang kualitasnya istimewa, maka Rasulullah Shallallahu'alaihiwasallam bertanya: 'Apa setiap kurma Khaibar seperti ini? ' Ia menjawab, 'Tidak, demi Allah ya Rasulullah, kami membeli satu sha' kurma ini dengan dua sha' kurma kami dari Jam' (Muzdalifah).' Maka Rasulullah Shallallahu'alaihiwasallam bersabda: "Jangan seperti itu kau lakukan, namun jika kamu ingin menukar, tukarlah dengan takaran sama, atau jual dahulu kurmamu dan belilah kurma itu dengan uang hasil penjualanmu, demikian pula timbangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7350</td></tr><tr><td>Arabic No</td><td>7350</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри и Абу Хурайры, да будет доволен Аллах ими обоими, что (как-то раз) Посланник Аллаха ﷺ направил в Хайбар одного ансара из рода бану ‘ади, которого он назначил наместником Хайбара. Однажды он привёз лучший из сортов сухих фиников /джаниб/, и Посланник Аллаха ﷺ спросил его: «Все ли финики Хайбара таковы?» Он ответил: «Нет, клянусь Аллахом, о Посланник Аллаха. Поистине, мы покупаем один са‘ (таких фиников) за два са‘ фиников разных сортов». Тогда Посланник Аллаха ﷺ сказал: «Не делайте так, а продавайте подобное количество за подобное (или: продавайте это и покупайте на вырученные деньги то). А также это относится к товарам, которые продаются на вес»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7350</td></tr><tr><td>Arabic No</td><td>7350</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

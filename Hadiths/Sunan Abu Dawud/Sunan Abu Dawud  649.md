@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Hasan bin Ali] telah menceritakan kepada kami [Abdur Razzaq] dan [Abu 'Ashim] mereka berdua berkata; Telah mengabarkan kepada kami [Ibnu Juraij] dia berkata; Saya telah mendengar [Muhammad bin 'Abbad bin Ja'far] berkata; Telah mengabarkan kepadaku [Abu Salamah bin Sufyan] dan [Abdullah bin Al-Musayyib Al-'Abidi] dan [Abdullah bin Amru] dari [Abdullah bin As-Sa'ib] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengerjakan shalat Shubuh bersama kami di Makkah. Beliau membaca surat Al-Muminuun, ketika beliau sampai pada ayat tentang cerita Musa dan Harun, atau cerita tentang Musa dan Isa, -Ibnu Abbad ragu-ragu atau mereka berselisih pendapat-, Rasulullah shallallahu 'alaihi wasallam mengalami batuk batuk, lalu beliau berhenti membaca, kemudian ruku', dan Abdullah bin As-Sa'ib turut hadir ketika kejadian itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (455)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>649</td></tr><tr><td>Arabic No</td><td>649</td></tr><tr><td>Reference</td><td>Book 2 Hadith 259</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ас-Саиб сказал: «(Однажды,) будучи в Мекке, Посланник Аллаха ﷺ совершил с нами утреннюю молитву. Он начал (чтение) с суры “Верующие” и когда он дошёл до того места, где упоминается Муса и Харун или же Муса и ‘Иса, [(Мухаммад) ибн ‘Аббад сомневался в этом или же они разошлись во мнениях] Посланник Аллаха ﷺ вдруг начал кашлять, и, перестав (читать Коран,) он совершил поясной поклон, а ‘Абдуллах ибн ас-Саиб был свидетелем этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (455)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>649</td></tr><tr><td>Arabic No</td><td>649</td></tr><tr><td>Reference</td><td>Book 2 Hadith 259</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMusa al-Ash'ari: The Prophet (ﷺ) said: Before you there will be co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Farits] berkata, telah menceritakan kepada kami [Affan bin Muslim] berkata, telah menceritakan kepada kami [Abdul Wahid bin Ziyad] berkata, telah menceritakan kepada kami [Ashim Al Ahwal] dari [Abu Kabsyah] ia berkata; Aku mendengar [Abu Musa] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan datang kepada kalian fitnah sebagaimana malam yang gelap gulita, pada masa itu seorang beriman di pagi hari lalu kafir di sore hari, orang yang duduk lebih baik dari orang yang berdiri, orang yang berdiri lebih baik dari orang yang berjalan dan orang yang berjalan lebih baik dari orang yang berlari." Para sahabat bertanya, "Lalu apa yang engkau perintahkan kepada kami?" Beliau menjawab: "Tetaplah kalian di rumah-rumah kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 37 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Мусы (аль-Аш‘ари), да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Грядут смуты, подобные тёмной ночи, и будет человек просыпаться утром верующим, а ложиться вечером уже неверующим, и будет человек ложиться вечером верующим, а просыпаться утром уже неверующим. Сидящий в те дни будет лучше стоящего, а стоящий лучше идущего, а идущий лучше бегущего». Люди спросили: «Что же ты велишь нам делать?» Он сказал: «Держитесь своих домов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 37 Hadith 23</td></tr></tbody></table></div>
 

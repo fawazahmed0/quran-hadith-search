@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muslim b. Yannaq reported that Ibn Umar saw a person trailing his lower garment,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] ia berkata; Aku mendengar [Muslim bin Yannaq] bercerita dari [Ibnu 'Umar] bahwa ia melihat seorang laki-laki yang memanjangkan kainnya, lalu Ibnu Umar bertanya kepadanya; siapakah anda?, lalu dia menyebutkan nasabnya, dan ternyata dia adalah dari bani Laits. Setelah itu Ibnu Umar berkata; 'Aku mendengar Rasulullah shallallahu 'alaihi wasallam dengan kedua telinga ini, beliau bersabda: "Barang siapa yang memanjangkan kainnya karena sombong, Allah tidak akan melihat kepadanya pada hari kiamat kelak." Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami ['Abdul Malik] yaitu Ibnu Abu Sulaiman; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Abu Yunus]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Ibnu Abu Khalaf]; Telah menceritakan kepada kami [Yahya bin Abu Bukair]; Telah menceritakan kepadaku [Ibrahim] yaitu Ibnu Nafi', -seluruhnya- dari [Muslim bin Yannaq] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa. Hanya saja pada Hadits Abu Yunus dari Muslim dari Abu Al Hasan, di dalam semua riwayat mereka menyebutkan, 'Barang siapa memanjangkan kainnya, ' mereka tidak mengatakan 'memanjangkan bajunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5459</td></tr><tr><td>Arabic No</td><td>2085.07</td></tr><tr><td>Reference</td><td>Book 37 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5459</td></tr><tr><td>Arabic No</td><td>2085.07</td></tr><tr><td>Reference</td><td>Book 37 Hadith 74</td></tr></tbody></table></div>
 

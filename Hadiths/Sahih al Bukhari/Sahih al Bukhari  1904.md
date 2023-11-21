@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah said, 'All the deeds o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam bun Yusuf] dari [Ibnu Juraij] berkata, telah mengabarkan kepada saya ['Atho'] dari [Abu Shalih Az Zayyat] bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah Ta'ala telah berfirman: "Setiap amal anak Adam adalah untuknya kecuali shaum, sesungguhnya shaum itu untuk Aku dan Aku sendiri yang akan memberi balasannya. Dan shaum itu adalah benteng, maka apabila suatu hari seorang dari kalian sedang melaksanakan shaum, maka janganlah dia berkata rafats dan bertengkar sambil berteriak. Jika ada orang lain yang menghinanya atau mengajaknya berkelahi maka hendaklah dia mengatakan 'Aku orang yang sedang shaum. Dan demi Dzat yang jiwa Muhammad berada di tanganNya, sungguh bau mulut orang yang sedang shaum lebih harum di sisi Allah Ta'ala dari pada harumnya minyak misik. Dan untuk orang yang shaum akan mendapatkan dua kegembiraan yang dia akan bergembira dengan keduanya, yaitu apabila berbuka dia bergembira dan apabila berjumpa dengan Rabnya dia bergembira disebabkan 'ibadah shaumnya itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1904</td></tr><tr><td>Arabic No</td><td>1904</td></tr><tr><td>Reference</td><td>Book 30 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Аллах Всевышний сказал: “Любое дело сына Адама (совершается им) для себя, кроме поста, ибо, поистине, он — для Меня, и Я воздам за него”».\n(Посланник Аллаха ﷺ также сказал): «Пост является щитом, и в тот день, когда кто-нибудь из вас будет поститься, пусть избегает всего непристойного и не шумит; если же кто-нибудь станет бранить его или (попытается) завязать с ним ссору, пусть скажет (такому): “Поистине, я — человек, соблюдающий пост!” Клянусь Тем, в Чьей длани душа Мухаммада, запах изо рта постящегося приятнее для Аллаха, чем благоухание мускуса, а постящийся испытает две радости: он порадуется, когда станет разговляться, а когда встретится он со своим Господом, порадуется он тому, что постился”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1904</td></tr><tr><td>Arabic No</td><td>1904</td></tr><tr><td>Reference</td><td>Book 30 Hadith 14</td></tr></tbody></table></div>
 

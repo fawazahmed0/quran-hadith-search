@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Asim al-Ahwal:I saw the drinking bowl of the Prophet (ﷺ) with Anas b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Al Mudrik] dia berkata; telah menceritakan kepadaku [Yahya bin Hammad] telah mengabarkan kepada kami [Abu 'Awanah] dari ['Ashim bin Al Ahwal] dia berkata; aku pernah melihat mangkuk nabi shallallahu 'alaihi wasallam ada pada [Anas bin Malik], sedangkan mangkuk tersebut telah retak, lalu dia menyambungnya dengan perak, Anas berkata; "Mangkuk itu adalah mangkuk yang sangat bagus yang terbuat dari kayu pilihan, 'Ashim melanjutkan; Anas berkata; Sungguh aku telah menuangkan (minuman) kepada Rasulullah shallallahu 'alaihi wasallam dengan mangkuk tersebut hingga sekian kali. Perawi berkata; Ibnu Sirin mengatakan; bahwa mangkuk tersebut terdapat rantai yang terbuat dari besi, lalu Anas hendak menggantinya dengan rantai yang terbuat dari emas atau perak, maka Abu Thalhah berkata kepadanya; "Janganlah kamu merubah sesuatu yang telah di buat oleh Rasulullah shallallahu 'alaihi wasallam." Anas pun membiarkan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5638</td></tr><tr><td>Arabic No</td><td>5638</td></tr><tr><td>Reference</td><td>Book 74 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Асим аль-Ахваль, да помилует его Аллах Всевышний, сказал: «Я видел чашу Пророка ﷺ у Анаса бин Малика, да будет доволен им Аллах, который сказал: “Я поил Посланника Аллаха ﷺ из этой чаши больше чем столько-то раз”. В эту чашу было вделано железное кольцо, а когда Анас хотел заменить его золотым или серебряным, Абу Тальха сказал ему: “Не меняй ничего сделанного посланником Аллаха ﷺ!” — и Анас оставил (всё как было)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5638</td></tr><tr><td>Arabic No</td><td>5638</td></tr><tr><td>Reference</td><td>Book 74 Hadith 64</td></tr></tbody></table></div>
 

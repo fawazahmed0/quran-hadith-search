@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amir bin Sa'd bin Abi Waqqas:That he heard Usama bin Zaid speaking to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul yaman] telah menceritakan kepada kami [Syu'aib] dari [Az Zuhri] telah menceritakan kepada kami ['Amir bin Sa'd bin Abi Waqqash], ia mendengar [Usamah bin Zaid] menceritakan kepada Sa'd, bahwasanya Rasulullah shallallahu 'alaihi wasallam memperbincangkan suatu penyakit, beliau bersabda: "Itu adalah sebagai hukuman dan siksaan yang pernah digunakan untuk menyiksa suatu kaum, kemudian masih ada yang tersisa dari penyakit tersbut, sehingga terkadang datang dan pergi, maka siapa mendengar suatu penyakit melanda sebuah negeri, jangan sesekali ia mendatanginya, dan barangsiapa di suatu negeri yang tengah dilanda penyakit, jangan ia mengungsi dengan niat menghindari penyakit itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6974</td></tr><tr><td>Arabic No</td><td>6974</td></tr><tr><td>Reference</td><td>Book 90 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Са‘да, что (однажды) Посланник Аллаха ﷺ упомянул чуму и сказал: «(Это — ) наказание, которым были наказаны некоторые народы, затем часть его осталась, и временами она появляется, а затем уходит. Поэтому пусть тот, кто услышит, что она разразилась в какой-нибудь земле, не ездит туда, если же она начнётся там, где он будет находиться, пусть не покидает (эту землю в попытке) убежать от неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6974</td></tr><tr><td>Arabic No</td><td>6974</td></tr><tr><td>Reference</td><td>Book 90 Hadith 21</td></tr></tbody></table></div>
 

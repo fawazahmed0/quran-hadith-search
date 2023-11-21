@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Dharr (que Dieu l'agrée) : Al-'Ahnaf Ibn Qays a dit : Je gagnai M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Al Jurairi] dari [Abul Ala'] dari [Al Ahnaf bin Qais] ia berkata; Ketika aku berada di Madinah dan berada dalam sekelompok orang Quraisy, tiba-tiba datanglah [seorang laki-laki] yang berpakaian dari bahan yang kasar, kulit serta wajahnya juga kasar. Kemudian laki-laki itu berdiri seraya berkata, "Berilah kabar gembira kepada orang-orang yang menumpuk harta (tidak membayar zakat), bahwa mereka akan disiksa dengan batu yang dipanaskan di dalam neraka jahannam. Lalu diletakkan di atas dada salah seorang dari mereka hingga batu itu keluar dari pundak mereka. Kemudian batu itu diletakkan di tengah-tengah kedua pundaknya hingga keluar dari dadanya dengan mendidih." (Mendengar hal itu) orang-orang pun menundukkan kepala. Dan aku tidak melihat seorang pun dari mereka kembali memandangnya. Kemudian laki-laki itu berbalik, lalu kuikuti sampai ia duduk di rombongannya. Maka kukatakan padanya, "Tidaklah aku melihat mereka, melainkan benci terhadap apa yang telah Anda katakan." Ia berkata, "Sesungguhnya orang-orang itu tidak memahami sedikitpun. Sesungguhnya kekasihku Abu Al Qasim shallallahu 'alaihi wasallam pernah memanggilku, lalu aku pun menjawab panggilannya. Kemudian beliau bertanya: 'Apakah kamu melihat bukit gunung Uhud? ' Lalu aku melihat matahari yang menyinariku, dan aku menyangka bahwa beliau akan mengutusku untuk suatu keperluan, lalu aku jawab, "Ya, aku lihat." Maka beliau bersabda: 'Tidaklah membahagiakanku jika aku memiliki emas sebesar bukit itu, bahkan aku akan menginfakkannya seluruhnya, kecuali tiga Dinar.' Namun mereka itu mengumpulkan harta benda dunia dan mereka tidak berakal sedikitpun." Aku bertanya, "Kenapa Anda dan saudara perempuan Anda dari Quraisy tidak mendatangi dan meminta kepada mereka?" Ia menjawab, "Tidak, dan demi Rabb-mu, aku tidak akan meminta dunia pada mereka dan tidak pula akan meminta fatwa pada mereka hingga aku berjumpa dengan Allah dan Rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2306</td></tr><tr><td>Arabic No</td><td>992.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Ахнаф ибн Кайс рассказывал: «Однажды, когда я прибыл в Медину и сидел с несколькими людьми из курайшитов, подошёл человек в грубой одежде, с грубым лицом и внешностью. Он встал перед ними и сказал: “Обрадуйте тех, кто копит богатство, камнем, который будет нагрет в адском огне и будет положен на соски их грудей, пока он не выйдет из их лопаток, а затем положен на их лопатки, пока он не пройдёт через соски их грудей, и камень будет двигаться (в этих двух направлениях)”. Тогда люди опустили головы, и я не видел, чтобы кто-нибудь из них ответил ему что-то. (Сказав это, человек) отошёл и сел рядом с колонной, а я последовал за ним и сказал ему: “Я думаю, что людям не понравилось то, что ты сказал”. Он ответил: “Они ничего не понимают. (Однажды) мой друг Абуль-Касим позвал меня, а я отозвался, и он спросил: “Видишь (гору) Ухуд?” Тогда я начал смотреть на солнце, чтобы рассчитать, сколько осталось до конца дня, так как я думал, что Посланник Аллаха ﷺ хочет послать меня сделать что-то для него, и я сказал: “(Да,) я вижу её!” Он сказал: “Я не хотел бы иметь золото, равное ей (горе Ухуд), если я не потрачу его полностью (на пути Аллаха), кроме трёх динаров”. И после этого люди лишь собирают мирские богатства и ничего не понимают”. Я сказал: “Почему ты не просишь ничего у своих братьев курайшитов?” Он ответил: “Нет, клянусь твоим Господом, я не прошу у них мирских (благ) и не стану спрашивать их о религии, пока не встречусь с Аллахом и Его Посланником”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2306</td></tr><tr><td>Arabic No</td><td>992.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 43</td></tr></tbody></table></div>
 

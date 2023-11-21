@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:'Abdullah (bin Mas'ud) said, "Whoever takes a (false) oath in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] berkata; ['Abdullah] berkata: "Siapa yang bersumpah yang dengan sumpahnya bermaksud untuk menguasai harta maka dia akan berjumpa Allah dan Allah dalam keadaan murka kepadanya. Kemudian turunlah firman Allah sebagai pembenaran atas ini: ("Sesungguhnya orang-orang yang menjual janjinya dengan Allah dan sumpah mereka dengan harga yang murah …hingga ayat berbunyi…. siksa yang pedih) (QS. Ali'Imran.77). Kemudian [Al Asy'ats bin Qais] menemui kami lalu berkata: "Apa yang diceritakan kepada kalian oleh Abu 'Abdurrahman?" Maka kami ceritakan kepadanya apa yang disampaikan oleh Abu 'Abdurrahman. Maka dia berkata: "Dia benar, karena memang ayat itu turun berkenaan dengan aku, yang antara aku dan seseorang ada perselisihan tentang sesuatu sehingga kami bawa persoalan tersebut kepada Rasulullah shallallahu 'alaihi wasallam lalu Beliau bertanya: "Siapa dua orang saksimu atau orang itu menyatakan sumpahnya". Aku katakan kepada Beliau: "Kalau sumpah, dia pasti mau bersumpah lalu dia tidak mempedulikan aku". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang bersumpah dengan tujuan bermaksud mengambil harta seseorang padahal dia bersumpah dengan curang (dusta) maka nanti dia akan berjumpa Allah 'azza wajalla, dan Allah murka kepadanya". Maka turunlah ayat sebagai pembenaran dari hal ini, lalu dia membacanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2670</td></tr><tr><td>Arabic No</td><td>2670</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «Кто принёс клятву (Аллахом), чтобы таким образом присвоить имущество, тот встретит Аллаха разгневанным на него», — после этого в подтверждение этих слов Аллах ниспослал аят, (в котором сказано): «Поистине, для тех, которые продают завет с Аллахом и свои клятвы задёшево, нет доли в последней жизни. Аллах не будет говорить с ними, не посмотрит на них в день воскресения и не очистит их. Им уготованы мучительные страдания» (сура «Али ‘Имран», аят 77). Затем вышел к нам Аль-Аш‘ас ибн Кайс, да будет доволен им Аллах, и сказал: «Что рассказал вам Абу ‘Абдуррахман?», — и мы рассказали ему о том, что сказал (‘Абдуллах ибн Мас‘уд). И он сказал: «Он сказал правду. (Этот аят) был ниспослан в отношении меня. Мы с одним человеком вели тяжбу из-за одной вещи. Мы обратились к Посланнику Аллаха ﷺ и он сказал: “(Приведи) двух свидетелей или пусть он поклянётся”. Я возразил: “Но ведь он не задумываясь сейчас поклянётся”. И Пророк ﷺ сказал: “Кто принёс ложную клятву (Аллахом), чтобы таким образом присвоить имущество, тот встретит Всемогущего и Великого Аллаха разгневанным на него”, — и в подтверждение этих слов Аллах ниспослал (аят в Коране), после чего он прочитал этот аят»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2670</td></tr><tr><td>Arabic No</td><td>2670</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

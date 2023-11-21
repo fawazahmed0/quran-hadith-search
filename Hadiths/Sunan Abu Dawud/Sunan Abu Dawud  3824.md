@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hudhayfah ibn al-Yaman: Zirr ibn Hubaysh said: Hudhayfah traced, I thin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Asy Syaibani] dari [Adi bin Tsabit] dari [Zirr bin Khubaisy] dari [Hudzaifah] aku mengira dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa meludah ke arah kiblat, maka pada hari kiamat ia akan datang sementara ludahnya ada di antara kedua matanya. Dan barangsiapa makan sebagian dari sayur yang berbau busuk ini, maka janganlah ia mendekati masjid kami!" Beliau mengatakannya sebanyak tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3824</td></tr><tr><td>Arabic No</td><td>3824</td></tr><tr><td>Reference</td><td>Book 28 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Хузайфы, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Если кто-то плюнет в сторону киблы, то он придёт в Судный день с этим плевком между глаз, а кто поел этот мерзкий овощ, пусть не приближается к нашей мечети». Он повторил эти слова трижды
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3824</td></tr><tr><td>Arabic No</td><td>3824</td></tr><tr><td>Reference</td><td>Book 28 Hadith 89</td></tr></tbody></table></div>
 

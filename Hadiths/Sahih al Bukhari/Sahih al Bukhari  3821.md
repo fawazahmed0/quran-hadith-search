@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once Hala bint Khuwailid, Khadija's sister, asked the permission
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Muhammad bin Fudlail] dari ['Umarah] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] berkata; 'Malaikat Jibril 'alaihis salam mendatangi Nabi shallallahu 'alaihi wasallam lalu berkata; "Wahai Rasulullah, Ini Khadijah, datang membawa bejana berisi lauk pauk atau makanan atau minuman. Bila nanti dia sudah menjumpaimu, sampaikan salam dari Rabb-Nya dan dariku dan berilah kabar gembira kepadanya dengan rumah di surga yang terbuat dari mutiara yang isinya tidak ada suara hiruk pikuk dan kelelahan". Dan telah berkata Isma'il bin Khalil telah mengabarkan kepada kami 'Ali bin Mushir dari Hisyam dari bapaknya dari 'Aisyah radliallahu 'anha berkata; "Halah binti Khuwalid, saudara perempuan Khadijah meminta izin Rasulullah shallallahu 'alaihi wasallam, lalu beliau teringat cara Khadijah meminta izin. Beliau tertegun sejenak namun segera berujar: "Ya Allah, ini Halah". 'Aisyah radliallahu 'anha berkata; "Aku menjadi cemburu karenanya lalu aku katakan; "Kamu mengingat terus si tua bangka peyot dari Quraisy itu dan yang kedua rahangnya telah merah itu (sindiran untuk orang yang sudah tua). Dia telah lama mati. Padahal Allah telah memberi ganti untukmu dengan yang lebih baik darinya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3821</td></tr><tr><td>Arabic No</td><td>3821</td></tr><tr><td>Reference</td><td>Book 63 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Халя бинт Хувайлид, сестра Хадиджи, попросила разрешения войти к Посланнику Аллаха ﷺ которому это напомнило о том, как спрашивала разрешения Хадиджа, что обеспокоило его, и он воскликнул: “О Аллах, (это же) Халя!”»\n(‘Аиша, да будет доволен ею Аллах,) сказала: «Это вызвало во мне ревность, и я сказала: “Почему ты вспоминаешь давно умершую (беззубую) старуху с красными деснами из числа старух (племени) курайш, когда Аллах дал тебе вместо неё нечто лучшее?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3821</td></tr><tr><td>Arabic No</td><td>3821</td></tr><tr><td>Reference</td><td>Book 63 Hadith 46</td></tr></tbody></table></div>
 

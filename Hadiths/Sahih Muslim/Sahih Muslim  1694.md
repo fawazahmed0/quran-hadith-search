@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Habiba (the wife of the Holy Prophet) reported Allah's Messenger (ﷺ) as sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Abu Khalid yaitu Sulaiman bin Hayyan] dari [Dawud bin Abu Hind] dari [Nu'man bin Salim] dari ['Amru bin Aus], katanya; telah menceritakan kepadaku [Anbasah bin Abu Sufyan] ketika sakitnya yang menyebabkan dia meninggal, dengan hadis yang membuatnya gembira. Katanya; aku mendengar [Ummu Habibah] mengatakan; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa shalat dua belas rakaat sehari semalam, maka akan dibangunkan baginya sebuah rumah di surga." [Ummu Habibah] berkata; Maka aku tidak akan meninggalkan dua belas rakaat itu semenjak aku mendengarnya dari Rasulullah shallallahu 'alaihi wasallam. Dan [Anbasah] juga berkata; "Maka aku tidak akan meninggalkannya semenjak aku mendengarnya dari Ummu Habibah. Dan ['Amru bin Aus] juga berkata; "Aku tidak akan meninggalkannya semenjak aku mendnegarnya dari Anbasah. [Nu'man bin Salim] juga berkata; "Aku tidak akan meninggalkannya semenjak aku mendengarnya dari 'Amru bin Aus. Telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Bisyr bin Al Mufadldlal] telah menceritakan kepada kami [Dawud] dari [Nu'man bin Salim] dengan sanad seperti ini; "Siapa yang shalat sunnah dua belas raka'at dalam sehari, maka akan dibangunkan baginya rumah di dalam surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>728.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Умм Хабибы, что Посланник Аллаха ﷺ говорил: «Для того, кто совершит двенадцать рак‘атов в течение дня и ночи, будет воздвигнут дом в Раю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>728.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 124</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever Allah's Messenger (ﷺ) became sick, he would recite Mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] radliallahu 'anha, bahwasanya; Apabila Rasulullah shallallahu 'alaihi wasallam menderita sakit, maka beliau membacakan Al Mu'awwidzaat untuk dirinya sendiri, lalu beliau meniupkannya. Dan ketika sakitnya parah, maka akulah yang membacakannya pada beliau, lalu mengusapkan dengan menggunakan tangannya guna mengharap keberkahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5016</td></tr><tr><td>Arabic No</td><td>5016</td></tr><tr><td>Reference</td><td>Book 66 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказывала: «Когда Посланник Аллаха ﷺ заболевал, он читал для себя защищающие суры (“аль-Фаляк” и “ан-Нас”), поплёвывая, а когда его болезнь усилилась, я читала для него эти суры и протирала его тело его же рукой, надеясь на её благодать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5016</td></tr><tr><td>Arabic No</td><td>5016</td></tr><tr><td>Reference</td><td>Book 66 Hadith 38</td></tr></tbody></table></div>
 

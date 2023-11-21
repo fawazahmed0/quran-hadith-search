@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa' reported that Allah's Messenger (ﷺ) said:When it will be the Day of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari [Thalhah bin Yahya] dari [Abu Burdah] dari [Abu Musa] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Pada hari kiamat kelak, Allah Subhanahu wa Ta'ala akan menyerahkan seorang Yahudi ataupun seorang Nasrani kepada setiap orang muslim. Kemudian Allah Subhanahu wa Ta'ala akan berkata; 'Inilah penebusmu dari siksa api neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7011</td></tr><tr><td>Arabic No</td><td>2767.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы аль-Аш‘ари, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда настанет День воскресения, Аллах передаст каждому мусульманину иудея или христианина и скажет: “Это твоё избавление от (адского) Огня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7011</td></tr><tr><td>Arabic No</td><td>2767.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 57</td></tr></tbody></table></div>
 

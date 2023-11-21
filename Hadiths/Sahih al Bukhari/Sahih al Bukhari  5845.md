@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Khalid bint Khalid:Some clothes were presented to Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Ishaq bin Sa'id bin 'Amru bin Sa'id Al 'Ash] dia berkata; telah menceritakan kepadaku [Ayahku] telah menceritakan kepadaku [Ummu Khalid binti Khalid] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah diberi baju yang bersulam sutera, lalu beliau bersabda: "Menurut kalian siapa yang paling berhak untuk memakai kain ini?", orang-orang pun diam. Beliau lalu bersabda: "Datangkanlah Ummu Khalid kepadaku." Beliau lantas memberikan kain tersebut dan memakaikannya kepadanya. Setelah itu beliau bersabda: 'Semoga tahan lama hingga Allah menggantinya dengan yang baru (panjang umur).' Beliau mengatakannya hingga dua kali, lalu beliau melihat corak warna baju itu, sambil menunjukkan tangannya kepadaku beliau bersabda: "Wahai Ummu Khalid, ini sanah, wahai Ummu Khalid ini sanah." Sanah bagai orang-orang Habasyah bermakna bagus." Ishaq mengatakan; telah menceritakan kepadaku seorang wanita dari keluargaku bahwa dia pernah melihat Ummu Khalid mengenakan pakaian tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5845</td></tr><tr><td>Arabic No</td><td>5845</td></tr><tr><td>Reference</td><td>Book 77 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Халид бинт Халид сказала: «Однажды Посланнику Аллаха ﷺ принесли одежду, среди которой была одна маленькая чёрная накидка /хамиса/, и он сказал: “Как вы думаете, на кого мы наденем эту накидку?” Но все молчали. Тогда он сказал: “Приведите ко мне Умм Халид”. Когда меня привели к Пророку ﷺ, он надел на меня её собственной рукой и дважды сказал: “Носи, пока не износишь!” Потом он, глядя на узоры на одежде, указал рукой и сказал: “О Умм Халид, это санах! О Умм Халид, это санах!” Слово “санах” означало “прекрасно” на языке эфиопов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5845</td></tr><tr><td>Arabic No</td><td>5845</td></tr><tr><td>Reference</td><td>Book 77 Hadith 62</td></tr></tbody></table></div>
 

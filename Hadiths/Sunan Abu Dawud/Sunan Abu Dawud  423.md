@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah reported:The Messenger of Allah (ﷺ) would say the Fajr prayer after whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti Abdirrahman] dari [Aisyah radliallahu 'anha] bahwasanya dia berkata; Rasulullah Shallallahu alaihi wasallah shalat Shubuh, sementara para wanita pergi ke masjid dengan menutupi wajah dan badan mereka dengan kain dari bulu domba, mereka tidak diketahui karena masih gelap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (867) Sahih Muslim (645)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Посланник Аллаха ﷺ совершал утреннюю молитву, то женщины (которые молились с ним) закончив (молитву) закутывались в свои покрывала, и никто их не узнавал в предрассветном сумраке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (867) Sahih Muslim (645)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa'id ibn Amr al-Qurashi quoting his father said:Ibn Umar (once) saw some fellow
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari] dari [Waki'] dari [Ishaq bin Sa'id bin Amru Al Qurasyi] dari [Bapaknya] dari [Ibnu Umar] Bahwasanya ia melihat sekelompok orang-orang Yaman duduk di atas tikar dari kulit. Lalu ia berkata, "Barangsiapa ingin melihat sekelompok orang seperti para sahabat Nabi shallallahu 'alaihi wasallam, maka lihatlah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4144</td></tr><tr><td>Arabic No</td><td>4144</td></tr><tr><td>Reference</td><td>Book 34 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Исхак ибн Са‘ид ибн ‘Амр аль-Кураши передаёт от своего отца, что однажды Ибн ‘Умар, да будет доволен Аллах им и его отцом, увидел группу людей из Йемена, сёдла которых были из (дублёной) кожи, и сказал: «Кто желает посмотреть на группу людей, более всего напоминающих сподвижников Пророка ﷺ пусть посмотрит на этих людей!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4144</td></tr><tr><td>Arabic No</td><td>4144</td></tr><tr><td>Reference</td><td>Book 34 Hadith 125</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon 'Abdoullâh Ibn 'Amr (رضي الله عنهما) rapporte que le Prophèt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [al-A'masy]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Sufyan] dari [al-A'masy] dari [Abdullah bin Murrah] dari [Masruq] dari [Abdullah bin Amru] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada empat perkara, barangsiapa yang empat perkara tersebut ada pada dirinya maka dia menjadi orang munafik sejati, dan apabila salah satu sifat dari empat perkara tersebut ada pada dirinya, maka pada dirinya terdapat satu sifat dari kemunafikan hingga dia meninggalkannya: jika berbicara selalu bohong, jika melakukan perjanjian melanggar, jika berjanji selalu ingkar, dan jika berselisih licik." Hanya saja dalam hadits Sufyan, 'Apabila dalam dirinya terdapat salah satu sifat tersebut maka dia memiliki salah satu sifat kemunafikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>210</td></tr><tr><td>Arabic No</td><td>58</td></tr><tr><td>Reference</td><td>Book 1 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Амра, что Посланник Аллаха ﷺ сказал: «(Человек), которому присущи четыре (качества), является лицемером в полном смысле этого слова, тот же, кому присуще хотя бы одно из них, будет обладать одним из качеств лицемерия до тех пор, пока не избавится от него. (Это качества того), кто лжёт, когда рассказывает (о чём- либо), поступает вероломно, заключив договор, нарушает обещания, которые он даёт, и поступает нечестиво, когда ведёт тяжбу с кем-либо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>210</td></tr><tr><td>Arabic No</td><td>58</td></tr><tr><td>Reference</td><td>Book 1 Hadith 116</td></tr></tbody></table></div>
 

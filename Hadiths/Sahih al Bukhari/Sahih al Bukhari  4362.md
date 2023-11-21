@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:We set out in the army of Al-Khabt and Abu Ubaida was the command
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij] dia berkata; Telah mengabarkan kepadaku ['Amru] bahwasanya mendengar [Jabir] berkata; 'Kami pernah berperang bersama pasukan Khabath (pemakan daun-daunan) yang pada waktu itu Abu Ubaidah di angkat sebagai pemimpin pasukan. Lalu kami merasa lapar sekali. Tiba-tiba laut melemparkan ikan paus yang tidak pernah aku lihat sebelumnya. Ikan itu disebut al Anbar. Kami makan dari ikan itu selama setengah bulan. Kemudian Abu Ubaidah mengambil salah satu bagian dari tulangnya dan dia pancangkan. Hingga seorang pengendara bisa lewat dibawah tulang itu. Telah mengabarkan kepadaku Abu Az Zubair bahwasanya dia mendengar Jabir berkata; Abu 'Ubaidah berkata; 'Makanlah oleh kalian semua! Tatkala kami sampai di Madinah, kami hal itu kami beritahukan kepada Nabi shallallahu 'alaihi wasallam. Maka beliau bersabda: 'Makanlah, itu adalah rizki yang telah Allah berikan. Jika masih tersisa, berilah kami! Maka sebagiannya di bawakan kepada beliau dan beliau pun memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4362</td></tr><tr><td>Arabic No</td><td>4362</td></tr><tr><td>Reference</td><td>Book 64 Hadith 388</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В (третьей версии этого хадиса сообщается, что Джабир, да будет доволен им Аллах, сказал): «Абу ‘Убайда сказал: “Ешьте”, а когда мы вернулись в Медину, то рассказали об этом Пророку ﷺ и он сказал: “Ешьте (, ибо это —) удел, который послал (вам) Аллах, и угостите нас, если у вас (что- нибудь осталось)”, после чего один из (участников похода) принес (Пророку ﷺ часть этой рыбы), и он отведал ее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4362</td></tr><tr><td>Arabic No</td><td>4362</td></tr><tr><td>Reference</td><td>Book 64 Hadith 388</td></tr></tbody></table></div>
 

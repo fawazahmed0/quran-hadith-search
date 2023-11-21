@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) offered four rak'at of Zuhr prayer at Medina; an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahal bin Bakar] telah menceritakan kepada kami [Wuhaib] dari [Ayyub] dari [Abu Qalabah] dari [Anas radliallahu 'anhu] berkata; Nabi Shallallahu'alaihiwasallam melaksanakan shalat Zhuhur di Madinah empat raka'at dan shalat 'Ashar di Dzu Hulaifah dua raka'at lalu Beliau bermalam disana. Ketika pagi harinya Beliau mengendarai tunggangannya lalu Beliau membaca tahlil (Laa ilaaha illallah) dan tasbih (Subhaanallah). Ketika sampai di Al Baida' (padang sahara) Beliau membaca tahlil dan tasbih (dengan suara keras) bersama-sama. Dan ketika memasuki kota Makkah Beliau memerintahkan mereka agar bertahallul dan Nabi Shallallahu'alaihiwasallam menyembelih tujuh ekor unta dengan tangannya sendiri dalam keadaan berdiri, dan di Madinah Beliau berqurban dua ekor kambing yang gemuk dan bertanduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1714</td></tr><tr><td>Arabic No</td><td>1714</td></tr><tr><td>Reference</td><td>Book 25 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ совершил полуденную молитву /зухр/ в четыре рак‘ата в Медине. А потом в Зуль-Хулейфе, он совершил послеполуденную молитву /‘аср/ уже в два рак‘ата, и там же он и переночевал. А утром он сел на свою верблюдицу и начал произносить тахлиль /Ля иляха илля ЛЛах/ и тасбих /Субхан Аллах/, и когда она поднялась с ним, он произнёс тальбию, имея намерение на совершение ‘умры и хаджа. Прибыв в Мекку, он приказал сподвижникам выйти из ихрама, а сам заколол своей рукой семь верблюдов в стоячем положении и принёс в Медине в жертву двух рогатых баранов с чёрно-белой шерстью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1714</td></tr><tr><td>Arabic No</td><td>1714</td></tr><tr><td>Reference</td><td>Book 25 Hadith 192</td></tr></tbody></table></div>
 

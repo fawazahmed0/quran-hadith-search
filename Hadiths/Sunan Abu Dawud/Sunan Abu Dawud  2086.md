@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Az-Zubayr reported on the authority of Umm Habibah that she was the wife of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris], telah menceritakan kepada kami [Abdurrazzaq] dari [Ma'mar] dari [Az Zuhri] dari ['Urwah bin Az Zubai] dari [Ummu Habibah], bahwa ia dahulu adalah isteri Ibnu Jahsy, kemudian Ibnu Jahsy meninggal. Ia adalah di antara orang-orang yang berhijrah ke Negeri Habasyah, kemudian An Najasyi menikahkan Ummu Habibah dengan Rasulullah shallallahu 'alaihi wasallam, sementara Ummu Habibah bersama dengan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2086</td></tr><tr><td>Arabic No</td><td>2086</td></tr><tr><td>Reference</td><td>Book 12 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Хабибы, да будет доволен ею Аллах, что она была замужем за Ибн Джахшем и он умер, а он был среди тех, кто совершил переселение в Эфиопию, и негус выдал её замуж за Посланника Аллаха ﷺ когда она жила на его земле
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2086</td></tr><tr><td>Arabic No</td><td>2086</td></tr><tr><td>Reference</td><td>Book 12 Hadith 41</td></tr></tbody></table></div>
 

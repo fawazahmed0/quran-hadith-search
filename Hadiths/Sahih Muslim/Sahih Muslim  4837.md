@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), Au jour de la bataille de 'Uhud
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dia berkata, "Rasulullah shallallahu 'alaihi wasallam memeriksaku ketika hendak berangkat perang Uhud, ketika itu saya baru berusai empat belas tahun, sehingga beliau pun tidak membolehkan aku ikut pergi berperang. ketika hendak berangkat ke medan perang (Khandaq), beliau memeriksaku pula. Ketika itu saya telah berusai lima belas tahun, dan beliau membolehkanku ikut berperang." Nafi' berkata, "Maka saya mendatangi 'Umar bin Abdul Aziz -ketika itu dia telah menjabat sebagai Khalifah-, lalu saya menyampaikan kepadanya hadits tersebut. dia berkata, "Sesungguhnya itu adalah batas antara usia kecil dan usia dewasa." Lalu dia menulis surat kepada pegawainya supaya mereka mewajibkan pelaksanaan tugas-tugas agama (Mukallaf) bagi setiap anak yang telah mencapai usia lima belas tahun. Anak yang kurang dari usia tersebut menjadi tanggung jawab keluarganya." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Idris] dan [Abdurrahim bin Sulaiman]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahab] -yaitu At Tsaqafi- semuanya dari ['Ubaidullah] dengan isnad ini, namun dalam hadits mereka disebutkan, "Sedangkan saya berusia empat belas tahun, maka beliau menganggapku masih kecil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4837</td></tr><tr><td>Arabic No</td><td>1868.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4837</td></tr><tr><td>Arabic No</td><td>1868.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 133</td></tr></tbody></table></div>
 

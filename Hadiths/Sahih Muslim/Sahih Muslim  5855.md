@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami ['Abdah] dari [Hisyam] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang wanita disiksa Allah pada hari kiamat lantaran dia mengurung seekor kucing tanpa diberi makan dan minum dan tidak pula dilepaskannya supaya ia dapat mencari serangga-serangga yang terdapat di bumi." Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Khalid bin Al Harits]; Telah menceritakan kepada kami [Hisyam] melalui jalur ini. Dan di dalam Hadits keduanya disebutkan dengan lafazh 'Rabathathhaa' (di diikatnya). Sedangkan di dalam Hadits Abu Mu'awiyah dengan menggunakan lafazh; 'Hasyaraatil Ardli.' (binatang melata di bumi). Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan ['Abdu bin Humaid]. ['Abdu] berkata; Telah mengabarkan kepada kami dan berkata; [Ibnu Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dia berkata; [Az Zuhri] berkata; Dan telah menceritakan kepadaku [Humaid bin 'Abdur Rahman] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam yang semakna dengan Hadits Hisyam bin 'Urwah; Dan telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5855</td></tr><tr><td>Arabic No</td><td>2243.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5855</td></tr><tr><td>Arabic No</td><td>2243.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 206</td></tr></tbody></table></div>
 

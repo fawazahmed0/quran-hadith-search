@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "When you see a funeral pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] yakni putra Ibrahim telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Yahya] dari [Abu Salamah] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: ""Jika kalian melihat jenazah maka berdirilah dan barangsiapa mengiringinya janganlah dia duduk hingga jenazah itu diletakkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>1310</td></tr><tr><td>Reference</td><td>Book 23 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если увидите погребальные носилки, то встаньте, если вы провожаете погребальные носилки, то не садитесь, пока их не опустят на землю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>1310</td></tr><tr><td>Reference</td><td>Book 23 Hadith 68</td></tr></tbody></table></div>
 

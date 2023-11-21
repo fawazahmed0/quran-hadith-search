@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who recites in the mor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin 'Abdul Malik Al Umawi] telah menceritakan kepada kami ['Abdul 'Aziz bin Al Mukhtar] dari [Suhail] dari [Sumayya] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: 'Barang siapa, ketika pagi dan sore, membaca doa; Maha Suci Allah dan segala puji bagi-Nya sebanyak seratus kali, maka pada hari kiamat tidak ada orang lain yang melebihi pahalanya kecuali orang yang juga pernah mengucapkan bacaan seperti itu atau lebih dan itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6843</td></tr><tr><td>Arabic No</td><td>2692</td></tr><tr><td>Reference</td><td>Book 48 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: Посланник Аллаха ﷺ сказал: «В День воскрешения никто не (сможет) принести с собой ничего лучшего, чем тот, кто по утрам и вечерам будет по сто раз говорить: “Субхана-Ллахи ва би-хамди-хи! /Пречист Аллах и хвала Ему/”, если не считать (такого человека), который будет говорить нечто подобное или (что-нибудь) добавлять (к этому)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6843</td></tr><tr><td>Arabic No</td><td>2692</td></tr><tr><td>Reference</td><td>Book 48 Hadith 39</td></tr></tbody></table></div>
 

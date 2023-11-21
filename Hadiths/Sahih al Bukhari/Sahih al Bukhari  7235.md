@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Ubaid:(the Maula of 'Abdur-Rahman bin Azhar) Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam bin Yusuf] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Ubaid], namanya Sa'd bin Ubaid maula Abdurrahman bin Azhar, dari [Abu Hurairah], bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan salah seorang diantara kalian mengharapkan kematian, kalaulah dia orang baik, siapa tahu bisa menambah kebaikannya, kalaulah dia jahat, siapa tahu ia bisa meminta penangguhan (untuk bertaubat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7235</td></tr><tr><td>Arabic No</td><td>7235</td></tr><tr><td>Reference</td><td>Book 94 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Пусть никто из вас не желает себе смерти, (ибо если) он совершает благое, то, может быть, (сделает) ещё больше, если же он совершает дурное, то, может быть, он покается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7235</td></tr><tr><td>Arabic No</td><td>7235</td></tr><tr><td>Reference</td><td>Book 94 Hadith 10</td></tr></tbody></table></div>
 

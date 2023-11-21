@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shu'ba:Muhammad or 'Abdullah bin Abu Al-Mujalid said, "Abdullah bin Sha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari [Ibnu Abi Al Mujalid] dan telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Waki'] dari [Syu'bah] dari [Muhammad bin Abi Al Mujalid] telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepada saya [Muhammad] atau 'Abdullah bin Abi Al Mujalid berkata; 'Abdullah bin Syaddad bin Al Haad berselisih dengan Abu Burdah tentang sistim jual beli salaf kemudian mereka mengutus aku kepada [Ibnu Abi Aufaa] radliallahu 'anhu, lalu aku tanyakan kepadanya, maka dia berkata: "Kami pernah mempraktekkan salaf di masa Rasulullah shallallahu 'alaihi wasallam, Abu Bakar, 'Umar pada biji gandum, padi, anggur kering (kismis) dan kurma". Aku juga menanyakan hal ini kepada [Ibnu Abzaa] lalu dia berkata seperti itu pula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2243</td></tr><tr><td>Arabic No</td><td>2243</td></tr><tr><td>Reference</td><td>Book 35 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Ауфа, да будет доволен Аллах ими обоими, сказал: «При жизни Посланника Аллаха ﷺ, а также при Абу Бакре и ‘Умаре мы обычно заранее расплачивались за пшеницу, ячмень, изюм и сушёные финики»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2243</td></tr><tr><td>Arabic No</td><td>2243</td></tr><tr><td>Reference</td><td>Book 35 Hadith 6</td></tr></tbody></table></div>
 

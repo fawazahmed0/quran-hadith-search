@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by Qatadah through a dif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Aban] dari [Qatadah] dari [Al Hasan] dari ['Uqbah bin Amir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Garansi (penjualan) seorang budak adalah tiga hari." Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepadaku [Abdushshamad] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dengan sanad dan maknanya, ia menambahkan, "Apabila ia mendapatkan penyakit dalam tiga malam, maka budak tersebut dikembalikan tanpa harus ada bukti, jika ia mendapati penyakit setelah tiga malam, maka ia harus menunjukkan bukti bahwa saat membeli budak tersebut dalam keadaan telah berpenyakit." Abu Daud berkata, "Ini adalah penafsiran dari perkataan Qatadah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3507</td></tr><tr><td>Arabic No</td><td>3507</td></tr><tr><td>Reference</td><td>Book 24 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Катада передаёт хадис с его иснадом и таким же смыслом, но с добавлением: «Если в течение трёх дней обнаружилось, что раб болен, покупатель может вернуть его продавцу, не предоставляя никаких доказательств. А если болезнь обнаружилась по прошествии трёх дней, то, если покупатель желает вернуть его продавцу, он должен представить доказательства того, что раб был болен, когда он покупал его, а не заболел потом». Абу Дауд сказал: «Это объяснение слова Катады»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3507</td></tr><tr><td>Arabic No</td><td>3507</td></tr><tr><td>Reference</td><td>Book 24 Hadith 92</td></tr></tbody></table></div>
 

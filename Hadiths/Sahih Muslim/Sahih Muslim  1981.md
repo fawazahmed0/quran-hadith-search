@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Muhammad, the Messenger of Allah (ﷺ), as saying:We who ar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] saudaranya Wahb bin Munabbih, ia berkata, telah menceritakan kepada kami [Abu Hurairah] dari Muhammad shallallahu 'alaihi wasallam, Rasulullah shallallahu 'alaihi wasallam bersabda: "Kita (umat Muhammad) adalah yang terakhir (datang ke dunia), tetapi yang terdahulu (diadili) pada hari kiamat. Padahal mereka diberi kitab lebih dahulu dari kita, sedangkan kita sesudah mereka. Dan hari ini (Jum'at) adalah hari yang telah diwajibkan atas mereka, namun mereka berselisih tentangnya. Kemudian Allah menunjukkannya pada kita. Karena itu, umat-umat lain terkait dengan hari Jum'at adalah pengikut. Bagi kaum Yahudi, besok. Sedangkan bagi kaum Nasrani lusa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1981</td></tr><tr><td>Arabic No</td><td>855.04</td></tr><tr><td>Reference</td><td>Book 7 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Мы последние, (но) в День воскресения (мы станем) первыми, хотя им Писание было даровано раньше нас. И это их день, (почитать) который обязал их Аллах, а они разошлись во мнениях о нём, тогда как нам Аллах указал путь к нему, и в этом отношении люди следуют за нами: иудеи (почитают) следующий день, а христиане тот, что следует за ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1981</td></tr><tr><td>Arabic No</td><td>855.04</td></tr><tr><td>Reference</td><td>Book 7 Hadith 31</td></tr></tbody></table></div>
 

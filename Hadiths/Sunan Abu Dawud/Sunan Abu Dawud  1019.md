@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] dan [Muslim bin Ibrahim] sedangkan maksud haditsnya sama, Hafsh mengatakan; telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari ['Alqamah] dari [Abdullah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam shalat dzuhur lima raka'at, lantas di beritahukan kepada beliau; "Apakah shalat telah di tambah (bilangan raka'atnya)?" beliau bersabda: "Apa maksudnya?" mereka berkata; "Anda telah shalat lima raka'at." Maka beliau sujud dua kali setelah salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (404) Sahih Muslim (572)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1019</td></tr><tr><td>Arabic No</td><td>1019</td></tr><tr><td>Reference</td><td>Book 2 Hadith 630</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ совершил в полуденной молитве пять рак‘атов. Его спросили: «Молитва стала длиннее?» Он сказал: «А в чём дело?» Ему сказали: «Ты совершил пять рак‘атов». Тогда он совершил два земных поклона после таслима
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (404) Sahih Muslim (572)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1019</td></tr><tr><td>Arabic No</td><td>1019</td></tr><tr><td>Reference</td><td>Book 2 Hadith 630</td></tr></tbody></table></div>
 

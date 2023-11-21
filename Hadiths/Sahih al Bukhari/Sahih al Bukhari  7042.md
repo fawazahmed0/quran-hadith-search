@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "Whoever claims to have seen a dream
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Ayyub] dari [Ikrimah] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam bersabda; "Barangsiapa menyatakan diri bermimpi padahal tidak, ia dipaksa untuk menyatukan dua biji gandum dan ia tak akan bisa melakukannya, dan barangsiapa mencuri dengar pembicaraan suatu kaum padahal mereka tidak menyukai atau telah menyingkir untuk menghindarinya, maka telinganya akan dialiri cairan tembaga pada hari kiamat, barang siapa menggambar ia akan disiksa dan dipaksa untuk menghidupkannya padahal tidak mampu." [Sufyan] mengatakan; ['Ayyub] menyambungkannya kepada kami. Sedang [Qutaibah] mengatakan; telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari ['Ikrimah] dari [Abu Hurairah] ucapannya tentang; 'Barangsiapa dusta dalam mimpinya'. Dan [Syu'bah] mengatakan; dari [Abu Hasyim Ar Rumani], aku mendengar [Ikrimah] berkata; [Abu Hurairah] dengan ucapannya; 'Barangsiapa menggambar, dan barangsiapa menyatakan bermimpi, dan barangsiapa mencuri dengar.' Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Khalid] dari [Khalid] dari [Ikrimah] dari [Ibnu Abbas] mengatakan; "Barangsiapa mencuri dengar, dan barangsiapa menyatakan bermimpi dan barangsiapa menggambar', hadits ini diikutsertakan penguatnya oleh [Hisyam] dari [Ikrimah] dari [Ibnu Abbas] dengan ucapan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7042</td></tr><tr><td>Arabic No</td><td>7042</td></tr><tr><td>Reference</td><td>Book 91 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «(В мире ином) на того, кто станет рассказывать о том, чего на самом деле он во сне не видел, будет возложена обязанность связать узлом два ячменных зерна, чего он никогда сделать не сможет; в День воскресения ухо подслушивавшего разговоры людей, не желавших этого (или: убегавших от него), зальют расплавленным свинцом, а того, кто создавал изображения, подвергнут мучениям, обязав его вдохнуть в них (душу, чего он никогда не сможет сделать)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7042</td></tr><tr><td>Arabic No</td><td>7042</td></tr><tr><td>Reference</td><td>Book 91 Hadith 56</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "Zaid took over the flag and was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Ayyub] dari [Humaid bin Hilal] dari [Anas bin Malik radliallahu 'anhu] berkata: Telah bersabda Nabi shallallahu 'alaihi wasallam: "Bendera perang dipegang oleh Zaid lalu dia terbunuh kemudian dipegang oleh Ja'far lalu dia terbunuh kemudian dipegang oleh 'Abdullah bin Rawahah namun diapun terbunuh, Dan nampak kedua mata Rasulullah shallallahu 'alaihi wasallam berlinang. Akhirnya bendera dipegang oleh Khalid bin Al Walid tanpa menunggu perintah, namun akhirnya kemenangan diraihnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1246</td></tr><tr><td>Arabic No</td><td>1246</td></tr><tr><td>Reference</td><td>Book 23 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Зейд (ибн Хариса) взял знамя и был сражён, потом взял его Джа‘фар и был сражён, а потом взял его ‘Абдуллах ибн Раваха и (тоже) был сражён», и когда Пророк ﷺ говорил это, глаза его были полны слёз(, после чего он продолжил): «А затем взял его Халид ибн аль-Валид, не являвшийся командиром, и ему была дарована победа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1246</td></tr><tr><td>Arabic No</td><td>1246</td></tr><tr><td>Reference</td><td>Book 23 Hadith 9</td></tr></tbody></table></div>
 

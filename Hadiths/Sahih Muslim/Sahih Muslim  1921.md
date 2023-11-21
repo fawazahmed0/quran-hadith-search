@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:I heard it from so many Companions of the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Dawud bin Rusyaid] dan [Isma'il bin Salim] semuanya dari [Husyaim] -[Dawud]- berkata, telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Manshur] dari [Qatadah] ia berkata, telah mengabarkan kepada kami [Abul 'Aliyah] dari [Ibnu Abbas] ia berkata, "Saya mendengar lebih dari seorang dari kalangan sahabat Rasulullah shallallahu 'alaihi wasallam termasuk di ataranya adalah [Umar bin Al Khaththab] -dan ia adalah yang paling saya cintai di antara mereka- bahwa Rasulullah shallallahu 'alaihi wasallam melarang shalat sesudah shalat Shubuh hingga matahari terbit dan sesudah shalat Asar hingga matahari terbenam." Dan telah menceritakannya kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Syu'bah] -dalam jalur lain- Dan telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Sa'id] -dalam jalur lain- Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [bapakku] mereka semua dari [Qatadah] dengan isnad ini, hanya saja di dalam haditsnya Sa'id dan Hisyam; "Setelah shalat Shubuh hingga matahari terbit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>826.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 349</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Я слышал от нескольких сподвижников Посланника Аллаха ﷺ, одним из которых был ‘Умар ибн аль-Хаттаб и который был для меня самым любимым из них, что Посланник Аллаха ﷺ запретил совершать (добровольные) молитвы после (обязательной) утренней молитвы /фаджр/, пока солнце не поднимется над горизонтом (на определённую высоту), и после (обязательной) послеполуденной молитвы /‘аср/, пока не зайдёт солнце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>826.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 349</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:The Messenger of Allah (ﷺ) was ill and we said prayer behind hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [al-Laits] dari [Abu az-Zubair] dari [Jabir] dia berkata, "Rasulullah shallallahu 'alaihi wasallam mengaduh, lalu kita shalat di belakangnya, sedangkan beliau dalam keadaan duduk, dan Abu Bakar memperdengarkan takbirnya kepada manusia. Lalu beliau menoleh kepada kami, maka beliau melihat kami shalat dalam keadaan berdiri. Lalu beliau memberi isyarat kepada kami untuk duduk, lalu kami shalat dengan mengikuti shalatnya dalam keadaan duduk. Ketika beliau mengucapkan salam, maka beliau bersabda, ' kalian baru saja hampir melakukan perbuatan kaum Persia dan Rumawi, mereka berdiri di hadapan raja mereka, sedangkan mereka dalam keadaan duduk, maka janganlah kalian melakukannya. Berimamlah dengan imam kalian. Jika dia shalat dalam keadaan berdiri, maka shalatlah kalian dalam keadaan berdiri, dan jika dia shalat dalam keadaan duduk, maka kalian shalatlah dalam keadaan duduk'." Telah menceritakan kepada kami [Yahya bin Yahya] telah menceritakan kepada kami [Humaid bin Abdurrahman ar-Ruasi] dari [bapaknya] dari [Abu az-Zubair] dari [Jabir] dia berkata, "Rasulullah shallallahu 'alaihi wasallam shalat mengimami kami, sedangkan Abu Bakar di belakangnya. Apabila Rasulullah shallallahu 'alaihi wasallam bertakbir, maka dia bertakbir untuk memperdengarkan takbirnya kepada kita." Kemudian dia menyebutkan semisal hadits al-Laits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>928</td></tr><tr><td>Arabic No</td><td>413.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «(Однажды) Посланник Аллаха ﷺ заболел, и мы стали совершать молитву за ним, которую он совершал сидя. Абу Бакр (громко) произносил (слова) “такбира” (произнесение слов: “Аллаху акбар”), чтобы люди могли слышать его. (Пророк ﷺ) повернулся к нам и, увидев, что мы стоим, сделал нам знак (рукой), и мы сели, и сидя совершили с ним молитву. Закончив молитву таслимом, он сказал: “Поистине, только что вы чуть не поступили так же, как (поступают) персы и византийцы, которые стоят перед своими царями, в то время как те сидят. Не делайте (этого). Следуйте за своими имамами: если (имам) совершает молитву стоя, то молитесь стоя, а если он молится сидя, то (и вы) молитесь сидя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>928</td></tr><tr><td>Arabic No</td><td>413.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 90</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Awf ibn Malik al-Ashja'i': The Prophet (ﷺ) said: I and a woman whose 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yazid bin Zurai'] berkata, telah menceritakan kepada kami [An Nahhas bin Qahm] ia berkata; telah menceritakan kepadaku [Syaddad Abu Ammar] dari [Auf bin Malik Al Asyja'i] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kelak pada hari kiamat aku bersama wanita yang kedua pipinya kehitam-hitaman (karena sibuk bekerja dan tidak sempat berhias) seperti ini -Yazid memberi isyarat dengan jari tengah dan jari telunjuk-. Yaitu seorang wanita janda yang ditinggal mati oleh suaminya; mempunyai kedudukan dan berwajah cantik, ia menahan dirinya (tidak menikah) untuk merawat anak-anaknya hingga mereka dewasa atau meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5149</td></tr><tr><td>Arabic No</td><td>5149</td></tr><tr><td>Reference</td><td>Book 43 Hadith 377</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5149</td></tr><tr><td>Arabic No</td><td>5149</td></tr><tr><td>Reference</td><td>Book 43 Hadith 377</td></tr></tbody></table></div>
 

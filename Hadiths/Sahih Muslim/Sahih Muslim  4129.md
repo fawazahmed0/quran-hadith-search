@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] dari [Ibnu Juraij] bahwa [Abu Zubair] mengabarkan kepadanya, bahwa dia pernah mendengar [Jabir bin Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Syuf'ah adalah setiap kepemilikan bersama pada tanah, tempat tinggal, atau kebun. Ia tidak sah untuk dijual sebelum mengabarkan kepada rekannya, apakah ia (rekannya) berkenan mengambil (membelinya) atau tidak, jika ia enggan (tidak memberitahukan rekannya), maka rekannya berhak atas hak kepemilikan tersebut sampai ia memberitahukan terlebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4129</td></tr><tr><td>Arabic No</td><td>1608.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4129</td></tr><tr><td>Arabic No</td><td>1608.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 168</td></tr></tbody></table></div>
 

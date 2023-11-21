@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] bahwa [Zaid bin Al Hubab], telah menceritakan kepada mereka; telah menceritakan kepada kami [Sulaiman bin Kinanah] mantan budak Utsman bin Affan, telah mengabarkan kepada kami [Abdullah bin Abu Sufyan] dari [Adi bin Zaid], ia berkata; Rasulullah shallallahu 'alaihi wasallam membuat batas bagi Madinah kepada setiap sudut dari Madinah berjarak satu barid (empat farsakh), pohonnya tidak boleh ditebang kecuali yang digunakan untuk menggiring onta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2036</td></tr><tr><td>Arabic No</td><td>2036</td></tr><tr><td>Reference</td><td>Book 11 Hadith 316</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Ади ибн Зейда, да будет доволен им Аллах, что Посланник Аллаха ﷺ объявил заповедной всю территорию Медины, барид за баридом, и велел не ломать там деревья и не обрывать листья, кроме как для верблюдов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2036</td></tr><tr><td>Arabic No</td><td>2036</td></tr><tr><td>Reference</td><td>Book 11 Hadith 316</td></tr></tbody></table></div>
 

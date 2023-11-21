@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari apa yang telah dibacakan kepadanya dari [Sumayya] -budak- Abu Bakr dari [Abu Shalih As Samman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Pada suatu ketika ada seorang laki-laki sedang berjalan melalui sebuah jalan, lalu dia merasa sangat kehausan. Kebetulan dia menemukan sebuah sumur, maka dia turun ke sumur itu untuk minum. Setelah keluar dari sumur, dia melihat seekor anjing menjulurkan lidahnya menjilat-jilat tanah karena kehausan. Orang itu berkata dalam hatinya; 'Alangkah hausnya anjing itu, seperti yang baru ku alami.' Lalu dia turun kembali ke sumur, kemudian dia menciduk air dengan sepatunya, dibawanya ke atas dan diminumkannya kepada anjing itu. Maka Allah berterima kasih kepada orang itu (diterima-Nya amalnya) dan diampuni-Nya dosanya.' Para sahabat bertanya; 'Ya, Rasulullah! Dapat pahalakah kami bila menyayangi hewan-hewan ini? ' Jawab Rasulullah shallallahu 'alaihi wasallam: 'Menyayangi setiap makhluk hidup adalah berpahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5859</td></tr><tr><td>Arabic No</td><td>2244</td></tr><tr><td>Reference</td><td>Book 39 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5859</td></tr><tr><td>Arabic No</td><td>2244</td></tr><tr><td>Reference</td><td>Book 39 Hadith 210</td></tr></tbody></table></div>
 

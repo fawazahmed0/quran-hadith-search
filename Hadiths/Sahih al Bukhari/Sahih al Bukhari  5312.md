@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:I asked Ibn 'Umar about those who were involved in a c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] Telah berkata [Amru] Aku mendengar [Sa'id bin Jubair] berkata; Aku pernah bertanya kepada [Ibnu Umar] mengenai hadist Al Mutalaa'inain (suami-isteri yang meli'an), maka ia pun menjawab; Nabi shallallahu 'alaihi wasallam pernah bersabda kepada Al Mutalaa'inain (suami-isteri yang meli'an): "Hisab kalian berdua terserah pada Allah. Salah seorang dari kalian berdua musti ada yang berdusta, maka tidak ada lagi jalan bagimu (suami) untuk kembali kepada isteri." Laki-laki itu bertanya, "Lalu bagaimana dengan hartaku?." Beliau bersabda: "Tidak ada harta lagi untukmu. Jika kamu telah memberi sesuatu, maka hal itu adalah mahar yang kamu gunakan untuk menghalalkan farjinya, namun jika kamu berdusta atasnya, maka hal itu tentu akan lebih jauh bagimu." Sufyan berkata; Aku menghafalnya dari Amru. Dan telah berkata [Ayyub] Aku mendengar [Sa'id bin Jubair] Ia berkata; Aku berkata kepada [Ibnu Umar], "Ada seorang laki-laki yang melaknat isterinya." Maka ia pun menjawab sambil memberi isyarat dengan kedua jarinya, Sufyan memisahkan antara kedua jarinya itu, yaitu jari telunjuk dan jari tengah. Ia melanjutkan; Nabi shallallahu 'alaihi wasallam pernah memisahkan antara dua orang dari Bani Al 'Ajlan dan beliau bersabda: "Sesungguhnya Allah mengetahui bahwa salah seorang dari kalian berdusta. Adakah salah seorang yang ingin bertaubat?" beliau mengulanginya hingga tiga kali. Sufyan berkata; Aku menghafalnya dari Amru dan Ayyub sebagaimana yang telah aku kabarkan kepadamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5312</td></tr><tr><td>Arabic No</td><td>5312</td></tr><tr><td>Reference</td><td>Book 68 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, передававший хадис о супругах, которые призывали проклятие друг на друга, сказал: «Пророк ﷺ сказал призывавшим проклятие друг на друга: “Аллах спросит с вас отчёта! Один из вас лжёт, но у тебя нет на неё никаких прав!” (Муж) спросил: “А как же моё имущество?” (На это Пророк ﷺ) сказал: “Ты не имеешь на него права. Если то, что ты говоришь о ней, правда, то это имущество является платой за супружеские отношения, если же ты лжёшь, то прав на это имущество у тебя ещё меньше!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5312</td></tr><tr><td>Arabic No</td><td>5312</td></tr><tr><td>Reference</td><td>Book 68 Hadith 61</td></tr></tbody></table></div>
 

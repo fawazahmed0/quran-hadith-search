@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] Telah menceritakan kepada kami [Hammam] Telah menceritakan kepada kami [Atha'] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam masuk ke dalam Ka'bah. Saat itu, di dalam Ka'bah terdapat enam batang tiang. Lalu beliau berdiri di satu tiang, kemudian berdo'a dan beliau tidak shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3238</td></tr><tr><td>Arabic No</td><td>1331</td></tr><tr><td>Reference</td><td>Book 15 Hadith 442</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3238</td></tr><tr><td>Arabic No</td><td>1331</td></tr><tr><td>Reference</td><td>Book 15 Hadith 442</td></tr></tbody></table></div>
 

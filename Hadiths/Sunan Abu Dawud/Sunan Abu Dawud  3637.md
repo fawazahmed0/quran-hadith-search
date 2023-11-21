@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn az-Zubayr: A man disputed with az-Zubayr about streamlets 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan kepada kami [Al Laits] dari [Az Zuhri] dari ['Urwah] bahwa [Abdullah bin Az Zubair] menceritakan kepadanya, bahwa ada seorang laki-laki bermusuhan dengan Az Zubair mengenai saluran-saluran air pada tanah keras yang berbatu hitam yang mereka gunakan untuk mengairi tanaman. Kemudian orang anshar tersebut berkata, "Biarkanlah air lewat!" Namun Az Zubair menolak. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepada Az Zubair: "Siramilah tanamanmu wahai Az Zubair, kemudian alirkan kepada tetanggamu!" Maka marahklah orang anshar tersebut, lalu ia berkata, "Wahai Rasulullah, apakah karena ia itu anak bibimu!" Maka rona muka Rasulullah shallallahu 'alaihi wasallam berubah, beliau bersabda: "Siramlah tanamanmu, lalu tahanlah iar tersebut hingga ia kembali ke tempatnya semula." Az Zubair berkata, "Demi Allah, sungguh aku mengira ayat ini turun mengenai hal tersebut; '(Maka demi Tuhanmu, mereka (pada hakekatnya) tidak beriman hingga mereka menjadikan kamu hakim…) ' (Qs. An Nisa:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2359، 2360) Sahih Muslim (2357)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3637</td></tr><tr><td>Arabic No</td><td>3637</td></tr><tr><td>Reference</td><td>Book 25 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Урвы, что ‘Абдуллах ибн аз-Зубайр, да будет доволен Аллах им и его отцом, передаёт, что один человек начал тяжбу с аз-Зубайром из-за источника воды, из которого брали воду местные жители. Ансар сказал: «Позволь воде течь». Однако аз-Зубайр отказался. Пророк ﷺ сказал: «О Зубайр! Набирай воду (немного), а потом посылай соседу». Ансар разгневался и сказал: «О Посланник Аллаха, ты рассудил так потому, что он сын твоей тётки со стороны отца!» Посланник Аллаха ﷺ изменился в лице, а затем сказал (аз-Зубайру): «Поливай и перекрой воду, чтобы её собралось (достаточно у твоих пальм, а потом позволяй её течь к соседу)». Аз-Зубайр сказал: «Клянусь Аллахом, я считаю, что этот аят ниспослан как раз об этом: “Но нет клянусь твоим Господом! они не уверуют, пока они не изберут тебя судьёй во всем том, что запутано между ними, не перестанут испытывать в душе стеснение от твоего решения и не подчинятся полностью” (сура “ан-Ниса”, аят 65)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2359، 2360) Sahih Muslim (2357)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3637</td></tr><tr><td>Arabic No</td><td>3637</td></tr><tr><td>Reference</td><td>Book 25 Hadith 67</td></tr></tbody></table></div>
 

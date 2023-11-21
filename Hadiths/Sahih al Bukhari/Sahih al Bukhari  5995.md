@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) A lady along with her two daughters ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah menceritakan kepadaku [Abdullah bin Abu Bakr] bahwa ['Urwah bin Zubair] telah mengabarkan kepadanya bahwa [Aisyah isteri nabi shallallahu 'alaihi wasallam] telah menceritakan kepadanya, katanya; "Seorang wanita bersama dua anaknya pernah datang kepadaku, dia meminta (makanan) kepadaku, namun aku tidak memiliki sesuatu yang dapat dimakan melainkan satu buah kurma, kemudian aku memberikan kepadanya dan membagi untuk kedua anaknya, setelah itu wanita tersebut berdiri dan beranjak keluar, tiba-tiba Nabi shallallahu 'alaihi wasallam datang dan aku pun memberitahukan peristiwa yang baru aku alami, beliau bersabda: "Barangsiapa yang diuji sesuatu karena anak-anak perempuannya lalu ia berlaku baik terhadap mereka maka mereka akan melindunginya dari api neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5995</td></tr><tr><td>Arabic No</td><td>5995</td></tr><tr><td>Reference</td><td>Book 78 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша рассказывала: «Однажды какая-то женщина пришла ко мне с двумя своими дочерьми, чтобы попросить у меня что-нибудь (из еды). Однако у меня не нашлось ничего, кроме одного финика, который я и дала ей. Она разделила этот финик между своими девочками, после чего встала и вышла. После этого пришёл Пророк ﷺ, а я рассказала ему (об этом), и он сказал: “Тот, кто был испытан кем-либо из дочерей и воспитал их должным образом, они непременно станут для него преградой от Огня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5995</td></tr><tr><td>Arabic No</td><td>5995</td></tr><tr><td>Reference</td><td>Book 78 Hadith 26</td></tr></tbody></table></div>
 

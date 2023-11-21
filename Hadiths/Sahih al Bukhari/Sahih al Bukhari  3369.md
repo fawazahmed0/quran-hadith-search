@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Humaid As-Sa'idi:The people asked, "O Allah's Messenger (ﷺ)! How 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3369</td></tr><tr><td>Arabic No</td><td>3369</td></tr><tr><td>Reference</td><td>Book 60 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хумайда ас-Са‘иди, да будет доволен им Аллах, что (однажды люди) спросили: «О Посланник Аллаха, как нам возносить мольбы за тебя?» Посланник Аллаха ﷺ сказал: «Говорите: “О Аллах, благослови Мухаммада, его жён и его потомство, как благословил Ты семейство Ибрахима, и пошли благословения Мухаммаду, его жёнам и его потомству, как послал Ты их семейству Ибрахима, поистине, Ты — достойный похвалы, Славный! /Аллахумма, салли ‘аля Мухаммадин ва ‘аля азваджи-хи ва зуррийати-хи кя-ма салляйта ‘аля али Ибрахима, ва барик ‘аля Мухаммадин ва азваджи-хи ва зуррийати-хи кя-ма баракта ‘аля али Ибрахима, инна-кя Хамидун, Маджид!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3369</td></tr><tr><td>Arabic No</td><td>3369</td></tr><tr><td>Reference</td><td>Book 60 Hadith 43</td></tr></tbody></table></div>
 

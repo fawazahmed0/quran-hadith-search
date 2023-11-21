@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Malih that Ubaidullah b. Ziyad visited Ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Ghassan al-Misma'i] dan [Muhammad bin al-Mutsanna] serta [Ishaq bin Ibrahim], Ishaq berkata, telah mengabarkan kepada kami, sedangkan dua orang lainnya berkata; telah menceritakan kepada kami [Mu'adz bin Hisyam] dia berkata, telah menceritakan kepadaku [bapakku] dari [Qatadah] dari [Abu al-Malih], bahwa Ubaidullah bin Ziyad mengunjungi [Ma'qil bin Yasar] ketika ia sedang sakit, Ma'qil kemudian berkata kepadanya, 'Sesungguhnya aku menceritakan kepadamu sebuah hadits, kalau bukan karena saya berada di ambang kematian, niscaya aku tidak menceritakannya kepadamu. Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak seorang pemimpin pun yang mengurusi perkara kaum muslimin, kemudian dia tidak bersungguh-sungguh bekerja untuk mereka dan menasihatinya, kecuali oa pasti tidak akan masuk surga bersama mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>366</td></tr><tr><td>Arabic No</td><td>142.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 273</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу аль-Малих рассказал, что, когда ‘Убайдуллах ибн Зияд навестил Ма‘кыля ибн Ясара во время его болезни, Ма‘кыль сказал ему: «Я передам тебе хадис, и если бы я не был в предсмертном состоянии, то не передал бы тебе его. Поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Кто бы из правителей не получил власть над делами мусульман, после чего не прилагал усилий (в разрешении их проблем) и не относился к ним чистосердечно, он не войдёт в Рай вместе с ними”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>366</td></tr><tr><td>Arabic No</td><td>142.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 273</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubadah ibn as-Samit: We were behind the Messenger of Allah (ﷺ) at the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Makhul] dari [Mahmud bin Ar Rabi'] dari ['Ubadah bin As Shamit] dia berkata; "Kami shalat shubuh di belakang Rasulullah shallallahu 'alaihi wasallam, sepertinya bacaan beliau terasa berat. Seusai shalat, beliau bersabda: "Sepengetahuanku, kalian membaca di belakang imam kalian." Mereka menjawab; "Ya, wahai Rasulullah! (hingga) Kami menyusul bacaanmu dengan cepat." Beliau bersabda: "Jangan kalian lakukan kecuali Fatihatul Kitab (Al Fatihah) karena tidak sah shalat seseorang yang tidak membacanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>823</td></tr><tr><td>Arabic No</td><td>823</td></tr><tr><td>Reference</td><td>Book 2 Hadith 433</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Имам Абу Дауд сказал): Рассказал нам ‘Абдуллах ибн Мухаммад ан-Нуфайли, (который сказал): Рассказал нам Мухаммад ибн Саляма от Мухаммада ибн Исхакъа, (передавшего) от Макхуля, (передавшего) от Махмуда ибн ар-Раби‘а, (передавшего) от ‘Убады ибн ас-Самита, (да будет доволен им Аллах, который) сказал: (Однажды,) когда мы совершали утреннюю молитву за Посланником Аллаха ﷺ он стал читать (Коран) и ему стало тяжело это, и когда он завершил молитву, он сказал: «Наверное, вы читаете (Коран) позади вашего имама?» Мы сказали: «Да, это так, о Посланник Аллаха». (Тогда) он сказал: «Не читайте ничего, кроме (суры) “Открывающая Писание”, потому что не принимается молитва у того, кто не прочитал её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>823</td></tr><tr><td>Arabic No</td><td>823</td></tr><tr><td>Reference</td><td>Book 2 Hadith 433</td></tr></tbody></table></div>
 

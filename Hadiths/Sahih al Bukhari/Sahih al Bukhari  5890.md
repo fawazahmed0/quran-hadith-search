@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "To shave the pubic hair. to cl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Raja'] telah menceritakan kepada kami [Ishaq bin Sulaiman] dia berkata; saya mendengar [Hanzhalah] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Termasuk sunnah-sunnah fitrah adalah mencukur bulu kemaluan, memotong kuku dan mencukur kumis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5890</td></tr><tr><td>Arabic No</td><td>5890</td></tr><tr><td>Reference</td><td>Book 77 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нафи‘ передал со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Посланник Аллаха ﷺ сказал: «К естественным вещам /фитра/ относится сбривание волос с лобка, подстригание ногтей и укорачивание усов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5890</td></tr><tr><td>Arabic No</td><td>5890</td></tr><tr><td>Reference</td><td>Book 77 Hadith 107</td></tr></tbody></table></div>
 

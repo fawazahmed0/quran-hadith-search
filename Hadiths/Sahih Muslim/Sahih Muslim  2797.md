@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Zubair] dari [Jabir] radliallahu 'anhu ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang tidak mempunyai terompah, hendaklah ia memakai sepatu, dan siapa yang tidak memiliki Izar (sarung), hendaklah ia memakai celana
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>1179</td></tr><tr><td>Reference</td><td>Book 15 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>1179</td></tr><tr><td>Reference</td><td>Book 15 Hadith 7</td></tr></tbody></table></div>
 

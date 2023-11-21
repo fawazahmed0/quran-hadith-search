@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Akwa':A dead person was brought to the Prophet (ﷺ) so t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Yazid bin Abi 'Ubaid] dari [Salamah bin Al Akwa' radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam dihadirkan kepada Beliau satu jenazah agar dishalatkan. Maka Beliau bertanya: "Apakah orang ini punya hutang?" Mereka berkata: "Tidak". Maka Beliau menyolatkan jenazah tersebut. Kemudian didatangkan lagi jenazah lain kepada Beliau, maka Beliau bertanya kembali: "Apakah orang ini punya hutang?" Mereka menjawab: "Ya". Maka Beliau bersabda: "Shalatilah saudaramu ini". Berkata, Abu Qatadah: "Biar nanti aku yang menanggung hutangnya". Maka Beliau shallallahu 'alaihi wasallam menyolatkan jenazah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2295</td></tr><tr><td>Arabic No</td><td>2295</td></tr><tr><td>Reference</td><td>Book 39 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма ибн аль-Акуа‘, да будет доволен им Аллах, сказал: «Однажды к Пророку ﷺ принесли носилки с покойником, чтобы он совершил за него молитву, и он спросил: “Остались ли у него какие-нибудь долги?” Люди ответили: “Нет”. Тогда он совершил за него молитву. После этого ему принесли другие носилки с покойником, и он спросил: “Остались ли у него какие-нибудь долги?” Люди ответили: “Да”. Тогда он сказал: “Помолитесь вы за своего товарища”. (Услышав это,) Абу Катада сказал: “Я обязуюсь оплатить его долги, о, Посланник Аллаха!”, — и (Пророк ﷺ) совершил за него заупокойную молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2295</td></tr><tr><td>Arabic No</td><td>2295</td></tr><tr><td>Reference</td><td>Book 39 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "I do not eat mastigure, but I do not
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abdul Aziz bin Muslim] telah menceritakan kepada kami [Abdullah bin Dinar] dia berkata; saya mendengar [Ibnu Umar] radliallahu 'anhuma berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Mengenai daging biawak, maka saya tidak memakannya dan tidak pula mengharamkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5536</td></tr><tr><td>Arabic No</td><td>5536</td></tr><tr><td>Reference</td><td>Book 72 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Ящерицу я не ем, но и не запрещаю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5536</td></tr><tr><td>Arabic No</td><td>5536</td></tr><tr><td>Reference</td><td>Book 72 Hadith 61</td></tr></tbody></table></div>
 

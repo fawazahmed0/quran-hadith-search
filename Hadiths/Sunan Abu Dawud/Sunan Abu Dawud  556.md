@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: The further one is from the mosque
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ibnu Abi Dzi'b] dari [Abdurrahman bin Mihran] dari [Abdurrahman bin Sa'd] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Semakin jauh perjalanan seorang untuk berjamaah ke masjid, maka semakin besar pahalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>556</td></tr><tr><td>Arabic No</td><td>556</td></tr><tr><td>Reference</td><td>Book 2 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Пророк ﷺ сказал: «Чем дальше и дальше (человек живёт) от мечети, тем больше (он получает) вознаграждение (от Аллаха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>556</td></tr><tr><td>Arabic No</td><td>556</td></tr><tr><td>Reference</td><td>Book 2 Hadith 166</td></tr></tbody></table></div>
 

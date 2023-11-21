@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When the Prophet (ﷺ) performed the Tawaf of the Ka'ba, he d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahin bin Al Mundzir] telah menceritakan kepada kami [Anas bin 'Iyadh] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] bahwa Nabi Shallallahu'alaihiwasallam apabila thawaf di Ka'bah Baitullah berjalan cepat pada tiga putaran dan berjalan biasa pada empat putaran lainnya dan berjalan pada dasar aliran air ketika sa'iy antara bukit Ash-Shafa dan Al Marwah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1617</td></tr><tr><td>Arabic No</td><td>1617</td></tr><tr><td>Reference</td><td>Book 25 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Когда Пророк ﷺ совершал первый обход вокруг Каабы, он проходил первые три круга быстрым шагом, а оставшиеся четыре — обычным, когда же он совершал бег между (холмами) ас-Сафа и аль-Марва, то пробегал по руслу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1617</td></tr><tr><td>Arabic No</td><td>1617</td></tr><tr><td>Reference</td><td>Book 25 Hadith 102</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) used to divide his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Abu Qilabah] dari [Abdullah bin Yazid Al Khathmi] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam memberikan pembagian dan berbuat adil dalam membagi, dan beliau berkata: "Ya Allah, inilah pembagianku yang aku mampu, maka janganlah Engkau cela aku pada sesuatu yang Engkau mampu dan tidak aku mampu." Abu Daud berkata; yaitu hati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2134</td></tr><tr><td>Arabic No</td><td>2134</td></tr><tr><td>Reference</td><td>Book 12 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Посланник Аллаха ﷺ делил (ночи между своими жёнами) по справедливости и говорил: “О Аллах, это моё деление в том, что в моей власти, так не упрекай же меня за то, что в Твоей власти, но не в моей!”» Абу Дауд сказал, что имеется в виду сердце
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2134</td></tr><tr><td>Arabic No</td><td>2134</td></tr><tr><td>Reference</td><td>Book 12 Hadith 89</td></tr></tbody></table></div>
 

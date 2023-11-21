@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yahya bin Sa'id:That he heard Anas bin Malik when he went with him to A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Sufyan] dari [Yahya bin Sa'id], dia mendengar [Anas bin Malik radliallahu 'anhu] ketika dia pergi bersamanya menemui Al Walid, dia berkata; Nabi shallallahu 'alaihi wasallam memanggil kaum Anshar untuk memberikan tanah di negeri Bahrain untuk mereka. Mereka berkata; "Tidak, kecuali baginda membaginya juga untuk saudara-saudara kami dari kalangan Muhajirin seperti bagian kami itu". Beliau bersabda: "Laksanakanlah dan bersabarlah kalian hingga kalian bertemu dengan aku, karena sepeninggal aku, kalian akan ditimpa atsarah (sikap egoisme dan individualis)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3794</td></tr><tr><td>Arabic No</td><td>3794</td></tr><tr><td>Reference</td><td>Book 63 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «(Когда) Пророк ﷺ позвал ансаров, чтобы даровать (им участки земли) в Бахрейне, они сказали: “Нет, клянёмся Аллахом, (мы не примем их,) пока ты не даруешь нашим братьям мухаджирам такие же (участки) как и нам”. Пророк ﷺ сказал: “Если вы не соглашаетесь, тогда терпите, пока не встретитесь со мной у водоёма /аль-хауд/, ведь после (моей смерти) вас постигнет то, что предпочтение (станут отдавать другим)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3794</td></tr><tr><td>Arabic No</td><td>3794</td></tr><tr><td>Reference</td><td>Book 63 Hadith 19</td></tr></tbody></table></div>
 

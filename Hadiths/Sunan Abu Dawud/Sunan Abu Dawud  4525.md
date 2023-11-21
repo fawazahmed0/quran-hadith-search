@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd al-Rahman b. Bujaid:I swear by Allah, Sahl had a misunderstanding 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Yahya Al Harrani] berkata, telah menceritakan kepadaku [Muhammad] -maksudnya Muhammad bin Salamah- dari [Muhammad bin Ishaq] dari [Muhammad bin Ibrahim Ibnul Harits] dari ['Abdurrahman bin Bujaid] ia berkata; Demi Allah, Sahl masih samar dalam haditsnya. Sesungguhnya Rasulullah shallallahu 'alaihi wasallam menulis surat kepada orang-orang Yahudi, 'Telah didapati di antara kalian korban pembunuhan, maka tebuslah diyatnya'. Lalu orang-orang Yahudi itu memberi balasan dengan memberikan sumpah sebanyak lima puluh kali, 'kami tidak membunuhnya, dan kami juga tidak tahu siapa pembunuhnya'. Ia (perawi) berkata, "Rasulullah shallallahu 'alaihi wasallam lalu menebus diyat itu dengan seratus ekor unta miliknya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Munkar</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4525</td></tr><tr><td>Arabic No</td><td>4525</td></tr><tr><td>Reference</td><td>Book 41 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн Буджайд сказал: «Поистине, Сахль, клянусь Аллахом, ошибся в этом хадисе: мол, Посланник Аллаха ﷺ написал иудеям, что, поскольку убитый был найден у них, то и выплатить компенсацию /дийа/ должны они. Однако они прислали ему в письменном виде пятьдесят клятв: “Мы не убивали его и не знаем, кто убил его”. После этого Посланник Аллаха ﷺ сам выплатил компенсацию /дийа/ за него сто верблюдов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Munkar</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4525</td></tr><tr><td>Arabic No</td><td>4525</td></tr><tr><td>Reference</td><td>Book 41 Hadith 32</td></tr></tbody></table></div>
 

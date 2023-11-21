@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Yahya b. Abi Kathir with the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] - [Abu Bakar] berkata- telah menceritakan kepada kami [Waki'] dari [Ali bin Mubarak] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mendahului Ramadlan dengan berpuasa sehari atau dua hari, kecuali bagi seseorang yang telah terbiasa berpuasa sebelumnya." Telah menceritakannya kepada kami [Yahya bin Bisyr Al Hariri] telah menceritakan kepada kami [Mu'awiyah, anaknya Sallam] -dalam jalur lain- Telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Abu Amir] telah menceritakan kepada kami [Hisyam] -dalam jalur lain- Telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ibnu Abu Umar] keduanya berkata, telah menceritakan kepada kami [Abdul Wahhab bin Abdul Majid] telah menceritakan kepada kami [Ayyub] -dalam jalur lain- Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Husain bin Muhammad] telah menceritakan kepada kami [Syaiban] semuanya dari [Yahya bin Abu Katsir] dengan isnad ini, hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2519</td></tr><tr><td>Arabic No</td><td>1082.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2519</td></tr><tr><td>Arabic No</td><td>1082.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 25</td></tr></tbody></table></div>
 

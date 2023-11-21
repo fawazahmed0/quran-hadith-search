@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Imran ibn Husayn: The Prophet (ﷺ) said: If anyone swears a false oath
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabbah Al Bazzaz], telah menceritakan kepada kami [Yazid? bin Harun], telah mengabarkan kepada kami [Hisyam bin Hassan] dari [Muhammad bin Sirin] dari [Imran bin Hushain], ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang bersumpah dengan dusta, maka hendaknya ia mempersiapkan tempatnya di neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 22 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Пусть тот, кто, давая обязательную клятву (Аллахом), солгал, приготовится занять своё место в Огне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 22 Hadith 1</td></tr></tbody></table></div>
 

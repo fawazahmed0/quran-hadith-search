@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mutarrif reported on the authority of his father:I came to Allah's Apostle (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Mutharrif] dari [ayahnya] berkata: Aku mendatangi nabi Shallallahu 'alaihi wa Salam dan beliau tengah membaca: "Bermegah-megahan telah melalaikanmu." (At Takaatsur: 1), beliau bersabda: "Anak cucu Adam berkata: 'Hartaku, hartaku'." Beliau meneruskan: "Hartamu wahai anak cucu Adam tidak lain adalah yang kau makan lalu kau habiskan, yang kau kenakan lalu kau usangkan atau yang kau sedekahkan lalu kau habiskan." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata: telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dan keduanya sama-sama berkata: Telah menceritakan kepada kami [Ibnu Abi Adi] dari [Sa'id]. Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepada kami [ayahku], semuanya dari [Qatadah] dari [Mutharrif] dari [ayahnya] berkata: Aku tiba dihadapan nabi Shallallahu 'alaihi wa Salam, lalu ia menyebut seperti hadits Hammam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7420</td></tr><tr><td>Arabic No</td><td>2958.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7420</td></tr><tr><td>Arabic No</td><td>2958.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 4</td></tr></tbody></table></div>
 

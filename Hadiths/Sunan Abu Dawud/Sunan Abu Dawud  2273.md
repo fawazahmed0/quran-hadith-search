@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah said “Sa’d bin Abi Waqqas and ‘Abd bin Zamah disputed amongst th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], dan [Musaddad], mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Urwah] dari [Aisyah]; Sa'd bin Abu Waqqash dan 'Abdu bin Zam'ah berselisih kepada Rasulullah shallallahu 'alaihi wasallam mengenai anak budak wanita Zam'ah. Sa'd berkata; saudaraku 'Utbah memberiku wasiat apabila aku datang ke Mekkah agar melihat kepada anak budak wanita Zam'ah, kemudian mengambilnya karena ia adalah anaknya. Sedangkan Abdu bin Zam'ah berkata; ia adalah saudaraku, anak budak ayahku dan terlahir di tempat tidur ayahku. Kemudian Rasulullah shallallahu 'alaihi wasallam melihat kemiripannya yang sangat dengan 'Utbah. Kemudian beliau berkata; anak adalah mengikuti pemilik ranjang, dan orang yang berzina tidak mendapatkan sesuatu. Wahai Saudah berhijablah darinya. Musaddad menambahkan dalam haditsnya; dan beliau berkata; ia adalah saudaramu wahai 'Abdu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2421) Sahih Muslim (1457)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 13 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Са‘д ибн Абу Ваккас и ‘Абд ибн Зам‘а поспорили и пришли к Посланнику Аллаха ﷺ. Предметом спора стал сын рабыни Зам‘ы. Са‘д сказал: “Мой брат ‘Утба поручил мне по прибытии в Мекку забрать сына невольницы Зам‘ы, поскольку это его сын”. ‘Абд ибн Зам‘а сказал: “Он мой брат, сын невольницы моего отца, рождённый на постели моего отца”. Посланник Аллаха ﷺ увидел, что он действительно похож на ‘Утбу, и сказал: “Ребёнок принадлежит постели, а прелюбодею лишения. Но ты, Сауда, закройся от него”». Мусаддад, один из передатчиков хадиса, добавлял, что «Посланник Аллаха ﷺ сказал: “Он твой брат, о ‘Абд”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2421) Sahih Muslim (1457)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 13 Hadith 99</td></tr></tbody></table></div>
 

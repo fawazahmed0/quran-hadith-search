@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Seereen:On a rainy day Ibn 'Abbas said to his Mu'adh-dhin,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isma'il] berkata, telah mengabarkan kepadaku ['Abdul Hamid] sahabatnya Az Ziyadi, berkata; telah menceritakan kepada kami ['Abdullah bin Al Harits] anak pamannya Muhammad bin Sirin, [Ibnu 'Abbas] berkata kepada Mu'adzinnya saat hari turun hujan, "Jika kamu sudah mengucapkan 'ASYHADU ANNA MUHAMMADAR RASULULLAH', janganlah kamu sambung dengan HAYYA 'ALASHSHALAAH (Marilah mendirikan shalat) '. Tapi serukanlah, 'SHALLUU FII BUYUUTIKUM (Shalatlah di tempat tinggal masing-masing) '." Lalu orang-orang seakan mengingkarinya. Maka Ibnu 'Abbas pun berkata, "Sesungguhnya hal yang demikian ini pernah dilakukan oleh orang yang lebih baik dariku. Sesungguhnya shalat Jum'at adalah kewajiban dan aku tidak suka untuk mengeluarkan kalian, sehingga kalian berjalan di tanah yang penuh dengan air dan lumpur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>901</td></tr><tr><td>Arabic No</td><td>901</td></tr><tr><td>Reference</td><td>Book 11 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн аль-Харис, сын дяди Мухаммада ибн Сирина, передаёт, что Ибн ‘Аббас сказал своему муаззину в дождливый день: «Когда произнесёшь: “Свидетельствую, что Мухаммад — Посланник Аллаха”, не говори: “Спешите на молитву”, а скажи: “Молитесь в своих домах”». И как будто людям показалось это предосудительным. Тогда Ибн ‘Аббас сказал: «Так поступал тот, кто лучше меня… Поистине, пятничная молитва является обязательной, но, поистине, мне не хотелось создавать вам трудности и заставлять вас идти по глине под дождём»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>901</td></tr><tr><td>Arabic No</td><td>901</td></tr><tr><td>Reference</td><td>Book 11 Hadith 25</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' reported Allah's Messenger (ﷺ) having said:He who observes prayer lik
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Zakaria] dari [Firas] dari ['Amir] dari [Al Barra'] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa shalat sebagaimana shalat kami dengan menghadapkan kiblat kami dan beribadah sebagaimana ibadah kami, hendaknya ia tidak menyembelih hewan kurban hingga ia selesai shalat." Lantas pamanku berkata, "Wahai Rasulullah, saya telah menyembelih dari binatang kurban milik puteraku." Beliau bersabda: "Itu adalah sesuatu yang kamu segerakan untuk keluargamu." Pamanku berkata, "Namun saya masih memliki seekor kambing yang lebih baik daripada dua ekor kambing." Beliau bersabda: "Sembelihlah ia, karena ia termasuk dari sebaik-baik ibadah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5072</td></tr><tr><td>Arabic No</td><td>1961.04</td></tr><tr><td>Reference</td><td>Book 35 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5072</td></tr><tr><td>Arabic No</td><td>1961.04</td></tr><tr><td>Reference</td><td>Book 35 Hadith 9</td></tr></tbody></table></div>
 

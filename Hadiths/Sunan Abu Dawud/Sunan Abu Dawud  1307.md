@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Do not give up prayer at night, for the Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] dia berkata; telah menceritakan kepada kami [Abu Daud] dia berkata; telah menceritakan kepada kami [Syu'bah] dari [Yazid bin Khumair] dia berkata; saya mendengar [Abdullah bin Abu Qais] berkata; [Aisyah radliallahu 'anha] berkata; "Janganlah kamu meninggalkan shalat malam (qiyamul lail), karena Rasulullah shallallahu 'alaihi wasallam tidak pernah meninggalkannya, bahkan apabila beliau sedang sakit atau kepayahan, beliau shalat dengan duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1307</td></tr><tr><td>Arabic No</td><td>1307</td></tr><tr><td>Reference</td><td>Book 5 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказала ‘Аиша, да будет доволен ею Аллах: «Не оставляй ночную молитву, ибо, поистине, Посланник Аллаха ﷺ не оставлял её. Если он был болен или уставал, он молился сидя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1307</td></tr><tr><td>Arabic No</td><td>1307</td></tr><tr><td>Reference</td><td>Book 5 Hadith 58</td></tr></tbody></table></div>
 

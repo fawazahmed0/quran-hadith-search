@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Taa'labat b. al-Khushani:I said: Messenger of Allah, I hunt with my
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari], dari [Ibnu Al Mubarak] dari [Haiwah bin Syuraih], ia berkata; saya mendengar [Rabi'ah bin Yazid Ad Dimasyqi] berkata; telah mengabarkan kepadaku [Abu Idris Al Khaulani 'Aidzullah], ia berkata; saya mendengar [Abu Tsa'labah Al Khusyani] berkata; aku katakan; wahai Rasulullah, sesungguhnya aku berburu dengan anjingku yang terlatih serta anjingku yang tidak terlatih. Beliau berkata: "Apa yang engkau buru dengan anjingmu yang terlatih maka sebutlah nama Allah dan makanlah! Dan apa yang engkau buru dengan anjingmu yang tidak terlatih dan engkau sempat menyembelihnya maka makanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5488) Sahih Muslim (1930)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>2855</td></tr><tr><td>Reference</td><td>Book 17 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ляба аль-Хушани, да будет доволен им Аллах: «Я сказал: “О Посланник Аллаха! Поистине, я охочусь с помощью своей обученной и необученной собаки”. (Посланник Аллаха ﷺ) сказал: “Что касается того, что ты добываешь с помощью обученной собаки, то помяни имя Аллаха, а потом ешь. Что же касается того, что ты добываешь с помощью необученной собаки, то можешь есть это, если успеешь заколоть животное согласно Шариату, прежде чем оно испустит дух”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5488) Sahih Muslim (1930)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>2855</td></tr><tr><td>Reference</td><td>Book 17 Hadith 12</td></tr></tbody></table></div>
 

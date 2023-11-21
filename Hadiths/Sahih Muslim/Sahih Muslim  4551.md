@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ As-Sa'b Ibn Jaththâma (رضي الله عنهما) a dit : Le Prophète (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku ['Amru bin Dinar] bahwa [Ibnu Syihab] telah mengabarkan kepadanya dari [Ubaidullah bin Abdullah bin 'Utbah] dari [Ibnu Abbas] dari [Ash Sha'b bin Jatsamah], bahwa Nabi shallallahu 'alaihi wasallam ditanya, "Bagaimana jika ada pasukan berkuda menyerang musuh di malam hari, sehingga anak orang-orang Musyrik banyak yang ikut terbunuh?" Beliau menjawab: "Mereka seperti bapak-bapak mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4551</td></tr><tr><td>Arabic No</td><td>1745.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4551</td></tr><tr><td>Arabic No</td><td>1745.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 32</td></tr></tbody></table></div>
 

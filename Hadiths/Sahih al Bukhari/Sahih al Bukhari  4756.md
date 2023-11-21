@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:Hassan came to Aisha and said the following poetic Verse: 'A cha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ibnu Abu 'Adi] telah mengabarkan kepada kami [Syu'bah] dari [Al A'masy] dari [Abu Adl Dluha] dari [Masruq] dia berkata; Suatu hari Hasan bin Tsabit masuk menemui Aisyah lalu ia melantunkan syair: Engkaulah wanita yang suci, # hidup tenang tanpa adanya keraguan, # Pagi-pagi engkau merasa lapar karena tidak pernah membicarakan keburukan orang lain.' Kemudian [Aisyah] menjawab, Tapi, bukankah kamu dahulu tidak demikian hai Hassan?" Masruq berkata; "Saya bertanya kepada Aisyah, 'Wahai Ummul mukminin, mengapa engkau izinkan Hassan bin Tsabit masuk ke rumahmu? Bukankah Allah telah berfirman, (Dan orang yang berandil besar (dalam memfitnah Aisyah), maka ia akan memperoleh adzab yang besar?. (Qs.An Nuur: 11) Mendengar pertanyaan seperti itu. Aisyah menjawab; "Adzab apalagi yang lebih pedih daripada kebutaan? Yang telah berlalu biarlah berlalu, namun bukankah sekarang Hassan bin Tsabit berjasa dalam membela Rasulullah shallallahu 'alaihi wasallam?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4756</td></tr><tr><td>Arabic No</td><td>4756</td></tr><tr><td>Reference</td><td>Book 65 Hadith 278</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрук сказал: «Однажды Хассан ибн Сабит вошёл к ‘Аише и стал читать ей некоторые свои стихи, говоря: “Целомудренная, мудрая, в которой нет сомнений, просыпается с желудком, в котором нет мяса целомудренных женщин (то есть она не злословит о них)”. ‘Аиша сказала: “Однако ты не такой (имея ввиду, что он злословил о ней, когда её оклеветали)”. Масрук сказал: “Почему ты впускаешь его, ведь Всевышний Аллах сказал: “А тому из них, кто взял на себя большую часть этого, уготованы великие мучения”?” ‘Аиша ответила: “А какое наказание сильнее, чем слепота?” Она добавила: “Хассан защищал или отвечал (стихами) за Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4756</td></tr><tr><td>Arabic No</td><td>4756</td></tr><tr><td>Reference</td><td>Book 65 Hadith 278</td></tr></tbody></table></div>
 

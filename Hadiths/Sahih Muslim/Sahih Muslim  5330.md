@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Ja'far (que Dieu l'agrée) a dit : "J'ai vu l'Envoyé de Dieu (pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Abdullah bin 'Aun Al Hilali], Yahya berkata; Telah mengabarkan kepadaku, sedang Ibnu 'Aun berkata; Telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Bapaknya] dari [Abdullah bin Ja'far] dia berkata; "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam memakan mentimun dengan ruthab (kurma basah yang baru matang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5330</td></tr><tr><td>Arabic No</td><td>2043</td></tr><tr><td>Reference</td><td>Book 36 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5330</td></tr><tr><td>Arabic No</td><td>2043</td></tr><tr><td>Reference</td><td>Book 36 Hadith 204</td></tr></tbody></table></div>
 

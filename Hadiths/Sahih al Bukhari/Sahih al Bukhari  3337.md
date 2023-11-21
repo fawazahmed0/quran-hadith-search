@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Once Allah's Messenger (ﷺ) stood amongst the people, glorif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] dari [Yunus] dari [Az Zuhriy] berkata [Salim] dan berkata [Ibnu 'Umar radliallahu 'anhuma]; Rasulullah shallallahu 'alaihi wasallam berdiri di hadapan manusia lalu memuji Allah karena memang Dialah satu-satunya yang berhak atas pujian kemudian Beliau menceritakan Dajjal, sabda Beliau: "Aku akan menceritakannya kepada kalain dan tidak ada seorang Nabipun melainkan telah menceritakan tentang ad-Dajjal kepada kaumnya. Sungguh Nabi Nuh Alaihissalam telah mengingatkan kaumnya akan tetapi aku katakan kepada kalian tentangnya yang tidak pernah dikatakan oleh seorang Nabi pun kepada kaumnya, yaitu Dajjal itu buta sebelah matanya sedang bahwa Allah tidaklah buta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3337</td></tr><tr><td>Arabic No</td><td>3337</td></tr><tr><td>Reference</td><td>Book 60 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды Посланник Аллаха ﷺ обратился к людям с речью. Он восхвалил Аллаха самым достойным образом, потом упомянул о Даджжале и сказал: «Поистине, я предостерегаю вас от него, и каждый пророк предостерегал свой народ от него. И Нух предостерегал от него свой народ. Но я скажу вам о нём то, чего не говорил ни один пророк своему народу: знайте, что он одноглазый, тогда как Аллах одноглазым не является!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3337</td></tr><tr><td>Arabic No</td><td>3337</td></tr><tr><td>Reference</td><td>Book 60 Hadith 12</td></tr></tbody></table></div>
 

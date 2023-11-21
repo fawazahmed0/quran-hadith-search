@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Maula al-Mahri reported that they were hard pressed by the distress an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hammad bin Isma'il bin Ulayyah] telah menceritakan kepada kami [bapakku] dasri [Wuhaib] dari [Yahya bin Abu Ishaq] bahwa ia menceritakan dari [Abu Sa'id, Maula Al Mahri], Di Madinah ia mendapatkan kesusahan dan kepayahan, sehingga ia utarakan keluh kesahnya kepada [Abu Sa'id AL-khudzri]. Kata Abu Sa'id maula Mahri; "Keluarga saya banyak, dan kami tertimpa kesusahan yang sedemikian rupa, maka saya berinisiatif untuk mengungsikan keluargaku ke sebuah dusun. Abu Sa'id alkhudzri memberi pesan; " Hei, jangan kau lakukan, tetaplah engkau di Madinah, sebab kami pernah bepergian bersama Nabi shallallahu 'alaihi wasallam Shallallahu'alaihiwasallam --setahuku ia katakan "hingga kami tiba di 'Usfan-- dan beliau berdiam disana beberapa malam, lantas penduduk Usfan berkeuh juga "Disini kami tak bisa mendapat apa-apa, padahal keluarga kami tak punya lagi pelindung dan harta yang menjaga kelangsungan hidup mereka" Lantas keluah kesah penduudk Usfan ini didengar Nabi sehingga beliau berujar "Oh begitu berita yang sampai kepadaku tentang keluh kesah kalian! -saya tidak tahu persis berita apa yang beliau sampaikan-Demi Dzat yang kepada-Nya aku bersumpah, - atau dengan redaksi "Demi Dzat yang diriku berada di tangan-Nya, sungguh aku berkeinginan -atau dengan redaksi jika kalian berkenan-saya tidak ingat kepastiannya-untuk kusuruh untaku dikendarakan kemudian aku tidak melepas kalungnya, hingga aku tiba di Madinah, kata Nabi selanjutnya "Sesungguhnya Ibrahim telah mengharamkan Makkah sehingga dijadikannya tanah haram, maka sekarang aku haramkan Madinah apa yang diantara dua jalannya, disana darah tak boeh ditumpahkan, senjata tak boleh dihunus untuk peperangan, pohon tak boleh ditebang kecuali untuk makanan ternak, Ya Allah, berilah kami barakah kami pada Madinah kami, Ya Allah, berilah kami Barakah pada takaran sha' kami, Ya Allah, berilah kami barakah pada takaran mud kami, Ya Allah, berilah kami Barakah pada takaran sha' kami, Ya Alalh, berilah kami barakah pada takaran mud kami, Ya Allah berilah kami pada Madinah kami, Ya Allah jadikanlah bersama keberkahan ini dua keberkatan lain, demi Dzat yang diriku berada di tangan-Nya, tidaklah ada lereng gunung atau jalan di gunung Madinah, selain ada dua malaikat yang selalu menjaganya hingga kalian mendatangi Madinah. Kemudian beliau berujar kepada orang-orang "Ayo kalian berangkat! Kami pun berangkat menuju di Madinah. Demi Dzat yang kepada-Nya kami bersumpah atau Dzat yang dijadikan bersumpah -keraguan ini pada Hamad-belum sempat kami letakkan kuda tunggangan kami ketika memasuki Madinah, hingga kami diserang oleh Banu Abdullah bin Ghatafan, padahal sebelumnya mereka tak sedikitpun berani melakukan hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>1374.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 540</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>1374.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 540</td></tr></tbody></table></div>
 

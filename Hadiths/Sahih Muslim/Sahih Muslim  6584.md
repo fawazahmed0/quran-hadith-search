@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that a person from the emigrants struck the back of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ishaq bin Manshur] serta [Muhammad bin Rafi']. [Ibnu Rafi'] berkata; Telah menceritakan kepada kami Sedangkan yang lainnya berkata; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Ayyub] dari ['Amru bin Dinar] dari [Jabir bin 'Abdullah] dia berkata; Seseorang dari Muhajirin memukul punggung seseorang dari Anshar, lalu orang anshar itu datang kepada Nabi Shallallahu'alaihi wasallam menanyakan tentang bolehkah mengqishashnya? maka jawab beliau: "Tinggalkanlah, itu hanyalah perbuatan yang sangat jelek dan keji!" Ibnu Manshur berkata dalam meriwatkan Hadits tersebut; Amru bin Dinar berkata; 'Aku mendengar Jabir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6584</td></tr><tr><td>Arabic No</td><td>2584.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6584</td></tr><tr><td>Arabic No</td><td>2584.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 82</td></tr></tbody></table></div>
 

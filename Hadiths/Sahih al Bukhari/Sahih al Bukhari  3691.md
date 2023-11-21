@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:I heard Allah's Messenger (ﷺ) saying, "While I wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3691</td></tr><tr><td>Arabic No</td><td>3691</td></tr><tr><td>Reference</td><td>Book 62 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Мне были показаны во сне люди, одетые в рубахи. Некоторые из них доходили (только) до сосков, а иные были ещё короче. И был мне показан ‘Умар, на котором рубаха была (такой) длинной, что волочилась за ним (по земле)”. Люди спросили: “И как же ты истолковал это, о Посланник Аллаха?” Он ответил: “(Это —) религия”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3691</td></tr><tr><td>Arabic No</td><td>3691</td></tr><tr><td>Reference</td><td>Book 62 Hadith 41</td></tr></tbody></table></div>
 

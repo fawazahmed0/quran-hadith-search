@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sufyan b. 'Uyainah said:I saw Sharik who led us in the 'Asr prayer during a fune
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad Az-Zuhri] telah menceritakan kepada kami [Sufyan bin Uyainah] dia berkata; Saya pernah melihat [Syarik] shalat janazah menjadi imam kami pada waktu Ashar, lalu dia meletakkan pecinya di depannya, yakni ketika dia melaksanakan shalat wajib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>691</td></tr><tr><td>Arabic No</td><td>691</td></tr><tr><td>Reference</td><td>Book 2 Hadith 301</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Суфьян ибн ‘Уйейна сказал: «Я видел, как Шарийк совершал с нами молитву джаназа в послеполуденное время, и он положил перед собой свой головной убор, имея ввиду когда наступило время совершения послеполуденной молитвы».Шейх аль-Альбани сказал: «Достоверное сообщение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>691</td></tr><tr><td>Arabic No</td><td>691</td></tr><tr><td>Reference</td><td>Book 2 Hadith 301</td></tr></tbody></table></div>
 

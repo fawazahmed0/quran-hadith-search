@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) informed (the people) about the dea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya [Malik] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam mengumumkan kematian An-Najasyi pada hari kematiannya kemudian Beliau keluar menuju tempat shalat lalu Beliau membariskan shaf kemudian takbir empat kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1245</td></tr><tr><td>Arabic No</td><td>1245</td></tr><tr><td>Reference</td><td>Book 23 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сообщил (людям) о кончине негуса в тот самый день, когда он умер. (Пророк ﷺ вышел к месту намаза, построил (людей) рядами и четырежды произнёс слова “Аллах велик /Аллаху акбар/”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1245</td></tr><tr><td>Arabic No</td><td>1245</td></tr><tr><td>Reference</td><td>Book 23 Hadith 8</td></tr></tbody></table></div>
 

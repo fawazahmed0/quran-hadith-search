@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:A funeral procession passed in front of us and the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadhalah] telah menceritakan kepada kami [Hisyam] dari [Yahya] dari ['Ubaidullah bin Muqsim] dari [Jabir bin 'Abdullah radliallahu 'anhua] berkata,: "Suatu hari jenazah pernah lewat di hadapan kami maka Nabi Shallallahu'alaihiwasallam berdiri menghormatinya dan kami pun ikut berdiri. Lalu kami tanyakan: "Wahai Rasulullah, jenazah itu adalah seorang Yahudi". Maka Beliau berkata,: ""Jika kalian melihat jenazah maka berdirilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1311</td></tr><tr><td>Arabic No</td><td>1311</td></tr><tr><td>Reference</td><td>Book 23 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «(Однажды, когда) перед нами проносили покойного, Пророк ﷺ встал (со своего места) и мы тоже встали, а (потом) мы сказали ему: “О Посланник Аллаха, это же несут иудея!” (На это) он сказал: “Если увидите похоронную процессию, вставайте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1311</td></tr><tr><td>Arabic No</td><td>1311</td></tr><tr><td>Reference</td><td>Book 23 Hadith 69</td></tr></tbody></table></div>
 

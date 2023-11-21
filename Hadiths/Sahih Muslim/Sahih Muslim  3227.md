@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that Allah's Messenger (ﷺ) incline
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Hakam bin Musa] telah menceritakan kepadaku [Yahya bin Hamrah] dari [Al Auza'i] sepertinya ia berkata, dari [Yahya bin Abu Katsir] dari [Muhammad bin Ibrahim At Taimi] dari [Abu Salamah] dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam menginginkan sesuatu dari Shafiyyah sebagaimana apa yang biasanya diinginkan oleh seorang laki-laki terhadap isterinya, maka mereka pun berkata, "Sesungguhnya ia dalah keadaan haid ya Rasulullah." Beliau bersabda: "Kalau bergitu, ia akan menangguhkan perjalanan kita?" mereka berkata lagi, "Ya Rasulullah, sesungguhnya ia telah melakukan thawaf pada hari Nahar." Akhirnya beliau bersabda: "Hendaklah ia berangkat bersama-sama kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3227</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3227</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

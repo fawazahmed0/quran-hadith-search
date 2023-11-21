@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd b Abi Waqqqs said:Allah's Messenger (may peace he upon him) gathered his pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab]; Telah menceritakan kepada kami [Sulaiman] yaitu Ibnu Bilal dari [Yahya] yaitu Ibnu Sa'id dari [Sa'id] dari [Sa'ad bin Abu Waqqash] dia berkata; "Rasulullah shallallahu 'alaihi wasallam menggabungkan kedua orang tuanya sebagai tebusan bagiku pada perang Uhud." Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ibnu Rumh] dari [Al Laits bin Sa'ad]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Al Mutsanna]; Telah menceritakan kepada kami ['Abdul Wahhab] keduanya dari [Yahya bin Sa'id] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6235</td></tr><tr><td>Arabic No</td><td>2412.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6235</td></tr><tr><td>Arabic No</td><td>2412.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 65</td></tr></tbody></table></div>
 

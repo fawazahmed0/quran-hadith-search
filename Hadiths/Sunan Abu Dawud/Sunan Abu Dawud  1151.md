@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd b. 'Amr b. al-'As said:The Prophet of Allah (ﷺ) said: There are seven take
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Al Mu'tamir] dia berkata; aku mendengar [Abdullah bin Abdurrahman Ath Thaifi] menceritakan dari [Amru bin Syu'aib] dari [ayahnya] dari [Abdullah bin Amr bin Ash] berkata Nabi Shallallahu'alaihiwasallam bersabda: takbir pada waktu shalat Iedul fithri tujuh kali pada rakaat pertama dan lima pada rakaat terakhir dan bacaan AlQur'an setelah itu semua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1151</td></tr><tr><td>Arabic No</td><td>1151</td></tr><tr><td>Reference</td><td>Book 2 Hadith 762</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах им и его отцом, что пророк Аллаха ﷺ сказал: «В день праздника разговения в первом рак‘ате следует произносить семь такбиров, а во втором пять, а читать аяты следует в обоих рак‘атах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1151</td></tr><tr><td>Arabic No</td><td>1151</td></tr><tr><td>Reference</td><td>Book 2 Hadith 762</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) concluded peace with t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musharrif bin 'Amr Al Yami], telah menceritakan kepada kami [Yunus bin Bukair], telah menceritakan kepada kami [Asbath bin Nashr Al Hamdani], dari [Isma'il bin Abdurrahman Al Qurasyi], dari [Ibnu Abbas], ia berkata; Rasulullah shallallahu 'alaihi wasallam telah berdama dengan penduduk Najran dengan syarat mereka membayar dua ribu pakaian setengahnya pada Bulan Shafar dan sisanya pada Bulan Rajab, mereka memberikannya kepada orang-orang muslim. Serta 'Awar, mereka membayar tiga puluh baju zirah, tiga puluh unta, dan tiga puluh setiap jenis dari jenis senjata yang mereka gunakan untuk berperang. Dan orang-orang muslim memberikan jaminan -hingga mereka memberikannya kepada orang-orang muslim apabila di Yaman terdapat tipu muslihat serta pengkhianatan- bahwa tempat ibadah mereka tidak dihancurkan dan pendeta mereka tidak dikeluarkan serta mereka tidak difitnah dalam agama mereka selama tidak membuat suatu kejadian atau memakan barang riba. Isma'il berkata; sungguh mereka telah makan riba. Abu Daud berkata; apabila mereka membatalkan sebagian yang telah disyaratkan kepada mereka maka sungguh mereka telah membuat perkara
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3041</td></tr><tr><td>Arabic No</td><td>3041</td></tr><tr><td>Reference</td><td>Book 20 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ заключил мирный договор с жителями Наджрана с условием, что они будут отдавать мусульманам две тысячи одежд, половину в сафаре, а вторую половину в раджабе, и давать мусульманам в бесплатное пользование тридцать кольчуг, тридцать коней, тридцать верблюдов и тридцать штук оружия каждого вида для военных походов, а мусульмане гарантируют возвращение этого оружия, чтобы в Йемене не было смуты. Они также обязались не разрушать их храмы, не изгонять их священников и не принуждать их отказаться от своей религии. Это при условии, что они не будут совершать преступлений и заниматься ростовщичеством». Исма‘иль сказал: «А они занимались ростовщичеством». Абу Дауд сказал: «Если они нарушат какие-то из условий, это означает, что они совершили преступление»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3041</td></tr><tr><td>Arabic No</td><td>3041</td></tr><tr><td>Reference</td><td>Book 20 Hadith 114</td></tr></tbody></table></div>
 

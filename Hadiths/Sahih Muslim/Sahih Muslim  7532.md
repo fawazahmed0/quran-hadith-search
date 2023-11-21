@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham reported that 'A'isha said in connection with the words of Allah:" They a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] telah mengkhabarkan kepada kami [Hisyam] dari [ayahnya] dari [Aisyah] tentang firmanNya: "Dan mereka minta fatwa kepadamu tentang para wanita. Katakanlah: "Allah memberi fatwa kepadamu tentang mereka." (An Nisaa': 127) Aisyah berkata: Ia wanita yatim yang ada pada seseorang, mungkin ia menyertakan lelaki itu dalam hartanya hingga dalam tandan anggur, lalu ia ingin menikahinya, ia tidak mau menikahkannya dengan lelaki lain sehingga akan disertakan dalam hartanya lalu ia menyusahkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7532</td></tr><tr><td>Arabic No</td><td>3018.05</td></tr><tr><td>Reference</td><td>Book 56 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7532</td></tr><tr><td>Arabic No</td><td>3018.05</td></tr><tr><td>Reference</td><td>Book 56 Hadith 10</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Samura:The Prophet (ﷺ) said, "O 'Abdur-Rahman bin S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man Muhammad bin Fadhl] telah menceritakan kepada kami [Jarir bin Hazim] telah menceritakan kepada kami [Al Hasan] telah menceritakan kepada kami [Abdurrahman bin Samurah] mengatakan, Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Abdurrahman bin Samurah, Janganlah kamu meminta jabatan, sebab jika engkau diberi (jabatan) karena meminta, kamu akan ditelantarkan, dan jika kamu diberi dengan tidak meminta, kamu akan ditolong, dan jika kamu melakukan sumpah, kemudian kamu melihat suatu yang lebih baik, bayarlah kaffarat sumpahmu dan lakukanlah yang lebih baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6622</td></tr><tr><td>Arabic No</td><td>6622</td></tr><tr><td>Reference</td><td>Book 83 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Самура, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал мне: “О ‘Абдуррахман ибн Самура, не добивайся власти, ибо, если она будет дана тебе по (твоей) просьбе, на тебя будет возложена (и ответственность) за неё, если же она будет дана тебе без (твоих) просьб, то (Аллах) окажет тебе в этом помощь. А если ты поклянёшься в чём-либо, но потом увидишь, что нечто иное лучше (того, что ты поклялся сделать), то искупи (нарушение) своей клятвы и сделай то, что лучше”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6622</td></tr><tr><td>Arabic No</td><td>6622</td></tr><tr><td>Reference</td><td>Book 83 Hadith 2</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "Why does anyone of the people say, '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Abu Wa'il] dari [Abdullah] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Alangkah celakanya seorang yang mengatakan, 'Aku lupa ayat ini dan ini.' Akan tetapi hendaklah ia mengatakan, 'Aku telah dilupakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5039</td></tr><tr><td>Arabic No</td><td>5039</td></tr><tr><td>Reference</td><td>Book 66 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, да будет доволен им Аллах, что Пророк ﷺ сказал: «Плохо будет, если кто-нибудь из вас станет говорить: “Я забыл такой-то и такой-то аят”, (ибо не сам он забыл,) а заставил его забыть (Аллах)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5039</td></tr><tr><td>Arabic No</td><td>5039</td></tr><tr><td>Reference</td><td>Book 66 Hadith 63</td></tr></tbody></table></div>
 

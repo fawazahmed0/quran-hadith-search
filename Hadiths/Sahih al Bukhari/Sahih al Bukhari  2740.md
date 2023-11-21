@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Talha bin Musarrif:I asked 'Abdullah bin Abu 'Aufa "Did the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Khollad bin Yahya] telah bercerita kepada kami [Malik, dia adalah putra Mighwal] telah bercerita kepada kami [Thalhah bin Mushorrif] berkata; Aku bertanya kepada ['Abdullah bin Abi Aufaa radliallahu 'anhuma]: "Apakah Nabi shallallahu 'alaihi wasallam pernah berwasiat?" Dia menjawab: "Tidak". Kemudian aku tanya lagi: "Lalu bagaimana berwasiat itu diwajibkan kepada manusia atau mereka diperintahkan supaya berwasiat?" Dia menjawab: "Beliau berwasiat dengan Kitab Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2740</td></tr><tr><td>Arabic No</td><td>2740</td></tr><tr><td>Reference</td><td>Book 55 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Тальха ибн Мусарриф сказал: «(Однажды) я спросил ‘Абдуллаха ибн Абу Ауфа, да будет доволен Аллах ими обоими: “Составил ли Пророк ﷺ завещание?” Он ответил: “Нет”. Я спросил: “Так почему же людям было предписано составлять завещания (или: было велено составлять завещания)?” Он сказал: “(Пророк ﷺ) сделал своим завещанием Книгу Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2740</td></tr><tr><td>Arabic No</td><td>2740</td></tr><tr><td>Reference</td><td>Book 55 Hadith 3</td></tr></tbody></table></div>
 

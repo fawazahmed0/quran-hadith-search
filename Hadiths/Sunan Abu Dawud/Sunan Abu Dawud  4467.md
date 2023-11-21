@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: A man of Bakr ibn Layth came to the Prophet (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin faris] berkata, telah menceritakan kepada kami [Musa bin Harun Al Burdi] berkata, telah menceritakan kepada kami [Hisyam bin Yusuf] dari [Al Qasim bin Fayyadh Al Anbari] dari [Khallad bin 'Abdurrahman] dari [ibnul Musayyab] dari [Ibnu Abbas] berkata, "Seorang laki-laki dari bani Bakr bin Laits mendatangi Nabi shallallahu 'alaihi wasallam. Laki-laki itu lalu mengaku -ia ulangi hingga empat kali- bahwa dirinya pernah berzina dengan seorang wanita, maka beliau menderanya sebanyak seratus kali karena ia belum menikah. Kemudian beliau bertanya kepadanya tentang bukti bahwa wanita itu berzina (dengannya), wanita itu berkata, "Wahai Rasulullah, demi Allah ia telah berdusta." Beliau lalu mendera laki-laki itu sebanyak delapan puluh kali karena tuduhan zinanya kepada wanita itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4467</td></tr><tr><td>Arabic No</td><td>4467</td></tr><tr><td>Reference</td><td>Book 40 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что один человек из бану бакр ибн Лейс пришёл к Пророку ﷺ четыре раза признался в том, что совершил прелюбодеяние с одной женщиной, и (Посланник Аллаха ﷺ) велел нанести ему сто ударов, поскольку он был холостым. Потом он попросил его представить доказательства вины женщины, однако она сказала (это после того, как мужчина не сумел представить доказательства её вины): «Он лжёт, клянусь Аллахом, о Посланник Аллаха!» Тогда (Посланник Аллаха ﷺ) велел нанести ему ещё восемьдесят ударов за клевету
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4467</td></tr><tr><td>Arabic No</td><td>4467</td></tr><tr><td>Reference</td><td>Book 40 Hadith 117</td></tr></tbody></table></div>
 

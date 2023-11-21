@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ka'b b. Malik reported that he made a demand for the payment of the debt that Ib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepada kami [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Abdullah bin Ka'b bin Malik] dia mengabarkan dari [Ayahnya], bahwa pada masa Rasulullah shallallahu 'alaihi wasallam dirinya pernah menagih hutang kepada Ibnu Abu Hadrad di masjid, suara mereka berdua sangat keras sehingga terdengar oleh Rasulullah shallallahu 'alaihi wasallam yang sedang berada di rumahnya, lantas Rasulullah shallallahu 'alaihi wasallam keluar menemui keduanya hingga tirai kamarnya tersingkap. Beliau kemudian memanggil Ka'ab bin Malik, beliau bersabda: "Wahai Ka'ab." Dia menjawab, "Ya, wahai Rasulullah." Kemudian beliau mengisyaratkan dengan tangannya (untuk membebaskan separuh dari hutangnya): "Bebaskanlah separuh dari hutangmu." Ka'ab pun menjawab, "Saya telah melakukannya wahai Rasulullah." Rasulullah shallallahu 'alaihi wasallam lalu bersabda (kepada Ibnu Abu Hadrada): "Berdiri dan bayarlah." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Utsman bin Umar] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] dari [Abdullah bin Ka'ab bin Malik] bahwa [Ka'ab bin Malik] telah mengabarkannya, bahwa dia pernah menagih hutang kepada Ibnu Abu Hadrad, seperti hadits Ibnu Wahb." Muslim berkata; [Laits bin Sa'ad] juga telah meriwayatkan; telah menceritakan kepadaku [Ja'far bin Rabi'ah] dari [Abdurrahman bin Hurmuz] dari [Abdullah bin Ka'ab bin Malik] dari [Ka'ab bin Malik], bahwa dia memiliki harta yang masih berada pada Abdullah bin Abu Hadrad Al Aslami, lantas dia menemuinya hingga terjadilah pembiacaraan di antara keduanya, sampai suaranya meninggi. Lalu Rasulullah shallallahu 'alaihi wasallam melewatinya dan bersabda: "Wahai Ka'ab!" Lalu beliau mengisyaratkan dengan tangannya seakan-akan beliau mengatakan: "Bebaskanlah setengahnya." Kemudian Ka'ab mengambil yang setengahnya dan membebaskan yang setengah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3986</td></tr><tr><td>Arabic No</td><td>1558.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3986</td></tr><tr><td>Arabic No</td><td>1558.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 25</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) never fasted in any month more than in the mon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadhalah] telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Abu Salamah] bahwa ['Aisyah radliallahu 'anha] menceritakan kepadanya, katanya: "Rasulullah shallallahu 'alaihi wasallam tidak pernah melaksanakan shaum lebih banyak dalam sebulan selain bulan Sya'ban, yang Beliau melaksanakan shaum bulan Sya'ban seluruhnya. Beliau bersabda: "Lakukanlah amal-amal yang kalian sanggup melaksanakannya, karena Allah tidak akan berpaling (dalam memberikan pahala) sampai kalian yang lebih dahulu berpaling (dari mengerjakan amal) ". Dan shalat yang paling Nabi shallallahu 'alaihi wasallam cintai adalah shalat yang dijaga kesinambungannya sekalipun sedikit. Dan Beliau bila sudah biasa melaksanakan shalat (sunnat) beliau menjaga kesinambungannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1970</td></tr><tr><td>Arabic No</td><td>1970</td></tr><tr><td>Reference</td><td>Book 30 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1970</td></tr><tr><td>Arabic No</td><td>1970</td></tr><tr><td>Reference</td><td>Book 30 Hadith 77</td></tr></tbody></table></div>
 

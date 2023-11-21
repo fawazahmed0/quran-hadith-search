@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Haritha bin Wahb Al-Khuza'i:I heard the Prophet (ﷺ) saying. "May I te
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Ma'bad bin Khalid] ia berkata, Aku mendengar [Haritsah bin Wahb Al Khuza'i] ia berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Maukah kalian aku beritahukan mengenai penghuni surga? Yaitu setiap orang lemah dan ditindas, yang sekiranya ia bersumpah atas nama Allah, niscaya Allah mengabulkannya. Dan maukah kalian aku beritahukan mengenai penghuni neraka? Yaitu setiap yang beringas membela kebatilan, kasar lagi sombong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4918</td></tr><tr><td>Arabic No</td><td>4918</td></tr><tr><td>Reference</td><td>Book 65 Hadith 438</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хариса ибн Вахб аль-Хуза‘и, да будет доволен им Аллах, сказал: «Я слышал, как (однажды) Пророк ﷺ сказал (людям): “Не сообщить ли вам о тех, кто окажется в Раю? (Это — ) каждый слабый и презираемый, (однако,) когда он клянётся Аллахом, (Аллах) обязательно осуществляет его клятву. Не сообщить ли вам о тех, кто окажется в Огне? (Это — ) каждый грубый, жадный и горделивый”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4918</td></tr><tr><td>Arabic No</td><td>4918</td></tr><tr><td>Reference</td><td>Book 65 Hadith 438</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whoever tells that Muhammad concealed part of what was revealed 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari [Isma'il] dari [Asy Sya'bi] dari [Masruq] dari ['Aisyah radliallahu 'anhu] dia berkata; 'Siapapun yang berkata bahwa Muhammad shallallahu 'alaihi wasallam menyembunyikan sebagian dari yang telah diwahyukan kepadanya, maka dia telah berdusta. Karena Allah telah berfirman: Wahai Rasul, sampaikanlah apa yang telah diturunkan kepadamu dari Rabbmu.. (Al Maidah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 65 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Солжёт тот, кто скажет тебе, что Мухаммад ﷺ утаил хоть что-то из того, что было ему ниспослано, ведь Аллах говорит: “О посланник! Уведомляй о том, что ниспослано тебе от твоего Господа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 65 Hadith 134</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Seereen:One of the sons of Um 'Atiyya died, and when it wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyir bin Al Mufadhdhal] telah menceritakan kepada kami [Salamah bin 'Alqamah] dari [Muhammad bin Sirin] berkata: Telah wafat anak [Ummu 'Athiyyah] radliallahu 'anha. Pada hari ketiga (dari kematian anaknya) dia meminta wewangian, lalu memakainya kemudian berkata: "Kami dilarang berkabung melebihi tiga hari kecuali bila ditinggal mati suaminya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1279</td></tr><tr><td>Arabic No</td><td>1279</td></tr><tr><td>Reference</td><td>Book 23 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн Сирин рассказывал: «Когда умер сын Умм ‘Атыйи, да будет доволен ею Аллах, на третий день она попросила благовоние желтого цвета и умастилась им, сказав: “Нам было запрещено находиться в состоянии траура более трех дней по кому-то, кроме мужа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1279</td></tr><tr><td>Arabic No</td><td>1279</td></tr><tr><td>Reference</td><td>Book 23 Hadith 40</td></tr></tbody></table></div>
 

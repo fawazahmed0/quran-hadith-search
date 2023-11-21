@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) came out during the night and obser
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] ia berkata, telah mengabarkan kepadaku [Urwah bin Zubair] bahwa [Aisyah] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam pernah keluar di tengah malam lalu beliau shalat di Masjid dan diikuti oleh beberapa orang, akhirnya mereka saling menceritakan tentang hal tersebut sehingga orang yang shalat bersama beliau semakin banyak. Pada malam ke dua, Rasulullah shallallahu 'alaihi wasallam keluar menunaikan shalat dan orang-orang pun shalat bersama beliau, kemudian mereka pun menyebut-nyebut kejadian itu sehingga pada malam ketiga jama'ah masjid semakin banyak dan mereka pun shalat bersama beliau. Pada malam ke empat masjid penuh sesak dan tidak dapat menampung jama'ahnya, tetapi Rasulullah shallallahu 'alaihi wasallam tidak keluar hingga beliau menunaikan shalat Fajar. Usai menunaikan shalat Fajar, beliau menghadap jama'ah, membaca syahadat kemudian bersabda: "Amma ba'd, sesungguhnya tidak ada kekhawatiran yang menimpaku terkait dengan keadaan kalian semalam, akan tetapi saya hanya khawatir (shalat malam itu) akan diwajibkan atas kalian, sehingga kalian tidak sanggup melaksanakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1784</td></tr><tr><td>Arabic No</td><td>761.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что (однажды) ночью Посланник Аллаха ﷺ вышел (из её комнаты) и стал молиться в мечети, а люди, (которые увидели это), молились, следуя его примеру. Наутро об этом стали говорить, (и к вечеру на молитву) собралось уже больше людей, которые молились, следуя примеру Посланника Аллаха ﷺ, когда он вышел на молитву на вторую ночь. Утром люди рассказывали об этом друг другу, и на третью ночь в мечети собралось множество людей, которые молились по примеру (Пророка ﷺ), когда он вышел (на молитву). Когда же настала четвёртая ночь, мечеть не вместила всех (желающих помолиться), но Посланник Аллаха ﷺ не вышел к ним. Некоторые люди принялись (громко) повторять «Молитва!», но Посланник Аллаха ﷺ вышел к ним только тогда, когда (настало время) утренней молитвы. Совершив её, он повернулся к людям лицом, произнёс слова свидетельства единобожия и сказал: «А затем, поистине, от меня не укрылось то, чем вы занимались этой ночью, однако я побоялся, что ночная молитва будет вменена вам в обязанность, а вы не сможете совершать её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1784</td></tr><tr><td>Arabic No</td><td>761.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 212</td></tr></tbody></table></div>
 

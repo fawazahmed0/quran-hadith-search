@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) once came out to us and said, "Some nation
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hushain bin Numair] dari [Hushain bin Abdurrahman] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; Nabi shallallahu 'alaihi wasallam keluar menemui kami lalu beliau bersabda: "Telah ditampakkan kepadaku umat-umat, maka aku melihat seorang Nabi lewat bersama satu orang, seorang Nabi bersama dua orang saja, seorang Nabi bersama sekelompok orang dan seorang Nabi tanpa seorang pun bersamanya. Lalu tiba-tiba ditampakkan kepadaku kumpulan manusia yang banyak memenuhi ufuk, aku berharap mereka adalah ummatku, namun dikatakan padaku; 'Ini adalah Musa dan kaumnya, lalu di katakana pula kepadaku; "Tapi lihatlah di ujung sebelah sana.' Ternyata aku melihat ada sekumpulan orang yang sangat banyak, kemudian dikatakan lagi padaku; 'Lihat juga yang sebelah sana.' Ternyata aku juga melihat ada sekumpulan orang yang sangat banyak lagi, lalu dikatakan padaku; 'Ini adalah umatmu, dan bersama mereka ada tujuh puluh ribu orang yang akan masuk surga tanpa hisab." Setelah itu orang-orang bubar dan belum sempat ada penjelasan kepada mereka, sehingga para sahabat Nabi shallallahu 'alaihi wasallam saling membicarakan hal itu, mereka berkata; "Adapun kita dilahirkan dalam kesyirikan akan tetapi kita beriman kepada Allah dan Rasul-Nya, mungkin mereka adalah para anak cucu kita." Lantas peristiwa tersebut sampai kepada Nabi shallallahu 'alaihi wasallam, lalu beliau bersabda: "Mereka itu adalah orang-orang yang tidak pernah bertathayur (menganggap sial sesuatu hingga tidak jadi beramal), tidak pernah meminta untuk diruqyah dan tidak mau menggunakan Kay (pengobatan dengan besi panas), dan kepada Tuhan merekalah mereka bertawakkal." Lalu Ukasyah bin Mihshan berdiri dan berkata; "Apakah aku termasuk di antara mereka, wahai Rasulullah?" Beliau menjawab: "Ya." Kemudian yang lainnya berdiri lalu bertanya; "Apakah aku juga termasuk di antara mereka?" Beliau menjawab: "Ukasyah telah mendahuluimu dalam hal ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5752</td></tr><tr><td>Arabic No</td><td>5752</td></tr><tr><td>Reference</td><td>Book 76 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, рассказывал о том, что (однажды) Пророк ﷺ вышел к ним и сказал: «Мне были показаны (все) народы, и (я увидел) пророка, с которыми был (всего лишь) один человек, и пророка, с которым было два человека, и пророка, с которым была (небольшая) группа людей, и такого пророка, с которым не было вообще никого. Затем я увидел много людей, закрывших собой горизонт, и мне хотелось, чтобы это была моя община, однако мне было сказано: “Это Муса и народ его”, и мне было сказано: “Посмотри”. (Я посмотрел туда,) и увидел много людей, закрывавших собой горизонт. И мне было сказано: “(А теперь) посмотри туда и туда”, и там тоже было много людей, закрывавших собой горизонт, а потом (мне) сказали: “Это твоя община, и семьдесят тысяч (человек) из них войдут в Рай без расчёта”». (После этого Пророк ﷺ зашёл в свой дом,) не объяснив, кого он имел в виду, и люди стали спорить. Сподвижники Пророка ﷺ сказали: «Что касается нас, то мы родились в период многобожия, однако мы уверовали в Аллаха и Его посланника, однако (мы думаем), что ими будут наши дети». Когда это дошло до Пророка ﷺ, он сказал: «Это те, которые не верят в дурные предзнаменования, судя по полёту птиц, и не просят других заговаривать их, не делают себе прижиганий и уповают на своего Господа». После этого со своего места поднялся ‘Уккяша ибн Михсан и спросил: «Отношусь ли я к их числу, о Посланник Аллаха?» (Пророк ﷺ) сказал: «Да». А потом со своего места поднялся другой (человек) и спросил: «А отношусь ли к их числу я?» — (Пророк же ﷺ) сказал: «‘Уккяша опередил тебя в этом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5752</td></tr><tr><td>Arabic No</td><td>5752</td></tr><tr><td>Reference</td><td>Book 76 Hadith 67</td></tr></tbody></table></div>
 

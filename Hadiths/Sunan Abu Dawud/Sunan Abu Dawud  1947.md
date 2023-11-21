@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuBakrah: The Prophet (ﷺ) gave a sermon during his hajj and said: Ti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] telah menceritakan kepada Kami [Isma'il] telah menceritakan kepada Kami [Ayyub] dari [Muhammad] dari [Abu Bakrah] bahwa Nabi shallallahu 'alaihi wasallam berkhutbah pada saat berhaji, dan berkata; "Sesungguhnya zaman telah berputar seperti keadaannya pada hari Allah menciptakan langit dan bumi, satu tahun adalah dua belas bulan, diantaranya terdapat empat bulan haram, tiga bulan berturut-turut adalah Dzul Qa'dah, Dzul Hijjah, Al Muharram dan Rajab Mudhar yang berada di antara Jumadi dan Sya'ban." Telah menceritakan kepada Kami [Muhammad bin Yahya bin Fayyadh], telah menceritakan kepada Kami [Abdul Wahhab], telah menceritakan kepada Kami [Ayyub As Sakhtiyani] dari [Muhammad bin Sirin] dari [Ibnu Abu Bakrah], dari [Abu Bakrah], dari Nabi shallallahu 'alaihi wasallam dengan maknanya. Abu Daud berkata; [Ibnu 'Aun] menyebutkannya, ia berkata; dari [Abdurrahman bin Abu Bakrah] dari [Abu Bakrah] dalam hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (4406) Sahih Muslim (1679)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1947</td></tr><tr><td>Arabic No</td><td>1947</td></tr><tr><td>Reference</td><td>Book 11 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Бакры, да будет доволен им Аллах, что Пророк ﷺ сказал в своей проповеди в хадже: «Поистине, время вернулось на круги своя и стало таким, каким оно было в день, когда Аллах сотворил небеса и землю: в году двенадцать месяцев, из них четыре заповедные. Три следуют друг за другом зуль-кы‘да, зуль-хиджжа и мухаррам, и ещё раджаб мудара, который между джумадой и ша‘баном»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (4406) Sahih Muslim (1679)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1947</td></tr><tr><td>Arabic No</td><td>1947</td></tr><tr><td>Reference</td><td>Book 11 Hadith 227</td></tr></tbody></table></div>
 

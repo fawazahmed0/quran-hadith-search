@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aban said:Qatadah was asked about tayammum during a journey. He said: A traditio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Aban] dia berkata; [Qatadah] pernah ditanya tentang tayammum ketika safar, maka dia berkata; Telah menceritakan kepadaku [Seorang ahli hadits] dari [Asy-Sya'bi] dari [Abdurrahman bin Abza] dari [Ammar bin Yasir] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: Hingga dua siku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>328</td></tr><tr><td>Arabic No</td><td>328</td></tr><tr><td>Reference</td><td>Book 1 Hadith 328</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абан (ибн Йазид аль-‘Атар) сказал: «Однажды у Къатады спросили о совершении таяммума будучи в поездке, и он сказал: “Мне рассказали от Ша‘би, передавшего со слов ‘Абду-р-Рахмана ибн Абзы, который передал от ‘Аммара ибн Йасира, о том, что Посланник Аллаха ﷺ сказал: “… до локтей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>328</td></tr><tr><td>Arabic No</td><td>328</td></tr><tr><td>Reference</td><td>Book 1 Hadith 328</td></tr></tbody></table></div>
 

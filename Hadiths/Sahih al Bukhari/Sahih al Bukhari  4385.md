@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zahdam:When Abu Musa arrived (at Kufa as a governor) he honored this fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami ['Abdus Salam] dari [Ayyub] dari [Abu Qilabah] dari [Zahdam] dia berkata; Tatkala [Abu Musa] datang ke Kufah, dia memuliakan penduduk Jaram. Kami duduk disampingnya ketika ia sedang makan siang dengan daging ayam. Di antara penduduk ada seseorang yang sedang duduk, lalu Abu Musa mengajaknya untuk makan. Tapi orang itu berkata; aku melihatnya makan sesuatu yang tidak aku sukai. Abu Musa berkata; kemarilah, karena aku melihat Nabi shallallahu 'alaihi wasallam memakannya. Namun orang itu berkata; Sesungguhnya aku telah bersumpah untuk tidak memakannya. Abu Musa berkata; kemarilah, akan aku kabarkan kepadamu tentang sumpahmu. Kami pernah menemui Nabi shallallahu 'alaihi wasallam bersama beberapa orang Asy'ariyyin. Lalu kami meminta hewan tunggangan, namun beliau menolak memberikan hewan tunggangan. Kemudian kami meminta lagi, tapi beliau bersumpah untuk tidak memberikan hewan tunggangan kepada kami. Tidak lama kemudian, beliau shallallahu 'alaihi wasallam memberikan kepada kami unta ghanimah. Lalu menyuruh kami untuk mengambil beberapa ekor dari unta itu. Tatkala unta itu telah kami bawa, kami berkata; Rasulullah shallallahu 'alaihi wasallam telah lupa dengan sumpahnya. Sungguh, setelah ini kita tidak akan beruntung! Lalu kami menemui Nabi shallallahu 'alaihi wasallam seraya berkata; Ya Rasulullah, bukankah engkau telah bersumpah tidak akan memberikan kepada kami hewan tunggangan, tapi kenapa engkau memberikannya kepada kami? Beliau menjawab: "Ya, sebab jika aku bersumpah atas sesuatu dan ternyata di sana ada yang lebih baik dari itu tentu aku akan melakukan yang terbaik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4385</td></tr><tr><td>Arabic No</td><td>4385</td></tr><tr><td>Reference</td><td>Book 64 Hadith 408</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «(Однажды) мы, несколько человек из числа аш‘аритов, пришли к Пророку ﷺ и попросили его дать нам каких-нибудь верховых животных, однако он отказал нам в этом. Потом мы (ещё раз обратились к нему с этой просьбой), и тогда он поклялся, что не даст их нам, но через короткое время после этого ему привели верблюдов, являвшихся частью военной добычи, и он велел отдать нам пять (из них). Взяв их, мы сказали: “(Получилось так, что) из-за нас Пророк ﷺ забыл о своей клятве, и после этого мы никогда уже не преуспеем!” Тогда я пришёл к (Пророку ﷺ) и сказал (ему): “О Посланник Аллаха, (сначала) ты поклялся, что не дашь нам верховых животных, а потом дал их нам!” — (на что) он ответил: “Да, но, когда я даю какую-нибудь клятву, а потом вижу, что есть более хорошее решение, я обязательно делаю то, что лучше, а (от этой клятвы) освобождаюсь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4385</td></tr><tr><td>Arabic No</td><td>4385</td></tr><tr><td>Reference</td><td>Book 64 Hadith 408</td></tr></tbody></table></div>
 

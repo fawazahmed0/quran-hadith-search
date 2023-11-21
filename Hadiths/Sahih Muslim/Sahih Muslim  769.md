@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by Ibn Abu Fudaik and Dabbik b. 'Uthman with the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>338.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис был передан Ибн Аби Фудайком и Даххаком ибн ‘Усманом с этим же иснадом, и но в их версии вместо “’аура” сказано “’урья” (нагота) мужчины и ‘урья женщины
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>338.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 91</td></tr></tbody></table></div>
 

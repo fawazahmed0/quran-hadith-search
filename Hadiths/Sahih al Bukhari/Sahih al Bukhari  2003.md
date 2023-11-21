@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid bin 'Abdur Rahman:That he heard Muawiya bin Abi Sufyan on the da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Humaid bin 'Abdurrahman] bahwa dia mendengar [Mu'awiyah bin Abu Sufyan radliallahu 'anhuma] pada hari 'Asyura' ketika tahun penyelenggaraan haji dari atas mimbar berkata: Wahai penduduk Madinah, mana para 'ulama kalian? Aku pernah mendengar bersabda: "Ini adalah hari 'Asyura' dan Allah belum mewajibkan puasa atas kalian dan sekarang aku sedang berpuasa, maka siapa yang mau silakan berpuasa dan siapa yang tidak mau silakan berbuka (tidak berpuasa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2003</td></tr><tr><td>Arabic No</td><td>2003</td></tr><tr><td>Reference</td><td>Book 30 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Во времена джахилийи курайшиты постились в день ‘Ашуры, и Посланник Аллаха ﷺ также постился в этот день. Когда он прибыл в Медину, то (не перестал) поститься в этот день и велел другим соблюдать этот пост. Когда же в обязанность был вменён пост в рамадане, он перестал (поститься) в день ‘Ашуры, и (с тех пор) кто хотел, соблюдал этот пост, а кто не хотел, не делал этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2003</td></tr><tr><td>Arabic No</td><td>2003</td></tr><tr><td>Reference</td><td>Book 30 Hadith 108</td></tr></tbody></table></div>
 

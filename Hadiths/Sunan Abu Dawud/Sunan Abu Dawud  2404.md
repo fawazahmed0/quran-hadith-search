@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) left Medina for Mecca till he reached 'Usf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu 'Uwanah], dari [Manshur], dari [Mujahid] dari [Thawus] dari [Ibnu Abbas], ia berkata; Nabi shallallahu 'alaihi wasallam keluar dari Madinah menuju ke Mekkah hinggga sampai ke 'Usfan, kemudian beliau meminta bejana dan mengangkatnya ke mulut beliau agar orang-orang melihatnya. Dan hal tersebut terjadi pada Bulan Ramadhan. Ibnu Abbas berkata; Nabi shallallahu 'alaihi wasallam telah berpuasa dan berbuka, barangsiapa yang berkehendak maka ia berpuasa dan barangsiapa yang berkehendak maka ia berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1948) Sahih Muslim (1133)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2404</td></tr><tr><td>Arabic No</td><td>2404</td></tr><tr><td>Reference</td><td>Book 14 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды Пророк ﷺ отправился из Медины в Мекку. Добравшись до Усфана, он велел принести себе сосуд и поднёс его к губам, чтобы люди видели. А было это в рамадане. Ибн ‘Аббас говорил, что Пророк ﷺ постился и разговелся, и кто хотел, продолжил поститься, а кто хотел, разговелся
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1948) Sahih Muslim (1133)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2404</td></tr><tr><td>Arabic No</td><td>2404</td></tr><tr><td>Reference</td><td>Book 14 Hadith 92</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hafsah, Ummul Mu'minin: The Prophet (ﷺ) said: It is necessary for eve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid bin Khalid Ar-Ramli] telah mengabarkan kepada kami [Al-Mufadldlal bin Fadlalah] dari ['Ayyasy bin Abbas] dari [Bukair] dari [Nafi'] dari [Ibnu Umar] dari [Hafshah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Atas setiap orang yang sudah bermimpi (baligh), maka wajib pergi melaksanakan shalat Jum'at, dan atas yang berangkat shalat Jum'at wajib mandi." Abu Dawud berkata; Apabila seseorang setelah terbit matahari, cukup baginya sebagai mandi untuk shalat jum'at, walaupun dia mandi junub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>342</td></tr><tr><td>Arabic No</td><td>342</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара о том, что Хафса сообщила, что Пророк ﷺ сказал: «Каждый совершеннолетний обязан отправляться на пятничную молитву, и каждый отправляющийся на пятничную молитву обязан искупаться».Абу Дауд сказал: «Если человек искупался после наступления рассвета, то это заменит ему пятничное купание, даже если он был осквернен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>342</td></tr><tr><td>Arabic No</td><td>342</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
 

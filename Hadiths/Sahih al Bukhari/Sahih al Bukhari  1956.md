@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi 'Aufa:We were traveling with Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami [Asy-Syaibaniy Sulaiman] berkata, aku mendengar ['Abdullah bin Abu Awfa radliallahu 'anhu] berkata; Kami pernah bepergian Rasulullah shallallahu 'alaihi wasallam, ketika itu Beliau berpuasa. Ketika matahari terbenam, Beliau berkata: "Turunlah, dan siapkanlah minuman buat kami". Orang yang disuruh itu berkata: "Wahai Rasulullah, bagaimana jika kita menunggu hingga sore". Beliau berkata: "Turunlah dan siapkan minuman buat kami". Orang itu berkata, lagi: "Sekarang masih siang". Beliau berkata, lagi: "Turunlah dan siapkan minuman buat kami"." Maka orang itu turun lalu menyiapkan minuman buat mereka. Setelah minum lalu Nabi shallallahu 'alaihi wasallam berkata: "Apabila kalian telah melihat malam sudah datang dari arah sana maka orang yang puasa sudah boleh berbuka ". Beliau memberi isyarat dengan jari Beliau ke arah timur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1956</td></tr><tr><td>Arabic No</td><td>1956</td></tr><tr><td>Reference</td><td>Book 30 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Абу Ауфа, да будет доволен им Аллах, сказал: «(Однажды) мы находились в пути вместе с посланником Аллаха ﷺ который постился. Когда солнце зашло, он сказал (одному человеку): “Спешься и размешай для нас (еду).” Этот человек сказал: “О Посланник Аллаха, (не подождать ли тебе) до вечера?” (Пророк ﷺ снова) сказал: “Спешься и размешай для нас (еду)”. (Человек) сказал: “О Посланник Аллаха, ты должен (поститься весь) день!” (Пророк ﷺ в третий раз) сказал: “Спешься и размешай для нас (еду)”, и тогда тот спешился и размешал еду, после чего (Пророк ﷺ) сказал: “Когда увидите, что отсюда надвигается ночь, постящемуся следует разговляться”, и указал пальцем на восток»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1956</td></tr><tr><td>Arabic No</td><td>1956</td></tr><tr><td>Reference</td><td>Book 30 Hadith 63</td></tr></tbody></table></div>
 

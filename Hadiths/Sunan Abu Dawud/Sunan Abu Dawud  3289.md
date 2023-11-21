@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Messenger of Allah (ﷺ) as saying: If anyone vows to obey 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik], dari [Thalhah bin Abdul Malik Al Aili], dari [Al Qasim] dari [Aisyah] radliallahu 'anha ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang bernadzar untuk mentaati Allah, maka hendaknya ia mentaatiNya dan barangsiapa yang bernadzar untuk bermaksiat kepada Allah maka janganlah ia bermaksiat (melakukannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6696، 6700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3289</td></tr><tr><td>Arabic No</td><td>3289</td></tr><tr><td>Reference</td><td>Book 22 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что сестра ‘Укбы ибн ‘Амира дала обет идти к Дому пешком, однако Пророк ﷺ велел ей ехать верхом (, потому что она была не в состоянии идти пешком,) и принести в жертву животное
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6696، 6700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3289</td></tr><tr><td>Arabic No</td><td>3289</td></tr><tr><td>Reference</td><td>Book 22 Hadith 48</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that some Jews came to Allah's Apostle (ﷺ) and they said:Abu'l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Muslim] dari [Masruq] dari ['Aisyah] ia berkata; "Serombongan orang-orang Yahudi menemui Rasulullah shallallahu 'alaihi wasallam, lalu mereka mengucapkan: Assaamu 'alaika (kematian bagimu) wahai Abu Al Qasim." Nabi shallallahu 'alaihi wasallam menjawab; 'Wa Alaikum.' 'Aisyah menjawab; 'Bal 'alaikumus saam wal la'nah (bahkan kematian bagi kalian dan kehinaan).' Maka Rasulullah shallallahu 'alaihi wasallam berkata; 'Ya, 'Aisyah! Kamu jangan mengucapkan perkataan yang jelek.' 'Aisyah menjawab; 'Tidakkah Anda mendengar ucapan mereka? ' Jawab beliau: 'Bukankah aku telah menjawabnya atas apa yang mereka ucapkan, aku katakan kepada mereka; Wa Alaikum.' Telah menceritakannya kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Ya'la bin 'Ubaid]; Telah menceritakan kepada kami [Al A'masy] melalui sanad ini. Tapi dia berkata dengan sedikit tambahan; 'Maka dengan cerdasnya Aisyah langsung mengerti apa yang mereka ucapkan dan langsung membalas celaan mereka. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata; 'Cukup Aisyah! Sesungguhnya Allah tidak menyukai keburukan di balas dengan keburukan.' Juga dia menambahkan; maka Allah menurunkan ayat; 'Dan Apabila mereka mendatangimu dan mengucapkan ucapan selamat dengan sesuatu yang tidak Allah perintahkan….dan seterusnya hingga akhir ayat. (QS. Al Mujaadalah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5658</td></tr><tr><td>Arabic No</td><td>2165.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5658</td></tr><tr><td>Arabic No</td><td>2165.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 13</td></tr></tbody></table></div>
 

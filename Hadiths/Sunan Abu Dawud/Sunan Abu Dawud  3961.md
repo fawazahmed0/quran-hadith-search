@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Imran b. Husain said:A man emancipated six slaved at the time of his death and h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] dari [Yahya bin 'Atiq] dan [Ayyub] dari [Muhammad bin Sirin] dari [Imran bin Hushain], bahwa seorang laki-laki telah memerdekakan enam budak dengan syarat sepeninggalnya, sementara ia tidak memiliki harta selain mereka. Kemudian hal tersebut sampai kepada Nabi shallallahu 'alaihi wasallam. Beliau pun mengundi di antara mereka dan memerdekakan dua orang dan menyisakan empat orang sebagai budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (1668)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3961</td></tr><tr><td>Arabic No</td><td>3961</td></tr><tr><td>Reference</td><td>Book 31 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что один человек обещал свободу шести своим рабам после своей смерти, а другого имущества у него не было. Узнав о его поступке, Пророк ﷺ велел им бросить жребий, в результате которого двое получили свободу, а остальные четверо остались в рабстве
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (1668)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3961</td></tr><tr><td>Arabic No</td><td>3961</td></tr><tr><td>Reference</td><td>Book 31 Hadith 36</td></tr></tbody></table></div>
 

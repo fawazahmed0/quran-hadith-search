@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn al-Harith ; or Uncle of Mujibah al-Bahiliyyah: The father 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], Telah menceritakan kepada kami [Hammad] dari [Sa'id Al Jurairi], dari [Abu As Salil] dari [Mujibah Al Bahili], dari [ayahnya] atau pamannya bahwa ia datang kepada Rasulullah shallallahu 'alaihi wasallam kemudian pergi, kemudian ia datang kepada beliau setelah satu tahun, dan keadaan serta penampilannya telah berubah. Kemudian ia berkata; wahai Rasulullah, apakah engkau mengenalku? Beliau berkata: "Siapa kamu?" Ia berkata; saya adalah Al Bahili yang telah datang kepada engkau pada tahun pertama. Beliau berkata: "Apakah yang telah mengubahmu? Dahulu penampilanmu baik." Ia berkata; saya tidak makan kecuali pada malam hari semenjak saya berpisah dengan engkau. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Kenapa engkau menyiksa dirimu?" kemudian beliau berkata: "Berpuasalah pada bulan yang penuh kesabaran (Bulan Ramadhan), dan satu hari setiap bulan." Ia berkata; tambahkan untukku, karena sesungguhnya saya kuat. Beliau berkata: "Berpuasalah dua hari!" Ia berkata; tambahkan untukku! Beliau berkata: "Berpuasalah tiga hari!" Ia berkata; tambahkan untukku! Beliau berkata: "Berpuasalah sebagian dari bulan hurum (Rajab, Dzul Qa'dah, Dzul Hijjah dan Al Muharram)." Beliau mengatakannya dengan memberi isyarat menggunakan ketiga jari-jarinya, beliau menggenggamnya kemudian membukanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2428</td></tr><tr><td>Arabic No</td><td>2428</td></tr><tr><td>Reference</td><td>Book 14 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Муджиба аль-Бахилийя рассказывает, что её отец или дядя со стороны отца пришёл к Посланнику Аллаха ﷺ, а потом расстался с ним и снова пришёл к нему через год. Его внешний вид изменился. Он сказал: «О Посланник Аллаха! Разве ты не узнаёшь меня?» Посланник Аллаха ﷺ спросил: «Кто же ты?» Он сказал: «Я бахилит, который приходил к тебе год назад». Посланник Аллаха ﷺ спросил: «Что же так изменило тебя? Ведь ты был человеком видным и красивым». Он сказал: «С тех пор как я расстался с тобой, я ел только по ночам». Посланник Аллаха ﷺ спросил: «Зачем же ты мучил себя?» Затем Посланник Аллаха ﷺ сказал: «Постись месяц терпения полностью и по одному дню во все остальные месяцы». Он попросил: «Добавь мне, ибо у меня достаточно сил!» Посланник Аллаха ﷺ сказал: «Постись два дня каждый месяц». Он попросил: «Добавь мне!» Посланник Аллаха ﷺ сказал: «Постись три дня каждый месяц». Он попросил: «Добавь мне!» Посланник Аллаха ﷺ сказал: «Постись в заповедные месяцы и оставляй пост! Постись в заповедные месяцы и оставляй пост! Постись в заповедные месяцы и оставляй пост!» Говоря это, Посланник Аллаха ﷺ сомкнул три пальца, а потом снова развёл их в стороны
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2428</td></tr><tr><td>Arabic No</td><td>2428</td></tr><tr><td>Reference</td><td>Book 14 Hadith 116</td></tr></tbody></table></div>
 

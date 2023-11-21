@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying:Cover the vessels 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid]; Telah menceritakan kepada kami [Hasyim bin Al Qasim]; Telah menceritakan kepada kami [Al Laits bin Sa'd]; Telah menceritakan kepadaku [Yazid bin 'Abdullah bin Usamah bin Al Hadi Al Laitsi] dari [Yahya bin Sa'id] dari [Ja'far bin 'Abdullah bin Al Hakam] dari [Al Qa'qa' bin Hakim] dari [Jabir bin 'Abdullah] ia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tutuplah bejana-bejana, dan ikatlah tempat-tempat minuman, karena di suatu malam pada setiap tahunnya akan ada wabah penyakit (berbahaya) yang akan jatuh ke dalam bejana dan ketempat-tempat air yang tidak tertutup." Dan telah menceritakan kepada kami [Nashr bin 'Ali Al Jahdlami]; Telah menceritakan kepadaku [Bapakku]; Telah menceritakan kepada kami [Laits bin Sa'd] dengan Hadits dan sanad yang serupa, hanya saja dia berkata dengan kalimat 'Karena di suatu hari pada setiap tahunnya akan ada wabah penyakit'. Dia juga menambahkan pada akhir Haditsnya; Al laits berkata; 'Orang-orang 'Ajam (selain orang arab) diantara kami merasa takut pada hal itu sejak bulan pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5255</td></tr><tr><td>Arabic No</td><td>2014.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5255</td></tr><tr><td>Arabic No</td><td>2014.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 129</td></tr></tbody></table></div>
 

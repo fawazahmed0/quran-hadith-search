@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Musa reported The Messenger of Allah (ﷺ) as saying The faithful trustee wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah] dan [Muhammad bin Al 'Ala'], dan maknanya satu, mereka berkata; telah menceritakan kepada Kami [Abu Usamah] dari [Buraid bin Abdullah bin Abu Burdah] dari [Abu Burdah] dari [Abu Musa], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Sesungguhnya bendahara yang dapat dipercaya adalah orang yang memberikan apa yang diperintahkan kepadanya secara sempurna, dan hatinya merasa rela hingga ia menyerahkannya kepada orang yang diperintahkan untuk diberi oleh salah seorang dari para pemberi sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1438) Sahih Muslim (1023)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1684</td></tr><tr><td>Arabic No</td><td>1684</td></tr><tr><td>Reference</td><td>Book 9 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Мусы, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Честный кладовщик, который отдаёт то, что ему велят, в полной мере, от чистого сердца, и передаёт его тому, кому ему велят передать это, является одним из подающих милостыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1438) Sahih Muslim (1023)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1684</td></tr><tr><td>Arabic No</td><td>1684</td></tr><tr><td>Reference</td><td>Book 9 Hadith 129</td></tr></tbody></table></div>
 

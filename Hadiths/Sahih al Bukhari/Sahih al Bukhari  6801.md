@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubada bin As-Samit:I gave the pledge of allegiance to the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad Al Ju'fi] Telah menceritakan kepada kami [Hisyam bin Yusuf] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Idris] dari [Ubadah bin Ash Shamit] radliallahu 'anhu mengatakan, aku berbaiat kepada Rasulullah shallallahu 'alaihi wasallam bersama rombongan beberapa orang, maka Nabi bersabda: "Saya membai'at kalian untuk tidak menyekutukan Allah dengan sesuatu apapun, tidak mencuri, tidak berzina, tidak membunuh anak kalian dan tidak mengada-adakan kebohongan yang kalian ada-adakan diantara tangan dan kaki kalian, dan janganlah kalian bermaksiat kepadaku dalam perkara yang ma'ruf, barangsiapa diantara kalian yang memenuhi bai'atnya, maka pahalanya disisi Allah, dan barangsiapa diantara kalian melanggar kemudian dihukum di dunia, maka hukuman itu sebagai kaffarat baginya di dunia dan pensuci, dan barangsiapa Allah menutupinya, maka yang demikian terserah Allah, jika Allah berkehendak akan menyiksanya dan jika berkehendak akan mengampuninya." Abu Abdullah mengatakan; 'Jika pencuri bertaubat setelah tangannya dipotong, persaksiannya diterima dan setiap orang yang terkena hukuman had juga seperti ini, jika ia bertaubat, kesaksiannya diterima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6801</td></tr><tr><td>Arabic No</td><td>6801</td></tr><tr><td>Reference</td><td>Book 86 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убада ибн ас-Самит, да будет доволен им Аллах, сказал: «Я присягнул Посланнику Аллаха ﷺ на верность с несколькими людьми, и он сказал: “Присягните мне в том, что вы не будете поклоняться наряду с Аллахом никому и ничему, не будете воровать, прелюбодействовать, убивать своих детей, покрывать клеветой то, что между вашими руками и ногами, и не ослушаетесь меня в том, что касается одобряемого (шариатом). Кто из вас будет верен этому, тот получит награду от Аллаха. А кто совершит какой-либо из этих (грехов) и будет наказан в мире этом за это, для того это наказание станет искуплением и очищением. А кого покроет Аллах, то его участь будет зависеть от Аллаха: если Он пожелает, то подвергнет его мучениям, а если пожелает, то простит его”».\nАбу ‘Абдиллях (аль-Бухари) сказал: «Если вор покается после того, как ему отрубят руку, то его свидетельство принимается. И также каждый, к кому было применено установленное наказание: если он совершит покаяние, то его свидетельство принимается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6801</td></tr><tr><td>Arabic No</td><td>6801</td></tr><tr><td>Reference</td><td>Book 86 Hadith 30</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Every night when it is the l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari [Ibn Syihab] dari [Abu Abdullah Al Aghar] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Rabb kita Tabaraka wa Ta'ala setiap malam turun ke langit dunia ketika sepertiga malam, lantas Ia berkata, 'Siapa yang berdoa kepada-Ku maka aku beri, siapa yang meminta ampun kepada-Ku maka Aku ampuni?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7494</td></tr><tr><td>Arabic No</td><td>7494</td></tr><tr><td>Reference</td><td>Book 97 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Наш Всеблагой и Всевышний Господь нисходит каждую ночь в последнюю её треть к нижнему небу и говорит: “Кто станет взывать ко Мне, чтобы Я ответил ему? Кто станет просить Меня о чём-либо, чтобы Я даровал ему это? Кто станет просить у Меня прощения, чтобы Я простил ему?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7494</td></tr><tr><td>Arabic No</td><td>7494</td></tr><tr><td>Reference</td><td>Book 97 Hadith 120</td></tr></tbody></table></div>
 

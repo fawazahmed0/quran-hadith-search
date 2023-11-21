@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Wathila reported that Nafi' b. 'Abd al-Harith met 'Umar at 'Usfan and 'U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepadaku [bapakku] dari [Ibnu Syihab] dari [Amir bin Watsilah] bahwasanya; Nafi' bin Abdul Harits, pada suatu ketika bertemu dengan Khalifah [Umar] di 'Usfan. Ketika itu, Nafi' bertugas sebagai pejabat di kota Makkah. Umar bertanya kepada Nafi', "Siapa yang Anda angkat sebagai kepala bagi penduduk Wadli?" Nafi' menjawab, "Ibnu Abza." Umar bertanya lagi, "Siapakah itu Ibnu Abza?" Nafi' menjawab, "Salah seorang Maula (budak yang telah dimerdekakan) di antara beberapa Maula kami." Umar bertanya, "Kenapa Maula yang diangkat?" Nafi' menjawab, "Karena ia adalah seorang yang pintar tentang Kitabullah dan pandai tentang ilmu fara'idl (ilmu tentang pembagian harta warisan)." Umar berkata, "Benar, Nabi kalian shallallahu 'alaihi wasallam telah bersabda: 'Sesungguhnya Allah akan memuliakan suatu kaum dengan kitab ini (Al Qur'an) dan menghinakan yang lain.'" Dan telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] dan [Abu Bakar bin Ishaq] keduanya berkata, telah mengabarkan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata, telah menceritakan kepadaku [Amir bin Watsilah Al Laitsi] bahwa Nafi' bin Abdul Harits Al Khuza'i menjumpai [Umar bin Al Khaththab] di 'Usfan. Yakni serupa dengan hadits Ibrahim bin Sa'd dari Az Zuhri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1897</td></tr><tr><td>Arabic No</td><td>817.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 325</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Амира ибн Василя, что (однажды) Нафи’ ибн ‘Абд-аль-Харис встретил в ‘Усфане ‘Умара, назначившего его наместником Мекки, и (‘Умар) спросил: «Кого ты назначил править людьми, живущими в этой долине?» (Нафи’) сказал: «Ибн Абзу». (‘Умар) спросил: «А кто такой Ибн Абза?» (Нафи’) сказал: «Один из наших вольноотпущенников». (‘Умар) воскликнул: «И ты назначил править ими вольноотпущенника?» (Нафи’) сказал: «Поистине, он читает Книгу Всемогущего и Великого Аллаха и знает, (как следует делить) доли наследства». Тогда ‘Умар сказал: «Ваш Пророк ﷺ сказал: “Поистине, одних людей Аллах возвысит посредством этого Писания, а других унизит”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1897</td></tr><tr><td>Arabic No</td><td>817.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 325</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Al-Minhal:Abu Barza said, "The Prophet (ﷺ) used to offer the Fajr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abu Al Minhal] dari [Abu Barzah], bahwa Nabi shallallahu 'alaihi wasallam melaksanakan shalat shubuh, dan salah seorang dari kami dapat mengetahui siapa orang yang ada di sisinya. Dalam shalat tersebut beliau membaca antara enam puluh hingga seratus ayat. Dan beliau shalat Zhuhur saat matahari sudah condong, shalat 'Ashar saat salah seorang dari kami pergi ke ujung kota dan matahari masih terasa panas sinarnya. Dan aku lupa apa yang dibaca beliau saat shalat Maghrib. Dan beliau sering mengakhirkan pelaksanaan shalat 'Isya hingga sepertiga malam lalu melaksanakannya sampai pertengahan malam." [Mu'adz] berkata, Syu'bah berkata; "Aku pernah berjumpa denganya pada suatu hari, berkata, 'Atau sepertiga malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>541</td></tr><tr><td>Arabic No</td><td>541</td></tr><tr><td>Reference</td><td>Book 9 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абуль-Минхаль передал со слов Абу Барзы аль-Аслями, да будет доволен им Аллах, о том, что обычно (после того как) Пророк ﷺ совершал утреннюю молитву, каждый из нас мог разглядеть (лицо) своего соседа, и (во время этой молитвы) он прочитывал от шестидесяти до ста аятов. Полуденную молитву он совершал, как только солнце начинало клониться к закату, а послеполуденную — (по прошествии такого времени, которое требовалось) кому-нибудь из нас, чтобы успеть дойти до самой дальней (окраины) Медины и вернуться обратно, когда солнце ещё припекало».\n(Абуль-Минхаль сказал): «И я забыл, что (Абу Барза) сказал относительно закатной молитвы».\n(Абу Барза сказал): «И мы могли откладывать вечернюю молитву до истечения трети ночи», — а потом добавил: «И (даже) до середины ночи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>541</td></tr><tr><td>Arabic No</td><td>541</td></tr><tr><td>Reference</td><td>Book 9 Hadith 18</td></tr></tbody></table></div>
 

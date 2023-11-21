@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:I asked Allah's Messenger (ﷺ) "What is the biggest sin in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wail] dari ['Amru bin Syurahbil] dari ['Abdullah] berkata, "Pernah aku bertanya Nabi Shallahu'alaijiwasallam, dosa apa yang paling besar di sisi Allah?" Nabi menjawab, "Engkau menjadikan tandingan untuk Allah, padahal Dialah yang menciptamu." Aku lalu berkata, "Jika demikian berarti itu memang perkara besar!" kemudian aku bertanya lagi, 'Lalu apa lagi? ' Nabi menjawab: "Engkau membunuh anakmu karena kamu khawatir akan makan bersamamu." Kemudian saya bertanya, "Lantas apa lagi?" Nabi menjawab: "Engkau berzina dengan isteri tetanggamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7520</td></tr><tr><td>Arabic No</td><td>7520</td></tr><tr><td>Reference</td><td>Book 97 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шурахбиль передаёт от ‘Абдуллах (ибн Мас‘уда), да будет доволен им Аллах, который сказал: «(Однажды) я спросил Пророка ﷺ: “Какой грех является величайшим пред Аллахом?” Он ответил: “Придавать Аллаху равного, в то время как Он тебя создал”. Я сказал: «Поистине, это и в самом деле великий (грех)». Я спросил: “А потом?” (Пророк ﷺ) сказал: “Потом убийство собственного ребёнка из опасения того, что он будет есть вместе с тобой”. Я спросил: “А потом?” (Пророк ﷺ) сказал: “Потом прелюбодеяние с женой твоего соседа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7520</td></tr><tr><td>Arabic No</td><td>7520</td></tr><tr><td>Reference</td><td>Book 97 Hadith 145</td></tr></tbody></table></div>
 

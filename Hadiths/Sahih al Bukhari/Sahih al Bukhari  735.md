@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim bin 'Abdullah:My father said, "Allah's Messenger (ﷺ) used to ra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Salim bin 'Abdullah] dari [Bapaknya], bahwa Rasulullah shallallahu 'alaihi wasallam mengangkat tangannya sejajar dengan pundaknya ketika memulai shalat, ketika takbir untuk rukuk dan ketika bangkit dari rukuk dengan mengucapkan: 'SAMI'ALLAHU LIMAN HAMIDAH RABBANAA WA LAKAL HAMDU (Semoga Allah mendengar orang yang memuji-Nya. Ya Rabb kami, milik Engkaulah segala pujian) '. Beliau tidak melakukan seperti itu ketika akan sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>735</td></tr><tr><td>Arabic No</td><td>735</td></tr><tr><td>Reference</td><td>Book 10 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Салим ибн ‘Абдуллах сообщил со слов своего отца (‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими) о том, что, приступая к намазу, Посланник Аллаха ﷺ всегда поднимал руки до уровня плеч и он делал то же самое, когда произносил слова “Аллах велик /Аллаху акбар/” перед совершением поясного поклона. И он поднимал руки после того, как поднимал голову после совершения поясного поклона. При этом он говорил: «Да услышит Аллах того, кто воздал Ему хвалу, Господь наш, хвала Тебе! /Cами‘а-Ллах ли-ман хамидаху, Раббана, ва ляка-ль-хамд!/» И он не (поднимал рук) во время совершения земного поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>735</td></tr><tr><td>Arabic No</td><td>735</td></tr><tr><td>Reference</td><td>Book 10 Hadith 129</td></tr></tbody></table></div>
 

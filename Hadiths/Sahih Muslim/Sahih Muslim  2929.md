@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:We went with the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] -Zuhair berkata- Telah menceritakan kepada kami -Ishaq berkata- telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] radliallahu 'anha ia berkata; Kami pernah keluar bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam dan tidak maksud keculali untuk haji. Sesampainya di Makkah, kami melakukan thwaf di Baitullah, kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan: "Siapa yang membawa hadya (hewan kurban), maka ia boleh bertahallul." Maka orang-orang yang tidak membawa hadya pun bertahallul, isteri-isteri beliau juga tida membawa hadya, maka mereka pun bertahallul. Aisyah berkata; Tiba-tiba aku haid hingga aku tidak melakukan thawaf di Baitullah. Pada malam Hashbah saya berkata, "Wahai Rasulullah, orang-orang pada pulang dengan (membawa pahala) umrah dan haji, sementara aku pulang hanya (membawa pahala) haji." Beliau bertanya: "Apakah kamu tidak melakukan thawaf di malam hari saat kita sampai di Makkah?" Aisyah menjawab, "Tidak." Beliau bersabda: "Berangkatlah bersama saudaramu ke Tan'im, lalu berihramlah untuk umrah dan kita akan bertemu di tempat ini dan ini." Shafiyah berkata, "Saya tidak menyangka, kecuali kalian menunggu aku suci dan selesai melakukan thawaf, tetapi aku haid sehingga tidak mungkin aku thawaf." Beliau bersabda: "AQRA HALQA (semoga Allah menjadikannya mandul tidak beranak) bukankah kamu telah melaukan thawaf pada hari Nahr?" Shafiyyah menjawab, "Ya, benar." Beliau bersabda: "Tidak mengapa, berangkatlah." Aisyah berkata; Kemudian Rasulullah shallallahu 'alaihi wasallam pun menjumpaiku saat beliau pergi dari Makkah sementara aku datang. Ishaq berkata; Mutahabbithatun wa Mutahabbithun (berpaspasan di jalan). Dan Telah meceritakanny6a kepada kami [Suwaid bin Sa'id] dari [Ali bin Mushir] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] radliallahu 'anha, ia berkata; Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam, dan kami bertalbiyah dengan tidak menyebutkan haji dan umrah. Lalu ia pun menyebutkan hadits yang semakna dengan haditsnya Manshur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2929</td></tr><tr><td>Arabic No</td><td>1211.20</td></tr><tr><td>Reference</td><td>Book 15 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2929</td></tr><tr><td>Arabic No</td><td>1211.20</td></tr><tr><td>Reference</td><td>Book 15 Hadith 138</td></tr></tbody></table></div>
 

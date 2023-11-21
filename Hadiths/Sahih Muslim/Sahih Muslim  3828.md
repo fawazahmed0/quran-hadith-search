@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Il nous a été défendu qu'un citad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Yunus] dari [Ibnu Sirin] dari [Anas bin Malik], dia berkata; "Kami diperingatkan agar orang kota tidak memborong barang dagangan orang dusun walaupun ia adalah saudaranya atau ayahnya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3828</td></tr><tr><td>Arabic No</td><td>1523.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3828</td></tr><tr><td>Arabic No</td><td>1523.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 28</td></tr></tbody></table></div>
 

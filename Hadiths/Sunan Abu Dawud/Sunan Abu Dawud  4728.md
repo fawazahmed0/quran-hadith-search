@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Yunus Sulaim b. Jubair, client of Abu Hurairah, said :I heard Abu Hurairah r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Nashr] dan [Muhammad bin Yunus An Nasai] secara makna, keduanya berkata; telah menceritakan kepada kami [Abdullah bin Yazid Al Muqri] berkata, telah menceritakan kepada kami [Harmalah] -maksudnya Harmalah bin Imran- berkata, telah menceritakan kepadaku [Abu Yunus Sulaim bin Jubair] -mantan budak (yang telah dimerdekakan oleh) Abu Hurairah- ia berkata; Aku mendengar [Abu Hurairah] membaca ayat ini: (Sesungguhnya Allah menyuruh kamu menyampaikan amanat kepada yang berhak menerimanya) -Qs. An Nisa: 48- sampai pada firman-Nya (Sesungguhnya Allah adalah Maha Mendengar lagi Maha Melihat). Abu Hurairah berkata, "Aku melihat Rasulullah shallallahu 'alaihi wasallam meletakkan ibu jarinya ke telinga, sementara jari setelahnya pada mata." Abu Hurairah melanjutkan, "Aku melihat Rasulullah shallallahu 'alaihi wasallam membaca ayat tersebut seraya meletakkan kedua jarinya tersebut." Ibnu Yunus berkata, "Al Muqri menyebutkan bahwa makna ayat: (Sesungguhnya Allah Maha Mendengar dan Maha Melihat) adalah, bahwa Allah memiliki penglihatan dan pendengaran." Abu Dawud berkata, "Ini adalah bantahan untuk orang-orang Jahmiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4728</td></tr><tr><td>Arabic No</td><td>4728</td></tr><tr><td>Reference</td><td>Book 42 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Юнус Суляйм ибн Джубайр, вольноотпущенник Абу Хурайры, передаёт: «Я слышал, как Абу Хурайра читал аят “Воистину, Аллах велит вам возвращать вверенное на хранение имущество его владельцам и судить по справедливости, когда вы судите среди людей. Как прекрасно то, чем увещевает вас Аллах! Воистину, Аллах Слышащий, Видящий”. И Абу Хурайра рассказывал: “Я видел, как Посланник Аллаха ﷺ читал аят и прикладывал два пальца (к глазу и к уху)”». Ибн Юнус сказал: «Аль-Мукри сказал: “(То есть при произнесении слов) “Воистину, Аллах Слышащий, Видящий” (он делал жест, призванный показать), что у Аллаха есть слух и зрение”». Абу Дауд сказал: «Это довод против джахмитов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4728</td></tr><tr><td>Arabic No</td><td>4728</td></tr><tr><td>Reference</td><td>Book 42 Hadith 133</td></tr></tbody></table></div>
 

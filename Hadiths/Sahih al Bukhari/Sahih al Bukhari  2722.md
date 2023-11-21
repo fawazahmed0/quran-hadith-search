@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' bin Khadij:We used to work on the fields more than the other Ansa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Malik bin Isma'il] telah bercerita kepada kami [Ibnu 'Uyainah] telah bercerita kepada kami [Yahya bin Sa'id] berkata aku mendengar [Hanzholah Az Zuraqiy] berkata aku mendengar [Rofi' bin Khodij radliallahu 'anhu] berkata: "Kami adalah orang Anshor yang paling banyak memiliki kebun dan kami memperkerjakan orang untuk menggarap ladang dan apabila ada hasilnya penggarapnya mendapatkan bagian dan bila tidak maka tidak dapat bagian. Kemudian kami dilarang mempraktekkan ini namun kami tidak dilarang bila memberi upah dengan uang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2722</td></tr><tr><td>Arabic No</td><td>2722</td></tr><tr><td>Reference</td><td>Book 54 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ ибн Хадидж, да будет доволен им Аллах, сказал: «Мы занимались земледелием больше других ансаров и брали землю в аренду. И иногда одна часть земли оказывалась плодородной, а другая — нет. Поэтому нам было запрещено заниматься этим, но не было запрещено делать это за деньги»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2722</td></tr><tr><td>Arabic No</td><td>2722</td></tr><tr><td>Reference</td><td>Book 54 Hadith 11</td></tr></tbody></table></div>
 

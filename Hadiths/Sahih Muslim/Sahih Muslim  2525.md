@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd b. Abi Waqqas (Allah be pleased with him) said that the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Isma'il bin Abu Khalid] telah menceritakan kepadaku [Muhammad bin Sa'd] dari [Sa'd bin Abu Waqash] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam menempelkan tangannya ke tangan yang lain seraya bersabda: "Jumlah bulan itu adalah begini dan begini (kemudian beliau mengurangi satu jarinya pada kali yang ketiga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2525</td></tr><tr><td>Arabic No</td><td>1086.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2525</td></tr><tr><td>Arabic No</td><td>1086.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 31</td></tr></tbody></table></div>
 

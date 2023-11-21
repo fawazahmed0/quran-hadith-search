@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) dit : Abou Bakr entra chez moi pendant que j'a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Usamah] dari [Hisyam] dari [bapaknya] dari [Aisyah] ia berkata; Abu Bakar masuk ke dalam rumahku, sementara di tempatku terdapat dua orang budak wanita Anshar sedang bernyanyi sebagaimana yang dibawakan oleh orang-orang Anshar pada hari Bu'ats. Ia berkata, "Namun keduanya bukanlah penyanyi yang terkenal." Maka Abu Bakar pun bertanya, "Apakah di tempat Rasulullah shallallahu 'alaihi wasallam terdapat nyanyian syetan?" Pada hari itu merupakan hari raya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Abu Bakar, sesungguhnya setiap kaum itu miliki hari raya, dan hari ini merupakan hari raya untuk kita." Dan telah menceritakannya kepada kami [Yahya bin Yahya] dan [Abu Kuraib] semuanya dari [Abu Mu'awiyah] dari [Hisyam] dengan isnad ini. Dan di dalamnya dikatakan; Dua budak wanita yang bermain rebana
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2061</td></tr><tr><td>Arabic No</td><td>892.01</td></tr><tr><td>Reference</td><td>Book 8 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) Абу Бакр вошёл ко мне в то время, когда у меня находились две девушки из числа ансаров, певшие песню о том, что говорили ансары друг другу в день “Бу‘ас”, и они не были певицами». Абу Бакр воскликнул: «(Как может) свирель шайтана (звучать) в доме Посланника Аллаха ﷺ?!» И это было в день праздника. Тогда Посланник Аллаха ﷺ сказал: «О Абу Бакр, у каждого народа есть свой праздник, а это наш праздник»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2061</td></tr><tr><td>Arabic No</td><td>892.01</td></tr><tr><td>Reference</td><td>Book 8 Hadith 16</td></tr></tbody></table></div>
 

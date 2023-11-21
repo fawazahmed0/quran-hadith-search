@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:A believer does not undergo (t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair]; Telah menceritakan kepada kami [Muhammad bin Bisyr]; Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada satupun musibah (cobaan) yang menimpa seorang muslim berupa duri atau yang semisalnya, melainkan dengannya Allah akan mengangkat menghapus kesalahannya." Telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Mu'awiyah]; Telah menceritakan kepada kami [Hisyam] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6563</td></tr><tr><td>Arabic No</td><td>2572.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6563</td></tr><tr><td>Arabic No</td><td>2572.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 61</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id:Abu Shuraih said, "When 'Amr bin Sa'id was sending the troops to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata,, telah menceritakan kepada saya [Al Laits] berkata, telah menceritakan kepada saya [Sa'id] dia adalah anaknya Abu Sa'id dari [Abu Syuraih] bahwa dia berkata kepada 'Amru bin Sa'id saat dia mengutus rombongan ke Makkah, "Wahai amir, izinkan aku menyampaikan satu persoalan yang pernah Nabi shallallahu 'alaihi wasallam sampaikan dalam khutbahnya saat pembebasan Makkah. Kedua telingaku mendengar, hatiku merasakannya dan kedua mataku melihat, beliau memuji Allah dan mensucikan Allah seraya bersabda: 'Sesungguhnya Makkah, Allah telah mensucikannya dan orang-orang (Musyrikin Makkah) tidak mensucikannya. Maka tidak halal bagi setiap orang yang beriman kepada Allah dan Hari Akhir menumpahkan darah di dalamnya, dan tidak boleh mencabut pepohonan di dalamnya. Jika seseorang minta keringanan karena peperangan yang pernah dilakukan oleh Rasulullah shallallahu 'alaihi wasallam di dalamnya maka katakanlah 'sesungguhnya Allah Ta'ala telah mengizinkan Rasul-Nya dan tidak mengizinkan kepada kalian.' Sesungguhnya Allah Ta'ala telah mengizinkanku pada satu saat pada siang hari kemudian dikembalikan kesuciannya hari ini sebagaimana disucikannya sebelumnya. Maka hendaklah yang hadir menyampaikan kepada yang tidak hadir." Maka dikatakan kepada Abu Syuraij, "Apa yang dikatakan 'Amru?" Dia berkata, "Aku lebih mengetahui daripadamu wahai Abu Syuraij: "Beliau tidak akan melindungi orang yang bermaksiat, orang yang menumpahkan darah dan orang yang mencuri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>104</td></tr><tr><td>Arabic No</td><td>104</td></tr><tr><td>Reference</td><td>Book 3 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Шурайх, да будет доволен им Аллах, сказал:\n— Я слышал, что сказал Посланник Аллаха ﷺ на следующий день после завоевания Мекки. Я слышал эти слова своими ушами, усвоил их своим сердцем, и я видел его собственными глазами, когда он говорил это. (Сначала Пророк ﷺ) воздал Аллаху хвалу и восславил Его, а потом сказал: «Поистине, Мекку объявил священной Аллах, а не люди, и поэтому непозволительно человеку, верующему в Аллаха и в Последний день, ни проливать в (этом городе) кровь, ни вырубать в нём деревья. Если же кто-нибудь посчитает это для себя допустимым(, ссылаясь на то, что) в Мекке сражался Посланник Аллаха, скажите ему: “Поистине, Аллах разрешил это Своему посланнику, но не разрешал вам!” Да и мне Он позволил делать это только в течение части этого дня, и сегодня она вновь стала столь же священной, как и вчера, так пусть же присутствующий известит (об этом) отсутствующего!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>104</td></tr><tr><td>Arabic No</td><td>104</td></tr><tr><td>Reference</td><td>Book 3 Hadith 46</td></tr></tbody></table></div>
 

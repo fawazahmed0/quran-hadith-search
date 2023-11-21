@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that when Allah's Messenger (ﷺ) happened to pass by you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Yahya]; Telah mengabarkan kepada kami [Husyaim] dari [Sayyar] dari [Tsabit Al Bunani] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam pernah bertemu dengan beberapa orang anak kecil, lalu beliau memberi salam kepada mereka." Dan telah menceritakannya kepadaku [Ismail bin Salim] Telah mengabarkan kepada kami [Husyaim]. Telah mengabarkan kepada kami [Sayyar] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5663</td></tr><tr><td>Arabic No</td><td>2168.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5663</td></tr><tr><td>Arabic No</td><td>2168.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 18</td></tr></tbody></table></div>
 

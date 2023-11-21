@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Talha:Slumber overtook us during the battle of Uhud while we were i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim bin 'Abdur Rahman Abu Ya'qub] Telah menceritakan kepada kami [Hushain bin Muhammad] Telah menceritakan kepada kami [Syaiban] dari [Qatadah] Telah menceritakan kepada kami [Anas] bahwa [Abu Thalhah] kami mendapati rasa kantuk yang sangat pada waktu kami dalam barisan perang Badar, lalu Abu Thalhah berkata, 'sehingga pedangku terjatuh dari tanganku, lalu aku mengambilnya, lalu jatuh kembali dan kembali aku mengambilnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4562</td></tr><tr><td>Arabic No</td><td>4562</td></tr><tr><td>Reference</td><td>Book 65 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Тальха сказал: «В день битвы при Ухуде дремота охватила нас, когда мы стояли рядами. Так, что мой меч выпал из моей руки, и я поднял его, и он снова упал, и я снова поднял его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4562</td></tr><tr><td>Arabic No</td><td>4562</td></tr><tr><td>Reference</td><td>Book 65 Hadith 84</td></tr></tbody></table></div>
 

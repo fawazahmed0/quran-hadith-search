@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah: The Messenger of Allah (ﷺ) used to sacrifice goat out of eve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Abdullah bin Utsman bin Khutsaim] dari [Yusuf bin Mahak], dari [Hafshah binti Abdurrahman] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kami untuk dikeluarkan zakat dari setiap lima puluh kambing satu ekor kambing. Abu Daud berkata; sebagian mereka mengatakan; fara' adalah anak unta yang pertama, dahulu mereka menyembelihnya untuk para berhala mereka, kemudian mereka memakannya, dan kulitnya dilemparkan ke pohon, sedangkan 'atirah ada pada sepuluh hari pertama pada Bulan Rajab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2833</td></tr><tr><td>Arabic No</td><td>2833</td></tr><tr><td>Reference</td><td>Book 16 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Посланник Аллаха ﷺ велел нам с каждых пятидесяти овец (отдавать) одну». Абу Дауд сказал: «Некоторые сказали, что фара‘ это первый приплод у верблюдов, который многобожники резали для своих идолов, а потом ели его и шкуру вешали на дерево. А ‘атира жертвоприношение, которое совершалось в первые десять дней раджаба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2833</td></tr><tr><td>Arabic No</td><td>2833</td></tr><tr><td>Reference</td><td>Book 16 Hadith 46</td></tr></tbody></table></div>
 

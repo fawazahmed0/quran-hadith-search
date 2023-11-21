@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Prophet (ﷺ) called 'Uthman b. Maz'un. When he came to him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Sa'd] telah menceritakan kepada kami [pamanku] telah menceritakan kepada kami [ayahku] dari [Ibnu Ishaq] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam mengutus seseorang menemui Utsman bin Mazh'un, lalu Utsman datang kepada beliau, maka beliau bersabda: "Apakah kamu membenci sunnahku?" Utsman menjawab; "Tidak, demi Allah wahai Rasulullah… bahkan sunnahmu lah yang amat kami cari." Beliau bersabda: "Sesungguhnya aku tidur, aku juga shalat, aku berpuasa dan juga berbuka, aku juga menikahi wanita. Bertakwalah kepada Allah wahai Utsman, sesungguhnya keluargamu mempunyai hak atas dirimu, dan tamumu mempunyai hak atas dirimu, dan kamu pun memiliki hak atas dirimu sendiri, oleh karena itu berpuasa dan berbukalah, kerjakanlah shalat dan tidurlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1369</td></tr><tr><td>Arabic No</td><td>1369</td></tr><tr><td>Reference</td><td>Book 5 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ послал за ‘Усманом ибн Маз‘уном и, когда тот пришёл, сказал ему: «О ‘Усман! Неужели ты отказываешься следовать моей Сунне?» ‘Усман сказал: «Нет, клянусь Аллахом, о Посланник Аллаха! Наоборот, я как раз стремлюсь следовать твоей Сунне». (Пророк ﷺ) сказал: «Но ведь (по ночам) я и сплю, и молюсь, пощусь иногда, а иногда оставляю пост, и я женюсь. Бойся же Аллаха, о ‘Усман! Поистине, у семьи твоей есть на тебя право, и у гостя твоего есть на тебя право, и у души твоей есть на тебя право. Поэтому постись иногда, а иногда оставляй пост, и молись по ночам, но и спи тоже»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1369</td></tr><tr><td>Arabic No</td><td>1369</td></tr><tr><td>Reference</td><td>Book 5 Hadith 120</td></tr></tbody></table></div>
 

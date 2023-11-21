@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that so far as these words of (Allah) Glorious and High are conc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yahya bin Zakariya'] dari [Hisyam bin Urwah] dari [bapaknya], dari [Aisyah] mengenai firman Allah, "Dan janganlah kamu mengeraskan suaramu dalam shalatmu, dan janganlah pula merendahkannya." Dia berkata, "Ayat ini diturunkan berkenaan dengan doa." Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hammad yakni Ibnu Zaid] --lewat jalur periwayatan lain-- dia berkata, dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abu Usamah] dan [Waki'] --lewat jalur periwayatan lain--. [Abu Kuraib] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] semuanya meriwayatkan dari [Hisyam] dengan sanad ini hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1002</td></tr><tr><td>Arabic No</td><td>447.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, (говоря) о (смысле) слов Великого и Могучего Аллаха «И не произноси (слова) своей молитвы ни (слишком) громко, ни (слишком) тихо» (Сура «аль-Исра», аят 110) ‘Аиша сказала: «В этом ниспосланном (свыше аяте говорится) об обращении к Аллаху с мольбой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1002</td></tr><tr><td>Arabic No</td><td>447.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 164</td></tr></tbody></table></div>
 

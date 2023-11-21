@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:I heard the Prophet (ﷺ) say: If any Muslim dies and forty 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Walid bin Syuja'As Sakuni], telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Abu Shakhr] dari [Syarik bin Abdullah bin Abu Namir] dari [Kuraib] dari [Ibnu Abbas], ia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang muslim meninggal dunia, kemudian terdapat empat puluh orang yang tidak mensekutukan Allah dengan sesuatupun berdiri untuk menshalatkan jenazahnya melainkan diterima syafa'at mereka untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (948)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3170</td></tr><tr><td>Arabic No</td><td>3170</td></tr><tr><td>Reference</td><td>Book 21 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Я слышал, как Пророк ﷺ сказал: «Каждый мусульманин, погребальную молитву по которому после его смерти совершат сорок человек, не придающих Аллаху сотоварищей, может рассчитывать на их заступничество»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (948)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3170</td></tr><tr><td>Arabic No</td><td>3170</td></tr><tr><td>Reference</td><td>Book 21 Hadith 82</td></tr></tbody></table></div>
 

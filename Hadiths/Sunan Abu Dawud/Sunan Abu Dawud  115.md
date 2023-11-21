@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ziyad bin Ayyub Ath Thusi] telah menceritakan kepada kami [Ubaidullah bin Musa] telah menceritakan kepada kami [Fithr] dari [Abu Farwah] dari [Abdurrahman bin Abi Laila], dia berkata; Saya pernah melihat [Ali radliallahu 'anhu] berwudhu, dia membasuh wajahnya tiga kali, membasuh kedua lengannya tiga kali, dan mengusap kepalanya satu kali, kemudian berkata; Beginilah Rasulullah shallallahu 'alaihi wasallam berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>115</td></tr><tr><td>Arabic No</td><td>115</td></tr><tr><td>Reference</td><td>Book 1 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абду-р-Рахман ибн Абу Лейля сказал: «Я видел, как (однажды) ‘Али, да будет доволен им Аллах, совершал омовение. Он помыл своё лицо три раза, и три раза помыл руки (включая локти), обтёр голову один раз, после чего сказал: “Так совершал омовение Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>115</td></tr><tr><td>Arabic No</td><td>115</td></tr><tr><td>Reference</td><td>Book 1 Hadith 115</td></tr></tbody></table></div>
 

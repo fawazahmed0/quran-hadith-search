@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Safwan b. Ya'la b. Munya reported on the authority of his father that there came
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami ['Atha] dari [Shafwan bin Ya'la bin Munabbih] dari [Ayahnya] dia berkata, "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam karena dia telah menggigit tangan laki-laki lain, kemudian laki-laki yang digigit menarik tangannya sehingga gigi depannya tanggal -yaitu gigi depan orang yang menggigit-. Ya'la berkata, "Lalu Nabi shallallahu 'alaihi wasallam tidak memberlakukan diat atasnya, bahkan beliau bersabda: "Apakah kamu ingin menggigitnya sebagaimana kuda jantan menggigit?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4371</td></tr><tr><td>Arabic No</td><td>1674.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4371</td></tr><tr><td>Arabic No</td><td>1674.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 30</td></tr></tbody></table></div>
 

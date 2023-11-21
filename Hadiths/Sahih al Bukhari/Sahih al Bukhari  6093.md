@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A man came to the Prophet (ﷺ) on a Friday while he (the Prophet)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mahbub] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas]. Dan di riwayatkan dari jalur lain, [Khalifah] pernah berkata kepadaku; telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas] radliallahu 'anhu bahwa seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam, ketika beliau tengah berkhutbah Jum'at di Madinah, laki-laki itu berkata; "Sudah sekian lama hujan tidak turun, maka mintalah hujan kepada Rabbmu!" lalu Nabi Shallallahu'alaihi wasallam melihat ke langit, dan tidak terlihat banyak awan. Lalu beliau beristisqa' (meminta hujan turun), tiba-tiba awan bermunculan dan saling menyatu antara satu dengan yang lain, hingga hujan pun turun dan mengalirlah aliran-aliran air di Madinah. Hal ini berlangsung sampai Jumat berikutnya dan tidak terhenti. Kemudian laki-laki tersebut atau yang lainnya berdiri saat Nabi shallallahu 'alaihi wasallam tengah berkhutbah, katanya; "Kami semua telah kebanjiran, maka berdo'alah kepada Rabbmu supaya menahan hujan dari kami". Beliaupun tersenyum kemudian berdo'a: "Ya Allah, turunkanlah (hujan) di sekitar kami dan bukan pada kami". Hingga dua atau tiga kali, maka awan-awan pun bergeser dari Madinah ke arah kanan dan kiri, menghujani di sekitarnya dan tidak turun di Madinah sedikitpun, ternyata Allah hendak memperlihatkan karomah kepada Nabi-Nya shallallahu 'alaihi wasallam dan mengabulkan do'anya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6093</td></tr><tr><td>Arabic No</td><td>6093</td></tr><tr><td>Reference</td><td>Book 78 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, рассказал о том, что (однажды) в пятницу, когда Пророк ﷺ произносил хутбу в Медине, к нему подошёл один человек и сказал: «Нас постигла засуха, так обратись же к своему Господу, чтобы Он послал нам дождь!» Пророк ﷺ посмотрел на небо, на котором мы не выдели ни облака, и обратился к Аллаху с мольбой, прося дождь. Как вдруг на небе собрались тучи, а затем пошёл дождь, и долины Медины начали наполнятся водой. Дождь продолжался до следующей пятницы. Затем, когда Пророк ﷺ, произносил (пятничную) хутбу, тот человек (или: другой) встал и сказал: «Мы утонули, так обратись же к своему Господу, чтобы Он остановил (дождь)». Пророк ﷺ засмеялся, а затем сказал дважды или трижды: «О Аллах, вокруг нас, а не на нас!» /Аллахумма хауляйна ля ‘аляйна/. И тучи стали стали рассеваться над Мединой направо и налево, а дождь стал идти вокруг Медины, но на неё ничего не попадало. (Таким образом) Аллах показал им (людям) чудо Своего Пророка ﷺ и то, как Он ответил на его призыв
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6093</td></tr><tr><td>Arabic No</td><td>6093</td></tr><tr><td>Reference</td><td>Book 78 Hadith 120</td></tr></tbody></table></div>
 

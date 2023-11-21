@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) forbade that a man sho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim Abu Yahya] berkata, telah mengabarkan kepada kami [Abu Ahmad Az Zubairi] berkata, telah menceritakan kepada kami [Ibrahim bin Thahman] dari [Abu Az Zubair] dari [Jabir] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang seorang mengenakan sandal sambil berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4135</td></tr><tr><td>Arabic No</td><td>4135</td></tr><tr><td>Reference</td><td>Book 34 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ запретил надевать сандалии стоя
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4135</td></tr><tr><td>Arabic No</td><td>4135</td></tr><tr><td>Reference</td><td>Book 34 Hadith 116</td></tr></tbody></table></div>
 

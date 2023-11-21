@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hurairah that he heard the Prophet (ﷺ) saying, "Allah decided to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6653</td></tr><tr><td>Arabic No</td><td>6653</td></tr><tr><td>Reference</td><td>Book 83 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «Поистине, Аллах пожелал подвергнуть испытанию троих из числа сынов Исраиля и отправил (к ним) ангела. Явился (ангел) к прокажённому и сказал (ему): “В пути я лишился всех средств, и не к кому мне сегодня обратиться, кроме Аллаха, а после (Него) — к тебе...». И он привёл хадис (полностью)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6653</td></tr><tr><td>Arabic No</td><td>6653</td></tr><tr><td>Reference</td><td>Book 83 Hadith 32</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Huraira (through another chain of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Suhail] dari [ayahnya] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apa yang dimaksud orang yang mati syahid di antara kalian?" para sahabat menjawab, "Wahai Rasulullah, orang yang meninggal karena berjuang di jalan Allah itulah orang yang mati syahid." Beliau bersabda: "Kalau begitu, sedikit sekali jumlah ummatku yang mati syahid." Para sahabat berkata, "Lantas siapakah mereka ya Rasulullah?" beliau bersabda: "Barangsiapa terbunuh di jalan Allah maka dialah syahid, dan siapa yang mati di jalan Allah juga syahid, siapa yang mati karena penyakit kolera juga syahid, siapa yang mati karena sakit perut juga syahid." [Ibnu Miqsam] berkata, "Saya bersaksi atas [bapakmu] mengenai hadits ini, bahwa beliau juga berkata, "Orang yang meninggal karena tenggelam juga syahid." Dan telah menceritakan kepadaku [Abdul Hamid bin Bayan Al Wasithi] telah menceritakan kepada kami [Khalid] dari [Suhail] dengan sanad seperti ini, namun dalam haditsnya disebutkan; [Suhail] berkata; [Ubaidullah bin Miqsam] berkata, "Saya bersaksi atas saudara laki-lakimu bahwa dalam hadits ini dia menambahkan, "Barangsiapa meninggal karena tenggelam, maka ia syahid." Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Suhail] dengan sanad ini, dan dalam haditsnya dia menyebutkan; telah mengabarkan kepadaku ['Ubaidullah bin Miqsam] dari [Abu Shalih] dan dia juga menambahkan, "Dan orang yang meninggal karena tenggelam juga syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4941</td></tr><tr><td>Arabic No</td><td>1915.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4941</td></tr><tr><td>Arabic No</td><td>1915.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 236</td></tr></tbody></table></div>
 

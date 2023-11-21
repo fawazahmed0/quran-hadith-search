@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. 'Umar reported the Messenger of Allah (ﷺ) as saying:If anyone ema
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Ibnu Lahi'ah] dan [Al Laits bin Sa'd] dari ['Ubaidullah bin Abu Ja'far] dari [Bukair bin Al Asyajj] dari [Nafi'] dari [Abdullah bin Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memerdekakan budak miliknya yang mempunyai harta, maka harta tersebut adalah milik si budak, kecuali jika sang tuan mempersyaratkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (2379)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3962</td></tr><tr><td>Arabic No</td><td>3962</td></tr><tr><td>Reference</td><td>Book 31 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Если кто-то освободил раба, у которого есть имущество, это имущество принадлежит ему, если только его господин не поставит иного условия»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (2379)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3962</td></tr><tr><td>Arabic No</td><td>3962</td></tr><tr><td>Reference</td><td>Book 31 Hadith 37</td></tr></tbody></table></div>
 

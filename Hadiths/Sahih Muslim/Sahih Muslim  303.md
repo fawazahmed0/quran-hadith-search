@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Thabit b. al-Dahhak that the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ghassan al-Misma'i] telah menceritakan kepada kami [Mu'adz] -yaitu Ibnu Hisyam- dia berkata, telah menceritakan kepada kami [bapakku] dari [Yahya bin Abu Katsir] dia berkata, telah menceritakan kepada kami [Abu Qilabah] dari [Tsabit bin adl-Dlahhak] dari Nabi shallallahu 'alaihi wasallam, beliau bersabada: "Seorang laki-laki tidak pantas bernazar dengan sesuatu yang dia tidak memilikinya, dan melaknat seorang mukmin adalah seperti membunuhnya. Barangsiapa membunuh dengan suatu (alat) di dunia, niscaya dia akan disiksa dengan alat tersebut pada hari kiamat. Barangsiapa mengklaim dengan klaim bohong untuk memperbanyak (harga barang) dengannya, niscaya Allah tidak akan menambahnya melainkan hanya penurunan harga. Dan barangsiapa bersumpah atas sesuatu dengan sumpah shabar (sumpah yang menahan pemiliknya untuk melakukan kejahatan) dan kekejian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>303</td></tr><tr><td>Arabic No</td><td>110.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Сабита ибн ад-Даххака, что Пророк ﷺ сказал: «Человеку не следует давать такие обеты, которые касаются того, что ему не принадлежит; и проклясть верующего всё равно, что убить его; и лишившего себя жизни (каким-либо предметом) в этом мире, в День воскресения будут подвергать мучениям (этим же предметом); и тому, кто заявит ложные притязания, чтобы посредством этого увеличить (своё имущество), Аллах добавит только уменьшения; и тому, кто солжёт, давая клятву удержания /ямину сабри/, (Аллах добавит только уменьшения)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>303</td></tr><tr><td>Arabic No</td><td>110.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 209</td></tr></tbody></table></div>
 

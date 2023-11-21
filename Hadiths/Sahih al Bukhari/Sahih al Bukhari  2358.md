@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "There are three persons whom
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami ['Abdul Wahid bin Ziyad] dari [Al A'masy] berkata, aku mendengar [Abu Shalih] berkata, aku mendengar [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada tiga jenis orang yang Allah Ta'ala tidak akan melihat mereka pada hari qiyamat dan tidak mensucikan mereka dan bagi mereka disediakan siksa yang pedih, yaitu seorang yang memiliki kelebihan air di jalan lalu dia tidak memberikannya kepada musafir, seorang yang membai'at imam dan dia tidak membai'atnya kecuali karena kepentingan-kepentingan duniawi, kalau dia diberikan dunia dia ridho kepadanya dan bila tidak dia marah dan seorang yang menjual dagangannya setelah 'Ashar lalu dia bersumpah; demi Allah Dzat yang tidak ada Ilah selain Dia subgguh aku telah memberikan (shadaqah) ini dan itu lalu sumpahnya itu dibenarkan oleh seseorang". Kemudian Beliau membaca ayat ini: artinya ("Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2358</td></tr><tr><td>Arabic No</td><td>2358</td></tr><tr><td>Reference</td><td>Book 42 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал:\n— Посланник Аллаха ﷺ сказал: «Не посмотрит Аллах на троих в День воскресения и не очистит их, и (уготовано) им мучительное наказание: на человека, имевшего излишки воды у дороги и отказавшего в ней путнику; и на человека, который приносит клятву (на верность) правителю(, руководствуясь) только мирскими (интересами), остаётся довольным, когда (правитель) даёт ему (что-то) за это, и проявляет недовольство, когда он ничего ему не даёт; и на человека, выставившего свой товар после послеполуденной молитвы и сказавшего: “Клянусь Аллахом, помимо Которого нет иного истинного бога, я отдал за него столько-то”, чему поверит какой-нибудь человек(, который купит это)», после чего (Пророк ﷺ) прочитал (аят, в котором говорится): «Поистине, для тех, которые продают завет Аллаха и свои клятвы за ничтожную цену, нет удела в мире ином: Аллах не заговорит с ними, и не посмотрит на них в День воскресения, и не очистит их, и (уготовано) им мучительное наказание» (Али ‘Имран, 3:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2358</td></tr><tr><td>Arabic No</td><td>2358</td></tr><tr><td>Reference</td><td>Book 42 Hadith 7</td></tr></tbody></table></div>
 

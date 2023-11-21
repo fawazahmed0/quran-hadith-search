@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) cursed women who imitate men and men who i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Ikrimah] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, Bahwasanya beliau melakanat para wanita yang menyurupai laki-laki, dan melaknat laki-laki yang menyerupai wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5885)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4097</td></tr><tr><td>Arabic No</td><td>4097</td></tr><tr><td>Reference</td><td>Book 34 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ проклял женщин, которые уподобляются мужчинам, и мужчин, которые уподобляются женщинам
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5885)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4097</td></tr><tr><td>Arabic No</td><td>4097</td></tr><tr><td>Reference</td><td>Book 34 Hadith 78</td></tr></tbody></table></div>
 

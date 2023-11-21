@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Asma (رضي الله عنها) : Je demandai à l'Envoyé de Dieu (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Ala'] Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari [Asma' binti Abu Bakar] ia berkata; (Ketika terjadi gencatan senjata dengan kaum Quraisy) ibuku mendatangiku yang ketika itu masih musyrik. Lalu aku meminta pendapat Rasulullah shallallahu 'alaihi wasallam, saya bertanya, "Wahai Rasulullah, Ibuku mendatangiku karena rindu padaku. Bolehkah aku menjalin silaturahmi dengan Ibuku?" Beliau menjawab: "Ya, sambunglah silaturahmi dengan ibumu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2325</td></tr><tr><td>Arabic No</td><td>1003.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Асма бинт Аби Бакр сказала: «После заключения мирного договора курайшитов (с Посланником Аллаха ﷺ) ко мне приехала моя мать, которая была многобожницей. Я обратилась за советом к Посланнику Аллаха ﷺ, сказав: “О Посланник Аллаха, ко мне приехал моя мать, которая чего-то хочет, так следует ли мне поддерживать с ней отношения?” (на что) он ответил: “Да, поддерживай отношения со своей матерью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2325</td></tr><tr><td>Arabic No</td><td>1003.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 62</td></tr></tbody></table></div>
 

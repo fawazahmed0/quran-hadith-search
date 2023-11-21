@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dawud said:An old man of the people of Wasit narrated from Abu Mansur al-Har
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Daud berkata; telah menceritakan kepada kami [seorang syaikh dari Wasith] ia berkata; telah menceritakan kepada kami [Abu Manshur Al Harits bin Manshur] ia berkata, aku mendengar [Sufyan Ats Tsauri] ia ditanya mengenai dadzi (biji yang diletakkan pada air perasan hingga mengeras dan memabukkan), kemudian ia menjawab, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh akan ada beberapa orang dari umatku yang minum khamer, mereka menamakannya dengan selain namanya." Abu Daud berkata, "Sufyan Ats Tsauri berkata, "Dadzi adalah minuman orang-orang fasik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3689</td></tr><tr><td>Arabic No</td><td>3689</td></tr><tr><td>Reference</td><td>Book 27 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Мансура аль-Хариса ибн Мансура: «Я слышал, как Суфьяна ас-Саури спросили о напитке дази, и он ответил, что Посланник Аллаха ﷺ сказал: “Люди из моей общины будут пить вино, называя его другими именами”». Абу Дауд сказал: «И Суфьян ас-Саури сказал: “Дази напиток нечестивцев”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3689</td></tr><tr><td>Arabic No</td><td>3689</td></tr><tr><td>Reference</td><td>Book 27 Hadith 21</td></tr></tbody></table></div>
 

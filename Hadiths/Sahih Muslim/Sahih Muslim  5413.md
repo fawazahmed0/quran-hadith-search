@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu 'Uthman reported:While we were with 'Utba b. Farqad there came a letter of '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami Ibnu Abu Syaibah dan dia ['Utsman] dan [Ishaq bin Ibrahim Al Handzali] keduanya dari [Jarir] dan lafazh ini milik Ishaq; Telah mengabarkan kepada kami [Jarir] dari [Sulaiman At Taimi] dari [Abu 'Utsman] ia berkata; "Ketika kami sedang bersama Uthbah bin Farqad, tiba-tiba datang kepada kami surat dari [Umar] yang berisi bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh memakai sutera. Karena orang-orang yang memakainya tidak akan mendapatkan apapun pada hari kiamat kelak, kecuali hanya seperti ini. Abu Utsman berkata sambil menunjukkan kedua jari tangan (yaitu telunjuk dan jari tengah). Maka aku melihat keduanya seperti aku melihat jubah Thayalis (baju tebal kekaisaran) ketika aku melihat jubah Thayalis dulu. Telah menceritakan kepada kami [Muhammad bin Abdul A'la]; Telah menceritakan kepada kami [Al Mu'tamir] dari [Bapaknya]; Telah menceritakan kepada kami [Abu 'Utsman] ia berkata; 'Dulu ketika kami bersama Utbah bin Farqad……dan seterusnya sebagaimana Hadits Jarir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5413</td></tr><tr><td>Arabic No</td><td>2069.05</td></tr><tr><td>Reference</td><td>Book 37 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5413</td></tr><tr><td>Arabic No</td><td>2069.05</td></tr><tr><td>Reference</td><td>Book 37 Hadith 28</td></tr></tbody></table></div>
 

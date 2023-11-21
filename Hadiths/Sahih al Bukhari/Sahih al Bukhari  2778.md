@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abu 'Abdur-Rahman narrated:When 'Uthman (ra) was circled (by the rebels), he loo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2778</td></tr><tr><td>Arabic No</td><td>2778</td></tr><tr><td>Reference</td><td>Book 55 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, когда ‘Усман, да будет доволен им Аллах, был осаждён, он посмотрел на (осаждавших сверху) и сказал: «Я заклинаю вас Аллахом и (ни о чём) не прошу никого, кроме сподвижников Пророка ﷺ. Разве вы не знаете, что Посланник Аллаха ﷺ сказал: “Тому, кто выкопает (колодец) Рума, (наградой послужит) рай”? И я выкопал его. Разве вы не знаете, что он сказал: “Тому, кто снарядит войско(, отправляющееся в) трудный (поход, наградой послужит) рай”? И я снарядил его», и они подтвердили сказанное им
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2778</td></tr><tr><td>Arabic No</td><td>2778</td></tr><tr><td>Reference</td><td>Book 55 Hadith 41</td></tr></tbody></table></div>
 

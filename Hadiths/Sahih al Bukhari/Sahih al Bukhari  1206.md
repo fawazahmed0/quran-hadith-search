@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) said, "A woman called her son whil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1206</td></tr><tr><td>Arabic No</td><td>1206</td></tr><tr><td>Reference</td><td>Book 21 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Женщина позвала своего сына, когда он был в своей кельи, сказав: “О, Джурейдж!” Он сказал: “О, Аллах, моя мать (зовет меня), а (я совершаю) свою молитву (что мне делать?)” Она сказала: “О, Джурейдж!” Он сказал: “О, Аллах, моя мать (зовет меня), а (я совершаю) свою молитву (что мне делать?)” Она сказала: “О, Джурейдж!” Он сказал: “О, Аллах, моя мать (зовет меня), а (я совершаю) свою молитву (что мне делать?)” Тогда она сказала: “О, Аллах, не дай умереть Джурейджу, пока он не посмотрит на лица блудниц!” Одна пастушка заходила к нему в келью, когда посла своих овец, и она родила ребенка. Люди спросили ее: “От кого этот ребенок?” Она ответила: “От Джурейджа, он вышел из своей кельи”. (Когда до Джурейджа дошло это), он сказал: “Где та женщина, которая утверждает, что ее ребенок от меня?” — (Когда ее привели к нему вместе с ребенком), Джурейдж спросил ребенка: “О, Бабус, кто твой отец?” Ребенок ответил: “Пастух овец”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1206</td></tr><tr><td>Arabic No</td><td>1206</td></tr><tr><td>Reference</td><td>Book 21 Hadith 10</td></tr></tbody></table></div>
 

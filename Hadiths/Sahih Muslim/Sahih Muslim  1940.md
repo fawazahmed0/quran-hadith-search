@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mughaffal Al-Muzanî (que Dieu l'agrée), le Prophète 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dan [Waki'] dari [Kahmas] ia berkata, telah menceritakan kepada kami [Abdullah bin Buraidah] dari [Abdullah bin Mughaffal Al Muzani] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Diantara setiap dua adzan itu ada shalat tathawwu'." Beliau mengulanginya hingga tiga kali. Dan pada kali yang ketiga beliau bersabda: "Bagi siapa saja yang mau mengerjakannya." Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la] dari [Al Jurairi] dari [Abdullah bin Buraidah] dari [Abdullah bin Mughaffal] dari Nabi shallallahu 'alaihi wasallam semisalnya. Hanya saja ia mengatakan; Pada kali yang keempat, "Bagi siapa yang mau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1940</td></tr><tr><td>Arabic No</td><td>838.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 368</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мугаффаль аль-Музани сказал: «(Как-то раз) Посланник Аллаха ﷺ трижды сказал: “Между каждыми двумя призывами молитва”, добавив на третий раз: “для того, кто (этого) пожелает”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1940</td></tr><tr><td>Arabic No</td><td>838.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 368</td></tr></tbody></table></div>
 

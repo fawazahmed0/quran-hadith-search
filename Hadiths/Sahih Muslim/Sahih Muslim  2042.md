@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar b. 'Ata' b. Abu Khuwar said that Nafi' b. Jubair sent him to al- Sa'ib the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Ibnu Juraij] ia berkata, telah mengabarkan kepadaku [Umar bin Atha' bin Abul Khuwar] bahwa Nafi' bin Jubair mengutusnya kepada [Sa'ib] putra saudara perempuan Namir untuk menanyakan sesuatu yang pernah dilihat oleh [Mu'awiyah] dalam shalat, maka Sa'ib berkata, "Benar aku pernah shalat Jum'at bersama Mu'awiyah di dalam Maqshurah (suatu ruangan yang dibangun di dalam masjid). Setelah imam salam aku berdiri di tempatku kemudian aku menunaikan shalat sunnah. Ketika Mu'awiyah masuk, ia mengutus seseorang kepadaku dan utusan itu mengatakan, 'Jangan kamu ulangi perbuatanmu tadi. Jika kamu telah selesai mengerjakan shalat Jum'at, janganlah kamu sambung dengan shalat sunnah sebelum kamu berbincang-bincang atau sebelum kamu keluar dari masjid. Karena Rasulullah shallallahu 'alaihi wasallam memerintahkan hal itu kepada kita yaitu 'Janganlah suatu shalat disambung dengan shalat lain, kecuali setelah kita mengucapkan kata-kata atau keluar dari Masjid.'" Dan telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Hajjaj bin Muhammad] ia berkata, [Ibnu Juraij] berkata; telah mengabarkan kepadaku [Umar bin Atha'] bahwa Nafi' bin Jubair telah mengutusnya kepada [Sa'ib bin Yazid bin Ukhti Namir]. Ia pun menyebutkan hadits yang semisalnya, hanya saja ia mengatakan; "Ketika ia salam, saya langsung berdiri di tempatku." Ia tidak menyebutkan kata Imam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2042</td></tr><tr><td>Arabic No</td><td>883.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Умар ибн ‘Ата передал, что (однажды) Нафи’ ибн Джубайр послал его к ас-Саъибу, сыну сестры Намира, чтобы спросить, как совершал молитву Му‘авия, чему (ас-Саъиб) был свидетелем. (В ответ на вопрос ‘Умара) он сказал: «Да, мне действительно довелось совершить с ним пятничную молитву в отдельном помещении, а после того, как имам произнёс слова таслима, я встал на том же месте, где находился, и совершил (дополнительную) молитву. Войдя (в свои покои, Му‘авия) послал за мной, (а когда я явился к нему), он сказал: “Больше не делай так. Совершив пятничную молитву, не приступай (к добровольной), пока не поговоришь (с кем-либо) или не покинешь (своё место), ибо, поистине, (поступать так) нам велел Посланник Аллаха ﷺ (он говорил), чтобы мы не совершали одну молитву сразу же после другой, пока не поговорим (с кем-либо) или не покинем (то место, где была совершена предыдущая молитва)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2042</td></tr><tr><td>Arabic No</td><td>883.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 92</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amir:Whenever Ibn 'Umar greeted the son of Ja'far, he used to say (to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakr] Telah menceritakan kepada kami [Umar bin Ali] dari [Ismail bin Abu Khalid] dari [Amir] katanya, [Ibnu Umar] jika memberi salam penghormatan kepada anak Ja'far ia mengatakan; ASSALAMU'ALAIKA YA IBNU DZIL JANAHAINI ' Salam sejahtera untukmu wahai putera yang mempunyai dua sayap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4264</td></tr><tr><td>Arabic No</td><td>4264</td></tr><tr><td>Reference</td><td>Book 64 Hadith 298</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Амир сказал: «Приветствуя Ибн Джа‘фара, Ибн ‘Умар обычно говорил: “Мир тебе, о сын зуль-джанахейн (обладателя двух крыльев)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4264</td></tr><tr><td>Arabic No</td><td>4264</td></tr><tr><td>Reference</td><td>Book 64 Hadith 298</td></tr></tbody></table></div>
 

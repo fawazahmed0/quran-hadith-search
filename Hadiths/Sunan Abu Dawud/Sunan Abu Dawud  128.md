@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Rubayyi’ daughter of Mu’awwidh b. ‘Afra’ reported:The Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Yazid bin Khalid Al Hamdani] mereka berdua berkata; Telah menceritakan kepada kami [Al-Laits] dari [Ibnu 'Ajlan] dari [Abdullah bin Muhammad bin 'Aqil] dari [Ar-Rubayyi' binti Mu'awwidz bin 'Afra'] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah berwudhu di sisinya, beliau mengusap semua kepalanya, dari ujung rambut, di setiap sisi sampai kepala bagian bawah rambut, tanpa membuat rambutnya bergerak dari keadaan semula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>128</td></tr><tr><td>Arabic No</td><td>128</td></tr><tr><td>Reference</td><td>Book 1 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Рубаййи‘ бинт Му‘аввиз ибн ‘Афраъ (да будет доволен ею Аллах): «Посланник Аллаха ﷺ совершал у неё омовение, и он обтёр всю свою голову, начиная с темени и переходя (вниз) во все стороны по направлению роста волос, не шевеля их, и не меняя, таким образом, их внешний вид»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>128</td></tr><tr><td>Arabic No</td><td>128</td></tr><tr><td>Reference</td><td>Book 1 Hadith 128</td></tr></tbody></table></div>
 

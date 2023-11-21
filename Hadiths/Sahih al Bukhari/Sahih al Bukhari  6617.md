@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When taking an oath, the Prophet (ﷺ) very often used to say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil Abul Hasan] telah mengabarkan kepada kami [Abdullah] telah memberitakan kepada kami [Musa bin Uqbah] dari [Salim] dari [Abdullah] berkata; Yang sering digunakan Nabi shallallahu 'alaihi wasallam untuk bersumpah adalah ucapan: "Wahai Dzat yang membolak-balikkan hati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6617</td></tr><tr><td>Arabic No</td><td>6617</td></tr><tr><td>Reference</td><td>Book 82 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «Принося клятву, Пророк ﷺ часто говорил: “Нет, клянусь Тем, Кто переворачивает сердца! /Ля, ва мукаллиби-ль-кулюб!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6617</td></tr><tr><td>Arabic No</td><td>6617</td></tr><tr><td>Reference</td><td>Book 82 Hadith 23</td></tr></tbody></table></div>
 

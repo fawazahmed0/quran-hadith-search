@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abu Huraira narrated that the Prophet (ﷺ) said:"On the Day of Resurrection a g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6585</td></tr><tr><td>Arabic No</td><td>6585</td></tr><tr><td>Reference</td><td>Book 81 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «В День воскресения группа моих сподвижников придёт ко мне, но их станут отгонять от водоёма /хауд/, и я скажу: “О Господь мой, (это же) мои сподвижники!” И будет сказано: “Ты не знаешь, что они внесли (в религию) после тебя, (после твоей смерти) они обратились вспять”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6585</td></tr><tr><td>Arabic No</td><td>6585</td></tr><tr><td>Reference</td><td>Book 81 Hadith 173</td></tr></tbody></table></div>
 

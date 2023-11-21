@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "One of the rights of a she camel i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Muhammad bin Fulaih] berkata, telah menceritakan kepadaku [bapakku] dari [Hilal bin 'Ali] dari ['Abdurrahman bin Abi 'Amrah] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Diantara hak unta adalah memberi minum susu untuk orang-orang miskin" (zakat bagi pemiliknya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2378</td></tr><tr><td>Arabic No</td><td>2378</td></tr><tr><td>Reference</td><td>Book 42 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Из права верблюдицы — то, чтобы ее подоили у воды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2378</td></tr><tr><td>Arabic No</td><td>2378</td></tr><tr><td>Reference</td><td>Book 42 Hadith 26</td></tr></tbody></table></div>
 

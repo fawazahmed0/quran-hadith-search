@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah and Zaid b. Khalid al-Juhani said:Two men brought a dispute before 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah bin Mas'ud] dari [Abu Hurairah] dan [Zaid bin Khalid Al juhani] bahwa keduanya telah mengabarkan kepadanya, bahwa ada dua orang laki-laki bersengketa dan mengadu kepada Rasulullah shallallahu 'alaihi wasallam. salah seorang dari mereka berkata, "Wahai Rasulullah, berilah putusan kepada kami sesuai dengan Kitabullah. Kemudian yang lainnya -dan ia yang lebih paham di antara keduanya- berkata, "Benar, wahai Rasulullah, berilah putusan kepada kami sesuai dengan Kitabullah. Dan berilah kesempatan kepadaku untuk berbicara." Beliau bersabda: "Berbicaralah." Laki-laki itu lalu berkata, "Anakku kerja kepada orang ini, lalu anakku berzina dengan isterinya. Kemudian orang-orang memberi kabar kepadaku bahwa anakku harus dirajam, maka aku menebusnya dengan seratus ekor domba dan seorang budak wanita kepunyaanku. Setelah itu aku bertanya kepada ahli ilmu, mereka memberi kabar kepadaku bahwa anakku harus didera seratus kali dan diasingkan selama satu tahun, sementara wanita tersebut harus dirajam." Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku ada dalam tangan-Nya, sungguh aku akan memberi putusan kepada kalian sesuai dengan Kitabullah. Kambing dan pembantu wanita milikmu akan dikembalikan kepadamu." Beliau lalu mendera putera laki-laki itu dan mengasingkannya selama satu tahun. Kemudian memerintahkan Unais Al Aslami untuk mendatangkan wanita tersebut, jika ia mengakui maka akan dirajam, wanita itu pun mengakuinya dan akhirnya dirajam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6633، 6634) Sahih Muslim (1698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>4445</td></tr><tr><td>Reference</td><td>Book 40 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры и Зейда ибн Халида аль-Джухани, да будет доволен Аллах ими обоими: «Как-то два человек обратились к Посланнику Аллаха ﷺ со своим делом и один из них сказал: “О Посланник Аллаха, рассуди нас согласно Книге Аллаха!” Второй, который был более просвещённым в вопросах религии, сказал: “Да, рассуди нас согласно Книге Аллаха и позволь мне высказаться”. (Посланник Аллаха ﷺ) сказал: “Говори”. Тот сказал: “Мой сын был наёмным работником у этого человека и совершил прелюбодеяние с его женой. Мне сказали, что за это моего сына следует подвергнуть побиванию камнями, но я отдал сто овец и рабыню в качестве выкупа за него. А потом я спросил об этом обладающих знанием и они сказали мне, что мой сын должен получить сто ударов и отправиться в изгнание на год, а побить камнями следует жену этого человека”. Тогда Посланник Аллаха ﷺ сказал: “Клянусь Тем, в Чьей руке моя душа, я обязательно рассужу вас согласно Книге Аллаха! Рабыня и овцы должны быть возвращены тебе”. И он велел нанести его сыну сто ударов и отправить его в изгнание на год. И он велел Унайсу аль-Аслями пойти к жене второго и, если она признается, побить её камнями. И она призналась и он побил её камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6633، 6634) Sahih Muslim (1698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>4445</td></tr><tr><td>Reference</td><td>Book 40 Hadith 95</td></tr></tbody></table></div>
 

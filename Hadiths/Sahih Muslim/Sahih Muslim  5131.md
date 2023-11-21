@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Le jour où l'interdiction de la con
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ar Rabi' Sulaiman bin Daud Al 'Ataki] telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid- telah mengabarkan kepada kami [Tsabit] dari [Anas bin Malik] dia berkata, "Saya pernah menuangkan khamer kepada sekelompok kaum di rumah Abu Thalhah ketika khamer diharamkan, dan saat itu mereka tidak minum kecuali dari Fadlih (minuman keras yang terbuat dari perasan kurma), kurma muda dan kurma masak. Tiba-tiba ada seseorang yang berseru, lantas Abu Thalhah berkata, "Keluarlah dan lihatlah apa yang terjadi." Ternyata seseorang berseru, katanya, "Tidakkah khamer telah diharamkan." Anas berkata, "Kemudian berita itu tersebar ke seluruh Kota Madinah, lantas Abu Thalhah berkata kepadaku, "Keluar dan baunglah." Maka saya langsung menumpahkannya. Saat itu orang-orang berkata, atau sebagian dari mereka berkata, "Seseorang telah meninggal, sedangkan khamer tersebut masih dalam perut mereka." -Tsabit berkata; "Namun saya tidak mengetahui apakah itu termasuk dari hadits Anas- Maka Allah Azza Wa Jalla berfirman: '(Tidak ada dosa bagi orang-orang yang beriman dan mengerjakan amalan shalih karena memakan makanan yang telah mereka makan dahulu, apabila mereka bertakwa dan beriman serta beramal shalih …) ' (? Qs. Al Maidah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5131</td></tr><tr><td>Arabic No</td><td>1980.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5131</td></tr><tr><td>Arabic No</td><td>1980.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 5</td></tr></tbody></table></div>
 

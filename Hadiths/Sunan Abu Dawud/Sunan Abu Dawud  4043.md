@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ali said:A robe containing silk was presented to the Messenger of Allah (ﷺ). H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Aun] ia berkata; Aku mendengar [Abu Shalih] menceritakan dari [Ali radliallahu 'anhu] ia berkata, "Rasulullah shallallahu 'alaihi wasallam diberi hadiah kain sutera, beliau lalu mengirimkannya kepadaku, maka aku pun memakainya. Setelah itu aku mendatangi beliau, tetapi aku melihat pada wajah beliau tanda kemarahan. Beliau bersabda: "Aku mengirimkan itu kepadamu bukan untuk engkau pakai." Beliau pun memerintahkan kepadaku (untuk memberikan kepada orang lain), sehingga kain itu aku bagikan untuk para perempuanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2071)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4043</td></tr><tr><td>Arabic No</td><td>4043</td></tr><tr><td>Reference</td><td>Book 34 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али, да будет доволен им Аллах: «Однажды Посланнику Аллаха ﷺ подарили отделанную шёлком одежду. Он отослал её мне. Я надел её и пришёл к нему. По его лицу я заметил, что он гневается. Он сказал: “Я дал тебе её не для того, чтобы ты надевал её!” и он велел мне разделить её между моими женщинами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2071)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4043</td></tr><tr><td>Arabic No</td><td>4043</td></tr><tr><td>Reference</td><td>Book 34 Hadith 24</td></tr></tbody></table></div>
 

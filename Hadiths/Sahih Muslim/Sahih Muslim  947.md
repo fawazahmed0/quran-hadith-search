@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:The Apostle of Allah (ﷺ) did not come to us for three days. When
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Harun bin Abdullah] keduanya berkata, telah menceritakan kepada kami [Abdushshamad] dia berkata, "Saya mendengar [bapakku] bercerita, dia berkata, telah menceritakan kepada kami [Abdul Aziz] dari [Anas] dia berkata, "Nabi Allah subhanahu wata'ala tidak keluar mengimami kami tiga hari, lalu shalat diiqamatkan, lalu Abu Bakar mulai maju. Maka Nabi shallallahu 'alaihi wasallam bersabda di balik hijab, lalu mengangkatnya. Ketika wajah Nabi shallallahu 'alaihi wasallam jelas pada kami, kami tidak pernah melihat pemandangan sama sekali yang lebih mengagumkan untuk kami daripada wajah Nabi shallallahu 'alaihi wasallam ketika menampakkan diri pada kami." Perawi berkata, "Lalu Nabi shallallahu 'alaihi wasallam memberikan isyarat dengan tangannya kepada Abu Bakar agar maju, dan Nabi shallallahu 'alaihi wasallam menutup tirai tersebut, dan kami tidak dapat melihatnya lagi hingga beliau meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>947</td></tr><tr><td>Arabic No</td><td>419.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас сказал: «Пророк Аллаха ﷺ не выходил к нам в течение трёх дней. (На четвёртый день), когда было провозглашено о начале молитвы и Абу Бакр вышел вперёд, (чтобы провести с людьми молитву), Пророк Аллаха ﷺ приподнял занавеску, и перед нами предстало его лицо, и не было для нас ничего милее, чем возможность взглянуть на лик Пророка ﷺ, когда оно предстало перед нами. Пророк Аллаха ﷺ подал Абу Бакру знак рукою, приказывая выйти вперёд (и провести молитву). Затем Пророк Аллаха ﷺ опустил завесу, и мы больше не могли видеть его, пока он не умер»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>947</td></tr><tr><td>Arabic No</td><td>419.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 109</td></tr></tbody></table></div>
 

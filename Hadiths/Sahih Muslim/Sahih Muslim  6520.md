@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jubayr Ibn Mut'im (que Dieu l'agrée), le Prophète (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ibnu Abu 'Umar] keduanya berkata; Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Muhammad bin Jubair bin Muth'im] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam bersabda: "Tidak masuk surga orang yang memutuskan." Ibnu Abu Umar berkata; Sufyan berkata; 'Yaitu yang memutuskan silaturrahmi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6520</td></tr><tr><td>Arabic No</td><td>2556.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6520</td></tr><tr><td>Arabic No</td><td>2556.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 20</td></tr></tbody></table></div>
 

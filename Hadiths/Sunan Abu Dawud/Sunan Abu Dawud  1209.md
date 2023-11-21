@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar: The Messenger of Allah (ﷺ) never combined the sunset and n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Abdullah bin Nafi'] dari [Abu Maudud] dari [Sulaiman bin Abu Yahya] dari [Ibnu Umar] dia berkata; "Rasulullah shallallahu 'alaihi wasallam sama sekali tidak pernah menjama' shalat Maghrib dan Isya' dalam suatu perjalanan kecuali hanya sekali." Abu Daud mengatakan; "Hadits ini di riwayatkan dari [Ayyub] dari [Nafi'] dari [Ibnu Umar]. Mauquf sampai Ibnu Umar, bahwa dirinya tidak pernah melihat bila beliau pernah menjama' keduanya kecuali hanya malam itu, yaitu malam ketika dia di beritahu wafatnya Shafiyah, dan di riwayatkan pula dari haditsnya [Makhul] dari [Nafi'] bahwa dia melihat [Ibnu Umar] melakukan hal itu hanya sekali atau dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1209</td></tr><tr><td>Arabic No</td><td>1209</td></tr><tr><td>Reference</td><td>Book 4 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ никогда не соединял в пути закатную /магъриб/ и вечернюю /‘иша/ молитвы, если не считать одного раза. Абу Дауд сказал: «Это передаётся от Айюба от Нафи‘ от Ибн ‘Умара как сообщение об Ибн ‘Умаре что Ибн ‘Умара видели соединяющим их только в ту ночь, то есть в ночь, когда его позвали к умирающей Сафийи. И передаётся от Макхуля от Нафи‘, что он видел, как Ибн ‘Умар делал это раз или два»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1209</td></tr><tr><td>Arabic No</td><td>1209</td></tr><tr><td>Reference</td><td>Book 4 Hadith 12</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ikrimah said:Ibn Abbas was informed that so-and-so, a certain wife of the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Utsman bin Abu Shafwan Ats Tsaqafi] telah menceritakan kepada kami [Yahya bin Katsir] telah menceritakan kepada kami [Salm bin Ja'far] dari [Al Hakam bin Aban] dari [Ikrimah] dia berkata; pernah di beritahukan kepada [Ibnu Abbas] bahwa fulanah -salah seorang dari istri Nabi shallallahu 'alaihi wasallam meninggal dunia-, lalu dia tersungkur sujud, dia ditanya; "Apakah kamu sujud karena hal ini?" Dia menjawab; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kalian melihat tanda-tanda kebesaran Allah, maka sujudlah!." Dan tanda kebesaran Allah yang manakah yang lebih besar dari pada wafatnya salah seorang dari istri Nabi shallallahu 'alaihi wasallam?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1197</td></tr><tr><td>Arabic No</td><td>1197</td></tr><tr><td>Reference</td><td>Book 3 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Икримы, что, когда Ибн ‘Аббасу сообщили о кончине одной из жён Пророка ﷺ он совершил земной поклон. Его спросили: «И в такое время ты падаешь ниц?» Он сказал в ответ: «Посланник Аллаха ﷺ сказал: “Когда увидите знамение, совершайте земной поклон. А какое знамение значительнее ухода из мира этого супруг Пророка ﷺ?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1197</td></tr><tr><td>Arabic No</td><td>1197</td></tr><tr><td>Reference</td><td>Book 3 Hadith 37</td></tr></tbody></table></div>
 

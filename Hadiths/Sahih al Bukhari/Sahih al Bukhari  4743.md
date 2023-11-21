@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais bin Ubad:Abu Dharr used to take an oath confirming that the Verse:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kami [Husyaim] Telah mengabarkan kepada kami [Abu Hasyim] dari [Abu Mijlaz] dari [Qais bin 'Ubad] dari [Abu Dzar radliallahu 'anhu] bahwa ia pernah bersumpah: sesungguhnya ayat ini: "Inilah dua golongan (golongan mukmin dan golongan kafir) yang bertengkar, mereka saling bertengkar mengenai Rabb mereka." (Al Hajj: 19). Ayat ini turun berkenaan dengan Hamzah dan kedua sahabatnya serta Utbah dan kedua sahabatnya pada hari perang Badar. Diriwayatkan oleh [Sufyan] dari [Abu Hasyim]. Dan 'Utsman berkata; dari Jarir dari Manshur dari Abu Hasyim dari Abu Mijlaz
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4743</td></tr><tr><td>Arabic No</td><td>4743</td></tr><tr><td>Reference</td><td>Book 65 Hadith 265</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, клялся, что аят, в котором говориться: «Вот две тяжущиеся группы, которые препирались относительно своего Господа», был ниспослан в отношении Хамзы и двух его товарищей, и ‘Утбы и двух его товарищей, в день, когда они участвовали в битве при Бадре
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4743</td></tr><tr><td>Arabic No</td><td>4743</td></tr><tr><td>Reference</td><td>Book 65 Hadith 265</td></tr></tbody></table></div>
 

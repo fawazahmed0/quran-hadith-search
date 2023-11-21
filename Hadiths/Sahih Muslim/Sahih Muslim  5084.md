@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uqba b. 'Amir reported that Allah's Messenger (ﷺ) gave the gifts of goats to b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam jalur lain disebtkan) Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir], bahwa Rasulullah shallallahu 'alaihi wasallam pernah memberikan kambing kepadanya supaya dia membagikannya kepada para sahabatnya. Setelah itu tidak ada yang tersisa melainkan seekor kambing yang masih muda, lantas dia memberitahukannya kepada Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Berkurbanlah dengannya." Qutaibah menyebutkan, "Atas para sahabatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5084</td></tr><tr><td>Arabic No</td><td>1965.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5084</td></tr><tr><td>Arabic No</td><td>1965.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A similar tradition has been narrated by Ibn Shihab through a different chain of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari ['Urwah] dari [Aisyah] bahwa ia berkata; sesungguhnya isteri-isteri Nabi shallallahu 'alaihi wasallam ketika Rasulullah shallallahu 'alaihi wasallam meninggal, mereka hendak mengirim Utsman bin 'Affan datang kepada Abu Bakr Ash Shiddiq dan bertanya kepadanya mengenai bagian seperdelapan mereka dari Nabi shallallahu 'alaihi wasallam. Kemudian Aisyah berkata; bukankah Rasulullah shallallahu 'alaihi wasallam telah mengatakan: "Kami tidak diwarisi, apa yang kami tinggalkan adalah sedekah." Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris], telah menceritakan kepada kami [Ibrahim bin Hamzah], telah menceritakan kepada kami [Hatim bin Isma'il] dari [Usamah bin Zaid] dari [Ibnu Syihab] dengan sanadnya seperti itu. Aku katakan; tidakkah kalian bertakwa kepada Allah? Bukankah kalian telah mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Kami tidak diwarisi, apa yang kami tinggalkan adalah sedekah." Sesungguhnya harta ini untuk keluarga Muhammad, untuk kebutuhan mereka dan tamu mereka. Kemudian apabila meninggal maka urusannya kepada pemimpin setelahku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2977</td></tr><tr><td>Arabic No</td><td>2977</td></tr><tr><td>Reference</td><td>Book 20 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии от Ибн Шихаба упоминается, что ‘Аиша, да будет доволен ею Аллах, сказала им: «Побойтесь Аллаха! Разве вы не слышали, как Посланник Аллаха ﷺ говорил: “Поистине, мы не оставляем наследства. Всё, что мы оставляем милостыня. Это имущество члены семьи Мухаммада могут использовать, если у них случится беда, и они могут расходовать из него на своих гостей. А когда я умру, оно должно перейти к тому, кто будет править после меня”?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2977</td></tr><tr><td>Arabic No</td><td>2977</td></tr><tr><td>Reference</td><td>Book 20 Hadith 50</td></tr></tbody></table></div>
 

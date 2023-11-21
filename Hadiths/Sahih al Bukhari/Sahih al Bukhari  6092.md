@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I never saw the Prophet (ﷺ) laughing to an extent that one cou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] dia berkata; telah menceritakan kepadaku [Ibnu Wahb] telah mengabarkan kepada kami ['Amru] bahwa [Abu Nadlr] telah menceritakan kepadanya, dari [Sulaiman bin Yasar] dari [Aisyah] radliallahu 'anha dia berkata; "Saya tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam tertawa terbahak-bahak hingga terlihat langit-langit dalam mulutnya, beliau hanya biasa tersenyum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6092</td></tr><tr><td>Arabic No</td><td>6092</td></tr><tr><td>Reference</td><td>Book 78 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я никогда не видела Пророка ﷺ смеющимся во весь рот так, чтобы был виден его язычок, ибо он только улыбался»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6092</td></tr><tr><td>Arabic No</td><td>6092</td></tr><tr><td>Reference</td><td>Book 78 Hadith 119</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "By Him in Whose Hands my sou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah biin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada di tangan-Nya, tidaklah seseorang terluka di jalan Allah, dan Allahlah yang paling tahu siapa yang terluka di jalan-Nya, kecuali dia akan datang pada hari qiyamat dalam keadaan berwarna dengan warna darah dan wanginya adalah semerbak minyak kasturi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2803</td></tr><tr><td>Arabic No</td><td>2803</td></tr><tr><td>Reference</td><td>Book 56 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Клянусь Тем, в Чьей длани душа моя, (если) кто-нибудь будет ранен на пути Аллаха, а Аллах лучше знает о тех, кто получит ранение на пути Его, он обязательно явится в День воскресения (со своей раной) цвета крови(, от которой будет исходить) аромат мускуса»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2803</td></tr><tr><td>Arabic No</td><td>2803</td></tr><tr><td>Reference</td><td>Book 56 Hadith 20</td></tr></tbody></table></div>
 

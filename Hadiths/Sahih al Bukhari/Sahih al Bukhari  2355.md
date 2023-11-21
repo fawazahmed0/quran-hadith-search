@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "No bloodmoney will be charge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud] telah mengabarkan kepada kami ['Ubaidullah] dari [Isra'il] dari [Abu Hashin] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] berkata; bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang tambang yang menjadikan celaka tidak ada tuntutan diyat, sumur yang menjadikan celaka tidak ada tuntutan denda, binatang yang menjadikan celaka tidak ada tuntutan diyat, dan harta terpendam (bila ditemukan seseorang) zakatnya seperlima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 42 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не выплачивается возмещение ни за (пострадавшего) в руднике, ни за упавшего в колодец, ни за (раненого или убитого) животным, а с клада следует выплатить пятую часть (его стоимости)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 42 Hadith 5</td></tr></tbody></table></div>
 

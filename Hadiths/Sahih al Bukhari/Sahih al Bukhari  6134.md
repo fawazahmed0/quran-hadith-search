@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:Allah's Messenger (ﷺ) entered upon me and said, "H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Husain] dari [Yahya bin Abu Katsir] dari [Abu Salamah bin Abdurrahman] dari [Abdullah bin 'Amru] dia berkata; "Rasulullah shallallahu 'alaihi wasallam menemuiku, lalu beliau bersabda: "Aku memperoleh berita bahwa kamu bangun di malam hari dan berpuasa di siang hari, benarkah itu?" Aku menjawab; "Benar." Beliau bersabda: "Jangan kamu lakukannya; namun tidur dan bangunlah, berpuasa dan berbukalah. Karena tubuhmu memiliki hak atas dirimu, kedua matamu memiliki hak atas dirimu, tamumu memiliki hak atas dirimu, istrimu memiliki hak atas dirimu. Sungguh, semoga panjang umur dan cukup bagimu berpuasa tiga hari dalam setiap bulan, dan suatu kebaikan akan dibalas dengan sepuluh kali lipatnya, itulah puasa Dahr." Abdullah bin 'Amru berkata; "Aku bersikap keras dan beliau pun bersikap keras kepadaku, lalu kataku; "Sungguh aku masih kuat melakukan lebih dari itu?". Beliau bersabda: "Berpuasalah tiga hari setiap Jum'at." Abdullah bin 'Amru berkata; "Aku bersikap keras dan beliau pun bersikap keras kepadaku, lalu kataku; "Sungguh aku masih kuat melakukan lebih dari itu?" Beliau bersabda: "Kalau begitu, berpuasalah seperti puasanya Nabiyullah Daud." Aku bertanya; "Bagaimana puasa Nabiyullah Daud?" Beliau bersabda: "Yaitu puasa setengah zaman (sehari puasa sehari berbuka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6134</td></tr><tr><td>Arabic No</td><td>6134</td></tr><tr><td>Reference</td><td>Book 78 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр сказал: «(Однажды) Посланник Аллаха ﷺ пришёл ко мне и сказал: “Мне сообщили, что ты совершаешь молитвы по ночам и постишься днём”. Я сказал: “Да, конечно”. Он сказал: “Не делай (так, однако) иногда совершай ночную молитву, а иногда спи, иногда постись, а иногда не постись, ибо, поистине, у твоего тела есть на тебя право, и у глаза твоего есть на тебя право, и у гостя твоего есть на тебя право, и у жены твоей есть на тебя право. И, возможно, срок твоей жизни будет долгим и, поистине, достаточно будет тебе поститься по три дня ежемесячно, ведь за каждое доброе дело воздастся тебе в десятикратном размере, и это (будет равнозначно) непрерывному посту”. Однако я настаивал, а потом был наказан за это. Я сказал: “Поистине, я способен на большее!” Он сказал: “Тогда постись, как постился пророк Аллаха Дауд!” Я спросил: “А как постился пророк Аллаха Дауд?” Он ответил: “Через день”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6134</td></tr><tr><td>Arabic No</td><td>6134</td></tr><tr><td>Reference</td><td>Book 78 Hadith 161</td></tr></tbody></table></div>
 

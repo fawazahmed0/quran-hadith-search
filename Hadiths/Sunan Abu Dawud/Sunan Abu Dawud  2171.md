@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: A man said: Messenger of Allah, I have a slave-girl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Aban], telah menceritakan kepada kami [Yahya] bahwa [Muhammad bin Abdurrahman bin Tsauban], menceritakan kepadanya bahwa [Rifa'ah] telah menceritakan kepadanya dari [Abu Sa'id Al Khudri] bahwa seseorang berkata; wahai Rasulullah, sesungguhnya aku memiliki seorang budak perempuan, dan aku melakukan 'azl terhadapnya, serta tidak ingin ia hamil, aku menginginkan apa yang diinginkan laki-laki, sementara orang-orang yahudi mengatakan; bahwa 'azl adalah pembunuhan kecil. Beliau berkata: "Orang-orang yahudi telah berdusta, seandainya Allah menghendaki untuk menciptakannya, maka mereka tidak akan dapat berpaling darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2171</td></tr><tr><td>Arabic No</td><td>2171</td></tr><tr><td>Reference</td><td>Book 12 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что один человек сказал: «О Посланник Аллаха ﷺ! У меня есть рабыня, и я извергаю семя вне её лона, потому что не хочу, чтобы она забеременела, и потому что я желаю того, чего обычно желают мужчины. Но иудеи говорят, что это малое погребение». (Посланник Аллаха ﷺ) сказал: «Иудеи лгут. Если Аллах пожелает создать ребёнка, ты не сможешь помешать Ему!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2171</td></tr><tr><td>Arabic No</td><td>2171</td></tr><tr><td>Reference</td><td>Book 12 Hadith 126</td></tr></tbody></table></div>
 

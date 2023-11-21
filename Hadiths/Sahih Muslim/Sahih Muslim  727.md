@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) took a bath from the vessel (which 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] --lewat jalur periwayatan lain-- telah menceritakan kepada kami [Ibnu Rumh] telah mengabarkan kepada kami [al-Laits] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu bakar bin Abi Syaibah], [Amr bin an-Naqid], [Zuhair bin Harb] mereka berkata, telah menceritakan kepada kami [Sufyan] keduanya dari [az-Zuhri] dari [Urwah] dari [Aisyah] dia berkata, "Rasulullah dahulu mandi dalam baskom, yaitu satu faraq. Sedangkan saya pernah mandi bersama beliau dalam satu bejana." Dan dalam hadits Sufyan, "Dari satu bejana". Qutaibah berkata, "Sufyan berkata, 'Satu faraq adalah tiga Sha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>727</td></tr><tr><td>Arabic No</td><td>319.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ совершал полное омовение /гусль/ после большого осквернения /джанаба/ из сосуда объёмом один фаракъ, и я совершала полное омовение вместе с ним из одного сосуда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>727</td></tr><tr><td>Arabic No</td><td>319.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 49</td></tr></tbody></table></div>
 

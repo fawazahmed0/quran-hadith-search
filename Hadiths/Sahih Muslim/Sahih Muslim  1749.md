@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim reported on the authority of his father that a person asked the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan ['Amru An Naqid] dan [Zuhair bin Harb] kata [Zuhair]; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Zuhri] dari [Salim] dari [Ayahnya] ia mendengar Nabi shallallahu 'alaihi wasallam bersabda, (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Muhammad bin 'Abbad] dan lafadz miliknya, telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru] dari [Thawus] dari [Ibnu Umar], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Az Zuhri] dari [Salim] dari [Ayahnya] bahwa seorang laki-laki bertanya kepada Nabi shallallahu 'alaihi wasallam tentang shalat malam, beliau menjawab: "Dua-dua, jika engkau khawatir tiba waktu shalat subuh, maka witirlah satu rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1749</td></tr><tr><td>Arabic No</td><td>749.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что один человек спросил Пророка ﷺ, (как следует совершать добровольную) ночную молитву. (В ответ ему Пророк ﷺ) сказал: «(Ночная молитва состоит из) парных (рак‘атов), если же ты станешь опасаться, (что скоро наступит) утро, соверши молитву в один рак‘ат»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1749</td></tr><tr><td>Arabic No</td><td>749.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 178</td></tr></tbody></table></div>
 

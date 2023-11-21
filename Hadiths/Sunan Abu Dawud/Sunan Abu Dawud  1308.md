@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: May Allah have mercy on a man who 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Basyar] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Ibnu 'Ajlan] dari [Al Qa'qa'] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah akan merahmati seseorang yang bangun malam kemudian shalat lalu membangunkan isterinya, apabila isterinya menolak, dia akan memercikkan air ke mukanya, dan Allah akan merahmati seorang isteri yang bangun malam lalu shalat, kemudian dia membangunkan suaminya, apabila suaminya enggan, maka isterinya akan memercikkan air ke muka suaminya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1308</td></tr><tr><td>Arabic No</td><td>1308</td></tr><tr><td>Reference</td><td>Book 5 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ сказал: «Да помилует Аллах мужчину, который поднимается ночью, совершает молитву и будит свою жену, а если она отказывается вставать, брызгает ей в лицо водой! Да помилует Аллах женщину, которая поднимается ночью, совершает молитву и будит своего мужа, а если он отказывается вставать, брызгает ему в лицо водой!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1308</td></tr><tr><td>Arabic No</td><td>1308</td></tr><tr><td>Reference</td><td>Book 5 Hadith 59</td></tr></tbody></table></div>
 

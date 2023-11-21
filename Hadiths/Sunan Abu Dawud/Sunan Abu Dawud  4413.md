@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said:The Qur’anic verse goes: “If any of your woman are guilty 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amad bin Muhammad bin Tsabit Al Marwazi] berkata, telah menceritakan kepadaku [Ali bin Al Husain] dari [Bapaknya] dari [Yazid bin An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] ia berkata tentang firman Allah: '(Dan (terhadap) para wanita yang mengerjakan perbuatan keji, hendaklah ada empat orang saksi diantara kamu (yang menyaksikannya). Kemudian apabila mereka telah memberi persaksian, maka kurunglah mereka (wanita-wanita itu) dalam rumah sampai mereka menemui ajalnya, atau sampai Allah memberi jalan lain kepadanya) ' -Qs. An Nisa: 15-. Allah menyebutkan laki-laki setelah perempuan, kemudian Dia menggabungkan keduanya. Allah berfirman: '(Dan terhadap dua orang yang melakukan perbuatan keji di antara kamu, maka berilah hukuman kepada keduanya, kemudian jika keduanya bertaubat dan memperbaiki diri, maka biarkanlah mereka..) ' -Qs. An Nisa: 16-. Ayat ini kemudian dihapus dengan ayat cambuk, Allah berfirman: '(perempuan yang berzina dan laki-laki yang berzina, maka deralah tiap-tiap seorang dari keduanya seratus kali dera…) ' -Qs. An Nuur: 2-. Telah menceritakan kepada kami Ahmad bin Muhammad bin Tsabit berkata, telah menceritakan kepada kami Musa -maksudnya Musa bin Mas'ud- dari Syibl dari Ibnu Abu Najih dari Mujahid ia berkata, "Kata 'as sabil' maksudnya adalah hukuman had." Mujahid berkata, "Firman Allah 'maka berilah hukuman kepada keduanya', maksudnya adalah pezina yang masih lajang. Sementara firman Allah 'maka kurunglah mereka (wanita-wanita itu) dalam rumah', maksudnya adalah para janda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4413</td></tr><tr><td>Arabic No</td><td>4413</td></tr><tr><td>Reference</td><td>Book 40 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал (о словах Всевышнего) «Против тех из ваших женщин, которые совершат мерзкий поступок (прелюбодеяние), призовите в свидетели четырёх из вас. Если они засвидетельствуют это, то держите их в домах, пока их не упокоит смерть или пока Аллах не установит для них иной путь»: «Мужчина упомянут после женщины, а потом упомянуты оба вместе: “Если двое из вас совершат такой поступок (прелюбодеяние), то подвергните обоих наказанию. Если они раскаются и станут поступать праведно, то оставьте их”. Этот аят был отменён аятом о бичевании: “Прелюбодейку и прелюбодея каждого из них высеките сотней ударов…” (сура “ан-Нур”, аят 2)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4413</td></tr><tr><td>Arabic No</td><td>4413</td></tr><tr><td>Reference</td><td>Book 40 Hadith 63</td></tr></tbody></table></div>
 

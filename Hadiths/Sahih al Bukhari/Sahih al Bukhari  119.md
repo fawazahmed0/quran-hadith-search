@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I said to Allah's Messenger (ﷺ) "I hear many narrations (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Bakr Abu Mush'ab] berkata, telah menceritakan kepada kami [Muhammad bin Ibrahim bin Dinar] dari [Abu Dzi'b] dari [Sa'id Al Maqburi] dari [Abu Hurairah] berkata "Aku berkata, "Wahai Rasulullah, aku telah mendengar dari tuan banyak hadits namun aku lupa. Beliau lalu bersabda: "Hamparkanlah selendangmu." Maka aku menghamparkannya, beliau lalu (seolah) menciduk sesuatu dengan tangannya, lalu bersabda: "Ambillah." Aku pun mengambilnya, maka sejak itu aku tidak pernah lupa lagi." Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah menceritakan kepada kami [Ibnu Abu Fudaik] dengan redaksi seperti ini, atau dia berkata, "Menuangkan ke dalam tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>119</td></tr><tr><td>Arabic No</td><td>119</td></tr><tr><td>Reference</td><td>Book 3 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) я сказал Посланнику Аллаха ﷺ: “О Посланник Аллаха, поистине, я слышу от тебя многое, но забываю это!” Тогда он велел: “Распахни свою накидку”, и я распахнул её».\n(Абу Хурайра, да будет доволен им Аллах,) сказал: «И он сделал своими руками такое движение, будто наполнил их чем-то, (а потом как будто бы положил что-то в мою накидку) и велел: “Запахнись!” Тогда я сдвинул края накидки и после этого уже ничего не забывал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>119</td></tr><tr><td>Arabic No</td><td>119</td></tr><tr><td>Reference</td><td>Book 3 Hadith 61</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is narrated by Amr b. Yahya with the same chain of transmitters, but
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>556</td></tr><tr><td>Arabic No</td><td>235.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но в этой версии он не упомянул щиколотки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>556</td></tr><tr><td>Arabic No</td><td>235.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 23</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported Allah's Messenger (ﷺ) as saying:I saw in a dream th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Nashr bin Ali Al Jahdhami] Telah mengabarkan kepadaku [Bapakku] Telah menceritakan kepada kami [Shakhr bin Juwairiyah] dari [nafi'], bahwa [Abdullah bin 'Umar] bercerita kepadanya; Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Aku bermimpi dalam tidurku. Bahwa aku sedang menggosok gigi dengan siwak (sejenis kayu). Lalu siwak itu diminta oleh dua orang laki-laki, yang satu lebih tua dari yang lain. Maka kemudian kuberikan kepada yang muda. Tetapi ada orang berkata kepadaku; "Berikan kepada yang tua!" Lalu kuberikan kepada yang tua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5933</td></tr><tr><td>Arabic No</td><td>2271</td></tr><tr><td>Reference</td><td>Book 42 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5933</td></tr><tr><td>Arabic No</td><td>2271</td></tr><tr><td>Reference</td><td>Book 42 Hadith 37</td></tr></tbody></table></div>
 

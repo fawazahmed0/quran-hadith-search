@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported on the authority of Mis'ar with the same chain of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] dan [Hajjaj bin Asy Sya'ir] -dan lafadh ini milik Hajjaj- Ishaq berkata; telah mengabarkan kepada kami, dan Hajjaj berkata; telah menceritakan kepada kami ['Abdurrazzaq] telah mengabarkan kepada kami [Ats Tsauri] dari ['Alqamah bin Martsad] dari [Al Mughirah bin 'Abdullah Al Yasykuri] dari [Ma'rur bin Suwaid] dari ['Abdullah bin Mas'ud] dia berkata; "Ummu Habibah pernah berdoa sebagai berikut; 'Ya Allah, berikanlah aku kenikmatan (panjangkanlah usiaku) bersama suamiku, Rasulullah shallallahu 'alaihi wasallam, ayahku, Abu Sufyan, dan saudaraku, Muawiyah.' Mendengar doa itu, Rasulullah shallallahu 'alaihi wasallam berkata kepada istrinya, Ummu Habibah: 'Sesungguhnya kamu memohon kepada Allah Subhanahu wa Ta'ala: ajal, kematian, dan rezeki yang telah ditentukan, yang Allah tidak akan mengajukan ataupun memundurkan sebelum waktunya. Apabila kamu memohon kepada Allah Suhhanahu wa Ta'ala agar Dia menyelamatkanmu dari siksa neraka dan siksa kubur, maka hal itu lebih baik bagimu.' Abdullah bin Mas'ud berkata; 'Ada seorang laki-laki bertanya; 'Ya Rasulullah, apakah kera dan babi itu berasal dari manusia yang telah berubah rupa? ' Rasulullah shallallahu 'alaihi wasallam menjawab: 'Sesungguhnya Allah Azza wa Jalla tidak akan menghancurkan atau menyiksa suatu kaum, kemudian menjadikan keturunan bagi mereka. Sesungguhnya keturunan babi dan kera itu sudah ada sebelumnya.' Telah menceritakannya kepadaku [Abu Dawud Sulaiman bin Ma'bad] telah menceritakan kepada kami [Al Husain bin Hafsh] telah menceritakan kepada kami [Sufyan] dengan isnad ini. Namun dia berkata dengan lafazh; wa atsarin mablughah (kehidupan yang sudah ditentukan) Ibnu Ma'bad berkata; dan sebagian mereka meriwayatkan lafazh; 'sebelum waktunya yaitu sebelum turunnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6772</td></tr><tr><td>Arabic No</td><td>2663.03</td></tr><tr><td>Reference</td><td>Book 46 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6772</td></tr><tr><td>Arabic No</td><td>2663.03</td></tr><tr><td>Reference</td><td>Book 46 Hadith 50</td></tr></tbody></table></div>
 

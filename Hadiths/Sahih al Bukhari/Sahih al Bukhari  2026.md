@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) The Prophet (ﷺ) used to practice I't
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha], isteri Nabi shallallahu 'alaihi wasallam bahwa Nabi shallallahu 'alaihi wasallam beri'tikaf pada sepuluh hari yang akhir dari Ramadhan hingga wafatnya kemudian isteri-isteri Beliau beri'tikaf setelah kepergian Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2026</td></tr><tr><td>Arabic No</td><td>2026</td></tr><tr><td>Reference</td><td>Book 33 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах, что в последние десять (дней) рамадана Пророк ﷺ всегда неотлучно находился в мечети(, и это продолжалось) до тех пор, пока Аллах не упокоил его, а после него так же стали поступать и его жёны
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2026</td></tr><tr><td>Arabic No</td><td>2026</td></tr><tr><td>Reference</td><td>Book 33 Hadith 2</td></tr></tbody></table></div>
 

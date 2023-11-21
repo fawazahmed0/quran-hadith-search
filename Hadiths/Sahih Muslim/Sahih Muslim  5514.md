@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Talha reported Allah's Apostle (ﷺ) having said:Angels do not enter a house
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Abu Bakr bin Abu Syaibah], ['Amru An Naqid] dan [Ishaq bin Ibrahim], [Yahya] dan [Ishaq] berkata; Telah mengabarkan kepada kami; sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari ['Ubaidullah] dari [Ibnu 'Abbas] dari [Abu Thalhah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya malaikat tidak akan memasuki rumah yang di dalamnya ada anjing dan gambar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5514</td></tr><tr><td>Arabic No</td><td>2106.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5514</td></tr><tr><td>Arabic No</td><td>2106.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 129</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:Verily the Messenger of Allah (ﷺ) said: There is for ev
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ghassan al-Misma'i] dan [Muhammad bin al-Mutsanna] serta [Ibnu Basysyar] telah menceritakan kepada kami, dan lafazh tersebut milik Abu Ghassan, mereka berkata, telah menceritakan kepada kami [Mu'adz] -yang mereka maksud adalah Ibnu Hisyam- dia berkata, telah menceritakan kepadaku [bapakku] dari [Qatadah] telah menceritakan kepadaku [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Setiap Nabi memiliki doa yang dia panjatkan untuk umatnya, dan sesungguhnya aku (berkeinginan untuk) menyembunyikan doaku sebagai syafa'at bagi umatku pada hari kiamat." Dan telah menceritakan kepadaku tentangnya [Zuhair bin Harb] dan [Ibnu Abu Khalaf] dia berkata, telah menceritakan kepada kami [Rauh] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dengan sanad ini. (dalam jalur lain disebutkan) Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki']. (dalam jalur lain disebutkan) Dan telah menceritakan kepadaku tentangnya [Ibrahim bin Sa'id al-Jauhari] telah menceritakan kepada kami [Abu Usamah] semuanya dari [Mis'ar] dari [Qatadah] dengan sanad ini, hanya saja dalam hadits Waki' dia menyebutkan, "Diberikan.' Sedangkan dalam hadits Abu Usamah dari Nabi shallallahu 'alaihi wasallam, Dan telah meriwayatkan kepada kami [Muhammad bin Abdul A'la] telah menceritakan kepada kami [al-Mu'tamir] dari [bapaknya] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam bersabda, lalu dia menyebutkan semisal hadits [Qatadah] dari [Anas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>494</td></tr><tr><td>Arabic No</td><td>200.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 400</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Пророк Аллаха ﷺ сказал: «У каждого пророка была мольба за его общину, с которой он обратился (к Аллаху), я же придержал свою мольбу для заступничества за свою общину в День воскресения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>494</td></tr><tr><td>Arabic No</td><td>200.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 400</td></tr></tbody></table></div>
 

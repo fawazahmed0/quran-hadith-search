@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik transmitted it from the Messenger of Allah (ﷺ) that the Great an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Amir bin Zurarah al-Hadlrami] telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Mukhtar bin Fulful] dari [Anas bin Malik] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Allah berfirman: 'Sesungguhnya umatmu senantiasa berkata apa ini dan apa itu hingga mereka mengatakan, 'Ini Allah yang menciptakan makhluk, lalu siapakah yang menciptakan Allah'." Telah menceritakan kepada kami tentangnya [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Zaidah] keduanya dari [al-Mukhtar] dari [Anas] dan Nabi shallallahu 'alaihi wasallam dengan hadits ini, hanya saja Ishaq tidak menyebutkan, "Beliau bersabda: "Allah berfirman: 'Sesungguhnya umatmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>351</td></tr><tr><td>Arabic No</td><td>136.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «Всемогущий и Великий Аллах сказал: “Поистине, члены твоей общины не перестанут говорить: “Что это? Что то?” до тех пор, пока не скажут: “Это Аллах, (Который) создал творения, а кто создал Аллаха?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>351</td></tr><tr><td>Arabic No</td><td>136.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
 

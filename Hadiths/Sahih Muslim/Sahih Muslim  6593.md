@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Do you know what is backb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] mereka berkata; Telah menceritakan kepada kami [Isma'il] dari [Al A'laa] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah bertanya: "Tahukah kamu, apakah ghibah itu?" Para sahabat menjawab; 'Allah dan Rasul-Nya lebih tahu.' Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: 'Ghibah adalah kamu membicarakan saudaramu mengenai sesuatu yang tidak ia sukai.' Seseorang bertanya; 'Ya Rasulullah, bagaimanakah menurut engkau apabila orang yang saya bicarakan itu memang sesuai dengan yang saya ucapkan? ' Rasulullah shallallahu 'alaihi wasallam berkata: 'Apabila benar apa yang kamu bicarakan itu ada padanya, maka berarti kamu telah menggunjingnya. Dan apabila yang kamu bicarakan itu tidak ada padanya, maka berarti kamu telah membuat-buat kebohongan terhadapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6593</td></tr><tr><td>Arabic No</td><td>2589</td></tr><tr><td>Reference</td><td>Book 45 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Абу Хурайры (да будет доволен им Аллах), что (однажды) Посланник Аллаха ﷺ спросил: «Известно ли вам, что такое злословие/гъиба/?” (Люди) сказали: “Аллах и посланник Его знают (об этом) лучше”. (Пророк ﷺ) сказал: “(Это когда) упоминаешь ты о брате твоём так, что это не понравилось бы ему”. (Его) спросили: “Скажи, а если присуще брату моему то, о чём я скажу?” (Пророк ﷺ) сказал: “Если ему присуще то, о чём ты скажешь, значит, ты злословишь о нём, а если этого в нём нет, значит, ты возведёшь на него напраслину/бухтан/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6593</td></tr><tr><td>Arabic No</td><td>2589</td></tr><tr><td>Reference</td><td>Book 45 Hadith 91</td></tr></tbody></table></div>
 

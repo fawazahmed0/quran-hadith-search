@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Haritha b. Wahb reported Allah's Messenger (ﷺ) as saying:Give Sadaqa for a tim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Ibnu Numair] keduanya berkata, Telah menceritakan kepada kami [Waki'] Telah menceritakan kepada kami [Syu'bah] -dalam jalur lain- Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] -lafazh juga miliknya- Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Ma'bad bin Khalid] ia berkata, saya mendengar [Haritsah bin Wahb] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Segeralah kalian bersedekah, karena dikhawatirkan kelak akan terjadi seorang laki-laki pergi ke mana-mana membawa sedekahnya, tetapi dijawab oleh orang yang hendak diberinya sedekah, 'kalaulah kemarin kamu datang, aku terima sedekahmu. Sekarang aku tidak butuh lagi terhadap sedekahmu itu.' Akhirnya orang itu pun benar-benar tidak mendapat orang yang bersedia menerima sedekahnya itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2337</td></tr><tr><td>Arabic No</td><td>1011</td></tr><tr><td>Reference</td><td>Book 12 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хариса ибн Вахб сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Подавайте милостыню, ибо скоро уже (настанут для вас такие времена), когда человек станет ходить со своей милостыней, но (каждый), кому бы он её ни (предложил), будет говорить: “Если бы ты принёс (свою милостыню) вчера, я бы принял её, а сейчас я в ней не нуждаюсь”, и он так и не найдёт того, кто, принял бы её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2337</td></tr><tr><td>Arabic No</td><td>1011</td></tr><tr><td>Reference</td><td>Book 12 Hadith 74</td></tr></tbody></table></div>
 

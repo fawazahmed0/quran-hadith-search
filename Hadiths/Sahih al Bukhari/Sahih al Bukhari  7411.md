@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah's Hand is full, and (i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abuz Zinad] dari [Al A'raj] dari [Abu Hurairah] Rasulullah shallallahu 'alaihi wasallam bersabda: "Tangan Allah selalu penuh, tidak kurang karena memberi nafkah, dan selalu dermawan baik siang maupun malam." Beliau bersabda lagi: "Bukankah kalian telah melihat apa yang dibelanjakan-Nya semenjak Dia mencipta langit dan bumi, dan tidak berkurang sedikit pun apa yang di tangan-Nya?" Beliau bersabda lagi: "Arsy-Nya di atas air, dan tangan-Nya yang lain memegang timbangan, yang terkadang Ia rendahkan atau Ia tinggikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7411</td></tr><tr><td>Arabic No</td><td>7411</td></tr><tr><td>Reference</td><td>Book 97 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Рука Аллаха полна, и не опустошат её непрерывные траты ночью и днём». И он сказал: «Разве вы не видите, сколько израсходовал Он с тех пор, как создал небеса и землю? Однако, поистине, это не уменьшило того, что есть в Его руке». И он сказал: «Трон его на воде, а в другой Его руке Весы, посредством которых Он принижает и возвышает (кого пожелает)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7411</td></tr><tr><td>Arabic No</td><td>7411</td></tr><tr><td>Reference</td><td>Book 97 Hadith 40</td></tr></tbody></table></div>
 

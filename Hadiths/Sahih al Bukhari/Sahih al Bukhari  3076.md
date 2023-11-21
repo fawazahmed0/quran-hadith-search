@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:Jarir bin 'Abdullah said to me, "Allah's Messenger (ﷺ) said to m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada kami [Yahya] telah bercerita kepada kami [Isma'il] berkata telah bercerita kepadaku [Qais] berkata, [Jabir bin 'Abdullah radliallahu 'anhu] berkata kepadaku, Rasulullah Shallallahu'alaiwasallam telah berkata kepadaku:: "Bisakah kamu membuatku dapat beristirahat dari urusan Dzul Khalashah". Yang Beliau maksud adalah sebuah rumah di Khots'am yang dinamakan Ka'bah Al Yamaniyah (dijadikan sebagai kiblat dan isinya banyak patung yang disembah). (Jarir berkata); "Maka aku berangkat dalam rombongan berjumlah seratus lima puluh pasukan berkuda yang mereka dari Ahmas. Mereka adalah para penunggang kuda yang ulung. Lalu aku kabarkan kepada Nabi Shallallahu'alaihiwasallam bahwa aku tidak ahli menunggang kuda hingga akhirnya Beliau pukul dadaku hingga kulihat bekas jari tangan Beliau di dadaku". Kemudian Beliau berdo'a: "ALLOOHUMMA TSABBITHU WAJ'ALHU HAADIYAN MAHDIYAN "Ya Allah mantapkanlah dia dan jadikanlah dia seorang pemberi petunjuk yang lurus". Maka Jarir berangkat menuju rumah yang dimaksud lalu merusak dan membakarnya. Kemudian dia mengutus utusan untuk menemui Rasulullah Shallallahu'alaiwasallam dan mengabarkan apa yang sudah terjadi. Utusan Jarir berkata kepada Rasulullah Shallallahu'alaiwasallam: "Wahai Rasulullah, demi Dzat Yang Mengutus Baginda dengan haq, tidaklah aku menemui Baginda melainkan telah Kutinggalkan rumah tersebut seolah seperti unta yang berlobang atau kudisan (sebutan untuk kehancuran rumah tersebut karena telah dibakar). (Jarir berkata): "Lalu Beliau Shallallahu'alaihiwasallam mendo'akan keberkahan untuk pasukan berkuda dari Ahmas tersebut sebanyak lima kali. [Musaddad] berkata dengan redaksi; "Rumah yang dimaksud terletak di Khats'am
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3076</td></tr><tr><td>Arabic No</td><td>3076</td></tr><tr><td>Reference</td><td>Book 56 Hadith 281</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ сказал мне: “Не избавишь ли ты меня от Зуль-Халясы?” Так назывался дом (, находившееся на землях племени) хас‘ам и именовавшееся (также) йеменской Каабой. И я отправился (туда с отрядом из) ста пятидесяти отличных всадников из племени ахмас. Что же касается меня, то я не мог хорошо держаться на коне, и когда я сообщил об этом Пророку ﷺ, он ударил меня по груди (так сильно, что) я увидел следы его пальцев у себя на груди, и он сказал: “О Аллах, укрепи его и сделай его ведущим и ведомым по правильному пути! /Аллахумма, саббитху ва-дж‘альху хадийан махдийан!/”».После этого (Джарир) отправился к (тому месту), которое он разрушил и сжёг, а потом послал к Пророку ﷺ (гонца) с радостной вестью об этом. Гонец Джарира сказал Посланнику Аллаха ﷺ: «О Посланник Аллаха! Клянусь Тем, Кто направил тебя с истиной, я пришёл к тебе только после того, как (этот дом) стал похожим на изнурённого (или: чесоточного) верблюда!»(Джарир, да будет доволен им Аллах,) сказал: «И (после этого Пророк ﷺ) пять раз призвал благословение на конницу и пехоту ахмаситов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3076</td></tr><tr><td>Arabic No</td><td>3076</td></tr><tr><td>Reference</td><td>Book 56 Hadith 281</td></tr></tbody></table></div>
 

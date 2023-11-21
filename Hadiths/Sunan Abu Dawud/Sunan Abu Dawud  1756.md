@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Umar ibn al-Khattab named a bukhti camel for sacrifi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada Kami [Muhammad bin Salamah] dari [Abu Abdurrahim]. -Abu Daud berkata; Abu Abdurrahim adalah Khalid bin Abu Yazid, paman Muhammad bin Salamah-, darinya Hajjaj bin Muhammad dari [Jahm bin Al Jarud], dari [Salim bin Abdullah] dari [ayahnya], ia berkata: Umar bin Khathab berkurban dengan seekor unta yang kuat, ringan dan berlari cepat, kemudian ia menjualnya dengan harga tiga ratus dinar. kemudian ia mendatangi Nabi shalla Allahu 'alaihi wa sallam dan berkata: Wahai Rasulullah, aku berkurban dengan seekor unta, kemudian unta tersebut dibeli dengan harga tiga ratus dinar, aku menjualnya dan membeli unta lain dengan harga yang sama? Beliau menjawab: "Tidak boleh! Sembelihlah unta tersebut!" Abu Daud berkata: hal tersebut dikarenakan Umar telah melukainya sebagai tanda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1756</td></tr><tr><td>Arabic No</td><td>1756</td></tr><tr><td>Reference</td><td>Book 11 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим передаёт от своего отца (‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом), что ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, намеревался принести в жертву породистую верблюдицу, а потом ему предложили продать её за триста динаров. Тогда ‘Умар пришёл к Посланнику Аллаха ﷺ и спросил: «О Посланник Аллаха, я намеревался принести в жертву породистую верблюдицу, а потом мне предложили за неё триста динаров. Так могу ли я продать её, а на вырученные деньги купить (несколько) жертвенных животных?» Посланник Аллаха ﷺ сказал: «Нет, зарежь эту верблюдицу». Абу Дауд утверждал, что причина этого в том, что он уже пометил этого верблюда
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1756</td></tr><tr><td>Arabic No</td><td>1756</td></tr><tr><td>Reference</td><td>Book 11 Hadith 36</td></tr></tbody></table></div>
 

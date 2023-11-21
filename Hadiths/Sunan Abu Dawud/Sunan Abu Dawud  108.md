@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>108</td></tr><tr><td>Arabic No</td><td>108</td></tr><tr><td>Reference</td><td>Book 1 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Усман ибн ‘Абду-р-Рахман ат-Тайми сказал: Однажды Ибн Абу Мулейку спросили об омовении, и он сказал: «Я видел, как однажды ‘Усмана ибн ‘Аффана спросили об омовении, и он попросил (принести) воды. И когда ему принесли сосуд с водой для омовения, он налил её на свою правую руку. Затем он опустил её (руку в сосуд) с водой и трижды прополоснул рот и трижды прополоснул нос. (Затем) он трижды помыл своё лицо, затем помыл правую руку (с локтем) трижды, и трижды помыл левую руку (с локтем). После этого он опустил руку (в сосуд) и набрав воды обтёр голову и уши, промыв их как изнутри, так и снаружи один раз, и затем он помыл свои ноги, после чего сказал: “Где те, которые спрашивали об омовении? Я видел, как таким образом совершал омовение Посланник Аллаха ﷺ”».Абу Дауд сказал: «Все хадисы от ‘Усмана, да будет доволен им Аллах, являются достоверными, и указывают на то, что голова обтирается один раз. И они упомянули о том, что при омовении (части тела омываются) по три (раза) и сказали в них: «Он обтёр свою голову», и не упомянули сколько раз (обтирается голова), как упомянули (сколько раз омываются) другие органы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>108</td></tr><tr><td>Arabic No</td><td>108</td></tr><tr><td>Reference</td><td>Book 1 Hadith 108</td></tr></tbody></table></div>
 

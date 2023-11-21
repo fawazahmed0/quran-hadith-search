@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:When the last Verses of Surat al- Baqara were revealed, the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bion Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Abu Adh-Dhuha] dari [Masruq] dari ['Aisyah radliallahu 'anha] berkata: "Ketika turun ayat-ayat terakhir dari surah Al Baqarah, Nabi shallallahu 'alaihi wasallam menerima ayat-ayat tersebut ketika sedang berada di masjid maka kemudian Beliau mengharamkan jual beli didalam masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2084</td></tr><tr><td>Arabic No</td><td>2084</td></tr><tr><td>Reference</td><td>Book 34 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «После того, как были ниспосланы последние аяты из суры “аль-Бакара”, Пророк ﷺ прочёл их людям в мечети, после чего запретил торговать вином»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2084</td></tr><tr><td>Arabic No</td><td>2084</td></tr><tr><td>Reference</td><td>Book 34 Hadith 37</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha and Ibn 'Abbas:On his death-bed Allah's Messenger (ﷺ) put a sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Bisyir bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepadaku [Ma'mar] dan [Yunus] dari [Az Zuhriy] berkata, ['Ubaidullah bin 'Abdullah] telah mengabarkan kepadaku dari ['Aisyah] dan [Ibnu 'Abbas radliallahu 'anhuma], keduanya berkata; "Ketika sakit Rasulullah shallallahu 'alaihi wasallam semakin parah, Beliau memegang bajunya dan ditutupnya mukanya. Bila sudah sesak, beliau lepaskan dari mukanya. Dalam keadaan selalu seperti itu beliau bersabda: "Laknat Allah tertimpa kepada Yahudi dan Nashara karena mereka menjadikan kuburan para Nabi mereka sebagai masjid-masjid". Beliau mengingatkan (kaum Muslimin) atas perbuatan mereka (Yahudi dan Nashara)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3454</td></tr><tr><td>Arabic No</td><td>3454</td></tr><tr><td>Reference</td><td>Book 60 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши и ‘Абдуллаха ибн ‘Аббаса, да будет доволен ими Аллах, что перед самой своей смертью Посланник Аллаха ﷺ стал накидывать на лицо покрывало, а когда ему стало (трудно дышать), он убрал его с лица и сказал: «Да проклянёт Аллах (тех) иудеев и христиан, которые превратили могилы своих пророков в места для совершения молитв!» — предостерегая (мусульман) от повторения того, что делали (эти люди)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3454</td></tr><tr><td>Arabic No</td><td>3454</td></tr><tr><td>Reference</td><td>Book 60 Hadith 121</td></tr></tbody></table></div>
 

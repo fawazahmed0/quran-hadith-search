@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The best talk (speech) is Allah's Book 'Qur'an), and the best
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepada kami [Amru bin Murrah], aku mendengar [Murrah Al Hamdani] berkata, [Abdullah] berkata, "Sebaik-baik pembicaraan adalah kitabullah dan sebaik-baik petunjuk adalah petunjuk Muhammad shallallahu 'alaihi wasallam, dan seburuk-buruk perbuatan adalah perkara baru, " kemudian beliau mengutip ayat: '(Apa yang dijanjikan untuk kalian pasti akan datang) ' (Qs. Al an'aam:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7277</td></tr><tr><td>Arabic No</td><td>7277</td></tr><tr><td>Reference</td><td>Book 96 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мурра аль-Хамданий, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Воистину, самые лучшие слова — это книга Аллаха, а самый лучший путь — это путь Мухаммада ﷺ. Худшие же деяния — это нововведения. И воистину, обещанное вам непременно наступит, и вы не сможете избежать этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7277</td></tr><tr><td>Arabic No</td><td>7277</td></tr><tr><td>Reference</td><td>Book 96 Hadith 10</td></tr></tbody></table></div>
 

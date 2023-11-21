@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Um Habiba and Um Salama mentioned about a church they had seen i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Yahya] dari [Hisyam] berkata, [Bapakku] mengabarkan kepadaku dari ['Aisyah] Ummul Mukminin, bahwa Ummu Habibah dan Ummu Salamah menceritakan kepada Nabi shallallahu 'alaihi wasallam bahwa mereka melihat gereja di Habasyah yang didalamnya terdapat gambar. Maka beliau pun bersabda: "Sesungguhnya jika orang shalih dari mereka meninggal, maka mereka mendirikan masjid di atas kuburannya dan membuat patungnya di sana. Maka mereka itulah seburuk-buruk makhluk di sisi Allah pada hari kiyamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>427</td></tr><tr><td>Arabic No</td><td>427</td></tr><tr><td>Reference</td><td>Book 8 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, о том, что Умм Хабиба и Умм Саляма упоминали о церкви, расписанной (различными) изображениями, которую они видели в Эфиопии. Они рассказали об этом и Пророку ﷺ который сказал им (на это): «Поистине, когда какой-нибудь праведный человек из них умирает, они строят над его могилой храм для поклонения, расписывая его подобными изображениями. В День воскресения такие (люди) окажутся наихудшими созданиями пред Аллахом!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>427</td></tr><tr><td>Arabic No</td><td>427</td></tr><tr><td>Reference</td><td>Book 8 Hadith 77</td></tr></tbody></table></div>
 

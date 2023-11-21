@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:An uncle of mine called Abu Burda, slaughtered his s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid bin Abdullah] telah menceritakan kepada kami [Muttharif] dari ['Amir] dari [Al Barra' bin 'Azib] radliallahu 'anhu dia berkata; Pamanku yaitu Abu Burdah pernah menyembelih binatang kurban sebelum shalat (ied), maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Kambingmu hanya berupa daging biasa (bukan daging kurban) Lantas pamanku berkata; "Ya Rasulullah, sesungguhnya aku hanya memiliki seekor jad'ah (anak kambing yang berusia dua tahun)." Beliau bersabda: "Berkurbanlah dengan kambing tersebut, namun hal itu tidak sah untuk selain kamu." Kemudian beliau melanjutkan sabdanya: "Barang siapa berkurban sebelum shalat (Iedul Adlha), dia hanya menyembelih untuk dirinya sendiri, dan barang siapa menyembelih setelah shalat (Iedul Adlha), maka sempurnalah ibadahnya dan dia telah melaksanakan sunnah kaum Muslimin dengan tepat." Hadits ini diperkuat oleh [Ubaidah] dari [Asy Sya'bi] dan [Ibrahim] dan diperkuat pula oleh [Waki'] dari [Huraits] dari [Asy Sya'bi], dan berkata [Ashim] dan [Daud] dari [Asy Sya'bi], sesungguhnya aku mempunyai kambing perahan. Dan berkata [Zubaid] dan [Firas] dari [Asy Sya'bi], saya mempunyai anak kambing berumur dua tahun, dan berkata [Abu Al Ahwash] telah menceritakan kepada kami [Manshur], kambing perah yang berumur dua tahun. Dan berkata [Ibnu Aun], kambing perah yang berumur dua taun yang diperah susunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5556</td></tr><tr><td>Arabic No</td><td>5556</td></tr><tr><td>Reference</td><td>Book 73 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «Мой дядя, по имени Абу Бурда совершил жертвоприношение до совершения (праздничной) молитвы, и Посланник Аллаха ﷺ сказал ему: “Зарезанная тобою овца — просто мясо, (а не жертвоприношение)”. Абу Бурда сказал: “О Посланник Аллаха, у меня (ещё) есть годовалая козочка”. Пророк ﷺ сказал: “Зарежь её, (вместо той,) однако (жертвоприношение годовалой козы) не будет действительным ни для кого после тебя”. Затем он также сказал: “Зарезавший животное до (праздничной) молитвы сделал это (только) для себя, а тот, кто зарезал после молитвы, совершил жертвоприношение должным образом и поступил в соответствии с сунной мусульман”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5556</td></tr><tr><td>Arabic No</td><td>5556</td></tr><tr><td>Reference</td><td>Book 73 Hadith 12</td></tr></tbody></table></div>
 

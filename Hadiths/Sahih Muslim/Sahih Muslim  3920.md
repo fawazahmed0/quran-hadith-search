@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numamir] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Abdul Malik] dari ['Atha'] dari [Jabir] dia berkata; Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa yang memiliki tanah, hendaklah dia menanaminya, jika dia tidak mampu menanaminya sendiri, hendaklah diberikan kepada saudaranya sesama muslim, tanpa menyewakan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3920</td></tr><tr><td>Arabic No</td><td>1536.15</td></tr><tr><td>Reference</td><td>Book 21 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3920</td></tr><tr><td>Arabic No</td><td>1536.15</td></tr><tr><td>Reference</td><td>Book 21 Hadith 119</td></tr></tbody></table></div>
 

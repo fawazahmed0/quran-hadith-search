@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The people of Yemen used to come for Hajj and used not to br
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bisir] telah menceritakan kepada kami [Syababah] dari [Warqa'] dari ['Amru bin Dinar] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] ia berkata; "Dahulu para penduduk Yaman berhajji namun mereka tidak membawa bekal dan mereka berkata, kami adalah orang-orang yang bertawakal. Ketika mereka tiba di Makkah, mereka meminta-minta kepada manusia. Maka Allah Ta'ala menurunkan ayat 197 dari QS Al Baqarah) yang artinya ("Berbekallah, dan sesungguhnya sebaik-baik bekal adalah takwa".) Dan diriwayatkan pula oleh [Ibnu 'Uyainah] dari ['Amru] dari ['Ikrimah] secara mursal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1523</td></tr><tr><td>Arabic No</td><td>1523</td></tr><tr><td>Reference</td><td>Book 25 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, рассказывал, что люди из числа жителей Йемена совершали хадж без всяких запасов и говорили: «Мы — уповающие», когда же они приезжали в Мекку, то просили у людей, и Всевышний Аллах ниспослал: «Берите с собой припасы, хотя лучшим припасом является богобоязненность» (сура «аль-Бакара, аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1523</td></tr><tr><td>Arabic No</td><td>1523</td></tr><tr><td>Reference</td><td>Book 25 Hadith 11</td></tr></tbody></table></div>
 

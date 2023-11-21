@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundub:Allah's Messenger (ﷺ) said, "Amongst the nations before you th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3463</td></tr><tr><td>Arabic No</td><td>3463</td></tr><tr><td>Reference</td><td>Book 60 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джундаба бин ‘Абдуллаха, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Был среди живших до вас один человек, который получил ранение и, (будучи не в силах) терпеть (боль,) взял нож и отрезал себе руку, из-за чего истёк кровью и умер. Аллах Всевышний сказал: “Раб Мой опередил Меня(, лишив) себя (жизни, и за это) Я сделал Рай запретным для него!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3463</td></tr><tr><td>Arabic No</td><td>3463</td></tr><tr><td>Reference</td><td>Book 60 Hadith 130</td></tr></tbody></table></div>
 

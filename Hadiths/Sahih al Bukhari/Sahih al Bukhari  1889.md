@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When Allah's Messenger (ﷺ) reached Medina, Abu Bakr and Bilal 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata; Ketika Rasulullah shallallahu 'alaihi wasallam sampai di Madinah, Abu Bakar dan Bilal menderita sakit demam. Dan Abu Bakar bila merasakan demam yang panas bersya'ir; Setiap orang pada pagi hari bersantai dengan keluarganya. Padahal kematian lebih dekat dari pada tali sandalnya. Dan Bilal ketika sembuh dari penakit demamnya dia bersa'ir dengan suara keras: Wahai kiranya kesadaranku, dapatkah kiranya aku bermalam semalam. Di sebuah lembah yang dikelilingi pohon idzkir dan jalil. Apakah ada suatu hari nanti aku dapat mencapai air Majannah. Dan apakah bukit Syamah dan Thufail akan tampak bagiku?. Lalu dia berkata: "Ya Allah, laknatlah Syaibah bin Rabi'ah, 'Uqbah bin Rabi'ah dan Umayyah bin Khalaf yang telah mengusir kami dari suatu negeri ke negeri yang penuh dengan wabah bencana ini". Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Allah, jadikanlah Madinah sebagai kota yang kami cintai sebagaimana kami mencintai Makkah atau bahkan lebih dari itu. Ya Allah, berikanlah barakah kepada kami dalam timbangan sha' dan mud kami sehatkanlah (makmurkan) Madinah buat kami dan pindahkanlah wabah demamnya ke Juhfah". 'Aisyah radliallahu 'anha berkata; Ketika kami tiba di Madinah, saat itu Madinah adalah bumi Allah yang paling banyak wabah bencananya. Sambungnya lagi: "Lembah Bathhan mengalirkan air keruh yang mengandung kuman-kuman penyakit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1889</td></tr><tr><td>Arabic No</td><td>1889</td></tr><tr><td>Reference</td><td>Book 29 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала:\n— После приезда Посланника Аллаха ﷺ в Медину Абу Бакр и Билял стали болеть лихорадкой. Когда приступ лихорадки начинался у Абу Бакра, он говорил:\nКаждому человеку в семье его желают доброго утра,\nа смерть ближе к нему, чем ремни его сандалий!\nЧто касается Биляла, то, когда лихорадка отпускала его, он произносил (такие стихи):\nЗнать бы мне, смогу ли провести ночь\nв долине среди душистого тростника и джалиля?\nИ смогу ли когда-нибудь зачерпнуть воды Маджанны\nи покажутся ли предо мной Шама и Тафиль?\n(Пророк же ﷺ) сказал: «О Аллах, прокляни Шайбу бин Раби‘у, и ‘Утбу бин Раби‘у и Умаййу бин Халафа, вынудивших нас покинуть нашу землю (и уехать туда,) где свирепствуют болезни!»\nА потом Посланник Аллаха ﷺ сказал: «О Аллах сделай так, чтобы мы полюбили Медину так же, как любим Мекку, или даже больше! О Аллах, благослови наши са‘ и наши мудды, и оздорови для нас (климат) её, и перенеси её лихорадку в аль-Джухфу!»\n(‘Аиша, да будет доволен ею Аллах, также) сказала: «Когда мы прибыли в Медину, она была самой зачумленной из земель Аллаха».\n(Она также) сказала: «А из (вади) Бутхан текла испорченная вода», имея в виду изменившую свой цвет застоявшуюся воду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1889</td></tr><tr><td>Arabic No</td><td>1889</td></tr><tr><td>Reference</td><td>Book 29 Hadith 23</td></tr></tbody></table></div>
 

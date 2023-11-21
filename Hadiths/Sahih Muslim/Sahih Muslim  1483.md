@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported:This is what Abu Huraira reported to us from the Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] katanya; ini yang diceritakan kepada kami oleh [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, -lalu Abu Hurairah menyebutkan beberapa hadis, yang diantaranya- Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh aku berkeinginan menyuruh para pemuda supaya mempersiapkan kayu bakar, kemudian aku menyuruh seseorang untuk mengimami orang-orang, lalu rumah-rumah sekaligus para penghuninya (yang tidak menghadiri shalat jamaah) supaya dibakar." Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Abu Kuraib] dan [Ishaq bin Ibrahim] dari [Waki'] dari [Ja'far bin Barqan] dari [Yazid bin Al Asham] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan hadits seperti di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1483</td></tr><tr><td>Arabic No</td><td>651.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 316</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «(Бывало так, что) я хотел велеть молодым парням (или: слугам) приготовить для меня вязанку дров, поручить кому-нибудь провести молитву с людьми, а затем сжечь дома тех, кто (не приходит на молитву)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1483</td></tr><tr><td>Arabic No</td><td>651.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 316</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:While we were in the mosque, Allah's Messenger (ﷺ) came o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al laits] dari [Sa'id] dari [ayahnya] dari [Abu Hurairah] berkata, ketika kami di sebuah masjid, Rasulullah Shallallahu'alaihiwasallam datang dan bersabda: 'Berangkatlah kalian menuju kaum yahudi." Maka kami berangkat bersama beliau hingga kami tiba di Baitul madras. Nabi shallallahu 'alaihi wasallam berdiri dan menyeru mereka seraya berkata: "Wahai segenap yahudi, masuk Islamlah kalian niscaya kalian selamat." Mereka menjawab, 'Telah engkau sampaikan wahai Abul qasim.' Rasulullah Shallallahu'alaihiwasallam kembali menyeru mereka seraya berkata: 'Yang kuimpikan, masuk Islamlah kalian, niscaya kalian selamat.' Namun mereka menjawab sama, 'Telah engkau sampaikan wahai Abul qasim.' Rasulullah Shallallahu'alaihiwasallam kembali menyeru mereka: 'Yang saya inginkan ialah….dan seterusnya. (beliau ulang tiga kali), hingga kali keempat beliau sabdakan: 'Ketahuilah, bahwasanya bumi adalah milik Allah dan rasul-Nya, dan sungguh saya akan mengusir kalian dari bumi ini, maka barangsiapa diantara kalian bisa menemukan sesuatu dari hartanya, juallah, kalaulah tidak, ketahuilah bahwa bumi adalah milik Allah dan rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7348</td></tr><tr><td>Arabic No</td><td>7348</td></tr><tr><td>Reference</td><td>Book 96 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт: «Когда мы сидели в мечети, Посланник Аллаха ﷺ вышел и сказал: “Отправляйтесь к иудеям”. И мы отправились к ним вместе с ним пока не пришили в мидрас (место, в котором читали и изучали Тору). А затем Пророк ﷺ встал и сказал: “О иудеи! Примите ислам и вы спасётесь”. Они сказали: “Ты довёл до нашего сведения, о Абу аль-Касим”. Посланник Аллаха ﷺ сказал им: “Этого я и желал. Примите ислам и вы спасётесь”. Они сказали: “Ты довёл до нашего сведения, о Абу аль-Касим”. Посланник Аллаха ﷺ сказал им: “Этого я и желал”. И на третий раз он сказал: “Знайте, что земля принадлежит Аллаху и Его Посланнику и, поистине, я желаю выселить вас с этой земли. У кого из вас есть здесь имущество, пусть продаст его, а в противном случае, то знайте, что земля принадлежит Аллаху и Его Посланнику”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7348</td></tr><tr><td>Arabic No</td><td>7348</td></tr><tr><td>Reference</td><td>Book 96 Hadith 76</td></tr></tbody></table></div>
 

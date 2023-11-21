@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim:that he asked Sahl, "Did you use white flour during the lifet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] Telah menceritakan kepada kami [Abu Ghassan] ia berkata; Telah menceritakan kepadaku [Abu Hazim] bahwa ia bertanya kepada [Sahl], "Apakah kamu melihat An Naqiy (sumsum) pada masa Nabi shallallahu 'alaihi wasallam?" Ia menjawab, "Tidak." Aku bertanya lagi, "Apakah kalian mengayak gandum?" Ia menjawab, "Tidak. Akan tetapi cukup bagi kami meniupnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5410</td></tr><tr><td>Arabic No</td><td>5410</td></tr><tr><td>Reference</td><td>Book 70 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Сахля (бин Са‘да), да будет доволен им Аллах, спросили: «Приходилось ли вам видеть очищенную белую муку при жизни Пророка ﷺ?” Он сказал: «Нет». Его спросили: «А просеивали ли вы ячмень?» Он сказал: «Нет, но мы дули на него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5410</td></tr><tr><td>Arabic No</td><td>5410</td></tr><tr><td>Reference</td><td>Book 70 Hadith 38</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:On the day of the Khandaq 'Umar came, cursing the d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ja'fat Al Bukhari] berkata, telah menceritakan kepada kami [Waki'] dari ['Ali bin Mubarak] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Jabir bin 'Abdullah] berkata, "Pada hari peperangan Khandaq 'Umar bin Al Khaththab datang sambil mencaci orang-orang kafir Quraisy, ia katakan, "Wahai Rasulullah, aku belum melaksanakan shalat 'Ashar hingga matahari sudah terbenam!" Maka Nabi shallallahu 'alaihi wasallam bersabda: "Demi Allah, akupun belum melakasanakannya." Maka kemudian beliau berdiri menuju aliran air (sungai), lalu berwudlu dan melaksanakan shalat 'Ashar setelah matahari terbenam, kemudian dilanjutkan dengan melaksanakan shalat Maghrib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>945</td></tr><tr><td>Arabic No</td><td>945</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллах, о том, что в (один из) дней битвы у рва ‘Умар, вернулся (в лагерь мусульман) после захода солнца и принялся ругать неверных курайшитов (, а потом) сказал: «О Посланник Аллаха, едва я успел закончить послеполуденную молитву, как солнце начало уходить за горизонт!» — Пророк же ﷺ ответил: «Клянусь Аллахом, я ещё (вообще) не совершил её!» Затем он (Пророк ﷺ) спустился к Бутхану, совершил омовение, а когда солнце зашло, он (cначала) совершил послеполуденную молитву, а после этого — закатную
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>945</td></tr><tr><td>Arabic No</td><td>945</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
 

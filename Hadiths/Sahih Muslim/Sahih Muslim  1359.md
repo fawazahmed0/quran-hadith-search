@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : J'ai entendu le Prophète (paix et bé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid] dan [Zuhair bin Harb] mereka berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda, (Dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Muhammad bin Ja'far bin Ziyad] telah mengabarkan kepada kami [Ibrahim yaitu Ibn Sa'd] dari [Az Zuhri] dari [Sa'id] dan [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda, (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Harmalah bin Yahya] sedangkan lafadznya berasal dari dia, telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] berkata; "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika shalat telah didirikan, maka janganlah kalian datang sambil berlari, namun datanglah dengan berjalan, hendaknya kalian tenang, apa yang kalian dapatkan (raka'atnya) maka shalatlah, dan (raka'at) yang ketinggalan, maka sempurnakanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1359</td></tr><tr><td>Arabic No</td><td>602.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Когда объявляется о начале молитвы, не идите на неё спеша, однако приходите на неё (обычным) шагом и сохраняйте (при этом) спокойствие. Молитесь то, что вы застанете, а то, что пропустите, восполняйте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1359</td></tr><tr><td>Arabic No</td><td>602.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 194</td></tr></tbody></table></div>
 

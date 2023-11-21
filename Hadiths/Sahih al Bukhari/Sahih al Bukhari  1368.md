@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Al-Aswad:I came to Medina when an epidemic had broken out. While I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Affan bin Muslim, dia dijuluki Ash-Shaffar] telah menceritakan kepada kami [Daud bin Abu Al Furat] dari ['Abdullah bin Buraidah] dari [Abu Al Aswad] berkata,: "Aku pernah berkunjung ke kota Madinah saat sedang berjangkitnya penyakit. Saat aku sedang duduk dekat ['Umar bin Al Khaththab radliallahu 'anhu] tiba-tiba ada jenazah yang lewat di hadapan mereka lalu mereka menyanjungnya dengan kebaikan. Maka 'Umar radliallahu 'anhu berkata,: "Pasti baginya". Tak lama kemudian lewat jenazah yang lain lalu jenazah itu pun disanjung dengan kebaikan. Maka 'Umar radliallahu 'anhu berkata, lagi: "Pasti baginya". Kemudian lewat jenazah yang ketiga lalu jenazah itu disebut dengan keburukan, maka 'Umar radliallahu 'anhu pun berkata,: "Pasti baginya". Berkata, Abu Al Aswad; maka aku bertanya: "Apa yang dimaksud pasti baginya, wahai Amirul mu'minin?". Maka dia berkata,: "Aku mengatakannya seperti yang dikatakan oleh Nabi Shallallahu'alaihiwasallam: "Bilamana seorang muslim (meninggal dunia) lalu disaksikan (disanjung) oleh empat orang muslim lainnya dengan kebaikan maka pasti Allah akan memasukakannya ke dalam surga". Maka kami bertanya kepadanya: "Bagaimana kalau tiga orang muslim?". Dia menjawab; "Juga oleh tiga orang". Kami berkata lagi: "Bagaimana kalau dua orang muslim?". Dia menjawab; "Juga oleh dua orang". Dan kami tidak menanyakannya lagi bagaimana kalau satu orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1368</td></tr><tr><td>Arabic No</td><td>1368</td></tr><tr><td>Reference</td><td>Book 23 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар бин аль-Хаттаб, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал: “Аллах введёт в рай любого мусульманина, о благочестии которого будут свидетельствовать четверо (других мусульман)”. Мы спросили: “А (если их будет) трое?” Он ответил: “И трое”. Мы (снова) спросили: “А двое?” Он ответил: “И двое”, и мы не стали спрашивать его о том(, что будет, если найдётся только) один (такой свидетель)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1368</td></tr><tr><td>Arabic No</td><td>1368</td></tr><tr><td>Reference</td><td>Book 23 Hadith 120</td></tr></tbody></table></div>
 

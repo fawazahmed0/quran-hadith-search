@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar was told that Abu Huraira said, "Whoever accompanies th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Jarir bin Hazim] berkata; Aku mendengar [Nafi'] berkata; disampaikan kepada [Ibnu 'Umar] bahwa [Abu Hurairah radliallahu 'anhu] berkata,: "Barangsiapa yang mengantar jenazah baginya pahala satu qirath. Maka dia (Ibnu 'Umar radliallahu 'anhu ma) berkata,: Abu Hurairah berlebihan terhadap kita". Namun kemudian pernyataan Abu Hurairah radliallahu 'anhu dibenarkan, yakni oleh ['Aisyah radliallahu 'anha] dan [Abu Hurairah] berkata; aku mendengar Rasulullah Shallallahu'alaihiwasallam mengatakannya. Maka [Ibnu 'Umar radliallahu 'anhu] berkata: "Kami telah banyak meremehkan masalah dan aku telah meremehkan dan melalaikan urusan (agama) Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1323</td></tr><tr><td>Arabic No</td><td>1323</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘, да помилует его Аллах Всевышний, сказал: «(В своё время) Ибн ‘Умару, да будет доволен Аллах ими обоими, сообщили, что Абу Хурайра, да будет доволен им Аллах, говорит: “Тот, кто присоединится к похоронной процессии, получит (награду в один) карат”, и (Ибн ‘Умар) сказал: “Абу Хурайра преувеличивает!”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1323</td></tr><tr><td>Arabic No</td><td>1323</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

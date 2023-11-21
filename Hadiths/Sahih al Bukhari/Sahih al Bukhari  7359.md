@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "Whoever has eaten garlic o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibn Wahb] telah menceritakan kepadaku [Yunus] dari [Ibn Syihab] telah menceritakan kepadaku ['Atha bin Abu Rabah] dari [Jabir bin Abdullah] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa makan bawang merah atau bawang putih, hendaklah menyingkir dari kami --atau dengan redaksi 'agar dia menyingkiri- masjid kami, dan duduklah di rumahnya." Pernah dalam perang badar beliau diberi hidangan yang berisi sayur-mayur, berupa kubis, dan beliau temukan mempunyai bau. Maka Nabi menanyakan perihal sayuran itu, dan dikabarkan bahwa sayuran itu diantaranya ada kubis. Beliau lantas bersabda: "Coba tolong dekatkan!" Lantas mereka pun mendekatkannya kepada beberapa sahabatnya yang ikut bersama beliau. Tatkala beliau melihatnya, beliau merasa risih memakannya dan bersabda: "Saya menjauhi santapan yang kalian tidak menjauhinya." Sedang [Ibnu Ufair] dari [Ibnu Wahb] berkata dengan redaksi 'didatangkan kepada beliau periuk berisi kubis', dan [Al Laits] dan [Abu Shafwan] tidak menyebutkan dari [Yunus] tentang kisah periuk, maka aku tidak tahu apakah itu ucapan [Azzuhri] atau termasuk bagian hadis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7359</td></tr><tr><td>Arabic No</td><td>7359</td></tr><tr><td>Reference</td><td>Book 96 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «Кто ел чеснок или лук (в сыром виде), пусть не приближается к нам или к нашим мечетям и сидит в своём доме». (Джабир, да будет доволен им Аллах, также рассказал), что Посланнику Аллаха ﷺ принесли котёл, в котором было блюдо с овощами. Почувствовав исходящий от них запах (лука или чеснока), он спросил о том, что находится на блюде, и ему перечислили названия овощей, которые там были. Тогда он сказал: «Подвиньте (к себе)». И этот котёл подвинули кому-то находившихся с ним сподвижников. Увидев же, что он не желает есть это, (Посланник Аллаха ﷺ) сказал: «Ешь, (а я не стану), потому что веду тайные беседы с теми (, имея в виду ангелов), с кем не можешь беседовать ты»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7359</td></tr><tr><td>Arabic No</td><td>7359</td></tr><tr><td>Reference</td><td>Book 96 Hadith 86</td></tr></tbody></table></div>
 

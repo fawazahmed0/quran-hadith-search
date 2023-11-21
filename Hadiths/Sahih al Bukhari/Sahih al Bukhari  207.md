@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Allah's Messenger (ﷺ) ate a piece of cooked mutt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Zaid bin Aslam] dari ['Atha bin Yasar] dari ['Abdullah bin 'Abbas], bahwa Rasulullah shallallahu 'alaihi wasallam makan paha kambing kemudian shalat dan tidak berwudlu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>207</td></tr><tr><td>Arabic No</td><td>207</td></tr><tr><td>Reference</td><td>Book 4 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абдуллаха ибн ‘Аббаса: «Посланник Аллаха ﷺ поел (мяса) от овечьей лопатки, а затем совершил молитву, не совершая омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>207</td></tr><tr><td>Arabic No</td><td>207</td></tr><tr><td>Reference</td><td>Book 4 Hadith 73</td></tr></tbody></table></div>
 

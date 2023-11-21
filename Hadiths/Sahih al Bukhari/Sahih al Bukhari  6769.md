@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "There were two women with wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] mengatakan; telah menceritakan kepada kami [Abu Az Zanad] dari [Abdurrahman] dari [Abu Hurairah] radliallahu 'anhu, bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Dahulu ada dua wanita bersama kedua anaknya. Seekor serigala datang dan memangsa salah satu dari kedua anak tersebut. Wanita pertama mengatakan; 'Serigala itu memangsa anakmu'. Wanita kedua mengatakan; 'Justeru serigala itu memangsa anakmu, bukan anakku.' Kedua wanita itu terus mengadukan perkaranya kepada Dawud 'alaihissalam, dan Dawud memutuskan bahwa bayi yang masih adalah milik wanita yang tua. Kemudian keduanya menemui Sulaiman alaihissalam dan menceritakan kisahnya. Sulaiman mengatakan; 'beri aku pisau, bayi ini akan kubelah menjadi dua, satu untukmu dan satu untukmu! ' Wanita yang muda berkata; 'jangan kau lakukan, kiranya Allah merahmatimu, bayi ini miliknya.' Maka Sulaiman memberikan bayi itu kepada wanita yang muda." Abu Hurairah mengatakan; 'Demi Allah, saya tak pernah mendengar istilah pisau sama sekali selain hari itu, sebab istilah yang sering kami pakai adalah 'golok
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6769</td></tr><tr><td>Arabic No</td><td>6769</td></tr><tr><td>Reference</td><td>Book 85 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Были две женщины, с каждой из которых находился её сын. (Вдруг) прибежал волк, унёс сына одной из них и она сказала своей подруге: “Он унёс твоего сына!” — другая же сказала: “Это твоего сына он унёс!” — и они обратились на суд к Дауду, который решил(, что ребёнка следует отдать) старшей. После этого они пошли к Сулейману, сыну Дауда, рассказали ему (обо всём), и он сказал: “Принесите мне нож, и я разделю его между ними!” (Услышав его слова,) младшая воскликнула: “Не делай этого, да помилует тебя Аллах, это её сын!” — и он решил (отдать ребёнка) младшей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6769</td></tr><tr><td>Arabic No</td><td>6769</td></tr><tr><td>Reference</td><td>Book 85 Hadith 45</td></tr></tbody></table></div>
 

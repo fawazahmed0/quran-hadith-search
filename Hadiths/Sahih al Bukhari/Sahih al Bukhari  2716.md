@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "If someone sells pol
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar Radhiyyallahu 'Anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang menjual pohon kurma yang telah dikawinkan maka buahnya nanti menjadi hak penjual kecuali disyaratkan oleh pembeli
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2716</td></tr><tr><td>Arabic No</td><td>2716</td></tr><tr><td>Reference</td><td>Book 54 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто продал опылённые пальмы, тому и принадлежит урожай, если только покупатель не поставил (соответствующее) условие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2716</td></tr><tr><td>Arabic No</td><td>2716</td></tr><tr><td>Reference</td><td>Book 54 Hadith 5</td></tr></tbody></table></div>
 

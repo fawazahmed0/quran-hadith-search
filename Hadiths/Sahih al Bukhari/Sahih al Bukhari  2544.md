@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:Allah's Messenger (ﷺ) said, "He who has a slave-girl and edu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dia mendengar [Muhammad bin Fudhail] dari [Mutharrif] dari [Asy-Sya'biy] dari [Abu Burdah] dari [Abu Musa radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang memiliki budak wanita lalu memberikan hak-haknya dan bersikap baik kepadanya kemudian dia bebaskan lalu dinikahinya maka baginya mendapat dua pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2544</td></tr><tr><td>Arabic No</td><td>2544</td></tr><tr><td>Reference</td><td>Book 49 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Мусы, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот, у кого была рабыня, и он заботился о ней и относился к ней хорошо, а затем освободил её и женился на ней, тот получит двойную награду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2544</td></tr><tr><td>Arabic No</td><td>2544</td></tr><tr><td>Reference</td><td>Book 49 Hadith 27</td></tr></tbody></table></div>
 

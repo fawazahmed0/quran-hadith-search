@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:Allah's Messenger (ﷺ) said to us while we were in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] -lewat jalur periwayatan lain- [Al Laits] mengatakan; telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepada kami [Abu Idris Al Khaulani], ia mendengar [Ubadah bin Shamit] mengatakan, Rasulullah Shallallahu'alaihiwasallam berujar kepada kami yang ketika itu kami berada dalam sebuah majlis; "Kalian berbaiat kepadaku untuk tidak menyekutukan Allah dengan sesuatu apapun, tidak mencuri, tidak berzina, tidak membunuh anak-anak kalian dan tidak mengadakan kebohongan yang kalian ada-adakan diantara tangan dan kaki kalian, dan untuk tidak membangkang yang ma'ruf, maka siapa diantara kalian memenuhi baiatnya, maka ganjarannya disisi Allah, dan barangsiapa yang melanggar janji (ikrar atau baiat) nya lantas dihukum di dunia, maka itu sebagai kaffarat baginya, dan barangsiapa yang melanggarnya lantas Allah menutupinya (membiarkannya), maka urusannya kepada Allah, jika Allah berkenan Allah akan menyiksanya, dan jika berkenan ia memaafkannya." maka kami pun berbaiat kepadanya untuk sedemikian ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7213</td></tr><tr><td>Arabic No</td><td>7213</td></tr><tr><td>Reference</td><td>Book 93 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Идрис аль-Хауляни слышал, что ‘Убада ибн ас-Самит, да будет доволен им Аллах, говорил: «Однажды, Посланник Аллаха ﷺ сказал нам, и мы находились в (этом) собрании: “Дайте мне присягу в том, что вы не станете поклоняться наряду с Аллахом ничему, не станете воровать, прелюбодействовать, убивать своих детей, распространять ложь, измышленную вашими сердцами, и отказываться от повиновения(, когда вам будут приказывать совершать) одобряемое (шариатом). Аллах наградит тех из вас, кто будет верен этой клятве, а для того, кто совершит какой-либо из этих (грехов) и будет наказан в мире этом, наказание послужит искуплением. Если же кто-то совершит какой-либо из этих (грехов), а Аллах покроет его (грех), то Аллах и будет решать, и если пожелает, то накажет его, а если пожелает, простит его”».\n(‘Убада сказал): «И мы присягнули ему в этом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7213</td></tr><tr><td>Arabic No</td><td>7213</td></tr><tr><td>Reference</td><td>Book 93 Hadith 73</td></tr></tbody></table></div>
 

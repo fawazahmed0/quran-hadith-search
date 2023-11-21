@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whoever has wronged his brot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] mengatakan, telah menceritakan kepadaku [Malik] dari [Sa'id Al Maqburi] dari [Abu Hurairah] radhilayyahu'anhu, bahwasanya Rasulullah Shallallahu'alaihiwasallam bersabda: "Barangsiapa yang memiliki kezhaliman terhadap saudaranya, hendaklah ia meminta dihalalkan, sebab dinar dan dirham (dihari kiamat) tidak bermanfaat, kezalimannya harus dibalas dengan cara kebaikannya diberikan kepada saudaranya, jika ia tidak mempunyai kebaikan lagi, kejahatan kawannya diambil dan dipikulkan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6534</td></tr><tr><td>Arabic No</td><td>6534</td></tr><tr><td>Reference</td><td>Book 81 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Пусть причинивший несправедливость своему брату освободится от этого, ведь (в День Воскресения) не будет ни динаров, ни дирхамов. (Пусть сделает это) прежде чем заберут его благие дела (и отдадут) его брату, а если добрых дел у него не окажется, будет взято (что-нибудь) из дурных дел (обиженного им) брата его и возложено на него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6534</td></tr><tr><td>Arabic No</td><td>6534</td></tr><tr><td>Reference</td><td>Book 81 Hadith 123</td></tr></tbody></table></div>
 

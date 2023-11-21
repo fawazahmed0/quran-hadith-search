@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kamil Fudhail bin Husain Al Jahdari]; Telah menceritakan kepada kami [Hammad bin Zaid]; Telah menceritakan kepada kami ['Ubaidullah bin Abu Bakr] dari [Anas bin Malik] -secara marfu'- dia berkata; "Sesungguhnya Allah Azza wa Jalla telah mengirim malaikat pada setiap rahim, dan malaikat itu berkata; Wahai Rabb nutfah, Rabb 'alaqah, Rabb mudhghah. Jika Allah Azza wa Jalla hendak menentukan takdir pada mahluk-Nya, Malaikat itu berkata "Wahai Rabb, laki-laki atau perempuan? celaka atau bahagia, bagaimana rizki dan bagaimana ajalnya?" Maka ditulislah ketetapan itu dalam perut ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6730</td></tr><tr><td>Arabic No</td><td>2646</td></tr><tr><td>Reference</td><td>Book 46 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6730</td></tr><tr><td>Arabic No</td><td>2646</td></tr><tr><td>Reference</td><td>Book 46 Hadith 8</td></tr></tbody></table></div>
 

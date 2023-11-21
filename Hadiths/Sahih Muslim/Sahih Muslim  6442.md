@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:By Him in Whose Hand is t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakankepada kami [Al Mughirah] yaitu Al Hizami dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] Rasulullah shallallahu 'alaihi wasallam bersabda: Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Amru An Naqid] dan [Hasan Al Hulwani] dan ['Abad bin Humaid]. Berkata ['Abad]; Telah mengabarkan kepadaku sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'ad]; Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Al A'raj] dia berkata; [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwa Muhammad ada dalam genggaman-Nya, sungguh suku Ghifar, Aslam, Muzainah, dan orang-orang dari Juhainah dan Muzainah, pada hari kiamat mereka lebih baik di sisi Allah dari suku Asad, Thayyi dan Ghathafan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6442</td></tr><tr><td>Arabic No</td><td>2521.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 271</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6442</td></tr><tr><td>Arabic No</td><td>2521.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 271</td></tr></tbody></table></div>
 

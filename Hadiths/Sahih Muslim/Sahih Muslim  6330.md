@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Ahwas reported:We were in the house of Abu Musa along with some of the compa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al A'laa] Telah menceritakan kepada kami [Yahya Ibnu Adam] Telah menceritakan kepada kami [Quthbah] yaitu Ibnu Abdul 'Aziz dari [Al A'masy] dari [Malik bin Al Harits] dari [Abu Al Ahwash] dia berkata; "Kami pernah berada di rumah Abu Musa beserta beberapa orang sahabat Abdullah bin Mas'ud. Ketika itu mereka sedang menelaah mushaf Al Qur'an. Kemudian Abdullah bin Mas'ud berdiri." Maka [Abu Mas'ud] berkata; Sepengetahuan saya, Rasulullah shallallahu 'alaihi wasallam tidaklah meninggalkan orang yang lebih paham dan mengerti tentang Al Qur'an daripada orang yang berdiri tadi setelah beliau wafat." [Abu Musa] berkata; "Apa yang kamu katakan memang benar, Karena Abdullah bin Mas'ud selalu menyertai Rasulullah shallallahu 'alaihi wasallam ketika kita tidak turut serta. Selain itu, dia diizinkan masuk ke dalam rumah beliau, ketika kita tidak diizinkan untuk masuk." Dan telah menceritakan kepadaku [Al Qasim bin Zakaria]; Telah menceritakan kepada kami ['Ubaidullah] yaitu Ibnu Musa dari [Syaiban] dari [Al A'masy] dari [Malik bin Al Harits] dari [Abu Al Ahwash] dia berkata; Aku menemui Abu Musa, lalu aku melihat Abdullah sedang bersama Abu Musa, Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Muhammad bin Abu 'Ubaidah]; Telah menceritakan kepada kami [Bapakku] dari [Al A'masy] dari [Zaid bin Wahb] dia berkata; 'Aku pernah duduk-duduk bersama Huzhaifah dan Abu Musa (lalu dia menyebutkan Haditsnya). Hadits Quthbah lebih banyak dan lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6330</td></tr><tr><td>Arabic No</td><td>2461.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6330</td></tr><tr><td>Arabic No</td><td>2461.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 160</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umar bin ‘Abd Al ‘Aziz asked Al Sa’ib bin Yazid “Did you hear anything r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], telah menceritakan kepada kami [Abdul Aziz Ad Darawardi], dari [Abdurrahman bin Humaid] bahwa ia mendengar Umar bin Abdul Aziz bertanya kepada [As Saib bin Yazid]; apakah engkau pernah mendengar sesuatu mengenai bermukim di Mekkah? Ia berkata; telah mengabarkan kepadaku [Ibnu Al Hadhrami], bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam berkata kepada orang-orang muhajirin: "(Lama) bermukim (di Mekkah) setelah menunaikan ibadah haji adalah tiga hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3933) Sahih Muslim (1352)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2022</td></tr><tr><td>Arabic No</td><td>2022</td></tr><tr><td>Reference</td><td>Book 11 Hadith 302</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуррахмана ибн Хумайда, что он слышал ‘Умара ибн ‘Абдуль‘азиза, который спросил Саъиба ибн Язида: «Слышал ты что-нибудь о пребывании в Мекке?» (Саъиб) ответил: «Сообщил мне Ибн аль-Хадрами, как он слышал Посланника Аллаха ﷺ как он обращался к мухаджирам: “Пребывание (в Мекке) после (тавафа) садр три дня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3933) Sahih Muslim (1352)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2022</td></tr><tr><td>Arabic No</td><td>2022</td></tr><tr><td>Reference</td><td>Book 11 Hadith 302</td></tr></tbody></table></div>
 

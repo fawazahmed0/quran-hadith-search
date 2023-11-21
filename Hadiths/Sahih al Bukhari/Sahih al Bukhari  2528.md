@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah has accepted my invocation t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Mis'ar] dari [Qatadah] dari [Zurarah bin Awfaa] dari [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Allah memberi kelonggaran kepadaku tentang ummatku, mereka tidak dianggap melakukan dosa dari apa yang dibisikkan dalam dadanya (hatinya) selama tidak dikerjakan atau diucapkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2528</td></tr><tr><td>Arabic No</td><td>2528</td></tr><tr><td>Reference</td><td>Book 49 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, Аллах (обещал) мне прощать (членам) моей общины то, что будут внушать им их сердца, если только они не станут действовать (сообразно этому) или говорить (об этом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2528</td></tr><tr><td>Arabic No</td><td>2528</td></tr><tr><td>Reference</td><td>Book 49 Hadith 12</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zayd Ibn Thâbit (que Dieu l'agrée) a dit : Lorsque le Prophète (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari ['Adi bin Tsabit] dia berkata; aku mendengar ['Abdullah bin Yazid] bercerita dari [Zaid bin Tsabit] bahwa ketika Nabi shallallahu 'alaihi wasallam berangkat ke medan perang Uhud, beberapa orang yang ikut berangkat bersama-sama beliau pulang kembali di tengah perjalanan. Karena itu, para sahabat Nabi shallallahu 'alaihi wasallam berbeda pendapat mengenai mereka menjadi dua golongan: Sebagian mengatakan mereka harus diperangi dan sebagian lagi mengatakan jangan diperangi. Karena itu, turunlah ayat: 'Mengapa kamu menjadi dua golongan dalam (menghadapi) orang-orang munafik…' (QS. An Nisaa (4): 88). Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Abu Bakr bin Nafi'] telah menceritakan kepada kami [Ghundar] keduanya dari [Syu'bah] melalui sanad ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7031</td></tr><tr><td>Arabic No</td><td>2776.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7031</td></tr><tr><td>Arabic No</td><td>2776.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 8</td></tr></tbody></table></div>
 

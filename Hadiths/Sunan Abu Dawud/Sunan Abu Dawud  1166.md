@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. Zaid said:The Messenger of Allah (pbuh)went out to the place of pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Sulaiman yaitu Ibnu Bilal] dari [Yahya] dari [Abu Bakr bin Muhammad] dari ['Abbad bin Tamim] bahwa [Abdullah bin Zaid] telah mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam keluar menuju Mushalla (tempat shalat) memohon di turunkannya hujan, dan ketika beliau hendak berdo'a, beliau menghadap kiblat sambil merubah posisi selendangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1023) Sahih Muslim (894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1166</td></tr><tr><td>Arabic No</td><td>1166</td></tr><tr><td>Reference</td><td>Book 3 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Зейда, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ отправился к месту совершения молитвы, чтобы обратиться к Аллаху с мольбой о ниспослании дождя, и перед этим он, обратившись в сторону киблы, перевернул свой плащ обратной стороной
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1023) Sahih Muslim (894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1166</td></tr><tr><td>Arabic No</td><td>1166</td></tr><tr><td>Reference</td><td>Book 3 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) came to visit me (while I was sick) and he was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Abbas] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [Muhammad yaitu Ibnu Al Munkadir] dari [Jabir] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam pernah datang menjengukku tanpa mengendarai bighal (peranakan kuda dengan keledai) dan tidak pula birdzaun (keledai yang asal-usul keturunannya bukan dari Arab)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5664</td></tr><tr><td>Arabic No</td><td>5664</td></tr><tr><td>Reference</td><td>Book 75 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ пешком пришёл навестить меня, и он не приехал ни на муле, ни на лошади»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5664</td></tr><tr><td>Arabic No</td><td>5664</td></tr><tr><td>Reference</td><td>Book 75 Hadith 24</td></tr></tbody></table></div>
 

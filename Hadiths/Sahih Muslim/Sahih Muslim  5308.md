@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported on the authority of Hammad with the same chain of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami [Bahz]; Telah menceritakan kepada kami [Wuhaib]; Telah menceritakan kepada kami [Suhail] dari [Bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika salah seorang diantara kalian selesai makan, maka hendaklah ia menjilati jari-jemarinya, karena dia tidak tahu ada dimana berkahnya. Dan telah menceritakannya kepada kami [Abu Bakr bin Nafi']; Telah menceritakan kepada kami ['Abdurrahman] yaitu Ibnu Mahdi ia berkata; Telah menceritakan kepada kami [Hammad] dengan sanad ini, hanya saja dia berkata dengan lafazh; 'Dan hendaklah salah seorang di antara kalian menjilati piring. Juga sabda beliau: 'Kalian tidak tahu mana makanan yang ada berkahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5308</td></tr><tr><td>Arabic No</td><td>2035.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5308</td></tr><tr><td>Arabic No</td><td>2035.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 182</td></tr></tbody></table></div>
 

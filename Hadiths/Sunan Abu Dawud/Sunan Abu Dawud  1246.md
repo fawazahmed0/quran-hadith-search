@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hudhayfah: Tha'labah ibn Zahdam said: We accompanied Sa'd ibn al-'As at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepadaku [Al Asy'Ats Tsauri bin Sulaim] dari [Al Aswad bin Hilal] dari [Tsa'labah bin Zahdam] dia berkata; "Kami bersama Sa'id bin Al 'Ash di daerah Thabaristan, kemudian dia berdiri dan berkata "Siapakah di antara kalian yang pernah mengerjakan shalat khauf bersama Rasulullah shallallahu 'alaihi wasallam?" maka [Hudzaifah] menjawab; "Aku, beliau mengerjakan shalat satu raka'at dengan satu kelompok, dan mengerjakan satu raka'at dengan kelompok yang lain, dan mereka tidak menambah (sendiri-sendiri)." Abu Daud berkata; "Demikian juga yang di riwayatkan ['Ubaidullah bin Abdullah] dan [Mujahid] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam. Dan [Abdullah bin Syaqiq] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam. Serta [Yazid Al Faqir] dan [Abu Musa]. Abu Daud berkata; "-Abu Musa yang di maksud adalah seorang tabi'in, bukan (Abu Musa) Asy'ari seorang sahabat, semuanya dari [Jabir] dari Nabi shallallahu 'alaihi wasallam. Sebagian mereka berkata; dari Syu'bah dalam haditsnya Yazid Al Faqir, "Mereka menyempurnakan satu raka'at lagi." Demikian juga yang di riwayatkan [Simak Al Hanafi] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam. Demikian juga yang di riwayatkan Zaid bin Tsabit dari Nabi shallallahu 'alaihi wasallam, dia berkata; "…Untuk setiap kelompok, mengerjakan satu raka'at-satu raka'at, sedangkan Nabi shallallahu 'alaihi wasallam mengerjakan dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1246</td></tr><tr><td>Arabic No</td><td>1246</td></tr><tr><td>Reference</td><td>Book 4 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказывается от Са‘лябы ибн Захдама: «Мы были вместе с Са‘идом ибн аль-‘Асом в Табаристане, и он спросил: “Кто из вас совершал вместе с посланником Аллаха ﷺ молитву под воздействием страха?” Хузайфа сказал: “Я. Он совершил один рак‘ат с этими и один рак‘ат с теми, и никто из них ничего не восполнял”». Абу Дауд сказал: «Так его передал ‘Убайдуллах ибн ‘Абдуллах и Муджахид от Ибн ‘Аббаса от Пророка ﷺ и ‘Абдуллах ибн Шакык от Абу Хурайры от Пророка ﷺ и Язид аль-Факыр и Абу Муса из числа последователей сподвижников, не аль-Аш‘ари они передавали от Джабира, и кто-то из них сказал, передавая от Шу‘бы в версии Язида аль-Факыра, что они восполнили другой рак‘ат. Так же передал его Симак аль-Ханафи от Ибн ‘Умара от Пророка ﷺ. И его передал Зейд ибн Сабит от Пророка ﷺ и в его версии говорится: “И получилось, что люди совершили по рак‘ату, а Пророк ﷺ два рак‘ата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1246</td></tr><tr><td>Arabic No</td><td>1246</td></tr><tr><td>Reference</td><td>Book 4 Hadith 49</td></tr></tbody></table></div>
 

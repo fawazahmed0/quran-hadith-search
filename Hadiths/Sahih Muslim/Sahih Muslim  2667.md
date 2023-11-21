@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b 'Abbas reported that the Messenger of Allah (ﷺ) had said:If I live 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, Telah menceritakan kepada kami [Waki'] dari [Ibnu Abu Dzi'b] dari [Al Qasim bin Al Abbas] dari [Abdullah bin Umair] -sepertinya dia berkata- dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seandainya tahun depan aku masih hidup, niscaya saya benar-benar akan berpuasa pada hari ke sembilan (Muharram)." Sementara dalam riwayat Abu Bakr ia berkata; Yakni pada hari 'Asyura
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2667</td></tr><tr><td>Arabic No</td><td>1134.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ сказал: “Если доживу я до следующего (года), то обязательно буду поститься в девятый”».В своей версии Абу Бакр сказал: «Имея ввиду день ‘Ашураъ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2667</td></tr><tr><td>Arabic No</td><td>1134.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 173</td></tr></tbody></table></div>
 

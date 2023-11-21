@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) ascended the pulpit and sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Sinan] telah bercerita kepada kami [Fulaih] telah bercerita kepada kami [Hilal] dari ['Atha' bin Yasar] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam berdiri di atas mimbar lalu bersabda: "Sungguh yang aku khawatirkan atas kalian sepeninggalku adalah bila dibukakan kepada kalian keberkahan bumi". Maka Beliau menyebut bunga-bunga dunia yang dimulai dengan yang pertama lalu dilanjutkan dengan yang lainnya. Lalu ada seorang yang berdiri seraya berkata: "Wahai Rasulullah, apakah kebaikan akan datang membawa keburukan?" Maka Nabi shallallahu 'alaihi wasallam terdiam atas pertanyaan orang itu. Kami berkata: "Beliau sedang mendapat wahyu". Maka orang-orang terdiam seolah di atas kepala mereka ada burung yang bertengger. Kemudian Beliau mengusap wajahnya yang penuh dengan keringat lalu bertanya: "Mana orang yang bertanya tadi? Apakah kebaikan itu?" Beliau bertanya tiga kali."Sesungguhnya kebaikan itu tidak akan datang kecuali (dengan membawa) kebaikan. Sesungguhnya apa yang ditumbuhkan pada musim semi dapat membinasakan atau dapat mendekatkan kepada kematian kecuali seperti ternak pemakan dedaunan hijau yang apabila sudah kenyang dia akan memandang matahari lalu mencret kemudian kencing lalu dia kembali merumput (makan lagi). Dan sungguh harta itu seperti dedaunan hijau yang manis. Maka beruntunglah seorang muslim yang dia mendapatkan harta dengan haq dan dengan hartanya itu dia nafkahkan di jalan Allah, anak-anak yatim, orang-orang miskin, dan ibnu sabil (musafir yang kehabisan bekal). Dan barangsiapa yang mengambil harta dunia tanpa hak ia seperti orang yang memakan namun tidak pernah kenyang dan harta itu akan menjadi saksi baginya pada hari qiyamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2842</td></tr><tr><td>Arabic No</td><td>2842</td></tr><tr><td>Reference</td><td>Book 56 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, рассказывал: «Однажды Посланник Аллаха ﷺ встал на минбар и сказал: “Поистине, чего я боюсь для вас после моей смерти, так это то, что вам будут дарованы земные блага”. Затем он упомянул украшения этого мира. Таким образом он начал с одного, затем упомянул другое. Один человек встал и спросил: “О Посланник Аллаха, а разве благо приносит с собой и зло?” (однако) Пророк ﷺ хранил молчание. Тогда мы сказали: “Ему ниспосылается откровение”. Люди хранили молчание так, будто на их головах сидели птицы. (Через некоторое время) Пророк ﷺ отёр (с лица) обильный пот и спросил: “Где тот, кто задал вопрос? Разве это благо?” Он повторил это три раза. “Поистине, благо приносит с собой только благо и, поистине, из (растений,) появляющихся на свет рядом с потоками, (есть такие, что) убивают (животных) или вызывают у них болезни, которые могут погубить их, кроме животных, которые питаются только растительностью; когда же бока его раздуваются, оно поворачивается к солнцу, испражняется, мочится и снова начинает есть. Поистине, это богатство привлекательно и приятно на вкус, и прекрасно поступит обладающий богатством мусульманин, если станет тратить часть его на пути Аллаха, сирот и неимущих. Что же касается приобретающего богатство незаконно, то он подобен тому, кто ест, но не может насытиться, и (такое богатство) будет свидетельствовать против него в День воскрешения!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2842</td></tr><tr><td>Arabic No</td><td>2842</td></tr><tr><td>Reference</td><td>Book 56 Hadith 58</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of 'Abbas b. 'Abdul-Muttalib that he heard the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Abu Umar al-Makki] dan [Bisyr bin al-Hakam] keduanya berkata, telah menceritakan kepada kami [Abdul Aziz] -yaitu Ibnu Muhammad ad-Darawardi- dari [Yazid bin al-Had] dari [Muhammad bin Ibrahim] dari [Amir bin Sa'ad] dari [al-Abbas bin Abdul Muththalib] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang ridla dengan Allah sebagai Rabb dan Islam sebagai agama serta Muhammad sebagai Rasul, maka dia telah merasakan nikmatnya iman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>151</td></tr><tr><td>Arabic No</td><td>34</td></tr><tr><td>Reference</td><td>Book 1 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-‘Аббаса ибн ‘Абдульмутталиба о том, что он слышал, как Посланник Аллаха ﷺ говорил: «Вкус веры ощутит тот, кто будет доволен Аллахом, как Господом, исламом как религией и Мухаммадом как посланником»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>151</td></tr><tr><td>Arabic No</td><td>34</td></tr><tr><td>Reference</td><td>Book 1 Hadith 58</td></tr></tbody></table></div>
 

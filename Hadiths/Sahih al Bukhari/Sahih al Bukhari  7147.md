@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Samura:Allah's Messenger (ﷺ) said, "O 'Abdur-Rahman
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdl Warits] telah menceritakan kepada kami [Yunus] dari [Al Hasan] mengatkan telah menceritakan kepadaku [Abdurrahman bin Samurah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Wahai Abdurrahman bin Samurah, janganlah kamu meminta jabatan, sebab jika kamu diberi jabatan dengan meminta, maka kamu akan ditelantarkan, dan jika kamu diberi dengan tanpa meminta, maka kamu akan diotolong, dan jika kamu melakukan suatu sumpah, lantas kau lihat selainnya lebih baik, maka lakukanlah yang lebih baik dan bayarlah kafarat sumpahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7147</td></tr><tr><td>Arabic No</td><td>7147</td></tr><tr><td>Reference</td><td>Book 93 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуррахмана ибн Самуры, да будет доволен им Аллах: «Посланник Аллаха ﷺ сказал мне: “О ‘Абдуррахман ибн Самура, не добивайся власти, ибо, если она будет дарована тебе по твоей просьбе, то ты будешь предоставлен в ней самому себе, а если она будет дана тебе без просьб с твоей стороны, то тебе будет оказана помощь в (том, что связано с) ней. А если ты поклянёшься в чём-либо, но потом увидишь, что нечто иное лучше (того, что ты поклялся сделать), то сделай то, что лучше, и искупи свою клятву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7147</td></tr><tr><td>Arabic No</td><td>7147</td></tr><tr><td>Reference</td><td>Book 93 Hadith 11</td></tr></tbody></table></div>
 

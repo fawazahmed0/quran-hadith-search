@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah bin Tha'labah ibn Su'ayr reported on the authority of his father:The M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ali bin Al Hasan Ad Darabijirdi], telah menceritakan kepada Kami [Abdullah bin Yazid], telah menceritakan kepada Kami [Hammam], telah menceritakan kepada Kami [Bakr yaitu Ibnu Wail] dari [Az Zuhri] dari [Tsa'labah bin Abdullah] atau Abdullah bin Tsa'labah, dari Nabi shallallahu 'alaihi wasallam. Dan telah diriwayatkan melalui jalur yang lain: Telah menceritakan kepada Kami [Muhammad bin Yahya An Naisaburi], telah menceritakan kepada Kami [Musa bin Ismail], telah menceritakan kepada Kami [Hammam] dari [Bakr Al Kufi], Muhammad bin Yahya berkata; ia adalah Bakr bin Wail bin Daud, bahwa [Az Zuhri] telah menceritakan kepada mereka dar [Abdullah bin Tsa'labah bin Shu'air] dari [ayahnya], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam berdiri berkhutbah, dan memerintahkan untuk menunaikan zakat fitrah, satu sha' kurma, atau satu sha' gandum untuk setiap kepala. Ali menambahkan dalam haditsnya; atau satu sha' kurma diantara dua orang. Kemudian mereka sama mengenai anak kecil, orang dewasa, orang merdeka, dan seorang budak. Telah menceritakan kepada Kami [Ahmad bin Shalih], telah menceritakan kepada Kami [Abdurrazzaq], telah mengabarkan kepada Kami [Ibnu Juraij], ia berkata; [Ibnu Syihab] berkata; [Abdullah bin Tsa'labah] berkata; [Ibnu Shalih] berkata; [Al 'Adawi] berkata; sesungguhnya ia adalah Al 'Udzri; Rasulullah shallAllahu wa'alaihi wa sallam berkhutbah kepada orang-orang dua hari sebelum 'Idul Fitri, seperti makna hadits Al Muqri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1620</td></tr><tr><td>Arabic No</td><td>1620</td></tr><tr><td>Reference</td><td>Book 9 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1620</td></tr><tr><td>Arabic No</td><td>1620</td></tr><tr><td>Reference</td><td>Book 9 Hadith 65</td></tr></tbody></table></div>
 

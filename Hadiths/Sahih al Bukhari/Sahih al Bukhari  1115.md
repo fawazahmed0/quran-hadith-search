@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Husain:(who had piles) I asked Allah's Messenger (ﷺ) about
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] berkata, telah mengabarkan kepada kami [Rauh bin 'Ubadah] telah mengabarkan kepada kami [Husain] dari ['Abdullah bin Buraidah] dari ['Imran bin Hushain radliallahu 'anhu] bahwa dia pernah bertanya kepada Nabi shallallahu 'alaihi wasallam, dan telah mengabarkan kepada kami [Ishaq] berkata, telah mengabarkan kepada kami ['Abdush Shamad] berkata; Aku mendengar [Bapakku] berkata, telah menceritakan kepada kami [Al husain] dari [Abu Buraidah] berkata, telah menceritakan kepada saya ['Imran bin Hushain radliallahu 'anhu] yang saat itu sedang menderita sakit wasir berkata; Aku pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang seseorang yang melaksanakan shalat dengan duduk. Maka Beliau shallallahu 'alaihi wasallam menjawab: "Jika ia shalat dengan berdiri maka itu lebih utama. Dan siapa yang melaksanakan shalat dengan duduk maka baginya setengah pahala dari orang yang shalat dengan berdiri dan siapa yang shalat dengan tidur (berbaring) maka baginya setengah pahala orang yang shalat dengan duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1115</td></tr><tr><td>Arabic No</td><td>1115</td></tr><tr><td>Reference</td><td>Book 18 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что однажды он спросил Посланника Аллаха ﷺ о человеке, который совершает молитву сидя, на что он ответил: «Молиться стоя лучше для него, чем молиться сидя, и его молитва сидя соответствует половине молитвы, совершённой стоя, а молитва, совершённая лёжа, соответствует половине молитвы, совершённой сидя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1115</td></tr><tr><td>Arabic No</td><td>1115</td></tr><tr><td>Reference</td><td>Book 18 Hadith 35</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) sent a Sariya towards Najd and I was in it,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] Telah menceritakan kepada kami [Hammad] Telah menceritakan kepada kami [Ayyub] dari [Nafi] dari [Ibnu Umar] radliallahu 'anhu, katanya, Nabi shallallahu 'alaihi wasallam mengirim sebuah ekpedisi militer ke arah Najed dan aku termasuk dalam pasukan itu, bagian ghanimah kami sebanyak dua belas ekor unta dan kami diberi nafl (pemberian cuma-cuma) masing-masing seekor unta, sehingga kami pulang masing-masing membawa tiga belas ekor unta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4338</td></tr><tr><td>Arabic No</td><td>4338</td></tr><tr><td>Reference</td><td>Book 64 Hadith 367</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «(Однажды) Пророк ﷺ отправил в сторону Неджда отряд воинов, среди которых был и я. На долю каждого воина пришлось по двенадцать верблюдов, (а кроме того,) каждый дополнительно получил ещё по одному верблюду, таким образом каждый из нас вернулся с тринадцатью верблюдами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4338</td></tr><tr><td>Arabic No</td><td>4338</td></tr><tr><td>Reference</td><td>Book 64 Hadith 367</td></tr></tbody></table></div>
 

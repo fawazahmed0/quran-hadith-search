@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The last Verse (in the Qur'an) revealed to the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah bin Uqbah] Telah menceritakan kepada kami [Sufyan] dari ['Ashim] dari [As Sya'bi] dari [Ibnu Abbas radliallahu 'anhuma] dia berkata; Ayat terakhir yang di turunkan kepada Nabi shallallahu 'alaihi wasallam adalah ayat tentang riba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4544</td></tr><tr><td>Arabic No</td><td>4544</td></tr><tr><td>Reference</td><td>Book 65 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Аббас, да будет доволен Аллах им и его отцом, сказал: «Последним аятом ниспосланным Пророку ﷺ был аят о ростовщичестве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4544</td></tr><tr><td>Arabic No</td><td>4544</td></tr><tr><td>Reference</td><td>Book 65 Hadith 67</td></tr></tbody></table></div>
 

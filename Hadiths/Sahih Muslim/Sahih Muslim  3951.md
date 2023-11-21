@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hanzala b. Qais reported that he asked Rafi b. Khadij (Allah be pleased with him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Rabi'ah bin Abu Abdurrahman] dari [Handlalah bin Qais] bahwa dia pernah bertanya kepada [Rafi' bin Khadij] mengenai menyewakan tanah perkebunan dengan memungut sebagian hasil tanaman (Kira'). Dia menjawab; "Rasulullah shallallahu 'alaihi wasallam telah melarang melakukan yang demikian itu." Handlalah berkata; Lalu kukatakan; "Bagaimana kalau disewakan dengan emas atau perak?" Dia menjawab; "Tidak mengapa jika disewakan dengan emas atau perak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3951</td></tr><tr><td>Arabic No</td><td>1547.11</td></tr><tr><td>Reference</td><td>Book 21 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3951</td></tr><tr><td>Arabic No</td><td>1547.11</td></tr><tr><td>Reference</td><td>Book 21 Hadith 150</td></tr></tbody></table></div>
 

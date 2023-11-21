@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The first group of people wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Jarir] dari ['Umarah] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Rombongan pertama yang masuk surga rupa mereka seperti bentuk bulan saat purnama kemudian diikuti oleh rombongan berikutnya yang rupanya bagaikan bintang-bintang yang bercahaya di langit, mereka tidak akan pernah membuang air besar di dalamnya, tidak kencing, tidak meludah dan tidak pula beringus. Sisir-sisir mereka terbuat dari emas, keringat mereka seharum minyak misik dan tempat perapian mereka terbuat dari kayu cendana yang sedemikian wangi. Istri-istri mereka adalah bidadari yang dicipta secara bersamaan (sekaligus, satu waktu) bentuk seperti nenek moyang mereka, Adam 'alaihissalam, yang tingginya enam puluh hasta yang menjulang ke langit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3327</td></tr><tr><td>Arabic No</td><td>3327</td></tr><tr><td>Reference</td><td>Book 60 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Первая группа, входящих в Рай, (будет сиять), словно луна в ночь полнолуния. Следующие за ними (войдут в Рай), сияя так, как (сияет) в небе самая яркая звезда. (В Раю) они не будут справлять ни малую, ни большую нужду, ни плевать, ни сморкаться, (там) их гребни будут золотыми, а пот их (будет пахнуть) мускусом, а в их курильницах (будет гореть) алоэ. Их жёнами будут черноокие и большеглазые (райские девы), сердца их будут подобны единому сердцу, и они будут подобны своему отцу Адаму, ростом в шестьдесят локтей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3327</td></tr><tr><td>Arabic No</td><td>3327</td></tr><tr><td>Reference</td><td>Book 60 Hadith 2</td></tr></tbody></table></div>
 

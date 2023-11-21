@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu ath-Thahir] telah menceritakan kepada kami [Ibnu Wahb] dari [Haiwah] bahwa [Abu Yunus maula Abu Hurairah ra] telah menceritakan kepadanya, dia berkata, saya mendengar [Abu Hurairah] Radhiyallahu'anhu berkata dari Rasulullah shallallahu 'alaihi wasallam bahwa beliau bersabda, " Imam dijadikan untuk mengimami, apabila dia bertakbir, maka kalian bertakbirlah, apabila dia rukuk, maka kalian rukuklah. Dan apabila dia mengucapkan, 'Sami'allahu liman hamidahu', maka ucapkanlah, 'Allahumma laka al-Hamdu'. Dan apabila dia shalat berdiri, maka kalian shalatlah berdiri, dan apabila kalian shalat dalam keadaan duduk, maka kalian shalat dalam keadaan duduklah semuanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>935</td></tr><tr><td>Arabic No</td><td>417</td></tr><tr><td>Reference</td><td>Book 4 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Поистине, имам назначается для того, чтобы следовать за ним. Поэтому когда он произнесёт (слова) такбира, то и вы произносите их. Когда он совершит поясной поклон, то и вы совершайте его. Когда он скажет: “Да услышит Аллах того, кто Его восхваляет!” /Сами‘а-Ллаху лиман хамидах/, говорите: “О Аллах, Господь наш, хвала Тебе” /Аллахумма Рабба-на, ля-ка ль-хамд/. И если он будет совершать молитву стоя, то и вы молитесь стоя, а если он будет совершать молитву сидя, то и вы все молитесь сидя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>935</td></tr><tr><td>Arabic No</td><td>417</td></tr><tr><td>Reference</td><td>Book 4 Hadith 97</td></tr></tbody></table></div>
 

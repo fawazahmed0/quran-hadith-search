@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Wahb bin Kaisan:The People of Sham taunted 'Abdullah bin Az-Zubair by c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] Telah mengabarkan kepada kami [Abu Mu'awiyah] Telah menceritakan kepada kami [Hisyam] dari [bapaknya] dan dari [Wahb bin Kaisan] ia berkata; Para penduduk Syam menjuluki Ibnu Zubair dengan panggilan, "Wahai Ibnu Dzata An Nithaaqain." Maka [Asma'] pun berkata padanya, "Wahai anakku, sesungguhnya mereka menjulukimu dengan An Nithaaqain. Apakah kamu apakah itu An Nithaaqain. Demikian itu hanyalah karena, ikat pinggangku yang telah aku sobek menjadi dua. Lalu aku mengikat geriba Rasulullah shallallahu 'alaihi wasallam dengan salah satu darinya, sedangkan yang satu lagi aku letakkan untuk mengikat rangsum." Di kemudian hari, jika ada orang yang memberinya julukan buruk dengan panggilan 'Nithaqaini', ia jawab ' Hei, demi Allah, itu adalah panggilan yang jelas-jelas tercela
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5388</td></tr><tr><td>Arabic No</td><td>5388</td></tr><tr><td>Reference</td><td>Book 70 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Вахб ибн Кейсан рассказывал: «Жители Шама насмехались над Ибн аз-Зубайром, говоря ему: “О сын обладательницы двух поясов /зат ан-нитакейн/”. И (его мать) Асма сказала ему: “О сынок, они насмехаются над тобой из-за двух поясов, а знаешь ли ты, что это были за два пояса? Это был мой пояс, который я разорвала на две части: одной я перевязала бурдюк Посланника Аллаха ﷺ, а другой — еду”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5388</td></tr><tr><td>Arabic No</td><td>5388</td></tr><tr><td>Reference</td><td>Book 70 Hadith 16</td></tr></tbody></table></div>
 

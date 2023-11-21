@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I used to recognize the completion of the prayer of the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru] berkata, telah mengabarkan kepadaku [Abu Ma'bad] dari [Ibnu 'Abbas] radliallahu 'anhuma berkata, "Aku mengetahui selesainya shalat Nabi shallallahu 'alaihi wasallam dari suara takbir." 'Ali berkata, telah menceritakan kepada kami Sufyan dari 'Amru ia berkata, "Abu Ma'bad adalah salah satu budak Ibnu 'Abbas yang paling jujur." 'Ali berkata, "Nama aslinya adalah Nafidz
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>842</td></tr><tr><td>Arabic No</td><td>842</td></tr><tr><td>Reference</td><td>Book 10 Hadith 234</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Я узнавал об окончании молитвы Пророка ﷺ по такбиру»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>842</td></tr><tr><td>Arabic No</td><td>842</td></tr><tr><td>Reference</td><td>Book 10 Hadith 234</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Ata' ibn AbuRabah said: Ibn az-Zubayr led us in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Tharif Al Bajali] telah menceritakan kepada kami [Asbath] dari [Al A'masy] dari [Atha' bin Abu Rabah] dia berkata; [Ibnu Zubair] shalat bersama kami pada hari raya di hari jum'at, di awal hari, kemudian kami berangkat untuk melaksanakan shalat jum'at, namun dia tidak keluar untuk mengimami kami, akhirnya kami shalat sendiri-sendiri, ketika itu [Ibnu Abbas] sedang berada di thaif, setelah datang, kami sampaikan hal itu kepadanya, dia menjawab; "Dia (Ibnu Zubair) benar telah melaksanakan sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1071</td></tr><tr><td>Arabic No</td><td>1071</td></tr><tr><td>Reference</td><td>Book 2 Hadith 682</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ата ибн Абу Рабаха: «Ибн аз-Зубайр совершил с нами молитву в праздник, который выпал на пятницу, в начале дня, после чего мы собрались для совершения пятничной молитвы, однако он не вышел к нам и мы совершили молитву без него. А Ибн ‘Аббас был в Таифе и, когда он вернулся, мы рассказали ему об этом и он сказал: “Он поступил в соответствии с Сунной”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1071</td></tr><tr><td>Arabic No</td><td>1071</td></tr><tr><td>Reference</td><td>Book 2 Hadith 682</td></tr></tbody></table></div>
 

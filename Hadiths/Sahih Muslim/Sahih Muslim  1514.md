@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubayy b. Ka'b reported:There was a man, and I do not know of any other man, whos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abtsar] dari [Sulaiman At Tamimi] dari [Abu Usman An Nahdi] dari [Ubay bin Ka'b] katanya; seseorang yang setahuku tak ada lagi yang lebih jauh (rumahnya) dari masjid, dan ia tak pernah ketinggalan dari shalat. Ubay berkata; maka ia diberi saran atau kusarankan; "Bagaimana sekiranya jika kamu membeli keledai untuk kamu kendarai saat gelap atau saat panas terik? laki-lakiitu menjawab; "Aku tidak ingin rumahku disamping masjid, sebab aku ingin jalanku ke masjid dan kepulanganku ke rumah semua dicatat." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Telah Allah himpun untukmu semuanya tadi." Dan telah menceritakan kepada kami [Muhammad bin Abdul A'la] telah menceritakan kepada kami [Al Mu'tamir] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ishaq bin Ibrahim] katanya; telah mengabarkan kepada kami [Jarir], keduanya dari [At Taimi] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1514</td></tr><tr><td>Arabic No</td><td>663.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 347</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Убайй ибн Ка‘б сказал: «Жил (в Медине) один человек, и я не знаю никого другого, кто жил бы от мечети дальше, чем он, но (тем не менее) он не пропускал ни одной (коллективной) молитвы. Однажды кто-то сказал ему (или: … я сказал ему): “Купил бы ты себе осла, на котором передвигался бы в тёмную (ночь) и в палящий зной!”, на что он (дал такой ответ): “Я бы не желал владеть жилищем, находящемся рядом с мечетью. Я желаю, чтобы мне записывались мои шаги (по направлению) к мечети, и (записывалось) моё возвращение, когда я буду возвращаться к своей семье”. (Узнав об этих его словах), Посланник Аллаха ﷺ сказал: “Аллах собрал для тебя всё это!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1514</td></tr><tr><td>Arabic No</td><td>663.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 347</td></tr></tbody></table></div>
 

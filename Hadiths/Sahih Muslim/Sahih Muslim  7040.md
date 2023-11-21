@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Il y avait parmi nous un homme des B
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abu An Nadhr] telah menceritakan kepada kami [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Anas bin Malik] dia berkata; "Dulu ada seorang sahabat laki-laki dari Bani Najjar. Sahabat tersebut telah menghafal surah Al Baqarah dan surah Ali Imran. Selain itu, ia juga pernah menjadi juru tulis Rasulullah shallallahu 'alaihi wasallam. Hingga pada suatu hari ia melarikan diri dan bergabung dengan Ahli Kitab." Anas berkata; 'Ternyata orang-orang Ahli Kitab memuliakan dan menghormatinya. Mereka berkata; 'Sesungguhnya orang laki-laki ini pernah menjadi juru tulis Muhammad.' Maka semakin tambah hormatnya mereka kepada orang laki-laki itu. Tak lama kemudian, orang itu meninggal dunia di tengah-tengah orang-orang Ahli Kitab. Lalu mereka menggali tanah untuk menguburkannya. Tetapi kemudian, bumi malah memuntahkan mayatnya ke atas. Mereka menggali tanah lagi untuk menguburkannya. Tetapi kemudian bumi malah memuntahkan mayatnya ke atas. Mereka menggali tanah lagi untuk menguburkannya. Tetapi kemudian bumi malah memuntahkan mayatnya ke atas, hingga mereka membiarkannya tergeletak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7040</td></tr><tr><td>Arabic No</td><td>2781</td></tr><tr><td>Reference</td><td>Book 51 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7040</td></tr><tr><td>Arabic No</td><td>2781</td></tr><tr><td>Reference</td><td>Book 51 Hadith 17</td></tr></tbody></table></div>
 

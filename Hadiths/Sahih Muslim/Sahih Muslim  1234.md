@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shakhkhir reported on the authority of his father that he said:I sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz al-Anbari] telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Kahmas] dari [Yazid bin Abdullah bin asy-Syikhkhir] dari [Bapaknya] dia berkata, "Saya shalat bersama Rasulullah Shallallahu'alaihiwasallam lalu saya melihat beliau meludah, lalu dia menggosok-gosoknya dengan sandalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>554.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн аш-Шиххир сказал: «(Однажды) я молился вместе с Посланником Аллаха ﷺ и видел, как он сплюнул и растёр плевок сандалией»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>554.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
 

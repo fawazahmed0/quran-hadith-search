@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said:The Messenger of Allah (May peace be upon him) got up at night
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Salamah bin Kuhail] dari [Kuraib] dari [Ibnu Abbas] berkata, "Rasulullah shallallahu 'alaihi wasallam bangun di waktu malam, kemudian beliau menyelesaikan hajatnya, lalu membasuh wajah dan tangannya dan tidur kembali." Abu Dawud berkata, "Yang dimaksud dengan menyelesaikan hajatnya adalah kencing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6316) Sahih Muslim (763)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5043</td></tr><tr><td>Arabic No</td><td>5043</td></tr><tr><td>Reference</td><td>Book 43 Hadith 271</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6316) Sahih Muslim (763)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5043</td></tr><tr><td>Arabic No</td><td>5043</td></tr><tr><td>Reference</td><td>Book 43 Hadith 271</td></tr></tbody></table></div>
 

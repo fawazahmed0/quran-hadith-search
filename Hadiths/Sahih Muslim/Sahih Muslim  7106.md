@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that Allah's Messenger (ﷺ) said:Iblis places his throne upon wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib, Muhammad bin Al Ala'] dan [Ishaq bin Ibrahim], teks milik Abu Kuraib, keduanya berkata: Telah mengkhabarkan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Abu Sufyan] dari [Jabir] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya Iblis meletakkan singgasananya di atas air lalu mengirim bala tentaranya, (setan) yang kedudukannya paling rendah bagi Iblis adalah yang paling besar godaannya. Salah satu diantara mereka datang lalu berkata: 'Aku telah melakukan ini dan itu.' Iblis menjawab: 'Kau tidak melakukan apa pun.' Lalu yang lain datang dan berkata: 'Aku tidak meninggalkannya hingga aku memisahkannya dengan istrinya.' Beliau bersabda: "Iblis mendekatinya lalu berkata: 'Bagus kamu." Al A'masy menyebutkan dalam riwayatnya: "Iblis berkata: 'Tetaplah (menggodanya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7106</td></tr><tr><td>Arabic No</td><td>2813.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7106</td></tr><tr><td>Arabic No</td><td>2813.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 60</td></tr></tbody></table></div>
 

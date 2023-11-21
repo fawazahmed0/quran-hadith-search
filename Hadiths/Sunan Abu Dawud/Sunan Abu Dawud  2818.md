@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: explaining the verse "But the evil ones ever inspir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Israil], telah menceritakan kepada kami [Simak], dari [Ikrimah] dari [Ibnu Abbas], mengenai firman Allah: "Sesungguhnya syaitan itu membisikkan kepada kawan-kawannya." Mereka mengatakan; apa yang Allah sembelih janganlah kalian makan dan apa yang kalian sembelih makanlah! Kemudian Allah 'azza wajalla menurunkan ayat: "Dan jangan kalian makan apa yang yang belum disebutkan nama Allah padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2818</td></tr><tr><td>Arabic No</td><td>2818</td></tr><tr><td>Reference</td><td>Book 16 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего «И, поистине, шайтаны внушают своим приближённым…» (сура 6 «аль-Ан‘ам», аят 121): «Они говорят: “Что зарезал Аллах, то не ешьте, а что зарезали вы, то ешьте?”». Тогда Всемогущий и Великий Аллах ниспослал: «И не ешьте из того, над чем не было помянуто имя Аллаха» (сура 6 «аль-Ан‘ам», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2818</td></tr><tr><td>Arabic No</td><td>2818</td></tr><tr><td>Reference</td><td>Book 16 Hadith 31</td></tr></tbody></table></div>
 

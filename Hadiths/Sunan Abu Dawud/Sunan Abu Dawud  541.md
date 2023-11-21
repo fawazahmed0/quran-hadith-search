@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported:when the Iqamah was pronounced for prayer during the time 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] telah menceritakan kepada kami [Al-Walid] dia berkata; [Abu Amru] berkata, -dari jalur lain- Dan telah menceritakan kepada kami [Dawud bin Rusyaid] telah menceritakan kepada kami [Al-Walid] dan ini adalah lafazh riwayatnya dari [Al-Auza'i] dari [Az-Zuhri] dari [Abu Salamah] dari [Abu Hurairah] bahwasanya iqamah shalat dikumandangkan untuk Rasulullah shallallahu 'alaihi wasallam, lalu orang orang (para sahabat) segera mengambil tempat (pada shaf), sebelum Nabi shallallahu 'alaihi wasallam mengambil tempat shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (640) Sahih Muslim (605)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>541</td></tr><tr><td>Arabic No</td><td>541</td></tr><tr><td>Reference</td><td>Book 2 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что «для Посланника Аллаха ﷺ возвещали второй призыв к молитве/икама/ и люди занимали свои места до того, как (своё место) занимал Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (640) Sahih Muslim (605)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>541</td></tr><tr><td>Arabic No</td><td>541</td></tr><tr><td>Reference</td><td>Book 2 Hadith 151</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn Shihab: Yunus asked Ibn Shihab about the address of the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1098</td></tr><tr><td>Arabic No</td><td>1098</td></tr><tr><td>Reference</td><td>Book 2 Hadith 709</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Юнуса, что он спросил Ибн Шихаба о ташаххуде Посланника Аллаха ﷺ в пятницу. И он пересказал подобный хадис, и в его версии говорится: «А кто ослушивается их, тот впал в заблуждение. Просим Аллаха, нашего Господа, сделать нас одними из тех, кто покорен Ему и кто покорен Его Посланнику, добивается Его довольства и старается избежать Его гнева, ибо, поистине, мы (живём) благодаря Ему и для Него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1098</td></tr><tr><td>Arabic No</td><td>1098</td></tr><tr><td>Reference</td><td>Book 2 Hadith 709</td></tr></tbody></table></div>
 

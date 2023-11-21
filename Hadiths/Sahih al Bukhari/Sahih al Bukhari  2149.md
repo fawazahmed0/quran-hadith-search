@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:Whoever buys a sheep which has not been milked for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mu'tamir] berkata, aku mendengar [Bapakku] berkata, telah menceritakan kepada kami [Abu 'Utsman] dari ['Abdullah bin Mas'ud radliallahu 'anhu] berkata: "Siapa yang membeli kambing yang ditahan susunya lalu dia membatalkannya maka hendaklah dia mengembalikan kambing tersebut beserta satu sha' kurma". Dan Nabi shallallahu 'alaihi wasallam melarang menyongsong dagangan (diluar pasar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2149</td></tr><tr><td>Arabic No</td><td>2149</td></tr><tr><td>Reference</td><td>Book 34 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Тот, кто покупает овцу, которую давно не доили, а затем возвращает её, то пусть возвращает её, добавив к ней са‘ фиников. И Пророк ﷺ запретил встречать продавцов (караваны с товарами, пока товары не доставят на рынок)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2149</td></tr><tr><td>Arabic No</td><td>2149</td></tr><tr><td>Reference</td><td>Book 34 Hadith 101</td></tr></tbody></table></div>
 

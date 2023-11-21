@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "No deal is settled and finalized unl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari ['Abdullah bin Dinar] dari [Ibnu 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Setiap dua orang yang melakukan jual beli dianggap tidak terjadi transaksi sah jual beli hingga keduanya berpisah, kecuali jual beli yang tidak membutuhkan perpisahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2113</td></tr><tr><td>Arabic No</td><td>2113</td></tr><tr><td>Reference</td><td>Book 34 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Сделка между двумя не считается заключённой до тех пор, пока они не расстанутся, кроме продажи с условием выбора»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2113</td></tr><tr><td>Arabic No</td><td>2113</td></tr><tr><td>Reference</td><td>Book 34 Hadith 66</td></tr></tbody></table></div>
 

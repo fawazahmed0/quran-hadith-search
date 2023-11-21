@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Usaid Ansar reported:I bear witness to the fact that Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] Telah mengabarkan kepada kami [Al Mughirah bin Abdurrahman] dari [Abu Zinad] dia berkata; [Abu Salamah] menyaksikan [Abu Usaid Al Anshari] bahwa dia melihat Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik kabilah Anshar adalah Bani Najjar, kemudian Bani Abdul Asyhal, kemudian Bani Harits bin Khazraj, kemudian Bani Saidah dan setiap kabilah Anshar mempunyai kebaikan." Abu Salamah berkata; 'Abu Usaid berkata; 'Saya dituduh mendustakan sabda Rasulullah shallallahu 'alaihi wasallam? Kalau saya berdusta, tentu saya akan menempatkan kaum saya, Bani Saidah, pada urutan yang pertama.' Hadits itu sampai kepada Sa'ad bin Ubadah. Lalu ia merasa tersinggung. Sa'ad bin Ubadah berkata; 'Kita ditempatkan pada urutan belakang, yaitu urutan keempat? Hai keluargaku, siapkan keledaiku, aku akan menemui Rasulullah! ' Tetapi niatannya itu dicegah oleh Sahal, kemenakannya, seraya berkata; 'Hai paman, apakah engkau akan pergi hanya untuk membantah Rasulullah, padahal beliau Iebih tahu dari kita? Tidak merasa cukupkah paman berada pada urutan keempat? ' Sa'ad kembali berkata; 'Allah dan Rasul-Nya lebih tahu.' Kemudian ia memerintahkan pembantunya untuk menambatkan keledainya dan melepas pelananya. Telah menceritakan kepada kami [Amru bin Ali bin Bahr] Telah menceritakan kepadaku [Abu Daud] Telah menceritakan kepada kami [Harb bin Syadad] dari [Yahya bin Abu Katsir] Telah menceritakan kepadaku [Abu Salamah] bahwa [Abu Usaid Al Anshari] menceritakan kepadanya dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik kabilah Anshar…-dan seterusnya dengan Hadits yang serupa, namun dia tidak menyebutkan kisah Sa'ad bin Ubadah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6425</td></tr><tr><td>Arabic No</td><td>2511.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 254</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6425</td></tr><tr><td>Arabic No</td><td>2511.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 254</td></tr></tbody></table></div>
 

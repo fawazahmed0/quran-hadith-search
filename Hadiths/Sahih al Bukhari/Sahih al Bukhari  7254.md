@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:The Prophet (ﷺ) said to the people of Najran, "I will send t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Shilah] dari [Khudzaifah], bahwa Nabi shallallahu 'alaihi wasallam berkata kepada penduduk Najran: "Sungguh, akan aku utus untuk kalian seorang laki-laki dan benar-benar terpercaya!" Para sahabat nabi shallallahu 'alaihi wasallam akhirnya mengharap untuk mendapatkan kehormatan tersebut, akhirnya beliau mengutus Abu 'Ubaidah bin Al Jarrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7254</td></tr><tr><td>Arabic No</td><td>7254</td></tr><tr><td>Reference</td><td>Book 95 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал жителям Наджрана: «Я непременно пошлю к вам действительно надежного человека», и (каждый из) сподвижников Пророка ﷺ пожелал (, чтобы было названо его имя), и Пророк ﷺ послал Абу ‘Убайду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7254</td></tr><tr><td>Arabic No</td><td>7254</td></tr><tr><td>Reference</td><td>Book 95 Hadith 9</td></tr></tbody></table></div>
 

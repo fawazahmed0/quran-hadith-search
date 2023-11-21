@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Shaqiq reported:A person from Banu Bajila who was called Nabik b. Sinan came to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdu bin Humaid] telah menceritakan kepada kami [Husain bin Ali Al Ju'fi] dari [Za'idah] dari [Manshur] dari [Syaqiq] ia berkata; Seorang laki-laki dari Bani Bajilah yang biada dipanggil Nahik bin Sinan datang menemui [Abdullah] dan berkata, "Saya membaca Al Mufashshal (surat-surat yang berada di antara surat Qaaf -atau Hujurat- hingga akhir mushhaf) dalam satu raka'at." Maka Abdullah pun berkata, "Engkau membaca seperti cepatnya pembacaan sya'ir. Saya telah mengetahui An Nazha'ir (surat-surat yang hampir sama baik panjangnya atau pun maknanya), yang mana Rasulullah shallallahu 'alaihi wasallam membacanya dua surat pada setiap raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1912</td></tr><tr><td>Arabic No</td><td>822.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 340</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис с другим иснадом подобен предыдущему, но с небольшими изменениями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1912</td></tr><tr><td>Arabic No</td><td>822.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 340</td></tr></tbody></table></div>
 

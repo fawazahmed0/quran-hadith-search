@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) saw sputum on the wall of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar], bahwa Rasulullah shallallahu 'alaihi wasallam melihat ludah di dinding kiblat, lalu beliau menggosoknya kemudian menghadap ke arah orang banyak seraya bersabda: "Jika seseorang dari kalian berdiri shalat janganlah dia meludah ke arah depannya, karena Allah berada di hadapannya ketika dia shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>406</td></tr><tr><td>Arabic No</td><td>406</td></tr><tr><td>Reference</td><td>Book 8 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара о том, что однажды Посланник Аллаха ﷺ увидел на стене мечети, направленной в сторону киблы плевок, соскоблил его (собственноручно). Затем он повернулся к людям и сказал: «Когда кто-нибудь из вас совершает молитву, пусть не плюет перед собой, ибо, поистине, Аллах находится перед ним, когда он молится»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>406</td></tr><tr><td>Arabic No</td><td>406</td></tr><tr><td>Reference</td><td>Book 8 Hadith 58</td></tr></tbody></table></div>
 

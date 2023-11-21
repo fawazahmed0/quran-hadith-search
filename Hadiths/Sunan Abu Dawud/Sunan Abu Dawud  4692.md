@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hudhaifah reported the Messenger of Allah (ﷺ) as saying:Every people have Magi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Umar bin Muhammad] dari [Umar] -mantan budak (yang telah dimerdekakan oleh) Ghufrah- dari [seorang laki-laki] Anshar, dari [Hudzaifah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap umat ada majusinya, dan majusinya umat ini adalah orang-orang yang mengatakan 'tidak ada takdir'. Jika ada yang meninggal dari mereka maka jangan kalian jenguk jenazahnya, dan jika ada yang sakit dari mereka maka jangan kalian jengguk. Mereka adalah kelompoknya Dajjal, maka telah menjadi hak Allah untuk menggabungkan mereka dengan Dajjal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4692</td></tr><tr><td>Arabic No</td><td>4692</td></tr><tr><td>Reference</td><td>Book 42 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Хузайфы, что Посланник Аллаха ﷺ сказал: «У каждой общины есть свои огнепоклонники, и огнепоклонники этой общины люди, которые отрицают предопределение. Если кто-то из них умрёт, не сопровождайте его погребальные носилки, а если кто-то из них заболеет, не навещайте его. Они сподвижники ад-Даджжаля, и Аллах непременно присоединит их к ад-Даджжалю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4692</td></tr><tr><td>Arabic No</td><td>4692</td></tr><tr><td>Reference</td><td>Book 42 Hadith 97</td></tr></tbody></table></div>
 

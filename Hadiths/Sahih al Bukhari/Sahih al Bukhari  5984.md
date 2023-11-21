@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:That he heard the Prophet (ﷺ) saying, "The person w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] bahwa [Muhammad bin Jubair bin Muth'im] berkata; bahwa [Jubair bin Muth'im] telah mengabarkan kepadanya bahwa dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tidak akan masuk surga orang yang memutus tali silaturrahmi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5984</td></tr><tr><td>Arabic No</td><td>5984</td></tr><tr><td>Reference</td><td>Book 78 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джубайра бин Мут‘има, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «Не войдёт в Рай порывающий»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5984</td></tr><tr><td>Arabic No</td><td>5984</td></tr><tr><td>Reference</td><td>Book 78 Hadith 15</td></tr></tbody></table></div>
 

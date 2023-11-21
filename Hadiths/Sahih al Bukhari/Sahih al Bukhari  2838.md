@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:We returned from the Ghazwa of Tabuk along with the Prophet. (See 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Yunus] telah bercerita kepada kami [Zuhair] telah bercerita kepada kami [Humaid] bahwa [Anas] bercerita kepada mereka, katanya: "Kami kembali dari perang Tabuk bersama Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2838</td></tr><tr><td>Arabic No</td><td>2838</td></tr><tr><td>Reference</td><td>Book 56 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Мы вернулись со сражения при Табуке вместе с Пророком ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2838</td></tr><tr><td>Arabic No</td><td>2838</td></tr><tr><td>Reference</td><td>Book 56 Hadith 54</td></tr></tbody></table></div>
 

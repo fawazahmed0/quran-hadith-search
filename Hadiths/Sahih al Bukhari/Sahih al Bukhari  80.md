@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) said, "From among the portents of the Hour
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Imran bin Maisarah] berkata, telah menceritakan kepada kami [Abdul Warits] dari [Abu At Tayyah] dari [Anas bin Malik] berkata, telah bersabda Rasul shallallahu 'alaihi wasallam: "Sesungguhnya diantara tanda-tanda kiamat adalah diangkatnya ilmu dan merebaknya kebodohan dan diminumnya khamer serta praktek perzinahan secara terang-terangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 3 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: „Предзнаменованием (близости) этого Часа станет то, что знание исчезнет, а невежество укоренится, (люди) будут пить (много) вина и (широкое) распространение получат прелюбодеяния“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 3 Hadith 22</td></tr></tbody></table></div>
 

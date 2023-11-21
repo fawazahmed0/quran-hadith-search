@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : "L'Envoyé de Dieu (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah bin Yahya], dan telah menceritakan kepada kami [Al Walid bin Syuja'] dan ini adalah lafadz Al Walid, dan [Harmalah] mereka berkata; telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari ['Urwah] dan ['Amrah] dari ['Aisyah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Tangan pencuri tidak dipotong hingga ia mencuri (harta) senilai seperempat dinar atau lebih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4400</td></tr><tr><td>Arabic No</td><td>1684.03</td></tr><tr><td>Reference</td><td>Book 29 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4400</td></tr><tr><td>Arabic No</td><td>1684.03</td></tr><tr><td>Reference</td><td>Book 29 Hadith 3</td></tr></tbody></table></div>
 

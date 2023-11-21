@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:The people (mostly) were workers and they would come for Friday pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hamamd bin Zaid] dari [Yahya bin Sa'id] dari [Amrah] dari [Aisyah] dia berkata; Orang-orang biasanya disibukkan oleh pekerjaan masing-masing. Lalu mereka berangkat ke masjid begitu saja, sesuai keadaan masing-masing. Maka dikatakan kepada mereka; Alangkah baiknya seandainya kalian mandi lebih dahuhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (903) Sahih Muslim (847)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>352</td></tr><tr><td>Arabic No</td><td>352</td></tr><tr><td>Reference</td><td>Book 1 Hadith 352</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(В то время) люди зарабатывали на жизнь своим трудом и отправлялись на пятничную молитву с тем же внешним видом и им сказали: “Если бы вы искупались”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (903) Sahih Muslim (847)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>352</td></tr><tr><td>Arabic No</td><td>352</td></tr><tr><td>Reference</td><td>Book 1 Hadith 352</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik: During the lifetime of Allah's Messenger (ﷺ) a Jew at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Bisyr bin Al Mufadldlal] Telah menceritakan kepada kami [Salamah bin Alqamah] dari [Muhammad bin Sirin] dari [Abu Hurairah] ia berkata; Abul Qasim shallallahu 'alaihi wasallam bersabda: "Pada hari jum'at terdapat waktu, yang tidaklah seorang hamba muslim shalat dan berdo'a kepada Allah di waktu itu, kecuali Allah akan mengabulkannya." Beliau memberi isyarat dengan tangannya dan meletakkan ujung jari-jarinya pada jari tengah dan kelingking. Kami berkata, "Beliau menyempitkannya." [Al Uwisi] berkata; Telah menceritakan kepada kami [Ibrahim] dari [Syu'bah Al Hajjaj] dari [Hisyam bin Zaid] dari [Anas bin Malik] ia berkata; Pada masa Rasulullah shallallahu 'alaihi wasallam, ada seorang Yahudi yang menganiya seorang budak perempuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5295</td></tr><tr><td>Arabic No</td><td>5295</td></tr><tr><td>Reference</td><td>Book 68 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Во время Посланника Аллаха ﷺ какой-то иудей напал на девушку, забрал её серебряные украшения и разбил голову (камнем). Её родственники привели её к Посланнику Аллаха ﷺ, когда она была на последнем издыхании и уже не могла говорить. Посланник Аллаха ﷺ спросил её: “Кто убил тебя, такой-то?” — назвав имя человека, но не того, кто её убил. Она сделала знак головой, что нет. Он назвал имя другого человека, но не того, кто её убил. Она снова сделала знак головой, что нет. Тогда он сказал: “Значит такой-то?” Она сделала головой знак, что да. Тогда по приказу Посланника Аллаха ﷺ его голову тоже разбили, поместив её между двумя камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5295</td></tr><tr><td>Arabic No</td><td>5295</td></tr><tr><td>Reference</td><td>Book 68 Hadith 44</td></tr></tbody></table></div>
 

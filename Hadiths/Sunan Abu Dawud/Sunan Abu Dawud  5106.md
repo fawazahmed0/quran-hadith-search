@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Boys used to be brought to the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Muhammad bin Fudhail]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Yusuf bin Musa] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin Urwah] dari [Urwah] dari ['Aisyah radliallahu 'anha] ia berkata, "Pernah didatangkan kepada Rasulullah shallallahu 'alaihi wasallam beberapa orang bayi, lalu beliau mendoakan keberkahan untuk mereka." Yusuf menambahkan, 'Beliau mentahnik mereka (mengunyah makanan dan memberikannya kedalam mulut bayi). ' Dan tidak menyebut tentang berkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (6355) Sahih Muslim (286)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5106</td></tr><tr><td>Arabic No</td><td>5106</td></tr><tr><td>Reference</td><td>Book 43 Hadith 334</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (6355) Sahih Muslim (286)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5106</td></tr><tr><td>Arabic No</td><td>5106</td></tr><tr><td>Reference</td><td>Book 43 Hadith 334</td></tr></tbody></table></div>
 

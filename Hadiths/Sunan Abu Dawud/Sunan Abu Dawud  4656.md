@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: Al-Aqra', the mu'adhdhin (announcer) of Umar ibn a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4656</td></tr><tr><td>Arabic No</td><td>4656</td></tr><tr><td>Reference</td><td>Book 42 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Акра‘а, муаззина ‘Умара: «‘Умар послал меня к предводителю и учёному христиан, и я позвал его к ‘Умару. ‘Умар спросил его: “Находишь ли ты упоминание обо мне в Писании?” Тот ответил: “Да”. ‘Умар спросил: “И каков я там?” Он ответил: “Рог”. ‘Умар замахнулся на него небольшой палкой и переспросил: “Какой рог?” Тот ответил: “Железный рог. Надёжный и суровый”. ‘Умар спросил: “А тот, кто придёт после меня?” Он ответил: “Он будет праведным правителем, но будет отдавать предпочтение своей родне”. ‘Умар сказал: “Да помилует Аллах ‘Усмана!” Он повторил свои слова трижды, после чего сказал: “А тот, кто придёт после него?” Тот ответил: “Ржавчина на железе”. ‘Умар возложил руку на голову и сказал: “Скверно, скверно…” Учёный христиан сказал: “О повелитель верующих! Он будет праведным правителем, но ему будет суждено стать правителем в такое время, когда меч будет обнажён и кровь будет литься”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4656</td></tr><tr><td>Arabic No</td><td>4656</td></tr><tr><td>Reference</td><td>Book 42 Hadith 61</td></tr></tbody></table></div>
 

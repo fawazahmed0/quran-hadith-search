@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Fatimah was demanding (the property of) sadaqah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3711، 3712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2969</td></tr><tr><td>Arabic No</td><td>2969</td></tr><tr><td>Reference</td><td>Book 20 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Урвы ибн аз-Зубайра, что ‘Аиша, да будет доволен ею Аллах, жена Пророка ﷺ пересказала ему эту историю: «Фатима, да будет доволен ею Аллах, попросила тогда отдать ей милостыню Посланника Аллаха ﷺ которая в Медине и то, что осталось от хумуса Хайбара. ‘Аиша, да будет доволен ею Аллах, передаёт, что Абу Бакр, да будет доволен им Аллах, сказал, что Посланник Аллаха ﷺ сказал: “Мы не оставляем наследства. Всё, что мы оставляем, является милостыней. А члены семьи Мухаммада питаются из этого имущества (то есть имущества Аллаха), и у них нет права брать из него что-либо сверх необходимого пропитания”. То есть это имущество Аллаха, и они не имеют права ничего брать из него, кроме пропитания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3711، 3712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2969</td></tr><tr><td>Arabic No</td><td>2969</td></tr><tr><td>Reference</td><td>Book 20 Hadith 42</td></tr></tbody></table></div>
 

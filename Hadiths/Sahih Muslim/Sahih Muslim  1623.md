@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim reported from his father to be saying:I saw the Messenger of Allah (ﷺ) c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Said] dan [Abu Bakar bin Abu Syaibah] dan ['Amru An Naqid], semuanya dari [Ibnu 'Uyainah]. ['Amru] berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Salim] dari [Ayahnya], bahwa aku pernah melihat Rasulullah shallallahu 'alaihi wasallam menjamk antara Maghrib dan Isya' jika dalam perjalanannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1623</td></tr><tr><td>Arabic No</td><td>703.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «Я видел, что, когда Посланник Аллаха ﷺ спешил во время путешествия, он объединял между закатной и вечерней молитвой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1623</td></tr><tr><td>Arabic No</td><td>703.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 54</td></tr></tbody></table></div>
 

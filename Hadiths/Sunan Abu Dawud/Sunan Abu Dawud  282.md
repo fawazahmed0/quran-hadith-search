@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Urwah reported on the authority of 'Aishah:Fatimah daughter of Abu Hubaish came 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (306) Sahih Muslim (333)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>282</td></tr><tr><td>Arabic No</td><td>282</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши о том, что однажды Фатима бинт Джахш пришла к Посланнику Аллаха ﷺ и сказала: «Поистине, я женщина, у которой хроническое кровотечение и я не очищаюсь, так не оставить ли мне молитву?» Он сказал: «Поистине – это вена, а не менструальная кровь. Когда приблизится время менструаций, оставь молитву, а когда они завершатся, смой с себя кровь и затем совершай молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (306) Sahih Muslim (333)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>282</td></tr><tr><td>Arabic No</td><td>282</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
 

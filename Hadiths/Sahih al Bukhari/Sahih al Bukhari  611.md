@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "Whenever you hear th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Atha bin Yazid Al Laitsi] dari [Abu Sa'id Al Khudri], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kalian mendengar adzan, maka jawablah seperti apa yang diucapkan mu'adzin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>611</td></tr><tr><td>Arabic No</td><td>611</td></tr><tr><td>Reference</td><td>Book 10 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ид аль-Худри, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Когда услышите призыв (к молитве), повторяйте то, что говорит муаззин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>611</td></tr><tr><td>Arabic No</td><td>611</td></tr><tr><td>Reference</td><td>Book 10 Hadith 9</td></tr></tbody></table></div>
 

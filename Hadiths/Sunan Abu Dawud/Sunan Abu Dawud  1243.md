@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar: The Messenger of Allah (ﷺ) led one section in one rak'ah o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat satu raka'at dengan salah satu dari dua kelompok, sedangkan kelompok yang lain berjaga-jaga menghadapi musuh, setelah kelompok pertama selesai melaksanakan shalat, mereka pergi menempati kelompok kedua, dan kelompok kedua menempati tempat kelompok pertama, beliau mengerjakan shalat bersama kelompok kedua satu raka'at sisanya, lalu beliau salam, kemudian kelompok kedua berdiri dan menyelesaikan raka'at mereka, dan mereka berdiri untuk menyelesaikan raka'at mereka." Abu Daud berkata; "Demikian juga yang di riwayatkan oleh [Nafi'] dan [Khalid bin Ma'dan] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, begitu juga dengan perkataannya Masruq dan Yusuf bin Mihran dari Ibnu Abbas, demikian juga yang di riwayatkan Yunus dari Al Hasan dari Abu Musa bahwa dia juga melakukan cara seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4133) Sahih Muslim (839)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1243</td></tr><tr><td>Arabic No</td><td>1243</td></tr><tr><td>Reference</td><td>Book 4 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что пока Посланник Аллаха ﷺ совершал один рак‘ат с одной группой молящихся, другая группа стояла напротив врага. Затем они поменялись местами и второй рак‘ат он совершил уже со второй группой, после чего произнёс таслим для всех. После этого каждая группа по очереди восполнила оставшийся рак‘ат. Абу Дауд сказал: «Так передавал Нафи‘ и Халид ибн Ма‘дан от Ибн ‘Умара от Пророка ﷺ и также передавали Масрук и Юсуф ибн Михран от Ибн ‘Аббаса, и Юнус передавал от аль-Хасана от Абу Мусы, что он поступал так»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4133) Sahih Muslim (839)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1243</td></tr><tr><td>Arabic No</td><td>1243</td></tr><tr><td>Reference</td><td>Book 4 Hadith 46</td></tr></tbody></table></div>
 

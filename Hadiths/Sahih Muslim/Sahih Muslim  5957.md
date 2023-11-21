@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported:Abu Huraira reported us some ahadith from Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdur Razak] Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabih] dia berkata; 'Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, -kemudian dia menyebutkan beberapa Hadits yang di antaranya-; dan Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Perumpamaanku adalah bagaikan seorang yang menyalakan api. Maka tatkala api itu menerangi sekitarnya, tiba-tiba serangga-serangga beterbangan menjatuhkan diri ke dalam api itu. Dan orang tersebut telah berusaha menghalaunya. Namun serang-serangga tersebut tetap mendesak masuk ke dalam api tersebut. Kata beliau: 'Maka itulah perumpamaanku dengan kalian, aku telah berusaha melindungimu dengan api neraka, jauhi api neraka, jauhi api neraka, namun kalian tetap nekad dan masuk ke dalamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5957</td></tr><tr><td>Arabic No</td><td>2284.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5957</td></tr><tr><td>Arabic No</td><td>2284.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 20</td></tr></tbody></table></div>
 

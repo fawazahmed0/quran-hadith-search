@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "When the Prophet (ﷺ) Job (Aiyub)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan (masih dari jalur periwayatan yang sama dengan hadits sebelumnya) dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tatkala Ayyub mandi dalam keadaan telanjang, tiba-tiba muncul belalang dari emas. Lalu Ayyub mengumpulkan dan memasukkannya ke dalam baju. Maka Raabnya memanggilnya: 'Wahai Ayyub, bukankah aku sudah memberimu kecukupan sebagaimana kau lihat? ' Ayyub menjawab, 'Benar, dan demi segala kemuliaan-Mu. Tetapi aku tidak pernah merasa puas dari limpahan barakah-Mu'." [Ibrahim] juga meriwayatkan dari [Musa bin 'Uqbah] dari [Shafwan bin Sulaim] dari ['Atha' bin Yasar] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ketika Ayyub mandi dalam keadaan telanjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>279</td></tr><tr><td>Arabic No</td><td>279</td></tr><tr><td>Reference</td><td>Book 5 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал:«Однажды, когда (пророк) Аййюб купался обнажённым, (сверху) на него посыпалась золотая саранча, и Аййюб принялся собирать её в свою одежду. Его Господь обратился к нему (, сказав): “О Аййюб, разве Я не избавил тебя от необходимости в том, что ты видишь?!” (В ответ Ему Аййюб) сказал: “Да, клянусь могуществом Твоим, но от необходимости в благодати (, ниспосылаемом) Тобой, я не избавлен!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>279</td></tr><tr><td>Arabic No</td><td>279</td></tr><tr><td>Reference</td><td>Book 5 Hadith 31</td></tr></tbody></table></div>
 

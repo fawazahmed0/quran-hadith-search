@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) Allah's Messenger (ﷺ) used to get up
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] berkata, telah mengabarkan kepada kami [Ya'qub bin Ibrahim bin Sa'id] berkata, telah menceritakan kepadaku [Anak saudara Ibnu Syihab], bahwa dia pernah bertanya kepada [Pamannya] tentang sesuatu yang dapat memutuskan shalat. Maka pamannya menjawab, "Tidak ada yang dapat memutuskan shalat. Aku telah mendapat kabar dari ['Urwah bin Az Zubair] bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam berkata, "Sungguh Rasulullah shallallahu 'alaihi wasallam pernah berdiri melaksanakan shalat malam sedangkan aku berbaring membentang antara beliau dan arah kiblatnya di tempat tidur keluarga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>515</td></tr><tr><td>Arabic No</td><td>515</td></tr><tr><td>Reference</td><td>Book 8 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Шихаб спросил своего дядю со стороны отца о том, что прерывает молитву и тот сказал: «Ничто не может прервать её, поскольку, ‘Урва ибн аз-Зубайр рассказывал мне, что ‘Аиша, жена Пророка ﷺ сказала: “Бывало, что когда Посланник Аллаха ﷺ стоял и совершал ночную молитву, я лежала поперёк между ним и киблой на кровати его жены»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>515</td></tr><tr><td>Arabic No</td><td>515</td></tr><tr><td>Reference</td><td>Book 8 Hadith 162</td></tr></tbody></table></div>
 

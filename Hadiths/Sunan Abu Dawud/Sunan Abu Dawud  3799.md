@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Numaylah said: I was with Ibn Umar. He was asked abo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Khalid Al Kalbi Abu Tsaur] telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Isa bin Numailah] dari [Ayahnya] ia berkata, "Aku pernah berada di sisi Ibnu Umar kemudian ia ditanya tentang hukum makan daging landak, kemudian ia membaca firman Allah: '(Katakanlah: "Aku tidak mendapatkan dalam wahyu yang diwahyukan kepadaku, sesuatu yang diharamkan….) ' (Qs. Al An'aam: 145). Numailah berkata, " [Seorang laki-laki tua] yang ada di sisinya berkata, "Aku pernah mendengar [Abu Hurairah] berkata, "Telah disebutkan landak di hadapan Nabi shallallahu 'alaihi wasallam, kemudian beliau bersabda: "Landak adalah sesuatu yang buruk." Kemudian Ibnu Umar berkata, "Jika Rasulullah shallallahu 'alaihi wasallam mengatakan demikian, maka hukumnya adalah sebagaimana yang beliau ucapkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3799</td></tr><tr><td>Arabic No</td><td>3799</td></tr><tr><td>Reference</td><td>Book 28 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Иса ибн Нумайля передаёт от своего отца: Я был у Ибн ‘Умара, да будет доволен Аллах им и его отцом, когда его спросили о том, можно ли есть мясо ежа. Он прочитал вместо ответа: «Скажи: “Из того, что дано мне в Откровении, я нахожу запрещённым употреблять в пищу только мертвечину, пролитую кровь и мясо свиньи, которое [или которая] является скверной, а также недозволенное мясо животных, заколотых не ради Аллаха. А кто вынужден пойти на это, не проявляя ослушания и не преступая пределы необходимого, то ведь Аллах Прощающий, Милующий”». Тогда один из сидящих у него старцев сказал: «Поистине, я слышал, как Абу Хурайра упоминал о том, что Пророку ﷺ задали подобный вопрос и он сказал, что это скверна». Ибн ‘Умар сказал: «Если он так сказал, значит, всё так и есть, учитывая, что ничего иного нам всё равно не известно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3799</td></tr><tr><td>Arabic No</td><td>3799</td></tr><tr><td>Reference</td><td>Book 28 Hadith 64</td></tr></tbody></table></div>
 

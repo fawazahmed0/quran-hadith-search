@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Malik bin Huwairith Al-Laithi:I saw the Prophet (ﷺ) praying and in th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabah] berkata, telah mengabarkan kepada kami [Husyaim] berkata, telah mengabarkan kepada kami [Khalid Al Hadzdza'] dari [Abu Qilabah] berkata, telah mengabarkan kepada kami [Malik bin Al Huwairits AL Laitsi], bahwa dia melihat Nabi shallallahu 'alaihi wasallam melaksanakan shalat, jika sampai pada rakaat yang ganjil, maka beliau tidak bangkit berdiri hingga duduk sejenak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>823</td></tr><tr><td>Arabic No</td><td>823</td></tr><tr><td>Reference</td><td>Book 10 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Малик бин аль-Хувайрис аль-Ляйси, да будет доволен им Аллах, передавал, что он видел, как совершил намаз Пророк ﷺ (сообщая, что после) совершения первого и третьего рак‘атов своего намаза он не вставал, пока не выпрямлялся сидя(, на мгновение задерживаясь в таком положении)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>823</td></tr><tr><td>Arabic No</td><td>823</td></tr><tr><td>Reference</td><td>Book 10 Hadith 217</td></tr></tbody></table></div>
 

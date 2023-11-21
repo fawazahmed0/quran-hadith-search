@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Makhul reported the Messenger of Allah (ﷺ) as saying:The place of the assembly
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah menceritakan kepada kami [Burd Abul 'Ala] dari [Makhul] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kota kaum muslimin saat terjadi peperangan yang besar terletak pada sebuah wilayah yang bernama Al Ghuthah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 42 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Макхуля, что Посланник Аллаха ﷺ сказал: «Во время сражений лагерь мусульман будет в земле, называемой аль-Гута»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 42 Hadith 45</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Anas that when (the news of) the advanc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas], bahwa Rasulullah shallallahu 'alaihi wasallam mengadakan musywarah ketika sampai kepada beliau kabar mengenai kedatangan kafilah Abu Sufyan. Anas berkata, "Maka Abu Bakar berbicara, namun beliau tidak memperdulikannya, kemudian Umar angkat bicara, dan beliau pun tidak memperdulikannya, lantas Sa'd bin Ubadah berdiri sambil berkata, "Kamikah yang anda kehendaki wahai Rasulullah, demi Allah yang jiwaku berada di tangan-Nya, seandainya anda memerintahkan kami mengarungi lautan, pasti akan kami arungi, dan seandainya anda memerintahkan kami pergi ke ujung bumi, pasti kami akan pergi." Anas melanjutkan, "Kemudian Rasulullah shallallahu 'alaihi wasallam mengajak orang-orang untuk berkumpul, setelah itu mereka berangkat hingga sampai Badar. Di sana mereka bertemu dengan para pencari air untuk orang-orang Quraisy. Di antara mereka terdapat seorang budak hitam kepunyaan Bani Hajjaj, kemudian mereka mengangkapnya. Lantas para sahabat Rasulullah shallallahu 'alaihi wasallam mengintrogasinya perihal Abu Sufyan dan pasukannya. Dia menjawab, "Aku tidak tahu perihal Abu Sufyan, tetapi yang aku tahu adalah Abu Jahal, 'Utbah, Syaibah dan Umayyah bin Khalaf bersama dengan rombongan manusia (tentara)." Setiap kali ia mengatakan hal yang serupa, maka mereka memukulinya, hingga ia berkata, "Ya, aku memberitahukan kepada kalian, Abu Sufyan juga ada." Kemudian mereka membiarkan budak tersebut, tidak lama setelah itu mereka tanya kembali perihal Abu Sufyan, lalu dia menjawab, "Aku tidak tahu dimana Abu Sufyan, yang ada adalah Abu Jahal, 'Utbah, Syaibah dan Umayyah bin Khalaf bersama dengan rombongan manusia (tentara)." Setiap kali ia menjawab seperti itu, maka mereka memukuli budak tersebut." Saat itu Rasulullah shallallahu 'alaihi wasallam sedang berdiri menunaikan shalat, ketika selesai shalat dan beliau melihat peristiwa itu, beliau bersabda: "Demi jiwaku yang berada di tangan-Nya, mengapa kalian memukulnya jika dia berkata benar, dan kalian biarkan jika ia berdusta?" Selanjutnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Di situlah tempat terbunuhnya si fulan -sambil menunjukkan ke tanah- di sini, dan di sini." Anas berkata, "Dan tidak satupun tempat-tempat yang di tunjukkan beliau itu berjauhan dengan tempat tewasnya orang-orang yang ditunjukkan dengan tangan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4621</td></tr><tr><td>Arabic No</td><td>1779</td></tr><tr><td>Reference</td><td>Book 32 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4621</td></tr><tr><td>Arabic No</td><td>1779</td></tr><tr><td>Reference</td><td>Book 32 Hadith 103</td></tr></tbody></table></div>
 

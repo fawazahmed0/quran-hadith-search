@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Buraida:That he fought sixteen Ghazawat with Allah''s Apostle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Al Hasan] Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal bin Hilal] Telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dari [Kahmas] dari [Ibnu Buraidah] dari [Bapaknya] dia berkata; bahwa dia berperang bersama Rasulullah shallallahu 'alaihi wasallam sebanyak enam belas kali peperangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4473</td></tr><tr><td>Arabic No</td><td>4473</td></tr><tr><td>Reference</td><td>Book 64 Hadith 488</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Бурайды, что он участвовал в шестнадцати военных походах вместе с Посланником Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4473</td></tr><tr><td>Arabic No</td><td>4473</td></tr><tr><td>Reference</td><td>Book 64 Hadith 488</td></tr></tbody></table></div>
 

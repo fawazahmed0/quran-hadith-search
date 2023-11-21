@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: To harbour good thoughts is a part
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Nashr bin Ali] dari [Muhanna Abu Syibl] -Abu Dawud berkata; aku kurang bisa memahami dengan baik darinya- dari [Hammad bin Salamah] dari [Muhammad bin Wasi'] dari [Syutair] -Nashr berkata; maksudnya Syutair bin Nahhar- dari [Abu Hurairah] -Nashr berkata; yaitu dari Rasulullah shallallahu 'alaihi wasallam-, beliau bersabda: "Berbaik sangka merupakan (pertanda) baiknya ibadah." Abu Dawud berkata, "Muhanna adalah seorang tsiqqah (dapat dipercaya) yang berasal dari Bashrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4993</td></tr><tr><td>Arabic No</td><td>4993</td></tr><tr><td>Reference</td><td>Book 43 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4993</td></tr><tr><td>Arabic No</td><td>4993</td></tr><tr><td>Reference</td><td>Book 43 Hadith 221</td></tr></tbody></table></div>
 

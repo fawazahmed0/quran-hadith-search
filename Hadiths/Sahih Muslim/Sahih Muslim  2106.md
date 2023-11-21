@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asma' bint Abu Bakr said:The Apostle of Allah (ﷺ) was one day (i. e. on the da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Ibnu Juraij] telah menceritakan kepadaku [Manshur bin Abdurrahman] dari [Ibunya, Shafiyyah binti Syaibah] dari [Asma' bin Abu Bakar] bahwa ia berkata; Pada hari terjadinya gerhana matahari, Nabi shallallahu 'alaihi wasallam terkejut. Maka beliau pun segera mengambil baju besi hingga memakaikannya dengan bajunya. Kemudian beliau berdiri menunaikan shalat bersama orang banyak. Beliau berdiri dengan sangat lama yang seandainya ada seseorang yang datang, maka di tidak akan menduga bahwa Nabi shallallahu 'alaihi wasallam akan ruku', karena memang begitu lamanya beliau berdiri." Dan telah menceritakan kepadaku [Sa'id bin Yahya Al Umawi] telah menceritakan kepadaku [bapakku] telah menceritakans kepada kami [Ibnu Juraij] dengan isnad ini, hadits yang semisalnya. Dan ia menyebutkan; "Bediri yang lama. Beliau berdiri, kemudian ruku'." Dan ia juga menambahkan; "Lalu aku melihat ke arah wanita yang lebih muda usianya dariku dan juga kepada wanita lain yang lebih kurus dariku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2106</td></tr><tr><td>Arabic No</td><td>906.01</td></tr><tr><td>Reference</td><td>Book 10 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Абу Бакр сказала: «В день солнечного затмения, Посланник Аллаха ﷺ был настолько встревожен, что (в спешке) схватил верхнюю одежду (одной из своих жён), затем ему принесли его верхнюю накидку /рида/, и он встал, (чтобы совершить молитву и) стоял так долго, что если бы (какой-нибудь) человек пришёл (после первого поясного поклона), то он и не подумал бы, что Пророк ﷺ уже совершил (первый) поясной поклон из-за его долгого стояния»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2106</td></tr><tr><td>Arabic No</td><td>906.01</td></tr><tr><td>Reference</td><td>Book 10 Hadith 15</td></tr></tbody></table></div>
 

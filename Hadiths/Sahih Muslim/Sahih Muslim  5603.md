@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:Allah's Messenger (ﷺ) decided to forbid (his follo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ahmad bin Abu Khalaf]; Telah menceritakan kepada kami [Rauh]; Telah menceritakan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin 'Abdullah] berkata; Nabi shallallahu 'alaihi wasallam ingin melarang menamai seseorang dengan nama; Ya'la, Barakah, Aflah, Yasar, dan Nafi serta nama lain yang serupa dengan itu. Namun setelah itu aku melihat beliau berdiam, tanpa mengatakan sesuatupun. Hingga kemudian Rasulullah wafat dan beliau masih belum melarang menggunakan nama-nama tersebut. Begitu pula Umar ingin melarang menggunakan nama-nama tersebut, namun dia tidak jadi melarangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5603</td></tr><tr><td>Arabic No</td><td>2138</td></tr><tr><td>Reference</td><td>Book 38 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5603</td></tr><tr><td>Arabic No</td><td>2138</td></tr><tr><td>Reference</td><td>Book 38 Hadith 18</td></tr></tbody></table></div>
 

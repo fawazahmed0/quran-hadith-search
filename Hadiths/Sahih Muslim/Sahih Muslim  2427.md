@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:O Allah, make the provisi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Amru An Naqid] dan [Abu Sa'id Al Asyajj] mereka berkata, telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] -dalam jalur lain- Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Muhammad bin Fudlail] dari [bapaknya] keduanya dari [Umarah bin Al Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Allah, berikanlah rizqi kepada keluarga Muhammad berupa makanan pokok
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2427</td></tr><tr><td>Arabic No</td><td>1055</td></tr><tr><td>Reference</td><td>Book 12 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ говорил: «О Аллах! Надели семейство Мухаммада уделом, которого будет достаточно (для поддержания жизни)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2427</td></tr><tr><td>Arabic No</td><td>1055</td></tr><tr><td>Reference</td><td>Book 12 Hadith 164</td></tr></tbody></table></div>
 

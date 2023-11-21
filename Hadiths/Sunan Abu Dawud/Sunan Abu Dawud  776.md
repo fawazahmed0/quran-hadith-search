@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: When the Messenger of Allah (ﷺ) began his pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Husain bin Isa] telah menceritakan kepada kami [Thalq bin Ghannam] telah menceritakan kepada kami [Abdussalam bin Harb Al Mula'i] dari [Budail bin Maisarah] dari [Abu Jauza'] dari [Aisyah] dia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam hendak memulai shalat, beliau mengucapkan: "SUBHANAKA ALLAHUMMA WA BIHAMDIKA WA TABARAKAS-MUKA WA TA'ALA JADDUKA WA LA ILAHA GHAIRAKA" (Maha suci Engkau, ya Allah, aku sucikan nema-Mu dengan memuji-Mu, Maha berkah nama-Mu, Maha luhur keluhuran-Mu dan tidak ilah selain Engkau). Abu Daud berkata: "Hadits ini tidak masyhur (di kenal) dari Abdullah bin Salam bin Harb, dan tidak ada yang meriwayatkan hadits ini kecuali Thalq bin Ghannam, namun dia telah meriwayatkan hadits tentang kisah shalat dari Budair, sedangkan para pakar hadits tidak menyebutkan sedikitpun hadits seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>776</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 2 Hadith 386</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Имам Абу Дауд сказал): Рассказал нам Хусайн ибн ‘Иса, (который) сказал: Рассказал нам Талькъ ибн Гъаннам, (который сказал): Рассказал нам ‘Абду-с-Салям ибн Харб аль-Муляийй от Будейля ибн Майсара, (передавшего) от Абуль-Джаузаъ, (передавший,) что ‘Аиша (да будет доволен ею Аллах) сказала: «Когда Посланник Аллаха ﷺ приступал к молитве, он обычно говорил: “Слава Тебе, о Аллах, и хвала Тебе, благословенно имя Твоё, превыше всего величие Твоё и нет божества достойного поклонения, кроме Тебя” /Субханака-Ллахумма, ва бихамдика, ва табарака-смука, ва та‘аля джаддука, ва ля иляха гъайрука/».Абу Дауд сказал: «Этот хадис неизвестен со слов ‘Абду-с-Саляма ибн Харба и его передавал только Талькъ ибн Гъаннам. Группа (передатчиков) передала от Будейля (ибн Майсара) рассказ о молитве, ничего не упомянув из этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>776</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 2 Hadith 386</td></tr></tbody></table></div>
 

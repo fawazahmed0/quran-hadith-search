@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Usama reported Allah's Messenger (ﷺ) as saying:Plague is a calamity which was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin 'Abdillah bin Numair]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Sufyan] dari [Muhammad bin Al Mukandir] dari ['Amir bin Sa'd] dari [Usamah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Penyakit Thaa'uun ini adalah suatu peringatan Allah yang ditimpakan kepada umat sebelum kalian atau kepada Bani Israil. Maka apabila wabah itu berjangkit di negeri tempat kamu berada, janganlah kamu keluar lari daripadanya. Dan bila penyakit itu berjangkit di suatu negeri, janganlah kamu masuk ke negeri itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5774</td></tr><tr><td>Arabic No</td><td>2218.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5774</td></tr><tr><td>Arabic No</td><td>2218.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 126</td></tr></tbody></table></div>
 

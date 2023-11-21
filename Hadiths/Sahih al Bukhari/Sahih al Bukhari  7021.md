@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "While I was sleeping, I saw 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ufair] telah menceritakan kepadaku [Al Laits] mengatakan, telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] telah mengabarkan kepadaku [Sa'id], bahwasanya [Abu Hurairah] mengabarinya, Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku tidur, aku bermimpi berada di sebuah sumur dan diatas ada sebuah ember, maka aku menariknya sekehendak Allah, kemudian Ibnu Abu Quhafah mengambilnya, dan menarik seember atau dua ember, dan dalam tarikannya terlihat ada kelemahan, Allah pun mengampuninya, kemudian embernya berubah menjadi besar, dan Umar bin Khattab mengambil ember, dan tidak pernah aku melihat seorang jenius yang beramal serius (gigih) seperti kegigihan Umar bin Al Khaththab, sehingga orang banyak bisa minum dengan kenyang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7021</td></tr><tr><td>Arabic No</td><td>7021</td></tr><tr><td>Reference</td><td>Book 91 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра сообщил, что Посланник Аллаха ﷺ сказал: «Во сне я увидел колодец, на краю которого стояло ведро, и я зачерпнул (этим ведром) столько воды, сколько было угодно Аллаху. Затем его взял Ибн Аби Кухафа и вытащил (из источника) одно или два полных ведра, и он делал это со слабостью, да простит его Аллах! Затем это ведро превратилось в огромную кожаную бадью, которую взял в свои руки Ибн аль-Хаттаб. И я не видел среди людей другого вождя, который зачерпнул оттуда воду так властно и искусно, как это сделал ‘Умар ибн аль-Хаттаб, (и это продолжалось,) пока (все) люди (не напились сами и не напоили своих верблюдов), отведя их от водопоя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7021</td></tr><tr><td>Arabic No</td><td>7021</td></tr><tr><td>Reference</td><td>Book 91 Hadith 38</td></tr></tbody></table></div>
 

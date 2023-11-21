@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (may peace be upon him stood when 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya bin 'Abdillah bin Harmalah bin 'Imran At Tujibi]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah mengabarkan kepadaku [Anas bin Malik] bahwa ketika matahari telah tergelincir, Rasulullah shallallahu 'alaihi wasallam pergi mengimami shalat Zhuhur. Setelah selesai shalat, beliau naik ke mimbar lalu mengingatkan jama'ah perihal hari kiamat dan mengingatkan pula bahwa sebelumnya akan terjadi beberapa peristiwa besar. Kemudian beliau bersabda: "Siapa yang ingin bertanya kepadaku mengenai sesuatu, tanyakanlah. Demi Allah, jika ada pertanyaan yang ingin kalian tanyakan kepadaku, niscaya akan kujawab selama aku masih berdiri di tempatku ini." Kata Anas bin Malik; "Maka banyaklah orang menangis mendengar ucapan Rasulullah shallallahu 'alaihi wasallam tersebut. Kemudian beliau mengulang-ulang ucapannya itu, "Bertanyalah kepadaku!" maka berdirilah 'Abdullah bin Hudzafah lalu dia bertanya: "Siapa bapakku, ya Rasulullah?" jawab Rasulullah shallallahu 'alaihi wasallam; "Bapakmu Hudzafah!" Maka tatkala Rasulullah shallallahu 'alaihi wasallam mengulang ucapannya; "bertanyalah kepadaku!" 'Umar menyela seraya berkata; "Kami rela Allah menjadi Tuhan kami, Islam menjadi agama kami, dan Muhammad menjadi Rasulullah." Kata Anas, "setelah 'Umar mengucapkan kata-katanya itu, Nabi shallallahu 'alaihi wasallam diam seketika, kemudian beliau bersabda: "Perhatikanlah! Demi Allah, yang jiwa Muhammad berada dalam kekuasaan-Nya, baru saja telah diperlihatkan kepadaku surga dan neraka, tepat di sisi dinding ini. Suatu pemandangan yang belum pernah kulihat seperti ini mengenai kebaikan dan kejahatan." Kata Ibnu Syihab; "Telah mengabarkan kepada kami Ubaidullah bin Abdullah bin 'Utbah dia berkata; bahwa Ummu 'Abdullah bin Hudzafah berkata kepada anaknya, 'Abdullah bin Hudzafah, " Aku tidak pernah mendengar seorang pun anak yang lebih durhaka daripadamu. Percayakah engkau bahwa ibumu telah melacur seperti halnya wanita-wanita jahiliyah, lalu 'aibnya terbuka di kalangan orang banyak?" kata 'Abdullah bin Hudzafah; "Demi Allah, seandainya aku dinasabkan kepada budak hitam sekalipun, tentu aku akan mau." Telah menceritakan kepada kami ['Abdu bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Abul Yaman]; Telah mengabarkan kepada kami [Syu'aib] keduanya dari [Az Zuhri] dari [Anas] dari Nabi shallallahu 'alaihi wasallam dengan Hadits ini dan Hadits 'Ubaidillah. Namun (Syu'aib) dia berkata; dari Az Zuhri dia berkata; Telah mengabarkan kepadaku 'Ubaidullah bin Abdullah dia berkata; Telah menceritakan kepadaku seseorang dari kalangan ahli ilmu bahwa Ummu 'Abdillah bin Hudzafah berkata sebagaimana Hadits Yunus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6121</td></tr><tr><td>Arabic No</td><td>2359.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6121</td></tr><tr><td>Arabic No</td><td>2359.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 179</td></tr></tbody></table></div>
 

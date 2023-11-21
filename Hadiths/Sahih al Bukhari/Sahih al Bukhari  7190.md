@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd As-Saidi:There was some quarrel (sighting) among Bani 'Am
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Abu Hazim Al Madani] dari [Sahal bin Sa'd As Sa'idi] mengatakan; ketika terjadi peperangan antara bani 'Amru, berita ini sampai kepada Nabi Shallallahu'alaihiwasallam, maka beliau shalat zhuhur kemudian mendatangi mereka untuk mendamaikan sesama mereka. Tatkala tiba shalat ashar, Bilal mengumandangkan adzan dan iqamat. Lantas beliau perintahkan Abu bakar untuk mengimami orang-orang. Ia pun maju mengimami. Selanjutnya Nabi shallallahu 'alaihi wasallam datang sedang Abu Bakar tengah mengimami. Nabi menerobos barisan hingga berdiri di belakang Abu Bakar, dan terus melaju hingga tepat di shaff (barisan) setelah Abu Bakar. Kata Sahal, saat itulah para sahabat menepukkan tangan kanannya diatas punggung lengan kiri (tashfiih) sebagai pertanda Rasul di belakangnya. Adalah kebiasaan Abu bakar jika telah menunaikan shalat, ia tidak menolah-noleh hingga selesai, maka tatkala beliau melihat tashfih terus dilakukan tanpa henti, dia menoleh dan melihat Nabi shallallahu 'alaihi wasallam berada di belakangnya. Nabi shallallahu 'alaihi wasallam memberi isyarat kepadanya agar meneruskan shalatnya dengan tangannya dan mengisyaratkan dengan tangannya sedemikian. Abu Bakar meneruskan shalat beberapa saat, memuji Allah atas ucapan Nabi shallallahu 'alaihi wasallam, kemudian dia berjalan mundur, dikala Nabi shallallahu 'alaihi wasallam melihat yang demikian, Nabi maju dan mengimami orang-orang. Selesai beliau menunaikan shalatnya, beliau mengatakan: "Hai Abu bakar, apa yang menghalangimu ketika aku memberi isyarat kepadamu, namun engkau malah tidak melanjutkannya?" Abu bakar menjawab; "Tidak pantas bagi Ibnu Abu Quhafah mengimami Nabi shallallahu 'alaihi wasallam." Kemudian Nabi bersabda kepada para sahabat: "Jika kalian ragu ketika shalat, hendaklah yang laki-laki mengucapkan tasbih, sedang jika perempuan menepukkan tangan (tashfiih)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7190</td></tr><tr><td>Arabic No</td><td>7190</td></tr><tr><td>Reference</td><td>Book 93 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Са‘д ас-Са‘иди, да будет доволен им Аллах, рассказывал, что однажды бану ‘амр ибн ‘ауф подрались друг с другом. Пророку ﷺ стало известно об этом, и прочитав полуденную молитву, он пришёл к ним, чтобы примирить их. Когда настало время послеполуденной молитвы, Биляль произнёс азан и икаму, и велел Абу Бакру (выйти вперёд), и тогда Абу Бакр вышел вперёд. А (через некоторое время,) когда Абу Бакр ещё продолжал молиться, пришёл Пророк ﷺ и прошёл между людьми так, что встал позади Абу Бакра на первом ряду. \n(Сахль ибн Са‘д) сказал: «И люди стали хлопать в ладони, однако когда Абу Бакр приступал молиться, он (никогда) не смотрел по сторонам до тех пор, пока не завершал молиться. Тем не менее, когда он увидел, что хлопание в ладони не прекращалось, он всё же повернулся и увидел позади себя Пророка ﷺ. И Пророк ﷺ показал ему рукой, чтобы он продолжал молиться. И (Пророк ﷺ показал ему рукой таким образом, (чтобы он оставался на своём месте). Тогда Абу Бакр, пробыв немного (на своём месте), возблагодарил Аллаха за (эти) слова Пророка ﷺ после чего стал отходить назад. И когда Пророк ﷺ увидел (это), то он вышел вперёд, и Пророк ﷺ совершил с людьми молитву (до конца). Завершив молитву, он спросил: “О Абу Бакр, что помешало тебе продолжить, если я сам показал тебе сделать это?” (Абу Бакр) ответил: “Не пристало Ибн Абу Кухафе молиться перед Пророком ﷺ!” Тогда (Пророк ﷺ) обратился к людям: “Если что-то произойдёт с вами (во время молитвы), пусть мужчины говорят: “Субхана-Ллах (Пречист Аллах)!”, а женщины — хлопают в ладони»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7190</td></tr><tr><td>Arabic No</td><td>7190</td></tr><tr><td>Reference</td><td>Book 93 Hadith 52</td></tr></tbody></table></div>
 

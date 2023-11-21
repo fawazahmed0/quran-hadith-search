@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahab] dia berkata, telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Tsaur bin Zaid] dari [Abu al-Ghaits] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Hendaklah kalian menghindari tujuh dosa yang dapat menyebabkan kebinasaan." Dikatakan kepada beliau, "Apakah ketujuh dosa itu wahai Rasulullah?" Beliau menjawab: "Dosa menyekutukan Allah, sihir, membunuh jiwa yang diharamkan oleh Allah untuk dibunuh kecuali dengan haq, memakan harta anak yatim, memakan riba, lari dari medan pertempuran, dan menuduh wanita mukminah baik-baik berbuat zina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>262</td></tr><tr><td>Arabic No</td><td>89</td></tr><tr><td>Reference</td><td>Book 1 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ сказал: «Избегайте (совершения) семи губительных (грехов)». (Люди) спросили: «О Посланник Аллаха, а что это (за грехи)?» Он сказал: «Придавание Аллаху сотоварищей, колдовство, убийство человека, которого Аллах запретил убивать иначе как по праву, проедание имущества сироты, ростовщичество, отступление в день наступления и обвинение в прелюбодеянии целомудренных верующих женщин, (даже) не помышляющих (о подобном)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>262</td></tr><tr><td>Arabic No</td><td>89</td></tr><tr><td>Reference</td><td>Book 1 Hadith 168</td></tr></tbody></table></div>
 

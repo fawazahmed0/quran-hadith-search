@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Qasim:Aisha said that she hung a curtain decorated with pictures (of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Anas bin 'Iyadh] dari ['Ubaidullah bin 'Umar] dari ['Abdurrahman bin Al Qasim] dari [bapaknya, Al Qasim] dari ['Aisyah radliallahu 'anha] bahwa dia tanpa sengaja memiliki tabir yang padanya ada gambar. Maka Nabi shallallahu 'alaihi wasallam merobeknya. Kemudian dia ('Aisyah) mengambil dan membuatnya menjadi dua bantal yang dipakai dirumah sebagai alas duduk Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2479</td></tr><tr><td>Arabic No</td><td>2479</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказывала, что (однажды) она повесила на небольшое окошко или полку внутри дома (сахуа), занавеску, на которой были изображения, но Пророк ﷺ сорвал её, и она сделала из неё две подушки, которые были дома, и Пророк ﷺ сидел на них
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2479</td></tr><tr><td>Arabic No</td><td>2479</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
 

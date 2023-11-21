@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:In the lifetime of Allah's Messenger (ﷺ) (p.b.u.h) the sun ecl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] bahwasanya dia berkata, "Pernah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam. Rasulullah shallallahu 'alaihi wasallam lalu mendirikan shalat bersama orang banyak. Beliau berdiri dalam shalatnya dengan memanjangkan lama berdirinya, kemudian rukuk dengan memanjangkan rukuknya, kemudian berdiri dengan memanjangkan lama berdirinya, namun tidak selama yang pertama. Kemudian beliau rukuk dan memanjangkan lama rukuknya, namun tidak selama rukuknya yang pertama. Kemudian beliau sujud dengan memanjangkan lama sujudnya, beliau kemudian mengerjakan rakaat kedua seperti pada rakaat yang pertama. Saat beliau selesai melaksanakan shalat, matahari telah nampak kembali. Kemudian beliau menyampaikan khutbah kepada orang banyak, beliau memulai khutbahnya dengan memuji Allah dan mengangungkan-Nya, lalu bersabda: "Sesungguhnya matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah, dan tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang. Jika kalian melihat gerhana, maka banyaklah berdoa kepada Allah, bertakbirlah, dirikan shalat dan bersedekahlah." Kemudian beliau meneruskan sabdanya: "Wahai ummat Muhammad! Demi Allah, tidak ada yang melebihi kecemburuan Allah kecuali saat Dia melihat hamba laki-laki atau hamba perempuan-Nya berzina. Wahai ummat Muhammad! Demi Allah, seandainya kalian mengetahui apa yang aku ketahui, niscaya kalian akan sedikit tertawa dan lebih banyak menangis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 16 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают также, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Когда) при жизни Посланника Аллаха ﷺ произошло солнечное затмение, он стал совершать намаз вместе с людьми. (Сначала) он долго стоял, потом совершил долгий поясной поклон, потом (выпрямился и снова) стоял долго, но меньше, чем в первый раз, а затем совершил (ещё один) долгий поясной поклон, но более короткий, чем первый. Потом он (дважды) совершил долгий земной поклон, после чего таким же образом совершил второй рак‘ат, а когда солнце показалось снова, закончил (намаз) и обратился к людям с хутбой. Воздав хвалу Аллаху и восславив Его, он сказал: “Поистине, солнце и луна являются двумя знамениями из числа знамений Аллаха, а затмения их не происходят ни из-за смерти, ни из-за жизни кого бы то ни было из людей, и поэтому если вы увидите (подобное), то взывайте к Аллаху, произносите слова “Аллаху акбар”, совершайте намаз и раздавайте милостыню”. Затем он сказал: “О (члены) общины Мухаммада, клянусь Аллахом, при виде того, как Его раб или Его рабыня совершают прелюбодеяние, никто не испытывает большей ревности, чем Аллах! О (члены) общины Мухаммада, клянусь Аллахом, если бы вы знали то, что известно мне, то, конечно же, смеялись бы мало, а плакали много!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 16 Hadith 5</td></tr></tbody></table></div>
 

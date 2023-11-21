@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Whenever Allah's Messenger (ﷺ) intended to go on a journey, he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhriy] berkata, telah menceritakan kepadaku ['Urwah] dari ['Aisyah radliallahu 'anha] berkata: "Rasulullah shallallahu 'alaihi wasallam apabila hendak bepergian Beliau mengundi diantara isteri-isteri Beliau, siapa yang keluar namanya berarti dialah yang ikut bepergian bersama Beliau. Dan Beliau juga membagi sama antara siang dan malam saat giliran untuk setiap isteri-isteri Beliau kecuali Saudah binti Zam'ah yang dia telah memberikan hak giliran siang dan malamnya untuk 'Aisyah, isteri Nabi shallallahu 'alaihi wasallam demi mengharapkan ridho Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2688</td></tr><tr><td>Arabic No</td><td>2688</td></tr><tr><td>Reference</td><td>Book 52 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Намереваясь отправиться в путь, Посланник Аллаха ﷺ бросал жребий среди своих жён и брал с собой ту, на которую он выпадал, и он проводил с каждой из них её день и её ночь (, когда находился в Медине)».\n(Передатчик этого хадиса сказал): «Однако Сауда бинт Зам‘а уступила свою очередь жене Пророка ﷺ ‘Аише, желая порадовать Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2688</td></tr><tr><td>Arabic No</td><td>2688</td></tr><tr><td>Reference</td><td>Book 52 Hadith 49</td></tr></tbody></table></div>
 

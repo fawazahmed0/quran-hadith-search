@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -56,6 +58,14 @@ Abu Bakr b. Abu'l-Jahm reported:I and Abu Salama b 'Abd al-Rahman came to fatima
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3714</td></tr><tr><td>Arabic No</td><td>1480.18</td></tr><tr><td>Reference</td><td>Book 18 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3714</td></tr><tr><td>Arabic No</td><td>1480.18</td></tr><tr><td>Reference</td><td>Book 18 Hadith 62</td></tr></tbody></table></div>

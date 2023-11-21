@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) came across me and I was Junub. He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy] berkata, telah menceritakan kepada kami ['Abdul A'la] telah menceritakan kepada kami [Humaid] dari [Bakar] dari [Abu Rafi'] dari [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam berjumpa dengan aku padahal aku dalam keadaan junub. Beliau menggandeng tanganku hingga aku pun berjalan bersama beliau hingga beliau duduk. Aku lantas pergi diam-diam kembali ke rumah untuk mandi. Kemudian kembali lagi dan beliau masih duduk. Beliau lalu bertanya: "Kemana saja kamu tadi wahai Abu Hurairah?" Maka aku ceritakan pada beliau. Beliau lalu bersabda: "Subhaanallah! Wahai Abu Hurairah, seorang Muslim itu tidaklah najis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>285</td></tr><tr><td>Arabic No</td><td>285</td></tr><tr><td>Reference</td><td>Book 5 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал:«Однажды Посланник Аллаха ﷺ встретил меня в то время, когда я был в состоянии осквернения. Он взял меня за руку и я шёл с ним, пока он не сел, после чего я незаметно ушёл и пришёл в укрытие, совершил полное омовение, а потом явился (к Пророку ﷺ), который сидел. Он спросил: “Где ты был, о Абу Хирр?” И я рассказал ему, и тогда он сказал: “Преславен Аллах, о Абу Хирр! Поистине, верующий (никогда) не бывает нечистым!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>285</td></tr><tr><td>Arabic No</td><td>285</td></tr><tr><td>Reference</td><td>Book 5 Hadith 37</td></tr></tbody></table></div>
 

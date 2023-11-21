@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Salamah b. al-Akwa' said:The Prophet (ﷺ) used to say the Maghrib prayer immedi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Ali] dari [Shafwan bin Isa] dari [Yazid bin Abu Ubaid] dari [Salamah bin Al Akwa'] dia berkata; Nabi Shallallahu alaihi wasallam shalat Maghrib pada saat matahari tenggelam ketika penghalangnya telah menghilang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (561) Sahih Muslim (636)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>417</td></tr><tr><td>Arabic No</td><td>417</td></tr><tr><td>Reference</td><td>Book 2 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салама ибн Акъва‘ сказал: «Пророк ﷺ совершал закатную молитву в то время, когда закатывалось солнце, и исчезал его край»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (561) Sahih Muslim (636)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>417</td></tr><tr><td>Arabic No</td><td>417</td></tr><tr><td>Reference</td><td>Book 2 Hadith 27</td></tr></tbody></table></div>
 

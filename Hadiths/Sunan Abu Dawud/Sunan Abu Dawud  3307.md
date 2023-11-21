@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:Sa'd b. 'Ubadah asked the Messenger of Allah (ﷺ): My Mothe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] ia berkata; aku membacakan riwayat kepada [Malik] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah] dari [Abdullah bin Abbas], bahwa Sa'd bin 'Ubadah telah meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam, ia berkata; sesungguhnya ibuku telah meninggal, dan ia memiliki tanggungan nadzar yang belum beliau tunaikan. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Tunaikan nadzar tersebut untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2761) Sahih Muslim (1638)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3307</td></tr><tr><td>Arabic No</td><td>3307</td></tr><tr><td>Reference</td><td>Book 22 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+А в краткой версии от Маймуны бинт Кардам ибн Суфьян от её отца говорится, что Посланник Аллаха ﷺ спросил: «Есть ли там идолы и есть ли там что-то из того, ради почитания чего люди собирались там во времена невежества?» Он ответил: «Нет». Передатчик сказал: «Поистине, моя мать дала обет, в числе прочего, совершить хадж пешком. Выполнить ли мне её обет?» (Посланник Аллаха ﷺ) сказал: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2761) Sahih Muslim (1638)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3307</td></tr><tr><td>Arabic No</td><td>3307</td></tr><tr><td>Reference</td><td>Book 22 Hadith 66</td></tr></tbody></table></div>
 

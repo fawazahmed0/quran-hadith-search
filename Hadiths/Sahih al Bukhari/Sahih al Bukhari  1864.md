@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qaza'a the slave of Ziyad:Abu Sa'id who participated in twelve Ghazawat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari ['Abdul Malik bin 'Umair] dari [Qaza'ah, maula Ziyad] berkata; Aku mendengar [Abu Sa'id] yang sudah pernah mengikuti peperangan bersama Nabi shallallahu 'alaihi wasallam sebanyak dua belas peperangan, berkata: "Empat perkara yang aku mendengarnya dari Rasulullah shallallahu 'alaihi wasallam, atau dia (Qaza'ah) berkata; telah menceritakan Abu Sa'id tentang beberapa perkara yang dia dapatkan dari Nabi shallallahu 'alaihi wasallam yang perkara-perkara itu menakjubkan aku (yaitu): "Tidak boleh seorang wanita bepergian sepanjang dua hari perjalanan kecuali bersama suaminya atau mahramnya dan tidak boleh shaum dua hari raya, 'Iedul Fithri dan 'Iedul Adhha, dan tidak boleh melaksanakan dua shalat, yaitu setelah 'Ashar hingga matahari terbenam dan setelah Shubuh hingga matahari terbit dan tidaklah ditekankan untuk berziarah kecuali untuk mengunjungi tiga masjid, Al Masjidil Haram, Masjidku dan Masjidil Aqsha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1864</td></tr><tr><td>Arabic No</td><td>1864</td></tr><tr><td>Reference</td><td>Book 28 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид, да будет доволен им Аллах, участвовавший вместе с Пророком ﷺ в двенадцати военных походах, сказал: «Четыре (вещи), которые я слышал от Посланника Аллаха ﷺ (или же он сказал, что он передаёт их со слов Пророка ﷺ) понравились мне и вызвали моё восхищение (в особой мере. Пророк ﷺ сказал): “Не следует женщине отправляться в поездку, которая займёт два дня (или более), если не будет с ней мужа или близкого родственника; не следует соблюдать пост в День разговения и в День жертвоприношения; не следует совершать молитву после двух (обязательных) молитв — после послеполуденной молитвы /‘аср/ до захода солнца и после утренней молитвы /субх/, пока солнце не взойдёт, и не следует (специально) отправляться (для молитв никуда) за исключением трёх мечетей: Масджид аль-Харам (в Мекке), моей мечети (в Медине) и Масджид аль-Акса (в Иерусалиме)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1864</td></tr><tr><td>Arabic No</td><td>1864</td></tr><tr><td>Reference</td><td>Book 28 Hadith 44</td></tr></tbody></table></div>
 

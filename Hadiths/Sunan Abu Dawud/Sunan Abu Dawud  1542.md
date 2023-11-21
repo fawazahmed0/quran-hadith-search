@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. 'Abbas said:The Messenger of Allah (ﷺ) used to teach us this supp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi] dari [Malik] dari [Abu Az Zubair Al Makki] dari [Thawus] dari [Abdullah bin Abbas] bahwa Rasulullah shallAllahu wa'alaihi wa sallam pernah mengajari mereka doa ini sebagaimana mengajarkan kepada mereka satu surat dari Al Qur'an. Beliau mengucapkan: "ALLAAHUMMA INNII A'UUDZU BIKA MIN 'ADZAABI JAHANNAMA WA A'UUDZU BIKA MIN 'ADZAABIL QABRI WA A'UUDZU BIKA MIN FITNATIL MASIIHID DAJJAAL, WA A'UUDZU BIKA MIN FITNATIL MAHYAA WAL MAMAAT" (Ya Allah, aku berlindung kepadaMu dari adzab Jahannam, dan berlindung kepadaMu dari adzab kubur, dan berlindung kepadaMu dari fitnah Al Masih Ad Dajjal, serta berlindung kepadaMu dari fitnah kehidupan serta fitnah kematian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (590)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1542</td></tr><tr><td>Arabic No</td><td>1542</td></tr><tr><td>Reference</td><td>Book 8 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ учил их следующей мольбе, подобно тому, как учил он их сурам Корана: «О Аллах, поистине, я прошу у Тебя защиты от мучений в Аду, и я прошу у Тебя защиты от мучений в могиле, и я прошу у Тебя защиты от искушений Даджжаля, и я прошу у Тебя защиты от искушений жизни и смерти /Аллахумма инни а‘узу бика мин ‘азаби джаханнама ва а‘узу би-ка мин ‘азаби-ль-кабри ва а‘узу бика мин фитнати-ль-масихи-д-даджжали ва а‘узу би-ка мин фитнати-ль-махйа ва-ль-мамат/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (590)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1542</td></tr><tr><td>Arabic No</td><td>1542</td></tr><tr><td>Reference</td><td>Book 8 Hadith 127</td></tr></tbody></table></div>
 

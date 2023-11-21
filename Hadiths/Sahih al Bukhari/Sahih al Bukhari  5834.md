@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Az-Zubair:I heard 'Umar saying, "The Prophet (ﷺ) said, 'Whoever w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Al Ja'd] telah mengabarkan kepada kami [Syu'bah] dari [Abu Dzibyan Khalifah bin Ka'b] dia berkata; saya mendengar [Ibnu Az Zubair] berkata; saya mendengar [Umar] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "barangsiapa mengenakan kain sutera di dunia, maka tidak akan dikenakan kepadanya di Akhirat kelak." [Abu Ma'mar] mengatakan; telah menceritakan kepada kami [Abdul Warits] dari [Yazid], [Mu'adzah] mengatakan; telah menceritakan kepadaku [Ummu 'Amru binti Abdullah] saya mendengar [Abdullah bin Zubair] mendengar [Umar] bahwa dia mendengar Nabi shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5834</td></tr><tr><td>Arabic No</td><td>5834</td></tr><tr><td>Reference</td><td>Book 77 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара, да будет доволен им Аллах, что Пророк ﷺ сказал: «Тот, кто будет носить шелка в этом мире, не наденет их в мире вечном»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5834</td></tr><tr><td>Arabic No</td><td>5834</td></tr><tr><td>Reference</td><td>Book 77 Hadith 51</td></tr></tbody></table></div>
 

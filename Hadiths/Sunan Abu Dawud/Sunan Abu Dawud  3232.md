@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir:A man was buried with my father. I had a desire at heart for that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb], telah menceritakan kepada kami [Hammad bin Zaid] dari [Sa'id bin Yazid? Abu Maslamah] dari [Abu Nadhrah], dan [Jabir] ia berkata; terdapat seorang laki-laki yang di kubur bersama ayahku. Dan dalam hatiku terdapat keinginan untuk mengeluarkannya. Kemudian setelah enam bulan aku keluarkan jasad ayahku, dan aku tidak mendapati perubahan sedikitpun darinya selain beberapa rambut yang ada di jenggotnya dan menyentuh tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3232</td></tr><tr><td>Arabic No</td><td>3232</td></tr><tr><td>Reference</td><td>Book 21 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир, да будет доволен Аллах им и его отцом, передаёт: «Мой отец был похоронен вместе с другим человеком, и мысль об этом не давала мне покоя, и спустя шесть месяцев я перенёс его останки на новое место, и всё осталось так, как и было прежде, если не считать нескольких волосков на его бороде, которые касались земли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3232</td></tr><tr><td>Arabic No</td><td>3232</td></tr><tr><td>Reference</td><td>Book 21 Hadith 144</td></tr></tbody></table></div>
 

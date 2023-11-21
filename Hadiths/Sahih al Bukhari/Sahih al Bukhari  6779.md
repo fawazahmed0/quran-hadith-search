@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sa'ib bin Yazid:We used to strike the drunks with our hands, shoes, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makki bin Ibrahim] dari [Al Ju'aid] dari [Yazid bin Hushaifah] dari [As Sa'ib bin Yazid] mengatakan; Pernah kami diserahi pemabok dimasa Rasulullah Shallallahu'alaihiwasallam, dimasa pemerintahan Abu bakar dan diawal-awal pemerintahan Umar, lantas kami mencambukinya dengan tangan, sandal, dan pakaian kami, hingga ketika diakhir-akhir kepemerintahan Umar, dia mencambuknya sebanyak empat puluh kali cambukan hingga jika ia masih membangkang dan fasiq, Umar mencambuknya delapan puluh kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6779</td></tr><tr><td>Arabic No</td><td>6779</td></tr><tr><td>Reference</td><td>Book 86 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Саиб ибн Язид сказал: «При жизни Посланника Аллаха ﷺ, во время правления Абу Бакра и в начале правления ‘Умара к нам приводили употреблявших спиртное и мы били его руками, сандалиями и одеждой. В конце правления ‘Умара он наказывал сорока ударами, когда же они стали ослушаться и поступать нечестиво, он стал наказывать их восмьюдесятью ударами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6779</td></tr><tr><td>Arabic No</td><td>6779</td></tr><tr><td>Reference</td><td>Book 86 Hadith 8</td></tr></tbody></table></div>
 

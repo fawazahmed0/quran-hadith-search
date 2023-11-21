@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thumama b. Hazn Al-Qushairi reported:I met 'A'isha and asked her (about the uten
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Al Qasim] -yaitu Ibnu Al Fadll- telah menceritakan kepada kami [Tsumamah bin Hazn Al Qusyairi] dia berkata, "Saya pernah bertemu ['Aisyah], lalu saya bertanya kepadanya mengenai perasan nabidz. Lantas dia menceritakan kepadaku bahwa suatu ketika utusan Abdul Qais datang kepada Nabi shallallahu 'alaihi wasallam sambil bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai perasan nabidz, maka beliau melarang mereka membuat perasan dalam Ad Dubba, An Naqir, Al Muzaffat dan Al Hantam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5175</td></tr><tr><td>Arabic No</td><td>1995.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5175</td></tr><tr><td>Arabic No</td><td>1995.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 49</td></tr></tbody></table></div>
 

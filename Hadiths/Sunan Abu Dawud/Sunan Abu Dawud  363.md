@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Qays daughter of Mihsan: I asked the Prophet (ﷺ) about the blood 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id Al Qaththan] dari [Sufyan] telah menceritakan kepadaku [Tsabit Al-Haddad] telah menceritakan kepadaku [Adi bin Dinar] dia berkata; Saya mendengar [Ummu Qais binti Mihshan] berkata; Saya pernah bertanya kepada Nabi shallallahu 'alaihi wasallam tentang darah haidl yang mengenai pakaian. Beliau bersabda: "Gosoklah dengan kayu dan cucilah dengan air dan daun bidara
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>363</td></tr><tr><td>Arabic No</td><td>363</td></tr><tr><td>Reference</td><td>Book 1 Hadith 363</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Суфйана о том, что Сабит аль-Хаддад рассказывал ему, что ‘Адий ибн Динар сказал: «Я слышал, как Умм Къайс бинт Михсан говорила: “Я спросила Пророка ﷺ о менструальной крови, попавшей на одежду, и он сказал: “Соскобли ее дощечкой и постирай водой смешанной с сидром”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>363</td></tr><tr><td>Arabic No</td><td>363</td></tr><tr><td>Reference</td><td>Book 1 Hadith 363</td></tr></tbody></table></div>
 

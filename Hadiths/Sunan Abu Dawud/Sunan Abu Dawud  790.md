@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir said:Mu’adh b. Jabal used to pray along with the Prophet (ﷺ); then he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Sufyan] dari ['Amru] dan dia mendengarnya dari [Jabir] dia berkata; "Mu'adz biasa shalat bersama Nabi shallallahu 'alaihi wasallam, kemudian dia kembali dan menjadi imam (shalat) bagi kami' -di lain kali Jabir mengatakan; kemudian dia kembali dan menjadi imam (shalat) bagi kaumnya-, pada suatu malam, Nabi shallallahu 'alaihi wasallam mengakhirkan shalat -di lain kali Jabir mengatakan; shalat Isya'- Mu'adz mengerjakan shalat bersama Nabi shallallahu 'alaihi wasallam, lalu kembali (ke kaumnya) menjadi imam (shalat) bagi kaumnya dengan membaca surat Al Baqarah, (karena panjangnya) maka salah seorang laki-laki memisahkan diri dari Jama'ah dan mengerjakan shalat sendirian, hingga di katakan kepadanya; "kamu telah berbuat nifak wahai fulan." Laki-laki itu menimpali; "aku tidak munafik." Lantas laki-laki itu pergi menghadap Rasulullah shallallahu 'alaihi wasallam seraya berkata; "Sesungguhnya Mu'adz biasa mengerjakan shalat bersama anda, kemudian ia kembali (ke kaumnya) dan menjadi imam (shalat) bagi kami, wahai Rasulullah, kami hanya pemilik unta pengangkut air dan kami harus bekerja keras, sesungguhnya dia datang mengimami kami dengan membaca surat Al Baqarah." Maka beliau bersabda: "Wahai Mu'adz, apakah kamu hendak menyebarkan fitnah, apakah kamu hendak menyebarkan fitnah, bacalah surat ini, bacalah surat ini." Abu Zubair mengatakan; "(cukup) dengan membaca 'sabbihisma rabbikal a'la dan wallaili idzaa yaghsyaa." Kemudian aku sebutkan perkara itu kepada 'amru, maka dia berkata; "Aku telah melihat Jabir telah menyebutkan hadits tersebut." Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Thalib bin Habib] telah menceritakan kepada kami [Abdurrahman bin Jabir] dia menceritakan dari [Hazm bin Ubay bin Ka'b] bahwa dia menemui Mu'adz bin Jabal yang sedang mengerjakan shalat maghrib (menjadi imam) bersama kaumnya…" dalam hadits ini perawi mengatakan; "Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Mu'adz, janganlah kamu menjadi penyebar fitnah, karena yang mengerjakan shalat di belakangmu terdapat orang tua, orang yang lemah, orang yang memiliki keperluan dan musafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (700) Sahih Muslim (465)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>790</td></tr><tr><td>Reference</td><td>Book 2 Hadith 400</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аммара ибн Ясира, да будет доволен Аллах им и его отцом: «Я слышал, что Посланник Аллаха ﷺ сказал: “Поистине, бывает так, что человек завершает молитву, но ему записывается только десятая часть молитвы, или девятая, или восьмая, или седьмая, или шестая, или пятая, или четвёртая, или третья, или половина”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (700) Sahih Muslim (465)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>790</td></tr><tr><td>Reference</td><td>Book 2 Hadith 400</td></tr></tbody></table></div>
 

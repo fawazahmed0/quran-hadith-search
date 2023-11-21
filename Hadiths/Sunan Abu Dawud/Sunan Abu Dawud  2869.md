@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Qur'anic verse goes: "(It is prescribed when death appro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi], telah menceritakan kepadaku [Ali bin Husain bin Waqid], dari [ayahnya], dari [Yazid An Nahwi], dari [Ikrimah] dari [Ibnu Abbas], "Jika ia meninggalkan harta yang banyak, berwasiat untuk ibu-bapak dan karib kerabatnya." Maka wasiat adalah demikian hingga dihapus oleh ayat warisan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2869</td></tr><tr><td>Arabic No</td><td>2869</td></tr><tr><td>Reference</td><td>Book 18 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего «Когда смерть приближается к кому-либо из вас и он оставляет после себя добро, ему предписано оставить завещание родителям и ближайшим родственникам на разумных условиях» (сура “аль-Бакара”, аят 180) следующее: «Завещание делалось таким образом до тех пор, пока это постановление не было отменено аятом о наследовании»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2869</td></tr><tr><td>Arabic No</td><td>2869</td></tr><tr><td>Reference</td><td>Book 18 Hadith 8</td></tr></tbody></table></div>
 

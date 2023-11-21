@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:On the day of the conquest of Mecca, the Prophet (ﷺ) said,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Mujahid] dari [Thawus] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam bersabda pada hari pebebasan kota Makkah: "Tidak ada lagi hijrah tetapi yang ada adalah jihad dan niat dan jika kalian diperintahkan berangkat perang maka berangkatlah. Sesungguhnya negeri ini telah Allah Ikrarkan kesucikannya sejak hari penciptaan langit dan bumi. Maka dia akan terus suci dengan pensucian dari Allah itu hingga hari qiyamat sehingga tidak dibolehkan perang didalamnya buat seorangpun sebelum aku dan tidak dihalalkan pula buatku kecuali sesaat dalam suatu hari. Maka dia suci dengan pensucian dari Allah itu hingga hari qiyamat, dan tidak boleh ditebang pepohonannya dan tidak boleh diburu hewan buruannya dan tidak ditemukan satupun barang temuan kecuali harus dikembalikan kepada yang mengenalnya (pemiliknya) dan tidak boleh dipotong rumputnya". Berkata, Al 'Abbas radliallahu 'anhu: "Wahai Rasulullah, kecuali pohon idzkhir yang berguna untuk wewangian tukang besi mereka dan rumah-rumah mereka". Dia berkata,, maka Beliau bersabda: "Ya, kecuali pohon idzkhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1834</td></tr><tr><td>Arabic No</td><td>1834</td></tr><tr><td>Reference</td><td>Book 28 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что в день завоевания Мекки Пророк ﷺ сказал: «(Отныне) нет (необходимости в) переселении, но (необходимость в) джихаде и намерении (остаётся), и если вас призовут, поспешите! ...»\nПеревод не полный
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1834</td></tr><tr><td>Arabic No</td><td>1834</td></tr><tr><td>Reference</td><td>Book 28 Hadith 14</td></tr></tbody></table></div>
 

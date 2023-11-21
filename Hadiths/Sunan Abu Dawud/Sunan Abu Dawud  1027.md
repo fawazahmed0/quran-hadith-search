@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zaid b. Aslam reported on the authority of the chain of Malik:The Prophet (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian ragu dalam shalatnya, sehingga tidak tahu tiga atukah empat raka'atkah yang telah di kerjakan, hendaknya ia sujud dua kali ketika sedang duduk sebelum salam, jika ternyata raka'at yang di kerjakannya itu raka'at yang kelima, maka shalatnya di sempurnakan oleh dua sujud tersebut, sekiranya sudah cukup empar raka'at, maka sujudnya itu untuk menjengkelkan syetan." Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Ya'qub bin Abdurrahman Al Qarri] dari [Zaid bin Aslam] dengan isnadnya Malik dia berkata; Sesungguhnya Nabi shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian ragu dalam shalatnya, dan apabila ia meyakini telah mengerjakan tiga raka'at, hendaknya ia berdiri untuk menyempurnakan satu raka'at dengan sujudnya kemudian dia duduk sambil membaca tasyahud. Apabila telah selesai dan tinggal salam, hendaknya ia sujud dua kali kemudian salam…" kemudian dia menyebutkan makna hadits Malik. Abu Daud mengatakan; "Demikian juga yang di riwayatkan oleh [Ibnu Wahb] dari [Malik] dan [Hafsh bin Maisarah], [Daud bin Qais] serta [Hisyam bin Sa'd] kecuali Hisyam yang menyampaikan dari [Abu Sa'id Al Khudri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1027</td></tr><tr><td>Arabic No</td><td>1027</td></tr><tr><td>Reference</td><td>Book 2 Hadith 638</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Асляма, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если кто-то из вас сомневается в своей молитве, то, если он обретёт уверенность в том, что совершил три рак‘ата, пусть он поднимается и завершает рак‘ат вместе с земными поклонами, потом сядет и прочитает ташаххуд. Потом он должен сидя совершить два земных поклона перед таслимом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1027</td></tr><tr><td>Arabic No</td><td>1027</td></tr><tr><td>Reference</td><td>Book 2 Hadith 638</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Once Um Sulaim was (with the women who were) in charge of the lugg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Anas] radliallahu 'anhu dia berkata; "Ummu Sulaim pernah sakit, sementara Anjasyah yaitu hamba sahaya Nabi shallallahu 'alaihi wasallam mengawalnya, maka Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Anjasy, pelan-pelanlah kamu kalau mengawal sesuatu yang mudah pecah (maksudnya wanita)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6202</td></tr><tr><td>Arabic No</td><td>6202</td></tr><tr><td>Reference</td><td>Book 78 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды, когда) Умм Суляйм находилась (вместе с женщинами, присматривавшими за) поклажей, а раб Пророка ﷺ (по имени) Анджаша гнал (верблюдов слишком быстро), Пророк ﷺ сказал (ему): “О Анджаш, помедленнее, ибо те, кого ты погоняешь, везут бутылки!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6202</td></tr><tr><td>Arabic No</td><td>6202</td></tr><tr><td>Reference</td><td>Book 78 Hadith 226</td></tr></tbody></table></div>
 

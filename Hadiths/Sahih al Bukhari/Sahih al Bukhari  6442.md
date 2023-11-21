@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "Who among you considers the wealth o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Umar bin Hafsh] telah menceritakan kepadaku [Ayahku] telah menceritakan kepada kami [Al A'masy] dia berkata; telah menceritakan kepadaku [Ibrahim At Taimi] dari [Al Harits bin Suwaid] dia berkata; [Abdullah] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Siapakah diantara kalian yang harta pewarisnya lebih ia cintai daripada hartanya sendiri?" Mereka menjawab; 'Wahai Rasulullah, tidak ada diantara kami melainkan hartanya lebih ia cintai daripada harta pewarisnya.' Beliau bersabda: 'Hartamu adalah apa yang telah engkau dahulukan sedang harta pewarismu adalah apa yang engkau tangguhkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6442</td></tr><tr><td>Arabic No</td><td>6442</td></tr><tr><td>Reference</td><td>Book 81 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абдуллах (бин Мас‘уд), да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ спросил (людей): “Кто из вас любит богатство своего наследника больше, чем своё (собственное) богатство?” Они сказали: “О Посланник Аллаха, нет среди нас такого, кто не любил бы своё (собственное) богатство больше”. (Тогда) он сказал: “Но, поистине, богатством (каждого) является то, что он (потратил), а то, что он отложил, является богатством его наследника!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6442</td></tr><tr><td>Arabic No</td><td>6442</td></tr><tr><td>Reference</td><td>Book 81 Hadith 31</td></tr></tbody></table></div>
 

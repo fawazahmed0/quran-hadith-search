@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "Your period (i.e. the Muslims'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Laits] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhu] dari Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya masa hidup kalian dibandingkan masa umat-umat yang dahulu hanyalah bagaikan antara 'Ashar hingga terbenamnya matahari. Dan perumpamaan kalian dibandingkan orang-orang Yahudi dan Nashrani seperti seseorang yang mempekerjakan para pekerja, ia berkata; "Siapa yang mau bekerja untukku hingga pertengahan siang dengan upah satu qirath satu qirath, maka orang-orang Yahudi melaksanakannya dengan upah satu qirath. Kemudian dia berkata lagi; "Siapa yang mau bekerja untukku mulai pertengahan siang hingga waktu shalat 'Ashar dengan upah satu qirath?. Lalu orang-orang Nashrani mengerjakannya dengan upah satu qirath. Kemudian dia berkata lagi; "Siapa yang mau bekerja untukku mulai waktu shalat 'Ashar hingga terbenam matahari dengan dua qirath?. Maka kalianlah yang mengerjakan mulai dari shalat 'Ashar hingga terbenam matahari dengan upah dua qirath. Ketahuilah bahwa kalian mendapatkan pahala dua kali". Maka orang-orang Yahudi dan Nashrani marah seraya berkata: "Kami yang lebih banyak amal namun lebih sedikit upah!". Maka Allah 'azza wajalla bertanya; "Apakah ada yang aku zhalimi dari hak kalian?". Mereka menjawab; "Tidak". Allah berfirman; "Itulah karunia dari-KU yang AKU berikan kepada siapa yang AKU kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>3459</td></tr><tr><td>Reference</td><td>Book 60 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Поистине, время вашего существования по сравнению с теми общинами, которые были до вас подобно промежутку между послеполуденной молитвой /‘аср/ и закатом солнца. Вас, иудеев и христиан можно сравнить с работниками, которых нанял человек, и сказал: “Кто поработает на меня с утра до полудня за один кырат (награды) каждому?” Тогда иудеи поработали до полудня за кырат каждому. Затем он сказал: “Кто поработает на меня с полудня до молитвы ‘аср за один кырат каждому?” Тогда христиане поработали с полудня до молитвы ‘аср за один кырат каждому. Затем он сказал: “Кто поработает на меня с молитвы ‘аср до заката солнца за два кырата каждому?” (Пророк ﷺ добавил:) «Это вы те, которые работают с молитвы ‘аср до заката солнца за два кырата каждому. Вы получаете двойную награду! И тогда разозлились иудеи и христиане и сказали: “Мы работали больше, но получили плату меньше?” И Аллах сказал: “А разве Я обделил вас как-то в вашем праве?” Они ответили: “Нет”. Он сказал: “Это — милость Моя, даю её тому, кому пожелаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>3459</td></tr><tr><td>Reference</td><td>Book 60 Hadith 126</td></tr></tbody></table></div>
 

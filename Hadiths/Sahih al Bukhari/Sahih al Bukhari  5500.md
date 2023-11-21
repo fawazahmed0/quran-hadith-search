@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundub bin Sufyan Al-Bajali:Once during the lifetime of Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Al Aswad bin Qais] dari [Jundub bin Sufyan Al Bajali] ia berkata, "Suatu hari kami pernah menyembelih hewan kurban bersama Rasulullah shallallahu 'alaihi wasallam, ternyata orang-orang telah menyembelih hewan kurban mereka, namun hal itu mereka lakukan sebelum pelaksanaan shalat. Setelah Nabi shallallahu 'alaihi wasallam selesai melaksanakan shalat beliau melihat mereka telah menyembelih sembelihan mereka sebelum shalat, maka beliau pun bersabda: "Barangsiapa menyembelih sebelum shalat, hendaklah ia menyembelih lagi sebagai gantinya. Dan barangsiapa belum menyembelih hingga kami selesai shalat, maka hendaklah ia menyembelih atas nama Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5500</td></tr><tr><td>Arabic No</td><td>5500</td></tr><tr><td>Reference</td><td>Book 72 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джундуб ибн Суфьян аль-Баджали, да будет доволен им Аллах, сказал: «Однажды при жизни Посланника Аллаха ﷺ мы совершали жертвоприношение. Некоторые люди принесли свои жертвы перед праздничной молитвой, и когда Пророк ﷺ закончил молитву, он увидел, что они совершили жертвоприношение до молитвы. Он сказал: “Пусть тот, кто зарезал животное до молитвы, зарежет другое (животное) вместо той, а тот, кто не резал, пусть режет с именем Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5500</td></tr><tr><td>Arabic No</td><td>5500</td></tr><tr><td>Reference</td><td>Book 72 Hadith 26</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: When Hind, daughter of Utbah, said: Prophet of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepadaku [Ghibthah binti Amru Al Mujasyi'iyah] ia berkata; telah menceritakan kepadaku bibiku [Ummul Hasan] dari [Neneknya] dari ['Aisyah radliallahu 'anha] bahwa Hind binti Utbah berkata, "Wahai Nabi Allah, baiatlah aku." Beliau bersabda: "Aku tidak akan membaiatmu hingga kamu mengubah (pewarna) kedua telapak tanganmu, sebab kedua telapak tangannya seperti telapak tangan binatang buas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4165</td></tr><tr><td>Arabic No</td><td>4165</td></tr><tr><td>Reference</td><td>Book 35 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Хинд бинт ‘Утба сказала: «О Пророк Аллаха, прими мою присягу». Он же ответил: «Я не стану принимать твою присягу, пока ты не изменишь вид своих рук, ибо они похожи на звериные лапы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4165</td></tr><tr><td>Arabic No</td><td>4165</td></tr><tr><td>Reference</td><td>Book 35 Hadith 7</td></tr></tbody></table></div>
 

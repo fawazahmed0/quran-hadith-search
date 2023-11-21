@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:While we were in the Mosque, the Prophet (ﷺ) came out and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah bercerita kepada kami [Al LAits] berkata telah bercerita kepadaku [Sa'id Al Maqbariy] dari [bapakmya] dari [Abu Hurairah radliallahu 'anhu] berkata; "Ketika kami sedang berada di masjid, Nabi shallallahu 'alaihi wasallam keluar seraya berkata: "Berangkatlah kalian menemui orang-orang Yahudi". Maka kami keluar hingga ketika sampai di rumah Al Midras, Beliau bersabda: "Masuklah kedalam Islam maka kalian akan selamat, dan ketahuilah bahwa bumi ini milik Allah dan Rasul-Nya dan aku hendak mengusir kalian dari daerah ini, Maka barangsiapa dari kalian yang memiliki harta hendaklah dia menjualnya. Jika tidak mau, ketahuilah bahwa bumi ini milik Allah dan Rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3167</td></tr><tr><td>Arabic No</td><td>3167</td></tr><tr><td>Reference</td><td>Book 58 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт: «Когда мы сидели в мечети, Посланник Аллаха ﷺ вышел и сказал: “Отправляйтесь к иудеям”. И мы отправились, пока не пришили в мидрас (место, в котором читали и изучали Тору). И Пророк ﷺ сказал: “Примите ислам и вы спасётесь. И знайте, что земля принадлежит Аллаху и Его Посланнику и, поистине, я желаю выселить вас с этой земли. У кого из вас есть здесь имущество, пусть продаст его, а в противном случае, то знайте, что земля принадлежит Аллаху и Его Посланнику”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3167</td></tr><tr><td>Arabic No</td><td>3167</td></tr><tr><td>Reference</td><td>Book 58 Hadith 9</td></tr></tbody></table></div>
 

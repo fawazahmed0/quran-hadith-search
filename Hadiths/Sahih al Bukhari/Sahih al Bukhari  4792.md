@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I of all the people know best this verse of Al-Hijab. Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Qilabah], [Anas bin Malik] berkata; Aku orang yang lebih tahu tentang ayat hijab ini, yaitu ketika Zainab binti Jahsy dihadiahkan kepada Rasulullah shallallahu 'alaihi wasallam. Suatu ketika Zainab bersama Rasulullah shallallahu 'alaihi wasallam di rumahnya, beliau membuat makanan lalu mengundang orang-orang. Kemudian mereka pun duduk-duduk sambil berbincang-bincang. Nabi shallallahu 'alaihi wasallam sengaja keluar masuk, namun mereka masih duduk-duduk sambil berbincang-bincang. Maka Allah Ta'ala menurunkan ayat: Hai orang-orang yang beriman, janganlah kamu memasuki rumah- rumah Nabi kecuali bila kamu diizinkan untuk makan dengan tidak menunggu-nunggu waktu masak makanannya…, hingga ayat: maka mintalah dari belakang tabir. (Al Ahzab: 53). Maka dibuatkanlah tabir dan orang-orang pun beranjak pergi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>4792</td></tr><tr><td>Reference</td><td>Book 65 Hadith 314</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Я лучше всех (остальных) людей знаю об аяте завеса. Когда Посланник Аллаха ﷺ женился на Зейнаб бинт Джахш, и она была с ним дома, он приготовил еду и пригласил людей. (Закончив приём пищи,) они продолжили сидеть и разговаривать. Пророк ﷺ стал выходить и возвращаться, а они продолжали сидеть и разговаривать. Тогда Всевышний Аллах ниспослал: “О те, которые уверовали! Не входите в дома Пророка, если только вас не пригласят на трапезу, но не дожидайтесь её приготовления…” до слов: “…через завесу”. Тогда была опущена занавеска, и они ушли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>4792</td></tr><tr><td>Reference</td><td>Book 65 Hadith 314</td></tr></tbody></table></div>
 

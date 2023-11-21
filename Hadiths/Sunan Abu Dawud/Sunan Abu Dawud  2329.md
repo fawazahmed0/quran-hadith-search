@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah: AbulAzhar al-Mughirah ibn Farwah said: Mu'awiyah stood among
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al 'Ala' Az Zubaidi] dari kitabnya, telah menceritakan kepada kami [Al Walid bin Muslim], telah menceritakan kepada kami [Abdullah bin Al 'Ala'], dari [Abu Al Azhar Al Mughirah bin Firwah], ia berkata; [Mu'awiyah] berdiri diantara orang-orang di Dair Mishal yang berada di depan pintu Himsh, ia berkata; wahai para manusia; sesungguhnya kami telah melihat Hilal pada hari ini dan ini, dan aku akan mendahului. Barang siapa yang ingin melakukannya maka hendaknya ia melakukannya. Al Mughirah berkata; kemudian Malik bin Hubairah As Sabai berdiri di sampingnya dan berkata; wahai Mu'awiyah, apakah hal tersebut sesuatu yang engkau dengar dari Rasulullah shallallahu 'alaihi wasallam atau sesuatu yang berasal dari pendapatmu? Ia berkata; aku mendengarnya dari Rasulullah shallallahu wa'alaihi wa sallam. Mereka berkata; berpuasalah pada bulan tersebut dan sirrnya (awalnya). Telah menceritakan kepada kami Sulaiman bin Abdurrahman Ad Dimasyqi, mengenai hadits ini, ia berkata; Al Walid berkata; saya mendengar Abu 'Amr Al Auza'i berkata; sirrnya yaitu awalnya. Abu Daud berkata; sebagian mereka mengatakan sirrnya adalah pertengahannya, sedangkan yang lain mengatakan; akhirnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2329</td></tr><tr><td>Arabic No</td><td>2329</td></tr><tr><td>Reference</td><td>Book 14 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аль-Азхар аль-Мугира ибн Фарва сказал: «Му‘авия поднялся и обратился к людям с речью в Дейр-Мисхаль, что у Хомса. Он сказал: “О люди! Мы видели народившийся месяц в такой-то день, и я собираюсь соблюдать пост. Кто желает, пусть тоже делает это”. Малик ибн Хубайра ас-Сабаи поднялся и спросил: “О Му‘авия, ты слышал это от Посланника Аллаха ﷺ или это твоё мнение?” Му‘авия ответил: “Я слышал, как Посланник Аллаха ﷺ сказал: “Поститесь месяц, в том числе и его сирр””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2329</td></tr><tr><td>Arabic No</td><td>2329</td></tr><tr><td>Reference</td><td>Book 14 Hadith 17</td></tr></tbody></table></div>
 

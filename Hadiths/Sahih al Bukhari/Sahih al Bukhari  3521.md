@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Musaiyab:Al-Bahira was an animal whose milk was spared for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, aku mendengar [Sa'id bin Al Musayyab] berkata; Al Bahirah adalah unta yang tidak boleh ditunggangi dan tidak boleh diambil air susunya oleh seorang pun dipersembahkan untuk berhala, sedang as-sa'ibah (jamaknya as-Sawa'ib) adalah unta yang tidak hamil lagi yang mereka persembahkan untuk tuhan-tuhan mereka (patung). Sa'id bin Al Musayyab berkata; dan [Abu Hurairah radliallahu 'anhu] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Aku melihat 'Amru bin Luhay Al Khuza'iy menarik punggungnya ke neraka dan dia adalah orang pertama mempersembahkan as-Sawa'ib (saibah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3521</td></tr><tr><td>Arabic No</td><td>3521</td></tr><tr><td>Reference</td><td>Book 61 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал:\n— Я слышал, как Са‘ид ибн аль-Мусаййаб сказал: «Бахира — (это вер­блюдица), молоко которой запрещалось (пить, поскольку она посвящалась) идолам, и никто из людей не доил её. А (что касается) сàибы, кото­рую они посвящали своим божествам, то на ней ничего не возили».\n(Са‘ид ибн аль-Мусаййаб) сказал:\n— И Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Я видел, как ‘Амр ибн ‘Амир ибн Лухайй аль-Хуза‘и влачил свои кишки в Огне (за то, что) он первым стал (посвящать идолам) верблюдиц по обету”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3521</td></tr><tr><td>Arabic No</td><td>3521</td></tr><tr><td>Reference</td><td>Book 61 Hadith 31</td></tr></tbody></table></div>
 

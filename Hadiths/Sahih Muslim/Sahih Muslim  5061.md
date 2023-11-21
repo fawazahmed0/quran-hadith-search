@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), Ibn 'Omar passa par des gens qu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Syaiban bin Farruh] dan [Abu Kamil] sedangkan lafadznya dari Abu Kamil, keduanya berkata; telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dia berkata, "Ibnu Umar pernah melewati sekelompok orang yang menjadikan seekor ayam sebagai sasaran memanah, saat melihat Ibnu Umar maka mereka lari berpencar, lantas [Ibnu Umar] berkata, "Siapakah yang melakukan hal ini? Sesungguhnya Rasulullah shallallahu 'alaihi wasallam melaknat orang yang melakukan hal ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5061</td></tr><tr><td>Arabic No</td><td>1958.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5061</td></tr><tr><td>Arabic No</td><td>1958.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 90</td></tr></tbody></table></div>
 

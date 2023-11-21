@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd al-Hamid ibn Ja'far reported from his father on the authority of his grandfa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], telah mengabarkan kepadaku [Isa], telah menceritakan kepada kami [Abdul Hamid bin Ja'far], telah mengabarkan kepadaku [ayahku], dari [kakekku yaitu Rafi' bin Sinan], bahwa ia telah masuk Islam sedangkan isterinya menolak untuk masuk Islam. Kemudian wanita tersebut datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; anak wanitaku ia masih menyusu -atau yang serupa dengannya. Rafi' berkata; ia adalah anak wanitaku. Beliau berkata kepada wanita tersebut; duduklah di pojok. Dan mendudukkan anak kecil tersebut diantara mereka berdua, kemudian beliau berkata; panggillah ia. Kemudian anak tersebut menuju kepada ibunya. Lalu Nabi shallallahu 'alaihi wasallam berdoa: "Ya Allah, berilah dia petunjuk!" kemudian anak tersebut menuju kepada ayahnya. kemudian Rafi' bin Sinan membawa anak tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2244</td></tr><tr><td>Arabic No</td><td>2244</td></tr><tr><td>Reference</td><td>Book 13 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Рафи‘а ибн Синана, что он принял ислам, а его жена отказалась принимать ислам. Она пришла к Пророку ﷺ и сказала: «Это моя дочь». А она была уже отнята от груди или почти отнята. А Рафи‘ сказал: «Это моя дочь!» Пророк ﷺ сказал: «Сядь здесь», а потом сказал его жене: «А ты сядь вот здесь». Когда они сели, Посланник Аллаха ﷺ посадил девочку между ними и сказал: «Позовите её». И девочка потянулась к матери. Тогда Пророк ﷺ сказал: «О Аллах, направь её на верный путь!» И девочка потянулась к отцу, и он взял её
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2244</td></tr><tr><td>Arabic No</td><td>2244</td></tr><tr><td>Reference</td><td>Book 13 Hadith 70</td></tr></tbody></table></div>
 

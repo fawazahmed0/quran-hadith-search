@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah bin 'Amr: The Messenger of Allah (ﷺ) was asked about laila
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Humaid bin Zanjuwaih An Nasa'i] telah mengabarkan kepada kami [Sa'id bin Abu Maryam] telah menceritakan kepada kami [Muhammad bin Ja'far bin Abu Katsir] telah mengabarkan kepada kami [Musa bin 'Uqbah] dari [Abu Ishaq] dari [Sa'id bin Jubair] dari [Abdullah bin Umar] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah di tanya, dan aku mendengar mengenai lailatul qadr, beliau bersabda: "lailatul qadr terjadi setiap bulan Ramadhan." Abu Daud berkata; di riwayatkan pula oleh [Sufyan] dan [Syu'bah] dari [Abu Ishaq] secara mauquf sampai [Ibnu Umar], dan dia tidak merafa'kan sampai kepada Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1387</td></tr><tr><td>Arabic No</td><td>1387</td></tr><tr><td>Reference</td><td>Book 6 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом: «В моём присутствии Посланнику Аллаха ﷺ задали вопрос о Ночи предопределения и он сказал: “Она может выпасть на любую ночь рамадана”». Абу Дауд сказал, что Суфьян и Шу‘ба передавали этот хадис от Абу Исхака как слова самого Ибн ‘Умара, не возводя их к Пророку ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1387</td></tr><tr><td>Arabic No</td><td>1387</td></tr><tr><td>Reference</td><td>Book 6 Hadith 17</td></tr></tbody></table></div>
 

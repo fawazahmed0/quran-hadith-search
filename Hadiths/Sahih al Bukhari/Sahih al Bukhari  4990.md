@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:There was revealed: 'Not equal are those believers who sit (at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Isra'il] dari [Abu Ishaq] dari [Al Baraa'] ia berkata; Ketika turunnya ayat, "LAA YASTAWIL QAA'IDUUNA MINAL MUKMINIINA WAL MUJAAHIDUUNA FI SABIILILLAH (Tidaklah sama antara orang-orang yang duduk dari kaum mukminin dengan para Mujahid yang berjuang di jalan Allah)." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Panggilkanlah Zaid bin Tsabit, dan hendaklah ia membawa alat tulis dan tinta serta tulang." Kemudian beliau bersabda: "Tuliskanlah: 'LAA YASTAWIL QAA'IDUUNA...'" Sementara saat itu, pas di belakang Rasulullah shallallahu 'alaihi wasallam ada Amru bin Ummu Maktum Al A'ma, ia berkata, "Wahai Rasulullah, apa yang mau Anda perintahkan kepadaku? Aku adalah seorang yang buta tak bisa melihat." Maka turunlah ayat: "LAA YASTAWIL QAA'IDUUNA MINAL MUKMINIINA WAL MUJAAHIDUUNA FI SABIILILLAH GHAIRA ULIDL DLARARA (Tidaklah sama antara orang-orang yang duduk dari kaum mukminin dengan para Mujahid yang berjuang di jalan Allah, kecuali bagi yang memiliki udzur yang syari'). (QS. Annisa';)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4990</td></tr><tr><td>Arabic No</td><td>4990</td></tr><tr><td>Reference</td><td>Book 66 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара сказал: «Когда был ниспослан аят “Те из верующих, которые отсиживаются, не равны тем, которые сражаются на пути Аллаха…”, Пророк ﷺ сказал: “Позовите ко мне Зейда, и пусть принесёт доску, чернильницу и лопатку”. Затем Пророк ﷺ сказал ему: “Пиши: “Не равны те, которые отсиживаются…””. Тут слепой ’Амр ибн Умм Мактум, который сидел позади Пророка ﷺ сказал: “О Посланник Аллаха, что прикажешь делать мне, ведь я слепой?”, тогда вместо того аята было ниспослано: “Те из верующих, которые отсиживаются, не равны тем, которые сражаются на пути Аллаха своим имуществом и своими душами, кроме тех, кто испытывает тяготы” (сура “ан-Ниса”, аят 95)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4990</td></tr><tr><td>Arabic No</td><td>4990</td></tr><tr><td>Reference</td><td>Book 66 Hadith 12</td></tr></tbody></table></div>
 

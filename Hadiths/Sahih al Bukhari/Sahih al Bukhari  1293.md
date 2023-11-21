@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:On the day of the Battle of Uhud, my father was bro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Ibnu Al Munkadir] berkata; Aku mendengar [Jabir bin 'Abdullah radliallahu 'anhu] berkata,: "Pada hari Perang Uhud, bapakku didatangkan dalam kondisi sudah terbunuh dengan bagian anggota badannya ada yang terpotong hingga diletakkan di hadapan Rasulullah Shallallahu'alaihiwasallam, sedangkan jasadnya sudah ditutup dengan kain. Maka aku menghampiri untuk membukanya namun kaumku mencegahku. Aku coba sekali lagi untuk membukanya namun kaumku tetap mencegahku hingga akhirnya Rasulullah Shallallahu'alaihiwasallam memerintahkan untuk diangkat (dibawa). Saat itu Beliau mendengar ada suara teriakan. Maka Beliau bertanya: "(Suara) siapakah itu?". Orang-orang menjawab: "Putri dari 'Amru" atau "saudara perempuan 'Amru. Kemudian Beliau berkata,: "Mengapa kamu menangis?" atau "Janganlah kamu menangis, karena malaikat senantiasa akan menaunginya dengan sayap-sayapnya hingga (jenazah) ini diangkat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1293</td></tr><tr><td>Arabic No</td><td>1293</td></tr><tr><td>Reference</td><td>Book 23 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Когда (тело) моего убитого и изуродованного в день Ухуда, отца принесли и положили перед посланником Аллаха ﷺ я подошёл, чтобы поднять одежду с его лица, но мои соплеменники запретили мне сделать это. Я попытался ещё раз, но мои соплеменники снова запретили мне. Тогда Посланник Аллаха ﷺ приказал, чтобы его унесли. В это время он услышал голос громко рыдающей женщины и спросил: “Кто это?” Люди сказали: “Это дочь или сестра ‘Амра”. Посланник Аллаха ﷺ сказал: “Почему она плачет? — Или: пусть она не плачет. — Ангелы продолжали укрывать его своими крыльями до тех пор, пока вы не унесли его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1293</td></tr><tr><td>Arabic No</td><td>1293</td></tr><tr><td>Reference</td><td>Book 23 Hadith 51</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salman:The interval between Jesus and Muhammad was six hundred years
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Hasan bin Mudrik] telah menceritakan kepada kami [Yahya bin Hammad] telah mengabarkan kepada kami [Abu 'Awanah] dari ['Ashim Al Ahwal] dari ['Utsman] dari [Salman] berkata; "Masa fatrah (tidak ada risalah/wahyu dari Allah) antara Nabi 'Isa 'alaihis salam dan Nabi Muhammad shallallahu 'alaihi wasallam adalah enam ratus tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3948</td></tr><tr><td>Arabic No</td><td>3948</td></tr><tr><td>Reference</td><td>Book 63 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сальмана, да будет доволен им Аллах, сказал: «Период времени от ‘Исы, мир ему, до Мухаммада ﷺ (длилось) шестьсот лет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3948</td></tr><tr><td>Arabic No</td><td>3948</td></tr><tr><td>Reference</td><td>Book 63 Hadith 172</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It was said to Anas b. Malik:You must have heard this that Allah's Messenger (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ja'far Muhammad bin Ash Shabah]; Telah menceritakan kepada kami [Hafsh bin Ghiyats]; Telah menceritakan kepada kami ['Ashim Al Ahwal] dia berkata; "Seseorang pernah bertanya kepada [Anas bin Malik]; 'Apakah kamu pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak ada perjanjian persahabatan (persekutuan dalam Islam)?.' Anas menjawab; "Rasulullah shallallahu 'alaihi wasallam pernah mengadakan perjanjian persahabatan antara muslimin Quraisyy dengan kaum muslimin Anshar di rumah beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6463</td></tr><tr><td>Arabic No</td><td>2529.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 292</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6463</td></tr><tr><td>Arabic No</td><td>2529.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 292</td></tr></tbody></table></div>
 

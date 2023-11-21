@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) reported:I was in Hims when some of the people asked me to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] ia berkata; Saya berada di Himsh, lalu salah seorang dari suatu kaum berkata kepadaku, "Bacakanlah Al Qur'an kepada kami." Maka aku pun membacakan surat Yusuf kepada mereka. Lalu salah seorang dari mereka berkata, "Demi Allah, tidaklah seperti itu (bacaannya) ayat ini diturunkan. Abdullah berkata; Saya berkata, "Celaka kamu, demi Allah, sungguh, saya telah membacakannya kepada Rasulullah shallallahu 'alaihi wasallam lalu beliau bersabda kepadaku: 'Kamu telah membacanya dengan benar.'" Di tengah-tengah pembicaraanku, saya mencium aroma khamer darinya, maka saya pun bertanya, "Apakah kamu meminum khamer lalu mendustakan kitab? Kamu tidak boleh meninggalkan tempat ini hingga saya menderamu." Akhirnya aku pun menegakkan had atasnya. Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ali bin Khasyram] keduanya berkata, telah mengabarkan kepada kami [Isa bin Yunus] -dalam jalur lain- Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] semuanya dari [Al A'masy] dengan isnad ini, dan di dalam hadits Mu'awiyah tidak tercantum; "Lalu beliau bersabda kepadaku: 'AHSANTA (kamu telah membacanya dengan benar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1870</td></tr><tr><td>Arabic No</td><td>801.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 298</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд сказал: «(Как-то раз), когда я находился в Хымсе, люди попросили меня: “Почитай нам (Коран)”, и я прочёл им суру “Юсуф”, (после чего) один из (тех, кто меня слушал), воскликнул: “Клянусь Аллахом, она была ниспослана не так!” Я сказал: “Горе тебе, я читал её самому Посланнику Аллаха ﷺ, и он сказал мне: “Хорошо”. Разговаривая с (этим человеком), я почувствовал запах вина и воскликнул: “Так ты пьёшь вино и возводишь ложь на Книгу (Аллаха)! Ты не уйдёшь (отсюда), пока я не подвергну тебя бичеванию!” и я подверг его установленному наказанию /хадду/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1870</td></tr><tr><td>Arabic No</td><td>801.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 298</td></tr></tbody></table></div>
 

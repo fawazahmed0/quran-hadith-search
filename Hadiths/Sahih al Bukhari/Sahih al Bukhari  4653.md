@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Verse:--'If there are twenty steadfast amongst you 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin 'Abdullah As Sulami] Telah mengabarkan kepada kami ['Abdullah bin Al Mubarak] Telah mengabarkan kepada kami [Jarir bin Hazim] dia berkata; Telah mengabarkan kepadaku [Az Zubair bin Khirrit] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] dia berkata; Tatkala turun ayat: Jika ada dua puluh orang yang sabar diantaramu, niscaya mereka akan dapat mengalahkan dua ratus orang musuh. Dan jika ada seratus orang yang sabar diantaramu, niscaya mereka akan dapat mengalahkan seribu dari pada orang kafir… (Al Anfal: 65). Maka hal itu terasa berat bagi kaum muslimin, yaitu ketika diwajibkan kepada mereka tidak ada yang lari seorang pun dari sepuluh orang. Lalu datang keringanan yaitu ayat; Sekarang Allah telah meringankan kepadamu. (Al Anfal: 66). Ibnu Abbas berkata; tatkala Allah meringankan mereka dari jumlah pasukan, maka kesabaran pun menjadi berkurang sesuai keringanan yang diberikan kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4653</td></tr><tr><td>Arabic No</td><td>4653</td></tr><tr><td>Reference</td><td>Book 65 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Аббас рассказал: «Когда был ниспослан аят: “Если будет среди вас двадцать терпеливых, то они одолеют две сотни…”, мусульманам было запрещено убегать от противника, превосходящего их в десять раз, и это показалось им слишком обременительным. Тогда было ниспослано облегчение: “Теперь Аллах облегчил вам (о, верующие); и Он узнал, что в вас есть слабость. Если среди вас будет сто терпеливых, то они одолеют две сотни…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4653</td></tr><tr><td>Arabic No</td><td>4653</td></tr><tr><td>Reference</td><td>Book 65 Hadith 175</td></tr></tbody></table></div>
 

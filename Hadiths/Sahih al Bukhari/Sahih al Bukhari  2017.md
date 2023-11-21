@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, "Search for the Night of Qadr in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Isma'il bin Ja'far] telah menceritakan kepada kami [Abu Suhail] dari [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Carilah Lailatul Qadar pada malam yang ganjil dalam sepuluh malam yang akhir dari Ramadhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>2017</td></tr><tr><td>Reference</td><td>Book 32 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Ищите Ночь предопределения /Лейлят-уль-кадр/ в нечётные ночи последних десяти дней рамадана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>2017</td></tr><tr><td>Reference</td><td>Book 32 Hadith 4</td></tr></tbody></table></div>
 

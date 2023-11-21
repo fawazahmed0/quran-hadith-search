@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Ahnaf bin Qais:I went to help that man (i.e., 'Ali), and on the way 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdurrahman bin Mubarak] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub] dan [Yunus] dari [Al Hasan] dari [Al Ahnaf bin Qais] mengatakan; 'aku berangkat untuk membantu lelaki ini, (di tengah perjalanan) [Abu Bakrah] memergokiku dan bertanya; 'mau kemana kau? ' Saya menjawab; 'untuk menolong orang ini.' Abu Bakrah berkata; Pulang saja kamu. Sebab aku mendengar Rasulullah Shallallahu'alaihiwasallam bersabda: "Jika dua orang muslim bertemu dengan menghunuskan pedangnya, maka si pembunuh dan yang dibunuh sama-sama di neraka." Saya bertanya; 'Ya Rasulullah, saya maklum terhadap si pembunuh, lantas apa dosa yang dibunuh? ' Nabi menjawab: "sesungguhnya dia juga berkeinginan keras membunuh kawannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6875</td></tr><tr><td>Arabic No</td><td>6875</td></tr><tr><td>Reference</td><td>Book 87 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Ахнаф ибн Кайс сказал: «Однажды, я отправился помочь этому человеку и меня (по дороге) встретил Абу Бакра, который сказал: “Ты куда идешь?” Я сказал: “Хочу помочь этому человеку”. Он сказал: “Вернись, ибо поистине, я слышал, как однажды Посланник Аллаха ﷺ говорил: “Если два мусульманина сойдутся (в бою, скрестив) свои мечи, то и убивший, и убитый окажутся в Аду”. Я спросил: “О Посланник Аллаха, (будет справедливо, если туда попадёт) убивший, но почему же и убитый?!” Он ответил: “Ведь и он хотел убить своего товарища!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6875</td></tr><tr><td>Arabic No</td><td>6875</td></tr><tr><td>Reference</td><td>Book 87 Hadith 14</td></tr></tbody></table></div>
 

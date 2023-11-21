@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said (to me), "You have been shown to me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaid bin Isma'il] Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari [Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Engkau telah diperlihatkan padaku di dalam mimpi sebanyak dua kali. Seorang laki-laki membawamu dalam balutan kain sutera seraya berkata, 'Ini adalah isterimu.' Maka aku pun menyingkap kain itu, dan ternyata di dalamnya adalah kamu.' Maka aku pun berkata, 'Jika ini dari Allah, niscaya Dia akan menjadikannya kenyataan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5078</td></tr><tr><td>Arabic No</td><td>5078</td></tr><tr><td>Reference</td><td>Book 67 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Посланник Аллаха ﷺ сказал (ей): «Ты была показана мне во сне дважды. Мужчина приносил тебя (ко мне) в куске (хорошего) шёлка и говорил: “Это твоя жена”. Я снимал с неё (покрывало), и оказывалось, что это ты, а я говорил: “Если это — от Аллаха, Он приведёт это к завершению”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5078</td></tr><tr><td>Arabic No</td><td>5078</td></tr><tr><td>Reference</td><td>Book 67 Hadith 16</td></tr></tbody></table></div>
 

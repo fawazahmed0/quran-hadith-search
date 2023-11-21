@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Barâ Ibn 'Azib (que Dieu l'agrée) a dit : J'ai fait la prière avec l'Envoy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abu al-Ahwash] dari [Abu Ishaq] dari [al-Bara' bin 'Azib] dia berkata, "Aku shalat bersama Nabi Shallallahu'alaihiwasallam menghadap Baitul Maqdis selama enam belas bulan hingga turun ayat tersebut yang ada dalam surat al-Baqarah, "Dan di mana pun kamu berada maka palingkanlah wajah-wajahmu ke arahnya." (QS.Albaqarah 124), ayat tersebut turun setelah Nabi Shallallahu'alaihiwasallam shalat, lalu seorang laki-laki dari suatu kaum bertolak pergi, lalu dia berjalan bersama beberapa manusia dari kalangan Anshar, dan mereka shalat, lalu beliau menceritakannya kepada mereka, maka mereka menghadapkan wajah-wajah mereka ke Baitullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1176</td></tr><tr><td>Arabic No</td><td>525.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Бараъ ибн ‘Азиба, что он рассказал: «Я совершал молитвы с Пророком ﷺ в сторону Иерусалима в течение 16 месяцев, пока не был ниспослан аят в суре “аль-Бакара”: “Где бы вы ни были, обращайте ваши лица в её сторону”. Он был ниспослан после того, как Пророк ﷺ закончил молитву. И отправился один человек и, проходя мимо группы молящихся из числа ансаров, рассказал им (о смене киблы), на что они повернулись в сторону Каабы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1176</td></tr><tr><td>Arabic No</td><td>525.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
 

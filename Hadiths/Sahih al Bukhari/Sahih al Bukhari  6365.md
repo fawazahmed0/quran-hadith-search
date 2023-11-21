@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mus'ab:Sa'd used to recommend five (statements) and mentioned that the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abdul Malik] dari [Mush'ab] bahwa [Sa'd] pernah memerintahkan lima perkara, dia menyebutkan perkara itu dari nabi Shallallahu 'alahi wasallam, bahwa beliau memerintahkan hal itu juga, yaitu; "ALLAHUMMA INNI A'UUDZU BIKA MINAL BUKHLI, WA A'UUDZU BIKA MINAL JUBNI, WA A'UUDZU BIKA AN URADDA ILAA ARDZALIL 'UMUR WA A'UUDZU BIKA MIN FITNATID DUNYA -yaitu firnah Dajjal- WA A'UUDZUBIKA MIN 'ADZAABIL QABRI (Ya Allah, aku berlindung kepada-Mu dari sifat kikir, aku berlindung kepada-Mu dari sifat pengecut, aku berlindung kepada-Mu kepikunan, aku berlindung dari fitnah dunia -maksudnya adalah fitnah dajjal- dan aku berlindung kepada-Mu dari siksa kubur)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6365</td></tr><tr><td>Arabic No</td><td>6365</td></tr><tr><td>Reference</td><td>Book 80 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д (ибн Абу Ваккъас, да будет доволен им Аллах,) приказывал (людям произносить) пять вещей, о которых он передавал от Пророка ﷺ которые он часто приказывал (произносить людям): «О Аллах, поистине, я прибегаю к Тебе от скупости, и я прибегаю к Тебе от малодушия, и я прибегаю к Тебе от того, чтобы оказаться дряхлым стариком, и я прибегаю к Тебе от искушений мира этого, имея в виду искушение Антихриста, — и я прибегаю к Тебе от мучений могилы».\n/Аллахумма, инни а‘узу бика мина-ль-бухли, ва а‘узу бика мин аль-джубни, ва а‘узу бика мин ан урадда иля арзали-ль-‘умури, ва а‘узу бика мин фитнати-д-дунйа, ва а‘узу бика мин ‘азаби-ль-къабр
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6365</td></tr><tr><td>Arabic No</td><td>6365</td></tr><tr><td>Reference</td><td>Book 80 Hadith 62</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Shaqiq who said:I heard Sahl b. Hunaif 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala] dan [Muhammad bin Abdullah bin Numair] keduanya berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] dia berkata; aku mendengar [Sahal bin Hunaif] berkata ketika di Shifin, "Wahai para manusia, koreksilah diri kalian masing-masing, demi Allah, aku telah mengalami sendiri ketika peristiwa Abu Jandal, sekiranya aku mampu menolak perintah Rasulullah shallallahu 'alaihi wasallam, sungguh aku akan menolaknya (untuk tidak berperang). Demi Allah, ketika itu kami tidak melakukan peperangan sedikitpun, melainkan Allah memudahkan urusan kami, sangat berbeda dengan peristiwa kalian saat ini!" Ibnu Numair tidak menyebutkan, "Hingga suatu perkara yang mengkhawatirkan." Dan telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq] semuanya dari [Jarir]. Dan telah diriwayatkan dari jalur lain, telah menceritakan kepadaku [Abu Sa'id Al Asyaj] telah menceritakan kepada kami [Waki'] keduanya dari [Al A'masy] dengan isnad in, dan dalam hadits keduanya di sebutkan, "Sampai kepada peristiwa yang menagerikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4634</td></tr><tr><td>Arabic No</td><td>1785.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4634</td></tr><tr><td>Arabic No</td><td>1785.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 116</td></tr></tbody></table></div>
 

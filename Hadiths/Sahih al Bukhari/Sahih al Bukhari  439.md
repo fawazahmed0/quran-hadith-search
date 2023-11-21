@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:There was a black slave girl belonging to an 'Arab tribe and the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaid bin Isma'il] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah], bahwa ada seorang budak perempuan hitam milik suatu kaum orang 'Arab telah mereka merdekakan." 'Aisyah mengatakan, "Pada suatu hari sahaya ini keluar bersama seorang bayi perempuan dengan membawa kain tikar tenunan berwarna merah terbuat dari kulit yang dihiasi dengan permata. Berkata, 'Aisyah radliallahu 'anhu: Maka sahaya itu meletakkan tikar tersebut atau duduk diatasnya. Lalu tiba-tiba ada burung terluka yang jatuh. Sahaya itu menganggapnya sebagai daging maka diambilnya. Lalu orang-orang itu mencari burung tersebut tapi tidak menemukannya. Berkata, 'Aisyah radliallahu 'anhu: "Lalu orang-orang itu menanyakannya kepadaku. Be 'Aisyah radliallahu 'anhu: "lalu orang-orng iru menggeledah sampai pada bagian depan sahaya tersebut. 'Aisyah radliallahu 'anhu berkata,: "Demi Allah, aku ada bersama mereka saat butung itu jatuh lalu dia mengambilnya. Maka terjadilah apa yang terjadi diantara mereka. 'Aisyah radliallahu 'anhu berkata,: "Aku katakan: Inilah yang kalian duga aku berada di balik ini semua padahal orang ini lah yang berbuat dan aku berlepas diri darinya". 'Aisyah radliallahu 'anhu berkata,: "Lalu sahaya ini menemui Rasulullah shallallahu 'alaihi wasallam. dan masuk Islam. Berkata, 'Aisyah radliallahu 'anhu: Sahaya ini memiliki rumah kecil di dekat masjid. 'Aisyah radliallahu 'anhu berkata,: "Dan setiap dia menemui aku dia menceritakan disampingku. 'Aisyah radliallahu 'anhu berkata,: " Tidaklah dia duduk disisiku melainkan selalu bersya'ir: Berkata, 'Aisyah radliallahu 'anhu: aku katakana kepadanya: "Apa alasanmmu setiap kali bermajelis denganku kamu bersya'ir seperti itu?" 'Aisyah radliallahu 'anhu berkata,: Maka dia ceritakan seperti kejadian dalam hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>439</td></tr><tr><td>Arabic No</td><td>439</td></tr><tr><td>Reference</td><td>Book 8 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(В своё время людям из) одного арабского племени принадлежала чёрная рабыня, оставшаяся с ними и после того, как они освободили её. (Эта женщина) сказала: “Однажды (из дома) вышла девочка из их числа, на которой была красная кожаная перевязь, украшенная жемчугом. Она положила эту перевязь (на землю) /или: эта перевязь упала с неё/, после чего над ней пролетел коршун, который (увидел, что) она лежит (на земле), принял за (кусок) мяса и схватил её. Люди стали искать (пропажу), но ничего не нашли, а потом они обвинили (в краже) меня и принялись обыскивать меня, обнажив даже мои срамные части”». (Затем бывшая рабыня) сказала: «И, клянусь Аллахом, когда я стояла среди них (в таком положении, над нами снова) пролетел этот же коршун и обронил перевязь, которая упала среди них. Тогда я сказала (им): “Вот то, в краже чего вы меня обвиняли, а я была к этому непричастна, ибо эта вещь перед вами!”» \n(‘Аиша) сказала: \n— После этого она явилась к Посланнику Аллаха ﷺ и приняла Ислам. При мечети у неё была палатка (или: маленькая хижина), и она часто приходила поговорить со мной и когда бы (эта женщина) со мной ни встречалась, она обязательно произносила (такие стихи): «А день перевязи — одно из чудес Господа нашего; поистине, Он вызволил меня из страны неверия!» \n‘Аиша сказала:«(Однажды) я спросила её: “Почему каждый раз, встречаясь со мной, ты повторяешь эти стихи?” − и она рассказала мне эту историю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>439</td></tr><tr><td>Arabic No</td><td>439</td></tr><tr><td>Reference</td><td>Book 8 Hadith 88</td></tr></tbody></table></div>
 

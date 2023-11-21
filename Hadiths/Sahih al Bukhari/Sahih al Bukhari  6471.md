@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:The Prophet (ﷺ) used to pray so much that his f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kami [Mis'ar] telah menceritakan kepada kami [Ziyad bin 'Ilaqah] dia berkata; saya mendengar [Al Mughirah bin Syu'bah] berkata; Nabi shallallahu 'alaihi wasallam pernah mengerjakan shalat hingga kaki beliau bengkak, lalu dia katakan kepada beliau, namun beliau menjawab: "Tidak bolehkah aku menjadi hamba yang bersyukur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6471</td></tr><tr><td>Arabic No</td><td>6471</td></tr><tr><td>Reference</td><td>Book 81 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал аль-Мугира ибн Шу‘ба, что Пророк ﷺ обычно молился так много, что его ноги становились отёчными или опухшими (от долгого выстаивания), и когда его спрашивали(, почему он так много молится), он отвечал: «Разве я не должен быть благодарным рабом (Аллаха)?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6471</td></tr><tr><td>Arabic No</td><td>6471</td></tr><tr><td>Reference</td><td>Book 81 Hadith 60</td></tr></tbody></table></div>
 

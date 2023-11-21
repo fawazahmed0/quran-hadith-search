@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mughirah ibn Shu'bah: The Prophet (ﷺ) said: He who sold wine shoul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] ia berkata; telah menceritakan kepada kami [Ibnu Idris] dan [Waki'] dari [Thu'mah bin 'Amru Al Ja'fari] dari [Umar bin Bayan At Taghlabi] dari ['Urwah bin Al Mughirah bin Syu'bah] dari [Al Mughirah bin Syu'bah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menjual arak, maka hendaknya ia menghalalkan babi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3489</td></tr><tr><td>Arabic No</td><td>3489</td></tr><tr><td>Reference</td><td>Book 24 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Мугиры ибн Шу‘бы, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто продаёт вино, пусть режет и свиней!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3489</td></tr><tr><td>Arabic No</td><td>3489</td></tr><tr><td>Reference</td><td>Book 24 Hadith 74</td></tr></tbody></table></div>
 

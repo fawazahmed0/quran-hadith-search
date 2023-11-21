@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:When the Prophet (ﷺ) married me, my mother came to me and made 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Farwah bin Abu Al Maghra'] Telah menceritakan kepada kami [Ali bin Mushir] dari [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Nabi shallallahu 'alaihi wasallam menikahiku. Kemudian aku didatangi oleh ibuku, lalu ia memasukkanku ke dalam rumah, tidak ada yang membuatku merasa terharu kecuali Rasulullah shallallahu 'alaihi wasallam di waktu Dluha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5160</td></tr><tr><td>Arabic No</td><td>5160</td></tr><tr><td>Reference</td><td>Book 67 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Пророк ﷺ женился на мне, моя мать пришла ко мне и завела в дом, а к утру, к моему удивлению, пришёл Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5160</td></tr><tr><td>Arabic No</td><td>5160</td></tr><tr><td>Reference</td><td>Book 67 Hadith 95</td></tr></tbody></table></div>
 

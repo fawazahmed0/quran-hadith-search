@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Amir b. Sa'd that Sa'd b. Abi Waqqas was in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abbas bin Abdulazhim] teks milik Ishaq, berkata Abbas telah menceritakan kepada kami, sementara Ishaq berkata: Telah mengkhabarkan kepada kami [Abu Bakr Al Hanafi] telah menceritakan kepada kami [Bukair bin Mismar] telah menceritakan kepadaku [Amir bin Sa'ad] berkata: [Sa'ad bin Abi Waqqash] tengah mengurus untanya lalu Ibnu Umar mendatanginya, saat Sa'ad melihatnya, Ibnu Umar berkata: Aku berlindung kepada Allah dari keburukan pengendara ini. ia turun lalu berkata pada Sa'ad berkata: Apa kau mengurus unta dan kambingmu sementara kau membiarkan orang-orang saling memperebuatkan kekuasaan diantara mereka? Saat memukul dadanya lalu berkata: Diam, aku pernah mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya Allah menyukai hamba yang bertakwa, berkecukupan dan menyendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7432</td></tr><tr><td>Arabic No</td><td>2965</td></tr><tr><td>Reference</td><td>Book 55 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7432</td></tr><tr><td>Arabic No</td><td>2965</td></tr><tr><td>Reference</td><td>Book 55 Hadith 16</td></tr></tbody></table></div>
 

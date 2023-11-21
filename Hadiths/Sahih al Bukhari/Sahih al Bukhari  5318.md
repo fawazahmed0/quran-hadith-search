@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:(the wife of the Prophet) A lady from Bani Aslam, called Suba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] dari [Ja'far bin Rabi'ah] dari [Abdurrahman bin Hurmuz Al A'raj] ia berkata; Telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] bahwa [Zainab binti Abu Salamah] telah mengabarkan kepadanya dari [Ibunya] yakni Ummu Salamah isteri Nabi shallallahu 'alaihi wasallam bahwasanya; Ada seorang wanita dari Bani Aslam yang biasa dipanggil Subai'ah. Ia memiliki suami dan wafat sementara ia dalam keadaan hamil. Lalu ia pun dipinang oleh Abu As Sanabil bin Ba'kak, namun ia menolak untuk menikahinya. Ia berkata, "Demi Allah, wanita itu tidak boleh menikahinya hingga masa iddah yang terakhir berakhir. (maksudnya empat bulan sepuluh hari, bukan setelah melahirkan). Maka wanita itu pun menunggu selama sepuluh hari, lalu ia datang menemui Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Menikahlah dengannya (maksudnya boleh nikah setelah melahirkan, tidak menunggu empat bulan sepuluh hari)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5318</td></tr><tr><td>Arabic No</td><td>5318</td></tr><tr><td>Reference</td><td>Book 68 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, жена Пророка ﷺ, рассказала, что женщина из племени аслям по имени Субай‘а овдовела во время беременности, и к ней посватался Абу ас-Санабиль ибн Ба‘как, но она отказалась выходить за него замуж, и он сказал: «Клянусь Аллахом, ты не можешь выйти замуж, пока не закончится наибольший из двух сроков выжидания (четыре месяца и десять дней)!». Затем примерно через десять дней (после родов) она пришла к Пророку ﷺ, (чтобы узнать о своём положение,) и он сказал (ей): «Можешь выходить замуж»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5318</td></tr><tr><td>Arabic No</td><td>5318</td></tr><tr><td>Reference</td><td>Book 68 Hadith 67</td></tr></tbody></table></div>
 

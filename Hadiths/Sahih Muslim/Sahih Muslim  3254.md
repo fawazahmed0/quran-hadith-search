@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported:A woman lifted up her child and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala'] Telah menceritakan kepada kami [Abu Usamah] dari [Sufyan] dari [Muhammad bin Uqbah] dari [Kuraib] dari [Ibnu Abbas] ia berkata; Ada seorang wanita yang menggendong anak kecil lalu bertanya, "Wahai Rasulullah, apakah anak kecil ini juga memiliki keharusan menunaikan haji." Beliau menjawab: "Ya, dan kamu juga mendapatkan pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3254</td></tr><tr><td>Arabic No</td><td>1336.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 458</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3254</td></tr><tr><td>Arabic No</td><td>1336.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 458</td></tr></tbody></table></div>
 

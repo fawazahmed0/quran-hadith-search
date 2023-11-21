@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar said, "The Prophet (ﷺ) arrived at Mecca and sent for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] dan [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Ibnu 'Umar] bahwa Nabi shallallahu 'alaihi wasallam mengunjungi Makkah (Ka'bah) seraya memanggil 'Utsman bin Thalhah, 'Utsman bin Thalhah kemudian membuka pintu (Ka'bah) dan Nabi shallallahu 'alaihi wasallam pun masuk diikuti oleh Bilal, Usamah bin Zaid, dan 'Utsman bin Thalhah, lalu pintu ditutup. Beliau berada di dalam sesaat kemudian mereka keluar." Ibnu Umar berkata, "Aku segera menemui Bilal untuk menanyakan sesuatu, [Bilal] pun menjawab, "Beliau melaksanakan shalat di dalam (Ka'bah)." Aku bertanya lagi, "Di sebelah mana?" Bilal menjawab, "Di antara dua tiang." Ibnu Umar berkata, "Lalu aku lupa untuk bertanya berapa beliau shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>468</td></tr><tr><td>Reference</td><td>Book 8 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Вступив в Мекку, Пророк ﷺ призвал к себе ‘Усмана ибн Тальху. (‘Усман) открыл ему двери (Каабы), и Пророк ﷺ которого сопровождали Билял, Усама ибн Зейд и ‘Усман ибн Тальха, вошёл внутрь, после чего двери были закрыты. (Пророк ﷺ) провёл там некоторое время, а потом они вышли (оттуда)». Ибн ‘Умар сказал: «Я сразу же подошёл к Билялу и спросил его(, молился ли Пророк ﷺ), на что он ответил: “Он совершил там молитву”. Я спросил: “Где?” Он ответил: “Между двумя столбами”». Ибн ‘Умар сказал: «Но я забыл спросить его, сколько рак‘атов он совершил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>468</td></tr><tr><td>Reference</td><td>Book 8 Hadith 116</td></tr></tbody></table></div>
 

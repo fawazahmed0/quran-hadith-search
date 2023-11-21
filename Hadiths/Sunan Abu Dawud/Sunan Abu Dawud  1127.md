@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi' said:Ibn 'Umar saw a man praying two rak'ahs after the Friday prayer on th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid] dan [Sulaiman bin Daud] sedangkan maksud haditsnya sama, keduanya berkata; telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub] dari [Nafi'] bahwa [Ibnu Umar] melihat seseorang laki-laki shalat dua raka'at di tempat (shalat) nya, maka Ibnu Umar mendorongnya sambil berkata; "Apakah kamu hendak shalat Jum'at empat raka'at? Abdullah biasa mengerjakan shalat Jum'at (sunnah ba'da Jum'at) dua raka'at di rumahnya, lalu dia berkata; "Demikianlah yang pernah di lakukan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1127</td></tr><tr><td>Arabic No</td><td>1127</td></tr><tr><td>Reference</td><td>Book 2 Hadith 738</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1127</td></tr><tr><td>Arabic No</td><td>1127</td></tr><tr><td>Reference</td><td>Book 2 Hadith 738</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbudDarda': I heard the Messenger of Allah (ﷺ) say: Seek for me weak 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muammal bin Al Fadhl Al Harrani], telah menceritakan kepada kami [Al Walid], telah menceritakan kepada kami [Ibnu Jabir], dari [Zaid bin Artha'ah Al Fazari], dari [Jubair bin Nufair Al Hadhrami], bahwa ia mendengar [Abu Ad Darda'] berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Carikan orang-orang lemah untukku, sesungguhnya kalian diberi rizki dan diberi kemenangan karena orang-orang lemah kalian." Abu Daud berkata; Zaid bin Artha'ah adalah saudara 'Adi bin Artha'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2594</td></tr><tr><td>Arabic No</td><td>2594</td></tr><tr><td>Reference</td><td>Book 15 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу ад-Дарды, что Посланник Аллаха ﷺ сказал: «Ищите моего расположения посредством слабых (из вас), ибо вы наделяетесь уделом и помощью (от Аллаха) именно за счёт них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2594</td></tr><tr><td>Arabic No</td><td>2594</td></tr><tr><td>Reference</td><td>Book 15 Hadith 118</td></tr></tbody></table></div>
 

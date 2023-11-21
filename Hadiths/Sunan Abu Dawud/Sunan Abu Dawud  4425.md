@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said:The Messenger of Allah (ﷺ) asked Ma’iz b. Malik : Is what 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Simak bin Harb] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, 'Rasulullah shallallahu 'alaihi wasallam bersabda kepada Ma'iz bin Malik: "Apa benar berita yang sampai kepadaku tentang dirimu?" Ma'iz balik bertanya, "Berita apa yang telah engkau dengar tentang aku?" beliau menjawab: "Telah sampai kabar kepadaku bahwa engkau telah berzina dengan seorang budak wanita dari bani fulan." Ma'iz berkata, "Benar." Lalu ia bersaksi hingga empat kali, Nabi kemudian memerintahkan untuk merajamnya, maka Ma'iz pun dirajam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1693)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4425</td></tr><tr><td>Arabic No</td><td>4425</td></tr><tr><td>Reference</td><td>Book 40 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ спросил Ма‘иза: «Правда ли то, что сообщили мне о тебе?» (Ма‘из) спросил: «А что тебе сказали обо мне?» (Посланник Аллаха ﷺ) сказал: «Мне сказали, что ты совершил прелюбодеяние с невольницей таких-то людей». (Ма‘из) сказал: «Да, это так». И он засвидетельствовал четыре раза, после чего по велению (Посланника Аллаха ﷺ) его побили камнями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1693)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4425</td></tr><tr><td>Arabic No</td><td>4425</td></tr><tr><td>Reference</td><td>Book 40 Hadith 75</td></tr></tbody></table></div>
 

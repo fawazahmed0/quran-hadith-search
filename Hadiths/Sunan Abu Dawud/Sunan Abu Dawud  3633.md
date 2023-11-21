@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: If you dispute over a pathway, lea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Al Mutsanna bin Sa'id] telah menceritakan kepada kami [Qatadah] dari [Busyair bin Ka'b Al 'Adawi] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika kalian berselisih dengan (batas), maka jadikanlah jalan tersebut lebarnya adalah tujuh hasta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3633</td></tr><tr><td>Arabic No</td><td>3633</td></tr><tr><td>Reference</td><td>Book 25 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда будете прокладывать дорогу, делайте её шириной в семь локтей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3633</td></tr><tr><td>Arabic No</td><td>3633</td></tr><tr><td>Reference</td><td>Book 25 Hadith 63</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: (The narrator Isma'il said: I think ash-Sha'bi attrib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Zuhair], telah menceritakan kepadaku [Isma'il] dari [Amir] dari [Al Harits] dari [Ali] radliallahu 'anhu, Isma'il berkata; aku melihat ia merafa'kan hadits ini kepada Nabi shallallahu 'alaihi wasallam, bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Semoga Allah melaknat muhallil (seseorang yang menikahi wanita yang telah dicerai tiga kali oleh suaminya untuk diceraikan lagi agar halal dinikahi kembali oleh suaminya yang pertama, dan ini dilakukan atas perintah suami pertama tersebut) dan muhallal lahu (seseorang -suami pertama- yang menyurh orang lain agar menikahi isterinya yang telah dicerai tiga kali agar halal dinikahi kembali). Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Khalid] dari [Hushain] dari [Amir] dari [Al Harits Al A'war] dari seorang sahabat Nabi shallallahu 'alaihi wasallam, ia berkata; kami melihat bahwa ia adakah [Ali] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam dengan makna yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2076</td></tr><tr><td>Arabic No</td><td>2076</td></tr><tr><td>Reference</td><td>Book 12 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али, да будет доволен им Аллах, что Пророк ﷺ сказал: «Проклят тот, кто женится на женщине ради того, чтобы сделать её дозволенной для первого мужа, и проклят тот, для кого он это делает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2076</td></tr><tr><td>Arabic No</td><td>2076</td></tr><tr><td>Reference</td><td>Book 12 Hadith 31</td></tr></tbody></table></div>
 

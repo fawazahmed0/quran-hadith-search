@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) used to pray two rak'ah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar] dia berkata; "Rasulullah shallallahu 'alaihi wasallam biasa mengerjakan shalat dua raka'at setelah jum'at di rumahnya." Abu Daud berkata; "Demikianlah yang di riwayatkan [Abdullah bin Dinar] dari [Ibnu Umar]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1132</td></tr><tr><td>Arabic No</td><td>1132</td></tr><tr><td>Reference</td><td>Book 2 Hadith 743</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1132</td></tr><tr><td>Arabic No</td><td>1132</td></tr><tr><td>Reference</td><td>Book 2 Hadith 743</td></tr></tbody></table></div>
 

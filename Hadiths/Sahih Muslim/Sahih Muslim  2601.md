@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon 'Aïcha (رضي الله عنها) : Un homme vint trouver le Prophète (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rumh bin Muhajir] telah mengabarkan kepada kami [Laits] dari [Yahya bin Sa'id] dari [Abdurrahman bin Qasim] dari [Muhamamd bin Ja'far bin Zubair] dari [Abbad bin Abdullah bin Zubair] dari [Aisyah] radliallahu 'anha, bahwa ia berkata; Seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, aku telah binasa." Beliau bertanya: "Kenapa?" laki-laki itu menjawab: "Saya telah menyetubuhi isteriku pada siang hari di bulan Ramadlan." Maka beliau bersabda: "Kalau begitu, bersedekahlah, bersedekahlah." Laki-laki itu menjawab, "Saya tidak mempunyai sesuatu pun (untuk disedekahkan)." Maka beliau mempersilahkannya duduk. Kemudian didatangkan kepada beliau dua keranjang (berupa takaran) berisi makanan, maka Rasulullah shallallahu 'alaihi wasallam pun memerintahkannya untuk bersedekah dengan makanan itu. Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah mengabarkan kepada kami [Abdul Wahhab Ats Tsaqafi] ia berkata, saya mendengar [Yahya bin Sa'id] berkata, telah mengabarkan kepadaku [Abdurrahman bin Qasim] bahwa [Muhammad bin Ja'far bin Zubair] telah mengabarkan kepadanya bahwa [Abbad bin Abdullah bin Zubair] telah menceritakan kepadanya, bahwa ia telah mendengar [Aisyah] radliallahu 'anha berkata; Seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam, lalu ia pun menyebutkan hadits. Dan di awal hadits tidak ada ungkapan; "Bersedakahlah, bersedekahlah." Dan tidak pula ungkapan, "Siang hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2601</td></tr><tr><td>Arabic No</td><td>1112.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2601</td></tr><tr><td>Arabic No</td><td>1112.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 107</td></tr></tbody></table></div>
 

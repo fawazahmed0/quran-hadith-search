@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Ibn 'Umar that the Apostle (may peace and ble
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] dan [Abdullah bin Numair] keduanya berkata, telah menceritakan kepada kami [Ubaidullah bin Umar] dari [Nafi'] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila seorang laki-laki mengkafirkan saudaranya, maka sungguh salah seorang dari keduanya telah kembali dengan membawa kekufuran tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>215</td></tr><tr><td>Arabic No</td><td>60.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Пророк ﷺ сказал: «Если человек обвинит своего брата в неверии, то это (описание) вернётся к одному из них (один из них станет таковым)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>215</td></tr><tr><td>Arabic No</td><td>60.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 121</td></tr></tbody></table></div>
 

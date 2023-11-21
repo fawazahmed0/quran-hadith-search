@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) used to pray a short prayer (in congregation) bu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada kami [Abdul Warits] berkata, telah menceritakan kepada kami ['Abdul 'Aziz] dari [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam shalat dengan pendek dan sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>706</td></tr><tr><td>Arabic No</td><td>706</td></tr><tr><td>Reference</td><td>Book 10 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Обычно Пророк ﷺ проводил (общую) молитву недолго, но делал это наилучшим образом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>706</td></tr><tr><td>Arabic No</td><td>706</td></tr><tr><td>Reference</td><td>Book 10 Hadith 101</td></tr></tbody></table></div>
 

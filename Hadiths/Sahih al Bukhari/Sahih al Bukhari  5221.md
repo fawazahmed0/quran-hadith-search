@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, "O followers of Muhammad! There is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha, bahwasanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai ummat Muhammad, tidak ada yang lebih cemburu daripada Allah saat Dia melihat hambanya atau hamba perempuannya berzina. Wahai U'mmat Muhamamd, sekiranya kalian tahu apa yang aku ketahui, niscaya kalian akan sedikit tertawa dan kalian akan banyak menangis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5221</td></tr><tr><td>Arabic No</td><td>5221</td></tr><tr><td>Reference</td><td>Book 67 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «О община Мухаммада! Нет никого более ревнивого, чем Аллах, когда Он видит, что раб Его или рабыня Его совершает прелюбодеяние. О община Мухаммада! Если бы знали вы то, что известно мне, то, конечно же, смеялись бы мало, а плакали много!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5221</td></tr><tr><td>Arabic No</td><td>5221</td></tr><tr><td>Reference</td><td>Book 67 Hadith 154</td></tr></tbody></table></div>
 

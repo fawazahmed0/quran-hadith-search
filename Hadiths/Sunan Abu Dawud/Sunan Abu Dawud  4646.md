@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Safinah: The Prophet (ﷺ) said: The Caliphate of Prophecy will last th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sawwar bin Abdullah] berkata, telah menceritakan kepada kami [Abdul Warits bin Sa'id] dari [Sa'id bin Jumhan] dari [Safinah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Khilafah kenabian itu selama tiga puluh tahun, kemudian Allah memberikan kekuasaan-Nya kepada siapa yang ia kehendaki." Sa'id berkata, "Safinah berkata kepadaku, "Hendaklah engkau tetap bersama Abu Bakar selama selama dua tahun, bersama Umar selama sepuluh tahun, bersama Utsman selama dua belas tahun, demikian juga dengan Ali." Sa'id berkata, "Aku bertanya kepada Safinah, "Mereka menganggap bahwa Ali bukan seorang khalifah?" Ia menjawab, "Keturunan Bani Az Zarqa, yaitu bani Marwan telah berdusta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4646</td></tr><tr><td>Arabic No</td><td>4646</td></tr><tr><td>Reference</td><td>Book 42 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Сафины, что Посланник Аллаха ﷺ сказал: «Будут править преемники Пророка ﷺ в течение тридцати лет, а потом Аллах дарует власть, кому пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4646</td></tr><tr><td>Arabic No</td><td>4646</td></tr><tr><td>Reference</td><td>Book 42 Hadith 51</td></tr></tbody></table></div>
 

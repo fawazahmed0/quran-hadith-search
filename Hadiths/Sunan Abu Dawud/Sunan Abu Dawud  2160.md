@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr b. Shu'aib on his father's authority said that his grandfather (Abdullah ibn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], dan [Abdullah bin Sa'id], mereka berkata; telah menceritakan kepada kami [Abu Khalid Sulaiman bin Hayyan] dari [Ibnu 'Ajlan], dari ['Amr bin Syu'aib] dari [ayahnya], dari [kakeknya], dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila salah seorang diantara kalian menikah atau membeli budak maka hendaknya ia mengucapkan; ALLAAHUMMA INNII AS'ALUKA KHAIRAHAA WA KHAIRA MAA JABALTAHAA 'ALAIHI WA A'UUDZU BIKA MIN SYARRIHAA WA SYARRI MAA JABALTAHAA 'ALAIH (Ya Allah, aku memohon kepadaMu kebaikannya dan kebaikan sesuatu yang Engkau ciptakan dia padanya, dan aku berlindung kepadaMu dari keburukannya dan keburukan sesuatu yang Engkau ciptakan dia padanya). Dan apabila ia membeli unta maka hendaknya ia memegang punuknya dan mengucapkan seperti itu!" Abu Daud berkata; Abu Sa'id menambahkan; kemudian hendaknya ia memegang ubun-ubunnya dan berdoa untuk mendapatkan berkah pada wanita dan budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2160</td></tr><tr><td>Arabic No</td><td>2160</td></tr><tr><td>Reference</td><td>Book 12 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Пророк ﷺ сказал: «Если кто-то из вас женится или приобретёт прислугу, пусть скажет: “О Аллах, я прошу у Тебя блага её и блага, которое Ты вложил в неё, и прошу у Тебя защиты от зла её и от зла, которое Ты вложил в неё!” /Аллахумма инни асалюка хайра-ха ва хайра ма джабальта-ха аляйхи ва аузу бика мин шарри-ха ва шарри ма джабальта-ха аляйхи/ И если он купит верблюда, пусть возьмётся за верхушку горба и скажет нечто подобное». Абу Са‘ид добавил: «А потом пусть возьмётся за чуб и пусть просит благодати, когда речь идёт о женщине или о слуге»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2160</td></tr><tr><td>Arabic No</td><td>2160</td></tr><tr><td>Reference</td><td>Book 12 Hadith 115</td></tr></tbody></table></div>
 

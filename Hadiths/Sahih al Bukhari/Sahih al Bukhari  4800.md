@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Prophet said, "When Allah decrees some order in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Amru] dia berkata; Aku mendengar [Ikrimah] berkata; Aku mendengar [Abu Hurairah] berkata; Sesungguhnya Nabiyullah shallallahu 'alaihi wasallam bersabda: "Apabila Allah menetapkan satu perkara di atas langit maka para malaikat mengepakkan sayap-sayap mereka karena tunduk kepada firman-Nya, seakan-akan rantai yang berada di atas batu besar. Apabila hati mereka telah menjadi stabil, mereka berkata; 'Apa yang difirmankan Rabb kalian? ' mereka menjawab; 'Al Haq, dan Dia Maha Tinggi lagi Maha Besar.' Jin-jin pencuri berita mendengarkannya, (mereka bersusun-susun) sebagian di atas sebagian yang lainnya. Mereka mencuri dengar kalimat lalu menyampaikannya kepada yang berada di bawahnya. Bisa jadi jin itu diterjang bintang sebelum menyampaikannya kepada yang di bawahnya, kemudian mereka menyampaikanya kepada lisan dukun atau tukang sihir. Bisa jadi mereka tidak diterjang oleh bintang sehingga dapat menyampaikannya, kemudian dicampur dengan seratus kebohongan. Maka kalimat yang didengar bisa sesuai dengan yang dari langit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4800</td></tr><tr><td>Arabic No</td><td>4800</td></tr><tr><td>Reference</td><td>Book 65 Hadith 322</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк Аллаха ﷺ сказал: «Когда Аллах решает какое-нибудь дело на небесах, ангелы начинают хлопать своими крыльями (, выражая готовность) повиноваться Его словам, и звук (, издаваемый их крыльями,) подобен (звуку, который издает влекомая) по гладкому камню цепь. Когда же страх (, вызванный словами Аллаха,) покидает сердца (ангелов), они говорят: “Что сказал Господь ваш?” — и тому, кто это говорит, отвечают: “Истину, ведь Он — Возвышенный, Великий!” (Эти слова) слышат подслушивающие (джинны), которые (становятся) друг на друга, а затем передают эти слова друг другу вниз, пока они не достигают языка колдуна (или: прорицателя). И бывает так, что падающая звезда поражает такого подслушивающего до того, как он успеет передать эти слова на землю, а бывает так, что он успевает передать слова на землю до того, как его поразить падающая звезда. Колдун же (добавляет к одному слову правды) сто (слов) лжи, после чего люди говорят: “Разве он не говорил нам в такой-то день, что случится то-то и то-то?!” Люди верят ему из-за этого (правдивого) слова, услышанного с небес»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4800</td></tr><tr><td>Arabic No</td><td>4800</td></tr><tr><td>Reference</td><td>Book 65 Hadith 322</td></tr></tbody></table></div>
 

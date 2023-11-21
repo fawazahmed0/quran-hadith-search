@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik (Allah be pleasedwith him) reported that 'Abd al-Rahman b. 'Auf (A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin 'Ubaid Al Ghubari] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas bin Malik] bahwa Abdurrahman bin 'Auf menikah dengan maskawin emas seberat biji kurma pada masa Rasulullah shallallahu 'alaihi wasallam, lantas Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Adakanlah walimah walaupun hanya dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3491</td></tr><tr><td>Arabic No</td><td>1427.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3491</td></tr><tr><td>Arabic No</td><td>1427.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 93</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "When the call for the prayer is pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3285</td></tr><tr><td>Arabic No</td><td>3285</td></tr><tr><td>Reference</td><td>Book 59 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда произносится призыв к молитве, шайтан отступает, с шумом выпуская газы, а когда призыв завершается, он (снова) возвращается. И он отступает во время икамы, а когда объявление о начале молитвы завершается, он (снова) подступает, и начинает наущать человеку: “Вспомни о том-то и том-то”, чтобы человек оставался (в подобном) положении, и сбился (с толку), не зная, три рак‘ата он совершил или четыре. Поэтому пусть тот, кто не знает, сколько рак‘атов он совершил, три или четыре, совершит два земных поклона (саху)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3285</td></tr><tr><td>Arabic No</td><td>3285</td></tr><tr><td>Reference</td><td>Book 59 Hadith 94</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada reported Allah's Messenger (ﷺ) as saying:A good vision is from Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab]; Telah menceritakan kepada kami [Sulaiman] yaitu Ibnu Bilal dari [Yahya bin Sa'id] dia berkata; Aku mendengar [Abu Salamah bin Abdurrahman] berkata; 'Aku mendengar [Abu Qatadah] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Mimpi yang baik datang dari Allah dan mimpi yang buruk datang dari setan. Maka apabila kamu bermimpi sesuatu yang kalian benci, meludahlah ke kiri tiga kali, kemudian berlindung kepada Allah dari bahaya kejahatannya, niscaya dia tidak akan membahayakan." Abu Qatadah berkata; 'Jika Aku bermimpi buruk yang lebih berat dari memikul gunung, maka aku tidak peduli dengannya setelah aku mendengar Hadits ini.' Dan telah menceritakannya kepada kami [Qutaibah] dan [Muhammad bin Rumh] dari [Al Laits bin Sa'd]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami ['Abdul Wahhab] yaitu Ats Tsaqafi; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdullah bin Numair] seluruhnya dari [Yahya bin Sa'id] melalui jalur ini. Dan di dalam Hadits Ats Tsaqafi juga, ada perkataan Abu Salamah; 'Jika aku bermimpi…' sedangkan di dalam Hadits Laits dan Ibnu Numair tidak ada perkataan tersebut. Dan Ibnu Rumh menambahkan dalam riwayatnya dengan lafazh; 'dan hendaklah merubah tidurnya dari posisi semula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5900</td></tr><tr><td>Arabic No</td><td>2261.04</td></tr><tr><td>Reference</td><td>Book 42 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5900</td></tr><tr><td>Arabic No</td><td>2261.04</td></tr><tr><td>Reference</td><td>Book 42 Hadith 4</td></tr></tbody></table></div>
 

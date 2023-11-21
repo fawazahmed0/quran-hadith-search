@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet (May peace be upon him) as saying:When the tim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Abdul Wahhab] dari [Ayyub] dari [Muhammad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika waktu sudah semakin dekat, maka mimpi seorang mukmin dipastikan tidak akan bohong. Dan orang yang paling benar mimpinya adalah orang yang paling benar dalam ucapannya. Maka mimpi itu ada tiga; mimpi yang benar adalah kabar gembira dari Allah, mimpi yang menyedihkan adalah datang dari setan dan mimpi yang berasal dari lamunan-lamunan seorang. Jika salah seorang dari kalian bermimpi dengan sesuatu yang dibencinya, hendaklah ia bangun shalat dan jangan menceritakannya kepada manusia." Beliau melanjutkan: "Aku menyukai ikatan dan benci dengan belenggu, sebab ikatan adalah ketetapan dalam agama." Abu Dawud berkata, "Yang dimaksud dengan 'jika waktu sudah semakin dekat', yaitu jika waktu malam dan siang sudah berdekatan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7017) Sahih Muslim (2263)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5019</td></tr><tr><td>Arabic No</td><td>5019</td></tr><tr><td>Reference</td><td>Book 43 Hadith 247</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7017) Sahih Muslim (2263)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5019</td></tr><tr><td>Arabic No</td><td>5019</td></tr><tr><td>Reference</td><td>Book 43 Hadith 247</td></tr></tbody></table></div>
 

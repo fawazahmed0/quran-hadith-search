@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:I, along with a group of people, gave the pledge of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah almusnadi] telah menceritakan kepada kami [Hisyam] Telah mengabarkan kepada kami [Ma'mar] dari [Azzuhri] dari [Abu Idris] dari ['Ubadah bin shamit] berkata, "Pernah aku berbaiat kepada Rasulullah shallallhu'alaihiwasallam bersama serombongan orang. Lantas Nabi bersabda: "Saya membaiat kalian agar kalian tidak menyekutukan Allah dengan sesuatu apapun, tidak mencuri, tidak berzina, tidak membunuh anak-anak kalian, dan tidak mengada-adakan kebohongan yang kalian ada-adakan antara tangan dan kaki kalian, dan tidak membangkangku dalam perkara ma'ruf. Maka barangsiapa diantara kalian memenuhi baiatnya, ganjarannya berada di sisi Allah. Barangsiapa melanggar janjinya, lantas Allah menghukumnya di dunia, maka yang demikian sebagai kaffarat dosanya. Dan barangsiapa yang Allah menutupinya (membiarkannya), maka yang demikian terserah Allah, jika berkehendak Dia akan menyiksanya, dan jika berkehendak Dia akan mengampuninya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7468</td></tr><tr><td>Arabic No</td><td>7468</td></tr><tr><td>Reference</td><td>Book 97 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Убада ибн ас-Самит, да будет доволен им Аллах, сказал: «Я присягнул Посланнику Аллаха ﷺ на верность с несколькими людьми и он сказал: “Присягните мне в том, что вы не будете поклоняться наряду с Аллахом никому и ничему, не будете воровать, прелюбодействовать, убивать своих детей, покрывать клеветой то, что между вашими руками и ногами, и не ослушаетесь меня в том, что касается одобряемого (шариатом). Кто из вас будет верен этому, тот получит награду от Аллаха. А кто совершит какой-либо из этих (грехов) и будет наказан в мире этом за это, для того, это наказание станет искуплением и очищением. А кого покроет Аллах, то его участь будет зависеть от Аллаха: если Он пожелает, то подвергнет его мучениям, а если пожелает, то простит его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7468</td></tr><tr><td>Arabic No</td><td>7468</td></tr><tr><td>Reference</td><td>Book 97 Hadith 94</td></tr></tbody></table></div>
 

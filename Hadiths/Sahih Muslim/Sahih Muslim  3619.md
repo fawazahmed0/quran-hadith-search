@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:A physiognomist visited (our house) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Manshur bin Abu Muzahim] telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] dia berkata; Seorang Qaif (ahli identifikasi seseorang) masuk ke rumah, sedangkan Rasulullah shallallahu 'alaihi wasallam melihatnya, saat itu Usamah bin Zaid dan Zaid bin Haritsah sedang berbaring, lalu dia berata; "Sesungguhnya pemilik kaki ini serupa antara satu dengan yang lain." Maka Nabi shallallahu 'alaihi wasallam berseri dan kagum, lalu beliau memberitahukan hal tersebut kepada Aisyah. Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami ['Abd bin Humaid] telah mengabarkan kepada kami [Abdur Razaq] telah mengabarkan kepada kami [Ma'mar] dan [Ibnu Juraij] semuanya dari [Az Zuhri] dengan isnad ini dengan makna hadits mereka, dan dalam hadits Yunus ada tambahan; Dan Mujazziz adalah orang yang mengetahui identifikasi nasab dari keserupaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3619</td></tr><tr><td>Arabic No</td><td>1459.03</td></tr><tr><td>Reference</td><td>Book 17 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3619</td></tr><tr><td>Arabic No</td><td>1459.03</td></tr><tr><td>Reference</td><td>Book 17 Hadith 52</td></tr></tbody></table></div>
 

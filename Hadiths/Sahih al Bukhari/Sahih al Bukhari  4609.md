@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah (bin Masud):On the day of Badr, Al-Miqdad said, "O Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Isra'il] dari [Mukhariq] dari [Thariq bin Syihab]; Aku mendengar [Ibnu Mas'ud radliallahu 'anhu] berkata; Aku menyaksikan dari Miqdad. Demikian juga diriwayatkan dari jalur lainnya, Telah menceritakan kepadaku [Hamdan bin 'Umar] Telah menceritakan kepada kami [Abu An Nadlr] Telah menceritakan kepada kami [Al Asyja'i] dari [Sufyan] dari [Mukhariq] dari [Thariq] dari ['Abdullah] dia berkata; Pada waktu perang Badar Miqdad berkata; 'Ya Rasulullah, Kami tidak mengatakan sebagaimana dikatakan Bani Israil kepada Musa; FADZHAB ANTA WA RABBUKA FAQOTILAA INNA HAAHUNAA QAA'IDUN (Pergilah kamu bersama tuhan kamu untuk berperang, sedangkan kami duduk disini saja). Tetapi kami mengatakan; pergilah dan kami akan ikut bersamamu. Namun seakan-akan perkataan Miqdad itu disembunyikan dari Rasulullah shallallahu 'alaihi wasallam. Dan diriwayatkan pula oleh [Waki'] dari [Sufyan] dari [Mukhariq] dari [Thariq] bahwa Miqdad mengatakan hal itu kepada Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4609</td></tr><tr><td>Arabic No</td><td>4609</td></tr><tr><td>Reference</td><td>Book 65 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд, да будет доволен им Аллах, сказал: «В день Бадра аль-Микдад сказал Пророку ﷺ: “Мы не скажем того, что сказали сыны Исраиля Мусе (, сказавшие ему): “Ступай ты вместе с твоим Господом и сражайтесь, мы же посидим здесь”, отправляйся и мы пойдём вместе с тобой!” — и как будто озарилось лицо (Пророка ﷺ, ибо это) порадовало его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4609</td></tr><tr><td>Arabic No</td><td>4609</td></tr><tr><td>Reference</td><td>Book 65 Hadith 131</td></tr></tbody></table></div>
 

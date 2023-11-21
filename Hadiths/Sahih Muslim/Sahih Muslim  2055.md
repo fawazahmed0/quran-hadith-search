@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Atiyya reported:We were commanded to go out as well as the hidden away ladie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Ashim Al Ahwal] dari [Hafshah binti Sirin] dari [Ummu Athiyyah] ia berkata; Kami diperintahkan untuk turut keluar pada dua hari raya, demikian juga para para gadis. Dan para wanita yang sedang haid juga keluar, namun mereka berada di belakang jamaah dan ikut bertakbir bersama mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2055</td></tr><tr><td>Arabic No</td><td>890.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Умм ‘Атыйя сказала: «Нам было приказано выходить (на молитвы в дни) двух праздников, а также сидящим за занавесками и девственницам. А женщины, у которых началась менструация должны были выходить и находиться позади людей, произнося такбир вместе с ними»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2055</td></tr><tr><td>Arabic No</td><td>890.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
 

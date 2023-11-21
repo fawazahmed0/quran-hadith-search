@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported:The Apostle of Allah (ﷺ) used to recite in the morning pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdah bin Sulaiman] dari [Sufyan] dari [Mukhawwal bin Rasyid] dari [Muslim Al Bathin] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa biasanya Nabi shallallahu 'alaihi wasallam ketika mengerjakan shalat Shubuh pada hari Jum'at, beliau membaca: "ALIF LAAM MIIM TANZIIL" (surat As Sajadah) dan, "HAL ATAA 'ALAL INSAANI HIINUM MINAD DAHRI" (surat Al Insan). Dan dalam shalat Jum'at beliau membaca surat Al Jumu'ah dan surat Al Munafiqun. Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] -dalam jalur lain- dan Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki'] keduanya dari [Sufyan] dengan isnad ini. Dan telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Mukhawwal] dengan sanad-sanad ini semisalnya pada dua shalat, sebagaimana yang dikatakan Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>879.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, передал, что во время утренней молитвы в пятницу Пророк ﷺ обычно читал «Алиф. Лям. Мим. (Это) Писание, в котором нет сомнения, ниспослано от Господа миров…» и «Разве не прошло для человека то время…». Что же касается пятничной молитвы, то, совершая её, Пророк ﷺ обычно читал суру «аль-Джуму‘а» и суру «аль-Мунафикун»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>879.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 81</td></tr></tbody></table></div>
 

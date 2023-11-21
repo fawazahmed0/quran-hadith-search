@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim b. 'Abdullah reported on the authority of his father that the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [Ayahnya] katanya; "Rasulullah shallallahu 'alaihi wasallam pernah melakukan shalat sunnah diatas hewan tunggangannya, menghadap ke arah mana saja beliau menghadap, dan beliau juga melakukan witir diatas tunggangannya, namun beliau tidak melakukan shalat wajib diatas tunggangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1618</td></tr><tr><td>Arabic No</td><td>700.09</td></tr><tr><td>Reference</td><td>Book 6 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «Посланник Аллаха ﷺ часто совершал добровольные молитвы и витр сидя верхом на своей верблюдице, куда бы она ни направлялась, но обязательных молитв сидя на ней верхом он не совершал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1618</td></tr><tr><td>Arabic No</td><td>700.09</td></tr><tr><td>Reference</td><td>Book 6 Hadith 49</td></tr></tbody></table></div>
 

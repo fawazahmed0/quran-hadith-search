@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la] dari [Ma'mar] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Perumpamaan orang mu'min seperti tanaman, angin senantiasa menerpanya dan orang mu'min itu akan senantiasa tertimpa musibah. Sedangkan perumpamaan orang munafik seperti pohon cedar, tidaklah ia bergerak hingga di ketam." Telah menceritakan kepada kami [Muhammad bin Rafi'] dan [Abdu bin Humaid] dari [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dengan sanad ini, hanya saja dalam hadits Abdurrazzaq menyebut TUFII'UHU sebagai ganti TIMIILUHU
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7092</td></tr><tr><td>Arabic No</td><td>2809.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7092</td></tr><tr><td>Arabic No</td><td>2809.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 46</td></tr></tbody></table></div>
 

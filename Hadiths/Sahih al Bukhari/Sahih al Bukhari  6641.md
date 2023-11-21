@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Hind bint 'Utba bin Rabi'a said, "O Allah 's Apostle! (Before I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6641</td></tr><tr><td>Arabic No</td><td>6641</td></tr><tr><td>Reference</td><td>Book 83 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Поистине, Хинд бинт ‘Утба ибн Раби‘а сказала: “О Посланник Аллаха! Прежде не было на поверхности земли семьи, которой я желала бы познать унижение так же (сильно), как твоей семье, а сегодня нет такой семьи на поверхности земли, которой я желала бы такой же славы, как твоей семье!” (На это) Посланник Аллаха ﷺ сказал (ей): “Клянусь Тем, в Чьей руке душа Мухаммада, и ещё!” (Затем) она сказала: “О посланник Аллаха, поистине, Абу Суфйан — человек скупой, так будет ли на мне грех, если я стану кормить (нашу семью) из того, что принадлежит ему?” Он сказал: “Нет! Однако (корми их) сообразно обычаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6641</td></tr><tr><td>Arabic No</td><td>6641</td></tr><tr><td>Reference</td><td>Book 83 Hadith 20</td></tr></tbody></table></div>
 

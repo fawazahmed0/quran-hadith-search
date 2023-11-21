@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Abdul Malik bin Abu Sulaiman] dari ['Atha'] dari [Ibnu Abbas] dia berkata; Saya pernah bermalam di rumah bibi, Maimunah, kemudian Rasulullah shallallahu 'alaihi wasallam bangun di malam hari, beliau membuka geriba (kantong air dari kulit) dan berwudhu, kemudian menutup kembali geriba tersebut dan berdiri untuk shalat. Lalu saya bangun dan berwudhu sebagaimana beliau berwudhu, kemudian saya menghampiri beliau dan berdiri sisi kiri beliau, namun kemudian beliau memegang tanganku dan memindahkanku lewat belakang beliau hingga aku ditempatkan di sisi kanan beliau, lalu aku pun shalat dengan beliau. Telah menceritakan kepada kami ['Amru bin 'Aun] telah mengabarkan kepada kami [Husyaim] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dalam kisah ini dia berkata; Beliau shallallahu 'alaihi wasallam memegang kepalaku atau rambut kepalaku kemudian menempatkanku di sebelah kanan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (763)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>610</td></tr><tr><td>Reference</td><td>Book 2 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Однажды, я остался на ночь в доме Маймуны, моей тёти со стороны матери. Ночью Посланник Аллаха ﷺ встал, и развязав бурдюк (с водой) совершил омовение. Затем он завязал бурдюк и встал на молитву. Я тоже встал, и также совершил омовение, как это сделал он, затем пришёл и встал слева от него, но он взял меня правой рукой и провел сзади и поставил справа от себя и затем я помолился с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (763)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>610</td></tr><tr><td>Reference</td><td>Book 2 Hadith 220</td></tr></tbody></table></div>
 

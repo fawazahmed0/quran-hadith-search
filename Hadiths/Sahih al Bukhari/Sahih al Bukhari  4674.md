@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Samura bin Jundab:Allah's Messenger (ﷺ) said, "Tonight two (visitors)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muammal] yaitu Ibnu Hisyam Telah menceritakan kepada kami [Isma'il bin Ibrahim] Telah menceritakan kepada kami ['Auf] Telah menceritakan kepada kami [Abu Raja'] Telah menceritakan kepada kami [Samurah bin Jundab radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tadi malam dua orang (tamu) berkunjung kepadaku (dalam mimpiku) dan membawaku ke sebuah kota yang dibangun dari emas dan perak. Di sana kami bertemu sejumlah laki-laki yang setengah tubuhnya terlihat sangat tampan seperti manusia tertampan yang pernah kalian lihat. Dan setengah tubuh yang lainnya sangat buruk seperti manusia yang paling buruk yang pernah kalian lihat. Dua orang tamu itu berkata kepada mereka berdua, pergilah berendam di sungai itu. Maka mereka pun berendam di dalam sungai itu kemudian kembali kepada kami. keburukan mereka lenyap dan mereka sekarang benar-benar tampan. Tamu-tamuku berkata kepadaku; 'Yang pertama (Anda lihat) adalah surga Adn dan itu adalah tempatmu.' Kemudian mereka berkata; sedangkan mereka yang separuh tampan separuh buruk rupa adalah orang yang mencampur adukan perbuatan baik dan perbuatan jahat, namun Allah memberi mereka ampunan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4674</td></tr><tr><td>Arabic No</td><td>4674</td></tr><tr><td>Reference</td><td>Book 65 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Самура бин Джундаб, да будет доволен им Аллах, сказал:\n— (Однажды) Посланник Аллаха ﷺ сказал нам: «(Сегодня) ночью (во сне) ко мне явились двое, взяли меня и привели в город(, здания которого были построены) из золотых и серебряных кирпичей. Там мы встретили людей, тела которых наполовину были самого прекрасного вида, а наполовину — самого ужасного, и (эти двое) сказали им: “Идите и окунитесь в эту реку”, и они окунулись в неё, а потом вернулись к нам, и оказалось, что уродство их исчезло и они приняли самый прекрасный вид. (Эти двое) сказали мне: “Это — ‘Адн, а это — твоё жилище”. (И ещё) они сказали: “Что же касается людей, которые были наполовину прекрасными, а наполовину — безобразными, то они смешивали праведные дела с дурными, однако Аллах простил их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4674</td></tr><tr><td>Arabic No</td><td>4674</td></tr><tr><td>Reference</td><td>Book 65 Hadith 196</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:Abu Musa said, "I came to the Prophet (ﷺ) along with two me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Qurrah bin Khalid] telah menceritakan kepadaku [Humaid bin Hilal] telah menceritakan kepada kami [Abu Burdah] dari [Abu Musa] mengatakan, Aku berangkat menemui Nabi shallallahu 'alaihi wasallam bersama dua orang asy'ari, satunya di sebelah kananku dan satunya di sebelah kiriku, sedang Rasulullah Shallallahu'alaihiwasallam tengah bersiwak. Keduanya sama-sama meminta pekerjaan (jabatan). Kemudian Nabi berujar: "Wahai Abu Musa atau hai Abdullah bin Qais" Abu Musa berkata; maka Saya menjawab; 'demi Dzat yang mengutusmu dengan kebenaran, kedua tamu itu tidak mengungkapkan isi hati mereka, dan aku tidak merasa bahwa keduanya minta pekerjaan (jabatan).' dan seolah-olah aku melihat siwak beliau dibawah bibirnya mengempes. Kemudian Nabi bersabda: "Sekali-kali aku tidak akan mempekerjakan tugas-tugas kita kepada orang yang memintanya (menginginkannya), akan tetapi kamu ya Abu Musa atau ya Abdullah bin Qais, pergilah ke Yaman." kemudian Mu'adz bin jabal menyusulnya. Ketika Mu'adz bin jabal menemuinya, Abu Musa menghamparkan bantal dan berujar; 'Turunlah'. Ternyata disisinya ada seorang laki-laki yang terikat. Muadz bertanya; 'kenapa dengan orang ini? ' Abu Musa menjawab; 'dahulu dia seorang yahudi, lantas masuk Islam dan kembali lagi memeluk agama yahudinya.' Maka Abu Musa berujar; 'Duduklah engkau! ' Mu'adz menjawab; 'Saya tidak akan duduk hingga dia dibunuh untuk menunaikan ketetapan Allah dan rasul-NYA' (ia mengulang tiga kali), maka Abu Musa memerintahkan untuk membunuh yahudi tersebut. Keduanya kemudian berbincang-bincang masalah shalat malam. Satunya mengatakan; 'Adapun aku shalat malam namun juga tidur, dan kuharap dari tidurku (mendapat pahala) sebagaimana aku berharap memperoleh pahala bersama di kaumku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6923</td></tr><tr><td>Arabic No</td><td>6923</td></tr><tr><td>Reference</td><td>Book 88 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бурда передаёт, что Абу Муса (аль-Аш‘ари) сказал: «Однажды я пришёл к Пророку ﷺ вместе с двумя аш‘аритами (то есть соплеменниками Абу Мусы), один из которых стоял справа от меня, а другой — слева, а Посланник Аллаха ﷺ чистил зубы. Каждый из них попросил (назначить его на какую-нибудь должность). (Пророк ﷺ) сказал: “(Что скажешь,) о Абу Муса (или: о ‘Абдуллах ибн Кайс)?” Я сказал: “Клянусь Тем, Кто послал тебя с истиной, они не сообщали мне, что у них на уме, и я не знал, что они собираются просить о том, чтобы (их) назначили на какую-нибудь должность”. И я будто и сейчас вижу сивак под его приподнятой губой. Потом (Пророк ﷺ) сказал: “Мы никогда не назначим [или: не назначаем] на должность того, кто сам добивается этого! Ступай же ты, о Абу Муса (или: о ‘Абдуллах ибн Кайс) в Йемен”. А затем, Посланник Аллаха ﷺ следом за ним отправил Му‘аза ибн Джабаля. Когда Му‘аз приехал к (Абу Мусе), тот положил для него подушку и сказал: “Садись”. Тут Му‘аз увидел у Абу Мусы связанного человека и спросил: “Что это?” Абу Муса сказал: “Этот человек был иудеем, потом принял ислам, а потом снова обратился в иудейство”. Абу Муса сказал Му‘азу: “Садись”. Му‘аз сказал: “Я не сяду, пока его не казнят, ибо таково решение Аллаха и Его Посланника”. Это повторилось трижды. Тогда (Абу Муса) отдал веление, и того человека казнили. Потом они стали говорить о ночных молитвах, и один из них — Му‘аз ибн Джабаль — сказал: “Что касается меня, то я и молюсь, и сплю, надеясь (получить награду от Аллаха) как за свой сон, так и за свои молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6923</td></tr><tr><td>Arabic No</td><td>6923</td></tr><tr><td>Reference</td><td>Book 88 Hadith 6</td></tr></tbody></table></div>
 

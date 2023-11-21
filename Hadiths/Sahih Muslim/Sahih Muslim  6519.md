@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:The tie of kinship is suspende
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] dan lafazh ini milik Abu Bakr. Dia berkata; Telah menceritakan kepada kami [Waki'] dari [Mu'awiyah bin Muzarrid] dari [Yazid bin Ruman] dari ['Urwah] dari ['Aisyah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Rahim (kasih sayang) itu tergantung di 'Arasy, seraya berkata; "Siapa yang menyambungkanku, maka Allah pun akan menyambungkannya. Dan barangsiapa yang memutuskanku, niscaya Allah pun akan memutuskannya pula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6519</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 45 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6519</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 45 Hadith 19</td></tr></tbody></table></div>
 

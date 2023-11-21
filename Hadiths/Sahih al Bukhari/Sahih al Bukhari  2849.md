@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "Good will remain (as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] telah bercerita kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Seekor kuda (yang digunakan untuk fii sabilillah), pada ubun-ubunnya akan terus ada (mendatangkan) kebaikan hingga hari qiyamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2849</td></tr><tr><td>Arabic No</td><td>2849</td></tr><tr><td>Reference</td><td>Book 56 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Благо /хайр/ останется в чёлках лошадей до самого Дня воскрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2849</td></tr><tr><td>Arabic No</td><td>2849</td></tr><tr><td>Reference</td><td>Book 56 Hadith 65</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi’ said:When ‘Abd Allah b. ‘Umar began his prayer, he raised his hands 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Nafi'] bahwa; "Apabila [Ibnu Umar] hendak memulai shalatnya, dia mengangkat kedua tangannya sejajar dengan kedua bahunya, apabila mengangkat kepalanya dari ruku' (i'tidal), dia juga mengangkat kedua tangannya lebih rendah dari itu." Abu Daud mengatakan; 'yang saya ketahui, tidak ada Perawi satu pun yang menyebutkan; "Mengangkat keduanya lebih rendah dari itu" selain Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>742</td></tr><tr><td>Arabic No</td><td>742</td></tr><tr><td>Reference</td><td>Book 2 Hadith 352</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Нафи‘а: «Когда ‘Абдуллах ибн ‘Умар начинал молитву, он поднимал свои руки на уровень плеч. Когда он поднимал голову с поясного поклона, он (также) поднимал их, но не так (высоко)».Абу Дауд сказал: «Насколько мне известно, никто не упоминал (слова) “он (также) поднимал их, но не так (высоко)”, кроме Малика»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>742</td></tr><tr><td>Arabic No</td><td>742</td></tr><tr><td>Reference</td><td>Book 2 Hadith 352</td></tr></tbody></table></div>
 

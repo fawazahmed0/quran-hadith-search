@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ibn Mas'ud added: I heard Allah's Messenger (ﷺ) saying; (It will be) from amon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7067</td></tr><tr><td>Arabic No</td><td>7067</td></tr><tr><td>Reference</td><td>Book 92 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Ваиль передаёт, что однажды (Абу Муса) аль-Аш‘ари спросил ‘Абдуллах (ибн Мас‘уда): «Известны ли тебе те дни, о которых Пророк ﷺ упомянул, что это дни многочисленных убийств?» Ибн Мас‘уд, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ сказал: “К числу наихудших людей будут относиться те, при жизни которых настанет Час этот”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7067</td></tr><tr><td>Arabic No</td><td>7067</td></tr><tr><td>Reference</td><td>Book 92 Hadith 18</td></tr></tbody></table></div>
 

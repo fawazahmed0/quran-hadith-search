@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] berkata: Inilah yang diceritakan [Abu Hurairah] dari Rasulullah Shallallahu 'alaihi wa Salam, ia menyebut beberapa hadits diantaranya; Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Kiamat tidak terjadi hingga dua kubu besar berperang, terjadi perang besar diantara keduanya dan seruan keduanya sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7256</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, что Посланник Аллаха ﷺ ска­зал: «Не наступит Час этот, пока не сразятся друг с другом две боль­шие группы (людей), между которыми произойдёт великое побоище и которые будут призывать к одному и тому же»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7256</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

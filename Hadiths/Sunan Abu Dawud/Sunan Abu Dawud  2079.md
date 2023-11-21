@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar reported the Prophet (ﷺ) as saying “If a slave marries without t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Uqbah bin Mukram], telah menceritakan kepada kami [Abu Qutaibah] dari [Abdullah bin Umar], dari [Nafi'], dari [Ibnu Umar] bahwa Nabi Shallallahu 'alaihi sallam bersabda: Apabila seorang budak menikah tanpa izin dari tuannya, maka nikahnya batal. Abu Daud berkata; hadits ini lemah dan mauquf, hanya perkataan Ibnu Umar radliallahu 'anhuma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2079</td></tr><tr><td>Arabic No</td><td>2079</td></tr><tr><td>Reference</td><td>Book 12 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Если раб женился без разрешения своего господина, его брак недействителен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2079</td></tr><tr><td>Arabic No</td><td>2079</td></tr><tr><td>Reference</td><td>Book 12 Hadith 34</td></tr></tbody></table></div>
 

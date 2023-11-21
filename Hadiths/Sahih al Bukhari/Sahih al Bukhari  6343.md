@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zaid:Allah's Messenger (ﷺ) went out to this Musalla (pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami ['Amru bin Yahya] dari ['Abbad bin Tamim] dari [Abdullah bin Zaid] dia berkata; Nabi shallallahu 'alaihi wasallam keluar menuju tempat shalat ini untuk meminta hujan, lalu beliau berdo'a miminta hujan dengan menghadap ke Kiblat dan membalikkan selendangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6343</td></tr><tr><td>Arabic No</td><td>6343</td></tr><tr><td>Reference</td><td>Book 80 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Зейд, да будет доволен им Аллах, передаёт, что однажды Пророк ﷺ вышел к месту совершения молитвы, чтобы обратиться к Аллаху с мольбой о ниспослании дождя. Он обратился к Аллаху с мольбой о ниспослании дождя, после чего обратился в сторону киблы и перевернул свой плащ обратной стороной
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6343</td></tr><tr><td>Arabic No</td><td>6343</td></tr><tr><td>Reference</td><td>Book 80 Hadith 40</td></tr></tbody></table></div>
 

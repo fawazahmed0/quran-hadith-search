@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amir:Ibn 'Abbas (who was at that time a boy) said, "Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Yahya bin Abu Bukair] telah menceritakan kepada kami [Za'idah] telah menceritakan kepada kami [Abu Ishaq Asy-Syaibaniy] dari ['Amir] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Nabi Shallallahu'alaihiwasallam mendatangi kuburan. Mereka berkata; "Ini dikebumikan kemarin". Berkata, Ibnu 'Abbas radliallahu 'anhuma: Maka Beliau membariskan kami di belakang Beliau kemudian mengerjakan shalat untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1326</td></tr><tr><td>Arabic No</td><td>1326</td></tr><tr><td>Reference</td><td>Book 23 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды Посланник Аллаха ﷺ подошел к могиле. Люди сказали: «Он был похоронен — или была похоронена —вчера ночью». Ибн ‘Аббас, да будет доволен Аллах им и его отцом сказал: «Мы выстроились рядами позади него, затем он совершил молитву за него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1326</td></tr><tr><td>Arabic No</td><td>1326</td></tr><tr><td>Reference</td><td>Book 23 Hadith 82</td></tr></tbody></table></div>
 

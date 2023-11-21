@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uqba. b. Amir reported Allah's Messenger (ﷺ) as saying:The expiation of the (b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] dan [Yunus bin Abdul A'la] dan [Ahmad bin Isa], Yunus berkata; telah mengabarkan kepada kami, sedangkan yang dua orang mengakatan; telah menceritakan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Ka'b bin 'Alqamah] dari [Abdurrahman bin Syimasah] dari [Abu Al Khair] dari ['Alqamah bin 'Amir] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Kafarahnya (denda) nadzar sama dengan kafarahnya sumpah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4253</td></tr><tr><td>Arabic No</td><td>1645</td></tr><tr><td>Reference</td><td>Book 26 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4253</td></tr><tr><td>Arabic No</td><td>1645</td></tr><tr><td>Reference</td><td>Book 26 Hadith 18</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Mas'ud al-Ansari who said A man bro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan kepada kami [Jarir] dari [Al A'masy] dari [Abu 'Amru As Syaibani] dari [Abu Mas'ud Al Anshari] dia berkata, "Seorang laki-laki datang dengan menuntun seekor unta yang telah diikat dengan tali kekangnya seraya berkata, "Ini saya berikan untuk berjuang di jalan Allah." Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Mudah-mudahan pada hari kiamat kamu akan mendapatkan tujuh ratus unta beserta tali kekangnya." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari [Zaidah]. (Dalam jalur lain disebutkan) Telah menceritakan kepadaku [Bisyr bin Khalid] telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Ja'far- telah menceritakan kepada kami [Syu'bah] keduanya dari [Al A'masy] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4897</td></tr><tr><td>Arabic No</td><td>1892.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4897</td></tr><tr><td>Arabic No</td><td>1892.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 193</td></tr></tbody></table></div>
 

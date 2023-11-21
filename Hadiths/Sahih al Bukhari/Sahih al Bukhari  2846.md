@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) said, "Who will bring me the information about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Sufyan] dari [Muhammad bin Al Munkadir] dari [Jabir radliallahu 'anhu] berkata, Nabi shallallahu 'alaihi wasallam bersabda: "Siapakah yang sanggup membawa informasi tentang keadaan kaum (musuh) perang Al Ahzab kepadaku?" Az Zubair berkata: "Aku". Kemudian Beliau berkata lagi: "Siapakah yang sanggup membawa informasi tentang musuh kepadaku?" Az Zubair berkata lagi: "Aku". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya setiap Nabi memiliki Hawariy (pembela yang setia), dan hawariyku adalah Az Zubair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846</td></tr><tr><td>Arabic No</td><td>2846</td></tr><tr><td>Reference</td><td>Book 56 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира, да будет доволен им Аллах, что во время битвы у рва Пророк ﷺ спросил: «Кто раздобудет для меня сведения об этих людях?» Аз-Зубайр сказал: «Я». После этого (Пророк ﷺ снова) спросил: «Кто раздобудет для меня сведения об этих людях?» и аз-Зубайр (снова) сказал: «Я». Тогда Пророк ﷺ сказал: «Поистине, у каждого пророка был свой апостол, а моим апостолом является аз-Зубайр!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846</td></tr><tr><td>Arabic No</td><td>2846</td></tr><tr><td>Reference</td><td>Book 56 Hadith 62</td></tr></tbody></table></div>
 

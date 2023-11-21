@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: A woman said: Messenger of Allah, my mother sudd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Hisyam], dari [ayahnya], dari [Aisyah], bahwa seorang wanita berkata; wahai Rasulullah, sesungguhnya ibuku meninggal tiba-tiba, jika tidak terjadi hal tersebut niscaya ia telah bersedekah dan memberi. Apakah sah saya bersedekah untuknya? Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Ya, bersedekahlah untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2881</td></tr><tr><td>Arabic No</td><td>2881</td></tr><tr><td>Reference</td><td>Book 18 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что одна женщина сказала: «О Посланник Аллаха, моя мать умерла внезапно, и, если бы не это, она бы раздала милостыню… Так не раздать ли мне милостыню от её имени?» Пророк ﷺ сказал: «Да, подай милостыню от её имени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2881</td></tr><tr><td>Arabic No</td><td>2881</td></tr><tr><td>Reference</td><td>Book 18 Hadith 20</td></tr></tbody></table></div>
 

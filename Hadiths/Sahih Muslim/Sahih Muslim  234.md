@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Ibn 'Abbas that there was (once) a downpour d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abbas bin Abdul Azhim al-Anbari] telah menceritakan kepada kami [an-Nadlar bin Muhammad] telah menceritakan kepada kami [Ikrimah] -yaitu Ibnu Ammar- telah menceritakan kepada kami [Abu Zumail] dia berkata, telah menceritakan kepada kami [Ibnu Abbas] dia berkata, "Suatu ketika manusia diberi hujan pada masa Nabi shallallahu 'alaihi wasallam, lalu beliau berkata: "Dengan hujan ini di antara manusia ada yang berubah menjadi hamba yang bersyukur dan ada pula yang kufur. Sebagian mereka berkata, 'Hujan ini adalah sebuah bukti dari rahmat Allah.' Namun sebagian yang lain berkata, 'Bintang ini dan ini sungguh telah benar'." Ibnu Abbas berkata, "Kemudian turunlah ayat: '(Maka Aku bersumpah dengan masa turun-Nya bagian-bagian bintang) ', sampai ayat: '(dan kamu mengganti rezki (yang Allah berikan) dengan mendustakan Allah) ' (Qs. Qs. Al Waaqi'ah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>73</td></tr><tr><td>Reference</td><td>Book 1 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас рассказывал: «Однажды при жизни Пророка ﷺ людям был послан дождь, и Пророк ﷺ сказал: “Это утро (кто-то) из людей встретил благодарным, а кто-то неверным (неблагодарным). Некоторые люди сказали: “Это милость Аллаха”. Другие же сказали: “Такая-то и такая-то звезда оказалась правдивой”. И тогда были ниспосланы эти аяты: “Но нет! Клянусь местами заката звезд” (сура «аль-Уакы’а», аят 75) до слов: “…и делаете ваш удел тем, что считаете ложью истину?” (сура «аль-Уакы’а», аят 82)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>73</td></tr><tr><td>Reference</td><td>Book 1 Hadith 140</td></tr></tbody></table></div>
 

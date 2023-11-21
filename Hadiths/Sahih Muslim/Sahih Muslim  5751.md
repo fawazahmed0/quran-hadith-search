@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported Allah's Messenger (ﷺ) as saying:The fever from the vehement 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] keduanya berkata; Telah menceritakan kepada kami [Yahya] yaitu Ibnu Sa'id dari ['Ubaidillah]; Telah mengabarkan kepadaku [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Penyakit demam panas itu berasal dari panas neraka jahanam. Karena itu dinginkanlah (kompres) dengan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5751</td></tr><tr><td>Arabic No</td><td>2209.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5751</td></tr><tr><td>Arabic No</td><td>2209.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 105</td></tr></tbody></table></div>
 

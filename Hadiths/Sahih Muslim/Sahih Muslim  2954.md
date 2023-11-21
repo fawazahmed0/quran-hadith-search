@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : Les Qoraychites et tous ceux qui suiva
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Kaum quraisy dan orang-orang mengikuti ajarannya, mereka melakukan wuquf di Muzdalifah, dan mereka menamakannya Al Hums. Adapun seluruh kabilah Arab, mereka semua melakukan wuquf di Arafah, dan ketika agama Islam datang, Allah 'azza wajalla menyuruh NabiNya untuk mendatangi arafah dan melakukan wuquf padanya, lalu keluar darinya dengan segera. Dan itulah yang ditunjukkan firman 'azza wajalla; "Kemudian bertolaklah kamu dari tempat bertolaknya orang-orang banyak ('Arafah) …
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2954</td></tr><tr><td>Arabic No</td><td>1219.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2954</td></tr><tr><td>Arabic No</td><td>1219.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 163</td></tr></tbody></table></div>
 

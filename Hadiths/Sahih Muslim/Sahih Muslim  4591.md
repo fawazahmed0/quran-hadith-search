@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : Un jour que nous étions à la mosqué
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Sa'id bin Abu Sa'id] dari [ayahnya] dari [Abu Hurairah] bahwa dia berkata, "Ketika kami berada dalam masjid, tiba-tiba Rasulullah shallallahu 'alaihi wasallam keluar dan bersabda: "Mari kita pergi ke pemukiman orang-orang Yahudi." Lalu kami pergi bersama beliau, setelah kami sampai di pemukiman mereka, Rasulullah shallallahu 'alaihi wasallam berdiri di hadapan mereka dan berseru: "Wahai kaum Yahudi, masuk Islamlah kalian niscaya kalian akan selamat." Mereka lalu menjawab, "Wahai Abu Qasim, kamu telah sampaikan itu." Rasulullah shallallahu 'alaihi wasallam menimpali: "Itu yang aku inginkan. Masuk Islamlah kalian akan selamat. Mereka menjawab, "Kamu telah sampaikan itu wahai Abu Qasim." Rasulullah shallallahu 'alaihi wasallam bersabda: "Begitulah yang kami inginkan." Beliau mengulang seruan tersebut sampai tiga kali. Sesudah itu, beliau bersabda: "Ketahuilah, sesungguhnya bumi ini kepunyaan Allah dan Rasul-Nya, oleh karena itu aku mengusir kalian dari negeri ini, barangsiapa masih memiliki harta di antara kalian, hendaknya dijual, jika tidak maka ketahuilah, bahwa bumi ini adalah milik Allah dan Rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4591</td></tr><tr><td>Arabic No</td><td>1765</td></tr><tr><td>Reference</td><td>Book 32 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4591</td></tr><tr><td>Arabic No</td><td>1765</td></tr><tr><td>Reference</td><td>Book 32 Hadith 72</td></tr></tbody></table></div>
 

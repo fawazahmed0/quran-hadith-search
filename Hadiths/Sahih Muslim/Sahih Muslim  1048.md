@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: When any one of you lead
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] dia berkata, telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata, telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] bahwasanya dia mendengar [Abu Hurairah ra] berkata, "Rasulullah Shallallahu'alaihiwasallam bersabda, "Apabila salah seorang dari kalian shalat mengimami manusia, hendaklah dia meringankan shalatnya, karena di antara manusia tersebut ada yang lemah, sakit, dan mempunyai hajat." Dan telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin al-Laits] telah menceritakan kepadaku [Bapakku] telah menceritakan kepadaku [al-Laits bin Sa'ad] telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Abu Bakar bin Abdurrahman] bahwasanya dia mendengar [Abu Hurairah radhiyallahu'anhu] berkata, Rasulullah shallallahu'alaihiwasallam bersabda dengan semisalnya, hanya saja dia berkata, "Dia mengganti, 'Orang yang sakit' dengan, 'Orang yang tua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1048</td></tr><tr><td>Arabic No</td><td>467.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда кто-то из вас совершает молитву с людьми, пусть облегчает (её), потому что среди людей есть слабые, больные и тот, у кого есть (неотложные) дела»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1048</td></tr><tr><td>Arabic No</td><td>467.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 210</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) prostrated himself 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] telah menceritakan kepada Kami [Isma'il], telah menceritakan kepada Kami [Khalid Al Hadzdza'] dari [seorang laki-laki] dari [Abu Al 'Aliyah] dari [Aisyah] radliallahu 'anha ia berkata; " Rasulullah shallallahu 'alaihi wasallam ketika melakukan sujud Al Qur'an (sajdah) pada malam hari beliau mengucapkan beberapa kali: " SAJADA WAJHIYA LILLADZII KHALAQAHU WA SYAQQA SAM'AHU WA BASHARAHU BIHAULIHI WA QUWWATIHI" (Wajahku bersujud kepada Dzat yang telah menciptakannya dan telah membuka pendengaran serta penglihatannya dengan daya dan kekuatanNya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1414</td></tr><tr><td>Arabic No</td><td>1414</td></tr><tr><td>Reference</td><td>Book 7 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ совершая ночью земной поклон, который следует совершать при чтении некоторых аятов, несколько раз повторял: «Лицом своим припадаю к земле пред Тем, Кто создал его, придал ему форму и наделил его слухом и зрением посредством Своего могущества и силы /Саджада ваджхи ли-Ллязи халяка-ху, ва саввара-ху, ва шакка сам‘а-ху ва басара-ху би-хаулихи ва кувватихи/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1414</td></tr><tr><td>Arabic No</td><td>1414</td></tr><tr><td>Reference</td><td>Book 7 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We used to salt some of the meat of sacrifice and present it to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abdullah] dia berkata; telah menceritakan kepadaku [saudaraku] dari [Sulaiman] dari [Yahya bin Sa'id] dari ['Amrah binti Abdurrahman] dari [Aisyah] radliallahu 'anha dia berkata; Kami pernah menggarami daging kurban, lalu kami menyerahkannya kepada Nabi shallallahu 'alaihi wasallam di Madinah, maka beliau bersabda: "Janganlah kalian memakannya jika melebihi tiga hari, hal ini bukan karena keharusan, akan tetapi aku hanya hendak membagikannya kepada yang lain." Wallahu a'lam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5570</td></tr><tr><td>Arabic No</td><td>5570</td></tr><tr><td>Reference</td><td>Book 73 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Аиша, да будет доволен ею Аллах, сказала: «Мы обычно солили часть мяса жертвоприношений и приносили его Пророку ﷺ в Медине. Однажды он сказал: “Не ешьте (это мясо) больше трёх дней”. Это был не строгий запрет, но (в тот год) он хотел, чтобы (богатые) накормили этим мясом (бедных), а Аллах знает об этом лучше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5570</td></tr><tr><td>Arabic No</td><td>5570</td></tr><tr><td>Reference</td><td>Book 73 Hadith 26</td></tr></tbody></table></div>
 

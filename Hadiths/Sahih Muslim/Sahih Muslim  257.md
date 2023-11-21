@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported:I asked the Messenger of Allah (ﷺ): Which sin is the gravest
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] berkata [Ishaq] telah mengabarkan kepada kami [Jarir], dan [Utsman] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wail] dari [Amru bin Syurahbil] dari [Abdullah] dia berkata, "Aku bertanya Rasulullah shallallahu 'alaihi wasallam, "Dosa apakah yang paling besar di sisi Allah?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Kamu membuat tandingan bagi Allah (syirik), sedangkan Dialah yang menciptakanmu." Aku berkata, "Sesungguhnya dosa demikian memang besar. Kemudian apa lagi?" Beliau bersabda: "Kemudian kamu membunuh anakmu karena khawatir dia makan bersamamu." Aku bertanya lagi, "Kemudian apa lagi?" Rasulullah shallallahu 'alaihi wasallam. bersabda: "Kamu berzina dengan isteri tetanggamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>257</td></tr><tr><td>Arabic No</td><td>86.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд, да будет доволен им Аллах,) сказал: «(Однажды) я спросил Посланника Аллаха ﷺ: “Какой грех является самым тяжким пред Аллахом?” Он сказал: “Приравнивание кого бы то ни было к Аллаху, тогда как Он сотворил тебя”. Я сказал ему: “Это действительно великий (грех. Затем) я спросил: А потом какой?” Он сказал: “Затем, убивать своего ребёнка из страха, что он будет питаться вместе с тобой”. Я спросил: “А потом какой?” Он сказал: “Прелюбодействовать с женой твоего соседа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>257</td></tr><tr><td>Arabic No</td><td>86.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 163</td></tr></tbody></table></div>
 

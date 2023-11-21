@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abbad bin Tamim:My uncle asked Allah's Messenger (ﷺ) about a person 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali] berkata, telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepada kami [Az Zuhri] dari [Sa'id bin Al Musayyab]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami ['Abbad bin Tamim] dari [Pamannya], bahwa ada seseorang yang mengadukan keraguannya kepada Rasulullah shallallahu 'alaihi wasallam, bahwa seakan-akan ia mendapatkan sesuatu dalam shalatnya. Beliau lalu bersabda: "Janganlah kamu pindah atau pergi hingga kamu mendengar suara atau mencium baunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>137</td></tr><tr><td>Reference</td><td>Book 4 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аббада ибн Тамима, что его дядя по отцовской линии (‘Абдуллах ибн Зейд аль-Ансари, да будет доволен им Аллах, однажды) спросил Посланника Аллаха ﷺ о том (, что следует делать) человеку, которому показалось, что во время намаза он осквернился? (Пророк ﷺ) сказал: «Пусть не бросает /или: не прекращает/ (намаз), пока не услышит звук или не почувствует запах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>137</td></tr><tr><td>Reference</td><td>Book 4 Hadith 3</td></tr></tbody></table></div>
 

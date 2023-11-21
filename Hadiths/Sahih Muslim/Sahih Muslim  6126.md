@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Musa b. Talha reported:I and Allah's Messenger (ﷺ) happened to pass by people 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id Ats Tsaqafi] dan [Abu Kamil Al Jahdari] lafazh keduanya tidak jauh berbeda, dan ini adalah Hadits Qutaibah dia berkata; Telah menceritakan kepada kami [Abu 'Awanah] dari [Simak] dari [Musa bin Thalhah] dari [Bapaknya] dia berkata; "Saya bersama Rasulullah pernah berjalan melewati orang-orang yang sedang berada di pucuk pohon kurma. Tak lama kemudian beliau bertanya: 'Apa yang dilakukan orang-orang itu? '" Para sahabat menjawab; 'Mereka sedang mengawinkan pohon kurma dengan meletakkan benang sari pada putik agar lekas berbuah.' Maka Rasulullah pun bersabda: 'Aku kira perbuatan mereka itu tidak ada gunanya.' Thalhah berkata; 'Kemudian mereka diberitahukan tentang sabda Rasulullah itu. Lalu mereka tidak mengawinkan pohon kurma.' Selang beberapa hari kemudian, Rasulullah diberitahu bahwa pohon kurma yang dahulu tidak dikawinkan itu tidak berbuah lagi. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: 'Jika okulasi (perkawinan) pohon kurma itu berguna bagi mereka, maka hendaklah mereka terus melanjutkannya. Sebenarnya aku hanya berpendapat secara pribadi. Oleh karena itu, janganlah menyalahkanku karena adanya pendapat pribadiku. Tetapi, jika aku beritahukan kepada kalian tentang sesuatu dari Allah, maka hendaklah kalian menerimanya. Karena, aku tidak pernah mendustakan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6126</td></tr><tr><td>Arabic No</td><td>2361</td></tr><tr><td>Reference</td><td>Book 43 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Мусы ибн Тальха, что его отец (Тальха ибн ‘Убайдуллах, да будет доволен им Аллах,) сказал: «(Однажды) я вместе с Посланником Аллаха ﷺ прошли рядом с пальмами, на верхушках (которых сидели) люди, и он спросил: “Что эти (люди) делают (там)?” (Ему) сказали: “Они опыляют (пальмы), перенося пыльцу с мужских (деревьев) на женские”. Посланник Аллаха ﷺ сказал: “Не думаю, что это принесёт какую-то пользу”».(Тальха) сказал: «Им передали (его слова), и они перестали (заниматься этим), а потом об этом сообщили Посланнику Аллаха ﷺ и он сказал: “Если это приносило им пользу, пусть занимаются (этим и впредь). Я лишь предположил (нечто), так не упрекайте меня за предположение. Если же я передам вам что-нибудь от Аллаха, держитесь этого, ибо, поистине, я не возвожу ложь на Всемогущего и Великого Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6126</td></tr><tr><td>Arabic No</td><td>2361</td></tr><tr><td>Reference</td><td>Book 43 Hadith 184</td></tr></tbody></table></div>
 

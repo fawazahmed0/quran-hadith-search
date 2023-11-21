@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:I used to stretch my legs towards the Qibla of the Prophet (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepada kami [Malik] dari [Abu An-Nadhir] dari [Abu Salamah] dari ['Aisyah radliallahu 'anha] berkata: "Aku menjulurkan kakiku pada arah qiblat Nabi shallallahu 'alaihi wasallam ketika Beliau sedang shalat. Bila Beliau sujud maka aku tarik kakiku dan aku angkat. Dan bila Beliau berdiri, kembali kakiku aku julurkan lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1209</td></tr><tr><td>Arabic No</td><td>1209</td></tr><tr><td>Reference</td><td>Book 21 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я протягивала ноги в направлении киблы, перед посланником Аллаха ﷺ, а он (в этот момент) совершал молитву. Совершая земной поклон, он касался меня (рукой), и тогда я подбирала ноги, а когда он вставал, (снова) вытягивала их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1209</td></tr><tr><td>Arabic No</td><td>1209</td></tr><tr><td>Reference</td><td>Book 21 Hadith 13</td></tr></tbody></table></div>
 

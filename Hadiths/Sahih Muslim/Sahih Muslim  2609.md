@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with him) reported:Do not condemn one who observes f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abdul Karim] dari [Thawus] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata, "Jangan kamu mencela mereka yang berpuasa dan jangan pula mencela yang berbuka. Sebab, dalam perjalanan Rasulullah shallallahu 'alaihi wasallam pernah berpuasa dan juga pernah berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2609</td></tr><tr><td>Arabic No</td><td>1113.06</td></tr><tr><td>Reference</td><td>Book 13 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2609</td></tr><tr><td>Arabic No</td><td>1113.06</td></tr><tr><td>Reference</td><td>Book 13 Hadith 115</td></tr></tbody></table></div>
 

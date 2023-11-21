@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported Allah's Messenger' (ﷺ) as sayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Yahya bin Ayyub], [Qutaibah] dan [Ibnu Hujr]. [Yahya bin Yahya] mengatakan; Telah mengabarkan kepada kami, sedangkan yang lain mengatakan; Telah menceritakan kepada kami [Isma'il yaitu Ibnu Ja'far] dari [Abdullah bin Dinar] bahwa dia mendengar [Ibnu Umar] berkata; Rasulullah Shallallu 'alaihi wa sallam bersabda: "Janganlah kalian menjual buah-buahan hingga nampak matangnya." Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdurrahman] dari [Sufyan]. Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] keduanya dari [Abdullah bin Dinar] dengan isnad seperti ini, dengan tambahan dalam hadits Syu'bah, maka dikatakan kepada Ibnu Umar, apa maksud "nampak matangnya." Dia menjawab, yaitu terbebas dari kerusakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3869</td></tr><tr><td>Arabic No</td><td>1534.07</td></tr><tr><td>Reference</td><td>Book 21 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3869</td></tr><tr><td>Arabic No</td><td>1534.07</td></tr><tr><td>Reference</td><td>Book 21 Hadith 68</td></tr></tbody></table></div>
 

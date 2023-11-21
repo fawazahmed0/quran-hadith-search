@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Habibah daughter of Jahsh: Ikrimah said: Umm Habibah daughter of Ja
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ziyad bin Ayyub] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Abu Bisyr] dari [Ikrimah] bahwasanya Ummu Habibah binti Jahsy mustahadlah, maka Nabi shallallahu 'alaihi wasallam memerintahkannya untuk menunggu hari-hari haidlnya, kemudian mandi dan shalat. Apabila dia melihat darah istihadhah, maka berwudhulah dan shalatlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>305</td></tr><tr><td>Arabic No</td><td>305</td></tr><tr><td>Reference</td><td>Book 1 Hadith 305</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Икримы: «У Умм Хабибы бинт Джахш были хроническое кровотечение и Пророк ﷺ велел ей, чтобы она воздержалась (от молитвы) в течение менструального цикла, после чего она должна искупаться и совершать молитву. И если она увидит что-нибудь (нарушающее очищение) то должна совершить омовение и молиться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>305</td></tr><tr><td>Arabic No</td><td>305</td></tr><tr><td>Reference</td><td>Book 1 Hadith 305</td></tr></tbody></table></div>
 

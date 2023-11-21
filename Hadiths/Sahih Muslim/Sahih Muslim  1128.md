@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-khudrî (que Dieu l'agrée), L'Envoyé de Dieu (paix et 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, "Saya membaca di hadapan [Malik] dari [Zaid bin Aslam] dari [Abdurrahman bin Abi Sa'id] dari [Abu Sa'id al-Khudri] bahwa Rasulullah shallallahu'alaihiwasallam bersabda, "Apabila salah seorang dari kalian shalat, maka janganlah dia membiarkan seseorang lewat di hadapannya, dan hendaklah dia menghalanginya semampunya. Jika dia menolak maka hendaklah dia memeranginya, karena dia adalah setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1128</td></tr><tr><td>Arabic No</td><td>505.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 290</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри о том, что Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас будет совершать молитву, пусть никому не позволяет пройти перед собой и оттолкнёт его на столько, насколько сможет, а если тот станет упря­миться, то пусть сразится с ним, ибо, поистине, это шайтан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1128</td></tr><tr><td>Arabic No</td><td>505.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 290</td></tr></tbody></table></div>
 

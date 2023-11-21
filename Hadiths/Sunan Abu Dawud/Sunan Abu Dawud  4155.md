@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Talhah:The Messenger of Allah (ﷺ) as saying: The angels do not en
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Al Laits] dari [Bukair] dari [Busr bin Said] dari [Zaid bin Khalid] dari [Abu Thalhah] Bahwasanya ia berkata, 'Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya para malaikat tidak akan masuk ke dalam rumah yang di dalamnya ada gambar." Busr berkata, "Ketika Zaid jatuh sakit kami menjenguknya, sementara di pintunya ada tirai yang bergambar. Maka aku berkata kepada [Ubaidullah Al Khaulani], pembantu Maimunah isteri Nabi shallallahu 'alaihi wasallam, "Bukankah Zaid telah mengabarkan kepada kita tentang hukum, gambar sejak awal!" Ubaidullah berkata, "Tidakkah engkau mendengar ketika ia mengatakan, "Kecuali gambar ukiran pada kain?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5958) Sahih Muslim (2106)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4155</td></tr><tr><td>Arabic No</td><td>4155</td></tr><tr><td>Reference</td><td>Book 34 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Тальхи, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, ангелы не входят в дом, в котором есть изображения (живых существ)». (Передатчик этого хадиса) Буср сказал: «А потом Зейд (от которого он передал этот хадис и который передал его от Абу Тальхи) заболел, и мы пришли навестить его. И вдруг на его двери мы увидели занавеску с изображениями. Я сказал ‘Убайдуллаху аль-Хауляни, воспитаннику (вольноотпущенник) Маймуны, жены Пророка ﷺ: “Разве Зейд не говорил нам об изображениях?” ‘Убайдуллах сказал в ответ: “Разве ты не слышал, как он сказал, что украшения на ткани (без изображения живых существ) считаются исключением?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5958) Sahih Muslim (2106)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4155</td></tr><tr><td>Arabic No</td><td>4155</td></tr><tr><td>Reference</td><td>Book 34 Hadith 136</td></tr></tbody></table></div>
 

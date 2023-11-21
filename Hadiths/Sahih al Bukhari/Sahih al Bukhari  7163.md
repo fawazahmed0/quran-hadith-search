@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin As-Sa'di: That when he went to 'Umar during his Caliphate
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepadaku [As Sa'ib bin Yazid bin Ukhti Namir], bahwa [Khuwaitib bin Abdul 'uzza] mengabarkan kepadanya, bahwa [Abdullah bin As Sa'di] mengabarkan kepadanya, ia pernah mendatangi Umar dimasa-masa pemerintahannya. [Umar] lantas berujar; "Benarkan berita yang sampai kepadaku bahwa engkau mengurus urusan-urusan sosial, namun jika engkau diberi pesangon (uang lelah) engkau tidak menyukainya?" Saya jawab "Iya". Umar lantas mengatakan; "lalu maumu apa?" Saya menjawab; "Saya sudah punya kuda sekian banyak, demikian pula budak ada beberapa, dan aku dalam keadaan baik (mapan secara ekonomi), maka aku niati kerjaku ini sebagai sedekah (amal cuma-cuma) untuk kaum muslimin." Umar spontan mengatakan: 'jangan kau lakukan, saya sebenarnya juga ingin seperti kehendakmu, namun Rasulullah Shallallahu'alaihiwasallam juga memberiku pemberian, tetapi saya katakan; 'Coba berikan saja pemberian itu kepada orang yang lebih membutuhkan daripada aku! ' Kemudian hari, Nabi juga memberi pemberian yang sama kemudian aku katakan; 'Tolong berikan kepada orang yang lebih membutuhkan daripada aku! ' Lantas Nabi shallallahu 'alaihi wasallam bersabda; "Ambil saja, kembangkan harta ini, dan jadikanlah untuk bersedekah, harta ini yang datang kepadamu dengan cara yang tidak berlebihan dan engkau sendiri tidak meminta, maka ambil saja, dan terhadap harta, janganlah nafsumu kau perturutkan terhadapnya!" Dan dari [Az Zuhri] berkata; telah menceritakan kepadaku [Salim bin Abdullah] bahwa [Abdullah bin Umar] berkata; saya telah mendengar [Umar bin Khattab] berkata; Nabi shallallahu 'alaihi wasallam memberikan suatu pemberian kepadaku, lalu saya berkata; Berikan kepada orang yang lebih fakir daripadaku, sehingga pada suatu saat beliau memberi lagi dan saya jawab sebagaimana sebelumnya. Lantas Nabi shallallahu 'alaihi wasallam bersabda: "Ambillah! kembangkan harta ini, dan jadikanlah untuk bersedekah, harta ini yang datang kepadamu dengan cara yang tidak berlebihan dan engkau sendiri tidak meminta, maka ambil saja, dan terhadap harta, janganlah nafsumu kau perturutkan terhadapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7163</td></tr><tr><td>Arabic No</td><td>7163</td></tr><tr><td>Reference</td><td>Book 93 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ас-Са‘дий передаёт, что в своё время он прибыл к ‘Умару, да будет доволен им Аллах, когда тот был правителем мусульман. И тогда ‘Умар сказал ему: «Разве мне не о тебе сообщили, что ты занимал должность ответственного (за казну мусульман), и когда тебе давали выделенную плату (за работу), ты отказывался от этого?» Я ответил: «Да». Тогда ‘Умар спросил: «Что тебя побудило к этому?» Я сказал: «Поистине у меня есть лошади, рабы и у меня всё хорошо, и я хотел, чтобы выделенная мне плата за работу была милостыней для мусульман». ‘Умар сказал: «Не делай этого, ибо, поистине я желал того же, чего пожелал ты. И обычно Посланник Аллаха ﷺ всегда давал мне что-нибудь, а я говорил: “Отдай это тем, кто нуждается в этом больше меня”, — и так продолжалось до тех пор, пока однажды он не дал мне имущество, и я сказал: “Отдай это тем, кто нуждается в этом больше меня”, но Пророк ﷺ сказал: “Возьми это, владей этим и отдавай это в качестве милостыни. И чтобы тебе не доставалось из этого имущества не по твоему собственному желанию и ты (ни о чём) не просишь, бери это, если же (тебе ничего не достанется,) то не стремись к этому!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7163</td></tr><tr><td>Arabic No</td><td>7163</td></tr><tr><td>Reference</td><td>Book 93 Hadith 27</td></tr></tbody></table></div>
 

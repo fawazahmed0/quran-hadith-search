@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) gave us the news of the death 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin Laits] telah menceritakan kepadaku [bapakku] dari [kakekku] ia berkata, telah menceritakan kepadaku [Uqail bin Khalid] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dan [Abu Salamah bin Abdurrahman] bahwa keduanya telah menceritakan kepadanya dari [Abu Hurairah] bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam mengajak kami untuk menunaikan shalat (ghaib) untuk kematian An Najasyi, raja negeri Habasyah. Beliau bersabda: "Mintakanlah ampunan untuk saudara kalian (An Najasyi)." Ibnu Syihab berkata; Dan telah menceritakan kepadaku Sa'id bin Al Musayyab, bahwa Abu Hurairah telah menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam mengatur shaf mereka di Mushalla (tanah lapang), lalu beliau shalat (ghaib) dan bertakbir atasnya sebanyak empat kali takbir. Dan telah menceritakan kepadaku [Amru An Naqid] dan [Hasan Al Hulwani] dan [Abdu Humaid] mereka berkata, telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [bapakku] dari [Shalih] dari [Ibnu Syihab] sebagaimana riwayat Uqail dengan kedua isnad itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2205</td></tr><tr><td>Arabic No</td><td>951.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сообщил нам о кончине негуса /ан-Наджаши/, царя Эфиопии, в день его смерти. Он сказал: “Просите прощения для вашего брата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2205</td></tr><tr><td>Arabic No</td><td>951.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 83</td></tr></tbody></table></div>
 

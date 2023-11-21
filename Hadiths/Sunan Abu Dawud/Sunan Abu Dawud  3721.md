@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A man of the Ansar quoting from his father said that the Prophet (ﷺ) called fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami ['Ubaidullah bin Umar] dari [Isa bin Abdullah] seorang laki-laki anshar, dari [Ayahnya] bahwa Rasulullah shallallahu 'alaihi wasallam pernah meminta bejana kecil pada saat perang Uhud, kemudian beliau bersabda: "Potonglah mulut bejana kecil tersebut!" kemudian beliau minum melalui mulutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3721</td></tr><tr><td>Arabic No</td><td>3721</td></tr><tr><td>Reference</td><td>Book 27 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Иса ибн ‘Абдуллах, один из ансаров, передаёт от своего отца, что в день битвы при Ухуде Посланник Аллаха ﷺ велел принести себе бурдюк и сказал: «Перегни горлышко», а потом попил прямо из горлышка
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3721</td></tr><tr><td>Arabic No</td><td>3721</td></tr><tr><td>Reference</td><td>Book 27 Hadith 53</td></tr></tbody></table></div>
 

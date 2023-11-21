@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sufyan bin Harb:that Heraclius had sent for him to come along with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil Abu Al Hasan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku ['Ubaidullah bin Abdullah bin 'Utbah] bahwa [Ibnu Abbas] telah mengabarkan kepadanya bahwa [Abu Sufyan bin Harb] telah mengabarkan kepadanya bahwa Heraklius (raja Ramawi) pernah mengutusnya kepada sekelompok orang orang Quraisy yaitu para pedagang di Syam, setelah itu para pedagang tersebut menemuinya -lalu perawi menyebutkan riawayat hadits, dia berkata; "Kemudian Heraklius meminta surat Rasulullah shallallahu 'alaihi wasallam, ketika dibaca ternyata di dalamnya tertulis "BISMILLAHIR RAHMAANIR RAHIIM (dengan nama Allah yang maha pengasih lagi maha penyayang), dari Muhammad hamba Allah dan Rasul-Nya kepada Hiraklius raja Ramawi, salam kesejahteraan bagi yang mengikuti petunjuk, amma ba'du
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6260</td></tr><tr><td>Arabic No</td><td>6260</td></tr><tr><td>Reference</td><td>Book 79 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, рассказывал о том, что Абу Суфйан ибн Харб сообщил ему о том, что Ираклий послал за ним, когда он сопровождал караван курайшитов. Они занимались торговыми делами в Шаме. Они пришли к нему. Затем он рассказал всю историю, сказав: «…А потом он потребовал подать себе послание Посланника Аллаха ﷺ и ему было прочитано следующее: “C именем Аллаха Милостивого, Милующего. От Мухаммада, раба Аллаха и Его посланника, Ираклию, владыке Рума. Мир тому, кто следует правильным путём. А затем…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6260</td></tr><tr><td>Arabic No</td><td>6260</td></tr><tr><td>Reference</td><td>Book 79 Hadith 34</td></tr></tbody></table></div>
 

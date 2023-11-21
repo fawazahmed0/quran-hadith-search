@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: When the prohibition of wine (was yet to be) decla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abbad bin Musa Al Khuttali] telah mengabarkan kepada kami [Isma'il bin Ja'far] dari [Israil] dari [Abu Ishaq] dari ['Amru] dari [Umar bin Al Khathab] ia berkata, "Tatkala telah turun pengharaman arak Umar berkata, "Ya Allah, jelaskan kepada kami mengenai arak dengan penjelasan yang memuaskan." Kemudian turunlah ayat yang terdapat dalam Surat Al Baqarah (219): '(Mereka bertanya kepadamu tentang khamer dan judi…) '. 'Ammar berkata, "Kemudian Umar dipanggil dan dibacakan kepadanya ayat tersebut, ia berkata lagi, "Ya Allah, jelaskan kepada kami mengenai khamer dengan penjelasan yang memuaskan." Kemudian turunlah ayat yang terdapat pada Surat An Nisaa' (41): '(Hai orang-orang yang beriman, janganlah kamu shalat, sedang kamu dalam keadaan mabuk…..) ' Penyeru Rasulullah shallallahu 'alaihi wasallam apabila shalat telah ditegakkan maka ia berseru, 'ketahuilah bahwa tidak boleh orang yang mabuk mendekati shalat! ' Kemudian Umar dipanggil dan dibacakanlah ayat tersebut kepadanya, lalu ia berkata, "Ya Allah jelaskanlah kepada kami mengenai khamer dengan penjelasan yang memuaskan!" Maka turunlah ayat ini: '(….. apakah kalian akan berhenti?) ' (Qs. Al Maa'idah: 91) Umar berkata, "Kami telah berhenti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3670</td></tr><tr><td>Arabic No</td><td>3670</td></tr><tr><td>Reference</td><td>Book 27 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Амра, да будет доволен им Аллах: «Когда был ниспослан запрет употреблять вино, (прежде чем это произошло) ‘Умар сказал: “О Аллах, ниспошли нам достаточное разъяснение относительно вина!” Тогда был ниспослан аят из суры “аль-Бакара”: “Они спрашивают тебя о вине и азартных играх. Скажи: “В них есть большой грех, но есть и польза для людей, хотя греха в них больше, чем пользы”” (сура “аль-Бакара”, аят 219). Тогда ‘Умара позвали и прочитали ему этот аят, и он сказал: “О Аллах, ниспошли нам достаточное разъяснение относительно вина!” Тогда был ниспослан аят из суры “ан-Ниса”: “О те, которые уверовали! Не приближайтесь к молитве, будучи пьяными…” (сура “ан-Ниса”, аят 43). И после этого глашатай Посланника Аллаха ﷺ объявлял перед каждой молитвой: “Пусть не приближается к молитве пьяный!” ‘Умар же снова сказал: “О Аллах, ниспошли нам достаточное разъяснение относительно вина!” Тогда был ниспослан аят (о его полном запрете): “Неужели вы не прекратите?” (сура “аль-Маида”, аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3670</td></tr><tr><td>Arabic No</td><td>3670</td></tr><tr><td>Reference</td><td>Book 27 Hadith 2</td></tr></tbody></table></div>
 

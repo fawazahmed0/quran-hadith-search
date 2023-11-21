@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira Ad-Dausi:Once the Prophet (ﷺ) went out during the day. Ne
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] dari ['Ubaidullah bin Abu Yazid] dari [Nafi' bin Jubair bin Muth'im] dari [Abu Hurairah Ad-Dawsiy radliallahu 'anhu] berkata: Nabi shallallahu 'alaihi wasallam keluar pada waktu siang hari dan Beliau tidak berbicara kepadaku dan akupun juga tidak berbicara kepada Beliau hingga sampai di pasar Bani Qainuqa'. (Setelah keluar dari pasar) maka Beliau duduk di halaman rumah Fathimah lalu berkata: "Mana anak kecil itu. Mana anak kecil itu? (maksudnya Hasan bin 'Ali) ". Rupanya Fathimah yang menahan anak kecil itu karena suatu keperluan, seingatku Fathimah memasangkan ikat leher yang sering dipakainya atau memandikannya, lalu Beliau datang dengan tergesa hingga Beliau bentangkan tangannya untuk memeluk dan menciumnya, lalu Beliau berdoa: Ya Allah, cintailah dia dan cintailah orang yang mencintainya". Telah berkata, Sufyan berkata, 'Ubaidullah telah mengabarkan kepada saya bahwa dia memandang Nafi' bin Jubair membolehkan witir dengan satu raka'at saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2122</td></tr><tr><td>Arabic No</td><td>2122</td></tr><tr><td>Reference</td><td>Book 34 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра ад-Дауси, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ вышел (из дома) днём. Он ничего не сказал мне, и я ничего не сказал ему, пока он не дошёл до рынка бану кайнука‘. (Потом) он (пришёл) к дому Фатимы, сел во дворе и стал спрашивать: “Там ли малыш? Там ли малыш?” — но (Фатима) задерживала его некоторое время, и я подумал, что она надевает на него ожерелье из благовоний или купает его. Потом мальчик выбежал (из дома), а (Пророк ﷺ) обнял и поцеловал его, и сказал: “О Аллах, полюби его и полюби тех, кто станет любить его!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2122</td></tr><tr><td>Arabic No</td><td>2122</td></tr><tr><td>Reference</td><td>Book 34 Hadith 75</td></tr></tbody></table></div>
 

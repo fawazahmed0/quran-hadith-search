@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) missed Thabit bin Qais for a period (S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Azhar bin Sa'ad] Telah mengabarkan kepada kami [Ibnu 'Aun] dia berkata; Telah memberitakan kepadaku [Musa bin Anas] dari [Anas bin Malik radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam mencari Tsabit bin Qais, lalu seeorang berkata; Ya Rasulullah, Aku tahu keberadaan dia, lalu dia mendatanginya dan ditemuinya sedang duduk di rumahnya dalam keadaan menundukan kepalanya. Orang itu berkata kepadanya; Ada apa denganmu? Tsabit menjawab; sungguh jelek ia (Tsabit), ia telah mengangkat suaranya melebihi suara Nabi shallallahu 'alaihi wasallam, sungguh telah hancur amal perbuatannya dan dia termasuk penghuni neraka. Maka orang itu menemui Nabi shallallahu 'alaihi wasallam dan mengabarkan berita keadaannya bahwa ia berkata begini dan begitu. Musa berkata; -kemudian orang itu kembali kepadanya dengan membawa kabar gembira yang besar.- Nabi shallallahu 'alaihi wasallam berkata kepadanya; pergilah kepada Tsabit dan katakan kepadanya bahwa ia bukan penghuni neraka, tapi ia penghuni surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4846</td></tr><tr><td>Arabic No</td><td>4846</td></tr><tr><td>Reference</td><td>Book 65 Hadith 367</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что (как-то раз, когда) Пророк ﷺ обратил внимание на отсутствие Сабита ибн Кайса, один человек сказал: «О Посланник Аллаха, я принесу тебе известия о нём», после чего он пришёл к нему и увидел, что (Сабит) сидит у себя дома, опустив голову. Он спросил (Сабита): «Что с тобой?» (Сабит) ответил: «Дело плохо: (человек, имея ввиду себя) часто возвышал свой голос над голосом Пророка ﷺ, и дела его стали тщетными, а сам он окажется среди обитателей Огня!» (Выслушав его,) этот человек (вернулся к Пророку ﷺ) и рассказал ему, что (Сабит) сказал то-то и то-то. А потом этот человек снова пришёл к (Сабиту, да будет доволен им Аллах,) с великой благой вестью и передал ему, что (Пророк ﷺ) велел (ему): «Отправляйся к нему и скажи: “Поистине, ты не из числа обитателей Огня, а из числа обитателей Рая!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4846</td></tr><tr><td>Arabic No</td><td>4846</td></tr><tr><td>Reference</td><td>Book 65 Hadith 367</td></tr></tbody></table></div>
 

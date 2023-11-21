@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Wahb Abu Juhaifa As-Sawwai:I saw the Prophet (ﷺ) and saw some white h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Raja'] telah bercerita kepada kami [Isra'il] dari [Abu Ish aq] dari [Wahb Abu Juhaifah as-Suwa'iy] berkata; "Aku pernah melihat Nabi shallallahu 'alaihi wasallam, dan kulihat warna putih pada rambut yang terletak antara bibir bawah dan dagu beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3545</td></tr><tr><td>Arabic No</td><td>3545</td></tr><tr><td>Reference</td><td>Book 61 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Вахб абу Джухайфа ас-Суаъи сказал: «Я видел Пророка ﷺ, и я видел у него несколько седых волос под нижней губой на подбордке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3545</td></tr><tr><td>Arabic No</td><td>3545</td></tr><tr><td>Reference</td><td>Book 61 Hadith 54</td></tr></tbody></table></div>
 

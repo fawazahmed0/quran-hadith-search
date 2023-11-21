@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura said:The Apostle of Allah (ﷺ) gave two sermons between which h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Hasan bin Rabi'] dan [Abu Bakar bin Abu Syaibah] -Yahya berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- telah menceritakan kepada kami [Abul Ahwash] dari [Simak] dari [Jabir bin Samurah] ia berkata; "Nabi shallallahu 'alaihi wasallam melakukan khutbah Jum'at dua kali, di mana beliau duduk di antara keduanya. Dalam khutbahnya beliau membaca Al Qur'an dan memberi peringatan kepada jama'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>862.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Самура сказал: «Пророк ﷺ произносил две проповеди, (в перерыве) между которыми он садился. (Во время проповедей) он читал Коран и напоминал людям (о предписаниях религии)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>862.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 45</td></tr></tbody></table></div>
 

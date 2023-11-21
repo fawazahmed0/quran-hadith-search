@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Rafi' reported:I said the night prayer along with Abu Huraira and -as he rec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] dan [Muhammad bin Abdul A'la] dia berkata; telah menceritakan kepada kami [Al Mu'tamir] dari [Ayahnya] dari [Bakr] dari [Abu Rafi'] dia berkata; "Aku pernah shalat isya' bersama [Abu Hurairah], ketika dia membaca IDZAS SAMAA'UN SYAQQAT beliau sujud, lalu kutanyakan; "sujud apakah ini?" Dia menjawab; "Aku pernah sujud di belakang Abul Qasim shallallahu 'alaihi wasallam, maka aku akan terus melakukan sujud pada surat tersebut hingga aku meninggal." Ibn Abdul A'la mengatakan; "Maka aku tidak akan henti sujud pada pada surat tersebut." Telah menceritakan kepadaku ['Amru An Naqid] telah menceritakan kepada kami [Isa bin Yunus] katanya, (Dan diriwayatkan dari jalur lain telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Yazid] yaitu Ibn Zurai' dia berkata, (Dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ahmad bin 'Abdah] telah menceritakan kepada kami [Sulaim bin Akhdlar], semuanya dari [At Taimi] dengan sanad ini, hanya ia tidak mengatakan; "Di belakang Abul Qasim shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1304</td></tr><tr><td>Arabic No</td><td>578.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Рафи‘ сказал: «Однажды я совершал с Абу Хурайрой вечернюю молитву /‘иша/, и он прочитал суру “Когда небеса расколются…” и совершил земной поклон. Я спросил: “Что это за земной поклон?” Он ответил: “Я совершал его, молясь за Абу аль-Касимом ﷺ, и буду совершать его до тех пор, пока не встречу его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1304</td></tr><tr><td>Arabic No</td><td>578.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 142</td></tr></tbody></table></div>
 

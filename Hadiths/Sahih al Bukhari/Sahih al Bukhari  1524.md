@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) (p.b.u.h) made Dhul-Huiaifa as the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ibnu Thowus] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi Shallallahu'alaihiwasallam menetapkan miqat bagi penduduk Madinah di Dzul Hulaifah, bagi penduduk Syam di Al Juhfah, bagi penduduk Najed di Qarnul Manazil dan bagi penduduk Yaman di Yalamlam. Itulah ketentuan masing-masing bagi setiap penduduk negeri-negeri tersebut dan juga bagi mereka yang bukan penduduk negeri-negeri tersebut bila melewati tempat-tempat tersebut dan berniat untuk hajji dan 'umrah. Sedangkan bagi orang-orang selain itu (yang tinggal lebih dekat ke Makkah dari pada tempat-tempat itu), maka dia memulai dari kediamannya, dan bagi penduduk Makkah, mereka memulainya dari (rumah mereka) di Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1524</td></tr><tr><td>Arabic No</td><td>1524</td></tr><tr><td>Reference</td><td>Book 25 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «В качестве миката для жителей Медины Пророк ﷺ определил Зу-ль-Хуляйфу, для жителей Шама − аль-Джухфу, для жителей Неджда − Карн аль-Маназиль, а для жителей Йемена − Йалямлям. (Вышеупомянутые микаты) предназначены (также) для тех, кто живёт непосредственно в этих местах, и для (людей) из других мест, проезжающих через (эти места) с целью совершения хаджа или умры. Для живущих (к Мекке) ближе (микатом должно служить) то место, где они наденут ихрам, а жителям Мекки (ихрам следует надевать) в самой Мекке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1524</td></tr><tr><td>Arabic No</td><td>1524</td></tr><tr><td>Reference</td><td>Book 25 Hadith 12</td></tr></tbody></table></div>
 

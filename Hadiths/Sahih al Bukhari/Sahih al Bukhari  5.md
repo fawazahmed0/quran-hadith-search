@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Said bin Jubair: Ibn 'Abbas in the explanation of the statement of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] dia berkata, Telah menceritakan kepada kami [Abu 'Awanah] berkata, bahwa Telah menceritakan kepada kami [Musa bin Abu Aisyah] berkata, Telah menceritakan kepada kami [Sa'id bin Jubair] dari [Ibnu 'Abbas] tentang firman Allah Ta'ala: (Janganlah kamu gerakkan lidahmu untuk (membaca) Al Quran karena hendak cepat-cepat ingin (menguasainya)." Berkata Ibnu 'Abbas: "Rasulullah shallallahu 'alaihi wasallam sangat kuat keinginannya untuk menghafalkan apa yang diturunkan (Al Qur'an) dan menggerak-gerakkan kedua bibir Beliau." Berkata Ibnu 'Abbas: "aku akan menggerakkan kedua bibirku (untuk membacakannya) kepada kalian sebagaimana Rasulullah shallallahu 'alaihi wasallam melakukannya kepadaku". Berkata Sa'id: "Dan aku akan menggerakkan kedua bibirku (untuk membacakannya) kepada kalian sebagaimana aku melihat Ibnu 'Abbas melakukannya. Maka Nabi shallallahu 'alaihi wasallam menggerakkan kedua bibirnya, Kemudian turunlah firman Allah Ta'ala: Janganlah kamu gerakkan lidahmu untuk (membaca) Al Quran karena hendak cepat-cepat (menguasai) nya. Sesungguhnya atas tanggungan Kamilah mengumpulkannya (di dadamu) dan (membuatmu pandai) membacanya". Maksudnya Allah mengumpulkannya di dalam dadamu (untuk dihafalkan) dan kemudian kamu membacanya: "Apabila Kami telah selesai membacakannya, maka ikutilah bacaannya itu". Maksudnya: "Dengarkanlah dan diamlah". Kemudian Allah Ta'ala berfirman: "Kemudian, sesungguhnya atas tanggungan Kamilah penjelasannya. Maksudnya: "Dan Kewajiban Kamilah untuk membacakannya" Dan Rasulullah shallallahu 'alaihi wasallam sejak saat itu bila Jibril 'Alaihis Salam datang kepadanya, Beliau mendengarkannya. Dan bila Jibril 'Alaihis Salam sudah pergi, maka Nabi shallallahu 'alaihi wasallam membacakannya (kepada para sahabat) sebagaimana Jibril 'Alaihis Salam membacakannya kepada Beliau shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5</td></tr><tr><td>Arabic No</td><td>5</td></tr><tr><td>Reference</td><td>Book 1 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал Муса ибн Исма‘ил, сказавший: Нам рассказал Абу ‘Аваана, сказавший: Нам рассказал Муса ибн ‘Аиша, сказавший: Нам рассказал Са‘ид ибн Джубайр от Ибн ‘Аббаса, толкуя слова Всевышнего: «Не шевели языком своим, (повторяя его.) чтобы ускорить это...», сказал: «Посланник Аллаха ﷺ всегда испытывал напряжение во время ниспослания (откровений), что заставляло его шевелить губами». Ибн ‘Аббас сказал: «И я пошевелю губами так же, как делал это Посланник Аллаха ﷺ».(Ибн ‘Аббас сказал): «И Аллах Всевышний ниспослал (аяты, в которых говорилось): “Не шевели языком своим, (повторяя его.) чтобы ускорить это! Поистине, это Нам надлежит собрать и прочесть его”».Ибн ‘Аббас сказал: «(Это значит:) собрать его для тебя в твоём сердце так, чтобы ты смог читать его».(Что же касается слов) Аллаха Всевышнего «А когда Мы прочитаем его, следуй его чтению», то Ибн ‘Аббас сказал: «(Это значит:) слушай его внимательно».Аллах Всевышний сказал: «Далее, поистине, надлежит Нам разъяснить его».(Ибн ‘Аббас сказал: «Это значит:) далее, надлежит Нам сделать так, чтобы ты читал его. И после этого Посланник Аллаха ﷺ всегда выслушивал Джибриля, когда тот являлся к нему, а после того как Джибрил уходил, Пророк ﷺ читал (аяты Корана) так же, как читал их он»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5</td></tr><tr><td>Arabic No</td><td>5</td></tr><tr><td>Reference</td><td>Book 1 Hadith 5</td></tr></tbody></table></div>
 

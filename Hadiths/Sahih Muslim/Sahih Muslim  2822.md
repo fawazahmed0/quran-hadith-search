@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported:I saw the Messenger of Allah (ﷺ) riding on his came
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Salim bin Abdullah] telah mengabarkan kepadanya bahwa [Abdullah bin Umar] radliallahu 'anhuma, berkata; Saya melihat Rasulullah shallallahu 'alaihi wasallam menaiki kendaraannya di Dzulhulaifah, kemudian beliau memulai Ihram saat kendaraannya berdiri di situ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2822</td></tr><tr><td>Arabic No</td><td>1187.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2822</td></tr><tr><td>Arabic No</td><td>1187.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 32</td></tr></tbody></table></div>
 

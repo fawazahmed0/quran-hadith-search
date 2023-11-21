@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:Every one of the children of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hasan bin Ali Al Hulwani] Telah menceritakan kepada kami [Abu Taubah Ar Rabi' bin Nafi'] Telah menceritakan kepada kami [Mu'awiyah bin Sallam] dari [Zaid], bahwa ia mendengar [Abu Sallam] berkata, [Abdullah bin Farrukh] berkata kepadaku bahwa ia mendengar ['Aisyah] berkata; Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Sesungguhnya setiap manusia dari anak cucu Adam terlahir dengan tiga ratus enam puluh rangkaian persendian, maka barangsiapa yang bertakbir, bertahmid, bertahlil, bertasbih serta memohon ampun Allah, menyingkirkan bebatuan, duri-durian atau tulang belulang dari jalan yang biasa dilewati manusia, serta menyuruh kepada yang ma'ruf dan mencegah dari yang mungkar adalah sebanding dengan tiga ratus enam puluh jumlah persendian, sungguh pada hari itu ia akan berjalan sedang ia telah menjauhkan dirinya dari adzab api neraka." Abu Taubah berkata; atau mungkin juga ia mengatakan; "YUMSI (jika berada di waktu sore)." [Abdullah bin Abdurrahman Ad Darimi] menceritakan kepada kami, [Yahya bin Hassan] mengkabarkan kepada kami, [Mu'awiyah] berkata kepadaku, saudaraku [Zaid] mengkabarkan kepadaku dengan sanad yang sama, akan tetapi ia mengatakan: atau menyuruh pada yang ma'ruf, dan ia mengatakan: pada hari itu ia akan berada di waktu sore. [Abu Bakar bin Nafi' Al Abdi] berkata kepadaku, [Yahya bin Katsir] berkata kepada kami, [Ali] yakni Ibnu Al Mubarak berkata kepada kami, [Yahya] berkata kepada kami dari [Zaid bin Sallam], dari kakeknya [Abu Sallam], ia berkata: [Abdullah bin Farrukh] berkata kepadaku bahwa ia mendengar ['Aisyah] berkata: Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap manusia dari anak cucu Adam…" sama seperti hadits Mu'awiyah dari Zaid. Ia berkata: Sungguh pada hari itu ia akan berjalan…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>1007.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Фаруха о том, что он слышал, как ‘Аиша, да будет доволен ею Аллах, говорила: Посланник Аллаха ﷺ сказал: «Поистине, каждый человек из числа сынов Адама сотворён из трёхсот шестидесяти сочленений, и тот, кто (в течение дня) будет произносить слова “Аллах велик” /Аллаху акбар/, “Хвала Аллаху” /Аль-хамду ли-Ллях/, “Нет бога, достойного поклонения, кроме Аллаха” /Ля иляха илля-Ллах/ и “Пречист Аллах” /Субхана-Ллах/, или просить у Аллаха прощения, или уберёт с дороги, по которой ходят люди, камень, колючку или кость, или станет побуждать к одобряемому или удерживать от порицаемого (и совершит за день) триста шестьдесят (таких дел, по количеству) сочленений (его тела), в этот день удалит себя от Огня».Абу Тауба сказал: «Возможно, что он сказал: “Он достигнет вечера”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>1007.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 67</td></tr></tbody></table></div>
 

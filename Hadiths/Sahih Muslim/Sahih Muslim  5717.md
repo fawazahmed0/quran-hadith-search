@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. al-Aswad reported on the authority of his father:I asked 'A'ish
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Ali bin Mushir] dari [Asy Syaibani] dari ['Abdur Rahman bin Al Aswad] dari [Bapaknya] dia berkata; "Aku pernah bertanya kepada ['Aisyah] tentang ruqyah. Jawabnya; 'Rasulullah shallallahu 'alaihi wasallam pernah membolehkan satu keluarga Anshar melakukan ruqyah untuk setiap penyakit demam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5717</td></tr><tr><td>Arabic No</td><td>2193.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5717</td></tr><tr><td>Arabic No</td><td>2193.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 71</td></tr></tbody></table></div>
 

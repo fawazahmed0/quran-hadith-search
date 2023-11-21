@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mughira b. Shu'ba reported:I was with the Messenger of Allah (ﷺ) one night. He
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] telah mengabarkan kepada kami [Abu al-Ahwash] dari [Asy'ats] dari [al-Aswad bin Hilal] dari [al-Mughirah bin Syu'bah] dia berkata, "Ketika kami bersama Rasulullah shallallahu 'alaihi wasallam suatu malam, tiba-tiba beliau turun lalu buang hajat, setelah beliau datang maka aku menuangkan air dari kantong kulit yang ada bersamaku untuk beliau, lalu beliau berwudlu dan mengusap bagian atas kedua khufnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>628</td></tr><tr><td>Arabic No</td><td>274.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Мугыра ибн Шу‘ба сказал: «Однажды ночью, когда я находился вместе с Посланником Аллаха ﷺ он спешился и удовлетворил свою нужду. Затем, (когда) он вернулся, я стал лить для него воду из сосуда, который у меня был, а он совершил омовение и протёр свои кожаные носки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>628</td></tr><tr><td>Arabic No</td><td>274.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 95</td></tr></tbody></table></div>
 

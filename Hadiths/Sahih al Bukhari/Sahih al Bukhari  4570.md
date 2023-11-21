@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(One night) I stayed overnight in the house of my aunt Maimu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] Telah menceritakan kepada kami ['Abdur Rahman bin Mahdi] dari [Malik bin Anas] dari [Makhramah bin Sulaiman] dari [Kuraib] dari [Ibnu 'Abbas radliallahu 'anhuma] ia berkata; Suatu ketika aku menginap di rumah Maimunah, lalu aku berkata; Aku akan melihat shalat Rasulullah. Tiba-tiba Rasulullah shallallahu 'alaihi wasallam diberi bantal dan beliau tidur di bagian sisi panjang. Setelah itu bangun seraya mengusap kantuk dari wajahnya. Lalu beliau membaca sepuluh ayat terakhir surat Ali Imran hingga selesai. kemudian beliau menuju ke geriba yang tergantung, beliau berwudlu darinya dan beliau shalat. Ibnu 'Abbas berkata; Aku pun bangun dan melaksanakan seperti apa yang beliau kerjakan, kemudian aku berdiri di sampingnya, maka beliau meletakkan tangannya di kepalaku dan memegang telinga kananku lalu memilinnya. Beliau shalat dua raka'at, dua raka'at, dua raka'at, dua raka'at, dua raka'at, dua raka'at kemudian beliau melakukan witir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4570</td></tr><tr><td>Arabic No</td><td>4570</td></tr><tr><td>Reference</td><td>Book 65 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Однажды) я остался на ночь (в доме) своей тёти Маймуны, и я сказал себе: “Я непременно посмотрю на молитву Посланника Аллаха ﷺ”. Маймуна дала Посланнику Аллаха ﷺ подушку, и он лёг спать вдоль неё. Затем он проснулся и начал протирать себе глаза, чтобы разогнать сон. Затем он прочитал десять последних аятов суры “Али ‘Имран”, подошёл к бурдюку, подвешенному (к потолку), совершил омовение, а потом встал на молитву. И я тоже поднялся, сделал всё то, что сделал он, а потом встал рядом с ним. Он же положил свою правую руку мне на голову, взял меня за ухо и слегка потрепал его. Потом он совершил два рак‘ата молитвы, потом ещё два, потом ещё два, потом ещё два, потом ещё два, потом ещё два, затем он завершил молитву нечётным количеством рак‘атов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4570</td></tr><tr><td>Arabic No</td><td>4570</td></tr><tr><td>Reference</td><td>Book 65 Hadith 92</td></tr></tbody></table></div>
 

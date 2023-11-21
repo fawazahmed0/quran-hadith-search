@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:I saw the Messenger of Allah (ﷺ) sitting neat the Black st
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] bahwa [Bisyr bin Al Mufadldlal] dan [Khalid bin Abdullah] telah mengabarkan kepada mereka secara makna, dari [Khalid Al Hadzdza'] dari [Barakah] -Musaddad menyebutkan dalam hadits Khalid bin Abdullah; dari Barakah Abu Al Walid, kemudian keduanya sepakat- dari [Ibnu Abbas] ia berkata, "Aku melihat Rasulullah shallallahu 'alaihi wasallam sedang duduk di rukun. Kemudian beliau mengangkat pandangannya ke langit seraya tertawa. Beliau bersabda: "Semoga Allah melaknat orang-orang Yahudi -Beliau mengucapkannya sebanyak tiga kali-, sesungguhnya Allah telah mengharamkan lemak atas mereka, kemudian mereka menjual dan memakan hasil penjualannya. Sungguh, jika Allah telah mengharamkan suatu kaum untuk memakan sesuatu, maka Allah pun mengharamkan hasil penjualannya." Namun dalam hadits Khalid bin Abdullah Ath Thahhan tidak disebutkan lafadz, "Aku melihat." Beliau mengatakan: "Semoga Allah melaknat orang-orang yahudi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3488</td></tr><tr><td>Arabic No</td><td>3488</td></tr><tr><td>Reference</td><td>Book 24 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Я видел, как Посланник Аллаха ﷺ однажды сидел у Каабы, а потом поднял взор к небу и улыбнулся, после чего трижды повторил: “Да проклянёт Аллах иудеев! Поистине, Аллах запретил им употреблять жир, и тогда они стали продавать его и проедать полученные за него деньги, а ведь если Аллах запрещает людям есть что-то, то это означает, что Он запретил им и продавать его”». А в версии Халида ибн Абдуллаха ат-Таххана не сказано: «Я видел», но говорится: «Да погубит Аллах иудеев!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3488</td></tr><tr><td>Arabic No</td><td>3488</td></tr><tr><td>Reference</td><td>Book 24 Hadith 73</td></tr></tbody></table></div>
 

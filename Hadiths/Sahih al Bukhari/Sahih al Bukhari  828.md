@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin 'Amr bin 'Ata':I was sitting with some of the companions o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari [Khalid] dari [Sa'id] dari [Muhammad bin 'Amru bin Halhalah] dari [Muhammad bin 'Amru bin 'Atha'], dan telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dan [Yazid bin Muhammad] dari [Muhammad bin 'Amru bin Halhalah] dari [Muhammad bin 'Amru bin 'Atha'], bahwasanya dia duduk bersama beberapa orang sahabat Nabi shallallahu 'alaihi wasallam, mereka bercerita tentang shalatnya Nabi shallallahu 'alaihi wasallam. Maka berkatalah [Abu Hamid As Sa'idi], "Aku adalah orang yang paling hafal dengan shalatnya Rasulullah shallallahu 'alaihi wasallam, jika shalat aku melihat beliau takbir dengan mengangkat kedua tangannya sejajar dengan pundaknya, jika rukuk maka beliau menempatkan kedua tangannya pada lutut dan meluruskan punggungnya. Jika mengangkat kepalanya, beliau berdiri lurus hingga seluruh tulung punggungnya kembali pada tempatnya semula. Dan jika sujud maka beliau meletakkan tangannya dengan tidak menempelkan lengannya ke tanah atau badannya, dan dalam posisi sujud itu beliau menghadapkan jari-jari kakinya ke arah kiblat. Apabila duduk pada rakaat kedua, beliau duduk di atas kakinya yang kiri dan menegakkan kakinya yang kanan. Dan jika duduk pada rakaat terakhir, maka beliau memasukkan kaki kirinya (di bawah kaki kananya) dan menegakkan kaki kanannya dan beliau duduk pada tempat duduknya." Dan [Al Laits] telah mendengar dari [Yazid bin Abu Habib], dan Yazid dari [Muhammad bin Halhalah], dan Ibnu Halhalah dari [Ibnu 'Atha']. [Abu Shalih] menyebutkan dari [Al Laits], "Seluruh tulung punggung." [Ibnu Al Mubarak] berkata dari [Yahya bin Ayyub] ia berkata, telah menceritakan kepadaku [Yazid bin Abu Habib] bahwa [Muhammad bin 'Amru] menceritakan kepadanya, "Seluruh tulung punggung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>828</td></tr><tr><td>Arabic No</td><td>828</td></tr><tr><td>Reference</td><td>Book 10 Hadith 222</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Абу Хумайд ас-Са‘иди, да будет доволен им Аллах, сказал (своим товарищам): «Я лучше всех из вас запомнил, как совершал молитву Посланник Аллаха ﷺ. Я видел, что, произнося слова “Аллах велик”, он поднимал руки до уровня плеч, совершая поясной поклон, (сначала) возлагал руки на колени, после чего выпрямлял спину, а поднимая голову (после поясного поклона), выпрямлялся так, что все его позвонки возвращались на свои места. Совершая земной поклон, он опирался ладонями о землю и не касался локтями ни земли, ни тела, а кончики пальцев его ног были направлены в сторону киблы. Усаживаясь после совершения (первых) двух рак‘атов, он садился на свою левую ногу и поднимал вертикально ступню правой, а когда усаживался после совершения последнего рак‘ата, продвигал вперёд свою левую ногу, поднимал правую ступню и сидел на (левой) ягодице»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>828</td></tr><tr><td>Arabic No</td><td>828</td></tr><tr><td>Reference</td><td>Book 10 Hadith 222</td></tr></tbody></table></div>
 

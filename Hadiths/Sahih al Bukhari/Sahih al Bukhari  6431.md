@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:I came to Khabbab while he was building a wall, and he (Khabbab) s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari [Isma'il] dia berkata; telah menceritakan kepadaku [Qais] dia berkata; Saya pernah mengunjungi [Khabbab] ketika dia sedang membangun rumahnya, lalu dia berkata; "Sesungguhnya para sahabat yang telah mendahului kami, mereka telah pergi tanpa mendapatkan bagian sedikitpun dari kehidupan dunia, dan sekiranya kami mendapatkan bagian dunia setelah mereka, maka kami hanya mendapatkan sepetak tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6431</td></tr><tr><td>Arabic No</td><td>6431</td></tr><tr><td>Reference</td><td>Book 81 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал Кайс: «Я пришёл к Хаббабу, когда он строил стену, и он (Хаббаб) сказал: “Поистине, наши товарищи (т.е сподвижники), покинувшие этот мир, он ничего не убавил у них. Поистине, в то время как нам досталось (много богатства) после них , которому мы не можем найти иного места, кроме как на земле (т.е. на строительство или же спасение от его искушения — это смерть)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6431</td></tr><tr><td>Arabic No</td><td>6431</td></tr><tr><td>Reference</td><td>Book 81 Hadith 20</td></tr></tbody></table></div>
 

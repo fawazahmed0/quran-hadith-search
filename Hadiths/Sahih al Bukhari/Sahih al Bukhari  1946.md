@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) was on a journey and saw a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Muhammad bin 'Abdurrahman Al Anshariy] berkata; Aku mendengar [Muhammad bin 'Amru bin Al Hasan bin 'Ali] dari [Jabir bin 'Abdullah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam pernah dalam suatu perjalanan melihat kerumunan orang, yang diantaranya ada seseorang yang sedang dipayungi. Beliau bertanya: "Ada apa ini?" Mereka menjawab: "Orang ini sedang berpuasa". Maka Beliau bersabda: "Tidak termasuk kebajikan berpuasa dalam perjalanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>1946</td></tr><tr><td>Reference</td><td>Book 30 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «(Однажды) Посланник Аллаха ﷺ который находился в пути, увидел толпу людей, (собравшихся вокруг одного) человека и закрывавших его от солнца, и спросил: “Что происходит?” (Люди) ответили: “Он постится”, (и тогда Пророк ﷺ) сказал: “Пост во время путешествия не от благочестия”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>1946</td></tr><tr><td>Reference</td><td>Book 30 Hadith 53</td></tr></tbody></table></div>
 

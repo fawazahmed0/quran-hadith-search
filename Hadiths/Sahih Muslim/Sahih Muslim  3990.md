@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : J'ai entendu l'Envoyé de Dieu (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] dan [Abdurrahman bin Mahdi] keduanya berkata; telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Nadlr bin Anas] dari [Basyir bin Nahik] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika seorang (pedagang) bangkrut, kemudian pemiilik modal mengetahui barangnya masih ada padanya, maka dia berhak atas barang tersebut." Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah menceritakan kepada kami [Sa'id]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [Ayahku] keduanya dari [Qatadah] dengan isnad seperti ini, keduanya menyebutkan, "Maka dia berhak (atas barang tersebut) daripada orang yang berhutang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3990</td></tr><tr><td>Arabic No</td><td>1559.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3990</td></tr><tr><td>Arabic No</td><td>1559.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 29</td></tr></tbody></table></div>
 

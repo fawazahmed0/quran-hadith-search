@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Prophet (ﷺ) said: Do not unveil your thigh, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Sahl Ar Ramli], telah menceritakan kepada kami [Hajjaj] dari [Juraij], ia berkata; aku diberitahu dari [Habib bin Abu Tsabit], dari ['Ashim bin Dhamrah] dari [Ali] bahwa Nabi shallallahu 'alaihi wasallam berkata: "Jangan engkau nampakkan pahamu, dan jangan engkau memandang kepada paha orang hidup maupun mati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3140</td></tr><tr><td>Arabic No</td><td>3140</td></tr><tr><td>Reference</td><td>Book 21 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Али, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не выставляй напоказ бедро своё и не смотри на бедро как живого, так и мёртвого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3140</td></tr><tr><td>Arabic No</td><td>3140</td></tr><tr><td>Reference</td><td>Book 21 Hadith 52</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) passed by a dead goat and said, "There is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khattab bin Utsman] telah menceritakan kepada kami [Muhammad bin Himyar] dari [Tsabit bin 'Ajlan] dia berkata; aku mendengar [Sa'id bin Jubair] berkata; aku mendengar [Ibnu Abbas] radliallahu 'anhuma berkata; "Nabi shallallahu 'alaihi wasallam pernah melewati bangkai seekor kambing, lalu beliau bersabda: "Kenapa pemiliknya tidak memanfa'atkan kulitnya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5532</td></tr><tr><td>Arabic No</td><td>5532</td></tr><tr><td>Reference</td><td>Book 72 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аббас, да будет доволен им Аллах, сказал: «Пророк ﷺ проходил мимо мертвой козы и сказал: “Почему бы её владельцам не извлечь пользу из её шкуры”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5532</td></tr><tr><td>Arabic No</td><td>5532</td></tr><tr><td>Reference</td><td>Book 72 Hadith 57</td></tr></tbody></table></div>
 

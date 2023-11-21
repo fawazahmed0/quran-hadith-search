@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:The Prophet (ﷺ) did not screen himself from me (had never preve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6090</td></tr><tr><td>Arabic No</td><td>6090</td></tr><tr><td>Reference</td><td>Book 78 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Также Джарир сказал): «(Однажды) я пожаловался ему, (Пророку ﷺ) что не могу хорошо держаться на коне, (и узнав об этом,) он ударил меня рукой по груди и сказал: “О Аллах, укрепи его и сделай его ведущим и ведомым по правильному пути!/Аллахумма, саббит-ху ва-дж‘аль-ху хадийан махдийан!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6090</td></tr><tr><td>Arabic No</td><td>6090</td></tr><tr><td>Reference</td><td>Book 78 Hadith 117</td></tr></tbody></table></div>
 

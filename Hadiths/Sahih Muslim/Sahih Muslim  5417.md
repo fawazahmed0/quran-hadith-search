@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Suwaid b. Ghafala said:'Umar addressed us at a place known as Jabiya (Syria) and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin 'Umar Al Qawariri], [Abu Ghassan Al Misma'i], [Zuhair bin Harb], [Ishaq bin Ibrahim], [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar]. [Ishaq] berkata; Telah mengabarkan kepada kami. Sedangkan yang lain berkata; Telah menceritakan kepada kami [Mu'adz bin Hisyam]; Telah menceritakan kepadaku [Bapakku] dari [Qatadah] dari ['Amir Asy Sya'bi] dari [Suwaid bin Ghafalah] bahwa ['Umar bin Al Khaththab] pernah berpidato di Jabiyah sebagai berikut; "Rasulullah shallallahu 'alaihi wasallam melarang memakai sutera kecuali sekedar dua, tiga, atau empat jari saja. Dan telah menceritakan kepada kami [Muhammad bin 'Abdillah Ar Ruzi]; Telah mengabarkan kepada kami [Abdul Wahhab bin 'Atha] dari [Sa'id] dari [Qatadah] dari jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5417</td></tr><tr><td>Arabic No</td><td>2069.09</td></tr><tr><td>Reference</td><td>Book 37 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5417</td></tr><tr><td>Arabic No</td><td>2069.09</td></tr><tr><td>Reference</td><td>Book 37 Hadith 32</td></tr></tbody></table></div>
 

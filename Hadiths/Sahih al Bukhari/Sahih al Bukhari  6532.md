@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The people will sweat so pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdul 'Aziz bin Abdullah] mengatakan, telah menceritakan kepadaku [Sulaiman] dari [Tsaur bin Yazid] dari [Abul Ghaits] dari [Abu Hurairah] radliallahu 'anhu, bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada hari kiamat manusia berkeringat, hingga keringat mereka di bumi setinggi tujuh puluh hasta dan menenggelamkan mereka hingga telinga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6532</td></tr><tr><td>Arabic No</td><td>6532</td></tr><tr><td>Reference</td><td>Book 81 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «В День воскресения люди будут обливаться потом так (сильно), что пот их пропитает собой землю на семьдесят локтей (в глубину, а некоторых из) них он взнуздает, (ибо поднимется до уровня) их ушей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6532</td></tr><tr><td>Arabic No</td><td>6532</td></tr><tr><td>Reference</td><td>Book 81 Hadith 121</td></tr></tbody></table></div>
 

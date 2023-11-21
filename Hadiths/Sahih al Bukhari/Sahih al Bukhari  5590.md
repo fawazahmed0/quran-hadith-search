@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Amir or Abu Malik Al-Ash'ari: that he heard the Prophet (ﷺ) sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5590</td></tr><tr><td>Arabic No</td><td>5590</td></tr><tr><td>Reference</td><td>Book 74 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу ‘Амира (или Абу Малика) аль-Аш‘ари, да будет доволен им Аллах, что он слышал, как Пророк ﷺ говорил: «Обязательно появятся люди из (числа членов) моей общины, которые станут считать дозволенным прелюбодеяния, (ношение) шёлка, (употребление) вина и (использование) музыкальных инструментов. И (некоторые из них) поселятся у края высокой горы, а вечером к ним пригонят их скот и придёт к ним (бедняк, чтобы они помогли ему в его) нужде. Они скажут: “Возвращайся к нам завтра”, но (ночью) Аллах уничтожит (часть из) них, обрушив на них эту гору, других же обратит в обезьян и свиней(, и они останутся в таком виде) до самого Дня воскресения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5590</td></tr><tr><td>Arabic No</td><td>5590</td></tr><tr><td>Reference</td><td>Book 74 Hadith 16</td></tr></tbody></table></div>
 

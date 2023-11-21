@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dharr said:We were in the company of the Prophet (ﷺ). The mu'adhdhin inten
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku [Abu Al Hasan], Abu Dawud berkata; Abu Al Hasan yaitu Muhajir berkata; Saya telah mendengar [Zaid bin Wahb] berkata; Saya telah mendengar [Abu Dzar] berkata; Kami pernah bersama Nabi shallallahu 'alaihi wasallam, kemudian muadzin hendak mengumandangkan adzan Zhuhur, maka beliau bersabda: "Tunggulah hingga cuaca panas menurun (menjadi dingin) ", kemudian muadzin hendak mengumandangkan adzan, maka beliau bersabda: "Tunggulah hingga cuaca panas menurun (menjadi dingin) " beliau mengucapkannya dua atau tiga kali sampai kami melihat bayangan anak bukit, kemudian beliau bersabda: "Sesungguhnya panas yang sangat merupakan hembusan api jahannam, maka apabila panas sangat menyengat, dinginlah dengan mendirikan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (535) Sahih Muslim (616)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>401</td></tr><tr><td>Arabic No</td><td>401</td></tr><tr><td>Reference</td><td>Book 2 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал Абуль-Валид ат-Тайалиси, нам рассказал Шу‘ба, которому сообщил Абуль-Хасан (Абу Дауд сказал: «Абу-ль-Хасан это Мухаджир») который сказал: «Я слышал, как Зейд ибн Вахб говорил: “Я слышал, как Абу Зарр говорил: “(Однажды) когда мы были с Пророком ﷺ и муаззин захотел призвать к полуденной молитве, он сказал: “(Подожди,) пока не станет прохладнее”. Через некоторое время (муаззин снова) захотел призвать людей к молитве, но он (опять) сказал: “(Подожди,) пока не станет прохладнее”, (сказав это) два или три раза, (и мы ждали,) пока не увидели тени холмов. Затем он сказал: “Воистину, сильная жара из-за расширения ада, и поэтому, если усилится жара, откладывайте молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (535) Sahih Muslim (616)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>401</td></tr><tr><td>Arabic No</td><td>401</td></tr><tr><td>Reference</td><td>Book 2 Hadith 11</td></tr></tbody></table></div>
 

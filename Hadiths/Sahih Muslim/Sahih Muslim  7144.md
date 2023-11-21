@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Ja'far bin Yahya bin Khalid] telah menceritakan kepada kami [Ma'nu] telah menceritakan kepada kami [Malik]. Telah menceritakan kepadaku [Harun bin Sa'id Al Aili], teks hadits miliknya, telah menceritakan kepada kami [Abdullah bin Wahab] telah mengkhabarkan kepadaku [Malik bin Anas] dari [Shafwan bin Sulaim] dari [Atha' bin Yasar] dari [Abu Sa'id Al Khudri] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya penghuni surga benar-benar melihat penghuni kamar-kamar di atas mereka seperti kalian melihat bintang terang lewat dari ufuk timur atau barat karena perbedaan keutamaan diantara mereka." Mereka bertanya: Itu tempat-tempat para nabi yang tidak dicapai oleh selain mereka? Beliau menjawab: "Tidak, demi Dzat yang jiwaku berada ditanganNya, mereka adalah orang-orang yang beriman kepada Allah dan membenarkan para rasul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7144</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7144</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

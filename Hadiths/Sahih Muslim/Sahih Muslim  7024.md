@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zayd Ibn Arqam (que Dieu l'agrée) a dit : Au cours d'une expédition que nous a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Al Hasan bin Musa] telah menceritakan kepada kami [Zuhair bin Mu'awiyah] telah menceritakan kepada kami [Abu Ishaq] bahwasanya ia mendengar [Zaid bin Arqam] berkata; "Pada suatu ketika, kami pernah pergi bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan jauh yang pada saat itu para sahabat banyak yang mengalami kesulitan. Kemudian Abdullah bin Ubay berkata kepada teman-temannya; 'Janganlah kalian memberikan perbelanjaan kepada orang-orang yang berada di sisi Rasulullah agar mereka meninggalkan Rasulullah.' Zuhair berkata; 'Lafaz 'Haulihi' (dengan kasrah pada huruf lam) yaitu menurut bacaan yang paling rajih. Abdullah bin Ubay berkata; 'Sesungguhnya jika kita telah kembali ke Madinah, maka orang-orang yang kuat benar-benar akan dapat mengusir orang-orang yang lemah.' (Qs.Al Munaafiquun (63): 8). Zaid bin Arqam berkata; 'Lalu saya pergi menghadap Nabi Muhammad shallallahu 'alaihi wasallam untuk memberitahukan tentang ucapan Abdullah bin Ubay tersebut kepada beliau. Kemudian Rasulullah shallallahu 'alaihi wasallam mengutus seseorang kepada Abdullah bin Ubay untuk menginterogasinya. Namun, ternyata Abdullah bin Ubay bersumpah bahwa ia tidak pernah berkata seperti itu! Dan ia berkata; 'Zaid telah membohongi Rasulullah shallallahu 'alaihi wasallam.' Zaid bin Arqam berkata; 'Tentu saja ucapan orang-orang munafiq itu membuat hati saya menjadi jengkel, hingga Allah Subhanahu wa Ta'ala menurunkan ayat yang membenarkan sikap saya yang berbunyi: 'Apabila orang-orang munafik datang kepadamu… (Qs. Al Munaafiquun (63): 1) '. Zaid bin Arqam berkata; 'Lalu Rasulullah shallallahu 'alaihi wasallam memanggil mereka, orang-orang munafik, untuk dimintakan ampunan kepada Allah, tetapi mereka malah membuang muka.' Allah Subhanahu wa Ta'ala berfirman: 'Orang-orang munafik itu seolah-olah kayu yang tersandar…' (Al Munaafiquun (63): 4). Zaid bin Arqam berkata; 'Mereka itu sebenarnya adalah orang-orang yang secara zhahir kelihatan mempesona
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7024</td></tr><tr><td>Arabic No</td><td>2772</td></tr><tr><td>Reference</td><td>Book 51 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7024</td></tr><tr><td>Arabic No</td><td>2772</td></tr><tr><td>Reference</td><td>Book 51 Hadith 1</td></tr></tbody></table></div>
 

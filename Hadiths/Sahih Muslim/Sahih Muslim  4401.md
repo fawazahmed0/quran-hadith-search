@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I heard Allah's Messenger (ﷺ) as saying: The hand (of a thief)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir] dan [Harun bin Sa'id Al Aili] serta [Ahamad bin Isa] dan ini adalah lafadz Harun dan Ahmad, Abu At Thahir berkata; telah mengabarkan kepada kami, sedangkan yang dua mengatakan; telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Mahramah] dari [Ayahnya] dari [Sulaiman bin Yasar] dari ['Amrah] bahwa dia pernah mendengar ['Aisyah] menceritakan bahwa, dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tangan pencuri tidak dipotong hingga ia mencuri (harta) senilai seperempat dinar atau lebih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4401</td></tr><tr><td>Arabic No</td><td>1684.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4401</td></tr><tr><td>Arabic No</td><td>1684.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 4</td></tr></tbody></table></div>
 

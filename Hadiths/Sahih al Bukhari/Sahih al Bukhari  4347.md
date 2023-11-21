@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) said to Mu'adh bin Jabal when he sen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hibban] Telah mengabarkan kepada kami [Abdullah] dari [Zakaria bin Ishaq] dari [Yahya bin Abdullah bin Shaifi] dari [Abu Ma'bad] -mantan budak [Ibnu Abbas] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada Mu'ad ketika mengutusnya ke Yaman, "Engkau akan mendatangi kaum ahli kitab, Apabilah telah sampai kepada mereka maka serulah mereka untuk bersaksi bahwa tidak Tuhan yang berhak untuk disembah selain Allah dan Muhammad adalah utusan-Nya. Jika mereka ta'at untuk itu, maka beritahukanlah bahwa Allah telah mewajibkan kepada mereka shalat lima waktu sehari semalam. Jika mereka ta'at untuk itu, maka beritahukanlah bahwa Allah telah mewajibkan kepada mereka untuk mengeluarkan zakat harta mereka, di ambil dari orang-orang kaya mereka dan diberikan kepada orang-orang yang miskin dari mereka. Jika mereka taat untuk itu, maka hati-hatilah engkau dari mengambil harta milik mereka yang paling baik, takutlah engkau dengan do'anya orang dizhalimi, sebab antara ia dengan Allah tidak ada yang menghalanginya." Abu Abdullah berkata; 'Thawwa'at, thaa'at, 'Athaa'at secara bahasa adalah 'Ti'tu, dan Tu'tu, serta 'Atha'tu. (Aku ta'at)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4347</td></tr><tr><td>Arabic No</td><td>4347</td></tr><tr><td>Reference</td><td>Book 64 Hadith 374</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, посылая в Йемен Му‘аза ибн Джабаля, да будет доволен им Аллах, Посланник Аллаха ﷺ сказал (ему): «Поистине, ты приедешь к людям из числа обладателей Писания, и когда ты явишься к ним, призови их (принести) свидетельство о том, что нет истинного бога, кроме Аллаха, и что Мухаммад — Посланник Аллаха. Если они подчинятся тебе в этом, сообщи (этим людям), что Аллах вменил им в обязанность (совершение) пяти молитв ежедневно днём и ночью. Если они подчинятся тебе в этом, сообщи им, что Аллах обязал их (выплачивать) закят, который следует брать с богатых среди них и отдавать бедным из их числа. Если же они подчинятся тебе и в этом, то ни в коем случае не бери из имущества людей того, что (наиболее) дорого им. И остерегайся мольбы притеснённого, ибо между ней и Аллахом нет преграды!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4347</td></tr><tr><td>Arabic No</td><td>4347</td></tr><tr><td>Reference</td><td>Book 64 Hadith 374</td></tr></tbody></table></div>
 

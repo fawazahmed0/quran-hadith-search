@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Mas’ud al-Ansari said:when I was beating a servant of mine, I heard a voic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul 'Ala'] ia berkata; telah menceritakan kepada kami [Abu Mu'awiyah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnul Mutsanna] ia berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim At taimi] dari [Bapaknya] dari [Abu Mas'ud Al Anshari] ia berkata, "Aku memukul budak milikku. Lalu aku mendengar suara dari arah belakang, "Ketahuilah wahai Abu Mas'ud! -Ibnul Mutsanna berkata; suara itu berulang hingga dua kali-. Sungguh, Allah lebih mampu atasmu dari pada kamu atas dia." Aku lalu menoleh ke belakang, dan ternyata orang yang berbicara itu adalah Nabi shallallahu 'alaihi wasallam. Aku lalu berkata, "Wahai Rasulullah, sekarang ia merdeka karena Allah Ta'ala." Beliau bersabda: "Sekiranya itu tidak kamu lakukan, sungguh neraka akan meratakanmu, atau beliau mengatakan, "neraka pasti akan membakarmu." Telah menceritakan kepada kami [Abu Kamil] berkata, telah menceritakan kepada kami [Abdul Wahid] dari [Al A'masy] dengan sanad dan makna yang sama dengan hadits tersebut. Abu Mas'ud berkata, "Aku memukul budak hitam milikku dengan cambuk…. dan ia tidak menyebutkan tentang perintah untuk memerdekakan budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5159</td></tr><tr><td>Arabic No</td><td>5159</td></tr><tr><td>Reference</td><td>Book 43 Hadith 387</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5159</td></tr><tr><td>Arabic No</td><td>5159</td></tr><tr><td>Reference</td><td>Book 43 Hadith 387</td></tr></tbody></table></div>
 

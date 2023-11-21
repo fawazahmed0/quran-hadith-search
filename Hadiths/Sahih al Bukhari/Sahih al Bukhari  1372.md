@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:'Aisha said that a Jewess came to her and mentioned the punishme
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan [bapakku] kepadaku nd [Syu'bah]; aku mendengar [Al Asy'ats] dari [Bapaknya] dari [Masruq] dari ['Aisyah radliallahu 'anha] (berkata); ada seorang wanita Yahudi menemuinya lalu menceritakan perihal siksa kubur kemudian berkata (kepada Aisyah radliallahu 'anha); "Semoga Allah melindungimu dari siksa kubur". Kemudian setelah itu 'Aisyah radliallahu 'anha bertanya kepada Rasulullah Shallallahu'alaihiwasallam perihal siksa kubur, maka Beliau menjawab: "Ya benar, siksa kubur itu ada". Kemudian 'Aisyah radliallahu 'anha berkata: "Maka sejak itu aku tidak melihat Rasulullah Shallallahu'alaihiwasallam setelah melaksanakan shalat kecuali Beliau memohon perlindungan dari siksa kubur". [Ghundar] menambhakan: "Siksa kubur itu benar adanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1372</td></tr><tr><td>Arabic No</td><td>1372</td></tr><tr><td>Reference</td><td>Book 23 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что (как-то раз) к ней пришла одна иудейка, которая упомянула наказание в могиле, (а потом) сказала ей: «Да защитит тебя Аллах от мучений могилы!» (После этого) ‘Аиша спросила Посланника Аллаха ﷺ о наказание в могиле, на что он ответил: «Да, наказание в могиле (существует)». ‘Аиша сказала: «После этого я никогда не видела, чтобы Посланник Аллаха ﷺ не просил защиты от наказания в могиле в каждой молитве, которую он совершал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1372</td></tr><tr><td>Arabic No</td><td>1372</td></tr><tr><td>Reference</td><td>Book 23 Hadith 124</td></tr></tbody></table></div>
 

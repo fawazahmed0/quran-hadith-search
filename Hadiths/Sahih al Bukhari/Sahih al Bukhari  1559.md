@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) sent me to some people in Yemen and when I r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Qais bin Muslim] dari [Thoriq bin Syihab] dari [Abu Musa radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam mengutusku kepada suatu kaum di negeri Yaman. Ketika aku sudah kembali aku menemui Beliau ketika Beliau berada di Batha'. Beliau berkata, kepadaku: "Bagaimana cara kamu berihram (memulai hajji)?". Aku menjawab: "Aku berihram sebagaimana Nabi shallallahu 'alaihi wasallam berihram". Beliau bertanya lagi: "Apakah kamu ada membawa hewan qurban?. Aku menjawab: "Tidak". Maka Beliau memerintahkan aku agar aku melakukan thowaf di Baitulloh dan sa'iy antara bukit Ash-Shafa dan Al Marwah lalu memerintahkan aku pula agar aku bertahallul. Lalu aku temui seorang wanita dari keluargaku lalu dia menyisir rambutku atau membasuh kepalaku. Lalu 'Umar radliallahu 'anhu datang dan berkata: "Jika kita mengambil pedoman dari Kitab Allah, sesungguhnya Dia memerintahkan kita agar kita menyempurnakannya (hajji dan 'umrah). Allah subhanahu wata'ala berfirman (Qs Al Baqarah ayat 196) yang artinya: ("Dan semprurnakanlah 'ibadah hajji dan 'umrah kalian karena Allah) ", dan seandainya kita mengambil pedoman dari sunnah Rasulullah Shallallahu'alaihiwasallam, sesungguhnya Beliau tidak bertahallul kecuali setelah menyembelih hewan qurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1559</td></tr><tr><td>Arabic No</td><td>1559</td></tr><tr><td>Reference</td><td>Book 25 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «(В своё время) Пророк ﷺ послал меня к одним людям, жившим в Йемене, а после возвращения я нашёл его в Батхе (близ Мекки). Он спросил: “С каким намерением ты входил в состояние ихрама?” Я ответил: “С тем же, что и Пророк ﷺ”. Он спросил: “Есть ли с тобой жертвенный скот?” Я сказал: “Нет”, и после этого по его велению я совершил обход Каабы и ритуальный бег между (холмами) ас-Сафа и аль-Марва. А затем по его велению я вышел из состояния ихрама и пришёл к одной женщине из моего племени, которая расчесала (или: вымыла) мне голову».\nА потом (туда) прибыл ‘Умар, да будет доволен им Аллах, который сказал: «Если следовать Книге Аллаха, то она велит нам завершать, ведь Аллах сказал: “И завершайте хадж и умру ради Аллаха…”, если же следовать сунне Пророка ﷺ то и он не снял ихрама до тех пор, пока не принёс в жертву скот, который пригнал с собой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1559</td></tr><tr><td>Arabic No</td><td>1559</td></tr><tr><td>Reference</td><td>Book 25 Hadith 45</td></tr></tbody></table></div>
 

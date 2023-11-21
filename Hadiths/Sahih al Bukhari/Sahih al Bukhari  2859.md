@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd Saidi:Allah's Messenger (ﷺ) said "If there is any evil 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Abu Hazim bin Dinar] dari [Sahal bin Sa'ad as-Sa'idiy radliallahu 'anhu] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau ada kesialan pada sesuatu, maka ada pada wanita, kuda dan tempat tinggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2859</td></tr><tr><td>Arabic No</td><td>2859</td></tr><tr><td>Reference</td><td>Book 56 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Сахля ибн Са‘да Са’иди, что Посланник Аллаха ﷺ сказал: «Если в чём-то и есть какое-то дурное предзнаменование, то это в женщине, лошади и доме»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2859</td></tr><tr><td>Arabic No</td><td>2859</td></tr><tr><td>Reference</td><td>Book 56 Hadith 75</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh ibn'Umar (que Dieu l'agrée), le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami ['Ashim bin Muhammad bin Zaid] dari [ayahnya] dia berkata, " [Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Perkara ini (kepemimpinan) akan senantiasa dipegang oleh orang-orang Quraisy sekalipun manusia hanya tinggal dua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4704</td></tr><tr><td>Arabic No</td><td>1820</td></tr><tr><td>Reference</td><td>Book 33 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4704</td></tr><tr><td>Arabic No</td><td>1820</td></tr><tr><td>Reference</td><td>Book 33 Hadith 4</td></tr></tbody></table></div>
 

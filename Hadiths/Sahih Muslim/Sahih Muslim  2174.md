@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm 'Atiyya reported:There came to us the Messenger of Allah (ﷺ) as we were wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Amru An Naqid] semuanya dari [Abu Mu'awiyah] - [Amru] berkata- Telah menceritakan kepada kami [Muhammad bin Khazim Abu Mu'awiyah] Telah menceritakan kepada kami [Ashim Al Ahwal] dari [Hafshah binti Sirin] dari [Ummu 'Athiyyah] ia berkata; Ketika Zainad binti Rasulullah shallallahu 'alaihi wasallam wafat, Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami, "Mandikanlah ia dengan bilangan ganjil, tiga, lima atau tujuh. Dan pada bilangan ke lima, campurkanlah dengan kapur barus atau sesuatu dari jenis kapur barus. Dan jika kalian telah usai memandikannya, maka beritahukanlah padaku." Ummu 'Athiyyah berkata, "Setelah itu, kami memberitahukan kepada beliau, sehingga beliau pun memberikan kainnya dan beliau bersabda: 'Kenakan padanya.'" Dan telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Hisyam bin Hassan] dari [Hafshah binti Sirin] dari [Ummu 'Athiyyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam menemui kami, sementara kami sedang memandikan salah seorang putinya. Beliau bersabda: "Mandikanlah ia dengan bilangan yang ganjil, lima atau lebih dari itu." yakni serupa dengan hadits Ayyub dan 'Ashim. Kemudian di dalam hadits ia mengatakan; "Lalu kami memintal rambutnya dengan tiga pintalan, yakni pada kedua tanduknya dan satu pada ubun-ubunnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2174</td></tr><tr><td>Arabic No</td><td>939.07</td></tr><tr><td>Reference</td><td>Book 11 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Умм ‘Атыййя сказала: «Посланник Аллаха ﷺ пришёл к нам, когда мы мыли одну из его (покойных) дочерей и сказал: “Обмойте её нечётное количество раз: пять раз или более того”. И мы заплели её волосы в три косы: две по бокам и одну спереди»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2174</td></tr><tr><td>Arabic No</td><td>939.07</td></tr><tr><td>Reference</td><td>Book 11 Hadith 52</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما) a dit : "Les gens du Livre lai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Manshur bin Abu Muzahim] dan [Muhammad bin Ja'far bin Ziyad]; [Manshur] berkata; Telah menceritakan kepada kami sedangkan [Ibnu Ja'far]; berkata; Telah mengabarkan kepada kami [Ibrahim] yaitu Ibnu Sa'd dari [Ibnu Syihab] dari ['Ubaidillah bin 'Abdillah] dari [Ibnu 'Abbas] dia berkata; "Para Ahli kitab biasanya menguraikan rambut mereka, sedangkan orang-orang musyrik biasa membelah dua rambut mereka. Rasulullah shallallahu 'alaihi wasallam lebih suka mencontoh para Ahli kitab, selama belum ada perintah tertentu mengenai urusan itu. Karena itu Rasulullah shallallahu 'alaihi wasallam menguraikan rambut kepalanya, tetapi kemudian beliau berubah dengan membelahnya menjadi dua." Dan telah menceritakan kepadaku [Abu Ath Thahir] Telah mengabarkan kepada kami [Ibnu Wahab] Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6062</td></tr><tr><td>Arabic No</td><td>2336.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6062</td></tr><tr><td>Arabic No</td><td>2336.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 120</td></tr></tbody></table></div>
 

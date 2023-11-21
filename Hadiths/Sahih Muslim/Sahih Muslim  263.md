@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Amr Ibn Al-'As (رضي الله عنهما), l'Envoyé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [al-Laits] dari [Ibnu al-Had] dari [Sa'ad bin Ibrahim] dari [Humaid bin Abdurrahman] dari [Abdullah bin Amru bin al-Ash] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Di antara dosa besar adalah seorang laki-laki mencela kedua orang tuanya." Para sahabat bertanya, "Wahai Rasulullah, 'Apakah (mungkin) seorang laki-laki mencela orang tuanya? ' Beliau menjawab: "Ya. Dia mencela bapak seseorang lalu orang tersebut (membalas) mencela bapaknya, lalu dia mencela ibunya, lalu orang tersebut (membalas) mencela ibunya." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin al-Mutsanna] serta [Ibnu Basysyar] semuanya dari [Muhammad bin Ja'far] dari [Syu'bah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Sufyan] keduanya dari [Sa'ad bin Ibrahim] dengan sanad ini seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>263</td></tr><tr><td>Arabic No</td><td>90.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, что (однажды) Посланник Аллаха ﷺ сказал: «К тяжким грехам относится ругань человеком своих родителей» (Люди) спросили: «О Посланник Аллаха, разве (может) человек ругать своих родителей?» (Пророк ﷺ) ответил: «Да! Он ругает чьего-либо отца, а тот (в ответ) ругает его отца, или же он ругает чью-либо мать, а тот (в ответ) ругает его мать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>263</td></tr><tr><td>Arabic No</td><td>90.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 169</td></tr></tbody></table></div>
 

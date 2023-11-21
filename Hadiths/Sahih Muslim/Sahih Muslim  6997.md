@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama reported from Abu Huraira that he narrated that Allah's Messenger (ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr An Naqid] telah menceritakan kepada kami [Isma'il bin Ibrahim bin 'Ulayyah] dari [Hajjaj bin Abu 'Utsman] [Yahya] berkata; dan telah menceritakan kepadaku [Abu Salamah] bahwasanya ['Urwah bin Az Zubair] menceritakan kepadanya, [Asma bintu Abu Bakr] menceritakan kepadanya, ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada seorangpun yang lebih cemburu selain Allah Azza Wa Jalla. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abu Dawud] telah menceritakan kepada kami [Aban bin Yazid] dan [Harb bin Syaddad] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam yang serupa dengan riwayat Hajjaj, yaitu Hadits Abu Hurairah secara khusus, dan dia tidak menyebutkan Hadits Asma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6997</td></tr><tr><td>Arabic No</td><td>2761.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6997</td></tr><tr><td>Arabic No</td><td>2761.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 43</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah be pleeased with him) reported that in the time of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Bukair] dari ['Iyadl bin 'Abdullah] dari [Abu Sa'id Al Khudri] dia berkata, "Seorang laki-laki mendapat musibah pada masa Rasulullah shallallahu 'alaihi wasallam terkait dengan buah yang telah dibelinya, sehingga hutangnya menjadi banyak, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Bersedekahlah kepadanya." Lantas orang-orang bersedekah kepadanya, akan tetapi (harta sedekah itu) belum mencapai jumlah untuk melunasi hutangnya, maka Rasulullah shallallahu 'alaihi wasallam pun bersabda kepada orang yang dihutanginya: "Ambillah apa yang kamu temukan dan tidak ada cara lain bagimu selain cara tersebut." Telah menceritakan kepadaku [Yunus bin Abdul A'la] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Amru bin Al Harits] dari [Bukair bin Al Asyaj] dengan sanad-sanad ini, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3981</td></tr><tr><td>Arabic No</td><td>1556.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3981</td></tr><tr><td>Arabic No</td><td>1556.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 20</td></tr></tbody></table></div>
 

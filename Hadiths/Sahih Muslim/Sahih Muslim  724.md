@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas narrated It on the authority of Maimuna that the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abdullah bin Idris] dari [al-A'masy] dari [Salim] dari [Kuraib] dari [Ibnu Abbas] dari [Maimunah] bahwa Nabi shallallahu 'alaihi wasallam dibawakan handuk, namun beliau tidak mengusapnya, dan mulai bersabda, "(Cara membersihkannya) demikian, maksudnya dipercikkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>724</td></tr><tr><td>Arabic No</td><td>317.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Маймуны, что Пророку ﷺ принесли платок, но он не прикоснулся к нему, а стал стряхивать (с себя) воду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>724</td></tr><tr><td>Arabic No</td><td>317.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 46</td></tr></tbody></table></div>
 

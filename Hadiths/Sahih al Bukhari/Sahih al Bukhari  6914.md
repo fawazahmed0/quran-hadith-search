@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) said, "Whoever killed a Mu'ahid (a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qais bin Hafsh] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Al Hasan] telah menceritakan kepada kami [Mujahid] dari [Abdullah bin Amru] dari Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang membunuh orang kafir yang telah mengikat perjanjian (mu'ahid) dengan pemerintahan muslimin, ia tak dapat mencium harum surga, padahal harum surga dapat dicium dari jarak empat puluh tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6914</td></tr><tr><td>Arabic No</td><td>6914</td></tr><tr><td>Reference</td><td>Book 87 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен им Аллах, что Пророк ﷺ сказал: «Тот кто, убил неверующего, заключившего мирный договор с мусульманами, даже не почувствует благоухание Рая. И ведь поистине, его благоухание распространяется на расстояние сорока лет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6914</td></tr><tr><td>Arabic No</td><td>6914</td></tr><tr><td>Reference</td><td>Book 87 Hadith 52</td></tr></tbody></table></div>
 

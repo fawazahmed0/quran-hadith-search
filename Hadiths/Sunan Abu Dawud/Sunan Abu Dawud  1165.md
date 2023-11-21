@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Ishaq ibn Abdullah ibn Kinanah reported: Al-Walid i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] dan [Utsman bin Abu Syaibah] semisalnya, keduanya berkata; telah menceritakan kepada kami [Hatim bin Ismail] telah berkata kepada kami [Hisyam bin Ishak bin Abdullah bin Kinanah] dia berkata; telah mengabarkan kepadau [ayahku] dia berkata; bahwa AlWalid bin Utbah-atau Utsman bin Uqbah- gubernur Madinah mengutus aku untuk menemui Ibnu Abbas untuk menanyakan kepadanya tentang shalat istisqa yang dilakukan Rasulullah Shollallahu alaihi wasallam, maka [Ibnu Abbas] menjawab bahwa Rasulullah Shollallahu alaihi wasallam keluar untuk melaksanakan shalat istisqa dalam keadaan lusuh, tawadhu' dan khusyu' hingga beliau sampai di tempat shalat- Utsman menambahkan- kemudian beliau naik mimbar -dan keduanya sepakat bahwa- beliau tidak khutbah, akan tetapi beliau berdo'a dan betul-betul khusyu' dalam berdo'a dan beliau bertakbir kemudian beliau shalat dua rakaat sebagaimana shalat Ied. Abu Daud berkata ikhbar bagi Nufaili dan yang benar adalah Ibnu Uqbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1165</td></tr><tr><td>Arabic No</td><td>1165</td></tr><tr><td>Reference</td><td>Book 3 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Хишама ибн Исхака ибн ‘Абдуллаха ибн Кинан: «Мой отец рассказал мне: “Аль-Валид ибн ‘Утба, наместник Медины, послал меня к Ибн ‘Аббасу, чтобы я спросил его о молитве Посланника Аллаха ﷺ при испрашивании дождя, и он сказал: «Однажды Посланник Аллаха ﷺ скромно одетый и с печатью смирения на лице, вышел вместе с людьми, чтобы обратиться к Аллаху с мольбой о ниспослании дождя. При этом он поднялся на минбар, но не произносил проповедей, подобных тем, которые произносите вы, а всё время посвятил мольбам, воззваниям к Аллаху и возвеличиванию Аллаха. Он совершил с ними молитву в два рак‘ата, подобную той, которую совершал в день праздника””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1165</td></tr><tr><td>Arabic No</td><td>1165</td></tr><tr><td>Reference</td><td>Book 3 Hadith 5</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Umar (que Dieu l'agrée), Tariq Ibn Chihâb rapporte que les juifs dis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Khaitsamah bin Harb] dan [Muhammad bin Al Mutsanna], teks milik Ibnu Al Mutsanna, keduanya berkata: Telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Sufyan] dari [Qais bin Muslim] dari [Thariq bin Syihab], orang-orang Yahudi berkata kepada [Umar]: Sesungguhnya kalian membaca suatu ayat yang seandainya diturunkan pada kami pasti kami jadikan hari itu sebagai hari raya: "Sesungguhnya aku tahu saat ayat itu turun, pada hari apa ayat itu turun dan dimana Rasulullah Shallallahu 'alaihi wa Salam saat ayat itu turun. Ayat itu turun di Arafah saat Rasulullah Shallallahu 'alaihi wa Salam wuquf di Arafah. Sufyan berkata: Aku ragu apakah hari jum'at ataukah tidak, maksudnya: "Pada hari ini telah Kusempurnakan untuk kamu agamamu dan telah Ku-cukupkan kepadamu nikmatKu." (Al Maa'idah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7525</td></tr><tr><td>Arabic No</td><td>3017.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7525</td></tr><tr><td>Arabic No</td><td>3017.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 3</td></tr></tbody></table></div>
 

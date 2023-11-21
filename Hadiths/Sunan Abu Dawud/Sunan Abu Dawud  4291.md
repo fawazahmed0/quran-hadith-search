@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurayrah: The Prophet (ﷺ) said: Allah will raise for this communi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Dawud Al Mahri] berkata, telah mengabarkan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Sa'id bin Abu Ayyub] dari [Syarahil bin Yazid Al Mu'arifi] dari [Abu Alqamah] dari [Abu Hurairah] yang aku tahu hadits itu dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Setiap seratus tahun Allah mengutus kepada umat ini seseorang yang akan memperbaharui agama ini (dari penyimpangan)." Abu Dawud berkata, "'Abdurrahman bin Syuraih Al Iskandarani meriwayatkan hadits ini, namun tidak menyebutkan Syarahil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4291</td></tr><tr><td>Arabic No</td><td>4291</td></tr><tr><td>Reference</td><td>Book 39 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, Аллах будет посылать этой общине каждые сто лет того, кто будет возрождать для неё её религию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4291</td></tr><tr><td>Arabic No</td><td>4291</td></tr><tr><td>Reference</td><td>Book 39 Hadith 1</td></tr></tbody></table></div>
 

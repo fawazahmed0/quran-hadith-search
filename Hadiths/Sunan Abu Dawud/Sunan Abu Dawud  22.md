@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amr ibn al-'As: AbdurRahman ibn Hasanah reported: I and Amr ibn al-'As 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdulwahid bin Ziyad] telah menceritakan kepada kami [Al A'masy] dari [Zaid bin Wahb] dari [Abdurrahman bin Hasanah] dia berkata; Saya pernah pergi bersama Amru bin Al Ash menemui Rasulullah shallallahu 'alaihi wasallam, kemudian beliau keluar dengan membawa perisai, lalu menutup diri dengannya dan buang air kecil. Maka kami katakan; "Lihatlah, beliau buang air kecil seperti perempuan buang air kecil." Nabi mendengar hal itu, maka beliau bersabda: "Apakah kalian belum tahu apa yang didapatkan oleh salah seorang Bani Israil? Dahulu bani israil apabila terkena air kencing, maka mereka memotong bagian yang terkena air kencing, lalu orang tersebut melarang mereka dari perbuatan demikian, maka dia pun diadzab di dalam kuburnya." Abu Dawud berkata; [Manshur] berkata dari [Abu Wa'il] dari [Abu Musa] berkenaan dengan hadits ini, dia meyebutkan; (Yakni apabila mengenai) kulit salah seorang dari mereka. Sedangkan ['Ashim] berkata dari [Abu Wa'il] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tubuh salah seorang dari mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>22</td></tr><tr><td>Arabic No</td><td>22</td></tr><tr><td>Reference</td><td>Book 1 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Хасана сказал: «(Однажды) я и ‘Амр ибн аль-‘Ас отправились к Пророку ﷺ и он вышел держа (в руке) кожаный щит. Затем он прикрылся им и помочился. Мы сказали: “Посмотрите на него, он справляет нужду подобно женщине”. (Пророк ﷺ) услышал это и сказал: “А разве вы не знаете, что случилось с одним человеком из числа сынов Исраиля? Когда моча попадала на них, они вырезали то место, куда попадала моча, а он запрещал им делать так, за что был подвергнут наказанию в своей могиле”».Абу Дауд сказал: «Мансур сообщил со слов Абу Ваиля, что Абу Муса в этом хадисе сказал: “кожа одного из них…”. ‘Асым сообщил со слов Абу Ваиля, от Абу Мусы, что Пророк ﷺ сказал: “… тело одного из них”».Версия ‘Асыма сообщившего со слов Абу Ваиля, от Абу Мусы передавшего слова Пророка ﷺ “… тело одного из них”» отвергаемая /мункар/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>22</td></tr><tr><td>Arabic No</td><td>22</td></tr><tr><td>Reference</td><td>Book 1 Hadith 22</td></tr></tbody></table></div>
 

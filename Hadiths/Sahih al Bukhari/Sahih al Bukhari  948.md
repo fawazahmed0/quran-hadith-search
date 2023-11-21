@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:'Umar bought a silk cloak from the market, took it 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Salim bin 'Abdullah] bahwa ['Abdullah bin 'Umar] berkata, "'Umar membawa baju jubah terbuat dari sutera yang dibelinya di pasar, jubah tersebut kemudian ia diberikan kepada Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Wahai Rasulullah, belilah jubah ini sehingga tuan bisa memperbagus penampilan saat shalat 'Ied atau ketika menyambut para delegasi." Rasulullah shallallahu 'alaihi wasallam lalu berkata kepadanya: "Ini adalah pakaian orang yang tidak akan mendapatkan bagian (di akhirat)." Kemudian Umar tidak nampak untuk beberaa waktu lamanya menurut apa yang Allah kehendaki, Rasulullah shallallahu 'alaihi wasallam kemudian mengirimkan kepada 'Umar sebuah jubah yang terbuat dari sutera. Maka Umar pun membawanya menemui Rasulullah shallallahu 'alaihi wasallam seraya berkata: "Wahai Rasulullah, tuan telah memberikan pakaian ini untukku, padahal tuan telah berkata, 'Ini adalah pakaian orang yang tidak akan mendapatkan bagian (di akhirat) '. Lalu mengapa tuan mengirimnya buat saya?" Maka Rasulullah shallallahu 'alaihi wasallam pun berkata kepadanya: "Juallah, atau beliau mengatakan, 'dengannya engkau bisa memenuhi kebutuhanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>948</td></tr><tr><td>Arabic No</td><td>948</td></tr><tr><td>Reference</td><td>Book 13 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар сказал: «Однажды ‘Умар взял джуббу из парчи, которая продавалась на рынке, принес ее Посланнику Аллаха ﷺ и сказал: “О, Посланник Аллаха, купи эту одежду, чтобы надевать ее по праздникам, а также для встречи прибывающих к тебе делегаций”. Посланник Аллаха ﷺ сказал: “Такую одежду носит лишь тот, у кого нет удела в мире вечном!” Некоторое время спустя Посланник Аллаха ﷺ отправил ему шелковую джуббу, ‘Умар пришел с ней к Посланнику Аллаха ﷺ и сказал: “О, Посланник Аллаха! Поистине, ты сказал: “Такую одежду носит лишь тот, у кого нет удела в мире вечном!” А сам отправил мне эту джуббу!?” (На это) Посланник Аллаха ﷺ ответил: “Продай её или воспользуйся ей в своих нуждах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>948</td></tr><tr><td>Arabic No</td><td>948</td></tr><tr><td>Reference</td><td>Book 13 Hadith 1</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdul-Malik b. Shu'aib narrated this hadith on the authority of Abu Huraira that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>203</td></tr><tr><td>Arabic No</td><td>57.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «Поистине, Посланник Аллаха ﷺ сказал: “Когда прелюбодей совершает прелюбодеяние…”». Далее он рассказал хадис подобно предыдущему, упомянув “отнимание силой”, но не упоминая “что-то ценное”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>203</td></tr><tr><td>Arabic No</td><td>57.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 110</td></tr></tbody></table></div>
 

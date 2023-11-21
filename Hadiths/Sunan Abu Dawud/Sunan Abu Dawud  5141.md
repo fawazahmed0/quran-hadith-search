@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ja'far bin Ziyad] ia berkata; telah mengabarkan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abbad bin Musa] keduanya berkata; telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Bapaknya] dari [Humaid bin 'Abdurrahman] dari [Abdullah bin Amru] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di antara dosa yang terbesar adalah seorang laki-laki yang melaknat kedua orang tuanya." Beliau ditanya, "Wahai Rasulullah, bagaimana mungkin seorang laki-laki melaknat kedua orang tuanya?" beliau menjawab: "Ia melaknat bapak orang lain, hingga orang itu ganti melaknat bapaknya. Ia melaknat ibu orang lain, hingga orang itu ganti melaknat ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5973) Sahih Muslim (90)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5141</td></tr><tr><td>Arabic No</td><td>5141</td></tr><tr><td>Reference</td><td>Book 43 Hadith 369</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «Поношение человеком своих родителей относится к числу тягчайших грехов». Люди спросили: «О Посланник Аллаха, да разве (может) человек поносить собственных родителей?» Он сказал: «Да, (так может получиться, если) станет он поносить отца (другого) человека, а тот примется ругать его отца, и (если) станет он поносить мать (другого) человека, а тот примется ругать его мать!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5973) Sahih Muslim (90)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5141</td></tr><tr><td>Arabic No</td><td>5141</td></tr><tr><td>Reference</td><td>Book 43 Hadith 369</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:I came to Khabbab who had been branded with seven brands(1) and he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6349</td></tr><tr><td>Arabic No</td><td>6349</td></tr><tr><td>Reference</td><td>Book 80 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Кайс сказал: «Однажды я пришёл к Хаббабу ибн аль-Аратту, да будет доволен им Аллах. Ему сделали прижигания тела в семи местах, и он сказал: “Если бы Посланник Аллаха ﷺ не запретил нам желать смерти, то, поистине, я пожелал бы её!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6349</td></tr><tr><td>Arabic No</td><td>6349</td></tr><tr><td>Reference</td><td>Book 80 Hadith 46</td></tr></tbody></table></div>
 

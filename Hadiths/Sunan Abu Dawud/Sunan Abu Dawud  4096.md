@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ikrimah said that he saw Ibn Abbas putting on lower garment, letting the hem on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Muhammad bin Abu Yahya] ia berkata; telah menceritakan kepadaku [Ikrimah] Bahwasanya ia pernah melihat [Ibnu Abbas] mengenakan sarung, ia meletakkan ujung sarungnya mulai dari arah depan hingga ujung telapak kakinya dengan meninggikan bagian belakang. Aku lalu bertanya, "Kenapa engkau memakai sarung seperti ini?" ia menjawab, "Aku melihat Rasulullah shallallahu 'alaihi wasallam memakai sarung seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4096</td></tr><tr><td>Arabic No</td><td>4096</td></tr><tr><td>Reference</td><td>Book 34 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Икримы, что он видел, как Ибн ‘Аббас, надевая свой изар, смотрел, чтобы его полы легли на его ступни, а потом поднимал его сзади: «Я спросил его: “Почему ты надеваешь изар таким образом?” Он ответил: “Я видел, что Посланник Аллаха ﷺ надевал его так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4096</td></tr><tr><td>Arabic No</td><td>4096</td></tr><tr><td>Reference</td><td>Book 34 Hadith 77</td></tr></tbody></table></div>
 

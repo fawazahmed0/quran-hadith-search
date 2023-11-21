@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When the Prophet (ﷺ) distribute the war booty of Hunain, a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4335</td></tr><tr><td>Arabic No</td><td>4335</td></tr><tr><td>Reference</td><td>Book 64 Hadith 364</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ разделил (между людьми) военную добычу Хунайна, (и увидев это,) один человек из ансаров воскликнул: “Поистине, такой раздел (был сделан) не ради Аллаха!” Тогда я пришёл к Пророку ﷺ и передал (ему слова этого человека. Выслушав меня, он) разгневался так, что его лицо изменилось, после чего он сказал: “Да помилует Аллах Мусу! Он подвергался ещё большим обидам, чем этим, но он терпел!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4335</td></tr><tr><td>Arabic No</td><td>4335</td></tr><tr><td>Reference</td><td>Book 64 Hadith 364</td></tr></tbody></table></div>
 

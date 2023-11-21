@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "Do good deeds properly, sincerely and m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Muhammad bin Az Zabriqan] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Abu Salamah bin Abdurrahman] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Beramalah sesuai sunnah (istiqamah) dan berlaku imbanglah, dan berilah kabar gembira, sesungguhnya seseorang tidak akan masuk surga karena amalannya." Para sahabat bertanya; 'Begitu juga dengan engkau wahai Rasulullah? ' Beliau bersabda: 'Begitu juga denganku, kecuali bila Allah meliputi melimpahkan rahmat dan ampunan-Nya kepadaku.' Perawi berkata; aku kira dari [Abu An Nadlr] dari [Abu Salamah] dari [Aisyah]. ['Affan] mengatakan; telah menceritakan kepada kami [Wuhaib] dari [Musa bin 'Uqbah] dia berkata; saya mendengar [Abu Salamah] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam dengan redaksi "saddidu (beristiqamahlah dalam beramal) wa absyiruu (dan berilah kabar gembira)." Mujahid mengatakan mengenai firman Allah "Qaulan sadida" yaitu berkataan yang benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6467</td></tr><tr><td>Arabic No</td><td>6467</td></tr><tr><td>Reference</td><td>Book 81 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что она сказала: «Пророк ﷺ сказал: “Совершайте (благие дел) должным образом, искренне (и умеренно), и радуйте, так как, поистине, никого в Рай не введут его (праведные) дела”. Они спросили: “И даже тебя, о Посланник Аллаха ﷺ?” Он сказал: “И даже меня, если только Аллах не окажет мне (Свое) прощение и милость”». \n(Также) передается от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «...придерживайтесь правильного и радуйте». Сказал Муджахид: «...слово правильное» (сура “ан-Ниса”, аят 9) — (т.е. под словом) правильное (иметься ввиду) правдивое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6467</td></tr><tr><td>Arabic No</td><td>6467</td></tr><tr><td>Reference</td><td>Book 81 Hadith 56</td></tr></tbody></table></div>
 

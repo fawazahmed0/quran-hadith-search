@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:We used to practice coitus interrupt us during the lifetime of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5207</td></tr><tr><td>Arabic No</td><td>5207</td></tr><tr><td>Reference</td><td>Book 67 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщатся, что Джабир сказал: «Во времена Пророка ﷺ мы предохранялись (путем /‘азль/, т.е. извлечения полового члена из влагалища до того, как происходит эякуляция)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5207</td></tr><tr><td>Arabic No</td><td>5207</td></tr><tr><td>Reference</td><td>Book 67 Hadith 141</td></tr></tbody></table></div>
 

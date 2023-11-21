@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] katanya; aku menyetorkan hapalan kepada [Malik] dari [Abu Zanad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda; Di antara kalian ada malaikat yang bergantian di waktu malam dan siang, mereka berkumpul ketika shalat fajar dan shalat ashar, lantas malaikat yang bermalam naik dan Tuhan mereka menanyai mereka -sekalipun Dia paling tahu terhadap mereka- bagaimana kalian tinggalkan hamba-hamba-Ku? Jawab mereka; "Kami tinggalkan mereka dalam keadaan shalat, dan kami datangi mereka juga dalam keadaan shalat." Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Di antara kalian ada malaikat yang bergantian… seperti hadis Abu Zanad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1432</td></tr><tr><td>Arabic No</td><td>632.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 265</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Ангелы, пребывающие среди вас ночью, сменяют тех, кто находится среди вас днём, а встречаются они друг с другом во время утренней и послеполуденной молитв. После этого те (ангелы), которые провели среди вас ночь, возносятся (к небесам), и их Господь, знающий о (положении людей) лучше (ангелов), спрашивает их: “В каком (положении) оставили вы рабов Моих?”, а они отвечают: “Мы покинули их, когда они молились, и когда мы пришли к ним, они (тоже) молились”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1432</td></tr><tr><td>Arabic No</td><td>632.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 265</td></tr></tbody></table></div>
 

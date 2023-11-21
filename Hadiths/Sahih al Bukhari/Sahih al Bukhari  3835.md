@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A black lady slave of some of the 'Arabs embraced Islam and she 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Farwah bin Abu Al Maghra'] telah mengabarkan kepada kami ['Ali bin Mushir] dari [Hisyam] dari [bapaknya] dari ['Aisyah] radliallahu 'anha berkata; Ada seorang wanita berkulit hitam yang bekerja dengan beberapa orang Arab yang telah masuk Islam. Wanita itu memiliki rumah kecil lagi sempit di dekat masjid. 'Aisyah radliallahu 'anha melanjutkan; Dia pernah datang lalu bercerita di hadapan kami. Jika telah selesai dari ceritanya dia bersya'ir; Peristiwa selendang adalah salah satu dari keajaiban Rabb kami. Sungguh peristiwa itu terjadi di negeri kafir yang kemudian Allah menyelamatkan aku. Tatkala dia terus saja bersya'ir, 'Aisyah bertanya kepadanya; "Apakah hari selendang itu?". Wanita itu berkata; "Pernah ada seorang anak wanita keluar kepada sebagian keluargaku dengan membawa selendang yang terbuat dari kulit. Kemudian selendang tersebut terjatuh darinya, tiba-tiba seekor burung menyambar dan mengambilnya karena mengira selendang itu daging. Tetapi orang-orang menuduh aku dan menyiksa aku hingga mereka menggeladahku dari bagian depanku. Ketika mereka berada di sekelilingku dan aku dalam keadaan gundah tiba-tiba burung itu datang dan dan berputar-putar di atas kepala kami, kemudian melemparkannya. Orang-orang pun mengambil selendang tersebut. Maka aku berkata kepada mereka; Itulah yang kalian tuduhkan kepadaku padahal aku berlepas diri dari tuduhan itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3835</td></tr><tr><td>Arabic No</td><td>3835</td></tr><tr><td>Reference</td><td>Book 63 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(В своё время) чернокожая женщина, принадлежавшая одному арабскому племени, приняла ислам. В мечети у неё была палатка (или: маленькая хижина), и она часто приходила поговорить со мной. Закончив свой рассказ, она всё время произносила (такие стихи):\n— А день перевязи — одно из чудес Господа нашего;\nпоистине, Он вызволил меня из страны неверия!\n(Однажды) я спросила её: “Что это за день перевязи?” Она сказала: “Однажды (из дома) вышла девочка из числа моих хозяев, на которой была кожаная перевязь. Эта перевязь упала с неё, после чего над ней пролетел коршун, и приняв её за (кусок) мяса, схватил её. Люди обвинили (в краже) меня и стали мучать меня так, что они обыскивали меня, обнажив даже мои срамные части. Когда я (стояла среди них) в таком положении, над нами снова пролетел этот же коршун и бросил перевязь, а они подобрали её. Тогда я сказала (им): “Вот то, в краже чего вы меня обвиняли, а я была к этому непричастна”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3835</td></tr><tr><td>Arabic No</td><td>3835</td></tr><tr><td>Reference</td><td>Book 63 Hadith 60</td></tr></tbody></table></div>
 

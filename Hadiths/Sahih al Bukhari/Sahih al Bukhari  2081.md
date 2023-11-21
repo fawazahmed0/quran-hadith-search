@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud:An Ansari man, called Abu Shu'aib, came and told his butcher
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] berkata, telah menceritakan kepadaku [Syaqiq] dari [Abu Mas'ud] berkata: "Ada seorang Anshar yang biasa dipanggil dengan Abu Syu'aib datang dan berkata, kepada seorang pembantunya yang tukang jagal: "Buatkan aku makanan untuk lima orang, karena aku ingin mengundang Nabi shallallahu 'alaihi wasallam sebagai tamu kelimaku. Sungguh aku melihat rasa lapar dari raut muka Beliau". Lalu ia mengundang mereka, kemudian datanglah seseorang bersama mereka, lalu Nabi shallallahu 'alaihi wasallam berkata: "Sesungguhnya orang ini mengikuti kami, jika engkau mau mengizinkan maka izinkanlah dan jika engkau ingin agar dia pulang maka ia akan pulang". Lalu Abu Syu'aib berkata: "Iya, bahkan aku telah mengizinkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2081</td></tr><tr><td>Arabic No</td><td>2081</td></tr><tr><td>Reference</td><td>Book 34 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд сказал: «Однажды пришёл один человек из ансаров, которого звали Абу Шу‘айб, и сказал своему рабу-мяснику: “Приготовь мне еды, которой будет достаточно для пятерых, ведь я хочу пригласить Пророка ﷺ и ещё четыре человека, так как я увидел признаки голода на его лице”. Он пригласил их, но с ними пришел ещё один человек. Пророк ﷺ сказал (Абу Шу‘айбу): “Этот человек последовал за нами, и если хочешь, то (можешь) позволить ему (войти), а если хочешь, чтобы он вернулся, он вернётся”. (На это Абу Шу‘айб) сказал: “Нет, я позволяю ему (войти)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2081</td></tr><tr><td>Arabic No</td><td>2081</td></tr><tr><td>Reference</td><td>Book 34 Hadith 34</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Isma’il bin Abi Khalid said I heard ‘Abd Allaah bin Abi Aufa narrated this t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Khalid bin Abdullah], telah menceritakan kepada Kami [Isma'il bin Abu Khalid] dari [Abdullah bin Abu Aufa] bahwa Rasulullah shallAllahu wa'alaihi wa sallam melakukan umrah dan berthawaf di Ka'bah, serta melakukan shalat di belakang maqam dua raka'at. Dan beliau bersama orang yang menutupinya dari orang-orang. Kemudian Abdullah ditanya; apakah Rasulullah shallAllahu wa'alaihi wa sallam memasuki Ka'bah? Ia berkata; tidak. Telah menceritakan kepada Kami [Tamim bin Al Amuntashir], telah mengabarkan kepada Kami [Ishaq bin Yusuf], telah mengabarkan kepada Kami [Syarik], dari [Isma'il bin Abu Khalid], ia berkata; saya mendengar [Abdullah bin Abu Aufa] dengan hadits ini, ia menambahkan kata; kemudian beliau datang ke Shafa dan Marwa kemudian melakukan sa'i antara keduanya sebanyak tujuh kali, kemudian mencukur rambut kepalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1903</td></tr><tr><td>Arabic No</td><td>1903</td></tr><tr><td>Reference</td><td>Book 11 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Исма‘иль ибн Абу Халид передаёт: «Я слышал от ‘Абдуллаха ибн Абу Ауфа этот хадис, но с добавлением: “А потом он направился к холмам Сафа и Марва и пробежал между ними, после чего обрил голову”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1903</td></tr><tr><td>Arabic No</td><td>1903</td></tr><tr><td>Reference</td><td>Book 11 Hadith 183</td></tr></tbody></table></div>
 

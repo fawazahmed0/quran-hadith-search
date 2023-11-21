@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Musa bin Abi 'Aisha:Sa'id bin Jubair reported from Ibn 'Abbas (regardin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dari [Musa bin Abu 'Aisyah] dari [Sa'id bin Jubair] dari [Ibn Abbas] tentang firman Allah: '(Jangan kamu gerakkan lisanmu) ' (Qs. Al Qiyamah: 16), Ibnu Abbas katakan, "Nabi shallallahu 'alaihi wasallam merasa sangat kepayahan mengikuti wahyu yang diturunkan sehingga beliau gerak-gerakkan kedua bibirnya." Ibnu Abbas lantas berkata kepadaku, "Maka aku gerakkan keduanya bagimu sebagaimana Rasulullah shallallahu 'alaihi wasallam menggerakkan keduanya." Sa'id berkata, "Dan aku menggerakkan keduanya sebagaimana Ibnu Abbas menggerakkan keduanya, " maka ia gerakkan kedua bibirnya sehingga Allah menurunkan ayat: '(Jangan engkau gerakkan lisanmu untuk membacanya agar kamu tergesa-gesa, sebab Kewajiban Kamilah yang mengumpulkannya dan membacakannya) ' (Qs. Al Qiyamah: 16-17). Ibn Abbas berkata, 'Mengumpulkan yang dimaksud adalah, mengumpulkan di dadamu, lantas kamu membacanya: '(Maka jika kami telah membacanya, maka ikutilah bacaannya) ' (Qs. Al Qiyamah: 18). Ibn 'Abbas berkata, 'Maka dengar dia baik-baik dan diamlah, kemudian Kami berkewajiban agar kamu mampu membacanya." Ibn Abbas berkata, "Jika Jibril menemui Rasulullah shallallahu 'alaihi wasallam, maka beliau mendengarnya baik-baik, dan jika Jibril telah pulang, maka beliau membacanya sebagaimana Jibril membacakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7524</td></tr><tr><td>Arabic No</td><td>7524</td></tr><tr><td>Reference</td><td>Book 97 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘ид Ибн Джубайр передаёт, что, (‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, толкуя слова Всевышнего: «Не шевели своим языком» (Сура «аль-Кыяма», аят 16), сказал: «Пророк ﷺ всегда испытывал напряжение во время ниспослания (откровений), что заставляло его шевелить губами».\n(Са‘ид Ибн Джубайр сказал:) Ибн ‘Аббас сказал мне: «Я шевелю ими для вас так, как ими шевелил Посланник Аллаха ﷺ». Са‘ид же сказал: «Я же шевелю ими так, как ими шевелил Ибн ‘Аббас», — и он пошевелил своими губами. (Ибн ‘Аббас сказал): «И Аллах Всемогущий и Великий ниспослал (аяты, в которых говорилось): “Не шевели своим языком, (повторяя его,) чтобы поскорее запомнить это! Поистине, это Нам надлежит собрать и прочесть его”». Ибн ‘Аббас сказал: «(Это значит:) он будет собран в твоей груди, а потом, ты прочтёшь его». (Что же касается слов Аллаха) “А когда Мы прочитаем его, следуй его чтению”, то Ибн ‘Аббас сказал: «(Это значит:) слушай его внимательно и храни молчание. Далее, поистине, Нам надлежит сделать так, чтобы ты читал его».\nИбн ‘Аббас сказал: «И после этого, когда Джибриль приходил к Посланнику Аллаха ﷺ он слушал (его), а когда Джибриль уходил, Пророк ﷺ читал (аяты Корана) так же, как читал их он»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7524</td></tr><tr><td>Arabic No</td><td>7524</td></tr><tr><td>Reference</td><td>Book 97 Hadith 149</td></tr></tbody></table></div>
 

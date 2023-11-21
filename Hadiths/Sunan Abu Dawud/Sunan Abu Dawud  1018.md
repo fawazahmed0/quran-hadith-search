@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Maslamah bin Muhammad] keduanya berkata; telah menceritakan kepada kami [Khalid Al Khaddza'] telah menceritakan kepada kami [Abu Qilabah] dari [Abu Al Muhallab] dari ['Imran bin Hushain] dia berkata; "Rasulullah shallallahu 'alaihi wasallam salam di raka'at ke tiga shalat Ashar, kemudian beliau masuk (rumah)." -Katanya dari Maslamah- (beliau masuk) kamar, lalu seorang laki-laki yang bernama Khirbaq -seorang yang memiliki tangan panjang- berdiri, ia bertanya kepada Rasulullah shallallahu 'alaihi wasallam: "Apakah shalat telah di qashar wahai Rasulullah?" beliau lalu keluar dengan marah sambil memegang kainnya, beliau bersabda: "Apakah perkataannya benar?" mereka menjawab; "Ya, benar." Maka beliau mengerjakan raka'at yang tertinggal kemudian beliau salam, setelah itu beliau sujud dua kali kemudian salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (574)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>1018</td></tr><tr><td>Reference</td><td>Book 2 Hadith 629</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что однажды Посланник Аллаха ﷺ совершая послеполуденную молитву, произнёс слова таслима после третьего рак‘ата, после чего зашёл в дом кого-то из своих жён, и один человек с длинными руками по прозвищу Хирбак спросил: «Молитва была сокращена, о Посланник Аллаха?» И (Посланник Аллаха ﷺ) вышел разгневанным, волоча свою накидку, и сказал: «Он говорит правду?» Люди ответили: «Да». Тогда он совершил оставшийся рак‘ат, произнёс слова таслима, совершил два земных поклона и снова произнёс слова таслима
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (574)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>1018</td></tr><tr><td>Reference</td><td>Book 2 Hadith 629</td></tr></tbody></table></div>
 

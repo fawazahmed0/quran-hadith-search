@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uqba b. 'Amir reported:We were entrusted with the task of tending the camels. On
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim bin Maimun] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Muawiyah bin Shalih] dari [Rabi'ah] -yaitu Ibnu Yazid- dari [Abu Idris al-Khaulani] dari [Uqbah bin Amir]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepadaku [Abu Utsman] dari [Jubair bin Nufair] dari [Uqbah bin Amir] dia berkata, "Dahulu kami menggembala unta, lalu datanglah malam, maka aku mengistirahatkannya dengan memberikan makan malam. Lalu aku mendapati Rasulullah shallallahu 'alaihi wasallam berdiri berbicara kepada manusia. Dan dari sebagian sabdanya yang aku dengar adalah: 'Tidaklah seorang muslim berwudlu lalu menyempurnakan wudlunya, kemudian mendirikan shalat dua rakaat dengan menghadapkan hati dan wajahnya, kecuali surga wajib diberikan kepadanya." Uqbah berkata, 'Maka aku berkata, 'Alangkah baiknya ini, ' tiba-tiba seorang pembicara di depanku berkata, 'Yang sebelumnya adalah lebih bagus'. Saat aku lihat, ternyata dia adalah [Umar].' Uqbah lalu berkata, 'Sesungguhnya aku telah melihatmu datang barusan." Umar lalu menyebutkan, "Tidaklah salah seorang di antara kalian berwudlu, lalu menyampaikan wudlunya atau menyempurnakan wudlunya kemudian dia bersaksi bahwa tidak ada tuhan yang berhak disembah selain Allah, dan bahwa Muhammad adalah hamba dan utusan-Nya melainkan pintu surga yang delapan akan dibukakan untuknya. Dia masuk dari pintu manapun yang dia kehendaki'." Dan telah menceritakannya kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Zaid bin al-Hubab] telah menceritakan kepada kami [Muawiyah bin Shalih] dari [Rabi'ah bin Yazid] dari [Abu Idris al-Khaulani] dan [Abu Utsman] dari [Jubair bin Nufair bin Malik al-Hadlrami] dari [Uqbah bin Amir al-Juhani] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda…Lalu dia menyebutkan hadits semisalnya, hanya saja dia menyebutkan, "Barangsiapa bersaksi bahwa tidak ada tuhan yang berhak disembah selain Allah semata, tidak ada sekutu bagi-Nya, dan saya bersaksi bahwa Muhammad adalah hamba dan utusan-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>553</td></tr><tr><td>Arabic No</td><td>234.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба ибн ‘Амир сказал: «На нас была возложена обязанность присматривать за верблюдами. (Однажды, когда) подошла моя очередь, я пригнал их вечером (с пастбища) и увидел Посланника Аллаха ﷺ, который стоял (неподалёку) и разговаривал с людьми, и успел услышать, как он сказал: “Любой , мусульманин, который (сначала) хорошо совершит омовение, а потом молитву в два рак‘ата, обратившись к (этим рак‘атам) сердцем и лицом, обязательно попадёт в Рай”. (Услышав это), я воскликнул: “Как прекрасны эти (слова)!” а человек, стоявший передо мной, сказал: “Но ещё прекраснее то, (что было сказано) раньше”. Я посмотрел (на него), и оказалось, что это ‘Умар , который сказал: “Я видел, что ты пришёл только сейчас”. И он сказал, (что до этого Пророк ﷺ сказал): “Перед любым из вас, кто будет тщательно (или: должным образом) совершать омовение, а потом говорить: “Свидетельствую, что нет бога, достойного поклонения, кроме Аллаха, и что Мухаммад Его раб и Его Посланник”. /Ашхаду ан ля иляха илля-Ллаху ва анна Мухаммадан ‘абду-ху ва расулю-ху/, непременно откроются восемь врат Рая, и он войдёт (туда), через какие пожелает”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>553</td></tr><tr><td>Arabic No</td><td>234.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 20</td></tr></tbody></table></div>
 

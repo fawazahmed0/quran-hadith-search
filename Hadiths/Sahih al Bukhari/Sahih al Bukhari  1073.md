@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:I recited An-Najm before the Prophet, yet he did not pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan kepada kami [Ibnu Abu Dza'bi] berkata, telah menceritakan kepada kami [Yazid bin 'Abdullah bin Qusaith] dari ['Atho' bin Basar] dari [Zaid bin Tsabit radliallahu 'anhu] berkata: "Aku pernah membaca surah An-Najm untuk Nabi shallallahu 'alaihi wasallam dan Beliau tidak melakukan sujud tilawah padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1073</td></tr><tr><td>Arabic No</td><td>1073</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Зейда бин Сабита, да будет доволен им Аллах, что (однажды) в присутствии Пророка ﷺ он прочитал (суру, начинающуюся словами) «Клянусь звездой», однако (Пророк ﷺ) не совершил земного поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1073</td></tr><tr><td>Arabic No</td><td>1073</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
 

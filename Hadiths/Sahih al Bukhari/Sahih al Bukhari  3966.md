@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:The following Holy Verse:-- "These two opponents (believers & 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Abu Hasyim] dari [Abu Mijlaz] dari [Qais bin 'Ubad] dari [Abu Dzarr] radliallahu 'anhu berkata; "QS al-Hajj ayat 19. yang artinya; "Inilah dua golongan (Mu'min dan kafir) yang bertengkar, mereka saling bertengkar mengenai Rabb mereka" turun tentang enam orang dari Quraisy, yaitu yaitu Ali, Hamzah, 'Ubaidah bin Al Harits, Syaibah bin Rabi'ah, 'Utbah bin Rabi'ah dan Al Walid bin 'Utbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3966</td></tr><tr><td>Arabic No</td><td>3966</td></tr><tr><td>Reference</td><td>Book 64 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «Аят, в котором говориться: “Вот две тяжущиеся группы, которые препирались относительно своего Господа” (сура “аль-Хадж”, аят 19), был ниспослан в отношении шестерых курайшитов: ‘Али, Хамзы, ‘Убайда ибн аль-Хариса, Шейбы ибн Раби’а, ‘Утбы ибн Раби’а и аль-Валида ибн Утба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3966</td></tr><tr><td>Arabic No</td><td>3966</td></tr><tr><td>Reference</td><td>Book 64 Hadith 19</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once one of the wives of the Prophet (ﷺ) did I'tikaf along wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] berkata, telah menceritakan kepada kami [Khalid bin 'Abdullah] dari [Khalid] dari ['Ikrimah] dari ['Aisyah] berkata, "Nabi shallallahu 'alaihi wasallam pernah beri'tikaf bersama dengan sebagian isteri-isterinya, sementara saat itu ia sedang mengalami istihadlah dan bisa melihat adanya darah (yang keluar). Dan kadang diletakkan sebuah baskom di bawahnya lantaran darah tersebut. Dan Ikrimah mengklaim bahwa 'Aisyah melihat cairan berwarna kekuningan, lalu ia berkata, "Seakan ini adalah sesuatu yang pernah dialami oleh fulanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>309</td></tr><tr><td>Arabic No</td><td>309</td></tr><tr><td>Reference</td><td>Book 6 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что время от времени вместе с Пророком ﷺ совершала затворничество (и‘тикаф) какая-нибудь из его жён, у которой могло быть хроническое кровотечение /истихада/. И когда она видела кровь, то она ставила под себя таз.\n(Передатчик хадиса ‘Икрима) утверждал, что когда ‘Аиша увидела желтоватое выделение, она сказала: «Подобно этому увидела та женщина (совершавшая затворничество во время хронического кровотечения)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>309</td></tr><tr><td>Arabic No</td><td>309</td></tr><tr><td>Reference</td><td>Book 6 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid:We were with Ibn 'Abbas and the people mentioned Ad-Dajjal. Som
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dia berkata; telah menceritakan kepadaku [Ibnu Abu 'Adi] dari [Ibnu 'Aun] dari [Mujahid] dia berkata; Kami pernah berada di samping [Ibnu Abbas] radliallahu 'anhuma, lalu orang-orang menyebut-nyebut Dajjal, lantas Ibnu Abbas mengatakan; "Sesungguhnya di antara kedua mata Dajjal tertulis "Kafir", Ibnu Abbas mengatakan; "Namun saya belum pernah mendengar beliau (secara langsung) mengatakan hal itu, akan tetapi beliau (Nabi) mengatakan: "Adapun Ibrahim, maka lihatlah pada teman kalian, sedangkan Musa, ia adalah seorang laki-laki (berkulit) kecoklatan dan bertubuh kekar tengah (menunggang) unta merah yang kendalinya terbuat dari sabut kurma, seolah-olah aku melihat kepadanya ketika menuruni lembah sambil bertalbiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5913</td></tr><tr><td>Arabic No</td><td>5913</td></tr><tr><td>Reference</td><td>Book 77 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджахид сказал: «Однажды когда мы были у Ибн ‘Аббаса, люди упомянули Даджаля, и он сказал: “Меж глаз его будет написано (слово) неверный /кафир/”. Также Ибн ‘Аббас добавил, (что Пророк ﷺ сказал): “Что касается Ибрахима, то, (если вы хотите увидеть его, можете) посмотреть на вашего товарища (который перед вами), что же касается Мусы, то он был смуглым и курчавым и (ездил) на красном верблюде, поводья которого были сделаны из пальмовых волокон, и я будто вижу, как он спускается в долину, произнося тальбию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5913</td></tr><tr><td>Arabic No</td><td>5913</td></tr><tr><td>Reference</td><td>Book 77 Hadith 128</td></tr></tbody></table></div>
 

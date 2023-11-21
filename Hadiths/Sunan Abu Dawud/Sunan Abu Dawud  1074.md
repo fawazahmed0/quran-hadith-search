@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said:the Messenger of Allah (ﷺ) used to recite in the morning pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Mukhawwal bin Rasyid] dari [Muslim Al Bathin] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa dalam shalat shubuh di hari Jum'at, Rasulullah shallallahu 'alaihi wasallam membaca suraj As Sajdah dan HAL ATAA 'ALAL INSAAN HIINUM MINAD DAHRI (surat Al insan)." Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Mukhawwal] dengan sanad dan maksud yang sama. Dia menambahkan; "dalam shalat Jum'at, beliau membaca surat Al Jum'at dan "IDZAA JAA'AKAL MUNAAFIQUUN (surat Al Munafiqun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (879)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1074</td></tr><tr><td>Arabic No</td><td>1074</td></tr><tr><td>Reference</td><td>Book 2 Hadith 685</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ читал во время утренней молитвы /фаджр/ в пятницу суры «Земной поклон» и «Разве не было такого времени, когда человек был безвестен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (879)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1074</td></tr><tr><td>Arabic No</td><td>1074</td></tr><tr><td>Reference</td><td>Book 2 Hadith 685</td></tr></tbody></table></div>
 

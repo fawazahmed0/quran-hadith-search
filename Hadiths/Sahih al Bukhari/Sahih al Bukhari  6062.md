@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:that his father said; "When Allah's Messenger (ﷺ) mentioned wha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Salim] dari [Ayahnya] bahwa ketika Rasulullah shallallahu 'alaihi wasallam menyebutkan tentang kain sarung sebagaimana yang beliau sebutkan, Abu Bakr berkata; "Wahai Rasulullah, salah satu dari kain sarungku yang sebelah selalu terjatuh, " beliau bersabda: "Sesungguhnya kamu tidak termasuk dari mereka (yang menjulurkan kain sarung sampai di bawah mata kaki)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6062</td></tr><tr><td>Arabic No</td><td>6062</td></tr><tr><td>Reference</td><td>Book 78 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим передал от своего отца, что когда Посланник Аллаха ﷺ упомянул об изаре то, что упомянул, Абу Бакр сказал: «О Посланник Аллаха, мой изар спадает с одной стороны…». На что Посланник Аллаха ﷺ ответил: «Ты не из их числа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6062</td></tr><tr><td>Arabic No</td><td>6062</td></tr><tr><td>Reference</td><td>Book 78 Hadith 92</td></tr></tbody></table></div>
 

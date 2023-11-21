@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) judged that the unmarried person wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dari [Abu Hurairah] radliallahu 'anhu, bahwasanya Rasulullah shallallahu 'alaihi wasallam memutuskan orang yang berzina dan dia belum menikah dengan mengasingkan selama setahun dan menegakkan hukuman had baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6833</td></tr><tr><td>Arabic No</td><td>6833</td></tr><tr><td>Reference</td><td>Book 86 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ распорядился в отношении того, кто совершил прелюбодеяние, будучи неженатым, чтобы он был отправлен в изгнание на год и чтобы в отношение него было применено установленное наказание /хадд
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6833</td></tr><tr><td>Arabic No</td><td>6833</td></tr><tr><td>Reference</td><td>Book 86 Hadith 58</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Apostle (ﷺ) saying:If a company of Muslims numbering o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Isa] telah menceritakan kepada kami [Ibnul Mubarak] telah mengabarkan kepada kami [Sallam bin Abu Muthi'] dari [Ayyub] dari [Abu Qilabah] dari [Abdullah bin Yazid] saudara sesusuan Aisyah, dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Mayat yang dishalatkan oleh kaum muslimin dengan jumlah melebihi seratus orang, dan semuanya mendo'akannya, maka do'a mereka untuknya akan dikabulkan." Lalu saya menceritakannya kepada [Syu'aib bin Habhab], maka ia pun berkata; [Anas bin Malik] telah menceritakannya kepadaku dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2198</td></tr><tr><td>Arabic No</td><td>947</td></tr><tr><td>Reference</td><td>Book 11 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Пророк ﷺ сказал: «Если по кому-либо из покойных совершит молитву община мусульман численностью (не менее) ста человек, каждый из которых будет ходатайствовать за него, их ходатайство непременно будет принято»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2198</td></tr><tr><td>Arabic No</td><td>947</td></tr><tr><td>Reference</td><td>Book 11 Hadith 76</td></tr></tbody></table></div>
 

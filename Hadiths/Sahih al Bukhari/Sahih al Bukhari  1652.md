@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hafsa:(On 'Id) We used to forbid our virgins to go out (for 'Id prayer)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ammal bin Hisyam] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Hafshah] berkata: "Dahulu kami melarang anak-anak gadis remaja kami keluar rumah", hingga datang seorang wanita lalu mendatangi Qashra Banu Khalaf lalu aku menemuinya. Kemudian dia menceritakan tentang saudara perempuannya yang menjadi suami seorang dari sahabat Rasulullah Shallallahu'alaihiwasallam yang pernah ikut berperang bersama Nabi Shallallahu'alaihiwasallam sebanyak dua belas peperangan, dan saudaranya telah mendampingi suaminya dalam enam kali peperangan. Saudara perempuannya berkata: "Maka (dalam peperangan itu) kami sering mengurus orang yang sakit dan mengobati orang-orang yang terluka. Saudaraku bertanya kepada Nabi Shallallahu'alaihiwasallam.: "Wahai Rasulullah, apakah berdosa bila seorang dari kami tidak keluar rumah karena tidak memiliki jilbab?" Beliau Shallallahu'alaihiwasallam menjawab: "Hendaklah temannya meminjamkan jilbabnya dan agar mereka dapat menyaksikan kebaikan dan mendo'akan Kaum Muslimin". Berkata, Hafshah: "Ketika [Ummu 'Athiyah] datang aku menemuinya lalu aku bertanya atau dia berkata, lalu kami bertanya kepadanya. Dan setiap kali dia menceritakan tentang Rasulullah Shallallahu'alaihiwasallam dia selalu mengatakan demi bapakku. Kami bertanya: "Apakah kamu pernah mendengar Rasulullah Shallallahu'alaihiwasallam berkata, tentang ini dan ini?". Dia menjawab: "Iya, demi bapakku". Beliau bersabda: "Keluarkanlah para gadis remaja dan wanita-wanita yang dipingit di rumah dan wanita yang sedang haidh agar mereka dapat menyaksikan kebaikah dan mendo'akan Kaum Muslimin namun para wanita yang sedang haidh harus dijauhkan dari tempat shalat". Aku (Hafshah) bertanya: "Juga wanita yang sedang haidh?" Dia berkata: "Bukankah mereka juga hadir di 'Arafah, dan menyaksikan ini dan itu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 25 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хафса сказала: «Раньше мы запрещали нашим молодым девушкам выходить в день праздника, (но однажды) во дворец бани халафа приехала одна женщина, и я отправилась к ней. Она рассказала, что её сестра была замужем за одного из сподвижников Посланника Аллаха ﷺ который участвовал в двенадцати битвах вместе с посланником Аллаха ﷺ и что её сестра была со своим мужем в шести из них. Она (сестра) сказала: “Мы лечили раненых и ухаживали за больными”. Однажды она спросила Посланника Аллаха ﷺ: “Если у женщины нет джильбаба (покрывало), будет ли на ней грех, если она не выйдет (в день праздника)?” Пророк ﷺ ответил: «Пусть её подруга поделится с ней своим, и пусть принимают участие в благих делах и обращениях верующих к Аллаху (со своими мольбами)». Когда прибыла Умм ‘Атыя, да будет доволен ею Аллах, мы спросили её — и практически всякий раз, когда она упоминала Посланника Аллаха ﷺ она говорила: “Пусть мой отец будет выкупом за него”, — мы спросили: “Слышала ли ты, как Посланник Аллаха ﷺ говорит то-то и то-то?” Она ответила: “Да, пусть мой отец будет выкупом (за Пророка ﷺ). Пророк ﷺ сказал: “Пусть молодые девушки и сидящие за занавесками и те, у которых начались месячные, выходят (в день праздника) и принимают участие в благих делах и обращениях верующих к Аллаху (со своими мольбами). Однако те, у кого начались месячные должны держаться в стороне от места совершения молитвы”». Хафса сказала: «Я спросила её: “(Даже) те, у кого начались месячные…?” Она ответила: “Да. А разве во время месячных они не принимают участия в стоянии на ‘Арафате и не присутствуют там-то и там-то?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 25 Hadith 133</td></tr></tbody></table></div>
 

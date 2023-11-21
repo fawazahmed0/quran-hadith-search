@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying:There died today t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] dari [Atha'] dari [Jabir bin Abdullah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada hari ini, seorang hamba Allah yang shalih Ashmahah meninggal dunia." Akhirnya beliau berdiri dan mengimami kami dan shalat (ghaib) atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2208</td></tr><tr><td>Arabic No</td><td>952.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн ‘Абдуллах сказал: «Когда умер ан-Наджаши, Посланник Аллаха ﷺ сказал: “Сегодня умер праведный раб Аллаха, Асхама”. После чего он встал и совершил с нами (заупокойную) молитву над ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2208</td></tr><tr><td>Arabic No</td><td>952.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 86</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Umar reported the Prophet (ﷺ) as saying:If a man is shared by two men, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Sufyan] dari ['Amru bin Dinar] dari [Salim] dari [Ayahnya] dan sampai kepada Nabi shallallahu 'alaihi wasallam, "Jika seorang budak milik dua orang, kemudian salah seorang dari mereka membebaskan bagian yang menjadi miliknya, jika ia masih memiliki kelebihan harta maka budak tersebut hendaklah dihargai (tidak dilebihkan atau dikurangi), kemudian dibebaskan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2521) Sahih Muslim (1501 After 1667)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3947</td></tr><tr><td>Arabic No</td><td>3947</td></tr><tr><td>Reference</td><td>Book 31 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим передаёт от своего отца, что Пророк ﷺ сказал: «Если раб принадлежит двоим и один из них освободил свою долю, то, если он достаточно состоятелен, он должен выплатить второму оставшуюся часть стоимости раба, не завышая её и не занижая, после чего тот считается свободным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2521) Sahih Muslim (1501 After 1667)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3947</td></tr><tr><td>Arabic No</td><td>3947</td></tr><tr><td>Reference</td><td>Book 31 Hadith 22</td></tr></tbody></table></div>
 

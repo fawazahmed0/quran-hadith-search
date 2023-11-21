@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:We do not know of any tribe amongst the 'Arab tribes who lost mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [Mu'adz bin Hisyam] dia berkata, telah menceritakan kepadaku [Ayahku] dari [Qatadah] dia berkata, "Aku belum pernah mendapati diperkampungan orang Arab yang penduduknya lebih banyak mati syahid dan lebih mulia (kedudukannya) pada hari Kiamat daripada orang-orang Anshar." [Qatadah] berkata; telah menceritakan kepada kami [Anas bin Malik] bahwa di antara mereka yang gugur pada perang Uhud sejumlah tujuh puluh orang, pada peristiwa Bi'rul Ma'unah sejumlah tujuh puluh orang, dan pada perang Yamamah berjumlah tujuh puluh orang." Anas melanjutkan, "Peristiwa Bi'rul Ma'unah terjadi pada masa Rasulullah Shallallahu 'alahi wasallam, sementara perang Yamamah terjadi pada masa Abu Bakr, yaitu peristiwa (pembangkangan) Musailamah Al Kaddzab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4078</td></tr><tr><td>Arabic No</td><td>4078</td></tr><tr><td>Reference</td><td>Book 64 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Катада сказал: «Мы не знаем ни одного племени среди арабских племен, которое потеряло бы больше павших (на поле битвы), чем ансары». Также Катада сказал: «Анас ибн Малик рассказал нам, что семьдесят человек из их числа было убито в день битвы при Ухуде, и в день (битвы) Биър Ма‘уна — семьдесят человек, и в день аль-Ямамы — семьдесят человек. Анас добавил: “(Битва) Биър Ма‘уна произошла при жизни Посланника Аллаха ﷺ, битва при аль-Ямаме — во времена (правления) Абу Бакра, и это был день, (когда был убит) Мусайлима аль-Каззаб”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4078</td></tr><tr><td>Arabic No</td><td>4078</td></tr><tr><td>Reference</td><td>Book 64 Hadith 123</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: On the day of Khaybar the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahl bin Bakkar] telah menceritakan kepada kami [Wuhaib] dari [Ibnu Thawus] dari ['Amru bin Syu'aib] dari [Ayahnya] dari [Kakeknya] ia berkata, "Saat perang Khaibar Rasulullah shallallahu 'alaihi wasallam melarang makan daging keledai jinak, menaiki hewan jallalah dan meminum susunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3811</td></tr><tr><td>Arabic No</td><td>3811</td></tr><tr><td>Reference</td><td>Book 28 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ своего деда, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ запретил есть мясо домашних ослов, а также ездить на животных, поедающих нечистоты, и есть их мясо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3811</td></tr><tr><td>Arabic No</td><td>3811</td></tr><tr><td>Reference</td><td>Book 28 Hadith 76</td></tr></tbody></table></div>
 

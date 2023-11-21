@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Ali:The bloodwit for unintentional murder is in four parts: twenty fiv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dengan sanad itu juga, dari [Abu Ishaq] dari [Alqamah] dan [Al Aswad], [Abdullah] berkata tentang diyat pembunuhan semi sengaja, "Dua puluh lima hiqqah, di tambah dua puluh lima jadz'ah, ditambah dua puluh lima bintu labun dan dua puluh lima bintu makhadh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 41 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али, да будет доволен им Аллах, сказал, что за неумышленное убийство выплачивается компенсация /дийа/, состоящая из четырёх категорий (верблюдов): двадцать пять трёхлетних верблюдиц, двадцать пять четырёхлетних верблюдиц, двадцать пять двухлетних верблюдиц и двадцать пять годовалых верблюдиц
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 41 Hadith 59</td></tr></tbody></table></div>
 

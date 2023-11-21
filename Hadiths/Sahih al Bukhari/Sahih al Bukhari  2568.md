@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "I shall accept the invitation even
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ibnu Abi 'Abdiy] dari [Syu'bah] dari [Sulaiman] dari [Abu HAzim] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Seandainya aku diundang untuk jamuan makan sebesar satu paha depan (kambing) atau satu paha belakangnya, pasti aku penuhi dan seandainya aku diberi hadiah makanan satu paha depan (kambing) atau satu paha belakang pasti aku terima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2568</td></tr><tr><td>Arabic No</td><td>2568</td></tr><tr><td>Reference</td><td>Book 51 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если меня пригласят отведать баранью ногу или лопатку, я обязательно приму приглашение, и если мне подарят баранью ногу или лопатку, я обязательно приму (этот подарок)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2568</td></tr><tr><td>Arabic No</td><td>2568</td></tr><tr><td>Reference</td><td>Book 51 Hadith 3</td></tr></tbody></table></div>
 

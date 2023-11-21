@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin 'Auf:"I had an agreement with Umaiya bin Khalaf (that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah menceritakan kepadaku [Yusuf bin Al Majisyun] dari [Shalih bin Ibrahim bin 'Abdur Rahman bin 'Auf] dari [bapaknya] dari [kakeknya, 'Abdur Rahman] berkata; "Aku menulis surat kepada Umayyah bin Khalaf (untuk saling melindungi). Ketika terjadi perang Badar, dia menyebutkan tentang akan terbunuhnya dirinya dan anaknya. Maka Bilal berkata; "Aku tidak akan selamat seandainya Umayyah selamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3971</td></tr><tr><td>Arabic No</td><td>3971</td></tr><tr><td>Reference</td><td>Book 64 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн ‘Ауф сказал: «Я заключил с Умайей ибн Халяфом письменное соглашение (о том, что он будет заботиться о моей собственности (или семье) в Мекке, а я буду заботиться о его собственности в Медине)». Затем он рассказал об убийстве Умаййи и его сына в день битвы при Бадре, и что Биляль сказал: “Горе мне, если Умайя спасётся!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3971</td></tr><tr><td>Arabic No</td><td>3971</td></tr><tr><td>Reference</td><td>Book 64 Hadith 24</td></tr></tbody></table></div>
 

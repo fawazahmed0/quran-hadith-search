@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Adi b. Hatim reported:that a person recited a sermon before the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammd bin Abdullah bin Numair] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abdul Aziz bin Rufai'] dari [Tamim bin Tharafah] dari [Adi bin Hatim] bahwa seorang laki-laki berkhutbah di sisi Nabi shallallahu 'alaihi wasallam seraya berkata, "Barangsiapa yang taat kepada Allah dan Rasul-Nya, maka ia telah mendapat petunjuk, dan siapa yang bermaksiat kepada keduanya, maka ia telah tersesat." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Seburuk-buruk Khathib adalah kamu. Maka katakanlah, 'Dan barangsiapa yang bermaksiat kepada Allah dan Rasul-Nya." Ibnu Numair mengatakan; "Maka ia telah tersesat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2010</td></tr><tr><td>Arabic No</td><td>870</td></tr><tr><td>Reference</td><td>Book 7 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Ади ибн Хатима, что как-то раз один человек, который произносил проповедь в присутствии Пророка ﷺ сказал: «Правильным путём идёт тот, кто повинуется Аллаху и Его посланнику, а тот, кто ослушается их, собьётся с пути». (Услышав его слова), Посланник Аллаха ﷺ сказал: «Ты плохой проповедник! Говори: “а тот, кто ослушается Аллаха и Его посланника”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2010</td></tr><tr><td>Arabic No</td><td>870</td></tr><tr><td>Reference</td><td>Book 7 Hadith 60</td></tr></tbody></table></div>
 

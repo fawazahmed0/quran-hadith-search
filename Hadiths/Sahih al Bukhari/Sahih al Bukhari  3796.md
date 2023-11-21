@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:On the day of the battle of the Trench (i.e. Ghazwat-ul-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Adam] telah bercerita kepada kami [Syu'bah] dari [Humaid ath-Thawil], aku mendengar [Anas bin Malik radliallahu 'anhu] berkata; Pada perang Khandaq, Kaum Anshar bersya'ir; "Kami adalah orang-orang yang berbai'at kepada Muhammad. Untuk terus berjihad selama hidup". Lalu beliau shallallahu 'alaihi wasallam bersabda menyambut sya'ir mereka dengan bersya'ir: "Ya Allah, tidak ada kehidupan yang sesungguhnya melainkan kehidupan akhirat. Maka, muliakanlah Anshar dan Muhajirin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3796</td></tr><tr><td>Arabic No</td><td>3796</td></tr><tr><td>Reference</td><td>Book 63 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «В день битвы у рва ансары говорили: \n“Мы — те, кто присягнули Мухаммаду, Что будем вести джихад, пока живы”. \nЧто же касается Пророка ﷺ, то он отвечал им (такими словами): \n“О Аллах, поистине, нет блага, кроме блага мира вечного, Почти же ансаров и мухаджиров!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3796</td></tr><tr><td>Arabic No</td><td>3796</td></tr><tr><td>Reference</td><td>Book 63 Hadith 21</td></tr></tbody></table></div>
 

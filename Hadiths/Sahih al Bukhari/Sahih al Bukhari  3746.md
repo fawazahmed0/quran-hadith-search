@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:I heard the Prophet (ﷺ) talking at the pulpit while Al-Hasa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Shadaqah] telah bercerita kepada kami [Ibnu 'Uyainah] telah bercerita kepada kami [Abu Musa] dari [Al Hasan] bahwa dia mendengar [Abu Bakrah]; Aku mendengar Nabi shallallahu 'alaihi wasallam di atas mimbar bersabda, ketika itu Al Hasan ada disamping beliau. Sesekali beliau melihat ke arah orang banyak dan sesekali melihat kepadanya: "Sesungguhnya anakku ini adalah sayyid (pemimpin) dan dengan perantaraannya Allah akan mendamaikan dua kelompok besar kaum Muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3746</td></tr><tr><td>Arabic No</td><td>3746</td></tr><tr><td>Reference</td><td>Book 62 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, сказал: «Я слышал (находившегося) на минбаре Пророка ﷺ, рядом с которым (стоял) аль-Хасан ибн ‘Али, и (Пророк ﷺ) смотрел то на людей, то на (аль-Хасана), говоря: “Поистине, этот мой сын является господином /саййидом/, и может случиться так, что через него Аллах приведёт к примирению две большие группы мусульман”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3746</td></tr><tr><td>Arabic No</td><td>3746</td></tr><tr><td>Reference</td><td>Book 62 Hadith 91</td></tr></tbody></table></div>
 

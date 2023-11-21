@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Jubair reported that Mus'ab b. Zubair did not effect separation between
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Ghazzan Al Misma'i] dan [Muhammad bin Al Mutsanna] serta [Ibnu Basysyar] sedangkan lafazhnya dari Al Misma'i dan Ibnu Al Mutsanna, mereka berkata; Telah menceritakan kepada kami [Mu'adz] dia adalah ibnu Hisyam, dia berkata; Telah menceritakan kepadaku [ayahku] dari [Qatadah] dari ['Azrah] dari [Sa'id bin Jubair] dia berkata; "Mush'ab tidak memisahkan antara sepasang suami istri yang saling meli'an." Lalu Sa'id menyebutkan hal itu kepada [Abdullah bin Umar], maka dia berkata; Nabi shallallahu 'alaihi wasallam pernah memisahkan antara sepasang suami istri dari Bani Ajlan (yang saling meli'an)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3751</td></tr><tr><td>Arabic No</td><td>1493.06</td></tr><tr><td>Reference</td><td>Book 19 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3751</td></tr><tr><td>Arabic No</td><td>1493.06</td></tr><tr><td>Reference</td><td>Book 19 Hadith 9</td></tr></tbody></table></div>
 

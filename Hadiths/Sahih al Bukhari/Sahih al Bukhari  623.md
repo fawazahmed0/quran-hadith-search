@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "Bilal pronounces the Adhan at night, so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] berkata, telah mengabarkan kepada kami [Abu Usamah] berkata, ['Ubaidullah] menceritakan kepada kami dari [Al Qasim bin Muhammad] dari ['Aisyah], dan dari [Nafi'] dari [Ibnu 'Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Yusuf bin 'Isa Al Marwazi] berkata, telah menceritakan kepada kami [Al Fadll bin Musa] berkata, telah menceritakan kepada kami ['Ubaidullah bin 'Umar] dari [Al Qasim bin Muhammad] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya Bilal mengumandangkan adzan saat masih malam, maka makan dan minumlah sampai ada seruan adzan oleh Ibnu Ummi Maktum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>623</td></tr><tr><td>Arabic No</td><td>623</td></tr><tr><td>Reference</td><td>Book 10 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара и ‘Аиши, да будет доволен ими обоими Аллах о том, что Пророк ﷺ сказал: «Поистине, Билял произносит азан ночью, поэтому (продолжайте) есть и пить, пока призыв (не начнёт) возглашать Ибн Умм Мактум»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>623</td></tr><tr><td>Arabic No</td><td>623</td></tr><tr><td>Reference</td><td>Book 10 Hadith 20</td></tr></tbody></table></div>
 

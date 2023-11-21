@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The wife of Rifa'a Al-Qurazi came to Allah's Messenger (ﷺ) and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ufair] Ia berkata; Telah menceritakan kepadaku [Al Laits] ia berkata; Telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] ia berkata; Telah mengabarkan kepadaku [Urwah bin Zubair] bahwa [Aisyah] Telah mengabarkan kepadanya bahwa isteri Rifa'ah Al Qurazhi datang menghadap Rasulullah shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, sesungguhnya Rifa'ah telah menceraikanku dan mengokohkan perceraian denganku. Setelah itu, aku pun menikah dengan Abdurrahman bin Az Zubair Al Qurazhi, dan ternyata kelelakiannya hanyalah seperti ujung kain." Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Sepertinya kamu ingin kembali ruju' dengan Rifa'ah, tidak, hingga laki-laki kedua merasakan madumu dan kamu pun merasakan madunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5260</td></tr><tr><td>Arabic No</td><td>5260</td></tr><tr><td>Reference</td><td>Book 68 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) к Посланнику Аллаха ﷺ пришла жена Рифа‘а аль-Курази и сказала (ему): «О Посланник Аллаха, поистине, Рифа‘а окончательно развёлся со мной, и после этого я вышла замуж за ‘Абдуррахмана ибн аз-Зубайра аль-Курази, однако оказалось, что он бессилен». (На это) Посланник Аллаха ﷺ сказал ей: «Может быть, ты хочешь вернуться к Рифа‘а? Нет, (ты не можешь сделать этого,) пока не вступишь (с ‘Абдуррахманом) в половую связь!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5260</td></tr><tr><td>Arabic No</td><td>5260</td></tr><tr><td>Reference</td><td>Book 68 Hadith 10</td></tr></tbody></table></div>
 

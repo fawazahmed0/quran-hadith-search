@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) went out from me, while he was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abdullah bin Daud], dari [Isma'il bin Abdul Malik] dari [Abdullah bin Abu Mulaikah] dari [Aisyah] bahwa Nabi Shallallahu 'alaihi sallam keluar dari sisinya dalam keadaan senang kemudian kembali kepadaku dalam keadaan sedih, lalu berkata: aku masuk ke dalam Ka'bah, sekiranya aku telah mengetahui (mendapatkan petunjuk) apa yang aku lakukan sekarang, maka aku tidak akan memasukinya, sebab aku khawatir akan menyusahkan umatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2029</td></tr><tr><td>Arabic No</td><td>2029</td></tr><tr><td>Reference</td><td>Book 11 Hadith 309</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ вышел от неё радостным, а вернулся к ней опечаленным и сказал: «Я вошёл в Каабу, и, если бы я мог повернуть время вспять, я бы не стал входить в неё. Поистине, я боюсь обречь свою общину на трудности»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2029</td></tr><tr><td>Arabic No</td><td>2029</td></tr><tr><td>Reference</td><td>Book 11 Hadith 309</td></tr></tbody></table></div>
 

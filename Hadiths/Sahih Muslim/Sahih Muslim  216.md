@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Ibn 'Umar that the Messenger of Allah (may pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] dan [Yahya bin Ayyub] dan [Qutaibah bin Said] serta [Ali bin Hujr] semuanya dari [Ismail bin Ja'far], [Yahya bin Yahya] berkata, telah mengabarkan kepada kami [Ismail bin Ja'far] dari [Abdullah bin Dinar] bahwa dia mendengar [Ibnu Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa pun orang yang berkata kepada saudaranya, 'Wahai kafir' maka sungguh salah seorang dari keduanya telah kembali dengan kekufuran tersebut, apabila sebagaimana yang dia ucapkan. Namun apabila tidak maka ucapan tersebut akan kembali kepada orang yang mengucapkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>216</td></tr><tr><td>Arabic No</td><td>60.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Если человек скажет своему брату (в исламе): “О неверный!”, это (описание) вернётся к одному из них, и если он является таковым, как о нём было сказано (значит, он заслуживает этого), в противном же случае (сказанное) вернётся к (тому, кто это сказал)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>216</td></tr><tr><td>Arabic No</td><td>60.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 122</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is transmitted by Sahl b. Sa'd in the same way as narrated by Malik,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>950</td></tr><tr><td>Arabic No</td><td>421.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сахль ибн Са‘д передал хадис, подобный предыдущему, но в этой версии он сказал: «Абу Бакр поднял руки к небу, возблагодарил Аллаха и стал пятиться назад, пока не встал в (первый) ряд»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>950</td></tr><tr><td>Arabic No</td><td>421.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 112</td></tr></tbody></table></div>
 

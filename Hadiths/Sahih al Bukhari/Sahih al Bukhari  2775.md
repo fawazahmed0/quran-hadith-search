@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Once 'Umar gave a horse in charity to be used in holy fightin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] telah bercerita kepada kami ['Ubaidullah] berkata telah bercerita kepadaku [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa 'Umar membawa kudanya yang biasa dipergunakan berperang di jalan Allah yang diberikan oleh Rasulullah shallallahu 'alaihi wasallam untuk diberikannya kepada seseorang. Kemudian dikabarkan kepada 'Umar bahwa kuda yang dishadaqahkannya itu telah dijual. Maka dia bertanya kepada Rasulullah shallallahu 'alaihi wasallam untuk membelinya kembali. Maka Beliau bersabda: "Jangan kamu beli dan jangan kamu mengambil kembali shadaqahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2775</td></tr><tr><td>Arabic No</td><td>2775</td></tr><tr><td>Reference</td><td>Book 55 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что ‘Умар, да будет доволен им Аллах, отдал одному человеку коня в качестве милостыни для сражений на пути Аллаха, которого ему дал Посланник Аллаха ﷺ. Затем ‘Умару сообщили, что этот человек выставил коня на продажу. ‘Умар спросил Посланника Аллаха ﷺ, может ли он купить его, а он ответил: «Не покупай его и не возвращайся к своей милостыне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2775</td></tr><tr><td>Arabic No</td><td>2775</td></tr><tr><td>Reference</td><td>Book 55 Hadith 38</td></tr></tbody></table></div>
 

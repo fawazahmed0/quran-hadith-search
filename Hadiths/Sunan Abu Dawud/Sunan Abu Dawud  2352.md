@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. Abi Awfa:We went along with the Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abdul Wahid], telah menceritakan kepada kami [Sulaiman Asy Syaibni], ia berkata; saya mendengar [Abdullah bin Abu Aufa] berkata; kami berjalan bersama Rasulullah shallallahu 'alaihi wasallam sementara beliau sedang berpuasa, kemudian tatkala matahari telah tenggelam beliau berkata; wahai Bilal, turun dan aduklah untuk kami. Ia berkata; wahai Rasulullah, seandainya anda menunggu hingga masuk sore hari dengan sempurna! Beliau berkata: "Turun dan aduklah untuk kami!" Ia berkata; wahai Rasulullah, sesungguhnya anda masih berada pada siang hari. Beliau berkata: "Turun dan aduklah untuk kami!" Kemudian ia turun dan mengaduk. Lalu Rasulullah shallallahu 'alaihi wasallam minum kemudian bersabda: "Apabila kalian melihat malam telah datang dari sini, maka orang yang berpuasa telah berbuka." Beliau menunjuk dengan jarinya ke arah timur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1955) Sahih Muslim (1101)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2352</td></tr><tr><td>Arabic No</td><td>2352</td></tr><tr><td>Reference</td><td>Book 14 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Абу Ауфа, да будет доволен им Аллах, сказал: «Мы шли вместе с посланником Аллаха ﷺ, а он соблюдал пост, и, когда солнце зашло, он сказал: “О Биляль, спешься и размешай для нас еду”. Биляль сказал: “Наверное, нужно подождать наступления вечера”. (Посланник Аллаха ﷺ) сказал: “Спешься и размешай для нас еду”. Биляль сказал: “Но ведь ещё день, о Посланник Аллаха!” Посланник Аллаха ﷺ сказал: “Спешься и размешай для нас еду”. Тогда он размешал еду. Посланник Аллаха ﷺ попил и сказал: “Если ночь наступает отсюда, постящийся становится разговевшимся”. Сказав это, он указал на восток»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1955) Sahih Muslim (1101)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2352</td></tr><tr><td>Arabic No</td><td>2352</td></tr><tr><td>Reference</td><td>Book 14 Hadith 40</td></tr></tbody></table></div>
 

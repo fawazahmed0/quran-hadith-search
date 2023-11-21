@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported:We were with Allah's Messenger (ﷺ) in a cave when there was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] serta [Abu Kuraib] dan [Ishaq bin Ibrahim] dan lafazh ini milik Yahya. [Yahya] dan [Ishaq] berkata; Telah mengabarkan kepada kami Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Abdullah] dia berkata; "Kami pernah bersama Nabi shallallahu 'alaihi wasallam di sebuah gua. Pada waktu itu telah turun kepada beliau surat Al mursalat, dan kami langsung mengambilnya (mendegarnya) dari mulut beliau yang basah. Tiba-tiba ada seekor ular. Maka Nabi shallallahu 'alaihi wasallam berkata; 'Bunuhlah ia! Lalu kami mengejarnya untuk membunuh ular tersebut. Namun ular itu telah lari menghilang. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: 'Sungguh Allah telah melindunginya dari serangan kalian sebagaimana Dia juga telah melindungi kalian dari kejahatannya.' Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan ['Utsman bin Abu Syaibah] keduanya berkata; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5835</td></tr><tr><td>Arabic No</td><td>2234.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5835</td></tr><tr><td>Arabic No</td><td>2234.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 186</td></tr></tbody></table></div>
 

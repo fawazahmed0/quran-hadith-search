@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "Night prayer is offered as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan kepadaku ['Abdullah bin Wahb] berkata, telah mengabarkan kepadaku ['Amru bin Al Harits] bahwa ['Abdurrahman bin Al Qasim] menceritakan kepadanya dari [Bapaknya] dari ['Abdullah bin 'Umar] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Shalat malam dua rakaat dua rakaat, jika kamu hendak mengakhirinya, maka shalatlah satu rakaat sebagai penutup dari shalatmu sebelumnya." Al Qasim berkata, "Semenjak kami ketahui, kami melihat orang-orang mengerjakan witir dengan tiga rakaat. Sesungguhnya urusan ini adalah kelonggaran yang aku berharap bukan menjadi perkara yang salah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>993</td></tr><tr><td>Arabic No</td><td>993</td></tr><tr><td>Reference</td><td>Book 14 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха Ибн ‘Умара, что Пророк ﷺ сказал: «Ночная молитва совершается по два рак‘ата, а если ты хочешь закончить её, то соверши один рак‘ат, это сделает нечётным число совершённых рак‘атов». Аль-Касим сказал: «С тех пор как мы достигли половой зрелости, мы видели, как некоторые люди совершают молитву витр в три рак‘ата, и все это дозволено. Я надеюсь, что ни в чем из этого нет проблем
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>993</td></tr><tr><td>Arabic No</td><td>993</td></tr><tr><td>Reference</td><td>Book 14 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) was praying with hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Musaddad] sedangkan ini adalah lafadznya Musaddad, katanya; telah menceritakan kepada kami [Bisyr yaitu Ibnu Al Mufadlal] telah menceritakan kepada kami [Burd] dari [Az Zuhri] dari ['Urwah bin Az Zubair] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam -Ahmad berkata- Sedang mengerjakan shalat, sementara pintu dalam keadaan tertutup, ketika aku datang, aku minta dibukakan pintu -Ahmad berkata- maka beliau berjalan dan membukakan pintu untukku lalu beliau kembali lagi ketempat shalatnya." disebutkan ketika itu pintu berada di arah kiblatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>922</td></tr><tr><td>Arabic No</td><td>922</td></tr><tr><td>Reference</td><td>Book 2 Hadith 533</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Однажды, когда Посланник Аллаха ﷺ молился, я пришла и обнаружила, что дверь закрыта. Тогда я попросила его открыть мне, и он шагнул, открыл мне и вернулся на место молитвы». ‘Урва упоминал о том, что дверь была в стороне киблы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>922</td></tr><tr><td>Arabic No</td><td>922</td></tr><tr><td>Reference</td><td>Book 2 Hadith 533</td></tr></tbody></table></div>
 

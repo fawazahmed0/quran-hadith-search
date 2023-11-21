@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Qasim bin Abi Bazza:That he asked Sa'id bin Jubair, "Is there any re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] Telah mengabarkan kepada mereka dia berkata; Telah mengabarkan kepadaku [Qasim bin Abu Bazzah] bahwsanya dia bertanya [Sa'id bin Jubair] apakah ada taubat bagi orang yang telah membunuh seorang mukmin? Lalu aku membacakan ayat; dan tidak membunuh jiwa yang diharamkan Allah (membunuhnya) kecuali dengan (alasan) yang benar... (Al Furqan: 68). Maka Sa'id berkata; Aku telah membacakannya kepada [Ibnu Abbas] sebagaimana kamu membacakannya kepadaku. Dia berkata; Ayat ini turun di Makkah, telah dinasakh (dihapus) oleh ayat yang turun di Madinah yang ada di didalam surat An Nisa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4762</td></tr><tr><td>Arabic No</td><td>4762</td></tr><tr><td>Reference</td><td>Book 65 Hadith 284</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Касим ибн Аби Базза, сказал, что он спросил Са‘ида ибн Джубейра: «Есть ли покаяние тому, кто преднамеренно убил верующего?» И прочитал ему: «Не убивайте душу, которую Аллах запретил убивать, если только у вас нет на это права». Са‘ид ответил: «Я прочитал это аят Ибн ‘Аббасу так же, как ты прочитал его мне, и он сказал: “Это мекканский аят, его отменил мединский аят из суры ан-Ниса”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4762</td></tr><tr><td>Arabic No</td><td>4762</td></tr><tr><td>Reference</td><td>Book 65 Hadith 284</td></tr></tbody></table></div>
 

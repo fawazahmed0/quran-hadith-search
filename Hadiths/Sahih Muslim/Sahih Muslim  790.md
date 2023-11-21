@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:The Messenger of Allah (ﷺ) took (meat of) goat's shoulder 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Malik] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam makan pundak kambing, kemudian melakukan shalat, dan beliau tidak berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>354.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абдуллаха ибн ‘Аббаса: «Посланник Аллаха ﷺ поел (мяса) от овечьей лопатки, а затем совершил молитву, не совершая омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>354.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 112</td></tr></tbody></table></div>
 

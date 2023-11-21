@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Shaibani narrated on the authority of Zirr who narrated it on this authority 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [asy-Syaibani] dari [Zirr] dari [Abdullah] dia berkata tentang firman-Nya: '(Hatinya tidak mendustakan sesuatu yang telah dia lihat) ' (Qs. An Najm: 11). Ibnu Mas'ud berkata, "Nabi shallallahu 'alaihi wasallam melihat Jibril mempunyai enam ratus sayap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>433</td></tr><tr><td>Arabic No</td><td>174.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 338</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах сказал о аяте «И сердце не солгало о том, что он увидел» (сура «ан-Наджм», аят 11): «Он (Пророк ﷺ) видел Джибриля, у которого было шестьсот крыльев»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>433</td></tr><tr><td>Arabic No</td><td>174.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 338</td></tr></tbody></table></div>
 

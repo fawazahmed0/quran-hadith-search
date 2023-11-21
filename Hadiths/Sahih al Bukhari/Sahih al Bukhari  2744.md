@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:I fell sick and the Prophet (ﷺ) paid me a visit. I said to him, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin 'Abdur Rohim] telah bercerita kepada kami [Zakariya' bin 'Adiy] telah bercerita kepada kami [Marwan] dari [Hasyim bin Hasyim] dari ['Amir bin Sa'ad] dari [bapaknya radliallahu 'anhu] berkata: "Aku sakit lalu Nabi shallallahu 'alaihi wasallam menjengukku. Kemudian aku katakan: "Wahai Rasulullah, mohonkanlah kepada Allah agar Dia tidak mengembalikan aku kepada keadaan sebelumnya (negeri kafir) ". Maka Beliau bersabda: "Semoga Allah mengangkat derajatmu dengan memberikan manfaat kepada manusia melalui dirimu". Aku katakan: "Aku ingin berwasiat karena aku hanya memiliki seorang anak perempuan". Aku katakan: "Aku ingin berwasiat dengan setengah hartaku". Beliau bersabda: "Setengah itu banyak". Aku katakan lagi: "Sepertiganya". Beliau bersabda: "Ya, sepertiga dan sepertiga itu banyak atau besar". Dia (Sa'ad) berkata: "Maka kemudian orang-orang berwasiat dengan sepertiga dan Beliau membolehkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2744</td></tr><tr><td>Arabic No</td><td>2744</td></tr><tr><td>Reference</td><td>Book 55 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д сказал: «Когда я заболел, и Пророк ﷺ пришёл, чтобы навестить меня, я сказал: “О Посланник Аллаха! Попроси Аллаха, чтобы Он не умертвлял меня в месте, из которого я переселился”. Пророк ﷺ сказал: “Может быть, Аллах возвысит тебя, чтобы благодаря тебе люди получили пользу”. Я сказал: “Я хочу завещать (своё имущество), ведь у меня только одна дочь. Завещать ли мне половину (моего имущество бедным)?” Он ответил: “Половина — это много”. Я спросил: “А треть?” Он ответил: “Треть, но и трети будет много”». Передатчик хадиса добавил: «Люди стали завещать треть, и это им было разрешено»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2744</td></tr><tr><td>Arabic No</td><td>2744</td></tr><tr><td>Reference</td><td>Book 55 Hadith 7</td></tr></tbody></table></div>
 

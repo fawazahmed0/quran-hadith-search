@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin Malik:Whenever Allah's Messenger (ﷺ) intended to carry out a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah bercerita kepadaku [Ahmad bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhriy] berkata telah bercerita kepadaku ['Abdur Rahman bin 'Abdullah bin Ka'ab bin Malik] berkata aku mendengar [Ka'ab bin Malik radliallahu 'anhu] berkata; Tidaklah Rasulullah shallallahu 'alaihi wasallam apabila hendak melakukan peperangan yang Beliau terjun didalamnya melainkan merahasiakannya kecuali ketika perang Tabuk yang Rasulullah shallallahu 'alaihi wasallam ikut didalamnya yang terjadi pada musin panas dan menempuh perjalanan yang panjang melelahkan serta menghadapi pasukan musuh yang jumlahnya banyak. (Pada perang itu) Beliau mengumumkannya kepada Kaum Muslimin tentang urusan mereka agar mereka mempersiapkan diri menghadapi musuh mereka dan mengabarkan kepada mereka secara langsung apa yang Beliau kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2948</td></tr><tr><td>Arabic No</td><td>2948</td></tr><tr><td>Reference</td><td>Book 56 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ка‘б ибн Малик, да будет доволен им Аллах, сказал: «Обычно, когда Посланник Аллаха ﷺ желал выступить в поход (против кого-либо), он обязательно скрывал (свои истинные намерения, показывая, что намеревается предпринять) другой поход. И это продолжалось до тех пор, пока не настало время того похода на Табук, в который Посланник Аллаха ﷺ выступил в сильную жару и в котором его ждали дальний путь, безводная пустыня и множество врагов. Поэтому он разъяснил мусульманам суть дела, чтобы они могли подготовиться к этому походу, а потом объявил им, куда именно он хотел направиться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2948</td></tr><tr><td>Arabic No</td><td>2948</td></tr><tr><td>Reference</td><td>Book 56 Hadith 160</td></tr></tbody></table></div>
 

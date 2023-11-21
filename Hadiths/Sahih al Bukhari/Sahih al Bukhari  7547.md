@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) was hiding himself in Mecca and used to re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Husyaim] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibn 'Abbas] radliyallahu'anhuma, ia berkata, "Nabi Shallalahu'alaihiwasllam sembunyi-sembunyi di Makkah, namun beliau mengeraskan suara bacaan, saat orang-orang musyrik mendengar (suara bacaan beliau), mereka mencaci Al Qur'an dan orang yang membawanya. Maka Allah Azza wa Jalla pun menurunkan ayat kepada nabi-Nya: '(Dan janganlah engkau menyaringkan bacaan shalatmu dan jangan pula melirihkannya) ', (Qs. Al Isra':)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7547</td></tr><tr><td>Arabic No</td><td>7547</td></tr><tr><td>Reference</td><td>Book 97 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен ими обоими Аллах, что он сказал: «Будучи в Мекке, Пророк ﷺ имел обыкновение скрываться (от многобожников) и повышать свой голос (при чтении Корана). Когда многобожники слышали его, то они (начинали) поносить Коран и того, с кем он пришел. И тогда Аллах, Всемогущ Он и Велик, сказал Своему Пророку ﷺ: “Не совершай свой намаз громко и не совершай её шепотом” (сура «аль-Исра», аят 110)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7547</td></tr><tr><td>Arabic No</td><td>7547</td></tr><tr><td>Reference</td><td>Book 97 Hadith 172</td></tr></tbody></table></div>
 

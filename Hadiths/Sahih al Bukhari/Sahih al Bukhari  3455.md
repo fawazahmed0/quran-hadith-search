@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The Israelis used to be ruled and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Muhammad bin Ja'far] telah bercerita kepada kami [Syu'bah] dari [Furat Al Qazaz] berkata, aku mendengar [Abu Hazim] berkata; "Aku hidup mendampingi [Abu Hurairah radliallahu 'anhu] selama lima tahun dan aku mendengar dia bercerita dari Nabi shallallahu 'alaihi wasallam yang besabda: "Bani Isra'il, kehidupan mereka selalu didampingi oleh para Nabi, bila satu Nabi meninggal dunia, akan dibangkitkan Nabi setelahnya. Dan sungguh tidak ada Nabi sepeninggal aku. Yang ada adalah para khalifah yang banyak jumlahnya". Para shahabat bertanya; "Apa yang baginda perintahkan kepada kami?". Beliau menjawab: "Penuihilah bai'at kepada khalifah yang pertama (lebih dahulu diangkat), berikanlah hak mereka karena Allah akan bertanya kepada mereka tentang pemerintahan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3455</td></tr><tr><td>Arabic No</td><td>3455</td></tr><tr><td>Reference</td><td>Book 60 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Фурат аль-Каззаз сказал:\n— Я слышал, как Абу Хазим говорил: «Я садился с Абу Хурайрой в течение пяти лет, и слышал, как он рассказывал, что Пророк ﷺ сказал: “(Прежде) израильтянами правили пророки, и каждый раз, как умирал один пророк, его место занимал другой. (Если же говорить обо мне, то,) поистине, после меня пророков не будет, но будет множество халифов”. (Люди) спросили: “Что же ты повелишь нам?” Он сказал: “Будьте верны (каждому) первому (из тех, кому принесут клятву,) и соблюдайте их права, ибо, поистине, Аллах спросит с них за всё то, что Он подчинил им”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3455</td></tr><tr><td>Arabic No</td><td>3455</td></tr><tr><td>Reference</td><td>Book 60 Hadith 122</td></tr></tbody></table></div>
 

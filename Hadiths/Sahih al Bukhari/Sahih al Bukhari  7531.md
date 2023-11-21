@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whoever tells you that the Prophet (ﷺ) concealed something of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Ismail] dari [Asy Sya'bi] dari [Masruq] dari [Aisyah] radliyallahu'anhuma, ia berkata, "Siapa saja yang menceritakan kepadamu bahwa Muhammad shallallahu 'alaihi wasallam menyembunyikan sesuatu…sedang [Muhammad] berkata, telah menceritakan kepada kami [Abu Amir Al 'Aqadi] telah menceritakan kepada kami [Syu'bah] dari [Ismail bin Abu Khalid] dari [Asy Sya'bi] dari [Masruq] dari ['Aisyah] berkata, "Siapa saja yang menceritakan kepadamu bahwa Nabi shallallahu 'alaihi wasallam menyembunyikan sesuatu dari wahyu, maka janganlah kamu mempercayainya, sebab Allah Ta'ala berfirman: '(Wahai rasul, sampaikan yang diturunkan kepadamu dari Tuhanmu, jika kamu tidak mengerjakan lantas tidak kau sampaikan risalah….) ' (Qs. Al Maidah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7531</td></tr><tr><td>Arabic No</td><td>7531</td></tr><tr><td>Reference</td><td>Book 97 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Кто скажет тебе, что Пророк ﷺ утаил хоть что-то из откровения, то не верь ему, ведь поистине, Всевышний Аллах говорит: “О посланник! Уведомляй о том, что ниспослано тебе от твоего Господа. А если ты не сделаешь этого, то ты не передал Его послание” (Сура «аль-Маида», аят 67)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7531</td></tr><tr><td>Arabic No</td><td>7531</td></tr><tr><td>Reference</td><td>Book 97 Hadith 156</td></tr></tbody></table></div>
 

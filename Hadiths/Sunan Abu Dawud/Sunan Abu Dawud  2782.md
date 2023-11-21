@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: When the Messenger of Allah (ﷺ) arrived from his h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Manshur Ath Thusi], telah menceritakan kepada kami [Ya'qub], telah menceritakan kepada kami [ayahku], dari [Ibnu Ishaq], telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam ketika datang dari hajinya beliau masuk ke masjid, dan menderumkan untanya di depan pintu masjid, kemudian beliau pergi ke rumahnya. Nafi' berkata; Ibnu Umar melakukan demikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2782</td></tr><tr><td>Arabic No</td><td>2782</td></tr><tr><td>Reference</td><td>Book 15 Hadith 306</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2782</td></tr><tr><td>Arabic No</td><td>2782</td></tr><tr><td>Reference</td><td>Book 15 Hadith 306</td></tr></tbody></table></div>
 

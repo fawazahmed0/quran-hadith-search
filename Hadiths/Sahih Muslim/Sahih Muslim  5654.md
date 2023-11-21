@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Yahya bin Ayyub], [Qutaibah] dan [Ibnu Hujr] lafazh ini miliknya Yahya bin Yahya. berkata [Yahya bin Yahya]; Telah mengabarkan kepada kami. Dan yang lainya berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far dari ['Abdullah bin Dinar] bahwa ia mendengar [Ibnu 'Umar] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang-orang Yahudi, bila mereka memberi salam kepadamu, maka salah seorang di antara mereka ada yang mengucapkan: Assaamu 'alaikum (semoga kematian bagi kalian). Maka jawablah: 'Alaika!" Dan telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami ['Abdur Rahman] dari [Sufyan] dari ['Abdullah bin Dinar] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam dengan redaksi yang serupa. Hanya saja dia berkata; 'Maka ucapkanlah oleh kalian; 'Wa Alaika
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5654</td></tr><tr><td>Arabic No</td><td>2164.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5654</td></tr><tr><td>Arabic No</td><td>2164.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 9</td></tr></tbody></table></div>
 

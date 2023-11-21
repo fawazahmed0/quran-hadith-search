@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: I saw that the Messenger of Allah (ﷺ) raised his h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Husain bin Abdurrahman] telah mengabarkan kepada kami [Waki'] dari [Ibnu Abu Laila] dari [Saudaranya yaitu Isa] dari [Al Hakam] dari [Abdurrahman bin Abu Laila] dari [Al Barra' bin 'Azib] dia berkata; saya melihat Rasulullah shallallahu 'alaihi wasallam mengangkat kedua tangannya ketika memulai shalat, kemudian beliau tidak mengangkatnya hingga selesai shalat." Abu Daud mengakata; "Hadits ini tidak shahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>752</td></tr><tr><td>Arabic No</td><td>752</td></tr><tr><td>Reference</td><td>Book 2 Hadith 362</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ ибн ‘Азиб сказал: «Я видел, как Посланник Аллаха ﷺ поднимал руки приступая к молитве, после чего не поднимал их больше до окончания (молитвы)».Абу Дауд сказал: «Этот хадис недостоверный»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>752</td></tr><tr><td>Arabic No</td><td>752</td></tr><tr><td>Reference</td><td>Book 2 Hadith 362</td></tr></tbody></table></div>
 

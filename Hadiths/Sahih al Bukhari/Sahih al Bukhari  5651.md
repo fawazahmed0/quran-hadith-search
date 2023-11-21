@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Once I fell ill. The Prophet (ﷺ) and Abu Bakr cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] dari [Ibnu Al Munkadir] dia mendengar [Jabir bin Abdullah] radliallahu 'anhuma berkata; Aku pernah menderita sakit, lalu Nabi shallallahu 'alaihi wasallam dan Abu Bakar datang menjengukku dengan berjalan kaki, ketika beliau menemuiku ternyata aku sedang pingsan, maka beliau berwudlu' dan memercikkan sisa air wudlu'nya kepadaku, aku pun tersadar, ternyata Nabi shallallahu 'alaihi wasallam sudah berada di depanku, lalu aku berkata; "Wahai Rasulullah, bagaimana caranya aku mengurus harta bendaku, bagaimana caranya aku memutuskan terhadap harta bendaku?" beliau tetap tidak menjawab sampai turun ayat tentang harta warisan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5651</td></tr><tr><td>Arabic No</td><td>5651</td></tr><tr><td>Reference</td><td>Book 75 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается Джабир, да будет доволен Аллах им и его отцом, сказал: «Однажды я сильно заболел, и Пророк ﷺ вместе с Абу Бакром пришли пешком, чтобы навестить меня. Когда они пришли ко мне, я лежал без сознания. Тогда Пророк ﷺ совершил омовение и вылил на меня воду, оставшуюся после омовения, и я пришёл в себя, и увидев Пророк ﷺ спросил: “О Посланник Аллаха, как мне поступить со своим имуществом?” Тогда он мне ничего не ответил, пока не был ниспослан аят о наследовании”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5651</td></tr><tr><td>Arabic No</td><td>5651</td></tr><tr><td>Reference</td><td>Book 75 Hadith 11</td></tr></tbody></table></div>
 

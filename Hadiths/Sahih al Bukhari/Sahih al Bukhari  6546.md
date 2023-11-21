@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran:The Prophet (ﷺ) said, "I looked into paradise and saw that the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Al Haitsam] telah menceritakan kepada kami ['Auf] dari [Abu Raja'] dari ['Imran] dari Nabi Shallallahu'alaihiwasallam, beliau bersabda: "aku melihat surga, kebanyakan penghuninya adalah orang-orang fakir, dan kulihat neraka, kebanyakan penghuninya adalah wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6546</td></tr><tr><td>Arabic No</td><td>6546</td></tr><tr><td>Reference</td><td>Book 81 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Имрана (ибн Хусайна, да будет доволен им Аллах), что Пророк ‎ﷺ сказал: «Я заглянул в Рай и увидел, что большинство из его обитателей являются бедняками, и я заглянул в (адский) Огонь и увидел, что большинство из его обитателей являются женщины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6546</td></tr><tr><td>Arabic No</td><td>6546</td></tr><tr><td>Reference</td><td>Book 81 Hadith 135</td></tr></tbody></table></div>
 

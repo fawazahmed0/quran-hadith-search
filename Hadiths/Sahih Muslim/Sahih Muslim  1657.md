@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:The Messenger of Allah (ﷺ) bought a camel from me.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Muadz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Muharib] dia mendnegar [Jabir bin Abdullah] mengatakan; "Rasulullah shallallahu 'alaihi wasallam pernah membeli untaku, setibanya di Madinah, beliau menyuruhku untuk mendatangi masjid, lalu aku shalat dua rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>715.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн ‘Абдуллах сказал: «Когда Посланник Аллаха ﷺ купил у меня верблюда, то, прибыв в Медину, он велел мне прийти в мечеть и совершить молитву в два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>715.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 87</td></tr></tbody></table></div>
 

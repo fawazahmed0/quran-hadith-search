@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Warrad reported that al-Mughira wrote to Mu'awiya:Peace be upon you, and then co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Marwan bin Mu'awiyah Al Fazari] dari [Muhammad bin Suqah] telah mengabarkan kepada kami [Muhammad bin 'Ubaidullah At Tsaqafi] dari [Warrad] dia berkata, " [Mughirah] pernah berkirim surat kepada Mu'wiyah, "Semoga engkau mendapat keselamatan. Amma ba'du, sesungguhnya aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah mengharamkan tiga perkara dan melarang dari tiga perkara; Allah mengharamkan durhaka terhadap orang tua, mengubur anak perempuan hidup-hidup dan tidak mau memberi. Dan Allah melarang dari tiga perkara; mengatakan sesuatu yang tidak jelas sumbernya, banyak bertanya dan menyia-nyiakan harta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4486</td></tr><tr><td>Arabic No</td><td>593.09</td></tr><tr><td>Reference</td><td>Book 30 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4486</td></tr><tr><td>Arabic No</td><td>593.09</td></tr><tr><td>Reference</td><td>Book 30 Hadith 17</td></tr></tbody></table></div>
 

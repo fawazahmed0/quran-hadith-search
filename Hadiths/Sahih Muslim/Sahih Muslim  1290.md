@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) led us in the 'Asr prayer and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1290</td></tr><tr><td>Arabic No</td><td>573.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «(Однажды) Посланник Аллаха ﷺ проводил с нами послеполуденную молитву /‘аср/ и произнёс слова таслима после двух рак‘атов. Тогда Зуль-Йадайн встал и спросил: “Молитва была сокращена или ты забыл, о Посланник Аллаха?” Посланник Аллаха ﷺ ответил: “Ничего из этого не было”. Он сказал: “Что-то из этого было, о Посланник Аллаха”. Тогда Посланник Аллаха ﷺ обратился к людям сказав: “Правда ли то, что говорит Зуль-Йадайн?” Люди ответили: “Да, о Посланник Аллаха”. Тогда Посланник Аллаха ﷺ завершил то, что осталось из молитвы, после чего сидя совершил два земных поклона, после таслима»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1290</td></tr><tr><td>Arabic No</td><td>573.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 128</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : L'Envoyé de Dieu (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abu Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata, "Rasulullah tidak membaca di hadapan jin, dan tidak melihat mereka. Hanya dahulu Rasulullah shallallahu 'alaihi wasallam bertolak pergi kepada sejumlah sahabatnya bermaksud ke pasar Ukazh, sedangkan ketika itu antara setan dan kabar langit telah diberi penghalang, dan dikirimlah meteor api kepada mereka. Lalu setan pulang kepada kaum mereka seraya berkata, 'Ada apa dengan kalian? ' Mereka menjawab, 'Kami telah diberi penghalang antara kami dan khabar langit, dan kami dikirimi dengan meteor api.' Mereka berkata, 'Tidaklah hal tersebut terjadi melainkan karena sesuatu yang terjadi, maka lakukanlah perjalanan ke bagian timur bumi dan barat. Lalu lihatlah apa yang menghalangi antara kami dan khabar langit.' Lalu mereka bertolak memukul bagian timur dan barat bumi. Lalu sejumlah jin yang mulai menuju dataran Hijaz berjalan, sedangkan beliau di Nakhlah (tempat antara Makkah dan Thaif) bermaksud ke Ukazh. Ketika itu beliau sedang shalat shubuh mengimami para sahabatnya. Ketika para jin mendengarkan al-Qur'an, maka mereka menyimak kepadanya seraya berkata, 'Inilah yang menghalangi antara kami dan khabar langit.' Lalu mereka kembali kepada kaum mereka seraya mereka berkata, 'Wahai kaum kami, ' kami telah mendengarkan al-Qur'an yang menakjubkan, (QS. 72: 1) (yang) memberi petunjuk kepada jalan yang benar, lalu kami beriman kepadanya. Dan kami sekali-kali tidak akan mempersekutukan seorangpun dengan Rabb kami, (QS. 72: 2) Lalu Allah menurunkan atas nabiNya, Muhammad, 'Katakanlah (hai Muhammad), 'Telah diwahyukan kepadaku bahwa sekumpulan jin telah mendengarkan (al-Qur'an)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1006</td></tr><tr><td>Arabic No</td><td>449</td></tr><tr><td>Reference</td><td>Book 4 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Посланник Аллаха ﷺ ничего не читал джиннам и не видел их, (но однажды) Посланник Аллаха ﷺ вместе с группой своих сподвижников отправился (в путь, намереваясь посетить) ярмарку в ‘Указе. (В то время) шайтанам преградили доступ к известиям с небес, и (некоторые из) них были (поражены) небесным огнём. Тогда шайтаны вернулись к своему народу, и (их) спросили: “Что с вами?” Они сказали: “(Что-то) преградило нам доступ к известиям с небес, и на нас наслали небесный огонь”. (Им) сказали: “(Преградой могло стать) только нечто новое. Отправляйтесь же на восток и запад земли и посмотрите, что помешало вам (узнавать эти) известия”. (И те из них, которые) двинулись в сторону Тихамы, прошли рядом с (Пророком ﷺ), направлявшимся в ‘Указ, когда он вместе со своими сподвижниками совершал утреннюю молитву в Нахле. Услышав (чтение) Корана, они прислушались к нему и (стали) говорить: “Вот что преградило вам доступ к известиям с небес”. (После этого) они вернулись к своему народу и сказали: “О народ наш! Поистине, мы слышали дивное (чтение) Корана, который наставляет на прямой путь. Мы уверовали в него и не будем поклоняться никому, кроме Господа нашего”».(Ибн ‘Аббас также сказал, что) потом Всемогущий и Великий Аллах ниспослал Своему Пророку Мухаммаду ﷺ (аяты, в которых говорится): «Скажи: “Мне было ниспослано в откровении, что несколько джиннов (тайком) слушали (чтение) Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1006</td></tr><tr><td>Arabic No</td><td>449</td></tr><tr><td>Reference</td><td>Book 4 Hadith 168</td></tr></tbody></table></div>
 

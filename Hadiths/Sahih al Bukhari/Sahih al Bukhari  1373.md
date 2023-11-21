@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abi Bakr:Allah's Messenger (ﷺ) once stood up delivering a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] telah menceritakan kepada kami [Ibnu Wahb] berkata, telah menceritakan kepada saya [Yunus] dari [Ibnu Syihab] telah mengabarkan kepada saya ['Urwah bin Az Zubair] bahwasanya dia mendengar [Asma' binti Abu Bakar radliallahu 'anhuma] berkata,: "Suatu hari Rasulullah Shallallahu'alaihiwasallam berdiri menyampaikan khuthbah lalu menyebut perihal fitnah kubur yang setiap orang akan diuji karennaya. Ketika Beliau menyebutkan hal tersebut kaum muslimun menjadi gaduh dan berteriak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1373</td></tr><tr><td>Arabic No</td><td>1373</td></tr><tr><td>Reference</td><td>Book 23 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Абу Бакр, да будет доволен Аллах ими обоими, сказала: «Однажды Посланник Аллаха ﷺ поднявшийся со своего места и обратившийся к людям с проповедью, упомянул об испытаниях, которым подвергнется в могиле (каждый) человек, и когда он упомянул об этом, мусульмане громко закричали (от страха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1373</td></tr><tr><td>Arabic No</td><td>1373</td></tr><tr><td>Reference</td><td>Book 23 Hadith 125</td></tr></tbody></table></div>
 

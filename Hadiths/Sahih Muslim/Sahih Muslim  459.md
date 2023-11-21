@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported by Abu Sa'id that the Messenger of Allah (ﷺ) said:The (permanen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Nashr bin Ali al-Jahdlami] telah menceritakan kepada kami [Bisyr] -yaitu Ibnu al-Mufadldlal- dari [Abu Maslamah] dari [Abu Nadlrah] dari [Abu Sa'id] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Adapun penduduk neraka yang mana mereka adalah penduduknya, maka mereka tidak akan mati di dalamnya dan tidak pula hidup. Tetapi orang yang terkena siksa neraka karena dosa mereka atau kesalahan mereka maka Allah mematikan mereka hingga apabila mereka telah hangus terbakar, maka diizinkanlah pemberian syafa'at, lalu dibawalah mereka sekeompok demi sekelompok, lalu mereka disebarkan di atas sungai surga, kemudian dikatakan kepada mereka, 'Wahai penduduk surga. Limpahkanlah air kepada mereka. Lalu mereka tumbuh sebagaimana tumbuhnya biji-bijian menjadi seperti buih banjir'." Lalu salah seorang lelaki dari suatu kaum berkata, 'Seakan-akan Rasulullah shallallahu 'alaihi wasallam benar-benar berada di gurun sahara." Dan telah menceritakannya kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Maslamah] dia berkata, "Saya mendengar [Abu Nadlrah] dari [Abu Sa'id al-Khudri] dari Nabi shallallahu 'alaihi wasallam dengan hadits semisalnya sampai perkataannya, "Dalam buih banjir." Dan dia tidak menyebutkan kalimat setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>459</td></tr><tr><td>Arabic No</td><td>185.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 364</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Что касается обитателей Огня, которые (останутся в нём навечно), то они не умрут там, но и жить не будут, однако некоторых из вас Огонь коснётся за их грехи (или: за их прегрешения), и Всевышний Аллах умертвит их. Когда же они превратятся в уголь, (за них) будет позволено обращаться с просьбами о заступничестве, после чего их станут приводить отдельными группами и рассеивать над райскими реками. А потом будет сказано: “О обитатели Рая, лейте на них (воду)”, и они станут прорастать, как прорастает семя, оказавшееся в том, что приносит с собой поток».(Абу Са‘ид сказал): «(Услышав это), один человек из числа присутствующих сказал: “Похоже, что Посланник Аллаха ﷺ сам (видел это) в пустыне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>459</td></tr><tr><td>Arabic No</td><td>185.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 364</td></tr></tbody></table></div>
 

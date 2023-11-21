@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Usaid:The Prophet (ﷺ) said, "The best of the Ansar's families (ho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] berkata, aku mendengar [Qatadah] dari [Anas bin Malik] dari [Abu Usaid radliallahu 'anhu] berkata, Nabi shallallahu 'alaihi wasallam bersabda: "Sebaik-baik kampung tempat tinggal kaum Anshar adalah kampung Bani Najjar kemudian Bani 'Abdil Asyhal kemudian Bani Al Harits bin Khazraj kemudian Bani Sa'idah. Dan setiap tempat tinggal seluruh kaum Anshar adalah baik". Maka Sa'ad berkata; "Anggapanku, Nabi shallallahu 'alaihi wasallam tidak lain beliau telah mengutamakan orang lain dibanding kami". Maka ia dijawab; "Justru beliau telah mengutamakan (menyanjung) kalian dibanding orang lain". Dan ['Abdush Shamad] berkata, telah bercerita kepada kami [Syu'bah] telah bercerita kepada kami [Qatadah], aku mendengar [Anas], telah berkata [Abu Usaid] dari Nabi shallallahu 'alaihi wasallam seperti hadits ini dan Sa'ad bin 'Ubadah telah pula berkata hal serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3789</td></tr><tr><td>Arabic No</td><td>3789</td></tr><tr><td>Reference</td><td>Book 63 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Усайида, да будет доволен им Аллах, что Пророк ﷺ сказал: «Лучшие из семей ансаров — это род бану ан-наджжар, затем род бану абд аль-ашхаль, затем род бану аль-харис ибн аль-хазрадж, а затем — род бану са‘ида, и в каждом из родов ансаров (есть благо)». \n(Услышав это), Са’д сказал: «Я вижу, что Пророк ﷺ предпочёл некоторых людей нам». Кто-то сказал (ему): «Он дал вам превосходство над многими»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3789</td></tr><tr><td>Arabic No</td><td>3789</td></tr><tr><td>Reference</td><td>Book 63 Hadith 14</td></tr></tbody></table></div>
 

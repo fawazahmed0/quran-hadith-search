@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Fatima bint Abi Hubaish said to Allah's Messenger (ﷺ), "O Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah], bahwa ia berkata, "Fatimah binti Abu Hubaisy berkata kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai Rasulullah, aku dalam keadaan tidak suci. Apakah aku boleh meninggalkan shalat?" Rasulullah shallallahu 'alaihi wasallam lalu menjawab: "Sesungguhnya itu adalah darah penyakit dan bukan darah haid. Jika haid kamu datang maka tingalkanlah shalat, dan jika telah berlalu masa-masa haid, maka bersihkanlah darah darimu lalu shalatlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>306</td></tr><tr><td>Arabic No</td><td>306</td></tr><tr><td>Reference</td><td>Book 6 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) Фатима бинт Абу Хубайш сказала Посланнику Аллаха ﷺ: “О Посланник Аллаха, поистине, я не очищаюсь, так не оставить ли мне намаз?” Посланник Аллаха ﷺ сказал: “Поистине, это венозная кровь, а не менструальная. Когда приблизится время месячных, оставь намаз, а когда они завершатся, смой с себя кровь и совершай намаз”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>306</td></tr><tr><td>Arabic No</td><td>306</td></tr><tr><td>Reference</td><td>Book 6 Hadith 11</td></tr></tbody></table></div>
 

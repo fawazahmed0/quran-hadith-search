@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Sa'îd Al-khudrî (que Dieu l'agrée) a dit : Un jour, l'Envoyé de Dieu (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru An Naqid], [Al Hasan Al Hulwani] dan [Abdulhamid bin Humaid], teks mereka hampir sama dan teks berikut milik Abdu, ia berkata: Telah menceritakan kepadaku, sementara yang lain berkata: Telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'ad] telah menceritakan kepada kami [ayahku] dari [Shalih] dari [Ibnu Syihab] telah mengkhabarkan kepadaku [Ubaidullah bin Abdullah bin Utbah] bahwa [Abu Sa'id Al Khudri] berkata: Telah menceritakan kepada kami Rasulullah Shallallahu 'alaihi wa Salam pada suatu hari cerita yang panjang tentang Dajjal, diantara yang beliau ceritakan kepada kami adalah: "Ia mendatangi jalan di gunung Madinah -padahal Madinah diharamkan baginya- hingga tiba di sebagaian tanah setelah Madinah. Saat itu seorang manusia terbaik atau diantara yang terbaik menghadangnya, ia berkata, 'Aku bersaksi bahwa kau adalah Dajjal yang pernah diceritakan Rasulullah Shallallahu 'alaihi wa Salam kepada kami.' Dajjal berkata: 'Bagaimana menurutmu, bila aku membunuh orang ini lalu aku menghidupkannya kembali, apa kau masih meragukannya? ' mereka menjawab: 'Tidak.' Dajjal pun membunuhnya lalu menghidupkannya kembali. Saat menghidupkannya, ia berkata: 'Demi Allah, aku tidak pernah lebih memahamimu melebihi saat ini.' lalu Dajjal ingin membunuhnya tapi ia tidak mampu mengusainya'." Abu Ishaq berkata: Ada yang mengatakan bahwa orang itu adalah Khadhir 'alaihis Salam. Telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] telah mengkhabarkan kepada kami [Abu Al Yaman] telah mengkhabarkan kepada kami [Syu'aib] dari [Az Zuhri] dalam sanad ini dengan matan serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7375</td></tr><tr><td>Arabic No</td><td>2938.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Шихаб (аз-Зухри) передал о том, что ‘Убайдуллах ибн ‘Абдуллах ибн ‘Утба сообщил ему, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: (Однажды) Посланник Аллаха ﷺ долго рассказывавший нам о Даджжале, среди прочего сказал: «Явится (Даджжаль), которому будет запрещено входить в Медину, и (остановится на) одном из солончаков, примыкающих к Медине. В тот день к нему выйдет луч­ший из людей (или: один из лучших людей) и скажет ему: “Я свидетельст­вую, что ты Даджжаль, о котором рассказывал нам Посланник Аллаха ﷺ”. Тогда Даджжаль обратится (к людям): “Скажите, если я убью этого (чело­века), а потом оживлю его, останутся ли у вас сомнения относительно этого дела?” Они скажут: “Нет” и он убьёт его, а потом воскресит, когда же он воскресит его, (этот человек) скажет: “Клянусь Аллахом, никогда моё знание о тебе не было столь твёрдым, как сейчас!” и Даджжаль захо­чет убить его, но не получит власти над ним».Абу Исхакъ сказал: «Этим человеком будет аль-Хадир, мир ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7375</td></tr><tr><td>Arabic No</td><td>2938.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 136</td></tr></tbody></table></div>
 

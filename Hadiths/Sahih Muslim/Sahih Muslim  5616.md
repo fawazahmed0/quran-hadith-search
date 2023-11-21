@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa b. Zubair and Fatima daughter of Mandhir b. Zubair, reported that Asma' dau
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hakam bin Musa Abu Shalih]; Telah menceritakan kepada kami [Syu'aib] yaitu Ibnu Ishaq; Telah mengabarkan kepadaku [Hisyam bin 'Urwah]; Telah menceritakan kepadaku ['Urwah bin Az Zubair] dan [Fathimah binti Al Mundzir bin Az Zubair] keduanya berkata; "Pada suatu hari ketika Asma' binti Abu Bakar keluar untuk berhijrah. Kebetulan saat itu ia sedang mengandung Abdullah bin Zubair. Sesampainya di Quba' ia pun melahirkan bayinya di sana. Setelah melahirkan, ia pun pergi menemui Rasulullah shallallahu 'alaihi wasallam agar beliau berkenan mentahnik bayi laki-lakinya itu. Lalu beliau mengambil bayi tersebut dan meletakkannya dalam pangkuan beliau. Setelah itu, beliau meminta kurma. [Aisyah] berkata; 'Kami harus mencarinya beberapa saat sebelum akhirnya kami temukan.' Tak lama kemudian Rasulullah mulai mengunyah kurma itu dan meludahkannya ke dalam si mulut bayi, hingga yang pertama-tama masuk ke dalam perutnya adalah ludah beliau. Selanjutnya, [Asma] berkata; 'Kemudian Rasulullah mengusap, mendoakan, dan memberinya nama 'Abdullah.' Kemudian ketika berumur tujuh atau delapan tahun, anak lelaki itu datang untuk berbai'at kepada Rasulullah shallallahu 'alaihi wasallam. Ayah anak tersebutlah, yaitu Zubair, yang telah menganjurkannya seperti itu. Rasulullah shallallahu 'alaihi wasallam tersenyum bangga saat melihat anak itu datang menghadap beliau untuk berbai'at, maka kemudian beliau membai'atnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5616</td></tr><tr><td>Arabic No</td><td>2146.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5616</td></tr><tr><td>Arabic No</td><td>2146.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 31</td></tr></tbody></table></div>
 

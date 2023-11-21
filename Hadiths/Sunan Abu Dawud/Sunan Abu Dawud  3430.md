@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbuMajidah said:I cut the ear of a boy, or he cut my ear (the narrator is doubtf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad bin Salamah], telah mengabarkan kepada kami [Muhammad bin Ishaq], dari [Al 'Ala' bin Abdurrahman], dari [Abu Majidah] ia berkata; aku telah memotong sebagian dari telinga seorang budak, atau sebagian dari telinga budakku telah terpotong. Kemudian Abu Bakr datang kepada kami dalam keadaan melakukan haji. Kemudian kami berkumpul kepadanya, lalu ia melaporkan kami kepada Umar bin Al Khathab, kemudian [Umar] berkata; sesungguhnya ini telah sampai kepada qishash, panggilkan tukang bekam agar ia membalasnya. Kemudian tatkala tukang bekam tersebut dipanggil ia berkata; aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya aku telah memberikan kepada bibiku seorang budak, dan aku berharap ia mendapatkan berkah pada diri budak tersebut." Kemudian aku katakan kepadanya; janganlah engkau serahkan ia kepada tukang bekam dan tukang pembuat perhiasan serta penjagal! Abu Daud berkata; [Abdul A'laa] telah meriwayatkan dari [Ibnu Ishaq], [Ibnu Majidah] seorang laki-laki dari Bani Sahm berkata; dari [Umar bin Al Khathab]. Telah menceritakan kepada kami [Yusuf bin Musa], telah menceritakan kepada kami [Salamah bin Al Fadhl], telah menceritakan kepada kami [Ibnu Ishaq] dari [Al 'Ala' bin Abdurrahman Al Huraqi], dari [Ibnu Majidah As Sahmi], dan [Umar bin Al Khathab], dari Nabi shallallahu 'alaihi wasallam seperti itu. Telah menceritakan kepada kami [Al Fadhl bin Ya'qub] telah menceritakan kepada kami [Abdul A'la] dari [Muhammad bin Ishaq], telah menceritakan kepada kami [Al 'Alaa bin Abdurrahman Al Huraqi], dari [Ibnu Majidah As Sahmi] dari [Umar bin Al Khathab radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3430</td></tr><tr><td>Arabic No</td><td>3430</td></tr><tr><td>Reference</td><td>Book 24 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Абу Маджида передаёт: Я отрезал одному слуге часть уха (или мне отрезали часть уха). А к нам как раз приехал Абу Бакр, который совершал хадж. Мы пришли к нему, и он отправил нас к ‘Умару ибн аль-Хаттабу. ‘Умар сказал: «Это уже тот случай, когда требуется воздаяние равным. Позовите ко мне цирюльника и пусть он воздаст ему равным». А когда позвали цирюльника, ‘Умар ибн аль-Хаттаб сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Я подарил своей тёте по матери слугу, и я надеюсь, что Аллах сделает его благодатным для неё. И я сказал ей: ‘Не отдавай его в (в учение) отворяющему кровь, ювелиру или мяснику‘”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3430</td></tr><tr><td>Arabic No</td><td>3430</td></tr><tr><td>Reference</td><td>Book 24 Hadith 15</td></tr></tbody></table></div>
 

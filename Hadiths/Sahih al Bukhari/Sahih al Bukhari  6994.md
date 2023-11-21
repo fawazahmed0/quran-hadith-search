@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Whoever has seen me in a dream, then no d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'allaa bin Asad] telah menceritakan kepada kami ['Abdul 'Aziz bin Mukhtar] telah menceritakan kepada kami [Tsabit Al Bunani] dari [Anas] radliallahu 'anhu mengatakan, Nabi shallallahu 'alaihi wasallam bersabda: "Siapa melihatku dalam mimpi, berarti ia telah melihatku, sebab setan tidak bisa menjelma sepertiku, dan mimpi seorang mukmin adalah sebagian dari empat puluh enam bagian kenabian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6994</td></tr><tr><td>Arabic No</td><td>6994</td></tr><tr><td>Reference</td><td>Book 91 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Кто увидит меня во сне, (это будет означать, что) он (действительно) увидел меня, ибо, поистине, шайтан не может принимать мой облик. Сновидение верующего является одной из сорока шести частей пророчества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6994</td></tr><tr><td>Arabic No</td><td>6994</td></tr><tr><td>Reference</td><td>Book 91 Hadith 13</td></tr></tbody></table></div>
 

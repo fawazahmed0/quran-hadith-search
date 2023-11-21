@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Hour will not be establi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] Telah menceritakan kepada kami ['Abdul Wahid] Telah menceritakan kepada kami [Umarah] Telah menceritakan kepada kami [Abu Zur'ah] Telah menceritakan kepada kami [Abu Hurairah radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan terjadi hari kiamat hingga matahari terbit dari sebelah barat. Apabila matahari itu telah terbit, dan orang-orang melihatnya maka mereka semua segera beriman. Itulah maksud firman Allah: Pada hari datangnya ayat (tanda) dari Tuhanmu, tidaklah bermanfaat lagi iman seseorang kepada dirinya sendiri yang belum beriman sebelum itu, atau dia (belum) mengusahakan kebaikan dalam masa imannya. (Al An'am)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4635</td></tr><tr><td>Arabic No</td><td>4635</td></tr><tr><td>Reference</td><td>Book 65 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайра, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не наступит Час, пока не взойдёт солнце на западе, а когда люди увидят это, все они уверуют, однако это будет то самое время, в которое “…не принесёт душе пользы вера её, если не уверовала она прежде…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4635</td></tr><tr><td>Arabic No</td><td>4635</td></tr><tr><td>Reference</td><td>Book 65 Hadith 157</td></tr></tbody></table></div>
 

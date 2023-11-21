@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ibn Mauhab also said that Um Salama had shown him the red hair of the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Sallam] dari [Utsman bin Abdullah bin Mauhab] dia berkata; aku pernah menemui [Ummu Salamah] lalu dia mengeluarkan kepada kami beberapa helai rambut Nabi shallallahu 'alaihi wasallam yang telah diwarnai dengan inai." [Abu Nu'aim] berkata kepada kami; telah menceritakan kepada kami [Nushair bin Abu Al Asy'ats] dari [Ibnu Mauhab] bahwa [Ummu Salamah] pernah memperlihatkan rambut Nabi shallallahu 'alaihi wasallam berwarna merah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5898</td></tr><tr><td>Arabic No</td><td>5898</td></tr><tr><td>Reference</td><td>Book 77 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5898</td></tr><tr><td>Arabic No</td><td>5898</td></tr><tr><td>Reference</td><td>Book 77 Hadith 115</td></tr></tbody></table></div>
 

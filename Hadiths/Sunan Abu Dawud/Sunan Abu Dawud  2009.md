@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Rafi’ said The Apostle of Allaah(ﷺ) did not command me to align there. B
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], dan [Utsman bin Abu Syaibah] secara makna. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Musaddad], mereka berkata; telah menceritakan kepada kami [Sufyan], telah menceritakan kepada kami [Shalih bin Kaisan] dari [Sulaiman bin Yasar], ia berkata; [Abu Rafi'] berkata; Rasulullah shallallahu 'alaihi wasallam tidak memerintahkanku agar mensinggahkan beliau, akan tetapi aku mendirikan tenda beliau, kemudian beliau pun singgah padanya. Musaddad berkata; Abu Rafi' pada saat itu berada di atas hewan yang membawa perbekalan Nabi shallallahu 'alaihi wasallam. Utsman berkata: bahwa itu terjadi di Al Abthah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1313)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>2009</td></tr><tr><td>Reference</td><td>Book 11 Hadith 289</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Рафи‘, да будет доволен им Аллах, передаёт: «Посланник Аллаха ﷺ не давал мне распоряжения останавливаться там (т.е. в Абтахе), однако я поставил его палатку, и он остановился там». Мусаддад сказал: «А он (т.е. Абу Рафи‘) отвечал за поклажу Пророку ﷺ». ‘Усман пояснял: «Дело было в Абтахе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1313)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>2009</td></tr><tr><td>Reference</td><td>Book 11 Hadith 289</td></tr></tbody></table></div>
 

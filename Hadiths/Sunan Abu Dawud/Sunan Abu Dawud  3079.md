@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Humaid Al Sa’idi said “I went to Tabuk on an expedition along with the A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahl bin Bakkar], telah menceritakan kepada kami [Wuhaib bin Khalid] dari ['Amr bin Yahya] dari [Al Abbas As Sa'idi bin Sahl bin Sa'id] dari [Abu Humaid As Sa'idi] ia berkata; aku berperang Tabuk bersama Rasulullah, kemudian tatkala beliau datang ke bukit Al Qura, ternyata terdapat seorang wanita yang berada di kebunnya. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda kepada para sahabatnya: "Potonglah!" kemudian Rasulullah shallallahu 'alaihi wasallam memotong sepuluh wasaq. Kemudian beliau berkata kepada wanita tersebut: " Hitunglah apa yang keluar dari kebun tersebut." Kemudian kami datang ke Tabuk, lalu raja Ailah memberikan hadiah seekor baghal kepada Rasulullah shallallahu 'alaihi wasallam yang berwarna putih, dan memberinya pakaian, dan ia mengakui bahwa beliau berhak terhadap jizyah atas penduduk tepi laut. Abu Humaid berkata; kemudian tatkala kami sampai di bukit Al Qura, beliau berkata kepada wanita tersebut: "Berapa yang ada di dalam kebunmu?" Ia berkata; sepuluh Wasaq sesuai yang dipoton Rasulullah shallallahu 'alaihi wasallam. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Sesungguhnya aku akan bersegera kembali ke Madinah, maka barang siapa diantara kalian yang hendak bersegara kembali bersamaku maka silahkan ia bersegera
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1481) Sahih Muslim (1392 After 2281)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3079</td></tr><tr><td>Arabic No</td><td>3079</td></tr><tr><td>Reference</td><td>Book 20 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хумайда ас-Са‘иди, да будет доволен им Аллах: «Я участвовал в походе на Табук вместе с посланником Аллаха ﷺ. Когда мы добрались до Вади-аль-Кура, мы увидели женщину, которая находилась в своём саду. Посланник Аллаха ﷺ сказал: “Оцените приблизительное количество плодов”. Посланник Аллаха ﷺ также оценил количество плодов, предположив, что их десять васков. Потом он сказал женщине: “Подсчитай количество плодов, когда созреют”. Затем мы прибыли в Табук и правитель Айлы подарил Посланнику Аллаха ﷺ белую мулицу и плащ и записал для Посланника Аллаха ﷺ сведения о жителях их приморской области. А когда мы пришли в Вади-аль-Кура, Посланник Аллаха ﷺ спросил у той женщины, сколько плодов дал её сад, и она сказала, что десять васков, что соответствовало предположению Посланника Аллаха ﷺ. Потом Посланник Аллаха ﷺ сказал: “Я спешу в Медину, и кто желает поспешить вместе со мной, пусть так и сделает”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1481) Sahih Muslim (1392 After 2281)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3079</td></tr><tr><td>Arabic No</td><td>3079</td></tr><tr><td>Reference</td><td>Book 20 Hadith 152</td></tr></tbody></table></div>
 

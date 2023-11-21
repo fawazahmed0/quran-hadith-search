@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amra bint 'Abdur-Rahman:A Jewess came to ask 'Aisha (the wife of the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti 'Abdurrahman] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa ada seorang wanita Yahudi datang bertanya kepadanya, ia katakan, "Apakah Allah akan melindungi anda dari siksa kubur?" Maka Aisyah menanyakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, "Apakah manusia akan disiksa dalam kubur mereka?" Rasulullah shallallahu 'alaihi wasallam lalu menjawab: "Aku berlindung darinya." Kemudian di pagi hari Rasulullah shallallahu 'alaihi wasallam pergi mengendarai tunggangannya, tiba-tiba terjadi gerhana matahari. Lalu beliau segera kembali saat masih waktu dluha, beliau melewati di antara kamar-kamar (isterinya), beliau kemudian mendirikan shalat dengan diikuti oleh orang-orang di belakangnya. Beliau berdiri dengan lama, lalu rukuk dengan rukuk yang panjang, lalu mengangkat (kepala) kemudian berdiri dengan panjang, namun tidak sepanjang yang pertama. Kemudian rukuk kembali dengan panjang namun tidak sepanjang rukuk yang pertama, kemudian beliau mengangkat kepalanya dan sujud. Kemudian beliau kembali berdiri dengan panjang namun tidak sepanjang yang pertama, lalu rukuk dengan panjang namun tidak sepanjang rukuk yang pertama, lalu mengangkat (kepala) dan berdiri dengan panjang namun tidak sepanjang yang pertama. Kemudian beliau rukuk dengan panjang namun tidak sepanjang rukuk yang pertama. Kemudian beliau mengangkat kepalanya, lalu sujud dan mengakhiri shalatnya. Kemudian beliau bersabda sebagaimana yang dikendaki Allah, kemudian memerintahkan orang-orang agar mereka memohon perlindungan dari siksa kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1050</td></tr><tr><td>Arabic No</td><td>1050</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Аиша, да будет доволен ею Аллах, сказала): «(Однажды) рано утром Посланник Аллаха ﷺ сел (на свою верблюдицу и куда-то поехал, но через некоторое время) началось солнечное затмение, и он вернулся назад ещё до полудня. Посланник Аллаха ﷺ прошёл мимо комнат (своих жён) и встал на намаз, а люди встали позади него. (Сначала) он долго стоял, потом надолго склонился в поясном поклоне, потом выпрямился и (снова) стоял долго, но меньше, чем в первый раз, потом совершил (ещё один) долгий поясной поклон, занявший меньше времени, чем первый, после чего выпрямился и (дважды) совершил земной поклон. Затем он (снова) встал и стоял долго, но меньше, чем в первый раз, а потом совершил долгий поясной поклон, длившийся меньше первого. Затем он (выпрямился и) стоял долго, но меньше, чем в первый раз, потом совершил долгий поясной поклон, длившийся меньше первого, потом выпрямился, (дважды) совершил земной поклон и закончил (намаз). Потом он сказал то, что было угодно Аллаху, а потом велел (людям) молить Аллаха о защите от мучений могилы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1050</td></tr><tr><td>Arabic No</td><td>1050</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
 

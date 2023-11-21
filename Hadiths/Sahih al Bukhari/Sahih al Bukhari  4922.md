@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yahya bin Abi Kathir:I asked Aba Salama bin 'Abdur-Rahman about the fir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] dari [Ali bin Al Mubarak] dari [Yahya bin Abu Katsir] aku bertanya kepada [Abu Salamah bin Abdurrahman] mengenai ayat Al Qur'an yang pertama kali turun, maka ia pun menjawab, "YAA 'AYYUHAL MUDDATSTSIR." Aku berkata, "Orang-orang mengatakan bahwa yang pertama kali turun adalah: 'IQRA'BISMI RABBIKALLADZII KHALAQ.'" Maka Abu Salamah berkata; Aku pernah menanyakan hal itu pada [Jabir bin Abdullah] radliallahu 'anhuma. Dan aku juga mengatakan seperti apa kamu katakan. Namun Jabir berkata; Aku tidak akan menceritakan kepadamu, kecuali dengan sesuatu yang telah diceritakan oleh Rasulullah shallallahu 'alaihi wasallam. Beliau bersabda: "Aku berdiam diri di gua Hira' Setelah selesai, aku pun beranjak keluar dan tiba-tiba aku mendengar seseorang memanggilku, maka aku pun menoleh ke sebelah kananku, namun aku tidak melihat siapa-siapa, ke sebelah kiri, juga aku tidak melihat seseorang, kuarahkan pandanganku ke depan juga tidak ada seorang pun yang terlihat, akhirnya aku menoleh ke belakang, aku juga tidak melihat siapa-siapa. Lalu aku mengangkat kepalaku, dan ternyata aku melihat sesuatu di atas langit. Setelah itu, aku segera mendatangi Khadijah dan berkata, 'Selimutilah aku. Dan tuangkanlah air dingin pada tubuhku.' Pada saat itulah, diturunkanlah ayat ini padaku: 'YAA 'AYYUHAL MUDDATSTSIR, QUM FA'ANDZIR, WA RABBAKA FAKABBIR (Wahai orang yang berselimut, bangunlah dan berilah peringatakan. Dan Tuhan-mu, agungkanlah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4922</td></tr><tr><td>Arabic No</td><td>4922</td></tr><tr><td>Reference</td><td>Book 65 Hadith 442</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Яхья ибн Аби Кясир рассказывал: «Однажды я спросил Абу Саляму ибн ‘Абдуррахмана о первом, что было ниспослано из Корана, и он ответил: “О завернувшийся!” Я сказал: “Но люди говорят, что это было: “Читай во имя Господа твоего, Который сотворил…””. Тогда Абу Саляма сказал: “(Однажды) Я спросил об этом Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, сказав ему то же самое, что сказал и ты, и Джабир сказал: “Я вам расскажу только то, что нам рассказал Посланник Аллаха ﷺ. Посланник Аллаха ﷺ сказал: “Я уединялся в пещере Хира, и когда закончилось моё уединение, я спустился и услышал голос, зовущий меня. Я посмотрел направо, но ничего не увидел, я посмотрел налево, но ничего не увидел, я посмотрел перед собой, но ничего не увидел, я посмотрел назад, но ничего не увидел. Потом я поднял глаза и что-то увидел. Я пришёл к Хадидже и сказал: “Укройте меня и облейте холодной водой”. Меня укрыли, и облили холодной водой, затем было ниспослано: “О завернувшийся! Встань и увещевай, и Господа своего возвеличивай…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4922</td></tr><tr><td>Arabic No</td><td>4922</td></tr><tr><td>Reference</td><td>Book 65 Hadith 442</td></tr></tbody></table></div>
 

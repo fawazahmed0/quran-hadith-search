@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Mughirah b. Shu’bah said :The Messenger of Allah (ﷺ) lagged behind (in a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>152</td></tr><tr><td>Arabic No</td><td>152</td></tr><tr><td>Reference</td><td>Book 1 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Зурары ибн Ауфа о том, что аль-Мугъира ибн Шу‘ба сказал: «Однажды (во время поездки) Посланник Аллаха ﷺ отстал (от людей)», и далее он привел этот рассказ.(Аль-Мугъира ибн Шу‘ба) сказал: «И когда мы пришли к людям, то нашли их совершающими утреннюю молитву во главе с ‘Абду-р-Рахманом ибн ‘Ауфом. Когда тот увидел Пророка ﷺ он захотел отойти назад, но (Пророк ﷺ) сделал ему знак продолжить (молитву)».(Аль-Мугъира ибн Шу‘ба) сказал: «И мы с Пророком ﷺ совершили один рак‘ат молитвы за ним, и когда он произнес слова приветствия, Пророк ﷺ встал и совершил пропущенный рак‘ат не добавив к этому ничего».Абу Дауд сказал: «Абу Са‘ид аль-Худри, Ибн Зубайр и Ибн ‘Умар говорят, что тому, кто застает обязательную молитву/фард/, следует совершить поклоны для невнимательных/садждата-с-сахв/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>152</td></tr><tr><td>Arabic No</td><td>152</td></tr><tr><td>Reference</td><td>Book 1 Hadith 152</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Rabi’ b. Khalid al-Dabbi said:I heard al-Hajjaj say in his address: Is the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Isma'il Ath Thalaqani] berkata, telah menceritakan kepada kami [Jarir]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Zuhair bin Harb] berkata, telah menceritakan kepada kami [Jarir] dari [Al Mughirah] dari [Ar Rabi' bin Khalid Adh Dlabbi] ia berkata; Aku mendengar [Al Hajjaj] berkhutbah, dalam khutbahnya ia mengatakan, "Utusan salah seorang dari kalian untuk memenuhi kebutuhannya lebih mulia dari dirinya atau lebih mulia dari orang yang diserahi untuk menjaga keluarganya?" Maka aku pun berucap dalam diriku, "Demi Allah, sungguh selamanya aku tidak akan shalat di belakangmu. Jika aku mendapati suatu kaum memerangimu maka aku akan ikut bergabung bersama mereka." Ishaq menambahkan dalam haditsnya, " Ia berkata, "Lalu Ar rabi' memerangi Al Hajaj di Jamajim hingga ia terbunuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4642</td></tr><tr><td>Arabic No</td><td>4642</td></tr><tr><td>Reference</td><td>Book 42 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ар-Раби‘а ибн Халида ад-Дабби: «Я слышал, как аль-Хаджжадж, обращаясь к людям с речью, сказал: “Кто дороже для вас: тот, кого вы посылаете с поручениями, или тот, кого оставляете вы над семьёй своей?” И я сказал себе: “Я обещаю Аллаху, что никогда не буду совершать молитву под твоим руководством, и если найду людей, которые выступят против тебя, я буду сражаться с тобой вместе с ними!”» Передатчик Исхак добавлял: «И он сражался в Джамаджиме и был убит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4642</td></tr><tr><td>Arabic No</td><td>4642</td></tr><tr><td>Reference</td><td>Book 42 Hadith 47</td></tr></tbody></table></div>
 

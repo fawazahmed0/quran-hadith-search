@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Ibn 'Umar through other chains
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata; Aku membaca Hadits [Malik] dari [Nafi'] dan ['Abdullah bin Dinar] dan [Zaid bin Aslam] mereka semua mengabarkannya; dari [Ibnu 'Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah tidak akan melihat orang yang memanjangkan pakaiannya karena sombong." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdullah bin Numair] dan [Abu Usamah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan Telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan ['Ubaidullah bin Sa'id] mereka berkata; Telah menceritakan kepada kami [Yahya] yaitu Al Qathan, seluruhnya dari ['Ubaidillah]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepada kami [Abu Ar Rabi'] dan [Abu Kaamil] keduanya berkata; Telah menceritakan kepada kami [Hammad]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Isma'il] keduanya; Dari [Ayyub]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Qutaibah] dan [Ibnu Rumh] dari [Al Laits bin Sa'd]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Harun Al Aili]; Telah menceritakan kepada kami [Ibnu Wahb]; Telah menceritakan kepadaku [Usamah] mereka semuanya dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam sebagaimana Hadits Malik, namun di dalamnya ada tambahan 'hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5454</td></tr><tr><td>Arabic No</td><td>2085.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5454</td></tr><tr><td>Arabic No</td><td>2085.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 69</td></tr></tbody></table></div>
 

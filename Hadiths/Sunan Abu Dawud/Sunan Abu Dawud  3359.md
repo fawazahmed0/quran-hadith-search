@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zayd Abu 'Ayyash asked Sa'd ibn Abi Waqqas about the sale of the soft and white 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah], dari [Malik], dari [Abdullah bin Yazid?], bahwa [Zaid Abu 'Ayyasy] telah mengabarkan kepadanya bahwa ia bertanya kepada [Sa'd bin Abu Waqqash] mengenai menjual jewawut dengan sult (semacam jewawut yang tidak berbulu). Kemudian Sa'd berkata kepadanya; manakah yang lebih baik? Ia berkata; jewawut. Kemudian Sa'd melarang dari hal tersebut, dan ia berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam ditanya mengenai pembelian kurma dengan ruthab (kurma yang belum matang). Kemudian beliau berkata: "Apakah ruthab akan berkurang apabila kering?" Mereka berkata; Iya. Kemudian Rasulullah shallallahu 'alaihi wasallam melarangnya dari hal tersebut. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Isma'il bin Umayyah] seperti hadits Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3359</td></tr><tr><td>Arabic No</td><td>3359</td></tr><tr><td>Reference</td><td>Book 23 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейд Абу ‘Айяш передаёт, что он спросил Са‘да ибн Абу Ваккаса об обмене зерно сорта байда на зерно сорта сальт. Са‘д спросил: «Какая из них лучше?» Он ответил: «Байда». Тогда он запретил ему совершать подобные обмены, сказав: «Я слышал, как Посланника Аллаха ﷺ спросили о продаже сушёных фиников за свежие и Посланник Аллаха ﷺ сказал: “Ведь свежий финик теряет в весе и объёме, когда высыхает?” Ему сказали: “Да”. И Посланник Аллаха ﷺ запретил это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3359</td></tr><tr><td>Arabic No</td><td>3359</td></tr><tr><td>Reference</td><td>Book 23 Hadith 34</td></tr></tbody></table></div>
 

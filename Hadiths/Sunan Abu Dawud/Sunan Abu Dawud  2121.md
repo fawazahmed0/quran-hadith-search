@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Messenger of Allah (ﷺ) married me when I was seven years 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb], serta [Abu Kamil], mereka berkata; Telah menceritakan kepada kami [Hammad bin Zaid] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam menikahiku sementara aku berumur tujuh tahun. Sulaiman berkata; atau enam tahun, dan beliau bercampur denganku sementara aku berumur sembilan tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3896) Sahih Muslim (1422)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2121</td></tr><tr><td>Arabic No</td><td>2121</td></tr><tr><td>Reference</td><td>Book 12 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Посланник Аллаха ﷺ женился на мне, когда мне было семь лет (или шесть), а вошёл ко мне, когда мне было девять»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3896) Sahih Muslim (1422)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2121</td></tr><tr><td>Arabic No</td><td>2121</td></tr><tr><td>Reference</td><td>Book 12 Hadith 76</td></tr></tbody></table></div>
 

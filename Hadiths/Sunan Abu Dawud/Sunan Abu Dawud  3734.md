@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir said:We were with Prophet (ﷺ) and he asked for something to drink. A man
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Jabir] ia berkata, "Saat kami bersama Nabi shallallahu 'alaihi wasallam, beliau minta diambilkan air minum. Lalu seorang laki-laki bertanya, "Maukah jika tuan kami beri perasan nabidz (minuman hasil peraman)? Beliau menjawab: "Ya." Jabir berkata, "Kemudian orang tersebut keluar dengan cepat dan datang kembali membawa bejana berisi minuman hasil peraman. Nabi shallallahu 'alaihi wasallam lalu bertanya: "Tidakkah engkau menutupnya walaupun hanya dengan merintangkan sebatang ranting di atasnya?" Abu Daud berkata, "Al Ashma'i menyebutkan, "Merintangkan di atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5605) Sahih Muslim (2011)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3734</td></tr><tr><td>Arabic No</td><td>3734</td></tr><tr><td>Reference</td><td>Book 27 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира (да будет доволен Аллах им и его отцом): «Мы были вместе с Пророком ﷺ и он попросил пить. Один человек спросил: “Напоить тебя набизом?” Он ответил: “Давайте”. Тогда этот человек поспешно принёс кувшин с набизом. Пророк ﷺ сказал: “Было бы лучше, если бы ты накрывал его чем-нибудь или хотя бы положил сверху палочку”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5605) Sahih Muslim (2011)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3734</td></tr><tr><td>Arabic No</td><td>3734</td></tr><tr><td>Reference</td><td>Book 27 Hadith 66</td></tr></tbody></table></div>
 

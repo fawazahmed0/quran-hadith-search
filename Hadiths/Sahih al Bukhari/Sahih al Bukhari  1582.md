@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:When the Ka'ba was built, the Prophet (ﷺ) and 'Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Abu 'Ashim] berkata, telah mengabarkan kepada saya [Ibnu Juraij] berkata, telah mengabarkan kepada saya ['Amru bin Dinar] berkata; Aku mendengar [Jabir bin 'Abdullah radliallahu 'anhua] berkata: "Ketika Ka'bah dibangun (diperbaiki) Nabi shallallahu 'alaihi wasallam dan 'Abbas mengangkut bebatuan, Saat itu Al 'Abbas berkata kepada Nabi shallallahu 'alaihi wasallam: "Ikatlah kain sarungmu pada lehermu". Tiba-tiba Beliau tersungkur ke tanah lalu kedua matanya terbelalak menengadah ke arah langit. Lalu Beliau berkata: "Berikanlah kain sarungku". Kemudian Beliau mengikatnya kembali dengan kuat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1582</td></tr><tr><td>Arabic No</td><td>1582</td></tr><tr><td>Reference</td><td>Book 25 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Когда строилась Кааба, Пророк ﷺ и ‘Аббас носили камни. Аль-‘Аббас сказал Пророку ﷺ: “Положи изар себе на плечо, (чтобы было легче носить камни)!” Когда Пророк ﷺ снял его, он упал на землю (без сознания), а его взор был устремлён в небо. Затем он сказал: “Дай мне мой изар!” И завязал его на себе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1582</td></tr><tr><td>Arabic No</td><td>1582</td></tr><tr><td>Reference</td><td>Book 25 Hadith 68</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of Allah's Apostle (ﷺ), said that whenever he had to choose b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari apa yang telah dibacakan kepadanya. Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; 'Aku membaca Hadits [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah] istri Nabi shallallahu 'alaihi wasallam dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam diberi pilihan dari dua urusan atau pekerjaan, maka beliau memilih yang termudah, selama yang termudah itu tidak mengandung dosa. Jika pekerjaan itu mengandung dosa, maka beliau adalah orang yang paling menjauhkan diri dari padanya. Dan beliau tidak pernah marah, melainkan apabila beliau melihat larangan Allah 'azza wajalla dilanggar." Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] seluruhnya dari [Jarir]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ahmad bin 'Abdah]; Telah menceritakan kepada kami [Fudhail bin 'Iyadh] keduanya dari [Manshur] dari [Muhammad] menurut riwayat Fudhail Ibnu Syihab. Sedangkan menurut riwayat Jarir adalah dari Muhammad Az Zuhri dari ['Urwah] dari ['Aisyah]; Dan telah menceritakannya kepada ku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] melalui jalur ini yang serupa dengan Hadits Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6045</td></tr><tr><td>Arabic No</td><td>2327.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6045</td></tr><tr><td>Arabic No</td><td>2327.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 103</td></tr></tbody></table></div>
 

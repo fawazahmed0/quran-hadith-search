@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of 'Uqba b. Amir Juhani. but in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zakaria bin Yahya bin Shalih Al Mishri] telah menceritakan kepada kami [Al Mufadlal] -yaitu Ibnu Fadlalah- telah menceritakan kepadaku [Abdullah bin 'Ayyasy] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin Amir] bahwa dia berkata, "Saudara perempuanku pernah bernadzar pergi ke Baitullah dengan berjalan kaki tanpa beralas kaki, lalu dia menyuruhku untuk memintakan fatwa kepada Rasulullah shallallahu 'alaihi wasallam perihal itu." Maka beliau bersabda: "Dia boleh berjalan kaki dan boleh pula naik kendaraan." Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepada kami [Sa'id bin Abu Ayyub] bahwa [Yazid bin Abu Habib] telah mengabarkan bahwa [Abu Al Khair] telah mengabarkan kepadanya dari ['Uqbah bin 'Amir Al Juhani] dia berkata, "Saudara perempuanku pernah bernadzar…" kemudian dia menyebutkan redaksi hadist seperti hadits Mufadlal, namun dalam haditsnya dia tidak menyebutkan, "Dengan tanpa beralas kaki." Dan dia menambahkan, "Abu Al Khair tidak membedakan antara haditsnya 'Uqbah. Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Ibnu Abu Khalaf] keduanya berkata; telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Yahya bin Ayyub] bahwa [Yazid bin Abu Habib] telah mengabarkan kepadanya dengan isnad seperti hadist Abdurrazaq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4251</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4251</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

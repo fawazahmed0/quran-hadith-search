@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Asim bin Sulaiman:I asked Anas bin Malik about Safa and Marwa. Anas re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari ['Ashim bin Sulaiman] dia berkata; Aku bertanya kepada [Anas bin Malik radliallahu 'anhu] tentang Shafa dan Marwa. Maka dia menjawab; Aku menganggap keduanya sebagai perkara jahiliyah, tatkala Islam datang, keduanya kami tinggalkan lalu turunlah firman Allah; "Sesungguhnya Shafa dan Marwa adalah sebagian dari syi'ar Allah. Maka barangsiapa yang beribadah haji ke Baitullah atau ber-'umrah, Maka tidak ada dosa baginya mengerjakan sa'i antara keduanya." (QS. Albaqarah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4496</td></tr><tr><td>Arabic No</td><td>4496</td></tr><tr><td>Reference</td><td>Book 65 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Асым ибн Сулейман рассказывал: «Я спросил Анаса ибн Малика, да будет доволен им Аллах, о ас-Сафе и аль-Марве”. И он ответил: “Мы считали, что это было из обрядов доисламского невежества /джахилийя/, и когда пришёл ислам мы перестали совершать бег между ними. (Так было до тех пор) пока Всевышний Аллах не ниспослал: “Воистину, ас-Сафа и аль-Марва — одни из обрядовых знамений Аллаха. Кто совершает хадж к Каабе или малое паломничество, тот не совершит греха, если пройдёт между ними” (сура “аль-Бакара”, аят 158)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4496</td></tr><tr><td>Arabic No</td><td>4496</td></tr><tr><td>Reference</td><td>Book 65 Hadith 23</td></tr></tbody></table></div>
 

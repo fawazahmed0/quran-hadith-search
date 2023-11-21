@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami ['Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; ini adalah apa yang telah diceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam -lalu dia menyebutkan beberapa Hadits di antaranya; - Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang bayi yang dilahirkan melainkan dalam keadaan fitrah ini, maka bapaknyalah yang menjadikannya Yahudi, atau Nasrani, sebagaimana mereka mendapatkan unta yang lahir, akankah mereka mendapatkan padanya cacat, sehingga kalianlah yang membuatnya cacat?" para sahabat bertanya; "Bagaimana pendapat anda dengan seorang anak kecil yang meninggal?" Beliau menjawab: "Allah lebih tahu dengan apa yang mereka kerjakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6760</td></tr><tr><td>Arabic No</td><td>2658.06</td></tr><tr><td>Reference</td><td>Book 46 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6760</td></tr><tr><td>Arabic No</td><td>2658.06</td></tr><tr><td>Reference</td><td>Book 46 Hadith 38</td></tr></tbody></table></div>
 

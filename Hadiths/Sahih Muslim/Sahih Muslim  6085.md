@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir. Samura reported:I saw the seal on his back as if it were a pigeon's egg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Simak] dia berkata; Aku mendengar [Jabir bin Samurah] berkata; "Aku melihat sebuah cap (stempel) di punggung Rasulullah shallallahu 'alaihi wasallam kira-kira sebesar telor merpati." Dan telah menceritakan kepada kami [Ibnu Numair] Telah menceritakan kepada kami [Ubaidullah bin Musa] Telah mengabarkan kepada kami [Hasan bin Shalih] dari [Simak] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6085</td></tr><tr><td>Arabic No</td><td>2344.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6085</td></tr><tr><td>Arabic No</td><td>2344.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 143</td></tr></tbody></table></div>
 

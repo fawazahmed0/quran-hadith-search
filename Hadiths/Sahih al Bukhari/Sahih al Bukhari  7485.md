@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If Allah loves a person, He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] telah menceritakan kepada kami [Abdushshamad] telah menceritakan kepada kami ['Abdurrahman] -yaitu Ibnu Abdullah bin Dinar- dari [Ayahnya] dari [Abu Shalih] dari [Abu Hurairah] radliyallahu'anhu berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah Tabaraka wa Ta'ala jika mencintai seseorang, Ia memanggil Jibril 'Sesungguhnya Allah mencintai si fulan maka cintailah dia, sehingga Jibril pun mencintainya. Kemudian Jibril memanggil seluruh penghuni langit seraya berseru, 'Sesungguhnya Allah mencintai si fulan maka cintailah dia, maka penghuni langit pun mencintainya, sehingga orang tersebut diterima oleh penduduk bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7485</td></tr><tr><td>Arabic No</td><td>7485</td></tr><tr><td>Reference</td><td>Book 97 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Поистине, если Всевышний и Благословенный Аллах испытывает любовь к кому-либо из рабов, Он обращается к Джибрилю, говоря: “Поистине, Аллах полюбил такого-то, полюби же его и ты!” И тогда Джибриль начинает любить его, а потом Джибриль возвещает на небе: “Поистине, Аллах любит такого-то, полюбите же его и вы!” И небожители начинают любить его, а потом его принимают и жители Земли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7485</td></tr><tr><td>Arabic No</td><td>7485</td></tr><tr><td>Reference</td><td>Book 97 Hadith 111</td></tr></tbody></table></div>
 

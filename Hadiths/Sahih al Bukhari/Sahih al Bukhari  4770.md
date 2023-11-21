@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Verse:--'And warn your tribe of near-kindred, was r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] Telah menceritakan kepada kami [Bapakku] Telah menceritakan kepada kami [Al A'masy] dia berkata; Telah menceritakan kepadaku ['Amru bin Murrah] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] dia berkata; Tatkala turun ayat: Dan peringatkanlah keluargamu yang terdekat, (As Syu'ara: 214). Rasulullah shallallahu 'alaihi wasallam naik ke Shofa dan berteriak memanggil-manggil; 'Wahai bani Fihr, wahai Bani 'Adi dari keturunan Quraisy! Hingga orang-orang pun berkumpul dan apabila ada di antara mereka yang tidak bisa hadir, mereka mengutus utusan untuk menghadirinya. Demikian juga Abu Jahal dan orang-orang Quraisy pun berdatangan. Beliau bersabda: 'Apa pendapat kalian jika kuberitahukan kepada kalian bahwa pasukan berkuda dari musuh di balik lembah ini akan menyerang kalian apakah kalian akan membenarkanku (mempercayaiku)? Mereka menjawab: Tentu, karena kamu tidak pernah berdusta. Lalu beliau berkata: 'Sesungguhnya aku memperingatkan kalian akan adzab yang berat. Maka Abu Lahab berkata: 'Apakah untuk ini engkau mengumpulkan kami?! Celakalah kamu! ia berkata: Maka Allah azza wa jalla menurunkan "Binasalah kedua tangan abu Lahab dan Sesungguhnya dia akan binasa." (QS. Al Lahab:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4770</td></tr><tr><td>Arabic No</td><td>4770</td></tr><tr><td>Reference</td><td>Book 65 Hadith 292</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘ид ибн Джубайр передал, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Когда был ниспослан аят “Предостереги своих ближайших родственников!” (сура “аш-Шу‘ара”, аят 214), Пророк ﷺ поднялся на ас-Сафа и принялся громко звать племена курайшитов: “О бану фихр! О бану ‘ади!”, пока они не собрались вместе, а те, кто не смог прийти, отправил вместо себя кого-нибудь, чтобы узнать, в чём дело. Туда пришёл Абу Лахаб и курайшиты, и Посланник Аллаха ﷺ (обращаясь к ним) сказал: “Скажите, если я скажу вам, что в долине стоит конница, которая готова напасть на вас, поверите ли вы мне?” Они ответили: “Да, мы не видели от тебя ничего, кроме правды”. Он сказал: “Поистине, я предостерегаю вас перед наступлением тяжких мучений”. Тогда Абу Лахаб сказал: “Пропади ты пропадом на весь оставшийся день! Неужели ты собрал всех нас ради этого?” И тогда были ниспосланы (аяты): “Да пропадут пропадом руки Абу Лахаба, и сам он пропал. Не спасло его богатство и то, что он приобрёл (положение в обществе и дети)” (сура “аль-Масад”, аяты 1-2)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4770</td></tr><tr><td>Arabic No</td><td>4770</td></tr><tr><td>Reference</td><td>Book 65 Hadith 292</td></tr></tbody></table></div>
 

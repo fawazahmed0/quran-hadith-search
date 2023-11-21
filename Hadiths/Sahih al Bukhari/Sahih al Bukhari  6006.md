@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safwan bin Salim:The Prophet (ﷺ) said "The one who looks after and wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abdullah] dia berkata; telah menceritakan kepadaku [Malik] dari [Shafwan bin Sulaim] yang merafa'kan (menyandarkannya) kepada Nabi shallallahu 'alaihi wasallam beliau bersabda: "Orang yang membantu para janda dan orang-orang miskin seperti orang yang berjihad dijalan Allah atau seperti orang yang selalu berpuasa siang harinya dan selalu shalat malam pada malam harinya." Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Tsaur bin Zaid Ad Daili] dari [Abu Al Ghaits] bekas budak Ibnu Muthi' dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6006</td></tr><tr><td>Arabic No</td><td>6006</td></tr><tr><td>Reference</td><td>Book 78 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сафвана ибн Сулейма, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пекущийся о вдове и неимущем подобен сражающемуся на пути Аллаха или тому, кто (постоянно) постится днём и молится (все) ночи напролёт»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6006</td></tr><tr><td>Arabic No</td><td>6006</td></tr><tr><td>Reference</td><td>Book 78 Hadith 37</td></tr></tbody></table></div>
 

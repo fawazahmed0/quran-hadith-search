@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma 'bint Abi Bakr:During the period of the peace treaty of Quraish wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Hatim bin Isma'il] dari [Hisyam bin 'Urwah] dari [bapaknya] dari [Asma' binti bau Bakr radliallahu 'anhuma] berkata; Ibuku menemuiku saat itu dia masih musyrik ketika quraisy muslimin mengikat perjanjian dengan Rasulullah shallallahu 'alaihi wasallam dan ayahnya, lalu aku meminta pendapat kepada Rasulullah shallallahu 'alaihi wasallam. Aku katakan; "Wahai Rasulullah, Ibuku datang kepadaku dan dia sangat ingin (aku berbuat baik padanya), apakah aku harus tetap menjalin hubungan dengan ibuku?". Beliau menjawab: "Ya, sambunglah silaturrahim dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3183</td></tr><tr><td>Arabic No</td><td>3183</td></tr><tr><td>Reference</td><td>Book 58 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Абу Бакр, да будет доволен Аллах ими обоими, сказала: «После заключения мирного договора курайшитов с Посланником Аллаха ﷺ ко мне приехала моя мать в сопровождении своего отца, которая была многобожницей. Я обратилась за советом к Посланнику Аллаха ﷺ, сказав: “О Посланник Аллаха, ко мне приехал моя мать, которая чего-то хочет, так следует ли мне поддерживать с ней отношения?” — (на что) он ответил: “Да, поддерживай отношения с ней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3183</td></tr><tr><td>Arabic No</td><td>3183</td></tr><tr><td>Reference</td><td>Book 58 Hadith 25</td></tr></tbody></table></div>
 

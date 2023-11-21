@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:This Verse: "When two of your parties almost Decided to fall away
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] dari [Ibnu Uyainah] dari ['Amru] dari [Jabir] radliallahu 'anhu, dia berkata, "Ayat ini turun kepada kami: '(Ketika dua golongan dari padamu ingin (mundur) Karena takut..) ' (Qs. Ali Imran: 122), yaitu bani Salimah dan Bani Haritsah, dan aku lebih suka jika ayat tersebut tidak turun, Allah berfirman: '(padahal Allah adalah penolong bagi kedua golongan itu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 64 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Аят “Когда два отряда среди вас готовы были пасть духом…” (сура “Али Имран”, аят 122) был ниспослан о нас: бану салима и бану хариса, и я не хотел бы чтобы он не ниспосылался, ведь Аллах сказал в нём: “Аллах был их Покровителем” (сура “Али Имран”, аят 122)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 64 Hadith 97</td></tr></tbody></table></div>
 

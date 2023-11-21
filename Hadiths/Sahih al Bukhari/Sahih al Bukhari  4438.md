@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:'Abdur-Rahman bin Abu Bakr entered upon the Prophet (ﷺ) while I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] Telah menceritakan kepada kami [Affan] dari [Shakhr bin Juwairiyah] dari [Abdurrahman bin Al Qasim] dari [Bapaknya] dari [Aisyah] bahwa ketika Rasulullah shallallahu 'alaihi wasallam bersandar di dadaku, Abdurrahman bin Abu Bakr masuk ke rumah sambil membawa kayu siwak yang biasa dia pakai. Rasulullah shallallahu 'alaihi wasallam pun melihat kepadanya. Aku berkata kepadanya; 'Berikan siwak itu kepadaku wahai Abdurrahman! ' Lalu dia memberikannya kepadaku. Kemudian aku bersihkan, dan aku kunyah setelah itu aku berikan kepada Rasulullah shallallahu 'alaihi wasallam. Beliau pun bersiwak dengannya. Aku tidak pernah melihat sebelumnya beliau bersiwak sebaik itu. Setelah selesai, beliau mengangkat tangannya, atau jarinya seraya berkata; 'Arrafiiqul A'laa, Arrafiiqul A'laa (Ya Allah, sekarang aku memilih kekasihku yang tertinggi sekarang aku memilih kekasihku yang tertinggi) sebanyak tiga kali. Lalu beliau wafat. Aisyah berkata; 'Beliau wafat di antara dagu dan tenggorokanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4438</td></tr><tr><td>Arabic No</td><td>4438</td></tr><tr><td>Reference</td><td>Book 64 Hadith 459</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша рассказывала: «‘Абдуррахман ибн Аби Бакр зашёл к Пророку ﷺ в то время как я прислонила его к моей груди. У ‘Абдуррахмана (в руке) был влажный сивак, которым он чистил рот, и Посланник Аллаха ﷺ стал пристально смотреть на него (т.е. на сивак). Затем я взяла сивак у ‘Абдуррахмана, отломила (его использованный кончик), разжевала, привела его в порядок и дала его Пророку ﷺ. После чего он стал чистить им рот так тщательно, что я не видела, чтобы Посланник Аллаха ﷺ так чистил (когда-либо) до этого. Закончив чистить рот, Посланник Аллаха ﷺ поднял свою руку (или палец) и затем сказал три раза: “В высшее общество”. После чего он умер ﷺ». \nИ (‘Аиша) говорила: «Умер (Пророк ﷺ) лежа между моей шеей и грудью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4438</td></tr><tr><td>Arabic No</td><td>4438</td></tr><tr><td>Reference</td><td>Book 64 Hadith 459</td></tr></tbody></table></div>
 

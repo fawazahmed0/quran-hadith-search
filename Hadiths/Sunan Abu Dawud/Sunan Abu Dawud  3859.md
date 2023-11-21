@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Kabshah al-Ansari: The Messenger of Allah (ﷺ) used to have himsel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahman bin Ibrahim Ad Dimasyqi] dan [Katsir bin 'Ubaid] mereka berkata; telah menceritakan kepada kami [Al Walid] dari [Ibnu Tsauban] dari [Abu Kabsyah Al Anmari] [Katsir] berkata, "Sesungguhnya ia telah meriwayatkannya bahwa Nabi shallallahu 'alaihi wasallam berbekam pada kepalanya, dan di antara kedua pundanya. Beliau bersabda: "Barangsiapa mengalirkan sebagian dari darah ini, maka ia tidak akan terkena bahaya sekiranya tidak berobat dengan sesuatu, untuk suatu penyakit tertentu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3859</td></tr><tr><td>Arabic No</td><td>3859</td></tr><tr><td>Reference</td><td>Book 29 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Кабши аль-Анмари, да будет доволен им Аллах, что Пророк ﷺ обычно делал себе кровопускание на затылке и между лопаток, говоря: «Кто выпускает кровь из этих мест, тому не повредит, если он не будет использовать никакие другие лекарства ни при каких болезнях»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3859</td></tr><tr><td>Arabic No</td><td>3859</td></tr><tr><td>Reference</td><td>Book 29 Hadith 5</td></tr></tbody></table></div>
 

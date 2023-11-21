@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn AbuMulaykah told that when someone remarked to Aisha that a woman was wearin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Luwain] -dan sebagiannya dengan cara dibacakan kepadanya- dari [Sufyan] dari [Ibnu Juraij] dari [Ibnu Abu Mulaikah] ia berkata, "Dikatakan kepada ['Aisyah radliallahu 'anhu], "Bagaimana dengan wanita yang memakai sandal?" ia menjawab, "Rasulullah shallallahu 'alaihi wasallam melaknat wanita-wanita yang menyerupai laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4099</td></tr><tr><td>Arabic No</td><td>4099</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн Абу Муляйки, что ‘Аише, да будет доволен ею Аллах, сказали: «Поистине, одна женщина носит мужские сандалии!» Она сказала: «Посланник Аллаха ﷺ проклял женщину, которая уподобляется мужчинам (уподобляясь им в одежде, украшениях и внешнем виде, а также в речи и манерах)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4099</td></tr><tr><td>Arabic No</td><td>4099</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
 

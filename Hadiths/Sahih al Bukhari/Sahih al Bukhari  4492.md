@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:We prayed along with the Prophet (ﷺ) facing Jerusalem for six
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Yahya] dari [Sufyan] Telah menceritakan kepadaku [Abu Ishaq] dia berkata; Aku mendengar [Al Barra radliallahu 'anhu] berkata; "Kami shalat bersama Rasulullah shallallahu 'alaihi wasallam dengan menghadap ke Baitul Maqdis selama enam belas atau tujuh belas bulan. Lalu beliau merubahnya dengan menghadap kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4492</td></tr><tr><td>Arabic No</td><td>4492</td></tr><tr><td>Reference</td><td>Book 65 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «В течение шестнадцати или семнадцати месяцев мы молились вместе с Пророком ﷺ, обращаясь лицом в сторону Иерусалима, а затем (Аллах) повернул его в сторону Каабы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4492</td></tr><tr><td>Arabic No</td><td>4492</td></tr><tr><td>Reference</td><td>Book 65 Hadith 19</td></tr></tbody></table></div>
 

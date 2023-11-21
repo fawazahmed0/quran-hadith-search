@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Tariq ibn Suwayd or Suwayd ibn Tariq: Wa'il said: Tariq ibn Suwayd or S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Syu'bah] dari [Simak] dari ['Alqamah bin Wail] dari [Ayahnya] [Thariq bin Suwaid] atau Suwaid bin Thariq menyebutkan, "Ia bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai khamer, kemudian beliau melarangnya. Lalu ia bertanya lagi kepada beliau, kemudian beliau melarangnya. Lalu ia berkata lagi kepada beliau, "Wahai Nabi Allah, sesungguhnya khamer adalah obat!" Maka Nabi shallallahu 'alaihi wasallam bersabda: "Tidak! Tetapi dia adalah penyakit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1984)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3873</td></tr><tr><td>Arabic No</td><td>3873</td></tr><tr><td>Reference</td><td>Book 29 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто выпил яд, тот будет держать его в руке и пить его в Адском огне вечно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1984)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3873</td></tr><tr><td>Arabic No</td><td>3873</td></tr><tr><td>Reference</td><td>Book 29 Hadith 19</td></tr></tbody></table></div>
 

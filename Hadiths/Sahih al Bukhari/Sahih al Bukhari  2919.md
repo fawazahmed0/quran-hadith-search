@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) allowed 'Abdur-Rahman bin 'Auf and Az-Zubair to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Al Miqdam] telah bercerita kepada kami [Khalid bin Al Harits] telah bercerita kepada kami [Sa'id] dari [Qatadah] bahwa [Anas] bercerita kepada mereka bahwa Nabi shallallahu 'alaihi wasallam memberi keringanan kepada 'Abdur Rahman bin 'Auf dan Az Zubair untuk menggunakan baju yang terbuat dari sutera karena alasan penyakit gatal yang diderita keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2919</td></tr><tr><td>Arabic No</td><td>2919</td></tr><tr><td>Reference</td><td>Book 56 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ разрешил ‘Абдуррахману ибн ‘Ауфу и аз-Зубайру носить шёлковые рубахи по той причине, что они страдали от чесотки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2919</td></tr><tr><td>Arabic No</td><td>2919</td></tr><tr><td>Reference</td><td>Book 56 Hadith 132</td></tr></tbody></table></div>
 

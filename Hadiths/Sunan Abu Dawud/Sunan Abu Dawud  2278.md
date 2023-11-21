@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: Zayd ibn Harithah went out to Mecca and brought the d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Abbas bin Abdul 'Azhim], telah menceritakan kepada kami [Abdul Malik bin 'Amr], telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Yazid bin Al Had], dari [Muhammad bin Ibrahim], dari [Nafi' bin 'Ujair] dari [ayahnya] dari [Ali] radliallahu 'anhu, ia berkata; Zaid bin Haritsah pergi menuju Mekkah dan datang membawa anak wanita Hamzah, kemudian Ja'far berkata; aku akan mengambilnya, aku lebih berhak terhadapnya ia adalah anak pamanku, dan bibinya (dari pihak ibu) adalah isteriku, sesungguhnya bibi dari pihak ibu adalah sama dengan seorang ibu. Kemudian Ali berkata; aku lebih berhak terhadapnya, ia adalah anak pamanku dan anak Rasulullah shallallahu 'alaihi wasallam adalah isteriku, dan ia lebih berhak terhadapnya. Kemudian Zaid berkata; aku lebih berhak terhadapnya, aku keluar dan pergi menuju kepadanya, dan datang membawanya. Kemudian Nabi shallallahu 'alaihi wasallam lalu menyebutkan sebuah hadits, beliau berkata; adapun anak itu aku putuskan untuk Ja'far, ia akan bersama bibinya, sesungguhnya bibi dari pihak ibu adalah seperti ibu. Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Sufyan] dari [Abu Farwah] dari [Abdurrahman bin Abu Laila] dengan hadits ini tidak secara sempurna. Ia berkata; dan beliau memutuskan anak tersebut untuk Ja'far, beliau berkata: "Sesungguhnya bibinya dari pihak ibu adalah isterinya." Telah menceritakan kepada kami ['Abbad bin Musa] bahwa [Isma'il bin Ja'far], ia telah menceritakan kepada mereka dari [Israil] dari [Abu Ishaq] dari [Hani'] dan [Hubairah] dari [Ali], ia berkata; kami keluar dari Mekkah, dan kami diikuti anak wanita Hamzah, ia memanggil; wahai paman, wahai paman! Kemudian Ali mengambilnya dan menggandeng tangannya. Ia berkata (kepada Fathimah); ambillah anak pamanmu! Kemudian Fathimah menggendongnya. Ali menceritakan hadits ini, ia berkata; Ja'far berkata; ia adalah anak pamanku dan bibinya dari pihak ibu adalah isteriku. Kemudian Nabi shallallahu 'alaihi wasallam memutuskan bahwa anak tersebut adalah menjadi hak bibinya dari pihak ibu, dan beliau berkata; ibu dari pihak ibu adalah seperti ibu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 13 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али, да будет доволен им Аллах, что Зейд ибн Хариса поехал в Мекку и привёз оттуда дочь Хамзы. Джа‘фар сказал: «Я возьму её, поскольку она дочь моего дяди и я женат на её тёте по матери, а тётя по матери (всё равно что) мать». ‘Али сказал: «У меня больше прав на неё. Она дочь и моего дяди, и я женат на дочери Посланника Аллаха ﷺ и у неё больше прав на девочку». А Зейд сказал: «У меня больше прав на неё, поскольку я ездил за ней и я привёз её». Тогда Пророк ﷺ вышел к ним и сказал: «Я отдаю девочку Джа‘фару, чтобы она была со своей тётей по матери, потому что тётя по матери (всё равно что) мать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 13 Hadith 104</td></tr></tbody></table></div>
 

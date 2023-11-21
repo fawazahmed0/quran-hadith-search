@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "Bath on Friday is compulso
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Shafwan bin Sulaim] dari ['Atho' bin YAsar] dari [Abu Sa'id Al Khudriy] telah sampai kepadanya sabda Nabi shallallahu 'alaihi wasallam: "Mandi pada hari Jum'at adalah wajib bagi setiap orang yang sudah mimpi (baligh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2665</td></tr><tr><td>Arabic No</td><td>2665</td></tr><tr><td>Reference</td><td>Book 52 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «Совершение большого омовения в пятницу обязательно для каждого достигшего половой зрелости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2665</td></tr><tr><td>Arabic No</td><td>2665</td></tr><tr><td>Reference</td><td>Book 52 Hadith 29</td></tr></tbody></table></div>
 

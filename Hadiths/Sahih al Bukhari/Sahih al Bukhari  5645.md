@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If Allah wants to do good to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Muhammad bin Abdullah bin Abdurrahman bin Abu Sha'sha'ah] bahwa dia berkata, saya mendengar [Sa'id bin Yasar Abu Al Hubbab] berkata; saya mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa di kehendaki Allah kebaikan, maka Dia akan mengujinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5645</td></tr><tr><td>Arabic No</td><td>5645</td></tr><tr><td>Reference</td><td>Book 75 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Того, кому Аллах желает добра, Он подвергает испытаниям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5645</td></tr><tr><td>Arabic No</td><td>5645</td></tr><tr><td>Reference</td><td>Book 75 Hadith 5</td></tr></tbody></table></div>
 

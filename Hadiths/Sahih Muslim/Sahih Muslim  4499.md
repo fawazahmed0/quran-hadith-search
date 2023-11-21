@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Khalid al-Juhani reported that a person asked Allah's Apostle (ﷺ) abou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibin Hujr]. Ibnu Hujr berkata; telah mengabarkan kepada kami, sedangkan yang dua orang mengatakan; telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Ja'far- dari [Rabi'ah bin Abu Abdurrahman] dari [Yazid] -bekas budak Al Munba'its- dari [Zaid bin Khalid Al Juhani] bahwa seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang barang temuan, lalu beliau bersabda: "Umumkanlah selama setahun, lalu kenalilah wadah dan talinya setelah itu manfaatkanlah ia, jika pemiliknya datang maka berikanlah barang tersebut kepadanya." Kemudian orang itu bertanya lagi, "Wahai Rasulullah, bagaimana dengan kambing yang hilang?" Beliau menjawab: "Ambillah, mungkin ia dapat menjadi milikmu atau milik saudaramu atau bahkan menjadi milik serigala." Dia bertanya lagi, "Wahai Rasulullah, bagaimana jika yang ditemukan adalah unta?" Zaid bin Khalid berkata, "Maka Rasulullah shallallahu 'alaihi wasallam marah hingga wajahnya memerah, kemudian beliau bersabda: "Apa urusanmu dengan unta yang hilang? Ia telah membawa sepatu (punya kaki) dan wadah airnya sendiri hingga ia bertemu pemiliknya." Dan telah menceritakanku [Abu At Thahir] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Sufyan Ats Tsauri] dan [Malik bin Anas] dan ['Amru bin Al Harits] dan yang lainnya, bahwa [Rabi'ah bin Abu Abdurrahman] telah menceritakan kepada mereka dengan isnad ini seperti hadits Malik, hanya saja ia menambahkan; Zaid berkata, "Seorang laki-laki datang menemui Rasulullah shallallahu 'alaihi wasallam, sedangkakn saat itu aku bersama beliau, lantas dia bertanya mengenai barang temuan." Perawi berkata; Amru menyebutkan dalam hadits, "Jika pemiliknya belum datang untuk mengambilnya, maka kamu boleh memanfaatkannya." Dan telah menceritakanku [Ahmad bin Utsman bin Hakim Al Audi] telah menceritakan kepadaku [Khlaid bin Makhlad] telah menceritakanku [Sulaiman] -yaitu Ibnu Bilal- dari [Rabi'ah bin Abu Abdurrahman] dari [Yazid] -bekas budak Al Munba'its- dia berkata; aku pernah mendengar [Zaid bin Khalid Al Juhani] berkata, "Seorang laki-laki datang menemui Rasulullah shallallahu 'alaihi wasallam, lalu dia menyebutkan seperti hadits Isma'il bin Ja'far, namun dia menyebutkan, "Lalu beliau marah sampai terlihat wajahnya memerah." Dan setelah perkataanya, "kemudian umumkanlah selama setahun, jika pemiliknya belum datang maka ia menjadi barang titipan untukmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4499</td></tr><tr><td>Arabic No</td><td>1722.02</td></tr><tr><td>Reference</td><td>Book 31 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4499</td></tr><tr><td>Arabic No</td><td>1722.02</td></tr><tr><td>Reference</td><td>Book 31 Hadith 2</td></tr></tbody></table></div>
 

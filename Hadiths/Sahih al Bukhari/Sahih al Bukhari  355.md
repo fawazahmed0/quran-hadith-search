@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Abi Salama:I saw the Prophet (ﷺ) offering prayers in a sing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami [Hisyam] berkata, telah menceritakan kepadaku [Bapakku] dari ['Umar bin Abu Salamah] bahwa dia melihat Nabi shallallahu 'alaihi wasallam shalat di rumah Ummu Salamah dengan mengenakan satu kain yang kedua sisinya digantungkan pada kedua pundaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>355</td></tr><tr><td>Reference</td><td>Book 8 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара ибн Абу Салямы, да будет доволен им Аллах, о том, что он видел, как Пророк ﷺ молился в одной одежде в доме Умм Салямы, накинув её края себе на плечи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>355</td></tr><tr><td>Reference</td><td>Book 8 Hadith 7</td></tr></tbody></table></div>
 

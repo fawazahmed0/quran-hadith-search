@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The Prophet (ﷺ) went out to affect a reconciliation bet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepada kami ['Abdul 'Aziz bin Abu Hazim] dari [bapaknya] dari [Sahal bin Sa'ad radliallahu 'anhu] berkata; Suatu hari Rasulullah shallallahu 'alaihi wasallam keluar rumah untuk menyelesaikan masalah yang terjadi diantara suku Bani 'Amru bin 'Auf bin Al Harits kemudian tiba waktu shalat. Maka Bilal menemui Abu Bakar radliallahu 'anhuma seraya berkata: "Nabi shallallahu 'alaihi wasallam sedang berhalangan, apakah engkau mau memimpin shalat berjama'ah? Dia (Abu Bakar) menjawab: "Boleh, jika kalian menghenmdaki". Maka Bilal membacakan iqamat shalat dan Abu Bakar maju memimpin shalat. Tak lama kemudian datang Nabi shallallahu 'alaihi wasallam berjalan menerobos tengah-tengan shaf membelah barisan hingga sampai di shaf pertama. Maka orang-orang memberi isyarat dengan bertepuk tangan. Sahal berkata: "Apakah kalian tahu bahwa At-Tashfiih berbeda dengan At-Tashfiiq? Saat itu Abu Bakar tidak bereaksi dan tetap meneruskan shalatnya. Ketika suara tepukan semakin banyak, Abu Bakar berbalik dan ternyata dia melihat ada Nabi shallallahu 'alaihi wasallam dalam barisan. Maka Nabi shallallahu 'alaihi wasallam memberi isyarat kepadanya agar dia tetap pada posisinya. Abu Bakar mengangkat kedua tangannya lalu memuji Allah kemudian Abu Bakar mundur, lalu Nabi shallallahu 'alaihi wasallam maju untuk melanjutkan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1201</td></tr><tr><td>Arabic No</td><td>1201</td></tr><tr><td>Reference</td><td>Book 21 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ отправился к бану ‘амр ибн ‘ауф, чтобы примирить их. Когда настало время молитвы, Биляль пришел к Абу Бакру, да будет доволен ими обоими Аллах и сказал: “О, Абу Бакр! Пророк ﷺ задерживается, проведешь ли ты молитву с людьми!?” Абу Бакр ответил: “Хорошо, если ты хочешь”. Тогда Биляль произнес “икаму”, а Абу Бакр, да будет доволен им Аллах, вышел вперёд и начал молиться. Тем временем пришел Пророк ﷺ он пробрался между рядами и встал в (первый) ряд. Люди, увидев его начали хлопать в ладоши. Абу Бакр (никогда) не смотрел по сторонам во время молитвы, однако, когда хлопать стали сильнее, он повернулся и увидел Пророка ﷺ стоящего в ряду, который знаком показал ему, чтобы он оставался на месте, однако Абу Бакр поднял руки к небу, возблагодарил Аллаха и стал отходить назад, а Пророк ﷺ вышел вперёд и провёл молитву с людьми
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1201</td></tr><tr><td>Arabic No</td><td>1201</td></tr><tr><td>Reference</td><td>Book 21 Hadith 5</td></tr></tbody></table></div>
 

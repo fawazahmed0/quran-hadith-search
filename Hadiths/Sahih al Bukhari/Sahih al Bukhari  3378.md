@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When Allah's Messenger (ﷺ) landed at Al-Hijr during the Gha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Miskin abu Al Hasan] telah bercerita kepada kami [Yahya bin Hassan bin Hayyan Abu Zakariya'] telah bercerita kepada kami [Sulaiman] dari ['Abdullah bin Dinar] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam ketika singgah di al-Hijr (suatu daerah pegunungan yang pernah dijadikan Kaum Tsamud bertempat tinggal dan dibinasakan) pada waktu perang Tabuk, Beliau memerintahkan agar pasukan tidak minum dari air sumurnya dan tidak mengambil airnya. Mereka berkata; "Kami telah membuat adonan roti dengan airnya dan telah mengambil airnya". Maka Beliau memerintahkan agar membuang adonan roti dan menumpahkan air-air tersebut". Dan diriwayatkan dari Sabrah bin Ma'bad dan Abu Asy Syamus bahwa Nabi shallallahu 'alaihi wasallam memerintahkan agar memuntahkan makanan. Dan Abu Dzarr berkata dari Nabi shallallahu 'alaihi wasallam; "Yaitu agar menumpahkan adonan roti yang dibuat menggunakan air sumur itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3378</td></tr><tr><td>Arabic No</td><td>3378</td></tr><tr><td>Reference</td><td>Book 60 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что, остановившись в аль-Хиджре во время похода на Табук, Посланник Аллаха ﷺ велел (своим сподвижникам) не пить воду из колодца(, который там был,) и не запасаться ею. Они сказали: «Но мы уже замесили тесто на этой воде и (наполнили наши бурдюки)!» — и тогда (Пророк ﷺ) велел им выбросить это тесто и вылить воду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3378</td></tr><tr><td>Arabic No</td><td>3378</td></tr><tr><td>Reference</td><td>Book 60 Hadith 52</td></tr></tbody></table></div>
 

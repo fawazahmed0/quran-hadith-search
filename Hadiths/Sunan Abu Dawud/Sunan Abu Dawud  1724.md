@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet (SWAS) as saying :A woman who believes in Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Qutaibah bin Sa'id Ats Tsaqafi], telah menceritakan kepada Kami [Al Laits bin Sa'd] dari [Sa'id bin Abu Sa'id] dari [ayahnya] bahwa [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak halal bagi seorang wanita muslimah untuk bersafar sejauh perjalanan satu malam kecuali bersama dengan seorang laki-laki yang memiliki hubungan mahram dengannya." Telah menceritakan kepada Kami [Abdullah bin Maslamah] dan [An Nufaili] dari [Malik], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Al Hasan bin Ali], telah menceritakan kepada Kami [Bisyr bin Umar], telah menceritakan kepadaku [Malik] dari [Sa'id bin Abu Sa'id], Al Hasan dalam haditsnya berkata; dari [ayahnya], kemudian mereka sama-sama dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: 'Tidak halal bagi seorang wanita yang beriman kepada Allah dan Hari Akhir untuk bersafar satu hari satu malam …. Ia menyebutkan maknanya. Abu Daud berkata; Al Qa'nabi dan An Nufaili tidak menyebutkan; dari ayahnya. [Ibnu Wahb], serta [Utsman bin Umar] telah meriwayatkan dari [Malik] sebagaimana yang dikatakan Al Qa'nabi. Telah menceritakan kepada Kami [Yusuf bin Musa] dari [Jarir] dari [Suhail] dari [Sa'id bin Abu Sa'id] dari [Abu Hurairah], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "….." kemudian ia menyebutkan hadits seperti itu hanya saja ia berkata; selama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1339)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1724</td></tr><tr><td>Arabic No</td><td>1724</td></tr><tr><td>Reference</td><td>Book 11 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не дозволено женщине, верующей в Аллаха и в Последний день, отправляться без сопровождения близкого родственника /махрам/ в путь, занимающий день и ночь». И он упомянул нечто подобное
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1339)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1724</td></tr><tr><td>Arabic No</td><td>1724</td></tr><tr><td>Reference</td><td>Book 11 Hadith 4</td></tr></tbody></table></div>
 

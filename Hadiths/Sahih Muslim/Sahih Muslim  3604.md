@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zainab daughter of Abu Salama reported:I heard Umm Salama, the wife of Allah's A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu At Thahir] dan [Harun bin Sa'id Al Aili] sedangkan lafazhnya dari Harun keduanya berkata; Telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Makhramah bin Bukair] dari [ayahnya] dia berkata; Saya mendengar [Humaid bin Nafi'] berkata; Saya mendengar [Zainab binti Abu Salamah] berkata; Saya mendengar [Ummu Salamah] istri Nabi shallallahu 'alaihi wasallam berkata kepada Aisyah; Demi Allah, diriku tidak enak jika seorang anak dari sesusuan itu (maksudnya Anas) masih saja melihatku (bebas keluar masuk rumahnya). Maka 'Aisyah berkata; Memangnya kenapa? Suatu ketika Sahlah binti Suhail pernah menemui Rasulullah shallallahu 'alaihi wasallam seraya berkata; 'Wahai Rasulullah, sesungguhnya saya melihat di muka Abu Hudzaifah ada sesuatu, karena Salim sering keluar masuk ke rumah? 'Aisyah melanjutkan; Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Susuilah dia." Sahlah bertanya; Sesungguhnya ia telah tumbuh jenggotnya?. Beliau bersabda: "Susuilah dia, maka akan hilang sesuatu di wajah Abu Hudzaifah." Maka Sahlah berkata; Demi Allah, setelah itu saya tidak lagi melihat di wajah Abu Hudzaifah ada sesuatu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>1453.05</td></tr><tr><td>Reference</td><td>Book 17 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3604</td></tr><tr><td>Arabic No</td><td>1453.05</td></tr><tr><td>Reference</td><td>Book 17 Hadith 37</td></tr></tbody></table></div>
 

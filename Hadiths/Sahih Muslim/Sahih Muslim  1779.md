@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who observed prayer at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Ibnu Syihab] dari [Humaid bin Abdurrahman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang menunaikan shalat pada malam bulan Ramadlan (shalat tarawih) dengan penuh keimanan dan mengharap (pahala dari Allah), maka dosa-dosanya yang telah berlalu akan diampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1779</td></tr><tr><td>Arabic No</td><td>759.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Тому, кто во время рамадана будет молиться по ночам с верой и надеждой (на награду Аллаха), простятся его прежние грехи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1779</td></tr><tr><td>Arabic No</td><td>759.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 207</td></tr></tbody></table></div>
 

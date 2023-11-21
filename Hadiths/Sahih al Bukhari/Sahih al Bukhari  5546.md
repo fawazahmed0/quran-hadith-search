@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "Whoever slaughtered the sacrifi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Muhammad] dari [Anas bin Malik] radliallahu 'anhu, dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa menyembelih (binatang kurban) sebelum shalat (ied), maka ia menyembelih untuk dirinya sendiri, dan barangsiapa menyembelih setelah shalat (ied), maka ibadah kurbannya telah sempurna dan bertindak sesuai dengan sunnah kaum Muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5546</td></tr><tr><td>Arabic No</td><td>5546</td></tr><tr><td>Reference</td><td>Book 73 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика: «Пророк ﷺ сказал: “Кто зарезал (жертвенное животное) до молитвы, тот зарезал его (только на мясо) для себя, а кто зарезал его после молитвы, тот совершил свое жертвоприношение и поступил в соответствии с сунной мусульман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5546</td></tr><tr><td>Arabic No</td><td>5546</td></tr><tr><td>Reference</td><td>Book 73 Hadith 2</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Reference</td><td>Book 0 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Мухаммад ибн аль-Мусанна, который сказал: «Я слышал, как ‘Абду-р-Рахман ибн Махди сказал: “Не станет человек имамом, которому будут подражать, до тех пор, пока он не будет воздерживаться от (пересказывания) части того, что услышал”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Reference</td><td>Book 0 Hadith 12</td></tr></tbody></table></div>
 

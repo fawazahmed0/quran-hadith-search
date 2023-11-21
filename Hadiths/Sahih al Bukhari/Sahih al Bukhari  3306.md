@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The Prophet (ﷺ) called the Salamander, a mischief-doer. I have 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin 'Ufair] dari [Ibnu Wahb] berkata telah bercerita kepadaku [Yunus] dari [Ibnu Syihab] dari ['Urwah] dia bercerita dari ['Aisyah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam pernah mengomentari cecak dengan istilah fuwaisiq (binatang durhaka) dan aku tidak mendengar Beliau memerintahkan untuk membunuhnya sedangkan Sa'ad bin Abi Waqash beranggapan bahwa Nabi shallallahu 'alaihi wasallam telah memerintahkan untuk membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3306</td></tr><tr><td>Arabic No</td><td>3306</td></tr><tr><td>Reference</td><td>Book 59 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ назвал ящерицу “фувайсик”, но я не слышала, чтобы он велел убить её». Са’д ибн Абу Ваккас утверждал, что Пророк ﷺ приказал убивать их
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3306</td></tr><tr><td>Arabic No</td><td>3306</td></tr><tr><td>Reference</td><td>Book 59 Hadith 114</td></tr></tbody></table></div>
 

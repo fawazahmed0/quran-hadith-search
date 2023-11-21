@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Yazid ibn Aws said:I entered upon AbuMusa while he was at the point of death. Hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Jarir], dari [Manshur?] dari [Ibrahim] dari [Yazid? bin Aus], ia berkata; aku menemui Abu Musa sementara ia sedang sakit, kemudian isterinya menangis atau bersedih. Lalu Abu Musa berkata kepadanya; tidakkah engkau mendengar apa yang telah dikatakan Rasulullah shallallahu 'alaihi wasallam? Ia berkata; Iya. Kemudian wanita tersebut diam. Tatkala Abu Musa telah meninggal -Yazid? berkata; aku bertemu dengan wanita tersebut kemudian aku katakan kepadanya; apa maksud perkataan Abu Musa kepadamu; tidakkah engkau mendengar apa yang telah dikatakan Rasulullah shallallahu 'alaihi wasallam? [wanita] tersebut berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukanlah dari golonganku orang yang mencukur rambutnya, menyobek bajunya, dan menjerit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3130</td></tr><tr><td>Arabic No</td><td>3130</td></tr><tr><td>Reference</td><td>Book 21 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Язид ибн Аус передаёт: «Я зашёл к Абу Мусе, когда он был тяжело болен, и его жена стала плакать или собралась заплакать, однако Абу Муса сказал ей: “Разве ты не слышала, что сказал Посланник Аллаха ﷺ?” Она ответила: “Слышала”, и прекратила плакать». Язид сказал: «А когда Абу Муса умер, я встретил его жену и спросил: “Что за были за слова Абу Мусы: ‹Разве ты не слышала, что сказал Посланник Аллаха ﷺ?›, после которых ты перестала плакать?”» Она ответила: «Посланник Аллаха ﷺ сказал: “Не относится к нам тот, кто бреет голову, громко кричит и причитает (или: бьёт себя по щекам), и рвёт на себе одежду”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3130</td></tr><tr><td>Arabic No</td><td>3130</td></tr><tr><td>Reference</td><td>Book 21 Hadith 42</td></tr></tbody></table></div>
 

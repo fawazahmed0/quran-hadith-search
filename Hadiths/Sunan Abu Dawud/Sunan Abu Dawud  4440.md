@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Imran ibn Husayn: A woman belonging to the tribe of Juhaynah (according
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] bahwa [Hisyam Ad Dustuwa'i] dan [Aban bin Yazid] keduanya menceritakan kepada mereka secara makna, dari [Yahya] dari [Abu Qilabah] dari [Abu Al Muhallab] dari [Imran bin Hushain] bahwa ada seorang wanita -dalam hadits Aban ia dari Juhainah- datang kepada Nabi shallallahu 'alaihi wasallam dan mengatakan bahwa dirinya telah berzina dan sedang mengandung. Nabi shallallahu 'alaihi wasallam kemudian memanggil walinya, Rasulullah shallallahu 'alaihi wasallam bersabda kepada wali tersebut: "Perlakukan ia dengan baik, jika ia telah melahirkan, maka bawalah ia kemari." Ketika wanita itu telah melahirkan, ia dibawa ke hadapan nabi shallallahu 'alaihi wasallam, beliau pun memerintahkan agar hukuman dilaksanakan. Pakaian wanita itu kemudian dirapatkan (agar auratnya tidak tersingkap), dan beliau kembali memerintahkan agar hukuman segera dilaksanakan, maka ia pun dirajam. Beliau lalu memerintahkan para sahabatnya (untuk menshalatkannya), mereka pun menshalatinya. Umar lantas berkata, "Wahai Rasulullah, kenapa engkau menshalatinya padahal ia telah berzina!" beliau bersabda: "Demi Dzat yang jiwaku ada dalam tangan-Nya, ia telah bertaubat, dan sekiranya taubatnya dibagikan kepada tujuh puluh penduduk Madinah maka akan mencukupi. Apakah engkau menemukan yang lebih utama dari upaya wanita ini, ia datang sendiri dengan kerelaan hati?". Namun perawi tidak menyebutkan dari Aban dengan lafadz 'Pakaian wanita itu kemudian dirapatkan (agar auratnya tidak tersingkap) '. Telah menceritakan kepada kami [Muhammad Ibnul Wazir Ad Dimasyqi] berkata, telah menceritakan kepada kami [Al Walid] dari [Al Auza'i] ia berkata, "Pakaian wanita itu kemudian dirapatkan (agar auratnya tidak tersingkap), maksudnya adalah diikat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1696)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4440</td></tr><tr><td>Arabic No</td><td>4440</td></tr><tr><td>Reference</td><td>Book 40 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что одна женщина из племени джухайна пришла к Пророку ﷺ и сказала, что она совершила прелюбодеяние и что она беременна (от этого прелюбодеяния), и Пророк ﷺ позвал её покровителя. Посланник Аллаха ﷺ сказал ему: «Заботься о ней, пока она не родит, а потом приведи её ко мне». Когда она родила, он привёл её и по велению Пророка ﷺ одежду на ней затянули, после чего по его велению её побили камнями. Затем по его велению люди совершили над её телом молитву джаназа. ‘Умар воскликнул: «О Посланник Аллаха! Ты совершаешь молитву джаназа по ней при том, что она прелюбодейка?!» (Посланник Аллаха ﷺ) сказал: «Клянусь Тем, в Чьей руке душа моя, она принесла такое покаяние, что, если его разделить на семьдесят жителей Медины, его бы хватило. Она пожертвовала жизнью может ли быть что-то лучше, чем это?» А в версии Абана не упоминается о том, что одежда на ней была затянута
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1696)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4440</td></tr><tr><td>Arabic No</td><td>4440</td></tr><tr><td>Reference</td><td>Book 40 Hadith 90</td></tr></tbody></table></div>
 

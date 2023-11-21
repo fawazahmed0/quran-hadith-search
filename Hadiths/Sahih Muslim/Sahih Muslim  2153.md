@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham b. 'Urwa narrated on the authority of his father that the saying of Ibn '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalaf bin Hisyam] dan [Abu Rabi' Az Zahrani] semua dari [Hammad] - [Khalaf] berkata- telah menceritakan kepada kami [Hammad bin Zaid] dari [Hisyam bin Urwah] dari [bapaknya] ia berkata; Pernah dituturkan di sisi Aisyah tentang ungkapan Umar bahwa mayit itu akan disiksa lantaran tangisan keluarga atasnya, maka [Aisyah] pun berkata, "Semoga Allah merahmati Abu Abdurrahman, ia telah mendengar (hadits Rasulullah shallallahu 'alaihi wasallam), tetapi ia belum menghafalnya (dengan baik). Peristiwanya begini; Suatu ketika lewat di hadapan Nabi shallallahu 'alaihi wasallam jenazah seorang Yahudi dan ditangisi keluarganya. Maka Nabi shallallahu 'alaihi wasallam bersabda: 'Kalian menangisinya, sementara ia benar-benar disiksa (karena tangisan kalian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2153</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 11 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хишам ибн ‘Урва передал, что его отец сказал: «Когда в присутствии ‘Аиши упомянули слова Ибн ‘Умара: “Умершего подвергают мучениям за то, что родные оплакивают его”, она сказала: “Да помилует Аллах Абу ‘Абдуррахмана! Он услышал что-то, но не запомнил это (должным образом). (На самом же деле, однажды) перед Посланником Аллаха ﷺ пронесли погребальные носилки с иудеем, (члены семьи которого) оплакивали его, и он (Посланник Аллаха ﷺ) сказал: ‹Вы оплакиваете (его), а он подвергается мучениям›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2153</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 11 Hadith 31</td></tr></tbody></table></div>
 

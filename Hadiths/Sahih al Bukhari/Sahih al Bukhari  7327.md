@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:'Aisha said to 'Abdullah bin Az-Zubair, "Bury me with m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7327</td></tr><tr><td>Arabic No</td><td>7327</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды ‘Аиша, да будет доволен Аллах ею и её отцом, сказала ‘Абдуллаху ибн аз-Зубейру, да будет доволен Аллах им и его отцом: «Похороните меня рядом с моими сподвижницами (т.е. жёнами Пророка ﷺ), и не хороните меня дома рядом с Пророком ﷺ. Ведь поистине, я не желаю, чтобы меня хвалили (из-за этого)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7327</td></tr><tr><td>Arabic No</td><td>7327</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that Allah's Messenger (ﷺ) forbade the eating of the (flesh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Muhammad bin Bakar] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Nafi'] dia berkata; [Ibnu Umar] berkata; (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [ayahku] dan [Ma'n bin Isa] dari [Malik bin Anas] dari [Nafi'] dari [Ibnu Umar] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang makan daging keledai jinak pada waktu perang Khaibar, sebab ketika itu orang-orang membutuhkan keledai jinak (untuk mengangkut barang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5009</td></tr><tr><td>Arabic No</td><td>561.04</td></tr><tr><td>Reference</td><td>Book 34 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5009</td></tr><tr><td>Arabic No</td><td>561.04</td></tr><tr><td>Reference</td><td>Book 34 Hadith 38</td></tr></tbody></table></div>
 

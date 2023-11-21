@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (raa) a dit : "Les femmes croyantes assistaient à la prière de subh (du
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid] dan [Zuhair bin Harb], semuanya dari [Sufyan bin 'Uyainah] kata ['Amru] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah], bahwa para wanita mukminat pernah shalat subuh bersama Nabi shallallahu 'alaihi wasallam, kemudian mereka pulang dengan membungkus wajah mereka dengan kain sehingga tak seorangpun mengenalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1457</td></tr><tr><td>Arabic No</td><td>645.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 290</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Урвы, что ‘Аиша сказала, что верующие женщины (часто) совершали утреннюю молитву (в мечети) с Пророком ﷺ. Затем они возвращались к себе домой, завернувшись в свои плащи, и никто не мог узнать их
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1457</td></tr><tr><td>Arabic No</td><td>645.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 290</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Al Mahzumi] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Abdullah bin Thawus] dari [Ayahnya] dari [Ibnu Abbas] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Orang yang menarik kembali pemberiannya, seperti seekor anjing yang muntah dan memakan kembali muntahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4176</td></tr><tr><td>Arabic No</td><td>1622.07</td></tr><tr><td>Reference</td><td>Book 24 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4176</td></tr><tr><td>Arabic No</td><td>1622.07</td></tr><tr><td>Reference</td><td>Book 24 Hadith 14</td></tr></tbody></table></div>
 

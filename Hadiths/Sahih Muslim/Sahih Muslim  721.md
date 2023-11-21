@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa has narrated it on the authority of 'A'isha that when Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Amru an-Naqid] telah menceritakan kepada kami [Mu'awiyah bin Amru] telah menceritakan kepada kami [Zaidah] dari [Hisyam] dia berkata, telah mengabarkan kepada kami [Urwah] dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam apabila mandi hadas karena junub, maka beliau memulainya dengan membasuh kedua tangan sebelum memasukkannya ke dalam bejana, kemudian berwudhu dengan wudhu untuk shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>721</td></tr><tr><td>Arabic No</td><td>316.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что когда Посланник Аллаха ﷺ совершал большое омовение /гусль/ после полового осквернения, он мыл (кисти) рук прежде чем погрузить их в посуду, а затем совершил такое же омовение, которое совершается для молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>721</td></tr><tr><td>Arabic No</td><td>316.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 43</td></tr></tbody></table></div>
 

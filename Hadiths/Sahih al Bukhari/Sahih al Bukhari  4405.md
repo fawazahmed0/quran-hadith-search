@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:The Prophet (ﷺ) ordered me during Hajjatul-Wada'. "Ask the peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] Telah menceritakan kepada kami [Syu'bah] dari ['Ali bin Mudrik] dari [Abu Zur'ah bin 'Amru bin Jarir] dari [Jarir] bahwa Nabi shallallahu 'alaihi wasallam pada waktu haji Wada' berkata kepada Jarir agar menyuruh orang-orang diam. Lalu beliau bersabda: "Janganlah kalian kembali menjadi kafir sepeninggalku, sehingga sebagian kalian memenggal leher sebagian yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4405</td></tr><tr><td>Arabic No</td><td>4405</td></tr><tr><td>Reference</td><td>Book 64 Hadith 427</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джарира, что во время Прощального паломничества Пророк ﷺ велел ему: «Скажи людям, чтобы они молчали и слушали!», — после чего он сказал: «Не становитесь после меня неверными, которые рубят друг другу головы!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4405</td></tr><tr><td>Arabic No</td><td>4405</td></tr><tr><td>Reference</td><td>Book 64 Hadith 427</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Abi Hathma:(a man from the Ansar) that a number of people from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sa'id bin Ubaid] dari [Busyair bin Yasar], seingatnya ada seorang laki-laki Anshar yang bergelar [Sahl bin Abi Khatsmah] mengabarinya bahwa; Beberapa orang kaumnya berangkat ke Khaibar, setibanya disana mereka berpencar, lantas mereka mendapatkan salah seorang dari mereka terbunuh. Mereka pun berujar kepada penduduk yang kawan mereka terbunuh disana; "kalian telah membunuh kawan kami!" Penduduk tersebut mengelak seraya mengatakan; 'Kami tidak membunuh dan juga tidak tahu si pembunuhnya.' Lantas para sahabat mengadukan perkaranya kepada Nabi shallallahu 'alaihi wasallam; 'Ya Rasulullah, kami berangkat ke Khaibar, selanjutnya kami dapatkan kawan kami terbunuh.' Nabi menjawab: "yang berbicara yang paling tua, yang berbicara yang paling tua!" Lalu Nabi mengatakan; "kalian harus membawa bukti terhadap si pembunuhnya!" Para sahabat menjawab; 'kalau bukti kami tidak punya! ' Nabi menjawab; "kalau begitu suruhlah kaum yahudi itu untuk bersumpah!" Para sahabat menjawab; 'Kami tidak percaya dengan sumpah orang-orang yahudi.' Rupanya Rasulullah shallallahu 'alaihi wasallam tidak berkenan jika darah sahabatnya sia-sia sehingga beliau sendiri yang membayar diyatnya dengan sebanyak seratus ekor unta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6898</td></tr><tr><td>Arabic No</td><td>6898</td></tr><tr><td>Reference</td><td>Book 87 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Аби Хасма, да будет доволен им Аллах, передаёт, что однажды группа его соплеменников отправилась в Хайбар. Там они разделились, а потом одного из них они нашли мёртвым. Его товарищи сказали людям, у которых они обнаружили его: «Это вы убили нашего товарища!» Они сказали: «Мы не убивали его и не знаем, кто его убийца». Тогда они пошли к Пророку ﷺ и сказали: «О Посланник Аллаха, мы отправились в Хайбар и обнаружили одного из нас мёртвым». Но (Посланник Аллаха ﷺ) сказал: «Старший, старший!» После он спросил их: «Можете ли вы представить доказательства, подтверждающие вину [предполагаемого] убийцы?» Они сказали: «У нас нет доказательств». (Посланник Аллаха ﷺ) спросил: «(Хотите ли вы, чтобы) они поклялись вам (в том, что не убивали его)?» Они ответили: «Мы не удовольствуемся клятвами иудеев». Посланник Аллаха ﷺ не захотел оставить убийство этого человека без воздаяния и сам выплатил компенсацию — сто верблюдов из числа верблюдов, собранных в качестве закята
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6898</td></tr><tr><td>Arabic No</td><td>6898</td></tr><tr><td>Reference</td><td>Book 87 Hadith 37</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) said:A group of Bani Isra'il w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim], [Muhammad bin Al Mutsanna Al Anazi] dan [Muhammad bin Abdullah Ar Razi] semuanya dari [Ats Tsaqafi], teks milik ibnu Al Mutsanna, telah menceritakan kepada kami [Abdulwahhab] telah menceritakan kepada kami [Khalid] dari [Muhammad bin Sirin] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sekelompok ummat dari Bani Israil hilang, tidak diketahui kondisinya dan tidak ada yang memperlihatkannya selain seekor tikus. Bukankah kalian melihatnya bila susu unta diletakkan untuknya, ia tidak meminumnya dan bila susu kambing diletakkan untuknya, ia meminumnya?" Abu Hurairah berkata: Lalu aku ceritakan hadits ini kepada Ka'ab, ia bertanya: Kau mendengarnya dari Rasulullah Shallallahu 'alaihi wa Salam? Ia menanyakannya berkali-kali. Aku berkata: Apa aku membaca Taurat? Ishaq berkata dalam riwayatnya: "Kami tidak mengetahui kondisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7496</td></tr><tr><td>Arabic No</td><td>2997.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7496</td></tr><tr><td>Arabic No</td><td>2997.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 79</td></tr></tbody></table></div>
 

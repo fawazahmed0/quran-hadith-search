@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ja'far:I saw the Prophet (ﷺ) eating fresh dates with sn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Isma'il bin Abdullah] ia berkata; telah menceritakan kepadaku [Ibrahim bin Sa'd] dari [Bapaknya] ia berkata, "Aku mendengar [Abdullah bin Ja'far] berkata, "Aku melihat Nabi shallallahu 'alaihi wasallam makan kurma segar dengan qitsa' (sejenis mentimun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5447</td></tr><tr><td>Arabic No</td><td>5447</td></tr><tr><td>Reference</td><td>Book 70 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Джа‘фар сказал: «Я видел, как Пророк ﷺ ел свежие финики с длинными огурцами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5447</td></tr><tr><td>Arabic No</td><td>5447</td></tr><tr><td>Reference</td><td>Book 70 Hadith 76</td></tr></tbody></table></div>
 

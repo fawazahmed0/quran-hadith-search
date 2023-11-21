@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Ibn 'Umar ('Abdullah b. 'Umar) that the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] dan [al-Fadll bin Sahl al-A'raj] keduanya berkata, telah menceritakan kepada kami [Syababah bin Sawwar] telah menceritakan kepada kami [Ashim] -yaitu Ibnu Muhammad al-Umari- dari [bapaknya] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: " Islam muncul dalam keadaan asing, dan ia akan kembali dalam keadaan asing seperti semula, ia akan masuk di antara dua masjid sebagaimana ular yang masuk ke dalam lubangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>373</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 280</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара (да будет доволен Аллах ими обоими), что Пророк ﷺ сказал: «Поистине, Ислам начался чуждым и вернётся также чуждым, как и начался, и соберётся между двумя мечетями, подобно змее, которая сворачивается в своей норе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>373</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 280</td></tr></tbody></table></div>
 

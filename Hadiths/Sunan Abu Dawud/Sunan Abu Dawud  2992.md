@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Awn said “I asked Muhammad about the portion of the prophet(ﷺ) and sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepada kami [Abu 'Ashim], dan [Azhar], mereka berkata; telah menceritakan kepada kami [Ibnu 'Aun] ia berkata; saya bertanya kepada [Muhammad] mengenai saham Nabi shallallahu 'alaihi wasallam serta shafi. Ia berkata; dahulu beliau diberi satu saham bersama orang-orang muslim walaupun beliau tidak menghadiri peperangan. Sedangkan shafi diambilkan untuk beliau pokok dari seperlima sebelum segala sesuatu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2992</td></tr><tr><td>Arabic No</td><td>2992</td></tr><tr><td>Reference</td><td>Book 20 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Ауна: «Я спросил Мухаммада о доле Пророка ﷺ и об избранном трофее /сафийй/, и он сказал, что Пророк ﷺ получал долю наряду с остальными мусульманами, даже когда не присутствовал при сражении. А избранный трофей он брал из хумуса до его распределения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2992</td></tr><tr><td>Arabic No</td><td>2992</td></tr><tr><td>Reference</td><td>Book 20 Hadith 65</td></tr></tbody></table></div>
 

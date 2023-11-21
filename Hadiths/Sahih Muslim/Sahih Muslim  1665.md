@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mua'ada 'Adawiyya reported 'A'isha as saying:The Messenger of Allah (ﷺ) used t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid bin Al Harits] dari [Said], telah menceritakan kepada kami [Qatadah], bahwa [Ma'adzah Al 'Adawiyah] menceritakan kepada mereka dari ['Aisyah] katanya; Rasulullah shallallahu 'alaihi wasallam pernah melakukan shalat dhuha sebanyak empat rakaat, dan terkadang beliau menambah sekehendak Allah." Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ibnu Basyar], semuanya dari [Mu'adz bin Hisyam] katanya; telah menceritakan kepadaku [Ayahku] dari [Qatadah] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1665</td></tr><tr><td>Arabic No</td><td>719.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Обычно Посланник Аллаха ﷺ совершал дополнительную утреннюю молитву /ад-духа/ в четыре (рак‘ата), добавляя к ней столько (рак‘атов), сколько было угодно Аллаху»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1665</td></tr><tr><td>Arabic No</td><td>719.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 95</td></tr></tbody></table></div>
 

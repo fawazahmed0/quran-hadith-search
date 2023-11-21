@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tariq bin 'Abdur-Rahman:When I set out for Hajj, I passed by some peopl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4163</td></tr><tr><td>Arabic No</td><td>4163</td></tr><tr><td>Reference</td><td>Book 64 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Тарик ибн ’Абдуррахман сказал: «Отправившись в хадж, я проходил мимо людей, совершающих молитву, и спросил: “Что это за мечеть?” Они ответили: “Это дерево, под которым Посланнику Аллаха ﷺ люди давал клятву, угодную Аллаху (“бей’ату-ль-ридван”)”. Затем я пошел к Са‘иду ибн Мусаййибу и сообщил ему об этом. Са‘ид сказал: “Мой отец сказал, что он был среди тех, кто давал клятву Посланнику Аллаха ﷺ под деревом. Он (то есть мой отец) сказал: “Когда мы отправились в путь на следующий год, мы забыли это дерево и не смогли его узнать”. Затем Са’ид сказал: “Сподвижники Мухаммада ﷺ не смогли узнать его, а вы узнали? Вы более знающие!?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4163</td></tr><tr><td>Arabic No</td><td>4163</td></tr><tr><td>Reference</td><td>Book 64 Hadith 205</td></tr></tbody></table></div>
 

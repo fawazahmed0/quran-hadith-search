@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) entered a garden and ordered me to guard its
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu 'Utsman] dari [Abu Musa radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam masuk kedalam sebuah kebun lalu memerintahkan aku untuk menjaga pintu kebun. Tiba-tiba datang seorang laki-laki meminta izin masuk, maka beliau berkata: "izinkanlah dan sampaikan kabar gembira kepadanya dengan surga". Ternyata laki-laki itu adalah Abu Bakr. Kemudian datang laki-laki lain meminta izin masuk, maka beliau berkata: "izinkanlah dan sampaikan kabar gembira kepadanya dengan surga". Ternyata laki-laki itu adalah 'Umar. Kemudian datang lagi seorang laki-laki meminta izin masuk, maka beliau terdiam sejenak lalu berkata: "izinkanlah dan sampaikan kabar gembira kepadanya dengan surga namun denagn berbagai ujian yang akan menimpanya". Ternyata laki-laki itu adalah 'Utsman bin 'Affan. [Hammad] berkata; Dan telah bercerita kepada kami ['Ashim Al Ahwal] dan ['Ali bin Al Hakam], keduanya mendengar [Abu 'Utsman] bercerita dari [Abu Musa] seperti hadits ini. Namun ditambahkan didalamnya bahwa Nabi shallallahu 'alaihi wasallam pada mulanya duduk pada suatu tempat yang ada airnya sambil menyingkap pakaiannya hingga sampai kedua lutut atau salah satu lutut beliau. Namun tatkala 'Utsman sudah datang, beliau menutupnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3695</td></tr><tr><td>Arabic No</td><td>3695</td></tr><tr><td>Reference</td><td>Book 62 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ вошёл в сад и повелел мне охранять ворота, и тогда пришёл некий человек и попросил разрешения войти, и (Пророк ﷺ) сказал: «Впусти его и порадуй вестью о том, что его ждёт Рай», — и тогда (я увидел), что это был Абу Бакр. Затем пришёл другой человек и попросил разрешения войти и (Пророк ﷺ) сказал: «Впусти его и порадуй вестью о том, что его ждёт Рай», — и тогда (я увидел), что это был ‘Умар. Потом пришёл другой человек и попросил разрешения войти, и Пророк ﷺ помолчал немного, а затем сказал: «Впусти его и порадуй вестью о том, что его ждёт Рай, после беды, которая постигнет его!», — и тогда (я увидел), что это был ‘Усман ибн ‘Аффан».\nВ другой версии этого хадиса ‘Асым добавил: «Однажды Пророк ﷺ сидел в месте, где была вода, обнажив оба своих колена (или одно колено), а когда вошёл ‘Усман, он прикрыл их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3695</td></tr><tr><td>Arabic No</td><td>3695</td></tr><tr><td>Reference</td><td>Book 62 Hadith 45</td></tr></tbody></table></div>
 

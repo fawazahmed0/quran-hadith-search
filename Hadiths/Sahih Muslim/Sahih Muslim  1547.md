@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Messenger of Allah (ﷺ) observed Qunut for a month i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1547</td></tr><tr><td>Arabic No</td><td>677.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 380</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ в течение месяца молил (Аллаха) после поясных поклонов во время утренней молитвы покарать (многобожников из племён) ри‘ль, закван и усаййа, которые ослушались Аллаха и Его Посланника
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1547</td></tr><tr><td>Arabic No</td><td>677.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 380</td></tr></tbody></table></div>
 

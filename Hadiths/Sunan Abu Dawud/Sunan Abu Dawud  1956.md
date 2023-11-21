@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rafi' ibn Amr al-Muzani: I saw the Messenger of Allah (ﷺ) addressing 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdul Wahhab bin Abdurrahim Ad Dimasyqi], telah menceritakan kepada Kami [Marwan] dari [Hilal bin 'Amir Al Muzni], telah menceritakan kepadaku [Rafi' bin 'Amr Al Muzni], ia berkata; saya melihat Rasulullah shallallahu 'alaihi wasallam berkhutbah kepada orang-orang di Mina ketika matahari pagi telah naik diatas bighal yang warnanya putih kehitam-hitaman. Sementara Ali Bin Abu Thalib radliallahu 'anhu menyampaikan khutbah beliau sementara orang-orang ada yang berdiri dan ada yang duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1956</td></tr><tr><td>Arabic No</td><td>1956</td></tr><tr><td>Reference</td><td>Book 11 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рафи‘ ибн ‘Амр аль-Музани, да будет доволен им Аллах, передаёт: «Я видел, как Посланник Аллаха ﷺ произносил проповедь ранним утром, сидя на своей светло-серой мулице. ‘Али громко повторял его слова. При этом некоторые люди стояли, а некоторые сидели»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1956</td></tr><tr><td>Arabic No</td><td>1956</td></tr><tr><td>Reference</td><td>Book 11 Hadith 236</td></tr></tbody></table></div>
 

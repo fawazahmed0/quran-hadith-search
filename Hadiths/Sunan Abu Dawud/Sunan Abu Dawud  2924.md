@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:Referring to the verse: "Those who believed and adopted exil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad], telah menceritakan kepada kami [Ali bin Husain], dari [ayahnya], dari [Yazid? An Nahwi], dari [Ikrimah], dari [Ibnu Abbas]: "Dan orang-orang yang beriman dan berhijrah…" serta "Dan orang-orang yang beriman dan belum berhijrah…." Dahulu orang badui tidak mewarisi orang muhajir dan ia tidak diwarisi orang muhajir, kemudian ayat tersebut dihapus, Allah berfirman: "Orang-orang yang mempunyai hubungan kerabat itu sebagiannya lebih berhak terhadap sesamanya (daripada yang bukan kerabat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2924</td></tr><tr><td>Arabic No</td><td>2924</td></tr><tr><td>Reference</td><td>Book 19 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего «Те, которые уверовали и переселились» (сура 8 «аль-Анфаль», аят 74) и «Те, которые уверовали, но не переселились» (сура 8 «аль-Анфаль», аят 72): «Бедуин не наследовал переселенцу, а переселенец не наследовал бедуину (, даже если они родственники). А потом это было отменено, ибо Всевышний Аллах ниспослал: “Однако родственники ближе друг к другу. Таково предписание Аллаха” (сура 33 «аль-Ахзаб», аят 6)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2924</td></tr><tr><td>Arabic No</td><td>2924</td></tr><tr><td>Reference</td><td>Book 19 Hadith 40</td></tr></tbody></table></div>
 

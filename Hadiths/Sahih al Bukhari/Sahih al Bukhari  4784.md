@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:When we collected the fragramentary manuscripts of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; Telah mengabarkan kepadaku [Kharijah bin Zaid bin Tsabit] bahwa [Zaid bin Tsabit] berkata; Tatkala kami mencatat ayat-ayat Al Qur'an dari beberapa Mushaf, aku kehilangan satu ayat dari surat Al Ahzab yang aku sering mendengar Rasulullah shallallahu 'alaihi wasallam membacanya. Aku tidak menemukannya dari siapapun kecuali hanya dari Khuzaimah Al Anshari, orang yang kesaksiannya dianggap oleh Rasulullah shallallahu 'alaihi wasallam sebanding dengan kesaksian dua orang laki-laki. Yaitu ayat: Di antara orang-orang mukmin itu terdapat orang-orang yang menepati apa yang telah mereka janjikan kepada Allah, (Al Ahzab:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4784</td></tr><tr><td>Arabic No</td><td>4784</td></tr><tr><td>Reference</td><td>Book 65 Hadith 306</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Сабит сказал: «Переписывая листы из (различных копий) Корана, я потерял один аят из суры “аль-Ахзаб”, который часто слышал от Посланника Аллаха ﷺ, и смог найти его только у Хузаймы аль-Ансари, свидетельство которого Посланник Аллаха ﷺ приравнивал к свидетельству двух человек. В этом аяте говорилось (следующее): “Среди верующих есть люди, которые верны тому, что они обещали Аллаху, и есть среди них такие, которые выполнили свой обет, и такие, которые ждут, не изменив (своего решения) ни в чём”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4784</td></tr><tr><td>Arabic No</td><td>4784</td></tr><tr><td>Reference</td><td>Book 65 Hadith 306</td></tr></tbody></table></div>
 

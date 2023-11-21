@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Musailama-al-Kadhdhab (i.e. the liar) came in the life-time 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 61 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра рассказал мне о том, что Посланник Аллаха, да благословит его Аллах и приветствует, сказал: «Однажды во сне я увидел у себя на руках два золотых браслета, что обеспокоило меня, но мне было внушено подуть на них, я подул на них, и они улетели, а я же истолковал два этих браслета как двух лжецов, которые появятся (после меня)». Одним из них стал аль-‘Анси, а другим — Мусайлима аль-Каззаб из аль-Ямамы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 61 Hadith 127</td></tr></tbody></table></div>
 

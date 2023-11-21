@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah (bin 'Umar): Once Allah's Messenger (ﷺ) passed by an Ansari
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik bin Anas] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [bapaknya], bahwa Rasulullah shallallahu 'alaihi wasallam berjalan melewati seorang sahabat Anshar yang saat itu sedang memberi pengarahan saudaranya tentang malu. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Tinggalkanlah dia, karena sesungguhnya malu adalah bagian dari iman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 2 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Салима ибн ‘Абдуллаха, передавшего со слов своего отца (Ибн ‘Умара, да будет доволен Аллах ими обоими.) о том, что (как-то раз), проходя мимо одного из ансаров, который давал своему брату наставления относительно стыдливости, Посланник Аллаха ﷺ сказал ему: «Оставь его, ибо, поистине, стыдливость — от веры!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 2 Hadith 17</td></tr></tbody></table></div>
 

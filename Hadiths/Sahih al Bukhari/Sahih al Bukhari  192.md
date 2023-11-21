@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Yahya:My father said, "I saw 'Amr bin Abi Hasan asking 'Abdull
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Wuhhaib] dari ['Amru bin Yahya] dari [Bapaknya] berkata; Aku pernah menyaksikan 'Amru bin Abu Hasan bertanya kepada ['Abdullah bin Zaid] tentang wudlunya Nabi shallallahu 'alaihi wasallam. Abdullah lalu minta diambilkan bejana berisi air, lalu ia memperlihatkan kepada mereka cara wudlu Nabi shallallahu 'alaihi wasallam. Lalu ia memulai dengan menuangkan air dari bejana ke telapak tangannya lalu mencucinya tiga kali. Kemudian memasukkan tangannya ke dalam bejana, lalu berkumur-kumur, lalu memasukkan air ke hidung dan mengeluarkannya kembali dengan tiga kali cidukan. Kemudian memasukkan tangannya ke dalam bejana dan membasuh mukanya tiga kali, kemudian memasukkan tangannya ke dalam bejana dan membasuh kedua tangannya sampai ke siku dua kali dua kali. Kemudian ia memasukkan tangannya ke dalam bejana dan mengusap kepalanya dengan tangan, ia mulai dari bagian depan ke belakang lalu mengembalikannya lagi (ke arah depan), kemudian memasukkan tangannya ke dalam bejana dan membasuh kedua kakinya." Dan telah menceritakan kepada kami [Musa] berkata, telah menceritakan kepada kami [Wuhaib] berkata, "Ia mengusap kepalanya satu kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>192</td></tr><tr><td>Arabic No</td><td>192</td></tr><tr><td>Reference</td><td>Book 4 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Амр ибн Яхйа аль-Мазиний сообщил со слов своего отца, который сказал: «Однажды я стал свидетелем того, как ‘Амр ибн Абу Хасан спросил у ‘Абдуллаха ибн Зейда об омовении /вудуъ/ Пророка ﷺ и (‘Абдуллах ибн Зейд) велел принести сосуд с водой, (а когда её принесли,) он совершил для них омовение. Он слил воду себе на руки и трижды вымыл их, потом опустил руку в сосуд и прополоснул рот и нос, и трижды высморкался (использовав для этого) три пригоршни воды. Затем он снова опустил руку в сосуд и трижды омыл лицо. Потом, (снова) опустив руку в сосуд он омыл свои ноги».\nИ Муса рассказывая нам, сказал: «Рассказал нам Вахб, который сказал: “Он протёр голову один раз”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>192</td></tr><tr><td>Arabic No</td><td>192</td></tr><tr><td>Reference</td><td>Book 4 Hadith 58</td></tr></tbody></table></div>
 

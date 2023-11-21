@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:During Hajjat-ul-Wada', the Prophet (ﷺ) and some of his com
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 64 Hadith 433</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что во время Прощального паломничества Пророк ﷺ обрил себе голову, и так же поступили некоторые из его сподвижников, тогда как некоторые другие (только) укоротили себе волосы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 64 Hadith 433</td></tr></tbody></table></div>
 

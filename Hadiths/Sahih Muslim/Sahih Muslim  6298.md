@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), quand l'Envoyé de Dieu (paix
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali]; Dan telah menceritakan kepada kami ['Abad bin Humaid] seluruhnya dari [Abu Nu'aim] berkata; ['Abad] Telah menceritakan kepada kami [Abu Nu'aim]; Telah menceritakan kepada kami ['Abdul Wahid bin Aiman]; Telah menceritakan kepadaku [Ibnu Abu Mulaikah] dari [Al Qasim bin Muhammad] dari ['Aisyah] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam hendak bepergian, maka beliau pun mengundi para isterinya. Pada suatu ketika, undian tersebut jatuh kepada Aisyah dan Hafshah. Akhirnya kami pun bertiga pergi bersama-sama. Ketika malam tiba, Rasulullah shallallahu 'alaihi wasallam biasanya menempuh perjalanan bersama Aisyah sambil berbincang-bincang dengannya. Hingga suatu saat Hafshah berkata kepada Aisyah; 'Hai Aisyah, bagaimana jika malam ini kamu mengendarai untaku dan aku mengendarai untamu. Setelah itu, kita akan memperhatikan apa yang akan terjadi nanti.' Aisyah menjawab; "Baiklah!" Lalu Aisyah mengendarai unta milik Hafshah dan Hafshah sendiri mengendarai unta milik Aisyah. Tak lama kemudian Rasulullah mendatangi unta milik Aisyah yang kini dikendarai Hafshah. Rasulullah mengucapkan salam kepadanya dan menempuh perjalanan bersamanya hingga mereka singgah di suatu tempat. Sementara itu, Aisyah merasa kehilangan Rasulullah hingga ia merasa cemburu. Oleh karena itu, ketika mereka singgah di suatu tempat, maka Aisyah menjulurkan kedua kakinya di antara pohon idzkhir sambil berkata; Ya Allah perintahkanlah kalajengking atau ular untuk menggigitku, karena aku tidak kuasa untuk mengatakan sesuatu kepada Rasul-Mu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6298</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 44 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6298</td></tr><tr><td>Arabic No</td><td>2445</td></tr><tr><td>Reference</td><td>Book 44 Hadith 128</td></tr></tbody></table></div>
 

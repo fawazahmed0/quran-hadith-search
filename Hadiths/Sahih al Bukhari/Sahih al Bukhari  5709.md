@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas and 'Aisha:Abu Bakr kissed (the forehead of) the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Sufyan] dia berkata; telah menceritakan kepadaku [Musa bin Abu 'Aisyah] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] dan ['Aisyah] bahwa [Abu Bakar] radliallahu 'anhu pernah mencium nabi shallallahu 'alaihi wasallam ketika beliau wafat, selanjutnya Aisyah berkata; "Kami memasukkan obat melalui mulut beliau ketika beliau sakit, lalu beliau memberi isyarat kepada kami dengan mengatakan: "Janganlah kalian memasukkan obat lewat mulutku (dengan paksa)." Maka kami berkata; "Ah, itu biasa, memang orang sakit tidak suka obat." Ketika beliau tersadar, beliau bersabda: "Tidakkah aku telah melarang kalian memasukkan obat kedalam mulutku!, janganlah kalian memasukkan obat ke dalam mulutku." Kami pun berkata; "Ah biasa, memang orang sakit tidak suka obat." Lalu beliau bersabda: "Tidak ada seorangpun dalam rumah kecuali dirinya harus di obati (dengan paksa) melalui mulutnya kecuali Abbas, karena ia tidak bersama kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5709</td></tr><tr><td>Arabic No</td><td>5709</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса и ‘Аиши, что Абу Бакр, да будет доволен им Аллах, поцеловал Пророка ﷺ в лоб, когда он умер
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5709</td></tr><tr><td>Arabic No</td><td>5709</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The king of Rome presented a fur of silk brocade to the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Ali bin Zaid] dari [Anas bin Malik] berkata, "Raja Rum memberi haidah kepada Nabi shallallahu 'alaihi wasallam berupa farwah (sejenis jubah) sutera, lalu beliau mengenakannya. Seakan aku melihat tangan nabi bergerak-gerak (mengkibas), beliau lalu mengirimkan jubah itu kepada Ja'far, hingga ia pun memakainya. Ketika Ja'far datang kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Aku berikan itu kepadamu bukan untuk engkau pakai!" Ja'far bertanya, "Lalu apa yang harus aku lakukan terhadap jubah itu?" beliau menjawab: "Kirimkanlah kepada saudaramu, raja Najasyi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4047</td></tr><tr><td>Arabic No</td><td>4047</td></tr><tr><td>Reference</td><td>Book 34 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах: «Правитель византийцев подарил Пророку ﷺ меховую одежду с длинными рукавами из шёлковой ткани, и я как будто смотрю на его руки с болтающимися рукавами. Потом он отослал эту одежду Джа‘фару, да будет доволен им Аллах. Джа‘фар надел её и пришёл к нему. Пророк ﷺ сказал: “Я дал её тебе не для того, чтобы ты носил её”. Тот спросил: “А что мне с ней делать?” (Пророк ﷺ) сказал: “Пошли её своему брату негусу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4047</td></tr><tr><td>Arabic No</td><td>4047</td></tr><tr><td>Reference</td><td>Book 34 Hadith 28</td></tr></tbody></table></div>
 

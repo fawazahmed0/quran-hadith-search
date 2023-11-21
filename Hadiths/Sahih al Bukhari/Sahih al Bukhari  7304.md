@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd As-Sa'idi:'Uwaimir Al-'Ajlani came to 'Asim bin 'Adi and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Muhammad bin Abdurrahman bin Abu Dzi'b] telah memberitakan kepada kami [Az Zuhri] dari [Sahl bin Sa'd as Sa'idi] berkata, "Uwaimir Al 'Ajlani datang kepada 'Ashim bin Adi dan berkata, 'Bagaimana pendapatmu jika seorang laki-laki menemukan isterinya bersama laki-laki lain, lantas si suami membunuh laki-laki itu, apakah kalian lantas membunuh si suami karena pembunuhannya? Tolong tanyakan kepada Rasulullah untukku wahai Ashim!" Lantas 'Ashim bertanya Nabi shallallahu 'alaihi wasallam. Rupanya nabi shallallahu 'alaihi wasallam tidak menyukai banyak tanya dan bahkan mencelanya. 'Ashim pun pulang dan mengabarkan kepadanya bahwa nabi shallallahu 'alaihi wasallam tidak menyukai banyak tanya. Spontan 'Uwaimir berkata, 'Sungguh akan kudatangi Nabi shallallahu 'alaihi wasallam! ' Uwaimir datang, sedang Allah ta'ala telah menurunkan alquran di belakang 'Ashim. Nabi terus berkata: "Allah telah menurunkan alquran di tengah-tengah kalian." Lantas Rasul memanggil suami-isteri itu. Keduanya hadir dan saling meli'an. Kemudian Uwaimir berkata, 'Berarti kau dusta terhadap isteriku ya Rasulullah, jika aku terus mempertahankannya. Nabi pun langsung memisahkan si wanita dan tidak menyuruh si suami untuk memisahkan, dan pemisahan ini menjadi sunnah (pedoman) bagi suami-isteri yang saling meli'an. Kemudian Nabi shallallahu 'alaihi wasallam bersabda "Tolong cermatilah bayinya, jika si wanita melahirkan bayi yang merah dan pendek, seperti tokek, maka aku tak berpendapat selain Uwaimir telah bohong, namun jika si wanita melahirkan bayi yang matanya hitam kelam yang mempunyai dua pantat, maka aku tak berpendpat selain Uwaimir telah jujur sehingga si wanita yang keliru." Di kemudian hari si wanita melahirkan bayi yang ciri-cirinya sangat disanksikan (sangat tidak menyerupai ayahnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7304</td></tr><tr><td>Arabic No</td><td>7304</td></tr><tr><td>Reference</td><td>Book 96 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Са‘д ас-Саиди, да будет доволен им Аллах, сказал: «Однажды ‘Уваймир аль-Аджляни пришёл к ‘Асыму ибн ‘Ади и сказал: “Что ты скажешь о человеке, который застал свою жену с другим мужчиной? Следует ли мужу убить его, после чего вы убьёте его самого? О ‘Асым! Спроси об этом для меня у Посланника Аллаха ﷺ”. ‘Асым спросил Пророка ﷺ, однако эти вопросы не понравились ему, и он упрекнул за них ‘Асыма. А когда ‘Асым вернулся, он сообщил ‘Уваймиру, что Пророку ﷺ не понравились эти вопросы. Тогда ‘Уваймир воскликнул: “Клянусь Аллахом, я непременно пойду к Пророку ﷺ». Затем он пришёл к Посланнику Аллаха ﷺ, а Всевышний Аллах ниспослал аят из Корана после возвращения ‘Асыма (к своей семье). Тогда Пророк ﷺ сказал ему: «Аллах ниспослал аят из Корана о тебе и твоей жене». Затем он позвал их, и когда они явились (к Пророку ﷺ), они обменялись взаимным проклятием (ли‘ан). Затем ‘Уваймир сказал: “О Посланник Аллаха, если я оставлю её при себе, то получится, как будто я оклеветал её!” — а потом он развёл её, тогда как Пророк ﷺ не повелевал ему развестись с ней. И (такое расставание) стало обычаем для тех супругов, которые совершали взаимное проклятие (ли‘ан). Затем Пророк ﷺ сказал: “Понаблюдайте за ней. Если же она родит ребёнка невысокого роста, с красноватой кожей, как у ящерицы, я буду считать, что её муж солгал. Если она родит ребёнка с чёрными глазами и большими ягодицами, то я буду считать, что её муж говорил правду”. И родился ребёнок с признаками (подтверждающими факт прелюбодеяния)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7304</td></tr><tr><td>Arabic No</td><td>7304</td></tr><tr><td>Reference</td><td>Book 96 Hadith 35</td></tr></tbody></table></div>
 

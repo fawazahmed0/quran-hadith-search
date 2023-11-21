@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:that Ibn 'Abbas told him and 'Ali bin 'Abdullah to go to Abu Sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami ['Abdul Wahhab] telah bercerita kepada kami [Khalid] dari ['Ikrimah] bahwa Ibnu 'Abbas berkata kepadanya dan kepada 'Ali bin 'Abdullah: 'Temuilah oleh kalian berdua [Abu Sa'id] dan dengarkan hadits yang disampaikannya". Maka kami menemui dia ketika dia dan saudaranya sedang berada di kebun milik keduanya sedang meyiram tanaman. Ketika dia melihat kami dia segera menyambut lalu duduk kemudian berkata: "Kami dahulu memasang batu ketika membangun masjid satu persatu. Sahabat 'Ammar mengangkat sekaligus dua batu dua batu. Kemudian Nabi shallallahu 'alaihi wasallam lewat di depannya lalu Beliau mengahapus debu yang ada di kepalanya seraya bersabda: "Inilah 'Ammar, orang yang akan dibunuh oleh kelompok durjana. 'Ammar mengajak mereka kepada Allah sedang mereka mengajak 'Ammar ke neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2812</td></tr><tr><td>Arabic No</td><td>2812</td></tr><tr><td>Reference</td><td>Book 56 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Икрима сказал: «(Однажды) Ибн ‘Аббас велел мне и ‘Али ибн ‘Абдуллаху: “Отправляйтесь к Абу Са‘иду и послушайте, что он рассказывает”. Мы пошли (к нему) и увидели, что он вместе со своим братом поливает их сад. Увидев нас, он завернулся в свою накидку, сел и сказал: “Когда мы строили мечеть, все мы носили по одному необожжённому кирпичу, а ‘Аммар по два. Увидев это, Пророк ﷺ стал стряхивать с него пыль со словами: “Да помилует Аллах ‘Аммара, которого погубит группа притеснителей! Он станет призывать их к Раю, а они его к Аду!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2812</td></tr><tr><td>Arabic No</td><td>2812</td></tr><tr><td>Reference</td><td>Book 56 Hadith 28</td></tr></tbody></table></div>
 

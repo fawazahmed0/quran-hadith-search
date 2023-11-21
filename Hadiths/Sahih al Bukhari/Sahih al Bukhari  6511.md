@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Some rough bedouins used to visit the Prophet (ﷺ) and ask him,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Shadaqah], telah memberitakan kepada kami ['Abdah] dari [Hisyam] dari [Ayahnya] dari ['Aisyah] mengatakan, ada beberapa laki-laki arab badui yang keras perangainya mendatangi Nabi shallallahu 'alaihi wasallam, mereka bertanya kepada beliau kapan kematian terjadi? Kontan beliau melihat yang paling muda diantara mereka sembari mengatakan: "Jika anak ini hidup, niscaya belum ia lanjut usia, hingga telah kalian temui kematian kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6511</td></tr><tr><td>Arabic No</td><td>6511</td></tr><tr><td>Reference</td><td>Book 81 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «К Пророку ﷺ нередко приходили грубые бедуины и спрашивали его: “Когда наступит Час этот?” — он же смотрел на младшего из них и говорил: “Если этому (суждено) прожить (достаточно долго), то для вас “Час этот” наступит, прежде чем он станет дряхлым стариком”, имея в виду их смерть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6511</td></tr><tr><td>Arabic No</td><td>6511</td></tr><tr><td>Reference</td><td>Book 81 Hadith 100</td></tr></tbody></table></div>
 

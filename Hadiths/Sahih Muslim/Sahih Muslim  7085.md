@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (may peace be u n him) said:It wou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar Al Qawariri], [Ishaq bin Ibrahim], [Muhammad bin Al Mutsanna] dan [Ibnu Basyar], [Ishaq] berkata: Telah mengkhabarkan kepada kami dan yang lainnya berkata: Telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepada kami [ayahku] dari [Qatadah] telah menceritakan kepada kami [Anas bin Malik] bahwa nabi Shallallahu 'alaihi wa Salam bersabda: "Pada hari kiamat orang kafir ditanya: 'Andai kau memiliki emas sepenuh bumi, apa akan kau jadikan penebus? ' ia menjawab: 'Ya.' Dikatakan padanya: 'Kau pernah diminta yang lebih ringan darinya'." Telah menceritakan kepada kami [Abdu bin Humaid] telah menceritakan kepada kami [Rouh bin Ubadah]. Telah menceritakan kepadaku [Amru bin Zurarah] telah mengkhabarkan kepada kami [Abdulwahahb bin Atho'], keduanya dari [Sa'id bin Abu Urubah] dari [Qatadah] dari [Anas] dari nabi Shallallahu 'alaihi wa Salam sepertinya, hanya saja ia berkata: Lalu dikatakan padanya: "Kau pernah diminta sesuatu yang lebih ringan darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7085</td></tr><tr><td>Arabic No</td><td>2805.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7085</td></tr><tr><td>Arabic No</td><td>2805.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 39</td></tr></tbody></table></div>
 

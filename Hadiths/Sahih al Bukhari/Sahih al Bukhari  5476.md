@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:I asked Allah's Messenger (ﷺ) about the Mi'rad. He sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Abu As Safar] dari [Asy Sya'bi] ia berkata, "Aku mendengar [Adi bin Hatim] radliallahu 'anhu berkata, "Aku bertanya Rasulullah shallallahu 'alaihi wasallam tentang hasil buruan Mi'radl, maka beliau pun menjawab: "Jika yang mengenai adalah bagian tajamnya maka makanlah, namun jika yang mengenai adalah pada bagian (sisi) tumpulnya maka itu adalah Waqidz (hewan yang dibunuh bukan dengan senjata tajam), maka janganlah kamu makan." Aku bertanya lagi, "Aku telah melepas anjingku!" Beliau menjawab: "Jika kamu melepasnya dengan menyebut nama Allah, maka makanlah." Aku bertanya lagi, "Bagaimana jika ia memakannya?" Beliau menjawab: "Jangan kamu makan, sebab ia menangkap bukan untuk kamu, ia menangkap hanya untuk dirinya." Aku bertanya lagi, "Saat aku melepas anjingku, aku lihat ada anjing lain?" Beliau menjawab: "Jangan kamu makan, sebab kamu menyebut nama Allah hanya untuk anjingmu, bukan untuk anjing yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5476</td></tr><tr><td>Arabic No</td><td>5476</td></tr><tr><td>Reference</td><td>Book 72 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим, да будет доволен им Аллах, сказал: «Я спросил Посланника Аллаха ﷺ о ми‘раде (то есть древковое оружие в виде копья). Он сказал: “Если ты поразил (дичь) его острием, то ешь ее, но если (ми‘рад) поразит дичь своим древком и убьет ее, то это вакыз (т.е. забитая до смерти) — посему не ешь”. И я сказал: “А если я посылаю собаку?” Он сказал: “Можешь есть то, что она схватит для тебя, если ты помянул имя Аллаха, когда посылал её, а иначе не ешь”. Я спросил: “Если собака съест (часть) дичи?” Он ответил: “А если собака начала есть дичь, то не ешь её, потому что она схватила её для себя”. Я спросил: “А что, если я пошлю свою собаку, а потом обнаружу вместе с ней другую собаку?” (Посланник Аллаха ﷺ) сказал: “Не ешь эту дичь, ибо ты произнёс имя Аллаха только над своей собакой, но не произносил имя Аллаха над другой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5476</td></tr><tr><td>Arabic No</td><td>5476</td></tr><tr><td>Reference</td><td>Book 72 Hadith 2</td></tr></tbody></table></div>
 

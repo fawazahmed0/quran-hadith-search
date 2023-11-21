@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah sent (the Prophet) Muhammad and said:-- 'Say, No wage d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Khalid] Telah mengabarkan kepada kami [Muhammad] Telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] dan [Manshur] dari [Abu Ad Dluha] dari [Masruq] dia berkata; [Abdullah] berkata; Sesungguhnya Allah mengutus Rasulullah shallallahu 'alaihi wasallam seraya berkata; Katakanlah (hai Muhammad): "Aku tidak meminta upah sedikitpun padamu atas da'wahku dan bukanlah aku termasuk orang-orang yang mengada-adakan. (Shaad: 86). Dan Rasulullah shallallahu 'alaihi wasallam tatkala melihat kaum Quraisy berbuat durhaka kepada beliau, beliau shallallahu 'alaihi wasallam berdo'a: "Ya Allah timpakan kepada mereka kelaparan seperti kaum Yusuf. Maka mereka tertimpa tahun kelaparan hingga mereka memakan tulang dan kulit. Yang lainnya mengatakan; hingga memakan kulit dan bangkai. Salah seorang dari mereka berdiri melihat ke langit, ia melihat seperti wujud kabut antara dirinya dan langit. Kemudian Abu Sufyan menemui Nabi shallallahu 'alaihi wasallam seraya berkata; Wahai Muhammad, sesungguhnya kaummu telah binasa, maka do'akanlah kepada Allah agar Dia melenyapkan adzab dari mereka. Lalu beliau mendoakannya. Kemudian beliau bersabda: 'Apakah kalian akan kembali durhaka setelah ini? Sedangkan di dalam Hadits Manshur disebutkan; Kemudian beliau membaca: "Maka tunggulah hari ketika langit membawa kabut yang nyata, yang meliputi manusia. inilah azab yang pedih." Hingga ayat: Sesungguhnya (kalau) Kami akan melenyapkan siksaan itu agak sedikit sesungguhnya kamu akan kembali (ingkar). Abdullah berkata; Maka bagaimana siksa itu akan dilenyapkan dari mereka pada hari kiamat? Padahal telah berlalu kabut, hantaman keras dan kematian. Yang lainnya menambahkan; dan terbelahnya bulan. Dan satu lagi menambahkan; dan kekalahan Ramawi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4824</td></tr><tr><td>Arabic No</td><td>4824</td></tr><tr><td>Reference</td><td>Book 65 Hadith 346</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Масрука, что ‘Абдуллах сказал: «Поистине, Аллах послал Мухаммада ﷺ, сказав: “Скажи: “Я не прошу у вас за это никакого вознаграждения и не обременяю себя измышлениями””. Когда же Посланник Аллаха ﷺ увидел, что курайшиты ослушались его, он сказал: “О Аллах, помоги мне (в борьбе) против них (, послав им) семь (голодных лет), подобных семи (годам) Йусуфа!” После этого их поразила такая засуха, что все (растения) пропали, и из-за голода они стали питаться костями и шкурой (животных), и (им стало казаться, что) из земли стало выходить подобие дыма. Тогда пришёл Абу Суфьян и сказал: “О Мухаммад, поистине, народ твой погибает, так обратись же к Аллаху с мольбой, чтобы Он избавил их от этого!” Он обратился к Аллаху, а затем сказал: “И после этого вы снова вернётесь (к неверию)”». \nЗатем ’Абдуллах прочитал: «Жди же того дня, когда небо станет испускать ясно видимый дым…», пока не дошёл до слов: «…но ведь вы вернетесь к неверию». ‘Абдуллах добавил: «Но разве будут они избавлены от наказания в мире вечном?! Ведь следующие событий уже произошли это: дым, хватка (в день Бадра) и неизбежность, (раскол) луны и (победа) римлян»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4824</td></tr><tr><td>Arabic No</td><td>4824</td></tr><tr><td>Reference</td><td>Book 65 Hadith 346</td></tr></tbody></table></div>
 

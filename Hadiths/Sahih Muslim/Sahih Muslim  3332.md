@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported:If I were to see deer grazing i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] ia berkata; Sekiranya aku melihat kijang dikembalikan di Madinah, niscaya aku tidak akan khawatir. Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Wilayah antara dua bukit berbatu-batu hitam dalah tanah haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3332</td></tr><tr><td>Arabic No</td><td>1372.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 536</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3332</td></tr><tr><td>Arabic No</td><td>1372.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 536</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Suras of Bani Israel, Al-Kahf, Mariyam, Taha and Al-Anbiy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dia berkata; Aku mendengar ['Abdur Rahman bin Yazid] dari ['Abdullah] dia berkata; "Bani Israil, Al Kahfi, Maryam, Thahaa, Al Anbiya, mereka adalah generasi terdahulu, dan ia adalah surat-surat yang sudah lama aku baca. Qatadah berkata; arti 'Judzadzan, ' adalah; Ibrahim memotong-motong berhala-berhala itu. Al Hasan berkata; 'Fi Falakin, ' artinya; seperti ujung roda. Yasbahuun, artinya; Berputar. Ibnu Abbas berkata; Nafasat artinya; mengembala diwaktu malam. Yusbahuun artinya; di larang. Umatukum Ummatan Waahidatan, dia berkata; agama yang satu. Ikrimah berkata; Hashabun artinya; kayu dari Habasyi. Yang lainnya berkata; Ahassuu, artinya: beranggapan Khaadimiin artinya; bertempat tinggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4739</td></tr><tr><td>Arabic No</td><td>4739</td></tr><tr><td>Reference</td><td>Book 65 Hadith 261</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, сказал: «(Суры) “Бану Исраиль”, “аль-Кяхф”, “Марьям”, “Та Ха” и “аль-Анбия” были одними из первых ниспосланных сур, и их я заучил одними из первых»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4739</td></tr><tr><td>Arabic No</td><td>4739</td></tr><tr><td>Reference</td><td>Book 65 Hadith 261</td></tr></tbody></table></div>
 

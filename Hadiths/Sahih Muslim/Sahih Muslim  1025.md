@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qutba b. Malik reported that he had heard the Messenger of Allah (ﷺ) reciting 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Syarik] dan [Ibnu Uyainah] --lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ibnu Uyainah] dari [Ziyad bin 'Ilaqah] dari [Quthbah bin Malik], "Dia mendengar Nabi shallallahu 'alaihi wasallam membaca dalam shalat shubuh, 'Wannakhla Basiqat Laha Thal' Nadhid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1025</td></tr><tr><td>Arabic No</td><td>457.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Зияда ибн ‘Илякы, что Кутба ибн Малик слышал, как Пророк ﷺ читал во время утренней молитвы /фаджр/: «И высокие финиковые пальмы с висящими рядами плодами» (Сура “Каф”, аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1025</td></tr><tr><td>Arabic No</td><td>457.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 187</td></tr></tbody></table></div>
 

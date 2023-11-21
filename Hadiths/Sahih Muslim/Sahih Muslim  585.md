@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (may peace The upon him) went out to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>585</td></tr><tr><td>Arabic No</td><td>249.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ пришёл на кладбище и сказал: «Мир вам, о (пребывающие) в обители верующих! Поистине, если будет угодно Аллаху, мы присоединимся к вам /Ас-саляму ‘аляй-кум, дара каумин муъминина, ва инна ин шаъа-Ллаху би-кум ляхыкуна/». Далее подобно предыдущему хадису, но с небольшими изменениями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>585</td></tr><tr><td>Arabic No</td><td>249.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 52</td></tr></tbody></table></div>
 

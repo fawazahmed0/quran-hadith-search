@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Yusayrah, mother of Yasir: The Prophet (ﷺ) commanded them (the women 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abdullah bin Daud] dari [Hani' bin Utsman] dari [Humaidhah binti Yasir] dari [Yusairah] ia telah mengabarkan kepadanya bahwa Nabi shallallahu 'alaihi wasallam memerintahkan mereka (para wanita) agar menjaga takbir, pensucian Allah, serta tahlil, dan menghitung dzikir menggunakan ruas-ruas jari, karena ruas-ruas tersebut akan ditanya dan diminta untuk berbicara
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 8 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Юсайры, да будет доволен ею Аллах, что Пророк ﷺ велел им (женщинам) неуклонно произносить слова «Аллах Велик» /Аллаху Акбар/, «Пречист Властелин Святейший» /Субхана-ль-Малики-ль-Куддус/ и «Нет бога [заслуживающего поклонение], кроме Аллаха» /Ля иляха илля-Ллах/, отсчитывая слова восхваления с помощью костяшек пальцев, ибо пальцы будут спрошены об этом и наделены способностью говорить (в Судный день)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 8 Hadith 86</td></tr></tbody></table></div>
 

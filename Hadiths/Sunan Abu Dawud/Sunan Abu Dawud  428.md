@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Fudalah: The Messenger of Allah (ﷺ) taught me and what he taught me i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin 'Aun] telah mengabarkan kepada kami [Khalid] dari [Dawud bin Abu Hind] dari [Abu Harb bin Abu Al Aswad] dari [Abdullah bin Fadhalah] dari [Ayahnya] dia berkata; Rasulullah Shallallahu alaihi wasallam telah mengajariku, dan di antara yang beliau ajarkan kepadaku adalah: "Dan peliharalah shalat lima waktu." Dia berkata; Saya berkata; Sesungguhnya ini adalah saat-saat saya memiliki banyak kesibukan, maka dari itu perintahkanlah saya dengan suatu perkara yang mencakup, apabila saya melaksanakannya maka sudah mencukupiku. Maka beliau bersabda: "Peliharalah dua shalat Ashar." Dan itu bukanlah termasuk bahasa kami (sehingga kami tidak paham), maka saya bertanya; Apa itu dua shalat Ashar? Beliau menjawab: "Shalat sebelum terbitnya matahari dan sebelum terbenamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>428</td></tr><tr><td>Arabic No</td><td>428</td></tr><tr><td>Reference</td><td>Book 2 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Фадаля о том, что его отец сказал: «Посланник Аллаха ﷺ научил меня (канонам ислама) и среди того, чему он меня научил (было следующее): “Соблюдай пять молитв”».(Фадаля) сказал: «Я сказал: “Поистине, в эти часы я бываю занят, так прикажи мне (совершить) такое всеобъемлющее дело, которое будет для меня достаточным”. Он сказал: “Соблюдай ‘асрайн”. Этого (слова) не было в нашем языке, и поэтому я спросил: “А что такое ‘асрайн?” И он ответил: “Молитва до восхода солнца и молитва до его захода”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>428</td></tr><tr><td>Arabic No</td><td>428</td></tr><tr><td>Reference</td><td>Book 2 Hadith 38</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mughaffal: Abdullah heard his son praying to Allah: O Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Sa'id Al Jurairi] dari [Abu Na'amah] bahwasanya [Abdullah bin Mughaffal] pernah mendengar anaknya berdoa dengan mengucapkan; "Ya Allah, Sesungguhnya saya memohon kepadaMu istana putih di sisi kanan surga apabila saya memasukinya." Maka Abdullah bin Mughaffal berkata; "Wahai anakku, mintalah surga kepada Allah dan berlindunglah kepadaNya dari neraka, sesungguhnya saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya akan ada suatu kaum dari umat ini yang berlebih-lebihan dalam hal bersuci dan berdoa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>96</td></tr><tr><td>Arabic No</td><td>96</td></tr><tr><td>Reference</td><td>Book 1 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу На‘амы о том, что однажды, ‘Абдуллах ибн Мугъаффаль услышал, как его сын говорил: «O Аллах, поистине, прошу Tебя наделить меня белым дворцом справой стороны в Раю, когда я войду в него». Он сказал ему: «O сынок, проси у Аллаха Рай и прибегай к Его защите от Ада, ибо, поистине слышал я, как Посланник Аллаха ﷺ говорил: “В этой общине появятся некоторые люди, которые будут преступать границы при очищении и (обращении) с мольбой /ду‘а/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>96</td></tr><tr><td>Arabic No</td><td>96</td></tr><tr><td>Reference</td><td>Book 1 Hadith 96</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mas'oûd (que Dieu l'agrée), le Prophète (paix et bé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Isma'il] dari [Qais] ia berkata, [Abdullah bin Mas'ud] berkata; -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] dan [Muhammad bin Bisyr] keduanya berkata, telah menceritakan kepada kami [Isma'il] dari [Qais] ia berkata, aku mendengar [Abdullah bin Mas'ud] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh hasad (dengki) kecuali pada dua hal. (Pertama) kepada seorang yang dikaruniakan Allah harta kekayaan, lalu ia membelanjakannya dalam kebenaran. (Dan yang kedua) kepada seorang laki-laki yang diberi Allah hikmah (ilmu), hingga ia memberi keputusan dengannya dan juga mengajarkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1896</td></tr><tr><td>Arabic No</td><td>816</td></tr><tr><td>Reference</td><td>Book 6 Hadith 324</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн Мас’уда, что Посланник Аллаха ﷺ сказал: «Не следует завидовать никому, кроме двоих: человеку, которому Аллах даровал богатство, и он потратил его на (пути) истины, а также человеку, которому Аллах даровал мудрость, и он поступает в соответствие с ней и обучает ей (других)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1896</td></tr><tr><td>Arabic No</td><td>816</td></tr><tr><td>Reference</td><td>Book 6 Hadith 324</td></tr></tbody></table></div>
 

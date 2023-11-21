@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Al-Fadl bint Al-Hârith (رضي الله عنها) a dit : "Le jour de quelq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Abu Nadlr] dari [Umair] Maula Abdullah bin Abbas, dari [Ummu Fadl binti Al Harits] bahwa banyak orang-orang bertengkar di dekatnya tentang puasa Rasulullah shallallahu 'alaihi wasallam di hari 'Arafah. Sebagian mereka mengatakan beliau puasa, dan sebagian lagi mengatakan tidak. Lalu kukirimkan kepada beliau secangkir susu. Saat itu beliau sedang berada di atas untanya di Arafah dan beliau pun meminumnya. Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ibnu Abu Umar] dari [Sufyan] dari [Abu Nadlr] dengan isnad ini, dan tidak menyebutkan; "Beliau saat itu berada di atas untanya." Dan ia juga mengatakan; Dari Umair Maula Ummu Fadll. Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Sufyan] dari [Salim Abu Nadlr] dengan isnad ini sebagaimana hadits Ibnu Uyainah. Dan ia juga mengatakan; Dari Umair Maula Ummu Fadll
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2632</td></tr><tr><td>Arabic No</td><td>1123.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2632</td></tr><tr><td>Arabic No</td><td>1123.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 138</td></tr></tbody></table></div>
 

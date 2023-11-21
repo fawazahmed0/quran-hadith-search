@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Muslims did not free slaves as Sa'iba, but the People of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah bin 'Uqbah] telah menceritakan kepada kami [Sufyan] dari [Abu Qais] dari [Huzail] dari [Abdullah] mengatakan; 'Pemeluk Islam tidak sepantasnya melakukan saibah, karena pemeluk jahiliyah melakukan saibah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6753</td></tr><tr><td>Arabic No</td><td>6753</td></tr><tr><td>Reference</td><td>Book 85 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Мусульмане не освобождают рабов, отменяя своё право наследовать его /тасииб/, а люди доисламского периода невежества делали это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6753</td></tr><tr><td>Arabic No</td><td>6753</td></tr><tr><td>Reference</td><td>Book 85 Hadith 30</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après ‘Abou Hourayra, Sa'îd Ibn Al-Musayyib a dit : 'Umar passa par Hassâ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid] dan [Ishaq bin Ibrahim] dan [Ibnu Abu 'Umar] seluruhnya dari [Sufyan] dia berkata; ['Amru] Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] bahwasanya Umar bin Khaththab pernah berjalan melewati [Hassan] yang sedang melantunkan sya'ir di Masjid. Lalu Umar menegurnya dengan pandangan mata. Tetapi Hassan berkata; "Dulu saya pernah melantunkan syair di Masjid ini, yang ketika itu ada seseorang yang lebih mulia daripadamu yaitu (Rasulullah)." Kemudian Hassan menoleh kepada Abu Hurairah seraya berkata; "Saya bersumpah kepadamu dengan nama Allah hai Abu Hurairah, pernahkah kamu mendengar Rasulullah berkata kepada saya, Hai Hassan, balaslah sya'ir orang-orang kafir untuk membelaku! Ya Allah ya Tuhanku, dukunglah Hassan dengan Jibril! ' Abu Hurairah menjawab; 'Ya, Saya pernah mendengarnya." Telah menceritakannya kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Rafi'] serta ['Abad bin Humaid] dari ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnu Al Musayyab] bahwa [Hassan] pernah berkata di sebuah majlis yang di sana ada [Abu Hurairah]; 'Saya bersumpah kepadamu dengan nama Allah hai Abu Hurairah, pernahkah kamu mendengar Rasulullah….-kemudian dia menyebutkan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6384</td></tr><tr><td>Arabic No</td><td>2485.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6384</td></tr><tr><td>Arabic No</td><td>2485.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 214</td></tr></tbody></table></div>
 

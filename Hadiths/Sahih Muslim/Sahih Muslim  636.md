@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Bakr reported that he had heard from the son of Mughira that verily the Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Muhammad bin Hatim] semuanya dari [Yahya al-Qaththan], [Ibnu Hatim] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari [at-Taimi] dari [Bakar bin Abdullah] dari [al-Hasan] dari [Ibnu al-Mughirah bin Syu'bah] dari [bapaknya], [Bakar] berkata, "Sungguh aku telah mendengar dari [Ibnu al-Mughirah] bahwa Nabi shallallahu 'alaihi wasallam berwudlu lalu mengusap bagian depan kepalanya, bagian atas surban dan bagian atas kedua khufnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>636</td></tr><tr><td>Arabic No</td><td>274.11</td></tr><tr><td>Reference</td><td>Book 2 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн аль-Мугыры, что (однажды), совершая омовение, Пророк ﷺ обтёр переднюю часть своей головы, чалму и кожаные носки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>636</td></tr><tr><td>Arabic No</td><td>274.11</td></tr><tr><td>Reference</td><td>Book 2 Hadith 103</td></tr></tbody></table></div>
 

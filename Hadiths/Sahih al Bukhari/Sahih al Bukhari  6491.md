@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) narrating about his Lord I'm and said, "Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul warits] telah menceritakan kepada kami [ja'd bin Dinar Abu Utsman] telah menceritakan kepada kami [Abu Raja' Al 'Utharidi] dari [Ibnu Abbas] radhilayyahu'anhuma, dari Nabi shallallahu 'alaihi wasallam yang beliau riwayatkan dari rabbnya (hadis qudsi) Azza wa jalla berfirman, yang beliau sabdakan; "Allah menulis kebaikan dan kejahatan, " selanjutnya beliau jelaskan; "siapa yang berniat kebaikan lantas tidak jadi ia amalkan, Allah mencatat satu kebaikan disisi-Nya secara sempurna, dan jika ia berniat lantas ia amalkan, Allah mencatatnya sepuluh kebaikan, bahkan hingga dilipatgandakan tujuh ratus kali, bahkan lipatganda yang tidak terbatas, sebaliknya barangsiapa yang berniat melakukan kejahatan kemudian tidak jadi ia amalkan, Allah menulis satu kebaikan disisi-Nya secara sempurna, dan jika ia berniat kejahatan dan jadi ia lakukan, Allah menulisnya sebagai satu kejahatan saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6491</td></tr><tr><td>Arabic No</td><td>6491</td></tr><tr><td>Reference</td><td>Book 81 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах ими обоими, сообщил, что Пророк ﷺ передававший слова своего Всемогущего и Великого Господа, сказал: «Поистине, Аллах записал добрые и дурные дела, после чего разъяснил это: “За тем, кто решит совершить доброе дело, но не совершит его, Аллах запишет у Себя (совершение) целого доброго дела; если (человек) решит (совершить доброе дело) и совершит его, Аллах запишет за ним у Себя (совершение) от десяти до семисот и многим более добрых дел; за тем, кто решит совершить дурное дело, но не совершит его, Аллах запишет у Себя (совершение) целого доброго дела, а если он решит (совершить дурное дело), и совершит его, Аллах запишет (за ним) одно дурное дело”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6491</td></tr><tr><td>Arabic No</td><td>6491</td></tr><tr><td>Reference</td><td>Book 81 Hadith 80</td></tr></tbody></table></div>
 

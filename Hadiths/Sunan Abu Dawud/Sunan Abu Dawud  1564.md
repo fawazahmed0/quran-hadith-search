@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: I used to wear gold ornaments. I asked: Is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Isa], telah menceritakan kepada Kami ['Attab yaitu Ibnu Basyir] dari [Tsabit bin 'Ajlan] dari ['Atha'] dari [Ummu Salamah], ia berkata; aku mengenakan perhiasan dari emas, lalu aku bertanya; wahai Rasulullah, apakah ini termasuk barang timbunan? Beliau menjawab: "Apa yang sudah mencapai nishabnya untuk dizakati kemudian telah dikeluarkan zakatnya maka bukanlah termasuk barang timbunan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1564</td></tr><tr><td>Arabic No</td><td>1564</td></tr><tr><td>Reference</td><td>Book 9 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм Саляма, да будет доволен ею Аллах, передаёт: «Я носила золотые украшения и как-то спросила Посланника Аллаха ﷺ: “Является ли это накопительством?” (Посланник Аллаха ﷺ) сказал: “Если их стоимость такова, что с них нужно выплачивать закят, и с них выплачивается закят, то нет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1564</td></tr><tr><td>Arabic No</td><td>1564</td></tr><tr><td>Reference</td><td>Book 9 Hadith 9</td></tr></tbody></table></div>
 

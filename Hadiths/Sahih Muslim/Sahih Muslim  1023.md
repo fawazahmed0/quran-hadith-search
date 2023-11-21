@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr b. Huwairith reported:I heard the Messenger of Allah (ﷺ) recite in the mor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] dia berkata --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Waki'] --lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Abu Kuraib] dan lafazh tersebut miliknya, telah mengabarkan kepada kami [Ibnu Bisyr] dari [Mis'ar] dia berkata, telah menceritakan kepadaku [al-Walid bin Sari'] dari [Amru bin Huraits] bahwasanya dia mendengar Nabi shallallahu 'alaihi wasallam membaca dalam shalat shubuh, 'Wallaili idza 'as'as
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1023</td></tr><tr><td>Arabic No</td><td>456</td></tr><tr><td>Reference</td><td>Book 4 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Хурайс слышал, как Пророк ﷺ читал во время утренней молитвы /фаджр/: «Клянусь ночью, когда она наступила!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1023</td></tr><tr><td>Arabic No</td><td>456</td></tr><tr><td>Reference</td><td>Book 4 Hadith 185</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "When anyone of you goes to bed, he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepadaku [Malik] dari [Abu Sa'id Al Maqburi] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Jika salah seorang diantara kalian mendatangi kasurnya (tidur), hendaklah ia mengibaskannya dengan ujung kainnya sebanyak tiga kali, dan hendaklah memanjatkan doa BISMIKA RABBII WADLA'TU JANBII WABIKA ARFA'UHU, IN AMSAKTA NAFSII FAGHFIR LAHAA, WAIN ARSALTAHAA FAHFAHZH-HAA BIMAA TAHFAZHU BIHI 'IBAADAKASHSHAALIHIINA (Dengan menyebut nama-Mu Wahai Tuhanku, aku baringkan pinggangku dan atas nama-Mu aku mengangkatnya, dan jika Engkau menahan diriku, maka berilah ampunan terhadapnya, dan jika Engkau melepaskannya, maka jagalah sebagaimana Engkau menjaga hamba-Mu yang shalih) '." Hadis ini diperkuat oleh [Yahya] dan [Bisyr bin Mufadldlal] dari ['Ubaidullah] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, sedang [Zuhair] dan [Abu Dlamrah] dan [Ismail bin Zakariya] menambahkan dari [Ubaidullah] dari [Sa'id] dari [Ayahnya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, dan juga diriwayatkan oleh [Ibnu 'Ajlan] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7393</td></tr><tr><td>Arabic No</td><td>7393</td></tr><tr><td>Reference</td><td>Book 97 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда кто-нибудь из вас отправиться в свою постель, пусть отряхнёт её краем своей одежды три раза, а потом скажет: «С именем Твоим, Господь мой, я улёгся на бок свой и благодаря Тебе я подниму его. Если Ты заберёшь душу мою, то прости её, а если Ты отпустишь её, то защити её посредством того, посредством чего защищаешь Ты Своих праведных рабов!»/Би-сми-кя, Рабби, вада‘ту джанби ва би-кя арфа‘у-ху. Ин амсакта нафси, фа-гъфир-ляха, ва ин арсальта-ха фа-хфаз-ха би-ма тахфазу би-хи ‘ибада-кя-с-салихина
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7393</td></tr><tr><td>Arabic No</td><td>7393</td></tr><tr><td>Reference</td><td>Book 97 Hadith 22</td></tr></tbody></table></div>
 

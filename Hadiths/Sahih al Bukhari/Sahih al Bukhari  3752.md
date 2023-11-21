@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:None resembled the Prophet (ﷺ) more than Al-Hasan bin 'Ali did
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam bin Yusuf] dari [Ma'mar] dari [Az Zuhriy] dari [Anas]. Dan berkata ['Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] telah mengabarkan kepadaku [Anas] berkata; "Tidak ada seorangpun yang lebih mirip dengan Nabi shallallahu 'alaihi wasallam daripada Al Hasan bin 'Ali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3752</td></tr><tr><td>Arabic No</td><td>3752</td></tr><tr><td>Reference</td><td>Book 62 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Никто не был так похож на Пророка ﷺ, как аль-Хасан ибн ‘Али»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3752</td></tr><tr><td>Arabic No</td><td>3752</td></tr><tr><td>Reference</td><td>Book 62 Hadith 97</td></tr></tbody></table></div>
 

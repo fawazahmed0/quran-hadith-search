@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sa'-ib bin Yazid:I was in the company of Talha bin 'Ubaidullah, Sa'd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Hatim] dari [Muhammad bin Yusuf] dari [As-Sa'ib bin Yazid] berkata; Aku pernah bersahabat mendampingi [Thalhah bin 'Ubaidillah], Sa'ad, Al Miqdad bin Al Aswad dan 'Abdur Rahman bin 'Auf radliallahu 'anhum dan aku tidaklah mendengar seorangpun dari mereka yang bercerita dari Rasulullah shallallahu 'alaihi wasallam kecuali aku mendengar dari Thalhah yang bercerita tentang hari peperangan Uhud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2824</td></tr><tr><td>Arabic No</td><td>2824</td></tr><tr><td>Reference</td><td>Book 56 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Саиб ибн Язид сказал: «Я был вместе с Тальхой ибн ‘Убайдуллахом, Са‘дом, аль-Микдадом ибн аль-Асвадом и ‘Абдурахманом ибн ‘Ауфом, и я не слышал, чтобы кто-либо из них передавал что-либо от Посланника Аллаха ﷺ, кроме Тальхи, который рассказывал о дне (битвы) при Ухуде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2824</td></tr><tr><td>Arabic No</td><td>2824</td></tr><tr><td>Reference</td><td>Book 56 Hadith 40</td></tr></tbody></table></div>
 

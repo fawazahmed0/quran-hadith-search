@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Muhammad ibn Safwan or Safwan ibn Muhammad: I hunted two hares and slau
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], bahwa [Abdul Wahid bin Ziyad] dan [Hammad], telah menceritakan kepada mereka, dan maknanya adalah satu, dari ['Ashim] dari [Asy Sya'bi], dari [Muhammad bin Shafwan atau Shafwan bin Muhammad], ia berkata; aku telah berburu dua ekor kelinci, kemudian aku menyembelihnya menggunakan batu, lalu aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai kedua kelinci tersebut, lalu beliau memerintahkanku agar memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2822</td></tr><tr><td>Arabic No</td><td>2822</td></tr><tr><td>Reference</td><td>Book 16 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Мухаммада ибн Сафвана (или: Сафвана ибн Мухаммада), да будет доволен им Аллах: «Я поймал и зарезал острым камнем двух зайцев, а потом спросил о них Посланника Аллаха ﷺ и он велел мне есть этих зайцев»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2822</td></tr><tr><td>Arabic No</td><td>2822</td></tr><tr><td>Reference</td><td>Book 16 Hadith 35</td></tr></tbody></table></div>
 

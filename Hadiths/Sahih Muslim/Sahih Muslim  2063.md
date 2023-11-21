@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Abu Bakr came to her and there were with her two girls on A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al 'Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] bahwa [Ibnu Syihab] telah menceritakan kepadanya dari [Urwah] dari [Aisyah] bahwa pada hari-hari di Mina Abu Bakar masuk ke dalam rumahnya, sementara di tempatnya terdapat dua orang budak wanita yang sedang bernyanyi dan memukul rebana, sementara Rasulullah shallallahu 'alaihi wasallam menutup diri dengan kainnya. Kemudian Abu Bakar pun menghentikan keduanya, maka Rasulullah shallallahu 'alaihi wasallam pun menyingkap kainnya dan bersabda: "Biarkanlah keduanya, wahai Abu Bakar. Karena hari-hari ini adalah hari raya." Aisyah berkata; "Saya melihat Rasulullah shallallahu 'alaihi wasallam menutupiku dengan kainnya, sementara saya sedang melihat kepada orang-orang Habasyah yang sedang bermain. Saya adalah seorang anak wanita, karena itu berilah kesempatan kepada para anak wanita untuk bermain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2063</td></tr><tr><td>Arabic No</td><td>892.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что однажды во время пребывания в Мине Абу Бакр зашёл к ней тогда, когда у неё находились две девушки, игравшие на бубне, а также Посланник Аллаха ﷺ, прикрывшийся своей одеждой. Абу Бакр резко заговорил с ними, но Посланник Аллаха ﷺ открыл лицо и сказал: «Оставь их, о Абу Бакр, ведь это дни праздника».Также ‘Аиша сказала: «Посланник Аллаха ﷺ прикрыл меня своей накидкой /рида/, пока я смотрела на то, как эфиопы играли (в мечети), а я (тогда была ещё) девочкой. Поэтому считайтесь с молодыми девочками, которые любят играться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2063</td></tr><tr><td>Arabic No</td><td>892.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 18</td></tr></tbody></table></div>
 

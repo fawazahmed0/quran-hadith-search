@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) came to us while we we
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyah] telah mengabarkan kepada kami [Khalid] dari [Humaid Al A'raj] dari [Muhammad bin Al Munkadir] dari [Jabir bin Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam menemui kami, ketika itu kami sedang membaca Al Qur'an, sedangkan di antara kami ada seorang arab Badui dan orang Asing, maka beliau bersabda: "Bacalah oleh kalian dengan bacaan yang baik, akan datang suatu kaum yang membaca dengan melurus-luruskannya (benar) sebagaimana anak panah di luruskan, namun mereka hanyalah mengharap-harap balasan yang disegerakan (materi-duniawi) dan mereka tidak mengharap pahala yang ditangguhkan (di akhirat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>830</td></tr><tr><td>Arabic No</td><td>830</td></tr><tr><td>Reference</td><td>Book 2 Hadith 440</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом: «Однажды Посланник Аллаха ﷺ вышел к нам, когда мы читали Коран. При этом среди нас были и бедуины, и неарабы. (Посланник Аллаха ﷺ) сказал: “Читайте его. Каждое (чтение) хорошо. И появятся люди, которые будут читать его подобно тому, как выравнивают стрелу, спеша обрести мирские блага вместо награды в мире вечном”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>830</td></tr><tr><td>Arabic No</td><td>830</td></tr><tr><td>Reference</td><td>Book 2 Hadith 440</td></tr></tbody></table></div>
 

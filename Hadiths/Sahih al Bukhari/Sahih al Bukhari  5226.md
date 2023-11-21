@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet, said, "I entered Paradise and saw a palace and asked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] Telah menceritakan kepada kami [Mu'tamir] dari [Ubaidullah] dari [Muhammad bin Al Munkadir] dari [Jabir bin Abdullah] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Aku memasuki surga, -atau- aku mendatangi surga, lalu aku melihat sebuah istana, maka aku pun bertanya, 'Untuk siapa ini? ' mereka menjawab, 'Untuk Umar bin Al Khaththab.' Lalu aku ingin memasukinya, dan tidak ada yang menghalangiku kecuali pengetahuanku terhadap kecemburuanmu yang besar." Umar bin Al Khaththab berkata, "Wahai Rasulullah, demi bapak, Anda dan ibuku, wahai Nabiyullah apakah kepada Anda aku merasa cemburu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5226</td></tr><tr><td>Arabic No</td><td>5226</td></tr><tr><td>Reference</td><td>Book 67 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ’Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Войдя в Рай, я увидел дворец и спросил: “Кому принадлежит этот (дворец)?” (Мне) сказали: “‘Умару ибн аль-Хаттабу”. Я хотел войти в него, но мне помешало войти только то, что я знаю о твоей ревности». ‘Умар ибн аль-Хаттаб сказал: “О Посланник Аллаха, да станут отец мой и мать выкупом за тебя, о Пророк Аллаха, как я могу ревновать к тебе!?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5226</td></tr><tr><td>Arabic No</td><td>5226</td></tr><tr><td>Reference</td><td>Book 67 Hadith 159</td></tr></tbody></table></div>
 

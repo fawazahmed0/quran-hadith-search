@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir bin 'Abdullah:We were in the company of the Prophet (ﷺ) on a fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dari [Jarir] dari [Ismail] dari [Qais bin Abu Hazim] dari [Jarir bin Abdullah] dia berkata; "Ketika kami duduk-duduk di sisi Rasulullah shallallahu 'alaihi wasallam di malam hari ke empat belas, beliau melihat bulan, kemudian bersabda: "Sesungguhnya kalian akan melihat Rabb kalian sebagaimana kalian melihat bulan ini. Kalian tidak akan kesulitan (ragu) ketika melihatnya. Jika kalian mampu untuk tidak ketinggalan shalat sebelum terbitnya fajar dan sebelum terbenamnya matahari maka lakukanlah." Kemudian beliau membaca: "Dan bertasbihlah dengan memuji Rabbmu, sebelum terbit matahari dan terbenamnya." (Qaaf:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4851</td></tr><tr><td>Arabic No</td><td>4851</td></tr><tr><td>Reference</td><td>Book 65 Hadith 372</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир ибн ‘Абдуллах сказал: «Однажды в четырнадцатую ночь месяца, когда мы находились вместе с Пророком ﷺ, он посмотрел на полную луну и сказал: “Поистине, вы увидите Господа вашего, как видите эту луну, и для вас лицезрение Его не будет сопряжено ни с какими трудностями! И если сможете вы добиться того, чтобы ничто не мешало вам совершать молитвы перед восходом солнца и перед закатом его, то совершайте их”. А после этого он прочитал: “… и прославляй Господа твоего до восхода солнца и перед заходом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4851</td></tr><tr><td>Arabic No</td><td>4851</td></tr><tr><td>Reference</td><td>Book 65 Hadith 372</td></tr></tbody></table></div>
 

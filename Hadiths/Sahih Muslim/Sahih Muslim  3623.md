@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Bakr b. 'Abd al-Rahman reported that when Allah's Messenger (ﷺ) married Um
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] telah menceritakan kepada kami [Sulaiman yaitu Ibnu Bilal] dari [Abdurrahman bin Humaid] dari [Abdul Malik bin Abu Bakar] dari [Abu Bakar bin Abdurrahman] bahwa ketika Rasulullah shallallahu 'alaihi wasallam menikah dengan Ummu Salamah, beliau masuk menemuinya, tatkala beliau hendak keluar, baju beliau di tarik olehnya, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kamu kehendaki, maka saya akan menambah malam pengantinmu, namun saya juga harus memperhitungkannya, untuk gadis tujuh hari sedangkan untuk janda tiga hari." Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Dlamrah] dari [Abdurrahman bin Humaid] seperti isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3623</td></tr><tr><td>Arabic No</td><td>1460.03</td></tr><tr><td>Reference</td><td>Book 17 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3623</td></tr><tr><td>Arabic No</td><td>1460.03</td></tr><tr><td>Reference</td><td>Book 17 Hadith 56</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Talhah b. 'Ubaid Allah said:A man from among the people of Najd with disheveled 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari pamannya yaitu [Abu Suhail bin Malik] dari [Bapaknya] bahwa dia mendengar [Thalhah bin Ubaidullah] berkata; seseorang yang rambutnya acak-acakan -dari penduduk Najed - datang kepada Rasulullah Shallallahu'alaihi wasallam. Kami mendengar logat suaranya, tetapi kami tidak paham dengan perkataannya hingga dia mendekat dan ternyata dia bertanya tentang Islam. Maka Rasulullah Shallallahu'alaihi wasallam berkata kepadanya: "Shalat lima kali sehari semalam." Dia bertanya lagi; apakah ada kewajiban bagiku selainnya? Rasulullah menjawab: 'Tidak ada kecuali kamu mau melakukan sunnah-sunnahnya. ' Rasulullah menambahkan puasa bulan Ramadhan, Dia bertanya lagi; 'apakah ada kewajiban lain bagiku? Rasulullah menjawab: "Tidak ada kecuali kamu mau melakukannya secara suka rela (puasa sunah). Selanjutnya Rasulullah Shallallahu'alaihi wasallam menyebutkan tentang zakat. Dia bertanya lagi; apakah ada kewajiban yang lain bagiku? Rasul Shallallahu'alaihi wasallam menjawab: 'Tidak, kecuali kamu mau melakukannya secara suka rela. ' kemudian dia mundur ke belakang sambil berkata; 'Demi Allah aku tidak akan menambah atau mengurangi hal tersebut. Rasulullah Shallallahu'alaihi wasallam bersabda: "Dia beruntung jika dia jujur." Telah menceritakan kepada kami [Sulaiman bin Daud] Telah menceritakan kepada kami [Ismail bin Ja'far Al Madani] dari [Abu Suhail, Nafi'] dari [Malik bin Abu 'Amir] dengan sanadnya mengenai Hadits ini. Beliau bersabda: 'Sungguh ia dan bapaknya beruntung akan masuk surga jika ia jujur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (46) Sahih Muslim (11)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>391</td></tr><tr><td>Arabic No</td><td>391</td></tr><tr><td>Reference</td><td>Book 2 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Малика о том, что его дядя Абу Сухайль ибн Малик рассказывал со слов своего отца, что он слышал, как Тальха ибн ‘Убайдаллах, говорил: «(Как-то раз) к Посланнику Аллаха ﷺ явился какой-то человек из Неджда с растрёпанными волосами. Мы слышали его громкий голос, но не понимали, что он говорит, пока он не приблизился. И он спрашивал об исламе. Посланник Аллаха ﷺ сказал: “(Обязательными являются) пять молитв в течение дня и ночи”. Он спросил: “А должен ли я (молиться) сверх этого?” (Посланник Аллаха ﷺ) сказал: “Нет, если только ты сам не захочешь (совершить добровольную молитву)”. Затем Посланник Аллаха ﷺ сказал: “(Обязательным является соблюдение) поста в течение рамадана”. Он спросил: “А должен ли я (поститься) сверх этого?” (Пророк ﷺ) сказал: “Нет, если только ты сам не пожелаешь (поститься добровольно)”.(Тальха) сказал: «А затем Посланник Аллаха ﷺ сказал ему (о необходимости) выплаты закята. Он спросил: “А должен ли я (выплачивать что-нибудь) сверх этого?” (Пророк ﷺ) сказал: “Нет, если только ты сам не пожелаешь этого”. И после этого, этот человек повернулся (и направился к выходу) со словами: “Клянусь Аллахом, я ничего не добавлю к этому и ничего не стану убавлять!”, - что же касается Посланника Аллаха ﷺ то он сказал: “Он преуспеет, если говорит искренне!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (46) Sahih Muslim (11)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>391</td></tr><tr><td>Arabic No</td><td>391</td></tr><tr><td>Reference</td><td>Book 2 Hadith 1</td></tr></tbody></table></div>
 

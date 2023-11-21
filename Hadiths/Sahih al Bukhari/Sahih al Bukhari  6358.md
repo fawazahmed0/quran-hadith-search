@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:We said, "O Allah's Messenger (ﷺ) This is (i.e. w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Hamzah] telah menceritakan kepada kami [Ibnu Abu Hazim] dan [Ad Darawardi] dari [Yazid] dari [Abdullah bin Khabbab] dari [Abu Sa'id Al Khudri] dia berkata; kami bertanya; "Wahai Rasulullah, kami telah mengetahui salam kepadamu, lalu bagaimanakah kami bershalawat?" beliau menjawab: "Ucapkanlah; ALLAHUMMA SHALLI 'ALAA MUHAMMAD 'ABDIKA WARASUULIKA KAMAA SHALLAITA 'ALAA IBRAAHIM WA BAARIK 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD KAMAA BAARAKTA 'ALAA IBRAHIIM WA 'ALAA AALI IBRAHIIMA (Ya Allah berilah shalawat kepada Muhammad hamba dan utusan-Mu sebagaimana Engkau telah memberi shalawat kepada Ibrahiim, dan berilah barakah kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberi barakah kepada Ibrahim, dan keluarga Ibrahim)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6358</td></tr><tr><td>Arabic No</td><td>6358</td></tr><tr><td>Reference</td><td>Book 80 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Мы спросили: “О Посланник Аллаха, мы уже знаем, как приветствовать тебя, но как нам обращаться к Аллаху с мольбами (за тебя)?” (На это Пророк ﷺ) сказал: “Говорите: “О Аллах, благослови Мухаммада, Твоего раба и Твоего Посланника, как благословил Ты Ибрахима, и ниспошли благословения Мухаммаду, и семейству Мухаммада, как ниспослал Ты благословения Ибрахиму и семейству Ибрахима!”».\n/Аллахумма, салли ‘аля Мухаммадин, ‘абди-кя уа расули-кя, кя-ма салляйта ‘аля Ибрахима, уа барик ‘аля Мухаммадин, уа ‘аля али Мухаммадин, кя-ма баракта ‘аля Ибрахима, уа ‘аля али Ибрахима
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6358</td></tr><tr><td>Arabic No</td><td>6358</td></tr><tr><td>Reference</td><td>Book 80 Hadith 55</td></tr></tbody></table></div>
 

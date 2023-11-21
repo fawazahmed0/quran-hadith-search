@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Mualla:While I was praying, the Prophet (ﷺ) passed by an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Khubaib bin 'Abdur Rahman] dari [Hafsh bin 'Ashim] dari [Abu Sa'id bin Al Mu'alla] dia berkata; ketika saya sedang shalat, Rasulullah Shallallahu'alaihiwasallam lewat, lalu beliau memanggilku namun saya tidak mendatanginya sehingga shalat saya selesai. Kemudian aku menemuinya. Beliau bertanya: Apa yang mengahalangimu untuk datang kepadaku? Abu Sa'id menjawab; saya sedang shalat. Beliau bersabda: "Bukankah Allah Tabaraka Wa Ta'ala telah berfirman: "Hai orang-orang yang beriman, penuhilah seruan Allah dan seruan Rasul apabila Rasul menyeru kamu kepada suatu yang memberi kehidupan kepada kamu." (Al Anfal: 24). Lalu beliau bersabda: "Maukah saya ajarkan surat yang paling agung dalam alqur'an sebelum saya keluar dari masjid ini?. Abu Sa'id bin Al Mu'alla berkata; ketika Rasulullah Shallallahu'alaihi wa sallam hendak pergi, saya mengingatkan beliau, lalu beliau bersabda: "Segala puji bagi Allah rabb semesta alam." (Al Fatihah: 2), itu adalah termasuk Assabu' Al Matsani (tujuh ayat yang terulang-ulang) dan Al quran yang agung yang diberikan kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4703</td></tr><tr><td>Arabic No</td><td>4703</td></tr><tr><td>Reference</td><td>Book 65 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+⁠Сообщается от Абу Са‘ида ибн аль-Му‘алля, да будет доволен им Аллах, что он сказал: «Пока я молился, ⁠Посланник Аллаха ﷺ прошёл мимо и позвал меня, но я не пошёл к нему, пока не закончил свою молитву. Когда же я подошёл к нему, он спросил: “Что помешало тебе прийти?” Я ответил: “Я молился”. Он сказал: “Разве Аллах не сказал⁠: “⁠О вы, которые уверовали! Отвечайте на призыв Аллаха (повинуясь Ему) и Его Посланника, когда Он призывает вас?⁠”(сура “аль-Анфаль”, аят 24)”. Затем он добавил: “Не научить ли тебя о самой великой суре в Коране, прежде чем я выйду из мечети?” Когда ⁠Посланник Аллаха, да благославит его Аллах и приветсвует (ﷺ) намеревался выйти (из мечети), я напомнил ему, и он сказал: “Это — Аль-хамду ли-Лляхи Раббиль-‘алямин, что является семью часто повторяемыми аятами /ас-саб‘у аль-масани/ и Великим Кораном, который был дан мне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4703</td></tr><tr><td>Arabic No</td><td>4703</td></tr><tr><td>Reference</td><td>Book 65 Hadith 225</td></tr></tbody></table></div>
 

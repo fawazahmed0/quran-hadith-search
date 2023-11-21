@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) had a stop of seventee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] dan [Utsman bin Abu Syaibah] dengan maksud yang sama, keduanya berkata; telah menceritakan kepada kami [Hafsh] dari ['Ashim] dari ['Ikrimah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam bermukim di Makkah selama tujuh belas hari, dan selalu mengqashar shalat." Ibnu Abbas berkata; "Barangsiapa bermukim selama tujuh belas hari, maka ia boleh mengqashar shalat, dan barangsiapa bermukim lebih dari itu, dia harus menyempurnakan shalat." Abu Daud mengatakan; [Abbad bin Manshur] berkata dari [Ikrimah] dari [Ibnu Abbas] dia berkata; "Beliau bermukim selama sembilan belas hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1080)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1230</td></tr><tr><td>Arabic No</td><td>1230</td></tr><tr><td>Reference</td><td>Book 4 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ прожил в Мекке семнадцать дней и всё это время сокращал молитву, и тот, кто пробыл в каком-то месте семнадцать дней, сокращает молитву, а тот, кто остаётся где-либо на более долгий срок, должен совершать молитвы полностью.Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ провёл в Мекке девятнадцать дней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1080)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1230</td></tr><tr><td>Arabic No</td><td>1230</td></tr><tr><td>Reference</td><td>Book 4 Hadith 33</td></tr></tbody></table></div>
 

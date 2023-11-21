@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "Commit yourself to the Qur'an, for by
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] Telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Peliharalah selalu Al Qur'an, demi Dzat yang jiwaku berada di Tangan-Nya, sungguh ia cepat hilang daripada Unta yang terikat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5033</td></tr><tr><td>Arabic No</td><td>5033</td></tr><tr><td>Reference</td><td>Book 66 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Читайте Коран постоянно, ибо, клянусь Тем, в Чьей длани душа моя, поистине, избавляется он быстрее, чем верблюды избавляются от своих пут»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5033</td></tr><tr><td>Arabic No</td><td>5033</td></tr><tr><td>Reference</td><td>Book 66 Hadith 56</td></tr></tbody></table></div>
 

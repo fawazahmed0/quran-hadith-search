@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin 'Amir:One day the Prophet (ﷺ) went out and offered the fune
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] telah menceritakan kepada saya [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] bahwa Nabi Shallallahu'alaihiwasallam pada suatu hari keluar untuk menyolatkan syuhada' perang Uhud sebagaimana shalat untuk mayit. Kemudian Beliau pergi menuju mimbar lalu bersabda: "Sungguh aku ini yang terdepan dari kalian dan aku menjadi saksi atas kalian. Dan aku, demi Allah, sekarang sedang melihat telagaku (yang di surga) dan aku telah diberikan kunci-kunci kekayaan bumi atau kunci-kinci bumi (dunia). Demi Allah, sungguh aku tidak khawatir kepada kalian bahwa kalian akan menyekutukan (Allah) kembali sepeninggal aku. Namun yang aku khawatirkan terhadap kalian adalah kalian akan memperebutkan (kekayaan) duniawi ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1344</td></tr><tr><td>Arabic No</td><td>1344</td></tr><tr><td>Reference</td><td>Book 23 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Укбы бин ‘Амира, да будет доволен им Аллах, что однажды Пророк ﷺ совершил заупокойную молитву по павшим при Ухуде, после чего поднялся на минбар и сказал: «Поистине, я опережу вас и буду свидетельствовать о вас, и, поистине, клянусь Аллахом, сейчас я вижу свой водоём, и, поистине, были дарованы мне ключи от сокровищниц земли (или: ключи земли), и, поистине, клянусь Аллахом, я не боюсь того, что после моей смерти вы станете многобожниками, но боюсь, что будете вы соперничать друг с другом (из-за мирских благ)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1344</td></tr><tr><td>Arabic No</td><td>1344</td></tr><tr><td>Reference</td><td>Book 23 Hadith 99</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:We think that the Verse: 'Among the Believers are men who have bee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] Telah menceritakan kepada kami [Muhammad bin Abdullah Al Anshari] dia berkata; Telah menceritakan kepadaku [Bapakku] dari [Tsumamah] dari [Anas bin Malik radliallahu 'anhu] dia berkata; "Kami melihat ayat ini turun berkenaan dengan Anas bin An Nadlr, yaitu ayat: Di antara orang-orang mukmin itu terdapat orang-orang yang menepati apa yang telah mereka janjikan kepada Allah, (Al Ahzab:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 65 Hadith 305</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Мы считали (или: думали), что этот аят “Среди верующих есть люди, которые верны тому, что они обещали Аллаху…” был ниспослан об Анасе ибн ан-Надре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 65 Hadith 305</td></tr></tbody></table></div>
 

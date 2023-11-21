@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (way peace be upon him) said: Prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Abdullah] dan [Muhammad bin Hatim], keduanya berkata; telah menceritakan kepada kami [Hajjaj bin Muhammad], katanya; [Ibnu Juraij] berkata; telah mengabarkan kepadaku [Umar bin Atha' bin Abu Al Khuwar], bahwa ketika ia duduk bersama Nafi' bin Jubair bin Muth'im, tiba-tiba [Abu Abdullah] yaitu suami saudara perempuan Zaid bin Zabban, mantan budak orang-orang Bani Juhainah. Lalu Nafi' memanggilnya dan berkata; "Aku mendengar [Abu Hurairah] mengatakan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat bersama Imam lebih utama dua puluh lima kali dibandingkan shalat yang dilakukan secara sendirian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1476</td></tr><tr><td>Arabic No</td><td>649.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 309</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Молитва совершённая вместе с имамом лучше двадцати пяти молитв, совершённых в одиночестве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1476</td></tr><tr><td>Arabic No</td><td>649.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 309</td></tr></tbody></table></div>
 

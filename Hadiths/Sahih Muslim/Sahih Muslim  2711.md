@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée) : L'Envoyé de Dieu (paix et
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Rumh bin Muhajir] telah mengabarkan kepadaku [Laits] dari [Ibnul Hadi] dari [Suhail bin Abu Shalih] dari [Nu'man bin Abu Abbas] dari [Abu Sa'id Al Khudri] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang hamba berpuasa sehari di jalan Allah, kecuali Allah akan menjauhkan wajahnya dari api neraka sejauh tujuh puluh ribu musim." Dan Telah menceritakannya kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz] yakni Ad Darawardi, dari [Suhail] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2711</td></tr><tr><td>Arabic No</td><td>1153.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2711</td></tr><tr><td>Arabic No</td><td>1153.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 217</td></tr></tbody></table></div>
 

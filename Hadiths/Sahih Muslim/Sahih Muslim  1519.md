@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported:There were some plots vacant around the mosque. Banu 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdusshamad bin Abdul Warits] katanya; aku mendengar [Ayahku] menceritakan, katanya; telah menceritakan kepadaku [Al Jurairi] dari [Abu Nadlrah] dari [Jabir bin Abdullah] katanya; "Di sekitar masjid ada beberapa bidang tanah yang masih kosong, maka Bani Salamah berinisiatif untuk pindah dekat masjid. Ketika berita ini sampai ke telinga Rasulullah shallallahu 'alaihi wasallam, beliau bersabda; "Rupanya telah sampai berita kepadaku bahwa kalian ingin pindah dekat masjid." Mereka menjawab; "Benar wahai Rasulullah, kami memang ingin seperti itu." Beliau lalu bersabda: "Wahai Bani Salamah, pertahankanlah rumah kalian, sebab langkah kalian akan dicatat, pertahankanlah rumah kalian, sebab langkah kalian akan dicatat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1519</td></tr><tr><td>Arabic No</td><td>665.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 352</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «(В своё время,) когда освободилось место вокруг мечети, люди из племени бану салима захотели перебраться (на жительство) поближе к мечети. Когда известие об этом дошло до Посланника Аллаха ﷺ, он сказал им: “Дошло до меня, что вы хотите перебраться поближе к мечети”. Они сказали: “Да, о Посланник Аллаха, мы хотели сделать это”. Тогда он сказал: “О бану салима, (оставайтесь) в своих домах, ибо следы ваши записываются, (оставайтесь) в своих домах, ибо следы ваши записываются!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1519</td></tr><tr><td>Arabic No</td><td>665.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 352</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Kuraib reported that he asked Usama b. Zaid (Allah be pleased with him) What did
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Yahya bin Adam] Telah menceritakan kepada kami [Zuhair Abu Khaitsamah] Telah menceritakan kepada kami [Ibrahim bin Uqbah] telah mengabarkan kepadaku [Kuraib] bahwa ia pernah bertanya kepada [Usamah bin Zaid], "Apa yang kalian perbuat saat membonceng di belakang Rasulullah shallallahu 'alaihi wasallam saat sore hari di Arafah?" Maka Usamah pun menjawab, "Ketika kami sampai di suatu bukit tempat orang-orang menambatkan kendaraannya di situ untuk shalat Maghrib, Rasulullah shallallahu 'alaihi wasallam juga ikut manambatkan Untanya. Lalu beliau kencing -dan perawi tidak menyebutkan; Ahraqal Maa' (menuangkan air) - dan setelah itu meminta air, kemudian beliau pun berwudlu dengan tidak sempurna. Aku pun bertanya, "Wahai Rasulullah, apakah Anda akan shalat?" beliau menjawab: "Nanti di persinggahan berikutnya." Kemudian beliau melanjutkan perjalanan hingga sampai di Muzdalifah. Maka iqamah shalat Maghrib dikumandangkan dan orang-orang pun menambatkan kendaraannya di persinggahan mereka tanpa menurunkan perbekalan yang mereka bawa hingga iqamah shalat Isya dikumandangkan. Setelah itu, barulah mereka menurunkan perbekalan. Kuraib berkata; Aku bertanya lagi, "Apa yang kalian lakukan di pagi hari?" Ia menjawab, "Fadl bin Abbas gantian membonceng di belakang beliau, sementara aku berangkat berjalan bersama orang-orang Quraisy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3102</td></tr><tr><td>Arabic No</td><td>1280.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 307</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3102</td></tr><tr><td>Arabic No</td><td>1280.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 307</td></tr></tbody></table></div>
 

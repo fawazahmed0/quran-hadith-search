@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by Anas through a differ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahim bin Mutharrif Ar Ruwasi] berkata, telah menceritakan kepada kami [Isa] dari [Sa'id] dari [Qatadah] dari [Anas bin Malik] ia berkata, "Rasulullah shallallahu 'alaihi wasallam ingin menulis surat untuk orang-orang di luar arab, lalu dikatakan kepada beliau, "Sesungguhnya mereka tidak mau membaca surat tanpa ada setempelnya." Rasulullah kemudian membuat cincin dari perak dan memberi ukiran Muhammad Rasulullah." Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Khalid] dari [Sa'id] dari [Qatadah] dari [Anas] sebagaimana makna hadits Isa bin Yunus. Namun ia menambahkan, "cincin itu tetap berada dijarinya hingga meninggal, lalu pindah ke Abu Bakar hingga meninggal, lalu pindah ke Umar hingga meninggal, lalu pindah ke tangan Utsman. Dan ketika Utsman sedang berada di dekat sumur, cincin itu jatuh. Utsman memerintahkan untuk mencarinya namun tidak ketemu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4215</td></tr><tr><td>Arabic No</td><td>4215</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса (ибн Малика), да будет доволен им Аллах, что (упомянутый в предыдущем хадисе) перстень был на руке Посланника Аллаха ﷺ до самой его кончины, потом его носил Абу Бакр до самой своей кончины, потом его носил ‘Умар до самой своей кончины, а потом его носил ‘Усман и однажды этот перстень упал с его руки в колодец. Он велел достать его, и колодец вычерпали, но его так и не нашли
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4215</td></tr><tr><td>Arabic No</td><td>4215</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported that Allah's Messenger (ﷺ) came
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] dan [Abu Usamah] dan [Ubaidullah] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] ia berkata; "Rasulullah shallallahu 'alaihi wasallam biasanya mendatangi Masjid Quba dengan berkendaraan dan berjalan kaki. Kemudian beliau shalat di situ dua raka'at." Abu Bakr berkata dalam riwayatnya; Ibnu Numair berkata; Lalu beliau shalat dua raka'at di dalamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3390</td></tr><tr><td>Arabic No</td><td>1399.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 594</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3390</td></tr><tr><td>Arabic No</td><td>1399.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 594</td></tr></tbody></table></div>
 

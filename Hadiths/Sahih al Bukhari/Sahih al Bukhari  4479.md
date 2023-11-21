@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "It was said to the children of Isr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] Telah menceritakan kepada kami ['Abdur Rahman bin Mahdi] dari [Ibnu Al Mubarak] dari [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Dikatakan kepada Bani Israil: 'Masuklah kalian pintu itu dengan keadaan sujud dan Katakanlah: 'Hitthah' (ampunilah dosa-dosa) niscaya Dia mengampuni kesalahan-kesalahan kalian. Lalu mereka memasuki pintu itu dan mengganti apa yang telah diperintahkan kepada mereka seraya merangkak di atas pantat-pantat mereka dan mereka berkata: 'Hiththah adalah Habbah (biji) dalam tepung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4479</td></tr><tr><td>Arabic No</td><td>4479</td></tr><tr><td>Reference</td><td>Book 65 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал:\n— Израильтянам было сказано: «И входите через врата, склонившись, и говорите: “Прости! /Хиттатун!/”», однако они вошли ползком на своих ягодицах, и заменили, и стали говорить: «“Хыттатун” — это зерно (пшеницы) /хынтатун/ в колосе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4479</td></tr><tr><td>Arabic No</td><td>4479</td></tr><tr><td>Reference</td><td>Book 65 Hadith 6</td></tr></tbody></table></div>
 

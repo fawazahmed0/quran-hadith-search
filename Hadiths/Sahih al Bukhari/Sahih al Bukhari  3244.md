@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah said, "I have prepared
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah berfirman: "Aku telah menyediakan buat hamba-hamba-Ku yang shalih (kenikmatan) yang belum pernah mata melihatnya, telinga mendengarnya dan terbetik dari lubuk hati manusia". Bacalah firman-Nya jika kamu mau (QS as-Sajadah 17) yang artinya ("Tidak seorangpun yang mengetahui apa yang telah disediakan untuk mereka (kenikmatan) yang menyedapkan mata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3244</td></tr><tr><td>Arabic No</td><td>3244</td></tr><tr><td>Reference</td><td>Book 59 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллах ﷺ сказал: «Аллах сказал: “Я приготовил для Моих праведных рабов то, чего не видели глаза, чего не слышали уши и чего даже не представляло себе сердце человека”». \nПосле этого Абу Хурайра сказал: «Читайте, если хотите: “Ни один человек не знает, какие услады для глаз сокрыты для них в воздаяние за то, что они совершали” (сура “ас-Саджда”, аят 17)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3244</td></tr><tr><td>Arabic No</td><td>3244</td></tr><tr><td>Reference</td><td>Book 59 Hadith 55</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Jundab through another chain o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Abdullah bin Yunus] Telah menceritakan kepada kami [Zaidah] Telah menceritakan kepada kami [Abdul Malik bin Umair] dia berkata; 'Aku mendengar [Jundab] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku mendahului kalian ke telaga." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Waki'] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib] Telah menceritakan kepada kami [Ibnu Basyar] seluruhnya dari [Mis'ar] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz] Telah menceritakan kepada kami [Bapakku] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammd bin Al Mutsanna] Telah menceritakan kepada kami [Muhammad bin Ja'far] keduanya Telah menceritakan kepada kami [Syu'bah] keduanya dari [Abdul Malik bin 'Umair] dari [Jundab] dari Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5967</td></tr><tr><td>Arabic No</td><td>2289.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5967</td></tr><tr><td>Arabic No</td><td>2289.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 30</td></tr></tbody></table></div>
 

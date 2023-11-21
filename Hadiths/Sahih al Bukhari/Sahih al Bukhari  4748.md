@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:A man accused his wife of illegal sexual intercourse and deni
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muqaddam bin Muhammad bin Yahya] Telah menceritakan kepada kami pamanku [Al Qasim bin Yahya] dari ['Ubaidullah] -dia telah mendengar darinya- dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa pada masa Rasulullah shallallahu 'alaihi wasallam, ada seorang lelaki meli'an (menuduh) isterinya dan tidak mengakui janin yang yang dikandungnya adalah anaknya. Maka Rasulullah menyuruh keduanya menghadap namun keduanya malah saling menuduh. Sebagaimana firman Allah, Rasulullah memutuskan anaknya milik sang istri dan memisahkan keduanya, (suami dan istri)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4748</td></tr><tr><td>Arabic No</td><td>4748</td></tr><tr><td>Reference</td><td>Book 65 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что при жизни Посланника Аллаха ﷺ один человек обвинил жену в прелюбодеянии и отрицал то, что ребёнок от него. Посланник Аллаха ﷺ приказал им обменяться проклятиями /ли‘ан/, как это приказал Аллах, затем он вынес решение о том, что происхождение ребёнка относится только к его матери и разлучил женщину с мужчиной
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4748</td></tr><tr><td>Arabic No</td><td>4748</td></tr><tr><td>Reference</td><td>Book 65 Hadith 270</td></tr></tbody></table></div>
 

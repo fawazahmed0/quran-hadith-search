@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), l'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalaf bin Hisyam] dan [Abu Ar Rabi'] seluruhnya dari [Hammad bin Zaid] dan lafazh ini milik Abu Ar Rabi'; Telah menceritakan kepada kami [Hammad]; Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Hai Aisyah, dulu kamu diperlihatkan kepadaku selama tiga malam dalam mimpiku. Seorang malaikat datang membawamu kepadaku dengan beragam sutera." Malaikat itu berkata, "Hai Muhammad, inilah isterimu!" Kemudian aku buka cadar wajahmu dan ternyata ia itu adalah Kamu. Maka aku katakan, 'Jika mimpi ini berasal dan Allah, niscaya Dia akan merealisasikannya." Telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Ibnu Idris]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Usamah] seluruhnya dari [Hisyam] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6283</td></tr><tr><td>Arabic No</td><td>2438.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ сказал (ей): “Я видел тебя во сне три ночи. Ангел приносил тебя ко мне в куске хорошего шёлка и говорил: “Это твоя жена”. Я открывал твоё лицо, (видел) тебя и говорил: “Если это от Аллаха, пусть завершит это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6283</td></tr><tr><td>Arabic No</td><td>2438.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 113</td></tr></tbody></table></div>
 

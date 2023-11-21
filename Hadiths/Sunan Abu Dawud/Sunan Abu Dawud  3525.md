@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated ash-Sha'bi: The Prophet (ﷺ) said: If anyone leaves an animal at a pla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid] dari [Hammad bin Zaid] dari [Khalid Al Hadzdza'] dari ['Ubaidullah bin Humaid bin Abdurrahman] dari [Asy Sya'bi] dan ia memarfu'kan hadits tersebut kepada Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Barangsiapa meninggalkan hewan kendaraan dalam kondisi kritis, kemudian seseorang merawat hewan tersebut, maka hewan itu adalah milik orang yang telah merawatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3525</td></tr><tr><td>Arabic No</td><td>3525</td></tr><tr><td>Reference</td><td>Book 24 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аш-Ша‘би передаёт, что Пророк ﷺ сказал: «Если человек бросил своё животное на погибель, а другой подобрал его и выходил, выходивший его становится его владельцем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3525</td></tr><tr><td>Arabic No</td><td>3525</td></tr><tr><td>Reference</td><td>Book 24 Hadith 110</td></tr></tbody></table></div>
 

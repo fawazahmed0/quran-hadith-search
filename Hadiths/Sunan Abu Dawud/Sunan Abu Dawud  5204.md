@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Asma', daughter of Yazid, said :the Prophet (ﷺ), passed us by when we were wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ibnu Abu Husain] ia mendengarnya dari [Syahr bin Hausyab] berkata, " [Asma binti Yazid] mengabarkan kepadanya, "Nabi shallallahu 'alaihi wasallam melewati kami (kaum wanita) lalu mengucapkan salam kepada kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 43 Hadith 432</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Йазид, да будет доволен ею Аллах, сказала: (Однажды) Пророк ﷺ проходивший мимо нас, находившихся среди (других) женщин, приветствовал нас
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 43 Hadith 432</td></tr></tbody></table></div>
 

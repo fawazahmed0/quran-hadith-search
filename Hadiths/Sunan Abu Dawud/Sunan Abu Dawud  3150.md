@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: When one of you dies, and h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ash Shabah Al Bazzaz], telah menceritakan kepada kami [Isma'il bin Abdul Karim], telah menceritakan kepadaku [Ibrahim bin 'Aqil bin Ma'qil] dari [ayahnya] dari [Wahb bin Munabbih] dari [Jabir] ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang diantara kalian meninggal dalam keadaan mempunyai sesuatu (harta) maka hendaknya ia dikafani dengan hibarah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3150</td></tr><tr><td>Arabic No</td><td>3150</td></tr><tr><td>Reference</td><td>Book 21 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир, да будет доволен Аллах им и его отцом, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: “Если любой из вас умрёт, пусть его по возможности завернут в полотняную одежду”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3150</td></tr><tr><td>Arabic No</td><td>3150</td></tr><tr><td>Reference</td><td>Book 21 Hadith 62</td></tr></tbody></table></div>
 

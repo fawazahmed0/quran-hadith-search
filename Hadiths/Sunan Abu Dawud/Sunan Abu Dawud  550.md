@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. Mas’ud said:Persevere in observing these five times of prayer whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin 'Abbad Al-Azdi] telah menceritakan kepada kami [Waki'] dari [Al-Mas'udi] dari [Ali bin Al-Aqmar] dari [Abu Al-Ahwash] dari [Abdullah bin Mas'ud] dia berkata; Peliharalah dengan baik lima shalat ini ketika dikumandangkan adzan, karena sesungguhnya lima shalat jamaah itu termasuk di antara sunnah (jalan) hidayah dan sesungguhnya Allah telah mensyari'atkan jalan jalan petunjuk kepada NabiNya shallallahu 'alaihi wasallam, dan sungguh kami menganggap, bahwa tidak seorang pun yang meninggalkan shalat berjamaah, kecuali orang munafik yang jelas kemunafikannya. Seingatku, dahulu seseorang (diantara kami) biasa dituntun (dipapah) antara dua orang di kanan kirinya, sampai dia diberdirikan di shaf shalat. Tidak ada seorang pun di antara kalian, kecuali mempunyai masjid (tempat shalat) di dalam rumahnya. Seandainya kalian mengerjakan shalat di rumah kalian dan meninggalkan masjid masjid kalian, berarti kalian telah meninggalkan sunah sunah Nabi kalian shallallahu 'alaihi wasallam, dan jika kalian telah meninggalkan sunnah Nabi kalian, niscaya kalian telah kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (654)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>550</td></tr><tr><td>Arabic No</td><td>550</td></tr><tr><td>Reference</td><td>Book 2 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд сказал: «Соблюдайте эти пять молитв там, где к ним призывают, ибо, поистине, они относятся к обычаям /сунан/ прямого пути. И, поистине, Аллах узаконил для своего Пророка ﷺ обычаи прямого пути. Никто из нас не пропускал (коллективную молитву), кроме лицемера известного своим лицемерием. И, поистине, бывало так, что человека, поддерживаемого двумя другими мужчинами, приводили на молитву, пока не ставили его в ряд. Нет среди вас ни одного, у которого нет у себя дома места поклонения. И если вы будете молиться в своих домах и оставите мечети, то вы (этим самым) оставите Сунну вашего Пророка ﷺ, а если вы оставите сунну вашего Пророка ﷺ то вы непременно впадёте в неверие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (654)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>550</td></tr><tr><td>Arabic No</td><td>550</td></tr><tr><td>Reference</td><td>Book 2 Hadith 160</td></tr></tbody></table></div>
 

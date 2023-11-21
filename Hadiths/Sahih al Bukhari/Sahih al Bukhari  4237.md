@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Anbasa bin Sa'id:Abu Huraira came to the Prophet (ﷺ) and asked him (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>4237</td></tr><tr><td>Reference</td><td>Book 64 Hadith 275</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ’Анбасы ибн Са’ида, что, когда Абу Хурайра, да будет доволен им Аллах, пришёл к Пророку ﷺ и попросил его дать ему долю земли (из военной добычи Хайбара), один человек из бану Са’д ибн аль-’Ас сказал: «Не давай ему». Абу Хурайра сказал: «Это же убийца Ибн Каукаля!» (На это тот человек из бану Са‘да бин аль-‘Аса) сказал: «Удивительно, что этот даман (маленький зверёк, указывая на его низкое положение), прибывший к нам из окрестностей Дана (название горы, откуда родом Абу Хурайра) (говорит мне об этом)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>4237</td></tr><tr><td>Reference</td><td>Book 64 Hadith 275</td></tr></tbody></table></div>
 

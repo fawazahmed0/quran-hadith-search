@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon 'Omar Ibn Al-Khattâb (que Dieu l'agrée) : Quand l'Envoyé de Dieu (paix 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] telah menceritakan kepada kami [Abdullah bin Wahb] -dalam jalur lain- Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Salim bin Abdullah bin Umar] dari [bapaknya] ia berkata; saya mendengar [Umar bin Al Khaththab] berkata; Rasulullah shallallahu 'alaihi wasallam pernah memberikan (bagian zakat) kepadaku, namun aku berkata, "Berikanlah kepada orang yang lebih fakir dariku." Hingga suatu hari beliau memberikan harta kepadaku, maka aku pun berkata, "Berikanlah kepada orang yang lebih fakir dariku." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Ambillah. Dan bila kamu diberikan sesuatu sedangkan kamu tidak mengidam-idamkannya dan tidak pula meminta-minta, maka ambillah. Dan jika tidak demikian maka janganlah kamu memperturutkan hawa nafsumu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2405</td></tr><tr><td>Arabic No</td><td>1045.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ часто делал мне подарки, а я говорил: “Отдай это тем, кто нуждается в этом больше меня”, и так продолжалось до тех пор, пока однажды он не дал мне имущество, и я сказал: “Отдай это тем, кто нуждается в этом больше меня”. И тогда Посланник Аллаха ﷺ сказал: “Возьми это, и чтобы тебе не доставалось из этого имущества не по твоему собственному желанию и ты (ни о чём) не просишь, бери это, а что тебе не достанется, то не стремись к этому!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2405</td></tr><tr><td>Arabic No</td><td>1045.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 142</td></tr></tbody></table></div>
 

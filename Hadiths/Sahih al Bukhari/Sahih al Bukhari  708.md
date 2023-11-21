@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I never prayed behind any Imam a prayer lighter and more
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] berkata, telah menceritakan kepada kami [Sulaiman bin Bilal] berkata, telah menceritakan kepada kami [Syarik bin 'Abdullah] berkata, "Aku mendengar [Anas bin Malik] berkata, "Belum pernah aku shalat di belakang seorang Imam pun yang lebih ringan dan lebih sempurna shalatnya daripada Nabi shallallahu 'alaihi wasallam. Jika mendengar tangisan bayi, maka beliau ringankan shalatnya karena khawatir ibunya akan terkena fitnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>708</td></tr><tr><td>Arabic No</td><td>708</td></tr><tr><td>Reference</td><td>Book 10 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся, как Анас ибн Малик, да будет доволен им Аллах, говорил: «Я никогда не совершал ни за одним имамом столь лёгкой, но в то же время полноценной молитвы, как за Пророком ﷺ. Если же он слышал плач ребёнка, то облегчал её, опасаясь подвергнуть искушению его мать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>708</td></tr><tr><td>Arabic No</td><td>708</td></tr><tr><td>Reference</td><td>Book 10 Hadith 103</td></tr></tbody></table></div>
 

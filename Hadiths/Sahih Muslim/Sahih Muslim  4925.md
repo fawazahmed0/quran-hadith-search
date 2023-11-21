@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of 'Abdullah b. 'Amr that the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Abdullah bin Yazid Abu Abdurrahman] telah menceritakan kepada kami [Haiwah bin Syuraih] dari [Abu Hani'] dari [Abu Abdurrahman Al Hubuli] dari [Abdullah bin 'Amru] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang berperang di jalan Allah kemudian ia mengambil bagiannya dari harta ghanimah, melainkan sepertiga pahalanya telah terkurangi di akhirat kelak, namun jika dia tidak mengambil harta ghanimah tersebut, maka pahalanya menjadi sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4925</td></tr><tr><td>Arabic No</td><td>1906.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4925</td></tr><tr><td>Arabic No</td><td>1906.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 220</td></tr></tbody></table></div>
 

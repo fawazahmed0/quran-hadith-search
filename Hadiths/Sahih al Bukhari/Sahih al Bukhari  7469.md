@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Prophet Solomon who had sixty wives, once said, "To
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] Telah menceritakan kepada kami [Wuhaib] dari [Ayyub] dari [Muhammad] dari [Abu Hurairah], bahwa Nabiyullah Sulaiman 'alaihimassalam mempunyai enam puluh isteri dan berkata, "Sungguh, malam ini aku akan menggilir isteri-isteriku sehingga masing-masing isteriku hamil dan melahirkan seorang penunggang kuda yang berperang fi sabilillah.' Lantas Sulaiman menggilir isteri-isterinya, namun sama sekali tidak ada yang hamil selain satu orang isteri yang melahirkan separoh orang. Maka Nabi Shallallahu'alaihjiwasallam bersabda: "Kalaulah Sulaiman mengucapkan 'insya allah', niscaya setiap isterinya hamil dan melahirkan seorang anak yang berperang fi sabilillah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7469</td></tr><tr><td>Arabic No</td><td>7469</td></tr><tr><td>Reference</td><td>Book 97 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Абу Хурайра, да будет доволен им Аллах, сказал: «У Пророка Аллаха Сулеймана, мир ему, было шестьдесят жён, и он сказал: “Этой ночью я обязательно обойду всех своих жён, и каждая из жён забеременеет и родит всадника, который будет сражаться на пути Аллаха”. И он обошёл всех своих жён, и ни одна из них не родила, за исключением одной, которая родила половину мальчика». Пророк Аллаха ﷺ сказал: «Если бы Сулейман сделал оговорку (и сказал: “ин шаа-Ллах /Если пожелает Аллах/“), то забеременела бы каждая из них и родила всадника, который бы сражался на пути Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7469</td></tr><tr><td>Arabic No</td><td>7469</td></tr><tr><td>Reference</td><td>Book 97 Hadith 95</td></tr></tbody></table></div>
 

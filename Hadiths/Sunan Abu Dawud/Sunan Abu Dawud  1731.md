@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Ibn Abbas recited this verse: 'It is no sin for you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Yusuf bin Musa] telah menceritakan kepada Kami [Jarir] dari [Yazid bin Abu Ziyad] dari [Mujahid] dari [Abdullah bin Abbas], ia membaca ayat "Tidak ada dosa bagimu untuk mencari karunia (rezki hasil perniagaan) dari Tuhanmu." Ia berkata; dahulu mereka tidak mengadakan perdagangan di Mina, setelah ayat ini turun mereka diperintahkan untuk mengadakan perdagangan setelah mereka selesai dari arafat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1731</td></tr><tr><td>Arabic No</td><td>1731</td></tr><tr><td>Reference</td><td>Book 11 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал, прочитав этот аят «На вас нет греха, если вы ищете добавление от своего Господа» (сура «аль-Бакара», аят 198): «Они не торговали в Мине, и им было велено торговать после того, как они покинут ‘Арафат»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1731</td></tr><tr><td>Arabic No</td><td>1731</td></tr><tr><td>Reference</td><td>Book 11 Hadith 11</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "I saw Moses, Jesus and Abraham (on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Isra'il] telah mengabarkan kepada kami ['Utsman bin Al Mughirah] dari [Mujahid] dari [Ibnu 'Umar radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "(Saat aku diisra'kan), Aku melihat 'Isa dan Musa serta Ibrahim 'alahimis salam. Adapun 'Isa, dia adalah laki-laki yang kulitnya kemerahan, tegap dan dadanya bidang sedangkan Musa adalah orang yang kurus (tinggi) seperti kebanyakan laki-laki dari Sudan (Afrika)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>3438</td></tr><tr><td>Reference</td><td>Book 60 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Я видел ‘Ису, и Мусу, и Ибрахима. ‘Исa был румян и имел курчавые волосы и широкую грудь, что же касается Мусы, то он был смуглым и дородным и имел прямые волосы, напоминая собой кого-либо из цыган»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>3438</td></tr><tr><td>Reference</td><td>Book 60 Hadith 109</td></tr></tbody></table></div>
 

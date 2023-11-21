@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:While we were on one of our journeys, we dismounted
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mtsanna] Telah menceritakan kepada kami [Wahb] Telah menceritakan kepada kami [Hisyam] dari [Muhammad] dari [Ma'bad] dari [Abu Sa'id Al Khudri] ia berkata; Dalam perjalanan yang kami lakukan, kami singgah di suatu tempat, lalu datanglah seorang wanita dan berkata, "Sesungguhnya ada seorang kepala kampung sakit, sementara orang-orang kami sedang tiada. Apakah salah seorang dari kalian ada yang bisa meruqyah?" Maka berdirilah seorang laki-laki yang kami sendiri tidak tahu bahwa ia bisa meruqyah. Ia beranjak bersama wanita itu, lalu meruqyah, dan ternyata yang diruqyah sembuh. Kemudian sang kepala kampung memerintahkan agar laki-laki itu diberi tiga puluh ekor kambing, dan kami pun diberinya minuman susu. Setelah pulang, kami bertanya padanya, "Apakah kamu memang seorang yang pandai meruqyah?" Ia menjawab, "Tidak, dan tidaklah aku meruqyahnya, kecuali dengan Ummul Kitab." Kami katakan, "Janganlah kalian berbuat apa-apa, hingga kita sampai kepada Nabi shallallahu 'alaihi wasallam dan bertanya pada beliau." Ketika kami sampai di Madinah, kami pun menuturkan hal itu pada Nabi shallallahu 'alaihi wasallam, dan beliau bersabda: "Lalu siapa yang memberitahukannya, bahwa itu adalah ruqyah. Bagikanlah kambing itu, dan aku juga diberi bagian." [Abu Ma'mar] berkata; Telah menceritakan kepada kami [Abdul Warits] Telah menceritakan kepada kami [Hisyam] Telah menceritakan kepada kami [Muhammad bin Sirin] Telah menceritakan kepadaku [Ma'bad bin Sirin] dari [Sa'id Al Khudri] dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5007</td></tr><tr><td>Arabic No</td><td>5007</td></tr><tr><td>Reference</td><td>Book 66 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри: «Когда мы были в одном из наших путешествий, мы спешились в месте, где подошла рабыня и сказала: “Вождя этого племени ужалил скорпион, и наших мужчин нет среди вас, кто мог бы вылечить его (прочитав что-нибудь)?” Затем один из наших людей пошёл вместе с ней, хотя мы не думали, что он знал о таком обращении. Но он вылечил вождя, прочитав что-то, и больной выздоровел, после чего он дал ему тридцать овец и напоил нас молоком (в награду). Когда он вернулся, мы спросили нашего друга: “Ты знаешь, как лечить с чтением чего-нибудь?” Он сказал: “Нет, но я вылечил его только чтением Матери Книги (т.е. суры “аль-Фатиха”)”. Мы сказали: “Ничего не говори (об этом), пока мы не достигнем или не спросим Посланника Аллаха ﷺ, поэтому, когда мы достигли Медины, мы упомянули об этом ⁠Посланнику Аллаха ﷺ (чтобы узнать, законно ли было брать овец, которых мы взяли, или нет). Посланник Аллаха ﷺ сказал: “Как он узнал, что её (т.е. суру “аль-Фатиха”) можно использовать для лечения? Распредели свою награду и выдели мне также из этого долю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5007</td></tr><tr><td>Arabic No</td><td>5007</td></tr><tr><td>Reference</td><td>Book 66 Hadith 29</td></tr></tbody></table></div>
 

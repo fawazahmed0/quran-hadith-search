@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Usaid reported that the Messenger of Allah (ﷺ) said:When any one of you en
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Sulaiman bin Bilal] dari [Rabi'ah bin Abdurrahman] dari [Abdul Malik bin Sa'id] dari [Abu Humaid] atau dari [Abu Usaid] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "jika salah seorang diantara kalin masuk masjid, bacalah doa ALLAAHUMMAFTAH LII ABWAABA RAHMATIKA (Ya Allah, bukalah pintu-pintu rahmat-Mu)." Dan apabila keluar, hendaknya ia membaca doa ALLAAHUMMA INNII AS'ALUKA MIN FADHLIKA (Ya Allah, aku meminta kurnia-Mu)." Muslim berkata; Aku mendengar [Yahya bin Yahya] mengatakan; "Aku menulis hadis ini dari kitab Sulaiman bin Bilal, katanya; telah sampai berita kepadaku bahwa [Yahya Al Himmani] mengatakan; dan [Abu Usaid], telah menceritakan kepada kami [Hamid bin Umar Al Bakrawi] telah menceritakan kepada kami [Bisyr bin Al Mufadlal] telah menceritakan kepada kami ['Umarah bin Ghaziyyah] dari [Rabi'ah bin Abdurrahman] dari [Abdul Malik bin Sa'id bin Suwaid Al Anshari] dari [Abu Humaid] atau [Abu Usaid] dari Nabi shallallahu 'alaihi wasallam seperti hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>713.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хумайда (или: Абу Усайда), что Посланник Аллаха ﷺ сказал: «Когда кто-либо из вас будет входить в мечеть, пусть скажет: “О Аллах, открой для меня врата Твоего милосердия” /Аллахумма, ифтах ли абваба рахмати-кя/, когда же он будет выходить (из мечети), пусть скажет: “О Аллах, поистине, я прошу Тебя о милости Твоей” /Аллахумма, инни ас-ъалю-кя мин фадли-кя/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>713.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 82</td></tr></tbody></table></div>
 

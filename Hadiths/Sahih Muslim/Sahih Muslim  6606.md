@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Burza al-Aslami reported that a slave-girl was riding a dromedary and there 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Al Jahdari Fudhail bin Husain]; Telah menceritakan kepada kami [Yazid] yaitu Ibnu Zurai'; Telah menceritakan kepada kami [At Taimi] dari [Abu 'Utsman] dari [Abu Barzah Al Aslami] dia berkata; Pada suatu ketika seorang budak wanita sedang mengendarai unta dengan membawa perbekalan kaumnya. Lalu wanita tersebut melewati pegunungan yang sempit, hingga tatkala ia melihat Nabi shallallahu 'alaihi wasallam, ia berkata; Hus, Hus, Ya Allah terkutuklah unta ini! Maka Nabi shallallahu 'alaihi wasallam bersabda: "Kita tidak boleh menyertai unta yang terkutuk.' Telah menceritakan kepada kami [Muhammad bin 'Abdul A'laa]; Telah menceritakan kepada kami [Al Mu'tamir]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku ['Ubaidullah bin Sa'id]; Telah menceritakan kepada kami [Yahya] yaitu Ibnu Sa'id seluruhnya dari [Sulaiman At Taimi] melalui jalur ini. Di dalam Hadits Al Mu'tamir ada tambahan kalimat; 'Demi Allah, janganlah kita menyertai hewan kendaraan yang telah dikutuk oleh Allah, -atau sebagaimana yang beliau sabdakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6606</td></tr><tr><td>Arabic No</td><td>2596.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6606</td></tr><tr><td>Arabic No</td><td>2596.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 104</td></tr></tbody></table></div>
 

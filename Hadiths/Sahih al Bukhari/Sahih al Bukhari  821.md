@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit:Anas said, "I will leave no stone unturned in making you offer t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas bin Malik] berkata, "Aku tidak akan segan-segan untuk mencontohkan kepada kalian cara shalat sebagaimana aku melihat Nabi shallallahu 'alaihi wasallam melakanakan shalat bersama kami." Tsabit berkata, "Anas bin Malik mengerjakan sesuatu yang belum pernah aku melihat kalian mengerjakannya. Dia mengangkat kepala dari rukuk lalu berdiri (lama sekali) hingga ada seseorang berkata, 'Dia lupa', dan jika duduk di antara dua sujud dia berdiam lama hingga ada seseorang berkata, 'Dia lupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>821</td></tr><tr><td>Arabic No</td><td>821</td></tr><tr><td>Reference</td><td>Book 10 Hadith 215</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Анас, да будет доволен им Аллах, сказал (людям): «Поистине, я делаю всё возможное, чтобы проводить молитвы с вами именно так, как на моих глазах совершал молитвы с нами Пророк ﷺ».\nСабит, передавший этот хадис, сказал: «Анас всегда делал то, чего, как я вижу, не делаете вы: когда он поднимал голову после совершения поясного поклона, то стоял (так долго, что) некоторые думали, что он забыл (о земном поклоне), — и он (сидел) между двумя земными поклонами (так долго, что) некоторые думали, что он забыл (о втором поклоне)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>821</td></tr><tr><td>Arabic No</td><td>821</td></tr><tr><td>Reference</td><td>Book 10 Hadith 215</td></tr></tbody></table></div>
 

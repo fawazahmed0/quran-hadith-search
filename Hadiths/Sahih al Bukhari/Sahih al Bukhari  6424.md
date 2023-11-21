@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah says, 'I have nothing 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Ya'qub bin Abdurrahman] dari ['Amru] dari [Sa'id Al Maqburi] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah Ta'ala berfirman: 'Tidak ada balasan yang sesuai di sisi-Ku bagi hamba-Ku yang beriman, jika aku mencabut nyawa orang yang dicintainya di dunia, kemudian ia rela dan bersabar kecuali surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6424</td></tr><tr><td>Arabic No</td><td>6424</td></tr><tr><td>Reference</td><td>Book 81 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Аллах Всевышний говорит: “Не будет у Меня иного воздаяния, кроме Рая, для Моего верующего раба, если заберу Я того из людей, которого он любил, а он станет безропотно переносить утрату в надежде на награду”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6424</td></tr><tr><td>Arabic No</td><td>6424</td></tr><tr><td>Reference</td><td>Book 81 Hadith 13</td></tr></tbody></table></div>
 

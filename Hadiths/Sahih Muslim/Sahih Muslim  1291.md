@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said two rak'ahs of the noon p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1291</td></tr><tr><td>Arabic No</td><td>573.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что (однажды), совершая полуденную молитву /зухр/, Посланник Аллаха ﷺ совершил два рак‘ата, после чего произнёс слова таслима. После этого к нему подошёл человек из племени бану сулейм и сказал: «О Посланник Аллаха, молитва была сокращена или ты забыл?» Далее до конца хадиса
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1291</td></tr><tr><td>Arabic No</td><td>573.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 129</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah reported:Asma' entered upon the Messenger of Allah (ﷺ) and said: Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Muslim (332)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>314</td></tr><tr><td>Arabic No</td><td>314</td></tr><tr><td>Reference</td><td>Book 1 Hadith 314</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Однажды Асмаъ (бинт Шакаль) зашла к Посланнику Аллаха ﷺ и сказала: “О Посланник Аллаха, как мы должны купаться очищаясь после менструаций?” Он сказал: “(Она) возьмет (листья) сидра и воду и совершит омовение. Затем помоет голову массируя ее, чтобы вода достигла корней волос, затем нальёт на тело, после чего возьмет кусок хлопка (или шерсти) /фирса/ и очистится ею”. Она сказала: “О Посланник Аллаха, а как она должна очиститься ею?” ‘Аиша сказала: “И я поняла на что намекнул Посланник Аллаха ﷺ и сказала ей, чтобы она провела ею по следам крови”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Muslim (332)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>314</td></tr><tr><td>Arabic No</td><td>314</td></tr><tr><td>Reference</td><td>Book 1 Hadith 314</td></tr></tbody></table></div>
 

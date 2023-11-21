@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:I started abusing Hassan in front of 'Aisha. She said, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami ['Abdah] dari [Hisyam] dari [Bapaknya] ia berkata; Aku pernah datang untuk mencela Hassan di hadapan ['Aisyah], maka dia berkata; "Janganlah kamu mencelanya karena dia termasuk orang yang pernah melindungi Rasulullah shallallahu 'alaihi wasallam. 'Aisyah berkata; "Dia pernah meminta izin kepada Nabi shallallahu 'alaihi wasallam untuk mencela kaum Musyrikin, beliau bertanya; "Bagaimana dengan nasabku (keturunanku)?". Hassan berkata; "Aku akan mengeluarkan tuan dari mereka sebagaimana tercabutnya rambut dari adonan." Telah menceritakan kepada kami [Muhammad bin 'Uqbah] telah menceritakan kepada kami ['Utsman bin Farqad]; aku mendengar [Hisyam] dari [Bapaknya] ia berkata; "Aku pernah mencela Hassan, karena ia termasuk orang yang memiliki peran besar dalam menyebarkan berita bohong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4145</td></tr><tr><td>Arabic No</td><td>4145</td></tr><tr><td>Reference</td><td>Book 64 Hadith 189</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хишам сказал: «Как-то начал я ругать Хассана в присутствии ‘Аиши, на что она сказала: “Не ругай его, ибо он защищал Посланника Аллаха ﷺ”. Так же ‘Аиша, сказала, что однажды Хассан попросил Пророка ﷺ разрешить ему высмеивать многобожников. Пророк ﷺ сказал: “А как же мои родственники?”, на что Хассан ответил: “Я извлеку тебя из их числа подобно тому, как извлекают волосок из теста”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4145</td></tr><tr><td>Arabic No</td><td>4145</td></tr><tr><td>Reference</td><td>Book 64 Hadith 189</td></tr></tbody></table></div>
 

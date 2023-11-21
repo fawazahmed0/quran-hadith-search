@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated through other chains of transmitters on the author
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan [Suwaid bin Sa'id] dan [Ibnu Abu 'Umar] mereka berkata; Telah menceritakan kepada kami ['Abdul Wahhab Ats Tsaqafi] Dan telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Abu Hurairah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami ['Abdur Rahman bin Mahdi] dia berkata; Telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Ziyad] dari [Abu Hurairah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Syababah] telah menceritakan kepada kami [Warqa'] dari [Abu Az Zannad] dari [Al A'raj] dari [Abu Hurairah] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Yahya bin Habib]; Telah menceritakan kepada kami [Rauh bin 'Ubadah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] dan ['Abad bin Humaid] dari [Abu 'Ashim] seluruhnya dari [Ibnu Juraij] dari [Abu Az Zubair] dari [Jabir]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Salamah bin Syabib]; Telah menceritakan kepada kami [Al Hasan bin A'yan]; Telah menceritakan kepada kami [Ma'qil] dari [Abu Az Zubair] dari [Jabir] -seluruhnya- dia berkata; dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Semoga Allah menyelamatkan suku Aslam, dan semoga Allah mengampuni suku Ghifar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6432</td></tr><tr><td>Arabic No</td><td>2515</td></tr><tr><td>Reference</td><td>Book 44 Hadith 261</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6432</td></tr><tr><td>Arabic No</td><td>2515</td></tr><tr><td>Reference</td><td>Book 44 Hadith 261</td></tr></tbody></table></div>
 

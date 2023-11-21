@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [khalid]. (dalam jalur lain disebutkan) telah menceritakan kepada kami [Muhammad bin Qudamah bin A'yun] berkata, telah menceritakan kepada kami [Jarir] dari [Al Hasan bin Ubaidullah] dari [Ibrahim bin Suwaid] dari ['Abdurrahman bin Yazid] dari [Abdullah] bahwa Nabi shallallahu 'alaihi wasallam jika tiba waktu sore beliau membaca: "AMSAIANA WA AMSAL MULKU LILLAHI LAA ILAAHA ILLAALLAHU WADAHU LAA SYARIIKALAHU (Kami berada di waktu sore dan kerajaan hanya milik Allah, tidak ada Tuhan selain Allah semata; tidak ada sekutu bagi-Nya)." Dalam hadits [Jarir] ditambahkan; Zubaid berkata berkata; [Ibrahim bin Suwaid] menyebutkan, "LAA ILAAHA ILLAALLAHU WAHDAHU LAA SYARIIKALAH LAHUL MULKU WA LAHUL HAMDU WAHUWA 'ALA KULLI SYAI'IN QADIIR RABBI AS'ALUKA KHAIRA MAA FI HAADZILLAILATI WA KHAIRA MAA BA'DAHAA WA A'UUDZU BIKA MIN SYARRI MAA FI HAADZILLAILATI WA SYARRI MAA BA'DAHAA RABBI A'UUDZU BIKA MINAL KASALI WA MIN SUU'IL KIBARI -Al KUFRI- RABBI A'UUDZU BIKA MIN 'ADZAABINNAARI WA 'ADZAABIN FIL QABRI (Tidak tuhan yang disembah selain Engkau semata, tidak ada sekutu bagi-Nya, bagi-Nya semua kerajaan dan pujian. Dia Maha Kuasa atas segala sesuatu. Wahai Rabb, aku minta kepada-Mu kebaikan malam ini dan kebaikan setelahnya, dan aku berlindung kepada-Mu dari keburukan malam ini dan keburukan setelahnya. Wahai Rabb, aku berlindung kepada-Mu dari kemalasan dan dari buruknya kesombongan -dalam riwayat lain; dari kekafiran-. Wahai Rabb, aku berlindung kepada-Mu dari siksa neraka dan siksa kubur)." Dan jika tiba waktu pagi beliau juga membaca doa tersebut: 'ASHBAHNAA WA ASHBAHAL MULKU LILLAHI (kami berada di waktu pagi, dan kerajaan hanya milik Allah..) '. Abu Dawud berkata, " [Syu'bah] meriwayatkannya dari [Salamah bin Kuhail], dari [Ibrahim bin Suwaid], ia menyebutkan, "MIN SUU'IL KIBARI (dari buruknya kesombongan) dan tidak menyebutkan; SUU'IL KUFRI (dari buruknya kekafiran)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2732)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5071</td></tr><tr><td>Arabic No</td><td>5071</td></tr><tr><td>Reference</td><td>Book 43 Hadith 299</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2732)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5071</td></tr><tr><td>Arabic No</td><td>5071</td></tr><tr><td>Reference</td><td>Book 43 Hadith 299</td></tr></tbody></table></div>
 

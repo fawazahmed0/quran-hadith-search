@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that Allah's Apostle (ﷺ) drank (water) from Zamzam while h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Suraij bin Yunus]; Telah menceritakan kepada kami [Husyaim]; Telah mengabarkan kepada kami ['Ashim Al Ahwal]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Ya'qub Ad Dauraqi] dan [Isma'il bin Salim], Isma'il berkata; Telah mengabarkan kepada kami, sedangkan Ya'qub berkata; Telah menceritakan kepada kami [Husyaim]; Telah menceritakan kepada kami ['Ashim Al Ahwal] dan [Mughirah] dari [Asy Sya'biy] dari [Ibnu 'Abbas]; Bahwa Rasulullah shallallahu 'alaihi wasallam minum dari air zam-zam sambil berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5282</td></tr><tr><td>Arabic No</td><td>2027.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Ибн ‘Аббаса: «Посланник Аллаха ﷺ выпил (воды) из Замзама, и он (пил её) стоя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5282</td></tr><tr><td>Arabic No</td><td>2027.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 156</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' : I did not see any man with locks hanging down to shoulders i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dan [Muhammad bin Sulaiman Al Anbari] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abu Ishaq] dari [Al Bara] ia berkata, "Aku belum pernah melihat seseorang berambut panjang yang lebih bagus ketika mengenakan pakaian berwarna merah melebihi Rasulullah shallallahu 'alaihi wasallam." [Muhammad bin Sulaiman] menambahkan, "Beliau mempunyai rambut hingga kedua bahu." Abu Dawud berkata, "Demikian [Isra'il] meriwayatkannya dari [Abu Ishaq], ia berkata, "(Rambutnya) Hingga kedua pundaknya." Sementara Syu'bah menceritakan, "Hingga daun telinga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3551) Sahih Muslim (2337)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4183</td></tr><tr><td>Arabic No</td><td>4183</td></tr><tr><td>Reference</td><td>Book 35 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Бара (ибн ‘Азиб), да будет доволен им Аллах, передаёт: «Я не видел человека с волосами средней длины, более прекрасного, чем Посланник Аллаха ﷺ одетый в красное одеяние. Его волосы доходили до плеч». А в версии Шу‘бы говорится: «…до мочек ушей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3551) Sahih Muslim (2337)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4183</td></tr><tr><td>Arabic No</td><td>4183</td></tr><tr><td>Reference</td><td>Book 35 Hadith 25</td></tr></tbody></table></div>
 

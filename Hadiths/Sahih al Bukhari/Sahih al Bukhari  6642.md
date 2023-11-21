@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Masud:While Allah's Messenger (ﷺ) was sitting, reclinin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6642</td></tr><tr><td>Arabic No</td><td>6642</td></tr><tr><td>Reference</td><td>Book 83 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах Ибн Мас‘уд, да будет доволен им Аллах, сказал: «Однажды посланник Аллаха ﷺ, прислонившись своей спиной к шатру из йеменской кожи, как вдруг обратился к своим сподвижникам: “Хотели бы вы составить четверть обитателей Рая?” Они ответили: “Да!” Он спросил: “А хотели бы вы составлять собой треть обитателей Рая?” Они ответили: “Да!” Он сказал: “Клянусь Тем, в Чьей руке душа Мухаммада, поистине, я надеюсь, что вы составите собой половину обитателей Рая!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6642</td></tr><tr><td>Arabic No</td><td>6642</td></tr><tr><td>Reference</td><td>Book 83 Hadith 21</td></tr></tbody></table></div>
 

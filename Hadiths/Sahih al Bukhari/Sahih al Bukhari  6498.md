@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I heard Allah's Messenger (ﷺ) saying, "People are
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] mengatakan, telah mengabarkan kepadaku [Salim bin Abdullah], bahwasanya [Abdullah bin Umar] radhilayyahu'anhuma menuturkan, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia itu bagaikan seratus unta, nyaris tak kau temukan satupun untuk dijadikan kendaraan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6498</td></tr><tr><td>Arabic No</td><td>6498</td></tr><tr><td>Reference</td><td>Book 81 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, люди подобны сотне верблюдов, из которых найдётся едва ли один пригодный для верховой езды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6498</td></tr><tr><td>Arabic No</td><td>6498</td></tr><tr><td>Reference</td><td>Book 81 Hadith 87</td></tr></tbody></table></div>
 

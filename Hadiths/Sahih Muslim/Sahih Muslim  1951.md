@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah is reported to have heard Allah's Messenger (ﷺ) as saying:When any on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Muhammad bin Rumh bin Al Muhajir] keduanya berkata, telah mengabarkan kepada kami [Laits] -dalam jalur lain- Dan telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Laits] dari [Nafi'] dari [Abdullah] ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian hendak menunaikan shalat Jum'at, hendaklah ia mandi terlebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1951</td></tr><tr><td>Arabic No</td><td>844.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас (решит) прийти на пятничную молитву, пусть совершит полное омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1951</td></tr><tr><td>Arabic No</td><td>844.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 1</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:(who was one of the Badr warriors) Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepadaku [Abu Idris 'Aidzullah bin Abdullah] bahwa ['Ubadah bin ash Shamit], salah seorang shahabat ahlu Badar, berkata bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Berbai'atlah kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3999</td></tr><tr><td>Arabic No</td><td>3999</td></tr><tr><td>Reference</td><td>Book 64 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Идриса ‘Аизуллаха ибн ‘Абдуллаха, что ‘Убада ибн ас-Самит, который участвовал в битве при Бадре, передал, что Посланник Аллаха ﷺ сказал: «Присягните мне!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3999</td></tr><tr><td>Arabic No</td><td>3999</td></tr><tr><td>Reference</td><td>Book 64 Hadith 50</td></tr></tbody></table></div>
 

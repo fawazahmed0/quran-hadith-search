@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Nafi' said:"Ibn 'Umar never refused to be appointed as guardian." The most belov
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2767</td></tr><tr><td>Arabic No</td><td>2767</td></tr><tr><td>Reference</td><td>Book 55 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи’ сказал: «Ибн ‘Умар никогда не отказывался от назначения опекуном». \nБольше всего в отношении имущества сироты Ибн Сирину нравилось, когда советник и опекуны сироты собирались у него, чтобы решить, что лучше для него (сироты). \nКогда Тауса спрашивали о чём-то, касающемся дел сироты, он читал аят: «Аллах отличает нечестивца от творящего добро» (сура «аль-Бакара», аят 220). \n‘Ата сказал в отношении знатных и простых сиротах: «Опекун должен расходовать на каждого в соответствии с их потребностями из их долей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2767</td></tr><tr><td>Arabic No</td><td>2767</td></tr><tr><td>Reference</td><td>Book 55 Hadith 30</td></tr></tbody></table></div>
 

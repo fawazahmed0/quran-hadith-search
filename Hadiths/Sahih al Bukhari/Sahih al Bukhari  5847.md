@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) forbade Muhrims to wear clothes dyed with W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Abdullah bin Dinar] dari [Ibnu Umar] radliallahu 'anhuma dia berkata; "Nabi shallallahu 'alaihi wasallam melarang orang yang berihram mengenakan pakaian yang diwarnai dengan wars (sejenis tanaman yang barbau harum dan berwarna kuning) atau dengan minyak za'faran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5847</td></tr><tr><td>Arabic No</td><td>5847</td></tr><tr><td>Reference</td><td>Book 77 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ запретил вошедшему в состояние ихрама надевать одежду, окрашенную уарсом (один из видов благовоний) или шафраном»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5847</td></tr><tr><td>Arabic No</td><td>5847</td></tr><tr><td>Reference</td><td>Book 77 Hadith 64</td></tr></tbody></table></div>
 

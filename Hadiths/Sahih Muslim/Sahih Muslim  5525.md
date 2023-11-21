@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) entered (my apartment) and I had hu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Manshur bin Abu Muzahim]; Telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Az Zuhri] dari [Al Qasim bin Muhammad] dari ['Aisyah] ia berkata; "Pada suatu ketika, Rasulullah shallallahu 'alaihi wasallam masuk ke kamar saya, sedangkan pada saat itu saya menutupi kamar dengan kain tipis yang bergambar. Maka berubahlah raut wajah beliau dan langsung mengambilnya kemudian merobeknya. Lalu beliau bersabda: "Sesungguhnya orang yang paling pedih siksaannya pada hari kiamat kelak adalah orang yang membuat sesuatu yang serupa dengan ciptaan Allah. Dan telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Al Qasim bin Muhammad] bahwa ['Aisyah] Telah menceritakan kepadanya; Rasulullah shallallahu 'alaihi wasallam suatu ketika masuk ke kamar Aisyah -sebagaimana Hadits- Ibrahim bin Sa'd hanya saja dia menggunakan lafazh; 'kemudian beliau langsung menyambar kain tersebut dan merobeknya dengan tangan beliau. Dan telah menceritakannya kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] serta [Zuhair bin Harb] seluruhnya dari [Ibnu 'Uyainah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abad bin Humaid] mereka berkata; Telah mengabarkan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] melalui jalur ini, namun di dalam Hadits keduanya tidak menggunakan kalimat 'min' tapi langsung 'Inna Asyaddan Nasi; Adzaban' (manusia yang paling keras siksanya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5525</td></tr><tr><td>Arabic No</td><td>2107.06</td></tr><tr><td>Reference</td><td>Book 37 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5525</td></tr><tr><td>Arabic No</td><td>2107.06</td></tr><tr><td>Reference</td><td>Book 37 Hadith 138</td></tr></tbody></table></div>
 

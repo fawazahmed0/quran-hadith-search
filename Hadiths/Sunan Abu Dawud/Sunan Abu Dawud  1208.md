@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: On the expedition to Tabuk if the sun had passed the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid bin Khalid bin Yazid bin Abdullah bin Mauhab Ar Ramli Al Hamdani] telah menceritakan kepada kami [AL Mufadlal bin Fadlalah] dan [Laits bin Sa'd] dari [Hisyam bin Sa'ad] dari [Abu Az Zubair] dari [Abu Ath Thufail] dari [Mu'adz bin Jabal] bahwa pada waktu Rasulullah shallallahu 'alaihi wasallam perang Tabuk, ketika matahari telah tergelincir sebelum berangkat, maka beliau menjama' antara shalat Dluhur dan shalat Ashar. Dan jika beliau berangkat sebelum matahari tergelincir, maka beliau mengundurkan Dluhur sehingga beliau singgah untuk shalat Ashar, demikian pula ketika shalat Maghrib, apabila Matahari telah terbenam sebelum berangkat, maka beliau menjama' antara Maghrib dan Isya', dan jika berangkat sebelum matahari terbenam, beliau mengakhirkan shalat Maghrib, sehingga beliau singgah pada waktu Isya', kemudian beliau menjama' keduanya." Abu Daud mengatakan; "Telah di riwayatkan pula oleh [Hisyam bin 'Urwah] dari [Husain bin Abdullah] dari [Kuraib] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam sebagaimana hadits Al Mufadlal dan Al Laits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1208</td></tr><tr><td>Arabic No</td><td>1208</td></tr><tr><td>Reference</td><td>Book 4 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Му‘аза ибн Джабаля, да будет доволен им Аллах, что Посланник Аллаха ﷺ во время похода на Табук, отправляясь в путь после того, как солнце отклонялось от точки зенита, соединял полуденную молитву с послеполуденной, совершая их перед тем, как пуститься в путь. Если же он отправлялся в путь до того, как солнце отклонялось от точки зенита, он откладывал полуденную молитву, совершая её вместе с послеполуденной после того, как наступало время последней. А отправляясь в путь после захода солнца, Посланник Аллаха ﷺ соединял закатную молитву с вечерней, совершая их перед тем, как пуститься в путь. Если же он отправлялся в путь до захода солнца, он откладывал закатную молитву, совершая её вместе с вечерней после того, как наступало время последней.От Ибн ‘Аббаса от Пророка ﷺ передаётся хадис, подобный хадису аль-Муфаддаля и аль-Лейса
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1208</td></tr><tr><td>Arabic No</td><td>1208</td></tr><tr><td>Reference</td><td>Book 4 Hadith 11</td></tr></tbody></table></div>
 

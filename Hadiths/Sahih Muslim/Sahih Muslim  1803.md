@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Jamra reported:I heard Ibn 'Abbas saying that the Messenger of Allah (ﷺ) o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] -kemudian dalam jalur periwatan lain- Dan telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Jamrah] ia berkata, saya mendengar [Ibnu Abbas] berkata; "Biasanya Rasulullah shallallahu 'alaihi wasallam shalat malam sebanyak tiga belas raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1803</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 6 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Ночью Посланник Аллаха ﷺ совершал тринадцать рак‘атов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1803</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 6 Hadith 231</td></tr></tbody></table></div>
 

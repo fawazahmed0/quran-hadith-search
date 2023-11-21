@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ata':I and 'Ubai bin 'Umar went to 'Aisha while she was staying near T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan], berkata ['Amru] dan [Ibnu Juraij] aku mendengar ['Atha'] berkata; "Aku pergi bersama 'Ubaid bin 'Umair menemui ['Aisyah] radliallahu 'anhu yang ketika itu sedang berada di bukit, lalu dia berkata kepada kami; "Hijrah telah terputus (kewajibannya) sejak Allah memberikan kemenangan kepada Nabi Shallallahu'alaihiwasallam atas kota Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3080</td></tr><tr><td>Arabic No</td><td>3080</td></tr><tr><td>Reference</td><td>Book 56 Hadith 284</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ата сказал: «Я отправился вместе с ‘Убаем ибн ‘Умайром к ‘Аише, да будет доволен ею Аллах, когда она жила недалеко от Сабира (название горы). Она сказала нам: «Хиджра закончилась с того дня, как Аллах открыл Мекку для Своего Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3080</td></tr><tr><td>Arabic No</td><td>3080</td></tr><tr><td>Reference</td><td>Book 56 Hadith 284</td></tr></tbody></table></div>
 

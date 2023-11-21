@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Al-Abbas asked the permission from the Prophet (ﷺ) to stay 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid bin Maimun] telah menceritakan kepada kami ['Isa bin Yunus] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma]: Nabi shallallahu 'alaihi wasallam memberi keringanan". Dan diriwayatkan pula, telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [Muhammad bin Bakar] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepada saya ['Ubaidullah] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam memberikan izin. Dan diriwayatkan pula, telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami ['Ubaidullah] berkata, telah menceritakan kepada saya [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] bahwa; "Al 'Abbas Radhiyallahu meminta izin kepada Rasulullah Nabi shallallahu 'alaihi wasallam untuk bermalam di Makkah selama malam-malam Mina untuk (melayani) menyediakan minum buat Beliau. Maka Beliau mengizinkannya'. Haditsa ini dikuatkan oleh [Abu Usamah], ['Uqbah bin Khalid] dan [Abu Dhamrah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1745</td></tr><tr><td>Arabic No</td><td>1745</td></tr><tr><td>Reference</td><td>Book 25 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что аль-‘Аббас, да будет доволен им Аллах, попросил у Пророка ﷺ разрешения провести ночи Мины в Мекке ради поения людей, и Посланник Аллаха ﷺ разрешил ему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1745</td></tr><tr><td>Arabic No</td><td>1745</td></tr><tr><td>Reference</td><td>Book 25 Hadith 223</td></tr></tbody></table></div>
 

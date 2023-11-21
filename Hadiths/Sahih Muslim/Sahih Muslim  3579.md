@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that her foster-uncle whose name was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Al Laits] dari [Yazid bin Habib] dari ['Irak] dari ['Urwah] dari [Aisyah] bahwa dia telah mengabarkan kepadanya; Bahwa paman sesusuannya yang bernama Aflah meminta izin untuk menemuinya, namun dia menutupinya dengan tabir, lantas dia menceritakan kepada Rasulullah shallallahu 'alaihi wasallam, beliau bersabda kepadanya: "Janganlah kamu menutup tabir darinya, sesungguhnya menjadikan mahram (saudara) karena sesusuan sebagaimana menjadikan mahram (saudara) karena keturunan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>1445.09</td></tr><tr><td>Reference</td><td>Book 17 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>1445.09</td></tr><tr><td>Reference</td><td>Book 17 Hadith 12</td></tr></tbody></table></div>
 

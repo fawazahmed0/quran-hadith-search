@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: A man should not look at th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdurrahman bin Ibrahim] berkata, telah menceritakan kepada kami [Ibnu Abu Fudaik] dari [Adh Dhahhak bin Utsman] dari [Zaid bin Aslam] dari ['Abdurrahman bin Abu Sa'id Al Khudri] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Seorang laki-laki tidak boleh untuk melihat aurat laki-laki lain, dan seorang wanita tidak boleh melihat aurat wanita yang lain. Seorang laki-laki tidak boleh tidur dengan laki-laki lain dalam satu selimut, dan seorang wanita tidak boleh tidur dengan wanita lain dalam satu selimut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (338)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4018</td></tr><tr><td>Arabic No</td><td>4018</td></tr><tr><td>Reference</td><td>Book 33 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абду-р-Рахман ибн Абу Са‘ид аль-Худри передаёт от своего отца, да будет доволен им Аллаха, что Пророк ﷺ сказал: «Мужчина не должен смотреть на аурат мужчины, и женщина не должна смотреть на аурат женщины. И (раздетый) мужчина не должен ложиться под одно покрывало с другим мужчиной, и (раздетая) женщина не должна ложиться под одно покрывало с другой женщиной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (338)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4018</td></tr><tr><td>Arabic No</td><td>4018</td></tr><tr><td>Reference</td><td>Book 33 Hadith 10</td></tr></tbody></table></div>
 

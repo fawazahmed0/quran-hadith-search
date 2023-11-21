@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:No Sadaqa is paya
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Abdurrahman bin Mahdi] Telah menceritakan kepada kami [Sufyan] dari [Isma'il bin Umayyah] dari [Muhammad bin Yahya bin Hayyan] dari [Yahya bin Umarah] dari [Abu Sa'id Al Khudri] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak wajib dizakati biji-bijian dan kurma yang tidak cukup lima Wasq; dan tidak wajib dizakati pula binatang ternak yang kurang dari lima ekor; dan tidak wajib pula dizakati perak yang kurang dari lima uqiyah." Dan telah menceritakan kepadaku [Abdu bin Humaid] Telah menceritakan kepada kami [Yahya bin Adam] Telah menceritakan kepada kami [Sufyan Ats Tsauri] dari [Isma'il bin Umayyah] dengan isnad ini, semisal hadits Ibnu Mahdi. Dan telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ats Tsauri] dan [Ma'mar] dari [Isma'il bin Umayyah] dengan isnad ini, sebagaimana hadits Ibnu Mahdi dan Yahya bin Adam, hanya saja, ia mengatakan; Ia menggantikan At Tamr (kurma kering) dengan Tsamar (kurma basah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2268</td></tr><tr><td>Arabic No</td><td>979.06</td></tr><tr><td>Reference</td><td>Book 12 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Са‘ида аль-Худри, что Пророк ﷺ сказал: «Не следует выплачивать закят ни (с урожая) зерновых или фиников менее пяти “васков”, ни со стада, в котором меньше пяти верблюдов, ни (с имущества стоимостью) менее пяти окый (серебра)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2268</td></tr><tr><td>Arabic No</td><td>979.06</td></tr><tr><td>Reference</td><td>Book 12 Hadith 6</td></tr></tbody></table></div>
 

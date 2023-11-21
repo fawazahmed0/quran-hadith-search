@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umar b. al-Khattab said:I heard Hisham b. Hakim (b. Hizam) reciting Surah al-Fur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari [Abdurrahman bin Abdul Qari], ia berkata; saya mendengar [Umar bin Al Khathab] berkata; aku mendengar Hisyam bin Hakim bin Hizam membaca Surat Al Furqan tidak seperti yang aku baca, dan Rasulullah telah membacakannya kepadaku, maka hampir aku tergesa-gesa untuk bertindak terhadapnya, kemudian aku mengurungkannya hingga ia pergi. Kemudian aku menarik selendangnya dan membawanya kepada Rasulullah shallallahu 'alaihi wasallam. Aku katakan; wahai Rasul, sesungguhnya aku telah mendengar orang ini membaca Surat Al Furqan tidak seperti yang telah engkau bacakan kepadaku. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepadanya: "Bacalah, kemudian ia membaca bacaan yang telah aku dengar. kemudian Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Demikianlah Surat tersebut diturunkan." Kemudian beliau berkata kepadaku: "Bacalah." Lalu aku membacanya. Kemudian beliau berkata: "Demikianlah surat tersebut diturunkan." Kemudian beliau bersabda: "Sesungguhnya Al Qur'an ini diturunkan dengan tujuh gaya bahasa, maka bacalah apa yang mudah darinya." Telah menceritakan kepada Kami Muhammad bin Yahya bin Faris, telah menceritakan kepada Kami Abdurrazzaq, telah mengabarkan kepada Kami Ma'mar, ia berkata; Az Zuhri berkata; sesungguhnya gaya bahasa ini dalam satu perkara dan tidak berbeda-beda dalam hal halal dan haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2419) Sahih Muslim (818)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1475</td></tr><tr><td>Arabic No</td><td>1475</td></tr><tr><td>Reference</td><td>Book 8 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах: «Я слышал, как Хишам ибн Хаким ибн Хизам читал суру “аль-Фуркан” не так, как читал её я и как научил меня читать её Посланник Аллаха ﷺ. Я хотел сразу броситься к нему, но потом решил подождать, и когда он закончил, я охватил его своим плащом и привёл к Посланнику Аллаха ﷺ. Я сказал: “О Посланник Аллаха! Поистине, я слышал, как вот этот читает суру “аль-Фуркан” не так, как учил меня читать её ты!” Посланник Аллаха ﷺ сказал ему: “Читай”. И он прочитал так, как я уже слышал от него. И Посланник Аллаха ﷺ сказал: “Так она была ниспослана”. Потом он сказал мне: “Читай”. И я прочитал, и он сказал: “Так она была ниспослана”. Затем (Посланник Аллаха ﷺ) сказал: «Поистине, Коран был ниспослан семью способами. Читайте же то, что вам легко»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2419) Sahih Muslim (818)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1475</td></tr><tr><td>Arabic No</td><td>1475</td></tr><tr><td>Reference</td><td>Book 8 Hadith 60</td></tr></tbody></table></div>
 

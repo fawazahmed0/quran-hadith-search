@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Somebody asked, "O Allah's Messenger (ﷺ)! Who is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku ['Atha' bin Yazid Al Laitsiy] bahwa [Abu Sa'id Al Khudriy radliallahu 'anhu] bercerita kepadanya, katanya: "Ditanyakan kepada Rasulullah, siapakh manusia yang paling utama?" Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang mu'min yang berjihad di jalan Allah dengan jiwa dan hartanya". Mereka bertanya lagi: "Kemudian siapa lagi?" Beliau menjawab: "Seorang mu'min yang tinggal diantara bukit dari suatu pegunungan dengan bertaqwa kepada Allah dan meninggalkan manusia dari keburukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2786</td></tr><tr><td>Arabic No</td><td>2786</td></tr><tr><td>Reference</td><td>Book 56 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2786</td></tr><tr><td>Arabic No</td><td>2786</td></tr><tr><td>Reference</td><td>Book 56 Hadith 5</td></tr></tbody></table></div>
 

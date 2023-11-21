@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I heard Allah's Messenger (ﷺ) saying, "whoever desires
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Ya'qub AL Karmaniy] telah menceritakan kepada kami [Hassan] telah menceritakan kepada kami [Yunus] berkata, [Muhammad, dia adalah Az Zuhriy] dari [Anas bin Malik radliallahu 'anhu] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa ang ingin diluaskan rezeqinya atau meninggalkan nama sebagai orang baik setelah kematiannya hendaklah dia menyambung silaturrahim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2067</td></tr><tr><td>Arabic No</td><td>2067</td></tr><tr><td>Reference</td><td>Book 34 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Пусть тот, кто желает, чтобы удел его был увеличен, а срок жизни продлён, поддерживает связи с родственниками”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2067</td></tr><tr><td>Arabic No</td><td>2067</td></tr><tr><td>Reference</td><td>Book 34 Hadith 20</td></tr></tbody></table></div>
 

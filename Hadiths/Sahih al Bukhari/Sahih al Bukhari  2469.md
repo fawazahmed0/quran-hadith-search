@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) took an oath that he would not go to his w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Salam] telah menceritakan kepada kami [Al Fazariy] dari [Humaid Ath Thawil] dari [Anas radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam meninggalkan isteri-isteri Beliau selama satu bulan dan melepaskan kedua kaki Beliau (tidak turun) lalu tinggal di ruangan khusu Beliau (tempat pengasingan). Lalu datang 'Umar seraya berkata: "Apakah anda telah menceraikan isteri-isri anda?" Beliau menjawab: "Tidak, tetapi aku berpaling dari mereka selama satu bulan". Beliau berdiam disana selama dua puluh sembilah hari kemudian turun dan menemui isteri-isteri Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2469</td></tr><tr><td>Arabic No</td><td>2469</td></tr><tr><td>Reference</td><td>Book 46 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ поклялся, что в течение месяца не станет приближаться к своим жёнам, и у него был вывих ноги, он сидел в своей комнате. (В один день) к нему пришёл ‘Умар и спросил: “Ты развёл своих жён?” Он ответил: “Нет. Однако я поклялся, что в течение месяца не буду приближаться к ним”. Так он пробыл двадцать девять дней, затем он спустился, и стал входить к своим жёнам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2469</td></tr><tr><td>Arabic No</td><td>2469</td></tr><tr><td>Reference</td><td>Book 46 Hadith 30</td></tr></tbody></table></div>
 

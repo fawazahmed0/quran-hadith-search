@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Nadra narrated it from Abu Sa'id al-Khudri who reported it from the Apostle 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>460</td></tr><tr><td>Arabic No</td><td>185.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 365</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Са‘ид аль-Худри передал от Пророка ﷺ хадис, подобный предыдущему, но только до слов: «…приносит с собой поток»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>460</td></tr><tr><td>Arabic No</td><td>185.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 365</td></tr></tbody></table></div>
 

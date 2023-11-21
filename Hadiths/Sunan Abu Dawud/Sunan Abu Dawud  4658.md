@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’id (al-Khudri) reported the Messenger of Allah (May peace be upon him) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlan kalian mencela sahabatku. Demi Dzat yang jiwaku ada dalam tangan-Nya, sekiranya salah seorang dari kalian bersedekah dengan emas sebesar gunung uhud, maka itu tidak akan bisa menyamai sedekah mereka meski hanya satu mud atau pun setengahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3673) Sahih Muslim (2541)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4658</td></tr><tr><td>Arabic No</td><td>4658</td></tr><tr><td>Reference</td><td>Book 42 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида, что Посланник Аллаха ﷺ сказал: «Не ругайте моих сподвижников. Клянусь Тем, в Чьей руке душа моя, если один из вас потратит золото размером с гору Ухуд, он не превзойдёт того из них, кто потратил всего мудд или половину мудда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3673) Sahih Muslim (2541)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4658</td></tr><tr><td>Arabic No</td><td>4658</td></tr><tr><td>Reference</td><td>Book 42 Hadith 63</td></tr></tbody></table></div>
 

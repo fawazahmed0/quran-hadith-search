@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said twice, "(O you people) Be cautious! 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami ['Abdur RAzzaq] dari [Ma'mar] dari [Hammam] bahwasanya dia mendengar [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam berkata: "Janganlah kalian melakukan puasa wishal". Ada seseorang berkata, kepada Beliau: "Bukankah anda melakukan puasa wishal?" Beliau menjawab: " Rabbku selalu memberiku makan dan memberi minum. Maka laksanakanlah amal amal yang kalian mampu saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1966</td></tr><tr><td>Arabic No</td><td>1966</td></tr><tr><td>Reference</td><td>Book 30 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса сообщается, что Пророк ﷺ) сказал: «Поистине, по ночам Господь мой кормит и поит меня, а вы делайте столько, сколько окажется вам по силам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1966</td></tr><tr><td>Arabic No</td><td>1966</td></tr><tr><td>Reference</td><td>Book 30 Hadith 73</td></tr></tbody></table></div>
 

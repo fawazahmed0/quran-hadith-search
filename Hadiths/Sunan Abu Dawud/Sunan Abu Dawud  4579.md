@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Messenger of Allah (ﷺ) gave judgment that a male or 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi] berkata, telah menceritakan kepada kami [Isa] dari [Muhammad] -maksudnya Muhammad bin Amru- dari [Abu Salamah] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam memberi putusan bahwa diyat bagi janin adalah senilai budak laki-laki, atau perempuan, atau kuda, atau bighal." Abu Dawud berkata, " [Hammad bin Salamah] dan [Khalid bin Abdullah] meriwayatkan hadits ini dari [Muhammad bin Amru], namun keduanya tidak menyebutkan 'kuda atau bighal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4579</td></tr><tr><td>Arabic No</td><td>4579</td></tr><tr><td>Reference</td><td>Book 41 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ постановил выплачивать за погибший по чьей-то вине плод компенсацию раба либо рабыню или же коня либо мула
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4579</td></tr><tr><td>Arabic No</td><td>4579</td></tr><tr><td>Reference</td><td>Book 41 Hadith 86</td></tr></tbody></table></div>
 

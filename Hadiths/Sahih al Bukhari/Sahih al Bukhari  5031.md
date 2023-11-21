@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "The example of the person who 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abudllah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya perumpamaan para penghafal Al Qur'an adalah seperti seorang yang memiliki Utna yang terikat, jika ia selalu menjaganya, maka ia pun akan selalu berada padanya, dan jika ia melepaskannya, niscaya akan hilang dan pergi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5031</td></tr><tr><td>Arabic No</td><td>5031</td></tr><tr><td>Reference</td><td>Book 66 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Поистине, человек, который помнит Коран наизусть, подобен хозяину верблюдов со спутанными ногами: если он будет продолжать держать их в подобном положении, то удержит их, если же отпустит их, они убегут»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5031</td></tr><tr><td>Arabic No</td><td>5031</td></tr><tr><td>Reference</td><td>Book 66 Hadith 53</td></tr></tbody></table></div>
 

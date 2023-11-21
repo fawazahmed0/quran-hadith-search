@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sharik:Anas bin Malik said, "A person entered the Mosque on a Friday th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Syarik] dari [Anas bin Malik] bahwa ada seorang memasuki masjid pada hari Jum'at dari pintu yang menghadap Darul Qadla' (rumah 'Umar bin Al Khaththab). Saat itu Rasulullah shallallahu 'alaihi wasallam sedang berdiri menyampaikan khutbah, orang itu lalu berdiri menghadap Rasulullah seraya berkata, "Wahai Rasulullah, harta benda telah habis dan jalan-jalan terputus. Maka mintalah kepada Allah agar menurunkan hujan buat kami!" Anas bin Malik berkata, "Maka Rasulullah shallallahu 'alaihi wasallam mengangkat kedua tangannya seraya berdoa: "Ya Allah berilah kami hujan, Ya Allah berilah kami hujan, Ya Allah berilah kami hujan." Anas bin Malik melanjutkan, "Demi Allah, sebelum itu kami tidak melihat sedikitpun awan baik yang tebal maupun yang tipis. Juga tidak ada antara tempat kami dan bukit itu rumah atau bangunan satupun. Tiba-tiba dari bukit itu tampaklah awan bagaikan perisai. Ketika sudah membumbung sampai ke tengah langit, awan itupun menyebar lalu turunlah hujan." Anas bin Malik berkata, "Demi Allah, sungguh kami tidak melihat matahari selama enam hari. Kemudian pada Jum'at berikutnya, ada seorang laki-laki masuk kembali dari pintu yang sama sementara Rasulullah shallallahu 'alaihi wasallam sedang beridiri menyampaikan khutbahnya. Orang itu lalu berdiri menghadap beliau seraya berkata, "Wahai Rasulullah, harta benda telah binasa dan jalan-jalan pun terputus. Maka mintalah kepada Allah agar menahan hujan dari kami!" Maka Rasulullah shallallahu 'alaihi wasallam pun mengangkat kedua tangannya seraya berdoa: "Ya Allah turunkanlah hujan di sekitar kami saja dan jangan membahayakan kami. Ya Allah turunkanlah di atas bukit-bukit, dataran tinggi, jurang-jurang yang dalam serta pada tempat-tempat tumbuhnya pepohonan." Anas bin Malik berkata, "Maka hujan pun berhenti. Lalu kami keluar berjalan-jalan di bawah sinar matahari." Syarik berkata, "Aku bertanya kepada Anas bin Malik, 'Apakah laki-laki tadi juga laki-laki yang pertama? ' Dia menjawab, 'Aku tak tahu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>1014</td></tr><tr><td>Reference</td><td>Book 15 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса бин Малика, что (как-то раз) в пятницу один человек вошёл в мечеть через дверь, обращенную к «Дар аль-Када», в то время, когда Посланник Аллаха ﷺ стоял, произнося хутбу. Он встал перед посланником Аллаха ﷺ и сказал: «О, Посланник Аллаха, наш скот погиб, и мы не можем двинуться в путь, так обратись же к Аллаху, чтобы Он послал нам дождь!» Посланник Аллаха ﷺ поднял руки и сказал: «О, Аллах, ниспошли нам дождь! О, Аллах, ниспошли нам дождь! О, Аллах, ниспошли нам дождь!» \nАнас сказал: «Клянусь Аллахом, (в это время) на небе не было ни одной тучи или облачка, а между нами и горой Саль‘ не было никаких строений или домов. И (вдруг) из-за горы появилась туча, по форме подобная щиту, а когда она заняла середину неба, то распространилась (во все стороны), а потом полил дождь, и Клянусь Аллахом, (после этого) мы не видели солнца целых шесть дней. Затем, когда Посланник Аллаха ﷺ произносил хутбу в следующую пятницу, через те же самые двери вошёл человек, встал перед ним и сказал: “О, Посланник Аллаха, наше имущество погибло, а по дорогам невозможно пройти, так попроси же Аллаха, чтобы Он остановил (дождь)!” Тогда Посланник Аллаха ﷺ поднял руки и сказал: “О Аллах, вокруг нас, а не на нас! О Аллах, на холмы, горы, пригорки, возвышенности, в долины, и на те места, где растут деревья!”» \n(Анас) сказал: «И дождь прекратился, а когда мы вышли, уже светило солнце». Шарик сказал: «Я спросил Анаса: “Это был тот же человек, который просил дождя в прошлую пятницу?” Анас ответил: “Я не знаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>1014</td></tr><tr><td>Reference</td><td>Book 15 Hadith 9</td></tr></tbody></table></div>
 

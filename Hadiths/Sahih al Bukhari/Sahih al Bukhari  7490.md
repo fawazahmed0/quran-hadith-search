@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(regarding the Verse):-- 'Neither say your prayer aloud, nor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dari [Husyaim] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibn Abbas] mengenai ayat: '(Dan janganlah engkau mengeraskan bacaan shalatmu dan jangan pula engkau merendahkan bacaannya) ' (Qs. Al Isra': 110), ayat ini diturunkan kepada Rasulullah shallallahu 'alaihi wasallam secara berturut-turut di Makkah. Ketika itu, jika beliau mengencangkan bacaannya, maka kaum musyrikin mendengarnya hingga mereka mencela Al Qur'an secara habis-habisan, juga mencela yang menurunkannya dan yang membawanya. Maka Allah menurunkan: '(Jangan kamu mengeraskan bacaan shalatmu dan jangan pula merendahkannya) ' (Qs. Al Isra': 110). Jangan kamu mengeraskan bacaanmu maksudnya hingga terdengar oleh orang-orang musyrik, dan jangan pula kamu merendahkannya, maksudnya sehingga tidak terdengar oleh kawan-kawanmu. Dan carilah jalan tengah di antara keduanya, maksudnya bacalah sehingga terdengar oleh kawanmu namun jangan pula kamu membaca terlalu keras hingga musuh mencela Al Qur'an akibat bacaanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7490</td></tr><tr><td>Arabic No</td><td>7490</td></tr><tr><td>Reference</td><td>Book 97 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего: «Не совершай свою молитву громко и не совершай её шёпотом» (Сура «аль-Исра», аят 110): «Когда был ниспослан этот аят, Посланник Аллаха ﷺ скрывался в Мекке. И когда он громко читал (Коран в молитве), многобожники слышали это и начинали поносить Коран и Того, Кто его ниспослал, и того, кто его принёс. И тогда Всевышний Аллах сказал: “Не совершай свою молитву громко и не совершай её шёпотом”, то есть не совершай свою молитву громко, дабы не слышали многобожники, “… и не совершай его шёпотом”, то есть (пусть чтение будет не слишком тихим) для твоих сподвижников, ибо тогда они не услышат тебя, “… а выбери среднее между этим”, то есть пусть они услышат тебя, чтобы они научились от тебя Корану, но не читай громко»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7490</td></tr><tr><td>Arabic No</td><td>7490</td></tr><tr><td>Reference</td><td>Book 97 Hadith 116</td></tr></tbody></table></div>
 

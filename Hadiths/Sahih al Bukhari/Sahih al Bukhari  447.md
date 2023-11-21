@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:Ibn 'Abbas said to me and to his son 'Ali, "Go to Abu Sa'id and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami ['Abdul 'Aziz bin Mukhtar] berkata, telah menceritakan kepada kami [Khalid Al Hadza'] dari ['Ikrimah], Ibnu 'Abbas kepadaku dan kepada Ali, anaknya, "Pergilah kalian bedua menemui [Abu Sa'id] dan dengarlah hadits darinya!" Maka kami pun berangkat. Dan kami dapati dia sedang membetulkan dinding miliknya, ia mengambil kain selendangnya dan duduk ihtiba'. Kemudian ia mulai berbicara hingga menyebutkan tentang pembangunan masjid. Ia mengkisahkan, "Masing-masing kami membawa bata satu persatu, sedangkan 'Ammar membawa dua bata dua bata sekaligus. Saat Nabi shallallahu 'alaihi wasallam melihatnya, beliau berkata sambil meniup debu yang ada padanya: "Kasihan 'Ammar, dia akan dibunuh oleh golongan durjana. Dia mengajak mereka ke surga sedangkan mereka mengajaknya ke neraka." Ibnu 'Abbas berkata, "'Ammar lantas berkata, "Aku berlindung kepada Allah dari fitnah tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>447</td></tr><tr><td>Arabic No</td><td>447</td></tr><tr><td>Reference</td><td>Book 8 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Икрима, да помилует его Аллах Всевышний, сказал:\n— (Однажды) Ибн ‘Аббас, да будет доволен Аллах ими обоими, велел мне и своему сыну ‘Али: «Отправляйтесь к Абу Са‘иду аль-Худри и послушайте, что он рассказывает». Мы пошли (к нему) и увидели, что он поправляет стену. (Увидев нас,) он завернулся в свою накидку, а потом начал свой рассказ, дойдя же до упоминания о строительстве мечети, он сказал: «Все мы носили по одному необожжённому кирпичу, а ‘Аммар (ибн Ясир) — по два. Это увидел Пророк ﷺ который стал стряхивать с него пыль со словами: “Да помилует Аллах ‘Аммара, которого погубит группа притеснителей! Он станет призывать их к раю, а они его — к аду!” — ‘Аммар же отвечал: “Прибегаю к защите Аллаха от (подобных) бедствий!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>447</td></tr><tr><td>Arabic No</td><td>447</td></tr><tr><td>Reference</td><td>Book 8 Hadith 96</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Abu Qatada, on the authority of his father, reported Allah's Apostle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Bakar bin Ishaq] telah menceritakan kepada kami ['Affan bin Muslim] telah menceritakan kepada kami [Aban Al 'Athar] telah menceritakan kepada kami [Yahya bin Abu Katisr] telah menceritakan kepadaku [Abdullah bin Abu Qatadah] dari [ayahnya], bahwa Nabi Allah shallallahu 'alaihi wasallam melarang mencampurkan antara kurma masak dengan kurma muda, anggur dengan kurma masak, kurma muda dengan kurma segar (masak). Dan beliau mengatakan: "Buatlah perasan setiap darinya secara sendiri-sendiri." Dan telah menceritakan kepadaku [Abu Salamah bin Abdurrahman] dari [Abu Qatadah] dari Nabi shallallahu 'alaihi wasallam seperti hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5158</td></tr><tr><td>Arabic No</td><td>1988.05</td></tr><tr><td>Reference</td><td>Book 36 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5158</td></tr><tr><td>Arabic No</td><td>1988.05</td></tr><tr><td>Reference</td><td>Book 36 Hadith 32</td></tr></tbody></table></div>
 

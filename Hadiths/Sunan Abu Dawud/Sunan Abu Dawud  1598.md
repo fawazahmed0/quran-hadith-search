@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Waki’ said Ba’l means the agricultural crop which grows by the rain water. I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Haitsam bin Khalid Al Juahani] serta [Husain bin Al Aswad Al 'Ajali], ia berkata; [Waki'] berkata; Al Ba'lu dan Al Kabus adalah tanaman yang tumbuh dari air hujan. [Ibnu Al Aswad] berkata; dan [Yahya yaitu Ibnu Adam] berkata; aku bertanya kepada [Abu Iyaz Al Asadi] mengenai Al Ba'lu, kemudian ia berkata; yaitu yang disirami dengan air hujan. An Nadhr bin Syumail berkata; Al Ba'lu adalah air hujan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1598</td></tr><tr><td>Arabic No</td><td>1598</td></tr><tr><td>Reference</td><td>Book 9 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ваки‘ (ибн аль-Джаррах) сказал, что ба‘ль это растения, выросшие благодаря выпадающим с неба дождям. Ибн аль-Асвад сказал, что Яхья ибн Адам сказал: «Я спросил Абу Ийяса аль-Асади о ба‘ле, и он сказал, что это то, что поливается дождевой водой, а ан-Надр ибн Шумайль сказал, что ба‘ль это дождевая вода»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1598</td></tr><tr><td>Arabic No</td><td>1598</td></tr><tr><td>Reference</td><td>Book 9 Hadith 43</td></tr></tbody></table></div>
 

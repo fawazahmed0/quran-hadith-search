@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jubair b. Mut'im reported Allah's Messenger (ﷺ) as saying:There is no alliance
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdullah bin Numair] dan [Abu Usamah] dari [Zakaria] dari [Sa'ad bin Ibrahim] dari [Bapaknya] dari [Jubair bin Muth'im] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak ada perjanjian persahabatan (persekutuan) -yang melanggar syari'at- di dalam Islam. karena, tidaklah persahabatan dan persekutuan manapun yang telah ada pada masa Jahiliah (dalam kebaikan), kecuali semakin diperkokoh oleh Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6465</td></tr><tr><td>Arabic No</td><td>2530</td></tr><tr><td>Reference</td><td>Book 44 Hadith 294</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6465</td></tr><tr><td>Arabic No</td><td>2530</td></tr><tr><td>Reference</td><td>Book 44 Hadith 294</td></tr></tbody></table></div>
 

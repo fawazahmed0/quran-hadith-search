@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Hasan:concerning the Verse: 'Do not prevent them' (2.232) Ma'qil bin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Amru] ia berkata; Telah menceritakan kepadaku [bapakku] ia berkata; Telah menceritakan kepadaku [Ibrahim] dari [Yunus] dari [Al Hasan] keduanya berkata; Terkait dengan Firman Allah: "FALAA TA'DLULUUHUNNA.." Ia berkata; [Ma'qil bin Yasar] telah menceritakan kepadaku, bahwa ayat itu turun berkenaan dengan dirinya. Ia berkata; Aku menikahkan saudara perempuanku kepada seorang laki-laki, kemudian ia menceraikannya. Lalu ketika masa iddahnya habis laki-laki itu datang kembali maka kukatakan kepadanya, "Aku telah menikahkanmu, dan memuliakanmu lalu kamu menceraikannya, kemudian saat kamu datang untuk meminangnya kembali, tidak, demi Allah, adikku itu tidak akan kembali kepadamu selama-lamanya." Sebenarnya, tidak ada masalah pada laki-laki itu dan saudara perempuanku juga mau ruju' kepadanya, maka Allah pun menurunkan ayat ini, "FALAA TA'DLULUUHUNNA.." Karena itu, aku pun berkata, "Sekarang aku akan melakukannya wahai Rasulullah." Maka ia pun menikahkan wanita itu kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5130</td></tr><tr><td>Arabic No</td><td>5130</td></tr><tr><td>Reference</td><td>Book 67 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ма‘киль ибн Йасар, да будет доволен им Аллах, сказал: «(Когда-то) я выдал свою сестру замуж за одного человека; (через некоторое время) он развёлся с ней, а по истечении положенного для неё срока (этот человек снова) пришёл просить её руки, но я сказал ему: “Я выдал её за тебя замуж, сделал её твоей женой и оказал тебе честь, ты же дал ей развод, а потом пришёл просить её руки! Нет, клянусь Аллахом, она никогда не вернётся к тебе!” Однако он был неплохим человеком, да и женщина хотела вернуться к нему, а потом Аллах ниспослал аят(, в котором сказано): “…не препятствуйте им…”, и тогда я сказал: “Сейчас я сделаю это, о Посланник Аллаха!”».\n(Передатчик этого хадиса) сказал: «И он (снова) выдал (свою сестру) замуж за него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5130</td></tr><tr><td>Arabic No</td><td>5130</td></tr><tr><td>Reference</td><td>Book 67 Hadith 66</td></tr></tbody></table></div>
 

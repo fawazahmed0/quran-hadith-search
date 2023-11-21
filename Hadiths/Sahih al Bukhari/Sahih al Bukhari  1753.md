@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:Whenever Allah's Messenger (ﷺ) stoned the Jamra near Mina Mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1753</td></tr><tr><td>Arabic No</td><td>1753</td></tr><tr><td>Reference</td><td>Book 25 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от аз-Зухри, что Посланник Аллаха ﷺ бросал семь камешков в столб, который был ближе к мечети Мины, произнося слова такбира после каждого броска, а затем он продвигался вперёд, становился лицом к кибле и долго стоял так, обращаясь с мольбами к Аллаху, подняв руки к небу. Затем он подходил ко второму столбу и бросал семь камешков, произнося слова такбира после каждого броска. Затем спускался налево ближе к долине, становился лицом к кибле и долго стоял так, подняв руки к небу и обращаясь с мольбами (к Аллаху). Затем он подходил к большому столбу и бросал семь камешков, произнося слова такбира после каждого броска, после чего уходил, не останавливаясь около него
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1753</td></tr><tr><td>Arabic No</td><td>1753</td></tr><tr><td>Reference</td><td>Book 25 Hadith 231</td></tr></tbody></table></div>
 

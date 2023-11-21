@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hakim b. Hizam: The Messenger of Allah (ﷺ) as saying: Both parties in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan kepada kami [Syu'bah], dari [Qatadah] dari [Abu Al Khalil] dari [Abdullah bin Al Harits] dari [Hakim bin Hizam] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dua orang yang saling berjual beli memiliki khiyar (hak memilih) selama mereka belum berpisah. Apabila mereka jujur dan memberikan penjelasan (terus terang dalam muamalah mereka), maka mereka akan diberi berkah dalam jual beli mereka. Dan apabila mereka menyembunyikan kekurangan dan berdusta, maka berkah akan terhapus dari jual beli mereka." Abu Daud berkata; dan demikianlah hadits tersebut diriwayatkan oleh [Sa'id bin Abu 'Arubah], dan [Hammad]. Adapun [Hammam], ia berkata; hingga mereka berpisah, atau memilih tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2079) Sahih Muslim (1532)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>3459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Хакима ибн Хизама, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Продавец и покупатель имеют право выбора до тех пор, пока не расстанутся, и если они будут правдивы и разъяснят, их сделка будет благодатной для них, а если они сокроют и солгут, их сделка будет лишена благодати»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2079) Sahih Muslim (1532)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>3459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 44</td></tr></tbody></table></div>
 

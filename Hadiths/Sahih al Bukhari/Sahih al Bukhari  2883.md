@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ar-Rabi'bint Mu'auwidh:We used to take part in holy battles with the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Bisyir bin Al Mufadhdhal] dari [Khalid bin Dzakwan] dari [Ar-Rubayyi' binti Mu'awwidz] berkata: "Kami ikut berperang bersama Nabi shallallahu 'alaihi wasallam dimana kami memberi minum pasukan, melayani mereka dan membawa pulang yang terluka dan yang gugur ke Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2883</td></tr><tr><td>Arabic No</td><td>2883</td></tr><tr><td>Reference</td><td>Book 56 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ар-Рубаййи‘ бинт Му‘аввиз сказала: «Обычно мы принимали участие в военных походах вместе с Пророком ﷺ, принося (воинам) воду, помогая им и доставляя раненых и убитых в Медину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2883</td></tr><tr><td>Arabic No</td><td>2883</td></tr><tr><td>Reference</td><td>Book 56 Hadith 98</td></tr></tbody></table></div>
 

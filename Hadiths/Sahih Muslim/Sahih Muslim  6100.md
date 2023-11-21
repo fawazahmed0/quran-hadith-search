@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ammar, the freed slave of Banu Hashim, reported:I asked Ibn 'Abbas how old was h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ibnu Minhal Adh Dharir]; Telah menceritakan kepada kami [Yazid bin Zurai']; Telah menceritakan kepada kami [Yunus bin 'Ubaid] dari ['Ammar] budak Bani Hasyim dia berkata; "Saya pernah bertanya kepada [Ibnu Abbas], berapa usia Rasulullah shallallahu 'alaihi wasallam ketika wafat? Ibnu Abbas menjawab; Saya tidak menduga bahwasannya orang yang sepertimu ini tidak mengetahui hal itu. Saya berkata; Sebenarnya saya pernah bertanya kepada para sahabat yang lain. Tetapi, jawaban mereka saling berbeda. oleh karena itu, saya ingin mengetahui jawaban tersebut darimu? Ibnu Abbas bertanya lagi, benarkah seperti itu? Saya menjawab; 'Ya benar.' Ibnu Abbas berkata; 'Baiklah.' Sekarang hitunglah! Beliau diutus sebagai Nabi pada usia empat puluh tahun. Setelah itu, selama lima belas tahun, beliau menetap di kota Makkah dengan perasaan harap-harap cemas. Akhirnya, beliau menetap dikota Madinah selama sepuluh tahun Hijrah. Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami [Syababah bin Sawwar]; Telah menceritakan kepada kami [Syu'bah] dari [Yunus] melalui jalur ini yang serupa dengan Hadits Yazid bin Zurai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6100</td></tr><tr><td>Arabic No</td><td>2353.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6100</td></tr><tr><td>Arabic No</td><td>2353.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 158</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:A young boy of Mughira b. Shu'ba happened to pass by (the Holy Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Affan bin Muslim] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Anas] berkata: Anak Mughirah bin Syu'bah, sebayaku, melintasi lalu nabi Shallallahu 'alaihi wa Salam bersabda: "Bila anak ini panjang umur, ia tidak sampai tua hingga kiamat terjadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7412</td></tr><tr><td>Arabic No</td><td>2953.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7412</td></tr><tr><td>Arabic No</td><td>2953.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 173</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:I saw the Prophet (ﷺ) eating chicken
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Ayyub] dari [Abu Qilabah] dari [Zahdam Al Jarmi] dari [Abu Musa] -yaitu Al Asy'ari- radliallahu 'anhu, ia berkata, "Aku melihat Nabi shallallahu 'alaihi wasallam makan daging ayam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5517</td></tr><tr><td>Arabic No</td><td>5517</td></tr><tr><td>Reference</td><td>Book 72 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса аль-Аш‘ари, да будет доволен им Аллах, сказал: «Я видел, как Пророк ﷺ ел курицу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5517</td></tr><tr><td>Arabic No</td><td>5517</td></tr><tr><td>Reference</td><td>Book 72 Hadith 43</td></tr></tbody></table></div>
 

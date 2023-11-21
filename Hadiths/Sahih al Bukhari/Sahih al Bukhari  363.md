@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mughira bin Shu'ba:Once I was traveling with the Prophet (ﷺ) and he s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Muslim] dari [Masruq] dari [Mughirah bin Syu'bah] berkata, "Aku pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, beliau bersabda: "Wahai Mughirah, ambilkan segayung air." Aku lalu mencarikan air untuk beliau, dan Rasulullah shallallahu 'alaihi wasallam pergi manjuah hingga tidak terlihat olehku untuk buang hajat. Saat itu beliau mengenakan jubah lebar, beliau berusaha mengeluarkan tangannya lewat lubang lengan namun terlalu sempit. Lalu beliau mengeluarkan tangannya lewat bawah jubahnya, lantas aku sodorkan segayung air kemudian beliau berwudlu sebagaimana wudlu untuk shalat dengan mengusap kedua sepatunya lalu shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>363</td></tr><tr><td>Arabic No</td><td>363</td></tr><tr><td>Reference</td><td>Book 8 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мугъира ибн Шу‘ба, да будет доволен им Аллах, сказал: «(Однажды, когда) я сопровождал Пророка ﷺ в одной из его поездок, он сказал мне: “О Мугъира, возьми этот сосуд”. И я взял его, а Посланник Аллаха ﷺ пошёл вперёд, скрылся из виду и удовлетворив свою нужду. (В тот день) он был в джуббе из Шама. Когда он захотел вынуть руку из её рукава, оказалось, что она слишком узка для этого; тогда он продел руку снизу, а я стал сливать ему воду, и он совершил обычное омовение, какое всегда совершал перед молитвой, протёр свои кожаные носки и затем помолился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>363</td></tr><tr><td>Arabic No</td><td>363</td></tr><tr><td>Reference</td><td>Book 8 Hadith 15</td></tr></tbody></table></div>
 

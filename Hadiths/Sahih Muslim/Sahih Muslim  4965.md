@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Jabir that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Abdush Shamad] telah menceritakan kepada kami [Syu'bah] dari [Yasar] dari ['Amir] dari [Jabir] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian tiba (dari perjalanan) janganlah kalian pulang ke rumah keluargamu tengah malam, supaya keluarga yang ditinggalkan dapat bersiap-siap dan menyisir rambut (menyambut kedatanganmu)." Dan telah menceritakan kepadaku [Yahya bin Habib] telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Sayyar] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4965</td></tr><tr><td>Arabic No</td><td>715.24</td></tr><tr><td>Reference</td><td>Book 33 Hadith 260</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4965</td></tr><tr><td>Arabic No</td><td>715.24</td></tr><tr><td>Reference</td><td>Book 33 Hadith 260</td></tr></tbody></table></div>
 

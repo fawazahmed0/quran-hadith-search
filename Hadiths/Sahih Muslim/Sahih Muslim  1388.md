@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr reported:The Messenger of Allah (ﷺ) said: The time of the noo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Ibrahim Ad Duraqi] telah menceritakan kepada kami [Abdushshamad] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Abu Ayyub] dari [Abdullah bin 'Amru] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Waktu shalat zhuhur adalah jika matahari telah concong dan bayangan sesorang seperti panjangnya selama belum tiba waktu shalat ashar, dan waktu shalat ashar selama matahari belum menguning, dan waktu shalat maghrib selama mega merah (syafaq) belum menghilang, dan waktu shalat isya' hingga tengah malam, dan waktu shalat shubuh semenjak terbit fajar selama matahari belum terbit, jika matahari terbit, maka janganlah melaksanakan shalat, sebab ia terbit diantara dua tanduk setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1388</td></tr><tr><td>Arabic No</td><td>612.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 222</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся со слов ‘Абдуллаха ибн ‘Амра, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Время полуденной молитвы продолжается, пока не начнётся время послеполуденной молитвы. Время послеполуденной молитвы продолжается, пока не пожелтеет солнце. Время закатной молитвы продолжается, пока не исчезнет вечерняя заря. Время вечерней молитвы продолжается до полуночи, а время утренней молитвы продолжается, пока не взойдёт солнце. Когда солнце взошло, то воздержись от молитвы, ибо, поистине, оно всходит между двумя рогами шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1388</td></tr><tr><td>Arabic No</td><td>612.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 222</td></tr></tbody></table></div>
 

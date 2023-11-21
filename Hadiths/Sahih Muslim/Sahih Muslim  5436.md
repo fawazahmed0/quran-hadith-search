@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr reported:Allah's Apostle (ﷺ) saw me in two clothes dyed in sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Daud bin Rusyaid]; Telah menceritakan kepada kami ['Umar bin Ayyub Al Mushili]; Telah menceritakan kepada kami [Ibrahim bin Nafi'] dari [Sulaiman Al Ahwal] dari [Thawus] dari ['Abdillah bin 'Amru] ia berkata; Nabi shallallahu 'alaihi wasallam pernah melihat saya sedang mengenakan dua potong pakaian yang bercelupkan warna kuning, maka beliau bersabda: "Apakah ibumu yang menyuruh seperti ini?" Aku berkata; Aku akan mencucinya, beliau bersabda: 'Jangan, akan tetapi bakarlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5436</td></tr><tr><td>Arabic No</td><td>2077.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5436</td></tr><tr><td>Arabic No</td><td>2077.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 51</td></tr></tbody></table></div>
 

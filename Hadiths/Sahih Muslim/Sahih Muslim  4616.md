@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Al-Barâ' (que Dieu l'agrée), un homme vint lui demander : "Est-ce que
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Jannab Al Mishishi] telah menceritakan kepada kami [Isa bin Yunus] dari [Zakaria] dari [Abu Ishaq] dia berkata, "Seorang laki-laki datang kepada [Al Barra] seraya bertanya, "Wahai Abu 'Umarah, apakah kalian pernah lari dari peperangan Hunain?" maka dia menjawab, "Aku bersaksi atas Nabi Allah shallallahu 'alaihi wasallam, (pasukan) beliau tidaklah lari, akan tetapi saat itu orang-orang (yang ikut serta) tergesa-gesa tanpa membawa persenjataan yang lengkap menuju perkampungan Bani Hawazin ini, padahal mereka adalah pasukan pemanah, lantas orang-orang kafir melemparinya dengan anak panah, seakan-akan mereka (kaum Muslimin) seperti sekumpulan belalang. Sehingga kaum Muslimin pun kocar-kacir dan terpaksa berbalik kepada Rasulullah shallallahu 'alaihi wasallam, sementara itu Abu Sufyan sedang mengawal dengan memegang bighal beliau. Kemudian beliau turun dan berdo'a dengan memohon pertolongan, beliau bersabda: "Aku adalah seorang Nabi, tidak seorang pendusta, aku adalah putra Abdul Mutthalib. Ya Allah…turunkanlah bala bantuan-Mu." Barra berkata, "Demi Allah, kami saat itu sangat mengkhawatirkan karena dahsyatnya peperangan, dan orang yang paling pemberani adalah orang yang paling dekat dengan peperangan, yaitu Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4616</td></tr><tr><td>Arabic No</td><td>1776.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4616</td></tr><tr><td>Arabic No</td><td>1776.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 98</td></tr></tbody></table></div>
 

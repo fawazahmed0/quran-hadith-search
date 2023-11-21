@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas: The Prophet (ﷺ) was the best among the people (both in shape an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Aun] telah menceritakan kepada kami [Hammad yaitu Ibnu Zaid] dari [Tsabit] dari [Anas] dia berkata; Nabi shallallahu 'alaihi wasallam adalah sosok yang paling baik (perawakannya), orang yang paling dermawan dan pemberani, Pada suatu malam penduduk Madinah dikejutkan oleh suatu suara, lalu orang-orang keluar ke arah datangnya suara itu. Di tengah jalan mereka bertemu dengan Rasulullah shallallahu 'alaihi wasallam yang hendak pulang. Rupanya beliau telah mendahului mereka ke tempat datangnya suara itu. Beliau mengendarai kuda yang dipinjamnya dari Abu Thalhah, beliau tidak membawa lampu sambil menyandang pedang beliau bersabda: "Jangan takut! Jangan takut!" kata Anas; "Kami dapati beliau tengah menunggang kuda yang berjalan cepat atau sesungguhnya kudanya berlari kencang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6033</td></tr><tr><td>Arabic No</td><td>6033</td></tr><tr><td>Reference</td><td>Book 78 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Пророк ﷺ был лучшим, самым щедрым и самым смелым из людей. Однажды, когда люди в Медине испугались и пошли в направлении шума, (который их напугал,) навстречу к ним вышел Пророк ﷺ, который уже узнал в чём дело. Он ехал на не оседланном коне Абу Тальхи с мечом, перекинутым через плечо, говоря: “Не бойтесь! Не бойтесь!” А затем он сказал: “Мы обнаружили, что этот конь (имеет столь же неисчерпаемую энергию и резвость) как море”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6033</td></tr><tr><td>Arabic No</td><td>6033</td></tr><tr><td>Reference</td><td>Book 78 Hadith 63</td></tr></tbody></table></div>
 

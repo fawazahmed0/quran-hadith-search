@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Mas'ud al-Badri reported:I was beating my slave with a whip when I heard a v
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Abdul Wahid] -yaitu Ibnu Ziyad- telah menceritakan kepada kami [Al A'masy] dari [Ibrahim At Taimi] dari [Ayahnya] dia berkata; [Abu Mas'ud Al Badri] berkata, "Aku pernah memukul pelayan (budak) milikku dengan cemeti, tiba-tiba aku mendengar suara dari belakangku, 'Ketahuilah wahai Abu Mas'ud! Ketahuilah wahai Abu Mas'ud! ', aku tidak memperhatikan suara tersebut karena terlalu marahnya." Abu Mas'ud berkata, "Ketika telah dekat, ternyata itu adalah Rasulullah shallallahu 'alaihi wasallam. Dan beliaulah yang mengatakan, 'Ketahuilah wahai Abu Mas'ud. Ketahuilah wahai Abu Mas'ud." Abu Mas'ud berkata, "Kemudian aku melemparkan cemeti dari tanganku." Lantas beliau bersabda: "Ketahuilah wahai Abu Mas'ud, Sesungguhnya Allah lebih kuasa atas dirimu daripada kuasamu atas budak ini." Abu Mas'ud berkata lagi, "Kemudian aku berkata, "Aku tidak akan memukul seorang budak pun setelah itu." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Muhammad bin Humaid] -yaitu Al Ma'mari- dari [Sufyan]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Sufyan]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Abu 'Awanah] semuanya dari [Al A'masy] dengan sanadnya Abdul Wahid, seperti haditsnya (Al A'masy). Hanya saja dalam hadits Jarir disebutan, "Tiba-tiba cemeti tersebut terjatuh dari tanganku karena kagetnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4306</td></tr><tr><td>Arabic No</td><td>1659.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд аль-Бадри, да будет доволен им Аллах, сказал: «(Как-то раз) избивая своего невольника плетью, я услышал позади себя голос: “Знай, о Абу Мас‘уд …”, но не понял, кому он принадлежит, так как был охвачен гневом. Когда же (человек, говоривший этим) голосом, приблизился ко мне, оказалось, что это был Посланник Аллаха ﷺ который говорил: “Знай, о Абу Мас‘уд! Знай, о Абу Мас‘уд!” И я отбросил плеть (которую держал) в руке, а он сказал: “Знай, о Абу Мас‘уд, что Аллах может сделать с тобой больше, чем ты с этим рабом!”, и тогда я сказал: “После этого я никогда не ударю раба!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4306</td></tr><tr><td>Arabic No</td><td>1659.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 53</td></tr></tbody></table></div>
 

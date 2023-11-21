@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), on apporta quelque nouvelle concer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Ghailan] dan [Muhammad bin Qudamah As Sulami] dan [Yahya bin Muhammad Al Lu'lu'i] -lafazh mereka tidak jauh berbeda- [Mahmud] berkata;; Telah menceritakan kepada kami [An Nadhr bin Syumail]. Sedangkan yang lainnya berkata; Telah mengabarkan kepada kami [An Nadhr]; Telah mengabarkan kepada kami [Syu'bah]; Telah menceritakan kepada kami [Musa bin Anas bin Malik] dari [Anas bin Malik] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah mengetahui berita tentang para sahabat. Kemudian beliau berdiri dan berpidato: 'Ketahuilah bahwa sesungguhnya surga dan neraka itu telah ditampakkan kepadaku. Aku tidak pernah melihat kebaikan dan keburukan seperti hari ini. Seandainya kalian dapat mengetahui apa yang aku ketahui, maka kalian pasti akan sedikit tertawa dan banyak menangis.' Anas berkata; 'Tidak ada hari yang lebih berat daripada hari itu yang pernah dialami oleh para sahabat Rasulullah shallallahu 'alaihi wasallam. Mereka menutupi kepala mereka dan mereka pun terserang sakit sengau hidung.' Setelah itu, Umar bin Khaththab berdiri dan berkata; 'Kami rela Allah sebagai Tuhan kami, Islam sebagai agama kami, dan Muhammad sebagai nabi kami.' Anas berkata; 'Ada seorang laki-laki berdiri dan bertanya; 'Siapakah ayah saya? ' Beliau menjawab: 'Ayahmu adalah si fulan.' Maka turunlah ayat yang berikut ini: Hai orang-orang yang beriman, janganlah kamu bertanya tentang segala sesuatu yang apabila dijelaskan kepadamu, maka hal itu akan memberatkanmu. (QS. Al Maa'idah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6119</td></tr><tr><td>Arabic No</td><td>2359.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6119</td></tr><tr><td>Arabic No</td><td>2359.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 177</td></tr></tbody></table></div>
 

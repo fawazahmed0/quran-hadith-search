@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) forbade Muzabana and Muhaqa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Daud bin Al Hushain] dari [Abu Sufyan, sahaya Ibnu Abu Ahmad] dari [Abu Sa'id AL Khudriy] bahwa Rasulullah shallallahu 'alaihi wasallam melarang Al Muzaabanah dan AL Muhaqalah. Al Muzaabanah adalah membeli kurma masak dengan kurma basah yang masih berada di pohon
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2186</td></tr><tr><td>Arabic No</td><td>2186</td></tr><tr><td>Reference</td><td>Book 34 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил (то, что именуется) «музабана» и «мухакала». А «музабана» — это продажа сухих фиников за несобранные, ещё висящие на деревьях
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2186</td></tr><tr><td>Arabic No</td><td>2186</td></tr><tr><td>Reference</td><td>Book 34 Hadith 133</td></tr></tbody></table></div>
 

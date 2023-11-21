@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jundab Ibn 'Abdoullâh Al-Bajalî (que Dieu l'agrée), l'Envoyé de Die
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Qudamah Al Harits bin 'Ubaid] dari [Abu 'Imran] dari [Jundab bin 'Abdullah Al Bajali] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bacalah Al Qur'an, selama perhatian hatimu terpusat padanya. Apabila kalian bimbang, maka berhentilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6777</td></tr><tr><td>Arabic No</td><td>2667.01</td></tr><tr><td>Reference</td><td>Book 47 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6777</td></tr><tr><td>Arabic No</td><td>2667.01</td></tr><tr><td>Reference</td><td>Book 47 Hadith 3</td></tr></tbody></table></div>
 

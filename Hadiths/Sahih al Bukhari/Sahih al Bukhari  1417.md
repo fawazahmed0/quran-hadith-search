@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim heard the Prophet (ﷺ) saying:"Save yourself from Hell-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] berkata, aku mendengar ['Abdullah bin Ma'qil] berkata, aku mendengar ['Adiy bin Hatim radliallahu 'anhu] berkata, aku mendengar Rasulullah Shallallahu'alaihiwasallam bersabda: "Jagalah kalian dari neraka sekalipun dengan (bershadaqah) sebutir kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1417</td></tr><tr><td>Arabic No</td><td>1417</td></tr><tr><td>Reference</td><td>Book 24 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Защитите (себя) от Огня хотя бы половинкой финика”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1417</td></tr><tr><td>Arabic No</td><td>1417</td></tr><tr><td>Reference</td><td>Book 24 Hadith 21</td></tr></tbody></table></div>
 

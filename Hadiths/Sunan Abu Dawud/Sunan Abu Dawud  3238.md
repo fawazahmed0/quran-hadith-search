@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas: To the Messenger of Allah (ﷺ) was brought man wearing ihr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan], telah menceritakan kepadaku ['Amr bin Dinar] dari [Sa'id bin Jubair], dari [Ibnu Abbas], ia berkata; Nabi shallallahu 'alaihi wasallam dihadapkan kepada seorang laki-laki yang telah terjatuh dari kendaraannya kemudian meninggal dalam keadaan sedang berihram. Kemudian beliau berkata: "Kafanilah ia dengan dua pakaiannya dan mandikan ia dengan air dan daun bidara. Dan janganlah kalian tutupi kepalanya, karena sesungguhnya Allah akan membangkitkannya pada Hari Kiamat dalam keadaan bertalbiyah." Abu Daud berkata; aku mendengar Ahmad bin Hanbal bekata dalam hadits ini; terdapat lima sunah, yaitu: kafanilah ia dalam dua kain, -yaitu mayit di kafani dalam dua kain. Mandikanlah dengan air dan daun bidara, yaitu dalam setiap pencucian terdapat duan bidara, dan janganlah kalian tutupi kepalanya, dan jangan kalian dekatkan dengan minyak wangi. Kafan adalah berasal dari seluruh hartanya. Telah menceritakan kepada kami [Sulaiman bin Harb], dan [Muhammad bin 'Ubaid] secara makna. Mereka berdua berkata; telah menceritakan kepada kami [Hammad] dari ['Amr] dan [Ayyub] dari [Sa'id bin Jubair] dari [Ibnu Abbas] seperti itu. Ia berkata; dan kafankanlah dia dalam dua kain. Abu Daud berkata; Sulaiman berkata; Ayyub berkata; dua kainnya. Sedangkan 'Amr berkata; dua kain. Ibnu 'Ubaid berkata; Ayyub berkata; dalam dua kain. Dan 'Amr berkata; dalam dua kainnya. Sulaiman sendiri menambahkan; dan janganlah kalian memakaikan minyak wangi kepadanya. Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dengan makna hadits Sulaiman mengenai dua kain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1267) Sahih Muslim (1206)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3238</td></tr><tr><td>Arabic No</td><td>3238</td></tr><tr><td>Reference</td><td>Book 21 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Один человек, облачённый в ихрам, неожиданно умер из-за верблюдицы, которая сбросила его, сломав ему шею. Его принесли к Пророку ﷺ и тот сказал: “Заверните его в две его одежды (ихрама, который был на нём в это время) и омойте его водой с ююбой, но не покрывайте ему голову. Поистине, в Судный день Аллах воскресит его произносящим тальбию”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1267) Sahih Muslim (1206)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3238</td></tr><tr><td>Arabic No</td><td>3238</td></tr><tr><td>Reference</td><td>Book 21 Hadith 150</td></tr></tbody></table></div>
 

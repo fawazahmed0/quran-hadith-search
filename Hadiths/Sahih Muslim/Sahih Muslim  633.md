@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa b. al Mughira b. Shu'ba reported it on the authority of his father that he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Abdullah bin Bazi'] telah menceritakan kepada kami [Yazid] -yaitu anak Zurai'- telah menceritakan kepada kami [Humaid ath-Thawil] telah menceritakan kepada kami [Abu Bakar bin Abdullah al-Muzani] dari [Urwah bin al-Mughirah bin Syu'bah] dari [Bapaknya] dia berkata, "Rasulullah pergi ke belakang, dan aku pergi ke belakang bersama beliau. Ketika beliau menunaikan hajatnya, maka beliau bersabda: "Apakah kamu memiliki air? ' Lalu aku memberikan air suci kepada beliau, lalu beliau membasuh kedua telapak tangannya dan wajahnya. Saat beliau ingin membuka kedua lengannya, ternyata lengan jubahnya sempit, maka beliau pun mengeluarkan tangannya dari bawah jubah, dan meletakkan jubahnya di atas kedua bahunya. Beliau kemudian mencuci kedua lengannya, mengusap ubun-ubunnya dan bagian atas surban serta mengusap bagian atas kedua khufnya. Kemudian beliau menaiki kendaraan, dan aku pun juga naik, hingga kita sampai pada suatu kaum, sedangkan mereka dalam keadaan mendirikan shalat yang diimami oleh Abdurrahman bin Auf, sedangkan dia telah rukuk bersama mereka satu rukuk. Ketika dia merasakan kedatangan Nabi shallallahu 'alaihi wasallam, maka dia mulai mundur, lalu beliau memberikan isyarat kepadanya (agar melanjutkan), maka dia terus mengimami mereka. Tatkala dia telah mengucapkan salam, maka Nabi shallallahu 'alaihi wasallam berdiri, dan aku pun berdiri bersama beliau, lalu kami rukuk pada rakaat yang mana kami telah ketinggalan padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>633</td></tr><tr><td>Arabic No</td><td>274.08</td></tr><tr><td>Reference</td><td>Book 2 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Мугыра ибн Шу‘ба сказал: «(Однажды, когда мы находились в пути), Посланник Аллаха ﷺ отстал (от остальных), а я задержался вместе с ним. Удовлетворив нужду, он спросил: “Есть ли у тебя вода?” Я принёс ему сосуд для омовения, и он помыл кисти рук и лицо, а потом попытался обнажить руки до локтей, однако рукав джуббы оказался слишком узким. Тогда он просунул руку снизу, забросил на плечи (полы) джуббы, помыл руки до локтей, протёр (мокрыми руками) волосы на передней части головы, чалму и ко­жаные носки, а потом сел верхом (на свою верблюдицу). Я тоже сел верхом, и мы догнали (остальных) людей, молившихся под руководством ‘Абдуррахмана ибн ‘Ауфа, который успел совершить с ними один рак‘ат. Узнав, что (к ним присоединился) Пророк ﷺ (‘Абдуррахман) начал пятиться назад, однако (Пророк ﷺ) сделал ему знак (остаться на месте), а после того, как (‘Абдуррахман) произнёс (слова) таслима, Пророк ﷺ встал. Я тоже поднялся на ноги, и мы совершили пропущенный нами рак‘ат»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>633</td></tr><tr><td>Arabic No</td><td>274.08</td></tr><tr><td>Reference</td><td>Book 2 Hadith 100</td></tr></tbody></table></div>
 

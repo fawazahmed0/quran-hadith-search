@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: When the Prophet (ﷺ) was informed of anything 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abdul Hamid] -maksudnya Abdul Hamid Al Himani- berkata, telah menceritakan kepada kami [Al A'masy] dari [Muslim] dari [Masruq] dari ['Aisyah radliallahu 'anha] ia berkata, "Ketika sampai kepada Nabi shallallahu 'alaihi wasallam berita bahwa ada seseorang yang mengatakan sesuatu, beliau tidak pernah mengatakan: "Mengapa si Fulan mengatakan demikian?" tetapi beliau mengatakan: "Mengapa orang-orang suka mengatakan begini dan begini?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6101) Sahih Muslim (2356)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>4788</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Когда до Пророка ﷺ доходило плохое о каком-либо человеке, он не говорил: “Почему такой-то говорит [так-то]”, а говорил: “Почему некоторые люди говорят так-то и так-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6101) Sahih Muslim (2356)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>4788</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
 

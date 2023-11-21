@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama:Allah's Messenger (ﷺ) distributed some Qaba's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Abu Mulaikah] dari [Al Miswar bin Makhramah] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah membagi-bagikan aqbiah (sejenis jubah), namun beliau tidak memberi Makhramah sesuatu pun. Makhramah lalu berkata, "Wahai anakku, mari ikut kami pergi menemui Rasulullah shallallahu 'alaihi wasallam." Maka aku pun pergi bersamanya. Makhramah berkata, "Masuk dan mintakanlah untukku." Miswar berkata, "Aku lalu memintakannya, hingga beliau keluar menemuinya (Makhramah) dengan membawa Quba (sejenis jubah). Beliau bersabda: "Aku sembunyikan ini khusus untukmu." Makhramah pun melihat jubah tersebut dan berkata; "Makhramah telah ridla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5800</td></tr><tr><td>Arabic No</td><td>5800</td></tr><tr><td>Reference</td><td>Book 77 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мисвар ибн Махрама, сказал: «(Однажды) Посланник Аллаха ﷺ, разделивший (между людьми) кафтаны, ничего не дал Махраме, и он сказал мне: “О сынок, пойдём со мной к Посланнику Аллаха ﷺ”. И я пошёл с ним(, а когда мы пришли к его дому, Махрама) сказал: “Зайди и позови его ко мне”, и я позвал к нему (Пророка ﷺ,) который вышел к нему в одном из этих кафтанов и сказал: “Я придержал этот (кафтан) для тебя”, (что же касается Махрамы, то) он посмотрел на него и сказал: “Махрама доволен”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5800</td></tr><tr><td>Arabic No</td><td>5800</td></tr><tr><td>Reference</td><td>Book 77 Hadith 18</td></tr></tbody></table></div>
 

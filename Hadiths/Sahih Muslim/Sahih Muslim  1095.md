@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:The Apostle of Allah (ﷺ) had been commanded that he should
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu ar-Rabi' az-Zahrani] Yahya berkata, telah mengabarkan kepada kami, sedangkan Abu ar-Rabi' berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Amru bin Dinar] dari [Thawus] dari [Ibnu Abbas] dia berkata, "Nabi Shallallahu'alaihiwasallam diperintahkan untuk bersujud di atas tujuh (anggota badan), dan beliau dilarang untuk mengikat rambutnya dan melipat bajunya." Ini hadits Yahya, dan Abu ar-Rabi' berkata, "(Beliau diperintahkan bersujud) atas tujuh anggota badan, dan dilarang untuk mengumpulkan (dengan mengikat) rambut dan (melipat) bajunya bagian lengan, lutut, dua kaki, dan (rambut pada) kening
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1095</td></tr><tr><td>Arabic No</td><td>490.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 257</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Пророку ﷺ было велено совершать земной поклон на семь (частей тела), и ему было запрещено подбирать волосы и одежду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1095</td></tr><tr><td>Arabic No</td><td>490.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 257</td></tr></tbody></table></div>
 

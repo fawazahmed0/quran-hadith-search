@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zaid:The Prophet (ﷺ) went towards the Musalla and invok
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Sufyan] dari ['Abdullah bin Abu Bakr] bahwa dia mendengar ['Abbad bin Tamim] menceritakan kepada bapaknya dari pamannya ['Abdullah bin Zaid], bahwa Nabi shallallahu 'alaihi wasallam pernah keluar menuju tempat shalat kemudian melaksanakan shalat istisqa' (meminta hujan). Beliau menghadap kiblat dan membalik posisi selendangnya, lalu melaksanakan shalat dua rakaat." Abu 'Abdullah berkata, "Ibnu 'Uyainah berkata, "Dia adalah seorang mu'adzin tetapi dia ragu, karena orang ini -'Abdullah bin Zaid bin 'Ashim Al mazini- adalah Mazin Al Anshar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1012</td></tr><tr><td>Arabic No</td><td>1012</td></tr><tr><td>Reference</td><td>Book 15 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн Зейда, что однажды Пророк ﷺ вышел на место совершения праздничной молитвы. Там он обратился к Аллаху с мольбой о ниспослании дождя, обратившись в сторону киблы, надел свою накидку наизнанку и совершил молитву в два рак‘ата
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1012</td></tr><tr><td>Arabic No</td><td>1012</td></tr><tr><td>Reference</td><td>Book 15 Hadith 7</td></tr></tbody></table></div>
 

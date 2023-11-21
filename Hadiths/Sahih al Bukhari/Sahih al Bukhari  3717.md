@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Marwan bin Al-Hakam:'Uthman bin 'Affan was afflicted with severe nose-b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Khalid bin Makhlad] telah bercerita kepada kami ['Ali bin Mushir] dari [Hisyam bin 'Urwah] dari [bapaknya] berkata, telah mengabarkan kepadaku [Marwan bin Al Hakam] berkata; ['Usman bin 'Affan] terkena musibah mimisan yang parah pada tahun musibah mimisan hingga menghalanginya menunaikan hajji dan dia telah memberi wasiat. Kemudian datang kepadanya seorang laki-laki suku Quraisy dan berkata; "Carilah pengganti". 'Utsman bertanya; "Apakah mereka juga mengatakanya begitu?". Laki-laki itu menjawab; "Ya". 'Utsman bertanya lagi; "Siapakah orangnya?". Laki-laki itu terdiam. Kemudian datang lagi seorang laki-laki lain, yang aku kira dia adalah Al Harits, lalu berkata; "Carilah pengganti". 'Utsman bertanya; "Apakah mereka juga mengatakanya begitu?". Laki-laki itu menjawab; "Ya". 'Utsman bertanya lagi; "Siapakah orangnya?". Laki-laki ini pun terdiam. 'Utsman berkata; "Barangkali mereka menyebut Az Zubair?". Laki-laki itu menjawab; "Ya". 'Utsman selanjutnya berkata; "Adapun dia, demi Dzat yang jiwaku berada di tangan-Nya, sungguh dia adalah orang terbaik di kalangan mereka sepanjang yang aku ketahui, dan dia merupakan orang yang paling dicintai Rasulullah shallallahu 'alaihi wasallam di antara mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3717</td></tr><tr><td>Arabic No</td><td>3717</td></tr><tr><td>Reference</td><td>Book 62 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Марван ибн аль-Хакам сказал: «‘Усмана ибн ‘Аффана постигло сильное носовое кровотечение в тот год, когда такая болезнь была распространена. Это помешало ему совершить хадж, и (из-за этого) он составил своё завещание. Один человек из курайшитов пришёл к нему, и сказал: “Назначь своего преемника”. ‘Усман спросил: “Люди назвали его?” Человек ответил: “Да”. ‘Усман спросил: “И кто же (им будет)?" Мужчина молчал. После этого пришёл ещё один человек, и я думаю, что это был аль-Харис. Он также сказал: “Назначь своего преемника”. ‘Усман спросил: “Люди назвали его?” Мужчина ответил “Да”. ‘Усман спросил: “И кто же (им будет)?” Но мужчина молчал. ‘Усман сказал: “Может быть, они сказали, (что им будет) аз-Зубайр?” Мужчина ответил: “Да”. ‘Усман сказал: “Клянусь Тем, в Чьих Руках моя душа, он лучший из них, насколько я знаю, и он был самым любимым из них Посланнику Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3717</td></tr><tr><td>Arabic No</td><td>3717</td></tr><tr><td>Reference</td><td>Book 62 Hadith 65</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Um Habiba and Um Salama mentioned a church they had seen in Ethi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari [Hisyam] berkata, telah menceritakan kepadaku [bapakku] dari ['Aisyah] radliallahu 'anha; Bahwa Ummu Habibah dan Ummu Salamah menceritakan sebuah gereja yang mereka lihat di negeri Habasyah (Ethiopia), yang didalamnya ada gambar. Lalu keduanya menceritakan kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Sesungguhnya mereka, apabila ada orang shalih dari kalangan mereka yang meninggal dunia, mereka dirikan masjid (tempat 'ibadah) di atas kuburannya dan membuat patung dari orang yang meninggal itu. Mereka itulah seburuk-buruk makhluq disisi Allah pada hari qiyamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3873</td></tr><tr><td>Arabic No</td><td>3873</td></tr><tr><td>Reference</td><td>Book 63 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, о том, что Умм Хабиба и Умм Саляма упоминали о церкви, расписанной (различными) изображениями, которую они видели в Эфиопии. Они рассказали об этом и Пророку ﷺ, который сказал им (на это): «Поистине, когда какой-нибудь праведный человек из них умирает, они строят над его могилой храм для поклонения, расписывая его подобными изображениями. В День воскресения такие (люди) окажутся наихудшими созданиями пред Аллахом!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3873</td></tr><tr><td>Arabic No</td><td>3873</td></tr><tr><td>Reference</td><td>Book 63 Hadith 98</td></tr></tbody></table></div>
 

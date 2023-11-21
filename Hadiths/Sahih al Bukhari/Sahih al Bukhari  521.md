@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Shihab:Once 'Umar bin 'Abdul 'Aziz delayed the prayer and 'Urwa bin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] berkata; Aku membacakannya di hadapan [Malik] dari [Ibnu Syihab] bahwa 'Umar bin 'Abdul 'Aziz pada suatu hari mengakhirkan pelaksanaan shalat. Kemudian ['Urwah bin Az Zubair] datang menemuinya dan mengabarkan kepadanya bahwa Al Mughirah bin Syu'bah pada suatu hari juga pernah mengakhirkan shalat, dan saat itu dia tinggal di 'Irak. Kemudian [Abu Mas'ud Al Anshari] datang menemuinya seraya berkata, "Apa yang kamu lakukan ini wahai Al Mughirah? Bukankah kamu telah mengetahui bahwa Malaikat Jibril shallallahu 'alaihi wasallam pernah turun kemudian melaksanakan shalat, kemudian Rasulullah shallallahu 'alaihi wasallam juga ikut melaksanakan shalat? Kemudian Jibril shalat lagi dan Rasulullah shallallahu 'alaihi wasallam juga ikut shalat kembali? Kemudian Jibril shalat lagi dan Rasulullah shallallahu 'alaihi wasallam juga ikut shalat kembali? Kemudian Jibril shalat lagi dan Rasulullah shallallahu 'alaihi wasallam juga ikut shalat kembali? Kemudian Jibril shalat lagi dan Rasulullah shallallahu 'alaihi wasallam juga ikut shalat kembali? Kemudian Jibril berkata, "Inilah waktu-waktu yang diperintahkan kepadaku (agar engkau melaksanakannya)." 'Umar lalu berkata kepada 'Urwah, "Ketahuilah apa yang kamu ceritakan! Sesungguhnya Jibril datang untuk menjelaskan kepada Rasulullah shallallahu 'alaihi wasallam tentang waktu-waktu shalat." 'Urwah berkata, "Begitulah adanya. bahwasanya [Basyir bin Abu Mas'ud] menceritakan dari [Bapaknya]. Urwah berkata, " [Aisyah] menceritakan kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam pernah melaksanakan shalat 'Ashar, sementara cahaya matahari yang ada dalam kamarnya belum nampak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>521</td></tr><tr><td>Arabic No</td><td>521</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Шихаба о том, что однажды днём, когда ‘Умар ибн ‘Абдуль-‘Азиз задержал молитву, к нему зашёл ‘Урва ибн аз-Зубайр и сообщил ему, что однажды, когда аль-Мугъира ибн Шу‘ба, находившийся в то время в Ираке, совершил молитву позже (начала установленного времени), к нему явился Абу Мас‘уд аль-Ансари, да будет доволен им Аллах, и сказал: «О Мугъира, что же это?! Разве ты не знаешь, что, спустившись на землю, Джибриль, мир ему, совершил молитву и Посланник Аллаха ﷺ совершил молитву, потом он (снова) совершил молитву и Посланник Аллаха ﷺ совершил молитву, потом он (снова) совершил молитву и Посланник Аллаха ﷺ совершил молитву, потом он (снова) совершил молитву и Посланник Аллаха ﷺ совершил молитву, потом он (снова) совершил молитву и Посланник Аллаха ﷺ совершил молитву, а потом он сказал: “Это было повелено мне”».\n‘Умар ибн ‘Aбдуль-‘Aзиз сказал ‘Урве: «Подумай о том, что ты рассказываешь! Точно ли Джибриль был тем, кто установил для Посланника Аллаха время молитвы?» ‘Урва ответил: «Так об этом рассказывал Башир ибн Аби Maс‘уд со слов своего отца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>521</td></tr><tr><td>Arabic No</td><td>521</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

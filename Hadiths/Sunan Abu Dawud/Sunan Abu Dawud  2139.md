@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Hammad], telah mengabarkan kepadaku [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] dari Rasulullah shallallahu 'alaihi wasallam bahwa beliau bersabda: "Sesungguhnya syarat yang paling berhak untuk dipenuhi adalah (syarat) yang kalian gunakan untuk menghalalkan farji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2721) Sahih Muslim (1418)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2139</td></tr><tr><td>Arabic No</td><td>2139</td></tr><tr><td>Reference</td><td>Book 12 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Укбы ибн ‘Амира, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Больше всего заслуживают соблюдения условия, посредством которых вы делаете дозволенными для себя лона»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2721) Sahih Muslim (1418)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2139</td></tr><tr><td>Arabic No</td><td>2139</td></tr><tr><td>Reference</td><td>Book 12 Hadith 94</td></tr></tbody></table></div>
 

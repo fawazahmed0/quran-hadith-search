@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:While I was walking in company with the Prophet (ﷺ) in one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] dari [Abdul Wahid] dari [Al A'masy] dari [Ibrahim] dari [Alqamah] dari [Ibnu Mas'ud] berkata, "Pernah aku berjalan bersama nabi shallallahu 'alaihi wasallam di sebagian kebun Madinah, sedang ketika itu beliau bersandar di atas sebuah dahan pohon kurma, saat kami melewati beberapa orang Yahudi, sebagian mereka berkata kepada sebagian lainnya, 'Tolong tanyailah dia (Muhammad) tentang nyawa', sementara sebagian mereka berkata, 'Jangan engkau bertanya kepadanya suatu hal yang kalian sendiri ketakutan terhadapnya'. Namun sebagian mereka ngotot berkata, 'Sungguh kami akan bertanya kepadanya! ' Lalu sebagian di antara mereka datang menemui beliau dan berkata, "Wahai abu Qasim, apa nyawa itu?" Nabi shallallhu'lihiwasallam terdiam, maka aku pun tahu bahwa beliau sedang menerima wahyu. Lantas beliau membacakan ayat: '(Dan mereka bertanya kepadamu tentang nyawa, katakanlah 'Bahwasanya nyawa itu urusan Tuhanku, dan tidaklah kalian diberi ilmu kecuali sedikit saja) ' (Qs. Al Isra':)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7462</td></tr><tr><td>Arabic No</td><td>7462</td></tr><tr><td>Reference</td><td>Book 97 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (Ибн Мас‘уд), да будет доволен им Аллах, сказал: «Однажды, когда я вместе с Посланником Аллаха ﷺ опиравшимся на голую пальмовую ветвь, шли через некоторые посевы Медины. Мы прошли мимо группы людей из числа иудеев, и некоторые из них стали говорить другим: “Спросите его о душе”. Другие сказали: “Не спрашивайте его, ибо что бы он ни сказал, вам это не понравится!” Но они сказали: “Мы непременно спросим его”. Тогда один из них встал и сказал: “О Абу аль-Касим, что такое душа?” Пророк ﷺ промолчал, и я понял, что он получает откровение. И тогда (Пророк ﷺ) сказал: “Они станут спрашивать тебя о душе. Скажи: ‹Душа — от повеления моего Господа, а вам дано знать об этом очень мало›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7462</td></tr><tr><td>Arabic No</td><td>7462</td></tr><tr><td>Reference</td><td>Book 97 Hadith 88</td></tr></tbody></table></div>
 

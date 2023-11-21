@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thauban reported that Allah's Messenger (ﷺ) said:Allah drew the ends of the wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ar Rabi' Al Ataki] dan [Qutaibah bin Sa'id], keduanya dari [Hammad bin Zaid] dan teksnya milik Qutaibah, telah menceritakan kepada kami [Hammad] dari [Ayub] dari [Abu Qilabah] dari [Abu Asma'] dari [Tsauban] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya Allah menghimpun bumi untukku lalu aku melihat timur dan baratnya dan sesungguhnya kekuasaan ummatku akan mencapai yang dihimpunkan untukku, aku diberi dua harta simpanan; merah dan putih, dan sesungguhnya aku meminta Rabbku untuk ummatku agar tidak dibinasakan oleh kekeringan menyeluruh, agar Ia tidak memberi kuasa musuh untuk menguasai mereka selain diri mereka sendiri lalu menyerang perkumpulan mereka, dan sesungguhnya Rabbku berfirman: 'Hai Muhammad, sesungguhnya Aku bila menentukan takdir tidak bisa dirubah, sesungguhnya Aku memberikan untuk umatmu agar tidak dibinasakan oleh kekeringan menyeluruh, Aku tidak memberi kuasa musuh untuk menyerang mereka selain diri mereka sendiri lalu mereka menyerang perkumpulan mereka meski mereka dikepung dari segala penjurunya hingga sebagaian dari mereka membinasakan sebagaian lainnya dan saling menawan satu sama lain." Telah menceritakan kepadaku [Zuhair bin Harb], [Ishaq bin Ibrahim], [Muhammad bin Al Mutsanna] dan [Ibnu Basyar], berkata Ishaq: Telah mengkhabarkan kepada kami, sedangkan yang lain berkata: telah menceritakan kepada kami [Mu'adz bin Hiysam] telah menceritakan kepadaku [ayahku] dari [Qatadah] dari [Abu Qilabah] dari [Abu Asma' Ar Rahabi] dari [Tsauban] bahwa nabi Allah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya Allah menghimpun bumi untukku hingga aku melihat timur dan baratnya, dan Ia memberiku dua harta simpanan; merah dan putih." Selanjutnya ia menyebut seperti hadits Ayyub dari Abu Qilabah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7258</td></tr><tr><td>Arabic No</td><td>2889.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7258</td></tr><tr><td>Arabic No</td><td>2889.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 24</td></tr></tbody></table></div>
 

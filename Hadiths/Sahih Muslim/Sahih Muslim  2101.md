@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:The sun eclipsed on one extremely hot day during the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ya'qub bin Ibrahim Ad Dauraqi] telah menceritakan kepada kami [Isma'il bin Ulayyah] dari [Hisyam Ad Dastawa'i] ia berkata, telah menceritakan kepada kami [Abu Zubair] dari [Jabir bin Abdullah] ia berkata; Pernah terjadi gerhana matahari pada masa Rasulullah shallallahu 'alaihi wasallam yakti di saat terik matahari bergitu sangat menyengat. Maka Rasulullah shallallahu 'alaihi wasallam shalat (gerhana) bersama para sahabatnya. Beliau memanjangkan berdirinya hingga para sahabat tersungkur lantas duduk karena keletihan. Kemudian beliau ruku' dan memanjangkan ruku'nya, kemudian bangkit dan memanjangkan berdirinya kembali. Lalu beliau ruku' dan memanjangkan ruku'nya. Sesudah itu, beliau bangkit dan sujud dua kali. Kemudian beliau berdiri dan melakukan hal yang serupa, hingga semuanya menjadi empat raka'at dan empat kali sujud. setelah itu, beliau bersabda: "Sesungguhnya segala sesuatu yang akan kalian masuki telah diperlihatkan kepadaku. Diperlihatkanlah jannah atasku, hingga sekiranya aku memetik setandan buah darinya niscaya aku akan mengambilnya -atau beliau bersabda- Aku mencoba memetik setandan buah darinya namun tanganku tak sampai. Dan neraka juga diperlihatkan padaku, lalu di dalamnya aku melihat seorang wanita dari Bani Isra'il yang sedang disiksa lantaran kucing yang ia ikat dan tidak diberinya makan juga tidak dilepasnya hingga kucing itu bisa makan serangga-serangga bumi. Dan aku juga melihat Abu Tsumamah Amru bin Malik yang sedang terseret punggunggungnya di dalam neraka. Mereka (kaum Jahiliyah) mengatakan bahwa tidaklah terjadi gerhana matahari dan bulan kecuali karena kematian seorang yang agung. Padahal, keduanya adalah ayat dari ayat-ayat Allah yang diperlihatkan-Nya. Maka apabila terjadi gerhana pada keduanya, tunaikanlah shalat hingga nampak kembali." Dan Telah menceritakan kepadaku [Abu Ghassan Al Misma'i] Telah menceritakan kepada kami [Abdul Malik bin Shabah] dari [Hisyam] dengan isnad ini semisalnya. Hanya saja ia menyebutkan: "Dan di dalam neraka aku melihat wanita Himyar yang berkulit hitam berpostur tubuh tinggi." Dan ia tidak menyebutkan, "Dari Bani Isra'il
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса с другим иснадом он сказал: «…и я видел в Огне высокую, чернокожую женщину из племени Химьяр». И не сказал: «…из бану Исраиль»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

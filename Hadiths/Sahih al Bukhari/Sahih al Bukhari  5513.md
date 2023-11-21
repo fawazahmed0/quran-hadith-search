@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham bin Zaid:Anas and I went to Al-Hakam bin Aiyub. Anas saw some bo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Hisyam bin Zaid] ia berkata, "Pernah aku dan Anas menemui Al Hakam bin Ayyub, lalu Anas melihat seorang pemuda memasang seekor ayam untuk sasaran panahnya, maka [Anas] pun berkata, "Nabi shallallahu 'alaihi wasallam telah melarang menjadikan bintang untuk dijadikan sasaran (latihan) tembak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5513</td></tr><tr><td>Arabic No</td><td>5513</td></tr><tr><td>Reference</td><td>Book 72 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хишам ибн Зейд рассказывал: «Я отправился вместе с Анасом (ибн Маликом) к аль-Хакаму ибн Аййубу, и там (Анас) увидел мальчиков или юношей, привязавших курицу к чему-то и стрелявших в нее. Анас сказал: “Пророк ﷺ запрещал держать животных для того, чтобы (потом) убивать (их, превращая в мишень для стрельбы)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5513</td></tr><tr><td>Arabic No</td><td>5513</td></tr><tr><td>Reference</td><td>Book 72 Hadith 39</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Last night a demon from the Jinns 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] Telah menceritakan kepada kami [Rauh] dan [Muhammad bin Ja'far] dari [Syu'bah] dari [Muhammad bin Ziyad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya jin ifrit telah meloncatiku semalam -atau beliau bersabda dengan kalimat yang serupa- untuk memutuskan shalatku maka Allah memberi kekuatan kepadaku darinya, dan sungguh aku ingin mengikatnya di salah satu tiang masjid, lalu pada pagi harinya kalian semua bisa melihatnya." Beliau bersabda lagi: "namun aku teringat akan doa saudaraku Sulaiman; 'Tuhanku anugerahkanlah kepadaku kerajaan yang tidak dimiliki oleh seorangpun sesudahku.' Rauh berkata; "Maka Rasulullah shallallahu 'alaihi wasallam pun melepaskannya dalam keadaan hina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4808</td></tr><tr><td>Arabic No</td><td>4808</td></tr><tr><td>Reference</td><td>Book 65 Hadith 330</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (однажды) Пророк ﷺ сказал: «Поистине, вчера ко мне явился ‘ифрит из числа джиннов, чтобы прервать мою молитву, но Аллах помог мне справиться с ним, и я схватил его. (Сначала) я хотел привязать его к одному из столбов мечети, чтобы утром все вы посмотрели на него, но (потом) вспомнил слова моего брата Сулеймана (, который сказал): “Господь мой! Даруй мне (такую) власть, которой после меня не будет обладать уже никто”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4808</td></tr><tr><td>Arabic No</td><td>4808</td></tr><tr><td>Reference</td><td>Book 65 Hadith 330</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Gabriel came to the Messenger of Allah (ﷺ) while h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Tsabit al-Bunani] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam didatangi Jibril shallallahu 'alaihi wasallam, saat beliau sedang bermain bersama anak-anak. Malaikat itu kemudian mengambil lalu merebahkan beliau, lalu membelah hatinya, mengeluarkan hati dan mengeluarkan segumpal darah darinya seraya berkata, 'Ini bagian setan darimu kemudian mencucinya dalam bejana dari emas dengan air Zamzam', kemudian malaikat menjahitnya dan kemudian mengembalikannya ke tempat semula. Anak-anak lalu datang dan mengadu kepada ibu susuannya, mereka berkata, 'Sesungguhnya Muhammad telah dibunuh.' Orang-orang lalu menyambut beliau dengan wajah pucat pasi (karena ketakutan) '." Anas berkata, "Aku telah melihat bekas jahitan tersebut pada dada beliau." Telah menceritakan kepada kami [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahab] dia berkata, telah mengabarkan kepada kami [Sulaiman] -yaitu Ibnu Bilal- dia berkata, telah menceritakan kepada kami [Syarik bin Abdullah bin Abu Namir] dia berkata, aku mendengar [Anas bin Malik] menceritakan kepada kami tentang malam Rasulullah shallallahu 'alaihi wasallam diisra'kan dari masjid al-Ka'bah, bahwa dia didatangi oleh tiga orang sebelum beliau diberikan wahyu, saat beliau sedang tidur di masjid haram." Perawi lalu melansirkan hadits tersebut dengan kisahnya seperti hadits Tsabit al-Bunani, lalu dia mengajukan suatu kalimat padanya, mengakhirkan, menambahkan, dan mengurangi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>413</td></tr><tr><td>Arabic No</td><td>162.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 318</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса ибн Малика о том, что к Посланнику Аллаха ﷺ пришёл Джибриль в то время, когда он играл с мальчиками. Он схватил его, повалил на землю, рассек ему грудь, достал сердце, извлек оттуда сгусток крови и сказал: “Это удел шайтана в тебе!” Затем он омыл его (сердце) водой Замзама в золотом тазу, привёл его в прежнее состояние и вернул на своё место. Мальчики прибежали к его матери (т.е. к его кормилице или к её мужу) и сказали: “Мухаммада убили!” Когда они встретили его, он был с изменившимся цветом (лица)».Анас сказал: «И я видел на его груди следы от этого шва»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>413</td></tr><tr><td>Arabic No</td><td>162.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 318</td></tr></tbody></table></div>
 

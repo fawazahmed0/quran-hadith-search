@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) fasted for days continuously; the people al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] dari ['Abdullah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam melaksanakan puasa wishal (puasa terus tanpa berbuka) lalu orang-orang mengikutinya yang mengakibatkan mereka kepayahan. Maka Beliau melarang mereka melakukannya. Namun mereka berkata: "Tetapi, bukankah baginda melakukan puasa wishal?". Beliau bersabda: "Aku tidak sama dengan keadaan kalian karena aku senantiasa diberi makan dan minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1922</td></tr><tr><td>Arabic No</td><td>1922</td></tr><tr><td>Reference</td><td>Book 30 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ постился несколько дней не совершая разговение, и люди стали делать так же, но это стало сложным для них, и он запретил им это. Люди сказали: «Но ведь ты соблюдаешь пост таким образом!» Он сказал: «Я отличаюсь от вас. Меня кормят и поят»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1922</td></tr><tr><td>Arabic No</td><td>1922</td></tr><tr><td>Reference</td><td>Book 30 Hadith 31</td></tr></tbody></table></div>
 

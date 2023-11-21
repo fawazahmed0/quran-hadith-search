@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Alqama:I went to Sham and offered a two-rak'at prayer and then said, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Malik bin Isma'il] telah bercerita kepada kami [Isra'il] dari [Al Mughirah] dari [Ibrahim] dari ['Alqamah] berkata; "Aku pernah berkunjung ke negeri Syam lalu shalat dua raka'at disana kemudian aku berdo'a; "Ya Allah, mudahkanlah aku untuk dapat bermajelis dengan orang shalih". Kemudian aku mendatangi kaum lalu aku bermajelis bersama mereka. Tiba-tiba datang orang yang sudah tua lalu dia duduk di sampingku. Aku bertanya; "Siapakah orang tua ini?". Mereka menjawab; "Dia adalah [Abu ad-Darda' radliallahu 'anhu] ". Maka aku berkata; "Sungguh aku telah berdo'a kepada Allah agar memudahkanaku bisa bermajelis dengan orang shalih dan ternyata Allah menjadikan anda untukku". Abu ad-Darda' bertanya; "Kamu berasal dari mana?". Aku jawab; "Dari Kufah". Dia berkata lagi; "Bukankah bersama kalian disana ada Ibnu Ummu 'Abd, pembawa sepasang sandal (nabi shallallahu 'alaihi wasallam), pemilik tikar dan bejana? (maksudnya adalah 'Abdullah bin Mas'ud radliallahu 'anhu).. Sungguh bersama kalian disana ada orang yang telah Allah jauhkan dari setan yakni melalui lisan Nabi-Nya shallallahu 'alaihi wasallam (maksudnya 'Ammar bn Yasir radliallahu 'anhu). Bukankah bersama kalian disana ada orang yang mengetahui detail kehidupan Nabi shallallahu 'alaihi wasallam yang tidak ada orang lain yang mengetahuinya kecuali dia". (maksudnya Hudzaifah bin Al Yaman radliallahu 'anhu). Kemudian dia bertanya lagi; "Bagaimana 'Abdullah membaca firman Allah: ("Wal laili idzaa yaghsyaa")?. Maka aku bacakan kepadanya; ('Wal laili idzaa yaghsyaa, wan nahaari idzaa tajallaa, wadz dzkara wal untsaa"). Abu ad-Darda' berkata; "Demi Allah, sungguh Rasulullah shallallahu 'alaihi wasallam telah membacakannya dari mulut beliau langsug kepada mulutku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3742</td></tr><tr><td>Arabic No</td><td>3742</td></tr><tr><td>Reference</td><td>Book 62 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькама сказал: «Прибыв в Шам, я вошёл в мечеть, совершил молитву в два рак‘ата, и сказал: “О Аллах, помоги мне (найти) праведного собеседника!” После этого я подошёл к каким-то людям и подсел к ним, а затем пришёл какой-то старец и сел рядом со мной. Я спросил: “Кто это?” Люди ответили: “Абу-д-Дарда”. Тогда я сказал ему: “Поистине, я молил Аллаха о том, чтобы Он помог мне найти праведного собеседника, и Он помог мне найти тебя!” Абу-д-Дарда спросил: “Откуда ты?” Я ответил: “Я из жителей Куфы”. Он спросил: “Так разве нет среди вас владельца сандалий, подушки и воды для очищения? И того, кого Аллах защитил (от шайтана) по просьбе Своего Пророка ﷺ? А разве нет среди вас хранителя секретов Пророка ﷺ, которому известно то, чего никто больше не знает?” (После этого Абу-д-Дарда) спросил: “Как ‘Абдуллах (ибн Мас‘уд) читает (суру, в которой сказано): “Клянусь ночью, когда она (всё) покрывает (мраком)...”? Я прочитал: “Клянусь ночью, когда она (всё) покрывает (мраком), клянусь днём, когда предстаёт он в полном блеске. Клянусь мужчиной и женщиной...” (Тогда Абу-д-Дарда) воскликнул: “Клянусь Аллахом, Посланник Аллаха ﷺ учил меня читать эту суру из уст в уста”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3742</td></tr><tr><td>Arabic No</td><td>3742</td></tr><tr><td>Reference</td><td>Book 62 Hadith 87</td></tr></tbody></table></div>
 

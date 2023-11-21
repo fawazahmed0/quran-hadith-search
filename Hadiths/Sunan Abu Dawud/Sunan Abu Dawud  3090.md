@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Muhammad ibn Khalid as-Sulami: on his father's authority said his grand
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], dan [Ibrahim bin Mahdi As Salami] secara makna, keduanya berkata; telah menceritakan kepada kami [Abu Al Malih] dari [Muhammad bin Kholid]. Abu Daud berkata; telah berkata [Ibrohim bin Mahdi As Salami]; dari [ayahnya] dari [kakeknya] dan ia pernah menyertai Rasulullah shallallahu 'alaihi wasallam. ia berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya seorang hamba, apabila pernah memiliki kedudukan dari Allah, yang tidak ia peroleh dengan amalannya maka Allah mengujinya pada jasadnya, harta, atau pada anaknya." Abu Daud berkata; kemudian Ibnu Nufail menambahkan; kemudian Allah memberikan kesabaran atas hal tersebut. -kemudian keduanya lafazhnya sama-: "Hingga Allah menyampaikannya kepada kedudukan yang dahulu ia peroleh dari Allah ta'ala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3090</td></tr><tr><td>Arabic No</td><td>3090</td></tr><tr><td>Reference</td><td>Book 21 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухаммад ибн Халид ас-Сулями передаёт со слов своего отца от своего деда, который был сподвижником Посланника Аллаха ﷺ: «Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, если раб не достигает отведённого ему Аллахом положения посредством своих дел, Аллах подвергает его испытаниям, которые затрагивают его тело, имущество или детей (Ибн Науфаль добавил: “а потом внушает ему терпение”), и это продолжается до тех пор, пока он не достигнет положения, которое предопределил ему Всевышний Аллах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3090</td></tr><tr><td>Arabic No</td><td>3090</td></tr><tr><td>Reference</td><td>Book 21 Hadith 2</td></tr></tbody></table></div>
 

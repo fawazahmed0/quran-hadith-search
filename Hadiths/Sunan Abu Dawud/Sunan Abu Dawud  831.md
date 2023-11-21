@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sahl b. Sa’d al-Sa’idi said:The Messenger of Allah(ﷺ) one day came out to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku ['Amru] dan [Ibnu Lahi'ah] dari [Bakr bin Sawadah] dari [Wafa' bin Syuraikh Ash Shadafi] dari [Sahl bin Sa'ad As Sa'idi] dia berkata; Rasulullah shallallahu 'alaihi wasallam menemui kami, sementara kami sedang membaca Al Qur'an, maka beliau bersabda: "Segala puji bagi Allah kitab Allah hanya satu, padahal di antara kalian ada bangsa yang berkulit merah, putih dan hitam, bacalah Al Qur'an tersebut, sebelum di baca oleh suatu kaum, mereka membacanya dengan lurus sebagaimana meluruskan anak panah, mereka mengharap pahalanya yang disegerakan di dunia, dan tidak mengharap pahala yang ditangguhkan di akhirat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>831</td></tr><tr><td>Arabic No</td><td>831</td></tr><tr><td>Reference</td><td>Book 2 Hadith 441</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сахля ибн Са‘да ас-Са‘иди, да будет доволен им Аллах: «Однажды Посланник Аллаха ﷺ вышел к нам, когда мы читали Коран, и сказал: “Хвала Аллаху, Книга Аллаха одна, а среди вас есть краснокожие, белокожие и чернокожие. Читайте его до того, как станут читать его люди, которые будут читать его подобно тому, как выравнивают стрелу, спеша обрести (посредством него) мирские блага вместо награды в мире вечном”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>831</td></tr><tr><td>Arabic No</td><td>831</td></tr><tr><td>Reference</td><td>Book 2 Hadith 441</td></tr></tbody></table></div>
 

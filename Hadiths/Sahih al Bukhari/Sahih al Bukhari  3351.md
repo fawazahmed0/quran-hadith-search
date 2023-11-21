@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) entered the Ka'ba and found in it the pict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Sulaiman] berkata telah bercerita kepadaku [Ibnu Wahb] berkata telah bercerita kepadaku ['Amru] bahwa [Bukair] bercerita kepadanya dari [Kuraib, maula Ibnu 'Abbas] dari [Ibnu 'Abbas radliallahu 'anhu] berkata; "Nabi shallallahu 'alaihi wasallam masuk kedalam al-Bait (Ka'bah) dan Beliau dapatkan patung Nabi Ibrahim dan patung Maryam, maka Beliau bersabda: "Tidakkah mereka mendengar bahwa malaikat tidak akan masuk ke dalam rumah yang di dalamnya ada gambar (patung)?. Ini patung Ibrahim (yang diperlambangkan seseorang yang hobi mengundi nasib) padahal dia tidak pernah (mengajarkan) mengundi nasib (dengan melempar anak panah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3351</td></tr><tr><td>Arabic No</td><td>3351</td></tr><tr><td>Reference</td><td>Book 60 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Когда Пророк ﷺ вошёл в Каабу и увидел в ней изображения Ибрахима и Марьям, он сказал: “Что с ними (то есть курайшитами)?! Они же слышали, что ангелы не входят в дом, в котором есть изображения! Почему Ибрахим изображён гадающим на стрелах?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3351</td></tr><tr><td>Arabic No</td><td>3351</td></tr><tr><td>Reference</td><td>Book 60 Hadith 26</td></tr></tbody></table></div>
 

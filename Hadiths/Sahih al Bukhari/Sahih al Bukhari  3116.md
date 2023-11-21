@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muawiya:Allah's Messenger (ﷺ) said, "If Allah wants to do good for so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hibban bin Musa] telah mengabarkan kepada kami ['Abdullah] dari [Yunus] dari [Az Zuhriy] dari [Humaid bin 'Abdur Rahman] bahwa dia mendengar [Mu'awiyah] berkata; Rasulullah Shallallahu'alaiwasallam bersabda: "Siapa yang Allah kehendaki baik pada dirinya maka Allah akan pahamkan orang itu dalam urusan agama. Allah adalah Yang Maha Pemberi sedangkan aku Al Qasim (yang membagi-bagi) dan akan senantiasa ummat ini menang atas orang-orang yang menyelisihi mereka hingga datang urusan Allah, sedang mereka berjaya (dengan kemenangan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>3116</td></tr><tr><td>Reference</td><td>Book 57 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хумайд Ибн ‘Абдуррахман слышал, как Му‘авийа (ибн Абу Суфьян), да будет доволен им Аллах, говорил: «Посланник Аллаха ﷺ сказал: “Кому Аллах желает блага, тому Он даёт понимания в религии. И Аллах дарует, а я только распределяю. И не перестанет эта община одерживать верх над теми, кто им противоречит. И так будет до тех пор, пока не придёт повеление Аллаха, и они будут явно (на этом)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>3116</td></tr><tr><td>Reference</td><td>Book 57 Hadith 25</td></tr></tbody></table></div>
 

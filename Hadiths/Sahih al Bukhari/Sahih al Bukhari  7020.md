@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father:about the Prophet's dream in which he has seen Abu Bakr 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Salim] dari [ayahnya] tentang mimpi Nabi shallallahu 'alaihi wasallam berkaitan dengan Abu Bakar dan Umar, beliau bersabda: "aku melihat orang-orang berkumpul, kemudian Abu Bakar berdiri dan menarik ember atau dua ember dan dalam tarikannya ada kelemahan, Allah pun mengampuninya, kemudian Umar bin Khattab berdiri dan tiba-tiba ember tersebut berubah menjadi besar, aku tidak pernah melihat seorang jenius yang beramal serius (gigih) seperti kegigihannya, sehingga orang banyak bisa minum dengan kenyang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7020</td></tr><tr><td>Arabic No</td><td>7020</td></tr><tr><td>Reference</td><td>Book 91 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим (ибн ‘Абдуллах ибн ‘Умар) передаёт со слов своего отца, что Пророк ﷺ увидел во сне Абу Бакра и ‘Умара (и сказал): «Во сне я увидел собравшихся людей, и тут (со своего места) встал Абу Бакр и вытащил (из источника) одно или два полных ведра, и он делал это со слабостью, да простит его Аллах! Затем встал Ибн аль-Хаттаб и оно превратилось в огромную кожаную бадью. И я не видел среди людей другого вождя, который делал бы своё дело так искусно и властно как он, (и это продолжалось,) пока (все) люди (не напились сами и не напоили своих верблюдов), отведя их от водопоя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7020</td></tr><tr><td>Arabic No</td><td>7020</td></tr><tr><td>Reference</td><td>Book 91 Hadith 37</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas reported that when the Prophet (May peace be upon him) was question
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [ibnu Abbas] berkata, "Nabi shallallahu 'alaihi wasallam pernah ditanya tentang anak-anak kaum musyrikin? Beliau lalu menjawab: "Allah lebih tahu dengan yang mereka lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1383) Sahih Muslim (2660)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4711</td></tr><tr><td>Arabic No</td><td>4711</td></tr><tr><td>Reference</td><td>Book 42 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророка ﷺ спросили об (умерших) детях многобожников и он сказал: «Аллаху известно о том, что они делали бы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1383) Sahih Muslim (2660)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4711</td></tr><tr><td>Arabic No</td><td>4711</td></tr><tr><td>Reference</td><td>Book 42 Hadith 116</td></tr></tbody></table></div>
 

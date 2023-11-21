@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:'Uthman bin 'Affan and I went to the Prophet (ﷺ) an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4229</td></tr><tr><td>Arabic No</td><td>4229</td></tr><tr><td>Reference</td><td>Book 64 Hadith 267</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джубайр ибн Мут‘им сказал: «Я пришёл вместе с ‘Усманом ибн ‘Аффаном к Пророку ﷺ, и мы сказали: “Ты наделил людям из бану аль-мутталиб пятую часть Хайбара, но ничего не дал нам, а ведь мы состоим с тобой в родстве такой же степени, как и они”. Посланник Аллаха ﷺ сказал: “Бану хашим и бану аль-мутталиб — это одно целое”». \nДжубайр сказал: «И Пророк ﷺ ничего не дал из пятой части ни бану ‘абд шамс, ни бану науфаль»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4229</td></tr><tr><td>Arabic No</td><td>4229</td></tr><tr><td>Reference</td><td>Book 64 Hadith 267</td></tr></tbody></table></div>
 

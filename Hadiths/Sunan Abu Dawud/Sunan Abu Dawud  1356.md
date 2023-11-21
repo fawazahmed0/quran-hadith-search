@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:I spent a night with my maternal aunt Maimunah. The Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Muhammad bin Qais Al Asadi] dari [Al Hakam bin 'Utaibah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata; "Aku pernah bermalam di rumah bibiku Maimunah, lalu Rasulullah shallallahu 'alaihi wasallam datang setelah waktu sore tiba, maka beliau bersabda: "Apakah anak ini sudah shalat?" mereka menjawab; "Ya, sudah." Kemudian beliau berbaring, setelah malam berlalu sebagaimana yang Allah kehendaki, beliau bangun, berwudlu' kemudian shalat tujuh atau lima raka'at dengan shalat witirnya, beliau tidak salam kecuali di raka'at terakhir (raka'at ke tujuh atau ke lima)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (117)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1356</td></tr><tr><td>Arabic No</td><td>1356</td></tr><tr><td>Reference</td><td>Book 5 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Ибн ‘Аббас, да будет доволен Аллах им и его отцом: «Однажды я остался на ночь в доме своей тётки Маймуны. Посланник Аллаха ﷺ пришёл, когда стемнело, и спросил: “Мальчик совершил молитву?” Ему сказали: “Да”. Тогда он лёг спать, а когда от ночи прошло столько, сколько пожелал Аллах, он встал, совершил малое омовение и совершил то ли семь, то ли пять рак‘атов, то есть нечётное число, произнеся таслим только в конце их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (117)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1356</td></tr><tr><td>Arabic No</td><td>1356</td></tr><tr><td>Reference</td><td>Book 5 Hadith 107</td></tr></tbody></table></div>
 

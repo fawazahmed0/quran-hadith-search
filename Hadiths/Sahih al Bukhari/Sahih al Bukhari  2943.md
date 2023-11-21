@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Whenever Allah's Messenger (ﷺ) attacked some people, he would ne
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Mu'awiyah bin 'Amru] telah bercerita kepada kami [Abu Ishaq] dari [Humaid] berkata aku mendengar [Anas radliallahu 'anhu] berkata; "Adalah Rasulullah shallallahu 'alaihi wasallam apabila memerangi suatu kaum, Beliau tidak memeranginya hingga datang waktu shubuh. Apabila mendengar suara adzan Beliau menahan diri dan apabila tidak mendengar adzan, Beliau lantas memeranginya setelah waktu shubuh. Dahulu kami mendatangi Khaibar (untuk berperang) pada malam hari". Telah bercerita kepada kami [Qutaibah] telah bercerita kepada kami [Isma'il bin Ja'far] dari [Humaid] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam: "Adalah Nabi shallallahu 'alaihi wasallam bila berperang bersama kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2943</td></tr><tr><td>Arabic No</td><td>2943</td></tr><tr><td>Reference</td><td>Book 56 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ отправлялся в военный поход против людей (из какого-нибудь племени), он не нападал на них до утра, а ждал, и, если слышал азан, не трогал (этих людей), а если не слышал его, то атаковал их после того, как наступало утро. Мы добрались до Хайбара ночью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2943</td></tr><tr><td>Arabic No</td><td>2943</td></tr><tr><td>Reference</td><td>Book 56 Hadith 155</td></tr></tbody></table></div>
 

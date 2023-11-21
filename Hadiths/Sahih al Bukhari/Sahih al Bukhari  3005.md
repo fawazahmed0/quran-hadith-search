@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bashir Al-Ansari:That he was in the company of Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Abdullah bin Abu Bakar] dari ['Abbad bin Tamim] bahwa [Abu Basyir Al Anshoriy radliallahu 'anhu] mengabarkan kepadanya bahwa dia pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan Beliau. 'Abdullah berkata; "Aku menduga dia berkata; "dan ketika itu orang-orang sedang bermalam di tempat mereka", lalu Rasulullah shallallahu 'alaihi wasallam mengutus seorang utusan agar tidak membiarkan pada leher-leher unta seutas talipun yang digunakan untuk mengikat panah atau seuatas kalung melainkan harus dipotong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3005</td></tr><tr><td>Arabic No</td><td>3005</td></tr><tr><td>Reference</td><td>Book 56 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Башира аль-Ансари, да будет доволен им Аллах, что, когда он сопровождал Посланника Аллаха ﷺ в одной из его поездок и люди уже устроились на ночлег, Посланник Аллаха ﷺ направил к ним (своего) посланца(, чтобы тот передал им его слова): «Пусть на шее верблюда не останется ни одной повязки из сухожилий (или: повязки)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3005</td></tr><tr><td>Arabic No</td><td>3005</td></tr><tr><td>Reference</td><td>Book 56 Hadith 214</td></tr></tbody></table></div>
 

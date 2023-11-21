@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:While I was with the Prophet (ﷺ) in one of the gardens of Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3693</td></tr><tr><td>Arabic No</td><td>3693</td></tr><tr><td>Reference</td><td>Book 62 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса аль-Аш‘ари, да будет доволен им Аллах, сказал: «Однажды я был вместе с Пророком ﷺ в одном из садов Медины. (Через некоторое время туда) пришёл какой-то человек и попросил разрешения войти, а Пророк ﷺ сказал: “Открой ему (врата) и обрадуй его Раем”. Оказалось, что это был Абу Бакр. Я обрадовал его словами Пророка ﷺ, а он воздал хвалу Аллаху. Затем пришёл другой человек и попросил разрешения войти. Пророк ﷺ сказал: “Открой ему (врата) и обрадуй его Раем”. Я открыл и оказалось, что это был ‘Умар. Я обрадовал его словами Пророка ﷺ, а он воздал хвалу Аллаху. Затем пришёл другой человек и попросил разрешения войти. Пророк ﷺ сказал: “Открой ему (врата) и обрадуй его Раем после беды, которая постигнет его”. Оказалось, что это был ‘Усман. Я обрадовал его словами Посланника Аллаха ﷺ, а он воздал хвалу Аллаху и сказал: “Лишь к Аллаху следует обращаться за помощью!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3693</td></tr><tr><td>Arabic No</td><td>3693</td></tr><tr><td>Reference</td><td>Book 62 Hadith 43</td></tr></tbody></table></div>
 

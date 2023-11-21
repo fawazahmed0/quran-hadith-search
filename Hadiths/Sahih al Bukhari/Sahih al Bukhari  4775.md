@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "No child is born except on A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] dia berkata; Telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Seorang bayi tidak dilahirkan (ke dunia ini) melainkan ia berada dalam kesucian (fitrah). Kemudian kedua orang tuanyalah yang akan membuatnya menjadi Yahudi, Nasrani, ataupun Majusi -sebagaimana hewan yang dilahirkan dalam keadaan selamat tanpa cacat. Maka, apakah kalian merasakan adanya cacat? ' kemudian beliau membaca firman Allah yang berbunyi: '…tetaplah atas fitrah Allah yang telah menciptakan manusia menurut fitrahnya itu. Tidak ada perubahan atas fitrah Allah.' (QS. Ar Ruum (30):
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4775</td></tr><tr><td>Arabic No</td><td>4775</td></tr><tr><td>Reference</td><td>Book 65 Hadith 297</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Каждый младенец рождается на “фитре” (т.е. естество или врожденное чувство ислама), а уже потом родители делают из него иудея, христианина или огнепоклонника. Подобно тому, как верблюды появляются на свет целыми, видел ли ты среди них верблюда, (родившегося) с отрезанной конечностью?» Затем Абу Хурайра, да будет доволен им Аллах, добавил: «Таково врожденное качество, с которым Аллах сотворил людей. Творение Аллаха не подлежит изменению. Такова правая вера…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4775</td></tr><tr><td>Arabic No</td><td>4775</td></tr><tr><td>Reference</td><td>Book 65 Hadith 297</td></tr></tbody></table></div>
 

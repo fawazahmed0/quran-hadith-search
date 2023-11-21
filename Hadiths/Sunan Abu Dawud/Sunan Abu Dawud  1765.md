@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Qurt: The Prophet (ﷺ) said: The greatest day in Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ibrahim bin Musa Ar Razi], telah mengabarkan kepada Kami [Isa]. Dan telah diriwayatkan dari jalur yang lain: telah menceritakan kepada Kami [Musaddad], telah mengabarkan kepada Kami [Isa], dan ini adalah lafazh Ibrahim, dari [Tsaur] dari [Rasyid bin Sa'd] dari [Abdullah bin 'Amir bin Luhai] dari [Abdullah bin Qurth] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya hari yang teragung di sisi Allah tabaraka wa ta'ala adalah hari Nahr (Hari Raya Kurban), kemudian hari setelah hari Nahr." Isa berkata; Tsaur berkata; yaitu hari kedua. Ia berkata; dan telah didekatkan kepada Rasulullah shallAllahu wa'alaihi wa sallam lima atau enam ekor unta. Unta-unta tersebut mendekat kepadanya, beliau memulai dengan unta yang manapun. Kemudian tatkala telah terjatuh beliau mengucapkan sebuah kalimat yang samar, saya tidak memahaminya. Lalu saya katakan; apakah yang beliau katakana? Ia mengatakan; "Barang siapa yang menginginkan maka boleh ia mengambil sepotong darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1765</td></tr><tr><td>Arabic No</td><td>1765</td></tr><tr><td>Reference</td><td>Book 11 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Курта, что Пророк ﷺ сказал: «Величайший из дней у Аллаха день жертвоприношения и день отдыха /аль-карр/». ‘Иса передаёт, что Саур сказал: «Это второй день». (‘Абдуллах) сказал: «К Посланнику Аллаха ﷺ подвели пять или шесть верблюдиц, и они приблизились к нему [будто каждая желала, чтобы] он начал с неё. Потом, когда их бока коснулись земли, Посланник Аллаха ﷺ сказал что-то так тихо, что я не понял. Тогда я спросил: «Что он сказал?» Мне ответили: «Он сказал: “Кто хочет, может отрезать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1765</td></tr><tr><td>Arabic No</td><td>1765</td></tr><tr><td>Reference</td><td>Book 11 Hadith 45</td></tr></tbody></table></div>
 

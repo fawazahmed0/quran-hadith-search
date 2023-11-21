@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:On the day of (the battle of) the Trench, the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah bin Al Madini] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Ibnul Munkadir] berkata, "Aku mendengar [Jabir bin Abdullah] berkata, "Pada perang Khandaq Rasulullah shallallahu 'alaihi wasallam memberi sebuah anjuran. Anjuran itu langsung dikerjakan oleh Zubair. Rasul memberi anjuran mereka lagi, dan secara spontan anjuran itu dikerjakan oleh Zubair. Nabi memberi anjuran lagi, dan lagi-lagi segera disambut oleh Zubair (ia mengulanginya tiga kali). Lantas nabi bersabda: "Setiap nabi mempunyai pembela, dan pembelaku adalah Zubair." Sufyan berkata, "Aku menghafalnya dari Ibnul munkadir, " Ayyub kemudian berkata kepadanya (Sufyan), 'Wahai Abu Bakar, ceritakanlah kepada mereka yang berasal dari Jabir, sebab orang-orang itu merasa senang jika engkau menceritakan kepada mereka dari Jabir! Kemudian Sufyan berkata di majlis tersebut "Aku mendengar Jabir -lantas ia perkuat antara hadis-hadis-, 'Aku mendengar Jabir." Aku bertanya kepada Sufyan, "'Ats Tsauri berkata bahwa itu terjadi di hari perang Quraizhah, lantas ia katakan, 'Demikian aku menghafalnya dari Jabir, sebagaimana engkau duduk di perang Khandaq.' Sufyan berkata, 'Itu terjadi sama-sama dalam satu hari, ' lantas Sufyan tersenyum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7261</td></tr><tr><td>Arabic No</td><td>7261</td></tr><tr><td>Reference</td><td>Book 95 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн аль-Мункадир сказал: «Я слышал, как Джабир ибн ‘Абдуллах, да будет доволен ими обоими Аллах, говорил: «Во время битвы у рва Пророк ﷺ стал побуждать людей и отозвался на это аз-Зубайр (ибн аль-‘Аввам). Затем он (снова) стал побуждать их и (снова) отозвался аз-Зубайр. Затем он (снова) стал побуждать их и (снова) отозвался аз-Зубайр, и так три раза. И Пророк ﷺ сказал: «Поистине, у каждого пророка был свой апостол [или последователь; ученик], а моим апостолом является аз-Зубайр!»\nСуфьян сказал: «Я эти слова запомнил от Ибн аль-Мункадира, и Аюб (ас-Сахтияни) сказал Ибн аль-Мункадиру: «О Абу Бакр, расскажи им (хадис) от Джабира, ибо людям нравится, когда ты рассказываешь им от Джабира. И тогда ибн аль-Мункадир сказал, (находясь) в том собрании: «Я слышал Джабира» — таким образом рассказав друг за другом (несколько) хадисов, (начиная со слов) «Я слышал Джабира». Я (‘Али ибн аль-Мадиний) сказал Суфьяну: «Поистине, (Суфьян) ас-Саурий сообщил, (что это было) в походе на бану курайза». Тогда Суфьян ибн ‘Уейна сказал: «Именно таким ясным образом я заучил (данный хадис) от (Ибн аль-Мункадира), подобно тому как ты сидишь тут сейчас, а это было «во время битвы у рва». Суфьян ибн ‘Уейна сказал: «Это было в одно время», и затем Суфьян (ибн ‘Уейна) улыбнулся
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7261</td></tr><tr><td>Arabic No</td><td>7261</td></tr><tr><td>Reference</td><td>Book 95 Hadith 15</td></tr></tbody></table></div>
 

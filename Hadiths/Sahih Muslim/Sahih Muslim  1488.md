@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) reported:He who likes to meet Allah tomorrow as Muslim, he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Al Fadl bin Dukain] dari [Abu Al Umais] dari [Ali bin Al Aqmar] dari [Abu Al Ahwash] dari [Abdullah], katanya; "Siapa berkehendak menjumpai Allah besok sebagai seorang muslim, hendaklah ia jaga semua shalat yang ada, dimanapun ia mendengar panggilan shalat itu, sesungguhnya Allah telah mensyare'atkan kepada nabi kalian sunnah-sunnah petunjuk, dan sesungguhnya semua shalat, diantara sunnah-sunnah petunjuk itu, kalau kalian shalat di rumah kalian sebagaimana seseorang yang tidak hadir di masjid, atau rumahnya, berarti telah kalian tinggalkan sunnah nabi kalian, sekiranya kalian tinggalkan sunnah nabi kalian, sungguh kalian akan sesat, tidaklah seseorang bersuci dengan baik, kemudian ia menuju salah satu masjid yang ada, melainkan Allah menulis kebaikan baginya dari setiap langkah kakinya, dan dengannya Allah mngngkat derajatnya, dan menghapus kesalahan karenanya, menurut pendapat kami, tidaklah seseorang ketinggalan dari shalat, melainkan dia seorang munafik yang jelas kemunafikannya (munafik tulen), sungguh dahulu seseorang dari kami harus dipapah diantara dua orang hingga diberdirikan si shaff (barisan) shalat yang ada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>654.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 321</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд, да будет доволен им Аллах, сказал: Пусть тот из вас, кто будет рад завтра встретить Аллаха мусульманином, неуклонно совершает эти молитвы там, где о них будут возглашать. Поистине, Аллах установил для вашего Пророка ﷺ обычаи /сунан/ правильного пути и, поистине, эти молитвы относятся к числу обычаев правильного пути, если же вы станете молиться в своих домах, как поступает этот (человек,) остающийся у себя дома, (это будет означать,) что вы отказались от сунны вашего пророка, а если вы откажетесь от сунны вашего пророка, то непременно собьётесь с пути. Что же касается нас, то не пропускал (общей молитвы) никто, кроме лицемеров, известных своим лицемерием, и бывало так, что человека приводили (в мечеть) двое других, чтобы (помочь ему занять место) в ряду (других молящихся).В другой версии этого хадиса сообщается, что он сказал: Поистине, Посланник Аллаха ﷺ учил нас обычаям правильного пути (, а к числу их) относится и совершение молитвы в мечети, в которой возглашается азан
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>654.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 321</td></tr></tbody></table></div>
 

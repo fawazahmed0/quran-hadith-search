@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Humaid As-Saidi:The people said, "O Allah's Messenger (ﷺ) ! How m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abdullah bin Abu Bakr] dari [Ayahnya] dari ['Amru bin Sulaim Az Zuraqi] dia berkata; telah mengabarkan kepadaku [Abu Humaid As Sa'idi] bahwa mereka berkata; "Wahai Rasulullah, bagaimana kita bershalawat kepadamu?" beliau bersabda: "Ucapkanlah; ALLAHUMMA SHALLI 'ALAA MUHAMMADIN WA AZWAAJIHI WA DZURRIYYATIHII KAMAA SHALLAITA 'ALAA AALI IBRAHIM WA BAARIK 'ALAA MUHAMMADIN WA AZWAAJIHI WA DZURRIYYATIHII KAMAA BAARAKTA 'ALAA AALI IBRAHIM INNAKA HAMIIDUN MAJIID" (Ya Allah berilah shalawat kepada Muhammad, istri-istrinya dan anak keturunannya sebagaimana Engkau telah memberi shalawat kepada keluarga Ibrahim dan berilah barakah kepada Muhammad, istri-istrinya dan anak keturunannya sebagaimana Engkau telah memberi barakah kepada keluarga Ibrahim. Sesungguhnya Engkah Maha Terpuji dan Maha Mulia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6360</td></tr><tr><td>Arabic No</td><td>6360</td></tr><tr><td>Reference</td><td>Book 80 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хумайд ас-Са‘иди, да будет доволен им Аллах, передаёт, что однажды люди спросили: «О Посланник Аллаха, как нам возносить мольбы за тебя?» Он ответил: «Говорите: “О Аллах, благослови Мухаммада, его жён и его потомство, как благословил Ты семейство Ибрахима, и пошли благословения Мухаммаду, его жёнам и его потомству, как послал Ты их семейству Ибрахима, поистине, Ты — Достойный похвалы, Славный!”».\n/Аллахумма, салли ‘аля Мухаммадин ва ‘аля азваджи-хи ва зурриййати-хи ка-ма салляйта ‘аля али Ибрахима, ва барик ‘аля Мухаммадин ва азваджи-хи ва зурриййати-хи ка-ма баракта ‘аля али Ибрахима, инна-ка Хамидун, Маджид
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6360</td></tr><tr><td>Arabic No</td><td>6360</td></tr><tr><td>Reference</td><td>Book 80 Hadith 57</td></tr></tbody></table></div>
 

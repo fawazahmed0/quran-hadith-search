@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:When Hafsa, 'Umar's daughter became a widow because
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada kami [Hisyam] Telah mengabarkan kepada kami [Ma'mar] Telah menceritakan kepada kami [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [Salim] bahwa [Ibnu Umar] Telah mengabarkan kepadanya, bahwasanya; Ketika Hafshah binti Umar menjadi janda lantaran wafat Ibnu Hudzafah As Sahmi -ia termasuk salah seorang sahabat Nabi shallallahu 'alaihi wasallam, ahli Badar yang wafat di Madinah- maka Umar berkata; Aku menemui Utsman bin Affan dan menawarkan Hafshah padanya, kukatakan padanya, "Jika kamu mau, maka aku akan menikahkan Hafshah denganmu." Ia berkata, "Aku akan memikirkannya terlebih dahulu." Maka aku pun menunggu beberapa malam, lalu ia mendatangiku dan berkata, "Aku telah mengambil keputusan, bahwa aku tidak akan menikah untuk hari-hari ini." Kemudian aku menemui Abu Bakar dan berkata, "Jika kamu mau, aku akan menikahkan Hafshah denganmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5129</td></tr><tr><td>Arabic No</td><td>5129</td></tr><tr><td>Reference</td><td>Book 67 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Умар рассказывал: «(После того, как) дочь ‘Умара Хафса лишилась своего мужа Ибн Хузафы ас-Сахми, который был одним из сподвижников Пророка ﷺ, участвовал в битве при Бадре и умер в Медине. ‘Умар сказал: “Я повстречался с ‘Усманом и предложил ему (в жены) Хафсу, сказав: “Если хочешь, я выдам за тебя Хафсу”. (В ответ) он сказал: “Я подумаю над этим”. И я (ждал несколько) дней, (а потом) он сказал (мне): “Я думаю, что не стану жениться сейчас”. (Через некоторое время) я встретил Абу Бакра и сказал: “Если хочешь, я выдам за тебя Хафсу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5129</td></tr><tr><td>Arabic No</td><td>5129</td></tr><tr><td>Reference</td><td>Book 67 Hadith 65</td></tr></tbody></table></div>
 

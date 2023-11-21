@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Nu'man b. Bashir who said:As I was (sit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hasan bin Ali Al Khulwani] telah menceritakan kepada kami [Abu Taubah] telah menceritakan kepada kami [Mu'awiyah bin Salam] dari [Zaid bin Salam] bahwa dia mendengar [Abu Salam] berkata; telah menceritakan kepadaku [An Nu'man bin Basyir] dia berkata, "Saya pernah berada di sisi mimbar Rasulullah shallallahu 'alaihi wasallam, tiba-tiba saya mendengar seorang laki-laki berkata, "Saya tidak mementingkan suatu amalan setelah saya masuk Islam kecuali menjamu para Jama'ah haji." Sedangkan yang lain mengatakan, "Saya tidak mementingkan suatu amalan setelah saya masuk Islam kecuali memakmurkan Masjidil Haram." Dan yang lainnya lagi mengatakan, "Jihad fi sabilillah itu lebih baik dari apa yang kalian katakan tadi." Lalu mereka ditegur oleh Umar saraya berkata, "Janganlah kalian meninggikan suara kalian di sisi mimbar Rasulullah shallallahu 'alaihi wasallam, bukankah hari ini adalah hari Jum'at?" Setelah selesai shalat Jum'at, saya datang menemui beliau untuk meminta fatwa tentang apa yang diperselisihkan mereka, maka turunkah ayat: '(Apakah (orang-orang) yang memberi minuman orang-orang yang mengerjakan haji dan mengurus Masjidilharam kamu samakan dengan orang-orang yang beriman kepada Allah dan hari Kemudian serta bejihad di jalan Allah? …) ' (Qs. At Taubah: 19) sampai akhir ayat." Dan telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] telah menceritakan kepada kami [Yahya bin Hasan] telah menceritakan kepada kami [Mu'awiyah] telah mengabarkan kepadaku [Zaid] bahwa dia mendengar [Abu Salam] berkata; telah menceritakan kepadaku [An Nu'man bin Basyir] dia berkata, "Ketika saya berada di sisi mimbar Rasulullah shallallahu 'alaihi wasallam…seperti hadits Abu Taubah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871</td></tr><tr><td>Arabic No</td><td>1879.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871</td></tr><tr><td>Arabic No</td><td>1879.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 167</td></tr></tbody></table></div>
 

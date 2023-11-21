@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:There was no name dearer to 'Ali than his nickname Abu Tu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz bin Abu Hazim] dari [Abu Hazim] dari [Sahl bin Sa'd] dia berkata; "Tidak ada nama (julukan) yang paling disukai Ali selain Abu Turab, dan dia sangat senang bila dipanggil dengan nama tersebut, suatu ketika Rasulullah shallallahu 'alaihi wasallam datang ke rumah Fatimah 'alaihis salam, namun beliau tidak menjumpai Ali di rumahnya. Maka beliau bertanya; 'Di manakah anak pamanmu? ' Fatimah menjawab; 'Sebenarnya antara saya dan dia ada permasalahan, malah dia memarahiku. Setelah itu, ia keluar dan enggan beristirahat siang di sini.' Lalu Rasulullah shallallahu 'alaihi wasallam bersabda kepada seseorang; 'Lihatlah, di manakah dia berada! ' Tidak lama kemudian, orang tersebut datang dan berkata; 'Wahai Rasulullah, sekarang dia tengah tidur di masjid.' Setelah itu Rasulullah shallallahu 'alaihi wasallam mendatangi Ali ketika ia sedang berbaring, sementara kain selendangnya jatuh dari lambungnya hingga banyak debu yang menempel (di badannya). Kemudian Rasulullah mengusapnya seraya bersabda: 'Bangunlah hai Abu Turab! Bangunlah hai Abu Turab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6280</td></tr><tr><td>Arabic No</td><td>6280</td></tr><tr><td>Reference</td><td>Book 79 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са’д сказал: «Не было у ‘Али прозвища более любимого, чем “Абу-т-Тураб” (пыльный), и он радовался, когда к нему так обращались. Однажды, зайдя в дом Фатымы, Посланник Аллаха ﷺ не нашёл там ‘Али и спросил: “А где же сын твоего дяди?” Фатыма ответила: “Мы повздорили, он рассердился на меня и ушёл, отказавшись спать у меня днём”. Тогда Посланник Аллаха ﷺ велел одному человеку: “Посмотри, где он”. Через некоторое время тот вернулся и сказал: “О Посланник Аллаха, он спит в мечети”. Тогда Посланник Аллах ﷺ пришёл туда и увидел, что накидка ‘Али упала с его бока, а сам он лежит, испачкавшись в пыли. Тогда Посланник Аллаха ﷺ принялся стряхивать с него пыль, приговаривая: “Вставай, о Абу-т-Тураб, вставай, о Абу-т-Тураб!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6280</td></tr><tr><td>Arabic No</td><td>6280</td></tr><tr><td>Reference</td><td>Book 79 Hadith 54</td></tr></tbody></table></div>
 

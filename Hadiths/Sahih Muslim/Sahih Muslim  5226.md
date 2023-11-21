@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that Nabidh was prepared for Allah's Messenger (ﷺ) in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Yahya bin Ubaid Abu Umar Al Bahrani] dia berkata; saya mendengar [Ibnu Abbas] berkata, "Rasulullah shallallahu 'alaihi wasallam dibuatkan perasan nabidz di awal malam, kemudian beliau meminumnya di pagi harinya, kemudian malam harinya, kemudian lusa dan malam harinya serta keesokan harinya lagi sampai menjelang ashar. Jika perasannya tersebut masih, beliau memerintahkan pelayannya untuk menumpahkannya, atau menyuruhnya untuk ditumpahkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5226</td></tr><tr><td>Arabic No</td><td>2004.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5226</td></tr><tr><td>Arabic No</td><td>2004.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 100</td></tr></tbody></table></div>
 

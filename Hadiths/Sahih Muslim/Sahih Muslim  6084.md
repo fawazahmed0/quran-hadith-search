@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported that there had appeared some whiteness on the front par
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Ubaidullah] dari [Israil] dari [Simak] dia mendengar [Jabir bin Samurah] berkata; "Rambut Nabi shallallahu 'alaihi wasallam kelihatan bercampur putih di kepala bagian muka dan di jenggot beliau, tetapi apabila telah beliau minyaki maka tidak kelihatan. Apabila rambut beliau kusut, barulah jelas kelihatan, dan jenggot beliau tebal." Lalu seseorang bertanya; "Apakah wajah beliau seperti pedang?" Jawab Jabir; "Tidak! Bahkan bundar seperti matahari dan bulan. Dan aku melihat sebuah cap di bahunya, kira-kira sebesar telor merpati." Dia serupa dengan warna tubuh beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6084</td></tr><tr><td>Arabic No</td><td>2344.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6084</td></tr><tr><td>Arabic No</td><td>2344.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 142</td></tr></tbody></table></div>
 

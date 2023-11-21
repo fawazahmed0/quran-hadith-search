@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) used to wash himself with a sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Shafiyyah binti Syaibah] dari ['Aisyah] bahwasanya Nabi shallallahu 'alaihi wasallam mandi dengan satu sha' air dan berwudhu dengan satu mud. Abu Dawud berkata; Diriwayatkan oleh [Aban] dari [Qatadah] dia berkata; Saya pernah mendengar [Syafiyyah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши: «Пророк ﷺ купался с одним са‘а (воды), а омовение /вудуъ/ совершал с одним муддом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
 

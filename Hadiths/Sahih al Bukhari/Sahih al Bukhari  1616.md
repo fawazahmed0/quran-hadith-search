@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:When Allah's Messenger (ﷺ) performed Tawaf of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Abu Dhamrah Anas] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhua] bahwa Rasulullah Shallallahu'alaihiwasallam apabila thawaf dalam pelaksanaan hajji atau 'umrah, yang pertama kali dilakukan adalah bersa'iy (berlari kecil) mengelilingi Ka'bah tiga kali putaran dan berjalan pada empat putaran lainnya kemudian shalat dua raka'at lalu berjalan bolak balik antara bukit Ash-Shafa dan Al Marwah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1616</td></tr><tr><td>Arabic No</td><td>1616</td></tr><tr><td>Reference</td><td>Book 25 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «Совершая обход Каабы во время хаджа или умры сразу же по приезде (в Мекку), Посланник Аллаха ﷺ проходил три круга быстрым шагом, а (остальные) четыре — обычным, потом он совершал молитву в два рак‘ата, а потом — ритуальный бег /са‘й/ между (холмами) ас-Сафа и аль-Марва»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1616</td></tr><tr><td>Arabic No</td><td>1616</td></tr><tr><td>Reference</td><td>Book 25 Hadith 101</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I brought a brother of mine to the Prophet (ﷺ) to do Tahnik for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari [Hisyam bin Zaid] dari [Anas] dia berkata; Aku menemui Nabi shallallahu 'alaihi wasallam bersama saudaraku yang sedang beliau tahnik (mengunyahkan kurma atau sesuatu yang manis lalu di masukkan kedalam mulut bayi) ketika berada di kandang unta, maka aku melihat beliau menandai seekor kambing -aku kira Anas mengatakan; "Di telinganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5542</td></tr><tr><td>Arabic No</td><td>5542</td></tr><tr><td>Reference</td><td>Book 72 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Я привел своего брата к Пророку ﷺ, чтобы он сделал для него тахник, в то время, когда он находился в своем овечьем загоне. И я видел, как он клеймил овцу». (Шу‘ба сказал:) «Я думаю, что Анас сказал: “(Выжигая клеймо) на ухе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5542</td></tr><tr><td>Arabic No</td><td>5542</td></tr><tr><td>Reference</td><td>Book 72 Hadith 67</td></tr></tbody></table></div>
 

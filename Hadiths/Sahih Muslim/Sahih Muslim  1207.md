@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:We were in the company of the Messenger of Allah (ﷺ), and he se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil al-Jahdari] telah menceritakan kepada kami [Hammad bin Zaid] dari [Katsir] dari ['Atha'] dari [Jabir] dia berkata, "Dahulu kami bersama Nabi Shallallahu'alaihiwasallam, lalu beliau mengutusku untuk suatu keperluan, lalu aku pulang, sedangkan beliau dalam keadaan shalat di atas kendaraannya, dan wajahnya tidak menghadap kiblat, lalu aku mengucapkan salam kepadanya, namun beliau tidak membalas salamku. Ketika beliau telah selesai shalat maka beliau bersabda, 'Tidak ada yang menghalangiku untuk menjawab salamku melainkan karena aku sedang shalat'." Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Mu'alla bin Manshur] telah menceritakan kepada kami [Abdul Warits bin Sa'id] telah menceritakan kepada kami [Katsir bin Syinzhir] dari ['Atha'] dari [Jabir] dia berkata, "Rasulullah shallallahu'alaihiwasallam telah mengutusku dalam suatu keperluan, " semakna dengan hadits Hammad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1207</td></tr><tr><td>Arabic No</td><td>540.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир сказал: «(Однажды,) когда я был с Пророком ﷺ, он отправил меня с каким-то поручением. Когда я вернулся к нему, он молился, сидя верхом на своём верблюде и обратившись лицом не в сторону киблы. Я поприветствовал его, но он не ответил мне, а закончив молитву сказал: “Мне помешало ответить тебе лишь то, что я совершал молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1207</td></tr><tr><td>Arabic No</td><td>540.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 47</td></tr></tbody></table></div>
 

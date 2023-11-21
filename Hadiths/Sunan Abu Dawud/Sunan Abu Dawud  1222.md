@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: I accompanied the Messenger of Allah (ﷺ) on eighte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Shufwan bin Sulaim] dari [Abu Busrah Al Ghifari] dari [Al Barra' bin 'Azib Al Anshari] dia berkata; "Aku pernah menyertai Rasulullah shallallahu 'alaihi wasallam dalam perjalanan sebanyak delapan belas kali, dan aku tidak pernah sama sekali melihat beliau meninggalkan dua raka'at ketika matahari telah condong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1222</td></tr><tr><td>Arabic No</td><td>1222</td></tr><tr><td>Reference</td><td>Book 4 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Бара ибн ‘Азиба аль-Ансари, да будет доволен им Аллах: «Я сопровождал Посланника Аллаха ﷺ в восемнадцати путешествиях, и я ни разу не видел, чтобы он оставил молитву в два рак‘ата, которую он всегда совершал после того, как солнце отклонялось от точки зенита, перед обязательной полуденной молитвой /зухр/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1222</td></tr><tr><td>Arabic No</td><td>1222</td></tr><tr><td>Reference</td><td>Book 4 Hadith 25</td></tr></tbody></table></div>
 

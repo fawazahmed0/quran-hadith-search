@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I heard the Prophet (ﷺ) delivering a sermon at 'Arafat say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1841</td></tr><tr><td>Arabic No</td><td>1841</td></tr><tr><td>Reference</td><td>Book 28 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Я слышал Пророка ﷺ когда он обращался к людям на Арафате, сказав: “Тот, кто не найдёт сандалии, пусть оденет кожаные носки, а тот, кто не найдёт изара, пусть наденет брюки — это касается того, кто вошёл в состояние ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1841</td></tr><tr><td>Arabic No</td><td>1841</td></tr><tr><td>Reference</td><td>Book 28 Hadith 21</td></tr></tbody></table></div>
 

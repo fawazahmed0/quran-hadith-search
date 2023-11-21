@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported Allah's Messenger (ﷺ) as saying:He who amongst you is afraid th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'yan] Telah menceritakan kepada kami [Ma'qil] ia adalah Ibnu Ubaidullah, dari [Abu Zubair] dari [Jabir] ia berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Siapa di antara kalian yang khawatir tidak bisa bangun di akhir malam, hendaklah ia witir dan baru kemudian tidur. Dan siapa yang yakin akan terbangun di akhir malam, hendaklah ia witir di akhir malam, karena bacaan di akhir malam dihadiri (oleh para Malaikat) dan hal itu adalah lebih utama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1767</td></tr><tr><td>Arabic No</td><td>755.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Джабира, что Пророк ﷺ сказал: «Пусть тот из вас, кто опасается, что не сможет проснуться в конце ночи, совершит витр (в её начале), а затем ложится (спать). И пусть тот, кто уверен, что встанет в конце ночи, совершит (эту молитву) в конце, ибо, поистине, молитва в конце ночи (совершается) при свидетелях (то есть ангелы), и (совершать её в такое время) лучше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1767</td></tr><tr><td>Arabic No</td><td>755.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 196</td></tr></tbody></table></div>
 

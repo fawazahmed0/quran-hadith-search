@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:When the Prophet (ﷺ) said, "Sami'a l-lahu liman hamidah,"
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Sa'id Al Maqburi] dari [Abu Hurairah] berkata, "Jika Nabi shallallahu 'alaihi wasallam membaca: 'SAMI'ALLAHU LIMAN HAMIDAH (Semoga Allah mendengar pujian orang yang memuji-Nya) ', maka beliau melanjutkan dengan: 'RABBANAA WA LAKAL HAMDU (Wahai Rabb kami, bagi-Mu lah segala pujian) '. Jika Nabi shallallahu 'alaihi wasallam rukuk dan mengangkat kepalanya (dari sujud), beliau bertakbir, dan jika bangkit dari dua sujud (dua rakaat), beliau mengucapkan 'Allahu Akbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>795</td></tr><tr><td>Arabic No</td><td>795</td></tr><tr><td>Reference</td><td>Book 10 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Са‘ида Аль-Макбури, что Абу Хурайра сказал: «Пророк ﷺ после того как говорил: “Сами‘а-Ллаху лиман хамидах (Да услышит Аллах того, кто воздал Ему хвалу!)”, произносил: «Аллахумма Раббана уа лякяль-хамд (О Аллах, Господь наш и Тебе хвала!)”. И Пророк ﷺ когда делал поясной поклон и когда поднимал голову, говорил: “Аллаху акбар”, и когда вставал из земного поклона, он говорил: “Аллаху акбар”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>795</td></tr><tr><td>Arabic No</td><td>795</td></tr><tr><td>Reference</td><td>Book 10 Hadith 190</td></tr></tbody></table></div>
 

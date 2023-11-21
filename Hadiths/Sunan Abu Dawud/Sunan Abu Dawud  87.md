@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Khaldah:I asked Abu'l-'Aliyah whether a person who is sexually defi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Abu Khaldah] dia berkata; Saya pernah bertanya kepada [Abu Al 'Aliyah] tentang seseorang yang mengalami junub dan dia tidak mendapatkan air sementara dia mempunyai sari buah, apakah dia boleh mandi janabah dengan sari buah tersebut?" Dia menjawab; "Tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Arabic No</td><td>87</td></tr><tr><td>Reference</td><td>Book 1 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хальда сказал: «Однажды я спросил у Абуль-‘Алии о человеке, которого постигло осквернение /джанаба/ и у которого не было с собой воды, но при нём был набиз, может ли он искупаться им? Он сказал: “Нет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Arabic No</td><td>87</td></tr><tr><td>Reference</td><td>Book 1 Hadith 87</td></tr></tbody></table></div>
 

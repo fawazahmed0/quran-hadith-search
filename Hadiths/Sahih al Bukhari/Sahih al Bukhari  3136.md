@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:We got the news of the migration of the Prophet (ﷺ) while we
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al 'Alaa'] telah bercerita kepada kami [Abu Usamah] telah bercerita kepada kami [Buraid bin 'Abdullah] dari [Abu Burdah] dari [Abu Musa radliallahu 'anhu] berkata; "Telah sampai berita kepada kami tentang tempat hijrah yang ditunjuk oleh Nabi Shallallahu'alaihiwasallam. Saat itu kami berada di negeri Yaman. Maka kami keluar untuk berhijrah menuju tempat yang dimaksud. Aku bersama dua saudaraku ikut dalam rombongan muhajirin tersebut dan aku yang paling muda usianya. Salah satu dari keduanya adalah Abu Burdah sedangkan yang satu lagi Abu Ruhmi. (Perawi berkata); Entah dia menyebut jumlah rombongan dengan kira-kira atau menyebut dengan jumlah lima puluh tiga atau lima puluh dua laki-laki dari kaumku. Maka kami naik sebuah perahu (mengarungi lautan) hingga perahu kami membawa kami sampai kepada an-Najasyi di Habasyah (Ethiopia) dan kami berjumpa dengan Ja'far bin Abu Thalib beserta para shahabatnya di negeri itu. Ja'far berkata; "Rasulullah Shallallahu'alaihiwasallam mengutus kami ke negeri ini dan memerintahkan kami agar tinggal disini, untuk itu tinggallah bersama kami disini". Maka kami tinggal menetap bersamanya hingga kami kembali (ke Madinah) bersama-sama dan menjumpai Nabi Shallallahu'alaihiwasallam ketika Beliau telah menaklukan Khaibar. Maka Beliau jadikan kami orang yang berhak mendapat bagian ghanimah". (perawi berkata); atau dia berkata; "Beliau memberi kami ghanimah. Padahal Beliau tidak membagi hak kepada seorangpun yang tidak ikut dalam penaklukan Khaibar dan hanya membagikannya kepada orang yang ikut terlibat dalam perang bersama Beliau. Kecuali kami, rombongan yang menaiki perahu bersama Ja'far dan para shahabatnya, beliau beri mereka bersama pejuang Khaibar lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3136</td></tr><tr><td>Arabic No</td><td>3136</td></tr><tr><td>Reference</td><td>Book 57 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «До нас дошло известие о переселении Пророка ﷺ, когда мы были в Йемене, и мы отправились, чтобы переселится к нему. Мы были: я и два моих брата, я был младшим из них. Одного из моих братьев звали Абу Бурда, а другого — Абу Рухм. Нас было больше пятидесяти (или пятидесяти трёх, или пятидесяти двух) человек из нашего племени. Мы поплыли на корабле, который доставил нас к Наджаши в Эфиопию, где мы обнаружили Джа‘фара ибн Аби Талиба и его спутников. Джа‘фар сказал (нам): “Посланник Аллаха ﷺ послал нас сюда и приказал оставаться здесь, так оставайтесь же и вы вместе с нами”. Мы оставались там вместе с ними до тех пор, пока мы все не покинули (Эфиопию) и не встретились с Пророком ﷺ в то время, когда он завоевал Хайбар. Он дал нам долю от добычи, и он не дал ничего тем, кто не участвовал вместе с ним в завоевании Хайбара, кроме людей с нашего корабля и Джа‘фара и его спутников, которым он дал долю вместе с ними»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3136</td></tr><tr><td>Arabic No</td><td>3136</td></tr><tr><td>Reference</td><td>Book 57 Hadith 44</td></tr></tbody></table></div>
 

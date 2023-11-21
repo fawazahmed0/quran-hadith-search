@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Mughaffal reported:The Messenger of Allah (ﷺ) ordered killing of the dogs,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ubaid bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Abu at-Tayyah] dia mendengar [Mutharrif bin Abdullah] menceritakan dari [Ibnu al-Mughaffal] dia berkata, "Rasulullah memerintahkan membunuh anjing, kemudian beliau bersabda: "Ada apa antara mereka dengan anjing?" Kemudian beliau memberikan keringanan pada anjing pemburu dan anjing (penjaga) kambing seraya bersabda: "Apabila seekor anjing menjilat pada suatu wadah, maka kalian cucilah ia tujuh kali, dan gosoklah dengan tanah pada pencucian yang kedelapan'." Dan telah menceritakan kepada kami [Yahya bin Habib al-Haritsi] telah menceritakan kepada kami [Khalid] -yaitu Ibnu al-Harits. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin al-Walid] telah menceritakan kepada kami [Muhammad bin Ja'far] semuanya dari [Syu'bah] dalam sanad ini dengan semisalnya, hanya saja dalam riwayat Yahya bin Sa'id ada tambahan, 'Dan beliau memberikan keringanan pada anjing (penjaga) kambing dan anjing pemburu serta penjaga tanaman'. Dan dia tidak menyebutkan 'anjing penjaga tanaman', pada riwayat tersebut selain Yahya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>653</td></tr><tr><td>Arabic No</td><td>280.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн аль-Мугаффаль сказал: «(Сначала) Посланник Аллаха ﷺ велел убивать собак, а потом (отменил своё веление), сказав: “Какое им дело до собак?” Впоследствии он разрешил держать собак для охоты и охраны овец и сказал: “Если собака оближет какой-нибудь сосуд, вымойте его семь раз, а на восьмой протрите землёй”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>653</td></tr><tr><td>Arabic No</td><td>280.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 119</td></tr></tbody></table></div>
 

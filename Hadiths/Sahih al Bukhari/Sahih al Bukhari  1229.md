@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) offered one of the evening prayers (the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami [Yazid bin Ibrahim] dari [Muhammad] dari [Abu Hurairah radliallahu 'anhu] berkata: "Rasulullah shalat bersama kami dalam suatu shalat malam, Berkata Muhammad; Kecenderungan dugaanku adalah shalat 'Ashar, yaitu sebanyak dua raka'at lalu memberi salam. Setelah itu Beliau mendatangi kayu yang tergeletak di masjid, Beliau berbaring dengan meletakkan kedua tangannya pada kayu tersebut. Diantara mereka yang ikut shalat ada Abu Bakar dan 'Umar radliallahu 'anhuma. Namun keduanya sungkan untuk berbicara dengan Beliau lalu keluar mendahului orang banyak. Sementara orang-orang berkata; "Shalat diringkas (qashar) ". Tiba-tiba ada seorang yang dipanggil oleh Nabi shallallahu 'alaihi wasallam dengan panggilan Dzul Yadain, dan ia berkata: "Apakah anda lupa atau shalat diqashar?" Beliau berkata: "Aku tidak lupa dan shalat juga tidak diqashar". Beliau berkata: "Aku tidak lupa dan juga shalat tidak diqashar!". (Dzul Yadain) berkata: "Benar, sebenarnya anda telah lupa". Maka Beliau shalat dua raka'at kemudian memberi salam. Kemudian Beliau bertakbir lalu sujud seperti sujudnya (yang biasa) atau lebih lama lagi kemudian mengangkat kepalanya lalu bertakbir lagi kemudian meletakkan kepalanya lalu bertakbir kemudian sujud seperti sujudnya atau lebih lama lagi, kemudian mengangkat kepalanya dan takbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1229</td></tr><tr><td>Arabic No</td><td>1229</td></tr><tr><td>Reference</td><td>Book 22 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ совершил с нами одну из двух вечерних молитв». Мухаммад (Ибн Сирин) (передававший этот хадис от Абу Хурайры) сказал: «Я думаю, что это была молитва ‘аср». \n(Далее Абу Хурайра) сказал: «Совершив с нами два рак‘ата, он произнёс слова таслима, затем встал и подошёл к куску дерева, лежавшему в передней части мечети, и облокотился на него. Среди (молившихся) находились Абу Бакр и ‘Умар, да будет доволен ими обоими Аллах, которые (не решались) заговорить с (Пророком ﷺ) из крайнего почтения по отношению к нему. (Между тем) торопившиеся уже покидали мечеть, говоря: “Молитва стала короче?” Среди них был также один человек, которого Пророк ﷺ прозвал Зуль-Йадайн, он спросил: “Ты забыл или (теперь) молитва стала короче?” Он ответил: “Я не забыл, и молитва не стала короче”. Он сказал: “Нет, ты забыл”. Тогда он совершил два рак‘ата, и произнёс слова таслима, затем произнес слова такбира, после этого он совершил (обычный по продолжительности) или (чуть) более долгий земной поклон, а потом поднял голову и произнес слова такбира. Затем он положил голову, сказал слова такбира и совершил (обычный по продолжительности) или (чуть) более долгий земной поклон, потом поднял голову и произнес слова такбира»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1229</td></tr><tr><td>Arabic No</td><td>1229</td></tr><tr><td>Reference</td><td>Book 22 Hadith 7</td></tr></tbody></table></div>
 

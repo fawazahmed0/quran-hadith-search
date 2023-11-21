@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: When the children of a woman (in pre-Islamic days) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Umar bin Ali Al Muqaddami], ia berkata; telah menceritakan kepada kami [Asy'ats bin Abdullah As Sijistani], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ibnu Basysyar], ia berkata; telah menceritakan kepada kami [Ibnu Abu Adi], dan ini adalah lafazhnya. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Al Hasan bin Ali], ia berkata; telah menceritakan kepada kami [Wahb bin Jarir], dari [Syu'bah] dari [Abu Bisyr] dari [Sa'id? bin Jubair] dari [Ibnu Abbas], ia berkata; terdapat seorang wanita yang tidak memiliki anak karena terus meninggal, kemudian ia bersumpah atas dirinya bahwa apabila ia memiliki anak yang hidup maka ia akan menjadikannya seorang Yahudi. Kemudian tatkala Bani Nadhir diusir, diantara mereka terdapat anak-anak orang anshar, kemudian mereka mengatakan; kita tidak akan meninggalkan anak-anak kita. Kemudian Allah menurunkan ayat: "Tidak ada paksaan untuk (memasuki) agama (Islam); sesungguhnya telah jelas jalan yang benar daripada jalan yang sesat." Abu Daud berkata; Miqlat adalah wanita yang tidak memiliki anak yang hidup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2682</td></tr><tr><td>Arabic No</td><td>2682</td></tr><tr><td>Reference</td><td>Book 15 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас рассказывал: «(В доисламские времена) у одной из женщин не выживали новорожденные, и она дала обет, что если ее ребенок выживет, она сделает его иудеем. Когда же (иудейское племя) бану ан-надыр изгнали из Медины, среди них были также и дети ансаров, и (ансары) сказали: “Мы не оставим им наших детей!” Тогда Всемогущий и Великий Аллах ниспослал (аят, в котором сказано): “Нет принуждения в религии. Прямой путь уже отличился от заблуждения!” (сура “аль-Бакара”, аят 256)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2682</td></tr><tr><td>Arabic No</td><td>2682</td></tr><tr><td>Reference</td><td>Book 15 Hadith 206</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "My Lord says, 'If My slave comes nearer t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7536</td></tr><tr><td>Arabic No</td><td>7536</td></tr><tr><td>Reference</td><td>Book 97 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, да будет доволен им Аллах, что Пророк ﷺ передал от своего Господа: «Если раб приблизится ко Мне на пядь, Я приближусь к Нему на локоть. Если он приблизится ко Мне на локоть, Я приближусь к нему на сажень. А если он направится ко Мне шагом, то Я брошусь к нему бегом!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7536</td></tr><tr><td>Arabic No</td><td>7536</td></tr><tr><td>Reference</td><td>Book 97 Hadith 161</td></tr></tbody></table></div>
 

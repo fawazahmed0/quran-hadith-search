@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin 'Amr bin Abu Al Hajjaj Abu Ma'mar], telah menceritakan kepada kami [Abdul Warits] dari [Husain Al Mu'allim], dari ['Amr bin Syu'aib], dari [ayahnya], dari [kakeknya], bahwa Ri'ab bin Hudzaifah telah menikah dengan seorang wanita kemudian ia melahirkan tiga orang anak. Kemudian ibu mereka meninggal. Kemudian mereka mewarisi tempat tinggalnya dan perwalian mantan budaknya. Dan 'Amr bin Al 'Ash adalah 'ashabah (orang yang mendapat sisa dari pembagian warisan) anak-anak wanita tersebut, kemudian ia mengeluarkan mereka ke Syam, dan mereka meninggal. Kemudian 'Amr bin Al 'Ash datang dan mantan budak wanita tersebut dan meninggalkan harta untuknya. Kemudian para saudara wanita tersebut mempermasalahkannya kepada Umar bin Al Khathab, kemudian [Umar] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apa yang dijaga seorang anak atau orang tua adalah untuk 'ashabahnya, siapapun dia." Ia berkata; kemudian Umar menulis untuknya sebuah surat yang berisi persaksian Abdurrahman bin 'Auf, dan Zaid bin Tsabit serta seorang laki-laki yang lain. Kemudian tatkala Abdul Malik ditunjuk menjadi Khalifah mereka memperselisihkannya kepada Hisyam bin Isma'il, atau kepada Isma'il bin Hisyam. Kemudian ia melaporkannya kepada Abdul Malik. Kemudian ia berkata; ini termasuk keputusan yang telah aku lihat. Ia berkata; kemudian Abdul Malik memutuskan untuk kami dengan surat Umar bin Al Khathab, dan kami dalam keputusan tersebut hingga saat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>2917</td></tr><tr><td>Reference</td><td>Book 19 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Риаб ибн Хузайфа женился на одной женщине, она родила ему троих сыновей, а потом умерла. Они получили её наследство и унаследовали право покровительства над её вольноотпущенниками. А ‘Амр ибн аль-‘Ас был родственником её детей со стороны отца. Он отправил их в Шам, где они и умерли. А ‘Амр ибн аль-‘Ас приехал туда, и как раз в это время умер один из её вольноотпущенников, оставив некоторое имущество. Её братья стали оспаривать его право на наследство. Они обратились по этому вопросу к ‘Умару ибн аль-Хаттабу, чтобы он рассудил их, и ‘Умар сообщил им, что Посланник Аллаха ﷺ сказал: «Оставленное отпрыском или родителем принадлежит его родственникам со стороны отца, кем бы они ни были». И он написал ему послание, в котором ‘Абду-р-Рахман ибн ‘Ауф, Зейд ибн Сабит и ещё один человек засвидетельствовали правильность вынесенного им решения. Потом, когда к власти пришёл Абду-ль-Малик, они обратились к Хишаму ибн Исма‘илю (или: Исма‘илю ибн Хишаму), и он сообщил об их деле ‘Абду-ль-Малику, который сказал: «С таким мне ещё сталкиваться не приходилось!» И он вынес решение на основе письма ‘Умара, и это предписание действует и по сей день
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>2917</td></tr><tr><td>Reference</td><td>Book 19 Hadith 33</td></tr></tbody></table></div>
 

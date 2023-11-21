@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Qatâda (que Dieu l'agrée) a dit : Le Prophète (paix et bénédiction de 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Ibnu Ulayyah] telah mengabarkan kepada kami [Hisyam Ad Dastawa'i] dari [Yahya bin Abu Katsir] dari [Abdullah bin Abu Qatadah] dari [ayahnya] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian membuat perasan nabidz dengan mencampur antara kurma muda dengan kurma segar (sudah masak), atau antara anggur dengan kurma masak, tetapi hendaklah kalian buat dengan sendiri-sendiri (tidak dengan mencampurnya)." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr Al 'Abdi] dari [Hajjaj bin Abu 'Utsman] dari [Yahya bin Abu Katsir] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5154</td></tr><tr><td>Arabic No</td><td>1988.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5154</td></tr><tr><td>Arabic No</td><td>1988.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 28</td></tr></tbody></table></div>
 

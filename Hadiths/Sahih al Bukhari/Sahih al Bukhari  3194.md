@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "When Allah completed the cre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Mughirah bin 'Abdur Rahman Al Qurasyiy] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika Allah menetapkan penciptaan makhluq, Dia menulis di dalam Kitab-Nya, yang berada di sisi-Nya di atas ai-'Arsy (yang isinya): "Sesungguhnya rahmat-Ku mengalahkan kemurkaan-Ku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3194</td></tr><tr><td>Arabic No</td><td>3194</td></tr><tr><td>Reference</td><td>Book 59 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Завершив творение, Аллах сделал в Своей Книге, которая находится у Него на престоле, (такую) запись: “Поистине, милость Моя будет превосходить Мой гнев”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3194</td></tr><tr><td>Arabic No</td><td>3194</td></tr><tr><td>Reference</td><td>Book 59 Hadith 5</td></tr></tbody></table></div>
 

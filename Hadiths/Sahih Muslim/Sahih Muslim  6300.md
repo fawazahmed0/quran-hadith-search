@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Anas b. Malik through other ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] Telah menceritakan kepada kami [Sulaiman] yaitu Ibnu Bilal dari [Abdullah bin Abdurrahman] dari [Anas bin Malik] dia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Keutamaan Aisyah atas wanita yang lain, seperti keutamaan (bubur) atas semua makanan." Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah] serta [Ibnu Hujr] mereka berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Qutaibah]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Muhammad keduanya dari ['Abdullah bin 'Abdur Rahman] dari [Anas] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa. Namun di dalam Hadits keduanya, di sebutkan Aku mendengar Rasulullah shallallahu 'alaihi wasallam. Sedangkan di dalam Hadits Ismail bahwa dia mendengar Anas bin Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6300</td></tr><tr><td>Arabic No</td><td>2446.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6300</td></tr><tr><td>Arabic No</td><td>2446.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 130</td></tr></tbody></table></div>
 

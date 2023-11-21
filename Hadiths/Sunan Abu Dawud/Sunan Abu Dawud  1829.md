@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said I heard the Apostle of Allaah(ﷺ) say When one who is wearing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Sulaiman bin Harb], telah menceritakan kepada Kami [Hammad bin Zaid] dari ['Amr bin Dinar] dari [Jabir bin Zaid] dari [Ibnu Abbas], ia berkata; saya mendengar Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Celana panjang adalah untuk orang yang tidak mendapatkan sarung, sepatu adalah orang yang tidak mendapatkan sandal." Abu Daud berkata; ini adalah hadits penduduk Mekkah dan kembalinya ke Bashrah, kepada Jabir bin Zaid, dan yang menjadi kekhususan darinya adalah menyebutkan celana panjang dan tidak menyebutkan memotong sepatu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1841) Sahih Muslim (1178)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1829</td></tr><tr><td>Arabic No</td><td>1829</td></tr><tr><td>Reference</td><td>Book 11 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: “Шаровары для тех, кто не может найти изар, и хуффы для тех, кто не может найти сандалии”». Абу Дауд сказал: «Это хадис жителей Мекки, но начало его в Басре, у Джабира ибн Зейда, и лишь он упоминает шаровары и не упоминает об обрезании хуффов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1841) Sahih Muslim (1178)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1829</td></tr><tr><td>Arabic No</td><td>1829</td></tr><tr><td>Reference</td><td>Book 11 Hadith 109</td></tr></tbody></table></div>
 

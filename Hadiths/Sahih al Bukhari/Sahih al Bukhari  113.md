@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:There is none among the companions of the Prophet (ﷺ) who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepada kami ['Amru] berkata, telah mengabarkan kepadaku [Wahhab bin Munabbih] dari [saudaranya] berkata, aku mendengar [Abu Hurairah] berkata, "Tidaklah ada seorangpun dari sahabat Nabi shallallahu 'alaihi wasallam yang lebih banyak haditsnya dibandingkan aku, kecuali 'Abdullah bin 'Amru. Sebab ia bisa menulis sedang saya tidak." [Ma'mar] juga meriwayatkan dari [Hammam] dari [Abu Hurairah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>113</td></tr><tr><td>Arabic No</td><td>113</td></tr><tr><td>Reference</td><td>Book 3 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Ни один из сподвижников Пророка ﷺ не запомнил от него столько хадисов, сколько запомнил я, если не считать ‘Абудуллы ибн ‘Амра, ибо, поистине, он записывал (их), а я не делал этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>113</td></tr><tr><td>Arabic No</td><td>113</td></tr><tr><td>Reference</td><td>Book 3 Hadith 55</td></tr></tbody></table></div>
 

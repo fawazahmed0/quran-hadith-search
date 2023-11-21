@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd (que Dieu l'agrée), Il y avait un malentendu entre Khâlid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah]; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id] dia berkata; suatu ketika di antara Khalid bin Walid dan 'Abdur Rahman bin 'Auf ada sedikit permasalahan. Lalu Khalid mencelanya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mencela seseorang dari sahabatku, karena sesungguhnya seseorang dari kalian seandainya menginfakkan emas sebesar gunung Uhud maka ia tidak akan dapat menandingi satu mud atau setengahnya dari apa yang telah diinfakkan para sahabatku.' Telah menceritakan kepada kami [Abu Sa'id Al Asyaj] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Al A'masy]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Ibnu Abu 'Adi] seluruhnya dari [Syu'bah] dari [Al A'masy] melalui sanad Jarir dan Abu Mu'awiyah yang serupa dengan Hadits keduanya. Namun di dalam Hadits Syu'bah dan Waki' tidak di sebutkan tentang 'Abdur Rahman bin 'Auf dan Khalid bin Walid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6488</td></tr><tr><td>Arabic No</td><td>2541.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 317</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6488</td></tr><tr><td>Arabic No</td><td>2541.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 317</td></tr></tbody></table></div>
 

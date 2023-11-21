@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Yasar reported:I was travelling along with Ibn 'Umar on the way to Mecc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] katanya; aku menyetorkan hapalan di hadapan [Malik] dari [Abu Bakar bin Umar bin Abdurrahman bin Abdullah bin Umar bin Khattab] dari [Sa'id bin Yasar], katanya; "Aku pernah mengadakan perjalan bersama [Ibnu Umar] lewat jalanan Makkah. Sa'id melanjutkan; "Ketika aku khawatir kehilangan waktu subuh, maka akupun singgah, aku lalu melakukan shalat witir, yang di teruskan dengan shalat shubuh. Maka Ibnu Umar berkata kepadaku; "Apa maksud dari apa yang telah kamu lakukan?" Aku menjawab; "Aku sangat khawatir kehilangan shalat shubuh, maka aku pun singgah dan kulakukan shalat witir." Abdullah bin Umar berkata; "Bukankah pada diri Rasulullah shallallahu 'alaihi wasallam terdapat teladan yang baik?" Aku menjawab; "Demi Allah, benar." Abdullah bin Umar berkata; "Rasulullah shallallahu 'alaihi wasallam dulu juga pernah melakukan witir diatas untanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1615</td></tr><tr><td>Arabic No</td><td>700.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Са‘ид ибн Ясар сказал: «(Однажды), я ехал с Ибн ‘Умаром по дороге в Мекку. Испугавшись же того, что (скоро настанет) рассвет, я спешился и совершил молитву витр, а затем догнал его. Ибн ‘Умар спросил меня: “Где ты был?” Я сказал: “Я испугался того, что (скоро настанет) рассвет, поэтому спешился и совершил молитву витр”. (На это) ‘Абдуллах сказал: “Разве Посланник Аллаха ﷺ не является для тебя примером (для подражания)!?” Я ответил: “Конечно, клянусь Аллахом (является)!” Тогда он сказал: “Поистине, (находясь в пути,) Посланник Аллаха ﷺ совершал витр сидя верхом на верблюде”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1615</td></tr><tr><td>Arabic No</td><td>700.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 46</td></tr></tbody></table></div>
 

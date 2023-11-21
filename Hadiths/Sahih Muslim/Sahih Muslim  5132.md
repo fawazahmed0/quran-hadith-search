@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Aziz b. Suhaib reported:They (some persons) asked Anas b. Malik, about Fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Ibnu Ulayyah] telah mengabarkan kepada kami [Abdul Aziz bun Shuhaib] dia berkata, "Orang-orang bertanya kepada [Anas bin Malik] mengenai minuman campuran kurma muda." Dia menjawab, "Ketika itu kami tidak memiliki khamer selain minuman campuran kurma sebagaimana yang kalian namakan dengan Al Fadlikh. Ketika aku sedang menuangkan campuran kurma tersebut kepada Abu Thalhah, Abu Ayyub dan beberapa orang dari sahabat Rasulullah shallallahu 'alaihi wasallam di rumah kami, tiba-tiba seorang laki-laki datang sambil berkata, "Apakah telah sampai kepada kalian suatu berita?" kami menjawab, "Belum." Dia berkata, "Sesungguhnya Khamer telah diharamkan." Maka Abu Thalhah berkata, "Wahai Anas, tumpahkanlah wadah ini." Anas berkata, "Setelah laki-laki tersebut menyampaikan berita, maka mereka kembali dan tidak lagi bertanya-tanya lagi tentang hukumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5132</td></tr><tr><td>Arabic No</td><td>1980.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5132</td></tr><tr><td>Arabic No</td><td>1980.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 6</td></tr></tbody></table></div>
 

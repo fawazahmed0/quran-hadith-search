@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pjeased with her) reported that Barira came to her in order to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] telah mengabarkan kepadanya bahwa Barirah datang kepada 'Aisyah untuk meminta bantuan dalam hal penebusan dirinya, sedangkan dia belum membayar tebusannya sama sekali, lalu 'Aisyah berkata kepadanya; "Kembalilah kepada keluargamu, jika mereka mau saya akan membayar tebusanmu, dan hak perwalianmu padaku, maka saya akan melunasinya." Lalu Barirah menyampaikan hal itu kepada tuannya, namun tuannya tidak menyetujuinya, justru mereka berkata; "Silahkan jika Aisyah ingin menebusmu, namun hak perwalianmu tetap pada kami." Kemudian Aisyah memberitahukan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, lantas Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Tebuslah dan merdekakanlah dia, karena hak perwalian itu bagi orang yang memerdekakan." Setelah itu Rasulullah shallallahu 'alaihi wasallam berdiri sambil bersabda: "Apa urusan orang-orang yang memberikan persyaratan yang tidak pernah ada pada Kitabullah. Barangsiapa yang mensyaratkan suatu syarat yang tidak terdapat dalam Kitabullah, maka ia tidak berhak mendapatkannya, walaupun dia mensyaratkan seratus kali, kerana syarat Allah lebih berhak untuk dilaksanakan dan lebih kuat." Telah menceritakan kepada kami [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari ['Urwah bin Zubair] dari ['Aisyah, istri Nabi shallallahu 'alaihi wasallam] telah mengabarkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3777</td></tr><tr><td>Arabic No</td><td>1504.02</td></tr><tr><td>Reference</td><td>Book 20 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3777</td></tr><tr><td>Arabic No</td><td>1504.02</td></tr><tr><td>Reference</td><td>Book 20 Hadith 8</td></tr></tbody></table></div>
 

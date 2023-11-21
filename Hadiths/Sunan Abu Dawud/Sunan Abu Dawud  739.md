@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Maymun al-Makki said: that he saw Abdullah ibn az-Z
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ibnu Lahi'ah] dari [Abu Hubairah] dari [Maimun Al Makki] bahwa dirinya melihat Maimun bin Zubair mengerjakan shalat bersama mereka (orang-orang) seraya mengangkat kedua tangannya ketika berdiri, ruku', sujud, lalu berdiri sambil mengangkat kedua tangannya. Lalu aku menemui Ibnu Abbas, kataku; "Aku pernah melihat Ibnu Zubair mengerjakan shalat yang aku belum pernah melihat seseorang mengerjakan shalat seperti dirinya." Sambil mengisyaratkan dengan mengangkat tangan ini kepada Ibnu Abbas, maka [Ibnu Abbas] menjawab; "Jika kamu ingin melihat tata cara shalat Rasulullah shallallahu 'alaihi wasallam, maka ikutilah tata cara shalat Abdullah bin Zubair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>739</td></tr><tr><td>Arabic No</td><td>739</td></tr><tr><td>Reference</td><td>Book 2 Hadith 349</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Маймуна аль-Макки о том, что однажды он увидел как ‘Абдуллах ибн аз-Зубайр руководил молитвой, поднимая руки, когда становился (на молитву), когда совершал поясной поклон, когда совершал земной поклон, когда вставал (после земного поклона) для простаивания, и когда вставал, он также поднимал руки.(Маймун сказал): «И я отправился к Ибн ‘Аббасу и сказал: “Поистине, видел я как совершал молитву Ибн аз-Зубайр так, как не видел никого совершающим её подобным образом”. И я рассказал ему об этих движениях, которые он совершал. (Ибн ‘Аббас) сказал: “Если тебе нравится смотреть на молитву Посланника Аллаха ﷺ то следуй за молитвой ‘Абдуллаха ибн аз-Зубайра”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>739</td></tr><tr><td>Arabic No</td><td>739</td></tr><tr><td>Reference</td><td>Book 2 Hadith 349</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:When the Messenger of Allah (ﷺ) raised his head a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdurrahman ad-Darimi] telah mengabarkan kepada kami [Marwan bin Muhammad ad-Dimasyqi] telah menceritakan kepada kami [Sa'id bin Abdul Aziz] dari ['Athiyah bin Qais] dari [Qaz'ah] dari [Abu Sa'id al-Khudri] dia berkata, "Dahulu Rasulullah Shallallahu'alaihiwasallam apabila mengangkat kepalanya dari rukuk maka beliau membaca, ROBBANAA LAKAL HAMDU MIL'US SAMAAWAATI WAL ARDHI WAMIL'U MAA SYI"TA MIN SYAI"IN BA'DU, AHLATS TSANAA"I WAL MAJDI, AHAQQU MAA QOOLAL 'ABDU, WAKULLUNA LAKA 'ABDUN, ALLOOHUMMA LAA MAANI'A LIMAA A'THOITA WALAA MU'THIYA LIMAA MANA'TA WALAA YANFA'U DZAL JADDI MINKAL JADDU 'Ya Allah, Rabb kami, segala puji bagimu sepenuh langit dan bumi serta sepenuh sesuatu yang Engkau kehendaki setelah itu, wahai Pemilik pujian dan kemulian, itulah yang paling haq yang diucapkan seorang hamba. Dan setiap kami adalah hamba untukMu. Ya Allah, tidak ada penghalang untuk sesuatu yang Engkau beri, dan tidak ada pemberi untuk sesuatu yang Engkau halangi. Tidaklah bermanfaat harta orang yang kaya dari adzabmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1071</td></tr><tr><td>Arabic No</td><td>477</td></tr><tr><td>Reference</td><td>Book 4 Hadith 233</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «Выпрямляясь после поясного поклона, Посланник Аллаха ﷺ обычно говорил: “Господь наш, Тебе хвала, и пусть эта хвала наполнит собой небеса, землю, и всё, что ещё будет угодно Тебе. Ты более всех достоин восхваления и прославления, оно самое достойное из того, что говорит раб, а все мы Твои рабы. Никто не лишит того, что Ты даровал. И никто не дарует того, чего Ты лишил. И бесполезным пред Тобой окажется богатство обладающего богатством /Рабба-на, ля-ка-ль-хамду мильъа-с-самаъи, ва мильъа-ль-арды, ва мильъа ма шиъта мин шайъин ба‘ду. Ахля-с-санаъи ва-ль-маджди, ахакку ма каля-ль-‘абду, ва куллю-на ля-ка ‘абд. Ля мани‘а ли-ма а‘тайта, ва ля му‘тыйа ли-ма мана‘та ва ля йанфа‘у за-ль-джадди мин-ка-ль-джадд/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1071</td></tr><tr><td>Arabic No</td><td>477</td></tr><tr><td>Reference</td><td>Book 4 Hadith 233</td></tr></tbody></table></div>
 

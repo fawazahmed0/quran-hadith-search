@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Sa'id] dari [Qatadah] dari [Zurarah] dari ['Imran bin Hushain] bahwa Nabi shallallahu 'alaihi wasallam shalat Dluhur bersama mereka, setelah selesai shalat beliau bersabda: "Siapakah di antara kalian yang membca "sabbihisma rabbikal a'la?" maka laki-laki itu menjawab; "saya." Beliau bersabda: "Aku tahu, bahwa sebagian dari kalian telah mengalahkan bacaanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>829</td></tr><tr><td>Arabic No</td><td>829</td></tr><tr><td>Reference</td><td>Book 2 Hadith 439</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что однажды пророк Аллаха ﷺ совершал с ними полуденную молитву. Закончив молиться, он сказал: «Кто из вас читал “Славь имя Господа твоего Высочайшего...”?» Один человек сказал: «Я». Он сказал: «Я понял, что кто-то перебивает меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>829</td></tr><tr><td>Arabic No</td><td>829</td></tr><tr><td>Reference</td><td>Book 2 Hadith 439</td></tr></tbody></table></div>
 

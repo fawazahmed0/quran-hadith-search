@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Haritha bin Wahb:I heard the Prophet (ﷺ) saying, "Shall I tell you of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Ma'bad bin Khalid] aku mendengar [Haritsah bin Wahb] mengatakan; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "maukah kalian kutunjukkan penghuni surga? Yaitu setiap orang lemah dan tertindas, dan sekiranya ia bersumpah atas nama Allah, niscaya Allah mengabulkannya, dan penghuni neraka adalah setiap orang yang berhati keras dan menentang kebenaran lagi sombong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6657</td></tr><tr><td>Arabic No</td><td>6657</td></tr><tr><td>Reference</td><td>Book 83 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хариса ибн Вахб, да будет доволен им Аллах, сказал: «Я слышал, как (однажды) Пророк ﷺ сказал: “Не сообщить ли вам об обитателей Рая? (Это — ) каждый слабый и презираемый, (однако) когда он клянётся (в чём-либо), Аллах обязательно осуществляет его клятву. (Не сообщить ли вам) о тех, кто окажется в огне? (Это — ) каждый жадный /джавваз/, грубый /‘утулль/ и горделивый”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6657</td></tr><tr><td>Arabic No</td><td>6657</td></tr><tr><td>Reference</td><td>Book 83 Hadith 36</td></tr></tbody></table></div>
 

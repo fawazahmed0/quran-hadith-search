@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Urwah b. al-Zubair: That Zayd ibn Thabit said: May Allah forgive Rafi'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah?], telah menceritakan kepada kami [Ibnu 'Ulayyah], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyr] secara makna, dari [Abdurrahman bin Ishaq] dari [Abu 'Ubaidah bin Muhammad bin 'Ammar] dari [Al Walid bin Abu Al Walid], dari ['Urwah bin Az Zubair], ia berkata; [Zaid bin Tsabit] berkata; semoga Allah mengampuni Rafi' bin Khudaij, demi Allah aku lebih mengetahui hadits daripadanya. Sesungguhnya terdapat dua orang yang datang kepada beliau. -Musaddad berkata; dari kalangan anshar-. Kemudian lafazh mereka sama: saling bermusuhan. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila hal ini adalah kemauan kalian, maka janganlah kalian menyewakan lahan pertanian!" Musaddad menambahkan; maka ia mendengar perkataan beliau: "Janganlah kalian menyewakan lahan pertanian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3390</td></tr><tr><td>Arabic No</td><td>3390</td></tr><tr><td>Reference</td><td>Book 23 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Урва ибн аз-Зубайр передаёт: Зейд ибн Сабит сказал: «Да простит Аллах Рафи‘ ибн Хадиджа. Клянусь Аллахом, я лучше знаю этот хадис, чем он. К Посланнику Аллаха ﷺ пришли два человека (или: два человека из числа ансаров). Они подрались, и Посланник Аллаха ﷺ сказал: “Если вы ведёте себя подобным образом, то откажитесь от издольщины!” А он услышал только: “Откажитесь от издольщины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3390</td></tr><tr><td>Arabic No</td><td>3390</td></tr><tr><td>Reference</td><td>Book 23 Hadith 65</td></tr></tbody></table></div>
 

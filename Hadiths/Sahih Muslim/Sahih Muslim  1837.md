@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : Le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari [Aisyah] bahwasanya; Pada suatu malam Nabi shallallahu 'alaihi wasallam mendengar seroang laki-laki membaca (Al Qur'an), maka beliau pun bersabda: "Semoga Allah memberinya rahmat. Ia telah mengingatkanku ayat ini dan ini. Yakni ayat yang aku lupa dari surat ini dan surat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1837</td></tr><tr><td>Arabic No</td><td>788.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 265</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, о том, что (однажды) ночью, когда Пророк ﷺ услышал, как какой-то человек читает (Коран), он сказал: «Да помилует его Аллах! Он напомнил мне такой-то и такой-то аят, который я упустил из такой-то и такой-то суры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1837</td></tr><tr><td>Arabic No</td><td>788.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 265</td></tr></tbody></table></div>
 

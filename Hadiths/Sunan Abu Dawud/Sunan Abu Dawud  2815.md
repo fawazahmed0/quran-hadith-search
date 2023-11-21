@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Shaddad b. Aws:There are two characteristics that I heard the Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Syu'bah] dari [Khalid Al Hadzdza'] dari [Abu Qilabah] dari [Abu Al Asy'ats] dari [Syaddad bin Aus], ia berkata; dua sifat yang aku dengar dari Rasulullah shallallahu wa'alaihi wa sallam: "Sesungguhnya Allah telah mewajibkan bersikap baik terhadap segala sesuatu, apabila kalian membunuh maka bersikaplah yang baik!" selain Muslim mengatakan mengatakan: maka bunuhlah dengan baik, dan apabila kalian menyembelih maka sembelihlah dengan baik, dan hendaknya salah seorang dari kalian menajamkan pisaunya dan memberikan kenyamanan kepada hewan sembelihannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1955)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2815</td></tr><tr><td>Arabic No</td><td>2815</td></tr><tr><td>Reference</td><td>Book 16 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хишама ибн Язида: «Я зашёл вместе с Анасом к аль-Хакаму ибн Айюбу, и он увидел юношей или мальчиков, которые превратили курицу в мишень и стреляли в неё. Анас сказал: “Посланник Аллаха ﷺ запретил привязывать животное, чтобы стрелять в него!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1955)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2815</td></tr><tr><td>Arabic No</td><td>2815</td></tr><tr><td>Reference</td><td>Book 16 Hadith 28</td></tr></tbody></table></div>
 

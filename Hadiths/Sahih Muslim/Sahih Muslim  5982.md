@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Haritha reported that he heard Allah's Messenger (ﷺ) as saying:His Cistern wou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abdullah bin Bazi'] Telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Syu'bah] dari [Ma'bad bin Khalid] dari [Haritsah] bahwa dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: 'Luas telaga beliau itu antara Shan'a (Yaman) dan Madinah. Lalu seseorang bertanya kepada [Mustawrid]; 'Tidakkah kamu mendengar Rasulullah shallallahu 'alaihi wasallam menyebut gelas-gelas untuk minum? Mustawrid menjawab; 'Tidak.' Orang itu berkata; 'Di telaga itu gelasnya tampak seperti bintang-bintang di langit.' Dan telah menceritakan kepadaku [Ibrahim bin Muhammad bin 'Ar'arah] Telah menceritakan kepada kami [Harami bin Umarah] Telah menceritakan kepada kami [Syu'bah] dari [Ma'bad bin Khalid] bahwa dia mendengar [Haritsah bin Wahab Al Khazai'i] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: -'Lalu dia menyebutkan tentang telaga yang serupa.- namun dia tidak menyebutkan tentang gelas-gelas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5982</td></tr><tr><td>Arabic No</td><td>2298.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5982</td></tr><tr><td>Arabic No</td><td>2298.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 43</td></tr></tbody></table></div>
 

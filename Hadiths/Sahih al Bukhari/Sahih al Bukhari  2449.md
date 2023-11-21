@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whoever has oppressed anothe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abi Iyas] telah menceritakan kepada kami [Ibnu Abi Dza'bi] telah menceritakan kepada kami [Sa'id Al Maqburiy] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang pernah berbuat aniaya (zhalim) terhadap kehormatan saudaranya atau sesuatu apapun hendaklah dia meminta kehalalannya (maaf) pada hari ini (di dunia) sebelum datang hari yang ketika itu tidak bermanfaat dinar dan dirham. Jika dia tidak lakukan, maka (nanti pada hari qiyamat) bila dia memiliki amal shalih akan diambil darinya sebanyak kezholimannya. Apabila dia tidak memiliki kebaikan lagi maka keburukan saudaranya yang dizholiminya itu akan diambil lalu ditimpakan kepadanya". Berkata, Abu 'Abdullah Al Bukhariy berkata, Isma'il bin Abi Uwais: "Sa'id dipangil namanya dengan Al Maqburiy karena dia pernah tinggal di pinggiran maqabir (kuburan). Berkata, Abu 'Abdullah Al Bukhariy: Dan Sa'id Al Maqburiy adalah maula Bani Laits yang nama aslinya adalah Sa'id bin Abi Sa'id sedangkan nama Abu Sa'id adalah Kaisan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2449</td></tr><tr><td>Arabic No</td><td>2449</td></tr><tr><td>Reference</td><td>Book 46 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Пусть допустивший (такую) несправедливость по отношению к своему брату, которая затронула его честь или что-нибудь ещё, освободится от этого сегодня, прежде чем исчезнут динары и дирхемы, (ибо тогда,) если будут у него (в запасе) благие дела, их заберут у него в соответствии (с тяжестью нанесённой) им обиды, а если добрых дел у него не окажется, будет взято (что-нибудь) из дурных дел обиженного и возложено на него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2449</td></tr><tr><td>Arabic No</td><td>2449</td></tr><tr><td>Reference</td><td>Book 46 Hadith 10</td></tr></tbody></table></div>
 

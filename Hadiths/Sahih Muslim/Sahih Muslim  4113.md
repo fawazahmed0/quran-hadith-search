@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported:There came a slave and pledg- ed alle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Ibnu Rumh] keduanya berkata; telah mengabarkan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Abu Zubair] dari [Jabir] dia berkata, "Seorang budak datang membaiat Nabi shallallahu 'alaihi wasallam untuk turut berhijrah, anehnya dia tidak merasa dirinya seorang budak, tiba-tiba tuannya datang menginginkan dia, maka Nabi shallallahu 'alaihi wasallam pun bersabda kepada majikannya: "Juallah dia kepadaku, saya akan menukarnya dengan dua budak yang hitam." Setelah kejadian itu, beliau tidak pernah membaiat seseorang sebelum ditanya dirinya budak atau seorang yang merdeka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4113</td></tr><tr><td>Arabic No</td><td>1602</td></tr><tr><td>Reference</td><td>Book 22 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4113</td></tr><tr><td>Arabic No</td><td>1602</td></tr><tr><td>Reference</td><td>Book 22 Hadith 152</td></tr></tbody></table></div>
 

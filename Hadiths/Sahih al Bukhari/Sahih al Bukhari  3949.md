@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq:Once, while I was sitting beside Zaid bin Al-Arqam, he was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdullah bin Muhammad] telah menceritakan kepada kami [Wahb] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq]; "Aku pernah berada di samping [Zaid bin Arqam] lalu ditanyakan kepadanya; "Berapa kali Nabi shallallahu 'alaihi wasallam ikut dalam peperangan?". Dia menjawab; "Sembilan belas kali". Lalu ditanyakan lagi; "Berapa kali kamu menyertai beliau berperang?". Dia menjawab; "Tujuh belas kali". Aku bertanya; "Di antara perang-perang itu, mana yang pertama terjadi?". Dia menjawab; "Perang al-'Usairah atau al-'Usyairah". Kemudian aku tanyakan kepada Qatadah, maka dia menjawab; "Perang al-'Usyairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3949</td></tr><tr><td>Arabic No</td><td>3949</td></tr><tr><td>Reference</td><td>Book 64 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Зейда бин Аркама, да будет доволен им Аллах, спросили: «Сколько военных походов совершил Пророк ﷺ?» Он ответил: «Девятнадцать». (Его) спросили: «А сколько походов совершил вместе с ним ты?» — и он сказал: «Семнадцать». (Передатчик этого хадиса сказал): «Я спросил: “А какой из них был первым?” Он сказал: “(Поход) на аль-‘Ушайр (или: аль-‘Усайру)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3949</td></tr><tr><td>Arabic No</td><td>3949</td></tr><tr><td>Reference</td><td>Book 64 Hadith 1</td></tr></tbody></table></div>
 

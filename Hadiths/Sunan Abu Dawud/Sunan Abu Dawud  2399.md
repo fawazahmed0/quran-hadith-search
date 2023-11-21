@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:If I had some part of the fast of Ramadan to make up, I would n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi], dari [Malik] dari [Yahya bin Sa'id] dari [Abu Salamah bin Abdurrahman] bahwa ia telah mendengar [Aisyah] radliallahu 'anha berkata; sesungguhnya aku berkewajiban melakukan puasa Ramadhan dan aku tidak mampu melakukannya hingga datang Bulan Sya'ban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1950) Sahih Muslim (1146)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2399</td></tr><tr><td>Arabic No</td><td>2399</td></tr><tr><td>Reference</td><td>Book 14 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Случалось, что мне нужно было восполнять пропущенные дни поста в рамадане, однако я не могла сделать это до следующего ша‘бана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1950) Sahih Muslim (1146)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2399</td></tr><tr><td>Arabic No</td><td>2399</td></tr><tr><td>Reference</td><td>Book 14 Hadith 87</td></tr></tbody></table></div>
 

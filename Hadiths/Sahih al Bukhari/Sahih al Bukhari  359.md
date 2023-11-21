@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "None of you should offer prayer in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Malik] dari [Abu Az Zanad] dari ['Abdurrahman Al 'raj] dari [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang dari kalian shalat dengan menggunakan satu kain, hingga tidak selembar pun kain yang menutupi kedua pundaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>359</td></tr><tr><td>Arabic No</td><td>359</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Пророк ﷺ сказал: “Пусть никто из вас не молится в одной одежде с непокрытыми плечами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>359</td></tr><tr><td>Arabic No</td><td>359</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
 

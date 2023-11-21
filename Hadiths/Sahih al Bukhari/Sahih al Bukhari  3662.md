@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Al-As:The Prophet (ﷺ) deputed me to read the Army of Dhat-as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Mu'allaa bin Asad] telah bercerita kepada kami ['Abdul 'Aziz bin Al Mukhtar] yang berkata, bahwa [Khalid Al Hadzdza'] telah bercerita kepada kami, dari [Abu 'Utsman] berkata, telah bercerita kepadaku ['Amru bin Al 'Ash radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam mengutusnya beserta rombongan pasukan Dzatus Sulasil. Lalu aku ('Amru) bertanya kepada beliau; "Siapakah manusia yang paling baginda cintai? '. Beliau menjawab: "'Aisyah". Aku katakan; "Kalau dari kalangan laki-laki?". Beliau menjawab: "Bapaknya". Aku tanyakan lagi; "Kemudian siapa lagi?". Beliau menjawab; "'Umar bin Al Khaththab". Selanjutnya beliau menyebutkan beberapa orang laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3662</td></tr><tr><td>Arabic No</td><td>3662</td></tr><tr><td>Reference</td><td>Book 62 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Амра ибн аль-‘Аса, да будет доволен им Аллах, что (в своё время) Пророк ﷺ поставил его во главе отряда, который должен был двинуться на Зат ас-Салясиль. (‘Амр ибн аль-‘Ас, да будет доволен им Аллах, сказал): «И я пришёл к нему и спросил: “Кого из людей ты любишь больше всех?” Он ответил: “‘Аишу”. Я спросил: “А из мужчин?” Он ответил: “Её отца”. Я спросил: “А кого потом?” Он ответил: “‘Умара ибн аль-Хаттаба”, и назвал ещё несколько человек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3662</td></tr><tr><td>Arabic No</td><td>3662</td></tr><tr><td>Reference</td><td>Book 62 Hadith 14</td></tr></tbody></table></div>
 

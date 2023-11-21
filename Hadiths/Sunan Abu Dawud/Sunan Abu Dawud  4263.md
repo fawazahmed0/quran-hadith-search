@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miqdad ibn al-Aswad: I swear by Allah, I heard the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim Ibnul Hasan Al Misshishi] berkata, telah menceritakan kepada kami [Hajjaj] -maksudnya Hajjaj bin Muhammad- ia berkata, telah menceritakan kepada kami [Al Laits bin Sa'd] ia berkata; telah menceritakan kepadaku [Mu'awiyah bin Shalih] bahwa ['Abdurrahman bin Jubair] menceritakan kepadanya dari [Bapaknya] dari [Al Miqdad Ibnul Aswad] ia berkata, "Demi Allah, aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang bahagia adalah orang yang terhindar dari fitnah, orang yang bahagia adalah orang yang terhindar dari fitnah, orang yang bahagia adalah orang yang terhindar dari fitnah dan orang yang tertimpa musibah lalu bersabar seraya mengucapkan, "Betapa baiknya cobaan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4263</td></tr><tr><td>Arabic No</td><td>4263</td></tr><tr><td>Reference</td><td>Book 37 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Микдад ибн аль-Асвад, да будет доволен им Аллах, передаёт: «Клянусь Аллахом, я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, счастлив тот, кто избежал участия в смутах! Поистине, счастлив тот, кто избежал участия в смутах! Поистине, счастлив тот, кто избежал участия в смутах! И счастлив тот, кто подвергся испытанию, но проявил терпение! Ах, (как счастлив он)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4263</td></tr><tr><td>Arabic No</td><td>4263</td></tr><tr><td>Reference</td><td>Book 37 Hadith 24</td></tr></tbody></table></div>
 

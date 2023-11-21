@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said, "Do not wish to be like anyone,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syihab bin Ibad] telah menceritakan kepada kami [Ibrahim bin Humaid] dari [Ismail] dari [Qais] dari [Abdullah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak diperbolehkan iri kecuali dalam dua hal, seseorang yang Allah memberinya harta, lantas ia belanjakan untuk al haq, dan seseorang yang Allah beri hikmah, kemudian ia pergunakan untuk memutuskan hukum dan ia ajarkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7141</td></tr><tr><td>Arabic No</td><td>7141</td></tr><tr><td>Reference</td><td>Book 93 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Не следует завидовать никому, кроме (обладающих) двумя качествами: человеку, которому Аллах даровал богатство и которого Он направил к тому, чтобы без остатка потратить его на должное, и другому (человеку), которому Аллах даровал мудрость и который поступает сообразно ей и передаёт её (другим)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7141</td></tr><tr><td>Arabic No</td><td>7141</td></tr><tr><td>Reference</td><td>Book 93 Hadith 5</td></tr></tbody></table></div>
 

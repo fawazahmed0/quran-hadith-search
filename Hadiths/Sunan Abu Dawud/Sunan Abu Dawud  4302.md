@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated from Abi Sukainah One of the Companions: The Prophet (ﷺ) said: Let th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Muhammad Ar Ramli] berkata, telah menceritakan kepada kami [Dhamrah] dari [As Saibani] dari [Abu Sukainah] seorang lelaki dari Al Muhararaini, dari [seorang laki-laki] di antara sahabat Nabi shallallahu 'alaihi wasallam, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Biarkanlah orang-orang Habasyah sebagaimana mereka membiarkan kalian, dan tinggalkanlah orang-orang Turki sebagaimana mereka meninggalkan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4302</td></tr><tr><td>Arabic No</td><td>4302</td></tr><tr><td>Reference</td><td>Book 39 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Один из сподвижников Пророка ﷺ передаёт, что Пророк ﷺ сказал: «Не трогайте эфиопов /хабаша/ до тех пор, пока они не трогают вас, и не трогайте тюрков до тех пор, пока они не трогают вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4302</td></tr><tr><td>Arabic No</td><td>4302</td></tr><tr><td>Reference</td><td>Book 39 Hadith 12</td></tr></tbody></table></div>
 

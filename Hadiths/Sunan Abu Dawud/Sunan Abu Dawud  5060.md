@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdurrahman bin Ibrahim Ad Dimasyqi] berkata, telah menceritakan kepada kami [Al Walid] ia berkata; [Al Auza'i] berkata; telah menceritakan kepadaku [Umair bin Hani] ia berkata; telah menceritakan kepadaku [Junadah bin Abu Umayyah] dari [Ubadah bin Ash Shamit] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa terbangun di malam hari dan ketika bangun ia membaca: "LAA ILAAHA ILLAAHU WAHDAHU LAA SYARIIKALAH LAHUL MULKU WALAHUL HAMDU WAHUWA 'ALAA KULLI SYAI'IN QADIIR, SUBHAANALLAAHI WAL HAMDULILLAHI WA LAA ILAAHA ILLAAHU WAALLAHU AKBAR WA LAA HAULA WA LAA QUWWATA ILLA BILLAHI (Tidak ada Tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya, milik-Nya semua kerajaan dan bagi-Nya semua pujian. Dan Dia Maha Kuasa atas segala sesuatu. Maha Suci Allah, segala puji hanya milik Allah, tidak ada Ilah (Tuhan yang wajib diibadahi) selain Allah, Allah Maha Besar, tidak ada daya dan kekuatan melainkan hanya dengan Allah). Kemudian berdoa RABBIGHFIRLII (Ya Allah ampunilah aku) -Al Walid menyebutkan- Atau beliau mengatakan, "Lalu berdoa maka doanya akan diterima. Jika ia berdiri wudhu lalu shalat, maka shalatnya akan diterima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1154)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5060</td></tr><tr><td>Arabic No</td><td>5060</td></tr><tr><td>Reference</td><td>Book 43 Hadith 288</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Убады бин ас-Самита, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если человек проснётся ночью и скажет: „Нет истинного бога, кроме одного лишь Аллаха, у Которого нет сотоварища, Ему принадлежит власть и Ему хвала; Он всё может; хвала Аллаху; пречист Аллах; нет истинного бога, кроме Аллаха; Аллах велик; нет мощи и силы ни у кого, кроме Аллаха /Ля иляха илля-Ллаху вахда-ху ля шарикя ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамд, ва хуа ‘аля кулли шайй‘ин кадир; аль-хамду ли-Ллях, ва субхана-Ллах, ва ля иляха илля-Ллах, ва-Ллаху акбар, ва ля хауля ва ля куввата илля би-Ллях/“, а потом скажет: „О Аллах, прости меня! /Аллахумма-гфир ли! /“ или же обратится к Аллаху с (какой-нибудь иной) мольбой, то на мольбу его будет дан ответ, если же он совершит омовение и совершит намаз, то намаз его будет принят»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1154)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5060</td></tr><tr><td>Arabic No</td><td>5060</td></tr><tr><td>Reference</td><td>Book 43 Hadith 288</td></tr></tbody></table></div>
 

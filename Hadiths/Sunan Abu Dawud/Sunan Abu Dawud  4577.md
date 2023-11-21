@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:About this story: Then the woman, against whom he decided 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6740) Sahih Muslim (1681)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4577</td></tr><tr><td>Arabic No</td><td>4577</td></tr><tr><td>Reference</td><td>Book 41 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+А в другой версии этого хадиса от Абу Хурайры, да будет доволен им Аллах, говорится, что вскоре женщина, за погибший плод которой по решению Посланника Аллаха ﷺ должна была быть выплачена компенсация, умерла, и Посланник Аллаха ﷺ постановил, что её наследство должно достаться её детям, а компенсацию (за убийство) должны выплатить родственники убившей со стороны отца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6740) Sahih Muslim (1681)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4577</td></tr><tr><td>Arabic No</td><td>4577</td></tr><tr><td>Reference</td><td>Book 41 Hadith 84</td></tr></tbody></table></div>
 

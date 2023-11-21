@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:On the Day of 'Id the Prophet (ﷺ) used to return 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Salam- berkata, telah mengabarkan kepada kami [Abu Tumailah Yahya bin Wadlih] dari [Fulaih bin Sulaiman] dari [Sa'id bin Al Harits] dari [Jabir bin 'Abdullah] radliallahu 'anhuma, ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam shalat 'Ied, beliau mengambil jalan yang berbeda (antara berangkat dan kembali)." Hadits ini dikuatkan oleh [Yunus bin Muhammad] dari [Fulaih]. Dan [Muhammad bin Ash Shalt] berkata dari [Fulaih] dari [Sa'id] dari [Abu Hurairah]. Dan hadits Jabir lebih shahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>986</td></tr><tr><td>Arabic No</td><td>986</td></tr><tr><td>Reference</td><td>Book 13 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «В день праздника Пророк ﷺ обычно возвращался обратно с намаза не тем путём(, которым он шёл на него)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>986</td></tr><tr><td>Arabic No</td><td>986</td></tr><tr><td>Reference</td><td>Book 13 Hadith 35</td></tr></tbody></table></div>
 

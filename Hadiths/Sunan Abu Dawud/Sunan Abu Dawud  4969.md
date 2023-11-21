@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said :The Messenger of Allah (May peace be upon him) used to come 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah menceritakan kepada kami [Tsabit] dari [Anas bin Malik] ia berkata, "Suatu kali Rasulullah shallallahu 'alaihi wasallam datang kepada kami, sementara kami mempunyai adik kecil yang dijuluki Abu Umair. Burung kecil miliknya yang biasa ia ajak main bersama mati. Lalu suatu hari Nabi shallallahu 'alaihi wasallam masuk dan menemuinya sedang bersedih, beliau bertanya: "Apa yang sedang terjadi dengannya?" orang-orang menjawab, "Burung kecilnya mati." Beliau lantas bersabda: "Wahai Abu Umair, apa yang sedang dilakukan oleh burung kecilmu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (847)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4969</td></tr><tr><td>Arabic No</td><td>4969</td></tr><tr><td>Reference</td><td>Book 43 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (847)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4969</td></tr><tr><td>Arabic No</td><td>4969</td></tr><tr><td>Reference</td><td>Book 43 Hadith 197</td></tr></tbody></table></div>
 

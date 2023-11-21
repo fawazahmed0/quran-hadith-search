@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:Once a bedouin came to the Prophet (ﷺ) and asked him about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3923</td></tr><tr><td>Arabic No</td><td>3923</td></tr><tr><td>Reference</td><td>Book 63 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид, да будет доволен им Аллах, сказал: «(Как-то раз) один бедуин пришёл к Пророку ﷺ и спросил его о переселении, и (Пророк ﷺ) сказал: “Да помилует тебя Аллах, поистине, переселение — это трудное дело! А есть ли у тебя верблюды?” Он ответил: “Да”. (Пророк ﷺ) спросил: “И ты выплачиваешь с них закят?” (Бедуин) ответил: “Да”. (Пророк ﷺ) спросил: “А даёшь ли ты их во временное пользование (чтобы их молоком могли использовать другие)?” Он ответил: “Да”. (Пророк ﷺ) спросил: “А доишь ли ты её в день поения?” Он ответил: “Да”. Тогда (Пророк ﷺ) сказал: “Так (продолжай) делать это (, даже если будешь жить) за морями, ведь, поистине, Аллах никогда не оставит (незамеченным) ни одно из дел твоих!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3923</td></tr><tr><td>Arabic No</td><td>3923</td></tr><tr><td>Reference</td><td>Book 63 Hadith 148</td></tr></tbody></table></div>
 

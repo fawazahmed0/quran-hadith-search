@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:Allah's Messenger (ﷺ) forbade the selling by Munabadha, i.e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, telah menceritakan kepada saya [Al Laits] berkata, telah menceritakan kepada saya ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya ['Amir bin Sa'ad] bahwa [Abu Sa'id radliallahu 'anhu] mengabarkannya bahwa Rasulullah shallallahu 'alaihi wasallam melarang munaabadzah, yaitu seseorang melempar pakaiannya sebagai bukti pembelian harus terjadi (dengan mengatakan bila kamu sentuh berarti terjadi transaksi) sebelum orang lain itu menerimanya atau melihatnya dan Beliau juga melarang mulaamasah, yaitu menjual kain dengan hanya menyentuh kain tersebut tanpa melihatnya (yaitu dengan suatu syarat misalnya kalau kamu sentuh berarti kamu harus membeli)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2144</td></tr><tr><td>Arabic No</td><td>2144</td></tr><tr><td>Reference</td><td>Book 34 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил мунабаза, то есть продавать одежду бросая её покупателю, не позволяя ему осмотреть её. А также запретил мулямаса. Мулямаса — это покупка одежды трогая её руками, но не разворачивая для осмотра
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2144</td></tr><tr><td>Arabic No</td><td>2144</td></tr><tr><td>Reference</td><td>Book 34 Hadith 96</td></tr></tbody></table></div>
 

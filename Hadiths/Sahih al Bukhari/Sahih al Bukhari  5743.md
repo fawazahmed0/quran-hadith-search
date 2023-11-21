@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to treat some of his wives by passing his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku [Sulaiman] dari [Muslim] dari [Masruq] dari ['Aisyah] radliallahu 'anha bahwa Nabi shallallahu 'alaihi wasallam selalu meminta perlindungan terhadap sebagian keluarganya, beliau mengusap dengan tangan kanannya sambil berdo'a; "ALLAHUMMA RABBAN NAASI ADZHIBIL BA'SA ISYFIHI ANTA SYAAFI LAA SYIFAA'A ILLA SYIFAA'UKA SYIFAA'AN LAA YUGHAADIRU SAQAMA (Ya Allah Rabb manusia, dzat yang menghilangkan rasa sakit, sembuhkanlah sesungguhnya Engkau Dzat yang Maha menyembuhkan, tidak ada kesembuhan melainkan dari kesembuhan-Mu, yaitu kesembuhan yang tidak menyisakan rasa sakit)." [Sufyan] berkata; Aku menceritakan hal ini kepada [Manshur], maka dia menceritakan kepadaku dari [Ibrahim] dari [Masruq] dari [Aisyah] seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5743</td></tr><tr><td>Arabic No</td><td>5743</td></tr><tr><td>Reference</td><td>Book 76 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что, когда Пророк ﷺ заклинал от болезни кого-либо из членов своей семьи, он проводил по нему правой рукой, а затем говорил: «О Аллах, Господь людей, удали эту болезнь, и исцели его! Ты — целитель, нет исцеления, кроме Твоего исцеления, (исцели же так, чтобы после этого) не осталось болезни!»\n/Аллахумма, Рабба-н-наси, азхиби-ль-баъса, ишфи-хи ва Анта-ш-шафи, ля шифаъа илля шифаъу-кя шифаъан ля йугадиру сакаман
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5743</td></tr><tr><td>Arabic No</td><td>5743</td></tr><tr><td>Reference</td><td>Book 76 Hadith 58</td></tr></tbody></table></div>
 

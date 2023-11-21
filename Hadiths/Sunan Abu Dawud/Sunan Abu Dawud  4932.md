@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: When the Messenger of Allah (ﷺ) arrived after 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Auf] berkata, telah menceritakan kepada kami [Sa'id bin Abu maryam] berkata, telah mengabarkan kepada kami [Yahya bin Ayyub] ia berkata; telah menceritakan kepadaku [Umarah bin Ghaziyah] bahwa [Muhammad bin Ibrahim] menceritakan kepadanya dari [Abu Salamah bin 'Abdurrahman] dari ['Aisyah radliallahu 'anha] ia berkata, "Rasulullah shallallahu 'alaihi wasallam tiba dari perang Tabuk atau Khaibar, sementara kamar 'Aisyah ditutup dengan satir. Ketika ada angin yang bertiup, satir itu tersingkap hingga boneka-bonekaan 'Aisyah terlihat. Beliau lalu bertanya: "Wahai 'Aisyah, ini apa?" 'Aisyah menjawab, "Anak-anak bonekaku." Lalu beliau juga melihat patung kuda yang mempunyai dua sayap. Beliau bertanya: "Lalu suatu yang aku lihat di tengah-tengah boneka ini apa?" 'Aisyah menjawab, "Boneka Kuda." Beliau bertanya lagi: "Lalu yang ada di bagian atasnya ini apa?" 'Aisyah menjawab, "Dua sayap." Beliau bertanya lagi: "Kuda mempunyai dua sayap!" 'Aisyah menjawab, "Tidakkah engkau pernah mendengar bahwa Nabi Sulaiman mempunyai kuda yang punya banyak sayap?" 'Aisyah berkata, "Beliau lalu tertawa hingga aku dapat melihat giginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4932</td></tr><tr><td>Arabic No</td><td>4932</td></tr><tr><td>Reference</td><td>Book 43 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ вернулся из похода на Табук или Хайбар, и маленькая комната, (в которой сидела ‘Аиша,) была занавешена, но подул ветер, и из-за занавески показались куклы, с которыми обычно играла ‘Аиша. (Увидев их, Посланник Аллаха ﷺ) спросил: “Что это, о ‘Аиша?” Она ответила: “Это мои дочки”. Тут Посланник Аллаха ﷺ заметил среди кукол лошадь с двумя крыльями из материи и спросил: “А что это я вижу там среди них?” Она ответила: “Это лошадь”. (Посланник Аллаха ﷺ вновь) спросил: “А что это на ней?” Она ответила: “Это крылья”. (Посланник Аллаха ﷺ) спросил: “Лошадь с крыльями?” (‘Аиша в свою очередь) спросила: “Разве ты не слышал, что у Сулеймана была конница с крыльями?” (‘Аиша) сказала: «(Услышав это, Посланник Аллаха ﷺ) рассмеялся так, что я увидела его коренные зубы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4932</td></tr><tr><td>Arabic No</td><td>4932</td></tr><tr><td>Reference</td><td>Book 43 Hadith 160</td></tr></tbody></table></div>
 

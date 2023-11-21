@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of the Messenger of Allah (ﷺ), reported:I never saw Allah's M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Ma'ruf] telah menceritakan kepada kami [Ibnu Wahb] dari [Amru bin Harits] -dalam jalur lain- Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepada kami [Amru bin Harits] bahwa [Abu Nadlr] telah menceritakan kepadanya dari [Sulaiman bin Yasar] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa ia berkata; "Saya tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam tertawa terbahak-bahak hingga kelihatan tenggorokan beliau, karena biasanya beliau hanya tersenyum." Aisyah juga berkata; Dan jika beliau melihat awan hitam mengkelam atau angin yang bertiup kencang, maka (kekhawatiran) dapat dilihat dari raut wajah beliau. Aisyah pun bertanya, "Wahai Rasulullah, saya memperhatikan manusia, bila mereka melihat kabut hitam, maka mereka begitu senang, karena akan segera turun hujan, namun saya memperhatikan Tuan ketika melihatnya, saya dapat menangkap (kekhawatiran) di raut muka Tuan." Beliau menjawab: "Wahai Aisyah, saya khawatir bahwa kabut itu akan menjadi adzab. Sungguh, telah ada suatu kaum yang diadzab dengan angin, dan kaum itu pun telah melihat adzab, namun mereka berkata, 'Inilah awan yang akan menurunkan hujan kepada kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2086</td></tr><tr><td>Arabic No</td><td>899.03</td></tr><tr><td>Reference</td><td>Book 9 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что жена Пророка ﷺ ‘Аиша сказала: «Я никогда не видела Посланника Аллаха ﷺ смеющимся во весь рот так, чтобы был виден его язычок, ибо он только улыбался».(‘Аиша также) сказала: «Когда (Пророк ﷺ) видел тучу или (замечал, что поднимается) ветер, (он испытывал беспокойство, что) было заметно по его лицу, (и однажды я) сказала: “О Посланник Аллаха, когда люди видят тучи, они радуются, надеясь, что они принесут с собой дождь, а по твоему лицу я вижу, что (появление туч) тебя не радует”. (В ответ мне) он сказал: “О ‘Аиша, а как я могу быть уверенным в том, что (эти тучи) не несут с собой наказание (Аллаха)? Ведь люди уже подвергались наказанию ветром, а до этого они увидели (надвигающееся на них) наказание и сказали: “Это туча, которая принесёт нам дождь!”(Сура «аль-Ахкаф», аят 24)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2086</td></tr><tr><td>Arabic No</td><td>899.03</td></tr><tr><td>Reference</td><td>Book 9 Hadith 17</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) would sleep while h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Abu Ishaq] dari [Al Aswad] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah tidur sedang beliau dalam keadaan junub, tanpa menyentuh air. Abu Dawud berkata; Telah menceritakan kepada kami Al Hasan bin Ali Al-Wasithi dia berkata; Saya mendengar Yazid bin Harun mengatakan; Hadits ini wahm, yakni hadits Abu Ishaq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>228</td></tr><tr><td>Arabic No</td><td>228</td></tr><tr><td>Reference</td><td>Book 1 Hadith 228</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ засыпал в состоянии большого осквернения, не прикасаясь к воде».Абу Дауд сказал: «Нам рассказал аль-Хасан ибн ‘Али аль-Васиты, который сказал: “Я слышал, как Йазид ибн Харун говорил: “Этот хадис ошибочный”, имея в виду хадис Абу Исхака”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>228</td></tr><tr><td>Arabic No</td><td>228</td></tr><tr><td>Reference</td><td>Book 1 Hadith 228</td></tr></tbody></table></div>
 

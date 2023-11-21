@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid bin 'Abdur-Rahman that he heard Mu'awiya talking to a group of p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7361</td></tr><tr><td>Arabic No</td><td>7361</td></tr><tr><td>Reference</td><td>Book 96 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хумайд ибн ‘Абдуррахман передаёт, что он слышал как Му‘авия разговаривал с группой курайшитов в Медине, и он упомянул Ка‘ба аль-Ахбара и сказал: «Он был самым правдивым из тех, кто передаёт пересказы от обладателей Писания. И, несмотря на это мы знаем, что часть из того, что он рассказывал являлась ошибкой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7361</td></tr><tr><td>Arabic No</td><td>7361</td></tr><tr><td>Reference</td><td>Book 96 Hadith 88</td></tr></tbody></table></div>
 

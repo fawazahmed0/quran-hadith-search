@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) used to pray (the Nawafil) on his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadhalah] berkata, telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Muhammad bin 'Abdurrahman bin Tsauban] berkata, telah menceritakan kepada saya [Jabir bin 'Abdullah], bahwa Nabi shallallahu 'alaihi wasallam mendirikan shalat diatas hewan tunggangannya menghadap ke Timur. Jika Beliau hendak melaksanakan shalat wajib, maka Beliau turun dan melaksanakannya dengan menghadap qiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1099</td></tr><tr><td>Arabic No</td><td>1099</td></tr><tr><td>Reference</td><td>Book 18 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Джабира ибн ‘Абдуллаха, что Пророк ﷺ совершал молитву сидя верхом на своем верблюде, обратившись в сторону востока, а когда он хотел совершить обязательную молитву, то спускался и обращался в сторону киблы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1099</td></tr><tr><td>Arabic No</td><td>1099</td></tr><tr><td>Reference</td><td>Book 18 Hadith 19</td></tr></tbody></table></div>
 

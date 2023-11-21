@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported:We were'in the company of Allah's Messenger (ﷺ) that he said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Ubaidullah bin Umar] dari [Nafi'] dari [Ibnu Umar] berkata: Kami berada di dekat Rasulullah Shallallahu 'alaihi wa Salam lalu beliau bertanya: "Beritahukan padaku suatu pohon yang mirip orang muslim, daunnya tidak berguguran!" Ibrahim berkata: Mungkin beliau menyebut: Muslim, beliau bersabda: "Selalu berbuah" -seperti ini yang aku temukan dalam riwayat yang lain: "Dan ia tidak berbuah setiap waktu." Ibnu Umar berkata: Hatiku mengatakan bahwa pohon itu adalah pohon kurma. Aku melihat Abu Bakar dan Umar tidak berbicara sehingga aku tidak mau berbicara atau mengatakan apa pun. Umar berkata: Andai kau mengatakannya, itu lebih aku sukai dari ini dan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7102</td></tr><tr><td>Arabic No</td><td>2811.05</td></tr><tr><td>Reference</td><td>Book 52 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7102</td></tr><tr><td>Arabic No</td><td>2811.05</td></tr><tr><td>Reference</td><td>Book 52 Hadith 56</td></tr></tbody></table></div>
 

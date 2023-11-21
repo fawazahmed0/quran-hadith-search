@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:I observed prayer with the Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Abdul Malik bin Abu Sulaiman] dari [Atha'] dari [Jabir bin Abdullah] ia berkata; Aku telah mengikuti shalat hari raya bersama Rasulullah shallallahu 'alaihi wasallam. Beliau memulainya dengan shalat sebelum menyampaikan khutbah, tanpa disertai adzan dan Iqamah. Setelah itu beliau berdiri sambil bersandar pada tangan Bilal. Kemudian beliau memerintahkan untuk selalu bertakwa kepada Allah, dan memberikan anjuran untuk selalu mentaati-nya. Beliau juga memberikan nasehat kepada manusia dan mengingatkan mereka. Setelah itu, beliau berlalu hingga sampai di tempat kaum wanita. Beliau pun memberikan nasehat dan peringatan kepada mereka. Beliau bersabda: "Bersedekahlah kalian, karena kebanyakan kalian akan menjadi bahan bakar neraka jahannam." Maka berdirilah seorang wanita terbaik di antara mereka dengan wajah pucat seraya bertanya, "Kenapa ya Rasulullah?" beliau menjawab: "Karena kalian lebih banyak mengadu (mengeluh) dan mengingkari kelebihan dan kebaikan suami." Akhirnya mereka pun menyedekahkan perhiasan yang mereka miliki dengan melemparkannya ke dalam kain yang dihamparkan Bilal, termasuk cincin dan kalung-kalung mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2048</td></tr><tr><td>Arabic No</td><td>885.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Атаъ (ибн Аби Рабах) о том, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Однажды я присутствовал с Посланником Аллаха ﷺ на праздничной молитве, и он начал с молитвы перед проповедью, без призыва /азан/ и объявления о начале молитвы /икама/. Затем он встал, опираясь на Биляля, и велел (людям) бояться Аллаха, призвал их к покорности Ему, стал увещевать их и напоминать им. Затем он подошёл к женщинам, стал увещевать их и напоминать им и сказал: “Подавайте милостыню, ибо, поистине, большинство из вас является топливом геенны”. Тогда среди этих женщин встала одна темнощёкая женщина и сказала: “Почему, о Посланник Аллаха?” Он ответил: “Потому что вы много жалуетесь и неблагодарны по отношению к своим мужьям”».(Джабир) сказал: «И они начали отдавать в качестве милостыни свои драгоценности, бросая серёжки и кольца в одежду Биляла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2048</td></tr><tr><td>Arabic No</td><td>885.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 4</td></tr></tbody></table></div>
 

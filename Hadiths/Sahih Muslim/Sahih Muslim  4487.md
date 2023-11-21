@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr Ibn Al-'As (que Dieu l'agrée) rapporte qu'il a entendu l'Envoyé de Dieu (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Abdul Aziz bin Muhammad] dari [Yazid bin Abdullah bin Usamah bin Hadi] dari [Muhammad bin Ibrahim] dari [Busr bin Sa'id] dari [Abu Qais] bekas budak 'Amru bin'Ash, dari ['Amru bin'Ash] bahwa dia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seorang hakim berijtihad dalam menetapkan suatu hukum, ternyata hukumnya benar, maka hakim tersebut akan mendapatkan dua pahala, dan apabila dia berijtihad dalam menetapkan suatu hukum, namun dia salah, maka dia akan mendapatkan satu pahala." Dan telah menceritakan kepadaku [Ishaq bin Ibrahim] dan [Muhammad bin Abu Umar] keduanya dari [Abdul Aziz bin Muhammad] dengan isnad seperti ini, namun ada sedikit tambahan dalam akhir haditsnya. [Yazid] berkata, "Aku telah menceritakan hadits ini kepada [Abu Bakar bin Muhammad bin 'Amru bin Hazm] lalu dia berkata, "Seperti inilah [Abu Salamah] menceritakan kepadaku dari [Abu Hurairah]." Dan telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Marwan] -yaitu Ibnu Muhammad Ad Damasyqi- telah menceritakan kepada kami [Laits bin Sa'd] telah menceritakan kepadaku [Yazid bin Abdullah bin Usamah bin Hadi Al Laitsi] dengan hadits ini seperti riwayat Abdul Aziz bin Muhammad dengan kedua isnad tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4487</td></tr><tr><td>Arabic No</td><td>1716.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4487</td></tr><tr><td>Arabic No</td><td>1716.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubadah ibn as-Samit: After me you will come under rulers who will be de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Qudamah bin A'yan] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Hilal bin Yasaf] dari [Abu Al Mutsanna] dari [Anak saudara perempuannya Ubadah bin Ash Shamit] dari [Ubadah bin Ash Shamit] (demikian juga diriwayatkan dari jalur lain), Dan telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] telah menceritakan kepada kami [Waki'] dari [Sufyan] secara makna dari [Manshur] dari [Hilal bin Yasaf] dari [Abu Al Mutsanna Al Himshi] dari [Abu Ubay bin Imra'ah Ubadah bin Ash Shamit] dari [Ubadah bin Ash Shamit] dia berkata; Rasulullah Shallallahu alaihi wasallah bersabda: "Sesungguhnya akan ada setelahku para pemimpin kalian yang disibukkan oleh urusan dunia dari melaksanakan shalat pada waktunya hingga waktunya pergi. Maka laksanakanlah shalat pada waktunya." Ada seorang lelaki bertanya; Wahai Rasulullah, apakah kami juga shalat bersama mereka? Beliau menjawab: "Ya, jika engkau mau." Sufyan menyebutkan; Jika saya mendapati shalat bersama mereka, apakah saya juga shalat bersama mereka? Beliau menjawab: "Ya, jika engkau mau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>433</td></tr><tr><td>Arabic No</td><td>433</td></tr><tr><td>Reference</td><td>Book 2 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убада ибн ас-Самит сказал: «Посланник Аллаха ﷺ сказал: “Поистине, будут у вас правители после меня, которых какие-то вещи будут удерживать от совершения молитвы, пока не истечёт их время. А вы совершайте молитву в её установленное время”. Один человек сказал: “О Посланник Аллаха, следует ли мне с ними молиться?” Он ответил: “Да, если пожелаешь”».Суфьян (в своем риваяте) сказал: «А если я застану их в молитве, следует ли мне с ними молиться?» Он ответил: «Да, если пожелаешь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>433</td></tr><tr><td>Arabic No</td><td>433</td></tr><tr><td>Reference</td><td>Book 2 Hadith 43</td></tr></tbody></table></div>
 

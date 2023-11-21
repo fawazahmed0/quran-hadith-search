@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to send the Hadi from Medina and I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] telah menceritakan kepada kami [Ibnu Syihab] dari ['Urwah] dan dari ['Amrah binti 'Abdurrahman] bahwa ['Aisyah radliallahu 'anha] berkata; "Adalah Rasulullah Shallallahu'alaihiwasallam membawa hewan qurbannya dari Madinah lalu aku mengikatkan kalung pada hewan qurban Beliau maka Beliau tidak menjauhi sesuatu apa-apa yang harus diijauhi oleh orang yang berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1698</td></tr><tr><td>Arabic No</td><td>1698</td></tr><tr><td>Reference</td><td>Book 25 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ посылал жертвенный скот из Медины в Мекку для заклания, а я плела повязки для этого скота, и Посланник Аллаха ﷺ при этом не избегал ничего из того, чего обязан избегать облачившийся в ихрам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1698</td></tr><tr><td>Arabic No</td><td>1698</td></tr><tr><td>Reference</td><td>Book 25 Hadith 176</td></tr></tbody></table></div>
 

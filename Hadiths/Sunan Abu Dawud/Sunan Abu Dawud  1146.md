@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd al-Rahman b. 'Abis said:A man asked Ibb 'Abbas: Have you been present along 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Abdurrahman bin 'Abis] dia berkata; seorang laki-laki bertanya kepada [Ibnu Abbas]; "Apakah kamu pernah menyaksikan hari raya bersama Rasulullah shallallahu 'alaihi wasallam?" jawabnya; "Ya, sekiranya tidak karena kedudukanku di sisi beliau, niscaya aku tidak akan menyaksikan sejak kecil. Rasulullah shallallahu 'alaihi wasallam mendekati bendera yang mendatangi bendera yang berada di rumah Katsir bin Ash-Shalt, lalu beliau mengerjakan shalat kemudian menyampaikan khutbah. -tanpa menyebutkan adzan dan iqamah- Ibnu Abbas berkata; setelah itu beliau memerintahkan kami untuk bersedekah." Kata ibnu Abbas melanjutkan; "Maka para wanita menunjuk ke telinga dan leher mereka (melepas anting dan kalung mereka -pent), " Kata Ibnu Abbas; "Beliau menyuruh Bilal mendatangi mereka (untuk mengambil hasil sedekah), lantas Bilal menyerahkan kepada Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (863)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1146</td></tr><tr><td>Arabic No</td><td>1146</td></tr><tr><td>Reference</td><td>Book 2 Hadith 757</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуррахмана ибн ‘Абиса, что один человек спросил Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Совершал ли ты праздничную молитву с посланником Аллаха ﷺ?» Он ответил: «Да, и если бы не моё положение при нём, я бы не смог принимать участие в этих молитвах, поскольку был слишком мал. Посланник Аллаха ﷺ пришёл к знамени, стоявшему у дома Касира ибн ас-Сальта, и совершил молитву, а потом произносил проповедь, не предваряя молитву ни азаном, ни икаматом. Затем он стал побуждать людей подавать милостыню, и женщины потянулись к своим серьгам и кольцам. Тогда Биляль подошёл к ним по велению Пророка ﷺ, а затем вернулся к нему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (863)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1146</td></tr><tr><td>Arabic No</td><td>1146</td></tr><tr><td>Reference</td><td>Book 2 Hadith 757</td></tr></tbody></table></div>
 

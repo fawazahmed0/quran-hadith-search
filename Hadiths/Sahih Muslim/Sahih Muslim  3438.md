@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported:I heard Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Abdurrahman bin Abdul Aziz]. Ibnu Maslamah adalah seorang dari Anshar salah seorang anak Abu Umamah bin Sahl bin Hunaif, dia berkata; dari [ibnu syihab] dari [Qabishah bin Dzuaib] dari [Abu Hurairah] dia berkata; Saya telah medengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah bibi (dari pihak ayah) dinikahi bersamaan dengan putrinya saudara laki-laki dan jangan pula putrinya saudara perempuan dinikahi dengan bibinya (dari pihak ibu) sekaligus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>1408.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>1408.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 41</td></tr></tbody></table></div>
 

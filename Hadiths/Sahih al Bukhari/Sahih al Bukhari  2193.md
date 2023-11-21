@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Zaid bin Thabit (ra) said, "In the lifetime of Allah's Messenger (ﷺ), the peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2193</td></tr><tr><td>Arabic No</td><td>2193</td></tr><tr><td>Reference</td><td>Book 34 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд бин Сабит, да будет доволен им Аллах, сказал: «При жизни Посланника Аллаха ﷺ многие люди занимались торговлей финиками, и, когда они срывали их и за ними (приходили те, кто купил их заранее), покупатель (часто) говорил: “Финики гниют, болеют разными другими болезнями и не поспевают”, выдвигая это в качестве довода (против продавца); когда же количество (связанных с этим) тяжб увеличилось, Посланник Аллаха ﷺ сказал: “В таком случае не продавайте финики, пока не станет ясно, что они пригодны (к употреблению)!” — что (должно было) послужить указанием на то, что они (слишком) много спорили»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2193</td></tr><tr><td>Arabic No</td><td>2193</td></tr><tr><td>Reference</td><td>Book 34 Hadith 140</td></tr></tbody></table></div>
 

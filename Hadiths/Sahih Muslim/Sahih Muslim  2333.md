@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] Telah menceritakan kepada kami [Abu Usamah] dari [Syu'bah] dari [Sa'id bin Abu Burdah] dari [bapaknya] dari [kakeknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Setiap orang mukmin wajib bersedekah." Lalu ditanyakanlah kepada beliau, "Bagaimana kalau dia tidak sanggup?" Beliau menjawab: "Hendaknya ia bekerja untuk dapat memberi manfaat kepada dirinya sendiri dan supaya ia dapat bersedekah." Ditanyakan lagi pada beliau, "Bagaimana kalau dia tidak sanggup." Beliau menjawab: "Hendaknya ia membantu orang yang dalam kesulitan." Ditanyakan lagi pada beliau, "Bagaimana kalau dia tidak sanggup." Beliau menjawab, "Hendaknya ia menyuruh kepada yang ma'ruf atau kebaikan." Orang itu bertanya lagi, "Bagaimana kalau dia tidak sanggup juga?" beliau menjawab: "Hendaklah ia mencegah diri dari perbuatan buruk, sebab itu juga merupakan sedekah." Dan telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Abdurrahman bin Mahdi] Telah menceritakan kepada kami [Syu'bah] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2333</td></tr><tr><td>Arabic No</td><td>1008.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы, что (однажды) Пророк ﷺ сказал: «Каждый мусульманин должен подавать милостыню /садака/”. (Люди) спросили: “А (что делать тому, кто) не найдёт ничего, (что он мог бы дать в качестве милостыни)?” Он ответил: “Пусть поработает своими руками, чем он принесёт пользу самому себе, а (также) раздаст милостыню (из заработанного)”. (Люди) спросили: “А если он (окажется) не в состоянии (работать)?” Он ответил: “(Тогда ему следует) помочь нуждающемуся, который оказался в беде”. (Люди) спросили: “А если он (окажется) не в состоянии (сделать и этого)?” Он ответил: “Пусть призывает к одобряемому (или: благому)”. (Люди снова) спросили: “А если он (окажется не в состоянии) сделать (и этого)?” Он ответил: “Тогда пусть воздерживается от совершения (всего) дурного, и это зачтётся ему как милостыня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2333</td></tr><tr><td>Arabic No</td><td>1008.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 70</td></tr></tbody></table></div>
 

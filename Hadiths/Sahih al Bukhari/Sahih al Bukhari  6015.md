@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrates Ibn 'Umar:Allah' Apostle said, Gabriel kept on recommending me about tr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Minhal] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Umar bin Muhammad] dari [Ayahnya] dari [Ibnu Umar] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jibril senantiasa mewasiatkanku untuk berbuat baik terhadap tetangga sehingga aku mengira tetangga juga akan mendapatkan harta waris
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6015</td></tr><tr><td>Arabic No</td><td>6015</td></tr><tr><td>Reference</td><td>Book 78 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ сказал: “Джибрил не прекращал давать мне наставления о необходимости хорошего отношения к соседу (так долго), что я даже подумал, что он включит его и в число наследников”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6015</td></tr><tr><td>Arabic No</td><td>6015</td></tr><tr><td>Reference</td><td>Book 78 Hadith 46</td></tr></tbody></table></div>
 

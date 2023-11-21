@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Humran. the freed slave of 'Uthman. said:I heard from 'Uthman b. 'Affan and he w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin sa'id] dan [Utsman bin Muhammad bin Abu Syaibah] dan [Ishaq bin Ibrahim al-Hanzhali] sedangkan lafazh tersebut milik Qutaibah, Ishaq berkata, telah mengabarkan kepada kami, sedangkan dua orang yang lainnya berkata, telah menceritakan kepada kami [Jarir] dari [Hisyam bin Urwah] dari [bapaknya] dari [Humran] budak Utsman, dia berkata, "Saya mendengar [Utsman bin affan] -sedangkan dia di jendela masjid-, lalu muadzdzin mendatanginya ketika Ashar, lalu dia meminta air wudlu, lalu berwudlu, kemudian berkata, 'Demi Allah, sungguh aku akan menceritakan kepada kalian suatu hadits, kalau bukan karena suatu ayat dalam Kitabullah niscaya aku tidak akan menceritakannya kepada kalian. Sesungguhnya aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang laki-laki muslim berwudlu, lalu memperbagus wudlunya, lalu melakukan shalat, melainkan pasti Allah mengampuni dosanya antara dia dan shalat sesudahnya'." Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Waki']. (dalam riwayat lain disebutkan) telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] semuanya dari [Hisyam] dengan sanad ini. Dan dalam hadits Abu Usamah, 'Lalu dia memperbagus wudlunya kemudian shalat fardlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>540</td></tr><tr><td>Arabic No</td><td>227.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумран,вольноотпущенник ‘Усмана сказал: «Я слышал ‘Усмана ибн ‘Аффана, который будучи возле мечети, когда к нему пришел муаззин во время послеполуденной /аср/ молитвы, он попросил воды для омовения и, совершив омовение, сказал: “Клянусь Аллахом, я непременно расскажу вам хадис, который не рассказал бы вам, если бы не аят из Книги Аллаха. Я слышал, как Посланник Аллаха ﷺ говорил: “Если человек, исповедующий ислам, совершит омовение должным образом и совершит молитву, то непременно Аллах простит ему те (грехи), что (он совершил) между ней и молитвой, которая следует за ней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>540</td></tr><tr><td>Arabic No</td><td>227.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
 

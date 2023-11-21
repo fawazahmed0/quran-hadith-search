@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ar-Rubi' bint Mu'awadh:"The Prophet (ﷺ) sent a messenger to the villa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyir bin Al Mufadhdhal] telah menceritakan kepada kami [Khalid bin Dzakwan] dari [Ar-Rubai' binti Mu'awwidz] berkata; Nabi shallallahu 'alaihi wasallam mengirim utusan ke kampung Kaum Anshar pada siang hari 'Asyura (untuk menyampaikan): "Bahwa siapa yang tidak berpuasa sejak pagi hari maka dia harus menggantinya pada hari yang lain, dan siapa yang sudah berpuasa sejak pagi hari maka hendaklah dia melanjutkan puasanya". Dia (Ar-Rubai' binti Mu'awwidz) berkata; "Setelah itu kami selalu berpuasa dan kami juga mendidik anak-anak kecil kami untuk berpuasa dan kami sediakan untuk mereka semacam alat permainan terbuat dari bulu domba, apabila seorang dari mereka ada yang menangis meminta makan maka kami beri dia permainan itu. Demikianlah terus kami lakukan hingga tiba waktu berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1960</td></tr><tr><td>Arabic No</td><td>1960</td></tr><tr><td>Reference</td><td>Book 30 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ар-Рубаййи‘ бинт Му‘аввиз, да будет доволен Аллах ими обоими, сказала: «Утром в день ашуры Пророк ﷺ отправил (глашатая, чтобы возвестить) в селениях ансаров (следующее): “Пусть поевший утром (этого дня) уже не ест до конца его, а соблюдающий пост с самого утра пусть доведёт его до конца».\n(Ар-Рубаййи‘) сказала: «С тех пор мы соблюдали пост (в этот день) сами и заставляли поститься наших детей. И мы делали для них игрушки из шерсти, а когда кто-нибудь из них начинал плакать(, требуя) еды, мы давали ему (такую игрушку), пока не наступало время разговения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1960</td></tr><tr><td>Arabic No</td><td>1960</td></tr><tr><td>Reference</td><td>Book 30 Hadith 67</td></tr></tbody></table></div>
 

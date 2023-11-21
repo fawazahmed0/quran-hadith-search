@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : Le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] -dalam jalur lain- Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] -lafazhnya dari Ibnul Mutsanna- keduanya berkata; [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] katanya; Nabi shallallahu 'alaihi wasallam diberi daging sapi. Kemudian dikatakan kepada beliau, "Daging ini adalah sedekah untuk Barirah." Maka beliau pun bersabda: "Untuk Barirah adalah sedekah, namun bagi kami adalah hadiah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2486</td></tr><tr><td>Arabic No</td><td>1075.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиша, что однажды Пророку ﷺ принесли говяжье мясо и сказали: «Это (мясо) было дано в качестве милостыни Барире». Пророк ﷺ ответил: «Для неё это милостыня, а для нас подарок»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2486</td></tr><tr><td>Arabic No</td><td>1075.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 223</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Akwa':The Prophet (ﷺ) ordered a man from the tribe of B
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makkiy bin Ibrahim] telah menceritakan kepada kami [YAzid bin Abu 'Ubaid] dari [Salamah bin Al Akwa' radliallahu 'anhu] berkata: Nabi shallallahu 'alaihi wasallam memerintahkan seseorang dari suku Aslam untuk menyerukan kepada manusia, bila ada seseorang yang sudah makan maka hendaklah ia mengganti puasanya pada hari yang lain dan siapa yang belum makan hendaklah dia meneruskan puasanya karena hari ini adalah hari 'Asyura
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2007</td></tr><tr><td>Arabic No</td><td>2007</td></tr><tr><td>Reference</td><td>Book 30 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Саляма ибн аль-Акуа‘, да будет доволен им Аллах, передаёт, что Пророк ﷺ повелел одному человеку из племени аслям, чтобы он возвестил среди людей следующее: «Пусть поевший утром этого дня уже не ест до конца его, а соблюдающий пост с самого утра пусть доведёт его до конца, ибо, поистине, сегодня день ‘Ашуры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2007</td></tr><tr><td>Arabic No</td><td>2007</td></tr><tr><td>Reference</td><td>Book 30 Hadith 112</td></tr></tbody></table></div>
 

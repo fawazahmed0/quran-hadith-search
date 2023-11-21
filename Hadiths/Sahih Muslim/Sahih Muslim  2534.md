@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl b. Sa'd said that when this verse was revealed:" Eat and drink till the whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Fudlail bin Sulaiman] telah menceritakan kepada kami [Abu Hazim] telah menceritakan kepada kami [Sahl bin Sa'dari] ia berkata; Ketika turun ayat; "…dan makan minumlah hingga terang bagimu benang putih dari benang hitam, yaitu fajar…", ia berkata; Ada seorang lelaki yang mengambil satu benang berwarna hitam dan satu benang lagi berwarna putih, lalu ia makan (sahur) sampai keduanya terlihat jelas sehingga Allah 'azza wajalla menurunkan ayat; "Yaitu fajar." Maka perkara itupun menjadi jelas baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>1091.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>1091.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 40</td></tr></tbody></table></div>
 

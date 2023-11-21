@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:Do not go our to meet what is being brought (to market for sal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Nafi' Abu Taubah] telah menceritakan kepada kami ['Ubaidullah bin 'Amr Ar Raqqi], dari [Ayyub] dari [Ibnu Sirin] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam melarang dari menyambut barang dagangan sebelum masuk pasar. Apabila terdapat terdapat pembeli yang menyambutnya kemudian membelinya maka pemilik barang memiliki hak memiliki hak untuk memilih apabila barang tersebut telah sampai ke pasar. Abu Ali berkata; aku saya mendengar Abu Daud berkata; Sufyan berkata; jangan sebagian kalian menjual barang yang masih ada dalam penawaran orang lain, dengan mengatakan; sesungguhnya aku memiliki yang lebih baik daripada itu dengan harga sepuluh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3437</td></tr><tr><td>Arabic No</td><td>3437</td></tr><tr><td>Reference</td><td>Book 24 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ запретил встречать привозящих товар из другой местности с целью выкупить у них товар до того, как они прибудут на рынок, и постановил, что, если у таких торговцев кто-то купил товар подобным образом, у них остаётся право выбора, когда они прибудут на рынок
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3437</td></tr><tr><td>Arabic No</td><td>3437</td></tr><tr><td>Reference</td><td>Book 24 Hadith 22</td></tr></tbody></table></div>
 

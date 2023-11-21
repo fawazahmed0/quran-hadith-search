@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik Once the Prophet (p.b.u.h) entered the Mosque and saw a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami ['Abdul 'Aziz bin Shuhaib] dari [Anas bin Malik radliallahu 'anhu] berkata: "Pada suatu hari Nabi shallallahu 'alaihi wasallam masuk (ke masjid), kemudian Beliau mendapati tali yang diikatkan dua tiang. Kemudian Beliau berkata: "Apa ini?" Orang-orang menjawab: "Tali ini milik Zainab, bila dia shalat dengan berdiri lalu merasa letih, dia berpegangan tali tersebut". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Jangan ia lakukan sedemikian itu. Hendaklah seseorang dari kalian tekun dalam ibadah shalatnya dan apabila dia merasa letih, shalatlah sambil duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1150</td></tr><tr><td>Arabic No</td><td>1150</td></tr><tr><td>Reference</td><td>Book 19 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ вошедший (в мечеть), увидел натянутую между двух столбов верёвку и спросил: “Что это за верёвка?” (Люди) сказали: “Это верёвка Зайнаб, которая держится за неё, когда устаёт (от молитв)”. Тогда Пророк ﷺ сказал: “Нет, отвяжите (эту верёвку), и пусть каждый из вас совершает молитву, пока будет сохранять бодрость, и оставляет (молитву), когда станет уставать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1150</td></tr><tr><td>Arabic No</td><td>1150</td></tr><tr><td>Reference</td><td>Book 19 Hadith 31</td></tr></tbody></table></div>
 

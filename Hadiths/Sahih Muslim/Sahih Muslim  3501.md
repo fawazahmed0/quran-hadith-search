@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas, (Allah be pleased with him) reported:Safiyya (Allah be pleased with her) f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Syababah] telah menceritakan kepada kami [Sulaiman] dari [Tsabit] dari [Anas]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadau [Abdullah bin Hasyim bin Hayyan] sedangkan lafazhnya dari dia, telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Sulaiman bin Mughirah] dari [Tsabit] telah menceritakan kepada kami [Anas] dia berkata; "(ketika perang Khaibar) Shafiyah menjadi bagiannya Dihyah, lantas orang-orang memujinya di hadapan Rasulullah shallallahu 'alaihi wasallam." Anas berkata; Mereka berkata; "Kami tidak pernah melihat ada tawanan perang seperti dia." Anas melanjutkan; Kemudian beliau mengutus kepada Dihyah, maka Dihyah membawa (Shafiyah) kepada beliau, kemudian beliau menyerahkannya kepada ibuku, beliau bersabda: "Dandanilah dia." Anas berkata; Kemudian Rasulullah shallallahu 'alaihi wasallam keluar menuju Khaibar, sesampainya beliau di tengah-tengah kota (Khaibar) beliau singgah dan membuat tenda besar, di pagi harinya beliau bersabda: "Barangsiapa memiliki perbekalan yang lebih, hendaknya ia membawanya ke sini." Lantas seseorang datang dengan membawa kurma dan adonan sawiq, kemudian mereka mencampurnya di dalam tungku yang agak tinggi hingga menjadi hais (yaitu makanan dari adonan susu kering, minyak samin dan kurma). Kemudian mereka memakannya dan minum dari telaga buatan untuk menampung air hujan. Anas berkata; Demikianlah pesta pernikahan Rasulullah shallallahu 'alaihi wasallam dengan Shafiyah. Dia melanjutkan; Kemudian kami melanjutkan perjalanan kami, ketika kami melihat dinding Madinah, kami bersemangat dan langsung memacu tunggangan kami, begitu juga dengan Rasulullah shallallahu 'alaihi wasallam, beliau juga memacu tunggangannya. Anas berkata; Sedangkan Shafiyah membonceng di belakang Rasulullah shallallahu 'alaihi wasallam. Anas melanjutkan; Tiba-tiba tunggangan Rasulullah shallallahu 'alaihi wasallam tergelincir hingga beliau terjatuh, begitu juga dengan Shafiyah. Anas melanjutkan; Dan tidak satu pun orang-orang yang melihatnya dan melihat Shafiyah, sehingga Rasulullah shallallahu 'alaihi wasallam bangun dan menutupi Shafiyah. Anas berkata; Kemudian kami mendatanginya, namun beliau bersabda: "Tidak apa-apa." Kami pun memasuki kota Madinah, sedangkan para budak wanita milik istri-istrinya keluar melihat (Shafiyah) dan menghibur atas musibah yang menimpanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3501</td></tr><tr><td>Arabic No</td><td>1365.06</td></tr><tr><td>Reference</td><td>Book 16 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3501</td></tr><tr><td>Arabic No</td><td>1365.06</td></tr><tr><td>Reference</td><td>Book 16 Hadith 104</td></tr></tbody></table></div>
 

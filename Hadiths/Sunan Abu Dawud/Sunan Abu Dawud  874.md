@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hudhayfah: Hudhayfah saw the Messenger of Allah (ﷺ) praying at night.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Walid Ath Thayalisi] dan [Ali bin Al Ja'd] keduanya berkata; telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Abu Hamzah bekas budak Al Anshari] dari [seorang laki-laki dari Bani 'Absi] dari [Hudzaifah] bahwa dia melihat Rasulullah shallallahu 'alaihi wasallam shalat malam, dalam shalatnya beliau mengucapkan; "Allahu Akbar" tiga kali dzul malakuuti wal Jabaruuri wal kibriyaa'i wal 'adzamati (Maha suci dzat yang memiliki kerajaan, kekuasaan, kebesaran dan keagungan)." Kemudian beliau membaca do'a iftitah, lalu membaca surat Al Baqarah, kemudian beliau ruku, lama beliau ruku' hampir sama ketika beliau berdiri, dalam ruku'nya beliau mengucapkan; "Subhaana rabbiyal 'azhiimi, Subhaana rabbiyal 'azhiimi (Maha suci Rabbku yang Maha Agung, Maha suci Rabbku yang Maha Agung)." Kemudian beliau mengangkat kepalanya dari ruku', sedangkan lamanya beliau berdiri (i'tidal) seperti ketika beliau ruku', beliau mengucapkan; "Lirabbiyal hamdu (Bagi rabbku segala puji-pujian)." Kemudian beliau sujud, sedangkan lamanya beliau sujud seperti ketika beliau berdiri, dalam sujudnya beliau mengucapkan; "Subhaana rabbiyal a'la (Maha suci Rabbku yang Maha tinggi)." Kemudian beliau mengangkat kepalanya dari sujud, lama beliau duduk di antara dua sujud seperti ketika beliau sujud, dan dalam duduk di antara dua sujudnya beliau mengucapkan: "Rabbighfirlii, Rabbighfirlii" kemudian beliau shalat empat raka'at, dalam shalatnya itu beliau membaca surat Al Baqarah, Ali Imran, An Nisa', Al Maidah atau Al An'am -Syu'bah ragu (dalam lafadznya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>874</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 2 Hadith 484</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хузайфы, да будет доволен Аллах им и его отцом, что он видел, как Посланник Аллаха ﷺ совершал (свою обычную) ночную молитву. Он говорил: «Аллах Велик, Аллах Велик, Аллах Велик, Обладатель владычества и могущества, гордости и величия». Затем он начинал молитву и читал суру «аль-Бакара», затем совершил поясной поклон, проводя в нём столько же времени, сколько и в чтении аятов. Во время поясного поклона (Посланник Аллаха ﷺ) говорил: «Пречист Господь мой Великий, Пречист Господь мой Великий». Затем он выпрямлялся после совершения поясного поклона и стоял столько же, сколько времени он стоял, читая аяты. При этом он говорил: «Господу моему хвала». Затем он совершал земной поклон, причём его земной поклон продолжался столько же, сколько и его стояние. Во время земного поклона Посланник Аллаха ﷺ говорил: «Пречист Господь мой Высочайший». Затем он выпрямлялся после земного поклона и сидел между двумя земными поклонами столько же, сколько времени провёл в земном поклоне. При этом он сказал: «Господи, прости мне, Господи, прости мне». Он совершил четыре рак‘ата, читая в них суры «аль-Бакара», «Али ‘Имран», «ан-Ниса» и «аль-Маида» (или «аль-Ан‘ам»)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>874</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 2 Hadith 484</td></tr></tbody></table></div>
 

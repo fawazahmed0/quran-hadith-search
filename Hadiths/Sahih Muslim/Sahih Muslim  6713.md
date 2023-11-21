@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that a person came to Allah's Messenger (ﷺ) and said to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ar Rabi' Al 'Ataki]; Telah menceritakan kepada kami [Hammad] yaitu Ibnu Zaid; Telah menceritakan kepada kami [Tsabit Al Bunani] dari [Anas bin Malik] dia berkata; "Pada suatu hari seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam seraya bertanya; 'Ya RasululIah, kapankah kiamat itu akan datang? ' Mendengar pertanyaan laki-laki itu, Rasulullah shallallahu 'alaihi wasallam balik bertanya: 'Apa yang telah kamu siapkan untuk menghadapi kiamat? ' Laki-laki itu menjawab; 'Kecintaan kepada Allah dan Rasul-Nya.' Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya kamu akan bersama orang yang kamu cintai.' Anas berkata; 'Tidak ada yang lebih menyenangkan hati kami setelah masuk Islam selain sabda Rasulullah shallallahu 'alaihi wasallam yang berbunyi: 'Sesungguhnya kamu akan bersama orang yang kamu cintai.' Anas berkata; 'Karena saya mencintai Allah, Rasulullah, Abu Bakar, dan Umar, maka saya berharap kelak akan bersama mereka meskipun saya tidak dapat beramal seperti mereka.' Telah menceritakannya kepada kami [Muhammad bin 'Ubaid Al Ghubari]; Telah menceritakan kepada kami [Ja'far bin Sulaiman]; Telah menceritakan kepada kami [Tsabit Al Bunani] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam. Namun di dalamnya tidak disebutkan perkataan Anas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6713</td></tr><tr><td>Arabic No</td><td>2639.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6713</td></tr><tr><td>Arabic No</td><td>2639.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 208</td></tr></tbody></table></div>
 

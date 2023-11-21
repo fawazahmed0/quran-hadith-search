@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:When there are th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>672.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 362</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «Посланник Аллаха ﷺ сказал: “Если людей будет трое, пусть один из их числа возглавляет их (в молитве), и больше всех их имеет права быть имамом тот, кто больше из них читает Коран”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>672.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 362</td></tr></tbody></table></div>
 

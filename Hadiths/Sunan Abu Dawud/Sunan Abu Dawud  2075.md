@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abdur Rahman ibn Hurmuz al-A'raj said:Al-Abbas ibn Abdullah ibn al-Abbas married
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris], telah menceritakan kepada kami [Ya'qub bin Ibrahim], telah menceritakan kepada kami [ayahku] dari [Ibnu Ishaq], telah menceritakan kepadaku [Abdurrahman bin Hurmuz Al A'raj], bahwa Al Abbas bin Abdullah bin Al Abbas telah menikahkan Abdurrahman bin Al Hakam dengan anak wanitanya, dan Abdurrahman menikahkannya dengan anak wanitanya dan mereka berdua memberikan mahar. Kemudian [Mu'awiyah] menulis surat kepada Marwan dan memerintahkannya agar menceraikan antara keduanya. Dan dalam suratnya ia mengatakan; ini adalah syighar yang dilarang Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2075</td></tr><tr><td>Arabic No</td><td>2075</td></tr><tr><td>Reference</td><td>Book 12 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абду-р-Рахман ибн Хурмуз аль-А‘радж рассказывал, что аль-‘Аббас ибн ‘Абдуллах ибн аль-‘Аббас и ‘Абду-р-Рахман ибн аль-Хакам выдали друг за друга своих дочерей, сделав это брачным даром, и Му‘авия написал Мервану, велев расторгнуть эти браки, и в его письме говорилось: «Это шигар, запрещённый посланником Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2075</td></tr><tr><td>Arabic No</td><td>2075</td></tr><tr><td>Reference</td><td>Book 12 Hadith 30</td></tr></tbody></table></div>
 

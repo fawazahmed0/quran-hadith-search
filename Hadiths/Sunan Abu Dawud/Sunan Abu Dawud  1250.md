@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Habibah:The Prophet (ﷺ) as saying: If anyone prays in a day and a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Ibnu 'Ulayyah] telah menceritakan kepada kami [Daud bin Abu Hind] telah menceritakan kepadaku [An Nu'man bin Salim] dari ['Amru bin Aus] dari ['Anbasah bin Abu Sufyan] dari [Ummu Habibah] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda; "Barangsiapa mengerjakan shalat sunnah dua belas raka'at dalam sehari, maka akan di bangunkan baginya rumah di surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (728)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1250</td></tr><tr><td>Arabic No</td><td>1250</td></tr><tr><td>Reference</td><td>Book 5 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Умм Хабибы, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Кто совершал в течение дня двенадцать дополнительных рак‘атов, тому за это будет построен дом в Раю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (728)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1250</td></tr><tr><td>Arabic No</td><td>1250</td></tr><tr><td>Reference</td><td>Book 5 Hadith 1</td></tr></tbody></table></div>
 

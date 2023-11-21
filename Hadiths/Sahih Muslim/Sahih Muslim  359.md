@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Wa'il reported it on the authority of his father Hujr:I was with the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ishaq bin Ibrahim] semuanya dari [Abu al-Walid], [Zuhair] berkata, telah menceritakan kepada kami [Hisyam bin Abdul Malik] telah menceritakan kepada kami [Abu Awanah] dari [Abdul Malik bin Umair] dari ['Alqamah bin Wail] dari [Wail bin Hujr] dia berkata, "Saya berada di samping Rasulullah shallallahu 'alaihi wasallam, lalu datanglah dua orang laki-laki kepada beliau untuk mengadukan perselisihan mereka berkenaan dengan sebidang tanah. Salah seorang dari keduanya berkata, 'Wahai Rasulullah, orang ini menguasai tanahku pada masa jahiliyah.' Orang itu adalah Umru' al-Qais bin Abis al-Kindi, sedangkan rivalnya adalah Rabi'ah bin Ibdan. Beliau lalu bertanya: "Mana buktimu? ' Dia menjawab, 'Saya tidak mempunyai bukti.' Beliau bersabda: "Maka dia bersumpah." Dia menjawab, 'Jadi, dia bisa pergi membawa harta tersebut!. Rasulullah bersabda: "Kamu tidak memiliki hak kecuali hal tersebut (mengakui sumpah rivalnya).' Perawi berkata, 'Ketika Rabi'ah bin Ibdan berdiri untuk bersumpah, maka Rasulullah bersabda: "Barangsiapa mengambil tanah secara zhalim, maka dia akan bertemu Allah sementara Allah murka (kepadanya)." Ishaq menyebutkan dalam riwayatnya, 'Rabi'ah bin Aidan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>359</td></tr><tr><td>Arabic No</td><td>139.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 266</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ваиль ибн Худжр рассказывал: «Однажды, когда я был у Посланника Аллаха ﷺ, к нему пришли два человека, между которыми возникла тяжба из-за земли, и один из них сказал: “О Посланник Аллаха, этот человек присвоил мою землю во времена джахилиййи”. (Посланник Аллаха ﷺ) спросил: “(Есть ли у) тебя доказательство (на твоё заявление)?” Тот ответил: “У меня нет доказательства”. (Пророк ﷺ) сказал: “Он поклянётся перед тобой”. Тот человек сказал: “Тогда он (просто поклянётся) и присвоит моё имущество!” Но (Пророк ﷺ) ответил: “(Если у тебя нет доказательств), ты можешь получить лишь его клятву!” Когда (тот человек) встал, чтобы принести клятву, Посланник Аллаха ﷺ сказал: “Тот, кто присвоит землю несправедливо, встретит Аллаха разгневанным на него”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>359</td></tr><tr><td>Arabic No</td><td>139.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 266</td></tr></tbody></table></div>
 

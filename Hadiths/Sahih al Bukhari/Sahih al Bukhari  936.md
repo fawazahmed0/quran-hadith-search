@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:While we were praying (Jumua Khutba & prayer) with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'awiyah bin 'Amru] berkata, telah menceritakan kepada kami [Za'idah] dari [Hushain] dari [Salim bin Abu Al Ja'd] berkata, telah menceritakan kepada kami [Jabir bin 'Abdullah] berkata, "Ketika kami sedang shalat bersama Nabi shallallahu 'alaihi wasallam tiba-tiba datang rombongan dagang yang membawa makanan. Orang-orang pun melirik (dan berhamburan pergi) mendatangi rombongan tersebut, hingga tidak ada orang yang tersisa bersama Nabi shallallahu 'alaihi wasallam kecuali hanya dua belas orang. Maka turunlah ayat ini: '(Dan apabila mereka melihat perdagangan atau permainan, maka mereka bubar untuk menuju kepadanya dan mereka meninggalkan kamu ketika kamu sedang berdiri menyampaikan berkhutbah) ' (Qs. Al Jumu'ah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>936</td></tr><tr><td>Arabic No</td><td>936</td></tr><tr><td>Reference</td><td>Book 11 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «(Однажды,) когда мы вместе с Пророком ﷺ совершали намаз, вдруг прибыл караван верблюдов со съестными припасами. (Почти все люди) повернулись в его сторону (и покинули мечеть), а с Пророком ﷺ осталось только двенадцать человек, и тогда был ниспослан аят (, в котором говорится): “А когда они видят (, что можно заняться) торговлей или (предаться) развлечениям, то расходятся (, устремляясь) к этому, и оставляют тебя стоящим”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>936</td></tr><tr><td>Arabic No</td><td>936</td></tr><tr><td>Reference</td><td>Book 11 Hadith 60</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is also transmitted by Ahmad b. Sa'id, Habban, Sulaiman b. Mughira o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>316</td></tr><tr><td>Arabic No</td><td>119.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «“Не поднимайте ваши голоса над голосом Пророка…” (сура “аль-Худжурат, аят 2). И не упомянул Са‘да ибн Му‘аза
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>316</td></tr><tr><td>Arabic No</td><td>119.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 223</td></tr></tbody></table></div>
 

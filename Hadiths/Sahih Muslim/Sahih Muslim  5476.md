@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that Allah's Messenger (ﷺ) had made for himself a ring of si
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami ['Abdullah bin Numair] dari ['Ubaidillah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar] ia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah membuat cincin dari perak. Pada awalnya, cincin itu ada di tangan beliau, setelah itu beralih ke tangan Abu Bakr, lalu berpindah ke tangan Umar, dan terakhir di pakai oleh Utsman, sebelum akhirnya cincin itu terjatuh ke dalam sumur Aris. Tulisan cincin itu adalah Muhammad Rasulullah." Ibnu Numair berkata; dengan kalimat 'Hatta waqa'a fi bi'rin' tanpa tambahan 'minhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5476</td></tr><tr><td>Arabic No</td><td>2091.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5476</td></tr><tr><td>Arabic No</td><td>2091.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 91</td></tr></tbody></table></div>
 

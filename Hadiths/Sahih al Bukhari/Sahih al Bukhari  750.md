@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "What is wrong with those people
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah mengabarkan kepada kami [Yahya bin Sa'id] berkata, telah menceritakan kepada kami [Ibnu Abu 'Arubah] berkata, telah menceritakan kepada kami [Qatadah] bahwa [Anas bin Malik] ia menceritakan kepada mereka, ia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Kenapa orang-orang mengarahkan pandangan mereka ke langit ketika mereka sedang shalat? Suara beliau semakin tinggi hingga beliau bersabda: "Hendaklah mereka menghentikannya atau Allah benar-benar akan menyambar penglihatan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>750</td></tr><tr><td>Arabic No</td><td>750</td></tr><tr><td>Reference</td><td>Book 10 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ воскликнул: “О чём думают люди, устремляющие свои взоры к небу во время намаза?!” Голос его при этом был строгим (, а к сказанному) он (добавил следующее): “Им следует прекратить делать это, иначе они непременно лишатся зрения!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>750</td></tr><tr><td>Arabic No</td><td>750</td></tr><tr><td>Reference</td><td>Book 10 Hadith 144</td></tr></tbody></table></div>
 

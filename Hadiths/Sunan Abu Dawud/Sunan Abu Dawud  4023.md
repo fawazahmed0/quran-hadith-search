@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Anas: The Prophet (ﷺ) said: If anyone eats food and then s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nushair Ibnul Faraj] berkata, telah menceritakan kepada kami [Abdullah bin Yazid] berkata, telah menceritakan kepada kami [Sa'id] -yaitu Ibnu Abu Ayyub- dari [Abu Marhum] dari [Sahl bin Mu'adz bin Anas] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memakan makanan kemudian membaca doa; 'ALHAMDULILLAHIL LADZII ATH'AMANII HADZA ATH THA'AAMA WA RAZAQANIIHI MIN GHAIRI HAULIN MINNI WA LAA QUWWATIN (Segala puji bagi Allah yang telah memberikan makanan ini kepadaku sebagai rizki, tanpa daya dan kekuatan dariku). ' Maka akan diampuni dosanya yang lalu dan yang akan datang. Dan barangsiapa memakai baju lalu membaca doa; 'ALHAMDULILLAHIL LADZII KASAANII HADZA ATS TSAUBA WA RAZAQANIIHI MIN GHAIRI HAULIN MINNI WA LAA QUWWATIN (Segala puji bagi Allah yang telah memberikan pakaian ini kepadaku sebagai rizki, tanpa daya dan kekuatan dariku). ' Maka akan diampuni dosanya yang lalu dan yang akan datang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4023</td></tr><tr><td>Arabic No</td><td>4023</td></tr><tr><td>Reference</td><td>Book 34 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Му‘аз ибн Анас передаёт от своего отца, что Посланник Аллаха ﷺ сказал: «Кто поел, а потом сказал: “Хвала Аллаху, Который накормил меня этой едой и наделил меня ею, тогда как у меня самого не было ни способности, ни силы”, тому простятся его прошлые и будущие прегрешения. И кто наденет новую одежду и скажет: “Хвала Аллаху, Который облачил меня в эту одежду и одарил меня ею, тогда как у меня самого не было ни способности, ни силы”, тому простятся его прошлые и будущие прегрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4023</td></tr><tr><td>Arabic No</td><td>4023</td></tr><tr><td>Reference</td><td>Book 34 Hadith 4</td></tr></tbody></table></div>
 

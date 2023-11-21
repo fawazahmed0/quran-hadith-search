@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:The Prophet (ﷺ) was carrying earth with us on the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] telah mengabarkan kepada kami [Ayahku] dari [Syu'bah] telah menceritakan kepada kami [Abu Ishaq] dari [Albara' bin 'Azib] mengatakan; Nabi shallallahu 'alaihi wasallam bersama kami memindahkan tanah pada perang Ahzab, dan aku lihat beliau menimbun tanah yang mengakibatkan kelihatan putih kedua ketiaknya, beliau mengucapkan; "Kalaulah bukan karena Engkau kami tidak dapat petunjuk, tidak pula bersedekah, tidak juga shalat. Maka turunkanlah ketenangan bagi kami, Sesungguhnya sekelompok kaum --atau sepertinya Barra' mengatakan pemuka kaum- telah sewenang-wenang terhadap kami, jika mereka ingin berbuat onar kami mengelak, kami mengelak,,, " sambil beliau tinggikan volume suaranya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7236</td></tr><tr><td>Arabic No</td><td>7236</td></tr><tr><td>Reference</td><td>Book 94 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся, что аль-Бара ибн ‘Азиб, да будет доволен им Аллах, сказал: «Во время нашествия союзных племён Пророк ﷺ, носил вместе с нами землю, и я видел как его живот был покрыт пылью, и он говорил:\n“Если бы не Ты, не встали бы мы на прямой путь,не давали бы милостыню и не молились!Ниспошли же нам спокойствиеи укрепи стопы наши, если встретим мы (врагов).Поистине, эти (люди) напали на нас,Но, если захотят они смутить нас, мы откажемся!” —\nИ последние слова он произносил с повышенном голосом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7236</td></tr><tr><td>Arabic No</td><td>7236</td></tr><tr><td>Reference</td><td>Book 94 Hadith 11</td></tr></tbody></table></div>
 

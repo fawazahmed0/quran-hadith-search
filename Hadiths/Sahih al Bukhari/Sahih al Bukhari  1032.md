@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Whenever Allah's Messenger (ﷺ) saw the rain, he used to say, "O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Muqatil Abu Al Hasan Al Marwazi- berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami ['Ubaidullah] dari [Nafi'] dari [Al Qasim bin Muhammad] dari ['Aisyah], bahwa jika Rasulullah shallallahu 'alaihi wasallam melihat hujan, maka beliau berdoa: 'ALLAHUMMA SHAYYIBAA NAAFI'AA (Ya Allah, jadikanlah hujan ini bermanfaat) '." Hadits ini juga dikuatkan oleh [Al Qasim bin Yahya] dari ['Ubaidullah], dan diriwayatkan pula oleh [Al Auza'i] dan ['Uqail] dari [Nafi]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>1032</td></tr><tr><td>Reference</td><td>Book 15 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что, когда Посланник Аллаха ﷺ видел(, что начинает идти дождь), он говорил: «Пусть этот дождь принесёт пользу! /Саййибан нафи‘ан!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>1032</td></tr><tr><td>Reference</td><td>Book 15 Hadith 27</td></tr></tbody></table></div>
 

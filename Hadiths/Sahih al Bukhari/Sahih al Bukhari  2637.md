@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Al-Musaiyab Alqama bin Waqqas and Ubaidullah bin 'Abdullah:Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj] telah menceritakan kepada kami ['Abdullah bin 'Umar an-Numairiy] telah menceritakan kepada kami [Yunus] dan berkata, [Al Laits] telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] berkata, telah mengabarkan kepada kami ['Urwah bin Az Zubair] dan [Ibnu Al Musayyab] dan ['Alqamah bin Waqqash] dan ['Ubaidullah bin 'Abdullah] tentang peristiwa yang menimpa ['Aisyah radliallahu 'anha], yang sebagian ghosip mereka membenarkan lainnya, tepatnya ketika Ahlul Ifki (orang-orang yang menyebarkan isu bahwa 'Aisyah selingkuh) melemparkan tuduhan kepadanya. Maka Rasulullah shallallahu 'alaihi wasallam memanggil 'Ali dan Usamah ketika wahyu tidak kunjung turun, Beliau meminta pendapat keduanya tentang niat menceraikan isteri Beliau. Adapun Usamah, dia berpendapat: "Keluarga baginda, tidak kami ketahui kecuali kebaikan semata. Sedangkan Barirah berkata: "Kalaupun aku melihat kekurangan pada 'Aisyah, tidak lebih sekedar ketika masih sebagai gadis kecil dibawah umur, ia ketiduran ketika menunggu adonan keluarganya lalu datang hewan kecil kemudian memakannya". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang bisa memberiku alasan kepada kami tentang seseorang yang beritanya telah sampai kepadaku bahwa dia telah melancarkan gangguan keluargaku. Demi Allah tidaklah aku ketahui keluargaku melainkan kebaikan semata, dan sungguh orang-orang telah menyebut seseorang laki-laki padahal aku tidak mengenal orang itu melainkan kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2637</td></tr><tr><td>Arabic No</td><td>2637</td></tr><tr><td>Reference</td><td>Book 52 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва, ибн аль-Мусаййаб, ‘Алькама ибн Ваккас и ‘Убайдуллах ибн ‘Абдуллах передавали хадис о ‘Аише, да будет доволен ею Аллах, в котором упоминается, как люди, распространявшие клевету, говорили о ней то, что говорили. И она сказала: «Посланник Аллаха ﷺ, увидев, что Откровение задерживается, позвал ‘Али и Усаму, чтобы спросить и посоветоваться с ними относительно развода со своей женой. Что же касается Усамы, то он сказал: “Мы знаем о твоей семье только благое”. (После этого он спросил) Бариру, и сказала: “Я не видела за ней ничего (плохого)! Самый большой её недостаток, за который я могла бы её упрекнуть, заключается в том, что она ещё очень молода и иногда засыпает, (оставляя) тесто, а потом приходит коза и поедает его”. Тогда Посланник Аллаха ﷺ (поднялся на минбар) и сказал: “Кто поможет мне наказать человека, который нанёс мне обиду (, оклеветав) мою жену? Клянусь Аллахом, о моей жене мне известно только хорошее, и они упомянули человека, о котором я знал только хорошее”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2637</td></tr><tr><td>Arabic No</td><td>2637</td></tr><tr><td>Reference</td><td>Book 52 Hadith 1</td></tr></tbody></table></div>
 

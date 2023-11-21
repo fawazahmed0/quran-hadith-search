@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abbad b. Tamim reported from his uncle that a person made a complaint to the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin Ahmad bin Ubay bin Khalaf] mereka berdua berkata; Telah menceritakan kepada kami [Sufyan] dari [Az-Zuhri] dari [Sa'id bin Al-Musayyib] dan ['Abbad bin Tamim] dari [Pamannya] dia berkata; Telah diadukan kepada Nabi shallallahu 'alaihi wasallam tentang seseorang yang mendapatkan sesuatu dalam shalatnya sehingga membuatnya ragu, maka beliau bersabda: "Hendaklah dia jangan keluar dari shalatnya sehingga dia mendengar suara atau mendapatkan bau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (137) Sahih Muslim (361)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>176</td></tr><tr><td>Arabic No</td><td>176</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘ида ибн аль-Мусаййиба и ‘Аббада ибн Тамима о том, что его дядя сказал: «Один человек пожаловался Пророку ﷺ о том, что он что-то чувствует во время молитвы, что он впадает в сомнения, и он сказал ему: “Не бросай (молитву), пока не услышишь звук или не почувствуешь запах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (137) Sahih Muslim (361)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>176</td></tr><tr><td>Arabic No</td><td>176</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
 

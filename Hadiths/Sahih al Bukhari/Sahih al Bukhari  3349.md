@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "You will be gathered (on the Day of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] telah bercerita kepada kami [Al Mughirah bin an-Nu'man] berkata telah bercerita kepadaku [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya kalian akan dikumpulkan (pada hari qiyamat) dalam keadaan telanjang dan tidak dikhitan". Lalu Beliau membaca firman Allah QS al-Anbiya' ayat 104 yang artinya ("Sebagaimana Kami telah memulai penciptaan yang pertama, begitulah Kami akan mengulanginya. Itulah suatu janji yang pasti dari Kami. Sesungguhnya Kamilah yang akan melaksanakannya"). Dan orang yang pertama kali diberikan pakaian pada hari qiyamat adalah Nabi Ibrahim 'Alaihissalam dan ada segolongan orang dari sahabatku yang akan diculik dari arah kiri lalu aku katakan: "Itu Sahabatku, Itu sahabatku". Maka Allah Ta'ala berfirman: "Sesungguhnya mereka menjadi murtad sepeninggal kamu". Aku katakan sebagaimana ucapan hamba yang shalih (firman Allah dalam QS al-Maidah ayat 117 - 118 yang artinya ("Dan aku menjadi saksi atas mereka selagi aku bersama mereka. Namun setelah Engkau mewafatkan aku…) hingga firman-Nya (….Engkau Maha Perkasa lagi Maha bijaksana)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3349</td></tr><tr><td>Arabic No</td><td>3349</td></tr><tr><td>Reference</td><td>Book 60 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что (однажды) Пророк ﷺ сказал: «Поистине, будете вы собраны босыми, нагими и необрезанными». Затем он прочитал (аят, в котором сказано): «…как создали Мы всё в первый раз, так и повторим это, согласно Нашему обещанию. Поистине, Мы выполняем (обещанное)!» — (после чего сказал): «Первым, кого оденут в День воскресения, будет Ибрахим, что же касается (некоторых из) моих сподвижников, то их отведут налево, а я воскликну: “Мои сподвижники, мои сподвижники!” (Аллах) скажет: “Они не переставали отступать (от установлений ислама) с тех пор, как ты расстался с ними!” — и тогда я скажу то же, что сказал праведный раб: “И я был свидетелем о них, пока находился среди них, а после того, как Ты упокоил меня, Ты Сам наблюдал за ними и Ты — всему Свидетель. Если Ты накажешь их, то ведь они — рабы Твои, а если простишь их, то, поистине, Ты — Всемогущий, Мудрый!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3349</td></tr><tr><td>Arabic No</td><td>3349</td></tr><tr><td>Reference</td><td>Book 60 Hadith 24</td></tr></tbody></table></div>
 

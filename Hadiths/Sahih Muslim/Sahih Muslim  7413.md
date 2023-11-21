@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The Last Hour would come 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] sampai pada nabi Shallallahu 'alaihi wa Salam, beliau bersabda: "Kiamat terjadi sementara orang tengah memeras unta perahan, belum juga wadahnya sampai ke mulutnya hingga kiamat terjadi, dua orang saling berjual beli baju, belum juga keduanya berjual beli hingga kiamat terjadi dan seseorang memperbaiki telaganya, belum juga ia kembali hingga kiamat terjadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7413</td></tr><tr><td>Arabic No</td><td>2954</td></tr><tr><td>Reference</td><td>Book 54 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7413</td></tr><tr><td>Arabic No</td><td>2954</td></tr><tr><td>Reference</td><td>Book 54 Hadith 174</td></tr></tbody></table></div>
 

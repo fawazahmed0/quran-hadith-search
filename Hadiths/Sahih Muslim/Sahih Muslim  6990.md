@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported Allah's Messenger (ﷺ) as saying that Allah, the Exalted and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dia berkata; aku mendengar [Abu 'Ubaidah] bercerita dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: " Allah Subhanahu Wa Ta'ala akan senantiasa membuka lebar-lebar tangan-Nya pada malam hari untuk menerima taubat orang yang berbuat dosa pada siang hari dan Allah senantiasa akan membuka tangan-Nya pada siang hari untuk menerima taubat orng yang berbuat dosa pada malam hari, dan yang demikian terus berlaku hingga matahari terbit dari barat." Dan telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abu Dawud] telah menceritakan kepada kami [Syu'bah] dengan sanad ini yang serupa dengan Hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6990</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6990</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

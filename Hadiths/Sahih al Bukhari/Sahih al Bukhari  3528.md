@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) sent for the Ansar (and when they came), he aske
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Syu'bah] dari [Qatadah] dari [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam memanggil kaum Anshar lalu bertanya; "Apakah ada seseorang yang bukan dari kalian?". Mereka menjawab; "Tidak ada, kecuali anak dari saudara perempuan kami". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Anak dari saudara perempuan suatu kaum berarti bagian dari (kaum) mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3528</td></tr><tr><td>Arabic No</td><td>3528</td></tr><tr><td>Reference</td><td>Book 61 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ позвал ансаров и спросил: “Есть ли среди вас кто-то, не относящийся к вам?” Они ответили: “Нет, если не считать сына одной из наших сестёр”. Тогда Посланник Аллаха ﷺ сказал: “Сын сестры кого-либо из людей относится к ним”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3528</td></tr><tr><td>Arabic No</td><td>3528</td></tr><tr><td>Reference</td><td>Book 61 Hadith 38</td></tr></tbody></table></div>
 

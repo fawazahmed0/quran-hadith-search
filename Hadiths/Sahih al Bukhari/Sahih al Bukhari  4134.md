@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sinan and Abu Salama:Jabir mentioned that he had participated in a Ghaz
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata; telah mengabarkan kepadaku [Sinan] dan [Abu Salamah] bahwa [Jabir] mengabarkan bahwa dia pernah ikut perang bersama Rasulullah shallallahu 'alaihi wasallam ke arah Najed
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4134</td></tr><tr><td>Arabic No</td><td>4134</td></tr><tr><td>Reference</td><td>Book 64 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сообщил, что он был участником военного похода (, когда они) вместе с Посланником Аллаха ﷺ (направились) в сторону Неджда
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4134</td></tr><tr><td>Arabic No</td><td>4134</td></tr><tr><td>Reference</td><td>Book 64 Hadith 178</td></tr></tbody></table></div>
 

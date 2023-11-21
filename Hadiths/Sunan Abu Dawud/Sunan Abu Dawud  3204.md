@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:The Messenger of Allah (ﷺ) gave the people news of death
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], ia berkata; aku membacakan riwayat kepada [Malik bin Anas], dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab], dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam mengumumkan meninggalnya Najasyi kepada orang-orang (kaum muslimin) pada hari wafatnya. Dan beliau keluar bersama mereka menuju tempat shalat, lalu beliau berbaris bersama mereka dan bertakbir empat kali takbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1245) Sahih Muslim (951)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3204</td></tr><tr><td>Arabic No</td><td>3204</td></tr><tr><td>Reference</td><td>Book 21 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сообщил людям о кончине негуса в тот день, когда он умер, после чего отправился вместе с ними в место, на котором обычно совершались (праздничные и погребальные) молитвы, где они встали рядами, и совершил четыре такбира
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1245) Sahih Muslim (951)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3204</td></tr><tr><td>Arabic No</td><td>3204</td></tr><tr><td>Reference</td><td>Book 21 Hadith 116</td></tr></tbody></table></div>
 

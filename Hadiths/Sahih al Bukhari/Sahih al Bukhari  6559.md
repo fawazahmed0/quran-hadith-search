@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "Some people will come out of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6559</td></tr><tr><td>Arabic No</td><td>6559</td></tr><tr><td>Reference</td><td>Book 81 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика (да будет доволен им Аллах), что Пророк ﷺ сказал: «(Некоторые) люди выйдут из (адского) Огня после того, как он опалит их, и войдут в Рай, а обитатели Рая будут называть их людьми из Геенны /джаханнамиййун/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6559</td></tr><tr><td>Arabic No</td><td>6559</td></tr><tr><td>Reference</td><td>Book 81 Hadith 148</td></tr></tbody></table></div>
 

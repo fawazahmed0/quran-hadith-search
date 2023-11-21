@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "A Muslim is a brothe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibnu Syihab], bahwa [Salim] mengabarinya, bahwasanya [Abdullah bin Umar] radliallahu 'anhuma mengabarinya, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang muslim adalah saudara muslim lainnya, tidak menzhaliminya dan tidak menyerahkannya kepada musuh, barangsiapa yang memenuhi kebutuhan saudaranya, maka Allah akan memenuhi kebutuhannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6951</td></tr><tr><td>Arabic No</td><td>6951</td></tr><tr><td>Reference</td><td>Book 89 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Посланник Аллаха ﷺ сказал: «Мусульманин мусульманину брат, и он (не должен) ни притеснять, ни предавать его. Тому, кто (поможет) своему брату в нужде его, Аллах (поможет) в его собственной нужде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6951</td></tr><tr><td>Arabic No</td><td>6951</td></tr><tr><td>Reference</td><td>Book 89 Hadith 12</td></tr></tbody></table></div>
 

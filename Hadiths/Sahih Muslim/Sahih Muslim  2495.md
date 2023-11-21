@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:When there comes the mont
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] telah menceritakan kepada kami [Isma'il] -ia adalah Ibnu Ja'far- dari [Abu Suhail] dari [bapaknya] dari [Abu Hurairah] radliallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Bila bulan Ramadlan tiba, maka dibukalah pintu-pintu surga, pintu-pintu neraka ditutup dan syetan-syetan pun dibelenggu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2495</td></tr><tr><td>Arabic No</td><td>1079.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда наступает рамадан, врата Рая открываются, врата Ада закрываются, а на шайтанов накладывают оковы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2495</td></tr><tr><td>Arabic No</td><td>1079.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 1</td></tr></tbody></table></div>
 

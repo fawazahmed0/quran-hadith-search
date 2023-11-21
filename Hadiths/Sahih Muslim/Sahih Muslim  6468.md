@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Khudri reported Allah's Messenger (ﷺ) as saying:There would come to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Sa'id bin Yahya bin Sa'id Al Umawi]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Ibnu Juraij] dari [Abu Az Zubair] dari [Jabir] dia berkata; [Abu Said Al Khudri] berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Akan datang suatu masa yang ketika itu seseorang sedang dicari-cari untuk memimpin ekspedisi pasukan.' Orang-orang akan berkata; 'Carilah apakah kalian dapatkan seorang sahabat Rasulullah shallallahu 'alaihi wasallam? ' Akhirnya ditemukanlah seorang sahabat Rasulullah, yang dengannya mereka memperoleh kemenangan. Pada ekspedisi yang kedua orang-orang berkata; 'Apakah ada orang yang pernah bertemu dengan para sahabat Rasulullah? ' Maka mereka memperoleh kemenangan dengan dipimpin oleh orang tersebut. Pada ekspedisi yang ketiga seseorang berkata; 'Carilah apakah ada orang yang pernah bertemu dengan orang yang pernah bertemu para sahabat Rasulullah? ' Pada ekspedisi yang keempat seseorang berkata; 'Carilah apakah kalian dapatkan orang yang pernah bertemu dengan orang yang pernah bertemu dengan yang pernah bertemu para sahabat Rasulullah? ' Akhirnya didapatkanlah orang tersebut, hingga dengan kepemimpinan orang tersebut mereka meraih kemenangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6468</td></tr><tr><td>Arabic No</td><td>2532.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 297</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6468</td></tr><tr><td>Arabic No</td><td>2532.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 297</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ata' ibn AbuRabah: The Messenger of Allah (ﷺ) gave judgment that bloo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah mengabarkan kepada kami [Muhammad bin Ishaq] dari [Atha bin Abu Rabah] berkata, "Rasulullah shallallahu 'alaihi wasallam memberi putusan bahwa besaran diyat bagi pemilik unta adalah seratus ekor unta, pemilik sapi adalah dua ratus ekor sapi, pemilik kambing adalah dua ribu ekor kambing, pemilik pakaian adalah dua pasang baju, pemilik gandum adalah sesuatu…-muhammad tidak menghafalnya-." Abu Dawud berkata, "Aku membaca di hadapan [Sa'id bin Ya'qub Ath Thalqani], ia berkata; telah menceritakan kepada kami [Abu Tumailah] berkata, telah menceritakan kepada kami [Muhammad bin Ishaq] ia berkata; Atha menyebutkan dari [Jabir bin Abdullah] ia berkata; Rasulullah shallallahu 'alaihi wasallam mewajibkan…lalu ia menyebutkan sebagaimana hadits Musa. Ia berkata, "Bagi pemilik makanan adalah sesuatu…aku tidak menghafalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4543</td></tr><tr><td>Arabic No</td><td>4543</td></tr><tr><td>Reference</td><td>Book 41 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Ата ибн Абу Рабаха, что Посланник Аллаха ﷺ постановил, что владельцы верблюдов должны выплачивать компенсацию /дийа/, отдавая сто верблюдов, владельцы коров отдавая двести коров, владельцы овец отдавая две тысячи овец, а владельцы отдавая двести комплектов одежды. (И он упомянул также), сколько должны отдавать в качестве компенсации /дийа/ за убийство владельцы пшеницы, однако (один из передатчиков хадиса) Мухаммад не запомнил
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4543</td></tr><tr><td>Arabic No</td><td>4543</td></tr><tr><td>Reference</td><td>Book 41 Hadith 50</td></tr></tbody></table></div>
 

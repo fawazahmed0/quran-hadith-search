@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:Allah's Messenger (ﷺ) rode a donkey saddled with a sad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Abu Shafwan] dari [Yunus bin Yazid] dari [Ibnu Syihab] dari ['Urwah] dari [Usamah bin Zaid] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam menaiki keledainya yang berpelana dari kain fadak, sementara Usamah membonceng di belakangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5964</td></tr><tr><td>Arabic No</td><td>5964</td></tr><tr><td>Reference</td><td>Book 77 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Усамы ибн Зейда, да будет доволен Аллах им и его отцом, что (однажды) Посланник Аллаха ﷺ сел верхом на осла, седло которого было покрыто ворсистой тканью /фадакия/, и посадил позади себя Усаму
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5964</td></tr><tr><td>Arabic No</td><td>5964</td></tr><tr><td>Reference</td><td>Book 77 Hadith 180</td></tr></tbody></table></div>
 

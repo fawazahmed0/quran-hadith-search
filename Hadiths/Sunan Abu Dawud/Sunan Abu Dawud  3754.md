@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) forbade that the food of two peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Zaid bin Abu Az Zarqa'] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Jarir bin Hazim] dari [Az Zubair bin Al Khirrit] ia berkata; aku mendengar [Ikrimah] berkata, " [Ibnu Abbas] berkata, "Sesungguhnya Nabi shallallahu 'alaihi wasallam melarang makan makanan dua orang yang saling membanggakan diri." Abu Daud berkata, "Kebanyakkan orang yang meriwayatkan hadits tersebut dari Jarir tidak menyebutkan nama Ibnu Abbas, sementara [Harun An Nahwi] menyebutkan nama Ibnu Abbas juga. Demikian juga dengan [Hammad bin Zaid], ia tidak menyebutkan nama Ibnu Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3754</td></tr><tr><td>Arabic No</td><td>3754</td></tr><tr><td>Reference</td><td>Book 28 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ запретил есть еду соревнующихся
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3754</td></tr><tr><td>Arabic No</td><td>3754</td></tr><tr><td>Reference</td><td>Book 28 Hadith 19</td></tr></tbody></table></div>
 

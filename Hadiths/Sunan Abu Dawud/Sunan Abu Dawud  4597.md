@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu 'Amir al-Hawdhani said:Mu'awiyah b. Abi Sufiyan stood among us and said: Bew
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Muhammad bin Yahya] keduanya berkata; telah menceritakan kepada kami [Abu Al Mughirah] berkata, telah menceritakan kepada kami [Shafwan]. (dalam jalur lain disebutkan) [Amru bin Utsman] berkata, telah menceritakan kepada kami [Baqiyyah] ia berkata; telah menceritakan kepadaku [Shafwan] seperti itu. Ia berkata, "telah menceritakan kepadaku [Azhar bin Abdullah Al Harazi] dari [Abu Amir Al Hauzani] dari [Mu'awiyah bin Abu Sufyan] Bahwasanya saat sedang besama kami ia berkata, "Ketahuilah, ketika sedang bersama kami Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketahuilah! Sesungguhnya orang-orang sebelum kalian dari kalangan ahlu kitab berpecah belah menjadi tujuh puluh dua golongan, dan umatku akan berpecah menjadi tujuh puluh tiga golongan; tujuh puluh dua golongan masuk neraka dan satu golongan masuk surga, yaitu Al Jama'ah." Ibnu Yahya dan Amru menambahkan dalam hadits keduanya, "Sesungguhnya akan keluar dari umatku beberapa kaum yang mengikuti hawa nafsunya seperti anjing mengikuti tuannya." Amru berkata, "Seekor lekat dengan tuannya, yang jika ada tulang bersamanya pasti dia akan mengikutinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4597</td></tr><tr><td>Arabic No</td><td>4597</td></tr><tr><td>Reference</td><td>Book 42 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Му‘авия ибн Абу Суфьян, да будет доволен Аллах им и его отцом, однажды поднялся и сказал: «Поистине, Посланник Аллаха ﷺ однажды поднялся и обратился к нам с речью, сказав: “Поистине, люди Писания, жившие до вас, разделились на семьдесят две группы, и, поистине, эта община разделится на семьдесят три группы, семьдесят две из которых окажутся в Огне, а одна войдёт в Рай это (истинная) община”». Ибн Яхья и ‘Амр передают добавление: «И появятся в моей общине люди, которые будут следовать за своими прихотями, подобно тому, как бешенство следует за своим носителем». А ‘Амр добавлял: «Бешенство всегда следует за больным, проникая в каждый его сосуд, в каждый сустав»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4597</td></tr><tr><td>Arabic No</td><td>4597</td></tr><tr><td>Reference</td><td>Book 42 Hadith 2</td></tr></tbody></table></div>
 

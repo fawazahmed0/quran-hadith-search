@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (raa), a dit : "Quand le Prophète (paix et bénédiction de Di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] dia berkata, "Dahulu apabila Rasulullah Shallallahu'alaihiwasallam mandi hadas karena junub, maka beliau memulainya dengan membasuh kedua tangan. Beliau menuangkan air dengan menuangkan air dengan tangan kanan ke atas tangan kiri, kemudian membasuh kemaluan dan berwudhu dengan wudhu untuk shalat. Kemudian beliau menyiram rambut sambil memasukkan jari ke pangkal rambut sehingga rata. Hingga ketika selesai, beliau membasuh kepala sebanyak tiga kali, lalu beliau membasuh seluruh tubuh dan akhirnya membasuh kedua kaki. Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Jarir] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami [Ali bin Hujr] telah menceritakan kepada kami [Ali bin Mushir] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Numair] semuanya dari [Hisyam] dalam sanad ini, dan dalam lafazh mereka tidak ada ungkapan, 'Membasuh kedua kakinya', dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam mandi karena junub, maka beliau memulainya dengan mencuci kedua telapak tangannya tiga kali, kemudian menyebutkan sebagaimana hadits Abu Mu'awiyah, namun tidak menyebut, 'membasuh kedua kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>718</td></tr><tr><td>Arabic No</td><td>316.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша рассказывала: «Когда Посланник Аллаха ﷺ совершал большое омовение /гусль/ после полового осквернения, он прежде всего мыл (кисти) рук. Потом он левой рукой мыл половые органы, поливая их водой из правой пригоршни, затем совершал такое же омовение, которое совершается для молитвы, затем брал немного воды и прочесывал пальцами корни волос пока не убеждался, что она достигла кожи головы, (затем) выливал на голову три пригоршни воды, затем выливал воду на тело и, наконец, мыл ноги»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>718</td></tr><tr><td>Arabic No</td><td>316.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 40</td></tr></tbody></table></div>
 

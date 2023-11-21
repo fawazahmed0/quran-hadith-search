@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father: 'Umar asked the people, "Who heard the Prophet (ﷺ) g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Hisyam] dari [ayahnya], Umar pernah meminta kesaksian orang-orang, siapa diantara mereka yang mendengar Nabi shallallahu 'alaihi wasallam memutuskan masalah keguguran janin (yang di pukul). Maka [Al Mughirah] mengatakan; 'Aku mendengar beliau memutuskannya untuk membayar ghurrah, budak laki-laki atau hamba sahaya perempuan, ' lantas [Muhammad bin Maslamah] mengatakan; 'aku menyaksikan Nabi shallallahu 'alaihi wasallam dengan seperti ini.' Telah menceritakan kepadaku [Muhammad bin Abdullah] telah menceritakan kepada kami [Muhammad bin Sabiq] telah menceritakan kepada kami [Za'idah] telah menceritakan kepada kami [Hisyam bin Urwah] dari [ayahnya] ia mendengar [Mughirah bin Syu'bah] menceritakan tentang Umar, bahwa ia pernah meminta pendapat orang-orang tentang keguguran janin wanita semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6907</td></tr><tr><td>Arabic No</td><td>6907</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хишам передал от своего отца, что однажды ‘Умар спросил людей: «Кто слышал, как Пророк ﷺ вынес решение относительно выкидыша?» Аль-Мугыйра сказал: «Я слышал. Он постановил выплачивать (в подобных случаях) компенсацию — раба или рабыню». ‘Умар сказал: «Приведи того, кто засвидетельствует об этом вместе с тобой». Тогда Мухаммад ибн Масляма сказал: «Я свидетельствую, что слышал от Пророка ﷺ подобное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6907</td></tr><tr><td>Arabic No</td><td>6907</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

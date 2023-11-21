@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humran: (the slave of 'Uthman) I saw 'Uthman bin 'Affan asking for a tu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul 'Aziz bin 'Abdullah Al Uwaisy] berkata, telah menceritakan kepadaku [Ibrahim bin Sa'd] dari [Syihab] bahwa ['Atha' bin Yazid] mengabarkan kepadanya bahwa [Humran] mantan budan 'Utsman mengabarkan kepadanya, bahwa ia telah melihat ['Utsman bin 'Affan] minta untuk diambilkan bejana (berisi air). Lalu dia menuangkan pada telapak tangannya tiga kali lalu membasuh keduanya, lalu ia memasukkan tangan kanannya ke dalam bejana lalu berkumur-kumur dan memasukkan air ke dalam hidung, kemudian membasuh wajahnya tiga kali, kemudian membasuh kedua tangan hingga siku tiga kali, kemudian mengusap kepala, kemudian membasuh kedua kakinya tiga kali hingga kedua mata kaki. Setelah itu ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berwudlu seperti wudluku ini, kemudian dia shalat dua rakaat dan tidak berbicara antara keduanya, maka dosanya yang telah lalu akan diampuni." Dan dari [Ibrahim] berkata, [Shalih bin Kaisan] berkata, [Ibnu Syihab] berkata. Tetapi ['Urwah] menceritakan dari [Humran], "Ketika ['Utsman] berwudlu, dia berkata, "Maukah aku sampaikan kepada kalian sebuah hadits yang kalau bukan karena ada satu ayat tentu aku tidak akan menyampaikannya? Aku pernah mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang laki-laki berwudlu dengan membaguskan wudlunya kemudian mengerjakan shalat, kecuali akan diampuni (dosa) antara wudlunya dan shalatnya itu hingga selesai shalatnya." 'Urwah berkata, "Ayat yang dimaksud adalah: '(Sesungguhnya orang-orang yang menyembunyikan apa yang telah kami turunkan…) ' (Qs. Al Baqarah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>159</td></tr><tr><td>Arabic No</td><td>159</td></tr><tr><td>Reference</td><td>Book 4 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Шихаба о том, что ‘Атаъ ибн Язид сообщил ему, что Хумран, вольноотпущенник ‘Усмана рассказывал ему, что он видел, как что (однажды) ‘Усман ибн ‘Аффан, да будет доволен им Аллах, велел принести себе сосуд (с водой, а когда его принесли,) он трижды слил воду из этого сосуда себе на руки и трижды омыл (кисти рук). Затем он опустил в этот сосуд правую руку, (набрал воды,) прополоскал ею рот и промыл нос, затем трижды омыл лицо и руки до локтей, затем провёл (влажными руками) по голове, затем трижды омыл ноги до щиколоток, а затем сказал: «Посланник Аллаха ﷺ сказал: “Тому, кто совершит омовение, подобное этому моему омовению, а потом совершит молитву в два рак‘ата, не думая при этом ни о чём постороннем, будут прощены его предыдущие прегрешения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>159</td></tr><tr><td>Arabic No</td><td>159</td></tr><tr><td>Reference</td><td>Book 4 Hadith 25</td></tr></tbody></table></div>
 

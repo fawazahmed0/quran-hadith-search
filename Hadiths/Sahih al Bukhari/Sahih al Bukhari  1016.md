@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A man came to the Prophet (p.b.u.h) and said, "Livestock are destr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Syarik bin 'Abdullah] dari [Anas bin Malik] berkata, "Ada seorang laki-laki datang menemui Nabi shallallahu 'alaihi wasallam lalu berkata, "Harta benda telah rusak dan jalan-jalan terputus, maka mintalah kepada Allah agar menurunkan air hujan." Maka beliau pun berdo' hingga turun hujan kepada kami dari hari Jum'at ke Jum'at berikutnya. Laki-laki itu kemudian datang lagi seraya berkata, "Rumah-rumah telah roboh, jalan-jalan terputus dan harta benda rusak. Maka berdo'alah kepada Allah agar menahan hujan." Beliau kemudian berdiri dan berdoa: "Ya Allah turunkanlah di atas bukit-bukit, dataran tinggi, jurang-jurang yang dalam serta pada tempat-tempat tumbuhnya pepohonan." Maka awan pun menjauh dari Madinah seperti kain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1016</td></tr><tr><td>Arabic No</td><td>1016</td></tr><tr><td>Reference</td><td>Book 15 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) к Пророку ﷺ пришел мужчина и сказал: “Наш скот погиб, и мы не можем двинуться в путь”. Пророк ﷺ обратился к Аллаху и пошел дождь, который продолжался до следующей пятницы. Затем он пришел и сказал: “Дома разрушились, по дорогам невозможно пройти и скот погиб, так попроси же Аллаха, чтобы Он остановил его (дождь)!” Тогда Посланник Аллаха ﷺ встал и сказал: “О Аллах, на холмы, возвышенности, на долины, и на те места, где растут деревья!” И облака рассеялись от Медины, подобно тому, как рвется одежда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1016</td></tr><tr><td>Arabic No</td><td>1016</td></tr><tr><td>Reference</td><td>Book 15 Hadith 11</td></tr></tbody></table></div>
 

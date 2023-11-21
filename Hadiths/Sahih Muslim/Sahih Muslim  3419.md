@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sabra Juhanni reported:Allah's Messenger (ﷺ) permitted temporary marriage for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ar Rabi' bin Sabrah Al Juhani] dari [bapaknya] Sabrah, bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengizinkan kami untuk nikah mut'ah. Maka aku beserta seorang temanku mendatangi seorang wanita dari Bani Amir, sepertinya wanita itu masih gadis dan cantik jelita. Maka kami pun menyerahkan diri kami padanya, lalu wanita itu berkata, "Mahar apa yang akan kalian berikan?" Aku menjawab, "Pakaianku." Dan temanku juga berkata, "Pakaian milikku." Pakaian temanku sebenar lebih bagus dari pakaianku, namun usiaku lebih muda darinya. Bila wanita itu melirik pakaian milik temanku, ia pun terkagum olehnya. Dan ketika melirik kepadaku, aku pun membuatnya terkagum-kagum. Kemudian wanita itu pun berkata, "Kamu dan pakaianmu telah mencukupiku." Maka aku pun tinggal bersamanya selama tiga hari. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang masih memiliki isteri dengan cara mut'ah, maka ceraikanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3419</td></tr><tr><td>Arabic No</td><td>1406.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3419</td></tr><tr><td>Arabic No</td><td>1406.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
 

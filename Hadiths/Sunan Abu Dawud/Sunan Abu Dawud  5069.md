@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) said: If anyone says in the morning o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Muhammad bin Abu Fudaik] ia berkata; telah mengabarkan kepadaku ['Abdurrahman bin Abdul Majid] dari [Hisyam Ibnul Ghaz bin Rabi'ah] dari [Makhul Ad Daimasyqi] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa ketika waktu pagi dan sore hari membaca: ALLAHUMMA INNI ASHBAHTU USYHIDUKA WA USYHIDU HAMALATA ARSYIKA WA MALAAIKATAKA WA JAMII'A KHALQIKA ANNAKA ANTAALLAHU LAA ILAAHA ILLA ANTA WA ANNA MUHAMMADAN ABDUKA WA RASUULUKA (Ya Allah, aku berada di waktu pagi bersaksi atas-Mu, dan kepada para pembawa Arsy-Mu, kepada semua malaikat, dan kepada semua mahkluk-Mu, bahwa Engkau adalah Allah yang tidak ada Tuhan selain Engkau, dan Muhammad adalah hamba dan Rasul-Mu.) maka Allah akan membebaskan seperempat tubuhnya dari neraka, dan barangsiapa mengucapkannya sebanyak dua kali maka Allah akan membebaskan separuh tubuhnya dari neraka, dan barang siapa yang mengucapkannya sebanyak tiga kali maka Allah akan membebaskan tiga perempat tubuhnya dari neraka, dan barangsiapa membacanya sebanyak empat kali maka Allah akan membebaskan semua anggota badannya dari neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5069</td></tr><tr><td>Arabic No</td><td>5069</td></tr><tr><td>Reference</td><td>Book 43 Hadith 297</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Ахмад ибн Салих: Рассказал нам Мухаммад ибн Абу Фудайк, который сказал: Сообщил мне ‘Абдуррахман ибн ‘Абдульмаджид от Хишама ибн аль-Гъази ибн Раби‘а, передавшего от Макхуля ад-Димашкъи, передавшего со слов Анаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Аллах освободит от огня четверть (тела) того, кто утром и вечером станет (один раз) произносить слова: “О Аллах, поистине, этим утром я призываю Тебя, тех, кто несёт Твой престол, Твоих ангелов и всех тех, кого Ты создал, засвидетельствовать, что Ты – Аллах, и нет бога, достойного поклонения, кроме Тебя, и что Мухаммад – Твой раб и Твой посланник /Аллахумма, инни асбахту (амсайту) ушхидука, ва ушхиду хамалята ‘аршика, ва маляикатака, ва джами‘а халькъика аннака Анта-Ллаху ля иляха илля Анта, ва анна Мухаммадан ‘абдука ва расулюка/”. Того, кто станет произносить эти слова по два раза, Аллах освободит от огня наполовину, того, кто станет делать это трижды, Аллах Всевышний освободит от огня на три четверти, того же, кто станет произносить их по четыре раза, Аллах Всевышний освободит от огня (полностью)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5069</td></tr><tr><td>Arabic No</td><td>5069</td></tr><tr><td>Reference</td><td>Book 43 Hadith 297</td></tr></tbody></table></div>
 

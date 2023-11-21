@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) came to Fatimah and fou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Ibnu Numair] berkata, telah menceritakan kepada kami [Fudhail bin Ghazwan] dari [Nafi'] dari [Abdullah bin Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam mendatangi Fatimah radliallahu 'anha dan mendapati di depan pintunya sebuah tirai, sehingga beliau tidak jadi masuk." Abdullah bin Umar berkata, "jarang sekali beliau masuk melainkan menemui Fathimah dahulu, lalu Ali radliallahu 'anhu masuk dan melihat Fatimah dalam keadaan sedih. Maka ia bertanya, "ada apa denganmu?" Fathimah menjawab; "Rasulullah shallallahu 'alaihi wasallam telah datang namun tidak masuk", maka Ali datang menemui beliau dan berkata; "Wahai Rasulullah sesungguhnya Fathimah sangat bersedih, karena engkau datang kepadanya namun tidak menemuinya" Rasulullah shallallahu 'alaihi wasallam bersabda; "aku tidak mencintai dunia, dan aku tidak menyukai lukisan (gambar).", lalu Ali pergi menemui Fathimah dan memberitahukan sabda Rasulullah kepadanya, Fathimah berkata; katakan kepada Rasulullah apa yang beliau perintahkan dengan tirai yang berlukis tersebut, Rasulullah shallallahu 'alaihi wasallam bersabda; "katakan kepadanya agar mengirim tirai berlukis itu kepada Bani Fulan.", (perawi berkata;) telah menceritakan hadits ini kepada kami [Washil bin Abdul A'la] telah menceritakan kepada kami [Ibnu Fudhail] dari [bapaknya] ia berkata; "tirai tersebut adalah tirai yang berlukis (bergambar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2613)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4149</td></tr><tr><td>Arabic No</td><td>4149</td></tr><tr><td>Reference</td><td>Book 34 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды Посланник Аллаха ﷺ пришёл к Фатиме, да будет доволен ею Аллах. Увидев на её двери занавеску, он не стал входить. А обычно он, вернувшись откуда-нибудь, сначала всегда заходил к ней. ‘Али, да будет доволен им Аллах, зайдя домой, увидел, что Фатима озабочена чем-то. Он спросил: «Что с тобой?» Она ответила: «Пророк ﷺ пришёл ко мне, но не вошёл в дом». Тогда ‘Али пошёл к нему и сказал ему: «О Посланник Аллаха, Фатима расстроилась из-за того, что ты пришёл к её дому, но не зашёл к ней». (Посланник Аллаха ﷺ) сказал: «Что мне до мира этого и вышитых занавесок!» Он пошёл к Фатиме и передал ей слова Посланника Аллаха ﷺ. Она сказала: «Спроси Посланника Аллаха ﷺ что он велит мне делать (с этой занавеской)». (Посланник Аллаха ﷺ) сказал: «Скажи ей, пусть пошлёт её таким-то людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2613)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4149</td></tr><tr><td>Arabic No</td><td>4149</td></tr><tr><td>Reference</td><td>Book 34 Hadith 130</td></tr></tbody></table></div>
 

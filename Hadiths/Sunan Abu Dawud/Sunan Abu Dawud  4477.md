@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:When a man who had drunk wine was brought to the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6777)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4477</td></tr><tr><td>Arabic No</td><td>4477</td></tr><tr><td>Reference</td><td>Book 40 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, что к Посланнику Аллаха ﷺ привели человека, который пил вино, и он сказал: «Бейте (не называя конкретное число ударов, так как это ещё не было установлено) его». Абу Хурайра сказал: «И мы начали бить его кто рукой, кто сандалиями, кто (скрученной) одеждой. А когда он уходил, кто-то из присутствующих (‘Умар ибн аль-Хаттаб) сказал: “Да опозорит тебя Аллах!” Посланник Аллаха ﷺ сказал: “Не говорите так. Не помогайте шайтану (опозорить его, тем самым достигнув своей цели) против него”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6777)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4477</td></tr><tr><td>Arabic No</td><td>4477</td></tr><tr><td>Reference</td><td>Book 40 Hadith 127</td></tr></tbody></table></div>
 

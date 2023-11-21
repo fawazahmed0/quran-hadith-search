@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ And Abu Huraira said, "When Allah's Messenger (ﷺ) raised his head from (bowing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Masih dari jalur periwayatan yang sama dengan hadits sebelumnya) keduanya berkata; [Abu Hurairah] radliallahu 'anhu berkata, "Rasulullah shallallahu 'alaihi wasallam ketika mengangkat kepalanya dari rukuk sambil mengucapkan: 'SAMI'ALLAHU LIMAN HAMIDAH, RABBANAA WA LAKAL HAMDU (Semoga Allah mendengar pujian orang yang memuji-Nya. Wahai Rabb kami, dan milik-Mu lah segala pujian) ', kemudian beliau berdo'a: "Ya Allah, selamatkanlah Al Walid bin Al Walid, Salamah bin Hisyam, 'Ayyasy bin Abu Rabi'ah orang-orang lemah dari kaum Mukminin. Ya Allah, timpakanlah kerasnya siksa-Mu kepada Mudlar dan jadikanlah siksa-Mu untuk mereka berupa paceklik seperti paceklik yang terjadi pada zaman Nabi Yusuf." Pada waktu itu, orang-orang penduduk Masyriq menyelisih atau menentang Mudlar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>804</td></tr><tr><td>Arabic No</td><td>804</td></tr><tr><td>Reference</td><td>Book 10 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ поднимал голову после поясного поклона, он всегда говорил: “Да услышит Аллах тех, кто воздал Ему хвалу; Господь наш, и хвала Тебе”, (после чего иногда) обращался к Аллаху с мольбами за некоторых людей, называя их по именам(, например): “О Аллах, спаси аль-Валида ибн аль-Валида, и Саляму ибн Хишама, и ‘Аййаша Ибн Абу Раби‘у, и слабых из числа верующих! О Аллах, будь суров с племенем мудар и сделай так, чтобы голод продолжался для него столько же, сколько и во времена Юсуфа!” (Он говорил так, поскольку) в те дни восточная группа племён мудар выступала против него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>804</td></tr><tr><td>Arabic No</td><td>804</td></tr><tr><td>Reference</td><td>Book 10 Hadith 199</td></tr></tbody></table></div>
 

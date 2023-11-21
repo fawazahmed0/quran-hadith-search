@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said :When Mecca was conquered, the Holy Prophet (peace be upon him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ammal] ia berkata; telah menceritakan kepada kami [Al Walid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Al 'Abbas bin Al Walid bin Mazyad] ia berkata; telah mengabarkan kepadaku [Ayahku] dari [Al Auza'i] dari [Yahya bin Abu Katsir] ia berkata; telah menceritakan kepada kami [Abu Salamah] -yaitu Ibnu Abdurrahman- ia berkata; telah menceritakan kepadaku [Abu Hurairah] ia berkata, "Ketika Makkah ditaklukkan, Nabi shallallahu 'alaihi wasallam berdiri….. kemudian Abu Hurairah menyebutkan khutbah Nabi shallallahu 'alaihi wasallam, ia berkata, "Kemudian seorang laki-laki dari penduduk Yaman yang bernama Abu Syah berdiri dab berkata, "Wahai Rasulullah, tuliskan untukku! Lalu beliau bersabda: "Tuliskan untuk Abu Syah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2434) Sahih Muslim (1355)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3649</td></tr><tr><td>Arabic No</td><td>3649</td></tr><tr><td>Reference</td><td>Book 26 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах: «Покорив Мекку, Пророк ﷺ встал среди людей и обратился к ним с речью. После этого Абу Шах, человек из числа жителей Йемена, встал и сказал: “О Посланник Аллаха! Запишите для меня эти слова”, и (Посланник Аллаха ﷺ) велел: “Запишите эту (проповедь) для Абу Шаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2434) Sahih Muslim (1355)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3649</td></tr><tr><td>Arabic No</td><td>3649</td></tr><tr><td>Reference</td><td>Book 26 Hadith 8</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Marzuq bin Binti Mahdi bin Maimun] telah menceritakan kepada kami [Rauh] telah menceritakan kepada kami [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Dahulu ada seorang laki-laki yang tidak pernah berbuat baik sama sekali. Lalu ia berpesan kepada istri dan keluarganya; 'Wahai keluargaku, apabila aku meninggal dunia, maka bakarlah mayatku! Setelah itu, buanglah sebagian tubuhku di daratan dan sebagian lagi di lautan. Demi Allah, jika Allah menakdirkan niscaya Dia akan menyiksaku dengan siksaan yang tidak pernah Dia timpakan kepada makhluk lain di dunia ini.' Ketika orang tersebut meninggal, maka keluarganya pun melaksanakan pesannya, yaitu membakar jasadnya dan membuang sebagian ke daratan dan sebagian ke lautan. Kemudian Allah Subhanahu Wa Ta'ala memerintahkan daratan agar menyatukan jasad orang tersebut dan Allah pun memerintahkan lautan agar menyatukan jasad orang itu. Setelah jasad terkumpul menjadi satu kembali di alam barzakh, maka Allah pun bertanya kepadanya: 'Hai hamba-Ku, mengapa kamu memerintahkan keluargamu untuk melakukan tindakan seperti itu? ' Orang laki-laki itu menjawab; 'Ya Allah ya Tuhanku, aku lakukan itu karena aku takut akan siksa-Mu, sedangkan Engkau adalah Dzat Yang Maha Tahu.' Akhirnya Allah pun mengampuninya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6980</td></tr><tr><td>Arabic No</td><td>2756.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры (да будет доволен им Аллах), что Посланник Аллаха ﷺ сказал: «Один человек, не совершивший (при жизни ни одного) доброго дела, велел (членам) своей семьи сжечь его (тело) после смерти, а потом развеять половину (пепла) над сушей, а половину над морем, и поклялся Аллахом, что (велел сделать это для того, чтобы) Аллах не смог подвергнуть его такому наказанию, которому не подвергнет Он никого из обитателей миров. Когда этот человек умер, они (всё) сделали, как он велел, Аллах же велел земле и морю собрать то, что в них было, и это было сделано, а потом Он спросил (этого человека): “Зачем ты это сделал?” Тот сказал: “Из страха перед Тобой, о Господь мой, ведь Ты лучше всех знаешь (обо всём)!” и Аллах простил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6980</td></tr><tr><td>Arabic No</td><td>2756.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 28</td></tr></tbody></table></div>
 

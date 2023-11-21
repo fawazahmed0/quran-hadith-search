@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Al-'As:I heard the Prophet (ﷺ) saying openly not secretly, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Abbas] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Isma'il bin Abu Khalid] dari [Qais bin Abu Hazim] dari ['Amru bin Al 'Ash] dia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam secara jelas dan terang-terangan bersabda: "Sesungguhnya keluarga Abu (fulan) -Amru berkata; di dalam kitab putihnya Muhammad bin Ja'far- bukanlah dari para waliku (penolongku), sesungguhnya waliku adalah Allah dan orang-orang shalih dari kaum Mukminin." ['Anbasah bin Abdul Wahid] menambahkan, dari [Bayan] dari [Qais] dari ['Amru bin Al 'Ash] dia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam (bersabda): "Akan tetapi mereka (keluarga Abu fulan) masih memiliki tali silaturrahmi yang aku tetap akan menyambungnya dengan tali silaturrahim itu." Abu Abdullah mengatakan; dan yang tertulis menggunakan redaksi "bibalaha (menyambungnya)." Namun yang shahih dan yang lebih pantas adalah "Bibalaaliha (menyambungnya)." Aku tidak tahu dari segimana kalimat "Bibalaha (menyambungnya) " didapatkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5990</td></tr><tr><td>Arabic No</td><td>5990</td></tr><tr><td>Reference</td><td>Book 78 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр бин аль-‘Ас, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ открыто и не таясь говорил: “Поистине, члены семейства моего отца не являются моими покровителями, моими покровителями являются только Аллах и праведные верующие, однако (меня связывают) с ними узы родства, и я обязательно буду поддерживать их (и впредь)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5990</td></tr><tr><td>Arabic No</td><td>5990</td></tr><tr><td>Reference</td><td>Book 78 Hadith 21</td></tr></tbody></table></div>
 

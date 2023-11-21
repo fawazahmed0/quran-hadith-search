@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:While the Prophet (ﷺ) was in a funeral procession, he took a sti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Manshur] dan [Al A'masy] keduanya mendengar [Sa'd bin Ubaidah] dari [Abu Abdurrahman] dari [Ali] radliyallahu'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa suatu kali beliau menghadiri jenazah, kemudian beliau ambil dahan dan beliau pukulkan ke tanah secara ringan sambil beliau sabdakan: 'Tidaklah salah seorang di antara kalian melainkan telah ditetapkan tempat tinggalnya di neraka atau di surga.' Para sahabat bertanya, 'Kalau begitu, tidak sebaiknyakah kita bertawakkal saja? ' Nabi menjawab: 'Beramallah kalian, sebab masing-masing telah dimudahkan, dan beliau mengutip ayat: '(Adapun orang yang memberi hartanya dan bertakwa) ', (Qs. Al Lail:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7552</td></tr><tr><td>Arabic No</td><td>7552</td></tr><tr><td>Reference</td><td>Book 97 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Али, да будет доволен им Аллах, что (однажды) Пророк ﷺ присутствовал на похоронной процессии и взял ветку дерева и (принялся) чертить (им что-то) на земле, а затем сказал: «Нет среди вас никого, чье место не было бы уже записано в Раю или в Аду!». (Некоторые люди) сказали: «Так не стоит ли нам (просто) положиться (на это)?», на что он ответил: «Совершайте деяния(, приближающие к Аллаху), ибо каждому будет облегчен (тот путь, который был предопределен ему)». (А затем он прочитал) аят: «Тому, кто отдавал должное (или раздавал милостыню) и был богобоязнен» (сура «аль-Лейль», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7552</td></tr><tr><td>Arabic No</td><td>7552</td></tr><tr><td>Reference</td><td>Book 97 Hadith 177</td></tr></tbody></table></div>
 

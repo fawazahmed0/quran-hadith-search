@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Arfah ibn al-Harith al-Kandi: I was present with the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Hatim], telah menceritakan kepada Kami [Abdurrahman bin Mahdi], telah menceritakan kepada Kami [Abdullah bin Al Mubarak] dari [Harmalah bin Imran] dari [Abdullah bin Harits Al Azdi], berkata: saya mendengar [Ghurfah bin Al Harits Al Kindi], ia berkata: aku telah menyaksikan Rasulullah shallallahu 'alaihi wasallam pada waktu haji wada' dan beliau diberi unta, lalu beliau berkata: panggillah Abu Hasan. Maka Ali Bin Abu Thalib radliallahu 'anhu dipanggil lalu, kemudian beliau berkata kepadanya: "Peganglah bagian bawah tombak! Dan Rasulullah shallallahu 'alaihi wasallam memegang atasnya lalu mereka berdua menghujamkannya ke unta. Setelah selesai beliau menaiki bighalnya(jenis keledai) dan membonceng Ali Bin Abi Thalib radliallahu 'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1766</td></tr><tr><td>Arabic No</td><td>1766</td></tr><tr><td>Reference</td><td>Book 11 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Гарафа ибн аль-Харис аль-Кинди передаёт: «Я совершал прощальный хадж вместе с Посланником Аллаха ﷺ. Когда к нему привели жертвенных животных, он велел: “Позовите ко мне Абу аль-Хасана”. Когда ‘Али, да будет доволен им Аллах, позвали к нему, он сказал ему: “Возьмись за нижний конец копья”. А сам Посланник Аллаха ﷺ взялся за верхнюю часть копья, после чего начал закалывать жертвенных животных. Закончив, он сел на свою мулицу и посадил ‘Али, да будет доволен им Аллах, позади себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1766</td></tr><tr><td>Arabic No</td><td>1766</td></tr><tr><td>Reference</td><td>Book 11 Hadith 46</td></tr></tbody></table></div>
 

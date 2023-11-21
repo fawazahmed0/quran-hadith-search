@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Habiba:I said, "O Allah's Messenger (ﷺ)! Marry my sister, the daug
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibnu Syihab] bahwa [Urwah bin Az Zubair] Telah mengabarkan kepadanya, bahwa [Zainab binti Abu Salamah] Telah mengabarkan keapdanya bahwa [Ummu Habibah] berkata; Aku berkata, "Wahai Rasulullah, nikahilah saudaraku binti Abu Sufyan." Beliau bersabda: "Apakah kamu suka?" Aku menjawab, "Ya, dan bukan berarti aku mau berpisah dengan Anda. Tetapi, orang yang paling aku sukai dapat ikut serta dalam kebaikan denganku adalah saudara perempuanku." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya hal itu tidaklah halal bagiku." Aku berkata lagi, "Wahai Rasulullah, sesungguhnya kami tengah berbincang-bincang bahwa Anda ingin menikahi Durrah binti Abu Salamah." Beliau balik bertanya: "Binta Ummi Salamah?" Aku menjawab, "Ya." Beliau bersabda: "Demi Allah, sekiranya ia tidak dalam asuhanku, ia pun tidaklah halal bagiku. Sesungguhnya ia adalah anak dari saudara sesusuanku. Yang demikian karena Tsuwaibah telah menyusui aku dan juga Abu Salamah. Karena itu, janganlah kalian menawarkan anak-anak perempuan kalian kepadaku dan jangan pula saudara-saudara perempuan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5107</td></tr><tr><td>Arabic No</td><td>5107</td></tr><tr><td>Reference</td><td>Book 67 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Хабиба рассказывала: «(Однажды) я сказала (Пророку ﷺ): “О Посланник Аллаха, возьми в жёны мою сестру, дочь Абу Суфьяна”. Он спросил: “Ты хочешь этого?” Я сказала: “Да, ведь я не единственная твоя жена, и я хочу, чтобы (именно) моя сестра разделила со мной благо”. Тогда Пророк ﷺ сказал (мне): “Поистине, мне это не дозволено”. Я сказала: “О Посланник Аллаха, но говорят, что ты хочешь взять в жёны Дурру, дочь Абу Салямы”. (Пророк ﷺ) спросил: “(Ты имеешь в виду) дочь Умм Салямы?” Я сказала: “Да”. Тогда (Пророк ﷺ) сказал: “Клянусь Аллахом, даже если бы она не была моей падчерицей, мне нельзя было бы (жениться) на ней, ибо она является дочерью моего молочного брата. Меня и Абу Саляму выкормила своим молоком Сувайба, так что не предлагайте мне (в жёны) ни ваших дочерей, ни ваших сестёр”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5107</td></tr><tr><td>Arabic No</td><td>5107</td></tr><tr><td>Reference</td><td>Book 67 Hadith 45</td></tr></tbody></table></div>
 

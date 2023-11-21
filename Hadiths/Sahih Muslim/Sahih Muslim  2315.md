@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : "Abou Talha était le plus riche de 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] bahwa ia mendengar [Anas bin Malik] berkata; Abu Thalhah adalah orang Anshar yang terkaya di Madinah. Dan harta yang paling di sukainya ialah sebuah kebun yang di beri nama 'Bairaha', yang letaknya berhadapan dengan masjid. Rasulullah shallallahu 'alaihi wasallam pernah masuk ke dalam taman itu dan meminum air yang terdapat di dalamnya, yang ternyata manis. Kata Anas selanjutnya; Ketika turun ayat; "Sekali-kali kamu tidak akan mencapai kebaikan (yang sempurna), sehingga kamu menafkahkan sebagian hartamu yang kamu cintai." Maka Abu Thalhah pergi menemui Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Sesungguhnya Allah telah berfirman di dalam kitab-Nya, 'Sekali-kali kamu tidak akan mencapai kebaikan (yang sempurna), sehingga kamu menafkahkan sebagian hartamu yang kamu cintai.' Maka hartaku yang paling aku cintai adalah Bairaha'. Mulai saat ini aku sedekahkan karena Allah, yang mana aku mengharapkan pahala dan tabungan di sisi Allah. Karena itu manfaatkanlah taman itu sesuai dengan keinginan Anda wahai Rasulullah." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Bagus, harta yang betul-betul menguntungkan. Harta yang betul-betul menguntungkan. Aku telah mendengar apa yang kamu ucapkan mengenai harta itu. Namun, aku berpendapat sebaiknya kebun tersebut kamu bagikan kepada familimu yang terdekat." Lalu Abu Thalhah membagi-bagikan tamannya itu kepada famili-familinya yang dekat, termasuk anak-anak pamannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>998.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Абу Тальха был богатейшим из ансаров, (живших) в Медине, а больше всего из того, что ему принадлежало, он любил находившуюся напротив мечети (рощу) Байраха, куда часто заходил Посланник Аллаха ﷺ, (чтобы) испить там хорошей воды».Анас сказал: «После того, как был ниспослан аят, (в котором сказано): “Вам никогда не обрести благочестия, если не будете вы расходовать из того, что любите” (Сура «Али ‘Имран», аят 92), Абу Тальха подошёл к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха, поистине, Аллах говорит в Своей Книге: “Вам никогда не обрести благочестия, если не будете вы расходовать из того, что любите”. Из всего, что мне принадлежит, я больше всего люблю Байраху, так (пусть же она станет) милостыней ради Аллаха, а я надеюсь, что благодаря ей обрету благо и сделаю себе запас у Аллаха. Используй же её по своему усмотрению, о Посланник Аллаха”. (На это) Посланник Аллаха ﷺ сказал: “Прекрасно! Это имущество принесёт доход, обязательно принесёт! Я слышал твои слова, но, поистине, я считаю, что тебе следует отдать её твоим близким родственникам”, и Абу Тальха разделил её между своими родственниками и сыновьями своего дяди»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>998.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 52</td></tr></tbody></table></div>
 

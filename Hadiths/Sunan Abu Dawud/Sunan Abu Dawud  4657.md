@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Aun] ia berkata; telah memberitakan kepada kami. (dalam jalur lain disebutkan) [Musaddad] ia berkata; telah menceritakan kepada kami [Abu Awanah] dari [Qatadah] dari [Zurarah bin Aufa] dari [Imran bin Hushain] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik generasi adalah generasi saat aku diutus di dalamnya, kemudian generasi setelah mereka, kemudian generasi setelah mereka -Perawi berkata; 'Hanya Allah yang tahu, apakah beliau menyebutkan yang ketiga atau tidak'-. Setelah itu akan muncul orang-orang yang memberikan persaksian padahal mereka tidak diminta, berjanji namun tidak menepatinya, mereka suka melakukan khianat, tidak amanat dan menyebar di antara mereka kegemukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2535)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4657</td></tr><tr><td>Arabic No</td><td>4657</td></tr><tr><td>Reference</td><td>Book 42 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Лучшее поколение моей общины то, в котором был послан я, а потом следующее за ним, а потом следующее за ним. А потом появятся люди, которые станут свидетельствовать притом, что их не будут просить об этом. Они будут давать обеты, но не будут выполнять их, и будут вероломными и не будут оправдывать доверие. И многие из них будут тучными»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2535)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4657</td></tr><tr><td>Arabic No</td><td>4657</td></tr><tr><td>Reference</td><td>Book 42 Hadith 62</td></tr></tbody></table></div>
 

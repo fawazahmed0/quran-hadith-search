@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b Sa'd b. Abi Waqqas reported (on the authority of his father that Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi], [Abu Ja'far Muhammad bin Ash Shabbah], ['Ubaidullah Al Qawariri] dan [Suraij bin Yunus] seluruhnya dari [Yusuf bin Al Majisyun] dan lafazh ini milik Ibnu Ash Shabbah; Telah menceritakan kepada kami [Yusuf Abu Salamah Al Majisyun]; Telah menceritakan kepada kami [Muhammad bin Al Munkadir] dari [Sa'id bin Al Musayyab] dari ['Amir bin Sa'ad bin Abu Waqqash] dari [Bapaknya] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada Ali: "Kedudukanmu di sisiku seperti kedudukan Harun di sisi Musa. Hanya tidak ada nabi setelahku.' [Sa'id] berkata; 'Maka aku ingin sekali menceritakan hal ini kepada [Sa'ad], kemudian aku bertemu dengannya dan aku ceritakan kapadanya sebagaimana yang telah di ceritakan Amir kepadaku. Lalu dia berkata; 'Aku telah mendengarnya. Aku bertanya; 'Benarkah kamu telah mendengarnya? ' dia meletakan kedua jarinya di telinganya seraya menjawab; 'Ya, aku telah mendengarnya, jika tidak, tentu kedua telinga ini akan diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6217</td></tr><tr><td>Arabic No</td><td>2404.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6217</td></tr><tr><td>Arabic No</td><td>2404.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 47</td></tr></tbody></table></div>
 

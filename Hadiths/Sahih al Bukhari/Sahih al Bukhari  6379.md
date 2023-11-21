@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Sulaim:that she said, "O Allah's Messenger (ﷺ)! Anas is your serva
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dia berkata; saya mendengar [Qatadah] dari [Anas] dari Ummu Sulaim bahwa dia berkata; "Wahai Rasulullah, do'akanlah pelayanmu yaitu Anas!." Beliau lalu mengucapkan: 'Ya Allah, karuniailah dia harta dan anak yang banyak dan berkahilah terhadap apa yang telah Engkau berikan kepadanya.' Dan dari [Hisyam bin Zaid] saya mendengar [Anas bin Malik] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6379</td></tr><tr><td>Arabic No</td><td>6379</td></tr><tr><td>Reference</td><td>Book 80 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик), да будет доволен им Аллах, передаёт, что (однажды его мать) Умм Сулейм, да будет доволен ею Аллах, сказала: «О Посланник Аллаха, Анас — твой слуга, обратись к Аллаху с мольбой за него», и (Пророк ﷺ) сказал: «О Аллах! Умножь его богатство и детей, и даруй ему благодать в том, что Ты ему даруешь!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6379</td></tr><tr><td>Arabic No</td><td>6379</td></tr><tr><td>Reference</td><td>Book 80 Hadith 75</td></tr></tbody></table></div>
 

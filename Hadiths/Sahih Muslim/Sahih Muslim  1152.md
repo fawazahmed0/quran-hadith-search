@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar b. Abu Salama reported:I saw the Messenger of Allah (ﷺ) praying in Umm Sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin Urwah] dari [Bapaknya] bahwa [Umar bin Abi Salamah] telah mengabarkan kepadanya, dia berkata, "Pernah kulihat Rasulullah Shallallahu'alaihiwasallam shalat dengan memakai satu kain dengan berbalut dengannya di rumah Ummu Salamah dalam keadaan meletakkan kedua ujungnya pada kedua pundaknya." Telah menceritakannya kepada kami [Abu Bakar bin Abi Syaibah] dan [Ishaq bin Ibrahim] dari [Waki'] dia berkata, telah menceritakan kepada kami [Hisyam bin Urwah] dengan isnad ini, hanya saja dia mengatakan, "Mutawasysyih (berbalut) bukan musytamil (berbalut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1152</td></tr><tr><td>Arabic No</td><td>517.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 314</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн Аби Саляма сказал: «Я видел, как Посланник Аллаха ﷺ молился в доме Умм Салямы в одной одежде, завернувшись в неё, накинув её края себе на плечи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1152</td></tr><tr><td>Arabic No</td><td>517.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 314</td></tr></tbody></table></div>
 

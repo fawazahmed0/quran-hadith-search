@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: One of the wives of the Prophet (ﷺ) took a bath f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu Al Ahwash] telah menceritakan kepada kami [Simak] dari [Ikrimah] dari [Ibnu Abbas] dia berkata; Salah seorang istri Nabi shallallahu 'alaihi wasallam pernah mandi pada ember besar, lalu Nabi shallallahu 'alaihi wasallam datang hendak wudhu dari ember tersebut atau mandi, maka ia berkata kepada beliau; "Wahai Rasulullah, sesungguhnya saya tadi junub." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya air itu tidaklah junub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>68</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 1 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Однажды одна из жен Пророка ﷺ искупалась водой из какого-то сосуда, после чего пришел Пророк ﷺ чтобы совершить омовение из этой же посуды или искупаться. Она сказала ему: “О Посланник Аллаха! Я была в состоянии осквернения/джунуб/”. И Посланник Аллаха ﷺ сказал: “Поистине, вода не оскверняется”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>68</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 1 Hadith 68</td></tr></tbody></table></div>
 

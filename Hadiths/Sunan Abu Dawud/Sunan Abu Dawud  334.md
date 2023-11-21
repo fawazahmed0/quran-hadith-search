@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amr ibn al-'As: I had a sexual dream on a cold night in the battle of D
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Al-Mutsanna] telah mengabarkan kepada kami [Wahb bin Jarir] telah mengabarkan kepada kami [Ayahku] dia berkata; Saya telah mendengar [Yahya bin Ayyub] menceritakan hadits dari [Yazid bin Abi Habib] dari [Imran bin Abi Anas] dari [Abdurrahman bin Jubair Al-Mishri] dari [Amru bin Al-'Ash] dia berkata; Saya pernah bermimpi basah pada suatu malam yang sangat dingin sekali ketika perang Dzatus Salasil, sehingga saya takut akan binasa jika saya mandi. Lalu saya pun bertayammum kemudian shalat Shubuh dengan para sahabatku. Lalu hal itu mereka laporkan kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Wahai Amru, engkau shalat bersama para sahabatmu dalam keadaan junub?" Maka saya katakan kapada beliau tentang apa yang menghalangiku untuk mandi dan saya katakan; Sesungguhnya saya pernah mendengar Allah berfirman: 'Dan janganlah kalian membunuh diri-diri kalian, sesungguhnya Allah Maha Penyayang kepada kalian. ' (QS. ANnisa'; 29), Maka Rasulullah shallallahu 'alaihi wasallam tertawa dan tidak mengatakan apa-apa. Abu Dawud berkata; Abdurrahman bin Jubair Al-Mishri adalah mantan sahaya Kharijah bin Hudzafah, dan dia bukanlah Jubair bin Nufair. Telah menceritakan kepada kami [Muhammad bin Salamah Al-Muradi] telah mengabarkan kepada kami [Ibnu Wahb] dari [Ibnu Lahi'ah] dan [Amru bin Al-Harits] dari [Yazid bin Abi Habib] dari [Imran bin Abi Anas] dari [Abdurrahman bin Jubair] dari [Abu Qais, mantan sahaya Amru bin Al-'Ash] bahwasanya [Amru bin Al-'Ash] pernah diutus pada suatu peperangan yang tidak diikuti Rasulullah shallallahu 'alaihi wasallam. Kemudian dia meyebutkan hadits semisal di atas. dia menyebutkan; dia membasuh bagian-bagian lipatan tubuhnya dan berwudlu kemudian shalat dengan mereka, lalu dia menyebutkan semisalnya tanpa menyebutkan perihal tayammum. Abu Dawud berkata; Dan kisah ini telah diriwayatkan dari [Al-Auza'i] dari [Hasan bin 'Athiyyah] dia menyebutkan padanya; Lalu dia bertayammum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>334</td></tr><tr><td>Arabic No</td><td>334</td></tr><tr><td>Reference</td><td>Book 1 Hadith 334</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн аль-‘Ас сказал: «Однажды холодной ночью, во время похода “Зати-с-Саласиль”, у меня во сне произошла поллюция и я испугался, что если искупаюсь то погибну. И совершив очищение песком, я со своими спутниками совершил утреннюю молитву. Когда об этом рассказали Пророку ﷺ он сказал: “О ‘Амр, ты молился со своими спутниками, хотя ты был в осквернении?” Я рассказал ему о причине, которая удержала меня от купания и сказал: “Поистине, я слышал, что Аллах говорит (в Куръане): “И не убивайте себя, поистине, Аллах милосерден к вам”. И Посланник Аллаха ﷺ улыбнулся и ничего не сказал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>334</td></tr><tr><td>Arabic No</td><td>334</td></tr><tr><td>Reference</td><td>Book 1 Hadith 334</td></tr></tbody></table></div>
 

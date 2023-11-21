@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Muhayyisah: The Messenger of Allah (ﷺ) said: If you gain a victory ov
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musharrif bin 'Amr], telah menceritakan kepada kami [Yunus], [Ibnu Ishaq] berkata; telah menceritakan kepadaku [mantan budak Zaid bin Tsabit], telah menceritakan kepadaku [Anak wanita Muhaishah] dari [ayahnya yaitu Muhaishah], bahwa Rasulullah shallallahu 'alaihi wasallam berkata: "Barang siapa yang kalian tangkap dari laki-laki Yahudi maka bunuhlah!" kemudian Muhaishah melompat kepada Syabibah seorang laki-laki diantara pedagang yahudi, dahulu ia pernah menyamarkan hidup bersama dengan mereka, kemudian ia membunuhnya. Dan pada saat itu Huwaishah belum masuk Islam. Dan ia lebih tua daripada Muhaishah, tatkata ia telah membunuhnya kemudian Huwaishah memukulnya dan mengatakan; wahai musuh Allah, ketahuilah demi Allah, sungguh betapa banyak lemak yang ada pada perutmu yang berasal dari hartanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3002</td></tr><tr><td>Arabic No</td><td>3002</td></tr><tr><td>Reference</td><td>Book 20 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Мухаййисы, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «До кого сможете добраться из предводителей иудеев, тех казните». После этого Мухаййиса набросился на Шабибу, одного торговца-иудея, который общался с ними, и убил его. А Хуваййиса был старше Мухаййисы и в то время ещё не принял ислам. И когда он убил его, Хуваййиса набросился на брата и стал бить его со словами: «О враг Аллаха! Клянусь Аллахом, жир на твоём животе может быть из его имущества!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3002</td></tr><tr><td>Arabic No</td><td>3002</td></tr><tr><td>Reference</td><td>Book 20 Hadith 75</td></tr></tbody></table></div>
 

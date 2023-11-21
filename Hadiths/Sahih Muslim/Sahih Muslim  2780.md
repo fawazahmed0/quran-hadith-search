@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with both of them) reported that the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran Ar Razi] telah menceritakan kepada kami [Hatim bin Isma'il] dari [Musa bin Uqbah] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wasallam melakukan I'tikaf pada sepuluh terakhir dari bulan Ramadlan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2780</td></tr><tr><td>Arabic No</td><td>1171.01</td></tr><tr><td>Reference</td><td>Book 14 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что в последние десять (дней) рамадана Пророк ﷺ всегда неотлучно находился в мечети
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2780</td></tr><tr><td>Arabic No</td><td>1171.01</td></tr><tr><td>Reference</td><td>Book 14 Hadith 1</td></tr></tbody></table></div>
 

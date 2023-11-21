@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: Ibn Rawahah assessed them (the amount of dates) at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Khalaf], telah menceritakan kepada kami [Muhammad bin Sabiq] dari [Ibrahim bin Thahman] dari [Abu Az Zubair] dari [Jabir] bahwa ia berkata; Allah telah memberikan Khaibar sebagai fai' (harta rampasan tanpa adanya peperangan) kepada RasulNya, kemudian Rasulullah shallallahu 'alaihi wasallam membiarkan mereka sebagaimana dahulu. Dan beliau menjadikan Khaibar hasilnya dibagi antara beliau dan mereka (orang-orang yahudi). Kemudian beliau mengutus Abdullah bin Rawahah, lalu ia menaksirkannya untuk mereka. Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abdurrazzaq] dan [Muhammad bin Bakr], mereka berkata; Telah menceritakan kepada kami [Ibnu Juraij], telah mengabarkan kepadaku [Abu Az Zubair] bahwa ia mendengar [Jabir bin Abdullah] berkata; Ibnu Rawahah menaksirkan untuk kami empat puluh ribu wasaq. Ia mengaku bahwa orang-orang yahudi tatkala Ibnu Rawahah memberikan pilihan kepada mereka maka mereka mengambil buah dan menanggung dua puluh ribu wasaq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3415</td></tr><tr><td>Arabic No</td><td>3415</td></tr><tr><td>Reference</td><td>Book 23 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что ‘Абдуллах ибн Раваха оценил приблизительное количество плодов, и у него получилось сорок тысяч васков, и когда он предоставил иудеям выбор, они выбрали плоды и обязались отдать мусульманам двадцать тысяч васков плодов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3415</td></tr><tr><td>Arabic No</td><td>3415</td></tr><tr><td>Reference</td><td>Book 23 Hadith 90</td></tr></tbody></table></div>
 

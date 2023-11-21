@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said “Captives were gathered at Khaibar. Dihyah came out and said “Apos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Daud bin Mu'adz], telah menceritakan kepada kami [Abdul Warits]. Dan telah diriwayatkan dari jalur yang lain: telah menceritakan kepada kami [Ya'qub bin Ibrahim] secara makna, ia berkata; telah menceritakan kepada kami [Ibnu 'Ulayyah] dari [Abdul 'Aziz bin Shuhaib] dari [Anas], ia berkata; para tawanan telah dikumpulkan di Khaibar, kemudian Dihyah datang dan berkata; wahai Rasulullah, berikan kepadaku seorang budak wanita dari tawanan tersebut. Beliau berkata; pergi dan ambillah seorang budak wanita. Kemudian ia mengambil Shafiyyah binti Huyai. Lalu terdapat seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; wahai Nabi Allah, anda telah memberi Dihyah -Ya'qub mengatakan; Shafiyyah binti Huyai seorang wanita pemimpin Quraizhah, dan Nadhir-. kemudian mereka berdua sama lafazhnya; tidaklah ia layak kecuali untukmu. Beliau berkata: "Panggilkan dia dengan membawanya!" kemudian tatkala Nabi shallallahu 'alaihi wasallam melihat kepada Shafiyyah beliau berkata: "Ambillah budak dari tawanan tersebut selainnya!" Dan sesungguhnya Nabi shallallahu 'alaihi wasallam membebaskan Shafiyyah dan menikahinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2893) Sahih Muslim (1365 After 1427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2998</td></tr><tr><td>Arabic No</td><td>2998</td></tr><tr><td>Reference</td><td>Book 20 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса, да будет доволен им Аллах, что, когда собрали пленных Хайбара, пришёл Дихья и сказал: «О Посланник Аллаха, подари мне невольницу из числа пленных». Посланник Аллаха ﷺ сказал: «Иди и бери любую», и он взял Сафийю бинт Хуяйй, после чего к Пророку ﷺ подошёл один человек, который сказал: «О пророк Аллаха, ты подарил Дихйе Сафийю бинт Хуяйй, которая была госпожой племён Курайза и ан-надыр и подходит только для тебя!» Услышав это, он велел: «Позовите его вместе с нею». И Дихья привёл Сафийю, а когда Пророк ﷺ взглянул на неё, он сказал Дихйе: «Возьми себе любую невольницу из пленных, кроме неё». А потом Пророк ﷺ освободил её и женился на ней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2893) Sahih Muslim (1365 After 1427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2998</td></tr><tr><td>Arabic No</td><td>2998</td></tr><tr><td>Reference</td><td>Book 20 Hadith 71</td></tr></tbody></table></div>
 

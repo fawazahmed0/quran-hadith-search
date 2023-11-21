@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Unays al-Juhani: I said to the Messenger of Allah: I have 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah mengabarkan kepada kami [Muhammad bin Ishaq] telah menceritakan kepada kami [Muhammad bin Ibrahim] dari [Ibnu Abdullah bin Unais Al Juhani] dari [ayahnya] berkata; saya berkata; wahai Rasulullah, sesungguhnya saya memiliki perkampungan yang aku tinggal di sana dan alhamdulillah aku dapat melaksanakan shalat di dalamnya, maka perintahkanlah kepadaku satu malam sehingga pada malam itu aku dapat tinggal di masjid ini, maka Rasulullah Shallallahu 'alaihi wasallam menjawab: "Tinggallah pada malam ke dua puluh tiga". (perawi berkata) Kemudian aku bertanya kepada anaknya (Ibnu Abdullah bin Unais): "bagaimana bapakmu melakukannya?" dia menjawab: "Bapakku masuk ke Masjid jika hendak shalat asar, dan dia tidak keluar untuk memenuhi hajatnya sampai dia shalat shubuh, apabila ia selesai shalat shubuh dia menghampiri kendaraannya di depan pintu masjid, kemudian ia menaikinya dan kembali ke perkampungannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1380</td></tr><tr><td>Arabic No</td><td>1380</td></tr><tr><td>Reference</td><td>Book 6 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Унайса аль-Джухани, да будет доволен им Аллах: «Я сказал: “О Посланник Аллаха, я живу в пустыне и совершаю молитву там. Хвала Аллаху… Укажи же мне такую ночь, в которую я остался бы в этой мечети”. (Посланник Аллаха ﷺ) сказал: “Оставайся в мечети в двадцать третью ночь (рамадана)”». Передатчик сказал: «Я спросил его сына: “И как поступал твой отец?” Он ответил: “Он входил в мечеть, совершал послеполуденную молитву и не выходил из неё, пока не совершал утреннюю молитву. А после утренней молитвы он садился на своё верховое животное, оставленное у входа в мечеть, и возвращался к себе в пустыню”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1380</td></tr><tr><td>Arabic No</td><td>1380</td></tr><tr><td>Reference</td><td>Book 6 Hadith 10</td></tr></tbody></table></div>
 

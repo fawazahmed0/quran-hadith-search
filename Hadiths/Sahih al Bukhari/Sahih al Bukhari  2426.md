@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubai bin Ka'b:I found a purse containing one hundred Diners. So I went 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dan diriwayatkan pula, telah menceritakan kepadaku [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Salamah] aku mendengar [Suwaid bin Ghoflah] berkata; "Aku bertemu dengan [Ubay bin Ka'ab] radliallahu 'anhu lalu dia berkata; Aku menemukan bungkusan berisi uang seratus dinar, lalu aku temui Nabi shallallahu 'alaihi wasallam, maka Beliau berkata: "Umumkanlah (agar diketahui orang) selama satu tahun". Maka aku lakukan selama setahun namun tidak ada orang yang mengakuinya sebagai pemiliknya. Kemudian aku datangi lagi Beliau dan Beliau berkata: "Umumkanlah selama satu tahun". Maka aku lakukan selama setahun lagi namun tidak ada orang yang mengakuinya. Kemudian aku datangi lagi Beliau untuk ketiga kalinya dan Beliau berkata: "Peganglah bungkusan dan jumlah isinya, nanti bila ada yang datang sebagai pemiliknya berikanlah namun bila tidak ada yang datang maka nikmatilah. Maka aku nikmati uang itu. (Syu'bah) berkata; "Setelah beberapa tahun ketika berada di Makkah aku menemui dia (Salamah), maka dia berkata; "Aku tidak tahu apakah selama tiga tahun atau satu tahun saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2426</td></tr><tr><td>Arabic No</td><td>2426</td></tr><tr><td>Reference</td><td>Book 45 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Убайй бин Ка‘б, да будет доволен им Аллах, сказал: «(Однажды) я нашёл кошелёк с сотней динаров и принёс его к Пророку ﷺ который сказал: “Объявляй об этом в течение года”. И я объявлял об этом целый год, но не нашёл никого, кто признал бы его (своим), а потом (снова) принёс его (к Пророку ﷺ) который сказал (мне): “Объявляй об этом (ещё один) год”. И я объявлял об этом (ещё один год), но так и не нашёл никого, кто признал бы его (своим), после чего в третий раз принёс его (к Пророку ﷺ) который сказал (мне): “Сохрани кошелёк(, в котором были эти деньги) и верёвочку от него, а деньги пересчитай, и если его хозяин придёт, (верни ему кошелёк,) а если нет, (можешь) пользоваться этими деньгами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2426</td></tr><tr><td>Arabic No</td><td>2426</td></tr><tr><td>Reference</td><td>Book 45 Hadith 1</td></tr></tbody></table></div>
 

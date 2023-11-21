@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When Allah's Messenger (ﷺ) became seriously ill, Bilal came to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahin] dari [Al Aswad] dari ['Aisyah], "Ketika sakit Rasulullah shallallahu 'alaihi wasallam semakin parah, Bilal datang menemui beliau mengabarkan bahwa waktu shalat telah tiba. Beliau lalu berkata: "Kalian suruhlah Abu Bakar untuk memimpin shalat jama'ah bersama orang banyak." Aku lalu berkata, "Wahai Rasulullah, sesungguhnya Abu Bakar seorang laki-laki yang lemah lembut, jika ia menggantikan tuan, maka suaranya tidak akan bisa didengar oleh orang-orang. Alangkah lebih baik bila tuan menyuruh 'Umar." Maka beliau pun bersabda: "Suruhlah Abu Bakar untuk memimpin shalat bersama orang-orang." Kemudian aku sampaikan kepada Hafshah, "Katakanlah kepada beliau 'Abu Bakar adalah seorang laki-laki yang lemah lembut, jika ia menggantikan posisi tuan, maka ia tidak akan dapat memperdengarkan suara bacaannya kepada orang-orang. Alangkah lebih baik bila tuan menyuruh 'Umar', sebab Abu Bakar mudah menangis (dalam shalat). Untuk itu, sebaiknya suruhlah 'Umar untuk memimpin shalat orang-orang." Maka bersabdalah Rasulullah shallallahu 'alaihi wasallam: "Sungguh kalian ini seperti isteri-isterinya Yusuf. Suruhlah Abu Bakar shalat bersama orang-orang." Kemudian ketika Abu Bakar sudah memulai shalat, tubuh beliau telah nampak enak, beliau pun keluar rumah dengan diapit oleh dua orang laki-laki. Dan seolah aku melihat beliau berjalan dengan menyeret kakinya di atas tanah, hingga masuk ke dalam masjid. Tatkala Abu Bakar mendengar kedatangan beliau maka ia pun berkeinginan untuk mundur. Namun Rasulullah shallallahu 'alaihi wasallam memberi isyarat kepadanya. Lalu tibalah Rasulullah shallallahu 'alaihi wasallam hingga beliau duduk di samping kiri Abu Bakar. Abu Bakar shalat dengan bediri sedangkan Rasulullah shallallahu 'alaihi wasallam shalat dengan duduk, Abu Bakar shalat mengikuti shalatnya Rasulullah shallallahu 'alaihi wasallam, dan orang-orang mengikuti shalatnya Abu Bakar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>713</td></tr><tr><td>Arabic No</td><td>713</td></tr><tr><td>Reference</td><td>Book 10 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают от ‘Айшы, да будет Аллах доволен ею, что она сказала: «Когда усилилось заболевание Посланника Аллаха ﷺ пришел Биляль и призвал к молитве, на что Пророк ﷺ сказал: “Велите Абу Бакру совершить молитву с людьми”. Я сказала: “Поистине, Абу Бакр — человек с мягким сердцем, и если он встанет на твое место, то люди не услышат его, лучше бы ты повелел это Умару”. Но он сказал: “Велите Абу Бакру совершить молитву с людьми”. Я сказала Хафсе: “Скажи ему: “Поистине, Абу Бакр — человек с мягким сердцем, и если он встанет на твое место, то люди не услышат его, лучше бы ты повелел это Умару””. Тогда он сказал: “Поистине, вы подобны женщинам из истории про Юсуфа! Велите Абу Бакру совершить молитву с людьми!” Когда Абу Бакр приступил к молитве, Посланник Аллаха ﷺ почувствовал облегчение (болезни) и встал, передвигаясь с помощью двух человек и волоча ноги по земле, пока не зашел в мечеть. Когда Абу Бакр услышал шорох, то он попятился назад, но Посланник Аллаха ﷺ указал ему (чтобы он оставался на месте). Затем Посланник Аллаха ﷺ подошел и сел слева от Абу Бакра. И Абу Бакр молился стоя, а Посланник Аллаха ﷺ молился сидя. Абу Бакр следовал за молитвой Посланника Аллаха ﷺ, а люди следовали за молитвой Абу Бакра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>713</td></tr><tr><td>Arabic No</td><td>713</td></tr><tr><td>Reference</td><td>Book 10 Hadith 108</td></tr></tbody></table></div>
 

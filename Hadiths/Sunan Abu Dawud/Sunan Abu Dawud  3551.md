@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: If anyone is given life-ten
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ammal bin Al Fadlal Al Kharrani] telah menceritakan kepada kami [Muhammad bin Syu'aib] telah mengabarkan kepadaku [Al Auza'i] dari [Az Zuhri] dari ['Urwah] dari [Jabir] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa diberi 'Umra, maka ia akan menjadi miliknya dan milik keturunannya. Dan keturunannya akan mewarisinya." Telah menceritakan kepada kami [Ahmad bin Abu Al Hawari] telah menceritakan kepada kami [Al Walid] dari [Al Auza'i] dari [Az Zuhri] dari [Abu Salamah] dan ['Urwah] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam dengan maknanya." Abu Daud berkata, "Seperti inilah [Al Laits] meriwayatkannya dari [Az Zuhri] dari [Abu Salamah] dari [Jabir]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3551</td></tr><tr><td>Arabic No</td><td>3551</td></tr><tr><td>Reference</td><td>Book 24 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Подарок на срок жизни принадлежит тому, кому он был подарен, а также его потомкам: после его смерти он достаётся тем, кто наследует ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3551</td></tr><tr><td>Arabic No</td><td>3551</td></tr><tr><td>Reference</td><td>Book 24 Hadith 136</td></tr></tbody></table></div>
 

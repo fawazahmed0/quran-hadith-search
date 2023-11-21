@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "The month (can be) 2
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepada kami [Malik] dari ['Abdullah bin Dinar] dari ['Abdullah bin 'Umar radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Satu bulan itu berjumlah dua puluh sembilan malam (hari) maka janganlah kalian berpuasa hingga kalian melihatnya. Apabila kalian terhalang oleh awan maka sempurnakanlah jumlahnya menjadi tiga puluh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>1907</td></tr><tr><td>Reference</td><td>Book 30 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «В месяце (может быть и) двадцать девять ночей, а поэтому не начинайте поститься, пока не увидите его, если же будет облачно, то доведите счёт до тридцати»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>1907</td></tr><tr><td>Reference</td><td>Book 30 Hadith 17</td></tr></tbody></table></div>
 

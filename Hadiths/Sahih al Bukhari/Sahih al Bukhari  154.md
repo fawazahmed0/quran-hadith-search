@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:The Prophet (ﷺ) said, "Whenever anyone of you makes water 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan kepada kami [Al Auza'i] dari [Yahya bin Abu Katsir] dari ['Abdullah bin Abu Qatadah] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika salah seorang dari kalian kencing maka janganlah ia memegang kemaluannya dengan tangan kanan, jangan beristinja' dengan tangan kanan dan jangan bernafas dalam gelas saat minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>154</td></tr><tr><td>Arabic No</td><td>154</td></tr><tr><td>Reference</td><td>Book 4 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Къатады, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда кто-нибудь из вас будет мочиться, пусть ни в коем случае не берется за свой половой орган правой рукой, и пусть не подмывается правой рукой и пусть не дышит в сосуд (, когда будет пить)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>154</td></tr><tr><td>Arabic No</td><td>154</td></tr><tr><td>Reference</td><td>Book 4 Hadith 20</td></tr></tbody></table></div>
 

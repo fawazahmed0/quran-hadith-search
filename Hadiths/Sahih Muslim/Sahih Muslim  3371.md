@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Humayd (que Dieu l'agrée), Nous fîmes avec le Prophète (paix et
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Amru bin Yahya] dari [Abbas bin Sahl As Sa'idi] dari [Abu Humaid] ia berkata; Kami pernah berperang bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam yakni dalam perang Tabuk. Ketika kami sampai di lembah Qura, Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku ingin cepat-cepat. Siapa yang ingin cepat ikutlah bersamaku. Dan siapa yang mau lamban boleh tinggal." Lalu kami pergi lebih dahulu. Tatkala kami telah dekat dan akan sampai di Madinah, beliau bersabda: "Itulah kota Thabah dan ini bukit Uhud. Yaitu bukit yang mencintai kita, dan kita pun mencintainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3371</td></tr><tr><td>Arabic No</td><td>1392</td></tr><tr><td>Reference</td><td>Book 15 Hadith 575</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3371</td></tr><tr><td>Arabic No</td><td>1392</td></tr><tr><td>Reference</td><td>Book 15 Hadith 575</td></tr></tbody></table></div>
 

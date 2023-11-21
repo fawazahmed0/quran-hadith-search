@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘abbas said :The Prophet (May peace be upon him) used to seek refuge in Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Al Minhal bin Amru] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, "Nabi shallallahu 'alaihi wasallam berdoa minta perlindungan untuk Hasan dan Husain, beliau membaca: "U'IIDZUKUMAA BIKALIMAATILLAAHIT TAAMMAH MIN KULLI SYAITHAANIN WA HAAMMATIN WA MIN KULLI 'AININ LAAMATIN (Aku memohon perlindungan kepada Allah untuk kalian berdua dengan kalimat-kalimat Allah yang sempurna, dari setiap kejahatan setan dan binatang bisa yang mematikan, dan dari setiap mata yang hasud). Kemudian beliau bersabda: "Dahulu bapak kalian (Ibrahim) juga pernah minta perlindungan dengan keduanya untuk anaknya; Isma'il dan Ishaq." Abu Dawud berkata, "Ini adalah dalil bahwa Al-Qur'an bukanlah makhluk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3371)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4737</td></tr><tr><td>Arabic No</td><td>4737</td></tr><tr><td>Reference</td><td>Book 42 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Пророк ﷺ читал с целью защиты (своих внуков) аль-Хасана и аль-Хусейна: “Я ищу в совершенных словах Аллаха защиты для вас от всякого шайтана, вредной твари и от каждого завистливого глаза”. Затем он говорил: “Поистине, ваш праотец (Ибрахим, мир ему) произносил эти слова для защиты (своих сыновей) Исма‘иля и Исхака”». Абу Дауд сказал: «Это доказательство того, что Коран не является сотворённым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3371)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4737</td></tr><tr><td>Arabic No</td><td>4737</td></tr><tr><td>Reference</td><td>Book 42 Hadith 142</td></tr></tbody></table></div>
 

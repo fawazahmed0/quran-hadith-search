@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn Abi Laila: Zaid b. Arqam used to utter four takbirs (Allah is Most 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi], telah menceritakan kepada kami [Syu'bah]. telah diriwayatkan dari jalur yang lain: telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] dari [Syu'bah], dari ['Amr bin Murrah], dari [Ibnu Abu Laila], ia berkata; [Zaid yaitu Ibnu Arqam] bertakbir ketika menshalatkan jenazah kami empat kali (takbir). Dan ia pernah bertakbir ketika menshalatkan jenazah lima kali (takbir). Kemudian aku bertanya kepadanya. Kemudian ia berkata; dahulu Rasulullah shallallahu 'alaihi wasallam pernah bertakbir sebanyak itu. Abu Daud berkata; dan aku lebih yakin kepada hadits Ibnu Al Mutsanna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (957)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3197</td></tr><tr><td>Arabic No</td><td>3197</td></tr><tr><td>Reference</td><td>Book 21 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Абу Лейля передаёт: «Зейд ибн Аркам произносил четыре такбира при совершении молитвы джаназа над нашими умершими, а однажды он произнёс пять такбиров. Я спросил его об этом, и он сказал: “Посланник Аллаха ﷺ поступал так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (957)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3197</td></tr><tr><td>Arabic No</td><td>3197</td></tr><tr><td>Reference</td><td>Book 21 Hadith 109</td></tr></tbody></table></div>
 

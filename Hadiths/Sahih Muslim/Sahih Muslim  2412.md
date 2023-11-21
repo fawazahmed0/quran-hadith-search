@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported Allah's Messenger (ﷺ) as saying:The son of Adam grows old, but t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Yahya bin Yahya] dan [Sa'id bin Manshur] dan [Qutaibah bin Sa'id] semuanya dari [Abu Awanah] - [Yahya] berkata- telah mengabarkan kepada kami [Abu Awanah] dari [Qatadah] dari [Anas] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap manusia pasti akan menjadi tua. Namun jiwanya tetap muda mengenai dua perkara, yaitu: Tamak akan harta benda dan selalu ingin panjang umur." Dan telah menceritakan kepadaku [Abu Ghassan Al Misma'i] dan [Muhammad bin Al Mutsanna] keduanya berkata, telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [bapakku] dari [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam bersabda dengan hadits yang semisal. Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] ia berkata, saya mendengar [Qatadah] menceritakan dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, dengan hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2412</td></tr><tr><td>Arabic No</td><td>1047.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что Посланник Аллаха ﷺ сказал: «Сын Адама стареет, но остаётся молодым (в том, что касается) двух его (свойств): желания (обладать) богатством и желания жить»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2412</td></tr><tr><td>Arabic No</td><td>1047.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 149</td></tr></tbody></table></div>
 

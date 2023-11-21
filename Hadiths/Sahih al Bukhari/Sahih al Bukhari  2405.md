@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:When 'Abdullah (my father) died, he left behind children and debt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Abu 'Awanah] dari [Mughirah] dari ['Amir] dari [Jabir radliallahu 'anhu] berkata; 'Abdullah meninggal dunia dan meninggalkan keluarga yang perlu ditanggung dan hutang. Maka aku meminta kepada para pemilik piutang agar membebaskan sebagian dari hutangnya namun mereka menolaknya. Lalu aku menemui Nabi shallallahu 'alaihi wasallam untuk meminta bantuan Beliau untuk meminta keringanan kepada mereka namun mereka tetap menolaknya. Maka Beliau berkata: "Pisahkanlah buah kurma kamu dari segala sesuatunya dari pohonnya, kurma jenis Ibnu Zaid dari pohonnya, kurma jenis Al Lain dari pohonnya, serta kurma jenis al-Ajwa' dari pohonnya kemudian bawalah kepada mereka hingga aku datang kepadamu". Maka aku kerjakan semua perintah Beliau itu kemudian Beliau shallallahu 'alaihi wasallam datang lalu duduk dan membayar bagi setiap piutang hingga lunas dan buah kurmanya masih tersisa sebagaimana semula seolah belum pernah disentuh sedikitpun. Lalu aku berperang bersama Nabi shallallahu 'alaihi wasallam pada suatu peperangan dan unta tungganganku telah memperlambat aku hingga akhirnya unta itu dipukul oleh Nabi shallallahu 'alaihi wasallam dari belakangnya lalu Beliau berkata; "Juallah kepadaku unta ini dan kamu boleh menungganginya sampai Madinah". Ketika sudah sampai aku meminta izin dan setelah itu aku katakan kepada Beliau: "Wahai Rasulullah, aku baru saja menikah". Beliau bertanya: "Kamu menikah dengan seorang gadis atau janda?" Aku jawab: "Dengan janda, karena 'Abdullah (bapakku) telah wafat dan meninggalkan anak-anak yag masih kecil maka aku menikahi seorang janda agar ia dapat mengajarkan dan mendidik mereka". Kemudian Beliau berkata: "Bawalah keluargamu kepadaku ". Maka aku datang dan mengabarkan pamanku tentang penjualan unta dan perdamaianku (tentang hutang) dan aku kabarkan pula tentang lambannya untaku dan peristiwa yang terjadi dengan Nabi shallallahu 'alaihi wasallam tentang pemukulan unta yang dilakukan Beliau. Ketika Nabi shallallahu 'alaihi wasallam datang, aku pagi-pagi segera menemui Beliau dengan membawa unta maka Beliau memberikan uang pembayaran unta tersebut serta memberikan unta itu kepadaku sementara sahamku tetap untuk orang-orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2405</td></tr><tr><td>Arabic No</td><td>2405</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Когда ‘Абдуллах погиб, оставив детей и долги, я попросил заимодавцев простить часть его долга, но они отказались. Тогда я пришёл к Пророку ﷺ и попросил его ходатайствовать за него перед ними, (он так и сделал), но они отказались. Тогда Пророк ﷺ сказал: «Ступай и разложи свои финики по сортам: грозди ибн зайда отдельно, аль-лина отдельно и ‘аджва отдельно. Затем позови заимодателей и дождитесь моего прихода». Я так и сделал. Затем он ﷺ пришёл, сел рядом с финиками и начал отмерять каждому человеку то, что ему причиталось, пока не расплатился с ними полностью, а количество фиников осталось таким же, как было раньше, как будто он и не прикасался к ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2405</td></tr><tr><td>Arabic No</td><td>2405</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

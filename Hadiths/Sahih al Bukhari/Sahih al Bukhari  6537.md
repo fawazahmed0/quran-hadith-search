@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ), said, "None will be called to account o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Hatim bin Abi Shaghirah] telah menceritakan kepada kami [Abdullah bin Abi Mulaikah] telah menceritakan kepadaku [Al Qasim bin Muhammad] telah menceritakan kepadaku ['Aisyah], bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak seorang pun yang di (paparkan) hisabnya melainkan akan celaka." Maka saya bertanya; 'Wahai Rasulullah, Bukankah Allah berfirman; 'barangsiapa yang diberi kitabnya dari sebelah kanan, maka ia menghadapi hisab yang mudah? (QS. Al Insyiqaq 7-8) Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang dimaksudkan ayat itu adalah saat amal diperlihatkan, dan tidaklah seseorang hisabnya diperdebatkan, melainkan ia akan disiksa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6537</td></tr><tr><td>Arabic No</td><td>6537</td></tr><tr><td>Reference</td><td>Book 81 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) Посланник Аллаха ﷺ сказал: “Обязательно погибнет тот, у кого потребуют отчёта в День воскресения!” Я сказала: “О Посланник Аллаха, разве Всевышний Аллах не сказал: “Что касается того, кому книгу его подадут в правую руку, то (непременно) будет он рассчитан расчётом лёгким…”? (сура “аль-Иншикак”, аят 8)” (В ответ на это) Посланник Аллаха ﷺ сказал: “Это касается только представления (дел), а тот (человек), чей расчёт будет обсуждаться в День воскресения, подвергнется мучениям!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6537</td></tr><tr><td>Arabic No</td><td>6537</td></tr><tr><td>Reference</td><td>Book 81 Hadith 126</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir: White I was travelling with the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada Kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Sa'id? bin Abu Sa'id Al Maqburi] dari [ayahnya] dari ['Uqbah bin Amir], ia berkata; ketika aku sedang berjalan bersama Rasulullah shallAllahu wa'alaihi wa sallam antara Juhfah dan Abwa', tiba-tiba Kami tertutupi angin sangat dan terjadi kegelapan yang sangat, kemudian Rasulullah shallAllahu wa'alaihi wa sallam berlindung dengan mengucapkan: "QUL A'UUDZU BIRABBIL FALAQ, " dan "QUL A'UUDZU BIRABBINNAAS". Dan beliau berkata: "Wahai Uqbah, berlindunglah dengan keduanya, tidak ada orang yang berlindung dengan sebuah perlindungan yang menyamai keduanya." 'Uqbah berkata; aku mendengar beliau mengimami Kami dengan membaca kedua surat tersebut dalam shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1463</td></tr><tr><td>Arabic No</td><td>1463</td></tr><tr><td>Reference</td><td>Book 8 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Укбы ибн ‘Амира, да будет доволен им Аллах: «Когда мы были в пути и находились между Абвой и Джухфой, нас настиг сильный ветер и окутал мрак, и Посланник Аллаха ﷺ стал просить у Аллаха защиты, читая суры “Ищу защиты у Господа рассвета” и “Ищу защиты у Господа людей”, и сказал: “О ‘Укба, проси у Аллаха защиты с помощью этих двух сур, ибо они лучшее из того, посредством чего можно просить защиты”. И я слышал, как в тот день Посланник Аллаха ﷺ читал эти суры, когда совершал молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1463</td></tr><tr><td>Arabic No</td><td>1463</td></tr><tr><td>Reference</td><td>Book 8 Hadith 48</td></tr></tbody></table></div>
 

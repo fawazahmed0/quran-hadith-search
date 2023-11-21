@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas: Once Allah's Messenger (ﷺ) came out while Bilal was accom
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, Telah menceritakan kepada kami [Syu'bah] dari [Ayyub] berkata; aku mendengar ['Atho'] berkata; aku mendengar [Ibnu 'Abbas] berkata: aku menyaksikan bahwa Nabi shallallahu 'alaihi wasallam -sedang menurut 'Atho', dia berkata; aku menyaksikan Ibnu 'Abbas berkata; - bahwa Nabi shallallahu 'alaihi wasallam keluar bersama Bilal, -dan dia mengira bahwa dia tidak mendengar, - maka Nabi memberi pelajaran kepada para wanita dan memerintahkan untuk bersedekah, maka seorang wanita memberikan anting dan cincin emasnya, dan Bilal memasukkannya ke saku bajunya. Berkata Abu Abdullah; dan [Isma'il] berkata; dari [Ayyub] dari ['Atho'], dan dia berkata; dari [Ibnu 'Abbas] bahwa ia bersaksi terhadap Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>98</td></tr><tr><td>Arabic No</td><td>98</td></tr><tr><td>Reference</td><td>Book 3 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Аййюб сказал:\n– Я слышал, как ‘Атаъ сказал: «Я слышал, как Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: “Однажды Пророк ﷺ который вышел (из мечети) вместе с Билялом, (подошёл к женщинам,) решив, что они не слышали того, что он говорил. И он принялся увещевать их и велел им давать садаку, женщины же стали отдавать свои серьги и кольца, а Билял собирал всё это в полу своей одежды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>98</td></tr><tr><td>Arabic No</td><td>98</td></tr><tr><td>Reference</td><td>Book 3 Hadith 40</td></tr></tbody></table></div>
 

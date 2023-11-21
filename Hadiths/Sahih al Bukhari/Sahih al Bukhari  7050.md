@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:I heard the Prophet (ﷺ) saying, "I am your predecessor 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7050</td></tr><tr><td>Arabic No</td><td>7050</td></tr><tr><td>Reference</td><td>Book 92 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Са‘д, да будет доволен им Аллах, передаёт, что он слышал как Пророк ﷺ сказал: «Я раньше вас приду к водоёму, и кто подойдёт к нему, тот выпьет из него, а кто выпьет из него, никогда не почувствует после этого жажды. Ко мне придут люди, которых я узнаю, и которые узнают меня, и затем разъединят между мной и ними».\nАбу Хазим сказал: «Мои слова, когда я рассказывал им этот хадис, услышал ан-Ну‘ман ибн Абу ‘Аййаш и сказал: “Ты слышал это от Сахля?” Я сказал: “Да”. Он сказал: “Я свидетельствую за Абу Са‘ида ал-Худри, что слышал, как он дополнил этот хадис словами: “Воистину, они из нас”. Но мне будет сказано: “Ты не знаешь, что они изменили после тебя”. Тогда я скажу: “Прочь, прочь те, кто изменил (религию) после меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7050</td></tr><tr><td>Arabic No</td><td>7050</td></tr><tr><td>Reference</td><td>Book 92 Hadith 3</td></tr></tbody></table></div>
 

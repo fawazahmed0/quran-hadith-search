@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported Allah's Messenger (ﷺ) as saying:A brother of yours ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Ali bin Hujr] telah menceritakan kepada kami [Isma'il] -dalam jalur lain- Dan telah menceritakan kepada kami [Yahya bin Ayyub] Telah menceritakan kepada kami [Ibnu Ulayyah] dari [Ayyub] dari [Abu Qilabah] dari [Abu Al Muhallab] dari [Imran bin Hushain] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya saudara kalian (raja Najasyi) telah meninggal, karena itu berdirilah kalian (untuk shalat ghaib) atasnya." Dan di dalam riwayat Zuhair tercantum; "Sesungguhnya saudara kalian (Inna Akhaakum)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2210</td></tr><tr><td>Arabic No</td><td>953</td></tr><tr><td>Reference</td><td>Book 11 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Имрана ибн Хусайна, что Посланник Аллаха ﷺ сказала: «Скончался один из ваших братьев, так встаньте и помолитесь за него». Имея в виду ан-Наджаши
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2210</td></tr><tr><td>Arabic No</td><td>953</td></tr><tr><td>Reference</td><td>Book 11 Hadith 88</td></tr></tbody></table></div>
 

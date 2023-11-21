@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) said:Dajjal is blind of one 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Abdulwarits] dari [Syu'aib bin Al Habhab] dari [Anas bin Malik] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Dajjal, matanya buta, diantara kedua matanya tertulis 'Kafir' -beliau mengeja K A F I R- setiap muslim bisa membacanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7365</td></tr><tr><td>Arabic No</td><td>2933.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: Посланник Аллаха ﷺ сказал: «У Даджаля будет выпуклый глаз, а меж глаз написано кафир /неверный/» после чего он произнёс их по буквам: “каф”, “фа” и “ра”, (и затем сказал:) «Это сможет прочитать каждый мусульманин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7365</td></tr><tr><td>Arabic No</td><td>2933.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 127</td></tr></tbody></table></div>
 

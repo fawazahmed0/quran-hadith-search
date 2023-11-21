@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Umaiyya:that he saw the Prophet (ﷺ) holding a shoulder piece
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata; Telah mengabarkan kepada kami [Ja'far bin Amru bin Umayyah] bahwa [bapaknya] yakni Amru bin Umayyah telah mengabarkan kepadanya bahwa ia pernah melihat Nabi shallallahu 'alaihi wasallam memotong bahu kambing yang ada pada tangannya, lalu masuklah waktu shalat. Maka beliau melepaskannya dan juga meletakkan pisau yang digunakannya memotong kemudian beliau bergegas dan menunaikan shalat dengan tanpa berwudlu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5408</td></tr><tr><td>Arabic No</td><td>5408</td></tr><tr><td>Reference</td><td>Book 70 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джа‘фара ибн ‘Амра ибн Умаййи, что его отец рассказал, что видел, как Пророк ﷺ ел баранью лопатку, отрезая от неё ножом (куски мяса). И когда прозвучал призыв к молитве, он бросил нож, встал и совершил молитву, не совершив омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5408</td></tr><tr><td>Arabic No</td><td>5408</td></tr><tr><td>Reference</td><td>Book 70 Hadith 36</td></tr></tbody></table></div>
 

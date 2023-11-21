@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Wa'la al-Saba'i reported:I asked 'Abdullah b. 'Abbas saying: We are the inha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ishaq bin Manshur] dan [Abu Bakar bin Ishaq] dari [Amru bin ar-Rabi'] telah mengabarkan kepada kami [Yahya bin Ayyub] dari [Ja'far bin Rabi'ah] dari [Abu al-Khair] dia telah menceritakan kepadanya, dia berkata, telah menceritakan kepadaku [Ibnu Wa'lah as-Saba'i] dia berkata, "Saya bertanya kepada [Abdullah bin Abbas], Saya berkata, 'Kami berada di Maroko, lalu orang Majusi mendatangi kami dengan geriba yang mana di dalamnya terdapat air dan lemak, maka dia berkata, 'Minumlah! ' Maka aku bertanya, 'Apakah yang kamu ucapkan adalah suatu pendapat saja? ' Lalu Ibnu Abbas menjawab, 'Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda, 'Menyamaknya adalah (cara) mensucikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>366.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн Ва‘ля ас-Сабаъи сказал: «(Однажды) я спросил ‘Абдуллаха ибн ‘Аббаса: “Мы бываем в Магрибе и огнепоклонники приносят нам бурдюки, в которые кладут жир”. Он ответил: “Пей (из этого бурдюка)” Я спросил: “Это твоё мнение?” Ибн ‘Аббас ответил: “Я слышал, как Посланник Аллаха ﷺ сказал: “Дубление делает (кожу) чистой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>366.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 136</td></tr></tbody></table></div>
 

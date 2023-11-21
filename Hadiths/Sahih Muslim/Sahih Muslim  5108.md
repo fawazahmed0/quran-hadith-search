@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) having said:O people of Med
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la] dari [Al Jurairi] darii [Abu Nadlrah] dari [Abu Sa'id Al Khudri]. (dalam jalur lain disebtkan) Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Abu Nadlrah] dari [Abu Sa'id Al Khudri] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai penduduk Madinah, janganlah kalian memakan daging kurban setelah tiga." Ibnu Mutsanna menyebutkan, "Setelah tiga hari." Lantas mereka mengadu kepada Rasulullah shallallahu 'alaihi wasallam bahwa mereka memiliki keluarga, para pembantu dan para pelayan." Beliau lalu bersabda: "(Jika demikian) makan, berikan dan tahanlah, " Atau, "Simpanlah." Ibnu Mutsanna berkata, "Abdul A'la merasa ragu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5108</td></tr><tr><td>Arabic No</td><td>1973</td></tr><tr><td>Reference</td><td>Book 35 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5108</td></tr><tr><td>Arabic No</td><td>1973</td></tr><tr><td>Reference</td><td>Book 35 Hadith 45</td></tr></tbody></table></div>
 

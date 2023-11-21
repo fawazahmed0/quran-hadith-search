@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) said, "The painter of these pictures will
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Nafi'] dari [Al Qasim bin Muhammad] dari ['Aisyah] radliyallahu'anhuma, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Para pembuat gambar disiksa dihari kiamat dan dikatakan, 'Cobalah hidupkan semua yang kalian cipta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7557</td></tr><tr><td>Arabic No</td><td>7557</td></tr><tr><td>Reference</td><td>Book 97 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что она сказала: «Воистину, владельцы этих изображений будут подвергнуты мучениям в День Воскресения. Им будет сказано: “Оживите то, что вы создали!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7557</td></tr><tr><td>Arabic No</td><td>7557</td></tr><tr><td>Reference</td><td>Book 97 Hadith 182</td></tr></tbody></table></div>
 

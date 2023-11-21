@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with him) reported that Allah's Messenger (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Abdillah] telah menceritakan kepada kami [Hajjaj bin Muhammad] dia berkata; [Ibnu Juraij] berkata. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Rafi'] dari [Abdur Razzaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin Abdillah] berkata; Rasulullah shallallahu 'alaihi wasallam melarang nikah syighar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3471</td></tr><tr><td>Arabic No</td><td>1417</td></tr><tr><td>Reference</td><td>Book 16 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3471</td></tr><tr><td>Arabic No</td><td>1417</td></tr><tr><td>Reference</td><td>Book 16 Hadith 73</td></tr></tbody></table></div>
 

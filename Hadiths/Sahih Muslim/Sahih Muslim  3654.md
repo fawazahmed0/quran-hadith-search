@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported:I divorced my wife during the lif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dia berkata; Pada masa Rasulullah shallallahu 'alaihi wasallam, saya pernah menceraikan istriku yang sedang haidl, kemudian Umar melaporkannya kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda: "Suruhlah dia untuk kembali (rujuk) kemudian suruhlah dia untuk menunggu sampai istrinya suci, kemudian haidl yang kedua kali, jika istrinya telah suci, baru dia boleh untuk menceraikannya sebelum menyetubihinya atau dia boleh tetap menjadi istrinya, sebab itulah maksud iddah yang diperintahkan Allah untuk menceraikan wanita." Ubaidullah berkata; Saya bertanya kepada Nafi'; Talak apakah yang di maksudkan? Dia menjawab; Yaitu talak satu dengan masa iddahnya. Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Al Mutsanna] keduanya berkata; Telah menceritakan kepada kami [Abdullah bin Idris] dari ['Ubaidillah] dengan isnad seperti ini, namun dia tidak menyebutkan perkataan 'Ubaidillah dari Nafi'. Dalam riwayatnya Ibnu Al Mutsanna menyebutkan; Hendaklah dia rujuk kepadanya. Sedangkan Abu Bakar menyebutkan; Hendaknya dia merujuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3654</td></tr><tr><td>Arabic No</td><td>1471.03</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3654</td></tr><tr><td>Arabic No</td><td>1471.03</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
 

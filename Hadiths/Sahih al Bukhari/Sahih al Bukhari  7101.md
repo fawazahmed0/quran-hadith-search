@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:'Ammar stood on the pulpit at Kufa and mentioned 'Aisha and he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Ibnu Abi Ghaniyyah] dari [Al Hakam] dari [Abu Wa'il]; ['Ammar] berdiri diatas minbar Kufah, lantas ia menyebut Aisyah dan keberangkatannya, dan ia berkta; 'Ia adalah isteri Nabi kalian (shallallahu 'alaihi wasallam) di dunia dan akherat, namun ia adalah diantara perkara yang kalian diuji dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7101</td></tr><tr><td>Arabic No</td><td>7101</td></tr><tr><td>Reference</td><td>Book 92 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Ваиль (Шакик ибн Саляма) сказал: «‘Аммар встал на минбаре Куфы, упомянул ‘Аишу и её путешествие (в Басру) и сказал: “Поистине, она — жена вашего Пророка ﷺ в мире этом, и в мире ином, однако она — ваше испытание”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7101</td></tr><tr><td>Arabic No</td><td>7101</td></tr><tr><td>Reference</td><td>Book 92 Hadith 52</td></tr></tbody></table></div>
 

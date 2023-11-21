@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hafsah, daughter of AbdurRahman ibn AbuBakr, reported on the authority of her fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul A'la bin Hammad], telah menceritakan kepada kami [Daud bin Abdurrahman], telah menceritakan kepadaku [Abdullah bin Utsman bin Khutsaim] dari [Yusuf bin Mahik] dari [Hafshah binti Abdurrahman bin Abu Bakr] dari [ayahnya] bahwa Rasulullah shallallahu 'alaihi wasallam berkata kepada Abdurrahman: "Boncengkan saudarimu 'Aisyah, dan umrahkan dia dari Tan'im, apabila engkau telah sampai di anak bukit hendaknya ia melakukan umrah, sesungguhnya umrah tersebut adalah umrah yang diterima (sah pelaksanaannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>1995</td></tr><tr><td>Reference</td><td>Book 11 Hadith 275</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуррахмана ибн Абу Бакра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал ему: «О ‘Абдуррахман. Посади свою сестру‘Аишу в седло позади себя и пусть она совершит ‘умру от Тан‘има. Пусть она войдёт в состояние ихрама, когда ты спустишься с ней с возвышенности, и это будет принятая ‘умра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>1995</td></tr><tr><td>Reference</td><td>Book 11 Hadith 275</td></tr></tbody></table></div>
 

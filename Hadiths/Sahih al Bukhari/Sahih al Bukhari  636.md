@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "When you hear the Iqama, proceed t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] berkata, telah menceritakan kepada kami dari [Az Zuhri] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, dan dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Jika kalian mendengar iqamat dikumandangkan, maka berjalanlah menuju shalat dan hendaklah kalian berjalan dengan tenang berwibawa dan jangan tergesa-gesa. Apa yang kalian dapatkan dari shalat maka ikutilah, dan apa yang kalian tertinggal maka sempurnakanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>636</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 10 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Пророк ﷺ сказал: «Когда услышите, как объявляют о начале молитвы, ступайте на молитву. (Направляясь на молитву), вам следует хранить спокойствие и вести себя достойно. Не спешите, и совершите (вместе со всеми ту часть) молитвы, на которую вы успеете, а пропущенное вами — восполняйте (самостоятельно)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>636</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 10 Hadith 33</td></tr></tbody></table></div>
 

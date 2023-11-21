@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar: The Messenger of Allah (ﷺ) as saying: The dead is punished
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari], dari ['Abdah] dan [Abu Mu'awiyah] secara makna, dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Ibnu Umar], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang yang mati disiksa karena tangisan keluarganya." Kemudian hal tersebut disebutkan kepada [Aisyah], kemudian ia berkata; sesungguhnya Ibnu Umar telah salah. Sesungguhnya Nabi shallallahu 'alaihi wasallam pernah melewati sebuah kuburan kemudian berkata; "Sesungguhnya penghuni kuburan ini diadzab sementara keluarganya menangisinya." Kemudian Aisyah membaca ayat: "Dan seorang yang berdosa tidak akan memikul dosa orang lain." Ia berkata; dari Abu Mu'awiyah; melewati kuburan orang yahudi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3979، 3980، 3981) Sahih Muslim (932)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3129</td></tr><tr><td>Arabic No</td><td>3129</td></tr><tr><td>Reference</td><td>Book 21 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Поистине, умершего подвергают мучениям за то, что родные оплакивают его». Узнав об этом, ‘Аиша сказала: «[Ибн ‘Умар] ошибся… Однажды Пророк ﷺ проходил мимо могилы и сказал: “Поистине, лежащий в этой могиле подвергается наказанию, а его родственники оплакивают его”». Затем она прочитала: «Не понесёт душа бремени грехов другой души» (сура 6 «аль-Ан‘ам», аят 164). От Абу Му‘авии передаётся: «Мимо могилы иудея»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3979، 3980، 3981) Sahih Muslim (932)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3129</td></tr><tr><td>Arabic No</td><td>3129</td></tr><tr><td>Reference</td><td>Book 21 Hadith 41</td></tr></tbody></table></div>
 

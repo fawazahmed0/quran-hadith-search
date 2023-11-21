@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that Allah's Apostle (peace be upon 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [Abu Zinad] dari [Ali bin Al Husain] dari [Aisyah] radliallahu 'anha, bahwasanya; "Nabi shallallahu 'alaihi wasallam mencium isterinya padahal beliau sedang berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2585</td></tr><tr><td>Arabic No</td><td>1106.13</td></tr><tr><td>Reference</td><td>Book 13 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2585</td></tr><tr><td>Arabic No</td><td>1106.13</td></tr><tr><td>Reference</td><td>Book 13 Hadith 91</td></tr></tbody></table></div>
 

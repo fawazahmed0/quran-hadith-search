@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) went out towards the Khandaq (i.e. Trench)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Mu'awiyah bin 'Amru] telah menceritakan kepada kami [Abu Ishaq] dari [Humaid] aku mendengar [Anas] radliallahu 'anhu berkata, "Rasulullah shallallahu 'alaihi wasallam keluar menuju khandaq (parit), sementara kaum Muhajirin dan Anshar tengah menggali parit dipagi hari yang sangat dingin, sementara mereka tidak memiliki budak-budak yang membantu mereka bekerja, ketika beliau melihat mereka kepayahan dan kelaparan, beliau bersabda: "Ya Allah, sesungguhnya kehidupan (yang hakiki) adalah kehidupan akhirat, maka ampunilah kaum Anshar dan Muhajirin." Mendengar itu, para sahabat menjawab, "Kami adalah orang-orang yang telah berba'iat kepada Muhammad atas Jihad, dan kami masih tetap seperti itu selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4099</td></tr><tr><td>Arabic No</td><td>4099</td></tr><tr><td>Reference</td><td>Book 64 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) холодным утром Посланник Аллаха ﷺ направился ко рву и увидел, что мухаджиры и ансары сами копают землю, (так как) у них не было рабов, которые сделали бы это за них. Заметив, что они страдают от усталости и голода, (Пророк ﷺ) воскликнул: “О Алллах, поистине, жизнью (истинной будет) жизнь в мире вечном, прости же ансаров и мухаджиров!” Они же ответили ему так: “Мы — те, кто поклялся Мухаммаду, что будем сражаться, пока живы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4099</td></tr><tr><td>Arabic No</td><td>4099</td></tr><tr><td>Reference</td><td>Book 64 Hadith 143</td></tr></tbody></table></div>
 

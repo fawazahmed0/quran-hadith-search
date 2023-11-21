@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humran bin Aban:Muawiya said (to the people), "You offer a prayer which
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Amru bin "Abbas] telah bercerita kepada kami [Muhammad bin Ja'far] telah bercerita kepada kami [Syu'bah] dari [Abu at-Tayyah] berkata, aku mendengar [Humran bin Aban] dari [Mu'awiyah radliallahu 'anhu] berkata; "Sesungguhnya kalian senantiasa mengerjakan suatu shalat padahal sungguh kami telah mendampingi Nabi shallallahu 'alaihi wasallam dan tidaklah kami pernah melihat beliau mengerjakannya, dan sungguh beliau telah melarang darinya, yaitu shalat dua raka'at setelah 'Ashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3766</td></tr><tr><td>Arabic No</td><td>3766</td></tr><tr><td>Reference</td><td>Book 62 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (как-то раз) Му‘авийа, да будет доволен им Аллах, сказал (людям): «Поистине, вы совершаете одну молитву, однако мы не видели, чтобы совершал её (в такое время) Пророк ﷺ, в обществе которого мы находились, ибо он запретил (такие молитвы)!» — имея в виду совершение молитвы в два рак‘ата после послеполуденной молитвы /‘аср
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3766</td></tr><tr><td>Arabic No</td><td>3766</td></tr><tr><td>Reference</td><td>Book 62 Hadith 111</td></tr></tbody></table></div>
 

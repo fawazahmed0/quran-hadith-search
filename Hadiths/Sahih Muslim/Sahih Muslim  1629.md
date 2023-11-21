@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:The Messenger of Allah (ﷺ) observed the noon and afternoon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ahmad bin Yunus] dan ['Aun bin Salam] semuanya dari [Zuhair]. [Ibnu Yunus] mengatakan; telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Zubair] dari [Said bin Jubair] dari [Ibnu Abbas] katanya; Rasulullah shallallahu 'alaihi wasallam pernah shalat Zhuhur dan Ashar sekaligus di Madinah bukan karena takut dan bukan pula karena safar." [Abu Zubair] mengatakan; "Aku bertanya kepada [Sa'id]; "Mengapa beliau melakukan hal itu? Dia menjawab; Aku bertanya kepada [Ibnu Abbas] sebagaimana kamu bertanya kepadaku, lalu dia menjawab; "Beliau ingin supaya tidak merepotkan (memberatkan) seorangpun dari umatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>705.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘ида ибн Джубайра о том, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ совершил полуденную /зухр/ молитву, объединив её с послеполуденной /‘аср/, будучи в Медине в то время, когда он не испытывал страха и не будучи в пути».Абу аз-Зубайр сказал: Я спросил Са‘ида (ибн Джубайра): «А почему он это сделал?» Он ответил: «Я спросил Ибн ‘Аббаса так же, как ты спросил меня, и он сказал: “Он не хотел усложнять (жизнь) никому (из членов) своей общины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>705.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 60</td></tr></tbody></table></div>
 

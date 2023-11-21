@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:'Allah is Sufficient for us and He Is the Best Disposer of a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] aku melihatnya berkata; Telah menceritakan kepada kami [Abu Bakr] dari [Abu Hashin] dari [Abu Adl Dluha] dari [Ibnu 'Abbas] Hasbunallah wa ni'mal wakil adalah ucapan Ibrahim Alaihis Salam ketika di lemparkan ke api. Juga diucapkan oleh Nabi shallallahu 'alaihi wasallam ketika orang-orang kafir berkata; "Sesungguhnya manusia telah mengumpulkan pasukan untuk menyerang kamu, karena itu takutlah kepada mereka", maka perkataan itu menambah keimanan mereka dan mereka menjawab: "Cukuplah Allah menjadi Penolong kami dan Allah adalah sebaik-baik Pelindung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4563</td></tr><tr><td>Arabic No</td><td>4563</td></tr><tr><td>Reference</td><td>Book 65 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «“Достаточно нам Аллаха, прекрасный Он Покровитель!” — такие слова произнёс Ибрахим ﷺ, когда его бросили в огонь, и их же произнёс Мухаммад ﷺ, когда (ему) сказали: “Поистине, собрались против вас люди, бойтесь же их!” — (однако) это (лишь) прибавило им веры, и они сказали: “Достаточно нам Аллаха, прекрасный Он Покровитель!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4563</td></tr><tr><td>Arabic No</td><td>4563</td></tr><tr><td>Reference</td><td>Book 65 Hadith 85</td></tr></tbody></table></div>
 

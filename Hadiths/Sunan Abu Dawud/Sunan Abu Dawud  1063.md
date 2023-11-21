@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi said:Ibn ‘Umar made the call to prayer on a cold and windy night. He then
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Nafi'] bahwa [Ibnu Umar] yaitu (dia) adzan untuk mengerjakan shalat di saat malam yang sangat dingin dan berangin, katanya; "Shalatlah kalian di persinggahan." Kemudian dia berkata; " Rasulullah shallallahu 'alaihi wasallam pernah memerintahkan Mu'adzinnya, apabila malam sangat dingin atau hujan, beliau bersabda: "Shalatlah kalian di persinggahan." Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Muhammad bin Maslamah] dari [Muhammad bin Ishaq] dari [Nafi'] dari [Ibnu Umar] dia berkata; "Sorang penyeru Rasulullah shallallahu 'alaihi wasallam pernah menyerukan seperti itu ketika di Madinah yaitu di malam yang hujan dan di pagi yang sangat dingin." Abu Daud mengatakan; "Haidts ini juga di riwayatkan oleh [Yahya bin Sa'id Al Anshari] dari [Al Qasim] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, dalam hadits itu dia berkata; "…dan dalam perjalanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (666) Sahih Muslim (697)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 2 Hadith 674</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Нафи‘а, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, произнёс азан в холодную и ветреную ночь и провозгласил: «Совершайте молитву на своих местах». Потом он сказал: «Посланник Аллаха ﷺ велел муаззину в холодные и дождливые ночи говорить: “Совершайте молитву на своих местах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (666) Sahih Muslim (697)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 2 Hadith 674</td></tr></tbody></table></div>
 

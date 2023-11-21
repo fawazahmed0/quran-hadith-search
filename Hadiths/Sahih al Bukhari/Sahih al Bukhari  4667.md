@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:Something was sent to the Prophet (ﷺ) and he distributed it
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] Telah mengabarkan kepada kami [Sufyan] dari [Bapaknya] dari [Ibnu Abu Nu'm] dari [Abu Sa'id radliallahu 'anhu] dia berkata; Beberapa sedekah dikirimkan kepada Nabi shallallahu 'alaihi wasallam lalu beliau membagikannya kepada empat orang seraya berkata; Aku ingin melunakan hati mereka. Seseorang bertanya: 'Engkau tidak adil.' Maka Nabi shallallahu 'alaihi wasallam bersabda: "Akan datang dari keturunanku suatu kaum, mereka melepaskan din mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4667</td></tr><tr><td>Arabic No</td><td>4667</td></tr><tr><td>Reference</td><td>Book 65 Hadith 189</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид, да будет доволен им Аллах, рассказал: «Однажды Пророку ﷺ отправили что-то, он разделил это на четверых и сказал: “Я склоняю их сердца к исламу”. (Узнав об этом) один человек сказал: “Ты поступил несправедливо!” Тогда Пророк ﷺ сказал: “Среди потомков этого человека будут люди, которые вылетят из этой религии”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4667</td></tr><tr><td>Arabic No</td><td>4667</td></tr><tr><td>Reference</td><td>Book 65 Hadith 189</td></tr></tbody></table></div>
 

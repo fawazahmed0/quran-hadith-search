@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Buraida:'Imran bin Husain had piles. Once Abu Ma mar narr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada kami ["Abdul Warits] berkata, telah menceritakan kepada kami [Husain Al Mu'alim] dari ['Abdullah bin Buraidah] bahwa ['Imran bin Hushain radliallahu 'anhu] adalah seorang yang pernah menderita sakit wasir. Dan suatu kali Abu Ma'mar berkata, dari Hushain yang berkata; Aku pernah bertanya kepada Nabi shallallahu 'alaihi wasallam tentang seseorang yang melaksanakan shalat dengan duduk. Maka Beliau shallallahu 'alaihi wasallam menjawab: "Siapa yang shalat dengan berdiri maka itu lebih utama. Dan siapa yang melaksanakan shalat dengan duduk maka baginya setengah pahala dari orang yang shalat dengan berdiri dan siapa yang shalat dengan tidur (berbaring) maka baginya setengah pahala orang yang shalat dengan duduk". Berkata, Abu 'Abdullah; "Menurutku yang dimaksud dengan tidur adalah berbaring
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1116</td></tr><tr><td>Arabic No</td><td>1116</td></tr><tr><td>Reference</td><td>Book 18 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Имрана ибн Хусайна, что однажды он спросил Пророка ﷺ о человеке, который совершает молитву сидя, на что он ответил: «Молиться стоя лучше для него, чем молиться сидя, и его молитва сидя соответствует половине молитвы, совершённой стоя, а молитва, совершённая лёжа, соответствует половине молитвы, совершённой сидя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1116</td></tr><tr><td>Arabic No</td><td>1116</td></tr><tr><td>Reference</td><td>Book 18 Hadith 36</td></tr></tbody></table></div>
 

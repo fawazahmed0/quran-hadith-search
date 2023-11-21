@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Juhayfa (que Dieu l'agrée) a dit : Je suis allé rencontrer l'Envoyé de D
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb] semuanya meriwayatkan dari [Waki'] berkata [Zuhair], telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Aun bin Abi Juhaifah] dari [Bapaknya] dia berkata, "Saya mendatangi Nabi shallallahu'alaihiwasallam di Makkah, ketika itu beliau berada di Abthah, dalam jubah merah terbuat dari kulit. Sekonyong-konyong Bilal datang membawakan air wudhu untuk beliau. Dari sisa air itu ada orang yang mendapatkannya dan ada pula yang hanya mendapat percikannya saja. Kemudian Nabi Shallallahu'alaihiwasallam, keluar memakai pakaian merah. Seolah-olah aku masih melihat (bagaimana) putihnya betis Nabi." Perawi berkata, "Lalu Nabi shallallahu 'alaihi wasallam, wudhu, dan Bilal adzan. Aku mengikuti gerak-gerik mulut Bilal berseru ke kanan dan ke kiri mengucapkan, 'Hayya 'alash shalah, hayya 'alal falah.' Kemudian, Bilal menancapkan sebuah tongkat berujung besi, lalu Nabi Shallallahu'alaihiwasallam, maju ke depan mengimami shalat qasar Zhuhur dua rakaat. (Ketika Nabi sedang shalat), keledai dan anjing digiring lewat di depan beliau (di balik tongkat itu), tetapi ia tidak dicegah (oleh Nabi shallallahu 'alaihi wasallam), kemudian shalat Ashar dua rakaat, kemudian tetap shalat dua rakaat hingga (tiba) kembali di Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1119</td></tr><tr><td>Arabic No</td><td>503.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 281</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Ауна ибн Аби Джухайфы, что его отец сказал: «(Однажды) я пришёл к Пророку ﷺ в Мекке, когда он находился в (своём) шатре из красной кожи. Биляль вынес воду (, которой Пророк ﷺ должен был) совершить омовение, и некоторым досталось лишь несколько капель (этой воды), а некоторым удалось смочить (ею отдельные части тела). А потом наружу вышел Пророк ﷺ на котором была одежда красного цвета, и я будто и сейчас вижу белизну его голеней, и совершил омовение. Затем Биляль (начал) произносить азан, а я стал повторять его слова, когда он (, поворачиваясь) направо и налево, говорил: “Спешите на молитву!/Хаййа ‘аля-с-салят! / Спешите к спасению! /Хаййа ‘аля-ль-фалях!/”. Потом для (Пророка ﷺ) в землю воткнули палку с заострённым концом, а он вышел вперёд и совершил два рак‘ата полуденной молитвы /зухр/ (, во время которой) перед ним беспрепятственно проходили ослы и собаки. Затем он совершил два рак‘ата послеполуденной молитвы /‘аср/. Затем он продолжал совершать по два рак‘ата до тех пор, пока не вернулся в Медину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1119</td></tr><tr><td>Arabic No</td><td>503.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 281</td></tr></tbody></table></div>
 

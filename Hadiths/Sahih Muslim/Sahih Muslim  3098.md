@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muhammad b. Abu Bakr reported:I said to Anas b. Malik in the morning of 'Arafa: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Suraij bin Yunus] Telah menceritakan kepada kami [Abdullah bin Raja'] dari [Musa bin Uqbah] telah menceritakan kepadaku [Muhammad bin Abu Bakr] ia berkata; saya bertanya kepada [Anas] di waktu pagi saat berada di Arafah, "Bagaimana menurut Anda mengenai talbiyah di hari ini?" Anas menjawab, "Aku menelusuri jalan ini bersama Nabi shallallahu 'alaihi wasallam, di antara kami ada yang membaca takbir dan ada pula yang membaca tahlil, namun tak seorang pun dari kami yang mencela temannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3098</td></tr><tr><td>Arabic No</td><td>1285.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 303</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3098</td></tr><tr><td>Arabic No</td><td>1285.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 303</td></tr></tbody></table></div>
 

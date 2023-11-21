@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umar bin Al Khattab heard the Apostle of Allaah(ﷺ) say Someone came to me at n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [An Nufaili] telah menceritakan kepada Kami [Miskin] dari [Al Auza'i] dari [Yahya bin Abu Katsir] dari [Ikrimah], ia berkata; saya mendengar [Ibnu Abbas] berkata; telah menceritakan kepadaku [Umar bin Al Khathab] bahwa ia mendengar Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Tadi malam telah datang kepadaku malaikat yang datang dari sisi Tuhanku 'azza wajalla. beliau mengatakan -dan beliau berada di Al 'Aqiq-: "Dan ia berkata; shalatlah di lembah yang mendapat berkah ini. Dan ia berkata; serta umrah dalam haji." Abu Daud berkata; hadits tersebut diriwayatkan oleh [Al Walid bin Muslim], serta [Umar bin Abdul Wahid] dalam hadits ini, dari [Al Auza'i]; dan katakan; umrah dalam haji. Abu Daud berkata; demikianlah yang diriwayatkan oleh [Ali bin Al Mubarak], dari [Yahya bin Abu Katsir] dalam haidts ini, dan ia menyebutkan kata; dan katakanlah; umrah dalam haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1534)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1800</td></tr><tr><td>Arabic No</td><td>1800</td></tr><tr><td>Reference</td><td>Book 11 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, передаёт, что он слышал, как в долине ‘Акык Пророк ﷺ сказал: «Сегодня ночью ко мне явился посланец моего Всемогущего и Великого Господа и сказал: “Соверши молитву в этой благословенной долине”. И он сказал: “‘Умра в хадже”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1534)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1800</td></tr><tr><td>Arabic No</td><td>1800</td></tr><tr><td>Reference</td><td>Book 11 Hadith 80</td></tr></tbody></table></div>
 

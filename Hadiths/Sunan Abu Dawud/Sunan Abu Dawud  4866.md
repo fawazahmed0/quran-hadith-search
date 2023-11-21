@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Malik]. (Dalam jalur lain disebutkan) Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Abbad bin Tamim] dari [pamannya] Bahwasanya ia melihat Rasulullah shallallahu 'alaihi wasallam berbaring terlentang." Al Qa'nabi menyebutkan, "(yaitu) di masjid sambil meletakkan salah satu kakinya di atas kaki yang lainnya." Telah menceritakan kepada kami Al Qa'nabi dari Malik dari Ibnu Syihab dari Sa'id Ibnul Musayyab bahwa Umar Ibnul Khaththab dan Utsman bin Affan mereka berdua melakukan hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (475) Sahih Muslim (2100)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4866</td></tr><tr><td>Arabic No</td><td>4866</td></tr><tr><td>Reference</td><td>Book 43 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аббада ибн Тамима, что его дядя видел, как Посланник Аллаха ﷺ лежал в мечети на спине, положив ногу на ногу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (475) Sahih Muslim (2100)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4866</td></tr><tr><td>Arabic No</td><td>4866</td></tr><tr><td>Reference</td><td>Book 43 Hadith 94</td></tr></tbody></table></div>
 

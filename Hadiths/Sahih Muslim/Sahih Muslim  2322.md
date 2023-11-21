@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Abou Mas'ûd Al-Badrî (que Dieu l'agrée), le Prophète (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al Ambari] Telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Adi, yaitu putranya Tsabit] dari [Abdullah bin Yazid] dari [Abu Mas'ud Al Badri] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila seorang muslim memberi nafkah kepada keluarganya karena Allah, maka pahala nafkahnya itu sama dengan pahala sedekah." Dan telah menceritakannya kepada kami [Muhammad bin Basysyar] dan [Abu Bakr bin Nafi'] keduanya dari [Muhammad bin Ja'far] -dalam jalur lain- Dan telah menceritakannya kepada kami [Abu Kuraib] Telah menceritakan kepada kami [Waki'] semuanya dari [Syu'bah] di dalam isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2322</td></tr><tr><td>Arabic No</td><td>1002.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мас‘уда аль-Бадри, что Пророк ﷺ сказал: «Если мусульманин расходует средства на свою семью, надеясь за это на награду Аллаха, это станет для него милостыней /садака/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2322</td></tr><tr><td>Arabic No</td><td>1002.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 59</td></tr></tbody></table></div>
 

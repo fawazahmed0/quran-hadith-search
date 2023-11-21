@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Al-Fadl bint Al Harith:On the day of 'Arafat, some people who were w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Abu An-Nadhar] dari ['Umair], maula Ibnu 'Abbas radliallahu 'anhu dari [Ummu Al Fadhal binti Al Harits] bahwa; "Orang-orang ragu tentang puasa Nabi Shallallahu'alaihiwasallam pada hari 'Arafah. Sebagian dari mereka mengatakan Beliau berpuasa, sebagian yang lain mengatakan tidak, Lalu aku utus seseorang membawakan segelas susu ketika Beliau sedang wuquf, maka Beliau meminumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1661</td></tr><tr><td>Arabic No</td><td>1661</td></tr><tr><td>Reference</td><td>Book 25 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Умм аль-Фадль бинт аль-Харис, да будет доволен ею Аллах, что однажды люди поспорили в её присутствии в день ‘Арафата, и одни утверждали, что Пророк ﷺ постится, а другие считали, что он не постится. Она сказала: «Тогда я послала ему кувшин молока. И он попил сидя на своём верблюде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1661</td></tr><tr><td>Arabic No</td><td>1661</td></tr><tr><td>Reference</td><td>Book 25 Hadith 142</td></tr></tbody></table></div>
 

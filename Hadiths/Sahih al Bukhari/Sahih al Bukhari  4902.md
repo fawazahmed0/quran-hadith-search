@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Arqam:When 'Abdullah bin Ubai said, "Do not spend on those who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] ia berkata; Aku mendengar [Muhammad bin Ka'ab Al Qurazhi] berkata, Aku mendengar [Zaid bin Arqam radliallahu 'anhu] berkata; Ketika Abdullah bin Ubbay berkata, "Janganlah kalain memberikan infak atas orang-orang yang berada bersama Rasulullah shallallahu 'alaihi wasallam." Dan ia juga berkata, "Jika kita kembali ke kota Madinah.." Maka aku pun mengbarkan hal itu pada Nabi shallallahu 'alaihi wasallam sehingga orang-orang Anshar pun mencelaku. Kemudian Abdullah bin Ubbay bersumpah bahwa ia tidak mengatakannya. Lalu aku pulang ke rumahku dan tidur. Kemudian Rasulullah shallallahu 'alaihi wasallam memanggilku dan aku pun mendatangi beliau. Beliau bersabda: "Sesungguhnya Allah telah membenarkanmu." Dan turun pula ayat, "HUMULLADZIINA YAQUULU LAA TUNFIQUU 'ALAA MAN 'INDA RASULULLAH." (QS. Almunafiqun 7). [Ibnu Abu Za'idah] berkata; dari [Al A'masy] dari [Amru] dari [Ibnu Abu Laila] dari [Zaid] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4902</td></tr><tr><td>Arabic No</td><td>4902</td></tr><tr><td>Reference</td><td>Book 65 Hadith 422</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Аркъам, да будет доволен им Аллах, сказал: «Когда ‘Абдуллах ибн Убайй ибн Салюль сказал: “Ничего не расходуйте на тех, кто находится вместе с Посланником Аллаха, пока они не разбегутся от него. Поистине, когда мы вернёмся в Медину, могущественные обязательно выгонят (оттуда) презренных!” Я передал его слова Пророку ﷺ, а ансары осудили меня. ‘Абдуллах ибн Убайй поклялся, что не говорил этого. Я вернулся к себе домой и лёг спать. Затем Посланник Аллаха ﷺ позвал меня, и я пришёл к нему. Он сказал: “Поистине, Аллах подтвердил твою правоту!” И было ниспослано: “Именно они говорят: “Ничего не тратьте на тех, кто возле Посланника Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4902</td></tr><tr><td>Arabic No</td><td>4902</td></tr><tr><td>Reference</td><td>Book 65 Hadith 422</td></tr></tbody></table></div>
 

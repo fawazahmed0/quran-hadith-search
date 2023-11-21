@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:Each of us (wives of the Prophet) had only one clothe in which she w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir Al Abdi] telah mengabarkan kepada kami [Ibrahim bin Nafi'] dia berkata; Saya mendengar [Al Hasan bin Muslim] menyebutkan dari [Mujahid] dia berkata; [Aisyah] berkata; Tiadalah seseorang di antara kami (para istri Nabi shallallahu 'alaihi wasallam), kecuali hanya mempunyai satu helai kain yang dipakai waktu haidl. Jika kain itu terkena sedikit darah, maka dibasahi dan digosok dengan ludahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибрахим ибн Нафи‘ сказал: «Я слышал, как Хасан ибн Муслим рассказывал о том, что Муджахид сказал: “‘Аиша сказала: “Ни у одной из нас не было одежды, кроме как одной, которую она носила во время менструаций. И если на нее попадало что-то из крови, то она смачивала это место, а затем соскабливала с нее (кровь) ногтями”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
 

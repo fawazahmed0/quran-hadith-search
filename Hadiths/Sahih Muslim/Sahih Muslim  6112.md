@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Az-Zubayr (que Dieu l'agrée), un homme des 'Ansâr pla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Rumh]; Telah mengabarkan kepada kami [All Laits] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] bahwa ['Abdullah bin Az Zubair]; Telah menceritakan kepadanya bahwa seorang laki-laki Anshar berselisih dengan Az Zubair di hadapan Rasulullah shallallahu 'alaihi wasallam atas mata air Al Harrah yang biasa mereka gunakan untuk mengairi pohon kurma. Laki-laki Anshar itu berkata; "Biarkan air mengalir!" namun Az Zubair menolak. Akhirnya keduanya mengadukan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Alirilah kebunmu wahai Zubair, setelah itu berikanlah kepada tetanggamu." Tetapi laki-laki Anshar itu marah seraya berkata; "Wahai Rasulullah, apakah karena ia anak dari pamanmu!" Wajah Rasulullah shallallahu 'alaihi wasallam memerah, kemudian beliau bersabda: "Wahai Zubair, airilah kebunmu, setelah itu tahanlah hingga airnya kembali ke dalam tanah!" Abdullah bin Az Zubair berkata; "Az Zubair kemudian berkata; "Sungguh, aku perkirakan bahwa ayat ini turun berkenaan dengan peristiwa itu: 'Maka demi Tuhanmu, mereka (pada hakekatnya) tidak beriman hingga mereka menjadikan kamu hakim terhadap perkara yang mereka perselisihkan, kemudian mereka tidak merasa dalam hati mereka sesuatu keberatan terhadap putusan yang kamu berikan, dan mereka menerima dengan sepenuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6112</td></tr><tr><td>Arabic No</td><td>2357</td></tr><tr><td>Reference</td><td>Book 43 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6112</td></tr><tr><td>Arabic No</td><td>2357</td></tr><tr><td>Reference</td><td>Book 43 Hadith 170</td></tr></tbody></table></div>
 

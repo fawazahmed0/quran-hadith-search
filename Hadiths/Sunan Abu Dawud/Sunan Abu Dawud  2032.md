@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Az-Zubayr: When we came along with the Messenger of Allah (ﷺ) from Li
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamid bin Yahya], telah menceritakan kepada kami [Abdullah bin Al Harits] dari [Muhammad bin Abdullah bin Insan Ath Thai] dari [ayahnya] dari ['Urwah bin Az Zubair] dari [Az Zubair], ia berkata; tatkala kami bersama Rasulullah shallallahu 'alaihi wasallam datang dari Liyyah (gunung dekat dengan Thaif), hingga setelah kami sampai pada sebuah pohon bidara Rasulullah shallallahu 'alaihi wasallam berdiri pada pinggir Al Qarn Al Aswad (gunung kecil di Hijaz dekat dengan Thaif) sejajar dengannya, beliau menghadap ke arah Nakhib (bukit di Thaif) dengan pandangan beliau. Terkadang Az Zubair berkata; bukitnya. Beliau berdiri hingga seluruh orang berdiri, kemudian beliau bersabda: "Sesungguhnya hewan buruan di Wajj (bukit di Thaif) serta pohon-pohonnya yang berduri adalah haram dan diharamkan oleh Allah." Dan hal tersebut terjadi sebelum beliau singgah dan mengepung Tsaqif
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2032</td></tr><tr><td>Arabic No</td><td>2032</td></tr><tr><td>Reference</td><td>Book 11 Hadith 312</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аз-Зубайр, да будет доволен им Аллах, передаёт: «Мы прибыли вместе с Посланником Аллаха ﷺ из Лиййи, а возле ююбы Посланник Аллаха ﷺ встал напротив Карн-аль-Асвада, обратил взор на Нахиб и стоял, пока все люди не собрались. Тогда он сказал: “Дичь и деревья Ваджжа запретны и посвящены Аллаху”. Это было до того, как он пришёл в Таиф и осадил сакыфитов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2032</td></tr><tr><td>Arabic No</td><td>2032</td></tr><tr><td>Reference</td><td>Book 11 Hadith 312</td></tr></tbody></table></div>
 

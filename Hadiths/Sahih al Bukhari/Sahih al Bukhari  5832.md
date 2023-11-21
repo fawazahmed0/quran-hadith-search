@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, Whoever wears silk in this world
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abdul Aziz bin Shuhaib] dia berkata; saya mendengar [Anas bin Malik], Syu'bah berkata; "Tentang apakah nabi shallallahu 'alaihi wasallam marah?" Anas menjawab; "Nabi shallallahu 'alaihi wasallam sangat marah sekali, dia melanjutkan; "yaitu barangsiapa mengenakan kain sutera di dunia, maka ia tidak akan memakainya di Akhirat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5832</td></tr><tr><td>Arabic No</td><td>5832</td></tr><tr><td>Reference</td><td>Book 77 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Пророк ﷺ сказал: «Тот, кто будет носить шёлк в этом мире, не наденет его в Жизни Последней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5832</td></tr><tr><td>Arabic No</td><td>5832</td></tr><tr><td>Reference</td><td>Book 77 Hadith 49</td></tr></tbody></table></div>
 

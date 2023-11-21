@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has also been transmitted by Abu Hurairah through a different cha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Nafi' Abu Taubah] telah menceritakan kepada kami [Sulaiman bin Hayyan] dari [Hisyam bin Hasan] dari [Ibnu Sirin] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian bangun malam, hendaknya ia mengerjakan shalat dua raka'at yang ringan." Telah menceritakan kepada kami [Makhlad bin Khalid] telah menceritakan kepada kami [Ibrahim yaitu Ibnu Khalid] dari [Rabah bin Zaid] dari [Ma'mar] dari [Ayyub] dari [Ibnu Sirin] dari [Abu Hurairah] perawi berkata; makna haditsnya sama namun ada tambahan "kemudian memanjangkan sesuai dengan yang dia kehendaki". Abu Daud berkata; telah meriwayatkan hadits ini [Hammad bin Salamah] dan [Zuhair bin Mu'awiyyah] dan jama'ah dari [Hisyam] dari [Muhammad] yang di mauqufkan kepada [Abu Hurairah], demikian juga yang di riwayatkan oleh [Ayyub] dan [Ibnu 'Aun] yang di mauqufkan kepada [Abu Hurairah]. Dan di riwayatkan oleh [Ibnu Aun] dari [Muhammad] katanya; "Dalam dua raka'at tersebut di persingkat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1324</td></tr><tr><td>Arabic No</td><td>1324</td></tr><tr><td>Reference</td><td>Book 5 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В похожей версии Абу Хурайры, да будет доволен им Аллах, имеется добавление: «А потом он может (делать рак‘аты) сколь угодно долгими»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1324</td></tr><tr><td>Arabic No</td><td>1324</td></tr><tr><td>Reference</td><td>Book 5 Hadith 75</td></tr></tbody></table></div>
 

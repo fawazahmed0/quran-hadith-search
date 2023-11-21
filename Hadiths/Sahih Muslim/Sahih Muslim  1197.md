@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mus'ab b. Sa'd b. Abu Waqqas reported:I said prayer by the side of my father. Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [al-Hakam bin Musa] telah menceritakan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Ismail bin Abi Khalid] dari [az-Zubair bin 'Adi] dari [Mush'ab bin Sa'ad bin Abi Waqqash] dia berkata, "Aku shalat di samping [bapakku]. Ketika aku rukuk, aku mempersilangkan jari-jari tanganku dan aku meletakkannya di antara kedua lututku, maka dia memukul tanganku. Setelah selesai shalat, maka bapak berkata, 'Dahulu kami melakukan demikian. Tetapi kemudian kami disuruh Nabi Shallallahu'alaihiwasallam, meletakkannya di atas lutut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1197</td></tr><tr><td>Arabic No</td><td>535.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Мус‘аб ибн Са‘д ибн Аби Ваккас сказал: «(Однажды), молившись рядом с отцом, я соединил ладони и поместил их между колен (при совершении поясного поклона). (Увидев это, отец) ударил меня по рукам, а закончив молится, сказал: “Мы (тоже) так делали, но затем нам было велено поднимать (руки) до колен”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1197</td></tr><tr><td>Arabic No</td><td>535.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 37</td></tr></tbody></table></div>
 

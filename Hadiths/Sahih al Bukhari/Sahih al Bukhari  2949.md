@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ka'b bin Malik used to say:"Scarcely did Allah's Messenger (ﷺ) set out for a j
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan dari [Yunus] dari [Az Zuhriy] berkata telah bercerita kepadaku ['Abdur Rahman bin Ka'ab bin Malik] bahwa [Ka'ab binMalik radliallahu 'anhu] pernah berkata; Sungguh sedikit sekali apabila Rasulullah shallallahu 'alaihi wasallam keluar untuk bepergian melainkan Beliau melakukannya pada hari Kamis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2949</td></tr><tr><td>Arabic No</td><td>2949</td></tr><tr><td>Reference</td><td>Book 56 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ка‘б ибн Малик, да будет доволен им Аллах, сказал: «Желая поехать куда-либо, Посланник Аллаха ﷺ очень редко отправлялся (в путь) в какой-нибудь день, кроме четверга»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2949</td></tr><tr><td>Arabic No</td><td>2949</td></tr><tr><td>Reference</td><td>Book 56 Hadith 161</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Samurah said:The Aposlte of Allah (May peace be upon him) forbade giving four na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Al Mu'tamir] ia berkata; Aku mendengar [Ar Rukkain] menceritakan dari [Bapaknya] dari [Samurah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang memberi nama budak kami dengan empat nama; Aflah (beruntung), Yasar (mudah), Nafi' (bermanfaat) dan Rabah (beruntung)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2136)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4959</td></tr><tr><td>Arabic No</td><td>4959</td></tr><tr><td>Reference</td><td>Book 43 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2136)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4959</td></tr><tr><td>Arabic No</td><td>4959</td></tr><tr><td>Reference</td><td>Book 43 Hadith 187</td></tr></tbody></table></div>
 

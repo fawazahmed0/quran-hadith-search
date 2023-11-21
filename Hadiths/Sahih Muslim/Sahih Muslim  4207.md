@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim reported on the authority of his father ('Abdullah b. Umar) that he (his f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku ['Amru] -yaitu Ibnu Al Harits- dari [Ibnu Syihab] dari [Salim] dari [Ayahnya], bahwa dia pernah mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tidak halal bagi seorang Muslim bermalam selama tiga malam, padahal ia mempunyai sesuatu yang harus ia wasiatkan, kecuali wasiat tersebut tertulis di sisinya." [Abdullah bin Umar] mengatakan, "Sejak mendengar sabda Rasulullah shallallahu 'alaihi wasallam tersebut, maka tidak ada satu malam pun yang berlalu melainkan di sisi saya telah terdapat surat wasiatku." Dan telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin Al Laits] telah menceritakan kepadaku [Ayahku] dari [kakekku] telah menceritakan kepadaku ['Uqail]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Abu 'Umar] dan ['Abd bin Humaid] keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] semuanya dari [Az Zuhri] dengan sanad ini seperti hadits 'Amru bin Al Harits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4207</td></tr><tr><td>Arabic No</td><td>1627.04</td></tr><tr><td>Reference</td><td>Book 25 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4207</td></tr><tr><td>Arabic No</td><td>1627.04</td></tr><tr><td>Reference</td><td>Book 25 Hadith 4</td></tr></tbody></table></div>
 

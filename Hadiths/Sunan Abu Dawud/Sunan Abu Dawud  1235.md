@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) stayed at Tabuk twenty
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Yahya bin Abu Katsir] dari [Muhammad bin Abdurrahman bin Tsauban] dari [Jabir bin Abdullah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah bermukim di Tabuk selama dua puluh hari, dan selalu mengqashar shalat." Abu Daud mengatakan; "selain Ma'mar, memursalkan hadits ini, dan sanadnya tidak bersambung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ пробыл в Табуке двадцать дней и всё это время сокращал молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
 

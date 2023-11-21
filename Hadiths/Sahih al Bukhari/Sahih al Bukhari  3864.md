@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:While 'Umar was at home in a state of fear, there c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Sulaiman] berkata, telah menceritakan kepadaku [Ibnu Wahb] berkata, telah menceritakan kepadaku ['Umar bin Muhammad] berkata, telah mengabarkan kepadaku kakekku, [Zaid bin Abdullah bin 'Umar] dari [bapaknya] berkata; Ketika 'Umar radliallahu 'anhu sedang berada di dalam rumahnya dalam keadaan ketakutan, datanglah kepadanya Al 'Ash bin Wa'il as Sahmiy Abu 'Amru dengan mengenakan selimut yang bergaris dan baju gamis terbuat dari sutera -dia dari kalangan Bani Sahm- Mereka adalah kawan sumpah setia kami pada zaman jahiliyyah. Dia bertanya kepada 'Umar; "Ada apa denganmu?". 'Umar menjawab; "Kaummu berpikir bahwa mereka akan membunuhku karena aku memeluk Islam". Al 'Ash berkata; "Tidak ada jalan terhadapmu". 'Umar berkata; Setelah dia mengucapkan kalimat itu aku merasa aman. Kemudian Al 'Ash keluar menemui orang yang sedang memenuhi lembah (Makkah). Dia bertanya; "Hendak kemana kalian?". Mereka menjawab; "Kami ingin menemui Ibnu Al Khaththab yang telah berpindah agama". Al 'Ash berkata; "Tidak ada jalan terhadapnya". Maka orang-orang membubarkan diri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3864</td></tr><tr><td>Arabic No</td><td>3864</td></tr><tr><td>Reference</td><td>Book 63 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «В то время, когда ‘Умар находился дома в состоянии страха, к нему пришёл аль-‘Ас ибн Уаиль ас-Сахми Абу ‘Амр, одетый в расшитый плащ и рубашку с шёлковыми подолами. Он был из племени бану сахм, которые были нашими союзниками в доисламский период невежества. Аль-‘Ас спросил ‘Умара: “Что с тобой?” ‘Умар ответил: “Твои соплеменники утверждают, что убьют меня, если я приму ислам”. Аль-‘Ас сказал: “Никто не причинит тебе вреда”. ‘Умар сказал: “После того, как он сказал это, я почувствовал себя в безопасности”. Когда аль-‘Ас вышел, он обнаружил много людей, стекающихся к Мекке. Он спросил: “Куда вы направляетесь?” Они сказали: “Мы направляемся к этому Ибн аль-Хаттабу, который отрёкся от нашей религии”. Тогда аль-‘Ас сказал: “Никто не прикоснётся к нему”. И люди отступили»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3864</td></tr><tr><td>Arabic No</td><td>3864</td></tr><tr><td>Reference</td><td>Book 63 Hadith 89</td></tr></tbody></table></div>
 

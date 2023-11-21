@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al Zuhri said “we were with ‘Umar bin ‘Abd Al Aziz, there we discussed tem
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad], telah menceritakan kepada kami [Abdul Warits] dari [Isma'il bin Umayyah] dari [Az Zuhri], ia berkata; kami pernah berada di sisi Umar bin Abdul Aziz, kemudian kami saling menyebutkan menikahi wanita secara mut'ah. Lalu terdapat seorang laki-laki yang dipanggil [Rabi' bin Sabrah] yang berkata; aku bersaksi atas [ayahku] bahwa ia telah menceritakan bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang darinya pada saat haji wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2072</td></tr><tr><td>Arabic No</td><td>2072</td></tr><tr><td>Reference</td><td>Book 12 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аз-Зухри: «Мы были у ‘Умара ибн ‘Абду-ль-‘Азиза и заговорили о временном браке. И тогда один человек по имени ар-Раби‘ ибн Сабра сказал ему: “Я свидетельствую, что мой отец рассказал мне, что во время прощального хаджа Посланник Аллаха ﷺ запретил временный брак”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2072</td></tr><tr><td>Arabic No</td><td>2072</td></tr><tr><td>Reference</td><td>Book 12 Hadith 27</td></tr></tbody></table></div>
 

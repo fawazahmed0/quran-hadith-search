@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:Whenever a beggar or a person in need of something came to the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7476</td></tr><tr><td>Arabic No</td><td>7476</td></tr><tr><td>Reference</td><td>Book 97 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса (аль-Аш‘ари), да будет доволен им Аллах, сказал: «Когда к Пророку ﷺ приходил нищий или нуждающийся в чём-нибудь, он говорил: “Ходатайствуйте (за просящих) и вы получите награду, а Аллах объявит о том, чего Он желает через Своего посланника”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7476</td></tr><tr><td>Arabic No</td><td>7476</td></tr><tr><td>Reference</td><td>Book 97 Hadith 102</td></tr></tbody></table></div>
 

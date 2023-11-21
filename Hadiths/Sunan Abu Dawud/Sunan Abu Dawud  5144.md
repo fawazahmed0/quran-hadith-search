@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbutTufayl: I saw the Prophet (ﷺ) distributing flesh at Ji'irranah, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnul Mutsanna] berkata, telah menceritakan kepada kami [Abu Ashim] ia berkata; telah menceritakan kepadaku [Ja'far bin Yahya bin Umarah bin Tsauban] berkata, telah mengabarkan kepada kami [Umarah bin Tsauban] bahwa [Abu Ath Thufail] mengabarkan kepadanya, "Ia berkata, "Aku melihat Nabi shallallahu 'alaihi wasallam membagi-bagikan daging di Ji'irranah." Abu Thufail berkata, "Waktu itu aku masih kecil dan aku membawa tulang unta. Tiba-tiba datang seorang wanita mendekati Nabi shallallahu 'alaihi wasallam, beliau kemudian mengelar selendang hingga wanita itu pun duduk di atasnya. Aku lalu bertanya, "Wanita itu siapa?" orang-orang menjawab, "Wanita itu adalah orang yang telah menyusui Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>5144</td></tr><tr><td>Reference</td><td>Book 43 Hadith 372</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>5144</td></tr><tr><td>Reference</td><td>Book 43 Hadith 372</td></tr></tbody></table></div>
 

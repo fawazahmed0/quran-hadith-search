@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: If any man is among a peopl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Al Ahwash] berkata, telah menceritakan kepada kami [Abu Ishaq] aku mengira bahwa itu berasal dari [Ibnu Jarir] dari [Jarir] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang laki-laki berada pada sebuah kaum yang di dalamnya dilakukan suatu kemaksiatan, mereka mampu mengubah kemaksiatan tersebut lalu tidak melakukannya, maka Allah akan menimpakan siksa kepada mereka sebelum mereka meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4339</td></tr><tr><td>Arabic No</td><td>4339</td></tr><tr><td>Reference</td><td>Book 39 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джарир, да будет доволен им Аллах, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: “Если среди каких-то людей есть такие, которые ослушиваются Аллаха, а остальные могут изменить это, но не делают этого, Аллах непременно пошлёт им наказание уже в этом мире, до того, как они умрут”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4339</td></tr><tr><td>Arabic No</td><td>4339</td></tr><tr><td>Reference</td><td>Book 39 Hadith 49</td></tr></tbody></table></div>
 

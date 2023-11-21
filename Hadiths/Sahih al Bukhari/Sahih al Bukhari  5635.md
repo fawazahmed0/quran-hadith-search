@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:Allah's Messenger (ﷺ) ordered us to do seven thing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Al Asy'ats bin Sulaim] dari [Mu'awiyah bin Suwaid bin Muqarrin] dari [Al Barra' bin Azib] dia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kami tujuh perkara dan melarang tujuh perkara, beliau memerintahkan untuk menjenguk orang sakit, mengiringi jenazah, mendo'akan orang yang bersin, memenuhi undangan, menyebarkan salam, menolong orang yang terzhalimi dan melaksanakan sumpah, dan melarang kami memakai cincin dari emas, minum dari bejana yang terbuat dari perak, mayasir, qasiy, harir, dibaj dan istabraq (semua jenis pakaian yang terbuat dari sutera atau campuran sutera)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5635</td></tr><tr><td>Arabic No</td><td>5635</td></tr><tr><td>Reference</td><td>Book 74 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб сказал: «Посланник Аллаха ﷺ велел нам делать семь (вещей) и запретил нам семь (других). Он велел нам навещать больного, провожать погребальные носилки, произносить благопожелание чихнувшему, принимать приглашения, распространять приветствия, помогать притесняемому, способствовать выполнению клятвы того, кто её даёт. И он запретил нам носить золотые кольца, пить из серебряной посуды, маясир (подушки из шёлка), кассию (льняная одежда, содержащая шёлк), дибадж (один из видов шёлка) и парчу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5635</td></tr><tr><td>Arabic No</td><td>5635</td></tr><tr><td>Reference</td><td>Book 74 Hadith 61</td></tr></tbody></table></div>
 

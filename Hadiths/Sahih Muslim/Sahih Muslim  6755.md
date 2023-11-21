@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying. Allah fixed the very por
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajib bin Al Walid] telah menceritakan kepada kami [Muhammad bin Harb] dari [Az Zubaidi] dari [Az Zuhri] telah mengabarkan kepadaku [Sa'id bin Al Musayyab] dari [Abu Hurairah], dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Seorang bayi tidak dilahirkan (ke dunia ini) melainkan ia berada dalam kesucian (fitrah). Kemudian kedua orang tuanyalah yang akan membuatnya menjadi Yahudi, Nasrani, ataupun Majusi -sebagaimana hewan yang dilahirkan dalam keadaan selamat tanpa cacat. Maka, apakah kalian merasakan adanya cacat? ' Lalu Abu Hurairah berkata; 'Apabila kalian mau, maka bacalah firman Allah yang berbunyi: '…tetaplah atas fitrah Allah yang telah menciptakan manusia menurut fitrahnya itu. Tidak ada perubahan atas fitrah Allah.' (QS. Ar Ruum (30): 30). Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; telah menceritakan kepada kami ['Abdul 'Alaa] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami ['Abd bin Humaid]; telah mengabarkan kepada kami ['Abdurrazzaq] keduanya dari [Ma'mar] dari [Az Zuhri] dengan sanad ini dan dia berkata; 'Sebagaimana hewan ternak melahirkan anaknya. -tanpa menyebutkan cacat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6755</td></tr><tr><td>Arabic No</td><td>2658.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6755</td></tr><tr><td>Arabic No</td><td>2658.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 33</td></tr></tbody></table></div>
 

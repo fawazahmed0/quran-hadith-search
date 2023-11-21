@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':'Umar bin Al-Khattab said, "O Allah's Messenger (ﷺ)! I vowed to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu an-Nu'man] telah bercerita kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] bahwa 'Umar bin Al Khaththab radliallahu 'anhu berkata; "Wahai Rasulullah, aku pernah bernadzar untuk beri'tikaf satu hari di masa jahilliyah". Maka Beliau memerintahkan aku untuk melaksanakannya". Perawi (Nafi') berkata; "'Umar pernah mendapatkan dua budak perempuan dari tawanan perang Hunain lalu dia menitipkannya pada suatu rumah di Makkah". Perawi berkata; "Kemudian Rasulullah Shallallahu'alaihiwasallam membebaskan para tawanan perang Hunain hingga mereka bebas berjalan di lorong-lorong kota Makkah. 'Umar berkata; "Wahai 'Abdullah, lihatlah apa yang terjadi?". 'Abdullah bin 'Umar berkata; "Rasulullah Shallallahu'alaihiwasallam telah membebaskan para tawanan". Maka 'Umar berkata; "Pergi dan bebaskanlah dua budak perempuan itu". Nafi' berkata; "Rasulullah Shallallahu'alaihiwasallam tidak ber'umrah dari Ji'ranah, dan seandainya Beliau ber'umrah tentu akan diketahui oleh 'Abdullah (bin 'Umar) ". Dan [Jarir bin Hazim] menambahkan dari [Ayyub] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; "(Dua budak itu) sebagai jatah khumus (seperlima ghanimah) ". Dan diriwayatkan oleh [Ma'mar] dari [Ayyub] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma]; "(Aku punya) nadzar", dan dia tidak mengatakan satu hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3144</td></tr><tr><td>Arabic No</td><td>3144</td></tr><tr><td>Reference</td><td>Book 57 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что из военной добычи, захваченной при Хунайне, ‘Умару, да будет доволен им Аллах, достались две рабыни, которых он оставил в одном из домов в Мекке. Когда Посланник Аллаха ﷺ без выкупа освободил людей, захваченных в плен при Хунайне, они стали выходить на улицы, и ‘Умар сказал (своему сыну): «О ‘Абдуллах, посмотри, в чём дело». (‘Абдуллах Ибн ‘Умар) сказал: «Посланник Аллаха ﷺ освободил пленных». (Тогда ‘Умар, да будет доволен им Аллах,) велел: «Ступай и отпусти на волю этих двух рабынь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3144</td></tr><tr><td>Arabic No</td><td>3144</td></tr><tr><td>Reference</td><td>Book 57 Hadith 52</td></tr></tbody></table></div>
 

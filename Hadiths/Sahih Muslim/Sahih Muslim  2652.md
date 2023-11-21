@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b Samura reported that the Messenger of Allah (ﷺ) commanded us to observ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ubaidullah bin Musa] telah mengabarkan kepada kami [Syaiban] dari [Asy'ats bin Abu Sya'tsa'] dari [Ja'far bin Abu Tsaur] dari [Jabir bin Samurah] radliallahu 'anhu, ia berkata: "Dulu Rasulullah shallallahu 'alaihi wasallam memerintahkan kami untuk berpuasa di hari 'Asyura' dan beliau selalu menganjurkan untuk selalu melakukannya, maka ketika puasa Ramadlan diwajibkan, beliau tidak lagi memerintahkan kami, dan tidak pula melarang kami dan tidak pula memperhatikan apakah kami berpuasa atau tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2652</td></tr><tr><td>Arabic No</td><td>1128</td></tr><tr><td>Reference</td><td>Book 13 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2652</td></tr><tr><td>Arabic No</td><td>1128</td></tr><tr><td>Reference</td><td>Book 13 Hadith 158</td></tr></tbody></table></div>
 

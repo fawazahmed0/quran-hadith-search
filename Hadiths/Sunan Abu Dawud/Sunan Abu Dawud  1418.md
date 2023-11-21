@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Kharijah ibn Hudhafah al-Adawi: The Messenger of Allah (ﷺ) came out t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abul Walid Ath Thayalisi] dan [Qutaibah bin Sa'id] secara makna, mereka mengatakan; telah menceritakan kepada Kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abdullah bin Rasyid Az Zaufi] dari [Abdullah bin Abu Murrah Az Zaufi] dari [Kharijah bin Hudzafah], Abu Al Walid Al Adawi berkata; Rasulullah shallAllahu wa'alaihi wa sallam keluar menemui Kami dan berkata: "Sesungguhnya Allah telah mewajibkan bagi kalian sebuah shalat yang dia lebih baik bagi kalian dari pada unta merah, yaitu shalat witir, dan telah menjadikannya berada diantara shalat Isya hingga terbit fajar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1418</td></tr><tr><td>Arabic No</td><td>1418</td></tr><tr><td>Reference</td><td>Book 8 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Хариджы ибн Хузафы, да будет доволен им Аллах: «Посланник Аллаха ﷺ вышел к нам и сказал: “Поистине, Всемогущий и Великий Аллах обеспечил вас молитвой, которая лучше для вас, чем красные верблюды, и это витр, и Он поместил её между вечерней молитвой /‘иша/ и рассветом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1418</td></tr><tr><td>Arabic No</td><td>1418</td></tr><tr><td>Reference</td><td>Book 8 Hadith 3</td></tr></tbody></table></div>
 

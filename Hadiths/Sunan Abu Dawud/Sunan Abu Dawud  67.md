@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: I heard that the people asked the Prophet of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Syu'aib Al Harrani] dan [Abdul Aziz bin Yahya Al Harrani] mereka berdua berkata; telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Salith bin Ayyub] dari [Ubaidillah bin Abdurrahman bin Rafi' Al Anshari kemudian Al 'Adawi] dari [Abu Sa'id Al Khudri] dia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam ketika dikatakan kepada beliau; bahwasanya engkau telah diberi air dari dari sumur Bidla'ah, yaitu sumur tempat pembuangan bangkai anjing, bekas kotoran haidl, dan kotoran manusia, maka beliau shallallahu 'alaihi wasallam bersabda: "Sesungguhnya air itu suci, tidak ada sesuatu pun yang dapat menajiskannya." Abu Dawud berkata; Dan saya telah mendengar Qutaibah bin Sa'id berkata; Saya pernah bertanya kepada penjaga sumur tersebut tentang kedalamannya, dia menjawab; "Dalam kondisi air yang maksimal bisa mencapai tempat tumbuhnya bulu kemaluan." Saya bertanya; "Apabila berkurang?" Dia menjawab; "Di bawah aurat." Abu Dawud berkata; Dan saya sendiri pernah mengukur sumur Bidla'ah dengan selendang saya, saya julurkan kedalam sumur kemudian saya tarik kembali, ternyata tingginya adalah enam hasta. Kemudian saya bertanya kepada orang yang membukakan pintu kebun untukku dan mengantarkanku kepadanya; "Apakah bangunan sumur ini telah dirubah dari bangunan semula?" Dia menjawab; "Tidak." Dan saya melihat kedalam sumur, terdapat air yang sudah berubah warnanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>67</td></tr><tr><td>Arabic No</td><td>67</td></tr><tr><td>Reference</td><td>Book 1 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «Я слышал, как Посланник Аллаха ﷺ говорил, когда ему сказали, что ему принесли воду из колодца Буда‘а, в который (бросают) мертвых собак, тряпки, запачканные менструальный кровью и человеческие экскременты: “Поистине, эта вода чистая, и ничто не может её осквернить”».Абу Дауд сказал: «Я слышал, как Къутайба ибн Са‘ид сказал: “Я спросил того, кто присматривал за колодцем Буда‘а о его глубине и он сказал: “При самой большой (глубине) вода в нём доходит до уровня лобка”. Я спросил: “А (какой бывает глубина) когда вода убывает?” Он ответил: “Ниже ‘аурата”».Абу Дауд сказал: «И я измерил колодец Буда‘а со своим плащом в длину, затем растянул его над ней и измерил его локтями, и оказалось, что его ширина равна шести локтям. Я спросил у того, кто открыл мне двери сада и пустил меня в него: “Изменился ли первоначальный вид его строения?” Он ответил: “Нет”. И я увидел в нём воду, которая изменилась в цвете»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>67</td></tr><tr><td>Arabic No</td><td>67</td></tr><tr><td>Reference</td><td>Book 1 Hadith 67</td></tr></tbody></table></div>
 

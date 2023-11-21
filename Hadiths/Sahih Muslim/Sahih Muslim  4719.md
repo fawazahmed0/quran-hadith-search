@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Dharr who said:I said to the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Laits] telah menceritakan kepadaku bapakku [Syu'aib bin Laits] telah menceritakan kepadaku [Laits bin Sa'ad] telah menceritakan kepadaku [Yazid bin Abu Habib] dari [Bakr bin 'Amru] dari [Al Harits bin Yazid Al Hadhrami] dari [Ibnu Hujairah Al Akbar] dari [Abu Dzar] dia berkata, saya berkata, "Wahai Rasulullah, tidakkah anda menjadikanku sebagai pegawai (pejabat)?" Abu Dzar berkata, "Kemudian beliau menepuk bahuku dengan tangan beliau seraya bersabda: "Wahai Abu Dzar, kamu ini lemah (untuk memegang jabatan) padahal jabatan merupakan amanah. Pada hari kiamat ia adalah kehinaan dan penyesalan, kecuali bagi siapa yang mengambilnya dengan haq dan melaksanakan tugas dengan benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4719</td></tr><tr><td>Arabic No</td><td>1825</td></tr><tr><td>Reference</td><td>Book 33 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4719</td></tr><tr><td>Arabic No</td><td>1825</td></tr><tr><td>Reference</td><td>Book 33 Hadith 19</td></tr></tbody></table></div>
 

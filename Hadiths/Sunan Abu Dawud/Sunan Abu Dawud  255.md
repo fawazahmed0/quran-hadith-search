@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thawban: Shurayh ibn Ubayd said: Jubayr ibn Nufayr gave me a verdict ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Auf] dia berkata; Saya membaca di dalam kitab [Isma'il bin Ayyasy] berkata Ibnu Auf, dan telah menceritakan kepada kami [Muhammad bin Isma'il] dari [Ayahnya] telah menceritakan kepada saya [Dlamdlam bin Zur'ah] dari [Syuraih bin Ubaid] dia berkata; [Jubair bin Nufair] pernah memberi fatwa kepadaku tentang mandi junub, bahwasanya [Tsauban] pernah menceritakan kepada mereka, bahwasanya mereka pernah meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam tentang hal tersebut, maka beliau bersabda: "Adapun laki-laki, hendaklah dia menyiram kepalanya, lalu membasuhnya sampai ke pangkal rambut. Sedangkan wanita, maka tidak harus melepaskan sanggul kepalanya. Ciduklah air dan tuangkanlah ke atas kepalanya sebanyak tiga kali cidukan dengan kedua telapak tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>255</td></tr><tr><td>Arabic No</td><td>255</td></tr><tr><td>Reference</td><td>Book 1 Hadith 255</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Шурайх ибн ‘Убайд сказал: «Джубайр ибн Нуфайр вынес для меня решение относительно купания из-за осквернения, поскольку Саубан рассказывал о том, что они спросили Пророка ﷺ об этом и он сказал: “Что касается мужчины, то пусть он распускает свои волосы и моет их, пока (вода) не достигнет их корней. А что касается женщины, то она не обязана их распускать, (и ей будет достаточно, если) она нальет руками на голову три пригоршни (воды)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>255</td></tr><tr><td>Arabic No</td><td>255</td></tr><tr><td>Reference</td><td>Book 1 Hadith 255</td></tr></tbody></table></div>
 

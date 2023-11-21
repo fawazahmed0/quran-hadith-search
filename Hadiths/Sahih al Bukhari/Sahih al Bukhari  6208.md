@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Al-Harith bin Naufal:'Abbas bin 'Abdul Muttalib said, "O 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] telah menceritakan kepada kami [Abdul Malik] dari [Abdullah bin Al Harits bin Naufal] dari [Abbas bin Abdul Mutthalib] dia berkata; "Wahai Rasulullah, apakah anda dapat memberi manfa'at kepada Abu Thalib, karena dia telah mengasuhmu dan terkadang marah (untuk memberikan pembelaan) kepadamu." Beliau menjawab; "Ya. ia berada di bagian neraka yang dangkal, dan kalaulah bukan karena diriku, niscaya berada di dasar neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6208</td></tr><tr><td>Arabic No</td><td>6208</td></tr><tr><td>Reference</td><td>Book 78 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн аль-Хариса ибн Науфаля, что (однажды) аль-‘Аббас ибн ‘Абдульмутталиб сказал (Пророку ﷺ): «О Посланник Аллаха, помог ли ты чем-нибудь Абу Талибу, ведь он всегда защищал тебя и гневался из-за тебя?», (на что Пророк ﷺ) ответил: «Да, он находится в верхнем слое Огня, а если бы не я, то он обязательно оказался бы на самом дне его!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6208</td></tr><tr><td>Arabic No</td><td>6208</td></tr><tr><td>Reference</td><td>Book 78 Hadith 232</td></tr></tbody></table></div>
 

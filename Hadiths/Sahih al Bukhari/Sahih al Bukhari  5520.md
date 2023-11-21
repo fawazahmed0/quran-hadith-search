@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:On the Day of the battle of Khaibar, Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Amru bin Dinar] dari [Muhammad bin Ali] dari [Jabir bin Abdullah] radliallahu 'anhuma, ia berkata, "Pada hari penaklukan Khaibar Nabi shallallahu 'alaihi wasallam melarang untuk memakan daging keledai dan memberi keringanan untuk makan daging kuda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5520</td></tr><tr><td>Arabic No</td><td>5520</td></tr><tr><td>Reference</td><td>Book 72 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «В день битвы при Хайбаре Посланник Аллаха (ﷺ) запретил есть мясо осла и разрешил есть конину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5520</td></tr><tr><td>Arabic No</td><td>5520</td></tr><tr><td>Reference</td><td>Book 72 Hadith 46</td></tr></tbody></table></div>
 

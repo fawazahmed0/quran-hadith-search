@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bahiyy: When Ibrahim, the son of the Prophet (ﷺ) died, he prayed o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari], telah menceritakan kepada kami [Muhammad bin 'Ubaid] dari [Wail bin Daud] ia berkata; saya mendengar [Al Bahi] berkata; tatkakala Ibrahim anak Nabi shallallahu 'alaihi wasallam meninggal, Rasulullah shallallahu 'alaihi wasallam menshalatinya di tempat yang dijadikan untuk duduk-duduk. Abu Daud berkata; aku membaca riwayat kepada [Sa'id bin Ya'qub Ath Thalqani], dikatakan kepadanya [Ibnu Al Mubarak] telah menceritakan kepada anda dari [Ya'qub Al Qa'qa'] dari ['Atha'] bahwa Nabi shallallahu 'alaihi wasallam menshalatkan anaknya yang bernama Ibrahim yang berumur tujuh puluh malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Munkar</td><td>Al-Albani</td></tr><tr><td>Daif Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3188</td></tr><tr><td>Arabic No</td><td>3188</td></tr><tr><td>Reference</td><td>Book 21 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Бахийй передаёт, что Пророк ﷺ совершил погребальную молитву над телом своего сына Ибрахима в аль-Макаид. ‘Ата передаёт, что Пророк ﷺ совершил молитву по своему сыну Ибрахиму, который умер в возрасте семидесяти дней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Munkar</td><td>Al-Albani</td></tr><tr><td>Daif Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3188</td></tr><tr><td>Arabic No</td><td>3188</td></tr><tr><td>Reference</td><td>Book 21 Hadith 100</td></tr></tbody></table></div>
 

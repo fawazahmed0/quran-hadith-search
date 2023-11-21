@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The Last Hour would not c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaiba] dan [Ibnu Abi Umar], teks milik Ibnu Abi Umar, keduanya berkata: Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] nabi Shallallahu 'alaihi wa Salam bersabda: "Kiamat tidak terjadi hingga kalian memerangi kaum, wajah-wajah mereka seperti perisai ditambal dan kiamat tidak akan terjadi hingga kalian memerangi suatu kaum bersandalkan rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7310</td></tr><tr><td>Arabic No</td><td>2912.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7310</td></tr><tr><td>Arabic No</td><td>2912.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 76</td></tr></tbody></table></div>
 

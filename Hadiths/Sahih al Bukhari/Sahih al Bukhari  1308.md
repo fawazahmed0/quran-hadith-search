@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amir bin Rabi'a:The Prophet (ﷺ) said, "If any one of you see a funer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] dari ['Amir bin Rabi'ah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: ""Jika seorang dari kalian melihat jenazah dan dia tidak sedang berjalan bersamanya maka hendaklah dia berdiri hingga dia meninggalkan jenazah tersebut, atau jenazah sudah berlalu atau diletakkan sebelum dibawa pergi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1308</td></tr><tr><td>Arabic No</td><td>1308</td></tr><tr><td>Reference</td><td>Book 23 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амир бин Раби‘a, да будет доволен им Аллах, передал, что Пророк ﷺ сказал: «Если кто-нибудь из вас увидит похоронную процессию и не присоединится к ней, пусть встанет (и не садится) до тех пор, пока не окажется позади неё (или: пока она не пройдёт мимо него) или пока носилки не опустят (на землю) до этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1308</td></tr><tr><td>Arabic No</td><td>1308</td></tr><tr><td>Reference</td><td>Book 23 Hadith 66</td></tr></tbody></table></div>
 

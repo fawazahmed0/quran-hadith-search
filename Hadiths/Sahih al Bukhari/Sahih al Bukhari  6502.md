@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah said, 'I will declare 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin 'Utsman bin Karamah] telah menceritakan kepada kami [Khalid bin Makhlad] Telah menceritakan kepada kami [Sulaiman bin Bilal] telah menceritakan kepadaku [Syarik bin Abdullah bin Abi Namir] dari ['Atho'] dari [Abu Hurairah] menuturkan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah berfirman; Siapa yang memusuhi wali-KU, maka Aku umumkan perang kepadanya, dan hamba-Ku tidak bisa mendekatkan diri kepada-Ku dengan sesuatu yang lebih Aku cintai daripada yang telah Aku wajibkan, jika hamba-Ku terus menerus mendekatkan diri kepadaKu dengan amalan sunnah, maka Aku mencintai dia, jika Aku sudah mencintainya, maka Akulah pendengarannya yang ia jadikan untuk mendengar, dan pandangannya yang ia jadikan untuk memandang, dan tangannya yang ia jadikan untuk memukul, dan kakinya yang dijadikannya untuk berjalan, jikalau ia meminta-Ku, pasti Kuberi, dan jika meminta perlindungan kepada-KU, pasti Ku-lindungi. Dan aku tidak ragu untuk melakukan sesuatu yang Aku menjadi pelakunya sendiri sebagaimana keragu-raguan-Ku untuk mencabut nyawa seorang mukmin yang ia (khawatir) terhadap kematian itu, dan Aku sendiri khawatir ia merasakan kepedihan sakitnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6502</td></tr><tr><td>Arabic No</td><td>6502</td></tr><tr><td>Reference</td><td>Book 81 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, Всеблагой и Всевышний Аллах сказал: “Я объявлю войну враждующему с тем, кто близок ко Мне /уали/! Любимейшим из всего, что бы (ни делал) раб Мой в стремлении приблизиться ко Мне, является для Меня то, что Я вменил ему в обязанность, и будет раб Мой стараться приблизиться ко Мне, делая больше положенного /навафиль/, пока Я не полюблю его; когда же Я полюблю его, то стану его слухом, посредством которого он будет слышать, и его зрением, посредством которого он будет видеть, и его рукой, которой он будет хватать, и его ногой, с помощью которой он будет ходить, и если он попросит Меня (о чём-нибудь), Я обязательно дарую ему (это), а если обратится ко Мне за защитой, я обязательно защищу его, и ничто из совершаемого Мною не заставляет Меня колебаться в такой мере, как (необходимость забирать) душу верующего, не желающего смерти, ибо Я не желаю причинения ему зла”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6502</td></tr><tr><td>Arabic No</td><td>6502</td></tr><tr><td>Reference</td><td>Book 81 Hadith 91</td></tr></tbody></table></div>
 

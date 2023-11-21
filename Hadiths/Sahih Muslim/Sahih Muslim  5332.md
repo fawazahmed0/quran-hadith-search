@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that there were brought to Allah's Messenger (ﷺ) dates. He distr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Ibnu Abu Umar] -semuanya- dari [Sufyan], [Ibnu Abu Umar] berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Mush'ab bin Sulaim] dari [Anas], dia berkata; 'Nabi shallallahu 'alaihi wasallam di beri kurma, lalu beliau membelahnya (beliau dalam keadaan tidak tenang duduknya), beliau makan dengan cepat (karena lapar).' Dan di dalam riwayat Zuhair; 'Beliau makan dengan Hatsis (cepat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5332</td></tr><tr><td>Arabic No</td><td>2044.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5332</td></tr><tr><td>Arabic No</td><td>2044.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 206</td></tr></tbody></table></div>
 

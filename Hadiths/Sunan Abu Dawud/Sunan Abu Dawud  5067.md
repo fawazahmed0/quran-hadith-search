@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: AbuBakr as-Siddiq said: Messenger of Allah! command me som
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Husyaim] dari [Ya'la bin Atha] dari [Amru bin Ashim] dari [Abu Hurairah] bahwa Abu Bakar Ash Shiddiq radliallahu 'anhu berkata, "Wahai Rasulullah, ajarkanlah kepadaku beberapa bacaan yang bisa aku baca ketika pagi dan sore hari." Beliau bersabda: "Bacalah; ALLAHUMMA FAATIRAS SAMAWAATI WAL ARDLI AALIMAL GHAIBI WASY SYAHAHDAH RABBA KULLI SYAI'IN WA MALIIKAHU ASYHADU AN LAA ILAAHA ILLA ANTA A'UUDZU BIKA MIN SYARRI NAFSII WA SYARRISY SYAITHAANI WA SYIRKI (Ya Allah, pencipta langit dan bumi, yang Maha Mengetahui yang Ghaib dan yang nyata. Tuhan Pengatur segala sesuatu dan Rajanya. Aku bersaksi bahwa tidak ada Tuhan selain Engkau, aku berlindung kepada-Mu dari keburukan diriku, kejahatan setan dan sekutunya)." Beliau bersabda: "Bacalah saat pagi dan sore hari, atau saat engkau akan tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5067</td></tr><tr><td>Arabic No</td><td>5067</td></tr><tr><td>Reference</td><td>Book 43 Hadith 295</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5067</td></tr><tr><td>Arabic No</td><td>5067</td></tr><tr><td>Reference</td><td>Book 43 Hadith 295</td></tr></tbody></table></div>
 

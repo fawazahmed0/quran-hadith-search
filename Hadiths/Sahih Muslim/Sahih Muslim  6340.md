@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée), Du vivant de l'Envoyé de Dieu (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Abu Dawud]; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia berkata; "Aku mendengar [Anas] berkata; "Pada masa Rasulullah shallallahu 'alaihi wasallam ada empat orang sahabat yang bertugas menghimpun Al Qur'an, semuanya dari kalangan Anshar. Yaitu; Mu'adz bin Jabal, Ubay bin Ka'ab, Zaid bin Tsabit dan Abu Zaid." Qatadah berkata; saya pernah bertanya kepada Anas; 'Siapakah Abu Zaid itu? Anas menjawab; 'Ia adalah salah seorang kerabat dari pihak ayah saya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6340</td></tr><tr><td>Arabic No</td><td>2465.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6340</td></tr><tr><td>Arabic No</td><td>2465.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 170</td></tr></tbody></table></div>
 

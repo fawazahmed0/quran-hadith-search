@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:I heard the Prophet (ﷺ) saying, "Allah will not de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Talid] telah menceritakan kepadaku [Ibn Wahb] telah menceritakan kepadaku [Abdurrahman bin Syuraikh] dan lainnya dari [Abul Aswad] dari ['Urwah] berkata, " [Abdullah bin Amru] mendatangi kami dan kudengar ia berkata, 'Aku mendengar Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam bersabda: "Allah tidak mencabut ilmu setelah Ia berikan kepada kalian secara spontanitas (sekaligus), namun Allah mencabutnya dari mereka dengan cara mewafatkan para 'ulama yang sekaligus tercabut keilmuan mereka, sehingga yang tinggal hanyalah manusia-manusia bodoh, mereka dimintai fatwa, lalu mereka memberikan fatwa berdasarkan logika mereka sendiri, mereka sesat dan juga menyesatkan." Hadits ini kemudian aku ceritakan kepada 'Aisyah, isteri nabi shallallahu 'alaihi wasallam, Ketika Abdullah bin Amru berhaji, 'Aisyah berkata, "Wahai anak saudaraku, tolong temuilah Abdullah dan carilah kepastian (riwayat) darinya sebagaimana riwayat engkau ambil darinya. Aku pun mendatangi Abdullah dan aku tanyakan kepadanya. Abdullah kemudian menceritakan kepadaku dengannya seperti yang ia ceritakan kepadaku, lalu kudatangi 'Aisyah dan aku kabarkan kepadanya. Ia pun terkagum-kagum dan berkata "Demi Allah, 'Abdullah bin 'Amru memang betul-betul hafal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7307</td></tr><tr><td>Arabic No</td><td>7307</td></tr><tr><td>Reference</td><td>Book 96 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Урва сообщил: \n— ‘Абдуллах ибн ‘Амр совершал с нами хадж, и я слышал, как он говорил: «Я слышал, как Пророк ﷺ сказал: “Поистине, Аллах не лишает знаний после того, как даёт их вам, но лишает их, забирая учёных вместе с их знаниями. И (в конце концов) останутся невежественные люди, у которых будут просить выносить решения, и они станут делать это, руководствуясь собственным мнением, вводя в заблуждение других и сами сбиваясь с правильного пути“». Затем я рассказал этот хадис ‘Аише, жене Пророка ﷺ. И когда ‘Абдуллах ибн ‘Амр совершал на другой год хадж, она сказала: «О сын моей сестры! Сходи к ‘Абдуллаху, и ещё раз спроси его о том хадисе, о котором ты рассказал мне». Я пошёл к нему и спросил, и он рассказал мне его точно так же, как и в первый раз. После чего я возвратился к ‘Аише и всё сообщил. Она же удивилась, произнеся: «Клянусь Аллахом, ‘Абдуллах ибн ‘Амр в точности запомнил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7307</td></tr><tr><td>Arabic No</td><td>7307</td></tr><tr><td>Reference</td><td>Book 96 Hadith 38</td></tr></tbody></table></div>
 

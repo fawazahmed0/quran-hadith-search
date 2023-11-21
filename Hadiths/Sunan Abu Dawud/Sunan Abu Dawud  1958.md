@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Jurayj asked Ibn Umar:We sell the property of the people; so one of us goes 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Bakr Muhammad bin Khallad Al Bahili], telah menceritakan kepada Kami [Yahya] dari [Ibnu Juraij], telah menceritakan kepada Kami [Hariz atau Abu Hariz] -ada keraguan dari Yahya- bahwa ia mendengar Abdurrahman bin Farrukh bertanya kepada [Ibnu Umar]; Kami menjualkan barang-barang orang, kemudian salah seorang dari Kami datang ke Mekkah dan bermalam dalam keadaan menjaga harta? Ibnu Umar berkata; adapun Rasulullah shallallahu 'alaihi wasallam beliau siang dan malam berada di Mina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1958</td></tr><tr><td>Arabic No</td><td>1958</td></tr><tr><td>Reference</td><td>Book 11 Hadith 238</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн Фаррух сказал Ибн ‘Умару: «Мы ведём торговлю на средства людей, и один из нас приходит в Мекку и ночует возле этого имущества». Ибн ‘Умар сказал: «А Посланник Аллаха ﷺ, ночевал в Мине и оставался там»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1958</td></tr><tr><td>Arabic No</td><td>1958</td></tr><tr><td>Reference</td><td>Book 11 Hadith 238</td></tr></tbody></table></div>
 

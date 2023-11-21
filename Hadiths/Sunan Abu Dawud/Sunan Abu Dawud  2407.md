@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir b. 'Abd Allah :The Prophet (ﷺ) saw a man who had been put in th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi], telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Abdurrahman bin Sa'd bin Zurarah] dari [Muhammad bin 'Amr bin Hasan] dari [Jabir bin Abdullah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah melihat seorang laki-laki yang dinaungi dan orang-orang mengerumuninya, lalu beliau berkata: "Bukanlah termasuk kebaikan berpuasa dalam perjalanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1946) Sahih Muslim (1115)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2407</td></tr><tr><td>Arabic No</td><td>2407</td></tr><tr><td>Reference</td><td>Book 14 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что однажды Посланник Аллаха ﷺ увидел человека, вокруг которого столпились люди, закрывавшие его от солнца, и сказал: «Не является благочестием пост в пути»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1946) Sahih Muslim (1115)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2407</td></tr><tr><td>Arabic No</td><td>2407</td></tr><tr><td>Reference</td><td>Book 14 Hadith 95</td></tr></tbody></table></div>
 

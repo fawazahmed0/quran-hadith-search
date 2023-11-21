@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported Allah's Messenger (ﷺ) as saying:If bad luck were to be in anyth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim Al Handzali]; Telah mengabarkan kepada kami ['Abdullah bin Al Harits] dari [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Az Zubair] bahwa Aku mendengar; [Jabir] mengabarkan dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Kalau memang pengaruh jahat (kecelakaan atau kesialan) benar maka yang pasti hal itu kadang terjadi dalam rumah tangga, pada pembantu, dan pada kuda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5812</td></tr><tr><td>Arabic No</td><td>2227</td></tr><tr><td>Reference</td><td>Book 39 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5812</td></tr><tr><td>Arabic No</td><td>2227</td></tr><tr><td>Reference</td><td>Book 39 Hadith 164</td></tr></tbody></table></div>
 

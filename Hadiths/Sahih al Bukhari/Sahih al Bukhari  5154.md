@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) offered a wedding banquet on the occasion of his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Humaid] dari [Anas] ia berkata; Nabi shallallahu 'alaihi wasallam mengadakan walimah saat menikahi Zainab, dan beliau menebar kebaikan untuk keum muslimin. Beliau keluar sebagaimana yang beliau lakukan bila beliau menikah. Beliau mendatangi rumah isteri-isterinya Ummahatul Mukminin, beliau mengajak dan mereka pun mengundang orang lain. Setelah itu beliau beranjak, lalu melihat dua orang, lalu kembali lagi, aku tidak tahu apakah aku yang memberitahukan, ataukah beliau diberitahui kepergian dua orang itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5154</td></tr><tr><td>Arabic No</td><td>5154</td></tr><tr><td>Reference</td><td>Book 67 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас рассказывал: «Когда Пророк ﷺ женился на Зейнаб, он устроил свадебное угощение /валима/ и накормил людей хорошей едой. После этого, как обычно он и поступал наутро после первой брачной ночи, он отправился к комнатам матерям верующих (остальных своих жён) и возносил за них мольбы, а они возносили мольбы за него. Вернувшись домой, он увидел в нём двух мужчин, (которых увлекла их беседа), и снова ушёл. Не помню, я сообщил ему об их уходе или ему было сообщено»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5154</td></tr><tr><td>Arabic No</td><td>5154</td></tr><tr><td>Reference</td><td>Book 67 Hadith 89</td></tr></tbody></table></div>
 

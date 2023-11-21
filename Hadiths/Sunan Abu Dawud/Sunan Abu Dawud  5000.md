@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muammal Ibnul Fadhl] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] dari [Abdullah Ibnul 'Ala] dari [Busr bin Ubaidullah] dari [Abu Idris Al Khaulani] dari [Auf bin Malik Al Asyja'i] ia berkata, "Aku mendatangi Rasulullah shallallahu 'alaihi wasallam ketika terjadi perang Tabuk, waktu itu beliau sedang berada dalam sebuah tenda yang terbuat dari kulit. Maka aku ucapkan salam dan beliau menjawabnya. Beliau bersabda: "Masuklah." Aku bertanya, "Wahai Rasulullah, apakah semua badanku boleh masuk?" Beliau menjawab: "Ya. semua badanmu boleh masuk." Lalu aku masuk.". Telah menceritakan kepada kami Shafwan bin Shalih berkata, telah menceritakan kepada kami Al Walid berkata, telah menceritakan kepada kami Utsman bin Abul Atikah ia berkata, "Ia hanya mengatakan 'apakah semua badanku boleh masuk', karena memang tendanya sangat kecil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3176)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5000</td></tr><tr><td>Arabic No</td><td>5000</td></tr><tr><td>Reference</td><td>Book 43 Hadith 228</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3176)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5000</td></tr><tr><td>Arabic No</td><td>5000</td></tr><tr><td>Reference</td><td>Book 43 Hadith 228</td></tr></tbody></table></div>
 

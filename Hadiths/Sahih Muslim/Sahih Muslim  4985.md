@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Tha'laba reported Allah's Messenger (ﷺ) having said this:If you shoot with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran Ar Razi] telah menceritakan kepada kami [Abu Abdullah Hammad bin Khalid Al Hiyyath] dari [Mu'awiyah bin Shalih] dari [Abdurrahman bin Jubair] dari [ayahnya] dari [Abu Tsa'labah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika hewan buruan yang kamu panah hilang kemudian kamu mendapatinya kembali, maka makanlah buruan tersebut selagi belum membusuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4985</td></tr><tr><td>Arabic No</td><td>1931.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4985</td></tr><tr><td>Arabic No</td><td>1931.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 14</td></tr></tbody></table></div>
 

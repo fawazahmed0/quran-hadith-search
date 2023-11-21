@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The above mentioned tradition has also been narrated by Ibn 'Abbas to the same e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Katsir] telah mengabarkan kepada kami [Syu'bah] dari [Ayyub] dari ['Atha'] dia berkata; aku menyaksikan [Ibnu Abbas], dan Ibnu Abbas menyaksikan Rasulullah shallallahu 'alaihi wasallam, bahwa beliau keluar pada hari raya Iedul Fithri, kemudian beliau shalat dan berkhutbah, setelah itu beliau bersama Bilal mendatangi kaum wanita -Ibnu Katsir mengatakan; Syu'bah adalah orang yang banyak ilmunya, (berkatanya) - lantas beliau menyuruh mereka bersedekah, maka mereka melepaskan perhiasannya." Telah menceritakan kepada kami [Musaddad] dan [Abu Ma'mar Abdullah bin 'Amru] keduanya berkata; telah menceritakan kepada kami [Abdul Warits] dari [Ayyub] dari ['Atha'] dari [Ibnu Abbas] dengan maksud yang sama, katanya; "Beliau mengira kalau para wanita tidak mendengar khutbahnya, maka beliau bersama Bilal menemui mereka dan menasehati mereka serta menyuruh mereka supaya memperbanyak sedekah. Maka ada seorang wanita yang melepas anting dan cincinnya ke kain Bilal." Telah menceritakan kepada kami [Muhammad bin 'Ubaid] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari ['Atha'] dari [Ibnu Abbas] mengenai hadits ini, katanya; "Lantas ada seorang wanita yang melepas anting dan cincinnya, lalu Bilal menaruh di kainnya." Jabir melanjutkan; "Setelah itu, beliau membagi-bagi hasil sedekahnya kepada orang-orang miskin dari kalangan kaum Muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (98) Sahih Muslim (884)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1143</td></tr><tr><td>Arabic No</td><td>1143</td></tr><tr><td>Reference</td><td>Book 2 Hadith 754</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ решив, что женщины не слышали его, подошёл к ним вместе с Билялем, увещевал их и велел им подавать милостыню, и женщины стали бросать серьги и кольца в одежду Биляля
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (98) Sahih Muslim (884)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1143</td></tr><tr><td>Arabic No</td><td>1143</td></tr><tr><td>Reference</td><td>Book 2 Hadith 754</td></tr></tbody></table></div>
 

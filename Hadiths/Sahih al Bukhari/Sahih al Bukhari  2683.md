@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin 'Ali:Jabir bin 'Abdullah said, "When the Prophet (ﷺ) die
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] dari [Ibnu Juraij] berkata, telah menceritakan kepadaku ['Amru bin Dinar] dari [Muhammad bin 'Ali] dari [Jabir bin 'Abdullah radliallahu 'anhum] berkata; Ketika Nabi shallallahu 'alaihi wasallam wafat, Abu Bakar datang dengan membawa harta yang didapat dari Al 'Alaa' bin Al Hadhramiy lalu Abu Bakar berkata; "Siapa yang kepadanya Nabi shallallahu 'alaihi wasallam memiliki hutang atau siapa yang pernah dijanjikan Beliau sesuatu hendaklah dia menemui kami". Jabir berkata; Aku katakan: Rasulullah shallallahu 'alaihi wasallam pernah berjanji kepadaku untuk memberikan aku sesuatu sekian sekian". Maka dia mengulurkan tangannya tiga kali. Jabir berkata: "Maka Abu Bakar memberikan ke tanganku lima ratus kemudian lima ratus kemudian lima ratus lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>2683</td></tr><tr><td>Reference</td><td>Book 52 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Когда Пророк ﷺ умер, к Абу Бакру прибыло некоторое имущество от аль-‘Аля ибн аль-Хадрами, и Абу Бакр сказал: “Пусть тот, кому Пророк ﷺ остался должен или кому он обещал что-нибудь, придёт к нам!” Тогда я (пришёл к Абу Бакру) и сказал: “Поистине, Пророк ﷺ обещал (дать) мне столько-то и столько-то, и столько-то, (разводя руками три раза)”, и он отсыпал мне в руки пятьсот, затем пятьсот и ещё пятьсот (монет)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>2683</td></tr><tr><td>Reference</td><td>Book 52 Hadith 44</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr: The Prophet (ﷺ) said, "Whoever has the following 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah bin 'Uqbah] berkata, telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Abdullah bin Murrah] dari [Masruq] dari [Abdullah bin 'Amru] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Empat hal bila ada pada seseorang maka dia adalah seorang munafiq tulen, dan barangsiapa yang terdapat pada dirinya satu sifat dari empat hal tersebut maka pada dirinya terdapat sifat nifaq hingga dia meninggalkannya. Yaitu, jika diberi amanat dia khianat, jika berbicara dusta, jika berjanji mengingkari dan jika berseteru curang". Hadits ini diriwayatkan pula oleh [Syu'bah] dari [Al A'masy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>34</td></tr><tr><td>Arabic No</td><td>34</td></tr><tr><td>Reference</td><td>Book 2 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Истинным лицемером является тот, кому присущи четыре (свойства), а отличающийся каким-либо из них будет отмечен одним из свойств лицемерия, пока не избавится от него. (Четырьмя такими свойствами отличается тот, кто) предаёт, когда ему доверяются, лжёт, когда рассказывает (о чём-нибудь), поступает вероломно, когда заключает договор, и допускает беззакония, когда враждует (с кем-либо)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>34</td></tr><tr><td>Arabic No</td><td>34</td></tr><tr><td>Reference</td><td>Book 2 Hadith 27</td></tr></tbody></table></div>
 

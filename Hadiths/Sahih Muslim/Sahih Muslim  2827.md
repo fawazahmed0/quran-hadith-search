@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) said:I applied perfume to the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ubaidullah bin Umar] ia berkata, saya mendengar [Al Qasim] dari [Aisyah] radliallahu 'anha, ia berkata; "Aku memakaikan harum-haruman kepada Rasulullah shallallahu 'alaihi wasallam untuk tahallul dan Ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2827</td></tr><tr><td>Arabic No</td><td>1189.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2827</td></tr><tr><td>Arabic No</td><td>1189.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 37</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3475، 3732) Sahih Muslim (1688)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4374</td></tr><tr><td>Arabic No</td><td>4374</td></tr><tr><td>Reference</td><td>Book 40 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши (да будет доволен ею Аллах), что одна женщина из племени махзум брала у людей вещи на время, а потом отрицала это. Пророк ﷺ велел отрубить ей руку. Эта версия похожа на предыдущую. Передатчик сказал: «И Пророк ﷺ (велел) отрубить ей руку». В версии Ибн Вахба от Юнуса от аз-Зухри говорится: «Одна женщина украла во время покорения Мекки». А в версии аль-Лейса от Юнуса от Ибн Шихаба говорится: «Одна женщина брала у людей вещи на время…». В версии Мас‘уда ибн аль-Асвада от Пророка ﷺ говорится, что одна женщина украла кусок ткани из дома Посланника Аллаха ﷺ. А в версии Абу аз-Зубайра от Джабира говорится, что одна женщина украла, а потом попросила Зейнаб, дочь Посланника Аллаха ﷺ спасти её от наказания
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3475، 3732) Sahih Muslim (1688)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4374</td></tr><tr><td>Arabic No</td><td>4374</td></tr><tr><td>Reference</td><td>Book 40 Hadith 24</td></tr></tbody></table></div>
 

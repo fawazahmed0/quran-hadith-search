@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Khuzaymah ibn Thabit: The Prophet (ﷺ) said: The time limit for wiping
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [syu'bah] dari [Al Hakkam] dan [Hammad] dari [Ibrahim] dari [Abu Abdillah Al-Jadali] dari [Khuzaiman bin Tsabit] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Mengusap sepasang khuf untuk musafir adalah selama tiga hari, dan bagi orang yang sedang mukim adalah satu hari satu malam." Abu Dawud berkata; Diriwayatkan oleh [Manshur bin Al-Mu'tamir] dari [Ibrahim At-Taimi] dengan sanadnya, dia menyebutkan padanya; Dan seandainya kami minta tambah kepada beliau, pasti beliau akan memberi tambahan jangka waktu kepada kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>157</td></tr><tr><td>Arabic No</td><td>157</td></tr><tr><td>Reference</td><td>Book 1 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хузаймы ибн Сабита о том, что Пророк ﷺ сказал: «Срок для обтирания по кожаным носкам для путника составляет три дня (и три ночи) а для того, кто находится дома – один день и одна ночь».Абу Дауд сказал: «Этот хадис также передал Мансур ибн аль-Му‘тамир со слов Ибрахима ат-Тайми с его иснадом сказав в нем: “Если бы мы попросили увеличить, то нам бы увеличили (время для обтирания)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>157</td></tr><tr><td>Arabic No</td><td>157</td></tr><tr><td>Reference</td><td>Book 1 Hadith 157</td></tr></tbody></table></div>
 

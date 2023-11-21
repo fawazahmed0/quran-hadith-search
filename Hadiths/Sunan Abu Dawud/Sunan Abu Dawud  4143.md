@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Samurah: When I came to the Prophet (ﷺ) in his house, I saw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abdullah Ibnul Jarrah] dari [Waki'] dari [Isra'il] dari [Simak] dari [Jabir bin Samurah] ia berkata, "Aku masuk menemui Nabi shallallahu 'alaihi wasallam di rumahnya, dan aku melihat beliau duduk bersandar di atas bantal." [Ibnul Jarrah] menambahkan, "Sebelah kirinya." Abu Dawud berkata, " [Ishaq bin Manshur] meriwayatkannya dari [Isra'il] juga dengan lafadz, 'Sebelah kirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4143</td></tr><tr><td>Arabic No</td><td>4143</td></tr><tr><td>Reference</td><td>Book 34 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн Самуры, да будет доволен им Аллах: «Я зашёл к Пророку ﷺ когда тот был у себя дома, и увидел, что он полулежит, облокотившись на подушку». Ибн аль-Джаррах передаёт добавление: «…на левом боку». Абу Дауд сказал: «Исхак ибн Мансур передаёт от Исраиля версию, в которой сказано, что он лежал на левом боку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4143</td></tr><tr><td>Arabic No</td><td>4143</td></tr><tr><td>Reference</td><td>Book 34 Hadith 124</td></tr></tbody></table></div>
 

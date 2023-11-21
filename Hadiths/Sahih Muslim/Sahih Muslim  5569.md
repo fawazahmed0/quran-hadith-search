@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), une fille des 'Ansâr s'est m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Zaid bin Al Hubab] dari [Ibrahim bin Nafi']; Telah mengabarkan kepadaku [Al Hasan bin Muslim bin Yannaq] dari [Shafiyyah binti Syaibah] dari ['Aisyah] bahwa seorang perempuan dari Anshar menikahkan anaknya, lalu dia jatuh sakit hingga rambutnya pada rontok. Kemudian dia menemui Nabi shallallahu 'alaihi wasallam seraya berkata; 'Sesungguhnya suaminya ingin mempercantiknya, bolehkah aku menyambung rambutnya? Rasulullah shallallahu 'alaihi wasallam menjawab: "Terkutuklah orang-orang yang menyambung rambut." Dan telah menceritakannya kepada ku [Muhammad bin Hatim]; Telah menceritakan kepada kami ['Abdur Rahman bin Mahdi] dari [Ibrahim bin Nafi'] melalui jalur ini. Dia berkata; 'Terkutuklah orang-orang yang menyambung rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5569</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов ‘Аиши (да будет доволен ею Аллах), о том, что одна женщина из числа ансаров выдала замуж свою дочь, однако по причине болезни она лишилась своих волос. Тогда она пришла к Пророку ﷺ и сказала: «Поистине, её муж хочет (забрать) её, так не подвязать ли мне ей волосы?» И (на это) Посланник Аллаха ﷺ сказал: «Прокляты подвязывающие (волосы)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5569</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

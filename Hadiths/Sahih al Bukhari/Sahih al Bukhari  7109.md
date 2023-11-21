@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Hasan Al-Basri:When Al-Hasan bin 'Ali moved with army units against 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Isra'il Abu Musa] dan aku menemuinya di Kufah, lantas Israil Abu Musa menemui Ibnu Syubrumah dan mengatakan; 'pertemukanlah aku dengan Isa sehingga aku bisa menasehatinya, ' namun seolah-olah Ibnu Syubrumah takut keadanya sehingga tidak dilakukannya. Dia menjelaskan; telah menceritakan kepada kami [Al Hasan] ia menuturkan; tatkala Al Hasan bin Ali radliallahu 'anhuma berangkat menemui Mu'awiyah dengan pasukannya, 'Amru bin 'Ash berkata kepada mu'awiyah; 'Aku melihat pasukan yang tak akan melarikan diri hingga pasukan musuhnya yang justru terpukul mundur.' Kata Mu'awiyah; 'Lantas siapa nanti yang akan mengurus anak-anak kaum muslimin? ' 'Saya' Jawab Amru bin 'ash. Abdullah bin Amir dan Abdurrahman bin Samurah mengatakan; 'Lebih baik kita menemuinya, dan kita katakan kepadanya; 'Mari kita berdamai, ' Al Hasan berkata; telah kudengar [Abu Bakrah] mengatakan; Ketika Nabi shallallahu 'alaihi wasallam berkhutbah, Al Hasan datang, maka Nabi shallallahu 'alaihi wasallam bersabda: "Anakku ini adalah penghulu, dan mudah-mudahan Allah mendamaikan dua kubu kaum muslimin yang bersengketa melalui dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7109</td></tr><tr><td>Arabic No</td><td>7109</td></tr><tr><td>Reference</td><td>Book 92 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Суфьян (ибн ‘Уейна) сказал: \n— Я встретил в Куфе Исраиля Абу Мусу и он рассказал нам о том, что пришёл к (‘Абдуллах) ибн Шубруме и сказал (ему): «Отведи меня к ‘Исе, чтобы я обратился к нему с увещеванием», — и ибн Шубрума словно стал опасаться за Исраиля и не сделал того, о чём он просил. (Исраиль) сказал: «Хасан (аль-Басри) рассказал нам следующее: “Когда аль-Хасан ибн ‘Али, да будет доволен Аллах им и его отцом, отправился к Му‘авие с войском, ‘Амр ибн аль-‘Ас сказал Му‘авие: “Я вижу отряд, который не отступит (с поля боя) до тех пор, пока не отступит противоборствующая сторона (с поля боя)”. Му‘авия ответил: “А кто потом будет заботиться о детях мусульман?” Он ответил: “Я””. В это время ‘Абдуллах ибн ‘Амир и ‘Абдуррахман ибн Самура сказали (аль-Хасану): “Мы встретимся с Му‘авией и скажем ему о перемирии”».\nХасан (аль-Басри) сказал: \n— Я слышал, как Абу Бакра, да будет доволен им Аллах, рассказывал: «В то время, когда Пророк ﷺ произносил проповедь, пришёл аль-Хасан (ибн ‘Али), и Пророк ﷺ сказал: “Это мой сын — господин, и, может быть, через него Аллах примирит две группы мусульман”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7109</td></tr><tr><td>Arabic No</td><td>7109</td></tr><tr><td>Reference</td><td>Book 92 Hadith 56</td></tr></tbody></table></div>
 

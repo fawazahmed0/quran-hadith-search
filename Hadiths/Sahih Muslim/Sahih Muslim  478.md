@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:Verily the Apostle (ﷺ) said: He who professed: There is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Minhal adl-Dlarir] telah menceritakan kepada kami [Yazid bin zurai'] telah menceritakan kepada kami [Sa'id bin Abu 'Arubah] dan [Hisyam] kawan ad-Dastawai, dari [Qatadah] dari [Anas bin Malik] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda. (dalam riwayat lain disebutkan) Dan telah menceritakan kepadaku [Abu Ghassan al-Misma'I] dan [Muhammad bin al-Mutsanna] keduanya berkata, telah menceritakan kepada kami [Muadz] dan dia adalah Ibnu Hisyam, dia berkata, telah menceritakan kepadaku [bapakku] dari [Qatadah] telah menceritakan kepada kami [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Akan keluar dari neraka, orang-orang yang mengucapkan, 'Laa Ilaaha Illaahu (Tidak ada tuhan yang berhak disembah selain Allah) ', dan di dalam hatinya terdapat kebaikan seberat gandum. Kemudian keluar dari neraka orang yang mengucapkan, 'Laa Ilaaha Ilaahu (Tidak ada tuhan yang berhak disembah selain Allah) ', dan di dalam hatinya terdapat kebaikan seberat jewawut. Kemudian akan keluar dari neraka, orang yang mengucapkan, 'Laa Ilaaha Illaahu (Tidak ada tuhan yang berhak disembah selain Allah) ', dan di dalam hatinya terdapat kebaikan seberat biji jagung." Kemudian Ibnul Minhal menambahkan dalam riwayatnya; [Yazid] berkata, "Aku menemui Syu'bah, lalu aku ceritakan kepadanya hadits tersebut, maka [Syu'bah] pun berkata, ' [Qatadah] menceritakannya kepada kami dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam dengan hadits tersebut, ' hanya saja Syu'bah menyebut Dzarrah menjadi Dzurrah.' Yazid berkata, 'Abu Bistham telah salah huruf padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>478</td></tr><tr><td>Arabic No</td><td>193.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 384</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса ибн Малика, что Пророк ﷺ сказал: «Выйдут из Огня те, кто говорил: “Нет божества, достойного поклонения, кроме Аллаха”, и в чьих сердцах при этом было благо хотя бы на вес ячменного зёрнышка. Потом выйдут из Огня те, кто говорил: “Нет божества, достойного поклонения, кроме Аллаха”, и в чьих сердцах при этом было благо хотя бы на вес пшеничного зёрнышка. А затем выйдут из Огня те, кто говорил: “Нет божества, достойного поклонения, кроме Аллаха” и в чьих сердцах при этом было благо хотя бы на вес пылинки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>478</td></tr><tr><td>Arabic No</td><td>193.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 384</td></tr></tbody></table></div>
 

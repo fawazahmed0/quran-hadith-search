@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "I am closer to the believers than 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammd] telah menceritakan kepada kami [Abu 'Amir] telah menceritakan kepada kami [Fulaih] dari [Hilal bin 'Ali] dari ['Abdurrahman bin Abi 'Amrah] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang mu'min melainkan aku lebih utama untuk menanggung mereka daripada mereka sendiri baik di dunia maupun di akhirat. Bacalah kalau kalian mau; Annabiyyu awlaa bilmu'miniina min anfusihim (Nabi itu lebih utama bagi orang-orang beriman dari diri mereka sendiri). Maka siapa saja dari orang mu'min yang meninggal dunia dan meninggalkan harta benda, maka harta itu diwariskan untuk keluarganya yang ada dan siapa yang meninggalkan hutang atau kehilangan sesuatu maka datanglah kepadaku karena aku adalah maula (pelindung) nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2399</td></tr><tr><td>Arabic No</td><td>2399</td></tr><tr><td>Reference</td><td>Book 43 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Нет такого верующего, к которому не был бы я наиболее близок в этом мире и в мире вечном: прочтите, если хотите, (аят, в котором сказано): “Пророк ближе к верующим, чем сами они (к себе)…” И (поэтому,) если кто-либо из верующих умрёт, оставив какое-нибудь имущество, пусть оно перейдёт к его наследникам по отцовской линии, а если он (умрёт), оставив (неоплаченный) долг или нуждающихся детей, пусть они придут ко мне, ибо я — покровитель (для таких)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2399</td></tr><tr><td>Arabic No</td><td>2399</td></tr><tr><td>Reference</td><td>Book 43 Hadith 15</td></tr></tbody></table></div>
 

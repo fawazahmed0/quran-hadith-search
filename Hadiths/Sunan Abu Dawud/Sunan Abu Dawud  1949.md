@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman Ya'mar ad-Dayli: I came to the Holy Prophet (ﷺ) when he w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Katsir], telah menceritakan kepada Kami [Sufyan] telah menceritakan kepadaku [Bukair bin 'Atha'] dari [Abdurrahman bin Ya'mar Ad Dili], ia berkata; aku datang kepada Nabi shallallahu 'alaihi wasallam dan beliau sedang di Arafah. Kemudian datang beberapa orang dari penduduk Najed, kemudian mereka memerintahkan seorang laki-laki untuk bertanya kepada Rasulullah shallAllahu wa'alaihi wa sallam; bagaimana berhaji itu? Kemudian Rasulullah shallAllahu wa'alaihi wa sallam memerintahkan seseorang agar mengumumkan; haji adalah pada hari 'Arafah, barang siapa yang datang sebelum shalat Subuh semenjak malam di Muzdalifah maka Hajinya telah sempurna, hari-hari di Mina ada tiga, barang siapa yang menyegerakan dalam dua hari maka tidak ada dosa padanya dan barang siapa yang menunda maka tidak ada dosa baginya. Abdurrahman berkata; kemudian beliau memboncengkan seorang laki-laki di belakangnya dan menyerukan hal tersebut. Abu Daud berkata; dan demikianlah hadits yang diriwayatkan [Mihran] dari [Sufyan], ia berkata; haji, haji …… (ia menyebutkan dua kali). Dan telah diriwayatkan [Yahya Al Qaththan] dari [Sufyan], ia berkata; haji ….. (ia menyebutkan satu kali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1949</td></tr><tr><td>Arabic No</td><td>1949</td></tr><tr><td>Reference</td><td>Book 11 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн Абу Я‘мар ад-Дили, да будет доволен им Аллах, рассказывает: «Я пришёл к Пророку ﷺ когда он был на ‘Арафате, и пришли люди из числа жителей Неджда. Они велели одному человеку крикнуть Посланнику Аллаха ﷺ: “Как следует совершать хадж?” Посланник Аллаха ﷺ велел одному человеку прокричать: “Хадж ‘Арафат. Хадж того, кто пришёл до утренней молитвы /фаджр/ в день Муздалифы, считается совершенным. Дней Мины три, и кто поспешил, уехав через два дня, и кто задержался, нет на том греха”. Потом он посадил позади себя человека, который громко повторял это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1949</td></tr><tr><td>Arabic No</td><td>1949</td></tr><tr><td>Reference</td><td>Book 11 Hadith 229</td></tr></tbody></table></div>
 

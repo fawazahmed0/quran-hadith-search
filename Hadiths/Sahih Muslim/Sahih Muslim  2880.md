@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ka'b b. 'Ujra (Allah be pleased with him) reported that the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Saif] ia berkata, saya mendengar [Mujahid] berkata, telah menceritakan kepadaku [Abdurrahman bin Abu Laila] telah menceritakan kepadaku [Ka'ab bin Ujrah] radliallahu 'anhu katanya; Bahwa ketika ia sedang ihram, Rasulullah shallallahu 'alaihi wasallam berdiri di dekatnya, sedangkan kutu berjatuhan dari kepadalanya. Maka beliau pun bertanya: "Apakah kutumu itu mengganggumu?" saya menjawab, "Ya." Beliau bersabda: "Cukurlah rambutmu." Ka'ab berkata; Maka kepadakulah ayat ini diturunkan: "… atau ada gangguan di kepalanya (lalu ia bercukur), Maka wajiblah atasnya berfid-yah, yaitu: berpuasa atau bersedekah atau berkorban." (QS. Albaqarah; 196), Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Berpuasalah tiga hari, atau bersedekahlah kepada enam orang miskin atau berkurban dengan sesuatu yang mudah di dapatkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2880</td></tr><tr><td>Arabic No</td><td>1201.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2880</td></tr><tr><td>Arabic No</td><td>1201.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 90</td></tr></tbody></table></div>
 

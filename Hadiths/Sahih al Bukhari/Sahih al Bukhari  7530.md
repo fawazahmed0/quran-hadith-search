@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira:Our Prophet has informed us our Lord's Message that whoever 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Fadll bin Ya'qub] telah menceritakan kepada kami ['Abdullah bin Ja'far Ar Raqqi] telah menceritakan kepada kami [Al Mu'tamir bin Sulaiman] telah menceritakan kepada kami [Sa'id bin Ubaidullah Ats Tsaqafi] telah menceritakan kepada kami [Bakar bin Abdullah Al Muzani], dan [Ziyad bin Jubair bin Hayyah] dari [Jubair bin Hayyah], [Mughirah] berkata, "Nabi shallallahu 'alaihi wasallam telah mengabarkan kepada kami dari risalah Rabb kami, bahwa siapa saja dari kami yang terbunuh, maka ia akan menuju surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7530</td></tr><tr><td>Arabic No</td><td>7530</td></tr><tr><td>Reference</td><td>Book 97 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джубайр ибн Хаййа передаёт, что аль-Мугира ибн Шу‘ба, да будет доволен им Аллах, сказал: «Наш Пророк ﷺ поведал нам, что в послании нашего Господа (сказано), что тот из нас, кто будет убит, окажется в Раю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7530</td></tr><tr><td>Arabic No</td><td>7530</td></tr><tr><td>Reference</td><td>Book 97 Hadith 155</td></tr></tbody></table></div>
 

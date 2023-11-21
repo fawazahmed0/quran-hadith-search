@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:The Prophet (ﷺ) said to the people of Nijran, "I will send y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muslim bin Ibrahim] telah bercerita kepada kami [Syu'bah] dari [Abu Ishaq] dari [Shilah] dari [Hudzaifah radliallahu 'anhu] berkata, Nabi shallallahu 'alaihi wasallam berkata kepada penduduk Najran: "Sungguh aku pasti akan mengutus yakni kepada kalian seorang kepercayaan yang benar-benar terpercaya". Lalu beliau menyanjung shahabat-shahabat beliau kemudian mengutus Abu 'Ubaidah radliallahu 'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3745</td></tr><tr><td>Arabic No</td><td>3745</td></tr><tr><td>Reference</td><td>Book 62 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хузейфы, да будет доволен им Аллах, что Пророк ﷺ сказал жителям Наджрана: «Я непременно пошлю к вам действительно надёжного человека». (Каждый из) сподвижников пожелал (, чтобы было названо его имя), и Пророк ﷺ послал Абу ‘Убайду, да будет доволен им Аллах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3745</td></tr><tr><td>Arabic No</td><td>3745</td></tr><tr><td>Reference</td><td>Book 62 Hadith 90</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I stayed overnight in the house of my aunt Maimuna bint Al-H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Al Hakam] berkata, aku mendengar [Sa'id bin Jubair] dari [Ibnu 'Abbas] berkata, "Aku bermalam di rumah bibiku (Maimunah binti Al Harits), isteri Nabi shallallahu 'alaihi wasallam. Dan saat itu Nabi shallallahu 'alaihi wasallam bersamanya karena memang menjadi gilirannya. Nabi shallallahu 'alaihi wasallam melaksanakan shalat isya', lalu beliau pulang ke rumahnya dan shalat empat rakaat, kemudian tidur dan bangun lagi untuk shalat." Ibnu Abbas berkata, "Beliau lalu tidur seperti anak kecil (sebentar-sebentar bangun) -atau kalimat yang semisal itu-, kemudian beliau bangun shalat. Kemudian aku bangun dan berdiri si sisi kirinya, beliau lalu menempatkan aku di kanannya. Setelah itu beliau shalat lima rakaat, kemudian shalat dua rakaat, kemudian tidur hingga aku mendengar dengkurannya, kemudian beliau keluar untuk melaksanakan shalat subuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 3 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) я остался на ночь в доме своей тётки Маймуны бинт аль-Харис, жены Пророка ﷺ находившегося в ту ночь у неё. Пророк ﷺ совершил вечерний намаз (в мечети), вернулся домой, совершил намаз в четыре рак‘ата и лёг спать. (Через некоторое время) он встал и спросил: “Мальчик поспал?” (Или же он сказал нечто подобное.) Затем он встал на намаз, я же встал слева от него, но он поставил меня справа, совершил пять рак‘атов намаза, а потом ещё два, после чего (снова) заснул, и я услышал его храп, а (ещё через некоторое время) он пошёл на (утренний) намаз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 3 Hadith 59</td></tr></tbody></table></div>
 

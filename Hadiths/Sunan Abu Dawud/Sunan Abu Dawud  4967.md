@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad b. al-Hanafiyyah quoted 'Ali as saying:I said: Messenger of Allah! tell
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman] dan [Abu Bakar] -keduanya anak Abu Syaibah- mereka berkata; telah menceritakan kepada kami [Abu Usamah] dari [Fithr] dari [Mundzir] dari [Muhammad Ibnul Hanafiyah] ia berkata; [Ali radliallahu 'anhu] berkata, "Aku bertanya, "Wahai Rasulullah, jika sepeninggalmu nanti aku mempunyai anak lagi maka aku akan memberi nama seperti namamu dan memberi julukan seperti julukanmu." Beliau menjawab: "Ya." tetapi Abu Bakr tidak menyebutkan 'aku berkata', ia berkata, "Ali radliallahu 'anhu berkata kepada Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4967</td></tr><tr><td>Arabic No</td><td>4967</td></tr><tr><td>Reference</td><td>Book 43 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4967</td></tr><tr><td>Arabic No</td><td>4967</td></tr><tr><td>Reference</td><td>Book 43 Hadith 195</td></tr></tbody></table></div>
 

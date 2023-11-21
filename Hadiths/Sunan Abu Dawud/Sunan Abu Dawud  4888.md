@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah: I heard the Messenger of Allah (ﷺ) say: If you search for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Muhammad Ar Ramli] dan [Ibnu Auf] dan ini adalah lafadznya, keduanya berkata; telah menceritakan kepada kami [Al Firyabi] dari [Sufyan] dari [Tsaur] dari [Rasyid bin Sa'd] dari [Mu'awiyah] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika engkau mengamat-amati (menulusuri) aurat (aib) orang-orang, berarti engkau telah merusak mereka, atau hampir-hampir engkau merusak mereka." Abu Darda bertanya, "Sebuah kalimat yang didengar oleh Mu'awiyah dari Rasulullah shallallahu 'alaihi wasallam, semoga dengan itu Allah memberi manfaat kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4888</td></tr><tr><td>Arabic No</td><td>4888</td></tr><tr><td>Reference</td><td>Book 43 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘авийа, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, если ты станешь выискивать недостатки мусульман, то испортишь их или будешь близок к тому, чтобы испортить их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4888</td></tr><tr><td>Arabic No</td><td>4888</td></tr><tr><td>Reference</td><td>Book 43 Hadith 116</td></tr></tbody></table></div>
 

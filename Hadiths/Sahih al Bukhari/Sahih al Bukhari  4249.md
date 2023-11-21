@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:When Khaibar was conquered, a (cooked) sheep containing poi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf]; Telah menceritakan kepada kami [Al Laits]; telah menceritakan kepadaku [Said] dari [Abu Hurairah] radliallahu 'anhu, katanya; Ketika Khaibar ditaklukkan, Rasulullah diberi kambing yang diberi racun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4249</td></tr><tr><td>Arabic No</td><td>4249</td></tr><tr><td>Reference</td><td>Book 64 Hadith 284</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда Хайбар был завоёван, (иудеи) преподнесли в подарок Посланнику Аллаха ﷺ (жареную) отравленную овцу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4249</td></tr><tr><td>Arabic No</td><td>4249</td></tr><tr><td>Reference</td><td>Book 64 Hadith 284</td></tr></tbody></table></div>
 

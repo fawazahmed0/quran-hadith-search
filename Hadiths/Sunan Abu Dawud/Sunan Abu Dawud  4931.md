@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad] dari [Hisyam bin Urwah] dari [Bapaknya] dari ['Aisyah] ia berkata, "Aku sedang bermain-main dengan anak-anak wanita, dan mungkin saat itu Rasulullah shallallahu 'alaihi wasallam masuk menemuiku, sementara di sisiku ada banyak budak wanita. Maka ketika beliau masuk mereka keluar, dan jika beliau keluar mereka masuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6130) Sahih Muslim (2440)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4931</td></tr><tr><td>Arabic No</td><td>4931</td></tr><tr><td>Reference</td><td>Book 43 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я играла с куклами, и иногда Пророк ﷺ входил ко мне, когда у меня были девочки(, которые играли со мной). Когда Посланник Аллаха ﷺ заходил (домой), они выходили, а когда он уходил, они (снова) заходили»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6130) Sahih Muslim (2440)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4931</td></tr><tr><td>Arabic No</td><td>4931</td></tr><tr><td>Reference</td><td>Book 43 Hadith 159</td></tr></tbody></table></div>
 

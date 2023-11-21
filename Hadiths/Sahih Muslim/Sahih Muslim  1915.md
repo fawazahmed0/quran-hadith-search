@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ishaq is reported to have said on the authority of Aswad who quoted on the autho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] -Ibnul Mutsanna- berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, bahwasanya beliau membaca huruf ini: "FAHAL MIM MUDDAKIR
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1915</td></tr><tr><td>Arabic No</td><td>823.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 343</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах сказал: «Пророк ﷺ читал: “Но найдётся ли (среди вас) поминающий /муддакир/?” (Сура «аль-Камар», аят 15)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1915</td></tr><tr><td>Arabic No</td><td>823.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 343</td></tr></tbody></table></div>
 

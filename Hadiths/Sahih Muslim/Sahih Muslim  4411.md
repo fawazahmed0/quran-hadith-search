@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of Allah's Apostle (ﷺ), reported that the Quraish were concer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah bin Yahya] dan ini adalah lafadz Harmalah, keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] dia berkata; telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku ['Urwah bin Az Zubair] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa saat penaklukan Kota Makkah di masa Rasulullah shallallahu 'alaihi wasallam, orang-orang Quraisy pernah kebingungan mengenai masalahnya seorang wanita (mereka) yang ketahuan mencuri. Maka mereka berkata, "Siapa kiranya yang berani mengadukan permasalahan ini kepada Rasulullah shallallahu 'alaihi wasallam?" maka sebagian mereka mengusulkan, "Siapa lagi kalau bukan Usamah bin Zaid, orang yang paling dicintai oleh Rasulullah shallallahu 'alaihi wasallam." Lalu wanita itu dihadapkan kepada Rasulullah shallallahu 'alaihi wasallam dan Usamah bin Zaid pun mengadukan permasalahannya kepada beliau, tiba-tiba wajah Rasulullah shallallahu 'alaihi wasallam berubah menjadi merah seraya bersabda: "Apakah kamu hendak meminta syafa'at (keringanan) dalam hukum Allah (yang telah ditetapkan)!" Maka Usamah berkata kepada beliau, "Mohonkanlah ampuanan bagiku wahai Rasulullah." Sore harinya Rasulullah shallallahu 'alaihi wasallam berdiri dan berkhutbah, setelah memuji Allah dengan ujian yang layak untuk-Nya, beliau bersabda: "Amma Ba'du. Sesungguhnya yang membinasakan orang-orang sebelum kalian adalah manakala ada orang yang terpandang (terhormat) dari mereka mencuri, maka merekapun membiarkannya. Namun jika ada orang yang lemah dan hina di antara mereka ketahuan mencuri, maka dengan segera mereka melaksanakan hukuman atasnya. Demi Dzat yang jiwaku berada tangan-Nya, sekiranya Fatimah binti Muhammad mencuri, sungguh aku sendiri yang akan memotong tangannya." Akhirnya beliau memerintahkan terhadap wanita yang mencuri, lalu dipotonglah tangan wanita tersebut." [Yunus] berkata; [Ibnu Syihab] berkata; [Urwah] berkata; ['Aisyah] berkata, "Setelah peristiwa itu, wanita tersebut malakukan taubat nasuha dan menikah, hingga pada suatu ketika ia datang kepadaku untuk meminta tolong mengajukan permintaannya kepada Rasulullah shallallahu 'alaihi wasallam, lalu aku memnuhi permintaannya tersebut." Dan telah menceritakan kepada kami ['Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] dia berkata, "Seorang wanita Makhzumiyah pernah meminjam suatu barang, setelah itu dia mengaku barang tersebut adalah miliknya. Maka Nabi shallallahu 'alaihi wasallam menyuruh supaya tangannya dipotong, hingga keluarga wanita tersebut menemui Usamah bin Zaid dan mengadukan permasalahan wanita itu. Usamah lalu mengadukannya kepada Rasulullah shallallahu 'alaihi wasallam …', kemudian dia menyebutkan seperti hadits Laits dan Yunus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>1688.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>1688.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
 

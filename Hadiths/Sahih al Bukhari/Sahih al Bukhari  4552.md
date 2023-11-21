@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abu Mulaika:Two women were stitching shoes in a house or a room. Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin 'Ali bin Nashr]; Telah menceritakan kepada kami ['Abdullah bin Daud] dari [Juraij] dari [Ibnu Abu Mulaikah] bahwa dua orang wanita pernah menjahit kulit di sebuah rumah atau di sebuah kamar. Lalu salah seorang dari mereka keluar seraya membawa alat jahitnya ditelapak tangannya. Lalu dia menuduh temannya yang mengambil. Akhirnya hal itu dilaporkan kepada Ibnu Abbas. [Ibnu Abbas] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau orang-orang di benarkan sesuai dengan pengakuannya maka akan hilanglah darah dan harta suatu kaum. Ingatkanlah ia dengan Allah dan bacakanlah kepadanya firman Allah: "Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka..." (Al Imran: 77). Lalu perempuan itu mengakuinya. Kemudian Ibnu Abbas berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya sumpah itu berlaku bagi orang yang dituduh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 65 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Абу Муляйки, да помилует его Аллах Всевышний, что в одном доме (или: в одной комнате) две женщины занимались прокалыванием (кожи для пошивки обуви. Случайно) поранив руку шилом, одна из них вышла наружу, а потом обвинила в этом другую, и их дело было представлено на рассмотрение Ибн ‘Аббасу, да будет доволен Аллах ими обоими, который сказал: «Посланник Аллаха ﷺ сказал: “Если бы людям давали (то, на что они претендуют,) на основании (одних лишь) их притязаний, то пропали бы жизни и имущество (многих других) людей”. Напомните ей об Аллахе и прочтите (аят, где сказано): “Поистине, для тех, которые продают завет Аллаха…”»\n(Передатчик этого хадиса сказал):\n— И когда ей напомнили, она призналась, а Ибн ‘Аббас сказал: «Пророк ﷺ сказал: “Ответчику следует приносить клятву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 65 Hadith 74</td></tr></tbody></table></div>
 

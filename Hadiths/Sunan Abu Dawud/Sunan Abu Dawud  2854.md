@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Adi b. Hatim:I asked Prophet (ﷺ) about featherless arrow. He said: I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Abu As Safar], dari [Asy Sya'bi], ia berkata; [Adi bin Hatim] berkata; aku bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai anak panah yang tumpul. Kemudian beliau berkata: "Apabila mengenai dengan bagian tajamnya maka makanlah dan apabila mengenai dengan pagian lebarnya maka jangan engkau makan, karena itu adalah hewan yang mati karena terkena benda tumpul." Aku katakan; aku melepaskan anjingku. Beliau berkata: "Apabila engkau menyebut nama Allah maka makanlah, jika tidak maka jangan engkau makan. Dan jika ia makan sebagian darinya maka jangan engkau makan, karena sesungguhnya ia menangkap untuk dirinya sendiri." Kemudian Adi berkata; aku melepaskan anjingku dan aku mendapati anjing lain padanya. Maka beliau berkata: "Jangan engkau makan, karena engkau hanya menyebutkan nama Allah hanya pada anjngmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (175) Sahih Muslim (1929)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2854</td></tr><tr><td>Arabic No</td><td>2854</td></tr><tr><td>Reference</td><td>Book 17 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ади ибн Хатима, да будет доволен им Аллах: «Однажды я задал Пророку ﷺ вопрос о дичи, убитой с помощью ми‘рада, и он сказал: “Можешь есть дичь, убитую его острым концом, что же касается дичи, убитой его древком, то не ешь её, ибо это вакыз”. И я сказал: “А если я посылаю собаку?” Он сказал: “Можешь есть то, что она схватит для тебя, если ты помянул имя Аллаха, когда посылал её, а иначе не ешь. А если собака начала есть дичь, то не ешь её, потому что она схватила её для себя”. Я спросил: “А что, если я пошлю свою собаку, а потом обнаружу вместе с ней другую собаку?” (Посланник Аллаха ﷺ) сказал: “Не ешь эту дичь, ибо ты произнёс имя Аллаха только над своей собакой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (175) Sahih Muslim (1929)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2854</td></tr><tr><td>Arabic No</td><td>2854</td></tr><tr><td>Reference</td><td>Book 17 Hadith 11</td></tr></tbody></table></div>
 

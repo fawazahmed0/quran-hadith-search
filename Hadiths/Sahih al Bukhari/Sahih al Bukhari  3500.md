@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Jubair bin Mut'im:That while he was with a delegation from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata; [Muhammad bin Jubair bin Muth'im] pernah bercerita kepadanya bahwa ada berita yang sampai kepada [Mu'awiyah] yang saat itu dia sedang mempunyai urusan dengan orang Quraisy bahwa'Abdullah bin 'Amru bin Al 'Ash menceritakan bahwa akan ada raja dari kalangan suku Qahthan (di Yaman). Mu'awiyah kemudian marah lalu berdiri kemudian memuji Allah Ta'ala dan segala pengagungan yang memang hanya patut bagi-Nya kemudian berpidato; "Hadirin yang dimuliakan. Sungguh telah sampai kepadaku orang-orang dari kalian yang menyampaikan pembicaraan yang tidak ada dalam Kitab Allah dan juga bukan dinukil dari sabda Rasulullah Shallallhu 'alaihi wa salam. Mereka itulah orang-orang bodoh dari kalian. Oleh karena itu kalian harus waspada terhadap angan-angan yang menyesatkan para pelakunya. Sungguh aku pernah mendengar Rasulullah Shallallhu 'alaihi wa salam bersabda: "Sesungguhnya urusan (khilafah/pemerintahan) ini berada pada suku Quraisy dan tidak ada seorangpun yang menentang mereka melainkan Allah Ta'ala pasti akan menelungkupkan wajahnya ke tanah selama mereka (Quraisy) menegakkan ad-din (agama)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3500</td></tr><tr><td>Arabic No</td><td>3500</td></tr><tr><td>Reference</td><td>Book 61 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (Мухаммад ибн Шихаб) аз-Зухри, да помилует его Аллах, сказал:\n— Мухаммад ибн Джубайр ибн Мут‘им рассказывал о том, что (в своё время) Му‘авию, да будет доволен им Аллах, у которого находилась делегация курайшитов, уведомили о том, что ‘Абдуллах ибн ‘Амр ибн аль-‘Ас, да будет доволен Аллах им и его отцом, говорит, что правителем (станет человек из племени) кахтан. (Услышав это,) Му‘авия разгневался, поднялся (со своего места), должным образом восславил Аллаха, а потом сказал: «А затем, поистине, дошло до меня, что некоторые из вас говорят то, чего нет в Книге Аллаха и что не передаётся со слов Посланника Аллаха ﷺ! Такие (относятся к числу) невежественных среди вас, так не тешьте себя надеждами, которые сбивают людей с пути, ибо, поистине, я слышал, как Посланник Аллаха ﷺ говорил: “Поистине, это дело останется за курайшитами, а любого из тех, кто станет враждовать с ними, того Аллах обязательно опрокинет лицом. И так будет до тех пор, пока (курайшиты) будут придерживаться (установлений) религии!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3500</td></tr><tr><td>Arabic No</td><td>3500</td></tr><tr><td>Reference</td><td>Book 61 Hadith 10</td></tr></tbody></table></div>
 

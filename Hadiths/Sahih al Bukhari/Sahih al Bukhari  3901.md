@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Sa'd said, "O Allah! You know that there is none against whom I a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zakaria bin Yahya] telah menceritakan kepada kami [Ibnu Numair], [Hisyam] berkata, [bapakku] telah mengabarkan kepadaku dari ['Aisyah] radliallahu 'anha, bahwa Sa'ad berkata; "Ya Allah, sesungguhnya Engkau mengetahui bahwasanya tidak ada seorangpun yang lebih aku cintai untuk aku perangi di jalan-Mu dari kaum yang telah mendustakan Rasul-Mu dan mengusir beliau. Ya Allah, sungguh aku yakin bahwa Engkau telah menghentikan perang antara kami dan mereka". Dan [Aban bin Yazid] berkata, telah menceritakan kepada kami [Hisyam] dari [bapaknya], ['Aisyah] radliallahu 'anha mengabarkan kepadaku; "..kaum yang telah mendustakan Nabi-Mu dan mengusirnya dari Quraisy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3901</td></tr><tr><td>Arabic No</td><td>3901</td></tr><tr><td>Reference</td><td>Book 63 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Са’д сказал: «О Аллах! Ты знаешь, что больше всего я люблю сражаться ради Тебя с людьми, которые сочли лжецом Твоего Посланника ﷺ и изгнали его. О Аллах! Я думаю, что Ты положил конец войне между нами и ними»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3901</td></tr><tr><td>Arabic No</td><td>3901</td></tr><tr><td>Reference</td><td>Book 63 Hadith 126</td></tr></tbody></table></div>
 

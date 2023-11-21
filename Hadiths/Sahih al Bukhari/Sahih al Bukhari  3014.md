@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:During some of the Ghazawat of the Prophet (ﷺ) a woman was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Yunus] telah mengabarkan kepada kami [Al Laits] dari [Nafi'] bahwa ['Abdullah radliallahu 'anhu] mengabarkan kepadanya bahwa ada seorang wanita yang ditemukan (dalam keadaan terbunuh) di sebagian peperangan Nabi shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam mengingkari pembunuhan terhadap wanita dan anak-anak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3014</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 56 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, что, когда во время одного из военных походов Пророка ﷺ была найдена убитая женщина, Посланник Аллаха ﷺ выразил своё порицание убиению женщин и детей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3014</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 56 Hadith 223</td></tr></tbody></table></div>
 

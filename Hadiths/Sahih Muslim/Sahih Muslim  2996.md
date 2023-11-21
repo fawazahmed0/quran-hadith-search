@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Bakr b. 'Abdullah reported:Anas (Allah be pleased with him) had narrated to us t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah meceritakan kepadaku [Umayyah bin Bistham Al 'Aisyi] Telah menceritakan kepada kami [Yazid bin Zurai'] Telah menceritakan kepada kami [Habib bin Asy Syahid] dari [Bakr bin Abdullah] Telah menceritakan kepada kami [Anas] radliallahu 'anhu bahwa ia pernah melihat Nabi shallallahu 'alaihi wasallam menggabungkan antata keduanya (haji dan umrah)." Bakr berkata; Lalu aku bertanya kepada [Ibnu Umar], maka ia pun berkata, "Kami Ihlal (memulai ihram) untuk haji." Kemudian aku pun kembali kepada Anas dan menyampaikan apa yang telah dikatakan oleh Ibnu Umar, maka ia pun berkata, "Sepertinya (saat itu), kami masih anak-anak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2996</td></tr><tr><td>Arabic No</td><td>1232.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2996</td></tr><tr><td>Arabic No</td><td>1232.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 204</td></tr></tbody></table></div>
 

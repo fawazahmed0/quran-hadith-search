@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I have not ceased to like Banu Tamim ever since I heard of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Jarir] dari ['Umarah bin Al Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] dia berkata; Saya akan senantiasa mencintai Bani Tamim, karena tiga hal yang pernah saya mendengar dari Rasulullah tentang mereka: Pertama, saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Mereka (Bani Tamim) adalah umatku yang paling gigih melawan Dajjal.' Kedua, ada seorang tawanan perempuan dari Bani Tamim di rumah Aisyah. Kemudian Rasulullah bersabda: 'Hai Aisyah, bebaskanlah ia! Karena ia adalah keturunan Ismail.' Ketiga, Rasulullah shallallahu 'alaihi wasallam pernah bersabda ketika ada zakat dari Bani Tamim: 'Ini adalah zakat kaum kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4366</td></tr><tr><td>Arabic No</td><td>4366</td></tr><tr><td>Reference</td><td>Book 64 Hadith 392</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «С тех пор как я услышал, что Посланник Аллаха ﷺ сказал о (людях из племени) бану тамим три вещи, я всегда любил их. Он сказал: “(Из всех членов) моей общины они проявят наибольшую стойкость (в противодействии) Даджалю”. У ‘Аиши была рабыня из числа (этих людей, и Пророк ﷺ) сказал (‘Аише): “Освободи её, ибо она из потомков Исма‘иля”. Когда от них доставили милостыню, Посланник Аллаха ﷺ сказал: “Это — милостыня моего народа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4366</td></tr><tr><td>Arabic No</td><td>4366</td></tr><tr><td>Reference</td><td>Book 64 Hadith 392</td></tr></tbody></table></div>
 

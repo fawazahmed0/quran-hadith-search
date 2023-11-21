@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:While the Prophet (ﷺ) was with one of his wives, one of the moth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Humaid] dari [Anas radliallahu 'anhu] bahwa ketika Nabi shallallahu 'alaihi wasallam sedang bersama sebagian isteri-isteri Beliau datang salah seorang Ummahatul Mu'minin bersama seorang pembantu membawa nampan besar berisi makanan lalu nampan itu dipukul oleh saorang isteri Beliau tersebut hingga pecah. Maka Beliau membereskan nampan pecah tersebut lalu meletakkan kembali makanan tersebut kedalam nampan kemudian berkata: "Makanlah". Lalu Beliau membiarkan pembantu dan nampan itu hingga mereka selesai makan kemudian datng mengganti nampan dengan nampan yang baru lalu membawa masuk nampan yang pecah". Dan [Ibnu Abi Maryam] berkata, telah mengabarkan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Humaid] telah menceritakan kepada kami [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2481</td></tr><tr><td>Arabic No</td><td>2481</td></tr><tr><td>Reference</td><td>Book 46 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды, когда) Пророк ﷺ находился у одной из своих жён, одна из матерей правоверных послала (ему) со слугой деревянное блюдо с едой. (Та жена, у которой находился Пророк ﷺ) ударила рукой (по этому блюду) и разбила его; что же касается (Пророка ﷺ) то он собрал (куски блюда), положил на них эту еду и сказал: “Ешьте”. И он задержал посланца вместе с этим блюдом, пока они не поели, а потом отдал ему целое блюдо, а разбитое оставил (у себя)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2481</td></tr><tr><td>Arabic No</td><td>2481</td></tr><tr><td>Reference</td><td>Book 46 Hadith 42</td></tr></tbody></table></div>
 

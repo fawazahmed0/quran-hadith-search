@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu syaibah] berkata, telah menceritakan kepada kami [Sufyan] dari [Az zuhri] dari [Amir bin Sa'd] dari [Bapaknya] ia berkata, 'Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya seorang muslim yang paling besar kejahatannya kepada kaum muslimin adalah seseorang yang bertanya tentang sesuatu yang belum diharamkan, lalu hal itu diharamkan atas semua manusia karena sebab pertanyaannya tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7289) Sahih Muslim (2358)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4610</td></tr><tr><td>Arabic No</td><td>4610</td></tr><tr><td>Reference</td><td>Book 42 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амир ибн Са‘д ибн Абу Ваккас передаёт от своего отца, что Посланник Аллаха ﷺ сказал: «Самое большое преступление против мусульман совершает тот из них, кто (без всякой нужды) спрашивает о чём-нибудь из того, что не было запрещено людям, а потом это становится запретным для них из-за его вопроса»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7289) Sahih Muslim (2358)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4610</td></tr><tr><td>Arabic No</td><td>4610</td></tr><tr><td>Reference</td><td>Book 42 Hadith 15</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "By Him in Whose Hands my life is! 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku [Sa'id in Al Musayyab] bahwa [Abu Hurairah radliallahu 'anhu] berkata aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada di tangan-Nya, seandainya ada sebagian orang-orang yang beriman tidak baik hati mereka dengan tidak mau menggikutiku untuk berperang dan aku tidak mampu lagi untuk membawa mereka. Sungguh aku tidak akan pernah mau ketinggalan dari pasukan perang (untuk berperang) di jalan Allah. Dan demi Dzat yang jiwaku di tangan-Nya, sungguh aku menginginkan untuk berperang lalu aku terbunuh di jalan Allah kamudian aku dihidupkan kembali lalu aku terbunuh kemudian dihidupkan kembali lalu terbunuh lagi kemudian aku dihiidupkan kembali lalu terbunuh lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>2797</td></tr><tr><td>Reference</td><td>Book 56 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Клянусь Тем, в Чьей руке моя душа, если бы не верующие мужи, которые не желают отставать от меня и те, которым я не могу найти верховых животных, то я не остался бы позади ни одного отряда, совершающего военный поход на пути Аллаха. Клянусь Тем, в Чьей руке моя душа, поистине, хотел бы я быть убитым на пути Аллаха, а потом воскрешённым, потом снова убитым и снова воскрешённым, а потом снова убитым и снова воскрешённым, а потом снова убитым!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>2797</td></tr><tr><td>Reference</td><td>Book 56 Hadith 15</td></tr></tbody></table></div>
 

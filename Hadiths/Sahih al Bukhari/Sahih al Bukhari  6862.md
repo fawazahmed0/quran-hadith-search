@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "A faithful believer remains at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Ishaq bin Sa'id bin Amru bin 'Ash] dari [Ayahnya] dari [Ibnu 'Umar] radliallahu 'anhuma mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang mukmin masih dalam kelonggaran agamanya selama dia tidak menumpahkan darah haram tanpa alasan yang dihalalkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6862</td></tr><tr><td>Arabic No</td><td>6862</td></tr><tr><td>Reference</td><td>Book 87 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ сказал: “Верующий не будет стеснён в своей религии до тех пор, пока не прольёт запретной крови”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6862</td></tr><tr><td>Arabic No</td><td>6862</td></tr><tr><td>Reference</td><td>Book 87 Hadith 2</td></tr></tbody></table></div>
 

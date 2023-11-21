@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Wahb al-Khuza'i reported:I prayed behind the Messenger of Allah (ﷺ) at Mina, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] telah menceritakan kepadaku [Haritsah binti Wahb Al Khuza'i] katanya; "Aku pernah shalat di belakang Rasulullah shallallahu 'alaihi wasallam di Mina, dan orang-orang melakukan apa yang telah berlaku, maka beliau melakukan dua rakaat ketika haji wada'." Muslim berkata; Haritsah bin Muslim Al Khuza'i adalah saudara seibu 'Ubaidullah bin Umar bin Khattab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1599</td></tr><tr><td>Arabic No</td><td>696.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Хариса ибн Вахб аль-Хуза‘и сказал: «Я совершал молитву за Посланником Аллаха ﷺ в Мине. Людей было очень много, и он (Посланник Аллаха ﷺ) совершил во время Прощального хаджа два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1599</td></tr><tr><td>Arabic No</td><td>696.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 30</td></tr></tbody></table></div>
 

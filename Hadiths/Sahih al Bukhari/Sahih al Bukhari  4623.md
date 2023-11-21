@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Musaiyab:Bahira is a she-camel whose milk is kept for the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] Telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Shalih bin Kaisan] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dia berkata; Bahirah adalah unta yang kantong susunya ditahan untuk berhala-berhala hingga tidak boleh bagi seorang pun memerasnya, sedangkan sa'ibah adalah unta yang mereka sebut untuk tuhan-tuhan mereka tidak boleh diberi beban tunggangan apa pun diatasnya. Ibnu Al Musayyib berkata: [Abu Hurairah] berkata: Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku melihat Amru bin Amir Al Khuza'i menyeret ususnya dineraka." Ia adalah orang pertama yang membuat unta sa'ibah. Sedangkan Al Washilah adalah unta yang masih perawan. Unta itu sengaja dibikin perawan semenjak diperanakan. Setelah itu dijodohkan dengan unta betina lagi. Unta itu mereka suguhkan untuk berhala-berhala mereka. hingga salah satunya bisa menyentuh yang lainnya tanpa ada unta jantan. Sedangkan Unta Haam adalah unta subur, mereka membiarkannya beranak hingga bilangan tertentu. Apabila telah selesai, ia tinggalkan untuk berhala-berhala mereka dan dijaga dari beban apapun hingga tidak boleh ada tunggangan apapun diatasnya. Mereka menamakannya Al Haami. Dan [Abul Yaman] berkata kepadaku; Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]; Aku mendengar [Sa'id] berkata; dia mengabarkan hal ini. perawi berkata; dan [Abu Hurairah] berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda dengan Hadits yang serupa. Diriwayatkan oleh [Ibnu Al Had] dari [Ibnu Syihab] dari [Sa'id] dari [Abu Hurairah radliallahu 'anhu]; Aku mendengar Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4623</td></tr><tr><td>Arabic No</td><td>4623</td></tr><tr><td>Reference</td><td>Book 65 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн аль-Мусаййиб сказал: «Бахира — (это верблюдица), молоко которой запрещалось (пить, поскольку она посвящалась) идолам, и никто из людей не доил её. А (что касается) саъибы, кото­рую они посвящали своим божествам, то на ней ничего не возили». \n(Са‘ид ибн аль-Мусаййиб) сказал: «И Абу Хурайра передал, что Посланник Аллаха ﷺ сказал: “Я видел, как ‘Амр ибн ‘Амир ибн Лухайй аль-Хуза‘и волочит свои кишки в Аду. Он был первым, кто ввёл обычай считать неприкосновенными (священными) [некоторых] домашних животных”». Васыля — это верблюдица, которая принесла два верблюжонка женского пола в двух помётах подряд, не рожая между ними верблюжонка мужского пола. Такую верблюдицу отпускали, посвящая идолов. Хами — назывался верблюд, завершивший определённое количество случек, после чего его отпускали, посвящая идолам, и освобождали от верховой езды и перевозки грузов. И они называли его Хами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4623</td></tr><tr><td>Arabic No</td><td>4623</td></tr><tr><td>Reference</td><td>Book 65 Hadith 145</td></tr></tbody></table></div>
 

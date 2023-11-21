@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported Allah's Messenger (ﷺ) as saying:You would soon conquer a la
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Harmalah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Harun bin Sa'id Al Aili]; Telah menceritakan kepada kami [Ibnu Wahb]; Telah menceritakan kepadaku [Harmalah] yaitu Ibnu 'Imran At Tujibi dari ['Abdur Rahman bin Syimasah Al Mahri] dia berkata; Aku mendengar [Abu Dzar] berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Sesungguhnya kamu sekalian (kaum Muslimin) pasti akan dapat menaklukkan negeri Mesir, yaitu suatu wilayah yang terkadang dinamakan Al Qirath. Apabila kalian telah dapat menguasai negeri Mesir, maka berbuat baiklah kepada para penduduknya! Karena, bagaimanapun, mereka memiliki hak untuk dilindungi, sebagaimana kaum kafir dzimmi ataupun karena hubungan tali saudara (atau sebagai dzimmi dan hubungan keluarga dari jalur pernikahan). Apabila kalian melihat dua orang yang sedang bertikai di Mesir di lokasi berbatu bata, maka keluarlah dari tempat itu! ' Abu Dzar berkata; 'Ternyata saya melihat Abdurrahman bin Syurahbil bin Hasanah dan saudaranya yang laki-laki, yaitu Rabi'ah sedang bertengkar di tempat batu bata, maka saya pun keluar dan tempat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6493</td></tr><tr><td>Arabic No</td><td>2543.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 322</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6493</td></tr><tr><td>Arabic No</td><td>2543.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 322</td></tr></tbody></table></div>
 

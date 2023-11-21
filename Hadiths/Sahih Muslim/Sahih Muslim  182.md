@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah obser
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu ar-Rabi' az-Zahrani] telah memberitakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] telah menceritakan kepada kami [Muhammad] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Telah datang penduduk Yaman, mereka adalah kaum yang paling lembut hatinya. Iman ada pada orang Yaman. Fiqh juga ada pada orang Yaman. Hikmah juga ada pada orang Yaman." Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Amru an-Naqid] telah menceritakan kepada kami [Ishaq bin Yusuf al-Azraq] keduanya dari [Ibnu Aun] dari [Muhammad] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>52.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Пришли (к вам) люди из Йемена, сердца которых являются более тонкими и мягкими, (чем сердца других людей). Вера /иман/ в Йемене, и понимание религии /фикъх/ в Йемене, а йеменцам присуща мудрость»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>52.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 89</td></tr></tbody></table></div>
 

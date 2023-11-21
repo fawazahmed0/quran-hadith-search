@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : Nous arrivâmes à Médine alors qu'il
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdah] dari [Hisyam] dari [bapaknya] dari [Aisyah] ia berkata; Dulu aku datang ke Madinah ketika kota ini banyak penyakitnya. Sehingga Abu Bakar dan Bilal jatuh sakit. Maka beliau pun berdo'a: "Ya Allah, berikanlah kecintaan kepada kami terhadap kota Madinah sebagaimana Engkau memberikan kepada kami kecintaan terhadap Makkah, atau bahkan lebih dari Makkah. Jadikanlah Madinah sebagai kota yang sehat, dan berikanlah keberkahan pada takaran Sha' dan takaran Mudd kami, serta pindahkan penyakitnya ke Juhfah." Dan Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] dan [Ibnu Numair] dari [Hisyam bin Urwah] dengan isnad ini, semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3342</td></tr><tr><td>Arabic No</td><td>1376.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 546</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3342</td></tr><tr><td>Arabic No</td><td>1376.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 546</td></tr></tbody></table></div>
 

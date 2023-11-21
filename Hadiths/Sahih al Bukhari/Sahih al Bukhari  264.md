@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) and one of his wives used to take a ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari ['Abdullah bin 'Abdullah bin Jabr] berkata, aku mendengar [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam dan salah seorang dari isterinya mandi dalam satu bejana." [Muslim] dan [Wahb bin Jarir] dari [Syu'bah] menambahkan, "Karena junub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>264</td></tr><tr><td>Arabic No</td><td>264</td></tr><tr><td>Reference</td><td>Book 5 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Абуль-Валид, который сказал: Рассказал нам Шу‘ба от ‘Абдуллаха ибн ‘Абдуллах ибн Джабр, который сказал:\n— Я слышал, как Анас ибн Малик говорил: «Обычно Пророк ﷺ и женщина из числа его жён, купались (набирая воду) из одного и того же сосуда».\nМуслим и Вахб привели от Шу‘бы дополнение: «… из-за полового осквернения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>264</td></tr><tr><td>Arabic No</td><td>264</td></tr><tr><td>Reference</td><td>Book 5 Hadith 17</td></tr></tbody></table></div>
 

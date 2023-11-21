@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:The Prophet (ﷺ) delivered the Khutba after offerin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Asy Sya'bi] dari [Al Bara' bin 'Azib] radliallahu 'anhu, ia berkata, "Nabi shallallahu 'alaihi wasallam menyampaikan khutbah pada hari Raya Qurban ('Iedul Adlha) setelah melaksankan shalat. Beliau bersabda: "Barangsiapa melaksanakan shalat seperti shalat kami dan melaksanakan manasik seperti manasik kami maka dia telah melaksanakan manasik (menyembelih kurban). Dan barangsiapa menyembelih kurban sebelum shalat berarti dia malaksanakannya sebelum shalat, dan berarti dia belum melaksanakan manasik (berkurban)." Abu Burdah bin Niyar, paman Al Bara', berkata, "Wahai Rasulullah, aku telah menyembelih dua ekor kambing sebelum shalat, dan yang aku ketahui bahwa hari ini adalah hari kita bergembira dengan makan dan minum. Dan aku menyukai bila dua ekor kambingku itu menjadi yang pertama disembelih di rumahku lalu aku memasaknya dan menikmatinya sebelum aku berangkat untuk shalat!" Beliau bersabda: "Kambingmu setatusnya adalah kambing yang disembelih untuk diambil dagingnya (bukan daging kurban)." Laki-laki itu berkata lagi, "Wahai Rasulullah, kami masih memiliki anak kambing yang dia lebih kami cintai dari dua ekor kambing tadi. Apakah aku dibolehkan berkurban dengannya?" Nabi shallallahu 'alaihi wasallam menjawab: "Ya. Akan tetapi tidak boleh untuk seorangpun setelah kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>955</td></tr><tr><td>Arabic No</td><td>955</td></tr><tr><td>Reference</td><td>Book 13 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара бин ‘Азиб, да будет доволен Аллах ими обоими, сказал: «Однажды в день жертвоприношения Пророк ﷺ обратился к нам с проповедью после намаза и сказал: “Совершивший молитву подобно нам и совершивший жертвоприношение подобно нам совершит его правильно, а тот, кто принесёт жертву до молитвы, то принесёт её до молитвы и не совершит жертвоприношения вообще”. (Услышав это,) Абу Бурда ибн Нийар, брат матери аль-Бара, сказал: “О Посланник Аллаха, а я принёс свою овцу в жертву до молитвы, так как знал, что сегодня (праздник, и люди будут) есть и пить, и желал, чтобы моя овца оказалась первой, которую принесут в жертву в моём доме! (Вот почему) я заколол свою овцу и поел, прежде чем прийти на молитву”. (На это Пророк ﷺ) сказал: “Твоя овца может пойти только на мясо”. (Абу Бурда) сказал: “О Посланник Аллаха, у нас есть ещё маленькая козочка, которая для меня дороже двух овец. Может ли она послужить мне заменой?” Он сказал: “Да, но после тебя это не послужит заменой уже никому!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>955</td></tr><tr><td>Arabic No</td><td>955</td></tr><tr><td>Reference</td><td>Book 13 Hadith 7</td></tr></tbody></table></div>
 

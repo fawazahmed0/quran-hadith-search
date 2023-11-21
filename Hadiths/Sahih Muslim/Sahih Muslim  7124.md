@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mughira b. Shu'ba reported that Allah's Apostle (ﷺ) worshipped so much that hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu Awanah] dari [Ziyad bin Ilaqah] dari [Al Mughirah bin Syu'bah] nabi Shallallahu 'alaihi wa Salam shalat hingga kedua kaki beliau bengkak, dikatakan pada beliau: Apa Tuan memaksakan ini padahal Allah telah mengampuni dosa yang terlalu dan yang dikemudian. Beliau menyahut: "Apakah aku tidak menjadi hamba yang bersyukur?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7124</td></tr><tr><td>Arabic No</td><td>2819.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7124</td></tr><tr><td>Arabic No</td><td>2819.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 77</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), le Prophète (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Rumh] telah mengabarkan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah sebagian kalian membeli barang yang telah ditawar, dan janganlah sebagian kalian meminang wanita yang telah dipinang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3454</td></tr><tr><td>Arabic No</td><td>1412.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3454</td></tr><tr><td>Arabic No</td><td>1412.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 57</td></tr></tbody></table></div>
 

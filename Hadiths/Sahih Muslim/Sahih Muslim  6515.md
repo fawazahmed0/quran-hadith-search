@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Dinar reported that when 'Abdullah b. 'Umar set out to Mecea, 'he ke
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hasan bin 'Ali Al Hulwani]; Telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'ad]; Telah menceritakan kepada kami [Bapakku] dan [Al Laits bin Sa'ad] seluruhnya dari [Yazid bin 'Abdullah bin Usamah bin Al Hadi] dari ['Abdullah bin Dinar] dari [Ibnu 'Umar] bahwasanya apabila ia hendak ke Makkah, maka biasanya ia membawa keledainya untuk dikendarainya jika -ia sudah bosan untuk mengendarai unta, - sambil mengikatkan sorban pada kepalanya. Pada suatu hari, ketika ia sedang mengendarai keledainya, tiba-tiba ada seorang laki-laki Arab badui yang lewat, maka dia berkata; "Bukankah kamu ini adalah fulan bin fulan?" Orang tersebut menjawab; 'Ya, benar.' Lalu Ibnu Umar memberikan keledainya kepada orang itu sambil berkata; 'Ambillah keledai ini untuk kendaraanmu! ' Selain itu, ia juga memberikan sorbannya dengan mengatakan; 'lkatkanlah surban ini di kepalamu! ' Salah seorang sahabat berkata kepada Abdullah bin Umar; 'Semoga Allah mengampunimu hai lbnu Umar, karena kamu telah memberikan keledai yang biasa kamu jadikan kendaraanmu dan sorban yang biasa kamu ikatkan di kepalamu kepada orang Arab badui itu.' Abdullah bin Umar menjawab; 'Wahai sahabat ketahuilah bahwasanya saya pernah mendengar Rasulullah bersabda: 'Di antara bakti seseorang yang paling baik kepada orang tuanya adalah menyambung tali keluarga karib orang tuanya setelah orang tuanya meninggal dunia.' Sesungguhnya bapak orang Arab badui itu dahulu adaIah teman Umar bin Khaththab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6515</td></tr><tr><td>Arabic No</td><td>2552.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6515</td></tr><tr><td>Arabic No</td><td>2552.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 15</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:Allah's Messenger (ﷺ) took hold of my hand one day
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ya'qub bin Ibrahim Ad Dauraqi], Telah menceritakan kepada kami [Ismail] yaitu Ibnu 'Ulayyah dari [Al Mutsanna bin Sa'id], Telah menceritakan kepadaku [Thalhah bin Nafi'] bahwa dia mendengar [Jabir bin Abdullah] berkata; 'Suatu hari aku diajak Rasulullah shallallahu 'alaihi wasallam ke rumahnya, kemudian beliau mengeluarkan sepotong roti. Beliau bertanya kepada istri-istrinya: "Apakah ada lauk pauk?" Mereka menjawab; 'Tidak ada, kecuali sedikit cuka. Lalu beliau bersabda: 'Sesungguhnya cuka adalah sebaik-baik lauk.' Jabir berkata; 'Aku menyukai cuka sejak aku mendengarnya dari Nabiyullah shallallahu 'alaihi wasallam. Dan Thalhah berkata; Aku menyukai cuka sejak aku mendengarnya dari JabirTelah menceritakan kepada kami [Nashr bin Ali Al Jahdlami] Telah menceritakan kepadaku [Bapaku], Telah menceritakan kepada kami [Al Mutsanna bin Sa'id] dari [Thalhah bin Nafi'], Telah menceritakan kepada kami [Jabir bin Abdullah] bahwa Rasulullah shallallahu 'alaihi wasallam, mengajak dia ke rumahnya seperti yang disebutkan pada Hadits 'Ulayyah hingga sabda beliau: 'Sebaik-baik lauk adalah cuka.' Tanpa menyebutkan kalimat lain sesudah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5353</td></tr><tr><td>Arabic No</td><td>2052.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5353</td></tr><tr><td>Arabic No</td><td>2052.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 227</td></tr></tbody></table></div>
 

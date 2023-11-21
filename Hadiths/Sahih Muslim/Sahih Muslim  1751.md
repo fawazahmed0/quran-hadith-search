@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported:A person asked the Messenger of Allah (ﷺ) as I stoo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Rabi' Az Zarani] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] dan [Budail] dari [Abdullah bin Syaqiq] dari [Abdullah bin Umar], bahwa seorang laki-laki bertanya kepada Nabi shallallahu 'alaihi wasallam, ketika itu aku berada diantara beliau dan penanya; "Wahai Rasulullah, bagaimanakah tata cara shalat malam?" Beliau menjawab: "Dua-dua, jika kamu khawatir tiba waktu shalat subuh, maka (witirlah) satu rakaat, dan jadikanlah akhir shalatmu witir." Tidak beberapa lama, seorang laki-laki yang telah mengakhiri masa berkabungnya bertanya kepada beliau, ketika itu aku masih disisi Rasulullah shallallahu 'alaihi wasallam. Aku tidak tahu, apakah yang bertanya laki-laki tadi ataukah laki-laki lain, dia bertanya kepada beliau seperti sebelumnya." Dan telah menceritakan kepadaku [Abu Kamil] telah menceritakan kepadaku [Hammad] telah menceritakan kepada kami [Ayyub] dan [Budail] dan ['Imran bin Hudair] dari [Abdullah bin Syaqiq] dari [Ibnu Umar], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Muhammad bin 'Ubaid Al Ghubari] dan telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] dan [Zubair bin Khirrit] dari [Abdullah bin Syaqiq] dari [Ibnu Umar] katanya; "Seorang laki-laki bertanya kepada Nabi shallallahu 'alaihi wasallam…" lantas keduanya menyebutkan hadits semisalnya, dan dalam hadis keduanya tak ada kalimat "Kemudian seorang laki-laki yang telah mengakhiri masa berkabungnya bertanya kepada beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1751</td></tr><tr><td>Arabic No</td><td>749.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, что один человек задал Пророку ﷺ вопрос в то время, как я был между ним и спрашивающим, сказав: «О Посланник Аллаха, как (следует совершать добровольную) ночную молитву?» Пророк ﷺ ответил: «Ночная молитва состоит из) парных (рак‘атов), если же ты станешь опасаться, (что скоро наступит) утро, соверши молитву в один рак‘ат, завершай свою (ночную) молитву нечётным количеством рак‘атов». Затем, через год один человек снова задал этот вопрос Посланнику Аллаха ﷺ, а я находился на том же месте, и я не знаю был это тот же человек или другой, и (Пророк ﷺ) ответил ему то же самое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1751</td></tr><tr><td>Arabic No</td><td>749.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 180</td></tr></tbody></table></div>
 

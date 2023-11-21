@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Talha bin 'Abdullah bin 'Auf:I offered the funeral prayer behind Ibn 'A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Sa'ad] dari [Tholhah] berkata,: Aku shalat dibelakang [Ibnu 'Abbas] radliallahu 'anhuma. Dan diriwayatkan pula oleh [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Saad bin Ibrahim] dari [Tholhah bin 'Abdullah bin 'Auf] berkata; Aku shalat dibelakang [Ibnu 'Abbas] radliallahu 'anhuma pada suatu jenazah, lalu ia membaca surat Al Fatihah, ia berkata, agar orang-orang tahu bahwa itu merupakan sunah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 23 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Тальха ибн ‘Абдуллах ибн ‘Ауф сказал: «(Однажды) я совершал намаз джаназа за Ибн ‘Аббасом, да будет доволен ими обоими Аллах, и он прочитал суру “Открывающую Писание”, а потом сказал: “Пусть (люди) знают, что это — Сунна!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 23 Hadith 90</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Hind bint 'Utba came and said, "O Allah's Messenger (ﷺ)! Abu S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Muqatil] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Yunus] dari [Ibnu Syihab] Telah mengabarkan kepadaku [Urwah] bahwa [Aisyah] radliallahu 'anha berkata; Hindun binti Utbah datang seraya berkata, "Wahai Rasulullah, sesungguhnya Abu Shufyan adalah seorang laki-laki yang pelit. Berdosakah aku, bila aku memberi makan keluarga kami dari harta benda miliknya?" beliau menjawab: "Tidak. Dan kamu mengambilnya secara wajar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5359</td></tr><tr><td>Arabic No</td><td>5359</td></tr><tr><td>Reference</td><td>Book 69 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Как-то раз пришла Хинд бинт ‘Утба и сказала: “О Посланник Аллаха! Поистине, Абу Суфйан — человек скупой, так будет ли грехом, если я стану кормить нашу семью из того, что принадлежит ему?” Он сказал ей: “Нет греха на тебе в том, что ты будешь кормить их сообразно обычаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5359</td></tr><tr><td>Arabic No</td><td>5359</td></tr><tr><td>Reference</td><td>Book 69 Hadith 9</td></tr></tbody></table></div>
 

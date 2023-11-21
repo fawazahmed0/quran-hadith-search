@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda's father: Allah's Messenger (ﷺ) said "Three persons will ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Muhammad Ibnu Salam], Telah menceritakan kepada kami [Al Muharibi] berkata, Telah menceritakan kepada kami [Shalih bin Al Hayyan] berkata, telah berkata ['Amir Asy Sya'bi]; telah menceritakan kepadaku [Abu Burdah] dari [bapaknya] berkata, telah bersabda Rasulullah shallallahu 'alaihi wasallam: "Ada tiga orang yang akan mendapat pahala dua kali; seseorang dari Ahlul Kitab yang beriman kepada Nabinya dan beriman kepada Muhammad shallallahu 'alaihi wasallam, dan seorang hamba sahaya yang menunaikan hak Allah dan hak tuannya. Dan seseorang yang memiliki hamba sahaya wanita lalu dia memperlakukannya dengan baik, mendidiknya dengan baik, dan mengajarkan kepadanya dengan sebaik-baik pengajaran, kemudian membebaskannya dan menikahinya, maka baginya dua pahala". Berkata 'Amir: "Aku berikan permasalahan ini kepadamu tanpa imbalan, dan sungguh telah ditempuh untuk memperolehnya dengan menuju Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>97</td></tr><tr><td>Arabic No</td><td>97</td></tr><tr><td>Reference</td><td>Book 3 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса аль-Аш‘ари, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Троим уготована двойная награда: человеку из числа обладателей Писания, уверовавшему в своего Пророка, а (затем) уверовавшему и в Мухаммада, подневольному рабу, если он выполняет свои обязанности по отношению к Аллаху и по отношению к своим хозяевам, а также человеку, имевшему рабыню, с которой он сожительствовал и которую должным образом воспитывал и обучал, а потом освободил её и женился на ней, − (каждому из них) уготована двойная награда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>97</td></tr><tr><td>Arabic No</td><td>97</td></tr><tr><td>Reference</td><td>Book 3 Hadith 39</td></tr></tbody></table></div>
 

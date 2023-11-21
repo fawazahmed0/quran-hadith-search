@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) sacrificed two horned rams which 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], telah menceritakan kepada kami [Isa], telah menceritakan kepada kami [Muhammad bin Ishaq], dari [Yazid bin Abu Habib], dari [Abu 'Ayyasy] dari [Jabir bin Abdullah], ia berkata; Nabi shallallahu 'alaihi wasallam pada hari Kurban menyembelih dua domba yang bertanduk dan berwarna abu-abu yang terkebiri. Kemudian tatkala beliau telah menghadapkan keduanya beliau mengucapkan: "INNII WAJJAHTU WAJHIYA LILLADZII FATHARAS SAMAAWAATI WAL ARDHA 'ALAA MILLATI IBRAAHIIMA HANIIFAN WA MAA ANA MINAL MUSYRIKIIN, INNA SHALAATII WA NUSUKII WA MAHYAAYA WA MAMAATII LILLAAHI RABBIL 'AALAMIIN, LAA SYARIIKA LAHU WA BIDZAALIKA UMIRTU WA ANA MINAL MUSLIMIIN. ALLAAHUMMA MINKA WA LAKA WA 'AN MUHAMMADIN WA UMMATIHI. BISMILLAAHI WALLAHU AKBAR" (Sesungguhnya aku telah menghadapkan wajahku kepada Dzat yang telah menciptakan langit dan bumi di atas agama Ibrahim dengan lurus, dan aku bukan termsuk orang-orang yang berbuat syirik. Sesungguhnya shalatku, dan sembelihanku serta hidup dan matiku adalah untuk Allah Tuhan semesta alam, tidak ada sekutu bagiNya, dengan itu aku diperintahkan, dan aku termasuk orang-orang yang berserah diri. Ya Allah, ini berasal dariMu dan untukMu, dari Muhammad dan ummatnya. Dengan Nama Allah, dan Allah Maha Besar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2795</td></tr><tr><td>Arabic No</td><td>2795</td></tr><tr><td>Reference</td><td>Book 16 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен им Аллах: «Пророк ﷺ зарезал в день жертвоприношения двух рогатых холощёных баранов с чёрно-белой шерстью. Повернув их в сторону киблы, (Посланник Аллаха ﷺ) сказал: “Поистине, я обратил лицо своё к Тому, Кто сотворил небеса и землю, придерживаясь религии Ибрахима, который был приверженцем единобожия и не принадлежал к числу многобожников. Воистину, моя молитва и моё жертвоприношение, моя жизнь и моя смерть посвящены Аллаху, Господу миров, у Которого нет сотоварищей. Это мне велено, и я являюсь одним из мусульман. О Аллах! От Тебя и для Тебя, от Мухаммада и его общины. С именем Аллаха. Аллах Велик!” Сказав это, он зарезал (баранов)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2795</td></tr><tr><td>Arabic No</td><td>2795</td></tr><tr><td>Reference</td><td>Book 16 Hadith 8</td></tr></tbody></table></div>
 

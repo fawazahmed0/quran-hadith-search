@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin 'Amir:My sister vowed to go on foot to the Ka'ba, and she ask
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] telah mengabarkan kepada mereka berkata, telah mengabarkan kepada saya [Sa'id bin Abu Ayyub] bahwa [Yazid bin Abu Habib] telah mengabarkan kepadanya bahwa [Abu Al Khair] menceritakan kepadanya dari ['Uqbah bin 'Amir] berkata: "Saudara perempuanku telah bernadzar untuk berjalan kali menuju Baitullah lalu dia menyuruh aku untuk meminta fatwa kepada Nabi shallallahu 'alaihi wasallam. Aku datang meminta fatwa kepada Beliau, maka Beliau shallallahu 'alaihi wasallam bersabda: "Hendaklah dia berjalan kaki dan berkendaraan". Yazid bin Abu Habib berkata: Abu Al Khair tidak pernah berpisah dari 'Uqbah. Abu 'Abdullah Al Bukhariy berkata, telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Yahya bin Ayyub] dari [Yazid] dari [Abu Al Khair] dari ['Uqbah], lalu dia menyebutkan hadits tersebut diatas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1866</td></tr><tr><td>Arabic No</td><td>1866</td></tr><tr><td>Reference</td><td>Book 28 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба бин ‘Амир, да будет доволен им Аллах, сказал: «(В своё время) моя сестра дала обет проделать путь до Дома Аллаха пешком и велела мне спросить, что скажет на это Пророк ﷺ и я спросил его (об этом), а он ﷺ сказал: “Пусть и идёт, и едет верхом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1866</td></tr><tr><td>Arabic No</td><td>1866</td></tr><tr><td>Reference</td><td>Book 28 Hadith 46</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya:Allah's Messenger (ﷺ) , concerning his (dead) daughter's b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah menceritakan kepada kami [Khalid] dari [Hafshah binti Sirin] dari [Ummu 'Athiyyah] radliallahu 'anhu berkata; Telah bersabda Rasulullah shallallahu 'alaihi wasallam ketika pemandian puteri Beliau yang meninggal dunia: "Mulailah dengan anggota badan yang kanan dan anggota wudhu' dari badan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1255</td></tr><tr><td>Arabic No</td><td>1255</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Умм ‘Атыййа, да будет доволен ею Аллах, что (Пророк ﷺ) сказал: «Начинайте (обмывать тело) с правой стороны и с тех его частей, которые необходимо омывать при омовении /вуду/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1255</td></tr><tr><td>Arabic No</td><td>1255</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
 

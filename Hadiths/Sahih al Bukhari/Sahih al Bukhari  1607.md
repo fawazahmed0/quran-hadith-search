@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas.:In his Last Hajj the Prophet (ﷺ) performed Tawaf of the K
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] dan [Yahya bin Sulaiman] keduanya berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepada saya [Yunus] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi Shallallahu'alaihiwasallam melaksanakan thawaf ketika hajji wada' (perpisahan) diatas untanya dan Beliau menyentuh Ar-Rukun (Al Hajar Al Aswad) menggunakan tongkat". Hadits ini juga diikuti oleh [Ad-Darawardiy] dari anak saudara laki-laki [Az Zuhriy] dari pamannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1607</td></tr><tr><td>Arabic No</td><td>1607</td></tr><tr><td>Reference</td><td>Book 25 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Во время прощального паломничества Пророк ﷺ совершил обход Каабы, сидя верхом на верблюде и дотронувшись до угла палкой с изогнутым концом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1607</td></tr><tr><td>Arabic No</td><td>1607</td></tr><tr><td>Reference</td><td>Book 25 Hadith 93</td></tr></tbody></table></div>
 

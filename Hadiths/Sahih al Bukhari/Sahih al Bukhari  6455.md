@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The family of Muhammad did not eat two meals on one day, but one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Ibrahim bin Abdurrahman] telah menceritakan kepada kami [Ishaq] yaitu Al Azraq dari [Mis'ar bin Kidam] dari [Hilal Al Wazzan] dari ['Urwah] dari [Aisyah] radliallahu 'anha dia berkata; "Keluarga Muhammad tidak pernah makan hingga dua kali dalam sehari melainkan salah satunya dengan makan kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6455</td></tr><tr><td>Arabic No</td><td>6455</td></tr><tr><td>Reference</td><td>Book 81 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказала ‘Аиша, да будет доволен ею Аллах: «Семья Мухаммада ﷺ не ела два раза в день, кроме как один из двух приемов пищи был из фиников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6455</td></tr><tr><td>Arabic No</td><td>6455</td></tr><tr><td>Reference</td><td>Book 81 Hadith 44</td></tr></tbody></table></div>
 

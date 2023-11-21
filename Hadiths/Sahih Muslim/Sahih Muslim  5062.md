@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Jubair reported that Ibn 'Umar happened to pass by some young men of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Abu Bisyr] dari [Sa'id bi Jubair] dia berkata, "Suatu ketika [Ibnu Umar] melewati beberapa pemuda orang Quraisy yang mengurung seekor burung untuk sasaran memanah. Mereka membayar kepada pemilik burung setiap panahan yang tidak mengena. Tatkala mereka melihat Ibnu Umar, mereka lari berpencar. Lantas Ibnu Umar berkata, "Siapakah yang melakukan perbuatan ini? Allah telah melaknat orang yang melakukan hal ini. Sungguh, Rasulullah shallallahu 'alaihi wasallam mengutuk orang yang menjadikan makhluk bernyawa sebagai sasaran (menembak)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5062</td></tr><tr><td>Arabic No</td><td>1958.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5062</td></tr><tr><td>Arabic No</td><td>1958.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
 

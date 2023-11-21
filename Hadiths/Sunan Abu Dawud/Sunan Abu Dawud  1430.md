@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubayy ibn Ka'b: When the Messenger of Allah (ﷺ) offered salutation in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Muhammad bin Abu 'Ubaidah], telah menceritakan kepada Kami [ayahku] dari [Al A'masy] dari [Thalhah Al Ayami] dari [Dzar] dari [Sa'id? bin Abdurrahman bin Abza] dari [ayahnya] dari [Ubai bin Ka'b], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam apabila telah melakukan salam dalam shalat witir beliau mengucapkan: "SUBHAANAL MALIKIL QUDDUUS" (Maha suci Raja Yang Maha Suci)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1430</td></tr><tr><td>Arabic No</td><td>1430</td></tr><tr><td>Reference</td><td>Book 8 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Убаййа ибн Ка‘ба, да будет доволен им Аллах, что Посланник Аллаха ﷺ совершая витр, говорил после таслима: «Пречист Властитель, Лишённый недостатков! /Субхана-ль-Малики-ль-Куддус/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1430</td></tr><tr><td>Arabic No</td><td>1430</td></tr><tr><td>Reference</td><td>Book 8 Hadith 15</td></tr></tbody></table></div>
 

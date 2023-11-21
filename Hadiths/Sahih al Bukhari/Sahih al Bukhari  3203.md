@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:On the day of a solar eclipse, Allah's Messenger (ﷺ) stood up 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata telah mengabarkan kepadaku ['Urwah] bahwa ['Aisyah radliallahu 'anhuma] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam ketika hari terjadinya gerhana matahari, Beliau berdiri melaksanakan shalat. Beliau membaca takbir, kemudian membaca dengan bacaan surat yang panjang, lalu ruku' dengan ruku' yang panjang (lama) lalu mengangkat kepalanya seraya membaca sami'allahu liman hamidah. Lalu Beliau kembali berdiri sebagaimana sebelumnya dan membaca bacaan yang panjang namun kurang dari bacaannya yang pertama tadi, lalu ruku' dengan ruku' yang panjang namun kurang dari ruku'nya yang pertama tadi, lalu sujud dengan sujud yang panjang. Kemudian Beliau melakukannya seperti itu pada raka'at yang akhir lalu memberi salam sementara matahari sudah tampak kembali. Lalu Beliau menyampaikan khathbah di hadapan manusia dan berkata tentang gerhana matahari dan bulan bahwa: "Keduanya adalah dua tanda dari tanda-tanda kebesaran Allah, tidak mengalami gerhana disebabkan karena mati atau hidupnya seseorang. Maka jika kalian melihat gerhana keduanya, bersegeralah mendirikan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3203</td></tr><tr><td>Arabic No</td><td>3203</td></tr><tr><td>Reference</td><td>Book 59 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала, что в день, когда произошло солнечное затмение, Посланник Аллаха ﷺ встал, произнёс такбир и долго читал (Коран), затем совершил продолжительный поясной поклон, затем поднял голову и сказал: «Сами‘а Аллаху лиман хамидах!» Затем остался стоять, и читал долгим чтением, которое было короче первого, затем совершил продолжительный поясной поклон, который был короче первого. Затем он совершил долгий земной поклон, и он сделал то же самое во втором рак‘ате. Затем он закончил молитву, произнеся «таслим» к тому времени, когда затмение закончилось. Он обратился к людям, сказав относительно солнечного и лунного затмения: «Они являются знамениями из знамений Аллаха, и они не затмевают из-за смерти или жизни кого-то. Поэтому, когда вы увидите (подобное), совершайте молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3203</td></tr><tr><td>Arabic No</td><td>3203</td></tr><tr><td>Reference</td><td>Book 59 Hadith 14</td></tr></tbody></table></div>
 

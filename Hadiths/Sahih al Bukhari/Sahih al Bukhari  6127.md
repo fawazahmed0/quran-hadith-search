@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Azraq bin Qais:We were in the city of Al-Ahwaz on the bank of a rive
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Al Azraq bin Qais] dia berkata; "Kami pernah berada di tepi sungai di Ahwaz yang airnya sedikit mengering, tiba-tiba [Abu Barzah Al Aslami] datang dengan mengendarai kuda, lalu dia mengerjakan shalat dengan membiarkan kudanya, tiba-tiba kudanya kabur, dia pun membatalkan shalatnya untuk mengejar kudanya yang kabur hingga ia dapat menangkapnya lagi, kemudian dia kembali untuk mengqadla' shalatnya. Ternyata di antara kami ada seorang laki-laki yang memiliki pikiran (lain), ia lalu menghadap dan berkata; "Lihatlah orang tua ini, ia meninggalkan (membatalkan) shalatnya karena seekor kuda." Setelah itu Abu Barzah menemuinya dan berkata; "Tidak ada seorang pun yang sangat mencelaku semenjak saya berpisah dengan Rasulullah shallallahu 'alaihi wasallam, " katanya selanjutnya; "Sesungguhnya tempat tinggalku sangatlah jauh, sekiranya aku shalat dan membiarkan kudaku, niscaya aku pulang ke keluarga sampai larut malam." Dan Al Azraq menyebutkan bahwa dia telah menemani Rasulullah shallallahu 'alaihi wasallam dan ikut berperang bersama beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6127</td></tr><tr><td>Arabic No</td><td>6127</td></tr><tr><td>Reference</td><td>Book 78 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Азрак ибн Кайс рассказал: «(Однажды,) когда мы находились на берегу высохшей реки в аль-Ахвазе, верхом на коне приехал Абу Барза аль-Аслями. Он стал совершать молитву, отпустив коня. Конь убежал, и он погнался за ним, оставив молитву. Догнав его, он вернулся и совершил молитву. Среди нас был человек, придерживающийся мнения (хариджитов), который стал говорить: “Посмотрите на этого старца, он оставил молитву из-за коня!” Закончив молиться, Абу Барза сказал: “Никто не бранил меня с тех пор, как я расстался с Посланником Аллаха ﷺ”. Затем он сказал: “Поистине, мой дом находится очень далеко, и если бы я продолжил совершать молитву, оставив его (коня), то не смог бы добраться до дома до самой ночи”. Также он упомянул, что был сподвижником Пророка ﷺ и видел его снисходительность»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6127</td></tr><tr><td>Arabic No</td><td>6127</td></tr><tr><td>Reference</td><td>Book 78 Hadith 154</td></tr></tbody></table></div>
 

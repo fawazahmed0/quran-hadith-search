@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah ibn AbuSufyan: Mu'awiyah said to the Companions of the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1794</td></tr><tr><td>Arabic No</td><td>1794</td></tr><tr><td>Reference</td><td>Book 11 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Шейх аль-Хунаи Хайван ибн Хальда из числа жителей Басры, один из учившихся у Абу Мусы аль-Аш‘ари, передаёт, что Му‘авия ибн Абу Суфьян сказал сподвижникам Пророка ﷺ: «Знаете ли вы, что Посланник Аллаха ﷺ запретил то-то и запретил ездить на леопардовых шкурах?» Они ответили: «Да». Тогда он сказал: «А знаете ли вы, что Посланник Аллаха ﷺ запретил соединять ‘умру с хаджем?» Они ответили: «Нет». Му‘авия сказал: «Этот запрет был среди тех запретов, однако вы забыли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1794</td></tr><tr><td>Arabic No</td><td>1794</td></tr><tr><td>Reference</td><td>Book 11 Hadith 74</td></tr></tbody></table></div>
 

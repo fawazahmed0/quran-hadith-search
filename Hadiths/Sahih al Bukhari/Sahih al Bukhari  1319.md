@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ash-Shaibani:Ash Shu'bi said, "I was informed by a man who had seen the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Asy-Syaibaniy] dari [Asy-Sya'biy] berkata, telah mengabarkan kepada saya seorang yang menyaksikan bahwa Nabi Shallallahu'alaihiwasallam pernah mendatangi kuburan yang terpisah (dari kuburan lain). Maka Beliau membariskan mereka lalu bertakbir empat kali. Aku bertanya kepadanya: "Siapakah yang menceritakan ini kepadamu?". Dia menjawab: " [Ibnu 'Abbas] radliallahu 'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1319</td></tr><tr><td>Arabic No</td><td>1319</td></tr><tr><td>Reference</td><td>Book 23 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Аш-Ша‘би сказал: «Мне сообщил тот, кто видел, как однажды Пророк ﷺ проходил могилы, находившейся отдельно от других могил. Он выстроил людей в ряд, и произнёс четыре такбира». Передатчик сказал: «Я спросил аш-Ша‘би: “Кто рассказал тебе это?” Он ответил: “Ибн ‘Аббас, да будет доволен Аллах им и его отцом”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1319</td></tr><tr><td>Arabic No</td><td>1319</td></tr><tr><td>Reference</td><td>Book 23 Hadith 76</td></tr></tbody></table></div>
 

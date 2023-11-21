@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:I heard the Prophet (ﷺ) saying, "None plots against the people o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Husain bin Huraits] telah mengabarkan kepada kami [Al Fadhal] dari [Ju'aid] dari ['Aisyah, yang maksudnya anak puteri Sa'ad] berkata; aku mendengar [Sa'ad radliallahu 'anhu] berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: 'Tidak ada seorangpun yang memperdaya (membuat tipu daya) bagi penduduk Madinah kecuali dia akan binasa sebagaimana binasanya garam yang larut dalam air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1877</td></tr><tr><td>Arabic No</td><td>1877</td></tr><tr><td>Reference</td><td>Book 29 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ сказал: “Кто бы ни совершил дурное против жителей Медины, он обязательно расплавится подобно тому, как соль растворяется в воде”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1877</td></tr><tr><td>Arabic No</td><td>1877</td></tr><tr><td>Reference</td><td>Book 29 Hadith 11</td></tr></tbody></table></div>
 

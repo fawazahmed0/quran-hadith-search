@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas: The woman who supplies fake hair and the one who asks for i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Usamah] dari [Aban bin Shalih] dari [Mujahid bin Jabr] dari [Ibnu Abbas] ia berkata, "Telah dilaknat wanita yang menyambung rambut dan wanita yang minta untuk disambung rambutnya, wanita yang mencabut alis dan wanita yang minta dicabut alisnya, wanita yang mentato dan wanita yang minta antuk ditato, tanpa ada penyakit." Abu Dawud berkata, "Al Washilah adalah wanita yang menyambung rambutnya dengan rambut wanita (wig). Al Mustaushilat adalah orang yang disambung rambutnya. An Namishat adalah orang yang mencabut alisnya hingga tipis, dan Al Mutanamishat adalah orang yang minta dicabut alisnya. Al Wasyimah adalah orang yang membuat tato di wajahnya baik dengan celak atau tinta, Al Mustausyimah adalah orang yang minta ditato
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4170</td></tr><tr><td>Arabic No</td><td>4170</td></tr><tr><td>Reference</td><td>Book 35 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас , да будет доволен Аллах им и его отцом, передаёт: «Проклята подвязывающая (к волосам другие) волосы, и та, что просит об этом, и выщипывающая брови и та, что просит об этом, и наносящая татуировку, и та, что просит об этом, без (необходимости по причине) болезни»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4170</td></tr><tr><td>Arabic No</td><td>4170</td></tr><tr><td>Reference</td><td>Book 35 Hadith 12</td></tr></tbody></table></div>
 

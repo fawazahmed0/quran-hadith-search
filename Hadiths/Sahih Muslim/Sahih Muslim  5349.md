@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn 'Abdoullâh (رضي الله عنهما) a dit : Nous étions avec le
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu At Thahir], Telah mengabarkan kepada kami [Abdullah bin Wahab] dari [Yunus] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Jabir bin Abdullah] dia berkata; Kami pernah bersama Nabi shallallahu 'alaihi wasallam di Marr Zhahran dan kami memetik buah yang matang dari pohon arok maka (Rasulullah shallallahu 'alaihi wasallam bersabda: "Ambillah yang hitam." (Jabir bin Abdullah) berkata; kami bertanya: "Wahai Rasulullah apakah anda pernah mengembala kambing?" beliau bersabda: "Ya, bukankah tidak ada seorang Nabi pun melainkan dia pernah mengembala kambing!" -Atau yang serupa dengan perkataan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5349</td></tr><tr><td>Arabic No</td><td>2050</td></tr><tr><td>Reference</td><td>Book 36 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5349</td></tr><tr><td>Arabic No</td><td>2050</td></tr><tr><td>Reference</td><td>Book 36 Hadith 223</td></tr></tbody></table></div>
 

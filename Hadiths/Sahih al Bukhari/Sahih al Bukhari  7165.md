@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:I witnessed a husband and a wife who were involved in a c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan], [Az Zuhri] mengatakan dari [Sahal bin Sa'd], ia mengatakan; aku pernah menyaksikan dua orang yang melakukan li'an ketika umurku masih lima belas tahun, maka kedua orang itu diceraikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7165</td></tr><tr><td>Arabic No</td><td>7165</td></tr><tr><td>Reference</td><td>Book 93 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Са‘д, да будет доволен им Аллах, передаёт: «Я видел призывающих проклятие друг на друга (ли‘ан) супругов, а мне тогда было пятнадцать лет, и после этого их брак был расторгнутым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7165</td></tr><tr><td>Arabic No</td><td>7165</td></tr><tr><td>Reference</td><td>Book 93 Hadith 29</td></tr></tbody></table></div>
 

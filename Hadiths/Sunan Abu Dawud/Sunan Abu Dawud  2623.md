@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah], dari [Malik] dari [Nafi'], dari [Abdullah bin Umar], bahwa Rasulullah shallallahu 'alaihi wasallam berkata: "Janganlah seseorang memerah hewan ternak seseorang tanpa seizinnya. Apakah salah seorang diantara kalian ingin kamarnya yang tinggi didatangi kemudian tempat penyimpanan makanannya dipecah, dan makanannya diambil? Sesungguhnya yang menyimpan makanan untuk mereka adalah kantong-kantong susu hewan ternak mereka. Janganlah salah seorang diantara kalian memerah susu hewan ternak seseorang kecuali dengan seizinnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2435) Sahih Muslim (1726)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2623</td></tr><tr><td>Arabic No</td><td>2623</td></tr><tr><td>Reference</td><td>Book 15 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2435) Sahih Muslim (1726)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2623</td></tr><tr><td>Arabic No</td><td>2623</td></tr><tr><td>Reference</td><td>Book 15 Hadith 147</td></tr></tbody></table></div>
 

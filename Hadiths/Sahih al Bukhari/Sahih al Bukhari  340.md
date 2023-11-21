@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur Rahman bin Abza:that while he was in the company of 'Umar, 'Amma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Dzar] dari [Ibnu 'Abdurrahman bin Abza] dari [Bapaknya] bahwa ia pernah melihat 'Umar saat ['Ammar] bertanya kepadanya, "Kami sedang dalam perjalanan, kemudian kami junub?" dia menjawab, "Hendaknya bertayamum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>340</td></tr><tr><td>Arabic No</td><td>340</td></tr><tr><td>Reference</td><td>Book 7 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Абду-р-Рахман ибн Абза передал со слов своего отца о том, что он был свидетелем того, как ‘Аммар сказал ‘Умару: «Мы были в походе и осквернились …», и он сказал: «Поплевал на них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>340</td></tr><tr><td>Arabic No</td><td>340</td></tr><tr><td>Reference</td><td>Book 7 Hadith 7</td></tr></tbody></table></div>
 

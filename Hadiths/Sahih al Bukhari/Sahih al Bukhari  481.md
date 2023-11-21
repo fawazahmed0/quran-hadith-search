@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "A faithful believer to a faithful bel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] berkata, telah menceritakan kepada kami [Sufyan] dari [Abu Burdah bin 'Abdullah bin Abu Burdah] dari [Kakeknya] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya seorang mukmin dengan mukmin lainnya seperti satu bangunan yang saling menguatkan satu sama lain." kemudian beliau menganyam jari jemarinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>481</td></tr><tr><td>Arabic No</td><td>481</td></tr><tr><td>Reference</td><td>Book 8 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, о том, что (однажды) Пророк ﷺ сказал: «Поистине, (в отношениях) друг с другом верующие подобны строению, отдельные части которого укрепляют друг друга», и (,сказав это,) он переплёл между собой пальцы (своих рук)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>481</td></tr><tr><td>Arabic No</td><td>481</td></tr><tr><td>Reference</td><td>Book 8 Hadith 128</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:None amongst you would at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Bukair] dari [Busr bin Sa'id] dari [Abu Hurairah] dari Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Tidaklah seorang pun dari kalian yang diselamatkan oleh amalnya." Seseorang bertanya: Tuan juga, wahai Rasulullah? beliau menjawab: "Tidak juga aku, kecuali bila Allah melimpahkan rahmatNya padaku, tapi tujulah kebenaran." Telah menceritakannya kepadaku [Yunus bin Abdula'la Ash Shadafi] telah mengkhabarkan kepada kami [Abdullah bin Wahab] telah mengkhabarkan kepadaku [Amru bin Al Harits] dar [Bukair bin Al Asyuj] dengan sanad ini, hanya saja ia menyebutkan: "Rahmat dan karuniaNya, " dan tidak menyebut: "Tapi tujulah kebenaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7111</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7111</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

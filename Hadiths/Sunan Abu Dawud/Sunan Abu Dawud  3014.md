@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Bashir ibn Yasar: When Allah bestowed Khaybar on the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Miskin Al Yamami], telah menceritakan kepada kami [Yahya bin Hassan], telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Yahya bin Sa'id] dari [Busyair bin Yasar] bahwa Rasulullah shallallahu 'alaihi wasallam tatkala Allah memberikan fa' yang berupa Khaibar kepadanya beliau membaginya menjadi tiga puluh enam saham. Kemudian beliau memisahkan setengah yaitu delapan belas saham untuk orang-orang muslim, setiap saham menghimpun seratus saham. Nabi shallallahu 'alaihi wasallam bersama mereka, beliau mendapatkan saham seperti saham salah seorang diantara mereka. Dan Rasulullah shallallahu 'alaihi wasallam memisahkan delapan belas saham yang merukan setengah bagian untuk musibah-musibah yang kemungkinan menimpa dan urusan muslimin yang terjadi. Setengah bagian tersebut adalah benteng Wathih, daerah Kutaibah, Salalim dan yang mengikutinya. Kemudian tatkala harta tersebut telah berada di tangan Nabi shallallahu 'alaihi wasallam dan muslimin, mereka tidak memiliki pekerja yang mengerjakan pekerjaannya untuk mereka. Kemudian Rasulullah shallallahu 'alaihi wasallam memanggil orang-orang yahudi dan mempekerjakan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3014</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 20 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Бушайра ибн Ясара, да будет доволен им Аллах, что, когда Посланник Аллаха ﷺ завладел Хайбаром по воле Аллаха, он разделил земли Хайбара на тридцать шесть долей, в каждой доле сто частей. Мусульманам принадлежали восемнадцать долей, и среди этих долей была доля Посланника Аллаха ﷺ которая была подобна доле любого из мусульман. А остальные восемнадцать долей, то есть половину, он оставил, чтобы расходовать их в случае непредвиденных происшествий и бед, а также проблем мусульман, которые ему приходилось решать. Это были Ватых, Кутайба, Сулялим и прилегающие к ним территории. Когда имущество перешло в руки Пророка ﷺ и мусульман, у них не было работников, которые могли бы работать на этих землях, и тогда Посланник Аллаха ﷺ позвал иудеев и договорился с ними о том, что они будут работать на этих землях
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3014</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 20 Hadith 87</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Juhaifah reported:I came to the prophet (ﷺ) at Mecca; he was sitting in a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Qais bin Ar-Rabi'] Al-Hadits. Dan telah menceritakan kepada kami [Muhammad bin Sulaiman Al-Anbari] telah menceritakan kepada kami [Waki'] dari [Sufyan] semuanya dari ['Aun bin Abi Juhaifah] dari [Ayahnya] dia berkata; Saya pernah mendatangi Nabi shallallahu 'alaihi wasallam di Mekkah, dan beliau sedang berada dalam suatu Qubah berwarna merah dari kulit, lalu Bilal keluar, lalu adzan, sedang aku memperhatikan mulutnya yang mengarah ke kanan dan ke kiri. Abu Juhaifah berkata; Kemudian Rasulullah shallallahu 'alaihi wasallam keluar dengan memakai pakaian merah, yaitu kain bergaris Yaman jenis buatan Qitr (kain ini biasanya diselimutkan untuk badan). Musa berkata; Saya pernah melihat Bilal keluar ke Abthah, lalu mengumandangkan adzan. Tatkala dia sampai pada kalimat hayya 'alash shalah, hayya 'alal falah, dia membelokkan lehernya ke kanan dan ke kiri, dan dia tidak memutar, kemudian dia masuk ke rumahnya dan keluar dengan tongkat. Lalu Musa menyebutkan hadits lengkapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (503)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>520</td></tr><tr><td>Arabic No</td><td>520</td></tr><tr><td>Reference</td><td>Book 2 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Ауна ибн Абу Джухайфы о том, что его отец сказал: «(Однажды) я пришел к Пророку ﷺ в Мекке, когда он находился в (своём) шатре из красной кожи. И Билял вышел и начал возвещать азан, а я стал следить за движениями его рта, когда он (, поворачивался) направо и налево».(Абу Джухайфа) сказал: «А потом наружу вышел Посланник Аллаха ﷺ который был одет в йеменский плащ къитрийского происхождения красного цвета».Муса (ибн Исма‘иль) сказал: (Абу Джухайфа) сказал: «И я видел, как Билял вышел к аль-Абтах и возвестил азан, а когда он дошел до (слов) “Хаййа ‘аля-с-салях, хаййа ‘аляль-фалях” /Спешите на молитву, спешите к успеху/ он повернул шею вправо и влево, но не поворачивал туловище. Затем он зашёл и вынес для (Пророка ﷺ) палку с заострённым концом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (503)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>520</td></tr><tr><td>Arabic No</td><td>520</td></tr><tr><td>Reference</td><td>Book 2 Hadith 130</td></tr></tbody></table></div>
 

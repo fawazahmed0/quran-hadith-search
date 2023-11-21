@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: I heard the Messenger of Allah (ﷺ) say: He then mentione
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Amru] berkata, telah menceritakan kepada kami [Salamah] -maksudnya Salamah Fadhl- ia berkata; telah menceritakan kepadaku [Muhammad] -maksudnya Muahammad bin Ishaq- ia berkata; telah menceritakan kepadaku [Utbah bin Muslim] -mantan budak (yang telah dimerdekakan oleh) Bani Taim- dari [Abu Salamah bin 'Abdurrahman] dari [Abu Hurairah] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda, lalu ia menyebutkan seperti hadits tersebut. Beliau bersabda: "Jika mereka mengucapkan demikian, maka ucapkanlah, "(Dia-lah Allah, Yang Maha Esa, Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu. Dia tidak beranak dan tidak pula diperanakkan, dan tidak ada seorang pun yang setara dengan Dia.) ' Setelah itu hendaklah ia meludah ke arah kiri sebanyak tiga kali, dan memohon perlindungan kepada Allah dari setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4722</td></tr><tr><td>Arabic No</td><td>4722</td></tr><tr><td>Reference</td><td>Book 42 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры: «Я слышал, как Посланник Аллаха ﷺ сказал…» И он упомянул нечто подобное, а также то, что Пророк ﷺ сказал: “И если они скажут это, скажите: “Он Аллах Единый, Аллах Самодостаточный. Он не родил и не был рождён, и нет никого, равного Ему”. А потом пусть человек трижды сплюнет налево и попросит у Аллаха защиты от шайтана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4722</td></tr><tr><td>Arabic No</td><td>4722</td></tr><tr><td>Reference</td><td>Book 42 Hadith 127</td></tr></tbody></table></div>
 

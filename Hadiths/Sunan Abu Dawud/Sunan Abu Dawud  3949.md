@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah: The Prophet (ﷺ) said: (The narrator Musa said in another pla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] dan [Musa bin Isma'il] mereka berkata; telah menceritakan kepada kami [Hammad bin Salamah] dari [Qatadah] dari [Al Hasan] dari [Samurah] dari Nabi shallallahu 'alaihi wasallam, dan Musa berkata pada tempat yang lain, dari Samurah bin Jundub menurut perhitungan Hammad, ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memiliki hubungan kekerabatan, maka ia adalah orang yang merdeka." Abu Daud berkata; [Muhammad bin Bakr Al Bursani] meriwayatkannya dari [Hammad bin Salamah] dari [Qatadah] dan ['Ashim] dari [Al Hasan] dari [Samurah] dari Nabi shallallahu 'alaihi wasallam seperti hadits tersebut." Abu Daud berkata, "Tidak ada yang menceritakan hadits tersebut kecuali Hammad bin Salamah, dan ia telah ragu dalam hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3949</td></tr><tr><td>Arabic No</td><td>3949</td></tr><tr><td>Reference</td><td>Book 31 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Самуры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если кто-то стал владельцем близкого родственника, этот родственник (, будь он мужчина или женщина,) становится свободным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3949</td></tr><tr><td>Arabic No</td><td>3949</td></tr><tr><td>Reference</td><td>Book 31 Hadith 24</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: A mukhannath (eunuch) used to enter upon the wiv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Muhammad bin Tsaur] dari [Ma'mar] dari [Az Zuhri] dan [Hisyam bin Urwah] dari [Urwah] dari ['Aisyah] radliallahu 'anha, ia berkata, "Seorang laki-laki (banci) masuk menemui isteri-isteri Nabi shallallahu 'alaihi wasallam, dan para sahabat menganggapnya sebagai Ghairu Ulil Irbah (orang-orang yang tidak punya nafsu kepada wanita). Suatu ketika Nabi shallallahu 'alaihi wasallam masuk menemui kami sementara laki-laki banci itu bersama isteri-isteri beliau seraya mensifati wanita dengan berkata; 'Wanita itu jika menghadap ke depan maka ia menghadap dengan empat (lipatan), dan jika menghadap ke belakang maka ia menghadap dengan delapan (lipatan) '. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Ketahuilah, aku melihat orang ini (banci) mengetahui apa yang ada pada wanita, maka jangan sekali-kali ia masuk menemui kalian." Mereka pun akhirnya memakai hijab." Telah menceritakan kepada kami [Muhammad bin Dawud bin Sufyan] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Urwah] dari ['Aisyah] secara makna. Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Urwah] dari ['Aisyah] dengan hadits ini.. dengan tambahan, "Nabi shallallahu 'alaihi wasallam mengeluarkan laki-laki (banci) itu ke padang pasir, dan datang setiap hari jum'at untuk mencari makan." Telah menceritakan kepada kami [Mahmud bin Khalid] berkata, telah menceritakan kepada kami [Umar] dari [Al Auza'i] -dalam kisah ini-, dikatakan, "Wahai Rasulullah, bagaimana jika laki-laki (banci itu) mati kelaparan?" beliau lalu memberinya izin untuk masuk dua kali setiap hari jum'at untuk minta makan, kemudian kembali lagi."Ket; lipatan maksudnya, wanita yang gemuk jika dilihat dari arah perut maka akan terlihat dua lipatan -setiap lipatan ada dua sisi- yang ada diperutnya, sementara jika dilihat dari arah punggung maka akan terlihat empat lipatan yang memiliki delapan sisi. Dan ini hanya terjadi pada wanita yang gemuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2181)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4107</td></tr><tr><td>Arabic No</td><td>4107</td></tr><tr><td>Reference</td><td>Book 34 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «В течение определённого времени к жёнам Пророка ﷺ приходил один женоподобный мужчина /муханнас/, который, как считали, не испытывал влечения к женщинам. Однажды Пророк ﷺ зашёл к нам, когда у одной из своих жён находился этот мужчина, который описывал какую-то женщину, говоря: “Когда она поворачивается лицом, на её теле видны четыре складки, когда же поворачивается спиной, то видны восемь складок”. Тогда Пророк ﷺ сказал: “Судя по всему, этот человек всё понимает (, что такое женское красота)… Пусть он больше никогда не входит к вам!” И после этого они не пускали его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2181)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4107</td></tr><tr><td>Arabic No</td><td>4107</td></tr><tr><td>Reference</td><td>Book 34 Hadith 88</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zam'a:The Prophet (ﷺ) said, "None of you should flog hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari [Hisyam] dari [bapaknya] dari [Abdullah bin Zam'ah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah salah seorang dari kalian memukul isterinya, seperti ia memukul seorang budak, namun saat hari memasuki waktu senja ia pun menggaulinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 67 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Зам‘а, что Пророк ﷺ сказал: «Пусть никто из вас не высекает свою жену, словно раба, а затем в конце дня, вступает с ней в половую близость»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 67 Hadith 138</td></tr></tbody></table></div>
 

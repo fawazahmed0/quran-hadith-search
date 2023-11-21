@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) forbade two kinds of dressing; (one of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami ['Abdul Wahhab] telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Abu Hurairah radliallahu 'anhu] berkata: "Kami dilarang dari libsatain yaitu seseorang berselimut dengan orang lain dalam satu kain lalu mengangkat kain tersebut sampai pundaknya dan juga melarang mulamasah dan munabadzah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2145</td></tr><tr><td>Arabic No</td><td>2145</td></tr><tr><td>Reference</td><td>Book 34 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Были запрещены два способа ношения одежды: заворачиваться в одну одежду и сидеть на ягодицах, поднимая колени, обхватив их руками, затем поднять эту одежду на плечи. И два вида продажи (были запрещены): сделки, совершаемые путём ощупывания, и сделки, совершаемые путём бросания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2145</td></tr><tr><td>Arabic No</td><td>2145</td></tr><tr><td>Reference</td><td>Book 34 Hadith 97</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "A woman entered the (Hell) Fire beca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Nashr bin 'Ali] telah mengabarkan kepada kami ['Abdul A'laa] telah bercerita kepada kami ['Ubaidullah bin 'Umar] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Ada seorang wanita masuk neraka disebabkan mengikat seekor kucing. Dia tidak memberinya makan dan tidak melepaskannya agar dapat memakan serangga tanah". Dia berkata, dan telah bercerita kepada kami ['Ubaidullah] dari [Sa'id Al Maqbariy] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3318</td></tr><tr><td>Arabic No</td><td>3318</td></tr><tr><td>Reference</td><td>Book 59 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «(Одна) женщина вошла в Огонь из-за кошки. Она держала её на привязи, не кормила её сама и не давала ей возможности есть живность, ползающую по земле»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3318</td></tr><tr><td>Arabic No</td><td>3318</td></tr><tr><td>Reference</td><td>Book 59 Hadith 124</td></tr></tbody></table></div>
 

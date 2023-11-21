@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hafsa reported that when it was dawn, the Messenger of Allah (ﷺ) did not obser
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ahmad bin Abdullah bin Al Hakam] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Zaid bin Muhammad] katanya; aku pernah mendengar [Nafi'] menceritakan dari [Ibnu Umar] dari [Hafsah] katanya; "Jika fajar telah terbit, Rasulullah shallallahu 'alaihi wasallam tidak melakukan shalat selain dua rakaat ringan." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [An Nadlr] telah menceritakan kepada kami [Syu'bah] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1678</td></tr><tr><td>Arabic No</td><td>723.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара о том, что Хафса, да будет доволен ею Аллах, сказала: «После рассвета Посланник Аллаха ﷺ не совершал никаких молитв, за исключением молитвы в два лёгких рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1678</td></tr><tr><td>Arabic No</td><td>723.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 108</td></tr></tbody></table></div>
 

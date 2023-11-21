@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran Ar Razi] telah menceritakan kepada kami [Al Walid bin Muslim] ia berkata, telah berkata [Al Auza'i Abu Amru] dan yang lainnya, saya mendengar [Ibnu Syihab Az Zuhri] dari [Urwah] dari [Aisyah] bahwasanya; Pernah terjadi gerhana matahari pada masa Rasulullah shallallahu 'alaihi wasallam. Maka beliau mengutus seseorang untuk menyerukan, "ASH SHALAATU JAAMI'AH (marilah kita shalat berjama'ah) " sehingga kaum muslimin pun berkumpul. Beliau maju (mengimami shalat), lalu bertakbir dan shalat empat raka'at. Pada tiap raka'at terdapat empat kali sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2092</td></tr><tr><td>Arabic No</td><td>901.04</td></tr><tr><td>Reference</td><td>Book 10 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что (когда) при жизни Посланника Аллаха ﷺ произошло солнечное затмение, он отправил глашатая, (который провозгласил): «Общая молитва!» Люди собрались, а Пророк ﷺ вышел вперёд, произнёс такбир и совершил четыре поясных поклона в двух рак‘атах и четыре земных поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2092</td></tr><tr><td>Arabic No</td><td>901.04</td></tr><tr><td>Reference</td><td>Book 10 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa'id b. Musayyab told that his father said on the authority of his grandfather 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Az Zuhri] dari [Sa'id Ibnul Musayyab] dari [Bapaknya] dari [Kakeknya] bahwa Nabi shallallahu 'alaihi wasallam pernah bertanya kepadanya: "Siapa namamu?" ia menjawab, "Hazn (sedih)." Beliau bersabda: "Namamu Sahl (kemudahan)." Ia berkata, "Tidak, sebab Sahl itu terinjak-injak dan terhina." Sa'id berkata, "Aku menduga bahwa sejak saat itu kami pasti akan ditimpa kesusahan." Abu Dawud berkata, "Nabi shallallahu 'alaihi wasallam mengubah nama Al Ash (orang yang suka maksiat), Aziz (nama Allah), 'Atalah (keras), Syaithan, Ghurab (gagak), Hubab (nama setan) dan Syihab. Lalu beliau menamainya dengan Hisyam, Harb (perang) menjadi Salm (selamat atau damai), Al Mudhthaji' (tidur) menjadi Al Munba'its (bangkit), tempat yang bernama Afirah (gersang) diubah menjadi Khadhirah (subur), lembah Adh Dhalalah (sesat) menjadi lembah Al Huda (petunjuk), bani Az Zinyah (dari kata zina) menjadi bani Ar Risydah (lurus), dan bani Mughwiyah (yang menyesatkan) menjadi bani Risydah (yang lurus)." Abu Dawud berkata, "Aku tidak menyebutkan sanad-sanadnya agar lebih ringkas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4956</td></tr><tr><td>Arabic No</td><td>4956</td></tr><tr><td>Reference</td><td>Book 43 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4956</td></tr><tr><td>Arabic No</td><td>4956</td></tr><tr><td>Reference</td><td>Book 43 Hadith 184</td></tr></tbody></table></div>
 

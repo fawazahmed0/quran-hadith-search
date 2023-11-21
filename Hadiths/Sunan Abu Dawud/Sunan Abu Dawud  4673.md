@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying :
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Utsman] berkata, telah menceritakan kepada kami [Al Walid] dari [Al Auza'i] dari [Abu Ammar] dari [Abdullah bin Farrukh] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku adalah pemimpin anak Adam, orang yang pertama kali keluar dari perut bumi (dibangkitkan) dan orang yang pertama kali memberi syafaat dan mendapat izin untuk memberikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2278)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4673</td></tr><tr><td>Arabic No</td><td>4673</td></tr><tr><td>Reference</td><td>Book 42 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, что один человек обратился к Посланнику Аллаха ﷺ со словами: «О лучший из людей!» Посланник Аллаха ﷺ сказал: «То Ибрахим, мир ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2278)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4673</td></tr><tr><td>Arabic No</td><td>4673</td></tr><tr><td>Reference</td><td>Book 42 Hadith 78</td></tr></tbody></table></div>
 

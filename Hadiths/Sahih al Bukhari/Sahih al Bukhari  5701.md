@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) was cupped on his head for an ailment he w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Hisyam] dari [Ikrimah] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam pernah berbekam di kepalanya karena rasa sakit yang di deritanya sementara beliau sedang berihram, ketika itu beliau singgah di dekat mata air yang bernama Lahyil Jamal." [Muhammad bin Sawa'] juga berkata; telah mengabarkan kepada kami [Hisyam] dari [Ikrimah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam pernah berbekam di kepalanya karena rasa sakit yang di deritanya ketika sedang berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5701</td></tr><tr><td>Arabic No</td><td>5701</td></tr><tr><td>Reference</td><td>Book 76 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, что Посланнику Аллаха ﷺ сделали по его просьбе кровопускание на голове, когда он пребывал в состоянии ихрама по причине (головной) боли, от которой он страдал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5701</td></tr><tr><td>Arabic No</td><td>5701</td></tr><tr><td>Reference</td><td>Book 76 Hadith 21</td></tr></tbody></table></div>
 

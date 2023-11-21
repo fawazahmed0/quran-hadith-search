@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Mas'oûd (que Dieu l'agrée) a dit : Deux Qoraychites et un Thaqîfite - ou 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu 'Umar Al Makki] telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Mujahid] dari [Abu Ma'mar] dari [Ibnu Mas'ud] dia berkata; "Ada tiga orang berkumpul di dekat Ka'bah, dua orang dari suku Quraisy dan satu lagi dari suku Tsaqafi atau sebaliknya. Ketiga-tiganya kurang terpelajar tetapi mereka gemuk-gemuk. Salah seorang dari mereka bertanya kepada temannya; 'Tahukah kamu bahwa Allah mendengar apa yang kita ucapkan? ' Jawab yang lain; 'Dia mendengar kalau kita bicara keras, dan tidak mendengar kalau kita bicara perlahan.' Kata orang yang ketiga; 'Jika Dia mendengar ketika kita berbicara keras tentu Dia mendengar juga ketika kita berbicara perlahan.' Lalu Allah Azza wa Jalla menurunkan ayat: 'Kamu sekali-kali tidak kalian tidak dapat menyembunyikan dari kesaksian pendengaran, penglihatan, dan kulitmu…'. (QS. Fushilat (41): 22). Dan telah menceritakan kepadaku [Abu Bakr bin Khallad Al Bahili] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku [Sulaiman] dari ['Umarah bin 'Umair] dari [Wahb bin Rabi'ah] dari ['Abdullah] Demikian juga diriwayatkan dari jalur lainnya, dan dia berkata; telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku [Manshur] dari [Mujahid] dari [Abu Ma'mar] dari ['Abdullah] dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7029</td></tr><tr><td>Arabic No</td><td>2775.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7029</td></tr><tr><td>Arabic No</td><td>2775.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 6</td></tr></tbody></table></div>
 

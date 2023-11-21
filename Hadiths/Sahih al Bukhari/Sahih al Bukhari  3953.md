@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:On the day of the battle of Badr, the Prophet (ﷺ) said, "O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin 'Ubaidullah bin Hawsyab] telah menceritakan kepada kami ['Abdul Wahhab] telah menceritakan kepada kami [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas] berkata; Nabi shallallahu 'alaihi wasallam berdo'a pada perang Badar: "Ya Allah, aku meminta jaminan dan janji-Mu. Ya Allah, jika Engkau mau Engkau tidak akan diibadahi". Maka Abu Bakr memegang (pundak) beliau seraya berkata; "Cukuplah". Maka beliau keluar lalu bersabda (membaca ayat): "Golongan itu pasti akan dikalahkan dan akan mundur ke belakang". (QS al-Qamar ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3953</td></tr><tr><td>Arabic No</td><td>3953</td></tr><tr><td>Reference</td><td>Book 64 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что Пророк ﷺ сказал в день битвы при Бадре: «О Аллах, заклинаю Тебя (выполнить) Твоё обещание! О Аллах, если Ты пожелаешь, то после этого дня уже никто не будет поклоняться Тебе!» После этого Абу Бакр взял его за руку и сказал: «Этого достаточно!» И после этого (Пророк ﷺ) вышел наружу, произнося (такие аяты): «Скоро будет разбита эта толпа, и они обратятся в бегство!» (сура «аль-Камар», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3953</td></tr><tr><td>Arabic No</td><td>3953</td></tr><tr><td>Reference</td><td>Book 64 Hadith 5</td></tr></tbody></table></div>
 

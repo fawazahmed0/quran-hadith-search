@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman ibn Maslamah: AbdurRahman reported on the authority of his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Minhal], telah menceritakan kepada kami [Yazid bin Zurai'], telah menceritakan kepada kami [Sa'id], dari [Qatadah] dari [Abdurrahman bin Maslamah], dari [pamannya] bahwa orang-orang dari Kabilah Aslam datang kepada Nabi shallallahu 'alaihi wasallam kemudian beliau berkata: "Apakah kalian berpuasa pada hari ini?" Mereka berkata; tidak. Beliau berkata: "Sempurnakan sisa hari kalian ini dan gantilah (pada hari yang lain)." Abu Daud berkata; yang beliau maksudkan adalah Hari 'Asyura
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2447</td></tr><tr><td>Arabic No</td><td>2447</td></tr><tr><td>Reference</td><td>Book 14 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абду-р-Рахман ибн Масляма передаёт от своего дяди, что аслямиты пришли к Пророку ﷺ и он спросил: «Постились ли вы сегодня?» Они ответили: «Нет». (Посланник Аллаха ﷺ) сказал: «Тогда не ешьте оставшуюся часть дня, а потом восполните этот день». Абу Дауд сказал: «Подразумевается день Ашуры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2447</td></tr><tr><td>Arabic No</td><td>2447</td></tr><tr><td>Reference</td><td>Book 14 Hadith 135</td></tr></tbody></table></div>
 

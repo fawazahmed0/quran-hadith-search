@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Az-Zubair:A group of Bani Tamim came to the Prophet (and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Muhammad] Telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] dia berkata; Telah mengabarkan kepadaku [Ibnu Abu Mulaikah] bahwa [Abdullah bin Zubair] mengabarkan kepadanya, ketika datang kepada Nabi shallallahu 'alaihi wasallam utusan Bani Tamim. Abu Bakr berkata; angkatlah Al Qa'qaa' bin Ma'bad. Sedangkan Umar berkata; Angkatlah Al Aqra' bin Habis. Maka Abu Bakar berkata kepada 'Umar, Apakah kamu ingin menyelisihiku? 'Umar berkata, saya tidak menginginkannya, lalu kedua berdebat hingga suaranya meninggi. maka turunlah ayat; Hai orang-orang yang beriman, janganlah kamu meninggikan suaramu melebihi suara nabi.., hingga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4847</td></tr><tr><td>Arabic No</td><td>4847</td></tr><tr><td>Reference</td><td>Book 65 Hadith 368</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн аз-Зубайр, сказал: «(Когда) к Пророку ﷺ прибыла (группа) всадников из (племени) бану тамим, Абу Бакр сказал: “Назначь (их) правителем аль-Ка‘ка‘а ибн Ма‘бада”, что же касается ‘Умара, то он сказал: “Нет, назначь аль-Акра‘а ибн Хабиса!” Абу Бакр воскликнул: “Ты только хотел (сказать что-нибудь) наперекор мне!” ‘Умар сказал: “Я вовсе не хотел этого!”, — а потом они стали громко спорить, в связи с чем был ниспослан (нижеследующий аят): “О те, кто уверовал! Не (пытайтесь) опередить Аллаха и Его посланника, (но) бойтесь Аллаха, (ибо,) поистине, Аллах — Слышащий, Знающий!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4847</td></tr><tr><td>Arabic No</td><td>4847</td></tr><tr><td>Reference</td><td>Book 65 Hadith 368</td></tr></tbody></table></div>
 

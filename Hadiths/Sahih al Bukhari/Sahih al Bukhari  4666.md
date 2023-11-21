@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Mulaika:We entered upon Ibn 'Abbas and he said "Are you not ast
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid bin Maimun] Telah menceritakan kepada kami ['Isa bin Yunus] dari [Umar bin Sa'id] dia berkata; Telah mengabarkan kepadaku [Ibnu Abu Mulaikah] kami menemui [Ibnu 'Abbas] lalu dia berkata; 'Apakah kalian heran dengan sikap Ibnu Zubair dalam memegang urusannya ini. Maka aku menjawab; Aku akan menyikapinya sebagaimana aku menyikapi Abu Bakar, bukan Umar. Walaupun tentu keduanya lebih utama darinya. Juga aku pun berkata; Ibnu Zubair adalah anak bibi Nabi shallallahu 'alaihi wasallam, putra Zubair, putra Abu Bakr, putra saudara Khadijah, putra saudari Aisyah. Namun Ibnu Abbas malah bangkit menjauh dariku, dia tidak menginginkanku berlebih-lebihan memuji-muji Ibnu Zubair. Maka aku berkata; Aku mengira bahwa aku tidak bisa memalingkan perasaanku ini. Lalu Ibnu Abbas meninggalkannya. Aku lihat tidaklah dia melakukan hal itu kecuali demi kebaikan. Kalaulah aku harus dipimpin oleh Bani Umayyah tentu itu lebih aku sukai dari pada aku dipimpin oleh selain mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4666</td></tr><tr><td>Arabic No</td><td>4666</td></tr><tr><td>Reference</td><td>Book 65 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Абу Мулейка рассказывал: «Когда мы вошли к Ибн ‘Аббасу, он сказал: “Вас не удивляет, что Ибн аз-Зубайр взялся за это дело (правление)? Я сказал (про себя), что буду поддерживать его и говорить о его хороших качествах, так как не делал этого даже в отношении Абу Бакра и ‘Умара, хотя они заслуживали блага больше него. И я сказал, что он (Ибн аз-Зубайр) — сын тёти Пророка ﷺ, сын аз-Зубайра, внук Абу Бакра, сын брата Хадиджи и сын сестры ‘Аиши. Тем не менее, он считает себя выше меня и не хочет, чтобы я был одним из его друзей. Поэтому я сказал, что не ожидал, что он откажется от моего предложения поддержать его, и я не думаю, что он желает блага. Поэтому для меня любимей, чтобы мной правили двоюродные братья, чем кто-то другой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4666</td></tr><tr><td>Arabic No</td><td>4666</td></tr><tr><td>Reference</td><td>Book 65 Hadith 188</td></tr></tbody></table></div>
 

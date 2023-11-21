@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:That Allah's Messenger (ﷺ) came to her in a happy mood with hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3555</td></tr><tr><td>Arabic No</td><td>3555</td></tr><tr><td>Reference</td><td>Book 61 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) Посланник Аллаха ﷺ зашёл к ней радостный, что было видно по его лицу, и сказал: «Слышала ли ты, что сказал аль-Мудлиджи про Зейда и Усаму, когда увидел их ступни? (Он сказал): “Это ступни людей, один из которых происходит от другого!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3555</td></tr><tr><td>Arabic No</td><td>3555</td></tr><tr><td>Reference</td><td>Book 61 Hadith 64</td></tr></tbody></table></div>
 

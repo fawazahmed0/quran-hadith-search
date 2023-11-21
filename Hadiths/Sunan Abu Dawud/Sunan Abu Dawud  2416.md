@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu 'Ubaid:I attended the 'Id (prayer) along with 'Umar. He offered pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], serta [Zuhair bin Harb], dan ini adalah haditsnya, mereka berdua mengatakan; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri], dari [Abu 'Ubaid], ia berkata; aku menghadiri 'Id bersama [Umar], beliau memulai shalat sebelum berkhutbah kemudian berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam melarang dari berpuasa pada dua hari ini, adapun hari Adlha, maka kalian makan sebagian dari daging sembelihan kalian, adapun hari Fithri maka merupakan berbuka kalian dari puasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1990) Sahih Muslim (1137)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2416</td></tr><tr><td>Arabic No</td><td>2416</td></tr><tr><td>Reference</td><td>Book 14 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу ‘Убайда: «Однажды я присутствовал на праздничной молитве, которую проводил ‘Умар, да будет доволен им Аллах. Он совершил молитву до праздничной проповеди. После этого он сказал: “Поистине, Посланник Аллаха ﷺ запретил поститься в эти два дня. В Праздник жертвоприношения вы едите мясо жертвенных животных, которых режете, а в Праздник разговения разговляетесь после поста”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1990) Sahih Muslim (1137)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2416</td></tr><tr><td>Arabic No</td><td>2416</td></tr><tr><td>Reference</td><td>Book 14 Hadith 104</td></tr></tbody></table></div>
 

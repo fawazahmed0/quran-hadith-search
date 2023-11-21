@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abu Mulaika:Ibn 'Abbas wrote that the Prophet (ﷺ) gave his verdic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Nafi' bin 'Umar] dari [Ibnu Abi Mulaikah]; [Ibnu 'Abbas] radliallahu 'anhuma telah menulis bahwa Nabi shallallahu 'alaihi wasallam menetapkan sumpah bagi orang yang terdakwa (dituduh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2668</td></tr><tr><td>Arabic No</td><td>2668</td></tr><tr><td>Reference</td><td>Book 52 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Абу Муляйка, сказал: «Ибн ‘Аббас, да будет доволен Аллах им и его отцом, написал (мне), что Пророк ﷺ постановил, что клясться должен ответчик»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2668</td></tr><tr><td>Arabic No</td><td>2668</td></tr><tr><td>Reference</td><td>Book 52 Hadith 31</td></tr></tbody></table></div>
 

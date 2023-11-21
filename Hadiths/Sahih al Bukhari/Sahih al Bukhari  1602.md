@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When Allah's Messenger (ﷺ) and his companions came to Mecc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dia adalah putra dari Zaid dari [Ayyub] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Rasulullah shallallahu 'alaihi wasallam dan para sahabatnya datang mengunjungi Ka'bah". Kaum Musyrikin berkata: "Dia datang kepada kalian padahal mereka telah dilemahkan fisik mereka oleh penyakit demam yang melanda kota Yatsrib". Maka Nabi shallallahu 'alaihi wasallam memerintahkan para sahabatnya agar berlari-lari kecil pada tiga putaran pertama dan berjalan biasa antara dua rukun (sudut) dan tidak ada yang menghalangi Beliau bila memerintahkan mereka agar berlari-lari kecil untuk semua putaran, namun hal itu tidak lain kecuali sebagai kemurahan Beliau kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1602</td></tr><tr><td>Arabic No</td><td>1602</td></tr><tr><td>Reference</td><td>Book 25 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Когда Посланник Аллаха ﷺ со своими сподвижниками прибыл (в Мекку), многобожники стали говорить: “Он является к вам, а (его люди) ослаблены йасрибской лихорадкой”. И тогда Пророк ﷺ велел им (при обходе Каабы) пройти первые три круга быстрым шагом, переходя на обычный шаг между двумя углами, и только сострадание по отношению к ним помешало ему приказать им пройти быстрым шагом все (семь) кругов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1602</td></tr><tr><td>Arabic No</td><td>1602</td></tr><tr><td>Reference</td><td>Book 25 Hadith 88</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' reported:When Allah's Messenger (ﷺ) went forth from Mecca to Medina, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] sedangkan lafadznya dari Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata; saya mendengar [Abu Ishaq Al Hamdani] dia berkata; saya mendengar [Al Barra'] berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam berangkat dari kota Makkah menuju Madinah, Suraqah bin Malik bin Ju'syum mengejarnya dari belakang." Al Barra' mengatakan, "Lalu Rasulullah shallallahu 'alaihi wasallam mendoakannya hingga kaki kudanya terperosok ke dalam tanah, Suraqah lalu berkata, "Mohonkanlah kepada Allah agar saya dapat terlepas dari kecelakaan ini dan saya tidak akan mengganggu anda lagi." Al Barra' berkata, "Lantas beliau berdo'a kepada Allah." Al Barra' melanjutkan ceritanya, "Tidak lama kemudian Rasulullah shallallahu 'alaihi wasallam merasa kehausan dan kebetulan beliau melewati seorang penggembala kambing. Maka [Abu Bakar] berkata, "Kemudian saya mengambil mangkuk dan memerah sedikit susu untuk Rasulullah shallallahu 'alaihi wasallam, lalu saya membawanya kepada beliau dan beliau pun meminumnya hingga saya merasa puas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5239</td></tr><tr><td>Arabic No</td><td>2009.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5239</td></tr><tr><td>Arabic No</td><td>2009.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 113</td></tr></tbody></table></div>
 

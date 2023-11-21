@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Once the Prophet (ﷺ) came to me while a man was in my house. He
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Asy'ats bin Abi Asy-Sya'naa'] dari [bapaknya] dari [Masruq] bahwa ['Aisyah Radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam menemuiku dan saat itu disampingku ada seorang pemuda. Beliau bertanya: "Wahai 'Aisyah, siapakah orang ini?" Aku menjawab: "Ia saudara sesusuanku". Beliau bersabda: "Wahai 'Aisyah lihatlah siapa yang menjadi saudara-saudara kalian, karena sesusuan itu terjadi karena kelaparan". [Ibnu Mahdiy] juga meriwayatkannya dari [Sufyan]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2647</td></tr><tr><td>Arabic No</td><td>2647</td></tr><tr><td>Reference</td><td>Book 52 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Пророк ﷺ зашёл ко мне в то время, когда у меня находился один человек. Он спросил: “Кто это, о ‘Аиша?” Я ответила: “Это мой молочный брат”. Тогда Пророк ﷺ сказал: “О ‘Аиша, смотрите (внимательнее) на тех, кто приходится вам молочными братьями, ибо молочное родство является действительным лишь в том случае, когда (детей) кормят досыта”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2647</td></tr><tr><td>Arabic No</td><td>2647</td></tr><tr><td>Reference</td><td>Book 52 Hadith 11</td></tr></tbody></table></div>
 

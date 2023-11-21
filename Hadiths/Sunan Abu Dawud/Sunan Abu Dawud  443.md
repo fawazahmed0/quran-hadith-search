@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Imran b. Husain said:The Messenger of Allah (ﷺ) was on his journey. They (the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Khalid] dari [Yunus bin Ubaid] dari [Al Hasan] dari [Imran bin Hushain] bahwasanya pernah Rasulullah Shallallahu alaihi wasallam dalam sebuah perjalanan bersama para sahabat, mereka semua tertidur dari melaksanakan shalat fajar, mereka bangun karena panasnya sinar matahari. Maka mereka berpindah tempat sedikit agar terhindar dari sinar matahari, lalu seseorang diperintahkan untuk mengumandangkan adzan, maka dia pun adzan lalu melaksanakan shalat sunnah dua rakaat sebelum shalat fajar, kemudian dia mengumandangkan iqamat setelah itu beliau baru melaksanakan shalat fajar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>443</td></tr><tr><td>Reference</td><td>Book 2 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Имрана ибн Хусайна: «Однажды, когда Посланник Аллаха ﷺ (вместе со своими сподвижниками) находился в пути, они проспали утреннюю молитву и проснулись только от жара солнца. Встав ото сна, они немного подождали, пока солнце не поднялось, а потом (Пророк ﷺ) велел муаззину (произнести азан), и тот сделал это, после чего (Пророк ﷺ) совершил молитву в два рак‘ата, (которую он обычно совершал) перед обязательной утренней молитвой. Затем (муаззин) произнёс икаму, и (люди вместе с Пророком ﷺ) совершили утреннюю молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>443</td></tr><tr><td>Reference</td><td>Book 2 Hadith 53</td></tr></tbody></table></div>
 

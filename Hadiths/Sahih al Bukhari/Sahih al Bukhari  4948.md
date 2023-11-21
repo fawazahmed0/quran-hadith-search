@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:While we were in a funeral procession in Baqi Al-Gharqad, Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Sa'd bin Ubaidah] dari [Abu Abdurrahman As Sulami] dari [Ali radliallahu 'anhu] ia berkata; Suatu ketika, kami berada dalam pelayatan jenazah di Baqi' Al Gharqad. Kemudian Rasulullah shallallahu 'alaihi wasallam datang lalu duduk dan kami pun ikut duduk di sekitar beliau. Saat itu, beliau membawa tongkat kecil dan beliau tegakkan dengan kakinya. Kemudian beliau bersabda: Tidak ada seorang pun, dan tidak ada satu jiwa pun yang bernafas, kecuali tempatnya telah ditulis di neraka dan di surga. Dan telah pula di tulis, apakah ia akan hidup sengsara atau bahagia." Maka seorang laki-laki bertanya, "Wahai Rasulullah, bagaimana kalau kita bertawakkal saja terhadap kitab kita (catatan yang telah ditetapkan) dan meninggalkan amal? Siapa diantara kita yang termasuk golongan yang beruntung, maka niscaya ia akan berjalan di atas amalan golongan yang beruntung (penghuni surga). Dan siapa yang termasuk Ahlusy Syaqa' (golongan selaka), maka niscaya ia akan berjalan di atas amalan Ahlusy Syaqa (golongan celaka, penghuni neraka)?." Beliau bersabda: "Adapun Ahlus Sa'adah (golongan yang beruntung, penghuni surga), maka ia akan dimudahkan untuk mengerjalan amalan Ahlus Sa'adah (golongan yang beruntung penghuni surga). Dan Ahlusy Syaqa' (golongan celaka) juga akan dimudahkan untuk melakukan amalan Ahlusy Syaqa' (golongan celaka)." Kemudian beliau membaca ayat: "FA'AMMAA MAN 'A'THAA WAT TAQAA WA SHADDAQA BIL HUSNAA (Dan barangsiapa yang memberi, dan bertakwa serta membenarkan kebaikan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 65 Hadith 470</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али передаёт: «Мы участвовали в похоронной процессии в Бакы‘-аль-Гаркад. К нам подошёл Посланник Аллаха ﷺ и сел, а мы же уселись вокруг него, и у него с собой была небольшая палка. Он опустил голову и стал ковырять этой палкой землю, а затем сказал: “Нет никого среди вас, как нет и вообще ни одной живой души, место которой в Аду или в Раю уже не было бы определено. Определено также, какой она является, — злосчастной или счастливой”. Один человек сказал: “О Посланник Аллаха, так не положиться ли нам на то, что уже предопределено, и не отказаться ли от дел? Ведь тот, кто относится к числу счастливых, всё равно придёт к делам счастливых. А относящийся к числу злосчастных всё равно придёт к делам злосчастных”. (Посланник Аллаха ﷺ) сказал: “Что касается счастливых, то для них будет облегчено совершение дел счастливых, что же касается злосчастных, то для них будет облегчено совершение дел злосчастных”. Затем Пророк Аллаха ﷺ прочитал: “Что касается того, кто отдавал, и был богобоязненным, и признавал наилучшее”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 65 Hadith 470</td></tr></tbody></table></div>
 

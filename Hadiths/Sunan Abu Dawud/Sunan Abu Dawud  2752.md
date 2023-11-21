@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Salamah (bin Al ‘Akwa) said “Abd Al rahman bin ‘Uyainah raided the Camels 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah], telah menceritakan kepada kami [Hasyim bin Al Qasim], telah menceritakan kepada kami [Ikrimah], telah menceritakan kepadaku [Iyas bin Salamah] dari [ayahnya], ia berkata; Abdurrahman bin 'Uyainah telah menyerang unta Rasulullah shallallahu 'alaihi wasallam dan membunuh penggembalanya, lalu ia dan para sahabatnya menggiring unta tersebut dengan menunggang kuda. Kemudian aku arahkan wajahku menghadap ke Madinah, kemudian aku menyeru tiga kali; peringatan…! Kemudian aku mengikuti orang-orang tersebut lalu aku memanah dan membunuh tunggangan mereka. Kemudian tiba-tiba terdapat seorang penunggang kuda yang kembali ke arahku. Aku duduk bersembunyi di panggal pohon, kemudian Allah tidaklah Allah memberikan tunggangan kepada Nabi shallallahu 'alaihi wasallam melainkan aku jadikan berada di belakang punggungku. Hingga mereka melemparkan lebih dari tiga puluh tombak dan tiga puluh pakaiaan untuk memperingan darinya. Kemudian 'Uyainah memberikan bala bantuan kepada mereka. Lalu ia berkata; hendaknya ada beberapa orang diantara kalian yang bangkit menuju kepadanya! Kemudian terdapat empar orang diantara mereka yang datang kepadaku dan menaiki gunung. Kemudian tatkala mereka mendengarku aku katakan; apakah kalian mengenalku? Mereka berkata; siapa engkau? Aku katakan; aku adalah Ibnu Al Akwa'. Demi Dzat yang telah memuliakan wajah Muhammad shallallahu 'alaihi wasallam, tidak ada seorangpun dari kalian yang mencariku kemudian mampu mendapatkanku. Dan tidaklah aku mencarinya dan ia luput dariku. Dan tidak lama kemudian aku melihat para penunggang kuda Rasulullah shallallahu 'alaihi wasallam yang menyelinap diantara pepohonan. Orang pertama mereka adalah Al Akhram Al Asadi, kemudian ia mengejar Abdurrahman bin 'Uyainah, kemudian Abdurrahman berbalik kepadanya, dan tusukan mereka bergantian dua tusukan. Lalu Al Akhram membunuh tunggangannya dan Abdurrahman menusuknya hingga ia mampu membunuhnya. Kemudian Abdurrahman berpindah kepada kuda Al Akhram. Lalu Abu Qatadah mengejar Abdurrahman kemudian mereka saling bergantian dua tusukan. Abdurrahman membunuh tunggangan Abu Qatadah dan Abu Qatadah membunuhnya. Kemudian Abu Qatadah berpindah ke kuda Al Akhram. Kemudian aku datang kepada Rasulullah shallallahu 'alaihi wasallam sementara beliau berada di tepi air yang aku jauhkan mereka darinya, yaitu Dzu Qarad. Ternyata Rasulullah shallallahu 'alaihi wasallam berada diantara lima ratus unta, kemudian beliau memberiku saham penunggang kuda dan pejalan kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (1807)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2752</td></tr><tr><td>Arabic No</td><td>2752</td></tr><tr><td>Reference</td><td>Book 15 Hadith 276</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (1807)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2752</td></tr><tr><td>Arabic No</td><td>2752</td></tr><tr><td>Reference</td><td>Book 15 Hadith 276</td></tr></tbody></table></div>
 

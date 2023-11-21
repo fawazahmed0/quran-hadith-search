@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I heard Allah's Messenger (ﷺ) while he was standi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hakam bin Nafi'] Telah mengabarkan kepada kami [Syu'aib] dari [Azzuhri] telah mengabarkan kepadaku [Salim bin Abdullah], bahwa [Abdullah bin Umar] berkata, "Aku mendengar Rasulullah Shalllhu'alaihiwasallam di atas minbar berkata: "Keberadaan kalian dibandingkan umat-umat sebelum kalian adalah bagaikan antara shalat ashar hingga matahari terbenam. Ahli taurat diberi taurat, lantas mereka mengamalkannya hingga pertengahan siang, kemudian mereka tak mampu bekerja lagi sehingga mereka diberi satu qirath. Lantas ahlu injil diberi injil dan mengamalkannya hingga shalat ashar, kemudian mereka tak mampu lagi melaksanakannya, sehingga diberi satu qirath. Kemudian kalian diberi al Quran, lantas kalian mengamalkannya hingga matahari terbenam, lantas kalian diberi dua qirath, maka ahli taurat dan injil menyampaikan protes 'Bagaimana ini, mereka (umat Islam) lebih sedikit bekerja, namun pahalanya lebih banyak? ' Maka Allah menjawab, 'Namun apakah aku menzhalimi pahala kalian? ' Mereka menjawab, 'Engkau tidak menzhalimi! ' Maka Allah berkata, 'Itulah keutamaan-Ku yang Aku berikan kepada siapa saja yang Aku kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7467</td></tr><tr><td>Arabic No</td><td>7467</td></tr><tr><td>Reference</td><td>Book 97 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: \n— Я слышал, как Посланник Аллаха ﷺ стоя на минбаре сказал: «Поистине, время вашего существования по сравнению с теми общинами, которые были до вас подобно промежутку между послеполуденной молитвой (‘аср) и закатом солнца. (В своё время) людям Таурата был дан Таурат, и они действовали (в соответствии с её установлениями), пока не обессилели к полудню, после чего им было даровано по кырату (награды). Затем людям Инджиля был дан Инджиль, и они действовали (в соответствии с его установлениями), пока не обессилели ко (времени) послеполуденной молитвы, после чего им было даровано по кырату (награды). А потом вам был дан Коран, и вы стали действовать (в соответствии с его установлениями) до заката солнца, после чего вам было даровано по два кырата (награды). Люди Таурата скажут: “О Господь наш! Эти (люди) меньше (совершили) деяний, но награду (получили) больше!”. Аллах скажет: “Разве Я обидел как-то в вашей награде?” Они ответят: “Нет”. Тогда Он скажет: “А это милость Моя, даю её тому, кому пожелаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7467</td></tr><tr><td>Arabic No</td><td>7467</td></tr><tr><td>Reference</td><td>Book 97 Hadith 93</td></tr></tbody></table></div>
 

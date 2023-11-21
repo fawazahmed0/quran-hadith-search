@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Mughîra Ibn Chu'ba (que Dieu l'agrée) a dit : Au temps de l'Envoyé de Dieu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Abdullah bin Numair] keduanya berkata, telah menceritakan kepada kami [Mush'ab] ia adalah anak Miqdam, telah menceritakan kepada kami [Za'idah] telah menceritakan kepada kami [Ziyad bin Ilaqah] -sementara di dalam riwayat Abu Bakr, ia berkata; Ziyad bin Ilaqah berkata- saya mendengar [Al Mughirah bin Syu'bah] berkata; Pernah terjadi gerhana matahari di masa Rasulullah shallallahu 'alaihi wasallam dan bertepatan dengan hari wafatnya Ibrahim putra Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Sesungguhnya matahari dan bulan adalah dua ayat dari ayat-ayat Allah. Tidaklah terjadi gerhana pada keduanya karena kematian salah seorang atau pun kelahirannya. Karena itu, jika kaliat melihat (gerhana pada) keduanya, maka berdo'alah kepada Allah dan shalatlah hingga ia bersinar kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2122</td></tr><tr><td>Arabic No</td><td>915</td></tr><tr><td>Reference</td><td>Book 10 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугыра ибн Шу‘ба, сказал: «В день смерти Ибрахима произошло солнечное затмение, и Посланник Аллаха ﷺ сказал: “Поистине, солнечные и лунные затмения не происходят ни из-за смерти, ни из-за жизни кого бы то ни было (из людей), если же вы увидите (подобное), взывайте к Аллаху и совершайте молитву, пока оно не закончится»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2122</td></tr><tr><td>Arabic No</td><td>915</td></tr><tr><td>Reference</td><td>Book 10 Hadith 31</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'A'isha:The Prophet (ﷺ) used to offer his night prayer while I was sl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami [Hisyam] berkata, telah menceritakan kepadaku [Bapakku] dari ['Aisyah] berkata, "Nabi shallallahu 'alaihi wasallam pernah berdiri shalat malam sedangkan aku berbaring membentang di atas tikarnya. Apabila akan melaksanakan shalat witir, beliau membangunkan aku hingga aku pun mengerjakan shalat witir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>997</td></tr><tr><td>Arabic No</td><td>997</td></tr><tr><td>Reference</td><td>Book 14 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Пророк ﷺ совершал ночную молитву, а я спала поперек в его постели. Когда же он хотел совершить молитву витр, он будил меня, и я тоже совершала молитву витр»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>997</td></tr><tr><td>Arabic No</td><td>997</td></tr><tr><td>Reference</td><td>Book 14 Hadith 8</td></tr></tbody></table></div>
 

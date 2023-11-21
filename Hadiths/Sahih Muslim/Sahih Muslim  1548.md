@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that the Messenger of Allah (ﷺ) observed Qunut for a mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz bin Asad] telah menceritakan kepada kami [Hammad bin Salamah] telah mengabarkan kepada kami [Anas bin Sirin] dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam pernah melakukan doa qunut selama sebulan setelah ruku' pada shalat fajar (subuh), beliau mendo'akan kebinasaan untuk Bani 'Ushayyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>677.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 381</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ в течение месяца молил (Аллаха) после поясных поклонов во время утренней молитвы покарать (многобожников из племени) бану усаййа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>677.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 381</td></tr></tbody></table></div>
 

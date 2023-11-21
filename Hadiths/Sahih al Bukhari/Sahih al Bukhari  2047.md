@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:You people say that Abu Huraira tells many narrations from 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah menceritakan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Sa'id bin Al Musayyab] dan [Abu Salamah bin 'Abdurrahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata; "Sesunggungnya kalian telah mengatakan bahwa Abu Hurairah adalah orang yang paling banyak menyampaikan hadits dari Rasulullah shallallahu 'alaihi wasallam dan kalian juga mengatakan tentang sahabat Muhajirin dan Anshar yang menyampaikan hadits dari Rasulullah shallallahu 'alaihi wasallam dengan tidak sebanyak yang disampaikan oleh Abu Hurairah. Sungguh saudara-saudaraku dari kalangan Muhajirin mereka disibukkan dengan berdagang di pasar-pasar sedangkan aku selalu mendampingi (mulazamah) Rasulullah shallallahu 'alaihi wasallam dalam keadaan perutku hanya terisi makanan pokok sehingga aku hadir saat mereka tidak hadir dan aku dapat menghafal hadits ketika mereka lupa. Sedangkan saudara-saudaraku dari kalangan Anshar mereka disibukkan dengan pekerjaan mereka dalam mengurus harta mereka sedangkan aku saat itu adalah salah satu orang miskin dari kalangan orang-orang miskin Ahlush Shuffah sehingga aku dapat mengingat hadits saat mereka lupa, dan sungguh Rasulullah shallallahu 'alaihi wasallam telah bersabda dalam suatu hadits yang Beliau sampaikan kepadaku yaitu: "Tidaklah seseorang menggelar kainnya hingga aku selesaikan sabdaku ini diatas kainnya itu lalu dia menampung dan mengambilnya kembali melainkan dia akan dapat menjaga (menghafal dan memahami) apa yang aku sabdakan". Maka aku menggelar kainku yang bermotif (bergaris) hingga ketika Beliau telah menyelesaikan sabda Belliau aku ambil kain tersebut lalu aku peluk di dadaku. Maka setelah itu tidaklah aku lupa sedikitpun dari sabda-sabda Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2047</td></tr><tr><td>Arabic No</td><td>2047</td></tr><tr><td>Reference</td><td>Book 34 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Поистине, вы утверждаете, что Абу Хурайра передаёт много хадисов от Посланника Аллаха ﷺ. И вы спрашиваете, почему мухаджиры и ансары не рассказывают столько хадисов от Посланника Аллаха ﷺ подобно Абу Хурайре. Мои братья мухаджиры были заняты сделками на рынках, а я неотступно следовал за посланником Аллаха ﷺ, довольствуясь лишь тем, что могло насытить мой живот, и присутствовал, когда они отсутствовали, и я заучивал, когда они забывали. А ансаров занимали дела, связанные с их имуществом. Я был одним из бедняков ас-Суффы (место в мечети, в котором жили приезжие бедняки), и я заучивал, когда они забывали. Однажды Посланник Аллаха ﷺ сказал: «Тот, кто расстелит свою накидку, пока я не закончу свою речь, после чего он может собрать её, тот никогда не забудет то, что слышал от меня». И я расстелил свой плащ, который был на мне, и когда Посланник Аллаха ﷺ закончил свою речь, я собрал её на своей груди, и я ничего не забыл из тех слов Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2047</td></tr><tr><td>Arabic No</td><td>2047</td></tr><tr><td>Reference</td><td>Book 34 Hadith 1</td></tr></tbody></table></div>
 

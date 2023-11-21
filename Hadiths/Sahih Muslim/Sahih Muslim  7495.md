@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) said:The Angels were born out of li
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] dan [Abdu bin Humaid], berkata Abdu: Telah mengkhabarkan kepada kami, sedangkan Ibnu Rafi' berkata: Telah menceritakan kepada kami [Abdurrazzaq] telah mengkhabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Urwah] dari [Aisyah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Malaikat diciptakan dari cahaya, jin diciptakan dari api yang menyala-nyala dan Adam diciptakan dari sesuatu yang telah disebutkan (ciri-cirinya) untuk kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7495</td></tr><tr><td>Arabic No</td><td>2996</td></tr><tr><td>Reference</td><td>Book 55 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша (да будет доволен ею Аллах) сказала: «Посланник Аллаха ﷺ сказал: “Ангелы были созданы из света, джинны из чистого пламени /маридж/, а Адам из того, о чём вам было сказано”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7495</td></tr><tr><td>Arabic No</td><td>2996</td></tr><tr><td>Reference</td><td>Book 55 Hadith 78</td></tr></tbody></table></div>
 

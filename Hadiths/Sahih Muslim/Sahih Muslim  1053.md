@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:The Messenger of Allah (ﷺ) was among those whose prayers was bri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya binYahya] dan [Qutaibah bin Sa'id] Yahya berkata, telah mengabarkan kepada kami, sedangkan Qutaibah berkata, telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas] bahwa Rasulullah Shallallahu'alaihiwasallam dahulu termasuk manusia yang paling ringan shalatnya namun sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1053</td></tr><tr><td>Arabic No</td><td>469.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 215</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что молитва Посланника Аллаха ﷺ была наиболее лёгкой, но вместе с этим она была полноценной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1053</td></tr><tr><td>Arabic No</td><td>469.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 215</td></tr></tbody></table></div>
 

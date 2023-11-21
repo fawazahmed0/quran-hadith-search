@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A sister of Hudhayfah: The Prophet (ﷺ) as saying : You women folk, ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Manshur] dari [Rib'I bin Hirasy] dari [Isterinya] dari [Saudara perempuan Hudzaifah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai sekalian wanita, tidak cukupkah perak sebagai perhiasan kalian? Tidaklah salah seorang wanita dari kalian mengenakan perhiasan emas, lalu memperlihatkannya (kepada orang lain) kecuali ia akan disiksa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>4237</td></tr><tr><td>Reference</td><td>Book 36 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сестра Хузайфы передаёт, что Посланник Аллаха ﷺ сказал: «О женщины! Разве нет у вас серебра, чтобы украшаться им? Поистине, любая из вас, открыто носящая золото, подвергнется мучениям за это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>4237</td></tr><tr><td>Reference</td><td>Book 36 Hadith 24</td></tr></tbody></table></div>
 

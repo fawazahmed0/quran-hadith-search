@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) that she asked Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Habban] telah menceritakan kepada kami [Daud bin Abu Al Furat] telah menceritakan kepada kami [Abdullah bin Buraidah] dari [Yahya bin Ya'mar] dari ['Aisyah isteri Nabi] shallallahu 'alaihi wasallam bahwa dia pernah mengabarkan kepada kami, bahwa dia pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai penyakit lepra, lantas Nabiyullah shallallahu 'alaihi wasallam memberitahukan kepadanya; "Bahwa penyakit lepra merupakan azab yang Allah timpakan terhadap siapa yang dikehendaki-Nya, dan menjadikannya sebagai rahmat bagi orang-orang yang beriman. Tidaklah seseorang yang berada di wilayah yang terjangkit penyakit lepra, kemudian ia tetap tinggal di negerinya dan selalu bersabar, ia mengetahui bahwa penyakit tersebut tidak akan mengjangkitinya kecuali apa yang Allah tetapkan kepadanya, maka baginya seperti pahalanya orang yang mati syahid." Hadits ini juga di perkuat oleh riwayat [An Nadlr] dari [Daud]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5734</td></tr><tr><td>Arabic No</td><td>5734</td></tr><tr><td>Reference</td><td>Book 76 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, рассказала, что (однажды) она спросила Посланника Аллаха ﷺ о чуме, и Пророк Аллаха ﷺ сообщил ей, что чума является наказанием, которое Аллах насылает, на кого пожелает (из Своих рабов), (однако) для верующих Аллах сделал (чуму) милостью, ибо любой раб (Аллаха), который останется в своём городе, если там разразится чума, проявляя терпение, (так как) он знает, что не постигнет его ничто, кроме предопределённого ему Аллахом, получит такую же награду, как и павший за веру
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5734</td></tr><tr><td>Arabic No</td><td>5734</td></tr><tr><td>Reference</td><td>Book 76 Hadith 49</td></tr></tbody></table></div>
 

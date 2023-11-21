@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Whenever drought threatened them, 'Umar bin Al-Khattab, used to as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Muhammad] berkata, telah menceritakan kepada kami [Muhammad bin 'Abdullah Al Anshari] berkata, telah menceritakan kepadaku bapakku ['Abdullah bin Al Mutsanna] dari [Tsumamah bin 'Abdullah bin Anas] dari [Anas bin Malik] bahwa ['Umar bin Al Khaththab] radliallahu 'anhu ketika kaum muslimin tertimpa musibah, ia meminta hujan dengan berwasilah kepada 'Abbas bin 'Abdul Muththalib seraya berdo'a, "Ya Allah, kami meminta hujan kepada-Mu dengan perantaraan Nabi kami, kemudian Engkau menurunkan hujan kepada kami. Maka sekarang kami memohon kepada-Mu dengan perantaraan paman Nabi kami,, maka turunkanlah hujan untuk kami." Anas berkata, "Mereka pun kemudian mendapatkan hujan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1010</td></tr><tr><td>Arabic No</td><td>1010</td></tr><tr><td>Reference</td><td>Book 15 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что когда (мусульман) поражала засуха, ‘Умар бин аль-Хаттаб, да будет доволен им Аллах, всегда просил аль-‘Аббаса бин ‘Абд аль-Мутталиба обратиться к Аллаху с мольбой о ниспослании дождя, и он говорил: «О Аллах, поистине, мы всегда просили нашего пророка обращаться к Тебе с мольбой о дожде, и Ты посылал нам дождь, а теперь мы просим обратиться к Тебе дядю нашего пророка, так пошли же нам дождь!» — и дождь действительно ниспосылался им
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1010</td></tr><tr><td>Arabic No</td><td>1010</td></tr><tr><td>Reference</td><td>Book 15 Hadith 5</td></tr></tbody></table></div>
 

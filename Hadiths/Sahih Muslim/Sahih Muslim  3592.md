@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Fadl (Allah be pleased with her) reported that a person from Banu 'Amir b. S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Mu'adz]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [ayahku] dari [Qatadah] dari [Shalih bin Abu Maryam Abu Al Khalil] dari [Abdullah bin Al Harits] dari [Ummu Al Fadll] bahwa seorang laki-laki dari Bani Amir bin Sha'sha'ah berkata; "Wahai Nabiyullah, apakah satu hisapan telah menjadikan seseorang itu mahram?" Beliau menjawab: "Tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3592</td></tr><tr><td>Arabic No</td><td>1451.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3592</td></tr><tr><td>Arabic No</td><td>1451.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 25</td></tr></tbody></table></div>
 

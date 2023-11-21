@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:While I was walking with Allah's Messenger (ﷺ) in one of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari [Abdullah] berkata, "Pernah aku berjalan bersama Rasulullah shallallahu 'alaihi wasallam di sebuah kebun di Madinah, saat beliau bertelekan di atas tongkat. Kemudian beliau melewati sekelompok orang Yahudi, sebagian diantara mereka bertanya kepada sebagian lainnya 'Coba tanyailah dia tentang nyawa', sedang sebagian lain berkata 'Jangan tanyai dia tentang nyawa'. Kemudian beliau berdiri bertelekan di atas tongkatnya sedang saya berada di belakangnya, aku taksir beliau sedang menerima wahyu, lantas beliau membacakan kepada mereka: '(Dan mereka bertanya kepadamu tentang nyawa, katakanlah bahwa nyawa itu adalah urusan tuhanku, dan tidaklah kamu diberi ilmu melainkan sedikit) ' (Qs. Al Isra': 85). Maka sebagian di antara mereka berkata kepada sebagian lainnya, 'Kan telah kami katakan kepada kalian, jangan kalian tanya tentangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7456</td></tr><tr><td>Arabic No</td><td>7456</td></tr><tr><td>Reference</td><td>Book 97 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (Ибн Мас‘уд), да будет доволен им Аллах, сказал: \n— Однажды я вместе с Посланником Аллаха ﷺ опиравшимся на голую пальмовую ветвь, шли через посевы Медины, и мы прошли мимо группы людей из числа иудеев. Некоторые из них стали говорить другим: «Спросите его о душе», а некоторые говорили: «Не спрашивайте его о душе». После чего они спросили его (о душе). И тогда Пророк ﷺ стоял оперевшись на голую пальмовую ветвь, а я находился позади него, и был убеждён, что ему ниспосылается откровение. И тогда Пророк ﷺ сказал: «Они станут спрашивать тебя о душе. Скажи: “Душа — от повеления моего Господа, а вам дано знать об этом очень мало” (сура «аль-Исра», аят 85)». И некоторые из иудеев сказали другим: «Ведь мы сказали вам не спрашивайте его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7456</td></tr><tr><td>Arabic No</td><td>7456</td></tr><tr><td>Reference</td><td>Book 97 Hadith 82</td></tr></tbody></table></div>
 

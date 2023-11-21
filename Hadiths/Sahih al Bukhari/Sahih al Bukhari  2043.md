@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:that 'Umar had vowed in the Pre-Islamic period to perform I't
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa 'Umar radliallahu 'anhu bernadzar di zaman Jahiliyyah untuk beri'tikaf di Al Masjidil Haram. Dia ('Ubaid) berkata: "Aku menduga dia berkata: Untuk satu malam". Maka Rasulullah shallallahu 'alaihi wasallam berkata, kepadanya: "Tunaikanlah nadzarmu itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2043</td></tr><tr><td>Arabic No</td><td>2043</td></tr><tr><td>Reference</td><td>Book 33 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, что во время невежества (джахилиййи) ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, дал обет совершить и‘тикяф в мечети Аль-Харам в течение одной ночи. Посланник Аллаха ﷺ сказал ему: «Выполни свой обет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2043</td></tr><tr><td>Arabic No</td><td>2043</td></tr><tr><td>Reference</td><td>Book 33 Hadith 18</td></tr></tbody></table></div>
 

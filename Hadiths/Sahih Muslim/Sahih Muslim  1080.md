@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by some other narrators, Ibn 'Abbas and others, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq] keduanya berkata, telah mengabarkan kepada kami [Abu Amir al-'Aqadi] telah menceritakan kepada kami [Dawud bin Qais] telah menceritakan kepadaku [Ibrahim bin Abdullah bin Hunain] dari [Bapaknya] dari [Ibnu Abbas] dari [Ali] dia berkata, "Kekasihku Shallallahu'alaihiwasallam melarangku untuk membaca (al-Qur'an) dalam keadaan rukuk atau sujud." Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, Saya membaca di hadapan [Malik] dari [Nafi'] --Lewat jalur periwayatan lain--, dan telah menceritakan kepadaku [Isa bin Hammad al-Mishri] telah menceritakan kepada kami [al-Laits] dari [Yazid bin Abi Habib] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Ibnu Abi Fudaik] telah menceritakan kepada kami [adh-Dhahhak bin Utsman] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [al-Muqaddami] telah menceritakan kepada kami [Yahya, dan dia adalah al-Qaththan] dari [Ibnu 'Ajlan] --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Usamah bin Zaid] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] mereka berkata, telah menceritakan kepada kami [Ismail mereka memaksudkan Ibnu Ja'far] telah mengabarkan kepadaku [Muhammad, dan dia adalah Ibnu Amru] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Hannad bin as-Sari] telah menceritakan kepada kami ['Abdah] dari [Muhammad bin Ishaq] semuanya meriwayatkan dari [Ibrahim bin Abdullah bin Hunain] dari [Bapaknya] dari [Ali] --Lewat jalur periwayatan lain-- kecuali [adh-Dhahhak] dan [Ibnu 'Ajlan] sesungguhnya keduanya menambahkan dari [Ibnu Abbas] dari [Ali] dari Nabi Shallallahu'alaihiwasallam semuanya berkata, "Beliau melarangku dari membaca al-Qur'an, sedangkan saya dalam keadaan rukuk." Dan mereka tidak menyebutkan dalam riwayat mereka larangan darinya pada saat sujud sebagaimana telah disebutkan az-Zuhri, Zaid bin Aslam, al-Walid bin Katsir, dan Dawud bin Qais. Dan telah menceritakannya kepada kami [Qutaibah] dari [Hatim bin Ismail] dari [Ja'far bin Muhammad] dari [Muhammad bin al-Munkadir] dari [Abdullah bin Hunain] dari [Ali] dan dia tidak menyebutkan dalam sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>480.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис также был передан посредством других иснадов, и в них говорится со слов Ибн ‘Аббаса, что ‘Али сказал: «(Пророк ﷺ) запретил мне читать Коран во время совершения поясного поклона», но в их версиях не упоминается, что он запретил делать это во время совершения земного поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>480.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 242</td></tr></tbody></table></div>
 

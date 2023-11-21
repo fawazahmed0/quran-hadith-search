@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: If any slave marries withou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] serta [Utsman bin Abu Syaibah], dan ini adalah lafazh sanadnya. Keduanya berasal dari [Waki'], telah menceritakan kepada kami [Al Hasan bin Shalih] dari [Abdullah bin Muhammad bin 'Aqil] dari [Jabir], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapapun budak yang menikah tanpa seizin tuannya, maka ia adalah pezina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2078</td></tr><tr><td>Arabic No</td><td>2078</td></tr><tr><td>Reference</td><td>Book 12 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Любой раб, женившийся без разрешения своего господина, является прелюбодеем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2078</td></tr><tr><td>Arabic No</td><td>2078</td></tr><tr><td>Reference</td><td>Book 12 Hadith 33</td></tr></tbody></table></div>
 

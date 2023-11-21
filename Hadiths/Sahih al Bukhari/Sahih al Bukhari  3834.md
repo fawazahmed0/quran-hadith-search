@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais bin Abi Hazim:Abu Bakr went to a lady from the Ahmas tribe called 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu an Nu'man] telah menceritakan kepada kami [Abu 'Awanah] dari [Bayan Abu Bisyr] dari [Qais bin Abu Hazim] berkata; [Abu Bakar] menemui seorang wanita suku Ahmas (Quraisy) yang bernama Zainab, lalu dia melihat bahwa wanita itu tidak mau berbicara. Abu Bakar bertanya; "Kenapa dia tidak mau berbicara?". Orang-orang menjawab; "Dia (bernadzar untuk) berhaji dengan tidak berbicara". Maka Abu Bakar berkata kepada wanita itu; "Berbicaralah, karena perbuatanmu ini tidak halal. Ini termasuk perbuatan jahiliyyah". Lalu wanita itu berbicara dan bertanya: "Kamu siapa?" Abu Bakar menjawab; "Hanya seorang laki-laki dari kaum Muhajirin". Wanita itu bertanya lagi; "Muhajirin yang mana?". Abu Bakar menjelaskan; "Dari suku Quraisy". Wanita tu kembali bertanya; "Quraisy yang mana kamu?". Abu Bakar menegaskan; "Kamu ini banyak bertanya. Aku ini Abu Bakar". Wanita itu berkata; "Apa yang membuat kami eksis di atas kebaikan dari apa yang Allah datangkan setelah zaman jahiliyyah ini?". Abu Bakar menjawab; "Yang membuat kalian tetap di atas kebaikan adalah selama pemimpin-pemimpin kalian istiqamah". Wanita itu bertanya; "Siapakah para pemimpin?". Abu Bakar menjawab; "Bukankah kaummu memiliki para pembesar dan tokoh yang memerintahkan mereka lalu mereka menta'ati pemimpin mereka?". Wanita itu menjawab; "Ya benar". Abu Bakar berkata; "Mereka itulah para pemimpin masyarakat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3834</td></tr><tr><td>Arabic No</td><td>3834</td></tr><tr><td>Reference</td><td>Book 63 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщение, что Кайс ибн Аби Хазим сказал: «(Как-то раз) Абу Бакр зашёл к одной женщине из племени ахмас, которую звали Зайнаб, и узнал, что она не разговаривает. Он спросил: “Почему она не разговаривает?” (Люди) сказали: “Она совершила хадж молча”. Абу Бакр сказал ей: “Говори, ибо, поистине, (молчать) не разрешается (, ведь) это из дел джахилийи”. Тогда эта женщина начала разговаривать и спросила: “Кто ты?” Он сказал: “Я человек из числа мухаджиров”. Она спросила: “Из каких именно мухаджиров?” Он сказал: “Из курайшитов”. Она (снова) спросила: “Из каких ты курайшитов?” Он сказал: “Ты задаешь слишком много вопросов! Я Абу Бакр!” Она сказала: “Сколько мы будем пребывать в этом праведном состоянии, которое дал нам Аллах после джахилийи?” Он ответил: “Это будет продолжаться до тех пор, пока прямы будут ваши правители /имамы/”. Она спросила: “А кто такие имамы?” Он тогда сказал: “Разве у твоего народа не было руководителей, знатных людей, которые приказывали (людям), и они подчинялись им?” Она ответила: “Да, были”. (Абу Бакр) сказал: “Это и есть правители людей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3834</td></tr><tr><td>Arabic No</td><td>3834</td></tr><tr><td>Reference</td><td>Book 63 Hadith 59</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:When the Prophet (ﷺ) went out for (the battle of) Uhu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari ['Adiy bin Tsabit] dari ['Abdullah bin Yazid] berkata; Aku mendengar [Zaid bin Tsabit radliallahu 'anhu] berkata, Ketika Nabi shallallahu 'alaihi wasallam keluar (untuk perang) menuju Uhud, sebagian dari para sahabat ada yang mundur. Sebagian kelompok dari sahabat ada yang berkata: "Kita akan bunuh mereka", dan sebagian kelompok lain berkata; "Kita tidak akan membunuh mereka". Maka kemudian turunlah firman Allah Ta'ala QS Qn-Nisa ayat 88 yang artinya: ("Mengapa kalian (terpecah) menjadi dua golongan (yang berbeda pendapat) dalam menyikapi orang-orang munafiqin..?"). Dan Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya kota Madinah ini akan membersihkan orang-orang sebagaimana api membersihkan karatnya besi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 29 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Сабит, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ отправился (на сражение) к горе Ухуд, некоторые из его спутников вернулись (домой). Часть (сподвижников) сказала: «Давайте убьём их (вернувшихся)», но другая часть сказала: «Не будем убивать». Тогда было ниспослано: «Почему вы разошлись во мнениях относительно лицемеров на две группы?» (сура «ан-Ниса», аят 88). Пророк ﷺ сказал: «Поистине, она (Медина) отвергает дурных (людей) подобно тому, как огонь удаляет нечистоты из железа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 29 Hadith 18</td></tr></tbody></table></div>
 

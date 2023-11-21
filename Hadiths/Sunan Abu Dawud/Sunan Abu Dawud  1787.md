@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir bin Abdullah said “We raised our voices in talbiyah along with the Apost
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7367) Sahih Muslim (1216)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1787</td></tr><tr><td>Arabic No</td><td>1787</td></tr><tr><td>Reference</td><td>Book 11 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что он сказал: «Мы вместе с посланником Аллаха ﷺ произнесли тальбию только для хаджа и прибыли в Мекку по прошествии четырёх дней с начала месяца зуль-хиджжа. Мы совершили обход вокруг Каабы и пробег между холмами Сафа и Марва, а потом Посланник Аллаха ﷺ велел нам снять ихрам и сказал: “Если бы я не гнал жертвенный скот, я бы снял ихрам”. Затем со своего места поднялся Сурака ибн Малик и сказал: “О Посланник Аллаха! Этот временный выход из ихрама разрешён только в этом году или это навсегда?” Посланник Аллаха ﷺ сказал: “Это навсегда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7367) Sahih Muslim (1216)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1787</td></tr><tr><td>Arabic No</td><td>1787</td></tr><tr><td>Reference</td><td>Book 11 Hadith 67</td></tr></tbody></table></div>
 

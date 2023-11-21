@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) reported:We, about forty men, were with the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Muhammad bin Basysyar] dan lafazh milik Ibnu al-Mutsanna, keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Amru bin Maimun] dari [Abdullah] dia berkata, "Kami berada di sisi Rasulullah shallallahu 'alaihi wasallam dalam sebuah kubah sekitar empat puluh orang laki-laki, maka beliau bersabda: "Apakah kalian rela menjadi seperempat dari penduduk surga? ' Kami menjawab, 'Ya.' Lalu beliau bertanya lagi: 'Apakah kalian rela menjadi sepertiga dari penduduk surga? ' Kami menjawab, 'Ya.' Maka beliau bersabda: "Demi Dzat yang jiwaku berada di tangan-Nya, sesungguhnya aku mengharap kalian menjadi setengah dari penduduk surga, hal tersebut karena surga tidak akan dimasuki kecuali oleh jiwa yang muslim. Dan tidaklah kalian berada pada ahli syirik melainkan seperti bulu putih pada kulit sapi hitam, atau seperti bulu hitam pada kulit sapi yang merah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>530</td></tr><tr><td>Arabic No</td><td>221.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 436</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах сказал: «(Как-то раз, когда) около сорока человек из нас находились в одном шатре вместе с Посланником Аллаха ﷺ, он спросил: “Хотели бы вы составить четверть обитателей Рая?” Мы ответили: “Да!” Он спросил: “А хотели бы вы составить треть обитателей Рая?” и мы (снова) ответили: “Да!” Тогда он сказал: “Клянусь Тем, в Чьей длани душа моя, поистине, я надеюсь, что вы составите половину обитателей Рая, ибо войдёт туда лишь человек покорившийся, (хотя ныне, находясь) среди многобожников, вы подобны белому волоску на шкуре чёрного быка (или: чёрному волоску на шкуре рыжего быка)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>530</td></tr><tr><td>Arabic No</td><td>221.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 436</td></tr></tbody></table></div>
 

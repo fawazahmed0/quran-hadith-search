@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:The Apostle of Allah (ﷺ) used to recite in the noon p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah Menceritakan kepada kami [Syu'bah] dari [Simak] dari [Jabir bin Samurah] dia berkata, "Nabi shallallahu 'alaihi wasallam membaca dalam shalat zhuhur dengan 'Wal-laili idza yaghsya', dan dalam shalat ashar dengan surat semisal hal tersebut, serta dalam shalat shubuh dengan surat yang lebih panjang dari hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>459</td></tr><tr><td>Reference</td><td>Book 4 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Самура сказал: «Пророк ﷺ читал во время полуденной /зухр/ “Клянусь ночью, когда она покрывает…” и во время послеполуденной /‘аср/ молитвы подобные ей суры, а во время утренней молитвы /фаджр/, (он читал суры) длиннее этих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>459</td></tr><tr><td>Reference</td><td>Book 4 Hadith 191</td></tr></tbody></table></div>
 

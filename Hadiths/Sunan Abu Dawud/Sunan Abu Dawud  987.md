@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Muslim bin Abu Maryam] dari [Ali bin Abdurrahman Al Mu'awi] dia berkata; [Abdullah bin Umar] melihatku, ketika aku sedang mempermainkan kerikil dalam shalat, seusai shalat, dia melarangku sambil berkata; "Perbuatlah seperti yang di perbuat oleh Rasulullah shallallahu 'alaihi wasallam." kataku; 'Bagaimana yang biasa di perbuat Rasulullah shallallahu 'alaihi wasallam?" dia menjawab; "Apabila beliau duduk dalam shalat, beliau meletakkan telapak tangan kanannya di atas paha kanannya dan menggenggam semua jari jemarinya seraya menunjuk dengan jari yang dekat ibu jari (jari telunjuk) dan meletakkan telapak tangan kirinya di atas paha kirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>987</td></tr><tr><td>Arabic No</td><td>987</td></tr><tr><td>Reference</td><td>Book 2 Hadith 598</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али ибн ‘Абду-р-Рахман аль-Му‘ави сказал: «Однажды ‘Абдуллах ибн ‘Умар увидел, как я перебираю мелкие камешки во время молитвы. Закончив молиться, он запретил мне поступать так и сказал: “Делай, как делал Посланник Аллаха ﷺ”. Я спросил: “А как он поступал?” Он ответил: “Когда Посланник Аллаха ﷺ садился во время молитвы, он возлагал правую кисть с согнутыми пальцами и вытянутым указательным на правое бедро, а левую кисть возлагал на левое бедро”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>987</td></tr><tr><td>Arabic No</td><td>987</td></tr><tr><td>Reference</td><td>Book 2 Hadith 598</td></tr></tbody></table></div>
 

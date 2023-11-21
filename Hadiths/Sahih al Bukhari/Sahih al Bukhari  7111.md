@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':When the people of Medina dethroned Yazid bin Muawiya, Ibn 'Umar 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] mengatakan, dikala Penduduk Madinah memecat Yazid bin Mu'awiyah, [Ibnu Umar] mengumpulkan kerabat dan anak-anaknya lantas mengatakan; Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda; "Setiap pengkhianat diberi bendera pada hari kiamat, dan saya telah membaiat orang ini untuk berjanji setia kepada Allah dan rasul-NYA, dan saya tidak tahu pengkhianatan lebih besar daripada seseorang yang dibai'at untuk berjanji setia kepada Allah dan rasul-Nya kemudian ia diberi bendera untuk perang, dan aku tidak tahu salah seorang diantara kalian jika melepaskan baiatnya, atau tidak pula ia berbaiat dalam urusan ini, melainkan antara aku dan dia ada batas pemisah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7111</td></tr><tr><td>Arabic No</td><td>7111</td></tr><tr><td>Reference</td><td>Book 92 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ сказал:\n— Когда жители Медины свергли Язида ибн Му‘авию, Ибн ‘Умар, да будет доволен им Аллах, собрал свою прислугу и детей, и сказал: «Поистине, я слышал, как Пророк ﷺ говорил: “В День воскрешения для (каждого) вероломного установят знамя”. И, поистине, мы присягнули на верность этому человеку (Язиду ибн Му‘авии) на основе принесенной клятвы Аллаху и Его Посланнику, и я не знаю большего вероломства, чем присяга человеку на основе принесенной клятвы Аллаху и Его Посланнику, а затем объявление ему сражения. И, поистине, если я узнаю, что кто-то из вас будет причастен к его свержению или присягнёт в этом деле, то между им и мной будет разрыв (в отношениях)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7111</td></tr><tr><td>Arabic No</td><td>7111</td></tr><tr><td>Reference</td><td>Book 92 Hadith 58</td></tr></tbody></table></div>
 

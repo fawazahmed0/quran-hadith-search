@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Sulaiman b. Dawud said:I will certainly have intercour
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq bin Hammam] telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [Ayahnya] dari [Abu Hurairah] dia berkata, "Sulaiman bin Daud pernah berkata, 'Sungguh aku akan menggilir tujuh puluh isteriku dalam semalam, yang nantinya masing-masing mereka akan melahirkan anak yang akan berjuang di jalan Allah, maka dikatakan kepadanya, 'Ucapkanlah Insya Allah'. Namun dia tidak mengucapannya, dan dia tetap menggilir mereka semua. Ternyata tidak ada seorang pun dari mereka yang melahirkan kecuali satu orang yang melahirkan anak yang cacat." Abu Hurairah melanjutkan, "Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Seandainya dia mengucapkan Insya Allah, maka dia tidak akan melanggar sumpahnya dan akan mendapatkan apa yang dihajatkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4288</td></tr><tr><td>Arabic No</td><td>1654.04</td></tr><tr><td>Reference</td><td>Book 27 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4288</td></tr><tr><td>Arabic No</td><td>1654.04</td></tr><tr><td>Reference</td><td>Book 27 Hadith 35</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that Allah's Messenger (ﷺ) said:The names dearest to Allah a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Ziyad] dan dia di juluki dengan nama Sabalan, Telah mengabarkan kepada kami ['Abbad bin 'Abbad] dari ['Ubaidullah bin 'Umar] dan saudara laki-lakinya ['Abdullah] yang dia dengar dari keduanya sejak tahun 144H, keduanya menceritakan dari [Nafi'] dari [Ibnu 'Umar] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya nama-nama yang paling disukai Allah Ta'ala ialah nama-nama seperti: 'Abdullah, 'Abdurrahman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5587</td></tr><tr><td>Arabic No</td><td>2132</td></tr><tr><td>Reference</td><td>Book 38 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5587</td></tr><tr><td>Arabic No</td><td>2132</td></tr><tr><td>Reference</td><td>Book 38 Hadith 2</td></tr></tbody></table></div>
 

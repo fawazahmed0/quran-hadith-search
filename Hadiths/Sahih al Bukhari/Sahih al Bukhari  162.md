@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If anyone of you performs ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian berwudlu hendaklah dengan memasukkan air ke dalam hidung, barangsiapa beristinja' dengan batu hendaklah dengan bilangan ganjil. Dan jika salah seorang dari kalian bangun dari tidurnya, hendaklah membasuh kedua telapak tangannya sebelum memasukkannya dalam bejana air wudlunya, sebab salah seorang dari kalian tidak tahu ke mana tangannya bermalam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>162</td></tr><tr><td>Arabic No</td><td>162</td></tr><tr><td>Reference</td><td>Book 4 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас станет совершать омовение, пусть набирает воду в нос и выпускает её обратно, когда кто-нибудь станет очищаться с помощью камней, пусть делает это нечётное число раз, а когда кто-нибудь из вас проснётся, пусть вымоет руку, прежде чем опустить её в воду для омовения, ибо никто не знает, где находилась его рука во время сна»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>162</td></tr><tr><td>Arabic No</td><td>162</td></tr><tr><td>Reference</td><td>Book 4 Hadith 28</td></tr></tbody></table></div>
 

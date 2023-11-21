@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:While the Prophet (ﷺ) was performing Tawaf of the Ka'ba, h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah menceritakan kepada kami [Hisyam] bahwa [Ibnu Juraij] mengabarkan kepada mereka, katanya telah mengabarkan kepada saya [Sulaiman Al Ahwal] bahwa [Thowus] nemgabarkan kepadanya dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Nabi Shallallahu'alaihiwasallam ketika sedang thawaf, Beliau melewati seorang yang mengikat tangannya kepada orang lain dengan tali atau benang atau selain itu. Maka Nabi Shallallahu'alaihiwasallam memutuskannya dengan tangan Beliau sendiri dan berkata, (kepada orang lainnya): "Tuntunlah dia dengan tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1620</td></tr><tr><td>Arabic No</td><td>1620</td></tr><tr><td>Reference</td><td>Book 25 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что, когда во время совершения обхода Каабы Пророк ﷺ прошёл мимо какого-то человека, привязавшего свою руку к (руке) другого человека ремешком (или: шнуром; или чем-то наподобие этого), он собственноручно разорвал (этот ремешок) и сказал: «Веди его за руку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1620</td></tr><tr><td>Arabic No</td><td>1620</td></tr><tr><td>Reference</td><td>Book 25 Hadith 105</td></tr></tbody></table></div>
 

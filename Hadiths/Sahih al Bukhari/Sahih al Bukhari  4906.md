@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Musa bin 'Uqba:'Abdullah bin Al-Fadl told me that Anas bin Malik said, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abdullah] ia berkta, Telah menceritakan kepadaku [Isma'il bin Ibrahim bin Uqbah] dari [Musa bin Uqbah] ia berkata, Telah menceritakan kepadaku [Abdullah bin Al Fadl] bahwa ia mendengar [Anas bin Malik] berkata; Aku merasa sedih terhadap mereka yang terbunuh dalam peristiwa Harrah. Lalu [Zaid bin Arqam] menulis surat kepadaku. Dan berita kesedihanku ternyata telah sampai padanya. Ia menyebutkan bahwa, ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya, Allah, berilah maghfirah bagi orang-orang Anshar dan juga bagi anak-anak kaum Anshar." Ibnul Fadl ragu-ragu terkait dengan ungkapan; Anak-anak Anshar. Lalu sebagian orang yang tengah berada di sisi Anas bertanya padanya, maka ia pun menjawab, "Itulah yang disabdakan oleh Rasulullah shallallahu 'alaihi wasallam. Inilah yang telah disempurnakan Allah melalui pendengarannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4906</td></tr><tr><td>Arabic No</td><td>4906</td></tr><tr><td>Reference</td><td>Book 65 Hadith 426</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд бин Аркам, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “О Аллах, прости ансаров и детей ансаров!”» \nПередатчик этого хадиса был не уверен, (сказал ли Пророк ﷺ также): «…и детей детей ансаров!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4906</td></tr><tr><td>Arabic No</td><td>4906</td></tr><tr><td>Reference</td><td>Book 65 Hadith 426</td></tr></tbody></table></div>
 

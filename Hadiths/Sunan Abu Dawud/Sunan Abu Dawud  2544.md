@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuWahb: The Prophet (ﷺ) said: Keep to every sorrel horse with a whit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah], telah menceritakan kepada kami [Hisyam bin Sa'id Ath Thalqani], telah menceritakan kepada kami [Muhammad bin Al Muhajir Al Anshari], telah menceritakan kepadaku ['Aqil bin Syabib], dari [Abu Wahb Al Jusyami], dan ia pernah menyertai Rasulullah shallallahu 'alaihi wasallam, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Hendaknya kalian memiliki kuda hitam kemerah-merahan yang dahinya dan kakinya berwarna putih, atau yang berwarna blonde yang dahi dan kakinya berwarna putih, atau kuda hitam yang dahi dan kakinya berwarna putih." Telah menceritakan kepada kami [Muhammad bin 'Auf Ath Thai], telah menceritakan kepada kami [Abu Al Mughirah], telah menceritakan kepada kami [Muhammad bin Muhajir], telah menceritakan kepada kami ['Aqil bin Syabib], dari [Abu Wahb], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap kuda yang berwarna blonde yang dahi dan kakinya berwarna putih, atau kuda yang kemerah-merahan yang dahi dan kakinya berwarna putih." Ia menyebutkan seperti hadits tersebut. Muhammad bin Muhajir berkata; dan aku bertanya kepada 'Aqil; kenapa lebih diutamakan yang berwarna kemerahan? Ia berkata; karena Nabi shallallahu 'alaihi wasallam telah mengutus sebuah pasukan dan orang yang paling pertama membawa berita kemenangan adalah orang yang memiliki kuda kemerah-merahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2544</td></tr><tr><td>Arabic No</td><td>2544</td></tr><tr><td>Reference</td><td>Book 15 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2544</td></tr><tr><td>Arabic No</td><td>2544</td></tr><tr><td>Reference</td><td>Book 15 Hadith 68</td></tr></tbody></table></div>
 

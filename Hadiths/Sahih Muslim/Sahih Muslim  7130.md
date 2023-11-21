@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Paradise is surrounded by hardships and the Hell-Fire
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dan [Humaid] dari [Anas bin Malik] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Surga diliputi hal-hal yang tidak menyenangkan dan neraka diliputi syahwat." Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Syababah] telah menceritakan kepadaku [Warqa'] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam sepertinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7130</td></tr><tr><td>Arabic No</td><td>2822</td></tr><tr><td>Reference</td><td>Book 53 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик (да будет доволен им Аллах) сказал:«Посланник Аллаха ﷺ сказал: “Рай окружен ненавистным, а (адский) Огонь – страстями”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7130</td></tr><tr><td>Arabic No</td><td>2822</td></tr><tr><td>Reference</td><td>Book 53 Hadith 1</td></tr></tbody></table></div>
 

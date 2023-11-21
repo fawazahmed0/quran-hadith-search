@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Maimunah, wife of the Probhet (ﷺ) said :I had a slave girl and I set her free.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hannad bin As Sarri] dari ['Abdah] dari [Muhammad bin Ishaq], dari [Bukair bin Abdullah bin Al Asyajj] dari [Sulaiman bin Yasar] dari [Maimunah] istri Rasulullah shallallahu 'alaihi wasallam, ia berkata; aku pernah mempunyai budak wanita yang telah aku bebaskan. Lalu Nabi shalla Allahu 'alaihi wa sallam masuk menemuiku dan aku memberitahukan hal tersebut kepadanya, lalu beliau berkata: "Mudah-mudahan Allah memberimu pahala, adapun kalau seandainya kamu berikan budak wanita tersebut kepada paman-pamanmu, maka akan menjadi pahala lebih besar bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1690</td></tr><tr><td>Arabic No</td><td>1690</td></tr><tr><td>Reference</td><td>Book 9 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Маймуны, да будет доволен ею Аллах, жены Пророка ﷺ что она сказала: «У меня была рабыня, и я освободила её и сообщила об этом Пророку ﷺ когда он зашёл ко мне. Он сказал: “Да вознаградит тебя Аллах… Однако, если бы ты отдала её родственникам со стороны матери, твоя награда была бы больше”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1690</td></tr><tr><td>Arabic No</td><td>1690</td></tr><tr><td>Reference</td><td>Book 9 Hadith 135</td></tr></tbody></table></div>
 

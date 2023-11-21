@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdu bin Humaid] telah mengkhabarkan kepada kami [Abdurrazzaq] telah mengkhabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar] berkata: Nabi Shallallahu 'alaihi wa Salam bersabda: "Bila seseorang meninggal dunia, tempatnya diperlihatkan pada pagi dan sore hari, bila termasuk penghuni surga, ia termasuk penghuni surga dan bila termasuk penghuni neraka, ia termasuk penghuni neraka. Dikatakan: 'Inilah tempatmu yang akan kau tuju pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7212</td></tr><tr><td>Arabic No</td><td>2866.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7212</td></tr><tr><td>Arabic No</td><td>2866.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 81</td></tr></tbody></table></div>
 

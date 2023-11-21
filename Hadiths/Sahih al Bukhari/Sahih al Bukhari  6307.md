@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying." By Allah! I ask fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] dia berkata; [Abu Hurairah] berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Allah, sesungguhnya aku beristighfar (meminta ampunan) dan bertaubat kepada Allah dalam satu hari lebih dari tujuh puluh kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6307</td></tr><tr><td>Arabic No</td><td>6307</td></tr><tr><td>Reference</td><td>Book 80 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Клянусь Аллахом, поистине, я прошу Аллаха о прощении и приношу Ему покаяние более семидесяти раз в день”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6307</td></tr><tr><td>Arabic No</td><td>6307</td></tr><tr><td>Reference</td><td>Book 80 Hadith 4</td></tr></tbody></table></div>
 

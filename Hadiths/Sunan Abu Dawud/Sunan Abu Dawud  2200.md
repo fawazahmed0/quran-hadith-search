@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Tawus said:Abu al-Sahba' said to Ibn Abbas: Do you know that a divorce by three 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ibnu Juraij], telah mengabarkan kepadaku [Ibnu Thawus], dari [ayahnya] bahwa Abu Ash Shahba' berkata kepada Ibnu Abbas; apakah engkau mengetahui bahwa tiga kali cerai dianggap satu kali pada zaman Nabi shallallahu 'alaihi wasallam, Abu Bakr, dan dihitung tiga kali pada kepemimpinan Umar. [Ibnu Abbas] berkata; ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1472)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2200</td></tr><tr><td>Arabic No</td><td>2200</td></tr><tr><td>Reference</td><td>Book 13 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Тавуса, что Абу ас-Сахба сказал Ибн ‘Аббасу: «Известно ли тебе о том, что во времена Пророка ﷺ и Абу Бакра, да будет доволен им Аллах, и в первые три года правления Умара трёхкратный развод (данный за один раз) засчитывался как однократный?» Ибн Аббас ответил: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1472)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2200</td></tr><tr><td>Arabic No</td><td>2200</td></tr><tr><td>Reference</td><td>Book 13 Hadith 26</td></tr></tbody></table></div>
 

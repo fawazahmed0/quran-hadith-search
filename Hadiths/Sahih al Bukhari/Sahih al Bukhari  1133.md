@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:In my house he (Prophet (p.b.u.h) ) never passed the last hours 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'ad] berkata, [bapakku] menceritakan dari [Abu Salamah] dari ['Aisyah radliallahu 'anha] berkata: "Tidaklah aku mendapatkan dia di sampingku saat datang waktu sahar (akhir malam menjelang Shubuh) kecuali dia dalam keadaan tidur". Yang dimaksud oleh 'Aisyah radliallahu 'anha adalah Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1133</td></tr><tr><td>Arabic No</td><td>1133</td></tr><tr><td>Reference</td><td>Book 19 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Заря заставала его у меня не иначе как спящим», имея в виду Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1133</td></tr><tr><td>Arabic No</td><td>1133</td></tr><tr><td>Reference</td><td>Book 19 Hadith 14</td></tr></tbody></table></div>
 

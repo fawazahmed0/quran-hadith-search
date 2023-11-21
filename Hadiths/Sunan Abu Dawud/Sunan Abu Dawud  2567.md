@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet(ﷺ) as saying “Do not treat the backs of yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Najdah], telah menceritakan kepada kami [Ibnu 'Ayyasy], dari [Yahya bin Abu 'Amr As Saibani], dari [Ibnu Abu Maryam], dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau berkata: "Janganlah kalian menjadikan punggung-punggung hewan kalian sebagai mimbar, karena sesungguhnya Allah telah menundukkannya untuk kalian agar dapat menyampaikan kalian ke negeri yang tidak dapat kalian capai kecuali dengan bersusah payah, dan Allah jadikan bumi untuk kalian, maka tunaikanlah hajat kalian di atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2567</td></tr><tr><td>Arabic No</td><td>2567</td></tr><tr><td>Reference</td><td>Book 15 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2567</td></tr><tr><td>Arabic No</td><td>2567</td></tr><tr><td>Reference</td><td>Book 15 Hadith 91</td></tr></tbody></table></div>
 

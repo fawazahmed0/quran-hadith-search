@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Mas'ud reported Allah's Messenger (ﷺ) as saying:Hell would be brou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyats] telah menceritakan kepada kami [ayahku] dari [Al Ala' bin Khalid Al Kahili] dari [Syaqiq] dari [Abdullah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Pada hari itu neraka jahannam didatangkan, ia mempunyai tujuh puluh ribu tali kekang, setiap tali kekang terdapat tujuh puluh ribu malaikat yang akan menyeretnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7164</td></tr><tr><td>Arabic No</td><td>2842</td></tr><tr><td>Reference</td><td>Book 53 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “В этот День приведут геенну, на которую (будет накинуто) семьдесят тысяч поводьев, и за каждый повод станут волочить её (за собой) по семьдесят тысяч ангелов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7164</td></tr><tr><td>Arabic No</td><td>2842</td></tr><tr><td>Reference</td><td>Book 53 Hadith 33</td></tr></tbody></table></div>
 

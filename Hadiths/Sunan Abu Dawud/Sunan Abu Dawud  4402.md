@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: AbuZubyan said: A woman who had committed adultery wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad] dari [Abu Al Ahwash]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] secara makna, dari [Atha bin As Sa'ib] dari [Abu Zhabyan] berkata; Hannad Al janbi berkata, "Pernah didatangkan kepada Umar seorang wanita yang berbuat zina, lalu ia memerintahkan agar wanita itu dirajam. Ketika Ali radliallahu 'anhu lewat, ia mengambil wanita itu dan melepaskannya. Umar lalu diberi kabar dengan kejadian tersebut, ia lantas berkata, "Pangilkanlah Ali agar ia menemuiku." [Ali radliallahu 'anhu] kemudian datang dan berkata, "Wahai Amirul Mukminin, engkau telah mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Pena pencatat amal dan dosa itu diangkat dari tiga golongan; anak kecil hingga ia balig, orang tidur hingga ia bangun dan orang gila hingga ia waras." Dan wanita ini adalah wanita gila dari bani Fulan. Mungkin saja perzinaan itu terjadi disaat gilanya kambuh." Umar menanggapi, "Aku tidak tahu." Ali langsung menimpali, "Aku juga tidak tahu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4402</td></tr><tr><td>Arabic No</td><td>4402</td></tr><tr><td>Reference</td><td>Book 40 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Забьяна аль-Джанби, что однажды к ‘Умару привели женщину, совершившую прелюбодеяние, и он велел побить её камнями, а проходивший мимо ‘Али взял и освободил её. Узнав об этом, ‘Умар велел позвать к нему ‘Али. ‘Али пришёл и сказал: «О повелитель верующих, ты знаешь, что Посланник Аллаха ﷺ сказал: “Подняты перья от троих: ребёнка, пока он не достигнет совершеннолетия, спящего, пока он не проснётся, и сумасшедшего, пока разум не вернётся к нему”. А это умалишённая из такого-то племени, и, возможно, тот, кто совершил с ней прелюбодеяние, сделал это, когда она пребывала в своём безумии». ‘Умар сказал: «Я не знаю (наверняка, что прелюбодеяние она совершила во время приступа безумства)». ‘Али сказал: «Я тоже не знаю (наверняка, что прелюбодеяние она совершила не во время приступа безумства)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4402</td></tr><tr><td>Arabic No</td><td>4402</td></tr><tr><td>Reference</td><td>Book 40 Hadith 52</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "(Allah said), 'Every good deed of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnu Musayyab] dari [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Semua amalan bani Adam adalah untuknya kecuali puasa, sesungguhnya puasa adalah untuk-Ku (Allah), dan Aku lah yang membalasnya, sungguh bau mulut orang yang berpuasa itu lebih wangi di sisi Allah dari pada harumnya minyak wangi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5927</td></tr><tr><td>Arabic No</td><td>5927</td></tr><tr><td>Reference</td><td>Book 77 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Аллах Всевышний сказал:) “Любое дело сына Адама (совершается им) для себя, кроме поста, ибо, поистине, он — для Меня, и Я воздам за него. А запах изо рта постящегося приятнее для Аллаха, чем благоухание мускуса”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5927</td></tr><tr><td>Arabic No</td><td>5927</td></tr><tr><td>Reference</td><td>Book 77 Hadith 142</td></tr></tbody></table></div>
 

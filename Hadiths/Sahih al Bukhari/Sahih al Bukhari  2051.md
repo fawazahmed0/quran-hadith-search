@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nu'man bin Bashir:The Prophet (ﷺ) said "Both legal and illegal thi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adiy] dari [Ibnu 'Aun] dari [Asy-Sa'biy] aku mendengar [An-Nu'man bin Basyir radliallahu 'anhuma] aku mendengar Nabi shallallahu 'alaihi wasallam. Dan diriwayatkan pula, telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Ibnu 'Uyainah] telah menceritakan kepada kami [Abu Farwah] dari [Asy-Sa'biy] berkata, aku mendengar [An-Nu'man bin Basyir] telah menceritakan kepada kami berkata, aku mendengar Nabi shallallahu 'alaihi wasallam. Dan diriwayatkan pula ['Abdullah bin Muhammad] dari [Ibnu 'Uyainah] dari [Abu Farwah] aku mendengar [Asy-Sa'biy] aku mendengar [An-Nu'man bin Basyir radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam. Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Abu Farwah] dari [Asy-Sa'biy] dari [An-Nu'man bin Basyir radliallahu 'anhu] berkata, telah bersabda Nabi shallallahu 'alaihi wasallam: "Yang halal sudah jelas dan yang haram juga sudah jelas. Namun diantara keduanya ada perkara yang syubhat (samar). Maka barangsiapa yang meninggalkan perkara yang samar karena khawatir mendapat dosa, berarti dia telah meninggalkan perkara yang jelas keharamannya dan siapa yang banyak berdekatan dengan perkara samar maka dikhawatirkan dia akan jatuh pada perbuatan yang haram tersebut. Maksiat adalah larangan-larangan Allah. Maka siapa yang berada di dekat larangan Allah itu dikhawatirkan dia akan jatuh pada larangan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2051</td></tr><tr><td>Arabic No</td><td>2051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ан-Ну‘манa бин Башира, да будет доволен им Аллах, что Пророк ﷺ сказал: «Дозволенное очевидно, и запретное очевидно, а между ними находится сомнительное. Отказавшийся от того, что может (только) показаться ему греховным, станет ещё решительнее отказываться от того, греховность чего будет для него очевидной, а осмеливающийся на то, что может внушать ему подозрения в своей греховности, близок и к тому, чтобы совершить явно (греховное). Прегрешения являются заповедным местом Аллаха, а тот, кто пасёт (свой скот) вокруг заповедника, (всегда) близок к тому, чтобы оказаться (на его земле)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2051</td></tr><tr><td>Arabic No</td><td>2051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 5</td></tr></tbody></table></div>
 

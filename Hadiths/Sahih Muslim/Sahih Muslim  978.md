@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir reported:I heard the Messenger of Allah (ﷺ) say: Straighten y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Amru bin Murrah] dia berkata, Saya mendengar [Salim bin Abi al-Ja'd al-Ghathafani] berkata, Saya mendengar [an-Nu'man bin Basysyir] berkata, "Saya mendengarRasulullah shallallahu 'alaihi wasallam bersabda, 'Sungguh kalian menyamakan shaf-shaf kalian atau Allah akan menyelisihkan wajah-wajah kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>978</td></tr><tr><td>Arabic No</td><td>436.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ан-Ну‘мана ибн Башира, что Посланник Аллаха ﷺ сказал: «Вы непременно должны выравнивать свои ряды, иначе Аллах обязательно изменит (или: разобщит) ваши лица!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>978</td></tr><tr><td>Arabic No</td><td>436.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 140</td></tr></tbody></table></div>
 

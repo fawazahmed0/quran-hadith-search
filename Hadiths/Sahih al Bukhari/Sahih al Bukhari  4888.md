@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:I recommend that my successor should take care of and secure the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] Telah menceritakan kepada kami [Abu Bakr] yakni Ibnu Ayyasy, dari [Husain] dari [Amru bin Maimun] ia berkata; [Umar bin Al Khaththab] radliallahu 'anhu berkata, "Aku wasiatkan khalifah untuk memperhatikan kaum Muhajirin yang pertama-tama kali hijrah, agar ia mengetahui apa yang menjadi hak mereka. Dan aku juga wasiatkan khalifah untuk memperhatikan orang-orang Anshar yang telah menyediakan tempat kediaman dan keimanan sebelum Nabi shallallahu 'alaihi wasallam berhijrah, agar ia menerima orang yang berbuat baik dari mereka dan memaafkan orang yang berbuat buruk dari mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4888</td></tr><tr><td>Arabic No</td><td>4888</td></tr><tr><td>Reference</td><td>Book 65 Hadith 408</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Амра ибн Маймуна, что ‘Умар, да будет доволен им Аллах, сказал: «Я завещаю халифу, который будет после меня помнить о правах и заслугах мухаджиров. И я завещаю ему хорошо относиться к ансарам, которые жили в этом месте (Медине), затем обрели веру, до переселения Пророка ﷺ. Он должен принимать от творящих добро из их числа и прощать сотворившего дурное из их числа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4888</td></tr><tr><td>Arabic No</td><td>4888</td></tr><tr><td>Reference</td><td>Book 65 Hadith 408</td></tr></tbody></table></div>
 

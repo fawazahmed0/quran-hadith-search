@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miqdam ibn Ma'dikarib: The Prophet (ﷺ) said: Beware, the fanged be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mushaffa Al Himshi] telah menceritakan kepada kami [Muhammad bin Harb] dari [Az Zubaidi] dari [Marwan bin Ru'bah At Taghlibi] dari [Abdurrahman bin Abu 'Auf] dari [Al Miqdam bin Ma'dikarib] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Ketahuilah, tidak halal hewan buas yang memiliki taring, keledai jinak, barang temuan dari harta orang kafir Mu'ahad (yang menjalin perjanjian dengan negara Islam) kecuali ia tidak membutuhkannya. Dan siapapun laki-laki yang bertamu kepada suatu kaum dan mereka tidak menjamunya, maka baginya untuk menuntut ganti yang seperti jamuan untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3804</td></tr><tr><td>Arabic No</td><td>3804</td></tr><tr><td>Reference</td><td>Book 28 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Микдама ибн Ма‘дий Кариба, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, не разрешается употреблять в пищу мясо диких зверей (хищников), домашних ослов, найденное имущество немусульманина, заключившего договор с мусульманами /му‘ахид/, за исключением тех случаев, когда он в нём не нуждается. И если человек остановился у каких-то людей, но они не оказали ему должного гостеприимства, он имеет права наказать их в размере, соответствующем тому гостеприимству, которое они обязаны были ему оказать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3804</td></tr><tr><td>Arabic No</td><td>3804</td></tr><tr><td>Reference</td><td>Book 28 Hadith 69</td></tr></tbody></table></div>
 

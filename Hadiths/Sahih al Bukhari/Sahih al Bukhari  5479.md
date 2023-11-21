@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Maghaffal:that he saw a man throwing stones with two fing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Rasyid] berkata, telah menceritakan kepada kami [Waki'] dan [Yazid bin Harun] -dan lafadz hadits tersebut adalah lafadz Yazid- dari [Kahmas Ibnul Hasan] dari [Abdullah bin Buraidah] dari [Abdullah bin Mughaffal], Bahwasanya ia melihat seorang laki-laki melempar batu dengan ketapel, maka Abdullah bin Mughaffal pun berkata, "Janganlah kamu melempar batu dengan ketapel, sebab Rasulullah shallallahu 'alaihi wasallam telah melarangnya, atau dia mengatakan, "Rasulullah membencinya. Beliau bersabda: "Sesungguhnya ia tidak bisa digunakan untuk memburu buruan dan tidak bisa untuk melukai (membunuh) musuh, ia hanya meremukkan tulang dan memecahkan mata." Setelah itu ia kembali melihat lelaki tersebut melempar batu dengan menggunakan ketapel, maka ia pun berkata, "Aku sampaikan kepadamu hadits Rasulullah shallallahu 'alaihi wasallam, bahwa beliau melarang, atau membeci ketapel namun kamu tetap melakukannya, sungguh aku tidak akan berbicara denganmu begini dan begini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5479</td></tr><tr><td>Arabic No</td><td>5479</td></tr><tr><td>Reference</td><td>Book 72 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин Мугъаффаля, да будет доволен им Аллах, что, увидев, как один человек мечет пальцами камешки, он сказал ему: «Не делай этого, ибо Посланник Аллаха ﷺ запретил нам метать камешки (или: неодобрительно отозвался об этом) и сказал: “Поистине, так не убьёшь дичи и не поразишь врага, но можно выбить (другому) глаз или сломать зуб”».\nА после этого он увидел, что этот человек снова принялся за своё, и сказал ему: «Я говорю тебе, что Посланник Аллаха ﷺ запретил это (или: неодобрительно отозвался об этом), а (потом) ты (снова начинаешь) метать! Не буду я разговаривать с тобой (в течение такого-то времени)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5479</td></tr><tr><td>Arabic No</td><td>5479</td></tr><tr><td>Reference</td><td>Book 72 Hadith 5</td></tr></tbody></table></div>
 

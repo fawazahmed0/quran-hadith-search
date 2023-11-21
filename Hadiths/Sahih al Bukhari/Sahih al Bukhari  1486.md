@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) had forbidden the sale of dates till they w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepada saya ['Abdullah bin Dinar]; Aku mendengar [Ibnu'Umar radliallahu 'anhuma] (berkata,): Nabi Shallallahu'alaihiwasallam melarang menjual kurma sampai nampak kebaikannya (matang) dan bila ditanya tentang kebaikannya Beliau menjawab bila hama (suatu yang nampak sebagai resiko) sudah hilang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1486</td></tr><tr><td>Arabic No</td><td>1486</td></tr><tr><td>Reference</td><td>Book 24 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил продавать плоды до того, как станет ясно, что они годны к употреблению. И когда его спросили, что это значит, Пророк ﷺ сказал: “Пока не исчезнет опасность порчи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1486</td></tr><tr><td>Arabic No</td><td>1486</td></tr><tr><td>Reference</td><td>Book 24 Hadith 86</td></tr></tbody></table></div>
 

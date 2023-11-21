@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safwan bin Ya'la:Ya'la said to 'Umar, "Show me the Prophet (ﷺ) when h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1536</td></tr><tr><td>Arabic No</td><td>1536</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Йа‘ля бин Умаййа, да будет доволен им Аллах, передал, что (однажды) он попросил ‘Умара, да будет доволен им Аллах: «Покажи мне Пророка ﷺ в тот момент, когда ему будет ниспосылаться откровение».\n(Некоторое время спустя,) когда Пророк ﷺ вместе с группой своих сподвижников находился в Джи‘ране, к нему подошёл какой-то человек и спросил: «О Посланник Аллаха, что ты скажешь о том, кто надел ихрам для совершения умры, умастившись при этом благовониями?» После этого Пророк ﷺ в течение некоторого времени хранил молчание, а потом ему начало ниспосылаться откровение. И тогда ‘Умар, да будет доволен им Аллах, подал знак Йа‘ле, который подошёл поближе и увидел, что Посланник Аллаха ﷺ прикрылся (от солнца куском) материи. Йа‘ля заглянул внутрь, и оказалось, что лицо Посланника Аллаха ﷺ покраснело, а сам он хрипит. (Когда ниспослание откровения прекратилось, Пророк ﷺ) спросил: «Где тот, кто спрашивал об умре?» — а когда этого человека привели, он сказал: «Трижды смой (со своего тела) благовония, сними с себя эту джуббу и делай во время умры то же самое, что делаешь во время хаджа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1536</td></tr><tr><td>Arabic No</td><td>1536</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
 

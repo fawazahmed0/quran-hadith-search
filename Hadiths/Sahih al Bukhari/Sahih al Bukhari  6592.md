@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Haritha said that he heard the Prophet saying that his Lake-Fount would be as la
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6592</td></tr><tr><td>Arabic No</td><td>6592</td></tr><tr><td>Reference</td><td>Book 81 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хариса слышал, как Пророк ﷺ сказал, что (размеры) его Водоёма сравнимы с (расстоянием) между Саной и Мединой. Аль-Мустаурид спросил (Харису): «Разве ты не слышал, что он говорил о сосудах?!» Он ответил: «Нет». Аль-Мустаурид сказал: «Сосуды(, имеющиеся на его берегах, по численности своей) подобны небесным звёздам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6592</td></tr><tr><td>Arabic No</td><td>6592</td></tr><tr><td>Reference</td><td>Book 81 Hadith 180</td></tr></tbody></table></div>
 

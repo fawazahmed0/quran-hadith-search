@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl Ibn Sa'd (que Dieu l'agrée) a dit : L'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] telah menceritakan kepada kami [Abdul Aziz bin Abu Hazim] dari [ayahnya] dari [Sahl bin Sa'd] dia berkata; "Rasulullah shallallahu 'alaihi wasallam datang kepada kami saat kami sedang menggali khandaq (parit) dan mengangkut tanah di pundak kami, Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Ya Allah, tidak ada kehidupan yang hakiki selain kehidupan Akhirat, maka ampunilah orang-orang Muhajirin dan Anshar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4672</td></tr><tr><td>Arabic No</td><td>1804</td></tr><tr><td>Reference</td><td>Book 32 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4672</td></tr><tr><td>Arabic No</td><td>1804</td></tr><tr><td>Reference</td><td>Book 32 Hadith 154</td></tr></tbody></table></div>
 

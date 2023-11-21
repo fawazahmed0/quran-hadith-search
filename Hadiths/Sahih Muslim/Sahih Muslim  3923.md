@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) heard Allah's Messenger (ﷺ) say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Hajjaj bin Asy Sya'ir] telah menceritakan kepada kami ['Ubaidullah bin Abdul Majid] telah menceritakan kepada kami [Salim bin Hayyan] telah menceritakan kepada kami [Sa'id bin Mina'] dia berkata; Saya pernah mendengar [Jabir bin Abdullah] berkata; Sesungguhnya Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa yang memiliki kelebihan tanah, hendaklah dia menanaminya atau meminjamkan kepada saudaranya supaya menanaminya dan janganlah menjualnya." Saya bertanya kepada Sa'id; "Apakah maksud dari "jangan menjualnya" adalah "menyewakan kepadanya?" Dia menjawab; "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3923</td></tr><tr><td>Arabic No</td><td>1536.18</td></tr><tr><td>Reference</td><td>Book 21 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3923</td></tr><tr><td>Arabic No</td><td>1536.18</td></tr><tr><td>Reference</td><td>Book 21 Hadith 122</td></tr></tbody></table></div>
 

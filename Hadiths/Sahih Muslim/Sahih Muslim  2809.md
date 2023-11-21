@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Zubair heard Jabir b. 'Abdullah (Allah be pleased with them) as saying as he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Ibnu Abu Umar] - [Ibnu Abu Umar] berkata- Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Salim] dari [bapaknya] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Penduduk Madinah memulai Ihram dari Dzulhulaifah, penduduk Syam dari Juhfah, dan penduduk Najed dari Qarn." Ibnu Umar berkata; Telah disebutkan kepadaku namun saya tidak mendengarnya langsung bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dan bagi penduduk Yaman memulai Ihram dari Yalamlam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2809</td></tr><tr><td>Arabic No</td><td>1183.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2809</td></tr><tr><td>Arabic No</td><td>1183.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 20</td></tr></tbody></table></div>
 

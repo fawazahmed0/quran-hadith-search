@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "The example of a believer is like a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Muharib bin Ditsar] dia berkata; saya mendengar [Ibnu Umar] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Perumpamaan seorang muslim bagaikan pohon hijau, daunnya tidak pernah berjatuhan dan berguguran." orang-orang pun menjawab; "Ia adalah pohon ini, ia adalah pohon ini." Dan aku hendak menjawab; "Itu adalah pohon kurma, karena waktu itu aku masih sangat muda, maka akupun malu menjawabnya." Kemudian beliau bersabda: "Ia adalah pohon kurma." Dan dari [Syu'bah] telah menceritakan kepada kami [Khubaib bin Abdurrahman] dari [Hafsh bin 'Ashim] dari [Ibnu Umar] seperti hadits di atas, dia menambahkan; "Lalu aku sampaikan kepada Umar (ayahnya), Umar pun berkata; "Sekiranya kamu mengatakan hal itu, niscaya lebih aku sukai dari pada ini dan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6122</td></tr><tr><td>Arabic No</td><td>6122</td></tr><tr><td>Reference</td><td>Book 78 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара о том, что (однажды) Пророк ﷺ сказал: «Верующий подобен дереву, листья которого не опадают». Люди стали говорить: «Это такое-то дерево, это такое-то дерево». Я хотел сказать: «Это пальма», но тогда я был ещё молодым юношей, поэтому постеснялся (ответить). Тогда он сказал: «Это пальма». (Ибн ‘Умар) сказал: «И (позже) я рассказал об этом ‘Умару, и он сказал: “Если бы ты это сказал, то это было бы для меня любимее чем то-то и то-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6122</td></tr><tr><td>Arabic No</td><td>6122</td></tr><tr><td>Reference</td><td>Book 78 Hadith 149</td></tr></tbody></table></div>
 

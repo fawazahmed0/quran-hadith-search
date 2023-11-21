@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:People say, "Whenever you sit for answering the cal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah menceritakan kepada kami [Malik] telah mengabarkan kepada kami [Yahya bin Sa'id] dari [Muhammad bin Yahya bin Hibban] dari pamannya [Wasi' bin Hibban] dari ['Abdullah bin 'Umar] bahwa ia berkata, "Orang-orang berkata, "Jika kamu menunaikan hajatmu maka janganlah menghadap kiblat atau menghadap ke arah Baitul Maqdis." 'Abdullah bin 'Umar lalu berkata, "Pada suatu hari aku pernah naik atap rumah milik kami, lalu aku melihat Rasulullah shallallahu 'alaihi wasallam buang hajat menghadap Baitul Maqdis di antara dua dinding. Lalu ada seseorang yang berkata, "Barangkali kamu termasuk dari orang-orang yang shalat dengan mendekatkan paha (ke tanah)?" Maka aku jawab, "Demi Allah, aku tidak tahu." Malik berkata, "Yaitu orang yang shalat namun tidak mengangkat (paha) dari tanah ketika sujud, yakni menempel tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 4 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, говорил: «Люди говорят, что если ты присел по нужде, то не следует тебе поворачиваться лицом ни в сторону киблы, ни в сторону Иерусалима /Байтуль-Макъдис/».\nИ ‘Абдуллах ибн ‘Умар сказал: «А я однажды забрался на крышу нашего дома и увидел Посланника Аллаха ﷺ присевшего по своей нужде на два необожжённых кирпича и повернувшегося в сторону Иерусалима».\nИ затем он сказал: «Может быть, что ты из тех, кто совершает молитву (сидя) на своих бёдрах? Я (Васи‘ ибн Хаббан) сказал: «Я не знаю, клянусь Аллахом!»\nМалик сказал: «Он имеет ввиду того, кто совершает молитву не отрываясь от земли, и совершает земной поклон прижимаясь к земле»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 4 Hadith 11</td></tr></tbody></table></div>
 

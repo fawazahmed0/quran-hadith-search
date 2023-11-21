@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Some people said, "O Allah's Messenger (ﷺ)! Meat is brought to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Ahmad bin Al Miqdam Al 'Ijliy] telah menceritakan kepada kami [Muhammad bin 'Abdurrahman Ath-Thofawiy] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha]; Bahwa orang-orang berkata: "Wahai Rasululloh, ada suatu kaum yang mendatangi kami dengan daging yang kami tidak tahu apakah mereka menyebutkan nama Allah ketika menyembelihnya atau tidak". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebutlah nama Allah, lalu makanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2057</td></tr><tr><td>Arabic No</td><td>2057</td></tr><tr><td>Reference</td><td>Book 34 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) люди сказали: «О Посланник Аллаха, люди приносят нам мясо, а мы не знаем, произносили над ним имя Аллаха или нет». (На это) Посланник Аллаха ﷺ сказал: «Так произнесите над ним имя Аллаха и ешьте его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2057</td></tr><tr><td>Arabic No</td><td>2057</td></tr><tr><td>Reference</td><td>Book 34 Hadith 11</td></tr></tbody></table></div>
 

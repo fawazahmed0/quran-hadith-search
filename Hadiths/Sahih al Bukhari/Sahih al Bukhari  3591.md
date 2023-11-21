@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I enjoyed the company of Allah's Messenger (ﷺ) for three 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3591</td></tr><tr><td>Arabic No</td><td>3591</td></tr><tr><td>Reference</td><td>Book 61 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я сопровождал Посланника Аллаха ﷺ три года, стремясь перенять от него хадисы так, как никогда в своей жизни. И я слышал, как он сказал: “Перед тем, как настанет Час этот, вы сразитесь с людьми, которые (будут носить) волосяные сандалии”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3591</td></tr><tr><td>Arabic No</td><td>3591</td></tr><tr><td>Reference</td><td>Book 61 Hadith 98</td></tr></tbody></table></div>
 

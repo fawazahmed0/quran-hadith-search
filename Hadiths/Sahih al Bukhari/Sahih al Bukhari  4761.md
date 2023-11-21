@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:I or somebody, asked Allah's Messenger (ﷺ) "Which is the bi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Sufyan] dia berkata; Telah menceritakan kepadaku [Manshur] dan [Sulaiman] dari [Abu Wail] dari [Abu Maisarah] dari ['Abdullah] Demikian juga diriwayatkan dari jalur lainnya, berkata; Dan telah menceritakan kepadaku [Washil] dari [Abu Wail] dari ['Abdullah radliallahu 'anhu] dia berkata; Aku bertanya, atau Rasulullah shallallaahu 'alaihi wasallam ditanya, dosa apakah yang paling besar di sisi Allah? Beliau menjawab: "yaitu kamu menjadikan bagi Allah sekutu padahal Dia telah menciptakanmu." Aku bertanya lagi; kemudian apa? Nabi berkata: kamu membunuh anakmu karena takut makan bersamamu. Aku bertanya; kemudian apa? Beliau menjawab: 'Kemudian engkau berzina dengan istri tetanggamu.' Ibnu Mas'ud; Kemudian Allah menurunkan ayat yang membenarkan hal itu, yaitu: "Dan orang-orang yang tidak menyembah tuhan yang lain beserta Allah dan tidak membunuh jiwa yang diharamkan Allah (membunuhnya) kecuali dengan (alasan) yang benar, dan tidak berzina…, " (Al Furqan:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4761</td></tr><tr><td>Arabic No</td><td>4761</td></tr><tr><td>Reference</td><td>Book 65 Hadith 283</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «(Однажды) я спросил Посланника Аллаха ﷺ: “Что является величайшим грехом пред Аллахом?” Он ответил: “Приравнивание кого бы то ни было к Аллаху, Который создал тебя”. Я спросил: “А затем?” (Пророк ﷺ) сказал: “Убийство собственного сына из страха перед тем, что он будет есть вместе с тобой”. Я спросил: “А затем?” (Пророк ﷺ) сказал: “Совершение прелюбодеяния с женой твоего соседа”. И этот аят был ниспослан, подтверждая слова Посланника Аллаха ﷺ: “И они не взывают помимо Аллаха к другим богам, не убивают людей вопреки запрету Аллаха, если только они не имеют права на это, и не прелюбодействуют”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4761</td></tr><tr><td>Arabic No</td><td>4761</td></tr><tr><td>Reference</td><td>Book 65 Hadith 283</td></tr></tbody></table></div>
 

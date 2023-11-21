@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin 'Amir:Once the Prophet (ﷺ) went out and offered the funeral
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6590</td></tr><tr><td>Arabic No</td><td>6590</td></tr><tr><td>Reference</td><td>Book 81 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Укбы, да будет доволен им Аллах, что однажды Пророк ﷺ совершил заупокойную молитву по павшим при Ухуде, после чего поднялся на минбар и сказал: «Поистине, я опережу вас и буду свидетельствовать о вас, и, поистине, клянусь Аллахом, сейчас я вижу свой Водоём, и, поистине, были дарованы мне ключи от сокровищниц земли (или: ключи земли), и, поистине, клянусь Аллахом, я не боюсь того, что после моей смерти вы станете совершать многобожие, но боюсь, что будете вы соперничать друг с другом (из-за мирских благ)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6590</td></tr><tr><td>Arabic No</td><td>6590</td></tr><tr><td>Reference</td><td>Book 81 Hadith 178</td></tr></tbody></table></div>
 

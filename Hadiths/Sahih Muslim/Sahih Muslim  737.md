@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas said:The Apostle of Allah (ﷺ) performed ablution with one Mudd and took b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Waki'] dari [Mis'ar] dari [Ibnu Jabr] dari [Anas] dia berkata, "Nabi shallallahu 'alaihi wasallam berwudhu dengan satu mud dan mandi dengan satu sha' (empat mud) hingga lima mud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>737</td></tr><tr><td>Arabic No</td><td>325.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас сказал: «Пророк ﷺ совершал малое омовение используя один “мудд” воды, а полное омовение, используя от одного “са‘а” до пяти “муддов” (воды)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>737</td></tr><tr><td>Arabic No</td><td>325.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 59</td></tr></tbody></table></div>
 

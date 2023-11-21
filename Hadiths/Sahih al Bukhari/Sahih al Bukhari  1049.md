@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amra bint 'Abdur-Rahman:A Jewess came to ask 'Aisha (the wife of the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti 'Abdurrahman] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa ada seorang wanita Yahudi datang bertanya kepadanya, ia katakan, "Apakah Allah akan melindungi anda dari siksa kubur?" Maka Aisyah menanyakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, "Apakah manusia akan disiksa dalam kubur mereka?" Rasulullah shallallahu 'alaihi wasallam lalu menjawab: "Aku berlindung darinya." Kemudian di pagi hari Rasulullah shallallahu 'alaihi wasallam pergi mengendarai tunggangannya, tiba-tiba terjadi gerhana matahari. Lalu beliau segera kembali saat masih waktu dluha, beliau melewati di antara kamar-kamar (isterinya), beliau kemudian mendirikan shalat dengan diikuti oleh orang-orang di belakangnya. Beliau berdiri dengan lama, lalu rukuk dengan rukuk yang panjang, lalu mengangkat (kepala) kemudian berdiri dengan panjang, namun tidak sepanjang yang pertama. Kemudian rukuk kembali dengan panjang namun tidak sepanjang rukuk yang pertama, kemudian beliau mengangkat kepalanya dan sujud. Kemudian beliau kembali berdiri dengan panjang namun tidak sepanjang yang pertama, lalu rukuk dengan panjang namun tidak sepanjang rukuk yang pertama, lalu mengangkat (kepala) dan berdiri dengan panjang namun tidak sepanjang yang pertama. Kemudian beliau rukuk dengan panjang namun tidak sepanjang rukuk yang pertama. Kemudian beliau mengangkat kepalanya, lalu sujud dan mengakhiri shalatnya. Kemudian beliau bersabda sebagaimana yang dikendaki Allah, kemudian memerintahkan orang-orang agar mereka memohon perlindungan dari siksa kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1049</td></tr><tr><td>Arabic No</td><td>1049</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (как-то раз) к ней пришла одна иудейка, которая попросила её о чём-то, (а потом) сказала ей: «Да защитит тебя Аллах от мучений могилы!» (После этого) ‘Аиша, да будет доволен ею Аллах, спросила Посланника Аллаха ﷺ : «Разве люди будут подвергнуты мучениям в своих могилах?» — на что он сказал: «Да упасёт нас от этого Аллах!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1049</td></tr><tr><td>Arabic No</td><td>1049</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

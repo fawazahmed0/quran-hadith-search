@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of 'Abdullah b. Mas'ud that the Apostle (ﷺ) wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Ya'qub ash-Shaffar] telah menceritakan kepadaku [Ali bin Atstsam] dari [Su'air bin al-Khims] dari [Mughirah] dari [Ibrahim] dari ['Alqamah] dari [Abdullah] dia berkata, "Nabi shallallahu 'alaihi wasallam pernah ditanya mengenai perasaan waswas, maka beliau menjawab: 'Itu adalah tanda keimanan yang murni (benar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>342</td></tr><tr><td>Arabic No</td><td>133</td></tr><tr><td>Reference</td><td>Book 1 Hadith 249</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Однажды Посланника Аллаха ﷺ спросили о наущениях (шайтана), и он ответил: “Это есть чистая вера!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>342</td></tr><tr><td>Arabic No</td><td>133</td></tr><tr><td>Reference</td><td>Book 1 Hadith 249</td></tr></tbody></table></div>
 

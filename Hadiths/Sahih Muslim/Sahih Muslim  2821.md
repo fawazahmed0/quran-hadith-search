@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported that the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Hajjaj bin Muhammad] ia berkata, telah berkata [Ibnu Juraij] telah mengabarkan kepadaku [Shalih bin Kaisan] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhu, bahwa ia mengabarkan bahwasanya; Nabi shallallahu 'alaihi wasallam berihram ketika hewan tunggangannya telah berdiri tegak siap memberangkatkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2821</td></tr><tr><td>Arabic No</td><td>1187.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2821</td></tr><tr><td>Arabic No</td><td>1187.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
 

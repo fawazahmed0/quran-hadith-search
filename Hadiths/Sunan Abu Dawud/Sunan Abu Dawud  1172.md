@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Muhammad b. Ibrahim:A man who witnessed the Prophet (ﷺ) reported to m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Syu'bah] dari ['Abdi Rabbihi bin Sa'id] dari [Muhammad bin Ibrahim] telah mengabarkan kepadaku [seorang yang pernah melihat Nabi shallallahu 'alaihi wasallam] bahwa beliau pernah berdo'a dekat Ahjaariz Zait sambil membentangkan kedua telapak tangan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1172</td></tr><tr><td>Arabic No</td><td>1172</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Мухаммада ибн Ибрахима: «Один человек рассказал мне, что видел, как Пророк ﷺ обращался к Аллаху с мольбами у Ахджар-аз-Зейт, простирая ладони»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1172</td></tr><tr><td>Arabic No</td><td>1172</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
 

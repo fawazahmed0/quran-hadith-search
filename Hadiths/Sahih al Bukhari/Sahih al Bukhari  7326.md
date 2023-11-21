@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) used to go to the Quba' mosque, sometimes w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Abdullah bin Dinar] dari [Ibn Umar] radliallahu 'anhua, bahwa Nabi shallallahu 'alaihi wasallam pernah mendatangi Quba dengan berjalan kaki dan berkendaraan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7326</td></tr><tr><td>Arabic No</td><td>7326</td></tr><tr><td>Reference</td><td>Book 96 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен им Аллах, что Пророк ﷺ добирался до мечети Куба иногда пешком, а иногда верхом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7326</td></tr><tr><td>Arabic No</td><td>7326</td></tr><tr><td>Reference</td><td>Book 96 Hadith 56</td></tr></tbody></table></div>
 

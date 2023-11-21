@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:When (this verse) was revealed to him:" Warn your nearest k
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] dia berkata, telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata, telah mengabarkan kepadaku [Ibnu al-Musayyab] dan [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda ketika turun ayat ini kepadanya: '(Dan berilah peringatan kepada keluargamu yang dekat) ' (Qs. Asy Syu'ara': 214). Beliau bersabda: "Wahai sekelompok orang Quraisy, belilah diri kalian dari Allah, aku tidak dapat melindungi kalian dari siksa Allah sedikit pun, wahai bani Abd al-Muththalib, aku tidak dapat melindungi kalian dari siksa Allah sedikit pun, wahai Abbas bin Abd al-Muththalib, aku tidak dapat melindungi kalian dari siksa Allah sedikit pun, wahai Shafiyyah, bibi Rasulullah, aku tidak dapat melindungi kalian dari siksa Allah sedikit pun, wahai Fatimah binti Rasulullah, mintalah kepadaku sesuatu yang kamu kehendaki, aku tidak dapat melindungi kalian dari siksa Allah sedikit pun." Dan telah menceritakan kepadaku [Amru an-Naqid] telah menceritakan kepadaku [Muawiyah bin Amru] telah menceritakan kepadaku [Zaidah] telah menceritakan kepadaku [Abdullah bin Dzakwan] dari [al-A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam semisal ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>504</td></tr><tr><td>Arabic No</td><td>206.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 410</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, сказал: «Когда Посланнику Аллаха ﷺ был ниспослан (аят, в котором сказано): “И увещевай своих ближайших родственников” (Сура «аш-Шу‘ара», аят 214), он (обратился к курайшитам и) сказал: “О курайшиты, выкупайте самих себя у Аллаха, ибо я никак не смогу избавить вас от (наказания) Аллаха! О бану ‘абд аль-мутталиб, я никак не смогу избавить вас от (наказания) Аллаха! О ‘Аббас ибн ‘Абдульмутталиб, я никак не смогу избавить тебя от (наказания) Аллаха! О Сафиййа, тётка Посланника Аллаха, я никак не смогу избавить тебя от (наказания) Аллаха! О Фатима, дочь Посланника Аллаха, проси у меня чего хочешь (из моего имущества), но я никак не смогу избавить тебя от (наказания) Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>504</td></tr><tr><td>Arabic No</td><td>206.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 410</td></tr></tbody></table></div>
 

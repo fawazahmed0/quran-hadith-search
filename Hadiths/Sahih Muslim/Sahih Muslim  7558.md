@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), Sa'îd Ibn Jubayr a dit : Com
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muthi'] telah menceritakan kepada kami [Husyaim] dari [Abu Bisyr] dari [Sa'id bin Jubair] berkata: Saya berkata kepada [Ibnu 'Abbas]: Surat At Taubah, ia berkata: Apa At Taubah? Ia berkata: Bahkan ia adalah Al Fadhilah (yang menyibak rahasia orang-orang munafik, pent.) yang masih turun dan dari mereka dan dari mereka hingga mereka mengira tiada seorangpun dari kita yang masih tersisa kecuali telah disebutkan di dalamnya. Ia berkata: Aku berkata: Surat Al Anfaal, ia (Ibnu Abbas) berkata: Itu adalah surat perang Badar. Ia berkata: Lalu aku berkata: Surat Al Hasyr, ia (Ibnu Abbas) berkata: Ia turun berkenaan dengan Bani Nadhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7558</td></tr><tr><td>Arabic No</td><td>3031</td></tr><tr><td>Reference</td><td>Book 56 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7558</td></tr><tr><td>Arabic No</td><td>3031</td></tr><tr><td>Reference</td><td>Book 56 Hadith 35</td></tr></tbody></table></div>
 

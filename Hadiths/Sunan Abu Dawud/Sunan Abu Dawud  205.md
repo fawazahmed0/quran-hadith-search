@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn Talq: The Messenger of Allah (ﷺ) said: When any of you breaks
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir bin Abdul Hamid] dari ['Ashim Al Ahwal] dari [Isa bin Hiththan] dari [Muslim bin Sallam] dari [Ali bin Thalq] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian buang angin ketika sedang shalat, maka berwudhulah dan hendaklah dia mengulangi lagi shalatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>205</td></tr><tr><td>Arabic No</td><td>205</td></tr><tr><td>Reference</td><td>Book 1 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али ибн Талк сказал: «Посланник Аллаха ﷺ сказал: “Если кто-то из вас выпустит газы во время совершения молитвы, то пусть удалится, совершит омовение и повторит молитву заново”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>205</td></tr><tr><td>Arabic No</td><td>205</td></tr><tr><td>Reference</td><td>Book 1 Hadith 205</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zainab bint Abu Salama reported that when the news of the death of Abu Safyan ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Amru An Naqid] dan [Ibnu Abi Umar] sedangkan lafazhnya dari Amru, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ayyub bin Musa] dari [Humaid bin Nafi'] dari [Zaenab binti Abi Salamah] dia berkata; Tatkala [Ummu Habibah] didatangi seseorang dengan berita wafatnya Abu Sufyan, setelah berlalu tiga hari dia meminta diambilkan shufrah (sejenis tumbuhan yang harum baunya), kemudian dia mengolesi kedua hastanya dan kedua pelipisnya sambil berkata; "Sebenarnya saya tidak membutuhkan ini semua, hanya saja saya pernah mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tidak halal seorang wanita yang beriman kepada Allah dan Hari Akhir melakukan ihdad melebihi tiga hari, kecuali karena kematian suaminya, yaitu berkabung selama empat bulan sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3734</td></tr><tr><td>Arabic No</td><td>1486.04</td></tr><tr><td>Reference</td><td>Book 18 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3734</td></tr><tr><td>Arabic No</td><td>1486.04</td></tr><tr><td>Reference</td><td>Book 18 Hadith 79</td></tr></tbody></table></div>
 

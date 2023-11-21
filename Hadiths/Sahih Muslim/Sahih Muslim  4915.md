@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Anas b. Malik who said:The Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Nadlr bin Abu Nadlr] dan [Harun bin Abdullah] dan [Muhammad bin Rafi'] dan [Abd bin Humaid] dan lafadz mereka saling berdekatan, mereka berkata; telah menceritakan kepada kami [Hasyim bin Al Qasim] telah menceritakan kepada kami [Sulaiman] -yaitu Ibnu Al Mughirah- dari [Tsabit] dari [Anas bin Malik] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengutus Busaisah sebagai mata-mata, mengintai gerak-gerik kafilah Abu Sufyan. Busaisah lalu datang sedangkan di rumah tidak ada seorangpun selain saya dan Rasulullah shallallahu 'alaihi wasallam." Anas berkata, "Saya tidak tahu apakah beliau mengistimewakan sebagian dari isterinya (untuk mendengar berita rahasia)." Anas melanjutkan, "Lantas Busaisah menyampaikan laporannya. Kemudian Rasulullah shallallahu 'alaihi wasallam keluar sambil bersabda: "Kita berangkat sekarang untuk suatu tujuan, siapa yang telah siap kendaraannya, maka berangkatlah bersama kami." Lantas beberapa orang laki-laki meminta izin kepada beliau untuk mengambil kendaraannya di luar kota Madinah, namun beliau bersabda: "Tidak, cukup orang-orang yang kendaraanya telah siap saja." Kemudian Rasulullah shallallahu 'alaihi wasallam dan para sahabatnya berangkat sehingga mereka lebih dahulu tiba di Badar daripada kaum Musyrikin. Tidak lama kemudian kaum Musyrikin tiba, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian bertindak sebelum ada perintah dariku." Ketika kaum Musyrikin semakin dekat, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Majulah kalian ke surga, yang luasnya seluas langit dan bumi." Anas berkata, "Tiba-tiba 'Umair bin Al Hammam Al Anshari berkata, "Ya Rasulullah, surga yang luasnya seluas langit dan bumi!" Beliau menjawab: "Ya." 'Umair berkata, "Wah, wah..!" Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Mengapa kamu mengatakan wah...wah..?" Umair menjawab, "Tidak, demi Allah wahai Rasulullah, saya mengharap semoga saya menjadi penghuninya." Beliau bersabda: "Ya, sesungguhnya kamu termasuk dari penghuninya." Kemudian dia mengeluarkan kurma dari dalam sakunya dan memakannya sebagian. Sesudah itu dia berkata, "Sungguh kehidupan yang lama bagiku, seandainya aku menghabiskan kurmaku ini." Anas berkata, "Maka kurma yang masih tersisa di tangannya ia lemparkan begitu saja kemudian dia bertempur hingga gugur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>1901</td></tr><tr><td>Reference</td><td>Book 33 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>1901</td></tr><tr><td>Reference</td><td>Book 33 Hadith 210</td></tr></tbody></table></div>
 

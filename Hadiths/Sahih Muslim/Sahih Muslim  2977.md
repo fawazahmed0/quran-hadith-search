@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. al-Husain (Allah be pleased with him) said:Know well that Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Ishaq bin Ibrahim] telah menceritakan kepadaku [Isa bin Yunus] telah menceritakan kepada kami [Sa'id bin Abu 'Arubah] dari [Qatadah] dari [Mutharrif bin Abdullah Asy Syakhiri] dari [Imran bin Hushain] radliallahu 'anhu, ia berkata; "Aku tahu bahwa Rasulullah shallallahu 'alaihi wasallam mengumpulkan haji dan umrah dan sesudah itu, belum ada ayat Al Quran yang turun melarangnya dan beliau juga tidak melarangnya. Namun seorang laki-laki telah berkata tentang hal itu dengan menggunakan akalnya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2977</td></tr><tr><td>Arabic No</td><td>1226.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2977</td></tr><tr><td>Arabic No</td><td>1226.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 186</td></tr></tbody></table></div>
 

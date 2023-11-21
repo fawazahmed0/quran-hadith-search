@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) used to pray while sitting (when he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya], katanya; aku menyetorkan hapalan kepada [Malik] dari [Abdullah bin Yazid] dan [Abu Nadlr] dari [Abu Salamah bin Abdurrahman] dari ['Aisyah], bahwa Rasulullah shallallahu 'alaihi wasallam pernah shalat dengan duduk, lalu beliau membaca dengan duduk, jika bacaan beliau tinggal sekitar tiga puluh atau empat puluh ayat, beliau berdiri sambil membaca dengan berdiri, kemudian beliau ruku' lalu sujud, beliau juga melakukan yang demikian pada rakaat ketiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1705</td></tr><tr><td>Arabic No</td><td>731.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что Посланник Аллаха ﷺ совершал молитву сидя и читал (аяты Корана) сидя, а когда от его обычного чтения оставалось тридцать или сорок аятов, он вставал и дочитывал их стоя, после чего совершал поясной и земные поклоны и проделывал всё то же самое во втором рак‘ате
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1705</td></tr><tr><td>Arabic No</td><td>731.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 135</td></tr></tbody></table></div>
 

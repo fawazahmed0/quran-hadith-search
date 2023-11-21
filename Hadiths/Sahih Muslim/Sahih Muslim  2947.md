@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] -[Ibnul Mutsanna] berkata- Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] ia berkata, saya mendengar [Qatadah] menceritakan dari [Abu Nadlrah] ia berkata; Ibnu Abbas memerintahkan untuk berhaji dengan tamattu' sedang Ibnu Zubair melarangnya. Lalu aku menyebutkan hal itu kepada [Jabir bin Abdillah], dan iapun berkata; Perbincangan ini berkisar antara aku. Dulu kami melaksanakan haji tamattu' bersama Rasulullah shallallahu 'alaihi wasallam, dan ketika Umar berdiri, ia berkata, "Sesungguhnya Allah telah menghalalkan bagi Rasul-Nya apa yang dikehendaki-Nya, dan sesungguhnya Al Qur'an telah diturunkan maka; 'Sempurnakanlah haji dan umrah untuk Allah semata.' sebagaimana yang telah Allah perintahkan kepada kalian, dan langsungkanlah pernikahan wanita ini, sebab sekali-kali tidaklah didatangkan kepadaku seorang lelaki yang menikahi seorang wanita untuk jangka waktu tertentu (nikah mut'ah) kecuali pasti aku akan merajamnya dengan batu." Dan telah meceritakannya kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami ['Affan] Telah menceritakan kepada kami [Hammam] Telah menceritakan kepada kami [Qatadah] dengan isnad ini, dan ia menyebutkan di dalam hadits; "Oleh sebab itu pisahkanlah haji kalian dari umrah kalian, karena yang demikian itu akan membuat haji dan umrah kalian lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2947</td></tr><tr><td>Arabic No</td><td>1217.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2947</td></tr><tr><td>Arabic No</td><td>1217.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 156</td></tr></tbody></table></div>
 

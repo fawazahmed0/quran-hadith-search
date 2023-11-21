@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qurra bin Khalid:Once he waited for Al-Hasan and he did not show up til
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Ash Shabbah] berkata, telah menceritakan kepada kami [Abu 'Ali Al Hanafi] telah menceritakan kepada kami [Qurrah bin Khalid] berkata, "Kami pernah menunggu [Al Hasan] hingga memperlambat kami hingga sudah dekat dengan waktu ditegakkannya shalat. Lalu dia datang dan berkata, "Kami diundang tetangga kami." Kemudian dia melanjutkan, [Anas bin Malik] menyebutkan, "Pada suatu malam kami pernah menunggu Nabi shallallahu 'alaihi wasallam hingga sampai pertengahan malam. Lalu Beliau shalat bersama kami kemudian menyampaikan khuthbah kepada kami, sabda beliau: "Manusia sudah selesai melaksanakan shalat lalu mereka tidur. Dan kalian akan senantiasa dalam hitungan shalat selagi kalian menunggu pelaksanaannya." Al Hasan berkata, "Sesungguhnya suatu kaum senantiasa akan berada dalam kebaikan selagi mereka mananti kebaikan." Qurrah berkata, "Ini adalah hadits dari Anas, dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>600</td></tr><tr><td>Arabic No</td><td>600</td></tr><tr><td>Reference</td><td>Book 9 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что (как-то раз) Посланник Аллаха ﷺ сказал: «Вы присутствуете на молитве и тогда, когда ожидаете её (начала)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>600</td></tr><tr><td>Arabic No</td><td>600</td></tr><tr><td>Reference</td><td>Book 9 Hadith 75</td></tr></tbody></table></div>
 

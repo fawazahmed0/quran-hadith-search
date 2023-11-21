@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:I heard Allah's Messenger (way peace be upon him) as saying: The 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim], berkata [Ishaq]: Telah mengkhabarkan kepada kami, sedangkan [Utsman] berkata: Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] berkata: Aku mendengar nabi Shallallahu 'alaihi wa Salam bersabda: Sesungguhnya singgasana Iblis berada di atas laut, ia mengirim bala tentaranya kemudian mereka menggoda manusia. Yang paling agung bagi iblis adalah (setan) yang paling besar godaannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7105</td></tr><tr><td>Arabic No</td><td>2813.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7105</td></tr><tr><td>Arabic No</td><td>2813.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 59</td></tr></tbody></table></div>
 

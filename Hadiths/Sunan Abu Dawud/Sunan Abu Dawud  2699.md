@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi said that a horse of Ibn ‘Umar went away and the enemy seized it. The Mus
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaim Al Anbari], dan [Al Hasan bin Ali] secara makna, mereka berkata; telah menceritakan kepada kami [Ibnu Umair] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar], ia berkata; kudanya telah lari, kemudian musuh menangkapnya. Lalu orang-orang muslim menaklukkan mereka dan kuda tersebut dikembalikan kepadanya pada zaman Rasulullah shallallahu 'alaihi wasallam. Dan budaknya telah kabur dan masuk ke negeri Romawi, kemudian orang-orang muslim menaklukkan mereka dan Khalid mengembalikan budak tersebut kepadanya setelah Nabi shallallahu 'alaihi wasallam meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2699</td></tr><tr><td>Arabic No</td><td>2699</td></tr><tr><td>Reference</td><td>Book 15 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2699</td></tr><tr><td>Arabic No</td><td>2699</td></tr><tr><td>Reference</td><td>Book 15 Hadith 223</td></tr></tbody></table></div>
 

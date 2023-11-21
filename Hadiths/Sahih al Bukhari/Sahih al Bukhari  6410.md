@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah has ninety-nine Names, i.e., one hundred minus one, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dia berkata; Kami hafal dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] secara periwayatan, dia berkata; "Allah memiliki sembilan puluh sembilan nama, seratus kurang satu, tidaklah seseorang menghafalnya melainkan ia akan masuk surga, dan Dia adalah witir dan menyukai yang ganjil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6410</td></tr><tr><td>Arabic No</td><td>6410</td></tr><tr><td>Reference</td><td>Book 80 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Поистине, у Аллаха девяносто девять имён — сотня без одного, и каждый, кто запомнит их, войдёт в Рай. Поистине, Он (— это Тот, Кто) не имеет пары /витр/, и Он любит (всё) непарное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6410</td></tr><tr><td>Arabic No</td><td>6410</td></tr><tr><td>Reference</td><td>Book 80 Hadith 105</td></tr></tbody></table></div>
 

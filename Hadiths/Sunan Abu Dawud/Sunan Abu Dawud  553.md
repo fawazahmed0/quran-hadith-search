@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn Umm Maktum: Messenger of Allah, there are many venomous creatures a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Zaid bin ABi Az-Zarqa'] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Sufyan] dari [Abdurrahman bin Abis] dari [Abdurrahman bin Abi Laila] dari [Ibnu Ummi Maktum] dia berkata; Wahai Rasulullah, sesungguhnya di kota Madinah banyak binatang berbisa dan binatang buasnya. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Apakah kamu mendengar seruan adzan 'Hayya 'alash shalaah, Hayya 'alalfalaah? 'Karena itu, penuhilah!. Abu Dawud berkata; Dan demikian pula diriwayatkan oleh [Al-Qasim Al-Jarmi] dari [Sufyan] tidak ada di dalam hadits riwayatnya lafazh: Karena itu, penuhilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>553</td></tr><tr><td>Arabic No</td><td>553</td></tr><tr><td>Reference</td><td>Book 2 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн Умм Мактум сказал: «О Посланник Аллаха, поистине, в Медине много вредителей и хищников». Пророк ﷺ спросил: «Слышишь ли ты (призыв муаззина): “Спешите на молитву, спешите к успеху” /Хаййа ‘аля-с-салях, хаййа ‘аляль-фалях/? Так поспеши ответить (на этот призыв)».Абу Дауд сказал: «Так этот хадис передал аль-Къасим аль-Джарми от Суфьяна, но в нем нет слов “Так поспеши ответить (на этот призыв)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>553</td></tr><tr><td>Arabic No</td><td>553</td></tr><tr><td>Reference</td><td>Book 2 Hadith 163</td></tr></tbody></table></div>
 

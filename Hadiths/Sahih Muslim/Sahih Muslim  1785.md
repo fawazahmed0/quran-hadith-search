@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zirr (b. Hubaish) reported:I heard from Ubayy b. Ka'b a statement made by 'Abdul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran Ar Razi] telah menceritakan kepada kami [Al Walid bin Muslim] Telah menceritakan kepada kami [Al Auza'i] telah menceritakan kepadaku [Abdah] dari [Zirr] ia berkata, saya mendengar [Ubay bin Ka'ab] berkata, dan telah dikatakan kepadanya bahwa Abdullah bin Mas'ud berkata, "Siapa yang melakukan shalat malam sepanjang tahun, niscaya ia akan menemui malam Lailatul Qadr." Ubay berkata, "Demi Allah yang tidak ada ilah yang berhak disembah selain Allah, sesungguhnya malam itu terdapat dalam bulan Ramadlan. Dan demi Allah, sesungguhnya aku tahu malam apakah itu. Lailatul Qadr itu adalah malam, dimana Rasulullah shallallahu 'alaihi wasallam memerintahkan kami untuk menegakkan shalat di dalamnya, malam itu adalah malam yang cerah yaitu malam ke dua puluh tujuh (dari bulan Ramadlan). Dan tanda-tandanya ialah, pada pagi harinya matahari terbit berwarna putih tanpa sinar yang menyorot
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1785</td></tr><tr><td>Arabic No</td><td>762.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зирр сказал: «Когда Убайу ибн Ка‘бу сообщили, что ‘Абдуллах ибн Мас‘уд говорит: “Тот, кто молится (по ночам) весь год, застанет Ночь предопределения /ляйляту-ль кадр/”, Убай сказал: “Клянусь Аллахом, кроме которого нет божества, достойного поклонения, эта ночь в рамадане. И клянусь Аллахом, я знаю когда эта ночь. В эту ночь Посланник Аллаха ﷺ приказал нам совершать молитву, это двадцать седьмая ночь (рамадана). Её признаком является то, что на следующий день (после неё) солнце встаёт, не испуская лучей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1785</td></tr><tr><td>Arabic No</td><td>762.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 213</td></tr></tbody></table></div>
 

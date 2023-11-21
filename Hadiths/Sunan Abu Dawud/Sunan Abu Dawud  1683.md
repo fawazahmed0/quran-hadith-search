@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: There are forty ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ibrahim bin Musa], ia berkata; telah mengabarkan kepada Kami [Israil], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Isa], dan ini adalah haditsnya Musaddad, dan ia lebih sempurna, dari [Al Auza'i], dari [Hassan bin 'Athiyyah], dari [Abu Kabsyah As Saluli], ia berkata; saya mendengar [Abdullah bin 'Amr] berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Terdapat empat puluh sifat, paling tinggi adalah memberikan kambing betina untuk diambil manfaat susu dan bulunya. Tidaklah seseorang melakukan salah satu sifat dari sifat-sifat tersebut karena mengharap pahalanya dan membenarkan apa yang dijanjikan kecuali dengannya Allah akan memasukkannya ke dalam Surga." Abu Daud dalam hadits Musaddad berkata; Hassan berkata; kemudian Kami menghitung selain memberikan kambing betina untuk diambil manfaat susu dan bulunya yaitu; membalas salam, menjawab orang yang bersin, menyingkirkan gangguan dari jalan, dan yang semisalnya. Dan Kami tidak mampu mencapai lima belas sifat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2631)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1683</td></tr><tr><td>Arabic No</td><td>1683</td></tr><tr><td>Reference</td><td>Book 9 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Есть сорок дел, лучшим из которых является предоставление в пользование дойной козы: какое бы из них человек ни делал, надеясь получить за него награду и веря в то, что обещано за него, Аллах непременно введёт его в Рай». Абу Дауд сказал, что Мусаддад передал, что Хассан (ибн ‘Атыйя) сказал: «И мы посчитали благие дела вроде ответа на приветствие, пожелания блага чихнувшему, убирания с дороги того, что мешает проходить людям, и так далее, включая туда предоставление в пользование дойной скотины, и не смогли насчитать и пятнадцати дел»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2631)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1683</td></tr><tr><td>Arabic No</td><td>1683</td></tr><tr><td>Reference</td><td>Book 9 Hadith 128</td></tr></tbody></table></div>
 

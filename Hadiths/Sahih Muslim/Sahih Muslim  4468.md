@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The wound caused (by fall
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rumh bin Muhajir] telah mengabarkan kepada kami [Laits] dari [Ayyub bin Musa] dari [Al Aswad] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Sumur yang mencelakai (jatuh ke dalamnya) tidak ada denda, galian barang tambang yang mencelakai (jatuh ke dalamnya) tidak ada denda, binatang ternah yang merusak maka tidak ada denda, dan pada harata yang terpenda (harta karun) zakatnya adalah seperlima." Dan telah menceritakan kepada kami [Abdurrahman bin Salam Al Jumahi] telah menceritakan kepada kami [Ar Rabi'] -yaitu Ibnu Muslim-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] dia berkata; telah menceritakan kepada kami [Syu'bah] keduanya dari [Muhammad bin Ziyad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4468</td></tr><tr><td>Arabic No</td><td>1710.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4468</td></tr><tr><td>Arabic No</td><td>1710.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 71</td></tr></tbody></table></div>
 

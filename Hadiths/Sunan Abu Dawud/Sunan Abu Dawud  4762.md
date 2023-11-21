@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Ziyad bin Ilaqah] dari [Arfajah] ia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan terjadi pada umatku fitnah dan kebid'ahan, fitnah dan kebid'ahan, fitnah dan kebid'ahan. Maka siapa yang ingin memecah-belah urusan kaum muslimin -ketika mereka bersatu- maka bunuhlah, siapapun dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1852)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4762</td></tr><tr><td>Arabic No</td><td>4762</td></tr><tr><td>Reference</td><td>Book 42 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Арфаджы: «Я слышал, как Посланник Аллаха ﷺ сказал: “Будут в моей общине беды, беды и беды, и если кто-то захочет расколоть мусульман, когда они будут сплочёнными, то ударяйте его мечом, кем бы он ни был”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1852)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4762</td></tr><tr><td>Arabic No</td><td>4762</td></tr><tr><td>Reference</td><td>Book 42 Hadith 167</td></tr></tbody></table></div>
 

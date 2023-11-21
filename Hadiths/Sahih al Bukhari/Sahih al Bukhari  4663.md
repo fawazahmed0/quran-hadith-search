@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakr:I was in the company of the Prophet (ﷺ) in the cave, and on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] Telah menceritakan kepada kami [Habban] Telah menceritakan kepada kami [Hammam] Telah menceritakan kepada kami [Tsabit] Telah menceritakan kepada kami [Anas] dia berkata; Telah menceritakan kepadaku [Abu Bakr radliallahu 'anhu] dia berkata; Aku pernah bersama Nabi shallallahu 'alaihi wasallam di Gua Hira, lalu aku melihat jejak-jejak orang Musyrikin. Maka aku berkata; Ya Rasulullah, seandainya salah seorang dari mereka mengangkat kakinya tentu dia akan melihat kita. Nabi shallallahu 'alaihi wasallam bersabda: "Tidakkah engkau beranggapan jika ada dua orang, maka Allah lah yang ketiganya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4663</td></tr><tr><td>Arabic No</td><td>4663</td></tr><tr><td>Reference</td><td>Book 65 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакр, да будет доволен им Аллах, сказал: «Находясь в пещере вместе с Пророком ﷺ, я увидел следы многобожников и сказал: “О Посланник Аллаха! Если кто-нибудь из них поднимет ногу, то увидит нас!” (В ответ мне Пророк ﷺ) сказал: “А что ты думаешь о двоих, третьим для которых является Аллах?“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4663</td></tr><tr><td>Arabic No</td><td>4663</td></tr><tr><td>Reference</td><td>Book 65 Hadith 185</td></tr></tbody></table></div>
 

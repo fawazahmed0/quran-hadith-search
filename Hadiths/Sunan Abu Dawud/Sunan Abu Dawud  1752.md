@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said :The Messenger of Allah (SWAS) offered the noon prayer at Dhu al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Al Walid Ath Thayalisi], dan [Hafsh bin Umar] secara makna, mereka berkata; telah menceritakan kepada Kami [Syu'bah] dari [Qatadah], ia berkata; [Abu Al Walid] berkata; saya mendengar [Abu Hassan] dari [Ibnu Abbas] bahwa Rasulullah shallAllahu wa'alaihi wa sallam melakukan shalat Zhuhur di Dzul Hulaifah kemudian meminta seekor unta lalu beliau melukainya dari sisi punuknya sebelah kanan, kemudian beliau menghentikan darah darinya, dan mengalunginya dengan dua sandal. Kemudian beliau diberi kendaraan, dan tatkala beliau telah duduk di atasnya dan unta tersebut telah menaiki Al Baida' maka beliau bertalbiah untuk melakukan haji. Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Yahya] dari [Syu'bah] dengan hadits ini semakna dengan hadits Abu Al Walid, ia berkata; kemudian beliau menghentikan darah menggunakan tangannya. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Hammam], ia berkata; beliau menghentikan darah darinya menggunakan jari-jarinya. Abu Daud berkata; hal ini merupakan diantara kebiasaan-kebiasaan penduduk Bashrah yang menjadi kekhususan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1243)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1752</td></tr><tr><td>Arabic No</td><td>1752</td></tr><tr><td>Reference</td><td>Book 11 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ совершил полуденную молитву /зухр/ в Зуль-Хулейфе, а потом велел привести одну из своих жертвенных верблюдиц, пометил её, уколов в правую сторону горба, а когда вытекло немного крови, смазал её рукой и привязал на шею верблюдицы сандалии. Потом он подошёл к своей верблюдице, сел на неё и, когда она тронулась и вышла к Байде (место, прилегающее к Зуль-Хулейфе), начал произносить тальбию для хаджа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1243)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1752</td></tr><tr><td>Arabic No</td><td>1752</td></tr><tr><td>Reference</td><td>Book 11 Hadith 32</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr b. al-'As reported:I heard Allah's Messenger (ﷺ) as saying: A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6749</td></tr><tr><td>Arabic No</td><td>2653.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр ибн аль-‘Ас, да будет доволен ими обоими Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Аллах записал судьбы всего сотворённого за пятьдесят тысяч лет до того, как Он создал небеса и землю”. (Пророк ﷺ также) сказал: “И (тогда) трон Его был над водой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6749</td></tr><tr><td>Arabic No</td><td>2653.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 27</td></tr></tbody></table></div>
 

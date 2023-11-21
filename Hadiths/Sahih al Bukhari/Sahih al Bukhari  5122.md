@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:'Umar bin Al-Khattab said, "When Hafsa bint 'Umar b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] Telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih bin Kaisan] dari [Ibnu Syihab] ia berkata; Telah mengabarkan kepadaku [Salim bin Abdullah] bahwa ia mendengar [Abdullah bin Umar] radliallahu 'anhuma menceritakan bahwasanya; Ketika Hafshah binti Umar menjadi janda lantaran wafatnya Khunais bin Hudzafah As Sahmi -termasuk salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam, dan ia wafat di Madinah-, Maka Umar bin Al Khaththab berkata; Aku mendatangi Utsman bin Affan dan menawarkan Hafshah padanya, maka ia pun berkata, "Aku akan berfikir terlebih dahulu." Lalu aku pun menunggu beberapa malam, kemudian ia menemuiku dan berkata, "Aku telah mengambil keputusan, bahwa aku tidak akan menikah untuk hari-hari ini." Lalu aku pun menemui Abu Bakar Ash Shiddiq dan berkata padanya, "Jika kamu mau, maka aku akan menikahkanmu dengan Hafshah." Namun ia tidak memberi jawaban apa pun padaku. Maka aku menunggu selama beberapa malam, dan akhirnya ia pun dikhithbah oleh Rasulullah shallallahu 'alaihi wasallam, maka aku menikahkannya dengan beliau. Kemudian Abu Bakar menemuiku dan berkata, "Sepertinya kamu merasa kecewa saat menawarkan Hafshah padaku." Umar berkata; Aku berkata, "Ya." Abu Bakar berkata, "Sesungguhnya tidak ada yang menghalangiku untuk menerima tawaranmu, kecuali bahwa aku tahu Rasulullah shallallahu 'alaihi wasallam telah menyebutnya. Dan aku tidak mau membuka rahasia Rasulullah shallallahu 'alaihi wasallam. Dan sekiranya Rasulullah shallallahu 'alaihi wasallam meninggalkannya, niscaya aku akan menerimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5122</td></tr><tr><td>Arabic No</td><td>5122</td></tr><tr><td>Reference</td><td>Book 67 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Салиха ибн Кайсана, что Ибн Шихаб (аз-Зухри) сказал:\n— Сообщил мне Салим ибн ‘Абдуллах о том, что он слышал, как ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, рассказывал (о том, что было после того, как) дочь ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, Хафса, которая была женой Хунайса ибн Хузафы ас-Сахми, который являлся сподвижником Посланника Аллаха и умершего в Медине, овдовела, ‘Умар ибн аль-Хаттаб рассказал (следующее): «Я пришёл к ‘Усману ибн ‘Аффану, да будет доволен им Аллах, и предложил ему (в жёны) Хафсу, но он сказал: “Я подумаю над этим”. И я (ждал несколько) ночей, (а потом) он (встретил меня,) сказал: “Я думаю, что не стану жениться сейчас”».\n‘Умар сказал: «(Через некоторое время) я встретил Абу Бакра ас-Сыддика, да будет доволен им Аллах, и сказал (ему): “Если хочешь, я выдам за тебя замуж Хафсу бинт ‘Умар”, — (однако) Абу Бакр, да будет доволен им Аллах, промолчал, вообще ничего не ответив мне, и я рассердился на него ещё больше, чем на ‘Усмана, и так прошло ещё несколько ночей, после чего к ней посватался Посланник Аллаха ﷺ, и я выдал её замуж за него. А потом меня встретил Абу Бакр и спросил: “Наверное, ты рассердился на меня после того, как предложил мне (в жёны) Хафсу, а я ничего не ответил тебе?”».\n‘Умар сказал: «Я сказал: “Да”. Он сказал: “Поистине, ответить на твоё предложение помешало мне лишь знание о том, что о ней упоминал Посланник Аллаха ﷺ, выдать же тайну Посланника Аллаха ﷺ я не мог, а если бы Посланник Аллаха ﷺ отказался от неё, то я обязательно взял бы (твою дочь сам)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5122</td></tr><tr><td>Arabic No</td><td>5122</td></tr><tr><td>Reference</td><td>Book 67 Hadith 58</td></tr></tbody></table></div>
 

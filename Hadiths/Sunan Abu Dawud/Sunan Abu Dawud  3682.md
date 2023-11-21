@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Abu Salamah] dan [Aisyah] radliallahu 'anha, ia berkata, "Rasulullah shallallahu 'alaihi wasallam ditanya mengenai Al Bit' (minuman yang terbuat dari madu). Kemudian beliau menjawab: "Segala minuman yang memabukkan adalah haram." Abu Daud berkata, "Aku membaca riwayat di hadapan [Yazid bin Abdu Rabbih Al Jurjusi] [Muhammad bin Harb] telah menceritakan hadits ini kepada kalian dari [Az Zubaidi] dari [Az Zuhri] dengan sanadnya. Ia menambahkan, "Al Bit' adalah minuman hasil perasan madu, dahulu penduduk Yaman biasa meminumnya." Abu Daud berkata, "Aku mendengar Ahmad bin Hanbal berkata, "Tidak ada tuhan yang berhak untuk disembah selain Allah, tidak ada yang lebih teguh daripadanya, tidak ada di antara mereka yang semisal dia, yaitu di antara penduduk Himsh. Dan yang ia maksudkan adalah Al Jurjusi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5585) Sahih Muslim (2001)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3682</td></tr><tr><td>Arabic No</td><td>3682</td></tr><tr><td>Reference</td><td>Book 27 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Как-то раз Посланника Аллаха ﷺ спросили о (дозволенности употребления) бит‘а, и Посланник Аллаха ﷺ сказал: “Любой опьяняющий напиток запретен (в любых количествах)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5585) Sahih Muslim (2001)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3682</td></tr><tr><td>Arabic No</td><td>3682</td></tr><tr><td>Reference</td><td>Book 27 Hadith 14</td></tr></tbody></table></div>
 

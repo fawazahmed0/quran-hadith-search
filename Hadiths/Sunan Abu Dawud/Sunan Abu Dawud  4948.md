@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbudDarda': The Prophet (ﷺ) said: On the Day of Resurrection you will
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Aun] ia berkata; telah mengabarkan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] ia berkata; telah menceritakan kepada kami [Husyaim] dari [Dawud bin Amru] dari [Abdullah bin Abu Zakariya] dari [Abu Darda] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya pada hari kiamat kalian akan dipanggil dengan nama-nama kalian dan nama bapak-bapak kalian, maka baguskanlah nama kalian." Abu Dawud berkata, "Ibnu Abu Zakariya belum pernah bertemu dengan Abu Darda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 43 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 43 Hadith 176</td></tr></tbody></table></div>
 

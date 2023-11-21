@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'adh bin Jabal:I used to pray the 'Isha prayer with the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Syu'bah] dari ['Amru] dari [Jabir bin 'Abdullah], bahwa Mu'adz bin Jabal pernah shalat bersama Nabi shallallahu 'alaihi wasallam, kemudian dia kembali pulang dan mengimami shalat kaumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>700</td></tr><tr><td>Arabic No</td><td>700</td></tr><tr><td>Reference</td><td>Book 10 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Абдуллах: «Обычно Му‘аз ибн Джабаль совершал (коллективную) молитву с Пророком ﷺ, после чего возвращался и возглавлял в молитве людей из своего племени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>700</td></tr><tr><td>Arabic No</td><td>700</td></tr><tr><td>Reference</td><td>Book 10 Hadith 95</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:I never saw the Prophet (ﷺ) offering any prayer not at its 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] berkata, telah menceritakan kepada saya ['Umarah] dari ['Abdur Rahman] dari ['Abdullah] radliallahu 'anhu berkata: "Tidaklah pernah aku melihat Rasulullah Shallallahu'alaihiwasallam shalat bukan pada waktunya kecuali dua shalat ini, yaitu Beliau menjama' shalat Maghrib dan 'Isya' dan melaksanakan shalat fajar sebelum waktunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1682</td></tr><tr><td>Arabic No</td><td>1682</td></tr><tr><td>Reference</td><td>Book 25 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Я никогда не видел, чтобы Пророк ﷺ совершал молитву в иное время, кроме отведённого для неё, если не считать двух молитв: когда он объединил закатную /магриб/ и вечернюю /‘иша/ молитвы, и утреннюю молитву /фаджр/ на следующий день он совершал раньше обычного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1682</td></tr><tr><td>Arabic No</td><td>1682</td></tr><tr><td>Reference</td><td>Book 25 Hadith 162</td></tr></tbody></table></div>
 

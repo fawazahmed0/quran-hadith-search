@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that he heard Mu'awiya say in his address that Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Basysyar] dan lafazh ini milik Ibnu Al Mutsanna berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] Aku mendengar [Abu Ishaq] bercerita dari ['Amir bin Sa'd Al Bajali] dari [Jarir] bahwa dia mendengar [Mu'awiyah] berkhutbah seraya berkata; Rasulullah shallallahu 'alaihi wasallam wafat pada usia enam puluh tiga tahun, demikian juga Abu Bakr, dan Umar. Dan aku pun sepertinya akan meninggal pada usia enam puluh tiga tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6099</td></tr><tr><td>Arabic No</td><td>2352.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6099</td></tr><tr><td>Arabic No</td><td>2352.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 157</td></tr></tbody></table></div>
 

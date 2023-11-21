@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:Marwan bin Al-Hakam and Al-Miswar bin Makhrama told
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail bin Abu uwais] telah menceritakan kepadaku [Ismail bin Ibrahim] dari [pamannya, Musa bin 'Uqbah], [Ibnu Syihab] mengatakan, telah menceritakan kepadaku [Urwah bin Zubair] bahwasanya [Marwan bin Hakam] dan [Miswar bin mahkramah] keduanya mengabarkan kepadanya, bahwa Rasulullah Shallallahu'alaihiwasallam bersabda ketika sebagian kaum muslimin mengizinkan tawanan Hawazin dibebaskan; "Saya tidak tahu siapa diantara kaian yang mengizinkan dan siapa yang tidak, maka kembalilah kalian hingga orang-orang yang cerdik diantara kalian mengadukan kepadaku." Lantas para sahabat kembali dan orang-orang cendekia mereka mengajak dialog internal, lantas mereka kembali menemui Rasulullah Shallallahu'alaihiwasallam dan memberitahukan kepada beliau bahwa semua sahabat lega dan mengizinkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7176</td></tr><tr><td>Arabic No</td><td>7176</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Урва ибн аз-Зубейр передаёт, что Марван ибн аль-Хакам и аль-Мисвар ибн Махрама, да будет доволен Аллах ими обоими, сообщили ему о том, что Посланник Аллаха ﷺ сказал, когда мусульмане позволили ему и тем, кто был вместе с ним освободить пленных (племени) Хавазин: «Поистине, я не знаю, кто из вас согласен (на это), а кто нет, возвращайтесь же, и пусть ваши старшины сообщат нам о вашем решении». После этого люди вернулись (к себе) и их старшины поговорили с ними, а затем они пришли к Посланнику Аллаха ﷺ и сказали ему, что все люди по своей воле согласны (отпустить пленных)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7176</td></tr><tr><td>Arabic No</td><td>7176</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

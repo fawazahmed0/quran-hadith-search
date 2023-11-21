@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm 'Atiyyah : The Messenger of Allah (ﷺ) came in when his daughter d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] secara makna, dari [Ayyub] dari [Muhammad bin Sirin] dari [Ummu 'Athiyyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam menemui kami ketika anak wanitanya meninggal. Kemudian beliau bersabda: "Mandikan dia tiga kali, atau lima kali atau lebih dari itu apabila kalian pandang hal itu perlu, dengan air bidara, dan jadikan pada terakhir kalinya kapur barus atau sedikit kapur barus. Apabila kalian telah selesai maka beritahukan kepadaku!" Maka tatkala kami telah selesai, kami memberitahukan kepada beliau. Kemudian beliau memberikan sarung beliau dan berkata: "Jadikanlah kain tersebut sebagai pakaiannya." Al Qa'nabi berkata dari Malik; yaitu sarungnya, sedangkan Musaddad tidak mengatakan; menemui kami. Telah menceritakan kepada kami [Ahmad bin 'Abdah] dan [Abu Kamil], dengan makna sanad tersebut bahwa [Yazid? bin Zurai'] telah menceritakan kepada mereka, telah menceritakan kepada kami [Ayyub] dari [Muhammad bin Sirin], dari [Hafshah] yaitu saudarinya, dari [Ummu 'Athiyyah], ia berkata; kami menyisir rambutnya dalam tiga kepang. Telah menceritakan kepada kami [Muhammad Al Mutsanna], telah menceritakan kepada kami [Abdul A'la], telah menceritakan kepada kami [Hisyam], telah menceritakan kepada kami [Hafshah binti Sirin], dari [Ummu 'Athiyyah], ia berkata; dan kami mengepang kepalanya menjadi tiga kepang, kemudian meletakkannya di belakangnya, di bagian depan dan kedua sampingnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1253) Sahih Muslim (939)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3142</td></tr><tr><td>Arabic No</td><td>3142</td></tr><tr><td>Reference</td><td>Book 21 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм ‘Атыйя, да будет доволен ею Аллах, сказала: «Когда умерла дочь Посланника Аллаха ﷺ он зашёл к нам и сказал: “Обмойте её трижды, или пять раз, или более того, если посчитаете нужным, отваром ююбы, а в последний раз используйте камфару [или: немного камфары] и дайте мне знать, когда закончите”. Закончив обмывать её тело, мы сообщили ему об этом, а он дал нам свой изар и сказал: “Заверните её в это”». А Мусаддад не говорил: «Зашёл к нам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1253) Sahih Muslim (939)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3142</td></tr><tr><td>Arabic No</td><td>3142</td></tr><tr><td>Reference</td><td>Book 21 Hadith 54</td></tr></tbody></table></div>
 

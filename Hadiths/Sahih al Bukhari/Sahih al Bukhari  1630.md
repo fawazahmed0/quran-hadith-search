@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abida bin Humaid:'Abdul, 'Aziz bin Rufa'i said, "I saw 'Abdullah bin Az
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Al Hasan bin Muhammad] dia adalah Az Za'faraniy telah menceritakan kepada kami ['Ubaidah bin Humaid] telah menceritakan kepada saya ['Abdul 'Aziz bin Rufai'] berkata: "Aku melihat ['Abdullah bin Az Zubair radliallahu 'anhuma] melaksanakan thawaf setelah Fajar (Shubuh) lalu shalat dua raka'at". Berkata, ['Abdul 'Aziz]; "Dan aku juga pernah melihat ['Abdullah bin Az Zubair radliallahu 'anhuma] mendirikan shalat dua raka'at setelah 'Ashar dan dia mengabarkan bahwa ['Aisyah radliallahu 'anha] menceritakan kepadanya bahwa Nabi Shallallahu'alaihiwasallam tidaklah memasuki rumahnya kecuali mengerjakan shalat keduanya (setelah Shubuh dan 'Ashar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1630</td></tr><tr><td>Arabic No</td><td>1630</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдульазиз ибн Руфеи‘ сказал: «Я видел, как ‘Абдуллах ибн аз-Зубейр, да будет доволен Аллах им и его отцом, совершал таваф после утренней молитвы, а затем совершал два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1630</td></tr><tr><td>Arabic No</td><td>1630</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amir b. Sa'd:On the authority of his father (Sa'd b. Abi Waqqas): When
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], serta [Ibnu Abu Khalaf], mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri], dari [Amir bin Sa'd], dari [ayahnya], ia berkata; Sa'd terkena suatu penyakit, Ibnu Abu Khalaf berkata; di Mekkah. Kemudian lafazh mereka sama; hampir meninggal karena penyakit tersebut, kemudian Rasulullah shallallahu 'alaihi wasallam menjenguknya, lalu ia berkata; wahai Rasulullah, sesungguhnya saya memiliki harta yang banyak, dan tidak ada yang mewarisiku selain anak perempuanku, apakah aku boleh bersedekah dengan dua pertiga? Beliau bersabda: "Tidak." Ia berkata; setengah? Beliau bersabda: "Tidak." Ia berkata; sepertiga? Beliau bersabda: "Ya, sepertiga. Dan sepertiga adalah banyak. Sesungguhnya engkau meninggalkan para pewarismu dalam keadaan kaya adalah lebih baik daripada engkau meninggalkan mereka dalam keadaan kekurangan, mereka meminta-minta kepada manusia. Dan sesungguhnya tidaklah engkau berinfak dengan suatu nafkah melainkan engkau diberi pahala karenanya, hingga suapan yang engkau berikan kepada isterimu." Aku katakan; wahai Rasulullah, apakah aku akan tinggal di Mekkah? Beliau berkata: "Sesungguhnya seandainya engkau tertinggal setelahku kemudian engkau beramal shalih dengan mengharapkan wajah Allah niscaya engkau pasti akan bertambah tinggi derajatmu, kemungkinan engkau akan berumur panjang hingga orang-orang mengambil manfaat dengan keberadaanmu, dan orang yang lain akan mendapatkan madharat." Kemudian beliau berkata kepada para sahabatnya: "Ya Allah, sempurnakanlah hijrah para sahabatku, dan jangan Engkau kembalikan mereka kepada kekafiran, akan tetapi Sa'd bin Khaulah akan meninggal di Mekkah." Beliau merasa kasihan terhadapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6373) Sahih Muslim (1628)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Амир ибн Са‘д передаёт от своего отца, что тот заболел в Мекке и был близок к смерти, Посланник Аллаха ﷺ пришёл навестить его. Он сказал: «О Посланник Аллаха, поистине, я богат, и нет у меня наследников, кроме единственной дочери, так не отдать ли мне две трети имущества в качестве милостыни?» (Пророк ﷺ) сказал: «Нет». Он спросил: «А половину?» (Пророк ﷺ) сказал: «Нет». Он спросил: «А треть?» (Пророк ﷺ) сказал: «Треть, но и трети будет много, ведь лучше тебе оставить своих наследников состоятельными, чем нуждающимися и вынужденными просить у людей. Что бы ты ни израсходовал (ради Всевышнего Аллаха), ты непременно получишь за это награду, в том числе и за тот кусочек, который положишь в рот своей жене». (Он передаёт): «Тогда я спросил: “О Посланник Аллаха, неужели меня оставят здесь после моего переселения?” Пророк ﷺ сказал: “Если ты останешься, то какое бы праведное дело ты ни совершил ради Аллаха, оно не добавит тебе ничего, кроме возвышения. Возможно, ты выживешь, чтобы через тебя одни люди получили пользу, а другим был нанесён вред. О Аллах, заверши переселение для моих сподвижников и не вынуждай их отступать! О бедный Са‘д ибн Хауля!” Посланник Аллаха ﷺ выразил сожаление в связи с тем, что этот человек умер в Мекке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6373) Sahih Muslim (1628)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
 

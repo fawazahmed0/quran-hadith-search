@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safwan bin Muhriz:A man asked Ibn 'Umar, "What did you hear Allah's Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Shafwan bin Muhriz] bahwa seorang laki-laki pernah bertanya kepada [Ibnu Umar]; "Bagaimana anda mendengar sabda Rasulullah shallallahu 'alaihi wasallam tentang An Najwa (bisikan di hari kiamat)?" Ibnu Umar menjawab; "Yaitu salah seorang dari kalian akan mendekat kepada Rabb-nya. Kemudian Dia meletakkan naungan-Nya di atasnya, (Maksudnya menutupi kesalahannya) kemudian Dia berfirman, "Apakah kamu telah berbuat ini dan ini?" hamba itu menjawab, "Ya, benar." Dia berfirman lagi "Apakah kamu telah melakukan ini dan ini?". Hamba itu menjawab; "Ya, benar." Dia pun mengulang-ulang pertanyannya, kemudian berfirman: "Sesungguhnya Aku telah menutupinya (merahasiakannya) di dunia dan pada hari ini aku telah mengampuninya bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6070</td></tr><tr><td>Arabic No</td><td>6070</td></tr><tr><td>Reference</td><td>Book 78 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сафуана ибн Мухриза, что что однажды один человек спросил Ибн ‘Умара: «Что ты слышал от Посланника Аллаха ﷺ о тайной беседе?» И он сказал: «Один из вас будет приближён к его Господу так, что Он покроет его (скрывая от творений) и скажет: “Сознаёшься ли ты в таком-то грехе?” На что тот будет отвечать: “Да”. Он скажет: “А сознаёшься ли в таком-то грехе?”, он ответит: “Да”. Когда же (Аллах) заставит его признать (все его грехи), то затем Он скажет: “Поистине, Я покрыл твои грехи в земной жизни, и Я прощу их тебе сегодня!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6070</td></tr><tr><td>Arabic No</td><td>6070</td></tr><tr><td>Reference</td><td>Book 78 Hadith 100</td></tr></tbody></table></div>
 

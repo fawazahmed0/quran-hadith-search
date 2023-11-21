@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The companions of (the Prophet) Muhammad who took part in Badr,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Khalid] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] berkata, aku mendengar [Al Bara'] radliallahu 'anhu berkata, telah menceritakan kepadaku para shahabat Muhammad shallallahu 'alaihi wasallam diantara orang yang turut dalam perang Badar, bahwa jumlah mereka seperti jumlah tentara Thalut, bala tentara yang menyeberangi sungai dimana jumlahnya sekitar tiga ratus sepuluh orang". Al Bara' berkata; "Demi Allah, tidak ada dari mereka yang dapat menyeberangi sungai melainkan orang beriman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3957</td></tr><tr><td>Arabic No</td><td>3957</td></tr><tr><td>Reference</td><td>Book 64 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Сподвижники Мухаммада ﷺ из числа участников битвы при Бадре рассказывали мне, что их было столько же, сколько и сподвижников Талюта, перешедших с ним через реку (, а именно —) более трехсот десяти (человек)».\nАль-Бара сказал: «Нет, клянусь Аллахом, не перешёл с ним через реку никто, кроме верующих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3957</td></tr><tr><td>Arabic No</td><td>3957</td></tr><tr><td>Reference</td><td>Book 64 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ubayy b. Ka’b said :The boy whom al-Khidr had killed was created an infidel. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] berkata, telah menceritakan kepada kami [Al Mu'tamir] dari [Bapaknya] dari [Raqabah bin Mashqalah] dari [Abu Ishaq] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dari [Ubay bin Ka'b] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Anak kecil yang dibunuh oleh Khidhir ditakdirkan untuk menjadi kafir, jika ia tetap hidup maka ia akan berlaku zhalim kepada kedua orang tuanya dan berlaku kufur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2661)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>4705</td></tr><tr><td>Reference</td><td>Book 42 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Убайа ибн Ка‘ба, что Посланник Аллаха ﷺ сказал: «Тому мальчику, которого убил аль-Хадыр, суждено было быть неверующим, и если бы он остался в живых, он мучил бы родителей, стремясь склонить их к заблуждению и неверию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2661)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>4705</td></tr><tr><td>Reference</td><td>Book 42 Hadith 110</td></tr></tbody></table></div>
 

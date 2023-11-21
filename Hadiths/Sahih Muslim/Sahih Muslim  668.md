@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Alqama and Aswad reported:A person stayed in the house of A'isha and in the morn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Khalid bin Abdullah] dari [Khalid] dari [Abu Ma'syar] dari [Ibrahim] dari [Alqamah] dan [al-Aswad] bahwa seorang laki-laki singgah di tempat Aisyah, lalu pada pagi harinya dia mencuci pakaiannya. Maka [Aisyah] berkata, 'Sepatutnya kamu membasuh sebagiannya saja, jika kamu melihat kotorannya, maka basuhlah tempat kotor tersebut. Sebaliknya jika kamu tidak melihatnya, cukuplah kamu memercikkan air di sekitarnya saja. Sesungguhnya aku pernah menggaruk air mani yang terdapat pada pakaian Rasulullah shallallahu 'alaihi wasallam, lalu beliau menggunakan pakaian tersebut untuk mendirikan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>668</td></tr><tr><td>Arabic No</td><td>288.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькама и аль-Асвад рассказали о том, что (однажды) некий человек остановился у ‘Аиши (на ночлег), а утром стал стирать свою одежду. (Увидев это) ‘Аиша сказала: «Тебе было бы достаточно, отстирать только то место, где ты увидел её (следы спермы), а если её (пятна) не видно, то побрызгай (водой) вокруг (предполагаемого места). (Что же касается меня, то) мне случалось удалять ногтями (засохшее семя) с одежды Посланника Аллаха ﷺ, после чего он совершал в ней молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>668</td></tr><tr><td>Arabic No</td><td>288.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 134</td></tr></tbody></table></div>
 

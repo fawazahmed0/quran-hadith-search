@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>734</td></tr><tr><td>Arabic No</td><td>734</td></tr><tr><td>Reference</td><td>Book 2 Hadith 344</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аббас ибн Сахль сказал: «(Однажды) во время собрания, Абу Хумайд, Абу Усайд, Сахль ибн Са‘д и Мухаммад ибн Масляма упомянули о молитве Посланника Аллаха ﷺ и Абу Хумайд сказал: “Я лучше всех вас знаю о молитве Посланника Аллаха ﷺ”. И он рассказывая часть этого (хадиса) сказал: “Затем он совершил поясной поклон и поставил свои руки на колени, словно ухватывая их, напряг свои руки, отделив их от боков”».(Передатчик этого хадиса) сказал: «Затем он совершил земной поклон и упёрся носом и лбом, отводя руки от боков и поставил их параллельно к плечам, после чего поднял голову (выпрямляясь) так, что каждая кость возвратилась на свое место, (и он поступал так), пока не завершил (два земных поклона во время второго рак‘ата). Затем он сел и распростёр левую ногу, (стопу) правой ноги (поставил вертикально, а пальцы её были) направлены в сторону киблы. Он поставил правую руку на правое колено, а левую на левое колено и вытянул (указательный) палец (правой руки)».Шейх аль-Альбани сказал: «Достоверный хадис /сахих/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>734</td></tr><tr><td>Arabic No</td><td>734</td></tr><tr><td>Reference</td><td>Book 2 Hadith 344</td></tr></tbody></table></div>
 

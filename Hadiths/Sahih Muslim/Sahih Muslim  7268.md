@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa reported:We were one day in the company of 'Umar that he said: Who amon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] dan [Muhammad bin Al Ala' Abu Kuraib] dari [Abu Mu'awiyah] berkata [Ibnu Al Ala'] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari [Hudzaifah] berkata: Kami berada di kediaman Umar lalu ia bertanya: Siapa diantara kalian yang hafal hadits Rasulullah shallallahu 'alaihi wasallam tentang fitnah seperti yang beliau sabdakan? Hudzaifah bin Al Yaman menjawab: Aku. Umar berkata: Sesungguhnya kau gegabah, apa yang beliau sampaikan? Aku (Hudzaifah bin Al Yaman) berkata: Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Fitnah seseorang terhadap keluarga, harta dan tetangganya yang (dosanya) bisa dihapus dengan shalat, sedekah, memerintahkan kebaikan dan mencegah kemungkaran." Umar berkata: Bukan itu yang aku maksud, tapi fitnah yang bergelombang layaknya samudera. Aku berkata: Kau tidak bermasalah dengannya wahai Amirul Mu'minin, sesungguhnya diantaramu dengan fitnah itu ada pintu yang tertutup. Umar bertanya: Apakah pintunya didobrak atau dibuka? Hudzaifah menjawab: Didobrak. Umar berkata: Kalau begitu layak tidak tertutup selamanya. Kami bertanya kepada Hudzaifah: Apakah Umar tahu siapakah pintu itu? Hudzaifah menjawab: Ya, seperti halnya ia tahu bahwa yang menghalangi hari ini dan hari esok adalah malam hari. Aku menceritakan suatu hadits yang tidak keliru padanya. Kami berkata kepada Masruq: Tanyakan padanya. Ia pun bertanya lalu ia menjawab: Umar. Telah menceritakannya kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Sa'id Al Asyaj] berkata telah menceritakan kepadaku [Waki'] dan telah menceritakan kepadaku [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir]. Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengkhabarkan kepada kami [Isa bin Yunus]. Telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Yahya bin Isa], semuanya dari [Al A'masy] dan sanad ini seperti hadits Abu Mu'awiyah. Disebutkan dalam hadits Isa dari Al A'masy dari Syaqiq: Ia berkata: Aku mendengar Hudzaifah berkata. Telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan] dari [Jami' bin Abu Rasyid] dan [Al A'masy] dari [Abu Wa'il] dari [Hudzaifah] berkata: Umar berkata: Siapa yang mau menceritakan kepada kami tentang fitnah, lalu ia menceritakan hadits seperti hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7268</td></tr><tr><td>Arabic No</td><td>144.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7268</td></tr><tr><td>Arabic No</td><td>144.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 34</td></tr></tbody></table></div>
 

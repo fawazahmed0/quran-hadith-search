@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Ishaq reported:I was with al-Aswad b. Yazid sitting in the great mosque, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Amru bin Jabalah] telah menceritakan kepada kami [Abu Ahmad] telah menceritakan kepada kami [Ammar bin Ruzaiq] dari [Abu Ishaq] dia berkata; Saya pernah duduk di Masjid Jami' bersama Al Aswad bin Yazid dan juga As Sya'bi, lalu [As Sya'bi] menceritakan hadits [Fathimah binti Qais], bahwa Rasulullah shallallahu 'alaihi wasallam tidak menjadikan hak tempat tinggal dan nafkah untuknya. Kemudian Al Aswad mengambil segenggam kerikil dan melemparnya sambil berkata; Celaka kamu, kenapa kamu menceritakan seperti ini? Umar telah berkata; Saya tidak akan meninggalkan Kitabullah dan Sunnah Nabi shallallahu 'alaihi wasallam karena perkataan seorang wanita, kita tidak tahu, bisa saja dia benar-benar hafal atau memang dia itu lupa, sebenarnya dia masih berhak mendapatkan nafkah dan tempat tinggal, kerena Allah Azza Wa Jalla telah berfirman: "Janganlah kamu keluarkan mereka dari rumah mereka dan janganlah mereka (diizinkan) keluar kecuali kalau mereka mengerjakan perbuatan keji yang terang." Dan telah menceritakan kepada kami [Ahmad bin Abdah Ad Dlabi] telah menceritakan kepada kami [Abu Daud] telah menceritakan kepada kami [Sulaiman bin Ma'adz] dari [Abu Ishaq] dengan isnad ini sebagaimana hadits Abu Ahmad dari 'Ammar bin Zuraiq dengan alur ceritanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3710</td></tr><tr><td>Arabic No</td><td>1480.14</td></tr><tr><td>Reference</td><td>Book 18 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3710</td></tr><tr><td>Arabic No</td><td>1480.14</td></tr><tr><td>Reference</td><td>Book 18 Hadith 58</td></tr></tbody></table></div>
 

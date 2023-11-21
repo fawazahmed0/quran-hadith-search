@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) said, "The Night of Qadr is in the l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Abu Al Aswad] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami ['Ashim] dari [Abu MijlAz] dan ['Ikrimah] berkata, bahwa [Ibnu 'Abbas radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Dia terjadi pada sepuluh malam terakhir, juga pada sembilan hari yang terakhir atau pada yang ketujuh, yaitu terjadinya Lailatul Qadar". Dan dari [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma]; "Carilah pada malam kedua puluh empat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2022</td></tr><tr><td>Arabic No</td><td>2022</td></tr><tr><td>Reference</td><td>Book 32 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса), передаваемой со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, сообщается, что Посланник Аллаха ﷺ сказал: «Она (наступит) в одну из (последних) десяти (ночей рамадана) и будет либо одной из первых девяти, либо одной из последних семи (ночей последней декады месяца)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2022</td></tr><tr><td>Arabic No</td><td>2022</td></tr><tr><td>Reference</td><td>Book 32 Hadith 9</td></tr></tbody></table></div>
 

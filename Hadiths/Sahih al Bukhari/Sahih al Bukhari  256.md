@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Ja'far:Jabir bin 'Abdullah said to me, "Your cousin (Hasan bin Muha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Ma'mar bin Yahya bin Sam] telah menceritakan kepadaku [Abu Ja'far] berkata, [Jabir bin 'Abdullah] berkata kepadaku, "Anak pamanmu telah datang kepadaku -mengisahkan Hasan bin Muhammad bin Al Hanafiah-, ia bertanya, "Bagaimana cara mandi janabat? Aku menjawab, "Nabi shallallahu 'alaihi wasallam mengambil air dengan tiga ciduk telapak tangannya lalu menyiramkannya ke atas kepalanya, kemudian menyiramkan ke seluruh tubuh." Al Hasan lalu berkata kepadaku, "Aku adalah seorang laki-laki yang rambutnya lebat!" Aku lalu menjawab, "Nabi shallallahu 'alaihi wasallam rambutnya lebih lebah dari rambutmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>256</td></tr><tr><td>Arabic No</td><td>256</td></tr><tr><td>Reference</td><td>Book 5 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джа‘фар сказал:\n— (Однажды) Джабир (ибн ‘Абдуллах) сказал мне: «Ко мне приходил сын твоего дяди представившись аль-Хасаном ибн Мухаммад ибн аль-Ханафиййа. Он сказал: “Как следует совершать полное омовение от полового осквернения?” — и я сказал: “Обычно, Пророк ﷺ набирал (воды) в три пригоршни и наливал себе на голову, а затем наливал на всё остальное тело”. Тогда аль-Хасан сказал мне: “Поистине, я человек с густыми волосами!” — и я ответил: “У Пророка ﷺ волосы были гуще твоих!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>256</td></tr><tr><td>Arabic No</td><td>256</td></tr><tr><td>Reference</td><td>Book 5 Hadith 9</td></tr></tbody></table></div>
 

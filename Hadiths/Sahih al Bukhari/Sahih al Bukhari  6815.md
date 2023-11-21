@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to Allah's Messenger (ﷺ) while he was in the m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Abu Salamah] dan [Sa'id bin Musayyab] dari [Abu Hurairah] radliallahu 'anhu mengatakan; Seseorang mendatangi Rasulullah yang ketika itu sedang berada di masjid. Dia menyeru beliau dan berkata; 'Aku telah berzina.' Rasulullah berpaling darinya tetapi dia tetap mengulanginya sebanyak empat kali, setelah ia bersaksi empat kali atas dirinya, maka Nabi shallallahu 'alaihi wasallam memanggilnya dan bertanya; "apakah kamu mengalami sakit gila?" 'Tidak' jawabnya."Kamu sudah menikah?" Tanya Nabi. 'Ya' jawabnya. Maka Nabi shallallahu 'alaihi wasallam bersabda: "pergilah kalian bersama orang ini, dan rajamlah ia!" Ibnu Syihab mengatakan; kemudian [orang yang] mendengar [Jabir bin Abdullah] mengabariku, dan Jabir berkata; 'Aku diantara yang merajamnya, kami merajamnya di tanah lapang. Setelah dia terkena lemparan batu, dia melarikan diri, maka kami menangkapnya di Harrah dan kami merajamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6815</td></tr><tr><td>Arabic No</td><td>6815</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды один мужчина пришёл к Посланнику Аллаха ﷺ, который находился в мечети, и обратился к нему, сказав: “О Посланник Аллаха! Поистине, я совершил прелюбодеяние”. Однако (Посланник Аллаха ﷺ) отвернулся от него. Это повторилось четыре раза, и после того, как он засвидетельствовал против себя четырежды, Пророк ﷺ подозвал его и спросил: “Ты сумасшедший?” Он ответил: “Нет”. Пророк ﷺ спросил: “Ты вступал в половую связь в браке?” Он ответил: “Да”. Тогда Пророк ﷺ сказал: “Уведите его и забейте камнями”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6815</td></tr><tr><td>Arabic No</td><td>6815</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Regarding the Holy Verse: "Those who responded (To the call) of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Hisyam] dari [Ayahnya] dari ['Aisyah] radliallahu 'anha mengenai ayat: '((yaitu) orang-orang yang mentaati perintah Allah dan rasul-Nya sesudah mereka mendapat luka (dalam peperangan Uhud). bagi orang-orang yang berbuat kebaikan diantara mereka dan yang bertakwa ada pahala yang besar) ' (Qs. Ali Imran: 172). Aisyah berkata kepada 'Urwah, "Wahai keponakanku, sesungguhnya ayahmu termasuk dari mereka (yang diterangkan dalam ayat), yaitu Az Zubair dan Abu Bakr. Ketika Rasulullah Shallallahu 'alahi wasallam terluka pada perang Uhud, disaat beliau khawatir kaum Musyrikin yang telah pergi akan kembali, beliau bersabda: "Siapakah yang akan mengintai mereka?", lalu beliau memilih tujuh puluh orang." Perawi berkata, "Termasuk diantara mereka adalah Abu Bakr dan Az Zubair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>4077</td></tr><tr><td>Reference</td><td>Book 64 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда в день (битвы при) Ухуде Посланника Аллаха ﷺ постигло то, что постигло, и многобожники ушли обратно, он стал опасаться, что они вернутся, и спросил: “Кто (хочет) преследовать их?” А потом он отобрал (для этого) семьдесят человек из них».\n(Передатчик этого хадиса сказал): «И среди них были Абу Бакр и аз-Зубайр, да будет доволен Аллах ими обоими»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>4077</td></tr><tr><td>Reference</td><td>Book 64 Hadith 122</td></tr></tbody></table></div>
 

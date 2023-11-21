@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mus’ab b sa’d said:I prayed by the side of my father. I put both of my hands
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Abu Ya'fur]. Abu Daud mengatakan; namanya adalah Waqdan, dari [Mush'ab bin Sa'd] dia berkata; "Aku mengerjakan shalat di samping ayahku, lalu aku meletakkan kedua tanganku antara kedua lututku, maka dia melarangku mengerjakan cara yang demikian, lalu saya mengulanginya, maka [ayahku] berkata; "Janganlah kamu melakukan cara yang seperti ini, karena sesungguhnya kami pernah melakukan cara seperti ini, lalu kami dilarang melakukannya dan kami di perintahkan supaya meletakkan tangan di atas lutut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (790) Sahih Muslim (535)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 2 Hadith 477</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мус‘аб ибн Са‘д сказал: «Однажды я молился рядом со своим отцом и при совершении поясного поклона соединил руки, поместив их между колен. Мой отец запретил мне делать это, но я сделал это снова, и тогда он сказал: “Мы делали то же самое, но нам было запрещено это, и было нам велено класть руки на колени”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (790) Sahih Muslim (535)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 2 Hadith 477</td></tr></tbody></table></div>
 

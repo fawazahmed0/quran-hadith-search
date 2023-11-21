@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas: When the Verse:-- 'And warn your tribe of near kindred' (26
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Umar bin Hafsh] telah bercerita kepada kami [bapakku] telah bercerita kepada kami [Al A'masy] telah bercerita kepada kami ['Amru bin Murrah] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Ketika turun firman Allah Subhaanahu wa Ta'ala QS asy-Syu'ara (26) ayat 214 yang artinya ("Dan berilah peringatan kepada kerabat-kerabatmu yang terdekat", maka Nabi shallallahu 'alaihi wasallam berseru: "Wahai Bani Fihir, wahai Bani 'Adiy, yaitu nama desa-desa suku Quraisy". Dan [Qabishah] berkata kepada kami, telah mengabarkan kepada kami [Sufyan] dari [Habib bin Abu Tsabit] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Ketika turun firman Allah Subhaanahu wa Ta'ala QS asy-Syu'ara (26) ayat 214 yang artinya ("Dan berilah peringatan kepada kerabat-kerabatmu yang terdekat", maka Nabi shallallahu 'alaihi wasallam berseru memanggil mereka suku persuku)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3526</td></tr><tr><td>Arabic No</td><td>3526</td></tr><tr><td>Reference</td><td>Book 61 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «После ниспослания (аята, в котором сказано): “И увещевай своих ближайших родственников” (сура “аш-Шу‘ара”, аят 214) Пророк ﷺ стал обращаться к одному племени за другим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3526</td></tr><tr><td>Arabic No</td><td>3526</td></tr><tr><td>Reference</td><td>Book 61 Hadith 36</td></tr></tbody></table></div>
 

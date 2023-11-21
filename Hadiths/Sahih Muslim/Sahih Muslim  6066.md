@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' reported that Allah's Messenger (ﷺ) had the most handsome face amongs
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al A'laa]; Telah menceritakan kepada kami [Ishaq bin Manshur] dari [Ibrahim bin Yusuf] dari [Bapaknya] dari [Abu Ishaq] dia berkata; Aku mendengar [Al Barra'] berkata; "Rasulullah shallallahu 'alaihi wasallam adalah seorang yang paling tampan wajahnya, paling mulia akhlaknya, perawakannya tidak tinggi kurus dan tidak pula gemuk pendek
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6066</td></tr><tr><td>Arabic No</td><td>2337.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6066</td></tr><tr><td>Arabic No</td><td>2337.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 124</td></tr></tbody></table></div>
 

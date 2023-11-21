@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm al-Husain (Allah be pleased with her) reported:I performed Hajj along with A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Salamah bin Syabib] Telah menceritakan kepada kami [Al Hasan bin A'yan] Telah menceritakan kepada kami [Ma'qil] dari [Zaid bin Abu Unaisah] dari [Yahya bin Hushain] dari [kakeknya] Ummul Hushain, ia berkata, saya mendengar mendengarnya berkata; Aku ikut menunaikan haji bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam ketika haji wada'. Aku melihat ketika beliau melempar Jamrah Aqabah. Sesudah itu, beliau pergi dengan kendaraannya bersama Bilal dan Usamah; yang satu memegang tali Unta, dan yang satu lagi memayungi Rasulullah shallallahu 'alaihi wasallam dengan bajunya dari terik matahari. Kata Ummul Hushain; Ketika itu, Rasulullah shallallahu 'alaihi wasallam banyak bicara. Yang aku dapat mendengarnya, beliau bersabda: "Sekalipun yang memegang kekuasaan adalah seorang budak hitam, tetapi dia memerintah dengan Kitabullah, maka dengarkan dan patuhilah dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3138</td></tr><tr><td>Arabic No</td><td>1298.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 342</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм аль-Хусайн рассказывала: «...Посланник Аллаха ﷺ много говорил, и я слышала, как он сказал: “Если поставят над вами правителем черного раба с оторванными частями тела, который будет править вами согласно установлениям Книги Аллаха Всевышнего, слушайте его и повинуйтесь ему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3138</td></tr><tr><td>Arabic No</td><td>1298.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 342</td></tr></tbody></table></div>
 

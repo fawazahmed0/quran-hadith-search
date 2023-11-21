@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet (ﷺ) as saying:If anyone pursues a path in se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zaidah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang laki-laki yang meniti jalan untuk mencari ilmu melainkan Allah akan mempermudah baginya jalan menuju Surga. Dan barangsiapa yang lambat amalannya maka nasabnya tidak akan memberinya manfaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3643</td></tr><tr><td>Arabic No</td><td>3643</td></tr><tr><td>Reference</td><td>Book 26 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Какой бы человек ни отправился в путь ради знания, Аллах непременно облегчит ему путь в Рай. А кого задержали его дела, того не продвинет вперёд его происхождение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3643</td></tr><tr><td>Arabic No</td><td>3643</td></tr><tr><td>Reference</td><td>Book 26 Hadith 3</td></tr></tbody></table></div>
 

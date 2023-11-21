@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:(Concerning exchange) that he heard Allah's Messenger (ﷺ) s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Sa'ad] telah menceritakan kepada kami [pamanku] telah menceritakan kepada saya [anak saudaraku Az Zuhriy] dari [pamannya] berkata, telah menceritakan kepada saya [Salim bin 'Abdullah] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa [Abu Sa'id Al Khudriy] menceritakan kepadanya seperti hadits tersebut dari Rasulullah shallallahu 'alaihi wasallam. Maka 'Abdullah bin 'Umar radliallahu 'anhuma menemuinya lalu berkata: "Wahai Abu Sa'id, apa yang telah anda ceritakan dari hadits dari Rasulullah shallallahu 'alaihi wasallam?. Maka Abu Sa'id berkata: "Tentang sharf (dagangan), aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jual beli emas dengan emas harus sama jumlahnya dan uang kertas dengan uang kertas harus sama pula jumlahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 34 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри рассказал ‘Абдуллаху ибн ‘Умару, да будет доволен Аллах им и его отцом, хадис подобный прошлому от Посланника Аллаха ﷺ. Встретив его (в другой раз), ‘Абдуллах ибн ‘Умар сказал: «О Абу Са‘ид! Что это ты рассказываешь от Посланника Аллаха ﷺ?» Абу Са‘ид ответил: «О “сарфе” (продаже одной из двух валют (золота и серебра) за другую). Я слышал, как Посланник Аллаха ﷺ сказал: “Золото продаётся за золото, серебро за серебро (только) в равных количествах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 34 Hadith 126</td></tr></tbody></table></div>
 

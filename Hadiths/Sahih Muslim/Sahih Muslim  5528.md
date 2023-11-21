@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Allah's Messenger (ﷺ) visited me. and I had a shelf with a thi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] seluruhnya dari [Ibnu 'Uyainah]; Dan lafazh ini milik Zuhair; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Abdurrahman bin Al Qasim] dari [Bapaknya] bahwa dia mendengar ['Aisyah] berkata; "Pada suatu ketika, Rasulullah shallallahu 'alaihi wasallam pernah masuk ke kamar saya, sedangkan pada saat itu saya menutup rak lemari milik saya dengan kain tipis yang bergambar. Ketika melihat gambar itu, Rasulullah shallallahu 'alaihi wasallam langsung merobeknya, dan raut wajah beliau berubah seraya berkata: 'Hai Aisyah, orang yang paling pedih siksaannya di sisi Allah pada hari kiamat kelak adalah orang yang membuat sesuatu yang serupa dengan ciptaan Allah. Aisyah berkata; 'Aku pun memotongnya dan kain itu aku buat satu bantal atau dua bantal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5528</td></tr><tr><td>Arabic No</td><td>2107.09</td></tr><tr><td>Reference</td><td>Book 37 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5528</td></tr><tr><td>Arabic No</td><td>2107.09</td></tr><tr><td>Reference</td><td>Book 37 Hadith 141</td></tr></tbody></table></div>
 

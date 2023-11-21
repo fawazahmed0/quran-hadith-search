@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (Allah be pleased with him) reported Allah's Apostle (ﷺ) as saying:Do
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abdullah bin Mubarak] dari [At Taimi] dari [Abu Utsman] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam bahwa beliau melarang seseorang menghadang barang dagangan (sebelum sampai pasar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3821</td></tr><tr><td>Arabic No</td><td>1518</td></tr><tr><td>Reference</td><td>Book 21 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3821</td></tr><tr><td>Arabic No</td><td>1518</td></tr><tr><td>Reference</td><td>Book 21 Hadith 21</td></tr></tbody></table></div>
 

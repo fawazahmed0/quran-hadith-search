@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Regarding the Verse: 'And (We) made you into Shu'ub and Qaba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Khalid bin Yazid Al Kilaniy] telah bercerita kepada kami [Abu Bakr] dari [Abu Hashin] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] menjelaskan tentang firman Allah dalam QS al-Hujurat ayat 13; "Wa ja'alnaakum syu'uubaw wa qabaa'ila lita'aarafuw" (Dan Kami jadikan kalian berbangsa-bangsa dan bersuku-suku"). Asy-Syu'ub (jama' dari asy-Sya'bu) adalah suku bangsa (yang besar) sedang al-qaba'il (jama' dari al-qabilah) adalah suku atau marga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3489</td></tr><tr><td>Arabic No</td><td>3489</td></tr><tr><td>Reference</td><td>Book 61 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал относительно аята: «Мы сделали вас народами /шу’уб/ и племенами /кабаиль/, чтобы вы узнавали друг друга» (сура «аль-Худжурат», аят 13), что «шу’уб» означает большие племена, а «кабаиль» — племена
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3489</td></tr><tr><td>Arabic No</td><td>3489</td></tr><tr><td>Reference</td><td>Book 61 Hadith 1</td></tr></tbody></table></div>
 

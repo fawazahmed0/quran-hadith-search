@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Malik and there is no mention 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mendapatkan ruku' ketika shalat bersama imam, maka ia telah mendapatkan satu raka'at." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid] dan [Zuhair bin Harb] mereka berkata; telah menceritakan kepada kami [Ibnu 'Uyainah] dia berkata, (Dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnul Mubarak] dari [Ma'mar] dan [Auza'i] dan [Malik bin Anas] dan [Yunus] dia berkata, (Dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ayahku] dia mengatakan, (Dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] semuanya dari ['Ubaidullah], dan dan masing-masing mereka dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadis Yahya dari Malik. Namun di hadis masing-masing mereka tidak menyebutkan redaksi "Bersama imam" dan dalam hadis 'Ubaidullah, Rasulullah shallallahu 'alaihi wasallam bersabda: "Berarti ia telah mendapatkan semua shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1373</td></tr><tr><td>Arabic No</td><td>607.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса он сказал: «…тот застал эту молитву полностью». Глава: о том, кто успел совершить (хотя бы) один рака’ат утренней молитвы /фаджр
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1373</td></tr><tr><td>Arabic No</td><td>607.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 207</td></tr></tbody></table></div>
 

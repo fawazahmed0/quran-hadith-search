@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'd:The Prophet (ﷺ) said, "Delay the (Zuhr) Prayer till it gets 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Sufyan] dari [Al A'masy] dari [Dzakwan] dari [Abu Sa'id radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Tundalah shalat, karena panas yang sangat menyengat itu berasal dari hembusan api jahanam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3259</td></tr><tr><td>Arabic No</td><td>3259</td></tr><tr><td>Reference</td><td>Book 59 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида, да будет доволен им Аллах, что Пророк ﷺ сказал: «Сильная жара от дыхания Ада, и если она становится слишком сильной, то задержите молитву, пока она не спадёт»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3259</td></tr><tr><td>Arabic No</td><td>3259</td></tr><tr><td>Reference</td><td>Book 59 Hadith 69</td></tr></tbody></table></div>
 

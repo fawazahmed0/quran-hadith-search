@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported Allah's Messenger (ﷺ) as saying:There is no transaction betw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Yahya bin Ayyub] dan [Qutaibah] serta [Ali bin Hujr]. Yahya bin Yahya mengatakan; Telah mengabarkan kepada kami, sedangan yang lain mengatakan; Telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Abdullah bin Dinar] bahwa dia mendengar [Ibnu Umar] berkata; Rasulullah Shallallu 'alaihi wa sallam bersabda: "Setiap dua orang yang melakukan transaksi jual beli, maka tidak ada transaksi (yang melazimkan) di antara keduanya sampai keduanya berpisah, kecuali jual beli dengan khiyar (penentuan pilihan dari awal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3857</td></tr><tr><td>Arabic No</td><td>1531.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3857</td></tr><tr><td>Arabic No</td><td>1531.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 56</td></tr></tbody></table></div>
 

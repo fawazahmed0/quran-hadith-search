@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik said:The Apostle of Allah (ﷺ) said: I would be the first interce
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Za'idah] dari [al-Mukhtar bin Fulful] dia berkata; [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Aku adalah pemberi syafa'at pertama di surga. Tidaklah seorang nabi dibenarkan (oleh umatnya) sebagaimana aku dibenarkan. Dan sungguh, di antara para nabi ada yang tidak dibenarkan oleh umatnya sama sekali, kecuali hanya orang-orang seorang laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>485</td></tr><tr><td>Arabic No</td><td>196.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 391</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Пророк ﷺ сказал: «Я первым из людей стану ходатайствовать о Рае, и никому из пророков не поверит (столько людей, сколько) поверит мне, и был из числа пророков такой, которому поверил только один человек из его общины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>485</td></tr><tr><td>Arabic No</td><td>196.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 391</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) came to (the grave of) 'Abdullah bin Ubai after
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kami [Ibnu 'Uyainah] dari ['Amru] bahwa dia mendengar [Jabir radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam mendatangi (jenazah) 'Abdullah bin Ubay setelah dimasukkan dalam kubur lalu Beliau mengeluarkannya, memberkahi dengan ludahnya dan memakaikan dengan baju Beliau kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1270</td></tr><tr><td>Arabic No</td><td>1270</td></tr><tr><td>Reference</td><td>Book 23 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Пророк ﷺ пришёл к (могиле) ‘Абдуллаха бин Убаййа уже после того, как (тело) было опущено в могилу. Его извлекли оттуда, после чего (Пророк ﷺ) поплевал на него и одел на его тело свою рубаху»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1270</td></tr><tr><td>Arabic No</td><td>1270</td></tr><tr><td>Reference</td><td>Book 23 Hadith 31</td></tr></tbody></table></div>
 

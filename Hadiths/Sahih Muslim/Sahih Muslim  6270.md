@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Ja'far reported that one day Allah's Messenger (ﷺ) mounted me behi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami [Mahdi bin Maimun]; Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Abu Ya'qub] dari [Al Hasan bin Sa'ad] - budak- Al Hasan bin 'Ali dari ['Abdullah bin Ja'far] dia berkata; Suatu hari Rasulullah shallallahu 'alaihi wasallam pernah memboncengku di belakang beliau. Kemudian beliau membisikkan saya suatu ucapan yang tidak saya ceritakan kepada siapapun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6270</td></tr><tr><td>Arabic No</td><td>2429</td></tr><tr><td>Reference</td><td>Book 44 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6270</td></tr><tr><td>Arabic No</td><td>2429</td></tr><tr><td>Reference</td><td>Book 44 Hadith 100</td></tr></tbody></table></div>
 

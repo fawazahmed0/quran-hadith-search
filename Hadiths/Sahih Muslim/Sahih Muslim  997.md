@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zainab, the wife of Abdullah (b. 'Umar), reported:The Messenger of Allah (ﷺ) s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Yahya bin Sa'id al-Qaththan] dari [Muhammad bin 'Ajlan] telah menceritakan kepadaku [Bukair bin Abdullah bin al-Asyajj] dari [Busr bin Sa'id] dari [Zainab, istri Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami, 'Apabila salah seorang dari kalian kaum wanita hendak menghadiri shalat di masjid maka janganlah kalian memakai wangi-wangian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>997</td></tr><tr><td>Arabic No</td><td>443.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Зайнаб сказала: «Посланник Аллаха ﷺ сказал нам: “Если кто-нибудь из вас (решит) посетить мечеть, пусть не умащается благовониями”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>997</td></tr><tr><td>Arabic No</td><td>443.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 159</td></tr></tbody></table></div>
 

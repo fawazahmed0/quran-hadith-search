@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:It would be an Abyssinian
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdulaziz Ad Darawardi] dari [Tsaur bin Zaid] dari [Abu Al Ghaits] dari [Abu Hurairah] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Dzus Suwaiqatain dari Habasyah meruntuhkan rumah Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7307</td></tr><tr><td>Arabic No</td><td>2909.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7307</td></tr><tr><td>Arabic No</td><td>2909.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 73</td></tr></tbody></table></div>
 

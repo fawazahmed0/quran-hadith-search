@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When there was revealed: 'It is those who believe and confuse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim] dari [Al Qamah] dari [Abdullah radliallahu 'anhu] dia berkata; Tatkala turun ayat: Orang-orang yang beriman dan tidak mencampuradukkan iman mereka dengan kezaliman…. (Al An'am: 82). Maka hal itu terasa berat bagi para sahabat Rasulullah shallallahu 'alaihi wasallam, mereka berkata; Siapakah di antara kami yang tidak pernah mencampuri keimanannya dengan kezhaliman? Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukan itu maksudnya, bukankah kalian pernah mendengar perkataan Lukman kepada anaknya Sesungguhnya kesyirikan itu adalah kezhaliman yang besar?. (Luqman:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4776</td></tr><tr><td>Arabic No</td><td>4776</td></tr><tr><td>Reference</td><td>Book 65 Hadith 298</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Когда был ниспослан (аят, в котором сказано): “Те, которые уверовали и не облекли свою веру в несправедливость…”. Сподвижникам Посланника Аллаха ﷺ стало тяжело (по причине этих слов), и они сказали: “А кто же из нас не облекал свою веру в несправедливость?” Посланник Аллаха ﷺ ответил: “Это не то, о чём вы говорите. Разве вы не слышали слова Лукмана своему сыну: “…ибо многобожие является великой несправедливостью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4776</td></tr><tr><td>Arabic No</td><td>4776</td></tr><tr><td>Reference</td><td>Book 65 Hadith 298</td></tr></tbody></table></div>
 

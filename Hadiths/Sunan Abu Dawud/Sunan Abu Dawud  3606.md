@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Abbas: A man from Banu Sahm went out with Tamim ad-Dari an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Ibnu Abu Zaidah] dari [Muhammad bin Abu Al Qasim] dari [Abdul Malik bin Sa'id bin Jubair] dari [Ayahnya] dari [Ibnu Abbas] ia berkata, "Seorang laki-laki Bani Sahm keluar bersama Tamim Ad Dari dan 'Udai bin Badda, kemudian orang dari Bani Sahm tersebut meninggal di negeri yang tidak ada seorang Muslim pun di dalamnya. Kemudian tatkala mereka berdua datang dengan membawa harta warisannya mereka kehilangan gelas perak yang terukir dengan emas seperti daun kurma. Lalu Rasulullah shallallahu 'alaihi wasallam meminta mereka berdua agar bersumpah, dan gelas itu kemudian ditemukan di Makkah, keduanya lalu berkata, "Kami membelinya dari Tamim dan 'Udai." Dua orang dari wali laki-laki Bani As Sahm kemudian berdiri dan bersumpah, 'Sungguh persaksian kami lebih berhak dari pada persaksian mereka berdua. ' Dan sesungguhnya gelas tersebut adalah milik sahabat mereka." Jubair berkata, "Kemudian turunlah ayat: '(Hai orang-orang yang beriman, apabila salah seorang kamu menghadapi kematian, sedang dia akan berwasiat, maka hendaklah (wasiat itu) disaksikan oleh dua orang yang adil di antara kamu, atau dua orang yang berlainan agama dengan kamu, jika kamu dalam perjalanan di muka bumi lalu kamu ditimpa bahaya kematian. Kamu tahan kedua saksi itu sesudah sembahyang (untuk bersumpah), lalu mereka keduanya bersumpah dengan nama Allah, jika kamu ragu-ragu: "(Demi Allah) kami tidak akan membeli dengan sumpah ini harga yang sedikit (untuk kepentingan seseorang), walaupun dia karib kerabat, dan tidak (pula) kami menyembunyikan persaksian Allah; sesungguhnya kami kalau demikian tentulah termasuk orang-orang yang berdosa) ' (Qs. Al Maidah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2780)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3606</td></tr><tr><td>Arabic No</td><td>3606</td></tr><tr><td>Reference</td><td>Book 25 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Один человек из бану сахм отправился в путь вместе с Тамимом ад-Дари и ‘Ади ибн Баддой (, в то время они были ещё христианами), и этот человек скончался в земле, в которой не было ни одного мусульманина. Когда они привезли оставленное им имущество к Посланнику Аллаха ﷺ (родственники умершего) обнаружили исчезновение серебряной чаши, отделанной золотом. Посланник Аллаха ﷺ взял с тех, кто привёз вещи, клятву, а потом чаша обнаружилась в Мекке. Люди сказали: “Мы купили её у Тамима и ‘Ади”. Тогда два человека из числа родственников умершего сахмита поклялись: “Наше свидетельство правдивее их свидетельства, и эта чаша принадлежит нашему товарищу”. И о них было ниспослано: “О те, которые уверовали! Если к кому-нибудь из вас явится смерть и он оставит завещание…” (сура “аль-Маида”, аят 106)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2780)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3606</td></tr><tr><td>Arabic No</td><td>3606</td></tr><tr><td>Reference</td><td>Book 25 Hadith 36</td></tr></tbody></table></div>
 

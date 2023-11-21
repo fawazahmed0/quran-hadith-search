@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) loved to start from the right-hand 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [al-Asy'ats] dari [bapakku] dari [Masruq] dari [Aisyah] dia berkata, "Rasulullah menyukai mendahulukan bagian kanan dalam segala tindakanya, dalam memakai sandal, menyikat rambut, dan bersuci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>617</td></tr><tr><td>Arabic No</td><td>268.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Посланнику Аллаха ﷺ нравилось отдавать предпочтение правой стороне во всём: (когда) надевал обувь, причёсывался и (при совершении) омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>617</td></tr><tr><td>Arabic No</td><td>268.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 84</td></tr></tbody></table></div>
 

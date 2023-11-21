@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) was presented with two cups one con
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] Telah menceritakan kepada kami ['Abdullah] Telah mengabarkan kepada kami [Yunus]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ahmad bin Shalih] Telah menceritakan kepada kami ['Anbasah] Telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] dia berkata; [Ibnu Al Musayyab] dia berkata; [Abu Hurairah] berkata; Pada malam Rasulullah shallallahu 'alaihi wasallam diisra'kan di Iliya, dihidangkan kepada beliau dua bejana; khamer dan susu. Lalu beliau memandangi keduanya seraya mengambil bejana yang berisi susu. Jibril 'Alaihis Salam pun berkata; "Segala puji bagi Allah yang telah menunjukimu kepada fitrah, sekiranya engkau mengambil khamer maka umatmu tersesat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4709</td></tr><tr><td>Arabic No</td><td>4709</td></tr><tr><td>Reference</td><td>Book 65 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра рассказал, что в ту ночь, когда Посланник Аллаха ﷺ был перенесён (аль-исра) в Илью (Иерусалим), ему принесли два сосуда, в одном из них было вино, а в другом — молоко. Он посмотрел на них и взял молоко, и Джибриль сказал: «Хвала Аллаху, который направил тебя к тому, что соответствует естеству, а если бы ты взял вино, то община твоя сбилась бы с пути»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4709</td></tr><tr><td>Arabic No</td><td>4709</td></tr><tr><td>Reference</td><td>Book 65 Hadith 231</td></tr></tbody></table></div>
 

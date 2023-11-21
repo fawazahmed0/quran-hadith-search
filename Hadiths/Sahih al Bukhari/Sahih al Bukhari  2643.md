@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Al-Aswad:Once I went to Medina where there was an outbreak of disea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Daud bin Abi Al Furat] telah menceritakan kepada kami ['Abdullah bin Buraidah] dari [Abu Al Aswad] berkata: "Aku mengunjungi Madinah saat banyak orang sakit yang membawa kepada kematian mereka kemudia aku duduk di sisi ['Umar] radliallahu 'anhu saat lewat jenazah lalu jenazah itu dipuji dengan kebaikan maka 'Umar berkata: "Pasti". Kemudian lewat jenazah lain lalu dipuji pula dengan kebaikan maka 'Umar berkata: "Pasti". Kemudian lewat jenazah ketiga namun dicela dengan kejelekkan lalu diapun berkata: "Pasti". Maka aku tanyakan: "Apa yang dimaksud pasti wahai amirul mu'minin?" Maka 'Umar berkata: "Sebagaimana Nabi shallallahu 'alaihi wasallam pernah mengatakannya: "Siapa saja dari muslim (yang meninggal dunia) lalu dipersaksikan dengan kebaikan oleh empat orang maka dia pasti akan dimasukkan oleh Allah kedalam surga". Kami bertanya: "Bagaimana kalau hanya disaksikan oleh tiga orang?" Beliau menjawab: "Ya juga oleh tiga orang". Aku katakan: "Bagaimana kalau dua orang?" Beliau menjawab: "Ya juga oleh dua orang". Kemudian kami tidak bertanya bila hanya oleh satu orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2643</td></tr><tr><td>Arabic No</td><td>2643</td></tr><tr><td>Reference</td><td>Book 52 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу-ль Асуад сказал: «Однажды я прибыл в Медину в то время, когда там распространилась болезнь, от которой люди быстро умирали. Я сел возле ‘Умара. Тут мимо него пронесли носилки с умершим, о котором люди отзывались с благом, ‘Умар сказал: “Стало обязательным!” Затем мимо пронесли другого (умершего), и люди так же отозвались о нём с благом, и ‘Умар сказал: “Стало обязательным!” Затем пронесли третьего (умершего), о котором люди отозвались плохо, и ‘Умар сказал: “Стало обязательным!” Тогда я спросил: “Что стало обязательным, о повелитель правоверных?!” Он ответил: “Я сказал так же, как сказал Пророк ﷺ: “Аллах введёт в Рай любого мусульманина, о благочестии которого засвидетельствуют четверо (других мусульман)”. Мы спросили: “А (если их будет) трое?” Он ответил: “И трое”. Мы (снова) спросили: “А двое?” Он ответил: “И двое”. После этого мы не стали спрашивать его о том (, что будет, если найдётся только) один (такой свидетель)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2643</td></tr><tr><td>Arabic No</td><td>2643</td></tr><tr><td>Reference</td><td>Book 52 Hadith 7</td></tr></tbody></table></div>
 

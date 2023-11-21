@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:Exhort to recite"
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Al Jahdari Fudlail bin Husain] dan [Utsman bin Abu Syaibah] keduanya dari [Bisyr] - [Abu Kamil] berkata- Telah menceritakan kepada kami [Umarah bin Ghaziyyah] telah menceritakan kepada kami [Yahya bin Umarah] ia berkata, saya mendengar [Abu Sa'id Al Khudri] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tuntunlah orang yang sedang berada di penghujung ajalnya agar membaca (kalimat), 'LAA ILAAHA ILLALLAH.'" Dan telah menceritakannya kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz Ad Darawardi] -dalam jalur lain- Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepada kami [Sulaiman bin Bilal] semuanya menggunakan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2123</td></tr><tr><td>Arabic No</td><td>916.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: Посланник Аллаха ﷺ сказал: «Внушайте своим умирающим, (чтобы они произносили слова) “Нет бога, достойного поклонения, кроме Аллаха” /Ля иляха илля-л-Лах/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2123</td></tr><tr><td>Arabic No</td><td>916.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 1</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1362) Sahih Muslim (2647)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4694</td></tr><tr><td>Arabic No</td><td>4694</td></tr><tr><td>Reference</td><td>Book 42 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Али: «Мы участвовали в похоронной процессии вместе с посланником Аллаха ﷺ в Бакы‘-аль-Гаркад. К нам подошёл Пророк ﷺ и сел, а у него с собой была небольшая палка. Он стал ковырять этой палкой землю, а потом поднял голову и сказал: “Нет никого среди вас, как нет и вообще ни одной живой души, место которой в Аду или в Раю уже не было бы определено. Определено также, какой она является, злосчастной или счастливой”. Один человек сказал: “О пророк Аллаха, так не положиться ли нам на то, что уже предопределено, и не отказаться ли от дел? Ведь тот, кто относится к числу счастливых, всё равно придёт к делам счастливых. А относящийся к числу злосчастных всё равно придёт к делам злосчастных”. (Посланник Аллаха ﷺ) сказал: “Трудитесь, ибо каждому будет облегчено (то, для чего он был создан). Что касается счастливых, то для них будет облегчено совершение дел счастливых, что же касается злосчастных, то для них будет облегчено совершение дел злосчастных”. Затем пророк Аллаха ﷺ прочитал: “Что касается того, кто отдавал, и был богобоязненным, и признавал наилучшее, то Мы облегчим ему путь к легчайшему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1362) Sahih Muslim (2647)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4694</td></tr><tr><td>Arabic No</td><td>4694</td></tr><tr><td>Reference</td><td>Book 42 Hadith 99</td></tr></tbody></table></div>
 

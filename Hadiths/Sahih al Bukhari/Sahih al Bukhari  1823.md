@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:We were in the company of the Prophet (ﷺ) at a place calle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Shalih bin Kaisan] dari [Abu Nuhammad Nafi'] maulanya Abu Qatadah dia mendengar [Abu Qatadah radliallahu 'anhu] berkata: "Kami berangkat bersama Nabi shallallahu 'alaihi wasallam dan tiba di Qahah yang jaraknya tiga hari perjalanan dari Madinah". Dan diriwayatkan pula, telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Shalih bin Kaisan] dari [Abu Muhammad] dari [Abu Qatadah radliallahu 'anhu] berkata: ": "Kami berangkat bersama Nabi shallallahu 'alaihi wasallam dan tiba di Qahah. Diantara kami ada yang berihram dan ada pula yang tidak. Aku melihat para sahabatku sedang memperhatikan sesuatu. Maka aku ikut memperhatikannya yang ternyata seekor keledai liar yang sudah terkena cambuk. Mereka berkata: "Kami tidak akan membantumu untuk mendapatkannya karena kami sedang berihram. Maka aku berusaha menangkapnya lalu berhasil, kemudian aku bawa keledai tersebut dari balik bukit kecil lalu aku menyembelihnya. Kemudian aku datang menemui para sahabat membawa dagingnya. Diantara mereka ada yang berkata: "Makanlah". Dan sebagian yang lain mengatakan: "Jangan kalian makan". Maka aku menemui Nabi shallallahu 'alaihi wasallam sedang saat itu Beliau berada di depan kami, lalu aku bertanya tentang masalah itu, maka Beliau berkata: "Makanlah daging itu karena dia halal". Maka kemudian 'Amru berkata, kepada kami: "Pergilah dan temui Shalih lalu tanyakan kepadanya tentang masalah ini dan masalah lainnya. Maka Shalih menemui kami lalu berkata, " Bawalah kemari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1823</td></tr><tr><td>Arabic No</td><td>1823</td></tr><tr><td>Reference</td><td>Book 28 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(В другой) версии (этого хадиса) сообщается что (Абу Катада, да будет доволен им Аллах,) сказал: «Мы были с Пророком ﷺ у (долины) аль-Каха, и среди нас были те, кто вошли в ихрам и те, кто не вошли. Я заметил, что мои спутники наблюдают за чем-то, взглянув (в его сторону) я увидел, что это был дикий осел. Когда у меня упал кнут и попросил их подать его мне, но они сказали: “Мы не будем тебе помогать, так как мы находимся в состоянии ихрама”. Тогда я сам поднял свой кнут, напал на дикого осла из-за холма и зарезал его. Когда я принёс его своим спутникам, некоторые из них сказали: “Ешьте (это мясо)!” А другие сказали: “Не ешьте (его)!” Тогда я догнал Пророка ﷺ который был впереди нас, и спросил его об этом, он ответил: “Еште его, это является разрешенным!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1823</td></tr><tr><td>Arabic No</td><td>1823</td></tr><tr><td>Reference</td><td>Book 28 Hadith 3</td></tr></tbody></table></div>
 

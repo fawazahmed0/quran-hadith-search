@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: He who finds (gets) a ra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Hasan bin Rabi'] telah menceritakan kepada kami [Abdullah bin Mubarak] dari [Ma'mar] dari [Ibnu Thawus] dari [Ayahnya] dari [Ibn Abbas] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mendapatkan satu raka'at shalat ashar sebelum matahari terbenam, berarti ia telah dapatkan shalat ashar, dan barangsiapa mendapatkan satu raka'at shalat shubuh sebelum matahari terbit, berarti ia telah dapatkan shalat subuh." Dan telah menceritakan kepada kami [Abdul A'la bin Hammad] telah menceritakan kepada kami [Mu'tamir], katanya; "Aku mendengar [Ma'mar] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>608.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Тот, кто успел совершить (хотя бы) один рак’ат послеполуденной молитвы /‘аср/ до захода солнца, успел совершить (её). И тот, кто успел совершить (хотя бы) один рак’ат утренней молитвы /фаджр/ до восхода солнца, успел совершить (её)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>608.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 211</td></tr></tbody></table></div>
 

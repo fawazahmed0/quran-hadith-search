@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Amr b. al-As is reported to have said:Verily a person asked the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu ath-Thahir Ahmad bin Amru bin Abdullah bin Amru bin Sarh al-Mishri] telah mengabarkan kepada kami [Ibnu Wahab] dari [Amru bin al-Harits] dari [Yazid bin Abu Habib] dari [Abu al-Khair] bahwa dia mendengar [Abdullah bin Amru bin al-Ash] keduanya berkata, "Sesungguhnya seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam, "Muslim yang bagaimana yang paling baik?" Beliau menjawab: "Yaitu seorang Muslim yang orang lain merasa aman dari gangguan lisan dan tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 1 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Абдуллах ибн ‘Амр ибн аль-‘Ас рассказывал, что один человек спросил Посланника Аллаха ﷺ: «Кто из мусульман является лучшим?» (Пророк ﷺ) ответил: «Тот (человек), от зла языка и рук которого мусульмане находятся в безопасности (то есть тот, кто не причиняет мусульманам вреда своим языком и руками)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 1 Hadith 68</td></tr></tbody></table></div>
 

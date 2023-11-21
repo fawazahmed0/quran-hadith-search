@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Thabit: I heard the Messenger of Allah (ﷺ) say: May Allah br
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] telah menceritakan kepadaku [Umar bin Sulaiman] dari putera Umar bin Al Khathab, dari [Abdurrahman bin Aban] dari [Ayahnya] dari [Zaid bin Tsabit] ia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah memperindah orang yang mendengar hadits dariku lalu menghafal dan menyampaikannya kepada orang lain, berapa banyak orang menyampaikan ilmu kepada orang yang lebih berilmu, dan berapa banyak pembawa ilmu yang tidak berilmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Сабита, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: “Да порадует Аллах человека, который, услышав от нас хадис, запомнит его и передаст другому. Возможно, тот, кому он передаст это знание, поймёт и усвоит его лучше него самого. Бывает, что носитель знания не понимает его должным образом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
 

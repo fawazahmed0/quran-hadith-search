@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with them) reported that when a person who was in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Ash Shabbah] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Abu Bisyr] telah menceritakan kepada kami [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma -dalam riwayat lain- Dan Telah menceritakan kepada kami [Yahya bin Yahya] -lafazh juga miliknya- telah mengabarkan kepada kami [Husyaim] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, bahwa seorang laki-laki sedang melakukan ihram bersama Rasulullah shallallahu 'alaihi wasallam, lalu lehernya patah karena terjatuh dari Untanya hingga ia meninggal seketika. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Mandikanlah jenazahnya dengan air campuran daun bidara. Kemudian kafanilah ia kainnya, dan jangan kalian memakaikannya wewangian, dan jangan pula mengenakan surban di kepalanya, karena ia akan dibangkitkan pada hari kiamat kelak dalam keadaan Ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2897</td></tr><tr><td>Arabic No</td><td>1206.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2897</td></tr><tr><td>Arabic No</td><td>1206.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 106</td></tr></tbody></table></div>
 

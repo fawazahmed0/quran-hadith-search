@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali b. Abi Talib reported that Allah's Messenger (ﷺ) forbade on the Day of Kha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Al Hasan bin 'Ali Al Hulwani] dan [Abd bin Humaid] keduanya dari [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [ayahku] dari [Shalih] dari [Ibnu Shihab] bahwa [Abu Idris] telah mengabarkan kepadanya, bahwa [Abu Tsa'labah] telah berkata, "Rasulullah shallallahu 'alaihi wasallam melarang memakan daging keledai jinak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5005</td></tr><tr><td>Arabic No</td><td>1407.06</td></tr><tr><td>Reference</td><td>Book 34 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5005</td></tr><tr><td>Arabic No</td><td>1407.06</td></tr><tr><td>Reference</td><td>Book 34 Hadith 34</td></tr></tbody></table></div>
 

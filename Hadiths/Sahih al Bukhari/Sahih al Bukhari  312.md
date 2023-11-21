@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:None of us had more than a single garment and we used to have ou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Ibrahim bin Nafi'] dari [Ibnu Abu Najih] dari [Mujahid] berkata, ['Aisyah] berkata, "Tidaklah ada seorang dari kami kecuali memiliki satu baju yang saat mengalami haid. Jika baju tersebut terkena darah haid, ia dia basahi dengan air ludahnya lalu membersihkanya dengan kukunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>312</td></tr><tr><td>Arabic No</td><td>312</td></tr><tr><td>Reference</td><td>Book 6 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджахид сказал:\n— ‘Аиша сказала: «Ни у одной из нас не было одежды, кроме как одной, которую она носила во время месячных. И если на неё попадало что-то из крови, она соскабливала с неё (кровь) ногтями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>312</td></tr><tr><td>Arabic No</td><td>312</td></tr><tr><td>Reference</td><td>Book 6 Hadith 17</td></tr></tbody></table></div>
 

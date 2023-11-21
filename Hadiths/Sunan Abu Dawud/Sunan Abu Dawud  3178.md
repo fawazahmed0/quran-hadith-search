@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir b. Samurah:The Prophet (ﷺ) offered funeral prayer over Ibn al-D
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz], telah menceritakan kepada kami [ayahku], telah menceritakan kepada kami [Syu'bah] dari [Simak], saya mendengar [Jabir bin Samurah] ia berkata; Nabi shallallahu 'alaihi wasallam menshalati Ibnu Ad Dahdah, dan kami menyaksikan, kemudian beliau diberi kuda lalu kuda tersebut diikat hingga beliau menaikinya dan berjalan pelan, sementara kami berjalan di sekitarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (965)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3178</td></tr><tr><td>Arabic No</td><td>3178</td></tr><tr><td>Reference</td><td>Book 21 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн Самура, да будет доволен им Аллах, передаёт: «Пророк ﷺ совершил погребальную молитву над телом Ибн ад-Дахдаха, и мы присутствовали при этом, а потом ему подвели коня, которого придержали, и Пророк ﷺ сел на него, и он устремился вперёд короткими скачками, а мы быстро шли рядом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (965)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3178</td></tr><tr><td>Arabic No</td><td>3178</td></tr><tr><td>Reference</td><td>Book 21 Hadith 90</td></tr></tbody></table></div>
 

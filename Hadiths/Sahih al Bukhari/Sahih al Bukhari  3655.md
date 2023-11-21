@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:We used to compare the people as to who was better during the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin Abdullah] telah bercerita kepada kami [Sulaiman] dari [Yahya bin Sa'id] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhu] berkata; "Kami memilih-milih orang terbaik diantara manusia pada zaman Nabi shallallahu 'alaihi wasallam. Akhirnya yang terpilih adalah Abu Bakr kemudian 'Umar bin Al Khaththab lalu 'Utsman bin 'Affan radliallahu 'anhum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3655</td></tr><tr><td>Arabic No</td><td>3655</td></tr><tr><td>Reference</td><td>Book 62 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «При жизни Пророка ﷺ мы сравнивали людей, кто был лучше. Мы считали лучшим Абу Бакра, затем ‘Умара ибн аль-Хаттаба, а затем ‘Усмана ибн ‘Аффана, да будет доволен ими Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3655</td></tr><tr><td>Arabic No</td><td>3655</td></tr><tr><td>Reference</td><td>Book 62 Hadith 7</td></tr></tbody></table></div>
 

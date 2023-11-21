@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq:A man asked Al-Bara', "O Abu ''Umara! Did you all flee on t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Amru bin Khalid Al Harraoniy] telah bercerita kepada kami [Zuhair] telah bercerita kepada kami [Abu Ishaq] berkata aku mendengar [Al Bara' radliallahu 'anhu] saat ada seseorang yang bertanya kepadanya: "Apakah kalian kabur, wahai Abu 'Umarah, pada peperangan Hunain?" Dia berkata: "Tidak, demi Allah. Tidaklah Rasulullah shallallahu 'alaihi wasallam kabur dari perang akan tetapi yang kabur adalah orang-orang yang baru saja masuk Islam dari sahabat-sahabat Beliau dan orang-orang yang takut karena tidak memiliki tameng dan senjata lalu datang kepada mereka kaum yang ahli memanah yaitu pasukan suku Hawazin dan Bani Nashr dimana setiap kali mereka akan melepaskan anak panah lalu membidik sasaran hampir tidak pernah meleset. Dan kemudian mereka mendatangi Nabi shallallahu 'alaihi wasallam yang saat itu tetap berada diatas baghol Beliau yang berwarna putih sementara putra paman Beliau, Abu Sufyan bin Al Harits bin 'Abdul Muthallib, menuntun baghol tersebut lalu Nabi shallallahu 'alaihi wasallam terjun berperang hingga mendapat kemenangan seraya bersya'ir: "Aku adalah seorang Nabi yang tidak berdusta dan aku adalah anak dari 'Abdul Muthallib". Kemudian Beliau mengatur barisan perang sahabat-sahabat Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2930</td></tr><tr><td>Arabic No</td><td>2930</td></tr><tr><td>Reference</td><td>Book 56 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (как-то раз один) человек спросил аль-Бара бин ‘Азиба, да будет доволен им Аллах: «Верно ли, что в день (битвы при) Хунайне вы бежали?» Он сказал: ...:Я пророк, и нет (в этом) лжи!Я Ибн ‘Абд аль-Мутталиб
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2930</td></tr><tr><td>Arabic No</td><td>2930</td></tr><tr><td>Reference</td><td>Book 56 Hadith 143</td></tr></tbody></table></div>
 

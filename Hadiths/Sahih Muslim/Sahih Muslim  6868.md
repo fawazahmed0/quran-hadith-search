@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa Ash'ari reported that Allah's Messenger (ﷺ) said to him:Should I not 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [An Nadhr bin Syumail] telah menceritakan kepada kami ['Utsman bin Ghiyats] telah menceritakan kepada kami [Abu 'Utsman] dari [Abu Musa Al Asy'ari] dia berkata; Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Maukah aku tunjukkan kepadamu salah satu perbendaharaan surga? ' Saya menjawab; 'Tentu ya Rasulullah? ' Rasulullah bersabda: Laa haula wala quwwata illaa billaah' (Tiada daya dan upaya kecuali dengan pertolongan AIIah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6868</td></tr><tr><td>Arabic No</td><td>2704.07</td></tr><tr><td>Reference</td><td>Book 48 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6868</td></tr><tr><td>Arabic No</td><td>2704.07</td></tr><tr><td>Reference</td><td>Book 48 Hadith 62</td></tr></tbody></table></div>
 

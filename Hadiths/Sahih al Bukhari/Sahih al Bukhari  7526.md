@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Verse:-- '(O Muhammad!) Neither say your prayer aloud nor sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaid bin Ismail] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Ayahnya] dari [Aisyah] radliyallahu'anha, ia berkata, "Ayat ini: '(Janganlah kamu menyaringkan bacaanmu ketika shalatmu dan jangan pula membacanya terlalu lirih) ', (Qs. Al Isra': Ayat 110), diturunkan berkenaan dengan doa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7526</td></tr><tr><td>Arabic No</td><td>7526</td></tr><tr><td>Reference</td><td>Book 97 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Этот аят “Не совершай свою молитву громко и не совершай её шёпотом” (Сура «аль-Исра», аят 110) был ниспослан в отношении мольбы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7526</td></tr><tr><td>Arabic No</td><td>7526</td></tr><tr><td>Reference</td><td>Book 97 Hadith 151</td></tr></tbody></table></div>
 

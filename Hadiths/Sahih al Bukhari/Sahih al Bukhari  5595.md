@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibrahim:I asked Al-Aswad, "Did you ask 'Aisha, Mother of the Believers,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] kataku kepada [Al Aswad] apakah kamu pernah bertanya kepada [Ummul Mukminin Aisyah] tentang jenis tempat minum yang tidak di perbolehkan untuk merendam perasan (anggur atau kurma), Al Aswad menjawab; Ya pernah, tanyaku (kepada Aisyah); "Wahai Ummul Mukminin, jenis tempat minum seperti apakah yang dilarang oleh Nabi shallallahu 'alaihi wasallam untuk merendam (perasan angur atau kurma)?" Aisyah menjawab; "Beliau melarang kami begitu juga kepada ahli bait beliau dari merendam (perasan anggur atau kurma) dalam duba' (tempat minum dari labu yang di buang isinya dan di gunakan untuk merendam perasan kurma atau anggur) dan muzaffat (tempat minum yang di polesi dengan ter). Aku (Ibrahim) bertanya; "Apakah Aisyah tidak menyebutkan tentang al jar (tempat air minum yang terbuat dari tembikar) dan hantam (tempat minum yang terbuat dari tanah liat, rambut dan darah)? Al Aswad menjawab; "Aku hanya menceritakan kepadamu dari hadits yang aku dengar, dan aku tidak mau menceritakan kepadamu sesuatu yang belum aku dengar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5595</td></tr><tr><td>Arabic No</td><td>5595</td></tr><tr><td>Reference</td><td>Book 74 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибрахим спросил аль-Асуада: «Спрашивал ли ты ‘Аишу, мать правоверных о сосудах, готовить напитки в которых нежелательно?» Он ответил: «Да. Я сказал ей: “О мать правоверных! В чём Пророк ﷺ запретил готовить напитки?” Она ответила: “Он запретил нам, членам его семьи, готовить напитки в “дубба” (сосуд для вина, из высушенных тыкв) и “музаффат” (сосуд для вина, бока которого обмазывались смолой)”». Я (Ибрахим) спросил: «А она не упомянула “джарр” (глиняный сосуд, ускоряющий процесс брожения) и “хантам” (кувшины, в которых привозили вино)? Он ответил: «Я рассказываю тебе только то, что слышал. Мне рассказать то, чего я не слышал?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5595</td></tr><tr><td>Arabic No</td><td>5595</td></tr><tr><td>Reference</td><td>Book 74 Hadith 21</td></tr></tbody></table></div>
 

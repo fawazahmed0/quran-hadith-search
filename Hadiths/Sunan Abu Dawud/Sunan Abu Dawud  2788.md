@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mikhnaf ibn Sulaym: We were staying with the Messenger of Allah (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yazid], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Humaid bin Mas'adah], telah menceritakan kepada kami [Bisyr] dari [Abdullah bin 'Aun] dari ['Amir Abu Ramlah], ia berkata; telah mengabarkan kepada kami [Mikhnaf bin Sulaim], ketika kami sedang berwukuf bersama Rasulullah shallallahu 'alaihi wasallam di 'Arafah beliau berkata: "Wahai umat manusia, sesungguhnya kewajiban setiap penghuni rumah pada setiap tahun untuk menyembelih kurban serta 'atirah, tahukah kalian apakah 'atirah? Yaitu yang orang-orang menyebutnya rajabiyyah (menyembelih hewan pada sepuluh hari pertama)." Abu Daud berkata; 'atirah telah dihapuskan dan hadits ini adalah hadits yang telah terhapus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2788</td></tr><tr><td>Arabic No</td><td>2788</td></tr><tr><td>Reference</td><td>Book 16 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Михнафа ибн Суляйма, да будет доволен им Аллах: «Мы стояли вместе с посланником Аллаха ﷺ на ‘Арафате, и он сказал: “О люди! Каждая семья должна каждый год совершать жертвоприношение и резать атиру. Знаете ли вы, что такое атира? Это то, что люди называют раджабиййа”». Абу Дауд сказал: «Атира отменена, и этот хадис отменённый»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2788</td></tr><tr><td>Arabic No</td><td>2788</td></tr><tr><td>Reference</td><td>Book 16 Hadith 1</td></tr></tbody></table></div>
 

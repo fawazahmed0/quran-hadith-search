@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said:The Prophet (ﷺ) gave a beating with palm-branches and sanda
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Hisyam]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Hisyam] secara makna, dari [Qatadah] dari [Anas bin Malik] ia berkata, "Nabi shallallahu 'alaihi wasallam menghukum peminum khamer dengan cambukan pelepah kurma dan sandal. Abu Bakar radliallahu 'anhu mencambuk sebanyak empat puluh kali, maka ketika umar diangkat menjadi khalifah, ia menyeru orang-orang dan berpesan, "Sekarang manusia sudah banyak menghuni Ar Rif (perkampungan yang banyak tumbuh pohon kurma), lalu bagaimana batasan hukum (dera) bagi peminum khamer menurut kalian?" 'Abdurrahman bin Auf lalu berkata kepadanya, "Menurutku, hendaklah engkau beri hukuman yang paling ringan, " Umar lalu menghukumnya dengan delapan puluh deraan." Abu Dawud berkata, " [Ibnu Abu Arubah] meriwayatkannya dari [Qatadah], dari Nabi shallallahu 'alaihi wasallam, bahwasanya beliau mendera (peminum khamer) dengan pelepah kurma dan sandal sebanyak empat puluh kali." Dan [Syu'bah] meriwayatkan dari [Qatadah], dari [Anas], dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Beliau memukul dengan dua pelepah kurma sebanyak empat puluh kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6773) Sahih Muslim (1706)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4479</td></tr><tr><td>Arabic No</td><td>4479</td></tr><tr><td>Reference</td><td>Book 40 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, что по велению Пророка ﷺ за употребление вина наносили удары сандалиями и пальмовыми ветвями и потом по велению Абу Бакра (в годы его правления) наносили сорок ударов. А когда к власти пришёл ‘Умар, он собрал людей и спросил: «Люди стали жить близко к воде и деревням... Что же вы скажете о наказании за употребление вина?» ‘Абдуррахман ибн ‘Ауф сказал ему: «Мы считаем, что ты должен приравнять его к самому лёгкому из установленных Шариатом наказаний (бичевание в восемьдесят ударов)». С тех пор ‘Умар велел наносить пившему вино восемьдесят ударов. Абу Дауд передаёт, что Катада передал, что Пророк ﷺ велел наносить сорок ударов, а в версии Шу‘бы от Катады от Анаса говорится, что Пророк ﷺ велел наносить двумя голыми пальмовыми ветвями сорок ударов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6773) Sahih Muslim (1706)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4479</td></tr><tr><td>Arabic No</td><td>4479</td></tr><tr><td>Reference</td><td>Book 40 Hadith 129</td></tr></tbody></table></div>
 

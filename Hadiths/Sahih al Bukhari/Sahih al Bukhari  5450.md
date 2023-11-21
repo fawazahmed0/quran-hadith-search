@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:My mother, Um Sulaim, took a Mudd of barley grain, ground it and m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ash Shalt bin Muhammad] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Al Ja'd Abu Utsman] dari [Anas]. (dalam jalur lain disebutkan) dan dari [Hisyam] dari [Muhammad] dari [Anas] dari [Sinan Abu Rabi'ah] dari [Anas] bahwa Ummu Sulaim, ibunya, membuat makanan dengan satu mud gandum dan membuatnya semacam adonan, lalu ia memerah susu satu bejana (kecil dari kulit). Kemudian ia menyuruhku menemui Nabi shallallahu 'alaihi wasallam, aku lalu mendatangi beliau yang saat itu sedang bersama para sahabatnya. Kemudian aku mengundangnya. Beliau bertanya: "Bersama semua (orang) yang bersamaku ini?" aku lalu kembali dan menyampaikan, "Sesungguhnya beliau mengatakan 'Bersama semua orang yang bersamaku? ' Abu Thalhah kemudian keluar menemui Rasulullah, ia berkata, "Wahai Rasulullah, itu hanyalah sesuatu (makanan ala kadarnya) yang dibuat oleh Ummu Sulaim." Beliau lalu masuk dan makanan tersebut dibawa ke hadapan beliau, lalu beliau bersabda: "Suruhlah sepuluh orang untuk masuk bersamaku." Mereka lalu masuk dan makan hingga kenyang. Beliau lalu bersabda lagi: "Suruhlah sepuluh orang untuk masuk bersamaku." Mereka lalu masuk dan makan hingga kenyang. Beliau bersabda lagi: "Suruhlah sepuluh orang untuk masuk bersamaku." Sehingga jumlah mereka mencapai empat puluh orang. Nabi shallallahu 'alaihi wasallam kemudian makan dan setelah itu beliau pergi. Maka aku pun melihat, tapi kenapa tidak ada yang berkurang darinya sedikitpun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5450</td></tr><tr><td>Arabic No</td><td>5450</td></tr><tr><td>Reference</td><td>Book 70 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас рассказал, что (однажды) его мать Умм Сулейм взяла один мудд ячменя, размолола его, приготовила кашу и выдавила на неё топлёное масло. Анас сказал: «Затем она отправила меня к Пророку ﷺ. Я пришёл к нему в то время, как он находился вместе со своими сподвижниками, и позвал его. Он спросил: “А те, кто со мной?” Я вернулся домой и сказал: “Он спросил меня: “А те, кто со мной?””. Тогда Абу Тальха пошёл к нему и сказал: “О Посланник Аллаха, там лишь немного еды, которую приготовила Умм Сулейм”. Когда Пророк ﷺ пришёл, и ему принесли еду, он сказал: “Впусти ко мне десять (человек)”. Они вошли и ели, пока не насытились. Затем он сказал: “Впусти ко мне десять (человек)”. Они вошли и ели, пока не насытились. Затем он сказал: “Впусти ко мне десять (человек)”. (И это продолжалось до тех пор,) пока не поели сорок человек. Затем Пророк ﷺ поел сам и ушёл. А я посмотрел на еду, (чтобы узнать) стало ли её меньше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5450</td></tr><tr><td>Arabic No</td><td>5450</td></tr><tr><td>Reference</td><td>Book 70 Hadith 79</td></tr></tbody></table></div>
 

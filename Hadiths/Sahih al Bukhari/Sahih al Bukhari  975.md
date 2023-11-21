@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I (in my boyhood) went out with the Prophet (ﷺ) on the day
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Abbas] berkata, telah menceritakan kepada kami ['Abdurrahman] telah menceritakan kepada kami [Sufyan] dari ['Abdurrahman bin 'Abis] berkata, Aku mendengar [Ibnu 'Abbas] berkata, "Aku pernah keluar bersama Nabi shallallahu 'alaihi wasallam untuk shalat Hari Raya Fitri atau Adlha. Beliau melaksanakan shalat kemudian menyampaikan khutbah. Setelah itu, beliau mendatangi para wanita dan memberi pelajaran kepada mereka, mengingatkan dan memerintahkan agar bersedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>975</td></tr><tr><td>Arabic No</td><td>975</td></tr><tr><td>Reference</td><td>Book 13 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Я вышел вместе с Пророком ﷺ в день праздника разговения или жертвоприношения. Он совершил молитву, затем обратился с проповедью, после этого он пришел к женщинам, сделал им наставление и напоминание, и приказал им давать милостыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>975</td></tr><tr><td>Arabic No</td><td>975</td></tr><tr><td>Reference</td><td>Book 13 Hadith 24</td></tr></tbody></table></div>
 

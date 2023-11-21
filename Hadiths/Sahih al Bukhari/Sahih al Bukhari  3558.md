@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) used to let his hair hang down while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3558</td></tr><tr><td>Arabic No</td><td>3558</td></tr><tr><td>Reference</td><td>Book 61 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ распускал волосы, тогда как многобожники расчёсывали их на пробор. Люди Писания (тоже) распускали волосы, а Посланник Аллаха ﷺ любил следовать примеру людей Писания в том, относительно чего он не получал никаких велений (свыше, однако) потом Посланник Аллаха ﷺ стал расчёсывать волосы на пробор
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3558</td></tr><tr><td>Arabic No</td><td>3558</td></tr><tr><td>Reference</td><td>Book 61 Hadith 67</td></tr></tbody></table></div>
 

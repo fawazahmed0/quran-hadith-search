@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Qatâda (que Dieu l'agrée), le Prophète (paix et bénédiction d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abdurrahman bin Mahdi] dari [Hammam] dari [Yahya bin Abu Katsir] dari [Abdullah bin Abu Qatadah] dari [bapaknya] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang di antara kalian memegang kelaminnya dengan tangan kanan pada waktu kencing. Janganlah mengusap dengan tangan kanan saat buang hajat, dan jangan bernafas di dalam bejana
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>613</td></tr><tr><td>Arabic No</td><td>267.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Аби Катада передал, что его отец сказал: «Посланник Аллаха ﷺ сказал: “Пусть никто из вас ни в коем случае не берётся правой рукой за половой член, когда будет мочиться, не подмывается правой рукой после посещения отхожего места и не выдыхает воздух в сосуд (во время питья)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>613</td></tr><tr><td>Arabic No</td><td>267.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 80</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:We used to say that the warriors of Badr were over three-hundre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdullah bin Abu Syaibah] telah menceritakan kepada kami [Yahya] dari [Sufyan] dari [Abu Ishaq] dari [Al Barra']. Dan diriwayatkan pula, telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Abu Ishaq] dari [Al Bara'] radliallahu 'anhu berkata; kami menceritakan bahwa jumlah pasukan Badar sekitar tiga ratus sepuluh orang, seperti jumlah tentara Thalut yang menyeberangi sungai dan tidak ada yang dapat menyeberangi sungai melainkan orang beriman dimana jumlahnya sekitar tiga ratus sepuluh orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3959</td></tr><tr><td>Arabic No</td><td>3959</td></tr><tr><td>Reference</td><td>Book 64 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Мы говорили, что участников битвы при Бадре было более трехсот десяти (человек) столько же, сколько и сподвижников Талута, перешедших с ним через реку. И никто не перешёл с ним через реку, кроме верующих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3959</td></tr><tr><td>Arabic No</td><td>3959</td></tr><tr><td>Reference</td><td>Book 64 Hadith 11</td></tr></tbody></table></div>
 

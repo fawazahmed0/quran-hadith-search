@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thawban:The Messenger of Allah (ﷺ) as saying: Allah, the Exalted, fol
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2889)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Arabic No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 37 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Саубана, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, Аллах (или: мой Господь) показал мне землю, и увидел я восток её и запад. И, поистине, всё, что было показано мне из неё, будет принадлежать общине моей, и даровано мне было два сокровища красное и белое, и я попросил Господа моего не губить мою общину целиком посредством засухи и не давать власти над её членами врагу не из их числа, который истребил бы их поголовно, и, поистине, мой Господь сказал: “О Мухаммад, если Я принимаю решение, оно не отменяется. Поистине, Я не погублю их всех засухой и не дам власти над ними врагу не из их числа, который истребил бы их поголовно, даже если соберутся против них люди со всех концов (или: из всех пределов) земли, пока сами они не начнут истреблять друг друга и захватывать друг друга в плен. И, поистине, я боюсь для моей общины предводителей, вводящих в заблуждение (призывая к нововведениям, нечестию и грехам). И когда будет опущен меч (или оружие вообще) в мою общину, то уже не будет он поднят до самого Судного дня. И Час не наступит, пока племена из моей общины не присоединятся к многобожникам и пока не станут племена из моей общины поклоняться идолам. И, поистине, появятся в моей общине тридцать лжецов, каждый из которых будет утверждать, что он пророк, но я печать пророков, и не будет пророков после меня. И не перестанет часть моей общины придерживаться истины (имея превосходство над противниками), и не повредит им тот, кто станет противоречить им, пока не придёт предопределённое Всевышним Аллахом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2889)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Arabic No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 37 Hadith 13</td></tr></tbody></table></div>
 

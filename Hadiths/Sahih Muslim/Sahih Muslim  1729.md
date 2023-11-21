@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha observed that the Messenger of Allah (ﷺ) used to observe prayer in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib], keduanya berkata; telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami ['Ammar bin Zuraiq] dari [Abu Ishaq] dari [Al Aswad] dari ['Aisyah], katanya; "Rasulullah shallallahu 'alaihi wasallam biasa shalat malam hingga akhir shalat yang beliau lakukan adalah witir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1729</td></tr><tr><td>Arabic No</td><td>740</td></tr><tr><td>Reference</td><td>Book 6 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ совершал ночную молитву, завершая её нечётным количеством рак‘атов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1729</td></tr><tr><td>Arabic No</td><td>740</td></tr><tr><td>Reference</td><td>Book 6 Hadith 158</td></tr></tbody></table></div>
 

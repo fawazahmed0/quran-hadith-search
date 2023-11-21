@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub; Ubayy ibn Ka'b: Samurah ibn Jundub and Imran ibn Hu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid] telah menceritakan kepada kami [Sa'id] telah menceritakan kepada kami [Qatadah] dari [Al Hasan] bahwa Samurah bin Jundab dan 'Imran bin Hushain saling mengingatkan (sesuatu), maka [Samurah bin Jundab] menceritakan bahwa dirinya hafal dari Rasulullah shallallahu 'alaihi wasallam dua tempat diam sejenaknya beliau (dalam shalat), pertama setelah takbir dan yang satunya ketika selesai dari membaca "GHAIRIL MAGHDLUUBI 'ALAIHIM WALADL DLLAALLIN", Samurah hafal yang demikian itu, namun Imran bin Hushain mengingkarinya, lantas keduanya menulis surat kepada Ubay bin Ka'b, maka [Ubay] membalas suratnya atau balasan dari surat mereka berdua bahwa Samurah memang telah hafal (dari Nabi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 2 Hadith 389</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Имам Абу Дауд сказал): Рассказал нам Мусаддад, (который сказал): Рассказал нам Язид, (который сказал): Рассказал нам Са‘ид, (который сказал): Рассказал нам Къатада от аль-Хасана (аль-Басри) о том, что (однажды Самура ибн Джундуб и ‘Имран ибн Хусайн обсуждали вместе (принципы молитвы) и Самура ибн Джундуб рассказал о том, что он запомнил от Посланника Аллаха ﷺ два (вида) молчания: молчание после произнесения слов «Аллаху акбар» (вначале молитвы) и молчание после завершения чтения «Не тех, на кого пал гнев, и не заблудших» /Гъайрильмагъдуби ‘алейхим ва ла-д-доллийн/, и это запомнил Самура. Но ‘Имран ибн Хусайн выразил ему порицание и они написали об этом письмо Убаййю ибн Ка‘бу, и в письме, которое он написал им (или: в ответе им,) было сказано, что (то, что) запомнил Самура, (верно)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 2 Hadith 389</td></tr></tbody></table></div>
 

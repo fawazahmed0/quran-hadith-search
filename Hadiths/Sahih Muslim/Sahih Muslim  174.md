@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Abu Huraira that the Messenger of Allah (may 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu al-Ahwash] dari [Abu Hushain] dari [Abu Shalih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam berkata, "Barangsiapa beriman kepada Allah dan hari akhir, maka janganlah dia menyakiti tetangganya. Dan barangsiapa beriman kepada Allah dan hari akhir maka hendaklah dia memuliakan tamunya. Dan barangsiapa beriman kepada Allah dan hari akhir, maka hendaklah dia mengucapkan perkataan yang baik atau diam." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus] dari [al-A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda seperti hadits Abu Hushain, hanya dia menyebutkan, 'Dan hendaklah dia berbuat baik kepada tetangganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>47.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Пусть тот, кто верует в Аллаха и в Последний день, не причиняет вреда своему соседу, и пусть тот, кто верует в Аллаха и в Последний день, оказывает уважение своему гостю, и пусть тот, кто верует в Аллаха и в Последний день, говорит благое или молчит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>47.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 81</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:Allah's Messenger (ﷺ) visited me l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] dia berkata; Telah mengabarkan kepada kami [Al Laits]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] dia berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam menemuiku dalam keadaan riang seakan-akan wajahnya bersinar sambil bersabda: "Tidakkah kamu tadi melihat Mujazziz Al Mudallij (ahli identifikasi) melihat Zaid bin Haritsah dan Usamah bin Zaid, lalu dia berkata; 'Sesungguhnya pemilik kaki ini serupa satu sama yang lain'." (Maksudnya; karena keduanya memiliki hubungan darah, penerj)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3617</td></tr><tr><td>Arabic No</td><td>1459.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3617</td></tr><tr><td>Arabic No</td><td>1459.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 50</td></tr></tbody></table></div>
 

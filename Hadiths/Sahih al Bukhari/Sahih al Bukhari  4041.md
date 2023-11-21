@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:On the day of Uhud. the Prophet (ﷺ) said, "This is Gabriel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Abdul Wahhab] telah menceritakan kepada kami [Khalid] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma, dia berkata, "Nabi shallallahu 'alaihi wasallam bersabda pada perang Uhud: "Ini Jibril, ia sedang memegang kepala kudanya yang dilengkapi dengan peralatan perang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4041</td></tr><tr><td>Arabic No</td><td>4041</td></tr><tr><td>Reference</td><td>Book 64 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что в день Ухуда Пророк ﷺ сказал: «Вот Джибриль с боевым оружием держится за голову своего коня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4041</td></tr><tr><td>Arabic No</td><td>4041</td></tr><tr><td>Reference</td><td>Book 64 Hadith 88</td></tr></tbody></table></div>
 

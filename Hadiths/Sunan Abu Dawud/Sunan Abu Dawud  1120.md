@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: I saw the Apostle (ﷺ) would descend from the pulpit a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] dari [Jarir yaitu Ibnu Hazim] aku tidak tahu bagaimana yang di katakan Muslim, kalau bukan dari [Tsabit] dari [Anas] dia berkata; saya melihat Rasulullah shallallahu 'alaihi wasallam turun dari mimbar, tiba-tiba seseorang muncul dan hendak menyampaikan kebutuhannya kepada beliau, lantas orang tersebut berdiri bersama beliau hingga hajatnya selesai, setelah itu beliau berdiri dan mengerjakan shalat." Abu Daud berkata; "Hadits ini tidak di kenal dari Tsabit, akan tetapi ia merupakan riwayatnya Jarir bin Hazim secara terpisah (sendiri)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1120</td></tr><tr><td>Arabic No</td><td>1120</td></tr><tr><td>Reference</td><td>Book 2 Hadith 731</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1120</td></tr><tr><td>Arabic No</td><td>1120</td></tr><tr><td>Reference</td><td>Book 2 Hadith 731</td></tr></tbody></table></div>
 

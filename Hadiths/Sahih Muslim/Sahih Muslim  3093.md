@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Yazid reported that 'Abdullah (b. Mas'ud) pronounced Talbiya as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Suraij bin Yunus] Telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Hushain] dari [Katsir bin Mudrik Al Asyja'i] dari [Abdurrahman bin Yazid] bahwasanya; [Abdullah] membaca talbiyah (mulai ihram) saat ia berangkat dari Jam', lalu dikatakanlah kepadanya, "Ini adalah seorang A'rabi." Maka Abdullah pun berkata, "Apakah orang-orang telah lupa, ataukah mereka telah sesat. Aku telah mendengar seorang yang telah diturunkan surat Al Baqarah kepadanya di tempat ini, ia membaca: "LABBAIKA ALLAHUMMA LABBAIKA (Aku penuhi panggilan-Mu, Ya Allah aku penuhi panggilan-Mu)." Dan Telah menceritakannya kepada kami [Hasan Al Hulwani] Telah menceritakan kepada kami [Yahya bin Adam] Telah menceritakan kepada kami [Sufyan] dari [Hushain] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3093</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3093</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported:The Messenger of Allah (ﷺ) observed the Zuhr prayer a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia berkata, saya mendengar [Zurarah bin Aufa] bercerita dari [Imran bin Hushain] bahwa Rasulullah shallallahu 'alaihi wasallam melakukan shalat zhuhur, lalu mulailah seorang laki-laki membaca di belakang beliau, 'Sabbihisma Rabbikal A'la', ketika beliau selesai shalat, maka beliau bersabda, 'Siapakah di antara kalian yang membaca atau siapakah di antara kalian pembaca? ' Maka seorang laki-laki menjawab, 'Saya.' Lalu beliau bersabda, 'Aku benar-benar telah menduga bahwa sebagian kalian menyelisihiku padanya'." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ismail bin Ulayyah] --lewat jalur periwayatan lain-- dan Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Ibnu Abi 'Adi] keduanya meriwayatkan dari [Ibnu Abi 'Arubah] dari [Qatadah] dengan isnad ini bahwa Rasulullah shallallahu 'alaihi wasallam shalat dzuhur dan bersabda, "Sungguh aku mengetahui bahwa sebagian kalian menyelisiku padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>888</td></tr><tr><td>Arabic No</td><td>398.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Имрана ибн Хусайна, что однажды, когда Посланник Аллаха ﷺ совершал полуденную молитву, один человек стал читать позади него суру «Славь имя твоего Высочайшего Господа…». Закончив молитву, (Пророк ﷺ) спросил: «Кто из вас читал?» Один человек сказал: «Я». Тогда он сказал: «Я так и подумал, что кто-то из вас соперничает со мной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>888</td></tr><tr><td>Arabic No</td><td>398.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 50</td></tr></tbody></table></div>
 

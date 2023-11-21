@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b.Abd Allah reported the Prophet (ﷺ) as saying:Gather your children when
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Fudlail bin Abdul Wahhab As Sukkari] mereka berkata; telah menceritakan kepada kami [Hammad] dari [Katsir bin Syinzhir] dari ['Atha] dari [Jabir bin Abdullah] dan ia memarfu'kan hadits tersebut, ia berkata, "Laranglah anak-anak kalian berkeliaran ketika waktu isya'." Musaddad menyebutkan, "Ketika sore hari, karena setan berkeliaran dan merampas dengan cepat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3316) Sahih Muslim (2012)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3733</td></tr><tr><td>Arabic No</td><td>3733</td></tr><tr><td>Reference</td><td>Book 27 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Держите детей дома, когда начинает темнеть (или: вечером), ибо, поистине, джинны быстро распространяются по земле и хватают»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3316) Sahih Muslim (2012)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3733</td></tr><tr><td>Arabic No</td><td>3733</td></tr><tr><td>Reference</td><td>Book 27 Hadith 65</td></tr></tbody></table></div>
 

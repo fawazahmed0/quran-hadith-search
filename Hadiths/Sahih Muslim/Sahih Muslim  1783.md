@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha, la mère des Croyants (رضي الله عنها), une nuit, l'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] bahwasanya; Pada suatu malam (di bulan Ramadlan), Rasulullah shallallahu 'alaihi wasallam shalat di Masjid, lalu diikuti oleh beberapa orang sahabat. Kemudian (pada malam kedua) beliau shalat lagi, dan ternyata diikuti oleh banyak orang. Dan pada malam ketiga atau keempat mereka berkumpul, namun Rasulullah shallallahu 'alaihi wasallam tidak keluar shalat bersama mereka. Maka setelah pagi, beliau bersabda: "Sesungguhnya aku tahu apa yang kalian lakukan semalam. Tiada sesuatu pun yang menghalangiku untuk keluar dan shalat bersama kalian, hanya saja aku khawatir (shalat tarawih itu) akan diwajibkan atas kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1783</td></tr><tr><td>Arabic No</td><td>761.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что однажды ночью Посланник Аллаха ﷺ молился в мечети и люди присоединились к нему и тоже стали молиться. На следующую ночь он также совершал молитву и собралось много людей. В третью или четвертую ночь они собрались, однако Посланник Аллаха ﷺ не вышел к ним. Утром он сказал им: «Я видел, что вы сделали, и мне помешала выйти к вам лишь боязнь того, что это будет вменено вам в обязанность». И это было во время рамадана
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1783</td></tr><tr><td>Arabic No</td><td>761.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 211</td></tr></tbody></table></div>
 

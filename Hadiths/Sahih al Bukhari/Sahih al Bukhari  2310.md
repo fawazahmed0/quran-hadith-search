@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sad: A woman came to Allah's Messenger (ﷺ) and said, "O Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu Hazim] dari [Sahal bin Sa'ad] berkata; Seorang wanita datang menemui Rasulullah shallallahu 'alaihi wasallam lalu berkata: "Wahai Rasulullah, aku menawarkan diriku untuk Tuan". Tiba-tiba ada seorang laki-laki berkata: "Nikahkanlah aku dengannya". Beliau berkata: "Kami nikahkan kamu dengannya dengan mahar bacaan Al Qur'an yang ada padamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2310</td></tr><tr><td>Arabic No</td><td>2310</td></tr><tr><td>Reference</td><td>Book 40 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д сказал: «Однажды какая-то женщина пришла к Посланнику Аллаха ﷺ и сказала: «О Посланник Аллаха, я дарю себя тебе». Тогда один человек сказал: «Жени меня на ней». Посланник Аллаха ﷺ сказал: «Я выдаю её за тебя на основании того, что ты знаешь из Корана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2310</td></tr><tr><td>Arabic No</td><td>2310</td></tr><tr><td>Reference</td><td>Book 40 Hadith 10</td></tr></tbody></table></div>
 

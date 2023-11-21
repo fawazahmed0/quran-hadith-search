@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ziyâd Ibn Jubayr a dit : Ibn 'Omar passa par un homme qui était en train d'imm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Khalid bin Abdullah] dari [Yunus] dari [Ziyad bin Jubair] bahwasanya; [Ibnu Umar] mendatangi seorang laki-laki yang sedang menyembelih Badanah (hewan kurban berupa Unta atau Sapi) dengan diderumkan, maka ia pun berkata, "Sembelihlah dalam keadaan berdiri dan terikat, itulah sunnah Nabi kalian shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>1320</td></tr><tr><td>Reference</td><td>Book 15 Hadith 397</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>1320</td></tr><tr><td>Reference</td><td>Book 15 Hadith 397</td></tr></tbody></table></div>
 

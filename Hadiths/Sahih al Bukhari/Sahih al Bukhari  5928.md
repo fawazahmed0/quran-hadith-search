@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:used to perfume the Prophet (ﷺ) before his assuming the state 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Hisyam] dari [Utsman bin Urwah] dari [Ayahnya] dari [Aisyah] radliallahu 'anha dia berkata; "Saya pernah memberi minyak wangi kepada Nabi shallallahu 'alaihi wasallam ketika beliau berihram dengan sebaik-baik minyak wangi yang saya dapatkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5928</td></tr><tr><td>Arabic No</td><td>5928</td></tr><tr><td>Reference</td><td>Book 77 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я умастила Пророка ﷺ перед его облачением в ихрам лучшими благовониями, которые мне удалось найти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5928</td></tr><tr><td>Arabic No</td><td>5928</td></tr><tr><td>Reference</td><td>Book 77 Hadith 143</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:Allah's Messenger (may peace he upon him) sent us (on an expediti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Az Zubair] dari [Jabir] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengirim kami dengan Abu Ubaidah sebagai komandannya, untuk menghadang kafilah dagang Quraisy. Kami hanya dibekali dengan sekarung kurma, dan tidak ada lagi selain itu. Karena itu, Abu Ubaidah membagi-bagikannya kepada kami sebuah demi sebuah." Abu Az Zubair berkata, "Lantas saya berkata, "Apa yang dapat kalian perbuat dengan sebuah kurma itu?" Jabir menjawab, "Kami menghisap-hisapnya seperti bayi. Kemudian kami meminum air. Hal itu sudah cukup bagi kami untuk sehari sampai malam. Pernah juga kami gugurkan dedaunan dengan tongkat, kemudian kami siram dengan air lalu kami memakannya. Setelah kami sampai di pantai lautan, kami dihadapkan dengan suatu pemandangan yang tampaknya seperti gundukan air, ketika kami hampiri ternyata itu adalah hewan laut yang disebut 'anbar (sejenis ikan yang panjang dan besar kepalanya)." Jabir berkata, "Lalu Abu Ubaidah berkata, "Itu adalah bangkai." kemudian dia melanjutkan, "Namun tidak mengapa, kita adalah utusan Rasulullah shallallahu 'alaihi wasallam yang mengembang tugas fi sabilillah dan kalian dalam keadaan terpaksa, karena itu kalian boleh memakannya." Jabir berkata, "Kami menetap di tempat itu selama sebulan, dan jumlah kami semuanya ada tiga ratus orang, dan kami menjadi gemuk semuanya (karena makan daging itu)." Jabir melanjutkan, "Sungguh kami telah mengetahui, saat itu kami mengambil minyaknya dari rongga matanya dan menampungnya dengan tempayan besar. Kemudian kami potong-potong dagingnya seperti memotong seekor lembu. Kemudian Abu Ubaidah memanggil tiga belas prajurit untuk masuk ke rongga mata ikan, lalu mereka mengambil kerangkanya dan menegakkannya, kemudian unta kami yang paling besar disuruh berjalan di bawah kerangka ikan tersebut. Kami lalu ambil daging ikan itu sebagai perbekalan kami dan untuk kami masak. Setelah kami tiba di Madinah, kami menemui Rasulullah shallallahu 'alaihi wasallam dan memberitahukan hal itu kepada beliau, maka beliau bersabda: "Itu adalah rizki yang diberikan Allah kepada kalian, apakah kalian membawa sedikit dagingnya untuk kami makan?" Jabir berkata, "Lantas kami kirimkan daging tersebut kepada Rasulullah shallallahu 'alaihi wasallam lalu beliau memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4998</td></tr><tr><td>Arabic No</td><td>1935.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4998</td></tr><tr><td>Arabic No</td><td>1935.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
 

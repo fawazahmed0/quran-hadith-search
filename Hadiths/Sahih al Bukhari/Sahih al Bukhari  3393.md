@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Malik bin Sasaa:Allah's Messenger (ﷺ) talked to his companions about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hudbah bin Khalid] telah bercerita kepada kami [Hammam] telah bercerita kepada kami [Qatadah] dari [Anas bin Malik] dari [Malik bin Sha'sha'ah] bahwa Rasulullah shallallahu 'alaihi wasallam bercerita kepada mereka tentang malam saat Beliau disra'kan hingga ketika sampai pada langit kelima, disana ada Nabi Harun 'Alaihissalam. Jibril berkata; "Ini adalah Nabi Harun 'Alaihissalam, berilah salam kepadanya". Maka aku memberi salam kepadanya lalu dia membalas salamku dengan mengucapkan; Selamat datang saudara yang shalih dan Nabi yang shalih". Hadits ini diikuti pula oleh [Tsabit] dan ['Abbad bin Abi 'Ali] dari [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3393</td></tr><tr><td>Arabic No</td><td>3393</td></tr><tr><td>Reference</td><td>Book 60 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Малика ибн Са‘са‘а, что, рассказывая о своём ночном переносе (аль-исра), Посланник Аллаха ﷺ сказал: «Затем достигнув пятого неба, я встретил Харуна. (Джибриль) сказал: “Это Харун, поприветствуй же его”. Я поприветствовал его, а он ответил на приветствие и сказал: “Добро пожаловать праведному брату и праведному пророку!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3393</td></tr><tr><td>Arabic No</td><td>3393</td></tr><tr><td>Reference</td><td>Book 60 Hadith 67</td></tr></tbody></table></div>
 

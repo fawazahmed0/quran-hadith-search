@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:We, the Companions of Muhammad used to say that the number of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Raja'] telah menceritakan kepada kami [Isra'il] dari [Abu Ishaq] dari [Al Bara'] berkata; "Kami, para shahabat Muhammad shallallahu 'alaihi wasallam bercerita bahwa jumah pasukan dalam perang Badar adalah seperti jumlah bala tentara Thalut, yang menyeberangi sungai, dimana tidak ada dari mereka yang dapat menyeberangi sungai melainkan orang beriman. Jumlahnya sekitar tiga ratus sepuluh orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3958</td></tr><tr><td>Arabic No</td><td>3958</td></tr><tr><td>Reference</td><td>Book 64 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Мы, сподвижники Мухаммада ﷺ говорили, что участников битвы при Бадре было столько же, сколько и сподвижников Талута, перешедших с ним через реку. И никто не перешёл с ним через реку, кроме верующих, а их было более трехсот десяти (человек)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3958</td></tr><tr><td>Arabic No</td><td>3958</td></tr><tr><td>Reference</td><td>Book 64 Hadith 10</td></tr></tbody></table></div>
 

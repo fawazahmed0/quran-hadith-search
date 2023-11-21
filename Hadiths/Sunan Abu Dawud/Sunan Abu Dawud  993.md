@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Isma’ll b. Umayyah said:I asked about a man who intertwines his fingers while 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Hilal] telah menceritakan kepada kami [Abdul Warits] dari [Isma'il bin Umayyah]; "aku bertanya kepada [Nafi'] tentang orang yang shalat dengan menjalin jari-jari tangannya yang satu dengan yang lain." Jawabnya; [Ibnu Umar] pernah berkata: "Itu adalah shalatnya orang yang dimurkai (Yahudi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>993</td></tr><tr><td>Arabic No</td><td>993</td></tr><tr><td>Reference</td><td>Book 2 Hadith 604</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Исма‘иля ибн Умайя, что он спросил Нафи‘ о человеке, который переплетает пальцы во время молитвы, и он ответил: «Ибн ‘Умар говорил: “Это молитва тех, на кого пал гнев”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>993</td></tr><tr><td>Arabic No</td><td>993</td></tr><tr><td>Reference</td><td>Book 2 Hadith 604</td></tr></tbody></table></div>
 

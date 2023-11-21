@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Al-Musaiyab:The companions of the Prophet (ﷺ) said, "Some men fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahab] mengatakan; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Ibnul Musayyab]; bahwasanya ia menceritakan dari [beberapa sahabat Nabi], bahwasanya Nabi shallallahu 'alaihi wasallam bersabda: "Beberapa orang sahabatku mendatangi telaga, lalu mereka dijauhkan dari telaga, maka aku berkata; '(mereka) para sahabatku, ' Allah menjawab: 'Sungguh engkau tidak mempunyai pengetahuan tentang apa yang mereka kerjakan sepeninggalmu, mereka berbalik ke belakang dengan melakukan murtad, bid'ah dan dosa besar." Dan [Syu'aib] mengatakan dari [Az Zuhri], [Abu Hurairah] menceritakan dari Nabi shallallahu 'alaihi wasallam dengan redaksi; 'yujla'un' sedang [Uqail] mengatakan dengan redaksi 'Fayuhalla'uuna', sedang [Zubaidi] mengatakan dari [Az Zuhri] dari [Muhammad bin Ali] dari [Ubaidillah bin Abi Rafi'] dari [Abu Hurairah] radliyallahu'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6586</td></tr><tr><td>Arabic No</td><td>6586</td></tr><tr><td>Reference</td><td>Book 81 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн аль-Мусайиб передавал от сподвижников Пророка ﷺ, что Пророк ﷺ сказал: «(В День Воскресения) некоторые мои сподвижники придут к водоёму /хауд/, но их станут отгонять от него, и я скажу: “О Господь мой, (это же) мои сподвижники!” И будет сказано: “Ты не знаешь, что они внесли (в религию) после тебя, (после твоей смерти) они обратились вспять”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6586</td></tr><tr><td>Arabic No</td><td>6586</td></tr><tr><td>Reference</td><td>Book 81 Hadith 174</td></tr></tbody></table></div>
 

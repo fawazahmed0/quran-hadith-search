@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:I was the first man among the Arabs to throw an arrow for Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Isma'il] telah menceritakan kepada kami [Qais] dia berkata; saya mendengar [Sa'd] berkata; "Aku adalah orang Arab yang pertama kali membidikkan panah di jalan Allah, dan kami juga pernah berperang, saat itu kami tak punya makanan kecuali daun hublah (daun dari pohon yang tidak memiliki buah) hingga salah seorang dari kami buang kotoran sebagaimana kotoran kambing. Kemudian Banu Asad memuliakanku dengan Islam. Karena itu, merugilah aku dan usahaku pun sia-sia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6453</td></tr><tr><td>Arabic No</td><td>6453</td></tr><tr><td>Reference</td><td>Book 81 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са’д [ибн Абу Ваккас], да будет доволен им Аллах, сказал: «Поистине, я был первым среди арабов, который пустил стрелу на пути Аллаха. И случалось нам совершать военный поход, когда не было у нас никакой иной еды, кроме листьев акации и этого ас-самур, от которых испражнения наши напоминали собой овечий помёт, не смешиваясь (между собой) [имеется в виду, что испражнения были твёрдыми и сухими]. А затем [люди из племени] бану асад начали порицать меня за [мой] ислам [т.е они пожаловались ‘Умару на меня, высказав ему несколько претензий в мой адрес]. [Если они правы], то я пропал, и все мои усилия [в то тяжелое время] были напрасны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6453</td></tr><tr><td>Arabic No</td><td>6453</td></tr><tr><td>Reference</td><td>Book 81 Hadith 42</td></tr></tbody></table></div>
 

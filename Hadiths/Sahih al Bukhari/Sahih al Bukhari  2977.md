@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "I have been sent with the sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku diutus dengan jawami'ul kalim (ucapan singkat namun sarat makna), aku ditolong dengan rasa ketakutan (musuh) dan ketika aku bermimpi aku diberikan kunci-kunci perbendaharaan dunia (kemenangan) lalu diletakkan di tanganku". Abu Hurairah radliallahu 'anhu berkata: "Rasulullah shallallahu 'alaihi wasallam telah pergi dan kalianlah yang akan menuainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2977</td></tr><tr><td>Arabic No</td><td>2977</td></tr><tr><td>Reference</td><td>Book 56 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Я был направлен (к людям) с краткими словами, в которые вкладывается много смысла, и мне была оказана помощь страхом, (который охватил сердца моих врагов, живущих от меня на расстоянии месяца пути,) а когда я спал, мне принесли ключи от сокровищниц земли и вложили их мне в руку».Абу Хурайра сказал: «И Посланник Аллаха ﷺ ушёл, а вы извлекаете (эти сокровища)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2977</td></tr><tr><td>Arabic No</td><td>2977</td></tr><tr><td>Reference</td><td>Book 56 Hadith 186</td></tr></tbody></table></div>
 

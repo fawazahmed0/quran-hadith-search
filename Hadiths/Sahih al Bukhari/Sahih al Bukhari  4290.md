@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:During the year of the Conquest (of Mecca), the Prophet (ﷺ) en
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Haitsam bin Kharijah] Telah menceritakan kepada kami [Hafs bin Maisarah] dari [Hisyam bin Urwah] dari [ayahnya] bahwasanya [Aisyah] radliallahu 'anhu mengabarinya, Nabi shallallahu 'alaihi wasallam pada tahun penaklukan Makkah masuk melalui Kada' yang terletak di atas Makkah. Hadist ini dikuatkan jalur perawinya oleh [Abu Usamah] dan [Wuhaib] dan khususnya tentang Kada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 64 Hadith 323</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что в год завоевания Мекки Пророк ﷺ вошёл через Кяда в верхней части Мекки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 64 Hadith 323</td></tr></tbody></table></div>
 

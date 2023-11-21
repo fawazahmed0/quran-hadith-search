@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported from Mu'adha that she asked 'A'isha:Should a menstruating woman c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Yazid] dia berkata, saya mendengar [Mu'adzah] bahwa dia bertanya kepada [Aisyah], "Apakah wanita haid harus mengqadha shalat?" Aisyah menjawab, "Apakah kamu dari golongan Haruriyyah? Sungguh kami dulu, para istri Nabi shallallahu 'alaihi wasallam haid, apakah beliau memerintahkan mereka untuk mengqadha shalat?" Muhammad bin Ja'far berkata, maksudnya mengqadha'nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>335.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Му‘аза спросила ‘Аишу: «Должна ли женщина восполнять (пропущенные) молитвы (после завершения) менструации». ‘Аиша сказала: «Ты что, из Харуры!? У жён Посланника Аллаха ﷺ бывали менструации, (но) разве он приказывал им восполнять (молитвы, пропущенные во время месячных)?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>335.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 84</td></tr></tbody></table></div>
 

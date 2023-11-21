@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) had a she-camel called Al-'Adba' and it was too 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Ismail] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Humaid] dari [Anas] radhilayyahu'anhu, Nabi shallallahu 'alaihi wasallam mempunyai seekor unta. menurut jalur lain dia menuturkan; dan telah menceritakan kepadaku [Muhammad] telah mengabarkan kepada kami [Al Fazari] dan [Abu Khalid Al Ahmar] dari [Humaid ath Thawil] dari [Anas] mengatakan; Rasulullah shallallahu'alaihiwasallam mempunyai unta yang diberi nama 'Adhba'. Unta itu tak pernah terkalahkan (jika pacuan). Selanjutnya ada seorang arab badui diatas unta mudanya dan berhasil mengalahkan unta itu. Hal ini menjadikan kaum muslimin merasa terpukul dan mereka berujar; "Hah, Unta 'Adhba' terlampaui, unta 'Adhba' menjadi terlampaui." Kontan Rasulullah shallallahu 'alaihi wasallam bersabda: "merupakan hak bagi Allah tidak meninggikan sesuatu, melainkan kemudian hari musti merendahkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6501</td></tr><tr><td>Arabic No</td><td>6501</td></tr><tr><td>Reference</td><td>Book 81 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «У Пророка ﷺ была верблюдица по кличке ‘Адбаъ, которую никто не мог обогнать, но однажды приехал какой-то бедуин на молодом верблюде (, которому было меньше шести лет), и обогнал её. Мусульмане были огорчены этим и с горечью сказали: “‘Адбаъ обогнали”. Тогда Посланник Аллаха ﷺ сказал: “Поистине, чтобы ни возвысилось в мире этом, Аллах обязательно принижает это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6501</td></tr><tr><td>Arabic No</td><td>6501</td></tr><tr><td>Reference</td><td>Book 81 Hadith 90</td></tr></tbody></table></div>
 

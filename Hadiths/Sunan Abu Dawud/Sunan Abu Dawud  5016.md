@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said :The verse “And the poets it is those straying in evil who f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi] ia berkata; telah menceritakan kepadaku [Ali bin Husain] dari [Bapaknya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] membaca: '(dan penyair-penyair itu diikuti oleh orang-orang yang sesat) ' -Qs. Asy Syura: 224- ia berkata, "Allah menghapus ayat itu lalu memberi pengecualian." Kemudian Ibnu Abbas membaca: '(kecuali orang-orang (penyair-penyair) yang beriman dan beramal shalih dan banyak menyebut nama Allah) ' -Qs. Asy Syura:
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5016</td></tr><tr><td>Arabic No</td><td>5016</td></tr><tr><td>Reference</td><td>Book 43 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5016</td></tr><tr><td>Arabic No</td><td>5016</td></tr><tr><td>Reference</td><td>Book 43 Hadith 244</td></tr></tbody></table></div>
 

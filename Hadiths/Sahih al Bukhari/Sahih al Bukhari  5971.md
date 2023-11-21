@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to Allah's Messenger (ﷺ) and said, "O Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari ['Umarah bin Al Qa'qa' bin Syubrumah] dari [Abu Zur'ah] dari [Abu Hurairah] radliallahu 'anhu dia berkata; "Seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam sambil berkata; "Wahai Rasulullah, siapakah orang yang paling berhak aku berbakti kepadanya?" beliau menjawab: "Ibumu." Dia bertanya lagi; "Kemudian siapa?" beliau menjawab: "Ibumu." Dia bertanya lagi; "kemudian siapa lagi?" beliau menjawab: "Ibumu." Dia bertanya lagi; "Kemudian siapa?" dia menjawab: "Kemudian ayahmu." [Ibnu Syubrumah] dan [Yahya bin Ayyub] berkata; telah menceritakan kepada kami [Abu Zur'ah] hadits seperti di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5971</td></tr><tr><td>Arabic No</td><td>5971</td></tr><tr><td>Reference</td><td>Book 78 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Как-то раз) один человек пришёл к Посланнику Аллаха ﷺ и спросил: “О Посланник Аллаха, кто из людей более всего достоин того, чтобы я с ним хорошо обходился?” Он сказал: “Твоя мать”. (Этот человек) спросил: “А кто потом?” Он сказал: “Твоя мать”. (Человек) спросил: “А кто потом?” Он сказал: “Твоя мать”. (Человек снова) спросил: “А кто потом?” — (и тогда) он сказал (ему): “Твой отец”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5971</td></tr><tr><td>Arabic No</td><td>5971</td></tr><tr><td>Reference</td><td>Book 78 Hadith 2</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubada b. as-Samit reported:The Messenger of Allah (ﷺ) said: He who does not re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu ath-Thahir] telah menceritakan kepada kami [Ibnu Wahab] dari [Yunus] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Harmalah bin Yahya] telah menceritakan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Mahmud bin ar-Rabi'] dari [Ubadah bin ash-Shamit] dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda, "Tidak sah shalat seseorang yang tidak membaca Ummul Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>394.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Убады ибн ас-Самита, что Посланник Аллаха ﷺ сказал: «Не совершил молитву тот, кто не прочитал Мать Писания (суру аль-Фатиха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>394.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
 

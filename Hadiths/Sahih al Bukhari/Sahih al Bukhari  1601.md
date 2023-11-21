@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When Allah's Messenger (ﷺ) came to Mecca, he refused to en
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Ayyub] telah menceritakan kepada kami ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Rasulullah shallallahu 'alaihi wasallam ketika didahului oleh bapakku memasuki Ka'bah yang didalamnya terdapat patung-patung, Beliau memerintahkan agar patung-patung tersebut dikeluarkan. Lalu mereka mengeluarkan patung berbentuk Nabi Ibrahim dan Nabi Isma'il yang di tangan keduanya ada azlam (panah untuk mengundi nasib). Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah membinasakkan mereka. Padahal, sungguh mereka mengetahui bahwa keduanya tidak pernah mengundi nasib dengan azlam sekalipun". Kemudian Beliau masuk kedalam Ka'bah lalu bertakbir pada sisi-sisinya dan tidak shalat didalamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1601</td></tr><tr><td>Arabic No</td><td>1601</td></tr><tr><td>Reference</td><td>Book 25 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что, когда Посланник Аллаха ﷺ вступил в Мекку, он отказался входить в Каабу, в которой находились идолы, а потом по его велению их удалили (оттуда вместе) с изображением Ибрахима и Исма‘ила, державших в руках гадательные стрелы. Посланник Аллаха ﷺ сказал: «Да поразит их Аллах, клянусь Аллахом, ведь им было известно, что они никогда не занимались гаданиями по стрелам!» А потом он вошёл в Каабу и произнёс слова “Аллах велик”, повернувшись к каждой из (её) сторон и не совершив (там) намаз
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1601</td></tr><tr><td>Arabic No</td><td>1601</td></tr><tr><td>Reference</td><td>Book 25 Hadith 87</td></tr></tbody></table></div>
 

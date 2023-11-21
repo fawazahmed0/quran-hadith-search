@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:Rifa'a divorced his wife whereupon 'AbdurRahman bin Az-Zubair A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Abdul Wahhab] telah mengabarkan kepada kami [Ayyub] dari [Ikrimah] bahwa Rifa'ah telah menceraikan isterinya, kemudian isterinya menikah dengan Abdurrahman bin Zubair Al Qurdli, [Aisyah] berkata; "Ketika itu mantan isteri Rifa'ah tengah mengenakan kerudung hijau, lalu mantan isteri Rifa'ah mengadukan permasalahannya kepada Aisyah, mantan isteri Rifaah memperlihatkan bekas hijau di kulitnya. Ketika Rasulullah shallallahu 'alaihi wasallam datang -kala itu para wanita membela satu sama lainnya. Kata 'Aisyah 'Sungguh yang kulihat padanya, seperti yang ditemui wanita mukminah lainnya, sungguh kulitnya jauh lebih hijau dari pada bajunya. Kata Ikrimah, tiba-tiba Abdurrahman datang bersama dua anaknya yang di hasilkan bukan dari isteri keduanya (mantan isteri Rifa'ah). Isterinya berkata; "Demi Allah, tidaklah aku berdosa ketika bersamanya melainkan karena ia tidak dapat memuaskan diriku." Sambil memegang ujung kainnya. Abdurrahman berkata; "Demi Allah, ia dusta wahai Rasulullah, sesungguhnya aku dapat memuaskannya, akan tetapi ia berbuat nusyuz (membangkang terhadap perintah suami) karena ia hendak kembali kepada Rifa'ah. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seperti itu, maka kamu tidak halal bagi Rifa'ah atau tidak sah bagi Rifa'ah hingga ia (suami kedua) merasakan madumu." Ikrimah berkata; "Lalu Abdurrahman memperlihatkan kedua anaknya, beliau pun bersabda: "Apakah mereka semua anak-anakmu?" Abdurrahman menjawab; "Ya." Beliau bersabda: "Demi Allah, ini adalah sesuatu yang kamu sangka? demi Allah, mereka lebih menyerupai dengan ayahnya dari pada burung gagak dengan induknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5825</td></tr><tr><td>Arabic No</td><td>5825</td></tr><tr><td>Reference</td><td>Book 77 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Икримы о том, что (как-то) Рифа‘а развёлся со своей женой и на ней женился ‘Абдуррахман ибн аз-Зубайр аль-Къурази. ‘Аиша сказала: «На ней было зелёное покрывало». Она пожаловалась ей (на мужа), показав ей зелёное (пятно) на коже (от побоев). Женщины (обычно) поддерживали друг друга, поэтому, когда пришёл Посланник Аллаха ﷺ, ‘Аиша сказала: «Я не видела подобного тому, что претерпевают верующие женщины. Её кожа зеленее, чем её одежда!»\n(‘Икрима) сказал: «Когда (‘Абдуррахман) услышал, что его жена пришла к Посланнику Аллаха ﷺ, он явился (туда) со своими двумя сыновьями, (рождёнными) другой (его женой. Эта женщина) сказала: “Клянусь Аллахом! Я перед ним ни в чём не грешна, но то, что у него, такое же бесполезное, как и это”, и (при этом) взяла (в руку) бахрому на своей одежде (намекая на то, что ‘Абдуррахман страдает половым бессилием). И (тогда ‘Абдуррахман) сказал: “Клянусь Аллахом, о Посланник Аллаха, она солгала! Я могу по-настоящему удовлетворить её, но она строптива и (лишь) желает вернуться к Рифа‘а”. Тогда Посланник Аллаха ﷺ сказал: “Если это так, то ты не дозволена ему (или: ты не годишься для него), пока он не попробует сладость (половой близости) с тобой”».\n(‘Икрима) сказал: «Затем (Посланник Аллаха ﷺ) увидел с ним двух сыновей и спросил: “Это твои сыновья?” (‘Абдуррахман) ответил: “Да”. (Посланник Аллаха ﷺ) сказал (ей): “Ты утверждаешь то, что утверждаешь! Клянусь Аллахом, эти (его сыновья) похожи на него так же, как один ворон похож на другого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5825</td></tr><tr><td>Arabic No</td><td>5825</td></tr><tr><td>Reference</td><td>Book 77 Hadith 42</td></tr></tbody></table></div>
 

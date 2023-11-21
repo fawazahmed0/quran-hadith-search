@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: If the people were to kn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca di hadapan [Malik] dari [Sumai maula Abu Bakar] dari [Abu Shalih as-Samman] dari [Abu Hurairah ra] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Kalau manusia tahu pahala dalam adzan dan shaf pertama kemudian mereka tidak mendapatkan jalan keluar untuk mendapatkannya kecuali dengan cara mengundi, niscaya mereka akan mengadakan undian. Dan seandainya mereka mengetahui pahala bersegera ke masjid, niscaya mereka akan bersegera kepadanya. Dan kalau mereka mengetahui pahala shalat Isya' dan shubuh, niscaya mereka akan mendatangi keduanya walaupun dengan cara merangkak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 4 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Если бы люди знали о (награде, уготованной тем, кто произносит слова) азана, и (тем, кто находится в) первом ряду (во время общей молитвы), и только с помощью жребия по стрелам могли (решить, кто станет возглашать азан, и кто займёт места в первом ряду), они обязательно прибегали бы к (жребию)! Если бы знали они о (награде, которая ждёт человека), являющегося на молитву заранее, то спешили бы на неё наперегонки! И если бы знали они о (награде, которая ждёт тех, кто принимает участие в общих) ночных и утренних молитвах, то обязательно являлись бы на (эти молитвы в мечеть), даже если бы им приходилось добираться (туда) ползком!»Глава: О воздаянии тех, кто становится в последних рядах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 4 Hadith 143</td></tr></tbody></table></div>
 

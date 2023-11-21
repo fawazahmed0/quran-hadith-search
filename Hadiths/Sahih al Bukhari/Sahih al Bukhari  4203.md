@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:We witnessed (the battle of) Khaibar. Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata; telah mengabarkan kepadaku [Sa'id bin Al Musayyab] bahwa [Abu Hurairah radliallahu 'anhu] berkata; "Kami ikut perang Khaibar. Lalu Rasulullah shallallahu 'alaihi wasallam berkata kepada seseorang yang bersama beliau dan mengaku telah memeluk Islam: "Orang ini termasuk penduduk neraka". Ketika terjadi peperangan, orang tadi berperang dengan sangat berani hingga orang-orang ragu (dengan apa yang diucapkan beliau). Ternyata laki-laki itu mendapatkan luka yang sangat serius. Lalu tanganya berusaha menggapai sarung panahnya, kemudian dia mengeluarkan anak panah dan menusuk dirinya sendiri. Lantas para pejuang Muslimin berkumpul dan berkata;; "Wahai Rasulullah, Allah telah membenarkan ucapan tuan. Si fulan membunuh dirinya hinga gugur." Beliau bersabda; "Berdirilah kamu hai fulan dan umumkan bahwa tidak akan masuk surga kecuali orang yang beriman. Sesungguhnya Allah mengokohkan agama ini (diantaranya) dengan perantaraan seorang yang fajir (berdosa)." Hadits ini juga di perkuat oleh [Ma'mar] dari [Az Zuhri]. Dan [Syabib] mengatakan; dari [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Ibnu Al Musayyab] dan [Abdurrahman bin Abdullah bin Ka'ab] bahwa [Abu Hurairah] berkata; "Kami ikut bersama Nabi shallallahu 'alaihi wasallam pada perang Hunain." Dan [Ibnu Al Mubarak] mengatakan dari [Yunus] dari [Az Zuhri] dari [Sa'id] dari Nabi shallallahu 'alaihi wasallam. Hadits ini juga diperkuat oleh [Shalih] dari [Az Zuhri]. [Az Zubaidiy] mengatakan; telah mengabarkan kepadaku [Az Zuhri] bahwa [Abdurrahman bin Ka'ab] mengabarkan kepadanya bahwa ['Ubaidullah bin Ka'ab] berkata; telah mengabarkan kepadaku [orang yang] ikut dalam perang Khaibar bersama Nabi shallallahu 'alaihi wasallam. [Az Zuhri] berkata; dan telah mengabarkan kepadaku ['Ubaidullah bin Abdullah] dan [Sa'id] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4203</td></tr><tr><td>Arabic No</td><td>4203</td></tr><tr><td>Reference</td><td>Book 64 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Мы были в Хайбаре вместе с Посланником Аллаха ﷺ, и он сказал о человеке, который утверждал, что он мусульманин: “Этот (человек) из числа обитателей Огня”. Когда началось сражение, этот человек яростно сражался, пока не был многочисленно ранен. Тогда некоторые люди чуть не засомневались (в словах Посланника Аллаха ﷺ), но тот человек не смог выдержать боль от ран, сунул руку в колчан, достал из него несколько стрел и убил ими себя. Тогда несколько человек из числа мусульман примчались к Пророку ﷺ и сказали: “О Посланник Аллаха! Аллах подтвердил твои слова, такой-то покончил жизнь самоубийством”. Пророк ﷺ сказал: “О такой-то, встань и провозгласи, что в Рай войдёт только верующий! И поистине, Аллах поддерживает эту религию даже с помощью грешного человека!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4203</td></tr><tr><td>Arabic No</td><td>4203</td></tr><tr><td>Reference</td><td>Book 64 Hadith 243</td></tr></tbody></table></div>
 

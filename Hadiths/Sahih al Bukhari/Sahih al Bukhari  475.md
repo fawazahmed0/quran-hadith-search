@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abbad bin Tamim:that his uncle said, "I saw Allah's Messenger (ﷺ) ly
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari ['Abbad bin Tamim] dari [Pamannya] bahwa dia melihat Rasulullah shallallahu 'alaihi wasallam berbaring di dalam masjid dengan meletakkan satu kakinya di atas kaki yang lain." Dan dari Ibnu Syihab dari Sa'id bin Al Musayyab berkata, "'Umar dan 'Utsman juga melakukan hal serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>475</td></tr><tr><td>Arabic No</td><td>475</td></tr><tr><td>Reference</td><td>Book 8 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Зейда аль-Ансари, да будет доволен им Аллах, о том, что он видел, как Посланник Аллаха ﷺ лежал в мечети на спине, положив ногу на ногу. Передают со слов Ибн Шихаба о том, что Са‘ид ибн аль-Мусаййиб сказал: «‘Умар и ‘Усман тоже поступали так»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>475</td></tr><tr><td>Arabic No</td><td>475</td></tr><tr><td>Reference</td><td>Book 8 Hadith 123</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Alî (que Dieu l'agrée) a dit : L'Envoyé de Dieu (paix et bénédiction de Die
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Manshur bin Abu Muhazim]; Telah menceritakan kepada kami [Ibrahim] yaitu Ibnu Sa'ad dari [Bapaknya] dari ['Abdillah bin Syaddad] dia berkata; Aku medengar [Ali] berkata; "Rasulullah shallallahu 'alaihi wasallam tidak menggabungkan kedua orang tuanya sebagai tebusan, kecuali untuk Sa'ad bin Malik, dia menjadikan keduanya bagi Ka'ab pada hari perang Uhud, dengan sabdanya: 'Lemparkan panahmu wahai Sa'ad, sungguh bapak dan ibuku sebagai tebusan bagimu.' Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Waki']; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib] dan [Ishaq Al Hanzhali] dari [Muhammad bin Bisyr] dari [Mis'ar]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan bin Mis'ar] seluruhnya dari [Sa'ad bin Ibrahim] dari ['Abdullah bin Syaddad] dari ['Ali] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6233</td></tr><tr><td>Arabic No</td><td>2411.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6233</td></tr><tr><td>Arabic No</td><td>2411.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 63</td></tr></tbody></table></div>
 

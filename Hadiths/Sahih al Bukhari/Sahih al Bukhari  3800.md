@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) (in his fatal illness) came out wrap
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Ya'qub] telah bercerita kepada kami [Ibnu Al Ghasil] aku mendengar ['Ikrimah] berkata, aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Pada suatu hari Rasulullah shallallahu 'alaihi wasallam keluar dalam keadaan berselimut/berselendang yang diletakkannya diatas kedua pundaknya dan mengikat kepalanya dengan ikat kepala berwarna hitam hingga kemudian duduk di atas mimbar. Setelah memuji Allah dan mensucikan-Nya, beliau bersabda: "Hadirin yang dimuliakan, wahai sekalian manusia, manusia terus bertambah banyak sedangkan kaum Anshar semakin sedikit hingga keberadaan mereka bagaikan keberadaan garam dalam suatu makanan. Maka barangsiapa diantara kalian yang mengurus sesuatu urusan ummat lalu dia mampu mendatangkan madlarat kepada seseorang atau memberi manfaat kepada seseorang, maka terimalah orang-orang baik mereka (kaum Anshar), dan maafkanlah orang yang keliru dari kalangan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3800</td></tr><tr><td>Arabic No</td><td>3800</td></tr><tr><td>Reference</td><td>Book 63 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ, на плечи которого был накинут плащ, а голова была повязана повязкой цвета жира, вышел (из своей комнаты), сел на минбаре, воздал хвалу Аллаху и восславил его, а потом сказал: “А затем, о люди! (Количество) людей будет увеличиваться, а (количество) ансаров будет уменьшаться, пока не уподобятся они соли в еде, так пусть же тот из вас, кто будет правителем и (получит возможность) причинять любому человеку вред или приносить пользу, принимает (благие дела) от тех из них, кто станет совершать благое, и прощает тех из них, кто совершит дурное”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3800</td></tr><tr><td>Arabic No</td><td>3800</td></tr><tr><td>Reference</td><td>Book 63 Hadith 25</td></tr></tbody></table></div>
 

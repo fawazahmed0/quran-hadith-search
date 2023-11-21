@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi, reported this hadith with the same chain of transmitters stating that Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Ubaidullah] telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar] dari [Zaid bin Tsabit] bahwasannya Rasulullah Shallallu 'alaihi wa sallam memberi keringanan dalam transaksi 'Ariyyah, yaitu menjual (buah kurma) dengan menaksirnya sesuai takaran. Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ubaidillah] dengan isnad ini, dia berkata; Hendaknya ia menaksirnya. Telah menceritakan kepada kami [Abu Ar Rabi'] dan [Abu Kamil] keduanya berkata; Telah menceritakan kepada kami [Hammad]. Dan dari jalur lain, telah menceritakan kepadaku [Ali bin Hujr] telah menceritakan kepada kami [Isma'il] keduanya dari [Ayyub] dari [Nafi'] dengan isnad ini bahwa Rasulullah Shallallu 'alaihi wa sallam memberi keringanan dalam transaksi 'Ariyyah dengan menaksirnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3886</td></tr><tr><td>Arabic No</td><td>1539.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3886</td></tr><tr><td>Arabic No</td><td>1539.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 85</td></tr></tbody></table></div>
 

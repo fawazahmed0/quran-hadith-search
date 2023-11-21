@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nazi':'Abdullah bin 'Umar said, "The Prophet (ﷺ) said, 'Fever is from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] telah menceritakan kepadaku [Ibnu Wahb] dia berkata; telah menceritakan kepadaku [Malik] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Demam itu berasal dari tiupan neraka jahannam, maka redakanlah dengan air." Nafi' berkata; sedangkan Abdullah pernah mengatakan; "Hindarkanlah kami dari adzab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5723</td></tr><tr><td>Arabic No</td><td>5723</td></tr><tr><td>Reference</td><td>Book 76 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Лихорадка — это (проявление) жара Геенны, поэтому тушите её водой!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5723</td></tr><tr><td>Arabic No</td><td>5723</td></tr><tr><td>Reference</td><td>Book 76 Hadith 38</td></tr></tbody></table></div>
 

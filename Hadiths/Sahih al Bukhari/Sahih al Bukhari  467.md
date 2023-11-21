@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:"Allah's Messenger (ﷺ) in his fatal illness came out with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad Al Ju'fi] berkata, telah menceritakan kepada kami [Wahb bin Jarir] berkata, telah menceritakan kepadaku [Bapakku] ia berkata, Aku mendengar [Ya'la bin Hakim] dari ['Ikrimah] dari [Ibnu 'Abbas] berkata, "Pada suatu hari Rasulullah shallallahu 'alaihi wasallam keluar dalam keadaan sakit yang membawa pada ajalnya. Saat itu kepalanya dibalut dengan kain, beliau lalu naik mimbar dan menucapkan puja dan puji kepada Allah. Kemudian beliau bersabda: "Sesungguhnya tidak ada seorangpun yang paling amanah dihadapanku, baik pada dirinya maupun hartanya melebihi Abu Bakar bin Abu Qahafah. Seandainya aku boleh mengambil kekasih dari ummatku tentulah aku ambil Abu Bakar sebagai kekasihku. Akan tetapi persaudaraan Islam lebih utama. Tutuplah semua pintu dariku kecuali pintu Abu Bakar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>467</td></tr><tr><td>Arabic No</td><td>467</td></tr><tr><td>Reference</td><td>Book 8 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) Посланник Аллаха ﷺ уже заболевший той болезнью, от которой он умер, вышел к людям с перевязанной головой и сел на минбаре. Он воздал хвалу Аллаху, восславил Его, а потом сказал: “Поистине, нет среди людей такого, кто сделал бы для меня больше, чем Абу Бакр ибн Абу Кухафа (, не жалевший) ради меня ни самого себя, ни своего имущества! Если бы пришлось мне выбирать ближайшего друга из людей, то я обязательно выбрал бы Абу Бакра, но близость в Исламе лучше (этого). Закройте же после меня каждую дверку в этой мечети, кроме дверки Абу Бакра!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>467</td></tr><tr><td>Arabic No</td><td>467</td></tr><tr><td>Reference</td><td>Book 8 Hadith 115</td></tr></tbody></table></div>
 

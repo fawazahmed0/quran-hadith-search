@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A delegation of the tribe of 'Abdul Qais came to the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Abu Jamrah] berkata, aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata; telah datang utusan suku 'Abdul Qais kepada Rasulullah Shallallahu'alaihiwasallam lalu mereka berkata,: "Wahai Rasulullah, kami ini dari suku Rabi'ah, dan antara tempat tinggal kami dan Baginda ada suku Mudhar yang kafir dan kami tidak dapat mengunjungi anda kecuali pada bulan haram. Maka perintahlah kami dengan satu perintah yang kami ambil dari Baginda dan kami dapat mengajak kepada perintah itu orang-orang lain di belakang kami. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Aku perintahkan kalian dengan empat perkara dan aku larang dari empat perkara. (Yaitu) Iman kepada Allah dan persaksian (syahadah) tidak ada ilah yang berhak disembah kecuali Allah. Lalu Beliau Shallallahu'alaihiwasallam mengisyaratkan dengan mengepalkan tangannya, mendirikan shalat, menunaikan zakat, shaum Ramadhan dan kalian mengeluarkan seperlima dari harta rampasan perang". Dan aku melarang kalian dari (meminum sesuatu) dari labu kering, guci hijau, pohon kurma (yang diukir) dan sesuatu yang dilumuri tir". Dan berkata, [Sulaiman] dan [Abu an-Nu'man] dari [Hammad]: "Iman kepada Allah persaksian (syahadah) tidak ada ilah kecuali Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1398</td></tr><tr><td>Arabic No</td><td>1398</td></tr><tr><td>Reference</td><td>Book 24 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Когда к Пророку ﷺ прибыла делегация (племени) ‘абд аль-къайс, они сказали: “О Посланник Аллаха, нас отделяют от тебя эти неверные из племени мудар, относящиеся к раби‘а, и мы можем приезжать к тебе только в священный месяц, так дай же нам веление, которое мы возьмём от тебя и будем призывать к этому оставшихся за нами!” (Пророк ﷺ) сказал: “Я повелеваю вам четыре (вещи) и запрещаю (другие) четыре: вера в Аллаха и свидетельство о том, что нет бога, достойного поклонения, кроме одного Аллаха”, и он скрестил при этом кисти рук — “совершение молитвы, выплата закята и выделение пятой части военной добычи, которую вы захватите. И я запрещаю вам дуббy, хантам, накъийр и музаффат”».\nСулейман и Абу ан-Ну‘ман сказали (передавая этот хадис) от Хаммада: «… вера в Аллаха, свидетельство, что нет бога, достойного поклонения, кроме Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1398</td></tr><tr><td>Arabic No</td><td>1398</td></tr><tr><td>Reference</td><td>Book 24 Hadith 4</td></tr></tbody></table></div>
 

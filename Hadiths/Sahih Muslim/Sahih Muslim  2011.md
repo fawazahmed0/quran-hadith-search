@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Safwan b. Ya'la reported on the authority of his father that he heard the Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakar bin Abu Syaibah] dan [Ishaq Al Hanzhali] semuanya dari [Ibnu Uyainah] - [Qutaibah berkata] - telah menceritakan kepada kami [Sufyan] dari [Amru] ia mendengar [Atha'] mengabarkan kepadanya dari [Shafwan bin Ya'la] dari [bapaknya] bahwa ia mendengar Nabi shallallahu 'alaihi wasallam membaca (ayat) di atas mimbar. Dan mereka memanggil, "Wahai Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2011</td></tr><tr><td>Arabic No</td><td>871</td></tr><tr><td>Reference</td><td>Book 7 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сафван ибн Я’ля передал, что его отец слышал, как Пророк ﷺ читал с минбара: «Они воззовут: “О Малик…”» (Сура «аз-Зухруф», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2011</td></tr><tr><td>Arabic No</td><td>871</td></tr><tr><td>Reference</td><td>Book 7 Hadith 61</td></tr></tbody></table></div>
 

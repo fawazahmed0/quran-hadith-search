@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miswar b. Makhramah:The Messenger of Allah (ﷺ) distributed outer g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Yazid bin Khalid bin Mauhab] secara makna, bahwa [Al Laits] -yaitu Ibnu Sa'd- menceritakan kepada mereka, dari [Abdullah bin Ubaidullah bin Abu Mulaikah] dari [Al Miswar bin Makhramah] Bahwasanya ia berkata, "Rasulullah shallallahu 'alaihi wasallam membagi-bagikan Aqbiyah (semacam surban), namun beliau tidak memberikan sesuatu pun kepada Makhramah. Maka Makhramah pun berkata, "Wahai anakku, ikutlah aku menemui Rasulullah shallallahu 'alaihi wasallam." Lalu aku ikut pergi bersamanya. Beliau bersabda, "Masuk, dan panggilkan ia kepadaku." Aku lalu memanggil Makhramah, dan Rasulullah keluar menemui Makhramah dengan membawa Aqbiyah. Beliau bersabda: "Sengaja aku sembunyikan ini untuk kamu." Al Miswar berkata, "Lalu Makhramah melihat Aqbiyah tersebut dan setuju." Al Miswar berkata, "Makhramah telah ridha." Qutaibah berkata dari Ibnu Abu Mulaikah, "Ia tidak menamainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2599) Sahih Muslim (1058)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4028</td></tr><tr><td>Arabic No</td><td>4028</td></tr><tr><td>Reference</td><td>Book 34 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Мисвар ибн Махрама, да будет доволен Аллах им и его отцом, сказал: «Однажды Пророк ﷺ разделивший между людьми одежды наподобие кафтанов, ничего не дал Махраме, и он сказал мне: “О сынок, пойдём со мной к Посланнику Аллаха ﷺ”. И я пошёл с ним, а когда мы пришли к его дому, Махрама сказал: “Зейди и позови его ко мне”, и я позвал к нему (Пророка ﷺ), который вышел к нему в одной из этих одежд и сказал: “Мы придержали это для тебя”. (Махрама) посмотрел на неё и сказал: “Махрама доволен”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2599) Sahih Muslim (1058)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4028</td></tr><tr><td>Arabic No</td><td>4028</td></tr><tr><td>Reference</td><td>Book 34 Hadith 9</td></tr></tbody></table></div>
 

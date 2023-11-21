@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. 'Auf (Allah be pleased with him) reported that Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Qudamah] keduanya berkata; Telah mengabarkan kepada kami [An Nadlr bin Syumail] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abdul Aziz bin Shuhaib] dia berkata; Saya mendengar [Anas] berkata, Abdurrahman bin Auf berkata; Rasulullah shallallahu 'alaihi wasallam melihat wajahku seakan-akan berseri-seri di hari pernikahanku, maka saya berkata; "Saya telah menikahi seorang wanita Anshar." Lantas beliau bersabda: "Berapakah kamu memberikan maskawinnya?" Saya menjawab; "Nawat (nilai seharga lima dirham)." Dalam hadits Ishaq disebutkan; "Dari emas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3494</td></tr><tr><td>Arabic No</td><td>1427.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3494</td></tr><tr><td>Arabic No</td><td>1427.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 96</td></tr></tbody></table></div>
 

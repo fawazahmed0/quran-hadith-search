@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:No one gives Sadaqa of a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2343</td></tr><tr><td>Arabic No</td><td>1014.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Кто бы ни подал (хотя бы один) финик из благого заработка (в качестве) милостыни, Аллах примет её Своей правой рукой и станет выращивать подобно тому, как любой из вас выращивает своего жеребёнка (или: маленькую верблюдицу), пока не достигнет она размеров горы или более того»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2343</td></tr><tr><td>Arabic No</td><td>1014.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 80</td></tr></tbody></table></div>
 

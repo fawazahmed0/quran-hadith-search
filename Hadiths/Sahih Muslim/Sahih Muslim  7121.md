@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:I heard Allah's Apostle (ﷺ) as saying: None of you would get in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'yan] telah menceritakan kepada kami [Ma'qil] dari [Abu Az Zubair] dari [Jabir] berkata: Aku mendengar nabi Shallallahu 'alaihi wa Salam bersabda: "Tidak seorang pun dari kalian yang dimasukkan surga oleh amalnya dan tidak juga diselamatkan dari neraka karenanya, tidak juga aku kecuali karena rahmat dari Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7121</td></tr><tr><td>Arabic No</td><td>2817.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7121</td></tr><tr><td>Arabic No</td><td>2817.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 74</td></tr></tbody></table></div>
 

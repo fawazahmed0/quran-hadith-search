@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: A thief was brought to the Prophet (ﷺ). He said: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Ubaid bin Aqil Al Hilali] berkata, telah menceritakan kepada kami [Kakekku] dari [Mush'ab bin Tsabit bin Abdullah bin Az Zubair] dari [Muhammad Ibnul Munkadir] dari [Jabir bin Abdullah] ia berkata, "Seorang pencuri dibawa ke hadapan Nabi shallallahu 'alaihi wasallam, beliau lalu bersabda: "Bunuhlah." Para sahabat bertanya, "Wahai Rasulullah, ia hanya mencuri!" beliau bersabda: "Kalau begitu, potonglah tangannya." Jabir berkata, "Tangan pencuri itu lantas dipotong." Setelah itu, pencuri tersebut kembali dibawa ke hadapan Nabi shallallahu 'alaihi wasallam untuk yang kedua kalinya, beliau lalu bersabda: "Bunuhlah." Para sahabat bertanya, "Wahai Rasulullah, ia hanya mencuri!" beliau bersabda: "Kalau begitu, potonglah tangannya." Kemudian pencuri itu kembali dibawa ke hadapan Nabi shallallahu 'alaihi wasallam untuk yang ketiga kalinya, beliau lalu bersabda: "Bunuhlah." Para sahabat berkata, "Wahai Rasulullah, ia hanya mencuri!" beliau bersabda: "Kalau begitu, potonglah." Kemudian pencuri itu di bawah ke hadapan Nabi shallallahu 'alaihi wasallam untuk keempat kalinya, beliau bersabda: "Bunuhlah." Para sahabat berkata, "Wahai Rasulullah, ia hanya mencuri!" beliau bersabda: "Kalau begitu, maka potonglah." Kemudian pencuri itu di bawah ke hadapan Nabi shallallahu 'alaihi wasallam untuk kelima kalinya, beliau bersabda: "Bunuhlah." Jabir berkata, "Kami lalu membawanya pergi dan membunuhnya. Setelah itu, kami menyeret mayatnya dan membuangnya ke dalam sumur, kemudian kami melemparinya dengan bebatuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4410</td></tr><tr><td>Arabic No</td><td>4410</td></tr><tr><td>Reference</td><td>Book 40 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что однажды к Пророку ﷺ привели вора. Он сказал: «Убейте его». Люди воскликнули: «Но, Посланник Аллаха ﷺ он ведь только украл!» (Посланник Аллаха ﷺ) сказал: «Отрубите ему (руку)». И ему отрубили руку, но потом (он снова украл), его привели (к Посланнику Аллаха ﷺ) во второй раз и тот сказал: «Убейте его». Люди воскликнули: «Но, Посланник Аллаха ﷺ он ведь только украл!» (Посланник Аллаха ﷺ) сказал: «Отрубите ему конечность». И ему отрубили её, но потом (он снова украл), его привели к (Посланнику Аллаха ﷺ) в третий раз и тот сказал: «Убейте его». Люди воскликнули: «Но, Посланник Аллаха ﷺ он ведь только украл!» (Посланник Аллаха ﷺ) сказал: «Отрубите ему конечность». И ему отрубили её, но потом (он снова украл), его привели (к Посланнику Аллаха ﷺ) в четвёртый раз и тот сказал: «Убейте его». Люди воскликнули: «Но, Посланник Аллаха ﷺ он ведь только украл!» (Посланник Аллаха ﷺ) сказал: «Отрубите ему конечность». И ему отрубили её, но потом (он снова украл), его опять привели (к Посланнику Аллаха ﷺ) и тот сказал: «Убейте его». Джабир сказал: «И мы убили его, а тело протащили, пока не сбросили в яму, а потом засыпали камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4410</td></tr><tr><td>Arabic No</td><td>4410</td></tr><tr><td>Reference</td><td>Book 40 Hadith 60</td></tr></tbody></table></div>
 

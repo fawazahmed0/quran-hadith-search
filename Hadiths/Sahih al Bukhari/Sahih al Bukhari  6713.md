@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar used to give the Zakat of Ramadan (Zakat-al-Fitr) accor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mundzir bin Walid Al Jarudi] telah menceritakan kepada kami [Abu Qutaibah yakni Salam] telah menceritakan kepada kami [Malik] dari [Nafi'] mengatakan, [Ibnu Umar] membayar zakat Ramadhan dengan takaran mud Nabi shallallahu 'alaihi wasallam, yaitu mud di masa permulaan, dan membayar kaffarat sumpah dengan ukuran mud Nabi shallallahu 'alaihi wasallam. Abu Qutaibah berkata; Malik mengatakan kepada kami; 'mud kami jauh lebih besar daripada mud kalian, dan kami sependapat tak ada tambahan selain pada mud Nabi shallallahu 'alaihi wasallam.' Sedang Malik mengatakan kepadaku; 'Kalau seorang amir datang kepada kalian, kemudian menetapkan ukuran mudd yang jauh lebih kecil daripada mudd Nabi shallallahu 'alaihi wasallam, dengan takaran mana kalian membayarnya? ' aku menjawab 'kami membayarnya dengan takaran mudd Nabi shallallahu 'alaihi wasallam.' ia mengatakan; 'Bukankah kamu sependapat bahwa urusan hanyasanya kembali kepada mudd Nabi shallallahu 'alaihi wasallam?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6713</td></tr><tr><td>Arabic No</td><td>6713</td></tr><tr><td>Reference</td><td>Book 84 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи’ сказал: «Ибн ‘Умар давал закят в рамадан (закят аль-Фитр) в соответствии с муддом Пророка ﷺ, первым муддом, и он также совершал искупление за клятву в соответствии с муддом Пророка ﷺ».\nАбу Кутайба сказал: «Малик сказал нам: “Наш мудд (то есть Мединский) лучше вашего, и мы видим превосходство только в мудде Пророка ﷺ!” Малик также сказал мне: “Если бы к вам пришёл правитель и установил мудд, меньший мудда Пророка ﷺ, то как бы вы давали (искупление за клятву или закят аль-Фитр)?” Я ответил: “Мы давали бы в соответствии с муддом Пророка ﷺ”. На это Малик сказал: “Так, разве ты не видишь, что (в конечном счёте) это возвращается только к мудду Пророка ﷺ?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6713</td></tr><tr><td>Arabic No</td><td>6713</td></tr><tr><td>Reference</td><td>Book 84 Hadith 6</td></tr></tbody></table></div>
 

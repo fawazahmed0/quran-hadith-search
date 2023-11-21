@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jarir b. 'Abdullah reported:I asked Allah's Messenger (ﷺ) about the sudden gla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Yazid bin Zurai']; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Isma'il bin 'Ulayyah] keduanya dari [Yunus] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Husyaim] Telah mengabarkan kepada kami [Yunus] dari [Amru bin Sa'id] dari [Abu Zur'ah] dari [Jarir bin Abdullah] dia berkata; "Aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai penglihatan yang tidak di sengaja. Maka beliau memerintahkanku supaya memalingkan penglihatanku." Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] Telah mengabarkan kepada kami [Abdul A'la]. [Ishaq] berkata; Telah mengabarkan kepada kami [Waki'] Telah menceritakan kepada kami [Sufyan], keduanya dari [Yunus] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5644</td></tr><tr><td>Arabic No</td><td>2159.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5644</td></tr><tr><td>Arabic No</td><td>2159.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 59</td></tr></tbody></table></div>
 

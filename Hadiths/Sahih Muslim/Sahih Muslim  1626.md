@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:When the Messenger of Allah (ﷺ) intended to combine two prayers 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Amru annqid] telah menceritakan kepada kami [Syababah bin Suwar Al madayini] telah menceritakan kepada kami [Laits bin Sa'd] dari [Uqail bin Khalid] dari [Az Zuhri] dari [Anas] katanya; "Apabila Nabi shallallahu 'alaihi wasallam hendak menjamak antara dua shalat ketika dalam perjalanan, beliau mengakhirkan shalat zhuhur hingga awal waktu ashar, kemudian beliau menjamak antara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1626</td></tr><tr><td>Arabic No</td><td>704.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас сказал: «Когда находясь в пути, Пророк ﷺ хотел объединить между молитвами, он откладывал полуденную молитву до начала наступления послеполуденной, а затем объединял их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1626</td></tr><tr><td>Arabic No</td><td>704.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 57</td></tr></tbody></table></div>
 

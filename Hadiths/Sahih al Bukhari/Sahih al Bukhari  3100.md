@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abu Mulaika:'Aisha said, "The Prophet (ﷺ) died in my house on the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibu Abi Maram] telah bercerita kepada kami [Nafi'] aku mendengar [Ibnu Abi Mulaikah] berkata, ['Aisyah radliallahu 'anhu] berkata; "Nabi Shallallahu'alaihiwasallam wafat di rumahku saat giliran malamku dan Beliau berbaring diantara dadaku bagian atas dan bawah sehingga Allah menyatukan antara air ludahku dan air ludah Beliau". Dia ('Aisyah radliallahu 'anhu) melanjutkan; "'Abdur Rahman masuk dengan memegang siwak maka siwak itu dibagi dua oleh Nabi Shallallahu'alaihiwasallam lalu aku ambil dan aku kunyah (untuk melembutkan) kemudian aku gunakan untuk membersihkan gigi Beliau dengan siwak tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3100</td></tr><tr><td>Arabic No</td><td>3100</td></tr><tr><td>Reference</td><td>Book 57 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ скончался в моём доме и в мой день, покоясь у меня на груди. И Аллах сделал так, что моя слюна смешалась с его слюной, (когда он умирал). (Дело в том, что, когда) ко мне зашёл ‘Абдуррахман, державший в руке «сивак» (зубочистку), и Пророк ﷺ был слишком слаб, чтобы использовать его, я взяла его, разжевала, а затем (дала ему, и он) почистил им зубы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3100</td></tr><tr><td>Arabic No</td><td>3100</td></tr><tr><td>Reference</td><td>Book 57 Hadith 9</td></tr></tbody></table></div>
 

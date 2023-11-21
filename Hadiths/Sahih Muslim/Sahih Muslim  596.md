@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that he spent a night at the house of the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Ismail bin Muslim] telah menceritakan kepada kami [Abu al-Mutawakkil] bahwa [Ibnu Abbas] telah menceritakan kepadanya, bahwa dia bermalam di sisi Nabi shallallahu 'alaihi wasallam pada suatu malam, maka Rasulullah bangun di akhir malam dan keluar, lalu beliau melihat di langit seraya membaca ayat ini pada surat Ali Imran: '(Sesungguhnya dalam penciptaan langit langit dan bumi, dan silih bergantinya malam dan siang terdapat tanda-tanda bagi orang-orang yang berakal, (yaitu) orang-orang yang mengingat Allah sambil berdiri atau duduk atau dalam keadaan berbaring dan mereka memikirkan tentang penciptaan langit dan bumi (seraya berkata), 'Ya Rabb kami, tiadalah Engkau menciptakan ini dengan sia-sia Maha Suci Engkau, maka peliharalah kami dari siksa neraka) ' (Qs. Ali Imran: 191-192). Kemudian beliau kembali pulang ke rumah, beliau lalu bersiwak, berwudlu, lalu berdiri shalat. Setelah itu beliau berbaring, kemudian berdiri keluar melihat langit lalu membaca ayat ini lagi. Kemudian beliau kembali bersiwak dan wudlu, lalu berdiri melaksanakan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>596</td></tr><tr><td>Arabic No</td><td>256</td></tr><tr><td>Reference</td><td>Book 2 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас рассказывал, что однажды он заночевал у Пророка ﷺ. В конце ночи Пророк Аллаха ﷺ проснулся, вышел (из дома), посмотрел на небо, а потом прочитал те аяты (из суры) «Али ‘Имран», (где сказано): «Поистине, в сотворении небес и земли, в чередовании ночи и дня знамения для обладающих разумом, которые поминают Аллаха стоя, сидя и (лёжа) на боках своих и размышляют о сотворении небес и земли, (говоря): “Господь наш, не напрасно Ты сотворил это, преславен Ты! Защити же нас от мук Огня!”» (Сура «Али ‘Имран», аят 191). После этого он вернулся домой, почистил зубы зубочисткой /сивак/, совершил омовение и встал на молитву. Потом он лёг (и немного поспал), а потом поднялся, вышел (из дома), посмотрел на небо и прочёл те же аяты. Потом он вернулся домой, почистил зубы зубочисткой, совершил омовение и (снова) совершил молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>596</td></tr><tr><td>Arabic No</td><td>256</td></tr><tr><td>Reference</td><td>Book 2 Hadith 63</td></tr></tbody></table></div>
 

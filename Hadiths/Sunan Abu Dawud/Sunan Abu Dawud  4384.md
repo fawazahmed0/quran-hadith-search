@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] dan [Wahb bin Bayan] keduanya berkata; telah menceritakan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu As Sarh] ia berkata; telah mengabarkan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Urwah] dan [Amrah] dari ['Aisyah radliallahu 'anha] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Dipotongnya tangan pencuri jika ia mengambil seperempat dinar atau lebih." Ahmad bin Shalih berkata, "Pemotongan itu jika telah sampai kadar seperempat dinar atau lebih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6790) Sahih Muslim (1684)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4384</td></tr><tr><td>Arabic No</td><td>4384</td></tr><tr><td>Reference</td><td>Book 40 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши (да будет доволен ею Аллах), что Пророк ﷺ сказал: «Отрубать руку (правая кисть) вору (или воровке) положено за кражу (только чего-либо стоимостью в) четверть динара и больше». Ахмад ибн Салих сказал: «(Вору) отрубают (руку только за кражу чего-либо стоимостью в) четверть динара и больше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6790) Sahih Muslim (1684)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4384</td></tr><tr><td>Arabic No</td><td>4384</td></tr><tr><td>Reference</td><td>Book 40 Hadith 34</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:Allah's Messenger (ﷺ) said, "When you drink (water), do no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nu'aim] telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abdullah bin Abu Qatadah] dari [Ayahnya] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian minum, maka janganlah bernafas di tempat air minum tersebut, dan apabila salah seorang dari kalian kencing maka janganlah menyentuh kemaluannya dengan tangan kanan, namun apabila salah seorang dari kalian harus menyentuhnya, hendaknya tidak menyentuh dengan tangan kanannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5630</td></tr><tr><td>Arabic No</td><td>5630</td></tr><tr><td>Reference</td><td>Book 74 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Катады, что Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас будет пить, пусть не дышит в сосуд, а когда мочится, пусть не дотрагивается до своего полового органа правой рукой и не подмывается правой рукой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5630</td></tr><tr><td>Arabic No</td><td>5630</td></tr><tr><td>Reference</td><td>Book 74 Hadith 56</td></tr></tbody></table></div>
 

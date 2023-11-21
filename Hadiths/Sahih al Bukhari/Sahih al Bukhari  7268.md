@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tariq bin Shihab:A Jew said to 'Umar, "O Chief of the Believers, if thi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Zubair Al Humaidi] telah menceritakan kepada kami [Sufyan] dari [Mis'ar] dan lainnya dari [Qais bin Muslim] dari [Thariq bin Syihab] ia berkata, "Seorang laki-laki Yahudi berkata kepada [Umar], "Wahai Amirul Mukminin, kalaulah ayat ini diturunkan kepada kami, yaitu ayat: '(Hari ini telah Aku sempurnakan untk kalian agama kalian, dan Aku semurkan bagi kalian Nikmat-Ku dan Aku ridhai Islam sebagai agama kalian) ' (Qs. Al Maidah: 2), niscaya telah kami jadikan hari itu sebagai hari raya." Lantas Umar berkata, "Sungguh, aku tahu hari apa ayat itu diturunkan. Ayat itu diturunkan di hari Arafah pada hari jumat." Sufyan mendengar dari Mis'ar, Mis'ar mendengar dari Qais, dan Qais mendengar dari Thariq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7268</td></tr><tr><td>Arabic No</td><td>7268</td></tr><tr><td>Reference</td><td>Book 96 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Тарика ибн Шихаба, что человек из числа иудеев сказал Умару ибн аль-Хаттабу: «О, повелитель правоверных, если бы нам был бы ниспослан этот аят: “Сегодня Я ради вас усовершенствовал вашу религию, довёл до конца Мою милость к вам и одобрил для вас в качестве религии Ислам”, то мы бы сделали этот день праздником». Умар сказал: «Поистине я знаю, в который день был ниспослан этот аят. Он был ниспослан в день Арафата, в пятницу». Суфьян эти слова услышал от Мис‘ара, Мисар от Кайса, а Кайс от Тарика
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7268</td></tr><tr><td>Arabic No</td><td>7268</td></tr><tr><td>Reference</td><td>Book 96 Hadith 1</td></tr></tbody></table></div>
 

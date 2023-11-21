@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abdullah bin 'Umar:A man asked the Messenger of Allah (ﷺ) about the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Nafi'] dan [Abdullah bin Dinar] dari [Abdullah bin Umar] bahwa seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai shalat malam, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat malam dua raka'at-dua raka'at, apabila salah seorang dari kalian khawatir datangnya waktu subuh, hendaknya ia shalat satu raka'at sebagai witir atas shalat yang telah di kerjakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (990) Sahih Muslim (749)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1326</td></tr><tr><td>Arabic No</td><td>1326</td></tr><tr><td>Reference</td><td>Book 5 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды какой-то человек спросил Посланника Аллаха ﷺ о ночной молитве, и Посланник Аллаха ﷺ сказал: «Ночная молитва совершается по два рак‘ата, и если кто-то из вас опасается скорого наступления времени утренней молитвы, пусть он совершит один рак‘ат, делая нечётным число совершённых рак‘атов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (990) Sahih Muslim (749)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1326</td></tr><tr><td>Arabic No</td><td>1326</td></tr><tr><td>Reference</td><td>Book 5 Hadith 77</td></tr></tbody></table></div>
 

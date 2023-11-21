@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Safiyyah said :The Messenger of Allah (May peace be upon him) was in the I’TIK
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ali bin Husain] dari [Shafiyah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam sedang beri'tikaf (berdiam diri di masjid), maka pada waktu malam aku mengunjungi beliau dan bercakap-cakap. Aku lalu berdiri untuk pulang, dan beliau juga ikut berdiri bersamaku untuk mengantarku -waktu itu Shafiyah tinggal di rumah Usamah bin Zaid-. lalu ada dua orang laki-laki Anshar melintas, ketika mereka melihat Nabi shallallahu 'alaihi wasallam, mereka bergegas membuntuti. Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Hendaklah kalian pelan-pelan, dia itu adalah Shafiyah binti Huyay." Keduanya langsung berkata, "Maha Suci Allah, ya Rasulullah." Beliau bersabda: "Sesungguhnya setan mengalir dalam diri manusia seperti mengalirnya aliran darah. Maka aku takut dia akan memasukkan sesuatu ke dalam hati kalian." Atau beliau mengatakan, "(memasukkan) Keburukkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3281) Sahih Muslim (2175)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4994</td></tr><tr><td>Arabic No</td><td>4994</td></tr><tr><td>Reference</td><td>Book 43 Hadith 222</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сафийа (бинт Хуйайй) сказала: (Однажды) ночью, когда Посланник Аллаха ﷺ неотлучно находился в мечети, я пришла навестить его. Поговорив с ним (некоторое время), я поднялась, чтобы вернуться (к себе домой), и (Пророк ﷺ тоже) поднялся вместе со мной, чтобы проводить меня. (В это время) мимо проходили двое из числа ансаров, которые ускорили шаги, увидев Пророка ﷺ. Пророк ﷺ сказал (им): «Не спешите, это ведь Сафийа бинт Хуйайй!» Они воскликнули: «Преславен Аллах, /Субхана-Ллахи/ о Посланник Аллаха!» (Тогда Пророк ﷺ) сказал: «Поистине, шайтан (проникает) в человека (распространяясь в нём) подобно крови, и, поистине, я побоялся, что он сможет заронить в ваши сердца (что-нибудь) дурное (или: … что-нибудь)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3281) Sahih Muslim (2175)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4994</td></tr><tr><td>Arabic No</td><td>4994</td></tr><tr><td>Reference</td><td>Book 43 Hadith 222</td></tr></tbody></table></div>
 

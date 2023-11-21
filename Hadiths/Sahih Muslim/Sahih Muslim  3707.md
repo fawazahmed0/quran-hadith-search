@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sha'bi reported:We visited Fatima bint Qais and she served us fresh dates and a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib] telah menceritakan kepada kami [Khalid bin Al Harits Al Hujaimi] telah menceritakan kepada kami [Qurrah] telah memberitakan kepada kami [Sayyar Abu Al Hakam] telah memberitakan kepada kami [Asy Sya'bi] dia berkata; Kami pernah menemui, [Fathimah binti Qais], kemudian dia menghidangkan kepada kami kurma basah dan adonan sawiq, lalu kami bertanya kepadanya tentang seorang wanita ditalak tiga oleh suaminya, di manakah seharusnya dia menunggu masa iddahnya? Dia menjawab; "Saya pernah ditalak mantan suamiku dengan talak tiga, kemudian Nabi shallallahu 'alaihi wasallam mengizinkanku untuk menunggu masa iddahku di rumah keluargaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3707</td></tr><tr><td>Arabic No</td><td>1480.11</td></tr><tr><td>Reference</td><td>Book 18 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3707</td></tr><tr><td>Arabic No</td><td>1480.11</td></tr><tr><td>Reference</td><td>Book 18 Hadith 55</td></tr></tbody></table></div>
 

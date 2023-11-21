@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:When Sahl bin Hunaif returned from (the battle of) Siffin, we 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>4189</td></tr><tr><td>Reference</td><td>Book 64 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Ваиль сказал: «Когда Сахль ибн Хунейф, да будет доволен им Аллах, вернулся из Сиффина, мы направились к нему для того, чтобы узнать известия, и он сказал: «Обвиняйте самих себя в личном мнении, ибо я помню себя в день Абу Джандаля, и если бы я мог отвергнуть веление Посланника Аллаха ﷺ, то отверг бы его. А Аллах и Его посланник ведает об этом лучше. Каждый раз, как только мы взваливаем на плечи мечи ради достижения какой-либо цели, так они снова приводят нас к тому, что мы знали раньше. Как только нам удаётся заделать одну брешь, так в другом месте прорывается новая, и мы не знаем, что делать с ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>4189</td></tr><tr><td>Reference</td><td>Book 64 Hadith 229</td></tr></tbody></table></div>
 

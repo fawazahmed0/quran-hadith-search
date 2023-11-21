@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The reward of the prayer off
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami ['Abdul Wahid] berkata, telah menceritakan kepada kami [Al A'masy] berkata, aku mendengar [Abu Shalih] berkata, Aku mendengar [Abu Hurairah] berkata: "Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat seorang laki-laki dengan berjama'ah dibanding shalatnya di rumah atau di pasarnya lebih utama (dilipat gandakan) pahalanya dengan dua puluh lima kali lipat. Yang demikian itu karena bila dia berwudlu dengan menyempurnakan wudlunya lalu keluar dari rumahnya menuju masjid, dia tidak keluar kecuali untuk melaksanakan shalat berjama'ah, maka tidak ada satu langkahpun dari langkahnya kecuali akan ditinggikan satu derajat, dan akan dihapuskan satu kesalahannya. Apabila dia melaksanakan shalat, maka Malaikat akan turun untuk mendo'akannya selama dia masih berada di tempat shalatnya, 'Ya Allah ampunilah dia. Ya Allah rahmatilah dia'. Dan seseorang dari kalian senantiasa dihitung dalam keadaan shalat selama dia menanti palaksanaan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>647</td></tr><tr><td>Arabic No</td><td>647</td></tr><tr><td>Reference</td><td>Book 10 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Коллективная молитва, в которой принимает участие человек, превосходит собой молитву, совершаемая им у себя дома или на рынке, в двадцать пять раз, так как если он совершит омовение должным образом, а потом отправится в мечеть, покинув свой дом только ради молитвы, то за каждый сделанный им шаг он будет возвышаться на одну ступень, а одно прегрешение будет с него за это сниматься. Когда же он помолится и останется на месте своей молитвы, ангелы не перестанут возносить за него свои мольбы, говоря: “О Аллах, благослови его, о Аллах помилуй его!” — и каждый из вас будет продолжать находиться на молитве всё то время, пока он будет ожидать (наступления времени) молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>647</td></tr><tr><td>Arabic No</td><td>647</td></tr><tr><td>Reference</td><td>Book 10 Hadith 44</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "While the angels talk amidst the clouds
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3288</td></tr><tr><td>Arabic No</td><td>3288</td></tr><tr><td>Reference</td><td>Book 59 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что она слышала, как Пророк ﷺ сказал: «Когда ангелы разговаривают в облаках о делах, которые должны произойти на земле, шайтаны слышат слово из того, что они говорят, а затем нашёптывают это в уши прорицателя, подобно тому, как что-то наливают из бутылки, добавляя к этому сотню лживых (сообщений)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3288</td></tr><tr><td>Arabic No</td><td>3288</td></tr><tr><td>Reference</td><td>Book 59 Hadith 97</td></tr></tbody></table></div>
 

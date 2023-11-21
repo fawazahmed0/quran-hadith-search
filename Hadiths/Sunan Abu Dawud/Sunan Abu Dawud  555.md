@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Ishaq bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Abu Sahl, yakni Utsman bin Hakim] telah menceritakan kepada kami [Abdurrahman bin Abu 'Amrah] dari [Utsman bin Affan] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang mengerjakan shalat Isya secara berjamaah, itu seperti beribadah setengah malam dan barangsiapa yang mengerjakan shalat Isya dan Subuh secara berjamaah, maka ia seperti beribadah semalam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (656)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>555</td></tr><tr><td>Arabic No</td><td>555</td></tr><tr><td>Reference</td><td>Book 2 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Усман ибн ‘Аффан сказал: «Посланник Аллаха ﷺ сказал: “Тот, кто совершил вечернюю молитву /‘ишаъ/ с джама‘атом (мусульман), подобен тому, кто молился половину ночи, а тот, кто совершил вечернюю и утреннюю молитву с джама‘атом (мусульман), подобен тому, кто молился всю ночь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (656)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>555</td></tr><tr><td>Arabic No</td><td>555</td></tr><tr><td>Reference</td><td>Book 2 Hadith 165</td></tr></tbody></table></div>
 

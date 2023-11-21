@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: When the Messenger of Allah (ﷺ) finished the dawn prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Zufar bin Sha'sha'ah] dari [Bapaknya] dari [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam jika selesai dari shalat subuh bertanya: "Apakah semalam ada seseorang dari kalian yang bermimpi?" Beliau melanjutkan: "Sesungguhnya tidak ada lagi yang tersisa setelahku (kematianku) sesuatu dari kenabian selain mimpi yang benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5017</td></tr><tr><td>Arabic No</td><td>5017</td></tr><tr><td>Reference</td><td>Book 43 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5017</td></tr><tr><td>Arabic No</td><td>5017</td></tr><tr><td>Reference</td><td>Book 43 Hadith 245</td></tr></tbody></table></div>
 

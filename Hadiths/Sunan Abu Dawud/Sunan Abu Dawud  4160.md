@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abdullah ibn Buraydah said:A man from the companions of the Prophet (ﷺ) travel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Al Jurairi] dari [Abdullah bin Buraidah] berkata, "Seorang laki-laki dari sahabat Nabi shallallahu 'alaihi wasallam berkunjung ke rumah [Fadhalah bin Ubaid] yang berada di Mesir. Ia lalu datang kepadanya seraya berkata, "Aku datang kepadamu bukan untuk berkunjung, tetapi aku dan kamu sendiri telah mendengar hadits Rasulullah shallallahu 'alaihi wasallam, maka aku berharap engkau mempunyai ilmu tentang itu." Fadhalah bertanya, "Hadits tentang apa itu?" sahabat Nabi itu menjawab, "Begini dan begini." Fadhalah bertanya, "Kenapa rambutmu tampak kusut dan berantakan, padahal engkau adalah seorang pemimpin?" ia menjawab, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang kita untuk bermewah-mewah." Fadhalah lalu bertanya lagi, "Kenapa aku juga melihatmu tidak mengenakan sepatu?" ia menjawab, "Nabi shallallahu 'alaihi wasallam memerintahkan untuk berjalan dengan tanpa alas kaki sesekali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4160</td></tr><tr><td>Arabic No</td><td>4160</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Бурайда передаёт, что один человек из числа сподвижников Пророка ﷺ приехал к Фадале ибн ‘Убайду, когда тот был в Египте. Придя к нему, он сказал: «Я прибыл к тебе не как простой посетитель. Однако мы с тобой слышали хадис Посланника Аллаха ﷺ о котором, как я надеюсь, у тебя имеется знание». Тот спросил: «А что за хадис?» Он ответил: «Такой-то». Потом он спросил: «А что с тобой, отчего я вижу тебя непричёсанным, когда ты распоряжаешься этой землёй?» Тот ответил: «Поистине, Посланник Аллаха ﷺ запретил нам предаваться чрезмерной роскоши». Он спросил: «А почему я не вижу на тебе обуви?» Он ответил: «Пророк ﷺ велел нам иногда ходить без обуви»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4160</td></tr><tr><td>Arabic No</td><td>4160</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>
 

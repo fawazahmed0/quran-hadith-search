@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. ‘Abd Allah reported the Messenger of Allah (ﷺ) as saying:Last night
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Utsman] berkata, telah menceritakan kepada kami [Muhammad bin Harb] dari [Az Zubaidi] dari [Ibnu Syihab] dari [Amru bin Aban bin Utsman] dari [Jabir bin Abdullah] ia bercerita bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Seorang laki-laki shalih bermimpi bahwa Abu Bakr dipautkan bersama Rasulullah shallallahu 'alaihi wasallam, Umar dipautkan bersama Abu Bakar dan Utsman juga dipautkan bersama Umar." Jabir berkata, "Ketika kami bangkit dari sisi Rasulullah shallallahu 'alaihi wasallam, maka kami katakan, "Laki-laki shalih itu adalah Rasulullah shallallahu 'alaihi wasallam. adapun keterpautan mereka satu sama lain itu adalah para pemimpin urusan ini (Islam) yang Allah utus kepada Nabi-Nya shallallahu 'alaihi wasallam." Abu Dawud berkata, "Hadits ini diriwayatkan oleh [Yunus] dan [Syu'aib], namun keduanya tidak menyebutkan Amru bin Aban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4636</td></tr><tr><td>Arabic No</td><td>4636</td></tr><tr><td>Reference</td><td>Book 42 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, рассказывал, что Посланник Аллаха ﷺ сказал: «Поистине, этой ночью один праведный человек увидел во сне, что Абу Бакр зацепился за Посланника Аллаха ﷺ ‘Умар зацепился за Абу Бакра, а ‘Усман зацепился за ‘Умара». Джабир передаёт: «Когда мы поднялись, чтобы разойтись, мы сказали: “Праведный человек это Посланник Аллаха ﷺ, а что касается того, что они цеплялись друг за друга, то это означает, что им суждено продолжать это дело, с которым направил Аллах к людям Своего Пророка ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4636</td></tr><tr><td>Arabic No</td><td>4636</td></tr><tr><td>Reference</td><td>Book 42 Hadith 41</td></tr></tbody></table></div>
 

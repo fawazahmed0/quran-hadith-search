@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that the Messenger of Allah (ﷺ) observed Qunut for one month inv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam melakukan doa "qunut" selama sebulan, beliau mendo'akan kebinasaan terhadap sejumlah penduduk dusun arab, setelah itu beliau meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1554</td></tr><tr><td>Arabic No</td><td>677.10</td></tr><tr><td>Reference</td><td>Book 5 Hadith 387</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что Посланник Аллаха ﷺ в течение месяца призывал (Аллаха) против некоторых арабских племён, а затем перестал (делать это)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1554</td></tr><tr><td>Arabic No</td><td>677.10</td></tr><tr><td>Reference</td><td>Book 5 Hadith 387</td></tr></tbody></table></div>
 

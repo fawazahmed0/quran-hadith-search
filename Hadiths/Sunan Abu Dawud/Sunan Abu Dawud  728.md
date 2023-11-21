@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wa'il ibn Hujr: I witnessed the Prophet (ﷺ) raise his hands in front 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Syarik] dari ['Ashim bin Kulaib] dari [ayahnya] dari [Wa'il bin Hujr] dia berkata; saya melihat Rasulullah shallallahu 'alaihi wasallam ketika memulai shalat, beliau mengangkat kedua tangannya sejajar dengan kedua telinganya, katanya; kemudian aku datang kepada mereka (para sahabat), maka aku melihat mereka mengangkat kedua tangan sampai ke dada mereka ketika memulai shalat, sementara mereka ada yang mengenakan mantel yang menutupi kepala dan ada juga yang mengenakan pakaian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 2 Hadith 338</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Уаиль ибн Худжр сказал: «Я видел, как приступая к молитве, Пророк ﷺ поднял свои руки параллельно к ушам».Он сказал: «Затем я пришёл к ним и увидел, что они поднимают руки до уровня груди, вступая в молитву, и они были одеты в плащи с капюшонами и рубахи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 2 Hadith 338</td></tr></tbody></table></div>
 

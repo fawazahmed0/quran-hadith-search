@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A man: Sulaym ibn Mutayr reported on the authority of his father that M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Al Hawari], telah menceritakan kepada kami [Sulaim bin Muthair], seorang syekh dari penduduk Bukit Qura, ia berkata; telah menceritakan kepadaku [ayahku yaitu Muthair], bahwa ia keluar untuk melakukan haji hingga setelah sampai di As Suwaida' ternyata terdapat [seorang laki-laki] yang datang sepertinya ia mencari obat, serta hudhadh (semacam obat), kemudian ia berkata; telah mengabarkan kepadaku [orang] yang telah mendengar Rasulullah shallallahu 'alaihi wasallam pada saat haji wada' sedang memberi nasehat kepada orang-orang serta memerintahkan dan melarang mereka. Beliau berkata: "Wahai manusia, ambillah pemberian selama merupakan pemberian. Dan apabila orang-orang Quraisy berselisih memperebutkan kerajaan, dan pemberian yang diberikan raja sebagai ganti agama salah seorang diantara kalian, maka janganlah engkau ambil." Abu Daud berkata; dan telah meriwayatkannya [Ibnu Mubarok] dari [Muhammad bin Yasar] dari [Salim bin Muthair]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2958</td></tr><tr><td>Arabic No</td><td>2958</td></tr><tr><td>Reference</td><td>Book 20 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Мутайра, что он отправился в хадж и, когда они были в Сувайде, пришёл один человек. Он как будто искал лекарства, в частности худад. Он сказал: «Мне рассказал тот, кто слышал, как Посланник Аллаха ﷺ во время прощального хаджа обращался к людям с наставлением, веля им делать одно и запрещая другое, что среди прочего он сказал: “О люди! Берите содержание, пока оно будет оставаться содержанием (узаконенным религией и не противоречащим ей), а когда курайшиты начнут бороться за власть и содержание станут использовать для того, чтобы отвращать вас от религии, то не берите его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2958</td></tr><tr><td>Arabic No</td><td>2958</td></tr><tr><td>Reference</td><td>Book 20 Hadith 31</td></tr></tbody></table></div>
 

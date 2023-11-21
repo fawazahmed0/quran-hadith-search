@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ash-Shu'bi:from 'Ali when the latter stoned a lady to death on a Friday
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Salamah bin Kuhail] mengatakan; aku mendengar [Asy Sya'bi] menceritakan dari ['Ali] radliallahu 'anhu; ketika dia merajam seorang wanita hari jumat, dia berkata; 'aku merajamnya dengan sunnah Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6812</td></tr><tr><td>Arabic No</td><td>6812</td></tr><tr><td>Reference</td><td>Book 86 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от аш-Ша’би, что после того, как в пятницу ‘Али, да будет доволен им Аллах, подверг побиванию камнями /раджм/ женщину, он сказал: «Я подверг её побиванию камнями в соответствие с сунной Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6812</td></tr><tr><td>Arabic No</td><td>6812</td></tr><tr><td>Reference</td><td>Book 86 Hadith 41</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: I liked to enter the House (the Ka'bah) and pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], telah menceritakan kepada kami [Abdul Aziz] dari ['Alqamah] dari [ibunya] dari [Aisyah], ia berkata; aku ingin memasuki Ka'bah dan melakukan shalat di dalamnya. Kemudian Rasulullah shallallahu 'alaihi wasallam menggandeng tanganku dan memasukkanku ke dalam Hijr, dan beliau berkata: "Apabila engkau hendak memasuki Ka'bah, sesungguhnya Hijr tersebut merupakan bagian dari Ka'bah. Sesungguhnya kaummu menguranginya ketika membangun Ka'bah, dan mengeluarkan Hijr dari Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2028</td></tr><tr><td>Arabic No</td><td>2028</td></tr><tr><td>Reference</td><td>Book 11 Hadith 308</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Мне очень хотелось зайти в Дом и совершить там молитву. Однажды Посланник Аллаха ﷺ взял меня за руку и ввёл меня в Хиджр со словами: “Соверши молитву в Хиджре, если ты хочешь зайти в Дом, поскольку он является частью Дома, ибо, поистине, твои соплеменники, отстраивая Каабу, уменьшили её и оставили это место за пределами Дома”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2028</td></tr><tr><td>Arabic No</td><td>2028</td></tr><tr><td>Reference</td><td>Book 11 Hadith 308</td></tr></tbody></table></div>
 

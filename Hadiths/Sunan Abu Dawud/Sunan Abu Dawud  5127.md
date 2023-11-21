@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said :I never saw the Companions of the Messenger of Allah (May pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah] berkata, telah menceritakan kepada kami [Khalid] dari [Yunus bin Ubaid] dari [Tsabit] dari [Anas bin Malik] ia berkata, "Aku melihat para sahabat Rasulullah shallallahu 'alaihi wasallam bergembira karena sesuatu yang aku belum pernah melihat mereka bergembira melebihi hal itu. Salah seorang dari mereka berkata, "Wahai Rasulullah, seorang laki-laki menyukai seseorang karena amal baik yang ia kerjakan, namun ia tidak bisa melakukan yang serupa?" Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Seseorang itu akan bersama orang yang disukainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5127</td></tr><tr><td>Arabic No</td><td>5127</td></tr><tr><td>Reference</td><td>Book 43 Hadith 355</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5127</td></tr><tr><td>Arabic No</td><td>5127</td></tr><tr><td>Reference</td><td>Book 43 Hadith 355</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Ka'b b. Malik reported on the authority of his father that the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Hisyam bin 'Urwah] dari ['Abdurrahman bin Sa'd] dari [Ibnu Ka'b bin Malik] dari [Bapaknya] ia berkata; Rasulullah shallallahu 'alaihi wasallam makan dengan tiga jari, dan beliau menjilatinya sebelum mencuci tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5297</td></tr><tr><td>Arabic No</td><td>2032.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5297</td></tr><tr><td>Arabic No</td><td>2032.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 171</td></tr></tbody></table></div>
 

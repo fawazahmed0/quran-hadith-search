@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Humran, the freed slave of 'Uthman, said:Uthman b. 'Affan called for ablution wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir Ahmad bin Amru bin Abdullah bin Amru bin Sarh] dan [Harmalah bin Yahya At Tujibi] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] bahwa ['Atha' bin Yazid Al Laitsi] telah menceritakan kepadanya, bahwa [Humran] budak Utsman, telah menceritakan kepadanya, bahwa [Utsman bin Affan] meminta air untuk berwudlu, kemudian dia membasuh dua tangan sebanyak tiga kali, kemudian berkumur-kumur serta memasuk dan mengeluarkan air dari hidung. Kemudian ia membasuh muka sebanyak tiga kali dan membasuh tangan kanannya hingga ke siku sebanyak tiga kali. Selepas itu, ia membasuh tangan kirinya sama seperti beliau membasuh tangan kanan, kemudian mengusap kepalanya dan membasuh kaki kanan hingga ke mata kaki sebanyak tiga kali. Selepas itu, ia membasuh kaki kiri, sama seperti membasuh kaki kanannya. Kemudian Utsman berkata, 'Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam berwudlu seperti cara aku berwudlu.' Kemudian dia berkata lagi, 'Aku juga telah mendengar beliau shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengambil wudlu seperti cara aku berwudlu kemudian dia menunaikan shalat dua rakaat dan tidak berkata-kata antara wudlu dan shalat, maka Allah akan mengampunkan dosa-dosanya yang telah lalu'." Ibnu Syihab berkata, "Ulama-ulama kami berkata, 'Wudlu ini adalah wudlu yang paling sempurnya yang dilakukan oleh seseorang untuk melakukan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>538</td></tr><tr><td>Arabic No</td><td>226.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Шихаба о том, что ‘Атаъ ибн Язид аль-Лейси сообщил ему, что Хумран,вольноотпущенник ‘Усмана рассказывал ему о том, что‘Усман, да будет доволен им Аллах, попросил принести ему воды для совершения омовения. И совершая омовение он трижды помыл кисти рук, затем прополоскал рот и втянув воду в нос высморкался, затем трижды помыл лицо, затем трижды помыл правую руку до локтя и таким же образом помыл левую руку, затем (мокрыми руками) обтер голову, затем трижды помыл правую ногу до щиколотки и то же самое сделал с левой ногой, после чего сказал: «Я видел, как Посланник Аллаха ﷺ совершил омовение, подобное этому моему омовению, а затем Посланник Аллаха ﷺ сказал:“Тому, кто совершит омовение так, как это сделал я, а затем встанет и совершит молитву из двух рак‘атов, в которой не станет беседовать с самим собой, простятся грехи совершенные ранее». Ибн Шихаб сказал: «Наши ученые говорили: “Это омовение самое полноценное из тех, что может совершить кто-нибудь для молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>538</td></tr><tr><td>Arabic No</td><td>226.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 5</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abu Mulaika:I wrote a letter to Ibn 'Abbas and he wrote to me that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kami [Nafi' bin 'Umar] dari [Ibnu Abi Mulaikah] berkata; "Aku menulis surat kepada [Ibnu 'Abbas] lalu dia membalasnya dengan menjelaskan bahwa Nabi shallallahu 'alaihi wasallam telah menetapkan bahwa sumpah wajib bagi siapa yang tertuduh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2514</td></tr><tr><td>Arabic No</td><td>2514</td></tr><tr><td>Reference</td><td>Book 48 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Абу Муляйка, сказал: «Я написал Ибн ‘Аббасу, да будет доволен Аллах им и его отцом, а он написал мне, что Пророк ﷺ постановил, что клясться должен ответчик»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2514</td></tr><tr><td>Arabic No</td><td>2514</td></tr><tr><td>Reference</td><td>Book 48 Hadith 7</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:I asked Anas, "Did the Prophet (ﷺ) use to dye (his) hair?" He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Hammam] dari [Qatadah] berkata; "Aku bertanya kepada [Anas]; "Apakah Nabi shallallahu 'alaihi wasallam pernah menyemir (rambut)? '. Dia menjawab; "Tidak, hanya memang ada penyemiran sedikit pada pelipis beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3550</td></tr><tr><td>Arabic No</td><td>3550</td></tr><tr><td>Reference</td><td>Book 61 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Анаса, да будет доволен им Аллах, спросили: «Красил ли Пророк ﷺ (свои волосы)?» Он ответил: «Нет, поскольку у него было лишь несколько седых волос на висках»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3550</td></tr><tr><td>Arabic No</td><td>3550</td></tr><tr><td>Reference</td><td>Book 61 Hadith 59</td></tr></tbody></table></div>
 

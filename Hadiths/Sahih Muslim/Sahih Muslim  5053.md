@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Jubair reported that. a near one of 'Abdullah b. Mughaffal threw pebble
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Isma'il bin Ulayyah] dari [Ayyub] dari [Sa'id bin Jubair], bahwa sahabat karib [Abdullah bin Mughaffal] sedang melempar, lantas dia melarang sahabatnya tersebut seraya berkata, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam melarang ini (melempar dengan batu), beliau bersabda: "Sesungguhnya itu tidak dapat membunuh hewan buruan dan tidak pula dapat mengalahkan musuh, ia hanya dapat mematahkan gigi dan membutakan mata." Sa'id bin Jubair berkata, "Ketika sahabatnya tersebut mengulangi perbuatannya, maka Abdullah bin Mughaffal pun berkata, "Aku sampaikan bahwa Rasulullah shallallahu 'alaihi wasallam melarang dari perbuatan ini namun kamu masih mengulanginya lagi, sungguh aku tidak akan mengajakmu berbicara lagi!" Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [At Tsaqafi] dari [Ayyub] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>1954.04</td></tr><tr><td>Reference</td><td>Book 34 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>1954.04</td></tr><tr><td>Reference</td><td>Book 34 Hadith 82</td></tr></tbody></table></div>
 

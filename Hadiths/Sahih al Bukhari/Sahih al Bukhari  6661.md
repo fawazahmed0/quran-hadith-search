@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "The Hell Fire will keep on sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syaiban] telah menceritakan kepada kami [Qatadah] dari [Anas bin Malik] menuturkan; Nabi shallallahu 'alaihi wasallam bersabda: "Jahannam tiada henti menuturkan; 'Masihkah ada tambahan? ' (QS. Qaf 30), sampai Allah rabbul 'izzati meletakkan telapak kaki-Nya disana hingga neraka mengatakan; 'Cukup, cukup demi kemuliaan-Mu, ' hingga sebagian penghuni neraka menghimpit sebagian lainnya." [Syu'bah] meriwayatkannya dari [Qatadah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6661</td></tr><tr><td>Arabic No</td><td>6661</td></tr><tr><td>Reference</td><td>Book 83 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Ад беспрестанно будет говорить: “Есть ли добавка?” — пока Господь величия не наступит на него Своей стопой, и тогда Ад скажет: “Довольно, довольно! Клянусь Твоим могуществом!”. И одна часть Ада войдёт в другую»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6661</td></tr><tr><td>Arabic No</td><td>6661</td></tr><tr><td>Reference</td><td>Book 83 Hadith 39</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Atiyya:We gave the Pledge of allegiance to the Prophet (ﷺ) and he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Warits] dari [Ayyub] dari [Hafshah] dari [Ummu 'Athiyyah] mengatakan, kami berbaiat kepada Nabi shallallahu 'alaihi wasallam, lantas beliau membacakan ayat: 'Untuk tidak menyekutukan Allah dengan sesuatu apapun….' sampai akhir(QS. Almumtahanah 12), dan beliau melarang kami dari niyahah (meratap, menjerit-jerit atau menapuk pipi ketika kematian). Kemudian ada seseorang yang mencabut tangannya dari kami dan mengatakan; 'wanita fulanah telah membahagiakanku dan aku ingin membalasnya, ' namun Nabi tidak mengucapkan apa-apa, lantas si wanita itu terus ngeloyor dan kembali lagi, sehingga tak ada yang memenuhi janji setianya (baiat) selain Ummu Sulaim, Ummul 'Ala, anak perempuan Abu Sabrah yang ia adalah isteri Mu'adz atau anak perempuan Abu Sabrah, dan isteri Mu'adz
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7215</td></tr><tr><td>Arabic No</td><td>7215</td></tr><tr><td>Reference</td><td>Book 93 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм ‘Атыйя, да будет доволен ею Аллах, передаёт: «После того как мы присягнули на верность Пророку ﷺ он прочёл нам (следующий аят): “Они не будут придавать сотоварищей Аллаху, красть, прелюбодействовать, убивать своих детей, покрывать клеветой то, что между их руками и ногами, и не будут ослушаться тебя в благих делах, то прими их присягу и попроси Аллаха простить их. Поистине, Аллах — Прощающий, Милующий” (Сура “аль-Мумтахана”, аят 12). И он запретил нам громко причитать по покойным. Тут одна женщина из нас убрала руку и сказала: “Но такая-то причитала вместе со мной (над моим покойным), и я хочу ответить ей тем же”. (Пророк ﷺ) ничего не сказал ей, и тогда она ушла, а потом вернулась». \n(Умм ‘Атыйя сказала:) «Но никто из женщин не выполнил (обещание не причитать по покойным), кроме Умм Суляйм, Умм аль-‘Аля и дочери Абу Сабры, которая была женой Му‘аза, [или: дочери Абу Сабры и жены Му‘аза (ибн Джабаля)]»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7215</td></tr><tr><td>Arabic No</td><td>7215</td></tr><tr><td>Reference</td><td>Book 93 Hadith 75</td></tr></tbody></table></div>
 

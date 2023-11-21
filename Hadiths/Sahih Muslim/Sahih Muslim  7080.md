@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported that Allah's Messenger (ﷺ) said:There is none to show more p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] dan [Abu Usamah] dari [Al A'masy] dari [Sa'id bin Jubair] dari [Abu Abdurrahman bin As Sulami] dari [Abu Musa] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Tidak ada siapa pun yang lebih bersabar atas gangguan yang ia dengar melebihi Allah 'azza wajalla, ia disekutukan dan dianggap punya anak kemudian Ia memaafkan dan memberi mereka rizki." Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] dan [Abu Sa'id Al Asyaj] keduanya berkata: Telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Sa'id bin Jubair] dari [Abu Abdurrahman As Sulami] dari [Abu Musa] dari nabi Shallallahu 'alaihi wa Salam sepertinya tapi ia tidak menyebut: Dianggap punya anak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7080</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7080</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

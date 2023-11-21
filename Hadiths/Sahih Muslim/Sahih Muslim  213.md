@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uqba b. Mukarram al-'Ami reported that he heard 'Ala' b. 'Abdur-Rahman narrating
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Ishaq] telah mengabarkan kepada kami [Ibnu Abu Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far] dia berkata, telah mengabarkan kepada kami [al-Ala' bin Abdurrahman bin Ya'qub] mantan budak al-Huraqah, dari [bapaknya] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Di antara tanda-tanda orang munafik ada tiga: apabila dia berbicara niscaya dia berbohong, apabila dia berjanji niscaya mengingkari, dan apabila dia dipercaya niscaya dia berkhianat." Telah menceritakan kepada kami [Uqbah bin Mukram al-Ammi] telah menceritakan kepada kami [Yahya bin Muhammad bin Qais Abu Zuhair] dia berkata, saya mendengar [al-Ala' bin Abdurrahman] menceritakan dengan sanad ini seraya berkata, "Tanda-tanda orang munafik ada tiga, walaupun dia berpuasa dan shalat serta mengklaim bahwa dia seorang Muslim." Dan telah menceritakan kepadaku [Abu Nadlr at-Tammar] dan [Abdul A'la bin Hammad] keduanya berkata, telah menceritakan kepada kami [Hammad bin Salamah] dari [Dawud bin Abu Hind] dari [Said bin al-Musayyab] dari [Abu Hurairah] dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda dengan semisal hadits Yahya bin Muhammad, dari al-Ala' dia menyebutkan di dalamnya, "Dan walaupun dia berpuasa dan shalat dan mengkliam bahwa dia seorang Muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>213</td></tr><tr><td>Arabic No</td><td>59.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-‘Аля ибн ‘Абдуррахман рассказывал, что Пророк ﷺ сказал: «Лицемера (отличают) три признака, даже если он соблюдает пост, совершает молитву и утверждает, что он мусульманин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>213</td></tr><tr><td>Arabic No</td><td>59.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 119</td></tr></tbody></table></div>
 

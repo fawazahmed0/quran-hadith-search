@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:A man was often cheated in buying. The Prophet (ﷺ) said to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami ['Abdul 'Aziz bin Muslim] telah menceritakan kepada kami ['Abdullah bin Dinar] berkata, aku mendengar [Ibnu'Umar radliallahu 'anhuma] berkata; Ada seorang laki-laki yang tertipu dalam berjual beli, maka Nabi shallallahu 'alaihi wasallam berkata, kepadanya: "Jika kamu berjual beli katakanlah tidak boleh ada (penipuan dalam jual beli) ". Kemudian orang itu mengatakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2414</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 44 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Одного человека обманывали в торговых делах, и Пророк ﷺ сказал ему: “Когда будешь заключать сделки, говори: “Без обмана! /Ля хиляба!/” И этот человек стал говорить это, заключая торговые сделки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2414</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 44 Hadith 5</td></tr></tbody></table></div>
 

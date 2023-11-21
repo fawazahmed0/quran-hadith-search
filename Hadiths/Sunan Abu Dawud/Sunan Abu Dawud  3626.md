@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ikrimah: The Holy Prophet (ﷺ) said to Ibn Suriya': I remind you by Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] telah menceritakan kepada kami [seorang laki-laki Muzainah] -saat itu kami berada di sisi Sa'id bin Al Musayyab- dari [Abu Hurairah] ia berkata, "Nabi shallallahu 'alaihi wasallam berkata kepada seorang Yahudi: "Aku sumpahi kamu atas nama Allah yang telah menurunkan Taurat kepada Musa, hukuman apakah yang kalian dapatkan dalam Taurat terhadap orang yang berzina? Abu Hurairah menyebutkan terusan hadits tersebut dalam masalah rajam." Telah menceritakan kepada kami [Abdul Aziz bin Yahya Abu Al Ashbagh] telah menceritakan kepadaku [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Az Zuhri] dengan hadits ini dan dengan sanadnya. Ia berkata; telah menceritakan kepadaku [seorang laki-laki Muzainah] dari orang yang mengikuti ilmu dan memahaminya, ia menceritakan dari Sa'id bin Al Musayyab, lalu ia menyebutkan hadits tersebut dengan maknanya." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Ikrimah] bahwa Nabi shallallahu 'alaihi wasallam berkata kepada Ibnu Shuriya: "Aku ingatkan kalian kepada Allah yang telah menyelamatkan kalian dari keluarga Fir'aun, membelah laut untuk kalian, menaungi kalian dengan awan, menurunkan Al Mann dan As Salwa kepada kalian, serta menurunkan Taurat kepada Musa. Apakah kalian mendapatkan rajam dalam Kitab kalian?" Ibnu Shuriya menjawab, "Engkau telah mengingatkan aku dengan sesuatu yang agung, tidak ada alasan bagiku untuk mendustaimu….. lalu ia menyebutkan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3626</td></tr><tr><td>Arabic No</td><td>3626</td></tr><tr><td>Reference</td><td>Book 25 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Икримы, что Пророк ﷺ сказал Ибн Сурие (, который был один из учёных иудеев): «Напоминаю вам об Аллахе, Который избавил вас от воинства фараона, разделил для вас море, укрыл вас сенью облаков, ниспослал вам манну и перепелов и ниспослал Тору для вас, даровав её Мусе… Есть ли в вашем Писании предписание о побивании камнями (за прелюбодеяние)?» Тот ответил: «Ты напомнил мне о великом, и я не могу солгать тебе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3626</td></tr><tr><td>Arabic No</td><td>3626</td></tr><tr><td>Reference</td><td>Book 25 Hadith 56</td></tr></tbody></table></div>
 

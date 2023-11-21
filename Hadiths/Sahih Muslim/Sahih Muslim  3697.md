@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Fatima bint Qais reported that Abu 'Amr b. Hafs divorced her absolutely when he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Abdullah bin Yazid] mantan sahaya Al Aswad bin Sufyan, dari [Abu Salamah bin Abdurrahman] dari [Fathimah binti Qais] bahwa Abu Amru bin Hafsh telah menceraikannya dengan talak tiga, sedangkan dia jauh darinya, lantas dia mengutus seorang wakil kepadanya (Fathimah) dengan membawa gandum, (Fathimah) pun menolaknya. Maka (Wakil 'Amru) berkata; Demi Allah, kami tidak punya kewajiban apa-apa lagi terhadapmu. Karena itu, Fathimah menemui Rasulullah shallallahu 'alaihi wasallam untuk menanyakan hal itu kepada beliau, beliau bersabda: "Memang, dia tidak wajib lagi memberikan nafkah." Sesudah itu, beliau menyuruhnya untuk menghabiskan masa iddahnya di rumah Ummu Syarik. Tetapi kemudian beliau bersabda: "Dia adalah wanita yang sering dikunjungi oleh para sahabatku, oleh karena itu, tunggulah masa iddahmu di rumah Ibnu Ummi Maktum, sebab dia adalah laki-laki yang buta, kamu bebas menaruh pakaianmu di sana, jika kamu telah halal (selesai masa iddah), beritahukanlah kepadaku." Dia (Fathimah) berkata; Setelah masa iddahku selesai, kuberitahukan hal itu kepada beliau bahwa Mu'awiyah bin Abi Sufyan dan Abu Al Jahm telah melamarku, lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Abu Jahm adalah orang yang tidak pernah meninggalkan tongkatnya dari lehernya (suka memukul -pent), sedangkan Mu'awiyah adalah orang yang miskin, tidak memiliki harta, karena itu nikahlah dengan Usamah bin Zaid." Namun saya tidak menyukainya, beliau tetap bersabda: "Nikahlah dengan Usamah." Lalu saya menikah dengan Usamah, Allah telah memberikan limpahan kebaikan padanya hingga bahagia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3697</td></tr><tr><td>Arabic No</td><td>1480.01</td></tr><tr><td>Reference</td><td>Book 18 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3697</td></tr><tr><td>Arabic No</td><td>1480.01</td></tr><tr><td>Reference</td><td>Book 18 Hadith 45</td></tr></tbody></table></div>
 

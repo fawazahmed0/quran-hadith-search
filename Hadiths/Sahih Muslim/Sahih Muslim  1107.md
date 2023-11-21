@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Maimuna reported:When the Messenger of Allah (ﷺ) prostrated himself, if a lamb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Ibnu Abi Umar] semuanya meriwayatkan dari [Sufyan] berkata [Yahya], telah mengabarkan kepada kami [Sufyan bin Uyainah] dari [Ubaidullah bin Abdullah bin al-Ashamm] dari [Pamannya, Yazid bin al-Ashamm] dari [Maimunah] dia berkata, "Dahulu Nabi Shallallahu'alaihiwasallam apabila sujud, lalu seekor anak kambing bermaksud lewat (di bawah) antara dua tangannya niscaya ia bisa lewat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1107</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 4 Hadith 269</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Маймуна сказала: «Совершая земной поклон, Пророк ﷺ (расставлял руки так широко, что,) если бы ягнёнок захотел пройти под его руками, он бы смог сделать это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1107</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 4 Hadith 269</td></tr></tbody></table></div>
 

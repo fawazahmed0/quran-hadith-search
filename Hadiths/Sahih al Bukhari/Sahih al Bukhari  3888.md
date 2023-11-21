@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Regarding the Statement of Allah" "And We granted the vision
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru] dari ['Ikrimah] dari [Ibnu 'Abbas] radliallahu 'anhuma tentang firman Allah Ta'ala QS al Isra' ayat 60: ("Dan tidaklah kami jdikan mimpi yang Kami perlihatkann kepadamu melainkan sebagai ujian bagi manusia"). Ibnu 'Abbas radliallahu 'anhuma berkata; "Itu adalah penglihatan mata telanjang yang diperlihatkan kepada Rasulullah shallallahu 'alaihi wasallam pada malam beliau di Isra' menuju Baitul Maqdis". Dan Ibnu 'Abbas radliallahu 'anhuma juga berkata; bahwa lanjutan ayat yang artinya: ("dan begitu pula pohon yang terkutuk di dalam al Qur'an.".) maksudnya adalah pohon zaqqum (di neraka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3888</td></tr><tr><td>Arabic No</td><td>3888</td></tr><tr><td>Reference</td><td>Book 63 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, о словах Всевышнего «Мы сделали показанное тебе видение искушением для людей» сказал: «Это было (не сновидение, а) видение воочию того, что было показано Посланнику Аллаха ﷺ когда он был ночью перенесен в Иерусалим». (Ибн ‘Аббас относительно слов Всевышнего) «а также дерево, проклятое в Коране» сказал: «Это дерево Заккум»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3888</td></tr><tr><td>Arabic No</td><td>3888</td></tr><tr><td>Reference</td><td>Book 63 Hadith 113</td></tr></tbody></table></div>
 

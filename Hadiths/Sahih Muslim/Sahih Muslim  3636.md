@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported:I married a woman durin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Abdul Malik bin Abu Sulaiman] dari ['Atha'] telah mengabarkan kepadaku [Jabir bin Abdullah] dia berkata; Saya menikah dengan seorang wanita pada masa Rasulullah shallallahu 'alaihi wasallam, lalu saya bertemu Nabi shallallahu 'alaihi wasallam, beliau bertanya: "Wahai Jabir, apakah kamu telah menikah?" Saya menjawab; "Ya". Beliau bertanya lagi: "Dengan seorang gadis atau janda?" Saya menjawab; "Dengan seorang janda". Beliau bersabda: "Kenapa kamu tidak memilih yang masih gadis, hingga kamu bisa mencumbunya dan dia bisa mencumbumu?" Saya menjawab; "Wahai Rasulullah, sesungguhnya saya memiliki saudara-saudara perempuan, dan saya khawatir jika dia (gadis) melunturkan hubungan baik antara saya dengan mereka." Lalu beliau bersabda: "Jika demikian maka tidak masalah, sesungguhnya seorang wanita dinikahi karena agamanya, hartanya, dan kecantikannya, maka pilihlah karena agamanya, niscaya kamu akan beruntung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3636</td></tr><tr><td>Arabic No</td><td>715.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3636</td></tr><tr><td>Arabic No</td><td>715.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 69</td></tr></tbody></table></div>
 

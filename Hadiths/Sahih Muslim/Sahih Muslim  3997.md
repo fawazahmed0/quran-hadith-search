@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn Abou Mas'ûd (que Dieu l'agrée), L'Envoyé de Dieu (paix et béné
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan [Ishaq bin Ibrahim] dan ini adalah lafadznya Yahya. [Yahya] berkata; telah mengabarkan kepada kami, sedangkan yang dua mengatakan telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] dari [Abu Mas'ud] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang laki-laki sebelum kalian dihisap dan tidak didapatkan padanya kebaikan sedikitpun, melainkan ketika dia bersosialisasi dengan manusia, ia suka memudahkan setiap urusan, ia menyuruh pelayannya untuk menangguhkan bagi orang yang kesusahan." Beliau melanjutkan: "Lalu Allah Azza Wa Jalla berfirman: 'Kami lebih berhak atas hal itu daripada dia, oleh karena itu berilah kemudahan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3997</td></tr><tr><td>Arabic No</td><td>1561</td></tr><tr><td>Reference</td><td>Book 22 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3997</td></tr><tr><td>Arabic No</td><td>1561</td></tr><tr><td>Reference</td><td>Book 22 Hadith 36</td></tr></tbody></table></div>
 

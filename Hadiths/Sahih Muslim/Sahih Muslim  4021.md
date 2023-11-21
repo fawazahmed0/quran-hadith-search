@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Mughaffal reported:Allah's Messenger (ﷺ) ordered the killing of dogs and t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abu At Tayyah] bahwa dia mendengar dari [Muttharif bin Abdullah] dari [Ibnu Al Mughaffal] dia berkata, "Rasulullah shallallahu 'alaihi wasallam memerintahkan kami supaya membunuh semua jenis anjing, kemudian beliau bersabda: "Apa urusannya mereka dengan anjing?" Lantas beliau memberi mengecualikan anjing untuk berburu dan anjing penjaga kambing (ternak)." Dan telah menceritakan kepadaku [Yahya bin Habib] telah menceritakan kepada kami [Khalid] -yaitu Ibnu Al Harits-. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Walid] telah menceritakan kepada kami [Muhammad bin Ja'far]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [An Nadlr]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Mutsanna] telah menceritakan kepada kami [Wahb bin Jarir] semuanya dari [Syu'bah] dengan sanad-sanad ini. Ibnu Hatim menyebutkan dalam haditsnya; dari Yahya, "Beliau memberi keringanan anjing penjaga ternak, anjing untuk berburu dan anjing untuk menjaga tanaman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4021</td></tr><tr><td>Arabic No</td><td>1573.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4021</td></tr><tr><td>Arabic No</td><td>1573.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 60</td></tr></tbody></table></div>
 

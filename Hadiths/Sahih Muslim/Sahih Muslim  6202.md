@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd b. Waqqas reported that Umar sought permission from Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Manshur bin Abu Muzahim]; Telah menceritakan kepada kami [Ibrahim] yaitu Ibnu Sa'ad; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Hasan Al Hulwani] dan ['Abad bin Humaid] keduanya berkata; ['Abad] berkata; Telah mengabarkan kepadaku; dan berkata [Hasan]; Telah menceritakan kepada kami [Ya'qub] yaitu Ibnu Ibrahim bin Sa'ad; Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu Syihab]; Telah mengabarkan kepadaku ['Abdul Hamid bin 'Abdur Rahman bin Zaid], [Muhammad bin Sa'ad bin Abi Waqqash] Telah menceritakan kepadanya bahwa bapaknya yaitu [Sa'ad] berkata; "Pada suatu ketika Umar bin Khaththab pernah meminta izin kepada Rasulullah shallallahu 'alaihi wasallam untuk bertamu kepada beliau yang saat itu ada beberapa wanita Quraisy yang sedang berbicara dengan beliau secara panjang lebar dan dengan suara yang lantang. Setelah Umar meminta izin untuk masuk, maka kaum wanita itu segera berdiri dan bersembunyi di balik tirai (hijab). Kemudian Rasulullah shallallahu 'alaihi wasallam mempersilahkan Umar masuk sambil tersenyum-senyum simpul. Umar berkata; "Apa yang membuat anda tersenyum ya Rasulullah!" Rasulullah shallallahu 'alaihi wasallam menjawab: "Hai Umar, sebenarnya aku sendiri merasa heran dengan kaum wanita yang berada bersamaku tadi. Karena, ketika mereka mendengar suaramu, maka mereka segera bersembunyi." Lalu Umar berkata, Sebenarnya engkaulah yang lebih berhak mereka segani." Kemudian Umar menoleh ke tabir tempat kaum wanita dan berkata; "Hai orang-orang yang menjadi musuhnya sendiri, apakah kalian merasa segan kepadaku dan tidak segan kepada Rasulullah?" Kaum wanita Quraisy itu pun menjawab; "Ya, karena engkau lebih keras dari Rasulullah!" Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda; "Demi jiwaku yang berada di tangan-Nya, sungguh tak ada syetan yang berpapasan denganmu di suatu jalan ya Umar, melainkan syetan tersebut akan berpaling ke jalan lain untuk menghindar dari jalanmu." Telah menceritakan kepada kami [Harun bin Ma'ruf]; Telah menceritakan kepada kami dengannya ['Abdul 'Aziz bin Muhammad]; Telah mengabarkan kepadaku [Suhail] dari [Bapaknya] dari [Abu Hurairah] bahwa 'Umar bin Al Khaththab datang kepada Rasulullah shallallahu 'alaihi wasallam yang di saat itu ada beberapa wanita Quraisy sedang berbicara dengan beliau dengan suara yang lantang. Setelah Umar meminta izin untuk masuk, maka kaum wanita itu segera berdiri dan bersembunyi di balik tirai (hijab) -sebagaimana Hadits Az Zuhri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6202</td></tr><tr><td>Arabic No</td><td>2396</td></tr><tr><td>Reference</td><td>Book 44 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6202</td></tr><tr><td>Arabic No</td><td>2396</td></tr><tr><td>Reference</td><td>Book 44 Hadith 32</td></tr></tbody></table></div>
 

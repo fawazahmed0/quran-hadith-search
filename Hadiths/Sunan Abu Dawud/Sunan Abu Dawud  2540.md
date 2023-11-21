@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sahl ibn Sa'd: The Prophet (ﷺ) said: Two (prayers) are not rejected, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Ibnu Abu Maryam], telah menceritakan kepada kami [Musa bin Ya'qub Az Zam'i], dari [Abu Hazim], dari [Sahl bin Sa'd], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Dua perkara yang tidak ditolak atau jarang ditolak, yaitu: berdoa ketika adzan, dan (berdoa) ketika susah di saat sebagian mereka membunuh sebagian yang lain (ketika perang)." Musa berkata; dan telah menceritakan kepadaku [Rizq bin Sa'id bin Abdurrahman] dari [Abu Hazim], dari [Sahl bin Sa'd], dari Nabi shallallahu 'alaihi wasallam, beliau berkata: " Dan waktu hujan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2540</td></tr><tr><td>Arabic No</td><td>2540</td></tr><tr><td>Reference</td><td>Book 15 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2540</td></tr><tr><td>Arabic No</td><td>2540</td></tr><tr><td>Reference</td><td>Book 15 Hadith 64</td></tr></tbody></table></div>
 

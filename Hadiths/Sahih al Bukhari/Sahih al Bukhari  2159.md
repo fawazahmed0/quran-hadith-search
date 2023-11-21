@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) forbade the selling of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya ['Abdullah bin Shabbah] telah menceritakan kepada kami [Abu 'Ali Al Hanafiy] dari ['Abdurrahman bin 'Abdullah bin Dinar] berkata, telah menceritakan kepadaku [Bapakku] dari ['Abdullah bin 'Umar radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam melarang orang kota menjual untuk orang desa": Hadits ini telah dikomentari oleh Ibnu 'Abbas radliallahu 'anhuma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>2159</td></tr><tr><td>Reference</td><td>Book 34 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ запретил оседлому жителю продавать за бедуина». И Ибн ‘Аббас придерживался этого мнения
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>2159</td></tr><tr><td>Reference</td><td>Book 34 Hadith 110</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu May' id Al-Ansari:Whenever Allah's Messenger (ﷺ) ordered us to gi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Yahya bin Sa'id Al Qurasyiy] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari [Abu Mas'ud Al Anshariy radliallahu 'anhu] berkata: "Adalah Nabi shallallahu 'alaihi wasallam bila memerintahkan kami bershadaqah, maka seseorang dari kami akan berangkat menuju pasar lalu dia bekerja dengan sungguh-sungguh hingga mendapatkan rezeki satu mud. Ada sebagian dari mereka bisa mendapatkan seratus ribu kalinya". Dia berkata: "Tidaklah kamu melihatnya melainkan adalah dirinya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 37 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд аль-Ансари, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ велел нам подавать милостыню, мы стали ходить на рынок и переносить грузы, получая за это по мудду (зерна), а сегодня некоторые из (занимавшихся этим) имеют и по сто тысяч». \nОдин из передатчиков хадиса сказал: «Думаю, (что, рассказав это) он имел ввиду себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 37 Hadith 13</td></tr></tbody></table></div>
 

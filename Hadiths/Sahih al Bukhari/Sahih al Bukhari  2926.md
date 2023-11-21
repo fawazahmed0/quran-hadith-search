@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Hour will not be establi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari ['Umarah bin Al Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] dari Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan datang hari qiyamat hingga kalian memerangi orang-orang Yahudi hingga batu yang di baliknya bersembunyi seorangYahudi akan berkata: "Wahai Muslim, ini Yahudi di belakangku bunuhlah dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>2926</td></tr><tr><td>Reference</td><td>Book 56 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не настанет Час этот, пока вы не сразитесь с иудеями, и пока камень, за которым будет находиться иудей, не скажет: “О мусульманин, за мной скрывается иудей, убей же его!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>2926</td></tr><tr><td>Reference</td><td>Book 56 Hadith 139</td></tr></tbody></table></div>
 

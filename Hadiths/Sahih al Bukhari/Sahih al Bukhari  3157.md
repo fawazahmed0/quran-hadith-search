@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Dinar:I was sitting with Jabir bin Zaid and 'Amr bin Aus, and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] berkata aku mendengar ['Amar] berkata; "Aku pernah duduk bersama Jabir bin Zaid dan 'Amru bin Aus, lalu [Bajalah] bercerita kepada keduanya suatu peristiwa pada tahun tujuh puluh saat Mush'ab bin Az Zubair menunaikan ibadah hajji bersama dengan penduduk Bashrah. Ketika berada di sisi air zamzam, dia (Bajalah) berkata; "Aku adalah juru tulis Jaz'i bin Mu'awiyah, paman Al Ahnaf". Kemudian datang surat perintah dari ['Umar bin Al Khaththab] sebelum kematiannya yang berisi; "Pisahkanlah setiap orang yang memiliki mahram dari orang Majusi". Dan 'Umar belum pernah mengambil jizyah (upeti) dari Kaum Majusi hingga kemudian datang 'Abdur Rahman bin 'Auf bersaksi bahwa Rasulullah Shallallahu'alaihiwasallam pernah mengambil jizyah orang Majusi Hajar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3157</td></tr><tr><td>Arabic No</td><td>3157</td></tr><tr><td>Reference</td><td>Book 58 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, что за год до своей смерти он написал жителям Басры (послание, в котором среди прочего было сказано): «Расторгните все браки зороастрийцев, заключённые между близкими родственниками». \n(Сообщается, что) ‘Умар, да будет доволен им Аллах, не брал подушную подать с зороастрийцев до тех пор, пока ‘Абд ар-Рахман ибн ‘Ауф, да будет доволен им Аллах, не засвидетельствовал, что Посланник Аллаха ﷺ взимал её с зороастрийцев, живших в Хаджаре
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3157</td></tr><tr><td>Arabic No</td><td>3157</td></tr><tr><td>Reference</td><td>Book 58 Hadith 1</td></tr></tbody></table></div>
 

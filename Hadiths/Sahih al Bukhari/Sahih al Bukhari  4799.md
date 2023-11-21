@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Moses was a shy man, and tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] Telah mengabarkan kepada kami [Rauh bin 'Ubadah] Telah menceritakan kepada kami ['Auf] dari [Al Hasan] dan [Muhammad] serta [Khilas] dari [Abu Hurairah radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Sesungguhnya Musa adalah orang yang sangat pemalu, hal itu sebagaimana firman Allah: "Hai orang-orang yang beriman, janganlah kamu menjadi seperti orang-orang yang menyakiti Musa; maka Allah membersihkannya dari tuduhan-tuduhan yang mereka katakan. Dan adalah dia seorang yang mempunyai kedudukan terhormat di sisi Allah." (Al Ahzaab:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4799</td></tr><tr><td>Arabic No</td><td>4799</td></tr><tr><td>Reference</td><td>Book 65 Hadith 321</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, Муса был стыдливым человеком, и в этом смысл слов Всевышнего(, Который сказал): “О те, кто уверовал! Не уподобляйтесь тем, кто обижал Мусу, после чего Аллах объявил его невиновным в том, что они утверждали, и был он уважаем Аллахом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4799</td></tr><tr><td>Arabic No</td><td>4799</td></tr><tr><td>Reference</td><td>Book 65 Hadith 321</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Laila 'Abdullah b. 'Abd al-Rahman b. Sahl reported that the elderly persons 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Bisr bin Umar] dia berkta; aku pernah mendengar [Malik bin Anas] berkata; telah menceritakan kepadaku [Abu Laila Abdullah bin Abdurrahman bin Sahal] dari [Sahal bin Abu Hatsmah], bahwa dia mengabarkan kepadanya dari beberapa tokoh lelaki dari kaumnya, bahwa Abdulah bin Sahal dan Muhayishah pergi menuju Khaibar untuk melaksanakan suatu tugas yang diembannya. Seseorang memberitahukan Muhayishah bahwa Abdullah bin Sahal telah terbunuh dan mayatnya dilempar ke sumur yang dangkal. Akhirnya Muhayishah mendatangi orang-orang Yahudi dan berkata, "Demi Allah, pasti kalian yang membunuh Abdullah bin Sahal." Orang-orang Yahudi membantah sambil berkata, "Tidak, kami tidak membunuhnya." Lalu Muhayishah pulang ke madinah untuk menemui kaumnya, dan menceritakan peristiwa itu kepada mereka. Dengan ditemani Huwayishah dan Abdurrahman, mereka pergi menghadap Rasulullah shallallahu 'alaihi wasallam. Karena yang berangkat ke Khaibar adalah Muwayishah, maka dia pun bermaksud membuka pembicaraan. Akan tetapi Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang lebih besar, yang lebih besar." -(beliau menginginkan yang lebih tua) - Maka Huwayishah pun memulai pembicaraan, setelah itu baru Muhayishah yang angkat bicara. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda kepada mereka: "Baiklah, kalian boleh meminta kepada orang-orang Yahudi untuk membayar diyat atau mereka kita perangi." Akhirnya Rasulullah shallallahu 'alaihi wasallam mengirim surat kepada orang-orang Yahudi tentang hal itu, lalu mereka membalasnya, "Demi Allah, kami benar-benar tidak membunuhnya." Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada Huwayishah, Muhayishah dan Abdurrahman: "Apakah kalian mau bersumpah, dan setelah itu kalian berhak atas diyat saudara kalian yang terbunuh?" mereka menjawab, "Tidak." Beliau bersabda: "Orang-orang Yahudi telah bersumpah atas kalian." Mereka berkata, "Bukankah mereka dari golongan non-Islam?" lalu Rasulullah shallallahu 'alaihi wasallam memberikan diyat dari harta yang dimilikinya, kemudian Rasulullah shallallahu 'alaihi wasallam mengirim seratus ekor unta dan dimasukkan ke dalam rumahnya." Sahal berkomentar, "Aku pernah ditendang seekor unta dari unta-unta tebusan itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4349</td></tr><tr><td>Arabic No</td><td>1669.08</td></tr><tr><td>Reference</td><td>Book 28 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4349</td></tr><tr><td>Arabic No</td><td>1669.08</td></tr><tr><td>Reference</td><td>Book 28 Hadith 8</td></tr></tbody></table></div>
 

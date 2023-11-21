@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is narrated by Anas b. Malik (Allah be pleased with him) with anothe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepadaku [Ubaidullah bin Umar Al Qawariri] telah menceritakan kepadaku [Harami bin Umarah] telah menceritakan kepada kami [Qurrah] dari [Qatadah] dari [Anas] ia berkata; Rasulullah shallallahu 'alaihi wasallam memandang gunung Uhud kemudian bersabda: "Sesungguhnya Uhud adalah bukit yang mencintai kita dan kita pun mencintainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3373</td></tr><tr><td>Arabic No</td><td>1393.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 577</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3373</td></tr><tr><td>Arabic No</td><td>1393.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 577</td></tr></tbody></table></div>
 

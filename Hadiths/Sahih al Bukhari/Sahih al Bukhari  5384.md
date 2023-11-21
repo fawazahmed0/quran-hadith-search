@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Suwaid bin An-Nu'man:We went out with Allah's Messenger (ﷺ) to Khaiba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] Telah berkata [Yahya bin Sa'id] Aku mendengar [Busyair bin Yasar] berkata; Telah menceritakan kepada kami [Suwaid bin An Nu'man] ia berkata; kami pernah keluar ke Khaibar bersama Rasulullah shallallahu 'alaihi wasallam. Ketika kami sampai di Shahba' -Yahya berkata; Dari Khaibar adalah perjalanan semalam- Rasulullah shallallahu 'alaihi wasallam meminta makanan, namun beliau hanya diberi makanan berupa gandum. Maka kami mengunyah dan memakannya. Setelah itu, beliau meminta air, lalu berkumur dan kami pun ikut berkumur-kumur. Kemudian beliau shalat Maghrib bersama kami dengan tanpa berwudlu lagi. Sufyan berkata; Aku mendengarnya darinya ketika pulang dan ketika awal perjalanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5384</td></tr><tr><td>Arabic No</td><td>5384</td></tr><tr><td>Reference</td><td>Book 70 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сувайд ибн ан-Ну‘ман сказал: «Когда мы отправились вместе с Посланником Аллаха ﷺ в Хайбар и достигли Сахбы, расположенной поблизости от Хайбара, Посланник Аллаха ﷺ велел принести еду, однако подать могли только савик (походная еда быстрого приготовления, своего рода полуфабрикат. Его основу составляла пшеничная или ячменная крупа, проваренная с жиром, мёдом или финиками, которую перед употреблением увлажняли), который мы увлажнили и поели (вместе с ним). Затем Пророк ﷺ велел принести воды и прополоскал рот, и мы тоже прополоскали, и совершил с нами закатную /магъриб/ молитву, не совершив омовения (после савика)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5384</td></tr><tr><td>Arabic No</td><td>5384</td></tr><tr><td>Reference</td><td>Book 70 Hadith 12</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Khudri and Abu Huraira reported Allah's Messenger (ﷺ) as saying:Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yusuf Al Azdi]; Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Al A'masy]; Telah menceritakan kepada kami [Abu Ishaq] dari [Abu Muslim Al Aghar] bahwasannya dia telah menceritakan kepadanya dari [Abu Sa'id Al Khudri] dan [Abu Hurairah] keduanya berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kemuliaan adalah sarung-Nya dan kesombongan adalah selendang-Nya. Barang siapa menentang-Ku, maka Aku akan mengadzabnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6680</td></tr><tr><td>Arabic No</td><td>2620</td></tr><tr><td>Reference</td><td>Book 45 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри и Абу Хурайры, что Посланник Аллаха ﷺ сказал: «(Всемогущий Аллах сказал): “Величие Мой изар, а гордость Моя накидка /ридаъ/, кто станет оспаривать их у Меня, того Я подвергну мучениям!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6680</td></tr><tr><td>Arabic No</td><td>2620</td></tr><tr><td>Reference</td><td>Book 45 Hadith 177</td></tr></tbody></table></div>
 

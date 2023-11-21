@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:One day Allah's Messenger (ﷺ) narrated to us a long narrati
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] Telah mengabarkan kepada kami ['Ubaidullah bin Abdullah bin Utbah bin Mas'ud], bahwasanya [Abu Sa'id] mengatakan, Suatu hari Rasulullah Shallallahu'alaihiwasallam menceritakan kepada kami suatu Hadits panjang tentang dajjal, diantara yang beliau ceritakan kepada kami saat itu ialah, beliau bersabda: "dajjal datang dan diharamkan masuk jalan Madinah, lantas ia singgah di lokasi yang tak ada tetumbuhan dekat Madinah, kemudian ada seseorang yang mendatanginya yang ia adalah sebaik-baik manusia atau diantara manusia terbaik, dia berkata; 'saya bersaksi bahwa engkau adalah dajjal, yang Rasulullah Shallallahu'alaihiwasallam telah ceritakan kepada kami.' Kemudian dajjal mengatakan; 'Apa pendapat kalian jika aku membunuh orang ini lantas aku menghidupkannya, apakah kalian masih ragu terhadap perkara ini? ' Mereka menjawab; 'tidak'. Maka Dajjal membunuh orang tersebut kemudian menghidupkannya, namun orang tersebut tiba-tiba mengatakan; 'Ketahuilah bahwa hari ini, kewaspadaanku terhadap diriku tidak sebesar kewaspadaanku terhadapmu! ' Lantas dajjal ingin membunuh orang itu, namun ia tak bisa lagi menguasainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7132</td></tr><tr><td>Arabic No</td><td>7132</td></tr><tr><td>Reference</td><td>Book 92 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал:\n— Однажды Посланник Аллаха ﷺ долго рассказывал нам о Даджале и среди прочего он сказал: «Явится Даджаль, которому будет запрещено входить в Медину, и остановится на одном из солончаков за пределами Медины. И выйдет к нему в тот день лучший из людей (или: один из лучших людей), который скажет: “Я свидетельствую, что ты — Даджаль, о котором рассказывал нам Посланник Аллаха ﷺ!” Тогда Даджаль обратится (к людям): “Скажите, если я убью этого (человека), а потом оживлю его, останутся ли у вас сомнения в том, о чём я говорю вам?” Они скажут: “Нет”. И тогда он убьёт его, а потом воскресит, и когда он воскресит его, (этот человек) скажет: “Клянусь Аллахом, никогда не был я так уверен в том, кто ты, как сегодня!” Тогда Даджаль захочет убить его снова, но уже не сможет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7132</td></tr><tr><td>Arabic No</td><td>7132</td></tr><tr><td>Reference</td><td>Book 92 Hadith 79</td></tr></tbody></table></div>
 

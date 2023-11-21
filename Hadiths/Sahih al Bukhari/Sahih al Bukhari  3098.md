@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Al-Harith:The Prophet (ﷺ) did not leave anything (after his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Sufyan] berkata telah bercerita kepadaku [Abu Ishaq] berkata aku mendengar ['Amru binAl Harits] berkata; "Tidaklah Nabi Shallallahu'alaihiwasallam meninggalkan sesuatu (saat wafat) kecuali sebilah pedang Beliau, baghal yang berwarna putih dan sebidang tanah yang Beliau jadikan sebagai shadaqah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3098</td></tr><tr><td>Arabic No</td><td>3098</td></tr><tr><td>Reference</td><td>Book 57 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн аль-Харис сказал: «Пророк ﷺ (после своей смерти) не оставил ничего иного, кроме своего оружия, белой мулицы, (на которой он ездил) и той земли, которую он оставил, (чтобы доходы с неё раздавали в качестве) милостыни»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3098</td></tr><tr><td>Arabic No</td><td>3098</td></tr><tr><td>Reference</td><td>Book 57 Hadith 7</td></tr></tbody></table></div>
 

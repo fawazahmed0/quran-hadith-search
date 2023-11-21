@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this has been transmitted by Ibn Tawus from his father on the auth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin 'Abbad] telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Thawus] dia berkata; "Aku mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Berlindunglah kalian kepada Allah dari siksa Allah, berlindunglah kalian kepada Allah dari siksa kubur, berlindunglah kalian kepada Allah dari fitnah Al Masih Dajjal, dan berlindunglah kalian kepada Allah dari fitnah kehidupan dan kematian." Telah menceritakan kepada kami [Muhammad bin 'Abbad] telah menceritakan kepada kami [Sufyan] dari [Ibn Thawus] dari [Ayahnya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits diatas. Dan telah menceritakan kepada kami [Muhammad bin Abbad] [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] mereka semuanya mengatakan, telah menceritakan kepada kami [Sufyan] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam sebagaimana hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1329</td></tr><tr><td>Arabic No</td><td>588.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Прибегайте к Аллаху за защитой от наказания Аллаха; прибегайте к Аллаху за защитой от мучений могилы; прибегайте к Аллаху за защитой от искушения Даджжаля; прибегайте к Аллаху за защитой от испытаний жизни и смерти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1329</td></tr><tr><td>Arabic No</td><td>588.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 167</td></tr></tbody></table></div>
 

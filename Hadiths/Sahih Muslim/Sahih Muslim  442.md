@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Masruq reported:I said to 'A'isha: What about the words of Allah:" Then he drew 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Zakariya'] dari [Ibnu Asywa'] dari [Amir] dari [Masruq] dia berkata, "Aku berkata kepada [Aisyah], 'Lalu kita apakah firman Allah: '(Kemudian dia mendekat, lalu bertambah dekat lagi, maka jadilah dia dekat (pada Muhammad sejarak) dua ujung busur panah atau lebih dekat (lagi). Lalu dia menyampaikan kepada hambaNya (Muhammad) apa yang telah Allah wahyukan) ' (Qs. an-Najm: 8-10). Aisyah menjawab, '(Yang dimaksud ayat tersebut) adalah Jibril. Dia mendatangi Rasulullah dalam bentuk seorang laki-laki, dan pada kesempatan ini, dia mendatangi beliau dalam bentuknya yang sesungguhnya, sehingga dia menutupi ufuk langit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>442</td></tr><tr><td>Arabic No</td><td>177.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 347</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Масрук рассказывал: «Я спросил ‘Аишу: “А где же Его слова: “Он находился от него на расстоянии двух луков или даже ближе. Он внушил Его рабу откровение” (сура «ан-Наджм», аят 9)?” Она ответила: “Это был Джибриль, который приходил к нему (Пророку ﷺ) в человеческом облике, но в этот раз он пришёл в своём настоящем облике и закрыл собой весь горизонт”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>442</td></tr><tr><td>Arabic No</td><td>177.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 347</td></tr></tbody></table></div>
 

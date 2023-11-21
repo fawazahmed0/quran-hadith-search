@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umar ibn Khaldah said:We came to AbuHurayrah who had become insolvent. He said: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abu Daud Ath Thayalisi] telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Abu Al Mu'tamir] dari [Umar bin Khaldah] ia berkata, "Kami datang kepada [Abu Hurairah] bertanya mengenai sahabat kami yang mengalami kebangkrutan, kemudian ia berkata, "Sungguh aku akan memberikan keputusan di antara kalian dengan keputusan Rasulullah shallallahu 'alaihi wasallam. Barangsiapa mengalami kebangkrutan, atau ia meninggal lalu ada seseorang yang mendapati barangnya ada dirinya, maka orang tersebut lebih berhak terhadap barang tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3523</td></tr><tr><td>Arabic No</td><td>3523</td></tr><tr><td>Reference</td><td>Book 24 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар ибн Хальда передаёт: «Мы пришли к Абу Хурайре, да будет доволен им Аллах, по поводу одного нашего товарища, который обанкротился, и он сказал: “Я вынесу по вашему делу такое же решение, которое вынес в своё время Посланник Аллаха ﷺ: если кто-то обанкротился или умер, а потом какой-то человек обнаружил у него своё имущество, он имеет больше прав на него”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3523</td></tr><tr><td>Arabic No</td><td>3523</td></tr><tr><td>Reference</td><td>Book 24 Hadith 108</td></tr></tbody></table></div>
 

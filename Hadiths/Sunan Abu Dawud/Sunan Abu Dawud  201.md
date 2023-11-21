@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik reported:(The people) stood up for the night prayer and a man stoo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] dan [Dawud bin Syabib] mereka berdua berkata; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit Al-Bunani] bahwasanya [Anas bin Malik] berkata; Telah dikumandangkan iqamat Shalat Isya, tiba-tiba ada seorang laki-laki berdiri seraya berkata, Wahai Rasulullah, saya ada perlu (kepada anda)! Maka beliau shallallahu 'alaihi wasallam berdiri berbincang-bincang dengannya, sehingga para sahabat atau sebagian mereka mengantuk, kemudian beliau melaksanakan shalat bersama mereka. Dan dia (Tsabit Al-Bunani) tidak menyebutkan tentang wudhu (dalam riwayat ini)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (376)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>201</td></tr><tr><td>Arabic No</td><td>201</td></tr><tr><td>Reference</td><td>Book 1 Hadith 201</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сабита аль-Бунани о том, что Анас ибн Малик сказал: «(Однажды), когда возвестили второй призыв /икама/ к вечерней молитве /‘ишаъ/, встал один человек и сказал: “О Посланник Аллаха, у меня есть (к тебе) одно дело”. И (Посланник Аллаха) стал беседовать с ним, пока люди или некоторые из них не начали дремать, а затем он совершил с ними молитву». И он не упомянул об омовении
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (376)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>201</td></tr><tr><td>Arabic No</td><td>201</td></tr><tr><td>Reference</td><td>Book 1 Hadith 201</td></tr></tbody></table></div>
 

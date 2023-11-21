@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:One day the Messenger of Allah (ﷺ) led the prayer. Then t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-'Ala' al-Hamdani] telah menceritakan kepada kami [Abu Usamah] dari [al-Walid, yaitu Ibnu Katsir] telah menceritakan kepadaku [Sa'id bin Abi Sa'id al-Maqburi] dari [bapaknya] dari [Abu Hurairah Radhiyallahu'anhu] dia berkata, "Rasulullah shalat mengimami kami pada suatu hari, kemudian beliau berpaling seraya bersabda, 'Wahai fulan, tidakkah kamu memperbagus shalatmu, tidakkah seorang yang shalat mencermati apabila dia shalat, bagaimana dia shalat. Dia shalat adalah untuk dirinya sendiri. Demi Allah, aku melihat dari arah belakangku sebagaimana aku melihat dari arah depanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>957</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 4 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Однажды, проведя с нами молитву, Посланник Аллаха ﷺ сказал: “О такой-то, почему ты не (стараешься) совершать молитву хорошо? Разве во время молитвы молящемуся не следует обращать внимание на то, как он молится? Он ведь молится только для себя! Клянусь Аллахом, поистине, тех, кто находится позади меня, я вижу так же, как и тех, кто находится передо мной!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>957</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 4 Hadith 119</td></tr></tbody></table></div>
 

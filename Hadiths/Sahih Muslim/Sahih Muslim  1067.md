@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abu Muawiyah] dan [Waki'] dari [al-A'masy] dari [Ubaid bin al-Hasan] dari [Ibnu Abi Aufa] dia berkata, "Dahulu Rasulullah shallallahu'alaihiwasallam apabila beliau mengangkat punggungnya dari rukuk maka beliau mengucapkan, 'Sami'allahu Liman Hamidahu, Allahumma Rabbana laka al-Hamdu Mil'u as-Samawati wa Mil'u al-Ardh wa Mil'u Ma Syi'ta Min Sya'in Ba'du. (Semoga Allah mendengar kepada orang yang memujiNya. Ya Allah, Rabb kami, segala puji bagimu sepenuh langit dan bumi serta sepenuh sesuatu yang Engkau kehendaki setelah itu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1067</td></tr><tr><td>Arabic No</td><td>476.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Ауфа говорил: «Обычно, когда Посланник Аллаха ﷺ выпрямлял спину с поясного поклона, он говорил: “Да услышит Аллах тех, кто Его восхваляет! О Аллах, Господь наш, хвала Тебе, и пусть (эта хвала) наполнит собой небеса, землю и то, что ещё Ты пожелаешь после этого”» /Сами‘а-Ллаху ли-ман хамидах. Аллахумма Раббана лякяль-хамду, мильъа-с-самавати, ва мильъа-ль-арды, ва мильъа ма шиъта мин шайъин ба‘ду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1067</td></tr><tr><td>Arabic No</td><td>476.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 229</td></tr></tbody></table></div>
 

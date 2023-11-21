@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira said:The Messenger of Allah (ﷺ) said: Whoever (woman) fumigates he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Ishaq bin Ibrahim], [Yahya] berkata, telah mengabarkan kepada kami [Abdullah bin Muhammad bin Abdullah bin Abi Farwah] dari [Yazid bin Khushaifah] dari [Busr bin Sa'id] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, 'Siapa pun wanita yang memakai parfum, maka janganlah dia hadir bersama kami dalam shalat Isya', shalat fardhu yang akhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>998</td></tr><tr><td>Arabic No</td><td>444</td></tr><tr><td>Reference</td><td>Book 4 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Пусть ни одна женщина, касавшаяся благовоний, не совершает с нами вечернюю молитву /‘иша/».Глава: О запрете израильтянкам посещать мечеть
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>998</td></tr><tr><td>Arabic No</td><td>444</td></tr><tr><td>Reference</td><td>Book 4 Hadith 160</td></tr></tbody></table></div>
 

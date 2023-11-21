@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:'Umar bin Al-Khattab asked permission of Allah's Messenger (ﷺ) t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Ibrahim] dari [Shalih bin Kaisan] dari [Ibnu Syihab] dari [Abdul Hamid bin Abdurrahman bin Zaid bin Al Khatthab] dari [Muhammad bin Sa'd] dari [Ayahnya] dia berkata; "Umar bin Khatthab radliallahu 'anhu pernah meminta izin kepada Rasulullah shallallahu 'alaihi wasallam, (saat itu) di dekat beliau ada beberapa wanita Quraisy yang sedang berbicara panjang lebar dan bertanya kepada beliau dengan suara yang lantang. Ketika Umar meminta izin kepada beliau, mereka segera berhijab (bersembunyi di balik tabir), lalu Nabi shallallahu 'alaihi wasallam mempersilahkan Umar untuk masuk. Ketika Umar masuk Rasulullah shallallahu 'alaihi wasallam tertawa sehingga Umar berkata; "Demi ayah dan ibuku, apa yang membuat anda tertawa wahai Rasulullah?" Beliau bersabda; "Aku heran dengan mereka yang ada di sisiku, ketika mendengar suaramu mereka segera berhijab." Umar berkata; "Anda adalah orang yang lebih patut untuk disegani wahai Rasulullah!. Kemudian Umar menghadapkan ke arah wanita tersebut dan berkata; "Wahai para wanita yang menjadi musuh bagi hawa nafsunya sendiri, apakah kalian segan denganku sementara kalian tidak segan kepada Rasulullah shallallahu 'alaihi wasallam?" Kami pun menjawab; "Karena kamu adalah orang yang lebih keras dan lebih kaku dari Rasulullah shallallahu 'alaihi wasallam." Rasulullah shallallahu 'alaihi wasallam bersabda: "Biarlah wahai Ibnul Khatthab, demi Dzat yang jiwaku ada di tangan-Nya, selamanya syetan tidak akan bertemu denganmu di satu jalan yang kamu lewati melainkan syetan akan melewati jalan selain jalanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6085</td></tr><tr><td>Arabic No</td><td>6085</td></tr><tr><td>Reference</td><td>Book 78 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Аби Ваккас сказал: «Однажды ‘Умар ибн аль-Хаттаб попросил разрешения войти к Посланнику Аллаха ﷺ. В это время у него сидели женщины-курайшитки, которые громко разговаривали с ним, перекрикивая его голос и просили его дать им больше того, что он уже дал. Когда ‘Умар попросил разрешения войти, женщины поспешили спрятаться за занавеской, а Пророк ﷺ позволил ему войти. Заметив, что Посланник Аллаха ﷺ улыбается, ‘Умар сказал: “Да продлит Аллах радость твою, о Посланник Аллаха, да станут мои родители выкупом за тебя!” Посланник Аллаха ﷺ сказал: “Я дивлюсь женщинам, которые сидели у меня: услышав твой голос, они поспешили спрятаться за занавеской”. ‘Умар сказал: “О Посланник Аллаха, ты более достоин того, чтобы тебя боялись”. Потом ‘Умар сказал: “О враги самих себя, неужели вы боитесь меня и не боитесь Посланника Аллаха ﷺ?!” Женщины сказали: “Да, потому что ты грубее и суровее Посланника Аллаха ﷺ!” После этого Посланник Аллаха ﷺ сказал: “О Ибн аль-Хаттаб, клянусь Тем, в Чьей руке душа моя, встретив тебя на дороге, шайтан всегда переходит на другую дорогу и идёт по ней!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6085</td></tr><tr><td>Arabic No</td><td>6085</td></tr><tr><td>Reference</td><td>Book 78 Hadith 113</td></tr></tbody></table></div>
 

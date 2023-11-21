@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jarir reported the prophet (ﷺ) as saying:When a slave runs away and reverts to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Humaid bin 'Abdurrahman] dari [Bapaknya] dari [Abu Ishaq] dari [Asy Sya'bi] dari [Jarir] ia berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Jika seorang hamba sahaya melarikan diri ke negeri kafir, maka darahnya telah halal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4360</td></tr><tr><td>Arabic No</td><td>4360</td></tr><tr><td>Reference</td><td>Book 40 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джарира: «Я слышал, как Пророк ﷺ сказал: «Если раб убежал (от мусульман в земли) многобожников, то его жизнь теряет неприкосновенность»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4360</td></tr><tr><td>Arabic No</td><td>4360</td></tr><tr><td>Reference</td><td>Book 40 Hadith 10</td></tr></tbody></table></div>
 

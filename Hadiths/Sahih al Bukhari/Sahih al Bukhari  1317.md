@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) offered the funeral prayer 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dari [Abu 'Awanah] dari [Qatadah] dari ['Atha'] dari [Jabir bin 'Abdullah radliallahu 'anhua] bahwa Rasulullah Shallallahu'alaihiwasallam melaksanakan shalat jenazah sedang aku ikut shalat berdiri pada shaf kedua atau ketiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1317</td></tr><tr><td>Arabic No</td><td>1317</td></tr><tr><td>Reference</td><td>Book 23 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, рассказывал: «Посланник Аллаха ﷺ совершил заупокойную молитву за ан-Наджаши, а я был во втором или третьем ряду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1317</td></tr><tr><td>Arabic No</td><td>1317</td></tr><tr><td>Reference</td><td>Book 23 Hadith 74</td></tr></tbody></table></div>
 

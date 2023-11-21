@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported the Messenger of Allah (ﷺ) as saying:He who finds a rak'a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; aku pernah membacakan di hadapan [Malik] dari [Ibn Syihab] dari [Abu Salamah bin Abdurahman] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa mendapatkan ruku' dalam shalat, berarti ia telah mendapatkan satu raka'at shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>607.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «Тот, кто застал один рак‘ат молитвы, тот застал эту молитву полностью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>607.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 205</td></tr></tbody></table></div>
 

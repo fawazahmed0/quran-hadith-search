@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Asim ibn Kulayb quoted his father's authority for the following statement by one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'], telah mengabarkan kepada kami [Ibnu Idris], telah mengabarkan kepada kami ['Ashim bin Kulaib], dari [ayahnya] dari [seorang laki-laki anshar], ia berkata; kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam mengantarkan jenazah, kemudian aku melihat Rasulullah shallallahu 'alaihi wasallam berada di atas kubur berwasiat kepada orang yang menggali: "Perluaslah dari sisi kedua kakinya, perluaslah dari sisi kepalanya." Kemudian tatkala kembali, beliau disambut utusan seorang wanita yang mengundang Rasulullah shallallahu 'alaihi wasallam untuk makan, kemudian beliau datang dan makanan pun dihidangkan. Lalu beliau meletakkan tangannya pada makan kemudian orang-orang meletakkan tangan mereka pada makanan, lalu mereka makan. Kemudian orang-orang melihat Rasulullah shallallahu 'alaihi wasallam mengunyah makanan di mulutnya, kemudian beliau berkata: "Saya dapatkan daging kambing yang diambil tanpa seizin pemiliknya." Kemudian wanita tersebut mengirim utusan, ia berkata; wahai Rasulullah, sesungguhnya saya telah mengirim utusan ke Baqi' untuk membelikan kambing, lalu aku tidak mendapatinya. Lalu aku mengirim utusan kepada tetanggaku yang telah membeli kambing agar ia mengirimnya kepadaku dan diganti dengan harganya, namun aku tidak mendapatkanya. Lalu aku mengirim utusan kepada isterinya, kemudian wanita tersebut mengirimkan kambing tersebut kepadaku. Lalu Rasulullah shallallahu 'alaihi wasallam berkata: "Berilah makan para tawanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3332</td></tr><tr><td>Arabic No</td><td>3332</td></tr><tr><td>Reference</td><td>Book 23 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Один человек из числа ансаров передаёт: «Однажды мы вместе с Посланником Аллаха ﷺ провожали погребальные носилки и я видел, как Посланник Аллаха ﷺ стоя у могилы, говорил тому, кто копал могилу: “Делай шире там, где будут ноги, делай шире там, где будет голова”. А на обратном пути ему повстречался посланец одной женщины, которая приглашала его на угощение. Он пошёл к ней. Когда принесли еду, он протянул к ней руку и остальные люди тоже протянули руки и стали есть. Наши отцы заметили, что Посланник Аллаха ﷺ жуёт один кусок и не проглатывает его. А потом он сказал: “Я чувствую, что это мясо овцы, взятой без разрешения её владельцев”. Тогда женщина послала сказать ему: “О Посланник Аллаха ﷺ я послала человека в аль-Бакы‘ (, где продавались овцы), чтобы мне купили овцу, однако там её купить не получилось. Тогда я послала к соседу, который купил овцу, и попросила его послать мне эту овцу, с условием, что я отдам ему её стоимость. Однако его не оказалось дома. Тогда я послала к его жене, и она послала мне овцу”. Посланник Аллаха ﷺ сказал: “Накорми этим пленных”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3332</td></tr><tr><td>Arabic No</td><td>3332</td></tr><tr><td>Reference</td><td>Book 23 Hadith 7</td></tr></tbody></table></div>
 

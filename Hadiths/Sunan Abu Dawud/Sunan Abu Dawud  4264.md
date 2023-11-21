@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: There will be civil strife (fitnah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Al Laits] berkata, telah menceritakan kepadaku [Ibnu Wahb] berkata, telah menceritakan kepadaku [Al Laits] dari [Yahya bin Sa'id] ia berkata; [Khalid bin Abu Imran] berkata dari ['Abdurrahman Ibnil Bailamani] dari ['Abdurrahman bin Hurmuz] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan terjadi fitnah, orang-orang tidak lagi dapat mendengar, bisu dan tuli dari kebenaran, barang siapa yang mencoba untuk mendekati fitnah tersebut maka ia akan tertarik ke dalamnya, dan ikut serta dalam mengumbar lisan di dalamnya seperti memukulkan pedang (dalam mengakibatkan bahaya dan luka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4264</td></tr><tr><td>Arabic No</td><td>4264</td></tr><tr><td>Reference</td><td>Book 37 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Грядёт смута слепая, глухая и немая. Кто поднимется навстречу ей, тому она поднимется навстречу, и в те дни пустить в ход язык будет то же самое, что пустить в ход меч»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4264</td></tr><tr><td>Arabic No</td><td>4264</td></tr><tr><td>Reference</td><td>Book 37 Hadith 25</td></tr></tbody></table></div>
 

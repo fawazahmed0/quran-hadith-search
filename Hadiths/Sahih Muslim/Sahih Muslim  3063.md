@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported on the authority of 'Abdullah (Allah be pleased with him) that Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Khalid bin Harits] dari [Ubaidullah] dari [Nafi'] dari [Abdullah] ia menyebutkan bahwasanya; "Rasulullah shallallahu 'alaihi wasallam tidak pernah mencium (rukun-rukun di Baitullah) kecuali Hajar Aswad dan rukun Yamani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3063</td></tr><tr><td>Arabic No</td><td>1267.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 269</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3063</td></tr><tr><td>Arabic No</td><td>1267.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 269</td></tr></tbody></table></div>
 

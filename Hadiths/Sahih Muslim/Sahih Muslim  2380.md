@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] semuanya dari [Yahya Al Qaththan] - [Zuhair] berkata- Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ubaidullah] telah mengabarkan kepadaku [Khubaib bin Abdurrahman] dari [Hafsh bin Ashim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ada tujuh golongan yang akan mendapatkan naungan Allah, pada hari dimana tidak ada naungan selain naungan-Nya. Yaitu; Seorang imam yang adil, pemuda yang tumbuh dalam ibadah kepada Allah, seorang laki-laki yang hatinya selalu terpaut dengan masjid, dua orang yang saling mencintai karena Allah yang mereka berkumpul karena-Nya dan juga berpisah karena-Nya, seorang laki-laki yang dirayu oleh wanita bangsawan lagi cantik untuk berbuat mesum lalu ia menolak seraya berkata, 'Aku takut kepada Allah.' Dan seorang yang bersedekah dengan diam-diam, sehingga tangan kanannya tidak mengetahui apa yang disedekahkan oleh tangan kirinya. Dan yang terakhir adalah seorang yang menetes air matanya saat berdzikir, mengingat dan menyebut nama Allah dalam kesunyian." Dan telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Khubaib bin Abdurrahman] dari [Hafsh bin Ashim] dari [Abu Sa'id Al Khudri] atau dari [Abu Hurairah] bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; yakni serupa dengan hadits Ubaidullah, dan ia juga mengatakan; "Dan seorang laki-laki yang hatinya selalu terpaut dengan masjid, bila ia keluar darinya hingga ia kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2380</td></tr><tr><td>Arabic No</td><td>1031.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Семерых укроет Аллах в тени Своего (престола) в тот День, когда иной тени, кроме этой, не будет: справедливого правителя; юношу, который рос, поклоняясь Аллаху; человека, сердце которого привязано к мечетям; (тех двоих, которые) любят друг друга ради Аллаха, встречаясь и расставаясь (только) ради Него; мужчину, которого позвала (к себе пожелавшая его) знатная и красивая женщина и который сказал: “Поистине, я боюсь Аллаха!”; того, кто подаёт милостыню (столь) тайно, что его левая рука не ведает, (сколько) тратит правая, а также того человека, глаза которого наполняются слезами, когда он в одиночестве поминает Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2380</td></tr><tr><td>Arabic No</td><td>1031.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 118</td></tr></tbody></table></div>
 

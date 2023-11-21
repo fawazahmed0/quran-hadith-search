@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jundub ibn Makith: The Messenger of Allah (ﷺ) sent Abdullah ibn Ghali
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin 'Amr bin Abu Al Hajjaj Abu Ma'mar], telah menceritakan kepada kami [Abdul Warits], telah menceritakan kepada kami [Muhammad bin Ishaq] dari [Ya'qub bin 'Utbah], dari [Muslim bin Abdullah] dari [Jundub bin Makits], ia berkata; Rasulullah shallallahu 'alaihi wasallam mengirim Abdullah bin Ghalib Al Laits dalam sebuah kesatuan militer, dan aku berada diantara mereka. Dan beliau memerintahkan mereka agar menyebar dalam menyerang Bani Al Mulawwih di Al Kadid. Kemudian kami keluar hingga kami sampai di Al Kadid kami bertemu dengan Al Harits bin Al Barsha' Al Laitsi lalu kami menangkapnya. Kemudian ia berkata; sesungguhnya saya datang untuk masuk Islam. Sesungguhnya aku keluar kepada Rasulullah shallallahu 'alaihi wasallam. Maka kami katakan; apabila engkau adalah seorang muslim maka para penjaga kami tidak akan membahayakanmu selama satu hari satu malam. Dan jika engkau tidak demikian maka kami akan mengikatmu dan akan kami kencangkan ikatanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2678</td></tr><tr><td>Arabic No</td><td>2678</td></tr><tr><td>Reference</td><td>Book 15 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2678</td></tr><tr><td>Arabic No</td><td>2678</td></tr><tr><td>Reference</td><td>Book 15 Hadith 202</td></tr></tbody></table></div>
 

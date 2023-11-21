@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "'Amr bin Luhai bin Qam'a bin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ishaq bin Ibrahim] telah bercerita kepada kami [Yahya bin Adam] telah mengabarkan kepada kami [Isra'il] dari [Abu Hushain] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "'Amru bin Luhay bin Qam'ah bin Khindif adalah Abu Khuza'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3520</td></tr><tr><td>Arabic No</td><td>3520</td></tr><tr><td>Reference</td><td>Book 61 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Отцом (племени) хуза‘а был ‘Амр ибн Лухайй ибн Къама‘а ибн Хиндиф»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3520</td></tr><tr><td>Arabic No</td><td>3520</td></tr><tr><td>Reference</td><td>Book 61 Hadith 30</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Jabir b. Samura who said:I heard the Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid Al Azdi] telah menceritakan kepada kami [Hammad bin Salamah] dari [Simak bin Harb] dia berkata; aku mendengar [Jabir bin Samurah] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Islam senantiasa kuat dan berkuasa sampai kedua belas khalifah." Kemudian beliau mengucapkan kata-kata yang tidak aku fahami, lantas aku bertanya kepada [ayahku], "Apa yang dikatakan beliau?" dia menjawab, "Mereka semua dari bangsa Quraisy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4708</td></tr><tr><td>Arabic No</td><td>1821.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4708</td></tr><tr><td>Arabic No</td><td>1821.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 8</td></tr></tbody></table></div>
 

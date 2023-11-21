@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid:Allah's Messenger (ﷺ) said, " He who pre pares a Ghaz
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Ma'mar] telah bercerita kepada kami ['Abdul Warits] telah bercerita kepada kami [Al Husain] berkata telah bercerita kepadaku [Yahya] berkata telah bercerita kepadaku [Abu Salamah] berkata telah bercerita kapadaku [Busr bin Sa'id] berkata telah bercerita kapadaku [Zaid bin Khalid radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang mempersiapkan (bekal) orang yang berperang di jalan Allah berarti dia telah berperang (mendapat pahala berperang). Dan barang siapa yang menjaga (menanggung urusan rumah) orang yang berperang di jalan Allah dengan baik berarti dia telah berperang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2843</td></tr><tr><td>Arabic No</td><td>2843</td></tr><tr><td>Reference</td><td>Book 56 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Зейда бин Халида аль-Джухани, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Снарядивший воина в поход на пути Аллаха сам принял в нём участие и заменивший собой участника такого похода в заботах (о его семье также) принял в нём участие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2843</td></tr><tr><td>Arabic No</td><td>2843</td></tr><tr><td>Reference</td><td>Book 56 Hadith 59</td></tr></tbody></table></div>
 

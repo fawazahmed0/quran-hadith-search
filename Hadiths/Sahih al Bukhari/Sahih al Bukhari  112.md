@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:In the year of the Conquest of Mecca, the tribe of Khuza'a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim Al Fadll bin Dukain] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari [Abu Hurairah], bahwa suku Khaza'ah telah membunuh seorang laki-laki dari Bani Laits saat hari pembesan Makkah, sebagai balasan terbunuhnya seorang laki-laki dari mereka (suku Laits). Peristiwa itu lalu disampaikan kepada Nabi shallallahu 'alaihi wasallam, beliau lalu naik kendaraannya dan berkhutbah: "Sesungguhnya Allah telah membebaskan Makkah dari pembunuhan, atau pasukan gajah." Abu Ubaidullah berkata, "Demikian Abu Nu'aim menyebutkannya, mereka ragu antara 'pembunuhan' dan 'gajah'. Sedangkan yang lian berkata, "Gajah. Lalu Allah memenangkan Rasulullah shallallahu 'alaihi wasallam dan kaum Mukminin atas mereka. Beliau bersabda: "Ketahuilah tanah Makkah tidaklah halal bagi seorangpun baik sebelumku atau sesudahku, ketahuilah bahwa sesungguhnya ia pernah menjadi halal buatku sesaat di suatu hari. Ketahuilah, dan pada saat ini ia telah menjadi haram; durinya tidak boleh dipotong, pohonnya tidak boleh ditebang, barang temuannya tidak boleh diambil kecuali untuk diumumkan dan dicari pemiliknya. Maka barangsiapa dibunuh, dia akan mendapatkan satu dari dua kebaikan; meminta tebusan atau meminta balasan dari keluarga korban." Lalu datang seorang penduduk Yaman dan berkata, "Wahai Rasulullah, tuliskanlah buatku?" beliau lalu bersabda: "Tuliskanlah untuk Abu fulan." Seorang laki-laki Quraisy lalu berkata, "Kecuali pohon Idzhir wahai Rasulullah, karena pohon itu kami gunakan di rumah kami dan di kuburan kami." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Kecuali pohon Idzhir, kecuali pohon Idzhir." Lalu dikatakan kepada Abu Abdullah, "Apa yang dituliskan untuknya?" Ia menjawab, "Khutbah tadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>112</td></tr><tr><td>Arabic No</td><td>112</td></tr><tr><td>Reference</td><td>Book 3 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что в год завоевания Мекки, (люди) из племени хуза‘а убили человека из числа бану лейс, который убил кого-то из их числа, и когда об этом сообщили Пророку ﷺ он сел на свое верховое животное, и обратившись (к людям) с проповедью, сказал: «Поистине, Аллах не допускает убийств в Мекке (или: не допустил к ней слона), однако Он дал власть над ними Посланнику Аллаха ﷺ и верующим. Поистине, никому до меня не позволялось (сражаться) в (этом городе) и никому не будет позволено это после меня! Поистине, и для меня это стало дозволенным лишь на определённое время в течение дня, а сейчас (Мекка), несомненно, (снова) является священной территорией, где нельзя ни срезать колючки, ни вырубать деревья, ни поднимать найденное, если только (человек не делает это) для того, чтобы объявить о своей находке (людям). Если же кого-нибудь убьют, то (его ближайшие родственники) могут выбирать одно из двух: либо получить выкуп /дийа/ за убитого, либо воздать убийце равным».\n(Абу Хурайра, да будет доволен им Аллах, сказал): «Тут подошёл какой-то человек из Йемена и сказал: “Запиши для меня (эти слова), о Посланник Аллаха”, и тогда он велел: “Запишите (это) для отца такого-то”. (А после этого) один мужчина из числа курайшитов воскликнул: “Кроме душистого тростника, о Посланник Аллаха, ведь мы используем его в наших домах и на наших могилах!” − и тогда Пророк ﷺ сказал: “Кроме душистого тростника, кроме душистого тростника”». \nУ Абу ‘Абдуллаха (аль-Бухари) спросили: «А что он записал для него?» Он ответил: «Он записал для него эту проповедь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>112</td></tr><tr><td>Arabic No</td><td>112</td></tr><tr><td>Reference</td><td>Book 3 Hadith 54</td></tr></tbody></table></div>
 

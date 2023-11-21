@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) (ﷺ) said, "There is a blessing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Syu'bah] dari [Abu At-Tayah] dari [Anas bin Malik radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Keberkahan selalu ada pada ubun-ubun kuda (yang digunakan untuk fii sabilillah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «В чёлках лошадей (заключена) благодать /барака/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
 

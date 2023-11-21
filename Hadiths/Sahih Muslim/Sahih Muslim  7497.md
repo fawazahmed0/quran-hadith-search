@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the rat (is the result of) metamorphosis (of a group o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kuraib Muhammad bin Al Ala'] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Muhammad] dari [Abu Hurairah] berkata: Tikus adalah perubahan wujud, tanda-tandanya adalah bila susu kambing diletakkan di depannya, ia meminumnya dan bila susu unta diletakkan dihadapannya, ia tidak mengecapnya. Lalu Ka'ab bertanya padanya: Apa kau mendengarnya dari Rasulullah Shallallahu 'alaihi wa Salam? Abu Hurairah balik bertanya: Apakah Taurat diturunkan padaku?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7497</td></tr><tr><td>Arabic No</td><td>2997.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7497</td></tr><tr><td>Arabic No</td><td>2997.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 80</td></tr></tbody></table></div>
 

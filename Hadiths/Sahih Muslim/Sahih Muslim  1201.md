@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) a dit : Quand nous saluions le Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb] serta [Ibnu Numair] dan [Abu Sa'id al-Asyajj] dan lafazh mereka saling berdekatan, mereka berkata, telah menceritakan kepada kami [Ibnu Fudhail] telah menceritakan kepada kami [al-A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] dia berkata, "Kami pernah memberi salam kepada Rasulullah shallallahu'alaihiwasallam ketika beliau sedang shalat, lalu beliau menjawab salam kami itu. (Tetapi) tatkala kami kembali dari Raja Najasyi, kami memberi salam pula kepada beliau ketika beliau sedang shalat, maka beliau tidak menjawab salam kami itu. Lalu kami tanyakan kepada beliau, 'Dahulu kami memberi salam kepadamu ketika sedang shalat, lalu kamu menjawab salam kami (mengapa sekarang kenapa tidak?) ' Beliau menjawab, 'Sesungguhnya dalam shalat harus ada suatu kesibukan yang sungguh-sungguh (khusyu') '." Telah menceritakan kepadaku [Ibnu Numair] telah menceritakan kepadaku [Ishaq bin Manshur as-Saluli] telah menceritakan kepada kami [Huraim bin Sufyan] dari [al-A'masy] dengan isnad ini hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1201</td></tr><tr><td>Arabic No</td><td>538.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Алькъамы о том, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «(Сначала,) когда мы приветствовали Пророка ﷺ, занятого молитвой, он всегда отвечал нам, но после того, как мы вернулись от негуса и обратились к нему с приветствием (в подобных обстоятельствах), он не ответил нам, и тогда мы сказали: “О Посланник Аллаха, (раньше, когда) мы приветствовали тебя во время молитвы, ты всегда отвечал нам!” И он сказал: “Поистине, во время молитвы (человек занят более важным) делом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1201</td></tr><tr><td>Arabic No</td><td>538.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 41</td></tr></tbody></table></div>
 

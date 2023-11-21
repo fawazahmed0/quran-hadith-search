@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ka’ab bin ‘Ujrah said that the Apostle of Allaah(ﷺ) came upon him (during 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Wahb bin Baqiyyah] dari [Khalid Ath Thahhan] dari [Khalid Al Hadzdza'] dari [Abu Qilabah] dari [Abdurrahman bin Abu Laila] dari [Ka'b bin 'Ujrah] bahwa Rasulullah shallAllahu wa'alaihi wa sallam melewatinya pada zaman terjadinya perjanjian Hudaibiyah. Kemudian beliau berkata: Sungguh kutu kepalamu telah mengganggumu. Ia berkata; ya. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Gundullah rambutmu, kemudian sembelihlah kambing sebagai kurban, atau berpuasalah tiga hari, atau berilah makan tiga sha' kurma kepada enam orang miskin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1814) Sahih Muslim (1201)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1856</td></tr><tr><td>Arabic No</td><td>1856</td></tr><tr><td>Reference</td><td>Book 11 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ка‘ба ибн ‘Уджры, да будет доволен им Аллах, что во времена Худайбии Посланник Аллаха ﷺ проходил мимо него и спросил: «Вши на твоей голове тебя сильно мучают?» Я ответил: «Да». Тогда Пророк ﷺ сказал: «Обрей голову, а потом зарежь овцу в искупление, или постись три дня, или накорми шесть бедняков, разделив между ними три са‘ фиников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1814) Sahih Muslim (1201)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1856</td></tr><tr><td>Arabic No</td><td>1856</td></tr><tr><td>Reference</td><td>Book 11 Hadith 136</td></tr></tbody></table></div>
 

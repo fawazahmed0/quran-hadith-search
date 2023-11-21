@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mughira b. Shu'ba reported:I was in the company of the Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib], [Abu Bakar] berkata, telah menceritakan kepada kami [Abu Muawiyah] dari [al-A'masy] dari [Muslim] dari [Masruq] dari [al-Mughirah bin Syu'bah] dia berkata, "Saya bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, maka beliau bersabda: "Wahai Mughirah, ambillah geriba, " lalu aku mengambil geriba kemudian keluar bersama beliau. Rasulullah shallallahu 'alaihi wasallam lalu menjauh hingga jauh menghilang dari pandanganku. Kemudian beliau datang dengan memakai Jubah Syam yang lengannya sempit, ketika kedua tangan beliau tidak bisa keluar (sempit) dari kedua lengan, maka beliau pun mengeluarkan kedua tangannya dari bawah jubah, lalu aku menuangkan air untuk beliau, beliau pun berwudlu sebagaimana wudlu untuk shalat. Kemudian membasuh bagian atas kedua khufnya kemudian melakukan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>629</td></tr><tr><td>Arabic No</td><td>274.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Мугыра ибн Шу‘ба сказал: «(Однажды) я находился в пути вместе с Пророком ﷺ и он спросил меня: “О Мугыра, возьми сосуд (с водой)”, и я взял его и вышел вместе с ним. (Потом я остановился, а) Посланник Аллаха ﷺ пошёл дальше, пока не скрылся от меня из виду. Он справил нужду, а затем вернулся. (В то время) он был одет в джуббу из Шама с узкими рукавами, и он попытался вытащить предплечья, но рукав (халата) был очень узок, так что он вынул руку из-под него. Я налил на (его руку воду) и он совершил омовение для молитвы, после чего он обтёр свои кожаные носки и затем совершил молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>629</td></tr><tr><td>Arabic No</td><td>274.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 96</td></tr></tbody></table></div>
 

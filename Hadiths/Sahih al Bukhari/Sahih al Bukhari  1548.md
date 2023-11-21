@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) offered four rak'at of the Zuhr prayer in Medina
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Qalabah] dari [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam melaksanakan shalat Zhuhur di Madinah empat raka'at dan shalat 'Ashar di Dzul Hulaifah dua raka'at. Dan aku mendengar mereka melakukan talbiyah dengan mengeraskan suara mereka pada keduanya (hajji dan 'umrah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ совершил полуденную молитву /зухр/ в четыре рак‘ата в Медине. А потом в Зуль-Хулейфе он совершил послеполуденную молитву /‘аср/ уже в два рак‘ата. И я слышал как сподвижники произносили громко тальбию хаджа и умры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
 

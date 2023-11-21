@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:One day the Prophet (ﷺ) ascended Safa mountain and said, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Muhammad bin Khazim] Telah menceritakan kepada kami [Al 'A'Masy] dari [Amru bin Murrah] dari [Sa'id bin Jubair] dari [Ibnu Abbas radliallahu 'anhuma] dia berkata; Suatu hari Rasulullah shallallahu 'alaihi wasallam naik ke Shofa dan berkata: Wahai orang-orang! Lalu orang-orang Quraisy pun berkumpul mendekati beliau. Mereka bertanya: Ada apa? Beliau menjawab: 'Apa pendapat kalian jika aku memberitahu kalian bahwa ada musuh yang akan menyerang kalian dipagi hari atau di sore hari, apakah kalian akan membenarkanku (mempercayaiku)? Mereka menjawab: Tentu. Lalu beliau berkata: "Sesungguhnya aku memperingatkan kalian tentang adzab yang berat di hadapan kalian. Maka Abu Lahab berkata: Apakah untuk ini engkau mengumpulkan kami?! Celakalah kamu! Maka Allah azza wa jalla menurunkan "Binasalah kedua tangan abu Lahab dan Sesungguhnya dia akan binasa." (QS. Al Lahab:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4801</td></tr><tr><td>Arabic No</td><td>4801</td></tr><tr><td>Reference</td><td>Book 65 Hadith 323</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Однажды Пророк ﷺ поднялся на (холм) ас-Сафа и (громко закричал): “Йа сабаха-ху!” Вокруг него собрались курайшиты, которые стали спрашивать: “Что случилось?” Он спросил (их): “Скажите, если бы я сообщил вам, что утром или вечером на вас нападёт враг, поверили бы вы мне?” Они ответили: “Да”. Тогда он воскликнул: “Я же, поистине, предупреждаю вас о суровом наказании!” (Услышав его слова,) Абу Ляхаб воскликнул: “Чтоб ты пропал! И ради этого ты нас собрал?!” — после чего Аллах ниспослал (суру, в которой сказано): “Да сгинут руки Абу Ляхаба…!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4801</td></tr><tr><td>Arabic No</td><td>4801</td></tr><tr><td>Reference</td><td>Book 65 Hadith 323</td></tr></tbody></table></div>
 

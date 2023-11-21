@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A man from Thaqif on the authority of his father reported:I saw the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Isma'il] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ibnu Abi Najih] dari [Mujahid] dari [seorang lelaki dari Tsaqif] dari [Ayahnya] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah buang air kecil kemudian memercikkan air kepada kemaluan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Муджахида о том, что один человек и племени Сакафи рассказывал со слов своего отца: «Я видел, как Посланник Аллаха ﷺ справил малую нужду и затем побрызгал водой на свой половой орган»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
 

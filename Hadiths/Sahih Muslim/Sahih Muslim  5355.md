@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:While I was sitting in my house there happened to pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], Telah menceritakan kepada kami [Yazid bin Harun] Telah mengabarkan kepada kami [Hajjaj bin Abu Zainab], Telah menceritakan kepadaku [Abu Sufyan Thalhah bin Nafi'] dia berkata; Aku mendengar [Jabir bin 'Abdullah] radliallahu 'anhu berkata: "Pada suatu hari aku sedang duduk di rumahku, tiba-tiba Rasulullah shallallahu 'alaihi wasallam lewat. Beliau memberi isyarat kepadaku lalu aku berdiri menemui beliau. Beliau memegang tanganku (mengajakku pergi bersama beliau). Kami berjalan hingga sampai ke rumah salah seorang isteri beliau. Beliau masuk dan mempersilahkanku pula masuk. Karena itu aku masuk sampai ruangan dalam. Beliau bertanya kepada isterinya: 'Adakah kamu sedia makanan? ' Jawab mereka; 'Ada! ' Maka dibawanya tiga buah roti lalu dihidangkannya ke hadapan Rasulullah shallallahu 'alaihi wasallam. Beliau ambil sebuah lalu di letakkannya dihadapan beliau, kemudian diambilnya sebuah lagi lalu diletakkannya di hadapanku. Sesudah itu yang ketiga dipatahkan, separuhnya diambil oleh beliau dan separuhnya lagi diletakkannya di hadapanku. Kemudian beliau bertanya: 'Apakah ada lauk pauk? ' Mereka Menjawab; 'Tidak ada apa-apa selain cuka.' Kata beliau: 'Bawalah kemari! Sebaik-baik lauk adalah cuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5355</td></tr><tr><td>Arabic No</td><td>2052.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5355</td></tr><tr><td>Arabic No</td><td>2052.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 229</td></tr></tbody></table></div>
 

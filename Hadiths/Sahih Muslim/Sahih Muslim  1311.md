@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali b. 'Abual-Rahman al-Mu'awi reported:'Abdullah b. Umar saw me playing with pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], dia berkata; Aku pernah membacakan pada [Malik] dari [Muslim bin Abu Maryam] dari [Ali bin Abdurrahman Al Mu'awi], dia berkata; [Abdullah bin Umar] pernah melihatku bermain-main kerikil ketika shalat. Seusai shalat, dia langsung melarangku sambil berujar; "Lakukanlah sebagaimana Rasulullah shallallahu 'alaihi wasallam lakukan." Tanyaku; "Bagaimana Rasulullah melakukan?" Katanya; "Jika beliau duduk dalam shalat, beliau meletakkan telapak tangan kanannya diatas paha kanannya dan beliau genggam semua jari jemarinya sambil memberi isyarat dengan jari sebelah jempol (telunjuk), beliau juga meletakkan telapak tangan kirinya diatas paha kirinya." Telah menceritakan kepada kami [Ibnn Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Muslim bin Abu Maryam] dari [Ali bin Abdurrahman Al Mu'awi], katanya; "Aku pernah shalat disamping [Ibn Umar], lantas dia menyebutkan seperti hadis Malik dengan sedikit tambahan, kata Sufyan, [Yahya bin Said] menceritakan kepada kami, kemudian dari [Muslim] menceritakannya kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1311</td></tr><tr><td>Arabic No</td><td>580.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Али ибн ‘Абдуррахман аль-Му‘ави сказал: «Однажды ‘Абдуллах ибн ‘Умар увидел, как я играюсь с мелкими камешками во время молитвы. Закончив молиться, он запретил мне поступать так и сказал: “Делай, как делал Посланник Аллаха ﷺ”. Я спросил: “А как поступал Посланник Аллаха ﷺ?” Он ответил: “Когда он садился во время молитвы, он возлагал правую кисть с согнутыми пальцами и вытянутым указательным на правое бедро, а левую кисть возлагал на левое бедро”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1311</td></tr><tr><td>Arabic No</td><td>580.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 149</td></tr></tbody></table></div>
 

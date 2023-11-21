@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (raa) a dit : Nous étions partis avec l'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, "Saya membaca di hadapan [Malik] dari [Abdurrahman bin al-Qasim] dari [bapaknya] dari [Aisyah radhiyallahu'anha] bahwa dia berkata, "Kami pernah keluar bersama-sama Rasulullah Shallallahu'alaihiwasallam dalam sebagian perjalanan beliau. Hingga ketika kami tiba di al-Baida' atau di Zatul Jaisy, kalung leherku terputus dan Rasulullah Shallallahu'alaihiwasallam pun mulai mencarinya. Orang-orang juga turut mencarinya bersama Rasulullah Shallallahu'alaihiwasallam sedangkan mereka tidak di tempat yang ada airnya dan mereka tidak mempunyai air sedikit pun. Kemudian orang-orang datang menemui Abu Bakar lalu berkata, 'Tidakkah kamu melihat sesuatu yang telah dilakukan oleh Aisyah? ' Dia telah menyebabkan Rasulullah Shallallahu'alaihiwasallam, dan orang-orang mencari kalung lehernya sedangkan mereka tidak di tempat yang ada airnya dan mereka juga tidak mempunyai air sedikit pun? Kemudian Abu Bakar mendatangiku dan ketika itu Rasulullah Shallallahu'alaihiwasallam. sedang tidur dengan meletakkan kepala beliau di atas pahaku. Dia berkata, 'Kamu telah menahan Rasulullah Shallallahu'alaihiwasallam dan orang-orang, sedangkan mereka semuanya tidak berada di tempat yang ada airnya dan mereka juga tidak mempunyai air sedikit pun'. Aisyah berkata, 'Abu bakar mencelaku dengan kata-kata "Maa-syaa-Allaah" hingga dia memencet pangkal pahaku dengan tangannya. Aku tidak dapat bergerak karena Rasulullah Shallallahu'alaihiwasallam berada di atas pahaku. Rasulullah Shallallahu'alaihiwasallam tidur hingga keesokan harinya bangun tanpa ada air sedikit pun. Kemudian Allah menurunkan ayat tayamum. Mereka pun bertayamum. Sehubungan dengan itu, Usaid bin al-Hudhair, salah seorang pemimpin berkata, "Ini bukanlah keberkatan yang pertama kali bagi kamu, wahai keluarga Abu Bakar! Lalu Aisyah pun berkata, "Kemudian kami mencari unta yang aku naiki maka kami menemui kalung itu di bawahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>816</td></tr><tr><td>Arabic No</td><td>367.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Мы выступили в путь вместе с Посланником Аллаха ﷺ, а когда достигли Байды (или: Зат-аль-Джайша), у меня порвалась (нить) ожерелья. (Узнав об этом), Посланник Аллаха ﷺ остановился (в этом) безводном (месте), чтобы найти его, и вместе с ним остановились (все) люди, у которых не было воды. Через некоторое время люди пришли к Абу Бакру и стали говорить ему: “Разве ты не видишь, что наделала ‘Аиша? Она заставила Посланника Аллаха ﷺ и (всех остальных) людей, у которых нет воды, задержаться в безводной местности!” (После этого) Абу Бакр пришёл (ко мне), когда Посланник Аллаха ﷺ спал, положив голову мне на бедро, и воскликнул: “Ты задержала Посланника Аллаха ﷺ и (других) людей, не имеющих воды, там, где её нет!”». ‘Аиша сказала: «Абу Бакр принялся упрекать меня и высказал всё, что было угодно Аллаху, а потом стал тыкать меня рукой в бок, мне же мешало двинуться с места лишь то, что (голова) Посланника Аллаха ﷺ покоилась на моём бедре. А когда утром Посланник Аллаха ﷺ, у которого не было воды, проснулся, Аллах ниспослал аят об очищении, после чего люди совершили такое очищение /ат-таяммум/. Что же касается Усайда ибн Худайра, который был одним из старшин, то он воскликнул: “О (члены) семьи Абу Бакра! Вы не в первый раз (послужили причиной ниспослания того, что стало) благословенным (для мусульман)!”». ‘Аиша сказала: «А потом мы подняли верблюда, на котором я ехала, и нашли ожерелье под ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>816</td></tr><tr><td>Arabic No</td><td>367.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 137</td></tr></tbody></table></div>
 

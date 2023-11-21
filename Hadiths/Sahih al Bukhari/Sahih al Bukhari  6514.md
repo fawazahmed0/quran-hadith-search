@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "When carried to his grave
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Abdullah bin Abu Bakar bin Amru bin Hazm] ia mendengar [Anas bin Malik] menuturkan, Rasulullah Shallallahu'alaihiwasallam bersabda: "Mayyit diiringi tiga hal, yang dua akan kembali sedang yang satu terus menyertainya, ia diiringi oleh keluarganya, hartanya dan amalnya. Harta dan keluarganya akan kembali, sedang amalnya akan terus tetap bersamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6514</td></tr><tr><td>Arabic No</td><td>6514</td></tr><tr><td>Reference</td><td>Book 81 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Трое последуют за покойным, но назад же вернутся (только) двое, а одно останется с ним. За ним последуют (члены) его семьи, его имущество и его дела. Вернутся назад (члены) его семьи и его имущество, а дела его останутся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6514</td></tr><tr><td>Arabic No</td><td>6514</td></tr><tr><td>Reference</td><td>Book 81 Hadith 103</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Maymoûna, la femme du Prophète (raa), le Prophète (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru an-Naqid] dan [Zuhair bin Harb] (tahwilSanad) dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] semuanya meriwayatkan dari [Ibnu Uyainah] berkata [Amru], telah menceritakan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Sa'id] dan ['Abbad bin Tamim] dari [pamannya] Seorang lelaki mengadukan kepada Nabi Shallallahu'alaihiwasallam. bahwa dia seolah-olah mendapati sesuatu (kentut) ketika shalatnya. Beliau bersabda, "Dia tidak perlu membatalkan shalatnya sehingga dia mendengar suara atau mencium bau." [Abu Bakar] dan [Zuhair bin Harb] berkata dalam riwayat keduanya, "Dia adalah Abdullah bin Zaid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>804</td></tr><tr><td>Arabic No</td><td>361</td></tr><tr><td>Reference</td><td>Book 3 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аббада ибн Тамима, что его дядя сказал: «Один человек пожаловался Пророку ﷺ о том, что он что-то чувствует во время молитвы, (что он впадает в сомнения)». (Пророк ﷺ) сказал: «Пусть не бросает (или: не прекращает) (молитву), пока не услышит звук или не почувствует запах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>804</td></tr><tr><td>Arabic No</td><td>361</td></tr><tr><td>Reference</td><td>Book 3 Hadith 125</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sulaiman b. Surad reported that two persons abused each other in the presence of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin 'Ali Al Jahdhami]; Telah menceritakan kepada kami [Abu Usamah] Aku mendengar [Al A'masy] berkata; Aku mendengar ['Adi bin Tsabit] berkata; Telah menceritakan kepada kami [Sulaiman bin Shurad] dia berkata; "Pada suatu hari ada dua orang laki-laki yang saling mencaci maki di sisi Rasulullah shallallahu 'alaihi wasallam. Kemudian salah seorang di antara keduanya marah dan merah mukanva. Lalu Rasulullah melihatnya dan berkata: 'Sungguh aku mengetahui satu kalimat yang seandainya diucapkan, maka marahnya akan hilang. Audzu billahi minasy-syaithaainir rajiim (Aku berlindung kepada Allah dari godaan syetan yang terkutuk).' Setelah itu, orang yang marah itu didekati oleh seseorang yang telah mendengar ucapan Rasulullah shallallahu 'alaihi wasallam dan ia berkata kepadanya; 'Mengertikah kamu apa yang telah diucapkan Rasulullah shallallahu 'alaihi wasallam tadi? Sesungguhnya Rasulullah telah bersabda: 'Sungguh aku mengetahui satu kalimat yang seandainya diucapkan, maka nafsu amarahnya akan hilang. Aku berlindung kepada Allah dari godaan syetan yang terkutuk.' Orang laki-laki yang marah tersebut berkata; 'Apakah kamu menganggap saya sudah gila? ' Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Al A'masy] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6647</td></tr><tr><td>Arabic No</td><td>2610.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6647</td></tr><tr><td>Arabic No</td><td>2610.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 144</td></tr></tbody></table></div>
 

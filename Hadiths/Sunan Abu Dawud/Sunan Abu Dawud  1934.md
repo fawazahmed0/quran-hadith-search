@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Mas’ud said “ I never saw the Apostle of Allaah(ﷺ) observe a prayer ou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] bahwa [Abdul Wahid bin Ziyad] dan [Abu 'Awanah] dan [Abu Mu'awiyah] telah menceritakan kepada mereka dari [Al A'masy] dari ['Imarah] dari [Abdurrahman bin Yazid] dari [Ibnu Mas'ud], ia berkata; aku tidak melihat Rasulullah shallAllahu wa'alaihi wa sallam melakukan shalat apapun kecuali pada waktunya kecuali dengan menjama', sesungguhnya beliau menjama' Shalat Maghrib dan Isya' dan melakukan shalat Subuh keesokan hari sebelum waktunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1682) Sahih Muslim (1289)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1934</td></tr><tr><td>Arabic No</td><td>1934</td></tr><tr><td>Reference</td><td>Book 11 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Мас‘уд, да будет доволен им Аллах, передаёт: «Я никогда не видел, чтобы Посланник Аллаха ﷺ совершал молитву в иное время, кроме отведённого для неё, если не считать пребывания в Муздалифе. Там он соединял закатную /магриб/ и вечернюю /‘иша/ молитвы. А утреннюю молитву /фаджр/ на следующий день он совершал раньше обычного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1682) Sahih Muslim (1289)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1934</td></tr><tr><td>Arabic No</td><td>1934</td></tr><tr><td>Reference</td><td>Book 11 Hadith 214</td></tr></tbody></table></div>
 

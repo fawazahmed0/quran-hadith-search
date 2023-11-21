@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma':The Prophet (ﷺ) said, "I will be at my Lake-Fount (Kauthar) wai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] Telah menceritakan kepada kami [Bisyir bin As Sari] telah menceritakan kepada kami [Nafi' bin Umar] dari [Ibnu Abi Mulaikah] mengatakan, [Asma'] mengatakan dari Nabi shallallahu 'alaihi wasallam; "aku berada di telagaku menunggu-nunggu orang yang datang kepadaku, tiba-tiba orang di belakangku ditangkap dan dijauhkan dariku sehingga aku berteriak-teriak; 'Itu umatku, itu umatku! ' Tiba-tiba ada suara menjawab; 'Kamu tidak tahu! Mereka berjalan dengan melakukan bid'ah, maksiyat, dan dosa besar'." Ibnu Abi Mulaikah terus memanjatkan doa; Ya Allah, aku berlindung kepada-MU dari berbalik ke belakang atau terkena hantaman fitnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7048</td></tr><tr><td>Arabic No</td><td>7048</td></tr><tr><td>Reference</td><td>Book 92 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Асма (бинт Абу Бакр), да будет доволен ею Аллах, передаёт, что Пророк ﷺ сказал: «Находясь у своего водоёма (хауд), я буду ждать кто прибудет ко мне. Но, некоторых людей отведут от меня. Тогда я скажу: “Моя община”, но будет сказано: “Ты не знаешь, ведь они обратились вспять”».\nИбн абу Мулейка сказал: «О Аллах, мы просим у Тебя защиты от того, чтобы обратится вспять или от того, чтобы быть испытанными»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7048</td></tr><tr><td>Arabic No</td><td>7048</td></tr><tr><td>Reference</td><td>Book 92 Hadith 1</td></tr></tbody></table></div>
 

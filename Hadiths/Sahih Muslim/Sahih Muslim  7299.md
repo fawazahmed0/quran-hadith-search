@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I heard Allah's Messenger (ﷺ) as saying: The (system) of night
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Al Jahdari] dan [Abu Ma'nu Zaid bin Yazid Ar Raqasyi] teks milik Abu Ma'nu, keduanya berkata: Telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Abdulhamid bin Ja'far] dari [Al Aswad bin Al Ala'] dari [Abu Salamah] dari [Aisyah] berkata: Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Malam dan siang itu tidak akan lenyap hingga Laata dan 'Uzza disembah." Aku berkata: Wahai Rasulullah, aku mengira hal itu ketika Allah menurunkan ayat: "Dialah yang Telah mengutus RasulNya (dengan membawa) petunjuk (Al Quran) dan agama yang benar untuk dimenangkanNya atas segala agama, walaupun orang-orang musyrikin tidak menyukai" (At Taubah: 33) bahwa ia telah sempurna. Beliau bersabda: "Sesungguhnya hal itu akan terjadi dengan kehendak Allah, kemudian Dia akan mengirim sebuah angin yang lembut hingga Dia mewafatkan setiap orang yang di dalam hatinya terdapat keimanan meski hanya sebesar biji sawi, lalu yang tersisa hanyalah orang-orang yang di dalam dirinya tidak ada kebaikan sedikitpun sehingga mereka kembali kepada agama nenek moyang mereka." Telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abu Bakar Al Hanafi] telah menceritakan kepada kami [Abdul Hamid bin Ja'far] dengan sanad ini dengan matan serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7299</td></tr><tr><td>Arabic No</td><td>2907.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша (да будет доволен ею Аллах) сказала:(Однажды) я услышала, как Посланник Аллаха ﷺ говорил: «Не пройдут ещё ночь и день, как аль-Лат и аль-‘Уззе (снова) ста­нут поклоняться», и сказала (ему): «О Посланник Аллаха, а когда Аллах ниспослал (аят, где сказано): “Он Тот, Кто направил Своего посланника с руководством и религией истины, чтобы возвы­сить её над любой (иной) религией, даже если это и ненавистно многобожникам” (ат-Тауба, 9:33), я подумала, что это свершится». (На это Пророк ﷺ) сказал: «Из этого (свершится) то, что пожелает Аллах, а потом Аллах пошлёт благой ветер и упокоит каждого (человека), в сердце которого будет веры (хотя бы на вес) горчичного зерна, (после чего) останутся те, в ком не будет блага, и они вернутся к ре­лигии своих отцов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7299</td></tr><tr><td>Arabic No</td><td>2907.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 65</td></tr></tbody></table></div>
 

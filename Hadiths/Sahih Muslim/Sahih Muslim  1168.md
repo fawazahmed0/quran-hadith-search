@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: I have been commissioned
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu ath-Thahir] dan [Harmalah] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] dari [Sa'id bin al-Musayyab] dari [Abu Hurairah ra] dia berkata, Rasulullah shallallahu'alaihiwasallam bersabda, "Aku diutus dengan membawa Jawami' al-Kalim dan aku ditolong dengan perasaan takut (yang dihunjamkan di dada-dada musuhku), dan ketika aku tidur aku diberi kunci-kunci gudang penyimpanan bumi, lalu diletakkan di hadapanku." Abu Hurairah berkata, "Lalu Rasulullah Shallallahu'alaihiwasallam pergi, dan kamu berusaha mengeluarkan sesuatu yang ada di dalamnya." Dan telah menceritakan kepada kami [Hajib bin al-Walid] telah menceritakan kepada kami [Muhammad bin Harb] dari [az-Zubaidi] dari [az-Zuhri] telah mengabarkan kepadaku [Sa'id bin al-Musayyab] dan [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah ra] berkata, "Saya mendengar Rasulullah shallallahu'alaihiwasallam bersabda semisal hadits Yunus. Telah menceritakan kepada kami [Muhammad bin Rafi'] dan ['Abd bin Humaid] keduanya berkata, telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] dari [Ibnu al-Musayyab] dan [Abu Salamah] dari [Abu Hurairah radhiyallahu'anhu] dari Nabi Shallallahu'alaihiwasallam dengan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1168</td></tr><tr><td>Arabic No</td><td>523.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Я был направлен (к людям) с краткими словами, в которые вкладывается много смысла /джавами‘ аль-кялим/, и мне была оказана помощь страхом, (который охватил сердца моих врагов), а когда я спал, мне принесли ключи от сокровищниц земли и вложили их мне в руку».Абу Хурайра сказал: «И Посланник Аллаха ﷺ ушёл, а вы извлекаете (эти сокровища)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1168</td></tr><tr><td>Arabic No</td><td>523.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 8</td></tr></tbody></table></div>
 

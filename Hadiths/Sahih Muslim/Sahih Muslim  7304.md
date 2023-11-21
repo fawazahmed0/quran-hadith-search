@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The world would not come 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Umar bin Aban] dan [Washil bin Abdula'la], keduanya berkata: telah menceritakan kepada kami [Muhammad bin Fudlai] dari [Abu Isma'il Al Aslami] dari [Abu Hazim] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Demi Dzat yang jiwaku berada ditanganNya, dunia tidak akan lenyap hingga suatu masa mendatangi manusia dimana orang yang membunuh tidak mengerti karena alasan apa ia membunuh dan orang yang terbunuh juga tidak mengerti atas dasar apa ia dibunuh." Dikatakan: Bagaimana itu terjadi? Beliau menjawab: "Pembunuhan, orang yang membunuh dan yang dibunuh ada dineraka." Disebutkan dalam riwayat Ibnu Aban: Ia berkata: Ia adalah Yazid bin Kaisan dari Abu Isma'il, ia tidak menyebut: Al Aslami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7304</td></tr><tr><td>Arabic No</td><td>2908.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7304</td></tr><tr><td>Arabic No</td><td>2908.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 70</td></tr></tbody></table></div>
 

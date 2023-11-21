@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qilaba:Once Malik bin Huwairith said to his friends, "Shall I show 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Qilabah] dari [Malik bin Al Huwairits] ia berkata kepada para sahabatnya, "Maukah kalian aku sampaikan cara shalat Rasulullah shallallahu 'alaihi wasallam?" padahal saat itu bukan pada waktu shalat. Malik kemudian berdiri lalu rukuk dan bertakbir, kemudian mengangkat kepalanya lalu berdiri dan berdiam sejenak. Kemudian dia sujud, lalu mengangkat kepalanya, lalu (duduk) sejenak. Dia shalat seperti shalatnya 'Amru bin Salamah, guru kita ini." Ayyub berkata, "Dia mengerjakan sesuatu yang tidak pernah aku lihat orang-orang melakukannya, dia duduk pada setiap akan berdiri ke rakaat ketiga dan keempat. Maka kami menemui Nabi shallallahu 'alaihi wasallam dan berdiam di sisi beliau. Beliau kemudian bersabda: "Jika kalian kembali kepada keluarga kalian, maka shalatlah dengan cara ini pada waktu begini, dan shalat ini pada waktu begini. Jika telah datang waktu shalat maka hendaklah seseorang dari kalian adzan, dan hendaklah yang mengimami shalat adalah yang paling tua di antara kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>818</td></tr><tr><td>Arabic No</td><td>818</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Кылябы, что Малик ибн Хууэйрис сказал своим друзьям: «“Не сообщить ли мне вам, какой была молитва Посланника Аллаха ﷺ?”, — и это было не во время молитвы. Он немного постоял, затем совершил поясной поклон произнеся такбир, затем поднял голову и немного постоял, затем совершил земной поклон, затем (посидел) немного, подняв голову». И так он совершил молитву подобной молитве нашего шейха ‘Амра ибн Абу Салимы. Сказал Аюб: «Он делал то, чего я не видел, чтобы они это делали: он сидел между третьим и четвертым рак‘атом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>818</td></tr><tr><td>Arabic No</td><td>818</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

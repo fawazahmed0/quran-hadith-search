@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Some people asked Allah's Messenger (ﷺ) about the fore-tellers
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Makhlad bin Yazid] telah mengabarkan kepada kami [Ibnu Juraij], [Ibnu Syihab] berkata; telah mengabarkan kepadaku [Yahya bin 'Urwah] bahwa dia mendengar [Urwah] berkata; [Aisyah] berkata; "Orang-orang bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai paranormal (dukun), maka beliau bersabda kepada mereka: "Sesungguhnya mereka tidak (mengetahui) apa-apa." Mereka berkata; "Wahai Rasulullah, terkadang pembicaraan mereka benar." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Ucapan yang benar itu adalah hasil curian jin, kemudian ia perdengarkan ke telinga para wali-walinya sebagaimana ayam betina bersuara, kemudian mereka menambah-nambahi dengan seratus kebohongan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6213</td></tr><tr><td>Arabic No</td><td>6213</td></tr><tr><td>Reference</td><td>Book 78 Hadith 237</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Некоторые) люди спросили Посланника Аллаха ﷺ о прорицателях, на что он ответил: “Они — ничто!” Они сказали: “О Посланник Аллаха, но ведь (иногда) они рассказывают какую-то вещь, которая оказывается правдой!” Пророк ﷺ сказал: “Эти слова истины джинн крадёт (с небес), а затем кудахчет в ухо своего товарища, подобно тому, как кудахчет курица. А те, в свою очередь, примешивают к ним сто (слов) лжи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6213</td></tr><tr><td>Arabic No</td><td>6213</td></tr><tr><td>Reference</td><td>Book 78 Hadith 237</td></tr></tbody></table></div>
 

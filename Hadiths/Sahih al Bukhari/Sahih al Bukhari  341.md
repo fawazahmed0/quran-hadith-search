@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur Rahman bin Abza:'Ammar said to 'Umar "I rolled myself in the dus
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Syu'bah] dari [Al Hakam] dari [Dzar] dari [Ibnu 'Abdurrahman bin Abza] dari ['Abdurrahman bin Abza] ia berkata; [Ammar] berkata kepada Umar, "Aku bergulingan (di atas pasir) lalu menemui Nabi shallallahu 'alaihi wasallam. Maka beliau pun bersabda: "Cukup bagimu (mengusap debu) pada muka dan kedua telapak tangan." Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Dzar] dari [Ibnu 'Abdurrahman] dari ['Abdurrahman bin Abza] ia berkata, "Aku melihat Umar ketika [Ammar] bertanya kepadanya….lalu ia menyebutkan hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 7 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абду-р-Рахман (ибн Абза) сказал:\n— ‘Аммар сказал ‘Умару: «Я катался по песку, после пришёл к Пророку ﷺ и он сказал: “Тебе достаточно было (протереть себе) лицо и кисти рук”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 7 Hadith 8</td></tr></tbody></table></div>
 

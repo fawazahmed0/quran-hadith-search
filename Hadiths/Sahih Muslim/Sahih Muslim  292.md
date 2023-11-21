@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Hammam b. al-Harith:We were sitting with Hudh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah], dan [Waki'] dari [al-A'masy]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Minjab bin al-Harits at-Tamimi] dan lafazh tersebut miliknya, telah mengabarkan kepada kami [Ibnu Mushir] dari [al-A'masy] dari [Ibrahim] dari [Hammam bin al-Harits] dia berkata, "Kami pernah duduk-duduk bersama Hudzaifah di masjid, maka seorang laki-laki datang hingga duduk menghadap kami. Lalu dikatakan kepada Hudzaifah, 'Sesungguhnya orang ini mengangkat suatu berita kepada penguasa.' Maka [Hudzaifah] berkata dengan maksud agar dia mendengarnya, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak masuk surga orang yang suka mengadu domba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>292</td></tr><tr><td>Arabic No</td><td>105.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Хаммам ибн аль-Харис сказал: «(Однажды, когда) мы вместе с Хузейфой сидели в мечети, (туда) зашёл один человек и подсел к нам. Хузейфе сказали: «Этот (человек) передаёт правителю (то, о чём люди говорят между собой)». Тогда Хузейфа сказал так, чтобы тому было слышно: «Я слышал, как Посланник Аллаха ﷺ сказал: “Сплетник /каттат/ не войдёт в Рай”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>292</td></tr><tr><td>Arabic No</td><td>105.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 198</td></tr></tbody></table></div>
 

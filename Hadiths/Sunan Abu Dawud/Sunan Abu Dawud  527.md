@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al-Mutsanna] telah menceritakan kepadaku [Muhammad bin Jahdlam] telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Umarah bin Ghaziyyah] dari [Habib bin Abdurrahman bin Isaf] dari [Hafsh bin Ashim bin Umar] dari [Ayahnya] dari [Kakeknya, Umar bin Al-Khaththab radliallahu 'anhu] bahwasanya Rasulullah Shallallahu alaihi wasallam bersabda: "Apabila muadzin mengucapkan Allahu Akbar, Allahu Akbar, maka hendaklah salah seorang dari kalian mengucapkan juga Allahu Akbar, Allahu Akbar, kemudian apabila muadzin mengucapkan Asyhadu alla ilaha illallah, maka hendaklah dia mengucapkan asyhadu alla ilaha illallah. Kemudian Apabila muadzin mengucapkan Asyhadu anna Muhammadarrasulullah, maka hendaklah dia mengucapkan asyhadu anna Muhammadarrasulullah. Kemudian Apabila muadzin mengucapkan hayya 'alashshalah, maka hendaklah dia mengucapkan la haula wala quwwata illa billah. Kemudian Apabila muadzin mengucapkan hayya 'alal falah, maka hendaklah dia mengatakan la haula wala quwwata illa billah. Kemudian Apabila muadizn mengucapkan Allahu akbar Allahu akbar, maka hendaklah dia mengucapkan Allahu Akbar Allahu akbar. Kemudian apabila muadizn mengucapkan la ilaha illallah, maka hendaklah dia mengucapkan la ilaha illallah dari dalam hatinya, niscaya dia akan masuk surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (385)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>527</td></tr><tr><td>Arabic No</td><td>527</td></tr><tr><td>Reference</td><td>Book 2 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Когда муаззин скажет: “Аллаху Акбар, Аллаху Акбар”, и кто-нибудь из вас скажет: “Аллаху Акбар, Аллаху Акбар”. Затем, когда он скажет: “Ашхаду ан ля иляха илля-Ллах”, (и кто-нибудь из вас) скажет: “Ашхаду ан ля иляха илля-Ллах”. Затем, когда он скажет: “Ашхаду анна Мухаммадан расулю-Ллах”, скажет: ‘Ашхаду анна Мухаммадан расулю-Ллах”. Когда он скажет: “Хаййа ‘аля-с-салях”, скажет: “Ля хауля ва ля куввата илля би-Ллях” /Нет силы и мощи, кроме как у Аллаха/. Когда он скажет: “Хаййа ‘аляль-фалях”, скажет: “Ля хауля ва ля куввата илля би-Ллях”. Затем, когда он скажет: “Аллаху Акбар, Аллаху Акбар”, скажет: “Аллаху Акбар, Аллаху Акбар”. Затем, когда он скажет: “Ля иляха илля-Ллах”, скажет: “Ля иляха илля-Ллах” от чистого сердца, то он войдет в Рай»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (385)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>527</td></tr><tr><td>Arabic No</td><td>527</td></tr><tr><td>Reference</td><td>Book 2 Hadith 137</td></tr></tbody></table></div>
 

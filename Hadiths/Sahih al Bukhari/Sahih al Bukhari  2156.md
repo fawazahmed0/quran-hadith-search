@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Aisha wanted to buy Barirah and he (the Prophet) we
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hassan bin 'Abbad] telah menceritakan kepada kami [Hammam] berkata, aku mendengar [Nafi'] menceritakan dari ['Abdullah bin 'Umar radliallahu 'anhu] bahwa 'Aisyah radliallahu 'anha menawar Barirah lalu Beliau shallallahu 'alaihi wasallam keluar untuk menunaikan shalat. Setelah Beliau datang, 'Aisyah radliallahu 'anha berkata: "Mereka enggan untuk menjualnya kecuali meminta syarat wala' tetap milik mereka". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya wala" (untuk budak) bagi siapa yang membebaskannya". Aku bertanya kepada Nafi': "Apakah suaminya orang merdeka atau budak?" Dia menjawab: "Aku tidak diberitahu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2156</td></tr><tr><td>Arabic No</td><td>2156</td></tr><tr><td>Reference</td><td>Book 34 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды ‘Аиша, да будет доволен ею Аллах, решила выкупить Бариру (чтобы потом отпустить её на волю). Пророк ﷺ отправился совершать молитву, а когда вернулся она сказала: «Они отказались её продавать, если покровительство (аль-уаля) не останется за ними». Тогда Пророк ﷺ сказал: «Право покровительства принадлежит лишь тому, кто освободил раба!» Хаммам (один из передатчиков хадиса) сказал: «Я спросил Нафи‘а: «Её муж был свободным или рабом?» Он ответил: «Откуда мне знать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2156</td></tr><tr><td>Arabic No</td><td>2156</td></tr><tr><td>Reference</td><td>Book 34 Hadith 107</td></tr></tbody></table></div>
 

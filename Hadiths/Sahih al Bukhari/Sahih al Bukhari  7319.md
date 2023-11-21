@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The Hour will not be established t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ibn Abu Dzi'b] dari [Al Maqburi] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam bersabda: "Hari kiamat tak bakalan terjadi hingga umatku meniru generasi-generasi sebelumnya, sejengkal demi sejengkal, sehasta demi sehasta." Ditanyakan, "Wahai Rasulullah, seperti Persi dan Romawi?" Nabi menjawab: "Manusia mana lagi selain mereka itu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7319</td></tr><tr><td>Arabic No</td><td>7319</td></tr><tr><td>Reference</td><td>Book 96 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Не наступит Час этот, пока (члены) моей общины не станут следовать (по стопам) живших до них пядь за пядью и локоть за локтем». (Люди) спросили: «О Посланник Аллаха(, ты имеешь в виду) персов и византийцев?» — и Пророк ﷺ сказал: «А кто же ещё это может быть?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7319</td></tr><tr><td>Arabic No</td><td>7319</td></tr><tr><td>Reference</td><td>Book 96 Hadith 49</td></tr></tbody></table></div>
 

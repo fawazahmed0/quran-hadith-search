@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: At the end of time there wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah] berkata, telah menceritakan kepada kami [Ubaidullah] dari [Abdul Karim Al jazari] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada akhir zaman nanti akan ada orang-orang yang mengecat rambutnya dengan warna hitam seperti warna mayoritas dada merpati, mereka tidak akan mendapat bau surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4212</td></tr><tr><td>Arabic No</td><td>4212</td></tr><tr><td>Reference</td><td>Book 35 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «В конце времён появятся люди, которые будут краситься в чёрный цвет, подобный цвету голубиных зобов. Они не почувствуют благоухания Рая»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4212</td></tr><tr><td>Arabic No</td><td>4212</td></tr><tr><td>Reference</td><td>Book 35 Hadith 54</td></tr></tbody></table></div>
 

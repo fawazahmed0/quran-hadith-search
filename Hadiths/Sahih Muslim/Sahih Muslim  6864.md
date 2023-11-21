@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported that he (and his other companions) were climbing upon the hill
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Fudhail bin Husain] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [At Taimi] dari [Abu 'Utsman] dari [Abu Musa] bahwa para sahabat pernah menyertai Rasulullah shallallahu 'alaihi wasallam, dan ketika para sahabat sedang menaiki jalan setapak di antara dua gunung, salah seorang dari mereka setiap naik keatas berseru; 'Laa Ilaaha Illa Allah wallahu Akbar.' (tidak ada Ilah selain Allah yang maha Agung). Abu Musa berkata; lalu Rasulullah shallallahu 'alaihi wasallam berkata: 'Sesungguhnya kalian tidak berseru kepada Dzat yang tuli dan jauh.' Abu Musa berkata; kemudian beliau berseru; 'Hai Abu Musa atau hai Abdullah bin Qais, inginkah aku tunjukkan kepadamu salah satu perbendaharaan surga? ' Saya menjawab; 'Apa itu ya Rasulullah? ' Rasulullah bersabda: Laa haula wala quwwata illaa billaah' (Tiada daya dan upaya kecuali dengan pertolongan AIIah)." Dan telah menceritakannya kepada kami [Muhammad bin 'Abdul A'la] telah menceritakan kepada kami [Al Mu'tamir] dari [Bapaknya] telah menceritakan kepada kami [Abu 'Utsman] dari [Abu Musa] dia berkata; 'ketika Rasulullah shallallahu 'alaihi wasallam, -lalu dia menyebutkan Hadits yang serupa.- telah menceritakan kepada kami [Khalaf bin Hisyam] dan [Abu Ar Rabi'] mereka berdua berkata; telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu 'Utsman] dari [Abu Musa] dia berkata; kami pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, -lalu dia menyebutkan seperti hadits 'Ashim.- Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Ats Tsaqafi] telah menceritakan kepada kami [Khalid Al Hadza] dari [Abu 'Utsman] dari [Abu Musa] dia berkata; kami pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu peperangan, -kemudian dia menyebutkan hadits tersebut, dan di dalamnya berkata; Dzat yang kamu seru itu lebih dekat dari leher hewan yang tunggangi salah seorang kalian. Dan di dalamnya tidak menyebutkan kalimat; 'Laa haula wala quwwata illaa billaah' (Tiada daya dan upaya kecuali dengan pertolongan AIIah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6864</td></tr><tr><td>Arabic No</td><td>2704.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6864</td></tr><tr><td>Arabic No</td><td>2704.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 58</td></tr></tbody></table></div>
 

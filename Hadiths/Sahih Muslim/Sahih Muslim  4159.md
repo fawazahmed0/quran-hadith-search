@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abn Huraira (Allah be pleased with him) reported Allah's Apostle (ﷺ) having sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Syababah] dia berkata, telah menceritakan kepadaku [Warqa'] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Demi dzat yang jiwa Muhammad berada di tangan-Nya, tidak ada seorang mukmin di muka bumi ini, kecuali akulah orang yang berhak atas diri mereka dari diri mereka sendiri, maka siapa saja yang mati meninggalkan hutang atau anak yang butuh santunan maka akulah walinya. Dan siapa saja dari kalian yang meninggalkan harta, maka (harta tersebut) untuk ahli waris yang tersisa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4159</td></tr><tr><td>Arabic No</td><td>1619.03</td></tr><tr><td>Reference</td><td>Book 23 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4159</td></tr><tr><td>Arabic No</td><td>1619.03</td></tr><tr><td>Reference</td><td>Book 23 Hadith 20</td></tr></tbody></table></div>
 

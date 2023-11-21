@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:I went along with Allah's Messenger (ﷺ) at a time during 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] dari ['Ubaidillah bin Abu Yazid] dari [Nafi' bin Jubair bin Muth'im] dari [Abu Hurairah] dia berkata; "Pada suatu siang saya keluar bersama Rasulullah shallallahu 'alaihi wasallam. Beliau tidak berbicara kepada saya dan saya pun tidak berbicara kepada beliau hingga beliau mendatangi pasar Bani Qainuqa'. Kemudian beliau pulang dan mendatangi tenda Fatimah seraya bertanya: 'Apakah ada Luka'? Apakah ada Luka'? ' (Yang dimaksud dengan Luka' adalah Hasan) Kami menduga bahwasanya Hasan sedang dibawa oleh ibunya untuk dimandikan dan dipakaikan seutas kalung tanpa permata. Tak lama kemudian Hasan muncul dan akhirnya keduanya (Rasulullah dan Hasan) saling berpelukan. lalu Rasulullah shallallahu 'alaihi wasallam berdoa: 'Ya Allah, sungguh saya mencintainya. Oleh karena itu, cintailah ia dan cintailah orang yang mencintainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6257</td></tr><tr><td>Arabic No</td><td>2421.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6257</td></tr><tr><td>Arabic No</td><td>2421.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 87</td></tr></tbody></table></div>
 

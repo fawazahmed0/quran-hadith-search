@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : "Pendant trente matins, le Prophète
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya], katanya; aku membaca di hadapan [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik], katanya; Rasulullah shallallahu 'alaihi wasallam mendoakan kecelakaan untuk orang-orang yang telah membantai para sahabat di Bi'r Ma'unah selama tiga puluh hari setiap pagi, beliau mend'oakan kecelakaan terhadap kabilah Ri'il, Dzakwan, dan Lihyan serta Ushayyah yang telah membangkang Allah dan Rasul-Nya." Anas melanjutkan; "Allah Azza wa Jalla telah menurunkan ayat Al Qur'an untuk para sahabat yang terbantai di Bi'r Ma'unah yang biasa kami baca, hingga ayat tersebut dimansukh di kemudian hari. Ayat tersebut bunyinya AN BALLIGHUU QAUMANAA AN QAD LAQIINAA RABBANAA FARADLIYA ANNAA WARADLIINAA 'ANHU, (Sampaikanlah kepada kaum kami bahwa kami telah menjumpai Tuhan kami, dan Dia ridla terhadap kami, dan kami pun ridla terhadap-Nya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1545</td></tr><tr><td>Arabic No</td><td>677.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 378</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Посланник Аллаха ﷺ в течение тридцати дней молил Аллаха покарать тех, кто убил сподвижников у Биър Ма‘уна. Он молил Аллаха покарать (многобожников из племён) ри‘ль, закван и усаййа, которые ослушались Аллаха и Его Посланника».Анас сказал: «В отношении тех, кто был убит у Биър Ма‘уна, Великий и Могучий Аллах ниспослал аяты, которые мы читали, но затем они были отменены, в этих аятах говорилось: “Передайте нашему народу, что мы встретили нашего Господа, и Он доволен нами, а мы довольны Им”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1545</td></tr><tr><td>Arabic No</td><td>677.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 378</td></tr></tbody></table></div>
 

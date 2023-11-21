@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:One of the wives of 'Umar (bin Al-Khattab) used to offer the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami ['Ubaidullah bin 'Umar] dari [Nafi'] dari [Ibnu 'Umar]: "Isteri Umar ikut menghadiri shalat Shubuh dan 'Isya berjama'ah di masjid." Lalu dikatakan kepadanya, "Kenapa kamu pergi ke masjid padahal kamu telah mengetahui bahwa 'Umar tidak menyukainya?" Wanita itu berkata, "Apa yang menghalangi dia untuk melarangku?" Penanya itu berkata, "Yang mencegahnya adalah sabda Rasulullah shallallahu 'alaihi wasallam: 'Janganlah kalian larang para wanita mendatangi masjid-masjid Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>900</td></tr><tr><td>Arabic No</td><td>900</td></tr><tr><td>Reference</td><td>Book 11 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, от Ибн ‘Умара, что жена ‘Умара присутствовала на коллективных утренних /субх/ и вечерних /‘иша/ молитвах в мечете. И (однажды) ей было сказано: «Почему ты выходишь, ведь ты знаешь, что ‘Умару не нравиться это и он ревнует?» Она сказала: «Что же ему мешает запретить мне?» Они сказали: «Слова Посланника Аллаха: “Не запрещайте рабыням Аллаха (посещать) мечети Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>900</td></tr><tr><td>Arabic No</td><td>900</td></tr><tr><td>Reference</td><td>Book 11 Hadith 24</td></tr></tbody></table></div>
 

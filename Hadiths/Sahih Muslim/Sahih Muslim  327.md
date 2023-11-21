@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of 'Abdullah (b. Mas'ud) that when this verse wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Idris] dan [Abu Mu'awiyah] serta [Waki'] dari [al-A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] dia berkata, "Ketika turun ayat: '(Orang-orang yang beriman, dan iman mereka belum bercampur dengan kezhaliman) ' (Qs. Al An'am: 82), maka para sahabat merasa berat terhadap hal tersebut seraya berkata, 'Wahai Rasulullah, siapakah di antara kita yang tidak mendzalimi dirinya! ' Beliau menjawab: 'Hal itu tidaklah seperti yang kalian maksudkan. Ia adalah sebagaimana yang dikatakan Luqman kepada anaknya: '(Wahai anakku, janganlah kamu mensyirikkan Allah. Sesungguhnya syirik adalah kezhaliman yang besar) '. (Qs. Luqman: 13). Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ali bin Kasyram] keduanya berkata, telah mengabarkan kepada kami [Isa] yaitu -Ibnu Yunus-. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Minjab bin al-Harits at-Tamimi] telah mengabarkan kepada kami [Ibnu Mushir]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnu Idris] semuanya dari [al-A'masy] dengan sanad ini, [Abu Kuraib] berkata, [Ibnu Idris] berkata, telah menceritakan kepadaku tentangnya pertama kali [bapakku] dari [Aban bin Taghlib] dari [al-A'masy] kemudian aku mendengarnya darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>327</td></tr><tr><td>Arabic No</td><td>124.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Когда был ниспослан (аят, где сказано): “Те, которые уверовали и не облекли свою веру в несправедливость” (сура «аль-Ан‘ам», аят 82), сподвижникам Посланника Аллаха ﷺ стало тяжко, и они начали говорить: “Кто же из нас не поступал несправедливо по отношению к самому себе?” Тогда Посланник Аллаха ﷺ сказал: “(Дело обстоит) не так, как вы думаете. (Смысл этого таков же, как и смысл того, что) Лукман сказал своему сыну: “О сын мой! Не приобщай к Аллаху сотоварищей, ибо многобожие является великой несправедливостью” (сура «Лукман», аят 13)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>327</td></tr><tr><td>Arabic No</td><td>124.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
 

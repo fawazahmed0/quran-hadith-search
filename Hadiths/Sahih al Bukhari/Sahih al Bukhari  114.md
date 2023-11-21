@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubaidullah bin 'Abdullah:Ibn 'Abbas said, "When the ailment of the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan kepadaku [Ibnu Wahhab] berkata, telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah] dari [Ibnu 'Abbas] berkata, "Ketika Nabi shallallahu 'alaihi wasallam bertambah parah sakitnya, beliau bersabda: "Berikan aku surat biar aku tuliskan sesuatu untuk kalian sehingga kalian tidak akan sesat setelahku." Umar berkata, "Sesungguhnya Nabi shallallahu 'alaihi wasallam semakin berat sakitnya dan di sisi kami ada Kitabullah, yang cukup buat kami. Kemudian orang-orang berselisih dan timbul suara gaduh, maka Nabi shallallahu 'alaihi wasallam bersabda: "Pergilah kalian menjauh dariku, tidak pantas terjadi perdebatan di hadapanku." Maka Ibnu 'Abbas keluar seraya berkata, "Ini adalah musibah, dan sungguh segala musibah tidak boleh terjadi di hadapan Rasulullah shallallahu 'alaihi wasallam dan Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 3 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Убайдуллы ибн ‘Абдуллах о том, что Ибн ‘Аббас, да будет доволен ими обоими Аллах, сказал: «Когда (предсмертные) страдания Пророка ﷺ усилились, он сказал: “Принесите мне (принадлежности для) письма, и я напишу для вас то, благодаря чему вы не собьётесь с правильного пути”. Однако ‘Умар сказал: “Пророк ﷺ серьёзно болен, а у нас есть Книга Аллаха, и этого нам достаточно!” Тут мнения (присутствовавших) разделились, поднялся шум, и тогда Пророк ﷺ сказал: “Оставьте меня, не следует спорить в моём присутствии!”» \nИ Ибн ‘Аббас вышел поговаривая: «Поистине беда, эта та беда, которая вмешивается между Посланником Аллаха ﷺ и тем, что он напишет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 3 Hadith 56</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Samurah b. Jundub told that a man said:Messenger of Allah (ﷺ)! I saw (in a dre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] ia berkata; telah menceritakan kepadaku [Affan bin Muslim] berkata, telah menceritakan kepada kami [Hammad bin Salamah] dari [Asy'ats bin 'Abdurrahman] dari [Bapaknya] dari [Samurah bin Jundub] berkata, "Seorang laki-laki berkata, "Wahai Rasulullah, aku melihat seakan ada sebuah ember yang diulurkan dari atas langit, Abu Bakar lantas datang mengambil kayu pengaitnya lalu minum dengan sedikit, kemudian datang Umar mengambil kayu pengaitnya lalu minum dengan puas, kemudian datang Utsman mengambil kayu pengaitnya lalu minum dengan puas, kemudian datang Ali mengambil kayu pengaitnya lalu minum secara berlebihan hingga ia terkena air tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4637</td></tr><tr><td>Arabic No</td><td>4637</td></tr><tr><td>Reference</td><td>Book 42 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Самуры ибн Джундуба, что один человек сказал: «О Посланник Аллаха, я видел во сне, что с небес спустилась бадья с водой и Абу Бакр подошёл, взялся за её края и попил совсем немного. Потом подошёл ‘Умар, взялся за бадью и пил так, что чрево его наполнилось, затем подошёл ‘Усман, взялся за бадью и тоже напился так, что чрево его наполнилось. А потом подошёл ‘Али, взялся за бадью, и вода в ней пришла в движение, и часть её выплеснулась на него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4637</td></tr><tr><td>Arabic No</td><td>4637</td></tr><tr><td>Reference</td><td>Book 42 Hadith 42</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':A man was reciting Surat Al-Kahf and his horse was tied with t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Khalid] Telah menceritakan kepada kami [Zuhair] Telah menceritakan kepada kami [Abu Ishaq] dari [Al Barra' bin 'Aazib] ia berkata; Seorang laki-laki membaca surat Al Kahfi, sementara di sisinya terdapat seekor kuda yang terikat dengan dua tali, ternyata di atasnya terdapat kabut yang menaunginya. Kabut itu mendekat dan semakin mendekat sehingga membuat kudanya lari ingin beranjak. Ketika waktu pagi datang, laki-laki itu pun mendatangi Nabi shallallahu 'alaihi wasallam dan menuturkan kejadian yang dialaminya, Nabi shallallahu 'alaihi wasallam bersabda: "Itu adalah As Sakinah (ketenangan) yang turun karena Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5011</td></tr><tr><td>Arabic No</td><td>5011</td></tr><tr><td>Reference</td><td>Book 66 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-­Бара ибн ‘Азиб (да будет доволен им Аллах) рассказывал: «Как-то раз один человек читал суру “аль-­Кахф”, а рядом с ним находилась привязанная двумя веревками лошадь. И вдруг его неожиданно окутало какое-то облако, которое стало приближаться к нему. Что же касается лошади, то она испугалась. Наутро этот человек пришел к Пророку ﷺ и рассказал ему об этом, на что Пророк ﷺ сказал: “Это была сакина, которая снизошла на тебя свыше благодаря чтению Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5011</td></tr><tr><td>Arabic No</td><td>5011</td></tr><tr><td>Reference</td><td>Book 66 Hadith 33</td></tr></tbody></table></div>
 

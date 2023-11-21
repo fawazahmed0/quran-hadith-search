@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Irbad ibn Sariyah as-Sulami: We alighted with the Prophet (ﷺ) at K
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Asy'ats], telah menceritakan kepada kami [Arthoh bin Al Mundzir], ia berkata; saya mendengar [Hakim bin 'Umair Abu Al Ahwash] menceritakan dari [Al 'Irbadh bin Sariyah As Sulami], ia berkata; kami singgah bersama Nabi shallallahu 'alaihi wasallam di Khibar dan beliau bersama beberapa sahabatnya. Dan pemimpin Khaibar adalah seorang yang keras dan berlaku mungkar. Kemudian ia datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; wahai Muhammad, apakah kalian boleh menyembelih keledai kami, dan memakan buah kami serta memukul wanita kami? Maka Nabi shallallahu 'alaihi wasallam marah dan berkata; wahai Ibnu 'Auf naikilah kudamu kemudian serulah bahwa Surga tidak halal kecuali bagi orang mukmin dan hendaknya mereka berkumpul untuk melakukan shalat. Al 'Irbadh bin Sariyah berkata; kemudian mereka berkumpul kemudian Nabi shallallahu 'alaihi wasallam melakukan shalat bersama mereka. Kemudian beliau berdiri dan berkata; apakah salah seorang diantara kalian dalam keadaan bersandar kepada singgasanannya menyangka bahwa Allah tidak mengharamkan sesuatupun kecuali yang ada dalam Al Qur'an? Ketahuilah, demi Allah, sesungguhnya aku telah memberi nasehat, memerintahkan dan melarang dari berbagai sesuatu, sesungguhnya hal itu adalah seperti Al Qur'an atau lebih banyak. Sesungguhnya Allah 'azza wajalla tidak menghalalkan bagi kalian untuk memasuki rumah-rumah ahli kitab kecuali dengan izin, dan tidak halal memukul wanita mereka, serta makan buah mereka apabila mereka telah memberikan kepada kalian apa yang menjadi kewajiban atas mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 20 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Ирбада ибн Сария ас-Сулями, да будет доволен им Аллах: «Мы остановились вместе с Пророком ﷺ и его сподвижниками в Хайбаре. А предводитель жителей Хайбара был скверным человеком и бунтовщиком. Он пришёл к Пророку ﷺ и сказал: “О Мухаммад! Есть ли у вас право резать наших ослов, есть наши плоды и бить наших женщин?!” Пророк ﷺ разгневался и сказал: “О Ибн ‘Ауф! Садись на своего коня и объяви, что в Рай войдут только верующие, и вели им собраться на молитву”. Когда же они собрались, он совершил с ними молитву и сказал: “Быть может, один из вас думает, расположившись на своём ложе, что Всевышний Аллах не запрещал ничего, кроме того, что запрещено в Коране? Клянусь Аллахом, я наставлял вас и велел вам делать одно и запрещал делать другое, и этих запретов столько же, сколько и в Коране, а может, и больше. И, поистине, Всемогущий и Великий Аллах не дозволил вам входить в дома людей Писания иначе, как с их разрешения, и не разрешил вам бить их женщин и есть их плоды, если они отдают вам то, то должны”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 20 Hadith 123</td></tr></tbody></table></div>
 

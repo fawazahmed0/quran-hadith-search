@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yazid bin Ruman from 'Urwa:'Aisha said that the Prophet (ﷺ) said to h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bayan bin 'Amru] telah menceritakan kepada kami [Yazid] telah menceritakan kepada kami [Jarir bin hazim] telah menceritakan kepada kami [Yazid bin Ruman] dari ['Urwah] dari ['Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam berkata, kepadanya: "Seandainya bukan karena keberadaan kaummu yang masih lekat dengan kejahiliyahan, tentu aku sudah perintahkan agar Ka'bah Baitulloh dirabohkan lalu aku masukkan ke dalamnya apa yang sudah dikeluarkan darinya dan aku akan jadikan (pintunya yang ada sekarang) rata dengan permukaan tanah, lalu aku buat pintu timur dan pintu barat dengan begitu aku membangunya diatas pondasi yang telah dibangun oleh Nabi Ibrahim Alaihissalam". Sabda Nabi shallallahu 'alaihi wasallam inilah yang kemudian dijadikan alasan oleh 'Abdullah bin Az Zubair untuk merabohkannya. Berkata, Yazid: "Aku melihat Ibnu Zubair ketika merabohkannya lalu membangunnya kembali, dia memasukkan sebagian Hijir Isma'il dan aku melihat pondasi yang dibangun Nabi Ibrahim Alaihissalam berupa bebatuan menyerupai punuk-punuk unta". Jarir berkata: "Aku bertanya kepadanya: "Dimana posisinya?". Dia berkata: "Akan kutunjukkan kepadamu sekarang". Maka aku bersamanya masuk ke dalam Al Hijir lalu dia menunjuk pada suatu tempat seraya berkata; "Inilah posisinya". Jarir berkata: "Kemudian aku mengukur jaraknya dari Al Hijir ternyata kira-kira kurang lebih enam hasta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1586</td></tr><tr><td>Arabic No</td><td>1586</td></tr><tr><td>Reference</td><td>Book 25 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) Пророк ﷺ сказал ей: «О ‘Аиша, если бы твои соплеменники не были (столь) близки к джахилийи, я обязательно велел бы разрушить Каабу, а потом присоединил бы к ней то, что было от неё отделено, и опустил бы (её дверь до уровня) земли, и сделал бы в ней две двери — восточную и западную, и (перестроил бы её на основе) фундамента(, заложенного) Ибрахимом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1586</td></tr><tr><td>Arabic No</td><td>1586</td></tr><tr><td>Reference</td><td>Book 25 Hadith 72</td></tr></tbody></table></div>
 

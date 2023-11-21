@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We set out with Allah's Messenger (ﷺ) in the year of his Last 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnui Syihab] dari ['Urwah] dari ['Aisyah radliallahu 'anha]: "Kami berangkat bersama Nabi Shallallahu'alaihiwasallam saat hajji wada' lalu kami berihram untuk 'umrah, kemudian Beliau berkata: "Barangsiapa yang membawa hewan sembelihan hendaklah dia berihram untukhajji sekaligus 'umrah kemudian dia tidak bertahallul hingga bertahallul untuk keduanya (hajji dan 'umrah). Maka aku tiba di Makkah sedang aku dalam keadaan mengalami haidh. Setelah kami selesai melaksanakan manasik hajji, Beliau mengutusku bersama 'Abdurrahman bin Abu Bakar menuju Tan'im. Maka dari tempat itu aku memulai 'umrah. Beliau Shallallahu'alaihiwasallam berkata: "Ini pengganti 'umrahmu"."Maka orang-orang yang berihram untuk 'umrah melakukan thawaf di Baitullah lalu bertahallul lalu thawaf lagi thawaf yang lain setelah mereka kembali dari Mina. Adapun orang-orang yang menggabungkan hajji dan 'umrah mereka hanya melakukan thawaf satu kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1638</td></tr><tr><td>Arabic No</td><td>1638</td></tr><tr><td>Reference</td><td>Book 25 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказывала: «Мы отправились совершать прощальный хадж вместе с посланником Аллаха ﷺ и произнесли тальбию для ‘умры. А потом Посланник Аллаха ﷺ сказал: “Пусть тот, кто гонит жертвенный скот, произносит тальбию для хаджа с ‘умрой и не выходит из ихрама, пока не совершит и то, и другое (то есть совершит хадж-кыран)”. Я приехала в Мекку как раз в то время, когда у меня была менструация, (и не смогла совершить таваф вокруг Каабы и пробег между Сафой и Марвой). А когда мы совершили хадж, Посланник Аллаха ﷺ отправил меня вместе с ‘Абдуррахманом в Тан‘им, и оттуда я совершила ‘умру. Посланник Аллаха ﷺ сказал: “Это место твоей ‘умры”. И те, кто произносил тальбию для ‘умры, совершили обход вокруг Каабы (и пробежали между Сафой и Марвой), после чего вышли из состояния ихрама. Потом они совершили ещё один обход вокруг Каабы после возвращения из Мины для хаджа. Что же касается тех, кто соединял хадж с ‘умрой, то они совершили только один обход вокруг Каабы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1638</td></tr><tr><td>Arabic No</td><td>1638</td></tr><tr><td>Reference</td><td>Book 25 Hadith 121</td></tr></tbody></table></div>
 

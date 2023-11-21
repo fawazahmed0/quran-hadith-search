@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated ‘Abdallah bin Shaddad bin Al Had :We entered upon A’ishah, wife of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Idris Ar Razi], telah menceritakan kepada Kami ['Amr bin Ar Rabi' bin Thariq], telah menceritakan kepada Kami [Yahya bin Ayyub] dari ['Ubaidullah bin Abu Ja'far] bahwa [Muhammad bin 'Amr bin 'Atha'] telah mengabarkan kepadanya dari [Abdullah bin Syaddad bin Al Had] bahwa ia berkata; Kami menemui [Aisyah] istri Nabi shalla Allahu 'alaihi wa sallam, lalu ia berkata; Rasulullah shallallahu 'alaihi wasallam menemuiku dan melihat ditanganku ada cincin dari perak, lalu beliau berkata: "Apakah ini wahai Aisyah?" Aku menjawab; aku menggunakannya untuk berhias di hadapanmu. Beliau berkata: "Apakah kamu mengeluarkan zakatnya?" Aku menjawab: tidak! -atau- maasyaa Allah! Beliau berkata: Itu adalah bagianmu dari Neraka!" Telah menceritakan kepada Kami [Shafwan bin Shalih], telah menceritakan kepada Kami [Al Walid bin Muslim], telah menceritakan kepada Kami [Sufyan] dari [Umar bin Ya'la], kemudian ia menyebutkan hadits seperti hadits mengenai cincin. Sufyan ditanya; bagaimana engkau menzakatinya? Dia menjawab; engkau gabungkan dengan yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1565</td></tr><tr><td>Arabic No</td><td>1565</td></tr><tr><td>Reference</td><td>Book 9 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается ,что ‘Абдуллах ибн Шаддад ибн аль-Хад сказал:«Однажды, когда мы зашли к жене Пророка ﷺ ‘Аише, она сказала: Как-то раз Посланник Аллаха ﷺ вошел ко мне и заметил, что у меня на руках массивные перстни из серебра. Он спросил: “‘Аиша, что это такое?” Я ответила: “О, Посланник Аллаха! Я надела их, для того чтобы понравиться тебе”. Тогда он спросил: “А ты выплатила с них закят?” Я ответила: “Нет”, или то, что было угодно Аллаху. На это он сказал: “Этого тебе достаточно, чтобы попасть в Огнь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1565</td></tr><tr><td>Arabic No</td><td>1565</td></tr><tr><td>Reference</td><td>Book 9 Hadith 10</td></tr></tbody></table></div>
 

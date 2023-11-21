@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that there was in pre-Islamic days a temple called Dhu'l- Khalasa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdul Hamid bin Bayan]; Telah mengabarkan kepada kami [Khalid] dari [Bayan] dari [Qais] dari [Jarir] dia berkata; Pada masa Jahiliyah ada sebuah rumah yang diberi nama Dzul Khalshah, rumah itu biasa disebut dengan Al Ka'bah Al Yamaniyah dan Al Ka'bah As Syamiyah. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Bisakah kamu menyenangkanku dengan menghancurkan Dzil Khalashah atau Al Ka'bah Al Yamaniyah dan Syamiyah? Kata Jabir; lalu aku berangkat dengan seratus lima puluh pasukan berkuda yang tangguh. Kami hancurkan dan kami bunuh orang-orang yang berada di sekitarnya. Kemudian aku kembali mengabarkan keberhasilannya kepada Rasulullah shallallahu 'alaihi wasallam, dan Rasulullah pun mendo'akan kepada kami dan para penunggang kuda yang tangguh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6365</td></tr><tr><td>Arabic No</td><td>2476.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6365</td></tr><tr><td>Arabic No</td><td>2476.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 195</td></tr></tbody></table></div>
 

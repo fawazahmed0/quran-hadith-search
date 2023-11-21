@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik, while recounting the Night journey of the Prophet (ﷺ), from the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>414</td></tr><tr><td>Arabic No</td><td>162</td></tr><tr><td>Reference</td><td>Book 1 Hadith 319</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик, рассказывавший о ночи вознесения Посланника Аллаха ﷺ из мечети Каабы, сказал: «(Однажды, когда Пророк ﷺ) спал в Запретной мечети ещё до того, как ему начали ниспосылаться откровения, к нему явились трое…». Затем он рассказал хадис подобно предыдущим, но немного добавив к нему и убавив
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>414</td></tr><tr><td>Arabic No</td><td>162</td></tr><tr><td>Reference</td><td>Book 1 Hadith 319</td></tr></tbody></table></div>
 

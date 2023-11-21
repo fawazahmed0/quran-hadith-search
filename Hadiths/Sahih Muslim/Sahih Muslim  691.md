@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:While the Messenger of Allah (ﷺ) was in the mosque, he sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Abu Kamil] serta [Muhammad bin Hatim] semuanya dari [Yahya bin Sa'id] berkata [Zuhair] telah menceritakan kepada kami [Yahya] dari [Yazid bin Kaisan] dari [Abu Hazim] dari [Abu Hurairah] dia berkata; Ketika Rasulullah shallallahu 'alaihi wasallam di masjid, beliau berkata; "Wahai Aisyah, ambilkan baju untukku." Aisyah menyahut; ' aku sedang haid.' Beliau menjawab: " Haidmu bukan di tanganmu." Maka dia mengambilnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>691</td></tr><tr><td>Arabic No</td><td>299</td></tr><tr><td>Reference</td><td>Book 3 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «(Однажды) Посланник Аллаха ﷺ, находившийся в мечети, велел: “О ‘Аиша, передай мне одежду”. Она сказала: “У меня начались месячные”. Тогда Пророк ﷺ воскликнул: “Но ведь твои месячные у тебя не на руке!” и она передала ему (то, что он просил)». Глава: Остаток (воды и еды) от женщины у которой месячные
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>691</td></tr><tr><td>Arabic No</td><td>299</td></tr><tr><td>Reference</td><td>Book 3 Hadith 13</td></tr></tbody></table></div>
 

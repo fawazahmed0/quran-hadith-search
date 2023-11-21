@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi' that Ibn 'Umar (ra) performed only one Tawaf. He would take an af
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah berkata, kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] bahwa dia melaksanakan thawaf satu kali saja kemudian qailulah (tidur sebentar di siang hari) kemudian mendatangi Mina pada hari Nahar". Hadits ini dimarfu'kan oleh ['Abdur Razaq], telah mengabarkan kepada kami ['Ubaidullah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1732</td></tr><tr><td>Arabic No</td><td>1732</td></tr><tr><td>Reference</td><td>Book 25 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, совершил один раз обход вокруг Каабы /таваф аль-ифада/, затем совершил «кайлюлю» (дневной сон), затем вернулся в Мину в День жертвоприношения
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1732</td></tr><tr><td>Arabic No</td><td>1732</td></tr><tr><td>Reference</td><td>Book 25 Hadith 210</td></tr></tbody></table></div>
 

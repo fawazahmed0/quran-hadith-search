@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Wahab bin Kaisan:Jabir bin 'Abdullah said, "Allah's Messenger (ﷺ) sen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; Telah menceritakan kepadaku [Malik] dari [Wahb bin Kaisan] dari [Jabir bin 'Abdullah] dia berkata; "Rasulullah Shalla Allahu 'alaihi wa sallam mengutus delegasi menuju ke pantai. Beliau mengangkat Abu Ubaidah bin Jarrah sebagai pemimpin pasukan. Mereka berjumlah tiga ratus orang." Kami berangkat, namun ketika sampai di suatu jalan perbekalan kami habis. Maka Abu Ubaidah memerintahkan untuk mengumpulkan perbekalan pasukan, dan perbekalan pun dikumpulkan. Bekal yang terkumpul berjumlah dua kantung kurma." Bekal itulah yang menjadi makanan pokok kami setiap hari, sedikit demi sedikit hingga habis. Sampai kami tidak mendapatkan jatah lagi kecuali hanyalah sebuah kurma tiap orang. Aku bertanya; 'Apalah artinya sebiji kurma.' Abu 'Ubaidah menjawab; 'Kami memang sudah mendapati tidak ada kurma lagi'." Jabir berkata; "Kemudian kami tiba di sebuah pantai. Ternyata ada ikan paus sebesar anak bukit. Maka pasukan pun memakannya selama delapan belas malam. Abu Ubaidah memerintahkan untuk mengambil dua tulang rusuknya, lalu dipancangkan. Kemudian dia memerintahkan untuk mendatangkan seekor unta tunggangan. Ternyata unta tersebut dapat melewati bawah tulang rusuk ikan itu dan ia tidak mengenainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4360</td></tr><tr><td>Arabic No</td><td>4360</td></tr><tr><td>Reference</td><td>Book 64 Hadith 386</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(В свое время) Посланник Аллаха ﷺ отправил в сторону берега моря отряд из трехсот человек, назначив их командиром Абу ‘Убайду бин аль-Джарраха. Мы выехали (из Медины), а когда проделали часть пути и наши припасы стали подходить к концу, по приказу Абу ‘Убайды была собрана (вся остававшаяся у людей еда, и у нас набралось) две дорожные сумки фиников. После этого он стал выдавать нам каждый день понемногу, но в конце концов и (этих фиников почти) не осталось, и каждому из нас доставалось только по одному финику в день».\n(Передатчик этого хадиса сказал): «Я спросил: “Какую же пользу может принести один финик?” (Джабир) ответил: “(Однако,) когда закончились (и финики), мы (сразу) почувствовали это! Достигнув (берега) моря, мы увидели там рыбу, подобную небольшой горе, и люди питались (ее мясом) в течение восемнадцати дней, а потом Абу ‘Убайда приказал поставить на землю два ее ребра (, соединив их между собой в виде арки,) и оседлать верблюдицу, которая прошла (под этими ребрами) и не задела их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4360</td></tr><tr><td>Arabic No</td><td>4360</td></tr><tr><td>Reference</td><td>Book 64 Hadith 386</td></tr></tbody></table></div>
 

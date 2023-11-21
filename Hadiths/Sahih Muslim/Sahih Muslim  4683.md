@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Anas b. Malik who said:On the Day of Uh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Darimi] telah menceritakan kepada kami [Abdullah bin 'Amru] -yaitu Abu Ma'mar Al Minqari- telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Abdul Aziz] -yaitu Ibnu Shuhaib- dari [Anas bin Malik] dia berkata, "Ketika perang Uhud berkecamuk, beberapa orang dari pasukan Islam lari meninggalkan Nabi shallallahu 'alaihi wasallam, sedangkan Abu Thalhah adalah seorang pamanah yang terampil. Pada hari itu, dia sampai mematahkan dua atau tiga busur panah." Anas mengatakan, "Saat itu ada seseorang yang lewat di hadapan temannya dengan membawa panah, maka temanya berkata, "Berikanlah itu kepada Abu Thalhah!" Anas melanjutkan, "Nabi shallallahu 'alaihi wasallam sendiri berdiri tegak memperhatikan seluruh pasukan. Lalu Abu Thalhah berkata, "Wahai Nabi Allah, demi ayah dan ibuku sebagai tebusannya, aku memohon anda tidak berdiri tegak supaya tidak terkena panah musuh, biarlah leherku yang terkena asal bukan leher anda." Kata Anas selanjutnya, "Sungguh, aku melihat 'Aisyah binti Abu Bakar dan Ummu Sulaim, keduanya menyingsingkan pakainnya sehingga terlihat olehku gelang kakinya, keduanya membawa geribah di punggung mereka, kemudian dituangkannya di mulut kaum Muslimin. Sesudah itu mereka pergi lagi mengisi geribah mereka dan datang lagi untuk menuangkannya ke mulut anggota pasukan. Seusai pertempuran, pedang Abu Thalhah sampai terjatuh dua hingga tiga kali karena sangat mengantuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4683</td></tr><tr><td>Arabic No</td><td>1811</td></tr><tr><td>Reference</td><td>Book 32 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4683</td></tr><tr><td>Arabic No</td><td>1811</td></tr><tr><td>Reference</td><td>Book 32 Hadith 165</td></tr></tbody></table></div>
 

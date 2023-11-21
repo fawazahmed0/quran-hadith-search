@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: If I survive (God willing),
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Muhammad bin Ubaid] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika aku mau dan Allah menghendaki, maka aku akan melarang umatku memberi nama Nafi', Aflah, dan Barakah." -Al A'masy berkata, "Aku tidak tahu, beliau menyebut Nafi' atau tidak-(beliau melanjutkan) Sesungguhnya jika seorang laki-laki berkata, 'Jika ada seseorang datang lalu ia bertanya, "Apakah barakah ada?" mereka menjawab, "Tidak." Abu Dawud berkata, " [Abu Az Zubair] meriwayatkan dari [Jabir], dari Nabi shallallahu 'alaihi wasallam seperti itu pula. Namun ia tidak menyebutkan 'Barakah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4960</td></tr><tr><td>Arabic No</td><td>4960</td></tr><tr><td>Reference</td><td>Book 43 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4960</td></tr><tr><td>Arabic No</td><td>4960</td></tr><tr><td>Reference</td><td>Book 43 Hadith 188</td></tr></tbody></table></div>
 

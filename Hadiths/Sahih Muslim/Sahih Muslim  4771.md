@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Junida b. Abu Umayya who said:We called
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdurrahman bin Wahb bin Muslim] telah menceritakan kepada kami pamanku [Abdullah bin Wahb] telah menceritakan kepada kami [Amru bin Al Harits] telah menceritakan kepadaku [Bukair] dari [Busr bin Sa'id] dari [Junadah bin Abu Umayyah] dia berkata, "Kami pernah menjenguk ['Ubadah bin Shamit] yang sedang sakit, kami lalu berkata, "Semoga Allah memperbaiki keadaanmu, ceritakanlah kepadaku suatu hadits yang kamu dengar dari Rasulullah shallallahu 'alaihi wasallam." Dia menjawab, "Rasulullah shallallahu 'alaihi wasallam pernah memanggil kami, lantas kami membai'at beliau. Dan di antara yang kami ambil janji adalah, berbai'at untuk selalu taat dan mendengar baik dalam keadaan lapang atau terpaksa, mementingkan kepentingannya dari pada kepentingan diri sendiri, dan tidak memberontak pemerintahan yang berwenang." Beliau bersabda: "Kecuali jika kalian melihat ia telah melakukan kekufuran yang jelas, dan kalian memiliki hujjah di sisi Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4771</td></tr><tr><td>Arabic No</td><td>1709.08</td></tr><tr><td>Reference</td><td>Book 33 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4771</td></tr><tr><td>Arabic No</td><td>1709.08</td></tr><tr><td>Reference</td><td>Book 33 Hadith 69</td></tr></tbody></table></div>
 

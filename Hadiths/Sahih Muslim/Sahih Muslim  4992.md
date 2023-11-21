@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The eating of all fanged 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdurrahman] -yaitu Ibnu Mahdi- dari [Malik] dari [Isma'il bin Abu Hakim] dari ['Abidah bin Sufyan] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Setiap binatang buas yang bertaring, maka memakannya adalah haram." Dan telah menceritakan kepadaku [Abu At Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Malik bin Anas] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4992</td></tr><tr><td>Arabic No</td><td>1933.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4992</td></tr><tr><td>Arabic No</td><td>1933.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 21</td></tr></tbody></table></div>
 

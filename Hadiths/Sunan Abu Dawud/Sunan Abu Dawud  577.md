@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Yazid ibn Amir: I came while the Prophet (ﷺ) was saying the prayer. I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Ma'n bin Isa] dari [Sa'id bin As-Sa'ib] dari [Nuh bin Sha'sha'ah] dari [Yazid bin Amir] dia berkata; Saya pernah datang ke Masjid sementara Nabi shallallahu 'alaihi wasallam dalam keadaan shalat. Saya lalu duduk dan tidak shalat bersama mereka. Lalu Rasulullah shallallahu 'alaihi wasallam pergi dan melihat Yazid sedang duduk. Beliau bersabda: "Apakah kamu belum masuk Islam wahai Yazid." Dia menjawab; Tentu wahai Rasulullah, saya telah masuk Islam. Beliau bersabda: "Lalu apa yang menghalangimu untuk shalat bersama jama'ah?" Dia menjawab; Saya telah shalat di rumahku dan saya menyangka kalian telah selesai shalat. Maka beliau bersabda: "Apabila kamu datang ke shalat jama'ah, lalu kamu mendapati orang-orang sedang shalat, maka shalatlah bersama mereka, meskipun kamu telah shalat, shalatmu itu sebagai nafilah (shalat sunnah) bagimu, dan yang ini menjadi yang wajib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>577</td></tr><tr><td>Arabic No</td><td>577</td></tr><tr><td>Reference</td><td>Book 2 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Язид ибн ‘Амир сказал: «Однажды я пришёл в то время, когда Пророк ﷺ совершал молитву, и я присел и не присоединился к их молитве».(Язид) сказал: «Посланник Аллаха ﷺ направился к нам и увидев сидящего Язида сказал: “Разве ты не принял Ислам, о Язид?”. Он ответил: “Конечно, о Посланник Аллаха, я принял Ислам”. Он сказал: “А что тогда тебе помешало присоединиться к людям в их молитве?”. Он ответил: “Поистине, я думал, что вы уже совершили молитву и поэтому помолился у себя дома”. И он сказал: “Когда ты придёшь на молитву (в мечеть) и найдёшь там (молящихся) людей, то соверши молитву с ними. И если случится так, что ты (пришёл) уже совершив молитву, то она станет для тебя дополнительной, а та (молитва, которую ты совершил у себя дома) будет как предписанная”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>577</td></tr><tr><td>Arabic No</td><td>577</td></tr><tr><td>Reference</td><td>Book 2 Hadith 187</td></tr></tbody></table></div>
 

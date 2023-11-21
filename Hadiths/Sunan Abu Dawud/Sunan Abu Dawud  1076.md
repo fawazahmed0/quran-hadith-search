@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa Umar bin Khattab pernah melihat kain campuran sutera di jual dekat pintu masjid, maka dia berkata; "Wahai Rasulullah, alangkah baiknya jika anda membelinya kemudian anda kenakan pada hari Jum'at, dan untuk menyambut delegasi yang datang kepada anda." Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang mengenakan pakaian ini hanyalah orang yang tidak mendapatkan bagiannya di akhirat." Kemudian Rasulullah shallallahu 'alaihi wasallam di beri beberapa pakaian yang di antaranya terbuat dari sutera, kemudian beliau berikan kain sutera itu kepada Umar, maka Umar berkata; "Wahai Rasulullah, anda memakaikannya kepadaku, padahal anda telah mengatakannya kepadaku tentang status pakaian 'Utharid tersebut." Rasulullah shallallahu 'alaihi wasallam menjawab: "Aku memberikan itu bukan bermaksud untuk kamu pakai." Maka Umar memberikannya kepada saudaranya yang masih Musyrik di Makkah. ' Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dan ['Amru bin Al Harits] dari [Ibnu Syihab] dari [Salim] dari [ayahnya] dia berkata; "Umar bin Khattab mendapati kain sutera yang di jual di pasar, kemudian dia mengambilnya lalu membawanya kepada Rasulullah shallallahu 'alaihi wasallam sambil berkata; "Belilah ini, untuk berhias diri pada hari raya atau untuk menerima tami delegasi…" kemudian dia menyebutkan hadits tersebut, namun hadits yang pertama lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (886) Sahih Muslim (2068)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1076</td></tr><tr><td>Arabic No</td><td>1076</td></tr><tr><td>Reference</td><td>Book 2 Hadith 687</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, увидел продававшуюся у ворот мечети полосатую одежду из ткани на шёлковой основе и сказал: «О Посланник Аллаха! Было бы хорошо, если бы ты купил эту одежду, надевал её по пятницам и встречал в ней прибывающие к тебе делегации». Посланник Аллаха ﷺ сказал: «Подобную одежду носит тот, кому нет доли в жизни вечной!» Позже Посланнику Аллаха ﷺ привезли такие одежды, и он отдал одну ‘Умару ибн аль-Хаттабу. ‘Умар сказал: «О Посланник Аллаха! Ты одеваешь меня в это после того, как сказал об одежде ‘Утарида то, что сказал?!» Посланник Аллаха ﷺ сказал: «Я отдал её тебе не для того, чтобы ты носил её». Тогда ‘Умар отдал её своему брату-язычнику, который жил в Мекке
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (886) Sahih Muslim (2068)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1076</td></tr><tr><td>Arabic No</td><td>1076</td></tr><tr><td>Reference</td><td>Book 2 Hadith 687</td></tr></tbody></table></div>
 

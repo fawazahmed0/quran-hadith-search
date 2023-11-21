@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abdur Rahman bin 'Abdul Qari said, "I went out in the company of 'Umar bin Al-Kh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Abdurrahman bin 'Abdul Qariy] bahwa dia berkata; "Aku keluar bersama ['Umar bin Al Khaththob radliallahu 'anhu] pada malam Ramadhan menuju masjid, ternyata orang-orang shalat berkelompok-kelompok secara terpisah-pisah, ada yang shalat sendiri dan ada seorang yang shalat diikuti oleh ma'mum yang jumlahnya kurang dari sepuluh orang. Maka 'Umar berkata: "Aku pikir seandainya mereka semuanya shalat berjama'ah dengan dipimpin satu orang imam, itu lebih baik". Kemudian Umar memantapkan keinginannya itu lalu mengumpulkan mereka dalam satu jama'ah yang dipimpin oleh Ubbay bin Ka'ab. Kemudian aku keluar lagi bersamanya pada malam yang lain dan ternyata orang-orang shalat dalam satu jama'ah dengan dipimpin seorang imam, lalu 'Umar berkata: "Sebaik-baiknya bid'ah adalah ini. Dan mereka yang tidur terlebih dahulu adalah lebih baik daripada yang shalat awal malam, yang ia maksudkan untuk mendirikan shalat di akhir malam, sedangkan orang-orang secara umum melakukan shalat pada awal malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2010</td></tr><tr><td>Arabic No</td><td>2010</td></tr><tr><td>Reference</td><td>Book 31 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн ‘Абдин аль-Карий сказал: «Однажды ночью во время рамадана я отправился в мечеть с ‘Умаром ибн аль-Хаттабом и (когда мы пришли, то увидели) разъединенную толпу людей. Кто-то самостоятельно совершал молитву, а кто-то ещё совершал молитву, а за ним, следуя его молитве, совершала группа людей. И тогда ‘Умар сказал: “Поистине, я думаю, что будет намного лучше, если я объединю этих (людей) позади одного чтеца”. Затем он принял решение и собрал их позади Убай ибн Ка‘ба. Затем я вышел с ним в другую ночь, и люди совершали молитву позади своего чтеца. И ‘Умар (да будет доволен им Аллах) сказал: “Какое это прекрасное новшество. Но время, когда они спят, лучше времени, когда они совершают молитву сейчас”, — имея в виду последнюю часть ночи. И люди совершали ночную молитву в первую часть ночи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2010</td></tr><tr><td>Arabic No</td><td>2010</td></tr><tr><td>Reference</td><td>Book 31 Hadith 3</td></tr></tbody></table></div>
 

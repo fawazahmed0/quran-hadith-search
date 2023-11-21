@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) a dit : Nous participions aux expéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair Al Hamdani] telah menceritakan kepada kami [bapakku] dan [Waki'] dan [Ibnu Bisyr] dari [Isma'il] dari [Qais] ia berkata, saya mendengar [Abdullah] berkata; Kami pernah berperang bersama Rasulullah shallallahu 'alaihi wasallam tanpa membawa isteri, lalu kami berkata, "Apakah sebaiknya kita mengebiri kemaluan kita?" Rasulullah shallallahu 'alaihi wasallam melarang kami berbuat demikian, dan beliau memberikan keringanan pada kami untuk menikahi perempuan sampai pada batas waktu tertentu dengan mas kawin pakaian. Kemudian Abdullah bin Mas'ud membaca ayat: "Hai orang-orang yang beriman, janganlah kamu haramkan apa-apa yang baik yang Telah Allah halalkan bagi kamu, dan janganlah kamu melampaui batas. Sesungguhnya Allah tidak menyukai orang-orang yang melampaui batas." (QS. Almaidah; 87). Dan Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Isma'il bin Abu Khalid] dengan isnad ini, semisalnya. Dan ia menyebutkan; "Kemudian ia membacakan ayat ini kepada kami." Ia tidak menyebutkan; (Abdullah) membaca.." Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dan [Isma'il] dengan isnad ini. ia berkata; Dulu kami adalah para pemuda, dan kami pun bertanya, "Wahai Rasulullah bolehkan kami mengebiri?" Namun ia tidak menyebutkan; "NAGHZUU (kami berperang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>1404.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>1404.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 13</td></tr></tbody></table></div>
 

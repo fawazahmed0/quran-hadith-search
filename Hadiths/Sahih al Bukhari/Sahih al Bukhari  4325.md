@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:When Allah's Messenger (ﷺ) besieged Taif and could
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] dari [Amru] dari [Abul Abbas, tukang syair yang buta] dari [Abdullah bin Umar] katanya, ketika Rasulullah mengepung Thaif, dan beliau sama sekali belum memperoleh hasilnya, beliau berujar: "Besok kita insya Allah pulang." Ucapan Nabi ini memberatkan mereka sehingga para sahabat berujar; "Apakah kita akan pulang dan tidak menaklukkannya?" Abdullah bin Umar adakalanya berujar dengan lafadz; "Kita akan pulang." maka Rasulullah berujar: "Teruslah kalian menyongsong peperangan." Para sahabat pun terus berangkat dan mereka peroleh luka-luka. Kata Nabi: "Besok kita insya Allah kita pulang." Ucapan Nabi ini menjadikan para sahabat kagum (sebagai pelipur lara), maka Nabi shallallahu 'alaihi wasallam tertawa. Suatu kali Sufyan mengatakan dengan redaksi; "Nabi tersenyum". Kata Abul Abbas, kata [Humaidi], Telah menceritakan kepada kami [Sufyan] semua beritanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4325</td></tr><tr><td>Arabic No</td><td>4325</td></tr><tr><td>Reference</td><td>Book 64 Hadith 355</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Через некоторое время) после начала осады Таифа Посланник Аллаха ﷺ, ничего не сумевший добиться от его жителей, сказал: “Поистине, если будет угодно Аллаху, мы вернемся (в Медину)”. Его сподвижникам было тяжело (слышать такие слова), и они (стали) говорить: “Неужели мы уйдём, так и не взяв его?” (Спустя некоторое время Пророк ﷺ) сказал: “Мы возвращаемся”, а потом он сказал: “(Тогда) идите в бой!” И они бросились в бой, но (многие) были ранены, и (Пророк ﷺ) сказал: “Поистине, если будет угодно Аллаху, завтра мы вернёмся (в Медину)”, и это порадовало (мусульман), а Пророк ﷺ рассмеялся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4325</td></tr><tr><td>Arabic No</td><td>4325</td></tr><tr><td>Reference</td><td>Book 64 Hadith 355</td></tr></tbody></table></div>
 

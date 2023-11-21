@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:If you wish to know about the ignorance of the Arabs, refer 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Nu'man] telah bercerita kepada kami [Abu 'Awanah] dari [Abu Bisyir] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Jika kamu dapat bergembira dengan mengetahui kejahilan orang Arab, maka bacalah firman Allah Subhaanahu wa Ta'ala mulai dari ("Sungguh telah rugilah orang-orang yang membunuh anak-anak mereka karena kebodohan dan tanpa ilmu...") sampai firman-Nya ("..Sungguh mereka telah sesat dan tidak mendapat petunjuk") (QS al-An'am ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3524</td></tr><tr><td>Arabic No</td><td>3524</td></tr><tr><td>Reference</td><td>Book 61 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Если хотите узнать о невежестве арабов, читайте то, что пришло после сто тридцатого аята в суре “аль-Ан‘ам”: “Понесли урон те, которые убивали своих детей по глупости, безо всякого знания, и запрещали то, чем наделял их Аллах, возводя навет на Аллаха. Они впали в заблуждение и не последовали прямым путём” (аят 140)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3524</td></tr><tr><td>Arabic No</td><td>3524</td></tr><tr><td>Reference</td><td>Book 61 Hadith 34</td></tr></tbody></table></div>
 

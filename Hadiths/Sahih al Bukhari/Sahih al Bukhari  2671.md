@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Hilal bin Umaiya accused his wife before the Prophet (ﷺ) o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ibnu Abi 'Adiy] dari [Hisyam] telah menceritakan kepada kami ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Hilal bin Umayyah menuduh isterinya berbuat serong (selingkuh) dengan Syarik bin Sahma' di hadapan Nabi shallallahu 'alaihi wasallam. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Apakah kamu punya bukti atau punggungmu dipukul?" Maka dia berkata: "Wahai Rasulullah, bila seorang dari kami melihat ada seorang laki-laki bersama isterinya, apakah dia harus mencari bukti?" Beliau kontan mengatakan 'Harus ada bukti, punggungmu harus didera (atas tuduhan ini). Lalu diceritakanlah tentang hadits Li'an (saling melaknat antara yang menuduh dengan yang dituduh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2671</td></tr><tr><td>Arabic No</td><td>2671</td></tr><tr><td>Reference</td><td>Book 52 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что (однажды) Хиляль ибн Умайя, в присутствии Пророка ﷺ обвинил свою жену в совершении прелюбодеяния с Шариком ибн Сахмой, и Пророк ﷺ сказал Хилялю: «Либо предоставь доказательства, либо готовь свою спину для наказания (за клевету)». Хиляль сказал: «О Посланник Аллаха, неужели после того, как кто-нибудь из нас увидит другого мужчину на своей жене, он должен ещё предоставлять доказательства?!» Однако Пророк ﷺ стал повторять: «Либо предоставь доказательства, либо готовь спину для наказания». Затем он полностью рассказал хадис о ли‘ане (разводе призванием проклятия супругов друг на друга)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2671</td></tr><tr><td>Arabic No</td><td>2671</td></tr><tr><td>Reference</td><td>Book 52 Hadith 33</td></tr></tbody></table></div>
 

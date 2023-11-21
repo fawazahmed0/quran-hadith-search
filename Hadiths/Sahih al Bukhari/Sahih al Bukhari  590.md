@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:By Allah, Who took away the Prophet. The Prophet (ﷺ) never mis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami ['Abdul Wahid bin Aiman] berkata, telah menceritakan kepadaku [Bapakku] bahwa dia mendengar ['Aisyah] berkata, "Demi Dzat yang telah mewafatkan beliau, beliau tidak pernah meninggalkan keduanya hingga beliau berjuma Allah, dan tidaklah beliau bertemu Allah hingga terasa berat mengerjakan shalat (tua). Beliau sering mengerjakan shalat dengan duduk, yakni dua rakaat setelah 'Ashar. Namun Nabi shallallahu 'alaihi wasallam tidak mengerjakannya di masjid karena khawatir akan memberatkan ummatnya, sebab beliau lebih suka meringankan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>590</td></tr><tr><td>Arabic No</td><td>590</td></tr><tr><td>Reference</td><td>Book 9 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Клянусь Тем, Кто забрал (Посланника Аллаха ﷺ к Себе), он всегда совершал (эти два рак‘ата) до тех пор, пока не встретил Аллаха, а Аллаха Всевышнего он встретил лишь после того, как молиться (стоя) стало для него трудно, но и тогда он много молился сидя. Пророк ﷺ всегда совершал эти два рак‘ата (дома), никогда не делая этого в мечети из опасений перед тем, что это будет слишком тяжело для (членов) его общины, а он любил всё то, что облегчало им (жизнь)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>590</td></tr><tr><td>Arabic No</td><td>590</td></tr><tr><td>Reference</td><td>Book 9 Hadith 65</td></tr></tbody></table></div>
 

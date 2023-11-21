@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] dari ['Umarah bin 'Umair] dari [Al Aswad bin Yazid] dari [Abdullah] dia berkata; "Jangan sekali-kali salah seorang dari kalian memberi kesempatan bagi syetan dalam shalatnya, hendaknya ia tidak berbalik kecuali ke sisi kanan. Namun aku melihat Rasulullah shallallahu 'alaihi wasallam paling banyak berbalik ke sisi kiri." Ammarah berkata; "Setelah itu, aku mengunjungi Madinah, maka aku dapati rumah-rumah Nabi shallallahu 'alaihi wasallam di sebelah kiri beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (852) Sahih Muslim (707)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1042</td></tr><tr><td>Arabic No</td><td>1042</td></tr><tr><td>Reference</td><td>Book 2 Hadith 653</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах, да будет доволен им Аллах, сказал: «Пусть никто из вас не отдаёт шайтану часть своей молитвы, поворачиваясь (чтобы покинуть место молитвы) только в правую сторону, ибо я видел, что в большинстве случаев Посланник Аллаха ﷺ поворачивался как раз в левую сторону». А ‘Умара сказал: «Прибыв в Медину, я видел, что дома Пророка ﷺ стояли так, что находились с левой стороны от него (во время совершения молитвы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (852) Sahih Muslim (707)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1042</td></tr><tr><td>Arabic No</td><td>1042</td></tr><tr><td>Reference</td><td>Book 2 Hadith 653</td></tr></tbody></table></div>
 

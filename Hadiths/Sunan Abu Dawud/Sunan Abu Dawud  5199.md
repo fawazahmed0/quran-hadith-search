@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying:o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Hendaklah yang kecil mengucapkan salam kepada yang lebih besar, yang berkendaraan kepada yang duduk, dan yang sedikit kepada yang lebih banyak." Telah menceritakan kepada kami [Yahya bin Habib bin Arabi] berkata, telah mengabarkan kepada kami [Rauh] berkata, telah menceritakan kepada kami [Ibnu Juraij] ia berkata; telah mengabarkan kepadaku [Ziyad] bahwa [Tsabit] -mantan budak (yang telah dimerdekakan oleh) 'Abdurrahman bin Zaid- mengabarkan kepadanya bahwa ia mendengar [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang berkendaraan kepada yang berjalan….. lalu ia menyebutkan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6233) Sahih Muslim (2160)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5199</td></tr><tr><td>Arabic No</td><td>5199</td></tr><tr><td>Reference</td><td>Book 43 Hadith 427</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6233) Sahih Muslim (2160)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5199</td></tr><tr><td>Arabic No</td><td>5199</td></tr><tr><td>Reference</td><td>Book 43 Hadith 427</td></tr></tbody></table></div>
 

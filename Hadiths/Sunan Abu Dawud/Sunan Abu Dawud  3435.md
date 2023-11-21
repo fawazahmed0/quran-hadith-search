@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: If anyone buys a slave who 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya], dari [Sufyan], telah menceritakan kepadaku [Salamah bin Kuhail], telah menceritakan kepadaku [orang yang mendengar] [Jabir bin Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang menjual budak dan ia (budak) memiliki harta, maka hartanya adalah milik penjual kecuali pembeli mensyaratkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3435</td></tr><tr><td>Arabic No</td><td>3435</td></tr><tr><td>Reference</td><td>Book 24 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал: «При продаже раба, у которого было имущество, его имущество принадлежит продавцу, если только покупатель не поставил соответствующее условие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3435</td></tr><tr><td>Arabic No</td><td>3435</td></tr><tr><td>Reference</td><td>Book 24 Hadith 20</td></tr></tbody></table></div>
 

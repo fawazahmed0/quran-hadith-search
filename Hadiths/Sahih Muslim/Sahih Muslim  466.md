@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of al-Mughira b. Shu'ba that the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>466</td></tr><tr><td>Arabic No</td><td>189.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 371</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аш-Ша‘би сказал: «Я слышал, как аль-Мугыйра ибн Шу‘ба говорил с минбара: “Муса, мир ему, спросил Могучего и Великого Аллаха о том, кто займёт самое низкое место в Раю”». Затем рассказал хадис, подобный предыдущему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>466</td></tr><tr><td>Arabic No</td><td>189.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 371</td></tr></tbody></table></div>
 

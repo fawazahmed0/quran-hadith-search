@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (p.b.u.h) used to make the two rak'at before the Faj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin 'Abdurrahman] dari bibinya ['Amrah] dari ['Aisyah radliallahu 'anhu] berkata: "Adalah Nabi shallallahu 'alaihi wasallam ". -lewat jalur periwayatan lain--Hadits ini diriwayatkan pula oleh [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Yahya] dia adalah anak dari Sa'id dari [Muhammad bin 'Abdurrahman] dari ['Amrah] dari ['Aisyah radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam meringankan dua raka'at ini sebelum shalat Shubuh hingga aku bertanya: "Apakah anda membaca Ummul Kitab (Al Fatihah)?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1165</td></tr><tr><td>Arabic No</td><td>1165</td></tr><tr><td>Reference</td><td>Book 19 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Я совершил с Посланником Аллаха ﷺ два рак‘ата перед молитвой зухр и два рак‘ата после молитвы зухр, два рак‘ата после пятничной молитвы /джуму‘а/, два рак‘ата после молитвы магъриб и два рак‘ата после молитвы ‘иша»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1165</td></tr><tr><td>Arabic No</td><td>1165</td></tr><tr><td>Reference</td><td>Book 19 Hadith 44</td></tr></tbody></table></div>
 

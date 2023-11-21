@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ataa reported:I heard Ibn Abbas (Allah be pleased with him) narrating to us that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Mujahid] ia berkata; Saya dan Urwah bin Zubair masuk Masjid, dan kami dapati ['Abdullah bin Umar] duduk di sisi kamar [Aisyah] sementara orang-orang sedang melaksanakan shalat Dluha di Masjid. Lalu kami bertanya kepada Ibnu Umar mengenai shalat yang mereka kerjakan itu, Maka Ibnu Umar pun menjawab: "Itu adalah Bid'ah." Lalu Urwah bertanya kepadanya, "Wahai Abu Abdurrahman, berapa kali Rasulullah shallallahu 'alaihi wasallam melakukan umrah?" Ibnu Umar menjawab, "Empat kali umrah, satu diantaranya adalah di bulan Rajab." Mendengar jawabannya, kami tidak enak untuk mendustakan dan membantahnya. Kemudian kami mendengar Aisyah yang sedang bersiwak di dalam kamar, maka Urwah pun bertanya, "Bukankah Anda telah mendengar apa yang dikatakan oleh Abu Abdurrahman wahai Ummul Mukminin?" Aisyah balik bertanya, "Emang apa yang dikatakannya?" Urwah berkata, "Ia berkata, bahwa Nabi shallallahu 'alaihi wasallam telah melakukan umrah sebanyak empat kali, satu diantaranya adalah pada bulan Rajab." Aisyah berkata, "Semoga Allah merahmati Abu Abdirrahman, tidaklah Rasulullah shallallahu 'alaihi wasallam melakukan umrah kecuali selau bersamanya, dan beliau sama sekali tidak pernah umrah di bulan Rajab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>1255.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>1255.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 244</td></tr></tbody></table></div>
 

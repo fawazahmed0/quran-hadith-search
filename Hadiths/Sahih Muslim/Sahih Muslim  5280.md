@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported:I served. (water of) Zamzam to Allah's Messenger (ﷺ), and h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Al Jahdari]; Telah menceritakan kepada kami [Abu 'Awanah] dari [Ashim] dari [Asy Sya'bi] dari [Ibnu 'Abbas] ia berkata; "Aku memberi minum dari Air Zam-zam kepada Rasulullah, lalu beliau minum sambil berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) я напоил Пророка ﷺ (водой) из Замзама и он выпил (её) стоя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
 

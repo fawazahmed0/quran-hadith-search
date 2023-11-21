@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Rabah said:My people married me to a Roman slave-girl of theirs. I had intercour
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Mahdi bin Maimun Abu Yahya], telah menceritakan kepada kami [Muhammad bin Abdullah bin Abu Ya'qub], dari [Al Hasan bin Sa'd] mantan budak Al Hasan bin Ali bin Abu Thalib radliallahu 'anhu, dari [Rabah], ia berkata; keluargaku menikahkanku dengan seorang budak wanita mereka dari Romawi, kemudian aku mencampurinya dan ia melahirkan seorang anak hitam sepertiku, lalu aku menamainya Abdullah. Kemudian aku mencampurinya dan ia melahirkan anak hitam sepertiku lalu aku menamainya 'Ubaidullah, kemudian ia mendapat perhatian budak Romawi milik keluargaku yang bernama Ruhanah dan ia berbicara kepadanya menggunakan bahasa asing. Kemudian ia melahirkan seorang anak berwarna seperti cicak, lalu aku katakan; siapakah ini? Ia berkata; ini adalah anak Yuhanah. Kemudian aku mengadukannya kepada [Utsman] -aku mengira kepada Mahdi- Rabah berkata; kemudian ia menanyakan kepada mereka berdua, dan mereka mengakuinya. Lalu Utsman berkata; apakah kalian berdua rela apabila aku memutuskan diantara kalian dengan keputusan Rasulullah shallallahu 'alaihi wasallam? Sesungguhnya Rasulullah shallallahu 'alaihi wasallam memutuskan bahwa anak mengikuti pemilik ranjang. Al Hasan berkata; kemudian ia mencambuk mereka berdua, dan mereka adalah budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2275</td></tr><tr><td>Arabic No</td><td>2275</td></tr><tr><td>Reference</td><td>Book 13 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Рабаха: «Моя семья женила меня на рабыне-византийке. Я вступил с ней в половые отношения, и она родила такого же темнокожего ребёнка, как и я сам. Я назвал его ‘Абдуллах. Потом я снова вступил с ней в половые отношения, и она снова родила такого же темнокожего ребёнка, как и я сам, и я назвал его ‘Убайдуллах. А потом невольник моей семьи, тоже византиец, по имени Юханна, говоривший с ней на одном языке, замыслил дурное. Вскоре она родила ребёнка, похожего на ящерицу. Я спросил её: “Что это?” Она ответила: “Это от Юханны”. И мы обратились к ‘Усману». Следующие слова, как мне кажется, принадлежат Махди. «Он сказал: “Желаете ли вы, чтобы я вынес по вашему делу такое же решение, какое вынес в своё время Посланник Аллаха ﷺ? Поистине, Посланник Аллаха ﷺ постановил, что ребёнок принадлежит постели”» И, кажется, он сказал: «И он велел высечь невольницу и невольника»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2275</td></tr><tr><td>Arabic No</td><td>2275</td></tr><tr><td>Reference</td><td>Book 13 Hadith 101</td></tr></tbody></table></div>
 

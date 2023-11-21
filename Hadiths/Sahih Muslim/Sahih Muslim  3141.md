@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported that Allah's Messenger (ﷺ) flung pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Abu Khalid Al Ahmar] dan [Abu Idris] dari [Ibnu Juraij] dari [Abu Zubair] dari [Jabir] ia berkata; "Rasulullah shallallahu 'alaihi wasallam melontar Jumrah pada hari Nahr (sepuluh Dzulhijjah) di waktu Dluha; dan sesudah itu (yaitu tanggal sebelas, dua belas dan tiga belas) sesudah matahari tergelincir." Dan Telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Isa] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Zubair] bahwa ia mendengar [Jabir bin Abdullah] berkata; Bahwasanya Nabi shallallahu 'alaihi wasallam. yakni dengan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3141</td></tr><tr><td>Arabic No</td><td>1299.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 345</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3141</td></tr><tr><td>Arabic No</td><td>1299.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 345</td></tr></tbody></table></div>
 

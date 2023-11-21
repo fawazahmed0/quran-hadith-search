@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:When the Messenger of Allah (ﷺ) finished his prayer late in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Hakim] telah menceritakan kepada kami [Bisyr bin Umar] telah menceritakan kepada kami [Malik bin Anas] dari [Salim Abu An Nadlr] dari [Abu Salamah bin Abdurrahman] dari [Aisyah] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam selesai melaksanakan shalat di akhir malam, maka beliau memperhatikanku, apabila aku telah bengun, beliau pun bercakap-cakap denganku, dan apabila aku masih tertidur, beliau akan membangunkanku, kemudian beliau shalat dua raka'at, setelah itu beliau berbaring hingga Mu'adzin datang untuk mengumandangkan adzan shalat shubuh, lalu beliau mengerjakan shalat (sunnah) dua raka'at yang singkat, setelah itu beliau keluar untuk mengerjakan shalat (Subuh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1119) Sahih Muslim (743)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1262</td></tr><tr><td>Arabic No</td><td>1262</td></tr><tr><td>Reference</td><td>Book 5 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах: «Когда Посланник Аллаха ﷺ завершал свою дополнительную молитву в конце ночи, он смотрел, (сплю ли я), и если я не спала, то мы разговаривали. Если же я спала, он будил меня и совершал молитву в два рак‘ата, а потом ложился и лежал до прихода муаззина, который произносил азан, призывая на утреннюю молитву. Потом Посланник Аллаха ﷺ совершал два лёгких рак‘ата, после чего выходил для совершения обязательной молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1119) Sahih Muslim (743)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1262</td></tr><tr><td>Arabic No</td><td>1262</td></tr><tr><td>Reference</td><td>Book 5 Hadith 13</td></tr></tbody></table></div>
 

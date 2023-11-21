@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:On the day of Ibrahim's death, the sun eclipsed a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Zaidah] berkata, telah menceritakan kepada kami [Ziyad bin 'Alaqah] berkata, "Aku mendengar [Al Mughirah bin Syu'bah] berkata, "Telah terjadi gerhana matahari ketika wafatnya Ibrahim. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah, dan ia tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang. Jika kalian melihat gerhana keduanya, maka berdo'alah kepada Allah dan dirikan shalat hingga (matahari) kembali nampak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1060</td></tr><tr><td>Arabic No</td><td>1060</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугира ибн Шу‘ба, сказал: «В день смерти Ибрахима произошло солнечное затмение, и люди стали говорить: “Затмение произошло из-за смерти Ибрахима”. (Услышав это,) Посланник Аллаха ﷺ сказал: “Поистине, солнечные и лунные затмения не происходят ни из-за смерти, ни из-за жизни кого бы то ни было (из людей), если же вы увидите (подобное), взывайте к Аллаху и совершайте молитву, пока оно не закончится»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1060</td></tr><tr><td>Arabic No</td><td>1060</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
 

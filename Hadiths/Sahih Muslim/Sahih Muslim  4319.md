@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Ibn 'Umar through another chai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; aku membacakannya di hadapan [Malik]; dari [Nafi'] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh, jika seorang budak baik dalam berbakti kepada tuannya dan baik dalam beribadah kepada Allah, maka dia akan mendapatkan pahala dua kali lipat." Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] keduanya berkata; telah menceritakan kepada kami [Yahya] -yaitu Al Qatthan-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Numair] dan [Abu Usamah] semuanya dari ['Ubaidullah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Usamah] semuanya dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam seperti haditsnya Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4319</td></tr><tr><td>Arabic No</td><td>1664.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4319</td></tr><tr><td>Arabic No</td><td>1664.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 66</td></tr></tbody></table></div>
 

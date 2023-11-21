@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mas'oûd (que Dieu l'agrée), ce verset : Ceux qu'ils i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hajjaj bin Asy Sya'ir] telah menceritakan kepada kami [Abdushshamad bin Abdulwarits] telah menceritakan kepadaku [ayahku] telah menceritakan kepada kami [Husain] dari [Qatadah] dari [Abdullah bin Ma'bad Az ZImmani] dari [Abdullah bin Utbah] dari [Abdullah bin Mas'ud]: "Mereka itulah orang-orang yang selalu berdoa dan mencari kepada Rabb mereka wasilah." (Al Israa': 57) Ia berkata: Turun berkenaan dengan segolongan orang arab, mereka menyembah sekelompok jin lalu para jin itu masuk Islam sementara orang-orangnya tetap menyembah mereka tanpa mereka sadari. Kemudian turun ayat: "Mereka itulah orang-orang yang selalu berdoa dan mencari kepada Rabb mereka wasilah." (Al Israa':)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7557</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7557</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

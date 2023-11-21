@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Qais bint Mihsan:I heard the Prophet (ﷺ) saying, "Treat with the I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Al Fadl] telah mengabarkan kepada kami [Ibnu 'Uyainah] dia berkata; saya mendengar [Az Zuhri] dari ['Ubaidullah] dari [Ummu Qais binti Mihshan] berkata; saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Gunakanlah dahan kayu India, karena didalamnya terdapat tujuh macam penyembuh, dan dapat menghilangkan penyakit (racun) di antaranya adalah radang penyakit paru.' Ibnu Sam'an berkata dalam haditsnya; "Karena sesungguhnya padanya terdapat obat dari tujuh macam jenis penyakit, di antaranya adalah radang penyakit paru (dada)." Lalu aku menemui Nabi shallallahu 'alaihi wasallam sambil membawa bayiku yang belum makan makanan, lalu bayiku mengencingi beliau, maka beliau meminta air dan memercikinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5692</td></tr><tr><td>Arabic No</td><td>5692</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Къайс бинт Михсан, да будет доволен ею Аллах, сказала: «(Однажды) я услышала, как Пророк ﷺ сказал: “Вам следует пользоваться этим индийским ладаном, ибо он исцеляет от семи недугов, и его курения нужно вдыхать тем, у кого болит горло, и класть в рот тем, кто страдает плевритом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5692</td></tr><tr><td>Arabic No</td><td>5692</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

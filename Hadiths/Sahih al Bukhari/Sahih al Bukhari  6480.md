@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:The Prophet (ﷺ) said, "There was a man amongst the people wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Rib'i] dari [Hudzaifah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sebelum kalian ada seseorang yang berburuk sangka dengan amalannya, lalu dia berkata kepada keluarganya; 'Apabila aku mati, ambillah jasadku, lalu sebarkan (abu) ku di laut pada saat hari sangat panas. Saat ia mati keluarganya melaksanakan pesan itu. Lalu Allah menyatukannya dan berfirman padanya: Apa yang membuatmu melakukan hal itu? Orang itu menjawab: Aku tidak melakukan hal itu kecuali karena takut kepada-Mu. Maka Allah mengampuninya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6480</td></tr><tr><td>Arabic No</td><td>6480</td></tr><tr><td>Reference</td><td>Book 81 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хузейфы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Среди людей, живших до вас был человек, который понимал, что дела его не являются благими (т.е. совершал грехи). Поэтому он сказал своей семье: “Если я умру, возьмите меня, сожгите мое тело и бросьте мой пепел в море в жаркий (или ветреный) день”. Они так и сделали, но Аллах, собрав его частицы, спросил его: “Что заставило тебя сделать то, что ты сделал?” Он ответил: “Единственное, что заставило меня сделать это, это страх перед Тобой”. И Аллах простил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6480</td></tr><tr><td>Arabic No</td><td>6480</td></tr><tr><td>Reference</td><td>Book 81 Hadith 69</td></tr></tbody></table></div>
 

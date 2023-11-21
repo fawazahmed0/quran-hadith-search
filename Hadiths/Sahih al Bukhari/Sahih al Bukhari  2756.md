@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The mother of Sa'd bin 'Ubada died in his absence. He said, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Makhlad bin Yazid] telah mengabarkan kepada kami [Ibnu Juraij] berkata telah bercerita kepadaku [Ya'laa] bahwa dia mendengar ['Ikrimah] berkata; telah memberitakan kepada kami [Ibnu 'Abbas radliallahu 'anhuma] bahwa Sa'ad bin 'Ubadah radliallahu 'anhu ibunya meninggal dunia saat dia tidak ada disisinya. Kemudian dia berkata: "Wahai Rasulullah, ibuku meninggal dunia saat aku tidak ada. Apakah akan bermanfaat baginya bila aku menshadaqahkan sesuatu?" Beliau bersabda: "Ya". Dia berkata: "Aku bersaksi kepada Tuan bahwa kebunku yang penuh dengan bebuahannya ini aku shadaqahkan atas (nama) nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2756</td></tr><tr><td>Arabic No</td><td>2756</td></tr><tr><td>Reference</td><td>Book 55 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что когда мать Са‘да ибн ‘Убады, да будет доволен им Аллах, умерла в его отсутствие, он сказал: «О Посланник Аллаха, поистине, в моё отсутствие умерла моя мать. Принесёт ли ей пользу милостыня, которую я подам от её имени?» (Посланник Аллаха ﷺ) сказал: «Да». Тогда Са‘д сказал: «Я беру тебя в свидетели того, что отдаю свой сад под названием аль-Михраф в качестве милостыни от имени моей матери»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2756</td></tr><tr><td>Arabic No</td><td>2756</td></tr><tr><td>Reference</td><td>Book 55 Hadith 19</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:While we were in the company of the Prophet, he said, "Whil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin Abu Maryam] telah bercerita kepada kami [Al Laits] berkata telah bercerita kepadaku ['Uqail] dari [Ibnu Syihab] berkata telah mengabarkan kepadaku [Sa'id bin Al Musayyab] bahwa [Abu Hurairah radliallahu 'anhu] berkata; "Kami sedang bersama Rasulullah shallallahu 'alaihi wasallam ketika Beliau bersabda: "Ketika aku tertidur, aku (bermimpi) diperlihatkan surga, di dalamnya ada seorang wanita yang sedang berwudlu' di sisi istana. Aku bertanya: "Untuk siapakah istana itu". Mereka menjawab; "Untuk 'Umar bin Al Khtahthab". Maka kuingat kecemburuannya lalu aku pun berlalu. Maka 'Umar menangis seraya berkata; "Apakah patut aku cemburu kepadamu wahai Rasulullah?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 59 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал:\n— (Однажды, когда) мы находились в обществе Посланника Аллаха ﷺ, он сказал: «Во сне я увидел, что нахожусь в Раю, где встретил женщину, совершавшую омовение рядом с каким-то дворцом. Я спросил: “Кому принадлежит этот дворец?” (Мне) ответили: “‘Умару ибн аль-Хаттабу”, а потом я вспомнил о ревности (‘Умара) и поспешно удалился (оттуда». Услышав это,) ‘Умар заплакал и сказал: «Могу ли я ревновать(, когда речь идёт о) тебе, о Посланник Аллаха?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 59 Hadith 53</td></tr></tbody></table></div>
 

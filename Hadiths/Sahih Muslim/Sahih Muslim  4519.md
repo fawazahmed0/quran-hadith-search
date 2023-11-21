@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Omar (رضي الله عنهما) a dit : "D'après Nâfi', le P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah menceritakan kepada kami [Sulaim bin Ahdlar] dari [Ibnu 'Aun] dia berkata, "Aku pernah mengirim surat kepada [Nafi'] dan bertanya perihal pernyataan perang sebelum perang di mulai." Ibnu 'Aun melanjutkan, "Lalu Nafi' membalas suratku, tulisnya, 'Hal itu pernah terjadi pada permulaan Islam, suatu ketika Rasulullah shallallahu 'alaihi wasallam menyerang Bani Musthaliq secara mendadak disaat mereka sedang lengah, yaitu ketika mereka sedang memberi minum ternak mereka. Kemudian terjadilah perang hingga mereka banyak yang terbunuh dan tertawan, dan pada hari itulah Juwairiyah binti Hatits tertawan'." [Yahya] berkata, "Aku kira dia mengatakan, 'Juwairiyah' atau, 'anak gadisnya Al Harits'. Hadits ini disampaikan kepadaku oleh [Abdullah bin Umar], saat itu dia termasuk orang yang ikut berperang sebagai prajurit dalam pasukan." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] dari [Ibnu 'Aun] dengan isnad seperti ini. Ibnu 'Aun berkata, "Yaitu Juwairiyah binti Al Harits -tanpa ada keraguan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4519</td></tr><tr><td>Arabic No</td><td>1730.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4519</td></tr><tr><td>Arabic No</td><td>1730.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
 

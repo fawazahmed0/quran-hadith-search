@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Safiyyah, daughter of Atiyyah, said: I entered u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ziyad bin Yahya Al Hassani] telah menceritakan kepada kami [Abu Bahr] telah menceritakan kepada kami ['Attab bin Abdul Aziz Al Himmani] telah menceritakan kepadaku [Shafiyyah binti 'Athiyyah] ia berkata, "Aku bersama beberapa orang wanita dari Abdul Qais menemui Aisyah dan bertanya kepadanya mengenai kurma dan anggur. Lalu [Aisyah] menjawab, "Aku pernah mengambil satu genggam kurma dan satu genggam anggur, lalu aku memasukkannya ke dalam bejana, aku lalu memerasnya untuk kemudian aku berikan kepada Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сафийи бинт ‘Атыйя: «Я зашла к ‘Аише вместе с другими женщинами из племени ‘абду-ль-Кайс, и мы спросили её о финиках и изюме. Она ответила: “Я брала горсть изюма и горсть фиников, бросала в сосуд, заливала водой и потирала плоды пальцами, а потом поила Пророка ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
 

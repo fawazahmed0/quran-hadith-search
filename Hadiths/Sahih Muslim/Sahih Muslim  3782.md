@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah's be pleased with her) reported that she had bought Barira from th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Husain bin 'Ali] dari [Za'idah] dari [Simak] dari [Abdurrahman bin Qasim] dari [ayahnya] dari ['Aisyah] bahwa dia membeli Barirah dari keluarga orang Anshar, namun mereka mensyaratkan hak perwalian. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Hak perwalian itu bagi orang yang memerdekakannya." Lalu Rasulullah shallallahu 'alaihi wasallam memberikan pilihan, saat itu suaminya adalah seorang budak, dan dia pernah menghadiahkan daginga kepada Aisyah, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya kalian membuat makanan dari daging ini." 'Aisyah berkata; "Ini adalah daging yang disedekahkan kepada Barirah." Maka beliau bersabda: "Daging itu untuknya adalah sedekah sedangkan untuk kita adalah hadiah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3782</td></tr><tr><td>Arabic No</td><td>1504.07</td></tr><tr><td>Reference</td><td>Book 20 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3782</td></tr><tr><td>Arabic No</td><td>1504.07</td></tr><tr><td>Reference</td><td>Book 20 Hadith 13</td></tr></tbody></table></div>
 

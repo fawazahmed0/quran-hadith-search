@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "The good deeds of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Abu 'Ubaid] bekas budak Abdurrahman bin Auf bahwa [Abu Hurairah] berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada seorang pun yang masuk surga karena amalannya." Para sahabat bertanya; "Begitu juga dengan engkau wahai Rasulullah?" beliau bersabda: "tidak juga dengan diriku, kecuali bila Allah melimpahkan karunia dan rahmat-Nya padaku, oleh karena itu berlaku luruslah dan bertaqarublah dan janganlah salah seorang dari kalian mengharapkan kematian, jika dia orang baik semoga saja bisa menambah amal kebaikannya, dan jika dia orang yang buruk (akhlaknya) semoga bisa menjadikannya dia bertaubat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5673</td></tr><tr><td>Arabic No</td><td>5673</td></tr><tr><td>Reference</td><td>Book 75 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу ‘Убайда — вольноотпущенника ‘Абдуррахмана ибн ‘Ауфа о том, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как (однажды) Посланник Аллаха ﷺ говорил: “Никого не введут в Рай дела его”. (Люди) спросили: “И даже тебя, о Посланник Аллаха?” (Пророк ﷺ) сказал: “И даже меня, если только Аллах не окажет мне Свою милость и не проявит по отношению ко мне милосердие, (а поэтому) придерживайтесь правильного и приближайтесь, и пусть никто из вас не желает себе смерти, ибо если он совершает благое, то, может быть, (станет совершать) его ещё больше, если же он совершает дурное, то, может быть, он покается!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5673</td></tr><tr><td>Arabic No</td><td>5673</td></tr><tr><td>Reference</td><td>Book 75 Hadith 33</td></tr></tbody></table></div>
 

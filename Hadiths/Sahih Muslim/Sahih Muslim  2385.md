@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما) : Pendant qu'il éta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] -sebagaimana yang telah dibacakan kepadanya- dari [Nafi'] dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda di atas mimbar, beliau menyebut tentang sedekah dan menahan diri dari meminta-minta. Sabda beliau: "Tangan yang di atas lebih baik daripada tangan yang dibawah. Tangan di atas adalah tangan pemberi sementara tangan yang di bawah adalah tangan peminta-minta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2385</td></tr><tr><td>Arabic No</td><td>1033</td></tr><tr><td>Reference</td><td>Book 12 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, что (однажды) Посланник Аллаха ﷺ, (произносивший проповедь) с минбара, упомянул о милостыне и воздержании от попрошайничества и сказал: «Высшая рука лучше руки низшей. Высшая рука это рука расходующая, а низшая рука просящая»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2385</td></tr><tr><td>Arabic No</td><td>1033</td></tr><tr><td>Reference</td><td>Book 12 Hadith 122</td></tr></tbody></table></div>
 

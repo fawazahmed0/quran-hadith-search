@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir bin ‘Abdallah said The bProphet (SWAS) commanded that he who plucks ten 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdul Aziz bin Yahya Al Harrani], telah menceritakan kepadaku [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Muhammad bin Yahya bin Hibban] dari [pamannya yaitu Wasi' bin Habban] dari [Jabir bin Abdullah] bahwa Nabi shallallahu 'alaihi wasallam memerintahkan dari setiap buah yang berjumlah sepuluh wasaq kurma diambil satu tandan dan digantungkan di masjid untuk orang-orang miskin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1662</td></tr><tr><td>Arabic No</td><td>1662</td></tr><tr><td>Reference</td><td>Book 9 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ велел выделять с пальм, дающих десять васков фиников, гроздь и подвешивать её в мечети для бедных
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1662</td></tr><tr><td>Arabic No</td><td>1662</td></tr><tr><td>Reference</td><td>Book 9 Hadith 107</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sahl Ibn Sa'd (que Dieu l'agrée), Abou 'Usayd As-Sâ'idî invita l'Env
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz] -yaitu Ibnu Abu Hazim- dari [Abu Hazim] dari [Sahal bin Sa'd] dia berkata, "Abu Usaid As Sa'idi mengundang Rasulullah shallallahu 'alaihi wasallam di hari pernikahannya, Saat itu, isterinya membantu mereka, padahal ia adalah pengantin wanita." Sahl bertkata, "Tahukah kalian minuman apa yang ia suguhkan olehnya (isterinya) kepada Rasulullah shallallahu 'alaihi wasallam?" ia merendam kurma di dalam kuwali pada waktu malam, ketika beliau makan, ia memberikan minuman tersebut kepada beliau." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub] -yaitu Ibnu Abdurrahman- dari [Abu Hazim] dia berkata; saya mendengar [Sahl] berkata, "Abu Usaid As Sa'idi datang kepada Rasulullah shallallahu 'alaihi wasallam, lalu ia mengundang Rasulullah shallallahu 'alaihi wasallam…seperti hadits di atas, namun ia tidak menyebutkan, "Ketika beliau makan, maka wanita itu menuangkannya kepada beliau." Dan telah menceritakan kepadaku [Muhammad bin Sahl At Tamimi] telah menceritakan kepada kami [Ibnu Abu Maryam] telah mengabarkan kepada kami [Muhammad] -yaitu Abu Ghassan- telah menceritakan kepadaku [Abu Hazim] dari [Sahl bin Sa'd] dengan hadits ini, ia menambahkan, "…menuangkannya di kuwali yang terbuat dari tanah, seusai Rasulullah shallallahu 'alaihi wasallam makan, maka ia menuangkan minuman tersebut untuk beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5233</td></tr><tr><td>Arabic No</td><td>2006.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5233</td></tr><tr><td>Arabic No</td><td>2006.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 107</td></tr></tbody></table></div>
 

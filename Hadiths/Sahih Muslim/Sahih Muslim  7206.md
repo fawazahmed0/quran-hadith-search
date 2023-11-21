@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Miqdad b. Aswad reported:I heard Allah's Messenger (may peace he upon him) as sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hakam bin Musa Abu Shalih] telah menceritakan kepada kami [Yahya bin Hamzah] dari [Abdurrahman bin Jabir] telah menceritakan kepadaku [Sulaim bin Amir] telah menceritakan kepadaku [Al Miqdad bin Al Aswad] berkata: Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: " Pada hari kiamat, matahari di dekatkan ke manusia hingga sebatas satu mil -berkata Sulaim bin Amir: Demi Allah, aku tidak tahu apakah beliau memaksudkan jarak bumi ataukah mil yang dipakai bercalak mata- lalu mereka berada dalam keringat sesuai amal perbuatan mereka, di antara mereka ada yang berkeringat hingga tumitnya, ada yang berkeringat hingga lututnya, ada yang berkeringat hingga pinggang dan ada yang benar-benar tenggelam oleh keringat." Al Miqdad berkata: Rasulullah Shallallahu 'alaihi wa Salam menunjuk dengan tangan ke mulut beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7206</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 53 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Микъдад (да будет доволен им Аллах) сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “В День воскресения солнце будет приближено к людям (и окажется от них на расстоянии,) равном миле”».Сулейм ибн ‘Амир, передавший этот хадис со слов аль-Микъдада, сказал: «И клянусь Аллахом, я не знаю, что именно он подразумевает под (словом) “миль” меру длины или палочку для нанесения сурьмы на глаза».(Далее посланник ﷺ сказал): Что же касается людей, то сообразно своим делам они погрузятся в (собственный) пот, и у некоторых из них он будет доходить до щиколоток, (у других) до колен, (у третьих) до поясницы, а некоторых из них он взнуздает, и (сказав это,) Посланник Аллаха ﷺ указал рукой на свой рот
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7206</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 53 Hadith 75</td></tr></tbody></table></div>
 

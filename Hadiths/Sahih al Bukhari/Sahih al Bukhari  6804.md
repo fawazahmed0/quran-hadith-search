@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A group of people from 'Ukl (tribe) came to the Prophet (ﷺ) and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] dari [Wuhaib] dari [Ayyub] dari [Abu Qilabah] dari [Anas] radliallahu 'anhu, mengatakan; Sekelompok orang dari kabilah 'Ukl menemui Nabi shallallahu 'alaihi wasallam, mereka pada awal mulanya disinggahkan di serambi masjid, namun mereka alergi dengan iklim Madinah. Maka mereka mengusulkan; "Ya Rasulullah, carikanlah air susu untuk kami." Nabi menjawab: "aku tak bisa berbuat apa-apa selain menyarankan kalian untuk mendatangi unta Rasulullah!" Lantas mereka pun mendatanginya, meminum air susunya dan air kencingnya hingga sehat dan gemuk. Tetapi mereka malah membantai penggembala dan merampok sekawanan unta-unta tersebut. seorang juru seru menemui Nabi shallallahu 'alaihi wasallam, maka beliau mengutus pasukan untuk memburu jejak mereka. Belum juga siang berganti malam, mereka berhasil tertangkap. Maka Nabi memerintahkan diberi paku yang dipanaskan, kemudian beliau mencongkel mata mereka, memotong tangan-tangan dan kaki mereka, dan beliau tidak menghentikan penghukuman kepada mereka, kemudian mereka dibuang di harrah. Mereka minta minum namun tidak dipenuhi hingga tewas. Abu Qilabah mengatakan dengan redaksi; mereka mencuri, membunuh dan memerangi Allah dan Rasul-NYA
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6804</td></tr><tr><td>Arabic No</td><td>6804</td></tr><tr><td>Reference</td><td>Book 86 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(В своё время) группа (из восьми человек) из племени ‘укль приехала к Пророку ﷺ в Медину и стала жить в ас-Суффе, где они почувствовали недомогание из-за её климата. Они сказали: “О Посланник Аллаха! Найди для нас молока!” Пророк ﷺ сказал: “Вам придётся пойти к верблюдам Посланника Аллаха”. Они отправились (куда им было сказано) и пили там молоко и мочу (дойных верблюдиц). Выздоровев и поправившись, они убили пастуха и угнали (весь) скот. Когда до Пророка ﷺ дошёл крик (пастуха), он отправил за ними (погоню), и ещё до того, как солнце поднялось высоко, их привели. Пророк ﷺ приказал нагреть гвозди и выжить им глаза, а также отрубить им руки и ноги и не прижигать (кровоточащие раны). Затем их бросили на Харре (каменистая земля в Медине), где они просили напоить их, но никто не дал им воды, пока они не умерли».\nАбу Кыляба (, который передал этот хадис,) сказал: «(Эти люди) своровали, убили и стали воевать с Аллахом и Его Посланником ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6804</td></tr><tr><td>Arabic No</td><td>6804</td></tr><tr><td>Reference</td><td>Book 86 Hadith 33</td></tr></tbody></table></div>
 

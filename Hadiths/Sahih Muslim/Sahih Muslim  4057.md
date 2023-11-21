@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah be pleased with him) reported Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub] -yaitu Ibnu Abdurrahman Al Qari- dari [Suhail] dari [Ayahnya] dari [Abu Sa'id Al Khudri], bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Janganlah kalian melakukan jual beli emas dengan emas, atau perak dengan perak, kecuali jika dengan jumlah yang sama, atau sama berat atau sama takarannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4057</td></tr><tr><td>Arabic No</td><td>1584.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4057</td></tr><tr><td>Arabic No</td><td>1584.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 96</td></tr></tbody></table></div>
 

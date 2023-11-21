@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Ubaid:(in continuation of above). Then I witnessed (the 'Its) with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5573</td></tr><tr><td>Arabic No</td><td>5573</td></tr><tr><td>Reference</td><td>Book 73 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Далее Абу ’Убейд сказал: «Затем я присутствовал на праздничной молитве с ’Али ибн Аби Талибом. Он совершил (праздничную) молитву до проповеди, а потом обратился к людям, сказав: “Поистине, Посланник Аллаха ﷺ запретил вам есть мясо жертвенных животных более трёх дней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5573</td></tr><tr><td>Arabic No</td><td>5573</td></tr><tr><td>Reference</td><td>Book 73 Hadith 29</td></tr></tbody></table></div>
 

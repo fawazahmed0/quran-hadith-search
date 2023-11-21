@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Khalid ibn al-Walid: The Messenger of Allah (ﷺ) forbade us to eat hor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Syabib] dan [Haiwah bin Syuraih Al Himshi] [Haiwah] berkata; telah menceritakan kepadaku [Baqiyyah] dari [Tsaur bin Yazid] dari [Shalih bin Yahya bin Al Miqdam bin Ma'dikarib] dari [Ayahnya] dari [Kakeknya] dari [Khalid bin Al Walid] bahwa Rasulullah shallallahu 'alaihi wasallam melarang kami makan daging kuda, bighal, dan keledai." Haiwah menambahkan, "Dan setiap binatang buas yang bertaring." Abu Daud berkata, "Ini adalah pendapat Malik." Abu Daud berkata, "Tidak mengapa memakan daging kuda, dan hal tersebut bukan menjadi dasar beramal." Abu Daud berkata, "Hadits ini telah dihapuskan, sebab sejumlah sahabat Nabi shallallahu 'alaihi wasallam telah memakan daging kuda. Di antara mereka adalah Ibnu Az Zubair, Fadlalah bin 'Ubaid, Anas bin Malik, Asma' binti Abu Bakar, Suwaid bin Ghafalah, dan 'Alqamah. Dan orang-orang Quraisy pada zaman Rasulullah shallallahu 'alaihi wasallam juga menyembelihnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3790</td></tr><tr><td>Arabic No</td><td>3790</td></tr><tr><td>Reference</td><td>Book 28 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Халид ибн аль-Валид, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ запретил есть мясо лошадей, мулов и домашних ослов, а также всех зверей, имеющих когти. Абу Дауд сказал: «Это мнение Малика». И он сказал: «В действительности, в употреблении в пищу конины нет ничего запретного и нет оснований поступать согласно этому хадису. Это постановление отменено и известно, что многие сподвижники ели конину, в том числе Ибн аз-Зубайр, Фадаля ибн ‘Убайд, Анас ибн Малик, Асма бинт Абу Бакр, Сувайд ибн Гафаля и ‘Алькама, и курайшиты резали лошадей при жизни Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3790</td></tr><tr><td>Arabic No</td><td>3790</td></tr><tr><td>Reference</td><td>Book 28 Hadith 55</td></tr></tbody></table></div>
 

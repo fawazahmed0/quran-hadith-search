@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin 'Ali:'Ali was told that Ibn 'Abbas did not see any harm in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ubaidullah bin Umar] telah menceritakan kepada kami [Az Zuhri] dari [Al Hasan] dan [Abdullah], kedua anak Muhammad bin Ali, dari [ayah keduanya], bahwa di sampaikan kepada [Ali] radliallahu 'anhu; bahwa Ibnu Abbas menganggap nikah mut'ah tidak masalah, maka Ali berkata; 'Rasulullah telah melarangnya pada hari khaibar, dan beliau melarang daging keledai jinak.' Sebagian orang mengatakan; bahwa jika seseorang menyiasati sehingga nikah mut'ah, maka nikahnya rusak, sedang sebagian yang lain mengatakan nikahnya boleh dan syaratnya bathil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6961</td></tr><tr><td>Arabic No</td><td>6961</td></tr><tr><td>Reference</td><td>Book 90 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Мухаммада ибн ‘Али, что когда ‘Али, да будет доволен им Аллах, рассказали о том, что Ибн ‘Аббас не видит ничего предосудительного в заключении временных браков /мут‘а/, он сказал: «Поистине, Посланник Аллаха ﷺ запретил временные браки /мут‘а/ и употребление в пищу мяса домашних ослов в день Хайбара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6961</td></tr><tr><td>Arabic No</td><td>6961</td></tr><tr><td>Reference</td><td>Book 90 Hadith 8</td></tr></tbody></table></div>
 

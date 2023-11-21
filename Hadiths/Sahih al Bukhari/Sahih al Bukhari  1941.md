@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi 'Aufa:We were in the company of Allah's Messenger (ﷺ) on a jo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] dari [Abu Ishaq Asy-Syaibaniy] dia mendengar [Ibnu Abu Awfa radliallahu 'anhudhiyallahu'anhu] berkata; Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan yang ketika itu beliau berkata kepada seseorang: "Turunlah disini dan siapkan minuman buatku". Orang itu berkata: "Wahai Rasulullah, bukankah masih ada matahari?" Beliau berkata, lagi: "Turunlah (berhenti disini) dan siapkan minuman buatku". Orang itu berkata, lagi: "Wahai Rasulullah, bukankah masih ada matahari?" Beliau berkata, lagi: "Turunlah dan siapkan minuman buatku". Maka orang itu berhenti lalu memberikan minuman kepada Beliau, lalu Beliau minum kemudian melempar sesuatu dengan tangan Beliau ke suatu arah lalu bersabda: "Apabila kalian telah melihat malam sudah datang dari arah sana maka orang yang puasa sudah boleh berbuka ". Hadits inidikuatkan pula oleh [Jarir] dan [Abu Bakar bin 'Ayyasy] dari [Asy-Syaibaniy] dari [Ibnu Abu Awfa radliallahu 'anhu] berkata: "Aku pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1941</td></tr><tr><td>Arabic No</td><td>1941</td></tr><tr><td>Reference</td><td>Book 30 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Абу Ауфа, да будет доволен Аллах ими обоими, сказал: «(Однажды, когда) мы вместе с посланником Аллаха ﷺ находились в пути, он велел одному человеку: “Спешься и размешай для меня (еду)”. Этот человек сказал: “О Посланник Аллаха, а солнце?!” (Пророк ﷺ снова) сказал: “Спешься и размешай для меня (еду)”. (Человек) сказал: “О Посланник Аллаха, а солнце?!” (Пророк ﷺ в третий раз) сказал: “Спешься и размешай для меня (еду)”, и тогда тот спешился, размешал для (Пророка ﷺ) еду, и он попил, после чего указал рукой (на восток) и сказал: “Когда увидите, что отсюда надвигается ночь, постящемуся следует разговляться”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1941</td></tr><tr><td>Arabic No</td><td>1941</td></tr><tr><td>Reference</td><td>Book 30 Hadith 48</td></tr></tbody></table></div>
 

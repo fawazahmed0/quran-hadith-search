@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas bin Malik said “The Apostle of Allaah(ﷺ) attacked Khaibar and we captur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Daud bin Mu'adz], telah menceritakan kepada kami [Abdul Warits]. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ya'qub bin Ibrahim], dan [Ziyad bin Ayyub], bahwa [Isma'il bin Ibrahim] telah menceritakan kepada mereka dari [Abdul Aziz bin Shuhaib], dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam memerangi Khaibar dan mendapatkannya dengan kekerasan, kemudian dikumpulkan tawanannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (371) Sahih Muslim (1365 After 1427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3009</td></tr><tr><td>Arabic No</td><td>3009</td></tr><tr><td>Reference</td><td>Book 20 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ взял Хайбар с боем и захватил пленных
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (371) Sahih Muslim (1365 After 1427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3009</td></tr><tr><td>Arabic No</td><td>3009</td></tr><tr><td>Reference</td><td>Book 20 Hadith 82</td></tr></tbody></table></div>
 

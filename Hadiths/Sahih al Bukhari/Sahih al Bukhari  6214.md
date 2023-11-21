@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:That he heard Allah's Messenger (ﷺ) saying. "Then
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dia berkata; saya mendengar [Abu Salamah bin Abdurrahman] berkata; telah mengabarkan kepadaku [Jabir bin Abdullah] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Kemudian wahyu terhenti dariku, ketika aku berjalan, tiba-tiba aku mendengar suara dari langit, aku langsung memandang ke arah langit, ternyata malaikat yang datang kepadaku ketika di go'a hira' tengah duduk di atas kursi antara langit dan bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6214</td></tr><tr><td>Arabic No</td><td>6214</td></tr><tr><td>Reference</td><td>Book 78 Hadith 238</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Джабира ибн ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Затем настал период, когда откровение перестало приходить ко мне. И (как-то раз) я шёл (по дороге) и вдруг услышал голос с неба. Я поднял голову и увидел ангела, явившегося ко мне (в пещеру на горе) Хира, который (на этот раз) сидел на троне между небом и землёй»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6214</td></tr><tr><td>Arabic No</td><td>6214</td></tr><tr><td>Reference</td><td>Book 78 Hadith 238</td></tr></tbody></table></div>
 

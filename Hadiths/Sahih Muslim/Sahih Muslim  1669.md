@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Murra, the freed slave of Umm Hani, daughter of Abu Talib, reported Umm Hani
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1669</td></tr><tr><td>Arabic No</td><td>336.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Умм Хани бинт Аби Талиб, сказала: «B год завоевания Мекки я отправилась к Посланнику Аллаха ﷺ, (войдя) к нему в то время, когда он совершал большое омовение, а его дочь Фатыма прикрывала его одеждой. Я обратилась к нему с приветствием, а он спросил: “Кто эта (женщина)?”, а я отозвалась: “Я Умм Хани бинт Аби Талиб”. Он сказал: “Добро пожаловать, Умм Хани!”, а после того, как закончил своё омовение, совершил молитву в восемь рак‘атов, завернувшись в одну одежду. Когда он закончил (молиться), я сказала: “О Посланник Аллаха, мой брат ‘Али ибн Аби Талиб грозится убить одного человека по имени такой-то, сын Хубайра, которого я взяла под свою защиту!” Посланник Аллаха ﷺ сказал: “Мы берём под свою защиту того, кого взяла под свою защиту ты, о Умм Хани”».Умм Хани сказала: «И это было утром /ад-духа/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1669</td></tr><tr><td>Arabic No</td><td>336.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 99</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) judged that seven cubits should be left a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Jarir bin Hazim] dari [Az Zubair bin Khirrit] dari ['Ikrimah] aku mendengar [Abu Hurairah radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam telah menetapkan jika kalian berselisih tentang jalan supaya membaginya sepanjang tujuh hasta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2473</td></tr><tr><td>Arabic No</td><td>2473</td></tr><tr><td>Reference</td><td>Book 46 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Пророк ﷺ решил, что в случае возникновения разногласий относительно дороги (следует оставлять для прохода) семь локтей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2473</td></tr><tr><td>Arabic No</td><td>2473</td></tr><tr><td>Reference</td><td>Book 46 Hadith 34</td></tr></tbody></table></div>
 

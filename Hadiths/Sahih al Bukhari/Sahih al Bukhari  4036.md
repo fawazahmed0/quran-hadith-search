@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Fatima and Al-'Abbas came to Abu Bakr, claiming their inheritanc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] bahwa Fatimah 'alaihis salam dan 'Abbas menemui [Abu Bakr], keduanya menuntut bagian harta warisan mereka, yaitu berupa tanah di Fadak dan saham dari perang Khaibar, maka Abu Bakar berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Kami tidak diwarisi, harta yang kami tinggalkan menjadi sedekah, keluarga Muhammad hanya makan dari harta ini." Maka demi Allah, kerabat Rasulullah shallallahu 'alaihi wasallam lebih aku cintai untuk aku jalin hubungan dengannya daripada kerabatku sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4036</td></tr><tr><td>Arabic No</td><td>4036</td></tr><tr><td>Reference</td><td>Book 64 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бакр сказал: «Я слышал, как Пророк ﷺ говорил: “Мы не оставляем наследства. Всё, что мы оставляем, является милостыней, а члены семьи Мухаммада питаются из этих средств. Клянусь Аллахом, поддерживать связь с родственниками Посланника Аллаха ﷺ мне любимее, чем даже со своими родственниками”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4036</td></tr><tr><td>Arabic No</td><td>4036</td></tr><tr><td>Reference</td><td>Book 64 Hadith 83</td></tr></tbody></table></div>
 

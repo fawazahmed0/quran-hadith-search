@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar (Allah be pleased with them) reported that (the Arabs of) pre-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Numair] -lafazh darinya- Telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] telah mengabarkan kepadaku [Abdullah bin Umar] radliallahu 'anhuma, ia berkata; Orang-orang pada masa Jahiliyah berpuasa di hari 'Asyura'. Rasulullah shallallahu 'alaihi wasallam dan kaum muslimin juga melakukannya sebelum diwajibkannya puasa Ramadlan. Ketiwa puasa Ramadlan diwajibkan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Hari 'Asyura' merupakan hari di antara hari-hari Allah, maka siapa yang ingin berpuasa di hari itu silahkan, dan siapa yang tidak, maka tidaklah mengapa." Dan Telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] dan [Zuhair bin Harb] keduanya berkata, Telah menceritakan kepada kami [Yahya Al Qaththan] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] keduanya dari [Ubaidullah] dengan isnad ini dan serupa dengan hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2642</td></tr><tr><td>Arabic No</td><td>1126.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ сказал: «Абдуллах ибн ‘Умар рассказывал мне о том, что люди времён джахилийи соблюдали пост в день ‘Ашураъ, и в этот день постились Посланник Аллаха ﷺ и мусульмане до того, как Аллах вменил в обязанность пост в месяце Рамадан. После того, как пост в Рамадан стал обязательным, Посланник Аллаха ﷺ сказал: “Поистине, ‘Ашураъ – это день из дней Аллаха! И тот, кто желает, пусть постится, а кто не желает, пусть оставит его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2642</td></tr><tr><td>Arabic No</td><td>1126.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 148</td></tr></tbody></table></div>
 

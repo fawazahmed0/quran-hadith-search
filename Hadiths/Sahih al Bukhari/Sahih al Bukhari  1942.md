@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Hamza bin 'Amr Al-Aslami said, "O Allah's Messenger (ﷺ)! I fas
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Hisyam] berkata, [bapakku] telah menceritakan kepadaku dari ['Aisyah radliallahu 'anha] bahwa Hamzah bin 'Amru Al Aslamiy berkata: "Wahai Rasulullah, aku sering berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1942</td></tr><tr><td>Arabic No</td><td>1942</td></tr><tr><td>Reference</td><td>Book 30 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Хамза ибн ‘Амр аль-Аслями сказал: «О Посланник Аллаха! Я пощусь каждый день»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1942</td></tr><tr><td>Arabic No</td><td>1942</td></tr><tr><td>Reference</td><td>Book 30 Hadith 49</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) said, "Seventy thousand people of my
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] telah menceritakan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Syu'bah], dia berkata; saya mendengar [Hushain bin Abdurrahman] dia berkata; saya berdiri di samping [Sa'id bin Jubair] lalu dia berkata; dari [Ibnu Abbas] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: Ada tujuh puluh ribu orang dari umatku yang masuk surga tanpa hisab, yaitu yang tidak meminta diruqyah (pengobatan dengan jampi-jampi, atau mantera), tidak berfirasat sial karena melihat burung dan hanya bertawakkal kepada Tuhan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6472</td></tr><tr><td>Arabic No</td><td>6472</td></tr><tr><td>Reference</td><td>Book 81 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Аббаса о том, что Посланник Аллаха ﷺ сказал: «Семьдесят тысяч человек из числа членов моей общины войдут в Рай без расчёта: это — те, которые не просят других заговаривать их, не верят в дурные предзнаменования, судя по полёту птиц, и уповают на своего Господа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6472</td></tr><tr><td>Arabic No</td><td>6472</td></tr><tr><td>Reference</td><td>Book 81 Hadith 61</td></tr></tbody></table></div>
 

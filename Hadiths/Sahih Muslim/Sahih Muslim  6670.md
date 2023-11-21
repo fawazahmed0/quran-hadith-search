@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:A person while walking al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir] dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Pada suatu ketika ada seseorang yang melewati sebatang ranting pohon yang menjuntai ke jalan. Kemudian orang tersebut berkata; 'Demi Allah, saya akan menyingkirkan ranting pohon ini agar tidak mengganggu kaum muslimin yang lewat.' Akhirnya orang tersebut dimasukkan ke dalam surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6670</td></tr><tr><td>Arabic No</td><td>1914.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6670</td></tr><tr><td>Arabic No</td><td>1914.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 167</td></tr></tbody></table></div>
 

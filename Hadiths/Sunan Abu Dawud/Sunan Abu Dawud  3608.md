@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said:The Messenger of Allah (ﷺ) gave a decision on the basis of an 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Al Hasan bin Ali] bahwa [Zaid bin Al Hubab] menceritakan kepada mereka, ia berkata; telah menceritakan kepada kami [Saiful Makki]. [Utsman Saif bin Sulaiman] berkata dari [Qais bin Sa'd] dari ['Amru bin Dinar] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam memberikan putusan dengan adanya sumpah dan seorang saksi." Telah menceritakan kepada kami [Muhammad bin Yahya] dan [Salamah bin Syabib] mereka berdua berkata; telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Muhammad bin Muslim] dari ['Amru bin Dinar] dengan sanad dan maknanya. Salamah menyebutkan dalam haditsnya; 'Amru berkata dalam masalah hak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3608</td></tr><tr><td>Arabic No</td><td>3608</td></tr><tr><td>Reference</td><td>Book 25 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ вынес судебное решение на основе клятвы и свидетельства одного свидетеля
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3608</td></tr><tr><td>Arabic No</td><td>3608</td></tr><tr><td>Reference</td><td>Book 25 Hadith 38</td></tr></tbody></table></div>
 

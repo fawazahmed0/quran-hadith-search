@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit:Anas used to demonstrate to us the prayer of the Prophet (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Tsabit] berkata, " [Anas] pernah menceritakan sifat shalat Nabi shallallahu 'alaihi wasallam kepada kami, jika beliau shalat dan mengangkat kepalanya dari rukuk, maka beliau berdiri (lama) hingga kami mengatakan 'beliau telah lupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>800</td></tr><tr><td>Arabic No</td><td>800</td></tr><tr><td>Reference</td><td>Book 10 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Сабита, что он сказал: «Анас описывал нам молитву Пророка ﷺ и когда он совершал молитву, подняв голову с поясного поклона, он стоял так (долго), что мы говорили: “Похоже он забыл (о молитве)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>800</td></tr><tr><td>Arabic No</td><td>800</td></tr><tr><td>Reference</td><td>Book 10 Hadith 195</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported the Messenger of Allah (ﷺ) to have said:When a dog licks 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ali bin Hujr as-Sa'di] telah menceritakan kepada kami [Ali bin Mushir] telah mengabarkan kepada kami [al-A'masy] dari [Abu Razin], dan [Abu Shalih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seekor anjing menjilat bejana salah seorang dari kalian, maka hendaklah dia membalik dan mencucinya tujuh kali." Dan telah menceritakan kepada kami [Muhammad bin ash-Shabbah] telah menceritakan kepada kami [Ismail bin Zakariya'] dari [al-A'masy] dengan sanad ini yang semisalnya, dan dia tidak menyebutkan, 'Maka hendaklah dia membaliknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>279.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Если собака оближет сосуд, принадлежащий кому-нибудь из вас, пусть выльет его содержимое и затем промоет (этот сосуд) семь раз”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>279.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 114</td></tr></tbody></table></div>
 

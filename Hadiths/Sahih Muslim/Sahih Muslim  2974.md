@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported:I am narrating to you a hadith by which Allah will bene
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah meceritakan kepadaku [Ubaidullah bin Mu'adz] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Syu'bah] dari [Humaid bin Hilal] dari [Mutharrif] ia berkata; [Imran bin Hushain] berkata kepadaku; Akan kusampaikan kepadamu sebuah hadits, semoga ia bermanfaat bagimu. Yaitu; bahwa Rasulullah shallallahu 'alaihi wasallam pernah menggabungkan umrah dengan haji dan mengerjakannya sekaligus. Kemudian beliau tidak pernah melarang yang demikian sampai beliau meninggal. Serta ayat yang melarang demikian pun tidak pernah turun. Dan Telah meceritakannya kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata, Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Humaid bin Hilal] ia berkata, saya mendengar [Mutharrif] berkata, [Imran bin Hushain] berkata kepadaku; Yakni sebagaimana hadits Mu'adz
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2974</td></tr><tr><td>Arabic No</td><td>1226.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2974</td></tr><tr><td>Arabic No</td><td>1226.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 183</td></tr></tbody></table></div>
 

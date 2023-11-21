@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Burda reported that A'isha brought out for us the lower garment and the uppe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ali bin Hujr As Sa'di] dan [Muhammad bin Hatim] dan [Ya'qub bin Ibrahim] seluruhnya dari ['Ulayyah], [Ibnu Hujr] berkata; Telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Humaid bin Hilal] dari [Abu Burdah] ia berkata; [Aisyah] mengeluarkan kepada kami kain dan baju yang kasar seraya berkata; "Rasulullah meninggal dunia dengan mengenakan kain dan baju ini." Ibnu Hatim di dalam Haditsnya menyebutkan dengan lafazh 'Izaaran Ghalizha' (kain yang tebal). Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdurrazaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Ayyub] melalui jalur ini dengan Hadits yang serupa. Dia berkata dengan redaksi; 'Izaaran Ghalizha (kain yang tebal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5443</td></tr><tr><td>Arabic No</td><td>2080.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5443</td></tr><tr><td>Arabic No</td><td>2080.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 58</td></tr></tbody></table></div>
 

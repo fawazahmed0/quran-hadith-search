@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik (Allah be pleased with him) reported that Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] sebagaiaman yang telah dibacakan kepadanya dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam berdo'a: "Ya, Allah berikanlah berkah bagi mereka dalam takaran-takaran mereka, dalam Sha' mereka dan berikanlah berkah pada Mud mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3325</td></tr><tr><td>Arabic No</td><td>1368</td></tr><tr><td>Reference</td><td>Book 15 Hadith 529</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3325</td></tr><tr><td>Arabic No</td><td>1368</td></tr><tr><td>Reference</td><td>Book 15 Hadith 529</td></tr></tbody></table></div>
 

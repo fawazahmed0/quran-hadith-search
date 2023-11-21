@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zaid b. Thabit said:The Messenger of Allah (ﷺ) built a chamber in the mosque. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Harun bin Abdullah Al Bazzar] telah menceritakan kepada Kami [Makki bin Ibrahim] telah menceritakan kepada Kami [Abdullah yaitu Ibnu Sirin bin Abu Hindun] dari [Abu An Nadhr] dari [Busr bin Sa'id] dari [Zaid bin Tsabit] bahwa ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam membuat sebuah ruangan di masjid, beliau keluar pada malam hari dan melakukan shalat padanya. Zaid berkata; kemudian orang-orang melakukan shalat bersama beliau dengan sholat beliau. Mereka datang setiap malam hingga ketika suatu malam Rasulullah shallAllahu wa'alaihi wa sallam tidak keluar kepada mereka, kemudian mereka berdehem dan mengeraskan suara mereka, dan melempar pintu beliau menggunakan kerikil. Zaid berkata; kemudian beliau keluar menemui mereka dalam keadaan marah seraya berkata: "Wahai manusia, masih saja apa yang kalian lakukan hingga aku mengira shalat tersebut diwajibkan atas kalian, hendaknya kalian melakukan shalat di rumah kalian, sesungguhnya sebaik-baik shalat seseorang adalah dirumahnya kecuali shalat wajib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6113) Sahih Muslim (781)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1447</td></tr><tr><td>Arabic No</td><td>1447</td></tr><tr><td>Reference</td><td>Book 8 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Зейда ибн Сабита, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ отгородил для себя небольшое пространство в мечети и стал молиться там ночами, а некоторые люди стали молиться, следуя его примеру. Они приходили каждую ночь, но в одну из ночей он не вышел к ним. Они сгрудились у его дверей и стали бросать в дверь камешки. А потом Посланник Аллаха ﷺ вышел к ним разгневанный и сказал: «О люди! Вы делали это до тех пор, пока я не начал думать, что эта молитва будет вменена вам в обязанность! Молитесь в своих домах, ибо, поистине, если не считать обязательных молитв, наилучшей молитвой является та, которую человек совершает у себя дома!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6113) Sahih Muslim (781)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1447</td></tr><tr><td>Arabic No</td><td>1447</td></tr><tr><td>Reference</td><td>Book 8 Hadith 32</td></tr></tbody></table></div>
 

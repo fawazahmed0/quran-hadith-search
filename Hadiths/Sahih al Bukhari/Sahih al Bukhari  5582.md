@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I was serving Abu 'Ubaida, Abu Talha and Ubai bin Ka'b w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abdullah] dia berkata; telah menceritakan kepadaku [Malik bin Anas] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] radliallahu 'anhu dia berkata; "Aku pernah menuangkan minuman dari fadlih (minuman keras dari perasan kurma muda) dan tamr (minuman keras dari perasan kurma kering) kepada Abu 'Ubaidah, Abu Thalhah, Ubay bin Ka'b, tiba-tiba seseorang datang sambil berkata; "Sesungguhnya khamr telah diharamkan." Lantas Abu Thalhah berkata; "Wahai Anas, bangunlah dan tumpahkanlah!." Maka aku pun menumpahkan khamr tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5582</td></tr><tr><td>Arabic No</td><td>5582</td></tr><tr><td>Reference</td><td>Book 74 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, что он сказал: «Я угощал Абу ‘Убайду, Абу Тальху и Убай ибн Ка‘ба напитком, приготовленным из спелых и недозрелых фиников. Затем кто-то пришёл и сказал: “Опьяняющие напитки были запрещены”. (Услышав это,) Абу Тальха сказал: “Встань, о Анас, вылей это!” И я вылил это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5582</td></tr><tr><td>Arabic No</td><td>5582</td></tr><tr><td>Reference</td><td>Book 74 Hadith 8</td></tr></tbody></table></div>
 

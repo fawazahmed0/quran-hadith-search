@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Arqam reported that Allah's Messenger (ﷺ) said:O Allah,, grant forgive
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Muhammad bin Ja'far] dan ['Abdur Rahman bin Mahdi] keduanya berkata; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [An Nadhr bin Anas] dari [Zaid bin Arqam] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Ya Allah, ampunilah orang-orang Anshar, anak-anak mereka, dan cucu-cucu mereka!" Dan telah menceritakannya kepadaku [Yahya bin Habib]; Telah menceritakan kepada kami [Khalid] yaitu Ibnu Al Harits; Telah menceritakan kepada kami [Syu'bah] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6414</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6414</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

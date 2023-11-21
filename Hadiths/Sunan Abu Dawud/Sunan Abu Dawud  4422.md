@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. Samurah said:I saw Ma’iz b. Malik when he was brought to the Prophet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Simak] dari [Jabir bin Samurah] ia berkata, "Saat Ma'iz bin Malik dibawa ke hadapan Nabi shallallahu 'alaihi wasallam, aku melihat bahwa ia adalah seorang laki-laki pendek, berotot besar dan tidak mengenakan selendang. Ia bersaksi -sebanyak empat kali- atas dirinya sendiri bahwa ia telah berbuat zina. Rasulullah shallallahu 'alaihi wasallam lalu bertanya: "Mungkin kamu hanya menciumnya?" ia menjawab, "Demi Allah, tidak! Ma'iz justru mengakui bahwa ia benar-benar telah berzina. Jabir berkata, "Rasulullah shallallahu 'alaihi wasallam kemudian merajamnya kemudian berpidato: "Ketahuilah, ketika kita sedang jihad di jalan Allah 'azza wajalla, ada seorang laki-laki (yang bertugas menjaga para wanita di rumah) dari mereka suka mendesah layaknya kambing bandot. Ia memberikan kepada salah seorang wanita dari mereka sesuatu yang sedikit (memberi sedikit susu untuk menipu, kemudian menzinainya). Demi Allah, jika Allah memberiku kemampuan untuk menangkapnya, maka aku akan menghukumnya." Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] dari [Muhammad bin Ja'far] dari [Syu'bah] dari [Simak] ia berkata; Aku mendengar [Jabir bin Samurah] dengan hadits ini, tapi hadits yang pertama lebih lengkap. Ia (perawi) berkata, "Ia ulangi hingga dua kali." [Simak] berkata, "Hadits itu kemudian aku ceritakan kepada [Sa'id bin Jubair], ia balik berkata, "(Bahkan) ia mengulanginya hingga empat kali." Telah menceritakan kepada kami Abdul Ghani bin Abu Aqil Al Mishri berkata, telah menceritakan kepada kami Khalid -makasudnya Khalid bin 'Abdurrahman- ia berkata; Syu'bah berkata; Aku pernah bertanya Simak maksud dari 'Al Kutsbah' (sesuatu yang sedikit), lalu ia menjawab, "Itu adalah susu yang sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1692)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4422</td></tr><tr><td>Arabic No</td><td>4422</td></tr><tr><td>Reference</td><td>Book 40 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн Самуры: «Я видел Ма‘иза ибн Малика, когда его привели к Пророку ﷺ. Это был одетый в изар без накидки низкий и мускулистый мужчина. Он четырежды засвидетельствовал, что совершил прелюбодеяние. Посланник Аллаха ﷺ спросил: “Может, ты просто поцеловал её?” Тот ответил: “Нет, клянусь Аллахом, подлый именно совершил с ней прелюбодеяние”. Потом по велению Посланника Аллаха ﷺ его подвергли побиванию камнями. После этого (Посланник Аллаха ﷺ) обратился к людям с речью, сказав: “Всякий раз, как мы отправлялись в поход на пути Аллаха, кто-то из них оставался, издавая звуки, подобные тем, что издаёт козёл во время случки, и давал одной из женщин немного молока (или другой еды) /кусба/. Поистине, над кем бы из них Аллах ни дал мне власть, я непременно подвергну его примерному наказанию!” (побиванию камнями или бичеванию, в зависимости от того, состоял прелюбодей в браке или нет)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1692)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4422</td></tr><tr><td>Arabic No</td><td>4422</td></tr><tr><td>Reference</td><td>Book 40 Hadith 72</td></tr></tbody></table></div>
 

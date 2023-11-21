@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Allah's Messenger (ﷺ) forbade the use of (certain) containers, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami [Muhammad bin Abdullah Abu Ahmad Az Zubairi] telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Salim] dari [Jabir] radliallahu 'anhu dia berkata; Rasulullah shallallahu 'alaihi wasallam melarang membuat tempat minum dari kulit, maka orang-orang Anshar berkata; "Padahal kami harus memakainya" beliau bersabda: "Oh, kalau begitu tidak mengapa." [Khalifah] mengatakan; telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Salim bin Abu Al Ja'd] dari [Jabir] seperti ini, telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] juga seperti ini, dia mengatakan; "Yaitu ketika Nabi shallallahu 'alaihi wasallam melarang dari membuat beberapa jenis tempat minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5592</td></tr><tr><td>Arabic No</td><td>5592</td></tr><tr><td>Reference</td><td>Book 74 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запретил использовать посуду, изготовляемую из дерева (или других материалов, ускоряющих процесс брожения), но ансары сказали: “Мы не можем обойтись без них”. Тогда Пророк ﷺ сказал: “(Если это так,) то используйте их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5592</td></tr><tr><td>Arabic No</td><td>5592</td></tr><tr><td>Reference</td><td>Book 74 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:The Prophet (ﷺ) forbade the use of the price of blood and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari ['Aun bin Abu Juhaifah] dia berkata; aku pernah melihat [Ayahku] berkata; sesungguhnya Nabi shallallahu 'alaihi wasallam melarang hasil (menjual) darah dan hasil penjualan anjing, memakan riba dan yang memberi makan dan yang mentato dan yang meminta ditato
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5945</td></tr><tr><td>Arabic No</td><td>5945</td></tr><tr><td>Reference</td><td>Book 77 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аун ибн Аби Джухайфа сказал: «Я был свидетелем того, как мой отец сказал: “Поистине, Пророк ﷺ запретил брать деньги за кровь и за собаку, и (проклял) пожирающего лихву /риба/, и дающего её, и женщин, которые заниматься нанесением татуировок (другим), и тех, кому их делают»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5945</td></tr><tr><td>Arabic No</td><td>5945</td></tr><tr><td>Reference</td><td>Book 77 Hadith 161</td></tr></tbody></table></div>
 

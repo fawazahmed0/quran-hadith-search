@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has been reported by Hammad b. Salamah through the same chain of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Ziyad Al-A'lam] dari [Al-Hasan] dari [Abu Bakrah] bahwasanya Rasulullah shallallahu 'alaihi wasallam masuk ke Masjid untuk shalat Fajar. Kemudian beliau mengisyaratkan kepada para sahabat dengan tangannya agar tetap di tempat. Lalu beliau datang, sementara kepalanya meneteskan air (bekas mandi), kemudian shalat mengimami mereka. Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Hammad bin Salamah] dengan isnadnya dan semakna dengan hadits pertama, dia menyebutkan di awalnya; Lalu beliau bertakbir, dan menyebutkan di akhirnya; Tatkala selesai shalat, beliau bersabda; "Sesungguhnya saya hanyalah manusia, dan sesungguhhnya saya tadi junub." Abu Dawud berkata; Diriwayatkan oleh [Az-Zuhri] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] dia berkata; Tatkala beliau berdiri untuk shalat, dan kami menunggu beliau bertakbir, tiba-tiba beliau pergi seraya bersabda; "Tetaplah di tempat kalian". Abu Dawud berkata; dan diriwayatkan oleh [Ayyub] dan [Ibnu Aun] dan [Hisyam] dari [Muhammad] secara mursal dari Nabi shallallahu 'alaihi wasallam. Dia menyebutkan; Beliau bertakbir, kemudian tiba-tiba beliau mengisyaratkan dengan tangannya kepada jama'ah untuk duduk. Lalu beliau pergi dan mandi. Demikian juga diriwayatkan oleh [Malik] dari [Isma'il bin Abu Hakim] dari ['Atha' bin Yasar] bahwasanya Rasulullah shallallahu 'alaihi wasallam bertakbir di dalam suatu shalat. Abu Dawud berkata; Demikian pula telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Aban] dari [Yahya] dari [Ar-Rabi' bin Muhammad] dari Nabi shallallahu 'alaihi wasallam, bahwasanya beliau bertakbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mursal</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Йазид ибн Харун со слов Хаммада ибн Саламы передал хадис с таким же иснадом и смыслом (что и у предыдущего хадиса) и (Йазид ибн Харун) сказал в первом (хадисе): «Он произнес «такбир». Во втором (хадисе) он (Йазид ибн Харун ) сказал: «После окончания (молитвы) он сказал: “Поистине, я (тоже) человек и я был в состоянии большого осквернения”.Абу Дауд сказал: «Этот хадис также передал аз-Зухри от Абу Саламы ибн Абду-р-Рахмана, (в котором сообщается), что Абу Хурайра сказал: “Когда он встал на место молитвы, мы ждали пока он произнесет “такбир”, но он не стал этого делать и затем сказал: “Стойте, как стоите”.Абу Дауд сказал: «Также этот хадис в форме “мурсаль” передали Аййуб, Ибн ‘Аун и Хишам со слов Мухаммада, от Пророка ﷺ в котором говорится: “И он произнес «такбир», но затем сделал знак рукой людям, чтобы они сели, а сам он отправился и искупался”. Также этот хадис передал Малик со слов Исма‘иля ибн Абу Хакима, (а тот) со слов ‘Аты ибн Йасара, что Посланник Аллаха ﷺ произнес “такбир” в молитве».Абу Дауд сказал: «Также рассказал нам его Муслим ибн Ибрахим, сообщил нам Абан со слов Йахъйи от Раби‘а ибн Мухаммада от Пророка ﷺ что он произнес “такбир”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mursal</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
 

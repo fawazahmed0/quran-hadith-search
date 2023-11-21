@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:When Abu Usaid As-Sa'idi got married, he invited the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] Telah menceritakan kepada kami [Abu Ghassan] ia berkata; Telah menceritakan kepadaku [Abu Hazim] dari [Sahl] ia berkata; "Ketika Abu Sa'id As Sa'idi mengadakan acara walimahan, ia mengundang Nabi shallallahu 'alaihi wasallam dan para sahabatnya, namun mereka tidak membuat jamuan makanan untuk mereka dan tidak pula menyuguhkan sesuatu, kecuali isterinya yaitu Ummu Usaid yang menumbuk kurma dalam bejana kecil yang terbuat dari batu, dan telah dibuatnya di malam hari. Maka ketika Nabi shallallahu 'alaihi wasallam usai menyantap makanan, maka ia pun menumbuknya halus untuk beliau. Akhirnya wanita itu pun mempersembahkan minuman itu untuk beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5182</td></tr><tr><td>Arabic No</td><td>5182</td></tr><tr><td>Reference</td><td>Book 67 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль сказал: «Женившись, Абу Усайд ас-Са‘иди пригласил Пророка ﷺ и его сподвижников. Готовила и подавала еду им его жена Умм Усайд. Она всю ночь вымачивала финики в сосуде из камня /таур/, а когда Пророк ﷺ поел, она напоила его этим напитком (из замоченных фиников)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5182</td></tr><tr><td>Arabic No</td><td>5182</td></tr><tr><td>Reference</td><td>Book 67 Hadith 117</td></tr></tbody></table></div>
 

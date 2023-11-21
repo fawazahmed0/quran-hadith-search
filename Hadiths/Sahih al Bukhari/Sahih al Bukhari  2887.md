@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, " Let the slave of Dinar and Dirham
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya binYusuf] telah mengabarkan kepada kami [Abu Bakar. Yaitu Ibnu 'Ayyasy] dari [Abu Hashin] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Binasalah hamba dinar, dirham, kain tebal dan sutra. Jika diberi maka ia ridha jika tidak diberi maka ia tidak ridha". [Israil] tidak memarfu'kannya dan [Muhammad bin Juhadah] dari [Abi Hashin] dan ['Amru] menambahkan kepada kami, dia berkata telah mengabarkan kepada kami ['Abdur Rahman bin 'Abdullah bin Dinar] dari [bapaknya] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] dari Nabi Sallallhu 'Alaihi Wasallam bersabda: "Binasalah hamba dinar, dirham, kain tebal dan sutra, jika diberi maka ia ridha jika tidak diberi maka ia mencela. Binasalah dan merugilah ia, jika tertusuk duri maka ia tidak akan terlepas darinya. Beruntunglah hamba yang mengambil tali kendali kuda fii sabilillah, rambutnya kusut dan kakinya berdebu. Jika ia menjaga maka ia benar-benar menjaga, jika ia berada dibarisan belakang maka ia benar-benar menjaga barisan belakang, jika ia meminta izin maka ia tidak akan diberi izin, jika ia menengahi maka penengahannya tidak diterima" (karena menghindari riya' dan pamer dan tidak punya ambisi apapun). Firman Allah fata'san maksudnya Allah berfirman: "Maka Allah membinasakan mereka". Kata thuubaa mengikuti wazan (suku kata) fu'laa yang artinya kebaikan yang diberikan. Kata itu menggunakan huruf ي (ya') yang diubah ke huruf و (wau) berasal dari kata yathibu (baik)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2887</td></tr><tr><td>Arabic No</td><td>2887</td></tr><tr><td>Reference</td><td>Book 56 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Да окажется в бедственном положении раб динара, раб дирхема и раб хамисы, который остаётся довольным, если ему даруется (это), а если нет, то он негодует, да окажется он в бедственном положении, и да вернётся к нему болезнь, и да не найдётся того, кто извлёк бы из его тела колючку, когда он уколется! Да будет блажен тот раб с растрёпанными волосами и покрытыми пылью ногами, который станет держаться за поводья своего коня на пути Аллаха, и, если (его поставят) в охранение, он пойдёт в охранение, если же его (поставят) в тыл, он пойдёт в тыл, (а сам он настолько непритязателен, что) если он просит, то ему не позволяют, если же ходатайствует за кого-нибудь, то его ходатайство не принимают»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2887</td></tr><tr><td>Arabic No</td><td>2887</td></tr><tr><td>Reference</td><td>Book 56 Hadith 102</td></tr></tbody></table></div>
 

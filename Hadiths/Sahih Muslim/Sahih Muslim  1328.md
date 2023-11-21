@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported the Messenger of Allah (ﷺ) as saying:Seek refuge with All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Hisyam] dari [Yahya] dari [Abu Salamah] bahwa ia mendengar [Abu Hurairah] berkata; "Nabi shallallahu 'alaihi wasallam biasa berdo'a ALLAAHUMMA INNII A'UUDZU BIKA MIN 'ADZAABIL QABRI WA'ADZAABIN NAARI WAFITNATIL MAHYAA WAL MAMAT WA SYARRIL MASIIHID DAJJAAL (Ya Allah, saya berlindung kepada-Mu dari siksa kubur dan siksa neraka dan fitnah kehidupan dan kematian dan keburukan Masih Dajjal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1328</td></tr><tr><td>Arabic No</td><td>588.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Пророк Аллаха ﷺ сказал: «О Аллах, поистине, я прибегаю к Тебе от мучений могилы, от мук огня, от испытаний жизни и смерти и от зла искушения Даджжаля! /Аллахумма, инни а‘узу би-кя мин ‘азаби-ль-кабр, ва мин ‘азаби-н-нар, ва мин фитнати-ль-махйа ва-ль-мамат ва мин шарри фитнати-ль-масихи-д-даджжаль!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1328</td></tr><tr><td>Arabic No</td><td>588.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 166</td></tr></tbody></table></div>
 

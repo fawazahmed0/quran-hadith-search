@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim b. Abdullah b. Umar reported on the authority of his father (Allah be plea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Bakr bin Ar Rayyan] dan [Suraij bin Yunus] -lafazhnya milik Suraij- keduanya berkata, Telah menceritakan kepada kami [Isma'il bin Ja'far] telah mengabarkan kepadaku [Musa bin Uqbah] dari [Salim bin Abdullah bin Umar] dari [bapaknya] bahwa Nabi shallallahu 'alaihi wasallam pernah didatangi di tempat persinggahannya di Dzulhulaifah yakni di dalam lembah, lalu dikatakanlah kepadanya, "Sesungguhnya Anda tengah berada di Bathha' yang diberkati." Musa berkata; Salim pernah singgah bersama kami di tempat persinggahan yakni di sebuah Masjid yang sering dijadikan 'Abdullah biasa singgah ditempat itu. Dan ia pun mencari tempat peristirahatan Rasulullah shallallahu 'alaihi wasallam yang posisinya berada di bawah masjid yakni di dalam lembah, peristirahatan itu persis ditengah-tengah antara lembah dan kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3286</td></tr><tr><td>Arabic No</td><td>1346.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 490</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3286</td></tr><tr><td>Arabic No</td><td>1346.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 490</td></tr></tbody></table></div>
 

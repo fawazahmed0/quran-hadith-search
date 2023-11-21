@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah: The Prophet (ﷺ) said: Any woman who is married by two guardi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Hisyam], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Hammam], dan telah diriwayatkan dari jalur yang lain: telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] secara makna, dari [Qatadah] dari [Al Hasan] dari [Samurah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Setiap wanita yang dinikahkan oleh dua orang wali, maka ia menjadi hak bagi wali yang pertama di antara keduanya. Dan setiap orang yang menjual sesuatu kepada dua orang, maka barang tersebut menjadi hak bagi orang pertama (membeli) di antara mereka berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2088</td></tr><tr><td>Arabic No</td><td>2088</td></tr><tr><td>Reference</td><td>Book 12 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Самуры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Любая женщина, которую выдали замуж два покровителя, считается женой того, за кого её выдал первый из них, и если любой человеку продал товар двоим, то он достаётся первому из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2088</td></tr><tr><td>Arabic No</td><td>2088</td></tr><tr><td>Reference</td><td>Book 12 Hadith 43</td></tr></tbody></table></div>
 

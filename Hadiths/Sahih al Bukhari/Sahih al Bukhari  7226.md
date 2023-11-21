@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "By Him in Whose Ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ufair] telah menceritakan kepadaku [Al Laits] telah menceritakan kepadaku [Abdurrahman bin Khalid] dari [Ibnu Syihab] dari [Abu Salamah] dan [Sa'id bin Musayyab], bahwa [Abu Hurairah] mengatakan; aku mendengar Rasulullah Shallallahu'alaihiwasallam bersabda: "Demi Dzat yang jiwaku berada di tangan-NYA, kalaulah bukan karena pertimbangan beberapa orang yang tidak suka jika mereka ketinggalan atau pun aku memang tidak punya kendaraan untuk mengangkut mereka, niscaya aku tidak pernah absen (dari peperangan), sungguh aku berkeinginan jika terbunuh dalam rangka (perang) fi sabilillah kemudian dihidupkan, kemudian terbunuh, kemudian dihidupkan, kemudian terbunuh, kemudian dihidupkan, kemudian terbunuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7226</td></tr><tr><td>Arabic No</td><td>7226</td></tr><tr><td>Reference</td><td>Book 94 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Клянусь Тем, в Чьей руке моя душа, если бы не мужи, которые не желают отставать от меня и те, которым я не могу найти верховых животных, то я не остался бы позади (ни единого отряда, принимающего участие в войне на пути Аллаха). И поистине, хотел бы я быть убитым на пути Аллаха, а потом воскрешённым, потом снова убитым и снова воскрешённым, а потом снова убитым и снова воскрешённым, а потом снова убитым!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7226</td></tr><tr><td>Arabic No</td><td>7226</td></tr><tr><td>Reference</td><td>Book 94 Hadith 1</td></tr></tbody></table></div>
 

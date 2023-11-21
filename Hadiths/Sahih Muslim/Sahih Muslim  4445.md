@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : J'ai entendu le Prophète (paix et bé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Isa bin Hammad Al Mishir] telah mengabarkan kepada kami [Laits] dari [Sa'id bin Abu Abu Sa'id] dari [ayahnya] dari [Abu Hurairah], bahwa dia mendengarnya berkata, "Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari sahaya perempuan kalian jelas-jelas berzina, maka hukumlah dia dengan hukuman dera, dan jangan sekali-kali kamu memakinya. Kemudian jika dia melakukan zina lagi, maka deralah dia, dan jangan sekali-kali kamu memakinya. Dan jika dia masih melakukan zina pada kali ketiganya, sedangkan tuduhan zina memang terbukti padanya, maka juallah dia walaupun seharga seutas tali rambut." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] semuanya dari [Ibnu 'Uyainah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami ['Abd bin Humaid] telah mengabarkan kepada kami [Muhammad bin Bakr Al Bursani] telah mengabarkan kepada kami [Hisyam bin Hasan] keduanya dari [Ayyub bin Musa]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dan [Ibnu Numair] dari [Ubaidullah bin Umar]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Usamah bin Zaid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Hannad bin As Sarri] dan [Abu Kuraib] dan [Ishaq bin Ibrahim] dari ['Abdah bin Sulaiman] dari [Muhammad bin Ishaq] semuanya dari [Sa'id Al Maqburi] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, hanya saja [Ibnu Ishaq] menyebutkan dalam haditsnya ia menyebutkan; dari [Sa'id] dari [ayahnya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, hendaknya mendera seorang sahaya perempuan sampai tiga kali, jika terbukti berzina, dan menjualnya jika melakukan zina sampai empat kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>1703.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>1703.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 48</td></tr></tbody></table></div>
 

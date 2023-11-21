@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Abu Bakar bin Abu Syaibah] dan ['Amru An Naqid] dan [Zuhair bin Harb], Yahya berkata; telah mengabarkan kepada kami, dan yang lain mengatakan; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abd bin Humaid], Abd berkata; telah mengabarkan kepada kami, dan Ibnu Rafi' berkata; telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnu Musayyab] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada fara' dan Atirah." Ibnu Rafi' menambahkan dalam riwayatnya, "Fara' adalah anak unta yang pertama kali dilahirkan yang disembelih untuk sesembahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5116</td></tr><tr><td>Arabic No</td><td>1976</td></tr><tr><td>Reference</td><td>Book 35 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5116</td></tr><tr><td>Arabic No</td><td>1976</td></tr><tr><td>Reference</td><td>Book 35 Hadith 52</td></tr></tbody></table></div>
 

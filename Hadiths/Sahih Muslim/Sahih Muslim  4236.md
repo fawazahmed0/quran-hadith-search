@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Zuhri with a different chains 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Muhammad bin Rumh bin Muhajir] keduanya berkata; telah mengabarkan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] bahwa dia berkata, "Abu Ubaidah pernah meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam mengenai nadzar ibunya yang telah meninggal sebelum ditunaikannya. Rasulullah shallallahu 'alaihi wasallam bersabda: "Tunaikanlah nadzarnya." Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; saya bacakan di hadapan [Malik]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Amru An Naqid] dan [Ishaq bin Ibrahim] dari [Ibnu Uyainah]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu wahb] telah mengabarkan kepadaku [Yunus]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abd bin Humaid] keduanya berkata, telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami ['Abdah bin Sulaiman] dari [Hisyam bin 'Urwah] dari [Bakr bin Wail] semuanya dari [Az Zuhri] dengan sanad dan makna hadits Laits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4236</td></tr><tr><td>Arabic No</td><td>1638.02</td></tr><tr><td>Reference</td><td>Book 26 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4236</td></tr><tr><td>Arabic No</td><td>1638.02</td></tr><tr><td>Reference</td><td>Book 26 Hadith 2</td></tr></tbody></table></div>
 

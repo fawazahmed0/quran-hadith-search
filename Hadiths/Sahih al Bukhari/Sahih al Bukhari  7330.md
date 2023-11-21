@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sa'ib bin Yazid:The Sa' (a kind of measure) during the lifetime of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Zurarah] telah menceritakan kepada kami [Alqasim bin Malik] dari [Al Ju'aid] aku mendengar [As Saib bin Yazid] berkata, "Satu sha' di jaman Nabi shallallahu 'alaihi wasallam adalah satu mud lebih sepertiga (mud kalian) hari ini, dan bahkan terkadang ditambahi lagi." Alqasim bin Malik mendengar dari Ju'aid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7330</td></tr><tr><td>Arabic No</td><td>7330</td></tr><tr><td>Reference</td><td>Book 96 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Саиб ибн Язид, да будет доволен им Аллах, сказал: «Во времена Пророка ﷺ один са‘ был равен вашему сегодняшнему мудду и одной трети. А затем он был увеличен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7330</td></tr><tr><td>Arabic No</td><td>7330</td></tr><tr><td>Reference</td><td>Book 96 Hadith 59</td></tr></tbody></table></div>
 

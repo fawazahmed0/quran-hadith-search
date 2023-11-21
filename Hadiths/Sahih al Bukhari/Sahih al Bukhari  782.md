@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Say Amen when the Imam says 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Sumayya] mantan budak Abu Bakar, dari [Abu Shalih As Siman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika Imam membaca GHAIRIL MAGHDLUUBI 'ALAIHIM WALADL DLAALLIIN, maka ucapkanlah 'AMIIN'. Karena siapa yang ucapan 'AMIIN' nya bersamaan dengan 'AMIIN' nya Malaikat, maka dosanya yang telah lalu akan diampuni." Hadits ini dikuatkan oleh [Muhammad bin 'Amru] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, dan [Nu'aim Al Mujmir] dari [Abu Hurairah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 10 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда имам читает: “не тех, на кого пал гнев, и не заблудших” (сура “аль-Фатиха”, аят 7), вы говорите: “Амин”. Ведь, поистине, тому, чьи слова «амин» будут сказаны одновременно с ангелами, будут прощены его прошлые прегрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 10 Hadith 177</td></tr></tbody></table></div>
 

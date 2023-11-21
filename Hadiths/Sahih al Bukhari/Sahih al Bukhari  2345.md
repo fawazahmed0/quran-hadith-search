@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:'Abdullah bin 'Umar said, "I knew that the land was rented for cu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] telah menceritakan kepadaku [Salim] bahwa ['Abdullah bin 'Umar radliallahu 'anhuma] berkata; "Aku mengetahui bahwa ladang biasa disewakan pada zaman Rasulullah shallallahu 'alaihi wasallam". Kemudian 'Abdullah bin 'Umar radliallahu 'anhuma takut kalau Nabi shallallahu 'alaihi wasallam telah mengeluarkan sabda lain tentang masalah itu yang dia tidak mengetahui sehingga akhirnya dia meninggalkan menyewakan tanah ladang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2345</td></tr><tr><td>Arabic No</td><td>2345</td></tr><tr><td>Reference</td><td>Book 41 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается также, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я знал, что при жизни Посланника Аллаха ﷺ земля всегда сдавалась в аренду». (Однако) потом ‘Абдуллах стал опасаться, что Пророк ﷺ (всё же сказал) об этом что-то такое, чего он не знал, и перестал сдавать землю в аренду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2345</td></tr><tr><td>Arabic No</td><td>2345</td></tr><tr><td>Reference</td><td>Book 41 Hadith 24</td></tr></tbody></table></div>
 

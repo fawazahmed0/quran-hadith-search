@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Nu'man b. Bashir:That his father had given him a slave. The Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Hisyam bin 'Urwah] dari [Ayahnya] telah menceritakan kepadaku [An Nu'man bin Basyir] ia berkata, "Ayahnya telah memberikan kepadanya seorang budak, kemudian Rasulullah shallallahu 'alaihi wasallam bertanya kepadanya: "Siapakah budak ini?" Ia menjawab, "Budakku. Ayahkulah yang telah memberikannya kepadaku." Rasulullah bertanya: "Apakah ia memberikan kepada seluruh saudaramu, sebagaimana ia memberikan kepadamu?" Nu'man menjawab, "Tidak." Beliau bersabda: "Kembalikanlah kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1623)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3543</td></tr><tr><td>Arabic No</td><td>3543</td></tr><tr><td>Reference</td><td>Book 24 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся ан-Ну‘мана ибн Башира, да будет доволен Аллах им и его отцом, что его отец подарил ему слугу и Посланник Аллаха ﷺ спросил: «Что это за слуга?» Ан-Ну‘ман ответил: «Это мой слуга. Мне подарил его мой отец». Посланник Аллаха ﷺ спросил: «И он сделал каждому из твоих братьев такой же подарок?» Он ответил: «Нет». Посланник Аллаха ﷺ сказал: «Тогда верни его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1623)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3543</td></tr><tr><td>Arabic No</td><td>3543</td></tr><tr><td>Reference</td><td>Book 24 Hadith 128</td></tr></tbody></table></div>
 

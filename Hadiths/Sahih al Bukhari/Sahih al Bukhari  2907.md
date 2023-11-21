@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) came to my house while two girls were si
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il] berkata telah bercerita kepadaku [Ibnu Wahb] berkata ['Amru] telah bercerita kepadaku [Abu Al Aswad] dari ['Urwah] dari ['Aisyah radliallahu 'anha]; "Rasulullah shallallahu 'alaihi wasallam masuk menemuiku saat itu disisiku ada dua sahaya wanita yang sedang bersenandung dengan lagu-lagu (tentang perang) Bu'ats. Maka Beliau berbaring di atas tikar lalu memalingkan wajahnya. Kemudian masuk Abu Bakar lalu mencelaku dan berkata: Seruling-seruling syetan (kalian perdengarkan) di hadapan Rasulullah shallallahu 'alaihi wasallam? Maka Rasulullah shallallahu 'alaihi wasallam memandang kepada Abu Bakar dan berkata: "Biarkanlah keduanya". Setelah Beliau tidak menghiraukan lagi, aku memberi isyarat kepada kedua sahaya tersebut lalu keduanya pergi. Saat Hari Raya 'Ied, biasanya ada dua budak Sudan yang memperlihatkan kebolehannya mempermainkan tombak dan perisai. Maka adakalanya aku sendiri yang meminta kepada Nabi shallallahu 'alaihi wasallam atau Beliau yang menawarkan kepadaku: "Apakah kamu mau melihatnya? ' Maka aku jawab: "Ya, mau". Maka Beliau menempatkan aku berdiri di belakang, Beliau dimana pipiku bertemu dengan pipi Beliau sambil Beliau berkata: "Teruskan hai Banu Arfadah". Demikianlah seterusnya sampai aku merasa bosan lalu Beliau berkata: "Apakah kamu merasa sudah cukup?" Aku jawab: "Ya, sudah. Lalu Beliau berkata: "Kalau begitu pergilah". Berkata Abu 'Abdullah Al Bukhariy, [Ahmad] berkata dari [Ibnu Wahab]: " Setelah Beliau shallallahu 'alaihi wasallam tidak menghiraukan lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2907</td></tr><tr><td>Arabic No</td><td>2907</td></tr><tr><td>Reference</td><td>Book 56 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается также, что ‘Аиша сказала: «(Однажды, когда) был праздничный день, эфиопы играли с щитами и копьями. И (я не помню) спросила ли я Пророка ﷺ, или он сам сказал: “Хочешь посмотреть?” Я сказала: “Да”. И он поставил меня позади себя, так что моя щека прикасалась к его щеке, сказав: “Продолжайте, о бану арфида!” Так продолжалось до тех пор, пока мне это не наскучило, тогда он спросил: “Тебе достаточно?” Я ответила: “Да”, он сказал: “Тогда иди”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2907</td></tr><tr><td>Arabic No</td><td>2907</td></tr><tr><td>Reference</td><td>Book 56 Hadith 120</td></tr></tbody></table></div>
 

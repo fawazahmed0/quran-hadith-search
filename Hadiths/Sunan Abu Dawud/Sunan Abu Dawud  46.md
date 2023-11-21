@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurayrah :(the Prophet, sal Allaahu alayhi wa sallam ) as saying : 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Sufyan] dari [Abu Az Zannad] dari [Al A'raj] dari [Abu Hurairah] dan dia memarfu'kannya kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Kalau saja aku tidak memberatkan orang-orang Mukmin, niscaya aku benar-benar akan perintahkan mereka untuk mengakhirkan shalat Isya dan bersiwak pada setiap kali shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (887، 7240) Sahih Muslim (252)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>46</td></tr><tr><td>Arabic No</td><td>46</td></tr><tr><td>Reference</td><td>Book 1 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, что возведя (этот хадис к Пророку ﷺ он) сказал: «Если бы я не обременил (этим) верующих, то велел бы задерживать вечернюю молитву /‘ишаъ/ и использовать зубочистку /сивак/ перед каждой молитвой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (887، 7240) Sahih Muslim (252)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>46</td></tr><tr><td>Arabic No</td><td>46</td></tr><tr><td>Reference</td><td>Book 1 Hadith 46</td></tr></tbody></table></div>
 

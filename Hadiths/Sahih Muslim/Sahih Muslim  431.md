@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abdullah (b. Umar) that when the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Malik bin Mighwal]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu Numair] dan [Zuhair bin Harb] semuanya dari [Abdullah bin Numair] dan lafazh mereka saling berdekatan. [Ibnu Numair] berkata, telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Malik bin Mighwal] dari [az-Zubair bin Adi] dari [Thalhah] dari [Murrah] dari [Abdullah] dia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam diisra'kan maka beliau dihentikan di Sidrah al-Muntaha, (yaitu tempat) yang terletak di langit keenam. Sesuatu yang naik dari bumi akan bermuara di sana dan ditahan padanya. Dan sesuatu dari atasnya berhenti padanya, lalu ditahan padanya." Allah berfirman: '(Muhammad melihat Jibril) ketika Sidratil Muntaha diliputi oleh sesuatu yang meliputinya) ' (Qs. An Najm: 16). Abdullah berkata lagi, "Yaitu hamparan dari emas." Dia berkata lagi, "Lalu Rasulullah shallallahu 'alaihi wasallam diberi tiga hal: shalat lima waktu, ayat-ayat penutup surat al-Baqarah, dan diampuni dosa-dosa besar milik orang yang tidak mensyirikkan Allah dengan sesuatu pun dari kalangan umat beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>431</td></tr><tr><td>Arabic No</td><td>173</td></tr><tr><td>Reference</td><td>Book 1 Hadith 336</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Во время ночного путешествия Посланник Аллаха ﷺ был вознесён к Лотосу крайнего предела /сидрат аль-мунтаха/, который находится на шестом небе. Его достигают возносимые к нему с земли (сообщения о делах людей), и оттуда их берут. Его же достигают (веления Аллаха), которые ниспосылаются свыше, после чего оттуда их берут. (Всевышний Аллах) сказал: “Тогда покрыло Лотос то, что покрывает…” (Сура «ан-Наджм», аят 16). Посланник Аллаха ﷺ сказал: “Это золотые мотыльки”. И Посланнику Аллаха ﷺ были дарованы три (вещи): ему было даровано (веление совершать) пять молитв, и ему были дарованы заключительные аяты суры “аль-Бакара” а также прощение для (членов) его общины, если они не будут поклоняться никому, кроме Аллаха, (но совершат такие грехи, за которые заслужат наказания в Аду)».Глава: «Он уже видел его другое нисхождение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>431</td></tr><tr><td>Arabic No</td><td>173</td></tr><tr><td>Reference</td><td>Book 1 Hadith 336</td></tr></tbody></table></div>
 

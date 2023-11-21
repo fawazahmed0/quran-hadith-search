@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to pray while I was sleeping across in hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami [Hisyam] berkata, telah menceritakan kepadaku [Bapakku] dari ['Aisyah] ia berkata, "Nabi shallallahu 'alaihi wasallam shalat sedangkan aku tidur di atas ranjangnya dengan membentang dihapannya. Ketika akan witir, beliau membangunkan aku hingga aku pun shalat witir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>512</td></tr><tr><td>Arabic No</td><td>512</td></tr><tr><td>Reference</td><td>Book 8 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Обычно Пророк ﷺ совершал молитву, когда я лежала и спала на его ложе, и когда он хотел совершить (молитву) витр, он будил меня и я (тоже) совершала эту молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>512</td></tr><tr><td>Arabic No</td><td>512</td></tr><tr><td>Reference</td><td>Book 8 Hadith 159</td></tr></tbody></table></div>
 

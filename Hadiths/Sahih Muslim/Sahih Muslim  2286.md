@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al Khudri reported:We used to take out the Zakat of Fitr in three kind
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] dari [Harits bin Abdurrahman bin Abu Dzubab] dari [Iyadl bin Abdullah bin Abu Sarh] dari [Sa'id Al Khudri] ia berkata; "Kami membayar zakat fithrah dari tiga jenis bahan pokok, yaitu keji, kurma dan gandum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2286</td></tr><tr><td>Arabic No</td><td>985.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Са‘ид аль-Худри сказал: «Мы раздавали (в качестве) закята аль-фитр три вида (продуктов): сушёный творог, финики и ячмень»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2286</td></tr><tr><td>Arabic No</td><td>985.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 24</td></tr></tbody></table></div>
 

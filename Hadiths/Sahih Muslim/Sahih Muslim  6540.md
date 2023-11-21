@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Don't bear aversion again
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ahmad bin Sa'id Ad Darimi]; Telah menceritakan kepada kami [Habban]; Telah menceritakan kepada kami [Wuhaib]; Telah menceritakan kepada kami [Suhail] dari [Bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah saling memarahi, saling membelakangi, saling menyaingi. Tetapi, jadilah kalian hamba-hamba Allah yang bersaudara
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6540</td></tr><tr><td>Arabic No</td><td>2563.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6540</td></tr><tr><td>Arabic No</td><td>2563.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 39</td></tr></tbody></table></div>
 

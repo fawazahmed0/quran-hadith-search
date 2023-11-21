@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar reported the Apostle of Allaah(ﷺ) as saying “The month consists 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al 'Ataki], telah menceritakan kepada kami [Hammad], telah menceritakan kepada kami [Ayyub], dari [Nafi'] dari [Ibnu Umar], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Satu bulan adalah dua puluh sembilan, maka janganlah kalian berpuasa hingga melihatnya dan janganlah berbuka (berhari raya) hingga melihatnya, kemudian apabila tertutup awan maka hitunglah tiga puluh." Sulaiman berkata; dan Ibnu Umar apabila Bulan Sya'bah adalah dua puluh sembilan maka ia berpuasa, apabila terlihat maka itulah Ramadhan, dan apabila tidak terlihat dan tidak terhalangi oleh awan serta debu maka pagi harinya ia dalam keadaan berbuka, dan apabila terhalang awan atau debu untuk melihatnya maka di pagi hari dalam keadaan berpuasa. Ia berkata; dan Ibnu Umar berbuka bersama orang-orang dan tidak mengambil perhitungan ini. Telah menceritakan kepada kami [Humaid bin Mas'adah], telah menceritakan kepada kami [Abdul Wahhab], telah menceritakan kepadaku [Ayyub], ia berkata; [Umar bin Abdul Aziz] menulis surat kepada penduduk Bashrah mengatakan; telah sampai kepada kami dari Rasulullah shallallahu 'alaihi wasallam …. Seperti hadits tersebut Ibnu Umar, dari Nabi shallallahu 'alaihi wasallam. Ia menambahkan; dan sesungguhnya sebaik-baik hitungan adalah apabila kami melihat Hilal Sya'ban demikian dan demikian maka puasa insya Allah demikian dan demikian, kecuali apabila kalian melihat Hilal sebelum itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1080)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2320</td></tr><tr><td>Arabic No</td><td>2320</td></tr><tr><td>Reference</td><td>Book 14 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Месяц (иногда состоит из) двадцати девяти дней. Не начинайте поститься, пока не увидите народившийся месяц, и не заканчивайте поститься, пока не увидите народившийся месяц. Если же небо затянуто облаками, то доводите счёт до тридцати». Нафи‘, передавший хадис от Ибн ‘Умара, сказал, что сам Ибн ‘Умар по прошествии двадцати девяти дней с начала месяца шабана отправлял кого-то посмотреть на небо и, если тот видел народившийся месяц, он начинал поститься. Если же народившегося месяца не было видно и при этом не было ни облачности, ни пыли, то следующим утром он не постился. Если же он не видел народившегося месяца, но при этом небо было затянуто облаками или в воздухе стояла плотная пыль, следующим утром он постился. Нафи‘ также сказал: «Ибн ‘Умар всегда прекращал поститься вместе с людьми и не пользовался этим счётом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1080)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2320</td></tr><tr><td>Arabic No</td><td>2320</td></tr><tr><td>Reference</td><td>Book 14 Hadith 8</td></tr></tbody></table></div>
 

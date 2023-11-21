@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said When the Apostle of Allaah(ﷺ) came to Makkah he was ill. So,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Khalid bin Abdullah], telah menceritakan kepada Kami [Yazid bin Abu Ziyad] dari [Ikrimah] dari [Ibnu Abbas] bahwa Rasulullah shallAllahu wa'alaihi wa sallam datang ke Mekkah dalam keadaan sakit. Kemudian beliau berthawaf di atas kendaraannya, setiap kali beliau datang ke rukun maka beliau mengusap rukun tersebut menggunakan tongkat. Kemudian tatkala telah selesai dari thawafnya beliau menderumkan unta dan melakukan shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1881</td></tr><tr><td>Arabic No</td><td>1881</td></tr><tr><td>Reference</td><td>Book 11 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ прибыл в Мекку, испытывая боль, и потому совершил таваф на своей верблюдице. Каждый раз проезжая мимо Чёрного камня, он касался его своей изогнутой палкой. А потом после завершения тавафа он заставил верблюдицу опуститься на колени и совершил молитву в два рак‘ата
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1881</td></tr><tr><td>Arabic No</td><td>1881</td></tr><tr><td>Reference</td><td>Book 11 Hadith 161</td></tr></tbody></table></div>
 

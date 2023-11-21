@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakr As-Siddiq:I asked Allah's Messenger (ﷺ) to teach me an invoc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Abdullah bin 'Amru] dari [Abu Bakar Ash Shiddiq] radliallahu 'anhu, ia berkata kepada Rasulullah shallallahu 'alaihi wasallam: "Ajarkanlah aku suatu do'a yang bisa aku panjatkan saat shalat!" Maka Beliau pun berkata: "Bacalah 'ALLAHUMMA INNII ZHALAMTU NAFSII ZHULMAN KATSIIRAN WA LAA YAGHFIRUDZ DZUNUUBA ILLAA ANTA FAGHFIRLII MAGHFIRATAN MIN 'INDIKA WARHAMNII INNAKA ANTAL GHAFUURUR RAHIIM (Ya Allah, sungguh aku telah menzhalimi diriku sendiri dengan kezhaliman yang banyak, sedangkan tidak ada yang dapat mengampuni dosa-dosa kecuali Engkau. Maka itu ampunilah aku dengan suatu pengampunan dari sisi-Mu, dan rahmatilah aku. Sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>834</td></tr><tr><td>Arabic No</td><td>834</td></tr><tr><td>Reference</td><td>Book 10 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Бакра ас-Сиддикъа, да будет доволен им Аллах, что однажды он попросил Посланника Аллаха ﷺ: «Научи меня словам мольбы, с которой я обращался бы к Аллаху во время своего намаза», и он сказал: «Говори: “О Аллах, поистине, я обижал самого себя много раз, а никто, кроме Тебя не простит грехов! Прости же меня, и даруй мне Своё прощение и помилуй меня, поистине, Ты — Прощающий, Милосердный! /Аллахумма, инни залямту нафси зульман касиран, ва ля йагъфиру-з-зунуба илля Анта, фа-гъфир ли магъфиратан мин ‘индика ва-рхам-ни, иннака Анта-ль-Гъафуру-р-Рахим!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>834</td></tr><tr><td>Arabic No</td><td>834</td></tr><tr><td>Reference</td><td>Book 10 Hadith 227</td></tr></tbody></table></div>
 

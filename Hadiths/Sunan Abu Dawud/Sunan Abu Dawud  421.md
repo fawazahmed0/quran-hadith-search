@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: We waited for the Prophet (ﷺ) to offer the night pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Utsman Al Himshi] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Hariz] dari [Rasyid bin Sa'd] dari [Ashim bin Humaid As Sakuni] bahwasanya dia pernah mendengar [Mu'adz bin Jabal] berkata; Kami pernah menunggu Nabi Shallallahu alaihi wasallah dalam shalat 'Atamah (Isya yang terakhir). Beliau lama datang sehingga orang menyangka bahwa beliau tidak akan ke masjid, dan di antara kita juga ada yang mengatakan bahwa beliau telah shalat. Kami pun demikian, sampai Nabi Shallallahu alaihi wasallah keluar (menemui kami), maka mereka (para sahabat) pun mengatakan banyak hal kepada beliau. Maka beliau bersabda: "Laksanakanlah Shalat 'Atamah, karena sesungguhnya kalian telah diberi keutaman dengannya daripada seluruh umat, dan tidak pernah dilaksaknakan oleh suatu ummat pun sebelum kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>421</td></tr><tr><td>Arabic No</td><td>421</td></tr><tr><td>Reference</td><td>Book 2 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Асыма ибн Хумайда ас-Сакуни о том, что он слышал как Му‘аз ибн Джабаль говорил: «Однажды мы ожидали Пророка ﷺ на вечернюю молитву, он задержался на столько, что (люди) подумали, что он не выйдет. Некоторые из нас говорили, что он уже совершил молитву (у себя дома), и оставались в таком положении, пока он не вышел. (А когда он вышел) они рассказали ему об этом и он сказал им: “Откладывайте эту молитву, ибо, поистине, вы превосходите ею остальные общины, и её не совершали общины, которые были до вас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>421</td></tr><tr><td>Arabic No</td><td>421</td></tr><tr><td>Reference</td><td>Book 2 Hadith 31</td></tr></tbody></table></div>
 

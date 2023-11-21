@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A man: Salim ibn AbulJa'dah said: A man said: (Mis'ar said: I think he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isa bin Yunus] berkata, telah menceritakan kepada kami [Mis'ar bin Kidam] dari [Amru bin Murrah] dari [Salim bin Abul Ja'd] ia berkata, " [Seorang laki-laki] -Mis'ar berkata; menurutku lelaki itu berasal dari Khuza'ah- berkata, "Seandainya aku shalat, niscaya aku dapat istirahat." Dan seakan-akan orang-orang mencelanya karena ucapannya itu. Maka ia pun berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Bilal, dirikanlah shalat. Dan buatlah kami istirahat kami dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4985</td></tr><tr><td>Arabic No</td><td>4985</td></tr><tr><td>Reference</td><td>Book 43 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4985</td></tr><tr><td>Arabic No</td><td>4985</td></tr><tr><td>Reference</td><td>Book 43 Hadith 213</td></tr></tbody></table></div>
 

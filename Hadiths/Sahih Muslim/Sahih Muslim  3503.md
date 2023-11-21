@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (Allah be pleased with him) reported:When the 'Iddah of Zainab was over, Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ar Rabi' Az Zahrani] dan [Abu Kamil Fudlail bin Husain] serta [Qutaibah bin Sa'id] mereka berkata; Telah menceritakan kepada kami [Hammad] dia adalah Ibnu Zaid dari [Tsabit] dari [Anas] dan dalam riwayatnya Abu Kamil saya mendengar Anas berkata; "Saya tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam mengadakan jamuan makan (walimah) terhadap para istrinya -Abu kamil berkata- terhadap para istri-istrinya, seperti jamuan yang beliau adakan waktu menikahi Zainab. Ketika itu beliau menyembelih kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3503</td></tr><tr><td>Arabic No</td><td>1428.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3503</td></tr><tr><td>Arabic No</td><td>1428.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 105</td></tr></tbody></table></div>
 

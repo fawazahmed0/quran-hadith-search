@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Yazid b. Hurmuz who said:Najda b. 'Amir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Isma'il bin Umayyah] dari [Sa'id Al Maqbiri] dari [Yazid bin Hurmuz] dia berkata, "Najdah bin 'Amir pernah menulis surat kepada [Ibnu Abbas], dia bertanya mengenai seorang budak dan seorang wanita yang ikut serta dalam peperangan, apakah keduanya diberi bagian khsusus? Dan mengenai membunuh anak-anak, masa habis keyatiman seorang anak yatim dan mengenai dzawil qurba, siapakah mereka itu?" maka Ibnu Abbas berkata kepada Yazid, "Balaslah suratnya, sekiranya aku tidak khawatir ia mengiraku berpura-pura bodoh, niscaya aku tidak akan membalas suratnya, tulislah; 'Sesungguhnya kamu bertanya kepadaku mengenai seorang wanita dan budak yang ikut mengumpulkan ghanimah, apakah dia mendapatkan bagian yang khusus? Dia tidak mendapatkan bagian tertentu melainkan ia diberi sebatas ala kadarnya. Dan bertanya mengenai membunuh anak-anak, sesungguhnya Rasulullah shallallahu 'alaihi wasallam tidak membunuh anak-anak, oleh karena itu, janganlah kamu membunuh anak-anak, kecuali sebagaimana yang telah kamu ketahui apa yang diperbuat oleh sahabatnya Musa -(Khidzir -red) yang telah membunuh seorang anak. Dan kamu menulis surat untuk bertanya kepadaku mengenai batasan anak yatim, kapankah terputus keyatimannya? Bahwa keyatiman belum terputus dari seorang anak yatim hingga dia baligh dan matang kecerdasannya (sanggup menurus dirinya sendiri). Kamu menulis surat untuk bertanya kepadaku mengenai dzawil qurba, siapakah sebenarnya mereka? aku kira bahwa aku termasuk dari mereka, namun kaumku keberatan atas kami." Dan telah menceritakan kepada kami [Abdurrahman bin Bisyr Al 'Abdi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Isma'il bin Umayyah] dari [Sa'id bin Abu Sa'id] dari [Yazid bin Hurmuz] dia berkata, "Najdah pernah menulis surat kepada [Ibnu Abbas]... kemudian dia melanjutkan hadits tersebut seperti hadits di atas." Abu Ihsaq berkata; telah menceritakan kepadaku Abdurrahman bin Bisyr telah menceritakan kepada kami Sufyan dengan hadits yang sangat panjang ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4686</td></tr><tr><td>Arabic No</td><td>1812.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4686</td></tr><tr><td>Arabic No</td><td>1812.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 168</td></tr></tbody></table></div>
 

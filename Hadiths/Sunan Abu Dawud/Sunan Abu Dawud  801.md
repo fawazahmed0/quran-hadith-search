@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Ma’mar said:We asked Khabbab: Did the Messenger of Allah (ﷺ) recit (the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] dari [Al A'masy] dari ['Umarah bin 'Umair] dari [Abu Ma'mar] dia berkata; kami bertanya kepada [Khabbab]; "Apakah Rasulullah shallallahu 'alaihi wasallam membaca (surat al Fatihah) dalam shalat dluhur dan Ashar?" jawabnya; "Ya, benar." Kami bertanya; "Dengan apa kalian mengetahuinya?" jawabnya; "Dengan gerakan jenggot beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (746)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>801</td></tr><tr><td>Arabic No</td><td>801</td></tr><tr><td>Reference</td><td>Book 2 Hadith 411</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Ма‘мара: «Мы спросили Хаббаба, читал ли Посланник Аллаха ﷺ (аяты) во время полуденной /зухр/ и послеполуденной /аср/ молитв. Он ответил: “Да”. Мы спросили: “А как вы узнавали об этом?” Он ответил: “По движению его бороды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (746)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>801</td></tr><tr><td>Arabic No</td><td>801</td></tr><tr><td>Reference</td><td>Book 2 Hadith 411</td></tr></tbody></table></div>
 

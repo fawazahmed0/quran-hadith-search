@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa b. Zabair narrated on the authority of 'A'isha (Allah be pleased with her) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Urwah bin Zubair] bahwa [Aisyah] telah mengabarkan kepadanya bahwasanya; Dahulu orang-orang Anshar sebelum memeluk Islam, mereka dan Bani Ghassan menyembah berhala Manat, sehingga mereka merasa berdosa untuk thawaf antara Shafa dan Marwa. Hal itu telah menjadi kebiasaan nenek moyang mereka, bahwa siapa yang ihram untuk Manat, maka ia tidak boleh thawaf antara Shafa dan Marwa. Dan saat mereka masuk Islam, mereka pun menanyakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, maka Allah 'azza wajalla menurunkan ayat mengenai hal itu: "Sesungguhnya Shafaa dan Marwa adalah sebahagian dari syi'ar Allah. Maka barangsiapa yang beribadah haji ke Baitullah atau ber-'umrah, Maka tidak ada dosa baginya mengerjakan sa'i antara keduanya. dan barangsiapa yang mengerjakan suatu kebajikan dengan kerelaan hati, Maka Sesungguhnya Allah Maha Mensyukuri kebaikan lagi Maha Mengetahui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3083</td></tr><tr><td>Arabic No</td><td>1277.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 289</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3083</td></tr><tr><td>Arabic No</td><td>1277.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 289</td></tr></tbody></table></div>
 

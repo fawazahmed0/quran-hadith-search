@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Fatimah, daughter of Qays: The Messenger of Allah (ﷺ) once delayed th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4325</td></tr><tr><td>Arabic No</td><td>4325</td></tr><tr><td>Reference</td><td>Book 39 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Фатима бинт Кайс (да будет доволен ею Аллах) передаёт, что однажды Посланник Аллаха ﷺ долго не выходил на вечернюю молитву /‘иша/. Потом он вышел и сказал: Поистине, меня задержало то, что рассказывал мне Тамим ад-Дари о человеке, который был на одном из островов в море: «Я увидел женщину, волосы которой волочились по земле. Я спросил: “Что ты такое?” Она ответила: “Я Джассаса. Зейди в этот замок”. Я зашёл туда и увидел человека с длинными волосами, скованного цепями, между небом и землёй. Я спросил: “Кто ты?” Он ответил: “Я Даджжаль. Пророк среди неграмотных (арабов) уже появился?” Я ответил: “Да”. Он спросил: “И они подчинились ему или нет?” Я ответил: “Подчинились”. Он сказал: “Это лучше для них”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4325</td></tr><tr><td>Arabic No</td><td>4325</td></tr><tr><td>Reference</td><td>Book 39 Hadith 35</td></tr></tbody></table></div>
 

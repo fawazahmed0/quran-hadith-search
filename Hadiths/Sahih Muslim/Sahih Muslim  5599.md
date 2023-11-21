@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Samura b. Jundub reported:Allah's Messenger (ﷺ) forbade us to give names to ou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah], [Abu Bakr] berkata; Telah menceritakan kepada kami; [Mu'tamir bin Sulaiman] dari [Ar Rukain] dari [Bapaknya] dari [Samurah]. Dan [Yahya] berkata; Telah mengabarkan kepada kami [Al Mu'tamir bin Sulaiman] ia berkata; Aku mendengar [Ar Rukain] bercerita dari [Bapaknya] dari [Samurah bin Jundab] ia berkata; Rasulullah shallallahu 'alaihi wasallam melarang kami memberi nama pada anak-anak kami dengan empat nama; Aflah, Rabah, Yasar, dan Nafi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5599</td></tr><tr><td>Arabic No</td><td>2136.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5599</td></tr><tr><td>Arabic No</td><td>2136.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 14</td></tr></tbody></table></div>
 

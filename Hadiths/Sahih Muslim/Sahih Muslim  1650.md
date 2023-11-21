@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Buhaina reported:The dawn prayer had commenced when the Messen- ger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Abu 'Awanah] dari [Said bin Ibrahim] dari [Hafs bin 'Ashim] dari [Ibnu Buhainah] katanya; "Ketika shalat subuh telah diiqamati, Rasulullah shallallahu 'alaihi wasallam melihat seseorang yang sedang shalat padahal muadzin telah qamat, maka beliau menegurnya: "Apakah kamu shalat subuh empat raka'at?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1650</td></tr><tr><td>Arabic No</td><td>711.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Бухайна, да будет доволен им Аллах, рассказывал: «Когда объявляли о начале утренней молитвы, Посланник Аллаха ﷺ увидел человека, совершающего молитву в то время, когда муаззин объявлял (икаму). Он спросил (того человека): “Разве утренняя молитва состоит из четырёх (рак‘атов)?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1650</td></tr><tr><td>Arabic No</td><td>711.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 80</td></tr></tbody></table></div>
 

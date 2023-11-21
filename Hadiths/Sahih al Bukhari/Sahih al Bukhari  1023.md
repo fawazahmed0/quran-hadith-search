@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abbad bin Tamim:that his uncle (who was one of the companions of the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah berbicara kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah menceritakan kepadaku ['Abbad bin Tamim] bahwa [Pamannya] -salah seorang sahabat Nabi shallallahu 'alaihi wasallam- mengabarkan kepadanya, bahwa Nabi shallallahu 'alaihi wasallam pernah keluar bersama manusia (melaksanakan shalat istisqa') memintakan hujan untuk mereka. Beliau kemudian berdiri menghadap kiblat dan berdoa dalam keadaan berdiri sambil membalikkan kain selendangnya. Setelah itu mereka pun mendapatkan hujan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1023</td></tr><tr><td>Arabic No</td><td>1023</td></tr><tr><td>Reference</td><td>Book 15 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аббад ибн Тамим передал от своего дяди, который сказал, что однажды Пророк ﷺ вышел с людьми, чтобы обратиться к Аллаху с мольбой о ниспослании дождя. Он встал и воззвал к Аллаху, затем он обратился в сторону киблы и надел свою накидку наизнанку, и пошел дождь
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1023</td></tr><tr><td>Arabic No</td><td>1023</td></tr><tr><td>Reference</td><td>Book 15 Hadith 18</td></tr></tbody></table></div>
 

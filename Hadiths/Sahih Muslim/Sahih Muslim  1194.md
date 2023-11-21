@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sa'd Ibn Abi Waqqâs (que Dieu l'agrée), Mus'ab Ibn Sa'd a dit : Je fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Kamil al-Jahdari] dan lafazh tersebut milik Qutaibah, keduanya berkata, telah menceritakan kepada kami [Abu Awanah] dari [Abu Ya'fur] dari [Mush'ab bin Sa'd] dia berkata, "Aku shalat di samping [bapakku]." Dia berkata lagi, "Dan aku meletakkan kedua tanganku antara kedua lutut, lalu bapakku berkata kepadaku, 'Pukullah dengan kedua telapak tanganmu pada lututmu'." Dia berkata lagi, "Kemudian aku melakukan hal tersebut pada kesempatan lain, lalu dia memukul tanganku, seraya dia berkata, 'Kami dilarang Rasulullah seperti ini, dan kami diperintahkan meletakkan telapak tangan di atas lutut'." Telah menceritakan kepada kami [Khalaf bin Hisyam] telah menceritakan kepada kami [Abu al-Ahwash] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan] keduanya meriwayatkan dari [Abu Ya'fur] dengan isnad ini sampai dengan perkataannya, 'Kami dilarang darinya', dan keduanya belum menyebutkan sesuatu sesudahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1194</td></tr><tr><td>Arabic No</td><td>535.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мус‘аб ибн Са‘д сказал: «(Однажды), молившись рядом с отцом, я соединил ладони и поместил их между колен (при совершении поясного поклона). Отец велел мне: “Возложи ладони на колени”. (Когда же через некоторое время) я снова сделал это, он ударил меня по рукам и сказал: “Поистине, нам было запрещено (делать) это и было велено класть руки на колени”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1194</td></tr><tr><td>Arabic No</td><td>535.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 34</td></tr></tbody></table></div>
 

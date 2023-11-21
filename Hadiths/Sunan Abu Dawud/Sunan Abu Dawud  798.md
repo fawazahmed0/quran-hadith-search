@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qatadah said:The apostle of Allah (ﷺ) used to lead us in prayer and recite
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Hisyam bin Abu Abdullah], dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Al Hajjaj] -dan ini adalah lafadz hadits darinya- dari [Yahya] dari [Abdullah bin Abu Qatadah], berkata [Ibnu Al Mutsanna] dan [Abu Salamah], kemudian keduanya sepakat dari [Abu Qotadah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam shalat mengimami kami, beliau membaca Al Fatihah dan dua surat pada dua raka'at pertama dalam shalat Dhuhur dan Ashar. Kadang-kadang beliau memperdengarkan bacaan ayat kepada kami, dan biasanya beliau memanjangkan raka'at pertama pada shalat dzuhur dan memperpendek pada raka'at keduanya, begitu juga pada waktu shalat subuh." Abu Daud berkata; Musaddad tidak menyebutkan Al Fatihah dan surat. Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Hammam] dan [Aban bin Yazid Al 'Atthar] dari [Yahya] dari [Abdullah bin Abu Qatadah] dari [ayahnya] dengan menambahkan pada sebagian hadits ini; "… Pada dua raka'at terakhir dengan membaca Al Fatihah…" Dan dia menambahkan dari Hammam katanya; "… Dan beliau memanjangkan berdirinya pada raka'at pertama, tidak sepanjang pada raka'at kedua, demikian juga pada shalat Ashar dan shalat subuh..." Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Yahya] dari [Abdullah bin Abu Qatadah] dari [ayahnya] dia berkata; "Hingga kami menyangka beliau memanjangkan bacaannya karena ingin menunggu supaya orang-orang mendapatkan raka'at pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (762) Sahih Muslim (451)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>798</td></tr><tr><td>Arabic No</td><td>798</td></tr><tr><td>Reference</td><td>Book 2 Hadith 408</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Катады, да будет доволен им Аллах: «Посланник Аллаха ﷺ руководил нашей молитвой, и во время полуденной /зухр/ и послеполуденной /аср/ молитв он читал в первых двух рак‘атах “аль-Фатиху” и две суры, причём некоторые аяты он читал так, что мы тоже слышали их. При этом он удлинял первый рак‘ат полуденной молитвы и укорачивал второй, и так же он поступал при совершении утренней молитвы».Абу Дауд сказал: «Мусаддад не упоминал “аль-Фатиху” и суру»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (762) Sahih Muslim (451)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>798</td></tr><tr><td>Arabic No</td><td>798</td></tr><tr><td>Reference</td><td>Book 2 Hadith 408</td></tr></tbody></table></div>
 

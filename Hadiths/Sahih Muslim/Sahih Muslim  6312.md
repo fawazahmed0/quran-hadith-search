@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) called his daughter Fatima (during 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Manshur bin Abu Muhazim] Telah menceritakan kepada kami [Ibrahim] yaitu Ibnu Sa'ad dari [Bapaknya] dari [Urwah] dari [Aisyah] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Zuhair bin Harb] lafazh ini miliknya Telah menceritakan kepada kami [Ya'qub bin Ibrahim] Telah menceritakan kepada kami [Bapakku] dari [Bapaknya] bahwa [Urwah bin Jubair] Telah menceritakan kepadanya, dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam Rasulullah shalallahu'alaihi wa sallam memanggil Fathimah, anaknya. Beliau membisikinya dan ia pun menangis, lalu beliau membisikinya dan ia pun tersenyum. Aisyah berkata; "Saya bertanya kepada Fathimah; 'Apa yang dibisikkan oleh Rasulullah shalallahu'alaihi wa sallam kepadamu hingga kamu menangis, kemudian beliau berbisik kepadamu dan kamu tersenyum?" ia menjawab; "Beliau berbisik kepadaku dan memberitahuku akan kematiannya, aku pun menangis. Kemudian beliau berbisik kepadaku dan memberitahuku bahwa saya adalah orang yang pertama kali mengikutinya dari keluarganya maka aku pun tersenyum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6312</td></tr><tr><td>Arabic No</td><td>2450.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6312</td></tr><tr><td>Arabic No</td><td>2450.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 142</td></tr></tbody></table></div>
 

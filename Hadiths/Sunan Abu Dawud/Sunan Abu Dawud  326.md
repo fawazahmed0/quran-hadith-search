@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This is also transmitted by Ibn 'Abd al-Rahman b. Abza on the authority of his f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>326</td></tr><tr><td>Arabic No</td><td>326</td></tr><tr><td>Reference</td><td>Book 1 Hadith 326</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Абду-р-Рахмана ибн Абзы, который передал со слов своего отца, передавшего в этом хадисе от ‘Аммара, который сказал: «И он, то есть Пророк ﷺ сказал: “Поистине, тебе было достаточно ударить своими руками о землю и обтереть ими свое лицо и кисти рук”. Далее он продолжил этот хадис до конца».Абу Дауд сказал: «Также этот хадис передал Шу‘ба со слов Хусайна, передавшего со слов Абу Малика, который сказал: “Я слышал, как ‘Аммар рассказывал подобный хадис, где кроме всего прочего он сказал: “Он не сдувал (пыль с рук)». А Хусайн ибн Мухаммад передал со слов Шу‘бы, сообщившего со слов аль-Хакама, сказавшего в этом хадисе: ”Он ударил руками о землю и подул на них”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>326</td></tr><tr><td>Arabic No</td><td>326</td></tr><tr><td>Reference</td><td>Book 1 Hadith 326</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:Aisha said, "I went to Abu Bakr (during his fatal illne
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami [Wuhaib] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata,: "Aku pernah masuk menemui Abu Bakar radliallahu 'anhu lalu dia berkata,: "Berapa lembar kain kalian mengafani Nabi Shallallahu'alaihiwasallam?". Dia berkata,: "Dalam tiga lembar kain putih buatan negeri Yaman dan tidak dipakaikan baju dan juga tidak sorban". Kemudian Abu Bakar radliallahu 'anhu berkata kepadanya: "Hari apakah Rasulullah Shallallahu'alaihiwasallam wafat?". 'Aisyah radliallahu 'anha menjawab: Hari Senin". Lalu dia berkata, lagi: "Sekarang ini hari apa?". Dia 'Aisyah radliallahu 'anha menjawab: "Sekarang hari Senin". Abu Bakar berkata,: "Aku berharap umurku sampai malam ini saja". Lalu dia memandang baju yang dipakainya sejak dia menderita sakit yang ketika itu bajunya sudah kotor terkena minyak za'faran (kunyit) pada sebagiannya kemudian berkata,: "Cucilah bajuku ini dan tambahkanlah dengan dua baju lain untuk mengafaniku dengannya". Aku berkata: "Baju ini sudah usang". Maka dia menjawab: "Orang yang hidup lebih pantas untuk mengenakan yang baru dari pada orang yang sudah mati. Kain itu hanya untuk mewadahi nanah mayat". Kemudian dia tidak wafat hingga menjelang malam Selasa (dimana akhirnya wafat) lalu ia dikuburkan sebelum pagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1387</td></tr><tr><td>Arabic No</td><td>1387</td></tr><tr><td>Reference</td><td>Book 23 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я пришла к Абу Бакру, да будет доволен им Аллах, и он спросил: “Во сколько кусков ткани вы завернули тело Пророка ﷺ?” Она ответила: “В три куска белого йеменского полотна и среди них не было ни рубахи, ни чалмы”. Он спросил ее: “В какой день умер Посланник Аллаха ﷺ?” Она ответила: “В понедельник”. Он сказал: “Я надеюсь, что умру где-нибудь между данным моментом и сегодняшним вечером”. Потом он посмотрел на одежду, которую носил во время болезни, и увидел на ней пятна шафрана и сказал: “Помойте эту мою одежду, затем добавьте к ней ещё две одежды и укутайте меня в них”. ‘Аиша сказала: “Это старая (изношенная) одежда!” Он ответил: “Поистине, живой человек имеет больше прав носить новую одежду, чем мертвый, саван (кафан) нужен только для гноя выходящего из тела покойника”. И он (Абу Бакр) умер только вечером во вторник и был похоронен ещё до наступления утра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1387</td></tr><tr><td>Arabic No</td><td>1387</td></tr><tr><td>Reference</td><td>Book 23 Hadith 139</td></tr></tbody></table></div>
 

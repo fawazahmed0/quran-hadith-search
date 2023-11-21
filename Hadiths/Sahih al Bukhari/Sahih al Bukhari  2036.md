@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama bin 'Abdur-Rahman:I asked Abu Sa'id Al-Khudri, "Did you hear
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Munir] dia mendengar [Harun bin Isma'il] telah menceritakan kepada kami ['Ali bin AL Mubarak] berkata, telah menceritakan kepada saya [Yahya bin Abu Katsir] berkata, aku mendengar [Abu Salamah bin 'Abdurrahman] berkata; Aku pernah bertanya kepada [Abu Sa'id Al Khudriy], aku katakan: "Apakah kamu pernah mendengar Rasulullah shallallahu 'alaihi wasallam memberitahukan tentang Lailatul Qadar?" Dia menjawab: "Ya pernah, kami pernah ber'i'tikaf bersama Rasulullah shallallahu 'alaihi wasallam pada sepuluh malam pertengahan dari bulan Ramadhan. Dia berkata: "Kemudian kami keluar pada pagi hari kedua puluh. Dia berkata: "Kemudian Rasulullah shallallahu 'alaihi wasallam memberikan khuthbah kepada kami pada pagi hari kedua puluh dan berkata: "Sungguh aku diperlihatkan (dalam mimpi) tentang Lailatul Qadar namun aku dilupakan waktunya yang pasti. Maka carilah pada sepuluh malam-malam akhir dan pada malam yang ganjil. Sungguh aku melihat dalam mimpi, bahwa aku sujud diatas tanah dan air (yang becek). Oleh karena itu siapa yang sudah beri'tikaf bersama Rasulullah shallallahu 'alaihi wasallam maka kembalilah beri'tikaf". Maka orang-orang kembali ke masjid. Dan saai itu tidaklah kami melihat awan yang tipis sekalipun di langit hingga kemudian tiba-tiba datang awan yang banyak lalu hujan turun. Kemudian shalat didirikan, Rasulullah shallallahu 'alaihi wasallam sujud diatas tanah yang becek dan air hingga aku melihat sisa-sisa tanah pada ujung hidung dan dahi Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2036</td></tr><tr><td>Arabic No</td><td>2036</td></tr><tr><td>Reference</td><td>Book 33 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма ибн ‘Абдуррахман сказал: «Я спросил Абу Са‘ида аль-Худри, да будет доволен им Аллах: “Слышал ли ты, как Посланник Аллаха ﷺ говорил о Ночи предопределения?” Он ответил: “Да. Мы совершали и‘тикаф в середине третьей части рамадана вместе с посланником Аллаха ﷺ. Утром двадцатого числа мы вышли из и‘тикафа. И Пророк ﷺ обратился к нам с проповедью в это утро, сказав: “Поистине, мне была показана Ночь предопределения /Лейлят-уль-кадр/, но затем она была забыта мной. Ищите же её в последние десять ночей (рамадана), во все нечётные ночи. И я видел, как я совершаю земной поклон на воду и глину. Поэтому пусть тот, кто совершал и‘тикяф вместе с посланником Аллаха ﷺ вернётся (к и‘тикяфу)”. И люди вернулись в мечеть. Мы не видели в небе ничего (из облаков), как вдруг пришли тучи и пошёл дождь. Затем был провозглашен призыв на (утреннюю) молитву. И Посланник Аллаха ﷺ совершил земной поклон на глину и воду так, что я видел следы глины на кончике его носа и на его лбу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2036</td></tr><tr><td>Arabic No</td><td>2036</td></tr><tr><td>Reference</td><td>Book 33 Hadith 11</td></tr></tbody></table></div>
 

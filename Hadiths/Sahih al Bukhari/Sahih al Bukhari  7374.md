@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:A man heard another man reciting (in the prayers): 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari [Abdurrahman bin Abdullah bin Abdurrahman bin Abu Sha'sha'ah] dari [Ayahnya] dari [Abu Sa'id Al Khudzri], bahwa ada seorang laki-laki mendengar seseorang yang membaca QULHUWALLAHU AHAD (QS.Surat al-ikhlas), ia mengulang-ulanginya. Pagi harinya, ia menemui Nabi shallallahu 'alaihi wasallam dan mengutarakan kisahnya yang seolah-olah si laki-laki tadi menganggap terlalu remeh (sedikit) bacaannya. Spontan Rasulullah Shallallahu'alaihiwasallam bersabda: "Sungguh surat tadi menyamai sepertiga alquran." Dan [Ismail bin Ja'far] menambahkan dari [Malik] dari [Abdurrahman] dari [Ayahnya] dari [Abu Sa'id] telah mengabariku saudaraku [Qatadah bin Nu'man] dari nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7374</td></tr><tr><td>Arabic No</td><td>7374</td></tr><tr><td>Reference</td><td>Book 97 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что один человек, услышавший, как другой много раз повторяет слова «Скажи: “Он, Аллах, Один”», наутро пришёл к Посланнику Аллаха ﷺ и стал рассказывать ему об этом, (говоря так,) будто он считал её слишком маленькой. (Выслушав его,) Посланник Аллаха ﷺ сказал: «Клянусь Тем, в Чьей длани душа моя, поистине, она равна трети Корана!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7374</td></tr><tr><td>Arabic No</td><td>7374</td></tr><tr><td>Reference</td><td>Book 97 Hadith 4</td></tr></tbody></table></div>
 

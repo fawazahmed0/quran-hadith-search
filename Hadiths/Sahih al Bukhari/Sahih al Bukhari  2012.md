@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:That he was informed by 'Aisha, "Allah's Messenger (ﷺ) went out
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] telah mengabarkan kepada saya ['Urwah] bahwa ['Aisyah radliallahu 'anha] mengabarkannya bahwa Rasulullah shallallahu 'alaihi wasallam pada suatu malam keluar kamar di tengah malam untuk melaksanakan shalat di masjid. Maka orang-orang kemudian ikut shalat mengikuti shalat Beliau. Pada waktu paginya orang-orang membicarakan kejadian tersebut sehingga pada malam berikutnya orang-orang yang berkumpul bertambah banyak lalu ikut shalat dengan Beliau. Pada waktu paginya orang-orang kembali membicarakan kejadian tersebut. Kemudian pada malam yang ketiga orang-orang yang hadir di masjid semakin bertambah banyak lagi lalu Rasulullah shallallahu 'alaihi wasallam keluar untuk shalat dan mereka ikut shalat bersama Beliau. Kemudian pada malam yang keempat, masjid sudah penuh dengan jama'ah hingga akhirnya Beliau keluar hanya untuk shalat Shubuh. Setelah Beliau selesai shalat Fajar, Beliau menghadap kepada orang banyak kemudian Beliau membaca syahadat lalu bersabda: "Amma ba'du, sesungguhnya aku bukannya tidak tahu keberadaan kalian (semalam). Akan tetapi aku takut nanti menjadi diwajibkan atas kalian sehingga kalian menjadi keberatan karenanya". Kemudian setelah Rasulullah shallallahu 'alaihi wasallam meninggal dunia, tradisi shalat (tarawih) secara berjamaah terus berlangsung seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2012</td></tr><tr><td>Arabic No</td><td>2012</td></tr><tr><td>Reference</td><td>Book 31 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что однажды поздно ночью Посланник Аллаха ﷺ вышел (из дома) и стал совершать молитву в мечети, а некоторые люди совершали, следуя его примеру (и находясь позади него), наутро же эти люди стали рассказывать (об этом другим. На следующую ночь) их (в мечети) собралось больше, и они совершили молитву вместе с ним, а наутро рассказали (об этом другим). На третью ночь в мечети собралось уже много людей, а когда Посланник Аллаха ﷺ вышел (из дома), он совершил молитву, и они совершили его, следуя его примеру, на четвёртую же ночь мечеть уже не смогла вместить (всех желавших совершить молитву). А наутро Пророк ﷺ вышел на утреннюю молитву, по завершении которой он повернулся к людям, произнёс слова свидетельства и сказал: «А затем, поистине, (то, что вы) находились (здесь), не осталось скрытым от меня, но я побоялся, что (эта молитва) будет сделана для вас обязательной, но вы не сможете её совершать!» А потом Посланник Аллаха ﷺ умер, и всё осталось без изменений
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2012</td></tr><tr><td>Arabic No</td><td>2012</td></tr><tr><td>Reference</td><td>Book 31 Hadith 5</td></tr></tbody></table></div>
 

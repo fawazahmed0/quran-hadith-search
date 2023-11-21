@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Walid bin 'Aizar:I heard Abi 'Amr 'Ash-Shaibani saying, "The owner o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] berkata; [Al Walid bin 'Aizar] telah mengabarkan kepadaku dia berkata; saya mendengar [Abu 'Amru Asy Syaibani] berkata; telah mengabarkan kepada kami pemilik rumah ini, sambil menunjuk kerumah [Abdullah] dia berkata; saya bertanya kepada Nabi shallallahu 'alaihi wasallam; "Amalan apakah yang paling dicintai Allah? Beliau bersabda: "Shalat tepat pada waktunya." Dia bertanya lagi; "Kemudian apa?" beliau menjawab: "Berbakti kepada kedua orang tua." Dia bertanya; "Kemudian apa lagi?" beliau menjawab: "Berjuang di jalan Allah." Abu 'Amru berkata; "Dia (Abdullah) telah menceritakan kepadaku semuanya, sekiranya aku menambahkan niscaya dia pun akan menambahkan (amalan) tersebut kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5970</td></tr><tr><td>Arabic No</td><td>5970</td></tr><tr><td>Reference</td><td>Book 78 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Шу‘ба, что Абу ‘Амр аш-Шайбани говорил: «Нам рассказал хозяин этого дома», — и он указал рукой на дом ‘Абдуллаха (ибн Мас‘уда): «(‘Абдуллах), сказал: “(Однажды) я спросил Пророка ﷺ: “Какое дело Аллах любит больше всего?” Он ответил: “Молитва, совершаемая в установленное для неё время”. Я спросил: “А после этого?” Он ответил: “Проявление почтительности и доброты по отношению к родителям”. Я спросил: “А после этого?” Он ответил: “Усердие на пути Аллаха””».\n(‘Абдуллах Ибн Мас‘уд) сказал: «Об этом рассказал мне Посланник Аллаха ﷺ, а если бы я (спросил о чём-нибудь ещё), то он обязательно сказал бы больше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5970</td></tr><tr><td>Arabic No</td><td>5970</td></tr><tr><td>Reference</td><td>Book 78 Hadith 1</td></tr></tbody></table></div>
 

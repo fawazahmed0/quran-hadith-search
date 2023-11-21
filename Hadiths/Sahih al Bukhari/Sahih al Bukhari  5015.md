@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said to his companions, "Is it di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepada kami [Ibrahim] dan [Adl Dlahak Al Masyriqi] dari [Abu Sa'id Al Khudri] radliallahu 'anhu, ia berkata; Nabi shallallahu 'alaihi wasallam bersabda kepada para sahabatnya: "Apakah salah seorang dari kalian tidak mampu bila ia membaca sepertiga dari Al Qur'an pada setiap malamnya?" dan ternyata para sahabat merasa kesulitan seraya berkata, "Siapakah di antara kami yang mampu melakukan hal itu wahai Rasulullah?" maka beliau pun bersabda: "ALLAHUL WAAHID ASH SHAMAD (maksudnya surat al-ikhlash) nilainya adalah sepertiga Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5015</td></tr><tr><td>Arabic No</td><td>5015</td></tr><tr><td>Reference</td><td>Book 66 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-­Худри (да будет доволен им Аллах) рассказывал: «Однажды Пророк ﷺ спросил своих сподвижников: “Сможет ли ­кто-нибудь из вас прочесть треть Корана за ночь?” Это показалось им затруднительным, и они сказали: “Кто же из нас способен на такое, о Посланник Аллаха?” Тогда Пророк ﷺ сказал: “Скажи: “Он — Аллах, Один…”” — это и есть треть Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5015</td></tr><tr><td>Arabic No</td><td>5015</td></tr><tr><td>Reference</td><td>Book 66 Hadith 37</td></tr></tbody></table></div>
 

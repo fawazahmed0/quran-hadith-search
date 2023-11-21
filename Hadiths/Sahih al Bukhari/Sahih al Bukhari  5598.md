@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Al-Juwairiyya:I asked Ibn 'Abbas about Al-Badhaq. He said, "Muhamma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Abu Al Juwairiyah] dia berkata; saya bertanya kepada [Ibnu Abbas] tentang al badzaq (perasan yang terbuat dari anggur yang dimasak), Ibnu Abbas menjawab; "Muhammad shallallahu 'alaihi wasallam telah menjelaskan (keharaman) al badzaq, sesuatu yang dapat memabukkan hukumnya haram, katanya lagi; minuman yang halal lagi baik, katanya melanjutkan; "Tidaklah setelah sesuatu yang halal lagi baik melainkan haram lagi jelek
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5598</td></tr><tr><td>Arabic No</td><td>5598</td></tr><tr><td>Reference</td><td>Book 74 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу аль-Джувейрия сказал: «Я спросил Ибн ‘Аббаса о “базаке” (один из видов спиртных напитков, который не был известен во время Пророка ﷺ). На что он сказал: “Мухаммад ﷺ разъяснил его положение ещё до того, как появился сам “базак”, сказав: “Всё, что опьяняет, является запретным”. Я (Абу аль-Джувейрия) сказал: “Прекрасный дозволенный напиток”. Тогда Ибн ‘Аббас сказал: “После дозволенного и благого нет ничего, кроме скверного и запрещённого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5598</td></tr><tr><td>Arabic No</td><td>5598</td></tr><tr><td>Reference</td><td>Book 74 Hadith 24</td></tr></tbody></table></div>
 

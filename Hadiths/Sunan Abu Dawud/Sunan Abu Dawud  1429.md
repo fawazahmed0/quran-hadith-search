@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubayy ibn Ka'b: Al-Hasan reported: Umar ibn al-Khattab gathered the peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Syuja' bin Makhlad], telah menceritakan kepada Kami [Husyaim], telah mengabarkan kepada Kami [Yunus bin 'Ubaid] dari [Al Hasan] bahwa [Umar bin Khathab] RhadhiyAllahu 'anhu mengumpulkan orang-orang untuk melakukan shalat dibelakang Ubai bin Kaab, ia melakukan shalat sebagai imam mereka selama dua puluh malam, dan dia tidak melakukan qunut bersama mereka kecuali pada setengah bulan terakhir. Dan apabila sudah masuk hari kesepuluh terakhir ia mengundurkan diri dan melakukan shalat dirumahnya, hingga orang-orang mengatakan bahwa Ubai telah kabur. Abu Daud berkata; hadits ini menunjukkan bahwa hadits yang telah disebutkan mengenai qunut tidak berarti apa-apa, dan dua hadits ini menunjukkan kelemahan hadits Ubai bahwa Nabi Shalla Allahu 'alaihi wa sallam melakukan qunut pada waktu witir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1429</td></tr><tr><td>Arabic No</td><td>1429</td></tr><tr><td>Reference</td><td>Book 8 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Хасана, что ‘Умар ибн аль-Хаттаб велел людям собраться и совершать дополнительную молитву под руководством Убаййа ибн Ка‘ба в течение двадцати ночей, и тот не совершал с ними кунут, кроме как во второй половине месяца. В последнюю декаду рамадана он молился дома, а люди говорили: «Убайй сбежал!» Абу Дауд сказал: «Это свидетельствует о том, что упомянутое о кунуте ничто, и эти два хадиса указывают на слабость хадиса Убаййа, в котором говорится, что Пророк ﷺ совершал кунут во время витра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1429</td></tr><tr><td>Arabic No</td><td>1429</td></tr><tr><td>Reference</td><td>Book 8 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "Do not hate one another, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian saling membenci, janganlah saling mendengki dan janganlah kalian saling membelakangi dan jadilah kalian hamba-hamba Allah yang bersaudara, dan tidak halal bagi seorang muslim mendiamkan saudaranya melebihi tiga malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6076</td></tr><tr><td>Arabic No</td><td>6076</td></tr><tr><td>Reference</td><td>Book 78 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «Откажитесь от ненависти по отношению друг к другу, не завидуйте друг другу, не поворачивайтесь спиной друг к другу и будьте братьями, о рабы Аллаха! Не разрешается мусульманину покидать брата своего на срок, превышающий три ночи!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6076</td></tr><tr><td>Arabic No</td><td>6076</td></tr><tr><td>Reference</td><td>Book 78 Hadith 104</td></tr></tbody></table></div>
 

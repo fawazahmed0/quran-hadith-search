@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:We witnessed along with Allah's Messenger (ﷺ) the Khaibar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hibban bin Musa] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Sa'id bin Musayyab] dari [Abu Hurairah] radliallahu 'anhu berkata; kami menghadiri perang Khaibar bersama Rasulullah Shallallahu'alaihi wa sallam, kemudian Rasulullah Shallallahu'alaihi wa sallam berkata terhadap seseorang yang turut bersama beliau yang mengaku dirinya muslim: "Orang ini penghuni neraka." Ketika peperangan terjadi, Orang tadi berperang dengan gigih, kemudian orang tersebut terkena luka yang lumayan banyak, dan luka-luka itu pun membuatnya tak bergeming. Seorang sahabat Nabi shallallahu 'alaihi wasallam datang dan berujar; 'Hai Rasulullah, apakah anda telah melihat lelaki yang engkau katakan bahwa dia termasuk penghuni neraka?, sungguh dia telah berperang sedemikian gigihnya dan mendapat luka sedemikian banyak.'. Nabi shallallahu 'alaihi wasallam tetap mengatakan: "Dia termasuk penghuni neraka." Nyaris sebagian kaum muslimin menjadi ragu terhadap ucapan beliau. Ketika kondisi dalam sedemikian itu, laki-laki tadi merasakan derita luka yang perih, lantas dengan tangannya ia mengambil kantong anak panahnya, ia ambil salah satu panahnya dan ia pergunakan untuk bunuh diri. Dengan serta merta beberapa lelaki dari kaum muslimin menemui Rasulullah Shallallahu'alaihiwasallam dan berujar: 'Wahai Rasulullah, Allah telah membenarkan ucapanmu, sungguh fulan melakukan bunuh diri.' Maka Rasulullah Shallallahu'alaihiwasallam bersabda: "ya Bilal, berdirilah, dan umumkanlah, tidak akan masuk surga kecuali mukmin, dan Allah menguatkan agama ini dengan laki-laki yang durhaka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6606</td></tr><tr><td>Arabic No</td><td>6606</td></tr><tr><td>Reference</td><td>Book 82 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «Мы присутствовали при Хайбаре вместе с посланником Аллаха, да благословит его Аллаха и приветствует, и Посланник Аллаха ﷺ сказал о человеке, который был с ним и заявлял о своём исламе: “Этот (человек) из числа обитателей Огня”. Когда началось сражение, этот человек сражался яростно, и на нём стало так много ран, что они ослабили его. И тут пришёл один человек из числа сподвижников Пророка ﷺ и сказал: “О, Посланник Аллаха, видел ли ты человека, о котором ты рассказал, что он из числа обитателей Огня? Он сражался на пути Аллаха яростно, и на нём было множество ран”. И Пророк ﷺ сказал: “Поистине, он — из числа обитателей Огня!” И некоторые мусульмане уже стали сомневаться (в словах Пророка ﷺ), и в этот момент, когда он стал чувствовать боли ран, тогда он протянул свою руку к своему колчану, достал оттуда стрелу и покончил себя ею. Люди из числа мусульман устремились к Посланнику Аллаха ﷺ и сказали: “О, Посланник Аллаха, Аллах подтвердил твои слова, ведь такой-то человек покончил с собой, убив самого себя”. Тогда Посланник Аллаха ﷺ сказал: “О Биляль, поднимись, и сообщи, что не войдет в Рай никто, кроме верующего. И поистине, Аллах поддерживает эту религию даже с помощью грешного человека!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6606</td></tr><tr><td>Arabic No</td><td>6606</td></tr><tr><td>Reference</td><td>Book 82 Hadith 12</td></tr></tbody></table></div>
 

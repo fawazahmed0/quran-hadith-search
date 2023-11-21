@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:I said to Ibn 'Umar, "If a man accuses his wife of ill
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Zurarah] Telah mengabarkan kepada kami [Isma'il] dari [Ayyub] dari [Sa'id bin Jubair] ia berkata; Aku pernah bertanya kepada [Ibnu Umar] mengenai seorang laki-laki yang menuduh isterinya berzina. Maka ia pun menjelaskan; Nabi shallallahu 'alaihi wasallam telah memisahkan antara dua orang Bani 'Ajlan dan beliau bersabda: "Sesungguhnya Allah mengetahui bahwa salah sorang dari kalian adalah dusta. Apakah di antara kalian ada yang mau bertaubat?" namun keduanya enggan dan menolak. Beliau bersabda lagi: "Sesungguhnya Allah mengetahui bahwa salah seorang dari kalian adalah dusta. Apakah di antara kalian ada yang mau bertaubat?" keduanya tetap engan, maka beliau memisahkan antara keduanya. Ayyub berkata; Amru bin Dinar berkata padaku; Di dalam hadits terdapat sesuatu yang tidak kamu ceritakan. Lalu ia pun menyebutkan; Laki-laki itu berkata, "Lalu bagaimana dengan hartaku?" beliau bersabda: "Jika kamu jujur, kamu telah menggaulinya. Dan jika kamu dusta, maka hal itu tentulah lebih parah lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5349</td></tr><tr><td>Arabic No</td><td>5349</td></tr><tr><td>Reference</td><td>Book 68 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Са‘ида ибн Джубайра, что он спросил Ибн ‘Умара о мужчине, который обвиняет жену в прелюбодеянии, и он сказал: «Пророк Аллаха ﷺ расторг брак такой пары из бану аль-‘аджлян и сказал: “Аллах знает, что один из вас лжёт. Так не покается ли кто-то из вас?” Он повторил эти слова трижды, но никто из них не признался, и тогда он расторг их брак».\nАюб (один из передатчиков) сказал: «‘Амр ибн Динар сказал мне: “В этом хадисе есть ещё кое-что, о чём ты не упомянул. (А именно то, что) мужчина спросил: “А как же моё имущество (брачный дар /махр/)?” Ему было сказано: “У тебя нет (права на возврат этого) имущества, потому что, если ты правдив (в своём обвинении), то ведь ты уже вступал с ней в половую близость, если же ты солгал, то ты имеешь ещё меньше прав (на возврат имущества)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5349</td></tr><tr><td>Arabic No</td><td>5349</td></tr><tr><td>Reference</td><td>Book 68 Hadith 94</td></tr></tbody></table></div>
 

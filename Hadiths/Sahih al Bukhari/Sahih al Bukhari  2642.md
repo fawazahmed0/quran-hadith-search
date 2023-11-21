@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A funeral procession passed in front of the Prophet (ﷺ) and the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas radliallahu 'anhu] berkata; Ada jenazah yang diusung lewat di hadapan Nabi shallallahu 'alaihi wasallam lalu orang-orang memuji jenazah tersebut dengan kebaikan lalu Beliau berkata: "Pasti". Kemudian lewat jenazah yang lain dan orang-orang mengatakan keburukan kepadanya atau lain dari yang pertama tadi lalu Beliau berkata: "Pasti". Maka ditanya kepada Rasulullah shallallahu 'alaihi wasallam: "(Apa maksudnya) Baginda mengatakan untuk yang ini pasti dan untuk yang itu pasti?" Beliau bersabda: "Persaksian orang-orang beriman adalah saksi-saksinya Allah di muka bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2642</td></tr><tr><td>Arabic No</td><td>2642</td></tr><tr><td>Reference</td><td>Book 52 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Однажды (люди) прошли мимо Пророка ﷺ, неся носилки с покойником, о котором они отзывались с благом, и Пророк ﷺ сказал: «Стало обязательным!» После этого пронесли другие носилки и (на этот раз) люди стали отзываться о покойном плохо, однако (Пророк ﷺ снова) сказал: «Стало обязательным!» Тогда Пророка ﷺ спросили: «О Посланник Аллаха! Когда пронесли те носилки, ты сказал: “Стало обязательным!” И когда пронесли эти, ты тоже сказал: “Стало обязательным!” (Что стало обязательным)?!» Он ответил: «Свидетельство людей. Верующие являются свидетелями Аллаха на земле»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2642</td></tr><tr><td>Arabic No</td><td>2642</td></tr><tr><td>Reference</td><td>Book 52 Hadith 6</td></tr></tbody></table></div>
 

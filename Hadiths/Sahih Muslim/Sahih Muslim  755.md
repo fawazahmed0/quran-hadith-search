@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Umm Habiba b. Jahsh thus asked for a verdict from the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [al-Laits] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] bahwa dia berkata, "Ummu Habibah binti Jahsy telah meminta fatwa dari Rasulullah Shallallahu'alaihiwasallam kemudian berkata, 'Aku ini perempuan yang berdarah istihadhah. Maka Rasulullah Shallallahu'alaihiwasallam menjawab dengan bersabda, ' itu adalah darah penyakit, maka hendaklah kamu mandi kemudian shalatlah, maka dia mandi pada setiap waktu shalat'." Al-Laits bin Sa'd berkata, "Ibnu Syihab tidak menyebutkan bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan Ummu Habibah bintu Jahsy untuk mandi pada setiap waktu shalat, akan tetapi itu adalah sesuatu yang dia perbuat sendiri." Ibnu Rumh berkata dalam riwayatnya, "Ibnah Jahsy." Dan tidak menyebutkan, "Ummu Habibah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>755</td></tr><tr><td>Arabic No</td><td>334.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) Умм Хабиба бинт Джахш обратилась к Посланнику Аллаха ﷺ с вопросом, сказав: “У меня хроническое кровотечение”. Посланник Аллаха ﷺ сказал: “Это венозная кровь, поэтому соверши полное омовение, затем совершай молитву”, и (с тех пор) она совершала полное омовение перед каждой молитвой».Аль-Лейс ибн Са‘д сказал: “Ибн Шихаб не упоминал о том, что Посланник Аллаха ﷺ велел Умм Хабибе бинт Джахш совершать полное омовение перед каждой молитвой, но это то, что делала она”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>755</td></tr><tr><td>Arabic No</td><td>334.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 77</td></tr></tbody></table></div>
 

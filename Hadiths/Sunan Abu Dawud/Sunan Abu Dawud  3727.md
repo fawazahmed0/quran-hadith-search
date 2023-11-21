@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b.Malik said :when the prophet (ﷺ) drank, he used to breathe three times 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] dari [Abu 'Isham] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam apabila minum beliau bernafas tiga kali, dan beliau berkata: "Hal itu lebih nyaman dan enak serta lebih selamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5631) Sahih Muslim (2028)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3727</td></tr><tr><td>Arabic No</td><td>3727</td></tr><tr><td>Reference</td><td>Book 27 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ пил в три приёма, каждый раз переводя дыхание, и говорил: «Так лучше, приятнее и полезнее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5631) Sahih Muslim (2028)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3727</td></tr><tr><td>Arabic No</td><td>3727</td></tr><tr><td>Reference</td><td>Book 27 Hadith 59</td></tr></tbody></table></div>
 

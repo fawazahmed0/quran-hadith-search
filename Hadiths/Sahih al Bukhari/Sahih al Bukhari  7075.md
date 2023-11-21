@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "If anyone of you passed through our m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam bersabda; "Jika salah seorang diantara kalian melewati masjid kami, atau pasar kami, sedang ia membawa anak panah, hendaklah ia pegang (ia tutup) mata anak panahnya" -atau ia mengatakan dengan redaksi; hendaklah ia pegang dengan tangannya- sebab dikhawatirkan kaum muslimin terlukai daripadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7075</td></tr><tr><td>Arabic No</td><td>7075</td></tr><tr><td>Reference</td><td>Book 92 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса (аль-Аш‘ари), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Когда кто-либо из вас проходит по нашим мечетям или рынкам, имея при себе стрелы, пусть держится за их острия (или сказал: пусть схватит руками их), чтобы не поранить кого-нибудь из мусульман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7075</td></tr><tr><td>Arabic No</td><td>7075</td></tr><tr><td>Reference</td><td>Book 92 Hadith 26</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Ibn 'Umar (Allah be pleased wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Nafi'] dari [Ibnu Umar] bahwasannya Rasulullah Shallallu 'alaihi wa sallam bersabda: "Dua orang yang bertransaksi, maka masing-masing dari keduanya boleh khiyar (memilih) atas partnernya selama keduanya belum berpisah, kecuali jual beli khiyar (yaitu; ditentukannya pilihan dari awal transaksi). Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] keduanya berkata; Telah menceritakan kepada kami [Yahya yaitu Al Qaththan]. Dan dari jalur lain, telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr]. Dan dari jalur lain, telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] semuanya dari [Ubaidillah] dari [Nafi'] dari [Ibnu Umar] dari Nabi Shallallu 'alaihi wa sallam. Dan dari jalur lain, telah menceritakan kepadaku [Zuhair bin Harb] dan [Ali bin Hujr] keduanya berkata; Telah menceritakan kepada kami [Isma'il]. Dan dari jalur lain, telah menceritakan kepada kami [Abu Ar Rabi'] dan [Abu Kamil] keduanya berkata; Telah menceritakan kepada kami [Hammad] dia adalah Ibnu Zaid, semuanya dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dari Nabi Shallallu 'alaihi wa sallam. Dan dari jalur lain, telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Abi Umar] keduanya berkata; Telah menceritakan kepada kami [Abdul Wahab] dia berkata; Saya mendengar [Yahya bin Sa'id]. Dan dari jalur lain, telah menceritakan kepada kami [Ibnu Rafi'] telah menceritakan kepada kami [Ibnu Abi Fudaik] telah mengabarkan kepada kami [Ad Dhahhak] keduanya dari [Nafi'] dari [Ibnu Umar] dari Nabi Shallallu 'alaihi wa sallam, sebagaimana hadits Malik dari Nafi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3854</td></tr><tr><td>Arabic No</td><td>1531.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3854</td></tr><tr><td>Arabic No</td><td>1531.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 53</td></tr></tbody></table></div>
 

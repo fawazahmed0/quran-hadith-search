@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Messenger of Allah (ﷺ) said: Amongst the apostles I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-'Ala'] telah menceritakan kepada kami [Mu'awiyah bin Hisyam] dari [Sufyan] dari [Mukhtar bin Fulful] dari [Anas bin Malik] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku adalah nabi yang paling banyak pengikutnya pada hari kiamat, dan aku adalah orang yang pertama kali mengetuk pintu surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>196.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 390</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «В День воскресения у меня будет больше последователей, чем у других пророков, и я буду первым, кто постучится во врата Рая»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>196.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 390</td></tr></tbody></table></div>
 

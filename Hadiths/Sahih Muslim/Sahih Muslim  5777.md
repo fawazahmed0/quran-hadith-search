@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Usama b. Zaid reported Allah's Messenger (ﷺ) having said this:This calamity or
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir Ahmad bin 'Amru] dan [Harmalah bin Yahya] keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah mengabarkan kepadaku ['Amir bin Sa'd] dari [Usamah bin Zaid] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Wabah penyakit ini adalah sebuah adzab, yang dengannya Allah membinasakan sebagian ummat sebelum kalian dan sisanya masih ada dimuka bumi, terkadang datang dan terkadang pergi. Bila terdengar ada di suatu tempat maka janganlah kalian mendatanginya. Dan bila terjadi di suatu tempat sedangkan dia ada di situ maka janganlah kalian menyuruhnya keluar dari tempat itu." Dan telah menceritakannya kepada kami [Abu Kamil Al Jahdari]; Telah menceritakan kepada kami ['Abdul Wahid] yaitu Ibnu Ziyad; Telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] melalui jalur Yunus dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5777</td></tr><tr><td>Arabic No</td><td>2218.06</td></tr><tr><td>Reference</td><td>Book 39 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5777</td></tr><tr><td>Arabic No</td><td>2218.06</td></tr><tr><td>Reference</td><td>Book 39 Hadith 129</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:In the lifetime of Allah's Messenger (ﷺ) the mosq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] berkata, telah menceritakan kepadaku [Bapakku] dari [Shalih bin Kaisan] berkata, telah menceritakan kepada kami [Nafi'] bahwa ['Abdullah bin 'Umar] mengabarkan kepadanya, bahwa pada masa Rasulullah shallallahu 'alaihi wasallam Masjid dibangun dengan menggunakan tanah liat yang dikeraskan (bata). Atapnya dari dedaunan sedangkan tiangnya dari batang pohon kurma. Pada masanya Abu Bakar tidak memberi tambahan renovasi apapun, kemudian pada masanya Umar bin Al Khaththab ia memberi tambahan renovasi, Umar merenovasi dengan batu bata dan dahan barang kurma sesuai dengan bentuk yang ada di masa Rasulullah shallallahu 'alaihi wasallam. Tiang utama ia ganti dengan kayu. Kemudian pada masa Utsman ia banyak melakukan perubahan dan renovasi, dinding masjid ia bangun dari batu yang diukir dan batu kapur. Kemudian tiang dari batu berukir dan atapnya dari batang kayu pilihan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>446</td></tr><tr><td>Arabic No</td><td>446</td></tr><tr><td>Reference</td><td>Book 8 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салих ибн Кайсан сказал:\n— Нам рассказал Нафи‘ о том, что ‘Абдуллах (ибн ‘Умар, да будет доволен Аллах ими обоими) сообщил ему, что при жизни Посланника Аллаха ﷺ мечеть была построена из необожжённого кирпича, её крыша была сделана из голых пальмовых ветвей, а столбы — из стволов пальм. Абу Бакр ничего не добавил к ней, что же касается ‘Умара, то он расширил её, построив новое здание по образцу существовавшего при жизни Посланника Аллаха ﷺ. Он использовал необожжённые кирпичи и голые пальмовые ветви и поставил новые деревянные столбы. Затем (эту мечеть) перестроил ‘Усман, значительно расширивший её. Он возвёл стены из украшенных узорами камней (, покрыв их) известью, и поставил каменные колонны с узорами, а крышу покрыл тиком
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>446</td></tr><tr><td>Arabic No</td><td>446</td></tr><tr><td>Reference</td><td>Book 8 Hadith 95</td></tr></tbody></table></div>
 

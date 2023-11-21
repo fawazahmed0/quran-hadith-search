@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:Allah's Messenger (ﷺ) came to me as I was playing with playmates
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Nafi']; Telah menceritakan kepada kami [Bahz]; Telah menceritakan kepada kami [Hammad]; Telah mengabarkan kepada kami [Tsabit] dari [Anas] dia berkata; Saya pernah didatangi oleh Rasulullah shallallahu 'alaihi wasallam ketika saya sedang bermain dengan teman-teman yang lain. Kemudian beliau mengucapkan salam kepada kami dan menyuruh saya untuk suatu keperluan hingga saya terlambat pulang ke rumah. Sesampainya di rumah. ibu bertanya kepada saya; 'Mengapa kamu terlambat pulang? Maka saya pun menjawab; 'Tadi saya disuruh oleh Rasulullah untuk suatu keperluan.' Ibu saya terus bertanya; 'Keperluan apa? ' Saya menjawab; 'Itu rahasia.' Ibu saya berkata; "Baiklah, Janganlah kamu ceritakan rahasia Rasulullah shallallahu 'alaihi wasallam kepada siapapun." Anas berkata; "Demi Allah, kalau saya boleh menceritakan rahasia tersebut kepada seseorang, niscaya saya pun akan menceritakannya pula kepadamu hai Tsabit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6378</td></tr><tr><td>Arabic No</td><td>2482.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6378</td></tr><tr><td>Arabic No</td><td>2482.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 208</td></tr></tbody></table></div>
 

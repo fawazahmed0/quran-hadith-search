@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Ma'mar reported that a person lauded a ruler amongst the rulers and Miqdad b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin Al Mutsanna] semuanya dari Ibnu Mahdi dan teksnya milik Ibnu Al Mutsanna keduanya berkata: Telah menceritakan kepada kami [Abdurrahman] dari [Sufyan] dari [Habib] dari [Mujahid] dari [Abu Ma'mar] berkata: Seseorang berdiri memuji salah seorang amir lalu [Al Miqdad] menaburkan tanah padanya dan berkata: Rasulullah Shallallahu 'alaihi wa Salam memerintahkan kami untuk menaburkan tanah dimuka orang yang memuji-muji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7505</td></tr><tr><td>Arabic No</td><td>3002.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7505</td></tr><tr><td>Arabic No</td><td>3002.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 87</td></tr></tbody></table></div>
 

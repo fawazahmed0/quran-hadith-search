@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al-Asy'ats] dari [Muhammad bin Sirin] dari [Abdullah bin Syaqiq] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam tidak biasa mengerjakan shalat dengan memakai pakaian atau selimut kami. Ubaidullah berkata; Ayahku ragu-ragu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>645</td></tr><tr><td>Arabic No</td><td>645</td></tr><tr><td>Reference</td><td>Book 2 Hadith 255</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ не совершал молитву в наших одеждах (ши‘ар) или: покрывалах».‘Убайдуллах (ибн Му‘аз) сказал: «Мой отец сомневался (в этом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>645</td></tr><tr><td>Arabic No</td><td>645</td></tr><tr><td>Reference</td><td>Book 2 Hadith 255</td></tr></tbody></table></div>
 

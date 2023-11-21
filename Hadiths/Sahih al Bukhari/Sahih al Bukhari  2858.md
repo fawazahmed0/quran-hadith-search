@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I heard the Prophet (ﷺ) saying. "Evil omen is in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku [Salim bin 'Abdullah] bahwa [Abdullah bin 'Umar radliallahu 'anhuma] berkata aku mendengar Nabi shallallahu 'alaihi wasallam bersabda; "Sesungguhnya kesialan ada pada tiga hal, pada kuda, wanita dan tempat tinggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2858</td></tr><tr><td>Arabic No</td><td>2858</td></tr><tr><td>Reference</td><td>Book 56 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Пророк ﷺ сказал: “Дурные предзнаменования (могут быть связаны) лишь с тремя вещами: с лошадью, женщиной и домом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2858</td></tr><tr><td>Arabic No</td><td>2858</td></tr><tr><td>Reference</td><td>Book 56 Hadith 74</td></tr></tbody></table></div>
 

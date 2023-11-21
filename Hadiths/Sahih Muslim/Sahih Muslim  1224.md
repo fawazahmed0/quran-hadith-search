@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that the Messenger of Allah (ﷺ) saw sputum sticking to the Q
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] dia berkata, Saya membaca di hadapan [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa Rasulullah shallallahu'alaihiwasallam (pada suatu ketika) melihat dahak di dinding masjid arah kiblat. Lalu Nabi mengikisnya, sesudah itu beliau menghadap kepada orang-orang seraya bersabda, "Apabila kamu sedang shalat, maka janganlah meludah ke arah depan, karena Allah berada di hadapanmu ketika kamu sedang shalat." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] dan [Abu Usamah] --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Bapakku] semuanya meriwayatkan dari [Ubaidullah] --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Qutaibah] dan [Muhammad bin Rumh] dari [al-Laits bin Sa'ad] --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ismail, yaitu Ibnu Ulayyah] dari [Ayyub] --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Rafi'] telah menceritakan kepada kami [Ibnu Abi Fudaik] telah mengabarkan kepada kami [adh-Dhahhak, yaitu Ibnu Utsman] --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Hajjaj bin Muhammad] dia berkata, berkata [Ibnu Juraij], telah mengabarkan kepadaku [Musa bin Uqbah] semua mereka meriwayatkan dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, "Bahwa beliau melihat dahak di arah kiblat masjid..." kecuali adh-Dhahhak. Karena dalam haditsnya terdapat, "Dahak di arah kiblat." Semakna dengan hadits Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1224</td></tr><tr><td>Arabic No</td><td>547.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что (однажды) Пророк ﷺ увидел (на стене) мечети, направленной в сторону киблы мокроту… Далее подобно предыдущему хадису
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1224</td></tr><tr><td>Arabic No</td><td>547.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 62</td></tr></tbody></table></div>
 

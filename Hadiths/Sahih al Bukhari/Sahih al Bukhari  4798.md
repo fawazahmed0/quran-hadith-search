@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:We said, "O Allah's Messenger (ﷺ)! (We know) this
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah menceritakan kepada kami [Al Laits] dia berkata; Telah menceritakan kepadaku [Ibnu Al Haad] dari [Abdullah bin Khabbab] dari [Abu Sa'id Al Khudzri] dia berkata; Aku berkata; 'Ya Rasulullah, mengucapkan salam udah kami ketahui, lalu bagaimana mengucapkan shalawat kepadamu? Beliau menjawab: "Ucapkanlah: ALLAAHUMMA SHALLI 'ALAA MUHAMMAD, 'ABDIKA WA RASUULIKA KAMAA SHALAITA ALAA AALI IBRAHIM WA BAARIK AALA MUHAMMAD WA 'ALAA 'AALI MUHAMMAD KAMAA BAARAKTA 'ALAA IBRAHIM. - [Abu Shalih] berkata; dari [Al Laits] - dengan lafazh; 'AlAA MUHAMMAD WA 'ALAA 'AALI MUHAMMAD KAMAA BAARAKTA 'ALAA AALI IBRAHIM.' Telah menceritakan kepada kami [Ibrahim bin Hamzah] Telah menceritakan kepada kami [Ibnu Abu Hazim] dan [Ad Daraawardi] dari [Yazid] ia berkata dengan lafazh; 'KAMA SHALAITA 'ALAA IBRAHIM, WA BAARIK ALAA MUHAMMAD WA AALI MUHAMMAD KAMAA BARAKTA ALAA IBRAHIM WA AALI IBRAHIM
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4798</td></tr><tr><td>Arabic No</td><td>4798</td></tr><tr><td>Reference</td><td>Book 65 Hadith 320</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал:\n— (Однажды) мы сказали: «О Посланник Аллаха, (нам известно, что) это — приветствие, (с которым следует обращаться к тебе,) но как нам обращаться к Аллаху с мольбами за тебя?» (В ответ нам Пророк ﷺ) сказал: «Говорите: “О Аллах, благослови Мухаммада, Твоего раба и Твоего посланника, как благословил Ты семейство Ибрахима, и пошли благословения Мухаммаду и семейству Мухаммада, как послал Ты их Ибрахиму! /Аллахумма, салли ‘аля Мухаммадин ‘абди-кя ва расули-кя кя-ма салляйта ‘аля али Ибрахима, ва барик ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма баракта ‘аля Ибрахима!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4798</td></tr><tr><td>Arabic No</td><td>4798</td></tr><tr><td>Reference</td><td>Book 65 Hadith 320</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We set out with Allah's Messenger (ﷺ)s (to Mecca) in the year 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu Al Aswad Muhammad bin 'Abdurrahman bin Naufal] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] berkata: "Kami berangkat bersama Nabi shallallahu 'alaihi wasallam pada tahun hajji wada' (perpisahan). Diantara kami ada yang berihram untuk 'umrah, ada yang berihram untuk hajji dan 'umrah dan ada pula yang berihram untuk hajji. Sedangkan Rasulullah shallallahu 'alaihi wasallam berihram untuk hajji. Adapun orang yang berihram untuk hajji atau menggabungkan hajji dan 'umrah maka mereka tidak bertahallul sampai hari nahar (tanggal 10 Dzul Hijjah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1562</td></tr><tr><td>Arabic No</td><td>1562</td></tr><tr><td>Reference</td><td>Book 25 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса сообщается, что ‘Аиша, да будет доволен ею Аллах,) сказала: «В год прощального паломничества мы выехали (в Мекку) вместе с посланником Аллаха ﷺ. Некоторые из нас вошли в состояние ихрама, намереваясь совершить (только) умру, другие — и хадж, и умру, третьи — (только) хадж, а Посланник Аллаха ﷺ объявил о своём намерении совершить хадж. И что касается объявивших о своём намерении совершить хадж или совместить хадж с умрой, то они не вышли из состояния ихрама до Дня жертвоприношения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1562</td></tr><tr><td>Arabic No</td><td>1562</td></tr><tr><td>Reference</td><td>Book 25 Hadith 48</td></tr></tbody></table></div>
 

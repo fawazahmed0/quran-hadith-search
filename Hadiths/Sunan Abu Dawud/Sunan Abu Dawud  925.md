@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Suhayb: I passed by the Messenger of Allah (ﷺ) who was praying. I sal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada kami [Yazid bin Khalid bin Mauhab] dan [Qutaibah bin Sa'id] bahwa [Al Laitsi] telah menceritakan kepada meeka dari [Bukair] dari [Nabil sahabatnya 'Aba'] dari [Ibnu Umar] dari [Suhaib] dia berkata; "Aku melewati Rasulullah shallallahu 'alaihi wasallam, sementara beliau dalam keadaan shalat, lalu aku mengucapkan salam kepadanya, dan beliau menjawabnya dengan isyarat." Nabil berkata; "Aku tidak mengetahui kecuali Ibnu Umar berkata; 'Bahwa isyarat beliau dengan menggunakan jari jemarinya." Lafadz hadits ini dari Qutaibah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>925</td></tr><tr><td>Arabic No</td><td>925</td></tr><tr><td>Reference</td><td>Book 2 Hadith 536</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Сухайб, да будет доволен им Аллах: «Однажды я проходил мимо Посланника Аллаха ﷺ когда он совершал молитву. Я поприветствовал его, и он ответил мне жестом». Передатчик сказал, что ему известен этот хадис только со словами «…и он ответил мне движением пальца», а это версия Кутайбы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>925</td></tr><tr><td>Arabic No</td><td>925</td></tr><tr><td>Reference</td><td>Book 2 Hadith 536</td></tr></tbody></table></div>
 

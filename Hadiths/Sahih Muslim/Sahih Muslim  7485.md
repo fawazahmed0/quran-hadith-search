@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:All the people of my Umma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb], [Muhammad bin Hatim] dan [Abdu bin Humaid], berkata Abdu: telah menceritakan kepadaku, sedang yang lain berkata: telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [keponakan Ibnu Syihab] dari [pamannya] berkata: [Salim] berkata: Saya mendengar [Abu Hurairah] berkata: Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap umatku dimaafkan kecuali orang-orang menampak-nampakkan (dosa) dan sesungguhnya diantara menampak-nampakkan (dosa) adalah seorang hamba yang melakukan amalan di waktu malam kemudian di waktu paginya telah ditutupi oleh Rabbnya lalu ia berkata: 'Wahai fulan semalam aku telah melakukan ini dan itu, ' padahal pada malam harinya (dosanya) Telah ditutupi oleh Rabbnya. Ia pun bermalam dalam keadaan (dosanya) Telah ditutupi oleh Rabbnya dan di pagi harinya ia menyingkap apa yang telah ditutup oleh Allah'." Zuhair berkata dan sesungguhnya termasuk dari Hijar (menampak-nampakkan dosa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7485</td></tr><tr><td>Arabic No</td><td>2990</td></tr><tr><td>Reference</td><td>Book 55 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7485</td></tr><tr><td>Arabic No</td><td>2990</td></tr><tr><td>Reference</td><td>Book 55 Hadith 68</td></tr></tbody></table></div>
 

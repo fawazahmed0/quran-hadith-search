@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:The sun eclipsed on one extremely hot day during the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ya'qub bin Ibrahim Ad Dauraqi] telah menceritakan kepada kami [Isma'il bin Ulayyah] dari [Hisyam Ad Dastawa'i] ia berkata, telah menceritakan kepada kami [Abu Zubair] dari [Jabir bin Abdullah] ia berkata; Pernah terjadi gerhana matahari pada masa Rasulullah shallallahu 'alaihi wasallam yakti di saat terik matahari bergitu sangat menyengat. Maka Rasulullah shallallahu 'alaihi wasallam shalat (gerhana) bersama para sahabatnya. Beliau memanjangkan berdirinya hingga para sahabat tersungkur lantas duduk karena keletihan. Kemudian beliau ruku' dan memanjangkan ruku'nya, kemudian bangkit dan memanjangkan berdirinya kembali. Lalu beliau ruku' dan memanjangkan ruku'nya. Sesudah itu, beliau bangkit dan sujud dua kali. Kemudian beliau berdiri dan melakukan hal yang serupa, hingga semuanya menjadi empat raka'at dan empat kali sujud. setelah itu, beliau bersabda: "Sesungguhnya segala sesuatu yang akan kalian masuki telah diperlihatkan kepadaku. Diperlihatkanlah jannah atasku, hingga sekiranya aku memetik setandan buah darinya niscaya aku akan mengambilnya -atau beliau bersabda- Aku mencoba memetik setandan buah darinya namun tanganku tak sampai. Dan neraka juga diperlihatkan padaku, lalu di dalamnya aku melihat seorang wanita dari Bani Isra'il yang sedang disiksa lantaran kucing yang ia ikat dan tidak diberinya makan juga tidak dilepasnya hingga kucing itu bisa makan serangga-serangga bumi. Dan aku juga melihat Abu Tsumamah Amru bin Malik yang sedang terseret punggunggungnya di dalam neraka. Mereka (kaum Jahiliyah) mengatakan bahwa tidaklah terjadi gerhana matahari dan bulan kecuali karena kematian seorang yang agung. Padahal, keduanya adalah ayat dari ayat-ayat Allah yang diperlihatkan-Nya. Maka apabila terjadi gerhana pada keduanya, tunaikanlah shalat hingga nampak kembali." Dan Telah menceritakan kepadaku [Abu Ghassan Al Misma'i] Telah menceritakan kepada kami [Abdul Malik bin Shabah] dari [Hisyam] dengan isnad ini semisalnya. Hanya saja ia menyebutkan: "Dan di dalam neraka aku melihat wanita Himyar yang berkulit hitam berpostur tubuh tinggi." Dan ia tidak menyebutkan, "Dari Bani Isra'il
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2100</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что, когда при жизни Посланника Аллаха ﷺ произошло солнечное затмение в один из жарких дней, Посланник Аллаха ﷺ совершил молитву со своими сподвижниками. Он стоял так долго, что люди, не выдерживая, падали, а потом совершил поясной поклон и долго не поднимался. Затем он поднялся и долго стоял. Затем он совершил поясной поклон и долго не поднимался. Затем он совершил два земных поклона. Затем он поднялся и проделал всё то же самое. Таким образом, он совершил четыре поясных и четыре земных поклона. Затем он (Пророк ﷺ) сказал: «Мне было показано всё, куда вы войдёте (после смерти), и мне был показан Рай так, что если бы я мог достать, то сорвал бы из него гроздь винограда, но моя рука не дотянулась. И мне был показан Огонь, в нём я увидел женщину из бану Исраиль, которая подвергалась мучениям из-за её кошки. Она связала её, не предоставив ей возможности есть насекомых (ползающих) по земле, и не кормила её (сама). Также я видел Абу Сумаму ‘Амра ибн Малика, который волочил свои кишки в Огне. (Невежественные люди) говорили, что солнце и луна затмеваются только из-за смерти (кого-то) великого, но (на самом деле) они являются знамениями, из знамений Аллаха, которые Аллах показывает вам. Поэтому, если произойдёт их затмение, то совершайте молитву, пока они не прояснятся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2100</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zadhan said:I came to Ibn ‘Umar when he set his slave free. He took a stick or
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Abu Kamil] ia berkata; telah menceritakan kepada kami [Abu Awanah] dari [Firas] dari [Abu Shalih Dzakwan] dari [Zadzan] ia berkata, "Aku mendatangi [Ibnu Umar], sementara ia pada waktu itu telah memerdekakan budak miliknya. Lalu ia mengambil sebatang kayu atau sesuatu dari tanah seraya berkata, "Ohh, tidakkah sebaiknya kudapatkan ganjaran yang setara dengan tongkat ini?" Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang menampar atau memukul budaknya, maka kafarahnya adalah dengan memerdekakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1657)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5168</td></tr><tr><td>Arabic No</td><td>5168</td></tr><tr><td>Reference</td><td>Book 43 Hadith 396</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1657)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5168</td></tr><tr><td>Arabic No</td><td>5168</td></tr><tr><td>Reference</td><td>Book 43 Hadith 396</td></tr></tbody></table></div>
 

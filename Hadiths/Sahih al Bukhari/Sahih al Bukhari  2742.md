@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Abu Waqqas:The Prophet (ﷺ) came visiting me while I was (sic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Sufyan] dari [Sa'ad bin Ibrahim] dari ['Amir bin Sa'ad] dari [Sa'ad bin Abi Waqosh radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam datang menjengukku (saat aku sakit) ketika aku berada di Makkah". Dia tidak suka bila meninggal dunia di negeri dimana dia sudah berhijrah darinya. Beliau bersabda; "Semoga Allah merahmati Ibnu 'Afra'". Aku katakan: "Wahai Rasulullah, aku mau berwasiat untuk menyerahkan seluruh hartaku". Beliau bersabda: "Jangan". Aku katakan: "Setengahnya" Beliau bersabda: "Jangan". Aku katakan lagi: "Sepertiganya". Beliau bersabda: "Ya, sepertiganya dan sepertiga itu sudah banyak. Sesungguhnya jika kamu meninggalkan ahli warismu dalam keadaan kaya itu lebih baik daripada kamu meninggalkan mereka dalam keadaan miskin lalu mengemis kepada manusia dengan menengadahkan tangan mereka. Sesungguhnya apa saja yang kamu keluarkan berupa nafkah sesungguhnya itu termasuk shadaqah sekalipun satu suapan yang kamu masukkan ke dalam mulut istrimu. Dan semoga Allah mengangkatmu dimana Allah memberi manfaat kepada manusia melalui dirimu atau memberikan madharat orang-orang yang lainnya". Saat itu dia (Sa'ad) tidak memiliki ahli waris kecuali seorang anak perempuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2742</td></tr><tr><td>Arabic No</td><td>2742</td></tr><tr><td>Reference</td><td>Book 55 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Абу Ваккас, да будет доволен им Аллах, сказал: «Когда я заболел, будучи в Мекке, Пророк ﷺ пришёл, чтобы навестить меня». Пророку ﷺ не хотелось, чтобы он умер в месте, из которого он переселился. «Пророк ﷺ сказал: “Да смилуется Аллах над сыном ‘афра!” Я спросил: “О Посланник Аллаха! Завещать ли мне всё моё имущество (бедным)?” Он ответил: “Нет”. Я сказал: “Половину?” Он ответил: “Нет”. Я сказал: “Треть?” Он ответил: “Треть, но и трети будет много, ведь тебе лучше оставить своих наследников богатыми, чем лишёнными средств и (вынужденными) просить у людей! И, поистине, что бы ты ни израсходовал (ради Всевышнего Аллаха), ты непременно получишь за это награду, в том числе и за тот кусочек, который положишь в рот своей жене. Возможно Аллах возвысить тебя, чтобы благодаря тебе одни люди получили пользу, а другим был нанесён вред”». В то время у Са‘да была только одна дочь
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2742</td></tr><tr><td>Arabic No</td><td>2742</td></tr><tr><td>Reference</td><td>Book 55 Hadith 5</td></tr></tbody></table></div>
 

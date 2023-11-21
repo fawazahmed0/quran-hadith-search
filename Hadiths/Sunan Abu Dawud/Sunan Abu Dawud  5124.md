@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miqdam ibn Ma'dikarib: The Prophet (ﷺ) said: When a man loves his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Tsaur] ia berkata; telah menceritakan kepadaku [Habib bin Ubaid] dari [Al Miqdam bin Ma'diKarib] -dan Habib pernah bertemu dengan Al Miqdam- dari Nabi shallallahu 'alaihi wasallam bersabda: "Jika seorang laki-laki menyukai saudaranya, maka hendaklah ia mengabarkan kepadanya bahwa ia menyukainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 43 Hadith 352</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Микдама бин Ма‘дикариба, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если человек полюбит брата своего, пусть сообщит ему о том, что он любит его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 43 Hadith 352</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The people asked the Messenger of Allah (ﷺ): Can 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala] dan [Al Hasan bin Ali] dan [Muhammad bin Sulaiman Al Anbari] mereka berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Al Walid bin Katsir] dari [Muhammad bin Ka'b] dari [Ubaidillah bin Abdullah bin Rafi' bin Khadij] dari [Abu Sa'id Al Khudri] bahwasanya pernah ditanyakan kepada Rasulullah shallallahu 'alaihi wasallam; "Bolehkan kita berwudhu dari sumur Bidla'ah? Yaitu sumur yang dilemparkan kedalamnya bekas kotoran haidl, bangkai anjing, dan sesuatu yang berbau busuk." Rasulullah shallallahu 'alaihi wasallam menjawab: "Air itu suci, tidak ada sesuatu pun yang dapat menajiskannya." Abu Dawud berkata; Sebagian mereka menyebutkan Abdurrahman bin Rafi' (menggantikan posisi Abdullah bin Rafi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Arabic No</td><td>66</td></tr><tr><td>Reference</td><td>Book 1 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Убайдуллах ибн ‘Абдуллах ибн Рафи‘ ибн Хадидж передал со слов Абу Са‘ида аль-Худри о том, что однажды Посланника Аллаха ﷺ спросили: «Разве мы совершим омовение водой из колодца Буда‘а? В этот колодец бросают запачканные менструальной кровью тряпки, собак и гнилые продукты». И Посланник Аллаха ﷺ сказал: «Эта вода чистая, и ничто не осквернит её».Абу Дауд сказал: «Некоторые говорят, (что его звали) ‘Абдуррахман ибн Хадидж»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Arabic No</td><td>66</td></tr><tr><td>Reference</td><td>Book 1 Hadith 66</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Alqama:I asked 'Aisha, mother of the believers, "O mother of the belie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari ['Alqamah] dia berkata; aku pernah bertanya kepada Ummul Mukminin [Aisyah], tanyaku; "Wahai Ummul Mukminin, bagaimanakah Nabi shallallahu 'alaihi wasallam beramal? Apakah beliau pernah mengkhususkan hari?" Aisyah menjawab; 'Tidak, bahwa beliau selalu mengerjakan amalan secara berkesinambungan, lalu siapakah diantara kalian yang dapat menyamai amalan Nabi shallallahu 'alaihi wasallam?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6466</td></tr><tr><td>Arabic No</td><td>6466</td></tr><tr><td>Reference</td><td>Book 81 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал ‘Алькама: «Я спросил мать правоверных ‘Аишу: “О мать правоверных! Каковы были деяния Пророка ﷺ? Совершал ли он дополнительные деяния поклонения в особые дни?” Она сказала: “Нет, но его деяния были регулярными и постоянными, и кто из вас способен делать то, что делал Пророк ﷺ (т.е. поклоняться Аллаху)?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6466</td></tr><tr><td>Arabic No</td><td>6466</td></tr><tr><td>Reference</td><td>Book 81 Hadith 55</td></tr></tbody></table></div>
 

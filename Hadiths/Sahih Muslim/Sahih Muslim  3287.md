@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported:Abu Bakr Siddiq (Allah be pleas
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] dari [Ibnu Syihab] dari [Humaid bin Abdurrahman] dari [Abu Hurairah] -dalam riwayat lain- Dan telah menceritakan kepadaku [Harmalah bin Yahya At Tujibi] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] bahwa [Ibnu Syihab] telah mengabarkan kepadanya dari [Humaid bin Abdurrahman bin Auf] dari [Abu Hurairah] ia berkata; "Abu Bakar Ash Shiddiq menugaskanku ikut dalam suatu rombongan pada musim haji, dia diperintahkan Rasulullah shallallahu 'alaihi wasallam sebelum haji wada' untuk mengumumkan kepada orang banyak pada hari nahar, bahwa; Orang musyrik tidak diperkenankan haji mulai tahun yang akan datang, dan tidak boleh thawaf di Baitullah dalam keadaan telanjang." Ibnu Syihab berkata; Humaid bin Abdurrahman mengatakan; "Hari nahar termasuk hari haji yang teragung, berdasarkan haditsnya Abu Hurairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3287</td></tr><tr><td>Arabic No</td><td>1347</td></tr><tr><td>Reference</td><td>Book 15 Hadith 491</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3287</td></tr><tr><td>Arabic No</td><td>1347</td></tr><tr><td>Reference</td><td>Book 15 Hadith 491</td></tr></tbody></table></div>
 

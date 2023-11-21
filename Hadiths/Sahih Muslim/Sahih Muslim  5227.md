@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that Nabidh was prepared for Allah's Messenger (ﷺ) in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Yahya Al Bahrani] dia berkata, "Mereka menyebut-nyebut nabidz (perasan buah) di sisi [Ibnu Abbas], lantas dia berkata, "Rasulullah shallallahu 'alaihi wasallam biasa dibuatkan perasan dalam wadah air minum -Syu'bah berkata; dari malam senin-, kemudian beliau meminumnya pada hari senin dan selasa sampai ashar, jika masih terdapat perasan yang tersisa, maka beliau menyuruh pelayannya untuk menumpahkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5227</td></tr><tr><td>Arabic No</td><td>2004.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5227</td></tr><tr><td>Arabic No</td><td>2004.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 101</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The people used to say, "Abu Huraira narrates too many narr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Abu Bakr] telah bercerita kepada kami [Muhammad bin Ibrahim bin Dinar Abu 'Abdullah Al Juhaniy] dari [Ibnu Abu Dza'bi] dari [Sa'id Al Maqburiy] dari [Abu Hurairah Radhiyalahu'anhu] bahwa orang-orang berkata bahwa Abu Hurairah adalah orang yang paling banyak menulis hadits dari Nabi shallallahu 'alaihi wasallam. Sungguh memang akulah orang yang bermulazamah (selalu meyertai) Rasulullah shallallahu 'alaihi wasallam dengan perutkuyang hanya kuganjal makanan pokok saja, hingga aku tidak memakan roti dan tidak mengenakan pakaian bagus. Aku juga tidak dibantu oleh seorang pelayan-pun baik laki-laki maupun wanita dan aku biasa mengganjal perutku dengan tanah karena menahan lapar, dan aku juga sering meminta seseorang membacakan ayat yang aku sudah hafal agar terjaga sehingga aku bisa merasakannya. Dan manusia yang paling baik simpatinyanya terhadap orang miskin adalah Ja'far bin Abu Thalib. Dia hilir mudik menemui kami lalu memberi makan kami makanan apa saja yang ada di rumahnya hingga suatu hari dia menyuguhkan kepada kami wadah minyak samin yang tidak berisi apa-apa, lalu kami menjilat sisa-sisa isinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 62 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, рассказывал: «Поистине, люди говорят: “Абу Хурайра (передает) много (хадисов)!” Поистине, я был неразлучен с Посланником Аллаха ﷺ и (думал лишь о том, как немного) поесть, (после чего меня ничего не отвлекало от Пророка ﷺ). Я не ел хлеб, не носил шёлковых (одеяний), и мне не прислуживали ни мужчины, ни женщины. Бывало такое, что я припадал животом к камням из-за (сильного) голода. И бывало так, что я просил человека прочесть какой-нибудь аят, который я итак знал, (однако я делал это), для того чтобы он пригласил меня (к себе) и накормил. Лучше всего к беднякам относился Джа‘фар ибн Аби Талиб, который приглашал нас к себе и кормил тем, что имелось в его доме. И бывало так, что он выносил нам кожаный бурдюк, в котором уже не было ничего, но мы разрезали его и облизывали то, что (осталось)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 62 Hadith 58</td></tr></tbody></table></div>
 

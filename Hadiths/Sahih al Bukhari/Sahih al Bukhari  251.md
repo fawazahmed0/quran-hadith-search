@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:'Aisha's brother and I went to 'Aisha and he asked her about
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepadaku ['Abdush Shamad] berkata, telah menceritakan kepadaku [Syu'bah] berkata, telah menceritakan kepadaku [Abu Bakar bin Hafsh] berkata, aku mendengar [Abu Salamah] berkata, "Aku dan saudara 'Aisyah menemui ['Aisyah], lalu saudaranya bertanya kepadanya tentang cara Nabi shallallahu 'alaihi wasallam mandi (dari janabat). 'Aisyah lalu minta diambilkan satu bejana air setara dengan ukuran satu sha'. Kemudian mandi dan menuangkan air ke atas kepalanya, sementara antara kami dengannya terhalang oleh hijab." Abu 'Abdullah berkata, [Yazid bin Harun] dan [Bahz] dan [Al Juddi] menyebutkan dari [Syu'bah], "Sekadar satu sha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>251</td></tr><tr><td>Arabic No</td><td>251</td></tr><tr><td>Reference</td><td>Book 5 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма, да помилует его Аллах Всевышний, сказал: «(Однажды) я зашёл к ‘Аише, да будет доволен ею Аллах, вместе с её братом, который спросил её о том, как совершал полное омовение Пророк ﷺ. Она велела принести сосуд, вмещавший около одного са‘ (воды), совершила большое омовение и вылила (оставшуюся воду) себе на голову, и в это время она была отделена от нас завесой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>251</td></tr><tr><td>Arabic No</td><td>251</td></tr><tr><td>Reference</td><td>Book 5 Hadith 4</td></tr></tbody></table></div>
 

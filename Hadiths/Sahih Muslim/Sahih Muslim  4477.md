@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), Hind bint 'Utba, la femme de Abou S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ali bin Hujr As Sa'di] telah menceritakan kepada kami [Ali bin Mushir] dari [Hisyam bin 'Urwah] dari [ayahnya] dari ['Aisyah] dia berkata, "Hindun binti 'Utbah isteri Abu Sufyan menemui Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Wahai Rasulullah, sesungguhnya Abu Sufyan adalah laki-laki yang pelit, dia tidak pernah memberikan nafkah yang dapat mencukupi keperluanku dan kepeluan anak-anakku, kecuali bila aku ambil hartanya tanpa sepengetahuan darinya. Maka berdosakah jika aku melakukannya?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Kamu boleh mengambil sekedar untuk mencukupi kebutuhanmu dan anak-anakmu." Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] dan [Abu Kuraib] keduanya dari [Abdullah bin Numair] dan [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abdul Aziz bin Muhammad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Ibnu Abu Fudaik] telah mengabarkan kepada kami [Adl Dlahak] -yaitu Ibnu Utsman- semuanya dari [Hisyam] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4477</td></tr><tr><td>Arabic No</td><td>1714.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4477</td></tr><tr><td>Arabic No</td><td>1714.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said:The she-camel of the Messenger of Allah (ﷺ) called al-Adba’ had no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Anas] ia berkata, "Al Adhba (nama unta Rasulullah) tidak pernah terkalahkan saat lari. Lalu datanglah seorang Arab baduai dengan hewan tunggangannya. Unta nabi dapat mengalahkan unta Arab badui itu, namun kemudian unta Arab badui itu ganti mengalahkannya. Sehingga hal tersebut menjadikan hati para sahabat Rasulullah shallallahu 'alaihi wasallam merasa tidak nyaman, beliau lalu bersabda: "Sudah menjadi hak bagi Allah, bahwasanya tidaklah Ia meninggikan sesuatu di dunia ini kecuali Ia akan merendahkannya kembali." Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Humaid] dari [Anas] dengan kisah ini, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sungguh, telah menjadi hak bagi Allah, bahwasanya tidaklah Ia meninggikan sesuatu di dunia ini kecuali Ia akan merendahkannya kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4802</td></tr><tr><td>Arabic No</td><td>4802</td></tr><tr><td>Reference</td><td>Book 43 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(У Пророка, да будет доволен им Аллах, была верблюдица по кличке) аль-‘Адба, которую никто не мог обогнать, но однажды приехал какой-то бедуин на верблюде, которому было меньше шести лет, и обогнал её. Мусульмане были так огорчены этим, что (Пророк ﷺ) заметил это и сказал: «Что бы ни возвысилось в мире этом, Аллах обязательно принижает это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4802</td></tr><tr><td>Arabic No</td><td>4802</td></tr><tr><td>Reference</td><td>Book 43 Hadith 30</td></tr></tbody></table></div>
 

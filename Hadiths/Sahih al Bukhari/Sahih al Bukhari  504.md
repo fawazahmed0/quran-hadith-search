@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) entered the Ka'ba along with Usama bin Zaid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Juwairiah] dari [Nafi'] dari [Ibnu 'Umar] berkata, "Nabi shallallahu 'alaihi wasallam masuk ke dalam Ka'bah bersama Usamah bin Zaid, 'Utsman bin Thalhah dan Bilal dalam waktu yang cukup lama. Kemudian beliau keluar dan akulah orang yang pertama kali masuk setelah beliau keluar. Aku lantas bertanya kepada Bilal, "Dimana beliau tadi melaksanakan shalat? ' [Bilal] menjawab, "Di antara dua tiang depan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>504</td></tr><tr><td>Arabic No</td><td>504</td></tr><tr><td>Reference</td><td>Book 8 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (‘Абдуллах) ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ вошёл в Дом (Каабу) и (его сопровождали) Усама ибн Зейд, ‘Усман ибн Тальха и Билял, и долго оставался там, а потом вышел (оттуда). Я был первым из людей, кто вошёл вслед за ним и спросил Биляла: “Где он молился?” Он ответил: “Между двумя передними столбами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>504</td></tr><tr><td>Arabic No</td><td>504</td></tr><tr><td>Reference</td><td>Book 8 Hadith 151</td></tr></tbody></table></div>
 

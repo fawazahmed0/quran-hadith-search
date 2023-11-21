@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid bin 'Abdur-Rahman:Abu Huraira said, "During that Hajj (in which 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] dia berkata; Telah menceritakan kepadaku [Al Laits] dia berkata; Telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] Dan telah mengabarkan kepadaku [Humaid bin 'Abdur Rahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata; Abu Bakr mengutusku pada haji tersebut, tepatnya pada hari kurban untuk mengumumkan bersama orang-orang di Mina bahwa tidak boleh orang musyrik melakukan haji setelah tahun tersebut, dan tidak boleh orang telanjang melakukan thawaf di Ka'bah." Kemudian Nabi shallallahu 'alaihi wasallam di bonceng oleh Ali bin Abu Thalib, lalu beliau menyuruhnya untuk mengumumkan mengenai ayat Bara'ah. Abu Hurairah berkata; Maka Ali bersama kami mengumumkan di Mina pada hari kurban mengenai ayat Bara'ah dan orang musyrik tidak boleh melakukan haji setelah tahun tersebut, dan orang telanjang tidak boleh melakukan thawaf di Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4655</td></tr><tr><td>Arabic No</td><td>4655</td></tr><tr><td>Reference</td><td>Book 65 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Во время того хаджа в День жертвоприношения Абу Бакр послал меня в числе других глашатаев, чтобы мы возвестили (людям) в Мине о том, что, начиная со следующего года, ни один многобожник не совершит хадж и ни один обнажённый не совершит обход Каабы».\nХумейд ибн ‘Абдуррахман сказал: «А потом Посланник Аллаха ﷺ отправил (после Абу Бакра) ‘Али ибн Аби Талиба и велел ему возвестить о ниспослании суры “Бараъа” (т.е. сура “ат-Тауба”)».\nАбу Хурайра сказал: «И в День жертвоприношения ‘Али вместе с нами стал читать суру “Бараъа” собравшимся в Мине людям и возвещать, что, начиная со следующего года, ни один многобожник не совершит хадж и ни один обнажённый не совершит обход Каабы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4655</td></tr><tr><td>Arabic No</td><td>4655</td></tr><tr><td>Reference</td><td>Book 65 Hadith 177</td></tr></tbody></table></div>
 

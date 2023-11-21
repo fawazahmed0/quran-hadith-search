@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When we reached (Hudaibiya) in the next year (of the treaty o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Juwairiyah] dari [Nafi'] berkata; [Ibnu 'Umar radliallahu 'anhuma] berkata: "Kami kembali (ke Hudaibiyah) pada tahun berikutnya (satu tahun setelah perjanjian Hudaibiyah), maka tidak ada dua orang dari kami yang berkumpul di pohon yang kami dulu kami berbaiat dibawahnya. Pohon itu menjadi rahmat dari Allah". Kemudian aku bertanya kepada Nafi': "Atas dasar apa Beliau membaiat mereka, apakah untuk kematian?" Dia menjawab: "Tidak, namun Beliau membaiat mereka untuk kesabaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2958</td></tr><tr><td>Arabic No</td><td>2958</td></tr><tr><td>Reference</td><td>Book 56 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «На следующий год мы вернулись, и не нашлось среди нас двоих, которые могли бы указать на то дерево, под которым мы давали клятву, что было проявлением милости Аллаха». Его спросили: «В чём же (Пророк ﷺ) предложил вам поклясться? В (том, что вы будете стоять) насмерть?» Он сказал: «Нет, в (том, что мы будем проявлять) терпение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2958</td></tr><tr><td>Arabic No</td><td>2958</td></tr><tr><td>Reference</td><td>Book 56 Hadith 169</td></tr></tbody></table></div>
 

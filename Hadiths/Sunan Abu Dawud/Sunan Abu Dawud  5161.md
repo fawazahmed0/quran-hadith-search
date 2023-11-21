@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuDharr: The Prophet (ﷺ) said: Feed those of your slaves who please 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Amru Ar razi] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Mujahid] dari [Muwarriq] dari [Abu Dzar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa saja dari budak kalian yang berlaku baik, maka berilah makan sesuai dengan yang kalian makan, dan berilah pakaian sesuai dengan pakaian yang kalian pakai. Dan siapa saja dari budak kalian yang tidak berlaku baik kepada kalian, maka juallah ia dan jangan kalian menyiksa makhluk Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5161</td></tr><tr><td>Arabic No</td><td>5161</td></tr><tr><td>Reference</td><td>Book 43 Hadith 389</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5161</td></tr><tr><td>Arabic No</td><td>5161</td></tr><tr><td>Reference</td><td>Book 43 Hadith 389</td></tr></tbody></table></div>
 

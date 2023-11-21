@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A man called Labid bin al-A'sam from the tribe of Bani Zaraiq wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Isa bin Yunus] dari [Hisyam] dari [ayahnya] dari ['Aisyah] radliallahu 'anha dia berkata; "Seorang Yahudi dari Bani Zuraiq yang bernama Labid bin Al A'sham telah menyihir Rasulullah shallallahu 'alaihi wasallam, sehingga Rasulullah shallallahu 'alaihi wasallam pun dibuat seakan-akan telah melakukan sesuatu pekerjaan yang beliau tidak kerjakan. Sampai disuatu hari -atau suatu malam- beliau berada di sampingku namun beliau tetap berdo'a dan berdo'a, kemudian beliau bersabda: "Wahai Aisyah, apakah kamu telah merasakan bahwa Allah telah memberikan fatwa (menghukumi) dengan apa yang telah aku fatwakan (hukumi)? Dua orang laki-laki telah datang kepadaku, lalu salah seorang dari keduanya duduk di atas kepalaku dan satunya lagi di kakiku. Kemudian salah seorang berkata kepada yang satunya; "Menderita sakit apakah laki-laki ini?" temannya menjawab; "Terkena sihir.' salah satu mala'ikat tersebut bertanya; "Siapakah yang menyihirnya?" temannya menjawab; "Labid bin Al A'sham." Malaikat yang satu bertanya; "Dengan benda apakah dia menyihir?" temannya menjawab; "Dengan rambut yang terjatuh ketika disisir dan seludang mayang kurma." Salah satu malaikat bertanya; "Di manakah benda itu diletakkan?" temannya menjawab; "Di dalam sumur Dzarwan." Kemudian Rasulullah shallallahu 'alaihi wasallam mendatanginya bersama beberapa orang sahabatnya, lalu bersabda: "Wahai Aisyah! seakan-akan airnya berubah bagaikan rendaman pohon inai atau seakan-akan pohon kurmanya bagaikan kepala syetan." Aku bertanya; "Wahai Rasulullah, tidakkah anda mengeluarkannya?" beliau menjawab: "Tidak, sesungguhnya Allah telah menyembuhkanku dan aku hanya tidak suka memberikan kesan buruk kepada orang lain dari peristiwa itu." Kemudian beliau memerintahkan seseorang membawanya (barang yang dipakai untuk menyihir) lalu menguburnya." Hadits ini juga diperkuat oleh riwayat [Abu Usamah] dan [Abu Dlamrah] serta [Ibnu Abu Az Zinad] dari [Hisyam]. [Al Laits] dan [Ibnu 'Uyainah] mengatakan dari [Hisyam] mengenai lafazh "Musth (sisir) " dan "Musyaqah (helai rambut yang jatuh karena disisir) dikatakana pula "Al Musyathah yaitu helai rambut yang jatuh apabila disisir." Sedangkan Musyaqqah ialah rambut yang melekat pada sisir tatkala menyisir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5763</td></tr><tr><td>Arabic No</td><td>5763</td></tr><tr><td>Reference</td><td>Book 76 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) человек из (племени) бану зурайк по имени Лябид ибн аль-А‘сам околдовал Посланника Аллаха ﷺ до такой степени, что Посланнику Аллаха ﷺ стало казаться, будто он делал то, чего (на самом деле) не делал. (Это продолжалось), пока однажды днём (или: ночью), находясь у меня, он не обратился с мольбами к Аллаху, потом он (снова) обратился к Нему, а потом сказал: “О ‘Аиша, знаешь ли ты, что Аллах дал мне совет относительно того, о чём я просил у Него совета? (Во сне) ко мне явились два человека, один из которых сел у моего изголовья, а другой — у меня в ногах, после чего один из них сказал другому: “Чем болен этот человек?” Тот ответил: “Он околдован”. Он спросил: “Кто же околдовал его?” Тот ответил: “Лябид ибн аль-А’сам”. Он спросил: “Что (он для этого использовал)?” Тот ответил: “Гребень, очёски волос и сухую пыльцу пальмы мужского рода”. Он спросил: “И где же (всё это находится)?” Тот ответил: “В колодце Заруан””. После этого Посланник Аллаха ﷺ пришёл (к этому колодцу) вместе с людьми из числа его сподвижников, а потом (вернулся и) сказал (мне): “О ‘Аиша, (по цвету) его вода подобна настою хны, а пальмы, (растущие около) него, подобны головам шайтанов”. Я спросила: “О Посланник Аллаха, достал ли ты это оттуда?” — (и Пророк ﷺ) сказал: “Аллах уже исцелил меня, и я не хотел этим причинять людям зло?” После этого, по его велению колодец засыпали»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5763</td></tr><tr><td>Arabic No</td><td>5763</td></tr><tr><td>Reference</td><td>Book 76 Hadith 77</td></tr></tbody></table></div>
 

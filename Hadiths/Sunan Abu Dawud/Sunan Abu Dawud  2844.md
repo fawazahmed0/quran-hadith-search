@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:The Prophet (ﷺ) as saying: If anyone gets a dog, except 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ma'mar], dari [Az Zuhri], dari [Abu Salamah], dari [Abu Hurairah], dari Nabi shallallahu 'alaihi wasallam, beliau berkata: "Barangsiapa yang memelihara anjing kecuali anjing penjaga binatang ternak atau anjing pemburu, atau penjaga tanaman maka pahalanya berkurang satu Qirath setiap hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1575)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2844</td></tr><tr><td>Arabic No</td><td>2844</td></tr><tr><td>Reference</td><td>Book 17 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кто приобрёл собаку не пастушью, не охотничью и не для охраны пашни, награда того будет каждый день уменьшаться на один карат»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1575)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2844</td></tr><tr><td>Arabic No</td><td>2844</td></tr><tr><td>Reference</td><td>Book 17 Hadith 1</td></tr></tbody></table></div>
 

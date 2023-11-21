@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':That Ubaidullah bin 'Abdullah and Salim bin 'Abdullah informed hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad bin Asma'] telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] bahwa ['Ubaidullah bin 'Abdullah] dan [Salim bin 'Abdullah] keduanya mengabarkan kepadanya bahwa keduanya pernah berbicara dengan ['Abdullah bin 'Umar radliallahu 'anhu] pada suatu malam saat datangnya pasukan Ibnu Az Zubair. Keduanya berkata: "Tidak memberikan madharat kepadamu seandainya kamu tidak menunaikan haji pada tahun ini karena kami khawatir akan terjadi penghalangan buatmu menuju Baitullah". Maka 'Abdullah bin 'Umar radliallahu 'anhu berkata: "Kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam lalu Kafir Quraisy menghalangi kami dari Baitullah. Kemudian Nabi shallallahu 'alaihi wasallam menyembelih hewan qurban dan mencukur rambut Beliau. Dan aku bersaksi kepada kalian bahwa aku telah mewajibkan (berniat untuk) 'umrah ini, dan insya Allah aku akan berangkat. Jika aku diberi kebebasan, aku akan laksanakan thawaf di Baitullah, namun bila aku dihalangi, aku akan melaksanakan sebagaimana Nabi shallallahu 'alaihi wasallam pernah melaksanakannya yang saat itu aku bersama Beliau yang berihram untuk 'umrah dari Dzul Hulaifah kemudian berjalan sesaat lalu berkata: "Sesungguhnya pelaksanaan haji dan 'umrah satu. Dan aku bersaksi kepada kalian bahwa aku telah mewajibkan diriku untuk berihram haji bersama 'umrahku". Dan Beliau tidak bertahallul dari keduanya hingga Beliau bertahallul pada hari Nahar sesaat setelah menyembelih hewan qurban". Dan dia 'Abdullah bin 'Umar radliallahu 'anhu berkata: "Beliau tidak bertahallul ketika menyelesaikan thawaf yang satu pada hari memasuki Makkah". Telah menceritakan kepada saya [Musa bin Isma'il] telah menceritakan kepada kami [Juwairiyah] dari [Nafi']; Bahwa ada [sebagian dari anak-anak 'Abdullah] berkata, kepadanya: "Seandainya kamu menunaikan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>1807</td></tr><tr><td>Reference</td><td>Book 27 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что ‘Абдуллах ибн ‘Абдуллах и Салим ибн ‘Абдуллах рассказали ему о том, что они говорили с ‘Абдуллахом Ибн ‘Умаром, да будет доволен Аллах им и его отцом, когда Ибн аз-Зубайр был атакован армией, сказав ему: «Ничего страшного, если ты не совершишь хадж в этом году. Поистине, мы боимся, что они не дадут тебе подойти к Каабе». Ибн ‘Умар ответил: «Мы вышли в путь вместе с посланником Аллаха ﷺ, но неверующие курайшиты преградили нам дорогу к Каабе. Тогда Пророк ﷺ зарезал жертвенный скот и обрил голову. Я делаю вас свидетелями того, что я намерился совершить ‘умру, если на это будет воля Аллаха. Я отправлюсь (в Мекку), и если дорога к Каабе будет свободна, я совершу таваф, если же между мной и Каабой будет преграда, то я поступлю так же, как поступил Пророк ﷺ когда я был вместе с ним». Таким образом он произнес тальбию для ‘умры в Зуль-Хулейфе, шёл некоторое время, а затем сказал: «Положения хаджа и ‘умры одинаковы. Я делаю вас свидетелями того, что я намерился совершить хадж вместе с ‘умрой». И он не выходил из ихрама, пока не настал День жертвоприношения. Когда же он настал, он зарезал жертвенное животное. И он говорил, что не выйдет из ихрама до тех пор, пока не выполнит один таваф, в день вхождения в Мекку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>1807</td></tr><tr><td>Reference</td><td>Book 27 Hadith 2</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:When we wrote the Holy Qur'an, I missed one of the Vers
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Ibrahim bin Sa'd] telah menceritakan kepada kami [Ibnu Syihab] telah mengabarkan kepadaku [Kharijah bin Zaid bin Tsabit] bahwa dia mendengar [Zaid bin Tsabit] radliallahu 'anhu berkata, "Satu ayat hilang dari surat Al Ahzab saat kami menyalinnya ke dalam Mushhaf, padahal aku telah mendengarnya langsung dari Rasulullah shallallahu 'alaihi wasallam saat beliau membacanya. Lalu kami pun mencarinya, ternyata kami menemukannya pada Khuzaimah bin Tsabit Al Anshari. Yakni ayat: '(Di antara orang-orang Mukmin itu ada orang-orang yang menepati apa yang Telah mereka janjikan kepada Allah; Maka di antara mereka ada yang gugur. dan di antara mereka ada (pula) yang menunggu- nunggu) ' (Qs. Al Ahzab: 23), maka kami pun menggabungkannya di dalam Mushhaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4049</td></tr><tr><td>Arabic No</td><td>4049</td></tr><tr><td>Reference</td><td>Book 64 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Сабит, да будет доволен им Аллах, сказал: «Переписывая листы из (различных копий) Корана, я потерял один аят из суры “аль-Ахзаб”, который часто слышал от Посланника Аллаха ﷺ, и смог найти его только у Хузаймы ибн Сабита аль-Ансари. (В этом аяте говорилось следующее): “Среди верующих есть люди, которые верны тому, что они обещали Аллаху, и есть среди них такие, которые выполнили свой обет, и такие, которые ждут, не изменив (своего решения) ни в чём” (сура “аль-Ахзаб”, аят 23). И мы добавили это аят к суре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4049</td></tr><tr><td>Arabic No</td><td>4049</td></tr><tr><td>Reference</td><td>Book 64 Hadith 95</td></tr></tbody></table></div>
 

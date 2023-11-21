@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:My Ansari neighbor from Bani Umaiya bin Zaid who used to live at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]. Menurut jalur yang lainnya; Abu Abdullah berkata; dan berkata [Ibnu Wahb]; telah mengabarkan kepada kami [Yunus] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah bin Abu Tsaur] dari [Abdullah bin 'Abbas] dari [Umar] berkata: Aku dan tetanggaku dari Anshar berada di desa Banu Umayyah bin Zaid dia termasuk orang kepercayaan di Madinah, kami saling bergantian menimba ilmu dari Rasul shallallahu 'alaihi wasallam, sehari aku yang menemui Beliau shallallahu 'alaihi wasallam dan hari lain dia yang menemui Beliau shallallahu 'alaihi wasallam, Jika giliranku tiba, aku menanyakan seputar wahyu yang turun hari itu dan perkara lainnya. Dan jika giliran tetanggaku tiba, ia pun melakukan hal yang sama. Ketika hari giliran tetanggaku tiba, dia datang kepadaku dengan mengetuk pintuku dengan sangat keras, seraya berkata: "Apakah dia ada disana?" Maka aku kaget dan keluar menemuinya. Dia berkata: "Telah terjadi persoalan yang gawat!". Umar berkata: "Aku pergi menemui Hafshah, dan ternyata dia sedang menangis, aku bertanya kepadanya: "Apakah Rasul shallallahu 'alaihi wasallam menceraikanmu?" Hafshah menjawab: "Aku tidak tahu". Maka aku menemui Nabi shallallahu 'alaihi wasallam, sambil berdiri aku tanyakan: "Apakah engkau menceraikan istri-istri engkau?" Nabi shallallahu 'alaihi wasallam menjawab: "Tidak". Maka aku ucapkan: "Allah Maha Besar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Arabic No</td><td>89</td></tr><tr><td>Reference</td><td>Book 3 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдулы ибн ‘Аббаса о том, что ‘Умар, да будет доволен им Аллах, сказал: «(Одно время) мы с моим соседом из числа ансаров, который принадлежал к (роду) бану умайа ибн зайд, жившему в ‘Авали, по очереди приходили к Посланнику Аллаха ﷺ. Он приходил (к нему) в один день, а я − на следующий, и (в свой день) я сообщал (своему соседу) о том, какие откровения были ниспосланы в этот день, а также и другие новости, и он делал то же самое. Однажды, когда настала очередь этого моего друга из числа ансаров, он (вернулся,) громко постучал в мою дверь и спросил: “Он там?” Я испугался и вышел к нему, а он воскликнул: “Случилось нечто важное!”»\n(‘Умар, да будет доволен им Аллах,) сказал: «Войдя к Хафсе, я увидел, что она плачет, и спросил её: “Разве Посланник Аллаха ﷺ дал развод вам (всем)?” Она ответила: “Я не знаю”. А после этого я зашёл к Пророку ﷺ и спросил его, не присев: “Разве ты дал развод своим жёнам?” Он ответил: “Нет!” — и тогда я воскликнул: “Аллах велик! /Аллаху акбар!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Arabic No</td><td>89</td></tr><tr><td>Reference</td><td>Book 3 Hadith 31</td></tr></tbody></table></div>
 

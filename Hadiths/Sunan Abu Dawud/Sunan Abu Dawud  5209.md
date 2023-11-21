@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuJurayy al-Hujaymi: I came to the Prophet (ﷺ) and said: Upon you be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Abu Ghifar] dari [Abu Tamimah Al Hujaimi] dari [Abu Jurai Al Hujaimi] berkata, "Aku mendatangi Nabi shallallahu 'alaihi wasallam, lalu aku mengucapkan, "Alaikassalam (keselamatan atas kamu) ya Rasulullah." Beliau bersabda: "Jangan kamu ucapkan Alaikassalam, sebab itu salam untuk orang yang telah mati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5209</td></tr><tr><td>Arabic No</td><td>5209</td></tr><tr><td>Reference</td><td>Book 43 Hadith 437</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джурайй аль-Худжайми, да будет доволен Аллах ими обоими, сказал: Я пришёл к Посланнику Аллаха ﷺ и сказал (ему): «Тебе мир /‘Аляй-кя-с-саляму/, о Посланник Аллаха!» (На это) он сказал (мне): «Не говори “Тебе мир”, ибо (словами) “Тебе мир” приветствуют покойных»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5209</td></tr><tr><td>Arabic No</td><td>5209</td></tr><tr><td>Reference</td><td>Book 43 Hadith 437</td></tr></tbody></table></div>
 

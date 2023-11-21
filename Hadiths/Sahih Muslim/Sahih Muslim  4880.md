@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Qatada that the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Sa'id bin Abu Sa'id] dari [Abdullah bin Abu Qatadah] dari [Abu Qatadah] bahwa dia mendengarnya menceritakan dari Rasulullah shallallahu 'alaihi wasallam, bahwa suatu ketika beliau berdiri di tengah-tengah para sahabat, lalu beliau bersabda: "Sesungguhnya jihad fi sabilillah serta iman kepada Allah, adalah amalan yang paling utama." Maka seorang laki-laki berdiri seraya bertanya, "Wahai Rasulullah, bagaimana jika saya terbunuh dalam jihad fi sabilillah, apakah dosa-dosaku akan terampuni?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Ya, jika kamu terbunuh di jalan Allah, sabar dan mengharap pahala, maju ke depan dan tidak lari ke belakang." Kemudian beliau bertanya: "Apa yang kamu tanyakan tadi?" dia mengulangi pertanyaannya, "Bagaimana jika saya terbunuh dalam jihad fi sabilillah, apakah dosa-dosaku akan terampuni?" beliau menjawab: "Ya, jika kamu sabar dan mengharap pahala, maju ke depan dan tidak lari ke belakang. Begitulah Jibril mengatakannya kepadaku." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Al Mutsanna] keduanya berkata; telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Yahya] -yaitu Ibnu Sa'id- dari [Sa'id bin Abu Sa'id Al Muqbiri] dari [Abdullah bin Abu Qatadah] dari [ayahnya] dia berkata, "Seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Bagaimana pendapatmu jika saya terbunuh di jalan Allah…semakna dengan hadits Laits." Dan telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Sufyan] dari ['Amru bin Dinar] dari [Muhammad bin Qais]. (dalam jalur lain disebutkan) Perawi berkata; telah menceritakan kepada kami [Muhammad bin 'Ajlan] dari [Muhammad bin Qais] dari [Abdullah bin Abu Qatadah] dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam… lalu salah seorang dari keduanya menambahkan riwayat temannya, bahwa seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam ketika beliau berada di atas mimbar, dia bertanya, "Bagaimana pendapat anda jika saya menghunus pedangku (berperang) …semakna dengan hadits Al Maqburi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4880</td></tr><tr><td>Arabic No</td><td>1885.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4880</td></tr><tr><td>Arabic No</td><td>1885.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 176</td></tr></tbody></table></div>
 

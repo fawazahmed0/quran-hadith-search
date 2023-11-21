@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbulAzhar al-Anmari: When the Messenger of Allah (ﷺ) went to his bed 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ja'far bin Musafir At Tinnisi] berkata, telah menceritakan kepada kami [Yahya bin Hassan] berkata, telah menceritakan kepada kami [Yahya bin Hamzah] dari [Tsaur] dari [Khalid bin ma'dan] dari [Abul Azhar Al Anmari] berkata, "Jika Rasulullah shallallahu 'alaihi wasallam ingin tidur di waktu malam beliau membaca: "BISMILLAHI WADLA'TU JANBII ALLAHUMMAGHFIRLI DZANBII WA AKHSI' SYAITHAANII WA FUKKA RIHAANII WAJ'ALNII FINNADIYIL A'LA (dengan nama Allah aku meletakkan ragaku. Ya Allah ya Tuhanku, ampunilah dosaku, usirlah setanku, lepaskan belengguku dan kumpukanlah aku bersama para malaikat yang mulia." Abu Dawud berkata, "Hadits ini diriwayatkan oleh [Abu Hammam Al Ahwazi] dari [Tsaur], demikian menurut [Abu Zuhair Al Anmari]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5054</td></tr><tr><td>Arabic No</td><td>5054</td></tr><tr><td>Reference</td><td>Book 43 Hadith 282</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5054</td></tr><tr><td>Arabic No</td><td>5054</td></tr><tr><td>Reference</td><td>Book 43 Hadith 282</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Qays bint Mihsan: Hilal ibn Yasaf said: I came to ar-Raqqah (a plac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdussalam bin Abdurrahman al wabishi] telah menceritakan kepada kami [ayahku] dari [Syaiban] dari [Hushain bin Abdurrahman] dari [Hilal bin Yasaf] dia berkata; "Aku pergi ke negeri Raqqah, lalu sebagian sahabatku berkata kepadaku; "Apakah kamu mempunyai keinginan untuk bertemu salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam?" Hilal berkata; jawabku: "ya! ini suatu keberuntungan, " lalu kami menuju [Wabishah] (seorang sahabat Rasulullah), aku berkata kepada sahabatku; "Kita mulai pandangi dulu karakternya, ternyata dia mengenakan peci bertelinga dua yang selalu melekat dan mengenakan jubah yang bertopi yang terbuat dari bahan sutera berwarna abu-abu, dan dia tengah mengerjakan shalat sambil bersandar kepada tongkatnya. Kami tanyakan hal itu kepadanya setelah kami memberi salam, dia menjawab: " [Ummu Qais binti Mihshan] pernah menyampaikan kepadaku, bahwa setelah berusia lanjut dan lemah Rasulullah shallallahu 'alaihi wasallam membuat tiang di tempat shalatnya untuk bersandar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>948</td></tr><tr><td>Arabic No</td><td>948</td></tr><tr><td>Reference</td><td>Book 2 Hadith 559</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хиляля ибн Ясафа: «Я прибыл в Ракку и один из моих товарищей сказал мне: “Не желаешь ли пойти к человеку из числа сподвижников Пророка ﷺ?” Я ответил: “Это было бы ценнейшим приобретением!” И мы пошли к Вабисе, и я сказал товарищу: “Сначала посмотрим на его внешний вид”. И мы увидели, что на нём плотно прилегающая к голове шапочка с двумя свисающими концами и серый плащ с капюшоном. Он совершал молитву, опираясь на палку. И мы спросили его об этом после завершения молитвы, и он сказал: “Умм Кайс бинт Михсан рассказала мне, что когда Посланник Аллаха ﷺ вступил в преклонный возраст и отяжелел, он стал опираться на шест во время молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>948</td></tr><tr><td>Arabic No</td><td>948</td></tr><tr><td>Reference</td><td>Book 2 Hadith 559</td></tr></tbody></table></div>
 

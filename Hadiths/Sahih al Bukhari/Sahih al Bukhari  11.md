@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa: Some people asked Allah's Messenger (ﷺ), "Whose Islam is th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Yahya bin Sa'id Al Qurasyi] dia berkata, Telah menceritakan kepada kami [bapakku] berkata, bahwa Telah menceritakan kepada kami [Abu Burdah bin Abdullah bin Abu Burdah] dari [Abu Burdah] dari [Abu Musa] berkata: 'Wahai Rasulullah, Islam manakah yang paling utama?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Siapa yang Kaum Muslimin selamat dari lisan dan tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Arabic No</td><td>11</td></tr><tr><td>Reference</td><td>Book 2 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал Са‘ид ибн Яхья ибн Са‘ид аль-Кураший, сказавший: Нам рассказал мой отец, сказавший: Нам рассказал Абу Бурда ибн ‘Абдулла ибн Абу Бурда от Абу Бурды, от Абу Мусы, да будет доволен им Аллах, что он сказал: «(Однажды люди) спросили: “О Посланник Аллаха, чей Ислам является наилучшим?” Он ответил: “(Ислам) того, кто не причиняет (другим) мусульманам вреда своим языком и своими руками”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Arabic No</td><td>11</td></tr><tr><td>Reference</td><td>Book 2 Hadith 4</td></tr></tbody></table></div>
 

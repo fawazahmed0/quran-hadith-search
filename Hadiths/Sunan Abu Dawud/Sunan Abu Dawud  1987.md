@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: By Allah, the Messenger of Allah (ﷺ) did not make
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hannad bin As Sarri] dari [Ibnu Abu Zaidah] telah menceritakan kepada kami [Ibnu Juraij] dan [Muhammad bin Ishaq] dari [Abdullah bin Thawus] dari [ayahnya] dari [Ibnu Abbas], ia berkata; demi Allah, tidaklah Rasulullah shallAllahu wa'alaihi wa sallam mengumrahkan Aisyah pada Bulan Dzul Hijjah melainkan agar dengan hal tersebut beliau membantah perkara ahli syirik. Sesungguhnya sebuah kampung Quraisy dan orang-orang yang berkeyakinan seperti keyakinan mereka dahulu mengatakan; apabila rambut unta telah tumbuh, dan luka telah sembuh serta telah masuk Bulan Shafar maka telah halal umrah bagi orang yang berumrah. Dan mereka mengharamkan umrah hingga berlalu Bulan Dzul Hijjah dan Muharram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1987</td></tr><tr><td>Arabic No</td><td>1987</td></tr><tr><td>Reference</td><td>Book 11 Hadith 267</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Клянусь Аллахом, Посланник Аллаха ﷺ отправил ‘Аишу совершать ‘умру в месяц зуль-хиджжа лишь для того, чтобы поступить вопреки обычаям язычников. Курайшиты и те, чьи убеждения совпадали с их убеждениями, говорили: “Когда нарастёт мех и заживут раны на спинах верблюдов и наступит сафар, тогда ‘умра становится дозволенной для того, кто решил её совершить”. Они считали запретным совершение ‘умры, пока не закончатся зуль-хиджжа и мухаррам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1987</td></tr><tr><td>Arabic No</td><td>1987</td></tr><tr><td>Reference</td><td>Book 11 Hadith 267</td></tr></tbody></table></div>
 

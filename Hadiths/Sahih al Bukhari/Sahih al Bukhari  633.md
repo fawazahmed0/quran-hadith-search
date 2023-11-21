@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aun bin Abi Juhaifa:My father said, "I saw Allah's Messenger (ﷺ) at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] berkata, telah mengabarkan kepada kami [Ja'far bin 'Aun] berkata, telah menceritakan kepada kami [Abu Al 'Umais] dari ['Aun bin Abu Juhaifah] dari [Bapaknya] berkata, "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam di Abthah, lalu Bilal datang dan memberitahukan kepada beliau bahwa waktu shalat telah tiba. Kemudian Bilal keluar dengan membawa sebatang kayu (tongkat) dan menancapkannya di depan Rasulullah shallallahu 'alaihi wasallam, Beliau kemudian melaksanakan shalat di tempat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>633</td></tr><tr><td>Arabic No</td><td>633</td></tr><tr><td>Reference</td><td>Book 10 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аун ибн Абу Джухайфа передал о том, что его отец (Вахб ибн ‘Абдуллах), да будет доволен им Аллах, сказал: «(Однажды) я видел, как к Посланнику Аллаха ﷺ, находившемуся в аль-Абтахе, пришёл Биляль и сообщил ему (о том, что настало время) молитвы. Потом Биляль вышел с палкой с заострённым концом и воткнул её (в землю) перед посланником Аллаха ﷺ, после чего объявил о начале молитвы (возвестив икаму)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>633</td></tr><tr><td>Arabic No</td><td>633</td></tr><tr><td>Reference</td><td>Book 10 Hadith 30</td></tr></tbody></table></div>
 

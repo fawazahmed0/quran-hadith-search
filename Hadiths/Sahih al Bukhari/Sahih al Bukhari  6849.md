@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Jabir:On the authority of others, that the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [Fudhail bin Sulaiman] telah menceritakan kepada kami [Muslim bin Abu Maryam] telah mengabarkan kepadaku [Abdurrahman bin Jabir], dari [seseorang] yang mendengar Nabi shallallahu 'alaihi wasallam bersabda: "tidak boleh ada hukuman melebihi sepuluh kali pukulan selain dalam salah satu hukuman had Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6849</td></tr><tr><td>Arabic No</td><td>6849</td></tr><tr><td>Reference</td><td>Book 86 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Джабир передал от того, кто слышал, как Пророк ﷺ сказал: «Не следует давать человеку свыше десяти ударов, если только (он не заслуживает) одного из установленных Аллахом наказаний /худуд/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6849</td></tr><tr><td>Arabic No</td><td>6849</td></tr><tr><td>Reference</td><td>Book 86 Hadith 71</td></tr></tbody></table></div>
 

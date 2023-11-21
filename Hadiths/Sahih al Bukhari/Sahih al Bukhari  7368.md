@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah Al Muzam:The Prophet (ﷺ) said, "Perform (an optional) praye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] dari [Al Husain] dari [Ibn Buraidah] telah menceritakan kepadaku [Abdullah Al Muzanni] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Shalatlah kalian sebelum maghrib, shalatlah kalian sebelum maghrib, " pada kali ketiga beliau katakan: "Bagi siapa yang ingin, " yang demikian karena beliau khawatir jangan-jangan manusia menjadikannya sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7368</td></tr><tr><td>Arabic No</td><td>7368</td></tr><tr><td>Reference</td><td>Book 96 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах аль-Музани, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Совершайте молитву перед закатной молитвой», а на третий раз он добавил: «Это для тех, кто желает», не желая, чтобы люди считали это (обязательной) сунной
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7368</td></tr><tr><td>Arabic No</td><td>7368</td></tr><tr><td>Reference</td><td>Book 96 Hadith 95</td></tr></tbody></table></div>
 

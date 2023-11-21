@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':'Abdullah bin 'Abdullah bin 'Umar and his riding animal entered t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ibnu 'Ulayyah] dari [Ayyub] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma]: Anaknya 'Abdullah bin 'Abdullah bin 'Umar masuk menemuinya sedang dia ketika itu sedang berada didalam rumah, berkata: "Aku tidak menjamin keamanan seandainya kamu berangkat pada tahun yang sedang terjadi peperangan diantara manusia ini". Maka 'Abdullah bin 'Umar radliallahu 'anhua berkata: "Rasulullah shallallahu 'alaihi wasallam pernah keluar untuk menunaikan 'ibadah ke Baitullah padahal saat itu tengah terjadi permusuhan antara Beliau dan Kaum Kafir Quraisy. Seandainya terjadi hari ini antara aku dengannya tentu aku akan tetap melakukannya seperti pernah dilakukan oleh Rasulullah Shallallahu'alaihiwasallam. (Selanjutnya dia membaca ayat); ("Sungguh bagi kalian ada suri tauladan yang baik pada diri Rasulullah"). Lalu dia berkata: "Aku bersaksi kepada kalian bahwa aku telah mewajibkan hajji atas diriku bersama dengan 'umrahku ini". Dia (Nafi') berkata: "Kemdian dia mengunjungi Makkah lalu thawaf untuk keduanya (hajji dan 'umrah) dengan satu kali thawaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 25 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что ‘Абдуллах ибн ‘Абдуллах ибн ‘Умар пришел к Ибн ‘Умару, да будет доволен Аллах им и его отцом, в то время как его (Ибн ‘Умара) верховое животное находилось дома (готовясь к поездке). Он (сын Ибн ‘Умара) сказал: «Я боюсь, что в этом году может произойти битва между людьми, и тебе воспрепятствуют (совершение тавафа вокруг) Каабы, было бы лучше если бы ты остался». Ибн ‘Умар сказал: «Однажды Посланник Аллаха ﷺ отправился в паломничество, и неверные курайшиты встали между ним и Каабой. Поэтому, если встанут между мной и Каабой я поступлю так же, как поступил Посланник Аллаха ﷺ «В Посланнике Аллаха был прекрасный пример для вас». Затем он добавил: «Я делаю вас свидетелями того, что я намерился совершить хадж вместе с ‘умрой». Нафи‘ сказал: «После прибытия в Мекку Ибн ‘Умар совершил один таваф для ‘умры и хаджа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 25 Hadith 122</td></tr></tbody></table></div>
 

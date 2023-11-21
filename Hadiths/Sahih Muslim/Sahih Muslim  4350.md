@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sulaiman b. Yasar, the freed slave of Maimuna, the wife of Allah's Apostle (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah bin Yahya] dia berkata; Abu Thahir mengatakan; telah menceritakan kepada kami, sedangkan [Harmalah] berkata; telah mengabarkan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] dan [Sulaiman bin Yasar] bekas budak Maimunah isteri Nabi shallallahu 'alaihi wasallam, dari [salah seorang] sahabat Rasulullah shallallahu 'alaihi wasallam dari golongan Anshar, bahwa Rasulullah shallallahu 'alaihi wasallam pernah memberlakukan qasamah (sumpah atas tuduhan pembunuhan) seperti yang pernah terjadi pada masa jahiliyah." Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] dia berkata; telah mengabarkan kepada kami [Ibnu Juraij] telah menceritakan kepada kami [Ibnu Syihab] dengan sanad seperti ini, dengan tambahan, "Lalu Rasulullah shallallahu 'alaihi wasallam memutuskan perkara orang-orang Anshar mengenai kasus pembunuhan yang mereka tuduhkan kepada orang Yahudi sebagai pelakunya." Dan telah menceritakan kepada kami [Hasan bin Ali Al Hulwani] telah menceritakan kepada kami [Ya'qub] -yaitu Ibnu Ibrahim bin Sa'd- telah menceritakan kepada kami [Ayahku] dari [Shalih] dari [Ibnu Syihab] bahwa [Abu Salamah bin Abdurrahman] dan [Sulaiman bin Yasar] telah mengabarkan kepadanya dari [Sahabat Anshar] dari Nabi shallallahu 'alaihi wasallam seperti haditsnya Juraij
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4350</td></tr><tr><td>Arabic No</td><td>1670.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4350</td></tr><tr><td>Arabic No</td><td>1670.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 9</td></tr></tbody></table></div>
 

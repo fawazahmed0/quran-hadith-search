@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle) : L'Envoyé de Dieu (paix et b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dia berkata; Aku mendapatkan Hadits di dalam bukuku dari [Abu Usamah]; Telah menceritakan kepada kami [Hisyam]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al A'laa]; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah berkata: "Sesungguhnya aku tahu kapan kamu suka kepadaku dan kapan kamu marah kepadaku.' Aisyah bertanya; 'Dari mana engkau mengetahui itu, ya Rasulullah? ' Rasulullah menjawab: "Ketika kamu sedang suka kepadaku, maka kamu akan mengatakan; Demi Tuhan Muhammad'. Dan ketika kamu sedang marah kepadaku, maka kamu akan mengatakan; 'Demi Tuhan Ibrahim.' Aisyah berkata, "Demi Allah ya Rasulullah, memang yang tidak saya sebut ketika saya sedang marah hanyalah nama engkau."Dan telah menceritakannya kepada kami [Ibnu Numair]; Telah menceritakan kepada kami ['Abdah] dari [Hisyam bin 'Urwah] melalui jalur ini, sampai perkataannya; 'Demi Tuhan Ibrahim.' (tidak ada tambahan setelah itu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6285</td></tr><tr><td>Arabic No</td><td>2439.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ сказал мне: “Поистине, я знаю, когда ты бываешь довольна мной, а когда гневаешься на меня”. Я спросила: “А как ты узнаёшь об этом?” Он сказал: “Когда ты довольна, ты говоришь “Нет, клянусь Господом Мухаммада!”, а когда гневаешься на меня, говоришь “Нет, клянусь Господом Ибрахима!”, и я сказала: “Да, клянусь Аллахом, о Посланник Аллаха, но (в таких случаях) я покидаю только твоё имя!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6285</td></tr><tr><td>Arabic No</td><td>2439.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 115</td></tr></tbody></table></div>
 

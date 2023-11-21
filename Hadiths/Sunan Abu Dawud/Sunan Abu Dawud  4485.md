@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qabisah ibn Dhuwayb: The Prophet (ﷺ) said: If anyone drinks wine, flo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdah Adh Dhabbi] berkata, telah menceritakan kepada kami [Sufyan], [Az Zuhri] berkata; telah mengabarkan kepada kami dari [Qabishah bin Dzuaib] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa minum khamer maka cambuklah, jika ia mengulanginya lagi maka cambuklah, jika ia mengulanginya lagi pada kali ketiga atau keempat maka bunuhlah ia." Kemudian dihadapkan kepada beliau seorang laki-laki yang telah minum khamer, beliau lalu menderanya, kemudian orang itu dihadapkan lagi lalu beliau menderanya, kemudian orang itu dihadapkan lagi lalu beliau menderanya, kemudian orang itu dihadapkan lagi lalu beliau menderanya dan tidak dibunuh, namun itu adalah keringanan." [Sufyan] berkata, "Az Zuhri menceritakan hadits ini, sementara di sisinya ada Manshur Ibnul Mu'tamir dan Mikhwal bin Rasyid. Maka ia berkata kepada keduanya, "Kalian berdua jadilah kurir bagi penduduk Irak dengan hadits ini." Abu Dawud berkata, "Hadits ini diriwayatkan oleh Asy Syarid bin Suwaid, Syurahbil bin Aus, Abdullah bin Amru, Abdullah bin Umar, Abu Ghuthaif Al Kindi, dan [Abu Salamah bin 'Abdurrahman] dari [Abu Hurairah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4485</td></tr><tr><td>Arabic No</td><td>4485</td></tr><tr><td>Reference</td><td>Book 40 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Кабисы ибн Зуайба, что Пророк ﷺ сказал: «Кто пил вино, того подвергните бичеванию, если он сделал это снова, то подвергните его бичеванию, если он сделал это снова, то подвергните его бичеванию, а кто сделает это в третий или в четвёртый раз, того убейте». А потом к Пророку ﷺ привели человека, пившего вино, и он велел бичевать его, потом его привели снова, и он велел бичевать его, потом его привели снова, и он велел бичевать его, потом его привели снова, и он велел бичевать его, то есть убийство было отменено и для людей было сделано послабление
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4485</td></tr><tr><td>Arabic No</td><td>4485</td></tr><tr><td>Reference</td><td>Book 40 Hadith 135</td></tr></tbody></table></div>
 

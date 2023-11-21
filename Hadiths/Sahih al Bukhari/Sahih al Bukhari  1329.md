@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Jew brought to the Prophet (ﷺ) a man and a wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin AL Mundzir] telah menceritakan kepada kami [Abu Dhamrah] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma]; Orang-orang Yahudi datang kepada Nabi Shallallahu'alaihiwasallam dengan membawa seorang laki-laki dan seorang perempuan yang keduanya berzina. Maka Beliau memerintahkan untuk merajam keduanya di tempat biasa untuk menyolatkan jenazah, disamping Masjid Nabawi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1329</td></tr><tr><td>Arabic No</td><td>1329</td></tr><tr><td>Reference</td><td>Book 23 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что однажды к Пророку ﷺ пришли иудеи c мужчиной и женщиной из их числа, которые совершили прелюбодеяние. И он повелел закидать их камнями возле места совершения молитвы джаназа, неподалеку от мечети
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1329</td></tr><tr><td>Arabic No</td><td>1329</td></tr><tr><td>Reference</td><td>Book 23 Hadith 84</td></tr></tbody></table></div>
 

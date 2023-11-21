@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hakam ibn Sufyan ath-Thaqafi: When the Messenger of Allah (ﷺ) urinate
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah menceritakan kepada kami [Sufyan Ats-Tsauri] dari [Manshur] dari [Mujahid] dari [Sufyan bin Al Hakam Ats-Tsaqafi] atau Al Hakam bin Sufyan Ats-Tsaqafi dia berkata; Rasulullah shallallahu 'alaihi wasallam apabila buang air kecil, beliau kemudian berwudhu dan juga membasuh kemaluannya dengan air. Abu Dawud berkata; Jama'ah sepakat dengan lafazh Sufyan dalam sanad ini, dan sebagian mereka menyebutkan; Al Hakam atau Ibnu Al Hakam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>166</td></tr><tr><td>Arabic No</td><td>166</td></tr><tr><td>Reference</td><td>Book 1 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Суфьян ибн аль-Хакам ас-Сакафи или (его звали) аль-Хакам ибн Суфьян сказал: «Когда Посланник Аллаха ﷺ справлял малую нужду, он совершал омовение и обрызгивал водой (свой половой орган)».Абу Дауд сказал: «Относительно иснада этого хадиса община согласна с Суфйяном. Некоторые из них сказали, (что его зовут) аль-Хакам или Ибн аль-Хакам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>166</td></tr><tr><td>Arabic No</td><td>166</td></tr><tr><td>Reference</td><td>Book 1 Hadith 166</td></tr></tbody></table></div>
 

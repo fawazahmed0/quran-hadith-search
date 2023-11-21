@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:When Allah took away the soul of His Prophet at his death, the An
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan kepadaku [Ibnu Wahb] berkata, telah menceritakan kepadaku [Malik] telah menceritakan kapadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kapadaku ['Ubaidullah bin 'Abdullah bin 'Utbah] bahwa [Ibnu 'Abbas] mengabarkan kepadanya dari ['Umar] radliallahu 'anhum berkata: "Ketika Allah subhanahu wata'ala mewafatkan nabiNya shallallahu 'alaihi wasallam, orang-orang Anshar berkumpul di aula pertemuan Bani Sa'idah. Maka aku katakan kepada Abu Bakar; "Mari kita kesana". Maka kami pun mendatangi mereka di aula pertemuan Bani Sa'idah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2462</td></tr><tr><td>Arabic No</td><td>2462</td></tr><tr><td>Reference</td><td>Book 46 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар, да будет доволен им Аллах, сказал: «Когда Аллах умертвил Своего Пророка ﷺ, ансары собрались под навесом племени бану са‘ида. Я сказал Абу Бакру: “Пойдём с нами”. И мы пришли к ним (то есть к ансарам) под навес племени бану са‘ида»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2462</td></tr><tr><td>Arabic No</td><td>2462</td></tr><tr><td>Reference</td><td>Book 46 Hadith 23</td></tr></tbody></table></div>
 

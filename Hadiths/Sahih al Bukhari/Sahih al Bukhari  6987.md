@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:The Prophet (ﷺ) said, "The (good) dreams of a fai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas bin Malik] dari [Ubadah bin Ash Shamit] dari Nabi shallallahu 'alaihi wasallam bersabda; "mimpi seorang mukmin adalah satu bagian dari empat puluh enam bagian kenabian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6987</td></tr><tr><td>Arabic No</td><td>6987</td></tr><tr><td>Reference</td><td>Book 91 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Убада ибн ас-Самит ﷺ передаёт, что Пророк ﷺ сказал: «Сновидение верующего является одной из сорока шести частей пророчества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6987</td></tr><tr><td>Arabic No</td><td>6987</td></tr><tr><td>Reference</td><td>Book 91 Hadith 6</td></tr></tbody></table></div>
 

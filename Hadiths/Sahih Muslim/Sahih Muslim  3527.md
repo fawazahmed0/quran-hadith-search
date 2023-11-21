@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her), the wife of Allah's Apostle (ﷺ), reported 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah bin Yahya] sedangkan lafazhnya dari Harmalah, [Abu At Thahir] mengatakan; Telah menceritakan kepada kami, sedangkan [Harmalah] mengatakan; Telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Urwah bin Az Zubair] bahwa ['Aisyah] istri Nabi shallallahu 'alaihi wasallam telah mengabarkan kepadanya bahwa Rifa'ah Al Qurazhi telah menceraikan istrinya dengan tala tiga, setelah itu dia (istrinya) menikah dengan Abdurrahman bin Az Zabir, kemudian 'Aisyah datang kepada Nabi shallallahu 'alaihi wasallam seraya berkata; "Wahai Rasulullah, sesunguhnya ia pernah menjadi istri Rifa'ah, kemudian ia menceraikannya dengan talak tiga." Setelah itu, saya (istrinya Rifa'ah) menikah dengan Abdurrahman bin Az Zabir, demi Allah, sesungguhnya anunya seperti ujung kain (maksudnya impotent), -dia memperagakan dengan memegang ujung jilbabnya- mendengar hal itu, Rasulullah shallallahu 'alaihi wasallam tersenyum sambil bersabda: "Sepertinya kamu ingin kembali kepada Rifa'ah, itu tidak mungkin, sampai Abdurrahman merasakan madumu dan kamu merasakan madunya (bersenggama)." Waktu itu, Abu Bakar sedang duduk di samping Rasulullah shallallahu 'alaihi wasallam, dan Khalid bin Sa'id bin Al 'Ash duduk di samping pintu, dia tidak di izinkan masuk. Perawi berkata; Maka Khalid menyeru Abu Bakar, kenapa kamu melarangku, padahal wanita itu berkata dengan keras di samping Rasulullah shallallahu 'alaihi wasallam? Telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] bahwasannya Rifa'ah Al Qurazhi telah menceraikan istrinya, lantas ia dinikahi oleh Abdurrahman bin Az Zabir, lalu dia datang kepada Nabi shallallahu 'alaihi wasallam, dan berkata; Wahai Rasulullah, sesungguhnya Rifa'ah telah menceraikannya dengan talak tiga, seperti hadits Yunus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3527</td></tr><tr><td>Arabic No</td><td>1433.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3527</td></tr><tr><td>Arabic No</td><td>1433.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 129</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Marwan bin Al-Hakam:Zaid bin Thabit said to me, "Why do you recite very
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Ibnu Abu Mulaikah] dari ['Urwah bin Az Zubair] dari [Marwan bin Al Hakam] berkata, " [Zaid bin Tsabit] berkata kepdaku, "Kenapa kamu dalam shalat Maghrib membaca surah-surah yang pendek? Sungguh aku pernah mendengar Nabi shallallahu 'alaihi wasallam membaca dengan surah-surah yang panjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 10 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Марван ибн аль-Хакам сказал: «(Однажды) Зейд ибн Сабит, да будет доволен им Аллах, сказал мне: “Что с тобой? Почему ты во время закатной молитвы читаешь короткие (суры)? Я слышал, как во время закатной молитвы Пророк ﷺ читал более длинную из двух длинных сур»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 10 Hadith 158</td></tr></tbody></table></div>
 

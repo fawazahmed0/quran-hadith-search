@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "When anyone of you stands fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Abu Salamah bin 'Abdurrahman] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya bila seseorang dari kalian berdiri mengerjakan shalat, setan akan datang menghampirinya (untuk menggodanya) sehingga tidak menyadari berapa raka'at shalat yang sudah dia laksanakan. Oleh karena itu bila seorang dari kalian mengalami peristiwa itu hendaklah dia melakukan sujud dua kali dalam posisi duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>1232</td></tr><tr><td>Reference</td><td>Book 22 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда кто-то из вас встает на молитву, к нему приходит шайтан и начинает его путать, чтобы он не знал, сколько рак‘атов совершил. Поэтому если кто-то из вас обнаружит подобное, то пусть совершит два земных поклона во время сидения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>1232</td></tr><tr><td>Reference</td><td>Book 22 Hadith 10</td></tr></tbody></table></div>
 

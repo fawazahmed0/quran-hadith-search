@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "I was in a seclusion in th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Abdurrahman bin Mahdi] dan selainnya, keduanya berkata, Telah menceritakan kepada kami [Harb bin Syaddad] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Jabir bin Abdullah radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Aku berdiam diri di gua Hira'.." Yakni sama persis dengan hadits [Utsman bin Umar] dari [Ali bin Al Mubarak]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4923</td></tr><tr><td>Arabic No</td><td>4923</td></tr><tr><td>Reference</td><td>Book 65 Hadith 443</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Я уединялся в пещере Хира…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4923</td></tr><tr><td>Arabic No</td><td>4923</td></tr><tr><td>Reference</td><td>Book 65 Hadith 443</td></tr></tbody></table></div>
 

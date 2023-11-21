@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Akwa':Once I went (from Medina) towards (Al-Ghaba) before
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hatim bin Yazid] dari [Yazid bin Abu 'Ubaid] ia berkata; aku mendengar [Salamah bin Al Akwa'] berkata; "Aku keluar sebelum adzan pertama shalat Shubuh (dikumandangkan). Saat itu unta betina bunting milik Rasulullah shallallahu 'alaihi wasallam sedang digembalakan di Dzi Qarad." Dia melanjutkan; "Lalu aku berjumpa dengan budak Abdurrahman bin 'Auf, dia berkata; "Unta Rasulullah shallallahu 'alaihi wasallam telah dicuri orang." Aku bertanya; "Siapa yang mencurinya?". Dia berkata: "(Suku) Ghathafan". Maka aku berteriak sebanyak tiga kali dengan teriakan yang dapat diperdengarkan diantara dua bukit Madinah. Maka aku hadapkan wajahku (tidak menoleh ke kanan dan kiri) hingga aku dapat menemukan mereka hendak memberikan minum unta itu. Aku meluncurkan anak panah kepada mereka. Aku adalah orang yang ahli memanah. Aku katakan; "Akulah putra Al Akwa'. Hari ini adalah hari kebinasaan orang-orang yang hina" Dan aku terus bersya'ir hingga aku merebut kembali unta tersebut dari mereka (sebelum mereka meminum air susunya). Aku juga berhasil merampas sebanyak tiga puluh burdah (kain selimut)." Dia melanjutkan; "Kemudian Nabi shallallahu 'alaihi wasallam beserta para shahabat datang. Aku katakan; "Wahai Nabiyullah, aku dapat mendahului kaum itu dari mata air sehingga mereka kehausan. Untuk itu, utuslah aku sejenak (untuk memberi pelajaran kepada mereka)." Maka beliau bersabda: "Wahai Ibnu Al Akwa', tahanlah emosimu dan bersikap lembutlah." Dia berkata; "Kemudian kami kembali dan aku dibonceng di atas unta beliau hingga kami memasuki kota Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4194</td></tr><tr><td>Arabic No</td><td>4194</td></tr><tr><td>Reference</td><td>Book 64 Hadith 234</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салама бин аль-Аква‘, да будет доволен им Аллах, сказал: «(Однажды) я выехал (из Медины) ещё до призыва на (утренний намаз), что же касается дойных верблюдиц Посланника Аллаха ﷺ то обычно они паслись в (месте под названием) Зу Карад. (Через некоторое время) мне повстречался раб ‘Абд ар-Рахмана бин Ауфа, который сказал: “Похитили верблюдиц Пророка ﷺ!” Я спросил: “Кто взял их?” Он ответил: “(Люди из племени) гатафан”. И я трижды прокричал “Йа сабахах!” так громко, что (этот крик) услышали и в Медине, а потом бросился (за ними вдогонку), никуда не сворачивая, и настиг их, когда они черпали воду (из колодца). Тогда я начал стрелять в них из лука со словами:Я — сын аль-Аква‘,а сегодня — день, когда подлые погибнут!И я произносил эти стихи, пока не только вернул этих верблюдиц, но и отобрал у них тридцать плащей, а потом появился Пророк ﷺ с людьми, и я сказал: “О пророк Аллаха, я не дал этим людям напиться, и они уже испытывают жажду, пошли же за ними (кого-нибудь) немедля!” (На это Пророк ﷺ) сказал (мне): “О Ибн аль-Аква‘, ты взял верх (над врагами), а теперь смягчись!” Потом мы двинулись обратно, и я ехал на верблюдице, сидя позади Посланника Аллаха ﷺ пока мы не достигли Медины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4194</td></tr><tr><td>Arabic No</td><td>4194</td></tr><tr><td>Reference</td><td>Book 64 Hadith 234</td></tr></tbody></table></div>
 

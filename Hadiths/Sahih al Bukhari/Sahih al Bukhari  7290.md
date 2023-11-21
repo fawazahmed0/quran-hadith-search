@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:The Prophet (ﷺ) took a room made of date palm leaves 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami ['Affan] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Musa bin Uqbah] aku mendengar [Abu Nadlr] menceritakan dari [Busr bin sa'id] dari [Zaid bin Tsabit], bahwa Nabi shallallahu 'alaihi wasallam pernah mengambil kamar di masjid dari tikar, lantas Rasulullah shallallahu 'alaihi wasallam shalat di sana beberapa malam hingga beberapa sahabat berkumpul kepadanya, lalu disuatu malam mereka tidak mendengar suara beliau hingga mereka menyangka bahwa beliau tertidur. Sebagian sahabat lalu pura-pura batuk agar Nabi muncul menemui mereka, maka beliau pun bersabda: "Masih saja aku lihat kalian melakukan perbuatan kalian itu (shalat malam), hingga aku khawatir bahwa itu akan diwajibkan atas kalian, padahal jika diwajibkan atas kalian, niscaya kalian tak bisa melakukannya. Shalatlah hai manusia di rumah kalian, sebab seutama-utama shalat seseorang adalah di rumahnya selain shalat wajib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7290</td></tr><tr><td>Arabic No</td><td>7290</td></tr><tr><td>Reference</td><td>Book 96 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Зейда ибн Сабита, что однажды Пророк ﷺ установил в мечети нечто вроде отдельной комнаты из циновок, и стал молиться там ночами. И после этого люди стали собираться возле него, (совершая за ним молитву). Затем в одну из ночей они перестали слышать его голос, и подумали, что он спит и стали шуметь, чтобы он вышел к ним. Тогда Пророк ﷺ (вышел к ним и) сказал: «Что с вами, почему вы не перестаёте делать то, что я вижу? Ведь я опасаюсь, что эта молитва будет вменена вам в обязанность. А если она станет для вас обязательной, то вы не сможете её совершать! Молитесь, о люди, в своих домах! Поистине, наилучшая молитва человека — это молитва в его доме, не считая обязательной!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7290</td></tr><tr><td>Arabic No</td><td>7290</td></tr><tr><td>Reference</td><td>Book 96 Hadith 21</td></tr></tbody></table></div>
 

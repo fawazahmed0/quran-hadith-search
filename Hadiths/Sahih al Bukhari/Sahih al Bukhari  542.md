@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:When we offered the Zuhr prayers behind Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] -yakni Ibnu Muqatil-berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Khalid bin 'Abdurrahman] telah menceritakan kepadaku [Ghalib Al Qaththan] dari [Bakar bin 'Abdullah Al Muzani] dari [Anas bin Malik] ia berkata, "Jika kami shalat di belakang Rasulullah shallallahu 'alaihi wasallam pada shalat Zhuhur saat udara panas, kami sujud beralaskan pakaian kami untuk menghindari panasnya pasir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>542</td></tr><tr><td>Arabic No</td><td>542</td></tr><tr><td>Reference</td><td>Book 9 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Обычно, когда мы молились за посланником Аллаха ﷺ во время полуденной молитвы мы совершали земные поклоны (расстилив края своей) одежды (на месте земных поклонов) из-за сильной жары»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>542</td></tr><tr><td>Arabic No</td><td>542</td></tr><tr><td>Reference</td><td>Book 9 Hadith 19</td></tr></tbody></table></div>
 

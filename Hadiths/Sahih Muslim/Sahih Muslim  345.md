@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Abd bin Humaid] semuanya dari [Ya'qub], [Zuhair] berkata, telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ibnu Akhi Ibnu Syihab] dari [paman-Nya] dia berkata, telah mengabarkan kepadaku [Urwah bin az-Zubair] bahwa [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Setan mendatangi salah seorang dari kalian seraya berkata, 'Siapa yang menciptakan ini dan itu', hingga akhirnya dia bertanya kepadanya, 'Siapa yang menciptakan Rabbmu? ' Apabila dia telah sampai pada hal tersebut maka ucapkanlah istiadzah ('audzu billah), dan hendaklah dia mencukupkan dialognya." Telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin al-Laits] dia berkata, telah menceritakan kepadaku [bapakku] dari [kakekku] dia berkata, telah menceritakan kepadaku [Uqail bin Khalid] dia berkata, [Ibnu Syihab] berkata, telah mengabarkan kepadaku [Urwah bin az-Zubair] bahwa [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Setan mendatangi hamba seraya berkata, 'Siapakah yang menciptakan ini dan itu'." Sebagaimana hadits anak saudaraku, Ibnu Syihab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>345</td></tr><tr><td>Arabic No</td><td>134.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 252</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Шайтан может явиться к любому из вас и сказать: “Кто создал это и это?” (и он будет продолжать задавать такие вопросы,) пока не спросит: “Кто создал твоего Господа?” и когда он дойдёт до этого, пусть человек обратится за защитой к Аллаху и прекратит (думать об этом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>345</td></tr><tr><td>Arabic No</td><td>134.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 252</td></tr></tbody></table></div>
 

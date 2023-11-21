@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:He saw people perform ablution with the help of a water jar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] dan [Abu Bakar bin Abu Syaibah] serta [Abu Kuraib] mereka berkata, telah menceritakan kepada kami [Waki'] dari [Syu'bah] dari [Muhammad bin Ziyad] dari [Abu Hurairah], bahwa dia melihat sekelompok orang sedang berwudlu untuk bersuci, maka dia berkata, "Sempurnakanlah wudlu itu, karena aku mendengar Abu al-Qasim shallallahu 'alaihi wasallam bersabda: 'Celakalah tumit-tumit (yang tidak terbasuh air wudlu) dengan api Neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>574</td></tr><tr><td>Arabic No</td><td>242.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Мухаммад ибн Зияд рассказывал о том, что однажды Абу Хурайра увидел людей, совершающих омовение, (черпая воду) из сосуда. Он сказал (им): «Совершайте омовение должным образом, ибо я слышал, как Абу-ль Касим ﷺ говорил: “Горе предплюсневым костям от Огня!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>574</td></tr><tr><td>Arabic No</td><td>242.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 41</td></tr></tbody></table></div>
 

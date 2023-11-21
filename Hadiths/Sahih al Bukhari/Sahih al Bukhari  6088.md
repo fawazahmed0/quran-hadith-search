@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:While I was going along with Allah's Messenger (ﷺ) who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah Al Uwaisi] telah menceritakan kepada kami [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] dia berkata; "Saya berjalan bersama Rasulullah Shallallahu'alaihi wa Sallam, ketika itu beliau mengenakan kain (selimut) Najran yang tebal ujungnya, lalu ada seorang Arab badui (dusun) yang menemui beliau. Langsung ditariknya Rasulullah dengan kuat, Anas melanjutkan; "Hingga saya melihat permukaan bahu beliau membekas lantaran ujung selimut akibat tarikan Arab badui yang kasar. Arab badui tersebut berkata; "Wahai Muhammad berikan kepadaku dari harta yang diberikan Allah padamu", maka beliau menoleh kepadanya diiringi senyum serta menyuruh salah seorang sahabat untuk memberikan sesuatu kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6088</td></tr><tr><td>Arabic No</td><td>6088</td></tr><tr><td>Reference</td><td>Book 78 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды, когда) я шёл (куда-то) вместе с Посланником Аллаха ﷺ, на котором был плащ из Наджрана с грубой оторочкой, его догнал какой-то бедуин, который так сильно потянул его (за край плаща), что из-за этого на плече Пророка ﷺ остался след, а потом сказал: “О Мухаммад, вели (дать) мне что-нибудь из богатств Аллаха, которые у тебя есть!” (Услышав это, Пророк ﷺ) повернулся к нему и рассмеялся, а потом велел дать ему что-то»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6088</td></tr><tr><td>Arabic No</td><td>6088</td></tr><tr><td>Reference</td><td>Book 78 Hadith 116</td></tr></tbody></table></div>
 

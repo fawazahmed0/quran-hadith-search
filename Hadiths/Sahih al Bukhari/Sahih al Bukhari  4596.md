@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin 'Abdur-Rahman Abu Al-Aswad:The people of Medina were force
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yazid Al Muqri] Telah menceritakan kepada kami [Haiwah] dan yang lainnya, keduanya berkata; Telah menceritakan kepada kami [Muhammad bin 'Abdur Rahman Abu Al Aswad] berkata; dia berkata; Penduduk Kufah dipaksa untuk mengirim pasukannya memerangi penduduk Syam dan aku disuruh untuk memimpin mereka. Lalu aku bertemu dengan [Ikrimah] -mantan budak dari- Ibnu Abbas maka aku mengabarkan hal itu kepadanya, namun ia sangat melarangku untuk melalukan hal itu. Ia berkata; Telah mengabarkan kepadaku [Ibnu Abbas] bahwa sejumlah kaum muslimin pernah bersama orang-orang Musyrikin hingga menambah jumlah mereka. Lalu anak panah datang dan dilepaskan hingga mengenai salah seorang dari mereka (orang-orang muslim yang berada di tengah-tengah kaum musyrikin) dan membunuhnya atau ditebas hingga terbunuh. Kemudian turunlah ayat: "Sesungguhnya orang-orang yang diwafatkan malaikat dalam keadaan menganiaya diri sendiri. (An Nisa: 97). diriwayatkan oleh [Al Laits] dari [Abul Aswad]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4596</td></tr><tr><td>Arabic No</td><td>4596</td></tr><tr><td>Reference</td><td>Book 65 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухаммад ибн ‘Абдуррахман Абу аль-Асвад рассказывал: «Как-то раз среди жителей Медины набирали (военный) отряд и я записался в него. После этого я встретился с ‘Икримой, вольноотпущенником Ибн ‘Аббаса, и сообщил ему об этом, и он строжайшим образом запретил мне (участвовать в этом походе)». Затем он сказал: \n— Ибн ‘Аббас рассказывал мне, что при жизни Посланника Аллаха ﷺ некоторые люди из числа мусульман находились среди многобожников, увеличивая собой их количество. Иногда случалось так, что выпущенная стрела поражала и убивала кого-нибудь из (этих мусульман) или же кого-нибудь поражали (мечом), после чего он умирал. И тогда Аллах ниспослал (аят, в котором говорится): «“А (когда) ангелы будут забирать души тех, кто был несправедлив по отношению к самим себе, они спросят: “В (каком положении) вы находились?” (Люди) ответят: “Мы были слабыми на земле”. (Тогда ангелы) скажут: “Разве земля Аллаха была недостаточно просторна, чтобы вам переселиться?” Убежищем для таких послужит ад, а это — скверное пристанище!”» (сура «ан-Ниса», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4596</td></tr><tr><td>Arabic No</td><td>4596</td></tr><tr><td>Reference</td><td>Book 65 Hadith 118</td></tr></tbody></table></div>
 

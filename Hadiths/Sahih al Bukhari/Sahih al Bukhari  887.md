@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If I had not found it hard f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] radliallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya tidak memberatkan ummatku atau manusia, niscaya aku akan perintahkan kepada mereka untuk bersiwak (menggosok gigi) pada setiap kali hendak shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>887</td></tr><tr><td>Arabic No</td><td>887</td></tr><tr><td>Reference</td><td>Book 11 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Если бы это не было тяжко для (членов) моей общины (или: для людей), я обязательно велел бы им (чистить зубы зубочисткой) перед каждой молитвой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>887</td></tr><tr><td>Arabic No</td><td>887</td></tr><tr><td>Reference</td><td>Book 11 Hadith 12</td></tr></tbody></table></div>
 

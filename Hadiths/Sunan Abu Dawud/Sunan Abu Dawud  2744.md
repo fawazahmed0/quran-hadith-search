@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi’ reported on the authority of ‘Abd Allaah bin ‘Umar “The Apostle of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Abdullah bin Maslamah], dan [Yazid? bin Khalid bin Mauhab], mereka berkata; telah menceritakan kepada kami [Al Laits] secara makna, dari [Nafi'] dari [Abdullah bin Umar], bahwa Rasulullah shallallahu 'alaihi wasallam telah mengirim satu kesatuan militer yang padanya terdapat Abdullah bin Umar ke arah Najd. Kemudian mereka mendapatkan rampasan unta yang banyak. Saham mereka adalah dua belas unta dan mereka diberi tambahan satu ekor, satu ekor oleh Ibnu Mauhab, dan Rasulullah shallallahu 'alaihi wasallam tidak mengubah hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3134) Sahih Muslim (1749)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2744</td></tr><tr><td>Arabic No</td><td>2744</td></tr><tr><td>Reference</td><td>Book 15 Hadith 268</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3134) Sahih Muslim (1749)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2744</td></tr><tr><td>Arabic No</td><td>2744</td></tr><tr><td>Reference</td><td>Book 15 Hadith 268</td></tr></tbody></table></div>
 

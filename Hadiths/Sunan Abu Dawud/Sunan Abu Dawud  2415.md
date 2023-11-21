@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuBakrah: The Prophet (ﷺ) said: One of you should not say: I fasted 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya] dari [Al Muhallab bin Abu Habibah], telah menceritakan kepada kami [Al Hasan] dari [Abu Bakrah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang diantara kalian mengatakan aku pasti melakukan puasa Ramadhan seluruhnya dan akan melakukan shalat malam seluruhnya." Aku tidak mengetahui apakah beliau sika suka perekomendasian diri atau beliau mengatakan harus tidur terlebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2415</td></tr><tr><td>Arabic No</td><td>2415</td></tr><tr><td>Reference</td><td>Book 14 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Бакра, да будет доволен им Аллах: «Посланник Аллаха ﷺ сказал: “Пусть никто из вас не говорит: “Я постился весь рамадан и выстаивал весь рамадан””. И я не знаю, то ли он считал это нежелательной похвальбой, то ли хотел сказать, что человек должен когда-то спать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2415</td></tr><tr><td>Arabic No</td><td>2415</td></tr><tr><td>Reference</td><td>Book 14 Hadith 103</td></tr></tbody></table></div>
 

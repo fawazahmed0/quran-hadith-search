@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:I heard Allah's Messenger (ﷺ) as saying: The women of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah menceritakan kepadaku [Sa'id bin Al Musayyab] bahwa [Abu Hurairah] berkata; 'Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Para wanita Quraisyy adalah sebaik-baik wanita dalam mengendarai unta, yang paling sayang kepada anak, dan paling setia kepada suaminya. Setelah itu Abu Hurairah berkata; "Maryam binti Imran tidak pernah mengendarai unta sama sekali." Telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abad bin Humaid], [Abad] berkata; Telah mengabarkan kepada kami. Sedangkan [Ibnu Rafi] berkata; Telah menceritakan kepada kami [Abdur razak] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnu Al Musayyab] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam meminang Ummu Hani binti Abu Thalib. Lalu dia berkata; 'Ya Rasulullah, Sesungguhnya aku sudah tua dan aku sudah mempunyai beberapa anak.' Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: Sebaik-baik wanita adalah yang mengendarai……-Lalu perawi menyebutkan Hadits yang serupa dengan Hadits Yunus.- Namun dia berkata; 'Yang paling sayang kepada anaknya ketika masih kecil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6458</td></tr><tr><td>Arabic No</td><td>2527.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 287</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6458</td></tr><tr><td>Arabic No</td><td>2527.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 287</td></tr></tbody></table></div>
 

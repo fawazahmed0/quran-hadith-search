@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with him) reported Allah's Apostle (ﷺ) as saying:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Qutaibah bin Sa'id] keduanya berkata; Telah menceritakan kepada kami [Malik] Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Yahya bin Yahya] sedangkan lafazhnya dari dia (Yahya), dia berkata; Saya bertanya kepada [Malik]; Apakah [Abdullah bin Fadll] pernah menceritakan kepadamu dari [Nafi' bin Jubair] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam telah bersabda: "Seorang janda lebih berhak atas dirinya daripada walinya, sedangkan anak gadis harus di mintai izin darinya, dan izinnya adalah diamnya"? Dia menjawab; "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3476</td></tr><tr><td>Arabic No</td><td>1421.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3476</td></tr><tr><td>Arabic No</td><td>1421.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 78</td></tr></tbody></table></div>
 

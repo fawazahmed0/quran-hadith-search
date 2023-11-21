@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Sa'd b. Abu Waqqas reported on the authority of his father that he asked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Aku membaca Hadits [Malik] dari [Muhammad bin Al Mukandir] dan [Abu An Nadhr] budak 'Umar bin 'Ubaidillah dari ['Amir bin Sa'ad bin Abu Waqqash] dari Bapaknya bahwa dia mendengarnya bertanya kepada [Usamah bin Zaid] 'Apa yang engkau dengar dari Rasulullah shallallahu 'alaihi wasallam tentang penyakit Tha'un? ' Jawab Usamah; 'Rasulullah shallallahu 'alaihi wasallam bersabda: "Tha'un (wabah kolera) adalah semacam azab (siksaan) yang diturunkan Allah kepada Bani Israil atau kepada umat yang sebelum kamu. Maka apabila kamu mendengar penyakit tha'un berjangkit di suatu negeri, janganlah kamu datang ke negeri itu. Dan apabila penyakit itu berjangkit di negeri tempat kamu berada, janganlah kamu keluar dari negeri itu untuk melarikan diri dari padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5772</td></tr><tr><td>Arabic No</td><td>2218.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5772</td></tr><tr><td>Arabic No</td><td>2218.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 124</td></tr></tbody></table></div>
 

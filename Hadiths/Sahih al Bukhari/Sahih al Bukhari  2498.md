@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sulaiman bin Abu Muslim:I asked Abu Minhal about money exchange from ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ali] telah menceritakan kepada kami [Abu 'Ashim] dari ['Utsman, yakni Ibnu Al Aswad] berkata, telah menceritakan kepadaku [Sulaiman bin Abi Muslim] berkata, aku bertanya kepada [Al Minhal] tentang tentang pertukaran uang secara langsung. Maka dia berkata: "Dahulu aku dan temanku membeli sesuatu secara langsung dan dengan tempo lalu datang kepada kami [Al Bara' bin 'Azib] lalu kami tanyakan kepadanya tentang masalah itu maka dia berkata: "Dulu aku dan temanku Zaid bin Arqam pernah menanyakan hal itu kepada Nabi shallallahu 'alaihi wasallam maka Beliau bersabda: "Jika transaksi langsung diatas tangan (pembayaran secara cash, kontan) ambillah, namun bila tunda (tempo) maka tinggalkanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2498</td></tr><tr><td>Arabic No</td><td>2498</td></tr><tr><td>Reference</td><td>Book 47 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сулейман ибн Абу Муслим сказал: «Я спросил Абу Минхала об обмене (золота на золото, или серебра на серебро, или золота на серебро, или наоборот) из рук в руки. И он сказал: “Мы с моим партнёром покупали иногда из рук в руки, а иногда в рассрочку. Однажды к нам пришёл аль-Бара ибн ‘Азиб, мы спросили его об этом, и он ответил: “Мы с моим партнером Зейдом ибн Аркамом делали то же самое, затем мы спросили об этом Пророка ﷺ, и он сказал: “То, что происходит из рук в руки — берите, а то, что в рассрочку — оставьте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2498</td></tr><tr><td>Arabic No</td><td>2498</td></tr><tr><td>Reference</td><td>Book 47 Hadith 15</td></tr></tbody></table></div>
 

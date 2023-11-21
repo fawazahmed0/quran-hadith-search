@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever frees a Muslim slave, Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami ['Ashim bin Muhammad] berkata, telah menceritakan kepadaku [Waqid bin Muhammad] berkata, telah menceritakan kepadaku [Sa'id bin Marjanah], sahabat 'Ali bin Husain berkata; [Abu Hurairah radliallahu 'anhu] berkata, kepadaku bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Siapa saja orang yang membebaskan seorang muslim maka Allah akan menyelamatkan anggota tubuhnya dari api neraka dari setiap anggota tubuh yang dimerdekakannya". Sa'id bin Marjanah berkata; Lalu aku pergi dengan membawa hadits ini menemui 'Ali bin Husain radliallahu 'anhuma, maka dia segera menemui budak miliknya yang dulu dia beli dari 'Abdullah bin Ja'far seharga sepuluh ribu dirham atau seribu dinar lalu dia membebaskan budak itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2517</td></tr><tr><td>Arabic No</td><td>2517</td></tr><tr><td>Reference</td><td>Book 49 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Аллах спасёт от огня любого человека, который отпустит на свободу попавшего в рабство мусульманина, (избавив от мук) каждую часть его тела за каждую часть тела (освобождённого им человека)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2517</td></tr><tr><td>Arabic No</td><td>2517</td></tr><tr><td>Reference</td><td>Book 49 Hadith 1</td></tr></tbody></table></div>
 

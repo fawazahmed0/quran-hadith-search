@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yunus bin Abdul A'la] telah mengabarkan kepada kami [Ibnu Wahab] dia berkata, telah mengabarkan kepadaku [Amru] bahwa [Abu Yunus] telah menceritakan kepadanya, dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Demi Dzat yang jiwa Muhammad berada di tangan-Nya, tidaklah seseorang dari umat ini baik Yahudi dan Nashrani mendengar tentangku, kemudian dia meninggal dan tidak beriman dengan agama yang aku diutus dengannya, kecuali dia pasti termasuk penghuni neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>386</td></tr><tr><td>Arabic No</td><td>153</td></tr><tr><td>Reference</td><td>Book 1 Hadith 292</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Клянусь Тем, в Чьей длани душа Мухаммада, если какой-нибудь иудей или христианин из этой общины услышит обо мне, а потом умрёт, не уверовав в то, с чем я был послан, он обязательно окажется (одним) из обитателей Огня!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>386</td></tr><tr><td>Arabic No</td><td>153</td></tr><tr><td>Reference</td><td>Book 1 Hadith 292</td></tr></tbody></table></div>
 

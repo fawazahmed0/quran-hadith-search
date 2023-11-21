@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Khalaf bin Hisyam] serta [Abu Ar Rabi' Al 'Ataki] seluruhnya dari [Hammad], berkata [Yahya]; Telah mengabarkan kepada kami [Hammad bin Zaid] dari ['Abdul 'Aziz bin Shuhaib] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam membuat cincin dari perak dengan bertuliskan Muhammad Rasulullah. Beliau berkata kepada para sahabat; 'Sesungguhnya aku telah membuat cincin dari perak dengan bertuliskan Muhammad Rasulullah, maka tidak boleh Seorangpun memahat tulisan pada cincin seperti yang ada pada cincinku ini. Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Abu Bakr bin Abu Syaibah] serta [Zuhair bin Harb] mereka berkata; Telah menceritakan kepada kami [Isma'il Ya'nun bin'Ulayyah] dari ['Abdul 'Aziz Shuhaib] dari [Anas] dari Nabi shallallahu 'alaihi wasallam dengan redaksi yang sama, namun tidak menyebutkan lafazh 'Muhammad Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5478</td></tr><tr><td>Arabic No</td><td>2092.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5478</td></tr><tr><td>Arabic No</td><td>2092.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 93</td></tr></tbody></table></div>
 

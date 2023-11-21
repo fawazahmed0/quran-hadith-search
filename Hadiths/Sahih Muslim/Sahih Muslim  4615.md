@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narratedon the authority of Abu Ishaq who said:A man asked Bara' (b.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Ishaq] dia berkata; seorang laki-laki bertanya kepada [Barra], "Wahai Abu 'Umarah, apakah kalian pernah lari dari perang Hunain?" dia menjawab, "Tidak, demi Allah (pasukan) Rasulullah shallallahu 'alaihi wasallam tidak pernah lari, namun ketika itu beliau dan beberapa pemuda dari sahabat beliau, serta orang-orang yang ikut bersama beliau, pergi berperang dengan tergesa-gesa tanpa membawa persenjataan dan perlengkapan dengan sempurna. Kebetulan mereka bertemu dengan pasukan pemanah dari pihak musuh, ketika mereka memanah hampir tidak meleset sedikitpun dari sasaran. Yaitu pasukan gabungan Bani Hawazin dan Bani Nashr. Lantas pasukan pemanah itu serta merta memanah mereka (kaum Muslimin) sehingga mereka terpaksa berbalik kepada Rasulullah shallallahu 'alaihi wasallam, sedangkan saat itu Rasulullah shallallahu 'alaihi wasallam berada di atas bighal putih beliau, dan Abu Sufyan bin Harits bin Abdul Mutthalib mengawal beliau. Kemudian beliau turun dari bighal beliau dan memohon pertolongan kepada Allah, beliau bersabda: "Aku adalah seorang Nabi, bukan seorang pendusta, aku adalah putra Ibnu Abdul Mutthalib." Setelah itu beliau merapikan barisan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4615</td></tr><tr><td>Arabic No</td><td>1776.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4615</td></tr><tr><td>Arabic No</td><td>1776.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 97</td></tr></tbody></table></div>
 

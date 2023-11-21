@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] telah menceritakan kepada kami [Sulaiman] -yaitu Ibnu Bilal- dari [Musa bin Abu Tamim] dari [Sa'id bin Yasar] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dinar dengan dinar, tidak ada lebih antara keduanya, dan dirham dengan dirham, tidak ada lebih antara keduanya." Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Abdullah bin Wahb] dia berkata; saya mendengar [Malik bin Anas] berkata; telah menceritakan kepadaku [Musa bin Abu Tamim] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>1588.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>1588.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 108</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mas'oûd (que Dieu l'agrée), Quelques personnes s'adre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wail] dari [Abdullah] dia berkata, "Seseorang telah bertanya Rasulullah shallallahu 'alaihi wasallam, "Wahai Rasulullah! Apakah kami akan dihukum karena perbuatan yang telah kami lakukan semasa Jahiliyah?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Barangsiapa di antara kamu yang berbuat baik pada zaman Islam, maka dia tidak akan dikenakan hukuman karena perbuatannya pada zaman Jahiliyah. Tetapi barangsiapa yang berbuat kejahatan, maka dia akan dihukum karena perbuatannya pada zaman Jahiliyah dan pada zaman Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>318</td></tr><tr><td>Arabic No</td><td>120.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «(Однажды) люди спросили Посланника Аллаха ﷺ: “О Посланник Аллаха, взыщется ли с нас за то что мы делали во времена джахилиййи?” (В ответ им Пророк ﷺ) сказал: “Что касается того из вас, кто исповедовал ислам должным образом, то с него за это не взыщется, а с того, кто делал это плохо, взыщется за дела, которые он совершал и во времена джахилиййи, и в исламе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>318</td></tr><tr><td>Arabic No</td><td>120.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 225</td></tr></tbody></table></div>
 

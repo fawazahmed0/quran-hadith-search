@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:that he heard the Prophet (ﷺ) saying, "O Allah! If I shou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shal? h] telah menceritakan kepada kami [Ibnu Wahb] dia berkata; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Sa'id bin Musayyab] dari [Abu Hurairah] radliallahu 'anhu bahwa dia pernah mendengar Nabi shallallahu 'alaihi wasallam mengucapkan: "Ya Allah, sekiranya ada seorang mukmin yang pernah aku cela, maka jadikanlah celanya tersebut sebagai perkara yang dapat mendekatkan kepada-Mu di hari Kiamat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6361</td></tr><tr><td>Arabic No</td><td>6361</td></tr><tr><td>Reference</td><td>Book 80 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «О Аллах, кого бы из верующих я ни ругал, сделай это для него причиной приближения к Тебе в День воскресения!»\n/Аллахумма, фа-айу-ма му‘минин сабабту-ху, фа-дж‘аль заликя ля-ху курбатан иляй-кя йаума-ль-кийамати
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6361</td></tr><tr><td>Arabic No</td><td>6361</td></tr><tr><td>Reference</td><td>Book 80 Hadith 58</td></tr></tbody></table></div>
 

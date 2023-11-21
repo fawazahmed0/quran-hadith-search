@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd al-Rahman bin Abi Bakrah reported on the authority of his father that he wro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Abdul Malik bin 'Umair] ia berkata; telah menceritakan kepada kami [Abdurrahman bin Abu Bakrah] dari [Ayahnya] bahwa ia menulis surat kepada anaknya, ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang hakim tidak boleh memberikan keputusan di antara dua orang sementara ia sedang dalam keadaan marah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7158) Sahih Muslim (1717)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3589</td></tr><tr><td>Arabic No</td><td>3589</td></tr><tr><td>Reference</td><td>Book 25 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абду-р-Рахман ибн Абу Бакра передаёт от своего отца, что тот написал своему сыну, что Посланник Аллаха ﷺ сказал: «Не должен судья судить двоих, когда он разгневан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7158) Sahih Muslim (1717)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3589</td></tr><tr><td>Arabic No</td><td>3589</td></tr><tr><td>Reference</td><td>Book 25 Hadith 19</td></tr></tbody></table></div>
 

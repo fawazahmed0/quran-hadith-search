@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. 'Umar:I saw the Messenger of Allah (ﷺ) praying on a don
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari ['Amru bin Yahya Al Mazini] dari [Abu Al Habbab Sa'id bin Yasar] dari [Abdullah bin Umar] bahwa dia berkata; aku pernah melihat Rasulullah shallallahu 'alaihi wasallam shalat di atas keledai, sedangkan beliau menghadap ke arah Khaibar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1226</td></tr><tr><td>Arabic No</td><td>1226</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом: «Я видел, как Посланник Аллаха ﷺ совершал (дополнительную) молитву верхом на осле, когда направлялся в Хайбар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1226</td></tr><tr><td>Arabic No</td><td>1226</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
 

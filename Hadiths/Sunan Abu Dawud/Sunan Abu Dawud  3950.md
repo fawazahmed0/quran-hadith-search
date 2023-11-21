@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: Qatadah reported Umar ibn al-Khattab (may Allah be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] telah menceritakan kepada kami [Abdul Wahhab] dari [Sa'id] dari [Qatadah] bahwa [Umar bin Al Khathab] radliallahu 'anhu berkata, "Barangsiapa memiliki hubungan kekerabatan maka ia adalah orang yang merdeka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3950</td></tr><tr><td>Arabic No</td><td>3950</td></tr><tr><td>Reference</td><td>Book 31 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «Если кто-то стал владельцем близкого родственника, этот родственник становится свободным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3950</td></tr><tr><td>Arabic No</td><td>3950</td></tr><tr><td>Reference</td><td>Book 31 Hadith 25</td></tr></tbody></table></div>
 

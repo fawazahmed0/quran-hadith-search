@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq:I heard Al-Bara' saying, "The above Verse was revealed rega
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] berkata; Aku mendengar [Al Bara' radliallahu 'anhu] berkata: "Ayat ini turun kepada kami, yaitu Kaum Anshar jika mereka menunaikan haji lalu kembali pulang, mereka tidak memasuki rumah-rumah mereka dari pintu depannya namun mereka masuk dari belakang. Kemudian datanglah seseorang dari Kaum Anshar yang ia masuk dari pintu depan seakan-akan ia merubah kebiasaan tadi. Maka kemudian turunlah firman Allah QS Al Baqarah ayat 189 yang artinya: ("Dan bukanlah kebajikan memasuki rumah-rumah dari belakangnya, akan tetapi kebajikan itu ialah kebajikan orang yang bertakwa. Dan masuklah ke rumah-rumah itu dari pintu-pintunya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1803</td></tr><tr><td>Arabic No</td><td>1803</td></tr><tr><td>Reference</td><td>Book 26 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Исхакъ сказал:\n— Я слышал, как аль-Бара (ибн ‘Азиб), да будет доволен им Аллах, говорил: «Этот аят был ниспослан относительно нас. Возвращаясь (в Медину) после хаджа, ансары не входили к себе домой через ворота, а (заходили) только сзади, когда же один человек из числа ансаров вернулся и вошёл (в свой дом) через ворота, кто-то упрекнул его в этом, (и тогда) был ниспослан (аят, в кото­ром сказано): “Благочестие не в том, чтобы вы входили в дома с их задней стороны. Но благочестив тот, кто богобоязнен. Входите в дома через двери” (сура «аль-Бакара», 189)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1803</td></tr><tr><td>Arabic No</td><td>1803</td></tr><tr><td>Reference</td><td>Book 26 Hadith 28</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Tufail bin 'Amr came to the Prophet (ﷺ) and said, "The Da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Ibnu Dzakwan] dari [Abdurrahman Al A'raj] dari [Abu Hurairah radliallahu 'anhu] dia berkata; Thufail bin Amru datang kepada Nabi shallallahu 'alaihi wasallam seraya berkata; Ya Rasulullah, sesungguhnya kabilah Daus telah kafir dan membangkang. Oleh karena itu, berdoalah kepada Allah agar mereka mendapatkan kecelakaan.' Tetapi Rasulullah shallallahu 'alaihi wasallam berdoa: "Ya Allah, berikanlah petunjuk kepada kabilah Daus dan datangkanlah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4392</td></tr><tr><td>Arabic No</td><td>4392</td></tr><tr><td>Reference</td><td>Book 64 Hadith 415</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды Туфайль ибн ‘Амр приехал к Пророку ﷺ и сказал: “О Посланник Аллаха, поистине, [люди из племени] даус погибли, они не уверовали и отказались [принять ислам], так призови же на них проклятие Аллаха!” Но Пророк ﷺ сказал: “О Аллах, укажи дауситам путь истинный и приведи их /Аллахумма-хди даусан ва-ъти би-хим/!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4392</td></tr><tr><td>Arabic No</td><td>4392</td></tr><tr><td>Reference</td><td>Book 64 Hadith 415</td></tr></tbody></table></div>
 

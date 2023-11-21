@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd b. 'Ubaida reported that Ibn'Umar (Allah be pleased with both of them) hear
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] telah menceritakan kepada kami [Al Hasan bin Ubaidullah] dari [Sa'd bin Ubaidah] ia berkata; [Ibnu Umar] radliallahu 'anhuma mendengar seorang laki-laki berkata, "Malam ini adalah malam pertengahan (bulan)." Maka Ibnu Umar pun bertanya kepadanya, "Apa alasanmu mengatakan bahwa malam ini adalah pertengahan?" Saya teleh mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Bilangan bulan itu adalah begini, begini (beliau memberi isyarat dengan jari-jarinya yaitu bilangan sepuluh dua kali) dan begini (yakni pada kali yang ketiga, beliau memberi isyarat dengan jari-jemarinya semua, tetapi beliau menurunkan ibu jarinya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2513</td></tr><tr><td>Arabic No</td><td>1080.16</td></tr><tr><td>Reference</td><td>Book 13 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2513</td></tr><tr><td>Arabic No</td><td>1080.16</td></tr><tr><td>Reference</td><td>Book 13 Hadith 19</td></tr></tbody></table></div>
 

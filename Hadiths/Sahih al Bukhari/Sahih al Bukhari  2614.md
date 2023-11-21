@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:The Prophet (ﷺ) gave me a silken dress as a gift and I wore it. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepadaku ['Abdul Malik bin Maisarah] berkata, aku mendengar [Zaid bin Wahb] dari ['Ali radliallahu 'anhu] berkata: "Aku diberi hadiah kain bermotif garis dari sutera oleh Nabi shallallahu 'alaihi wasallam lalu aku kenakan, maka nampak aku lihat kemarahan dari raut wajah Beliau. Kemudian aku bagikan untuk isteri-isteriku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2614</td></tr><tr><td>Arabic No</td><td>2614</td></tr><tr><td>Reference</td><td>Book 51 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ подарил мне полосатую шёлковую одежду и я надел её, однако, увидев по его лицу, что он гневается, я разорвал её на куски и отдал своим женщинам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2614</td></tr><tr><td>Arabic No</td><td>2614</td></tr><tr><td>Reference</td><td>Book 51 Hadith 47</td></tr></tbody></table></div>
 

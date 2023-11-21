@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Taghlib:I heard Allah's Messenger (ﷺ) saying, "Near the Hou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3592</td></tr><tr><td>Arabic No</td><td>3592</td></tr><tr><td>Reference</td><td>Book 61 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Амра ибн Таглиба, что Посланник Аллаха ﷺ сказал: «Перед наступлением Часа этого, вы сразитесь с народом, который носит волосяные сандалии, и вы сразитесь с народом, имеющим широкие лица, их лица подобны кожаным щитам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3592</td></tr><tr><td>Arabic No</td><td>3592</td></tr><tr><td>Reference</td><td>Book 61 Hadith 99</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Abu Bakr used to say, "Look after Muhammad (ﷺ) in (looking 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Yahya bin Ma'in] dan [Shadaqah] keduanya berkata telah mengabarkan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Waqid bin Muhammad] dari [bapaknya] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; " [Abu Bakr] berkata; "Peliharalah hubungan dengan Muhammad shallallahu 'alaihi wasallam dengan cara menjaga hubungan dengan ahli bait beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3751</td></tr><tr><td>Arabic No</td><td>3751</td></tr><tr><td>Reference</td><td>Book 62 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Абу Бакр, сказал: «Чтите Мухаммада ﷺ, делая добро членам его семьи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3751</td></tr><tr><td>Arabic No</td><td>3751</td></tr><tr><td>Reference</td><td>Book 62 Hadith 96</td></tr></tbody></table></div>
 

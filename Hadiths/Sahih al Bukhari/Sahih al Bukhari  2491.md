@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar said, "Allah's Messenger (ﷺ) said, 'If one manumits h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Imran bin Maisarah] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Ayyub] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang membebaskan jatah kepemilikan, atau bagian kepemilikan dari budaknya" atau Beliau bersabda dengan redaksi 'hak kepemilikan', lantas ia mempunyai harta yang bisa membebaskan budak itu secara penuh sesuai harga yang rata-rata, maka budak itu menjadi merdeka". (Ayyub) berkata: "Aku tidak tahu apakah ucapan itu dari Nafi' atau termasuk hadits yang disabdakan Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2491</td></tr><tr><td>Arabic No</td><td>2491</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто освободил свою долю раба, и у него хватило средств, чтобы освободить его полностью, тогда раб становится свободным. А в противном случае (, если освободивший стеснён в средствах,) он остаётся освобождённым лишь настолько, насколько его освободил (этот человек)». (Один из передатчиков хадиса) сказал: «И я не знаю, кому принадлежат слова “А в противном случае он остаётся освобождённым лишь настолько, насколько его освободил этот человек” — Пророку ﷺ или Нафи’у?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2491</td></tr><tr><td>Arabic No</td><td>2491</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
 

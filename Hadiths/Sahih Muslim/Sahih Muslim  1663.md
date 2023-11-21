@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mu'adha asked 'A'isha (Allah be pleased with her) how many rak'ahs Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farukh] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Yazid yaitu Yazid Ar Risyk] telah menceritakan kepadaku [Ma'adzah], ia pernah bertanya kepada ['Aisyah] Radhiyallahu'anha; "Berapa raka'atkah Rasulullah shallallahu 'alaihi wasallam melakukan shalat (sunnah) dhuha?" Aisyah menjawab; "Empat raka'at, namun terkadang beliau menambah sekehendaknya." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar], keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Yazid] dengan sanad seperti ini, Yazid mengatakan; "Sekehendak Allah." (bukan sekehehdaknya -pent)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1663</td></tr><tr><td>Arabic No</td><td>719.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Му‘азы о том, что (однажды) он спросила у ‘Аиши, да будет доволен ею Аллах: «Сколько (рак‘атов) совершал Посланник Аллаха ﷺ (во время) дополнительной утренней молитвы /ад-духа/?» Она сказала: «Четыре (рак‘ата), добавляя к ней столько (рак‘атов), сколько желал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1663</td></tr><tr><td>Arabic No</td><td>719.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 93</td></tr></tbody></table></div>
 

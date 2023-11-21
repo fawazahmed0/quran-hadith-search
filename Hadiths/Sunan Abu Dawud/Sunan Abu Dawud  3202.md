@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wathilah ibn al-Asqa': The Messenger of Allah (ﷺ) led us in prayer ov
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahman bin Ibrahim Ad Dimasyqi], telah menceritakan kepada kami [Al Walid], dan telah diriwayatkan dari jalur yang lain: telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], telah mengabarkan kepada kami [Al Walid], -dan hadits Abdurrahman lebih sempurna- telah menceritakan kepada kami [Marwan bin Janah] dari [Yunus bin Maisarah bin Halbas] dari [Watsilah bin Al Asqa'], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersama kami menshalati (jenazah) seorang laki-laki muslim, kemudian aku mendengar beliau mengucapkan: "Ya Allah, sesungguhnya Fulan bin Fulan berada dalam jaminanMu maka lindungilah dia dari Fitnah kubur." Sedang Abdurrahman berkata; dari jaminanMu. Berada dalam jaminan keamananMu, maka lindungilah dirinya dari fitnah kubur, serta adzab neraka. Engkau senantiasa menepati janji dan Pemilik segala pujian. Ya Allah, ampunilah dosanya dan sayangilah dia, sesungguhnya Engkau Maha Pengampun dan Maha Penyayang." Abdurrahman mengatakannya dari Marwan bin Janah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3202</td></tr><tr><td>Arabic No</td><td>3202</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Василя ибн аль-Аска‘, да будет доволен им Аллах, передаёт: «Однажды Посланник Аллаха ﷺ совершал вместе с нами погребальную молитву по одному человеку из числа мусульман и сказал: “О Аллах, такой-то под Твоей защитой и покровительством, избавь же его от испытания в могиле и мучений в Огне. Тебе присуща верность (обещаниям) и (Тебе надлежит) хвала. О Аллах, прости ему и помилуй его. Поистине, Ты Прощающий, Милостивый”» /Аллахумма инна (здесь называется имя умершего) фи зиммати-ка ва хабли дживари-ка фа-кы-хи мин фитнати-ль-кабри ва ‘азаби-н-нари, ва Анта ахлю-ль-вафаи ва-ль-хамди, Аллахумма фа-гфир ля-ху ва-рхам-ху, инна-ка Анта-ль-Гафуру-р-Рахим
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3202</td></tr><tr><td>Arabic No</td><td>3202</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
 

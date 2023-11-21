@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mijlaz:From Qais bin Ubad: 'Ali bin Abi Talib said, "I shall be the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abdullah Ar-Raqasyiy] telah menceritakan kepada kami [Mu'tamir] berkata, aku mendengar [bapakku] berkata, telah menceritakan kepada kami [Abu Mijlaz] dari [Qais bin 'Ubad] dari ['Ali bin Abi Thalib] radliallahu 'anhu bahwa dia berkata; "Aku adalah orang pertama yang akan berlutut di hadapan Allah Yang Maha Pengasih untuk berperkara pada hari qiyamat". Dan Qais bin 'Ubad berkata; "Telah turun ayat tentang mereka: "Inilah dua golongan (Mu'min dan kafir) yang bertengkar, mereka saling bertengkar mengenai Rabb mereka" (QS al-Hajj ayat 19). Mereka adalah orang yang berperang tanding pada perang Badar, yaitu Hamzah. 'Ali, 'Ubaidah atau Abu 'Ubaidah bin Al Harits menghadapi Syaibah bin Rabi'ah, 'Utbah bin Rabi'ah dan Al Walid bin 'Utbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3965</td></tr><tr><td>Arabic No</td><td>3965</td></tr><tr><td>Reference</td><td>Book 64 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Кайса ибн ‘Убада, что ‘Али ибн Аби Талиб, да будет доволен им Аллах, сказал: «Я буду первым, кто опустится на колени пред Милостивым, дабы вести тяжбу в Судный день». Кайс ибн ‘Убад сказал: «Это о них был ниспослан аят: “Вот две тяжущиеся группы, которые препирались относительно своего Господа” (сура “аль-Хадж”, аят 19). Он сказал: “Это те, которые участвовали в поединках в день битвы при Бадре: Хамза, ‘Али и ‘Убайда (или: Абу ‘Убайда ибн аль-Харис) и Шейба ибн Раби’а, ‘Утба ибн Раби’а и аль-Валид ибн Утба”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3965</td></tr><tr><td>Arabic No</td><td>3965</td></tr><tr><td>Reference</td><td>Book 64 Hadith 18</td></tr></tbody></table></div>
 

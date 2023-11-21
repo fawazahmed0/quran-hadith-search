@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) reached Mecca, circumambulated the Ka'ba se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Amru bin Dinar] berkata; Aku mendengar [Ibnu'Umar radliallahu 'anhuma] berkata: "Nabi Shallallahu'alaihiwasallam datang (ke Baitullah untuk hajji) maka Beliau thawaf di Baitullah tujuh kali putaran kemudian shalat dua raka'at di belakang Maqam (Ibrahim) lalu keluar menuju bukit Ash-Shafa dan Al Marwah. Dan sungguh Allah Ta'ala telah berfirman dalam QS Al Ahzab ayat 21 yang artinya: ("Sungguh bagi kalian ada suri tauladan yang baik pada diri Rasulullah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>1627</td></tr><tr><td>Reference</td><td>Book 25 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Прибыв (в Мекку), Посланник Аллаха ﷺ совершил таваф вокруг Каабы семь кругов, затем совершил два рак‘ата молитвы за местом стояния Ибрахима, затем направился к ас-Сафа. А Всевышний Аллах сказал: “В посланнике Аллаха был прекрасный пример для вас” (сура “аль-Ахзаб”, аят 21)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>1627</td></tr><tr><td>Reference</td><td>Book 25 Hadith 111</td></tr></tbody></table></div>
 

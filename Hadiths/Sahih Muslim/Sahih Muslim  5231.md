@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thumama (i. e. Ibn Hazn al-Qushairi) reported:I met 'A'isha and asked her about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Al Qasim] -yaitu Ibnu Fadl Al Huddani- telah menceritakan kepada kami [Tsumamah] -yaitu Ibnu Hazn Al Qusyairi- dia berkata; saya menemui ['Aisyah] dan menanyakan kepadanya mengenai nabidz, lantas 'Aisyah memanggil pelayannya dari negeri Habsyi. 'Aisyah lantas berkata, "Tanyakanlah kepadanya, karena dialah yang biasa membuatkan perasan untuk Rasulullah shallallahu 'alaihi wasallam, lantas [pelayan dari negeri Habsyi] itu menjawab, "Saya biasa membuatkan perasan untuk beliau dalam wadah air minum, kemudian saya mengikatnya dan menggantungkannya, lalu beliau meminumnya ketika datang waktu pagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5231</td></tr><tr><td>Arabic No</td><td>2005.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5231</td></tr><tr><td>Arabic No</td><td>2005.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 105</td></tr></tbody></table></div>
 

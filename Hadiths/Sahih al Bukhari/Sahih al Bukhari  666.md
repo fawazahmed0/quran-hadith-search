@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Once on a very cold and stormy night, Ibn 'Umar pronounced the Ad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'], bahwa [Ibnu 'Umar] pernah mengumandangkan adzan pada suatu hari yang dingin dan berangin. Kemudian ia berkata, "Shalatlah di tempat tinggal kalian." Ia melanjutkan perkataannya, "Jika malam sangat dingin dan hujan Rasulullah shallallahu 'alaihi wasallam memerintahkan seorang mu'adzin untuk mengucapkan: "Hendaklah kalian shalat di tempat tinggal kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>666</td></tr><tr><td>Arabic No</td><td>666</td></tr><tr><td>Reference</td><td>Book 10 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Нафи‘а о том, что (однажды) в холодную и ветреную ночь Ибн ‘Умар, да будет доволен Аллах ими обоими, призвал людей на намаз, а потом сказал:«Молитесь на своих местах!» Потом он сказал: «В холодные и дождливые ночи, Посланник Аллаха ﷺ повелевал муаззину говорить: “Молитесь на своих местах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>666</td></tr><tr><td>Arabic No</td><td>666</td></tr><tr><td>Reference</td><td>Book 10 Hadith 60</td></tr></tbody></table></div>
 

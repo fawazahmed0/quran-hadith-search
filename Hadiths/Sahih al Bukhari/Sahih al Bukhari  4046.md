@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:On the day of the battle of Uhud, a man came to the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] dari ['Amru] dia mendengar [Jabir bin Abdullah] radliallahu 'anhuma dia berkata, "Seorang laki-laki berkata kepada Nabi shallallahu 'alaihi wasallam pada perang Uhud, "Bagaimana menurutmu, jika aku mati terbunuh, dimanakah tempatku?" beliau menjawab: "Di surga." Mendengar itu, dia langsung melempar kurma yang ada di tangannya, kemudian dia berperang hingga terbunuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4046</td></tr><tr><td>Arabic No</td><td>4046</td></tr><tr><td>Reference</td><td>Book 64 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «В день (битвы при) Ухуде один человек спросил Пророка ﷺ: “Скажи мне, где я окажусь, если меня убьют?” Он сказал: “В Раю”, и тогда (этот человек) выбросил финики, которые держал в руке, (бросился в бой) и сражался, пока не погиб»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4046</td></tr><tr><td>Arabic No</td><td>4046</td></tr><tr><td>Reference</td><td>Book 64 Hadith 92</td></tr></tbody></table></div>
 

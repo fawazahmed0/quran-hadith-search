@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir said he heard Allah's Messenger (ﷺ) say:There is an hour during the nigh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] ia berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di waktu malam terdapat suatu saat, tidaklah seorang muslim mendapati saat itu, lalu ia memohon kebaikan kepada Allah 'azza wajalla baik kebaikan dunia maupun akhirat, kecuali Allah memperkenankannya. Demikian itu terjadi pada setiap malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1770</td></tr><tr><td>Arabic No</td><td>757.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ говорил: “Поистине, есть ночью такой период времени, когда (Аллах) обязательно дарует человеку, исповедующему ислам и обращающемуся к Аллаху с мольбой о каком-нибудь из благ мира этого или мира иного, то, (о чём он просит Его в это время), и это (бывает) каждую ночь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1770</td></tr><tr><td>Arabic No</td><td>757.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 199</td></tr></tbody></table></div>
 

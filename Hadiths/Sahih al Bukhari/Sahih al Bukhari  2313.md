@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:Concerning the Waqf of 'Umar: It was not sinful of the trustee (of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari ['Amru] berkata, tentang shadaqahnya 'Umar radliallahu 'anhu: "Tidak ada dosa bagi seorang wali untuk memakannya dan memberi makan temannya kecuali orang yang mengambil harta anak yatim kedalam hartanya. Kemudian [Ibnu 'Umar] meneruskan shadaqahnya 'Umar yaitu memberikannya kepada orang-orang dari penduduk Makkah yang singgah kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2313</td></tr><tr><td>Arabic No</td><td>2313</td></tr><tr><td>Reference</td><td>Book 40 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр сказал относительно милостыни с вакфа ‘Умара, да будет доволен им Аллах: «Нет греха на управляющем таким имуществом, если он будет питаться (тем, что оно приносит), или накормит своего друга, не получая никакой иной прибыли (или: ничего не присваивая)». И Ибн ‘Умар заведовал милостыней ‘Умара, и он давал её людям из числа жителей Мекки, у которых он останавливался
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2313</td></tr><tr><td>Arabic No</td><td>2313</td></tr><tr><td>Reference</td><td>Book 40 Hadith 13</td></tr></tbody></table></div>
 

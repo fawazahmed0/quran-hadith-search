@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir: I heard the Messenger of Allah (ﷺ) say: He who leads 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Dawud Al-Mahri] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yahya bin Ayyub] dari [Abdurrahman bin Harmalah] dari [Abu 'Ali Al-Hamdani] dia berkata; Saya telah mendengar [Uqbah bin Amir] berkata; Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang mengimami shalat orang banyak dan tepat pada waktunya, maka baginya dan bagi mereka pahala. Barangsiapa (di antara imam) yang mengurangi waktu meski sedikit, maka dosanya baginya dan tidak bagi mereka (para makmun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>580</td></tr><tr><td>Reference</td><td>Book 2 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ‘Али аль-Хамдани сказал: «Я слышал, как ‘Укъба ибн ‘Амир говорил: «Я слышал, как Посланник Аллаха ﷺ сказал: “Если тот, кто возглавляет людей в молитве сделает это вовремя, то он получит (своё вознаграждение), а они своё. А на том, кто задержит (совершение молитвы) в назначенное время, (будет грех этого), но не на тех, (кто стоит за ним)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>580</td></tr><tr><td>Reference</td><td>Book 2 Hadith 190</td></tr></tbody></table></div>
 

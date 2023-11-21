@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:Whenever the Prophet (ﷺ) got up for Tahajjud prayer he used 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kepada kami [Khalid bin 'Abdullah] dari [Hushain] dari [Abu Wa'il] dari [Hudzaifah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam apabila bangun malam untuk shalat tahajjud, Beliau menggosok dan membersihkan mulut Beliau dengan siwak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1136</td></tr><tr><td>Arabic No</td><td>1136</td></tr><tr><td>Reference</td><td>Book 19 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хузейфы, да будет доволен им Аллах, что когда Пророк ﷺ просыпался для ночной молитвы, он чистил свой рот зубочисткой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1136</td></tr><tr><td>Arabic No</td><td>1136</td></tr><tr><td>Reference</td><td>Book 19 Hadith 17</td></tr></tbody></table></div>
 

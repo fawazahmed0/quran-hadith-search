@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ruwayfi' ibn Thabit: Shayban al-Qatbani reported that Maslamah ibn Mukh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid bin Khalid bin Abdullah bin Mauhib Al Hamdani] telah menceritakan kepada kami [Al Mufadhdhal, yakni Ibnu Fadhalah Al Mishri] dari ['Ayyasy bin Abbas Al Qitbani] bahwasanya [Syiyaim bin Baitan] telah mengabarkan kepadanya dari [Syaiban Al Qitbani] dia berkata; Sesungguhnya Maslamah bin Mukhallad pernah menugaskan [Ruwaifi' bin Tsabit] sebagai walikota di Asfal al Ardl (daerah dataran rendah di Mesir). Syaiban melanjutkan; Kami berjalan bersamanya dari Kum Syarik ke 'Alqama' -atau dari 'Alqama' ke Kaum Syarik- dengan tujuan 'Alqam. Ruwaifi' berkata; "pada zaman Rasulullah shallallahu 'alaihi wasallam hidup, ada salah seorang diantara kami yang mempergunakan unta milik temannya sampai kurus dengan syarat separuh hasil perolehan ghanimah untuk pemilik unta dan separuhnya untuk kami. Dan jika salah seorang diantara kami mendapatkan mata panah dan bulunya sedang yang lain mendapatkan wadahnya. Ruwaifi' melanjutkan; Rasulullah pernah berpesan kepadaku; "wahai Ruwaifi'! bisa jadi kamu akan memiliki umur yang panjang sepeninggalku, maka kabarkanlah kepada orang banyak, bahwa siapa yang mengikat jenggotnya atau mengikatkan kalung pada kudanya, atau beristinja dengan kotoran binatang atau tulang, maka sesungguhnya Muhammad shallallahu 'alaihi wasallam berlepas diri dari orang tersebut." Telah menceritakan kepada kami [Yazid bin Khalid] telah menceritakan kepada kami [Al Mufadhdhal] dari ['Ayyasy] bahwasanya [Syiyaim bin Baitan] telah mengabarkan kepadanya dengan hadits ini, juga dari [Abu Salim Al Jaisyani] dari [Abdullah bin 'Amr] dan menyebutkan hal itu, dan dia saat itu terikat di pintu Alyun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Arabic No</td><td>36</td></tr><tr><td>Reference</td><td>Book 1 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Шайбан аль-Къитбани рассказывал, что Маслама ибн Мухалляд назначил Рувайфи‘а ибн Сабита губернатором в нижней части (Египта). Шайбан сказал: «Мы путешествовали с ним от Кум Шарика до ‘Алькъамаъ или от ‘Алькъамаъ до Кум Шарика, (но) он хотел (поехать) в ‘Алькъамаъ». Рувайфи‘ сказал: «При жизни Пророка ﷺ некоторые из нас занимали верблюда у своего брата с условием, что он даст ему половину добычи, а другую половину он оставлял себе, также обстояло дело и тогда, когда полетевшая стрела и перо на ней принадлежали одному, а наконечник другому». Затем он сказал: «Посланник Аллаха ﷺ сказал мне: “О Рувайфи‘! Возможно, ты проживешь ещё долго после меня, так сообщи же людям о том, что если кто-то будет закручивать свою бороду или носить обветшалую тетиву, чтобы отразить дурной глаз, или будет очищаться пометом животных или костями, то Мухаммад не причастен к нему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Arabic No</td><td>36</td></tr><tr><td>Reference</td><td>Book 1 Hadith 36</td></tr></tbody></table></div>
 

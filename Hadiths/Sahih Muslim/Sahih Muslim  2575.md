@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Allah's Messenger (ﷺ) used to kiss me while observing fast; an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Ubaidullah bin Umar] dari [Al Qasim] dari [Aisyah] radliallahu 'anha, ia berkata; "Rasulullah shallallahu 'alaihi wasallam menciumku saat beliau sedang berpuasa. Maka adakah diantara kalian yang mampu mengendalikan nafsunya sebagaimana Rasulullah shallallahu 'alaihi wasallam mampu mengendalikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>1106.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>1106.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 81</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) sent ten persons to bring the enemy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Azzuhri] telah mengabarkan kepadaku ['Amru bin Abu Sufyan bin Usaid bin Jariyah Atstsaqafi] sekutu bani Zuhrah yang merupakan salah seorang sahabat Abu Hurairah, bahwa [Abu Hurairah] berkata, "Pernah Rasulullah Shallallahu'alaihiwasallam mengutus sepuluh orang sahabatnya yang di antaranya ialah Khubaib Al anshari, lantas [Ubaidullah bin Iyadl] memberitakan kepadaku bahwa [anak perempuan Al Harits] mengabarkan kepadanya, tatkala mereka (Banu Harits bin Amir bin Naufal) berkumpul, Khubaib bin 'Adi meminjam sebuah pisau kepada anak perempuan itu untuk membersihkan rambut-rambut tubuhnya. Tatkala mereka keluarkan Khubaib dari tanah haram untuk mereka bunuh, Khubaib Al anshari berkata, "Aku tak peduli ketika aku terbunuh sebagai seorang muslim # Di bagian tubuh manapun aku terbunuh karena Allah # Asalkan itu semua demi Dzat Allah # Kalaulah Allah berkenan Ia memberi barakah di semua sambungan daging yang tercabik-cabik." Khubaib kemudian dibunuh oleh anak laki-laki Al Harits, dan nabi shallallahu 'alaihi wasallam kabarkan berita kematian Khubaib dan teman-temannya kepada sahabat-sahabatnya ketika mereka memperoleh musibah yang menimpanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7402</td></tr><tr><td>Arabic No</td><td>7402</td></tr><tr><td>Reference</td><td>Book 97 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Абу Суфьян ибн Асид ибн Джарийа ас-Сакафий союзник племени бану зухра, а также из числа сподвижников Абу Хурайры, передаёт, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ отправил отряд численностью в десять человек, среди которых был Хубайб аль-Ансари».\n(Ибн Шихаб аз-Зухрий сказал:) «Мне сообщил ‘Убайдуллах Ибн ‘Ияд, что (Зайнаб) бинт аль-Харис сообщила ему о том, что когда неверующие собрались убить Хубайба, он одолжил у неё бритву, чтобы побрить волосы на теле. А когда они вывели его за пределы харама, чтобы убить его там, Хубайб сказал: \nЕсли я буду убит как мусульманин, меня не волнует, как я умру ради Аллаха. И это ради сущности Бога, и если Он пожелает, То благословит суставы растерзанных частей тела.\nТаким образом Ибн аль-Харис казнил Хубайба, и Пророк ﷺ сообщил своим сподвижникам известия об этих людях в тот же день, когда их постигла беда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7402</td></tr><tr><td>Arabic No</td><td>7402</td></tr><tr><td>Reference</td><td>Book 97 Hadith 31</td></tr></tbody></table></div>
 

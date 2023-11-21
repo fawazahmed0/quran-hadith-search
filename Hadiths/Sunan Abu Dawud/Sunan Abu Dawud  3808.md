@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. ‘Abd Allah said:On the day of Khaibar the Messenger of Allah(ﷺ) for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Hasan Al Mishshi] telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] telah mengabarkan kepadaku ['Amru bin Dinar] telah mengabarkan kepadaku [seorang laki-laki] dari [Jabir bin Abdullah] ia berkata, "Saat perang Khaibar Rasulullah shallallahu 'alaihi wasallam melarang dari memakan daging keledai, dan memerintahkan kami agar makan daging kuda." 'Amru berkata, "Aku lalu memberitahukan hadits ini kepada Abu Asy Sya'tsa', maka ia pun berkata, "Dahulu Al Hakam Al Ghifari berada di antara kami, ia membolehkannya, namun hal itu ditolak oleh Ibnu Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3808</td></tr><tr><td>Arabic No</td><td>3808</td></tr><tr><td>Reference</td><td>Book 28 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Галиб ибн Абджар, да будет доволен им Аллах, передаёт: «Нас постиг голод, и мне нечем было кормить семью, кроме ослятины, а к тому времени Посланник Аллаха ﷺ уже запретил употреблять в пищу мясо домашних ослов. И я пришёл к Пророку ﷺ и сказал: “О Посланник Аллаха, нас постиг голод, а мне нечем кормить семью, кроме жирных ослов, а ты запретил есть”. Посланник Аллаха ﷺ сказал: “Корми свою семью [мясом] жирных ослов, ибо, поистине, я запретил это из-за ослов, поедающих навоз”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3808</td></tr><tr><td>Arabic No</td><td>3808</td></tr><tr><td>Reference</td><td>Book 28 Hadith 73</td></tr></tbody></table></div>
 

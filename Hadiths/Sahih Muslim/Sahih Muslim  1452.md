@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : Une nuit, le Prophète de Dieu 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] katanya; Aku katakan kepada ['Atha']; "Kapan waktu yang paling engkau sukai agar aku shalat isya' bersamamu, yang diistilahkan orang-orang dengan shalat 'atamah itu, dan aku dan kamu hanya berdua? Jawab 'Atha'; Aku pernah mendengar Ibnu Abbas mengatakan; "Suatu malam Nabi shallallahu 'alaihi wasallam hendak mengerjakan shalat isya'." [Ibnu Abbas] berkata; Hingga para sahabat ketiduran dan terbangun, kemudian ketiduran dan terbangun. Umar bin Khatthab kemudian berdiri dan berkata; "Shalat!" Ath' berkata; Ibn Abbas melanjutkan; Tidak beberapa lama Nabiyulah shallallahu 'alaihi wasallam muncul, seolah-olah aku melihatnya kepalanya meneteskan air dan beliau letakkan tangannya diatas sebelah kepalanya, beliau bersabda: "Kalaulah tidak memberatkan umatku, niscaya aku akan menyuruh mereka supaya mendirikan shalat (seperti waktu sekarang)." Ibnu Juraij berkata; aku bertanya kepada 'Atha'; "Lalu bagaimana Nabi shallallahu 'alaihi wasallam meletakkan tangannya diatas kepalanya sebagaimana diberitakan Ibn Abbas?" 'Atha' lalu merenggangkan sedikit antara jari-jarinya, kemudian ia letakkan ujung-ujung jarinya diatas tanduk kepala, kemudian ia tarik dan ditelusurkan ke arah kepala hingga jempolnya menyentuh ujung telinga yang menghadap wajah, kemudian beliau telusurkan kearah bagian atas pipinya dan arah jenggotnya, dia melakukan dengan tidak terlalu pelan dan tidak pula terlalu cepat." Saya tanyakan kepada 'Atha'; "Berapa kali diceritakan kepadamu bahwa Nabi shallallahu 'alaihi wasallam mengakhirkan shalat isya' hingga larut malam?" Jawab 'Atha' "Saya tidak tahu." Atha' berkata; Oleh karena itu, aku lebih suka melakukan shalat isya' secara sendirian ketika waktu sudah larut, sebagaimana dilakukan Nabi shallallahu 'alaihi wasallam di suatu malamnya, sekalipun itu memberatkanmu, baik kau lakukan sendiri atau bersama orang-orang (jamaah), maka lakukanlah secara ideal, tidak terlalu pelan dan tidak terlalu cepat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1452</td></tr><tr><td>Arabic No</td><td>642</td></tr><tr><td>Reference</td><td>Book 5 Hadith 285</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Джурайдж сказал: «(Однажды) я спросил ‘Атаъ: “В какое время мне лучше совершать вечернюю молитву /‘иша/, которую люди называют /‘атама/, будучи имамом и в одиночку?” Он ответил: “Я слышал, как Ибн ‘Аббас рассказывал: “(Однажды) ночью Пророк Аллаха ﷺ откладывал вечернюю молитву до тех пор, пока люди не заснули и затем проснулись. Затем они опять заснули и снова проснулись, после чего ‘Умар ибн аль-Хаттаб встал и сказал: “Молитва!” Тогда Пророк Аллаха ﷺ вышел (к людям), и будто я и сейчас вижу, как с его головы, на которую он положил руку, капает вода. И он сказал: “Если бы не было это (слишком) тяжело для (членов) моей общины, я обязательно повелел бы им совершать эту молитву именно так!””.И Ибн ‘Аббас рассказал, как именно Пророк ﷺ положил руку себе на голову (, а передатчик этого хадиса показал это, сначала) несколько растопырив пальцы, а потом дотронувшись их кончиками до своей головы сбоку. Потом он соединил их и провёл ими по голове, коснувшись большим пальцем мочки уха там, где она примыкает к виску и бороде, и при этом он не медлил и не спешил.Я спросил ‘Ату: “На сколько Пророк ﷺ отложил молитву в ту ночь?” Он ответил: “Не знаю. Я предпочитаю совершать её поздно, будучи имамом или в одиночестве, как совершал её Пророк ﷺ в ту ночь. Если же тебе это будет сложно, то совершай её в среднее (время), ни поздно, ни рано”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1452</td></tr><tr><td>Arabic No</td><td>642</td></tr><tr><td>Reference</td><td>Book 5 Hadith 285</td></tr></tbody></table></div>
 

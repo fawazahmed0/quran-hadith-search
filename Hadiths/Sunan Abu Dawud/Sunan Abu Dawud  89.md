@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allaah b. Muhammad:We were in the company of 'Aishah. When her foo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] dan [Musaddad] dan [Muhammad bin Isa] dengan makna yang sama, mereka berkata; Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Abu Hajrah], telah menceritakan kepada kami [Abdullah bin Muhammad], Ibnu Isa berkata; Di dalam haditsnya terdapat Ibnu Abi Bakr, mereka (ketiganya) bersepakat seraya mengatakan bahwa dia (Abdullah bin Muhammad) adalah saudara Al Qasim bin Muhammad. Dia berkata; Kami pernah bersama [Aisyah], lalu didatangkanlah makanannya, kemudian Al Qasim bangkit untuk shalat, maka Aisyah berkata; Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah seseorang shalat ketika makanan telah dihidangkan dan jangan pula ketika menahan buang air besar dan kencing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (560)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Arabic No</td><td>89</td></tr><tr><td>Reference</td><td>Book 1 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Мухаммад рассказал нам Ибн ‘Иса сказал в своём хадисе (что его звали ‘Абдуллах ибн Мухаммад) ибн Абу Бакр. Затем они сошлись (в своих версиях и сказали): «Брат аль-Къасима ибн Мухаммад» который сказал: «(Однажды) когда мы находились у ‘Аиши подали еду, а аль-Къасим встал на молитву. (‘Аиша) сказала: “Я слышала, как Посланник Аллаха ﷺ говорил: “Не становитесь на молитву, когда подана еда и тогда, когда отвращает вас (от молитвы) надобность к удовлетворению большой или малой нужды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (560)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Arabic No</td><td>89</td></tr><tr><td>Reference</td><td>Book 1 Hadith 89</td></tr></tbody></table></div>
 

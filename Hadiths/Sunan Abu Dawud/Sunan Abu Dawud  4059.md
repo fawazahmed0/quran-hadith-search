@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: We used to take it away (i.e. silk) from boys, and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] berkata, telah menceritakan kepada kami [Abu Ahmad] -yaitu Az Zubairi- berkata, telah menceritakan kepada kami [Mis'ar] dari [Abdul Malik bin Maisarah] dari [Amru bin Dinar] dari [Jabir] ia berkata, "Kami mengambilnya (sutra) dari anak laki-laki, tetapi kami biarkan untuk para gadis." Mis'ar berkata, "Aku lalu menanyakannya kepada Amru bin Dinar tentang hal itu, namun ia tidak mengetahuinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4059</td></tr><tr><td>Arabic No</td><td>4059</td></tr><tr><td>Reference</td><td>Book 34 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом: «Мы снимали (шёлковую одежду) с мальчиков и оставляли её на девочках»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4059</td></tr><tr><td>Arabic No</td><td>4059</td></tr><tr><td>Reference</td><td>Book 34 Hadith 40</td></tr></tbody></table></div>
 

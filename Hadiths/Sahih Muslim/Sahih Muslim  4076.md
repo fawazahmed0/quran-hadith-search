@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Fadila b. 'Ubaid (Allah be pleased with him) reported:I bought on the day (of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Abu Syuja' Sa'id bin Yazid] dari [Khalid bin Abu 'Imran] dari [Hanas Ash Shan'ani] dari [Fadlalah bin 'Ubaid] dia berkata, "Saat di Khaibar saya pernah membeli kalung yang terbuat dari emas dan permata dengan harga dua belas dinar, kemudian saya memisahkannya, ternyata jumlahnya lebih dari dua belas dinar. Maka saya pun memberitahukan hal itu kepada Nabi shallallahu 'alaihi wasallam, lalu beliau bersabda: "Janganlah kamu menjualnya sehingga kamu memisahkan (antara emas dan permata)." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; telah menceritakan kepada kami [Ibnu Mubarak] dari [Sa'id bin Yazid] dengan isnad yang seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4076</td></tr><tr><td>Arabic No</td><td>1591.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4076</td></tr><tr><td>Arabic No</td><td>1591.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 115</td></tr></tbody></table></div>
 

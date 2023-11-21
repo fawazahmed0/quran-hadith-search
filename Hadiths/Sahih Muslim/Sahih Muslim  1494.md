@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Sirin reported:I heard Jundab b. Qasri saying that the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ya'kub bin Ibrahim Ad Dauraqi] telah menceritakan kepada kami [Ismail] dari [Khalid] dari [Anas bin Sirin] katanya; aku mendengar [Jundab Al Qasri] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa shalat subuh, maka ia berada dalam jaminan Allah, oleh karena itu jangan sampai Allah karena jaminan-Nya menuntut kalian dengan suatu hal, karena siapa yang Allah menuntutnya sesuatu karena jaminan-Nya, Allah pasti akan menemukannya dan menelungkupkannya diatas wajahnya di neraka jahannam." Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], telah menceritakan kepada kami [Yazid bin Harun] dari [Dawud bin Abu Hind] dari [Al Hasan] dari [Jundab bin Sufyan] dari Nabi shallallahu 'alaihi wasallam dengan hadis seperti ini, namun ia tidak menyebutkan "Lantas Allah menelungkupkannya ke dalam neraka jahannam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1494</td></tr><tr><td>Arabic No</td><td>657.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 327</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Джундаба аль-Касри, что Посланник Аллаха ﷺ сказала: «Совершивший утреннюю молитву (в коллективе мусульман), находится под защитой Аллаха, так пусть же Аллах ничего не потребует от вас за Свою защиту. Ведь, поистине, если Аллах потребует у кого-то за Свою защиту хоть что-то, то Он настигнет его, а потом ввергнет его лицом в пламя Ада»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1494</td></tr><tr><td>Arabic No</td><td>657.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 327</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. ‘Abd Allah reported the Messenger of Allah (ﷺ) as sayings:He who ea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku ['Atha bin Abu Rabah] bahwa [Jabir bin Abdullah] berkata, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa makan bawang putih dan bawang merah, maka hendaknya ia menjauhi masjid kami dan duduk di rumahnya." Beliau pernah diberi nampan berisi sayur-sayuran hijau. Kemudian beliau mencium bau sesuatu, ketika beliau menanyakan perihal bau tersebut, maka beliau pun diberitahu tentang bau tersebut. Kemudian beliau bersabda: "Dekatkan!" yaitu kepada sebagian sahabat yang bersamanya! Kemudian ketika beliau melihat mereka enggan makan, beliau pun bersabda: "Makanlah, sesungguhnya aku bermunajat kepada Dzat yang engkau tidak bermunajat kepada-Nya." Ahmad bin Shalih berkata, "Badr ditafsirkan Ibnu Wahb dengan nampan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (855) Sahih Muslim (564)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3822</td></tr><tr><td>Arabic No</td><td>3822</td></tr><tr><td>Reference</td><td>Book 28 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто ел чеснок или лук в сыром виде, пусть не приближается к нам (или к нашим мечетям) и сидит в своём доме». (Джабир, да будет доволен им Аллах, также рассказал), что Посланнику Аллаха ﷺ принесли блюдо с овощами. Почувствовав исходящий от них запах (лука или чеснока), он спросил о том, что находится на блюде, и ему перечислили названия овощей, которые там были. Тогда он велел кому-то из находившихся вместе с ним сподвижников: «Подвиньте (к себе)». Увидев же, что он не желает есть это, Посланник Аллаха ﷺ сказал: «Ешь, (а я не стану), потому что веду тайные беседы с теми (, имея в виду ангелов), с кем не можешь беседовать ты»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (855) Sahih Muslim (564)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3822</td></tr><tr><td>Arabic No</td><td>3822</td></tr><tr><td>Reference</td><td>Book 28 Hadith 87</td></tr></tbody></table></div>
 

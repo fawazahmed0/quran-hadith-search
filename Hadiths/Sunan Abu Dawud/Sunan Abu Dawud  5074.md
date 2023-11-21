@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) never failed to utter t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa Al Balkhi] berkata, telah menceritakan kepada kami [Waki']. (Dalam jalur lain disebutkan) Telah menceritakan kepada kami [Utsman bin Abu Syaibah] secara makna, berkata, telah menceritakan kepada kami [Ibnu Numair] keduanya berkata; telah menceritakan kepada kami [Ubadah bin Muslim Al Fazari] dari [Jubair bin Sulaiman bin Jubair bin Muth'im] ia berkata; Aku mendengar [Ibnu Umar] berkata, "Belum pernah Rasulullah shallallahu 'alaihi wasallam meninggalkan doa-doa tersebut saat tiba waktu sore dan pagi hari: "ALLAHUMMA INNII AS'ALUKAL 'AAFIYATA FIDDUNYAA WAL AAKHIRAH ALLAHUMMA INNII AS'ALUKAL 'AFWA WAL 'AAFIYATA FI DIINII WA DUNYAAYA WA AHLII WA MAALII ALLAHUMMASTUR 'AURATII -Utsman menyebutkan dengan lafadz- "'AURAATII WA AAMIN RAU'AATII ALLAHUMMAHFADZHNII MIN BAINI YADAYYA WA NIN KHALFII WA 'AN YAMIINII WA 'AN SYIMAALII WA MIN FAUQII WA A'UUDZU BI'AZHAMATIKA AN UGHTAALA MIN TAHTII (Ya Allah, aku memohon kepada-mu keselamatan di dunia dan di akhirat. Ya Allah, aku mohon kepada-Mu pemaafan dan keselamatan dalam agama, dunia, keluarga dan harta. Ya Allah, tutupilah auratku, -Utsman menyebutkan dengan lafadz- "Auratku, dan amankanlah aku dari rasa takut. Ya Allah, jagalah aku dari depan, belakang, sisi kanan, sisi kiri, dan dari atas. Aku berlindung kepada-Mu dengan kebesaran-Mu agar aku tidak diserang dari arah bawah." Abu Dawud berkata, "Waki' mengatakan, "Maksudnya adalah penenggelaman)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5074</td></tr><tr><td>Arabic No</td><td>5074</td></tr><tr><td>Reference</td><td>Book 43 Hadith 302</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5074</td></tr><tr><td>Arabic No</td><td>5074</td></tr><tr><td>Reference</td><td>Book 43 Hadith 302</td></tr></tbody></table></div>
 

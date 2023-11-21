@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said :The Messenger of Allah(ﷺ) prescribed sadaqah at the end of R
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], bahwa [Yahya bin Sa'id] dan [Bisyr bin Al Mufadlal] menceritakan kepada mereka dari [Ubaidillah] dan di ganti dengan jalur periwayatan lain, Telah menceritakan kepada Kami [Musa bin Isma'il] telah menceritakan kepada kami [Aban] dari [Ubaidullah] dari [Nafi'] dari [Abdullah] dari Nabi shallAllahu wa'alaihi wa sallam bahwa beliau mewajibkan zakat fitrah, satu sha' kurma, atau satu sha' gandum atas setiap orang dewasa maupun anak kecil, merdeka, atau budak Musa menambahkan laki-laki dan wanita. Abu Daud berkata; [Ayyub dan Abdullah Al 'Umari] juga meriwayatkan seperti itu dalam hadits mereka berdua, dari [Nafi'] juga kalangan laki-laki maupun wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1613</td></tr><tr><td>Arabic No</td><td>1613</td></tr><tr><td>Reference</td><td>Book 9 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн ‘Умар), да будет доволен Аллах им и его отцом, что Пророк ﷺ велел подавать закят аль-фитр: са‘ ячменя или фиников с каждого юного и зрелого, свободного и невольника. Передатчик Муса добавил: «…мужчины и женщины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1613</td></tr><tr><td>Arabic No</td><td>1613</td></tr><tr><td>Reference</td><td>Book 9 Hadith 58</td></tr></tbody></table></div>
 

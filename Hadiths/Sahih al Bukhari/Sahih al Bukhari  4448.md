@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:While the Muslims were offering the Fajr prayer on Monda
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4448</td></tr><tr><td>Arabic No</td><td>4448</td></tr><tr><td>Reference</td><td>Book 64 Hadith 468</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что, когда Абу Бакр совершал с людьми утреннюю молитву в понедельник, неожиданно появился Посланник Аллаха ﷺ, он поднял занавеску с комнаты ‘Аиши посмотрел на них, когда они выстроились рядами и улыбнулся. Тогда Абу Бакр стал отходить назад, чтобы встать в ряд, решив, что Посланник Аллаха ﷺ хочет выйти на молитву. Мусульмане, увидев Посланника Аллаха ﷺ были готовы прервать молитву, обрадовавшись ему. Однако он сделал им знак (означавший, что они должны) закончить молитву, после чего он зашел в комнату и опустил занавеску»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4448</td></tr><tr><td>Arabic No</td><td>4448</td></tr><tr><td>Reference</td><td>Book 64 Hadith 468</td></tr></tbody></table></div>
 

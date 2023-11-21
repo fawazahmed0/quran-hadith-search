@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Adi b. Hatim:The Prophet (ﷺ) as saying: When the animal at which you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris], telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Yahya bin Zakariya bin Abu Zaidah], telah mengabarkan kepadaku ['Ashim Al Ahwal], dari [Asy Sya'bi] dari [Adi bin Hatim], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila buruan yang engkau panah terjatuh dalam air kemudian tenggelam dan mati, janganlah engkau makan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5484) Sahih Muslim (1929)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2850</td></tr><tr><td>Arabic No</td><td>2850</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ади ибн Хатима, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если подстреленная тобой дичь упадёт в воду и утонет, то не ешь её мясо (, поскольку это мясо уже будет мертвечиной)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5484) Sahih Muslim (1929)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2850</td></tr><tr><td>Arabic No</td><td>2850</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
 

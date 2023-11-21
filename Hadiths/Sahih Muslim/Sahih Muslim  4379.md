@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) reported:Allah's Apostle (ﷺ) having said: No person who i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Abdullah bin Numair] dan ini adalah lafadz Ibnu Abu Syaibah, keduanya berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abdullah bin Murrah] dari [Masruq] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam berabda: "Tidaklah setiap kali terjadi pembunuhan terhadap diri seseorang secara zhalim, kecualii putra Adamlah yang pertama kali ikut bertanggung jawab terhadap darahnya, karena dialah manusia pertama yang melakukan pembunuhan." Dan telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah menceritakan kepada kami [Jarir] dan [Isa bin Yunus]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] semuanya dari [Al A'masy] dengan isnad ini. Dan dalam hadits Jarir dan Isa bin Yunus disebutkan, "Karena dialah yang mula-mula melakukan pembunuhan (secara zhalim)." Dan tidak menyebutkan, "Manusia pertama kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4379</td></tr><tr><td>Arabic No</td><td>1677.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4379</td></tr><tr><td>Arabic No</td><td>1677.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 38</td></tr></tbody></table></div>
 

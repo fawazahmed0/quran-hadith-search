@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid:It rained (because of the Prophet's invocation for rain
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7503</td></tr><tr><td>Arabic No</td><td>7503</td></tr><tr><td>Reference</td><td>Book 97 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейд ибн Халид, да будет доволен им Аллах, сказал: «Когда был ниспослан дождь (по причине мольбы) Пророка ﷺ он сказал: “Аллах сказал: ‹Этим утром кто-то из рабов Моих проснулся неверующим в Меня, а кто-то — верующим в Меня›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7503</td></tr><tr><td>Arabic No</td><td>7503</td></tr><tr><td>Reference</td><td>Book 97 Hadith 128</td></tr></tbody></table></div>
 

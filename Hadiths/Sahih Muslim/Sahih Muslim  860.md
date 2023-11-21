@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like it has been narrated by Abu Huraira but for these words:" He (the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>860</td></tr><tr><td>Arabic No</td><td>389.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра передал от Пророка ﷺ хадис, подобный предыдущему, однако в этой версии он сказал: «…(он делает это) до тех пор, пока человек не перестанет понимать, как он совершил молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>860</td></tr><tr><td>Arabic No</td><td>389.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 23</td></tr></tbody></table></div>
 

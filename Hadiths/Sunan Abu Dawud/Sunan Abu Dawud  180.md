@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has been reported through another chain of narrators on the autho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dari [Habib] dari [Urwah] dari [Aisyah] bahwasanya Nabi shallallahu 'alaihi wasallam pernah mencium salah seorang istri beliau, kemudian beliau keluar untuk shalat, sedangkan beliau tidak berwudhu lagi. Urwah berkata; Siapakah dia kalau bukan engkau? Maka dia (Aisyah) tertawa. Abu Dawud berkata; Demikianlah diriwayatkan oleh [Za'idah] dan [Abdul Hamid Al Himmani] dari [Sulaiman Al A'masy] telah menceritakan kepada kami [Ibrahim bin Makhlad Al Thalqani] telah menceritakan kepada kami [Abdurrahman bin Maghra'] telah menceritakan kepada kami [Al A'masy] telah mengabarkan kepada kami [Para sahabat kami] dari [Urwah Al Muzani] dari [Aisyah] dengan hadits ini. Abu Dawud berkata; Yahya bin Sa'id Al-Qaththan berkata kepada seorang laki-laki; Ceritakan kepadaku bahwa dua hadits ini -yakni hadits Al A'masy ini dari Habib dan haditsnya dengan sanad ini tentang wanita mustahadhah, bahwa ia berwudhu pada setiap kali shalat- Yahya berkata; Ceritakan kepadaku bahwa dua hadits ini tidak ada apa-apanya (dha'if). Abu Dawud berkata; Diriwayatkan oleh dari Ats-Tsauri dia berkata; Tidak menceritakan kepada kami Habib kecuali dari Urwah Al-Muzani yakni; Dia tidak menceritakan sesuatu pun kepada mereka dari Urwah bin Az-Zubair. Abu Dawud berkata; [Hamzah Az-Zayyat] telah meriwayatkan dari [Habib] dari [Urwah bin Az-Zubair] dari [Aisyah] hadits shahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>180</td></tr><tr><td>Arabic No</td><td>180</td></tr><tr><td>Reference</td><td>Book 1 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва аль-Музаний передал со слов ‘Аиши этот же хадис.Абу Дауд сказал: «Яхъя ибн Са‘ид аль-Каттан сказал одному человеку: «Передай от меня, что эти два» - имея в виду этот хадис аль-А‘маша переданный со слов Хабиба и его хадис с этим иснадом о женщине с хроническим кровотечнием, (в котором говорится) что ей следует совершить омовение /вуду‘/ для каждой молитвы» – Яхъйа сказал: Передай от меня, что они похожи, но ничего не значат(1)». (Иснады этих хадисов являются слабыми. Об этом упомянул Шихаб ибн Раслан». См.: «‘Аун аль-Ма‘буд»).Абу Дауд сказал: «Передают, что ас-Саури сказал: “Не рассказывал нам Хабиб (хадисы) кроме как от ‘Урвы аль-Музаний, то есть ничего не рассказывал со слов ‘Урвы ибн аз-Зубайра“».Абу Дауд сказал: «Однако, Хамза аз-Заййат передал от Хабиба, от ‘Урвы ибн аз-Зубайра, от ‘Аиши достоверный хадис»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>180</td></tr><tr><td>Arabic No</td><td>180</td></tr><tr><td>Reference</td><td>Book 1 Hadith 180</td></tr></tbody></table></div>
 

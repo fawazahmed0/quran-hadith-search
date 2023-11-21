@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim bin 'Abdullah from his father:The Prophet (ﷺ) said, "On a land 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maram] telah menceritakan kepada kami ['Abdullah bin Wahb] berkata, telah mengabarkan kepada saya [Yunus bin Zaid] dari [Az Zuhriy] dari [Salim bin 'Abdullah] dari [bapaknya radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: "Pada tanaman yang diairi dengan air hujan, mata air, atau air tanah maka zakatnya sepersepuluh, adapun yang diairi dengan menggunakan tenaga maka zakatnya seperduapuluh". Abu Abdullah Al Bukhari berkata; "Ini adalah tafsiran pertama karena Beliau tidak menentukannya saat waktu pertama kali, yakni hadits Ibn Umar; "Pada setiap tanaman yang diairi dengan hujan adalah sepersepuluh". Lalu Beliau menjelaskan hal ini; "Dan menentukan waktu dan tambahan ini bisa diterima, dan penafsiran adalah suatu tuntutan suatu hal yang belum jelas, jika diriwayatkan oleh orang-orang terpercaya. Seperti Fadhal bin 'Abbas pernah meriwayatkan bahwa Nabi Shallallahu'alaihiwasallam tidak shalat di dalam Ka'bah namun Bilal berkata, bahwa Beliau shalat disana. Maka perkataan Bilal diambil, sedangkan perkataan Fadhl ditinggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1483</td></tr><tr><td>Arabic No</td><td>1483</td></tr><tr><td>Reference</td><td>Book 24 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «(С тех земель), которые орошаются дождями, водой подземных источников или иным естественным путём, (следует взимать) десятину, а с (земель, требующих) искусственного орошения, — половину того».\nПеревод не до конца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1483</td></tr><tr><td>Arabic No</td><td>1483</td></tr><tr><td>Reference</td><td>Book 24 Hadith 83</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her). the wife of Allah's Apostle (may Peace be up
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Thahir] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami [Malik bin Anas] dari [Rabi'ah bin Abi Abdirrahman] dari [Qasim bin Muhammad] dari ['Aisyah] istri Nabi shallallahu 'alaihi wasallam bahwa dia berkata; "Dalam kasus Barirah ada tiga pelajaran yaitu; dia diberi pilihan atas suaminya ketika dia dibebaskan, dia juga pernah diberi daging, lalu Rasulullah shallallahu 'alaihi wasallam masuk ke rumahku, ketika itu ada tungku yang sedang dipanasi di atas api, kemudian beliau meminta dihidangkan makanan, lalu beliau diberi roti dan lauk pauk yang ada di rumah, lalu beliau bertanya: "Tidakkah tadi saya melihat periuk di atas api yang berisi daging?" Mereka menjawab; "Ya, wahai Rasulullah, itu adalah daging yang tadi disedekahkan kepada Barirah, sehingga kami tidak suka untuk memberikannya kepada Anda." Beliau bersabda: "Daging tersebut bagi Barirah adalah sedekah, sedangkan bagi kita adalah hadiah dari Barirah." Dan Nabi shallallahu 'alaihi wasallam bersabda mengenai dirinya: "Sesungguhnya hak perwalian adalah untuk orang yang memerdekakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3786</td></tr><tr><td>Arabic No</td><td>1504.11</td></tr><tr><td>Reference</td><td>Book 20 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3786</td></tr><tr><td>Arabic No</td><td>1504.11</td></tr><tr><td>Reference</td><td>Book 20 Hadith 17</td></tr></tbody></table></div>
 

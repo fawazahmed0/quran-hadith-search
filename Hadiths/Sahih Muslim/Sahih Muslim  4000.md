@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Abu Qatada reported that Abu Qatada (Allah be pleased with him) dema
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Haitsam Khalid bin Khidasy bin 'Ajlan] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Yahya bin Abin Katsir] dari [Abdullah bin Abu Qatadah] bahwa [Abu Qatadah] pernah mencari seseorang yang berhutang kepadanya, ternyata orang yang berhutang kepadanya itu berusaha bersembunyi dan menghindar. Ketika ditemukan, orang tersebut berkata, "Sungguh saya sedang dalam kesulitan." Abu Qatadah berkata, "Demi Allah." Dia berkata, "Demi Allah." Abu Qatadah melanjutkan, "Baiklah kalau begitu, sungguh saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa ingin diselamatkan Allah dari kesusahan hari Kiamat, maka hendaklah ia memberi tangguhan kepada orang yang kesulitan, atau membebaskan hutangnya." Dan telah menceritakan kepadaku [Abu At Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Jarir bin Hazim] dari [Ayyub] dengan sanad-sanad ini, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>1563.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>1563.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 39</td></tr></tbody></table></div>
 

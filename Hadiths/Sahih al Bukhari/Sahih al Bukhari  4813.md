@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "I will be the first to raise my he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Hasan] Telah menceritakan kepada kami [Ismail bin Khalil] Telah mengabarkan kepada kami [Abdurrahim] dari [Zakaria bin Abu Zaidah] dari ['Amir] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: Akulah orang yang pertama kali mengangkat kepalanya setelah tiupan sangkakala terakhir. Namun tiba-tiba aku melihat Musa bergantung dibawah Arsy, aku tidak tahu apakah ia ikut pingsan atau bangkit lebih dulu setelah tiupan sangkakala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 65 Hadith 335</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Поистине, я буду первым, кто поднимет голову после второго дуновения в Рог, и я увижу Мусу, держащегося за Трон. И я не знаю, оставался ли он в таком состоянии или (же он просто успел прийти в себя) после дуновения (в Рог)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 65 Hadith 335</td></tr></tbody></table></div>
 

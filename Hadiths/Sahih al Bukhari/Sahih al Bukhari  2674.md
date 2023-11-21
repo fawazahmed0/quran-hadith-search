@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) asked some people to take an oath, and th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] telah menceritakan kepada kami ['Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam menawarkan sumpah kepada suatu kaum lalu merekapun segera bersumpah. Maka Beliau memerintahkan agar diundi siapa diantara mereka yang lebih dahulu bersumpah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2674</td></tr><tr><td>Arabic No</td><td>2674</td></tr><tr><td>Reference</td><td>Book 52 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Пророк ﷺ предложил людям принести клятву, и все они поспешили (сделать это). Тогда он велел бросить среди них жребий, (чтобы определить,) кто из них будет клясться (первым)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2674</td></tr><tr><td>Arabic No</td><td>2674</td></tr><tr><td>Reference</td><td>Book 52 Hadith 36</td></tr></tbody></table></div>
 

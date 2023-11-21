@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "By Him in Whose Hands my sou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Ibnu Al Musayyab] bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] berkata; Bersabda Rasulullah shallallahu 'alaihi wasallam: "Demi Dzat yang jiwaku dalam genggamanNya, sungguh tiada lama lagi akan segera turun Ibnu Maryam (Isa Alaihissalam) yang akan menjadi hakim yang adil, menghancurkan salib, membunuh babi, membebaskan jizyah dan harta benda melimpa ruah sehingga tidak ada seorangpun yang mau menerimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 34 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘ида ибн аль-Мусаййиба о том, что он слышал, как Абу Хурайра, да будет доволен им Аллах, говорил: «Посланник Аллаха ﷺ сказал: “Клянусь Тем, в Чьей длани душа моя, поистине, скоро уже придёт к вам сын Марйам, (и будет судить вас) как справедливый судья, и сломает крест, и уничтожит свиней, и отменит джизью, после чего денег будет (так) много, что никто не станет их принимать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 34 Hadith 169</td></tr></tbody></table></div>
 

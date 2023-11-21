@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said:A man came panting to join the row of worshippers, and said: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah mengabarkan kepada kami [Hammad] dari [Qatadah], [tsabit] dan [Humaid] dari [Anas bin Malik] bahwa seorang laki-laki datang untuk menunaikan shalat, sedangkan lafadznya terengah-engah sambil mengucapkan; "ALLAHU AKBAR, AL HAMDU LILLAHI HAMDAN KATSIRAN THAYYIBAN MUBAARAKAN FIIHI (Allah Maha Besar, segala puji bagi Allah, pujian yang banyak, baik dan penuh berkah)." Ketika Rasulullah shallallahu 'alaihi wasallam selesai mengerjakan shalat, beliau bersabda: "Siapakah di antara kalian yang mengucapkan beberapa kalimat tadi? Sungguh dia telah mengucapkan kalimat yang tidak di larang." Laki-laki tiu menjawab; "Saya wahai Rasulullah, aku datang dengan tergesa-gesa, sehingga nafasku terengah-engah, lalu saya ucapkan do'a seperti tadi." Beliau bersabda: "Sungguh, saya melihat dua belas Malaikat yang masing-masing dari mereka berlomba-lomba untuk mengangkat (kalimat tersebut)." Dalam riwayatnya Humaid menambahkan; "Apabila salah seorang dari kalian datang, hendaknya ia berjalan seperti biasa, lalu mengerjakan shalat sesuai raka'at yang ia dapat, dan mengganti raka'at yang tertinggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (600)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>763</td></tr><tr><td>Arabic No</td><td>763</td></tr><tr><td>Reference</td><td>Book 2 Hadith 373</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика о том, что однажды некий мужчина пришёл на молитву, переводя дыхание, и затем сказал: «Аллаху акбар! Хвала Аллаху, хвала многая, благая и благословенная!» /Аль-хамдули-Лляхи хамдан касиран, таййибан, мубаракан фийхи/. Когда Посланник Аллаха ﷺ завершил мо­литву, он спросил: «Кто из вас произнёс эти слова, ибо он не сказал ничего плохого?!» Этот мужчина сказал: «Я, о Посланник Аллаха! Я пришёл, переводя дыхание, и произнёс их». И (Посланник Аллаха ﷺ) сказал: «Я видел двенадцать ангелов, каждый из которых старался первым вознести их (на небеса)».Хумайд (в своём риваяте) привёл дополнение: «И если кто-то из вас приходит (на молитву), пусть идёт так же, как он шёл, и пусть совершит ту часть молитвы, которую он застал, и восполнит то, что пропустил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (600)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>763</td></tr><tr><td>Arabic No</td><td>763</td></tr><tr><td>Reference</td><td>Book 2 Hadith 373</td></tr></tbody></table></div>
 

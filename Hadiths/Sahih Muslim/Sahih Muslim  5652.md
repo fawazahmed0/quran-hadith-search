@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported Allah's Messenger (ﷺ) as saying:When the People of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Husyaim] dari ['Ubaidillah bin Abu Bakr] ia berkata; Aku mendengar [Anas] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Isma'il bin Salim]; Telah menceritakan kepada kami [Husyaim]; Telah mengabarkan kepada kami ['Ubaidullah bin Abu Bakr] dari kakeknya yaitu [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: Jika Ahli Kitab memberi salam kepada kalian, maka jawablah; Wa'alaikum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5652</td></tr><tr><td>Arabic No</td><td>2163.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5652</td></tr><tr><td>Arabic No</td><td>2163.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 7</td></tr></tbody></table></div>
 

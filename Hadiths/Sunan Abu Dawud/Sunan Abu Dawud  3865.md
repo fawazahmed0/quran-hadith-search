@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Imran ibn Husayn: The Prophet (ﷺ) forbade to cauterise; we cauterised
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Mutharrif] dari [Imran bin Hushain] ia berkata, "Nabi shallallahu 'alaihi wasallam melarang dari kay (pengobatan dengan sengatan besi panas), kemudian kami melakukan kay, maka kay itu tidak beruntung dan tidak berhasil." Abu Daud berkata, "Rasulullah shallallahu 'alaihi wasallam mendengar salam para Malaikat, ketika beliau melakukan kay suara itu hilang, dan ketika beliau meninggalkan pengobatan kay, beliau dapat mendengar suara Malaikat kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3865</td></tr><tr><td>Arabic No</td><td>3865</td></tr><tr><td>Reference</td><td>Book 29 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом: «Пророк ﷺ запретил прижигание, однако мы делали его и не добились никакого результата». Абу Дауд сказал: «А он слышал приветствия ангелов, а когда сделал себе прижигание, перестал слышать это. Когда же он отказался от прижиганий, это вернулось»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3865</td></tr><tr><td>Arabic No</td><td>3865</td></tr><tr><td>Reference</td><td>Book 29 Hadith 11</td></tr></tbody></table></div>
 

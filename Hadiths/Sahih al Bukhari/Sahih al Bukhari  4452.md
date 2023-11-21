@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Abu Bakr came from his house at As-Sunh on a horse. He dismounte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4452</td></tr><tr><td>Arabic No</td><td>4452</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ’Аиши, да будет ею доволен Аллах, что (когда умер Пророк ﷺ,) Абу Бакр, да будет им доволен Аллах, прискакал из своего дома, находившегося в ас-Сунхе, на коне, спешился и вошел в мечеть. Не заговорив ни с кем, он вошел к ’Аише, да будет доволен ею Аллах, и подошел к Посланнику Аллаха ﷺ, тело которого было завернуто в полосатый йеменский плащ. Он открыл лицо Пророка ﷺ, наклонился, поцеловал его и заплакал, а потом воскликнул: «Да станут отец мой и мать выкупом за тебя! Клянусь Аллахом, Аллах не даст тебе вкусить смерть дважды, а ту смерть, которая была тебе суждена, ты уже встретил!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4452</td></tr><tr><td>Arabic No</td><td>4452</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

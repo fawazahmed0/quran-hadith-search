@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:"The Prophet (ﷺ) forbade praying after the Fajr prayer till the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Abu Al Aliyah] dari [Ibnu 'Abbas] berkata, "Orang-orang yang diridlai mempersaksikan kepadaku dan di antara mereka yang paling aku ridlai adalah ['Umar], (mereka semua mengatakan) bahwa Nabi shallallahu 'alaihi wasallam melarang shalat setelah Shubuh hingga matahari terbit, dan setelah 'Ashar sampai matahari terbenam." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Qatadah] aku mendengar [Abu Al Aliyah] dari [Ibnu 'Abbas] berkata, "Orang-orang (para sahabat) menceritakan hadits ini kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>581</td></tr><tr><td>Arabic No</td><td>581</td></tr><tr><td>Reference</td><td>Book 9 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Многие) достойные люди, достойнейшим из которых я считал ‘Умара, говорили при мне, что Пророк ﷺ запрещал молиться после (обязательной) утренней молитвы, пока солнце не поднимется (достаточно высоко), а также после совершения послеполуденной молитвы и до (полного) захода солнца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>581</td></tr><tr><td>Arabic No</td><td>581</td></tr><tr><td>Reference</td><td>Book 9 Hadith 57</td></tr></tbody></table></div>
 

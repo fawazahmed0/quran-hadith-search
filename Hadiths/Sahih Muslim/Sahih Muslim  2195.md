@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Dawud b. 'Amir b. Sa'd b. Abu Waqqas reported on the authority of his father tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Abdullah bin Numair] Telah menceritakan kepada kami [Abdullah bin Yazid] telah menceritakan kepadaku [Haiwah] telah menceritakan kepadaku [Abu Shakhrah] dari [Yazid bin Abdullah bin Qusaith] bahwa ia telah menceritakan kepadanya bahwa [Dawud bin Amir bin Sa'd bin Abu Waqash] telah menceritakan kepadanya dari [bapaknya] bahwa suatu ketika ia pernah duduk di sisi Ibnu Umar, tiba-tiba datanglah khabbab pemilik maqshurah seraya berkata, "Wahai Abdullah bin Umar, tidakkah Anda mendengar apa yang dikatakan oleh [Abu Hurairah], bahwa ia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Barangsiapa yang menghadiri jenazah, lalu ia menshalatkannya dan turut mengantarkannya hingga jenazah itu dikuburkan, maka baginya dua qrath pahala. Setiap qrath adalah seperti gunung Uhud. Dan siapa yang menshalatinya lalu ia langsung pulang, maka baginya adalah pahala seperti gunung Uhud.'" Maka Ibnu Umar pun mengutus Khabbab kepada [Aisyah] untuk menanyakan ungkapan Abu Hurairah. Setelah itu, ia kembali untuk mengabarkan perihal komentar Aisyah. Setelah melihat ia kembali, Ibnu Umar langsung mengambil segenggam pasir yang terhampar di dalam Masjid, ia membolak-balikkannya di tangan hingga utusannya kembali. Sesampainya di situ, sang utusan pun berkata; Aisyah berkata, "Abu Hurairah telah berkata benar." Maka seketika itu, Ibnu Umar pun langsung menghempaskan segenggam tanah di tangannya ke tanah, kemudian ia berkata, "Sungguh, kita telah melewatkan qirath yang banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2195</td></tr><tr><td>Arabic No</td><td>945.07</td></tr><tr><td>Reference</td><td>Book 11 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Амир ибн Са‘д ибн Аби Ваккас рассказывал о том, что однажды он сидел возле ‘Абдуллаха ибн ‘Умара, как вдруг (перед ними) появился Хаббаб, (которого прозвали) владельцем комнаты /сахиб аль-максура/, и сказал: «О ‘Абдуллах ибн ‘Умар! Разве ты не слышал, что говорит Абу Хурайра?! Он говорит, что слышал, как Посланник Аллаха ﷺ говорил: “Кто вышел с похоронной процессией из дома (умершего), совершил (заупокойную) молитву и проводил её, пока (покойного) не захоронили, тот получит два кырата награды, каждый из которых подобен (горе) Ухуд. А кто совершит (заупокойную) молитву, а затем вернётся (домой), тот получит награду, подобную (горе) Ухуд”».Тогда Ибн ‘Умар отправил Хаббаба к ‘Аише, чтобы он спросил её о словах Абу Хурайры, а затем вернулся и поведал ему о том, что она сказала. После этого Ибн ‘Умар взял в руки пригоршню камешков, (лежавших) в мечети, и начал вертеть их в своей руке, пока этот посланец не вернулся к нему. (Вернувшись, Хаббаб) сказал: «‘Аиша ответила: “Абу Хурайра сказал правду!”». Тогда Ибн ‘Умар бросил камешки, находившиеся в его руке, после чего сказал: «Как же много кыратов мы упустили!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2195</td></tr><tr><td>Arabic No</td><td>945.07</td></tr><tr><td>Reference</td><td>Book 11 Hadith 73</td></tr></tbody></table></div>
 

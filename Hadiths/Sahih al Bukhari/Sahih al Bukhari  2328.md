@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) concluded a contract with the peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Anas bin 'Iyadh] dari ['Ubaidullah] dari [Nafi'] bahwa ['Abdullah bin 'Umar radliallahu 'anhuma] mengabarkannya bahwa Nabi shallallahu 'alaihi wasallam memperkerjakan orang untuk memanfaatkan tanah Khaibar dengan ketentuan separuh dari hasilnya berupa kurma atau sayuran untuk pekerja. Beliau membagikan hasilnya kepada isteri-isteri Beliau sebanyak seratus wasaq, delapan puluh wasaq kurma dan dua puluh wasaq gandum. Pada zamannya, 'Umar radliallahu 'anhu membagi-bagikan tanah Khaibar. Maka isteri-isteri Nabi shallallahu 'alaihi wasallam ada yang mendapatkan air (sumur), tanah atau seperti hak mereka sebelumnya. Dan diantara mereka ada yag memilih tanah dan ada juga yang memilih menerima haq dari hasilnya. Sedangkan 'Aisyah radliallahu 'anha memilih tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2328</td></tr><tr><td>Arabic No</td><td>2328</td></tr><tr><td>Reference</td><td>Book 41 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ позволил (иудеям, населявшим) Хайбар, обрабатывать (его земли) за половину урожая фиников или посевов, и он отдавал каждой из своих жён по сто васков, восемьдесят из которых составляли собой финики, а двадцать — ячмень. Что же касается ‘Умара, то он разделил Хайбар и предложил жёнам Пророка ﷺ либо выделить им (соответствующие) доли воды и земли, либо снабжать их (продуктами). Некоторые из них выбрали землю, другие — продукты, а ‘Аиша выбрала землю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2328</td></tr><tr><td>Arabic No</td><td>2328</td></tr><tr><td>Reference</td><td>Book 41 Hadith 9</td></tr></tbody></table></div>
 

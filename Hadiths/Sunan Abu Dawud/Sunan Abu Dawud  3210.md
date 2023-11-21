@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Marhab:That 'Abd al-Rahman b. 'Awf alighted in the grave of the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabbah], telah mengabarkan kepada kami [Sufyan] dari [Ibnu Abu Khalid] dari [Asy Sya'bi] dari [Abu Marhab] bahwa Abdurrahman bin 'Auf turun ke kuburan Nabi shallallahu 'alaihi wasallam. Abu Marhab berkata; aku melihat mereka berjumlah empat orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3210</td></tr><tr><td>Arabic No</td><td>3210</td></tr><tr><td>Reference</td><td>Book 21 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Мураххаб передал, что ‘Абдуррахман ибн ‘Ауф спустился в могилу Пророка ﷺ. И он сказал: «Я как будто и сейчас смотрю на них четверых»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3210</td></tr><tr><td>Arabic No</td><td>3210</td></tr><tr><td>Reference</td><td>Book 21 Hadith 122</td></tr></tbody></table></div>
 

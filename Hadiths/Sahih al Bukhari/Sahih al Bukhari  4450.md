@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:'Aisha said, "Allah's Messenger (ﷺ) in his fatal illness, used 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4450</td></tr><tr><td>Arabic No</td><td>4450</td></tr><tr><td>Reference</td><td>Book 64 Hadith 470</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что, заболев той болезнью, от которой он умер, Посланник Аллаха ﷺ спрашивал: «Где я буду завтра? Где я буду завтра?» — желая, чтобы поскорее настал день ‘Аиши. И его жёны согласились на то, чтобы он сам выбрал, где ему быть, и он выбрал дом ‘Аиши, где и скончался. ‘Аиша рассказывала: «Он скончался в тот день, который он должен провести у меня, в моём доме. Аллах забрал его (душу), когда его голова покоилась между моей шеей и грудью. И (в тот день) слюна его смешалась с моей». Затем она объяснила: «’Абдуррахман ибн Аби Бакр зашёл, держа в руке сивак, которым он чистил зубы. И Посланник Аллаха, да благословит его Аллах и приветствует, посмотрел на него, и я сказала ему: “Отдай мне этот сивак, о ’Абдуррахман”. Он дал мне его, и я обкусила его и размягчила его зубами, и дала Посланнику Аллаха ﷺ, и он почистил им зубы, прислонившись к моей груди»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4450</td></tr><tr><td>Arabic No</td><td>4450</td></tr><tr><td>Reference</td><td>Book 64 Hadith 470</td></tr></tbody></table></div>
 

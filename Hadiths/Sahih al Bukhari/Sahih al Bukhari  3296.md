@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin 'Abdullah bin 'Abdur-Rahman bin Abi Sasaa Ansari:That
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah] dari [Malik] dari ['Abdur Rahman bin 'Abdullah bin 'Abdur Rahman bin Abi Sha'sha'ah Al Anhariy] dari [bapaknya] nahwa dia mengabarkan kepadanya bahwa [Abu Sa'id Al Khudriy radliallahu 'anhu] berkata kepadanya; "Aku melihat kamu orang yang menyukai kambing dan lembah. Maka jika kamu sedang bersama kambingmu dan berada di lembah lalu kamu mengumandangkan adzan untuk shalat maka keraskanlah suaramu dalam mengumandangkan adzan tersebut, karena tidak ada seorangpun yang mendengar suara mu'adzin, apakah dia itu jin, manusia atau apapun melainkan dia akan bersaksi baginya (mu'adzin itu) pada hari qiyamat". Abu Sa'id berkata; "Aku mendengar keterangan ini dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3296</td></tr><tr><td>Arabic No</td><td>3296</td></tr><tr><td>Reference</td><td>Book 59 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн ‘Абдуллах ибн ‘Абдуррахман ибн Аби Са‘са‘а аль-Ансари рассказал о том, что его отец сообщил ему, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал ему: «Поистине, я вижу, что ты любишь овец и пустыню. Когда ты будешь со своими овцами и в своей пустыне и станешь произносить призыв к молитве, повышай свой голос при его возвещении, ибо, поистине, кто бы ни услышал (голос) муаззина, будь то джинн, человек или любое иное (создание), они обязательно будут свидетельствовать об этом в День воскрешения». \nАбу Са‘ид сказал: «Я слышал это от Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3296</td></tr><tr><td>Arabic No</td><td>3296</td></tr><tr><td>Reference</td><td>Book 59 Hadith 105</td></tr></tbody></table></div>
 

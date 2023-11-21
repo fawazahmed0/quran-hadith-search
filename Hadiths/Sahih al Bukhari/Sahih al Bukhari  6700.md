@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "Whoever vowed to be obedient to Allah, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Malik] dari [Thalhah bin Abdul Malik] dari [Al Qasim] dari ['Aisyah] radliallahu 'anha mengatakan, Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa bernadzar untuk menaati Allah, taatilah DIA, dan barangsiapa bernadzar untuk berma'siat kepada-NYA, janganlah berma'siat kepada-NYA
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6700</td></tr><tr><td>Arabic No</td><td>6700</td></tr><tr><td>Reference</td><td>Book 83 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ сказал: “Кто дал обет покорности Аллаху, пусть исполняет его, а кто дал обет ослушаться Аллаха, пусть не ослушивается Его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6700</td></tr><tr><td>Arabic No</td><td>6700</td></tr><tr><td>Reference</td><td>Book 83 Hadith 77</td></tr></tbody></table></div>
 

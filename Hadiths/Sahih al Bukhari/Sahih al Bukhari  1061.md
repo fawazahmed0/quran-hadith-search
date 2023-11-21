@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ And this was narrated by Asma' who said, "Allah's Messenger (ﷺ) finished the e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1061</td></tr><tr><td>Arabic No</td><td>1061</td></tr><tr><td>Reference</td><td>Book 16 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма сказала: «Когда Посланник Аллаха ﷺ завершил молитву, солнце уже прояснилось. Он обратился к людям с проповедью, воздал хвалу Аллаху так, как Ему подобает, и сказал: “А затем”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1061</td></tr><tr><td>Arabic No</td><td>1061</td></tr><tr><td>Reference</td><td>Book 16 Hadith 20</td></tr></tbody></table></div>
 

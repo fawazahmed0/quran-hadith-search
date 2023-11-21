@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Bara’ b. Azib reported :The Messenger of Allah (May peace be upon him) was ask
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al-A'masy] dari [Abdullah bin Abdillah Ar-Razi] dari [Abdurrahman bin Abi Laila] dari [Al-Bara' bin Azib] dia berkata; Rasulullah shallallahu 'alaihi wasallam ditanya tentang shalat di tempat peristirahatan unta, maka beliau menjawab: "Janganlah kalian shalat di tempat peristirahatan unta, karena ia dari setan." Kemudian beliau ditanya tentang shalat di tempat peristirahatan kambing, maka beliau menjawab: "Silahkan shalat padanya, karena ia adalah berkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>493</td></tr><tr><td>Arabic No</td><td>493</td></tr><tr><td>Reference</td><td>Book 2 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ ибн ‘Азиб сказал: «(Однажды) Посланника Аллаха ﷺ спросили о совершении молитвы в загоне для верблюдов и он сказал: “Не молитесь в загоне для верблюдов, так как они из шайтанов”. (Затем) его спросили о молитве в загоне для овец, и он сказал: “Молитесь в них, ибо, поистине, это место благословенно”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>493</td></tr><tr><td>Arabic No</td><td>493</td></tr><tr><td>Reference</td><td>Book 2 Hadith 103</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Sa'id al-Asyaj] dan [Abu Kuraib Muhammad bin al-Ala'] serta [Ishaq bin Ibrahim], Ishaq berkata, telah mengabarkan kepada kami, sedangkan dua orang lainnya berkata, telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [al-A'masy] dia berkata, saya mendengar [Mujahid] menceritakan dari [Thawus] dari [Ibnu Abbas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melewati dua kuburan, beliau lalu bersabda: "Ketahuilah, sesungguhnya dua mayat ini sedang disiksa. Dan mereka berdua disiksa bukan karena melakukan dosa besar. Salah seorang di antara mereka disiksa karena suka mengadu-domba sedangkan yang lainnya disiksa karena tidak memasang satir saat kencing." Kemudian beliau meminta pelepah kurma basah, lalu membelahnya menjadi dua. Kemudian beliau menanam salah satunya pada kubur yang pertama dan yang satu lagi pada kubur yang kedua sambil bersabda: "Semoga pelepah ini bisa meringankan siksa keduanya, selama ia belum kering." Telah menceritakan kepadaku tentangnya [Ahmad bin Yusuf al-Azdi] telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami [Abdul Wahid] dari [Sulaiman al-A'masy] dengan sanad ini, hanya saja dia menyebutkan, "Sedangkan yang lain tidak berhati-hati (membersihkan) saat kencing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>677</td></tr><tr><td>Arabic No</td><td>292.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, от Ибн ‘Аббаса, что (однажды) пройдя мимо (каких-то) двух могил, Посланник Аллаха ﷺ сказал: «Поистине, (обитателей) двух этих могил подвергают мучениям, и мучают их не за что-то большое. Что касается первого, то он распространял сплетни /намима/, а что касается второго, то он не укрывался от собственной мочи». Затем он попросил принести ему свежесорванную, голую пальмовую ветвь, разломал её на две части и воткнул одну (часть) на (могилу) одного (из них), а другую на могилу другого, после чего сказал: «Возможно, это будет облегчать их мучения, пока ветки не засохнут»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>677</td></tr><tr><td>Arabic No</td><td>292.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 143</td></tr></tbody></table></div>
 

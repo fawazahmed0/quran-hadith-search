@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:Allah has not liste
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Sulaiman bin Daud Al Mahri], telah mengabarkan kepada Kami [Ibnu Wahb], telah menceritakan kepadaku [Umar bin Malik] serta [Haiwah] dari [Ibnu Al Had] dari [Muhammad bin Ibrahim bin Al Harits] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] bahwa Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Tidaklah Allah memberikan izin untuk melakukan sesuatu sebagaimana Allah memberikan izin kepada seorang nabi yang indah suaranya memperindah bacaan Al Qur'an, dan mengeraskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7544) Sahih Muslim (792)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>1473</td></tr><tr><td>Reference</td><td>Book 8 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Никому не внимал Аллах так, как внимал Он пророку с красивым голосом, который читает Коран нараспев, читая его вслух»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7544) Sahih Muslim (792)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>1473</td></tr><tr><td>Reference</td><td>Book 8 Hadith 58</td></tr></tbody></table></div>
 

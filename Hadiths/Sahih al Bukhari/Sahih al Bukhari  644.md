@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "By Him in Whose Hand my soul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada di tangan-Nya, sungguh aku ingin memerintahkan seseorang mengumpulkan kayu bakar kemudian aku perintahkan seseorang untuk adzan dan aku perintahkan seseorang untuk memimpin orang-orang shalat. Sedangkan aku akan mendatangi orang-orang (yang tidak ikut shalat berjama'ah) lalu aku bakar rumah-rumah mereka. Demi Dzat yang jiwaku berada di tangan-Nya, seandainya seseorang di antara kalian mengetahui bahwa ia akan memperaleh daging yang gemuk, atau dua potongan daging yang bagus, pasti mereka akan mengikuti shalat 'Isya berjama'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>644</td></tr><tr><td>Arabic No</td><td>644</td></tr><tr><td>Reference</td><td>Book 10 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Клянусь Тем, в Чьей длани душа моя, (бывало так, что) хотел я приказать насобирать дров, потом велеть призвать (людей) на молитву, потом велеть кому-нибудь быть имамом, а потом явиться к тем людям(, которые не пришли на молитву,) и сжечь их дома дотла! Клянусь Тем, в Чьей длани душа моя, если бы кто-нибудь из них узнал, что получит здесь кость с куском жирного мяса или пару добрых овечьих копыт, он непременно явился бы на вечернюю молитву!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>644</td></tr><tr><td>Arabic No</td><td>644</td></tr><tr><td>Reference</td><td>Book 10 Hadith 41</td></tr></tbody></table></div>
 

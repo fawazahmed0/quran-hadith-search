@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Mainsur with the same chain of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Zuhair bin Harb] -Yahya berkata- telah mengabarkan kepada kami -Zuhair berkata- Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Hazim] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang mendatangi Baitullah ini (untuk haji atau umrah) tanpa merusaknya dengan perbuatan dan perkataan kotor, serta tidak berbuat maksiat, maka dia kembali pada keadaannya seperti baru lahir (bersih dari dosa)." Dan Telah menceritakannya kepada kami [Sa'id bin Manshur] dari [Abu Awanah] dan [Abul Ahwash] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Mis'ar] dan [Sufyan] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] semua mereka itu dari [Manshur] dengan isnad ini, dan di dalam hadits mereka semua tercantum; "Siapa yang menunaikan ibadah haji dengan tidak merusaknya dengan perbuatan dan kata-kata kotor." Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Husyaim] dari [Sayyar] dari [Abu Hazim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3292</td></tr><tr><td>Arabic No</td><td>1350.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 496</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3292</td></tr><tr><td>Arabic No</td><td>1350.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 496</td></tr></tbody></table></div>
 

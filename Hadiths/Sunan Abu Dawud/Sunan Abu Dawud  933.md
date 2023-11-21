@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Wail b, hujr said that he prayed behind the Messenger of Allah (ﷺ),and he said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makhlad bin Khalid As Sya'iri] telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ali bin Shalih] dari [Salamah bin Kuhail] dari [Hujr bin 'Anbas] dari [Wa'il bin Hujr] bahwa dia shalat di belakang Rasulullah shallallahu 'alaihi wasallam, lalu beliau mengeraskan suara bacaan "Amin" dan memberi salam ke kanan dan ke kiri sehingga aku melihat putihnya pipi beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>933</td></tr><tr><td>Arabic No</td><td>933</td></tr><tr><td>Reference</td><td>Book 2 Hadith 544</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ваиля ибн Худжра, да будет доволен им Аллах, что однажды он совершал молитву под руководством Посланника Аллаха ﷺ и тот сказал: «Амин» вслух и произнёс слова таслима, поворачивая голову сначала направо, потом налево так, что становилась видна белизна его щёк
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>933</td></tr><tr><td>Arabic No</td><td>933</td></tr><tr><td>Reference</td><td>Book 2 Hadith 544</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Salamah Musa bin Isma'il] telah menceritakan kepada kami [Aban] telah menceritakan kepadaku [Yahya] dari [Abdullah bin Abu Qatadah] dari [Ayahnya] bahwa ia telah melarang dari pencampuran anggur dan kurma, pencampuran zahw (kurma mentah) dan kurma segar." Beliau bersabda: "Peraslah masing-masing secara tersendiri!" Dan telah menceritakan kepadaku [Abu Salamah bin Abdurrahman] dari [Abu Qatadah] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5602) Sahih Muslim (1988)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3704</td></tr><tr><td>Arabic No</td><td>3704</td></tr><tr><td>Reference</td><td>Book 27 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Абу Катада передаёт от своего отца, что он запретил делать плодовый настой (набиз) из смеси изюма и сушёных фиников, а также из смеси недозрелых и сушёных фиников, а также из смеси недозрелых и свежих фиников и сказал: «Настаивайте каждый вид в отдельности»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5602) Sahih Muslim (1988)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3704</td></tr><tr><td>Arabic No</td><td>3704</td></tr><tr><td>Reference</td><td>Book 27 Hadith 36</td></tr></tbody></table></div>
 

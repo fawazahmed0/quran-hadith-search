@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) said, "If any one of you improve (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] berkata, telah menceritakan kepada kami [Abdurrazzaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Hamam bin Munabbih] dari [Abu Hurairah] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seorang dari kalian memperbaiki keIslamannya maka dari setiap kebaikan akan ditulis baginya sepuluh (kebaikan) yang serupa hingga tujuh ratus tingkatan, dan setiap satu kejelekan yang dikerjakan akan ditulis satu kejelekan saja yang serupa dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>42</td></tr><tr><td>Arabic No</td><td>42</td></tr><tr><td>Reference</td><td>Book 2 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Если кто-то из вас будет исповедовать Ислам хорошо, то за каждое благое дело, которое он совершит, ему запишут от десяти до семиста подобных (дел). А за каждое дурное дело, которое он совершит, ему запишут подобное этому (дурному делу)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>42</td></tr><tr><td>Arabic No</td><td>42</td></tr><tr><td>Reference</td><td>Book 2 Hadith 35</td></tr></tbody></table></div>
 

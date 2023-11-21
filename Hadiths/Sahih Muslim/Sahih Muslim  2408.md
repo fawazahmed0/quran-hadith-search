@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn al-Sa'di Maliki reported:'Umar b. Khattab (Allah be pleased with him) appoin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Bukair] dari [Busr bin Sa'id] dari [Ibnu As Sa'idi Al Maliki] bahwa ia berkata; [Umar bin Al Khaththab] pernah menugaskanku sebagai amil zakat. Setelah tugas itu selesai kulaksanakan, dan hasil zakat yang kukumpulkan telah kuserahkan kepadanya, maka Umar menyuruhku mengambil bagian amil untukku. Lalu jawabku, "Aku bekerja karena Allah, karena itu upahku pun kuserahkan kepada Allah." Umar berkata, "Ambillah apa yang diberikan kepadamu itu, sesungguhnya aku pernah pula bertugas pada masa Rasulullah shallallahu 'alaihi wasallam sebagai amil zakat. Aku menolak pemberian itu seraya menjawab seperti jawabanmu pula. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: 'Apabila kamu diberi orang suatu pemberian tanpa kamu minta, makanlah atau sedekahkanlah.'" Dan telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru bin Harits] dari [Bukair bin Al Asyajj] dari [Busyr bin Sa'id] dari [Ibnu Sa'di] bahwa ia berkata; [Umar bin Khaththab] pernah menugaskanku sebagai amil zakat. Yakni sebagaimana hadits Laits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2408</td></tr><tr><td>Arabic No</td><td>1045.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ас-Са‘иди аль-Малики рассказывал: «В своё время ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, назначил меня сборщиком закята, и когда я выполнил свои обязанности и отдал ему собранное, он велел выплатить мне то, что полагается выплачивать сборщику закята, и я сказал: “Поистине, я работал только ради Аллаха, и моя награда у Аллаха”. ‘Умар сказал: “Возьми то, что тебе дают, ибо во времена Посланника Аллаха ﷺ я тоже был сборщиком закята, и он дал мне плату. Я сказал то же самое, что и ты сейчас, и Посланник Аллаха ﷺ сказал мне: “Если тебе дали что-то, о чём ты не просил, то ешь это сам и отдавай в качестве милостыни /садака/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2408</td></tr><tr><td>Arabic No</td><td>1045.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 145</td></tr></tbody></table></div>
 

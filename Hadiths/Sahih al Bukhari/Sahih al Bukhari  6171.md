@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A man asked the Prophet (ﷺ) "When will the Hour be est
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Ayahku] dari [Syu'bah] dari ['Amru bin Murrah] dari [Salim bin Abu Al Ja'd] dari [Anas bin Malik] bahwa seorang laki-laki bertanya kepada Nabi shallallahu 'alaihi wasallam; "Kapankah hari Kiamat terjadi wahai Rasulullah?" beliau menjawab: "Apa yang telah kau persiapkan untuknya?" laki-laki itu menjawab; "Aku belum mempersiapkan banyak, baik itu shalat, puasa ataupun sedekah, namun aku hanya mencintai Allah dan Rasul-Nya." Belaiu bersabda: "Kamu akan bersama dengan orang yang kamu cintai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6171</td></tr><tr><td>Arabic No</td><td>6171</td></tr><tr><td>Reference</td><td>Book 78 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, что один мужчина спросил Пророка ﷺ: "Когда наступит (Судный) час, о Посланник Аллаха?" На это Пророк ﷺ сказал: "А что ты для него приготовил?" Тот ответил: "Я не приготовил для него много молитв, поста и милостыни, но я люблю Аллаха и Его посланника". На это Пророк ﷺ сказал: "Ты будешь с тем, кого любишь
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6171</td></tr><tr><td>Arabic No</td><td>6171</td></tr><tr><td>Reference</td><td>Book 78 Hadith 197</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the prophet (ﷺ) as saying; when the imam recites “ not
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Sumayy bekas budak Abu Bakar] dari [Abu Shalih As Saman] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila imam mengucapkan; "Ghairil maghdluubi 'alaihim waladl dlaallin" maka ucapkanlah 'Amiin" karena barangsiapa bacaan aminnya bersamaan dengan Malaikat, maka dosanya yang telah lalu akan terampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (782) Sahih Muslim (409)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>935</td></tr><tr><td>Arabic No</td><td>935</td></tr><tr><td>Reference</td><td>Book 2 Hadith 546</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда имам скажет: “Не тех, которые под гневом, и не заблудших”, скажите: “Амин”, ибо, поистине, тому, кто произнесёт его одновременно с ангелами, будут прощены его прежние (малые) грехи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (782) Sahih Muslim (409)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>935</td></tr><tr><td>Arabic No</td><td>935</td></tr><tr><td>Reference</td><td>Book 2 Hadith 546</td></tr></tbody></table></div>
 

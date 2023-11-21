@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: I Ammar, and Sa'd became partners in what we would
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz], telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Sufyan] dari [Abu Ishaq] dari [Abu 'Ubaidah] dari [Abdullah] ia berkata; aku dan 'Ammar serta Sa'd bersekutu pada apa yang kami dapatkan ketika perang Badr, Abdullah berkata; kemudian Sa'd membawa dua orang tawanan sementara aku dan 'Ammar tidak membawa sesuatu pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах, да будет доволен им Аллах, передаёт: «В день битвы при Бадре я договорился с ‘Аммаром и Са‘дом, что мы поделим друг с другом любые захваченные трофеи. Случилось так, что Са‘д захватил двух пленных, а мы с ‘Аммаром так ничего и не захватили»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
 

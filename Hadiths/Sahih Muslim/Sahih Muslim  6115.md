@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by Abu Huraira through a different chain of transm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya At Tujibi]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah mengabarkan kepadaku [Abu Salamah bin 'Abdur Rahman] dan [Sa'id bin Al Musayyab] keduanya berkata; [Abu Hurairah] bercerita bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Apa yang telah aku larang untukmu maka jauhilah. Dan apa yang kuperintahkan kepadamu, maka kerjakanlah dengan sekuat tenaga kalian. Sesungguhnya umat sebelum kalian binasa karena mereka banyak tanya, dan sering berselisih dengan para Nabi mereka." Dan telah menceritakan kepadaku [Muhammad bin Ahmad bin Abu Khalaf]; Telah menceritakan kepada kami [Abu Salamah] yaitu Manshur bin Salamah Al Khuza'i; Telah mengabarkan kepada kami [Laits] dari [yazid bin Al Had] dari [Ibnu Syihab] melalui jalur ini dengan Hadits yang serupa. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya Telah menceritakan kepada kami [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku] seluruhnya dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Al Mughirah] yaitu Al Hizami; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] seluruhnya dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakannya kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku] Telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Ziyad] dia mendengar [Abu Hurairah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Minabbih] dari [Abu Hurairah] seluruhnya dia berkata dari Nabi shallallahu 'alaihi wasallam sabda: 'Tinggalkanlah oleh kalian apa yang telah aku larang…sedangkan di dalam Hadits Hammam dengan lafazh 'Turiktum', (yang telah aku suruh untuk meninggalkannya) karena celakanya umat sebelum kalian dikarenakan…-kemudian mereka menyebutkan Hadits yang serupa dengan Hadits Az Zuhri dari Sa'id dari Abu Salamah dari Abu Hurairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6115</td></tr><tr><td>Arabic No</td><td>1337.04</td></tr><tr><td>Reference</td><td>Book 43 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6115</td></tr><tr><td>Arabic No</td><td>1337.04</td></tr><tr><td>Reference</td><td>Book 43 Hadith 173</td></tr></tbody></table></div>
 

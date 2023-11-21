@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), la formule de la Ta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abbad] telah menceritakan kepada kami [Hatim bin Isma'il] dari [Musa bin Uqbah] dari [Salim bin Abdullah bin Umar] dan [Nafi'] Maula Abdullah dan [Hamzah bin Abdullah] dari [Abdullah bin Umar] radliallahu 'anhuma, bahwasanya; Apabila Rasulullah shallallahu 'alaihi wasallam telah naik di atas kendaraannya di dekat Masjid Dzulhulaifah, maka beliau bertalbiyah dengan mengucapkan: "LABBAIKA ALLAHUMMA LABBAIKA LAA SYARIIKA LAKA LABBAIKA INNAL HAMDA WAN NI'MATA LAKA WAL MULKA LAA SYARIIKA LAKA (Kupatuhi perintah-Mu ya Allah, kupatuhi Engkau. Kupatuhi Engkau, Kupatuhi Engkau, tiada sekutu bagi-Mu. Kupatuhi Engkau, sesungguhnya segala pujian dan kenikmatan adalah milik-Mu, begitu pula kekuasaan, tiada sekutu bagi-Mu)." Mereka berkata; Abdullah bin Umar radliallahu 'anhuma berkata, "Ini adalah Talbiyah Rasulullah shallallahu 'alaihi wasallam." Nafi' berkata; Abdullah bin Umar radliallahu 'anhuma menambahkan Talibiyah tersebut dengan bacaan: "LABBAIKA LABBAIKA WA SA'DAIKA WAL KHAIRU BIYADIKA LABBAIKA WARRAGHBAA'U ILAIKA WAL'AMAL (Aku penuhi panggilan-Mu, ya Allah untuk mencari ridla-Mu. Kebaikan ada dalam kekuasaan-Mu. Aku penuhi panggilan-Mu, ya Allah, sebagai amal ibadah untuk mencari ridla-Mu)." Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ubaidullah] telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, ia berkata; Saya telah menghafal Talbiyah dari lisan Rasulullah shallallahu 'alaihi wasallam. maka ia pun menyebutkan hadits yang serupa dengan hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2812</td></tr><tr><td>Arabic No</td><td>1184.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2812</td></tr><tr><td>Arabic No</td><td>1184.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 22</td></tr></tbody></table></div>
 

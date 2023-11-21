@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4160</td></tr><tr><td>Arabic No</td><td>4160</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Аслям сказал: «Однажды, когда я отправился с ’Умаром ибн аль-Хаттабом на рынок, какая-то молодая женщина догнала ’Умара и сказала: “О повелитель правоверных! Мой муж умер, оставив маленьких детей. Клянусь Аллахом, у них нет ни мяса, ни овощей, ни молока, и я боюсь, что они умрут от голода. Я дочь Хуфафа ибн Имаъ аль-Гифари, а мой отец был вместе с Пророком ﷺ в аль-Худайбиййи”. Тогда ’Умар остановился и сказал: “Приветствую близкого родственника”. Затем он подошел к сильному верблюду, который был привязан в его доме, взвалил на него две большие корзины еды, положил между ними деньги и одежду, дал ей поводья и сказал: “Веди его (к себе домой)! И не успеет это закончится, как Аллах (снова) даст вам благо”. Один человек сказал: “О повелитель правоверных! Ты дал ей слишком много”. ‘Умар ответил: “Да лишиться тебя твоя мать! Клянусь Аллахом, я видел, как её отец и брат долгое время осаждали крепость и завоевывали её, а потом мы делили их долю из военной добычи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4160</td></tr><tr><td>Arabic No</td><td>4160</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Masud Al-Badri:Allah's Messenger (ﷺ) said, "It is sufficient for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4008</td></tr><tr><td>Arabic No</td><td>4008</td></tr><tr><td>Reference</td><td>Book 64 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мас‘уда аль-Бадри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тому, кто станет читать ночью два последних аята из суры “аль-Бакара”, этого будет достаточно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4008</td></tr><tr><td>Arabic No</td><td>4008</td></tr><tr><td>Reference</td><td>Book 64 Hadith 59</td></tr></tbody></table></div>
 

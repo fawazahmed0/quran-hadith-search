@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Bishr:as above (No. 290) adding: The Prophet (ﷺ) was reclining (leani
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6274</td></tr><tr><td>Arabic No</td><td>6274</td></tr><tr><td>Reference</td><td>Book 79 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Говоря это, Пророк ﷺ полулежал на боку), опираясь на руку, а потом он сел и сказал: «И, поистине, (это —) лживые речи!», — и (Пророк ﷺ) продолжал повторять (эти слова), пока мы не стали говорить: «О если бы он замолчал!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6274</td></tr><tr><td>Arabic No</td><td>6274</td></tr><tr><td>Reference</td><td>Book 79 Hadith 48</td></tr></tbody></table></div>
 

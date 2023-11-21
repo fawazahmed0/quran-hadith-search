@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mughaffal:The prophet said, "There is a prayer between th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yazid] berkata, telah menceritakan kepada kami [Kahmas bin Hasan] dari ['Abdullah bin Buraidah] dari ['Abdullah bin Mughaffal] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Antara dua adzan (adzan dan iqamah) ada shalat (sunah)." Kemudian pada ucapan beliau yang ketiga kalinya, beliau menambahkan: "Bagi yang mau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>627</td></tr><tr><td>Arabic No</td><td>627</td></tr><tr><td>Reference</td><td>Book 10 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мугъаффаль, да будет доволен им Аллах, сказал: «(Как-то раз) Пророк ﷺ сказал: “Между каждыми двумя призывами — молитва, между каждыми двумя призывами — молитва”, — добавив на третий раз: “Для тех, кто пожелает”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>627</td></tr><tr><td>Arabic No</td><td>627</td></tr><tr><td>Reference</td><td>Book 10 Hadith 24</td></tr></tbody></table></div>
 

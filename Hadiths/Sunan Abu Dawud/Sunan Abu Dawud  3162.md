@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by Abu Hurairah through 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Ibnu Abu Fudaik], telah menceritakan kepadaku [Ibnu Abu Dzi'b] dari [Al Qasim bin Abbas] dari ['Amr bin 'Umair] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang memandikan mayit, maka hendaknya ia mandi, dan barangsiapa yang membawanya maka hendaknya ia berwudhu." Telah menceritakan kepada kami [Hamid bin Yahya], dari [Sufyan] dari [Suhail bin Abu Shalih] dari [ayahnya] dari [Ishaq] mantan budak Zaidah, dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam semakna dengan hadits tersebut. Abu Daud berkata; hadits ini adalah hadits yang mansukh (yang terhapus), dan aku telah mendengar Ahmad bin Hanbal ditanya mengenai memandikan mayit. Kemudian ia berkata; cukup baginya untuk berwudhu. Abu Daud berkata; Abu Shalih telah memasukkan Ishaq mantan budak Zaidah di antara dirinya dan Abu Hurairah. Abu Daud berkata; hadits Mush'ab adalah lemah padanya terdapat sifat yang tidak menjadi sandaran untuk beramal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3162</td></tr><tr><td>Arabic No</td><td>3162</td></tr><tr><td>Reference</td><td>Book 21 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От Абу Хурайры от Пророка ﷺ передаётся похожий хадис. Абу Дауд сказал: «Это отменено. Я слышал, как Ахмада ибн Ханбаля спросили о том, кто омывал тело покойного, и он сказал: “Ему достаточно совершить малое омовение /вуду/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3162</td></tr><tr><td>Arabic No</td><td>3162</td></tr><tr><td>Reference</td><td>Book 21 Hadith 74</td></tr></tbody></table></div>
 

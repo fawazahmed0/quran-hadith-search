@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad bin Yazid:I asked 'Aisha "What did the Prophet (ﷺ) use to do
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] Telah menceritakan kepada kami [Syu'bah] dari [Al Hakam bin Utbah] dari [Ibrahim] dari [Al Aswad bin Yazid] ia berkata; Aku bertanya kepada [Aisyah] radliallahu 'anha mengenai apa saja yang dilakukan Nabi shallallahu 'alaihi wasallam di rumah. Maka ia pun menjawab, "Beliau turut membantu pekerjaan keluarganya, dan bila beliau mendengar adzan, beliau pun keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5363</td></tr><tr><td>Arabic No</td><td>5363</td></tr><tr><td>Reference</td><td>Book 69 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Асвад ибн Язид сказал: «(Однажды) я спросил ‘Аишу, да будет доволен ею Аллах: “Чем занимался Пророк ﷺ у себя дома?” Она ответила: “Он помогал (какой-нибудь из) своих жён в работе по дому, а услышав призыв на молитву, отправлялся (совершать её)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5363</td></tr><tr><td>Arabic No</td><td>5363</td></tr><tr><td>Reference</td><td>Book 69 Hadith 13</td></tr></tbody></table></div>
 

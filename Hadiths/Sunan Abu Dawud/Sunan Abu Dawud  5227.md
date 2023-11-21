@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Imran ibn Husayn: In the pre-Islamic period we used to say: "May Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Salamah bin Syabib] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Qatadah] atau selainnya, bahwa [Imran bin Hushain] berkata, "Pada masa Jahilliyah kami biasa mengucapkan 'Kiranya Allah menjadikan kedua matamu memandang sejuk terhadap siapa saja yang engkau cintai atau 'Kiranya pagi ini engkau peroleh kebahagiaan'. Setelah Islam datang, kami dilarang dari kesemua ucapan ini." Abdurrazaq berkata, "Ma'mar mengatakan, "Dimakruhkan seseorang mengatakan 'Kiranya Allah menjadikan kedua matamu memandang sejuk terhadap siapa saja yang engkau cintai', namun tidak salah jika ia mengatakan 'Kiranya Allah mengugerahkan nikmat terhadap kedua matamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5227</td></tr><tr><td>Arabic No</td><td>5227</td></tr><tr><td>Reference</td><td>Book 43 Hadith 455</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5227</td></tr><tr><td>Arabic No</td><td>5227</td></tr><tr><td>Reference</td><td>Book 43 Hadith 455</td></tr></tbody></table></div>
 

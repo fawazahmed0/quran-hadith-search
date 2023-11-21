@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that when Allah's Messenger (ﷺ) came to visit any sick he supp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata; Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Adh Dhuha] dari [Masruq] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam apabila menjenguk orang sakit beliau mengucapkan kepadanya: "Wahai Rabb manusia, singkirkanlah penyakit ini dan sembuhkanlah ia Karena hanya Engkaulah yang bisa menyembuhkannya, tiada kesembuhan kecuali dari-Mu, kesembuhan yang tidak akan menyebabkan penyakit lagi." Dan di dalam riwayat Abu Bakr di sebutkan; 'Lalu beliau mendoakannya seraya berucap: 'Dan Engkalah yang bisa menyembuhkan.' Dan telah menceritakan kepadaku [Al Qasim bin Zakaria]; Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Israil] dari [Manshur] dari [Ibrahim] dan [Muslim bin Shubaih] dari [Masruq] dari ['Aisyah] dia berkata; 'Rasulullah shallallahu 'alaihi wasallam apabila… (dan seterusnya) seperti Hadits Abu 'Awanah dan Jarir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5710</td></tr><tr><td>Arabic No</td><td>2191.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5710</td></tr><tr><td>Arabic No</td><td>2191.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 64</td></tr></tbody></table></div>
 

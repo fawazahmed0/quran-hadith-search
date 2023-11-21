@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik (Allah be pleased with him) reported that Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Abdul A'la] Telah menceritakan kepada kami [Hisyam] dari [Muhammad] dari [Anas bin Malik] bahwasanya; Setelah Rasulullah shallallahu 'alaihi wasallam melempar Jamratul 'Aqabah, beliau langsung bergegas menuju Unta (hewan kurbannya) dan menyembelihnya. Sementarara tukang bekam sedang duduk di sekitar itu. Maka beliau memberi isyarat dengan tangannya ke arah kepala (agar ia mencukurnya). Lalu tukang cukur itu pun mencukur rambut beliau yang sebelah kanan dan kemudian beliau membagikannya kepada orang yang berada di dekatnya. Setelah itu, rambut yang sebelahnya lagi, kemudian beliau bertanya, "Mana Abu Thalhah?" maka beliau pun memberikan rambut itu padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3154</td></tr><tr><td>Arabic No</td><td>1305.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 358</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3154</td></tr><tr><td>Arabic No</td><td>1305.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 358</td></tr></tbody></table></div>
 

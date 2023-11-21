@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abdullah who said:On the day he returne
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abdullah bin Muhammad bin Asma Ad Bua'i] telah menceritakan kepada kami [Juwairiyah bin Asma] dari [Nafi'] dari [Abdullah] dia berkata, "Ketika kami telah kembali dari perang Ahzab, Rasulullah shallallahu 'alaihi wasallam berseru kepada kami: "Hendaklah tidak ada seorangpun yang melaksanakan shalat zhuhur kecuali jika ia telah sampai di tempat Bani Quraizhah." Lalu sebagian sahabat ada yang khawatir akan habisnya waktu shalat, sehingga mereka melaksanakannya sebelum memasuki daerah Bani Quraizhah. Sedangkan yang lainnya berkata, "Kami tidak akan melaksanakan shalat kecuali pada tempat yang telah Rasulullah shallallahu 'alaihi wasallam pesankan untuk kami, meskipun waktu shalat telah habis." Abdullah berkata, "Dan ternyata beliau tidak mencela salah satu dari kedua kelompok tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4602</td></tr><tr><td>Arabic No</td><td>1770</td></tr><tr><td>Reference</td><td>Book 32 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4602</td></tr><tr><td>Arabic No</td><td>1770</td></tr><tr><td>Reference</td><td>Book 32 Hadith 83</td></tr></tbody></table></div>
 

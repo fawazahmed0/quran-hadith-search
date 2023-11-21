@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Salamah said “We went out (on an expedition) with Abu Bakr. The Apostle of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah], ia berkata; telah menceritakan kepada kami [Hisyam bin Al Qasim], ia berkata; telah menceritakan kepada kami [Ikrimah], ia berkata; telah menceritakan kepadaku [Iyas bin Salamah], ia berkata; telah menceritakan kepadaku [ayahku], ia berkata; kami keluar bersama Abu Bakr dan Rasulullah shallallahu 'alaihi wasallam telah menjadikannya pemimpin atas kami. Kemudian kami memerangi Fazarah dan kami menyerbu dari setiap penjuru. Kemudian aku melihat kepada sekelompok orang padanya terdapat anak-anak dan wanita. Lalu aku memanah dan jatuh diantara mereka dan gunung, kemudian mereka berdiri. Lalu aku datang membawa mereka kepada Abu Bakr, dan diantara mereka terdapat seorang wanita dari Fazarah di atasnya terdapat keranjang dari kulit, dan ia membawa seorang anak wanita yang merupakan diantara wanita Arab yang tercantik. Lalu Abu Bakr memberikan anaknya kepadaku, kemudian aku datang ke Madinah dan bertemu dengan Rasulullah shallallahu 'alaihi wasallam. Beliau berkata: "Wahai Salamah, berikan wanita tersebut kepadaku!" Lalu aku katakan; wahai Rasulullah, ia telah membuatku terkagum dan aku belum menggaulinya. Lalu beliau terdiam hingga keesokan harinya Rasulullah shallallahu 'alaihi wasallam bertemu denganku di pasar dan beliau berkata; wahai Salamah, berikan wanita tersebut kepadaku, semoga engkau beruntung. Lalu aku katakan; wahai Rasulullah, demi Allah, aku belum mengaulinya, ia untuk engkau. Kemudian beliau mengirim wanita tersebut kepada penduduk Mekkah yang membawa beberapa orang tawanan, dan beliau menebus mereka dengan wanita tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1755)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>2697</td></tr><tr><td>Reference</td><td>Book 15 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1755)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>2697</td></tr><tr><td>Reference</td><td>Book 15 Hadith 221</td></tr></tbody></table></div>
 

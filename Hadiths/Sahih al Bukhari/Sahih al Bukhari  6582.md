@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Some of my companions will come to me at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Abdul Aziz] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ada beberapa orang sahabatku menuju telagaku, hingga di waktu selanjutnya aku tahu bahwa mereka disingkirkan dariku sehingga aku berteriak-teriak; '(mereka) sahabatku!, ' maka Allah menjawab; 'Engkau tidak tahu apa yang mereka lakukan sepeninggalmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6582</td></tr><tr><td>Arabic No</td><td>6582</td></tr><tr><td>Reference</td><td>Book 81 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что Пророк ﷺ сказал: «Некоторые мои сподвижники придут ко мне, к Водоёму /хауд/. Когда я узнаю их, они будут оторваны от меня, и я скажу: “(Это) мои сподвижники!” Тогда будет сказано: “Ты не знаешь, что они внесли (в религию) после тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6582</td></tr><tr><td>Arabic No</td><td>6582</td></tr><tr><td>Reference</td><td>Book 81 Hadith 170</td></tr></tbody></table></div>
 

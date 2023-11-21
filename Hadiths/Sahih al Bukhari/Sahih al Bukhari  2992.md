@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:We were in the company of Allah's Messenger (ﷺ) (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Sufyan] dari ['Ashim] dari [Abu 'Utsman] dari [Abu Musa Al Asy'ariy radliallahu 'anhu] berkata; Kami pernah bepergian bersama Rasulullah shallallahu 'alaihi wasallam dan apabila menaiki bukit kami bertalbiyah dan bertakbir dengan suara yang keras. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Wahai sekalian manusia, rendahkanlah diri kalian karena kalian tidak menyeru kepada Dzat yang tuli dan juga bukan Dzat yang jauh. Dia selalu bersama kalian dan Dia Maha Mendengar lagi Maha Dekat. Maha suci nama-Nya dan Maha Tinggi kebesaran-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2992</td></tr><tr><td>Arabic No</td><td>2992</td></tr><tr><td>Reference</td><td>Book 56 Hadith 201</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса аль-Аш‘ари, да будет доволен им Аллах, сказал: «Подъезжая к какому-нибудь вади вместе с Посланником Аллаха ﷺ мы громко произносили слова “Нет бога, достойного поклонения, кроме Аллаха /Ля иляха илля-Ллаху/” и “Аллах велик /Аллаху акбар/”, но (через некоторое время) Пророк ﷺ сказал: “О люди, пожалейте себя, ведь взываете вы не к глухому и не к отсутствующему! Поистине, Он с вами, и Он Слышащий, Близкий! Благословенно имя Его и высоко величие Его!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2992</td></tr><tr><td>Arabic No</td><td>2992</td></tr><tr><td>Reference</td><td>Book 56 Hadith 201</td></tr></tbody></table></div>
 

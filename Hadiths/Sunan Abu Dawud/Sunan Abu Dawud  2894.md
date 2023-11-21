@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qabisah ibn Dhuwayb: A grandmother came to AbuBakr asking him for her s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Ibnu Syihab], dari [Utsman bin Ishaq bin Kharasyah], dari [Qabishah bin Dzuaib], bahwa ia berkata; telah datang seorang nenek kepada Abu Bakr Ash Shiddiq, ia bertanya kepadanya mengenai warisannya. Kemudian ia berkata; engkau tidak mendapatkan sesuatupun dalam Kitab Allah Ta'ala, dan aku tidak mengetahui sesuatu untukmu dalam sunnah Nabi shallallahu 'alaihi wasallam. Kembalilah hingga aku bertanya kepada orang-orang. Kemudian Abu Bakr bertanya kepada orang-orang, lalu [Al Mughirah bin Syu'bah] berkata; aku menyaksikan Rasulullah shallallahu 'alaihi wasallam telah memberikan kepadanya seperenam. Kemudian Abu Bakr berkata; apakah ada orang (yang menyaksikan) selainmu? Kemudian [Muhammad bin Maslamah] berdiri dan berkata seperti apa yang dikatakan Al Mughirah bin Syu'bah. Lalu Abu Bakr menerapkannya dan berkata; engkau tidak mendapatkan sesuatupun dalam Kitab Allah Ta'ala, dan keputusan yang telah diputuskan adalah untuk selainmu, dan aku tidak akan menambahkan dalam perkara faraidl, akan tetapi hal itu adalah seperenam. Apabila kalian berdua dalam seperenam tersebut maka seperenam itu dibagi di antara kalian berdua. Siapapun di antara kalian berdua yang melepaskannya maka seperenam tersebut adalah miliknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2894</td></tr><tr><td>Arabic No</td><td>2894</td></tr><tr><td>Reference</td><td>Book 19 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Кабисы ибн Зуайба, что однажды к Абу Бакру ас-Сыддику пришла чья-то бабушка, чтобы спросить, имеет ли она право на наследство. Абу Бакр, да будет доволен им Аллах, сказал: «Я не нахожу в Книге Всевышнего Аллаха никакого права для тебя, и мне неизвестно, чтобы в Сунне пророка Аллаха ﷺ говорилось что-нибудь об этом. Так что вернись пока, а я спрошу людей». Затем он спросил людей, и аль-Мугира ибн Шу‘ба сказал: «В моём присутствии Посланник Аллаха ﷺ дал бабушке шестую часть наследства». Абу Бакр, да будет доволен им Аллах, спросил: «Кто-нибудь может подтвердить сказанное тобой?» Тогда поднялся Ибн Масляма и сказал нечто подобное сказанному аль-Мугирой ибн Шубой, и Абу Бакр, да будет доволен им Аллах, поступил так, как они сказали. Потом другая бабушка пришла к ‘Умару ибн аль-Хаттабу, да будет доволен им Аллах, с просьбой отдать ей её наследство, и ‘Умар сказал: «В Книге Всевышнего Аллаха нет никакого права для тебя, а решение, которое было вынесено, было вынесено не относительно тебя, и я не собираюсь ничего добавлять к оговорённым долям наследства. Шестая часть принадлежит вам обеим, а если получится так, что останется только одна из вас, это будет означать, что эта доля принадлежит ей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2894</td></tr><tr><td>Arabic No</td><td>2894</td></tr><tr><td>Reference</td><td>Book 19 Hadith 10</td></tr></tbody></table></div>
 

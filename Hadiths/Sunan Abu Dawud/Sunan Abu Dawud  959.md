@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Mu'adz] telah menceritakan kepada kami [Abdul Wahab] dia berkata; saya mendengar [Yahya] berkata; saya mendengar [Al Qasim] berkata; telah mengabarkan kepadaku [Abdullah bin Abdullah] bahwa dia mendengar [Abdullah bin Umar] berkata; "Di antara sunnah shalat adalah kamu baringkan kaki kirimu dan menegakkan kaki kanan." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Yahya] dengan isnad seperti di atas, dia berkata; Abu Daud berkata; [Hammad bin Zaid] berkata; dari [Yahya] juga (katanya); "Di antara sunnah…" sebagaimana perkataan Jarir. Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Yahya bin Sa'id] bahwa [Al Qasim bin Muhammad] pernah memperlihatkan kepada mereka (cara) duduk tasyahud…" lalu dia menyebutkan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>959</td></tr><tr><td>Reference</td><td>Book 2 Hadith 570</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «К суннам молитвы относится простирание левой ступни и вертикальная постановка правой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>959</td></tr><tr><td>Reference</td><td>Book 2 Hadith 570</td></tr></tbody></table></div>
 

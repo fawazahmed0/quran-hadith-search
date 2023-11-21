@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yazid b. al-Asamm reported:A newly wedded person of Medina invited us to a weddi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Musyhir] dari [Asy Syaibani] dari [Yazid bin Al Asham] dia berkata, "Kami pernah diundang pesta perkawinan ketika di Madinah, lalu dihidangkan kepada kami tiga belas ekor daging biawak, maka di antara kami ada yang memakannya dan ada pula yang tidak memakannya. Keesokan harinya saya mendatangi [Ibnu Abbas] dan memberitahukan kepadanya, sedangkan di samping dia ada sekelompok kaum, hingga sebagian kaum tersebut berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Saya tidak memakannya, tidak melarang dan mengharamkan untuk memakannya." Ibnu Abbas pun berkata, "Sungguh jelek apa yang kalian katakan, Nabi shallallahu 'alaihi wasallam tidak diutus melainkan untuk menghalalkan atau mengharamkan. Ketika Rasulullah shallallahu 'alaihi wasallam di rumah Maimunah, sedangkan di sisi beliau ada Fadl bin Abbas, Khalid bin Walid dan seorang wanita, mereka disuguhi daging dalam tempayan besar, sewaktu Nabi shallallahu 'alaihi wasallam hendak memakannya, maka Maimunah berkata kepada beliau, "Itu adalah daging biawak." Maka beliau pun menarik tangannya seraya bersabda: "Saya belum pernah sama sekali memakan daging ini." Beliau juga bersabda kepada mereka (yang ada di situ): "Makanlah daging tersebut." Maka Al Fadll dan Khalid serta seorang wanita pun memakannya. Maimunah juga berkata, "Saya tidak akan memakan sesuatu melainkan jika Rasulullah shallallahu 'alaihi wasallam memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5040</td></tr><tr><td>Arabic No</td><td>1948</td></tr><tr><td>Reference</td><td>Book 34 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5040</td></tr><tr><td>Arabic No</td><td>1948</td></tr><tr><td>Reference</td><td>Book 34 Hadith 69</td></tr></tbody></table></div>
 

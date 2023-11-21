@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -77,6 +79,20 @@ Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774.2</td></tr><tr><td>Arabic No</td><td>774.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Икримы (да помилует его Аллах), что Ибн ‘Аббас (да будет доволен Аллах ими обоими) сказал: «(Во время намазов) Пророк ﷺ читал (Коран вслух), когда получал веление (поступать так), и молчал, когда получал веление (молчать, а в Коране сказано): “…и не забывает Господь твой”. (В Коране также сказано): “В Посланнике Аллаха был прекрасный пример для вас …”»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И ‘Убайдуллах сказал:\n— От Сабита, (передавшего) от Анаса, да будет доволен им Аллах, (который сказал): «Один человек из числа ансаров возглавлял людей в намазе в мечети Къубáъ. Каждый раз, когда он читал для них какую-то суру во время намаза, он всегда читал перед ней (суру) “Скажи: Он — Аллах един” /Куль: Хува-Ллаху ахад/, пока не заканчивал её, после чего он читал за ней другую суру, и делал это в каждом рак‘ате. Его товарищи поговорили с ним и сказали: “Поистине, ты начинаешь с этой суры, затем, посчитав, что её не достаточно для тебя, ты читаешь (ещё) другую (суру). Либо читай её, либо оставь её и читай другую”. Он сказал: “Я не оставлю её. Если вы желаете, чтобы я возглавлял вас (читая) её, то я сделаю это, а если не желаете, то покину вас”. Однако, они считали его лучшим среди них и не хотели, чтобы их намазом руководил кто-то другой, и когда к ним пришёл Пророк ﷺ они рассказали ему об этом, и он сказал: “O такой-то, что мешает тебе сделать то, что велят тебе сделать твои товарищи? И что побуждает тебя придерживаться (чтения) этой суры в каждом рак‘ате?” Он сказал: “Поистине, я люблю её”. И (тогда Пророк ﷺ) сказал: “Твоя любовь к ней введёт тебя в Рай!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774.2</td></tr><tr><td>Arabic No</td><td>774.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 169</td></tr></tbody></table></div>
 

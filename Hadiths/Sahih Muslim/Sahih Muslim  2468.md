@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubaidullah b. Abu Rafi', the freed slave of the Messenger of Allah (ﷺ), said:W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir] dan [Yunus bin Abdul A'la] keduanya berkata, telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Amru bin Harits] dari [Bukair bin Al Asyaj] dari [Busru bin Sa'id] dari [Ubaidullah bin Abu Rafi'] Maula Rasulullah shallallahu 'alaihi wasallam bahwasanya; Kekita orang-orang Haruriyah keluar -dan saat itu ia bersama [Ali bin Abu Thalib] - mereka berkata, "Tidak ada hukum, kecuali kepunyaan Allah." Maka Ali berkata, "Itu adalah kalimat yang haq, namun dimaksudkan untuk kebatilan. Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah mensifati suatu kelompok manusia, dan saya benar-benar tahu bahwa sifat itu terdapat pada diri mereka. Mereka mengatakan kebenaran dengan lisan-lisan mereka, namun ucapan mereka itu tidak sampai melewati ini (ia sambil memberi isyarat pada kerongkongannya). Makhluk yang paling dibenci Allah di antara mereka adalah seorang yang salah satu tangannya hitam seperti puting susu kambing." Maka ketika Ali memerangi mereka, ia pun berkata, "Lihatlah." Mereka pun melihatnya, namun mereka tidak mendapatkan sesuatu pun. Ali berkata lagi, "Kembalilah (melihatnya), demi Allah, saya tidaklah berdusta dan tidak pula dikelabui." Ia mengatakannya hingga dua atau tiga kali. Dan akhirnya mereka pun mendapatkannya di tempat reruntuhan. Lalu mereka mendatanginya kemudian meletakkannya di hadapan Ali. Ubaidullah berkata; Dan saat itu, saya juga hadir, dan juga mendengar ungkapan Ali. Kemudian Yunus menambahkan di dalam riwayatnya; Bukair berkata, Dan telah menceritakan kepadaku seorang laki-laki dari Ibnu Hunain bahwa ia berkata; "Saya melihat tanda hitam itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2468</td></tr><tr><td>Arabic No</td><td>1066.07</td></tr><tr><td>Reference</td><td>Book 12 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Убайдуллаха ибн Абу Рафи’а, что, когда вышли харуриты (хавариджы), он был вместе с ‘Али ибн Аби Талибом. Они сказали: «Суд принадлежит только Аллаху», ‘Али же сказал: «(Они говорят) слова истины, подразумевая ложь! Поистине, Посланник Аллаха ﷺ рассказал о людях, описание которых я вижу в них. Они говорят истину своими языками, но она не выходит за пределы этой части их тела (и рассказчик указал на свое горло). Одним из самых ненавистных творений Аллаха из них является один чернокожий человек, рука которого похожа на сосок козы или грудной сосок». Когда ‘Али ибн Аби Талиб убил их, он сказал: «Найдите (его)!» Они стали искать его, но ничего не нашли. Тогда он сказал: «Возвращайтесь (к поиску), ибо клянусь Аллахом, я не обманул и не был обманут», (повторив это) дважды или трижды. Затем они нашли его в яме, принесли его (тело) и положили перед ‘Али
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2468</td></tr><tr><td>Arabic No</td><td>1066.07</td></tr><tr><td>Reference</td><td>Book 12 Hadith 205</td></tr></tbody></table></div>
 

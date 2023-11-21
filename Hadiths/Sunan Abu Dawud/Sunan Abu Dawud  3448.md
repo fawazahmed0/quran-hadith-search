@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Qatadah said:Hoarding does not apply to dried dates. Ibn al-Muthanna said that h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Fayyadh], telah menceritakan kepada kami [ayahku]. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ibnu Al Mutsanna], telah menceritakan kepada kami [Yahya bin Al Fayyadh], telah menceritakan kepada kami [Hammam] dari [Qatadah], ia berkata; tidak ada penimbunan dalam kurma. Ibnu Al Mutsanna berkata dari [Al Hasan], kemudian kami katakan kepadanya; jangan engkau katakan; dari Al Hasan! Abu Daud berkata; hadits ini menurut kami adalah batil. Abu Daud berkata; dahulu Sa'id bin Al Musayyab menimbun biji kurma, dedaunan yang berguguran, serta bebijian. Dan aku mendengar Ahmad bin Yunus berkata; aku mendengar Sufyan mengenai menimbun Al Qatt (jenis tumbuh-tumbuhan), ia berkata; dahulu mereka tidak suka menimbun. Dan aku bertanya kepada Abu Bakr bin 'Ayyasy, kemudian ia berkata; timbunlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3448</td></tr><tr><td>Arabic No</td><td>3448</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От Катады передаётся следующее: «Сушёных фиников удерживание не касается». Абу Давуд сказал: «Это сообщение мы считаем ложным». Абу Давуд сказал: «Са‘ид ибн аль-Мусайяб удерживал косточки, листья деревьев и семена»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3448</td></tr><tr><td>Arabic No</td><td>3448</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
 

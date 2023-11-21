@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Suhail reported that his father sent him to Banu Haritha along with a boy or a m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umayyah bin Bistham] telah menceritakan kepada kami [Yazid, yaitu Ibnu Zurai'] telah menceritakan kepada kami [Rauh] dari [Suhail] dia berkata, "[Bapakku] telah mengutusku kepada bani Haritsah", dia berkata lagi, "Saya pergi bersama budak kami -atau sahabat kami- lalu seorang penyeru menyeru dari kebun dengan namanya." Dia berkata lagi, "Orang yang bersama kami memeriksa kebun, namun dia tidak melihat sesuatu pun, maka aku menyebutkan hal itu kepada bapakku, maka dia berkata, "Kalau saya merasa bahwa kamu menemui ini, niscaya aku tidak akan mengutusmu, akan tetapi apabila kamu mendengar suara, lalu penyeru menyeru untuk shalat maka aku mendengar [Abu Hurairah] menceritakan dari Rasululah shallallahu 'alaihi wasallam bersabda, ' setan apabila seorang muadzdzin mengumandangkan adzan shalat, maka dia berpaling, dan dia memiliki kentut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>858</td></tr><tr><td>Arabic No</td><td>389.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Сухайль сказал: «Однажды мой отец отправил меня к бану хариса и со мной был наш слуга (или: наш товарищ), и тут кто-то позвал его по имени из сада, окружённого стеной. Тогда тот, кто был со мной посмотрел туда, но ничего не увидел. Я рассказал об этом отцу, и он сказал: “Если бы я знал, что ты столкнёшься с этим, то не отправлял бы тебя, однако если ты слышишь (какой-то) голос, то призови к молитве, ибо я слышал, как Абу Хурайра передал, что Посланник Аллаха ﷺ сказал: “Поистине, когда призывают к молитве, шайтан убегает, испуская кишечные газы (или: быстрым бегом)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>858</td></tr><tr><td>Arabic No</td><td>389.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 21</td></tr></tbody></table></div>
 

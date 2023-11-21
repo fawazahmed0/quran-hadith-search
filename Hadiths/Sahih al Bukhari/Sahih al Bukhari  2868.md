@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated ('Abdullah) bin 'Umar:The Prophet (ﷺ) arranged for a horse race among
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qabishah] telah bercerita kepada kami [Sufyan] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam memacu kuda pacuan dari Al Hafya' hingga Tsaniyatul Wada' dan memacu kuda yang bukan kuda pacuan dari Tsaniyatul Wada' hingga masjid Bani Zurai'. Ibnu 'Umar radliallahu 'anhuma: "Aku termasuk orang yang ikut dalam pacuan kuda itu". Berkata ['Abdullah] telah bercerita kepada kami [Sufyan] berkata telah bercerita kepadaku ['Ubaidullah], berkata [Sufyan]: "Jarak antara Al Hafya' ke Tsaniyatul Wada' antara lima atau enam mil sedangkan jarak antara Tsaniyatul Wada' ke masjid Bani Zurai' satu mil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2868</td></tr><tr><td>Arabic No</td><td>2868</td></tr><tr><td>Reference</td><td>Book 56 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ устраивал скачки на лошадях. И рысистых лошадей отправляли от аль-Хафйи до местечка Санийят аль-Вада‘, а скачки на молодых скакунах проходили от местечка Санийят аль-Вада‘ до мечети Бану Зурейк». Ибн ‘Умар сказал: «И я был одним их тех, кто принимал участие в этих скачках».Сообщается, что Суфьян сказал: «Между аль-Хафйей и Санийят аль-Вада‘ пять или шесть миль, а между Санийят аль-Вада‘ и мечетью Бану Зурейк один миль»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2868</td></tr><tr><td>Arabic No</td><td>2868</td></tr><tr><td>Reference</td><td>Book 56 Hadith 84</td></tr></tbody></table></div>
 

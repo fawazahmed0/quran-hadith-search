@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yazid bin Abi Ubaid:Salama bin Al-Akwa' said, "I fought in seven Ghazwa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah] Telah menceritakan kepada kami [Hammad bin Mas'adah] dari [Yazid bin Abu Ubaid] dari [Salamah bin Al Akwa'] katanya, aku pernah berperang bersama Nabi shallallahu 'alaihi wasallam sebanyak tujuh kali peperangan, dan ia sebutkan Khaibar, Hudaibiyah, Hunain, Dzatu qarad, kata Yazid, yang lain aku lupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4273</td></tr><tr><td>Arabic No</td><td>4273</td></tr><tr><td>Reference</td><td>Book 64 Hadith 307</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма ибн аль-Аква‘ сказал: «Я принимал участие в семи военных походах вместе с Пророком ﷺ», и упомянул: Хайбар, аль-Худейбию, день аль-Хунейна и день аль-Карад. \nЯзид (один из передатчиков) сказал: «Остальные я забыл»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4273</td></tr><tr><td>Arabic No</td><td>4273</td></tr><tr><td>Reference</td><td>Book 64 Hadith 307</td></tr></tbody></table></div>
 

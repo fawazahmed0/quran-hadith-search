@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri and Abu Huraira:Allah's Messenger (ﷺ) appointed a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail], katanya; telah menceritakan kepadaku [Malik] dari [Abdul Majid bin Suhail] dari [Said bin Musayyab] dari [Abu Sa'id Al Khudri] dan [Abu Hurairah] radliallahu 'anhuma, Rasulullah shallallahu 'alaihi wasallam pernah mempekerjakan seseorang untuk mengelola tanah Khaibar, kemudian ia membawa kurma "Janib" (kurma yang berasal bukan dari Khaibar), maka Rasulullah bertanya: 'Apakah kurma Khaibar seperti ini? ' Ia menjawab; 'Tidak, demi Allah ya Rasulullah, kami memperoleh satu sha' kurma Janib ini dengan menukar dua sha' kurma Khaibar atau tiga! ' Nabi mengingatkan: 'Jangan seperti itu kamu lakukan, namun juallah semua dahulu dengan beberapa dirham, kemudian uangnya kau belikan kurma Janib.' Kata [Abdul Aziz bin Muhammad], dari [Abdul Majid] dari [Said], bahwasanya [Abu Said] dan [Abu Hurairah] menceritakan kepadanya, bahwasanya Nabi shallallahu 'alaihi wasallam pernah mengutus saudara Bani 'Adi dari Anshar ke Khaibar, lalu mengangkatnya sebagai pejabat Khaibar, dan dari [Abdul Majid] dari [Abu Shalih As Siman] dari [Abu Hurairah] dan [Abu Sa'id] dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4244</td></tr><tr><td>Arabic No</td><td>4244</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри и Абу Хурайры, да будет доволен Аллах ими обоими, что (в своё время) Посланник Аллаха ﷺ назначил управлять Хайбаром одного человека. Когда тот доставил Посланнику Аллаха ﷺ финики (сорта) джаниб, он спросил: «Все ли финики Хайбара таковы?» Он ответил: «Клянусь Аллахом, нет, о Посланник Аллаха. Мы берём один са‘ таких (фиников) за два са‘ (других), а за два са‘ (таких) мы отдаём три са‘ (других)». Тогда Посланник Аллаха ﷺ сказал: «Не делай так, (но) продавай (финики разых сортов) за дирхемы, а потом покупай за дирхемы джаниб»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4244</td></tr><tr><td>Arabic No</td><td>4244</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

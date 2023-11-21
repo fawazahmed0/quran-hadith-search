@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada kami Ali Telah menceritakan kepada kami Sufyan bahwa I
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051.2</td></tr><tr><td>Arabic No</td><td>5051.2</td></tr><tr><td>Reference</td><td>Book 66 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Суфьян рассказывал: «Ибн Шубрума сказал мне: “Я задумался о том, какое (минимальное) количество Корана достаточно человеку прочитывать (в день), и не нашёл ни одной суры, в которой было бы меньше трёх аятов. Поэтому я сказал (себе), что никому не следует читать меньше трёх аятов (в день)”».\nСообщается, что ‘Алькама рассказывал: «Я встретил Абу Мас’уда, в то время как он совершал таваф (обход) вокруг Ка’бы, и он упомянул слова Пророка ﷺ, что тот, кто в течение ночи прочитает два последних аята из суры “аль-Бакара”, тому их будет достаточно»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051</td></tr><tr><td>Arabic No</td><td>5051</td></tr><tr><td>Reference</td><td>Book 66 Hadith 75</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051.2</td></tr><tr><td>Arabic No</td><td>5051.2</td></tr><tr><td>Reference</td><td>Book 66 Hadith 76</td></tr></tbody></table></div>

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tawus:Ibn 'Abbas said, "Allah's Messenger (ﷺ) travelled in the month 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Mujahid] dari [Thawus] dari [Ibnu Abbas] katanya, Nabi shallallahu 'alaihi wasallam melakukan safar di bulan Ramadhan lantas beliau puasa, hingga beliau sampai di Usfan, beliau meminta diambilkan sebaskom air dan beliau minum tepat siang hari, ini beliau maksudkan agar para sahabat melihatnya, maka para sahabat pun membatalkan puasanya hingga beliau tiba di Makkah. Kata Thawus, kata Ibnu Abbas, Rasulullah shallallahu 'alaihi wasallam pernah "Berpuasa" ketika "Safar", pernah juga "Tidak puasa", siapa yang puasa, silahkan, siapa yang tidak, juga "silahkan", terserah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4279</td></tr><tr><td>Arabic No</td><td>4279</td></tr><tr><td>Reference</td><td>Book 64 Hadith 313</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Однажды Посланник Аллаха ﷺ отправился (из Медины в Мекку). И он постился до тех пор, пока не достиг ‘Усфана, где он велел принести себе воду и попил её днём, чтобы его видели люди. Затем он прервал пост и не постился до тех пор, пока не достиг Мекки». \nИбн ‘Аббас говорил: «Посланник Аллаха ﷺ постился и разговелся; и кто хотел — продолжил поститься, а кто хотел — разговелся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4279</td></tr><tr><td>Arabic No</td><td>4279</td></tr><tr><td>Reference</td><td>Book 64 Hadith 313</td></tr></tbody></table></div>
 

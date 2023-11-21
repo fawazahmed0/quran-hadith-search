@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:That he heard a man reciting a Quranic Verse which he had hea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Syu'bah] dari [Abdul Malik bin Maisarah] dari [An Nazzal bin Sabrah] dari [Abdullah] bahwa ia mendengar seorang laki-laki membaca ayat, sementara ia mendengar Nabi shallallahu 'alaihi wasallam membacanya tidak seperti itu. Maka aku pun mengambil tanganya dan pergi bersamanya menghadap Nabi shallallahu 'alaihi wasallam, lalu beliau bersabda: "Bacaan keduanya adalah sama baiknya. Bacalah, 'AKBARU 'ILMI.'" Beliau bersabda: "Sesungguhnya orang-orang sebelum kalian telah berselisih, sehingga mereka pun binasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5062</td></tr><tr><td>Arabic No</td><td>5062</td></tr><tr><td>Reference</td><td>Book 66 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «(Как-то раз) я услышал, как один человек прочитал аят Корана, (а раньше) я слышал, как Пророк ﷺ (читал этот же аят) по-другому. Тогда я взял его за руку и привёл к Пророку ﷺ, который сказал: “Каждый из вас (читает) правильно, поэтому продолжайте читать. Поистине, жившие до вас стали разногласить и погибли (из-за этого)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5062</td></tr><tr><td>Arabic No</td><td>5062</td></tr><tr><td>Reference</td><td>Book 66 Hadith 87</td></tr></tbody></table></div>
 

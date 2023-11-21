@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:For thirty days Allah's Messenger (ﷺ) invoked Allah to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il bin 'Abdullah] berkata telah bercerita kepadaku [Malik] dari [Ishaq bin 'Abdullah bin Abi Thalhah] dari [Anas bin Malik radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam berdo'a untuk mengutuk orang-orang yang membunuh para sahabat Bi'ru Ma'unah selama tiga puluh shubuh atas perkampungan mereka, suku Dzakwan dan 'Ushoyyah yang telah durhaka kepada Allah dan Rosul-Nya". Anas berkata: "Telah ditutunkan ayat dari Al Qur'an berkenaan dengan orang-orang yang telah dibunuh di Bi'ru Ma'unah dan kami telah membacanya namun kemudian dihapus setelah itu, yaitu berbunyi: ("Sampaikanlah kepada kaum kami bahwa kami telah berjumpa dengan Robb kami Dia meridhai kami dan memberikan kebahagian kepada kami)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2814</td></tr><tr><td>Arabic No</td><td>2814</td></tr><tr><td>Reference</td><td>Book 56 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ в течение тридцати дней молил Аллаха покарать тех, кто убил сподвижников у Би-р Ма‘уна. Он молил Аллаха покарать (многобожников из племён) ри‘ль, закван и усаййа, которые ослушались Аллаха и Его Посланника». Анас сказал: «В отношении тех, кто был убит у Би-р Ма‘уна, были ниспосланы аяты, которые мы читали, но затем они были отменены, в этих аятах говорилось: “Передайте нашему народу, что мы встретили нашего Господа, и Он доволен нами, а мы довольны Им”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2814</td></tr><tr><td>Arabic No</td><td>2814</td></tr><tr><td>Reference</td><td>Book 56 Hadith 30</td></tr></tbody></table></div>
 

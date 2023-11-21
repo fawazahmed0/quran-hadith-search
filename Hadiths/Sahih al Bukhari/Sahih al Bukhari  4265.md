@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khalid bin Al-Walid:On the day (of the battle of) Mu'tah, nine swords w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Ismail] dari [Qais bin Abu Hazim], katanya, kudengar [Khalid bin Walid] mengatakan, pada perang Mu'tah, pedang yang putus ditanganku sebanyak sembilan pedang, dan tidak tersisa di tanganku selain pedang Yamani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4265</td></tr><tr><td>Arabic No</td><td>4265</td></tr><tr><td>Reference</td><td>Book 64 Hadith 299</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Халид ибн аль-Валид сказал: «В день (битвы при) Мута девять мечей были сломаны в моей руке, и только йеменский меч остался не сломанным в моей руке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4265</td></tr><tr><td>Arabic No</td><td>4265</td></tr><tr><td>Reference</td><td>Book 64 Hadith 299</td></tr></tbody></table></div>
 

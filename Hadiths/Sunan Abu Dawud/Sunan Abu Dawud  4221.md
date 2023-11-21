@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said that he saw a silver signet-ring on the hand of the Prophet (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Luwain] dari [Ibrahim bin Sa'd] dari [Ibnu Syihab] dari [Anas bin Malik] Bahwasanya ia pernah melihat pada tangan Nabi shallallahu 'alaihi wasallam cincin perak selama satu hari. Orang-orang lalu ikut membuat cincin hingga Nabi shallallahu 'alaihi wasallam membuang cincinnya, lalu orang-orang pun ikut membuangnya." Abu Dawud berkata, " [Ziyad bin Sa'd] dan [Syu'aib] dan [Ibnu Musafir] diriwayatkan hadits itu dari [Az Zuhri], ia berkata, "Yaitu dari perak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2094) Sahih Muslim (5868)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4221</td></tr><tr><td>Arabic No</td><td>4221</td></tr><tr><td>Reference</td><td>Book 36 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что он увидел в один из дней на руке Пророка ﷺ серебряный перстень. Люди тоже изготовили себе такие перстни и надели их. Потом Пророк ﷺ отказался от его ношения и люди также отказались он ношения своих перстней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2094) Sahih Muslim (5868)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4221</td></tr><tr><td>Arabic No</td><td>4221</td></tr><tr><td>Reference</td><td>Book 36 Hadith 8</td></tr></tbody></table></div>
 

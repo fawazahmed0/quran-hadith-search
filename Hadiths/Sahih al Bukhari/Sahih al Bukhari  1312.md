@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur Rahman bin Abi Laila:Sahl bin Hunaif and Qais bin Sa'd were sitt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Amru bin Murrah] berkata; Aku mendengar ['Abdurrahman bin Abu Laila] berkata,: "Suatu hari [Sahal bin Hunaif] dan [Qais bin Sa'ad] sedang duduk di Qadisiyah, lalu lewatlah jenazah di hadapan keduanya, maka keduanya berdiri. Kemudian dikatakan kepada keduanya bahwa jenazah itu adalah dari penduduk asli, atau dari Ahlu dzimmah. Maka keduanya berkata,: "Nabi Shallallahu'alaihiwasallam pernah jenazah lewat di hadapan Beliau lalu Beliau berdiri. Kemudian dikatakan kepada Beliau bahwa itu adalah jenazah orang Yahudi. Maka Beliau bersabda: "Bukankah ia juga memiliki nyawa?" Dan berkata [Abu Hamzah] dari [Al A'masy] dari ['Amru] dari [Ibnu Abu Laila] berkata,: "Aku pernah bersama [Qais] dan [Sahl] Radliallahu 'anhu, lalu keduanya berkata; Kami pernah bersama Nabi Shallallahu'alaihiwasallam. Dan berkata, [Zakariya] dari [Sya'biy] dari [Ibnu Abi Laila], dulu [Abu Mas'ud] dan [Qais] berdiri untuk jenazah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1312</td></tr><tr><td>Arabic No</td><td>1312</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Адам:\n— Рассказал нам Шу‘ба:\n— Рассказал нам ‘Амр ибн Мурра, который сказал:\n— Я слышал, как ‘Абду-р-Рахман ибн Абу Лейля сказал:\n— Как-то Сахль ибн Хунайф и Кайс ибн Са‘д сидели в Кадисиййи, и когда мимо них пронесли погребальные носилки, они встали. Им сказали: «Это (погребальные носилки) жителя этой земли!», имея в виду (что этот умерший относился) к зиммиям, и тогда они сказали: «Поистине, однажды, когда мимо Пророка ﷺ пронесли погребальные носилки, он встал. (Люди) сказали ему: “Это же погребальные носилки иудея!” — и он сказал: “А разве он не человек?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1312</td></tr><tr><td>Arabic No</td><td>1312</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

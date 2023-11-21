@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id reported that a person said:Messenger of Allah, we live in a land abou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Daud] dari [Abu Nadlrah] dari [Abu Sa'id] dia berkata, "Seorang laki-laki bertanya, "Wahai Rasulullah, sesungguhnya saya hidup di negeri yang banyak biawaknya, maka apa kiranya yang anda perintahkan kepada kami?" Atau, "Berilah kami fatwa mengenainya!" Beliau bersabda: 'Telah disebutkan kepadaku bahwa anak cucu Bani Israil telah dirubah bentuknya menjadi hewan.' Beliau tidak memerintahkan kami (memakannya) dan tidak pula melarangnya." [Abu Sa'id] berkata, "Beberapa saat setelah itu, [Umar bin Khattab] berkata, "Sungguh, dengannya Allah benar-benar memberi manfaat tidak hanya untuk satu golongan, dia adalah makanan kebanyakan para pengembala ini. Sekiranya daging tersebut ada di sini niscaya saya telah memakannya, Rasulullah shallallahu 'alaihi wasallam memberi keringanan untuk daging itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5043</td></tr><tr><td>Arabic No</td><td>1951.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5043</td></tr><tr><td>Arabic No</td><td>1951.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 72</td></tr></tbody></table></div>
 

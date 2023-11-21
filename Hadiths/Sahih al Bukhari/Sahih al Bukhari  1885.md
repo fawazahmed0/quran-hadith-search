@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "O Allah! Bestow on Medina twice the bless
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Wahab bin Jarir] telah menceritakan kepada kami [bapakku] ms [Yunus] dari [Ibnu Syihab] dari [Anas radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Ya Allah jadikanlah Madinah seperti Makkah, yang dimana Engkau telah menjadikannya (Makkah) penuh dengan barakah". Hadits ini diikuti oelh ['Utsman bin 'Umar] dari [Yunus]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>1885</td></tr><tr><td>Reference</td><td>Book 29 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «О Аллах, ниспошли Медине в два раза больше благодати /барака/, чем Ты ниспослал её Мекке!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>1885</td></tr><tr><td>Reference</td><td>Book 29 Hadith 19</td></tr></tbody></table></div>
 

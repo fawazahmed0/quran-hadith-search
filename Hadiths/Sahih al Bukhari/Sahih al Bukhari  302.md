@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Al-Aswad:(on the authority of his father) 'Aisha said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Khalil] berkata, telah mengabarkan kepada kami ['Ali bin Mushir] berkata, telah mengabarkan kepada kami [Abu Ishaq] -yaitu Asy Syaibani- dari ['Abdurrahman bin Al Aswad] dari [Bapaknya] dari ['Aisyah] ia berkata, "Jika salah seorang dari kami sedang mengalami haid dan Rasulullah shallallahu 'alaihi wasallam berkeinginan untuk bermesraan, beliau memerintahkan untuk mengenakan kain, lalu beliau pun mencumbuinya." 'Aisyah berkata, "Padahal, siapakah di antara kalian yang mampu menahan hasratnya sebagaimana Rasulullah shallallahu 'alaihi wasallam menahan." Hadits ini dikuatkan oleh [Khalid] dan [Jarir] dari [Asy Syaibani]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>302</td></tr><tr><td>Arabic No</td><td>302</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала:«Когда у одной из нас начинались месячные, и Посланник Аллаха ﷺ хотел прикасаться к ней, он повелевал ей прикрыть изаром место кровотечения и затем прикасался к ней».\n(‘Аиша) сказала: «И кто же из вас способен сдерживать свое желание, как был способен сдерживать свое желание Посланник Аллаха ﷺ?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>302</td></tr><tr><td>Arabic No</td><td>302</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
 

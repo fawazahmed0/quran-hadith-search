@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:We were sitting with Allah's Messenger (ﷺ) he said, "Whil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Bukair], telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] telah mengabarkan kepadaku [Sa'id bin Musayyab], bahwasanya [Abu Hurairah] menuturkan; ketika kami duduk-duduk di sisi Rasulullah Shallallahu'alaihiwasallam, beliau bercerita: "Ketika aku tidur, aku melihat diriku dalam sebuah taman, tak tahunya ada seorang wanita yang sedang berwudhu disamping istana. Maka saya bertanya; 'milik siapakah ini? ' Mereka menjawab; 'Milik Umar bin Khattab, ' aku teringat kecemburuannya, maka aku segera berbalik ke belakang." Umar spontan menangis dan mengatakan; 'apakah kepadamu, bapak dan ibuku sebagai tebusanmu ya Rasulullah, aku cemburu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7025</td></tr><tr><td>Arabic No</td><td>7025</td></tr><tr><td>Reference</td><td>Book 91 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, сказал: «Когда мы сидели вместе с Посланником Аллаха ﷺ, он сказал: “Мне приснилось, что я нахожусь в Раю. [Там я увидел] женщину, совершавшую малое омовение у какого-то дворца, и я спросил: “Кому принадлежит этот (дворец)?” [Мне] сказали: “‘Умару”. Тут я вспомнил о ревности ‘Умара и вернулся”. (Услышав это,) ‘Умар заплакал и сказал: “Да станут отец мой и мать выкупом за тебя, к тебе ли я могу ревновать, о Посланник Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7025</td></tr><tr><td>Arabic No</td><td>7025</td></tr><tr><td>Reference</td><td>Book 91 Hadith 42</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:We were in the funeral procession of the daughter of Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] telah menceritakan kepada kami [Fulaih bin Sulaiman] telah menceritakan kepada kami [Hilal bin 'Ali] dari [Anas radliallahu 'anhu] berkata,: "Kami menyaksikan pemakaman puteri Rasulullah Shallallahu'alaihiwasallam dan saat itu Rasulullah Shallallahu'alaihiwasallam duduk diatas kuburnya. Lalu aku melihat kedua mata Beliau mengucurkan air mata". Kemudian Beliau bertanya: "Siapakah diantara kalian yang malam tadi tidak berhubungan (dengan isterinya) ". Berkata, Abu Tholhah: "Aku". Beliau berkata,: "Turunlah ke dalam kuburnya!"."Maka Beliau turun kedalam kuburnya lalu menguburkannya". Berkata, Ibnu Mubarak berkata, Fulaih: "Aku memahami makna Yuqarif maksudnya adalah "berbuat dosa". Berkata, Abu 'Abdullah Al Bukhariy tentang Firman Allah Ta'ala 'Liyaqtarifuu (QS Al An'am: 113, maksudnya adalah: agar mereka mengerjakan (seperti syetan mengerjakannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1342</td></tr><tr><td>Arabic No</td><td>1342</td></tr><tr><td>Reference</td><td>Book 23 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда мы присутствовали на похоронах дочери Посланника Аллаха ﷺ он сидел у края её могилы, и я видел, как из глаз его льются слёзы. (Потом) он спросил: “Есть ли среди вас такие, кто не приближался к женщине этой ночью?” Абу Тальха ответил: “Я”. (Пророк ﷺ) сказал: “Тогда спускайся”, и он спустился в её могилу и похоронил её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1342</td></tr><tr><td>Arabic No</td><td>1342</td></tr><tr><td>Reference</td><td>Book 23 Hadith 97</td></tr></tbody></table></div>
 

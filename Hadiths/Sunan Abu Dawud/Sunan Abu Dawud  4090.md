@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: Allah Most High says: Pride is my 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Hannad] -maksudnya Hannad bin As Sari- dari [Abu Al Ahwash] secara makna, dari [Atha bin As Saib] berkata; [Musa] berkata; dari [Salman Al Aghar]. [Hannad] berkata dari [Al Aghar Abu Muslim] dari [Abu Hurairah]. [Hannad] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah Azza Wa Jalla berfirman: 'Kesombongan adalah selendang-Ku, kebesaran adalah sarung-Ku, barangsiapa mengambil salah satu dari keduanya dari-Ku, maka ia akan Aku lemparkan ke dalam neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Всемогущий и Великий Аллах сказал: “Гордость Мой плащ, а величие Мой изар, и кто попытается оспаривать (, проявляя гордыню и возвеличивая себя в глазах других,) у Меня то или другое, того Я брошу в Огонь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:That he and Abu Talha were coming in the company of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Bisyr bin Al Mufadlal] telah menceritakan kepada kami [Yahya bin Abu Ishaq] dari [Anas bin Malik] bahwa dia dan Abu Thalhah pernah kembali bersama Nabi shallallahu 'alaihi wasallam, sedangkan Shafiyah membonceng Nabi shallallahu 'alaihi wasallam di atas hewan tunggangannya, ketika berada di tengah jalan, hewan tunggangan beliau terjatuh, hingga menyebabkan Nabi shallallahu 'alaihi wasallam dan wanita (Shafiyah) jatuh tersungkur, -Saya kira Yahya berkata; Bahwa Abu Thalhah segera lompat dari untanya dan langsung mendatangi Rasulullah shallallahu 'alaihi wasallam, dia berkata; "Wahai Nabiyullah, biarkanlah Allah menjadikanku sebagai tebusan anda, apakah anda terkena sesuatu?" beliau bersabda: "Tidak, tetapi coba kamu tolong wanita (Shafiyah) itu". Maka Abu Thalhah menutup wajahnya dengan selembar kainnya karena dia mengerti apa yang dikehendaki Shafiyah, maka dia melempar kainnya untuk Shafiyah, lalu wanita itu (Shafiyah) berdiri. Setelah itu Abu Thalhah memperbaiki pelana hewan tungangan beliau hingga keduanya dapat mengendarai kembali. Mereka pun melanjutkan perjalanan hingga ketika kota Madinah telah nampak -atau (perawi) berkata- sudah hampir mendekati kota Madinah, Beliau berdo'a: "AAYIBUUNA TAA'IBUUNA 'AABIDUUNA LI RABBINAA HAAMIDUUNA. (Kita kembali sebagai hamba yang bertaubat, ber'ibadah kepada Rabb kita dan memuji-Nya"). Beliau terus saja membaca do'a itu hingga memasuki kota Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6185</td></tr><tr><td>Arabic No</td><td>6185</td></tr><tr><td>Reference</td><td>Book 78 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик рассказывал, что когда, он и Абу Тальха возвращались с Пророком ﷺ, вместе с которым была Сафия, сидевшая верхом на верблюдице позади него, в пути верблюдица споткнулась, и Пророк ﷺ вместе со своей женой упали на землю. Абу Тальха быстро спрыгнул со своего верблюда, подошёл к Посланнику Аллаха ﷺ и сказал: «О Пророк Аллаха, да сделает Аллах меня выкупом за тебя! Ты не пострадал?» (Пророк ﷺ) ответил: «Нет. Однако позаботься о женщине!» После чего Абу Тальха прикрыл лицо одеждой, подошёл к (Сафие), накрыл этой одеждой её, и она поднялась. Потом подготовил (к дороге верблюдицу), на которой они ехали, и они (снова) сели на неё верхом. Когда же они приблизились к Медине, Пророк ﷺ сказал: «(Мы) возвращаемся, каемся, Господу нашему поклоняемся (и Ему) воздаём хвалу! /Айибуна, таъибуна, ‘абидуна ли-Рабби-на хамидун!/» — и он продолжал повторять (эти слова), пока он не вошёл в Медину
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6185</td></tr><tr><td>Arabic No</td><td>6185</td></tr><tr><td>Reference</td><td>Book 78 Hadith 209</td></tr></tbody></table></div>
 

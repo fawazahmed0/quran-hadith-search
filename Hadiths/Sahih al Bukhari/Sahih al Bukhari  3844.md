@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ghailan bin Jarir:We used to visit Anas bin Malik and he used to talk t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3844</td></tr><tr><td>Arabic No</td><td>3844</td></tr><tr><td>Reference</td><td>Book 63 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Гайлян ибн Джарир сказал: «Мы приходили к Анасу ибн Малику, а он рассказывал нам о (достоинствах и подвигах) ансаров, и он обращался ко мне и говорил: “Твоё племя сделало то-то и то-то в такой-то день, а в такой-то день то-то и то-то”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3844</td></tr><tr><td>Arabic No</td><td>3844</td></tr><tr><td>Reference</td><td>Book 63 Hadith 69</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Anas b. Malik that the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid al-Azdi] telah menceritakan kepada kami [Hammad bin Salamah] dari [Abu Imran] dan [Tsabit] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada empat manusia yang keluar dari neraka, lalu dihadapkan kepada Allah, maka salah seorang dari mereka berpaling, seraya berkata, 'Wahai Rabbku, jika Engkau telah mengeluarkanku dari neraka maka janganlah Engkau mengemabalikanku ke dalamnya.' Maka Allah menyelamatkannya dari neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>474</td></tr><tr><td>Arabic No</td><td>192</td></tr><tr><td>Reference</td><td>Book 1 Hadith 380</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «Выйдут из Огня и предстанут пред Аллахом Всевышним четыре (человека), один из которых повернётся (к Огню) и скажет: “О Господь мой, если уж Ты вывел меня из него, не возвращай меня туда!”, и Аллах избавит его от (Огня)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>474</td></tr><tr><td>Arabic No</td><td>192</td></tr><tr><td>Reference</td><td>Book 1 Hadith 380</td></tr></tbody></table></div>
 

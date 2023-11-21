@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Maimun ibn Abu Shabib: A beggar passed by Aisha and she gave him a piec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Isma'il] dan [Ibnu Abu Khalaf] bahwa [Yahya Ibnul Yaman] mengabarkan kepada mereka dari [Sufyan] dari [Habib bin Abu Tsabit] dari [Maimun bin Abu Syabib] berkata, "Seorang peminta-minta melewati 'Aisyah, lalu ia memberinya remukan roti. Setelah itu ada lagi seorang laki-laki yang berpakaian rapi dan berkedudukan melewati 'Aisyah, lalu ia menyuruhnya duduk dan memberinya jamuan makan. Maka 'Aisyah pun ditanya dengan perlakukannya tersebut, ['Aisyah] menjawab, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Perlakukanlah manusia sesuai dengan kedudukannya." Abu Dawud berkata, "hadits Yahya lebih singkat." Abu Dawud berkata lagi, "Maimun belum pernah bertemu dengan 'Aisyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 43 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 43 Hadith 70</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), l'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari ['Adi yaitu Ibnu Tsabit] dari [Abu Hazim] dari [Abu Hurairah] bahwasannya Rasulullah shallallahu 'alaihi wasallam melarang dari mencegat pedagang (sebelum sampai ke pasar untuk memborong dagangannya), memborong dagangan orang dusun (unutk mendapatkan laba yang berlipat-lipat), seorang wanita meminta suaminya untuk menceraikan madunya, jual beli najsy (menambahkan harga barang dengan tujuan menipu pembeli), menahan susu ternak yang akan dijual supaya kelihatan air susunya banyak, dan menawar barang yang sudah dtawar orang lain." Telah menceritakan kepadaku [Abu Bakar bin Nafi'] telah menceritakan kepada kami [Ghundar]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Wahb bin Jarir]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abdul Warits bin Abdush Shamad] telah menceritakan kepada kami [ayahku] mereka semua mengatakan; Telah menceritakan kepada kami Syu'bah dengan isnad haditsnya Ghundar dan Wahb yaitu dengan lafazh; "Dilarang". Sedangkan dalam haditsnya Abdush Shamad disebutkan; "Bahwa Rasulullah shallallahu 'alaihi wasallam melarang…" seperti haditsnya Mu'adz dari Syu'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3816</td></tr><tr><td>Arabic No</td><td>1515.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3816</td></tr><tr><td>Arabic No</td><td>1515.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 16</td></tr></tbody></table></div>
 

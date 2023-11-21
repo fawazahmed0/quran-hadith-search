@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:I heard Allah's Apostle (ﷺ) saying during an expedition in whic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Salamah bin Syabib]; Telah menceritakan kepada kami [Al Hasan bin A'yan]; Telah menceritakan kepada kami [Ma'qil] dari [Abu Az Zubair] dari [Jabir] ia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda dalam suatu peperangan yang kami hadapi bersama, sabdanya: "Biasakanlah memakai terompah (sandal), karena terompah itu sama fungsinya dengan kendaraan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5494</td></tr><tr><td>Arabic No</td><td>2096</td></tr><tr><td>Reference</td><td>Book 37 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5494</td></tr><tr><td>Arabic No</td><td>2096</td></tr><tr><td>Reference</td><td>Book 37 Hadith 109</td></tr></tbody></table></div>
 

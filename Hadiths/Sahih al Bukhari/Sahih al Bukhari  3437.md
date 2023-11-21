@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham:From Ma'mar as below. Narrated Abu Huraira: The Prophet (ﷺ) sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] dari [Ma'mar] dan telah bercerita kepadaku [Mahmud] telah bercerita kepada kami ['AbdurRazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] berkata telah mengabarkan kepadaku [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam berkata; "Ketika malam aku diisra'kan, aku bertemu Musa 'alaihis salam. Lalu beliau menyebut ciri-cirinya. Yaitu, ternyata dia adalah seperti yang aku duga, seorang laki-laki yang berambut lurus dan seakan dia seorang laki-laki yang gagah berasal dari kalangan Syanu'ah (Yaman). Beliau berkata: "Dan aku juga melihat 'Isa 'alaihis salam, Lalu beliau sebut ciri-cirinya, "Ternyata dia adalah seorang laki-laki yang berperawakan sedang, berkulit merah seakan ia keluar dari ruang bawah tanah (kamar mandi) dan aku juga melihat Nabi Ibrahim 'alaihis salam, dan aku adalah anak keturunannya yang paling mirip dengannya. Kemudian aku disuguhkan dua buah gelas, yang satunya berisi susu dan satunya lagi berisi khamer (arak, minuman keras) lalu dikatakan kepadaku; "Ambillah mana yang kamu suka". Maka kuambil gelas berisi susu dan kuminum". Kemudian dikatakan kepadaku; "Kamu telah mengambil sesuai fithrah. Seandainya yang kamu ambil khamer, niscaya kaummu akan tersesat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3437</td></tr><tr><td>Arabic No</td><td>3437</td></tr><tr><td>Reference</td><td>Book 60 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «В ту ночь, когда я был перенесён /аль-исра/, я увидел Мусу, который был худощавым человеком, с волнистыми волосами, будто был он одним из людей (племени) шану‘а. И я увидел ‘Ису, который был человеком среднего роста и телосложения, румяным, будто он вышел из бани. И я похож на пророка Ибрахима, мир ему больше, чем кто-либо из его потомков. Затем мне принесли два сосуда, в одном из них было молоко, а в другом — вино. (Джибриль) сказал: “Пей, что хочешь”. Я взял молоко и выпил его. Тогда мне было сказано: “Ты взял то, что соответствует естеству, а если бы ты взял вино, то община твоя сбилась бы с пути”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3437</td></tr><tr><td>Arabic No</td><td>3437</td></tr><tr><td>Reference</td><td>Book 60 Hadith 108</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Ghudayf ibn al-Harith reported: I asked Aisha: H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mu'tamir] Al Hadits, dan telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Isma'il bin Ibrahim] mereka berdua berkata; Telah menceritakan kepada kami [Burd bin Sinan] dari [Ubadah bin Nusay] dari [Ghudlaif bin Al Harits] dia berkata; Saya pernah bertanya kepada [Aisyah]; Apakah kamu melihat Rasulullah shallallahu 'alaihi wasallam mandi janabah pada awal malam atau akhir malam? Dia menjawab; Terkadang beliau mandi di awal malam dan terkadang beliau mandi di akhir malam! Saya berkata; Allahu Akbar, segala puji bagi Allah yang telah menjadikan perkara ini mudah. Kemudian saya bertanya lagi; Apakah kamu melihat Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat witir pada awal malam atau akhirnya? Dia menjawab; Terkadang beliau melakukan witir pada awal malam dan terkadang pada akhirnya! Saya berkata; Allahu Akbar, segala puji bagi Allah yang telah menjadikan perkara ini mudah. Kemudian saya pun bertanya lagi; Apakah kamu melihat Rasulullah shallallahu 'alaihi wasallam membaca Al Quran, apakah dengan mengeraskan suaranya atau merendahkannya? Dia menjawab; Terkadang beliau mengeraskan suaranya dan terkadang beliau merendahkannya! Saya berkata; Allahu Akbar, segala puji bagi Allah yang telah menjadikan perkara ini mudah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>226</td></tr><tr><td>Arabic No</td><td>226</td></tr><tr><td>Reference</td><td>Book 1 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Гъудайфа ибн аль-Харис сказал: «Однажды я сказал ‘Аише: “Когда Посланник Аллаха ﷺ купался от большого осквернения в начале ночи или в конце?” Она ответила: “Иногда он купался в начале ночи, а иногда купался в конце ее”. Я сказал: “Аллах Велик! /Аллаху акбар/ Хвала Аллаху /Альхамдулиллах/, который сделал (дела поклонения) легкими”. (Потом) я сказал: “А когда Посланник Аллаха ﷺ совершал витр в начале ночи или в конце?” Она сказала: “Иногда он совершал витр вначале ночи, а иногда совершал ее в конце”. Я сказал: “Аллах Велик! Хвала Аллаху, который сделал (дела поклонения) легкими”. (Затем) я сказал: “А как Посланник Аллаха ﷺ читал Куръан громко или тихо?” Она сказала: “Иногда он читал его громко, а иногда тихо”. Я сказал: “Аллах Велик! Хвала Аллаху, который сделал (дела поклонения) легкими”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>226</td></tr><tr><td>Arabic No</td><td>226</td></tr><tr><td>Reference</td><td>Book 1 Hadith 226</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Sa'id al-Khudri that the Prophet (ﷺ) sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Suhail bin Abu Shalih] dari [bapaknya] dari [Abu Sa'id] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian mengikuti jenazah, maka janganlah kalian duduk hingga jenazah itu diletakkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2220</td></tr><tr><td>Arabic No</td><td>959.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида, что Посланник Аллаха ﷺ сказал: «Если вы провожаете погребальные носилки, то не садитесь, пока их не опустят на землю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2220</td></tr><tr><td>Arabic No</td><td>959.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 98</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Messenger of Allah (ﷺ) used to say when he lay 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Abbas bin Abdul Azhim Al Anbari] berkata, telah menceritakan kepada kami [Al Ahwash] -yaitu Ibnu Jawwab- berkata, telah menceritakan kepada kami [Ammar bin Zuraiq] dari [Abu Ishaq] dari [Al Harits] dan [Abu Maisarah] dari [Ali] -semoga Allah merahmatinya- dari Rasulullah shallallahu 'alaihi wasallam, ketika akan tidur beliau membaca: "ALLAHUMMA INNI A'UUDZU BIWAJHIKAL KARIM WA KALIMAATIKATTAAMMAH MIN SYARRI MAA ANTA AAKHIDZUN BINAASHIYATIHI ALLAHUMMA ANTA TAKSYIFUL MAGHRAM WAL MA'TSAM ALLAHUMMA LAA YUHZAMU JUNDUKA WALAA HUKHLAFU WA'DUKA WALAA YANFA'U DZAL JADDI MINKAL JADDU SUBHAANAKA WA BIHAMDIKA
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 43 Hadith 280</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5052</td></tr><tr><td>Arabic No</td><td>5052</td></tr><tr><td>Reference</td><td>Book 43 Hadith 280</td></tr></tbody></table></div>
 

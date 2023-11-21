@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) heard a man (reciting Qur'an) in the Mosque, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid bin Maimun] telah mengabarkan kepada kami ['Isa bin Yunus] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata; Rasulullah shallallahu 'alaihi wasallam mendengar sesoerang membaca Al Qur'an di masjid lalu Beliau bersabda: "Semoga Allah merahmati orang itu. Sungguh dia telah mengingatkan aku tentang ayat ini dan itu yang aku telah lupa dari surat ini dan itu". Dan ['Abbad bin 'Abdullah] menambahkan dari ['Aisyah radliallahu 'anha]: "Nabi shallallahu 'alaihi wasallam melaksanakan shalat tahajjud di rumahku lalu Beliau mendengar suara 'Abbad yang sedang shalat di masjid lalu Beliau berkata: "Wahai 'Aisyah, apakah itu suara 'Abbad?" Aku jawab: "Ya". Maka Beliau bersabda: "Ya Allah rahmatilah 'Abbad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2655</td></tr><tr><td>Arabic No</td><td>2655</td></tr><tr><td>Reference</td><td>Book 52 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Пророк ﷺ который услышал, как какой-то человек читает (Коран) в мечети, сказал: “Да помилует его Аллах! Он напомнил мне такие-то аяты из таких-то сур, которые я забыл”».\nВ другой версии (этого хадиса сообщается, что ‘Аиша), да будет доволен ею Аллах, сказала: «(Однажды) ночью Пророк ﷺ, молившийся в моём доме, услышал голос ‘Аббада, который молился в мечети, и спросил: “О ‘Аиша, это голос ‘Аббада?” Я сказала: “Да”, (и тогда) он воскликнул: “О Аллах, помилуй ‘Аббада!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2655</td></tr><tr><td>Arabic No</td><td>2655</td></tr><tr><td>Reference</td><td>Book 52 Hadith 19</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A man said to the Prophet (ﷺ) "I performed the Tawaf-al-If
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah mengabarkan kepada kami [Abu Bakar] dari ['Abdul 'Aziz bin Rufai'] dari ['Atho'] dari [Ibnu 'Abbas radliallahu 'anhuma]; Ada seorang laki-laki berkata, kepada Nabi shallallahu 'alaihi wasallam: "Aku berziarah (ke Ka'bah untuk thawaf) sebelum aku melempar jumrah?". Beliau bersabda: "Tidak dosa". Orang itu berkata, lagi: "Aku mencukur rambut sebelum aku menyembelih hewan qurban?". Beliau bersabda: "Tidak dosa". Orang itu berkata, lagi: "Aku menyembelih hewan qurban sebelum aku melempar jumrah?". Beliau bersabda: "Tidak dosa". Dan berkata, ['Abdur Rahim Ar-Raziy] dari [Ibnu Khutsaim] telah mengabarkan kepada saya ['Atho'] dari [Ibnu 'Abbas radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam. Dan berkata, [Al Qosim bin Yahya] telah menceritakan kepadaku [Ibnu Khutsaim] dari ['Atha] dari [Ibnu 'Abbas] dari Nabi shallallahu 'alaihi wasallam, Dan berkata, ['Affan], (Abu 'Abdullah Al Bukhariy berkata,): "Aku mengira", dia mendapatkan kabar dari [Wuhaib] telah menceritakan kepada kami [Ibnu Khutsaim] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam. Dan berkata, [Hammad] dari [Qais bin Sa'ad] dan ['Abbad bin Manshur] dari ['Atho'] dari [Jabir radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1722</td></tr><tr><td>Arabic No</td><td>1722</td></tr><tr><td>Reference</td><td>Book 25 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (‘Абдуллах) ибн ‘Аббаса, да будет доволен Аллах им и его отцом, сказал: «Однажды, один человек сказал Пророку ﷺ: “Я совершил обход вокруг Каабы /таваф/ до того, как бросил камешки”. (Пророк ﷺ) ответил: “Ничего страшного”. (Другой) сказал: “Я обрил голову до того, как зарезал жертвенное животное”. (Пророк ﷺ) ответил: “Ничего страшного”. (Другой) сказал: “Я зарезал жертвенное животное до того, как бросил камешки”. (Пророк ﷺ) ответил: “Ничего страшного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1722</td></tr><tr><td>Arabic No</td><td>1722</td></tr><tr><td>Reference</td><td>Book 25 Hadith 200</td></tr></tbody></table></div>
 

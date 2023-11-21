@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "A man bought a piece of land
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bn Nashr] telah mengabarkan kepada kami ['Abdur Razzaq] dari [Ma'mar] dari [Hammam] dari [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Ada seorang laki-laki yang membeli sebidang tanah dari orang lain kemudian laki-laki yang membeli tanah itu mendapatkan sebuah guci yang di dalamnya ada emas. Maka orang yang membeli tanah itu berkata; "Ambillah emas milikmu karena aku hanya membeli tanah dan bukan membeli emas". Lalu orang yang menjual rumahnya berkata; "Yang aku jual adalah tanah ini dan apa yang ada didalamnya". Akhirnya kedua orang itu meminta pendapat kepada seseorang, lalu orang yang dimintai pendapat itu berkata; "Apakah kalian berdua mempunyai anak?. Laki-laki yang satu berkata; "Aku puya anak laki-laki". Dan yang satunya lagi berkata: "Aku punya anak perempuan". Maka orang yang dimintai pendapat berkata; "Nikahkanlah anak laki-laki itu dengan anak perempuan itu dan berilah nafkah untuk keduanya dari emas tadi dan juga shadaqahkanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3472</td></tr><tr><td>Arabic No</td><td>3472</td></tr><tr><td>Reference</td><td>Book 60 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Как-то раз) один человек купил у другого поместье, а потом тот, кто купил его, нашёл там кувшин с золотом и сказал продавшему: “Возьми у меня своё золото, ведь я покупал у тебя только землю и не покупал золота”. Прежний владелец этой земли сказал: “Я продал тебе землю со всем тем, что в ней было”, после чего они обратились на суд к одному человеку, который спросил: “Есть ли у вас дети?” Один из них сказал: “У меня есть сын”, другой же сказал: “У меня есть дочь”. (Тогда этот человек) сказал: “Выдайте девушку замуж за юношу, и расходуйте деньги на них, и подавайте милостыню”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3472</td></tr><tr><td>Arabic No</td><td>3472</td></tr><tr><td>Reference</td><td>Book 60 Hadith 139</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salih bin Khawwat:Concerning those who witnessed the Fear Prayer that w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik] dari [Yazid bin Ruman] dari [Shalih bin Khawwat] dari [orang yang menyaksikan Rasulullah] shallallahu 'alaihi wasallam melaksanakan shalat khauf saat perang Dzatur Riqa', bahwa sekelompok pasukan berbaris dalam shaf bersama beliau, sedangkan kelompok lain berjaga-jaga menghadap musuh. Beliau lalu shalat beserta kelompok pertama satu raka'at, beliau tetap berdiri sementara kelompok tersebut menyelesaikan shalat mereka masing-masing, setelah itu mereka beranjak dan berjaga-jaga menghadap musuh (menggantikan kelompok kedua). Kemudian datang kelompok lain yang semula berjaga-jada lalu shalat satu raka'at bersama beliau dari shalat beliau yang masih kurang, kemudian beliau duduk. Sedangkan kelompok kedua, menyelesaikan kekurangan raka'at mereka masing-masing, setelah itu beliau salam bersama mereka." [Mu'adz] mengatakan; telah menceritakan kepada kami [Hisyam] dari [Abu Az Zubair] dari [Jabir] ia berkata; "Kami bersama Nabi shallallahu 'alaihi wasallam di wilayah Nakhl". Lalu Jabir menceritakan tentang shalat khauf. Malik berkata; "Ini adalah keterangan yang paling baik yang pernah aku dengar tentang shalat khauf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4129</td></tr><tr><td>Arabic No</td><td>4129</td></tr><tr><td>Reference</td><td>Book 64 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля ибн Аби Хасма, да будет доволен им Аллах, который во время похода «Зат ар-рика‘» присутствовал на молитве под воздействием страха, проведенной Посланником Аллаха ﷺ, что одна часть (людей) выстроилась в ряды вместе с ним, а другая противостояла неприятелю, и (Пророк ﷺ) совершил один рак‘ат молитвы вместе с теми, кто был с ним, а потом выпрямился и остался в таком положении, а (второй рак‘ат эти люди) совершили сами, после чего ушли и выстроились против рядов врага. Затем (их место) заняла другая группа, и (Пророк ﷺ) совершил с ними рак‘ат, оставшийся от его молитвы, и остался сидеть, а (второй рак‘ат эти люди) совершили сами, после чего (Пророк ﷺ) произнес с ними слова таслима
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4129</td></tr><tr><td>Arabic No</td><td>4129</td></tr><tr><td>Reference</td><td>Book 64 Hadith 173</td></tr></tbody></table></div>
 

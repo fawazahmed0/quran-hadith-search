@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The bed mattress of the Prophet (ﷺ) was made of a leather case
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Abu Raja'] telah menceritakan kepada kami [An Nadlr] dari [Hisyam] dia berkata; telah mengabarkan kepadaku [Ayahku] dari [Aisyah] dia berkata; "Alas tidur Rasulullah shallallahu 'alaihi wasallam terbuat dari kulit yang dalamnya terisi serabut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6456</td></tr><tr><td>Arabic No</td><td>6456</td></tr><tr><td>Reference</td><td>Book 81 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказала ‘Аиша, да будет доволен ею Аллах: «Постелью Посланника Аллаха ﷺ, служила кожа, набитая пальмовым волокном»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6456</td></tr><tr><td>Arabic No</td><td>6456</td></tr><tr><td>Reference</td><td>Book 81 Hadith 45</td></tr></tbody></table></div>
 

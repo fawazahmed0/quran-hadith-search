@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sahl b. Abi Khathmah:The Messenger of Allah (ﷺ) forbade the sale of f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Yahya bin Sa'id] dari [Busyair bin Yasar] dari [Sahl bin Abu Hatsmah] bahwa Rasulullah shallallahu 'alaihi wasallam melarang dari menjual kurma dengan kurma, dan memberikan keringanan dalam 'araya (ruthab atau anggur di atas pohon) yang dijual dengan menaksirnya, yang dimakan pemiliknya dalam keadaan berupa ruthab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2191) Sahih Muslim (1540)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3363</td></tr><tr><td>Arabic No</td><td>3363</td></tr><tr><td>Reference</td><td>Book 23 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Сахля ибн Абу Хасмы, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил менять финики на пальме на сушёные финики, но разрешил продавать свежие финики, которые ещё на пальме (за сушёные финики в объёме, соответствующем) примерно определённому объёму, который обрели бы эти свежие финики, если бы их высушили, дабы их владельцы могли есть эти финики в свежем виде
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2191) Sahih Muslim (1540)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3363</td></tr><tr><td>Arabic No</td><td>3363</td></tr><tr><td>Reference</td><td>Book 23 Hadith 38</td></tr></tbody></table></div>
 

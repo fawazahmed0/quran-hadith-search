@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: As-Subayy ibn Ma'bad said: I raised my voice in ta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Jarir bin Abdul Hamid] dari [Manshur] dari [Abu Wail], ia berkata; [Ash Shubai bin Ma'bad] telah berkata; aku bertalbiyah untuk melakukan keduanya secara bersamaan. Kemudian [Umar] berkata; engkau telah mendapatkan petunjuk untuk mengikuti sunah Nabimu shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1798</td></tr><tr><td>Arabic No</td><td>1798</td></tr><tr><td>Reference</td><td>Book 11 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ас-Субайй ибн Ма‘бад сказал: «Я объявил о намерении соединить ‘умру с хаджем. ‘Умар сказал: “Ты поступил согласно Сунне твоего Пророка ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1798</td></tr><tr><td>Arabic No</td><td>1798</td></tr><tr><td>Reference</td><td>Book 11 Hadith 78</td></tr></tbody></table></div>
 

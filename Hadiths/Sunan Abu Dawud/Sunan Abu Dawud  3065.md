@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad bin Al hasan Al Mukhzumi said “The sentence “that which is not reac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 20 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухаммад ибн аль-Хасан аль-Махзуми сказал, объясняя слова «То, до чего не достают ноги верблюда»: «То есть верблюды могут есть то, до чего они достанут своими головами, а то, что выше, считается заповедным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 20 Hadith 138</td></tr></tbody></table></div>
 

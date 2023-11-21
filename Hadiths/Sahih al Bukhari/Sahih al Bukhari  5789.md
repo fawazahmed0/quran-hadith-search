@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (or 'Abul Qasim) said, "While a man was walking
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Muhammad bin Ziyad] dia berkata; saya mendengar [Abu Hurairah] berkata; Nabi shallallahu 'alaihi wasallam bersabda atau Abu Qasim shallallahu 'alaihi wasallam bersabda: "Ketika seorang lelaki berjalan dengan menggunakan jubah yang ia kenakan, dan berjalan dengan rasa ta'ajub, lalu ia ditelan (oleh bumi), dan ia akan tetap berguncang-guncang (di dalam perut bumi) hingga datang hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5789</td></tr><tr><td>Arabic No</td><td>5789</td></tr><tr><td>Reference</td><td>Book 77 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн Зияд сказал:\n— Я слышал, как Абу Хурайра, да будет доволен им Аллах, говорил: «Пророк (или он сказал: Абуль-Касим) ﷺ сказал: “(Однажды) один нарядившийся в одежду, причёсанный человек шёл, восхищаясь самим собой, как вдруг Аллах заставил землю поглотить его, и будет он погружаться (в неё) до самого Дня воскрешения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5789</td></tr><tr><td>Arabic No</td><td>5789</td></tr><tr><td>Reference</td><td>Book 77 Hadith 7</td></tr></tbody></table></div>
 

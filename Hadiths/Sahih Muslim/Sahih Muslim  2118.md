@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Samura said:During the lifetime of Allah's Messenger (ﷺ) I wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Bisyr Al Mufadldlal] telah menceritakan kepada kami [Al Jurairi] dari [Abul Ala' Hayyan bin Umair] dari [Abdurrahman bin Samurah] ia berkata; "Pada suatu waktu di masa Rasulullah shallallahu 'alaihi wasallam ketika aku sedang bermain panah, tiba-tiba terjadi gerhana matahari. Lalu kulemparkan semua alat permainanku itu. Aku berkata; Aku akan melihat apakah gerangan yang dilakukan Rasulullah shallallahu 'alaihi wasallam bila terjadi gerhana matahari seperti itu. Setelah aku sampai ke tempat beliau, kudapati beliau sedang mengangkat tangannya berdo'a, takbir, tahmid dan tahlil sampai matahari terang kembali. Beliau membaca dua surat dan shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2118</td></tr><tr><td>Arabic No</td><td>913.01</td></tr><tr><td>Reference</td><td>Book 10 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Самура сказал: «Однажды при жизни Посланника Аллаха ﷺ я упражнялся в стрельбе из лука, и вдруг началось солнечное затмение. Бросив стрелы, я сказал себе: “Пойду посмотрю, что делает Посланник Аллаха ﷺ в связи с сегодняшним солнечным затмением”. Когда я пришёл к нему, он стоял, подняв руки, обращаясь к Аллаху с мольбами, возвеличивая Его, прославляя Его и свидетельствуя о Его единственности. Это продолжалось до тех пор, пока затмение не закончилось. Он прочитал две суры и совершил молитву в два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2118</td></tr><tr><td>Arabic No</td><td>913.01</td></tr><tr><td>Reference</td><td>Book 10 Hadith 27</td></tr></tbody></table></div>
 

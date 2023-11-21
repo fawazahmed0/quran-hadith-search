@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hanzla bin Qais:Rafi' bin Khadij said, "My two uncles told me that they
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kamu ['Amru bin Khalid] telah menceritakan kepada kami [Al Laits] dari [Rabi'ah bin ABi 'Abdurrahman] dari [Hanzhalah bin Qais] dari [Rafi' bin Khudaij] berkata, telah menceritakan kepadaku [kedua pamanku] bahwasanya mereka menyewakan tanah ladang pada zaman Nabi shallallahu 'alaihi wasallam atas apa yang tumbuh diatasnya dengan bagian seperempat atau sesuatu yang dikecualikan oleh pemilik tanah, maka kemudian Nabi shallallahu 'alaihi wasallam melarangnya. Lalu aku bertanya kepada Rafi': "Bagaimana bila pembayarannya dengan dinar atau dirham?" Maka Rafi' berkata: "Tidak dosa (boleh) dengan dinar dan dirham". Berkata, Al Laits: "Pelarangan tentang itu karena bila dipandang oleh orang yang faham tentang halal haram bisa tidak diperbolehkan karena khawatir ada bahayanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2347</td></tr><tr><td>Arabic No</td><td>2347</td></tr><tr><td>Reference</td><td>Book 41 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что Рафи‘ ибн Хадидж сказал: «Два моих дяди рассказали мне, что во время Пророка ﷺ сподвижники отдавали землю на возделывание в обмен на часть урожая, выросшего на берегах маленькой речки или чего-то ещё, что упоминал владелец земли. И Пророк ﷺ запретил это». Ханзаля ибн Кайс сказал: «Я спросил Рафи‘а: “А если (брать в аренду) за динары и дирхамы?” Рафи‘ ответил: “Если за динары и дирхамы, то нет проблем”». \nАль-Лейс сказал: «Запрещённым из этого является то, на что, если посмотрят те, кто знают разрешённое и запретное, они не разрешат это, потому что там присутствует риск»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2347</td></tr><tr><td>Arabic No</td><td>2347</td></tr><tr><td>Reference</td><td>Book 41 Hadith 25</td></tr></tbody></table></div>
 

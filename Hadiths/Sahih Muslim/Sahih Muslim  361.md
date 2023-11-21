@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Thabit, that when 'Abdullah b. 'Amr and 'Anba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [al-Hasan bin Ali al-Hulwani] dan [Ishaq bin Manshur] serta [Muhammad bin Rafi'] dan lafazh mereka berdekatan, Ishaq berkata, telah mengabarkan kepada kami, sedangkan dua orang lainnya berkata; telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ibnu Juraij] dia berkata, telah mengabarkan kepadaku [Sulaiman al-Ahwal] bahwa [Tsabit] mantan budak Umar bin Abdurrahman, mengabarkan kepadanya, bahwa ketika antara [Abdullah bin Amru] dan Anbasah bin Abu Sufyan bersiap-siap untuk saling membunuh, maka Khalid bin al-Ash berkendaraan menuju Abdullah bin Amru, lalu Khalid menasihatinya, maka Abdullah bin Amru berkata, "Apakah kamu tidak mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa dibunuh untuk membela hartanya, maka dia mati syahid'." Dan telah menceritakan kepada kami tentangnya [Muhammad bin Hatim] telah menceritakan kepada kami [Muhammad bin Bakar]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ahmad bin Utsman an-Naufali] telah menceritakan kepada kami [Abu Ashim] keduanya dari [Ibnu Juraij] dengan sanad ini semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>361</td></tr><tr><td>Arabic No</td><td>141.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 268</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Амра, что Посланник Аллаха ﷺ сказал: «(Любой) погибший при защите своего имущества (становится) шахидом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>361</td></tr><tr><td>Arabic No</td><td>141.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 268</td></tr></tbody></table></div>
 

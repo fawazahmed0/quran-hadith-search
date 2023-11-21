@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said; The Messenger of Allah (ﷺ) rode a horse and was thrown off
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Anas bin Malik], Rasulullah shallallahu 'alaihi wasallam pernah menaiki seekor kuda, lalu beliau terpelanting darinya hingga sisi kanannya terkoyak, lalu beliau melaksanakan salah satu shalat wajib dengan duduk dan kami pun shalat di belakang beliau dengan duduk. Tatkala selesai, beliau bersabda: "Sesungguhnya imam itu dijadikan hanyalah untuk diikuti, apabila dia shalat dengan berdiri maka shalatlah kalian dengan berdiri, apabila dia rukuk maka rukuklah, apabila dia bangkit maka bangkitlah, apabila dia mengucapkan, 'Sami'allaahu liman hamidah' (Allah mendengar kepada orang yang memujiNya), maka ucapkanlah, 'Rabbanaa Walakal Hamdu' (Wahai Rabb Kami, segala puji hanya bagiMu), dan apabila dia shalat dengan duduk maka shalatlah kalian dengan duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (689) Sahih Muslim (411)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>601</td></tr><tr><td>Arabic No</td><td>601</td></tr><tr><td>Reference</td><td>Book 2 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика о том, что однажды Посланник Аллаха ﷺ ехал верхом на коне и упал с него и поцарапал правую часть (тела). И тогда он совершил одну из (обязательных) молитв сидя, и мы тоже помолились за ним сидя.Когда он закончил (молитву), то сказал: «Поистине, имам назначается для того, чтобы (во время молитвы) другие следовали за ним, и поэтому, если он совершает молитву стоя, вы тоже молитесь стоя, если он совершает поясной поклон (руку‘), то кланяйтесь вместе с ним, если он поднимет (голову), поднимайте и вы, если он скажет: “Да услышит Аллах того, кто его восхваляет” (Сами‘а-ллаху лиман хамидах), то говорите: “Господь наш и Тебе хвала” (Раббана уа лякаль-хамд), а если он молится сидя, то все молитесь сидя (вместе с ним)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (689) Sahih Muslim (411)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>601</td></tr><tr><td>Arabic No</td><td>601</td></tr><tr><td>Reference</td><td>Book 2 Hadith 211</td></tr></tbody></table></div>
 

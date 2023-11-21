@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: If he is intoxicated, flog him; ag
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ashim Al Anthaki] berkata, telah menceritakan kepada kami [Yazid bin Harun Al Wasithi] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Al Harits bin 'Abdurrahman] dari [Abu Salamah] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika ia mabuk maka cembuklah, kemudian jika ia mabuk lagi maka cambuklah, kemudian jika ia mabuk lagi maka cambuklah, kemudian jika ia mengulangi lagi pada kali keempat maka bunuhlah." Abu Dawud berkata, "demikian juga hadits [Umar bin Abu Salamah], dari [bapaknya], dari [Abu Hurairah], dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika ia minum khamer maka cambuklah, jika ia mengulanginya lagi untuk kali keempat maka bunuhlah." Demikan juga dalam hadits [Suhail] dari [Abu Shalih], dari [Abu Hurairah], dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika mereka minum pada kali keempat, maka bunuhlah mereka." Demikian juga dalam hadits [Ibnu Abu Nu'm] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam. Demikian juga dengan hadits Abdullah bin Amru dari Nabi shallallahu 'alaihi wasallam, dan Asy Syarid dari Nabi shallallahu 'alaihi wasallam dalam hadits riwayat [Al Jadali], dari [Mu'awiyah], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika ia mengulanginya lagi pada kali ketiga, atau keempat maka bunuhlah ia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4484</td></tr><tr><td>Arabic No</td><td>4484</td></tr><tr><td>Reference</td><td>Book 40 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Если человек напился допьяна, подвергните его бичеванию, если он напился допьяна снова, опять подвергните его бичеванию, если он напился допьяна снова, опять подвергните его бичеванию, а если он сделал это в четвёртый раз, убейте его». Абу Дауд сказал: «‘Умар ибн Абу Саляма передаёт от своего отца от Абу Хурайры от Пророка ﷺ: “Если он будет пить вино, то подвергните его бичеванию, а если он сделает это в четвёртый раз, то убейте его”». Абу Дауд также сказал: «Сухайль передаёт от Абу Салиха от Абу Хурайры от Пророка ﷺ: “Если они напьются в четвёртый раз, то убейте их”. Ибн Абу Ну‘м передаёт от Ибн ‘Умара от Пророка ﷺ и ‘Абдуллах ибн ‘Амр передаёт от Пророка ﷺ и аш-Шарид передаёт от Пророка ﷺ, а аль-Джадали передаёт от Му‘авии от Пророка ﷺ: “А если он сделает это в третий или четвёртый раз, то убейте его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4484</td></tr><tr><td>Arabic No</td><td>4484</td></tr><tr><td>Reference</td><td>Book 40 Hadith 134</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: When we went out along with the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ma'in] telah menceritakan kepada kami [Wahb bin Jarir], telah menceritakan kepada kami [ayahku], aku mendengar [Muhammad bin Ishaq] menceritatakan dari [Isma'il bin Umayyyah] dari [Bujair bin Abu Bujair], ia berkata; aku mendengar [Abdullah bin Amr] berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam ketika kami keluar bersamanya menuju Thaif, lalu kami melewati sebuah kuburan, beliau berkata: "Ini adalah kuburan Abu Righal, dahulu ketika ia berada di tanah Haram ini ia membelanya. Kemudian tatkala ia keluar ia mendapatkan balas dendam yang pernah menimpa kaumny di tempat ini. Kemudian ia dikubur di tempat tersebut. Ia dikubur bersama dengan ranting dari emas. Apabila kalian mengambilnya maka kalian mendapatkannya bersamanya." Kemudaian orang-orang bersegera untuk mengeluarkan ranting tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3088</td></tr><tr><td>Arabic No</td><td>3088</td></tr><tr><td>Reference</td><td>Book 20 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Когда по пути в Таиф мы проходили мимо могилы, я слышал, как Посланник Аллаха ﷺ сказал: “Это могила Абу Ригаля. Он был в аль-Хараме, и заповедная территория защищала его, а когда он вышел, его постигла та же беда, что и его народ. Это произошло вот здесь, и здесь же его похоронили. А знамение, подтверждающее, что всё так и было, золотой прут, захороненный вместе с ним. Если вы разроете могилу, вы найдёте его”. И люди разрыли могилу и вытащили этот прут»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3088</td></tr><tr><td>Arabic No</td><td>3088</td></tr><tr><td>Reference</td><td>Book 20 Hadith 161</td></tr></tbody></table></div>
 

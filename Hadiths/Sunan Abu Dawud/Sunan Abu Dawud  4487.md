@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman ibn Azhar: I can still picture myself looking at the Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Dawud Al Mahri Al Mishri bin Akhi Risydina bin Sa'd] berkata, telah mengabarkan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Usamah bin Zaid] bahwa [Ibnu Syihab] menceritakan kepadanya dari ['Abdurrahman bin Azhar] berkata, "Saat ini seakan aku melihat Rasulullah shallallahu 'alaihi wasallam sedang berada di sebuah pemukiman, beliau mencari rumah Khalid Ibnul Walid. Ketika beliau dalam keadaan seperti itu, seorang laki-laki yang telah minum khamer dibawa ke hadapan Rasulullah shallallahu 'alaihi wasallam, beliau lalu bersabda kepada orang banyak: "Pukullah ia!" kemudian di antara mereka ada yang memukul dengan sandal, tongkat dan Mitakhah -Ibnu Wahb mengartikan dengan pelepah kurma yang basah-." Setelah itu Rasulullah shallallahu 'alaihi wasallam mengambil pasir dan melemparkannya ke wajah laki-laki itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4487</td></tr><tr><td>Arabic No</td><td>4487</td></tr><tr><td>Reference</td><td>Book 40 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал ‘Абдуррахман ибн Азхар: «Я как будто и сейчас смотрю на Посланника Аллаха ﷺ который ищет среди прочих жилище Халида ибн аль-Валида. И вдруг к нему привели человека, который пил вино. (Посланник Аллаха ﷺ) сказал людям: “Побейте его”. И одни били его сандалиями, другие палкой, а третьи голыми пальмовыми ветвями, а потом Посланник Аллаха ﷺ взял горсть земли и бросил ему в лицо (сделав это в качестве указания на отвратительность греха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4487</td></tr><tr><td>Arabic No</td><td>4487</td></tr><tr><td>Reference</td><td>Book 40 Hadith 137</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:A lady committed theft during the lifetime of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] katanya, Telah mengabarkan kepada kami [Urwah bin Zubair], ada seorang wanita mencuri di masa Rasulullah shallallahu 'alaihi wasallam tepatnya ketika terjadi penaklukan Makkah. Kaumnya merasa gelisah atas kasus ini sehingga melakukan perundingan dengan Usamah bin Zaid dengan harapan mereka bisa minta keringanan hukuman melalui perantaranya. Kata Urwah, ketika Usamah melaporkan kasusnya kepada Rasulullah dan meminta keringanan, wajah Rasulullah nampak berubah (pertanda bangkit emosinya). Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah kalian akan mengajakku melakukan "kompromi" terhadap hukum Allah? Usamah langsung insaf dengan mengatakan "Mintalah ampunan untukku wahai Rasulullah? Sore harinya, Rasulullah shallallahu 'alaihi wasallam berpidato, memuji Allah dengan pujian yang semestinya bagi-Nya kemudian berujar: "Hadirin yang dihormati, manusia sebelum kalian telah celaka sebab jika yang mencuri kalangan atas (pejabat, bangsawan, elit politik) maka mereka membiarkannya, sebaliknya jika yang mencuri masyarakat biasa (golongan rendah, borjuis, tak berpangkat), mereka menegakkan hukuman. Demi Dzat yang diri-ku berada di tangan-NYA, kalaulah Fathimah binti Muhammad mencuri, niscaya kupotong tangannya. Kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan wanita itu sehingga dipotong tangannya, dikemudian hari ia menindaklanjuti taubatnya dengan baik dan menikah. Kata [Aisyah], dikemudian hari si wanita datang dan kulaporkan keperluannya kepada Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4304</td></tr><tr><td>Arabic No</td><td>4304</td></tr><tr><td>Reference</td><td>Book 64 Hadith 337</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Урва ибн аз-Зубейр сказал: «Когда одна женщина украла во времена Посланника Аллаха ﷺ во время похода завоевания Мекки, её близкие пришли к Усаме ибн Зейду, чтобы он ходатайствовал за неё. Когда Усама стал ходатайствовать за неё перед Посланником Аллаха ﷺ, его лицо изменилось в цвете (от гнева), и он сказал: “Неужели ты ходатайствуешь об отмене одного из наказаний, установленных Аллахом?!” Усама ответил: “Попроси за меня прощения (у Аллаха), о Посланник Аллаха!” Во второй половине дня Посланник Аллаха ﷺ встал и обратился к людям с проповедью. Он прославил Аллах, как Он этого заслуживает, после чего сказал: “А затем. Поистине, живших до вас погубило то, что, когда крал знатный из их числа, они оставляли его [не применяли к нему установленное наказание], а когда крал слабый, они применяли к нему установленное наказание. Клянусь Тем, в Чьей длани душа Мухаммада, если бы украла Фатыма, дочь Мухаммада, то я обязательно отрубил бы руку и ей!” Затем по приказу Посланника Аллаха ﷺ той женщине отрубили руку. После этого она принесла прекрасное покаяние и вышла замуж». \n‘Аиша сказала: «После этого она приходила ко мне, и я рассказывала о её нуждах Посланнику Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4304</td></tr><tr><td>Arabic No</td><td>4304</td></tr><tr><td>Reference</td><td>Book 64 Hadith 337</td></tr></tbody></table></div>
 

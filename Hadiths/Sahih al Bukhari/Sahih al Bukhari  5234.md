@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:An Ansari woman came to the Prophet (ﷺ) and he took he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Hisyam] ia berkata; Aku mendengar [Anas bin Malik] radliallahu 'anhu berkata; Seorang wanita datang kepada Nabi shallallahu 'alaihi wasallam, lalu beliau pun menyendiri dan bersabda: "Demi Allah, kalian adalah manusia yang paling aku cintai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5234</td></tr><tr><td>Arabic No</td><td>5234</td></tr><tr><td>Reference</td><td>Book 67 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Как-то раз) одна женщина из числа ансаров пришла к Пророку ﷺ, и он уединился с ней, сказав: “Клянусь Аллахом, поистине, для меня вы — самые любимые люди!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5234</td></tr><tr><td>Arabic No</td><td>5234</td></tr><tr><td>Reference</td><td>Book 67 Hadith 167</td></tr></tbody></table></div>
 

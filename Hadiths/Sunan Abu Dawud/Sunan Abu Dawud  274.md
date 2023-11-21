@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: In the time of the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Nafi'] dari [Sulaiman bin Yasar] dari [Ummu Salamah, istri Nabi shallallahu 'alaihi wasallam]; bahwasanya ada seorang wanita pada masa Rasulullah shallallahu 'alaihi wasallam yang selalu keluar darah (penyakit). Maka Ummu Salamah meminta fatwa untuknya kepada Rasulullah shallallahu 'alaihi wasallam, lalu beliau bersabda: "Hendaklah dia menunggu selama malam dan hari yang biasa keluar haidl setiap bulan sebelum dia terkena darah penyakit. Maka tinggalkanlah shalat sebanyak bilangan haidlnya yang biasa setiap bulan. Apabila telah melewatinya, hendaklah dia mandi, kemudian memakai pakaian dan mengerjakan shalat dengan pakaian tersebut". Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Yazid bin Khalid bin Yazid bin Abdillah bin Mauhib] mereka berdua berkata; Telah menceritakan kepada kami [Al-Laits] dari [Nafi'] dari [Sulaiman bin Yasar] bahwasanya ada [seorang lelaki] yang mengabarkan kepadanya dari [Ummu Salamah] bahwa ada seorang wanita yang keluar darah penyakit, kemudian dia menyebutkan hadits yang semakna dengannya. Beliau bersabda: "Apabila dia telah melewatinya dan datang waktu shalat, hendaklah dia mandi", dengan lafazh yang semakna. Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Anas bin 'Iyadl] dari [Ubaidillah] dari [Nafi'] dari [Sulaiman bin Yasar] dari [Seorang lelaki dari Anshar] bahwasanya ada seorang wanita yang keluar darah penyakit. Lalu dia menyebutkan yang semakna dengan hadits Al-Laits, beliau bersabda: "Apabila dia telah melewatinya dan datang waktu shalat, hendaklah dia mandi", dan dia menyebutkan hadits yang semakna. Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Shakhr bin Juwairiyyah] dari [Nafi'] dengan isnad Al-Laits dan dengan yang semakna, beliau bersabda: "Maka hendaklah dia meninggalkan shalat sebanyak yang ditinggalkannya itu, kemudian apabila datang waktu shalat, hendaklah dia mandi dan memakai pakaian lalu shalat". Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ayyub] dari [Sulaiman bin Yasar] dari [Ummu Salamah] dengan kisah ini, dia menyebutkan padanya; beliau bersabda: "Dia meninggalkan shalat dan mandi pada waktu selain waktu haidl, memakai pakaian dan shalat". Abu Dawud berkata; Wanita yang mustahadldlah tersebut disebut namanya oleh [Hammad bin Zaid] dari [Ayyub] di dalam hadits ini, dia berkata; Fathimah binti Abi Hubaisy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>274</td></tr><tr><td>Arabic No</td><td>274</td></tr><tr><td>Reference</td><td>Book 1 Hadith 274</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умм Саламы, жены Пророка ﷺ о том, что при жизни Посланника Аллаха ﷺ у одной женщины было кровотечение и Умм Салама обратилась к Посланнику Аллаха ﷺ чтобы он вынес для нее решение, и он сказал: «Она должна отсчитать количество ночей и дней в месяце, в течение которых у нее были менструации, до того, как она поражена этим и перестанет молиться на этот период. А когда это пройдет, она искупается, затем обвяжет материей половые органы, и после этого помолится в ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>274</td></tr><tr><td>Arabic No</td><td>274</td></tr><tr><td>Reference</td><td>Book 1 Hadith 274</td></tr></tbody></table></div>
 

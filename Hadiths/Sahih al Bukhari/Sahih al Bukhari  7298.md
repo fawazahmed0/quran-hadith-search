@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) wore a gold ring and then the people follow
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Abdullah bin Dinar] dari [Ibn Umar] radliallahu 'anhuma, ia berkata, "Nabi shallallahu 'alaihi wasallam memakai cincin emas, lantas para sahabat juga membuat cincin emas, maka Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh, aku dahulu memang memakai cincin emas, " lantas beliau membuangnya dan bersabda: "Sekali-kali aku tidak bakalan memakainya lagi, " maka para sahabat juga membuang cincin mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7298</td></tr><tr><td>Arabic No</td><td>7298</td></tr><tr><td>Reference</td><td>Book 96 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллах ибн ‘Умара, да будет доволен Аллах им и его отцом, который сказал: «У Пророка ﷺ был золотой перстень. Потом люди стали носить золотые перстни, и тогда Пророк ﷺ сказал: “Поистине, у меня был золотой перстень”, и тогда он выбросил его и сказал: “Поистине, я никогда не надену его”. И люди тоже выбросили свои перстни»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7298</td></tr><tr><td>Arabic No</td><td>7298</td></tr><tr><td>Reference</td><td>Book 96 Hadith 29</td></tr></tbody></table></div>
 

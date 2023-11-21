@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I heard Allah's Messenger (ﷺ) saying, "No prophet gets sick bu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Hausyab] Telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Bapaknya] dari ['Urwah] dari ['Aisyah radliallahu 'anha] ia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang nabi sakit kecuali akan diberi pilihan antara dunia dan akhirat." Aisyah berkata; Dan Nabi shallallahu 'alaihi wasallam ketika sakit yang menyebabkan kematiannya, aku mendengar beliau menuturkan dengan terputus-putus, beliau bersabda: "Bersama orang-orang yang telah Allah beri nikmat kepada mereka, baik dari para nabi, orang-orang yang jujur, orang-orang yang mati syahid, dan orang-orang yang shalih dan mereka itulah sebaik-baik teman." Maka aku tahu bahwa waktu itu beliau sedang diberi pilihan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4586</td></tr><tr><td>Arabic No</td><td>4586</td></tr><tr><td>Reference</td><td>Book 65 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я слышала, как Посланник Аллаха ﷺ сказал: “Кто бы из пророков не болел, ему обязательно предоставляется возможность сделать выбор между миром этим и миром вечным”. (Кроме того,) я слышала, как во время той болезни, от которой он умер, он говорил хриплым голосом: “... с теми, кого Аллах облагодетельствовал из числа пророков, правдивейших, павших за веру и праведников. Прекрасные это товарищи!” — и я поняла, что ему был предоставлен такой выбор»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4586</td></tr><tr><td>Arabic No</td><td>4586</td></tr><tr><td>Reference</td><td>Book 65 Hadith 108</td></tr></tbody></table></div>
 

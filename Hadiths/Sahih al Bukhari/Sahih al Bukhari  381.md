@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:Allah's Messenger (ﷺ) used to pray on Khumra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Sulaiman Asy Syaibani] dari ['Abdullah bin Syaddad] dari [Maimunah] ia berkata, "Nabi shallallahu 'alaihi wasallam shalat di atas tikar kecil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>381</td></tr><tr><td>Arabic No</td><td>381</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн Шаддада от Маймуны (, что она) рассказывала: «Пророк ﷺ обычно молился на своей подстилке /хумра/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>381</td></tr><tr><td>Arabic No</td><td>381</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
 

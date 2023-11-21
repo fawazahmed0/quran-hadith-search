@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Maimuna, the wife of the Messenger of Allah (ﷺ), reported:The Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi], telah mengabarkan kepada kami [Khalid bin Abdullah] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] katanya; telah menceritakan kepada kami ['Abbad bin Al 'Awwam] keduanya dari [Asy Syaibani] dari [Abdullah bin Syidad], katanya; telah menceritakan kepadaku [Maimunah] isteri Nabi shallallahu 'alaihi wasallam, katanya; Rasululah shallallahu 'alaihi wasallam pernah shalat dan aku sejajar dengan beliau, adakalanya pakaian beliau mengenaiku jika beliau sujud, dan beliau ketika itu shalat diatas kain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1504</td></tr><tr><td>Arabic No</td><td>513.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 337</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абдуллах ибн Шаддада, что Маймуна, жена Пророка ﷺ, сказала: «Посланник Аллаха ﷺ совершал молитву рядом с тем местом, где сидела я, и иногда, во время совершения земных поклонов (края) его одежды касались меня. Он же обычно молился на своей подстилке /хумра/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1504</td></tr><tr><td>Arabic No</td><td>513.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 337</td></tr></tbody></table></div>
 

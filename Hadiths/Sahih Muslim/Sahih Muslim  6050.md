@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) never beat anyone with his hand, ne
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakannya kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam Rasulullah Shallalahu 'alaihi wa sallam sama sekali tidak pernah memukul dengan tangannya pelayan beliau atau pun seorang wanita pun, kecuali saat berjihad di jalan Allah, beliau tidak pernah membalas suatu kesalahan yang dilakukan orang kecuali bila keharaman-keharaman Allah 'azza wajalla dilanggar, beliau membalas karena Allah 'azza wajalla. Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata; Telah menceritakan kepada kami ['Abdah] dan [Waki']; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Mu'awiyah] seluruhnya dari [Hisyam] melalui jalur ini dengan adanya penambahan masing-masing dari mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6050</td></tr><tr><td>Arabic No</td><td>2328.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6050</td></tr><tr><td>Arabic No</td><td>2328.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 108</td></tr></tbody></table></div>
 

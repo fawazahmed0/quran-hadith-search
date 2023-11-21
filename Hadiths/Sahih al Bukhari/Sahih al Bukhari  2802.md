@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundab bin Sufyan:In one of the holy Battles a finger of Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Abu 'Awanah] dari [Al Aswad bin Qais] dari [Jundab bin Sufan] bahwa Rasulullah shallallahu 'alaihi wasallam ikut terlibat dalam berbagai peperangan dimana jari jemari Beliau terluka mengeluarkan darah,. Maka kemudian Beliau bersya'ir: "tiadalah kamu melainkan seujung jari yang berdarah, dan di jalan Allah ada sesuatu yang kamu peraleh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2802</td></tr><tr><td>Arabic No</td><td>2802</td></tr><tr><td>Reference</td><td>Book 56 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джундуб бин Суфйан, да будет доволен им Аллах, сказал: Когда во время одной из битв Посланник Аллаха ﷺ был ранен в палец, из которого потекла кровь, он сказал:Ты всего лишь кровоточащий палец, разве не так?А то, что претерпел ты, (случилось с тобой) на пути Аллаха
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2802</td></tr><tr><td>Arabic No</td><td>2802</td></tr><tr><td>Reference</td><td>Book 56 Hadith 19</td></tr></tbody></table></div>
 

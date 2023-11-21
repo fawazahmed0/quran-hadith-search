@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) took a child in his lap for Tahnik (i.e. he ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hisyam] dia berkata; telah mengabarkan kepadaku [Ayahku] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam pernah meletakkan seorang bayi di pangkuannya kemudian beliau mentahniknya (mengunyahkan buah kurma kemudian memasukkan ke mulut bayi) lalu bayi itu ngompol, maka beliau meminta diambilkan air dan memercikinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6002</td></tr><tr><td>Arabic No</td><td>6002</td></tr><tr><td>Reference</td><td>Book 78 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что (однажды) Пророк ﷺ положил младенца себе на колени, чтобы сделать ему “тахник” (разжёвывание финика и протирание образовавшейся кашицей нёба новорожденного), но тот помочился на него. Тогда (Пророк ﷺ) велел принести воды и обрызгал ею это место
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6002</td></tr><tr><td>Arabic No</td><td>6002</td></tr><tr><td>Reference</td><td>Book 78 Hadith 33</td></tr></tbody></table></div>
 

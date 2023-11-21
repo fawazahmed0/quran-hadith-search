@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qaza'a Maula:(freed slave of) Ziyad: I heard Abu Sa'id Al-khudri narrat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu AL Walid] telah menceritakan kepada kami [Syu'bah] dari ['Abdul Malik] aku mendengar [Qaza'ah] sahayanya Ziyad berkata, Aku mendengar [Abu Sa'id Al Khudriy radliallahu 'anhu] menceritakan empat hal (kalimat) dari Nabi shallallahu 'alaihi wasallam yang menyebabkan aku ta'ajub dan kaget. Beliau shallallahu 'alaihi wasallam bersabda: "Tidak boleh bepergian bagi wanita selama dua hari kecuali bersama suami atau mahramnya, dan tidak boleh shaum pada hari Raya 'Iedul Fithri dan 'Iedul Adhha, dan tidak boleh shalat setelah shalat Shubuh hingga matahari terbit dan setelah 'Ashar hingga terbenam (matahari), dan tidaklah ditekankan untuk berziarah kecuali untuk mengunjungi tiga masjid, Al Masjidil Haram, Masjid Rasul shallallahu 'alaihi wasallam dan Masjidil Aqsha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1197</td></tr><tr><td>Arabic No</td><td>1197</td></tr><tr><td>Reference</td><td>Book 20 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Четыре (вещи), которые я слышал от Пророка ﷺ (или же он сказал, что он передаёт их со слов Пророка ﷺ) понравились мне и вызвали моё восхищение (в особой мере. Пророк ﷺ сказал): “Не следует женщине отправляться в поездку, которая займёт два дня (или более), если не будет с ней мужа или близкого родственника; не следует соблюдать пост в День разговения и в День жертвоприношения; не следует совершать молитву после двух (обязательных) молитв — после утренней молитвы /субх/, пока солнце не взойдёт, и после послеполуденной молитвы/‘аср/ до захода солнца; и не следует (специально) отправляться в путешествие (для молитвы никуда) за исключением трёх мечетей: Масджид аль-Харам (в Мекке), Масджид аль-Акса (в Иерусалиме) и моей мечети (в Медине)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1197</td></tr><tr><td>Arabic No</td><td>1197</td></tr><tr><td>Reference</td><td>Book 20 Hadith 9</td></tr></tbody></table></div>
 

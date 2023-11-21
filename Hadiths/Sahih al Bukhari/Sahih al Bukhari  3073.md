@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) got up amongst us and mentioned Al Ghulul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Abu Hayyan] berkata telah bercerita kepadaku [Abu Zur'ah] berkata telah bercerita kepadaku [Abu Hurairah radliallahu 'anhu] berkata; Nabi Shallallahu'alaihiwasallam berdiri di hadapan kami lalu Beliau menuturkan tentang ghulul (mengambil harta Rampasan perang sebelum dibagikan) dan Beliau (memperingatkan) besarnya dosa dan akibat dari perbuatan tersebut. Beliau bersabda: "Sungguh akan kutemui salah seorang dari kalian pada hari qiyamat yang di tengkuknya ada seekor kambing yang mengembik, di tengkuknya ada seekor kuda yang meringkik sambil dia berkata; "Wahai Rasulullah, tolonglah aku", lalu aku jawab; "Aku tidak berkuasa sedikitpun terhadapmu. Aku sudah menyampaikan kepada kamu (ketika di dunia) ". Dan kutemui seseorang yang di atas tengkuknya ada seekor unta yang melenguh, sambil dia berkata; "Wahai Rasulullah, tolonglah aku", lalu aku menjawab: "Aku tidak berkuasa sedikitpun terhadapmu. Aku sudah menyampaikan kepada kamu (ketika di dunia) ". Dan kutemui seseorang yang di atas tengkuknya ada sebongkah emas dan perak lalu dia berkata; "Wahai Rasulullah, tolonglah aku", lalu kujawab: "Aku tidak berkuasa sedikitpun terhadapmu. Aku sudah menyampaikan kepada kamu (ketika di dunia) ", Dan kutemui seseorang yang di atas tengkuknya ada lembaran kain sembari berkata; "Wahai Rasulullah, tolonglah aku", lalu aku katakan: "Aku tidak bekuasa sedikitpun terhadapmu. Aku sudah menyampaikan kepada kamu (ketika di dunia) ". Dan [Ayyub] dari [Abu Hayyan] mengatakan; "(Dan seseorang) yang di tengkuknya ada kuda yang meringkik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3073</td></tr><tr><td>Arabic No</td><td>3073</td></tr><tr><td>Reference</td><td>Book 56 Hadith 278</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: (Однажды) Пророк ﷺ встал среди нас, упомянул о присвоении военной добычи, указал на то, что это является великим грехом, и сказал: «Да не встречу я никого из вас в День воскресения с блеющей овцой или ржущим конём на шее, когда (человек) будет говорить: “О Посланник Аллаха, спаси меня!” ибо я скажу: “Я никак не могу спасти тебя от (наказания) Аллаха, ведь я довёл до твоего сведения (Его послание)!” И пусть никто не является ко мне с ревущим верблюдом на шее, когда (человек) будет говорить: “О Посланник Аллаха, спаси меня!” ибо я скажу: “Я никак не могу спасти тебя от (наказания) Аллаха, ведь я довёл до твоего сведения (Его послание)!” И пусть никто не является ко мне с золотом или серебром на шее, когда (человек) будет говорить: “О Посланник Аллаха, спаси меня!” ибо я скажу: “Я никак не могу спасти тебя от (наказания) Аллаха, ведь я довёл до твоего сведения (Его послание)!” И пусть никто не является ко мне с развевающейся одеждой на шее, когда (человек) будет говорить: “О Посланник Аллаха, спаси меня!” ибо я скажу: “Я никак не могу спасти тебя от (наказания) Аллаха, ведь я довёл до твоего сведения (Его послание)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3073</td></tr><tr><td>Arabic No</td><td>3073</td></tr><tr><td>Reference</td><td>Book 56 Hadith 278</td></tr></tbody></table></div>
 

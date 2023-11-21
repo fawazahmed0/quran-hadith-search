@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) used to take a bath on account
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Muhammad bin Bisyr], telah menceritakan kepada kami [Zakariya], telah menceritakan kepada kami [Mush'ab bin Syaibah?], dari [Thalq bin Habib Al 'Anazi] dari [Abdullah bin Az Zubair] dari [Aisyah] bahwa ia telah menceritakan kepadanya bahwa Nabi shallallahu 'alaihi wasallam mandi karena empat perkara yaitu, dari junub, pada hari Jum'at, dari berbekam dan memandikan mayit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3160</td></tr><tr><td>Arabic No</td><td>3160</td></tr><tr><td>Reference</td><td>Book 21 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ совершал большое омовение в четырёх случаях: после большого осквернения (джанаба), в пятницу, после кровопускания (хиджама) и после омывания покойника
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3160</td></tr><tr><td>Arabic No</td><td>3160</td></tr><tr><td>Reference</td><td>Book 21 Hadith 72</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraidah:A woman came to the Messenger of Allah (ﷺ) and said: I donat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Abdullah bin 'Atha'], dari [Abdullah bin Buraidah], dari [ayahnya], bahwa seorang wanita datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata; dahulu aku bersedekah kepada ibuku dengan memberikan seorang budak wanita, dan beliau meninggal serta meninggalkan budak tersebut. Beliau berkata: "Telah tetap pahalamu dan budak tersebut kembali kepadamu diantara harta warisan." Wanita tersebut berkata; beliau meninggal dalam keadaan memiliki kewajiban berpuasa satu bulan. Apakah sah atau dapat menunaikan untuknya apabila aku berpuasa untuknya? Beliau berkata: "Ya." Wanita tersebtu berkata; sesungguhnya beliau belum berhaji, apakah sah atau dapat menunaikan untuknya apabila aku berhaji untuknya? Beliau berkata: "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1149)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2877</td></tr><tr><td>Arabic No</td><td>2877</td></tr><tr><td>Reference</td><td>Book 18 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Бурайда передаёт от своего отца Бурайды, да будет доволен им Аллах, что одна женщина пришла к Посланнику Аллаха ﷺ и спросила: «Я отдала своей матери рабыню в качестве милостыни, а теперь она умерла, оставив эту рабыню». (Посланник Аллаха ﷺ) сказал: «Ты заслужила свою награду, а рабыня возвращается к тебе с наследством». Эта женщина сказала: «И когда она умерла, на ней лежала обязанность держать пост месяц. Могу ли я соблюсти этот пост вместо неё?» Он сказал: «Да». Она сказала: «И она не успела совершить хадж. Могу ли я совершить хадж вместо неё?» Он сказал: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1149)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2877</td></tr><tr><td>Arabic No</td><td>2877</td></tr><tr><td>Reference</td><td>Book 18 Hadith 16</td></tr></tbody></table></div>
 

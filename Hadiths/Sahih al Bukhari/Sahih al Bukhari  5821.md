@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) forbade two types of dresses: (A) T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] radliallahu 'anhu dia berkata; Rasulullah shallallahu 'alaihi wasallam melarang mengenakan dua kain yaitu seseorang menutup seluruh badannya dengan kain (sarung) nya sementara kemaluannya tidak ditutupi (dengan sesuatu yang lain) dan berselimutkan kain tanpa menutup salah satu dari betisnya, dan melarang mulamasah (wajib membeli jika ada pembeli yang menyentuh barang penjual) dan Munabadzah (wajib membeli jika ada penjual yang melempar dagangannya ke pembeli tanpa memeriksa terlebih dahulu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5821</td></tr><tr><td>Arabic No</td><td>5821</td></tr><tr><td>Reference</td><td>Book 77 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил два способа ношения одежды: когда человек сидит, согнув ноги в коленях, и заворачивается в одежду, оставляя половые органы неприкрытыми, и когда укутывается одной одеждой, оставляя один бок открытым. А также (он запретил) «аль-мулямаса» и «аль-мунабаза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5821</td></tr><tr><td>Arabic No</td><td>5821</td></tr><tr><td>Reference</td><td>Book 77 Hadith 38</td></tr></tbody></table></div>
 

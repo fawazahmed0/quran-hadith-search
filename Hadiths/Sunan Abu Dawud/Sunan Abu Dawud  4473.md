@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: A slave-girl belonging to the house of the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Isra'il] berkata, telah menceritakan kepada kami [Abdul A'la] dari [Abu Jamilah] dari [Ali radliallahu 'anhu] ia berkata, "Seorang budak wanita milik keluarga Rasulullah shallallahu 'alaihi wasallam berbuat serong (zina), maka beliau bersabda: "Wahai Ali, pergi dan tegakkanlah had atas dirinya." Aku lalu pergi menemui wanita itu, dan ternyata darah (nifas) nya belum berhenti." Maka aku kembali mendatangi Nabi shallallahu 'alaihi wasallam, beliau bertanya kepadaku: "Wahai Ali, apakah engkau telah selesai?" Aku menjawab, "Saat aku mendatanginya, darah nifasnya masih mengalir." Beliau bersabda: "Biarkanlah hingga masa nifasnya selesai, setelah itu tegakkanlah hudud atasnya. Dan laksanakanlah hukum hudud itu atas budak-budak kalian." Abu Dawud berkata, " [Abu Al Ahwash] juga meriwayatkannya dari [Abdul A'la]. [Syu'bah] juga meriwayatkannya dari [Abdul A'la], ia menyebutkan dalam haditsnya, "janganlah kamu rajam hingga ia melahirkan." Dan hadits pertama lebih shahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4473</td></tr><tr><td>Arabic No</td><td>4473</td></tr><tr><td>Reference</td><td>Book 40 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Али, что рабыня, принадлежавшая кому-то из семейства Посланника Аллаха ﷺ совершила прелюбодеяние. (Посланник Аллаха ﷺ) сказал: «О ‘Али, подвергни её установленному наказанию». ‘Али сказал: «И я пошёл, но увидел, что у рабыни ещё не прекратилось кровотечение (так как она только недавно родила). Тогда я пришёл к (Посланнику Аллаха ﷺ). Он спросил: “Ты закончил, о ‘Али?” Я ответил: “Я пришёл к ней, а у неё течёт кровь”. (Посланник Аллаха ﷺ) сказал: “Оставь её до тех пор, пока кровотечение не прекратится, а потом подвергни её установленному наказанию. И подвергайте установленному наказанию тех, кем овладели ваши десницы”». Абу Дауд сказал, что в таком виде хадис передал Абу аль-Ахвас от Абу аль-А‘ля, а в версии Шу‘бы от Абу аль-А‘ля говорится, что Посланник Аллаха ﷺ сказал: «Не бей её, пока она не родит». Однако первая версия более достоверна
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4473</td></tr><tr><td>Arabic No</td><td>4473</td></tr><tr><td>Reference</td><td>Book 40 Hadith 123</td></tr></tbody></table></div>
 

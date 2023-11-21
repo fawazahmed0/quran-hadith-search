@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'adh:While I was a companion rider with the Prophet (ﷺ) he said, "O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas] dari [Mu'adz] dia berkata; "Aku pernah membonceng Nabi shallallahu 'alaihi wasallam lalu beliau bersabda: "Wahai Mu'adz!." Aku menjawab; "Ya, saya memenuhi panggilan anda." Beliau bersabda seperti itu hingga tiga kali, lalu beliau melanjutkan: "Apakah kamu tahu hak Allah atas hamba-Nya?" Aku menjawab; "Tidak." Beliau bersabda: "Hak Allah atas hamba-Nya adalah hendaknya mereka beribadah kepada-Nya dan tidak menyekutukan-Nya dengan suatu apapun." Kemudian beliau melanjutkan perjalanannya sesaat lalu bersabda lagi: "Wahai Mu'adz!." Jawabku; "Ya, aku penuhi panggilanmu." Beliau bersabda: "Apakah kamu tahu hak hamba atas Allah jika hamba tersebut melaksanakan hal itu?, yaitu Allah tidak akan menyiksa mereka." Telah menceritakan kepada kami [Hudbah] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Anas] dari [Mu'adz] dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6267</td></tr><tr><td>Arabic No</td><td>6267</td></tr><tr><td>Reference</td><td>Book 79 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘аз сказал: «(Однажды) я сидел верхом (на верблюде) позади Пророка ﷺ, и он сказал (мне): “О Му‘аз!” Я ответил: “Я здесь и счастлив служить тебе!” Повторив это трижды, он сказал (мне): “Известно ли тебе, какое право Аллаха должны соблюдать рабы Его?” Я ответил: “Нет”. (Тогда) он сказал: “Право Аллаха, которое обязаны соблюдать рабы Его, (состоит) в том, что им следует поклоняться Ему (одному), не придавая Ему в сотоварищи ничего”. Затем он продолжил путь какое-то время. Затем он сказал (мне): “О Му‘аз!” Я ответил: “Я здесь и счастлив служить тебе!” (Тогда) он сказал: “А известно ли тебе, что в праве ожидать рабы Аллаха, если они будут это совершать? То, что Он не станет подвергать их мучениям (если они будут соблюдать Его право)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6267</td></tr><tr><td>Arabic No</td><td>6267</td></tr><tr><td>Reference</td><td>Book 79 Hadith 41</td></tr></tbody></table></div>
 

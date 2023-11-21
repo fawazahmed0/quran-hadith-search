@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to the Prophet (ﷺ) and asked, "O Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami ['Umarah banal Qa'qa'] telah menceritakan kepada kami [Abu Zur'ah] telah menceritakan kepada kami [Abu Hurairah radliallahu 'anhu] berkata,: "Seorang laki-laki datang kepada Nabi Shallallahu'alaihiwasallam dan berkata,: "Wahai Rasulullah, shadaqah apakah yang paling besar pahalanya?". Beliau menjawab: "Kamu bershadaqah ketika kamu dalam keadaan sehat dan kikir, takut menjadi faqir dan berangan-angan jadi orang kaya. Maka janganlah kamu menunda-nundanya hingga tiba ketika nyawamu berada di tenggorakanmu. Lalu kamu berkata, si fulan begini (punya ini) dan si fulan begini. Padahal harta itu milik si fulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1419</td></tr><tr><td>Arabic No</td><td>1419</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал:\n— Один человек, пришедший к Пророку ﷺ спросил: «О Посланник Аллаха, за какую милостыню (обещана) наибольшая награда?» Он ответил: «За ту, что подашь ты, будучи здоровым и скупым, опасаясь бедности и надеясь разбогатеть. И не откладывай (подаяние) до тех пор, пока не придёт к тебе смерть(, чтобы лишь тогда) сказать: “Такому-то столько, а такому-то столько”, тогда как это (уже будет принадлежать) такому-то»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1419</td></tr><tr><td>Arabic No</td><td>1419</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
 

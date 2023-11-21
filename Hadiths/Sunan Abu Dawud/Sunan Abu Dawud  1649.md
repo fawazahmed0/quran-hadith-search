@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Malik ibn Nadlah: The Prophet (ﷺ) said: Hands are of three types: All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami ['Ubaidah bin Humaid At Taimi], telah menceritakan kepadaku [Abu Az Za'ra'] dari [Abu Al Ahwash] dari [ayahnya yaitu Malik bin Nadhlah], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Tangan ada tiga macam, tangan Allah yang Maha Tinggi, tangan orang yang memberi setelah tangan Allah, dan tangan orang yang meminta yaitu tangan yang di bawah. Maka berikan harta dan jangan lemah untuk menafkahi dirimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1649</td></tr><tr><td>Arabic No</td><td>1649</td></tr><tr><td>Reference</td><td>Book 9 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абуль-Ахваса, что его отец Малик ибн Надаля, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Рук три (вида): Рука Аллаха высшая; рука дающего следующая за ней, а самая низшая из рук рука просящего. Посему раздавай лишнее из своего имущества и не проявляй слабость перед (скупостью) своей души”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1649</td></tr><tr><td>Arabic No</td><td>1649</td></tr><tr><td>Reference</td><td>Book 9 Hadith 94</td></tr></tbody></table></div>
 

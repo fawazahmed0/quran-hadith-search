@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:There is a time on Friday
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] -dalam jalur lain- Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam menyebutkan tentang hari Jum'at, maka beliau bersabda: "Di dalamnya terdapat satu waktu, tidaklah seorang muslim mendapati waktu itu lalu berdoa memohon kebaikan kepada Allah, kecuali Allah akan mengabulkan permohonannya." Qutaibah menambahkan di dalam riwayatnya; Beliau memberikan isyarat dengan tangannya, yakni waktunya sempit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>852.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что однажды Посланник Аллаха ﷺ упомянул (в разговоре с людьми) о пятнице и сказал: «Есть в (этот день определенный) час, и если раб (Аллаха), являющийся мусульманином и совершающий (в это время) молитву попросит о чём-нибудь Аллаха, то Он обязательно дарует ему это», после чего сделал рукой знак, желая указать, что этот промежуток времени крайне мал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>852.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 19</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, Enjoining, all that is good
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin 'Ayasy] telah menceritakan kepada kami [Abu Ghassan] dia berkata; telah menceritakan kepadaku [Muhammad bin Al Munkadir] dari [Jabir bin Abdullah] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Setiap perbuatan baik adalah sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6021</td></tr><tr><td>Arabic No</td><td>6021</td></tr><tr><td>Reference</td><td>Book 78 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «(Совершение) всего одобряемого (шариатом) есть садака»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6021</td></tr><tr><td>Arabic No</td><td>6021</td></tr><tr><td>Reference</td><td>Book 78 Hadith 52</td></tr></tbody></table></div>
 

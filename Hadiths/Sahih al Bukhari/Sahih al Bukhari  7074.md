@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:A man passed through the mosque and he was carrying arrows, the h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Amru bin Dinar] dari [Jabir], ada seorang laki-laki lewat di masjid dengan anak panah yang nampakkan mata anak panahnya, lantas ia diperintahkan untuk menutup mata panahnya agar tidak melukai kaum muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7074</td></tr><tr><td>Arabic No</td><td>7074</td></tr><tr><td>Reference</td><td>Book 92 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Динар передал, что Джабир ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом рассказывал: «Однажды один человек, шёл по мечети со стрелами, острия которых были обнажены, и ему было приказано держать эти острия, чтобы не поранить мусульманина»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7074</td></tr><tr><td>Arabic No</td><td>7074</td></tr><tr><td>Reference</td><td>Book 92 Hadith 25</td></tr></tbody></table></div>
 

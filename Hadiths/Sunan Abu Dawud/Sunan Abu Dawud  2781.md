@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ka’ab bin Malik said “The Prophet (ﷺ) used to arrive from a journey in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutawakkil Al 'Asqalani] dan [Al Hasan bin Ali], mereka berkata; telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ibnu Juraij], ia berkata; telah mengabarkan kepadaku [Ibnu Syihab], ia berkata; telah mengabarkan kepadaku [Abdurrahman bin Abdullah bin Ka'b bin Malik], dari [ayahnya yaitu Abdullah bin Ka'b] dan [pamannya yaitu 'Ubaidullah bin Ka'b] dari [ayah mereka berdua yaitu Ka'b bin Malik], bahwa Nabi shallallahu 'alaihi wasallam tidak datang dari bepergian kecuali pada siang hari. Al Hasan berkata; pada waktu Dhuha. Apabila beliau datang dari bepergian maka beliau datang ke masjid, dan melakukan shalat dua raka'at kemudian duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (3088) Sahih Muslim (3769)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2781</td></tr><tr><td>Arabic No</td><td>2781</td></tr><tr><td>Reference</td><td>Book 15 Hadith 305</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (3088) Sahih Muslim (3769)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2781</td></tr><tr><td>Arabic No</td><td>2781</td></tr><tr><td>Reference</td><td>Book 15 Hadith 305</td></tr></tbody></table></div>
 

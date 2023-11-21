@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) while teaching us (the princip
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ibnu Khasyram] keduanya berkata, telah mengabarkan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [al-A'masy] dari [Abu Shalih] dari [Abu Hurairah ra] dia berkata, "Rasulullah shallallahu 'alaihi wasallam mengajari kami, beliau bersabda, 'Janganlah kalian mendahului imam. Apabila dia bertakbir, maka bertakbirlah, apabila dia mengucapkan, 'Waladhdhallin'. Maka ucapkanlah, 'Amin'. Apabila dia rukuk, maka rukuklah kalian. Apabila dia mengucapkan, 'Sami'allahu liman hamidahu', maka ucapkanlah, 'Allahumma Rabbana laka al-Hamdu'." Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Abdul Aziz, yaitu ad-Darawardi] dari [Suhail bin Abi Shalih] dari [bapaknya] dari [Abu Hurairah ra] dari Nabi Shallallahu'alaihiwasallam dengan hadits semisalnya kecuali perkataannya, "Waladhdhallin' maka ucapkanlah 'Amin'. Dan dia menambahkan, 'Dan janganlah kalian mengangkat kepala sebelumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>932</td></tr><tr><td>Arabic No</td><td>415.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Обучая нас (тому, как следует совершать молитву), Посланник Аллаха ﷺ говорил: “Ничего не делайте раньше имама. Когда он произнесёт слова “Аллаху акбар”, произносите их и вы, когда он скажет: “…и не заблудших”, говорите: “Амин”, когда он совершит поясной поклон, совершите его и вы, а когда он скажет: “Да услышит Аллах тех, кто воздал Ему хвалу” /Сами‘а-Ллаху лиман хамидах/, говорите: “О Аллах, Господь наш, хвала Тебе” /Аллахумма Рабба-на, ля-ка ль-хамд/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>932</td></tr><tr><td>Arabic No</td><td>415.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 94</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The woman is like a rib; if 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] ia berkata; Telah menceritakan kepadaku [Malik bin Anas] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Wanita itu bagaikan tulang rusuk, bila kamu memaksa untuk meluruskannya, niscaya kamu akan mematahkannya, dan jika kamu bermesraan dan menurutinya, maka kamu dapat bermesraan namun padanya terdapat kebengkokan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184</td></tr><tr><td>Arabic No</td><td>5184</td></tr><tr><td>Reference</td><td>Book 67 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Женщина подобна ребру: если (попытаешься) выпрямить её, то сломаешь, а если (пожелаешь) наслаждаться ею, то наслаждайся (, невзирая на) её кривизну»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184</td></tr><tr><td>Arabic No</td><td>5184</td></tr><tr><td>Reference</td><td>Book 67 Hadith 119</td></tr></tbody></table></div>
 

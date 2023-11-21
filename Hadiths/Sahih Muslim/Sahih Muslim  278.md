@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub ad-Dauraqi] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Hushain] telah menceritakan kepada kami [Abu Dlibyan] dia berkata, aku mendengar [Usamah bin Zaid bin Haritsah] menceritakan, dia berkata, "Rasulullah shallallahu 'alaihi wasallam telah mengutus kami ke al-Huraqah, salah satu daerah Juhainah. Lalu saat pagi hari kami menyerang mereka hingga dapat mengalahkannya, setelah itu aku dan seorang laki-laki Anshar bertemu dengan seorang laki-laki dari mereka. Ketika kami mendekatinya, maka dia mengucapkan, 'LAA ILAAHA ILLAALLAHU (Tidak ada tuhan yang berhak disembah kecuali Allah). Maka laki-laki Anshar itu menahan diri untuk tidak membunuhnya, sedangkan aku menusuknya dengan tombakku, hingga aku membunuhnya'. Usamah berkata, 'Ketika kami sampai, maka peristiwa itu sampai pada Nabi shallallahu 'alaihi wasallam, maka beliau berkata kepadaku, 'Wahai Usamah, apakah kamu membunuhnya setelah dia mengucapkan, "LAA ILAAHA ILLAALLAHU (Tidak ada tuhan yang berhak disembah kecuali Allah)? ' Aku menjawab, 'Wahai Rasulullah, dia mengucapkan hal tersebut hanya sebagai tameng.' Perawi berkata, "Rasulullah bersabda: "Apakah kamu membunuhnya setalah dia mengucapkan kalimat tersebut? ' Usamah menjawab, "Dan beliau masih saja mengulanginya atasku hingga aku berandai-andai bahwa aku belum masuk Islam pada saat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>278</td></tr><tr><td>Arabic No</td><td>96.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Усама ибн Зейд сказал: «(В своё время) Посланник Аллаха ﷺ отправил нас в Хуракат, и мы напали на (них) утром и разбили их. Вместе с одним из ансаров я преследовал одного из (этих людей), когда же мы приблизились к нему вплотную, он закричал: “Нет божества, достойного поклонения, кроме Аллаха /Ля иляха илля-Ллах/!” (Услышав его слова,) тот ансар перестал (преследовать его), а я нанес ему удар своим копьём и убил его. После того как мы вернулись обратно, об этом стало известно Пророку ﷺ, и он спросил: “О Усама, неужели же ты убил его после того, как он сказал “Ля иляха илля-Ллах”?!” Я воскликнул: “(Но ведь он сказал это, только) желая спастись!”, однако (Пророк ﷺ) не переставал задавать (этот вопрос) до тех пор, пока я не пожалел о том, что принял ислам раньше, чем (дожил до) этого дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>278</td></tr><tr><td>Arabic No</td><td>96.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 184</td></tr></tbody></table></div>
 

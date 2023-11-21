@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Mu'adh b. Jabal that he observed:I was riding
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu al-Ahwash Sallam bin Sulaim] dari [Abu Ishaq] dari [Amru bin Maimun] dari [Mu'adz bin Jabal] dia berkata, "Saya berada di boncengan Rasulullah di atas keledai yang dinamakan Ufair." Beliau lalu bersabda: "Wahai Mu'adz apakah kamu mengetahui apa hak Allah atas hamba dan hak hamba atas Allah.' Mu'adz berkata, 'Aku lalu menjawab, 'Allah dan Rasul-Nya lebih mengetahui.' Beliau bersabda: "Sesungguhnya hak Allah atas hamba adalah kalian menyembah Allah dan tidak mensyirikkan-Nya dengan sesuatu apa pun, dan hak hamba atas Allah adalah agar tidak disiksa orang yang tidak mensyirikkan-Nya dengan sesuatu apa pun.' Mu'adz berkata, 'Saya lalu berkata, 'Wahai Rasulullah, tidakkah boleh aku memberitakannya kepada manusia? ' Beliau menjawab: 'Jangan kamu memberitahukannya kepada mereka sehingga mereka bersandar kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>30.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Му‘аз ибн Джабаль сказал: «(Однажды, когда) я сидел верхом на осле по кличке ‘Уфайр позади Посланника Аллаха ﷺ, он спросил (меня): “О Му‘аз, известно ли тебе, какое право Аллаха должны соблюдать рабы Его и чего они вправе (ожидать) от Аллаха?” Я сказал: “Аллах и Его посланник знают об этом лучше”. (Тогда) он сказал: “Поистине, право Аллаха, которое обязаны соблюдать рабы Его, состоит в том, что им следует поклоняться Ему (одному), не придавая ничего Ему в сотоварищи, рабы же вправе ожидать, что Великий и Могучий Аллах не станет подвергать мучениям того, кто не придавал Ему ничего в сотоварищи”. Я спросил: “О Посланник Аллаха, так не порадовать ли мне (этой вестью) людей?” В ответ он сказал: “(Не делай этого), ибо тогда они станут полагаться только на это!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>30.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 51</td></tr></tbody></table></div>
 

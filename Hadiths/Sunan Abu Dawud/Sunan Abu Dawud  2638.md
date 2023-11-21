@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salamah ibn al-Akwa': The Messenger of Allah (ﷺ) appointed AbuBakr ou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abdushshamad] dan [Abu 'Amir], dari [Ikrimah bin 'Ammar], telah menceritakan kepada kami [Iyas bin Salamah], dari [ayahnya], ia berkata; Rasulullah shallallahu 'alaihi wasallam telah menunjuk Abu Bakr radliallahu 'anhu sebagai pemimpin atas kami, kemudian kami memerangi orang-orang musyrik, kami menyerang mereka pada malam hari dan kami membunuh mereka. Dan slogan kami pada malam tersebut adalah "bunuh, bunuh". Salamah berkata; pada malam itu aku telah membunuh tujuh orang musyrik dengan tanganku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2638</td></tr><tr><td>Arabic No</td><td>2638</td></tr><tr><td>Reference</td><td>Book 15 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма (ибн аль-Акуа‘) рассказывал: «Однажды Посланник Аллаха ﷺ назначил нашим руководителем Абу Бакра, да будет доволен им Аллах, и мы отправились в поход против многобожников. Той ночью нашим кличем были (следующие слова): “(О Аллах!) Умертви (врага)! (О Аллах!) Умертви (врага)!” Во время этого ночного сражения я собственноручно убил семь семей многобожников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2638</td></tr><tr><td>Arabic No</td><td>2638</td></tr><tr><td>Reference</td><td>Book 15 Hadith 162</td></tr></tbody></table></div>
 

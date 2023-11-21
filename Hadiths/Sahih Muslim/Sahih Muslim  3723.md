@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Oum Salama, Subay'a Al-'Aslamiyya accoucha quelques jours après la mor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna Al 'Anazi] telah menceritakan kepada kami [Abdul Wahab] dia berkata; Saya telah mendengar [Yahya bin Sa'id] telah mengabarkan kepadaku [Sulaiman bin Yasar] bahwa Abu Salamah bin Abdurrahman dan Ibnu Abbas berkumpul bersama Abu Hurairah, sedangkan keduanya menyebutkan mengenai seorang wanita yang melahirkan, setelah kematian suaminya beberapa malam, maka Ibnu Abbas mengatakan; "Iddahnya adalah akhir dari dua masa (yaitu masa iddah dan kelahiran)." Sedangkan Abu Salamah mengatakan; "Iddahnya telah selesai karena kelahiran." Maka keduanya saling bersengketa mengenai masalah tersebut. Maka Abu Hurairah berkata; "Saya dan anak saudaraku yaitu Abu Salamah akhirnya mengutus [Kuraib] mantan sahaya Ibnu Abbas untuk menemui [Ummu Salamah] dan menanyakan permasalahan tersebut, tidak lama kemudian Kuraib kembali kepada mereka dan memberitahukan bahwa Ummu Salamah berkata; "Sesungguhnya Subai'ah Al Aslamiyah pernah melahirkan setelah kematian suaminya beberapa hari, kemudian dia memberitahukan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, dan beliau menyuruhnya menikah." Dan telah menceritakan kepada kami [Muhammad bin Rumh] telah menceritakan kepada kami [Al Laits]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Amru An Naqid] keduanya berkata; Telah menceritakan kepada kami [Yazid bin Harun] keduanya dari [Yahya bin Sa'id] dengan isnad ini namun dalam haditsnya Al Laits mengatakan; "Kemudian mereka mengutusnya untuk menemui Ummu Salamah." Tidak [menyebutkan nama] Kuraib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3723</td></tr><tr><td>Arabic No</td><td>1485.01</td></tr><tr><td>Reference</td><td>Book 18 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3723</td></tr><tr><td>Arabic No</td><td>1485.01</td></tr><tr><td>Reference</td><td>Book 18 Hadith 71</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um-'Atiya:We were forbidden to mourn for a dead person for more than th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Hafshah] berkata, [Abu 'Abdullah atau Hisyam bin Hassan] berkata dari [Hafshah] dari [Ummu 'Athiyah] dari Nabi shallallahu 'alaihi wasallam, ia berkata, "Kami dilarang berkabung atas kematian di atas tiga hari kecuali atas kematian suami, yaitu selama empat bulan sepuluh hari. Selama masa itu dia tidak boleh bersolek, memakai wewangian, memakai pakaian yang berwarna kecuali pakaian lurik (dari negeri Yaman). Dan kami diberi keringanan bila hendak mandi seusai haid untuk menggunakan sebatang kayu wangi. Dan kami juga dilarang mengantar jenazah." Abu 'Abdullah berkata, [Hisyam bin Hassan] meriwayatkan dari [Hafshah] dari [Ummu 'Athiyah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>313</td></tr><tr><td>Arabic No</td><td>313</td></tr><tr><td>Reference</td><td>Book 6 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа, да будет доволен ею Аллах, сказала: «Нам запрещалось носить траур по покойному более трёх дней, если не считать траура по мужу(, который должен был продолжаться) четыре месяца и десять дней. (В этот период) мы не подкрашивали глаза сурьмой, не использовали благовония и не носили одежду из окрашенной ткани, за исключением одежды, сшитой из ‘асба, но, когда какая-нибудь женщина из нас совершала большое омовение с целью очищения после месячных, разрешалось использовать “куст азфàр”. И нам запрещалось также провожать погребальные носилки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>313</td></tr><tr><td>Arabic No</td><td>313</td></tr><tr><td>Reference</td><td>Book 6 Hadith 18</td></tr></tbody></table></div>
 

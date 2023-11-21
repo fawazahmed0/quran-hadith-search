@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that raisins were steeped in water for the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] dan [Ishaq bin Ibrahim] sedangkan lafadz dari Abu Bakar dan Abu Kuraib. Ishaq berkata; telah mengabarkan kepada kami, sedangkan yang kedua berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Umar] dari [Ibnu Abbas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam biasa dibuatkan perasan zabib (buah kismis), kemudian beliau meminumnya pada hari itu, esok hari dan lusa sampai sore di hari ketiga. Kemudian beliau menyuruh untuk membuangnya atau menumpahkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5228</td></tr><tr><td>Arabic No</td><td>2004.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5228</td></tr><tr><td>Arabic No</td><td>2004.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 102</td></tr></tbody></table></div>
 

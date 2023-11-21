@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:We went with the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Urwah] dari [Aisyah] radliallahu 'anha, ia berkata; Kami keluar berhaji bersama-sama dengan Nabi shallallahu 'alaihi wasallam pada tahun haji wada', lalu saya ihram untuk umrah, namun saya tidak membawa hadya. Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Siapa yang membawa hadya (hewan kurban), hendaklah ia ihram untuk haji beserta umrahnya, dan tidak bertahallul hingga ia bertahallul dari keduanya." Kemudian saya haid, dan ketika masuk malam Arafah, saya bekata, "Wahai Rasulullah, saya telah berihram untuk umrah, lalu apa yang mesti aku lakukan dengan hajiku?" beliau menjawab: "Lepaskanlah sanggul, sisirlah rambutmu dan tinggalkanlah umrah serta berihramlah untuk haji." Maka setelah saya menunaikan hajiku, beliau menyuruh Abdurrahman bin Abu Bakar (untuk menemaniku umrah). Lalu ia pun memboncengku dan menemaniku untuk melaksanakan umrah dari Tan'im sebagai ganti dari umrah yang kutinggalkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2912</td></tr><tr><td>Arabic No</td><td>1211.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2912</td></tr><tr><td>Arabic No</td><td>1211.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 121</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: Wear your white garments, f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abdullah bin Utsman bin Khutsaim] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Pakailah pakaian yang putih, sebab ia adalah sebaik-baik pakaian kalian, dan kafanilah jenazah kalian dengannya. Sesungguhnya sebaik-baik celak kalian adalah itsmid (sejenis tumbuhan), itsmid dapat mempertajam pandangan dan menumbuhkan rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3878</td></tr><tr><td>Arabic No</td><td>3878</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Из ваших одежд носите белые, ибо это лучшее из того, что вы надеваете. И заворачивайте в белое ваших умерших. А лучшее из того, чем вы подводите глаза, сурьма. Она улучшает зрение и способствует росту волос (, имея ввиду ресницы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3878</td></tr><tr><td>Arabic No</td><td>3878</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
 

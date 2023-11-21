@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) performed Tawaf of the Ka'ba while riding 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami ['Abdul Wahhab] telah menceritakan kepada kami [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi Shallallahu'alaihiwasallam melaksanakan thawaf di Ka'bah Baitullah diatas untanya dan setiap kali Beliau melewati Ar-Rukun (Al Hajar Al Aswad) Beliau memberi isyarat kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1612</td></tr><tr><td>Arabic No</td><td>1612</td></tr><tr><td>Reference</td><td>Book 25 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ совершал таваф сидя верхом на верблюде, и всякий раз, когда он проходил мимо угла, он указывал на него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1612</td></tr><tr><td>Arabic No</td><td>1612</td></tr><tr><td>Reference</td><td>Book 25 Hadith 98</td></tr></tbody></table></div>
 

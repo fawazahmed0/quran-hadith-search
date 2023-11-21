@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:(The Verse of) prohibiting alcoholic drinks was revealed when
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] Telah mengabarkan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Umar bin 'Abdul 'Aziz] dia berkata; Telah menceritakan kepadaku [Nafi'] dari ['Umar radliallahu 'anhuma] dia berkata; Tatkala turun ayat yang mengharamkan khamr, pada waktu itu di Madinah ada lima gelas yang berisi minuman anggur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4616</td></tr><tr><td>Arabic No</td><td>4616</td></tr><tr><td>Reference</td><td>Book 65 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Умар, да будет доволен Аллах им и его отцом, сказал: «Когда был ниспослан (аят), запрещающий опьяняющие напитки, в Медине было пять видов (опьяняющих) напитков, ни один из которых не изготавливался из винограда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4616</td></tr><tr><td>Arabic No</td><td>4616</td></tr><tr><td>Reference</td><td>Book 65 Hadith 138</td></tr></tbody></table></div>
 

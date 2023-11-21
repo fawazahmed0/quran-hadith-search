@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) set out for Khaibar and reached it at night. He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Humaid] dari [Anas radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam berangkat menuju Khaibar dan Beliau mendatanginya di malam hari. Dan Beliau apabila mendatangi suatu kaum di malam hari Beliau tidak langsung menyerang mereka hingga menunggu datangnya waktu shubuh. Ketika tiba waktu shubuh, orang-orang Yahudi keluar dengan membawa sekop-sekop dan keranjang mereka. Tatkala melihat Nabi shallallahu 'alaihi wasallam, mereka berkata: "Muhammad. Demi Allah Muhammad dan pasukannya". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Allahu Akbar, hancurlah Khaibar. Sesungguhnya kami apabila mendatangi perkampungan suatu kaum, maka amat buruklah pagi hari yang dialami orang-orang yang diperingatkan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2945</td></tr><tr><td>Arabic No</td><td>2945</td></tr><tr><td>Reference</td><td>Book 56 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Отправившись в Хайбар, Пророк ﷺ достиг его ночью. Приходя к какому-нибудь народу ночью, он не нападал на них до утра. Когда настало утро иудеи стали выходить со своими большими корзинами и лопатами, а когда они увидели Пророка ﷺ, они сказали: “Мухаммад, клянёмся Аллахом, (это) Мухаммад со (своей) пятёркой!” А Пророк ﷺ сказал: “Велик Аллах /Аллаху акбар/, Хайбар разрушен! Поистине, когда мы появляемся у селений людей, (враждующих с нами), плохим становится утро для тех, кого предупреждали!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2945</td></tr><tr><td>Arabic No</td><td>2945</td></tr><tr><td>Reference</td><td>Book 56 Hadith 157</td></tr></tbody></table></div>
 

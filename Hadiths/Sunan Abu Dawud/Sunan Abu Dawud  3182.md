@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Uyaynah ibn AbdurRahman reported on the authority of his father that he attended
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Syu'bah] dari ['Uyainah bin Abdurrahman] dari [ayahnya] bahwa ia berada pada jenazah Utsman bin Abu Al 'Ash. Dan kami berjalan pelan, kemudian kami berjumpa dengan [Abu Bakrah], lalu ia mengangkat cemetinya dan berkata; sungguh aku telah melihat kami bersama Rasulullah shallallahu 'alaihi wasallam dan kami berjalan cepat. Telah menceritakan kepada kami [Humaid bin Mas'adah], telah menceritakan kepada kami [Khalid bin Al Harits], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ibrahim bin Musa], telah menceritakan kepada kami [Isa bin Yunus] dari ['Uyainah] dengan hadits ini. Mereka berdua mengatakan; pada jenazah Abdurrahman bin Samurah. Dan ia berkata; kemudian beliau membawa bighalnya kepada mereka, dan menggiring menggunakan cemeti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3182</td></tr><tr><td>Arabic No</td><td>3182</td></tr><tr><td>Reference</td><td>Book 21 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Уйайна ибн ‘Абдуррахман передаёт от своего отца, что он участвовал в похоронах ‘Усмана ибн Абу аль-‘Аса: «Мы шли не спеша, и нас догнал Абу Бакра. Он поднял плеть и сказал: “Когда мы провожали погребальные носилки вместе с Посланником Аллаха ﷺ мы шли быстро!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3182</td></tr><tr><td>Arabic No</td><td>3182</td></tr><tr><td>Reference</td><td>Book 21 Hadith 94</td></tr></tbody></table></div>
 

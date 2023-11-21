@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Zuhri with the same chain of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir] dan [Ahmad bin 'Isa] mereka berdua berkata; telah menceritakan kepada kami [lbnu Wahb] telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] bahwasanya [Abu Salamah bin 'Abdurrahman] mengabarkan kepadanya bahwasanya [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Seorang bayi tidak dilahirkan (ke dunia ini) melainkan ia berada dalam kesucian (fitrah). Lalu dia berkata; Bacalah oleh kalian firman Allah yang berbunyi: '…tetaplah atas fitrah Allah yang telah menciptakan manusia menurut fitrahnya itu. Tidak ada perubahan atas fitrah Allah itulah agama yang lurus.' (QS. Ar Ruum (30):
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6757</td></tr><tr><td>Arabic No</td><td>2658.03</td></tr><tr><td>Reference</td><td>Book 46 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6757</td></tr><tr><td>Arabic No</td><td>2658.03</td></tr><tr><td>Reference</td><td>Book 46 Hadith 35</td></tr></tbody></table></div>
 

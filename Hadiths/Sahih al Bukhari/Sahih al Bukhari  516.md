@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada Al-Ansari:Allah's Messenger (ﷺ) was praying and he was car
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari ['Amir bin 'Abdullah bin Az Zubair] dari ['Amru bin Sulaim Az Zuraqi] dari [Abu Qatadah Al Anshari], bahwa Rasulullah shallallahu 'alaihi wasallam pernah shalat dengan menggendong Umamah binti Zainab binti Rasulullah shallallahu 'alaihi wasallam." Dan menurut riwayat Abu Al 'Ash bin Rabi'ah bin 'Abdu Syamsi, ia menyebutkan, "Jika sujud beliau letakkan anak itu dan bila berdiri beliau gendong lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>516</td></tr><tr><td>Reference</td><td>Book 8 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Къатады аль-Ансари, да будет доволен им Аллах, о том, что Посланнику Аллаха ﷺ нередко случалось молиться, держа на руках Умаму, дочь своей дочери Зайнаб и Абуль-‘Аса ибн ар-Раби‘а ибн ‘Абд Шамс, и что, перед совершением земного поклона (Пророк ﷺ) опускал (девочку на землю), а когда поднимался, (снова) брал её на руки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>516</td></tr><tr><td>Arabic No</td><td>516</td></tr><tr><td>Reference</td><td>Book 8 Hadith 163</td></tr></tbody></table></div>
 

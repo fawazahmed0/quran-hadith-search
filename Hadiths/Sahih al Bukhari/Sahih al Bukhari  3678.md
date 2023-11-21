@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:I asked 'Abdullah bin 'Amr, "What was the worst thi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3678</td></tr><tr><td>Arabic No</td><td>3678</td></tr><tr><td>Reference</td><td>Book 62 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва ибн аз-Зубайр сказал:\n— (Однажды, когда) я спросил ‘Абдуллаха ибн ‘Амра о наихудшем из того, что сделали многобожники с Посланником Аллаха ﷺ, он сказал: «(Как-то раз, когда) Пророк ﷺ молился, ‘Укба ибн Аби Му‘айт подошёл (к нему сзади), накинул ему на шею свою одежду и сильно сдавил. (Увидев это,) к нему бросился Абу Бакр, который схватил его за плечи, отбросил от Пророка ﷺ и воскликнул: “Неужели вы убьёте человека за то, что он говорит: “Мой Господь — Аллах”? Ведь он явился к вам с ясными знамениями от вашего Господа” (сура “Гафир”, аят 28)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3678</td></tr><tr><td>Arabic No</td><td>3678</td></tr><tr><td>Reference</td><td>Book 62 Hadith 28</td></tr></tbody></table></div>
 

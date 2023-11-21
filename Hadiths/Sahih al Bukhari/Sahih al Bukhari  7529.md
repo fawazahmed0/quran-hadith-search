@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father:The Prophet (ﷺ) said, "Not to wish to be the like of e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] [Azzuhri] berkata dari [Salim] dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak boleh iri kecuali dalam dua hal; seorang laki-laki yang Allah beri Al Qur'an, lantas ia membacanya di sepanjang malam dan sepanjang siang. Dan seorang laki-laki yang Allah beri harta, lantas ia membelanjakannya sepanjang malam dan sepanjang siang." Ali bin Abdullah berkata, "Aku mendengar Sufyan berkali-kali, namun aku tidak mendengar ia menyebutkan hadits (dengan lafad akhbartu (aku mengabarkan), tetapi dengan lafad 'An (dari). Dan ini adalah hadits yang paling shahih dari yang ia punya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7529</td></tr><tr><td>Arabic No</td><td>7529</td></tr><tr><td>Reference</td><td>Book 97 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «Не следует завидовать никому, кроме двоих: человеку, которого Аллах научил Корану и который читает его ночью и днём, и человеку, которому Аллах даровал богатство и он расходует его днём и ночью».\n(‘Али ибн ‘Абдулла аль-Мадини сказал:) «Я много раз слышал Суфьяна (ибн ‘Уейну), но ни разу не слышал от него, (чтобы он передал этот хадис от аз-Зухри) словом “Нам сообщил”. Но несмотря на это, этот хадис является из числа его достоверных хадисов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7529</td></tr><tr><td>Arabic No</td><td>7529</td></tr><tr><td>Reference</td><td>Book 97 Hadith 154</td></tr></tbody></table></div>
 

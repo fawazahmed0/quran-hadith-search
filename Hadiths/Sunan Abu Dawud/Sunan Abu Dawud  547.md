@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbudDarda': I heard the Messenger of Allah (ﷺ) say: If there are thre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Za'idah] telah menceritakan kepada kami [As-Sa'ib bin Huaisy] dari [Ma'dan bin Abi Thalhah Al-Ya'muri] dari [Abu Ad-Darda'] dia berkata; Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda; "Tidaklah tiga orang di suatu desa atau lembah yang tidak didirikan shalat berjamaah di lingkungan mereka, melainkan setan telah menguasai mereka. Karena itu tetaplah kalian berjamaah, karena sesungguhnya serigala itu hanya akan memakan kambing yang sendirian (jauh dari kawan-kawannya)." As-Sa'ib berkata; Maksud berjamaah adalah shalat secara berjamaah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 2 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Дардаъ сказал: «Я слышал как Посланник Аллаха ﷺ говорил: “Нет таких троих живущих в поселении или пустыне, чтобы шайтан не взял над ними власть, если они не совершают (коллективную) молитву. Тебе следует (придерживаться) джама‘ата, ведь волк съедает овцу, которая отделилась от стада”».Заида сказал: «Ас-Саиб сказал: “Придерживаться джама‘ата означает совершать коллективную молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 2 Hadith 157</td></tr></tbody></table></div>
 

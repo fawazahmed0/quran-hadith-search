@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:If one amongst us had to break fasts (of Ramadan due to natural 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Abu Umar Al Makki] telah menceritakan kepada kami [Abdul Aziz bin Muhammad Ad Darawardi] dari [Yazid bin Abdullah bin Al Had] dari [Muhammad bin Ibrahim] dari [Abu Salamah bin Abdurrahman] dari [Aisyah] radliallahu 'anha, bahwa ia berkata; "Pernah ada salah seorang dari kami, benar-benar ia berbuka (di bulan Ramadlan) pada zaman Rasulullah shallallahu 'alaihi wasallam, dan tidaklah ia mampu meng-qadla-nya bersama Rasulullah shallallahu 'alaihi wasallam hingga masuk bulan Sya'ban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2691</td></tr><tr><td>Arabic No</td><td>1146.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2691</td></tr><tr><td>Arabic No</td><td>1146.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 197</td></tr></tbody></table></div>
 

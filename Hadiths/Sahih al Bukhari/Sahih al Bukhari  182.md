@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:I was in the company of Allah's Messenger (ﷺ) o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ali] berkata, telah menceritakan kepada kami ['Abdul Wahhab] berkata, aku mendengar [Yahya bin Sa'id] berkata, telah mengabarkan kepadaku [Sa'd bin Ibrahim] bahwa [Nafi' bin Jubair bin Muth'im] mengabarkan kepadanya, bahwa dia mendengar ['Urwah bin Al Mughirah bin Syu'bah] menceritakan dari [Al Mughirah bin Syu'bah], bahwa dia pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan. Beliau lalu pergi untuk buang hajat, sementara Al Mughirah menuangkan air untuk beliau hingga beliau pun berwudlu, membasuh muka, mengusap kepala dan sepasang sepatunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>182</td></tr><tr><td>Reference</td><td>Book 4 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Мугъира ибн Шу‘ба, да будет доволен им Аллах, передал, что однажды, когда он вместе с посланником Аллаха ﷺ находился в пути, (Пророку ﷺ) случилось удалиться по нужде, после чего Мугъира стал сливать ему воду для омовения, а он омыл лицо и руки и протёр (влажными руками) голову и кожаные носки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>182</td></tr><tr><td>Reference</td><td>Book 4 Hadith 48</td></tr></tbody></table></div>
 

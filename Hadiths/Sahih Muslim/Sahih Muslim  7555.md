@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Mas'ud reported in connection with the verse:" Those whom they call 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Nafi' Al Abdi] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari [Abu Ma'mar] dari [Abdullah]: "Mereka itulah orang-orang yang selalu berdoa dan mencari kepada Rabb mereka wasilah manakah di antara mereka yang lebih dekat." (Al Israa': 57) Abdullah berkata: Segolongan manusia menyembah segolongan jin lalu segolongan jin itu masuk Islam sementara segolongan manusia tetap berpegang teguh pada peribadatan mereka, lalu turun ayat: "Mereka itulah orang-orang yang selalu berdoa dan mencari kepada Rabb mereka wasilah manakah di antara mereka yang lebih dekat." (Al Israa': 57) Telah menceritakannya kepadaku [Bisyr bin Khalid] telah mengkhabarkan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Sulaiman] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7555</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7555</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umayyah ibn Makhshi: Umayyah was sitting and a man was eating. He did n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muammal bin Al Fadll Al Harrani] telah menceritakan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Jabir bin Shubh] telah menceritakan kepada kami [Al Mutsanna bin Abdurrahman Al Khuza'i] dari pamannya [Umayyah bin Makhsyi] seorang sahabat Rasulullah shallallahu 'alaihi wasallam, ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah duduk, sementara ada seorang laki-laki makan dan tidak menyebutkan nama Allah hingga makanannya hanya tersisa satu suap, kemudian tatkala ia mengangkatnya ke mulut ia mengucapkan; BISMILLAAHI AWWALAHU WA AAKHIRAHU (Dengan nama Allah, pada awal dan akhirnya), maka Nabi shallallahu 'alaihi wasallam tertawa kemudian berkata: "Setan terus makan bersamanya, kemudian tatkala ia menyebutkan nama Allah Azza wa Jalla, maka setan memuntahkan apa yang ada di perutnya." Abu Daud berkata, "Jabir bin Shubh adalah kakek Sulaiman bin Harb dari pihak ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3768</td></tr><tr><td>Arabic No</td><td>3768</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умайя ибн Махши, да будет доволен им Аллах, из числа сподвижников Посланника Аллаха ﷺ сказал: «Как-то раз один человек ел в присутствии сидевшего Посланника Аллаха ﷺ и не поминал Аллаха до тех пор, пока от его еды не остался один кусок. Поднеся его ко рту, этот человек сказал: “С именем Аллаха в начале и конце её!” Пророк ﷺ улыбнулся и сказал: “Шайтан ел вместе с ним, а когда он помянул имя Всемогущего и Великого Аллаха, шайтан изверг из себя всё то, что было в его в чреве”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3768</td></tr><tr><td>Arabic No</td><td>3768</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
 

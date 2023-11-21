@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) used to make suppli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Utsman] telah menceritakan kepada kami [Baqiyah] telah menceritakan kepada kami [Syu'aib] dari [Az Zuhri] dari ['Urwah] bahwa [Aisyah] telah mengabarkan kepadanya bahwa dalam shalatnya, Rasulullah shallallahu 'alaihi wasallam sering berdo'a; "Allahumma inni 'auudzubika min 'adzaabil qabri wa a'uudzubika min fitnatil masiihid dajjal wa a'uudzubika min fitnatil mahya wal mamaati, allahumma inni a'uudzubika minal ma'tsmi wal maghrami (Ya Allah, aku berlindung kepada-Mu dari siksa kubur, aku berlindung dari fitnah Dajjal, aku berlindung kepada-Mu dari fitnah kehidupan dan kematian, ya Allah aku berlindung kepada-Mu dari perbuatan dosa dan lilitan hutang)." Maka seseorang bertanya kepada beliau; 'alangkah seringnya anda memohon perlindungan diri dari lilitan hutang." Beliau bersabda: "Sesungguhnya apabila seseorang sudah sering berhutang, maka dia akan berbicara dan berbohong, dan apabila berjanji, maka dia akan mengingkari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (832) Sahih Muslim (589)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>880</td></tr><tr><td>Arabic No</td><td>880</td></tr><tr><td>Reference</td><td>Book 2 Hadith 490</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что во время молитвы Посланник Аллаха ﷺ обращался к Аллаху с такой мольбой: «О Аллах, поистине, я ищу у Тебя защиты от мучений могилы, и я ищу у Тебя защиты от искушения Даджжаля, и я ищу у Тебя защиты от искушений жизни и смерти! О Аллах, поистине, я ищу у Тебя защиты от бремени греха и долга /Аллахумма, инни а‘узу би-ка мин ‘азаби-ль-кабри, ва а‘узу би-ка мин фитнати-ль-масихи-д-даджжали, ва а‘узу би-ка мин фитнати-ль-махйа ва-ль-мамат! Аллахумма, инни а‘узу би-ка мин аль-ма‘сами ва-ль-маграм/».(‘Аиша сказала): «Однажды кто-то сказал ему: “О Посланник Аллаха, как часто ты просишь защиты от долга!” (Посланник Аллаха ﷺ) ответил: “Поистине, когда человек, обременённый долгом, рассказывает о чём-либо, он лжёт, а когда даёт обещание, нарушает его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (832) Sahih Muslim (589)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>880</td></tr><tr><td>Arabic No</td><td>880</td></tr><tr><td>Reference</td><td>Book 2 Hadith 490</td></tr></tbody></table></div>
 

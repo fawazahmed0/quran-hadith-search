@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ikrimah ibn AbuJahl: The Prophet (ﷺ) said: I swear by Allah, I shall 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Syarik] dari [Simak] dari [Ikrimah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Allah, sungguh aku akan memerangi Quraisy, demi Allah, sungguh aku akan memerangi Quraisy, demi Allah, sungguh aku akan memerangi Quraisy." Kemudian beliau bersabda: "insya Allah." Abu Daud berkata; hadits ini sanadnya telah disebutkan [lebih dari satu orang] dari [Syarik] dari [Simak], dari [Ikrimah], dari [Ibnu Abbas], dan ia menyebutkan sanadnya dari Nabi shallallahu 'alaihi wasallam. Al Walid bin Muslim berkata dari Syarik; kemudian beliau tidak memerangi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3285</td></tr><tr><td>Arabic No</td><td>3285</td></tr><tr><td>Reference</td><td>Book 22 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Посланник Аллаха ﷺ сказал: “Не может быть обета, который является ослушанием Аллаха, и искупается он также, как и нарушенная клятва”». Ахмад ибн Мухаммад аль-Марвази сказал: «Правильный хадис хадис ‘Али ибн аль-Мубарака от Яхйи ибн Абу Касира от Мухаммада ибн аз-Зубайра о его отца от ‘Имрана ибн Хусайна от Пророка ﷺ». Он имел в виду, что Сулейман ибн Аркам допустил ошибку и аз-Зухри перенял её от него и передал хадис в виде сообщения-мурсаль от Абу Салямы от ‘Аиши, да помилует её Аллах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3285</td></tr><tr><td>Arabic No</td><td>3285</td></tr><tr><td>Reference</td><td>Book 22 Hadith 44</td></tr></tbody></table></div>
 

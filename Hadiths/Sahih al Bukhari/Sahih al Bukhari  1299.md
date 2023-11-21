@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the Prophet (ﷺ) got the news of the death of Ibn Haritha,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami ['Abdul Wahhab] berkata, aku mendengar [Yahya] berkata, telah mengabarkan kepada saya ['Amrah] berkata; Aku mendengar ['Aisyah radliallahu 'anha] berkata,: "Ketika telah tiba di hadapan Nabi Shallallahu'alaihiwasallam jenazah Ibnu Haritsah, Ja'far dan Ibnu Rawahah, Beliau duduk dengan nampak kesedihannya sedangkan aku melihat dari lobang pintu. Lalu datang seorang laki-laki seraya berkata,: "Sesungguhnya isteri-isterinya Ja'far", lalu orang itu menceritakan tentang tangisan mereka. Maka Beliau memerintahkan laki-laki itu agar melarang mereka. Orang itu pergi namun kemudian datang untuk kedua kalinya dan belum berhasil melaksanakan perintah Beliau. Lalu Beliau berkata,: "Laranglah mereka?". Orang itu datang untuk ketiga kalinya seraya berkata,: "Demi Allah, mereka mengalahkan kami wahai Rasulullah!". 'Aisyah radliallahu 'anha menduga Beliau kemudian berkata,: "Sumpallah mulut-mulut nereka dengan tanah". Aku berkata kepada laki-laki itu: "Semoga Allah menyumpal hidungmu karena belum melaksanakan apa yang Rasulullah Shallallahu'alaihiwasallam perintahkan, serta kamu (membiarkan) tidak meninggalkan Rasulullah Shallallahu'alaihiwasallam dari kondisinya yang lelah dan kesusahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1299</td></tr><tr><td>Arabic No</td><td>1299</td></tr><tr><td>Reference</td><td>Book 23 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Узнав о гибели Ибн Харисы, Джа‘фара и Ибн Равахи, Пророк ﷺ сел, и по нему было заметно, что он глубоко опечален, а я в это время смотрела на него через щель в двери. (Через некоторое время) к нему пришёл какой-то человек и сказал: “Поистине, женщины Джа‘фара…”, (после чего) упомянул о том, что они громко плачут. (Пророк ﷺ) велел ему запретить им делать это, и тот ушёл, но потом снова вернулся к нему и сказал, что они его не послушались. (Пророк ﷺ снова) сказал: “Запрети им!” — однако (этот человек) в третий раз вернулся к нему и сказал: “Клянусь Аллахом, они одолели нас, о Посланник Аллаха!”».\nИ (‘Аиша) утверждала, что на это (Пророк ﷺ) сказал: «Тогда набей им рты землёй!» Тогда я сказала: «Да опозорит тебя Аллах! Ты не сделал то, что повелел тебе Посланник Аллаха ﷺ и не избавил Посланника Аллаха ﷺ от неприятности!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1299</td></tr><tr><td>Arabic No</td><td>1299</td></tr><tr><td>Reference</td><td>Book 23 Hadith 57</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Abu Aufa said that it was the common practice of the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Amru An Naqid] dan [Ishaq bin Ibrahim] - [Yahya] berkata- telah mengabarkan kepada kami [Waki'] dari [Syu'bah] dari [Amru bin Murrah] ia berkata, saya mendengar [Abdullah bin Abu Aufa] -dalam jalur lain- Dan Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] -lafazh miliknya- Telah menceritakan kepada kami [bapakku] dari [Syu'bah] dari [Amru bin Murrah] telah menceritakan kepada kami [Abdullah bin Abu Aufa] ia berkata; Apabila seseorang mendatangi Rasulullah shallallahu 'alaihi wasallam dengan membawa sedekahnya, maka beliau mendo'akan; "ALLAHUMMA SHALLI 'ALAIHIM (Ya Allah, bershalawatlah atas mereka)." Kemudian bapakku Abu Aufa mendatangi beliau (dengan membawa sedekah), maka beliau pun mendo'akan: "ALLAHUMMA SHALLII 'ALA 'AALI ABII AUFA (Ya Allah berilah rahmat kepada keluarga Abu Aufa)." -dalam jalur lain- Telah menceritakannya kepada kami [Ibnu Numair] telah menceritakan kepada kami [Abdullah bin Idris] dari [Syu'bah] dengan isnad ini, hanya saja ia berkata; "SHALLI 'ALAIHIM (Bershalawatlah atas mereka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2492</td></tr><tr><td>Arabic No</td><td>1078.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Аби Ауфа сказал: «Когда кто-нибудь из людей приносил милостыню, Посланник Аллаха ﷺ говорил: “О Аллах, благослови их”, когда же милостыню принёс мой отец Абу Ауфа, (Пророк ﷺ) сказал: “О Аллах, благослови род Абу Ауфы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2492</td></tr><tr><td>Arabic No</td><td>1078.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 229</td></tr></tbody></table></div>
 

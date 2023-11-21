@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muhammad b. Sa'd reported on the authority of his father (Sa'd b. Abi Waqqas (Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Qasim bin Zakariya] telah menceritakan kepada kami [Husain bin Ali] dari [Za'idah] dari [Isma'il] dari [Muhammad bin Sa'd] dari [bapaknya] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Satu bulan itu adalah begini, begini dan begini (yakni sepuluh, sepuluh dan sembilan)." Dan telah menceritakannya kepadaku [Muhammad bin Abdullah bin Quhzadz] telah menceritakan kepada kami [Ali bin Al Hasan bin Syaqiq] dan [Salamah bin Sulaiman] keduanya berkata, telah mengabarkan kepada kami [Abdullah bin Mubarak] telah mengabarkan kepada kami [Isma'il bin Abu Khalid] dalam isnad ini dan semakna dengan hadits keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2526</td></tr><tr><td>Arabic No</td><td>1086.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2526</td></tr><tr><td>Arabic No</td><td>1086.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 32</td></tr></tbody></table></div>
 

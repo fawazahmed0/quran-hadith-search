@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salman bin 'Amri Ad-Dabbi, the Prophet (ﷺ) said, 'Aqiqa is to be offe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>5471</td></tr><tr><td>Reference</td><td>Book 71 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Сальмана ибн ‘Амира, что Посланник Аллаха ﷺ сказал: «За (новорожденного) мальчика следует приносить жертву /‘акыка/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>5471</td></tr><tr><td>Reference</td><td>Book 71 Hadith 6</td></tr></tbody></table></div>
 

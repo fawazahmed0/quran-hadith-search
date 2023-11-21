@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) said:I applied perfume of Dharira to the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Abdu bin Humaid] -Abdu berkata- telah mengabarkan kepada kami -dan Ibnu Hatim berkata- Telah menceritakan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Umar bin Abdullah bin Urwah] bahwa ia mendengar [Urwah] dan [Al Qasim] keduanya mengabarkan dari [Aisyah] radliallahu 'anha, ia berkata; "Aku pernah memakaikan harum-haruman Zarirah dengan tanganku kepada Rasulullah shallallahu 'alaihi wasallam, yakni untuk tahallul dan ihram pada saat haji wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2828</td></tr><tr><td>Arabic No</td><td>1189.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2828</td></tr><tr><td>Arabic No</td><td>1189.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 38</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) said: If anyone performs ablution wel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Auf Ath Thai], telah menceritakan kepada kami [Ar Rabi' bin Rauh bin Khulaid], telah menceritakan kepada kami [Muhammad bin Khalid], telah menceritakan kepada kami [Al Fadhl bin Dalham Al Wasithi], dari [Tsabit Al Bunani] dari [Anas bin Malik] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang berwudhu kemudian memperbaiki wudhunya dan menjenguk saudaranya yang muslim dengan mengharapkan pahala maka ia akan dijauhkan dari Jahannam sejauh perjalanan tujuh puluh kharif." Aku katakan; wahai Abu Hamzah, apakah kharif itu? Ia berkata; tahun. Abu Daud berkata; yang hanya diriwayatkan oleh orang-orang Bashrah adalah kata; menjenguk dalam keadaan berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3097</td></tr><tr><td>Arabic No</td><td>3097</td></tr><tr><td>Reference</td><td>Book 21 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто совершил малое омовение /вуду/ должным образом, а потом пришёл навестить своего брата-мусульманина, надеясь на награду от Аллаха, тот будет отдалён от Огня на расстояние семидесяти лет /хариф/ пути». (Передатчик сказал): «Я сказал: “О Абу Хамза, что такое хариф?” Он ответил: “Это год”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3097</td></tr><tr><td>Arabic No</td><td>3097</td></tr><tr><td>Reference</td><td>Book 21 Hadith 9</td></tr></tbody></table></div>
 

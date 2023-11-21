@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to say, "O Allah! I seek refuge with You 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami [Wuhaib] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] radliallahu 'anha bahwa Nabi Shallallahu 'alahi wasallam biasa mengucapkan: "ALLAHUMMA INNI A'UUDZUBIKA MINAL KASALI WAL HARAMI WAL MA'TSAMI WAL MAGHRAMI WAMIN FITNATIL QABRI WA 'ADZAABIL QABRI WAMIN FITNATIN NAARI WA 'AZAABIN NAARI WAMIN SYARRI FITNATIL GHANIY WA 'A'UUDZUBIKA MIN FITNATIL FAQRI WA A'UUDZUBIKA MIN FITNATIL MASIIHID DAJJAL, ALLHUMMAGHSIL 'ANNII KHATHAAYAYA BIMAAIS SALJI WALBARADI WANAQQI QALBII MINAL KHATHAAYAYA KAMAA NAQQAITATS TSAUBAL ABYADL MINAD DANAS WABAA'ID BAINI WABAINAL KHATHAAYAYA KAMAA BAA'ADTA BAINAL MASYRIQI WAL MAGHRIBI (Ya Allah, aku berlindung kepada-Mu dari rasa malas, kepikunan, kesalahan dan terlilit hutang, dan dari fitnah kubur serta siksa kubur, dan dari fitnah neraka dan siksa neraka dan dari buruknya fitnah kekayaan dan aku berlindung kepada-Mu dari buruknya fitnah kefakiran serta aku berlindung kepada-Mu dari fitnah Al Masih Ad Dajjal. Ya Allah, bersihkanlah kesalahan-kesalahanku dengan air salju dan air embun, sucikanlah hatiku dari kotoran-kotoran sebagaimana Engkau menyucikan baju yang putih dari kotoran. Dan jauhkanlah antara diriku dan kesalahan-kesalahanku sebagaimana Engkau jauhkan antara timur dan barat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6368</td></tr><tr><td>Arabic No</td><td>6368</td></tr><tr><td>Reference</td><td>Book 80 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ часто обращался (к Аллаху с нижеследующей мольбой): «О Аллах, поистине, я прибегаю к Твоей защите от лени и одряхления, от грехов и долгов, от искушения могилы и мучений могилы, от искушения огня, и мучений огня, и от зла искушения богатством! И я прибегаю к Тебе от искушения бедностью, и я прибегаю к Тебе от искушения Антихриста! О Аллах, смой мои прегрешения водой из снега и града и очисть сердце моё от прегрешений подобно тому, как очищаешь Ты белую одежду от грязи, и удали (меня) от прегрешений моих, как удалил Ты восток от запада!»\n/Аллахумма, инни а‘узу бика мина-ль-касали ва-ль-харами, ва-ль-маъсами, ва-ль-магърами, ва мин фитнати-ль-къабри, ва ‘азаби-ль-къабри, ва мин фитнати-н-нари, ва ‘азаби-н-нари, ва мин шарри фитнати-ль-гъина! Ва а‘узу бика мин фитнати-ль-факъри, ва а‘узу бика мин фитнати-ль-Масихи-д-Даджжаль! Аллахумма-гъсиль ‘ан-ни хатайа-йа би-мàи-с-сальджи ва-ль-баради, ва наккъи къальби мина-ль-хатайа камá наккъайта-с-сауба-ль-абйада мин ад-данаси, ва ба‘ид байни ва байна хатайа-йа, кама ба‘адта байна-ль-машрикъи ва-ль-магъриб
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6368</td></tr><tr><td>Arabic No</td><td>6368</td></tr><tr><td>Reference</td><td>Book 80 Hadith 65</td></tr></tbody></table></div>
 

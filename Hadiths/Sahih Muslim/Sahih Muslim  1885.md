@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubayy b. Ka'b said:Allah's Messenger (ﷺ) said: O Abu' al-Mundhir, do you know 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la bin Abdul A'la] dari [Al Jurairi] dari [Abu As Salil] dari [Abdullah bin Rabah Al Anshari] dari [Ubay bin Ka'ab] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Hai Abu Mundzir! tahukah kamu, ayat manakah di antara ayat-ayat Al Qur'an yang ada padamu yang paling utama?" Abu Mundzir berkata; saya menjawab, "Allah dan Rasul-Nya yang lebih mengetahui." Beliau bertanya lagi: "Hai Abu Mundzir, tahukah kamu, ayat manakah di antara ayat-ayat Al Qur'an yang ada padamu yang paling utama?" Abu Mundzir berkata; Saya menjawab, "ALLAHU LAA ILAAHA ILLAA HUWAL HAYYUL QAYYUUM." Abu Mundzir berkata; lalu beliau menepuk dadaku seraya bersabda: "Demi Allah, semoga dadamu dipenuhi dengan ilmu, wahai Abu Mundzir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>810</td></tr><tr><td>Reference</td><td>Book 6 Hadith 313</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Убай ибн Ка‘б, да будет доволен им Аллах, рассказывал: «Однажды Посланник Аллаха ﷺ спросил меня: “О Абуль-Мунзир, известно ли тебе, какой аят из Книги Аллаха является величайшим?” Я сказал: “Это аят, в котором сказано: “Аллах нет божества, достойного поклонения, кроме Него, Живого, Поддерживающего жизнь””. После этого Пророк ﷺ хлопнул меня рукой по груди и сказал: “Да будешь ты счастлив в знании, о Абуль-­Мунзир!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>810</td></tr><tr><td>Reference</td><td>Book 6 Hadith 313</td></tr></tbody></table></div>
 

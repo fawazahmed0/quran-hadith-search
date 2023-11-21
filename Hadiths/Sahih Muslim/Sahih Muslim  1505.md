@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported that he went to the Messenger of Allah (ﷺ) and fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib], keduanya berkata; telah menceritakan kepada kami [Abu Muawiyah] (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Suwaid bin Said], katanya; telah menceritakan kepada kami [Ali bin Mushir] semuanya dari [Al A'masy] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ishaq bin Ibrahim] dan lafadz miliknya, telah mengabarkan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Al-A'masy] dari [Abu Sufyan] dari [Jabir] katanya; telah menceritakan kepada kami [Abu Said Al Khudzri] bahwa dia pernah menemui Rasulullah shallallahu 'alaihi wasallam dan ia mendapati beliau tengah shalat diatas tikar yang beliau pergunakan untuk bersujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1505</td></tr><tr><td>Arabic No</td><td>661</td></tr><tr><td>Reference</td><td>Book 5 Hadith 338</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что (однажды) он зашёл к Посланнику Аллаха ﷺ и обнаружил, что он молился, совершая земной поклон на циновку
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1505</td></tr><tr><td>Arabic No</td><td>661</td></tr><tr><td>Reference</td><td>Book 5 Hadith 338</td></tr></tbody></table></div>
 

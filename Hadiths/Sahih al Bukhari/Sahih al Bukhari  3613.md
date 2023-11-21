@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) noticed the absence of Thabit bin Qais
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3613</td></tr><tr><td>Arabic No</td><td>3613</td></tr><tr><td>Reference</td><td>Book 61 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что (как-то раз, когда) Пророк ﷺ обратил внимание на отсутствие Сабита ибн Кайса, один человек сказал: «О Посланник Аллаха, я принесу тебе известия о нём», после чего он пришёл к нему и увидел, что (Сабит) сидит у себя дома, опустив голову. Он спросил (Сабита): «Что с тобой?» (Сабит) ответил: «Дело плохо: (человек, имея ввиду себя) часто возвышал свой голос над голосом Пророка ﷺ, и дела его стали тщетными, а сам он окажется среди обитателей Огня!» (Выслушав его,) этот человек (вернулся к Пророку ﷺ) и рассказал ему, что (Сабит) сказал то-то и то-то. А потом этот человек снова пришёл к (Сабиту, да будет доволен им Аллах,) с великой благой вестью и передал ему, что (Пророк ﷺ) велел (ему): «Отправляйся к нему и скажи: “Поистине, ты не из числа обитателей Огня, а из числа обитателей Рая!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3613</td></tr><tr><td>Arabic No</td><td>3613</td></tr><tr><td>Reference</td><td>Book 61 Hadith 120</td></tr></tbody></table></div>
 

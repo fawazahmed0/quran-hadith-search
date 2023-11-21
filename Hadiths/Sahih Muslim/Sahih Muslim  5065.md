@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jundab b. Sufyan reported:I was with Allah's Messenger (ﷺ) (on the occasion) o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Al Ahwash Sallam bin Sulaim] dari [Al Aswad bin Qais] dari [Jundab bin Sufyan] dia berkata, "Saya pernah ikut shalat Iedul Adlha bersama Rasulullah shallallahu 'alaihi wasallam. Setelah beliau selesai shalat bersama orang-orang, beliau melihat ada seekor kambing yang telah disembelih, lantas beliau bersabda: "Barangsiapa menyembelih sebelum shalat, hendaknya ia mengulangi sembelihannya lagi sebagai pengganti. Dan barangsiapa belum menyembelih hendaknya menyembelih dengan nama Allah." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ibnu Abu Umar] dari [Ibnu 'Uyainah] keduanya dari [Al Aswad bin Qais] dengan isnad ini, keduanya menyebutkan, 'Atas nama Allah, ' seperti hadits Abu Al Ahwash
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>1960.02</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>1960.02</td></tr><tr><td>Reference</td><td>Book 35 Hadith 2</td></tr></tbody></table></div>
 

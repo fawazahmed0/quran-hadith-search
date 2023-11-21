@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This tradition has been narrated on the authority of Salama who said:We fought b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami ['Umar bin Yunus Al Hanafi] telah menceritakan kepada kami [Ikrimah bin 'Ammar] telah menceritakan kepadaku [Iyas bin Salamah] telah menceritakan kepadaku [ayahku] dia berkata, "Kami pernah ikut perang Hunain bersama Rasulullah shallallahu 'alaihi wasallam. Ketika kami telah berhadapan dengan musuh, aku maju lebih dahulu dengan mendaki bukit, tiba-tiba aku bertemu dengan seorang musuh lalu ku panah dia dengan panahku, tetapi dia menghilang seketika sehingga aku tidak tahu apa yang sedang dibuatnya. Ketika aku melihat musuh, ternyata mereka telah berada di atas bukit yang lain. Lalu mereka bertempur dengan para sahabat Nabi shallallahu 'alaihi wasallam. Para sahabat mundur dan aku juga ikut mundur dengan kocar kacir. Sa'at itu aku mengenakan dua kain burdah, yang satu kupakai sebagai sarung dan yang lain aku selempangkan. Tiba-tiba sarungku lepas, lalu aku ikatkan dua kain tersebut menjadi satu. Aku lewat di hadapan Rasulullah shallallahu 'alaihi wasallam sambil berlari, sedangkan beliau berada di atas bighal putihnya, Rasulullah shallallahu 'alaihi wasallam bersabda: "Rupanya Ibnu Akwa' melihat sesuatu yang menakutkan." Tatkala Rasulullah shallallahu 'alaihi wasallam terkepung, beliau turun dari bighalnya, kemudian beliau mengambil segenggam tanah dan melemparkannya ke arah musuh sambil bersabda: "Muka-muka buruk." Maka tidaklah Allah menyisakan dari mereka melainkan wajah-wajah mereka telah dipenuhi dengan segenggam tanah. Lalu mereka lari tunggang langgang. Allah Azza Wa Jalla telah mengalahkan mereka. Kemudian Rasulullah shallallahu 'alaihi wasallam membagikan ghanimah kepada kaum Muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>1777</td></tr><tr><td>Reference</td><td>Book 32 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма ибн аль-Аква‘ (да будет доволен им Аллах) сказал: «Мы выступили в поход на Хунайн вместе с Посланником Аллаха ﷺ, а когда встретились с врагом, я вышел вперёд и забрался на перевал, где мне повстречался какой-то человек из числа врагов, в которого я пустил стрелу. Он скрылся из виду, и я не знаю, (что с ним стало). Потом я посмотрел на (врагов) и увидел, что они появились (со стороны) другого перевала и сошлись со сподвижниками Пророка ﷺ которые бросились в бегство. Я (тоже) побежал, а на мне было два плаща, один из которых я обернул вокруг бёдер наподобие изара, а другой использовал как накидку. Потом мой изар развязался, но я (связал плащи), соединив их воедино, и (через некоторое время) прошёл мимо Посланника Аллаха сидевшего на своей серой мулице. Посланник Аллаха ﷺ сказал: “(Даже) Ибн аль-Аква‘ познал страх!” Когда же Посланник Аллаха ﷺ (оказался в окружении множества врагов), он спустился (на землю) со своей мулицы, взял горсть земли, бросил её в лица врагов и сказал: “Да исказятся лица!” И глаза каждого из этих созданных Аллахом людей наполнились землёй из этой горсти, после чего они обратились в бегство. Так Всемогущий и Великий Аллах нанёс им поражение, а Посланник Аллаха ﷺ разделил между мусульманами военную добычу, (захваченную у врага)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>1777</td></tr><tr><td>Reference</td><td>Book 32 Hadith 101</td></tr></tbody></table></div>
 

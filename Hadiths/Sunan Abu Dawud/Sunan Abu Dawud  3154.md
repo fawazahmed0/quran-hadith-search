@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: Do not be extravagant in shrouding, for I heard the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid Al Muharibi], telah menceritakan kepada kami ['Amr bin Hasyim Abu Malik Al Janbi] dari [Isma'il bin Abu Khalid] dari [Amir] dari [Ali bin Abu Thalib], ia berkata; janganlah kalian bermewah-mewah dalam mengkafaniku. Karena sesungguhnya aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian bermewah-mewah dalam mengkafani, karena sesungguhnya kain tersebut akan cepat rusak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3154</td></tr><tr><td>Arabic No</td><td>3154</td></tr><tr><td>Reference</td><td>Book 21 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али ибн Абу Талиб, да будет доволен им Аллах, сказал: «Не тратьте слишком много на мой саван, ибо я слышал, как Посланник Аллаха ﷺ сказал: “Не тратьте слишком много на саван, ибо очень скоро он всё равно лишится его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3154</td></tr><tr><td>Arabic No</td><td>3154</td></tr><tr><td>Reference</td><td>Book 21 Hadith 66</td></tr></tbody></table></div>
 

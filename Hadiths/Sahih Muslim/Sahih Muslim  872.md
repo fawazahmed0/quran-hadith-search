@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Suhail reported on the authority of his father that Abu Huraira used to recite t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'kub, yaitu Ibnu Abdurrahman] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] bahwa dia bertakbir setiap kali turun dan naik, dan dia menceritakan bahwa Rasulullah shallallahu 'alaihi wasallam dahulu melakukan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>872</td></tr><tr><td>Arabic No</td><td>392.06</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Сухайль передал от своего отца, что Абу Хурайра говорил: «Аллаху акбар» каждый раз, когда опускался и поднимался, и говорил, что Посланник Аллаха ﷺ делал так
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>872</td></tr><tr><td>Arabic No</td><td>392.06</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
 

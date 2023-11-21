@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdul 'Aziz bin Suhaib:Anas bin Malik said, "The Prophet (ﷺ) took Sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Abdul 'Aziz bin Shuhaib] ia berkata; aku mendengar [Anas bin Malik radliallahu 'anhu] berkata; "Nabi shallallahu 'alaihi wasallam menawan Shafiyyah lalu membebaskannya kemudian menikahinya." Tsabit bertanya kepada Anas; "Apa maharnya?". Anas menjawab; "Maharnya adalah dirinya, lalu beliau memerdekakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4201</td></tr><tr><td>Arabic No</td><td>4201</td></tr><tr><td>Reference</td><td>Book 64 Hadith 241</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Пророк ﷺ взял в плен Сафию, затем освободил и женился на ней». Сабит спросил Анаса: «Какой брачный подарок он ей подарил?» Анас ответил: «Её подарком была она сама, её освобождение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4201</td></tr><tr><td>Arabic No</td><td>4201</td></tr><tr><td>Reference</td><td>Book 64 Hadith 241</td></tr></tbody></table></div>
 

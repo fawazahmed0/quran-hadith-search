@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I never used to leave in the Prophet (ﷺ) house anything carryi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadlalah] telah menceritakan kepada kami [Hisyam] dari [Yahya] dari ['Imran bin Hithan] bahwa [Aisyah] radliallahu 'anhu telah menceritakan kepadanya bahwa Nabi shallallahu 'alaihi wasallam tidak pernah meninggalkan (gambar) salib melainkan beliau akan menghancurkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5952</td></tr><tr><td>Arabic No</td><td>5952</td></tr><tr><td>Reference</td><td>Book 77 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ устранял в своём доме изображения креста со всего, где он был
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5952</td></tr><tr><td>Arabic No</td><td>5952</td></tr><tr><td>Reference</td><td>Book 77 Hadith 168</td></tr></tbody></table></div>
 

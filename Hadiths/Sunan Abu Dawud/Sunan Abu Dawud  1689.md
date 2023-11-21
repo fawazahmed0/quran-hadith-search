@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said When the verse “You will never attain righteousness until you give f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musa bin Isma'il], telah menceritakan kepada Kami [Hammad yaitu Ibnu Salamah] dari [Tsabit] dari [Anas], ia berkata; tatkala turun ayat: "Kamu sekali-kali tidak sampai kepada kebajikan (yang sempurna), sebelum kamu menafkahkan sehahagian harta yang kamu cintai." Abu Thalhah berkata; wahai Rasulullah, aku melihat Tuhan kita meminta sebagian harta kita, aku meminta persaksianmu bahwa aku telah menjadikan tanahku yang berada di Ariha' untuk Allah. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Berikanlah tanah tersebut untuk para kerabatmu!" Kemudian ia membaginya diantara Hassan bin Tsabit dan Ubai bin Ka'b. Abu Daud berkata; telah sampai kepadaku dari seorang anshar yaitu Muhammad bin Abdullah, ia berkata; Abu Thalhah Zaid bin Sahl bin Al Aswad bin Haram bin 'Amr bin Zaid Manah bin 'Adi bin 'Amr bin Malik bin An Najjar, serta Hassan bin Tsabit bin Al Mundzir bin Haram bertemu nasabnya di Haram, ia adalah ayah ketiga. Sedangkan Ubai bin Ka'b bin Qais bin 'Atik, bin Zaid bin Mu'awiyah bin 'Amr bin Malik bin An Najjar, maka 'Amr mengumpulkan antara Hassan, Abu Thalhah serta Ubai. Orang Anshar tersebut berkata; antara Abu Thalhah dan Ubai terdapat enam ayah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1689</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 9 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что он сказал: «Когда было ниспослано: “Вы не обретёте благочестия, пока не будете расходовать из того, что вы любите”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1689</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 9 Hadith 134</td></tr></tbody></table></div>
 

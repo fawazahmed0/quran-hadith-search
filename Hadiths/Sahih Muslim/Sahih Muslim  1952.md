@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar is reported to have said that The Messenger of Allah (may peace
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnu Rumh] telah mengabarkan kepada kami [Laits] dari [Ibnu Syihab] dari [Abdullah bin Abdullah bin Umar] dari [Abdullah bin Umar] dari Rasulullah shallallahu 'alaihi wasallam bahwa beliau bersabda disaat berada di atas mimbar: "Barangsiapa di antara kalian ingin mendatangi shalat Jum'at hendaklah ia mandi." Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ibnu Syihab] dari [Salim] dan [Abdullah] -keduanya adalah anak Abdullah bin Umar- dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dengan hadits semisalnya. Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [bapaknya] ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda. Yakni dengan hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>844.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Абдуллаха ибн ‘Умара, что Посланник Аллаха ﷺ сказал, стоя на минбаре: «Пусть тот из вас, кто (решит) прийти на пятничную молитву, совершит большое омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>844.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 2</td></tr></tbody></table></div>
 

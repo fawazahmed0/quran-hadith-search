@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri and Abu Huraira both reported Allah's Messenger (ﷺ) as say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abdu bin Humaid], teks milik Ishaq, keduanya berkata: telah mengkhabarkan kepada kami [Abdurrazzaq] berkata: Berkata [Ats Tsauri] telah menceritakan kepadaku [Abu Ishaq] bahwa [Al Aghar] telah menceritakan kepadanya dari [Abu Sa'id Al Khudri] dan [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Penyeru menyerukan: Sesungguhnya kalian hidup dan tidak mati selamanya, kalian sehat dan tidak sakit selamanya, kalian muda dan tidak tua selamanya, kalian bersenang-senang dan tidak akan bersedih selamanya. Itulah firmanNya 'azza wajalla:; Dan Itulah surga yang diwariskan kepada kamu disebabkan amal-amal yang dahulu kamu kerjakan." (Az Zukhruuf:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7157</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 53 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7157</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 53 Hadith 26</td></tr></tbody></table></div>
 

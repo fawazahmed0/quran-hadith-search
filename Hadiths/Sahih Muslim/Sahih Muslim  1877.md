@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that while Gabriel was sitting with the Apostle (ﷺ) he hea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hasan bin Rabi'] dan [Ahmad bin Jawwas Al Hanfi] keduanya berkata, telah menceritakan kepada kami [Abul Ahwash] dari [Ammar bin Ruzaiq] dari [Abdullah bin Isa] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata; Ketika malaikat Jibril sedang duduk di samping Nabi shallallahu 'alaihi wasallam tiba-tiba ia mendengar suara pintu dibuka dari arah atas kepalanya. Lalu malaikat Jibril berkata: "Itu adalah suara salah satu pintu langit yang dibuka, sebelumnya ia belum pernah dibuka sama sekali kecuali pada hari ini." Lalu keluarlah daripadanya malaikat. Jibril berkata: "Ini adalah malaikat yang hendak turun ke bumi, sebelumnya ia belum pernah turun ke bumi sama sekali kecuali pada hari ini saja." Lalu ia memberi salam dan berkata: "Bergembiralah atas dua cahaya yang diberikan kepadamu dan belum pernah diberikan kepada seorang Nabipun sebelummu, yaitu pembuka Al Kitab (surat Al Fatihah) dan penutup surat Al Baqarah. Tidaklah kamu membaca satu huruf dari kedua surat itu kecuali pasti akan diberikan kepadamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1877</td></tr><tr><td>Arabic No</td><td>806</td></tr><tr><td>Reference</td><td>Book 6 Hadith 305</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен им Аллах, рассказывал: «Однажды, когда ангел Джибрил (мир ему) сидел у Пророка ﷺ он услышал раздавшийся сверху звук, поднял голову и сказал: “Этот звук издали врата неба, которые были открыты сегодня, а до сегодняшнего дня не открывались никогда, и через эти врата спустился ангел, который ещё никогда не спускался на землю. Он произнёс слова приветствия и сказал: “Дарованы тебе два света, которые не были дарованы ни одному из пророков, живших до тебя, так возрадуйся же им! Это сура “аль-­Фатиха” и заключительная часть суры “аль-­Бакара”. И что бы из них ты ни прочёл, тебе обязательно будет даровано это!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1877</td></tr><tr><td>Arabic No</td><td>806</td></tr><tr><td>Reference</td><td>Book 6 Hadith 305</td></tr></tbody></table></div>
 

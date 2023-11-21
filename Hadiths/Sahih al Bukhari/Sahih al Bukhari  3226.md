@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Busr bin Sa'id:That Zaid bin Khalid Al-Juhani narrated to him something
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3226</td></tr><tr><td>Arabic No</td><td>3226</td></tr><tr><td>Reference</td><td>Book 59 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Тальхи, да будет доволен им Аллах, что Пророк ﷺ сказал: «Ангелы не входят в дом, в котором есть изображения (живых существ)». \n(Передатчик этого хадиса) Буср сказал: «А потом Зейд ибн Халид (от которого он передал этот хадис и который передал его от Абу Тальхи) заболел, и мы пришли навестить его. И вдруг на его двери мы увидели занавеску с изображениями. Я сказал ‘Убайдуллаху аль-Хауляни: “Разве Зейд не рассказывал нам (хадис) о изображениях?” ‘Убайдуллах сказал в ответ: “А разве ты не слышал, как он сказал, что украшения (вышивки) на ткани (без изображения живых существ) считаются исключением?” Он ответил: “Нет”. ‘Убайдуллах сказал: “Да, он так сказал”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3226</td></tr><tr><td>Arabic No</td><td>3226</td></tr><tr><td>Reference</td><td>Book 59 Hadith 37</td></tr></tbody></table></div>
 

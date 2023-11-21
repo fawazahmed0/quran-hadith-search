@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Apostle of Allah (ﷺ) visited the grave of his mother 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ubaid] dari [Yazid bin Kaisan] dari [Abu Hazim] dari [Abu Hurairah] ia berkata; Nabi shallallahu 'alaihi wasallam menziarahi kubur ibunya, lalu beliau menangis sehingga orang yang berada di sekelilingnya pun ikut menangis. Kemudian beliau bersabda: "Saya memohon izin kepada Rabb-ku untuk memintakan ampunan baginya, namun tidak diperkenankan oleh-Nya, dan saya meminta izin untuk menziarahi kuburnya lalu diperkenankan oleh-Nya. Karena itu, berziarahlah kubur karena ia akan mengingatkan kalian akan kematian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2259</td></tr><tr><td>Arabic No</td><td>976.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды,) когда Пророк ﷺ навестил могилу своей матери, он заплакал, и заплакали те, кто был вокруг него. Затем Пророк ﷺ сказал: “Я попросил разрешения у своего Господа просить для неё прощения, но мне не было это позволено, и я попросил разрешения навестить её могилу, и мне было разрешено. Так навещайте же могилы, ибо они напоминают о смерти”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2259</td></tr><tr><td>Arabic No</td><td>976.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 135</td></tr></tbody></table></div>
 

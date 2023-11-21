@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said:when the first emigrants came (to Madina), they stayed at al-�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Qa'nabi] telah menceritakan kepada kami [Anas bin 'Iyadl] Al-Hadits. Dan telah menceritakan kepada kami [Al-Haitsam bin Khalid Al-Juhani] secara makna. Mereka berdua berkata; Telah menceritakan kepada kami [Ibnu Numair] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwasanya dia berkata; Tatkala kaum muhajirin yang pertama-tama datang, mereka singgah di Ushbah (suatu kampung di Madinah) sebelum datangnya Nabi shallallahu 'alaihi wasallam, dan yang menjadi imam bagi mereka tatkala itu adalah Salim, mantan sahaya Abu Hudzaifah dan dia adalah orang yang paling banyak hafalan Al Qurannya. Al-Haitsami menambahkan; Dan di antara mereka ada Umar bin Al-Khaththab dan Abu Salamah bin Abdul Asad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (692)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>588</td></tr><tr><td>Arabic No</td><td>588</td></tr><tr><td>Reference</td><td>Book 2 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Когда прибыли первые переселенцы (мухаджиры), они остановились в аль-‘Асбе до прибытия Пророка ﷺ и в это время у них имамом (в молитве) был Салим, вольноотпущенник Абу Хузайфы, который больше всех из них знал Коран».Аль-Хайсам добавил: «И среди них были ‘Умар ибн аль-Хаттаб и Абу Саляма ибн ‘Абдуль-Асад»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (692)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>588</td></tr><tr><td>Arabic No</td><td>588</td></tr><tr><td>Reference</td><td>Book 2 Hadith 198</td></tr></tbody></table></div>
 

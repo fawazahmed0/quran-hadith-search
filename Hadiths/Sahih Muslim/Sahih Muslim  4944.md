@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Hafsa daughter of Sirin who said:Anas b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamid bin Umar Al Bakrawi] telah menceritakan kepada kami [Abdul Wahid] -yaitu Ibnu Ziyad- telah menceritakan kepada kami ['Ashim] dari [Hafshah binti Sirin] dia berkata; [Anas bin Malik] pernah berkata kepadaku, "Sebab apakah Yahya bin 'Amrah meninggal dunia?" Hafshah berkata, "Saya menjawab, "Karena penyakit kolera." Hafshah melanjutkan, "Lantas Anas berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Penyakit kolera dapat menjadikan mati syahid bagi setiap muslim." Dan telah menceritakan kepada kami [Al Walid bin Syuja'] telah menceritakan kepada kami [Ali bin Mushir] dari ['Ashim] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>1916.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>1916.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 239</td></tr></tbody></table></div>
 

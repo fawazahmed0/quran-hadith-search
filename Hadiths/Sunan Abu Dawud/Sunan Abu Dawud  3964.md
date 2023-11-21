@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wathilah ibn al-Asqa: Al-Arif ibn ad-Daylami said: We went to Wathilah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Muhammad Ar Ramli] telah menceritakan kepada kami [Dlamrah] dari [Ibrahim bin Abu 'Abalah] dari [Al Gharif bin Ad Dailami] ia berkata, "Kami datang menemui [Watsilah bin Al Asqa'] dan berkata kepadanya, "Ceritakanlah kepada kami sebuah hadits yang tidak ada penambahan dan pengurangan padanya." Kemudian Watsilah marah dan berkata, "Sungguh, salah seorang di antara kalian ada yang membaca sementara mushhafnya tergantung di rumahnya, sehingga ia pun menambah dan mengurang." Kami katakan, "Sebenarnya kami hanya ingin mendengar hadits yang kamu dengar dari Nabi shallallahu 'alaihi wasallam." Watsilah lalu berkata, "Kami pernah datang kepada Rasulullah shallallahu 'alaihi wasallam menanyakan perihal sahabat kami yang telah divonis neraka karena sebab membunuh. Beliau kemudian bersabda: "Bebaskan budak untuknya, maka Allah akan membebaskan dengan setiap anggota badan budak tersebut satu anggotan badannya dari Neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3964</td></tr><tr><td>Arabic No</td><td>3964</td></tr><tr><td>Reference</td><td>Book 31 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Гарифа ибн ад-Дейлими: «Мы пришли к Василе ибн аль-Аска и сказали ему: “Расскажи нам какой-нибудь хадис, ничего не добавляя и не убавляя”. Он разгневался и сказал: “Поистине, один из вас читает свиток Корана, подвешенный у него дома, и прибавляет к нему или убавляет!” Мы сказали: “Мы имели в виду что-нибудь такое, что ты слышал от Пророка ﷺ”. Он сказал: “Однажды мы пришли к Посланнику Аллаха ﷺ поговорить о нашем (умершем) товарище, который заслужил попадания в Огонь посредством убийства, и Посланник Аллаха ﷺ сказал: “Освободите раба от его имени, и тогда Аллах за каждую часть тела освобождённого раба освободит соответствующую часть тела этого человека от Огня””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3964</td></tr><tr><td>Arabic No</td><td>3964</td></tr><tr><td>Reference</td><td>Book 31 Hadith 39</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: If anyone is given a legal decisio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Abu Abdurrahman Al Muqri'] telah menceritakan kepada kami [Sa'id bin Abu Ayyub] dari [Bakr bin 'Amru] dari [Muslim bin Yasar Abu Utsman] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang memberi fatwa…..". (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Sulaiman bin Daud] telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Yahya bin Ayyub] dari [Bakr bin 'Amru] dari ['Amru bin Abu Nu'aimah] dari [Abu Utsman Athunbudzi] orang yang disusui isteri Abdul Malik bin Marwan, ia berkata, "Aku mendengar [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa diberi fatwa tanpa dengan ilmu maka dosanya ditanggung orang yang memberi fatwa." Sulaiman Al Mahri menambahkan dalam hadits, "Barangsiapa memberi isyarat kepada saudaranya dalam suatu perkara dan ia mengetahui bahwa yang benar ada pada orang lain, maka sungguh ia telah berkhianat kepadanya." Dan Ini adalah lafazh Sulaiman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3657</td></tr><tr><td>Arabic No</td><td>3657</td></tr><tr><td>Reference</td><td>Book 26 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто даёт фетву без знания, тот понесёт на себе бремя греха того, кому он её дал». А в версии Сулеймана аль-Махри добавлено: «И кто указал брату своему на какое-то дело, зная, что лучше поступить иначе, тот поступил вероломно по отношению к нему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3657</td></tr><tr><td>Arabic No</td><td>3657</td></tr><tr><td>Reference</td><td>Book 26 Hadith 17</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said, "If somebody is ordered (by the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Al A'masy] dari [Abu Wa'il] dari [Abdullah] radliallahu 'anhu menuturkan; Rasulullah Shallallahu'alaihi wa sallam bersabda: "Barangsiapa bersumpah mengada-ada di depan hakim, dengan tujuan untuk memperoleh harta seorang muslim, maka ia berjumpa dengan Allah dan Allah murka kepadanya, " kemudian Allah menurunkan ayat yang membenarkan hal ini dengan ayat; 'Sesungguhnya orang-orang yang menukar janji Allah dan sumpah mereka dengan harga yang sedikit' (QS. Ali'imran 77) hingga akhir ayat. Maka [Al Asy'ats bin Qais] masuk dan bertanya; 'Apa yang diceritakan Abu Abdurrahman kepada kalian? ' Mereka menjawab; 'begini dan begini'. Maka Al Asy'ats bin Qais berkata; 'ayat itu diturunkan kepada kami, yang ketika itu saya mempunyai sumur di pekarangan keponakanku, maka kudatangi Rasulullah Shallallahu'alaihi wa sallam dan beliau bersabda: "Sekarang engkau harus menyertakan bukti kepemiikanmu atau dia melakukan sumpahnya!" Aku menjawab; 'kalau begitu, dia pasti akan bersumpah Ya Rasulullah! ' Rasulullah Shallallahu'alaihi wa sallam bersabda: "Barangsiapa bersumpah dengan sumpah dusta (diada-adakan), ia melakukan kejahatan dengan sumpahnya itu dengan tujuan untuk merampas harta seorang muslim, ia akan menjumpai Allah sedang Allah dalam keadaan murka kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6676</td></tr><tr><td>Arabic No</td><td>6676</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Пусть тот, кто, давая обязательную клятву (Аллахом), чтобы таким образом присвоить имущество мусульманина, тот встретит Аллаха разгневанным на него», — и в подтверждение этих слов Аллах ниспослал аят, (в котором сказано): «Поистине, для тех, которые продают завет с Аллахом и свои клятвы задёшево, нет доли в последней жизни. Аллах не будет говорить с ними, не посмотрит на них в день воскресения и не очистит их. Им уготованы мучительные страдания» (сура «Али ‘Имран», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6676</td></tr><tr><td>Arabic No</td><td>6676</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

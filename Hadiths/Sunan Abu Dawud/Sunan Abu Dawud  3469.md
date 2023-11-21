@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Sa’id Al Khudri :In the time of the Messenger of Allah (ﷺ) a ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Bukair] dari ['Iyadl bin Abdullah] dari [Abu Sa'id Al Khudri] ia berkata, "Pada masa Rasulullah shallallahu 'alaihi wasallam ada seorang laki-laki mengalami kerugian pada buah kurma yang ia beli sehingga hutangnya menjadi banyak. Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Bersedekahlah kalian kepadanya!" Maka orang-orang pun bersedekah kepadanya, namun hal itu belum dapat membayar hutangnya. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Ambillah apa yang kalian dapatkan, kalian tidak memiliki sesutupun kecuali hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3469</td></tr><tr><td>Arabic No</td><td>3469</td></tr><tr><td>Reference</td><td>Book 24 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт: «Во времена Посланника Аллаха ﷺ один человек заранее купил плоды, а потом они погибли, и у него появился большой долг. Посланник Аллаха ﷺ сказал: “Подайте ему милостыню”. Люди подали ему милостыню, однако она всё равно не покрыла его долг. Тогда Посланник Аллаха ﷺ сказал: “Берите то, что есть, ибо ни на что иное у вас нет права”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3469</td></tr><tr><td>Arabic No</td><td>3469</td></tr><tr><td>Reference</td><td>Book 24 Hadith 54</td></tr></tbody></table></div>
 

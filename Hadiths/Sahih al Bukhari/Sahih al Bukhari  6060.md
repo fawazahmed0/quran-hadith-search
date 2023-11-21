@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) heard a man praising another man and he was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Shabbah] telah menceritakan kepada kami [Isma'il bin Zakariya'] telah menceritakan kepada kami [Buraid bin Abdullah bin Abu Burdah] dari [Abu Burdah bin Abu Musa] dari [Abu Musa] dia berkata; "Nabi Shallallahu 'alaihi wasalam pernah mendengar seseorang memuji orang lain secara berlebihan, lalu beliau bersabda: "Kalian telah binasa-atau: Kalian telah memutuskan punggung seseorang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6060</td></tr><tr><td>Arabic No</td><td>6060</td></tr><tr><td>Reference</td><td>Book 78 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса сказал: «(Однажды) услышав, как один человек восхваляет другого и превозносит его, Пророк ﷺ сказал: “Вы погубили этого человека (или: сломали этому человеку хребет)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6060</td></tr><tr><td>Arabic No</td><td>6060</td></tr><tr><td>Reference</td><td>Book 78 Hadith 90</td></tr></tbody></table></div>
 

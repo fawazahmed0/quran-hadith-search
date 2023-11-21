@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Il nous fut interdit de poser des qu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Muhammad bin Bukair an-Naqid] telah menceritakan kepada kami [Hasyim bin al-Qasim Abu an-Nadlr] telah menceritakan kepada kami [Sulaiman bin al-Mughirah] dari [Tsabit] dari [Anas bin Malik] dia berkata, "Kami terhalangi untuk bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang sesuatu, yaitu kekaguman kami terhadap kedatangan seorang laki-laki dari penduduk gurun yang berakal (cerdas), lalu dia bertanya, sedangkan kami mendengarnya, lalu seorang laki-laki dari penduduk gurun datang seraya berkata, 'Wahai Muhammad, utusanmu mendatangi kami, lalu mengklaim untuk kami bahwa kamu mengklaim bahwa Allah mengutusmu.' Rasulullah menjawab: 'Benar'. Dia bertanya, 'Siapakah yang menciptakan langit? ' Rasulullah menjawab: 'Allah.' Dia bertanya, 'Siapakah yang menciptakan bumi? ' Rasulullah menjawab: 'Allah.' Dia bertanya, 'Siapakah yang memancangkan gunung-gunung ini dan menjadikan isinya segala sesuatu yang Dia ciptakan? ' Beliau menjawab: 'Allah.' Dia bertanya, 'Maka demi Dzat yang menciptakan langit, menciptakan bumi, dan memancangkan gunung-gunung ini, apakah Allah yang mengutusmu? ' Beliau menjawab: 'Ya.' Dia bertanya, 'Utusanmu mengklaim bahwa kami wajib melakukan shalat lima waktu sehari semalam, (apakah ini benar)? ' Beliau menjawab: 'Benar'. Dia bertanya, 'Demi Dzat yang mengutusmu, apakah Allah menyuruhmu untuk melakukan ini? ' Beliau menjawab: 'Ya'. Dia bertanya, 'Utusanmu mengklaim bahwa kitab wajib melakukan puasa Ramadlan pada setiap tahun kita, (apakah ini benar)? ' Beliau menjawab: 'Ya'. Dia bertanya, 'Demi Dzat yang mengutusmu, apakah Allah menyuruhmu untuk melakukan ini? ' Beliau menjawab: 'Ya'. Dia bertanya, 'Utusanmu mengklaim bahwa kami wajib melakukan haji bagi siapa di antara kami yang mampu menempuh jalan-Nya, (apakah ini benar)? ' Beliau menjawab, 'Ya benar'. Kemudian dia berpaling dan berkata, 'Demi Dzat yang mengutusmu dengan kebenaran, aku tidak akan menambah atas kewajiban tersebut dan tidak akan mengurangi darinya'. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Jika benar (yang dikatakannya), sungguh dia akan masuk surga'." Telah menceritakan kepada kami [Abdullah bin Hasyim al-Abdi] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Sulaiman bin al-Mughirah] dari [Tsabit] dia berkata, [Anas] berkata, "Kami terhalangi untuk bertanya tentang sesuatu dari al-Qur'an kepada Rasulullah." Lalu dia membawakan hadits dengan semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>102</td></tr><tr><td>Arabic No</td><td>12.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Нам запрещалось спрашивать Посланника Аллаха ﷺ о чём то ни было
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>102</td></tr><tr><td>Arabic No</td><td>12.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 10</td></tr></tbody></table></div>
 

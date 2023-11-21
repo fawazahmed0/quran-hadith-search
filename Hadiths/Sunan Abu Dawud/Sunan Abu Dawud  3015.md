@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mujammi' ibn Jariyah al-Ansari,: Khaybar was divided among the people o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Mujammi' bin Ya'qub bin Mujammi' bin Yazid? Al Anshari], ia berkata; saya mendengar ayahku [Ya'qub bin Mujammi'] menceritakan kepadanya mengenai [pamannya yaitu Abdurrahman bin Yazid? Al Anshari], dari [pamannya yaitu Mujammi' bin Jariyah Al Anshari], dan ia adalah salah satu ahli penghafal Al Qur'an yang telah hafal Al Qur'an. Ia berkata; Khaibar dibagi kepada orang-orang yang menyaksikan perjanjian Hudaibiyah. Rasulullah shallallahu 'alaihi wasallam membaginya menjadi delapan belas saham. Dan pasukan tersebut berjumalah seribu lima ratus, diantara mereka terdapat tiga ratus tiga penunggang kuda, beliau memberikan dua saham kepada penunggang kuda dan memberikan satu saham kepada pasukan yang berjalan kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3015</td></tr><tr><td>Arabic No</td><td>3015</td></tr><tr><td>Reference</td><td>Book 20 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Муджамми‘ ибн Джария аль-Ансари, который был одним из чтецов Корана, сказал: «Хайбар был разделён между участниками похода на Худайбию, причём Посланник Аллаха ﷺ разделил его на восемнадцать частей, а войско состояло из полутора тысяч человек, из них триста всадников, и он дал каждому всаднику две доли, а пешему воину одну»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3015</td></tr><tr><td>Arabic No</td><td>3015</td></tr><tr><td>Reference</td><td>Book 20 Hadith 88</td></tr></tbody></table></div>
 

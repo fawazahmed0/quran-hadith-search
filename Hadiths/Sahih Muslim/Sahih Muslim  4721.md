@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of 'Abdullah b. 'Umar that the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb] dan [Ibnu Numair] mereka berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru] -yaitu Ibnu Dinar- dari ['Amru bin Aus] dari [Abdullah bin 'Amru], -dan Ibnu Numair dan Abu Bakar mengatakan sesuatu yang sampai kepada Nabi shallallahu 'alaihi wasallam, dan dalam haditsnya Zuhair- dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang-orang yang berlaku adil berada di sisi Allah di atas mimbar (panggung) yang terbuat dari cahaya, di sebelah kanan Ar Rahman 'azza wajalla -sedangkan kedua tangan Allah adalah kanan semua-, yaitu orang-orang yang berlaku adil dalam hukum, adil dalam keluarga dan adil dalam melaksanakan tugas yang di bebankan kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4721</td></tr><tr><td>Arabic No</td><td>1827</td></tr><tr><td>Reference</td><td>Book 33 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абдуллаха ибн 'Амра, да будет им доволен Аллах, сообщается, что Посланник Аллаха ﷺ сказал: «Поистине, справедливые у Аллаха будут находиться на минбарах из света, по правую руку от Милосердного, обе руки у Которого правые. Это те, которые придерживаются справедливости в своих решениях, семьях и в том, чем заведуют»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4721</td></tr><tr><td>Arabic No</td><td>1827</td></tr><tr><td>Reference</td><td>Book 33 Hadith 21</td></tr></tbody></table></div>
 

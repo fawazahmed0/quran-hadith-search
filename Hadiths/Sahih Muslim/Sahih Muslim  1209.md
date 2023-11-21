@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ishaq bin Manshur] keduanya berkata, telah mengabarkan kepada kami [an-Nadhar bin Syumail] telah mengabarkan kepada kami [Syu'bah] telah mengabarkan kepada kami [Muhammad, dan dia adalah Ibnu Ziyad] dia berkata, "Saya mendengar [Abu Hurairah] radhiyallahu'anhu berkata, Rasulullah shallallahu'alaihiwasallam bersabda, "Sesungguhnya Ifrit dari kalangan jin berusaha mencopet dariku semalam untuk memutuskan shalatku. Dan Allah memberikan kemampuan kepadaku untuk menolaknya, lalu aku mendorongnya. Sungguh aku bermaksud mengikatkan di sisi pelataran masjid hingga kalian masuk waktu shubuh agar kalian dapat melihatnya semuanya atau setiap kalian. Namun aku teringat perkataan saudaraku, Sulaiman, 'Rabbigh firlii wahab lii mulkan laa yanbaghii li-ahadin min ba'dii" "Ya Allah, ampunilah aku, dan berikanlah kekuasaan kepadaku yang tidak layak bagi seseorang sesudahku (untuk mendapatkannya).' Lalu Allah mengembalikannya dalam keadaan terhina." Dan [Ibnu Manshur] berkata; [Syu'bah] berkata dari [Muhammad bin Ziyad] --Lewat jalur periwayatan lain-- telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad, dia adalah Ibnu Ja'far] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakannya kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Syababah] keduanya meriwayatkan dari [Syu'bah] dalam isnad ini, dan tidak ada dalam hadits Ibnu Ja'far perkataannya, 'Lalu aku mendorongnya.' Sedangkan Ibnu Abi Syaibah berkata dalam riwayatnya, 'Lalu aku mendorongnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1209</td></tr><tr><td>Arabic No</td><td>541.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ сказал: «Поистине, вчера ко мне явился ‘ифрит из числа джиннов, чтобы прервать мою молитву, но Аллах помог мне справиться с ним и я схватил его. (Сначала) я хотел привязать его к одному из столбов мечети, чтобы утром все вы посмотрели на него, но (потом) вспомнил слова моего брата Сулеймана (, который сказал): “Господь мой прости мне и даруй мне (такую) власть, которой после меня не будет обладать уже никто”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1209</td></tr><tr><td>Arabic No</td><td>541.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 49</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) said: Any person who offers pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Muhammad bin Al Munkadir] dari [Sa'id bin Jubair] dari [seseorang] yang ia ridlai, bahwa [Aisyah] isteri Nabi shallallahu 'alaihi wasallam telah mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang yang terbiasa mengerjakan shalat malam, kemudian dia tertidur (tidak mengerjakannya) melainkan akan di catat baginya pahala shalat malam, dan tidurnya di anggap sedekah baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 5 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, жены Пророка ﷺ что Посланник Аллаха ﷺ сказал: «Если человек регулярно совершает ночную молитву, а однажды (неумышленно) проспит её, ему запишется награда, как если бы он совершил её, а его сон будет (поданной ему Аллахом) милостыней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 5 Hadith 65</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée), le Prophète (paix et bénédiction de Dieu s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Humaid] dari [Tsabit] dari [Anas]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Abu Umar] dan ini adalah lafadz dia, telah menceritakan kepada kami [Marwan bin Mu'awiyah Al Fazari] telah menceritakan kepada kami [Humaid] telah menceritakan kepadaku [Tsabit] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam melihat seorang laki-laki tua berjalan dengan dituntun oleh dua orang anaknya, lantas beliau bersabda: "Kenapa orang tua ini?" mereka menjawab, "Dia nadzar (untuk beribadah haji) dengan berjalan kaki." Beliau lalu bersabda: 'Sesungguhnya Allah tidak butuh atas penyiksaan orang ini atas dirinya (sendiri).' Kemudian beliau memerintahkan supaya naik kendaraan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4247</td></tr><tr><td>Arabic No</td><td>1642</td></tr><tr><td>Reference</td><td>Book 26 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4247</td></tr><tr><td>Arabic No</td><td>1642</td></tr><tr><td>Reference</td><td>Book 26 Hadith 13</td></tr></tbody></table></div>
 

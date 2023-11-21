@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dawud said:I read out (this tradition) to Sa'id b. Ya'qub al-Taliqini, and I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah berkata Abu Daud; aku membacakan riwayat kepada [Sa'id bin Ya'qub Ath Thalqani], aku katakan kepadanya; telah menceritakan kepada kalian [Ibnu Al Mubarak], dari [Sa'id Abu Syuja'], telah menceritakan kepadaku [Utsman bin Sahl bin Rafi' bin Khadij], ia berkata; sungguh aku dahulu adalah seorang anak yatim di dalam asuhan [Rafi' bin Khadij], dan aku pernah berhaji bersamanya. Kemudian saudara Imran bin Sahl datang kepadanya dan berkata; kami menyewakan tanah kami kepada Fulanah dengan upah dua ratus dirham. Kemudian ia berkata; tinggalkan pekerjaan tersebut, karena sesungguhnya Nabi shallallahu 'alaihi wasallam melarang dari menyewakan tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3401</td></tr><tr><td>Arabic No</td><td>3401</td></tr><tr><td>Reference</td><td>Book 23 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Усман ибн Сахль ибн Рафи‘ ибн Хадидж передаёт: «Я был сиротой, и Рафи‘ ибн Хадидж воспитывал меня, и я совершал хадж вместе с ним. И к нему пришёл мой брат ‘Имран ибн Сахль и сказал: “Мы отдали возделывать такую-то землю, принадлежащую нам, за двести дирхемов”. Он сказал: “Оставьте это, ибо Пророк ﷺ запретил издольщину”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3401</td></tr><tr><td>Arabic No</td><td>3401</td></tr><tr><td>Reference</td><td>Book 23 Hadith 76</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Lubabah daughter of al-Harith: Al-Husayn ibn Ali was (sitting) in the l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] dan [Ar Rabi' bin Nafi', Abu Taubah] secara makna. Mereka berdua berkata; Telah menceritakan kepada kami [Abu Al Ahwash] dari [Simak] dari [Qabus] dari [Lubabah binti Al Harits] dia berkata; Pernah Husain bin Ali radliallahu 'anhu berada di pangkuan Rasulullah shallallahu 'alaihi wasallam, lalu dia kencing di atas pangkuan beliau. Maka saya berkata; Pakailah (gantilah) pakaian, dan berikanlah aku kain sarungmu itu untuk saya cuci. Beliau bersabda: "Sesungguhnya yang dicuci hanya kencing anak perempuan, sedangkan kencing anak laki-laki, hanya di perciki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>375</td></tr><tr><td>Reference</td><td>Book 1 Hadith 375</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Лубаба бинт аль-Харис сказала: «Однажды, когда аль-Хусайн ибн ‘Али, да будет доволен им Аллах, (сидел) на коленях Посланника Аллаха ﷺ он помочился на него. Я сказала: “Надень (другую) одежду и дай мне свой изар, чтобы я постирала его”. Он сказал: “Мочу девочки надо смывать, а мочу мальчика (достаточно) окропить водой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>375</td></tr><tr><td>Reference</td><td>Book 1 Hadith 375</td></tr></tbody></table></div>
 

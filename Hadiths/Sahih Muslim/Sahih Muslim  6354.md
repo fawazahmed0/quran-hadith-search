@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir Ibn 'Abdoullâh (رضي الله عنهما), Le jour de la bata
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin 'Umar Al Qawariri] dan ['Amru An Naqid] seluruhnya dari [Sufyan] dia berkata; ['Ubaidullah] Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dia berkata; Aku mendengar [Ibnu Al Munkadir] berkata; Aku mendengar Jabir bin Abdullah berkata; Pada hari perang uhud Bapakku dibawa dalam keadaan tertutup oleh kain, dan sungguh dia telah dicincang. [Jabir] berkata; Aku ingin segera membukanya, namun orang-orang melarangku. Kemudian aku ingin membukanya lagi, tapi orang-orang melarangku. Maka Nabi shallallahu 'alaihi wasallam membukanya atau memerintahkan hal itu, lalu diangkat. Dan ketika diangkat, beliau mendengar suara seorang wanita yang menangis atau berteriak. lalu beliau bertanya: "Siapa ini?" Mereka menjawab; "Ini adalah puteri Amru -atau saudari Amru-." Beliau bersabda: "Mengapa kamu menangis?, padahal malaikat akan selalu menaunginya dengan sayap-sayapnya hingga diangkat?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6354</td></tr><tr><td>Arabic No</td><td>2471.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6354</td></tr><tr><td>Arabic No</td><td>2471.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 184</td></tr></tbody></table></div>
 

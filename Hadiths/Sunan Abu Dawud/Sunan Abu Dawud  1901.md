@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi] dari [Malik] dari [Hisyam bin 'Urwah]. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Ibnu As Sarh], telah menceritakan kepada Kami [Ibnu Wahb] dari [Malik] dari [Hisyam bin 'Urwah] dari [ayahnya] bahwa ia berkata; aku katakan kepada [Aisyah] isteri Nabi shallallahu 'alaihi wasallam dan pada saat itu aku adalah orang yang baru remaja; bagaimana pendapatmu mengenai firman Allah ta'ala: "Sesungguhnya Shafaa dan Marwa adalah sebagian dari syi'ar Allah." Aku melihat tidak ada dosa sedikitpun atas seseorang untuk tidak melakukan sa'i antara keduanya. Aisyah berkata; tidak, seandainya sebagaimana yang engkau katakan maka ayatnya berbunyi: FALAA JUNAAHA 'ALAIHI ALLAA YATHTHAWWAFU BIHIMAA (maka tidak ada dosa baginya untuk tidak mengerjakan sa'i antara keduanya). Sesungguhnya ayat ini diturunkan mengenai orang-orang anshar, dahulu mereka bertalbiyah untuk Manah (nama berhala), dan Manah satu berhadapan dengan Qudaid (nama tempat antara Mekkah dan Madinah). Dan mereka enggan untuk melakukan thawaf antara Shafa dan Marwah, kemudian tatkala Islam datang, mereka bertanya kepada Rasulullah shallAllahu wa'alaihi wa sallam mengenai hal tersebut. Kemudian Allah ta'ala menurunkan ayat: "Sesungguhnya Shafaa dan Marwa adalah sebagian dari syi'ar Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1790) Sahih Muslim (1277)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1901</td></tr><tr><td>Arabic No</td><td>1901</td></tr><tr><td>Reference</td><td>Book 11 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Урва передаёт: В ранней юности я сказал ‘Аише, да будет доволен ею Аллах, жене Пророка ﷺ: «Вот Всевышний Аллах сказал: “Воистину, Сафа и Марва одни из обрядовых знамений Аллаха...” (сура “аль-Бакара”, аят 158). Получается, что ни на ком не будет греха, если люди не будут обходить их». ‘Аиша сказала: «Вовсе нет. Если бы это было так, было бы сказано: “...Тот не совершит греха, если не пройдёт между ними”. О нет, этот аят был ниспослан по поводу ансаров, совершавших паломничество к Манат, которая находилась напротив Кудайда, и считавших греховным проходить между холмами Сафа и Марва. А когда появился ислам, они спросили об этом Посланника Аллаха ﷺ и Всевышний Аллах ниспослал: “Воистину, Сафа и Марва одни из обрядовых знамений Аллаха...”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1790) Sahih Muslim (1277)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1901</td></tr><tr><td>Arabic No</td><td>1901</td></tr><tr><td>Reference</td><td>Book 11 Hadith 181</td></tr></tbody></table></div>
 

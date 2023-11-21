@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:The Prophet. said, "The biggest of the great sins are: To joi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyr bin Mufadhdhal] telah menceritakan kepada kami [Al Jurairi] -lewat jalur periwayatan lain- telah menceritakan kepadaku [Qais bin Hafsh] telah menceritakan kepada kami [Isma'il bin Ibrahim] Telah mengabarkan kepada kami [Sa'id Al Jurairi] telah menceritakan kepada kami [Abdurrahman bin Abu Bakrah] dari [ayahnya] radliallahu 'anhu mengatakan, Nabi shallallahu 'alaihi wasallam bersabda: "Dosa yang paling besar diantara dosa-dosa besar lainnya adalah menyekutukan Allah, durhaka kepada orang tua, kesaksian palsu, kesaksian palsu (beliau mengulanginya tiga kali), atau ucapan dusta, " beliau tidak henti-henti mengulang-ulanginya sehingga kami mengatakan; 'Duhai, sekiranya beliau diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6919</td></tr><tr><td>Arabic No</td><td>6919</td></tr><tr><td>Reference</td><td>Book 88 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал: “Наиболее тяжкие грехи — это придавание Аллаху сотоварищей, непочтительность по отношению к родителям, лжесвидетельство, лжесвидетельство, лжесвидетельство” — и он продолжал повторять (эти слова), пока мы не стали говорить: “О, если бы он умолк!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6919</td></tr><tr><td>Arabic No</td><td>6919</td></tr><tr><td>Reference</td><td>Book 88 Hadith 2</td></tr></tbody></table></div>
 

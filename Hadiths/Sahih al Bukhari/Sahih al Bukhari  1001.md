@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Seereen:Anas was asked, "Did the Prophet (ﷺ) recite Qunu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Muhammad bin Sirin] berkata, " [Anas bin Malik] pernah ditanya, "Apakah Nabi shallallahu 'alaihi wasallam melakukan qunut dalam shalat Shubuh?" Dia berkata, "Ya." Lalu dikatakan kepadanya, "Apakah beliau melakukannya sebelum rukuk?" Dia menjawab, "Terkadang setelah rukuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1001</td></tr><tr><td>Arabic No</td><td>1001</td></tr><tr><td>Reference</td><td>Book 14 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Анаса, да будет доволен им Аллах, спросили: «Обращался ли Пророк ﷺ (с мольбами) кунут к Аллаху во время утреннего намаза?» Он сказал: «Да». Тогда его (снова) спросили: «А обращался ли он (с мольбами) кунут к Аллаху перед поясными поклонами?» (Анас) сказал: «(Он делал это) после поясных поклонов в течение короткого времени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1001</td></tr><tr><td>Arabic No</td><td>1001</td></tr><tr><td>Reference</td><td>Book 14 Hadith 12</td></tr></tbody></table></div>
 

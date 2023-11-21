@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Usamah ibn Zayd: The client of Usamah ibn Zayd said that he went along 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Aban], telah menceritakan kepada kami [Yahya] dari [Umar bin Abu Al Hakam bin Tsauban] dari [mantan budak Qudamah bin Mazh'un] dari [mantan budak Usamah bin Zaid], bahwa ia pernah pergi bersama Usamah menuju bukit Al Qura untuk mencari hartanya, ia berpuasa pada hari Senin dan Kamis. Kemudian mantan budaknya berkata; kenapa engkau berpuasa pada Hari Senin dan Kamis? Dan ia ditanya mengeani hal tersebut, lalu ia berkata; sesungguhnya Nabi shallallahu 'alaihi wasallam berkata: "Sesungguhnya amalan para hamba disampaikan pada hari Senin dan Kamis." Abu Daud berkata; demikianlah yang dikatakan oleh Hisyam Ad Dastuwai dari Yahya dari Umar bin Abu Al Hakam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2436</td></tr><tr><td>Arabic No</td><td>2436</td></tr><tr><td>Reference</td><td>Book 14 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от вольноотпущенника Усамы ибн Зейда, что однажды он пошёл вместе с Усамой в Вади-аль-Кура, где у него было какое-то имущество. А он постился по понедельникам и четвергам, и вольноотпущенник спросил его: «Почему ты постишься по понедельникам и четвергам при том, что ты уже стар?» Он ответил: «Поистине, пророк Аллаха ﷺ постился по понедельникам и четвергам, и, когда его спросили об этом, он сказал: “Поистине, дела рабов (Аллаха) представляются Ему по понедельникам и четвергам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2436</td></tr><tr><td>Arabic No</td><td>2436</td></tr><tr><td>Reference</td><td>Book 14 Hadith 124</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin 'Abbas bin Ja'far:Ibn 'Abbas recited. "No doubt! They fold
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam] dari [Ibnu Juraij] Dan telah mengabarkan kepadaku [Muhammad bin 'Abbad bin Ja'far] bahwa [Ibnu 'Abbas] membaca; 'Ketahuilah, sesungguhnya mereka memalingkan dada mereka dariku.'Ibnu Ja'far berkata; Aku bertanya kepadanya; 'Wahai Ibnu Abbas, apa yang dimaksud dengan ayat itu? Maka Ibnu Abbas menjawab; seseorang merasa malu ketika hendak bersetubuh dengan istrinya dan ketika membuang hajat dalam keadaan telanjang. Maka turunlah ayat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4682</td></tr><tr><td>Arabic No</td><td>4682</td></tr><tr><td>Reference</td><td>Book 65 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн ‘Аббас ибн Джа‘фар рассказывал: «Когда Ибн ‘Аббас прочитал аят: “Воистину, они сворачивают свои сердца…”, я сказал: “Что значит сворачивают сердца?” Он ответил: “Некоторые люди стеснялись вступать в половую близость с женой, а также стеснялись справлять нужду. Тогда и было ниспослано: “Воистину, они сворачивают свои сердца…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4682</td></tr><tr><td>Arabic No</td><td>4682</td></tr><tr><td>Reference</td><td>Book 65 Hadith 204</td></tr></tbody></table></div>
 

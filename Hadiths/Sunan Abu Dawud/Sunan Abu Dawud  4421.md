@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Ma'iz ibn Malik came to the Prophet (ﷺ) and said 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>4421</td></tr><tr><td>Reference</td><td>Book 40 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Ма‘из ибн Малик пришёл к Пророку ﷺ и сказал, что совершил прелюбодеяние. Однако он отвернулся от него. Ма‘из повторил свои слова несколько раз. (Посланник Аллаха ﷺ) отвернулся от него, а потом спросил его соплеменников: «Он сумасшедший?» Они ответили: «Нет, с ним всё в порядке». Тогда Посланник Аллаха ﷺ спросил: «Ты действительно совершил с ней прелюбодеяние?» Он ответил: «Да». Тогда (Посланник Аллаха ﷺ) велел побить его камнями, что и было сделано, и он не стал совершать по нему молитву джаназа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>4421</td></tr><tr><td>Reference</td><td>Book 40 Hadith 71</td></tr></tbody></table></div>
 

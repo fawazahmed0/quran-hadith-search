@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to Allah's Messenger (ﷺ) and said, "I am ruine
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mahbub] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Humaid bin Abdurrahman] dari [Abu Hurairah] radliallahu 'anhu menuturkan; "Seorang lelaki mendatangi Rasulullah Shallallahu'alaihi wa sallam dan berujar; 'celaka aku! ' Nabi bertanya; "sebab apa itu? ' laki-laki itu menjawab: 'Aku telah menggauli isteriku di bulan ramadhan! ' Nabi bertanya: "mampukah kamu memerdekakan budak?" 'Tidak' jawabnya. Nabi bertanya lagi: "mampukah kamu berpuasa dua bulan secara berturut-turut?" 'tidak' jawabnya. Nabi bertanya lagi: "mampukah kamu memberi makan enam puluh orang miskin?" 'Tidak' jawabnya. (Datanglah) seorang sahabat anshar membawa segantang kurma. -Dan maksud istilah 'arq adalah rantang yang berisi kurma.- Maka Nabi berkata kepadanya: "Bawalah makanan ini, dan sedekahkanlah!" Lelaki tersebut menjawab; 'Apakah kepada orang yang lebih membutuhkan daripada aku ya Rasulullah? Demi Dzat yang mengutusmu dengan kebenaran, diantara dua lembah ini tidak ada penghuni rumah yang lebih membutuhkan daripada aku.' Lantas Nabi berujar; "Pergilah dan berilah makan keluargamu dengan kurma ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6710</td></tr><tr><td>Arabic No</td><td>6710</td></tr><tr><td>Reference</td><td>Book 84 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) к Посланнику Аллаха ﷺ пришёл какой-то человек и воскликнул: “Я погиб!” (Пророк ﷺ) спросил: “Что с тобой (случилось)?” Он сказал: “Я вступил в половую близость с женой (днём) в рамадане”. Пророк ﷺ спросил: “Есть ли у тебя раб, (чтобы освободить его)?” Он ответил: “Нет”. (Пророк ﷺ) спросил: “А сможешь ли ты поститься два месяца подряд?” Он ответил: “Нет”. (Пророк ﷺ) спросил: “А сможешь ли ты накормить шестьдесят бедняков?” Он ответил: “Нет”. Тогда один человек из числа ансаров принёс корзину с финиками. Пророк ﷺ сказал тому человеку: “Возьми это и раздай в качестве милостыни”. Человек спросил: “ (Должен ли я раздать это) тем, кто беднее меня, о Посланник Аллаха? Клянусь Тем, Кто послал тебя с истиной, нет в пределах Медины семьи беднее моей!” Тогда Пророк ﷺ сказал: “Иди и накорми ими свою семью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6710</td></tr><tr><td>Arabic No</td><td>6710</td></tr><tr><td>Reference</td><td>Book 84 Hadith 3</td></tr></tbody></table></div>
 

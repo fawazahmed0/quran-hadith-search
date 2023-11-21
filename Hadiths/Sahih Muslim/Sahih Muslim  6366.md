@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jarir b. 'Abdullah al-Bajali said:Allah's Messenger (ﷺ) said to me: Can't on r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Jarir] dari [Isma'il bin Abu Khalid] dari [Qays bin Abu Hazim] dari [Jarir bin 'Abdullah Al Bajali] dia berkata; "Rasulullah shallallahu 'alaihi wasallam berkata kepada saya: "Wahai Jarir, pimpinlah pasukan kaum muslimin ke Dzil Khalashah suatu tempat ibadah orang-orang Khats'am yang disebut Ka'bah Yamaniah." Jarir berkata; Maka aku segera berangkat bersama seratus lima puluh pasukan penunggang kuda. Namun pada waktu itu aku tidak bisa diam di atas kudaku. Lalu aku ceritakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam. Maka beliau memukul dadaku dengan tangannya seraya bersabda: "Ya Allah, kokohkanlah ia dan jadikanlah dia orang yang dapat memberi petunjuk dan ditunjuki." Qais berkata; Lalu dia berangkat dan membakarnya dengan api. Setelah itu Jarir mengutus seseorang yang biasa dipanggil dengan Abu Arthah untuk mengabarkan kemenangan kepada Rasulullah shallallahu 'alaihi wasallam. Setelah sampai, Abu Arthah berkata kepada Rasulullah; Tidaklah aku datang kecuali aku telah meninggalkan rumah itu dalam keadaan terbakar hingga seakan-akan seekor unta berkudisan (berwarna hitam). Maka kemudian Rasulullah memberkahi kuda-kuda yang tangguh dan para penunggangnya sebanyak lima kali. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Waki']; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin 'Abbad]; Telah menceritakan kepada kami [Sufyan]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Marwan] yaitu Al Fazari; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami [Abu Usamah] seluruhnya dari [Isma'il] melalui jalur ini. Di dalam Hadits Marwan di sebutkan; 'maka datanglah utusan Jarir yaitu Abu Arthah bin Hushain bin Rabi'ah mengabarkan kemenangan kepada Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6366</td></tr><tr><td>Arabic No</td><td>2476.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6366</td></tr><tr><td>Arabic No</td><td>2476.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 196</td></tr></tbody></table></div>
 

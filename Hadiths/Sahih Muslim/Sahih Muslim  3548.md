@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is reported on the authority of Abu Sa'id with the same chain of tra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali Al Jahdlami] telah menceritakan kepada kami [Bisyr bin Al Mufadldlal] telah menceritakan kepada kami [Syu'bah] dari [Anas bin Sirin] dari [Ma'bad bin Sirin] dari [Abu Sa'id Al Khudri] dia (Anas) berkata; Saya bertanya kepadanya (Ma'bad), apakah kamu mendengarnya dari Abu Sa'id, dia menjawab, ya, dari Nabi Shalallahu 'alaihi wa salam beliau bersabda: "Tidak ada mudharat jika kalian tidak melakukan Azl, karena itu berkenaan dengan takdir Allah." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Yahya bin Habib] telah menceritakan kepada kami [Khalid yaitu Ibnu Al Harits]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dan [Bahz] mereka semua berkata; Telah menceritakan kepada kami [Syu'bah] dari [Anas bin Sirin] dengan isnad seperti ini, namun dalam hadits riwayat mereka disebutkan; dari Nabi shallallahu 'alaihi wasallam beliau bersabda mengenai Azl: "Tidak ada mudharat jika kalian tidak melakukan hal itu, karena itu berkenaan dengan takdir Allah." Dan dalam riwayat Bahz, Syu'bah berkata; Saya bertanya kepadanya; "Apakah dari Abu Sa'id?" Dia menjawab; "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3548</td></tr><tr><td>Arabic No</td><td>1438.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3548</td></tr><tr><td>Arabic No</td><td>1438.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 150</td></tr></tbody></table></div>
 

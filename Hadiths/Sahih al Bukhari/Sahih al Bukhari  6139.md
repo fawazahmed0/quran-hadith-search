@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:The Prophet (ﷺ) established a bond of brotherhood between
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ja'far bin Aun] telah menceritakan kepada kami [Abu Al 'Umais] dari ['Aun bin Abu Juhaifah] dari [Ayahnya] dia berkata; Nabi shallallahu 'alaihi wasallam mempersaudarakan antara Salman dengan Abu Darda', lalu Salman mengunjungi Abu Darda' dan melihat Ummu Darda' berpenampilan kusam, Salman pun bertanya; "Kenapa denganmu?" Ummu Darda' menjawab; "Sesungguhnya saudaramu yaitu Abu Darda' tidak membutuhkan terhadap dunia sedikitpun, " Ketika Abu Darda' tiba, dia membuatkan makanan untuk Salman lalu berkata; "Makanlah karena aku sedang berpuasa." Salman menjawab; "Saya tidak ingin makan hingga kamu ikut makan." Akhirnya Abu Darda' pun makan. Ketika tiba waktu malam, Abu Darda' beranjak untuk melaksanakan shalat namun Salman berkata kepadanya; "Tidurlah." Abu Darda' pun tidur, tidak berapa lama kemudian dia beranjak untuk mengerjakan shalat, namun Salman tetap berkata; "Tidurlah." akhirnya dia tidur." Ketika di akhir malam, Salman berkata kepadanya; "Sekarang bangunlah, " Abu Juhaifah berkata; "Keduanya pun bangun dan melaksanakan shalat, setelah itu Salman berkata; "Sesungguhnya Rabbmu memiliki hak atas dirimu, dan badanmu memiliki hak atas dirimu, isterimu memiliki hak atas dirimu, maka berikanlah haknya setiap yang memiliki hak." Selang beberapa saat Nabi shallallahu 'alaihi wasallam datang, lalu hal itu diberitahukan kepada beliau, Nabi shallallahu 'alaihi wasallam bersabda: "Salman benar." Abu Juhaifah Wahb As Suwa'i biasa di sebut dengan Wahb Al Khair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6139</td></tr><tr><td>Arabic No</td><td>6139</td></tr><tr><td>Reference</td><td>Book 78 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аун ибн Аби Джухайфа передал от своего отца, да будет доволен им Аллах, который сказал:\n— В своё время Сальман и Абу-д-Дарда побратались друг с другом благодаря Пророку ﷺ, а когда Сальман пришёл навестить Абу-д-Дарду и увидел Умм ад-Дарду в поношенной одежде, он спросил её: «Что с тобой?» Она сказала: «Твой брат Абу-д-Дарда не нуждается в (благах) мира этого». (Тем временем) пришёл и сам Абу-д-Дарда, который приготовил для (Сальмана) еду. (Сальман) сказал: «Поешь». (Абу-д-Дарда) сказал: «Поистине, я пощусь». (Сальман) сказал: «Я не стану есть, пока не поешь ты!» И он поел, а когда настала ночь, Абу-д-Дарда встал на молитву. (Сальман) сказал (ему): «Спи», — и он лёг спать, но (через некоторое время снова) встал на молитву. (Сальман снова) сказал: «Спи», — а в конце ночи Сальман сказал: «Теперь вставай», — и они совершили молитву, а потом Сальман сказал ему: «Поистине, у Господа твоего есть на тебя право, и у души твоей есть на тебя право и у семьи твоей есть на тебя право, так отдавай же каждому обладающему правом то, что по праву принадлежит ему!» А потом (Абу-д-Дарда) пришёл к Пророку ﷺ и рассказал ему об этом, Пророк же ﷺ сказал: «Сальман сказал правду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6139</td></tr><tr><td>Arabic No</td><td>6139</td></tr><tr><td>Reference</td><td>Book 78 Hadith 166</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:'Abdur-Rahman bin Abi Bakr came holding a Siwak with which he wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya [Sulaiman bin Bilal] berkata, [Hisyam bin 'Urwah] berkata, telah mengabarkan kepadaku [Bapakku] dari ['Aisyah] radliallahu 'anha, ia berkata, "'Abdurrahman bin Abu Bakar datang dengan membawa siwak yang dia gunakan untuk membersihkan giginya, Rasulullah shallallahu 'alaihi wasallam lalu memandang ke arahnya. Maka aku pun berkata kepadanya, "Wahai 'Abdurrahman, berikanlah siwak itu kepadaku." 'Abdurrahman kemudian memberikannya kepadaku, kemudian aku pecahkan dengan gigiku dan mengunyahnya (hingga lembut). Setelah itu siwak tersebut aku berikan kepada Rasulullah shallallahu 'alaihi wasallam, lalu Rasulullah menggosok giginya dengan menyandar pada dadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>890</td></tr><tr><td>Arabic No</td><td>890</td></tr><tr><td>Reference</td><td>Book 11 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) ко мне зашел ‘Абдуррахман ибн Абу Бакр, он держал «сивак», которым чистил зубы. Посланник Аллаха ﷺ посмотрел на него, и я сказала ему: «Дай мне этот сивак, о ‘Абдуррахман!» И он дал мне его. Тогда я взяла его и отрезала (использованную часть), затем разжевала и отдала Посланнику Аллаха ﷺ и он почистил им зубы, опираясь на мою грудь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>890</td></tr><tr><td>Arabic No</td><td>890</td></tr><tr><td>Reference</td><td>Book 11 Hadith 15</td></tr></tbody></table></div>
 

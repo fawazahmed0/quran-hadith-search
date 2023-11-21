@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Bisyr bin Adam], telah menceritakan kepada Kami [Abdullah bin Bakr As Sahmi], telah menceritakan kepada Kami [Mubarak bin Fadhalah] dari [Tsabit Al Bunani] dari [Abdurrahman bin Abu Laila] dari [Abdurrahman bin Abu Bakr], ia berkata: Rasulullah shallallahu 'alaihi wasallam bertanya: "Apakah diantara kalian pada hari ini ada orang yang telah memberi makan seorang miskin?" Abu Bakr radliallahu 'anhu menjawab; saya masuk masjid, dan ternyata saya mendapati seorang miskin yang sedang meminta-minta dan aku dapati sepotong roti ditangan Abdurrahman, maka aku mengambilnya dan aku berikan kepada orang miskin tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1670</td></tr><tr><td>Arabic No</td><td>1670</td></tr><tr><td>Reference</td><td>Book 9 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абду-р-Рахман ибн Абу Бакр, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал: «Кто сегодня накормил бедняка?» Абу Бакр сказал: «Я вошёл в мечеть и увидел человека, который просил подаяния. В руке ‘Абду-р-Рахмана был кусок хлеба, и я взял его и отдал просящему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1670</td></tr><tr><td>Arabic No</td><td>1670</td></tr><tr><td>Reference</td><td>Book 9 Hadith 115</td></tr></tbody></table></div>
 

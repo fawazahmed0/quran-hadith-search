@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMusa: The Prophet (ﷺ) said: If a woman uses perfume and passes the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] berkata, telah mengabarkan kepada kami [Tsabit bin Umarah] berkata, telah menceritakan kepadaku [Ghunaim bin Qais] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika seorang wanita memakai wewangian, lalu sengaja melewati suatu kaum agar mereka mencium baunya, maka ia adalah begini dan begini." Beliau mengatakan itu dengan intonasi yang keras
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4173</td></tr><tr><td>Arabic No</td><td>4173</td></tr><tr><td>Reference</td><td>Book 35 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если женщина умастила себя благовониями, прошла мимо собравшихся где-нибудь людей, дабы они ощутили исходящий от неё запах, то она такая-то (, то есть прелюбодейка), высказавшись жёстко»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4173</td></tr><tr><td>Arabic No</td><td>4173</td></tr><tr><td>Reference</td><td>Book 35 Hadith 15</td></tr></tbody></table></div>
 

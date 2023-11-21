@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdul 'Aziz:I went out to Mina on the day of Tarwiya and met Anas goin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya ['Ali] dia nebdebgar [Abu Bakar 'Ayyasy] telah menceritakan kepada kami ['Abdul 'Aziz]; Aku menemui [Anas radliallahu 'anhu]. Dan diriwaatkan pula, telah menceritakan kepada saya [Isma'il bin Aban] telah menceritakan kepada kami [Abu Bakar] dari ['Abdul 'Aziz] berkata: "Aku keluar menuju Mina pada hari Tarwiyah lalu aku menemui [Anas] radliallahu 'anhu yang juga sedang berangkat dengan menunggang keledai. Aku bertanya kepadanya: "Dimana Nabi Shallallahu'alaihiwasallam melaksanakan shalat Zhuhur pada hari ini?". Maka dia menjawab: "Perhatikanlah dimana para pemimpin kamu shalat lalu shalatlah (disana)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1654</td></tr><tr><td>Arabic No</td><td>1654</td></tr><tr><td>Reference</td><td>Book 25 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуль‘азиз сказал: «Однажды, в день таруия я отправился в Мину и встретил там Анаса, да будет доволен им Аллах, ехавшего на осле, и спросил его: «Где Пророк ﷺ совершал полуденную молитву /зухр/ в этот день?» Он ответил: «Смотри, где совершают молитву твои руководители, и молись там же»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1654</td></tr><tr><td>Arabic No</td><td>1654</td></tr><tr><td>Reference</td><td>Book 25 Hadith 135</td></tr></tbody></table></div>
 

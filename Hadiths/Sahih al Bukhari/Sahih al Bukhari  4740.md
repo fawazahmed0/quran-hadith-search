@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) delivered a sermon and said, "You (people)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Syu'bah] dari [Al Mughirah bin An Nu'man] -salah seorang syaikh dari Nakha.- dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] dia berkata; Rasulullah shallallahu 'alaihi wasallam berkhutbah seraya bersabda: "Wahai sekalian manusia, sesungguhnya kalian dikumpulkan menuju Allah dalam keadaan tidak beralas kaki, telanjang dan masih berkulup (belum dikhitan), 'Sebagaimana Kami telah memulai penciptaan pertama begitulah kami akan mengulanginya. Itulah suatu janji yang pasti kami tepati; Sesungguhnya Kami-lah yang akan melaksanakannya.' (Al Anbiyaa': 104) kemudian beliau bersabda: "Sesungguhnya orang pertama yang diberi pakaian pada hari kiamat adalah Ibrahim 'Alaihis Salaam. Ketahuilah, sesungguhnya beberapa orang dari ummatku akan didatangkan lalu mereka diambil ke golongan kiri. Maka aku berkata: 'Wahai Rabb, itu sahabatku.' Dikatakan: 'Sesungguhnya engkau tidak tahu apa yang mereka buat-buat sepeninggalmu.' Lalu aku mengucapkan seperti perkataan seorang hamba shalih: 'Aku menjadi saksi atas mereka selagi aku bersama mereka namun tatkala Engkau wafatkan aku, Engkaulah yang mengawasi mereka dan Engkau Maha menyaksikan terhadap segala sesuatu. Jika Engkau siksa mereka maka sesungguhnya mereka adalah hambaMu.' (Al Maa'idah: 117-118) lalu dijawab: Mereka senantiasa kembali ke belakang (murtad) sejak kau tinggalkan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4740</td></tr><tr><td>Arabic No</td><td>4740</td></tr><tr><td>Reference</td><td>Book 65 Hadith 262</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что (однажды) Пророк ﷺ обратился к людям, сказав: «Поистине, (в День суда) вы будете собраны пред Аллахом босыми, нагими и необрезанными». (Затем он прочитал аят, в котором сказано): «Так же, как Мы начали первое сотворение, Мы повторим его (снова). Таково Наше обещание! Поистине, Мы (всегда) выполняем (обещанное)!» (После чего сказал): «Первым, кого оденут (в День воскресения), будет Ибрахим, затем (некоторых из) моих сподвижников отведут налево, а я воскликну: “О Господь! Это мои сподвижники!”, но мне ответят: “Ты не знаешь, что они сделали после тебя!” — и тогда я скажу то же, что сказал праведный раб: “Я был свидетелем о них, пока находился среди них. Когда же Ты упокоил меня, то уже только Ты наблюдал за ними. Воистину, Ты — Свидетель всякой вещи”. И мне будет сказано: “Они не переставали отступать (от установлений ислама) с тех самых пор, как ты покинул их!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4740</td></tr><tr><td>Arabic No</td><td>4740</td></tr><tr><td>Reference</td><td>Book 65 Hadith 262</td></tr></tbody></table></div>
 

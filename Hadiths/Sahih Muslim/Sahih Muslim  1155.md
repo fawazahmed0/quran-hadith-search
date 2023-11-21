@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar b. Abu Salama reported:I saw the Messenger of Allah (ﷺ) praying in a sing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Isa bin Hammad] keduanya berkata, telah menceritakan kepada kami [al-Laits] dari [Yahya bin Sa'id] dari [Abu Umamah bin Sahl bin Hunaif] dari [Umar bin Abi Salamah] dia berkata, "Saya melihat Rasulullah shallallahu'alaihiwasallam shalat dengan memakai satu kain dengan cara diselimuti lagi yang antara kedua ujungnya disilangkan." Isa bin Hammad menambahkan dalam riwayatnya, "Pada atas pundaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1155</td></tr><tr><td>Arabic No</td><td>517.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 317</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Умар ибн Аби Саляма сказал: «Я видел, как Посланник Аллаха ﷺ молился в одной одежде, завернувшись в неё, и краями которой он покрывал себе плечи, накидывая их друг на друга»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1155</td></tr><tr><td>Arabic No</td><td>517.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 317</td></tr></tbody></table></div>
 

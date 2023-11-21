@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Khalid al-Hadhdha, asked al-Hasan about the Quranic verse:“And for this did He
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah menceritakan kepada kami [Khalid Al Hadzdza] dari [Al Hasan] tentang firman Allah Ta'ala: '(dan untuk itulah Allah menciptakan mereka) ' -Qs. Huud: 119-. Ia menjawab, "Allah telah menciptakan sekelompok orang untuk ini (syurga) dan sekelompok yang lain untuk ini (neraka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4615</td></tr><tr><td>Arabic No</td><td>4615</td></tr><tr><td>Reference</td><td>Book 42 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Хасан сказал о словах Всевышнего «И для этого Он сотворил их»: «Эти были сотворены для этого (Рая), а те были сотворены для этого (Ада)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4615</td></tr><tr><td>Arabic No</td><td>4615</td></tr><tr><td>Reference</td><td>Book 42 Hadith 20</td></tr></tbody></table></div>
 

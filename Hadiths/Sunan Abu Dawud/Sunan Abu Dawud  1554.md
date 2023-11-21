@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) used to say: "O Allah, I seek refuge 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musa bin Ismail], telah menceritakan kepada Kami [Hammad], telah mengabarkan kepada Kami [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam mengucapkan: "ALLAAHUMMA INNII A'UUDZU BIKA MINAL BARASHI WAL JUNUUNI WAL JUDZAAMI WA MIN SAYYI-IL ASQAAM" (Ya Allah, aku berlindung kepadaMu dari kusta, gila, lepra, dan dari penyakit yang buruk)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1554</td></tr><tr><td>Arabic No</td><td>1554</td></tr><tr><td>Reference</td><td>Book 8 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ часто говорил: «О Аллах, поистине, я прибегаю к Твоей защите от песи, безумия, проказы и (прочих) тяжких болезней!»/Аллахумма, инни а‘узу бика миналь-бараси, валь-джунуни, валь-джузами ва мин саййииль-аскъами
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1554</td></tr><tr><td>Arabic No</td><td>1554</td></tr><tr><td>Reference</td><td>Book 8 Hadith 139</td></tr></tbody></table></div>
 

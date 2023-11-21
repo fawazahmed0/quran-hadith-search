@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] ia berkata; telah menceritakan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Hisyam bin Sa'd] dari [Zaid bin Aslam] dari [Bapaknya] bahwa [Umar Ibnul Khaththab] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Musa berkata, "Wahai Rabb, perlihatkanlah kepadaku Adam, orang yang telah mengeluarkan kami dan dirinya dari surga." Lalu Allah memperlihatkan Adam kepadanya, Musa pun berkata, "Engkau Adam bapak kami!" Adam menjawab, "Benar." Musa berkata lagi, "Engkaukah orang yang telah ditiupkan ruh oleh Allah, diberikan pengetahuan tentang nama-nama segala sesuatu, dan Allah memerintahkan para malaikat untuk sujud, lalu mereka sujud kepadamu?" Adam menjawab, "Benar." Musa bertanya, "Lalu apa yang mendorongmu untuk mengeluarkan kami serta dirimu dari surga?" Adam balik bertanya, "Lalu kamu sendiri siapa?" Musa menjawab, "Aku adalah Musa." Adam bertanya, "Kamukah Nabi dari kalangan bani Isra'il yang Allah telah mengajakmu berbicara dari balik tabir tanpa ada seorang perantara?" Musa menjawab, "Benar." Adam bertanya, "Tidakkah engkau mengerti bahwa itu semua sudah ditentukan oleh Allah dalam kitab-Nya (Al Lauhul Mahfudh) sebelum aku diciptakan?" Musa menjawab, "Benar." Adam bertanya, "Lalu kenapa engkau menyalahkanku atas sesuatu yang telah ditentukan Allah sebelum aku (diciptakan)?" Ketika itu Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Adam mengalahkan Musa, Adam mengalahkan Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>4702</td></tr><tr><td>Reference</td><td>Book 42 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Умара ибн аль-Хаттаба, что Посланник Аллаха ﷺ сказал: «Поистине, Муса скажет: “Господи, покажи нам Адама, который вывел и нас, и себя из Рая”. И Аллах покажет ему Адама. Муса спросит: “Ты наш праотец Адам?” Адам ответит ему: “Да”. Муса спросит: “Ты тот, в кого Аллах вдохнул от Своего духа, и кого научил всем именам, и перед кем повелел пасть ниц ангелам?” Он ответил: “Да”. Муса спросит: “А что побудило тебя (сделать то, из-за чего ты) вывел и нас, и себя из Рая?” Адам скажет ему: “А ты кто?” Муса ответит: “Я Муса”. Адам спросит: “Ты пророк бану исраиль, с которым говорил Аллах через завесу, и не сделал между тобой и Им посланца из числа Его творений (будь то ангел или кто-то иной)?” Он ответит: “Да”. Адам спросит: “Разве ты не обнаружил всё это записанным в Книге Аллаха до моего сотворения?” Он ответит: “Да, (обнаружил)”. Он скажет: “Почему же ты упрекаешь меня за то, что Всевышний Аллах предопределил мне до моего сотворения?”» Посланник Аллаха ﷺ сказал: «Так Адам победит Мусу в споре, так Адам победит Мусу в споре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>4702</td></tr><tr><td>Reference</td><td>Book 42 Hadith 107</td></tr></tbody></table></div>
 

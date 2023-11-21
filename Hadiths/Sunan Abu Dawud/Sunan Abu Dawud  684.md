@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Hasan reported :Abu Bakrah came when the apostle of Allah (ﷺ) was bowing. S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Ziyad Al-A'lam] dari [Al-Hasan] bahwasanya [Abu Bakrah] datang, sedangkan Rasulullah shallallahu 'alaihi wasallam dalam keadaan ruku', lalu dia ruku' di luar shaf, kemudian berjalan menuju shaf. Tatkala Nabi shallallahu 'alaihi wasallam selesai shalat, beliau bersabda: "Siapakah di antara kalian yang ruku di luar shaf kemudian berjalan masuk ke shaf?" Abu Bakrah menjawab; Saya. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Semoga Allah menambahkan semangat untukmu melakukan kebaikan, dan jangan kamu mengulanginya lagi." Abu Dawud berkata; Ziyad Al-A'lam adalah Ziyad bin Fulan bin Qurrah, dan dia adalah anak bibinya Yunus bin Ubaid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>684</td></tr><tr><td>Arabic No</td><td>684</td></tr><tr><td>Reference</td><td>Book 2 Hadith 294</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Хасана (аль-Басри) о том, что однажды Абу Бакра пришёл в (мечеть в тот момент), когда Посланник Аллаха ﷺ (совершая молитву), склонился в поясном поклоне, и он тоже совершил поясной поклон, не становясь в ряд, после чего подошел к ряду. Когда Пророк ﷺ закончил свою молитву, он спросил: «Кто из вас совершил поясной поклон, не становясь в ряд, и затем прошагал к ряду?» Абу Бакра сказал: «Я». И Пророк ﷺ сказал: «Да увеличит Аллах твоё стремление (к благу), но впредь так не делай!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>684</td></tr><tr><td>Arabic No</td><td>684</td></tr><tr><td>Reference</td><td>Book 2 Hadith 294</td></tr></tbody></table></div>
 

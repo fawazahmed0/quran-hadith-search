@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Dinar:When the people took the oath of allegiance to 'Abd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [Yahya] dari [Sufyan] mengatakan, telah menceritakan kepadaku [Abdullah bin Dinar] mengatakan, ketika orang-orang berbai'at kepada Abdul Malik, [Abdullah bin Umar] berkirim surat; "kepada hamba Allah, Abdul Malik amirul mukminin, aku berikrar untuk mendengar dan taat kepada hamba Allah amirul mukmin diatas sunnatullah dan sunnah rasul-NYA semaksimal kemampuanku dan sesungguhnya anak-anakku telah mengikrarkan yang demikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7205</td></tr><tr><td>Arabic No</td><td>7205</td></tr><tr><td>Reference</td><td>Book 93 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Динар рассказывал: «Когда люди дали присягу ‘Абдуль-Малику ибн Маруану, ‘Абдуллах ибн ‘Умар написал ему: «‘Абдуль-Малику ибн Маруану — повелителю правоверных! Поистине, я признаю за собой подчинение и послушание рабу Аллаха — ‘Абдуль-Малику ибн Маруану на основании Сунны Аллаха и Сунны Его посланника в том, на что буду в состоянии, и воистину мои сыновья признают за собой тоже самое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7205</td></tr><tr><td>Arabic No</td><td>7205</td></tr><tr><td>Reference</td><td>Book 93 Hadith 65</td></tr></tbody></table></div>
 

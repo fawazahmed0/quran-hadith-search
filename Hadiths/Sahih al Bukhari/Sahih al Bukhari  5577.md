@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I heard from Allah's Messenger (ﷺ) a narration which none other 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Qatadah] dari [Anas] radliallahu 'anhu, dia berkata; saya mendengar suatu hadits dari Rasulullah shallallahu 'alaihi wasallam yang beliau tidak menyampaikan hadits tersebut kepada kalian selain kepadaku, beliau bersabda: "Di antara tanda-tanda hari Kiamat adalah kebodohan merajalela, sedikitnya ilmu, perzinahan merajalela, di minumnya minuman keras, sedikitnya jumlah laki-laki sementara jumlah wanita semakin banyak, bahkan lima puluh wanita yang ditanggung satu orang laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5577</td></tr><tr><td>Arabic No</td><td>5577</td></tr><tr><td>Reference</td><td>Book 74 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, то, что он сказал: «Я передам вам такой хадис, которого после меня не передаст уже никто. Я слышал, как Посланник Аллаха ﷺ говорил: „Предзнаменованием близости Часа этого станет то, что невежество получит (широкое) распространение, а (количество) знания уменьшится, и прелюбодеяния получат (широкое) распространение, и количество мужчин сократится, а возрастёт количество женщин (до такой степени), что на пятьдесят женщин будет приходиться (только) один мужчина, опекающий их“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5577</td></tr><tr><td>Arabic No</td><td>5577</td></tr><tr><td>Reference</td><td>Book 74 Hadith 3</td></tr></tbody></table></div>
 

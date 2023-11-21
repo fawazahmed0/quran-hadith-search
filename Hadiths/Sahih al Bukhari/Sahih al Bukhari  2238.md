@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aun bin Abu Juhaifa:I saw my father buying a slave whose profession wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepada saya ['Aun bin Abu Juhaifah] berkata; Aku melihat [Bapakku] membeli tukang bekam lalu memerintahkan untuk menghancurkan alat-alat bekamnya. Kemudian aku tanyakan masalah itu. Lalu Bapakku berkata: "Rasulullah shallallahu 'alaihi wasallam telah melarang harga (uang hasil jual beli) darah, anjing, memeras budak wanita dan melarang orang yang membuat tato dan yang minta ditato dan pemakan riba' dan yang meminjamkan riba, serta melaknat pembuat patung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2238</td></tr><tr><td>Arabic No</td><td>2238</td></tr><tr><td>Reference</td><td>Book 34 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аун ибн Абу Джухайфа, сказал: «Я был свидетелем того, как мой отец, купил раба, умевшего делать “хиджаму” (кровопускание), и велел сломать его инструменты. Я спросил его о причине этого, и он сказал: “Посланник Аллаха ﷺ запретил брать деньги за кровь и за собаку, и он запретил заработок рабыни, и проклял женщин, которые заниматься нанесением татуировок (другим), и тех кому их делают, и пожирающего лихву (риба), и дающего её, и он проклял создающих изображения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2238</td></tr><tr><td>Arabic No</td><td>2238</td></tr><tr><td>Reference</td><td>Book 34 Hadith 184</td></tr></tbody></table></div>
 

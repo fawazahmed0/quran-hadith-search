@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "Near the establishment of the Hour th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Al Hafsh] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Syaqiq] mengatakan, Abdullah dan Abu Musa duduk berbincang-bincang. [Abu Musa] menuturkan; Nabi Shallallahu'alaihiwasallam bersabda; "Menjelang kiamat terjadi, ada hari-hari yang ketika ilmu diangkat, kebodohan merajalela, banyak alharaj, alharaj adalah pembunuhan." Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wa'il] mengatakan, Aku duduk bersama 'Abdullah dan Abu Musa radliallahu 'anhuma, lantas [Abu Musa] menuturkan; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda, seperti hadits diatas, dan alharaj menurut dialek orang Habsyi (Ethiopia) maknanya adalah pembunuhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7064</td></tr><tr><td>Arabic No</td><td>7064</td></tr><tr><td>Reference</td><td>Book 92 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса (аль-Аш‘ари), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Поистине, незадолго до Часа настанут такие дни, в которые уйдёт знание, распространится невежество и будет много убийств»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7064</td></tr><tr><td>Arabic No</td><td>7064</td></tr><tr><td>Reference</td><td>Book 92 Hadith 15</td></tr></tbody></table></div>
 

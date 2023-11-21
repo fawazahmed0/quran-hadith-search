@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. Mas'ud:The Messenger of Allah (ﷺ) as saying: The summon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya] dari [At Taimi], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Sulaiman At Taimi] dari [Abu Utsman] dari [Abdullah bin Mas'ud], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah Adzan Bilal menghalangi salah seorang dari kalian dari makan sahurnya, karena ia mengumandangkan adzan -atau beliau mengatakan; menyeru- agar orang yang melakukan shalat kembali dan orang yang tidur terjaga. Fajar tidaklah seperti ini." Musaddad berkata; Yahya menggabungkan kedua telapak tangannya hingga berkata; seperti ini. Dan Yahya membentangkan kedua jari telunjuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (621) Sahih Muslim (1093)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2347</td></tr><tr><td>Arabic No</td><td>2347</td></tr><tr><td>Reference</td><td>Book 14 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн Мас‘уда, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Пусть азан Биляля не мешает вам совершать сухур, ибо он произносит азан для того, чтобы выстаивающий молитву завершил её, а спящий проснулся. Ведь когда белизна распространяется вот так, это ещё не рассвет». Передатчик Мусаддад сказал: «И Яхья сжал руку в кулак и сделал знак, вытянув два пальца, (показывая, что белизна распространяется вертикально)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (621) Sahih Muslim (1093)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2347</td></tr><tr><td>Arabic No</td><td>2347</td></tr><tr><td>Reference</td><td>Book 14 Hadith 35</td></tr></tbody></table></div>
 

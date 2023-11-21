@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Akwa':Allah's Messenger (ﷺ) said to a man from the trib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Yazid bin Abu Ubaid] telah menceritakan kepada kami [Salamah bin Al Akwa'], bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda kepada seseorang bani Aslam: 'Umumkanlah di kalangan kaummu atau di tengah-tengah masyarakat di hari 'Asyura, siapa yang terlanjur makan hendaklah menyempurnakan sisa harinya, dan siapa yang belum makan hendaklah berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7265</td></tr><tr><td>Arabic No</td><td>7265</td></tr><tr><td>Reference</td><td>Book 95 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Саляма ибн аль-Акуа‘ передаёт, что в день ‘Ашура Посланник Аллаха ﷺ сказал одному человеку из племени аслям: «Возвести среди своего племени или среди людей, что пусть поевший утром этого дня уже не ест до конца его, а соблюдающий пост с самого утра пусть доведёт его до конца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7265</td></tr><tr><td>Arabic No</td><td>7265</td></tr><tr><td>Reference</td><td>Book 95 Hadith 19</td></tr></tbody></table></div>
 

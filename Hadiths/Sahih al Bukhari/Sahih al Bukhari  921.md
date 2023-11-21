@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:One day the Prophet (ﷺ) sat on the pulpit and we 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Hilal bin Abu Maimunah] telah menceritakan kepada kami ['Atha' bin Yasar] bahwasanya dia mendengar [Abu Sa'id Al Khudri] radliallahu 'anhu berkata, "Pada suatu hari Nabi shallallahu 'alaihi wasallam duduk di atas mimbar dan kami duduk di sekitarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>921</td></tr><tr><td>Arabic No</td><td>921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Ата ибн Ясара, что он слышал Абу Са‘ида аль-Худри, который сказал: «Однажды Пророк ﷺ сел на минбар, а мы сели вокруг него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>921</td></tr><tr><td>Arabic No</td><td>921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 45</td></tr></tbody></table></div>
 

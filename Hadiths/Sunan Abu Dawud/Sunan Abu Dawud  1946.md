@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:Abu Bakr sent me among those who proclaim at Mina that no 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Yahya bin Faris] bahwa [Al Hakam bin Nafi'] menceritakan kepada mereka; telah menceritakan kepada Kami [Syu'aib] dari [Az Zuhri], telah menceritakan kepadaku [Humaid bin Abdurrahman] bahwa [Abu Hurairah] berkata; [Abu Bakr] mengutusku diantara orang-orang yang mengumumkan pada Hari Nahr di Mina; Tidak boleh ada orang musyrik setelah tahun ini yang melakukan thawaf dengan telanjang, dan hari Haji Akbar adalah Hari Nahr, dan Haji Akbar adalah haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3177) Sahih Muslim (1347)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>1946</td></tr><tr><td>Reference</td><td>Book 11 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт: «Абу Бакр велел мне объявить в день жертвоприношения в Мине: “Не должен совершать хадж после этого года многобожник, и не должен обходить вокруг Каабы нагой! И день великого хаджа день жертвоприношения, и великий хадж хадж”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3177) Sahih Muslim (1347)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>1946</td></tr><tr><td>Reference</td><td>Book 11 Hadith 226</td></tr></tbody></table></div>
 

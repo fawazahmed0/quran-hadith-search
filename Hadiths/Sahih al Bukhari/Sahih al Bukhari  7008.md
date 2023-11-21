@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "While I was sleeping
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepadaku [Ayahku] dari [Shalih] dari [Ibnu Syihab] mengatakan, telah menceritakan kepadaku [Abu Umamah bin Sahal] bahwasanya ia mendengar [Abu Sa'id Al Khudzri] mengatakan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku tidur, aku melihat manusia diperlihatkan kepadaku sedang mereka memakai baju gamis, ada yang sampai ke dadanya, ada yang sampai lebih bawah daripada itu, dan Umar bin Khattab melewati dengan gamis yang ia seret." Para sahabat bertanya; 'Bagaimana anda menakwilkan? ' Rasulullah menjawab: "Itulah agama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7008</td></tr><tr><td>Arabic No</td><td>7008</td></tr><tr><td>Reference</td><td>Book 91 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Однажды во сне я увидел людей, которые были мне показаны, и они были одеты в рубахи. Некоторые из них доходили (им только) до сосков, иные же были ещё короче. И (рядом) со мной прошёл ‘Умар ибн аль-Хаттаб, на котором рубаха была (такой длинной, что) он волочил её (по земле)». (Люди) спросили: «Как же ты истолковал это, о Посланник Аллаха?» — и он сказал: «(Это) — религия»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7008</td></tr><tr><td>Arabic No</td><td>7008</td></tr><tr><td>Reference</td><td>Book 91 Hadith 26</td></tr></tbody></table></div>
 

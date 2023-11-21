@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sahl (b. Sa’d) reported the prophet (May peace be upon him) as saying; I and t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabbah bin Sufyan] berkata, telah mengabarkan kepada kami [Abdul Aziz] -maksudnya Abdul Aziz bin Abu Hazim- ia berkata; telah menceritakan kepadaku [Bapakku] dari [Sahl] bahwa nabi shallallahu 'alaihi wasallam bersabda: "Aku dan pemelihara anak yatim di dalam surga seperti ini -lalu beliau merapatkan antara dua jarinya; jari tengah dan jari telunjuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6005)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5150</td></tr><tr><td>Arabic No</td><td>5150</td></tr><tr><td>Reference</td><td>Book 43 Hadith 378</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля (бин Са‘да ас-Са‘иди), да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «В раю мы с опекающим сироту будем (столь же близки друг к другу)», и(, сказав это,) он сделал знак указательным и средним пальцами, немного отведя их друг от друга
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6005)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5150</td></tr><tr><td>Arabic No</td><td>5150</td></tr><tr><td>Reference</td><td>Book 43 Hadith 378</td></tr></tbody></table></div>
 

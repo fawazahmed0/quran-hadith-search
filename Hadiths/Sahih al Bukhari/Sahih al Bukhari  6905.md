@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father from Al-Mughira bin Shu'ba: 'Umar consulted the compani
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Hisyam] dari [ayahnya] dari [Mughirah bin Syu'bah] dari Umar radliallahu 'anhu, ia pernah meminta pendapat mereka mengenai menggugurkan janin wanita. Kontan Mughirah mengatakan; 'Nabi shallallahu 'alaihi wasallam memutuskan dengan ghurrah, budak atau hamba sahaya.' [Muhammad bin Maslamah] memberi kesaksian bahwasanya ia pernah menyaksikan Nabi shallallahu 'alaihi wasallam memutuskan sedemikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6905</td></tr><tr><td>Arabic No</td><td>6905</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугыйра ибн Шу‘ба рассказал, что однажды ‘Умар, да будет доволен им Аллах, посоветовался (с людьми) относительно того случая, когда кто-то ударил по животу женщины, и это стало причиной выкидыша, и аль-Мугыйра сказал: “Пророк ﷺ вынес решение, что (в этом случае,) необходимо выплатить компенсацию (за плод) — раба или рабыню”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6905</td></tr><tr><td>Arabic No</td><td>6905</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

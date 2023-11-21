@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : J'étais en compagnie de Jarîr Ibn 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin 'Ali Al Jahdhami] dan [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] seluruhnya dari [Ibnu 'Ar'arah] dan lafazh ini milik Jahdhami; Telah menceritakan kepadaku [Muhammad bin 'Ar'arah]; Telah menceritakan kepada kami [Syu'bah] dari [Yunus bin 'Ubaid] dari [Tsabit Al Bunani] dari [Anas bin Malik] dia berkata; 'Saya pernah bepergian bersama Jarir bin Abdullah Al Bajali dan dia melayani segala keperluan saya. Lalu saya berkata kepadanya; "Hai Jarir, janganlah kamu sibuk melayani saya!" Jarir menjawab; "Saya pernah melihat orang-orang Anshar membantu Rasulullah shallallahu 'alaihi wasallam, hingga saya bersumpah bahwasanya jika saya berteman dengan seorang sahabat Anshar, maka saya pasti akan melayaninya." Ibnu Mutsanna dan Ibnu Basyar menambahkan di dalam Hadits keduanya, 'Jarir lebih tua dari Anas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6428</td></tr><tr><td>Arabic No</td><td>2513</td></tr><tr><td>Reference</td><td>Book 44 Hadith 257</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6428</td></tr><tr><td>Arabic No</td><td>2513</td></tr><tr><td>Reference</td><td>Book 44 Hadith 257</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. ‘Abd Allah reported the Messenger of Allah (ﷺ) as saying:if anyone 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] telah menceritakan kepada kami [Ali bin Ayyasy] telah menceritakan kepada kami [Syu'aib bin Abi Hamzah] dari [Muhammad bin Al-Munkadir] dari [Jabir bin Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengucapkan doa ketika mendengar panggilan adzan: 'Allaahumma Rabba haadzihid da'watit taammah wash shalaatil Qaaimah, aati Muhammadanil wasiilata wal fadhiilah, wab'atshu maqaaman mahmuudanilladzii waadtah (Ya Allah, Rabb panggilan adzan yang sempurna ini dan shalat yang didirikan. Anugerahkanlah kepada Muhammad kedudukan yang tinggi dan keutamaan, dan anugerahkan kepadanya kedudukan yang terpuji yang telah engkau janjikan kepadanya), melainkan dia akan mendapatkan syafaat pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (614)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>529</td></tr><tr><td>Arabic No</td><td>529</td></tr><tr><td>Reference</td><td>Book 2 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: Посланник Аллаха ﷺ сказал: «(Моё) заступничество в День воскрешения обязательно получит тот, кто скажет услышав призыв (к молитве): O Аллах, Господь этого совершенного призыва и этой совершающейся молитвы, приведи Мухаммада к “аль-Василе” и к высокому положению и направь его к месту достохвальному, которое Ты обещал ему/Аллахумма, Рабба хазихи-д-да‘вати-т-таммати ва-с-саляти-ль-къаимати, ати Мухаммадан аль-Василята ва-ль-фадылята ва-б‘асху макъаман махмудан аллези ва‘адтаху!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (614)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>529</td></tr><tr><td>Arabic No</td><td>529</td></tr><tr><td>Reference</td><td>Book 2 Hadith 139</td></tr></tbody></table></div>
 

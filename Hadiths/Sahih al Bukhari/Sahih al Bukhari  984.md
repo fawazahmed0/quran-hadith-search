@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) offered the prayer on the day of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamid bin 'Umar] dari [Hammad bin Zaid] dari [Ayyub] dari [Muhammad] bahwa [Anas bin Malik] berkata, "Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat hari Raya kurban kemudian menyampaikan khutbah, beliau katakan: "Barangsiapa menyembelih hewan sebelum shalat, maka dia harus menyembelih ulang." Lalu berdirilah seorang laki-laki Anshar seraya berkata, "Wahai Rasulullah, para tetanggaku!" Orang itu entah berkata, "Mereka sangat membutuhkan." atau "Mereka orang-orang miskin. Dan aku telah menyembelih kurban sebelum shalat. Namun aku masih punya anak kambing yang lebih aku cintai dari pada kambing yang telah aku sembelih?" Maka beliau pun memberikan keringanan untuk orang itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 13 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, что Посланника Аллаха ﷺ совершил молитву в День жертвоприношения, затем обратился с проповедью, в которой приказал тому, кто принес жертву до праздничной молитвы, повторить жертвоприношение. Тут один мужчина из числа ансар встал и сказал: «О, Посланник Аллаха, мои соседи испытывают нужду, поэтому я совершил жертвоприношение до молитвы, но у меня есть годовалая коза, которая более любима для меня, чем мясо двух баранов». И Пророк ﷺ разрешил ему (зарезать ее)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 13 Hadith 33</td></tr></tbody></table></div>
 

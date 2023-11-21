@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The angels keep on asking Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Para Malaikat selalu memberi shalawat (mendo'akan) kepada salah seorang dari kalian selama ia masih di tempat ia shalat dan belum berhadats. Malaikat berkata, 'Ya Allah ampunilah dia. Ya Allah rahmatilah dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>445</td></tr><tr><td>Arabic No</td><td>445</td></tr><tr><td>Reference</td><td>Book 8 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «Ангелы будут молиться за того из вас, который остаётся на том месте, где он совершил молитву, пока он не осквернится. Они говорят: “О Аллах, прости его (грехи), о Аллах, помилуй его!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>445</td></tr><tr><td>Arabic No</td><td>445</td></tr><tr><td>Reference</td><td>Book 8 Hadith 94</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qatadah, a Companion of the Messenger of Allah(ﷺ), said:While we were wait
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Khalaf] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Muhammad yakni Ibnu Ishaq] dari [Sa'id bin Abu Sa'id Al Maqburi] dari ['Amru bin Sulaim Az Zuraqi] dari [Abu Qatadah] salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam, katanya; "Katika kami menunggu Rasulullah shallallahu 'alaihi wasallam untuk mengerjakan shalat dluhur atau shalat Ashar (berjama'ah), dan Bilal pun telah mengumandangkan iqamah untuk shalat, tiba-tiba beliau muncul menggendong Umamah anak putrinya (Zainab) di tengkuk beliau, kemudian Rasulullah shallallahu 'alaihi wasallam shalat sedangkan kami berada di belakang beliau, sementara Umamah masih dalam posisinya semula." Abu Qatadah berkata; "Kamudian beliau bertakbir, kami pun bertakbir, sehingga ketika beliau hendak ruku', beliau mengambil dari tengkuknya dan meletakkannya, lalu beliau ruku' dan sujud, seusainya sujud dan hendak berdiri, beliau mengambilnya lagi dan meletakkan kembali di posisi semula, Rasulullah shallallahu 'alaihi wasallam melakukan yang demikian itu di setiap raka'atnya hingga selesai dari shalatnya shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>920</td></tr><tr><td>Arabic No</td><td>920</td></tr><tr><td>Reference</td><td>Book 2 Hadith 531</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Катада, да будет доволен им Аллах, сподвижник Посланника Аллаха ﷺ передаёт: «Однажды мы ждали, когда Посланник Аллаха ﷺ выйдет для совершения полуденной или послеполуденной молитвы после того, как Биляль призвал на молитву. Затем Посланник Аллаха ﷺ вышел к нам, а Умама бинт Абу аль-‘Ас, дочь его дочери, была у него на руках. Посланник Аллаха ﷺ встал на то место, где совершал молитву, и мы встали позади него, а девочка по-прежнему была у него на руках. Он произнёс такбир, и мы также произнесли такбир, а когда Посланник Аллаха ﷺ собрался совершить поясной поклон, он снял с себя девочку и совершил поясной и земные поклоны, потом он встал и снова взял её на руки, и так он поступал в каждом рак‘ате до конца молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>920</td></tr><tr><td>Arabic No</td><td>920</td></tr><tr><td>Reference</td><td>Book 2 Hadith 531</td></tr></tbody></table></div>
 

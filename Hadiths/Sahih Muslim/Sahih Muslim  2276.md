@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:There is no Sadaqa on a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] dan [Harun bin Sa'id Al Aili] dan [Ahmad bin Isa] mereka berkata, telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Makhramah] dari [bapaknya] dari [Irak bin Malik] ia berkata, saya mendengar [Abu Hurairah] menceritakan dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Tidak wajib menzakati hamba sahaya kecuali zakat fitrahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2276</td></tr><tr><td>Arabic No</td><td>982.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «С рабов закят не выплачивается, кроме закята аль-фитр»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2276</td></tr><tr><td>Arabic No</td><td>982.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 14</td></tr></tbody></table></div>
 

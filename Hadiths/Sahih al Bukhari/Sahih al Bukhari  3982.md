@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Haritha was martyred on the day (of the battle) of Badr, and he wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Mu'awiyah bin 'Amru] telah menceritakan kepada kami [Abu Ishaq] dari [Humaid] berkata, aku mendengar [Anas] radliallahu 'anhu berkata; "Pada perang Badar, Haritsah mendapat luka padahal dia masih kecil. Kemudian ibunya datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; "Wahai Rasulullah, anda mengetahui kedudukan Haritsah di sisiku. Seandainya dia berada di surga aku akan sabar dan berharap memperoleh pahala. Namun kalau keadaannya lain, anda akan lihat apa yang aku lakukan". Maka beliau berkata: "Janganlah begitu. Atau apakah kamu merasa berat ditinggal oleh anakmu atau kamu kira surga itu hanya satu? Sesungguhnya surga itu banyak dan anakmu sekarang berada di dalam surga Firdaus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3982</td></tr><tr><td>Arabic No</td><td>3982</td></tr><tr><td>Reference</td><td>Book 64 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «В день битвы при Бадре Харис был убит, будучи ещё мальчиком. Его мать пришла к Пророку ﷺ и сказала: “О Посланник Аллаха, ты знаешь какое положения Харис занимал (в моём сердце), и если он находится в Раю, то я буду терпеть и безропотно переживать утрату, если же нет, то увидишь, что я сделаю”. Он сказал: “Горе тебе! Ты сошла с ума? Разве Рай один? Есть много райских садов, а он в Раю аль-Фирдаус”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3982</td></tr><tr><td>Arabic No</td><td>3982</td></tr><tr><td>Reference</td><td>Book 64 Hadith 33</td></tr></tbody></table></div>
 

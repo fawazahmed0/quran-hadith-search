@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:A man was buried along with my father and I did not like it till 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sa'id bin 'Amir] dari [Syu'bah] dari [Ibnu Abu Najih] dari ['Atha'] dari [Jabir radliallahu 'anhu] berkata; "Seorang laki-laki dikuburkan bersama dengan bapakku namun kemudian perasaanku tidak enak hingga akhirnya aku keluarkan dan aku kuburkan dalam satu liang kubur kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1352</td></tr><tr><td>Arabic No</td><td>1352</td></tr><tr><td>Reference</td><td>Book 23 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Вместе с моим отцом в одной могиле был похоронен другой человек. И я не был доволен до тех пор, пока не выкопал его и похоронил отдельно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1352</td></tr><tr><td>Arabic No</td><td>1352</td></tr><tr><td>Reference</td><td>Book 23 Hadith 106</td></tr></tbody></table></div>
 

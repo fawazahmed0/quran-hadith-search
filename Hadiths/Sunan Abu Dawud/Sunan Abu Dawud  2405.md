@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas :We travelled along with the Prophet (ﷺ) during Ramadan. Some of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Zaidah] dari [Humaid Ath Thawil], dari [Anas], ia berkata; kami pernah bersafar bersama Rasulullah shallallahu 'alaihi wasallam pada Bulan Ramadhan, lalu sebagian kami ada yang berpuasa dan sebagian dari kami ada yang berbuka, dan orang yang berpuasa tidak mencela orang yang berbuka dan orang yang berbuka tidak mencela orang yang berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1947) Sahih Muslim (1118)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2405</td></tr><tr><td>Arabic No</td><td>2405</td></tr><tr><td>Reference</td><td>Book 14 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса, да будет доволен им Аллах: «Однажды мы отправились вместе с посланником Аллаха ﷺ в путь в рамадане, и некоторые из нас постились, а некоторые нет, и постящийся не упрекал того, кто не постился, а тот, кто не постился, не упрекал постящегося»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1947) Sahih Muslim (1118)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2405</td></tr><tr><td>Arabic No</td><td>2405</td></tr><tr><td>Reference</td><td>Book 14 Hadith 93</td></tr></tbody></table></div>
 

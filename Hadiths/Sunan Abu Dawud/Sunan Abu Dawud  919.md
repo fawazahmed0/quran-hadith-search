@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qatadah al-Ansari said:I saw the Messenger of Allah(ﷺ) leading the people 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salamah Al Muradi] telah menceritakan kepada kami [Ibnu Wahb] dari [Makhramah] dari [ayahnya] dari ['Amru bin Sulaim Az Zuraqi] dia berkata; saya mendengar [Abu Qatadah Al Anshari] berkata; saya melihat Rasulullah shallallahu 'alaihi wasallam shalat bersama orang-orang, sedangkan Umamah binti Abu Al 'Ash berada di tengkuk beliau, apabila sujud, beliau meletakkannya." Abu Daud berkata; "Al Makhramah tidak pernah mendengar hadits dari Ayahnya kecuali hanya satu hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>919</td></tr><tr><td>Reference</td><td>Book 2 Hadith 530</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Катады аль-Ансари, да будет доволен им Аллах, что он видел, как Посланник Аллаха ﷺ совершал молитву с людьми, держа на руках Умаму бинт Абу аль-‘Ас, а на время совершения земного поклона он отпускал её
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>919</td></tr><tr><td>Reference</td><td>Book 2 Hadith 530</td></tr></tbody></table></div>
 

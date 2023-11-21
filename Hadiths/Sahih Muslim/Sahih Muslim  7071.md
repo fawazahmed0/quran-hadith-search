@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Ma'mar reported on the authority of Abdullah that the moon was split up duri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] dan [Zuhair bin Harb] keduanya berkata: Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ibnu Abi Najih] dari [Mujahid] dari [Abu Ma'mar] dari [Abdullah] berkata: Bulan terbelah dua bagian dimasa Rasulullah Shallallahu 'alaihi wa Salam, Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Saksikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7071</td></tr><tr><td>Arabic No</td><td>2800.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Мас‘уд, да будет доволен им Аллах, сказал: «При жизни Посланника Аллаха ﷺ луна раскололась на две части, и Пророк ﷺ сказал: “Засвидетельствуйте (это)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7071</td></tr><tr><td>Arabic No</td><td>2800.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 27</td></tr></tbody></table></div>
 

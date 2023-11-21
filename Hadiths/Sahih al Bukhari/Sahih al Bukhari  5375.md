@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Once while I was in a state of fatigue (because of severe 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan (masih dari jalur periwayatan yang sama dengan hadits sebelumnya) dari [Abu Hazim] dari [Abu Hurairah] ia berkata; Aku pernah tertimpa kesulitan yang sangat, lalu kujumpai Umar bin Al Khaththab dan aku pun memintanya untuk membacakan ayat dari Kitabullah. Maka ia pun masuk ke dalam rumahnya dan membukakan pintu untukku. Kemudian aku berjalan tak jauh dari situ, lalu aku menundukkan wajahku lantaran rasa penat dan lapar. Ternyata Rasulullah shallallahu 'alaihi wasallam berdiri tetap di depan kepalaku. Beliau bersabda: "Wahai Abu Hurairah." Aku menjawab, "Labbaik ya Rasulullah wa Sa'daik." Kemudian beliau menggandeng kedua tanganku dan menegakkanku, dan beliau pun tahu apa yang menimpa diriku. Kemudian beliau membawaku menuju kendaraannya, lalu beliau menyuruhku untuk meminum seteguk susu. Maka aku pun meminumnya. Setelah itu beliau bersabda: "Ulangilah wahai Abu Hirr." Aku pun meminumnya kembali. Kemudian beliau bersabda: "Ulangilah." Akhirnya aku minum hingga perutku kenyang seperti gelas. Setelah itu, aku menemui Umar dan menuturkan apa terjadi denganku. Aku berkata padanya, "Maka Allah memberikan urusan itu kepada orang yang lebih berhak dari pada Anda wahai Umar. Demi Allah, aku telah meminta Anda untuk membacakan ayat sementara aku adalah lebih bagus bacaannya daripada Anda." Umar berkata, "Demi Allah, aku memasukkanmu kedalam rumahku adalah lebih aku sukai daripada aku memiliki Unta merah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5375</td></tr><tr><td>Arabic No</td><td>5375</td></tr><tr><td>Reference</td><td>Book 70 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды,) изнемогая (от сильного голода), я встретил ‘Умара ибн аль-Хаттаба и попросил его объяснить мне, как следует читать один из аятов Книги Аллаха. Он вошёл к себе домой и прочитал мне (этот аят), после чего я (вышел) и, отойдя (недалеко от его дома), упал лицом (на землю) от слабости и голода. И вдруг я увидел, что у моей головы стоит Посланник Аллаха ﷺ который обратился (ко мне): “О Абу Хирр!” Я отозвался: “Вот я перед тобой, о Посланник Аллаха, и готов служить тебе!” Тогда он взял меня за руку и поднял на ноги, поняв (по моему виду), что со мной происходит, а потом он привёл меня к себе домой и велел принести мне большую чашу молока, из которой я отпил (часть). После этого (Пророк ﷺ) сказал: “Пей ещё, о Абу Хирр!” — и я выпил ещё. Потом он сказал: “Ещё!” — и я выпил ещё, и я пил, пока живот мой не наполнился и сам не стал напоминать собой чашу. А потом я встретил ‘Умара, рассказал ему о том, что со мной было, и сказал ему: “Аллах поручил это дело тому, кто был более достоин этого, чем ты, о ‘Умар! Клянусь Аллахом, хоть я и попросил тебя объяснить мне тот аят, но знал я его лучше тебя!” (Выслушав меня,) ‘Умар воскликнул: “Клянусь Аллахом, если бы я пригласил тебя к себе (и накормил, сейчас) это было бы для меня дороже обладания красными верблюдами!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5375</td></tr><tr><td>Arabic No</td><td>5375</td></tr><tr><td>Reference</td><td>Book 70 Hadith 3</td></tr></tbody></table></div>
 

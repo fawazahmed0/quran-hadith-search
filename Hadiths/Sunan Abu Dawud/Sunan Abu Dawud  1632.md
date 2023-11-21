@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Messenger of Allah (ﷺ) said something similar as men
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah] dan [Zuhair bin Harb], mereka berkata; telah menceritakan kepada Kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang miskin bukanlah orang yang kembali karena diberi satu atau dua butir kurma, serta satu atau dua kali makan, akan tetapi orang miskin adalah orang yang tidak meminta sesuatu kepada orang-orang dan mereka tidak memahaminya, sehingga mereka dapat memberi kepadanya." Telah menceritakan kepada Kami [Musaddad] serta ['Ubaidullah bin Umar] dan [Abu Kamil] secara makna, mereka mengatakan; telah menceritakan kepada Kami [Abdul Wahid bin Ziyad], telah menceritakan kepada Kami [Ma'mar] dari [Az Zuhri] dari [Abu Salahamah] dari [Abu Hurairah], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda seperti itu: "Akan tetapi orang yang miskin adalah orang yang menjaga kehormatan dirinya…" Musaddad dalam haditsnya menambahkan; ia tidak memiliki sesuatu yang mencukupinya, orang yang tidak meminta-minta dan tidak diketahui kebutuhannya, sehingga dapat diberi sedekah. Maka itulah orang yang terhalang mendapatkan pemberian. Musaddad tidak menyebutkan; orang yang menjaga kehormatan dirinya yang tidak meminta-minta. Abu Daud berkata; [Muhammad bin Tsaur] serta [Abdurrazzaq] telah meriwayatkan dari [Ma'mar], dan mereka menjadikan kata; orang yang terhalang mendapatkan pemberian merupakan perkataan Az Zuhri, dan hal itu yang paling benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1632</td></tr><tr><td>Arabic No</td><td>1632</td></tr><tr><td>Reference</td><td>Book 9 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал…» И он пересказал всё то же самое, только со словами: «По-настоящему беден воздерживающийся от просьб [в версии Мусаддада имеется добавление: «…который не может найти необходимое»] и при этом сам не обращается с просьбами к людям и о положении его люди не догадываются и потому не подают ему. Это и есть неимущий»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1632</td></tr><tr><td>Arabic No</td><td>1632</td></tr><tr><td>Reference</td><td>Book 9 Hadith 77</td></tr></tbody></table></div>
 

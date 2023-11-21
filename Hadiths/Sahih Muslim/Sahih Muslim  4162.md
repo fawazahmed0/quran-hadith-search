@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Shu'ba with the same chain of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari ['Adi] bahwa dia mendengar [Abu Hazim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Barangsiapa mati dengan meninggalkan harta, maka (harta tersebut) untuk ahli warisnya, dan barangsiapa mati dengan meninggalkan keluarga yang butuh santunan, maka akulah yang menjadi penanggungnya." Dan telah menceritakan kepadaku [Abu Bakar bin Nafi'] telah menceritakan kepada kami [Ghundar]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdurrahman] -yaitu Ibnu Mahdi- dia berkata, telah menceritakan kepada kami [Syu'bah] dengan sanad ini, hanya saja dalam hadits Ghundar disebutkan, "Barangsiapa mati meninggalkan keluarga yang butuh santunan, maka akulah walinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4162</td></tr><tr><td>Arabic No</td><td>1619.06</td></tr><tr><td>Reference</td><td>Book 23 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4162</td></tr><tr><td>Arabic No</td><td>1619.06</td></tr><tr><td>Reference</td><td>Book 23 Hadith 23</td></tr></tbody></table></div>
 

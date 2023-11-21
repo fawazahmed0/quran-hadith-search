@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar bin Al-Khattab:Allah's Messenger (ﷺ) said, "Your 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abi Uwais] berkata, telah menceritakan kepadaku [Malik] dari ['Abdullah bin Dinar, maula 'Abdullah bin 'Umar] dari ['Abdullah bin 'Umar bin Al Khaththab radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya perumpamaan kalian dibandingkan orang-orang Yahudi dan Nashrani seperti seseorang yang memperkerjakan para pekerja yang dia berkata; "Siapa yang mau bekerja untukku hingga pertengahan siang dengan upah satu qirath, maka orang-orang Yahudi melaksanakannya dengan upah satu qirath per satu qirath. Lalu orang-orang Nashrani mengerjakannya dengan upah satu qirath per satu qirath. Kemudian kalian mengerjakan mulai dari shalat 'Ashar hingga terbenamnya matahari dengan upah dua qirath per dua qirath. Maka orang-orang Yahudi dan Nashrani marah seraya berkata: "Kami yang lebih banyak amal namun lebih sedikit upah!" Lalu orang itu berkata; "Apakah ada yang aku zhalimi dari hak kalian?" Mereka menjawab; "Tidak ada". Orang itu berkata; "Itulah karunia dari-Ku yang Aku memberikannya kepada siapa yang aku kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2269</td></tr><tr><td>Arabic No</td><td>2269</td></tr><tr><td>Reference</td><td>Book 37 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Умара ибн аль-Хаттаба, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Вас, иудеев и христиан можно сравнить с работниками, которых нанял человек, и сказал: “Кто поработает на меня с утра до полудня за один кырат (награды)?” Тогда иудеи поработали за кырат, затем христиане поработали за кырат, затем вы стали работать с молитвы ‘аср до захода солнца за два кырата. И тогда разозлились иудеи и христиане и сказали: “Мы работали больше, но получили плату меньше?” И [Аллах] сказал: “А разве Я обделил вас как-то в вашем праве?” Они сказали: “Нет”. Он сказал: “Это — милость Моя, даю её тому, кому пожелаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2269</td></tr><tr><td>Arabic No</td><td>2269</td></tr><tr><td>Reference</td><td>Book 37 Hadith 9</td></tr></tbody></table></div>
 

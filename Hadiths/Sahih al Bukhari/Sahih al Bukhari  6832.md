@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid Al-Juhani:I heard the Prophet (ﷺ) ordering that an un
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kami ['Abdul 'Aziz] telah mengabarkan kepada kami [Ibnu Syihab] dari ['Ubaidullah bin "Abdillah bin 'Utbah] dari [Zaid bin Khalid Al Juhani] mengatakan; 'Aku mendengar Nabi shallallahu 'alaihi wasallam menyuruh menghukum orang yang berzina dan dia belum menikah dengan dera seratus kali dan diasingkan selama setahun.' Kata [Ibnu Syihab], dan telah mengabarkan kepadaku ' ['Urwah bin Zubair] bahwa [Umar bin Khattab] pernah mengasingkan (pelaku zina), dan yang demikian menjadi sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6832</td></tr><tr><td>Arabic No</td><td>6832</td></tr><tr><td>Reference</td><td>Book 86 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Урвы ибн аз-Зубейра, что ‘Умар ибн аль-Хаттаб отправил в изгнание, затем подобная практика продолжилась
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6832</td></tr><tr><td>Arabic No</td><td>6832</td></tr><tr><td>Reference</td><td>Book 86 Hadith 57</td></tr></tbody></table></div>
 

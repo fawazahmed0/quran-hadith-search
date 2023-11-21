@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:that he passed by a group of boys and greeted them and s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Al Ja'd] telah mengabarkan kepada kami [Syu'bah] dari [Sayyar] dari [Tsabit Al Bunani] dari [Anas bin Malik] radliallahu 'anhu bahwa dia pernah melewati anak-anak kecil, lalu ia memberi salam kepada mereka dan berkata; "Nabi shallallahu 'alaihi wasallam juga biasa melakukan hal ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6247</td></tr><tr><td>Arabic No</td><td>6247</td></tr><tr><td>Reference</td><td>Book 79 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что (однажды) Анас бин Малик, да будет доволен им Аллах, проходивший мимо (собравшихся на улице) детей, поприветствовал их, а потом сказал: «Так всегда поступал и Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6247</td></tr><tr><td>Arabic No</td><td>6247</td></tr><tr><td>Reference</td><td>Book 79 Hadith 21</td></tr></tbody></table></div>
 

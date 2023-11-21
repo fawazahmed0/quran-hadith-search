@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (may peace he upon him) said:Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Laits] (Dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Ibnu Al Musayyab] dan [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika panas menyengat, maka tangguhkanlah shalat hingga (cuaca) agak dingin, sebab sengatan panas berasal dari uap neraka jahannam." Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus], bahwa [Ibn Syihab] telah mengabarinya, katanya; telah mengabarkan kepadaku [Abu Salamah] dan [Said bin Al Musayyab] keduanya mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda, seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1395</td></tr><tr><td>Arabic No</td><td>615.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Если жара будет (слишком) сильной, отложите молитву, пока не станет прохладнее, ибо, поистине, жара усиливается из-за распространения жара от дуновения Ада»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1395</td></tr><tr><td>Arabic No</td><td>615.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 229</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said (to his companions), "Do not fast Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] mengatakan, "Nabi shallallahu 'alaihi wasallam bersabda: "Jangan kalian berpuasa wishal!" Para sahabat menyatakan protesnya "Namun anda sendiri berpuasa wishal!" Nabi menjawab: "Aku tidak seperti kalian, Tuhanku selalu memberiku makan dan minum." Namun para sahabat tidak juga menghentikan wishalnya." Abu Hurairah melanjutkan, "Maka Rasulullah shallallahu 'alaihi wasallam terus melakukan wishal bersama mereka dua hari atau dua malam, kemudian para sahabat melihat hilal (bulan sabit). Lantas Nabi shallallahu 'alaihi wasallam bersabda: "Kalaulah bulan sabit ini terlambat, niscaya aku tambah puasa wishalnya, " seolah-olah beliau ingin menghukum mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7299</td></tr><tr><td>Arabic No</td><td>7299</td></tr><tr><td>Reference</td><td>Book 96 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Не поститесь непрерывно”. Сподвижники сказали: “Но ты ведь постишься так” Пророк ﷺ сказал: “Поистине, я не подобен вам. И воистину, по ночам Господь мой кормит и поит меня”. Когда же они отказались прекратить поститься непрерывно, Пророк ﷺ тоже стал поститься непрерывно вместе с ними, не разговляясь сначала один день, потом ещё один, после чего они увидели молодой месяц. И тогда Пророк ﷺ сказал: “Если бы он появился позже, я бы добавил вам”, (имея в виду, что это) послужило бы им примерным наказанием за то, что они отказались прекратить поститься»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7299</td></tr><tr><td>Arabic No</td><td>7299</td></tr><tr><td>Reference</td><td>Book 96 Hadith 30</td></tr></tbody></table></div>
 

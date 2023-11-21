@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Marwan bin Al-Hakam:I saw 'Uthman and 'Ali. 'Uthman used to forbid peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari ['Ali bin Husain] dari [Marwan bin Al Hakam] berkata: "Aku menyaksikan ['Utsman] dan ['Ali radliallahu 'anhuma] melarang mengerjakan hajji dengan cara tamattu' dan agar pelaksanaan keduanya digabungkan. Ketika aku melihat 'Ali berihram untuk keduanya (dengan niat atau talbiyyah); "labbaika bi'umrah wa hajjah (Ya Allah aku penuhi panggilanMu dan aku berniat untuk 'umrah dan hajji), dia berkata: "Aku tidak akan meninggalkan sunnah Nabi shallallahu 'alaihi wasallam hanya karena perkataan seseorang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1563</td></tr><tr><td>Arabic No</td><td>1563</td></tr><tr><td>Reference</td><td>Book 25 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Марван бин аль-Хакам сказал: «Я видел ‘Усмана и ‘Али, да будет доволен Аллах ими обоими, (и был свидетелем того, что) ‘Усман запретил (людям) совершать “хаджж ат-таматту‘” и объединять хадж с умрой. Увидев это, ‘Али сказал: “Вот я перед Тобой(, совершая) умру и хадж”, (а потом) он сказал: “Я не отступлюсь от сунны Пророка ﷺ кто бы что ни говорил!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1563</td></tr><tr><td>Arabic No</td><td>1563</td></tr><tr><td>Reference</td><td>Book 25 Hadith 49</td></tr></tbody></table></div>
 

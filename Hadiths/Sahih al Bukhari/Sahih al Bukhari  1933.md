@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If somebody eats or drinks forgetf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Ibnu Sirin] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Jika seseorang lupa lalu dia makan dan minum (ketika sedang berpuasa) maka hendaklah dia meneruskan puasanya karena hal itu berarti Allah telah memberinya makan dan minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1933</td></tr><tr><td>Arabic No</td><td>1933</td></tr><tr><td>Reference</td><td>Book 30 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если (кто-нибудь) по забывчивости поест или попьёт (во время поста), пусть продолжает поститься и дальше, ибо, поистине, это Аллах накормил и напоил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1933</td></tr><tr><td>Arabic No</td><td>1933</td></tr><tr><td>Reference</td><td>Book 30 Hadith 40</td></tr></tbody></table></div>
 

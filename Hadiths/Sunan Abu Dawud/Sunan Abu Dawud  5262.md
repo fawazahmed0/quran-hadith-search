@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Amir bin Sa'd] dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk membunuh cicak, dan beliau menamainya dengan fasik kecil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2238)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5262</td></tr><tr><td>Arabic No</td><td>5262</td></tr><tr><td>Reference</td><td>Book 43 Hadith 490</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амир ибн Са‘д (ибн Абу Ваккъас) рассказывал со слов своего отца: «Пророк ﷺ велел убивать ящериц и называл такую ящерицу фувайсикъ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2238)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5262</td></tr><tr><td>Arabic No</td><td>5262</td></tr><tr><td>Reference</td><td>Book 43 Hadith 490</td></tr></tbody></table></div>
 

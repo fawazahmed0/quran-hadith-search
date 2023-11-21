@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:'Abdullah bin Masud said, "Allah's Messenger (ﷺ) said, 'Whoe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kami [Abu 'Awanah] dari [Al A'masy] dari [Abu Wa'il] dari [Abdullah bin Mas'ud radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah palsu atas sesuatu, yang dengannya ingin merampas harta seorang muslim, maka ia akan berjumpa dengan Allah sementara Ia murka kepadanya." Sebagai pembenaran hal itu Allah telah menurunkan ayat: "Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit, mereka itu tidak mendapat bahagian (pahala) di akhirat, dan Allah tidak akan berkata-kata dengan mereka dan tidak akan melihat kepada mereka pada hari kiamat dan tidak (pula) akan mensucikan mereka. Bagi mereka azab yang pedih." (Ali Imran: 77). Maka [Asy'ats bin Qais] masuk seraya bertanya; Apa yang dikatakan Abdurrahman kepada kalian? Kami menjawab; begini dan begitu. Dia berkata; ayat itu berkenaan denganku; Aku mempunyai sebuah sumur disebidang tanah milik sepupuku. Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam bersabda: yang menjadi keputusan sekarang adalah pengakuanmu atau sumpahnya. Aku berkata; 'Kalau begitu dia yang bersumpah ya Rasulullah! Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah palsu atas sesuatu, yang dengannya ingin merampas harta seorang muslim, dan dia menjadi pelaku kejahatan karenanya, maka ia akan berjumpa dengan Allah sementara Ia murka kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4550</td></tr><tr><td>Arabic No</td><td>4550</td></tr><tr><td>Reference</td><td>Book 65 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Пусть тот, кто, давая обязательную клятву (Аллахом), чтобы таким образом присвоить имущество мусульманина, тот встретит Аллаха разгневанным на него», — и в подтверждение этих слов Аллах ниспослал аят, (в котором сказано): «Поистине, для тех, которые продают завет с Аллахом и свои клятвы задёшево, нет доли в последней жизни. Аллах не будет говорить с ними, не посмотрит на них в день воскресения и не очистит их. Им уготованы мучительные страдания» (сура 3 «Семейство ‘Имрана», аят 77). (В этот момент) вошёл Аль-Аш‘ас ибн Кайс, да будет доволен им Аллах, и сказал: «Что рассказал вам Абу ‘Абдуррахман?» Они ответили: «То-то и то-то». Аль-Аш‘ас сказал: «(Этот аят) был ниспослан в отношении меня. (Дело в том, что) мне принадлежал колодец(, располагавшийся) на земле моего двоюродного брата. Я пришёл (с этим делом) к Посланнику Аллаха ﷺ который сказал (мне): “(Приведи) своё доказательство или пусть он поклянётся”. Я сказал: “Но ведь он сейчас поклянётся, о Посланник Аллаха!” И тогда Посланник Аллаха ﷺ сказал: “Пусть тот, кто, давая обязательную клятву (Аллахом), чтобы таким образом присвоить имущество мусульманина, и он произнёс её ложно, тот встретит Аллаха разгневанным на него”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4550</td></tr><tr><td>Arabic No</td><td>4550</td></tr><tr><td>Reference</td><td>Book 65 Hadith 72</td></tr></tbody></table></div>
 

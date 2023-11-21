@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Verily, a man would perfo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Muhammad dari [Al A'laa] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Ada orang yang mengamalkan amalan ahli surga pada waktu yang sangat lama, lalu ia menutup akhir hidupnya dengan amalan ahli neraka. Ada pula orang yang mengerjakan amalan ahli neraka pada waktu yang sangat lama, tetapi kemudian ia menutup akhir hidupnya dengan amalan ahli surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6740</td></tr><tr><td>Arabic No</td><td>2651</td></tr><tr><td>Reference</td><td>Book 46 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6740</td></tr><tr><td>Arabic No</td><td>2651</td></tr><tr><td>Reference</td><td>Book 46 Hadith 18</td></tr></tbody></table></div>
 

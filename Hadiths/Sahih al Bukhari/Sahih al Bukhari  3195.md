@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Ibrahim bin Al-Harith:from Abu Salama bin 'Abdur-Rahman wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah mengabarkan kepada kami [Ibnu 'Ulayyah] dari ['Ali bin Al Mubarak] telah bercerita kepada kami [Yahya bin Abi Katsir] dari [Muhammad bin Ibrahim bin Al Harits] dari [Abu Salamah bin 'Abdur Rahman]; Telah terjadi pertengkaran antara dirinya dan orang lain dalam perkara tanah lalu dia menemui 'Aisyah dan menceritakan hal itu kepadanya, maka ['Aisyah] radliallahu 'anhuma berkata: "Wahai Abu Salamah hindarilah (berbuat aniaya) dalam urusan tanah karena Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Siapa yang pernah berbuat aniaya sejengkal saja (dalam perkara tanah) maka nanti dia akan dibebani (dikalungkan pada lehernya) tanah dari tujuh bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3195</td></tr><tr><td>Arabic No</td><td>3195</td></tr><tr><td>Reference</td><td>Book 59 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма ибн ‘Абдуррахман рассказал, что у него был спор с людьми (из-за земли). Когда он рассказал об этом ‘Аише, да будет доволен ею Аллах, она сказала: «О Абу Саляма! Избегай (того, чтобы брать незаконно чужую) землю, ведь Посланник Аллаха ﷺ сказал: «(В День воскресения) вокруг шеи того, кто несправедливо присвоит себе хотя бы пядь земли, обернут все семь земель»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3195</td></tr><tr><td>Arabic No</td><td>3195</td></tr><tr><td>Reference</td><td>Book 59 Hadith 6</td></tr></tbody></table></div>
 

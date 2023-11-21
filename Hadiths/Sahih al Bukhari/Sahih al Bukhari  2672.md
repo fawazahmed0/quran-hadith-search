@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "There are three persons whom
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Jarir bin 'AbdulHamid] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada tiga golongan yang Allah tidak akan mengajak mereka bicara pada hari kiamat, tidak memandang mereka dan tidak pula mensucikan mereka, serta bagi mereka disediakan siksa yang pedih, yaitu seseorang yang memiliki kelebihan air di jalan lalu dia enggan memberikannya kepada ibnu sabil, seseorang yang berbai'at kepada seorang (pemimpin) dan dia tidak berbai'at kepadanya kecuali demi kepentingan duniawi, bila dia diberikan apa yang sesuai dengan keinginannya maka dia memelihara janjinya, namun bila tidak maka dia tidak memelihara janjinya, dan seseorang yang menawar barang dagangan kepada seseorang setelah waktu 'Ashar, lalu dia bersumpah atas nama Allah; sungguh dengan harga sekian sekian aku memperoleh barang seperti ini, padahal dia dusta belaka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2672</td></tr><tr><td>Arabic No</td><td>2672</td></tr><tr><td>Reference</td><td>Book 52 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «С тремя не заговорит Аллах (в День воскресения), не посмотрит на них, не очистит их, и им (уготовано) мучительное наказание: человеку, имевшего излишки воды у дороги и отказавшего в ней путнику, человеку, который присягнёт (на верность) правителю(, руководствуясь) только мирскими (интересами), но сохраняет верность ему только в том случае, когда получает желаемое. Если же он не получает желаемого, то он не хранит верность ему. И человеку, который после послеполуденной молитвы договорился с (другим) человеком о продаже какого-либо товара, поклявшись Аллахом, что сам он взял его по такой-то цене, и (покупатель верит ему и) берёт у него товар, (хотя на самом деле он не давал за него такую цену)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2672</td></tr><tr><td>Arabic No</td><td>2672</td></tr><tr><td>Reference</td><td>Book 52 Hadith 34</td></tr></tbody></table></div>
 

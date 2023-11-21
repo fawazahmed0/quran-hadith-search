@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Humaid As-Sa'idi:Allah's Messenger (ﷺ) appointed a man called Ibn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaid bin Isma'il], telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [ayahnya], dari [Abu Humaid As Sa'idi] mengatakan, Rasulullah Shallallahu'alaihiwasallam pernah mempekerjakan seorang laki-laki untuk mengelola zakat bani Sulaim yang sering dipanggil dengan nama Ibnu Al Latabiyah, tatkala dia datang, dia menghitungnya dan berkata; 'Ini adalah hartamu dan ini hadiah.' Spontan Rasulullah Shallallahu'alaihiwasallam berujar: "kenapa kamu tidak duduk-duduk saja di rumah ayahmu atau ibumu sampai hadiahmu datang kepadamu jika kamu jujur." Kemudian beliau berpidato di hadapan kami, memuja dan memuji Allah terus bersabda: "Amma ba'd. Sesungguhnya saya mempekerjakan salah seorang diantara kalian untuk mengumpulkan zakat yang telah Allah kuasakan kepadaku, lantas ia datang dan mengatakan; 'ini hartamu dan ini hadiah yang diberikan kepadaku, ' kenapa dia tidak duduk-duduk saja di rumah ayahnya atau ibunya sampai hadiahnya datang kepadanya? Demi Allah, tidaklah salah seorang diantara kalian mengambil sesuatu yang bukan haknya, selain ia menjumpai Allah pada hari kiamat dengan memikul hak itu, aku tahu salah seorang diantara kalian menjumpai Allah dengan memikul unta yang mendengus, atau sapi yang melenguh, atau kambing yang mengembik." Kemudian beliau mengangkat tangannya hingga terlihat putih ketiaknya seraya mengatakan: "Ya Allah, bukankah aku telah menyampaikan apa yang kulihat dengan mataku dan kudengar dengan dua telingaku?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6979</td></tr><tr><td>Arabic No</td><td>6979</td></tr><tr><td>Reference</td><td>Book 90 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хумайд ас-Са‘иди, да будет доволен им Аллах, сказал: «В своё время Посланник Аллаха ﷺ поручил одному человеку, которого звали Ибн аль-Лютбия, заняться сбором закята (в племени) бану суляйм. Когда он вернулся, то (Пророк ﷺ) требовал с него отчёта. (Абу Хумайд) сказал: “Это — ваше имущество, а это — подарок (который сделали мне)”. [Услышав это], Посланник Аллаха ﷺ сказал: “Почему же ты не остался сидеть в доме своего отца и своей матери, [дожидаясь], пока тебе не принесут этот подарок, если ты говоришь правду?” Потом он обратился к нам с проповедью. Он воздал хвалу Аллаху, восславил его, а потом сказал: “А затем, поистине, я назначаю одного из вас заниматься тем делом, которое поручил мне Аллах, а он приходит и говорит: “Это — ваше имущество, а это — подарок, который мне преподнесли”. Почему же он не остался сидеть в доме своего отца и своей матери, [дожидаясь], пока ему не принесут его подарок? Клянусь Аллахом, если кто-нибудь из вас возьмёт себе хоть что-то из этого без права, в День воскресения он непременно встретит Аллаха, таща это (на себе)! И, поистине, ни за что не признаю я ни одного из вас, если встретит он Аллаха, неся (на себе) ревущего верблюда или мычащую корову, или блеющую овцу!” После чего (Пророк ﷺ) воздел руки к небу(, подняв их так высоко), что стала видна белизна его подмышек, говоря: “О Аллах, довёл ли я?”».\n(Абу Хумайд сказал): «Глаз мой видел (это), а ухо моё слышало»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6979</td></tr><tr><td>Arabic No</td><td>6979</td></tr><tr><td>Reference</td><td>Book 90 Hadith 26</td></tr></tbody></table></div>
 

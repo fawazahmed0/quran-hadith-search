@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Burdah b. Abl Musa al-Asha’ri said:‘Abd Allah b. ‘Umar said to me: Did
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Makhramah yaitu Ibnu Bukair] dari [ayahnya] dari [Abu Burdah bin Abu Musa Al Asy'ari] dia berkata; [Abdullah bin Umar] berkata kepadaku; "Apakah kamu pernah mendengar ayahmu mengatakan suatu hadits dari Rasulullah shallallahu 'alaihi wasallam mengenai waktu yang mustajab di hari Jum'at?" Aku menjawab; "Ya! Aku pernah mendengar dia berkata, (katanya); aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda; "(waktu mustajab hari Jum'at) terjadi antara tempat duduknya imam hingga selesai shalat (Jum'at)." Abu Daud berkata; "Maksudnya ketika masih diatas mimbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (853)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1049</td></tr><tr><td>Arabic No</td><td>1049</td></tr><tr><td>Reference</td><td>Book 2 Hadith 660</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Бурда, сына Абу Мусы аль-Аш‘ари, да будет доволен им Аллах: «‘Абдуллах ибн ‘Умар сказал мне: “Слышал ли ты, как твой отец передавал что-нибудь от Посланника Аллаха ﷺ о пятнице?” То есть о периоде (в который мольба не остаётся без ответа). Он ответил, что он слышал, как отец говорил: “Я слышал, как Посланник Аллаха ﷺ говорил: “Это период с того момента, как имам сел, и до окончания пятничной молитвы””». Абу Дауд сказал: «То есть сел на минбар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (853)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1049</td></tr><tr><td>Arabic No</td><td>1049</td></tr><tr><td>Reference</td><td>Book 2 Hadith 660</td></tr></tbody></table></div>
 

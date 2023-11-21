@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, " Horses are kept for one of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Zaid bin Aslam] dari [Abu Shalih As-Samman] dari [Abu Hurairah radliallahu 'anhu] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Kuda itu ada tiga jenis. Yang pertama kuda yang bagi seorang pemiliknya menjadi pahala, yang kedua menjadi sarana untuk memenuhi kebutuhan dan yang ketiga mendatangkan dosa. Adapun orang yang mendapatkan pahala adalah orang yang menambat kudanya untuk kepentingan fii sabilillah dimana dia mengikatnya di ladang hijau penuh rerumputan atau taman. Apa saja yang didapatkan kuda itu selama berada dalam pengembalaan di ladang penuh rerumputan hijau atau taman maka semua akan menjadi kebaikan bagi orang itu. Seandainya talinya putus lalu kuda itu berlari sekali atau dua kali maka jejak-jejak dan kotorannya akan menjadi kebaikan bagi pemiliknya. Dan seandainya kuda itu melewati sungai lalu minum darinya sedangkan dia tidak hendak memberinya minum maka semua itu baginya adalah kebaikan. Yang kedua adalah seseorang yang menambatkan kudanya dengan kesombongan, pamer dan permusuhan terhadap Kaum Muslimin maka baginya adalah dosa disebabkan perbuatannya itu". Dan Rasulullah shallallahu 'alaihi wasallam ditanya tentang keledai, maka Beliau menjawab: "Tidak ada wahyu yang diturunkan kepadaku tentang itu kecuali ayat 7 - 8 Surah Al Zalzalah, yang mencakup banyak faedah (yang artinya): ("Maka barangsiapa yang beramal kebaikan seberat biji sawi maka dia akan melihat balasannya dan barang siapa yang beramal keburukan seberat biji sawi maka dia akan melihat balasannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2860</td></tr><tr><td>Arabic No</td><td>2860</td></tr><tr><td>Reference</td><td>Book 56 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Коней (держат) для трёх (целей): (За содержание) лошадей один (человек может получить) награду, для другого они (могут стать) защитой, а для третьего бременем. Что касается того, кто получит (за них) награду, то им является человек, который содержит лошадей на пути Аллаха, привязывая их (длинными верёвками) на пастбище или в саду, а (количество) добрых дел, которые запишутся такому человеку, будет соответствовать длине тех верёвок(, за которые он станет привязывать лошадей) на пастбище или в саду. Если оборвут они свою привязь и перейдут через один или два холма, то их владельцу (запишется) столько добрых дел, сколько следов и навоза они оставят, если же они пройдут мимо реки и напьются из неё, это также будет записано ему как добрые дела, даже если он и не намеревался поить (их), и за это он получит награду. Другой человек, который держит лошадей только из гордости, напоказ другим или для борьбы с людьми, исповедующими Ислам: для такого они станут бременем». А затем Посланнику Аллаха ﷺ задали вопрос об ослах(, на что) он (дал такой ответ): «Мне не было ниспослано о них ничего (особого), если не считать этого всеобъемлющего и исключительного аята, (в котором сказано): “Тот, кто сделал добро весом в мельчайшую частицу, увидит его. И тот, кто сделал зло весом в мельчайшую частицу, увидит его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2860</td></tr><tr><td>Arabic No</td><td>2860</td></tr><tr><td>Reference</td><td>Book 56 Hadith 76</td></tr></tbody></table></div>
 

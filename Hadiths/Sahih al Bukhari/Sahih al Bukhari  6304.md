@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) said, "For every prophet there is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap Nabi mempunyai doa yang telah dikabulkan, sedang aku ingin menyimpan doaku sebagai syafa'at untuk umatku di Akhirat nanti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6304</td></tr><tr><td>Arabic No</td><td>6304</td></tr><tr><td>Reference</td><td>Book 80 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «У каждого пророка было такое обращение с мольбой, на которое Аллах (обязательно) давал ответ и с которым он обращался к Аллаху, я же хочу придержать свою мольбу для заступничества за свою общину в мире ином»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6304</td></tr><tr><td>Arabic No</td><td>6304</td></tr><tr><td>Reference</td><td>Book 80 Hadith 1</td></tr></tbody></table></div>
 

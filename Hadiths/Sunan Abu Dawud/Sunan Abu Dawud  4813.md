@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: If someone is given somethi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Bisyr] berkata, telah menceritakan kepadaku [Umarah bin Ghaziyah] berkata; telah menceritakan kepadaku [seorang laki-laki] yang berasal dari kaumku, dari [Jabir bin Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang diberi suatu pemberian kemudian ia mempunyai sesuatu hendaklah ia balas memberinya, jika tidak mempunyai sesuatu hendakah ia memujinya. Siapa yang memujinya (si pemberi) berarti ia telah bersyukur, dan siapa yang menutupinya maka ia telah mengkufurinya (nikmat)." Abu Dawud berkata, " [Yahya bin Ayyub] meriwayatkannya dari [Umarah bin Ghaziyah], dari [Syurahbil], dari [Jabir]." Abu Dawud berkata, "Syurahbil adalah seorang laki-laki dari kaumku, tetapi seakan-akan mereka membencinya hingga tidak bersedia menyebut namanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 43 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 43 Hadith 41</td></tr></tbody></table></div>
 

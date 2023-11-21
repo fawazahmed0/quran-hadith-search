@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miqdam AbuKarimah: The Prophet (ﷺ) said: If any Muslim is a guest 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] telah menceritakan kepadaku [Abu Al Judi] dari [Sa'id bin Al Muhajir] dari [Al Miqdam Abu Karimah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Laki-laki manapun yang datang kepada suatu kaum sebagai tamu, kemudian tamu tersebut terhalang mendapatkan jamuan, maka atas setiap Muslim wajib menolongnya hingga ia mendapatkan jamuan pada malam hari dari tanaman serta harta orang yang kedatangan tamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3751</td></tr><tr><td>Arabic No</td><td>3751</td></tr><tr><td>Reference</td><td>Book 28 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Микдам Абу Карима передаёт, что Посланник Аллаха ﷺ сказал: «Если человек принял гостя, но отказал ему в соблюдении его права на гостеприимство, то обязанность каждого мусульманина помочь этому человеку добиться соблюдения его права гостя, связанного с посевами и имуществом хозяина дома»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3751</td></tr><tr><td>Arabic No</td><td>3751</td></tr><tr><td>Reference</td><td>Book 28 Hadith 16</td></tr></tbody></table></div>
 

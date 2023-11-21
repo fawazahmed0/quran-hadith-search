@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) was ordered to prostrate on seven bony par
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid- dari ['Amru bin Dinar] dari [Thawus] dari [Ibnu 'Abbas] berkata, "Nabi shallallahu 'alaihi wasallam diperintahkan untuk melaksanakan sujud dengan tujuh anggota sujud, tidak boleh mengumpulkan rambutnya atau pakaiannya (sehingga menghalangi anggota sujud)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 10 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что однажды Пророк ﷺ сказал: «Пророку ﷺ было велено совершать земные поклоны(, опираясь) на семь костей, не подбирая волосы и одежду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 10 Hadith 210</td></tr></tbody></table></div>
 

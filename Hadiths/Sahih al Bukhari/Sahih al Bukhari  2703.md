@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Ar-Rabi, the daughter of An-Nadr broke the tooth of a girl, and th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin 'Abdullah Al Anshoriy] berkata telah bercerita kepadaku [Humaid] bahwa [Anas] bercerita kepada mereka bahwa Ar Rubayyi', -dia adalah putri dari AnNadhar- mematahkan gigi depan seorang anak perempuan lalu mereka meminta ganti rugi, namun mereka menolaknya hingga akhirnya mereka (kedua kaum itu) menemui Nabi shallallahu 'alaihi wasallam. Maka Beliau memerintahkan mereka untuk menegakkan qishosh (tuntutan balas yang setimpal). Maka Anas bin an-Nadhar berkata: "Apakah kami harus mematahkan gigi depannya ar-Rubayyi' wahai Rasulullah? Demi Dzat yang mengutus Tuan dengan benar, kami tidak akan mematahkan giginya". Maka Beliau berkata: "Wahai Anas, di dalam Kitab Allah ada ketetapan qishosh (Allah yang menetapkan qishosh) ". Maka kaum itu ridha lalu memaafkannya. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya diantara hamba-hamba Allah ada hamba yang apabila bersumpah dia memenuhinya". [Al Fazariy] menambahkan dari [Humaid] dari [Anas]: "Maka kaum itu ridha dan menerima ganti ruginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2703</td></tr><tr><td>Arabic No</td><td>2703</td></tr><tr><td>Reference</td><td>Book 53 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, что ар-Рубаййи‘, дочь ан-Надра, сломала передний зуб одной девушке. Её родные пришли просить родственников девушки принять компенсацию и простить (обидчика), но они отказались. Тогда они пришли к Пророку ﷺ, и он велел, чтобы с ней сделали то же самое. Анас ибн ан-Надр сказал: «О Посланник Аллаха! Зуб ар-Рубаййи‘ будет сломан?! Клянусь Тем, Кто послал тебя с истиной! Её зуб не будет сломан (сегодня)!» Посланник Аллаха ﷺ сказал: «О Анас! Согласно Книге Аллаха, полагается воздать ей равным». Но родственники пострадавшей согласились принять компенсацию и простили её, и Пророк ﷺ сказал: «Поистине, есть среди рабов Аллаха такие, клятвы которых Аллах неизменно выполняет, когда они клянутся Им!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2703</td></tr><tr><td>Arabic No</td><td>2703</td></tr><tr><td>Reference</td><td>Book 53 Hadith 13</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama h. 'Abd al-Rahman b. 'Auf reported Allah's Messenger (ﷺ) as saying:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah] dan lafazh keduanya tidak jauh berbeda. Keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Abu Salamah bin 'Abdur Rahman bin 'Auf] Telah menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak ada penyakit yang menular secara sendirian.' Dan dia juga menceritakan bahwa Rasulullah shallallahu 'alaihi wasallam bersabda juga: 'Yang sakit jangan mendekat kepada yang sehat! ' Abu Salamah berkata; ' [Abu Hurairah] menceritakan kedua Hadits tersebut dari Rasulullah shallallahu 'alaihi wasallam. Kemudian setelah itu Abu Hurairah diam dari sabda Rasulullah tentang; 'Tidak ada penyakit yang menular secara sendirian.' Dia memegang Hadits; 'Yang sakit tidak boleh mendekat kepada yang sehat.' Perawi berkata; Al Harits bin Abu Dzubab yaitu sepupu Abu Hurairah berkata; 'Aku mendengar darimu wahai Abu Hurairah anda menyampaikan Hadits ini dengan Hadits yang lain, namun kemudian anda diam tentang Hadits tersebut. Anda telah berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak ada penyakit yang menular secara sendirian.' Namun Abu Hurairah menolak hal itu, dan dia berkata; 'Yang sakit tidak boleh mendekati yang sehat.' Tapi Al Harits tetap tidak menerima hal itu hingga Abu Hurairah marah dan berkata dengan logat Habasy, dia berkata kepada Al Harits; 'Apakah kamu tidak tahu apa yang telah ku katakan? ' Al Harits menjawab; 'Tidak.' Abu Hurairah berkata; 'Aku tidak mengatakannya.' Abu Salamah berkata; 'Sungguh Abu Hurairah telah menceritakan kepada kami bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak ada penyakit yang menular secara sendirian.' Namun aku tidak tahu apakah Abu Hurairah lupa atau dia telah menasakh (menghapus) salah satu perkataannya. Telah menceritakan kepadaku [Muhammad bin Hatim] dan [Hasan Al Hulwani] serta [Abad bin Humaid]. [Abad] berkata; Telah menceritakan kepadaku. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Ya'qub] yakni Ibnu Ibrahim Sa'd; Telah menceritakan kepadaku [Bapakku] dari [Shalih] dari [Ibnu Syihab]; Telah mengabarkan kepadaku [Abu Salamah bin 'Abdur Rahman] dia mendengar [Abu Hurairah] berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak ada penyakit yang menular secara sendirian.' Juga bersabda; 'Yang sehat janganlah mendekati yang sakit.' Sebagaimana Hadits Yunus. Dan telah menceritakannya kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Abul Yaman]; Telah menceritakan kepada kami [Syu'aib] dari [Az Zuhri] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5791</td></tr><tr><td>Arabic No</td><td>2221.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5791</td></tr><tr><td>Arabic No</td><td>2221.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 143</td></tr></tbody></table></div>
 

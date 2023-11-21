@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:The Messenger of Allah (ﷺ) along with his Compani
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Sa'id al-Aili] dan [Ahmad bin Isa] keduanya berkata, telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] dari [Bukair bin al-Asyajj] dari [Ibnu Khabbab] dari [Abu Sa'id al-Khudri] "Bahwa Rasulullah Shallallahu'alaihiwasallam dan para sahabatnya melewati petani bawang merah. Lalu sekelompok orang dari mereka turun, lalu makan sebagian darinya, sedangkan yang lainnya belum makan, lalu kami pergi kepada beliau, maka beliau memanggil orang-orang yang belum makan bawang merah, dan mengakhirkan orang-orang lainnya (yang makan bawang merah) hingga baunya hilang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1257</td></tr><tr><td>Arabic No</td><td>566</td></tr><tr><td>Reference</td><td>Book 5 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «(Однажды), когда Посланник Аллаха ﷺ проходил вместе со своими сподвижниками мимо поля, на котором был посеян лук, некоторые из них остановились и поели лука, другие же (сподвижники) не ели его. Затем мы отправились к (Пророку ﷺ), и он позвал тех, кто не ел лук, а других отдалил до тех пор, пока не пропал его запах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1257</td></tr><tr><td>Arabic No</td><td>566</td></tr><tr><td>Reference</td><td>Book 5 Hadith 95</td></tr></tbody></table></div>
 

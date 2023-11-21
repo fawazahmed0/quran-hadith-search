@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:The Prophet (ﷺ) vowed to keep aloof from his wives for a pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Yahya biun 'Abdullah bin Shayfiy] dari ['Ikrimah bin 'Abdurrahman] dari [Ummu Salamah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam pernah bersumpah untuk tidak mendatangi para isteri Beliau selama satu bulan. Ketika telah melewati dua puluh sembilan hari, Beliau keluar untuk mendatangi mereka pada pagi hari atau siang hari. Lalu dikatakan kepada Beliau; "Lho, baginda telah bersumpah untuk tidak mendatangi mereka selama sebulan. Maka Beliau shallallahu 'alaihi wasallam bersabda: "Satu bulan itu bisa jadi berjumlah dua puluh sembilan hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1910</td></tr><tr><td>Arabic No</td><td>1910</td></tr><tr><td>Reference</td><td>Book 30 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умм Саламы, да будет доволен ею Аллах, что однажды Пророк ﷺ поклялся не приближаться к своим жёнам (целый) месяц, а по истечении двадцати девяти дней он пришёл (к ним) утром или вечером. Кто-то сказал ему: «Ты же поклялся не входить (к ним целый) месяц!» — на что он сказал: «Месяц (может) состоять и из двадцати девяти дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1910</td></tr><tr><td>Arabic No</td><td>1910</td></tr><tr><td>Reference</td><td>Book 30 Hadith 20</td></tr></tbody></table></div>
 

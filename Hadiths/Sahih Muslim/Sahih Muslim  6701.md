@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Suwaid bin Sa'id] dan [Muhammad bin 'Abdul A'laa] lafazh keduanya tidak jauh berbeda. Keduanya berkata; Telah menceritakan kepada kami [Al Mu'tamir] dari [Bapaknya] dari [Abu As Salil] dari [Abu Hasan] dia berkata; 'Aku berkata kepada [Abu Hurairah]; Kedua putraku telah meninggal, Apakah kamu mendengar dari Rasulullah Shallallahu 'alaihi wa Salam sebuah hadits yang dapat engkau bacakan untuk kami, dengannya kami dapat menenangkan hati kami dari kesedihan atas sepeninggalnya anak-anak kami?" Abu Hurairah berkata; Ya; "Anak-anak kecil mereka berlarian di surga dengan bebas, salah seorang dari mereka berjumpa dengan bapaknya atau kedua orang tuanya, lalu dia meraih ujung bajunya, atau beliau mengatakan; 'Dengan tangannya sebagaimana aku memegang ujung bajumu ini, dia tidak akan berpisah dengan bapaknya sehingga Allah memasukkan dia dan bapaknya ke dalam surga." Telah menceritakan kepada kami [Abu As Salil]; Dan telah menceritakannya kepadaku ['Ubaidullah bin Sa'id]; Telah menceritakan kepada kami [Yahya] yaitu Ibnu Sa'id dari [At Taimi] melalui jalur ini dan dia berkata; 'Apakah kamu pernah mendengar sebuah Hadits dari Rasulullah shallallahu 'alaihi wasallam sesuatu yang bisa menenangkan hati kami atas sepeninggalnya anak-anak kami? Abu Hurairah menjawab: 'Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6701</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хассан рассказывал: Однажды я сказал Абу Хурайре: «У меня умерло два ребенка, не расскажешь ли ты нам что-либо из того, что слышал от Посланника Аллаха ﷺ чтобы успокоились наши души относительно наших умерших?» Абу Хурайра сказал: «Да, (Пророк ﷺ говорил): “Их маленькие (дети) райские бабочки, которые встретив своего родителя, или родителей, возьмут его за одежду или за руку, как я беру тебя за край одежды, и не отпустят её, пока Аллах не введёт его родителя в рай!”»В другой версии сообщается, что он спросил: «Слышал ли ты что-нибудь от Посланника Аллаха ﷺ чтобы успокоились наши души относительно наших умерших?» (Абу Хурайра) сказал: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6701</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

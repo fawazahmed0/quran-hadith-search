@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The servant is constantly
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Abu Rafi'] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang hamba masih dihitung dalam shalat selama ia berada di tempat shalatnya untuk menunggu shalat dan malaikat akan mendoakannya; "Ya Allah, ampunilah dia, Ya Allah, rahmatilah dia, " hingga ia beranjak atau berhadats." Aku bertanya; "Apa yang dimaksud berhadats?" Jawabnya; "Kentut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1509</td></tr><tr><td>Arabic No</td><td>649.09</td></tr><tr><td>Reference</td><td>Book 5 Hadith 342</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Не перестанет раб (Аллаха) находиться на молитве всё то время, пока он ожидает (следующую) молитву на месте совершения молитвы, а ангелы говорят: “О Аллах, прости его (грехи), о Аллах, помилуй его”, до тех пор, пока он не покинет (место молитвы) или не осквернится». У него спросили: «А что значит осквернение?» Он ответил: «Тихое или громкое испускание кишечных газов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1509</td></tr><tr><td>Arabic No</td><td>649.09</td></tr><tr><td>Reference</td><td>Book 5 Hadith 342</td></tr></tbody></table></div>
 

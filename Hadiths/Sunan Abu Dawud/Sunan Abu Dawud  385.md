@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported:The Messenger of Allah (ﷺ) said: When any one of you tre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abu Al Mughirah] (demikian juga diriwayatkan dari jalur lain), Dan telah menceritakan kepada kami [Abbas bin Al Walid bin Mazid] telah mengabarkan kepadaku [Ayahku] (demikian juga diriwayatkan dari jalur lain), Dan telah menceritakan kepada kami [Mahmud bin Khalid] telah menceritakan kepada kami [Umar bin Abdul Wahid] dari [Al Auza'i] secara makna. Dia berkata; [Telah diberitakan kepadaku] bahwasanya [Sa'id bin Abu Sa'id Al Maqburi] telah menceritakan dari [Ayahnya] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian menginjak kotoran dengan sandalnya, maka debu tanah dapat menjadi penyuci baginya". Telah menceritakan kepada kami [Ahmad bin Ibrahim] telah menceritakan kepadaku [Muhammad bin Katsir Ash Shan'ani] dari [Al Auza'i] dari [Ibnu 'Ajlan] dari [Sa'id bin Abu Sa'id] dari [Ayahnya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, semakna dengannya, beliau bersabda: "Apabila di antara kamu menginjak kotoran dengan dua khufnya, maka debu tanahlah yang mensucikannya". Telah menceritakan kepada kami [Mahmud bin Khalid] telah menceritakan kepada kami [Muhammad bin 'A'id] telah menceritakan kepadaku [Yahya bin Hamzah] dari [Al Auza'i] dari [Muhammad bin Al Walid] telah mengabarkan kepadaku juga [Sa'id bin Abu Sa'id] dari [Al Qa'qa' bin Hakim] dari [Aisyah] dari Rasulullah shallallahu 'alaihi wasallam semakna dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>385</td></tr><tr><td>Arabic No</td><td>385</td></tr><tr><td>Reference</td><td>Book 1 Hadith 385</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «Если кто-либо из вас наступит подошвой (обуви) на нечто нечистое, то средством очищения для его обуви послужит земля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>385</td></tr><tr><td>Arabic No</td><td>385</td></tr><tr><td>Reference</td><td>Book 1 Hadith 385</td></tr></tbody></table></div>
 

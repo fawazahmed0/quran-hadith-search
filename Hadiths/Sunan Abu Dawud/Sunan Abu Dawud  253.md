@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:When any of us was sexually defiled, she took three handfuls (of wat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Yahya bin Abi Bukair] telah menceritakan kepada kami [Ibrahim bin Nafi'] dari [Al-Hasan bin Muslim] dari [Shafiyyah binti Syaibah] dari [Aisyah] dia berkata; Apabila salah seorang di antara kami (istri-istri Rasulullah) junub, maka dia mengambil tiga kali ciduk, begini, yakni dengan kedua telapak tangannya, lalu menuangkannya ke atas kepalanya dan mengambil satu ciduk lagi dengan tangannya lalu dituangkannya ke bagian kanannya dan satu ciduk lainnya ke bagian kirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (277)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>253</td></tr><tr><td>Arabic No</td><td>253</td></tr><tr><td>Reference</td><td>Book 1 Hadith 253</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда одну из нас постигало осквенение /джанаба/, она набирала пригоршню (воды) вот так - имея в виду обеими руками - и наливала на свою голову». И набрав одной рукой, она налила на одну сторону (головы), а другой - на другую сторону
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (277)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>253</td></tr><tr><td>Arabic No</td><td>253</td></tr><tr><td>Reference</td><td>Book 1 Hadith 253</td></tr></tbody></table></div>
 

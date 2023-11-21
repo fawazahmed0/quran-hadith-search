@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:'Umar said, Ubai was the best of us in the recitation (of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Al Fadll] Telah mengabarkan kepada kami [Yahya] dari [Sufyan] dari [Habib bin Abu Tsabit] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, [Umar] berkata, "Orang yang paling baik bacaannya di antara kita adalah Ubbay, dan kita akan meninggalkan Qira'ah Ubay." Maka [Ubay] pun berkata, "Aku telah mengambilnya langsung dari bibir Rasulullah shallallahu 'alaihi wasallam, karena itu aku tidak akan meninggalkannya lantaran karena suatu masalah. Allah Ta'ala berfirman: 'MAA NANSAKH MIN 'AAYATIN AW NUNSIKHA NA'TI BIKHAIR MINHAA AW MITSLIHAA (Tidaklah kami menghapus suatu ayat pun, atau ayat itu dihapus, kecuali kami akan menggantinya dengan yang lebih baik darinya atau semisalnya). (QS. Albaqarah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5005</td></tr><tr><td>Arabic No</td><td>5005</td></tr><tr><td>Reference</td><td>Book 66 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что ‘Умар сказал: «Лучшим чтецом (Корана) среди нас является Убайй (ибн Ка‘б), но тем не менее мы оставляем, часть того, что читает Убайй (то есть отменённые аяты). Убайй говорит: “Я слышал это (чтение) из уст Посланника Аллах ﷺ, поэтому ни за что не оставляю его”, а Всевышний Аллах сказал: “Когда Мы отменяем или заставляем забыть один аят, то приводим тот, который лучше его, или равный ему…” (сура аль-Бакара, аят 106)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5005</td></tr><tr><td>Arabic No</td><td>5005</td></tr><tr><td>Reference</td><td>Book 66 Hadith 27</td></tr></tbody></table></div>
 

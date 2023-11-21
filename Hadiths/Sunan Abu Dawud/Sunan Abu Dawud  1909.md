@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition has also been transmitted by Jabir through a different chain of na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1909</td></tr><tr><td>Arabic No</td><td>1909</td></tr><tr><td>Reference</td><td>Book 11 Hadith 189</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передатчик хадиса Джабир, да будет доволен Аллах им и его отцом, ввёл в него после слов «И сделайте место стояние Ибрахима местом молитвы» (сура «аль-Бакара», аят 125) свои слова: И он читал в этих двух рак‘атах суры о единобожии и “Скажи: о вы, неверующие”. В этом хадисе он сказал, что ‘Али, да будет доволен им Аллах, сказал это в Куфе. Передатчик сказал: «Мой отец сказал: “Джабир не упоминал об этом”». Он продолжает: «И я ушёл рассерженный…» И он пересказал историю Фатимы, да будет доволен ею Аллах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1909</td></tr><tr><td>Arabic No</td><td>1909</td></tr><tr><td>Reference</td><td>Book 11 Hadith 189</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sulaiman b. Buraida narrated it on the authority of his father that a person ask
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan ['Ubaidullah bin Sa'id] keduanya dari [Al Azraq]. [Zuhair] mengatakan; telah menceritakan kepada kami [Ishaq bin Yusuf Al Azraq] telah menceritakan kepada kami [Sufyan] dari ['Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam, bahwa seorang laki-laki bertanya kepada beliau tentang waktu shalat, maka beliau menjawab: "Shalatlah bersama kami selama dua hari ini." Ketika matahari telah condong, beliau menyuruh Bilal untuk mengumandangkan adzan, kemudian beliau memerintahkan Bilal untuk mengiqamati shalat zhuhur, setelah itu beliau memerintahkan Bilal supaya mengumandangkan adzan untuk shalat ashar, yaitu ketika matahari masih meninggi putih cemerlang, waktu selanjutnya beliau memerintahkan sehingga Bilal mengiqamati shalat maghrib, yaitu ketika matahari sudah menghilang, setelah itu beliau memerintahkan Bilal untuk mengiqamati shalat isya', yaitu ketika mega merah telah menghilang, waktu selanjutnya beliau memerintahkan supaya Bilal mengiqamati shalat subuh (fajar), yaitu ketika fajar terbit. Di hari kedua, beliau memerintahkan Bilal supaya mengakhirkan shalat zhuhur hingga cuaca agak dingin, maka Bilal pun mengakhirkan hingga cuaca agak dingin, dengan demikian beliau telah memberi kenyamanan dengan menangguhkan zhuhur hingga cuaca agak dingin, dan beliau shalat ashar ketika matahari masih tinggi, beliau mengakhirkannya lebih dari waktu sebelumnya, setelah itu beliau melaksanakan shalat maghrib sebelum mega merah menghilang, dan beliau mengerjakan shalat isya' setelah sepertiga malam berlalu, beliau lalu shalat fajar (subuh) ketika fajar telah merekah, kemudian beliau bertanya: "Dimanakah orang yang bertanya tentang waktu shalat tadi?" laki-laki itu berkata; "Aku wahai Rasulullah" Beliau bersabda: "Waktu shalat kalian adalah antara waktu yang telah kalian lihat sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1391</td></tr><tr><td>Arabic No</td><td>613.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сулейман ибн Бурайда передал со слов своего отца, что однажды какой-то человек спросил Пророка ﷺ о временах молитвы. И Пророк ﷺ сказал ему: «Помолись с нами эти два дня». Когда солнце прошло зенит, он приказал Билялю, чтобы он произнёс азан, и затем повелел ему, и тот объявил о начале полуденной (молитвы) /зухр/. Потом он повелел ему, и тот объявил о начале послеполуденной молитвы /‘аср/, когда солнце было высоко вверху, и было оно при этом белым и сияющим. Затем он повелел ему, и тот объявил о начале закатной молитвы /магриб/, когда зашло солнце, а затем он повелел ему, и тот объявил о начале вечерней молитвы /‘иша/, когда (только) исчезли сумерки. Затем, когда начала (появляться) заря, он повелел ему, и тот объявил о начале утренней молитвы /фаджр/. На второй же день он повелел сделать призыв на полуденную молитву и оттянул её так, чтобы жара (немного) спала, и (только) после этого он совершил полуденную молитву. Затем совершил послеполуденную молитву, когда солнце стояло высоко, однако (при этом) он оттянул её (совершение) подольше чем в прошедший день. Затем он совершил закатную молитву, перед тем, как исчезли сумерки, и совершил вечернюю молитву (уже) после того, как прошла третья часть ночи. Затем он совершил утреннюю молитву, когда (уже) начинало светать (т.е. когда заря стала уже жёлтой), после чего сказал: «Где тот (человек), который спрашивал о временах молитвы?» Тот человек ответил: «Я (здесь), о Посланник Аллаха». Тогда он сказал: «Время ваших молитв между теми (промежутками,) которые вы видели»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1391</td></tr><tr><td>Arabic No</td><td>613.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 225</td></tr></tbody></table></div>
 

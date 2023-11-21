@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah said The Apostle of Allaah (ﷺ) entered Makkah from the side of Kuda�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Harun bin Abdullah], telah menceritakan kepada Kami [Abu Usamah], telah menceritakan kepada Kami [Hisyam bin 'Urwah] dari [ayahnya] dari [Aisyah] radliallahu 'anha, ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam masuk pada tahun terjadinya penaklukan Mekkah dari Kada', dari bagian Mekkah paling tinggi, dan beliau masuk pada saat umrah dari Kuda (Tsaniyah yang paling rendah). Ia berkata; dan 'Urwah memasuki dari keduanya, yang paling sering ia memasuki dari Kuda dan itu adalah yang lebih dekat dari rumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1578) Sahih Muslim (1258)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1868</td></tr><tr><td>Arabic No</td><td>1868</td></tr><tr><td>Reference</td><td>Book 11 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что в год покорения Мекки Посланник Аллаха ﷺ вошёл через Када в верхней части Мекки, а во время ‘умры через Куда. А ‘Урва входил и оттуда, и оттуда, но чаще входил со стороны Куда, потому что она находилась ближе к его дому
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1578) Sahih Muslim (1258)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1868</td></tr><tr><td>Arabic No</td><td>1868</td></tr><tr><td>Reference</td><td>Book 11 Hadith 148</td></tr></tbody></table></div>
 

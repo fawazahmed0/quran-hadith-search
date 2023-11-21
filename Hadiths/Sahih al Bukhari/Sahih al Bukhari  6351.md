@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) said," None of you should long for death b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Salam] telah mengabarkan kepada kami [Isma'il bin 'Ulayyah] dari [Abdul Aziz bin Shuhaib] dari [Anas] radliallahu 'anhu dia berkata; Rasulullah Shallallahu 'alahi wasallam bersabda: "Janganlah salah seorang dari kalian berangan-angan untuk mati karena musibah yang menimpanya, kalau memang hal itu harus, hendaknya ia mengatakan; "Ya Allah, hidupkanlah aku jika kehidupan itu baik untukku, dan matikanlah aku jika kematian itu baik bagiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6351</td></tr><tr><td>Arabic No</td><td>6351</td></tr><tr><td>Reference</td><td>Book 80 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик), да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ говорил: «Пусть никто не желает себе смерти из-за беды, которая постигла его, но если же кто-нибудь непременно хочет пожелать себе смерти, то пусть скажет: “О Аллах, позволь мне жить до тех пор, пока жизнь будет лучше для меня, и упокой меня, когда смерть будет лучше для меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6351</td></tr><tr><td>Arabic No</td><td>6351</td></tr><tr><td>Reference</td><td>Book 80 Hadith 48</td></tr></tbody></table></div>
 

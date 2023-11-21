@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I heard Allah's Messenger (ﷺ) saying, "The angels descend, the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami Muhammad telah bercerita kepada kami [Ibnu Abi Maryam] telah mengabarkan kepada kami [Al Laits] telah bercerita kepada kami [Ibnu Abi Ja'far] dari [Muhammad bin 'Abdur Rahman] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anhu], istri Nabi shallallahu 'alaihi wasallam, dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya malaikat-malaikat turun pada al-'Anan, yaitu awan lalu mereka menyebutkan perkara-perkara (yang akan terjadi) di langit lalu setan-setan mencuri pendengaran hingga mereka dapat mendengarnya lalu mereka membisikkannya kepada para dukun, dan setan-setan itu membuat seratus kedustaan yang mereka selipkan dalam berita yang disampaikannya, yang berasal dari inisiatif mereka sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3210</td></tr><tr><td>Arabic No</td><td>3210</td></tr><tr><td>Reference</td><td>Book 59 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах, что она слышала, как Посланник Аллаха ﷺ сказал: «Поистине, ангелы спускаются (на землю) в облаках и (сообщают) о том, что было решено на небесах; что же касается шайтанов, то они подслушивают (их слова), а потом внушают (услышанное) прорицателям, которые (добавляют) к этому от себя сто лживых (сообщений)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3210</td></tr><tr><td>Arabic No</td><td>3210</td></tr><tr><td>Reference</td><td>Book 59 Hadith 21</td></tr></tbody></table></div>
 

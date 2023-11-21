@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwah al Mughira reported it from his father:He (Mughira) helped the Apostle (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami [Umar bin Abu Zaidah] dari [asy-Sya'bi] dari [Urwah bin al-Mughirah] dari [bapaknya] bahwa dia memberikan air wudlu kepada Nabi shallallahu 'alaihi wasallam, maka beliau berwudlu dan mengusap kedua khufnya seraya bersabda: "Sesungguhnya aku memasukkan (kedua kakiku) dalam keadaan suci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>632</td></tr><tr><td>Arabic No</td><td>274.07</td></tr><tr><td>Reference</td><td>Book 2 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов аль-Мугыры ибн Шу‘ба, что однажды он наливал воду Пророку ﷺ, когда он совершал омовение, и он, совершая омовение, обтёр свои кожаные носки. Тогда аль-Мугыра спросил его (про носки) , и (Пророк ﷺ) сказал ему: «(Не снимай их, потому что) я надел их на чистые (ноги)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>632</td></tr><tr><td>Arabic No</td><td>274.07</td></tr><tr><td>Reference</td><td>Book 2 Hadith 99</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Aawad and Hammam reported A'isha as saying:I used to scrape off the (drop of)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>669</td></tr><tr><td>Arabic No</td><td>288.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов аль-Асвада и Хаммама, что ‘Аиша сказала о (засохшем) семени: «Я соскабливала его с одежды Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>669</td></tr><tr><td>Arabic No</td><td>288.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 135</td></tr></tbody></table></div>
 

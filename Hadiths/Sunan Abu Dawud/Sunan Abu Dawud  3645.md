@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Thabit: The Messenger of Allah (ﷺ) ordered me (to learn the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ibnu Abu Az Zinad] dari [Ayahnya] dari [Kharijah bin Zaid bin Tsabit] ia berkata, [Zaid bin Tsabit] berkata, "Rasulullah shallallahu 'alaihi wasallam memerintahkan aku untuk mempelajari tulisan orang-orang Yahudi. Lalu aku mempelajari penulisan orang-orang Yahudi untuk beliau." Zaid berkata, "Demi Allah, sungguh aku tidak merasa aman kepada orang-orang Yahudi terhadap tulisanku. Lalu aku mempelajarinya, dan hanya berlalu setengah bulan aku telah menguasainya. Lalu aku menuliskan untuknya apabila Beliau (ingin) menulis dan aku membacakan untuknya jika beliau mendapat surat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3645</td></tr><tr><td>Arabic No</td><td>3645</td></tr><tr><td>Reference</td><td>Book 26 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Сабита, да будет доволен им Аллах: «Посланник Аллаха ﷺ велел мне обучиться письму иудеев, и я исполнил его веление. Он сказал: “Поистине, клянусь Аллахом, я не могу доверить иудеям (читать и писать) письма для меня”. Я обучился их письму, и на это у меня не ушло и половины месяца. И я писал для него письма к иудеям и читал ему письма, которые писали ему они»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3645</td></tr><tr><td>Arabic No</td><td>3645</td></tr><tr><td>Reference</td><td>Book 26 Hadith 5</td></tr></tbody></table></div>
 

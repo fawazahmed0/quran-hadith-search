@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma:(the daughter of Abu' Bakr) A woman came to Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Miqdam] telah menceritakan kepada kami [Fudlail bin Sulaiman] telah menceritakan kepada kami [Manshur bin Abdurrahman] dia berkata; telah menceritakan kepadaku [ibuku] dari [Asma' binti Abu Bakr] radliallahu 'anhuma bahwa seorang wanita datang kepada Rasulullah shallallahu 'alaihi wasallam seraya berkata; "Sesungguhnya saya hendak menikahkan putriku, ternyata putriku menderita suatu penyakit yang menyebabkan rambutnya rontok sedangkan calon suaminya sangat kasihan kepadanya, apakah saya boleh menyambung rambutnya?" maka Rasulullah shallallahu 'alaihi wasallam mencela orang yang menyambung rambutnya dan yang minta disambung rambutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5935</td></tr><tr><td>Arabic No</td><td>5935</td></tr><tr><td>Reference</td><td>Book 77 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Асмы бинт Аби Бакр, что как-то одна женщина пришла к Посланнику Аллаху ﷺ и сказала: «Я выдала замуж свою дочь, но (вскоре), она заболела, и её волосы выпали. Её муж велит мне подвязать ей (чужие) волосы, делать ли мне это?» Тогда Посланник Аллаха ﷺ стал ругать подвязывающую (к волосам другие) волосы, и ту, что просит подвязать их ей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5935</td></tr><tr><td>Arabic No</td><td>5935</td></tr><tr><td>Reference</td><td>Book 77 Hadith 150</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said," Whoever says: "La ilaha illa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Sumay] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang membaca laa ilaaha illallahu wahdahuu laa syariika lahuu, lahul mulku wa lahul hamdu wa huwa 'alaa kulli syai'in qadir Tidak ada ilah (yang berhaq disembah) selain Allah Yang Maha Tunggal tidak ada sekutu bagi-Nya. Milik-Nya kerajaan dan bagi-Nya segala puji dan Dia Maha Kuasa atas segala sesuatu sebanyak seratus kali dalam sehari, maka baginya mendapatkan pahala seperti membebaskan sepuluh orang budak, ditetapkan baginya seratus hasanah (kebaikan) dan dijauhkan darinya seratus keburukan dan baginya ada perlindungan dari (godaan) setan pada hari itu hingga petang dan tidak ada orang yang lebih baik amalnya dari orang yang membaca doa ini kecuali seseorang yang mengamalkan lebih banyak dari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6403</td></tr><tr><td>Arabic No</td><td>6403</td></tr><tr><td>Reference</td><td>Book 80 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тому, кто сто раз в день скажет: “Нет бога, достойного поклонения, кроме одного лишь Аллаха, у Которого нет сотоварища, Ему принадлежит власть, Ему хвала, и Он всё может /Ля иляха илля-Ллаху вахда-ху ля шарикя ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамду ва хуа ‘аля кулли шай‘ин кадир/”, запишется такая же (награда, какая полагается) за освобождение десяти рабов, и запишется ему (совершение) ста добрых дел, и будут стёрты записи о ста его дурных делах, и послужат они ему защитой от шайтана на этот день до самого вечера, и никто не сможет сделать ничего лучше сделанного им, кроме (такого) человека, который сделает ещё больше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6403</td></tr><tr><td>Arabic No</td><td>6403</td></tr><tr><td>Reference</td><td>Book 80 Hadith 98</td></tr></tbody></table></div>
 

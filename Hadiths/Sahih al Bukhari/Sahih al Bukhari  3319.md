@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Once while a prophet amongst
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il bin Abi Uwais] berkata, telah bercerita kepadaku [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada seorang Nabi diantara Nabi-nabi yang singgah di bawah pohon kemudian digigit semut. Maka dia memerintahkan agar mengeluarkan semut itu dari bawah pohon itu lalu memerintahkan agar membakar rumah semut itu. Kemudian Allah mewahyukan kepada Nabi tersebut: "Apakah hanya karena seekor semut (yang menggigitmu lalu kamu membakar semua?)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3319</td></tr><tr><td>Arabic No</td><td>3319</td></tr><tr><td>Reference</td><td>Book 59 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Некогда один из пророков остановился (на привал) под деревом и его укусил муравей. Тогда он повелел (перенести) свои вещи (в другое место) и их перенесли, а затем он велел (сжечь муравейник) и он был сожжён. Тогда Аллах внушил ему в откровении: “Почему же (ты не убил только) этого муравья?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3319</td></tr><tr><td>Arabic No</td><td>3319</td></tr><tr><td>Reference</td><td>Book 59 Hadith 125</td></tr></tbody></table></div>
 

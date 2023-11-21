@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Hour will not be establi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] dari ['Abdurrahman] dari [Abu Hurairah], bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Hari kiamat tidak akan terjadi sehingga dua kelompok besar terjadi pembunuhan besar-besaran padahal ajakan keduanya satu, hingga muncul para pendusta yang kurang lebihnya tiga puluh, kesemuanya mengaku ia utusan Allah, hingga ilmu diangkat, banyak keguncangan, zaman terasa singkat, fitnah muncul dimana-mana, dan banyak alharaj, yaitu pembunuhan, hingga ditengah-tengah kalian harta melimpah ruah dan berlebihan, sehingga pemilik harta mencari-cari orang yang mau menerima sedekahnya, sampai ia menawar-nawarkan sedekahnya, namun orang yang ditawari mengelak seraya mengatakan ' Aku tak butuh sedekahmu', sehingga manusia berlomba-lomba meninggikan bangunan, sehingga seseorang melewati kuburan seseorang dan mengatakan; 'Aduhai sekiranya aku menggantikannya', hingga matahari terbit dari sebelah barat, padahal jika matahari telah terbit dari sebelah barat dan manusia melihatnya, mereka semua beriman, pada saat itulah sebagaimana ayat; 'Ketika itu tidak bermanfaat lagi bagi seseorang keimanannya, yang ia belum beriman sebelumnya atau belum mengerjakan kebaikan dengan keimanannya." (QS. Al an'am 158), dan hari kiamat terjadi ketika dua orang telah menyerahkan kedua bajunya tetapi keduanya tidak jadi melakukan jual beli, keduanya tidak jadi melipatnya, dan hari kiamat terjadi sedang seseorang telah pulang membawa susu sapinya tetapi tidak jadi ia meminumnya, dan hari kiamat terjadi ketika seseorang memperbaiki kolam (tempat minum) nya tetai dia tak jadi meminumnya, dan hari kiamat terjadi sedang seseorang telah mengangkat suapannya tetapi dia tidak jadi menyantapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7121</td></tr><tr><td>Arabic No</td><td>7121</td></tr><tr><td>Reference</td><td>Book 92 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Не наступит Час этот, пока не сразятся между собой две большие группы (людей), между которыми произойдёт великое побоище и которые будут призывать к одному и тому же, и пока не появится около тридцати лжецов, каждый из которых будет утверждать, что он — Посланник Аллаха, и пока не будет отобрано знание, и пока не участятся землетрясения, и пока время не станет проходить быстро, и пока не начнутся смуты, и не участятся убийства, и не умножатся у вас богатства, которых станет так много, что богатый будет озабочен поисками того, кто принял бы от него милостыню, а когда он станет предлагать её, тот, кому он станет её предлагать, будет говорить: “Я не нуждаюсь в этом”, — и пока люди не начнут состязаться друг с другом в возведении высоких домов, и пока человек, который будет проходить мимо могилы другого человека, не станет говорить: “Ах, если бы я был на его месте!” — и пока солнце не взойдёт с запада. И когда оно взойдёт с запада, а люди увидят это, все они уверуют. Однако это будет то самое время, в которое не принесёт душе пользы вера её, если она не уверовала прежде или не приобрела блага в вере своей. И когда настанет Час, два человека, расстелившие одежду свою между собой, не успеют ни заключить сделку, ни свернуть эту одежду. И когда настанет Час этот, человек(, надоивший) молока от своей верблюдицы и унёсший его, не успеет его выпить. И когда настанет Час, человек, обмазывающий глиной свой водоём, не успеет напоить из него своих верблюдов. И когда настанет Час этот, человек, поднёсший ко рту кусок пищи, не успеет съесть его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7121</td></tr><tr><td>Arabic No</td><td>7121</td></tr><tr><td>Reference</td><td>Book 92 Hadith 68</td></tr></tbody></table></div>
 

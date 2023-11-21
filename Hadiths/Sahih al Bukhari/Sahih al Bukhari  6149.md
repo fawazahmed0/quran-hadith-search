@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) came to some of his wives among whom t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Anas bin Malik] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam menemui sebagian isterinya, sementara Ummu Sulaim bersama mereka, maka beliau bersabda: 'Hati-hati wahai Anjasyah, pelan-pelanlah jika mengawal sesuatu yang diibaratkan dengan barang yang mudah pecah (maksudnya para wanita). Abu Qilabah berkata; "Nabi shallallahu 'alaihi wasallam berbicara dengan kalimat yang seandainya sebagian dari kalian mengucapkannya, niscaya kalian akan mempermainkan orang yang mengucapkannya.' (karena jarang yang melakukannya). Yaitu sabda beliau; "Kamu mengawal sesuatu yang diibaratkan dengan barang yang mudah pecah (maksudnya adalah para wanita)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6149</td></tr><tr><td>Arabic No</td><td>6149</td></tr><tr><td>Reference</td><td>Book 78 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ пришёл к некоторым своим жёнам, среди которых была Умм Сулейм, и сказал: “Горе тебе, о Анджаша! Веди (верблюдов) медленнее, (будто везёшь) бутылки!”».\nАбу Кыляба сказал: «Пророк ﷺ сказал слова, которые, если бы сказал кто-нибудь из вас, вы бы порицали его за это». То есть его слова: «Веди (верблюдов) медленнее, (будто везёшь) бутылки!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6149</td></tr><tr><td>Arabic No</td><td>6149</td></tr><tr><td>Reference</td><td>Book 78 Hadith 175</td></tr></tbody></table></div>
 

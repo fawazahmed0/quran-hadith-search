@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thauban, the freed slave of the Messenger of Allah (ﷺ) reported Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Yahya, yaitu anaknya Sa'id] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepadaku [Qatadah] dari [Salim bin Abul Ja'd] dari [Ma'dan bin Abu Thalhah Al Ya'mari] dari [Tsauban] maula Rasulullah shallallahu 'alaihi wasallam, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menshalatkan jenazah, maka baginya satu qirath pahala. Dan bila turut menyaksikan pemakamannya, maka baginya dua qirath pahala. Sedangkan besar satu qirath seperti besarnya gunung Uhud." Dan telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [bapakku] ia berkata, dan telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] dari [Sa'id] -dalam jalur lain- Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami ['Affan] Telah menceritakan kepada kami [Aban] semuanya dari [Qatadah] dengan isnad ini, hadits yang semisal dengannya. Dan di dalam hadits Sa'id dan Hisyam; Nabi shallallahu 'alaihi wasallam ditanya tentang qirath, maka beliau menjawab: "(Yaitu) sebesar gunung Uhud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2196</td></tr><tr><td>Arabic No</td><td>946.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Саубана, что Посланник Аллаха сказал ﷺ: «Кто совершит (над умершим) погребальную молитву, тому (достанется) кырат (награды), а если он (ещё и) поприсутствует на его захоронении, то ему (достанется) два кырата, а один кырат подобен (горе) Ухуд»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2196</td></tr><tr><td>Arabic No</td><td>946.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 74</td></tr></tbody></table></div>
 

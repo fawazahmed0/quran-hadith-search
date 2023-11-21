@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri that he visited Anas bin Malik at Damascus and found him weepi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Zurarah] berkata, telah mengabarkan kepada kami ['Abdul Wahid bin Washil Abu 'Ubaidah Al Haddad] dari ['Utsman bin Abu Rawwad] saudara Al 'Aziz bin Abu Rawwad, ia berkata, aku mendengar [Az Zuhri] berkata, "Aku pernah menemui [Anas bin Malik] di Damaskus, sementara saat itu ia sedang menangis. Aku lalu bertanya, 'Apa yang membuatmu menangis? Anas lalu menjawab, "Aku tidak pernah mengenal sasuatupun di zaman Rasulullah shallallahu 'alaihi wasallam seperti apa yang aku temui sekarang selain masalah shalat. Shalat sekarang ini sudah dilalaikan." [Bakar bin Khalaf] berkata, telah menceritakan kepada kami [Muhammad bin Bakar Al Barsani] telah mengabarkan kepada kami ['Utsman bin Abu Rawwad] dengan hadits seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>530</td></tr><tr><td>Arabic No</td><td>530</td></tr><tr><td>Reference</td><td>Book 9 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Усман ибн Абу Раввад, брат ‘Абдуль-‘Азиза сказал:\n— Я слышал, как аз-Зухри говорил: «Как-то раз, зайдя в Дамаске к Анасу ибн Малику, да будет доволен им Аллах, я застал его плачущим. Я спросил его: “Почему ты плачешь?” И он сказал: “Не узнаю я ничего из того, что знал, кроме этой молитвы, да и этой молитвой пренебрегают!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>530</td></tr><tr><td>Arabic No</td><td>530</td></tr><tr><td>Reference</td><td>Book 9 Hadith 9</td></tr></tbody></table></div>
 

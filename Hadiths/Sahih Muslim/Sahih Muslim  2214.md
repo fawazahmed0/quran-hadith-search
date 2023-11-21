@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that the Messenger of Allah (ﷺ) observed prayer on the grave
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ibrahim bin Muhammad bin 'Ar'arah As Sami] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Habib bin Asy Syahid] dari [Tsabit] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam pernah shalat jenazah di atas kuburan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214</td></tr><tr><td>Arabic No</td><td>955</td></tr><tr><td>Reference</td><td>Book 11 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что Пророк ﷺ совершил (заупокойную) молитву над могилой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214</td></tr><tr><td>Arabic No</td><td>955</td></tr><tr><td>Reference</td><td>Book 11 Hadith 92</td></tr></tbody></table></div>
 

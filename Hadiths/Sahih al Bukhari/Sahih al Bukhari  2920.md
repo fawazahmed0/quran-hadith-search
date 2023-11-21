@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:As above. Narrated Anas: 'Abdur Rahman bin 'Auf and Az-Zubair comp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Hammam] dari [Qatadah] dari [Anas]. Dan diriwayatkan pula, telah bercerita kepada kami [Muhammad bin Sinan] telah bercerita kepada kami [Hammam] dari [Qatadah] dari [Anas radliallahu 'anhu] bahwa 'Abdur Rahman bin 'Auf dan Az Zubair mengadu kepada Nabi shallallahu 'alaihi wasallam, yakni tentang penyakit kutu (gatal) yang diderita keduanya. Maka Beliau memberi keringanan untuk menggunakan baju yang terbuat dari sutera. Kemudian aku melihat baju sutera itu dipakai oleh keduanya dalam suatu peperangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2920</td></tr><tr><td>Arabic No</td><td>2920</td></tr><tr><td>Reference</td><td>Book 56 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса приводится сообщение Анаса, да будет доволен им Аллах, о том, что) они пожаловались Пророку ﷺ, и он разрешил им носить шёлковые (рубахи)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2920</td></tr><tr><td>Arabic No</td><td>2920</td></tr><tr><td>Reference</td><td>Book 56 Hadith 133</td></tr></tbody></table></div>
 

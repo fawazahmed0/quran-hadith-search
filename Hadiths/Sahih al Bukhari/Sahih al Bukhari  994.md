@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'A'isha:Allah's Messenger (ﷺ) used to pray eleven rak'at at night and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah menceritakan kepadaku ['Urwah] bahwa ['Aisyah] mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat sebelas rakaat, begitulah cara beliau shalat -yakni shalat tahajjut-. Dalam shalat tersebut beliau sujud seperti lamanya kalian membaca sekitar lima puluh ayat sebelum mengangkat kepalanya. Dan beliau mengerjakan shalat dua rakaat sebelum melaksanakan shalat subuh. Kemudian beliau berbaring pada sebelah tubuh sebelah kanan hingga datang mu'adzin (membangunkan) untuk shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>994</td></tr><tr><td>Arabic No</td><td>994</td></tr><tr><td>Reference</td><td>Book 14 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Обычно Посланник Аллаха ﷺ совершал по одиннадцать рак‘атов, что и составляло собой его ночную молитву. При этом (каждый) его земной поклон продолжался столько времени, что любому из вас его хватило бы на то, чтобы прочитать пятьдесят аятов, и только после этого он поднимал голову. Кроме того, он всегда совершал (дополнительную молитву) в два рак‘ата перед обязательной утренней молитвой, после чего лежал на правом боку до тех пор, пока к нему не приходил муаззин(, звавший его) на молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>994</td></tr><tr><td>Arabic No</td><td>994</td></tr><tr><td>Reference</td><td>Book 14 Hadith 5</td></tr></tbody></table></div>
 

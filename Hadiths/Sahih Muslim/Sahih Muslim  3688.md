@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : "L'Envoyé de Dieu (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib]. Yahya mengatakan; Telah mengabarkan kepada kami, sedangkan keduanya mengatakan; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Muslim] dari [Masruq] dari ['Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah memberikan pilihan kepada kami, namun kami tetap meimlih (bersama beliau) dan beliau tidak menghitungnya sebagai talak atas kami." Dan telah menceritakan kepadaku [Abu Ar Rabi' Az Zahrani] telah menceritakan kepada kami [Isma'il bin Zakariya'] telah menceritakan kepada kami [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] dan dari [Al A'masy] dari [Muslim] dari [Masruq] dari [Aisyah] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3688</td></tr><tr><td>Arabic No</td><td>1477.05</td></tr><tr><td>Reference</td><td>Book 18 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3688</td></tr><tr><td>Arabic No</td><td>1477.05</td></tr><tr><td>Reference</td><td>Book 18 Hadith 37</td></tr></tbody></table></div>
 

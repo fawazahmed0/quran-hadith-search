@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:O people, Allah is Good a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Kuraib Muhammad bin Al Ala'] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Fudlail bin Marzuq] telah menceritakan kepadaku [Adi bin Tsabit] dari [Abu Hazim] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai sekalian manusia, sesungguhnya Allah itu baik. Dia tidak akan menerima sesuatu melainkan yang baik pula. Dan sesungguhnya Allah telah memerintahkan kepada orang-orang mukmin seperti yang diperintahkan-Nya kepada para Rasul. Firman-Nya: 'Wahai para Rasul! Makanlah makanan yang baik-baik (halal) dan kerjakanlah amal shalih. Sesungguhnya Aku Maha Mengetahui apa yang kamu kerjakan.' Dan Allah juga berfirman: 'Wahai orang-orang yang beriman! Makanlah rezeki yang baik-baik yang Telah menceritakan kepada kami telah kami rezekikan kepadamu.'" Kemudian Nabi shallallahu 'alaihi wasallam menceritakan tentang seroang laki-laki yang telah lama berjalan karena jauhnya jarak yang ditempuhnya. Sehingga rambutnya kusut, masai dan berdebu. Orang itu mengangkat tangannya ke langit seraya berdo'a: "Wahai Tuhanku, wahai Tuhanku." Padahal, makanannya dari barang yang haram, minumannya dari yang haram, pakaiannya dari yang haram dan diberi makan dengan makanan yang haram, maka bagaimanakah Allah akan memperkenankan do'anya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2346</td></tr><tr><td>Arabic No</td><td>1015</td></tr><tr><td>Reference</td><td>Book 12 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ сказал: «О люди, поистине, Аллах благой, и Он не принимает ничего, кроме благого, и, поистине, Аллах повелел верующим то же, что и посланникам, и Он сказал: “О посланники! Вкушайте благое и совершайте праведные дела. Мне известно о том, что вы совершаете” (Сура «аль-Муъминун», аят 51). Он также сказал: “О те, кто уверовал! Вкушайте (то) благое, чем Мы наделили вас” (Сура «аль-Бакара», аят 172)». (Абу Хурайра сказал): «А потом (Пророк ﷺ) упомянул о покрытом пылью человеке с всклокоченными волосами, который уже долго находится в пути и воздевает руки к небу, (повторяя слова) “О Господь мой!”, (и сказал): “(Однако) пища его запретна, и питьё его запретно, и одежда его запретна, и кормили его запретным, так может ли быть дан ответ (на его мольбу)?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2346</td></tr><tr><td>Arabic No</td><td>1015</td></tr><tr><td>Reference</td><td>Book 12 Hadith 83</td></tr></tbody></table></div>
 

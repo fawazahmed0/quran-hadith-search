@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ See hadith
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'd bin Hafsh] Telah menceritakan kepada kami [Syaiban] dari [Yahya] ia berkata; Telah mengabarkan kepadaku [Abu Salamah] ia berkata; Seorang laki-laki datang kepada Ibnu Abbas sementara Abu Hurairah sedang duduk. Laki-laki itu berkata, "Berilah fatwa kepadaku, terhadap seorang wanita yang melahirkan setelah kematian suaminya selang empat puluh malam." Maka [Ibnu Abbas] berkata, "Masa Iddahnya adalah batasan yang paling terakhir (maksudnya empat bulan sepuluh hari, meskipun ia melahirkan sebelum itu)." [Abu Hurairah] berkata; "Kalau aku, maka aku sependapat dengan anak saudaraku, yakni Abu Salamah." Lalu Ibnu Abbas mengutus pembantunya, [Kuraib], kepada [Ummu Salamah] untuk bertanya kepadanya. Ummu Salamah menjawab, "Ketika suami Subai'ah Al Aslamiyyah meninggal sementara ia dalam keadaan hamil, lalu melahirkan setelah kematian suaminya selang empat puluh malam. Ia kemudian dikhithbah, dan Rasulullah shallallahu 'alaihi wasallam menikahinya. Abu As Sanabil adalah termasuk salah seorang yang mengkhithbahnya. Dan [Sulaiman bin Harb] dan [Abu Nu'man] berkata; Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Muhammad] ia berkata; Suatu ketika, aku berada dalam halaqah, dan disitu terdapat Abdurrahman bin Abu Laila, sedangkan para sahabatnya mengagungkannya. Mereka mengadukan permasalahan itu, lalu ia menyebutkan bahwa masa iddahnya adalah yang paling terakhir habis (maksudnya empat bulan sepuluh hari, meskipun ia melahirkan sebelum itu). Maka aku pun menceritakan hadits dengan hadits [Subai'ah binti Al Harits] dari [Abdullah bin Utbah]. Akhirnya sebagian sahabatnya mengerutkan dahi padaku. Muhammad berkata; Aku pun mengerti apa maksudnya. Kukatakan, "Kalau begitu, aku adalah seorang yang nekat, bila aku berdusta atas nama Abdullah bin Utbah. Sekarang ia berada di Kufah. Maka keduanya pun malu dan berkata, "Akan tetapi pamannya, tidak berkata demikian." Kemudian aku menemui [Abu 'Athiyyah Malik bin Amir] dan bertanya padanya, lalu ia pun menceritakan kepadaku hadits [Subai'ah]. Aku bertanya padanya, "Apakah Anda mendengar sesuatu tentangnya dari Abdullah?" Ia menjawab, "Suatu ketika, kami berada di sisi [Abdullah], dan ia pun berkata, 'Apakah kalian akan memberatkan wanita itu, dan kalian tidak memberikan rukhshah untuknya?. Sungguh, surat An Nisa yang pendek itu turun setelah surat Albaqarah yang panjang. 'Bahwa wanita-wanita yang hamil, maka masa iddah mereka adalah ketika mereka melahirkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4910</td></tr><tr><td>Arabic No</td><td>4910</td></tr><tr><td>Reference</td><td>Book 65 Hadith 430</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад рассказывал: «Однажды я сидел на собрании, на котором присутствовал ‘Абдуррахман ибн Аби Лейля и его товарищи, которые возвеличивали его. Они упомянули (беременную, которая рожает после смерти мужа), и я упомянул хадис ‘Абдуллаха ибн ‘Утбы о Субай‘и бинт аль-Харис, но некоторые его товарищи указали мне, чтобы я замолчал. Я понял его и сказал: “Я слишком храбр, если скажу неправду о ‘Абдуллахе ибн ‘Утбе, который сейчас находится в Куфе”. Тогда тот человек, (который указал мне, чтобы замолчал,) постыдился, а ‘Абдуррахман ибн Аби Лейля сказал: “Но его дядя так не говорил”. Затем я встретил Абу ‘Атыю Малика ибн ‘Амира и спросил его об этом. Он рассказал мне хадис Субай‘и, и я спросил: “Слышал ли ты об этом что-нибудь от ‘Абдуллаха?” Он ответил: “Однажды мы были у ‘Абдуллаха, и он сказал: “Почему вы проявляете к ней суровое постановление, а не облегчение?! Более короткая сура о женщинах (то есть сура “ат-Талак”) была ниспослана после более длинной суры (то есть сура “аль-Бакара”) “…Для беременных срок установлен до тех пор, пока они не разрешатся от бремени”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4910</td></tr><tr><td>Arabic No</td><td>4910</td></tr><tr><td>Reference</td><td>Book 65 Hadith 430</td></tr></tbody></table></div>
 

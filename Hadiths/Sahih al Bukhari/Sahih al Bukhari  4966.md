@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bishr:Sa'id bin Jubair said that Ibn 'Abbas said about Al-Kauthar. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] Telah menceritakan kepada kami [Husyaim] Telah menceritakan kepada kami [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, bahwa ia berkata terkait dengan firman Allah: "AL KAUTSAR." Ia menjelaskan, "Itu adalah kebaikan yang diberikan Allah kepadanya." Abu Bisyr berkata; Aku berkata kepada Sa'id bin Jubair, "Namun orang-orang menganggap bahwa hal itu adalah sungai yang ada di surga." Maka Sa'id pun berkata, "Sungai yang ada di dalam surga, juga merupakan kebaikan yang diberikan Allah pada beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4966</td></tr><tr><td>Arabic No</td><td>4966</td></tr><tr><td>Reference</td><td>Book 65 Hadith 488</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бишр передал от Са‘ида ибн Джубейра, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о аль-Каусаре: «Это благо, которое Аллах даровал ему (Пророку ﷺ)».\nАбу Бишр сказал: «Я сказал Са‘иду ибн Джубейру: “Но люди утверждают, что это река в Раю”. Са’ид ответил: “Река в Раю — это часть блага, которое Аллах даровал ему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4966</td></tr><tr><td>Arabic No</td><td>4966</td></tr><tr><td>Reference</td><td>Book 65 Hadith 488</td></tr></tbody></table></div>
 

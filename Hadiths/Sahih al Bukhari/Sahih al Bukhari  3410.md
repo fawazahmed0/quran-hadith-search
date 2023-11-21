@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) once came to us and said, "All the nations
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Hushain bin Numair] dari [Hushain bin 'Abdur Rahman] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Pada suatu hari Nabi shallallahu 'alaihi wasallam menemui kami lalu bersabda: "Telah ditampakkan kepadaku ummat-ummat dan aku melihat ada kumpulan warna hitam yang sangat banyak menutupi ufuq lalu dikatakan "Inilah Nabi Musa 'Alaihissalam beserta kaumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>3410</td></tr><tr><td>Reference</td><td>Book 60 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Однажды) Пророк ﷺ вышел к нам и сказал: “Мне были показаны (все) народы. Я увидел много людей, закрывших собой горизонт, и мне было сказано: “Это Муса и народ его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>3410</td></tr><tr><td>Reference</td><td>Book 60 Hadith 83</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mujahid said:'Umra' means that a man says to another man: It belongs to you so l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Al Jarrah] dari ['Ubaidullah bin Musa] dari [Utsman bin Al Aswad] dari [Mujahid] ia berkata, "Umra adalah seseorang berkata kepada orang lain, 'Sesuatu tersebut untukmu selama engkau hidup. ' Maka apabila ia mengucapkan hal tersebut sesuatu tersebut miliknya dan milik para pewarisnya. Ruqba adalah seseorang berkata, 'Sesuatu tersebut milik orang yang meninggalnya paling akhir antara aku dan kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3560</td></tr><tr><td>Arabic No</td><td>3560</td></tr><tr><td>Reference</td><td>Book 24 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Муджахид сказал: «‘Умра это когда один человек дарит что-то другому, говоря при этом: “Это принадлежит тебе до конца твоей жизни”. Если он сказал это, этот подарок принадлежит тому, кому он был подарен, и его наследникам. А рукба это когда один человек дарит что-то другому и говорит: “В конце концов это достанется тому из нас, кто переживёт другого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3560</td></tr><tr><td>Arabic No</td><td>3560</td></tr><tr><td>Reference</td><td>Book 24 Hadith 145</td></tr></tbody></table></div>
 

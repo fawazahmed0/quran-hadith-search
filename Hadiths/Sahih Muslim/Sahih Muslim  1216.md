@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sahl Ibn Sa'd (que Dieu l'agrée), Un groupe d'hommes qui se disputaien
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Sa'id] keduanya meriwayatkan dari [Abdul Aziz] berkata [Yahya], telah mengabarkan kepada kami [Abdul Aziz bin Abi Hazim] dari [Bapaknya] "Bahwa sejumlah orang datang kepada [Sahl bin Sa'd] karena mereka bertengkar mengenai mimbar Rasulullah Shallallahu'alaihiwasallam terbuat dari kayu apakah mimbar itu? Sahal menjawab, 'Demi Allah, aku tahu betul dari kayu apa mimbar itu dibuat, siapa yang membuatnya, bahkan aku melihat Rasulullah shallallahu'alaihiwasallam duduk di situ pada hari pertama mimbar itu selesai dibuat.' Kata Abu Hazim, 'Hai Abu Abbas (Sahl)! Ceritakanlah kepada kami! ' Lalu Sahal bercerita, 'Pada suatu hari Rasulullah shallallahu'alaihiwasallam menyuruh (untuk memanggil) seorang perempuan -Abu Hazim berkata, 'Beliau menyebutkan namanya pada waktu itu'.- lalu beliau bersabda kepadanya, 'Suruhlah anakmu yang tukang kayu itu membuatkan sebuah mimbar kayu untuk tempatku berpidato kepada orang-orang'. Maka dia membuat tiga tingkat ini. Kemudian Rasulullah memerintahkan supaya meletakkan mimbar itu di tempat ini. Mimbar itu terbuat dari kayu hutan. Aku melihat Rasulullah shallallahu'alaihiwasallam shalat di atas mimbar itu. Lalu beliau bertakbir, maka orang-orang pun bertakbir pula di belakangnya, sedangkan beliau masih di atas mimbar. Kemudian beliau bangkit dari rukuk, lalu turun sambil mundur sehingga beliau sujud di kaki mimbar. Kemudian beliau kembali pula ke atas mimbar hingga selesai shalat. Sesudah itu beliau menghadap kepada orang-orang lalu bersabda, 'Wahai sekalian manusia, aku melalukan ini supaya kalian semua mengikutiku, dan supaya kalian belajar cara shalatku'." Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub bin Abdurrahman bin Muhammad bin Abdullah bin Abdul Qari al-Qurasyi] telah menceritakan kepadaku [Abu Hazim] bahwa beberapa laki-laki datang kepada [Sahl bin Sa'd] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb] serta [Ibnu Abi Umar] mereka berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Hazim] dia berkata, "Mereka mendatangi [Sahl bin Sa'ad], lalu mereka menanyakan kepadanya, 'Terbuat dari apa mimbar Nabi shallallahu 'alaihi wasallam, ' lalu mereka membawakan hadits tersebut semisal hadits Ibnu Abi Hazim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1216</td></tr><tr><td>Arabic No</td><td>544.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хазима, что (однажды) несколько человек, между которыми возник спор относительно того, из какого дерева был сделан минбар (Пророка ﷺ), пришли к Сахлю ибн Са‘ду (и спросили его об этом). (В ответ им) он сказал: «Клянусь Аллахом, поистине, я знаю, из какого дерева он был (сделан, и знаю), кто его сделал, и я видел Посланника Аллаха ﷺ в тот день, когда он впервые сел на него».(Абу Хазим) сказал: «Я попросил: “О Абуль-‘Аббас, так расскажи нам (об этом)”. (Тогда Сахль) сказал: “(В своё время) Посланник Аллаха ﷺ послал (человека) к одной женщине, (чтобы тот передал ей): “Вели своему рабу-плотнику сделать для меня из дерева (возвышение), с которого я буду обращаться к людям”, и тот сделал (этот минбар) с тремя ступенями. Потом Посланник Аллаха ﷺ велел, чтобы (минбар) установили на этом месте, а сделан он был из тамариска, (который срубили в) аль-Габе. И я видел, как Посланник Аллаха ﷺ поднялся на (этот минбар) и произнёс слова “Аллах велик”, а вслед за ним такбир произнесли находившиеся позади него люди. Затем он (совершил поясной поклон) и выпрямился, после чего сошёл вниз, пятясь назад, и совершил у подножия минбара земной поклон, а затем (снова поднялся на минбар) и довёл молитву до конца. После этого он повернулся к людям и сказал: “О люди, поистине, я сделал это, чтобы вы следовали за мной и учились тому, как я совершаю молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1216</td></tr><tr><td>Arabic No</td><td>544.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 56</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: He said: He who sticks to a king i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya] dari [Sufyan], telah menceritakan kepadaku [Abu Musa] dari [Wahb bin Munabbih] dari [Ibnu Abbas], dari Nabi shallallahu 'alaihi wasallam, suatu kali Sufyan mengatakan; dan aku tidak mengetahuinya kecuali dari Nabi shallallahu 'alaihi wasallam, beliau berkata: "Barangsiapa yang tinggal di pelosok (pedalaman), maka ia akan menjadi keras, dan barangsiapa yang mengikuti hewan buruan maka ia akan lalai, dan barangsiapa yang datang kepada penguasa maka ia akan terkena fitnah." Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Muhammad bin 'Ubaid], telah menceritakan kepada kami [Al Hasan bin Al Hakam An Nakha'i], dari [Adi bin Tsabit] dari [seorang syekh dari kalangan anshor], dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan makna hadits Musaddad, beliau bersabda: "Barangsiapa yang terus menyertai penguasa, maka ia terfitnah." Ia menambahkan: "Dan tidaklah seorang hamba bertambah dekat kepada penguasa melainkan ia akan bertambah jauh dari Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2860</td></tr><tr><td>Arabic No</td><td>2860</td></tr><tr><td>Reference</td><td>Book 17 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+А в другой версии хадиса от Абу Хурайры, да будет доволен им Аллах, от Пророка ﷺ говорится: «Кто проводит много времени при правителе, тот подвергается искушениям», и в этой версии содержится добавление: «Чем ближе раб Аллаха к правителю, тем дальше он от Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2860</td></tr><tr><td>Arabic No</td><td>2860</td></tr><tr><td>Reference</td><td>Book 17 Hadith 17</td></tr></tbody></table></div>
 

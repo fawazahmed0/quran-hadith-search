@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "Allah has appointed an angel in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu an-Nu'man] telah bercerita kepada kami [Hammad bin Zaid] dari ['Ubaidullah bin Abu Bakr bin Anas] dari [Anas bin Malik radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah Ta'ala menugaskan satu malaikat dalam rahim seseorang. Malaikat itu berkata; "Wahai Rabb, sekarang baru sperma, wahai Rabb, segumpal darah, wahai Rabb (sekarang jadi) segumpal daging". Maka bila Allah menghendaki menciptakan janin itu, malaikat itu berkata; "Wahai Rabb, laki-laki, wahai Rabb (atau) perempuan, Wahai Rabb sengsara atau bahagia, bagaimana rezekinya, kapan ajalnya. Demikianlah ditulis ketetapannya selagi berada di dalam perut ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3333</td></tr><tr><td>Arabic No</td><td>3333</td></tr><tr><td>Reference</td><td>Book 60 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, Аллах приставляет к утробе ангела, который говорит: “О Господь, капля! О Господь, сгусток крови! О Господь, кусочек плоти!” Когда же (Аллах) желает завершить его сотворение, (ангел) спрашивает: “Мальчик или девочка? Несчастный или счастливый? Каков его удел и срок?” И (все это) записывается ещё в утробе его матери»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3333</td></tr><tr><td>Arabic No</td><td>3333</td></tr><tr><td>Reference</td><td>Book 60 Hadith 8</td></tr></tbody></table></div>
 

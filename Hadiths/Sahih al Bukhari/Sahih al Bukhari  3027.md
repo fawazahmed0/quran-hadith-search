@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Khosrau will be ruined, and there 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami ['Abdur Rozzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: " Kisro (Raja Persia) akan hancur dan tidak akan ada lagi Kisro setelah itu. Sedangkan Qoishor (Raja Romawi) pasti akan hancur dan tidak ada lagi Qoishor setelah itu. Dan sungguh kalian akan mambagi-bagikan perbendaharaan kekayaan mereka di jalan Allah". Dan Beliau mengistilahkan perang adalah tipu daya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Погибнет хосрой, и не будет другого хосроя после него, и обязательно погибнет император, и не будет императора после него, а их сокровища непременно будут поделены на пути Аллаха
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

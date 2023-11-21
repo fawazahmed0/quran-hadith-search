@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah bin Yahya] dan lafazh ini miliknya Abu Ath Thahir keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus]. [Ibnu Syihab] berkata; Telah menceritakan kepadaku [Abu Salamah bin 'Abdur Rahman] dari [Abu Hurairah]; "Ketika Rasulullah menyabdakan: 'Tidak ada penyakit yang menular secara sendirian, tidak ada Shafar (kematian di karenakan penyakit cacing perut) yang terjadi dengan sendirinya, dan tidak ada hantu yang gentayangan, maka seorang 'Arab dusun bertanya; 'Ya, Rasulullah! Bagaimana seandainya sekelompok unta yang sehat di padang pasir, kemudian didatangi oleh seekor unta kudisan, kemudian unta yang sehat itu kudisan pula semuanya? ' Jawab Rasulullah shallallahu 'alaihi wasallam, 'Siapakah penular yang pertama-tama? ' Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Hasan Al Hulwani] keduanya berkata; Telah menceritakan kepada kami [Ya'qub] yaitu Ibnu Ibrahim bin Sa'ad Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu Syihab] Telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] dan yang lainnya, bahwa [Abu Hurairah] berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Tidak ada penyakit yang menular secara sendirian, tidak ada Shafar (kematian di karenakan penyakit cacing perut) yang terjadi secara sendirian,, dan tidak ada hantu yang gentayangan, maka seorang 'Arab dusun bertanya; 'Ya, Rasulullah! -dan seterusnya seperti Hadits Yunus.- Dan telah menceritakan kepadaku ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Abul Yaman] dari [Syu'aib] dari [Az Zuhri]; Telah mengabarkan kepadaku [Sinan bin Abu Sinan Ad Duali] bahwa [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: -sebagaimana Hadits Yunus dan Shalih- Dan dari [Syu'aib] dari [Az Zuhri] dia berkata; Telah menceritakan kepadaku [As Saib bin Yazid bin Ukhti Namir] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada penyakit yang menular secara sendirian, tidak ada Shafar (kematian di karenakan penyakit cacing perut) yang terjadi dengan sendirinya,, dan tidak ada hantu yang gentayangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5788</td></tr><tr><td>Arabic No</td><td>2220.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5788</td></tr><tr><td>Arabic No</td><td>2220.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 140</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said :A man came to the prophet (May peace be upon him) complaining
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Nafi' Abu Taubah] berkata, telah menceritakan kepada kami [Sulaiman bin Hayyan] dari [Muhammad bin Ajlan] dari [Bapaknya] dari [Abu Hurairah] ia berkata, "Seorang laki-laki datang kepada nabi shallallahu 'alaihi wasallam mengadukan tetangganya. Beliau lalu bersabda: "Hendaklah engkau pergi dan bersabarlah." Laki-laki itu kembali mendatangi nabi shallallahu 'alaihi wasallam hingga dua atau tiga kali, beliau pun bersabda: "Pergilah, dan buanglah semua perabotmu ke jalan." Laki-laki itu kemudian membuang semua perabotnya ke jalan, hingga orang-orang bertanya kepadanya. Ia lalu mengabarkan kepada mereka tentang nasib yang dialaminya hingga mereka melaknat tentangganya tersebut dengan lakanat "Allah Akan melakukan hukuman kepadanya, dan menimpakan keburukan". Kemudian tetangga itu mendatangi laki-laki tersebut dan berkata, "Kembalilah pulang, engkau tidak akan lagi melihat sesuatu yang engkau benci dariku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5153</td></tr><tr><td>Arabic No</td><td>5153</td></tr><tr><td>Reference</td><td>Book 43 Hadith 381</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5153</td></tr><tr><td>Arabic No</td><td>5153</td></tr><tr><td>Reference</td><td>Book 43 Hadith 381</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Adam and Moses argued with e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] telah bercerita kepada kami [Ibrahim bin Sa'ad] dari [Ibnu Syihab] dari [Humaid bin 'Abdur Rahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bercerita: "Nabi Adam dan Nabi Musa berdebat. Nabi Musa berkata kepada Adam: "Kamu adalah Adam yang dosa-dosamu telah mengeluarkan kamu dari surga". Nabi Adam membalas; "Kamu Musa yang telah Allah pilih dengan risalah (ajaran) -Nya dan dengan kalimat (firman) - Nya lalu kamu menyalahkan aku atas urusan yang telah ditakdirkan atasku sebelum aku diciptakan". Maka kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Nabi Adam telah mengalahkan Musa (dalam perdebatan) dua kali" (dengan dua hujjah yang tegas)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3409</td></tr><tr><td>Arabic No</td><td>3409</td></tr><tr><td>Reference</td><td>Book 60 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «(Однажды) Адам и Муса препирались между собой, и Муса сказал: “Ты — Адам, чьё ослушание вывело тебя из Рая”. Адам сказал ему: “Ты — Муса, которого Аллах избрал со Своим посланием, говорил (с тобой), а теперь ты порицаешь меня за дело, которое было предопределено для меня до того, как я был создан?”». Посланник Аллаха ﷺ сказал: «Так Адам переспорил Мусу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3409</td></tr><tr><td>Arabic No</td><td>3409</td></tr><tr><td>Reference</td><td>Book 60 Hadith 82</td></tr></tbody></table></div>
 

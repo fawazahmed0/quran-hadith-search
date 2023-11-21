@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of the Messenger of Allah (ﷺ), reported:The believing women o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] bahwa [Ibnu Syihab] mengabarkan kepadanya, dia berkata; telah menceritakan kepadaku ['Urwah biun Zubair], bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam berkata; "Dahulu para wanita mukminat menghadiri shalat fajar (subuh) bersama Rasulullah shallallahu 'alaihi wasallam dengan mengerudungi kepala dengan kain, kemudian mereka kembali ke rumah masing-masing, mereka tidak dikenal karena Rasulullah shallallahu 'alaihi wasallam mendirikan shalat subuh ketika keadaan masih pagi buta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1458</td></tr><tr><td>Arabic No</td><td>645.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 291</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Урвы, что ‘Аиша, жена Пророка ﷺ, сказала: «Верующие женщины (часто) присутствовали на утренней молитве (в мечети) с Посланником Аллаха ﷺ, завернувшись в свои плащи. Затем, (после окончания молитвы) они возвращались к себе домой, и никто не мог их узнать из-за того, что Посланник Аллаха ﷺ совершал эту молитву в предрассветном сумраке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1458</td></tr><tr><td>Arabic No</td><td>645.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 291</td></tr></tbody></table></div>
 

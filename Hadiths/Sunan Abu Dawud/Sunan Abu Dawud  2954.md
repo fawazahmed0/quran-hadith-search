@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: I am nearer to the believer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari [Ja'far] dari [ayahnya], dari [Jabir bin Abdullah], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkata: "Aku adalah orang yang lebih utama (lebih berhak) terhadap orang-orang mukmin daripada diri mereka sendiri, barangsiapa yang meninggalkan harta maka untuk keluarganya, dan barangsiapa yang meninggalkan hutang dan keluarga maka kembalinya kepadaku dan menjadi tanggunganku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2954</td></tr><tr><td>Arabic No</td><td>2954</td></tr><tr><td>Reference</td><td>Book 20 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Я ближе к верующим, чем они сами, и если кто-то оставил какое-то имущество, оно должно достаться его семье, а если кто-то оставил долг или нуждающихся в заботе, то с этим следует обращаться ко мне, ибо это моё дело»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2954</td></tr><tr><td>Arabic No</td><td>2954</td></tr><tr><td>Reference</td><td>Book 20 Hadith 27</td></tr></tbody></table></div>
 

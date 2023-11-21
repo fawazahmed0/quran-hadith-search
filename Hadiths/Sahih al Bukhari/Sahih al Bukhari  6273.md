@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:Allah's Messenger (ﷺ) said, "Shall I inform you of the bigg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6273</td></tr><tr><td>Arabic No</td><td>6273</td></tr><tr><td>Reference</td><td>Book 79 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, сказал:\n— (Однажды) Посланник Аллаха ﷺ спросил (людей): «Не сообщить ли вам о (том, какие) грехи являются наиболее тяжкими?» Они сказали: «Конечно, о Посланник Аллаха!» (Тогда) он сказал: «(Это —) поклонение другим наряду с Аллахом и непочтительность по отношению к родителям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6273</td></tr><tr><td>Arabic No</td><td>6273</td></tr><tr><td>Reference</td><td>Book 79 Hadith 47</td></tr></tbody></table></div>
 

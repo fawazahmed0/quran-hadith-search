@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The one who commits an illegal sex
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Al A'masy] dari [Dzakwan] dari [Abu Hurairah] mengatakan, Nabi Shallallahu'alaihiwasallam bersabda: Tidaklah berzina orang yang berzina ketika ia berzina dalam keadaan beriman, dan tidaklah mencuri orang yang mencuri ketika ia mencuri dalam keadaan beriman, tidaklah ia meminum khamr ketika meminumnya dan ia dalam keadaan beriman, dan taubat terhampar setelah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6810</td></tr><tr><td>Arabic No</td><td>6810</td></tr><tr><td>Reference</td><td>Book 86 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Пророк ﷺ сказал: «Не совершает прелюбодей прелюбодеяния, будучи верующим, и не совершает вор кражи, будучи верующим, и не пьёт человек вина, будучи верующим, однако у него есть возможность покаяться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6810</td></tr><tr><td>Arabic No</td><td>6810</td></tr><tr><td>Reference</td><td>Book 86 Hadith 39</td></tr></tbody></table></div>
 

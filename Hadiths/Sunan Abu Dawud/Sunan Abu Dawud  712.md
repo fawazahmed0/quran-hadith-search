@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] dia berkata; saya mendengar [Al Qasim] bercerita dari [Aisyah] dia berkata; alangkah jeleknya kalian yang menyetarakan kami dengan keledai dan anjing, sungguh aku telah melihat Rasulullah mengerjakan shalat sedangkan saya melintang antara diri beliau dengan kiblat, apabila beliau hendak sujud, beliau meraba kakiku, sebab itu aku menarik kakiku lalu beliau sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (519)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>712</td></tr><tr><td>Arabic No</td><td>712</td></tr><tr><td>Reference</td><td>Book 2 Hadith 322</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Плохо то, что вы уподобляете нас (женщин) ослам и собакам, ибо я видела, как Посланник Аллаха ﷺ совершал молитву, а я лежала поперёк перед ним. И когда он хотел совершить земной поклон, он касался моих ног, а я сгибала их, после чего он склонялся в земном поклоне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (519)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>712</td></tr><tr><td>Arabic No</td><td>712</td></tr><tr><td>Reference</td><td>Book 2 Hadith 322</td></tr></tbody></table></div>
 

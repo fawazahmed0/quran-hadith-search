@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Talq ibn Ali al-Yamami: The Messenger of Allah (ﷺ) said: Eat and drin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Mulazim bin 'Amr] dari [Abdullah bin An Nu'man], telah menceritakan kepadaku [Qais bin Thalq] dari [ayahnya], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Makan dan minumlah dan janganlah menghalangi kalian sinar yang tinggi (yakni, terangnya fajar kadzib). Makan dan minumlah hingga nampak bagi kalian warna merah." Abu Daud berkata; ini adalah diantara yang hanya diriwayatkan oleh penduduk Al Yamamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2348</td></tr><tr><td>Arabic No</td><td>2348</td></tr><tr><td>Reference</td><td>Book 14 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Кайс ибн Тальк передаёт от своего отца, что Посланник Аллаха ﷺ сказал: «Ешьте и пейте, и пусть вас не останавливает поднимающаяся белизна. Ешьте и пейте, пока не увидите красноту»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2348</td></tr><tr><td>Arabic No</td><td>2348</td></tr><tr><td>Reference</td><td>Book 14 Hadith 36</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Thursday! And how great that Thursday was! The ailment of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Sufyan] dari [Sulaiman Al Ahwal] dari [Sa'id bin Jubair] dia berkata; [Ibnu Abbas] berkata; "Ingatkan kalian hari kamis, dan ingatkan kalian hari kamis itu?" "Pada hari tersebut sakit Rasulullah shallallahu 'alaihi wasallam semakin parah, lalu beliau berkata: "Kemarilah, aku tuliskan untuk kalian sebuah surat, sehingga kalian tidak akan tersesat setelahnya selamanya." Namun mereka berselisih, padahal tidak pantas ada yang berselisih di dekat seorang Nabi. Mereka berkata; "Bagaimana keadaan beliau, apakah beliau mengigau? hendaknya kalian tanyakan kembali kepada beliau." lalu mereka pergi dan menyakannya kembali. Maka beliau bersabda: "Tinggalkan aku, keadaanku sekarang lebih baik dari pada apa yang kalian kira." Beliau mewasiatkan tiga hal, beliau bersabda: "Usirlah orang-orang musyrik dari Jazirah Arab, dan perlakukan utusan sebagaimana saya memperlakukan mereka." Tetapi Sa'id tidak menyebutkan wasiat yang ketiga, atau dia mengatakannya namun aku lupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4431</td></tr><tr><td>Arabic No</td><td>4431</td></tr><tr><td>Reference</td><td>Book 64 Hadith 453</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн ‘Аббас воскликнул: «Четверг! Что за день четверг! В четверг Посланнику Аллаха ﷺ стало совсем плохо, и он велел: “Принесите мне бумагу, и я запишу то, благодаря чему впоследствии вы никогда не собьётесь с пути”. (Люди, находившиеся у него,) принялись спорить, чего в присутствии пророков делать не следует, и они стали говорить: “Что с ним? Спросите его, он серьёзно болен!?” И стали спорить с ним. Тогда (Пророк ﷺ) сказал: “Оставьте меня, ибо состояние, в котором я сейчас нахожусь, лучше того, к чему вы меня призываете!” А перед смертью он завещал (своим сподвижникам) три вещи (, сказав): “Изгоните многобожников из Аравии и встречайте и одаривайте (прибывающие к вам) делегации так же, как это делал я”». \nПередатчик сказал: «Что же касается третьей (части завещания), то либо Ибн ‘Аббас не упомянул её, либо упомянул, но я забыл её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4431</td></tr><tr><td>Arabic No</td><td>4431</td></tr><tr><td>Reference</td><td>Book 64 Hadith 453</td></tr></tbody></table></div>
 

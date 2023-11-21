@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: A woman was my wife and I loved her, but Umar hated 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Ibnu Abu Dzi'b] ia berkata; telah menceritakan kepadaku pamanku [Al Harits] dari [Hamzah bin Abdulllah bin Umar] dari [Bapaknya] ia berkata, "Aku mempunyai seorang isteri yang sangat aku cintai, akan tetapi Umar tidak menyukainya. Lalu ia berkata kepadaku, "Ceraikanlah ia." Tetapi aku menolaknya hingga ia datang menemui Nabi shallallahu 'alaihi wasallam dan menceritakan hal itu kepada beliau. Nabi shallallahu 'alaihi wasallam kemudian bersabda: "Ceraikanlah ia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5138</td></tr><tr><td>Arabic No</td><td>5138</td></tr><tr><td>Reference</td><td>Book 43 Hadith 366</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Умар, да будет доволен Аллах ими обоими, сказал: (В своё время) у меня была жена, которую я любил, но которая не нравилась Умару, да будет доволен им Аллах. В конце концов он сказал мне: «Разведись с ней!», но я отказался, и тогда Умар, да будет доволен им Аллах, пришёл к Пророку ﷺ рассказал ему обо всём и Пророк ﷺ сказал: «Разведись с ней!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5138</td></tr><tr><td>Arabic No</td><td>5138</td></tr><tr><td>Reference</td><td>Book 43 Hadith 366</td></tr></tbody></table></div>
 

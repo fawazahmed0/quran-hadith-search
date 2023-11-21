@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba: I helped the Prophet (ﷺ) in performing ablutio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Al A'masy] dari [Muslim] dari [Masruq] dari [Al Mughirah bin Syu'bah] berkata, "Aku memberi air wudlu kepada Nabi shallallahu 'alaihi wasallam, beliau lalu mengusap kedua sepatunya dan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>388</td></tr><tr><td>Reference</td><td>Book 8 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Мугъира ибн Шу‘ба, что он сказал: «Я помог совершить омовение Пророку ﷺ и он протер свои кожаные носки и совершил молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>388</td></tr><tr><td>Reference</td><td>Book 8 Hadith 40</td></tr></tbody></table></div>
 

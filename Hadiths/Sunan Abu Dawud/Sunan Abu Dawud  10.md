@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ma'qil ibn AbuMa'qil al-Asadi: The Messenger of Allah (ﷺ) has forbidd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami ['Amru bin Yahya] dari [Abu Zaid] dari [Abu Ma'qil Al Asadi] dia berkata; Rasulullah shallallahu 'alaihi wasallam melarang kita menghadap dua kiblat (Makkah dan Baitul Maqdis) pada saat buang air besar atau buang air kecil. Abu Dawud mengatakan; Abu Zaid adalah mantan sahaya Bani Tsa'labah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Arabic No</td><td>10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ма‘къиль ибн Абу Ма‘къиль аль-Асади сказал: «Посланник Аллаха ﷺ запретил нам поворачиваться в сторону двух къиблов во время справления малой (мочеиспускания) и большой (испражнении) нужды».Абу Дауд сказал: «Абу Зейд (один из передатчиков этого хадиса) был вольноотпущенником Бану Са‘ляба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Arabic No</td><td>10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 10</td></tr></tbody></table></div>
 

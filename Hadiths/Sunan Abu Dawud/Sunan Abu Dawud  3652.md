@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jundub: The Prophet (ﷺ) said: If anyone interprets the Book of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad bin Yahya] telah menceritakan kepadaku [Ya'qub bin Ishaq Al Muqri' Al Hadlrami] telah menceritakan kepada kami [Suhail bin Mihran] saudara Hazm Al Qutha'I, telah menceritakan kepada kami [Abu 'Imran] dari [Jundub] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berbicara tentang Kitabullah 'azza wajalla menggunakan pendapatnya, meskipun benar maka ia telah salah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>3652</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джундуба, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто сказал о Книге Всемогущего и Великого Аллаха по своему мнению и оказался прав, тот всё равно ошибся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>3652</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
 

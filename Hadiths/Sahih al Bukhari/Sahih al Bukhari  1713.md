@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ziyad bin Jubair:I saw Ibn 'Umar passing by a man who had made his Bada
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Yunus] dari [Ziyad bin Jubair] berkata: Aku melihat [Ibnu 'Umar radliallahu 'anhu] mendatangi seseorang yang tengah membaringkan unta yang akan disembelihnya lalu berkata: "Jadikanlah dia dalam keadaan berdiri dan terikat sebagai sunnah Muhammad Shallallahu'alaihiwasallam". Dan berkata, [Syu'bah] dari [Yunus] telah mengabarkan kepada saya [Ziyad]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1713</td></tr><tr><td>Arabic No</td><td>1713</td></tr><tr><td>Reference</td><td>Book 25 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Ибн ‘Умар, да будет доволен Аллах ими обоими, подошёл к человеку, поставившему на колени своего верблюда, чтобы принести его в жертву, и сказал (ему): «Поставь его на ноги и стреножь, (ибо так поступал и) Мухаммад ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1713</td></tr><tr><td>Arabic No</td><td>1713</td></tr><tr><td>Reference</td><td>Book 25 Hadith 191</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), L'Envoyé de Dieu (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ibrahim Ad Dauraqi] telah menceritakan kepada kami [Abdus Shamad] -yaitu Ibnu Abdul Warits- telah menceritakan kepada kami [Harb] -yaitu Ibnu Syaddad- telah menceritakan kepada kami [Yahya] -yaitu Ibnu Abu Katsir- dari [Muhammad bin Ibrahim] bahwa [Abu Salamah] telah menceritakan kepadanya, bahwa antara dia dengan kaumnya terjadi persengketaan mengenai sebidang tanah, lalu dia menemui Aisyah dan mengemukakan hal itu kepadanya. [Aisyah] lalu berkata, "Wahai Abu Salamah, jauhilah tanah sengketa tersebut, sesungguhnya Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Barangsiapa mengambil sejengkal tanah secara zhalim, maka Allah akan menghimpitnya dengan tujuh lapis tanah (bumi)." Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah menceritakan kepada kami [Habban bin Hilal] telah mengabarkan kepada kami [Aban] telah menceritakan kepada kami [Yahya] bahwa [Muhammad bin Ibrahim] menceritakan bahwa [Abu Salamah] menemui [Aisyah] … kemudian dia menyebutkan hadits seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4137</td></tr><tr><td>Arabic No</td><td>1612.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4137</td></tr><tr><td>Arabic No</td><td>1612.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 176</td></tr></tbody></table></div>
 

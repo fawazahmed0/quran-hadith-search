@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Zubair reported that he saw Jabir b. 'Abdullah praying in a single garment c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] bahwa [Abu az-Zubair al-Makki] telah menceritakan kepadanya bahwasanya dia melihat [Jabir bin Abdullah] shalat dengan mengenakan satu kain dengan cara dibalutkan, dan di sampingnya ada bajunya." Jabir berkata, "Dia melihat Rasulullah Shallallahu'alaihiwasallam melakukan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1158</td></tr><tr><td>Arabic No</td><td>518.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 320</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу аз-Зубайр аль-Макки рассказал, что он видел, как Джабир ибн ‘Абдуллах молился, завернувшись в одну одежду, хотя у него была (и другая) одежда. И Джабир сказал, что он видел, как Посланник Аллаха ﷺ поступал так
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1158</td></tr><tr><td>Arabic No</td><td>518.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 320</td></tr></tbody></table></div>
 

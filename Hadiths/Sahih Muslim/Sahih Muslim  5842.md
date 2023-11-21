@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Umm Charîk (que Dieu soit satisfait d'elle), le Prophète (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid] dan [Ishaq bin Ibrahim] serta [Ibnu Abu 'Umar]. [Ishaq] berkata; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Abdul Hamid bin Jubair bin Syaibah] dari [Sa'id bin Al Musayyab] dari [Ummu Syarik] bahwa Nabi shallallahu 'alaihi wasallam menyuruhnya supaya membunuh semua cecak. Sedangkan di dalam Hadits Ibnu Abu Syaibah menggunakana lafazh 'Amara' (menyuruh) saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5842</td></tr><tr><td>Arabic No</td><td>2237.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умм Шарийк о том, что Пророк ﷺ велел ей убивать ящериц.В хадисе Ибн Абу Шейбы (сказано) «… он велел»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5842</td></tr><tr><td>Arabic No</td><td>2237.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 193</td></tr></tbody></table></div>
 

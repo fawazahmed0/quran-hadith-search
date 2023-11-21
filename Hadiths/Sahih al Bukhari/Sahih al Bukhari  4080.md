@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) used to shroud two martyrs 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Abdurrahman bin Ka'b bin Malik] bahwa [Jabir bin Abdullah] radliallahu 'anhuma telah mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam menggabungkan (menghimpun) dua orang yang gugur pada perang Uhud dalam satu kain, kemudian beliau bersabda: "Manakah diantara keduanya yang paling banyak hapalan Al Qur'an?" ketika diisyaratkan kepada salah satu dari keduanya, beliau mendahulukannya ketika memasukkan kedalam lahd, beliau bersabda: "Aku adalah saksi atas mereka." Dan beliau menyuruh mereka untuk menguburkan mereka dengan darah yang ada pada diri mereka, mereka tidak dishalatkan dan tidak dimandikan. [Abu Al Walid] mengatakan dari [Syu'bah] dari [Ibnu Al Munkadir] dia berkata, aku mendengar [Jabir bin Abdullah] dia berkata, "Dihari dibunuhnya ayahku, aku pun menangis sambil menyingkap kain diwajahnya, sementara para sahabat Nabi shallallahu 'alaihi wasallam melarangku, namun Nabi shallallahu 'alaihi wasallam tidak melarangku, Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kamu menangisinya -atau kenapa kamu menangisinya? - Para malaikat senantiasa menaungi dengan sayapnya hingga (ruhnya) diangkat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4080</td></tr><tr><td>Arabic No</td><td>4080</td></tr><tr><td>Reference</td><td>Book 64 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдиллях, сказал: «Когда мой отец был убит, я начал, плача, поднимать одежду с его лица. Сподвижники Пророка ﷺ стали запрещать мне делать это, однако Пророк ﷺ не запрещал, (а когда моя тётка Фатыма принялась рыдать), Пророк ﷺ сказал: “Не плачь, ведь ангелы продолжали укрывать его своими крыльями до тех пор, пока вы не унесли его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4080</td></tr><tr><td>Arabic No</td><td>4080</td></tr><tr><td>Reference</td><td>Book 64 Hadith 124</td></tr></tbody></table></div>
 

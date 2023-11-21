@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:Abu Hurairah narrated that a man came to the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris], Telah menceritakan kepada kami [Abdurrazzaq], Ibnu Yahya berkata; aku menulisnya dari bukunya, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Ubaidullah] dari [Ibnu Abbas], ia berkata; [Abu Hurairah] pernah menceritakan bahwa seorang laki-laki mendatangi Rasulullah shallallahu 'alaihi wasallam dan berkata; sesungguhnya semalam saya bermimpi…. Kemudian ia menyebutkan sebuah mimpi, lalu Abu Bakr menafsirkannya. Rasulullah shallallahu 'alaihi wasallam bersabda: "Engkau benar sebagian dan salah sebagian." Lalu Abu Bakr berkata; wahai Rasulullah, aku bersumpah atas dirimu. Sungguh anda akan menceritakan kepadaku kesalahan apakah yang aku lakukan. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Jangan engkau bersumpah!" telah menceritakan kepada kami [Muhammad bin Yahya bin Faris], telah mengabarkan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sulaiman bin Katsir] dari [Az Zuhri] dari ['Ubaidullah] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam dengan hadits, ia tidak menyebutkan sumpah tersebut dan pada hadits tersebut ia menambahkan kata; beliau tidak mengabarkan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7000) Sahih Muslim (2269)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3268</td></tr><tr><td>Arabic No</td><td>3268</td></tr><tr><td>Reference</td><td>Book 22 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+А в другой версии ‘Абду-р-Рахман ибн Самура, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Искупи свою клятву, а потом сделай то, что лучше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7000) Sahih Muslim (2269)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3268</td></tr><tr><td>Arabic No</td><td>3268</td></tr><tr><td>Reference</td><td>Book 22 Hadith 27</td></tr></tbody></table></div>
 

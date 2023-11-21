@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:That the Prophet (ﷺ) inspected him on the day of Uhud while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] dia berkata, telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma bahwa Nabi shallallahu 'alaihi wasallam pernah mendapatinya dalam barisan perang Uhud ketika berusia empat belas tahun, namun beliau tidak mengizinkannya, dan kemudian beliau kembali menemukannya dalam barisan perang Khandaq, ketika ia berusia lima belas tahun, beliau akhirnya mengizinkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4097</td></tr><tr><td>Arabic No</td><td>4097</td></tr><tr><td>Reference</td><td>Book 64 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что в день битвы при Ухуде, когда ему было четырнадцать лет, Пророк ﷺ, производивший смотр (своих сил, видел и) его, но не разрешил ему (принять участие в бою), а во время битвы у рва, когда ему уже исполнилось пятнадцать, (Пророк ﷺ также) произвёл смотр и (на этот раз) позволил ему (сражаться)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4097</td></tr><tr><td>Arabic No</td><td>4097</td></tr><tr><td>Reference</td><td>Book 64 Hadith 141</td></tr></tbody></table></div>
 

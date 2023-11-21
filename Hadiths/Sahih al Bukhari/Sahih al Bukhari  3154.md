@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:In our holy battles, we used to get honey and grapes, as war 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; "Dalam beberapa peperangan yang kami ikuti, kami pernah mendapatkan madu dan anggur lalu kami memakannya dan tidak melaporkannya (kepada Beliau Shallallahu'alaihiwasallam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3154</td></tr><tr><td>Arabic No</td><td>3154</td></tr><tr><td>Reference</td><td>Book 57 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Во время наших военных походов нам часто доставались мёд и виноград, которые мы употребляли в пищу, а не сохраняли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3154</td></tr><tr><td>Arabic No</td><td>3154</td></tr><tr><td>Reference</td><td>Book 57 Hadith 62</td></tr></tbody></table></div>
 

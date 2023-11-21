@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) I told Allah's Messenger (ﷺ) that Sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Abdullah bin Abu Bakar bin Muhammad bin 'Amru bin Hazm] dari [Bapaknya] dari ['Amrah binti 'Abdurrahman] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, ia berkata kepada Rasulullah shallallahu 'alaihi wasallam: "Wahai Rasulullah, Shafiyyah binti Huyai sedang haid?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Jangan-jangan dia menyusahkan kita! Apakah dia thawaf bersama kalian?" Mereka menjawab, "Ya." Beliau lalu bersabda (kepada Shafiyyah): "Ikutlah keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>328</td></tr><tr><td>Arabic No</td><td>328</td></tr><tr><td>Reference</td><td>Book 6 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, сказала Посланнику Аллаха ﷺ: «О Посланник Аллаха, у Сафиййи бинт Хуйайй начались месячные». Посланник Аллаха ﷺ сказал: «Она может задержать нас. Разве она не совершила обход вместе с вами?» (Люди) ответили: «Да», а он сказал: «Тогда уезжай»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>328</td></tr><tr><td>Arabic No</td><td>328</td></tr><tr><td>Reference</td><td>Book 6 Hadith 33</td></tr></tbody></table></div>
 

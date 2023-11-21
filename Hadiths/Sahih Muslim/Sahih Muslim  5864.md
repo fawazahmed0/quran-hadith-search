@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Allah, the Exalted and Gl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Abdu bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Al Musayyab] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah Azza wa Jalla berfirman: Anak Adam suka mencela-Ku. Katanya; 'Alangkah sialnya masa.' Karena itu janganlah kamu berkata demikian. Karena sesungguhnya Akulah pencipta masa. Akulah yang menggilir siang dan malamnya. Jika Aku mau, Aku kuasa menghentikan pergantian keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5864</td></tr><tr><td>Arabic No</td><td>2246.03</td></tr><tr><td>Reference</td><td>Book 40 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5864</td></tr><tr><td>Arabic No</td><td>2246.03</td></tr><tr><td>Reference</td><td>Book 40 Hadith 3</td></tr></tbody></table></div>
 

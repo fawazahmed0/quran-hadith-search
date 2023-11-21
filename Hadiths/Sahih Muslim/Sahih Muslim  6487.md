@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Do not revile my Companio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Abu Bakr bin Abu Syaibah] serta [Muhammad bin Al A'laa]. [Yahya] berkata; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Janganlah kalian mencaci maki para sahabatku! Janganlah kalian mencaci maki para sahabatku! Demi Dzat yang jiwaku ditangan-Nya, seandainya seseorang menginfakkan emas sebesar gunung Uhud, maka ia tidak akan dapat menandingi satu mud atau setengahnya dari apa yang telah diinfakkan para sahabatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6487</td></tr><tr><td>Arabic No</td><td>2540</td></tr><tr><td>Reference</td><td>Book 44 Hadith 316</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6487</td></tr><tr><td>Arabic No</td><td>2540</td></tr><tr><td>Reference</td><td>Book 44 Hadith 316</td></tr></tbody></table></div>
 

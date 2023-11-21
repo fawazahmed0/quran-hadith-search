@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "A woman was tortured
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada seorang wanita disiksa disebabkan mengurung seekor kucing hingga mati kelaparan lalu wanita itupun masuk neraka". Nafi' berkata; Beliau berkata: "Sungguh Allah Maha Mengetahui bahwa kamu tidak memberinya makan dan minum ketika engkau mengurungnya dan tidak membiarkannya berkeliaran sehingga dia dapat memakan serangga tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2365</td></tr><tr><td>Arabic No</td><td>2365</td></tr><tr><td>Reference</td><td>Book 42 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «(Одна) женщина была подвергнута мучениям за кошку, которую она держала взаперти, пока та не сдохла от голода, за что она оказалась в огне. И ей было сказано — Аллаху ведомо лучше: держа её взаперти, ты не кормила и не поила её, и не позволяя ей поедать живность, ползающую по земле»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2365</td></tr><tr><td>Arabic No</td><td>2365</td></tr><tr><td>Reference</td><td>Book 42 Hadith 13</td></tr></tbody></table></div>
 

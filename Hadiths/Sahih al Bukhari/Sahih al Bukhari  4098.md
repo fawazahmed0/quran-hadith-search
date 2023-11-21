@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:We were with Allah's Messenger (ﷺ) in the Trench, and s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Qutaibah] telah menceritakan kepada kami [Abdul Aziz] dari [Abu Hazim] dari [Sahl bin Sa'd] radliallahu 'anhu, dia berkata, "Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam pada perang Khandaq, sementara para sahabat tengah menggali parit, sedangkan kami yang mengangkuti tanah di atas pundak kami. Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Ya Allah, tidak ada kehidupan (yang hakiki) kecuali kehidupan akhirat, maka ampunilah kaum Muhajirin dan Anshar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 64 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са’д, да будет доволен им Аллах сказал, сказал: «Мы были вместе с Посланником Аллаха ﷺ у рва. Некоторые копали (ров), а мы переносили землю на своих спинах, и Посланник Аллаха ﷺ сказал: “О Аллах, нет жизни, кроме жизни в мире ином, прости же ансаров и мухаджиров!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 64 Hadith 142</td></tr></tbody></table></div>
 

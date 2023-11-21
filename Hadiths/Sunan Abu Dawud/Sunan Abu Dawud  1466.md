@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: Ya'la ibn Mumallak said that he asked Umm 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Yazid bin Khalid bin Mauhib Ar Ramli], telah menceritakan kepada Kami [Al Laits] dari [Ibnu Abu Mulaikah] dari [Ya'la bin Mamlak] bahwa ia bertanya kepada [Ummu Salamah] mengenai bacaan Rasulullah shallAllahu wa'alaihi wa sallam serta shalat beliau. Kemudian ia berkata; ada apa dengan kalian dan shalatnya, beliau melakukan shalat dan tidur seukuran lamanya shalat beliau, kemudian beliau melakukan shalat seukuran lamanya tidur beliau, kemudian beliau tidur seukuran lama beliau melakukan shalat hingga pagi hari. Kemudian Ummu Salamah menggambarkan bacaan Nabi Shalla Allahu 'alaihi wa sallam dan ia menggambarkan bacaannya sehuruf-sehuruf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1466</td></tr><tr><td>Arabic No</td><td>1466</td></tr><tr><td>Reference</td><td>Book 8 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Я‘ли ибн Мамляка, что он спросил Умм Саляму о чтении Посланника Аллаха ﷺ и его молитве и она ответила: «Куда вам до его молитвы?.. Он молился, потом спал столько же, сколько и молился, потом молился столько же, сколько спал, потом спал столько же, сколько и молился». Затем она описала чтение Посланника Аллаха ﷺ и воспроизвела его буква в букву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1466</td></tr><tr><td>Arabic No</td><td>1466</td></tr><tr><td>Reference</td><td>Book 8 Hadith 51</td></tr></tbody></table></div>
 

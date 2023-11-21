@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:A son was born to me and I took him to the Prophet (ﷺ) who n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Nashr] berkata, telah menceritakan kepada kami [Abu Usamah] ia berkata; telah menceritakan kepadaku [Buraid] dari [Abu Burdah] dari [Abu Musa] radliallahu 'anhu, ia berkata, "Anak laki-lakiku lahir, kemudian aku membawanya kepada Nabi shallallahu 'alaihi wasallam. Beliau lalu memberinya nama Ibrahim, beliau menyuapinya dengan kunyahan kurma dan mendoakannya dengan keberkahan, setelah itu menyerahkannya kepadaku." Ibrahim adalah anak tertua Abu Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5467</td></tr><tr><td>Arabic No</td><td>5467</td></tr><tr><td>Reference</td><td>Book 71 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «Когда у меня родился сын, я принёс его к Пророку ﷺ, который назвал его Ибрахимом, сделал ему тахник из одного финика, призвал на него благословение и отдал его мне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5467</td></tr><tr><td>Arabic No</td><td>5467</td></tr><tr><td>Reference</td><td>Book 71 Hadith 1</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The Hour will not be established t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] berkata [Az Zuhriy] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Tidak akan terjadi hari qiyamat hingga kalian memerangi suatu kaum yang memakai sandal bulu. Dan tidak akan terjadi hari qiyamat hingga kalian memerangi suatu kaum yang wajah mereka laksana perisai yang melindungi (kulit) ". [Sufyan] berkata; Dan [Abu Az Zinad] menambahkan didalamnya dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] suatu riwayat yang menyebutkan: "Bermata kecil (sipit), hidung pesek dan wajah mereka seakan-akan seperti perisai yang melindungi (kulit)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2929</td></tr><tr><td>Arabic No</td><td>2929</td></tr><tr><td>Reference</td><td>Book 56 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не настанет Час этот, пока вы не сразитесь с людьми, которые (будут носить) волосяные сандалии. И не настанет Час этот, пока вы не сразитесь с людьми, лица которых подобны кожаным щитам».А другой версии этого хадиса от Абу Хурайры Пророк ﷺ сказал: «… с маленькими глазами, плоскими носами, и лица их будут подобны кожаным щитам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2929</td></tr><tr><td>Arabic No</td><td>2929</td></tr><tr><td>Reference</td><td>Book 56 Hadith 142</td></tr></tbody></table></div>
 

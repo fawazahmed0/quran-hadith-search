@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Messenger of Allah (ﷺ) came an entered Mecca, and af
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Bahz bin Asad], serta [Hasyim yaitu Ibnu Al Qasim], mereka berkata; telah menceritakan kepada Kami [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Abdullah bin Rabah] dari [Abu Hurairah], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam datang lalu memasuki Mekkan dan menghadap ke Hajar Aswad, serta mengusapnya kemudian melakukan thawaf di Ka'bah, kemudian mendatangi bukit Shafa dan menaikinya, dimana beliau melihat ke Ka'bah dan beliau mengangkat kedua tangannya, dan berdzikir kepada Allah dengan dzikir yang beliau kehendaki, dan beliau berdoa kepadaNya. Abu Hurairah berkata; sementara orang-orang anshar berada di bawah beliau. Hasyim berkata; kemudian beliau berdoa dan memuji Allah. Beliau berdoa dengan doa yang beliau kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (1780)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1872</td></tr><tr><td>Arabic No</td><td>1872</td></tr><tr><td>Reference</td><td>Book 11 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ вошёл в Мекку, подошёл к Чёрному камню и приложился к нему, затем совершил обход вокруг Каабы, затем поднялся на холм Сафа и посмотрел оттуда на Каабу, затем воздел руки и поминал Аллаха, сколько пожелал, и обращался к Нему с мольбами, а ансары стояли внизу. Хашим сказал: «И он обратился к Аллаху с мольбой и восхвалил Аллаха, попросив Его о чём желал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (1780)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1872</td></tr><tr><td>Arabic No</td><td>1872</td></tr><tr><td>Reference</td><td>Book 11 Hadith 152</td></tr></tbody></table></div>
 

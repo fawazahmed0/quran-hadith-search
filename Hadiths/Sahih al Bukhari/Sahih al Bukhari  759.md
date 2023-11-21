@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Qatada:My father said, "The Prophet (ﷺ) in Zuhr pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya] dari ['Abdullah bin Abu Qatadah] dari [Bapaknya] berkata, "Rasulullah shallallahu 'alaihi wasallam pada dua rakaat pertama dalam shalat Zhuhur membaca Al Fatihah dan dua surah, beliau memanjangkan rakaat pertama dan memendekkan pada rakaat kedua, dan terkadang beliau memperdengarkan bacaannya. Dalam shalat Ashar beliau membaca Al Fatihah dan dua surah, dan memanjangkan pada rakaat yang pertama. Demikian pula dalam shalat Shubuh, beliau memanjangkan bacaan pada rakaat pertama dan memendekkakan pada rakaat kedua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>759</td></tr><tr><td>Arabic No</td><td>759</td></tr><tr><td>Reference</td><td>Book 10 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада, да будет доволен им Аллах, сказал: «При совершении первых двух рак‘атов полуденной /зухр/ молитвы Пророк ﷺ обычно читал суру “аль-Фатиха” и ещё по одной суре (во время каждого рак‘ата): более длинную во время первого рак‘ата и более короткую во время второго рак‘ата, иногда читая аяты так, что его слова были слышны (стоящим поблизости от него). И, совершая послеполуденную /‘аср/ молитву, он обычно читал “аль-Фатиху” и ещё две суры: более длинную во время первого рак‘ата (и более короткую во время второго). И обычно он удлинял чтение во время совершения первого рак‘ата утренней /субх/ молитвы, сокращая его во время второго»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>759</td></tr><tr><td>Arabic No</td><td>759</td></tr><tr><td>Reference</td><td>Book 10 Hadith 153</td></tr></tbody></table></div>
 

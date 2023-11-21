@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:I still seem to see the glistening o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] dan [Abu Sa'id Al Asyajj] mereka berkata, Telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dari [Abu Dluha] dari [Masruq] dari [Aisyah] radliallahu 'anha, ia berkata; "Aku seolah-olah masih melihat kemilau harum-haruman di kepada Rasulullah shallallahu 'alaihi wasallam ketika beliau sedang membaca Talbiyah." Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Al A'masy] dari [Ibrahim] dari [Al Aswad] dan [Muslim] dari [Masruq] dari [Aisyah] radliallahu 'anha, ia berkata; Aku seolah-olah melihat…, yakni sebagaimana haditsnya Waki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2834</td></tr><tr><td>Arabic No</td><td>1190.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2834</td></tr><tr><td>Arabic No</td><td>1190.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 44</td></tr></tbody></table></div>
 

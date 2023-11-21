@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abyad ibn Hammal: Abyad spoke to the Messenger of Allah (ﷺ) about sad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ahmad Al Qurasyi], dan [Harun bin Abdullah] bahwa [Abdullah bin Az Zubair], telah menceritakan kepada mereka, ia berkata; telah menceritakan kepada kami [Faraj bin Sa'id], telah menceritakan kepadaku [pamanku yaitu Tsabit bin Sa'id] dari [ayahnya yaitu Sa'id bin Abyadh] dari [kakeknya yaitu Abyadh bin Jammal], bahwa ia telah berbicara kepada kepada Rasulullah shallallahu 'alaihi wasallam mengenai zakat ketika ia menjadi utusan kepadanya. Kemudian beliau berkata: "Wahai saudara Saba', harus ada zakat." Kemudian ia berkata; wahai Rasulullah, kami hanya menanam kapas. Saba' telah bercerai berai dan tidak tersisa dari mereka kecuali sedikit di Ma'rib (suatu negeri di Yaman). Kemudian Nabi shallallahu 'alaihi wasallam kemudian Nabi shallallahu 'alaihi wasallam berdamai agar mereka memberikan tujuh puluh Hullah (pakaian Yaman) dari nilai penunaian pakaian yang berasal dari Ma'afir setiap tahun untuk orang yang tersisa dari orang-orang Saba' di Ma'rib. Kemudian mereka terus menunaikannya hingga Rasulullah shallallahu 'alaihi wasallam wafat. Dan para pegawai membatalkan perjanjian tersebut setelah Rasulullah shallallahu 'alaihi wasallam meninggal dalam perjanjian yang dibuat Abyadh bersama Rasulullah shallallahu 'alaihi wasallam mengenai tujuh puluh pakaian tersebut. Kemudian Abu Bakr mengembalikan kembali kepada apa yang telah diterapkan Rasulullah shallallahu 'alaihi wasallam hingga Abu Bakr meninggal, kemudian tatkala Abu Bakr radliallahu 'anhu telah meninggal perjanjian tersebut dibatalkan dan menjadi zakat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3028</td></tr><tr><td>Arabic No</td><td>3028</td></tr><tr><td>Reference</td><td>Book 20 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абьяда ибн Хаммаля, да будет доволен им Аллах, что он разговаривал с посланником Аллаха ﷺ о закяте, когда прибыл к нему, и тот сказал: «О брат Сабы, закят обязателен». Он сказал: «О Посланник Аллаха, мы сеем хлопок. А Сабы давно нет. Их осталось совсем немного в Маърибе». И пророк Аллаха ﷺ заключил с ними мирный договор с условием, что они будут отдавать семьдесят хлопковых одежд ежегодно от тех жителей Сабы, которые остались в Маърибе. И они выплачивали то, что с них причиталось, до самой кончины Посланника Аллаха ﷺ. После кончины Посланника Аллаха ﷺ сборщики закята посчитали, что эти условия далее не могут действовать и эти люди должны выплачивать закят. Однако Абу Бакр постановил, что всё должно быть так, как было во времена Посланника Аллаха ﷺ. И так продолжалось до самой кончины Абу Бакра. А после его кончины всё изменилось и они стали выплачивать закят
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3028</td></tr><tr><td>Arabic No</td><td>3028</td></tr><tr><td>Reference</td><td>Book 20 Hadith 101</td></tr></tbody></table></div>
 

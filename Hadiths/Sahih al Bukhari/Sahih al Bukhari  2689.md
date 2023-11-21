@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If the people knew what is t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Sumayya, maula Abu Bakar] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Seandainya manusia mengetahui (kebaikan) apa yang terdapat pada panggilan shalat dan shaf pertama lalu mereka tidak dapat meraihnya melainkan dengan mengundi tentulah mereka akan mengundinya. Seandainya mereka mengetahui apa yang terdapat pada bersegera melaksanakan shalat tentulah mereka akan berlomba untuk melakukannya dan seandainya mereka mengetahui apa yang terdapat pada 'Atmah (shalat 'Isya') dan Shubuh tentulah mereka akan mendatanginya walaupun harus dengan merangkak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2689</td></tr><tr><td>Arabic No</td><td>2689</td></tr><tr><td>Reference</td><td>Book 52 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если бы люди знали о (награде, которая ждёт тех, кто произносит слова) азана и (находится в) первом ряду (во время общей молитвы,) и кроме жребия по стрелам не нашли иного пути (для того, чтобы решить, кто станет произносить эти слова и кто займёт места в первом ряду), они обязательно прибегали бы к этому! Если бы знали они о той (награде, которая ждёт) начинающего совершать полуденную молитву сразу же (после наступления установленного для неё времени), то спешили бы к ней наперегонки! И если бы знали они о той (награде, которая ожидает принимающих участие в общих) вечерних и утренних молитвах, то обязательно являлись бы на (эти молитвы в мечеть), даже если бы им приходилось добираться (туда) ползком!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2689</td></tr><tr><td>Arabic No</td><td>2689</td></tr><tr><td>Reference</td><td>Book 52 Hadith 50</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said to Abu Talha, "Seek one of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata; telah menceritakan kepada kami [Ismail bin Ja'far] dari [Amru bin Abu Amru] mantan budak Al Muthallib bin Abdullah bin Hanthab, bahwa ia mendengar [Anas bin Malik] ia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda kepada Abu Thalhah: 'Berilah aku seorang pelayan lelaki dari yang kamu miliki hingga ia bisa membantuku.' Abu Thalhah lalu keluar dengan membawaku di belakang boncengannya. Aku lalu menjadi pelayan Rasulullah shallallahu 'alaihi wasallam. Setiap kali beliau singgah pada suatu tempat, beliau banyak membaca: 'ALLAHUMMA INNI A'UUDZUBIKA MINAL HAMMI WAL HAZANI WAL 'AJZI WAL KASALI WAL BUKHLI WAL JUBNI WA DLALA'ID DAINI WA 'ALAIHI WA GHALABATIR RIJAALI (Ya Allah, aku berlindung kepada-Mu dari keluh kesah dan kesedihan, dari kelemahan dan kemalasan, dari sifat bakhil dan penakut, dan dari lilitan hutang dan penindasan) '. Aku selalu melayani (keperluan) beliau hingga kembali dari Khaibar, beliau kembali dengan membawa (mengiring) Shafiyah binti Huyai. Dan aku lihat beliau menutupinya dengan kain kemudian memboncengkannya di belakang beliau. Sehingga ketika kami tiba di daerah Shahba', beliau membuat hais dalam bejana dari kulit, kemudian beliau menyuruh agar aku mengundang para sahabat. Lalu mereka menyantap hidangan tersebut, maka itulah awal rumah tangga beliau dengannya. Kemudian beliau melanjutkan perjalanan, hingga ketika tiba di gunung Uhud, beliau bersabda: 'Ini adalah gunung yang kita mencintainya dan dia mencintai kita.' Ketika memasuki kota Madinah beliau mengatakan: 'Ya Allah, sesungguhnya aku mengharamkan apa yang ada di antara dua gunungnya (Madinah), sebagaimana Ibrahim mengharamkan (mensucikan) Makkah. Ya Allah, berkahilah mereka dalam mud dan sha' mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5425</td></tr><tr><td>Arabic No</td><td>5425</td></tr><tr><td>Reference</td><td>Book 70 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) Посланник Аллаха ﷺ сказал Абу Тальхе: “Найди мне одного из ваших мальчиков, чтобы он служил мне”. И Абу Тальха взял меня с собой, посадив позади себя. Я прислуживал Посланнику Аллаха ﷺ каждый раз, когда он останавливался, и я слышал, как он часто говорил: “О Аллах, я прошу у Тебя защиты от тревог и печалей, от бессилия и лени, от жадности и малодушия, от бремени долга и от притеснения со стороны людей /Аллахумма инни а‘узу бикя мина-ль-хамми ва-ль-хазани ва аль-‘аджзи, ва-ль-касали, ва-ль-бухли ва-ль-джубни, ва даля‘и-д-дайни ва галябати-р-риджали/”. И я не переставал прислужить ему, пока мы не стали возвращаться из Хайбара вместе с Сафией бинт Хуей, которую Пророк ﷺ выбрал для себя (в качестве наложницы). Я видел, как он обернул плащ вокруг (верхового животного, чтобы Сафия не упала), после чего посадил её позади себя. Когда же мы достигли места под названием Сахба, он приготовил “хейс” (еду из фиников, творога и масла — Прим. перев.) на кожаной подстилке, затем он послал меня за мужчинами, чтобы они поели, и так он женился на ней. Затем он двинулся в путь, и когда мы приблизились к горе Ухуд, он сказал: “Это гора любит нас, а мы любим её”. Когда же мы добрались до Медины, он сказал: “О Аллах! Поистине, я запрещаю охоту в Медине между территориями этих двух гор подобно тому, как Ибрахим сделал это запретным на территории Мекки! О Аллах, благослови им (жителям Медины) их мудды и са‘!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5425</td></tr><tr><td>Arabic No</td><td>5425</td></tr><tr><td>Reference</td><td>Book 70 Hadith 53</td></tr></tbody></table></div>
 

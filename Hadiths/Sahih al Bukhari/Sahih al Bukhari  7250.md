@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) finished his prayer after offerings
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari [Ayyub] dari [Muhammad] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam menyelesaikan shalatnya padahal baru melakukan dua rakaat. Karenanya Dzul Yadaini bertanya, 'Apakah engkau meringkas shalat ya Rasulullah, ataukah engkau sekedar lupa? ' Nabi balik bertanya: 'Apakah Dzul Yadaini benar? ' Para sahabat menjawab, 'Benar! Lantas Rasulullah shallallahu 'alaihi wasallam berdiri dan melanjutkan shalat dua rakaat berikutnya, kemudian beliau mengucapkan salam, kemudian bertakbir, kemudian sujud seperti sujudnya atau lebih lama, kemudian mengangkat sujudnya, kemudian bertakbir dan sujud seperti sujudnya, kemudian beliau mengangkat sujudnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7250</td></tr><tr><td>Arabic No</td><td>7250</td></tr><tr><td>Reference</td><td>Book 95 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ однажды совершил всего два рак‘ата, тогда Зуль-Йадайн спросил его: «О Посланник Аллаха, молитва была сокращена или ты забыл?» Тогда Посланник Аллаха ﷺ спросил: “Зуль-Йадайн говорит правду?” Люди ответили: «Да». Тогда Посланник Аллаха ﷺ встал и совершил оставшиеся два рак‘ата, затем произнёс слова таслима, а потом сказал: “Аллах Велик”. После этого он совершил обычный по продолжительности или чуть более долгий земной поклон, а затем он поднялся, затем произнёс такбир и совершил земные поклоны, подобные его обычным земным поклонам, после чего поднялся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7250</td></tr><tr><td>Arabic No</td><td>7250</td></tr><tr><td>Reference</td><td>Book 95 Hadith 5</td></tr></tbody></table></div>
 

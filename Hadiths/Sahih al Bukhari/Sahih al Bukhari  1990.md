@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Ubaid:(the slave of Ibn Azhar) I witnessed the 'Id with 'Umar bin 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Abu 'Ubaid, maula Ibnu Azhar] berkata; Aku mengikuti shalat 'Ied bersama ['Umar bin Al Khaththob radliallahu 'anhu] lalu dia berkata: "Inilah dua hari yang Rasulullah shallallahu 'alaihi wasallam melarang puasa padanya, yaitu pada hari saat kalian berbuka dari puasa kalian ('Iedul Fithri) dan hari lainnya adalah hari ketika kalian memakan hewan qurban kalian ('Iedul Adhha) ". Dan Abu 'Abdullah Al Bukhariy berkata; Ibnu 'Uyainah berkata; Siapa yang berkata bahwa Abu 'Ubaid adalah maula Ibnu Azhar berarti dia telah berkata benar dan juga siapa yang berkata bahwa dia adalah maula 'Abdurrahman bin 'Auf, dia juga telah berkata benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 30 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ‘Убейд сказал: «Однажды я присутствовал на праздничной молитве, которую проводил ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах. (Во время проповеди) он сказал: “Поистине, Посланник Аллаха ﷺ запретил поститься в эти два дня: в день, когда вы разговляетесь после поста (‘Ид аль-Фитр), и в день, когда вы едите мясо жертвенных животных, которых режете (‘Ид аль-Адха)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 30 Hadith 97</td></tr></tbody></table></div>
 

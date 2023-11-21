@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah said “Barirah’s husband was a free man when she was emancipated. S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Katsir], telah mengabarkan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] bahwa suami Barirah adalah orang yang merdeka ketika Barirah dibebaskan, dan ia diberi pilihak kemudian mengatakan; aku tidak suka tinggal bersamanya, dan aku memiliki demikian dan demikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2235</td></tr><tr><td>Arabic No</td><td>2235</td></tr><tr><td>Reference</td><td>Book 13 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что муж Бариры был свободным, когда её отпустили на волю, и что Пророк ﷺ предоставил ей выбор и она сказала: «Я не желаю быть с ним, даже если бы мне было за это то-то и то-то!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2235</td></tr><tr><td>Arabic No</td><td>2235</td></tr><tr><td>Reference</td><td>Book 13 Hadith 61</td></tr></tbody></table></div>
 

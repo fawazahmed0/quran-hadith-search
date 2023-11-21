@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Avoid the seven great destructive 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata telah bercerita kepadaku [Sulaiman bin Bilal] dari [Tsaur bin Zaid Al Madaniy] dari [Abu 'Al Ghoits] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Jauhilah tujuh perkara yang membinasakan". Para sahabat bertanya: "Wahai Rasulullah, apakah itu? Beliau bersabda: "Syirik kepada Allah, sihir, membunuh jiwa yang diharamkan oleh Allah kecuali dengan haq, memakan riba, makan harta anak yatim, kabur dari medan peperangan dan menuduh seorang wanita mu'min yang suci berbuat zina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2766</td></tr><tr><td>Arabic No</td><td>2766</td></tr><tr><td>Reference</td><td>Book 55 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Избегайте (совершения) семи губительных (грехов)». (Люди) спросили: «О Посланник Аллаха, а что это (за грехи)?» Он сказал: «Поклонение другим наряду с Аллахом, колдовство, убийство человека, которого Аллах запретил убивать иначе как по праву, ростовщичество, проедание имущества сироты, отступление в день наступления и обвинение в прелюбодеянии целомудренных верующих женщин, даже не помышляющих о подобном»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2766</td></tr><tr><td>Arabic No</td><td>2766</td></tr><tr><td>Reference</td><td>Book 55 Hadith 29</td></tr></tbody></table></div>
 

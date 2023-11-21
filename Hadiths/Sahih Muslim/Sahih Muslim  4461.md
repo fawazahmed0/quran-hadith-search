@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubida b. as-Samit reported:While we were in the company of Allah's Messenger (ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Abu Bakar bin Abu Syaibah] dan [Amru An Naqid] dan [Ishaq bin Ibrahim] dan [Ibnu Numair] mereka semua dari [Ibnu 'Uyainah], sedangkan lafadznya dari 'Amru, dia berkata; telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Az Zuhri] dari [Abu Idris] dari ['Ubadah bin Shamit] dia berkata, "Ketika kami bersama Rasulullah shallallahu 'alaihi wasallam di suatu majlis, beliau bersabda: "Berbaiatlah kalian kepadaku bahwa kalian tidak akan menyekutukan Allah dengan sesuatu apapun, tidak berzina, tidak mencuri dan tidak membunuh jiwa yang Allah haramkan kecuali dengan hak. Barangsiapa di antara kalian yang memenuhi janji tersebut maka pahalanya ada pada Allah. Barangsiapa melanggar janji tersebut, namun Allah menutupi kesalahannya (tidak diketahui orang lain), maka urusannya terserah Allah; jika Dia menghendaki maka akan diampuni, namun jika Dia menghendaki maka akan disiksa-Nya (di akhirat kelak)." Telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dengan isnad seperti ini, dan dalam haditsnya dia menambahkan, "Kemudian dia membacakan kepada kami ayat (dalam surat) An Nisa': '(Hendaknya kalian tidak menyekutukan Allah dengan sesuatu apapun) ' (Qs. Al Mumtahanah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4461</td></tr><tr><td>Arabic No</td><td>1709.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4461</td></tr><tr><td>Arabic No</td><td>1709.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 64</td></tr></tbody></table></div>
 

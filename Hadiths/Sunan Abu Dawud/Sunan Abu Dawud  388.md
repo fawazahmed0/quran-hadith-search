@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Jahdar al-'Amiriyyah said that she asked 'Aishah about the blood of menses w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Ummu Yunus binti Syaddad] dia berkata; Telah menceritakan kepadaku [bibiku, Ummu Jahdar Al 'Amiriyyah] bahwasanya dia pernah bertanya kepada [Aisyah] tentang darah haidl yang mengenai pakaian, maka dia menjawab; Saya pernah bersama Rasulullah shallallahu 'alaihi wasallam, kami mengenakan pakaian dan kain yang lain di bagian atasnya. Tatkala di pagi hari, Rasulullah shallallahu 'alaihi wasallam mengambil kain tersebut dan memakainya, kemudian keluar dan shalat Shubuh. Setelah itu beliau duduk, lalu ada seorang lelaki berkata; Wahai Rasulullah, ada sebercak darah di pakaianmu. Maka Rasulullah shallallahu 'alaihi wasallam menggenggam bagian di samping bercak darah tersebut, kemudian mengirimnya kepadaku dalam keadaan tergenggam di tangan seorang anak lelaki. Beliau bersabda: "Cucilah kain ini dan jemurlah kemudian kirim kembali kepadaku". Lalu saya meminta nampanku dan saya pun mencuci kain itu, kemudian saya jemur, lalu saya kembalikan kepadanya. Setelah itu Rasulullah shallallahu 'alaihi wasallam datang di siang hari dengan mengenakan kain itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>388</td></tr><tr><td>Reference</td><td>Book 1 Hadith 388</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Йунус бинт Шаддад сказала: «Мне рассказала моя свекровь Умм Джахдар аль-‘Амирий о том, что она спросила у ‘Аиши о менструальной крови, попавшей на одежду, и она сказала: “Однажды, когда я была с посланником Аллаха ﷺ мы были одеты в изары, а поверх них мы накинули рубаху. Проснувшись утром, Посланник Аллаха ﷺ взял рубаху и надел ее, а затем вышел, совершил утреннюю молитву и потом сел. Один человек сказал ему: “О Посланник Аллаха, это капелька крови!” И он взял (одежду) за это место и (затем) отправил ко мне сверток, дав его одному мальчику, сказав: “Постирай это место, высуши ее и затем отправь мне (обратно)”. Я велела принести корыто, постирала ее и отправила ему обратно, а он пришел в середине дня, и она была на нем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>388</td></tr><tr><td>Reference</td><td>Book 1 Hadith 388</td></tr></tbody></table></div>
 

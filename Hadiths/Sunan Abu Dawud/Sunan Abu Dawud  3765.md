@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir bin ‘Abd Allah said that he heard the Prophet(ﷺ) say:When a man enters
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Khalaf] telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] ia berkata; telah mengabarkan kepadaku [Abu Az Zubair] dari [Jabir bin Abdullah] ia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Apabila seseorang memasuki rumahnya dan menyebutkan nama Allah ketika masuk dan ketika makan, maka setan berkata, 'Tidak ada tempat bermalam bagi kalian dan tidak ada makan malam'. Dan apabila ia masuk rumah dan tidak menyebutkan nama Allah ketika masuk maka setan berkata, 'Kalian mendapatkan tempat bermalam'. Kemudian apabila ia tidak menyebutkan nama Allah ketika makan maka setan berkata, 'Kalian mendapatkan tempat bermalam dan makan malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2018)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3765</td></tr><tr><td>Arabic No</td><td>3765</td></tr><tr><td>Reference</td><td>Book 28 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что он слышал, как Пророк ﷺ сказал: «Когда человек входит к себе домой и поминает Аллаха при входе и перед едой, шайтан говорит своим приспешникам: “Не будет для вас здесь ни приюта, ни ужина!” Если он войдёт в дом, не помянув Аллаха при входе, шайтан говорит: “Вы получили приют”, если же он не помянет Аллаха и перед едой, шайтан говорит: “Вы получили и приют, и ужин”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2018)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3765</td></tr><tr><td>Arabic No</td><td>3765</td></tr><tr><td>Reference</td><td>Book 28 Hadith 30</td></tr></tbody></table></div>
 

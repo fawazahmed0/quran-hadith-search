@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali bin Abi Talib:I would not feel sorry for one who dies because of r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdul Wahhab] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Abu Hashin] aku mendengar [Umair bin Sa'id an Nakha'i] mengatakan; aku mendengar [Ali bin Abi Thalib] radliallahu 'anhu mengatakan; 'Aku tidak merasa menyesal jika menegakkan hukuman atas seseorang lantas dia meninggal, kecuali peminum khamar, sebab kalaulah dia meninggal, aku harus membayar diyatnya, yang demikian karena Rasulullah Shallallahu'alaihiwasallam tidak menyunnahkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6778</td></tr><tr><td>Arabic No</td><td>6778</td></tr><tr><td>Reference</td><td>Book 86 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али ибн Аби Талиб, да будет доволен им Аллах, сказал: «Я никогда не испытывал жалости к тому, кто умирал, когда я подвергал его установленному наказанию /хадд/, если не считать наказанных за употребление вина, и в случае смерти такого человека я выплачивал (его родственникам) выкуп, поскольку Посланник Аллаха ﷺ не установил(, сколько ударов следует давать за употребление вина)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6778</td></tr><tr><td>Arabic No</td><td>6778</td></tr><tr><td>Reference</td><td>Book 86 Hadith 7</td></tr></tbody></table></div>
 

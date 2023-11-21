@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid:I asked 'Uthman bin 'Affan about a person who engaged i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'd bin Hafsh] telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] bahwa ['Atha bin Yasar] mengabarkan kepadanya, bahwa [Zaid bin Khalid] mengabarkan kepadanya, bahwa ia pernah bertanya ['Utsman bin 'Affan] radliallahu 'anhu, Aku bertanya, "Apa pendapatmu jika seorang laki-laki berhubungan badan dengan isterinya namun tidak keluar air mani?" 'Utsman menjawab, "Hendaknya ia berwudlu seperti wudlunya untuk shalat, lalu membasuh kemaluannya." Utsman melanjutkan, "Aku mendengarnya dari Rasulullah shallallahu 'alaihi wasallam, aku menanyakan hal itu kepada 'Ali, Zubair, Thalhah, dan Ubay bin Ka'b? radliallahu 'anhum. Mereka semua menyuruh untuk melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>179</td></tr><tr><td>Arabic No</td><td>179</td></tr><tr><td>Reference</td><td>Book 4 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Зейд ибн Халид, да будет доволен им Аллах, спросил ‘Усмана ибн ‘Аффана, да будет доволен им Аллах: «Как ты думаешь, что следует делать тому, кто совокупился, но не испустил семя?» (‘Усман) ответил: “Он должен совершить такое же омовение /вудуъ/, какое совершается перед молитвой, и омыть свой половой орган».\n‘Усман (также) сказал: «Я слышал это от Посланника Аллаха ﷺ».\n(Зейд сказал): «И я спрашивал об этом ‘Али, аз-Зубайра, Тальху и Убаййа ибн Ка‘ба, да будет доволен ими Аллах, и все они говорили, что (совокупившемуся таким образом следует поступить именно так)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>179</td></tr><tr><td>Arabic No</td><td>179</td></tr><tr><td>Reference</td><td>Book 4 Hadith 45</td></tr></tbody></table></div>
 

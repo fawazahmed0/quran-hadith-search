@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuNajih as-Sulami: Along with the Messenger of Allah (ﷺ) we besieged
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [Ayahku] dari [Qatadah] dari [Salim bin Abu Al Ja'd] dari [Ma'dan bin Abu Thalhah Al Ya'muri] dari [Abu Najih As Sulami] ia berkata, "Kami pernah mengepung istana Thaif bersama Rasulullah shallallahu 'alaihi wasallam, Mu'adz lalu berkata, "Aku mendengar ayahku mengatakan di istana Thaif atau benteng Thaif, setiap itu ia mengatakan, 'Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memanahkan satu anak panah kepada orang kafir di jalan Allah 'azza wajalla maka baginya satu derajat…lalu ia meneruskan hadits tersebut. Dan aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Muslim mansaja yang membebaskan seorang Muslim, maka Allah 'azza wajalla menjadikan perlindungan setiap tulangnya dari api neraka dengan setiap tulang orang yang ia bebaskan. Dan wanita manasaja yang membebaskan seorang wanita muslimah, maka pada hari kiamat Allah menjadikan perlindungan setiap tulangnya dari api neraka dengan setiap tulang orang yang ia bebaskan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3965</td></tr><tr><td>Arabic No</td><td>3965</td></tr><tr><td>Reference</td><td>Book 31 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Наджиха Ас-Сулями, да будет доволен им Аллах: «Мы с посланником Аллаха ﷺ осадили дворец Таифа (или: крепость Таифа), и я слышал, как Посланник Аллаха ﷺ сказал: “Кто поразил стрелой цель на пути Всемогущего и Великого Аллаха, тот поднялся на ступень”». И он привёл хадис и упомянул: «Я слышал, как Посланник Аллаха ﷺ сказал: “Если мусульманин освободит раба-мусульманина, за каждую кость избавленного от рабства Всемогущий и Великий Аллах избавит кость того, кто освободил его, от Огня, и если мусульманка освободит рабыню-мусульманку, за каждую кость избавленной от рабства Аллах избавит кость той, которая её освободила, от Огня в Судный день”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3965</td></tr><tr><td>Arabic No</td><td>3965</td></tr><tr><td>Reference</td><td>Book 31 Hadith 40</td></tr></tbody></table></div>
 

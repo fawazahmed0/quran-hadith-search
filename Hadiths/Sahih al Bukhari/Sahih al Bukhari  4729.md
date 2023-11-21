@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "On the Day of Resurrection, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah] Telah menceritakan kepada kami [Sa'id bin Abu Maryam] Telah mengabarkan kepada kami [Al Mughirah bin 'Abdur Rahman] dia berkata; Telah menceritakan kepadaku [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] dari Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh pada hari kiamat akan datang seseorang yang berbadan gemuk namun di sisi Allah timbangannya tidak dapat melebihi berat sayap seekor nyamuk. Bacalah ayat; …dan kami tidak memberikan penimbangan terhadap (amal) mereka pada hari kiamat, (Al Kahfi: 105). Dan dari [Yahya bin Bukair] dari [Al Mughirah bin Abdurrahman] dari [Abu Az Zinad] dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4729</td></tr><tr><td>Arabic No</td><td>4729</td></tr><tr><td>Reference</td><td>Book 65 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «Поистине, в День воскресения непременно приведут важного тучного человека, который окажется пред Аллахом легче комариного крыла». А (потом Пророк ﷺ) сказал: «Если пожелаете, прочтите (аят, в котором сказано): “…и не придадим Мы им в День воскресения (никакого) веса”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4729</td></tr><tr><td>Arabic No</td><td>4729</td></tr><tr><td>Reference</td><td>Book 65 Hadith 251</td></tr></tbody></table></div>
 

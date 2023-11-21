@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qatadah said that he accompanied the Apostle of Allaah(ﷺ) and he stayed be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah] dari [Malik] dari [Abu An Nadhr] mantan budak Umar bin 'Ubaidullah At Taimi dari [Nafi'] mantan budak Abu Qatadah Al Anshari, dari [Abu Qatadah] bahwa ia pernah bersama Rasulullah shallAllahu wa'alaihi wa sallam hingga setelah beliau berada di sebagian jalan di Mekkah ia tertinggal bersama para sahabatnya yang sedang berihram, sementara ia tidak berihram. Kemudian ia melihat seekor keledai liar. Lalu ia naik kudanya dan meminta kepada para sahabatnya agar memberikan cambuk kepadanya. Kemudian mereka menolak, lalu ia meminta tombaknya kepada mereka, kemudian mereka menolak. Lalu ia mengambilnya kemudian mengejar keledai tersebut dan membunuhnya. Sebagian sahabat Rasulullah shallAllahu wa'alaihi wa sallam memakannya, dan sebagian yang lain menolak. Kemudian tatkala mereka telah mendapati Rasulullah shallAllahu wa'alaihi wa sallam, maka mereka bertanya kepadanya mengenai hal tersebut, lalu beliau bersabda: sesungguhnya itu adalah makanan yang telah Allah ta'ala berikan kepada kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2914) Sahih Muslim (1196)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1852</td></tr><tr><td>Arabic No</td><td>1852</td></tr><tr><td>Reference</td><td>Book 11 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Катады, да будет доволен им Аллах, что он сопровождал Посланника Аллаха ﷺ, а по дороге в Мекку отстал вместе с двумя товарищами. Они были в состоянии ихрама, а он нет. Он увидел дикого осла, выпрямился на своём коне и попросил товарищей подать ему плеть, но они отказались. Тогда он попросил их подать ему копьё, но они отказались. Тогда он сам взял то, что ему было нужно, а потом погнался за ослом и убил его, и некоторые сподвижники Посланника Аллаха ﷺ ели его мясо, а другие отказались. Встретившись с Посланником Аллаха ﷺ они спросили его об этом, и он сказал: «Это пища, которую даровал вам Всевышний Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2914) Sahih Muslim (1196)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1852</td></tr><tr><td>Arabic No</td><td>1852</td></tr><tr><td>Reference</td><td>Book 11 Hadith 132</td></tr></tbody></table></div>
 

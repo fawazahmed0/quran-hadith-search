@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) was asked about the use of Khamr from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abdurrahman bin Mahdi]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Abdurrahman] dari [Sufyan] dari [As Suddi] dari [Yahya bin 'Abbad] dari [Anas], bahwa Nabi shallallahu 'alaihi wasallam pernah ditanya mengenai khamer yang dibuat cuka, maka beliau bersabda: "Jangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5140</td></tr><tr><td>Arabic No</td><td>1983</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5140</td></tr><tr><td>Arabic No</td><td>1983</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:The Messenger of Allah (May peace be upon him) used to wash his head
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ja'far bin Ziyad] telah menceritakan kepada kami [Syarik] dari [Qais bin Wahb] dari [seorang lelaki dari bani Suwa'ah bin Amir] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam, bahwasanya beliau membasuh kepalanya dengan tumbuhan Khitmi pada waktu mandi junub, cukup dengan itu tanpa mengguyur lagi kepalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>256</td></tr><tr><td>Arabic No</td><td>256</td></tr><tr><td>Reference</td><td>Book 1 Hadith 256</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши: «Пророк ﷺ мыл свою голову с алтейем будучи в состоянии осквернения /джунуб/ и не наливал на нее воду, удовлетворяясь этим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>256</td></tr><tr><td>Arabic No</td><td>256</td></tr><tr><td>Reference</td><td>Book 1 Hadith 256</td></tr></tbody></table></div>
 

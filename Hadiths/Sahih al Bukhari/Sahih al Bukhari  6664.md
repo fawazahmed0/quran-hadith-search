@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah forgives my followers those 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kami [Mis'ar] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Zurarah bin Aufa] dari [Abu Hurairah] yang ia marfu'kan, Rasulullah bersabda: "Allah memaafkan ummatku dari segala yang dibisikkan dan dikatakan hatinya, selama belum dilakukan atau dibicarakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6664</td></tr><tr><td>Arabic No</td><td>6664</td></tr><tr><td>Reference</td><td>Book 83 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, Аллах простит (членам) моей общины то, что будет внушено (им шайтаном), и то, что станут внушать им (их) души, если только (кто-нибудь из них) не станет делать этого или говорить об этом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6664</td></tr><tr><td>Arabic No</td><td>6664</td></tr><tr><td>Reference</td><td>Book 83 Hadith 42</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Musa Ash'ari:He who took up arms against 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abdullah bin Barrad al-Asy'ari] serta [Abu Kuraib] mereka berkata, telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa mengarahkan pedang untuk menyerang kami, maka dia bukan dari golongan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>282</td></tr><tr><td>Arabic No</td><td>100</td></tr><tr><td>Reference</td><td>Book 1 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Мусы, что Пророк ﷺ сказал: «Тот, кто поднял на нас оружие, не имеет к нам отношения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>282</td></tr><tr><td>Arabic No</td><td>100</td></tr><tr><td>Reference</td><td>Book 1 Hadith 188</td></tr></tbody></table></div>
 

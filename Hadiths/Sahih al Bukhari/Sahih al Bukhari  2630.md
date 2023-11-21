@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Shihab Az-Zuhri:Anas bin Malik said, "When the emigrants came Medin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] dari [Anas bin Malik radliallahu 'anhu] berkata; Ketika orang-orang Muhajirin sampai di Madinah dari Makkah tanpa bekal sesuatupun ditangan mereka, sedangkan orang-orang Anshar adalah pemilik tanah dan perabotan, maka orang-orang Anshar berjanji kepada mereka untuk memberi buah dari harta mereka itu setiap tahun dan mencukupi mereka dengan pekerjaan dan keamanan. Adalah ibunya yakni ibunya Anas, bernama Ummu Sulaim, yang juga adalah ibunya 'Abdullah bin Abi Thalhah, Ibu Anas pernah memberi Rasulullah shallallahu 'alaihi wasallam buah kurma, lalu Nabi shallallahu 'alaihi wasallam memberikannya kepada ummu Aiman, maula ummu Usamah bin Zaid. Ibnu Syihab berkata, maka Anas bin Malik mengabariku bahwasanya ketika Nabi shallallahu 'alaihi wasallam selesai dari perang Khaibar, Beliau kembali ke Madinah dan orang-orang muhajirin mengembalikan apa yang diberikan orang-orang Anshar kepada mereka berupa buah-buahan. Kemudian Nabi shallallahu 'alaihi wasallam mengembalikan kepada ibunya (Anas) buah kurmanya dan Rasulullah shallallahu 'alaihi wasallam memberi ummu Aiman pengganti dari kebunnya. Dan [Ahmad bin Syabib] berkata, telah mengabarkan kepada kami [bapakku] dari [Yunus] dengan hadits ini, dan berkata: "menggantinya dari harta miliknya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2630</td></tr><tr><td>Arabic No</td><td>2630</td></tr><tr><td>Reference</td><td>Book 51 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Когда мухаджиры перебрались в Медину из Мекки, у них ничего не было, тогда как ансары владели землёй и домами. И ансары предоставили им (для обработки свою землю) с условием, что они будут ежегодно отдавать им (половину урожая) фиников, а (мухаджиры) станут ухаживать за пальмами».\nЧто же касается Умм Суляйм, матери (Анаса), являвшейся также и матерью ‘Абдуллаха ибн Абу Тальхи, то она подарила Посланнику Аллаха ﷺ (несколько) своих пальм, а Пророк ﷺ (в свою очередь,) подарил их своей вольноотпущеннице Умм Айман, матери Усамы бин Зейда.\n(Анас ибн Малик, да будет доволен им Аллах, также) сказал, что, когда Пророк ﷺ закончил сражаться с жителями Хайбара и вернулся в Медину, мухаджиры вернули ансарам те пальмы, которые они подарили им; пророк же ﷺ вернул его матери пальмы(, полученные им в подарок) от неё, а вместо них Посланник Аллаха ﷺ подарил Умм Айман (несколько пальм) из своей (пальмовой рощи)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2630</td></tr><tr><td>Arabic No</td><td>2630</td></tr><tr><td>Reference</td><td>Book 51 Hadith 62</td></tr></tbody></table></div>
 

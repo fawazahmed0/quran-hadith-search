@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah: When the following Verse was revealed: "It is those who beli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dan juga telah meriwayatkan hadits yang serupa ini, Telah menceritakan kepadaku [Bisyir bin Khalid Abu Muhammad Al 'Asykari] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Sulaiman] dari [Ibrahim] dari [Alqamah] dari [Abdullah] berkata: ketika turun ayat: "Orang-orang beriman dan tidak mencampur adukkan iman mereka dengan kezhaliman" para sahabat Rasulullah shallallahu 'alaihi wasallam bertanya: "Siapakah diantara kami yang tidak berbuat zhalim? Maka Allah 'azza wajalla menurunkan (firman-Nya): "Sesungguhnya kesyirikan adalah kezhaliman yang besar". (QS. Luqman:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>32</td></tr><tr><td>Arabic No</td><td>32</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «Когда был ниспослан (аят, в котором сказано): „Те, которые уверовали и не затемнили свою веру несправедливостью...“ (Сура “аль-Анам”, 82), сподвижники Посланника Аллаха ﷺ стали говорить: „Кто же из нас не поступал несправедливо?“ И тогда Аллах Всевышний ниспослал (другой аят, в котором было сказано): „...ведь многобожие — великая несправедливость!“ (Сура “Лукман”, 13)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>32</td></tr><tr><td>Arabic No</td><td>32</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
 

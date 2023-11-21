@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:"When the Mu'adh-dhin pronounced the Adhan, some of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Ghundar] berkata, telah menceritakan kepada kami [Syu'bah] berkata, aku mendengar ['Amru bin 'Amir Al Anshari] dari [Anas bin Malik] berkata, "Jika seorang mu'adzin sudah mengumandangkan adzan (Maghrib), maka para sahabat Nabi shallallahu 'alaihi wasallam berebut mendekati tiang-tiang (untuk shalat sunnat) sampai Nabi shallallahu 'alaihi wasallam keluar, sementara mereka tetap dalam keadaan menunaikan shalat sunnat dua rakaat sebelum Maghrib. Dan di antara adzan dan iqamat Maghrib sangatlah sedikit (waktunya)." ['Utsman bin Jailah] dan [Abu Daud] menyebutkan dari [Syu'bah], "Antara keduanya (adzan dan iqamat) tidak ada waktu kecuali sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>625</td></tr><tr><td>Arabic No</td><td>625</td></tr><tr><td>Reference</td><td>Book 10 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Обычно, когда муаззин возглашал азан, люди из числа сподвижников Пророка ﷺ вставали и спешили к столбам, опережая друга, до тех пор, пока не выходил (на молитву) Пророк ﷺ. И в таком положении они совершали молитву в два рак‘ата перед закатной молитвой, а между азаном и икамой не было ничего». ‘Усман ибн Джабаля и Абу Дауд со слов Шу‘бы сказали: «И между ними проходило немного (времени)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>625</td></tr><tr><td>Arabic No</td><td>625</td></tr><tr><td>Reference</td><td>Book 10 Hadith 22</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. 'Auf reported:I asked 'A'isha, the mother of the believers, (to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1811</td></tr><tr><td>Arabic No</td><td>770</td></tr><tr><td>Reference</td><td>Book 6 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма ибн ‘Абдуррахман ибн ‘Ауф сказал: (Однажды) я спросил у ‘Аиши: «Какими словами (мольбы) приступал к молитве Пророк ﷺ когда вставал ночью?» Она ответила: «Когда он вставал ночью, он приступал к молитве (словами): “О Аллах, Господь Джибраила, Микаила и Исрафила, Создатель небес и земли. Знающий сокрытое и явное, Ты рассудишь Своих рабов в том, в чём они расходились между собой. Приведи меня с соизволения Своего к истине, относительно которой возникли расхождения, поистине, ведёшь Ты к прямому пути, кого пожелаешь!” /Аллахумма, Рабба Джибраиля, ва Микаиля, ва Исрафиля, Фатыра-с-самавати валь-арди, ‘алима-ль-гъайби ва-ш-шахадати, Анта тахкуму байна ‘ибадика фи-ма кану фийхи йахталифуна. Ихдини ли-ма-хтулифа фийхи мин аль-хаккъи би-изника, иннака тахди ман ташáу иля сыратин мустакымин/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1811</td></tr><tr><td>Arabic No</td><td>770</td></tr><tr><td>Reference</td><td>Book 6 Hadith 239</td></tr></tbody></table></div>
 

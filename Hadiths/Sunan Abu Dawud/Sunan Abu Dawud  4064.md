@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Aslam: Ibn Umar used to dye his beard with yellow colour so mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] berkata, telah menceritakan kepada kami [Abdul Aziz] -maksudnya Abdul Aziz Ibnu Muhammad- dari [Zaid] -maksudnya Zaid bin Aslam- ia berkata, " [Ibnu Umar] pernah mewarnai janggutnya dengan warna kuning (waras dan za'faran) hingga bajunya penuh dengan warna kuning. Lalu dikatakan kepadanya, "Kenapa engkau celup dengan warna kuning?" Ia menjawab, "Karena aku melihat Rasulullah shallallahu 'alaihi wasallam mencelup dengan warna itu, dan tidak ada sesuatu yang beliau sukai kecuali warna itu. Bahkan beliau memberi warna pakian dan surbannya dengan warna itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4064</td></tr><tr><td>Arabic No</td><td>4064</td></tr><tr><td>Reference</td><td>Book 34 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Асляма, что Ибн ‘Умар красил бороду куркумой так, что его одежда становилась жёлтой. Однажды его спросили: «Почему ты красишься куркумой?» Он ответил: «Потому что я видел, как Посланник Аллаха ﷺ красился таким образом, и это была его любимая краска. Он красил ею всю свою одежду и даже чалму»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4064</td></tr><tr><td>Arabic No</td><td>4064</td></tr><tr><td>Reference</td><td>Book 34 Hadith 45</td></tr></tbody></table></div>
 

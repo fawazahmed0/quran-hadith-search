@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:I asked 'Ali "Do you have anything Divine literature beside
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Mutharrif], bahwa [Amir] menceritakan kepada mereka, dari [Abu Juhaifah] mengatakan; Pernah aku berkata kepada [Ali] -lewat jalur periwayatan lain-telah menceritakan kepada kami [Shadaqoh bin Al Fadhl] telah mengabarkan kepada kami [Ibnu 'Uyainah] telah menceritakan kepada kami [Mutharrif] Aku mendengar [Asy Sya'bi] menceritakan dengan mengatakan; aku mendengar [Abu Juhaifah] mengatakan; aku bertanya kepada [Ali radliallahu 'anhu]; 'Apakah kamu mempunyai sesuatu yang tidak terdapat didalam alqur'an? ' sesekali Ibnu Uyainah mengatakan dengan redaksi; 'sesuatu yang tidak dimiliki manusia? ' ia menjawab; 'Demi Dzat yang membelah biji-bijian dan mencipta manusia, kami tidak mempunyai selain yang terdapat dalam al Qur'an, kecuali pemahaman yang diberikan kepada seseorang terhadap kitabNya dan yang terdapat dalam shahifah.' Saya bertanya; 'apa yang terdapat dalam shahifah? ' ia menjawab: 'kewajiban membayar diyat, membebaskan tawanan dan tidak boleh seorang muslim dibunuh karena orang kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6915</td></tr><tr><td>Arabic No</td><td>6915</td></tr><tr><td>Reference</td><td>Book 87 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джухайфа сказал: «(Однажды) я спросил ‘Али, да будет доволен им Аллах: “(Знаете ли) вы что-нибудь (об откровениях) помимо тех, что содержатся в Книге Аллаха? (А в другой раз он сказал: …то, чего нет у других людей)” (‘Али) ответил: “Клянусь Тем, Кто расщепляет зёрна и создаёт души, нет у нас ничего, кроме того, что в Коране, и понимания книги Аллаха, которым Он наделяет человека, (и есть у нас то, что написано) на этом листе”. Я спросил: “А что написано на этом листе?” Он ответил: “То, что следует выплачивать) виру за кровь /‘акль/, освобождать пленных и не убивать мусульманина за неверного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6915</td></tr><tr><td>Arabic No</td><td>6915</td></tr><tr><td>Reference</td><td>Book 87 Hadith 53</td></tr></tbody></table></div>
 

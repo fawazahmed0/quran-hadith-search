@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:We were sitting with the Prophet (ﷺ) and he looked at the moon 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Aun] telah menceritakan kepada kami [Khalid] dan [Husyaim] dari [Ismail] dari [Qais] dari [Jarir] berkata, "Pernah kami duduk-duduk di sisi Nabi shallallahu 'alaihi wasallam. Tiba-tiba beliau melihat bulan yang ketika itu malam purnama, lantas beliau bersabda: "Sungguh kalian akan melihat Tuhan kalian sebagaimana kalian melihat bulan ini, kalian tidak bakalan kesulitan melihatnya, maka jika kalian mampu untuk tidak kewalahan melakukan shalat sebelum matahari terbit dan matahari terbenam, maka lakukanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7434</td></tr><tr><td>Arabic No</td><td>7434</td></tr><tr><td>Reference</td><td>Book 97 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джарир (ибн ‘Абдуллах), да будет доволен им Аллах, сказал: «Однажды мы сидели возле Пророка ﷺ и он взглянул на полную луну, а потом сказал: “Поистине, вы увидите Господа вашего, как видите эту луну, и вам ничего не помешает увидеть Его! И если сможете вы добиться того, чтобы ничто не мешало вам совершать молитвы перед восходом солнца и перед закатом его, то совершайте их!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7434</td></tr><tr><td>Arabic No</td><td>7434</td></tr><tr><td>Reference</td><td>Book 97 Hadith 61</td></tr></tbody></table></div>
 

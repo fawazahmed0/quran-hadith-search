@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hafsa, la femme du Prophète, (رضي الله عنها) dit : "Ô Envoyé de Di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa [Hafshah] isteri Nabi shallallahu 'alaihi wasallam berkata, "Wahai Rasulullah, kenapa orang banyak telah tahallul dari umrah sementara Anda sendiri belum?" beliau menjawab: "Aku telah menggulung rambutku dan memberi kalung pada hewan kurban. Karena itu, aku tidak boleh tahallul sampai aku menyembelih hewan kurbanku ini." Dan Telah meceritakannya kepada kami [Ibnu Numair] Telah menceritakan kepada kami [Khalid bin Makhlad] dari [Malik] dari [Nafi'] dari [Ibnu Umar] dari [Hafshah] radliallahu 'anhum, ia berkata; Saya bertanya, "Wahai Rasulullah, kenapa Anda belum tahallul." Yakni serupa dengan hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>1229.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>1229.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 192</td></tr></tbody></table></div>
 

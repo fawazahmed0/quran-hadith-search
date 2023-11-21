@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that Allah's Apostle (ﷺ) met some riders at al-Rauha and as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ibnu Abu Umar] semuanya dari [Ibnu Uyainah] - [Abu Bakr] berkata- Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ibrahim bin Uqbah] dari [Kuraib] Maula Ibnu Abbas, dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam bertemu dengan serombongan pengendara di Rauha', lalu beliau bertanya: "Rombongan siapakah kalian?" mereka menjawab, "Kami rombongan kaum muslimin; dan Anda siapa?" beliau menjawab: "Aku adalah Rasulullah." Tiba-tiba seorang wanita datang kepada beliau dengan menggendong anak kecil, kemudian ia bertanya, "Wahai Rasulullah, sudah sahkah haji anak ini?" beliau menjawab: "Sah, dan kamu juga mendapatkan pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3253</td></tr><tr><td>Arabic No</td><td>1336.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 457</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3253</td></tr><tr><td>Arabic No</td><td>1336.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 457</td></tr></tbody></table></div>
 

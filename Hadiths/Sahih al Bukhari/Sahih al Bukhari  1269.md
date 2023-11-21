@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When 'Abdullah bin Ubai (the chief of hypocrites) died, his s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] berkata, telah menceritakan kepada saya [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] bahwa ketika 'Abdullah bin Ubay wafat, anaknya datang menemui Nabi shallallahu 'alaihi wasallam lalu berkata: "Wahai Rasulullah shallallahu 'alaihi wasallam: "Berikanlah kepadaku baju anda untuk aku gunakan mengafani (ayahku) dan shalatlah untuknya serta mohonkanlah ampunan baginya". Maka Nabi shallallahu 'alaihi wasallam memberikan bajunya kepadanya lalu berkata: "izinkanlah aku untuk menshalatkannya". Ketika Beliau hendak menshalatkannya tiba-tiba 'Umar bin Al Khaththab radliallahu 'anhu datang menarik Beliau seraya berkata: "Bukankah Allah telah melarang anda untuk menshalatkan orang munafiq?" Maka Beliau bersabda: "Aku berada pada dua pilihan dari firman Allah Ta'ala (QS. At-Taubah ayat 80, yang artinya): "Kamu mohonkan ampun buat mereka atau kamu tidak mohonkan ampun buat mereka (sama saja bagi mereka). Sekalipun kamu memohonkan ampun buat mereka sebanyak tujuh puluh kali, Allah sekali-kali tidak akan mengampuni mereka". Maka Beliau shallallahu 'alaihi wasallam menshalatkannya. Lalu turunlah ayat: (QS. At-Taubah ayat 84 yang artinya): "Janganlah kamu shalatkan seorangpun yang mati dari mereka selamanya dan janganlah kamu berdiri di atas kuburannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1269</td></tr><tr><td>Arabic No</td><td>1269</td></tr><tr><td>Reference</td><td>Book 23 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что, когда ‘Абдуллах бин Убайй умер, его сын пришёл к Пророку ﷺ и сказал: «О Посланник Аллаха, дай мне свою рубаху, чтобы я завернул в неё его (тело), соверши над ним джаназа намаз и попроси Аллаха простить его». И Пророк ﷺ дал ему свою рубаху, сказав (при этом): «Дай мне знать, чтобы я мог совершить намаз». (Через некоторое время) тот сообщил ему, (что всё готово,) но, когда (Пророк ﷺ) хотел приступить к джаназа намазу, ‘Умар, да будет доволен им Аллах, потянул его (за одежду) и спросил: «Разве Аллах не запретил тебе молиться за лицемеров?» (В ответ ему Пророк ﷺ) сказал: «Я имею право выбора, ибо сказал Он: “Будешь ты просить для них прощения или нет(, не имеет значения, ибо), если (даже) ты попросишь для них прощения семьдесят раз, Аллах никогда не простит им…”» И он (всё же) совершил над ним намаз, после чего был ниспослан аят(, в котором говорится): «Никогда не молись ни по кому из них (в случае его смерти)…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1269</td></tr><tr><td>Arabic No</td><td>1269</td></tr><tr><td>Reference</td><td>Book 23 Hadith 30</td></tr></tbody></table></div>
 

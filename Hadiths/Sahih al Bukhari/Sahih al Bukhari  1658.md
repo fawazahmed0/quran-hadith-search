@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Al-Fadl:The people doubted whether the Prophet (ﷺ) was observing t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] dari [Az Zuhriy] telah menceritakan kepada kami [Salim] berkata; Aku mendengar ['Umair], maula Ummu Al Fadhal dari [Ummu Al Fadhal]; 'Orang-orang ragu apakah Nabi Shallallahu'alaihiwasallam shaum pada hari 'Arafah. Maka aku utus seseorang membawakan minuman, lalu Beliau meminumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1658</td></tr><tr><td>Arabic No</td><td>1658</td></tr><tr><td>Reference</td><td>Book 25 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм аль-Фадль, да будет доволен ею Аллах, сказала: «В день (стояния на) ‘Арафате у людей возникли сомнения относительно того, постится Пророк ﷺ или нет, и тогда я отослала ему питьё, а он выпил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1658</td></tr><tr><td>Arabic No</td><td>1658</td></tr><tr><td>Reference</td><td>Book 25 Hadith 139</td></tr></tbody></table></div>
 

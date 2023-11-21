@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar used to spend the night at Dhi-Tuwa in between the two 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Abu Dhamrah] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] bahwa [Ibnu'Umar radliallahu 'anhuma] bermalam di Dzu Thuwa diantara dua jalan dataran tinggi, lalu dia masuk melalui salah satu dari dataran itu yang berada di sebelah atas kota Makkah. Dan apabila sudah sampai di Makkah baik untuk menunaikan haji atau 'umrah, dia tidak singgah menambatkan untanya kecuali di (tempat) dekat pintu masjid (Al Masjidil Haram). Kemudian dia masuk dan mendatangi Rukun Hajar Aswad, lalu dia memulai thawaf dari sana sebanyak tujuh kali putaran dengan tiga kali berjalan cepat dan empat kalinya berjalan biasa, kemudian apabila telah selesai, dia shalat dua raka'at. Sebelum dia kembali ke tempat tinggalnya, dia melaksanakan sa'iy antara bukit Shafaa dan Marwah. Dan apabila dia telah menyelesaikan seluruh manasik haji atau 'umrahnya, dia singgah beristirahat di Al Bathha' yang terletak di DzulHulaifah, tempat yang pernah digunakan Rasulullah shallallahu 'alaihi wasallam untuk singgah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1767</td></tr><tr><td>Arabic No</td><td>1767</td></tr><tr><td>Reference</td><td>Book 25 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что Ибн ‘Умар обычно проводил ночь в (долине) Зу Тува между двумя горными проходами, а затем он входил в Мекку через проход, который находится в более высокой области Мекки. И когда он прибывал в Мекку для совершения хаджа или ‘умры, он опускал свою верблюдицу на колени только у ворот мечети (аль-Харам), а затем он входил (в неё), шёл к углу, в котором Чёрный камень и начинал оттуда обходить Каабу. Итак, он обходил Каабу семь раз: быстрым шагом первые три круга, и идя обычным шагом последние четыре. Закончив, он совершал молитву в три рак‘ата и отправлялся совершать бег между ас-Сафой и аль-Марвой, прежде чем вернуться в свое жилище. Возвращаясь (в Медину) из хаджа или умры, он обычно ставил свою верблюдицу на колени в аль-Батхе, которая находится в Зуль-Хулейфе, месте, где Пророк ﷺ обычно ставил свою верблюдицу на колени
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1767</td></tr><tr><td>Arabic No</td><td>1767</td></tr><tr><td>Reference</td><td>Book 25 Hadith 243</td></tr></tbody></table></div>
 

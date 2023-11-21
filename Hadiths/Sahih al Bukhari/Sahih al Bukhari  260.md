@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:The Prophet (ﷺ) took the bath of Janaba. (sexual relation or 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Az Zubair Al Humaidi] berkata, telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepada kami [Al A'masy] dari [Salim bin Abu Al Ja'd] dari [Kuraib] dari [Ibnu 'Abbas] dari [Maimunah], bahwa Nabi shallallahu 'alaihi wasallam mandi janabat, beliau lalu mencuci kemaluannya dengan tangan, lalu beliau menyentuhkan tangannya ke dinding, lalu mencucinya dengan air. Kemudian berwudlu sebagaimana wudlu untuk shalat, selesai mandi beliau mencuci kedua kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>260</td></tr><tr><td>Arabic No</td><td>260</td></tr><tr><td>Reference</td><td>Book 5 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас передал со слов Маймуны о том, что Пророк ﷺ совершая большое омовение от полового осквернения помыл свои половые органы рукой, затем потёр ею о стену и затем помыл её. Затем он совершил (такое же) омовение, которое он совершал для молитвы, а когда он завершил своё купание, он помыл свои ноги
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>260</td></tr><tr><td>Arabic No</td><td>260</td></tr><tr><td>Reference</td><td>Book 5 Hadith 13</td></tr></tbody></table></div>
 

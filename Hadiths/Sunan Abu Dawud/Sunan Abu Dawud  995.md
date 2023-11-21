@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) was in the first two rak'ahs as 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Sa'd bin Ibrahim] dari [Abu 'Ubaidah] dari [ayahnya] bahwa ketika Nabi shallallahu 'alaihi wasallam bangkit dari dua raka'at yang pertama, beliau seperti duduk di atas batu yang di panaskan." Syu'bah berkata; "Hingga beliau segera berdiri?" Sa'd bin Ibrahim menjawab; "Sehingga beliau bergegas untuk berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>995</td></tr><tr><td>Arabic No</td><td>995</td></tr><tr><td>Reference</td><td>Book 2 Hadith 606</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу ‘Убайда передаёт со слов своего отца: «Пророк ﷺ в первых двух рак‘атах садился так, будто он садился на горячий камень». Он сказал: «Мы спросили: “То есть он готов был тут же встать?” Он ответил: “То есть он готов был тут же встать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>995</td></tr><tr><td>Arabic No</td><td>995</td></tr><tr><td>Reference</td><td>Book 2 Hadith 606</td></tr></tbody></table></div>
 

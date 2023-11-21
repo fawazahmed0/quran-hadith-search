@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Once the people of Medina were frightened, so the Prophet (ﷺ) bo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] berkata, aku mendengar [Anas] berkata: "Di Madinah terjadi kegaduhan, lalu Nabi shallallahu 'alaihi wasallam meminjam kuda milik Abu Thalhah yang bernama Al Mandub, lalu Beliau pacu kudanya menuju suara itu. Kemudian beliau kembali dan berkata: "Kami tidak melihat sesuatupun, dan sungguh aku dapatkan kuda ini sedemikian cepat larinya, bagaikan ombak menggulung lautan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2627</td></tr><tr><td>Arabic No</td><td>2627</td></tr><tr><td>Reference</td><td>Book 51 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(Однажды, когда люди) в Медине (стали ощущать) какой-то страх, Пророк ﷺ одолжил коня у Абу Тальхи по кличке Мандуб и ускакал на нём. (Вернувшись,) он сказал: “Мы не увидели (ничего) страшного, но обнаружили, что этот конь (имеет столь же неисчерпаемую энергию и резвость) как море”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2627</td></tr><tr><td>Arabic No</td><td>2627</td></tr><tr><td>Reference</td><td>Book 51 Hadith 59</td></tr></tbody></table></div>
 

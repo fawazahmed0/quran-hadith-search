@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ata said:Blight means anything which obviously damages (the crop), by rain, hail
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Utsman bin Al Hakam] dari [Ibnu Juraij] dari ['Atha] ia berkata, "Jaihah adalah setiap fenomena yang merusak, berupa hujan, musim dingin, belalang atau angin atau kebakaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3471</td></tr><tr><td>Arabic No</td><td>3471</td></tr><tr><td>Reference</td><td>Book 24 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Ата сказал, что под бедствием понимается всё, что наносит ощутимый вред: дожди, холод, саранча, ветер или пожар
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3471</td></tr><tr><td>Arabic No</td><td>3471</td></tr><tr><td>Reference</td><td>Book 24 Hadith 56</td></tr></tbody></table></div>
 

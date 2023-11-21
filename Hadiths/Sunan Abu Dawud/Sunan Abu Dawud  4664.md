@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Tha’labah b. Dubai’ah said:We entered upon Hudhaifah. He said: I know a man 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Marzuq] berkata, telah mengabarkan kepada kami [Syu'bah] dari [Al Asy'ast bin Sulaim] dari [Abu Burdah] dari [Tsa'labah bin Dlubai'ah] ia berkata, "Kami masuk menemui [Hudzaifah], ia lalu berkata, "Sungguh, aku mengetahui seorang laki-laki yang tidak akan terkena buruknya fitnah sedikitpun." Tsa'labah berkata, "Kami lalu pergi hingga mendapati sebuah tenda yang terpasang. Ketika kami masuk ternyata di dalamnya ada Muhammad bin Maslamah. Maka kami pun menanyakan hal itu (perkataan Hudzaifah) kepadanya, ia berkata, "Aku tidak ingin tinggal bersama di kota kalian hingga jelas fitnah yang terjadi." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Asy'ats bin Sulaim] dari [Abu burdah] dari [Dlubai'ah bin Hushain Ats Tsa'labi] dengan makna yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4664</td></tr><tr><td>Arabic No</td><td>4664</td></tr><tr><td>Reference</td><td>Book 42 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Са‘лябы ибн Дубай‘и: «Мы зашли к Хузайфе, и он сказал: “Поистине, я знаю человека, которому не может причинить вред смута”. После этого мы вышли и увидели шатёр. Мы вошли внутрь и увидели там Мухаммада ибн Масламу. Мы спросили его об этом, и он ответил: “Поистине, не желаю я жить в ваших городах, пока не уйдёт то, что постигло их!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4664</td></tr><tr><td>Arabic No</td><td>4664</td></tr><tr><td>Reference</td><td>Book 42 Hadith 69</td></tr></tbody></table></div>
 

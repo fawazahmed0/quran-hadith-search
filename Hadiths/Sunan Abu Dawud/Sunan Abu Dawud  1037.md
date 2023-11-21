@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mughirah ibn Shu'bah: Ziyad ibn Ilaqah said: Al-Mughirah ibn Shu'bah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar Al Jusyami] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Al Mas'udi] dari [Ziyad bin 'Ilaqah] dia berkata; " [Al Mughirah bin Syu'bah] shalat bersama kami, lalu langsung berdiri di raka'at kedua, lantas kami mengucapkan "Subhanallah" dia juga mengucapkan; "Subhanallah" dan dia terus berdiri. Setelah menyempurnakan shalat dan memberi salam, dia sujud sahwi dua kali, seusai shalat dia berkata; "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam mengerjakan seperti yang aku kerjakan." Abu Daud berkata; "Demikian pula yang di riwayatkan oleh [Ibnu Abu Laila] dari [Asy Sya'bi] dari [Al Mughirah bin Syu'bah] dan dia merafa'kan hadits tersebut." Dan di riwayatkan pula oleh [Abu 'Umais] dari [Tsabit bin 'Ubaid] dia berkata; " [Al Mughirah bin Syu'bah] shalat bersama kami…" seperti haditsnya Ziyad bin 'Ilaqah. Abu Daud mengatakan; "Abu 'Umais adalah saudara Al Mas'udi, sedangkan Sa'd bin Abu Waqash juga pernah mengerjakan apa yang di kerjakan oleh Al Mughirah, begitu juga dengan 'Imran bin Hushain, Dlahak bin Qais, Mu'awiyah bin Abu Sufyan dan Ibnu Abbas. Umar bin Abdul Aziz juga pernah memberi fatwa seperti itu. Abu Daud berkata; "Dan yang demikian bagi orang yang langsung berdiri dari dua raka'at (lupa dari tasyahud), kemudian dia sujud (sahwi) setelah salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1037</td></tr><tr><td>Arabic No</td><td>1037</td></tr><tr><td>Reference</td><td>Book 2 Hadith 648</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зияда ибн ‘Иляка: «Аль-Мугира ибн Шу‘ба руководил нашей молитвой и поднялся после двух рак‘атов, и мы сказали: “Пречист Аллах!” Он также сказал: “Пречист Аллах!” Потом он завершил молитву и произнёс слова таслима, после чего совершил два земных поклона для искупления своей оплошности. Затем он сказал: “Я видел, как Посланник Аллаха ﷺ поступал так же, как я сейчас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1037</td></tr><tr><td>Arabic No</td><td>1037</td></tr><tr><td>Reference</td><td>Book 2 Hadith 648</td></tr></tbody></table></div>
 

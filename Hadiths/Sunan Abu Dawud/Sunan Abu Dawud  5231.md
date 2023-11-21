@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A man: Ghalib said: When we were sitting at al-Hasan's door, a man came
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Isma'il] dari [Ghalib] ia berkata, "Ketika kami sedang duduk bersama-sama di pintu Al Hasan tiba-tiba ada [seorang laki-laki] yang datang seraya berkata, "Bapakku menceritakan kepadaku dari kakekku. Ia mengatakan, "Bapakku mengutusku untuk menemui Rasulullah shallallahu 'alaihi wasallam, ia berkata, "Datangilah Rasulullah dan ucapkan salam kepadanya." Aku lalu mendatangi beliau dan berkata, "Sesungguhnya bapakku menitipkan salam untukmu." Beliau lalu bersabda: "Alaikassalam wa 'Ala Abiikassalam (semoga keselamatan tercurahkan kepada kamu dan bapakmu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5231</td></tr><tr><td>Arabic No</td><td>5231</td></tr><tr><td>Reference</td><td>Book 43 Hadith 459</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5231</td></tr><tr><td>Arabic No</td><td>5231</td></tr><tr><td>Reference</td><td>Book 43 Hadith 459</td></tr></tbody></table></div>
 

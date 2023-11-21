@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hazim b. Dinar said:People came to Sahl b. Sa'd al-Sa'idi, when they were do
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub bin Abdurrahman bin Muhammad bin Abdullah bin Abdul Qarri' Al Qurasyi] telah menceritakan kepadaku [Abu Hazim bin Dinar] bahwa beberapa orang pergi menemui [Sahl bin Sa'd As Saidi], sedangkan mereka memperdebatkan mengenai bahan kayu untuk membuat mimbar, mereka menanyakan hal itu kepada Sahl, jawab Sahl; "Demi Allah, sungguh aku telah mengetahuinya dari apakah ia di buat, sesungguhnya aku telah melihatnya ketika pertama kali di letakkan, dan pada hari pertama Rasulullah shallallahu 'alaihi wasallam duduk di atasnya. Rasulullah shallallahu 'alaihi wasallam pernah mengutus seseorang untuk menemui fulanah -seorang wanita yang namanya di sebutkan oleh Sahl-, sabdanya: "Suruhlah budakmu yang tukang kayu untuk membuatkanku mimbar supaya aku bisa duduk di atasnya apabila aku berkhutbah (pidato) di hadapan manusia." Lantas fulanah tadi menyuruh budaknya, dan budak tersebut mulai membuatnya yang di ambil (kayunya) dari hutan Tharfa' (derah pedesaan), setelah jadi, budak tersebut membawanya kepada wanita itu, lalu (mimbar itu) di kirim kepada Nabi shallallahu 'alaihi wasallam, maka beliau menyuruh untuk meletakkan di sini, aku melihat Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat di atas mimbar tersebut, lalu beliau bertakbir dan ruku', sementara beliau masih di atas mimbar, kemudian beliau turun pelan-pelan dan mundur ke belakang lalu sujud di pangkal mimbarnya, kemudian beliau kembali. Selesai shalat, beliau menghadap kepada orang-orang lalu bersabda: "Wahai sekalian manusia, aku melakukan hal ini tidak lain supaya kalian mengikutiku dan melihat tata cara shalatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (917) Sahih Muslim (544)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 2 Hadith 691</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хазима ибн Динара, что некие люди пришли к Сахлю ибн Са‘ду ас-Са‘иди после того, как поспорили относительно того, из какого дерева был изготовлен минбар. Они спросили его об этом, и он сказал: «Клянусь Аллахом, поистине, я знаю, из чего он сделан, ведь я видел его ещё в тот день, когда его поставили и когда на него сел Посланник Аллаха ﷺ. Посланник Аллаха ﷺ послал человека к такой-то женщине и Сахль назвал её имя, чтобы ей передали: “Вели своему рабу-плотнику, чтобы он сделал для меня возвышение из дерева, на котором я буду сидеть, когда стану обращаться к людям”. И она отдала распоряжение своему рабу, который сделал этот минбар из тамариска из аль-Габы, а потом доставил его к ней. Она отослала его Пророку ﷺ по велению которого он был установлен здесь. А потом я видел, как Посланник Аллаха ﷺ совершил на этом минбаре молитву, произнеся такбир и совершив поясной поклон. Затем он сошёл вниз, пятясь назад, и совершил у подножия минбара земной поклон, а затем снова поднялся на минбар. Когда же он закончил молитву, то повернулся к людям и сказал: “О люди, поистине, я сделал это, чтобы вы следовали моему примеру и учились моей молитве”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (917) Sahih Muslim (544)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 2 Hadith 691</td></tr></tbody></table></div>
 

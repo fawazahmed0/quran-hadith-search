@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sulaiman b. Surad said:Two men reviled each other in the presence of the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Adi bin Tsabit] dari [Sulaiman bin Shurd] ia berkata, "Ada dua orang saling mencela di sisi Nabi shallallahu 'alaihi wasallam, salah seorang dari mereka matanya tampak memerah dan urat lehernya tampak menegang. Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Sungguh, aku tahu sebuah kalimat yang jika dibaca oleh seseorang maka akan hilang apa yang dirasakannya (rasa marah). Yaitu, A'UUDZU BILLAAHI MINAS SYAITHAANIR RAJIIMI (aku berlindung kepada Allah dari setan yang terkutuk)." Laki-laki yang marah itu lalu berkata, "Apakah engkau melihatku seperti orang gila?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2382) Sahih Muslim (2610)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4781</td></tr><tr><td>Arabic No</td><td>4781</td></tr><tr><td>Reference</td><td>Book 43 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сулейман ибн Сурад, да будет доволен им Аллах, сказал: (Однажды) в присутствии Пророка ﷺ двое мужчин разругались между собой, и у одного из них покраснели глаза и вздулись вены на шее. (Увидев это,) Посланник Аллаха ﷺ сказал: «Поистине, я знаю такие слова, произнеся которые (гнев) этого (человека) обязательно прошёл бы, (и это слова): “Прибегаю к защите Аллаха от проклятого шайтана” /А‘узу би-Лляхи мина-ш-шайтани-р-раджим/». Но тот мужчина сказал: «Ты (что,) считаешь меня безумцем?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2382) Sahih Muslim (2610)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4781</td></tr><tr><td>Arabic No</td><td>4781</td></tr><tr><td>Reference</td><td>Book 43 Hadith 9</td></tr></tbody></table></div>
 

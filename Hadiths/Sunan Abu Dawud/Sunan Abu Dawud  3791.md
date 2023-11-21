@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said:I was an adolescent boy. I hunted a hare and roasted it. Abu 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Hisyam bin Zaid] dari [Anas bin Malik] ia berkata, "Aku adalah seorang anak yang kuat, lalu aku berburu kelinci dan membakarnya. Kemudian Abu Thalhah menyuruhku untuk mengirimkan bagian pantat kelinci kepada Nabi shallallahu 'alaihi wasallam, lalu aku membawanya kepada beliau dan beliau menerimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2572) Sahih Muslim (1953)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3791</td></tr><tr><td>Arabic No</td><td>3791</td></tr><tr><td>Reference</td><td>Book 28 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт: «Я был подростком и однажды поймал зайца и зажарил его. Абу Тальха велел мне отнести заднюю часть этого зайца Пророку ﷺ. Я отнёс ему это мясо, и он принял его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2572) Sahih Muslim (1953)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3791</td></tr><tr><td>Arabic No</td><td>3791</td></tr><tr><td>Reference</td><td>Book 28 Hadith 56</td></tr></tbody></table></div>
 

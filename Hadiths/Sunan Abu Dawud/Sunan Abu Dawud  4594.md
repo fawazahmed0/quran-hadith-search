@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: No recompense may be demanded if t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul Mutawakkil Al 'Asqalani] berkata, telah menceritakan kepada kami [Abdurrazaq]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ja'far bin Musafir At Tinnisi] berkata, telah menceritakan kepada kami [Zaid Ibnul Mubarak] berkata, telah menceritakan kepada kami [Abdul Malik Ash Shan'ani] keduanya dari [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Api adalah sia-sia (tidak ada tebusan bagi apa yang dirusak oleh api yang menjalar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>4594</td></tr><tr><td>Reference</td><td>Book 41 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что однажды слуга бедных людей отрезал ухо слуге богатых людей. Хозяева пришли к Пророку ﷺ и они сказали: «О Посланник Аллаха, мы бедняки». И он не взял с него никакой компенсации
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>4594</td></tr><tr><td>Reference</td><td>Book 41 Hadith 101</td></tr></tbody></table></div>
 

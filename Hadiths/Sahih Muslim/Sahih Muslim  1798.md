@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:I slept one night in the house of Maimuna when the Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1798</td></tr><tr><td>Arabic No</td><td>763.11</td></tr><tr><td>Reference</td><td>Book 6 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «(Однажды) я ночевал в доме Маймуны, когда Пророк ﷺ был у неё, чтобы посмотреть, как он совершает ночные молитвы. Пророк ﷺ поговорил некоторое время со своей супругой, после чего лёг спать…». Затем он передал хадис до конца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1798</td></tr><tr><td>Arabic No</td><td>763.11</td></tr><tr><td>Reference</td><td>Book 6 Hadith 226</td></tr></tbody></table></div>
 

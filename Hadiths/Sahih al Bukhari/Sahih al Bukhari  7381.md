@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:We used to pray behind the Prophet (ﷺ) and used to say: "As
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Mughirah] telah menceritakan kepada kami [Syaqiq bin Maslamah] berkata, [Abdullah] berkata, 'Pernah kami shalat di belakang Nabi shallallahu 'alaihi wasallam dan kami mengucapkan, 'ASSALAMU ALALLAHI (Semoga keselamatan atas Allah) ', maka beliau berkata: 'Sesungguhnya Allah adalah Assalaam', namun katakanlah olehmu sekalian: 'ATTAHIYAATULILLAH WA ASH SHALAWATU WATH THAYYIBAT ASSALAAMU ALAIKA AYYUHANNABIYU WA RAHMATULLAHI WA BARAKAATUHU ASSALAAMU 'ALAINA WA 'ALA 'IBAADILLAHISH SHAALIHIINA ASYHADU AN LAA ILAAHA ILLAALLAHU WA ASYHADU ANNA MUHAMMADAN 'ABDUHU WA RASUULUH (Segala pujian milik Allah', dan kesejahteraan serta segala kebaikan, semoga kesejahteraan atasmu wahai nabi shallallahu 'alaihi wasallam, juga rahmat Allah dan barakah-Nya. Dan semoga kesejahteraan terlimpahkan kepada kita, dan hamba-hamba Allah yang shalih, saya bersaksi bahwa tiada sesembahan yang hak selain Allah semata dan saya bersaksi bahwa Muhammad adalah hamba-Nya dan Rasul-Nya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7381</td></tr><tr><td>Arabic No</td><td>7381</td></tr><tr><td>Reference</td><td>Book 97 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «Совершая молитвы позади Пророка ﷺ мы говорили: “Мир Аллаху”, но (однажды) Посланник Аллаха ﷺ сказал: “Поистине, Аллах и есть ас-Салям, однако говорите: ‹Все приветствия, все молитвы и всё благое Аллаху, мир тебе, о Пророк, милость Аллаха и благословения Его, мир нам и всем праведным рабам Аллаха. Свидетельствую, что нет божества достойного поклонения, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник /Ат-тахийату ли-Лляхи, ва-с-салявату ва-т-таййибату, ас-саляму ‘аляй-ка, аййуха-н-набиййу, ва рахмату-Ллахи ва баракату-ху, ас-саляму ‘аляй-на ва ‘аля ‘ибади-Лляхи-с-салихин. Ашхаду алля иляха илля-Ллаху ва ашхаду анна Мухаммадан ‘абду-ху ва расулю-ху/ ›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7381</td></tr><tr><td>Arabic No</td><td>7381</td></tr><tr><td>Reference</td><td>Book 97 Hadith 11</td></tr></tbody></table></div>
 

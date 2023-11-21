@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir al-Juhani reported:Allah's Messenger (ﷺ) distributed sacrificial animals 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yazid bin Harun] dari [Hisyam Ad Datawa'i] dari [Yahya bin Abu Katsir] dari [Ba'jah Al Juhani] dari ['Uqbah bin 'Amir Al Juhani] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah membagi-bagikan hewan kurban kepada kami. Saya mendapat seekor kambing muda. Lalu kukatakan kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai Rasulullah, saya mendapat kambing muda!" Beliau bersabda: "Berkurbanlah dengan itu!" Dan telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] telah menceritakan kepada kami [Yahya] -yaitu Ibnu Hasan- telah mengabarkan kepada kami [Mu'awiyah] -yaitu Ibnu Sallam- telah menceritakan kepadaku [Yahya bin Abu Katsir] telah mengabarkan kepadaku [Ba'jah bin Abdullah] bahwa ['Uqbah bin 'Amir Al Juhani] mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam pernah membagi-bagikan hewan kurban untuk para sahabatnya, sebagaimana makna hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5085</td></tr><tr><td>Arabic No</td><td>1965.02</td></tr><tr><td>Reference</td><td>Book 35 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5085</td></tr><tr><td>Arabic No</td><td>1965.02</td></tr><tr><td>Reference</td><td>Book 35 Hadith 22</td></tr></tbody></table></div>
 

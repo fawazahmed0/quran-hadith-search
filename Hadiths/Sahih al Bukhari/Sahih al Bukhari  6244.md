@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Whenever Allah's Messenger (ﷺ) greeted somebody, he used to gree
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Abdush Shamad] telah menceritakan kepada kami [Abdullah bin Al Mutsanna] telah menceritakan kepada kami [Tsumamah bin Abdullah] dari [Anas] radliallahu 'anhu bahwa; "Apabila Rasulullah shallallahu 'alaihi wasallam memberi salam, beliau memberi salam hingga tiga kali, dan apabila berbicara biasanya beliau mengulanginya hingga tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6244</td></tr><tr><td>Arabic No</td><td>6244</td></tr><tr><td>Reference</td><td>Book 79 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, да будет доволен им Аллах: «Когда Посланник Аллаха ﷺ приветствовал (кого-либо) салямом, то делал это три раза, а когда говорил что-нибудь (людям), он обычно повторял сказанное трижды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6244</td></tr><tr><td>Arabic No</td><td>6244</td></tr><tr><td>Reference</td><td>Book 79 Hadith 18</td></tr></tbody></table></div>
 

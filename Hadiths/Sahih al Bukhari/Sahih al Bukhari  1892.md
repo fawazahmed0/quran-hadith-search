@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) observed the fast on the 10th of Muharram (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata: "Nabi shallallahu 'alaihi wasallam melaksanakan puasa hari 'Asyura' (10 Muharam) lalu memerintahkan (para sahabat) untuk melaksanakannya pula. Setelah Allah mewajibklan puasa Ramadhan, maka puasa hari 'Asyura' ditinggalkan. Dan 'Abdullah bin 'Umar radliallahu 'anhu tidaklah melaksanakan puasa hari 'Asyura' kecuali bila bertepatan dengan hari-hari puasa yang biasa dikerjakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1892</td></tr><tr><td>Arabic No</td><td>1892</td></tr><tr><td>Reference</td><td>Book 30 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Нафи‘а (да помилует его Аллах), что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ соблюдал пост ‘Ашура и велел соблюдать пост в этот (день и другим). Когда же был предписан (пост) в рамадане, он оставил его». И ‘Абдуллах (ибн ‘Умар) не соблюдал этот пост, кроме случаев, когда он совпадал с его (дополнительным) постом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1892</td></tr><tr><td>Arabic No</td><td>1892</td></tr><tr><td>Reference</td><td>Book 30 Hadith 2</td></tr></tbody></table></div>
 

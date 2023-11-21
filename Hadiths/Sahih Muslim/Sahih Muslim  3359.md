@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who intends to do harm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Ibrahim bin Dinar] keduanya berkata, Telah menceritakan kepada kami [Hajjaj] -dalam riwayat lain- Dan telah menceritakannya kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] semuanya dari [Ibnu Juraij] ia berkata, telah mengabarkan kepadaku [Amru bin Yahya bin Umarah] bahwa ia mendengar [Al Qarrazh] -dan ia termasuk sahabat Abu Hurairah-, ia berdali bahwa ia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang menginginkan keburukan bagi penduduknya yakni Madinah, Allah akan menyiksanya sebagaimana mencairnya garam di dalam air." Ibnu Hatim berkata; Di dalam hadits Ibnu Yuhannas kata, "Bisuu'in" diganti dengan kata, "Syarran (buruk)." Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Abu Harun Musa bin Abu Isa] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Abu Umar Ad Darawardi] dari [Muhammad bin Amru] semuanya mendengar [Abu Abdullah Al Qarrazh] ia mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, dengan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3359</td></tr><tr><td>Arabic No</td><td>1386.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 563</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3359</td></tr><tr><td>Arabic No</td><td>1386.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 563</td></tr></tbody></table></div>
 

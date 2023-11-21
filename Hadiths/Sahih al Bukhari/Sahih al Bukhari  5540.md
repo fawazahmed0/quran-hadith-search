@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:The Prophet (ﷺ) was asked about a mouse that had fallen into 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Malik] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] dari [Maimunah] -radliallahu 'anhhum- dia berkata; Nabi shallallahu 'alaihi wasallam pernah di tanya mengenai seekor tikus yang terjatuh di minyak samin, beliau bersabda: "Buanglah tikus itu dan sesuatu yang ada disekitarnya, lalu makanlah minyak samin tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5540</td></tr><tr><td>Arabic No</td><td>5540</td></tr><tr><td>Reference</td><td>Book 72 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Маймуна, да будет доволен ею Аллах, что однажды Пророка ﷺ спросили о (том, что следует делать с) маслом, в которое попала мышь, и он сказал: «Достаньте и выбросьте (мышь) со всем тем, что вокруг неё есть, и ешьте остальное (масло)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5540</td></tr><tr><td>Arabic No</td><td>5540</td></tr><tr><td>Reference</td><td>Book 72 Hadith 65</td></tr></tbody></table></div>
 

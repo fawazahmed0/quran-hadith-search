@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Na'm:I was present when a man asked Ibn 'Umar about the blood o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Mahdi] telah menceritakan kepada kami [Ibnu Abu Ya'qub] dari [Ibnu Abu Nu'm] dia berkata; saya pernah menyaksikan [Ibnu Umar] bahwa dia ditanya seorang laki-laki tentang darah nyamuk, Ibnu Umar bertanya; "Dari manakah kamu?" laki-laki itu menjawab; "Dari negeri Irak." Ibnu Umar berkata; "Lihatlah kepada orang ini, dia bertanya kepadaku tentang darah nyamuk, sementara mereka (penduduk Irak) telah membunuh cucu Nabi shallallahu 'alaihi wasallam, dan saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "keduanya (Hasan dan Husain) adalah kebanggaanku di dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5994</td></tr><tr><td>Arabic No</td><td>5994</td></tr><tr><td>Reference</td><td>Book 78 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Ну’айм сказал: «Я был свидетелем того, как какой-то человек спросил Ибн ‘Умара о крови (убийстве) комара (в состоянии ихрама), и Ибн ‘Умар спросил его: “Откуда ты?” Тот ответил: “Из числа жителей Ирака”. Тогда Ибн ‘Умар сказал: “Посмотрите на него, он спрашивает меня о крови комара в то время, как они убили внука Пророка ﷺ, а ведь я слышал как Пророк ﷺ сказал: “Они (аль-Хасан и аль-Хусейн) — два благоухающих цветка для меня в этом мире!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5994</td></tr><tr><td>Arabic No</td><td>5994</td></tr><tr><td>Reference</td><td>Book 78 Hadith 25</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zayd Ibn Thâbit (que Dieu l'agrée) a dit : Nous prîmes le suhûr avec le Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah mengabarkan kepada kami [Waki'] dari [Hisyam] dari [Qatadah] dari [Anas] dari [Zaid bin Tsabit] radliallahu 'anhu, ia berkata; "Kami makan sahur bersama Rasulullah shallallahu 'alaihi wasallam, dan sesudah itu kami beranjak untuk menunaikan shalat." saya bertanya, "Kira-kira berapa lama jarak antara makan sahur dan shalat." Ia menjawab, "Kira-kira selama pembacaan lima puluh ayat." Dan telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Hammam] -dalam jalur lain- Telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Salim bin Nuh] telah menceritakan kepada kami [Umar bin Amir] keduanya dari [Qatadah] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2552</td></tr><tr><td>Arabic No</td><td>1097.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2552</td></tr><tr><td>Arabic No</td><td>1097.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 58</td></tr></tbody></table></div>
 

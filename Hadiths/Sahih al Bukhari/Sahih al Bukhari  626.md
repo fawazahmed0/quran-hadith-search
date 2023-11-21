@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to pray two light rak'at before the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwa ['Aisyah] berkata, "Jika mu'adzin selesai mengumandangkan adzan pertama dari adzan shalat Shubuh, Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat dua rakaat ringan sebelum melaksanakan shalat fajar, yaitu ketika fajar sudah jelas masuknya. Kemudian beliau berbaring pada sisi kanan badannya hingga mu'adzin mendatangi beliau untuk mengumandangkan iqamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>626</td></tr><tr><td>Arabic No</td><td>626</td></tr><tr><td>Reference</td><td>Book 10 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал: «‘Урва ибн аз-Зубайр сообщил мне о том, что ‘Аиша, да будет доволен ею Аллах, сказала: “Обычно после того, как муаззин умолкал (после возвещения азана) к утренней молитве, Посланник Аллаха ﷺ вставал и совершал (дополнительнюю молитву) в два легких рак‘ата перед обязательным утренней молитвой, после того, как появлялась заря. Затем он лежал на правом боку до тех пор, пока к нему не приходил муаззин(, звавший его на молитву)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>626</td></tr><tr><td>Arabic No</td><td>626</td></tr><tr><td>Reference</td><td>Book 10 Hadith 23</td></tr></tbody></table></div>
 

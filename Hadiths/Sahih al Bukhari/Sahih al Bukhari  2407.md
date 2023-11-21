@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:A man came to the Prophet (ﷺ) and said, "I am often betraye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari ['Abdullah bin Dinar] berkata, aku mendengar ['Abdullah bin 'Umar radliallahu 'anhuma] berkata; Ada seorang laki-laki berkata kepada Nabi shallallahu 'alaihi wasallam: "Aku tertipu dalam berjual beli". Maka Beliau bersabda: "Jika kamu berjual beli katakanlah tidak boleh ada (penipuan dalam jual beli) ". Kemudian orang itu mengatakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2407</td></tr><tr><td>Arabic No</td><td>2407</td></tr><tr><td>Reference</td><td>Book 43 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что один человек сказал Пророку ﷺ: «Меня обманывают в торговых делах». (И Пророк ﷺ) сказал (ему): «Когда будешь заключать сделки, говори: “Без обмана! /Ля хиляба!/”» И этот человек стал говорить это, заключая торговые сделки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2407</td></tr><tr><td>Arabic No</td><td>2407</td></tr><tr><td>Reference</td><td>Book 43 Hadith 22</td></tr></tbody></table></div>
 

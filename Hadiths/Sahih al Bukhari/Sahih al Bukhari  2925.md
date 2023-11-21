@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "You (i.e. Muslims) w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bin Muhammad Al Farwiy] telah bercerita kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalian akan memerangi orang-orang Yahudi hingga seorang dari merka akan bersembunyi di balik batu, lalu batu itu akan berkata: "Wahai 'Abdullah, ini Yahudi di belakangku bunuhlah dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2925</td></tr><tr><td>Arabic No</td><td>2925</td></tr><tr><td>Reference</td><td>Book 56 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Вы будете сражаться с иудеями, и когда кто-либо из них спрячется за камень, камень будет говорить: “О раб Аллаха, вот за мной находится иудей, убей же его!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2925</td></tr><tr><td>Arabic No</td><td>2925</td></tr><tr><td>Reference</td><td>Book 56 Hadith 138</td></tr></tbody></table></div>
 

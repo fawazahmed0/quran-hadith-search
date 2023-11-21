@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abbad] dan [Ibnu Abu Umar] semuanya dari [Marwan al-Fazari], [Ibnu Abbad] berkata, telah menceritakan kepada kami [Marwan] dari [Yazid] -yaitu Ibnu Kaisan- dari [Abu Hazim] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Islam muncul dalam keadaan asing, dan ia akan kembali dalam keadaan asing, maka beruntunglah orang-orang yang terasing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 279</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Ислам начался чуждым и вернётся также чуждым, как и начался. И Туба (дерево в Раю) чуждым /гъурабаъ/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 279</td></tr></tbody></table></div>
 

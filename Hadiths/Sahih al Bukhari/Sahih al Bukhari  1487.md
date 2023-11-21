@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) had forbidden the sale of fruits 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada saya [Al Laits] telah menceritakan kepada saya [Khalid bin Yazid] dari ['Atha' bin Abu Rabah] dari [Jabir bin 'Abdullah radliallahu 'anhua]; Bahwa Nabi Shallallahu'alaihiwasallam melarang menjual kurma hingga nampak kebagusannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1487</td></tr><tr><td>Arabic No</td><td>1487</td></tr><tr><td>Reference</td><td>Book 24 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах ими обоими, что Пророк ﷺ запретил продавать плоды, до того, как станет ясно, что они годны к употреблению
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1487</td></tr><tr><td>Arabic No</td><td>1487</td></tr><tr><td>Reference</td><td>Book 24 Hadith 87</td></tr></tbody></table></div>
 

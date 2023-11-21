@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) got the date palm trees of the tribe of Ban
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] dari ['Abdullah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bahwa Beliau membakar kebun pohon kurma Bani An Nadhir dan menebanginya yang berada di Al Buwairah dan kepada kebun itu Hassan bersya'ir: Kehinaanlah bagi para pembesar Bani Lu'ay. Telah tersebar kebakaran di Buwairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2326</td></tr><tr><td>Arabic No</td><td>2326</td></tr><tr><td>Reference</td><td>Book 41 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Пророк ﷺ сжёг и вырубил пальмы бану надыр в аль-Бувайре. По этому поводу Хассан сказал:\nГоспода бану люай легко наблюдали за огнём,распространяющимся в аль-Бувайре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2326</td></tr><tr><td>Arabic No</td><td>2326</td></tr><tr><td>Reference</td><td>Book 41 Hadith 7</td></tr></tbody></table></div>
 

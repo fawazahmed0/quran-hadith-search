@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abis bin Rabi’ah said on the authority of ‘Umar He(‘Umar) came to the (Bla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Katsir], telah mengabarkan kepada Kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari ['Abis bin Rabi'ah] dari [Umar] bahwa ia datang ke Hajar Aswad, kemudian menciumnya dan berkata; sungguh aku mengetahui bahwa engkau hanya sekedar batu yang tidak bermanfaat, dan tidak membawa madharat, seandainya aku tidak melihat Rasulullah shallAllahu wa'alaihi wa sallam menciummu maka aku tidak akan menciummu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1597) Sahih Muslim (1270)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1873</td></tr><tr><td>Arabic No</td><td>1873</td></tr><tr><td>Reference</td><td>Book 11 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абис ибн Раби‘а, да будет доволен им Аллах, передаёт, что ‘Умар, да будет доволен им Аллах, подошёл к Чёрному камню и поцеловал его, сказав: «Поистине, я знаю, что ты просто камень, который не приносит ни вреда, ни пользы, и, если бы я не видел, как Посланник Аллаха ﷺ целовал тебя, я не стал бы целовать тебя!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1597) Sahih Muslim (1270)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1873</td></tr><tr><td>Arabic No</td><td>1873</td></tr><tr><td>Reference</td><td>Book 11 Hadith 153</td></tr></tbody></table></div>
 

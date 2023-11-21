@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We set out with the Prophet (ﷺ) with the intention of performi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Abu 'Awanah] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha]; "Kami keluar bersama Nabi shallallahu 'alaihi wasallam dan tidaklah kami diperlihatkan melainkan Beliau keluar untuk melaksanakan haji. Ketika Nabi shallallahu 'alaihi wasallam tiba (di Makkah), Beliau melaksanakan thawaf di Ka'bah Baitullah dan sa'iy antara bukit Shafaa dan Marwah dan Beliau tidak bertahallul karena Beliau membawa Al Hadyu (hewan qurban), begitu pula ikut thawaf orang-orang yang bersama Beliau baik isteri-isteri Beliau maupun sahabat dan diantara mereka bertahallul bagi yang tidak membawa Al Hadyu. Kemudian 'Aisyah radliallahu 'anha mengalami haid. Maka kami pun menyelesaikan seluruh manasik haji kami. Ketika malam Jumrah (di Mina) saat orang-orang harus nafar (pulang), dia berkata: "Wahai Rasulullah, seluruh sahabat-sahabat anda akan kembali pulang dengan 'umrah dan haji sedangkan aku tidak". Beliau bertanya: "Apakah kamu tidak ikut thawaf di Ka'bah Baitullah pada malam-malam ketika kita tiba di Makkah?". Aku menjawab: "Tidak". Beliau berkata: "Pergilah kamu bersama saudaramu ke Tan'im dan mulailah dari sana berihram untuk 'umrah kemudian tempat kamu begini begini". Maka aku keluar bersama 'Abdurrahman ke Tan'im lalu aku berihram untuk 'umrah. Dan kemudian Shafiyyah binti Huyay mengalami haidh, maka Nabi shallallahu 'alaihi wasallam berkata: "Celaka, kamu telah membuat kami tertahan, apakah kamu melaksanakan thawaf pada hari Nahar". Dia (Shafiyyah) menjawab: "Ya". Beliau berkata: "Kalau begitu tidak apa, pulanglah". 'Aisyah radliallahu 'anha berkata: "Kemudian aku menemui Beliau shallallahu 'alaihi wasallam saat Beliau tiba dari Makkah sedangkan aku sudah lebih dulu singgah atau aku baru tiba sedang Beliau sudah singgah dari Makkah". Dan berkata, [Musaddad], Perkataan 'Aisyah radliallahu 'anha: aku berkata: "Tidak". Hadits ini dikuatkan pula oleh [Jarir] dari [Manshur] pada ucapan 'Aisyah radliallahu 'anha: "Tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1762</td></tr><tr><td>Arabic No</td><td>1762</td></tr><tr><td>Reference</td><td>Book 25 Hadith 238</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Мы отправились совершать прощальный хадж вместе с Пророком ﷺ намереваясь совершить только хадж. Достигнув (Мекки), Пророк ﷺ совершил таваф вокруг Каабы и бег между ас-Сафой и аль-Марвой и не вышел из ихрама, потому что он пригнал жертвенный скот. Также его жены и сподвижники совершил таваф, и те из них, кто не пригнал жертвенный скот, вышли из ихрама. И у меня началась менструация, мы совершили обряды хаджа, когда настала ночь ухода из Мины, я сказала: “О Посланник Аллаха! Все твои сподвижники возвращаются, совершив хадж с ‘умрой, кроме меня”. Он сказал: “Разве ты не совершала таваф в ту ночь, когда мы приехали в Мекку?” Я сказала: “Нет”. Он сказала: “Отправляйся со своим братом в Тан‘им и произнеси тальбию, намерившись совершить ‘умру, а я буду ждать тебя в таком-то месте”. Тогда я отправилась вместе с ‘Абдуррахманом в Тан‘им, произнесла тальбию, намерившись совершить ‘умру. У Сафии бинт Хуей началась менструация, Пророк ﷺ сказал: “Да сделает её Аллах безродной (или: “Да сделает Аллах её народ без потомства”)! Да лишит Аллах её волос (или: “Да погубит Аллах её народ”)! Ты задержишь нас. Разве ты не совершила таваф в День жертвоприношения?” Она ответила: “Да(, совершила)”. Тогда он сказал: “Ничего страшного, отправляйся”. И я встретила Пророка ﷺ когда он поднимался к Мекке, а я спускалась, или я поднималась, а он спускался»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1762</td></tr><tr><td>Arabic No</td><td>1762</td></tr><tr><td>Reference</td><td>Book 25 Hadith 238</td></tr></tbody></table></div>
 

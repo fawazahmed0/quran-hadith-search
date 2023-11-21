@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A Jew crushed the head of a girl between two stones. The girl was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas radliallahu 'anhu] bahwa ada seorang Yahudi yang menjepit kepala seorang budak wanita hingga bocor dengan dua batu. Lalu ditanyakan; Siapakah yang melakukan ini terhadapmu, apakah si fulan atau si fulan, hingga disebutlah orang Yahudi namun ia menggelengkan kepalanya. Akhirnya didatangkan seorang Yahudi lain lalu dia mengakuinya, maka Nabi shallallahu 'alaihi wasallam memerintahkan agar orang Yahudi ini dijepit pula kepalanya hingga bocor dengan dua batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>2413</td></tr><tr><td>Reference</td><td>Book 44 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) какой-то иудей разбил голову одной девушке(, поместив) её между двумя камнями. (Потом эту девушку) стали спрашивать: “Кто сделал это с тобой: такой-то (или) такой-то?” — и когда было названо имя этого иудея, она кивнула головой. Тогда его схватили, и он (во всём) признался, после чего по приказу Пророка ﷺ его голову тоже разбили, поместив её между двумя камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>2413</td></tr><tr><td>Reference</td><td>Book 44 Hadith 4</td></tr></tbody></table></div>
 

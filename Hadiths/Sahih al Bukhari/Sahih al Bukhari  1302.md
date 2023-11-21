@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "The real patience is at the first stroke 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Tsabit] berkata; Aku mendengar [Anas radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: "Sesungguhnya shabar itu pada kesempatan pertama (saat datang mushibah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1302</td></tr><tr><td>Arabic No</td><td>1302</td></tr><tr><td>Reference</td><td>Book 23 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Проявление терпения при первом потрясении»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1302</td></tr><tr><td>Arabic No</td><td>1302</td></tr><tr><td>Reference</td><td>Book 23 Hadith 60</td></tr></tbody></table></div>
 

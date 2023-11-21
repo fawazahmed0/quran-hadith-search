@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Malik: Ibn Buhaina, "When the Prophet (ﷺ) prayed, he us
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Bakar bin Mudlar] dari [Ja'far bin Rabi'ah] dari [Ibnu Hurmuz] dari ['Abdullah bin Malik bin Buhainah], bahwa jika Nabi shallallahu 'alaihi wasallam shalat, beliau membentangkan kedua lengannya hingga tampak putih ketiaknya." [Al Laits] berkata, telah menceritakan kepadaku [Ja'far bin Rabi'ah] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>390</td></tr><tr><td>Arabic No</td><td>390</td></tr><tr><td>Reference</td><td>Book 8 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Малика ибн Бухайны, да будет доволен им Аллах, о том, что во время молитвы Пророк ﷺ расставлял руки настолько, что становилась видна белизна его подмышек
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>390</td></tr><tr><td>Arabic No</td><td>390</td></tr><tr><td>Reference</td><td>Book 8 Hadith 42</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Malik reported on the authority Of his father that he heard Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Abu Malik] dari [bapaknya] bahwasanya dia mendengar Nabi shallallahu 'alaihi wasallam ketika beliau didatangi oleh seorang laki-laki dan kemudian laki-laki tersebut bertanya; "Ya Rasulullah, apa yang sebaiknya saya ucapkan ketika saya memohon kepada Allah Yang Maha Mulia dan Maha Agung?" Rasulullah shallallahu 'alaihi wasallam menjawab: 'Ketika kamu memohon kepada Allah, maka ucapkanlah doa sebagai berikut; 'Ya Allah, ampunilah aku, kasihanilah aku, selamatkanlah aku, dan berikanlah rezeki kepadaku! ' (Saat itu beliau menggenggam jari-jari beliau kecuali ibu jari), karena sesungguhnya doa-doa tersebut mencakup dunia dan akhiratmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6851</td></tr><tr><td>Arabic No</td><td>2697.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6851</td></tr><tr><td>Arabic No</td><td>2697.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 46</td></tr></tbody></table></div>
 

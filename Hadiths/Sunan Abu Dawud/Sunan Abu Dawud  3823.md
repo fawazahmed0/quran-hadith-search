@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The garlic and onions were mentioned before the Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku ['Amru] bahwa [Bakr bin Sawadah] telah menceritakan kepadanya, bahwa [Abu An Najib] mantan budak Abdullah bin Sa'd menceritakan kepadanya, bahwa [Abu Sa'id Al Khudri] menceritakan kepadanya, bahwa disebutkan bawang putih dan bawang merah di hadapan Rasulullah shallallahu 'alaihi wasallam. Dikatakan, "Wahai Rasulullah, di antara yang ada, yang paling keras baunya adalah bawang putih. Apakah anda mengharamkannya?" Nabi shallallahu 'alaihi wasallam bersabda: "Makanlah, siapa di antara kalian yang telah memakannya, maka janganlah ia mendekati masjid kami hingga baunya hilang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3823</td></tr><tr><td>Arabic No</td><td>3823</td></tr><tr><td>Reference</td><td>Book 28 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что однажды Посланника Аллаха ﷺ спросили о чесноке и луке и сказали: «О Посланник Аллаха, чеснок более терпкий из этих овощей. Запрещаешь ли ты нам есть его?» Пророк ﷺ сказал: «Ешьте его, однако пусть тот, кто поест его, не приближается к нашей мечети, пока запах не уйдёт»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3823</td></tr><tr><td>Arabic No</td><td>3823</td></tr><tr><td>Reference</td><td>Book 28 Hadith 88</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "Truthfulness leads to righteousness,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari [Abdullah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya kejujuran akan membimbing pada kebaikan, dan kebaikan itu akan membimbing ke surga, sesungguhnya jika seseorang yang senantiasa berlaku jujur hingga ia akan dicatat sebagai orang yang jujur. Dan sesungguhnya kedustaan itu akan mengantarkan pada kejahatan, dan sesungguhnya kejahatan itu akan menggiring ke neraka. Dan sesungguhnya jika seseorang yang selalu berdusta sehingga akan dicatat baginya sebagai seorang pendusta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6094</td></tr><tr><td>Arabic No</td><td>6094</td></tr><tr><td>Reference</td><td>Book 78 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха (Ибн Мас‘уда), да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, правдивость приводит к благочестию, и, поистине, благочестие приводит к раю, и будет человек говорить правду, пока не станет правдивейшим. Что же касается лживости, то, поистине, она приводит к греховности, и, поистине, греховность приводит к огню, и станет человек лгать, пока не будет записан пред Аллахом как отъявленный лжец»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6094</td></tr><tr><td>Arabic No</td><td>6094</td></tr><tr><td>Reference</td><td>Book 78 Hadith 121</td></tr></tbody></table></div>
 

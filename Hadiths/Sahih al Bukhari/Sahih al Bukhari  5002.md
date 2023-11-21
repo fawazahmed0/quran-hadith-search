@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah (bin Mas'ud):By Allah other than Whom none has the right to b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepada kami [Muslim] dari [Masruq] ia berkata; [Abdullah] radliallahu 'anhu berkata, "Demi Allah Yang tidak ada Ilah selain-Nya. Tidaklah satu surat pun yang diturunkan dari Kitabullah, kecuali saya tahu, di mana surat itu diturunkan. Dan tidak ada satu ayat pun dari Kitabullah kecuali tahu, kepada siapa ayat itu diturunkan. Sekiranya aku tahu, ada orang yang lebih tahu tentang Kitabullah dan tempatnya bisa ditempuh oleh Unta, maka niscaya aku akan berangkat menemuinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5002</td></tr><tr><td>Arabic No</td><td>5002</td></tr><tr><td>Reference</td><td>Book 66 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Масрука, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «Клянусь Тем, кроме Которого нет бога, достойного поклонения, какой бы аят ни был ниспослан, я знаю о ком он был ниспослан и где он был ниспослан. Если бы я знал (местонахождение) того, кто знает Книгу Аллаха больше меня и что до него (можно) добраться (на) вьючном животном, то я непременно отправился бы к нему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5002</td></tr><tr><td>Arabic No</td><td>5002</td></tr><tr><td>Reference</td><td>Book 66 Hadith 24</td></tr></tbody></table></div>
 

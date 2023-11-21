@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "May Allah save the tribe of Aslam,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad] telah mengabarkan kepada kami [Abdul Wahhab Ats-Tsaqafiy] dari [Ayyub] dari [Muhammad] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Suku Aslam berarti mudah-mudahan "salaamahallahu' (Allah menyelamatkannya) dan suku Ghifar artinya mudah-mudahan "ghafarallahu lahaa" (Allah mengampuninya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3514</td></tr><tr><td>Arabic No</td><td>3514</td></tr><tr><td>Reference</td><td>Book 61 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Да спасёт /саляма/ Аллах племя аслям! Да простит /гафара/ Аллах племя гифар!”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3514</td></tr><tr><td>Arabic No</td><td>3514</td></tr><tr><td>Reference</td><td>Book 61 Hadith 24</td></tr></tbody></table></div>
 

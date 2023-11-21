@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:We practiced I'tikaf with Allah's Messenger (ﷺ) in the midd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdurrahman bin Bisyir] telah menceritakan kepada kami [Sufyan] dari [Ibnu Juraij] dari [Sulaiman Al Ahwal] pamannya Ibnu Abu Najih dari [Abu Salamah] dari [Abu Sa'id]. Dan diriwayatkan pula, [Sufyan] berkata, telah menceritakan kepada kami [Muhammad bin 'Amru] dari [Abu Salamah] dari [Abu Sa'id]. Dan diriwayatkan pula, aku menduga bahwa [Ibnu Abu Labid] telah menceritakan kepada kami [Abu Salamah] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] berkata: "Kami pernah ber'i'tikaf bersama Rasulullah shallallahu 'alaihi wasallam pada sepuluh malam pertengahan. Ketika pagi pada hari kedua puluh kami memindahkan (membawa pulang) perlengkapan kami lalu kami menemui Rasulullah shallallahu 'alaihi wasallam. Maka Beliau berkata: "Siapa yang sudah beri'tikaf kembalilah ke tempatnya beri'tikaf. Sungguh aku diperlihatkan (dalam mimpi) tentang malam ini, aku melihat aku sujud diatas air dan tanah. Ketika Beliau kembali ketempat i'tikaf Beliau, langit nampak mendung lalu hujan turun. Abu Sa'id Al Khudriy radliallahu 'anhu berkata: "Demi Dzat yang telah mengutus Beliau dengan haq, sungguh langit menurunkan hujan sejak akhir (sore) hari itu. Masjid saat itu atapnya terbuat dari dedaunan dan sungguh aku melihat sisa-sisa tanah pada ujung hidung dan dahi Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2040</td></tr><tr><td>Arabic No</td><td>2040</td></tr><tr><td>Reference</td><td>Book 33 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид, да будет доволен им Аллах, сказал: «Мы совершали и‘тикаф в середине третьей части рамадана вместе с посланником Аллаха ﷺ. Утром двадцатого числа мы перенесли наши вещи, но к нам пришёл Посланник Аллаха ﷺ и сказал: “Пусть тот, кто совершал и‘тикяф, вернётся к своему месту и‘тикяфа. Ведь, поистине, мне была показана эта ночь /Лейлят-уль-кадр/, и я видел, как я совершаю земной поклон на воду и глину”. Когда он вернулся к своему месту и‘тикяфа, на небе стали появляться тучи и пошёл дождь. Клянусь тем, кто отправил Посланника с истиной, на небе были тучи с конца того дня. Крыша мечети была сделана из пальмовых листьев, и я видел на кончике его носа и на его лбу следы воды и глины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2040</td></tr><tr><td>Arabic No</td><td>2040</td></tr><tr><td>Reference</td><td>Book 33 Hadith 15</td></tr></tbody></table></div>
 

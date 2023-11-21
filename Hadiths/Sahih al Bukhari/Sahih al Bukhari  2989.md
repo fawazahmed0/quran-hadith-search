@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "There is a (compulsory) Sada
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ishaq] telah mengabarkan kepada kami ['Abdur Rozzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap ruas tulang pada manusia wajib atasnya shadaqah dan setiap hari terbitnya matahari seseorang yang mendamaikan antara dua orang yang bertikai adalah shadaqah dan menolong seseorang untuk menaiki hewan tunggangannya lalu mengangkat barang-barangnya ke atas hewan tungganyannya adalah shadaqah dan ucapan yang baik adalah shadaqah dan setiap langkah yang dijalankan munuju shalat adalah shadaqah dan menyingkirkan sesuatu yang bisa menyakiti atau menghalngi orang dari jalan adalah shadaqah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2989</td></tr><tr><td>Arabic No</td><td>2989</td></tr><tr><td>Reference</td><td>Book 56 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «На каждом суставе человека лежит обязанность раздавать милостыню каждый день, в который восходит солнце. Если он справедливо рассудит между двумя, это будет милостыней. Если он поможет человеку взобраться на его верховое животное или поднимет на верховое животное его вещи, это будет милостыней. И благое слово также является милостыней. И каждый шаг, который он делает на пути к молитве, является милостыней. И если он уберёт с дороги то, что мешает (прохожим), это также будет милостыней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2989</td></tr><tr><td>Arabic No</td><td>2989</td></tr><tr><td>Reference</td><td>Book 56 Hadith 198</td></tr></tbody></table></div>
 

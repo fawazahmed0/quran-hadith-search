@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Whenever Ibn 'Umar entered the Ka'ba he used to walk straight kee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] apabila mau masuk kedalam Ka'bah dia berjalan menuju arah depan sementara pintu Ka'bah di belakangnya. Maka dia berjalan hingga antara dia dan dinding dihadapannya kira-kira tiga hasta lalu dia shalat ditempat yang pernah [Bilal] kabarkan bahwa Nabi shallallahu 'alaihi wasallam shalat di tempat itu. Dan tidak salah jika seseorang shalat di dalam Ka'bah menghadap kemana saja yang dia mau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1599</td></tr><tr><td>Arabic No</td><td>1599</td></tr><tr><td>Reference</td><td>Book 25 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нафи‘ сообщил, что когда ибн ‘Умар, да будет доволен Аллах им и его отцом, входил внутрь Каабы, он проходил прямо, оставив позади себя дверь, до тех пор, пока не оставалось между ним и той стеной, которая перед ним, приблизительно три локтя. Он направлялся совершить молитву к тому месту, в котором, как сообщил ему Биляль, совершал молитву Посланник Аллаха ﷺ. (Ибн ‘Умар) сказал: «И нет ничего предосудительного в том, что кто-то совершит молитву в любой из сторон Дома (Каабы), где он пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1599</td></tr><tr><td>Arabic No</td><td>1599</td></tr><tr><td>Reference</td><td>Book 25 Hadith 85</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:I saw Allah's Messenger (ﷺ) pointing with his index and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Al Miqdam] Telah menceritakan kepada kami [Al Fudlail bin Sulaiman] Telah menceritakan kepada kami [Abu Hazim] Telah menceritakan kepada kami [Sahl bin Sa'dari] radliallahu 'anhu, ia berkata; Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam berkata sambil memberi isyarat dengan kedua jarinya seperti ini -yakni dengan jari tengah dan jari telunjuk-: "Sesungguhnya aku di utus, sementara kedatangan hari kiamat adalah sebagaimana jarak antara kedua jari ini (jarak selisih antara jari tengah dan telunjuk)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4936</td></tr><tr><td>Arabic No</td><td>4936</td></tr><tr><td>Reference</td><td>Book 65 Hadith 457</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д, да будет доволен им Аллах, сказал: «Я был свидетелем того, как (однажды) Посланник Аллаха ﷺ соединил друг с другом средний и указательный пальцы и сказал: “Я был направлен (к людям), когда Час этот (стал столь же близок к ним, как близки) между собой два этих (пальца)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4936</td></tr><tr><td>Arabic No</td><td>4936</td></tr><tr><td>Reference</td><td>Book 65 Hadith 457</td></tr></tbody></table></div>
 

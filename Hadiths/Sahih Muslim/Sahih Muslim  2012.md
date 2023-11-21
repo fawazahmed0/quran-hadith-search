@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amra daughter of Abd al-Rahman reported on the authority of the sister of Amra:I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Yahya bin Hassan] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Yahya bin Sa'id] dari [Amrah binti Abdurrahman] dari [saudara perempuan Amrah], ia berkata, "Aku menghafal surat Qaaf langsung dari mulut Rasulullah shallallahu 'alaihi wasallam, yakni ketika beliau membacanya beberapa kali di atas mimbar dalam khutbah Jum'at." Dan telah menceritakannya kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] dari [Yahya bin Ayyub] dari [Yahya bin Sa'id] dari [Amrah] dari [saudara perempuan] Amrah binti Abdurrahman dan lebih besar darinya. yakni sebagaimana hadits Sulaiman bin Bilal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2012</td></tr><tr><td>Arabic No</td><td>872.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Амры бинт ‘Абдуррахман, что сестра ‘Амры сказала: «Я научилась (суре, в которой говорится) “Каф. Клянусь славным Кораном!”, от Посланника Аллаха ﷺ, читавшего её с минбара каждую пятницу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2012</td></tr><tr><td>Arabic No</td><td>872.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 62</td></tr></tbody></table></div>
 

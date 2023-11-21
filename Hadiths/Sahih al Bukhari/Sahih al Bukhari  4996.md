@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shaqiq:'Abdullah said, "I learnt An-Naza'ir which the Prophet (ﷺ) use
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Syaqiq] ia berkata; [Abdullah] berkata, "Aku mempelajari An Nazhaa'ir, yang mana Rasulullah shallallahu 'alaihi wasallam biasa membacanya dua-dua dalam setiap raka'at." Kemudian Abdullah berdiri, dan 'Alqamah ikut masuk bersamanya. Setelah itu, 'Alqamah keluar, maka kami pun bertanya padanya. 'Alqamah berkata, "Yaitu dua puluh surat yakni, dari awal Al Mufashshal -menurut Ibnu Mas'ud- sedangkan yang paling terakhir darinya adalah Al Hawaamiim, Haa'miim, Ad Dukhkhaan dan 'Amma Yatasaa'aluun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>4996</td></tr><tr><td>Reference</td><td>Book 66 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Шакык рассказывал: «’Абдуллах сказал: “Я выучил “ан-Назаир” (близкие по объему суры), которые Пророк читал попарно в каждом рак‘ате”. Затем ‘Абдуллах встал и ‘Алькама проводил его до дома, а когда ‘Алькама вышел, мы спросили его (об этих сурах), и он сказал: “Это двадцать сур, которые начинаются с начала “аль-муфассаля”, согласно порядку (мусхафа) Ибн Мас’уда, и заканчиваются сурами, начинающимися с “Ха Мим”: “Ха Мим” (“ад-Духан”) и “О чём они расспрашивают друг друга?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>4996</td></tr><tr><td>Reference</td><td>Book 66 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Time will pass rapidly, good deeds
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy bin Al Walid] Telah mengabarkan kepada kami ['Abdul A'la] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda (tentang tanda-tanda kiamat); "Jaman terasa ringkas, amal shalih berkurang, kebakhilan merajalela, fitnah (maksiat) dinyatakan secara terang-terangan, dan banyak al haraj." Para sahabat bertanya; 'Ya Rasulullah, apa maksud istilah al haraj? ' Nabi menjawab "Pembunuhan-pembunuhan." Sedang [Syu'aib], [Yunus], dan [Al Laits], serta [anak Saudaraku, Az Zuhri], mengatakan dari [Az Zuhri] dari [Humaid] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7061</td></tr><tr><td>Arabic No</td><td>7061</td></tr><tr><td>Reference</td><td>Book 92 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Течение времени ускорится, уменьшится количество дел, (в сердца людей) будет помещена скупость, появятся смуты и умножатся волнения (хардж)». (Люди) спросили: «О Посланник Аллаха, а что это?» Он сказал: «Убийства, убийства»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7061</td></tr><tr><td>Arabic No</td><td>7061</td></tr><tr><td>Reference</td><td>Book 92 Hadith 13</td></tr></tbody></table></div>
 

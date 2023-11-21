@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mus'ud:We have been powerful since 'Umar embraced Islam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Isma'il bin Abu Khalid] dari [Qais bin Abu Hazim] dari [Abdullah bin Mas'ud] radliallahu 'anhu berkata; "Kami selalu mendapat kemuliaan (kemenangan) sejak 'Umar masuk Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3863</td></tr><tr><td>Arabic No</td><td>3863</td></tr><tr><td>Reference</td><td>Book 63 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха бин Мас‘уда, да будет доволен им Аллах, что он сказал: «Мы не переставали быть могущественными с тех пор, как ‘Умар принял ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3863</td></tr><tr><td>Arabic No</td><td>3863</td></tr><tr><td>Reference</td><td>Book 63 Hadith 88</td></tr></tbody></table></div>
 

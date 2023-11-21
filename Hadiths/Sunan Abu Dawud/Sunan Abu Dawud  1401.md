@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amr ibn al-'As: The Prophet (ﷺ) taught me fifteen prostrations while 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim bin Al Buraqi] telah menceritakan kepada kami [Ibnu Abu Maryam] telah mengabarkan kepada kami [Nafi' bin Yazid] dari [Al Harits bin Sa'id Al 'Utaqi] dari [Abdullah bin Munain] dari Bani Abdul Kulal, dari ['Amru bin Al 'Ash] bahwa Rasulullah shallallahu 'alaihi wasallam pernah membacakan untuknya lima belas ayat sajadah dalam Al Qur'an, di antaranya tiga ayat terdapat dalam surat Al Mufashal (dari surat Qaaf atau Al Hujurat sampai an naas), dan dalam surat Al Hajj dua ayat sajadah." Abu Daud berkata; "di riwayatkan dari Abu Darda' dari Nabi shallallahu 'alaihi wasallam terdapat sebelas ayat sajadah, sedangkan sanadnya lemah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1401</td></tr><tr><td>Arabic No</td><td>1401</td></tr><tr><td>Reference</td><td>Book 7 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Амра ибн аль-‘Аса, да будет доволен им Аллах, что Пророк ﷺ научил его совершать пятнадцать земных поклонов при чтении Корана, три из них в коротких сурах /муфассаль/ и два в суре «Хадж». Абу Дауд сказал, что от Абу ад-Дарды от Пророка ﷺ передаётся, что таких поклонов было одиннадцать, однако у него крайне слабый иснад
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1401</td></tr><tr><td>Arabic No</td><td>1401</td></tr><tr><td>Reference</td><td>Book 7 Hadith 1</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Khalid al-Hadhdha said:I said to al-Hasan: Abu Sa’id, tell me about Adam. Was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah Ibnul Jarrah] ia berkata; telah menceritakan kepada kami [Hammad bin Zaid] dari [Khalid Al Hadzdza] ia berkata; Aku berkata kepada [Al Hasan], "Wahai Abu Sa'id, beritahukanlah aku tentang Nabi Adam, apakah ia dicipta untuk langit atau untuk bumi?" Ia menjawab, "Untuk bumi." Aku bertanya lagi, "Apa pendapatmu sekiranya Adam tidak makan buah khuldi?" Ia menjawab, "Itu tidak menjadi keharusan baginya." Aku berkata, "Kabarkanlah kepadaku tentang firman Allah: (Sekali-kali tidak dapat menyesatkan kecuali (seseorang) terhadap Allah, kecuali orang-orang yang akan masuk neraka yang menyala). -Qs. Ash Shaffaat: 162-163- Abu Said menjawab; "Sesungguhnya setan akan menggoda dengan kesesatan mereka, kecuali orang yang telah Allah wajibkan (tetapkan) neraka Al Jahim atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4614</td></tr><tr><td>Arabic No</td><td>4614</td></tr><tr><td>Reference</td><td>Book 42 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Халида аль-Хаззы: «Я спросил аль-Хасана: “О Абу Са‘ид, скажи мне, для небес был сотворён Адам или для земли?” Он ответил: “Для земли”. Я спросил: “А что было бы, если бы он не поел с дерева?” Он ответил: “Он не мог избежать этого”. Я спросил: “Расскажи мне о словах Всевышнего: “И вы не сможете отвратить от Него никого, кроме тех, кому суждено сгореть в Аду””. Он сказал: “Шайтанам удаётся ввести в заблуждение лишь тех, для кого Аллах уже сделал обязательными мучения в Огне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4614</td></tr><tr><td>Arabic No</td><td>4614</td></tr><tr><td>Reference</td><td>Book 42 Hadith 19</td></tr></tbody></table></div>
 

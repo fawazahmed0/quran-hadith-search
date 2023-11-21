@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Humaid Az-Zuhri:I heard 'Umar bin 'Abdul-Aziz asking 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Hamzah] telah menceritakan kepada kami [Hatim] dari [Abdurrahman bin Humaid Az Zuhri] ia berkata, aku mendengar 'Umar bin Abdul 'Aziz bertanya kepada [As Sa'ib], putra dari saudara perempuan An Namr; "Apa yang pernah kamu dengar tentang tempat tinggal di Makkah?". Dia menjawab; "Aku mendengar [Al 'Ala' bin Al Hadlrami] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Kaum Muhajir boleh tinggal selama tiga hari sekembalinya mereka dari Mina (ketika berhajji)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3933</td></tr><tr><td>Arabic No</td><td>3933</td></tr><tr><td>Reference</td><td>Book 63 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-‘Аля бин аль-Хадрами, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «После возвращения из Мины мухаджиру (разрешается оставаться в Мекке только) три (дня)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3933</td></tr><tr><td>Arabic No</td><td>3933</td></tr><tr><td>Reference</td><td>Book 63 Hadith 158</td></tr></tbody></table></div>
 

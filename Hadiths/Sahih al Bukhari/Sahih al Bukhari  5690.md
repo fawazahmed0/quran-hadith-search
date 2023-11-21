@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:'Aisha used to recommend at-Talbina and used to say, "I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Farwah bin Abu Al Maghra'] telah menceritakan kepada kami [Ali bin Mushir] telah menceritakan kepada kami [Hisyam] dari [Ayahnya] dari ['Aisyah] bahwa dia juga memeritahkan supaya menkonsumsi talbinah (adonan yang terbuat dari gandum dan buah kurma), katanya; "Talbinah adalah obat yang tidak di sukai namun sangat bermanfa'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5690</td></tr><tr><td>Arabic No</td><td>5690</td></tr><tr><td>Reference</td><td>Book 76 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов отца Хишама, что ’Аиша приказывала готовить тальбину и говорила: «Она (тальбина) неприятна, но полезна»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5690</td></tr><tr><td>Arabic No</td><td>5690</td></tr><tr><td>Reference</td><td>Book 76 Hadith 13</td></tr></tbody></table></div>
 

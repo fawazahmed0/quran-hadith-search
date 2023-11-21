@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A man came to the Prophet (ﷺ) and said, "O Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Sufyan] dari [Ibnu Juroij] dari ['Amru bin Dinar] dari [Abu Ma'bad] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Datang seorang laki-laki kepada Nabi Shallallahu'alaihiwasallam lalu berkata; 'Wahai Rasulullah, aku telah bertekad untuk ikut perang ini dan itu namun istriku berangkat menunaikan hajji". Maka Beliau berkata: "Kembalilah kamu dan berhajilah bersama istrimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3061</td></tr><tr><td>Arabic No</td><td>3061</td></tr><tr><td>Reference</td><td>Book 56 Hadith 266</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что (однажды) к Пророку ﷺ пришёл один человек и сказал: «О Посланник Аллаха, я зачислен (в войско для участия) в таком-то походе, а моя жена (собралась) отправиться в хадж». (На это Пророк ﷺ) сказал: «Возвращайся и соверши хадж вместе со своей женой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3061</td></tr><tr><td>Arabic No</td><td>3061</td></tr><tr><td>Reference</td><td>Book 56 Hadith 266</td></tr></tbody></table></div>
 

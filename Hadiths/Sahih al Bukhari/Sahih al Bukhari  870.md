@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:Whenever Allah's Messenger (ﷺ) completed the prayer with Ta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Az Zuhri] dari [Hind binti Al Harits] dari [Ummu Salamah] radliallahu 'anhu, ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam mengucapkan salam, maka para wanita langsung beranjak pergi ketika beliau selesai mengucapkan salamnya. Sementara beliau tetap di tempatnya sejenak sebelum beranjak pergi. Menurut kami -dan hadits hanya Allah yang tahu- beliau lakukan itu agar para wanita bisa segera pergi sebelum diketahui oleh seorangpun dari jama'ah laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>870</td></tr><tr><td>Arabic No</td><td>870</td></tr><tr><td>Reference</td><td>Book 10 Hadith 261</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала: «Когда Посланник Аллаха ﷺ заканчивал произносить слова таслима (после завершения молитвы), женщины поднимались, а он задерживался на (своём месте) на короткое время, прежде чем встать». \nИбн Шихаб сказал: «Мы считаем, а Аллаху ведомо лучше, что его задержка была, чтобы женщины ушли до того, как их настигнет кто-то из мужчин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>870</td></tr><tr><td>Arabic No</td><td>870</td></tr><tr><td>Reference</td><td>Book 10 Hadith 261</td></tr></tbody></table></div>
 

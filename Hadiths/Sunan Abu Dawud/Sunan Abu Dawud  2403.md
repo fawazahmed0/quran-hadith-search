@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hamzat al-Aslami:I said: Messenger of Allah. I am a master of mounts an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Muhammad bin Abdul Majid Al Madani], ia berkata; saya mendengar [Hamzah bin Muhammad bin Hamzah Al Aslami] menyebutkan bahwa [ayahnya] telah mengabarkan kepadanya dari [kakeknya], ia berkata; aku katakan; wahai Rasulullah, aku adalah orang memiliki hewan kendaraan, aku menggunakannya, bersafar dengan mengendarainya serta menyewakannya. Terkadang aku menemui Bulan Ramadhan ini, aku kuat dan masih muda, serta saya dapati bahwa berpuasa lebih ringan bagiku daripada menundanya sehingga menjadi hutang wahai Rasulullah. Maka apakah dengan berpuasa pahalaku lebih besar atau aku berbuka wahai Rasulullah? Beliau berkata: "Apapun yang engkau kehendaki, wahai Hamzah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2403</td></tr><tr><td>Arabic No</td><td>2403</td></tr><tr><td>Reference</td><td>Book 14 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хамзы аль-Аслями, да будет доволен им Аллах: «Я сказал: “О Посланник Аллаха! У меня есть верховое животное, и я использую его: совершаю путешествия и отдаю напрокат. И иногда месяц (рамадан) застаёт меня в пути, а я чувствую в себе достаточно сил, чтобы поститься. Ведь я молод, и я чувствую, что поститься для меня, о Посланник Аллаха, легче, чем восполнять пост потом, так в каком случае мне будет большая награда, если я буду поститься или отказываться от поста?” (Посланник Аллаха ﷺ) сказал: “Поступай, как пожелаешь, о Хамза”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2403</td></tr><tr><td>Arabic No</td><td>2403</td></tr><tr><td>Reference</td><td>Book 14 Hadith 91</td></tr></tbody></table></div>
 

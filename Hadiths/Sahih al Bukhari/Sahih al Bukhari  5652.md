@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ata bin Abi Rabah:Ibn 'Abbas said to me, "Shall I show you a woman of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Imran bin Abu Bakar] dia berkata; telah menceritakan kepadaku ['Atha' bin Abu Rabah] dia berkata; [Ibnu Abbas] pernah berkata kepadaku; "Maukah aku tunjukkan kepadamu seorang wanita dari penduduk surga?" jawabku; "Tentu." Dia berkata; "Wanita berkulit hitam ini, dia pernah menemui Nabi shallallahu 'alaihi wasallam sambil berkata; "Sesungguhnya aku menderita epilepsi dan auratku sering tersingkap (ketika sedang kambuh), maka berdoalah kepada Allah untukku." Beliau bersabda: "Jika kamu berkenan, bersabarlah maka bagimu surga, dan jika kamu berkenan, maka aku akan berdoa kepada Allah agar Allah menyembuhkanmu." Ia berkata; "Baiklah aku akan bersabar." Wanita itu berkata lagi; "Namun berdoalah kepada Allah agar (auratku) tidak tersingkap." Maka beliau mendoakan untuknya." Telah menceritakan kepada kami Muhammad telah mengabarkan kepada kami Makhlad dari Ibnu Juraij telah mengabarkan kepadaku 'Atha' bahwa dia pernah melihat Ummu Zufar adalah wanita tersebut, ia adalah wanita berpawakan tinggi, berkulit hitam sedang berada di tirai Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5652</td></tr><tr><td>Arabic No</td><td>5652</td></tr><tr><td>Reference</td><td>Book 75 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ата бин Абу Рабах, да помилует его Аллах Всевышний, сказал:\n— (Однажды) Ибн ‘Аббас, да будет доволен Аллах ими обоими, спросил меня: «Не показать ли тебе женщину из числа обитателей рая?» Я ответил: «Да». Он сказал: «Эта чёрная женщина (в своё время) пришла к Пророку ﷺ и сказала: “У меня бывают приступы падучей, и (из-за этого) я обнажаюсь, обратись же к Аллаху с мольбой за меня”. (В ответ ей) он сказал: “Если хочешь, терпи, и тогда тебя (ожидает) рай, а если хочешь, я обращусь к Аллаху с мольбой, чтобы Он исцелил тебя”. Она сказала: “Я буду терпеть”, а потом (добавила): “Поистине, я обнажаюсь, попроси же Аллаха, чтобы я не обнажалась”, и он обратился к Аллаху с такой мольбой за неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5652</td></tr><tr><td>Arabic No</td><td>5652</td></tr><tr><td>Reference</td><td>Book 75 Hadith 12</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I heard the Prophet (ﷺ) saying, "On the Day of Resurrection I wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Rasyid] telah menceritakan kepada kami [Ahmad bin Abdullah] telah menceritakan kepada kami [Abu Bakar bin 'Iyyasy] dari [Humaid] berkata, "Aku mendengar [Anas] radliyallahu'anhu berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Jika hari kiamat tiba, maka aku diberi syafaat, lantas aku berkata: 'Wahai rabb, tolong masukkanlah ke dalam surga siapa saja yang dalam hatinya masih ada sebiji sawi iman.' Lantas mereka pun masuk, kemudian aku berkata: 'Masukkanlah dalam surga siapa saja yang dalam hatinya ada iman sekalipun dalam tingkatan paling rendah." Anas berkata, "Seakan aku melihat jari-jari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7509</td></tr><tr><td>Arabic No</td><td>7509</td></tr><tr><td>Reference</td><td>Book 97 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ сказал: “В День воскресения мне будет предоставлено право заступничества, и я скажу: “О Господь мой! Введи в Рай тех, у кого было в сердце (веры хотя бы) с горчичное зерно!” — и они войдут (в Рай), а потом я скажу: “Введи в Рай тех, у кого было в сердце (хоть) что-нибудь (от веры)!”».\nАнас, да будет доволен им Аллах, сказал: «Я как будто и сейчас смотрю на пальцы Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7509</td></tr><tr><td>Arabic No</td><td>7509</td></tr><tr><td>Reference</td><td>Book 97 Hadith 134</td></tr></tbody></table></div>
 

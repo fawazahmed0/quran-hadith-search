@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:A drink (milk mixed with water) was brought to the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Qaza'ah] telah menceritakan kepada kami [Malik] dari [Abu Hazim] dari [Sahal bin Sa'ad radliallahu 'anhu] bahwa, Nabi shallallahu 'alaihi wasallam diberi suguhan minuman, Beliau meminumnya sementara disamping kanan Beliau ada seorang anak kecil sedangkan di sebelah kiri Beliau ada orang-orang tua. Beliau berkata kepada anak kecil itu: "Jika kamu izinkan, aku akan berikan kepada mereka". Anak kecil itu berkata: "Aku tidak lebih mementingkan seorangpun selain anda". Maka Beliau memberikan apa yang di tangan Beliau kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2602</td></tr><tr><td>Arabic No</td><td>2602</td></tr><tr><td>Reference</td><td>Book 51 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д, да будет доволен им Аллах, сказал: «(Однажды) Пророку ﷺ принесли чашу, и он отпил из неё. (В это время) справа от него сидел мальчик, а слева от него (сидели) старцы, и (Пророк ﷺ) сказал этому мальчику: “Позволишь ли ты мне передать это старцам?” Мальчик ответил: “Я никому не уступлю того, что досталось мне от тебя, о Посланник Аллаха!” — и (Пророк ﷺ) передал (чашу) ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2602</td></tr><tr><td>Arabic No</td><td>2602</td></tr><tr><td>Reference</td><td>Book 51 Hadith 36</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: Messenger of Allah, tell me about jihad an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Hatim Al Anshari], telah menceritakan kepada kami [Abdurrahman bin Mahdi], telah menceritakan kepada kami [Muhammad bin Abu Al Wadhdhah] dari [Al 'Ala' bin Abdullah bin Rafi'] dari [Hanan bin Kharijah], dari [Abdullah bin 'Amr], ia berkata; wahai Rasulullah, beritahukan kepadaku mengenai jihad dan perang! Kemudian beliau berkata: "Wahai Abdullah bin 'Amr, seandainya engkau berperang dalam keadaan bersabar dan mengharapkan pahala, maka Allah akan membangkitkanmu dalam keadaan bersabar dan mengharapkan pahala. Dan apabila engkau berperang untuk dilihat dan berbangga diri, maka Allah akan membangkitkanmu dalam keadaan ingin dilihat serta berbangga diri. Wahai Abdullah bin 'Amr, dalam keadaan yang mana engkau berperang atau terbunuh maka Allah akan membangkitkanmu dalam keadaan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2519</td></tr><tr><td>Arabic No</td><td>2519</td></tr><tr><td>Reference</td><td>Book 15 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2519</td></tr><tr><td>Arabic No</td><td>2519</td></tr><tr><td>Reference</td><td>Book 15 Hadith 43</td></tr></tbody></table></div>
 

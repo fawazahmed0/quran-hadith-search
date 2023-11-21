@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported that it was said to Allah's Apos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Bahz] Telah menceritakan kepada kami [Wuhaib] Telah menceritakan kepada kami [Abdullah bin Thawus] dari [bapaknya] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam pernah ditanya mengenai penyembelihan hewan kurban, bercukur, dan melontar jumrah serta mendahulukan atau mengakhirkan (amalan tersebut), namun beliau bersabda: "Tidaklah mengapa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3164</td></tr><tr><td>Arabic No</td><td>1307</td></tr><tr><td>Reference</td><td>Book 15 Hadith 368</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3164</td></tr><tr><td>Arabic No</td><td>1307</td></tr><tr><td>Reference</td><td>Book 15 Hadith 368</td></tr></tbody></table></div>
 

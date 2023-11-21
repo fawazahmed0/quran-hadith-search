@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Ar Rabi'] dan [Qutaibah bin Sa'id]. [Yahya] berkata; Telah mengabarkan kepada kami [Hammad bin Zaid] dan yang lainnya berkata; Telah menceritakan kepada kami [Hammad] dari ['Abdul 'Aziz bin Shuhaib] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam melarang mencelup dengan Za'faran (warna kuning). [Qutaibah] berkata; [Hammad] berkata; 'Yaitu bagi laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5506</td></tr><tr><td>Arabic No</td><td>2101.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика (да будет доволен им Аллах) о том, что Пророк ﷺ запрещал (носить одежду), окрашенную шафраном. Къутайба сказал: «Сказал Хаммад: “Он имел ввиду мужчин”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5506</td></tr><tr><td>Arabic No</td><td>2101.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 121</td></tr></tbody></table></div>
 

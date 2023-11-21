@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), on trouva une femme
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] dan [Abu Usamah] keduanya berkata; telah menceritakan kepada kami [Ubaidullah bin Umar] dari [Nafi'] dari [Ibnu Umar] dia berkata, "Seorang wanita didapati telah terbunuh di suatu peperangan, maka Rasulullah shallallahu 'alaihi wasallam melarang untuk membunuh wanita dan anak-anak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4548</td></tr><tr><td>Arabic No</td><td>1744.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4548</td></tr><tr><td>Arabic No</td><td>1744.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 29</td></tr></tbody></table></div>
 

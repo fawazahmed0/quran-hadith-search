@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (raa), le Prophète (paix et bénédiction de Dieu sur lui) pr�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] telah mengabarkan kepada kami [Abu al-Ahwash] dari [Asy'ats] dari [bapaknya] dari [Masruq] dari [Aisyah] dia berkata, "Rasulullah menyukai mendahulukan bagian kanan dalam bersucinya apabila beliau bersuci, dalam menyikat rambutnya apabila beliau menyikat rambut dan dalam memakai sandalnya apabila beliau memakai sandal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>616</td></tr><tr><td>Arabic No</td><td>268.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Совершая омовение, причёсываясь или надевая сандалии, Посланник Аллаха ﷺ предпочитал (начинать) с правой стороны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>616</td></tr><tr><td>Arabic No</td><td>268.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 83</td></tr></tbody></table></div>
 

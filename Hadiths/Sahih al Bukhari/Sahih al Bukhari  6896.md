@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ibn 'Umar said:A boy was assassinated. 'Umar said, "If all the people of San'a t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6896</td></tr><tr><td>Arabic No</td><td>6896</td></tr><tr><td>Reference</td><td>Book 87 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды какой-то юноша подвергся нападению и был убит (группой людей), и ‘Умар сказал: «Если бы в этом участвовали все жители Саны, я казнил бы (за его убийство) их всех!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6896</td></tr><tr><td>Arabic No</td><td>6896</td></tr><tr><td>Reference</td><td>Book 87 Hadith 35</td></tr></tbody></table></div>
 

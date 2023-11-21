@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that Allah's Messenger (ﷺ) sought 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Suraij bin Yunus] telah menceritakan kepada kami ['Abbad bin 'Abbad] dari ['Ashim] dari [Mu'adzah Al 'Adawiyyah] dari ['Aisyah] dia berkata; Bahwa Rasulullah shallallahu 'alaihi wasallam biasa meminta izin jika berada di salah satu istrinya setelah turunnya ayat: "Kamu boleh menangguhkan menggauli siapa saja yang kamu kehendaki di antara mereka dan boleh pula menggauli siapa saja yang kamu kehendaki." Maka Mu'adzah bertanya kepadanya; Apa yang kamu katakan kepada Nabi shallallahu 'alaihi wasallam ketika beliau meminta izin kepadamu? Dia menjawab; Jika hari itu hari giliranku, maka saya tidak akan memberikannya untuk yang lain. Dan telah menceritakan kepada kami [Al Hasan bin Isa] telah mengabarkan kepada kami [Ibnu Al Mubarrak] telah mengabarkan kepada kami ['Ashim] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3682</td></tr><tr><td>Arabic No</td><td>1476.01</td></tr><tr><td>Reference</td><td>Book 18 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3682</td></tr><tr><td>Arabic No</td><td>1476.01</td></tr><tr><td>Reference</td><td>Book 18 Hadith 31</td></tr></tbody></table></div>
 

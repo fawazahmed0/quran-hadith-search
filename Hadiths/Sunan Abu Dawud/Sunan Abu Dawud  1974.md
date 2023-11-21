@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd al-Rahman b. Yazid:On the authority of Ibn Mas'ud: When Ibn Mas'ud
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hafsh bin Umar], serta [Muslim bin Ibrahim] secara makna. Mereka berkata; telah menceritakan kepada Kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Ibnu Mas'ud], ia berkata; tatkala beliau telah sampai pada jumrah kubra beliau menjadikan Ka'bar berada di sisi kirinya dan Mina di sisi kanannya, beliau melempar jumrah dengan tujuh kerikil. Ibnu Mas'ud berkata; demikianlah orang yang kepadanya diturunkan Surat Al Baqarah melempar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1748) Sahih Muslim (1296)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 11 Hadith 254</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Мас‘уд, да будет доволен им Аллах, передаёт: «Когда Посланник Аллаха ﷺ подошёл к самому большому столбу так, что Кааба осталась у него с левой стороны, а Мина с правой. Он бросил в столб семь маленьких камешков и сказал: Так бросал тот, кому была ниспослана сура “аль-Бакара”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1748) Sahih Muslim (1296)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 11 Hadith 254</td></tr></tbody></table></div>
 

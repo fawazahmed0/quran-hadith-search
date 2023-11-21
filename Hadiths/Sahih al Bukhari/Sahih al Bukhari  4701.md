@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "When Allah has ordained some affai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdillah] Telah menceritakan kepada kami [Sufyan] dari ['Amru] dari ['Ikrimah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Apabila Allah menetapkan satu perkara di atas langit maka para malaikat mengepakkan sayap-sayap mereka karena tunduk kepada firman-Nya, seakan-akan rantai yang berada di atas batu besar. Ali dan yang lainya berkata; hal itu sebagaimana firman Allah: "Apabila hati mereka telah menjadi stabil, mereka berkata; 'Apa yang difirmankan Rabb kita? ' mereka menjawab; 'Al Haq, dan Dia Maha Tinggi lagi Maha Besar.' Dan para pencuri berita langit (jin) mendengarkannya, (mereka bersusun) sebagian di atas sebagian yang lainnya. -Sufyan seraya memberikan isyarat dengan telunjuknya.- Para pencuri berita langit itu mencuri dengar kalimat lalu menyampaikannya kepada yang berada di bawahnya. Bisa jadi jin itu diterjang bintang sebelum menyampaikannya kepada yang di bawahnya hingga ia terbakar, kemudian mereka menyampaikanya kepada lisan dukun atau tukang sihir. Bisa jadi mereka tidak diterjang oleh bintang sehingga dapat menyampaikannya, kemudian dicampur dengan seratus kebohongan. Maka kalimat yang didengar bisa sesuai (cocok) dengan yang dari langit." Telah menceritakan kepada kami 'Ali bin 'Abdillah Telah menceritakan kepada kami Sufyan Telah menceritakan kepada kami 'Amru dari 'Ikrimah dari Abu Hurairah dia berkata; Apabila Allah memutuskan suatu perkara, -dan dia berkata dengan lafazh; 'kepada mulut tukang sihir.' Aku bertanya kepada Sufyan, Apakah kamu mendengar Amru berkata; Aku mendengar Ikrimah dia berkata; Aku mendengar Abu Hurairah? Sufyan berkata; 'Ya.' Aku bertanya lagi kepada Sufyan Sesungguhnya orang-orang meriwayatkan dari kamu dari Amru dari Abu Hurairah secara marfu' bahwa ia berkata dengan lafazh; 'Furrigha' (bila telah selesai). Sufyan berkata; begitulah Amru membacanya, maka aku tidak tahu apakah dia mendengar Abu Hurairah membaca demikan atau tidak, dan itu menjadi bacaan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4701</td></tr><tr><td>Arabic No</td><td>4701</td></tr><tr><td>Reference</td><td>Book 65 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда Аллах решает что-либо в небесах, ангелы начинают хлопать своими крыльями(, выражая готовность) повиноваться Его словам, и звук(, издаваемый их крыльями,) подобен (звуку, которые издают влекомые) по камням цепи. Когда же страх(, вызванный словами Аллаха,) покидает сердца (ангелов), они говорят: “Что сказал Господь ваш?” — и тому, кто это говорит, отвечают: “Истину, ибо Он — Высокий, Великий!” (Эти слова) слышат подслушивающие, которые (становятся) друг на друга, и бывает так, что падающая звезда поражает такого подслушивающего, прежде чем он (успевает) передать (услышанное) своему товарищу(, который стоит ниже,) и сжигает его. Иногда же она не (успевает) поразить его до того, как он передаст (услышанное) следующему, (то есть) стоящему ниже, и (так продолжается) до тех пор, пока они не передают (подслушанную новость) на землю, где она внушается колдуну, который добавляет (к одному слову правды) сто (слов) лжи. Если же (предсказание такого колдуна) сбывается, (люди начинают) говорить: “Разве он не говорил нам в такой-то день, что случится то-то и то-то? И мы увидели, что это правда!” — (но сбывается только) слово, услышанное с небес!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4701</td></tr><tr><td>Arabic No</td><td>4701</td></tr><tr><td>Reference</td><td>Book 65 Hadith 223</td></tr></tbody></table></div>
 

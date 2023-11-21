@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: When one of you prays, and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah menceritakan kepada kami [Hisyam Ad Dastuwa'i] telah menceritakan kepada kami [Yahya bin Abu Katsir] telah menceritakan kepada kami ['Iyadl]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Aban] telah menceritakan kepada kami [Yahya] dari [Hilal bin 'Iyadl] dari [Abu Sa'id Al Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian shalat, dan tidak tahu apakah lebih ataukah kurang (raka'atnya) hendaknya ia sujud dua kali ketika masih duduk (tasyahud), apabila datang (was-was) syetan dan mengatakan; "Kamu telah hadats (batal) " hendaknya ia mengatakan; "Kamu dusta", melainkan jika ia hidungnya mencium angin (bau), atau telinganya mendengar suara." Ini adalah lafadz haditsnya Aban. Abu Daud mengatakan; (dari) Ma'mar, Ali bin Mubarrak. 'Iyadl bin Hilal. Al Auza'i mengatakan; "'Iyadl bin abu Zuhair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>1029</td></tr><tr><td>Reference</td><td>Book 2 Hadith 640</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если один из вас совершил молитву и не знает, добавил он в неё что-то или, наоборот, убрал, пусть он совершит два земных поклона сидя. И если придёт к нему шайтан и начнёт внушать ему, что он осквернился, пусть скажет: “Ты лжёшь”, пока не почувствует запах или не услышит звук своими ушами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>1029</td></tr><tr><td>Reference</td><td>Book 2 Hadith 640</td></tr></tbody></table></div>
 

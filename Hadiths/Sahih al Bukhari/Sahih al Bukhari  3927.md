@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubaidullah bin Ad bin Khiyair:I went to 'Uthman. After reciting Tashah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] telah menceritakan kepadaku ['Urwah bin Az Zubair] bahwa ['Ubaidullah bin 'Adi bin Al Khiyar] mengabarkan kepadanya; "Aku datang menemui 'Utsman...". Dan [Bisyir bin Syu'aib] mengatakan; telah menceritakan kepadaku [Bapakku] dari [Az Zuhri] telah menceritakan kepadaku ['Urwah bin Az Zubair] bahwa ['Ubaidullah bin 'Adi bin Khiyar] mengabarkan kepadanya, ia berkata; "Aku datang kepada ['Utsman] maka dia bersaksi lalu berkata; "Amma ba'du. Sesungguhnya Allah telah mengutus Muhammad shallallahu 'alaihi wasallam dengan benar dan aku diantara orang yang menyambut seruan Allah dan Rasul-Nya, beriman kepada apa yang dibawa oleh Muhammad shallallahu 'alaihi wasallam. Kemudian aku berhijrah dua kali dan aku juga telah mendampigi Rasulullah shallallahu 'alaihi wasallam dan berbai'at kepada beliau. Demi Allah, tidaklah aku membantah dan menipu beliau hingga Allah 'azza wajalla mewafatkan beliau." Hadits ini telah dinukil pula oleh [Ishaq Al Kalbi], telah menceritakan kepadaku [Az Zuhri] sebagaimana hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3927</td></tr><tr><td>Arabic No</td><td>3927</td></tr><tr><td>Reference</td><td>Book 63 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убайдуллах ибн ‘Ади ибн аль-Хыяр сказал: «Когда я зашёл к ‘Усману, он произнёс слова свидетельства и сказал: “А затем. Поистине, Аллах послал Мухаммада ﷺ с истиной, и я был одним из тех, кто ответил (на призыв) Аллаха и Его Посланника, и я уверовал в то, с чем он был послан Мухаммад ﷺ, и я совершил два переселения. Я был зятем Посланника Аллаха ﷺ и дал ему клятву верности. Клянусь Аллахом, я никогда не ослушивался его и не поступал в отношении него вероломно, пока Аллах не умертвил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3927</td></tr><tr><td>Arabic No</td><td>3927</td></tr><tr><td>Reference</td><td>Book 63 Hadith 152</td></tr></tbody></table></div>
 

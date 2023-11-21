@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) sent us in a mission (i.e., an army
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Al Laits] dari [Bukair] dari [Sulaiman bin Yasar] dari [Abu Hurairah radliallahu 'anhu] bahwa dia berkata; Rasulullah shallallahu 'alaihi wasallam mengutus kami dalam pengiriman pasukan, maka Beliau bersabda: "Jika kalian menemukan si anu dan si anu maka bakarlah keduanya dengan api". Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda ketika kami hendak berangkat (keesokan harinya): "Sungguh aku telah memerintahkan kalian agar membakar si anu dan si anu dan sesungguhnya tidak boleh ada yang menyiksa dengan api kecuali Allah.. Maka itu, bila kalian menemukan keduanya maka bunuhlah keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3016</td></tr><tr><td>Arabic No</td><td>3016</td></tr><tr><td>Reference</td><td>Book 56 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды,) отправляя нас в военный поход, Посланник Аллаха ﷺ сказал: “Если встретите такого-то и такого-то, сожгите их!” А потом, когда мы уже хотели двинуться в путь, Посланник Аллаха ﷺ сказал: “Поистине, я велел вам сжечь такого-то и такого-то, но, поистине, мукам огня вправе подвергать один лишь Аллах, (а поэтому) если вы найдёте этих двоих, то (просто) убейте их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3016</td></tr><tr><td>Arabic No</td><td>3016</td></tr><tr><td>Reference</td><td>Book 56 Hadith 225</td></tr></tbody></table></div>
 

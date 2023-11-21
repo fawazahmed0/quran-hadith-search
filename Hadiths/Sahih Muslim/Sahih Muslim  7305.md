@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The Ka'ba would be destro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Abi Umar], teks milik Abu Bakr, keduanya berkata: Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ziyad bin Sa'ad] dari [Az Zuhri] dari [Sa'id] ia mendengar [Abu Hurairah] berkata: Dari nabi Shallallahu 'alaihi wa Salam: Dzus Suwaiqatain dari Habasyah meruntuhkan ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7305</td></tr><tr><td>Arabic No</td><td>2909.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7305</td></tr><tr><td>Arabic No</td><td>2909.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 71</td></tr></tbody></table></div>
 

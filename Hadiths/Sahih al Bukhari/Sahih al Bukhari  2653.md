@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) was asked about the great sins He said, "They ar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Munir] dia mendengar [Wahb bin Jarir] dan ['Abdul Malik bin Ibrahim] keduanya berkata, telah menceritakan kepadaku [Syu'bah] dari ['Ubaidullah bin Abi Bakar bin Anas] dari [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam ditanya tentang kaba'ir (dosa-dosa besar). Maka Beliau bersabda: "Menyekutukan Allah, durhaka kepada kedua orangtua, membunuh orang dan bersumpah palsu". Hadits ini diikuti pula oleh [Ghundar], [Abu 'Amir], [Bahz] dan ['Abdush Shamad] dari [Syu'bah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2653</td></tr><tr><td>Arabic No</td><td>2653</td></tr><tr><td>Reference</td><td>Book 52 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) Пророка ﷺ спросили о больших грехах, и он ответил: “(Это —) поклонение другим наряду с Аллахом, непочтительное отношение к родителям, убийство человека и лживое свидетельство”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2653</td></tr><tr><td>Arabic No</td><td>2653</td></tr><tr><td>Reference</td><td>Book 52 Hadith 17</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:(The Caliph 'Uthman ordered Zaid bin Thabit, Sa'id bin A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] Telah menceritakan kepada kami [Syu'aib] dari [Az Zuhri] Dan Telah mengabarkan kepadaku [Anas bin Malik] ia berkata; Utsman memerintahkan kepada Zaid bin Tsabit, Sa'id bin Al 'Ash, Abdullah bin Zubair dan Abdurrahman bin Al Harits bin Hisyam untuk menyalin Al Qur'an ke dalam Mushaf (pembukuan Alquran). Dan Utsman berkata pada mereka, "Jika kalian berselisih dengan Zaid dalam masalah bahasa Arab Al Qur'an, maka tulislah berdasarkan lisannya bangsa Quraisy, sebab Al Qur'an dengan bahasa mereka." Maka mereka pun melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4984</td></tr><tr><td>Arabic No</td><td>4984</td></tr><tr><td>Reference</td><td>Book 66 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «‘Усман приказал Зейду ибн Сабиту, Са‘иду ибн аль-‘Асу, ‘Абдуллаху ибн аз-Зубайру и ‘Абдуррахману ибн аль-Харису ибн Хишаму, переписать свитки (в которых были записаны аяты) в книгу /мусхаф/ в нескольких экземплярах, и сказал им: “Если между вами и Зейдом ибн Сабитом произойдут разногласия относительно (того, на каком диалекте) арабского языка записывать Коран, то записывайте его на языке (диалекте) курайшитов, ведь он был ниспослан на их языке”. И так они и сделали»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4984</td></tr><tr><td>Arabic No</td><td>4984</td></tr><tr><td>Reference</td><td>Book 66 Hadith 6</td></tr></tbody></table></div>
 

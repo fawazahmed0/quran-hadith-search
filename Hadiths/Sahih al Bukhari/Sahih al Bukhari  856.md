@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdul 'Aziz:A man asked Anas, "What did you hear from the Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada kami ['Abdul Warits] dari ['Abdul 'Aziz] berkata, "Seorang laki-laki bertanya kepada [Anas bin Malik], "Pernyataan apa yang pernah kamu dengar dari Nabi shallallahu 'alaihi wasallam tentang bawang putih?" Anas bin Malik menjawab, "Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa memakan dari pohon ini, maka jangan sekali-kali dia mendekati kami atau shalat bersama kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>856</td></tr><tr><td>Arabic No</td><td>856</td></tr><tr><td>Reference</td><td>Book 10 Hadith 247</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что один человек спросил Анаса ибн Малика: «Что ты слышал от Пророка ﷺ относительно чеснока?» Он ответил: «Пророк ﷺ сказал: «Пусть тот, кто поел это растение, не приближается к нам» или «…пусть не молится с нами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>856</td></tr><tr><td>Arabic No</td><td>856</td></tr><tr><td>Reference</td><td>Book 10 Hadith 247</td></tr></tbody></table></div>
 

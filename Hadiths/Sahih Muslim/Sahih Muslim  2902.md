@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : L'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Ala' Al Hamdani] Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah datang ke rumah Dluba'ah binti Zubair, lalu beliau bertanya: "Adakah kamu bermaksud hendak naik haji?" jawab, Dlubabah, "Aku sakit ya Rasulullah!" beliau bersabda: "Hajilah dengan niat bersyarat. Ucapkanlah; 'ALLAHUMMA MAHILLI HAITSU HABASTANI (Ya Allah, aku akan tahallul (berhenti) jika Engkau menahanku -bila tambah sakit dan tak sanggup meneruskannya-).'" Saat itu, Dluba'ah adalah isteri dari Miqdad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2902</td></tr><tr><td>Arabic No</td><td>1207.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2902</td></tr><tr><td>Arabic No</td><td>1207.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 111</td></tr></tbody></table></div>
 

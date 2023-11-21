@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran:We performed Hajj-at-Tamattu' in the lifetime of Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammam] dari [Qatadah] berkata,, telah menceritakan kepada saya [Muthrrif] dari ['Imran radliallahu 'anhu] berkata: "Kami melaksanakan hajji dengan cara tamattu' pada masa hidup Rasulullah Shallallahu'alaihiwasallam, Maka turunlah ayat Al Qur'an Al Baqarah ayat 195). Dia ('Imran) bersabda: "Seseorang berpendapat sesuai kehendak Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 25 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран, да будет доволен им Аллах, сказал:\n— При жизни Посланника Аллаха ﷺ мы совершили «хаджж ат-таматту‘», и был ниспослан (аят) Корана, (а потом один) человек высказал об этом то мнение, которое пожелал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 25 Hadith 57</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Yazid b. Namran said:I saw a crippled man at Tabuk. He (the man) said: I passed 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] telah menceritakan kepada kami [Waki'] dari [Sa'id bin Abdul Aziz] dari [Bekas budak Yazid bin Nimran] dari [Yazid bin Nimran] dia berkata; Aku bertemu [seorang lumpuh] di Tabuk, lalu dia bercerita: "Aku pernah lewat di hadapan Rasulullah Shallallahu 'alaihi wa Salam dengan mengendarai keledai ketika beliau sedang shalat, maka beliau bersabda: "Ya Allah, potonglah jejaknya." Setelah itu aku tidak dapat berjalan." Telah menceritakan kepada kami [Katsir bin Ubaid yaitu Al Madhiji] telah menceritakan kepada kami [Abu Haiwah] dari [Sa'id] dengan isnad dan maknanya, dia menambahkan; "Dia telah memotong shalat kami, semoga Allah memotong jejaknya." Abu Daud berkata; sedangkan [Abu Mushir] meriwayatkan dari [Sa'id] dia berkata; "Dia telah memotong shalat kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>705</td></tr><tr><td>Arabic No</td><td>705</td></tr><tr><td>Reference</td><td>Book 2 Hadith 315</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Язид ибн Нимран сказал: «Я видел в Табуке одного человека, разбитого параличом, который сказал: “(Однажды,) когда Пророк ﷺ совершал молитву, я проехал перед ним на осле и тогда он сказал: “О Аллах, прерви его след!”. И я не ходил на них (ногах) после этого (случая)”».Также этот хадис передали Ахмад
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>705</td></tr><tr><td>Arabic No</td><td>705</td></tr><tr><td>Reference</td><td>Book 2 Hadith 315</td></tr></tbody></table></div>
 

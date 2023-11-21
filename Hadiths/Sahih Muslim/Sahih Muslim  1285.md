@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) reported:The Messenger of Allah (ﷺ) said prayer and he om
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1285</td></tr><tr><td>Arabic No</td><td>572.12</td></tr><tr><td>Reference</td><td>Book 5 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах сказал: «Однажды Посланник Аллаха ﷺ совершил молитву. (Передатчик) Ибрахим сказал: “И я не знаю, добавил он что-то (в ней) или убавил”. И люди спросили: “О Посланник Аллаха! В молитву было что-то добавлено?” Он ответил: “Я лишь человек, как и вы, и забываю, подобно вам. И если кто-нибудь из вас забудит, то пусть сидя совершит два земных поклона”. Затем Посланник Аллаха ﷺ повернулся в сторону киблы и совершил два земных поклона»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1285</td></tr><tr><td>Arabic No</td><td>572.12</td></tr><tr><td>Reference</td><td>Book 5 Hadith 123</td></tr></tbody></table></div>
 

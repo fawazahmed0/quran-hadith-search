@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) led us in the Zuhr prayer, offering only 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Yazid bin Ibrahim] telah menceritakan kepada kami [Muhammad] dari [Abu Hurairah] "Nabi shallallahu 'alaihi wasallam mengimami kami pada waktu shalat zhuhur hanya dua raka'at kemudian salam, lalu beliau mendekat ke sebatang kayu yang tersandar di masjid sambil meletakkan tangan beliau di atas batang kayu tersebut. Pada waktu itu di antara mereka terdapat Abu Bakar dan Umar, keduanya merasa segan untuk menegur Rasulullah shallallahu 'alaihi wasallam, dan orang-orang segera keluar masjid sambil berkata; "Apakah shalat di Qashar (ringkas)?" Di antara mereka juga terdapat seorang laki-laki yang biasa dipanggil oleh Nabi shallallahu 'alaihi wasallam dengan sebutan Dzul yadain, ia berkata; "Wahai Nabiyullah, apakah engkau telah lupa atau memang shalatnya diqashar (diringkas)?" Beliau menjawab: "Aku tidak lupa dan shalatnya tidak pula diringkas." Para sahabat berkata; 'Bahkan anda telah lupa wahai Rasulullah." Beliau bersabda: "kalau begitu benar apa kata Dzulyadain." Lalu beliau mengerjakan shalat dua raka'at kemudian salam, kemudian beliau bertakbir dan sujud sebagaimana sujudnya (waktu shalat), atau bahkan lebih lama lagi, kemudian mengangkat kepalanya dan bertakbir, kemudian beliau meletakkan (kepalanya) sebagaimana beliau sujud bahkan lebih lama lagi kemudian beliau mengangkat kepalanya dan bertakbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6051</td></tr><tr><td>Arabic No</td><td>6051</td></tr><tr><td>Reference</td><td>Book 78 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «(Однажды) Пророк ﷺ совершил с нами полуденную молитву /зухр/, затем встал и подошёл к куску дерева, лежавшему в передней части мечети, и облокотился на него. Среди (молившихся) были Абу Бакр и ‘Умар, которые (не решались) заговорить с (Пророком ﷺ) из крайнего почтения по отношению к нему. (Между тем) торопившиеся уже покидали мечеть, говоря: “Молитва стала короче”. Среди людей был также один человек, которого Пророк ﷺ прозвал Зуль-Йадайн, он спросил: “О Пророк Аллаха, ты забыл или (теперь молитва) стала короче?” Он ответил: “Я не забыл, и (молитва) не стала короче”. Люди сказали: “Нет, ты забыл, о Посланник Аллаха”. Тогда он сказал: “Правду сказал Зуль-Йадайн”. Затем встал, совершил два рак‘ата и произнёс слова таслима, затем произнёс слова такбира, после этого он совершил (обычный по продолжительности) или (чуть) более долгий земной поклон, а потом поднял голову и произнёс слова такбира. Затем он снова совершил (обычный по продолжительности) или (чуть) более долгий земной поклон, потом поднял голову и произнёс слова такбира»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6051</td></tr><tr><td>Arabic No</td><td>6051</td></tr><tr><td>Reference</td><td>Book 78 Hadith 81</td></tr></tbody></table></div>
 

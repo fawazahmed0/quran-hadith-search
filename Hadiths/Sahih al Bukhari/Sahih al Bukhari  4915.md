@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I intended to ask 'Umar about those two ladies who back each
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaid] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Yahya bin Sa'id] ia berkata; Aku mendengar [Ubaid bin Hunain] berkata, Aku mendengar [Ibnu Abbas] berkata; Aku ingin bertanya kepada [Umar bin Al Khaththab] mengenai dua wanita yang bantu-membantu untuk menyusahkan Rasulullah shallallahu 'alaihi wasallam. Dan aku pun menahan keinginan itu selama satu tahun, namun aku belum juga mendapat kesempatan yang pas untuk menanyakannya. Hingga pada suatu hari aku keluar bersamanya untuk menunaikan ibadah haji. Ketika kami berada di Zhahran, Umar pergi untuk buang hajat, lalu ia berkata, "Bawakanlah aku air untuk berwudlu." Maka aku pun membawakan untuknya, lalu menuangkan air wudlu untuktunya. Pada saat itulah, aku melihatnya sebagai saat yang tepat untuk bertanya. Maka apu pun bertanya, "Wahai Amirul Mukminin, siapakah dua orang wanita yang pernah bantu membantu untuk menyusahkan Rasulullah shallallahu 'alaihi wasallam?" Ibnu Abbas berkata; Aku belum selesai bertanya, tetapi ia telah lebih dahulu menjawab, "Yaitu Aisyah dan Hafshah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>4915</td></tr><tr><td>Reference</td><td>Book 65 Hadith 435</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «В течении года, я пытался спросить ‘Умара о двух жёнах Посланника Аллаха ﷺ, которые сговорились против него, но не мог найти для этого подходящего момента. (Так продолжалось до тех пор,) пока я не отправился вместе с ним в хадж, и когда мы достигли Захрана, ‘Умар отправился, чтобы справить нужду, и сказал мне: “Принеси мне воду”. Я принёс бурдюк и стал лить ему воду. Здесь я понял, что это подходящий момент, и спросил: “О повелитель правоверных, кто были теми двумя женщинами, которые сговорились?” И не успел я закончить свой вопрос, как он ответил: “Это ‘Аиша и Хафса”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>4915</td></tr><tr><td>Reference</td><td>Book 65 Hadith 435</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A black person, a male or a female used to clean the Mosque
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Fadhal] telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Abu Rafi'] dari [Abu Hurairah radliallahu 'anhu]: "Ada seorang laki-laki kulit hitam atau wanita kulit hitam yang menjadi tukang sapu masjid meninggal dunia yang tidak diketahui Nabi Shallallahu'alaihiwasallam tentang kamatiannya. Suatu hari Beliau diceritakan, maka Beliau berkata,: "Apa yang telah terjadi dengan orang itu?. Mereka menjawab: "Dia telah meninggal, wahai Rasulullah" Lalu Nabi Shallallahu'alaihiwasallam berkata,: "Kenapa kalian tidak memberitahu aku?. Mereka berkata,: Kejadiannya begini begini, lalu mereka menjelaskan". Kemudian Beliau berkata,: "Tunjukkan kepadaku kuburannya! '. Maka Beliau Shallallahu'alaihiwasallam mendatangi kuburan orang itu kemudian shalat untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1337</td></tr><tr><td>Arabic No</td><td>1337</td></tr><tr><td>Reference</td><td>Book 23 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что в одно время темнокожий мужчина или женщина, подметавший в мечети, умер. Пророк ﷺ не знал о его смерти и однажды вспомнил о нем и спросил: «Что случилось с этим человеком?» Люди ответили: «Он умер, о Посланник Аллаха». Он спросил: «Почему вы ничего не сказали мне?!» Они сказали: «Его история была такой-то» (то есть они посчитали его незначительным). Он сказал: «Покажите мне его могилу». Затем он пришел на его могилу и совершил за него молитву джаназа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1337</td></tr><tr><td>Arabic No</td><td>1337</td></tr><tr><td>Reference</td><td>Book 23 Hadith 92</td></tr></tbody></table></div>
 

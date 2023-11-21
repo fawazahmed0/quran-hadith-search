@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:(the narrator Musa did not mention the words "from 'Aishah" in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik], dan telah diriwayatkan dari jalur yang lain: Dan telah menceritakan kepada kami [Yusuf bin Musa], telah menceritakan kepada kami [Sulaiman bin Hayyan], serta [Muhadhir] secara makna, dari [Hisyam bin 'Urwah] dari [ayahnya], dari [Aisyah], dan mereka berdua tidak menyebutkan dari Hammad, dan Malik, dari Aisyah. Bahwa mereka berkata; wahai Rasulullah, sesungguhnya orang-orang yang belum lama meninggalkan masa jahiliyah datang membawa daging, kami tidak mengetahui apakah mereka menyebutkan nama Allah padanya atau belum. Apakah kami boleh memakan sebagian darinya? Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebutlah nama Allah dan makanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2829</td></tr><tr><td>Arabic No</td><td>2829</td></tr><tr><td>Reference</td><td>Book 16 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что люди сказали: «О Посланник Аллаха, поистине, люди, недавно принявшие ислам, приносят мясо, и мы не знаем, поминалось над скотиной при заклании имя Аллаха или нет. Можно ли нам есть это мясо?» Посланник Аллаха ﷺ сказал: «Произносите имя Аллаха и ешьте»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2829</td></tr><tr><td>Arabic No</td><td>2829</td></tr><tr><td>Reference</td><td>Book 16 Hadith 42</td></tr></tbody></table></div>
 

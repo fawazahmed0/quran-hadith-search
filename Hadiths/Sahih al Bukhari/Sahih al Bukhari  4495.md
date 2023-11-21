@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:I said to 'Aisha, the wife of the Prophet, and I was at that time
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Hisyam bin Urwah] dari [Bapaknya] dia berkata; Aku bertanya kepada [Aisyah] istri Rasulullah shallallahu 'alaihi wasallam, -Saat itu saya masih muda-: 'Apakah anda tahu tentang firman Allah Tabaraka Wa Ta'ala: 'Sesungguhnya Shafaa dan Marwa adalah sebahagian dari syi'ar Allah. Barangsiapa yang beribadah haji ke Baitullah atau ber'umrah, maka tidak ada dosa baginya mengerjakan sa'i antara keduanya.' Sebab sepengetahuanku nggak masalah bagi seseorang untuk meninggalkan Sa'i antara keduanya. Aisyah menjawab; "Bukan begitu, kalau seperti yang kamu katakan, maka jadinya tidak ada dosa orang tidak melakukan sa'i. Ayat ini turun pada orang-orang Anshar, yang dahulu mereka melakukan talbiyah karena Manat, yang letaknya di depan Qadid. Yang mereka berkeharusan berthawaf antara Shofa dan Marwa. Tatkala Islam datang, mereka bertanya pada Rasulullah shallallahu 'alaihi wasallam tentang hal itu. Maka Allah Tabaraka Wa Ta'ala menurunkan ayat: 'Sesungguhnya Shafa dan Marwa adalah sebagian dari syi'ar Allah. Maka barangsiapa yang beribadah haji ke Baitullah atau ber-'umrah, Maka tidak ada dosa baginya mengerjakan sa'i antara keduanya'." (QS. Albaqarah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4495</td></tr><tr><td>Arabic No</td><td>4495</td></tr><tr><td>Reference</td><td>Book 65 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва сказал: «(Однажды) я обратился к ‘Аише, жене Пророка ﷺ с вопросом: “Что ты можешь сказать о словах Аллаха Всевышнего “Воистину, ас-Сафа и аль-Марва — одни из обрядовых знамений Аллаха. Кто совершает хадж к Каабе или малое паломничество, тот не совершит греха, если пройдет между ними”. Получается, что ни на ком не будет греха, если не обходить их». \n(В ответ) ‘Аиша сказала: «Вовсе нет. Если бы это было так, было бы сказано: “...Тот не совершит греха, если не пройдёт между ними”. Этот аят был ниспослан по поводу ансаров, совершавших паломничество к Манат, которая находилась напротив Кудайда, и считавших греховным проходить между холмами ас-Сафа и аль-Марва. А когда пришёл ислам, они спросили об этом Посланника Аллаха ﷺ, и Аллах ниспослал: “Воистину, Сафа и Марва — одни из обрядовых знамений Аллаха. Кто совершает хадж к Каабе или малое паломничество, тот не совершит греха, если пройдет между ними”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4495</td></tr><tr><td>Arabic No</td><td>4495</td></tr><tr><td>Reference</td><td>Book 65 Hadith 22</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:When Allah created the cr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Khasyram] telah mengabarkan kepada kami [Abu Dhamrah] dari [Al Harits bin 'Abdurrahman] dari ['Atha bin Mina] dari [Abu Hurairah] dia berkata; Nabi shallallahu 'alaihi wasallam telah bersabda: "Ketika Allah menciptakan makhluk, maka Dia membuat ketentuan terhadap diri-Nya sendiri yang tersimpan disisi-Nya, Sesungguhnya rahmat-Ku melebihi murka-Ku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6971</td></tr><tr><td>Arabic No</td><td>2751.03</td></tr><tr><td>Reference</td><td>Book 50 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6971</td></tr><tr><td>Arabic No</td><td>2751.03</td></tr><tr><td>Reference</td><td>Book 50 Hadith 19</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi said:Ibn ‘Umar had a friend from the people of Syria who used to correspo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] ia berkata; telah menceritakan kepada kami [Abdullah bin Yazid] ia berkata; telah menceritakan kepada kami [Sa'id] -maksudnya Said bin Abu Ayyub- ia berkata; telah mengabarkan kepadaku [Abu Shakr] dari [Nafi'] ia berkata, "Ibnu Umar mempunyai seorang sahabat dari Syam yang menulis surat kepadanya, [Ibnu Umar] lantas menulis surat balasan yang isinya, "Telah sampai kabar kepadaku bahwa engkau mempermasalahkan tentang takdir, maka janganlah engkau tanyakan hal itu kepdaku. Sungguh aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan ada dari umatku orang-orang yang mendustakan takdir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4613</td></tr><tr><td>Arabic No</td><td>4613</td></tr><tr><td>Reference</td><td>Book 42 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Нафи‘а: «У Ибн ‘Умара был друг из числа жителей Шама, с которым он переписывался, и однажды он написал ему следующее: “Поистине, я слышал, что ты говоришь (неподобающее) о предопределении Аллаха. Не пиши же мне больше, ибо, поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Будут в моей общине люди, отрицающие предопределение””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4613</td></tr><tr><td>Arabic No</td><td>4613</td></tr><tr><td>Reference</td><td>Book 42 Hadith 18</td></tr></tbody></table></div>
 

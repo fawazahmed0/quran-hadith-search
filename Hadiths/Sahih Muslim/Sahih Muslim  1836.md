@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:When any one of you gets 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] ia berkata, ini yang diceritakan kepada kami oleh [Abu Hurairah] dari Muhammad Rasulullah shallallahu 'alaihi wasallam. Ia pun menyebutkan hadits di antaranya adalah; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang diantara kalian mengerjakan shalat malam kemudian tidak mampu membaca Al Qur'an (karena ngantuk), sehingga tidak mengerti apa yang ia baca maka hendaknya ia tidur dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>787</td></tr><tr><td>Reference</td><td>Book 6 Hadith 264</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас встанет ночью и окажется, что ему трудно читать Коран, а сам он не будет знать, что говорит, пусть ляжет (поспать ещё)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>787</td></tr><tr><td>Reference</td><td>Book 6 Hadith 264</td></tr></tbody></table></div>
 

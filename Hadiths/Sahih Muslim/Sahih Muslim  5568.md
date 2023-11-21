@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that a girl of the Ansar who had fallen ill and had lost the hai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] ia berkata; Telah menceritakan kepada kami [Abu Dawud]; Telah menceritakan kepada kami [Syu'bah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Dan lafazh ini miliknya; Telah menceritakan kepada kami [Yahya bin Abu Bukair] dari [Syu'bah] dari ['Amru bin Murrah] dia berkata; Aku mendengar [Al Hasan bin Muslim] bercerita dari [Shafiyyah binti Syaibah] dari ['Aisyah] bahwa seorang budak perempuan dari Anshar menikah, lalu dia jatuh sakit hingga rambutnya pada rontok. Orang-orang pun ingin menyambungkan rambutnya, kemudian mereka bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang hal itu. Maka beliau menjawab: 'Allah melaknat orang yang menyambung rambut dan yang meminta disambungkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5568</td></tr><tr><td>Arabic No</td><td>2123.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов ‘Аиши (да будет доволен ею Аллах) о том, что «одна девушка из числа ансаров вышла замуж, однако она заболела и у неё (из-за этого) выпали волосы. Тогда она захотели подвязать ей волосы и спросили об этом Посланника Аллаха ﷺ и он проклял подвязывающих (волосы) и ту, которая делает это другим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5568</td></tr><tr><td>Arabic No</td><td>2123.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 178</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Umama:Whenever the Prophet (ﷺ) finished his meals (or when his di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ashim] dari [Tsaur bin Yazid] dari [Khalid bin Ma'dan] dari [Abu Umamah] bahwa Nabi shallallahu 'alaihi wasallam jika selesai dari makan, sekali waktu dengan lafadz, 'jika mengangkat lambungnya, beliau mengucapkan: "ALHAMDULILLAHILADZII KAFAANAA WA ARWAANAA GHAIRA MAKFIYIN WA LAA MAKFUURIN (Segala puji hanya milik Allah yang telah memberi kecukupan kami dan menghilangkan rasa haus, bukan nikmat yang tidak dianggap atau dikufuri) ', dilain waktu dengan lafadz, 'ALHAMDULILLAHI RABBINAA GHAIRA MAKFIYIN WA LAA MUWADDA'IN WA LAA MUSTAGHNAN RABBANAA (Segala puji hanya milik Allah Rabb kami, bukan pujian yang tidak dianggap dan tidak dibutuhkan oleh tuhan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5459</td></tr><tr><td>Arabic No</td><td>5459</td></tr><tr><td>Reference</td><td>Book 70 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии этого хадиса, также передаваемой со слов Абу Умамы, да будет доволен им Аллах, сообщается, что после завершения трапезы Пророк ﷺ иногда говорил: «Хвала Аллаху, Который удовлетворил наши нужды и утолил нашу жажду! Невозможно ни отплатить (за Твои милости), ни отрицать их!\n/Аль-хамду ли-Лляхи аллязи кaфа-на ва арва-на гайра макфийин ва ля макфурин!/»\nА иногда он ﷺ говорил: «Хвала Аллаху, нашему Господу! (Хвала, которой никогда) не будет достаточно, (хвала, которую) не следует прерывать, (хвала, без которой нам) не обойтись! (Он) — Господь наш!\n/Аль-хамду ли-Лляхи Раббина, гайра макфиййин, уа ля мувадда‘ин уа ля мустагънан ‘ан-ху! Рабба-на!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5459</td></tr><tr><td>Arabic No</td><td>5459</td></tr><tr><td>Reference</td><td>Book 70 Hadith 88</td></tr></tbody></table></div>
 

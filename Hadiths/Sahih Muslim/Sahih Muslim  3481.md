@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that Allah's Apostle (ﷺ) married h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah]; "Bahwa Nabi shallallahu 'alaihi wasallam menikahinya, ketika dia berusia enam tahun, dan dia diantar ke kamar beliau ketika berusia sembilan tahun, dan ketika itu dia sedang membawa bonekanya, sedangkan beliau wafat darinya ketika dia berusia delapan belas tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3481</td></tr><tr><td>Arabic No</td><td>1422.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов ‘Урвы (ибн аз-Зубайра), что ‘Аиша (да будет доволен ею Аллах) сказала: «Пророк ﷺ заключил с ней брак, когда она была девочкой (в возрасте) семи лет, и к нему отвели её (в качестве невесты,) когда ей было девять лет и её игрушки (всё ещё) были с ней, а умер он, когда ей было восемнадцать (лет)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3481</td></tr><tr><td>Arabic No</td><td>1422.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 83</td></tr></tbody></table></div>
 

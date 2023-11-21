@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: Three types of peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Abu Kamil] keduanya berkata; telah menceritakan kepada kami [Yazid] dari [Habib Al Mu'allim] dari ['Amru bin Syu'aib] dari [ayahnya] dari [Abdullah bin 'Amru] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Ada tiga golongan seseorang dalam menghadiri shalat Jum'at, yaitu; seseorang menghadiri shalat Jum'at sambil bicara, maka bicaranya itulah yang menjadi bagiannya, seseorang yang menghadiri shalat jum'at sambil memanjatkan do'a maka itulah orang yang benar-benar memanjatkan do'a kepada Allah 'azza wajalla, Kalau Dia menghendaki, maka akan di kabulkan atau jika Dia menghendaki maka Dia akan menahannya. Dan orang yang menghadiri shalat Jum'at dengan sikap diam dan tenang, tidak melangkahi pundak orang lain dan tidak pula menyakiti seorang pun, maka jum'atnya menjadi penebus dosanya hingga jum'at berikutnya, di tambah tiga hari, yang demikian itu karena Allah 'azza wajalla berfirman: "Barangsiapa melakukan amal kebaikan, maka baginya sepuluh kali lipat." QS Al An'am;
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1113</td></tr><tr><td>Arabic No</td><td>1113</td></tr><tr><td>Reference</td><td>Book 2 Hadith 724</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Амра, да будет доволен ими Всевышний, что Посланник Аллаха ﷺ сказал: «На пятничной молитве присутствуют три группы людей. (К первой группе относится) человек, который присутствует на ней, но ведёт пустые разговоры это и есть его удел от молитвы. (Ко второй группе относится) человек, который присутствует на ней и обращается с мольбами, являясь тем, кто обращается с мольбами к Великому и Всемогущему Аллаху, если Он пожелает, то дарует ему, а если пожелает, то не дарует ему. (К третьей группе относится) человек, который присутствует на ней, соблюдая молчание и тишину, не перешагивает через шеи мусульман, никому не причиняет неудобства такому будет даровано искупление (грехов) от этой пятницы до следующей, а также еще в течение трёх дней, ибо Аллах, Велик Он и Могуч, сказал: “Кто явится с добрым деянием, тот получит десятикратное воздаяние” (сура «аль-Ан‘ам», аят 160)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1113</td></tr><tr><td>Arabic No</td><td>1113</td></tr><tr><td>Reference</td><td>Book 2 Hadith 724</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) asked me, "How long does it take y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'd bin Hafsh] Telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Muhammad bin Abdurrahman] dari [Abu Salamah] dari [Abdullah bin Amru] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda kepadaku: "Berapa lamakah kamu membaca (mampu mengkhatamkan) Al Qur'an?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 66 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр сказал: «Пророк ﷺ спросил меня: “За сколько времени ты прочитываешь Коран (полностью)?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 66 Hadith 78</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: I asked the Messenger of Allah (ﷺ): What is lawful 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hisyam bin Abdul Malik Al-Yazani] telah menceritakan kepada kami [Baqiyyah bin Al-Walid] dari [Sa'd Al Aghthasy yaitu Ibnu Abdullah] dari [Abdurrahman bin 'A'idz Al Azdy], Hisyam berkata ia adalah Ibnu Qurth gubernur Himsh dari [Mu'adz bin Jabal] saya pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang apa yang dibolehkan bagi seorang suami terhadap istrinya yang sedang haidl. Maka beliau menjawab: "Boleh apa yang ada di atas kain (selain jimak), namun menahan diri dari hal tersebut adalah lebih utama." Abu Dawud berkata; Hadits ini tidak kuat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>213</td></tr><tr><td>Arabic No</td><td>213</td></tr><tr><td>Reference</td><td>Book 1 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘аз ибн Джабаль, сказал: «Я спросил Посланника Аллаха ﷺ о том, что разрешается мужчине, когда у его жены менструация и он ответил: “Все, что выше изара, но лучше воздерживаться от этого”».Абу Дауд сказал: «Этот хадис не является сильным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>213</td></tr><tr><td>Arabic No</td><td>213</td></tr><tr><td>Reference</td><td>Book 1 Hadith 213</td></tr></tbody></table></div>
 

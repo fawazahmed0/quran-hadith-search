@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Abi Waqqas:No man embraced Islam before the day on which I emb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ibrahim bin Musa] telah mengabarkan kepada kami [Ibnu Abu Za'idah] telah bercerita kepada kami ['Hasyim bin Hasyim bin 'Uqbah bin Abu Waqqash] berkata, aku mendengar [Sa'id bin Al Musayyab] berkata, aku mendengar [Sa'ad bin Abu Waqqash] berkata; "Tidak ada seorangpun yang masuk Islam pada hari ketika aku masuk Islam. Dan sungguh aku telah berdiam melewati tujuh hari dan sungguh aku adalah Tsulutsul Islam (Orang ketiga yang masuk Islam dari kalangan orang merdeka yang telah baligh) ". Hadits ini dikuatkan jalur periwayatannya oleh [Abu Usamah] telah bercerita kepada kami [Hasyim]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3727</td></tr><tr><td>Arabic No</td><td>3727</td></tr><tr><td>Reference</td><td>Book 62 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Аби Ваккас сказал: «Ни один человек не принимал ислам до меня, и в течение семи дней я был одним из трёх (первых) мусульман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3727</td></tr><tr><td>Arabic No</td><td>3727</td></tr><tr><td>Reference</td><td>Book 62 Hadith 74</td></tr></tbody></table></div>
 

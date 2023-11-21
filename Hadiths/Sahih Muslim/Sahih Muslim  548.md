@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Humran, the freed slave of Uthman reported:One day Uthman b. Affan performed the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahab] dia berkata, telah menceritakan kepadaku [Makhramah bin Bukari] dari [bapaknya] dari [Humran] mantan budak Utsman, dia berkata, "Suatu hari [Utsman bin Affan] berwudlu dengan wudlu yang bagus kemudian dia berkata, 'Saya melihat Rasulullah shallallahu 'alaihi wasallam berwudlu, lalu membaguskan wudlunya, kemudian beliau bersabda: 'Barangsiapa berwudlu demikian, kemudian keluar pergi ke masjid, tidak ada yang membangkitkannya kecuali shalat itu niscaya akan diampuni dosanya yang masih ada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>548</td></tr><tr><td>Arabic No</td><td>232.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумран сказал: «Однажды ‘Усман ибн ‘Аффан совершил омовение наилучшим образом, после чего сказал: “Я видел, как Посланник Аллаха ﷺ совершил омовение наилучшим образом, после чего сказал: “Тому, кто совершит омовение подобным образом, затем отправится в мечеть только для того, чтобы совершить молитву, будут прощены его прошлые грехи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>548</td></tr><tr><td>Arabic No</td><td>232.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
 

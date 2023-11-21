@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Talha reported:'Umar b. al-Khattab (Allah be pleased with him) delivered a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar Al Muqaddami] dan [Muhammad bin Mutsanna] dan ini adalah lafadz Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Qatadah] dari [Salim bin Abu Al Ja'd] dari [Ma'dan bin Abu Thalhah] bahwa [Umar bin Khatthab] berkhutbah pada hari Jum'at, kemudian dia menyanjung Nabi Allah shallallahu 'alaihi wasallam dan Abu Bakar, lalu dia berkata, "Sesungguhnya saya tidak akan meninggalkan sesuatu yang menurutku lebih penting daripada kalalah. Saya tidak pernah mengulang-ulang konsultasi kepada Rasulullah shallallahu 'alaihi wasallam tentang sesuatu yang melebihi konsultasiku kepadanya tentang kalalah, beliau juga tidak pernah bersikap keras terhadap suatu hal melebihi sikap kerasnya kepadaku dalam masalah kalalah, sampai-sampai beliau menekankan jari-jarinya ke dadaku sambil bersabda: "Wahai Umar, belum cukupkah bagimu ayat shaif yang terdapat pada akhir dari surat An Nisaa'? Seandainya saya masih hidup, maka saya akan menetapkan masalah kalalah dengan suatu ketetapan yang diputuskan oleh orang yang membaca Al Qur'an dan orang yang tidak membaca Al Qur'an." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Isma'il bin 'Ulayyah] dari [Sa'id bin Abu 'Arubah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] dan [Ibnu Rafi'] dari [Syababah bin Sawwar] dari [Syu'bah] keduanya dari [Qatadah] dengan isnad ini, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4150</td></tr><tr><td>Arabic No</td><td>1617.01</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4150</td></tr><tr><td>Arabic No</td><td>1617.01</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
 

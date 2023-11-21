@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger or Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepadakami [Laits] dari [Sa'id bin Abu Said] dari ['Atha' bin Mina'] dari [Abu Hurairah] bahwa dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Allah, sungguh Ibnu Maryam akan turun sebagai hakim yang adil, lalu dia mematahkan salib, membunuh babi, menghapuskan jizyah (dari orang kafir), meninggalkan unta muda, tidak berusaha mendapatkannya, hilanglah permusuhan, saling melakukan kebencian dan hasad, dan akan mengajak untuk menerima harta (sedekah) namun tidak ada seorang pun yang menerimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>391</td></tr><tr><td>Arabic No</td><td>155.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 296</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Клянусь Аллахом, сын Марьям непременно сойдёт (с небес и бу­дет судить вас) как справедливый судья, и сломает крест, и уничтожит свиней, и отменит джизью, а молодые верблюдицы будут предоставлены сами себе, и (люди) не будут стремиться (приобретать) их, и ис­чезнут взаимные злоба, ненависть и зависть, и будет он предлагать (людям брать) деньги, но никто их не примет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>391</td></tr><tr><td>Arabic No</td><td>155.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 296</td></tr></tbody></table></div>
 

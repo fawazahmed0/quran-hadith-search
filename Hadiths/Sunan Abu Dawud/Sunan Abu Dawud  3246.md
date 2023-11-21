@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: One should not take a false
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Ibnu Numair], telah menceritakan kepada kami [Hasyim bin Hasyim], telah mengabarkan kepadaku [Abdullah bin Nithas] dari keluarga Katsir bin Ash Shalt bahwa ia mendengar [Jabir bin Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang bersumpah di samping mimbarku ini dengan sumpah palsu walaupun untuk mendapatkan satu siwak, melainkan ia telah mempersiapkan tempatnya di neraka atau wajib baginya neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3246</td></tr><tr><td>Arabic No</td><td>3246</td></tr><tr><td>Reference</td><td>Book 22 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто бы ни дал возле этого моего минбара греховную клятву, даже если дело будет касаться зелёной палочки для чистки зубов, тот непременно займёт своё место в Огне (или: Огонь станет обязательным для него)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3246</td></tr><tr><td>Arabic No</td><td>3246</td></tr><tr><td>Reference</td><td>Book 22 Hadith 5</td></tr></tbody></table></div>
 

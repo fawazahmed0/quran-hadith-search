@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Once Iqama was pronounced and the people had straightened t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] berkata, telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan kepada kami [Al Auza'i] dari [Az Zuhri] dari [Abu Salamah bin 'Abdurrahman] dari [Abu Hurairah] berkata, "Suatu hari iqamat sudah dikumandangkan dan orang-orang sudah merapikan shaf-shaf mereka, lalu Rasulullah shallallahu 'alaihi wasallam keluar dan maju ke depan untuk memimpin shalat padahal waktu itu beliau sedang junub. Beliau lantas berkata; "Tetaplah di tempat kalian." Beliau pun kembali ke rumah untuk mandi dan datang kepada kami dalam keadaan kepalanya basah, kemudian beliau shalat bersama mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>640</td></tr><tr><td>Reference</td><td>Book 10 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды,) когда было объявлено о начале молитвы и (в мечети) были выровнены ряды (стоящих) людей, Посланник Аллаха ﷺ вышел и стал впереди, будучи в состоянии осквернения /джунуб/ и затем сказал: “(Оставайтесь) на своих местах”. И он вернулся (к себе в комнату), искупался, затем вышел (и мы увидели, что) с головы его стекают капли воды, после чего он совершил с ними молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>640</td></tr><tr><td>Reference</td><td>Book 10 Hadith 37</td></tr></tbody></table></div>
 

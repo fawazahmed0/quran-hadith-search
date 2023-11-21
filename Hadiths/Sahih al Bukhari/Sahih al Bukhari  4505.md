@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ata:That he heard Ibn 'Abbas reciting the Divine Verse:-- "And for tho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] Telah mengabarkan kepada kami [Rauh] Telah menceritakan kepada kami [Zakaria bin Ishaq] Telah menceritakan kepada kami [Amru bin Dinar] dari [Atha] dia mendengar [Ibnu Abbas] membaca ayat; "Dan bagi orang-orang yang berat menjalankannya maka wajib membayar fidya yaitu memberi makan orang miskin, "(QS. Albaqarah 184), Ibnu Abbas berkata; Ayat ini tidak dimanshukh, namun ayat ini hanya untuk orang yang sudah sangat tua dan nenek tua, yang tidak mampu menjalankannya, maka hendaklah mereka memberi makan setiap hari kepada orang miskin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4505</td></tr><tr><td>Arabic No</td><td>4505</td></tr><tr><td>Reference</td><td>Book 65 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Ата слышал, как Ибн ’Аббас читал: «А тем, которые способны [/йутаввакуна-ху/ вместо /йутыкуна-ху/ — прим. пер.] поститься с трудом, следует во искупление накормить бедняка». Ибн ’Аббас сказал: «Этот аят не является отменённым, здесь речь идёт о дряхлом старце или старушке, которые не могут поститься, и вместо этого должны кормить по бедняку за день поста»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4505</td></tr><tr><td>Arabic No</td><td>4505</td></tr><tr><td>Reference</td><td>Book 65 Hadith 32</td></tr></tbody></table></div>
 

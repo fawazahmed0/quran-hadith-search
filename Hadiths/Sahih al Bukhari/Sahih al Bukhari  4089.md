@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) said Al-Qunut for one month after the post
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Qatadah] dari [Anas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah qunut selama sebulan setelah rukuk, beliau mendo'akan (kecelakaan atas) penduduk sekitar arab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089</td></tr><tr><td>Arabic No</td><td>4089</td></tr><tr><td>Reference</td><td>Book 64 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, сказал: «Посланник Аллаха ﷺ в течение месяца призывал Аллаха, после поясного поклона, против некоторых арабских племён»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4089</td></tr><tr><td>Arabic No</td><td>4089</td></tr><tr><td>Reference</td><td>Book 64 Hadith 133</td></tr></tbody></table></div>
 

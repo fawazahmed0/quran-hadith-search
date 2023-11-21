@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(regarding His Statement about the Lat and the 'Uzza: Lat wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] Telah menceritakan kepada kami [Abul Asyhab] Telah menceritakan kepada kami [Abu Al Jauza] dari [Ibnu Abbas radliallahu 'anhuma] mengenai firman Allah: al Laata dan al Uzza, (An Najm: 19). 'Al Laata adalah seorang laki-laki yang biasa mengaduk sawik untuk makanan orang-orang yang haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4859</td></tr><tr><td>Arabic No</td><td>4859</td></tr><tr><td>Reference</td><td>Book 65 Hadith 380</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Аббас сказал о словах Аллаха «Не видели ли вы аль-Лят и аль-Уззу»: «Аль-Лят был человеком, который готовил кашу из крупы /сауик/ для паломников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4859</td></tr><tr><td>Arabic No</td><td>4859</td></tr><tr><td>Reference</td><td>Book 65 Hadith 380</td></tr></tbody></table></div>
 

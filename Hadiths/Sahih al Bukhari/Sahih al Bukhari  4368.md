@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Jamra:I said to Ibn 'Abbas, "I have an earthenware pot containing N
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] Telah mengabarkan kepada kami [Abu 'Amir Al 'Aqadi] Telah menceritakan kepada kami [Qurrah] dari [Abu Jamrah], Aku pernah berkata kepada Ibnu Abbas, "Sesungguhnya aku memiliki bejana yang biasa di pakai untuk membuat perasan nabidz, lalu aku meminumnya dalam keadaan manis. Jika aku terlalu banyak minum, maka aku ikut berkumpul (duduk-duduk) bersama orang-orang agar tidak terlihat mabuk. [Ibnu Abbas] lalu berkata, "Telah datang utusan Abu Qais kepada Rasulullah shallallahu 'alaihi wasallam, beliau lalu menyapa mereka dengan mengucapkan: 'Selamat datang kepada para utusan, yang tidak termasuk orang-orang yang hina dan menyesal.' Mereka berkata, "Wahai Rasulullah, antara kami dengan engkau ada orang-orang musyrik dari kabilah Mudlar, dan kami tidak bisa berjumpa denganmu kecuali pada bulan-bulan haram. Maka berikanlah kepada kami sebuah perintah, jika kami amalkan maka kami bisa masuk surga, dan bisa kami sampaikan kepada orang-orang setelah kami." Beliau bersabda: "Aku perintahkan kepada kalian empat perkara dan aku larang dari empat perkara. Aku perintahkan kalian agar beriman kepada Allah. Apakah kalian tahu apa itu iman kepada Allah?" Yaitu: "Bersaksi bahwa tidak ada Tuhan yang berhak disembah selain Allah, mendirikan shalat, menunaikan zakat, berpuasa di bulan Ramadlan dan mengeluarkan seperlima dari hasil ghanimah. Dan aku larang kalian dari empat perkara; membuat perasan nabidz dalam Ad Duba, An Naqir, Al Hantam dan Al Muzaffat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4368</td></tr><tr><td>Arabic No</td><td>4368</td></tr><tr><td>Reference</td><td>Book 64 Hadith 394</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джамра рассказывал, что однажды он сказал Ибн ‘Аббасу, да будет доволен Аллах им и его отцом: «У меня есть кувшин, в котором для меня готовят набиз, когда он становится сладким, я пью из этого кувшина. Когда я пью его много, а затем долго сижу с людьми, то боюсь опозориться (потому что становлюсь подобным пьяному)». Ибн ’Аббас сказал: «Когда к Посланнику Аллаха ﷺ прибыла делегация (племени) ‘абд аль-кайс, он сказал: “Добро пожаловать (вам, о) люди! Не будете вы посрамлены и не станете сожалеть!” Они сказали: “О Посланник Аллаха, нас отделяют от тебя многобожники из племени мудар, и мы можем приезжать к тебе только в запретные месяца, так дай же нам веление, чтобы мы благодаря этому вошли в Рай и передали его оставшимся за нами!” Он сказал: “Я повелеваю вам четыре (вещи) и запрещаю (другие) четыре: вера в Аллаха, знаете ли вы, что такое вера в Аллаха? Это — свидетельство о том, что нет божества, достойного поклонения, кроме одного лишь Аллаха, совершение молитвы, выплата закята, соблюдение поста в месяц рамадан и выделение вами пятой части военной добычи. И я запрещаю вам использовать для изготовления набиза четыре сосуда: дуббy, накыр, хантам и музаффат”».\nДубба — сосуды из высушенных тыкв.\nХантам — кувшины из глины. В таких сосудах в Медину привозили вино.\nНакыр — сосуды, выдолбленные из дерева.\nМузаффат — сосуд, бока которого обмазывались смолой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4368</td></tr><tr><td>Arabic No</td><td>4368</td></tr><tr><td>Reference</td><td>Book 64 Hadith 394</td></tr></tbody></table></div>
 

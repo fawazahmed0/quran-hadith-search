@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When Allah's Messenger (ﷺ) (p.b.u.h) sent Mu'adh to Yemen,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umayyah bin Bistham] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Rauh bin Al Qasim] dari [Isma'il bin Umayyah] dari [Yahya bin 'Abdullah bin Shayfiy] dari [Abu Ma'bad] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa ketika Nabi Shallallahu'alaihiwasallam mengutus Mu'adz radliallahu 'anhu ke negeri Yaman, Beliau berkata,: "Kamu akan mendatangi Ahlul Kitab, maka hendaklah da'wah yang pertama kali lakukan kepada mereka adalah mengajak mereka untuk ber'ibadah kepada Allah. Jika mereka telah mengenal Allah, maka beritahukanlah bahwa Allah mewajibkan atas mereka shalat lima waktu sehari semalam. Dan jika mereka telah melaksanakannya, maka beritahukanlah bahwa Allah telah mewajibkan atas mereka shadaqah (zakat) dari harta mereka yang akan diberikan kepada orang-orang faqir dari mereka. Jika mereka telah menaatinya, maka ambillah dari mereka (sesuai ketentuannya) dan peliharalah kesucian harta manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1458</td></tr><tr><td>Arabic No</td><td>1458</td></tr><tr><td>Reference</td><td>Book 24 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Когда Пророк ﷺ посылал Му‘аза, да будет доволен им Аллах, в Йемен, он сказал ему: “Поистине, ты приедешь к людям из числа обладателей Писания, так пусть же поклонение Аллаху будет первым, к чему ты призовёшь их, и, если они признают Аллаха, сообщи (этим людям), что Аллах вменил им в обязанность (совершение) пяти намазов ежедневно. Если они станут выполнять (это), сообщи им о том, что Аллах обязал их выплачивать закят с имущества, который следует отдавать бедным из их числа, если же они подчинятся и этому, то бери с них (закят), однако остерегайся забирать из имущества людей то, что (наиболее) дорого им!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1458</td></tr><tr><td>Arabic No</td><td>1458</td></tr><tr><td>Reference</td><td>Book 24 Hadith 60</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Some Companions of the Prophet: The Prophet (ﷺ) saw a person offering
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haiwah bin Syuraih] telah menceritakan kepada kami [Baqiyyah] dari [Bujair bin Sa'ad] dari [Khalid] dari [sebagian sahabat] Nabi shallallahu 'alaihi wasallam, Bahwasanya Nabi shallallahu 'alaihi wasallam pernah melihat seorang laki-laki yang sedang shalat, sedangkan di punggung telapak kakinya ada bagian sebesar dirham yang tidak terkena air. Maka Nabi shallallahu 'alaihi wasallam memerintahkannya untuk mengulangi wudhu dan shalatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>175</td></tr><tr><td>Arabic No</td><td>175</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Халид передал со слов некоторых сподвижников пророка: «Пророк ﷺ увидел совершающего молитву человека, у которого на верхней части ноги был маленький участок размером с дирхам, куда не достигла вода. И Пророк ﷺ велел ему повторить омовение и молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>175</td></tr><tr><td>Arabic No</td><td>175</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
 

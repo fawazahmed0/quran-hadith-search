@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuShurayb al-Ka'bi: The Prophet (ﷺ) said: Then you, Khuza'ah, have k
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] ia berkata; telah menceritakan kepadaku [Sa'id Ibnu Abu Sa'id] ia berkata; Aku mendengar [Abu Syuraih Al ka'bi] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai penduduk Khuza'ah! Ketahuilah oleh kalian semua, kalian telah membunuh orang Hudzail ini, sesungguhnya aku adalah penggantinya (yang akan membayarkan diyatnya), karena itu siapa yang terbunuh setelah perkataanku ini, maka bagi ahli warisnya aku beri dua pilihan; minta tebusan atau balas bunuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4504</td></tr><tr><td>Arabic No</td><td>4504</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Шурайха аль-Ка‘би, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал (в своей речи в день покорения Мекки): «О хузаиты! Вы убили этого человека из Хузайля, и я выплачу возмещение за него. Если же кто-то будет убит после того, как я сказал эти слова, то его родственникам предоставляется выбор: принять возмещение или казнить убийцу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4504</td></tr><tr><td>Arabic No</td><td>4504</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
 

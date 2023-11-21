@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) said:The five (daily) pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Nashr bin Ali al-Jahdlami] telah mengabarkan kepada kami [Abdul A'la] telah menceritakan kepada kami [Hisyam] dari [Muhammad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Shalat lima waktu dan shalat Jum'at ke Jum'at berikutnya adalah penghapus untuk dosa antara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>551</td></tr><tr><td>Arabic No</td><td>233.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «(Совершение) пяти (ежедневных обязательных) молитв, (участие в каждой следующей) пятничной молитве (после предыдущей), служат искуплением прегрешений, совершённых между ними»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>551</td></tr><tr><td>Arabic No</td><td>233.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 18</td></tr></tbody></table></div>
 

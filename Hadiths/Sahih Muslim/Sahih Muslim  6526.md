@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6526</td></tr><tr><td>Arabic No</td><td>2558.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика (да будет доволен им Аллах) о том, что Посланник Аллаха ﷺ сказал: «Откажитесь от ненависти по отношению друг к другу, не завидуйте друг другу, не поворачивайтесь спиной друг к другу, и будьте братьями, о рабы Аллаха! Не разрешается мусульманину покидать брата своего (на срок,) превышающий три дня!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6526</td></tr><tr><td>Arabic No</td><td>2558.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 26</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Yusuf ibn Abdullah ibn Salam: I saw that the Prophet (ﷺ) put a date o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Yahya bin Al 'Ala'], dari [Muhammad bin Yahya bin Habban] dari [Yusuf bin Abdullah bin Abdullah bin Salam], ia berkata; aku melihat Nabi shallallahu 'alaihi wasallam meletakkan satu biji kurma di atas potongan roti kemudian mengatakan; "Ini (kurma) adalah lauk untuk ini (potongan roti)." Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Umar bin Hafash] telah menceritakan kepada kami [ayahku] dari [Muhammad bin Abi Yahya] dari [Yazid Al A'war] dari [Yusuf bin Abdullah bin Salam] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3259</td></tr><tr><td>Arabic No</td><td>3259</td></tr><tr><td>Reference</td><td>Book 22 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Похожий хадис передаётся от Юсуфа ибн ‘Абдуллаха ибн Саляма другим путём
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3259</td></tr><tr><td>Arabic No</td><td>3259</td></tr><tr><td>Reference</td><td>Book 22 Hadith 18</td></tr></tbody></table></div>
 

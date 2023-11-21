@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:The word of (Allah) Great and Glorious: 'And utter not thy p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ja'far Muhammad bin ash-Shabbah] dan [Amru an-Naqid] semuanya meriwayatkan dari [Husyaim], berkata [Ibnu ash-Shabbah], telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] tentang firmanNya, "Dan janganlah kamu mengeraskan suaramu dalam shalatmu, dan janganlah pula merendahkannya." Dia berkata, "Ayat ini turun ketika Rasululah shallallahu 'alaihi wasallam berdakwah secara sembunyi-sembunyi di Makkah. Beliau apabila shalat mengimami para sahabatnya maka beliau mengangkat suaranya dengan bacaan al-Qur'an. Sedangkan kaum musyrikin apabila mendengar hal tersebut maka mereka mencela al-Qur'an, dan yang menurunkannya (Allah dan Jibril), dan yang membawanya (Muhammad). Maka Allah berfirman kepada nabiNya Shallallahu'alaihiwasallam, 'Janganlah kamu mengeraskan suaramu dalam shalatmu sehingga orang-orang musyrik mendengar bacaanmu dan janganlah kamu merendahkannya dari para sahabatmu. Perdengarkanlah al-Qur'an kepada mereka, dan janganlah kamu mengeraskannya sekeras-kerasnya, dan usahakanlah jalan pertengahan antara hal tersebut.' Dia berkata, 'Antara keras dan pelan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1001</td></tr><tr><td>Arabic No</td><td>446</td></tr><tr><td>Reference</td><td>Book 4 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, (говоря) о (смысле) слов Всевышнего «И не произноси (слова) своей молитвы ни (слишком) громко, ни (слишком) тихо, а (выбери) среднее между (одним и другим)» (Сура «аль-Исра», аят 110) Ибн ‘Аббас сказал: «Когда был ниспослан (этот аят), Посланник Аллаха ﷺ скрывался в Мекке. Молясь вместе со своими сподвижниками, он обычно громко читал Коран, что же касается многобожников, то, слыша это, они начинали поносить и Коран, и Того, Кто его ниспослал, и того, кто его принёс, и тогда Всевышний Аллах сказал Своему пророку: “И не произноси (слова) своей молитвы ни (слишком) громко”, (то есть не читай Коран слишком громко, ибо) тогда многобожники услышат твоё чтение, “ни (слишком) тихо”, (то есть не слишком тихо) для твоих сподвижников; (читай так, чтобы) они слышали (чтение) Корана, но не (читай так) громко, “а (выбери) среднее между (одним и другим)” (Сура «аль-Исра», аят 110). (Это значит, что Пророку ﷺ следовало) читать не (слишком) громко и не (слишком) тихо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1001</td></tr><tr><td>Arabic No</td><td>446</td></tr><tr><td>Reference</td><td>Book 4 Hadith 163</td></tr></tbody></table></div>
 

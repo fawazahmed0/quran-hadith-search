@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Saburah ibn Ma'bad al-Juhani: The Prophet (ﷺ) alighted at a place whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah mengabarkan kepada kami [Ibnu Wahb], telah menceritakan kepadaku [Sabrah bin Abdul Aziz bin Ar Rabi' Al Juhani], dari [ayahnya] dari [kakeknya] bahwa Nabi shallallahu 'alaihi wasallam singgah di suatu tempat di masjid di bawah Daumah. Lalu beliau tinggal selama tiga hari kemudian keluar menuju Tabut. Dan orang-orang Juhainah menyusul beliau di Rahbah, kemudian beliau berkata kepada mereka; "Siapakah yang merupakan penduduk Dzul Marwah?" kemudian mereka berkata; Banu Rifa'ah dari Juhainah. Kemudian beliau berkata: "Aku telah mengalokasikannya untuk Bani Rifa'ah, maka bagilah." Lalu diantara mereka ada yang menjual bagiannya dan diantara mereka ada yang menahannya dan mengerjakannya. Kemudian aku bertanya kepada ayahnya yaitu Abdul Aziz mengenai hadits ini. Kemudian ia menceritakan sebagiannya kepadaku, dan tidak menceritakan seluruhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3068</td></tr><tr><td>Arabic No</td><td>3068</td></tr><tr><td>Reference</td><td>Book 20 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сабра ибн ‘Абду-ль-‘Азиз ибн ар-Раби‘ аль-Джухани передаёт от своего отца рассказ своего деда о том, что Пророк ﷺ остановился на месте совершения молитв под большим деревом и провёл там три дня. Затем он отправился в Табук, а джухайниты пришли к нему, когда он был на открытом пространстве. Он спросил их: «Кто живёт в Зу-ль-Марве?» Они ответили: «Бану рифа‘а из Джухайны». (Посланник Аллаха ﷺ) сказал: «Я отдаю эту землю бану рифа‘а». И они поделили её, и некоторые продали свои участки, а некоторые оставили их себе. Передатчик сказал: «Затем я спросил об этом его отца Абду-ль-Азиза, и он пересказал мне эту историю частично, но не полностью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3068</td></tr><tr><td>Arabic No</td><td>3068</td></tr><tr><td>Reference</td><td>Book 20 Hadith 141</td></tr></tbody></table></div>
 

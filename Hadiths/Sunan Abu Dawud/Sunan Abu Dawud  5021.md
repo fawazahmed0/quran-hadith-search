@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qatadah said:I heard the Messenger of Allah (May peace be upon him) say: A g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] ia berkata; Aku mendengar [Az Zuhair] ia berkata; Aku mendengar [Yahya bin Sa'id] ia berkata; Aku mendengar [Abu Salamah] ia berkata; Aku mendengar [Abu Qatadah] ia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Mimpi baik itu datang dari Allah dan mimpi buruk itu datang dari setan. Maka, jika salah seorang dari kalian bermimpi dengan sesuatu yang tidak disukainya hendaklah meniup ke sisi kirinya tiga kali. Kemudian, hendaklah ia memohon perlindungan kepada Allah dari kejelekkannya, niscaya mimpi buruk itu tidak akan membahayakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6984) Sahih Muslim (2261)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5021</td></tr><tr><td>Arabic No</td><td>5021</td></tr><tr><td>Reference</td><td>Book 43 Hadith 249</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6984) Sahih Muslim (2261)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5021</td></tr><tr><td>Arabic No</td><td>5021</td></tr><tr><td>Reference</td><td>Book 43 Hadith 249</td></tr></tbody></table></div>
 

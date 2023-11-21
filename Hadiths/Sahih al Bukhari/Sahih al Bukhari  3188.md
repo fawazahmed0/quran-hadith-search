@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "Every betrayer will have a flag whic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Bagi setiap pengkhiyanat akan diberikan bendera pada hari qiyamat yang ditegakkan sesuai kadar pengkhiyanatannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3188</td></tr><tr><td>Arabic No</td><td>3188</td></tr><tr><td>Reference</td><td>Book 58 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Нафи‘а, что Ибн ‘Умар, да будет доволен ими обоими Аллах, сказал: «Я слышал, как Пророк ﷺ говорил: “(В День воскрешения) для каждого вероломного (будет установлено) знамя его вероломства”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3188</td></tr><tr><td>Arabic No</td><td>3188</td></tr><tr><td>Reference</td><td>Book 58 Hadith 29</td></tr></tbody></table></div>
 

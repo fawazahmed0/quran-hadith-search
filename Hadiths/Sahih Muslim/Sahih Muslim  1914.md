@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou 'Ishâq dit : J'ai vu un homme interroger Al-'Aswad Ibn Yazîd alors qu'il 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] ia berkata, saya melihat seorang laki-laki bertanya [Al Aswad bin Yazid] yang sedang mengajarkan Al Qur'an di masjid, "Bagaimana Anda membaca ayat ini, 'FAHAL MIM MUDDAKIR' apakah dengan huruf Dal ataukah Dzal?." Al Aswad menjawab, "Yang benar adalah dengan huruf Dal. Saya mendengar [Ibnu Mas'ud] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam membaca: "MUDDAKIR (Yakni dengan huruf Dal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1914</td></tr><tr><td>Arabic No</td><td>823.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 342</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Исхак сказал: «Я был свидетелем того, как один человек спросил аль-Асвада ибн Язида, обучавшего (людей) Корану в мечети: “Как ты читаешь этот аят,(где сказано) «Но найдётся ли (среди вас) поминающий /муддакир/?» (Сура «аль-Камар», аят 15) с буквой «даль» или «заль»?”».(Как передал Абу Исхак, аль-Асвад ответил ему): «С буквой даль, ибо я слышал, как ‘Абдуллах ибн Мас‘уд сказал: “Я слышал, как Посланник Аллаха ﷺ читает (слово) «муддакир» с буквой даль”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1914</td></tr><tr><td>Arabic No</td><td>823.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 342</td></tr></tbody></table></div>
 

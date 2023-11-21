@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qatadah said:The Prophet (ﷺ) was on journey. The people became thirsty, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Tsabit Al Bunani] dari [Abdullah bin Rabah Al Anshari] ia berkata; telah menceritakan kepada kami [Abu Qatadah] berkata, "Saat Nabi shallallahu 'alaihi wasallam dalam perjalanan, para sahabat merasa kehausan hingga mereka berjalan dengan cepat, namun malam itu aku tetap mendampingi Rasulullah shallallahu 'alaihi wasallam. Beliau lalu bersabda: "Semoga Allah menjagamu, karena engkau telah menjaga Nabi-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (681)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5228</td></tr><tr><td>Arabic No</td><td>5228</td></tr><tr><td>Reference</td><td>Book 43 Hadith 456</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (681)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5228</td></tr><tr><td>Arabic No</td><td>5228</td></tr><tr><td>Reference</td><td>Book 43 Hadith 456</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepadaku [Muhammad bin Hatim] dan ['Ubaidullah bin Sa'id] dia berkata; telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hajjaj Ash Shawaf] telah menceritakan kepada kami [Yahya bin Abu Katsir] dari [Abu Salamah] dan [Abdullah bin Abu Qatadah] dari [Abu Qatadah], dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika iqamat telah dikumandangkan, janganlah kalian berdiri hingga kalian melihatku." [Ibn Hatim] mengatakan dengan redaksi; "Jika iqamat telah dikumandangkan atau diserukan." Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ma'mar], [Abu Bakr] mengatakan; "Dan telah menceritakan kepada kami [Ibn 'Ulayyah] dari [Hajjaj bin Abu Utsman] katanya (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus] dan [Abdurrazaq] dari [Ma'mar]. [Ishaq] mengatakan; telah mengabarkan kepada kami [Al Walid bin Muslim] dari [Syaiban] semuanya dari [Yahya bin Abu Katsir] dari [Abdullah bin Abu Qatadah] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam, sedangkan dalam periwayatannya, Ishaq menambahkan hadis Ma'mar dan Syaiban; "Hingga kalian melihatku telah keluar (rumah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1366</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса он сказал: «…пока не увидите, что я вышел»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1366</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hanzala b. Qais al-Ansri reported:I asked Rafi' b. Khadij about the renting of l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] telah menceritakan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Al Auza'i] dari [Rabi'ah bin Abu Abdurrahman] telah menceritakan kepadaku [Handlalah bin Qais Al Anshari] dia berkata; "Saya bertanya kepada [Rafi' bin Khadij] mengenai menyewakan tanah perkebunan dengan bayaran emas dan perak." Maka dia menjawab; "Hal itu tidak mengapa. Dulu pada masa Rasulullah shallallahu 'alaihi wasallam, banyak para sahabat yang menyewakan tanahnya dengan imbalan memperoleh hasil panen dari tanaman yang tumbuh di sekitar parit atau saluran air atau sejumlah tanaman itu sendiri, apabila suatu ketika pemilik tanah itu rugi, justru pemilik tanah itu merasa diuntungkan, atau pemilik tanah mendapatkan keuntungan dan penyewa yang merasa dirugikan, tetapi anehnya banyak dari orang-orang yang melakukan penyewaan seperti itu. Oleh karena itu, Rasulullah shallallahu 'alaihi wasallam melarang penyewaan tanah seperti di atas. Sedangkan penyewaan tanah dengan pembayaran yang telah diketahui dan dapat dipertanggung jawabkan, maka hal itu tidaklah dilarang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>1547.12</td></tr><tr><td>Reference</td><td>Book 21 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>1547.12</td></tr><tr><td>Reference</td><td>Book 21 Hadith 151</td></tr></tbody></table></div>
 

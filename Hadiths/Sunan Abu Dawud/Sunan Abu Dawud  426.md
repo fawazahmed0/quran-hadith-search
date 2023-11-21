@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Farwah: The Messenger of Allah (ﷺ) was asked: Which of the action
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah Al Khuza'i] dan [Abdullah bin Maslamah] keduanya berkata; Telah menceritakan kepada kami [Abdullah bin Umar] dari [Al Qasim bin Ghannam] dari [sebagian ibunya] dari [Ummu Farwah] dia berkata; Rasulullah Shallallahu alaihi wasallam ditanya; Amalan apakah yang paling utama? Beliau menjawab: "Shalat di awal waktu!" Al-Khuza'i berkata dalam haditsnya dari bibinya yang bernama Ummu Farwah yang telah berbai'at kepada Nabi Shallallahu alaihi wasallam bahwasanya Nabi Shallallahu alaihi wasallam ditanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>426</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Фарва сказала: «(Однажды) у Посланника Аллаха ﷺ спросили: “Какое дело является наилучшим?” Он ответил: “Молитва в начале (установленного) для неё времени”».(Мухаммад ибн ‘Абдуллах) аль-Хуза‘и в своем риваяте, переданном со слов его тети по отцу, которую также звали Умм Фарва, и которая присягнула Пророку ﷺ сообщил о том, что Пророка ﷺ спросили…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>426</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
 

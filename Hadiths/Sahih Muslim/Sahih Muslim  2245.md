@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir said:Allah's Messenger (ﷺ) forbade that the graves should be plastered o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] Telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Ibnu Juraij] dari [Abu Zubair] dari [Jabir] ia berkata; "Rasulullah shallallahu 'alaihi wasallam melarang mengapur kuburan, duduk dan membuat bangunan di atasnya." Dan telah menceritakan kepadaku [Harun bin Abdullah] Telah menceritakan kepada kami [Hajjaj bin Muhammad] -dalam jalur lain- Dan telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdurrazaq] semuanya dari [Ibnu Juraij] ia berkata, telah mengabarkan kepada kami [Abu Zubair] bahwa ia mendengar [Jabir bin Abdullah] berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda dengan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2245</td></tr><tr><td>Arabic No</td><td>970.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запрещал покрывать могилу гипсом, садиться на неё и возводить над ним (любое) строение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2245</td></tr><tr><td>Arabic No</td><td>970.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 121</td></tr></tbody></table></div>
 

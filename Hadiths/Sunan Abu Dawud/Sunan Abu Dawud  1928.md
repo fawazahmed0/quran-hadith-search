@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The aforesaid tradition has also been transmitted to the same effect by by Al Zu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah], dari [Malik] dari [Ibnu Syihab] dari [Salim bin Abdullah], dari [Abdullah bin Umar] bahwa Rasulullah shallAllahu wa'alaihi wa sallam melakukan Shalat Maghrib dan Isya' di Muzdalifah. Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Hammad bin Khalid], dari [Ibnu Abu Dzi'bin], dari [Az Zuhri] dengan sanad serta maknanya. Dan ia berkata; dengan satu iqamah jama' antara keduanya. [Ahmad] berkata; [Waki'] berkata; beliau melakukan setiap shalat dengan satu iqamah. Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Syababah]. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Makhlad bin Khalid] secara makna, telah mengabarkan kepada Kami [Utsman bin Umar] dari [Ibnu Abu Dzi'b] dari [Az Zuhri] dengan sanad Ahmad bin Hanbal dari Hammad dan dengan maknanya: Ia berkata; dengan satu iqamah untuk setiap shalat dan tidak mengumandangkan adzan pada shalat pertama serta tidak melakukan shalat sunah setelah melakukan setiap shalat diantara kedua shalat tersebut. Makhlad berkata; tidak mengumandangkan adzan pada satu pun diantara kedua shalat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1928</td></tr><tr><td>Arabic No</td><td>1928</td></tr><tr><td>Reference</td><td>Book 11 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В подобной версии аз-Зухри с иснадом Ибн Ханбаля от Хаммада говорится: «Он совершил эти молитвы с икаматом для каждой молитвы, и не [велел произносить] азан к первой молитве, и не совершал никаких добровольных молитв после какой-либо из них». А Махляд сказал: «И он не [велел произносить] азан ни к одной из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1928</td></tr><tr><td>Arabic No</td><td>1928</td></tr><tr><td>Reference</td><td>Book 11 Hadith 208</td></tr></tbody></table></div>
 

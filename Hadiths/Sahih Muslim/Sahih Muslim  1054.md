@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:I never prayed behind an Imam who was more brief and more perfect 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Yahya bin Ayyub], [Qutaibah bin Sa'id] dan [Ali bin Hujr], Yahya bin Yahya berkata, telah mengabarkan kepada kami, sedangkan tiga orang yang lainnya berkata, telah menceritakan kepada kami [Ismail mereka memaksudkan Ibnu Ja'far] dari [Syarik bin Abdullah bin Abi Namir] dari [Anas bin Malik] bahwasanya dia berkata, "Tidaklah aku pernah shalat di belakang seorang imam satu kali pun yang lebih ringan dan lebih sempurna daripada shalat Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1054</td></tr><tr><td>Arabic No</td><td>469.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 216</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик говорил: «Я никогда не совершал ни за одним имамом столь лёгкой, но в то же время полноценной молитвы, как за Посланником Аллаха ﷺ».Глава: Облегчение молитвы из-за плача ребёнка
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1054</td></tr><tr><td>Arabic No</td><td>469.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 216</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:when this Verse:--'Say (O Muhammad!): He has Power 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Amru] dari [Jabir bin Abdullah] berkata, "Tatkala ayat berikut diturunkan: '(Katakanlah Hai Muhammad, Dia-lah yang Maha berkuasa mengirimkan siksaan untuk kalian dari atas kalian) ' (QS. Al An'am 65), Nabi shallallahu 'alaihi wasallam memanjatkan doa: 'Saya berlindung dengan wajah-Mu, ' lantas Allah berfirman: '(Atau dari bawah kakimu) ' (QS. Al An'am 65), maka nabi memanjatkan doa: 'Saya berlindung dengan wajah-Mu', dan Allah berfirman: '(Atau menjadikan kalian berkelompok-kelompok) ' (QS. Al An'am 65), maka Nabi berkomentar 'Ini lebih sepele
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7406</td></tr><tr><td>Arabic No</td><td>7406</td></tr><tr><td>Reference</td><td>Book 97 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Когда был ниспослан этот аят: «Скажи: “Он может наслать на вас наказание сверху…”», Посланник Аллаха ﷺ сказал: «Прибегаю к защите лика Твоего! /А‘узу би-ваджхи-Кя!/» Когда (Аллах) сказал: «…и из-под ног ваших…», — Пророк ﷺ сказал: «Прибегаю к защите лика Твоего!» А когда же было ниспослано: «…или разделить вас на группы», Пророк ﷺ сказал: «Это легче»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7406</td></tr><tr><td>Arabic No</td><td>7406</td></tr><tr><td>Reference</td><td>Book 97 Hadith 35</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al-'As:"Once Allah's Messenger (ﷺ) came to me,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Harun bin 'Isma'il] telah menceritakan kepada kami ['Ali] telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada saya [Abu Salamah] berkata, telah menceritakan kepada saya ['Abdullah bin 'Amru bin Al 'Ash radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam datang menemuiku. Lalu dia menceritakan hadits yang Beliau sabdakan, yaitu: "Sesungguhnya isterimu mempunyai hak atasmu dan sesungguhnya isterimu mempunyai hak atasmu". Dan aku bertanya tentang shaum Daud. Maka Beliau menjawab: "Itu sama halnya separoh dari puasa Dahar (puasa sepanjang tahun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 30 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Амр ибн аль-‘Ас, да будет доволен Аллах им и его отцом, сказал: «(Однажды) Посланник Аллаха ﷺ пришёл ко мне и сказал: “Поистине, у твоего гостя есть на тебя право, и у твоей жены есть на тебя право”. Я спросил: “Каким образом постился Дауд?” Он ответил: “Через день”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 30 Hadith 81</td></tr></tbody></table></div>
 

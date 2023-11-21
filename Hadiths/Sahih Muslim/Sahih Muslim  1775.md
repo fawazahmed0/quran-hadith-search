@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Allah descends to the low
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hajjaj bin Sya'ir] telah menceritakan kepada kami [Muhadlir Abul Muwarri'] Telah menceritakan kepada kami [Sa'd bin Sa'id] ia berkata, telah mengabarkan kepadaku [Ibnu Marjanah] ia berkata, saya mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah turun ke langit dunia pada pertengahan atau sepertiga malam terakhir seraya berfirman, 'Siapa yang memohon kepadaKu, niscya akan Aku perkenankan permohonannya, atau siapa yang meminta padaKu, niscaya akan Aku beri.' Kemudian Dia berfirman, 'Siapakah yang dapat berbuat ketaatan tanpa kefakiran atau kezhaliman? '" Muslim berkata; Ibnu Marjanah adalah Sa'id bin Abdullah, dan Marjanah adalah ibunya. Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] Telah menceritakan kepada kami [Ibnu Wahb] ia berkata, telah mengabarkan kepadaku [Sulaiman bin Bilal] dari [Sa'd bin Sa'id] dengan sanad-sanad ini. Dan ia menambahkan, "Kemudian (Allah) Tabaraka wa Ta'ala membentangkan kedua tanganNya seraya berfirman, 'Siapakah yang berbuat ketaatan tanpa kefakiran atau kezhaliman?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1775</td></tr><tr><td>Arabic No</td><td>758.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Аллах нисходит к нижнему небу (по истечении) половины (или: в последней трети) ночи и говорит: “Кто станет взывать ко Мне, чтобы Я ответил ему? Кто станет просить Меня, чтобы Я даровал ему (желаемое)?” Затем он скажет: “Кто одолжит тому, Кто не является ни нуждающимся, ни вероломным?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1775</td></tr><tr><td>Arabic No</td><td>758.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 204</td></tr></tbody></table></div>
 

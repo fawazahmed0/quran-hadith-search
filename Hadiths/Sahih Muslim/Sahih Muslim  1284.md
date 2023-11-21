@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) reported:The Messenger of Allah (ﷺ) led us five (rak'ahs 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepada kami ['Aun bin Sallam al-Kufi] telah mengabarkan kepada kami [Abu Bakar an-Nahsyali] dari [Abdurrahman bin al-Aswad] dari [Bapaknya] dari [Abdullah] dia berkata, "Rasulullah Shallallahu'alaihiwasallam shalat mengimami kami lima rakaat. Lalu kami berkata, 'Wahai Rasulullah apakah rakaat di dalam shalat ditambahkan? ' Beliau menjawab, 'Tidak demikian.' Mereka berkata, 'Kamu telah shalat lima rakaat.' Beliau bersabda, 'Aku hanyalah manusia biasa seperti kalian, bisa ingat sebagaimana kalian ingat, dan juga bisa lupa sebagaimana kalian lupa.' Kemudian beliau bersujud sahwi dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1284</td></tr><tr><td>Arabic No</td><td>572.11</td></tr><tr><td>Reference</td><td>Book 5 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах сказал: «(Однажды) Посланник Аллаха ﷺ совершил с нами молитву в пять рак‘атов, и мы спросили: “О Посланник Аллаха! Разве молитва была увеличена?” (Пророк ﷺ в свою очередь) спросил: “А в чём дело?” (Люди) сказали: “Ты совершил пять (рак‘атов)”. Тогда (Пророк ﷺ) сказал: “Поистине, я лишь человек, как и вы, вспоминаю подобно вам и забываю подобно вам”, после чего совершил два земных поклона /саджда саху/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1284</td></tr><tr><td>Arabic No</td><td>572.11</td></tr><tr><td>Reference</td><td>Book 5 Hadith 122</td></tr></tbody></table></div>
 

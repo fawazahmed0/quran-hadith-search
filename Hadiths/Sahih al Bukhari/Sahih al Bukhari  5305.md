@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to the Prophet (ﷺ) and said, "O Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Quza'ah] Telah menceritakan kepada kami [Malik] dari [Ibnu Abbas] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] bahwa seorang laki-laki mendatangi Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, isteriku telah melahirkan anak yang berkulit hitam." Beliau bertanya: "Apakah kamu memiliki beberapa ekor Unta?" laki-laki itu menjawab, "Ya." Beliau melanjutkan bertanya: "Lalu apa saja warna kulitnya?" Ia menjawab, "Merah." Beliau bertanya lagi: "Apakah di antara Unta itu ada yang berkulit keabu-abuan?" laki-laki itu menjawab, "Ya." Beliau bertanya: "Kenapa bisa seperti itu?" laki-laki itu menjawab, "Mungkin itu berasal karena faktor keturunan." Beliau bersabda: "Mungkin juga anakmu seperti itu (karena factor keturunan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5305</td></tr><tr><td>Arabic No</td><td>5305</td></tr><tr><td>Reference</td><td>Book 68 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что однажды к Пророку ﷺ пришёл какой-то человек и сказал: «О Посланник Аллаха, у меня родился чёрный ребёнок!» (Пророк ﷺ) спросил: «Есть ли у тебя верблюды?» Он сказал: «Да». (Пророк ﷺ) спросил: «Какого они цвета?» Он сказал: «Красного». (Пророк ﷺ) спросил: «А есть ли среди них серые?» Он сказал: «Да». (Пророк ﷺ) спросил: «Откуда же они взялись?» (Этот человек) сказал: «Наверное, это передалось им по наследству». (Тогда Пророк ﷺ) сказал: «Так, может быть, и у твоего сына это передалось по наследству!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5305</td></tr><tr><td>Arabic No</td><td>5305</td></tr><tr><td>Reference</td><td>Book 68 Hadith 54</td></tr></tbody></table></div>
 

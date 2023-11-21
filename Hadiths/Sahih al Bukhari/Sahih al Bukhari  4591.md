@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Regarding the Verse: "And say not to anyone who offers you p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ali bin 'Abdullah] Telah menceritakan kepada kami [Sufyan] dari ['Amru] dari ['Atha] dari [Ibnu 'Abbas radliallahu 'anhuma] mengenai firman Allah: "Dan janganlah kamu mengatakan kepada orang yang mengucapkan 'salam' kepadamu: 'Kamu bukan seorang mu'min." (An Nisaa: 94) Ibnu Abbas berkata; "Beberapa orang muslim menemui seseorang yang tengah berada dikambing-kambing miliknya lalu ia mengucapkan: Assalaamu 'Alaikum. Namun mereka menangkapnya lalu membunuhnya kemudian mengambil kambing-kambing tersebut, hingga ayat; "dengan harapan kalian mendapatkan kekayaan dunia, yaitu kambing-kambing itu. Ibnu Abbas membacanya; 'As Salaama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4591</td></tr><tr><td>Arabic No</td><td>4591</td></tr><tr><td>Reference</td><td>Book 65 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Атаъ, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал относительно аята «...и не говорите тому, кто приветствует вас миром: “Ты — неверующий”...»: «Однажды мусульмане увидели человека, который пас нескольких своих овец, и он сказал: “Мир вам /ас-Саляму ‘алейкум/”, они же схватили и убили его, а этих овец забрали. Тогда Аллах ниспослал этот аят, до слов: “…стремясь обрести тленные блага мирской жизни”. (Под тленными благами мирской жизни) подразумевались эти овцы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4591</td></tr><tr><td>Arabic No</td><td>4591</td></tr><tr><td>Reference</td><td>Book 65 Hadith 113</td></tr></tbody></table></div>
 

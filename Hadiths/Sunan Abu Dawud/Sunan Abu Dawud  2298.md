@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The Qur’anic verse “Those of you who die and leave widows should bequeath fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi], telah menceritakan kepadaku [Ali bin Al Husain bin Waqid] dari [ayahnya], dari [Yazid An Nahwi], dari [Ikrimah], dari [Ibnu Abbas]: "Dan orang-orang yang akan meninggal dunia di antara kamu dan meninggalkan isteri, hendaklah berwasiat untuk isteri-isterinya, (yaitu) diberi nafkah hingga setahun lamanya dan tidak disuruh pindah (dari rumahnya)." Kemudian hal tersebut dihapus dengan ayat mengenai warisan dengan bagian yang telah Allah tentukan bagi mereka, yaitu seperempat dan seperdelapan. Dan waktunya satu tahun digantikan menjadi empat bulan sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2298</td></tr><tr><td>Arabic No</td><td>2298</td></tr><tr><td>Reference</td><td>Book 13 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Икрима передаёт от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что постановление, упомянутое в словах Всевышнего «Если кто-либо из вас скончается и оставит после себя жён, то он должен завещать, чтобы их обеспечивали в течение одного года и не прогоняли» (сура 2 «аль-Бакара», аят 240), было отменено аятом о наследовании, который предписал им получать четвёртую или восьмую часть оставленного мужем имущества, и вместо года им было велено выжидать четыре месяца и десять дней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2298</td></tr><tr><td>Arabic No</td><td>2298</td></tr><tr><td>Reference</td><td>Book 13 Hadith 124</td></tr></tbody></table></div>
 

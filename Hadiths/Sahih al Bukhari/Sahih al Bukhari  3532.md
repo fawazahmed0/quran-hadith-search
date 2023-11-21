@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:Allah's Messenger (ﷺ) said, "I have five names: I a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ibrahim bin Al Mundzir] berkata telah bercerita kepadaku [Ma'an] dari [Malik] dari [Ibnu Syihab] dari [Muhammad bin Jubair bin Muth'im] dari [bapaknya radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku memiliki lima nama, Aku adalah (1). Muhammad, (2). Ahmad, (3). aku juga Al Mahiy (penghapus), maksudnya Allah menghapuskan kekafiran melalui perantaraanku, (4). Aku juga Al Hasyir (penghimpun), maksudnya manusia akan berhimpun di bawah kakiku dan aku juga (5) Al 'Aqib, yang artinya tidak ada seorang nabi pun sepeninggalku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3532</td></tr><tr><td>Arabic No</td><td>3532</td></tr><tr><td>Reference</td><td>Book 61 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джубайра ибн Мут‘има, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «У меня есть пять имён: я — Мухаммад и Ахмад (достойный похвалы), и я — аль-Махи (стирающий), посредством которого Аллах сотрёт неверие, и я — аль-Хашир (собирающий), у ног которого будут собраны люди, и я — аль-‘Акиб (идущий вслед. Имеется в виду, что после пророка Мухаммада ﷺ других пророков уже не будет)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3532</td></tr><tr><td>Arabic No</td><td>3532</td></tr><tr><td>Reference</td><td>Book 61 Hadith 41</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. Abi Awfa said:When the Messenger of Allah (ﷺ) raised his head aft
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Abdullah bin Numair] dan [Abu Mu'awiyah], [Waki'], dan [Muhammad bin 'Ubaid] semuanya dari [Al A'masy] dari ['Ubaid bin Al Hasan] dia berkata; saya mendengar [Abdullah bin Abu Aufa] berkata; Apabila Rasulullah shallallahu 'alaihi wasallam mengangkat kepalanya dari ruku' (i'tidal) beliau mengucapkan: "SAMI'ALLAHU LIMAN HAMIDAH, RABBANAA LAKAL HAMDU MIL'US SAMAAWATI WAMIL'UL ARDLI WAMIL'U MAASYI'TA MIN SYAI'IN BA'DU (Maha mendengar Allah kepada siapa saja yang memuji-Nya, Ya Allah Rabb kami, hanya untuk Engkau lah segala pujian sepenuh langit dan bumi dan sepenuh apa saja yang Engkau kehendaki)." Abu Daud mengatakan; setelah itu [Sufyan Ats Tsauri] dan [Syu'bah bin Al Hajjaj] mengatakan dari ['Ubaid Abu Al Hasan], tanpa menyebutkan; "Setelah ruku'" Abu Daud mengatakan; sedangkan (hadits) yang telah di riwayatkan [Syu'bah] dari [Abu 'Ishmah] dari [Al A'masy] dari ['Ubaid] dia berkata; "Setelah ruku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (476)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>846</td></tr><tr><td>Arabic No</td><td>846</td></tr><tr><td>Reference</td><td>Book 2 Hadith 456</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн Абу Ауфа, да будет доволен им Аллах, что, выпрямляясь после поясного поклона, Посланник Аллаха ﷺ обычно говорил: «Да услышит Аллах того, кто восхваляет Его! О Аллах, Господь наш, хвала Тебе, и пусть хвала эта наполнит собой небеса, землю, и всё, что ещё будет угодно Тебе (Сами‘аЛлаху лиман хамида-ху, Аллахумма, Рабба-на, ля-ка-ль-хамду мильа-с-самавати, ва-ль-арды ва мильа ма шита мин шайин ба‘ду)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (476)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>846</td></tr><tr><td>Arabic No</td><td>846</td></tr><tr><td>Reference</td><td>Book 2 Hadith 456</td></tr></tbody></table></div>
 

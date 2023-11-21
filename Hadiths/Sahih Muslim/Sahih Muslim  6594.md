@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:The servant (whose fault) A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Umayyah bin Bistham Al 'Aisyi]; Telah menceritakan kepada kami [Yazid] yaitu Ibnu Zurai'; Telah menceritakan kepada kami [Rauh] dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya Allah subhanahu wata'ala tidak menutupi seorang hamba di dunia, kecuali Allah juga akan menutupinya pada hari kiamat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6594</td></tr><tr><td>Arabic No</td><td>2590.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6594</td></tr><tr><td>Arabic No</td><td>2590.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 92</td></tr></tbody></table></div>
 

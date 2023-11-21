@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported Allah's Messenger (ﷺ) as saying:There is no transitive 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah mengabarkan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] Aku mendengar [Qatadah] bercerita dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam dia berkata; "Tidak ada penyakit menular tanpa izin Allah, tidak ada pengaruh jahat karena burung. Dan yang paling baik adalah Al Fa'l. lalu beliau ditanya; 'Apa itu Al Fa'l ya Rasulullah? ' Jawab beliau: 'Yaitu kalimat thayyibah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5801</td></tr><tr><td>Arabic No</td><td>2224.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5801</td></tr><tr><td>Arabic No</td><td>2224.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 153</td></tr></tbody></table></div>
 

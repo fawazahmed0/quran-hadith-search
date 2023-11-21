@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) used to say: "O Allah, I seek refuge in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musa bin Ismail], telah menceritakan kepada Kami [Hammad], telah mengabarkan kepada Kami [Ishaq bin Abdullah] dari [Sa'id? bin Yasar] dari [Abu Hurairah] rhadhiyAllahu 'anhu bahwa Nabi shallallahu 'alaihi wasallam pernah mengucapkan: "ALLAAHUMMA INNII A'UUDZU BIKA MINAL FAQRI WALQILLATI WADZ DZILLATI, WA A'UUDZU BIKA MIN AN AZHLIMA AU UZHLAMA" (Ya Allah aku berlindung kepada-Mu dari kafakiran, kekurangan dan kehinaan dan aku berlindung kepada-Mu dari aku berbuat dzalim atau didzalimi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>1544</td></tr><tr><td>Reference</td><td>Book 8 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Пророк ‎ﷺ часто говорил: «О Аллах, поистине, я прибегаю к Твоей защите от нищеты, нужды и унижения, и прибегаю к Твоей защите от того, чтобы поступать несправедливо, и от того, чтобы со мной поступали несправедливо /Аллахумма, инни а’узу бика миналь-факъри, уаль-кылляти, уа-з-зилляти, уа а’узубика мин ан азлима ау узляма/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>1544</td></tr><tr><td>Reference</td><td>Book 8 Hadith 129</td></tr></tbody></table></div>
 

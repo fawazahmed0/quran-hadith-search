@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Isma'li bin Abu Khalid:'Abdullah bin Abu 'Aufa said, "Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid bin 'Abdullah] telah menceritakan kepada kami [Isma'il bin Abu Khalid] dari ['Abdullah bin Abu Awfa] berkata; Rasulullah shallallahu 'alaihi wasallam melaksanakan thowaf di Ka'bah lalu shalat dua raka'at di belakang maqam Ibrahim dan bersama Beliau ada orang yang melindungi Beliau dari orang-orang Quraisy. Berkata, seseorang kepada 'Abdullah bin Abu Awfa: "Apakah Rasulullah shallallahu 'alaihi wasallam masuk ke dalam Ka'bah?". Dia menjawab: "Tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1600</td></tr><tr><td>Arabic No</td><td>1600</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (как-то раз) ‘Абдуллах бин Абу Ауфа, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ совершил умру, обойдя вокруг Каабы и совершив намаз в два рак‘ата позади места Ибрахима, и вместе с ним находились те, кто отделял его от людей”. Кто-то спросил (‘Абдуллаха): “А заходил ли Посланник Аллаха ﷺ внутрь Каабы?” — (на что) он ответил: “Нет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1600</td></tr><tr><td>Arabic No</td><td>1600</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
 

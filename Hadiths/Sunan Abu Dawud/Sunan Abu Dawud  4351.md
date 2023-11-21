@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] berkata, telah menceritakan kepada kami [Isma'il bin Ibrahim] berkata, telah mengabarkan kepada kami [Ayyub] dari [Ikrimah] bahwa Ali Alaihis salam pernah membakar orang-orang yang murtad dari Islam. Lalu sampailah berita itu kepada [Ibnu Abbas] hingga ia berkata, "Sungguh, aku tidak akan pernah membakar mereka dengan api. Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian menyiksa dengan siksaan Allah." dan aku memerangi mereka berdasarkan sabda Rasulullah shallallahu 'alaihi wasallam. Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengganti agamanya, maka bunuhlah ia." Hal itu akhirnya juga sampai kepada Ali Alaihis salam, hingga ia berkata, "Ibnu Abbas benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6922)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4351</td></tr><tr><td>Arabic No</td><td>4351</td></tr><tr><td>Reference</td><td>Book 40 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+[Передаётся от ‘Икримы, что ‘Али] сжёг нескольких вероотступников, а Ибн ‘Аббас (в то время он был наместником Басры), узнав об этом, сказал: «Я бы не стал сжигать их, потому что Посланник Аллаха ﷺ сказал: “Не наказывайте наказанием Аллаха” (не убивать посредством огня). Однако я бы казнил их, потому что Посланник Аллаха ﷺ сказал: “Кто изменил свою религию, того казните”». Когда ‘Али узнал об этом, он сказал: «Горе Ибн ‘Аббасу!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6922)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4351</td></tr><tr><td>Arabic No</td><td>4351</td></tr><tr><td>Reference</td><td>Book 40 Hadith 1</td></tr></tbody></table></div>
 

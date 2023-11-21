@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] mereka berkata; Telah menceritakan kepada kami [Ismail] yaitu Ibnu Ja'far dari [Abdullah bin Dinar] dari [Abu Shalih As Samman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaanku dengan Nabi-nabi sebelumku adalah seperti orang membangun rumah, lalu disempurnakannya dan dibaguskannya buatannya, kecuali sebuah sudut (belum terpasang) dengan sebuah bata. Maka masuklah orang banyak ke rumah itu. Mereka mulai mengelilinginya dan kagum akan keindahannya. Lalu mereka bertanya; 'Kenapa batu di tempat ini belum dipasang sehingga bangunanmu menjadi sempurna? Maka akulah yang akan memasang atau meletakkan bata itu, aku datang sebagai penutup para Nabi." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaanku dan perumpamaan para nabi…" lalu perawi menyebutkan seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5961</td></tr><tr><td>Arabic No</td><td>2286.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5961</td></tr><tr><td>Arabic No</td><td>2286.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 24</td></tr></tbody></table></div>
 

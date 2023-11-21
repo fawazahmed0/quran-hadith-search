@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Shaibah bin ‘Uthman said “‘Umar bin Al Khattab was sitting in the place wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abdurrahman bin Muhammad Al Muharibi], dari [Asy Syaibani] dari [Washil Al Ahdab] dari [Syaqiq] dari [Syaibah bin Utsman], ia berkata; [Umar bin Al Khathab] radliallahu 'anhu pernah duduk ditempat yang engkau duduki, lalu ia berkata; aku tidak akan keluar hingga membagikan harta Ka'bah. Syaibah berkata; aku katakan; engkau tidak akan melakukannya. Ia berkata; benar, sungguh aku akan melakukannya. Syaibah berkata; engkau tidak akan melakukannya. Ia berkata; kenapa? Aku katakan; karena Rasulullah shallallahu 'alaihi wasallam telah melihat tempatnya, begitu juga Abu Bakr radliallahu 'anhu, dan mereka berdua lebih membutuhkan harta tersebut daripada dirimu, namun mereka berdua tidak mengeluarkan harta tersebut. Kemudian ia berdiri lalu keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>2031</td></tr><tr><td>Reference</td><td>Book 11 Hadith 311</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Шакык передаёт, что Шейба ибн ‘Усман сказал: «‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сел на то же место, где сейчас сидишь ты, и сказал: “Я не выйду, пока не разделю имущество Каабы”. Я сказал: “Ты не сделаешь этого”. Он спросил: “О нет, я непременно сделаю это!” Я сказал: “Ты не сделаешь этого”. Он спросил: “Почему же?” Я сказал: “Потому что и Посланник Аллаха ﷺ и Абу Бакр видели его и они больше нуждались в деньгах, чем ты, и при этом не трогали его”. Тогда он встал и вышел»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2031</td></tr><tr><td>Arabic No</td><td>2031</td></tr><tr><td>Reference</td><td>Book 11 Hadith 311</td></tr></tbody></table></div>
 

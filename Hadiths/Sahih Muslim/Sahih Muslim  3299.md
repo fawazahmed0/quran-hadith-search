@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-'Ala' b. al-Hadrami reported Allah's Messenger (ﷺ) as saying:It is only for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Hasan Al Hulwani] dan [Abdu bin Humaid] semuanya dari [Ya'qub bin Ibrahim bin Sa'dari] telah menceritakan kepada kami [bapakku] dari [Shalih] dari [Abdurrahman bin Humaid] bahwa ia mendengar Umar bin Abdul Aziz bertanya kepada [As Sa'ib bin Yazid]. Maka As Sa'ib pun menjawab; Aku mendengar [Al Ala' bin Al Hadlrami] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda setelah shalat Ashar: "Bagi Muhajir hendaklah bermukim selama tiga hari di Makkah (baik ketika keberangkatan maupun kepulangannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3299</td></tr><tr><td>Arabic No</td><td>1352.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 503</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3299</td></tr><tr><td>Arabic No</td><td>1352.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 503</td></tr></tbody></table></div>
 

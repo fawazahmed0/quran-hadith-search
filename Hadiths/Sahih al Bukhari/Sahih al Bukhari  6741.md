@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:Mu'adh bin Jabal gave this verdict for us in the lifetime of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Khalid] telah menceritakan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Sulaiman] dari [Ibrahim] dari [Al Aswad] mengatakan; ' [Mu'adz bin Jabal] memutuskan bagi kami dimasa Rasulullah Shallallahu'alaihiwasallam untuk anak perempuan mendapat separoh, saudara perempuan mendapat separoh, ' kemudian Sulaiman mengatakan; 'ia memutuskan ditengah-tengah kami' tanpa menyebut di masa Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6741</td></tr><tr><td>Arabic No</td><td>6741</td></tr><tr><td>Reference</td><td>Book 85 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Асвад сказал: «При жизни Посланника Аллаха ﷺ Му‘аз ибн Джабаль постановил, что (после смерти мужчины) половина (наследства) причитается его дочери, а другая половина — его сестре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6741</td></tr><tr><td>Arabic No</td><td>6741</td></tr><tr><td>Reference</td><td>Book 85 Hadith 18</td></tr></tbody></table></div>
 

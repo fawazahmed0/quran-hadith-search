@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: When any one of you comp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepadaku [Auza'i] telah menceritakan kepada kami [Hasan bin 'Athiyyah] telah menceritakan kepadaku [Muhammad bin Abu 'Aisyah], ia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang diantara kalian selesai dari tasyahhud akhir, maka mintalah perlindungan kepada Allah dari empat perkara, yaitu; siksa jahannam, siksa kubur, fitnah kehidupan dan kematian, dan keburukan Al Masih Ad Dajjal." Dan telah menceritakan kepadaku [Al Hakam bin Musa] telah menceritakan kepada kami [Hiql bin Ziyad] dia berkata, (Dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Isa yaitu Ibnu Yunus] semuanya dari [Auza'I] dengan isnad ini, dia berkata; "Jika salah seorang diantara kalian selesai tasyahhud." Dan Auza'i tidak memakai redaksi akhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1326</td></tr><tr><td>Arabic No</td><td>588.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас закончит читать последний ташаххуд, то пусть обратится к Аллаху за защитой от четырёх (вещей): от мучений Ада и от мучений могилы, и от испытаний жизни и смерти, и от зла искушения Даджаля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1326</td></tr><tr><td>Arabic No</td><td>588.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 164</td></tr></tbody></table></div>
 

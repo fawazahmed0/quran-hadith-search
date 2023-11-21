@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Ishaq said that he heard al-Bara' b. 'Azib (Allah be pleased with him) say:T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan kepada kami [Isa] -yaitu Ibnu Yunus- telah menceritakan kepada kami [Zakaria] dari [Abu Ishaq] dari [Barra'], bahwa surat terakhir yang diturunkan secara sempurna adalah surat Al Bara'ah, sedangkan ayat yang terakhir kali turun adalah ayat kalalah." Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Yahya] -yaitu Ibnu Adam- telah menceritakan kepada kami [Ammar] -yaitu Ibnu Ruzaiq- dari [Abu Ishaq] dari [Barra'] seperti hadits di atas, namun dia berkata, "Surat terakhir kali yang diturunkan secara lengkap (kamil)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4154</td></tr><tr><td>Arabic No</td><td>1618.03</td></tr><tr><td>Reference</td><td>Book 23 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4154</td></tr><tr><td>Arabic No</td><td>1618.03</td></tr><tr><td>Reference</td><td>Book 23 Hadith 15</td></tr></tbody></table></div>
 

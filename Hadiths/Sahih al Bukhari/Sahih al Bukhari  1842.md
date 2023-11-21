@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) was asked what sort of clothes a Muhr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ibrahim bin Sa'ad] telah menceritakan kepada kami [Ibnu Syihab] dari [Salim] dari ['Abdullah radliallahu 'anhu]; Rasulullah shallallahu 'alaihi wasallam ditanya tentang pakaian yang dibolehkan dipakai oleh seorang yang sedang berihram. Maka Beliau bersabda: "Janganlah dia mengenakan gamis (baju), sorban, celana, mantel (pakaian yang menutupi kepala) dan jangan pula dia memakai pakaian yang diberi minyak wangi atau wewangian yang terbuat dari daun tumbuhan dan apabila dia tidak memiliki sepasang sandal, hendaklah dia mengenakan sapatu tapi dipotongnya hingga berada dibawah mata kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>1842</td></tr><tr><td>Reference</td><td>Book 28 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, да будет доволен Аллах им и его отцом, что один человек спросил Посланника Аллаха ﷺ какую одежду должен надевать на себя тот, кто вошёл в состояние ихрама? Он ответил: «Ему не следует надевать ни рубаху, ни чалму, ни брюки, ни бурнус. И ему не следует надевать одежду, окрашенную шафраном или жёлтым деревом, и носки, если же он не найдёт сандалии, пусть оденет кожаные носки, обрезав их так, чтобы верхние края не доходили до щиколоток»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>1842</td></tr><tr><td>Reference</td><td>Book 28 Hadith 22</td></tr></tbody></table></div>
 

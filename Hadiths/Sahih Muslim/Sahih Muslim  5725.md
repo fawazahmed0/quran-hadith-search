@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Oum Salama (que Dieu soit satisfait d'elle), l'Envoyé de Dieu (paix et
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ar Rabi' Sulaiman bin Dawud]; Telah menceritakan kepada kami [Muhammad bin Harb]; Telah menceritakan kepadaku [Muhammad bin Al Walid Az Zubadi] [Az Zuhriy] dari ['Urwah bin Az Zubair] dari [Zainab bin Ummu Salamah] dari [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam, katanya Rasulullah shallallahu 'alaihi wasallam pernah bersabda tentang seorang budak perempuan yang tinggal di rumah Ummu Salamah, karena mukanya kelihatan pucat oleh beliau. Maka beliau bersabda: "Dia terkena penyakit pengaruh pandangan mata, karena itu ruqyahlah dia." (karena wajahnya berwarna kuning)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5725</td></tr><tr><td>Arabic No</td><td>2197</td></tr><tr><td>Reference</td><td>Book 39 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5725</td></tr><tr><td>Arabic No</td><td>2197</td></tr><tr><td>Reference</td><td>Book 39 Hadith 79</td></tr></tbody></table></div>
 

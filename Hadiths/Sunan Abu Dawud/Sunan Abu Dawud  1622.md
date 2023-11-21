@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Hasan said:Ibn Abbas preached towards the end of Ramadan on the pulpit (in th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Al Mutsanna], telah menceritakan kepada Kami [Sahl bin Yusuf], ia berkata; [Humaid] telah mengabarkan kepada Kami dari [Al Hasan], ia berkata; [Ibnu Abbas] rahimahullah berkhutbah pada akhir Ramadhan diatas mimbar Bashrah, lalu berkata: keluarkanlah zakat puasa kalian! Seakan orang-orang belum mengetahuinya, lalu dia berkata lagi; siapakah disini dari penduduk madinah, ajarkanlah mereka karena sesungguhnya mereka belum mengetahui. Rasulullah shallla Allahu 'alaihi wa sallam telah mewajibkan zakat ini satu sha' dari kurma atau gandum atau setengah sha' dari biji gandum, bagi setiap orang yang merdeka maupun budak, laki-laki maupun wanita, yang besar maupun yang kecil. Ketika Ali Bin Abi Thalib radliallahu 'anhu datang ia melihat murahnya harga, ia berkata; Allah telah melapangkan rizki kalian kalau seandainya kalian menjadikan satu sha' pada segala sesuatu. Humaid berkata; Al Hasan berpendapat bahwa zakat Ramadhan (fitrah) adalah kewajiban orang yang berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1622</td></tr><tr><td>Arabic No</td><td>1622</td></tr><tr><td>Reference</td><td>Book 9 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1622</td></tr><tr><td>Arabic No</td><td>1622</td></tr><tr><td>Reference</td><td>Book 9 Hadith 67</td></tr></tbody></table></div>
 

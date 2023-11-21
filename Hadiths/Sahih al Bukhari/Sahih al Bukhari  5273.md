@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The wife of Thabit bin Qais came to the Prophet (ﷺ) and sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Azhar bin Jamil] Telah menceritakan kepada kami [Abdul Wahhab Ats Tsaqafi] Telah menceritakan kepada kami [Khalid] dari [Ikrimah] dari [Ibnu Abbas] bahwasanya; Isteri Tsabit bin Qais datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, tidaklah aku mencela Tsabit bin Qais atas agama atau pun akhlaknya, akan tetapi aku khawatir kekufuran dalam Islam." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah kamu mau mengembalikan kebun miliknya itu?" Ia menjawab, "Ya." Rasulullah shallallahu 'alaihi wasallam bersabda: "Terimalah kebun itu, dan ceraikanlah ia dengan talak satu." Abu Abdullah berkata; Tidak ada hadis penguat dari Ibnu Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5273</td></tr><tr><td>Arabic No</td><td>5273</td></tr><tr><td>Reference</td><td>Book 68 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что (однажды) жена Сабита ибн Кайса пришла к Пророку ﷺ и сказала: «О Посланник Аллаха, я не порицаю (Сабита ибн Кайса) ни за его характер, ни (за его отношение к) религии, однако(, будучи мусульманкой,) я не хочу (придерживаться обычаев) неверия в исламе!» Посланник Аллаха ﷺ спросил (её): «Вернёшь ли ты ему его сад?» Она сказала: «Да». Тогда Посланник Аллаха ﷺ сказал (Сабиту): «Прими (от неё свой) сад и дай ей (первый) развод!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5273</td></tr><tr><td>Arabic No</td><td>5273</td></tr><tr><td>Reference</td><td>Book 68 Hadith 22</td></tr></tbody></table></div>
 

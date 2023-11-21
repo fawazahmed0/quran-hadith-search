@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: A woman embraced Islam during the time of the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali], telah mengabarkan kepada kami [Abu Ahmad] dari [Israil] dari [Simak] dari [Ikrimah] dari [Ibnu Abbas], ia berkata; ada seorang wanita yang telah masuk Islam pada zaman Rasulullah shallallahu 'alaihi wasallam kemudian ia menikah, suaminya datang kepada Nabi shallallahu 'alaihi wasallam berkata; wahai Rasulullah, aku telah masuk Islam dan ia telah mengetahui keislamanku. Kemudian Rasulullah shallallahu 'alaihi wasallam memisahkannya dari suaminya yang lain dan mengembalikannya kepada suaminya yang pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 13 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «При жизни Посланника Аллаха ﷺ одна женщина приняла ислам и вышла замуж. А потом её бывший муж пришёл к Пророку ﷺ и сказал: “О Посланник Аллаха! Я принял ислам, и она знает об этом”. После этого Посланник Аллаха ﷺ велел ей покинуть нового мужа и вернуться к первому мужу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2239</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 13 Hadith 65</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with them) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abd bin Humaid] keduanya berkata; Telah menceritakan kepada kami [Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [ayahnya] dari [Ibnu Abbas] dia berkata; Rasulullah shallallahu 'alaihi wasallam melarang mencegat rombongan dagang (sebelum sampai ke pasar), dan orang kota memborong dagangan orang dusun." Thawus berkata; Saya bertanya kepada Ibnu Abbas; "Kenapa seseorang tidak diperbolehkan memborong dagangan orang dusun?" Dia menjawab; "Dilarang menjadi makelar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3825</td></tr><tr><td>Arabic No</td><td>1521</td></tr><tr><td>Reference</td><td>Book 21 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3825</td></tr><tr><td>Arabic No</td><td>1521</td></tr><tr><td>Reference</td><td>Book 21 Hadith 25</td></tr></tbody></table></div>
 

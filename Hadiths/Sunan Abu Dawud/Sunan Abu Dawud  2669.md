@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rabah ibn Rabi': When we were with the Messenger of Allah (ﷺ) on an e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi], telah menceritakan kepada kami [Umar bin Al Muraqqa' bin Shaifi bin Rabah], ia berkata; telah menceritakan kepadaku [ayahku], dari [kakekku yaitu Rabah bin Rabi'], ia berkata; kami pernah bersama dalam sebuah pertempuran. Kemudian beliau melihat orang-orang berkumpul mengerumuni sesuatu. Kemudian beliau mengirim seseorang dan berkata: "Lihatlah, apakah yang mereka kerumuni?" kemudian orang tersebut datang dan berkata; mengerumuni seorang wanita yang terbunuh. Kemudian beliau berkata; tidak sepantasnya orang ini untuk berperang. Sementara baris depan Khalid bin Al Walid. Kemudian beliau mengutus seseorang dan beliau berkata; katakan kepada Khalid; agar ia tidak membunuh wanita dan orang utusan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2669</td></tr><tr><td>Arabic No</td><td>2669</td></tr><tr><td>Reference</td><td>Book 15 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2669</td></tr><tr><td>Arabic No</td><td>2669</td></tr><tr><td>Reference</td><td>Book 15 Hadith 193</td></tr></tbody></table></div>
 

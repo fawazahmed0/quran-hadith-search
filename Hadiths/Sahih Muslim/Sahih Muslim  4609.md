@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Anas that the Prophet of Allah (ﷺ) wr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yusuf bin Hammad Al Ma'ni] telah menceritakan kepada kami [Abdul A'la] dari [Sa'id] dari [Qatadah] dari [Anas], bahwa Nabi shallallahu 'alaihi wasallam pernah mengirim surat kepada Kisra (raja persi), Qaishar (raja Romawi), raja Najasyi, dan kepada semua penguasa diktator. Beliau mengajak mereka untuk beriman kepada Allah Ta'ala. Bukankah raja Najasyi pernah dishalatkan oleh Nabi shallallahu 'alaihi wasallam (ktika wafat)?." Dan telah menceritakan kepada kami [Muhammad bin Abdullah Ar Ruzzi] telah menceritakan kepada kami [Abdul Wahhab bin 'Atha] dari [Sa'id] dari [Qatadah], telah menceritakan kepada kami [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas, namun ia tidak menyebutkan, 'Dan bukankah raja najasyi pernah dishalatkan oleh Nabi shallallahu 'alaihi wasallam? '" Dan telah menceritakan kepadaku [Nashr bin Ali Al Jahdlami] telah mengabarkan kepadaku [ayahku] telah menceritakan kepadaku [Khalid bin Qais] dari [Qatadah] dari [Anas], dan ia juga tidak menyebutkan, 'Dan bukankah raja Najasyi pernah dishalatkan oleh Nabi shallallahu 'alaihi wasallam?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4609</td></tr><tr><td>Arabic No</td><td>1774.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4609</td></tr><tr><td>Arabic No</td><td>1774.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 91</td></tr></tbody></table></div>
 

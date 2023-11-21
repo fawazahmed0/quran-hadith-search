@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: The Prophet (ﷺ) said: Do not call a hypocrite 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah] berkata, telah menceritakan kepada kami [Mu'adz bin Hisyam] ia berkata; telah menceritakan kepadaku [Bapakku] dari [Qatadah] dari [Abdullah bin Buraidah] dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan menyebut tuan untuk seorang munafik, sebab jika ia jadi tuan, berarti kalian telah membuat Rabb kalian 'azza wajalla murka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4977</td></tr><tr><td>Arabic No</td><td>4977</td></tr><tr><td>Reference</td><td>Book 43 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4977</td></tr><tr><td>Arabic No</td><td>4977</td></tr><tr><td>Reference</td><td>Book 43 Hadith 205</td></tr></tbody></table></div>
 

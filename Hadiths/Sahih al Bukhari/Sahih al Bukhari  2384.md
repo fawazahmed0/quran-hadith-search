@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' 'bin Khadij and Sahl bin Abi Hathma:Allah's Messenger (ﷺ) forba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zakariya' bin Yahya] telah mengabarkan kepada kami [Abu Usamah] berkata, telah menceritakan kepadaku [Ali-Walid bin Katsir] berkata, telah menceritakan kepadaku [Busyair bin Yasar, maula Bani Haritsah] bahwa [Rafi' bin Khudaij] dan [Sahal bin Abi Hatsmah] keduanya menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam melarang Al Muzaabanah, yaitu menjual kurma masak dengan kurma mentah (barter) kecuali para pemilik 'Ariyah, yang Beliau mengijinkan mereka". Abu 'Abdullah Al Bukhariy berkata, dan [Ibnu Ishaq] berkata, telah menceritakan kapadaku [Busyair] seperti riwayat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2384</td></tr><tr><td>Arabic No</td><td>2384</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Сахля ибн Абу Хасмы и Рафи‘а ибн Хадиджа, что Посланник Аллаха ﷺ запретил продавать свежие финики за сушёные (музабана), но разрешил обменивать несобранный урожай свежих фиников на сухие в количестве, соответствующем урожаю сухих фиников (‘арайа)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2384</td></tr><tr><td>Arabic No</td><td>2384</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

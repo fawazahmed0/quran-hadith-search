@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : l'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru An Naqid], [Zuhair bin Harb] dan [Abu Bakar bin Abi Syaibah] sedangkan lafazhnya dari 'Amru mereka berkata; Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] dia berkata; Pada suatu hari Rasulullah shallallahu 'alaihi wasallam menemuiku dengan gembira, lalu beliau bersabda: "Wahai 'Aisyah, tidakkah tadi kamu melihat Mujazziz Al Mudliji masuk rumahku, lalu dia melihat Usamah dan Zaid berselimutkan kain yang menutupi kepalanya dan kakinya terbuka, lantas dia berkata; 'Sesungguhnya pemilik kaki ini serupa antara satu dengan yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3618</td></tr><tr><td>Arabic No</td><td>1459.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3618</td></tr><tr><td>Arabic No</td><td>1459.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 51</td></tr></tbody></table></div>
 

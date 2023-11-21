@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami ['Abdu Warits
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3756.2</td></tr><tr><td>Arabic No</td><td>3756.2</td></tr><tr><td>Reference</td><td>Book 62 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ прижал меня к себе и (воскликнул): “О Аллах, научи его мудрости!”»\nВ другой версии (этого хадиса сообщается, что Пророк ﷺ воскликнул): «О Аллах, научи его Книге!»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3756</td></tr><tr><td>Arabic No</td><td>3756</td></tr><tr><td>Reference</td><td>Book 62 Hadith 101</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3756.2</td></tr><tr><td>Arabic No</td><td>3756.2</td></tr><tr><td>Reference</td><td>Book 62 Hadith 102</td></tr></tbody></table></div>

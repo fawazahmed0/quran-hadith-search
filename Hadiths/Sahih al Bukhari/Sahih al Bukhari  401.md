@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) prayed (and the sub-narrator Ibrahim said, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari ['Alqamah] berkata, [Abdullah] berkata, "Nabi shallallahu 'alaihi wasallam melaksanakan shalat." Ibrahim melanjutkan, "Tapi aku tidak tahu apakah beliau kelebihan rakaat atau kurang. Setelah salam, beliau pun ditanya: "Wahai Rasulullah, telah terjadi sesuatu dalam shalat!. Beliau bertanya: "Apakah itu?" Maka mereka menjawab, "Tuan shalat begini dan begini." Beliau kemudian duduk pada kedua kakinya menghadap kiblat, kemudian beliau sujud dua kali, kemudian salam. Ketika menghadap ke arah kami, beliau bersabda: "Seungguhnya bila ada sesuatu yang baru dari shalat pasti aku beritahukan kepada kalian. Akan tetapi aku ini hanyalah manusia seperti kalian yang bisa lupa sebagaimana kalian juga bisa lupa, maka jika aku terlupa ingatkanlah. Dan jika seseorang dari kalian ragu dalam shalatnya maka dia harus meyakini mana yang benar, kemudian hendaklah ia sempurnakan, lalu salam kemudian sujud dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>401</td></tr><tr><td>Arabic No</td><td>401</td></tr><tr><td>Reference</td><td>Book 8 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ совершил молитву, а после того как (в конце её) он произнёс слова таслима, его спросили: “О Посланник Аллаха, разве с молитвой что-нибудь произошло?” Он сказал: “А в чём дело?” (Люди) сказали: “Ты молился так-то и так-то”. Тогда он преклонил колени, обратился к кибле, совершил два земных поклона и (снова) произнёс после них слова таслима, a когда повернулся к нам, сказал: “Поистине, если бы с молитвой что-нибудь произошло, я обязательно сообщил бы вам об этом, но я ведь такой же человек, как и вы, и забываю подобно вам. Если я забуду (снова), напомните мне, если же кто-нибудь из вас станет испытывать сомнения относительно своей молитвы, пусть стремится к правильному и завершит свою молитву, (исходя из этого,) потом произнесёт слова таслима, а потом совершит два (дополнительных) земных поклона”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>401</td></tr><tr><td>Arabic No</td><td>401</td></tr><tr><td>Reference</td><td>Book 8 Hadith 52</td></tr></tbody></table></div>
 

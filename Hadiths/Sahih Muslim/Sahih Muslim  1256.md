@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id reported:We made no transgression but Khaybar was conquered. We, the C
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru an-Naqid] telah menceritakan kepada kami [Ismail bin Ulayyah] dari [al-Jurairi] dari [Abu Nadhrah] dari [Abu Sa'id] dia berkata, "Kami belum berperang hingga Khaibar telah ditaklukkan, lalu kami menjumpai para sahabat Rasulullah Shallallahu'alaihiwasallam, pada sayur mayur itu terdapat bawang putih, sedangkan orang-orang kelaparan. Maka kami memakan sebagian darinya sangat banyak, kemudian kami pergi ke masjid. Lalu Rasulullah Shallallahu'alaihiwasallam mendapatkan bau tidak sedap, maka beliau bertanya, 'Siapa yang makan sedikit dari pohon bau ini, maka janganlah dia mendekati masjid kami!.' Lalu sekelompok orang berkata, 'Pohon ini telah diharamkan, pohon ini telah diharamkan.' Lalu hal tersebut sampai pada Nabi Shallallahu'alaihiwasallam, maka beliau bersabda, 'Wahai sekalian manusia, sesungguhnya aku tidak berhak mengharamkan sesuatu yang dihalalkan oleh Allah untukku. Akan tetapi ia adalah pohon yang aku membenci baunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1256</td></tr><tr><td>Arabic No</td><td>565</td></tr><tr><td>Reference</td><td>Book 5 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри рассказал: «Сразу после того, как был завоёван Хайбар, мы сподвижники Посланника Аллаха ﷺ, будучи голодными, обнаружили чеснок. Поев его в большом количестве, мы отправились в мечеть. Посланник Аллаха ﷺ почувствовал его запах и сказал: “Пусть тот, кто поел это отвратительное растение, не приближается к мечети!” (Услышав это) люди стали говорить: “(Чеснок) стал запретным, (чеснок) стал запретным”. Когда это дошло до Пророка ﷺ, он сказал: “О люди, я не могу запретить то, что дозволил Аллах, однако запах этого растения мне неприятен”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1256</td></tr><tr><td>Arabic No</td><td>565</td></tr><tr><td>Reference</td><td>Book 5 Hadith 94</td></tr></tbody></table></div>
 

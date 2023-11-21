@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما) le Prophète (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul A'la bin Hammad] -yaitu An Narsi- telah menceritakan kepada kami [Wuhaib] dari [Ibnu Thawus] dari [Ayahnya] dari [Ibnu Abbas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Berikanlah harta warisan kepada yang berhak mendapatkannya, sedangkan sisanya untuk laki-laki yang paling dekat garis keturunannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4141</td></tr><tr><td>Arabic No</td><td>1615.01</td></tr><tr><td>Reference</td><td>Book 23 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4141</td></tr><tr><td>Arabic No</td><td>1615.01</td></tr><tr><td>Reference</td><td>Book 23 Hadith 2</td></tr></tbody></table></div>
 

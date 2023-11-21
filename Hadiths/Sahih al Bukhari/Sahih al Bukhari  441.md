@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:Allah's Messenger (ﷺ) went to Fatima's house but did no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami ['Abdul 'Aziz bin Abu Hazim] dari [Abu Hazim] dari [Sahl bin Sa'd] berkata, "Rasulullah shallallahu 'alaihi wasallam datang ke rumah Fatimah namun 'Ali tidak ada di rumah. Beliau lalu bertanya: "Kemana putera pamanmu?" Fatimah menjawab, "Antara aku dan dia terjadi sesuatu hingga dia marah kepadaku, lalu dia pergi dan tidak tidur siang di rumah." Maka Rasulullah shallallahu 'alaihi wasallam berkata kepada seseorang: "Carilah, dimana dia!" Kemudian orang itu kembali dan berkata, "Wahai Rasulullah, dia ada di masjid sedang tidur." Maka Rasulullah shallallahu 'alaihi wasallam mendatanginya, ketika itu Ali sedang berbaring sementara kain selendangnya jatuh di sisinya hingga ia tertutupi debu. Maka Rasulullah shallallahu 'alaihi wasallam membersihkannya seraya berkata: "Wahai Abu Thurab, bangunlah. Wahai Abu Thurab, bangunlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 8 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д, да будет доволен им Аллах, сказал: «(Однажды, когда) Посланник Аллаха ﷺ пришёл в дом Фатимы, он не нашёл там ‘Али и спросил: “А где же сын твоего дяди?” (Фатима) ответила: “Мы повздорили, и он рассердился на меня и ушёл, отказавшись спать у меня днём”. Тогда Посланник Аллаха ﷺ велел одному человеку: “Посмотри, где он”. (Через некоторое время этот человек) вернулся и сказал: “О Посланник Аллаха, он спит в мечети”. Тогда Посланник Аллаха ﷺ пришёл туда (и увидел), что накидка ‘Али упала с его бока, а сам он лежит, испачкавшись в пыли. И Посланник Аллаха ﷺ стал стряхивать с него пыль, приговаривая: “Вставай, о Абу Тураб, вставай, о Абу Тураб!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 8 Hadith 90</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jabir that he heard the Apostle (may peace an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] dan [Utsman bin Abu Syaibah] keduanya dari [Jarir]. [Yahya] berkata, telah mengabarkan kepada kami [Jarir] dari [al-A'masy] dari [Abu Sufyan] dia berkata, saya mendengar [Jabir] berkata, "Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh, yang memisahkan antara seorang laki-laki dengan kesyirikan dan kekufuan adalah meninggalkan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>246</td></tr><tr><td>Arabic No</td><td>82.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Суфйан сказал: Я слышал, как Джабир (ибн ‘Абдуллах, да будет доволен им Аллах,) говорил: «Я слышал, как Пророк ﷺ говорил: “Поистине, между человеком и многобожием и неверием оставление молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>246</td></tr><tr><td>Arabic No</td><td>82.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 153</td></tr></tbody></table></div>
 

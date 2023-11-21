@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) reported Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Tahhir] telah mengabarkan kepada kami [Ibnu Wahb] dari [Ibnu Juraij] bahwasannya [Abu Zubair] telah mengabarkan kepadanya dari [Jabir bin Abdullah], bahwasannya Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kamu menjual buah kepada saudaramu." (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin 'Abbad] telah menceritakan kepada kami [Abu Dlamrah] dari [Ibnu Juraij] dari [Abu Zubair] bahwa dia mendengar [Jabir bin Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kamu membeli buah-buahan dari saudaramu lalu buah tersebut terserang hama (kerusaan), maka tidak halal bagimu mengambil sesuatu pun darinya, atas dasar apakah kamu mengambil harta saudaramu tanpa hak?" Dan telah menceritakan kepada kami [Hasan Al Khulwani] telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dengan sanad-sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3975</td></tr><tr><td>Arabic No</td><td>1554.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3975</td></tr><tr><td>Arabic No</td><td>1554.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 14</td></tr></tbody></table></div>
 

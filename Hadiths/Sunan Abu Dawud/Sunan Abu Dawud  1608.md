@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Awf ibn Malik: The Messenger of Allah (ﷺ) entered upon us in the mosq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Nashr bin 'Ashim Al Anthaki], telah menceritakan kepada Kami [Yahya yaitu Al Qaththan] dari [Abdul Hamid bin Ja'far], telah menceritakan kepadaku [Shalih bin Abu 'Arib] dari [Katsir bin Murrah] dari ['Aur bin Malik], ia berkata; Rasulullah shallallahu 'alaihi wasallam menemui Kami di masjid dengan membawa tongkat ditangannya, sementara seseorang telah menggantungkan kurma basah yang rusak, kemudian beliau menusuk tandan tersebut dengan tongkat dan berkata: "Kalau pemilik sedekah ini hendak bersedekah maka ia bersedekah dengan kurma yang lebih baik darinya." Dan beliau bersabda: "Sesungguhnya pemilik sedekah ini akan makan kurma basah dan rusak di Hari Kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1608</td></tr><tr><td>Arabic No</td><td>1608</td></tr><tr><td>Reference</td><td>Book 9 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Ауф ибн Малик, да будет доволен им Аллах, передаёт: «К нам в мечеть зашёл Посланник Аллаха ﷺ с палкой в руке, а какой-то человек повесил там гроздь плохих фиников. Посланник Аллаха ﷺ ткнул палкой эту гроздь и сказал: “Если бы владелец этой милостыни (садака) пожелал, он подал бы нечто лучшее”. Он также сказал: “Подавший такую милостыню будет есть эти финики в Судный день”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1608</td></tr><tr><td>Arabic No</td><td>1608</td></tr><tr><td>Reference</td><td>Book 9 Hadith 53</td></tr></tbody></table></div>
 

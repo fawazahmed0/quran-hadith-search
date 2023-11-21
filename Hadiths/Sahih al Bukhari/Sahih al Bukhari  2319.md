@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "An honest treasurer who gives what he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Alaa'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin 'Abdullah] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam bersabda: "Seorang bendahara yang amanah, yang dia melaksanakan tugasnya (dengan baik) " --Dan adakalanya Beliau bersabda--: "Yaitu yang dia melaksanakan apa yang dperintahkan kepadanya dengan sempurna dan jujur serta memiliki jiwa lapang dada, yang dia mengeluarkannya (shadaqah) kepada orang yang berhak sebagaimana diperintahkan adalah termasuk salah satu dari Al Mutashaddiqin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2319</td></tr><tr><td>Arabic No</td><td>2319</td></tr><tr><td>Reference</td><td>Book 40 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Честный (верный) хранитель, который отдаёт то, что ему велят отдать (из милостыни), в полной мере, и от чистого сердца, тому, кому ему велят дать, является одним из подающих милостыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2319</td></tr><tr><td>Arabic No</td><td>2319</td></tr><tr><td>Reference</td><td>Book 40 Hadith 18</td></tr></tbody></table></div>
 

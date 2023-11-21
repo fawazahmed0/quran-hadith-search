@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: The Prophet (ﷺ) said: A boy is in pledge for his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar An Namari], telah menceritakan kepada kami [Hammam], telah menceritakan kepada kami [Qatadah], dari [Al Hasan] dari [Samurah] dari Rasulullah shallallahu wa'alaihi wa sallam, beliau berkata: "Setiap anak tergadaikan dengan aqiqahnya, disembelih untuknya pada hari ketujuh dan rambutnya dicukur, dan dilumuri dengan darah aqiqah." Qatadah apabila ditanya mengenai darah bagaimana dilakukan dengannya? Ia berkata; apabila engkau menyembelih aqiqah, maka engkau mengambil darinya satu bulu wol, dan engkau bawa ke arah urat-urat lehernya kemudian diletakkan pada pertengahan kepala anak kecil tersebut hingga mengalir di atas kelapa tersebut darah seperti benang, kemudian dicuci kepalanya setelah itu, dan dicukur. Abu Daud berkata; dan ini adalah kesalahan dari Hammam, yaitu kata; wa yudamma. Abu Daud berkata; Hammam diselisihi dalam perkataan ini, dan hal tersebut adalah kesalahan dari Hammam. Sesungguhnya mereka mengatakan; yusamma (diberi nama), namun Hammam berkata; wa yudamma (dan dilumuri darah). Abu Daud berkata; dan hadits tersebut tidak diambil dengan hal ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 16 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Самуры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Каждый мальчик является заложником своей ‘акыки. Животное режется за него на седьмой день после рождения, и тогда же ему бреют голову и окропляют её кровью животного». Когда Катаду спрашивали о том, что представляет собой окропление головы младенца кровью жертвенного животного, он обычно говорил: «Когда животное зарежут, берут кусок шерсти и обмакивают его в кровь животного, вытекающую из вен, а потом прикладывают к макушке младенца, чтобы кровь струйкой потекла по его голове. А потом ему моют голову и сбривают волосы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 16 Hadith 50</td></tr></tbody></table></div>
 

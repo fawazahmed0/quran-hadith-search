@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:I was one of (the first) seven (who had embraced Islam) with Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada kami [Wahb bin Jarir] Telah menceritakan kepada kami [Syu'bah] dari [Isma'il] dari [Qais] dari [Sa'd] ia berkata; "Aku melihat bahwa aku adalah salah seorang dari tujuh orang yang bersama Nabi shallallahu 'alaihi wasallam. Saat itu, kami tak punya makanan kecuali dedaunan anggur hingga kami buang kotoran sebagaimana kotoran kambing. Kemudian Banu Asad memuliakanku dengan Islam. Karena itu, aku betul-betul telah rugi dan usahaku pun sia-sia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5412</td></tr><tr><td>Arabic No</td><td>5412</td></tr><tr><td>Reference</td><td>Book 70 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д сказал: «Поистине, я был одним из (первых) семерых (принявших ислам), тогда у нас не было никакой иной еды, кроме листьев акации, от которых испражнения наши напоминали собой овечий помёт. А затем (люди из племени) бану асад начали порицать меня за (мой) ислам. (Если они правы), то я пропал, и все мои усилия были напрасны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5412</td></tr><tr><td>Arabic No</td><td>5412</td></tr><tr><td>Reference</td><td>Book 70 Hadith 40</td></tr></tbody></table></div>
 

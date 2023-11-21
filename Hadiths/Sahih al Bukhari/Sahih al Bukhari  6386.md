@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) seeing a yellow mark (of perfume) on the clothes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam melihat bekas shufrah (minyak wangi berwarna kuning) pada Abdurrahman bin 'Auf, maka beliau pun bertanya: "Bagaimana keadaanmu? -Atau bersabda- bagaimana kabarmu? Ia menjawab; 'Sesungguhnya aku telah menikahi seorang wanita dengan mahar seberat biji kurma.' Beliau besabda: 'Semoga Allah memberkahimu, adakanlah pesta perkawinan meskipun dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6386</td></tr><tr><td>Arabic No</td><td>6386</td></tr><tr><td>Reference</td><td>Book 80 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик) сказал: «Однажды Пророк ﷺ увидел на (теле) ‘Абдуррахмана ибн ‘Ауфа жёлтые следы (шафрана) и спросил (его): “Что это?” Тот сказал: “Я женился на одной женщине, (отдав ей в качестве брачного дара) золото весом с кос­точку”, и (Пророк ﷺ) сказал: “Да благословит тебя Аллах! /Барака-Ллаху ляка/ (А теперь) устрой угощение хотя бы из одной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6386</td></tr><tr><td>Arabic No</td><td>6386</td></tr><tr><td>Reference</td><td>Book 80 Hadith 81</td></tr></tbody></table></div>
 

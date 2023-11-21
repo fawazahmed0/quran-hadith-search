@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa’d said :The Prophet (May peace be upon him) distributed (spoils) among the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Abdurrazaq]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibrahim bin Basysyar] berkata, telah menceritakan kepada kami [Sufyan] secara makna, keduanya berkata; telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Amir bin Sa'd] dari [Bapaknya] ia berkata, "Nabi shallallahu 'alaihi wasallam membagi-bagikan sesuatu kepada kaum muslimin." Aku (Sa'd) lalu berkata, "Berilah si fulan, sebab ia seorang mukmin." Beliau bersabda: "Ataukah ia hanya seorang muslim? Sungguh, aku memberikan pemberian kepada seorang laki-laki, sementara yang lain (yang tidak diberi) lebih aku sukai darinya; hal itu karena kawatir jika wajahnya akan dibenamkan ke dalam (neraka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (27) Sahih Muslim (150)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4685</td></tr><tr><td>Arabic No</td><td>4685</td></tr><tr><td>Reference</td><td>Book 42 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аз-Зухри сказал о словах Всевышнего «Скажи: “Вы не уверовали, так что говорите: “Мы покорились /аслямна/””»: «Мы считали, что ислам это слова, а вера это деяния»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (27) Sahih Muslim (150)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4685</td></tr><tr><td>Arabic No</td><td>4685</td></tr><tr><td>Reference</td><td>Book 42 Hadith 90</td></tr></tbody></table></div>
 

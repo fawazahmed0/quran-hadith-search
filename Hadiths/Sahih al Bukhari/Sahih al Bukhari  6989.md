@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:I heard Allah's Messenger (ﷺ) saying, "A good dre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Hamzah] telah menceritakan kepadaku [Ibnu Abi Hazim] dan [Darawardi] dari [Yazid] dari ['Abdullah bin Khabbab] dari [Abu Sa'id Al Khudzri], ia mendengar Rasulullah Shallallahu'alaihiwasallam bersabda: "Mimpi yang baik adalah bagian dari empat puluh enam kenabian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6989</td></tr><tr><td>Arabic No</td><td>6989</td></tr><tr><td>Reference</td><td>Book 91 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт, что он слышал как Посланник Аллаха ﷺ сказал: «Благое сновидение является одной из сорока шести частей пророчества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6989</td></tr><tr><td>Arabic No</td><td>6989</td></tr><tr><td>Reference</td><td>Book 91 Hadith 8</td></tr></tbody></table></div>
 

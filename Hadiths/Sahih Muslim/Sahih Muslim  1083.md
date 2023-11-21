@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: The nearest a servant co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Amru bin Sawwad] keduanya berkata, telah menceritakan kepada kami [Abdullah bin Wahb] dari [Amru bin al-Harits] dari [Umarah bin Ghaziyyah] dari [Sumai, maula Abu Bakar] bahwasanya dia mendengar [Abu Shalih Dzakwan] bercerita dari [Abu Hurairah ra] bahwa Rasulullah Shallallahu'alaihiwasallam bersabda, "Keadaan seorang hamba yang paling dekat dari Rabbnya adalah ketika dia sujud, maka perbanyaklah doa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1083</td></tr><tr><td>Arabic No</td><td>482</td></tr><tr><td>Reference</td><td>Book 4 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Ближе всего к своему Господу раб оказывается тогда, когда совершает земной поклон, так обращайтесь же к Нему с мольбами (в такие моменты) как можно чаще»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1083</td></tr><tr><td>Arabic No</td><td>482</td></tr><tr><td>Reference</td><td>Book 4 Hadith 245</td></tr></tbody></table></div>
 

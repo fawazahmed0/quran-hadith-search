@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The Prophet (ﷺ) forbade the fasting of 'Id-ul-Fitr and 'Id-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami ['Amru bin Yahya] dari [bapaknya] dari [Abu Sa'id radliallahu 'anhu] berkata: Nabi shallallahu 'alaihi wasallam melarang berpuasa pada hari Raya 'Iedul Fithri dan 'Iedul 'Adhha dan juga melarang berkerudung dengan satu helai kain (berselimut sehingga seluruh bagian badannya tertutup) dan juga melarang seseorang duduk dengan memeluk lututnya hingga mengenai pundaknya dan menutupnya dengan selembar kain dan melarang pula shalat setelah Shubuh dan 'Ashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>1991</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил поститься в день праздников ‘Ид аль-Фитр и ‘Ид аль-Адха, а также заворачиваться наглухо в одну одежду и сидеть, обняв колени, накинув при этом на тело только одну одежду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>1991</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

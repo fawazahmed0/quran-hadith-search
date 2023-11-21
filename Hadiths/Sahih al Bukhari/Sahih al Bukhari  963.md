@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ), Abu Bakr and 'Umar! used to offer th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] berkata, telah menceritakan kepada kami [Abu Usamah] berkata, telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam, Abu Bakar, dan 'Umar? radliallahu 'anhu mereka melaksanakan shalat dua Hari Raya sebelum khutbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 13 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Посланник Аллаха ﷺ Абу Бакр и ‘Умар, да будет доволен Аллах ими обоими, совершали праздничные молитвы перед хутбой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 13 Hadith 12</td></tr></tbody></table></div>
 

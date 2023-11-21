@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Sa’id Al Khudri :The Messenger of Allah (ﷺ) as saying: When you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Suhail bin Abu Shalih], dari [Ibnu Abu Sa'id Al Khudri] dari [ayahnya], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kalian mengiringi jenazah, maka janganlah kalian duduk hingga jenazah tersebut diletakkan." Abu Daud berkata; hadits ini diriwayatkan oleh [Ats Tsauri] dari [Suhail] dari [ayahnya] dari [Abu Hurairah] ia berkata dalam hadits tersebut; hingga diletakkan di bumi. Dan telah diriwayatkan [Abu Mu'awiyah] dari [Suhail] ia berkata; hingga diletakkan dalam lahad. Abu Daud berkata; dan Sufyan lebih hafal daripada Abu Mu'awiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3173</td></tr><tr><td>Arabic No</td><td>3173</td></tr><tr><td>Reference</td><td>Book 21 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если вы провожаете погребальные носилки, то не садитесь, пока их не опустят на землю». Абу Дауд сказал: «Ас-Саури передаёт этот хадис от Сухайля от его отца от Абу Хурайры, причём в его версии говорится: «пока их не опустят на землю». А в версии, которую передаёт Абу Му‘авия от Сухайля говорится: «пока покойного не положат в могильную нишу». Абу Дауд сказал: «Суфьян лучше запоминал, чем Абу Му‘авия»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3173</td></tr><tr><td>Arabic No</td><td>3173</td></tr><tr><td>Reference</td><td>Book 21 Hadith 85</td></tr></tbody></table></div>
 

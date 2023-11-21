@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Jubair heard Ibn 'Abbas (Allah be pleased with them) as saying:A person
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Abu Bakr bin Nafi'] telah mengabarkan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] ia berkata, saya mendengar [Abu Bisyr] menceritakan dari [Sa'id bin Jubair] bahwa mendengar [Ibnu Abbas] radliallahu 'anhuma menceritakan bahwasanya; "Seorang laki-laki yang sedang melakukan Ihram mendatangi Nabi shallallahu 'alaihi wasallam, kemudian laki-laki itu terjatuh dari Untanya lalu meninggal seketika. Maka Nabi shallallahu 'alaihi wasallam memerintahkan untuk memandikannya dengan air dan daun bidara, mengkafaninya dengan dua helai kain dan tidak melumurinya dengan wewangian serta membiarkan bagian kepalanya disingkap." Syu'bah berkata; Kemudian Abu Bisyr menceritakannya kepadaku; "(Agar mereka) membiarkan kepala dan wajahnya tersingkap, sebab ia akan dibangkitkan -kelak pada hari kiamat- dalam keadaan bertalbiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2899</td></tr><tr><td>Arabic No</td><td>1206.09</td></tr><tr><td>Reference</td><td>Book 15 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2899</td></tr><tr><td>Arabic No</td><td>1206.09</td></tr><tr><td>Reference</td><td>Book 15 Hadith 108</td></tr></tbody></table></div>
 

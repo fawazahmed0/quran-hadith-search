@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa reported:When we attended a dinner along with the Messenger of Allah (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Khaitsamah] dari [Abu Hudzaifah] dari [Hudzaifah] dia berkata; Bila kami menghadiri jamuan makan bersama Rasulullah Shallallahu 'alaihi Wa Salam, kami tidak meletakkan tangan kami hingga beliau memulai meletakkan tangan beliau. ketika kami menghadiri jamuan makan bersama beliau, tiba-tiba datang seorang budak perempuan yang ingin meletakkan tangannya pada makanan itu, Rasulullah Shallallahu 'alaihi Wa Salam meraih tangannya (menyingkirkannya), kemudian seorang badui datang yang ingin meletakkan tangannya diatas makanan itu, Rasulullah Shallallahu 'Alaihi Wa Salam pun meraih tangannya. Beliau lalu bersabda: "Sesungguhnya Setan akan mendapatkan makanan yang tidak disebut nama Allah dan ia datang bersama anak perempuan ini untuk mendapatkannya, lalu aku meraih tangannya, ia juga datang bersama orang badui ini untuk mendapatkannya lalu aku meraih tangannya. Demi Dzat Yang jiwaku berada ditanganNya, Sesungguhnya tangan setan itu berada di tanganku seperti ia ada di dalam tangan keduanya (orang badui dan budak perempuan)." Dan telah menceritakan pula kepada kami [Ishaq bin Ibrahim Al Hanzhali], telah mengabarkan kepada kami [Isa bin Yunus], telah mengabarkan kepada kami [Al 'Amasy] dari [Khaitsamah bin Abdurrahman] dari [Abu Hudzaifah Al Arhabi] dari [Khudzaifah bin Al Yaman] dia berkata; Bila kami diundang untuk menghadiri jamuan makan bersama Rasulullah Shallallahu 'alaihi Wa Salam, - lalu dia menyebutkan Hadits yang semakna dengan Hadits Abu Mu'awiyah, dan dia berkata; dengan lafazh; 'Ka annama Yuthradu', sedangkan pada budak perempuan dengan lafazh 'Ka annama tuthradu'. Dalam Haditsnya dia mendahulukan kedatangan orang badui daripada budak perempuan. Dan di akhir Haditsnya dia menambahkan; 'Beliau menyebut nama Allah lalu makan.' Dan telah menceritakan kepadaku pula [Abu Bakr bin Nafi'], telah menceritakan kepada kami [Abdurrahman], telah menceritakan kepada kami [Sufyan] dari [Al A'Masy] dengan sanad ini. Dan dia mendahulukan datangnya budak perempuan dari pada orang badui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5259</td></tr><tr><td>Arabic No</td><td>2017.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5259</td></tr><tr><td>Arabic No</td><td>2017.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 133</td></tr></tbody></table></div>
 

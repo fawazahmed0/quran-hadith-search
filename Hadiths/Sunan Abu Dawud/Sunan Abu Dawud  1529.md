@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa'id al-Khudri reported the Messenger of Allah (ﷺ) as saying:If anyone sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Rafi'], telah menceritakan kepada Kami [Abu Al Husain Zaid bin Al Hubab], telah menceritakan kepada Kami [Abdurrahman bin Syuraih Al Iskandarani], telah menceritakan kepadaku [Abu Hani' Al Khaulani] bahwa ia mendengar [Abu Ali Al Hanbi] bahwa ia mendengar [Abu Sa'id Alkhudri] radliallahu 'anhu mengatakan bahwa Rasulullah shallla Allahu 'alaihi wa sallam bersabda: "Barangsiapa yang mengatakan; RADHIITU BILLAAHI RABBAN WA BIL-ISLAAMI DIINAN WA BIMUHAMMADIN RASUULAN (Aku ridha Allah sebagai Tuhanku, Islam sebagai agamaku dan Muhammad sebagai rasul), maka wajib baginya untuk masuk Surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>1529</td></tr><tr><td>Reference</td><td>Book 8 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Обязательно войдёт в рай тот, кто скажет: “Доволен я Аллахом как Господом, исламом − как религией и Мухаммадом − как посланником /Радыйту биЛляхи Раббан, ва биль-ислами динан ва би-Мухаммадин расулян/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>1529</td></tr><tr><td>Reference</td><td>Book 8 Hadith 114</td></tr></tbody></table></div>
 

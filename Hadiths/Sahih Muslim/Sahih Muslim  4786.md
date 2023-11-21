@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Huraira that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Jarir] -yaitu Ibnu Hazim- telah menceritakan kepada kami [Ghailan bin Jarir] dari [Abu Qais bin Riyah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Barangsiapa keluar dari ketaatan dan tidak mau bergabung dengan Jama'ah kemudian ia mati, maka matinya seperti mati jahiliyah. Dan barangsiapa mati di bawah bendera kefanatikan, dia marah karena fanatik kesukuan atau karena ingin menolong kebangsaan kemudian dia mati, maka matinya seperti mati jahiliyah. Dan barangsiapa keluar dari ummatku, kemudian menyerang orang-orang yang baik maupun yang fajir tanpa memperdulikan orang mukmin, dan tidak pernah mengindahkan janji yang telah di buatnya, maka dia tidak termasuk dari golonganku dan saya tidak termasuk dari golongannya." Dan telah menceritakan kepadaku ['Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub] dari [Ghailan bin Jarir] dari [Ziyad bin Riyah Al Qaisi] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda seperti hadits Jarir, dia berkata, "Dan tidak memperdulikan orang mukminnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4786</td></tr><tr><td>Arabic No</td><td>1848.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4786</td></tr><tr><td>Arabic No</td><td>1848.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 83</td></tr></tbody></table></div>
 

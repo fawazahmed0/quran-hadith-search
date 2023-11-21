@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:After the slanderers had given a forged statement against her, A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Uwaisi Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Sahlih] dari [Ibn Syihab] telah menceritakan kepadaku ['Urwah] dan [Ibnul Musayyab] dan [Alqamah bin Waqqash] dan ['Ubaidullah] dari ['Aisyah] radliyallahu'anha, bahwa ketika orang-orang yang menyebarkan berita bohong melakukan aksinya, Aisyah berkata, "Rasulullah Shallallahu'alaihiwasallam lantas memanggil Ali bin Abu Thalib dan Usamah bin Yazid radliyallahu'anhum, yakni saat wahyu belum turun, beliau menanyai dan meminta saran keduanya perihal perceraian terhadap isterinya. Adapun Usamah bin Zaid, ia memberi saran sejauh yang ia ketahui bahwa Aisyah terlepas diri dari apa yang mereka tuduhkan, adapun Ali bin Abu Thalib berkata, 'Allah tak bakalan menyesakkan dadamu, wanita selainnya juga masih banyak, dan tanyailah pembantu yang bisa jadi ia membenarkanmu.' Nabi bertanya kepada hamba sahaya tadi: "Pernahkah kau lihat sesuatu yang menjadikanmu ragu terhadap diri Aisyah?" hamba sahaya tadi menjawab, "Belum pernah kulihat sesuatu yang kurang pada diri Aisyah selain tak lebih ketika ia masih masih belia, ia ketiduran dari adonan masakan keluarganya sehingga datang ternak yang kemudian menyantapnya.' Lantas Nabi berdiri di atas minbar dan berkata: "Wahai segenap muslimin, siapa yang bisa memberiku alasan terhadap seseorang yang gangguannya terhadap isteriku telah kudengar? Demi Allah, aku tak tahu terhadap isteriku selain kebaikan semata, " lantas beliau sebutkan kesucian Aisyah. Dan [Abu Usamah] berkata 'dari [Hisyam]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7369</td></tr><tr><td>Arabic No</td><td>7369</td></tr><tr><td>Reference</td><td>Book 96 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Ибн Шихаб сказал: \n— ‘Урва, ибн аль-Мусаййаб, ‘Алькама ибн Ваккас и ‘Убайдуллах передавали мне хадис о ‘Аише, да будет доволен ею Аллах, в котором упоминается, как люди, распространявшие клевету, говорили о ней то, что говорили. И она сказала: «Посланник Аллаха ﷺ увидев, что Откровение задерживается, позвал ‘Али ибн Абу Талиба и Усаму ибн Зейда, да будет доволен Аллах ими обоими, чтобы спросить и посоветоваться с ними относительно развода со своей женой. Что же касается Усамы, то он рассказал ему всё, что знал о непричастности его жены, а что касается ‘Али, то он сказал: «Аллах не ограничивает тебя, и кроме неё есть много других женщин. Спроси её служанку, и она скажет тебе правду!» Тогда, (Пророк ﷺ) спросил (служанку): «Замечала ли ты за ней что-нибудь такое, что казалось тебе подозрительным?» Она ответила: «Я не видела за ней ничего (плохого)! Самый большой её недостаток, за который я могла бы её упрекнуть, заключается в том, что она ещё очень молода и иногда засыпает, (оставляя) тесто, а потом приходит коза и поедает его». Тогда Пророк ﷺ поднялся на минбар и сказал: «О мусульмане, кто поможет мне наказать человека, который нанёс мне обиду(, оклеветав) мою жену? Клянусь Аллахом, о моей жене мне известно только хорошее». И он упомянул, (что Аллах) оправдал ‘Аишу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7369</td></tr><tr><td>Arabic No</td><td>7369</td></tr><tr><td>Reference</td><td>Book 96 Hadith 96</td></tr></tbody></table></div>
 

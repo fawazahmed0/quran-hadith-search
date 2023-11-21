@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : "Je m'avançai monté sur une �
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Ubaidullah bin Abdullah bin Utbah] bahwa [Abdullah bin Abbas] telah mengabarkan kepadanya "Bahwa dia bepergian di atas keledai, dan Rasulullah Shallallahu'alaihiwasallam berdiri shalat di Mina dalam haji Wada' mengimami orang-orang." Perawi berkata, "Lalu keledai tersebut berjalan di hadapan sebagian shaf, kemudian dia turun darinya, lalu masuk shaf bersama orang-orang." Telah menceritakan kepada kami [Yahya bin Yahya] dan [Amru an-Naqid] serta [Ishaq bin Ibrahim] dari [Ibnu Uyainah] dari [az-Zuhri] dengan isnad ini, dia berkata, "Dan Nabi Shallallahu'alaihiwasallam shalat di Arafah." Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abd bin Humaid] keduanya berkata, telah mengabarkan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] dengan isnad ini dan dia tidak menyebutkan Mina di dalamnya dan tidak pula Arafah. Dan dia berkata dalam haji Wada' atau hari Fath Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1125</td></tr><tr><td>Arabic No</td><td>504.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 287</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн ‘Аббас рассказал, что однажды, он приехал верхом на ослице в Мину, где Посланник Аллаха ﷺ в это время совершал с людьми молитву во время Прощального паломничества. И он прошёл перед частью ряда (молившихся), слез с ослицы, а потом встал в ряд вместе с людьми
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1125</td></tr><tr><td>Arabic No</td><td>504.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 287</td></tr></tbody></table></div>
 

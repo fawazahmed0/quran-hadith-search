@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:A bedouin came to the Prophet (ﷺ) and said, "Please take my Ple
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Muhammad bin Al Munkadir], aku mendengar [Jabir] mengatakan; 'Seorang arab badui (nomade) mendatangi Nabi shallallahu 'alaihi wasallam dan berujar "Baiatlah aku untuk Islam, " maka Nabi membaiatnya untuk Islam. Keesokan harinya si arab badui tadi datang dalam keadaan demam, dan berujar; "batalkanlah baiatku" namun Nabi enggan. Ketika si arab badui sudah berpaling, Nabi bersabda: "Madinah ini bagaikan tungku api yang menghilangkan karat-karatnya dan menyaring yang baik saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7216</td></tr><tr><td>Arabic No</td><td>7216</td></tr><tr><td>Reference</td><td>Book 93 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(Однажды) к Пророку ﷺ пришёл какой-то бедуин. (Пророк ﷺ) сказал ему: «Поклянись на верность исламу», — и тот поклялся ему на верность исламу, а на следующий день (этот человек), который заболел лихорадкой, пришёл (снова) и сказал: “Освободи меня (от этого)!” — однако (Пророк ﷺ) отказал (ему в этом) и, когда тот ушел, сказал: “Медина подобна кузнечному меху, ибо она отвергает то нечистое, что в ней есть, а (всё) благое в ней ярко сияет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7216</td></tr><tr><td>Arabic No</td><td>7216</td></tr><tr><td>Reference</td><td>Book 93 Hadith 76</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) used to supplicate Allah: "My Lor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Katsir], telah mengabarkan kepada Kami [Sufyan] dari ['Amr bin Murrah] dari [Abdullah bin Al Harits] dari [Thalq bin Qais] dari [Ibnu Abbas], ia berkata; Nabi shallallahu 'alaihi wasallam berdoa dengan mengucapkan: "RABBI A'INNII WA LAA TU'IN 'ALAYYA, WAN SHURNII WA LAA TANSHUR 'ALAYYA WAMKUR LII WA LAA TAMKUR 'ALAYYA, WAHDINII WA YASSIR HUDAYA ILAYYA WAN SHURNII 'ALAA MAN BAGHAA 'ALAYYA. ALLAAHUMMAJ'ALNII LAKA SYAAKIRAN, DZAAKIRAN LAKA, RAAHIBAN, LAKA MITHWAA'AN ILAIKA, MUKHBITAN AU MUNIIBAN. RABBI TAQABBAL TAUBATII WAGHSIL HAUBATII WA AJIB DA'WATII WA TSABBIT HUJJATII, WAHDI QALBII, WA SADDID LISAANII, WASLUL SAKHIIMATA QALBII" (Ya Allah, bantulah aku dan jangan Engkau bantu untuk memusuhiku, tolonglah aku dan jangan Engkau tolong untuk memusuhiku, lakukan tipu daya untukku dan jangan Engkau melakukan tipu daya terhadap diriku, berilah kau petunjuk dan permudahlah petunjuk kepadaku, tolonglah aku menghadapi orang yang berbuat lalim terhadap diriku. Ya Allah, jadikanlah aku orang yang bersyukur kepadaMu, ingat kepadaMu, takut kepadaMu, taat kepadaMu, tunduk kepadaMu, atau kembali kepadaMu. Tuhanku, terimalah taubatku, hilangkan kegelisahanku, dan kabulkan doaku, teguhkan hujjahku, dan berilah petunjuk hatiku, luruskan lisanku, dan cabutlah kedengkian hatiku). Telah menceritakan kepada Kami [Musaddad] telah menceritakan kepada Kami [Yahya] dari [Sufyan], ia berkata; aku mendengar ['Amr bin Murrah] dengan sanad dan maknanya ia berkata; "dan mudahkanlah petunjuk kepadaku" bukan "petunjukku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 8 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ обращался к Аллаху с такой мольбой: «О Аллах, окажи мне помощь и не оказывай помощь никому против меня, помоги мне и не помогай другим против меня, обращай козни на пользу мне и не обращай их против меня, веди меня прямым путём и облегчи мне следование прямым путём. Помоги мне против тех, кто поступает со мной несправедливо. О Аллах, сделай меня благодарным Тебе, поминающим Тебя, страшащимся Тебя, покорным Тебе, смиренным пред Тобою. О Аллах, прими моё покаяние, смой грехи мои, ответь на мольбу мою, укрепи довод мой, наставь на путь истинный сердце моё, выпрями язык мой и удали злобу из сердца моего! /Рабби а‘инни ва ля ту‘инн ‘аляййа ва-нсурни ва ля тансур ‘аляййа ва-мкур ли ва ля тамкур ‘аляййа ва-хдини ва йассир худайа иляййа ва-нсурни ‘аля ман бага ‘аляййа. Аллахумма-дж‘аль-ни ляка шакиран ляка закиран ляка рахибан ляка митваан, иляйка мухбитан, Рабби такаббаль таубати ва-гсиль хаубати ва аджиб да‘вати ва саббит худжжати ва саддид лисани ва-слюль сахимат кальби/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 8 Hadith 95</td></tr></tbody></table></div>
 

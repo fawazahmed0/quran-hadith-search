@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm 'Atiyyah said:The Messenger of Allah (ﷺ) commanded us to bring out the sec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Ayyub], [Yunus], [Habib], [Yahya bin 'Atiq] dan [Hisyam] di riwayat yang lain, dari [Muhammad] bahwa [Ummu 'Athiyah] berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kami supaya menyuruh keluar para wanita yang terpingit dalam rumah untuk keluar pada hari raya Ied, lalu di tanyakan; "Bagaimana dengan wanita haid?" beliau bersabda; "Hendaknya ia menyaksikan kebaikan pada hari itu dan juga do'a dari kaum Muslimin." Perawi berkata; Seorang wanita bertanya; "Wahai Rasulullah, bagaimana kalau sekiranya salah seorang dari wanita tidak memiliki pakaian, apa yang harus ia lakukan?" beliau menjawab: "Hendaknya saudaranya meminjami sebagian dari pakaiannya." Telah menceritakan kepada kami [Muhammad bin 'Ubaid] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Ummu 'Athiyah] seperti hadits ini, katanya; "Hendaklah wanita haidh agak menjauh dari tempat shalat kaum Muslimin…" tanpa menyebutkan; "…pakaian…" Perawi berkata; dan telah bercerita dari [Hafshah] dari [seorang wanita] menceritakan dari [seorang wanita lain] dia berkata; "…di beritahukan; "Wahai Rasulullah…" lalu dia menyebutkan semakna dengan hadits Musa tentang "pakaian." Telah menceritakan kepada kami [An Nufaili] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami ['Ashim Al Ahwal] dari [Hafshah binti Sirin] dari [Ummu 'Athiyah] dia berkata; "Kami di perintah …" seperti hadits ini, katanya; "Hendaknya wanita-wanita hendaknya berada di belakang orang-orang dan bertakbir bersama mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (974) Sahih Muslim (890)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1136</td></tr><tr><td>Arabic No</td><td>1136</td></tr><tr><td>Reference</td><td>Book 2 Hadith 747</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Умм ‘Атыйи, да будет доволен ею Аллах: «Посланник Аллаха ﷺ велел нам брать с собой девушек, которые обычно не выходили, в день праздника, и его спросили: “И даже тех, у кого менструация?” Он сказал: “Пусть они видят благо вместе с другими мусульманами и участвуют в их собрании”. Одна женщина спросила: “О Посланник Аллаха! А что делать той из нас, у которой нет подходящей одежды для выхода?” (Посланник Аллаха ﷺ) сказал: “Пусть её подруга поделится с ней одеждой, если у неё есть лишняя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (974) Sahih Muslim (890)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1136</td></tr><tr><td>Arabic No</td><td>1136</td></tr><tr><td>Reference</td><td>Book 2 Hadith 747</td></tr></tbody></table></div>
 

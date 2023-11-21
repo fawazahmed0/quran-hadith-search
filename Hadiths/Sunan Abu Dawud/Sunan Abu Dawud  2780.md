@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas bin Malik said “A youth of Aslam said “Apostle of Allaah(ﷺ), I wish t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], telah mengabarkan kepada kami [Tsabit Al Bunani], dari [Anas bin Malik], bahwa seorang pemuda Aslam berkata; wahai Rasulullah, aku ingin berjihad dan aku tidak memiliki harta yang perlu aku persiapkan. Beliau berkata: "Pergilah kepada Fulan Al Anshari, sesungguhnya ia telah bersiap-siap lalu sakit. Katakan kepadanya; sesungguhnya Rasulullah shallallahu 'alaihi wasallam menyampaikan salam kepadamu. Dan katakan kepadanya; serahkan kepadaku apa yang telah engkau persiapkan!" kemudian pemuda tersebut datang kepadanya hal tersebut. Lalu orang anshar tersebut berkata kepada isterinya; wahai Fulanah, serahkan kepadanya apa yang telah aku persiapkan, dan jangan engkau tahan sedikitpun darinya! Demi Allah, tidak mungkin engkau menahan sedikitpun darinya kemudian Allah memberi berkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2780</td></tr><tr><td>Arabic No</td><td>2780</td></tr><tr><td>Reference</td><td>Book 15 Hadith 304</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2780</td></tr><tr><td>Arabic No</td><td>2780</td></tr><tr><td>Reference</td><td>Book 15 Hadith 304</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali b. Husain reported that Miswar b. Makhramah informed him that 'Ali b. Abi Ta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Abu Al Yaman]; Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]; Telah mengabarkan kepadaku ['Ali bin Husain] bahwa [Al Miswar bin Makhramah]; Telah menceritakan kepadanya bahwasanya Ali bin Abu Thalib pernah melamar putri Abu Jahal ketika ia telah menikah dengan Fatimah binti Rasulullah shallallahu 'alaihi wasallam. Ketika berita tersebut didengar Fatimah, maka ia pun Iangsung mendatangi ayahnya, Rasulullah, seraya berkata; "Ya Rasulullah, sesungguhnya para sahabat engkau mengatakan bahwa engkau tidak pernah memarahi putri-putri engkau. Sekarang ini Ali akan menikahi putri Abu Jahal." Miswar berkata; 'Kemudian Rasulullah shallallahu 'alaihi wasallam berdiri (untuk berpidato) dan saya mendengar beliau membaca syahadat. Setelah itu, beliau berkata: 'Sesungguhnya aku telah menikahkan Abul 'Ash bin Rabi', lalu ia memberitahu kepadaku dan membenarkanku. Sesungguhnya Fatimah binti Muhammad adalah darah dagingku. Oleh karena itu, saya tidak suka apabila orang-orang memfitnahnya. Demi Allah, sungguh tidak boleh dipertemukan (dimadu) antara putri Rasulullah dengan putri musuh Allah oleh seorang suami untuk selama-lamanya.' Miswar berkata; "Akhirnya Ali membatalkan lamarannya." Dan telah menceritakannya kepadaku [Abu Ma'an Ar Raqasyi]; Telah menceritakan kepada kami [Wahb] yaitu Ibnu Jarir dari [Bapaknya] dia berkata; Aku mendengar [An Nu'man] yaitu Ibnu Rasyid bercerita dari [Az Zuhri] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6310</td></tr><tr><td>Arabic No</td><td>2449.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6310</td></tr><tr><td>Arabic No</td><td>2449.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 140</td></tr></tbody></table></div>
 

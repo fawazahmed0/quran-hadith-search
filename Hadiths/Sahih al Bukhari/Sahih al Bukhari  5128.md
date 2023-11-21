@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(as regards the Verse): 'And about what is recited unto you in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah], yakni terkait dengan firman-Nya: "WA MAA YUTLAA 'ALAIKUM FILYATAAMAAN NISAA'IL LAATII LAA TU'TUUHUNNA MAA KUTIBA LAHUNNA WA TARGHUBUUNA AN TANKIHUUHUNNA, (QS. Annisa'; 127), Ia berkata, "Ini terkait dengan anak perempuan yatim yang berada di bawah asuhan seseorang, yang ia berharap anak perempuan yatim itu dapat menjadi syarikat dalam hartanya. Dan dia merasa bahwa dialah orang yang paling berhak akan hal itu. Karena itu ia tidak mau menikahinya sebab akan menghalangi dirinya untuk mendapatkan harta sang anak perempuan yatim. Dan ia pun tidak sudi menikahkannya dengan orang lain, karena tak suka bila ada seseorang yang turut campur dalam hartanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5128</td></tr><tr><td>Arabic No</td><td>5128</td></tr><tr><td>Reference</td><td>Book 67 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Аиша сказала относительно аята «… и того, что читается вам в Писании по поводу осиротевших женщин, которым вы не даете того, что им предписано, размышляя о женитьбе» (сура “ан-Ниса”, аят 127): «Речь идёт о сироте, которую воспитывает её опекун, и которая делит с ним имущество, и у него больше прав на неё (чем у кого-либо другого). Однако он ни сам не хочет жениться на ней, ни выдавать её замуж за кого-то другого, кто разделил бы с ним имущество, которое она делит с ним. Поэтому он не даёт ей выйти замуж»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5128</td></tr><tr><td>Arabic No</td><td>5128</td></tr><tr><td>Reference</td><td>Book 67 Hadith 64</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aun bin Abu Juhaifa:My father bought a slave who practiced the profess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari ['Aun bin Abu Juhaifah] berkata, aku melihat [bapakku] membeli seorang budak sebagai tukang bekam lalu aku tanyakan kepadanya maka dia berkata; Nabi shallallahu 'alaihi wasallam telah melarang harga (uang hasil jual beli) anjing, darah dan melarang orang yang membuat tato dan yang minta ditato dan pemakan riba' dan yang meminjam riba serta melaknat pembuat patung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2086</td></tr><tr><td>Arabic No</td><td>2086</td></tr><tr><td>Reference</td><td>Book 34 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аун ибн Абу Джухайфа, да будет доволен им Аллах, сказал: «Я был свидетелем того, как мой отец, который купил раба, умевшего пускать кровь, (велел сломать его инструменты). Я спросил его о причине этого, и он сказал: “Пророк ﷺ запретил брать деньги за собаку и за кровь, и он запретил женщинам как заниматься нанесением татуировок (другим), так и делать татуировки себе, (и он запретил) как брать деньги у ростовщиков, так и заниматься ростовщичеством, и он проклял создающих изображения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2086</td></tr><tr><td>Arabic No</td><td>2086</td></tr><tr><td>Reference</td><td>Book 34 Hadith 39</td></tr></tbody></table></div>
 

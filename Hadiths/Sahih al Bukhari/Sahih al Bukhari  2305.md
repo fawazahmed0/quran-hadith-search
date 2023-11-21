@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) owed somebody a camel of a certain age. W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Salamah bin Kuhail] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata; Ada seorang laki-laki yang dijanjikan diberi seekor anak unta oleh Nabi shallallahu 'alaihi wasallam maka dia datang kepada Beliau untuk menagihnya. Maka Beliau bersabda: "Berikanlah". Maka para sahabat mencarikan anak unta namun tidak mendapatkannya kecuali satu ekor anak unta yang umurnya lebih diatas yang semestinya. Maka Beliau bersabda: "Berikanlah kepadanya". Orang tersebut berkata: "Engkau telah menepati janji kepadaku semoga Allah membalasnya buat Tuan". Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya yang terbaik diantara kalian adalah siapa yang paling baik menunaikan janji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2305</td></tr><tr><td>Arabic No</td><td>2305</td></tr><tr><td>Reference</td><td>Book 40 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Как-то раз) один человек пришёл к Пророку ﷺ и стал требовать у него верблюда (определённого возраста), которого он ему задолжал. Пророк ﷺ сказал: “Отдайте ему верблюда!” Люди стали искать верблюда такого же возраста, как его верблюд, но нашли только верблюда постарше. Пророк ﷺ сказал: “Отдайте ему этого верблюда!” Тот человек сказал: “Ты отдал мне мое право полностью. Да воздаст тебе Аллах сполна!” Тогда Пророк ﷺ сказал: “Лучшими из вас являются те, кто лучше всех отдаёт (должное другим)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2305</td></tr><tr><td>Arabic No</td><td>2305</td></tr><tr><td>Reference</td><td>Book 40 Hadith 6</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:I served (water from) Zamzam to Allah's Messenger (ﷺ), and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari ['Ashim]; dia mendengar dari [Asy Sya'bi]; dia mendengar [Ibnu 'Abbas] berkata; Aku memberi minum Rasulullah shallallahu 'alaihi wasallam dari air zam-zam, lalu beliau minum sambil berdiri. Waktu itu beliau meminta air ketika beliau berada di samping baitullah (Ka'bah). Telah menceritakannya kepada kami [Muhammad bin Basyar]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Wahb bin Jarir] keduanya dari [Syu'bah] dengan sanad ini. Namun dalam Hadits keduanya disebutkan kalimat; 'lalu aku membawakan gayung untuk beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5283</td></tr><tr><td>Arabic No</td><td>2027.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) я напоил Посланника Аллаха ﷺ (водой) из Замзама, которую он попросил и он выпил её стоя возле Дома (Аллаха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5283</td></tr><tr><td>Arabic No</td><td>2027.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 157</td></tr></tbody></table></div>
 

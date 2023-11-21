@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:While we were sitting with the Prophet (ﷺ) who had a stick with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Sa'd bin Ubaidah] dari [Abu Abdurrahman as Sulami] dari [Ali] radliallahu 'anhu mengatakan; kami duduk-duduk bersama Nabi shallallahu 'alaihi wasallam yang ketika itu beliau membawa tongkat yang beliau gunakan untuk memukul-mukul di tanah, kemudian beliau bersabda: "Tidaklah salah seorang diantara kalian selain telah ditentukan tempat tinggalnya di neraka atau di surga." Maka seseorang berujar; 'kalau begitu, kita bertawakkal saja ya Rasulullah? ' Nabi menjawab: "Jangan, beramallah, sebab semua orang telah dimudahkan, " kemudian beliau membaca ayat; 'Adapun orang yang memberikan hartanya lantas bertaqwa' (QS. Allail ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6605</td></tr><tr><td>Arabic No</td><td>6605</td></tr><tr><td>Reference</td><td>Book 82 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али передаёт: «Мы сидели вместе с Пророком ﷺ, а у него с собой была небольшая палка, которой он ковырял землю и сказал: “Нет никого среди вас, место которого в Аду или в Раю уже не было бы определено”. Один человек сказал: “Так не стоит ли нам (просто) положиться (на это), о Посланник Аллаха?” (Пророк ﷺ) сказал: “Нет! Трудитесь, ибо каждому будет облегчено [то, для чего он был создан]”. Затем Пророк Аллаха ﷺ прочитал: “Что касается того, кто отдавал, и был богобоязненным” (Сура «аль-Лейль», аят 5)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6605</td></tr><tr><td>Arabic No</td><td>6605</td></tr><tr><td>Reference</td><td>Book 82 Hadith 11</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas b. Malik :When the Messenger of Allah (ﷺ) proceeded before the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] dan [Ibnu Mauhib] sedangkan maksud haditsnya sama, keduanya berkata; telah menceritakan kepada kami [Al Mufadlal] dari ['Uqail] dari [Ibnu Syihab] dari [Anas bin Malik] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam berangkat safar sebelum matahari condong (ke barat), maka beliau mengakhirkan Dluhur hingga waktu Ashar, kemudian beliau singgah dan menjama' keduanya, apabila matahari mulai condong sebelum berangkat, maka beliau mengerjakan shalat Dluhur lalu beliau shallallahu 'alaihi wasallam berangkat." Abu Daud berkata; "Mufadlal adalah qadli (hakim) daerah Mesir, sedangkan orang yang di ijabahi do'anya adalah ibnu Fadlalah." Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Jabir bin Isma'il] dari ['Uqail] seperti hadits ini dengan sanadnya, katanya; "Kemudian beliau mengakhirkan waktu Maghrib hingga beliau menjama' shalat Isya' ketika mega merah telah hilang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1112) Sahih Muslim (704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1218</td></tr><tr><td>Arabic No</td><td>1218</td></tr><tr><td>Reference</td><td>Book 4 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что, когда Посланник Аллаха ﷺ отправлялся в путь до того, как солнце отклонялось от точки зенита, он откладывал полуденную молитву /зухр/ до времени послеполуденной /‘аср/, а потом останавливался и совершал обе молитвы, соединяя их. Если же он отправлялся в путь после того, как солнце отклонялось от точки зенита, он сразу совершал полуденную молитву /зухр/, после чего пускался в путь
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1112) Sahih Muslim (704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1218</td></tr><tr><td>Arabic No</td><td>1218</td></tr><tr><td>Reference</td><td>Book 4 Hadith 21</td></tr></tbody></table></div>
 

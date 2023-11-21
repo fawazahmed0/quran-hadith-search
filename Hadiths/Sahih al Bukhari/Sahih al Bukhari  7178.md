@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Zaid bin 'Abdullah bin 'Umar:Some people said to Ibn 'Umar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami ['Ashim bin Muhammad bin Zaid bin Abdullah bin Umar] dari [ayahnya], Beberapa orang berkata kepada Ibnu Umar; 'dahulu jika kami menemui penguasa kami, kami mengatakan sesuatu yang menyelisihi pembicaraan kami ketika kami telah meninggalkannya.' Maka [Ibnu Umar] berkata; "yang demikian kami anggap suatu kemunafikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7178</td></tr><tr><td>Arabic No</td><td>7178</td></tr><tr><td>Reference</td><td>Book 93 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) люди сказали (‘Абдуллах) ибн ‘Умару, да будет доволен Аллах им и его отцом: «Поистине, когда мы входим к нашим правителям, то говорим им не то, что говорим, когда выходим от них», — (на что) Ибн ‘Умару, да будет доволен Аллах им и его отцом, сказал: «Мы считали подобное лицемерием!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7178</td></tr><tr><td>Arabic No</td><td>7178</td></tr><tr><td>Reference</td><td>Book 93 Hadith 41</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (Allah be pleased with him) reported:I was sitting behind Abu Talha on the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Tsabit] dari [Anas] dia berkata; "Saya membonceng Abu Thalhah pada waktu perang Khaibar, sedangkan kakiku bersentuhan dengan kaki Rasulullah shallallahu 'alaihi wasallam." Anas melanjutkan; Kemudian kami mendatangi mereka (penduduk Khaibar) sebelum matahari terbit, sedangkan mereka (penduduknya) telah keluar ke jalan-jalan mereka dan ke tempat-tempat mereka bekerja, maka mereka berteriak; "Muhammad dan tentaranya telah datang!?." Anas melanjutkan; Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila siksaan itu turun di halaman mereka, maka amat buruklah pagi hari yang dialami oleh orang-orang yang beri peringatan itu." Anas melanjutkan; Kemudian Allah Azza Wa Jalla mengalahkan mereka, dan Dihyah menawan seorang budak perempuan yang cantik, Maka Rasulullah shallallahu 'alaihi wasallam membeli budak tersebut dengan tujuh sahaya, lalu beliau menyerahkannya kepada Ummu Sulaim supaya dia melayaninya dan mempersiapkannya. Tsabit berkata; Saya kira Anas berkata; Lalu dia menunggu masa iddah di rumahnya, dia adalah Shafiyah putri Huyay. Anas berkata; Kemudian Rasulullah shallallahu 'alaihi wasallam mengadakan walimah (pesta pernikahan) dengan kurma, susu kering dan minyak samin, lalu dibentangkannya tikar yang terbuat dari kulit di atas bumi, dan dihidangkannya susu kering dan minyak samin, maka orang-orang merasa kenyang dengannya. Anas berkata; Orang-orang sama berkata; "Kami tidak tahu, apakah beliau menikahinya atau hanya sekedar menjadikannya sebagai Ummu Walad (yaitu budak perempuan yang lahir dari hasil hubungan ibunya dan tuannya), sebagian mereka menjawab; "Jika beliau menutupinya (mengenakannya hijab), berarti dia adalah istrinya, tapi jika beliau tidak menutupinya, berarti statsusnya adalah Ummu Walad." Tatkala beliau hendak menaiki kendaraannya, beliau menutupi Shafiyah, kemudian dia duduk di belakang punggung kendaraannya, lantas orang-orang tahu bahwa beliau telah menikahinya. Ketika sudah dekat dengan Madinah, Rasulullah shallallahu 'alaihi wasallam mendahului kami. Anas berkata; Tiba-tiba unta beliau yang bernama Al 'Adlba' tergelincir, sehingga posisi Rasulullah shallallahu 'alaihi wasallam bergeser, dan (Shafiyah) pun terjatuh, lantas beliau bangun dan menutupi Shafiyah. Dan para wanita memanjangkan lehernya sambil mengatakan; "Semoga Allah menjauhkan wanita Yahudi ini." Tsabit berkata; Saya bertanya; "Wahai Abu Hamzah, apakah Rasulullah shallallahu 'alaihi wasallam telah menggaulinya?" Dia menjawab; "Demi Allah, beliau telah menggaulinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3500</td></tr><tr><td>Arabic No</td><td>1365.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3500</td></tr><tr><td>Arabic No</td><td>1365.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 102</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuDharr: The earth has been made for me purifying and as a mosque (pla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Jarir] dari [Al-A'masy] dari [Mujahid] dari [Ubaid bin Umair] dari [Abu Dzar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Telah dijadikan bumi ini sebagai tempat suci dan Masjid untukku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>489</td></tr><tr><td>Arabic No</td><td>489</td></tr><tr><td>Reference</td><td>Book 2 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр сказал: «Посланник Аллаха ﷺ сказал: “Вся земля сделана для меня чистой и местом поклонения /масджид/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>489</td></tr><tr><td>Arabic No</td><td>489</td></tr><tr><td>Reference</td><td>Book 2 Hadith 99</td></tr></tbody></table></div>
 

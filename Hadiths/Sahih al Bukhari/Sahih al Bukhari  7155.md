@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Qais bin Sa'd was to the Prophet (ﷺ) like a chief police officer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Khalid Adz Dzuhli] telah menceritakan kepada kami [Al Anshari, Muhammad bin Abdullah] mengatakan; telah menceritakan kepadaku [Ayahku] dari [Tsumamah] dari [Anas bin Malik], ia mengatakan, bahwasa Qais bin Sa'd pernah di hadapan Nabi shallallahu 'alaihi wasallam seperti halnya seorang ajudan dengan pemimpin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7155</td></tr><tr><td>Arabic No</td><td>7155</td></tr><tr><td>Reference</td><td>Book 93 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, сказал: «Поистине, Кайс ибн Са‘д занимал у Пророка ﷺ такое же положение, как военачальник у правителя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7155</td></tr><tr><td>Arabic No</td><td>7155</td></tr><tr><td>Reference</td><td>Book 93 Hadith 19</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: It is not allowable for a believer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah] dan [Ahmad bin Sa'id As Sarkhasi] bahwa [Abu Amir] mengabarkan kepada mereka, ia berkata; telah menceritakan kepada kami [Muhammad bin Hilal] ia berkata; telah menceritakan kepadaku [Bapakku] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak halal bagi seorang mukmin mendiamkan saudaranya sesama mukmin lebih dari tiga hari, jika lewat dari batas itu hendaklah ia menemui dan mengucapkan salam kepadanya, jika dia menjawab salam maka dia akan bergabung dalam mendapatkan pahala, tetapi jika tidak, maka dia kembali kepada dosa (mendiamkan)." Ahmad menambahkan, "dan seorang yang mengucapkan salam akan terbebas dari dosa mendiamkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4912</td></tr><tr><td>Arabic No</td><td>4912</td></tr><tr><td>Reference</td><td>Book 43 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4912</td></tr><tr><td>Arabic No</td><td>4912</td></tr><tr><td>Reference</td><td>Book 43 Hadith 140</td></tr></tbody></table></div>
 

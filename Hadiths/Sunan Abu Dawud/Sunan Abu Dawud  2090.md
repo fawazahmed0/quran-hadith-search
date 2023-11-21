@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas explained the Qur’anic verse It is not lawful for you forcibly to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit Al Marwazi], telah menceritakan kepadaku [Ali bin Husain bin Waqid] dari [ayahnya] dari [Yazid An Nahwi], dari [Ikrimah] dari [Ibnu Abbas], ia berkata; "Tidak halal bagi kalian untuk mewariskan wanita secara paksa, dan janganlah kamu menyusahkan mereka karena hendak mengambil kembali sebagian dari apa yang telah kamu berikan kepadanya, terkecuali bila mereka melakukan pekerjaan keji yang nyata." Yang demikian itu adalah bahwa seorang laki-laki mewarisi isteri kerabatnya, kemudian ia menyusahkannya hingga meninggal atau wanita tersebut mengembalikan kepadanya maharnya. Kemudian Allah menetapkan dari hal tersebut dan melarang dari hal tersebut. Telah menceritakan kepada kami [Ahmad bin Syabbuwaih Al Marwazi], telah menceritakan kepada kami [Abdullah bin Utsman] dari [Isa bin 'Ubaid] dari ['Ubaidullah] mantan budak Umar, dari [Adh Dhahhak], dengan makna yang sama. Ia berkata; kemudian Allah memberikan nasehat hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2090</td></tr><tr><td>Arabic No</td><td>2090</td></tr><tr><td>Reference</td><td>Book 12 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего «Вам не дозволено наследовать женщин против их воли. Не чините им препятствия, чтобы унести часть брачного дара, который вы им дали, если только они не совершили явной мерзости» (сура 4 «Женщины», аят 19): «Речь идёт о том случае, когда мужчина наследует женщину, которая была женой его родственника, и не позволяет ей выходить замуж до тех пор, пока она не умрёт или не отдаст ему свой брачный дар. Аллах постановил иначе и запретил поступать так»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2090</td></tr><tr><td>Arabic No</td><td>2090</td></tr><tr><td>Reference</td><td>Book 12 Hadith 45</td></tr></tbody></table></div>
 

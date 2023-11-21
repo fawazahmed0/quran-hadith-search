@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswer bin Makhrama:Subai'a Al-Aslamiya gave birth to a child a few 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] Telah menceritakan kepada kami [Malik] dari [Hisyam bin Urwah] dari [bapaknya] dari [Al Miswar bin Makhramah] bahwasanya; Subai'ah Al Aslamiyyah melahirkan beberapa hari setelah suaminya wafat, lalu ia pun menemui Nabi shallallahu 'alaihi wasallam dan meminta izin untuk menikah. Maka beliau pun mengizinkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5320</td></tr><tr><td>Arabic No</td><td>5320</td></tr><tr><td>Reference</td><td>Book 68 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мисвар ибн Махрама рассказывал, что Субай‘а аль-Аслямия родила через несколько дней после смерти мужа и пришла к Пророку ﷺ, чтобы спросить у него разрешения выйти замуж, и он разрешил ей выйти замуж
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5320</td></tr><tr><td>Arabic No</td><td>5320</td></tr><tr><td>Reference</td><td>Book 68 Hadith 69</td></tr></tbody></table></div>
 

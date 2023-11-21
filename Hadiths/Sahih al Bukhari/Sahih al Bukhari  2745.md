@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) 'Utba bin Abi Waqqas entrusted (his so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha, istri Nabi shallallahu 'alaihi wasallam] berkata: "Sesunguhnya 'Utbah bin Abi Waqosh telah berjanji kepada saudaranya Sa'ad bin Abi Waqosh bahwa anak dari walidah (budak perempuan) Zam'ah dariku maka ambillah". Ketika tahun penaklukan kota Makkah, Sa'ad mengambilnya. Saad berkata: "Dia adalah anak saudaraku yang telah berjanji kepadaku tentang anak ini". Maka 'Abdu bin Zam'ah berdiri seraya berkata: "Saudaraku dan anak dari budak perempuan bapakku dilahirkan di atas tempat tidurnya (dilahirkan dari hasil pernikahan yang sah dengan suaminya). Maka keduanya mengadukan perkara itu kepada Rasulullah shallallahu 'alaihi wasallam. Sa'ad berkata: "Wahai Rasulullah, dia adalah anak dari saudaraku yang telah berjanji kepadaku tentang anak ini". Kemudian 'Abdu bin Zam'ah berkata: "Saudaraku dan anak dari budak perempuan bapakku". Maka Rasulullah shallallahu 'alaihi wasallam berkata: "Dia itu menjadi milikmu wahai 'Abdu bin Zam'ah. Anak itu milik suami (yang menikah dengan sah) sedangkan untuk pezina baginya adalah batu (dirajam) ". Kemudian Beliau berkata kepada Saudah binti Zam'ah: "berhijablah (menutup diri) darinya" karena Beliau melihat adanya kemiripan anak tersebut dengan 'Utbah. Maka sejak itu pula ia tidak pernah melihat Saudah hingga meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2745</td></tr><tr><td>Arabic No</td><td>2745</td></tr><tr><td>Reference</td><td>Book 55 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, жена Пророка ﷺ сказала: «(В своё время) ‘Утба ибн Абу Ваккас дал своему брату, Са‘ду ибн Абу Ваккасу, поручение, (сказав:) “Сын невольницы(, хозяином которой является) Зам‘а, (рождён) от меня, возьми же его под свою (опеку)”. И в год завоевания Мекки Са‘д (ибн Абу Ваккас), взял его и сказал: “Он сын моего брата, поручившего мне (взять) его”. Тогда ‘Абд ибн Зам‘а встал и сказал: “Он мой брат и сын невольницы моего отца, рождённый на его постели”, после чего оба они отправились к Посланнику Аллаха ﷺ. Са‘д сказал: “О Посланник Аллаха, он сын моего брата, который поручил мне забрать его”, а ‘Абд бин Зам‘а сказал: “Он мой брат и сын невольницы моего отца”. (Выслушав их,) Посланник Аллаха ﷺ сказал: “Он твой, о ‘Абд бин Зам‘а. Ребёнок принадлежит постели, а прелюбодею — позор и лишения (прав на ребёнка)”. И потом Пророк ﷺ сказал Сауде бинт Зам‘а: “Закрывайся от него”, так как он увидел, что (юноша действительно) похож на ‘Утбу, и тот до самой своей смерти больше не увидел её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2745</td></tr><tr><td>Arabic No</td><td>2745</td></tr><tr><td>Reference</td><td>Book 55 Hadith 8</td></tr></tbody></table></div>
 

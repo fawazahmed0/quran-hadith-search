@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: AbulBakhtari said: I heard from a man a tradition 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin Marzuq], telah mengabarkan kepada kami [Syu'bah] dari ['Amr bin Murrah] dari [Abu Al Bakhtari], ia berkata; saya mendengar sebuah hadits dari [seorang laki-laki], dan hadits tersebut menarik bagiku. Kemudian aku katakan; tuliskan untukku! Kemudian ia datang dengan membawanya dalam keadaan tertulis dan mudah dibaca; Al Abbas dan Ali menemui Umar dan di sisinya terdapat Thalhah serta Az Zubair, Abdurrahman, dan Sa'd, dan keduanya sedang berselisih. Kemudian [Umar] berkata kepada Thalhah dan Az Zubair, Abdurrahman dan Sa'd; bukankah kalian mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam berkata: "Seluruh harta Nabi adalah sedekah, kecuali makanan yang diberikan kepada keluargannya dan pakaian yang diberikan kepada mereka. Sesungguhnya kami tidak diwarisi." Mereka berkata; benar. Umar berkata; dahulu Rasulullah shallallahu 'alaihi wasallam memberi nafkah keluarganya dari hartanya dan bersedekah dengan kelebihannya. Kemudian Rasulullah shallallahu 'alaihi wasallam meninggal dan Abu Bakr menjabat khalifah selama dua tahun, dan ia melakukan apa yang Rasulullah shallallahu 'alaihi wasallam lakukan. Kemudian ia menyebutkan sebagian dari hadits Malik bin Aus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2975</td></tr><tr><td>Arabic No</td><td>2975</td></tr><tr><td>Reference</td><td>Book 20 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу аль-Бахтари: «Я слышал историю от одного человека, и она понравилась мне. И я сказал: “Запиши её для меня”. И он принёс мне её записанной буквами с точками». (Там было записано), что аль-‘Аббас и ‘Али пришли к ‘Умару. А у него в это время находились Тальха, аз-Зубайр, ‘Абду-р-Рахман и Са‘д. Эти двое (аль-‘Аббас и ‘Али) пришли в качестве участников тяжбы. ‘Умар сказал Тальхе, аз-Зубайру, ‘Абду-р-Рахману и Са‘ду: «Разве вы не знаете, что Посланник Аллаха ﷺ сказал: “Всё имущество Пророка ﷺ является милостыней, за исключением пропитания и одежды для его семьи, и мы не оставляем наследства”?» Они ответили: «Да, знаем». Он сказал: «Посланник Аллаха ﷺ обеспечивал из этого имущества свою семью, а оставшееся раздавал в качестве милостыни. Затем Посланник Аллаха ﷺ скончался, и в течение двух лет этим имуществом распоряжался Абу Бакр, который поступал с ним так же, как поступал Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2975</td></tr><tr><td>Arabic No</td><td>2975</td></tr><tr><td>Reference</td><td>Book 20 Hadith 48</td></tr></tbody></table></div>
 

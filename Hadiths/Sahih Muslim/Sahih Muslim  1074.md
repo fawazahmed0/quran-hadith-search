@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:The Messenger of Allah (ﷺ) drew aside the curtain (of his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Abu Bakar bin Abi Syaibah] serta [Zuhair bin Harb] mereka berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] telah mengabarkan kepadaku [Sulaiman bin Suhaim] dari [Ibrahim bin Abdullah bin Ma'bad] dari [Bapaknya] dari [Ibnu Abbas] dia berkata, "Rasulullah Shallallahu'alaihiwasallam membuka tirai penutup, sedangkan manusia bershaf-shaf di belakang Abu Bakar, maka beliau bersabda, 'Wahai manusia, tidak tersisa dari pemberi kabar kenabian melainkan mimpi yang baik yang dilihat oleh seorang muslim atau diperlihatkan kepadanya. Ketahuilah, aku dilarang untuk membaca al-Qur'an dalam keadaan rukuk atau sujud. Adapun rukuk maka agungkanlah Rabb azza wa jalla, sedangkan sujud, maka berusahalah bersungguh-sungguh dalam doa, sehingga layak dikabulkan untukmu'." [Abu Bakar] berkata, telah menceritakan kepada kami [Sufyan] dari [Sulaiman] telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Ismail bin Ja'far] telah mengabarkan kepadaku [Sulaiman bin Suhaim] dari [Ibrahim bin Abdullah bin Ma'bad bin Abbas] dari [Bapaknya] dari [Abdullah bin Abbas] dia berkata, "Rasulullah Shallallahu'alaihiwasallam membuka tirai penutup, sedangkan kepalanya diikat, itu terjadi ketika sakitnya yang menyebabkan wafatnya, lalu beliau bersabda, 'Ya Allah, apakah aku telah menyampaikan, -beliau ulang tiga kali- sesungguhnya tidak tersisa dari pemberi kabar kenabian melainkan mimpi yang baik, yang dilihat oleh seorang muslim atau diperlihatkan kepadanya'. Kemudian beliau menyebutkan seperti hadits Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1074</td></tr><tr><td>Arabic No</td><td>479.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «(Однажды) Посланник Аллаха ﷺ отодвинул занавеску, (которая висела на двери его комнаты, примыкавшей к мечети), в то время когда люди рядами стояли позади Абу Бакра , и сказал: “О люди, поистине, не осталось от радостных вестей пророчества ничего, кроме благих сновидений, которые будет видеть мусульманин (или: будут ему показаны). Поистине, мне было запрещено читать Коран во время совершения поясных и земных поклонов. Что касается поясного поклона, то, (совершая его), возвеличивайте Великого и Могучего Господа, что же касается земного поклона, то, (совершая его), старайтесь как можно чаще обращаться к (Господу) с мольбами, ибо, (находясь в подобном положении), вы (больше) заслуживаете ответа (на ваши мольбы)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1074</td></tr><tr><td>Arabic No</td><td>479.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 236</td></tr></tbody></table></div>
 

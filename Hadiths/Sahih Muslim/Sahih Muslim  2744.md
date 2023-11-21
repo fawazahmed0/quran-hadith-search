@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mu'adha al-'Adawiyya reported that she asked 'A'isha, the wife of the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abdul Warits] dari [Yazid Ar Risyk] ia berkata, telah menceritakan kepadaku [Mu'adz Al 'Adawiyah] bahwa ia bertanya kepada ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam; "Apakah setiap bulan Rasulullah Shallallahu'alaihiwasallam selalu berpuasa tiga hari? Ia menjawab: Ya. Aku bertanya lagi kepadanya: Pada tanggal berapa beliau berpuasa? Ia menjawab: Beliau tidak terlalu mempersoalkan pada hari apa saja beliau berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2744</td></tr><tr><td>Arabic No</td><td>1160</td></tr><tr><td>Reference</td><td>Book 13 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2744</td></tr><tr><td>Arabic No</td><td>1160</td></tr><tr><td>Reference</td><td>Book 13 Hadith 250</td></tr></tbody></table></div>
 

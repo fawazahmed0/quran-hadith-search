@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:The Prophet (ﷺ) heard the voices of some people quarreling 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepadaku [Urwah bin Zubair] bahwasanya [Zainab binti Abu Salamah] mengabarkannya dari ibunya, [Ummu Salamah] mengatakan; Pernah Nabi shallallahu 'alaihi wasallam mendengar gaduh percekcokan di pintunya, lantas beliau menemui mereka dengan mengatakan; "Saya hanyalah manusia biasa seperti kalian, dan sengketa diadukan kepadaku, dan bisa jadi diantara kalian ada yang lebih pandai bersilat lidah daripada yang lain sehingga aku memenangkannya dan aku mengira dirinya yang benar, maka siapa yang kumenangkan dengan melanggar hak muslim lainnya, itu adalah sundutan api, silahkan ia mengambil atau tinggalkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7185</td></tr><tr><td>Arabic No</td><td>7185</td></tr><tr><td>Reference</td><td>Book 93 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм Саляма, да будет доволен ею Аллах, сказала: «(Однажды) Пророк ﷺ услышал шум спора у дверей своей комнаты, вышел к спорившим и сказал: “Поистине, я — только человек, а (люди) приходят ко мне (со своими) спорами. И может оказаться так, что некоторые будут более красноречивее, чем другие, и я посчитаю, что он сказал правду, и вынесу решение в его пользу на основании этого. Однако если я (по ошибке) решу отдать ему то, что по праву принадлежит (другому) мусульманину, это будет не чем иным, как частью (пламени) ада, так пусть он (сам) возьмёт это или откажется от этого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7185</td></tr><tr><td>Arabic No</td><td>7185</td></tr><tr><td>Reference</td><td>Book 93 Hadith 47</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Hasan Al-Basri:By Allah, Al-Hasan bin 'Ali led large battalions like
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Sufyan] dari [Abu Musa] berkata aku mendengar [Al Hasan] berkata; "Demi Allah, Al Hasan bin 'Ali menghadap Mu'awiyah dengan membawa pasukan yang jumlahnya hampir sebanyak gunung lalu 'Amru bin Al 'Ash berkata; "Sungguh aku melihat pasukan yang tidak akan berpaling melainkan akan memerangi lawannya". Maka Mu'awiyah berkata kepadanya, demi Allah dia adalah orang terbaik dari dua orang yang ada, maksudnya 'Amru: "Seandainya mereka berperang satu sama lain yang ini menghadapi mereka dan mereka menghadapi yang ini lalu siapa orang yang akan mengurus mereka dan siapa yang akan menanggung istri-istri mereka dan siapa pula yang akan mengurus sawah ladang mereka". Maka Mu'awiyah mengutus dua orang laki-laki dari Quraisy dari suku Bani 'Abdi Syams 'Abdur Rahman bin Samrah dan 'Abdullah bin 'Amir bin Kuraiz seraya berkata; "Pergilah kalian berdua menemui orang ini dan tawarkan kepadanya dan katakan dan mintalah kepadanya. Maka dua orang itu menemuinya dan masuk lalu berbicara dan berkata serta meminta. Maka Al Hasan bin 'Ali berkata kepada keduanya; "Kami ini Banu 'Abdul Muthallib dimana kami telah mendapatkan harta benda dan sesungguhnya ummat ini sudah saling berperang dengan menunmpahkan darah-darah merka". Kedua utusan berkata; "Sesungguhnya dia menawarkan kepada anda begini begini dan mencari penyelesaian serta meminta kepada anda". Dia berkata; "Siapa yang bisa membantuku dalam perkara ini?" Kedua utusan berkata; "Kami yang dapat membantu anda untuk menyampaikan kepadanya". Maka Al Hasan tidak meminta kepada keduanya melainkan keduanya berkata; "Kamilah yang akan membantu anda dan dia mau berdamai". Maka Al Hasan berkata; "Sungguh aku telah mendengar Abu Bakrah berkata; "Aku melihat Rasulullah shallallahu 'alaihi wasallam di atas mimbar sedangkan Al Hasan bin 'Ali ada di samping beliau sementara beliau sesekali memandang ke hadapan orang banyak dan sesekali memandang kepadanya lalu bersabda: "Sesungguhnya anakku ini adalah sayyid (pemimpin) dan semoga Allah akan mendamaikan dua kelompok besar kaum Muslimin lewat tangannya". Berkata Abu 'Abdullah Al Bukhariy; berkata kepadaku ['Ali bin 'Abdullah]; "Sesungguhnya riwayat ini kami tetapkan berdasarkan apa yang didengar Al Hasan dari Abu Bakrah dengan lafazh hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2704</td></tr><tr><td>Arabic No</td><td>2704</td></tr><tr><td>Reference</td><td>Book 53 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, сказал: «Я видел (находившегося) на минбаре Посланника Аллаха ﷺ рядом с которым (стоял) аль-Хасан ибн ‘Али, и (Пророк ﷺ) смотрел то на людей, то на (аль-Хасана), говоря: “Поистине, этот мой сын является саййидом /господином/, и может случиться так, что через него Аллах приведёт к примирению две большие группы мусульман”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2704</td></tr><tr><td>Arabic No</td><td>2704</td></tr><tr><td>Reference</td><td>Book 53 Hadith 14</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:The Apostle (ﷺ) woke up at night; relieved himself, and th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Salamah bin Kuhail] dari [Kuraib] dari [Ibnu Abbas], bahwa Nabi shallallahu 'alaihi wasallam pernah bangun di suatu malam untuk buang hajat, lalu beliau membasuh wajahnya dan mencuci tangannya kemudian tidur lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>698</td></tr><tr><td>Arabic No</td><td>304</td></tr><tr><td>Reference</td><td>Book 3 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что Пророк ﷺ поднялся ночью, удовлетворил свою нужду, омыл лицо и руки, а потом снова лёг спать
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>698</td></tr><tr><td>Arabic No</td><td>304</td></tr><tr><td>Reference</td><td>Book 3 Hadith 20</td></tr></tbody></table></div>
 

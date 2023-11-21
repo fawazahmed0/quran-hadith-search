@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Two men came from the east and delivered speeches, and the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] Telah menceritakan kepada kami [Sufyan] dari [Zaid bin Aslam] ia berkata; Aku mendengar [Ibnu Umar] berkata; Ada dua orang laki-laki dari Masyriq, lalu keduanya pun berkhuthbah. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Diantara lafadz yang indah terdapat apa yang disebut sihir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>5146</td></tr><tr><td>Reference</td><td>Book 67 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар рассказывал: «(Как-то раз) с востока пришли два человека и обратились к людям со своими речами, тогда Пророк ﷺ сказал: “Поистине, в красноречии есть колдовство! (или: Поистине, красноречие может оказывать такое же воздействие, как и колдовство)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>5146</td></tr><tr><td>Reference</td><td>Book 67 Hadith 81</td></tr></tbody></table></div>
 

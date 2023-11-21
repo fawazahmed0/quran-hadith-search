@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas bin Malik said “We came to Khaibar. We bestowed the conquest of fortress 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Ya'qub bin Abdurrahman Az Zuhri] dari ['Amr bin Abu 'Amr] dari [Anas bin Malik], ia berkata; kami datang ke Khaibar, kemudian tatkala Allah ta'ala telah menaklukkan benteng tersebut diceritakan kepada Rasulullah shallallahu 'alaihi wasallam kecantikan Shafiyyah binti Huyai, sementara suaminya telah terbunuh. Dan ia adalah seorang pengantin. Kemudian Rasulullah shallallahu 'alaihi wasallam memilihnya untuk dirinya, kemudian beliau keluar bersamanya hingga setelah kami sampai di Suddu Ash Shahba' Shafiyyah telah keluar dari 'iddah, kemudian beliau mencampurinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2235)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2995</td></tr><tr><td>Arabic No</td><td>2995</td></tr><tr><td>Reference</td><td>Book 20 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах: «Мы прибыли в Хайбар, и, когда Всевышний Аллах предал крепость в наши руки, Посланнику Аллаха ﷺ рассказали о красоте Сафиййи бинт Хуяйй. Она была молода, а её муж погиб. И Посланник Аллаха ﷺ избрал её для себя. Он отправился в путь вместе с ней, и, когда они добрались до Судд ас-Сахба (, местности, которая находится между Меккой и Мединой), она очистилась от очередной менструации и он начал супружескую жизнь с ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2235)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2995</td></tr><tr><td>Arabic No</td><td>2995</td></tr><tr><td>Reference</td><td>Book 20 Hadith 68</td></tr></tbody></table></div>
 

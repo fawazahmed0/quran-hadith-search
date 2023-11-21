@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman reported on the authority of his mother's sister Umm Salama who sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zaid bin Yazid Abu Ma'an Ar Raqqasyi]; Telah menceritakan kepada kami [Abu 'Ashim] dari ['Utsman] yaitu Ibnu Murrah; Telah menceritakan kepada kami ['Abdullah bin 'Abdurrahman]; dari bibinya [Ummu Salamah] dia berkata; Rasulullah shallallahu 'alaihi wasallam barsabda: "Barangsiapa minum dengan bejana emas atau perak, maka sebenarnya dia sedang menggodok api neraka di dalam perutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5387</td></tr><tr><td>Arabic No</td><td>2065.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5387</td></tr><tr><td>Arabic No</td><td>2065.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 3</td></tr></tbody></table></div>
 

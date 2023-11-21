@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:We have been powerful since 'Umar embraced Islam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada kami [Yahya] dari [Isma'il] telah bercerita kepada kami [Qais] berkata, ['Abdullah bin Mas'ud] berkata; "Kami senantiasa mulia sejak 'Umar masuk Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3684</td></tr><tr><td>Arabic No</td><td>3684</td></tr><tr><td>Reference</td><td>Book 62 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Мы не переставали быть могущественными с тех пор, как ‘Умар принял ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3684</td></tr><tr><td>Arabic No</td><td>3684</td></tr><tr><td>Reference</td><td>Book 62 Hadith 34</td></tr></tbody></table></div>
 

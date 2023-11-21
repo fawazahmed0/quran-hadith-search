@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar (Allah be pleased with them) reported Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Ibnu Abi Umar] keduanya dari [Sufyan]. [Zuhair] berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ibnu Juraij] dia berkata; [Nafi'] mendikteku, dia mendengar [Abdullah bin Umar] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika dua orang telah melakukan transaksi jual beli, maka salah satu dari keduanya boleh melakukan khiyar selagi belum berpisah, atau keduanya boleh melakukan khiyar (dari awal), jika keduanya telah menyepakati khiyar tersebut, maka jual beli telah sah." Ibnu Abu Umar menambahkan dalam riwayatnya; Nafi' mengatakan; "Apabila Ibnu Umar bertransaksi dengan seseorang, kemudian dia tidak mau membatalkan transaksinya, maka berdiri dan berjalan pelan-pelan lalu kembali kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3856</td></tr><tr><td>Arabic No</td><td>1531.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3856</td></tr><tr><td>Arabic No</td><td>1531.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 55</td></tr></tbody></table></div>
 

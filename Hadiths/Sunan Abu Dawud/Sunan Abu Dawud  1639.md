@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: The Prophet (ﷺ) said: Acts of begging are lacerat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hafsh bin Umar An Namari], telah menceritakan kepada Kami [Syu'bah] dari [Abdul Malik bin 'Umair] dari [Zaid bin 'Uqbah Al Fazari] dari [Samurah] dari Nabi shalla Allahu 'alaihi wa sallam beliau bersabda: "Sesungguhnya meminta-minta itu perbuatan buruk, dengannya seseorang mencoreng wajahnya, barangsiapa yang mau maka ia biarkan coreng di wajahnya dan barangsiapa yang mau maka ia tinggalkan, kecuali jika seseorang meminta kepada pemimpin atau meminta sesuatu yang harus ia dapatkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 9 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Самура [ибн Джундуб], да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Обращения к людям с просьбами отметины на лице человека, и кто желает, может оставить их на своём лице, а кто желает, может убрать их. Исключением является тот случай, когда человек обращается с просьбой к обладающему властью или просит о том, без чего он действительно не может обойтись»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 9 Hadith 84</td></tr></tbody></table></div>
 

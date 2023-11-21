@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr b. al-Sharid quoted his father al-Sharid b. Suwaid as saying:The Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Bahr] berkata, telah menceritakan kepada kami [Isa bin Yunus] berkata, telah menceritakan kepada kami [Ibnu Juraij] dari [Ibrahim bin Maisarah] dari [Amru bin Asy Syarid] dari bapaknya [Asy Syarid bin Suwaid] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melewatiku saat aku duduk seperti ini; aku meletakkan tangan kiriku di belakang punggung, lalu aku bersandar dengannya. Beliau lantas bersabda: "Apakah kamu ingin duduk seperti duduknya orang-orang yang dimurkai (Yahudi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аш-Ширрид бин Сувайд, да будет доволен им Аллах, сказал: (Как-то раз когда) я сидел в такой (позе, а именно) заложив левую руку за спину и опираясь на основание большого пальца, Посланник Аллаха ﷺ проходивший мимо меня, сказал: «Неужели тебе (нравится) сидеть так, как сидят находящиеся под гневом (Аллаха)?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
 

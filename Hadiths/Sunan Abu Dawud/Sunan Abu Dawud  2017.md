@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said “When Allah, the Exalted, granted the conquest of Makkah to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Al Walid bin Muslim], telah menceritakan kepada kami [Al Auza'i], telah menceritakan kepadaku [Yahya bin Abu Katsir] dari [Abu Salamah], dari [Abu Hurairah], ia berkata; tatkala Allah Ta'ala menaklukkan Mekkah melalui Rasulullah shallallahu 'alaihi wasallam, beliau berdiri diantara mereka lalu memuji Allah kemudian berkata: "Sesungguhnya Allah telah menahan gajah dari Ka'bah, dan Allah menguasakan Ka'bah kepada rasulNya serta orang-orang mukmin. Sesungguhnya hal itu dihalalkan bagiku sesaat pada waktu siang, kemudian haram hingga hari Kiamat, tidak boleh pohonnya ditebang, tidak boleh hewan buruannya diusir, dan tidak halal barang temuannya kecuali bagi orang yang hendak mengumumkan." Kemudian Abbas berkata; wahai Rasulullah, kecuali idzkhir, karena tanaman tersebut untuk kuburan dan rumah kami. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Kecuali idzkhir." Abu Daud berkata; dan [Ibnu Al Mushthafa] menambahkan padanya dari [Al Walid]; kemudian Abu Syah yaitu seorang laki-laki dari penduduk Yaman berdiri dan berkata; wahai Rasulullah, tuliskan untukku! Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Tuliskan untuk Abu Syah!" Aku katakan kepada Al Auza'i; apakah ucapan Rasulullah shallallahu 'alaihi wasallam: "Tuliskan untuk Abu Syah!" Ia berkata; khutbah yang ia dengar dari Rasulullah shallallahu 'alaihi wasallam. Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Mujahid] dari [Thawus] dari [Ibnu Abbas] mengenai kisah ini, ia berkata; dan tidak boleh dipotong tanamannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2434) Sahih Muslim (1355)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>2017</td></tr><tr><td>Reference</td><td>Book 11 Hadith 297</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт: «Когда Всевышний Аллах даровал Своему Посланнику ﷺ победу (в день покорении Мекки), он обратился к людям с речью. Воздав хвалу Аллаху, Пророк ﷺ сказал: “Поистине, Аллах не допустил к Мекке слона, однако Он дал власть над ней Посланнику Аллаха и верующим. Поистине, для меня это [cражение в Мекке] стало дозволенным лишь на определённое время в течение дня, а сейчас Мекка, несомненно, снова является заповедной территорией, где нельзя вырубать деревья, вспугивать дичь и подбирать найденное, если только человек не делает это для того, чтобы объявить о своей находке людям”». В это время аль-‘Аббас сказал: «О Посланник Аллаха! Пусть этот запрет не распространяется на душистый тростник, который мы используем для наших могил и наших домов». Посланник Аллаха ﷺ сказал: «Кроме душистого тростника». Ибн аль-Мусаффа передаёт от аль-Валида добавление: «И тогда поднялся Абу Шах из числа жителей Йемена и сказал: “О Посланник Аллаха! Запишите для меня”. Посланник Аллаха ﷺ сказал: “Запишите для Абу Шаха”». Передатчик сказал: «Я спросил аль-Авзаи: “А о чём эти слова: ‹Запишите для Абу Шаха›?” Он ответил: “Речь идёт о проповеди, которую (Абу Шах) слышал от Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2434) Sahih Muslim (1355)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>2017</td></tr><tr><td>Reference</td><td>Book 11 Hadith 297</td></tr></tbody></table></div>
 

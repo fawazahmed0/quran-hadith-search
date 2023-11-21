@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), Zaynab s'appelait "Barra" (c.-à-d.,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid]; Telah menceritakan kepada kami [Hasyim bin Al Qasim]; Telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Muhammad bin 'Amru bin 'Atha] dia berkata; "Aku menamai anak perempuanku 'Barrah'. Maka [Zainab binti Abu Salamah] berkata kepadaku; 'Rasulullah shallallahu 'alaihi wasallam telah melarang memberi nama anak dengan nama ini. Dahulu namaku pun Barrah, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: 'Janganlah kamu menganggap dirimu telah suci, Allah Ta'ala-lah yang lebih tahu siapa saja sesungguhnya orang yang baik atau suci di antara kamu.' Para sahabat bertanya; 'Lalu nama apakah yang harus kami berikan kepadanya? ' beliau menjawab: 'Namai dia Zainab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5609</td></tr><tr><td>Arabic No</td><td>2142.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухаммад ибн ‘Амр ибн ‘Ата сказал: «Я назвал свою дочь Барра (благочестивая), но Зайнаб бинт Абу Саляма сказала мне: “Посланник Аллаха ﷺ запретил давать это имя. Меня тоже звали Барра, но Посланник Аллаха ﷺ сказал: ‹Не восхваляйте самих себя, Аллах лучше знает, кто из вас благочестивый›, тогда люди спросили: ‹Как же нам назвать её?› Он сказал: ‹Назовите её Зайнаб›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5609</td></tr><tr><td>Arabic No</td><td>2142.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 24</td></tr></tbody></table></div>
 

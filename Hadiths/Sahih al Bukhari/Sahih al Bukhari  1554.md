@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Whenever Ibn 'Umar intended to go to Mecca he used to oil himself
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Abu Ar-Rabi'] telah menceritakan kepada kami [Filaih] dari [Nafi'] berkata; "Adalah [Ibnu 'Umar radliallahu 'anhuma] apabila hendak keluar menuju Makkah (untuk berhajji) dia memakai pakaian yang tidak menggunakan wewangian kemudian memasuki masjid Dzul Halaifah lalu shalat kemudian menaiki tunggangannya. Dan apabila tunggangannya sudah berdiri tegak dia memulai ihram kemudian berkata: "Beginilah aku melihat Nabi shallallahu 'alaihi wasallam melaksanakannya" (memulai ihram untuk hajji)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1554</td></tr><tr><td>Arabic No</td><td>1554</td></tr><tr><td>Reference</td><td>Book 25 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ сказал: «Когда Ибн ‘Умар, да будет доволен Аллах им и его отцом, намеревался отправится в Мекку, он наносил на свои волосы масло, не имеющее аромата, затем в мечети в Зуль-Хулейфе он совершал молитву, затем садился верхом и, когда его верблюд поднимался на ноги с ним, он входил в состояние ихрама. Затем он сказал: “Я видел как Пророк ﷺ делал так же”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1554</td></tr><tr><td>Arabic No</td><td>1554</td></tr><tr><td>Reference</td><td>Book 25 Hadith 40</td></tr></tbody></table></div>
 

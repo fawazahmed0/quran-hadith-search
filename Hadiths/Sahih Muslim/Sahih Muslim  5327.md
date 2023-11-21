@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik rdported that a tailor invited Allah's Messenger (ﷺ) to a feast.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala' Abu Kuraib], Telah menceritakan kepada kami [Abu Usamah] dari [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Anas] dia berkata; "Seseorang mengundang Rasulullah shallallahu 'alaihi wasallam, lalu aku ikut bersama beliau. Kemudian dihidangkan kepada beliau kuah yang berisi labu. Rasulullah shallallahu 'alaihi wasallam makan dengan kuah labu tersebut dan beliau menyukainya. Anas berkata; 'Ketika aku melihat demikan, aku tidak memakannya, aku berikan kepada Rasulullah shallallahu 'alaihi wasallam.' Anas berkata; 'Setelah itu aku selalu menyukai labu.' Dan Telah menceritakan kepadaku [Hajjaj bin As Syaa'ir] dan [Abad bin Humaid] -semuanya- dari [Abdurrazzaq], telah mengabarkan kepada kami [Ma'mar] dari [Tsabit Al Bunani] dan ['Ashim Al Ahwal] dari [Anas bin Malik] bahwa seorang penjahit (pakaian) mengundang Rasulullah shallallahu 'alaihi wasallam untuk makan. Di dalamnya ada tambahan, Tsabit berkata; Aku mendengar Anas berkata; 'Setelah itu, tidak dibuatkan untukku makanan yang memungkinkan ada labunya melainkan pasti dibuatkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5327</td></tr><tr><td>Arabic No</td><td>2041.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 201</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5327</td></tr><tr><td>Arabic No</td><td>2041.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 201</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:That he heard the Prophet (ﷺ) when somebody menti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] telah menceritakan kepada kami [Ibnu Al Hadi] dari [Abdullah bin Khabbab] dari [Abu Sa'id Al Khudri] radliallahu 'anhu, bahwa dia mendengar Nabi shallallahu 'alaihi wasallam ketika beliau bercerita di sampingnya, beliau menyebutkan tentang pamannya (Abu Thalib). Beliau berkata: "Semoga syafa'atku bermanfaat baginya pada hari qiyamat". Maka dengan syaa'at beliau itu, Abu Thalib berada di tepian neraka dimana air neraka (yang mendidih) mencapai kedua mata kakinya dan membuat bergolak otaknya". Telah menceritakan kepada kami [Ibrahim bin Hamzah] telah menceritakan kepada kami [Ibnu Abu Hazim] dan [ad Darawardi] dari [Yazid] dengan lafazh seperti hadits ini dan berkata; "Air neraka itu mendidihkan selaput otaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3885</td></tr><tr><td>Arabic No</td><td>3885</td></tr><tr><td>Reference</td><td>Book 63 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что он слышал, что, когда в присутствии Пророка ﷺ кто-нибудь вспоминал о его дяде (Абу Талибе, Пророк ﷺ) говорил: «Может быть, моё заступничество пойдёт ему на пользу в День воскресения, и поместят его в верхний слой огня, который будет доходить ему (только) до щиколоток, из-за чего мозги его станут кипеть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3885</td></tr><tr><td>Arabic No</td><td>3885</td></tr><tr><td>Reference</td><td>Book 63 Hadith 110</td></tr></tbody></table></div>
 

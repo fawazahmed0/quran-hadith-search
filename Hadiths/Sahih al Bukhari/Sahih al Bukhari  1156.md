@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar said, "In the lifetime of the Prophet (ﷺ) I dreamt th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata: "Pada zaman Nabi shallallahu 'alaihi wasallam aku pernah bermimpi, ditanganku ada sehelai kain sutera dan seakan tidaklah aku menginginkan satu tempat di surga kecuali akan segera nampak buatku. Aku juga mengalami mimpi yang lain, aku melihat dua malaikat yang membawaku ke dalam neraka, disana keduanya ditemui oleh malaikat yang lain seraya berkata; "Jangan kamu takut, tolong biarkan orang ini leluasa". Kemudian [Hafshah] menceritakan salah satu mimpiku itu kepada Nabi shallallahu 'alaihi wasallam. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh 'Abdullah menjadi orang yang paling berbahagia jika mau shalat malam". 'Abdullah radliallahu 'anhu adalah orang yang seantiasa mendirikan shalat malam sementara para sahabat selalu menceritakan kepada Nabi shallallahu 'alaihi wasallam tentang mimpi-mimpi mereka bahwa pelaksanaan Lailatul Qadar terjadi pada malam ketujuh dari sepuluh malam yang akhir, maka Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh aku melihat bahwa mimpi kalian benar bahwa Lailatul Qadar terjadi pada sepuluh malam yang akhir. Maka siapa yang mau mencari Lailatul Qadar, carilah pada sepuluh malam yang akhir (dari Romadhan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1156</td></tr><tr><td>Arabic No</td><td>1156</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Однажды) при жизни Пророка ﷺ я увидел во сне, что держу в руках кусок плотного шёлка и что какого бы места в раю я ни пожелал, этот кусок летел туда (вместе со мной). И я увидел, как двое (ангелов) явились ко мне, желая привести меня к огню, но их повстречал (другой) ангел, который сказал: „Не бойся! Оставьте его!“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1156</td></tr><tr><td>Arabic No</td><td>1156</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

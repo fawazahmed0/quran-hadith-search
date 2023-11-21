@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Uthman:I heard from Sa'd, the first man who has thrown an arrow in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] Telah menceritakan kepada kami [Ghundar] dari [Syu'bah] dari ['Ashim] katanya; Aku mendengar [Abu Usman] berkata; aku mendengar [Sa'ad] -yang ia adalah sahabat pertama-tama yang melesakkan panah fii sabilillah- dan [Abu Bakrah] yang ketika itu ia mengepung benteng Thaif bersama pasukan sahabat. Lantas menemui nabi shallallahu 'alaihi wasallam dan keduanya berujar; "Aku dengar Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang mengaku kepada selain ayahnya padahal ia tahu, maka surga haram baginya. Kata [Hisyam], Telah mengabarkan kepada kami [Ma'mar] dari ['Ashim] dari [Abu Aliyah] atau [Abu Utsman An Nahdi] katanya, aku mendengar [Sa'd] dan [Abu Bakrah] dari Nabi shallallahu 'alaihi wasallam. Kata [Ashim] saya bekomentar; Sudah ada dua orang memberi kesaksian bagimu (Abu Aliyah atau Abu Utsman), cukuplah keduanya sebagai saksi. Kata (Abu Aliyah atau Abu Utsman) "Betul", satunya adalah sahabat pertama-tama yang membidikan panah fi sabilillah dan kedua adalah sahabat yang termasuk dari orang ketiga diantara dua puluh tiga sahabat yang pulang dari Thaif
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4326</td></tr><tr><td>Arabic No</td><td>4326</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘да и Абу Бакры, да будет доволен Аллах ими обоими, что они слышали, как Пророк ﷺ сказал: «Для того, кто будет называть себя сыном не своего отца, зная (об этом), Рай станет запретным».\nВ другой версии (этого хадиса сообщается, что) один из них был первым выпустившим стрелу из лука на пути Аллаха, что же касается другого, то (во время осады) Таифа он вместе с двадцатью двумя (другими людьми перелез через городскую стену) и явился к Пророку ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4326</td></tr><tr><td>Arabic No</td><td>4326</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

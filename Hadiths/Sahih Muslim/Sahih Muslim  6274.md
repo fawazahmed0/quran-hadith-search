@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ismail reported:I said to 'Abdullah b. Abi Aufa: Did Allah's Messenger (ﷺ) giv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdillah bin Numair]; Telah menceritakan kepada kami [Bapakku] dan [Muhammad bin Bisyr Al 'Abdi] dari [Isma'il] dia berkata; Aku bertanya kepada [Abdullah bin Abu Aufa]; "Apakah Rasulullah shallallahu 'alaihi wasallam memberi kabar gembira kepada Khadijah dengan sebuah rumah di surga untuknya? Dia menjawab; 'Ya'. Beliau memberi kabar gembira kepadanya dengan sebuah rumah di surga yang terbuat dari permata, di dalamnya tidak ada kebisingan dan kepayahan.' Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Waki']; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Al Mu'tamir bin Sulaiman] dan [Jarir]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] seluruhnya dari [Isma'il bin Abu Khalid] dari [Ibnu Abu Aufa] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6274</td></tr><tr><td>Arabic No</td><td>2433.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6274</td></tr><tr><td>Arabic No</td><td>2433.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 104</td></tr></tbody></table></div>
 

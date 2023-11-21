@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas bin Malik said “The Apostle of Allaah(ﷺ) entered Makkah in the year of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Ibnu Syihab] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam memasuki Mekkah pada saat penaklukan Mekkah, dan beliau memakai penutup kepala. Kemudian tatkala beliau melepasnya terdapat seorang laki-laki yang datang kepada beliau dan berkata; Ibnu Khathal bergantungan pada tabir Ka'bah. Lalu beliau berkata: "Bunuhlah dia!" Abu Daud berkata; Ibnu Khathal namanya adalah Abdullah, dan Abu Barzah Al Aslami adalah yang membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3044) Sahih Muslim (1357)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>2685</td></tr><tr><td>Reference</td><td>Book 15 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3044) Sahih Muslim (1357)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>2685</td></tr><tr><td>Reference</td><td>Book 15 Hadith 209</td></tr></tbody></table></div>
 

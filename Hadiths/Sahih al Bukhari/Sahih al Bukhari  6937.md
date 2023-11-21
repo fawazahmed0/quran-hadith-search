@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When the Verse:--'Those who believe and did not confuse their
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] Telah mengabarkan kepada kami [Waki'] -lewat jalur periwayatan lain-Telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Ibrahim] dari [Alqomah] dari ['Abdullah] radliallahu 'anhu mengatakan; tatkala turun ayat ini; 'Sesungguhnya orang yang beriman dan tidak mencampuradukkan keimanan mereka dengan kezaliman' (QS.Luqman 82), ayat ini sangat menggusarkan para sahabat Nabi shallallahu 'alaihi wasallam, sehingga mereka bertanya; 'Siapa diantara kami yang tidak melakukan kezaliman terhadap dirinya sendiri? ' lantas Rasulullah Shallallahu'alaihiwasallam bersabda: "Bukan seperti yang kalian sangka, hanyasanya yang dimaksudkan adalah seperti ucapan Luqman kepada anaknya; 'Wahai anakku, janganlah engkau menyekutukan Allah, sebab menyekutukan Allah adalah kezhaliman yang besar" (QS.Luqman)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6937</td></tr><tr><td>Arabic No</td><td>6937</td></tr><tr><td>Reference</td><td>Book 88 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Когда был ниспослан (аят, в котором сказано): “Те, которые уверовали и не облекли свою веру в несправедливость…“ (сура “аль-Анам”, аят 82), сподвижникам Пророка ﷺ стало тяжело (по причине этих слов), и они сказали: “А кто же из нас не поступал несправедливо?” Посланник Аллаха ﷺ ответил: “Это не то, о чём вы думаете, однако это подобно тому, что Лукман сказал своему сыну: “О сын мой! Не приобщай к Аллаху сотоварищей, ибо многобожие является великой несправедливостью” (сура “Лукман”, аят 13)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6937</td></tr><tr><td>Arabic No</td><td>6937</td></tr><tr><td>Reference</td><td>Book 88 Hadith 19</td></tr></tbody></table></div>
 

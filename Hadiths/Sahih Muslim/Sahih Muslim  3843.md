@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported Allah's Messenger (ﷺ) as sayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Ubaidillah]. Dan dari jalur lain telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] dan lafazhny dari dia, telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwasannya Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa yang membeli makanan, maka janganlah ia menjualnya kembali sehingga ia memilikinya secara sempurna." Ibnu Umar berkata; "Kami pernah membeli makanan langsung dari rombongan dagang secara acak (tanpa ditakar), maka setelah itu Rasulullah shallallahu 'alaihi wasallam melarang kami menjualnya hingga bahan makanan tersebut dipindahklan dari tempat pembelian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3843</td></tr><tr><td>Arabic No</td><td>1526.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3843</td></tr><tr><td>Arabic No</td><td>1526.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 43</td></tr></tbody></table></div>
 

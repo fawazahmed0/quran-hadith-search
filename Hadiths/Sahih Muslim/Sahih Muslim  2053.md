@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), Quand quand l'Envoyé de Di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] mereka berkata, telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Dawud bin Qais] dari [Iyadl bin Abdullah bin Sa'd] dari [Abu Sa'id Al Khudri] bahwasanya Rasulullah shallallahu 'alaihi wasallam ketika keluar pada hari 'iedul Fitri dan 'iedul Adlha, beliau selalu memulainya dengan shalat. Dan jika beliau telah selesai mengerjakan shalat dan menutupnya dengan salam, beliau segera berdiri menghadap ke arah para jama'ah yang sedang duduk di tempat mereka shalat. Apabila beliau memiliki suatu keperluan seperti ingin mengutus sebuah pasukan beliau mengumumkannya kepada para jama'ah, atau beliau memiliki keperluan lain beliau menyuruh mereka agar mengerjakannya. Dan beliau selalu bersabda: "Bersedekahlah kalian, bersedekahlah kalian, bersedekahlah kalian!." Dan orang yang paling banyak bersedekah adalah dari kalangan kaum wanita. Kemudian setelah itu beliau baru meninggalkan lapangan. Hal ini masih terus berlangsung sampai pada masa Marwan bin Al Hakam. Aku keluar dengan menggandeng Marwan hingga sampai di lapangan. Namun ternyata Katsir bin Ash Shalt telah membangun mimbar yang terbuat dari tanah dan batu bata. Dan tiba-tiba Marwan menarik tanganku seakan-akan ia menyuruhku naik ke mimbar dan memulainya dengan khutbah terlebih dahulu, dan akupun menyuruhnya untuk memulainya dengan shalat terlebih dahulu. Ketika aku melihat kejadian itu, aku berkata kepadanya, "Mulailah dengan shalat!" Namun ia menjawab, "Tidak wahai Abu Sa'id, sesuatu yang kau ketahui itu telah ditinggalkan." Aku menjawab, "Sekali-kali tidak, demi Dzat yang jiwaku berada di tanganNya, setahuku kalian tidak akan mendatangkan kebaikan sedikitpun (ia mengulangi hingga tiga kali)." Kemudian ia pergi meninggalkan tempat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2053</td></tr><tr><td>Arabic No</td><td>889</td></tr><tr><td>Reference</td><td>Book 8 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са’ида аль-Худри, что в День разговения и в День жертвоприношения Посланник Аллаха ﷺ выходил (к месту совершения молитвы) и начинал с молитвы, по завершении которой он становился перед сидевшими на местах молитвы людьми. И если он хотел послать куда-нибудь военный отряд, то упоминал об этом людям. Если же он хотел приказать сделать что-то, то приказывал. Он говорил: «Подавайте милостыню! Подавайте милостыню! Подавайте милостыню!» И больше всех подавали милостыню женщины. После этого он уходил.Абу Са’ид сказал: «Так продолжалось до тех пор, пока (к власти не пришёл) Марван ибн аль-Хакам. (Однажды) я шёл под руку с Марваном, пока мы не пришли к месту молитвы, и оказалось, что там стоит минбар, построенный Кaсиром ибн ас-Сальтом из глины и кирпича. Тогда Марван начал тянуть мою руку в сторону минбара, я же стал тянуть его в сторону (места совершения) молитвы. Увидев такое (его поведение), я спросил: “Почему ты не начинаешь с молитвы?” Он ответил: “Нет, о Абу Са’ид, то, что ты знаешь, уже оставлено”. Тогда я трижды сказал: “Но нет, клянусь Тем, в Чьих Руках моя душа, вы не привнесёте (ничего) лучше того, что я знаю!”». После чего он (Абу Са’ид) ушёл (к месту совершения молитвы)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2053</td></tr><tr><td>Arabic No</td><td>889</td></tr><tr><td>Reference</td><td>Book 8 Hadith 9</td></tr></tbody></table></div>
 

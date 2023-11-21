@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:I heard the Messenger of Allah (ﷺ) say: A section 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [al-Walid bin Syuja'] dan [Harun bin Abdullah] serta [Hajjaj bin asy-Sya'ir] mereka berkata, telah menceritakan kepada kami [Hajjaj] -yaitu Ibnu Muhammad- dari [Ibnu Juraij] dia berkata, " [Abu az-Zubair] telah mengabarkan kepadaku, bahwa ia mendengar [Jabir bin Abdullah] berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan senantiasa ada dari umatku sekelompok orang yang berperang di atas kebenaran, mereka akan selalu nampak hingga hari kiamat." Beliau bersabda lagi: "Lalu turunlah Isa putra Maryam, lalu pemimpin mereka berkata, 'Kemarilah, pimpinlah kami shalat." Isa lalu berkata, 'Tidak, sesungguhnya sebagaian kalian atas sebagian yang lain adalah pemimpin, sebagai bentuk pemuliaan Allah terhadap umat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>395</td></tr><tr><td>Arabic No</td><td>156</td></tr><tr><td>Reference</td><td>Book 1 Hadith 300</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «Я слышал, как Пророк ﷺ сказал: “Группа (людей) из моей общины будет сражаться ради истины, побеждая (своих врагов), до самого дня Воскресения”. (Кроме того, Пророк ﷺ) сказал: “(А потом с неба) спустится ‘Иса, сын Марьям и повелитель (этих мусульман) скажет (ему): “Подойди и проведи с нами молитву”, (‘Иса) же скажет: “Нет! Поистине, Аллах почтил (членов) этой общины, (в силу чего) вы являетесь повелителями друг друга”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>395</td></tr><tr><td>Arabic No</td><td>156</td></tr><tr><td>Reference</td><td>Book 1 Hadith 300</td></tr></tbody></table></div>
 

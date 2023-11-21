@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) would take a bath because of s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Zakariyya] telah menceritakan kepada kami [Mush'ab bin Abi Syaibah] dari [Thalq bin Habib Al-'Anazi] dari [Abdullah bin Az-Zubair] dari [Aisyah] bahwa dia menceritakn kepadanya, bahwa Nabi shallallahu 'alaihi wasallam mandi ibadah karena empat alasan: junub, hari Jum'at, berbekam, dan memandikan mayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>348</td></tr><tr><td>Arabic No</td><td>348</td></tr><tr><td>Reference</td><td>Book 1 Hadith 348</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн аз-Зубайра о том, что ‘Аиша рассказывала ему: «Пророк ﷺ купался в четырех случаях: при половом осквернении, в пятницу, после кровопускания и после обмывания покойника»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>348</td></tr><tr><td>Arabic No</td><td>348</td></tr><tr><td>Reference</td><td>Book 1 Hadith 348</td></tr></tbody></table></div>
 

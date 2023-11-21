@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ When we were at food with the Messenger of Allah(ﷺ) none of us put in his hand
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Khaitsamah] dari [Abu Hudzaifah] dari [Hudzaifah] ia berkata, "Jika kami bersama Rasulullah shallallahu 'alaihi wasallam menghadiri jamuan makanan, maka tidak ada seorangpun di antara kami yang meletakkan tangannya hingga Rasulullah shallallahu 'alaihi wasallam memulai. Dan kami pernah bersama beliau menghadiri jamuan makan, lalu seorang Arab badui datang yang seolah-oleh ia terdorong, lalu ia meletakkan tangannya pada makanan, namun Rasulullah shallallahu 'alaihi wasallam memegang tangannya. Kemudian seorang budak wanita datang sepertinya ia terdorong hendak meletakkan tangannya pada makanan, namun beliau memegang tangannya dan berkata: "Sungguh, setan menghalalkan makanan yang tidak disebutkan nama Allah padanya. Setan datang bersama orang badui ini, dengannya setan ingin menghalalkan makanan tersebut, maka aku pegang tangannya. Dan setan tersebut juga datang bersama budak wanita ini, dengannya ia ingin menghalalkan makanan tersebut, maka aku pegang tangannya. Demi Dzat yang jiwaku ada di tangan-Nya, sesungguhnya tangan setan tersebut ada di tanganku bersama tangan mereka berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2017)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3766</td></tr><tr><td>Arabic No</td><td>3766</td></tr><tr><td>Reference</td><td>Book 28 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа, да будет доволен Аллах им и его отцом, сказал: «Когда нам доводилось есть вместе с Посланником Аллаха ﷺ мы никогда не протягивали руки к еде, пока не начинал есть Посланник Аллаха ﷺ. Однажды, когда мы разделяли с ним трапезу, пришёл какой-то бедуин, спешивший так, будто его подгоняли, и хотел протянуть руку к еде, но Посланник Аллаха ﷺ удержал его руку. Потом прибежала какая-то девочка, спешившая так, будто её подталкивали, подошла к еде и протянула к ней руку, но Посланник Аллаха ﷺ схватил её за руку. Посланник Аллаха ﷺ сказал: “Поистине, шайтан считает дозволенной для себя ту пищу, над которой не поминают имя Аллаха, и он привёл сюда этого бедуина, чтобы сделать эту еду дозволенной для себя с его помощью, но я схватил его за руку. А потом он привёл сюда эту девочку, чтобы сделать эту еду дозволенной для себя с её помощью, но я схватил её за руку. Клянусь Тем, в Чьей руке душа моя, поистине, рука шайтана была в моей руке вместе с их руками!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2017)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3766</td></tr><tr><td>Arabic No</td><td>3766</td></tr><tr><td>Reference</td><td>Book 28 Hadith 31</td></tr></tbody></table></div>
 

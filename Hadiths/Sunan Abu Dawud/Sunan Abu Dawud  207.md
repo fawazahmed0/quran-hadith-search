@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miqdad ibn al-Aswad: Ali ibn AbuTalib commanded him to ask the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abu An-Nadlr] dari [Sulaiman bin Yasar] dari [Al-Miqdad bin Al Aswad] bahwa [Ali bin Abu Thalib radliallahu 'anhu] pernah menyuruhnya untuk bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang seorang laki-laki yang mendekati istrinya, lalu keluar madzinya. Apakah yang harus dia perbuat (mandi ataukah wudhu saja)? Karena istriku adalah putri beliau, sehingga saya merasa malu bertanya (langsung) kepada beliau. Miqdad berkata; Maka aku pun bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang hal tersebut. Lalu beliau shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian mendapatkan madzi tersebut, maka hendaklah dia mencuci kemaluannya, dan berwudhulah sebagaimana dia berwudhu untuk mengerjakan shalat." Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] dari [Hisyam bin 'Urwah] dari [Urwah] bahwasanya [Ali bin Abu Thalib radliallahu 'anhu] pernah berkata kepada [Al-Miqdad], dia menyebutkan lafazh semisal ini, dia berkata; Maka Miqdad pun menanyakan hal itu, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Hendaklah dia membasuh kemaluannya dan kedua biji kemaluannya." Abu Dawud berkata; Dan diriwayatkan oleh [Ats-Tsauri] dan Jama'ah dari [Hisyam] dari [Ayahnya] dari [Al-Miqdad] dari [Ali] dari Nabi shallallahu 'alaihi wasallam. Telah menceritakan kepada kami [Abdullah bin Maslamah Al-Qa'nabi] dia berkata; Telah menceritakan kepada kami [Ayahku] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari sebuah hadits yang telah dia ceritakan dari [Ali bin Abu Thalib] dia berkata; Saya pernah berkata kepada [Al-Miqdad], lalu dia pun menyebutkan secara makna hadits tersebut. Abu Dawud berkata; Dan diriwayatkan oleh [Al-Mufadldlal bin Fadlalah] dan Jama'ah dan [Ats-Tsauri] dan [Ibnu 'Uyainah] dari [Hisyam] dari [Ayahnya] dari [Ali bin Abu Thalib]. Dan diriwayatkan oleh [Ibnu Ishaq] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Al-Miqdad] dari Nabi shallallahu 'alaihi wasallam, dia tidak menyebutkan tentang dua biji kemaluannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>207</td></tr><tr><td>Arabic No</td><td>207</td></tr><tr><td>Reference</td><td>Book 1 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Микъдада ибн аль-Асвада, что ‘Али ибн Абу Талиб, да будет доволен им Аллах, велел ему спросить Посланника Аллаха ﷺ: «Как быть человеку, который приблизившись к своей жене, обнаружил появление выделения /аль-мазью/?» Поистине, я стыжусь спросить об этом у него из-за того, что (женат) на его дочери. Аль-Микъдад сказал: «Я спросил Посланника Аллаха ﷺ об этом и он сказал: “Когда кто-либо из вас обнаружит его, пусть помоет свои половые органы и совершит (такое же) омовение, которое он совершает для молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>207</td></tr><tr><td>Arabic No</td><td>207</td></tr><tr><td>Reference</td><td>Book 1 Hadith 207</td></tr></tbody></table></div>
 

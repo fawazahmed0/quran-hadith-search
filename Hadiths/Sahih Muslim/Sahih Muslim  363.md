@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hasan reported:'Ubaidullah b. Ziyad paid a visit to Ma'qil b. Yasar Muzani in hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abu al-Asyhab] dari [al-Hasan] dia berkata, "Ubaidullah bin Ziyad mengunjungi [Ma'qil bin Yasar al-Muzani] yang sedang sakit dan menyebabkan kematiannya. Ma'qil lalu berkata, 'Sungguh, aku ingin menceritakan kepadamu sebuah hadits yang aku pernah mendengarnya dari Rasulullah shallallahu 'alaihi wasallam, sekiranya aku mengetahui bahwa aku (masih) memiliki kehidupan, niscaya aku tidak akan menceritakannya. Sesunguhnya aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Barangsiapa diberi beban oleh Allah untuk memimpin rakyatnya lalu mati dalam keadaan menipu rakyat, niscaya Allah mengharamkan Surga atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>363</td></tr><tr><td>Arabic No</td><td>142.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Хасан сказал, что ‘Убайдуллах ибн Зияд навестил Ма‘кыля ибн Ясара аль-Музани во время болезни, от которой тот умер, и Ма‘кыль сказал: «Я передам тебе (слова), которые слышал от Посланника Аллаха ﷺ, а если бы я знал, что останусь в живых, то не передал бы тебе этого. Поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Аллах непременно сделает Рай запретным для любого (Своего) раба, попечению которого Он вверит (кого-либо) и который умрёт, (продолжая) обманывать своих подопечных в день своей смерти”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>363</td></tr><tr><td>Arabic No</td><td>142.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 270</td></tr></tbody></table></div>
 

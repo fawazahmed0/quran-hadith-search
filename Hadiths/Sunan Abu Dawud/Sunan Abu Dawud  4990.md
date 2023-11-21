@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah ibn Jaydah al-Qushayri: The Messenger of Allah (ﷺ) said: Wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] berkata, telah menceritakan kepada kami [Yahya] dari [Bahz bin Hakim] ia berkata; telah menceritakan kepadaku [Bapakku] dari [Bapaknya] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Celakalah bagi orang yang berbicara lalu berdusta untuk membuat orang lain tertawa. Celakalah ia, celakalah ia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4990</td></tr><tr><td>Arabic No</td><td>4990</td></tr><tr><td>Reference</td><td>Book 43 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Бахз ибн Хаким сказал: Рассказал мне мой отец со слов своего отца, который сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Горе тому, кто рассказывает о чем-либо и лжёт, чтобы рассмешить этим людей! Горе ему, горе ему!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4990</td></tr><tr><td>Arabic No</td><td>4990</td></tr><tr><td>Reference</td><td>Book 43 Hadith 218</td></tr></tbody></table></div>
 

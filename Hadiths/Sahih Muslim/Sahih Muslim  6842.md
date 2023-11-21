@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; aku membacakan kepada [Malik] dari [Sumayya] dari [Abu Shalih] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Barangsiapa yang mengucapkan Laa ilaaha ilIallaahu wahdah, Iaa syariikalahu lahul mulku wa lahul hamdu wa huwa 'alaa kulli syai'in qadiir' (Tiada tuhan selain Allah, Dialah Tuhan Yang Maha Esa. Tidak ada sekutu bagi-Nya, Dialah yang memiliki alam semesta dan segala puji hanya bagi-Nya. Allah adalah Maha Kuasa atas segaIa sesuatu) dalam sehari seratus kali, maka orang tersebut akan mendapat pahala sama seperti orang yang memerdekakan seratus orang budak dicatat seratus kebaikan untuknya, dihapus seratus keburukan untuknya. Pada hari itu ia akan terjaga dari godaan syetan sampai sore hari dan tidak ada orang lain yang melebihi pahalanya, kecuali orang yang membaca lebih banyak dan itu. Barang siapa membaca Subhaanallaah wa bi hamdihi (Maha Suci Allah dan segala puji bagi-Nya) seratus kali dalam sehari, maka dosanya akan dihapus, meskipun sebanyak buih lautan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6842</td></tr><tr><td>Arabic No</td><td>2691</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6842</td></tr><tr><td>Arabic No</td><td>2691</td></tr><tr><td>Reference</td><td>Book 48 Hadith 38</td></tr></tbody></table></div>
 

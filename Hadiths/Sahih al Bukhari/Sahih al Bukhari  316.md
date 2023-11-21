@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:In the last Hajj of Allah's Messenger (ﷺ) I assumed the Ihram 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Ibrahim] telah menceritakan kepada kami [Ibnu Syihab] dari ['Urwah] bahwa ['Aisyah] berkata, "Aku bertalbiyah (memulai haji) bersama Rasulullah shallallahu 'alaihi wasallam pada haji Wada'. Dan aku adalah di antara orang yang melaksanakannya dengan cara tamattu' namun tidak membawa hewan sembelihan." Aisyah menyadari bahwa dirinya mengalami haid dan belum bersuci hingga tiba malam 'Arafah. Maka 'Aisyah berkata, "Wahai Rasulullah, malam ini adalah malam 'Arafah sedangkan aku melaksanakan tamattu' dengan Umrah lebih dahulu?" Maka bersabdalah Rasulullah shallallahu 'alaihi wasallam kepadanya: "Urai dam sisirlah rambut kepalamu, lalu tahanlah Umrahmu." Aku lalu laksanakan hal itu. Setelah aku menyelesaikan haji, beliau memerintahkan 'Abdurrahman pada malam hashbah (Malam di Muzdalifah) untuk melakukan Umrah buatku dari Tan'im, tempat dimana aku mulai melakukan manasikku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>316</td></tr><tr><td>Arabic No</td><td>316</td></tr><tr><td>Reference</td><td>Book 6 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Урвы (ибн аз-Зубайра) о том, что ‘Аиша, да будет доволен ею Аллах, сказала: «Во время прощального паломничества я объявила о намерении совершить хадж вместе с посланником Аллаха ﷺ и я была одной из тех, кто совершал хаджж ат-таматту‘ и не гнал с собой жертвенный скот».\nА потом у неё начались месячные, и она очистилась только с наступлением ночи ‘Арафата.\n(‘Аиша) сказала: «О Посланник Аллаха, настала уже ночь ‘Арафата, а ведь я хотела совершить ещё и ‘умру». Посланник Аллаха ﷺ сказал ей: «Распусти волосы, причешись и отложи свою ‘умру».\n(‘Аиша, да будет доволен ею Аллах, сказала): «Я так и сделала и когда я завершила (все обряды) хаджжа, а когда (мы остановились) на ночь в Хасбе, (Посланник Аллаха ﷺ) велел ‘Абду-р-Рахману сопровождать меня от Тан‘има, (где я снова вошла в состояние ихрама) и совершила ‘умру»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>316</td></tr><tr><td>Arabic No</td><td>316</td></tr><tr><td>Reference</td><td>Book 6 Hadith 21</td></tr></tbody></table></div>
 

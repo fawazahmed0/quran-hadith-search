@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: The Prophet (sal Allaahu alayhi wa sallam) said: The puri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Za'idah] dalam hadits [Hisyam] dari [Muhammad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "(Cara) menyucikan bejana salah seorang di antara kalian jika dijilat anjing adalah membasuhnya tujuh kali, yang pertama dengan tanah." Abu Dawud berkata; Demikian pula dikatakan oleh [Ayyub] dan [Habib bin Asy Syahid] dari [Muhammad], dan menurut jalur lain; telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Al Mu'tamir, yakni Ibnu Sulaiman], Dan menurut jalur yang lainnya; telah menceritakan kepada kami [Muhammad bin Ubaid] telah menceritakan kepada kami [Hammad bin Zaid], semuanya dari [Ayyub] dari [Muhammad] dari [Abu Hurairah] dengan lafazh semakna dengannya, namun mereka berdua tidak memarfu'kannya. Dan dia menambahkan; Dan apabila seekor kucing menjilati (bejana), ia dicuci satu kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (279)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Arabic No</td><td>71</td></tr><tr><td>Reference</td><td>Book 1 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Пророк ﷺ сказал: «Очищение вашего сосуда облизанного собакой, осуществляется путем семикратного промывания, при этом первый раз его (следует) протереть землей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (279)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Arabic No</td><td>71</td></tr><tr><td>Reference</td><td>Book 1 Hadith 71</td></tr></tbody></table></div>
 

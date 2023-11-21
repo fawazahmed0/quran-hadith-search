@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "Not to wish to be th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata; Telah menceritakan kepadaku [Salim bin Abdullah] bahwasanya; [Abdullah bin Umar] radliallahu 'anhuma berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak diperbolehkan hasad kecuali pada dua hal, yaitu; Seorang yang diberi karunia Alquran oleh Allah sehingga ia membacanya (shalat dengannya) di pertengahan malam dan siang. Dan seseorang yang diberi karunia harta oleh, sehingga ia menginfakkannya pada malam dan siang hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5025</td></tr><tr><td>Arabic No</td><td>5025</td></tr><tr><td>Reference</td><td>Book 66 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Не следует завидовать никому, кроме двоих: человеку, которого Аллах научил Корану и который читает его ночами, и человеку, которому Аллах даровал богатство и он расходует его днём и ночью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5025</td></tr><tr><td>Arabic No</td><td>5025</td></tr><tr><td>Reference</td><td>Book 66 Hadith 47</td></tr></tbody></table></div>
 

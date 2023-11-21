@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: If anyone sits at a place where he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Al Laits] dari [Ibnu Ajlan] dari [Sa'id Al Maqburi] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang duduk pada suatu tempat, lalu tidak menyebut nama Allah (dzikir) di dalamnya, maka di sisi Allah itu akan menjadi kerugian baginya. Dan barangsiapa berbaring lalu ia tidak menyebut nama Allah, maka itu akan menjadi kerugian baginya di sisi Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4856</td></tr><tr><td>Arabic No</td><td>4856</td></tr><tr><td>Reference</td><td>Book 43 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Отмщение /тира/ Аллаха постигнет того, кто усядется где-либо, не помянув там Аллаха Всевышнего, как постигнет оно и того, кто уляжется где-либо, не помянув там Аллаха Всевышнего!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4856</td></tr><tr><td>Arabic No</td><td>4856</td></tr><tr><td>Reference</td><td>Book 43 Hadith 84</td></tr></tbody></table></div>
 

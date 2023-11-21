@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported that Ibn 'Umar met Ibn Si'id on some of the paths of Medina and h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdu bin Humaid] telah menceritakan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Hisyam] dari [Ayyub] dari [Nafi'] berkata: [Ibnu Umar] bertemu Ibnu Sha'id disalah satu jalanan Madinah lalu Ibnu Umar mengucapkan kata-kata yang membuatnya marah, ia menggelembung hingga meamenuhi jalanan, lalu Ibnu Umar memasuki kediaman [Hafshah] dan berita itu telah sampai padanya. Hafshah berkata pada Ibnu Umar: Semoga Allah merahmatimu, apa yang kau inginkan dari Ibnu Sha'id? Bukankah kau tahu Rasulullah Shallallahu 'alaihi wa Salam pernah bersabda: "Sesungguhnya ia keluar dari kemarahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7359</td></tr><tr><td>Arabic No</td><td>2932.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7359</td></tr><tr><td>Arabic No</td><td>2932.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 121</td></tr></tbody></table></div>
 

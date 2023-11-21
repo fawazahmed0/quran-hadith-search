@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd al-Rahman b. Abi Sa'id al-Khudri quotes his father as saying:The Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salamah Al-Muradi] telah menceritakan kepada kami [Ibnu Wahb] dari [Amru bin Al-Harits] bahwasanya [Sa'id bin Abi Hilal] dan [Bukair bin Abdullah bin Al-Asyaj] mereka berdua menceritakan kepadanya dari [Abu Bakr bin Al-Munkadir] dari [Amru bin Sulaim Az-Zuraqi] dari [Abdurrahman bin Abi Sa'id Al-Khudri] dari [Ayahnya] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Mandi pada hari Jum'at adalah wajib bagi setiap orang dewasa, demikian pula bersiwak dan memakai wangi-wangian jika mampu." Hanya saja Bukair tidak menyebutkan Abdurrahman dan dia menyebutkan tentang wewangian; Meskipun dengan wangi-wangian wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (846)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>344</td></tr><tr><td>Arabic No</td><td>344</td></tr><tr><td>Reference</td><td>Book 1 Hadith 344</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абду-р-Рахмана ибн Абу Са‘ида аль-Худри, сообщившего со слов своего отца о том, что Посланник Аллаха ﷺ сказал: «Каждый совершеннолетний обязан в пятницу искупаться, (почистить зубы) с зубочисткой и использовать благовония по мере своих сил», исключая то, что Букайр не упомянул ‘Абду-р-Рахмана, а облаговониях он сказал: «Даже, если это будут благовония женщин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (846)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>344</td></tr><tr><td>Arabic No</td><td>344</td></tr><tr><td>Reference</td><td>Book 1 Hadith 344</td></tr></tbody></table></div>
 

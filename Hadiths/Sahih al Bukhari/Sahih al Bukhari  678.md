@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:"The Prophet (ﷺ) became sick and when his disease became agg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] berkata, telah menceritakan kepada kami [Husain] dari [Zai'dah] dari ['Abdul Malik bin 'Umair] berkata, telah menceritakan kepadaku [Abu Burdah] dari [Abu Musa] ia berkata, "Ketika sakit Nabi shallallahu 'alaihi wasallam semakin parah, beliau berkata, "Suruhlah Abu Bakar untuk memimpin shalat orang-orang." 'Aisyah berkata, "Sesungguhnya Abu Bakar adalah seorang laki-laki yang lemah (hatinya; mudah menangis) jika harus menggantikan posisi Tuan, dia tidak akan mampu untuk memimpin shalat bersama orang-orang." Beliau berkata lagi: "Suruhlah Abu Bakar untuk memimpin shalat orang-orang." 'Aisyah kembali mengulangi jawabannya. Maka beliau pun bersabda: "Suruhlah Abu Bakar untuk memimpin shalat orang-orang. Kalian ini seperti isteri-isteri Yusuf!" Rasulullah shallallahu 'alaihi wasallam kemudian mendatangi Abu Bakar dan shalat bersama manusia di akhir masa hidupnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>678</td></tr><tr><td>Arabic No</td><td>678</td></tr><tr><td>Reference</td><td>Book 10 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса (аль-Аш‘ари) сказал:«Когда Пророк ﷺ заболел и его болезнь усилилась, он сказал: “Скажите Абу Бакру, пусть возглавит людей в намазе!” ‘Аиша сказала: “Поистине, он человек мягкосердечный, и если он станет на твоё место (в намазе), он не сможет совершать намаз с людьми”. (Пророк ﷺ снова) сказал: “Скажите Абу Бакру, пусть возглавит людей в намазе!” Но (‘Аиша) повторила то, что сказала и тогда (Пророк ﷺ) сказал: “Скажи Абу Бакру, пусть возглавит людей в намазе! Поистине, вы подобны увидевшим Юсуфа!” Затем к нему (Абу Бакру) явился посланец и он совершил во главе людей намаз при жизни Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>678</td></tr><tr><td>Arabic No</td><td>678</td></tr><tr><td>Reference</td><td>Book 10 Hadith 72</td></tr></tbody></table></div>
 

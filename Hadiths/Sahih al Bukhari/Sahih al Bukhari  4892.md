@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Atiya:We took the oath of allegiance to Allah's Messenger (ﷺ) and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] Telah menceritakan kepada kami [Abdul Warits] Telah menceritakan kepada kami [Ayyub] dari [Hafshah binti Sirin] dari [Ummu 'Athiyyah radliallahu 'anha] ia berkata; Kami berbai'at kepada Rasulullah shallallahu 'alaihi wasallam, lalu beliau pun membacakan ayat kepada kami: "Dan janganlah mereka menyekutukan Allah dengan sesuatu apapun." Kemudian beliau juga melarang kami untuk melakukan Niyahah (meratap saat tertimpa musibah). Lalu seorang wanita menggenggam tangannya dan berkata, "Sesungguhnya si Fulanah telah membahagiakanku, dan aku ingin segera membalasnya." Namun, Nabi shallallahu 'alaihi wasallam tidak berkata apa pun pada wanita itu. Wanita itu pergi, kemudian kembali lagi, dan beliau pun membai'atnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4892</td></tr><tr><td>Arabic No</td><td>4892</td></tr><tr><td>Reference</td><td>Book 65 Hadith 412</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа, да будет доволен ею Аллах, сказала: «После того как мы дали клятву Посланнику Аллаха ﷺ он прочитал (собравшимся у него женщинам аят, в котором есть слова) “не станут ничему поклоняться наряду с Аллахом”, и запретил нам громко причитать по покойным. (Услышав это,) одна женщина убрала руку и сказала: “Но такая-то причитала над моим покойником, и я хочу ответить ей тем же”. Пророк ﷺ ничего не сказал ей, и тогда она ушла, а потом вернулась, и он принял у неё клятву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4892</td></tr><tr><td>Arabic No</td><td>4892</td></tr><tr><td>Reference</td><td>Book 65 Hadith 412</td></tr></tbody></table></div>
 

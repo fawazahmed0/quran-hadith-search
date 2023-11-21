@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A boy was brought to the Prophet (ﷺ) to do Tahnik for him, but
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Hisyam] dari [Bapaknya] dari [Aisyah] radliallahu 'anhuma, ia berkata, "Seorang bayi dibawa ke hadapan Nabi shallallahu 'alaihi wasallam yang kemudian beliau suapi dengan kunyahan buah kurma, ketika bayi itu kencing, beliau memercikinya dengan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5468</td></tr><tr><td>Arabic No</td><td>5468</td></tr><tr><td>Reference</td><td>Book 71 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды Пророку ﷺ принесли мальчика, чтобы он сделал ему тахник (разжёвывание финика и протирание образовавшейся кашицей нёба новорожденного), но мальчик помочился на него. Тогда Пророк ﷺ полил водой (на следы этой мочи)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5468</td></tr><tr><td>Arabic No</td><td>5468</td></tr><tr><td>Reference</td><td>Book 71 Hadith 2</td></tr></tbody></table></div>
 

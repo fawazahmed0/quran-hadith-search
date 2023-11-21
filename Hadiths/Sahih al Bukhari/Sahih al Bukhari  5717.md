@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, 'There is no 'Adwa (no diseas
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] dan yang lain, bahwa [Abu Hurairah] radliallahu 'anhu berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada 'adwa (meyakini bahwa penyakit tersebar dengan sendirinya, bukan karena takdir Allah), dan tidak ada shafar (menjadikan bulan shafar sebagai bulan haram atau keramat) dan tidak pula hammah (rengkarnasi atau ruh seseorang yang sudah meninggal menitis pada hewan)." Lalu seorang arab Badui berkata; "Wahai Rasulullah, lalu bagimana dengan unta yang ada dipasir, seakan-akan (bersih) bagaikan gerombolan kijang kemudian datang padanya unta berkudis dan bercampur baur dengannya sehingga ia menularinya?" Maka Nabi shallallahu 'alaihi wasallam bersabda: "Siapakah yang menulari yang pertama." Hadits ini juga di riwayatkan oleh [Az Zuhri] dari [Abu Salamah] dan [Sinan bin Abu Sinan]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5717</td></tr><tr><td>Arabic No</td><td>5717</td></tr><tr><td>Reference</td><td>Book 76 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса, также передаваемой со слов Абу Хурайры, да будет доволен им Аллах, сообщается, что, услышав слова Пророка ﷺ) один бедуин спросил: «О Посланник Аллаха, а что ты скажешь о моих верблюдах? Они подобны оленям на песке, но когда среди них появляется паршивый верблюд, все они начинают болеть паршой!» (На это Пророк ﷺ) сказал: «А кто же заразил первого?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5717</td></tr><tr><td>Arabic No</td><td>5717</td></tr><tr><td>Reference</td><td>Book 76 Hadith 34</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported that Allah's Messenger (ﷺ) pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ibnu Numair] dan [Abu Usamah] dari [Ubaidillah] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam melarang melakukan nikah syighar, Ibnu Numair menambahkan, nikah syighar adalah seseorang mengatakan kepada laki-laki lain; Nikahkanlah putrimu denganku, niscaya aku akan menikahkan putriku untukmu, atau nikahkanlah sudara perempuanmu denganku, maka saya akan nikahkan saudara perempuanku denganmu. Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami ['Abdah] dari [Ubaidillah] dia adalah Ibnu Umar dengan isnad ini, dan dia tidak menyebutan tambahan Ibnu Numair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3469</td></tr><tr><td>Arabic No</td><td>1416.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3469</td></tr><tr><td>Arabic No</td><td>1416.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 71</td></tr></tbody></table></div>
 

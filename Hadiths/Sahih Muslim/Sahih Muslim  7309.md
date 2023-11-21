@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The day and the night wou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar Al Abdi] telah menceritakan kepada kami [Abdulkabir bin Abdulmajid Abu Bakr Al Hanafi] telah menceritakan kepada kami [Abdulhamid bin Ja'far] berkata: Aku mendengar [Umar bin Al Hakam] menceritakan dari [Abu Hurairah] dari Nabi Shallallahu 'alaihi wa Salam bersabda: "Siang dan malam itu tidak akan lenyap (terjadi kiamat) sampai ada seorang lelaki bernama Jahjah menjadi penguasa." Muslim berkata: Mereka empat bersaudara; Syarik, Ubaidillah, Umair dan Abdul Kabir dari bani Abdul Majid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7309</td></tr><tr><td>Arabic No</td><td>2911</td></tr><tr><td>Reference</td><td>Book 54 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «День и ночь не исчезнут до тех пор, пока к власти не придёт человек по прозвищу Джахджах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7309</td></tr><tr><td>Arabic No</td><td>2911</td></tr><tr><td>Reference</td><td>Book 54 Hadith 75</td></tr></tbody></table></div>
 

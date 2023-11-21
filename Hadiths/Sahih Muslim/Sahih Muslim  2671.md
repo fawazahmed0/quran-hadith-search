@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Ubaid, the freed slave of Ibn Azhar, reported:I observed Id along with Umar 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Ibnu Syihab] dari [Abu Ubaid] Maula Ibnu Azhar, bahwa ia berkata; Saya pernah ikut serta dalam shalat Ied bersama [Umar bin Al Khaththab radliallahu 'anhu]. Saat itu, ia datang, lalu shalat kemudian menyampaikan khutbah seraya berkata, "Sesungguhnya dua hari ini, merupakan dua hari yang Rasulullah shallallahu 'alaihi wasallam telah melarang untuk berpuasa pada keduanya. Yakni, hari Iedul Fithri setelah puasa kalian, dan satu lagi adalah hari ketika kalian makan daging dari hewan kurban kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2671</td></tr><tr><td>Arabic No</td><td>1137</td></tr><tr><td>Reference</td><td>Book 13 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2671</td></tr><tr><td>Arabic No</td><td>1137</td></tr><tr><td>Reference</td><td>Book 13 Hadith 177</td></tr></tbody></table></div>
 

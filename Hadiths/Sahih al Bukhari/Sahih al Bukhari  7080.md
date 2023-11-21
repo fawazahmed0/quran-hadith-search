@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:The Prophet (ﷺ) said to me during Hajjat-al-Wada', "Let the peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari ['Ali bin Mudrik] aku mendengar [Abu Zur'ah bin 'Amru bin Jarir] dari [kakeknya, Jarir] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku pada haji wada': "suruhlah orang-orang diam, " kemudian beliau bersabda: "Janganlah kalian sepeninggalku menjadi kafir, sebagian kalian memenggal leher sebagian yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7080</td></tr><tr><td>Arabic No</td><td>7080</td></tr><tr><td>Reference</td><td>Book 92 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джарир (ибн ‘Абдуллах), да будет доволен Аллах им и его отцом, сказал: «Во время прощального паломничества Посланник Аллаха ﷺ сказал мне: “Скажи людям, чтобы они молчали и слушали!”, — после чего сказал: “Не становитесь после меня неверными, которые рубят друг другу головы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7080</td></tr><tr><td>Arabic No</td><td>7080</td></tr><tr><td>Reference</td><td>Book 92 Hadith 31</td></tr></tbody></table></div>
 

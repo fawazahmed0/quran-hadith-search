@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:In the life-time of the Prophet, Abu Talha did not fast 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Adam] telah bercerita kepada kami [Syu'bah] telah bercerita kepada kami [Tsabit Al Bunaniy] berkata aku mendengar [Anas bin Malik radliallahu 'anhu] berkata; Abu Thalhah tidak pernah shoum (berpuasa) pada zaman Nabi shallallahu 'alaihi wasallam karena alasan berperang. Setelah Nabi shallallahu 'alaihi wasallam wafat tidak pernah aku melihat dia berbuka (tidak berpuasa) kecuali pada Hari Raya Fithri atau Hari Raya Adhha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2828</td></tr><tr><td>Arabic No</td><td>2828</td></tr><tr><td>Reference</td><td>Book 56 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «При жизни Пророка ﷺ Абу Тальха никогда не постился из-за (того, что постоянно принимал участие в) военных походах, но после того как Пророк ﷺ умер, я никогда не видел, чтобы он не постился, если не считать дня разговения /йаум аль-фитр/ и дня жертвоприношения /йаум аль-адха/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2828</td></tr><tr><td>Arabic No</td><td>2828</td></tr><tr><td>Reference</td><td>Book 56 Hadith 44</td></tr></tbody></table></div>
 

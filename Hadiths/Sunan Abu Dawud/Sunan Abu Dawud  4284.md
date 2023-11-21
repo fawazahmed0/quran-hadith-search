@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: The Prophet (ﷺ) said: The Mahdi will be 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ibrahim] berkata, telah menceritakan kepada kami [Abdullah bin Ja'far Ar Raqqi] berkata, telah menceritakan kepada kami [Abu Al Malih Al Hasan bin Umar] dari [Ziyad bin Bayan] dari [Ali bin Nufail] dari [Sa'id Ibnul Musayyab] dari [Ummu Salamah] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Al Mahdi dari keturunanku, dari jalur Fatimah." Abdullah bin Ja'far berkata, "Aku mendengar Abul Malih memuji Ali bin Nufail, dan ia menyebutkan akan kebaikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4284</td></tr><tr><td>Arabic No</td><td>4284</td></tr><tr><td>Reference</td><td>Book 38 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм Саляма (да будет доволен ею Аллах) передаёт: «Я слышала, как Посланник Аллаха ﷺ сказал: “Махди из моего семейства, из потомства Фатимы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4284</td></tr><tr><td>Arabic No</td><td>4284</td></tr><tr><td>Reference</td><td>Book 38 Hadith 6</td></tr></tbody></table></div>
 

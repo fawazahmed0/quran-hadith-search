@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Umar reported the Messenger of Allah (ﷺ) as saying:Anyone who loses his '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Nafi'] dari [Ibnu Umar] bahwasanya Rasulullah Shallallahu alaihi wasallam bersabda: "Barangsiapa yang terlewatkan shalat Ashar, maka seakan-akan dia kehilangan keluarga dan hartanya." Abu Dawud berkata; [Ubaidullah bin Umar] menyebutkan dengan lafazh 'utira'; dan telah diperselisihkan riwayat Ayyub (dari Nafi') dalam hadits ini. [Az Zuhri] berkata dari [Salim] dari [Ayahnya] dari Nabi Shallallahu alaihi wasallam, beliau bersabda dengan lafazh 'wutira'. Telah menceritakan kepada kami Mahmud bin Khalid telah menceritakan kepada kami Al Walid dia berkata Abu Amru Al Auza'i berkata; Dan yang demikian itu (terlewatkannya shalat Ashar, jika engkau melihat sinar matahari di atas bumi berwarna kekuning-kuningan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (552) Sahih Muslim (626)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>414</td></tr><tr><td>Arabic No</td><td>414</td></tr><tr><td>Reference</td><td>Book 2 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара о том, что Посланник Аллаха ﷺ сказал: «(Тот,) кто пропускает послеполуденную /‘аср/ молитву, подобен лишившемуся своей семьи и имущества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (552) Sahih Muslim (626)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>414</td></tr><tr><td>Arabic No</td><td>414</td></tr><tr><td>Reference</td><td>Book 2 Hadith 24</td></tr></tbody></table></div>
 

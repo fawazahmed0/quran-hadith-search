@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:We went out in the company of Allah's Messenger (ﷺ) on th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] mengatakan; telah menceritakan kepadaku [Malik] dari [Tsaur bin Zaid ad Daili] dari [Abul Ghaits maula Ibnu Muthi'] dari [Abu Hurairah] mengatakan: kami berangkat bersama Rasulullah Shallallahu'alaihiwasallam saat perang khaibar. Kami tidak memperoleh ghanimah berupa emas dan perak, hanya kami mendapat harta, pakaian dan perabot. Seorang dari bani dhubaib yang dikenal dengan nama Rifa'ah bin Zaid memberi hadiah Rasulullah Shallallahu'alaihiwasallam berupa seorang pelayan namanya Mid'am. Kemudian Rasulullah Shallallahu'alaihiwasallam mengutus Mid'am ke Wadil qura, hingga ketika ia sampai di Wadil qura, tepatnya ketika Mid'am mengendarai hewan tunggangan Rasulullah Shallallahu'alaihiwasallam, sebatang anak panah nyasar mengenai dirinya hingga terbunuh. Para sahabat kemudian berseru; 'sungguh bahagia, baginya surga! ' langsung Rasulullah Shallallahu'alaihiwasallam menegur dengan bersabda: "Sekali-kali tidak, demi dzat yang jiwaku berada di tangan-NYA, baju yang diambilnya dari ghanimah yang belum dibagi di hari Khaibar telah menyalakan api baginya." Ketika para sahabat mendengar sabda beliau, tiba-tiba seseorang membawa seutas tali atau sepasang tali kepada Nabi shallallahu 'alaihi wasallam, dan Nabi bersabda: "seutas tali neraka, atau sepasang tali neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6707</td></tr><tr><td>Arabic No</td><td>6707</td></tr><tr><td>Reference</td><td>Book 83 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «В день Хайбара мы выступили вместе с Посланником Аллаха ﷺ. В качестве военной добычи нам не досталось ни золото, ни серебро, но мы захватили имущество, одежду и (разную) утварь. И один человек (принадлежавший к роду) бану ад-дубайб по имени Рифа'а ибн Зейд подарил Посланнику Аллаха ﷺ раба, которого звали Мид‘ам. И Посланник Аллаха ﷺ направился в долину аль-Кура. Когда он остановился в долине аль-Кура, в это время Мид’ам снимал седло Посланника Аллаха ﷺ, и тут кем-то была пущена стрела, (которая поразила) его насмерть. И люди стали говорить: «На счастье ему, (ему уготован) Рай!» — но посланник Аллаха ﷺ сказал: «Вовсе нет! Клянусь Тем, в Чьей руке душа моя, поистине, плащ который он взял в день Хайбара из добычи, и (этого плаща) не было среди того, что подлежало разделу, будет гореть на нём огнём». И когда люди услышали это, один человек принёс ремешок (или: два ремешка) [от сандалий] Пророку ﷺ, и (Пророк ﷺ) сказал: «(Это) — ремешок из Огня (или: два ремешка из Огня)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6707</td></tr><tr><td>Arabic No</td><td>6707</td></tr><tr><td>Reference</td><td>Book 83 Hadith 84</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shaqiq reported that 'Uthman (Allah be pleased with him) used to for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] -[Ibnul Mutsanna] berkata- Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] ia berkata, [Abdullah bin Syaqiq] berkata; Utsman bin Affan pernah melarang mengerjakan haji tamattu' (umrah sebelum haji), sedangkan [Ali] menyuruh melakukannya. Karena itu, [Utsman] menegur Ali, maka Ali pun menjawab, "Bukankah Anda tahu, bahwa kita pernah mengerjakan haji tamattu' bersama Rasulullah shallallahu 'alaihi wasallam?" Utsman berkata, "Benar, tetapi ketika itu kita dalam keadaan tidak aman." Dan telah meceritakannya kepadaku [Yahya bin Habib Al Haritsi] Telah menceritakan kepada kami [Khalid bin Harits] telah mengabarkan kepada kami [Syu'bah] dengan isnad ini, semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2962</td></tr><tr><td>Arabic No</td><td>1223.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2962</td></tr><tr><td>Arabic No</td><td>1223.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 171</td></tr></tbody></table></div>
 

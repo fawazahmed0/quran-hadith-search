@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Fudalah ibn Ubayd: The Prophet (ﷺ) was brought a necklace in which th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa], dan [Abu Bakr bin Abu Syaibah?] serta [Ahmad bin Mani'], mereka berkata; telah menceritakan kepada kami [Ibnu Al Mubarak] dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ibnu Al 'Ala'], telah mengabarkan kepada kami [Ibnu Al Mubarak], dari [Sa'id bin Yazid?], ia berkata; telah menceritakan kepadaku [Khalid bin Abu Imran] dari [Hanasy] dari [Fadhalah bin 'Ubaid], ia berkata; Nabi shallallahu 'alaihi wasallam pada saat perang Khaibar diberi sebuah kalung yang padanya terdapat emas dan manik-manik. Abu Bakr dan Ibnu Mani' berkata; padanya terdapat manik-manik yang tergantung dengan emas. Yang dibeli oleh seseorang dengan harga sembilan dinar atau tujuh dinar. Nabi shallallahu 'alaihi wasallam bersabda: "Tidak boleh, hingga engkau memisahkan antara emas dan manik-manik tersebut." Kemudian ia mengembalikannya hingga terpisahkan antara keduanya. Ibnu Isa berkata; aku ingin at tijarah (berdagang). Abu Daud berkata; dalam tulisannya adalah al hijarah (bebatuan). Kemudian ia mengubahnya, lalu ia berkata; at tijarah (perdagangan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1591)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3351</td></tr><tr><td>Arabic No</td><td>3351</td></tr><tr><td>Reference</td><td>Book 23 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Фадаля ибн ‘Убайд, да будет доволен им Аллах, сказал: «В год похода на Хайбар к Пророку ﷺ принесли ожерелье, содержащее золото и бусинки. (Передатчики) Абу Бакр и Ибн Мани‘ сказали: “В нём бусинки, подвешенные на золото”. Один человек захотел купить его то ли за девять, то ли за семь динаров. Однако Пророк ﷺ сказал: “Нет, пока их не отделят друг от друга”. Тот человек сказал: “Я хотел только камни (или: я хотел его только для торговли)”. Пророк ﷺ снова сказал: “Нет, пока их не отделят друг от друга”. И их отделили друг от друга». Ибн Иса сказал: «Я имел в виду “тиджара” (торговля)». Абу Давуд сказал: «В его записях было “хиджара” (камни), и он изменил это слово и стал говорить: “тиджара” (торговля)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1591)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3351</td></tr><tr><td>Arabic No</td><td>3351</td></tr><tr><td>Reference</td><td>Book 23 Hadith 26</td></tr></tbody></table></div>
 

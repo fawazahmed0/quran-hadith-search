@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The following Verse: If a woman fears cruelty or desertion on her
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'ad] telah menceritakan kepada kami [Sufyan] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa ayat yang berbunyi: QS An-Nisaa: 128): ("Apabila seorang isteri takut suaminya akan berbuat nusyuz (tidak mau menggaulinya) atau berlaku kasar terhadapnya"), dia ('Aisyah radliallahu 'anha) berkata: "Itu adalah seorang suami yang melihat pada isterinya apa-apa yang tidak menyenangkannya berupa pelanggaran dosa besar atau lainnya lalu dia berniat menceraikan isterinya lalu isterinya itu berkata: "Pertahankanlah aku dan bersumpahlah kepadaku terserah apa saja yang kamu kehendaki". 'Aisyah radliallahu 'anha berkata: "Maka tidak berdosa bila keduanya saling ridho
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2694</td></tr><tr><td>Arabic No</td><td>2694</td></tr><tr><td>Reference</td><td>Book 53 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала относительно аята: «“Если женщина опасается, что муж будет проявлять к ней неприязнь или отворачиваться от неё…” (сура “ан-Ниса”, аят 128) — это мужчина, который видит в своей жене то, что ему не нравится, как старость и подобное этому, и хочет развести её, но она говорит: “Не разводи меня, можешь давать мне только то, что ты сам хочешь”. Нет проблем, если они придут к такому взаимному согласию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2694</td></tr><tr><td>Arabic No</td><td>2694</td></tr><tr><td>Reference</td><td>Book 53 Hadith 5</td></tr></tbody></table></div>
 

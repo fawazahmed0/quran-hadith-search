@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Barirah came to seek my help regarding her manumission (freedom)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Sufyan] dari [Yahya] dari ['Amrah] dari ['Aisyah] berkata, "Barirah datang kepadanya dan meminta tolong dalam masalah pembebasannya dirinya (sebagai budak)." 'Aisyah lalu berkata, "Kalau kamu mau, aku berikan tebusan kepada tuanmu dan perwalianmu milikku." Tuannya berkata, "Kalau mau, engkau bisa berikan sisanya (harga budak tersebut)." Sekali waktu Sufyan menyebutkan, "Kalau kamu mau, bebaskanlah dia dan perwalian milik kami." Ketika Rasulullah shallallahu 'alaihi wasallam datang, Aisyah menceritakan hal itu kepada beliau. Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Belil dan merdekakanlah. Sesungguhnya perwalian itu bagi orang yang memerdekakannya." Kemudian Rasulullah shallallahu 'alaihi wasallam berdiri dekat mimbar, sekali waktu Sufyan menyebutkanm "Rasulullah shallallahu 'alaihi wasallam naik mimbar lalu bersabda: "Kenapa suatu kaum membuat persyaratan dengan syarat-syarat yang tidak ada pada Kitabullah. Barangsiapa membuat syarat yang tidak ada pada Kitabullah, maka tidak berlaku sekalipun dia membuat persyaratan seratus kali." ['Ali] berkata, [Yahya] berkata dan ['Abdul Wahhab] dari [Yahya] dari ['Amrah] seperti hadits ini." Dan [Ja'far bin 'Aun] berkata, dari [Yahya] ia berkata, aku mendengar ['Amrah] berkata, aku mendengar ['Aisyah]. Dan [Malik] meriwayatkan dari [Yahya] dari ['Amrah] bahwa Bararah….namun ia tidak menyebut bahwa (Rasulullah) naik mimbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>456</td></tr><tr><td>Arabic No</td><td>456</td></tr><tr><td>Reference</td><td>Book 8 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Аиши, да будет доволен ею Аллах, что однажды к ней пришла Барира, прося (помощи) относительно её договора об освобождении за плату. Аиша сказала: «Если хочешь я заплачу за тебя твоим владельцам, а “уаля” (право наследовать [имущество] освобожденного) будет у меня». Её владельцы сказали: «Оплати за неё то, что осталось (в другом варианте Суфьян сказал: «Если хочешь, освободи её...»), а “уаля” будет у нас». Когда пришёл Посланник Аллаха ﷺ, она (Аиша) рассказала ему об этом. Пророк ﷺ сказал: «Выкупи её и освободи, ведь, поистине, “уаля” принадлежит тому, кто освободил».\nЗатем Посланник Аллаха ﷺ поднялся на минбар и сказал: «Почему некоторые люди ставят условия, которых нет в книге Аллаха? Тот, кто ставит условия, которых нет в книге Аллаха, то нет у него на это права, даже если он поставит сто условий»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>456</td></tr><tr><td>Arabic No</td><td>456</td></tr><tr><td>Reference</td><td>Book 8 Hadith 104</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:And as for him among them who had the greater share..' (24.11) w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah radliallahu 'anha] mengenai firman Allah: Dan orang yang berandil besar (dalam memfitnah Aisyah) …. (Qs.An Nuur: 11), ia berkata; yaitu Abdullah bin Ubay bin Salul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4749</td></tr><tr><td>Arabic No</td><td>4749</td></tr><tr><td>Reference</td><td>Book 65 Hadith 271</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказал об аяте «…А тому из них, кто взял на себя большую часть этого…»: «Это ‘Абдуллах ибн Убай ибн Салюль»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4749</td></tr><tr><td>Arabic No</td><td>4749</td></tr><tr><td>Reference</td><td>Book 65 Hadith 271</td></tr></tbody></table></div>
 

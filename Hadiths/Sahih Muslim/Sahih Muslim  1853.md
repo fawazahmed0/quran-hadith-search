@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mughaffal Al-Muzanî (que Dieu l'agrée) "Le jour de la
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Idris] dan [Waki'] dari [Syu'bah] dari [Mu'awiyah bin Qurrah] ia berkata, saya mendengar [Abdullah bin Mughaffal Al Muzani] berkata; Nabi shallallahu 'alaihi wasallam membaca surat Al Fath pada tahun Al Fath (penaklukan kota Makkah) dalam suatu perjalanan disaat beliau berada di atas kendaraannya. Kemudian beliau mengulang-mengulang bacaannya. Mu'awiyah berkata; "Sekiranya aku tidak khawatir manusia akan berkumpul mengerumuniku, niscaya akan saya ceritakan kepada kalian seperti apa bacaan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>794.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 281</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘авия ибн Курра сказал: «Я слышал, как ‘Абдуллах ибн Мугаффаль аль-Музани сказал: “(Однажды) в год завоевания (Мекки) Пророк ﷺ, который находился в пути и (ехал) на своей верблюдице, читал нараспев суру ‹аль-Фатх›”».Му‘авия сказал: «Если бы я не боялся, что (вокруг) меня соберутся люди, то (почитал) бы для вас так же, как читал он»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>794.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 281</td></tr></tbody></table></div>
 

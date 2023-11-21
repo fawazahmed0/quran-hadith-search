@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Usamah b. Zaid:A daughter of Messenger of Allah (ﷺ) sent him message 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi], telah menceritakan kepada kami [Syu'bah] dari ['Ashim Al Ahwal], ia berkata; saya mendengar [Abu Utsman] dari [Usamah bin Zaid] bahwa anak wanita Rasulullah shallallahu 'alaihi wasallam telah mengirimkan utusan kepada beliau sementara saya dan Sa'd bersama dengan beliau, aku mengira Ubai juga bersama beliau. Ia berkata; sesungguhnya anakku telah mendekati kematian maka saksikanlah kami! Kemudian beliau mengirimkan utusan dan membacakan salam. Kemudian beliau berkata; ucapkan; milik Allah apa yang Dia ambil dan apa yang Dia berikan, segala sesuatu disisiNya hingga waktu yang telah ditentukan. Kemudian ia mengirimkan utusan dan bersumpah atas beliau. Kemudian beliau datang kepadanya, lalu anak tersebut diletakkan dalam pangkuan Rasulullah shallallahu 'alaihi wasallam sementara nafasnya tersengal-sengal, kemudian kedua mata Rasulullah shallallahu 'alaihi wasallam bercucuran air mata. Kemudian Sa'd berkata kepada beliau; Mengapa engkau menangis? Beliau berkata: "Sesungguhnya itu adalah kasih sayang yang Allah letakkan pada hati orang yang Dia kehendaki, sesungguhnya Allah merahmati hamba-hambaNya yang penyayang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1284) Sahih Muslim (923)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3125</td></tr><tr><td>Arabic No</td><td>3125</td></tr><tr><td>Reference</td><td>Book 21 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Усама ибн Зейд, да будет доволен Аллах им и его отцом, сказал: «В своё время [Зейнаб] дочь Пророка ﷺ послала к нему человека: мол, мой сын (или дочь) находится при смерти, так приди же к нам. А у него был я, Са‘д и, по-моему, Убайй. Однако Посланник Аллаха ﷺ отослал этого человека обратно, велев ему приветствовать их и передать: “Поистине, Аллаху принадлежит то, что Он забрал, и то, что Он даровал, и для всего определил Он свой срок”. Однако через некоторое время она снова послала за ним, заклиная его прийти к ней, и тогда Посланник Аллаха ﷺ пошёл к ней. Там ребёнка, который очень тяжело дышал, положили на колени Посланнику Аллаха ﷺ. Глаза Посланника Аллаха ﷺ наполнились слезами. Са‘д спросил: “О Посланник Аллаха, что это?” Он ответил: “Это милосердие, которое Аллах вкладывает в сердца кому пожелает. Поистине, Аллах милует милосердных из Своих рабов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1284) Sahih Muslim (923)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3125</td></tr><tr><td>Arabic No</td><td>3125</td></tr><tr><td>Reference</td><td>Book 21 Hadith 37</td></tr></tbody></table></div>
 

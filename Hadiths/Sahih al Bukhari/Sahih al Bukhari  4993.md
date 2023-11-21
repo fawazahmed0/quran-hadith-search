@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yusuf bin Mahk:While I was with Aisha, the mother of the Believers, a p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] telah mengabarkan kepada mereka, ia berkata; Dan Telah mengabarkan kepadaku [Yusuf bin Mahik] ia berkata; Suatu ketika, aku berada di tempat Aisyah Ummul Mukminin radliallahu 'anha, tiba-tiba seorang dari Irak menemuinya seraya berkata, "Kain kafan yang bagaimanakah yang lebih baik?" Aisyah menjawab, "Huss kamu, apakah yang menimpamu?" laki-laki itu berkata, "Wahai Ummul Mukminin, tunjukkanlah Mushhaf Anda padaku." [Aisyah] bertanya, "Untuk apa?" Ia menjawab, "Agar aku dapat menyusunnya. Sebab, Al Qur'an itu dibaca secara tidak tersusun." Aisyah berkata, "Lalu apa yang menghalangimu untuk membaca bagian apa saja darinya. Sesungguhnya yang pertama-tama kali turun darinya adalah surat Al Mufashshal yang di dalamnya disebutkan tentang surga dan neraka. Dan ketika manusia telah condong ke Islam, maka turunlah kemudian ayat-ayat tentang halal dan haram. Sekiranya yang pertama kali turun adalah ayat, 'Janganlah kalian minum khamer.' Niscaya mereka akan mengatakan, 'Sekali-kali kami tidak akan bisa meninggalkan khamer selama-lamanya.' Dan sekiranya juga yang pertamakali turun adalah ayat, "Janganlah kalian berzina..' niscaya mereka akan berkomentar, 'Kami tidak akan meniggalkan zina selama-lamanya.' Ayat yang diturunkan kepada Rasulullah shallallahu 'alaihi wasallam di Makkah yang pada saat itu aku masih anak-anak adalah: 'BAL AS SAA'ATU MAU'IDUHUM WAS SAA'ATU ADHAA WA AMARR.(QS. ALqamar 46).' Dan tidaklah surat Al Baqarah dan An Nisa' kecuali aku berada di sisi beliau." Akhirnya, Aisyah mengeluarkan Mushhaf dan mendiktekan kepada orang Irak itu beberapa surat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4993</td></tr><tr><td>Arabic No</td><td>4993</td></tr><tr><td>Reference</td><td>Book 66 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Юсуф ибн Махак рассказал: «Однажды я находился у матери правоверных ‘Аишы, да будет доволен ею Аллах, когда к ней пришёл человек из Ирака и сказал: “Какой саван лучше?” Она ответила: “Горе тебе! Чем тебе это навредит? (то есть это не имеет никакого значения)”. Он сказал: “О мать правоверных, покажи мне свой мусхаф (Коран)”. Она спросила: “Зачем?” Он ответил: “Для того, чтобы упорядочить Коран в соответствие с ним, так как люди читают его не по порядку”. ‘Аиша сказала: “Какая разница с чего ты начнешь читать? Первыми из Корана были ниспосланы суры “аль-муфассаля” (короткие суры), в которых говорится о Рае и Аде. А когда люди устремились к исламу, были ниспосланы аяты о дозволенном (халяль) и запретном (харам). Если бы первым было ниспослано: “Не пейте вино”, — люди бы сказали: “Мы не оставим вино никогда”. И если бы первым было ниспослано: “Не совершайте прелюбодеяния”, — люди бы сказали: “Мы не оставим прелюбодеяние никогда”. Когда я была маленькой девочкой и играла (в детские игры), Мухаммаду ﷺ в Мекке был ниспослан (аят, в котором сказано): “…но Час этот, который является назначенным им сроком, окажется ещё ужаснее и горше!” (сура “аль-Камар”, аят 46). А суры “аль-Бакара” и “ан-Ниса” были ниспосланы уже тогда, когда я была у него”. Затем она достала мусхаф и продиктовала ему его аяты каждой суры (в правильном порядке)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4993</td></tr><tr><td>Arabic No</td><td>4993</td></tr><tr><td>Reference</td><td>Book 66 Hadith 15</td></tr></tbody></table></div>
 

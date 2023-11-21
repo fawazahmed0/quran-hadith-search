@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:Ibn 'Abbas asked me, "Are you married?" I replied, "No
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Al Hakam Al Anshari] Telah menceritakan kepada kami [Abu 'Awanah] dari [Raqabah] dari [Thalhah Al Yami] dari [Sa'id bin Jubair] ia berkata; [Ibnu Abbas] pernah bertanya kepadaku, "Apakah kamu sudah menikah?" aku menjawab, "Tidak." Ia kemudian berkata, "Menikahlah, karena orang yang terbaik dari ummat ini adalah seorang yang paling banyak wanitanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5069</td></tr><tr><td>Arabic No</td><td>5069</td></tr><tr><td>Reference</td><td>Book 67 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Джубайр сказал: «Однажды Ибн ‘Аббас спросил меня: “Ты женился?” — на что я ответил “Нет”. Тогда он сказал: “Женись! Воистину, лучшие в этой общине те, кто имеют большее число женщин”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5069</td></tr><tr><td>Arabic No</td><td>5069</td></tr><tr><td>Reference</td><td>Book 67 Hadith 7</td></tr></tbody></table></div>
 

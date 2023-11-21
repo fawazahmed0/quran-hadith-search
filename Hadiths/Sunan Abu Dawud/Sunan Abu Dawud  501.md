@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Mahdhurah also narrated this tradition from the prophet (May peace be upon h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>501</td></tr><tr><td>Reference</td><td>Book 2 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Махзура передавая от Пророка ﷺ похожее сообщение (сказал) в нём: «ас-Саляту хайрун мина-н-наум, ас-Саляту хайрун мина-наум во время первого призыва для утренней молитвы».Абу Дауд сказал: «Но хадис Мусаддада совершеннее. (Ибн Джурайдж) сказал в нём: «(Абу Махзура) сказал: “И он научил меня произносить (слова) икъамы по два раза: Аллаху акбар! Аллаху акбар! Ашхаду ан ля иляха илля-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Хаййа ‘аля-с-салях! Хаййа ‘аля-с-салях! Хаййа ‘аляль-фалях! Хаййа ‘аляль-фалях! Аллаху акбар! Аллаху акбар! Ля иляха илля-Ллах!”»А ‘Абдурраззак (в своём риваяте) сказал: «А когда будешь произносить икъаму, то говори дважды: “Кад камати-с-салях! Кад камати-с-салях!” Ты слышал то, что я тебе сказал?!»(Саиб) сказал: «И Абу Махзура не стриг и не разделял свой чуб, поскольку Пророк ﷺ погладил его рукой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>501</td></tr><tr><td>Reference</td><td>Book 2 Hadith 111</td></tr></tbody></table></div>
 

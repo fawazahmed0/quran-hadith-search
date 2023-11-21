@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:'Utba bin Abi Waqqas authorized his brother Sa'd bin Abi Waqqas 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah menceritakan kepadaku ['Urwah bin Az Zubair] bahwa ['Aisyah radliallahu 'anha] berkata; Bahwa 'Utbah bin Abu Waqash berjanji kepada saudaranya, Sa'ad bin Abi Waqash agar mengambil anak dari hamba sahaya Zam'ah untuknya. Maka 'Utbah berkata: "Dia itu anakku". Ketika Rasulullah shallallahu 'alaihi wasallam datang saat tahun penaklukan Makkah, Sa'ad mengambil anak dari hamba sahaya Zam'ah lalu membawanya ke hadapan Rasulullah shallallahu 'alaihi wasallam dan 'Abdu bin Zam'ah turut bersamanya. Sa'ad berkata: "Wahai Rasulullah, dia ini anak saudaraku yang telah bersumpah kepadaku bahwa anak ini adalah anaknya. Kemudian 'Abdu bin Zam'ah berkata: Wahai Rasulullah, dia adalah saudaraku, anak dari hambasahaya milik Zam'ah yang dilahirkan di atas tempat tidurnya". Lantas Rasulullah shallallahu 'alaihi wasallam memperhatikan anak hamba sahaya Zam'ah yang ternyata dia manusia yang paling mirip dengannya. Selanjutnya Rasulullah shallallahu 'alaihi wasallam berkata: "Dia ini milikmu wahai 'Abdu bin Zam'ah karena dia dilahirkan diatas tempat tidur bapaknya". Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Berhijablah engkau daripadanya Saudah binti Zam'ah". Ini beliau ucapkan setelah beliau melihat kemiripannya dengan 'Utbah. Saudah adalah isteri Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2533</td></tr><tr><td>Arabic No</td><td>2533</td></tr><tr><td>Reference</td><td>Book 49 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Поистине, ‘Утба ибн Абу Ваккас дал своему брату, Са‘ду ибн Абу Ваккасу, поручение забрать сына невольницы (, хозяином которой является) Зам‘а. ‘Утба сказал: “Поистине, он мой сын”. И когда Посланник Аллаха ﷺ прибыл в день завоевания Мекки, Са‘д ибн Абу Ваккас забрал сына невольницы (, хозяином которой является) Зам‘а. После чего (Са‘д) вместе с ‘Абд ибн Зам‘а отправились к Посланнику Аллаха ﷺ. Са‘д сказал: “О Посланник Аллаха, это — сын моего брата, поручившего мне (объявить, что этот ребёнок является) его сыном”. (После этого) ‘Абд-ибн Зам‘а сказал: “О Посланник Аллаха, это — мой брат и сын невольницы (, хозяином которой является) Зам‘а, рождённый на его постели”. Посланник Аллаха ﷺ посмотрел на сына невольницы (, хозяином которой является) Зам‘а, и увидел, что больше всего из людей он был похож на ‘Утбу. Но Посланник Аллаха ﷺ сказал: “Он твой, о ‘Абд бин Зам‘а, из-за того, что он родился в постели его отца”. (И потом) Посланник Аллаха ﷺ сказал: “Закрывайся от него, о Сауда бинт Зам‘а”, ибо он увидел, (что юноша действительно) похож на ‘Утбу. Сауда была супругой Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2533</td></tr><tr><td>Arabic No</td><td>2533</td></tr><tr><td>Reference</td><td>Book 49 Hadith 17</td></tr></tbody></table></div>
 

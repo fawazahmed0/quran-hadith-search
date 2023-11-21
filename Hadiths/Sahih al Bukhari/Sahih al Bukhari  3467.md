@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "While a dog was going round a well
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin Talid] telah bercerita kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Jarir bin Hazim] dari [Ayyub] dari [Muhammad bin Sirin] dari [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Ada seekor anjing yang sedang berputar-putar dekat sebuah sumur dan hampir mati karena kehausan lalu dilihat oleh seorang wanita pezina dari para pezina Bani Isra'il lalu wanita itu melepas sepatunya (dan mengambil air dengan sepatu itu) kemudian memberi minum anjing tersebut sehingga dia diampuni karena perbuatannya itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3467</td></tr><tr><td>Arabic No</td><td>3467</td></tr><tr><td>Reference</td><td>Book 60 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Однажды, когда одна собака кружила вокруг колодца, умирая от жажды, одна из блудниц сынов Исраиля увидела её. Она сняла свой башмак (набрала в него воду) и напоила собаку, и за это ей были прощены (грехи)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3467</td></tr><tr><td>Arabic No</td><td>3467</td></tr><tr><td>Reference</td><td>Book 60 Hadith 134</td></tr></tbody></table></div>
 

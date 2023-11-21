@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the prophet (ﷺ) as saying:When one of you leads the peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Abu Az Zinnad] dari [Al A'raj] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian mengerjakan shalat dengan orang banyak, maka peringanlah, karena di antara mereka terdapat orang yang lemah, sakit dan lanjut usia, namun apabila dia shalat sendirian, maka ia boleh memanjangkan sesuka hati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (703)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>794</td></tr><tr><td>Arabic No</td><td>794</td></tr><tr><td>Reference</td><td>Book 2 Hadith 404</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир упомянул историю Му‘аза и сказал: «Пророк ﷺ сказал юноше: “Как ты поступаешь, когда совершаешь молитву, о сын брата моего?” Он сказал: “Я читаю суру, открывающую Писание, и прошу у Аллаха Рая, и прошу у Него защиты от Огня, и, поистине, я не знаю, что говоришь ты и что говорит Му‘аз”. Посланник Аллаха ﷺ сказал: “Мы с Му‘азом говорим то, что связано с этими двумя”». Или же он сказал нечто подобное
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (703)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>794</td></tr><tr><td>Arabic No</td><td>794</td></tr><tr><td>Reference</td><td>Book 2 Hadith 404</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubayy b Ka'b reported:By Allah, I know about Lailat-ul Qadr and I know it fully 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] ia berkata, saya mendengar [Abdah bin Abu Lubabah] menceritakan dari [Zirr bin Hubaisy] dari [Ubay bin Ka'ab] ia berkata; Ubay berkata mengenai Lailatul Qadr, "Demi Allah, saya benar-benar mengetahuinya. Sejauh ilmu yang saya ketahui, lailatul Qadar adalah malam yang Rasulullah shallallahu 'alaihi wasallam telah memerintahkan kami untuk menegakkan (shalat di dalamnya), tepatnya adalah malam ke dua puluh tujuh." Syu'bah hanya ragu terkait dengan kalimat ini, "Ia adalah malam yang Rasulullah shallallahu 'alaihi wasallam telah memerintahkan kami." Ia berkata, dan telah menceritakannya kepadaku darinya. Dan telah menceritakan kepadaku [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dengan isnad ini, hadits semisalnya. Namun ia tidak menyebutkan; "Syu'bah hanya ragu terkait." dan selanjutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1786</td></tr><tr><td>Arabic No</td><td>762.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Зирра ибн Хубайша, что Убай сказал о Ночи предопределения: «Клянусь Аллахом, я знаю её, в эту ночь Посланник Аллаха ﷺ приказал нам совершать молитву, это двадцать седьмая ночь (рамадана)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1786</td></tr><tr><td>Arabic No</td><td>762.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 214</td></tr></tbody></table></div>
 

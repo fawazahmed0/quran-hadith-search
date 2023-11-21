@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that a guest spent the night with a person from the Ansar w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Allaa'i], Telah menceritakan kepada kami [Waki'] dari [Fudhail bin Ghazawan] dari [Abu Hazim] dari [Abu Hurairah]; "Seorang laki-laki Anshar kedatangan tamu dan bermalam di rumahnya. Padahal dia tidak mempunyai makanan selain makanan anak-anaknya. Maka dia berkata kepada isterinya; 'Tidurkan anak-anak dan padamkan lampu. Sesudah itu suguhkan kepada tamu kita apa adanya.' Kata Abu Hurairah; 'Karena peristiwa itu maka turunlah ayat: 'Dan mereka lebih mementingkan tamu dari diri mereka sendiri, sekalipun mereka dalam keadaan kesusahan……………' (Al Hasyr 59: 9).' Dan telah menceritakannya kepada kami [Abu Kuraib], Telah menceritakan kepada kami [Ibnu Fudhail] dari [bapaknya] dari [Ibnu Hazim] dari [Abu Hurairah] dia berkata; Seorang laki-laki datang ke rumah Rasulullah shallallahu 'alaihi wasallam hendak bertamu, namun beliau shallallahu 'alaihi wasallam tidak memiliki sesuatupun untuk menjamunya. Kemudian beliau bersabda kepada para sahabatnya: 'Siapa bersedia menjamu tamu malam ini niscaya dia diberi rahmat oleh Allah Ta'ala.' Maka berdirilah seorang laki-laki Anshar yang bernama Abu Thalhah seraya berkata; 'Aku, ya Rasulullah! ' kemudian dibawalah orang itu ke rumahnya. Kemudian dia menyebutkan Hadits yang serupa dengan Hadits Ibnu Jarir. Dan di dalamnya disebutkan mengenai turunnya ayat sebagaimana disebutkan oleh Waki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5360</td></tr><tr><td>Arabic No</td><td>2054.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 234</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5360</td></tr><tr><td>Arabic No</td><td>2054.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 234</td></tr></tbody></table></div>
 

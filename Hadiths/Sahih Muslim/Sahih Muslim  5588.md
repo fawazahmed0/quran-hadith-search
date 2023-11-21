@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn 'Abdoullâh (رضي الله عنهما) a dit : Un fils naquit à un
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim], ['Utsman] berkata; 'Telah menceritakan kepada kami.' Dan [Ishaq] bekata; 'Telah mengabarkan kepada kami' [Jarir] dari [Manshur] dari [Salim bin Abu Al Ja'di] dari [Jabir bin Abdullah] dia berkata; "(Isteri) seseorang di antara kami melahirkan anak laki-laki, lalu diberi nama 'Muhammad'." Maka famili orang itu berkata; 'Kami tidak membolehkan Anda menamai anakmu dengan nama Rasulullah shallallahu 'alaihi wasallam.' Maka dia menemui Nabi shallallahu 'alaihi wasallam sambil menggendong anaknya seraya berkata: 'Ya Rasulullah! Anakku lahir seorang laki-laki, lalu kuberi nama 'Muhammad'. Familiku mengatakan tidak boleh memberi nama dengan nama Rasulullah shallallahu 'alaihi wasallam. Bagaimana itu? ' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Namailah dengan namaku, tetapi jangan menggelari dengan gelarku. Aku bergelar 'Qasim' (yang membagi). Karena aku membagi-bagikan rahmat Allah di antara kamu sekalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5588</td></tr><tr><td>Arabic No</td><td>2133.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5588</td></tr><tr><td>Arabic No</td><td>2133.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 3</td></tr></tbody></table></div>
 

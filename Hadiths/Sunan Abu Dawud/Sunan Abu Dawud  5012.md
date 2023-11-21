@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: I heard the Messenger of Allah (ﷺ) say: In elo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Sa'id bin Muhammad] berkata, telah menceritakan kepada kami [Abu Tumailah] ia berkata; telah menceritakan kepadaku [Abu Ja'far An Nahwi Abdullah bin Tsabit] ia berkata; telah menceritakan kepadaku [Shakhr bin Abdullah bin Buraidah] dari [Bapaknya] dari [Kakeknya] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya pada kefasihan itu ada sihir, pada ilmu itu ada kebodohan, pada syair itu ada hikmah dan pada perkataan ada kelemahan (kebingungan)." Sha'sha'ah bin Shuhan berkata, "Benar apa yang dikatakan oleh Nabi shallallahu 'alaihi wasallam." Adapun maksud dari sabda beliau 'sesungguhnya dalam kefasihan terdapat sihir' adalah, bahwa terkadang seorang laki-laki yang salah lebih pandai dalam berargument dari orang yang berada di atas kebenaran, hingga penjelasannya dapat menyihir orang lain, lalu ia pun pergi dengan merampas kebenaran tersebut. Sedangkan maksud sabda beliau 'pada ilmu itu ada kebodohan' adalah, jika seorang alim memaksakan diri untuk mengetahui sesuatu yang ia tidak sanggupi, maka justru hal itu akan menjadikannya bodoh (berbicara tanpa ilmu). Adapun ucapannya 'pada syair itu ada hikmah' adalah bahwa apa yang terkandung dalam syair itu adalah nasihat-nasihat dan permisan-permisalan yang bisa menjadi nasihat bagi orang banyak. Adapun maksud dari sabda beliau; 'pada perkataan ada kelemahan (kebingungan) ' adalah jika kamu memaparkan perkataan atau cerita kepada orang yang tidak ada urusan dan tidak menginginkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5012</td></tr><tr><td>Arabic No</td><td>5012</td></tr><tr><td>Reference</td><td>Book 43 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5012</td></tr><tr><td>Arabic No</td><td>5012</td></tr><tr><td>Reference</td><td>Book 43 Hadith 240</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: A man came to the Prophet (ﷺ) and said: Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ibnu Qudamah bin A'yun] keduanya berkata; telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Dzar] dari [Abdullah bin Syaddad] dari [Ibnu Abbas] ia berkata, "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, sesungguhnya di antara kami ada yang mendapati sesuatu dalam hatinya; tetapi sekiranya hatinya menjadi arang lebih ia sukai daripada ia mengungkapkannya." Beliau lalu bersabda: "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar. Segala puji bahi Allah yang telah merubah tipu daya-Nya menjadi bisikan." Ibnu Qudamah berkata, "Yaitu merubah tipu daya-Nya menjadi perintah-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5112</td></tr><tr><td>Arabic No</td><td>5112</td></tr><tr><td>Reference</td><td>Book 43 Hadith 340</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5112</td></tr><tr><td>Arabic No</td><td>5112</td></tr><tr><td>Reference</td><td>Book 43 Hadith 340</td></tr></tbody></table></div>
 

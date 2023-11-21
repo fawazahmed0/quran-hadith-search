@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:I heard 'Umar b. Khattab delivering sermon on the pulpit ol A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah mengkhabarkan kepada kami [Ibnu Idris] telah menceritakan kepada kami [Abu Hayyan] dari [Asy Sya'bi] dari [Ibnu Umar] berkata: Aku mendengar [Umar bin Al Khaththab] berkhutbah di atas mimbar Rasulullah Shallallahu 'alaihi wa Salam, ia berkata: Amma ba'du, sesungguhnya telah turun pengharaman khamar dan khamar terdiri lima hal; anggur kurma, madu, tepung dan gandum. Khamar adalah segala sesuatu yang menutupi akal. Ada tiga hal yang aku ingin (sampaikan) wahai para manusia: Rasulullah shallallahu 'alaihi wasallam telah mewasiatkan kepada kita yang harus kita perhatikan; (warisan) kakek, kalalah (orang mati yang tidak meniggalkan anak maupun orang tua) dan sekian dari beberapa pintu riba. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Isma'il bin Ulaiyah]. Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengkhabarkan kepada kami [Isa bin Yunus] keduanya dari [Abu Hayyan] dengan snad ini seperti hadits mereka berdua, hanya saja Ibnu Ulaiyah menyebutkan dalam haditsnya: Anggur. Seperti yang dikatakan oleh Ibnu Idris, dan dalam hadits Isa disebutkan: Kismis, seperti yang dikatakan Ibnu Mushir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7560</td></tr><tr><td>Arabic No</td><td>3032.02</td></tr><tr><td>Reference</td><td>Book 56 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7560</td></tr><tr><td>Arabic No</td><td>3032.02</td></tr><tr><td>Reference</td><td>Book 56 Hadith 37</td></tr></tbody></table></div>
 

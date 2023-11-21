@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir (Allah be pleased with them) reported:My father took me to Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] dan [Abdul A'la]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ya'qub Ad Dauraqi] semuanya dari [Ibnu 'Ulayyah] dan ini adalah lafadz Ya'qub, dia berkata; telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Daud bin Abu Hind] dari [As Sya'bi] dari [An Nu'man bin Basyir] dia berkata, "Ayahku pernah membawaku menemui Rasulullah shallallahu 'alaihi wasallam, ayahku lalu berkata, "Wahai Rasulullah, saksikanlah bahwa saya telah memberikan ini dan ini dari hartaku kepada Nu'man." Beliau bertanya: "Apakah semua anak-anakmu telah kamu beri sebagaimana pemberianmu kepada Nu'man?" Ayahku menjawab, "Tidak." Beliau bersabda: "Mintalah saksi kepada orang lain selainku." Beliau melanjutkan sabdanya: "Apakah kamu tidak ingin mereka berbakti kepadamu dengan kadar yang sama?" ayahku menjawab, "Tentu." Beliau bersabda: "Jika begitu, janganlah lakukan perbuatan itu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4185</td></tr><tr><td>Arabic No</td><td>1623.09</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4185</td></tr><tr><td>Arabic No</td><td>1623.09</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
 

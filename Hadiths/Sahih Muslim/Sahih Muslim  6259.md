@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Barâ' Ibn 'Azib (que Dieu l'agrée) a dit : J'ai vu le Prophète (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Abu Bakr bin Nafi'] Berkata [Ibnu Nafi'] berkata; Telah menceritakan kepada kami [Ghundar]; Telah menceritakan kepada kami [Syu'bah] dari ['Adi] yaitu Ibnu Tsabit dari [Al Bara'] dia berkata; "Aku melihat Rasulullah meletakkan Al Hasan bin Ali di atas pundak beliau seraya berkata; 'Ya Allah, Sungguh aku mencintainya, maka cintailah ia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6259</td></tr><tr><td>Arabic No</td><td>2422.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6259</td></tr><tr><td>Arabic No</td><td>2422.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 89</td></tr></tbody></table></div>
 

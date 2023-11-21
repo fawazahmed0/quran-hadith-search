@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zubayr ibn Uthman: The Prophet (ﷺ) said: The wedding feast on the fir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami ['Affan bin Muslim] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Al Hasan] dari [Abdullah bin Utsman Ats Tsaqafi] dari -seorang laki-laki juling yang berasal dari Tsaqif yang dipanggil Ma'ruf, yaitu sebagai pujian yang baik kepadanya. Apabila namanya bukan- [Zuhair bin Utsman] maka aku tidak mengetahui siapa namanya. Nabi shallallahu 'alaihi wasallam bersabda: "Pesta pada hari pertama adalah sesuatu yang hak, pada hari kedua adalah sesuatu yang baik, dan pada hari yang ketiga adalah suatu perbuatan sum'ah (ingin di dengar) dan riya' (ingin dilihat)." [Qatadah] berkata, "Telah menceritakan kepada kami seorang laki-laki bahwa [Sa'id bin Al Musayyab] pernah diundang pada hari pertama, kemudian ia memenuhi undangan tersebut, dan ia diundang pada hari kedua, kemudian ia memenuhi undangan tersebut, dan diundang pada hari ketiga, kemudian ia tidak memenuhi undangan tersebut seraya berkata, "Ia adalah orang yang sum'ah dan riya'." Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Sa'id bin Al Musayyab] dengan hadits ini. Ia berkata, "Ketika diundang pada hari ketiga ia tidak memenuhi undangan tersebut dan justru melempar sang utusan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3745</td></tr><tr><td>Arabic No</td><td>3745</td></tr><tr><td>Reference</td><td>Book 28 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зухайр ибн ‘Усман передаёт, что Пророк ﷺ сказал: «Свадебное угощение в первый день обязанность, во второй доброе дело, а в третий показуха и желание прославиться». Катада рассказывал: «Мне говорил один человек, что однажды Са‘ида ибн аль-Мусайяба пригласили в первый день празднества на угощение и он пришёл. И его пригласили на второй день, и он снова принял приглашение. А когда его пригласили на третий день, он не принял приглашение и сказал: “Делающие напоказ и желающие прославиться!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3745</td></tr><tr><td>Arabic No</td><td>3745</td></tr><tr><td>Reference</td><td>Book 28 Hadith 10</td></tr></tbody></table></div>
 

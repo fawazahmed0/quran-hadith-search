@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:If a man saw a dream during the lifetime of the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bin Nashr] telah bercerita kepada kami ['Abdur Razzaq] dari [Ma'mar] dari [Az Zuhriy] dari [Salim] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; "; "Seseorang pada masa hidup Nabi shallallahu 'alaihi wasallam bila bermimpi, biasanya dia menceritakannya kepada Rasulullah shallallahu 'alaihi wasallam. Aku pun berharap bermimpi hingga aku dapat mengisahkannya kepada Rasulullah shallallahu 'alaihi wasallam. Saat itu aku masih remaja. Pada suatu hati di zaman Rasulullah shallallahu 'alaihi wasallam aku tidur di masjid, lalu aku bermimpi ada dua malaikat memegangku lalu membawaku ke dalam neraka, aku melihat neraka yang teryata ada lubang besar bagaikan lubang sumur (atau jurang). Neraka memiliki tanduk dan aku melihat di dalamnya ada orang-orang yang sebelumnya aku sudah mengenal mereka. Karena melihat mereka membuat aku berkata; "Aku berlindung kepada Allah dari neraka" Dia berkata; "Kemudian kami berjumpa dengan malaikat lain lalu yang berpesan kepadaku; "Janganlah kamu takut". Kemudian aku ceritakan mimpiku itu kepada Hafshah, lalu Hafshah menceritakannya kepada Rasulullah shallallahu 'alaihi wasallam. Maka Beliau pun bersabda: "Sungguh 'Abdullah (bin "Umar) adalah seorang yang beruntung (bahagia) bila dia mendirikan shalat malam". Setelah peristiwa ini 'Abdullah bin 'Umar tidak tidur malam kecuali sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3739</td></tr><tr><td>Arabic No</td><td>3739</td></tr><tr><td>Reference</td><td>Book 62 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хафса же передала (мой рассказ) Пророку ﷺ, а он сказал: “‘Абдуллах — прекрасный человек, но было бы хорошо, чтобы он совершал молитвы по ночам”». Салим сказал: «И после этого (‘Абдуллах) всегда спал по ночам лишь немного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3739</td></tr><tr><td>Arabic No</td><td>3739</td></tr><tr><td>Reference</td><td>Book 62 Hadith 85</td></tr></tbody></table></div>
 

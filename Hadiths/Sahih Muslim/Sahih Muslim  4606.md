@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This tradition has been transmitted by a different chain of narrators with a dif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Bahz bin Asad] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepadaku [Humaid bin Hilal] dia berkata; aku mendengar [Abdullah bin Mughaffal] berkata, "Ketika penaklukan kota Khaibar, sekantong kulit berisikan perbekalan makanan dan lemak dilemparkan kepada kami, lalu aku melompat untuk segera mengambilnya, kemudian aku menoleh ternyata ada Rasulullah shallallahu 'alaihi wasallam hingga aku malu karenanya." Dan telah menceritakan kepada kami [Muhamad bin Al Mutsanna] telah menceritakan kepada kami [Abu Daud] telah menceritakan kepada kami [Syu'bah] dengan isnad ini, namun dia menyebutkan, 'Sekantong kulit berisikan lemak, ' dan tidak menyebutkan, 'Makanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4606</td></tr><tr><td>Arabic No</td><td>1772.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4606</td></tr><tr><td>Arabic No</td><td>1772.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 87</td></tr></tbody></table></div>
 

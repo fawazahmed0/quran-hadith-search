@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما) a dit : Un jour, 'Umar fit le prône dans
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Abu Hayyan] dari [Asy Sya'bi] dari [Ibnu Umar] berkata: [Umar] berkhutbah di atas mimbar Rasulullah shallallahu 'alaihi wasallam, ia memuja dan memuji Allah kemudian berkata: Amma ba'du, sesungguhnya khamar itu telah turun pengharamannya saat turun waktu itu dan khamar terdiri lima hal; dari gandum, tepung, kurma, anggur, dan madu, Khamar adalah segala sesuatu yang menutupi akal. Ada tiga hal yang aku ingin (sampaikan) wahai para manusia: Rasulullah shallallahu 'alaihi wasallam telah mewasiatkan kepada kita; (warisan) kakek, kalalah (orang mati yang tidak meniggalkan anak maupun orang tua) dan sekian dari beberapa pintu riba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7559</td></tr><tr><td>Arabic No</td><td>3032.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7559</td></tr><tr><td>Arabic No</td><td>3032.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 36</td></tr></tbody></table></div>
 

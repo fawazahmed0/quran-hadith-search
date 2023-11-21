@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A man divorced his wife and she married another man who proved t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] Telah menceritakan kepada kami [Abu Mu'awiyah] Telah menceritakan kepada kami [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] ia berkata; Ada seorang laki-laki menceraikan isterinya, lalu sang isteri pun menikah dengan laki-laki lain, kemudian laki-laki lain itu juga menceraikannya. Ternyata kemaluan laki-laki itu hanyalah seperti bulu, sehingga wanita itu belum mendapatkan apa yang diinginkan dari laki-laki kedua. Maka wanita itu pun menemui Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, sesungguhnya suamiku telah menceraikanku, lalu aku pun menikah dengan laki-laki lain, lalu laki-laki itu memasukiku, namun ia tak memiliki kelelakian kecuali hanya seperti ujung kain, sehingga ia tak mampu mendekatiku, dan juga tak mampu merasakan maduku. Karena itu, halalkanlah suamiku yang pertama." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Kamu tidak akan menjadi halal bagi suamimu yang pertama hingga laki-laki itu merasakan madumu dan kamu juga merasakan madunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5265</td></tr><tr><td>Arabic No</td><td>5265</td></tr><tr><td>Reference</td><td>Book 68 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Однажды один мужчина развёл свою жену, и она вышла замуж за другого мужчину, у которого было половое бессилие, поэтому вскоре он её развёл. Она пришла к Пророку ﷺ и сказала: “О Посланник Аллаха, мой муж развёл меня, и я вышла замуж за другого мужчину. Когда он хотел вступить со мной в половую близость, оказалось, что у него половое бессилие. Таким образом он вступил со мной в половую близость один раз, но ничего не получилось. Могу ли я выйти замуж за своего первого мужа?” Посланник Аллаха ﷺ ответил: “Ты не станешь дозволенной для своего первого мужа, пока последний не познает твою сладость, а ты не познаешь его сладость”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5265</td></tr><tr><td>Arabic No</td><td>5265</td></tr><tr><td>Reference</td><td>Book 68 Hadith 15</td></tr></tbody></table></div>
 

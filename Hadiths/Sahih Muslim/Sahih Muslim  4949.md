@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported by 'Abd al-Rahman b. Shamasa that Fuqaim al- Lakhmi said to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rumh bin Al Muhajir] telah mengabarkan kepada kami [Al Laits] dari [Al Harits bin Ya'qub] dari [Abdurrahman bin Syimamah] bahwa Fuqaim Al Lakhmi berkata kepada ['Uqbah bin 'Amir], "Kamu selalu bersungguh-sungguh antara dua target ini sedangkan kamu telah lanjut usia dan telah berat (sudah lemah)." 'Uqbah berkata, "Seandainya saya pernah mendengar sabda Rasulullah shallallahu 'alaihi wasallam niscaya saya tidak akan menjaganya." Lantas saya bertanya kepada Ibnu Syamasah, "Apa yang disabdakan beliau itu?" dia menjawab, "Beliau bersabda: "Tidak termasuk dari golongan kami -atau dia telah durhaka- siapa saja yang mengetahui ilmu memanah namun ia meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4949</td></tr><tr><td>Arabic No</td><td>1919</td></tr><tr><td>Reference</td><td>Book 33 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4949</td></tr><tr><td>Arabic No</td><td>1919</td></tr><tr><td>Reference</td><td>Book 33 Hadith 244</td></tr></tbody></table></div>
 

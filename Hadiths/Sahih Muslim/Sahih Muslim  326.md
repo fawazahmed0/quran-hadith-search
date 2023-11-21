@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham b. Urwa narrated it on the authority of his father:Hakim b. Hizam freed o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abd bin Humaid] keduanya berkata, telah mengabarkan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] dengan sanad ini. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Hisyam bin Urwah] dari [bapaknya] dari [Hakim bin Hizam] dia berkata, aku bertanya, "Wahai Rasulullah, (bagaimana pendapatmu) tentang beberapa perkara yang aku lakukan pada masa jahiliyyah?, sedangkan Hisyam menyebutkan, 'perbuatan baik yang aku lakukan? ' maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Kamu masuk Islam dengan kebaikan yang kamu lakukan di masa dahulu." Aku lalu berkata, "Demi Allah, tidaklah amal baik yang pernah aku lakukan di masa jahiliyah kecuali aku lakukan juga saat Islam." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdulah bin Numair] dari [Hisyam bin Urwah] dari [bapaknya] bahwa [Hakim bin Hizam] memerdekakan seratus budak dan menyedekahkan seratus unta di masa jahiliyah, kemudian memerdekakan seratus budak pada masa Islam dan menyedekahkan seratus unta. Kemudian dia mendatangi Nabi shallallahu 'alaihi wasallam…lalu menyebutkan semisal hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>326</td></tr><tr><td>Arabic No</td><td>123.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 233</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Урвы ибн аз-Зубайра, что во времена джахилиййи Хаким бин Хизам освободил сто рабов и раздал сто верблюдов, а после того как он принял ислам, он (также) раздал сто верблюдов и освободил сто рабов. Затем (Хаким) пришёл к Пророку ﷺ. Далее он рассказал хадис, подобный предыдущим
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>326</td></tr><tr><td>Arabic No</td><td>123.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 233</td></tr></tbody></table></div>
 

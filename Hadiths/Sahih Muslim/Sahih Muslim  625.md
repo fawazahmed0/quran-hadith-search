@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Wa'il reported:Abu Musa inflicted extreme rigour upon himself in the matter 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Abu Wail] dia berkata, "Dahulu Abu Musa sangat keras dalam masalah kencing, dan dia kencing di botol, dia lalu berkata, 'Sesungguhnya bani Israil apabila air kencing lalu mengenai kulit mereka, niscaya mereka memotongnya dengan gunting.' Lalu [Hudzaifah] berkata, 'Sungguh saya ingin agar sahabat kalian ini tidak terlalu keras dalam masalah ini. Sungguh, aku telah melihat Rasulullah shallallahu 'alaihi wasallam berjalan-jalan bersama kami, lalu beliau mendatangi tempat pembuangan hajat di belakang suatu kebun, lalu berdiri sebagaimana salah seorang dari kalian berdiri dan kencing, saat aku menjauh dari beliau, maka beliau pun memberikan isyarat kepadaku untuk mendekat, maka saya mendekat, lalu berdiri di samping tumit beliau hingga beliau selesai kencing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>625</td></tr><tr><td>Arabic No</td><td>273.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Ваиль сказал: «Абу Муса, обычно очень остерегавшийся (попадания на тело) мочи и поэтому мочившийся в бутылку, говорил: “Поистине, когда на кожу кого-либо из израильтян попадала моча, он вырезал это место ножницами”. (Узнав об этом), Хузейфа сказал: “Я бы очень хотел, чтобы ваш товарищ не придавал этому такого значения. (Как-то раз, когда) мы шли (куда-то) вместе с Посланником Аллаха ﷺ он подошёл к одному месту за (окружавшей пальмовую рощу) стеной, куда люди сваливали мусор, встал, как становится любой из вас, и помочился. (Сначала) я отошёл от него, но он сделал мне знак, и тогда я подошёл и стоял позади него, пока он не закончил”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>625</td></tr><tr><td>Arabic No</td><td>273.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 92</td></tr></tbody></table></div>
 

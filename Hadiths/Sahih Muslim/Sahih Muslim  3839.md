@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported Allah's Messenger (ﷺ) as sayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah], [Abu Kuraib] dan [Ishaq bin Ibrahim]. Ishaq mengatakan; Telah mengabarkan kepada kami, sedangkan yang lain mengatakan; Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Ibnu Thawus] dari [ayahnya] dari [Ibnu Abbas] dia berkata; Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa yang membeli makanan, janganlah menjualnya kembali sehingga ia menakarnya." Lalu saya bertanya kepada Ibnu Abbas, memang kenapa? Dia menjawab; Apakah kamu tidak melihat mereka saling transaksi emas dengan makanan dengan cara ditangguhkan!" Namun Abu Kuraib tidak menyebutkan; "Dengan cara ditangguhkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3839</td></tr><tr><td>Arabic No</td><td>1525.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3839</td></tr><tr><td>Arabic No</td><td>1525.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 38</td></tr></tbody></table></div>
 

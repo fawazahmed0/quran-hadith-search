@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:I used to greet the Prophet (ﷺ) while he was in prayer and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Fudhail] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah radliallahu 'anhu] berkata: "Aku pernah memberi salam kepada Nabi shallallahu 'alaihi wasallam ketika Beliau sedang shalat maka Beliau membalas salamku. Ketika kami kembali (dari negeri An-Najasyi), aku memberi salam kembali kepada Beliau namun Beliau tidak membalas salamku. Kemudian Beliau berkata: "Sesungguhnya dalam shalat terdapat kesibukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1216</td></tr><tr><td>Arabic No</td><td>1216</td></tr><tr><td>Reference</td><td>Book 21 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, рассказывал: «Я приветствовал Пророка ﷺ когда он совершал молитву, и он отвечал мне, а потом, когда мы вернулись (из Эфиопии), я поприветствовал его, но (Посланник Аллаха ﷺ) не ответил мне, а потом сказал: “Поистине, молитва занимает (человека)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1216</td></tr><tr><td>Arabic No</td><td>1216</td></tr><tr><td>Reference</td><td>Book 21 Hadith 20</td></tr></tbody></table></div>
 

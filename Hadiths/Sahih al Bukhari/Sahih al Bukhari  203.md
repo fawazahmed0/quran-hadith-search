@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:Once Allah's Messenger (ﷺ) went out to answer t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Khalid Al Harrani] berkata, telah menceritakan kepada kami [Al Laits] dari [Yahya bin Sa'id] dari [Sa'd bin Ibrahim] dari [Nafi' bin Jubair] dari ['Urwah bin Al Mughirah bin Syu'bah] dari bapaknya, [Al Mughirah bin Syu'bah] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau keluar untuk buang hajat, lalu Al Mughirah mengikutinya dengan membawa bejana berisi air. Selesai buang hajat, Al Mughirah menuangkan air kepada beliau hingga beliau pun berwudlu dan mengusap sepasang sepatunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>203</td></tr><tr><td>Arabic No</td><td>203</td></tr><tr><td>Reference</td><td>Book 4 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Мугъиры ибн Шу‘ба, да будет доволен им Аллах: «Как-то раз Посланник Аллаха ﷺ вышел, чтобы удовлетворить нужду, а аль-Мугъира последовал за ним, держа в руках сосуд с водой. Когда (Пророк ﷺ) удовлетворил свою нужду, (аль-Мугъира) стал сливать для него воду, он же совершил омовение и протёр свои кожаные носки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>203</td></tr><tr><td>Arabic No</td><td>203</td></tr><tr><td>Reference</td><td>Book 4 Hadith 69</td></tr></tbody></table></div>
 

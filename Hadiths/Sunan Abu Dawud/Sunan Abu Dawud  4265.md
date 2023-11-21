@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: There will be civi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Hammad bin Zaid] berkata, telah menceritakan kepada kami [Laits] dari [Thawus] dari seorang laki-laki yang bernama [Ziyad] dari [Abdullah bin Amru] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan terjadi fitnah, yang akan membersihkan bangsa Arab, orang-orang yang terbunuh akan masuk ke dalam neraka (karena perebutan harta dan kekuasaan), dan lisan pada hari itu lebih tajam dari sabetan pedang." Abu Dawud berkata, "Hadits diriwayatkan oleh [Ats Tsauri] dari [Laits], dari [Thawus], dari [Al A'jam]." Telah menceritakan kepada kami [Muhammad bin Isa bin Ath Thaba']." Telah menceritakan kepada kami [Abdullah bin Abdul Qudus] berkata, "Ziyad adalah seorang laki-laki yang berkuping putih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4265</td></tr><tr><td>Arabic No</td><td>4265</td></tr><tr><td>Reference</td><td>Book 37 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Поистине, будет смута, которая вычистит арабов. Их убитые попадут в Огонь, а язык в те дни будет разить сильнее меча»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4265</td></tr><tr><td>Arabic No</td><td>4265</td></tr><tr><td>Reference</td><td>Book 37 Hadith 26</td></tr></tbody></table></div>
 

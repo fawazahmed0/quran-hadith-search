@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muhammad Ibn 'Abî Bakr Ath-Thaqafî rapporte qu'il posa à Anas Ibn Mâlik, alo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Muhammad bin Abu Bakr Ats Tsaqafi] bahwa ia pernah bertanya kepada [Anas bin Malik], yakni di waktu pagi saat keduanya berada berangkat dari Mina ke Arafah, "Apa yang dulu kalian lakukan di hari ini bersama Rasulullah shallallahu 'alaihi wasallam?" Anas menjawab, "Dari rombongan kami ada yang membaca tahlil dan ia tidak diingkari, kemudian ada pula yang membaca takbir, dan ia pun tidak diingkari (oleh Rasulullah shallallahu 'alaihi wasallam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3097</td></tr><tr><td>Arabic No</td><td>1285.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 302</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3097</td></tr><tr><td>Arabic No</td><td>1285.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 302</td></tr></tbody></table></div>
 

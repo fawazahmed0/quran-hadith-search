@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Dharr who narrates that the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Khallad al-Bahili] telah menceritakan kepada kami [Yahya] -yaitu al-Qaththan- telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Sulaiman al-A'masy] dari [Sulaiman bin Mushir] dari [Kharasyah bin al-Hurr] dari [Abu Dzar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ada tiga orang yang mana Allah tidak mengajak mereka bicara pada hari kiamat: Orang yang suka memberi, dia memberi melainkan dengan menyebut-nyebutkannya (karena riya'), orang yang membuat laku barang dagangannya dengan sumpah palsu, serta orang yang melakukan isbal (memanjangkan) pakaian." Dan telah menceritakan kepada kami [Bisyr bin Khalid] telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Ja'far- dari [Syu'bah] dia berkata, saya mendengar [Sulaiman] dengan sanad ini, dan dia menyebutkan, "Ada tiga orang yang mana Allah tidak mengajak mereka berbicara dan tidak melihat kepada mereka serta tidak mensucikan mereka. Dan mereka mendapatkan siksa yang pedih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>294</td></tr><tr><td>Arabic No</td><td>106.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Зарра (да будет доволен им Аллах), что Пророк ﷺ сказал: «С тремя не заговорит Аллах в День воскрешения: оказывающий благодеяния людям, который не даёт ничего, чтобы не упрекнуть этим; сбывающий свой товар с помощью порочной клятвы; тот, кто опускает (полы) изара (до земли)».Сообщается, что Шу‘ба сказал: «Я слышал, как Сулейман (рассказывал хадис) с этим иснадом и сказал: “С тремя не заговорит Аллах, не посмотрит на них и не очистит их, и им (уготовано) мучительное наказание!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>294</td></tr><tr><td>Arabic No</td><td>106.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 200</td></tr></tbody></table></div>
 

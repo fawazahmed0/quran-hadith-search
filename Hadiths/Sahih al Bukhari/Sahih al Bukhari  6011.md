@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nu'man bin Bashir:Allah's Messenger (ﷺ) said, "You see the believe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zakariya'] dari ['Amir] dia berkata; saya mendengar [An Nu'man bin Basyir] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kamu akan melihat orang-orang mukmin dalam hal saling mengasihi, mencintai, dan menyayangi bagaikan satu tubuh. Apabila ada salah satu anggota tubuh yang sakit, maka seluruh tubuhnya akan ikut terjaga dan panas (turut merasakan sakitnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6011</td></tr><tr><td>Arabic No</td><td>6011</td></tr><tr><td>Reference</td><td>Book 78 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ан-Ну‘мана ибн Башира, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Ты видишь, что в своём милосердии, любви и сочувствии по отношению друг к другу верующие подобны (единому) телу: когда (одну из) частей его поражает болезнь, всё тело отзывается на это бессонницей и горячкой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6011</td></tr><tr><td>Arabic No</td><td>6011</td></tr><tr><td>Reference</td><td>Book 78 Hadith 42</td></tr></tbody></table></div>
 

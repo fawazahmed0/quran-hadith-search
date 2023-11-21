@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hammam said:Hudhaifah led the people in prayer in al-Mada’in standing on the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sinan] dan [Ahmad bin Al-Furat Abu Mas'ud Ar-Razi] dengan makna. Dia berkata; Telah menceritakan kepada kami [Ya'la] telah menceritakan kepada kami [Al-A'masy] dari [Ibrahim] dari [Hammam] bahwasanya [Hudzaifah] sedang mengimami masyarakat Mada'in di atas bangku panjang, maka Abu Mas'ud menarik bajunya, dan ketika selesai melaksanakan shalat, [Abu Mas'ud] berkata; Tidakkah kamu tahu bahwa mereka dilarang untuk melaksanakan hal demikian? Dia menjawab; Ya, aku ingat ketika kamu menarik bajuku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>597</td></tr><tr><td>Reference</td><td>Book 2 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хаммама о том, что однажды, когда Хузайфа возглавлял (в молитве) людей в Мадаине поднявшись на лавочку, Абу Мас‘уд (аль-Бадри) взялся за его рубаху и потянул его, а когда он закончил молитву, то сказал: «А разве ты не знаешь, что им запрещали это?». Он ответил: «Да, я вспомнил об этом, когда ты потянул меня (за одежду)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>597</td></tr><tr><td>Reference</td><td>Book 2 Hadith 207</td></tr></tbody></table></div>
 

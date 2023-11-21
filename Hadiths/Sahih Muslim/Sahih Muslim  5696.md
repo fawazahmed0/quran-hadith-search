@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported Allah's Messenger (ﷺ) as saying:If you are three, two amongs
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Hannad bin As Sari'] mereka berkata; Telah menceritakan kepada kami [Abu Al Ahwash] dari [Manshur]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Zuhair bin Harb] dan ['Utsman bin Abu Syaibah] serta [Ishaq bin Ibrahim] dan lafazh ini miliknya Zuhair. Berkata [Ishaq]; Telah mengabarkan kepada kami sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wail] dari [Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kamu bertiga, maka janganlah yang dua orang berbisik tanpa yang ketiga, sebelum dia berbaur dengan yang lainnya. Karena hal itu dapat menyinggung perasaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>2184.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>2184.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 50</td></tr></tbody></table></div>
 

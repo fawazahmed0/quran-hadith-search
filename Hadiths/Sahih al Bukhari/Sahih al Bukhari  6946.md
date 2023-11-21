@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I asked the Prophet, "O Allah's Messenger (ﷺ)! Should the wome
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Ibnu Juraij] dari [Ibnu Abi Mulaikah] dari [Abu Amru] alias Dzakwan, dari [Aisyah] radliallahu 'anhuma mengatakan, saya berkata; 'ya Rasulullah, apakah wanita dimintai izin pada kemaluan mereka? ' Nabi menjawab: "iya." Saya bertanya; 'sungguh gadis merasa malu lantas ia memilih diam jika dimintai persetujuannya.' Nabi shallallahu 'alaihi wasallam menjawab; "jika ia diam, itulah tanda persetujuannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6946</td></tr><tr><td>Arabic No</td><td>6946</td></tr><tr><td>Reference</td><td>Book 89 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Айша, да будет доволен ею Аллах, рассказывала: «Однажды я спросила: “О Посланник Аллаха, следует ли спрашивать у женщин их согласия на брак?” Он ответил: “Да”. Я сказала: “Однако, когда девственницу спрашивают согласие, она стесняется и молчит”. На что он ответил: “Её молчание и есть её согласие”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6946</td></tr><tr><td>Arabic No</td><td>6946</td></tr><tr><td>Reference</td><td>Book 89 Hadith 7</td></tr></tbody></table></div>
 

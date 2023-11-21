@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:saw Allah's Messenger (ﷺ) when the 'Asr prayer was due
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ishaq bin 'Abdullah bin Abu Thalhah] dari [Anas bin Malik] berkata, "Ketika waktu shalat Ashar tiba, orang-orang mencari air wudlu namun tidak mendapatkannya. Lalu aku melihat Rasulullah shallallahu 'alaihi wasallam diberi air wudlu, Rasulullah shallallahu 'alaihi wasallam kemudian meletakkan tangannya di atas bejana tersebut seraya memerintahkan orang-orang untuk berwudlu darinya." Anas berkata, "Aku melihat air keluar dari jari-jari beliau hingga semua orang sampai yang terakhir dapat berwudlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>169</td></tr><tr><td>Arabic No</td><td>169</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды, когда) я находился рядом с Посланником Аллаха ﷺ и настало время послеполуденной /‘аср/ молитвы, люди стали искать воду для омовения, но не сумели найти её. (Через некоторое время) Посланнику Аллаха ﷺ принесли сосуд с водой для омовения, и он опустил в этот сосуд руку, повелев людям совершать своё омовение (водой) из него». \n(Анас, да будет доволен им Аллах,) сказал: «И я увидел, как вода стала бить из-под его пальцев ключом, (что продолжалось до тех пор,) пока омовение не совершили все до последнего»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>169</td></tr><tr><td>Arabic No</td><td>169</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
 

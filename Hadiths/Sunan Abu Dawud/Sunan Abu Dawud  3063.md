@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amr ibn Awf al-Muzani: The Prophet (ﷺ) assigned as a fief to Bilal ib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin An Nadhir], ia berkata; saya telah mendengar [Al Hunaini] berkata; aku telah membacakannya tidak hanya sekali yaitu surat pengalokasian Nabi shallallahu 'alaihi wasallam. Abu Daud berkata; dan telah menceritakan kepada kami [lebih dari satu orang], dari [Husain bin Muhammad], telah mengabarkan kepada kami [Abu Uwais], telah menceritakan kepadaku [Katsir bin Abdullah] dari [ayahnya], dari [kakeknya], bahwa Nabi shallallahu 'alaihi wasallam telah mengalokasikan untuk Bilal bin Al Harits Al Muzani tambang Al Qabiliyyah, Jarsh. -Ibnu An Nadhr berkata; dan dataran tingginya serta Dzatu An Nushub. Kemudian lafazh mereka berdua sama: Dan tempat yang layak untuk ditanami dari lahan Quds dan beliau tidak memberikan kepada Bilal bin Al Harits hak seorang muslim. Nabi shallallahu 'alaihi wasallam menuliskan surat; ini adalah apa yang Rasulullah shallallahu 'alaihi wasallam berikan kepada Bilal bin Al Harits Al Muzani. Beliau telah memberikan kepadanya tambang Al Qabiliyyah daerah yang tinggi dan yang rendah Dan tempat yang layak untuk ditanami dari lahan Quds dan beliau tidak memberikan kepadanya hak seorang muslim. Abu Uwais berkata; dan telah menceritakan kepadaku [Tsaur bin Zaid], dari [Ikrimah] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam seperti itu. Ibnu An Nadhr menambahkan, dan Ubai bin Ka'b telah menuliskan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3063</td></tr><tr><td>Arabic No</td><td>3063</td></tr><tr><td>Reference</td><td>Book 20 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Касир ибн ‘Абдуллах передаёт от своего отца рассказ своего деда о том, что Пророк ﷺ дал Билялю ибн аль-Харису аль-Музани рудники Кабалиййи с возвышенностями и низинами, а также участок в Кудсе, который подходил для посевов, однако он не дал ему того, что уже являлось правом другого мусульманина. Пророк ﷺ написал ему: «Это то, что дал Посланник Аллаха ﷺ Билялю ибн аль-Харису аль-Музани: рудники Кабалиййи с возвышенностями и низинами и часть Кудса, подходящая для земледелия, однако он не давал ему того, что уже являлось правом мусульманина»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3063</td></tr><tr><td>Arabic No</td><td>3063</td></tr><tr><td>Reference</td><td>Book 20 Hadith 136</td></tr></tbody></table></div>
 

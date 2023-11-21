@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "Wailakum" (woe to you) or "waihakum"
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdul Wahhab] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Syu'bah] dari [Waqid bin Muhammad bin Zaid] saya mendengar [Ayahku] dari [Ibnu Umar] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Celakalah kalian -atau binasalah kalian-Syu'bah mengatakan; "Ada keraguan pada Waqid"- janganlah kalian kembali kepada kekufuran sepeninggalku yaitu dengan saling berperang di antara kalian." dan berkata [An Nadlar] dari [Syu'bah] dengan lafadz waihakum (celakalah kalian), dan [Umar bin Muhammad] berkata dari [ayahnya] dengan lafadz wailakum atau waihakum (celakalah kalian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6166</td></tr><tr><td>Arabic No</td><td>6166</td></tr><tr><td>Reference</td><td>Book 78 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Горе вам, не становитесь после меня неверными, которые рубят друг другу головы!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6166</td></tr><tr><td>Arabic No</td><td>6166</td></tr><tr><td>Reference</td><td>Book 78 Hadith 192</td></tr></tbody></table></div>
 

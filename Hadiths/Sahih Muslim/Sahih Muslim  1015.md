@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:The Apostle of Allah (ﷺ) used to recite in every 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abu 'Awanah] dari [Manshur] dari [al-Walid Abi Bisyr] dari [Abu ash-Shiddiq an-Naji] dari [Abu Sa'id al-Khudri] "Bahwa Nabi shallallahu 'alaihi wasallam dahulu membaca dua rakaat pertama dari shalat zhuhur; pada setiap rakaat kira-kira tiga puluh ayat, dan pada dua rakaat berikutnya kira-kira lima belas ayat -atau dia mengatakan setengah dari hal tersebut-. Sedangkan dua rakaat pertama dari shalat ashar; maka pada setiap rakaat sekedar bacaan lima belas ayat dan pada dua rakaat lainnya sekedar setengah dari hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1015</td></tr><tr><td>Arabic No</td><td>452.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Са‘ида аль-Худри, что во время совершения каждого из двух первых рак‘атов полуденной /зухр/ молитвы Пророк ﷺ обычно прочитывал около тридцати аятов, а во время совершения каждого из двух вторых около пятнадцати (или: половину того). Совершая же первые два рак‘ата послеполуденной /‘аср/ молитвы, во время каждого рак‘ата он (обычно) прочитывал около пятнадцати аятов, а когда совершал вторые два рак‘ата половину того
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1015</td></tr><tr><td>Arabic No</td><td>452.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 177</td></tr></tbody></table></div>
 

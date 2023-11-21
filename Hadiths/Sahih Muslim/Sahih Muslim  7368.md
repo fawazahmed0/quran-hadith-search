@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa reported Allah's Messenger (ﷺ) as saying:the Dajjal would have with h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah]. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], teks miliknya, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abdulmalik bin Umair] dari [Rib'I bin Hirasy] dari [Hudzaifah] dari nabi Shallallahu 'alaihi wa Salam bersabda tentang Dajjal: "Sesungguhnya bersamanya ada air dan api, apanya adalah air dingin dan airnya adalah api, karena itu janganlah kalian binasa." [Abu Mas'ud] berkata: Aku mendengarnya dari Rasulullah Shallallahu 'alaihi wa Salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7368</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа (ибн аль-Яман) передал, что относительно Даджаля, Пророк ﷺ сказал: «Поистине, будут с ним вода и огонь, но огонь его (окажется) прохладной водой, а вода огнём, так не губите (себя)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7368</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

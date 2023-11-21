@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), l'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Al Qasim bin Al Fadhll Al Huddani] dari [Muhammad bin Ziyad] dari [Abdullah bin Zubair] bahwa [Aisyah] berkata: Suatu ketika Rasulullah shallallahu 'alaihi wasallam pernah bergerak-gerak dalam tidurnya, kami berkata: Wahai Rasulullah, dalam tidurmu engkau telah melakukan sesuatu yang belum pernah engkau lakukan sebelumnya. Beliau bersabda: "Aneh, sesungguhnya ada beberapa orang dari umatku yang menuju Baitullah (untuk menyerang) seseorang Quraisy yang berlindung ke Baitullah. Saat mereka telah sampai di padang pasir, merekapun dibenamkan." Kami berkata: Wahai Rasulullah, sesungguhnya jalan menyatukan banyak orang. Beliau menjawab: "Ya", di antara mereka ada yang memang sengaja menuju ke sana, ada yang terpaksa, bahkan ada yang hanya kebetulan sedang berjalan bersama mereka. Mereka semua dibinasakan sekaligus, akan tetapi mereka dibangkitkan dengan cara yang berbeda-beda. Allah membangkitkan mereka semua sesuai dengan niat mereka masing-masing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7244</td></tr><tr><td>Arabic No</td><td>2884</td></tr><tr><td>Reference</td><td>Book 54 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7244</td></tr><tr><td>Arabic No</td><td>2884</td></tr><tr><td>Reference</td><td>Book 54 Hadith 10</td></tr></tbody></table></div>
 

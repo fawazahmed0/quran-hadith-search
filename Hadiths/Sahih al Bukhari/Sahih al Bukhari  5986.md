@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah 's Apostle said, "Whoever loves that he be granted
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa ingin lapangkan pintu rizqi untuknya dan dipanjangkan umurnya hendaknya ia menyambung tali silaturrahmi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5986</td></tr><tr><td>Arabic No</td><td>5986</td></tr><tr><td>Reference</td><td>Book 78 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: “Пусть тот, кто желает, чтобы удел его был увеличен, а срок жизни продлён, поддерживает родственные узы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5986</td></tr><tr><td>Arabic No</td><td>5986</td></tr><tr><td>Reference</td><td>Book 78 Hadith 17</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:That he was in the company of Allah's Messenger (ﷺ) and wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu An Nadhir, mantan budak (yang telah dimerdekakan oleh) 'Umar bin 'Ubaidillah] dari [Nafi', maula Abu Qatadah Al Anshariy] dari [Abu Qatadah radliallahu 'anhu] bahwa dia pernah bersama Nabi shallallahu 'alaihi wasallam hingga ketika sampai di suatu jalan menuju Makkah, dia tertinggal dari rambongan bersama teman-temannya yang dalam keadaam berihram sedang dia tidak. Kemudian dia melihat seekor keledai liar dan seketika itu dia langsung menunggang kudanya dan meminta kepada teman-temannya agar memberikan cambuknya namun mereka tidak mau. Lalu dia meminta tombaknya namun mereka kembali tidak mau. Akhirnya dia mengambil sendiri lalu mengejar keledai itu hingga dapat membunuhnya. Kemudian dia memakan dagingnya begitu juga sebagian dari sahabat-sahabat Nabi shallallahu 'alaihi wasallam ada yang memakannya dan sebagian lain ada yang tidak memakannya. Ketika mereka bertemu Nabi shallallahu 'alaihi wasallam mereka bertanya tentang masalah tadi. Maka Beliau berkata: "Sesungguhnya itu adalah makanan yang Allah berikan kepada kalian". Dan dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abu Qatadah] tentang keledai liar seperti hadits Abu An Nadhir berkata: "Apakah masih ada pada kalian sisa sebagian dagingnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2914</td></tr><tr><td>Arabic No</td><td>2914</td></tr><tr><td>Reference</td><td>Book 56 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Катады, да будет доволен им Аллах, что он сопровождал Посланника Аллаха ﷺ, а по дороге в Мекку отстал вместе со своими товарищами. Они были в состоянии ихрама, а он нет. Увидев дикого осла, Абу Катада сел верхом на своего коня и попросил товарищей подать ему плеть, но они отказались, он попросил подать ему копьё, но они опять отказались. Тогда он сам его взял, а потом погнался за ослом и убил его. Затем некоторые сподвижники Пророка ﷺ поели его мяса, а некоторые отказались есть. Догнав Посланника Аллаха ﷺ, они спросили его об этом, и он сказал: «Это просто еда, которой вас накормил Аллах». Так же передается, что он спросил: «У вас есть с собой что-нибудь из этого мяса?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2914</td></tr><tr><td>Arabic No</td><td>2914</td></tr><tr><td>Reference</td><td>Book 56 Hadith 127</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) has set forth an example for a mise
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Abu 'Amir] telah menceritakan kepada kami [Ibrahim bin Nafi'] dari [Al Hasan] dari [Thawus] dari [Abu Hurairah] dia berkata; Rasulullah Shalallahu 'Alaihi Wa Sallam membuat perumpamaan orang yang bakhil dan orang yang suka bersedekah seperti dua orang yang memakai dua jubah dari besi, mulai dari payudara (dada) sampai tulang selangka mereka berdua. Jika orang tersebut ingin berinfak, maka baju besinya melebar atau bergerak hingga menutupi ujung jarinya dan menghilangkan bekas jalannya. Jika orang yang bakhil ingin berinfak, baju besinya mengerut, dan setiap baju besi tetap di tempatnya (tidak melebar) hingga mengambilnya dengan tulang selangkanya atau dengan lehernya." Abu Hurairah berkata; 'Aku menyaksikan bahwa ia melihat Rasulullah Shalallahu 'Alaihi Wa Sallam memberi isyarat dengan jari-jarinya dengan melebarkan tameng besi, namun aku melihat baju tersebut tidak melebar.' Hadits ini juga diperkuat oleh [Ibnu Thawus] dari [Ayahnya] dan [Abu Az Zinnad] dari [Al A'raj] mengenai dua jubah, sedangkan [Hanzhalah] mengatakan; aku mendengar [Thawus] saya mendengar [Abu Hurairah] mengatakan dua jubah, [Ja'far bin Hayyan] mengatakan dari [Al A'raj] yaitu dua jubah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5797</td></tr><tr><td>Arabic No</td><td>5797</td></tr><tr><td>Reference</td><td>Book 77 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сравнил скупого и расходующего с двумя людьми в джуббах из железа (, покрывающих их тела) так плотно, что их руки подняты к ключицам. Каждый раз, как расходующий тратит что-нибудь, (его джубба) обязательно становится более обширной /или: увеличивается/ (и так продолжается) до тех пор, пока она не начинает покрывать кончики его пальцев и стирать его следы. Что же касается скупого, то, когда бы он ни захотел потратить что-нибудь, каждое кольцо (его железной джуббы) обязательно прилипает к своему месту и не расширяется (, несмотря на то, что он старается) расширить его. Затем он указал пальцем на своё горло»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5797</td></tr><tr><td>Arabic No</td><td>5797</td></tr><tr><td>Reference</td><td>Book 77 Hadith 15</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) collected every two martyrs of Uh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Al Laits bin Sa'ad] berkata, telah menceritakan kepada kami [Ibnu Syihab] dari ['Abdurrahman bin Ka'ab bin Malik] dari [Jabir bin 'Abdullah radliallahu 'anhua] berkata,: "Nabi Shallallahu'alaihiwasallam pernah menggabungkan dalam satu kubur dua orang laki-laki yang gugur dalam perang Uhud dan dalam satu kain, lalu bersabda: "Siapakah diantara mereka yang lebih banyak mempunyai hafalan Al Qur'an". Bila Beliau telah diberi tahu kepada salah satu diantara keduanya, maka Beliau mendahulukannya didalam lahad lalu bersabda: "Aku akan menjadi saksi atas mereka pada hari qiyamat". Maka kemudian Beliau memerintahkan agar menguburkan mereka dengan darah-darah mereka dan tidak pula dimandikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1353</td></tr><tr><td>Arabic No</td><td>1353</td></tr><tr><td>Reference</td><td>Book 23 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал, что Пророк ﷺ (повелевал) заворачивать павших в битве при Ухуде в один кусок ткани по двое, а потом спрашивал: «Кто из них знал Коран больше?» — когда же ему указывали на одного из них, он (распоряжался) укладывать его в могилу первым и говорил: «Я буду свидетельствовать за них в День воскресения!» И он велел хоронить их, не смывая с них кровь, и не приказал их мыть
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1353</td></tr><tr><td>Arabic No</td><td>1353</td></tr><tr><td>Reference</td><td>Book 23 Hadith 107</td></tr></tbody></table></div>
 

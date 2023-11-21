@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The aforesaid tradition has also been transmitted by Zaid bin Khalid al-Juhani t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1707</td></tr><tr><td>Arabic No</td><td>1707</td></tr><tr><td>Reference</td><td>Book 10 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Халида аль-Джухани. да будет доволен им Аллах, что как-то раз Посланника Аллаха ﷺ спросили о том, что следует делать с найденным. И он упомянул подобный хадис, сказав, что Посланника Аллаха ﷺ спросили о находке, и он сказал: «Сначала объявляй о находке в течение года, и если к тебе придёт хозяин найденного, тебе следует отдать находку ему. В противном случае запомни, как выглядит то, чем было перевязано найденное, и то, в чём оно находилось, после чего можешь присоединить это к своему имуществу, а если к тебе придёт хозяин, тебе следует вернуть ему это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1707</td></tr><tr><td>Arabic No</td><td>1707</td></tr><tr><td>Reference</td><td>Book 10 Hadith 7</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Prophet said, "If anyone of you stands for prayer, he shoul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] berkata, telah menceritakan kepada kami berkata [Abdurrazaq] dari [Ma'mar] dari [Hammam] ia mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika salah seorang dari kalian berdiri shalat, maka janganlah meludah ke arah depannya sebab ia sedang berhadapan dengan Allah selagi ia berada di tempat shalatnya, dan jangan ke sebelah kanannya karena di sana ada Malaikat. Tetapi hendaklah ia meludah ke arah kiri atau di bawah kakinya, kemudian dikuburnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>416</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хаммама о том, что он слышал, как Абу Хурайра рассказывал, что Пророк ﷺ сказал: «Если кто-нибудь из вас встанет на молитву, пусть не плюет перед собой, ибо он ведёт тайную беседу с Аллахом, пока находится на месте совершения молитвы, (и пусть не плюёт) направо, ибо справа от него находится ангел. Но пусть сплюнет налево или себе под ногу, а потом пусть зароет (плевок)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>416</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 66</td></tr></tbody></table></div>
 

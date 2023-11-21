@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) was asked, "What is the best deed?
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] dan [Musa bin Isma'il] keduanya berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] berkata, telah menceritakan kepada kami [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam ditanya tentang Islam, manakah yang paling utama? Maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Iman kepada Allah dan Rasul-Nya". Lalu ditanya lagi: "Lalu apa?" Beliau menjawab: "Al Jihad fi sabilillah (berperang di jalan Allah). Lalu ditanya lagi: "Kemudian apa lagi?" Jawab Beliau shallallahu 'alaihi wasallam: "haji mabrur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 2 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что однажды Посланника Аллаха ﷺ спросили: «Какое дело является наилучшим?» Он ответил: «Вера в Аллаха и Его посланника». (Его) спросили: «А после этого?» Он ответил: «Борьба на пути Аллаха». (Его снова) спросили: «А после этого?» Он ответил: «Безупречный хадж»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 2 Hadith 19</td></tr></tbody></table></div>
 

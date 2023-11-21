@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:Khaula bint Hakim was one of those ladies who presented
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sallam] Telah menceritakan kepada kami [Ibnu Fudlail] Telah menceritakan kepada kami [Hisyam] dari [bapaknya] ia berkata; Khaulah binti Hakim adalah termasuk salah seorang dari para wanita yang telah mengibahkan dirinya kepada Nabi shallallahu 'alaihi wasallam. Maka [Aisyah] pun berkata, "Tidakkah seorang wanita itu merasa malu, saat menghibahkan dirinya kepada seorang laki-laki?" Maka ketika ayat ini turun, "TURJI'U MAN TASYAA'U MINHUNNA.." aku berkata, "Wahai Rasulullah, tidaklah aku melihat Rabb-mu, kecuali Dia mempercepat hasrat Anda." Ini diriwayatkan oleh [Abu Sa'id Al Mu'addibi], [Muhammad bin Bisyr] dan [Abdah] dari [Hisyam] dari [bapaknya] dari [Aisyah]. Dan sebagian mereka menambah atas sebagian yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Arabic No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 67 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хишам передал, что его отец сказал: «Хауля бинт Хаким была одной из тех женщин, которые предлагали себя в дар Пророку ﷺ. ‘Аиша сказала: “Как женщине не стыдно дарить себя мужчине?” (Однако,) когда Аллах Всевышний ниспослал (аят, в котором говорится): “Ты (можешь) отложить (очередь), кого хочешь из них…”, ‘Аиша сказала: “О Посланник Аллаха, я вижу, что Господь твой всегда сразу же выполняет твои желания!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Arabic No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 67 Hadith 50</td></tr></tbody></table></div>
 

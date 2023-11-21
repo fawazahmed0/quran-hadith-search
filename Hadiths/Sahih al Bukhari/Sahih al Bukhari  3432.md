@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:I heard the Prophet (ﷺ) saying, "Mary, the daughter of 'Imran, w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ahmad bin Abu Raja'] telah bercerita kepada kami [an-Nadlar] dari [Hisyam] berkata telah mengabarkan kepadaku [bapakku], katanya; aku mendengar ['Abdullah bin Ja'far] berkata, aku mendengar ['Ali radliallahu 'anhu] berkata, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Wanita yang paling baik pada jamannya adalah Maryam 'alaihis salam dan wanita yang paling baik pada jamannya adalah Khadijah radliallahu 'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3432</td></tr><tr><td>Arabic No</td><td>3432</td></tr><tr><td>Reference</td><td>Book 60 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Лучшей женщиной (мира этого в своё время) была Марйам, дочь ‘Имрана, а лучшей женщиной (этой общины) является Хадиджа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3432</td></tr><tr><td>Arabic No</td><td>3432</td></tr><tr><td>Reference</td><td>Book 60 Hadith 103</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Malik: The Prophet (ﷺ) sent a detachment. I gave a sword to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ma'in], telah menceritakan kepada kami [Abdushshamad bin Abdul Warits], telah menceritakan kepada kami [Sulaiman bin Al Mughirah], telah menceritakan kepada kami [Humaid bin Hilal], dari [Bisyr bin 'Ashim] dari ['Uqbah bin Malik] dari keluarganya, ia berkata; Nabi shallallahu 'alaihi wasallam telah mengirim satuan pasukan kemudian aku mempersenjatai seseorang diantara mereka dengan pedang, kemudian tatkala kembali ia berkata; seandainya engkau melihat celaan Rasulullah shallallahu 'alaihi wasallam kepada kita, beliau berkata: "Apakah kalian mampu ketika aku mengirim seseorang (sebagai utusan) diantara kalian kemudian ia tidak menunaikan perintahku, lalu kalian menjadikannya sebagai orang yang menunaikan perintahku?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2627</td></tr><tr><td>Arabic No</td><td>2627</td></tr><tr><td>Reference</td><td>Book 15 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба ибн Малик рассказывал: «Однажды Пророк ﷺ отправил отряд, а я отдал одному из участников (этого отряда) меч. Вернувшись, он сказал: “О, если бы ты видел, как Посланник Аллаха ﷺ порицал нас и сказал: “Если я посылаю одного из вас (в качестве руководителя отряда), а он не выполняет моих приказов, то неужели вы не можете назначить вместо него того, кто будет их выполнять?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2627</td></tr><tr><td>Arabic No</td><td>2627</td></tr><tr><td>Reference</td><td>Book 15 Hadith 151</td></tr></tbody></table></div>
 

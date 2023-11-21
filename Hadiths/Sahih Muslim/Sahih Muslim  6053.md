@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:I never smelt ambergris or musk as fragrant as the fragrance of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Ja'far bin Sulaiman] dari [Tsabit] dari [Anas]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Zuhair bin Harb] dan lafazh ini miliknya; Telah menceritakan kepada kami [Hasyim] yaitu Ibnu Al Qasim; Telah menceritakan kepada kami [Sulaiman] dan dia Ibnu Al Mughirah dari [Tsabit] dia berkata; [Anas] berkata; "Minyak misik dan minyak ambar atau sesuatu yang lain yang pernah saya cium, tidak ada yang melebihi semerbak wanginya badan beliau." Dan tidaklah saya menyentuh sesuatu, baik berupa sutera atau yang lainnya yang lebih halus dari pada telapak tangan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6053</td></tr><tr><td>Arabic No</td><td>2330.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6053</td></tr><tr><td>Arabic No</td><td>2330.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 111</td></tr></tbody></table></div>
 

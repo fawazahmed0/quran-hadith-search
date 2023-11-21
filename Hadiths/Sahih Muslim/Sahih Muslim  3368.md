@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ AbduUah b. Zaid al-Mazini (Allah be pleased with him) reported Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] sebagaimana yang telah dibacakan kepadanya, dari [Abdullah bin Abu Bakr] dari [Abbad bin Tamim] dari [Abdullah bin Zaid Al Mazini] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tempat antara rumahku dan minbarku adalah satu taman dari taman-taman surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3368</td></tr><tr><td>Arabic No</td><td>1390.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 572</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3368</td></tr><tr><td>Arabic No</td><td>1390.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 572</td></tr></tbody></table></div>
 

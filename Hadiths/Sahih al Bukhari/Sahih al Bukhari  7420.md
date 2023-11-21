@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Zaid bin Haritha came to the Prophet (ﷺ) complaining about his w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad] telah menceritakan kepada kami [Muhammad bin Abu Bakar Al Muqaddami] telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas] berkata, "Zaid bin Haritsah datang melaporkan keluh kesahnya, lantas Nabi shallallahu 'alaihi wasallam bersabda: "Bertakwalah engkau kepada Allah, dan tahanlah isterimu." Anas berkata, "Kalaulah Rasulullah sudah merahasiakan sesuatu, beliau sungguh merahasiakannya." Ketika itu Zainab binti Jahsyin membanggakan diri kepada isteri-isteri beliau lainnya seraya berkata, 'Kalian dikawinkan oleh keluarga kalian, sebaliknya aku dikawinkan sendiri oleh Allah ta'ala dari atas langit berlapis tujuh.' Dan masih dari Tsabit mengenai ayat: '(Dan kamu merahasiakan urusanmu yang Allah membeberkannya, dan kamu takut kepada manusia) ' (Qs. Al Ahzab: 37), ayat ini diturunkan tentang percekcokan rumah tangga Zainab dan Zaid bin Haritsah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7420</td></tr><tr><td>Arabic No</td><td>7420</td></tr><tr><td>Reference</td><td>Book 97 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик), да будет доволен им Аллах, сказал: «Однажды Зейд ибн Хариса, да будет доволен им Аллах, пришёл жаловаться (на свою жену), и Пророк ﷺ сказал: “Побойся Аллаха и удержи при себе свою жену”».\nАнас сказал: «Если бы Посланник Аллаха ﷺ скрывал что-то, то он скрыл бы это».\nОн же сказал: «И Зейнаб гордилась этим перед остальными жёнами Пророка ﷺ говоря: “Вас выдали замуж ваши родственники, а меня выдал замуж Всевышний Аллах с высоты семи небес”».\nПередают со слов Сабита, что аят «Ты скрыл в своей душе то, что Аллах сделает явным, и ты опасался людей» (Сура 33 «аль-Ахзаб», аят 37), был ниспослан по поводу Зейнаб и Зейда ибн Харисы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7420</td></tr><tr><td>Arabic No</td><td>7420</td></tr><tr><td>Reference</td><td>Book 97 Hadith 48</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ And narrated Abu Huraira:Whenever Allah's Messenger (ﷺ) stood for the prayer, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepadaku [Abu Bakar bin 'Abdurrahman] bahwa dia mendengar [Abu Hurairah] berkata, "Jika Rasulullah shallallahu 'alaihi wasallam shalat, beliau takbir saat memulai berdiri (takbiratul Ikram), kemudian ketika akan rukuk sambil membaca: 'SAMI'ALLAHU LIMAN HAMIDAH (semoga Allah mendengar orang yang memuji-Nya) ' ketika mengangkat punggungnya dari rukuk, dalam saat posisi berdiri baliau membaca: RABBANAA LAKAL HAMDU (Ya Rabb kami, milik-Mu lah segala pujian) '." ['Abdullah bin Shalih] dari [Al Laits] menyebutkan, 'WA LAKAL HAMDU', kemudian bertakbir ketika turun (sujud), kemudian bertakbir ketika mengangkat kepala (dari sujud), lalu bertakbir ketika sujud dan ketika mengangkat kepalanya (dari sujud), kemudian Beliau melakukan seperti itu dalam shalat seluruhnya hingga selesai. Dan beliau juga bertakbir ketika bangkit dari dua rakaat setelah duduk (tasyahud awal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>789</td></tr><tr><td>Arabic No</td><td>789</td></tr><tr><td>Reference</td><td>Book 10 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Когда Посланник Аллаха ﷺ приступал к молитве, он произносил такбир. Затем когда совершал поясной поклон, он произносил такбир. Затем он говорил: «Сами‘а-Ллаху лиман хамидах», когда выпрямлял спину, после чего говорил стоя: «Раббана лякяль хамд».\nСказал ‘Абдуллах ибн Салих, передавая от Лейса: «“…уа лякяль-хамд”, затем произносил такбир, падая ниц (на земной поклон); затем произносил такбир, когда поднимал голову; затем произносил такбир, когда совершал земной поклон; затем произносил такбир, когда поднимал голову; затем он делал это во всей молитве, пока не завершал её. И он произносил такбир, когда вставал с ташаххуда /сидения/ после двух первых рак‘атов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>789</td></tr><tr><td>Arabic No</td><td>789</td></tr><tr><td>Reference</td><td>Book 10 Hadith 184</td></tr></tbody></table></div>
 

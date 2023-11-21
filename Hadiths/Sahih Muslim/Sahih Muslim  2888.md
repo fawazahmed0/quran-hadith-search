@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nubaih b Wahb reported that the eyes of Umar b. Ubaidnllah b. Ma'mar were swolle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah menceritakan kepada kami [Abdush Shamad bin Abdul Warits] telah menceritakan kepadaku [bapakku] telah menceritakan kepada kami [Ayyub bin Musa] telah menceritakan kepadaku [Nubaih bin Wahb] bahwa Umar bin Ubaidullah bin Ma'mar sakit mata, lalu ia ingin mencelakinya, namun [Aban bin Utsman] segera melarangnya dan ia menyuruhnya untuk membalutnya dengan daun Sabir. Kemudian Aban menceritakan (hadits) dari [Utsman] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam, baha beliau pernah melakukan terapi tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2888</td></tr><tr><td>Arabic No</td><td>1204.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2888</td></tr><tr><td>Arabic No</td><td>1204.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 98</td></tr></tbody></table></div>
 

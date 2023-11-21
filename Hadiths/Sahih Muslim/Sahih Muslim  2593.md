@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that a person came to the Apottle of Allah (ﷺ) asking for a fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] - [Ibnu Ayyub] berkata- telah menceritakan kepada kami [Isma'il bin Ja'far] telah mengabarkan kepadaku [Abdullah bin Abdurrahman] -ia adalah Ibnu Ma'mar bin Hazm Al Anshari Abu Thuwalah bahwa [Abu Yunus] Maula Aisyah telah mengabarkan kepadanya dari [Aisyah] bahwasanya; Ada seorang laki-laki datang meminta fatwa kepada Nabi shallallahu 'alaihi wasallam, sementara Aisyah waktu itu mendengar dari balik pintu. Lakli-laki itu bertanya: "Wahai Rasululah, waktu shalat telah tiba sedangkan aku dalam keadaan junub. Bolehkah aku meneruskan puasaku?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Aku pun pernah mendapati waktu Subuh dalam keadaan junub, namun aku tetap berpuasa." Laki-laki itu berkata, "Anda tidaklah sama dengan kami wahai Rasulullah. Sebab Allah telah mengampuni dosa-dosa Anda baik telah berlalu atau pun yang akan datang." Maka beliau pun bersabda: "Sesunguhnya saya berharap, bahwa sayalah yang paling takut kepada Allah di antara kalian, dan paling tahu bagaimana caranya bertakwa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2593</td></tr><tr><td>Arabic No</td><td>1110</td></tr><tr><td>Reference</td><td>Book 13 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2593</td></tr><tr><td>Arabic No</td><td>1110</td></tr><tr><td>Reference</td><td>Book 13 Hadith 99</td></tr></tbody></table></div>
 

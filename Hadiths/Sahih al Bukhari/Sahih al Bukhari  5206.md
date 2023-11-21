@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] Telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha, yakni terkait dengan firman-Nya: "WA INIMRA'ATUN KHAAFAT MIN BA'LIHAA NUSYUUZAN AW I'RAADLAN.." 'Aisyah berkata, "Ia adalah seorang wanita yang berada di bawah seorang suami. Namun sang suami tak mendapatkan hal banyak darinya, hingga ia pun ingin menceraikannya lalu menikahi wanita lain. Maka sang wanita pun berkata, 'Tahanlah aku, jangan kau ceraikan. Nikahilah wanita lain, kamu halal (untuk tidak memberi) nafkah atasku begitu pula pembagian jatah untukku.' Itulah maksud dari firman Allah Ta'ala: 'FALAA JUNAAHA 'ALAIHIMAA AN YASHSHAALAHAA BAINAHUMAA SHULHAA WASH SHULHU KHAIR
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5206</td></tr><tr><td>Arabic No</td><td>5206</td></tr><tr><td>Reference</td><td>Book 67 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала относительно аята «Если женщина опасается, что муж будет проявлять к ней неприязнь или отворачиваться от неё…»: «Речь идёт о женщине, муж которой перестал испытывать потребность в ней и хочет развести её и жениться на другой женщине. Она же говорит ему: “Оставь меня и не разводи, женись на другой женщине, а я отказываюсь от своего права расходования на меня и деления ночей”. Об этом слова Всевышнего: “…то на них обоих не будет греха, если они заключат между собой мир, ибо мирное решение — лучше”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5206</td></tr><tr><td>Arabic No</td><td>5206</td></tr><tr><td>Reference</td><td>Book 67 Hadith 140</td></tr></tbody></table></div>
 

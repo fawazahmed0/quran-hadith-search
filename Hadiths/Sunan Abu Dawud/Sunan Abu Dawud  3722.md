@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu sa’id al-Khudri said:The apostle of Allah (ﷺ) forbade drinking from the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Qurrah bin Abdurrahman] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah bin 'Utbah] dari [Abu Sa'id Al Khudri] bahwa ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang minum dari mulut bejana dan bernafas di dalamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3722</td></tr><tr><td>Arabic No</td><td>3722</td></tr><tr><td>Reference</td><td>Book 27 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил пить из горлышка кувшина и дуть на питьё
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3722</td></tr><tr><td>Arabic No</td><td>3722</td></tr><tr><td>Reference</td><td>Book 27 Hadith 54</td></tr></tbody></table></div>
 

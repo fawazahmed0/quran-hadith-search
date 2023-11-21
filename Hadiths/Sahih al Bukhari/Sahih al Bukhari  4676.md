@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ka'b:I heard Ka'b bin Malik talking about the Verse:-- 'A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] dia berkata; Telah menceritakan kepadaku [Ibnu Wahb] dia berkata; Telah mengabarkan kepadaku [Yunus] -Demikian juga diriwayatkan dari jalur lainnya-, [Ahmad] berkata; Dan telah menceritakan kepada kami ['Anbasah] Telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] dia berkata; Telah mengabarkan kepadaku ['Abdur Rahman bin Ka'ab bin Malik] dia berkata; Telah mengabarkan kepadaku ['Abdullah bin Ka'ab] dan dia adalah anaknya yang biasa menuntun Ka'ab ketika dia buta. Dia berkata; Aku mendengar [Ka'b bin Malik] menceritakan peristiwanya mengenai firman: dan terhadap tiga orang yang ditangguhkan (penerimaan taubat) mereka, (At Taubah: 118). Diakhir ceritanya Ka'ab berkata; wahai Rasulullah, sesungguhnya taubatku adalah melepaskan diri dari hartaku sebagai sedekah kepada Allah dan RasulNya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Tahanlah sebagian hartamu, hal tersebut lebih baik bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4676</td></tr><tr><td>Arabic No</td><td>4676</td></tr><tr><td>Reference</td><td>Book 65 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ’Абдуллаха ибн Ка’ба, что рассказывая об аяте «…и тех троих, которым было отсрочено…», Ка‘б ибн Малик сказал в конце своего рассказа: «Поистине, частью моего покаяния будет то, что я отдам всё своё имущество в качестве милостыни ради Аллаха и Его Посланника ﷺ». Посланник Аллаха ﷺ сказал: «Оставь себе часть своего имущества, так будет лучше для тебя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4676</td></tr><tr><td>Arabic No</td><td>4676</td></tr><tr><td>Reference</td><td>Book 65 Hadith 198</td></tr></tbody></table></div>
 

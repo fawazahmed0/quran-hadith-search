@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Qatâda (que Dieu l'agrée) a dit : Pendant que nous faisions la prière av
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Muhammad bin Mubarak Ash Shuri] telah menceritakan kepada kami [Muawiyah bin Salam] dari [Yahya bin Abu Katsir] telah mengabarkan kepadaku [Abdullah bin Abu Qatadah], bahwa [Ayahnya] telah mengabarkan kepadanya, dia berkata; "Ketika kami hendak mengerjakan shalat bersama Rasulullah shallallahu 'alaihi wasallam, beliau mendengar suara gaduh, lalu beliau bertanya: "Ada apa dengan kalian?" Mereka menjawab; "Kami tergesa-gesa untuk mengerjakan shalat." Beliau bersabda: "Janganlah kalian melakukan seperti itu, jika kalian mendatangi shalat, lakukanlah dengan tenang, apa yang kalian dapatkan dari shalat maka ikutilah, dan apa yang kalian tertinggal maka sempurnakanlah." Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Mu'awiyah bin Hisyam] telah menceritakan kepada kami [Syaiban] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1363</td></tr><tr><td>Arabic No</td><td>603.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада сказал: «(Однажды), когда мы совершали молитву вместе с Посланником Аллаха ﷺ, он услышал (позади себя) крики людей. (После молитвы Пророк ﷺ) спросил (их): “В чём дело?” Они ответили: “Мы спешили на молитву”. Тогда он сказал: “(Впредь) не поступайте так! Если вы явились на молитву, вам следует сохранять спокойствие. Совершите (вместе со всеми ту часть) молитвы, на которую вы успели, а (рак‘аты, совершённые другими) раньше, восполните (позже)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1363</td></tr><tr><td>Arabic No</td><td>603.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 198</td></tr></tbody></table></div>
 

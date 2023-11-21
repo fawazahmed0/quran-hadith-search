@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported from the Messenger of Allah (ﷺ) that he forbade keeping o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [al-Hakam bin Musa al-Qanthari] telah menceritakan kepada kami [Abdullah bin al-Mubarak] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abu Khalid] dan [Abu Usamah] semuanya meriwayatkan dari [Hisyam] dari [Muhammad] dari [Abu Hurairah radhiyallahu'anhu] dari Nabi Shallallahu'alaihiwasallam, "Bahwa Nabi Shallallahu'alaihiwasallam, melarang seorang lelaki shalat dengan berkacak pinggang." Dan dalam riwayat Abu Bakar, dia berkata, 'Rasulullah Shallallahu'alaihiwasallam melarang (hal tersebut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1218</td></tr><tr><td>Arabic No</td><td>545</td></tr><tr><td>Reference</td><td>Book 5 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра передал, что Пророк ﷺ запрещал молиться, возлагая руки на бока
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1218</td></tr><tr><td>Arabic No</td><td>545</td></tr><tr><td>Reference</td><td>Book 5 Hadith 58</td></tr></tbody></table></div>
 

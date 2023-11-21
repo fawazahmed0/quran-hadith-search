@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm 'Atiyya (رضي الله عنها) a dit : "Le Prophète (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Rabi' Az Zahrani] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Ummu 'Athiyah] ia berkata; Nabi shallallahu 'alaihi wasallam memerintahkan kepada kami agar mengajak serta keluar para gadis dan wanita-wanita yang dipingit pada dua hari raya, dan beliau memerintahkan para wanita yang sedang haidl menjauh dari mushalla (tempat shalat) kaum muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2054</td></tr><tr><td>Arabic No</td><td>890.01</td></tr><tr><td>Reference</td><td>Book 8 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыйя сказала: «Пророк ﷺ приказывал нам выводить (на молитвы в дни двух праздников) совершеннолетних девушек и девственниц, сидящих за занавесками. А женщинам, у которых началась менструация, он приказал сторониться места совершения праздничной молитвы мусульман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2054</td></tr><tr><td>Arabic No</td><td>890.01</td></tr><tr><td>Reference</td><td>Book 8 Hadith 10</td></tr></tbody></table></div>
 

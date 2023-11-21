@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) said: The people will establish citie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Ash Shabbah] berkata, telah menceritakan kepada kami [Abdul Aziz bin Abdu Ash Shamad] berkata, telah menceritakan kepada kami [Musa Al Hannath] -aku tidak mengetahuinya kecuali ia menyebutkannya- dari [Musa bin Anas] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda kepadanya: "Wahai Anas, sesungguhnya manusia akan menempati banyak tempat, dan salah satu tempat itu bernama Bashrah, atau Bushairah. Jika kamu melewati tempat itu, atau masuk ke dalamnya, maka hindarilah tempat-tempat yang tanahnya asin (lapang karena sidikit pohon), dan tempat penambatan kapal (dermaga), serta pasar-pasar dan para penguasanya. Pergilah ke tempat-tempat pelosok (daerah pegunungan), karena wilayah wilayah tersebut banyak terjadi penenggelaman (ke dasar bumi), angin topan dan gempa bumi. Di sana kalian juga akan menemui suatu kaum, mereka bermalam dan pagi harinya telah menjadi kera dan babi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4307</td></tr><tr><td>Arabic No</td><td>4307</td></tr><tr><td>Reference</td><td>Book 39 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «О Анас! Поистине, люди построят города, и будет среди них город, который назовут Басра или Бусайра. Если он будет лежать на твоём пути или ты окажешься там, пусть не привлекают тебя солончаки его, пастбища, базары и врата дворцов его правителей (поскольку они будут творить несправедливость). Оставайся в окрестностях его, ибо в самом городе будут провалы, дожди из камней и землетрясения, а также люди, которые лягут спать вечером (благополучно), а наутро проснутся превращёнными в обезьян и свиней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4307</td></tr><tr><td>Arabic No</td><td>4307</td></tr><tr><td>Reference</td><td>Book 39 Hadith 17</td></tr></tbody></table></div>
 

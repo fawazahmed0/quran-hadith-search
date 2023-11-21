@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) reported Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Muhammad bin Fadll] yang berlaqabkan 'Arim, dia adalah Abu An Nu'man As Sadusi, telah menceritakan kepada kami [Mahdi bin Maimun] telah menceritakan kepada kami [Mathar Al Warraq] dari ['Atha'] dari [Jabir bin Abdullah] dia berkata; Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa yang memiliki tanah, hendaknya ditanaminya, jika dia tidak sanggup menanaminya dengan sendiri, hendaknya saudaranya yang menanaminya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3917</td></tr><tr><td>Arabic No</td><td>1536.12</td></tr><tr><td>Reference</td><td>Book 21 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3917</td></tr><tr><td>Arabic No</td><td>1536.12</td></tr><tr><td>Reference</td><td>Book 21 Hadith 116</td></tr></tbody></table></div>
 

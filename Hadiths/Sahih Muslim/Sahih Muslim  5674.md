@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uqba b. 'Amir reported Allah's Messenger (ﷺ) as saying:Beware of getting, into
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits]; Demikian juga diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Muhammad bin Rumh]; Telah mengabarkan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Hindarilah oleh kalian masuk ke rumah-rumah wanita!" Lalu seorang Anshar bertanya; 'Ya, Rasulullah! Bagaimana pendapat Anda tentang Al Hamwu, (keluarga dekat dari suaminya).' Rasulullah shallallahu 'alaihi wasallam menjawab: 'Bahkan itu lebih berbahaya.' Dan telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami ['Abdullah bin Wahb] dari ['Amru bin Al Harits], [Al Laits bin Sa'd], [Haywah bin Syuraih] dan selain mereka, bahwa [Yazid bin Abu Habib] menceritakan kepada mereka melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5674</td></tr><tr><td>Arabic No</td><td>2172.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5674</td></tr><tr><td>Arabic No</td><td>2172.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 28</td></tr></tbody></table></div>
 

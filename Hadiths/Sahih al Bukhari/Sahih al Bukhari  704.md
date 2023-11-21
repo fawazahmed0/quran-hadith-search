@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud:A man came and said, "O Allah's Messenger (ﷺ)! I keep away
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Isma'il bin Abu Khalid] dari [Qais bin Abu Hazim] dari [Abu Mas'ud] berkata, "Seorang laki-laki berkata, "Wahai Rasulullah, sungguh aku tidak ikut shalat shubuh berjama'ah disebabkan fulan yang memanjangkan bacaan saar shalat bersama kami." Maka Rasulullah shallallahu 'alaihi wasallam marah, dan aku belum pernah melihat beliau marah sebelumnya melebihi marahnya pada hari itu. Kemudian Beliau bersabda: "Wahai sekalian manusia, sungguh di antara kalian ada orang yang dapat menyebabkan orang lain berlari memisahkan diri. Maka barangsiapa memimpin shalat bersama orang banyak hendaklah dia melaksanakannya dengan ringan. Karena di belakang dia ada orang yang lemah, orang tua yang lanjut usia dan orang yang punya keperluan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>704</td></tr><tr><td>Arabic No</td><td>704</td></tr><tr><td>Reference</td><td>Book 10 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд (‘Укъба ибн ‘Амр аль-Бадри), да будет доволен им Аллах, сказал: «(Как-то раз один) человек сказал: “О Посланник Аллаха! Поистине, я пропускаю (групповую) утреннюю молитву лишь потому, что такой-то проводит её с нами слишком долго”. И Посланник Аллаха ﷺ разгневался, и я никогда не видел, чтобы увещевая людей, он гневался сильнее, чем в тот день. Затем он сказал: “О люди! Поистине, (некоторые из вас) отталкивают (других от религии)! Пусть же проводящий молитву с людьми не затягивает её, ибо, поистине, среди тех, (которые молятся позади него) находятся слабые, старые, и те, у кого есть (неотложные) дела!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>704</td></tr><tr><td>Arabic No</td><td>704</td></tr><tr><td>Reference</td><td>Book 10 Hadith 99</td></tr></tbody></table></div>
 

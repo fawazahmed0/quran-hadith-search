@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "Allah will hold th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] dia berkata; Telah menceritakan kepadaku [Al Laits] dia berkata; Telah menceritakan kepadaku [Abdurrahman bin Khalid bin Musafir] dari [Ibnu Syihab] dari [Abu Salamah] bahwa [Abu Hurairah] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah menggenggam bumi dan melipat langit dengan tangan kanannya seraya berkata: 'Akulah Raja, mana yang mengaku raja dibumi?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4812</td></tr><tr><td>Arabic No</td><td>4812</td></tr><tr><td>Reference</td><td>Book 65 Hadith 334</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Аллах схватит (всю) землю и свернёт небеса Своей правой десницей, а потом скажет: “Я — Царь, а где же цари земли?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4812</td></tr><tr><td>Arabic No</td><td>4812</td></tr><tr><td>Reference</td><td>Book 65 Hadith 334</td></tr></tbody></table></div>
 

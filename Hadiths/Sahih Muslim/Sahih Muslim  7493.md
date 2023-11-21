@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The son of Abu Said al-Khudri reported on the authority of his father that Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Suhail bin Abu Shalih] dari [Ibnu Abi Sa'id Al Khudri] dari [ayahnya] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Bila salah seorang dari kalian menguap saat shalat, hendaklah ditahan semampunya karena sesungguhnya setan masuk." Telah menceritakannya kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Jarir] dari [Suhail] dari [ayahnya] dan dari [Ibnu Abi Sa'id] dari [Abu Sa'id] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda seperti hadits Bisyr dan Abdulaziz
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7493</td></tr><tr><td>Arabic No</td><td>2995.03</td></tr><tr><td>Reference</td><td>Book 55 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7493</td></tr><tr><td>Arabic No</td><td>2995.03</td></tr><tr><td>Reference</td><td>Book 55 Hadith 76</td></tr></tbody></table></div>
 

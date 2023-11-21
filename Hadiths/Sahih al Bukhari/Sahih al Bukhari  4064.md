@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When it was the day of Uhud, the people left the Prophet (ﷺ) whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4064</td></tr><tr><td>Arabic No</td><td>4064</td></tr><tr><td>Reference</td><td>Book 64 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «В день (битвы при) Ухуде люди обратились в бегство (, покинув) Пророка ﷺ, и только Абу Тальха стоял перед ним, прикрывая его своим щитом. Абу Тальха хорошо стрелял из лука и всегда держал его туго натянутым. В тот день он сломал два или три своих лука, и, когда какой-нибудь человек, у которого был колчан стрел, проходил рядом, (Пророк ﷺ) говорил (ему): “Рассыпь их перед Абу Тальхой!” — когда же Пророк ﷺ смотрел на (врагов, вытягивая шею), Абу Тальха говорил ему: “Да станут отец мой и мать выкупом за тебя! Не смотри (на них), иначе тебя поразит стрела, (и пусть) лучше меня поразят вместо тебя!” (В тот день) я видел, как одежды ‘Аиши бинт Аби Бакр и Умми Суляйм поднимались так высоко, что можно было разглядеть украшения на их ногах: они носили бурдюки с водой на своих спинах и выливали воду в рот (каждого из страдавших от жажды) людей, потом возвращались и снова наполняли их, а потом возвращались и (снова поили раненых). Что же касается Абу Тальхи, то (в тот день) меч дважды или трижды падал из его рук»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4064</td></tr><tr><td>Arabic No</td><td>4064</td></tr><tr><td>Reference</td><td>Book 64 Hadith 109</td></tr></tbody></table></div>
 

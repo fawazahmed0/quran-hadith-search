@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A Man from the Companions: Humayd al-Himyari said: I met a man (Compani
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] dari [Dawud bin Abdullah] dari [Humaid Al Himyari] dan dia adalah Ibnu Abdurrahman, dia berkata; Saya pernah bertemu dengan [seorang laki-laki yang pernah bersahabat] dengan Nabi shallallahu 'alaihi wasallam sebagaimana Abu Hurairah bersahabat dengan beliau, dia berkata; Rasulullah shallallahu 'alaihi wasallam melarang salah seorang dari kami menyisir rambut setiap hari atau buang air kecil di tempat mandinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумайд аль-Химьяри, он же Ибн ‘Абду-р-Рахман, сказал: «Я встретил одного человека из числа тех, кто сопровождал Пророка ﷺ как сопровождал его Абу Хурайра. Он сказал: “Посланник Аллаха ﷺ запретил нам расчёсываться каждый день и мочиться в местах купания”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
 

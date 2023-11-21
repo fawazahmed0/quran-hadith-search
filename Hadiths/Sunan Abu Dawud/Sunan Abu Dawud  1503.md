@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Abbas: The Messenger of Allah (ﷺ) went out from Juwayriy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Daud bin Umayyah], telah menceritakan kepada Kami [Sufyan bin 'Uyainah] dari [Muhammad bin Abdurrahman] mantan budak keluarga Thalhah, dari [Kuraib] dari [Ibnu Abbas], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam keluar dari sisi Juwairiyah, dan namanya adalah Burrah, kemudian beliau mengganti namanya, beliau keluar sementara ia berada dalam tempat shalatnya, beliau kembali dan ia masih berada di tempat shalatnya. Kemudian beliau berkata: "Apakah engkau akan tetap berada dalam tempat shalatmu ini?" Juwairiyah berkata; "ya." Beliau bersabda: "Setelah pergi darimu aku telah mengucapkan empat kalimat selama tiga kali, apabila empat kalimat tersebut ditimbang dengan apa yang engkau ucapkan niscaya akan lebih berat, yaitu: SUBHAANALLAAHI WA BIHAMDIHI 'ADADA KHALQIHI WA RIDHAA NAFSIHI WA ZINATA 'ARSYIHI WA MIDAADA KALIMAATIHI (Maha Suci Allah, dengan memuji kepadaNya sebanyak makhlukNya, dan keridhaan diriNya, berat 'ArsyNya, dan keluasan kalimat-kalimatNya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2726)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1503</td></tr><tr><td>Arabic No</td><td>1503</td></tr><tr><td>Reference</td><td>Book 8 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды Посланник Аллаха ﷺ вышел от Джувайрии её настоящее имя было Барра, но Посланник Аллаха ﷺ изменил его, когда она сидела на том месте, где всегда совершала молитву. Вернувшись, он застал её на том же месте. Он спросил: «Ты находилась здесь всё то время, пока меня не было?» Она ответила: «Да». Тогда (Посланник Аллаха ﷺ) сказал: «Выйдя от тебя, я трижды произнёс четыре слова, которые перевешивают всё, сказанное тобой: “Пречист Аллах и хвала Ему столько, сколько существует творений, столько, сколько нужно для того, чтобы Он удовольствовался, столько, сколько весит Его Трон, столько, сколько существует слов Его /Субхана-Ллахи ‘адада халькы-хи, ва рида нафси-хи, ва зината ‘арши-хи, ва мидада калимати-хи/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2726)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1503</td></tr><tr><td>Arabic No</td><td>1503</td></tr><tr><td>Reference</td><td>Book 8 Hadith 88</td></tr></tbody></table></div>
 

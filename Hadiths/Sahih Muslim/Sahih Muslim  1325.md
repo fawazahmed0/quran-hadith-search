@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha, la femme du Prophète (raa), le Prophète (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Bakar bin Ishaq] telah mengabarkan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syuaib] dari [Az Zuhri] dia berkata; telah menceritakan kepadaku ['Urwah bin Zubair] bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam mengabarinya, bahwa Nabi shallallahu 'alaihi wasallam pernah berdoa dalam shalatnya dengan ALLAAHUMMA INNII A'UUDZUBIKA MIN 'ADZAABIL QABRI WA A'UUDZU BIKA MIN FITNATIL MASIIHID DAJJAAL WA A'UUDZUBIKA MIN FITNATIL MAHYAA WAL MAMAAT ALLAAHUMMA INNII A'UUDZUBIKA MINAL MA'TSAMI WAL MAGHRAMI (Ya Allah, saya berlindung kepada-Mu dari siksa kubur, saya berlindung kepada-Mu dari fitnah masih ad dajjal, saya berlindung kepada-Mu dari fitnah kehidupan dan kematian, saya berlindung kepada-Mu dari dosa dan pengaruh hutang)." Kata 'Aisyah, lantas ada seseorang berujar; "Betapa banyak engkau meminta perlindungan dari pengaruh berhutang wahai Rasulullah?" beliau bersabda: "Jika seseorang telanjur hutang, maka ia akan suka berdusta dan menyelisihi janji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1325</td></tr><tr><td>Arabic No</td><td>589</td></tr><tr><td>Reference</td><td>Book 5 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Урвы ибн аз-Зубайра, что жена Пророка ‘Аиша ﷺ рассказала ему, что во время молитвы Пророк ﷺ обращался к Аллаху с такой мольбой: «О Аллах, поистине, я прибегаю к Твоей защите от мучений могилы, и я прибегаю к Твоей защите от искушения Даджаля, и я прибегаю к Твоей защите от испытаний жизни и смерти. О Аллах, поистине, я прибегаю к Твоей защите от (бремени) греха и долга»./Аллахумма, инни а’узу би-кя мин ‘азаби ль-кабри, ва а’узу би-кя мин фитнати ль-масихи д-дадж-жали, ва а’узу би-кя мин фитнати ль-махйа ва-ль-мамат; Аллахумма, инни а’узу би-кя мин аль-ма’сами ва-ль-маграм/. (‘Аиша) сказала: «(Однажды) кто-то сказал ему: “О Посланник Аллаха, как часто ты просишь защиты от долга!” (на что Пророк ﷺ) ответил: “Поистине, когда человек, обременённый долгом, рассказывает (о чём-либо), он лжёт, а когда даёт обещание, нарушает его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1325</td></tr><tr><td>Arabic No</td><td>589</td></tr><tr><td>Reference</td><td>Book 5 Hadith 163</td></tr></tbody></table></div>
 

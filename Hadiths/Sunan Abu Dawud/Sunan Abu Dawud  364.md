@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:One of us would have a shirt in which she would menstruate and in it
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dari ['Atha'] dari [Aisyah] dia berkata; Salah seorang di antara kami (para istri Nabi) terkadang hanya mempunyai pakaian rumah, dia memakainya ketika haidl, dan pakaian itu juga terkadang dipakai berhubungan, kemudian terlihat pada kain itu setetes darah, maka digosoknya dengan air liurnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>364</td></tr><tr><td>Arabic No</td><td>364</td></tr><tr><td>Reference</td><td>Book 1 Hadith 364</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «У каждой из нас была рубаха, в которой у нее протекал менструальный цикл и в которой она осквернялась, а затем, если видела на ней каплю крови, то соскабливала ее (ногтями) с помощью слюны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>364</td></tr><tr><td>Arabic No</td><td>364</td></tr><tr><td>Reference</td><td>Book 1 Hadith 364</td></tr></tbody></table></div>
 

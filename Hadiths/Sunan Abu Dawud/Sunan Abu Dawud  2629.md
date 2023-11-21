@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Anas al-Juhani: I fought along with the Prophet (ﷺ) in suc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Isma'il bin 'Ayyasy], dari [Usaid bin Abdurrahman Al Khats'ami], dari [Farwah bin Mujahid Al Lakhmi], dari [Sahl bin Mu'adz bin Anas Al Juhani], dari [ayahnya], ia berkata; aku pernah berperang bersama Nabi shallallahu 'alaihi wasallam pada perang ini dan ini, kemudian orang-orang mempersempit tempat-tempat persinggahan, dan menghalangi jalan. Kemudian Nabi shallallahu 'alaihi wasallam mengutus orang yang menyeru kepada orang-orang; orang yang mempersempit tempat persinggahan atau menghalangi jalan maka tidak ada jihad baginya. Telah menceritakan kepada kami ['Amr bin Utsman], telah menceritakan kepada kami [Baqiyyah], dari [Al Auza'i], dari [Usaid bin Abdurrahman], dari [Farwah bin Mujahid] dari [Sahl bin Mu'adz], dari [ayahnya], ia berkata; kami pernah berperang bersama Nabi shallallahu 'alaihi wasallam ….. semakna dengan makna hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2629</td></tr><tr><td>Arabic No</td><td>2629</td></tr><tr><td>Reference</td><td>Book 15 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2629</td></tr><tr><td>Arabic No</td><td>2629</td></tr><tr><td>Reference</td><td>Book 15 Hadith 153</td></tr></tbody></table></div>
 

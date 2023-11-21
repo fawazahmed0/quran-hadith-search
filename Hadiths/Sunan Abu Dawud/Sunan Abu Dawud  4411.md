@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd al-Rahman b. Muhariz said: We asked Fadalah b. 'Ubaid about the hanging the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Umar bin Ali] berkata, telah menceritakan kepada kami [Al Hajjaj] dari [Makhul] dari ['Abdurrahman bin Muhairiz] ia berkata, "Kami bertanya kepada [Fadhalah bin Ubaid] bagaimana hukum menggantungkan tangan ke leher bagi seorang pencuri, apakah hal itu termasuk sunah?" ia menjawab, "Pernah seorang pencuri dibawah ke hadapan Rasulullah shallallahu 'alaihi wasallam, beliau lantas memotong tangannya dan memerintahkan (agar tangannya digantungkan ke leher), maka tangannya digantungkan ke lehernya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 40 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуррахмана ибн Мухайриза: «Мы спросили Фадалю ибн ‘Убейда о привязывании отрубленной руки вора ему на шею является ли это сунной? Он ответил: “Однажды к Посланнику Аллаха ﷺ привели вора, и ему отрубили руку, и было отдано веление повесить её ему на шею”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 40 Hadith 61</td></tr></tbody></table></div>
 

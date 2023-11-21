@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) a dit : Au cours de sa récitation d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar], keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dia berkata; aku mendengar [Al Aswad] menceritakan dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau pernah membaca wannajmi (surat annajm) lalu beliau sujud dan para sahabat yang bersamanya pun ikut sujud, kecuali seorang laki-laki tua, dia hanya mengambil sejumput kerikil atau tanah, dan mengangkat ke keningnya sambil berujar; "Aku cukup begini saja." Abdullah berkomentar; "Seingatku, dikemudian hari laki-laki tua itu mati dalam keadaan kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1297</td></tr><tr><td>Arabic No</td><td>576</td></tr><tr><td>Reference</td><td>Book 5 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «(Как-то раз) в (Мекке) Пророк ﷺ, читавший суру “ан-Наджм”, совершил во время чтения земной поклон. Вместе с ним поклонились и все присутствовавшие, за исключением одного старца, который поднял с пола горсть земли, поднёс их ко лбу и сказал: “Довольно с меня и этого”, а потом я видел, что его убили как неверного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1297</td></tr><tr><td>Arabic No</td><td>576</td></tr><tr><td>Reference</td><td>Book 5 Hadith 135</td></tr></tbody></table></div>
 

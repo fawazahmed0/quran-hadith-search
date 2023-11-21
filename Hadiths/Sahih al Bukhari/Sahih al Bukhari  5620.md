@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:Allah's Messenger (ﷺ) was offered something to drink. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Abu Hazim bin Dinar] dari [Sahl bin Sa'd] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam pernah diberi minuman lalu beliau meminumnya, sementara di sebelah kanan beliau terdapat anak muda dan sebelah kiri beliau orang-orang tua, lalu beliau bersabda kepada anak muda: "Apakah kamu mengizinkan aku untuk memberi sisanya kepada mereka?" maka anak muda itu menjawab; "Demi Allah wahai Rasulullah, aku tidak akan memberikan bagianku dari sisamu kepada seorangpun." Sahl berkata; "lantas Rasulullah shallallahu 'alaihi wasallam memberikan pada tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5620</td></tr><tr><td>Arabic No</td><td>5620</td></tr><tr><td>Reference</td><td>Book 74 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль бин Са‘д, да будет доволен им Аллах, сказал: \n— (Однажды) Посланнику Аллаха ﷺ принесли питьё и он отпил из (из кубка. В это время) справа от него сидел один отрок, а слева (сидели) старцы, и (Пророк ﷺ) сказал этому отроку: «Позволишь ли ты мне передать (этот кубок сначала) им?» (В ответ ему) отрок сказал: «Клянусь Аллахом, нет! Я никому не уступлю того, что досталось мне от тебя!», — и Посланник Аллаха ﷺ вручил (этот кубок) ему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5620</td></tr><tr><td>Arabic No</td><td>5620</td></tr><tr><td>Reference</td><td>Book 74 Hadith 46</td></tr></tbody></table></div>
 

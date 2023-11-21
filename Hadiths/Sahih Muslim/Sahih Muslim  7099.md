@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that Allah's Messenger (ﷺ) one day said to his Companions:Te
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Ubaid Al ghubari] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub] dari [Abu Al Khalil Adh Dhuba'i] dari [Mujahid] dari [Ibnu Umar] berkata: Rasulullah Shallallahu 'alaihi wa Salam bertanya kepada para sahabat beliau pada suatu hari: "Beritahukanlah padaku tentang sebuah pohon, perumpamaannya sama seperti orang mu'min." orang-orang menyebut salah satu pepohonan gurun lalu Ibnu Umar berkata: Hatiku mengatakan -atau mempertimbangkan pohon tersebut adalah pohon kurma, aku ingin mengatakannya tapi mereka semua orang-orang tua, aku segan berbicara. Saat mereka diam, Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Itu adalah pohon kurma." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Umar] keduanya berkata: telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ibnu Abi Najih] dari [Mujahid] berkata: Aku menemani Ibnu Umar ke Madinah, aku hanya mendengarnya menceritakan satu hadits saja dari Rasulullah Shallallahu 'alaihi wa Salam, ia berkata: Kami berada di dekat nabi Shallallahu 'alaihi wa Salam, beliau diberi daging kurma yang lunak lalu Ibnu Umar menyebutkan seperti hadits mereka berdua. Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Saif] berkata: Aku mendengar [Mujahid] berkata: Aku mendengar [Ibnu Umar] berkata: Rasulullah Shallallahu 'alaihi wa Salam diberi daging kurma yang lunak lalu ia menyebut seperti hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7099</td></tr><tr><td>Arabic No</td><td>2811.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7099</td></tr><tr><td>Arabic No</td><td>2811.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 53</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ai’shah wife the Prophet (SWAS) narrated we went out with the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi Abdullah bin Maslamah] dari [Malik] dari [Abu Al Aswad Muhammad bin Abdurrahman bin Naufal] dari ['Urwah bin Az Zubair] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, ia berkata; Kami keluar bersama Rasulullah shallAllahu wa'alaihi wa sallam pada tahun terjadinya haji wada'. Diantara Kami ada yang bertalbiyah untuk melakukan umrah dan diantara Kami ada yang bertalbiyah untuk melakukan haji dan umrah dan diantara Kami ada yang bertalbiyah untuk melakukan haji. Sedangkan Rasulullah shallAllahu wa'alaihi wa sallam bertalbiyah untuk melakukan haji. Adapun orang yang bertalbiyah untuk melakukan haji atau menggabungkan antara haji dan umrah, maka mereka tidak bertahallul hingga pada Hari Nahr (penyembelihan kurban). Telah menceritakan kepada Kami [Ibnu As Sarh], telah mengabarkan kepada Kami [Ibnu Wahb], telah mengabarkan kepadaku [Malik] dari [Abu Al Aswad] dengan sanadnya seperti itu. Ia menambahkan; adapun orang yang bertahlil untuk melakukan umrah maka ia bertahallul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1562) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1779</td></tr><tr><td>Arabic No</td><td>1779</td></tr><tr><td>Reference</td><td>Book 11 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах, что она сказала: «Мы отправились в путь вместе с посланником Аллаха ﷺ в год прощального хаджа, и некоторые из нас объявили о намерении совершить ‘умру, а кто-то произнёс тальбию для хаджа и ‘умры, а кто-то только для хаджа. Посланник Аллаха ﷺ произнёс тальбию для хаджа. Что же касается тех, кто произнёс тальбию для хаджа или собирался соединить хадж с ‘умрой, то они не выходили из состояния ихрама до самого дня жертвоприношения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1562) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1779</td></tr><tr><td>Arabic No</td><td>1779</td></tr><tr><td>Reference</td><td>Book 11 Hadith 59</td></tr></tbody></table></div>
 

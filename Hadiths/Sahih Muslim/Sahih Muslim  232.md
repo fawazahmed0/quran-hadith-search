@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Abu Huraira that the Messenger of Allah (may 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] dan [Amru bin Sawwad al Amiri] dan [Muhammad bin Salamah al-Muradi], [al-Muradi] berkata, telah menceritakan kepada kami [Abdullah bin Wahab] dari [Yunus], dan dua orang lainnya berkata; telah mengabarkan kepada kami [Ibnu Wahab] dia berkata, telah mengabarkan kepada kami [Yunus] dari [Ibnu Syihab] dia berkata, telah menceritakan kepadaku [Ubaidullah bin Abdullah bin Utbah] bahwa [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidakkah kalian melihat sesuatu yang difirmankan oleh Rabb kalian? Dia berfirman, 'Tidaklah Aku memberikan nikmat kepada hamba-ku melainkan sebagian mereka menjadi kafir dengannya. Mereka berkata, 'Bintang itu berasal dari bintang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>232</td></tr><tr><td>Arabic No</td><td>72.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Знаете ли вы, что сказал Господь ваш? Он сказал: “Какую бы милость Я не оказал рабам Моим, группа из них обязательно становится неверующей в неё (не благодарной). Они говорят: “Это звёзды, (это благодаря) звёздам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>232</td></tr><tr><td>Arabic No</td><td>72.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 138</td></tr></tbody></table></div>
 

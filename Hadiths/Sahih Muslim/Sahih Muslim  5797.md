@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported Allah's Apostle (ﷺ) as saying:There is no transiti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami [Rauh bin 'Ubadah]; Telah menceritakan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin 'Abdullah] berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada penyakit yang menular secara sendirian tanpa izin Allah, tidak ada pengaruh atau tanda bahaya suara burung, dan tidak ada hantu." Dan Aku mendengar Abu Zubair menyebutkan bahwa Jabir menjelaskan mengenai sabda Nabi shallallahu 'alaihi wasallam 'Wala Shafara'. Abu Zubair bertanya kepada Jabir; 'As Shafar adalah penyakit perut, ' maksudnya penyakit apa itu? Dia menjawab; 'yaitu binatang melata yang ada diperut (cacing). Ibnu Zubair berkata apakah Jabir tidak menjelaskan juga mengenai 'Al Ghaul'? Abu Zubair menjawab; 'Al Ghaul yang dimaksudkan adalah sesuatu yang bisa mempengarungi perasaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5797</td></tr><tr><td>Arabic No</td><td>2222.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5797</td></tr><tr><td>Arabic No</td><td>2222.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 149</td></tr></tbody></table></div>
 

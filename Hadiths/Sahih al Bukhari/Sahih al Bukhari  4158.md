@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Marwan and Al-Miswar bin Makhrama:The Prophet (ﷺ) went out in the com
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Urwah] dari [Marwan] dan [Al Miswar bin Makhramah] keduanya berkata; "Pada peristiwa Hudaibiyyah, Nabi shallallahu 'alaihi wasallam berangkat dari Madinah bersama para sahabat yang berjumlah sekitar seribu orang lebih. Ketika sampai di Dzul Hulaifah, Nabi shallallahu 'alaihi wasallam mengikat dan menandai hewan qurban beliau, lalu memulai ihram dari san'a." Sudah tidak terhitung berapa kali aku mendengarnya dari Sufyan hingga akhirnya aku mendengar dia berkata; "Aku tidak hafal hadits dari Az Zuhri tentang memberi tanda dan mengikat hewan qurban. Aku tidak tahu yaitu tempat menandai dan mengikat hewan qurban atau redaksi hadits keseluruhannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4158</td></tr><tr><td>Arabic No</td><td>4158</td></tr><tr><td>Reference</td><td>Book 64 Hadith 201</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Марвана и аль-Мисвара бин Махрама, да будет доволен Аллах ими обоими, что Пророк ﷺ выехал из Медины в сопровождении более тысячи своих сподвижников, а когда они достигли Зуль-Хулейфы, Пророк ﷺ обвязал шеи своему скоту верёвками и пометил его, после чего вошёл в состояние ихрама для совершения умры
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4158</td></tr><tr><td>Arabic No</td><td>4158</td></tr><tr><td>Reference</td><td>Book 64 Hadith 201</td></tr></tbody></table></div>
 

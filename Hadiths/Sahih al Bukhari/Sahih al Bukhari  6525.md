@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I heard Allah's Messenger (ﷺ) while he was delivering a se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] radhilayyahu'anhuma, mengatakan; Aku mendengar Rasulullah shallallahu 'alaihi wasallam ketika beliau berorasi diatas minbar bersabda: "Kalian bertemu Allah dengan tidak beralas kaki, telanjang dan tidak dikhitan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6525</td></tr><tr><td>Arabic No</td><td>6525</td></tr><tr><td>Reference</td><td>Book 81 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал, обращаясь с минбара: «Поистине, (в День суда) вы встретите Аллаха босыми, нагими и необрезанными»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6525</td></tr><tr><td>Arabic No</td><td>6525</td></tr><tr><td>Reference</td><td>Book 81 Hadith 114</td></tr></tbody></table></div>
 

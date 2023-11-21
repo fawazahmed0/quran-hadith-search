@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:I rode behind Allah's Messenger (ﷺ) from 'Arafat and w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Muhammad bin Abu Harmalah] dari [Kuraib, maulanya Ibnu 'Abbas] dari [Usamah bin Zaid radliallahu 'anhuma] bahwa dia berkata: "Aku membonceng Rasulullah Shallallahu'alaihiwasallam dari 'Arafah. Ketika Beliau sampai dim bukit (Asy-Syi'ib) sebelah kiri yang dekat dengan Muzdalifah Beliau singgah, lalu buang air kecil. Setelah selesai Beliau datang lalu aku sodorkan kepadanya wadah air untuk wudhu'. Maka Beliau berwudhu' dengan wudhu' yang ringan (tidak sempurna). Lalu aku bertanya: "Wahai Rasulullah, apakah kita shalat disini?". Beliau menjawab: "Shalat nanti saja". Maka Rasulullah Shallallahu'alaihiwasallam menunggang tunggangannya hingga sampai di Muzdalifah lalu Beliau shalat disana. Kemudian pagi harinya Al Fadhal membonceng Rasulullah Shallallahu'alaihiwasallam di daerah Jama'. [Kuraib] berkata: "Maka ['Abdullah bin 'Abbas radliallahu 'anhuma] mengabarkan kepada saya dari [Al Fadhal] bahwa Rasulullah Shallallahu'alaihiwasallam senantiasa membaca talbiyah hingga sampai di jamarah (tempat melempar Jumrah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1669</td></tr><tr><td>Arabic No</td><td>1669</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама ибн Зейд, да будет доволен Аллах им и его отцом, рассказывал: «Я сидел верхом позади Посланника Аллаха ﷺ когда мы ехали из ‘Арафата. Когда Посланник Аллаха ﷺ достиг ущелья на левой стороне перед Муздалифой, он опустил свою верблюдицу и справил малую нужду. Затем я полил ему воду и совершил облегчённое малое омовение. Я сказал: “Настало время молитвы, о Посланник Аллаха!” Он ответил: “Молитва впереди”. Потом Посланник Аллаха ﷺ снова сел верхом, и доехав до Муздалифы, совершил молитву. А утром позади Посланника Аллаха ﷺ сел аль-Фадль ибн ‘Аббас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1669</td></tr><tr><td>Arabic No</td><td>1669</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

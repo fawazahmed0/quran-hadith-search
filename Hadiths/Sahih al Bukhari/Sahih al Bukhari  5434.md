@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud Al-Ansari:There was a man called Abu Shu'aib, and he had a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata; telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Abu Wail] dari [Abu Mas'ud Al Anshari] ia berkata; "Ada seorang laki-laki yang bernama Abu Syu'aib dari kalangan Anshar, ia mempunyai seorang budak yang pandai memasak daging, ia lalu berkata kepada budaknya; 'Buatlah makanan dengan lima porsi, aku ingin mengundang Rasulullah shallallahu 'alaihi wasallam.' Ia lalu mengundang Rasulullah shallallahu 'alaihi wasallam dengan sejumlah lima porsi tersebut. Lalu ada seorang laki-laki yang mengikuti beliau, maka Nabi shallallahu 'alaihi wasallam pun bersabda: 'Engkau mengundang kami dengan lima porsi, padahal ini ada seorang laki-laki (lain) yang ingin ikut. Sekarang terserah kamu, memberi izin atau tidak.' Abu Syu'aib menjawab; 'Aku memberinya izin.' Muhammad bin Yusuf berkata; Aku mendengar Muhammad bin Ismail berkata; 'Jika suatu kaum berada dalam suatu meja makan, maka mereka tidak memindahkannya ke meja makan yang lainnya. Namun, sebagian mereka mengambilkan untuk sebagian yang lain dalam satu meja tersebut, atau mereka tidak mengambilnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5434</td></tr><tr><td>Arabic No</td><td>5434</td></tr><tr><td>Reference</td><td>Book 70 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд аль-Ансари, да будет доволен им Аллах, сказал: «Был среди ансаров один человек, которого звали Абу Шу‘айб, и он имел раба-мясника. (Однажды Абу Шу‘айб) сказал (своему рабу): “Приготовь мне угощение, на которое я приглашу Посланника Аллаха ﷺ и ещё четырёх человек”. И он пригласил (на это угощение) Посланника Аллаха ﷺ и ещё четырёх человек, однако за ними последовал ещё один, и тогда Пророк ﷺ сказал (Абу Шу‘айбу): “Ты приглашал меня и ещё четверых, а этот человек последовал за нами, и если хочешь, то (можешь) позволить ему (войти), а если хочешь, (можешь) отказаться от этого”. (На это Абу Шу‘айб) сказал: “Нет, я позволяю ему войти”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5434</td></tr><tr><td>Arabic No</td><td>5434</td></tr><tr><td>Reference</td><td>Book 70 Hadith 62</td></tr></tbody></table></div>
 

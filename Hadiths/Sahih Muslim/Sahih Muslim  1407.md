@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : "Le Prophète (paix et bénédiction
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah menceritakan kepada kami [Bisyr bin Mufadlal] dari [Ghalib Al Qaththan] dari [Bakr bin Abdullah] dari [Anas bin Malik] dia berkata; "Kami pernah shalat bersama Rasululah shallallahu 'alaihi wasallam ketika hari sangat panas, jika salah seorang diantara kami tidak dapat menempatkan keningnya di tanah dengan baik (karena panasnya), maka ia menghamparkan kain lalu sujud di atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1407</td></tr><tr><td>Arabic No</td><td>620</td></tr><tr><td>Reference</td><td>Book 5 Hadith 241</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Мы молились вместе с Пророком ﷺ во время сильной жары. (Если же) кто-либо из нас не мог выдержать своим лбом жара (нагретой) земли, то он простирал свою одежду и совершал земной поклон на ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1407</td></tr><tr><td>Arabic No</td><td>620</td></tr><tr><td>Reference</td><td>Book 5 Hadith 241</td></tr></tbody></table></div>
 

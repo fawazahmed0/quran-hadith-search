@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Evil omen was mentioned before the Prophet: The Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Minhal] Telah menceritakan kepada kami [Yazid bin Zurai'] Telah menceritakan kepada kami [Umar bin Muhammad Al Asyqalani] dari [bapaknya] dari [Ibnu Umar] ia berkata; Mereka membicarakan kesialan di sisi Nabi shallallahu 'alaihi wasallam, maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Sekiranya kesialan itu ada pada sesuatu, maka niscaya akan terdapat pada rumah, wanita dan kuda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 67 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Умар рассказывал: «Однажды, в присутствие Пророка ﷺ люди упомянули о злополучии /шуъму/, и он сказал: “Если и есть в чём-либо злополучие, то (оно) в жилище, женщине и лошади”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 67 Hadith 32</td></tr></tbody></table></div>
 

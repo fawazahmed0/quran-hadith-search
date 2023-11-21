@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid] dan [Syaiban bin Farrukh] keduanya dari [Sulaiman] dan lafazh ini milik Syaiban; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah]; Telah menceritakan kepada kami [Tsabit Al Bunani] dari [Anas bin Malik] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Pada suatu malam anakku lahir, yaitu seorang bayi laki-laki, lalu kuberi nama dengan nama bapakku, Ibrahim. Kemudian anak itu beliau berikan kepada Ummu Saif, isteri seorang pandai besi, yang bernama Abu Saif. Rasulullah shallallahu 'alaihi wasallam mendatanginya dan aku ikut menyertai beliau. Ketika kami sampai di rumah Abu Saif, aku dapatkan dia sedang meniup Kirnya (alat pemadam besi) sehingga rumah itu penuh dengan asap. Maka aku segera berjalan di depan Rasulullah shallallahu 'alaihi wasallam, lalu kuberi tahu Abu Saif; "Hai, Abu Saif! Berhentilah! Rasulullah shallallahu 'alaihi wasallam telah datang!" Maka dia pun berhenti. Kemudian Nabi shallallahu 'alaihi wasallam menanyakan bayinya, lalu diserahkan ke pangkuan beliau. Nabi shallallahu 'alaihi wasallam mengucapkan kata-kata sayang apa saja yang Allah kehendaki. Kata Anas; "Kulihat bayi itu begitu tenang di pangkuan beliau saat ajal datang kepadanya. Maka Rasulullah shallallahu 'alaihi wasallam menangis mengucurkan air mata. Kata beliau: "Air mata boleh mengalir, hati boleh sedih, tetapi kita tidak boleh berkata-kata kecuali yang diridlai Rabb kita. Demi Allah, wahai Ibrahim, kami sungguh sedih karenamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6025</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 43 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6025</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 43 Hadith 83</td></tr></tbody></table></div>
 

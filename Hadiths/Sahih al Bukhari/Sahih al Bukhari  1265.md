@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:While a man was riding (his Mount) in 'Arafat, he fell down 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhum] berkata; "Ada seorang laki-laki ketika sedang wukuf di 'Arafah terjatuh dari hewan tunggangannya sehingga ia terinjak" atau dia Ibnu 'Abbas radliallahu 'anhuma berkata: "Hingga orang itu mati seketika". Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Mandikanlah dia dengan air yang dicampur daun bidara dan kafanilah dengan dua helai kain dan janganlah diberi wewangian dan jangan pula diberi tutup kepala (serban) karena dia nanti akan dibangkitkan pada hari qiyamat dalam keadaan bertalbiyyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 23 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Один человек, находившийся вместе с посланником Аллаха ﷺ во время стояния на ‘Арафате, неожиданно упал со своей верблюдицы, сломал себе шею (и умер). Пророк ﷺ сказал: “Обмойте его водой с ююбой и заверните (тело) в два куска ткани, но не умащайте его благовониями и не покрывайте ему голову, ибо, поистине, в День воскресения он будет воскрешён произносящим тальбийу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 23 Hadith 26</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:'Aisha said, "The first thing the Prophet (ﷺ) did on reaching M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashbagh] dari [Ibnu Wahb] telah mengabarkan kepada saya ['Amru] dari [Muhammad bin 'Abdurrahman]; aku menyebutkan sesuatu kepada ['Urwah], maka ia berkata: ['Aisyah radliallahu 'anha] berkata kepadaku bahwa yang pertama kali dilakukan oleh Nabi Shallallahu'alaihiwasallam ketika Beliau sampai (di Makkah) adalah berwudhu kemudian thawaf dan tidak ber'umrah. Kemudian Abu Bakar dan 'Umar radliallahu 'anhuma melakukan hajji seperti beliau, lalu aku berhajji bersama Abu Zubair radliallahu 'anhu dan yang pertama kali ia lakukan adalah thawaf. Kemudian aku melihat orang-orang Muhajirin dan Anshar melakukan seperti itu. Dan sungguh ibuku mengabarkan kepadaku bahwa ia, saudara perempuannya, Az Zubair, fulan dan fulan berniat ihram untuk umrah, dan setelah mereka mengusap Ar-Rukun (Al Hajar Al Aswad) maka mereka bertahallul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1615</td></tr><tr><td>Arabic No</td><td>1615</td></tr><tr><td>Reference</td><td>Book 25 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что первым делом по приезде (в Мекку) Пророк ﷺ совершил малое омовение /вуду/, а потом обошёл Каабу, (однако) это не было умрой, а потом Абу Бакр и ‘Умар, да будет доволен Аллах ими обоими, поступали таким же образом, совершая хадж
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1615</td></tr><tr><td>Arabic No</td><td>1615</td></tr><tr><td>Reference</td><td>Book 25 Hadith 100</td></tr></tbody></table></div>
 

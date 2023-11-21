@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. Ka'b b. Malik al-Ansari:An expedition of the Ansar was op
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Ibrahim bin Sa'd], telah menceritakan kepada kami [Ibnu Syihab] dari [Abdullah bin Ka'b bin Malik Al Anshari], bahwa sebuah pasukan anshar berada di negeri Persia bersama pemimpin mereka, dan Umar mengirimkan pasukan menggantikan pasukan yang lain pada setiap tahun, kemudian ia tersibukkan dari hal tersebut. Kemudian tatkala telah lewat waktunya pasukan tersebut kembali dan merasakan takut, Umar mengancam mereka sementara mereka adalah para sahabat Rasulullah shallallahu 'alaihi wasallam. Lalu [mereka] berkata; wahai Umar, sesungguhnya engkau telah lalai dari kami, dan engkau tinggalkan pada kami apa yang telah diperintahkan Rasulullah shallallahu 'alaihi wasallam yaitu menggantikan pasukan dengan pasukan yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2960</td></tr><tr><td>Arabic No</td><td>2960</td></tr><tr><td>Reference</td><td>Book 20 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн Ка‘ба ибн Малика аль-Ансари, что войско, состоящее из ансаров, находилось в Персии. Каждый год ‘Умар ибн аль-Хаттаб сменял войска, а в этот год ‘Умар был занят и не сделал этого. Когда пришло время замены, войско, стоявшее в этом месте, вернулось, хотя они и опасались (гнева Умара из-за того, что сделали это без разрешения). ‘Умар сделал им строгий выговор и пригрозил им, хотя они были сподвижниками Посланника Аллаха ﷺ. Они сказали: «О ‘Умар! Ты забыл о нас и перестал делать для нас то, что велел Посланник Аллаха ﷺ то есть регулярно сменять одних воинов другими»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2960</td></tr><tr><td>Arabic No</td><td>2960</td></tr><tr><td>Reference</td><td>Book 20 Hadith 33</td></tr></tbody></table></div>
 

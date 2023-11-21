@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "When the Imam says: 'Ghair-i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Sumayya] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Bila imam mengucapkan, 'Ghairil maghdluubi 'alaihim walaadl-dlalliin (Bukan orang-orang yang dimurkai dan bukan orang-orang yang sesat) ' maka ucapkanlah, 'Aamiin', Barangsiapa ucapan aamiin-nya bersamaan dengan aamiin para malaikat, maka akan diampuni dosanya yang telah lalu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4475</td></tr><tr><td>Arabic No</td><td>4475</td></tr><tr><td>Reference</td><td>Book 65 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал ‘Абдулла ибн Юсуф, сказавший: Нам рассказал Малик, от: Сумайи, от Абу Салиха, от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: \n«Когда имам скажет: ﴾ не тех, на кого пал гнев, и не заблудших﴿ [Аль-Фатиха: 7], говорите: “Аминь”, ибо, поистине, тому, кто произнесёт эти слова одновременно с ангелами, простятся его прежние грехи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4475</td></tr><tr><td>Arabic No</td><td>4475</td></tr><tr><td>Reference</td><td>Book 65 Hadith 2</td></tr></tbody></table></div>
 

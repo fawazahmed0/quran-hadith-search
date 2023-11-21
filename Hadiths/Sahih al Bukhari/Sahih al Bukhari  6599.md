@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "No child is born but has the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Ibrahim] Telah memberitakan ekpada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Tak ada bayi yang dilahirkan selain dilahirkan dalam keadaan fitrah, maka kedua orangtuanyalah yang menjadikannya yahudi atau nashrani, sebagaimana kalian memperanakkan hewan, adakah kalian dapatkan diantaranya ada yang terpotong hidungnya hingga kalian yang memotongnya sendiri?" Mereka bertanya; "Wahai Rasulullah, bagaimana pendapatmu perihal mereka yang mati saat masih kecil?" Nabi menjawab; "Allah lebih tahu yang mereka kerjakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6599</td></tr><tr><td>Arabic No</td><td>6599</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Каждый человек рождается в своём естественном состоянии /фитра/, а уже потом родители делают из него иудея или христианина, подобно тому, как вы оказываете помощь животным при родах. Видели ли вы среди них животное, (родившееся) с отрезанной конечностью? И лишь вы потом делаете с ними то, в результате чего у них появляются увечья». Люди спросили: «О, Посланник Аллаха, а что ты скажешь о том, кто умер в детском возрасте?» Он сказал: «Аллах знает о том, что они делали бы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6599</td></tr><tr><td>Arabic No</td><td>6599</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

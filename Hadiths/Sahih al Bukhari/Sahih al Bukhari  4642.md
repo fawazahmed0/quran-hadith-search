@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:'Uyaina bin Hisn bin Hudhaifa came and stayed with his nephe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; Telah mengabarkan kepadaku ['Ubaidullah bin 'Abdullah bin 'Utbah] bahwa [Ibnu 'Abbas radliallahu 'anhuma] berkata; Uyainah bin Hishan bin Hudzafah datang, lalu singgah dirumah anak saudaranya yaitu AL Hurr bin Qais. Ia adalah salah seorang yang dekat dengan Umar, salah seorang Qari di Majlis Umar dan dewan syuranya. Baik ketika ia masih muda maupun sudah tua. Uyainah berkata kepada anak saudaranya; Wahai anak saudaraku, apakah kamu ada masalah dengan Amirul Mukminin, izinkanlah aku menemuinya. AL Hurr berkata; Aku akan memintakan izin untukmu. Ibnu Abbas berkata; Maka Al Hurr meminta izin untuk Uyainah agar bisa menemui Umar, Umar pun mengizinkannya. Tatkala ia masuk, ia berkata; Wahai Ibnul Khatthab, Demi Allah, anda tidak memenuhi hak kami, dan tidak bersikap adil kepada kami. Maka Umar pun marah, hampir saja ia akan memukulnya. Lalu Al Hurr berkata kepadanya; Wahai Amirul Mukminin, Sesungguhnya Allah Ta'ala berfirman kepada Nabi shallallahu 'alaihi wasallam: Jadilah engkau pema'af dan suruhlah orang mengerjakan yang ma'ruf, serta berpalinglah dari pada orang-orang yang bodoh. Dan ini terhadap orang-orang yang bodoh. Ibnu Abbas berkata; maka demi Allah, Umar pun tidak menyakitinya ketika ayat itu dibacakan kepadanya. Ia berhenti mendengar Kitabullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4642</td></tr><tr><td>Arabic No</td><td>4642</td></tr><tr><td>Reference</td><td>Book 65 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал:\n— (В своё время) ‘Уйайна ибн Хисн ибн Хузейфа приехал (в Медину) и остановился у своего племянника аль-Хурра ибн Кайса, относившегося к числу тех, кого приближал к себе ‘Умар, да будет доволен им Аллах. В собраниях ‘Умара принимали участие чтецы Корана. Они были его советниками, независимо от того, в возрасте они были или молодыми. ‘Уйайна сказал своему племяннику: «О сын моего брата, ты занимаешь высокое положение при этом правителе, попроси же его принять меня». Он ответил: «Я попрошу у него разрешение для тебя».\nИбн ‘Аббас сказал: «Аль-Хурр попросил разрешения для ‘Уйайна, и ‘Умар дал разрешение. И когда ‘Уйайна вошёл к ‘Умару, то сказал: “Прекрати, о Ибн аль-Хаттаб, клянусь Аллахом, ты многого не даёшь нам и правишь нами несправедливо!” (Услышав эти слова,) ‘Умар, да будет доволен им Аллах, разгневался так, что даже хотел подвергнуть его наказанию, но аль-Хурр сказал ему: “О повелитель правоверных, поистине, Аллах Всевышний сказал Своему Пророку: “Прояви снисходительность, вели творить одобряемое и отвернись от невежд”, — что же касается этого, то он как раз и относится к числу невежественных”. И, клянусь Аллахом, после того как аль-Хурр прочитал этот аят, ‘Умар не сделал ничего такого, что противоречило бы его смыслу, поскольку он неуклонно придерживался (установлений) Книги Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4642</td></tr><tr><td>Arabic No</td><td>4642</td></tr><tr><td>Reference</td><td>Book 65 Hadith 164</td></tr></tbody></table></div>
 

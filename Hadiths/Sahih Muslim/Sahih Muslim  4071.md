@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Minhal reported:My partner sold silver to be paid in the (Hajj) season or (i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim bin Maimun] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru] dari [Abu Minhal] dia berkata, "Syarik telah menjual perak kepadaku dengan penundaan bayarannya sampai musim haji tiba, kemudian dia memberitahukan kepadaku, lalu sayapun berkata kepadanya, "Ini adalah perkara yang tidak benar." Dia menjawab, "Saya telah menjualnya di pasar, namun tidak ada seorangpun yang mengingkarinya." Akhirnya saya pergi menemui [Al Barra bin 'Azib] dan menanyakannya, dia lantas menjawab, "Ketika Nabi shallallahu 'alaihi wasallam tiba di Madinah, kami biasa melakukan praktek jual beli seperti itu, lalu beliau bersabda: "Jika itu dilakukan dengan tunai maka tidak mengapa, tetapi jika dengan penundaan maka itu adalah riba." Coba kamu datangi [Zaid bin Arqam], karena dia lebih besar usaha dagangnya daripadaku. Lantas saya mendatanginya dan menanyakan hal yang serupa, dan dia juga menjawab seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4071</td></tr><tr><td>Arabic No</td><td>1589.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4071</td></tr><tr><td>Arabic No</td><td>1589.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 110</td></tr></tbody></table></div>
 

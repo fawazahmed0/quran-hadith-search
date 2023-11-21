@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:We set out with the Prophet (ﷺ) in the year of Al-Hudaibiy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ar Rabi'] telah menceritakan kepada kami ['Ali bin Al Mubarak] dari [Yahya] dari [Abdullah bin Abu Qatadah] bahwa [Bapaknya] telah menceritakan kepadanya, katanya; "Kami berangkat bersama Nabi shallallahu 'alaihi wasallam saat perang Hudaibiyyah, lalu para shahabat berihram sementara beliau tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4149</td></tr><tr><td>Arabic No</td><td>4149</td></tr><tr><td>Reference</td><td>Book 64 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада сказал: «Мы отправились в путь с Пророком ﷺ в год аль-Худайбиййи, и все его спутники вошли в состояние ихрама, а я этого не сделал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4149</td></tr><tr><td>Arabic No</td><td>4149</td></tr><tr><td>Reference</td><td>Book 64 Hadith 193</td></tr></tbody></table></div>
 

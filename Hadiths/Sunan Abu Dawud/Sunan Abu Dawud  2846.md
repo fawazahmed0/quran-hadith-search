@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet of Allah (ﷺ) ordered to kill dogs, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Khalaf], telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij], ia berkata; telah mengabarkan kepadaku [Abu Az Zubair] dari [Jabir], ia berkata; Nabi shallallahu 'alaihi wasallam memerintahkan untuk membunuh seluruh anjing hingga seorang wanita datang dari pelosok dengan membawa anjing, lalu kami membunuhnya. Kemudian beliau melarang kami dari membunuh anjing dan berkata: "Bunuhlah yang hitam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1572)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846</td></tr><tr><td>Arabic No</td><td>2846</td></tr><tr><td>Reference</td><td>Book 17 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом: «Пророк Аллаха ﷺ велел нам убивать собак. И даже если женщина-бедуинка приходила со своей собакой, мы убивали эту собаку, а потом он запретил нам делать это и сказал: “Следует убивать только чёрных собак”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1572)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846</td></tr><tr><td>Arabic No</td><td>2846</td></tr><tr><td>Reference</td><td>Book 17 Hadith 3</td></tr></tbody></table></div>
 

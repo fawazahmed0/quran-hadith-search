@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safwan bin Muhriz Al-Mazini:While I was walking with Ibn 'Umar holding 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammam] berkata, telah menceritakan kepadaku [Qatadah] dari [Shafwan bin Muhriz Al Maziniy] berkata; Ketika aku sedang berjalan bersama [Ibnu'Umar] radliallahu 'anhuma, ada seorang yang memegang tangannya ketika menyodorkannya lalu berkata: "Bagaimana kamu mendengar Rasulullah shallallahu 'alaihi wasallam berkata tentang An-Najwaa (pembicaraan rahasia antara Allah dengan hambaNya pada hari Qiyamat)?" Maka dia berkata: "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesunggunnya Allah ketika orang beriman didekatkan lalu bagian sisi badannya diletakkan kemudian ditutup, Allah berfirman: "Apakah kamu mengenal dosamu yang begini?, apakah kamu mengenal dosamu yang begini?" Orang beriman itu berkata: "Ya, Tuhanku". Hingga ketika sudah diakui dosa-dosanya dan dia melihat bahwa dirinya akan celaka, Allah berfirman: "Aku telah merahasiakannya bagimu di dunia dan Aku mengampuninya buatmu hari ini". Maka orang beriman itu diberikan kitab catatan kebaikannya. Adapun orang kafir dan munafiqin, Allah berfirman: Dan para saksi akan berkata: itulah orang-orang yang mendustakan Tuhan mereka. Maka laknat Allah untuk orang-orang yang zhalim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2441</td></tr><tr><td>Arabic No</td><td>2441</td></tr><tr><td>Reference</td><td>Book 46 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умар, да будет доволен Аллах ими обоими, что он слышал, как Посланник Аллаха ﷺ сказал:\n— Поистине, Аллах приблизит к Себе верующего, и окажет ему Свою милость, и укроет его, и (станет) спрашивать: «Признаёшь ли ты(, что совершил) такой-то грех? Признаёшь ли ты(, что совершил) такой-то грех?» — а он будет говорить: «Да, о Господь мой!» Когда же (Аллах) заставит его признать (все) его грехи, и (верующий) посчитает, что он уже погиб, (Аллах) скажет: «Я покрыл (твои грехи) в земной жизни и Я прощу их тебе сегодня!» — а потом ему будет вручена книга (с записями) его добрых дел. Что же касается неверного и лицемеров, то свидетели (их дел) скажут: «“Это те, которые возводили ложь на своего Господа!” Поистине, проклятие Аллаха (лежит) на несправедливых!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2441</td></tr><tr><td>Arabic No</td><td>2441</td></tr><tr><td>Reference</td><td>Book 46 Hadith 2</td></tr></tbody></table></div>
 

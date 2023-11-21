@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Bakr reported that Marwan sent him to Umm Salama to ask whether a person sho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al 'Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru, yaitu anaknya Al Harits] dari [Abdu Rabbihi] dari [Abdullah bin Ka'b Al Himyari] bahwa [Abu Bakar] telah menceritakan kepadanya bahwa ia pernah diutus oleh Marwan kepada [Ummu Salamah] radliallahu 'anha untuk menanyakan tentang seorang laki-laki yang mendapati waktu pagi dalam keadaan junub, apakah ia boleh berpuasa. Maka Ummu Salamah menjawab: "Rasulullah shallallahu 'alaihi wasallam pernah mendapati waktu subuh dalam keadaan junub karena jima', bukan karena mimpi. Namun beliau tidak Ifthar (berbuka) dan tidak pula meng-qadla' (mengganti) puasanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2591</td></tr><tr><td>Arabic No</td><td>1109.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2591</td></tr><tr><td>Arabic No</td><td>1109.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 97</td></tr></tbody></table></div>
 

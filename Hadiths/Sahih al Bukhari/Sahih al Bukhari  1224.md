@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Buhaina:Allah's Messenger (ﷺ) once led us in a prayer a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik bin Anas] dari [Ibnu Syihab] dari ['Abdurrahman Al A'raj] dari ['Abdullah Ibnu Buhainah radliallahu 'anhu] bahwa dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah shalat dua raka'at diantara shalat Beliau, lalu Beliau berdiri dan tidak duduk, Maka orang-orang ikut berdiri mengikuti Beliau. Ketika Beliau menyelesaikan shalatnya (empat raka'at) sedangkan kami sedang menunggu-nunggu Beliau memberi salam, Beliau bahkan bertakbir sebelum memberi salam kemudian sujud dua kali dalam posisi duduk lalu baru memberi salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1224</td></tr><tr><td>Arabic No</td><td>1224</td></tr><tr><td>Reference</td><td>Book 22 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Бухайна, да будет доволен им Аллах, сказал: «Однажды Посланник Аллаха ﷺ совершал с нами молитву, и после двух рак‘атов он встал и не посидел, и люди встали вместе с ним. В конце молитвы, когда мы ожидали таслима, он сначала произнёс такбир, совершил во время своего сидения два земных поклона, а затем произнёс таслим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1224</td></tr><tr><td>Arabic No</td><td>1224</td></tr><tr><td>Reference</td><td>Book 22 Hadith 1</td></tr></tbody></table></div>
 

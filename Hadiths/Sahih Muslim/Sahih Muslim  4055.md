@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), l'Envoyé de Dieu (paix et 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Nafi'] dari [Ibnu Umar], bahwa seorang laki-laki dari Bani Laits memberitahukan kepadanya, bahwa Abu Sa'id Al Khudri telah meriwayatkan hadits ini (melarang seseorang menjual perak dengan perak) dari Rasulullah shallallahu 'alaihi wasallam yang terdapat dalam riwayatnya Qutaibah. Setelah itu Abdullah dan Nafi' pergi bersamanya. Dan dalam hadits Ibnu Rumh, Nafi' berkata, "Kemudian saya, Nafi' dan Al Laitsi pergi menemui Abu Sa'id Al Khudri, kemudian Nafi' berkata, "Sesungguhnya dia (Al Laitsi) memberitahukanku bahwa kamu telah meriwayatkan, bahwa Rasulullah shallallahu 'alaihi wasallam melarang jual beli perak dengan perak kecuali jika sama berat, dan melarang jual beli emas dengan emas kecuali jika sama berat?" Lantas Abu Sa'id menunjuk kedua mata dan telinganya dengan jari-jarinya sambil berkata, "Sungguh, mataku telah melihat dan telingaku juga mendengar bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Janganlah kalian jual beli emas dengan emas atau perak dengan perak kecuali jika sama berat, dan janganlah kalian melebihkan antara satu dengan yang lain. Dan jangan pula salah seorang dari kalian melakukan transaksi sedangkan yang lain tidak ada di tempat, kecuali jika dengan tunai." Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Jarir] -yaitu Ibnu Hazim-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] ia berkata; aku mendengar [Yahya bin Sa'id]. (dalam jalur lain disebutkan) [Muhammad Ibnul Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Ibnu 'Aun] semuanya dari [Nafi'] seperti haditsnya [Laits] dari [Nafi'] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>1584.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>1584.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 94</td></tr></tbody></table></div>
 

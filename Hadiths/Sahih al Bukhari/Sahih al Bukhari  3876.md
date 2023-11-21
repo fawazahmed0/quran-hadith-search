@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:We received the news of the departure of the Prophet (to Medin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Alaa'] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Buraid bin Abdullah] dari [Abu Burdah] dari [Abu Musa] radliallahu 'anhu; Telah sampai kepada kami berita tempat hijrahnya Nabi shallallahu 'alaihi wasallam saat kami sedang berada di Yaman. Maka kami berlayar dengan sebuah perahu yang mengantarkan kami sampai kepada raja an Najasyi di negeri Habasy. Kami pun berjumpa dengan Ja'far bin Abu Thalib lalu kami tinggal bersamanya hingga kami kembali ke Madinah dan berjumpa dengan Nabi shallallahu 'alaihi wasallam ketika terjadi kemenangan di perang Khaibar. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Bagi kalian wahai para penumpang perahu, mendapat (pahala) dua kali hijrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3876</td></tr><tr><td>Arabic No</td><td>3876</td></tr><tr><td>Reference</td><td>Book 63 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «До нас дошло известие о переселении Пророка ﷺ, когда мы были в Йемене, и мы отправились, чтобы переселится к нему. Мы поплыли на корабле, который доставил нас к Наджаши в Эфиопию, где мы обнаружили Джа‘фара ибн Аби Талиба. Мы оставались там вместе с ним до тех пор, пока мы все не покинули (Эфиопию) и не встретились с Пророком ﷺ в то время, когда он завоевал Хайбар. Пророк ﷺ сказал: “Вам будет награда за два переселения, о те, кто с корабля”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3876</td></tr><tr><td>Arabic No</td><td>3876</td></tr><tr><td>Reference</td><td>Book 63 Hadith 101</td></tr></tbody></table></div>
 

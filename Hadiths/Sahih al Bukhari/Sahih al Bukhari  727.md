@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:One night an orphan and I offered the prayers behind the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Sufyan] dari [Ishaq] dari [Anas bin Malik] ia berkata, "Aku dan seorang anak yatim yang tinggal di rumah kami, pernah ikut shalat di belakang Nabi shallallahu 'alaihi wasallam. Sementara ibuku, Ummu Sulaim, shalat di belakang kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>727</td></tr><tr><td>Arabic No</td><td>727</td></tr><tr><td>Reference</td><td>Book 10 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) мы с сиротой совершили в нашем доме намаз, находясь позади Пророка ﷺ, а моя мать Умм Сулейм стояла за нами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>727</td></tr><tr><td>Arabic No</td><td>727</td></tr><tr><td>Reference</td><td>Book 10 Hadith 121</td></tr></tbody></table></div>
 

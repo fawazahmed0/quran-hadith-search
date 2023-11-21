@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sha'tha' al-Muharibi reported on the authority of his father, who said:I hea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Abu Umar Al Makki] telah menceritakan kepada kami [Sufyan] yaitu Ibnu Uyainah, dari [Umar bin Said] dari [Asy'ats bin Abu Sya'tsa' Al Muharibi] dari [ayahnya], katanya; "Aku mendengar [Abu Hurairah] ketika ia melihat seseorang yang tengah keluar melewati masjid setelah dikumandangkan adzan; "Orang ini telah membangkang Abul Qasim shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>655.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 323</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Ша‘саъ сказал: «(Однажды), увидев человека, который выходил из мечети после азана, Абу Хурайра сказал: “Что касается этого (человека,) то он ослушался Абуль-Касима ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>655.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 323</td></tr></tbody></table></div>
 

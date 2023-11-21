@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما) le Prophète (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] Telah menceritakan kepada kami [bapakku] dan [Ibnu Bisyr] mereka berkata, Telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Ibnu Umar] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila sebagian matahari mulai terbit, maka tundalah shalat sampai matahari itu benar-benar terbit (dengan sempurna). Dan bila sebagian matahari itu mulai terbenam, maka tundalah shalat sampai matahari tersebut benar-benar terbenam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1926</td></tr><tr><td>Arabic No</td><td>829</td></tr><tr><td>Reference</td><td>Book 6 Hadith 354</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Если край солнца покажется (над горизонтом), отложите молитву, пока оно не появится (полностью), и если край солнца скроется (за горизонтом), отложите молитву, пока оно не скроется (полностью)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1926</td></tr><tr><td>Arabic No</td><td>829</td></tr><tr><td>Reference</td><td>Book 6 Hadith 354</td></tr></tbody></table></div>
 

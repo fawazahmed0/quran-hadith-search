@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khabbab:I was a blacksmith In the Pre-Islamic period of ignorance, and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Wahb bin Jarir bin Hazim] telah mengabarkan kepada kami [Syu'bah] dari [Al A'masy] dari [Abu Adh Dhuha] dari [Masruq] dari [Khabbab] berkata: "Pada masa Jahiliyyah aku adalah seorang tukang besi dan aku punya uang dirham yang ada pada Al 'Ash bin Wa'il lalu aku menemui dia untuk menagih agar dia membayarnya. Dia berkata: "Aku tidak akan membayarnya kepadamu kecuali kamu mau mengingkari (kufur) Muhammad shallallahu 'alaihi wasallam ". Aku katakan: "Demi Allah, aku tidak akan kufur kepada Muhammad shallallahu 'alaihi wasallam sampai Allah mematikan kamu lalu kamu dibangkitkan. Dia berkata: "Biarkanlah sampai aku mati lalu dibangkitkan dan disana aku akan mendapatkan harta dan anak lalu aku akan bayar hutang kepadamu". Maka Allah Ta'ala menurunkan QS Maryam ayat yang artinya: (" Maka apakah kamu telah melihat orang yang kafir kepada ayat-ayat kami dan ia mengatakan "pasti aku akan diberi harta dan anak" (QS. Maryam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>2425</td></tr><tr><td>Reference</td><td>Book 44 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб сказал: «Во времена джахилийи я был кузнецом. Аль-‘Ас ибн Ваиль задолжал мне несколько дирхамов, и (однажды) я пришёл к нему, чтобы потребовать возврата долга. Он сказал: “Я (ничего) не отдам тебе, пока ты не перестанешь верить в Мухаммада!” Я воскликнул: “Нет, клянусь Аллахом! Не перестану я верить в Мухаммада, пока Аллах не лишит тебя жизни, а потом не воскресит!” Он сказал: “Так оставь меня, пока я не умру и не буду воскрешён, и тогда будет мне даровано богатство и дети и я верну тебе (свой долг)!” — и после этого был ниспослан (аят, в котором говорится): “Видел ли ты того, кто не уверовал в Наши знамения и сказал: “Я непременно буду одарен богатством и детьми?” (сура «Марьям», аят 77)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>2425</td></tr><tr><td>Reference</td><td>Book 44 Hadith 15</td></tr></tbody></table></div>
 

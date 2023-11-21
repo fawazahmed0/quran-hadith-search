@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated through other chains of transmitters. The hadith o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata; Aku membaca Hadits dari [Malik] dari [Nafi'] dari [Zaid bin 'Abdullah] dari ['Abdullah bin 'Abdurrahman bin Abu Bakr Ash Shidiqi] dari [Ummu Salamah] istri Nabi shallallahu 'alaihi wasallam bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang minum dengan bejana yang terbuat dari perak, sebenarnya dia sedang menggodok api neraka di dalam perutnya." Telah menceritakannya kepada kami [Qutaibah] dan [Muhammad bin Rumh] dari [Al Laits bin Sa'd]; Demikian juga telah diriwayatkan dari jalur yang lain, Telah menceritakannya kepadaku ['Ali bin Hujr As Sa'idi]; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu 'Ulayah dari [Ayyub]; Demikian juga telah diriwayatkan dari jalur yang lain, Telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Muhammad bin Bisyr]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Yahya bin Sa'id]; Demikian juga telah diriwayatkan dari jalur yang lain, Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Al Walid bin Syuja'] keduanya berkata; Telah menceritakan kepada kami ['Ali bin Mushir] dari ['Ubaidillah]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami]; Telah menceritakan kepada kami [Al Fudhail bin Sulaiman]; Telah menceritakan kepada kami [Musa bin 'Uqbah]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami [Jarir] yaitu Ibnu Hazim dari ['Abdurrahman As Sarraj] mereka semuanya meriwayatkan dari [Nafi], sebagaimana Hadits Malik bin Anas dengan sanadnya. Di dalam Hadits Ali bin Mushir dari Ubaidullah ada tambahan lafazh; 'Bahwa orang yang makan atau minum dengan bejana yang terbuat dari perak dan emas…'. Padahal dalam semua Hadits yang lain tidak ada tambahan 'makan dan emas', kecuali Hadits dari Ibnu Mushir saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5386</td></tr><tr><td>Arabic No</td><td>2065.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5386</td></tr><tr><td>Arabic No</td><td>2065.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 2</td></tr></tbody></table></div>
 

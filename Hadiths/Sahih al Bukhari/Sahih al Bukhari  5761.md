@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud:The Prophet (ﷺ) forbade the utilization of the price of a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Az Zuhri] dari [Abu Bakar bin Abdurrahman bin Al Harits] dari [Abu Mas'ud] dia berkata; Nabi shallallahu 'alaihi wasallam melarang dari upah hasil penjualan anjing, upah pelacuran dan upah dari perdukunan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5761</td></tr><tr><td>Arabic No</td><td>5761</td></tr><tr><td>Reference</td><td>Book 76 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд, сказал: «Пророк ﷺ запретил (брать) деньги за собаку, а также заработок блудницы и предсказателя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5761</td></tr><tr><td>Arabic No</td><td>5761</td></tr><tr><td>Reference</td><td>Book 76 Hadith 75</td></tr></tbody></table></div>
 

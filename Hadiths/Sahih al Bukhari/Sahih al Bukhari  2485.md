@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' bin Khadij:We used to offer the 'Asr prayer with the Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad boin Yusuf] telah menceritakan kepada kami [Al Awza'iy] telah menceritakan kepada kami [Abu An-Najasyiy] berkata, aku mendengar [Rafi' bin Khadij radliallahu 'anhu] berkata: "Kami shalat 'Ashar bersama Nabi shallallahu 'alaihi wasallam lalu kami menyembelih seekor hewan sembelihan lalu dibagi menjadi sepuluh bagian kemudian kami makan daging yang dimasak sebelum terbenam matahari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2485</td></tr><tr><td>Arabic No</td><td>2485</td></tr><tr><td>Reference</td><td>Book 47 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи’ ибн Хадидж сказал: «Мы совершали молитву ‘аср с Пророком ﷺ, затем закалывали верблюда и делили его мясо на десять частей. После этого мы ели приготовленное мясо до того, как садилось солнце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2485</td></tr><tr><td>Arabic No</td><td>2485</td></tr><tr><td>Reference</td><td>Book 47 Hadith 3</td></tr></tbody></table></div>
 

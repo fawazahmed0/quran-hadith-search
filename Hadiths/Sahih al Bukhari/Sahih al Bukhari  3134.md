@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi' from Ibn 'Umar:Allah's Messenger (ﷺ) sent a Sariya towards Najd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa Rasulullah Shallallahu'alaihiwasallam mengirim sariyah (pasukan perang) dan 'Abdullah bin 'Umar bergabung bersamanya menuju Najed. Kemudian mereka dapatkan ghanimah berupa unta yang cukup banyak. Masing-masing anggota pasukan mendapatkan bagian dua belas unta atau sebelas unta ditambah masing-masingnya dengan satu unta sebagai nafal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3134</td></tr><tr><td>Arabic No</td><td>3134</td></tr><tr><td>Reference</td><td>Book 57 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что (однажды) Посланник Аллаха ﷺ отправил в сторону Неджда отряд воинов, среди которых был и ‘Абдуллах ибн ‘Умар. Они захватили в качестве военной добычи много верблюдов, а на долю каждого воина пришлось по двенадцать (или: одиннадцать) верблюдов, (а кроме того,) каждый дополнительно получил ещё по одному верблюду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3134</td></tr><tr><td>Arabic No</td><td>3134</td></tr><tr><td>Reference</td><td>Book 57 Hadith 42</td></tr></tbody></table></div>
 

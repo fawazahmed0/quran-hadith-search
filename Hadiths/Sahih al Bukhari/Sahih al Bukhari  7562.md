@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "There will emerge from the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Mahdi bin maimun] aku mendengar [Muhammad bin Sirin] menceritakan dari [Ma'bad bin Sirin] dari [Abu Sa'id Al Khudzri] radliyallahu'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Akan muncul beberapa orang dari arah timur, mereka membaca Al Qur'an namun tidak lebih dari kerongkongan mereka (tidak meresap dalam hati), mereka keluar dari agama sebagaimana anak panah keluar dari busur, dan mereka tidak akan kembali hingga anak panah kembali ke tali busur." Lalu ditanya, "Apa tanda mereka?" Beliau menjawab: "Ciri mereka adalah gundul." Atau, beliau mengatakan: "Rambutnya dipangkas habis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7562</td></tr><tr><td>Arabic No</td><td>7562</td></tr><tr><td>Reference</td><td>Book 97 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида аль-Худри, что Пророк ﷺ сказал: «Появятся люди со стороны Востока, которые будут читать Коран, однако он не опустится ниже их глоток. Они будут вылетать из религии, подобно стреле, выпущенной из лука, а затем не возвратятся в нее, пока стрела не возвратится в луковицу». Его спросили: «Каков их признак?». Он сказал: «Их признак — бритье голов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7562</td></tr><tr><td>Arabic No</td><td>7562</td></tr><tr><td>Reference</td><td>Book 97 Hadith 187</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada kami [Shadaqah] telah mengabarkan kepada kami [Ibnu 'U
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2240.2</td></tr><tr><td>Arabic No</td><td>2240.2</td></tr><tr><td>Reference</td><td>Book 35 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет Аллах доволен им и его отцом, рассказывал: «Когда Посланник Аллаха ﷺ прибыл в Медину [то есть совершал хиджру], её жители занимались торговлей “салям” [продавая] плоды [финики] за два или три года вперёд. Тогда Пророк ﷺ сказал: “Если ­кто-либо торгует способом “салям”, то пусть делает это известной мерой объёма / кяйль/, либо известной мерой веса /уазн/ и до известного срока”»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2240</td></tr><tr><td>Arabic No</td><td>2240</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2240.2</td></tr><tr><td>Arabic No</td><td>2240.2</td></tr><tr><td>Reference</td><td>Book 35 Hadith 4</td></tr></tbody></table></div>

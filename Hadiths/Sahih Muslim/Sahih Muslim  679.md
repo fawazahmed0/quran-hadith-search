@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:When anyone amongst us (amongst the wives of the Holy Prophet) m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] serta [Ishaq bin Ibrahim], Ishaq berkata, telah mengabarkan kepada kami, sedangkan dua orang lainnya berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [al-Aswad] dari [Aisyah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam memerintahkan salah seorang di antara kami yang sedang haid supaya memakai sarung sebagai pelapis, kemudian beliau mencumbunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>293.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда у кого-то из нас начинались менструации, Посланник Аллаха ﷺ повелевал ей надеть изар, после чего прикасался к ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>293.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 1</td></tr></tbody></table></div>
 

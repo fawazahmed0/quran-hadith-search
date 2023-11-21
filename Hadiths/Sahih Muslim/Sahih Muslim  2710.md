@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sahl Ibn Sa'd (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Khalid bin Makhlad Al Qathawani] dari [Sulaiman bin Bilal] telah menceritakan kepadaku [Abu Hazim] dari [Sahl bin Sa'd] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Di dalam surga ada satu pintu yang disebut Ar Rayyan. Orang-orang yang diperkenankan masuk surga melalui pintu pada hari kiamat kelak hanyalah orang-orang yang berpuasa, sedangkan yang lainnya tidak diperkenankan. Mereka akan dipanggil; 'Manakah orang-orang yang sering berpuasa? ' Dan bila orang yang terakhir dari mereka telah masuk, maka pintu itu pun segera ditutup, hingga tak seorang pun yang dapat memasukinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2710</td></tr><tr><td>Arabic No</td><td>1152</td></tr><tr><td>Reference</td><td>Book 13 Hadith 216</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2710</td></tr><tr><td>Arabic No</td><td>1152</td></tr><tr><td>Reference</td><td>Book 13 Hadith 216</td></tr></tbody></table></div>
 

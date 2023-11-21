@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:I went to Allah's Messenger (ﷺ) along with a grou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6718</td></tr><tr><td>Arabic No</td><td>6718</td></tr><tr><td>Reference</td><td>Book 84 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса аль-Аш‘ари сказал: «(Однажды) я пришёл к Посланнику Аллаха ﷺ вместе с несколькими другими аш‘аритами и стал просить у него (верблюдов). (Выслушав нас, Пророк ﷺ) сказал: “Клянусь Аллахом, не стану я снабжать вас! (Кроме прочего,) нет у меня того, чем бы снабдить вас!” (После этого) мы провели (в ожидании столько времени), сколько было угодно Аллаху, а потом к (Пророку ﷺ) пригнали трёх верблюдов, и (Посланник Аллаха ﷺ) посадил нас (верхом) на них. Двинувшись в путь, мы стали говорить друг другу: “(Аллах) не сделает (этих верблюдов) благословенными для нас, (ведь) мы пришли к Посланнику Аллаху ﷺ, чтобы попросить у него (верблюдов), и он поклялся, что ничего не даст нам, а потом дал!” После этого мы пришли к Пророку ﷺ и передали ему содержание своих разговоров. Пророк ﷺ сказал: “Это не я снабдил вас ими, а Аллах снабдил вас. Поистине, клянусь Аллахом, если пожелает Аллах, какую бы клятву я ни дал, если я вижу нечто лучшее, то искупаю (нарушенную мною) клятву и делаю то, что мне представляется лучшим”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6718</td></tr><tr><td>Arabic No</td><td>6718</td></tr><tr><td>Reference</td><td>Book 84 Hadith 11</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Husain:A man bit another man's hand and the latter pulled hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Qatadah] mengatakan, aku mendengar [Zurarah bin Awfa] dari ['Imran bin Hushain], berkata; seorang laki-laki menggigit tangan seseorang, yang digigit lantas menarik tangannya dari mulutnya sehingga dua gigi serinya tanggal, lantas mereka mengadukan sengketa ini kepada Nabi Shallallahu'alaihiwasallam, dan Nabi bersabda: "Salah seorang diantara kalian menggigit saudaranya sebagaimana kambing jantan menggigit, dan tidak ada diyat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6892</td></tr><tr><td>Arabic No</td><td>6892</td></tr><tr><td>Reference</td><td>Book 87 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Имрана ибн Хусайна, что один человек укусил другого за руку, а укушенный вырвал руку из его рта вместе с передним зубом укусившего. Они обратились Пророку ﷺ, чтобы он рассудил между ними, и он сказал: «Один из вас кусает брата своего, как кусается верблюд?! Не будет тебе компенсации /дийа/ (за твой зуб)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6892</td></tr><tr><td>Arabic No</td><td>6892</td></tr><tr><td>Reference</td><td>Book 87 Hadith 30</td></tr></tbody></table></div>
 

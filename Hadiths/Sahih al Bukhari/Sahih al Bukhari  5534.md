@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, 'The example of a good pious companion
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Perumpamaan teman yang shalih dengan teman yang buruk bagaikan penjual minyak wangi dengan pandai besi, bisa jadi penjual minyak wangi itu akan menghadiahkan kepadamu atau kamu membeli darinya atau kamu akan mendapatkan bau wanginya sedangkan pandai besi hanya akan membakar bajumu atau kamu akan mendapatkan bau tidak sedapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5534</td></tr><tr><td>Arabic No</td><td>5534</td></tr><tr><td>Reference</td><td>Book 72 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, праведный товарищ и дурной (товарищ) подобны продавцу мускуса и (человеку,) раздувающему кузнечные меха. Что касается продавца мускуса, то он (может) либо подарить тебе (что-нибудь из своего товара), либо ты купишь у него что-то, либо ощутишь (исходящий) от него аромат. Что же касается раздувающего меха, то он либо прожжёт твою одежду, либо ты ощутишь (исходящее) от него зловоние»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5534</td></tr><tr><td>Arabic No</td><td>5534</td></tr><tr><td>Reference</td><td>Book 72 Hadith 59</td></tr></tbody></table></div>
 

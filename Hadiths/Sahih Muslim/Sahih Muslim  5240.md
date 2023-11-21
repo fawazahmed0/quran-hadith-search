@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) was presented two cups at Bait
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abbas] dan [Zuhair bin Harb] dan lafazh ini milik Ibnu 'Abbas mereka berkata; Telah menceritakan kepada kami [Abu Shafwan]; Telah mengabarkan kepada kami [Yunus] dari [Zuhri] ia berkata; [Ibnu Musayyab] berkata; [Abu Hurairah] berkata; bahwa Nabi shallallahu 'alaihi wasallam pernah diberikan dua cangkir yang berisi khamer dan susu di Iliya pada malam Isra. Beliau kemudian mengambil susu. Setelah itu Jibril berkata; 'Segala puji bagi Allah yang telah menunjukimu kepada kesucian. Seandainya engkau mengambil khamer, niscaya umatmu akan sesat.' Dan telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'Yan] telah menceritakan kepada kami [Ma'qil] dari [Az Zuhri] dari [Sa'id bin Al Musayyab] bahwa dia mendengar [Abu Hurairah] berkata; -dengan Hadits yang serupa, namun tidak menyebutkan di Iliya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5240</td></tr><tr><td>Arabic No</td><td>168.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5240</td></tr><tr><td>Arabic No</td><td>168.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 114</td></tr></tbody></table></div>
 

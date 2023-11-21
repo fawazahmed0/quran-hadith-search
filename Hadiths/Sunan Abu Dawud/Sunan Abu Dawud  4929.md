@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Salamah said that the Prophet (May peace be upon him) came upon her when the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Waki'] dari [Hisyam] -maksudnya Hisyam bin Urwah- dari [Bapaknya] dari [Zainab binti Ummu Salamah] dari [Ummu Salamah] bahwa Nabi shallallahu 'alaihi wasallam pernah masuk menemuinya, sementara di sisinya ada orang banci yang berkata Abdullah, saudara Ummu Salamah; "Jika besok Allah memberi kemenangan atas Kota Thaif, akan aku tunjukkan kepadamu seorang wanita yang dari arah depan ada empat lipatan (lipatan perut), dan dari arah belakang ada delapan (lipatan perut)." Nabi shallallahu 'alaihi wasallam kemudian bersabda: "Keluarkanlah mereka dari rumah kalian." Abu Dawud berkata, "Wanita yang mempunyai empat lipatan di perutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2535) Sahih Muslim (2180)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4929</td></tr><tr><td>Arabic No</td><td>4929</td></tr><tr><td>Reference</td><td>Book 43 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2535) Sahih Muslim (2180)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4929</td></tr><tr><td>Arabic No</td><td>4929</td></tr><tr><td>Reference</td><td>Book 43 Hadith 157</td></tr></tbody></table></div>
 

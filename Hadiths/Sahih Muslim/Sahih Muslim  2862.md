@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported Allah'* Apostle (ﷺ) as saying:Five
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ibnu Basysyar] keduanya berkata, Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] saya mendengar [Qatadah] menceritakan dari [Sa'id bin Al Musayyab] dari [Aisyah] radliallahu 'anha, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Ada lima jenis binatang yang boleh dibunuh baik di tanah haram atau pun di luar tanah haram, yaitu; Ular, gagak yang di punggung atau perutnya ada warna putih, tikus, anjing gila dan elang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2862</td></tr><tr><td>Arabic No</td><td>1198.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2862</td></tr><tr><td>Arabic No</td><td>1198.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 72</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to stay (for a period) in the house of Za
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Muhammad] telah menceritakan kepada kami [Al Hajjaj] dari [Ibnu Juraij] menuturkan; ['Atha'] berangggapan bahwa dirinya pernah mendengar [Ubaid bin Umair] mengatakan; aku pernah mendengar ['Aisyah] menuturkan; bahwa Nabi shallallahu 'alaihi wasallam tinggal di rumah Zainab binti Jahsy dan meminum madu dirumahnya, maka aku dan Hafshah saling berwasiat bahwa siapa saja diantara kami berdua yang didatangi Nabi shallallahu 'alaihi wasallam, agar kami mengatakan; 'Aku menemukan bau pohon mighfar dimulutmu, apakah engkau telah makan buah mighfar? ' Nabi kemudian menemui salah satu dari keduanya dan dia mengatakan ucapan yang telah disepakati keduanya, namun Nabi justeru menjawab: "Tidak, bahkan aku minum madu di tempat Zainab binti Jahsy, dan sekali-kali aku tidak akan mengulanginya." Maka turunlah ayat yang menegur Nabi; "Wahai Nabi, mengapa kamu mengharamkan sesuatu yang telah Allah halalkan kepadamu' dan surat, 'jika kalian berdua bertaubat kepada Allah, ' ditujukan kepada Aisyah dan Hafshah. Dan firman-Nya; 'Ingatlah ketika Nabi merahasiakan sebuah pembicaraan kepada sebagian isterinya, ' petikan ayat ini untuk ucapan Nabi yang mengatakan: 'Namun aku minum madu.' [Ibrahim bin Musa] berkata kepadaku; dari [Hisyam] dengan tambahan redaksi: "Saya sekali-kali tak akan mengulanginya selama-lamanya, saya telah bersumpah, maka janganlah kalian kabarkan kepada seorang pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6691</td></tr><tr><td>Arabic No</td><td>6691</td></tr><tr><td>Reference</td><td>Book 83 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убейд ибн Умейр сказал: «Я слышал, как ‘Аиша, да будет доволен ею Аллах, утверждала, что Пророк ﷺ часто задерживался у Зайнаб бинт Джахш и ел у неё мёд. И я договорилась с Хафсой, что к кому бы из нас ни зашёл Пророк, ﷺ то она скажет: “Поистине, я ощущаю исходящий от тебя запах камеди*. Ты ел камедь?” (И когда Пророк ﷺ) зашёл к одной из них, она сказала ему это, [на что] он сказал: “Нет! Я ел мёд у Зайнаб бинт Джахш, чего больше никогда делать не буду”, и тогда было ниспослано: “О Пророк! Почему ты запрещаешь себе то, что позволил тебе Аллах, стремясь угодить своим жёнам? Аллах — Прощающий, Милующий. Аллах предписал вам, как освобождаться от ваших клятв. Аллах — ваш Покровитель. Он — Знающий, Мудрый. Вспомни, как однажды Пророк поведал тайну одной из своих жён. Она раскрыла её [другой жене] и Аллах сообщил ему об этом. Он раскрыл кое-что [из того, что узнал], а кое-что утаил. Когда он сообщил ей об этом, она сказала: “Кто рассказал тебе об этом?” Он сказал: “Мне сообщил Знающий, Ведающий”. Если вы вдвоём покаетесь перед Аллахом, то ведь ваши сердца уклонились в сторону. Если же вы будете поддерживать друг друга против него, то ведь ему покровительствует Аллах, а также Джибриль и праведные верующие. А кроме того, ангелы помогают [ему]” (Сура “ат-Тахрим”, аяты 1-4). Слова Всевышнего “Если вы вдвоём покаетесь перед Аллахом” были ниспосланы об ‘Аише и Хафсе, а слова “Вспомни, как однажды Пророк поведал тайну одной из своих жён” — о словах Посланника Аллаха ﷺ: “Я ел мёд”». \n(Сказал аль-Бухари): «Сказал мне Ибрахим ибн Муса от Хишама (с последующим иснадом, что Пророк ﷺ сказал): “И я никогда больше не стану (есть его, в чём) я поклялся, а ты никому об этом не говори!”». Камедь — сладкий на вкус, но обладающий неприятным запахом растительный клей, выделяемом растением ‘урфут (разновидность терновника)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6691</td></tr><tr><td>Arabic No</td><td>6691</td></tr><tr><td>Reference</td><td>Book 83 Hadith 68</td></tr></tbody></table></div>
 

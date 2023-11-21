@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Buraidah said:In the tradition telling that people with small eyes, i.e. the Tur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ja'far bin Musafir At Tinnisi] berkata, telah menceritakan kepada kami [Khallad bin Yahya] berkata, telah menceritakan kepada kami [Basyir Ibnul Muhajir] berkata, telah menceritakan kepada kami [Abdullah bin Buraidah] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam berkenaan dengan hadits Nabi, 'Akan memerangi kalian suatu kaum yang mata mereka sipit -yakni bangsa Turki-', beliau bersabda: "Kalian akan menguasai mereka sebanyak tiga kali, sehingga kalian dapat menyusul mereka hingga jazirah arab. Pada kemenangan pertama orang-orang yang lari dari mereka selamat, pada kemenangan kedua sebagian dari mereka selamat dan sebagian yang lain binasa, dan pada kemenangan ketiga mereka menyerah total. ' Atau sebagaimana yang beliau sabdakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4305</td></tr><tr><td>Arabic No</td><td>4305</td></tr><tr><td>Reference</td><td>Book 39 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абдуллах ибн Бурайда передаёт от своего отца, да будет доволен им Аллах, хадис, в котором Пророк ﷺ сказал: «Вы будете сражаться с людьми, у которых маленькие глаза (тюрками). Вы поведёте их трижды, чтобы привести их на Аравийский полуостров /джазират аль-араб/. В первый раз спасутся те, кому удастся бежать. Во второй раз некоторые спасутся, а некоторые погибнут. А в третий раз они все погибнут». Или же он сказал нечто подобное
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4305</td></tr><tr><td>Arabic No</td><td>4305</td></tr><tr><td>Reference</td><td>Book 39 Hadith 15</td></tr></tbody></table></div>
 

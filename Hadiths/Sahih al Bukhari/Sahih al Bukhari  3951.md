@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin Malik:I never failed to join Allah's Messenger (ﷺ) in any of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Abdur Rahman bin 'Abdullah bin Ka'ab] bahwa ['Abdullah bin Ka'ab] berkata; aku mendengar [Ka'ab bin Malik] radliallahu 'anhu berkata; "Aku tidak pernah menghindar dari Rasulullah shallallahu 'alaihi wasallam dalam peperangan yang beliau lakukan melainkan pada perang Tabuk. Adapun aku tidak ikut pada perang Badar karena memang tidak ada satupun orang yang dicela disebabkan menghindar darinya. Sebab tidaklah Rasulullah shallallahu 'alaihi wasallam keluar melainkan hendak menghadang rombongan dagang kafir Quraisy hingga akhirnya Allah mempertemukan mereka dengan musuh mereka tanpa ada kesepakatan (keinginan untuk berperang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3951</td></tr><tr><td>Arabic No</td><td>3951</td></tr><tr><td>Reference</td><td>Book 64 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ка‘б ибн Малик, да будет доволен им Аллах, сказал: «Я не пропустил ни одного военного похода (, в котором принимал участие) Посланник Аллаха ﷺ за исключением похода на Табук. Впрочем, я не был с ним и во время битвы при Бадре, однако (тогда) никто из оставшихся не подвергся порицанию, поскольку Посланник Аллаха ﷺ выступил (из Медины) только для того, чтобы (захватить торговый) караван курайшитов, а Аллах свёл их с врагами, с которыми они не договаривались об этом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3951</td></tr><tr><td>Arabic No</td><td>3951</td></tr><tr><td>Reference</td><td>Book 64 Hadith 3</td></tr></tbody></table></div>
 

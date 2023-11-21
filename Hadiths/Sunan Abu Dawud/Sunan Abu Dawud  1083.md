@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuQatadah: The Prophet (ﷺ) disapproved of the offering of prayer at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Hassan bin Ibrahim] dari [Laits] dari [Mujahid] dari [Abu Al Khalil] dari [Abu Qatadah] dari Nabi shallallahu 'alaihi wasallam bahwa beliau tidak suka melaksanakan shalat pertengahan siang kecuali hari jum'at. Beliau bersabda: "Sesungguhnya neraka Jahannam di nyalakan pada waktu itu kecuali hari Jum'at." Abu Daud berkata; "Hadits ini mursal karena Mujahid lebih tua dari Abu Khalil, sedangkan Abu Khalil tidak pernah mendengar dari Abu Qatadah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1083</td></tr><tr><td>Arabic No</td><td>1083</td></tr><tr><td>Reference</td><td>Book 2 Hadith 694</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Катады, да будет доволен им Аллах, что Пророк ﷺ не любил совершать молитву в полдень, за исключением пятницы, и говорил: «Поистине, Геенна пылает, но только не в пятницу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1083</td></tr><tr><td>Arabic No</td><td>1083</td></tr><tr><td>Reference</td><td>Book 2 Hadith 694</td></tr></tbody></table></div>
 

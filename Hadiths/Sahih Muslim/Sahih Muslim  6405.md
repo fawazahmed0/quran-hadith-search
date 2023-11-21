@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported:I was in the company of Allah's Apostle (ﷺ) as he had been s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Amir Al Asy'ari] dan [Abu Kuraib] seluruhnya dari [Abu Usamah] berkata; [Abu 'Amir] Telah menceritakan kepada kami [Abu Usamah]; Telah menceritakan kepada kami [Buraid] dari [Kakeknya Abu Burdah] dari [Abu Musa] dia berkata; "Saya pernah berada di sisi Rasulullah shallallahu 'alaihi wasallam ketika beliau tengah singgah bersama Bilal di Ji'ranah, yaitu suatu wilayah antara Makkah dan Madinah. Tak lama kemudian, seorang Arab kampung datang menemui Rasulullah shallallahu 'alaihi wasallam dan berkata; 'Ya Muhammad, mengapa kamu tidak melaksanakan apa yang telah kamu janjikan kepadaku? ' Maka Rasulullah pun berkata kepada orang Arab kampung itu: 'Ada berita gembira untukmu.' Namun orang Arab tersebut malah berkata kepada Rasulullah; 'Kamu selalu mengatakan kepadaku; 'Ada kabar kabar gembira untukmu.' Kemudian Rasulullah berpaling darinya dan menghadap kepada Abu Musa dan Bilal seperti sikap orang yang sedang marah seraya berkata: 'Rupanya orang Arab kampung itu menolak berita gembira dariku. Sebaiknya kalian saja yang menghadapinya.' Kedua orang sahabat itu menjawab; 'Kami menerimanya ya Rasulullah! ' Setelah itu Rasulullah meminta segelas air. Lalu beliau basuh kedua tangan dan wajahnya dengan air tersebut. Kemudian beliau meludah ke dalam air itu seraya berkata kepada Abu Musa dan Bilal: 'Minumlah air ini hai Aba Musa dan Bilal! Setelah itu, tuangkanlah air tersebut untuk membasuh wajah dan leher kalian. Kemudian sampaikanlah kabar gembira tentang Islam kepada laki-laki itu! ' Keduanya mengambil gelas tersebut dan segera melaksanakan apa yang telah diperintahkan Rasulullah kepada mereka. Tak lama kemudian, Ummu Salamah, istri Rasulullah, memanggil Abu Musa dan Bilal dari balik tabir; 'Hai Bilal dan Abu Musa, sisakanlah air tersebut untukku (ibu kalian)! ' Akhirnya mereka menyisakan air tersebut untuk Ummu Salamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6405</td></tr><tr><td>Arabic No</td><td>2497</td></tr><tr><td>Reference</td><td>Book 44 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6405</td></tr><tr><td>Arabic No</td><td>2497</td></tr><tr><td>Reference</td><td>Book 44 Hadith 236</td></tr></tbody></table></div>
 

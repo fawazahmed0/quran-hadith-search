@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:Thy Prophet (p.b.u.h) said, "A time will come upon the people 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Alaa'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: "Pasti akan datang pada manusia suatu zaman yang ketika seseorang berkeliling membawa shadaqah emas, lalu ia tidak mendapati seseorang yang mau menerimanya lagi. Lalu akan terlihat satu orang laki-laki akan diikuti oleh empat puluh orang wanita, yang mereka mencari kepuasan dengannya karena sedikitnya jumlah laki-laki dan banyaknya wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1414</td></tr><tr><td>Arabic No</td><td>1414</td></tr><tr><td>Reference</td><td>Book 24 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Обязательно настанет для людей такое время, когда человек станет повсюду ходить, (желая подать) милостыню золотом, но не найдёт таких, кто принял бы от него (подаяние), и (в это время) можно будет увидеть одного мужчину, за которым станут следовать сорок женщин, ищущих его защиты, ибо мужчин будет мало, а женщин много»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1414</td></tr><tr><td>Arabic No</td><td>1414</td></tr><tr><td>Reference</td><td>Book 24 Hadith 18</td></tr></tbody></table></div>
 

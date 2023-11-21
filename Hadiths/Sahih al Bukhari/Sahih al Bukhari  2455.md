@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabala:"We were in Medina with some of the Iraqi people, and we were st
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafzh bin 'Umar] telah menceritakan kepada kami [Syu'bah] dari [Jabalah]; Kami pernah tinggal di Madinah bersama orang-orang dari penduduk 'Iraq selama setahun yang Ibnu Az Zubair memberi kami rezeki berupa kurma. Suatu hari [Ibnu 'Umar] radliallahu 'anhuma berjalan melewati kami lalu dia berkata; "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam melarang qiran (mengambil dua dua kurma sekaligus ketika memakannya) kecuali bila seseorang dari kalian meminta izin kepada saudaranya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2455</td></tr><tr><td>Arabic No</td><td>2455</td></tr><tr><td>Reference</td><td>Book 46 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабаля, да помилует его Аллах Всевышний, сказал: «(Однажды, когда) мы с некоторыми жителями Ирака находились в Медине, выдался голодный год, и Ибн аз-Зубайр снабжал нас финиками, что же касается Ибн ‘Умара, да будет доволен Аллах ими обоими, то, проходя мимо нас, он говорил: “Поистине, Посланник Аллаха ﷺ запрещал брать по два финика сразу, если только (любой) из вас не спросит на это разрешения у своего брата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2455</td></tr><tr><td>Arabic No</td><td>2455</td></tr><tr><td>Reference</td><td>Book 46 Hadith 16</td></tr></tbody></table></div>
 

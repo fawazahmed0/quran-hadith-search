@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah (ra) said, I heard the Messenger of Allah (ﷺ) say "If someb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] telah menceritakan kepadaku [Ibnu Syihab] dari [Salim bin 'Abdullah] dari [bapaknya radliallahu 'anhu] berkata, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda "Siapa yang membeli pohon kurma setelah dikawinkan maka buahnya milik penjualnya kecuali bila disyaratkan oleh pembelinya dan siapa yang membeli budak dan dia memiliki harta maka harta itu milik penjualnya kecuali bila disyaratkan oleh pembelinya". Dan dari [Malik] dari [Nafi'] dari [Ibnu 'Umar] dan ['Umar] dalam perkara budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2379</td></tr><tr><td>Arabic No</td><td>2379</td></tr><tr><td>Reference</td><td>Book 42 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Когда кто-нибудь покупает пальмы уже после их опыления, финики(, которые они принесут, следует отдать) продавцу, если только покупатель не поставит условием, (что урожай будет принадлежать ему,) а когда кто-нибудь покупает раба, у которого есть какое-либо имущество, его имущество (следует оставить) продавцу, если только покупатель не поставит условием(, что его имущество также будет принадлежать ему)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2379</td></tr><tr><td>Arabic No</td><td>2379</td></tr><tr><td>Reference</td><td>Book 42 Hadith 27</td></tr></tbody></table></div>
 

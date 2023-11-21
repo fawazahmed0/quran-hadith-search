@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’id Al Khudri said “The Apostle of Allaah(ﷺ) sent a military expedit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar bin Maisarah], telah menceritakan kepada kami [Yazid bin Zurai'], telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Shalih Abu Al Khalil] dari [Abu 'Alqamah Al Hasyimi], dari [Abu Sa'id Al Khudri], bahwa Rasulullah shallallahu 'alaihi wasallam telah mengutus sebuah utusan pada saat perang Hunain menuju kepada Suku Authas. Kemudian mereka bertemu dengan musuh mereka, dan berperang dengan mereka. Lalu mereka mengalahkan musuh-musuh tersebut dan mendapatkan wanita-wanita tawanan. Seolah-olah beberapa orang sahabat Rasulullah shallallahu 'alaihi wasallam merasa berat untuk bercampur dengan mereka karena keberadaan suami-suami mereka dari kalangan orang-orang musyrik. Kemudian Allah Ta'ala menurunkan ayat mengenai hal tersebut: "Dan (diharamkan juga kamu mengawini) wanita yang bersuami, kecuali budak-budak yang kamu miliki." Yaitu; mereka halal bagi kalian apabila telah selesai 'iddah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1456)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2155</td></tr><tr><td>Arabic No</td><td>2155</td></tr><tr><td>Reference</td><td>Book 12 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что в день битвы при Хунайне Посланник Аллаха ﷺ послал отряд к долине Аутас. Воины повстречали врагов, сразились с ними, одержали победу и захватили пленных, а потом люди из числа сподвижников Посланника Аллаха ﷺ почувствовали неловкость и воздержались от половых отношений с захваченными в плен женщинами, поскольку у тех были мужья-многобожники. Об этом Всевышний Аллах ниспослал: «И целомудренные (замужние) женщины (запретны для вас), за исключением тех, которыми овладели ваши десницы» (сура 4 «ан-Ниса‘», аят 24). То есть они становятся дозволенными для вас по истечении установленного для них срока /‘идда
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1456)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2155</td></tr><tr><td>Arabic No</td><td>2155</td></tr><tr><td>Reference</td><td>Book 12 Hadith 110</td></tr></tbody></table></div>
 

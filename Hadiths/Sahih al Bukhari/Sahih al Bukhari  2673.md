@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:The Prophet (ﷺ) said, "Whoever takes a (false) oath in ord
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami ['Abdul Wahid] dari [Al A'masy] dari [Abu Wa'il] dari [Ibnu Mas'ud radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang bersumpah (yang dengan sumpahnya itu) dia bermaksud mengambil harta (orang), maka dia berjumpa Allah dan Allah murka kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2673</td></tr><tr><td>Arabic No</td><td>2673</td></tr><tr><td>Reference</td><td>Book 52 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн Мас‘уд, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Кто принёс клятву (Аллахом), чтобы таким образом присвоить имущество, тот встретит Аллаха разгневанным на него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2673</td></tr><tr><td>Arabic No</td><td>2673</td></tr><tr><td>Reference</td><td>Book 52 Hadith 35</td></tr></tbody></table></div>
 

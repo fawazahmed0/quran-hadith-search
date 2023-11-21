@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nubaih b. Wahb reported:Umar b. Ubaidullah b. Ma'mar sent me to Aban b. Uthman a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abi Bakar Al Muqaddami] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] telah menceritakan kepadaku [Nubaih bin Wahb] dia berkata; Umar bin Ubaidillah bin Ma'mar pernah mengutusku, saat itu dia sedang meminang putri Syaibah bin Utsman untuk anaknya, lantas dia mengirimku untuk menemui [Aban bin Utsman] yang sedang berihram pada musim itu, lalu dia berkata; Saya tidak menganggapnya seorang badui, sesungguhnya orang yang berihram dilarang untuk menikahkan dan dinikahkan. Telah mengabarkan kepada kami [Utsman] seperti itu dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3447</td></tr><tr><td>Arabic No</td><td>1409.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3447</td></tr><tr><td>Arabic No</td><td>1409.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 50</td></tr></tbody></table></div>
 

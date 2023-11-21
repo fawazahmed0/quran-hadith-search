@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: Anyone amongst you who s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Muhammad bin Salamah Al Muradi] telah menceritakan kepada kami [Abdullah bin Wahb] dari [Yunus] dari [Ibnu Syihab] dari [Ibnu Hurmuz] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Salah seorang diantara kalian dihitung dalam shalatnya selama duduk menunggu shalat, dan tidak berhadats, malaikat juga akan mendoakannya; "Ya Allah, ampunilah dia, ya Allah, rahmatilah dia." Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hamam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1511</td></tr><tr><td>Arabic No</td><td>649.11</td></tr><tr><td>Reference</td><td>Book 5 Hadith 344</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Каждый из вас будет находится на молитве, пока будет сидеть, ожидая (следующую) молитву, до тех пор, пока он не осквернится. И ангелы будут возносить за него мольбы, (говоря): “О Аллах, прости его, о Аллах, окажи ему милость!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1511</td></tr><tr><td>Arabic No</td><td>649.11</td></tr><tr><td>Reference</td><td>Book 5 Hadith 344</td></tr></tbody></table></div>
 

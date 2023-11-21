@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), Aux moments d'affliction, l'E
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan ['Ubaidullah bin Sa'id] -dan lafadh ini milik Ibnu Sa'id- mereka berkata; telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [Bapakku] dari [Qatadah] dari [Abul 'Aliyah] dari [Ibnu 'Abbas] bahwasanya Nabi shallallahu 'alaihi wasallam pernah berdoa ketika dalam kesulitan yaitu: "LAA-ILAAHA ILLALLOOHUL 'AZHIIMUL HALIIM, LAA-ILAAHA ILLALLOOH ROBBUL'ARSYIL 'AZHIIM, LAA-ILAAHA ILLALLAH ROBBUSSAMAAWAATI WAROBBUL ARDHI WAROBBUL'ARSYIL KARIIMI "Tiada sesembahan yang hak selain Allah Yang Maha Agung dan Maha Penyantun. Tiada Tuhan selain Allah, Tuhan Penguasa arsy yang agung. Tiada sesembahan yang hak selain Allah, Tuhan langit dan bumi serta Tuhan arasy yang mulia." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Hisyam] dengan sanad ini. Dan hadits Mu'adz bin Hisyam lebih sempurna. Dan telah menceritakan kepada kami ['Abd bin Humaid] telah mengabarkan kepada kami [Muhammad bin Bisyr Al 'Abdi] telah menceritakan kepada kami [Sa'id bin Abu 'Arubah] dari [Qatadah] bahwasanya [Abul 'Aliyah Ar Riyahi] bercerita kepada mereka dari [Ibnu 'Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam berdo'a dengan do'a tersebut ketika dalam kesulitan, -lalu dia menyebutkan redaksi yang sama dengan Hadits Mu'adz bin Hisyam dari Bapaknya dari Qatadah- namun dengan kalimat; 'Rabbus samawati wal Ardli' Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Hammad bin Salamah] telah mengabarkan kepadaku [Yusuf bin 'Abdullah bin Al Harits] dari [Abul 'Aliyah] dari [Ibnu 'Abbas] bahwasanya Nabi shallallahu 'alaihi wasallam Apabila menghadapi suatu masalah beliau mengucapkan; -lalu disebutkan redaksi yang serupa dengan Hadits Mu'adz dari Bapaknya, dengan tambahan; 'Laailaaha Illallah Rabbul Arsyil Karim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6921</td></tr><tr><td>Arabic No</td><td>2730.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6921</td></tr><tr><td>Arabic No</td><td>2730.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 113</td></tr></tbody></table></div>
 

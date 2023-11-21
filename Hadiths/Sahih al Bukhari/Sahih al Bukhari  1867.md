@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Medina is a sanctuary from that place to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Tsabit bin Tazid] telah menceritakan kepada kami ['Ashim Abu 'Abdurrahman Al Ahwal] dari [Anas radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Madinah adalah tanah suci dari ini dan ini. Yaitu tidak boleh ditebang pepohonannya dan tidak boleh berbuat kemungkaran didalamnya. Barangsiapa yang berbuat kemungkaran (bid'ah) yang dilarang agama didalamnya maka orang itu akan mendapat laknat dari Allah, para malaikat dan seluruh manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1867</td></tr><tr><td>Arabic No</td><td>1867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «Медина является священной территорией от такого-то (места) до такого-то, (где) нельзя вырубать деревья и совершать грехи, а тот, кто совершит в ней какой-нибудь грех, будет проклят и Аллахом, и ангелами, и всеми людьми»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1867</td></tr><tr><td>Arabic No</td><td>1867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 1</td></tr></tbody></table></div>
 

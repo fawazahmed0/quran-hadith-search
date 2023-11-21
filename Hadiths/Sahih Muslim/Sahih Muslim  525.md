@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported:Verily the Messenger of Allah (ﷺ) said: Seventy thous
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdushshamad bin Abdul Warits] telah menceritakan kepada kami [Hajib bin Umar Abu Husyainah ats-Tsaqafi] telah menceritakan kepada kami [al-Hakam bin al-'A'raj] dari [Imran bin Hushain] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan masuk surga dari golongan umatku sebanyak tujuh puluh ribu orang tanpa hisab." Mereka bertanya, 'Siapakah mereka wahai Rasulullah? ' Beliau menjawab, "Meraka dalah orang yang tidak melakukan ruqyah, tidak bertathayyur, dan tidak melakukan pengobatan kay, dan mereka bertawakkal kepada Rabb mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>525</td></tr><tr><td>Arabic No</td><td>218.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 431</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Имрана ибн Хусайна, что Посланник Аллаха ﷺ сказал: «Семьдесят тысяч человек из числа членов моей общины войдут в Рай без расчёта». Люди спросили: «Кто они, о Посланник Аллаха?» Он ответил: «Это те, которые не просят других заговаривать их, не верят в дурные предзнаменования, судя за полёту птиц, не делают себе прижиганий и уповают на своего Господа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>525</td></tr><tr><td>Arabic No</td><td>218.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 431</td></tr></tbody></table></div>
 

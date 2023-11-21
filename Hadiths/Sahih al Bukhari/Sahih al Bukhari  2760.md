@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A man said to the Prophet, "My mother died suddenly, and I think
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il] berkata telah bercerita kepadaku [Malik] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa ada seorang laki-laki yang berkata kepada Nabi shallallahu 'alaihi wasallam: "Sesungguhnya ibuku telah meninggal dunia secara mendadak dan aku menduga seandainya dia sempat berbicara dia akan bershadaqah. Apakah aku boleh bershadaqah atas namanya?" Beliau menjawab: "Ya bershodaqolah atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2760</td></tr><tr><td>Arabic No</td><td>2760</td></tr><tr><td>Reference</td><td>Book 55 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) один человек сказал Пророку ﷺ: «Моя мать внезапно умерла, но я думаю, что если бы она могла говорить, то раздавала бы милостыню. Раздать ли мне милостыню от её имени?» Он сказал: «Да, раздай от её имени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2760</td></tr><tr><td>Arabic No</td><td>2760</td></tr><tr><td>Reference</td><td>Book 55 Hadith 23</td></tr></tbody></table></div>
 

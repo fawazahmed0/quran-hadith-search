@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:A man asked the Messenger of Allah (ﷺ): Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abdul Wahid bin Ziyad], telah menceritakan kepada kami ['Umarah bin Al Qa'qa'] dari [Abu Zur'ah bin 'Amr bin Jarir], dari [Abu Hurairah], ia berkata; seseorang berkata kepada Nabi shallallahu 'alaihi wasallam; wahai Rasulullah, sedekah apakah yang paling utama? Beliau berkata: "Engkau bersedekah dalam keadaan sehat, bersemangat dan mengharapkan tetap hidup, serta khawatir mengalami kekurangan, dan engkau tidak menunda hingga setelah nyawa telah sampai di tenggorokan engkau mengatakan; untuk Fulan sekian dan untuk Fulan sekian. Dan sungguh harta tersebut telah menjadi milik Fulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1419) Sahih Muslim (1032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2865</td></tr><tr><td>Arabic No</td><td>2865</td></tr><tr><td>Reference</td><td>Book 18 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что один человек пришёл к Пророку ﷺ и спросил: «О Посланник Аллаха, за какую милостыню обещана наибольшая награда?» Он ответил: «За ту, которую ты подаёшь, будучи здоровым и скупым, опасаясь бедности и надеясь разбогатеть. И не откладывай до тех пор, пока (не окажешься при смерти и) душа твоя не дойдёт до ключиц, чтобы тогда наконец сказать: “Такому-то столько, а такому-то столько”, когда это уже будет принадлежать такому-то»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1419) Sahih Muslim (1032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2865</td></tr><tr><td>Arabic No</td><td>2865</td></tr><tr><td>Reference</td><td>Book 18 Hadith 4</td></tr></tbody></table></div>
 

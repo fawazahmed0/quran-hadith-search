@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Ishaq reported:I heard al-Bara' as saying that a man recited al-Kahf when an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ibnu Basysyar] -sedangkan lafazh dari Ibnul Mutsanna- keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] ia berkata, saya mendengar [Al Baraa'] berkata; Seorang laki-laki membaca surat Al Kahfi, sementara di dalam rumahnya terdapat seekor Kuda. Tiba-tiba kuda itu lari, maka ia pun melihat dan ternyata ada awan yang menaunginya. Maka laki-laki itu pun menuturkan kejadikan itu kepada Nabi shallallahu 'alaihi wasallam. Beliau bersabda: "Itu adalah As Sakinah (ketenangan) yang turun saat (membaca Al Qur'an) atau untuk (pembaca) Al Qur'an." Dan telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dan [Abu Dawud] keduanya berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] ia berkata, saya mendengar [Al Baraa'] berkata. Maka ia pun menyebutkan hadits semisalnya. Hanya saja keduanya mengatakan; "(Kuda itu) meloncat lari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1857</td></tr><tr><td>Arabic No</td><td>795.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 285</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Бара сказал: «(Как-то раз) один человек стал читать суру “аль-Кяхф”. В это время во дворе (его дома) находилась лошадь, которая стала прыгать, испугавшись (чего-то), посмотрев, он увидел нечто вроде тумана или облака, которое окутало его. (После этого он) обо всём рассказал Пророку ﷺ, который сказал: “Читай, о такой-то, ибо это было спокойствие /сакина/, которое снизошло свыше благодаря (чтению) Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1857</td></tr><tr><td>Arabic No</td><td>795.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 285</td></tr></tbody></table></div>
 

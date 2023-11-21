@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Don't keep camels and sheep unmilk
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Bukair] telah menceritakan kepada kami [Al Laits] dari [Ja'far bin Rabi'ah] dari [Al A'raj] berkata, [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam: "Janganlah kalian menahan susu unta dan kambing. Maka siapa yang telanjur telah membelinya maka dia punya hak pilih apakah akan tetap diambilnya atau dikembalikannya dengan menambah satu sha' kurma". Dan disebutkan dari [Abu Shalih] dan [Mujahid] dan [Al Walid bin Rabah] dan [Musa bin Yasar] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam: Satu sha' kurma". Dan [sebagian] mereka berkata, dari [Ibnu Sirin]: Satu sha' makanan dan dia punya hak pilih selama tiga hari". Dan [sebagain] yang lain berkata, dari [Ibnu Sirin]: "Satu sha' kurma" dan tidak menyebut tiga hari dan riwayat yang menyebut kurma saja lebih banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2148</td></tr><tr><td>Arabic No</td><td>2148</td></tr><tr><td>Reference</td><td>Book 34 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не оставляйте не доенными верблюдиц и овец. А кто купил такое животное, тому предоставляется выбор после того, как он подоит его. Если хочет оставить, он оставляет его себе, а если нет, он может вернуть его, добавив к нему один са‘ фиников». Некоторые передают от Ибн Сирина (что Пророк ﷺ сказал): «Один са‘ пшеницы, и у него есть выбор в течение трёх дней». А некоторые рассказывали от Ибн Сирина: «Са‘ фиников», не упоминая три дня, но большинство упомянуло финики
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2148</td></tr><tr><td>Arabic No</td><td>2148</td></tr><tr><td>Reference</td><td>Book 34 Hadith 100</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by Qatadah through a dif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Minhal Adl Dlarir] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Ibnu Abu 'Arubah] dari [Qatadah] dari [Sa'id bin Abu Burdah] dari [Ayahnya] dari kakeknya [Abu Musa Al Asy'ari] bahwa ada dua orang laki-laki mengklaim seekor unta atau seekor hewan kepada Nabi shallallahu 'alaihi wasallam, sementara keduanya tidak memiliki bukti. Nabi shallallahu 'alaihi wasallam lalu membagi unta tersebut untuk keduanya." Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Abdurrahim bin Sulaiman] dari [Sa'id] dengan sanad dan maknanya." Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Hammam] dari [Qatadah] dengan makna sanadnya, bahwa dua orang yang mengklaim seekor unta pada zaman Nabi shallallahu 'alaihi wasallam, lalu keduanya mengirimkan dua orang saksi, Nabi shallallahu 'alaihi wasallam kemudian membagi unta tersebut untuk mereka berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3615</td></tr><tr><td>Arabic No</td><td>3615</td></tr><tr><td>Reference</td><td>Book 25 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Катада передаёт со своим иснадом, что во времена Пророка, мда благословит его Аллах и да приветствует, два человека заявили свои права на одного и того же верблюда и каждый из них послал двух свидетелей. Тогда Пророк ﷺ постановил, что каждому из них принадлежит половина верблюда
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3615</td></tr><tr><td>Arabic No</td><td>3615</td></tr><tr><td>Reference</td><td>Book 25 Hadith 45</td></tr></tbody></table></div>
 

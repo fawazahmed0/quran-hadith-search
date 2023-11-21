@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ash-Shu'bi:Abu Juhaifa said, "I asked 'Ali, 'Have you got any book (whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan kepada kami [Waki'] dari [Sufyan] dari [Mutharrif] dari [Asy Sya'bi] dari [Abu Juhaifah] berkata, "Aku bertanya kepada ['Ali bin Abu Thalib], "Apakah kalian memiliki kitab?" ia menjawab, "Tidak, kecuali Kitabullah atau pemahaman yang diberikan kepada seorang Muslim, atau apa yang ada pada lembaran ini." Aku katakan, "Apa yang ada dalam lembaran ini?" Dia menjawab, "Tebusan, membebaskan tawanan, dan jangan sampai seorang Muslim dibunuh demi membela seorang kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>111</td></tr><tr><td>Arabic No</td><td>111</td></tr><tr><td>Reference</td><td>Book 3 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джухайфа сказал: «(Однажды) я спросил у ‘Али, да будет доволен им Аллах: “Есть ли у вас какая-нибудь книга?” Он ответил: “Нет у нас ничего, кроме Книги Аллаха, понимания, которым наделен мусульманин, и того, что написано на этом листочке”».\n(Абу Джухайфа) сказал: «Я спросил: “А что (написано) на этом листочке?” Он ответил: “(То, что следует выплачивать) виру за кровь, освобождать пленных и то, что не убивают мусульманина за (убийство) неверного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>111</td></tr><tr><td>Arabic No</td><td>111</td></tr><tr><td>Reference</td><td>Book 3 Hadith 53</td></tr></tbody></table></div>
 

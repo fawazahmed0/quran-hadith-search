@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that after the death of Allah's Messenger (ﷺ) Abu Bakr said to '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb]; Telah mengabarkan kepadaku ['Amru bin 'Ashim Al Kilabi]; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Anas] dia berkata; Tidak lama setelah Rasulullah shallallahu 'alaihi wasallam wafat, Abu Bakar berkata kepada Umar; 'Ikutlah dengan kami menuju ke rumah Ummu Aiman untuk mengunjunginya sebagaimana Rasulullah shallallahu 'alaihi wasallam selalu mengunjunginya. Dan ketika kami telah sampai di tempatnya, Ummu Aiman pun menangis. Lalu mereka berdua berkata kepadanya; Kenapa kau menangisi beliau, bukankah apa yang ada di sisi Allah itu lebih baik bagi RasulNya shallallahu 'alaihi wasallam? Ia menjawab: Bukanlah aku menangis karena aku tidak tahu bahwa apa yang ada di sisi Allah itu lebih baik bagi RasulNya, akan tetapi aku menangis karena dengan wafatnya beliau berarti wahyu dari langit telah terputus. Ummu Aiman pun membuat mereka berdua bersedih dan akhirnya mereka berduapun menangis bersamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6318</td></tr><tr><td>Arabic No</td><td>2454</td></tr><tr><td>Reference</td><td>Book 44 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6318</td></tr><tr><td>Arabic No</td><td>2454</td></tr><tr><td>Reference</td><td>Book 44 Hadith 148</td></tr></tbody></table></div>
 

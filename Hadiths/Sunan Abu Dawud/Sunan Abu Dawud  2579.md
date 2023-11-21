@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: If one enters a horse with two oth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Hushain bin Numair], telah menceritakan kepada kami [Sufyan bin Husain], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ali bin Muslim], telah menceritakan kepada kami ['Abbad bin Al 'Awwam], telah mengabarkan kepada kami [Sufyan bin Husain] secara makna, dari [Az Zuhri], dari [Sa'id bin Al Musayyab], dari [Abu Hurairah], dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang memasukkan kuda diantara dua kuda sementara tidak diyakini kuda tersebut akan menang, maka hal tersebut bukanlah judi, dan barangsiapa yang memasukkan kuda diantara dua kuda dan telah diyakini kuda tersebut akan menang maka hal tersebut adalah judi." Telah menceritakan kepada kami [Mahmud bin Khalid], telah menceritakan kepada kami [Al Walid bin Muslim], dari [Sa'id bin Basyir], dari [Az Zuhri], dengan sanad 'Abbad dan maknanya. Abu Daud berkata; hadits tersebut telah diriwayatkan oleh [Ma'mar] serta [Syu'aib], dan ['Uqail] dari [Az Zuhri], dari [beberapa ahli ilmu]. Dan ini lebih shahih menurut kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2579</td></tr><tr><td>Arabic No</td><td>2579</td></tr><tr><td>Reference</td><td>Book 15 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2579</td></tr><tr><td>Arabic No</td><td>2579</td></tr><tr><td>Reference</td><td>Book 15 Hadith 103</td></tr></tbody></table></div>
 

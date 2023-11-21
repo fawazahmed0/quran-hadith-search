@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever manumits his share of a jo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyir bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Sa'id bin Abi 'Urwah] dari [Qatadah] dari [An-Nadhar bin Anas] dari [Basyir bin Nahik] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang membebaskan hak kepemilikan budaknya, maka dia masih berkewajiban membebaskan budak tersebut secara penuh. Bila dia tidak memiliki harta, maka budak itu ditaksir harganya secara normal, lantas budak diusahakan untuk dibebaskan secara penuh dengan tanpa membebani dia saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2492</td></tr><tr><td>Arabic No</td><td>2492</td></tr><tr><td>Reference</td><td>Book 47 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Отпускающий на волю раба, которым он владеет совместно с кем-либо, должен выплатить (совладельцу) его часть (стоимости этого раба), а если у него нет денег, то раба следует оценить по справедливости и предоставить ему посильную работу(, чтобы он мог выплатить остаток)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2492</td></tr><tr><td>Arabic No</td><td>2492</td></tr><tr><td>Reference</td><td>Book 47 Hadith 10</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miqdam al-Kindi: The Prophet (ﷺ) said: I am nearer to every believ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] di antara para syekh yang lain, mereka berkata; telah menceritakan kepada kami [Hammad], dari [Budail bin Maisarah], dari [Ali bin Abu Thalhah], dari [Rasyid bin Sa'd] dari [Abu Amir Al Hauzani], dari [Al Miqdam Al Kindi], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku adalah orang yang paling berhak (menanggung) terhadap seorang mukmin daripada dirinya. Barangsiapa yang meninggalkan hutang atau keluarga maka menjadi tanggunganku, dan barangsiapa yang meninggalkan harta maka untuk para pewarisnya, aku adalah pewaris orang yang tidak memiliki pewaris, aku warisi hartanya dan aku bebaskan tanggungannya." Abu Daud berkata; hadits tersebut diriwayatkan oleh [Az Zubaidi], dari [Rasyid bin Sa'd], dari [Ibnu 'Aidz] dari [Al Miqdam], dan telah diriwayatkan oleh [Mu'awiyah bin Shalih] dari [Rasyid], ia berkata; saya mendengar [Al Miqdam], ia berkata; Abu Daud berkata; dha'ah adalah keluarga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 19 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Микдама аль-Кинди, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Я ближе к любому верующему, чем он сам. Если кто-то оставил долг или детей, о которых некому заботиться, то с этим следует обращаться ко мне, а если кто-то оставил имущество, то оно должно достаться его наследникам. Я покровитель того, у кого нет покровителя: я наследую ему и плачу за него компенсацию, и дядя по матери покровитель того, у кого нет покровителя: он наследует ему и платит за него компенсацию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 19 Hadith 16</td></tr></tbody></table></div>
 

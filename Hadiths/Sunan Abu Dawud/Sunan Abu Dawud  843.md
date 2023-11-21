@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qilabah said:Abu Sulaiman Malik b. al-Huwairth came to our mosque, and said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ziyad bin Ayyub] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Abu Qilabah] dia berkata; [Abu Sulaiman Malik bin Al Huwairits] datang ke masjid kami seraya berkata; "Sesungguhnya aku akan shalat, dan sebenarnya aku tidak bermaksud untuk shalat (bersama kalian), akan tetapi aku hendak memperlihatkan kepada kalian bagaimana Rasulullah shallallahu 'alaihi wasallam shalat." Abu Qilabah berkata; "Maka (Malik) duduk sejenak di raka'at pertama setelah mengangkat kepala dari sujud kedua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>843</td></tr><tr><td>Reference</td><td>Book 2 Hadith 453</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Кыляба: «К нам в нашу мечеть пришёл Малик ибн аль-Хувайрис, да будет доволен им Аллах, и сказал: “Клянусь Аллахом, иногда я совершаю молитву не потому, что хочу совершать её, а для того, чтобы показать вам, как на моих глазах совершал молитву Посланник Аллаха ﷺ”. Он сказал: “Он сидел некоторое время после того, как поднимал голову после последнего поясного поклона в первом рак‘ате”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>843</td></tr><tr><td>Reference</td><td>Book 2 Hadith 453</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Suwaid bin An-Nu'man:That he went out in the company o; the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada kami ['Abdul Wahhab] berkata aku mendengar [Yahya] berkata telah bercerita kepadaku [Busyair binYasar] bahwa [Suwaid bin An Nu'man radliallahu 'anhu] mengabarkan kepadanya bahwa dia pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam pada tahun perang Khaibar hingga ketika mereka sampai di daerah Ash-Shohba', yaitu sebuah tempat dekat dengan Khaibar yang merupakah dataran rendah, mereka mendirikan shalat 'Ashar lalu Nabi shallallahu 'alaihi wasallam meminta makanan namun tidak ada yang dapat diberikan kepada Nabi shallallahu 'alaihi wasallam kecuali makanan yang terbuat dari adonan gandum. Lalu makanan itu kami edarkan ke mulut-mulut kami (untuk dimakan) sehingga kami makan dan minum (hingga kenyang). Kemudian Nabi shallallahu 'alaihi wasallam bangkit lalu berkumur-kumur. Maka kamipun berkumur lalu kami mendirikan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2981</td></tr><tr><td>Arabic No</td><td>2981</td></tr><tr><td>Reference</td><td>Book 56 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сувайд ибн ан-Ну‘ман, да будет доволен им Аллах, передал, что в год Хайбара он вместе с Пророком ﷺ выступил (из Медины). Достигнув Сахбы, расположенной поблизости от Хайбара, они совершили послеполуденную /‘аср/ молитву. Затем Пророк ﷺ велел принести еду, однако подать могли только савик, который мы увлажнили. Затем мы поели и попили, после чего Пророк ﷺ поднялся с места и прополоскал рот, что сделали и все остальные, а потом он приступил к молитве
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2981</td></tr><tr><td>Arabic No</td><td>2981</td></tr><tr><td>Reference</td><td>Book 56 Hadith 190</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) fixed Dhul-Hulaifa as the Miqat (the place
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ibnu Thowus] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi shallallahu 'alaihi wasallam telah menetapkan miqat bagi penduduk Madinah di Dzul Hulaifah, bagi penduduk Najed di Qarnul Manazil dan bagi penduduk Yaman di Yalamlam. Dan begitu pulalah ketentuan bagi setiap orang yang datang melewati tempat-tempat tersebut selain penduduk negeri-negeri tersebut yang berniat untuk haji dan 'umrah. Bagi orang-orang selain itu (yang tinggal lebih dekat ke Makkah dari pada tempat-tempat itu), maka dia memulai dari tempat yang dijadikannya tinggal sehingga bagi penduduk Makkah mereka memulainya dari (rumah mereka) di Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1845</td></tr><tr><td>Arabic No</td><td>1845</td></tr><tr><td>Reference</td><td>Book 28 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что в качестве миката (место вхождения в ихрам) для жителей Медины, Пророк ﷺ определил Зуль-Хулейфу, для жителей Неджда — Карн аль-Маназиль, а для жителей Йемена — Йалямлям. (Вышеупомянутые микаты) предназначены для тех, кто живёт непосредственно в этих местах, и для (людей) из других мест, проезжающих через (эти места) с целью совершения хаджа или умры. Для живущих ближе (к Мекке микатом должно служить) то место, где они находятся, а жителям Мекки (ихрам следует надевать) в самой Мекке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1845</td></tr><tr><td>Arabic No</td><td>1845</td></tr><tr><td>Reference</td><td>Book 28 Hadith 25</td></tr></tbody></table></div>
 

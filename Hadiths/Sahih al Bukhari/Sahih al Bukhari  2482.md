@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "There was an Israeli man cal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Jarir bin HAzim] dari [Muhammad bin Sirin] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada seorang laki-laki Bani Isra'il, yang dipanggil dengan nama Juraij, sedang melaksanakan shalat lalu ibunya datang memanggilnya, namun laki-laki itu enggan menjawabnya. Dia berkata: "Apakah aku penuhi panggilannya atau aku teruskan shalat?". Akhirnya ibunya itu mendekatinya seraya berkata: "Ya Allah, janganlah Engkau matikan dia kecuali setelah dia memperoleh ujian". Suatu hari Juraij sedang berada di biaranya lalu ada seorang wanita berkata,: "Aku akan goda si Juraij". Lalu wanita ini menawarkan dirinya tapi Juraij menolakmya. Kemudian wanita ini mendatangi seorang pengembala lalu wanita ini tinggal bersamanya hingga melahirkan seorang bayi. Lalu wanita itu berkata: "Ini anaknya Juraij". Maka orang-orang mendatangi Juraij dan menghancurkan biaranya dan memaksanya keluar lalu memaki-makinya. Juraij berwudhu' lalu shalat. Kemudian dia mendatangi bayi lalu bertanya: "Siapakah bapakmu wahai anak?". Bayi itu menjawab: "Seorang pengembala". Orang-orang berkata: "Kami akan bangun biaramu terbuat dari emas". Juraij berkata: "Tidak, dari tanah saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2482</td></tr><tr><td>Arabic No</td><td>2482</td></tr><tr><td>Reference</td><td>Book 46 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Однажды, когда человек из сынов Исраиля по имени Джурайдж совершал молитву, к нему пришла его мать и позвала его, но он не ответил ей. Он сказал: “Ответить ей или продолжить молитву?” Затем она пришла к нему ещё раз и сказала: “О Аллах, не дай ему умереть, пока не покажешь ему лица блудниц!” Когда Джурайдж находился в своей келье, одна женщина сказала: “Я непременно соблазню Джурайджа”. Она предложила ему себя, но он отказался, тогда она пошла к пастуху и отдалась ему. Когда у неё родился ребёнок, она сказала: “Он от Джурайджа”. Люди пришли к нему и сломали его келью, они заставил его спуститься и стали бранить. Джурайдж совершил омовение, совершил молитву, затем подошёл к ребёнку и спросил: “О мальчик! Кто твой отец?” Он ответил: “Пастух”. Тогда люди сказали: “Мы построим тебе келью из золота”. Но Джурайдж сказал: “Нет, только из глины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2482</td></tr><tr><td>Arabic No</td><td>2482</td></tr><tr><td>Reference</td><td>Book 46 Hadith 43</td></tr></tbody></table></div>
 

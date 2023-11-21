@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:A poor woman came to me along with her daughters. I gave her thr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Bakr] yaitu Ibnu Mudhar dari [Ibnu Al Had] bahwa [Ziyad bin Abu Ziyad] -budak- dari Ibnu 'Ayyasy; Telah menceritakan kepadanya dari ['Irak bin Malik] Aku mendengarnya bercerita kepada 'Umar bin 'Abdul 'Aziz dari ['Aisyah] dia berkata; "Telah datang kepadaku seorang wanita miskin yang membawa dua anak perempuan, lalu saya memberinya makan dengan tiga buah kurma, wanita tersebut memberikan kurmanya satu persatu kepada kedua anaknya, kemudian wanita tersebut mengangkat satu kurma ke mulutnya untuk dia makan. Tapi, kedua anaknya meminta kurma tersebut, akhirnya dia pun memberikan (kurma) yang ingin ia makan kepada anaknya dengan membelahnya menjadi dua. Saya sangat kagum dengan kepribadiannya. Lalu saya menceritakan apa yang diperbuat oleh wanita tersebut kepada Rasulullah shallallahu 'alaihi wasallam. Maka beliau bersabda: "Sesungguhnya Allah telah mewajibkan kepadanya untuk masuk surga atau membebaskannya dari neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6694</td></tr><tr><td>Arabic No</td><td>2630</td></tr><tr><td>Reference</td><td>Book 45 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6694</td></tr><tr><td>Arabic No</td><td>2630</td></tr><tr><td>Reference</td><td>Book 45 Hadith 191</td></tr></tbody></table></div>
 

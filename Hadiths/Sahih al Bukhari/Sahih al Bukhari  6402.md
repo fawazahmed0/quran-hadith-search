@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "When the Imam says 'Amin', then yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan], [Az Zuhri] mengatakan; telah menceritakan kepada kami dari [Sa'id bin Musayyab] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Apabila imam mengucapkan amin, maka ucapkanlah amin, karena para Malaikat pun ikut mengaminkan, maka siapa yang bacaannya amin bertepatan dengan bacaannya Malaikat, akan diampuni dosa-dosanya yang telah lalu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6402</td></tr><tr><td>Arabic No</td><td>6402</td></tr><tr><td>Reference</td><td>Book 80 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Когда чтец произнесёт (слово) “Амин”, произнесите его и вы, ибо, поистине, ангелы тоже произносят “Амин”! И тому, кто произнесёт его одновременно с ангелами, будут прощены его прежние грехи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6402</td></tr><tr><td>Arabic No</td><td>6402</td></tr><tr><td>Reference</td><td>Book 80 Hadith 97</td></tr></tbody></table></div>
 

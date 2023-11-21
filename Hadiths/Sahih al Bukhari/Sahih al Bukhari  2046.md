@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:Aisha during her menses used to comb and oil the hair of the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam binYusuf] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari ['Urwah] dari ['Aisyah radliallahu 'anha] bahwa dia menyisir rambut Nabi shallallahu 'alaihi wasallam saat sedang haidh ketika Beliau sedang i'tikaf di masjid, ketika itu Beliau menjulurkan kepala Beliau kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2046</td></tr><tr><td>Arabic No</td><td>2046</td></tr><tr><td>Reference</td><td>Book 33 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, причёсывала волосы Пророка ﷺ в то время, когда у неё были месячные, а он совершал и‘тикяф в мечети. Она находилась в своей комнате, а он просовывал к ней свою голову
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2046</td></tr><tr><td>Arabic No</td><td>2046</td></tr><tr><td>Reference</td><td>Book 33 Hadith 21</td></tr></tbody></table></div>
 

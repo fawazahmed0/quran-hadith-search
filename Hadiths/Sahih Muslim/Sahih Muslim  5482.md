@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that when Allah's Apostle (ﷺ) decided to write to the Kisra (the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin 'Ali Al Jahdhami]; Telah menceritakan kepada kami [Nuh bin Qais] dari [Saudara laki-lakinya Khalid bin Qais] dari [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam ingin menulis surat kepada Raja Kisra, Qaishar, dan Najasyi. Lalu di katakan kepada beliau, bahwa mereka tidak mau menerima surat kecuali yang ada stempelnya. Maka kemudian Rasulullah shallallahu 'alaihi wasallam membuat cincin dari perak, tulisannya adalah 'Muhammad Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5482</td></tr><tr><td>Arabic No</td><td>2092.05</td></tr><tr><td>Reference</td><td>Book 37 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5482</td></tr><tr><td>Arabic No</td><td>2092.05</td></tr><tr><td>Reference</td><td>Book 37 Hadith 97</td></tr></tbody></table></div>
 

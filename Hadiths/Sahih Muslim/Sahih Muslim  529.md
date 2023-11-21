@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Mas'ud reported:The Messenger of Allah (ﷺ) addressing us said: Are
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin as-Sari] telah menceritakan kepada kami [Abu al-Ahwash] dari [Abu Ishaq] dari [Amru bin Maimun] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami: 'Tidakkah kamu suka menjadi seperempat ahli Surga'. Kata Abdullah, 'Kami pun bertakbir.' Beliau bersabda lagi: 'Tidakkah kamu suka seandainya menjadi sepertiga ahli Surga'. Kata Abdullah, 'Kami pun bertakbir'. Kemudian Beliau bersabda: "Sesungguhnya aku berharap semoga kalian menjadi separuh dari penduduk Surga. Aku akan memberitahu perkara itu kepada kalian tentang hal tersebut. Tidaklah keadaan orang-orang Islam yang berada di tengah-tengah orang Kafir melainkan seperti sehelai bulu putih pada lembu hitam atau seperti sehelai bulu hitam pada lembu putih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>529</td></tr><tr><td>Arabic No</td><td>221.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 435</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Однажды Посланник Аллаха ﷺ спросил нас: “Хотели бы вы составить четверть обитателей Рая?” Мы же произнесли слова такбира /Аллаху Акбар/.Затем он спросил: “А хотели бы вы составить собой треть обитателей Рая?” Мы же произнесли слова такбира /Аллаху Акбар/. Тогда он сказал: “Поистине, я надеюсь, что вы составите собой половину обитателей Рая, и я поведаю вам об этом: (количество) мусульман по сравнению с совершающими неверие подобно белому волосу на шкуре чёрного буйвола, или же чёрному волосу на шкуре белого буйвола”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>529</td></tr><tr><td>Arabic No</td><td>221.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 435</td></tr></tbody></table></div>
 

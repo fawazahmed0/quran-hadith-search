@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Huraira that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Suhail] dari [ayahnya] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kalian melalui padang rumput yang subur maka berilah haknya unta (merumput) dari rerumputan di bumi, dan bila kamu berjalan di musim kemarau maka percepatlah perjalananmu (agar cepat sampai tujuan). Dan bila kamu istirahat dalam perjalanan malam hari maka jauhilah jalan raya, karena jalan raya itu tempat lewat serangga-serangga waktu malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4959</td></tr><tr><td>Arabic No</td><td>1926.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 254</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4959</td></tr><tr><td>Arabic No</td><td>1926.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 254</td></tr></tbody></table></div>
 

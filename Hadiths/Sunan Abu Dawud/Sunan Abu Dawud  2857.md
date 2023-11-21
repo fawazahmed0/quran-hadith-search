@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: There was a bedouin called AbuTha'labah. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Minhal Adh Dharir], telah menceritakan kepada kami [Yazid? bin Zurai'], telah menceritakan kepada kami [Habib Al Mu'allim] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya], bahwa seorang badui yang dipanggil Abu Tsa'labah berkata; wahai Rasulullah, sesungguhnya aku memiliki anjing yang terlatih, maka berilah aku fatwa mengenai buruannya. Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Apabila engkau memiliki anjing yang terlatih maka makanlah apa yang mereka tangkap untukmu!" Ia berkata; disembelih ataupun tidak disembelih? Beliau berkata: "Ya." Ia berkata; "Walaupun anjing tersebut telah makan sebagian darinya?" beliau berkata: "Walaupun anjing tersebut telah makan sebagian darinya." Kemuidan ia berkata; wahai Rasulullah, berilah aku fatwa mengenai busurku! Beliau berkata: "Makanlah apa yang dibawa kembali oleh busurmu kepadamu!" Beliau berkata; "Disembelih maupun tidak disembelih." Ia berkata; walaupun tak terlihat dariku? Beliau berkata: "Walaupun tak terlihat darimu, selama tidak hilang atau engkau dapati padanya bekas selain anak panahmu." Ia berkata; berilah aku fatwa mengenai bejana orang-orang majusi apabila kami terpaksa menggunakannya? Beliau berkata: "Cucilah dan makanlah padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2857</td></tr><tr><td>Arabic No</td><td>2857</td></tr><tr><td>Reference</td><td>Book 17 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что один бедуин по имени Абу Са‘ляба сказал: «О Посланник Аллаха, поистине, у меня есть охотничьи собаки. Просвети же меня относительно добываемой ими дичи». Пророк ﷺ сказал: «Если у тебя есть охотничьи собаки, то ешь то, что они добудут для тебя». Он спросил: «Вне зависимости от того, имело место заклание или нет?» (Посланник Аллаха ﷺ) ответил: «Да». Он спросил: «Даже если собака начнёт есть эту дичь?» (Посланник Аллаха ﷺ) ответил: «Даже если она начнёт есть эту дичь». Он сказал: «О Посланник Аллаха, просвети меня относительно моего лука». (Посланник Аллаха ﷺ) сказал: «Ешь то, что приносит тебе твой лук». Он спросил: «Вне зависимости от того, имело место заклание или нет?» (Посланник Аллаха ﷺ) ответил: «Да». Он спросил: «А если дичь скроется от меня?» (Посланник Аллаха ﷺ) сказал: «Даже если дичь скрылась от тебя, если только она не приобрела скверный запах и в ней не будет ничего, кроме твоей стрелы». Он сказал: «Просвети меня относительно посуды огнепоклонников. Что если мы будем вынуждены воспользоваться ею?» (Посланник Аллаха ﷺ) сказал: «Мой её и ешь из неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2857</td></tr><tr><td>Arabic No</td><td>2857</td></tr><tr><td>Reference</td><td>Book 17 Hadith 14</td></tr></tbody></table></div>
 

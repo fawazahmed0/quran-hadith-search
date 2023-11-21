@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama reported:When Abu Salama died I said: I am a stranger in a strange la
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Numair] dan [Ishaq bin Ibrahim] semuanya dari [Ibnu Uyainah] - [Ibnu Numair] berkata- telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dari [bapaknya] dari [Ubaid bin Umair] ia berkata; [Ummu Salamah] berkata; Ketika Abu Salamah meninggal dunia, saya pun berkata, "Orang asing, meninggal pula di negeri asing. Akan kuratapi dia sepuas-puasnya sehingga menjadi buah bibir orang." Ketika aku bersiap-siap hendak meratapinya, tiba-tiba datang seorang perempuan dari dusun menawarkan diri hendak menolongku meratap. Lalu Rasulullah shallallahu 'alaihi wasallam mendatanginya seraya bersabda: "Apakah kamu hendak memasukkan syetan lagi ke dalam rumah ini, yang mana Allah telah mengeluarkannya dari sini?" beliau mengulanginya hingga dua kali. Maka mendengar sabda beliau itu, akhirnya aku menahan diri dan tidak jadi meratap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2134</td></tr><tr><td>Arabic No</td><td>922</td></tr><tr><td>Reference</td><td>Book 11 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма рассказывала: «Когда скончался (мой супруг) Абу Саляма, я сказала: “Чужеземец в чуждой земле! Я непременно буду оплакивать его так (сильно), что об этом (ещё долго) будут рассказывать”. Когда я приготовилась начать это делать, ко мне направилась женщина, пожелавшая помочь мне, (в этом оплакивании). Но тут её встретил Посланник Аллаха ﷺ и дважды сказал: “Неужели ты хочешь ввести шайтана в дом, из которого его вывел Аллах?!” (Услышав это), я оставила эту затею и перестала плакать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2134</td></tr><tr><td>Arabic No</td><td>922</td></tr><tr><td>Reference</td><td>Book 11 Hadith 12</td></tr></tbody></table></div>
 

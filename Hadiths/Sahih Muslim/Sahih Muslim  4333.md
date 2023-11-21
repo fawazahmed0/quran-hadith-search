@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:He who emancipates his port
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru An Naqid] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Abu 'Arubah] dari [Qatadah] dari [An Nadlr bin Anas] dari [Basyir bin Nahik] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa membebaskan bagian kepemilikanya pada seorang budak, maka dialah yang menanggung biaya pemerdekakan budak tersebut, jika dia memiliki harta, sekiranya dia tidak memiliki harta (untuk dibayarkan kepada hak kepemilikan partnernya), hendaknya budak tersebut diberi kelonggaran untuk menebus pembebasannya dengan tidak diperberat." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dan [Muhammad bin Bisyr]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ali bin Khasyram] keduanya berkata; telah mengabarkan kepada kami [Isa bin Yunus] semuanya dari [Ibnu Abu 'Arubah] dengan isnad ini. Dan dalam hadits Isa disebutkan, "Kemudian dia diberi kelonggaran untuk menebus pembebasannya dengan tidak diperberat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4333</td></tr><tr><td>Arabic No</td><td>1503.05</td></tr><tr><td>Reference</td><td>Book 27 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4333</td></tr><tr><td>Arabic No</td><td>1503.05</td></tr><tr><td>Reference</td><td>Book 27 Hadith 80</td></tr></tbody></table></div>
 

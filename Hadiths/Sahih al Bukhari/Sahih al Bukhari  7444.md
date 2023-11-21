@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Qais:The Prophet (ﷺ) said, "(There will be) two Paradis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Abdul Aziz bin Abd shamad] dari [Abu Imran] dari [Abu Bakar bin Abdullah bin Qais] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ada dua surga dari perak, baik bejananya maupun isinya, dan ada dua surga terbuat dari emas, baik bejananya maupun isinya, dan tidak ada yang menghalangi sebuah kaum untuk melihat Rabb mereka selain selendang kesombongan di wajahnya di surga Adn
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7444</td></tr><tr><td>Arabic No</td><td>7444</td></tr><tr><td>Reference</td><td>Book 97 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Кайс, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал:«Два сада, посуда и всё прочее в которых (сделано) из серебра, и два сада, посуда и всё прочее в которых (сделано) из золота, и ничто не помешает людям смотреть на их Господа, кроме накидки величия на Его Лике в садах Эдема»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7444</td></tr><tr><td>Arabic No</td><td>7444</td></tr><tr><td>Reference</td><td>Book 97 Hadith 70</td></tr></tbody></table></div>
 

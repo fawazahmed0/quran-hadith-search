@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd b. Abi Waqqas (Allah be pleased with him) reported:The Messengger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Al Mubarak] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al Ala'] -lafazh darinya- telah mengabarkan kepada kami [Ibnul Mubarak] dari [Ma'mar] dari [Az Zuhri] dri [Sa'id bin Al Musayyab] dari [Sa'd bin Abu Waqash] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah melarang Utsman bin Mazh'un untuk membujang selamanya, karena semata-mata hendak melakukan ibadah kepada Allah. Andaikan beliau mengizinkannya, tentulah kami sudah mengebiri diri kami sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3404</td></tr><tr><td>Arabic No</td><td>1402.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3404</td></tr><tr><td>Arabic No</td><td>1402.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 7</td></tr></tbody></table></div>
 

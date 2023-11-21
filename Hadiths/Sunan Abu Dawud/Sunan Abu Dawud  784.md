@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said:The Messenger of Allah (ﷺ) said: A surah has just been reve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sarri] telah menceritakan kepada kami [Ibnu Fudlail] dari [Al Mukhtar bin Fulful] dia berkata; saya mendengar [Anas bin Malik] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tadi telah di turunkan suatu surat kepadaku." Lalu beliau membaca: "BISMILLAHIRRAHMAANIRRAHIM, INNAA A'THAINAAKAL KAUTSAR …" hingga akhir ayat. Beliau bersabda: "Apakah kalian tahu Al Kautsar?" para sahabat menjawab; "Allah dan rasul-Nya yang lebih mengetahui." Beliau bersabda: "Ia adalah sungai di dalam surga yang telah di janjikan oleh Rabbku kepadaku kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (400)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>784</td></tr><tr><td>Arabic No</td><td>784</td></tr><tr><td>Reference</td><td>Book 2 Hadith 394</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мухтар ибн Фульфуль сказал: Я слышал, как Анас ибн Малик (да будет доволен им Аллах) говорил: Посланник Аллаха ﷺ сказал: «Только что мне была ниспослана сура», после чего он прочитал: «С именем Аллаха Милостивого, Милосердного. Истинно, Мы даровали тебе аль-Каусар», пока не закончил её. (Затем) он спросил: «А знаете ли вы, что такое аль-Каусар?» Они ответили: «Аллах и Его посланник знают об этом лучше». (Тогда Пророк ﷺ) сказал: «Поистине, это река в Раю, которую мне обещал мой Господь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (400)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>784</td></tr><tr><td>Arabic No</td><td>784</td></tr><tr><td>Reference</td><td>Book 2 Hadith 394</td></tr></tbody></table></div>
 

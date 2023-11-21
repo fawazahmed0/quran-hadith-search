@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:We were (in the funeral procession) of one of the daught
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Abu 'Amir] telah menceritakan kepada kami [Fulaih bin Sulaiman] dari [Hilal bin 'Ali] dari [Anas bin Malik radliallahu 'anhu] berkata,: "Kami menyaksikan pemakaman puteri Nabi Shallallahu'alaihiwasallam." Dia (Anas bin Malik radliallahu 'anhu) berkata,: "Dan saat itu Rasulullah Shallallahu'alaihiwasallam duduk disisi liang lahad. Dia (Anas bin Malik radliallahu 'anhu) berkata,: Lalu aku melihat kedua mata Beliau mengucurkan air mata". Dia (Anas bin Malik radliallahu 'anhu) berkata,: Maka Beliau bertanya: "Siapakah diantara kalian yang malam tadi tidak berhubungan (dengan isterinya)?". Berkata Abu Tholhah: "Aku". Beliau berkata,: "Turunlah engkau ke lahad!". Dia (Anas bin Malik radliallahu 'anhu) berkata,: "Maka Beliaupun ikut turun kedalam kuburnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1285</td></tr><tr><td>Arabic No</td><td>1285</td></tr><tr><td>Reference</td><td>Book 23 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Когда мы присутствовали на похоронах дочери Посланника Аллаха ﷺ он сидел у края её могилы, и я видел, как из глаз его льются слёзы. (Потом) он спросил: “Есть ли среди вас такие, кто не приближался к женщине этой ночью?” Абу Тальха ответил: “Я”. (Пророк ﷺ) сказал: “Тогда спускайся”, и он спустился в её могилу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1285</td></tr><tr><td>Arabic No</td><td>1285</td></tr><tr><td>Reference</td><td>Book 23 Hadith 45</td></tr></tbody></table></div>
 

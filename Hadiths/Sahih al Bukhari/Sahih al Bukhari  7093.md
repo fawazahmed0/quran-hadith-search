@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I heard Allah's Messenger (ﷺ) while he was facing the East,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Nafi'] dari [Ibnu 'Umar] radliallahu 'anhuma, ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda yang ketika itu beliau menghadap timur: "Ketahuilah, bahawasanya fitnah muncul dari sini, yaitu tempat tanduk setan muncul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>7093</td></tr><tr><td>Reference</td><td>Book 92 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что он слышал, как Посланник Аллаха ﷺ повернувшись лицом к востоку, сказал: «Поистине, смута — вот здесь, откуда выходит рог шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>7093</td></tr><tr><td>Reference</td><td>Book 92 Hadith 44</td></tr></tbody></table></div>
 

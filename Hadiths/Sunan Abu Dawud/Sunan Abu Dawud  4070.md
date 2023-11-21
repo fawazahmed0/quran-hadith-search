@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rafi' ibn Khadij: We went out with the Messenger of Allah (ﷺ) on a jo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul 'Ala'] berkata, telah mengabarkan kepada kami [Abu Usamah] dari [Al Walid] -maksudnya Al Walid bin Katsir- dari [Muhammad bin Amru bin Atha] dari [Seorang laki-laki dari bani Haritsah] dari [Rafi' bin Khadij] ia berkata, "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, lalu Rasulullah shallallahu 'alaihi wasallam melihat unta-unta kami terdapat kain dari bulu yang berwarna merah. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "kenapa aku melihat warna merah rata pada kalian??." Lalu kami segera bangkit karena ucapan Rasulullah shallallahu 'alaihi wasallam tersebut hingga menyebabkan sebagian unta-unta kami lari. Kemudian kami mengambil dan melepas kain merah dari unta-unta tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4070</td></tr><tr><td>Arabic No</td><td>4070</td></tr><tr><td>Reference</td><td>Book 34 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Рафи‘а ибн Хадиджа, да будет доволен им Аллах: «Мы отправились в путь вместе с посланником Аллаха ﷺ и Посланник Аллаха ﷺ увидел на наших верблюдах покрывала с красными шерстяными нитями. Посланник Аллаха ﷺ спросил: “Я вижу, вас одолела эта краснота!” Тогда мы вскочили со своих мест так быстро, что некоторые из наших верблюдов даже испугались, и сняли с них эти покрывала»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4070</td></tr><tr><td>Arabic No</td><td>4070</td></tr><tr><td>Reference</td><td>Book 34 Hadith 51</td></tr></tbody></table></div>
 

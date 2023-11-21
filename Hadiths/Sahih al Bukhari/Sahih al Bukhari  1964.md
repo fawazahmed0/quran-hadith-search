@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) forbade Al-Wisal out of mercy to them. Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Muhammad] keduanya berkata, telah mengabarkan kepada kami ['Abdah] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha]; Rasulullah shallallahu 'alaihi wasallam melarang puasa wishal sebagai bentuk kasih sayang kepada mereka (para sahabat). Mereka berkata: "Bukankah anda sendiri melakukan puasa wishal?" Beliau bersabda: "Aku tidak sama dengan keadaan seorang kalian karena aku diberi makan dan minum oleh Rabbku". Abu 'Abdullah Al Bukhariy berkata: 'Utsman tidak menyebut kalimat; "Sebagai bentuk kasih sayang kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1964</td></tr><tr><td>Arabic No</td><td>1964</td></tr><tr><td>Reference</td><td>Book 30 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ запретил людям поститься непрерывно из милости к ним, но люди сказали: “Но ведь ты постишься без разговения”. Тогда он сказал: “Я не подобен вам. Поистине, мой Господь кормит и поит меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1964</td></tr><tr><td>Arabic No</td><td>1964</td></tr><tr><td>Reference</td><td>Book 30 Hadith 71</td></tr></tbody></table></div>
 

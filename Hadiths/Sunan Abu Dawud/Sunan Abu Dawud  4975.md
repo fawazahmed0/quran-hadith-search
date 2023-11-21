@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: None of you must say: "My slave" (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Ayyub] dan [Habib bin Asy Syahid] dan [Hisyam] dari [Muhammad] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan sekali-kali kalian memanggil Abdi (budak laki-lakiku) dan amati (budak wanitaku). Dan jangan sekali-kali hamba sahaya memanggil Rabbi (pemeliharaku yang laki-laki) atau Rabbati (pemeliharaku yang wanita). Hendaklah seorang tuan memanggilnya dengan fataya (pelayan laki-lakiku) atau fatati (pelayan perempuanku), dan budak memanggil dengan sayyidi (tuan laki-lakiku) dan sayyidati (tuan wanitaku). Sebab kalian semua adalah Mamluk (budak) dan yang menjadi Rabb (pemelihara) adalah Allah semata." Telah menceritakan kepada kami [Ibnu As Sarh] berkata, telah mengabarkan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Amru bin Al Harits] bahwa [Abu Yunus] menceritakan kepadanya dari [Abu Hurairah] tentang hadits ini. Hanya saja ia tidak menyebutkan bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Hendaklah ia mengatakan Sayyidi (tuanku) dan Maulaya (junjunganku)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4975</td></tr><tr><td>Arabic No</td><td>4975</td></tr><tr><td>Reference</td><td>Book 43 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4975</td></tr><tr><td>Arabic No</td><td>4975</td></tr><tr><td>Reference</td><td>Book 43 Hadith 203</td></tr></tbody></table></div>
 

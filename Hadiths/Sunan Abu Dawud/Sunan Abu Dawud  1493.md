@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: The Messenger of Allah (ﷺ) heard a man saying:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] telah menceritakan kepada Kami [Yahya] dari [Malik bin Mighwal] telah menceritakan kepada Kami [Abdullah bin Buraidah] dari [ayahnya] bahwa Rasulullah shallAllahu wa'alaihi wa sallam mendengar seorang laki-laki mengucapkan; ALLAAHUMMA INNII AS-ALUKA ANNII ASYHADU ANNAKA ANTALLAAHU LAA ILAAHA ILLAA ANTA Al AHAD, ASH SHAMAD ALLADZII LAM YALID WA LAM YUULAD WA LAM YAKUN LAHU KUFUWAN AHAD (ya Allah sesungguhnya aku meminta kepada-Mu dengan bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Engkau Dzat Yang Maha Esa dan tempat bergantung Yang tidak beranak dan tidak diperanakkan dan tidak ada seorang pun yang menandingi-Nya). Kemudian beliau berkata: "Sunngguh engkau telah meminta kepada Allah dengan perantara nama yang apabila Dia diminta dengannya pasti Dia akan mengabulkan." Telah menceritakan kepada Kami [Abdurrahman bin Khalid Ar Raqqi], telah menceritakan kepada Kami [Zaid bin Hubbab], telah menceritakan kepada Kami kepada Kami [Malik bin Mighwal] dengan hadits ini dan padanya beliau bersabda: "Sungguh engkau telah meminta kepada Allah dengan namaNya yang agung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1493</td></tr><tr><td>Arabic No</td><td>1493</td></tr><tr><td>Reference</td><td>Book 8 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Бурайды, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ увидел человека, который говорил: «О Аллах, поистине, я прошу Тебя, свидетельствуя, что нет божества, кроме Тебя, Единственного, Самодостаточного, Который не рождал и не был рождён и не был равным Которому ни один». (Посланник Аллаха ﷺ) сказал: «Ты просил Аллаха посредством такого Его имени, что, если Его просят его посредством, Он дарует просящему то, о чём тот просит, и, если к Нему взывают посредством этого имени, Он непременно отвечает взывающему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1493</td></tr><tr><td>Arabic No</td><td>1493</td></tr><tr><td>Reference</td><td>Book 8 Hadith 78</td></tr></tbody></table></div>
 

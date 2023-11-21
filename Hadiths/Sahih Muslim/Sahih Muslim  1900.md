@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted thus by 'Umar b. Khattab (with a slight change 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1900</td></tr><tr><td>Arabic No</td><td>818.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 328</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Умар ибн аль-Хаттаб сказал: «(Как-то раз) при жизни Посланника Аллаха ﷺ я услышал, как Хишам ибн Хаким читал суру “аль-Фуркан”. Я был готов наброситься на него (за это) во время молитвы, однако сдержался (и подождал,) пока он не произнёс слова приветствия (в конце молитвы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1900</td></tr><tr><td>Arabic No</td><td>818.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 328</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Safwan b. Ya'la:On this father's authority, said: A servant of mine fou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij] ia berkata; telah mengabarkan kepadaku [Atha] dari [Shafwan bin Ya'la] dari [Bapaknya] ia berkata, "Seorang pekerjaku menyerang seorang laki-laki, lalu ia mengigit tangannya. Laki-laki itu menarik tangannya hingga giginya tanggal. Lalu ia mendatangi Nabi shallallahu 'alaihi wasallam, namun beliau tidak menggubrisnya. Beliau bersabda: "Apakah kamu ingin ia meletakkan tangannya pada mulutmu hingga kamu dapat mengigitnya seperti unta jantan!" Ia berkata, "Telah menceritakan kepadaku Ibnu Abu Mulaikah dari Kakeknya bahwa Abu Bakar radliallahu 'anhu tidak menggubrisnya dan berkata, "Semoga giginya tanggal." Telah menceritakan kepada kami [Ziyad bin Ayyub] berkata, telah mengabarkan kepada kami [Husyaim] berkata, telah menceritakan kepada kami [Hajjaj] dan [Abdul Malik] dari [Atha] dari [Ya'la bin Umayyah] dengan sanad ini. Namun ia menambahkan, "Kemudian Nabi shallallahu 'alaihi wasallam bersabda kepada orang yang mengigit: "Jika kamu mau serahkanlah tanganmu kepadanya hingga ia dapat mengigitnya, lalu kamu tarik tanganmu dari mulutnya." Kemudian beliau menghapus diyat giginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6893) Sahih Muslim (1674)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4584</td></tr><tr><td>Arabic No</td><td>4584</td></tr><tr><td>Reference</td><td>Book 41 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сафван ибн Я‘ля передаёт от своего отца, да будет доволен им Аллах: «Мой наёмный работник подрался с одним человеком и укусил его за руку, а тот отдёрнул руку, вырвав ему при этом передний зуб. Он пошёл к Пророку ﷺ, но тот не назначил никакой компенсации, сказав: “Ты что же, хочешь, чтобы он положил руку тебе в рот и ты укусил её, как кусает верблюд?!”» А Ибн Абу Муляйка передаёт от своего деда, что Абу Бакр также оставил (выбитый в подобном случае) зуб без возмещения, сказав: «Да будет отдалён зуб твой!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6893) Sahih Muslim (1674)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4584</td></tr><tr><td>Arabic No</td><td>4584</td></tr><tr><td>Reference</td><td>Book 41 Hadith 91</td></tr></tbody></table></div>
 

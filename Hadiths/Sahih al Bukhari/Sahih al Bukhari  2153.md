@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Zaid bin Khalid:Allah's Messenger (ﷺ) was asked about
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya [Malik] dari [Ibnu Syihab] dari ['Ubaidullah] dari [Abu Hurairah] dan [Zaid bin Khalid] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam ditanya tentang seorang budak wanita bila berzina sedangkan dia belum menikah, maka Beliau bersabda: "Jika dia berzina maka dihukum cambuk kemudian bila berzina lagi maka dijual sekalipun seharga seuntai rambut". Ibnu Syihab berkata: "Aku tidak tahu apakah dia dijual setelah tiga kali atau empat kali berzina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2153</td></tr><tr><td>Arabic No</td><td>2153</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры и Зейда ибн Халида, да будет доволен Аллах ими обоими, что однажды Посланника Аллаха ﷺ спросили, как следует поступить с не состоявшей в браке рабыней, если она совершит прелюбодеяние. Он ответил: «Если она совершит прелюбодеяние, подвергните её бичеванию, если она опять совершит прелюбодеяние, подвергните её бичеванию, а потом, если она совершит прелюбодеяние, продайте её, пусть даже по цене верёвки». \nИбн Шихаб (один из передатчиков этого хадиса) сказал: «Я не знаю, когда следует продать такую рабыню, — после третьего или после четвёртого раза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2153</td></tr><tr><td>Arabic No</td><td>2153</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

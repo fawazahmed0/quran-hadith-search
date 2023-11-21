@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of 'Abd al-Rahman b. Samura who said:The M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Faruh] telah menceritakan kepada kami [Jarir bin Hazim] telah menceritakan kepada kami [Al Hasan] telah menceritakan kepada kami [Abdurrahman bin Samurah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Wahai Abdurrahman, janganlah kamu meminta jabatan, sebab jika kamu diberi jabatan karena permintaan maka tanggung jawabnya akan dibebannya kepadamu. Namun jika kamu diangkat tanpa permintaan, maka kamu akan diberi pertolongan." Dan telah menceritakan kepada kami [Yahya bin Yahya] telah menceritakan kepada kami [Khalid bin 'Abdullah] dari [Yunus]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku ['Ali bin Khujr As Sa'di] telah menceritakan kepada kami [Husyaim] dari [Yunus] dan [Manshur] dan [Khumaid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Hammad bin Zaid] dari [Simak bin 'Athiah] dan [Yunus bin 'Ubaid] dan [Hisyam bin Hassan] mereka semua dari [Al Hasan] dari [Abdurrahman bin Sumarah] dari Nabi shallallahu 'alaihi wasallam seperti hadits Jarir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4715</td></tr><tr><td>Arabic No</td><td>1652.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4715</td></tr><tr><td>Arabic No</td><td>1652.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 15</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:(the wife of the Prophet (p.b.u.h) We set out with the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepada kami [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha], isteri Nabi shallallahu 'alaihi wasallam berkata: "Kami keluar bersama Nabi shallallahu 'alaihi wasallam saat hajji wada' lalu kami berihram untuk 'umrah. Nabi shallallahu 'alaihi wasallam kemudian berkata: "Barangsiapa yang membawa hewan sembelihan hendaklah dia berihram untuk hajji sekaligus 'umrah kemudian dia tidak bertahallul hingga bertahallul untuk keduanya (hajji dan 'umrah) ". Maka aku tiba di Makkah sedang aku dalam keadaan mengalami haidh sehinga aku tidak melakukan thowaf di Baitulloh dan juga tidak melakuka sa'iy antara bukit Ash-Shafa dan Al Marwah. Lalu aku adukan kondisiku itu kepada Nabi Shallallahu'alaihiwasallam. Maka Beliau bersabda: "Uraikanlah rambutmu dan sisirlah dan berihramlah untuk hajji dan tinggalkan 'umrah". Maka kemudian aku laksanakan. Setelah kami selesai menunaikan manasik hajji, Nabi shallallahu 'alaihi wasallam mengutusku bersama 'Abdurrahman bin Abu Bakar menuju Tan'im yang dari tempat itu aku harus memulai 'umrah. Beliau berkata: "Ini pengganti 'umrahmu" 'Aisyah radliallahu 'anha berkata: "Maka orang-orang yang berihram untuk 'umrah melakukan thowaf di Baitulloh dan sa'iy antara bukit Ash-Shafa dan Al Marwah lalu mereka bertahallul kemudian mereka thowaf yang lain lagi setelah kembali dari Mina. Adapun orang-orang yang menggabungkan hajji dan 'umrah mereka hanya melakukan thowaf satu kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1556</td></tr><tr><td>Arabic No</td><td>1556</td></tr><tr><td>Reference</td><td>Book 25 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, жена Пророка ﷺ сказала: «Мы отправились совершать прощальный хадж вместе с Пророком ﷺ и произнесли тальбию для ‘умры. А потом Пророк ﷺ сказал: “Пусть тот, кто гонит жертвенный скот, произносит тальбию для хаджа с ‘умрой и не выходит из ихрама, пока не совершит и то, и другое”. Я приехала в Мекку как раз в то время, когда у меня была менструация, и не смогла совершить обход вокруг Каабы и пробег между Сафой и Марвой. Я пожаловалась Пророку ﷺ и он сказал: “Распусти волосы, причешись, объяви о намерении совершить хадж и оставь ‘умру”. Я так и поступила. А когда мы совершили хадж, Пророк ﷺ отправил меня вместе с ‘Абдуррахманом ибн Абу Бакром в Тан‘им, и оттуда я совершила ‘умру. Посланник Аллаха ﷺ сказал: “Это место твоей ‘умры”. И те, кто произносил тальбию для ‘умры, совершили обход вокруг Каабы и пробежали между Сафой и Марвой, после чего вышли из состояния ихрама. Потом они совершили ещё один обход вокруг Каабы после возвращения из Мины. Что же касается тех, кто соединял хадж с ‘умрой, то они совершили только один обход вокруг Каабы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1556</td></tr><tr><td>Arabic No</td><td>1556</td></tr><tr><td>Reference</td><td>Book 25 Hadith 42</td></tr></tbody></table></div>
 

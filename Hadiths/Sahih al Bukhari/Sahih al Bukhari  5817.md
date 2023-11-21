@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) offered prayer while he was wearing a Kha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Ibrahim bin Sa'd] telah menceritakan kepada kami [Ibnu Syihab] dari ['Urwah] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah shalat dengan mengenakan pakaian bercorak (bergaris atau berbatik), lalu beliau melihat corak tersebut (ketika shalat), seusai salam beliau Shallallahu'alaihi wasallam bersabda: 'Pergilah kalian dengan pakaianku ini kepada Abu Jahm, karena ia telah mengganggu shalatku tadi, dan ambilkan untukku baju lain yang tidak bercorak atau berbatik milik Abu Jahm bin Hudzaifah bin Ghanim dari Bani 'Adi bin Ka'b
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5817</td></tr><tr><td>Arabic No</td><td>5817</td></tr><tr><td>Reference</td><td>Book 77 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что однажды, когда Посланник Аллаха ﷺ совершал молитву в (новой) одежде, на которой были полосы /хамиса/, его взгляд упал на эти полосы. Закончив молиться, он велел: «Отнесите эту мою одежду Абу Джахму, ибо она только что отвлекла меня от моей молитвы и принесите мне его одежду /анбиджанийа/ (грубая шерстяная накидка, на которой не было никаких полос)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5817</td></tr><tr><td>Arabic No</td><td>5817</td></tr><tr><td>Reference</td><td>Book 77 Hadith 34</td></tr></tbody></table></div>
 

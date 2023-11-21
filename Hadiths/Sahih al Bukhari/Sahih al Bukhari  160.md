@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ After performing the ablution 'Uthman said, "I am going to tell you a Hadith whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>160</td></tr><tr><td>Arabic No</td><td>160</td></tr><tr><td>Reference</td><td>Book 4 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хумрана о том, что после того, как ‘Усман, да будет доволен им Аллах, совершил омовение, он сказал: «Не передать ли вам хадис, который я не стал бы передавать вам, если бы не один аят? Я слышал, как Пророк ﷺ сказал: “Если человек совершит омовение должным образом, а потом помолится, ему обязательно будут прощены те прегрешения, которые он совершит между этой и следующей молитвой”».\n‘Урва сказал: «(Имеется в виду) аят (, в котором говорится): “Поистине, тех, кто скрывает ниспосланные Нами ясные знамения и истинное руководство после того, как Мы разъяснили всё это людям в Писании, проклянёт Аллах и проклянут проклинающие…” (Сура «аль-Бакара», 159)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>160</td></tr><tr><td>Arabic No</td><td>160</td></tr><tr><td>Reference</td><td>Book 4 Hadith 26</td></tr></tbody></table></div>
 

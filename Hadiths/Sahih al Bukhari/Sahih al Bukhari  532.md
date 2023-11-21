@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Do the prostration properly and do not pu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kepada kami [Yazid bin Ibrahim] berkata, telah menceritakan kepada kami [Qatadah] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Seimbanglah dalam sujud dan janganlah seseorang meletakkan tangannya seperti anjing. Dan jika meludah, maka jangan sekali-kali ia meludah ke arah depan atau ke sebelah kanannya. Karena dia sedang berhadapan dengan Rabbnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>532</td></tr><tr><td>Arabic No</td><td>532</td></tr><tr><td>Reference</td><td>Book 9 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «Придерживайтесь умеренности, совершая земные поклоны, и пусть (молящийся) не касается локтями земли подобно (лежащей) собаке, а если он (захочет) сплюнуть, то пусть никогда не плюёт ни перед собой, ни направо, ибо, поистине, (во время молитвы) он ведёт тайную беседу со своим Господом!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>532</td></tr><tr><td>Arabic No</td><td>532</td></tr><tr><td>Reference</td><td>Book 9 Hadith 11</td></tr></tbody></table></div>
 

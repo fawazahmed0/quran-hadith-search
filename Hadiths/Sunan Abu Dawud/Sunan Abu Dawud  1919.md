@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Yazid ibn Shayban said:We were in a place of stationing at Arafat which Amr (ibn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ibnu Nufail], telah menceritakan kepada Kami [Sufyan] dari ['Amr yaitu Ibnu Dinar] dari ['Amr bin Abdullah bin Shafwan] dari [Yazid bin Syaiban], ia berkata; [Ibnu Mirba' Al Anshari] mendatangi Kami ketika Kami di Arafah di tempat yang di anggap jauh oleh 'Amr dari imam. Dia berkata: ketahuilah bahwa aku adalah seorang utusan Rasulullah shallallahu 'alaihi wasallam kepada kalian, beliau mengatakan kepada kalian: "Wukuflah kalian di masy'ar kalian karena kalian berada pada warisan bapak kalian yaitu Ibrahim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1919</td></tr><tr><td>Arabic No</td><td>1919</td></tr><tr><td>Reference</td><td>Book 11 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Язид ибн Шейбан передаёт: «Когда мы стояли на ‘Арафате [‘Амр показал, что это место было далеко от имама], к нам пришёл Ибн Мирба‘ и сказал: “Я посланец Посланника Аллаха ﷺ к вам. Он говорит вам: исполняйте свои обряды должным образом, ибо, поистине, вам досталось наследие Ибрахима”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1919</td></tr><tr><td>Arabic No</td><td>1919</td></tr><tr><td>Reference</td><td>Book 11 Hadith 199</td></tr></tbody></table></div>
 

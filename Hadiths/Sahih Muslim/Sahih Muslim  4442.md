@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that Allah's Apostle (ﷺ) stoned (to death) a perso
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Hajjaj bin Muhammad] dia berkata; [Ibnu Juraij] berkata; telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin Abdullah] berkata, "Nabi shallallahu 'alaihi wasallam pernah merajam seorang laki-laki dan wanita Yahudi yang berzina." Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Ibnu Juraij] dengan isnad seperti ini, namun dia menyebutkan, "Dan seorang wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4442</td></tr><tr><td>Arabic No</td><td>1701.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4442</td></tr><tr><td>Arabic No</td><td>1701.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 45</td></tr></tbody></table></div>
 

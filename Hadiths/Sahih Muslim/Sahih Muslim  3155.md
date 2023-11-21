@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik (Allah be pleased with him) reported:When Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ibnu Abu Umar] Telah menceritakan kepada kami [Sufyan] saya mendengar [Hisyam bin Hassan] mengabarkan dari [Ibnu Sirin] dari [Anas bin Malik] ia berkata; Setelah Rasulullah shallallahu 'alaihi wasallam melempar Jamrah, menyembelih hewan kurbannya dan setelah mencukur rambutnya, beliau meminta tukang cukur untuk mencukur kembali rambutnya yang sebelah kanan. Kemudian beliau memanggil Abu Thalhah Al Anshari dan memberikan rambut tersebut kepadanya. sesudah itu, beliau kembali meminta untuk dicukurkan rambutnya yang sebelah kiri seraya bersabda: "Cukurlah." Maka ia pun mencukurnya, dan setelah itu, membagikannya kepada orang-orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3155</td></tr><tr><td>Arabic No</td><td>1305.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 359</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3155</td></tr><tr><td>Arabic No</td><td>1305.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 359</td></tr></tbody></table></div>
 

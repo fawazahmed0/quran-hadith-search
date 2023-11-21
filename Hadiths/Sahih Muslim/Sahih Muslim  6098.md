@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Ishaq reported:I was sitting with 'Abdullah b. 'Utba and there was a discuss
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Abdullah bin 'Umar bin Muhammad bin Aban Al Ju'fi]; Telah menceritakan kepada kami [Sallam Abu Al Ahwash] dari [Abu Ishaq] dia berkata; Aku pernah duduk-duduk bersama [Abdullah bin 'Utbah], lalu orang-orang saling membicarakan usia Rasulullah. Sebagian kaum berkata; 'Abu Bakr lebih tua dari Rasulullah shallallahu 'alaihi wasallam. Maka Abdullah berkata; Rasulullah shallallahu 'alaihi wasallam wafat pada usia enam puluh tiga tahun, Abu Bakr meninggal pada usia enam puluh tiga tahun, dan Umar dibunuh pada usia enam puluh tiga tahun. Lalu seseorang yang biasa dipanggil ['Amir bin Sa'ad] dari kaum tersebut berkata; Telah menceritakan kepada kami [Jarir] dia berkata; Kami pernah duduk di samping Mu'awiyah. Lalu orang-orang saling membicarakan umur Rasulullah shallallahu 'alaihi wasallam. [Mu'awiyah] berkata; 'Rasulullah shallallahu 'alaihi wasallam wafat pada usia enam puluh tiga tahun, Abu Bakr meninggal pada usia enam puluh tiga tahun, dan Umar dibunuh pada usia enam puluh tiga tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6098</td></tr><tr><td>Arabic No</td><td>2352.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6098</td></tr><tr><td>Arabic No</td><td>2352.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 156</td></tr></tbody></table></div>
 

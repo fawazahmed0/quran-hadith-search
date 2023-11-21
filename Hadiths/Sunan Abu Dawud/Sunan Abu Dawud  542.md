@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Humaid reported :I asked Thabit al-Bunani whether it was permissible for a man t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Husain bin Mu'adz] telah menceritakan kepada kami [Abdul A'la] dari [Humaid] dia berkata; Saya pernah bertanya kepada [Tsabit Al-Bunani] tentang seseorang yang berbicara setelah dibacakan iqamah. Maka Tsabit menceritakan kepadaku sebuah Hadits dari [Anas bin Malik], dia berkata; Pernah ketika dibacakan iqamah, datang seorang laki laki kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau tertahan olehnya, padahal shalat telah dikumandangkan iqamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (643)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>542</td></tr><tr><td>Arabic No</td><td>542</td></tr><tr><td>Reference</td><td>Book 2 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумайд сказал: «Как-то я спросил у Сабита аль-Бунани о человеке, который разговаривает после возвещения икамы и он рассказал мне о том, что Анас ибн Малик сказал: “(Однажды) когда уже возвестили второй призыв к молитве/икама/, к Посланнику Аллаха ﷺ подошёл какой-то мужчина и задержал его после этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (643)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>542</td></tr><tr><td>Arabic No</td><td>542</td></tr><tr><td>Reference</td><td>Book 2 Hadith 152</td></tr></tbody></table></div>
 

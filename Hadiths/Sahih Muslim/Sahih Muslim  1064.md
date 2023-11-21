@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' reported:They (the Companions) said prayer with the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahman bin Sahm al-Anthaki] telah menceritakan kepada kami [Ibrahim bin Muhammad Abu Ishaq al-Fazari] dari [Abu Ishaq asy-Syaibani] dari [Muharib bin Ditsar] dia berkata, Saya mendengar [Abdullah bin Yazid] berkata di atas mimbar, telah menceritakan kepada kami [al-Bara'] bahwa mereka dahulu shalat bersama Rasulullah Shallallahu'alaihiwasallam, apabila beliau rukuk, maka mereka rukuk, dan apabila beliau mengangkat kepalanya dari rukuk seraya mengucapkan, 'Sami'allahu Liman Hamidah, ' maka kami tetap diam hingga kami melihatnya telah meletakkan keningnya di tanah, kemudian kami mengikutinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1064</td></tr><tr><td>Arabic No</td><td>474.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Мухариб ибн Дисар сказал: «Я слышал как (однажды) стоя на минбаре, ‘Абдуллах ибн Язид сказал: “аль-Бараъ сообщил мне о том, что они молились вместе с Посланником Аллаха ﷺ и обычно, когда он совершал поясной поклон, они тоже совершали его, а когда он поднимал голову, говоря: “Да услышит Аллах того, кто воздал Ему хвалу /Сами‘а-Ллаху ли-ман хамидах/”, то они продолжали стоять до тех пор, пока не видели, что он уже положил лицо на землю, после чего они следовали за ним”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1064</td></tr><tr><td>Arabic No</td><td>474.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 226</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported Allah's Messenger (May peace be upon him) as saying:I have sacrif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyats] Telah menceritakan kepada kami [bapakku] dari [Ja'far] telah menceritakan kepadaku [bapakku] dari [Jabir] ia menceritakan dalam haditsnya; Bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku menyembelih hewan kurban di sini, dan Mina seluruhnya adalah tempat menyembelih. Karena itu, sembelihlah kurbanmu di tempat kendaraanmu berhenti. Dan wukuf di Arafah, maka Arafah seluruhnya adalah tempat wukuf. Dan aku wukuf pula di Muzdalifah, maka Muzdalifah seluruhnya adalah tempat wukuf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2952</td></tr><tr><td>Arabic No</td><td>1218.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2952</td></tr><tr><td>Arabic No</td><td>1218.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 161</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ya'la ibn Umayyah: The Messenger of Allah (ﷺ) said to me: When my mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mustamir Al 'Ushfuri] telah menceritakan kepada kami [Habban bin Hilal] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari ['Atha bin Abu Rabah] dari [Shafwan bin Ya'la] dari [Ayahnya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Apabila para utusanku datang kepadamu, maka berikan kepada mereka tiga puluh baju besi dan tiga puluh unta!" Ya'la berkata, "Aku lalu berkata, "Wahai Rasulullah, apakah hal itu sebagai pinjaman yang akan mendapat jaminan atau pinjaman yang akan dikembalikan kepada pemiliknya?" Beliau menjawab: "Bahkan pinjaman yang akan dikembalikan kepada pemiliknya." Abu Daud berkata, "Habban adalah paman (dari pihak ibu) Hilal Ar Rai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3566</td></tr><tr><td>Arabic No</td><td>3566</td></tr><tr><td>Reference</td><td>Book 24 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сафван ибн Я‘ля передаёт от своего отца: «Посланник Аллаха ﷺ сказал мне: “Когда к тебе придут мои посланцы, отдай им тридцать кольчуг и тридцать верблюдов”. Я спросил: “О Посланник Аллаха ﷺ ты возместишь или отдашь?” Посланник Аллаха ﷺ сказал: “Отдам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3566</td></tr><tr><td>Arabic No</td><td>3566</td></tr><tr><td>Reference</td><td>Book 24 Hadith 151</td></tr></tbody></table></div>
 

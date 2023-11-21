@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid bin Haritha:Allah's Messenger (ﷺ) sent us (to fight) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Zurarah] telah menceritakan kepada kami [Husyaim] telah menceritakan kepada kami [Hushain] telah menceritakan kepada kami [Abu Dhibyan] mengatakan, aku mendengar [Usamah bin Zaid bin haritsah] radliallahu 'anhuma menceritakan dengan mengatakan; 'Rasulullah Shallallahu'alaihiwasallam mengutus kami ke perkampungan Hurqah di bani Juhainah. Kami menyerang mereka di pagi buta dan menjadikan mereka kocar kacir. Saya dan seorang laki-laki anshar berhasil menemukan seseorang dari mereka. Tatkala kami bisa mengepung, ia tiba-tiba mengatakan; 'laa-ilaaha-illallah.' Si laki-laki anshar menahan penyerbuannya, sedang aku meneruskannya hingga kubunuh orang itu. Ketika kami pulang, peristiwa ini disampaikan kepada Nabi shallallahu 'alaihi wasallam sehingga beliau berujar kepadaku: "Apakah kamu membunuhnya setelah ia mengucapkan laa-ilaaha-illallah?" Kujawab; 'betul, Ya Rasulullah, ia mengucapkannya hanya sekedar mencari keselamatan.' Nabi melanjutkan: "Apakah kamu membunuhnya setelah ia mengucapkan laa-ilaaha-illallah?" Nabi berulangkali menegurku dengan ucapan ini hingga aku mengandai-andai kalaulah aku belum masuk Islam sebelum itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6872</td></tr><tr><td>Arabic No</td><td>6872</td></tr><tr><td>Reference</td><td>Book 87 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама ибн Зейд ибн Хариса, да будет доволен Аллах им и его отцом, сказал: «(В свое время) Посланник Аллаха ﷺ отправил нас к аль-Хурака, один из родов Джухайны, и мы напали на (них) утром и разбили их. Вместе с одним из ансаров я преследовал одного из (этих людей), когда же мы приблизились к нему вплотную, он закричал: “Нет истинного бога, достойного поклонения, кроме Аллаха!” /Ля иляха илля Ллах/ (Услышав его слова,) тот ансар перестал (преследовать его), а я нанёс ему удар своим копьём и убил его. После того как мы вернулись обратно, об этом стало известно Пророку ﷺ, и он спросил: “О Усама, неужели же ты убил его после того, как он сказал “Ля иляха илля-Ллах”?!” Я воскликнул: “О Посланник Аллаха, (но ведь он сказал это, только) желая спастись!” — однако (Пророк ﷺ) снова сказал: “Неужели же ты убил его после того, как он сказал “Ля иляха илля-Ллах”?!” И он не переставал задавать (этот вопрос) до тех пор, пока я не пожалел о том, что принял ислам раньше, чем (дожил до) этого дня!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6872</td></tr><tr><td>Arabic No</td><td>6872</td></tr><tr><td>Reference</td><td>Book 87 Hadith 11</td></tr></tbody></table></div>
 

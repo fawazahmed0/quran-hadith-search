@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) forbade Muhaqala, Mukhadara, Mul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Wahab] telah menceritakan kepada kami ['Umar bin Yunus] berkata, telah menceritakan kepada saya [bapakku] telah menceritakan kepada saya [Ishaq bin Abi Tholhah Al Anshari] dari [Anas bin Malik] radliallahu 'anhu bahwa dia berkata: Rasulullah shallallahu 'alaihi wasallam melarang dari Al Muhaaqalah (jual beli buah yang masih ditangkai dengan gandum), Al Mukhodharoh (jual beli buah atau biji-bijian sebelum matang), Al Mulaamasah (terjadi jual beli jika calon pembeli memegang barang dagangan), Al Munaabadzah (jual beli dengan melempar barang dagangan) dan Al Muzaabanah (jual beli kurma yang masih dipohon dengan kurma yang sudah dipetik)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2207</td></tr><tr><td>Arabic No</td><td>2207</td></tr><tr><td>Reference</td><td>Book 34 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запретил (такие виды торговли, как) “мухакаля”, “мухадара”, “мулямаса”, “мунабаза” и “музабана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2207</td></tr><tr><td>Arabic No</td><td>2207</td></tr><tr><td>Reference</td><td>Book 34 Hadith 153</td></tr></tbody></table></div>
 

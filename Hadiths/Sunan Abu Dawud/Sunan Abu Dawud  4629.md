@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad b. al-Hanafiyyah said:I said to my father: Which of the people after th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepada kami [Jami' bin Abu Rasyid] berkata, telah menceritakan kepada kami [Abu Ya'la] dari [Muhammad bin Al Hanafiyah] ia berkata, "Aku bertanya kepada [bapakku], "Siapakah manusia yang paling baik setelah Rasulullah shallallahu 'alaihi wasallam?"Iia menjawab, "Abu Bakar." Aku bertanya lagi, "Kemudian siapa lagi?" Ia menjawab, "Umar." Muhammad bin Al hanafiyah berkata, "Lalu timbul kecemasan jika aku bertanya 'lalu siapa lagi, kemudian ia menjawab 'Utsman'." Aku lalu bertanya, "Apakah setelah itu engkau wahai bapakku?" Ia menjawab, "Aku hanyalah seorang laki-laki dari kaum muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3671)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4629</td></tr><tr><td>Arabic No</td><td>4629</td></tr><tr><td>Reference</td><td>Book 42 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Мухаммада ибн аль-Ханафийя: «Я сказал отцу: “Скажи, кто является лучшим из людей после Посланника Аллаха ﷺ?” Он ответил: “Абу Бакр”. Я спросил: “А после него кто?” Он ответил: “‘Умар”. И я испугался, что, если спрошу: “А после него кто?”, он скажет: “‘Усман”. Поэтому я спросил: “А потом ты?” Он сказал в ответ: “Я всего лишь один из мусульман”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3671)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4629</td></tr><tr><td>Arabic No</td><td>4629</td></tr><tr><td>Reference</td><td>Book 42 Hadith 34</td></tr></tbody></table></div>
 

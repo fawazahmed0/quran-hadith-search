@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:I observed with the Messenger of Allah (ﷺ) eight (rak'ahs)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru] dari [Jabir bin Zaid] dari [Ibnu Abbas], katanya; "Aku pernah shalat bersama Nabi shallallahu 'alaihi wasallam delapan rakaat sekaligus, dan tujuh raka'at sekaligus." Lalu aku bertanya; "Wahai Abu Sya'tsa', setahuku beliau mengakhirkan zhuhur dan menyegerakan ashar, dan beliau mengakhirkan maghrib dan menyegerakan isya'." Kata Abu Sya'tsa', setahuku juga seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1634</td></tr><tr><td>Arabic No</td><td>705.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Амр передал от Джабира ибн Зейда, что Ибн ‘Аббас сказал: «Я совершил вместе с Пророком ﷺ восемь рак‘атов (зухр и ‘аср), объединив их и семь рак‘атов (магриб и ‘иша), объединив». ‘Амр сказал: “О Абу Ша‘саъ! Я думаю, что он отложил зухр и совершил пораньше ‘аср, и совершил пораньше ‘иша, отложив магъриб?» Он ответил: «И я так думаю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1634</td></tr><tr><td>Arabic No</td><td>705.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 65</td></tr></tbody></table></div>
 

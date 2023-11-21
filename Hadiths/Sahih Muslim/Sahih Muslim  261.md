@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubaidullah b. Abu Bakr said:I heard Anas b. Malik saying: The Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin al-Walid bin Abdul Hamid] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata, telah menceritakan kepada kami [Ubaidullah bin Abu Bakar] dia berkata, "Saya mendengar [Anas bin Malik] berkata, "Rasulullah shallallahu 'alaihi wasallam menyebutkan tentang dosa-dosa besar, atau ditanya tentang dosa-dosa besar, maka beliau bersabda: "Syirik kepada Allah, membunuh jiwa, durhaka terhadap kedua orang tua" lalu beliau bersabda lagi, "Maukah kalian untuk aku beritahukan tentang dosa-dosa terbesar?" beliau bersabda lagi: "Perkataan dusta, " atau beliau berkata: "Persaksian dusta." [Syu'bah] berkata, "Dugaanku yang paling kuat adalah 'persaksian palsu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>261</td></tr><tr><td>Arabic No</td><td>88.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «(Однажды) Посланник Аллаха ﷺ упомянул большие грехи (или: его спросили о больших грехах), и он ответил: “(Это ) придавание Аллаху сотоварищей, убийство (невинной) души, непочтительное отношение к родителям”. (Также) он сказал: “Не поведать ли вам о наиболее тяжких грехах? Это лживое слово (или: лживое свидетельство)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>261</td></tr><tr><td>Arabic No</td><td>88.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
 

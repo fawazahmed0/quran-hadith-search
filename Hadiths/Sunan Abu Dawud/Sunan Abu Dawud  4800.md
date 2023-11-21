@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmamah: The Prophet (ﷺ) said: I guarantee a house in the surroundi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Utsman Ad Dimasyqi Abu Al Jamahir] ia berkata; telah menceritakan kepada kami [Abu Ka'b Ayyub bin Muhammad As Sa'di] ia berkata; telah menceritakan kepadaku [Sulaiman bin Habib Al Muharibi] dari [Abu Umamah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku akan menjamin rumah di tepi surga bagi seseorang yang meninggalkan perdebatan meskipun benar. Aku juga menjamin rumah di tengah surga bagi seseorang yang meninggalkan kedustaan meskipun bershifat gurau, Dan aku juga menjamin rumah di syurga yang paling tinggi bagi seseorang yang berakhlak baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4800</td></tr><tr><td>Arabic No</td><td>4800</td></tr><tr><td>Reference</td><td>Book 43 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4800</td></tr><tr><td>Arabic No</td><td>4800</td></tr><tr><td>Reference</td><td>Book 43 Hadith 28</td></tr></tbody></table></div>
 

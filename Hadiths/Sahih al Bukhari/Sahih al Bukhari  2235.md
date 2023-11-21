@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) came to Khaibar and when Allah made hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul Ghoffar bin Daud] telah menceritakan kepada kami [Ya'qub bin 'Abdurrahman] dari ['Amru bin Abi 'Amru] dari [Anas bin Malik radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam memasuki Khaibar. Tatkala Allah menaklukan benteng Khaibar untuk kemenangan kepada Beliau, diceritakan kepada Beliau tentang kecantikan Shafiyah binti Huyyay bin Akhthob yang suaminya terbunuh sedangkan dia baru saja menjadi pengantin. Maka Rasulullah shallallahu 'alaihi wasallam memilihnya untuk diri Beliau. Kemudian Beliau keluar bersama Shafiyah hingga ketika kami sudah sampai di Saddar Rauhaa', dia berhenti untuk singgah maka dibuatkanlah baginya makanan yang terbuat dari kurma, tepung dan minyak samin dalam wadah kecil terbuat dari kulit. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Persilakanlah orang-orang yang ada di sekitarmu!" Itulah walimah Rasulullah shallallahu 'alaihi wasallam dengan Shafiyah. Kemudian kami berangkat menuju Madinah. Dia (Anas bin Malik radliallahu 'anhu) berkata: "Aku melihat Rasulullah shallallahu 'alaihi wasallam mengangkat dan memasukkan Shafiyah kedalam mantel dibelakang lalu Beliau duduk diatas unta Beliau dan Beliau letakkan kaki Shafiyah diatas lutut Beliau hingga kemudian berjalan mengendarai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2235</td></tr><tr><td>Arabic No</td><td>2235</td></tr><tr><td>Reference</td><td>Book 34 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ прибыл в Хайбар, и когда Аллах открыл для него крепость, ему упомянули о красоте Сафии бинт Хуей ибн Ахтаб, жених которой был убит, когда она была невестой. И Посланник Аллаха ﷺ выбрал её для себя и отправился с ней в путь. Когда же мы достигли Садд ар-Рауха, у неё закончилась менструация, и он совершил с ней близость. Затем он приготовил Хайс на небольшой кожаной подстилке. Затем Посланник Аллаха ﷺ сказал: «Сообщи тем, кто возле тебя (о свадебном угощении)!» Таким был свадебный пир (уалима) Посланника Аллаха ﷺ (в честь его брака) с Сафией. Затем мы отправились в Медину, и я видел, как Посланник Аллаха ﷺ прикрывает её покрывалом, в то время как она была позади него, затем он садился рядом со своим верблюдом, ставя своё колено так, что Сафия ставила свою ногу ему на колено, чтобы подняться (на верблюда)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2235</td></tr><tr><td>Arabic No</td><td>2235</td></tr><tr><td>Reference</td><td>Book 34 Hadith 181</td></tr></tbody></table></div>
 

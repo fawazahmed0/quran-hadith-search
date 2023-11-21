@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Al-Mughîra Ibn Chu'ba (que Dieu l'agrée), le Prophète (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim Al Handlali] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Asy Sya'bi] dari [Warrad] bekas budak Al Mughirah bin Syu'bah, dari [Mughirah bin Syu'bah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya Allah 'azza wajalla mengharamkan kalian mendurhakai seorang ibu, mengubur anak perempuan hidup-hidup, dan tidak suka memberi dan suka meminta-minta. Dan membenci atasmu tiga perkara; mengatakan sesuatu yang tidak jelas sumbernya, banyak bertanya dan menyia-nyiakan harta." Dan telah menceritakan kepadaku [Al Qasim bin Zakaria] telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Syaiban] dari [Manshur] dengan isnad seperti ini, hanya saja ia menyebutkan, 'Dan Rasulullah shallallahu 'alaihi wasallam telah mengharamkan atas kalian', tidak menyebutkan, 'Sesungguhnya Allah mengharamkan atas kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4483</td></tr><tr><td>Arabic No</td><td>593.06</td></tr><tr><td>Reference</td><td>Book 30 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4483</td></tr><tr><td>Arabic No</td><td>593.06</td></tr><tr><td>Reference</td><td>Book 30 Hadith 14</td></tr></tbody></table></div>
 

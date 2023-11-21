@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) used to say after the tashahhud: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyah] telah mengabarkan kepada kami [Umar bin Yunus Al Yamami] telah menceritakan kepadaku [Muhammad bin Abdullah bin Thawus] dari [ayahnya] dari [Thawus] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam bahwa setelah tasyahud beliau sering membaca do'a; "Allahumma inni a'uudzu bika min 'adzaabi jahannam wa a'uudzu bika min 'adzzabil qabri wa a'uudzu bika min fitnatid dajjal wa a'uudzu bika min fitnatil mahyaa wal mamaati (Ya Allah aku berlindung kepada-Mu dari siksa neraka Jahannam, dari siksa kubur, dan dari fitnah Dajjal fitnah serta fitnah kehidupan dan kematian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 2 Hadith 595</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что во время молитвы, после ташаххуда, Пророк ﷺ обращался к Аллаху с такой мольбой: «О Аллах, поистине, я прибегаю к Твоей защите от мучений в Аду, и я прибегаю к Твоей защите от мучений могилы, и я прибегаю к Твоей защите от искушения Даджжаля, и я прибегаю к Твоей защите от искушений жизни и смерти! /Аллахумма, инни а‘узу би-ка мин ‘азаби-ль-кабри, ва а‘узу би-ка мин фитнати-ль-масихи-д-даджжали, ва а‘узу би-ка мин фитнати-ль-махйа ва-ль-мамат/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 2 Hadith 595</td></tr></tbody></table></div>
 

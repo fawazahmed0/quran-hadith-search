@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:A bedouin came to the Prophet (ﷺ) and gave a pledge of allegian
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Abbas] telah menceritakan kepada kami ['Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [Muhammad bin Al Munkadir] dari [Jabir radliallahu 'anhu]: Ada seorang 'Arab Badwi menemui Nabi shallallahu 'alaihi wasallam lalu berbai'at untuk masuk Islam. Keesokan harinya dia datang lagi dalam keadaan menderita sakit demam lalu berkata: "Bebaskan aku (Batalkan baiatku) ". (Dia minta keluar dari Islam). Namun Beliau tidak mengabulkannya. Permintaannya itu dilakukan hingga tiga kali. Maka Beliau shallallahu 'alaihi wasallam bersabda: "Madinah ini seperti alat penempa besi, yang membersihkan orang-orang jelek darinya dan akan menyeleksi orang-orang yang baik saja (untuk tinggal didalamnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1883</td></tr><tr><td>Arabic No</td><td>1883</td></tr><tr><td>Reference</td><td>Book 29 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(Однажды) к Пророку ﷺ пришёл какой-то бедуин и поклялся ему на верность исламу, а на следующий день (этот человек), который заболел лихорадкой, пришёл (снова) и сказал: “Освободи меня (от этого)!” — однако (Пророк ﷺ) трижды отказал (ему в этом) и сказал: “Медина подобна кузнечному меху, ибо она отвергает то нечистое, что в ней есть, а (всё) благое в ней ярко сияет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1883</td></tr><tr><td>Arabic No</td><td>1883</td></tr><tr><td>Reference</td><td>Book 29 Hadith 17</td></tr></tbody></table></div>
 

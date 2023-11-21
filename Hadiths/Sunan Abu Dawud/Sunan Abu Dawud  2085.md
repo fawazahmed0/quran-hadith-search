@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Musa: The Prophet (ﷺ) said: There is no marriage without the perm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Qudamah bin A'yan], Telah menceritakan kepada kami [Abu 'Ubaidah Al Haddad] dari [Yunus], dan [Israil] dari [Abu Ishaq] dari [Abu Burdah] dari [Abu Musa] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada (tidak sah) pernikahan kecuali dengan wali." Abu Daud berkata; Yunus meriwayatkan dari Abu Burddah, sedangkan Israil meriwayatkan dari Abu Ishaq dari Abu Burdah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2085</td></tr><tr><td>Arabic No</td><td>2085</td></tr><tr><td>Reference</td><td>Book 12 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не может быть брака без покровителя /вали/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2085</td></tr><tr><td>Arabic No</td><td>2085</td></tr><tr><td>Reference</td><td>Book 12 Hadith 40</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu sa’id al-khudri said :When the Messenger of Allah(May peace be upon him) l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah], telah menceritakan kepada Kami [Daud yaitu Ibnu Qais] dari ['Iyash bin Abdullah] dari [Abu Sa'id Al Khudri], ia berkata; Kami dahulu disaat Rasulullah shallAllahu wa'alaihi wa sallam bersama Kami mengeluarkan zakat fitrah untuk setiap anak kecil, dan orang dewasa, orang merdeka atau budak satu sha' makanan atau satu sha' keju, atau satu sha' gandum, atau satu sha' kurma, atau satu sha' kismis. Dan Kami tetap mengeluarkannya hingga [Mu'awiyah] datang untuk melakukan haji, atau umrah. Kemudian ia berbicara kepada orang-orang di atas minbar, dan diantara yang ia katakan kepada orang-orang adalah; saya melihat dua mud gandum Syam setara dengan satu sha' kurma. Kemudian orang-orang mengambil pendapat tersebut. Kemudian Abu Sa'id berkata; adapun aku maka aku tetap mengeluarkannya (sebagaimana dahulu aku mengeluarkannya) untuk selamanya selama aku hidup. Abu Daud berkata; [Ibu 'Ulayyah] dan ['Abdah] serta yang lainnya telah meriwayatkannya dari [Ibnu Ishaq] dari [Abdullah bin Abdullah bin Utsman bin Hakim bin Hizam], dari ['Iyadh] dari [Abu Sa'id] dengan maknanya. Dan satu orang dalam hadits tersebut telah menyebutkan dari Ibnu 'Ulayyah; atau satu sha' dari gandum. Dan hal tersebut bukanlah hadits mahfuzh. Telah menceritakan kepada Kami [Musaddad], telah mengabarkan kepada Kami [Ismail], tidak ada padanya penyebutkan; gandum. Abu Daud berkata; [Mu'awiyah bin Hisyam] dalam hadits ini telah menyebutkan dari [Atsauri] dari [Zaid bin Aslam] dari ['Iyadh] dari [Abu Sa'id]; setengah sha' gandum. Dan hal tersebut merupakan kesalahan dari Mu'awiyah bin Hisyam, atau dari orang yang meriwayatkan darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1505) Sahih Muslim (985)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1616</td></tr><tr><td>Arabic No</td><td>1616</td></tr><tr><td>Reference</td><td>Book 9 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «При жизни Посланника Аллаха ﷺ мы выплачивали закят аль-фитр за каждого: за ребёнка и взрослого, свободного и раба са‘ еды, сушёного творога, ячменя, фиников или изюма. Так мы поступали до тех пор, пока не приехал Му‘авия (ибн Абу Суфьян) для совершения хаджа или ‘умры. Он обратился к людям с минбара и среди прочего сказал: “Поистине, я считаю, что два мудда пшеницы Шама соответствуют са‘ фиников”. Люди стали поступать согласно его мнению». Абу Са‘ид сказал: «Что же касается меня, то я всегда буду выплачивать его так, как выплачивал, до конца жизни»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1505) Sahih Muslim (985)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1616</td></tr><tr><td>Arabic No</td><td>1616</td></tr><tr><td>Reference</td><td>Book 9 Hadith 61</td></tr></tbody></table></div>
 

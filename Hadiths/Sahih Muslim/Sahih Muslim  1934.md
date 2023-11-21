@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Quand Abou Salama interrogea 'Aïcha sur les deux rak'a que l'Envoyé de Dieu (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ali bin Hujr] -Ibnu Ayyub- berkata, telah menceritakan kepada kami [Isma'il] ia adalah -Ibnu Ja'far- telah mengabarkan kepadaku [Muhammad] -ia adalah Ibnu Abu Harmalah- ia berkata, telah mengabarkan kepadaku [Abu Salamah] bahwa ia pernah bertanya kepada [Aisyah] mengenai dua sujud yang dilakukan oleh Rasulullah shallallahu 'alaihi wasallam sesudah shalat Ashar, maka ia menjawab; "Dulu beliau melakukannya sebelum Ashar, kemudian beliau tersibukkan darinya atau lupa, sehingga beliau melaksanakannya sesudah shalat Ashar kemudian beliau selalu menunaikannya. Dan biasanya, bila beliau melaksanakan suatu shalat, maka beliau menekuninya." Yahya bin Ayyub berkata; Isma'il berkata, "Yakni beliau selalu menunaikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1934</td></tr><tr><td>Arabic No</td><td>835.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 362</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма передал, что (в своё время) он задал ‘Аише вопрос о молитве в два рак‘ата, которую Посланник Аллаха ﷺ обычно совершал после послеполуденной молитвы. (В ответ ему) она сказала: «(Сначала) он всегда совершал (такую молитву) перед послеполуденной молитвой, но потом его отвлекли от неё (или: он забыл о ней). Тогда он начал совершать (эти два рак‘ата) после послеполуденных молитв и впоследствии делал это постоянно, ибо, единожды совершив какую-нибудь молитву, потом он продолжал делать это неизменно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1934</td></tr><tr><td>Arabic No</td><td>835.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 362</td></tr></tbody></table></div>
 

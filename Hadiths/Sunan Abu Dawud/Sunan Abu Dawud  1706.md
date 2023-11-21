@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Khalid al-Juhani: The Messenger of Allah (ﷺ) was asked about
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Rafi'], dan [Harun bin Abdullah] secara makna, mereka berkata; telah menceritakan kepada Kami [Ibnu Abu Fudaik] dari [Adh Dhahhak yaitu Ibnu Utsman] dari [Salim Abu An Nadhr] dari [Busr bin Sa'id] dari [Zaid bin Khalid Al Juhani] bahwa Rasulullah shallAllahu wa'alaihi wa sallam ditanya mengenai barang temuan. Kemudian beliau berkata: "Umumkan selama satu tahun, kemudian apabila orang yang mencarinya telah datang maka berikan kepadanya, jika tidak maka katahuilah kantongnya dan talinya kemudian makanlah, kemudian apabila orang yang mencarinya telah datang maka kembalikan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1722)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>1706</td></tr><tr><td>Reference</td><td>Book 10 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Халида аль-Джухани, да будет доволен им Аллах, что как-то раз Посланника Аллаха ﷺ спросили о том, что следует делать с найденным. Он сказал: «Сначала объявляй о находке в течение года, и если к тебе придёт хозяин, тебе следует вернуть находку ему, а в противном случае запомни, как выглядит то, чем было перевязано найденное, и то, в чём оно находилось, после чего можешь расходовать это, а если к тебе придёт хозяин, тебе следует вернуть ему (стоимость) найденного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1722)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>1706</td></tr><tr><td>Reference</td><td>Book 10 Hadith 6</td></tr></tbody></table></div>
 

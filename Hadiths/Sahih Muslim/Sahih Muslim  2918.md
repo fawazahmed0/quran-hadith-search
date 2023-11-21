@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) said:We proceeded with the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Amru An Naqid] dan [Zuhair bin Harb] semuanya dari [Ibnu Uyainah] - [Amru] berkata- Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abdurrahman bin Al Qasim] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Kami pergi bersama-sama Nabi shallallahu 'alaihi wasallam, tiada lain niat kami selain haji. Setelah kami sampai dekat Sarif, tiba-tiba aku haid. Ketika Nabi shallallahu 'alaihi wasallam masuk ke dalam kemahku, didapatinya aku sedang menangis. Lalu beliau bertanya: "Apakah kamu haid?" jawabku, "Benar ya Rasulullah." Beliau bersabda: "Haid adalah hal yang lumrah bagi putera-puteri anak Adam. Karena itu, kerjakanlah apa yang seharusnya dikerjakan oleh orang haji, kecuali thawaf di Baitullah sehingga kamu mandi suci terlebih dahulu." Aisyah berkata; Kemudian beliau menyembelih sapi untuk kurban para isteri-isterinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2918</td></tr><tr><td>Arabic No</td><td>1211.09</td></tr><tr><td>Reference</td><td>Book 15 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2918</td></tr><tr><td>Arabic No</td><td>1211.09</td></tr><tr><td>Reference</td><td>Book 15 Hadith 127</td></tr></tbody></table></div>
 

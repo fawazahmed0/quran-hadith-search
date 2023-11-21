@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas:The Prophet (ﷺ) came upon a woman who was weeping for her child.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], telah menceritakan kepada kami [Utsman bin Umar], telah menceritakan kepada kami [Syu'bah] dari [Tsabit] dari [Anas] ia berkata; Nabi shallallahu 'alaihi wasallam datang kepada seorang wanita yang sedang menangisi kematian anaknya, kemudian beliau berkata kepadanya: "Bertakwalah kepada Allah, dan bersabarlah!" kemudian wanita tersebut berkata; engkau tidak mengalami musibahku. Kemudian dikatakan kepadanya; ia adalah Nabi shallallahu 'alaihi wasallam. Maka wanita tersebut datang kepada beliau dan ia tidak mendapati di depan pintu beliau terdapat para penjaga. Lalu wanita tersebut berkata; wahai Rasulullah, aku tidak mengenal engkau. Kemudian beliau bersabda: "Sesungguhnya kesabaran itu disaat terkena musibah yang pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1252) Sahih Muslim (926)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3124</td></tr><tr><td>Arabic No</td><td>3124</td></tr><tr><td>Reference</td><td>Book 21 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что однажды Пророк Аллаха ﷺ проходил мимо какой-то женщины, оплакивавшей своего ребёнка, и сказал ей: «Бойся Аллаха и терпи». Она же сказала ему в ответ: «Какое тебе дело до моего горя?!» Ей сказали: «Это Посланник Аллаха ﷺ!» Тогда она пришла к нему и не обнаружила у его дверей привратников. Она сказала: «О Посланник Аллаха! Я не знала тебя». Посланник Аллаха ﷺ сказал: «Поистине, терпение при потрясении (или в самом начале потрясения)».Абу Муса, да будет доволен им Аллах, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: "Терпение довольство"»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1252) Sahih Muslim (926)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3124</td></tr><tr><td>Arabic No</td><td>3124</td></tr><tr><td>Reference</td><td>Book 21 Hadith 36</td></tr></tbody></table></div>
 

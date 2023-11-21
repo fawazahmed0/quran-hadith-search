@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: Al-Hasan reported on the authority of his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Amru bin Abu Al Hajjaj, Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] dari [Yunus] dari [Al Hasan] dari [Ibunya] bahwasanya dia pernah melihat [Ummu Salamah] menuangkan air di atas kencing anak laki-laki selama dia belum makan, apabila telah makan, dia mencucinya. Dan dia mencuci kencing anak perempuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>379</td></tr><tr><td>Arabic No</td><td>379</td></tr><tr><td>Reference</td><td>Book 1 Hadith 379</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Хасана (аль-Басри) о том, что его мать рассказывала, что она видела, как Умм Салама наливала воду на мочу мальчика, который ещё не ел (обычную пищу). Когда же он начинал есть (обычную пищу), она смывала его. Также она смывала и мочу девочки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>379</td></tr><tr><td>Arabic No</td><td>379</td></tr><tr><td>Reference</td><td>Book 1 Hadith 379</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: I remember two period of silence in prayer, one whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'kub bin Ibrahim] telah menceritakan kepada kami [Isma'il] dari [Yunus] dari [Al Hasan] dia berkata; [Samurah] berkata; "Aku hafal dua tempat diam sejenaknya beliau dalam shalat, pertama ketika imam bertakbir sampai membaca (Al Fatihah) dan diamnya yang kedua apabila selesai membaca surat Al Fatihah dan surat Al Qur'an sebelum ruku'." Al Hasan mengatakan; "Ternyata hal itu di ingkari oleh 'Imran bin Hushain." Kata Al Hasan selanjutnya; "Lantas mereka (orang-orang) menulis surat mengenai hal itu kepada [Ubay] di Madinah, namun Ubay membenarkan Samurah." Abu Daud mengatakan; "Demikianlah kata Humaid dalam hadits ini, yaitu; "Diam sejenaknya beliau ketika selesai membaca (surat Al Qur'an)." Telah menceritakan kepada kami [Abu Bakr bin Khallad] telah menceritakan kepada kami [Khalid bin Al Harits] dari [Asy'ats] dari [Al Hasan] dari [Samurah bin Jundab] dari Nabi shallallahu 'alaihi wasallam bahwa beliau diam sejenak di dua tempat, yaitu; Ketika mulai (shalat, yaitu setelah takbir -pent) dan ketika selesai membaca (surat)." Kemudian perawi menyebutkan makna hadits Yunus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>777</td></tr><tr><td>Arabic No</td><td>777</td></tr><tr><td>Reference</td><td>Book 2 Hadith 387</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Имам Абу Дауд сказал): Рассказал нам Я‘къуб ибн Ибрахим, (который) сказал: Рассказал нам Исма‘иль от Юнуса, (передавшего,) что аль-Хасан (аль-Басри) сказал: Самура (ибн Джундуб, да будет доволен им Аллах,) сказал: «Я запомнил два (места, где следует) молчать при совершении молитвы: молчание в то время, когда имам произносит слова “Аллах велик /Аллаху акбар/” (в начале молитвы), пока он не начнёт читать (Коран), и молчание в то время, когда он завершает чтение “Открывающего Писание” и суры перед (тем, как совершить) поясной поклон».(Аль-Хасан) сказал: «Но ‘Имран ибн Хусайн (да будет доволен им Аллах) отказался принять это от него».(Аль-Хасан) сказал: «И они написали Убаййю (ибн Ка‘бу) об этом письмо в Медину, и тот подтвердил правдивость (слов) Самуры».Абу Дауд сказал: «Так сказал в этом хадисе Хумайд: “И молчание, когда (имам) завершает чтение (Корана)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>777</td></tr><tr><td>Arabic No</td><td>777</td></tr><tr><td>Reference</td><td>Book 2 Hadith 387</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abu Mulaika reported:I heard 'A'isha as saying and she was asked as to whom 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Al Hasan bin Ali Al Hulwani] Telah menceritakan kepada kami [Ja'far bin 'Aun] dari [Abu Umais] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abad bin Humaid] lafazh ini miliknya. Telah mengabarkan kepada kami [Ja'far bin 'Aun] Telah mengabarkan kepada kami [Abu Umais] dari [Ibnu Abu Mulaikah], dia berkata; Aku pernah mendengar [Aisyah] menjawab pertanyaan sebagai berikut; 'Siapakah orang yang akan ditunjuk sebagai khalifah, seandainya beliau menghendaki untuk menunjuk seorang khalifah? Aisyah menjawab; 'Abu Bakr.' Aisyah ditanya lagi; lalu siapa lagi? Aisyah menjawab; 'Umar bin Khaththab.' Ditanya lagi, kemudian siapa lagi? Dia menjawab; Abu Ubaidah bin Jarrah. Kemudian Aisyah mengakhirnya sampai di situ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6178</td></tr><tr><td>Arabic No</td><td>2385</td></tr><tr><td>Reference</td><td>Book 44 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6178</td></tr><tr><td>Arabic No</td><td>2385</td></tr><tr><td>Reference</td><td>Book 44 Hadith 10</td></tr></tbody></table></div>
 

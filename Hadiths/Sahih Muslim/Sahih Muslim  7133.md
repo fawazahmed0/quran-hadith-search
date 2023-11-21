@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Apostle (ﷺ) said:Allah, the Exalted and Glor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahab] telah menceritakan kepadaku [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] nabi Shallallahu 'alaihi wa Salam bersabda: "Allah 'azza wajalla berfirman: 'Aku telah menyiapkan sesuatu yang belum pernah dilihat mata, belum pernah didengar telinga dan tidak pernah terlintas dibenak manusia untuk hamba-hambaKu yang shalih.' Sebagai simpanan, biarkan apa yang diperlihatkan Allah pada kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7133</td></tr><tr><td>Arabic No</td><td>2824.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7133</td></tr><tr><td>Arabic No</td><td>2824.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 4</td></tr></tbody></table></div>
 

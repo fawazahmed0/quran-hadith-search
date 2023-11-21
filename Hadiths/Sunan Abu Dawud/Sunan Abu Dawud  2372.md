@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas: The Messenger of Allah (ﷺ) had himself cupped when he was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar Abdullah bin Umar], telah menceritakan kepada kami [Abdul Warits] dari [Ayyub] dari [Ikrimah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam berbekam sementara beliau dalam keadaan berpuasa. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Wuhaib bin Khalid] dari [Ayyub] dengan sanadnya seperti itu, serta diriwayatkan oleh [Ja'far bin Rabi'ah] serta [Hisyam bin Hassan] dari [Ikrimah] dari [Ibnu Abbas] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5694)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2372</td></tr><tr><td>Arabic No</td><td>2372</td></tr><tr><td>Reference</td><td>Book 14 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сделал себе кровопускание во время поста
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5694)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2372</td></tr><tr><td>Arabic No</td><td>2372</td></tr><tr><td>Reference</td><td>Book 14 Hadith 60</td></tr></tbody></table></div>
 

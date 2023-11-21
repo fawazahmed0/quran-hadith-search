@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Prophet (ﷺ) entered the Ka'ba, he invoked Allah i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] berkata, telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] dari ['Atha'] berkata, aku mendengar [Ibnu 'Abbas] berkata, "Ketika Nabi shallallahu 'alaihi wasallam masuk ke dalam Ka'bah, beliau berdo'a di seluruh sisinya dan tidak melakukan shalat hingga beliau keluar darinya. Beliau kemudian shalat dua rakaat dengan memandang Ka'bah lalu bersabda: "Inilah kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>398</td></tr><tr><td>Arabic No</td><td>398</td></tr><tr><td>Reference</td><td>Book 8 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Когда Пророк ﷺ вошёл в дом (Аллаха) и воззвал к Аллаху, повернувшись ко всем сторонам света, он не совершил намаз, пока не вышел из (Каабы). Когда же он вышел (оттуда), то совершил (намаз в) два рак‘ата, обратившись лицом к Каабе, и сказал: “Это — кибла”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>398</td></tr><tr><td>Arabic No</td><td>398</td></tr><tr><td>Reference</td><td>Book 8 Hadith 49</td></tr></tbody></table></div>
 

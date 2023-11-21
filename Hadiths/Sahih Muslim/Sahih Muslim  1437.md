@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umara b. Ruwaiba reported on the authority of his father that the Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ya'kub bin Ibrahim Ad Dauraqi] telah menceritakan kepada kami [Yahya bin Abu Bukair] telah menceritakan kepada kami [Syaiban] dari [Abdul Malik bin Umair] dari [Ibnu 'Umarah bin Ru'aibah] dari [Ayahnya] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan masuk neraka seseorang yang shalat sebelum terbit matahari dan sebelum terbenamnya." Ketika itu disisinya ada seorang laki-laki penduduk Bashrah seraya bertanya; "Apakah engkau mendengarnya dari Nabi shallallahu 'alaihi wasallam?" Ayah Ibnu Umairah menjawab; "Benar, dan aku bersaksi atasnya" dia melanjutkan; "Dan telah kudengar dari Nabi shallallahu 'alaihi wasallam, beliau bersabda di tempat yang engkau juga mendengar (hadits ini)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1437</td></tr><tr><td>Arabic No</td><td>634.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умары ибн Руайбы, что (однажды) его отец сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Никогда не войдёт в Огонь ни один (из тех), кто станет молиться до восхода солнца и перед его закатом”». Какой-то человек из Басры, находившийся у него спросил: «Ты сам слышал это от Пророка ﷺ?» (Мой отец) ответил: «Да, я свидетельствую об этом». Тогда этот человек сказал: «И я свидетельствую, что слышал это от Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1437</td></tr><tr><td>Arabic No</td><td>634.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 270</td></tr></tbody></table></div>
 

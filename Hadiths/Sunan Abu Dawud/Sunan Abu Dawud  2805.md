@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Prophet (ﷺ) prohibited to sacrifice an animal w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Hisyam bin Abu Abdullah Ad Dastuwai], dan ia dipanggil Hisyam bin Sanbar, dari [Qatadah], dari [Jurai bin Kulaib], dari [Ali], bahwa Nabi shallallahu 'alaihi wasallam melarang berkurban dengan dengan hewan yang sobek telinganya dan pecah tanduknya. Abu Daud berkata; Jurai Sadusi Bashri tidak ada yang meriwayatkan darinya selain Qatadah. Telah menceritakan kepada kami Musaddad, telah menceritakan kepada kami Yahya, telah menceritakan kepada kami Hisyam dari Qatadah, ia berkata; aku katakan kepada Sa'id bin Al Musayyab, apakah a'dhab itu? Ia berkata; setengah atau lebih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2805</td></tr><tr><td>Arabic No</td><td>2805</td></tr><tr><td>Reference</td><td>Book 16 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али, да будет доволен им Аллах, что Пророк ﷺ запретил приносить в жертву животное с обрезанным ухом или сломанным рогом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2805</td></tr><tr><td>Arabic No</td><td>2805</td></tr><tr><td>Reference</td><td>Book 16 Hadith 18</td></tr></tbody></table></div>
 

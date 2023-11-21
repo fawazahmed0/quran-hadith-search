@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported that Allah's Messenger (ﷺ) fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Qabishah bin Dzu'aib Al Ka'bi] bahwa dia pernah mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam melarang seseorang memoligami perempuan dengan bibinya sekaligus (baik dari saudara ibu atau ayah). [Ibnu Syihab] berkata; kami memandang bibi dari jalur ayah dengan bibi dari jalur ibu sama derajatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3439</td></tr><tr><td>Arabic No</td><td>1408.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3439</td></tr><tr><td>Arabic No</td><td>1408.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 42</td></tr></tbody></table></div>
 

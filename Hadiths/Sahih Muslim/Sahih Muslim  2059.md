@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported that (his father) 'Umar b. Khattab asked Abu Waqid al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Dlamrah bin Sa'id Al Mazini] dari [Ubaidullah bin Abdullah] bahwasa Umar bin Al Khaththab pernah bertanya kepada [Abu Waqid Al Laitsi], "Surat apa yang dibaca oleh Rasulullah shallallahu 'alaihi wasallam ketika mengerjakan shalat Iedul Adlha dan Iedul Fithri?" ia menjawab, "Beliau membaca surat 'QAAF WAL QUR'ANIL MAJIID' dan 'IQTARABATIS SAA'ATU WAN SYAQQAL QAMAR
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2059</td></tr><tr><td>Arabic No</td><td>891.01</td></tr><tr><td>Reference</td><td>Book 8 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убайдуллах ибн ‘Абдуллах передал, что (однажды) ‘Умар ибн аль-Хаттаб спросил Абу Вакида аль-Лейси: «Что (из Корана) читал Посланник Аллаха ﷺ, (проводя молитвы) в (дни праздников) жертвоприношения и разговения?» (Абу Вакид) сказал: «Обычно во время (праздничных молитв) он читал “Каф. Клянусь славным Кораном!” и “Приблизился Час этот, и раскололась луна”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2059</td></tr><tr><td>Arabic No</td><td>891.01</td></tr><tr><td>Reference</td><td>Book 8 Hadith 14</td></tr></tbody></table></div>
 

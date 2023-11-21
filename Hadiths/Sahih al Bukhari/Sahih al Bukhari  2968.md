@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Once there was a feeling of fright at Medina, so Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddadd] telah bercerita kepada kami [Yahya] dari [Syu'bah] telah bercerita kepadaku [Qatadah] dari [Anas bin Malik radliallahu 'anhu] berkata; Pernah terjadi gempa bumi di Madinah lalu Rasulullah shallallahu 'alaihi wasallam mengendarai seekor kuda milik Abu Thalhah kemudian berkata: "Kami tidak melihat sesuatu apapun. Yang kami dapati kuda ini sangat cepat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2968</td></tr><tr><td>Arabic No</td><td>2968</td></tr><tr><td>Reference</td><td>Book 56 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды, когда люди) в Медине (стали ощущать) какой-то страх, Посланник Аллаха ﷺ одолжил коня у Абу Тальхи (и ускакал на нём). (Вернувшись,) он сказал: “Мы не увидели (ничего) страшного, но обнаружили, что этот конь (имеет столь же неисчерпаемую энергию и резвость) как море”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2968</td></tr><tr><td>Arabic No</td><td>2968</td></tr><tr><td>Reference</td><td>Book 56 Hadith 177</td></tr></tbody></table></div>
 

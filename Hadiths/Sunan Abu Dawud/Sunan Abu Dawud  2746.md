@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) used to give to some of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Al Laits], ia berkata; telah menceritakan kepadaku [ayahku], dari [kakekku], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Hajjaj bin Abu Ya'qub], ia berkata; telah menceritakan kepadaku [Hujain], ia berkata; telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab], dari [Salim] dari [Abdullah bin Umar], bahwa Rasulullah shallallahu 'alaihi wasallam telah memberikan tambahan kepada sebagian orang yang beliau utus dari kesatuan-kesatuan militer khusus untuk mereka selain bagian yang diberikan kepada para pasukan secara umum. Dan seperlima dalam hal tersebut adalah wajib semua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3135) Sahih Muslim (1750)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2746</td></tr><tr><td>Arabic No</td><td>2746</td></tr><tr><td>Reference</td><td>Book 15 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3135) Sahih Muslim (1750)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2746</td></tr><tr><td>Arabic No</td><td>2746</td></tr><tr><td>Reference</td><td>Book 15 Hadith 270</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Malik Ashaja'i reported on the authority of his father that whenever a perso
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Al Jahdari] telah menceritakan kepada kami ['Abdul Wahid bin Ziyad]; telah menceritakan kepada kami [Abu Malik Al Asyja'i] dari [bapaknya], dia berkata; Rasulullah shallallahu 'alaihi wasallam mengajarkan kepada orang yang baru masuk Islam dengan do'a; Allaahummaghfir lii warhamnii wahdinii warzuqnii'. (Ya Allah, ampunilah aku, kasihanilah aku, tunjukkanlah aku, dan anugerahkanlah aku rizki)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6849</td></tr><tr><td>Arabic No</td><td>2697.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6849</td></tr><tr><td>Arabic No</td><td>2697.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 44</td></tr></tbody></table></div>
 

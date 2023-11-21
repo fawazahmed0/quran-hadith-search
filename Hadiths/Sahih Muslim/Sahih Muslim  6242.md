@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu 'Uthman reported on one of the days when Allah's Messenger (ﷺ) was fightin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] dan [Hamid bin 'Umar Al Bakrawi] serta [Muhammad bin 'Abdul A'laa] mereka berkata; Telah menceritakan kepada kami [Al Mu'tamir] yaitu Ibnu Sulaiman dia berkata; Aku mendengar [Bapakku] dari [Abu Utsman] dia berkata; Pada sebagian peperangan yang diikuti Rasulullah shallallahu 'alaihi wasallam, tidak tersisa orang yang menemani beliau selain dari pada [Thalhah] dan [Sa'ad]. (mereka berdua yang telah menceritakan hal itu kepadaku)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6242</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 44 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6242</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 44 Hadith 72</td></tr></tbody></table></div>
 

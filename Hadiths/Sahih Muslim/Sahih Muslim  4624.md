@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abdullah b. Rabah who said:We came to M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] telah menceritakan kepada kami [Yahya bin Hasan] telah menceritakan kepada kami [Hammad bin Salamah] telah mengabarkan kepada kami [Tsabit] dari [Abdullah bin Rabah] dia berkata, "Kami datang sebagai delegasi kepada Mu'awiyah bin Abu Sufyan, dan di antara kami ada [Abu Hurairah]. Kami bergilir memasak makanan masing-masing satu hari. Ketika giliranku memasak, aku berkata, "Wahai Abu Hurairah, hari ini adalah giliranku memasak." Tidak lama kemudian mereka telah datang ke tempatku, tetapi makanan belum tersedia, lantas aku berkata, "Wahai Abu Hurairah, alangkah baiknya jika kamu bercerita kepada kami tentang Rasulullah shallallahu 'alaihi wasallam sampai makanan kita terhidang!" Dia berkata, "Kami pernah pergi bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam pada hari penaklukan kota Makkah, beliau mengangkat Khalid bin Walid selaku komandan pasukan sayap kanan, dan mengangkat Zubair menjadi komandan pasukan sayap kiri, serta mengangkat Abu 'Ubaidah mengepalai pasukan pejalan kaki yang di tempatkan di lembah. Kemudian beliau bersabda: "Wahai Abu Hurairah, panggilah orang-orang Anshar untuk mendekat Aku!" Aku langsung memanggil mereka hingga mereka pun segera berkerumun di dekat beliau, lalu belau bersabda: "Wahai orang-orang Anshar, adakah kalian melihat pasukan tentara Quraisy?" mereka menjawab, "Ya." Beliau bersabda: "Perhatikan baik-baik, apabila kalian bertemu dengan mereka besok hari, maka habisilah mereka." sambil memberi isyarat dengan kedua tangannya -meletakkan yang kanan di atas yang kiri-. Kemudian beliau bersabda: "Sampai bertemu di Shafa." Abu Hurairah berkata, "Dan saat itu tidak ada seorang pun yang mendekati mereka melainkan mereka habisi." Abu Hurairah melanjutkan, "Kemudian Rasulullah shallallahu 'alaihi wasallam naik ke bukit Shafa, dan orang-orang Anshar datang sembari mengililingi beliau di Shafa, ketika mereka sedang di Shafa, tiba-tiba Abu Sufyan datang seraya berkata, "Wahai Rasulullah, jika orang-orang Quraisy di habisi semua, maka tidak akan ada lagi orang-orang Quraisy setelah ini." Abu Sufyan mengatakan, "Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa masuk ke rumah Abu Sufyan maka dia aman, barangsiapa meletakkan senjatanya maka dia aman, barangsiapa menutup pintunya maka dia aman." Setelah itu orang-orang Anshar sama berkata, "Agaknya laki-laki ini (Rasulullah) telah dipengaruhi perasaan kasih sayang kepada keluarganya hingga timbul rasa cinta terhadap sanak familinya." Maka turunlah wahyu kepada Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Kaliankah yang mengatakan, 'agaknya laki-laki ini telah dipengaruhi perasaan kasih sayang terhadap keluarganya hingga timbul rasa cinta terhadap sanak familinya?, sekali-kali tidak, lupakah kalian siapa aku? -beliau mengucapkannya hingga tiga kali- aku adalah Muhammad seorang hamba Allah dan Rasul-Nya, aku telah berhijrah kepada Allah dan kepada kalian semua, maka hidup dan matiku bersama kalian." Mereka lantas berkata, "Demi Allah, tidaklah kami mengatakan melainkan karena kami iri dengan Allah dan Rasul-Nya." Beliau bersabda: "Sesungguhnya Allah dan Rasul-Nya membenarkan apa yang kalian katakan dan memaafkan perbuatan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4624</td></tr><tr><td>Arabic No</td><td>1780.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4624</td></tr><tr><td>Arabic No</td><td>1780.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 106</td></tr></tbody></table></div>
 

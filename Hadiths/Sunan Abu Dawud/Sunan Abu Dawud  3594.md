@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: Conciliation between Muslims is pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Sulaiman bin Bilal]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Abdul Wahid Ad Dimasyqi] telah menceritakan kepada kami [Marwan bin Muhammad] telah menceritakan kepada kami [Sulaiman bin Bilal] atau [Abdul Aziz bin Muhammad] -Syeikh merasa ragu- dari [Katsir bin Zaid] dari [Al Walid bin Rabah] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Perjanjian damai diperbolehkan di antara orang-orang Muslim." Ahmad menambahkan, "kecuali perjanjian damai yang menghalalkan sesuatu yang haram atau mengharamkan yang halal." Sedangkan [Sulaiman bin Daud] menambahkan, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang-orang Muslim terikat di atas syarat-syarat mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Примирение (на определённых условиях) /сульх/ между мусульманами разрешается». В версии Ахмада добавлено: «… за исключением примирения, которое объявляет запретное дозволенным, а дозволенное запретным». А Сулейман ибн Дауд добавляет: «Посланник Аллаха ﷺ сказал: “Мусульмане должны соблюдать свои условия”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
 

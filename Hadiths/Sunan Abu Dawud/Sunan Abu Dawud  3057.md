@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Iyad ibn Himar: I presented a she-camel to the Prophet (ﷺ). He asked:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah], telah menceritakan kepada kami [Abu Daud], telah menceritakan kepada kami [Imran], dari [Qatadah], dari [Yazid? bin Abdullah bin Asy Syikhir], dari ['Iyadh bin Himar], ia berkata; aku telah memberi Nabi shallallahu 'alaihi wasallam hadiah seekor unta. Kemudian beliau berkata; apakah engkau telah masuk Islam? Aku katakan; tidak. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya aku telah dilarang dari menerima pertolongan orang-orang musyrikin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3057</td></tr><tr><td>Arabic No</td><td>3057</td></tr><tr><td>Reference</td><td>Book 20 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ияда ибн Химара: «Я подарил Пророку ﷺ верблюдицу, и он спросил: “Ты принял ислам?” Я ответил: “Нет”. Тогда Пророк ﷺ сказал: “Поистине, мне запрещено принимать дары многобожников”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3057</td></tr><tr><td>Arabic No</td><td>3057</td></tr><tr><td>Reference</td><td>Book 20 Hadith 130</td></tr></tbody></table></div>
 

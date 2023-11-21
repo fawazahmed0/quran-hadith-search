@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Yazid ibn Hurmuz said that when Najdah al-Haruri pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami ['Anbasah], telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab], telah mengabarkan kepadaku [Yazid? bin Hurmuz], bahwa Najdah Al Haruri ketika berhaji disaat terjadinya fitnah terhadap Ibnu Az Zubair, ia mengirimkan surat kepada Ibnu Abbas, bertanya kepadanya mengenai saham kaum kerabat, ia berkata; untuk siapakah menurutmu? [Ibnu Abbas] berkata; untuk kerabat Rasulullah shallallahu 'alaihi wasallam, Rasulullah shallallahu 'alaihi wasallam telah membagikan kepada mereka. Dan Umar telah menawarkan kepada kami dari saham tersebut, dan kami melihat saham tersebut bukan hak kami. Kemudian kami mengembalikannya dan kami menolak untuk menerimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2982</td></tr><tr><td>Arabic No</td><td>2982</td></tr><tr><td>Reference</td><td>Book 20 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Язида ибн Хурмуза, что Наджда аль-Харури, отправившись в хадж в период смуты ибн аз-Зубайра, послал к Ибн ‘Аббасу спросить о доле родственников Посланника Аллаха ﷺ: кому она полагается? Ибн ‘Аббас ответил: «Эта доля полагается близким Посланника Аллаха ﷺ он выделил им её. В своё время ‘Умар предложил нам нечто из этой доли, однако мы сочли, что это меньше нашего права, и отвергли его предложение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2982</td></tr><tr><td>Arabic No</td><td>2982</td></tr><tr><td>Reference</td><td>Book 20 Hadith 55</td></tr></tbody></table></div>
 

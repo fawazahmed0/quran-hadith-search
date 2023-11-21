@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah be pleased with him) reported:I heard Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Abdul A'la Abu Hammam] telah menceritakan kepada kami [Sa'id Al Jurairi] dari [Abu Nashrah] dari [Abu Sa'id Al Khudri] dia berkata, "Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam berkhutbah di Madinah, beliau bersabda: "Wahai sekalian manusia, sesungguhnya Allah Ta'ala telah membenci minum khamer (belum ada larang secara tegas), dan Allah pasti akan menurunkan perintah yang tegas mengenai hal itu. Oleh karena itu, siapa yang masih menyimpan khamer hendaknya dijualnya atau dimanfaatkannya." Abu Sa'id melanjutkan, "Tidak berapa lama kemudian, Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah Ta'ala telah mengharamkan khamer, maka siapa saja yang mendengar ayat ini sedangkan dia masih memiliki persiadaan khamer, ia tidak boleh meminumnya atau dijualnya." Maka orang-orang memadati Kota Madinah dengan membawa persediaan khamer yang ada lalu mereka menumpahkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4043</td></tr><tr><td>Arabic No</td><td>1578</td></tr><tr><td>Reference</td><td>Book 22 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4043</td></tr><tr><td>Arabic No</td><td>1578</td></tr><tr><td>Reference</td><td>Book 22 Hadith 82</td></tr></tbody></table></div>
 

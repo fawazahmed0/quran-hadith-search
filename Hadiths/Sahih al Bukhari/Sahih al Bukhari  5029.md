@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:A lady came to the Prophet (ﷺ) and declared that she ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin 'Aun] Telah menceritakan kepada kami [Hammad] dari [Abu Hazim] dari [Sahl bin Sa'd] ia berkata; Seorang wanita mendatangi Nabi shallallahu 'alaihi wasallam dan berkata bahwasanya, ia telah menyerahkan dirinya untuk Allah dan Rasul-Nya shallallahu 'alaihi wasallam. Maka beliau bersabda: "Aku tidak berhasrat terhadap wanita itu." Tiba-tiba seorang laki-laki berkata, "Nikahkanlah aku dengannya." Beliau bersabda: "Berikanlah mahar (berupa) pakaian padanya." Laki-laki itu berkata, "Aku tidak punya." Beliau pun bersabda kembali, "Berikanlah meskipun hanya berupa cincin besi." Ternyata ia pun tak punya. Kemudian beliau bertanya, "Apakah kamu memiliki hafalan Al Qur'an?" laki-laki itu menjawab, "Ya, surat ini dan ini." Maka beliau bersabda: "Aku telah menikahkanmu dengan wanita itu, dengan mahar hafalan Al Qur'anmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5029</td></tr><tr><td>Arabic No</td><td>5029</td></tr><tr><td>Reference</td><td>Book 66 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д сказал: «Однажды какая-то женщина пришла к Пророку ﷺ и сказала, что дарит себя Аллаху и Его посланнику. Однако он ответил: “Я не нуждаюсь в женщинах”. Тогда один человек сказал: “Жени меня на ней”. Пророк ﷺ сказал: “Подари ей одежду”. Но мужчина ответил: “Я не могу её подарить”. Пророк ﷺ сказал: “Подари ей хотя бы железный перстень”. Но тот снова сказал, что не может этого сделать. Затем Пророк ﷺ сказал: “Что из Корана ты знаешь (наизусть)?” Он ответил: “Такую-то и такую-то (суру)”. Тогда Пророк ﷺ сказал: “Я выдаю её за тебя на основании того, что ты знаешь из Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5029</td></tr><tr><td>Arabic No</td><td>5029</td></tr><tr><td>Reference</td><td>Book 66 Hadith 51</td></tr></tbody></table></div>
 

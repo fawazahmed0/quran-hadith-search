@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al-'As:Allah's Messenger (ﷺ) said, "O 'Abdulla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Al Auza'i] ia berkata; Telah menceritakan kepadaku [Yahya bin Abu Katsir] ia berkata; Telah menceritakan kepadaku [Abu Salamah bin Abdurrahman] ia berkata; Telah menceritakan kepadaku [Abdullah bin Amru bin Ash] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Abdullah, bukankah telah diberitakan bahwa kamu berpuasa sepanjang hari dan qiyamullail semalan suntuk?" aku menjawab, "Benar wahai Rasulullah." Beliau bersabda: "Janganlah kamu melakukan hal itu. Berpuasalah dan juga berbukalah. Tunaikanlah qiyamullail namun sisihkan pula waktu untuk tidur. Sebab bagi jasadmu juga punya hak atas dirimu, kedua matamu juga punya hak atasmu dan bagi isterimu juga punya hak atas dirimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5199</td></tr><tr><td>Arabic No</td><td>5199</td></tr><tr><td>Reference</td><td>Book 67 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр ибн аль-‘Ас сказал: «(Однажды) Посланник Аллаха ﷺ сказал мне: “О ‘Абдуллах, мне сообщили, что ты постишься днём и совершаешь молитву по ночам”. Я сказал: “Да, о Посланник Аллаха (так я и делаю)”. Он сказал: “Не делай так, однако иногда постись, а иногда не постись, иногда совершай ночную молитву, а иногда спи. Поистине, у твоего тела есть на тебя право, и у глаз твоих есть на тебя право, и у твоей жены есть на тебя право»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5199</td></tr><tr><td>Arabic No</td><td>5199</td></tr><tr><td>Reference</td><td>Book 67 Hadith 133</td></tr></tbody></table></div>
 

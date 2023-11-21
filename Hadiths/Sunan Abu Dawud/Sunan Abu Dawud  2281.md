@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr ibn Muhajir reported on the authority of his father:Asma', daughter of Yazid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Abdul Hamid Al Bahrani], telah menceritakan kepada kami [Yahya bin Shalih], telah menceritakan kepada kami [Isma'il bin 'Ayyasy], telah menceritakan kepadaku ['Amr bin Muhajir] dari [ayahnya] dari [Asma' binti Yazid bin As Sakan Al Anshariyyah] bahwa ia telah dicerai pada zaman Rasulullah shallallahu 'alaihi wasallam dan wanita yang dicerai tidak memiliki 'iddah, kemudian Allah 'azza wajalla menurunkan wahyu mengenai 'iddah karena perceraian ketika Asma' dicerai, ia adalah wanita pertama yang karenanya diturunkan ayat tentang 'iddah wanita yang dicerai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2281</td></tr><tr><td>Arabic No</td><td>2281</td></tr><tr><td>Reference</td><td>Book 13 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Асмы бинт Язид ибн ас-Сакан аль-Ансарийя, да будет доволен ею Аллах, что муж дал ей развод во времена Посланника Аллаха ﷺ, а в то время разведённым ещё не была предписана ‘идда, и Всемогущий и Великий Аллах ниспослал после её развода предписание об ‘идде разведённой, и она стала первой разведённой, относительно которой было ниспослано предписание об ‘идде после развода
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2281</td></tr><tr><td>Arabic No</td><td>2281</td></tr><tr><td>Reference</td><td>Book 13 Hadith 107</td></tr></tbody></table></div>
 

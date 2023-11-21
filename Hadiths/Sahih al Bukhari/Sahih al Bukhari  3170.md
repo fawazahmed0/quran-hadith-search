@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Asim:I asked Anas about the Qunut (i.e. invocation in the prayer). Ana
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu an-Nu'man] telah bercerita kepada kami [Tsabit bin Azid] telah bercerita kepada kami ['Ashim] berkata aku bertanya kepada [Anas radliallahu 'anhu] tentang (membaca do'a) qunut sebelum ruku'. Aku katakan; "Seseorang berpendapat bahwa anda mengatakan qunut setelah ruku'?". Maka dia menjawab; "Orang itu berdusta". Kemudian dia bercerita kepada kami dari Nabi shallallahu 'alaihi wasallam bahwa Beliau pernah membaca do'a qunut setelah ruku' untuk memohon kebinasaan orang-orang yang masih hidup dari Bani Sulaim". Dia berkata; "Beliau mengutus empat puluh atau tujuh puluh, (dia ragu jumlah pastinya), para penghapal al-Qur'an kepada beberapa orang musyrikin lalu Beliau menawarkan para penghafal al-Qur'an itu kepada mereka namun mereka membantainya. Saat itu antara mereka dan Nabi shallallahu 'alaihi wasallam sudah ada perjanjian. Aku belum pernah melihat Beliau marah seperti marahnya Beliau terhadap para pembantai itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3170</td></tr><tr><td>Arabic No</td><td>3170</td></tr><tr><td>Reference</td><td>Book 58 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Асым сказал: «(Однажды) я спросил у Анаса (об обращениях к Аллаху с мольбами) кунут, и (в ответ) он сказал: “(Кунут совершается) до земного поклона”. Я сказал: “А такой-то утверждает, что ты сказал, будто это делается после совершения поясного поклона”. (Тогда Анас) сказал: “Он ошибся”. Затем он рассказал мне, что Пророк ﷺ совершал кунут после поясных поклонов (в течение одного) месяца против людей из бану сулейм. (Дело в том, что в своё время Пророк ﷺ) направил сорок или семьдесят человек, которых называли “чтецами”, к людям из числа многобожников, но они убили их, хотя между ними и Пророком ﷺ был мирный договор. И я никогда не видел, чтобы Пророк ﷺ скорбел по кому-либо так, как по ним (то есть по чтецам)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3170</td></tr><tr><td>Arabic No</td><td>3170</td></tr><tr><td>Reference</td><td>Book 58 Hadith 12</td></tr></tbody></table></div>
 

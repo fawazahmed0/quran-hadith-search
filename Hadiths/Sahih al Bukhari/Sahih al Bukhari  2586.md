@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nu'man bin Bashir:that his father took him to Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Humaid bin 'Abdurrahman] dan [Muhammad bin An Nu'man bin Basyir] bahwa keduanya menceritakan kepada [An Nu'man bin Basyir] bahwa bapaknya datang bersamanya menemui Rasulullah shallallahu 'alaihi wasallam lalu berkata; "Aku hadiahkan anakku ini sebagai ghulam (pembantu) ". Maka Beliau bertanya: "Apakah semua anakmu kamu hadiahkan seperti ini?". Dia menjawab: "Tidak". Maka Beliau bersabda: "Kalau begitu, lebih baik kamu bawa pulang kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2586</td></tr><tr><td>Arabic No</td><td>2586</td></tr><tr><td>Reference</td><td>Book 51 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Ну‘ман ибн Башир рассказал, что его отец привёл его к Посланнику Аллаха ﷺ и сказал: «Я подарил этому своему сыну слугу». Пророк ﷺ спросил его: «Ты сделал такие же подарки всем своим детям?» Он ответил: «Нет». Пророк ﷺ сказал: «Тогда верни его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2586</td></tr><tr><td>Arabic No</td><td>2586</td></tr><tr><td>Reference</td><td>Book 51 Hadith 20</td></tr></tbody></table></div>
 

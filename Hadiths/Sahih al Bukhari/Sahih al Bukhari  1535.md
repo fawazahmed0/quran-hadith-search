@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Musa bin 'Uqba:Salim bin 'Abdullah's father said, "The Prophet (ﷺ) sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar] telah menceritakan kepada kami [Fudhail bin Sulaiman] telah menceritakan kepada kami [Musa bin 'Uqbah] berkata, telah menceritakan kepada saya [Salim bin 'Abdullah] dari [bapaknya] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam: "Diperlihatkan kepada Beliau ketika Beliau singgah untuk beristirahat di Dzul Hulaifah di dasar lembah dan dikatakan kepada Beliau; "Sesungguhnya kamu sekarang sedang berada di Bathha' yang penuh berkah". Saat itu Salim beristirahat bersama kami di tempat singgahnya 'Abdullah ketika sedang mencari tempat singgah yang tepat untuk peristirahatan Rasulullah Shallallahu'alaihiwasallam, yaitu pada posisi bawah dari masjid yang ada di dasar lembah itu. Yang letaknya berada di tengah antara mereka dan jalan yang mereka lalui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 25 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал, что, когда он остановился в Зуль-Хулейфе, ему было сказано во сне: «Поистине, ты — в долине благословенной!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 25 Hadith 23</td></tr></tbody></table></div>
 

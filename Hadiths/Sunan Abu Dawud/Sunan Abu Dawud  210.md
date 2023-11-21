@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sahl ibn Hunayf: I felt greatly distressed by the frequent flowing of p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah mengabarkan kepada kami [Muhammad bin Ishaq] telah menceritakan kepada saya [Sa'id bin 'Ubaid bin As-Sabbaq] dari [Ayahnya] dari [Sahl bin Hunaif] dia berkata; Saya selalu mengeluarkan madzi, karena itu saya selalu mandi. Maka saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang hal tersebut. Beliau menjawab: "Sesungguhnya cukup bagimu berwudhu dari hal tersebut." Aku bertanya kembali; Wahai Rasulullah, lalu bagaimana dengan madzi yang mengenai pakaianku? Beliau menjawab: "Cukuplah kamu ambil air sepenuh telapak tanganmu, lalu percikkan pada bagian pakaian yang kamu ketahui terkena madzi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>210</td></tr><tr><td>Arabic No</td><td>210</td></tr><tr><td>Reference</td><td>Book 1 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахл ибн Хунайф сказал: «У меня часто выделялась аль-мазью, из-за которого я много купался. Я спросил об этом Посланника Аллаха ﷺ и он ответил: “Тебе достаточно будет совершить омовение /вудуъ/”. Я спросил: “О Посланник Аллаха, а как быть с тем, что попало на мою одежду?” Он ответил: “Тебе будет достаточно набрать пригоршню воды и опрыснуть ею свою одежду в том месте, куда она попала”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>210</td></tr><tr><td>Arabic No</td><td>210</td></tr><tr><td>Reference</td><td>Book 1 Hadith 210</td></tr></tbody></table></div>
 

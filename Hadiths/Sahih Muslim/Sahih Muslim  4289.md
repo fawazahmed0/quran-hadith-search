@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying that Sulaiman b. Dawud (onc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Syababah] telah menceritakan kepadaku [Warqa'] dari [Abu Az Zinnad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sulaiman bin Daud pernah berkata, 'Sungguh aku akan menggilir sembilan puluh isteriku dalam semalam, yang nantinya mereka semua melahirkan pejuang yang berjuang di jalan Allah'. Maka sahabatnya (Malaikat) berkata kepadanya, 'Ucapkanlah Insya Allah.' Namun dia tidak juga mengucapkan Insya Allah, dan dia tetap menggilir mereka semua, ternyata para isterinya tidak ada yang melahirkan kecuali seorang isteri yang melahirkan anak yang cacat. Dan demi Dzat yang jiwa Muhammad berada digenggaman-Nya, sekiranya dia mengucapkan Insya Allah niscaya dia akan mendapatkan pejuang-pejuang yang akan berjihad di jalan Allah." Dan telah menceritakan kepadaku [Suwaid bin Sa'id] telah menceritakan kepada kami [Hafsh bin Maisarah] dari [Musa bin 'Uqbah] dari [Abu Az Zinnad] dengan isnad seperti itu, namun dia menyebutkan, "Setiap mereka akan melahirkan anak laki-laki yang nantinya akan berjihad di jalan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4289</td></tr><tr><td>Arabic No</td><td>1654.05</td></tr><tr><td>Reference</td><td>Book 27 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4289</td></tr><tr><td>Arabic No</td><td>1654.05</td></tr><tr><td>Reference</td><td>Book 27 Hadith 36</td></tr></tbody></table></div>
 

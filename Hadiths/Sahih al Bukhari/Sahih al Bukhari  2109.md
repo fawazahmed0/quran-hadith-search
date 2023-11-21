@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "The seller and the buyer have 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Dua orang yang melakukan jual beli boleh melakukan khiyar (pilihan untuk melangsungkan atau membatalkan) dalam jual beli selama keduanya belum berpisah". Atau Beliau bersabda: "(Selama belum berpisah) seorang dari rekannya". Atau Beliau bersabda: "Jual beli menjadi khiyar (terjadi dengan pilihan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2109</td></tr><tr><td>Arabic No</td><td>2109</td></tr><tr><td>Reference</td><td>Book 34 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Поистине, продавец и покупатель имеют право выбора завершить или отменить сделку до тех пор, пока не расстанутся, или один из них не скажет другому: “Выбирай!”», — а возможно он сказал: «кроме продажи с условием выбора»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2109</td></tr><tr><td>Arabic No</td><td>2109</td></tr><tr><td>Reference</td><td>Book 34 Hadith 62</td></tr></tbody></table></div>
 

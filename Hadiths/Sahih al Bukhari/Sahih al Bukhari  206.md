@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Al-Mughira:My father said, "Once I was in the company of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Zakaria] dari ['Amir] dari ['Urwah bin Al Mughirah bin Syu'bah] dari [Bapaknya] ia berkata, "Aku pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, aku lalu merunduk untuk melepas kedua sepatunya, namun beliau bersabda: "Biarkan saja, karena aku mengenakannya dalam keadaan suci." Dan beliau hanya mengusap sepatunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>206</td></tr><tr><td>Arabic No</td><td>206</td></tr><tr><td>Reference</td><td>Book 4 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугъира ибн Шу‘ба, да будет доволен им Аллах, сказал: «(Однажды,) находясь вместе с Пророком ﷺ в пути, я нагнулся, чтобы снять с него кожаные носки, однако он сказал: “Оставь, ибо я надел их на чистые ноги”, после чего протёр их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>206</td></tr><tr><td>Arabic No</td><td>206</td></tr><tr><td>Reference</td><td>Book 4 Hadith 72</td></tr></tbody></table></div>
 

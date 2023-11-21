@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: I saw no one cooking food like Safiyyah. She coo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepadaku [Fulait Al 'Amiri] dari [Jasrah binti Dajajah] ia berkata, " [Aisyah] radliallahu 'anha berkata, "Aku tidak melihat pembuat makanan seperti Shafiyyah, ia membuat makanan untuk Rasulullah shallallahu 'alaihi wasallam lalu mengirimkannya kepada beliau. Maka aku merasa gemetar, hingga aku pun memecahkan bejana tersebut. Kemudian aku katakan, "Wahai Rasulullah, apa hukuman dari apa yang telah aku perbuat?" Beliau menjawab: "Bejana yang sama, dan makanan yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 24 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Я никогда не видела женщину, которая готовила бы лучше, чем Сафийя. И однажды она приготовила еду для Посланника Аллаха ﷺ и послала её ему. Меня же охватила ревность, и я разбила блюдо. Потом я спросила: “О Посланник Аллаха, как мне искупить то, что я сделала?” Он ответил: “За блюдо такое же блюдо, а за еду такая же еда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 24 Hadith 153</td></tr></tbody></table></div>
 

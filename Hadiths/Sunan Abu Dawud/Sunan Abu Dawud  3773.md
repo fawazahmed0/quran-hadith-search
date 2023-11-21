@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Busr: The Prophet (ﷺ) had a bowl called gharra'. It was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Utsman Al Himshi] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Muhammad bin Abdurrahman bin 'Irq] telah menceritakan kepada kami [Abdullah bin Busr] ia berkata, "Nabi shallallahu 'alaihi wasallam memiliki nampan yang disebut Gharra', dan hanya bisa diangkat oleh empat orang laki-laki. Di pagi hari saat mereka telah melaksanakan shalat dluha, nampan tersebut dihadirkan dan telah penuh dengan bubur. Orang-orang pun mengerumuninya, ketika jumlah mereka telah banyak, Rasulullah shallallahu 'alaihi wasallam duduk di atas lututnya. Seorang Arab badui lalu berkata, "Duduk apakah ini?" Nabi shallallahu 'alaihi wasallam menjawab: "Sesungguhnya Allah telah menjadikan aku seorang hamba yang mulia, bukan seorang yang otoriter dan pembangkang." Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda lagi: "Makanlah dari sekitarnya dan biarkan bagian atasnya maka akan diberkahi padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3773</td></tr><tr><td>Arabic No</td><td>3773</td></tr><tr><td>Reference</td><td>Book 28 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Бусра, да будет доволен им Аллах, что у Пророка ﷺ было большое блюдо «аль-гарра», которое несли четыре человека, и однажды после совершения молитвы-духа принесли это блюдо, на которое уже была положена еда, и люди собрались вокруг него. Посланник Аллаха ﷺ тоже опустился на колени и сел. Один бедуин спросил: «Что это за поза?» Пророк ﷺ сказал: «Поистине, Аллах сделал меня щедрым рабом, а не упрямым и своенравным тираном!» А потом Посланник Аллаха ﷺ сказал: «Ешьте то, что по краям (и находится перед вами), и оставляйте серединку, ибо тогда (эта еда) будет сделана благодатной для вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3773</td></tr><tr><td>Arabic No</td><td>3773</td></tr><tr><td>Reference</td><td>Book 28 Hadith 38</td></tr></tbody></table></div>
 

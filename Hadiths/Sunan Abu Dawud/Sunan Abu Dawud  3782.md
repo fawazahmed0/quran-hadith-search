@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said:A tailor invited the Messenger of Allah (ﷺ) to a meal which
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] bahwa ia mendengar [Anas bin Malik] berkata, "Seorang penjahit mengundang Rasulullah shallallahu 'alaihi wasallam untuk menghadiri makanan yang telah ia buat." Anas berkata, "Lalu aku pergi bersama Rasulullah shallallahu 'alaihi wasallam menghadiri makanan tersebut, kemudian makanan tersebut didekatkan kepada Rasulullah shallallahu 'alaihi wasallam yang berupa roti yang terbuat dari gandum serta kuah yang padanya terdapat labu dan dendeng." Anas berkata, "Aku melihat Rasulullah shallallahu 'alaihi wasallam mencari-cari labu yang ada di nampan tersebut, maka semenjak itu aku suka makan labu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5436) Sahih Muslim (2041)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3782</td></tr><tr><td>Arabic No</td><td>3782</td></tr><tr><td>Reference</td><td>Book 28 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт: «В своё время один портной пригласил Посланника Аллаха ﷺ отведать еды, которую он приготовил». Анас сказал: «И я пошёл на это угощение вместе с Посланником Аллаха ﷺ. Портной подал Посланнику Аллаха ﷺ хлеб и суп, в котором были ломтики тыквы и кусочки сушёного мяса, и я видел, как Пророк ﷺ брал ломтики этой тыквы со своего края блюда. И с того дня я полюбил тыкву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5436) Sahih Muslim (2041)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3782</td></tr><tr><td>Arabic No</td><td>3782</td></tr><tr><td>Reference</td><td>Book 28 Hadith 47</td></tr></tbody></table></div>
 

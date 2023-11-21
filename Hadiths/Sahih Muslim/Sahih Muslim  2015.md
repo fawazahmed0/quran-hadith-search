@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It was narrated that Umm Hisham bin Harithah bin An-Nu'man said:"Our oven and th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [bapakku] dari [Muhammad bin Ishaq] ia berkata, telah menceritakan kepadaku [Abdullah bin Abu Bakar bin Muhammad bin Amru bin Hazm Al Anshari] dari [Yahya bin Abdullah bin Abdurrahman bin Sa'd bin Zurarah] dari [Ummi Hisyam binti Haritsah bin Nu'man] ia berkata, "Tempat pembuatan roti kami dan tempat pembuatan roti Rasulullah shallallahu 'alaihi wasallam adalah sama selama dua atau satu tahun lebih, dan tidaklah saya menghafal surat 'QAAF WAL QUR'ANIL MAJIID' kecuali dari lisan Rasulullah shallallahu 'alaihi wasallam, beliau membacanya pada setiap hari Jum'at di atas mimbar saat beliau menyampaikan khutbah kepada manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2015</td></tr><tr><td>Arabic No</td><td>873.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Умм Хишам бинт Хариса ибн ан-Ну’ман сказала: «В течение двух лет или года с лишним мы пользовались одной печью с Посланником Аллаха ﷺ, и я научилась (суре, в которой говорится) “Каф. Клянусь славным Кораном!”, только от Посланника Аллаха ﷺ, читавшего её с минбара каждую пятницу, когда он обращался к людям с проповедью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2015</td></tr><tr><td>Arabic No</td><td>873.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 65</td></tr></tbody></table></div>
 

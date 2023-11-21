@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that:Allah's Messenger (ﷺ) had a Persian neighbour who made exce
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Yazid bin Harun]; Telah mengabarkan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam mempunyai tetangga seorang bangsa Persia yang pandai memasak. Pada suatu hari dia memasak hidangan untuk Rasulullah shallallahu 'alaihi wasallam. Setelah itu dia datang mengundang beliau. Beliau bertanya: "Aisyah bagaimana?" orang itu menjawab; 'Dia tidak! ' Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau begitu aku juga tidak!" Orang itu mengulangi undangannya kembali. Rasulullah shallallahu 'alaihi wasallam bertanya: "'Aisyah bagaimana? '" orang itu menjawab; 'Dia tidak! ' Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau begitu aku juga tidak!" Orang itu mengulangi undangannya pula. Nabi shallallahu 'alaihi wasallam bertanya: "Aisyah bagaimana?" Jawab orang itu pada ketiga kalinya; 'Ya, Aisyah juga.' Maka Rasulullah pergi bersama Aisyah ke rumah tetangga itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5312</td></tr><tr><td>Arabic No</td><td>2037</td></tr><tr><td>Reference</td><td>Book 36 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5312</td></tr><tr><td>Arabic No</td><td>2037</td></tr><tr><td>Reference</td><td>Book 36 Hadith 186</td></tr></tbody></table></div>
 

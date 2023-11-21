@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas narrated from the Apostle (ﷺ) about the major sins. He (the Holy Prophet)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Habib al-Haritsi] telah menceritakan kepada kami [Khalid] -yaitu Ibnu al-Harits- telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepada kami [Ubaidullah bin Abu Bakar] dari [Anas] dari Nabi shallallahu 'alaihi wasallam tentang dosa besar, beliau bersabda: "Syirik kepada Allah, durhaka terhadap orang tua, membunuh jiwa dan berkata dengan kata-kata palsu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>260</td></tr><tr><td>Arabic No</td><td>88.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что Пророк ﷺ сказал о больших грехах: «(Наиболее тяжкими грехами являются:) придавание Аллаху сотоварищей, непочтительное отношение к родителям, убийство (невинной) души и лживое слово”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>260</td></tr><tr><td>Arabic No</td><td>88.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 166</td></tr></tbody></table></div>
 

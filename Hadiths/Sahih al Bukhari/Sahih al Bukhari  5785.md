@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:The solar eclipse occurred while we were sitting with the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] telah mengabarkan kepada kami [Abdul A'la] dari [Yunus] dari [Al Hasan] dari [Abu Bakrah] radliallahu 'anhu dia berkata; "Ketika kami berada di samping Nabi shallallahu 'alaihi wasallam, tiba-tiba terjadi gerhana Matahari, maka beliau segera berdiri menuju masjid, dan menarik pakainnya karena tergesa-gesa hingga tiba dimasjid. Lalu orang-orang pun segera berdiri di sisinya dan beliau mengerjakan shalat dua rakaat. Setelah matahari terang, beliau berkhutbah di hadapan kami seraya bersabda: "Matahari dan bulan tidak mengalami gerhana karena kematian atau kelahiran seseorang, tetapi keduanya merupakan tanda diantara tanda-tanda kebesaran Allah. Jika kalian melihat kedua gerhana tersebut, maka shalatlah dan berdoalah hingga gerhana tersingkap dari kalian (nampak kembali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5785</td></tr><tr><td>Arabic No</td><td>5785</td></tr><tr><td>Reference</td><td>Book 77 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, сказал: «(Однажды, когда) мы находились у Пророка ﷺ, началось солнечное затмение. Пророк ﷺ поднялся (со своего места,) быстро направился к мечети, волоча за собой свою накидку, и вошёл туда. Мы также вошли (в мечеть, где) он совершал с нами молитву в два рак‘ата до тех пор, пока солнце не появилось снова, (закончив же молитву,) Пророк ﷺ повернулся к нам и сказал: “Поистине, солнце и луна являются знамениями из знамений Аллаха, поэтому, когда вы увидите (подобное), совершайте молитву и взывайте к Аллаху, пока затмение не закончится”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5785</td></tr><tr><td>Arabic No</td><td>5785</td></tr><tr><td>Reference</td><td>Book 77 Hadith 3</td></tr></tbody></table></div>
 

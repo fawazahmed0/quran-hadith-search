@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: When the Messenger of Allah (ﷺ) finished his food
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abu Hasyim Al Wasithi] dari [Isma'il bin Rabah] dari [Ayahnya atau selainnya] dari [Abu Sa'id Al Khudri] bahwa Nabi shallallahu 'alaihi wasallam jika selesai makan beliau mengucapkan: 'Al HAMDULILLAAHILLADZII ATH'AMANAA WA SAQAANAA WA JA'ALANAA MUSLIMIIN (Segala puji bagi Allah Yang telah memberi makan serta minum kami dan menjadikan kami orang-orang muslim)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3850</td></tr><tr><td>Arabic No</td><td>3850</td></tr><tr><td>Reference</td><td>Book 28 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ обычно говорил после еды: «Хвала Аллаху, Который накормил нас, напоил и сделал нас мусульманами /Аль-хамду ли-Лляхи-ллязи ат‘амана ва сакана ва джааляна муслимина/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3850</td></tr><tr><td>Arabic No</td><td>3850</td></tr><tr><td>Reference</td><td>Book 28 Hadith 115</td></tr></tbody></table></div>
 

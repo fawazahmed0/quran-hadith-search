@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Barza reported that he said to Allah's Messenger (ﷺ):Allah's Messenger, I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Abu Bakr bin Syu'aib bin Al Habhab] dari [Abu Al Wazi' Ar Rasibi] dari [Abu Barzah Al Aslami] bahwa Abu Barzah berkata; Aku berkata kepada Rasulullah shallallahu 'alaihi wasallam; 'Ya Rasulullah, aku tidak tahu apakah aku masih tetap hidup sepeninggalmu atau tidak, maka bekalilah aku dengan sesuatu yang dengannya Allah memberikan manfaat kepadaku. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Lakukanlah ini dan itu.-Abu Bakr lupa tentang apa yang diperintahkan beliau kepadanya.- juga orang itu disuruh menyingkirkan benda berbahaya dari jalan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6674</td></tr><tr><td>Arabic No</td><td>2618.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6674</td></tr><tr><td>Arabic No</td><td>2618.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 171</td></tr></tbody></table></div>
 

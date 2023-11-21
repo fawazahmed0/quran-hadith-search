@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:The Messenger of Allah (ﷺ) came to us and said: "How 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Muawiyah] dari [al-A'masy] dari [al-Musayyab bin Rafi'] dari [Tamim bin Tharafah] dari [Jabir bin Samurah] dia berkata, "Mengapa aku melihat kalian mengangkat tangan kalian, seakan-akan ia adalah ekor kuda yang tidak bisa diam. Kalian diamlah di dalam shalat." Perawi berkata, "Kemudian beliau keluar melewati kami, lalu beliau melihat kami bergerombol, maka beliau bersabda, 'Mengapa aku melihat kalian bercerai berai'." Perawi berkata, "Kemudian Rasulullah keluar menemui kami seraya bersabda, 'Mengapa kalian tidak berbaris sebagaimana malaikat berbaris di sisi Rabbnya? ' Maka kami berkata, 'Wahai Rasulullah, bagaimana malaikat berbaris di sisi Rabbnya? ' Beliau bersabda, 'Mereka menyempurnakan barisan awal dan menempelkan diri dalam barisan'." Dan telah menceritakan kepadaku [Abu Sa'id al-Asyajj] telah menceritakan kepada kami [Waki'] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus] semuanya berkata, telah menceritakan kepada kami [al-A'masy] dengan isnad ini hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>968</td></tr><tr><td>Arabic No</td><td>430.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Самура сказал: «(Однажды) Посланник Аллаха ﷺ вышел к нам и сказал: “Почему вы поднимаете руки подобно хвостам, (что задирают) норовистые лошади? Сохраняйте спокойствие во время молитвы!” Выйдя к нам (в другой раз) и увидев, что мы (собрались отдельными) кружками, он сказал: “Почему вы разделились?” Выйдя к нам (в третий раз), он сказал: “Не выстроиться ли вам рядами так же, как ангелы выстраиваются рядами пред своим Господом?” Мы стали спрашивать: “О Посланник Аллаха, а как ангелы выстраиваются рядами пред своим Господом?” на что он ответил: “Они до конца заполняют первые ряды и смыкают все ряды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>968</td></tr><tr><td>Arabic No</td><td>430.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 130</td></tr></tbody></table></div>
 

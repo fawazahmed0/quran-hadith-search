@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Let the best among you call the adhan for you, and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Husain bin Isa Al-Hanafi] telah menceritakan kepada kami [Al-Hakam bin Aban] dari [Ikrimah] dari [Ibnu Abbas] dia berkata; Rasulullah Shallallahu alaihi wasallam bersabda: "Yang mengumandangkan adzan hendaknya adalah orang yang terpilih di antara kalian dan yang menjadi imam hendaknya yang lebih ahli bacaan Al Qurannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>590</td></tr><tr><td>Arabic No</td><td>590</td></tr><tr><td>Reference</td><td>Book 2 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Посланник Аллаха ﷺ сказал: “Пусть возвещает азан лучший из вас, а имамом пусть будет тот, кто лучше из вас знает Коран”».Также этот хадис передал Ибн Маджах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>590</td></tr><tr><td>Arabic No</td><td>590</td></tr><tr><td>Reference</td><td>Book 2 Hadith 200</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Mu'âwiya Ibn Abî Soufyân (que Dieu l'agrée), Humayd Ibn 'Abdourrahmân
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Humaid bin Abdurrahman] bahwa ia mendengar [Mu'awiyah bin Abu Sufyan] yang sedang menyampaikan khutbah di Madinah tepatnya pada hari 'Asyura'. Kemudian ia pun berkata, "Di manakah ulama kalian wahai penduduk Madinah? Saya telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda berkenaan dengan hari ini. Hari ini adalah hari 'Asyura', dan Allah tidaklah mewajibkan puasa padanya, namun saya saat ini sedang berpuasa. Maka siapa di antara kalian suka untuk berpuasa silahkan, dan siapa yang lebih suka untuk berbuka maka sialahkan." Telah menceritakan kepada kami [Abu Thahir] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Malik bin Anas] dari [Ibnu Syihab] dalam isnad ini, semisalnya. Dan Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dengan isnad ini, ia mendengar Nabi shallallahu 'alaihi wasallam bersabda sebagaimana hari ini: "Sesungguhnya saya sedang berpuasa, siapa di antara kalian yang ingin berpuasa, maka berpuasalah." Dan ia tidak menyebutkan yang tersisa dari haditsnya Malik dan Yunus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2653</td></tr><tr><td>Arabic No</td><td>1129.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2653</td></tr><tr><td>Arabic No</td><td>1129.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 159</td></tr></tbody></table></div>
 

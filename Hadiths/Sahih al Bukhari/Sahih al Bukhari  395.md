@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Dinar:I asked Ibn 'Umar, "Can a person who has performed the T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaid] berkata, telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepada kami ['Amru bin Dinar] berkata, "Kami pernah bertanya kepada [Ibnu 'Umar] tentang seseorang yang thawaf di Ka'bah untuk 'Umrah tetapi tidak melakukan sa'i antara Shafa dan Marwah. Apakah dia boleh berhubungan (jima') dengan isterinya?" Maka Ibnu 'Umar berkata, "Nabi shallallahu 'alaihi wasallam datang Makkah, lalu thawaf mengelilingi Ka'bah tujuh kali, shalat di sisi Maqam dua rakaat, lalu sa'i antara antara Shafa dan Marwah. Dan sungguh bagi kalian ada suri tauladan yang baik pada diri Rasulullah." Dan kami pernah bertanya kepada [Jabir bin 'Abdullah] tentang masalah ini. Maka ia menjawab, "Jangan sekali-kali ia mendekati isterinya hingga ia melaksanakan sa'i antara bukit Shafa dan Marwah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>395</td></tr><tr><td>Arabic No</td><td>395</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Динар сказал: «(Однажды) мы спросили Ибн ‘Умара, да будет доволен Аллах ими обоими: “Может ли спать со своей женой человек, совершивший обход Каабы во время ‘умры, но не пробежавший между (холмами) ас-Сафа и аль-Марва?”, и он ответил: “Прибыв в (Мекку), Пророк ﷺ семь раз обошёл вокруг Каабы, совершил намаз в два рак‘ата позади места (Ибрахима) и пробежал между (холмами) ас-Сафа и аль-Марва, а Посланник Аллаха являл собой для вас прекрасный пример”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>395</td></tr><tr><td>Arabic No</td><td>395</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

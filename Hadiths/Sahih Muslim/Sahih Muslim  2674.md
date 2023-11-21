@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah be pleased with him) reported that the Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Abdul Aziz bin Al Mukhtar] telah menceritakan kepada kami [Amru bin Yahya] dari [bapaknya] dari [Abu Sa'id Al Khudri] radliallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang puasa pada dua hari, yaitu; pada hari raya Iedul fithri dan An Nahr (Iedul Adlha)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2674</td></tr><tr><td>Arabic No</td><td>827.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2674</td></tr><tr><td>Arabic No</td><td>827.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 180</td></tr></tbody></table></div>
 

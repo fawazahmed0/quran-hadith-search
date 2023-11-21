@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ If anyone performs ablution, doing it well, then come to the Friday prayer, list
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berwudlu' dengan menyempurnakan wudlu'nya, kemudian mendatangi shalat jum'at, mendengarkan dan memperhatikan (Khutbah Jum'at), maka dosa-dosanya akan di ampuni hingga jum'at berikutnya, di tambah tiga hari. Dan barangsiapa bermain kerikil, sungguh (jum'atnya) telah sia-sia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (758)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1050</td></tr><tr><td>Arabic No</td><td>1050</td></tr><tr><td>Reference</td><td>Book 2 Hadith 661</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тому, кто должным образом совершит омовение, затем придёт на пятничную молитву и станет слушать проповедь, храня молчание, простятся (малые) грехи, которые он совершил между этой и предыдущей пятничной молитвой, а также в течение ещё трёх дней. А кто трогал камни, тот как будто занимался пустословием»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (758)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1050</td></tr><tr><td>Arabic No</td><td>1050</td></tr><tr><td>Reference</td><td>Book 2 Hadith 661</td></tr></tbody></table></div>
 

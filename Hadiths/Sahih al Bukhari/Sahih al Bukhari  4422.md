@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Humaid:We returned in the company of the Prophet (ﷺ) from the Gha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] Telah menceritakan kepada kami [Sulaiman] dia berkata; Telah menceritakan kepadaku [Amru bin Yahya] dari [Abbas bin Sahal bin Sa'ad] dari [Abu Humaid] dia berkata; "Kami pulang dari perang Tabuk hingga ketika kami sudah sampai di Madinah beliau bersabda: 'Inilah kota yang baik. Dan ini adalah gunung Uhud yaitu gunung yang mencintai kita dan kita pun mencintainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4422</td></tr><tr><td>Arabic No</td><td>4422</td></tr><tr><td>Reference</td><td>Book 64 Hadith 444</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хумейд сказал: «Когда мы возвращались с Пророком ﷺ с похода на Табук и приблизились к Медине, он (Пророк ﷺ) воскликнул: “Вот и Таба! И вот, и Ухуд (эта) гора любит нас, и мы любим её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4422</td></tr><tr><td>Arabic No</td><td>4422</td></tr><tr><td>Reference</td><td>Book 64 Hadith 444</td></tr></tbody></table></div>
 

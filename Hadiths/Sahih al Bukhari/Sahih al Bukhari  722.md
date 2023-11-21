@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The Imam is (appointed) to be foll
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Dijadikannya Imam adalah untuk diikuti, maka janganlah kalian menyelisihnya. Jika ia rukuk maka rukuklah kalian, jika ia mengucapkan 'SAMI'ALLAHU LIMAN HAMIDAH' maka ucapkanlah, 'RABBANAA LAKAL HAMDU'. Jika ia sujud maka sujudlah kalian, jika ia shalat dengan duduk maka shalatlah kalian semuanya dengan duduk, dan luruskanlah shaf, karena lurusnya shaf merupakan bagian dari sempurnanya shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>722</td></tr><tr><td>Arabic No</td><td>722</td></tr><tr><td>Reference</td><td>Book 10 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Поистине, имам назначен для того, чтобы следовать за ним, поэтому не отставайте от него! Когда он совершит поясной поклон, то и вы совершайте его. Когда он скажет: “Сами‘а-Ллаху лиман хамидах”, говорите: “Раббана лякаль-хамд!” Когда он совершит земной поклон, то и вы совершайте его, а если он будет совершать намаз сидя, то все молитесь сидя. И выравнивайте ряд в намазе, ибо, выравнивание ряда из совершенства намаза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>722</td></tr><tr><td>Arabic No</td><td>722</td></tr><tr><td>Reference</td><td>Book 10 Hadith 116</td></tr></tbody></table></div>
 

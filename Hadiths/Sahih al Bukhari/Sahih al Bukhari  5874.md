@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) got a ring made for himself and said, "I have go
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Abdul Aziz bin Shuhaib] dari [Anas] radliallahu 'anhu dia berkata; "Nabi shallallahu 'alaihi wasallam pernah membuat cincin, lalu beliau bersabda: 'Sesungguhnya kami telah membuat cincin yang kami ukir dengan suatu tulisan, maka janganlah salah seorang dari kalian mengukir seperti itu.' Anas melanjutkan; 'Sungguh saya pernah melihat kilatan dari cincin tersebut berada di jari manis beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5874</td></tr><tr><td>Arabic No</td><td>5874</td></tr><tr><td>Reference</td><td>Book 77 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ попросил изготовить перстень и сказал: “Поистине, я взял (себе) кольцо и выгравировал на нём гравировку, поэтому пусть никто из вас не делает такую гравировку (на своём перстне)”. А белизна этого перстня на его пальце и сейчас стоит у меня перед глазами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5874</td></tr><tr><td>Arabic No</td><td>5874</td></tr><tr><td>Reference</td><td>Book 77 Hadith 91</td></tr></tbody></table></div>
 

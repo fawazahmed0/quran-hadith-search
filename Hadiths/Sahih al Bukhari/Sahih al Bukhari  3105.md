@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amra bint 'Abdur-Rahman:'Aisha, the wife of the Prophet (ﷺ) told her
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Abdullah bin Abu Bakr] dari ['Amrah, putri 'Abdur Rahman] bahwa ['Aisyah radliallahu 'anhu, istri Nabi Shallallahu'alaihiwasallam] mengabarkan kepadanya bahwa Rasulullah Shallallahu'alaiwasallam pernah bersamanya (di rumah 'Aisyah) lalu dia mendengar suara manusia meminta izin masuk di rumah Hafshah lalu aku katakan; "Wahai Rasulullah, itu ada laki-laki minta izin masuk di rumah baginda!". Maka Rasulullah Shallallahu'alaiwasallam bersabda: "Aku kira dia itu pamannya Hafshah secara susuan. Ingat, sepersusuan itu melarang segala hal yang terlarang karena serahim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3105</td></tr><tr><td>Arabic No</td><td>3105</td></tr><tr><td>Reference</td><td>Book 57 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, жена Пророка ﷺ сказала, что (однажды, когда) у неё находился Посланник Аллаха ﷺ, она услышала голос мужчины, просившего разрешения войти в дом Хафсы. ‘Аиша сказала: «Я сказала: “О Посланник Аллаха, какой-то человек просит разрешения войти в твой дом”. Посланник Аллаха ﷺ сказал: “Я думаю, что это такой-то”, (и назвал имя) молочного дяди Хафсы. (Посланник Аллаха ﷺ сказал:) “Молочное родство делает запретным то же, что и кровное”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3105</td></tr><tr><td>Arabic No</td><td>3105</td></tr><tr><td>Reference</td><td>Book 57 Hadith 14</td></tr></tbody></table></div>
 

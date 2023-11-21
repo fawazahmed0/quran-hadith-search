@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma:Allah's Messenger (ﷺ) said, "Give (in charity) and do not give r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Sa'id] telah menceritakan kepada kami ['Abdullah bin Numair] telah menceritakan kepada kami [Hisyam bin "Urwah] dari [Fathimah] dari [Asma'] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Berinfaqlah dan jangan kamu hitung-hitung (pelit) karena nanti Allah akan berhitung kepadamu dan jangan kamu tutup rapat guci tempat menyimpan makanan itu karena nanti Allah akan menutup rezekimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2591</td></tr><tr><td>Arabic No</td><td>2591</td></tr><tr><td>Reference</td><td>Book 51 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Асмы, что Посланник Аллаха ﷺ сказал: «Раздавай (милостыню) и не подсчитывай, а иначе Аллах лишит тебя (излишков твоего имущества), и не откладывай на хранение, а иначе Аллах спрячет (то, что предназначено) для тебя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2591</td></tr><tr><td>Arabic No</td><td>2591</td></tr><tr><td>Reference</td><td>Book 51 Hadith 25</td></tr></tbody></table></div>
 

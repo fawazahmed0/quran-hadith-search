@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I said: Messenger of Allah, the son of Jud'an established ties o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafs bin Ghiyats] dari [Dawud] dari [asy-Sya'bi] dari [Masruq] dari [Aisyah] dia berkata, "Saya berkata, 'Wahai Rasulullah, Ibnu Jud'an (kerabatnya) pada masa jahiliyyah selalu bersilaturrahim dan memberi makan orang miskin. Apakah itu memberikan manfaat untuknya? ' Beliau menjawab: 'Tidak. Itu tidak memberinya manfaat, karena dia belum mengucapkan, 'Rabbku ampunilah kesalahanku pada hari pembalasan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>518</td></tr><tr><td>Arabic No</td><td>214</td></tr><tr><td>Reference</td><td>Book 1 Hadith 424</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) я сказала (Пророку ﷺ): “О посланник Аллаха! Во времена джахилиййи Ибн Джуд‘ан поддерживал связи с родственниками и кормил неимущих, так принесёт ли это ему пользу?” (В ответ на это Пророк ﷺ) сказал: “Это не принесёт ему пользы, ведь он никогда не говорил: “Господь мой, прости мне грех мой в День воздаяния!” /Рабби гфир ли хатыъати йаума д-дин/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>518</td></tr><tr><td>Arabic No</td><td>214</td></tr><tr><td>Reference</td><td>Book 1 Hadith 424</td></tr></tbody></table></div>
 

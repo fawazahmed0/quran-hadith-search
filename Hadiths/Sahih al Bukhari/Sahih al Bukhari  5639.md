@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:I was with the Prophet (ﷺ) and the time for the '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dia berkata; telah menceritakan kepadaku [Salim bin Abu Al Ja'd] dari [Jabir bin Abdullah] radliallahu 'anhuma tentang hadits ini, dia berkata; "Sungguh aku pernah bersama Nabi shallallahu 'alaihi wasallam, ketika itu waktu shalat Ashar telah tiba sedangkan kami tidak memiliki persediaan air kecuali hanya sedikit, lalu air tersebut ditaruh ke dalam wadah dan diberikan kepada Nabi shallallahu 'alaihi wasallam, setelah itu beliau memasukkan tangan beliau ke dalam wadah tersebut sambil meregangkan jari jemarinya kemudian beliau bersabda: "Mari berwudlu' untuk mendapatkan keberkahan dari Allah." Sungguh aku melihat air memancar dari jari-jemari beliau, orang-orang pun bergegas melakukan wudlu sambil minum, dan aku pun bergegas untuk mengenyangkan perutku dengan air tersebut karena aku tahu kalau air itu sarat dengan keberkahan." Kataku kepada Jabir; "Berapakah jumlah kalian waktu itu?" dia menjawab; "seribu empat ratus personil" hadits ini juga di perkuat oleh riwayat ['Amru bin Dinar] dari [Jabir], sementara [Hushain] dan ['Amru bin Murrah] mengatakan dari [Salim] dari [Jabir] sebanyak seribu lima ratus personil, hadits ini juga di perkuat pula oleh riwayat [Sa'id bin Musayyib] dari [Jabir]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5639</td></tr><tr><td>Arabic No</td><td>5639</td></tr><tr><td>Reference</td><td>Book 74 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «(Однажды) я был с Пророком ﷺ, и настало время для послеполуденной молитвы /‘аср/. У нас не было с собой воды, кроме небольшого количества, которое было налито в сосуд и принесено Пророку ﷺ. Он опустил в него руку и растопырил пальцы, а затем сказал: “Давай, выходи к тем, кто хочет совершить омовение. Благословение от Аллаха”. И я видел, как вода забила меж его пальцами ключом. Люди совершили омовение и напились, а я пытался выпить больше этой воды, ведь я понял, что это благословение». \nПередатчик этого хадиса сказал: «Я спросил Джабира: “Сколько вас было в тот день?” Он ответил: “Нас было тысяча четыреста человек”». \nСалим передал, что Джабир сказал: «Полторы тысячи (человек)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5639</td></tr><tr><td>Arabic No</td><td>5639</td></tr><tr><td>Reference</td><td>Book 74 Hadith 65</td></tr></tbody></table></div>
 

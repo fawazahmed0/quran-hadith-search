@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas; (Allah be pleased with them) reported on the authority of Usama b. Z
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami ['Affan]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] dia berkata; telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ibnu Thawus] dari [Ayahnya] dari [Ibnu Abbas] dari [Usamah bin Zaid], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak dikatakan riba jika pembayarannya secara langsung (tunai)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>1596.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>1596.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 129</td></tr></tbody></table></div>
 

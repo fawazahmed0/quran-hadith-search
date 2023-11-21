@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira:The Prophet (ﷺ) used to stand (in the prayer) or pray till
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Mis'ar] dari [Ziyad] berkata; aku mendengar [Al Mughirah radliallahu 'anhu] berkata; "Ketika Nabi shallallahu 'alaihi wasallam bangun untuk mendirikan shalat (malam) hingga tampak bengkak pada kaki atau betis, Beliau dimintai keterangan tentangnya. Maka Beliau menjawab: "Apakah memang tidak sepatutnya aku menjadi hamba yang bersyukur?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1130</td></tr><tr><td>Arabic No</td><td>1130</td></tr><tr><td>Reference</td><td>Book 19 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугира бин Шу‘ба, да будет доволен им Аллах, сказал: «Обычно во время ночных молитв Пророк ﷺ стоял (во время) молитвы так долго, что его ступни (или: ноги) опухали, а когда его спрашивали (об этом), он говорил: “Разве не (следует) мне быть благодарным рабом?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1130</td></tr><tr><td>Arabic No</td><td>1130</td></tr><tr><td>Reference</td><td>Book 19 Hadith 10</td></tr></tbody></table></div>
 

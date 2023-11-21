@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:'Aisha (addressing me) said, "O son of my sister! The P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami [Hisyam] berkata, telah mengabarkan kepadaku [Bapakku] - [Aisyah] berkata; yaitu anak saudara perempuanku-, "Nabi shallallahu 'alaihi wasallam tidak pernah meninggalkan dua rakaat setelah shalat 'Ashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 9 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хишам (ибн ‘Урва ибн аз-Зубайр) сказал: «Мой отец сообщил мне о том, что ‘Аиша, да будет доволен ею Аллах, сказала: “О племянник, находясь у меня Пророк ﷺ никогда не оставлял молитву в два рак‘ата после послеполуденной /‘аср/ молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 9 Hadith 66</td></tr></tbody></table></div>
 

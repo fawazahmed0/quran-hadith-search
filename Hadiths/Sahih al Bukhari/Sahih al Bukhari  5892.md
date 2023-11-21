@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar said, The Prophet (ﷺ) said, 'Do the opposite of what 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Minhal] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Umar bin Muhammad bin Zaid] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Selisihilah orang-orang musyrik, panjangkanlah jenggot dan cukurlah kumis kalian." Sedangkan apabila Ibnu Umar berhaji atau Umrah dia memegang jenggotnya dan memotong selebihnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5892</td></tr><tr><td>Arabic No</td><td>5892</td></tr><tr><td>Reference</td><td>Book 77 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нафи‘ передал со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Пророк ﷺ сказал: «Отличайтесь от многобожников: отпускайте бороды и подстригайте усы». И каждый раз, когда Ибн ‘Умар совершал хадж или ‘умру, он брал свою бороду в кулак и то, что выступало (за кулак), он отрезал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5892</td></tr><tr><td>Arabic No</td><td>5892</td></tr><tr><td>Reference</td><td>Book 77 Hadith 109</td></tr></tbody></table></div>
 

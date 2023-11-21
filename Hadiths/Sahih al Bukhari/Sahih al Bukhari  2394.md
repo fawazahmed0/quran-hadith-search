@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:I went to the Prophet (ﷺ) while he was in the Mos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kami [Mis'ar] telah menceritakan kepada kami [Muharib bin Ditsar] dari [Jabir bin 'Abdullah radliallahu 'anhuma] berkata: "Aku menemui Nabi shallallahu 'alaihi wasallam saat Beliau berada di masjid". Mis'ar berkata: "Aku menduga dia berkata,, "saat waktu dhuha". Berkata, Jabir bin 'Abdullah: "Beliau mengerjakan shalat dua raka'at". Ketika itu Beliau mempunyai hutang kepadaku. Maka Beliau membayarnya dan memberi tambahan kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2394</td></tr><tr><td>Arabic No</td><td>2394</td></tr><tr><td>Reference</td><td>Book 43 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Однажды утром я пришёл к Пророку ﷺ который находился в мечети, и он сказал (мне): “Соверши молитву в два рак‘ата”. А он был должен мне, и после этого (Пророк ﷺ не только) рассчитался со мной, но и прибавил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2394</td></tr><tr><td>Arabic No</td><td>2394</td></tr><tr><td>Reference</td><td>Book 43 Hadith 10</td></tr></tbody></table></div>
 

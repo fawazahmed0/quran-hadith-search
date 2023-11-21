@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) assumed the state of Ihram for Umra and Haj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Bisyr bin Al Mufadldlal] dari [Humaid Ath Thawil] Telah menceritakan kepada kami [Bakr] bahwasanya dia berkata kepada [Ibnu 'Umar] bahwa Anas pernah menceritakan kepada mereka mengenai talbiyah Rasulullah shallallahu 'alaihi wasallam dengan umrah dan haji. Anas berkata; Nabi shallallahu 'alaihi wasallam bertalbiyah dengan haji, dan kami pun bertalbiyah bersama beliau. Tatkala kami sampai di Makkah, beliau bersabda; 'Barangsiapa diantara kalian yang tidak memiliki hewan kurban maka niatkanlah untuk umrah.' Sedangkan pada waktu itu Rasulullah memiliki hewan kurban. Tiba-tiba Ali bin Abi Thalib kembali dari Yaman, lalu Nabi Shallallahu'alaihi wasallam bertanya kepadanya: "Dengan apa kamu bertalbiyah sesungguhnya keluargamu bersama kami?, " Ali menjawab; saya bertalbiyah dengan talbiyah Rasulullah Shallallahu'alaihi wasallam, maka Rasulullah Shallallahu'alaihi wasallam bersabda: 'Tenanglah, kami membawa hewan kurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что Пророк ﷺ вошёл в состояние ихрама с намерением совершить умру и хадж. Он сказал: «Пророк ﷺ вошёл в состояние ихрама с намерением совершить хадж, и мы поступили так же. Когда мы прибыли в Мекку, он сказал: “Пусть тот, кто не пригнал с собой жертвенный скот, сделает намерение на совершение умры”. Пророк же ﷺ пригнал с собой жертвенный скот. Когда ’Али ибн Аби Талиб прибыл из Йемена с намерением совершить хадж, Пророк ﷺ спросил его: “С каким намерением ты вошёл в состояние ихрама, ведь твоя жена с нами?” Он ответил: “С тем же, что и Пророк ﷺ”. Тогда он сказал: “Тогда оставайся в состоянии ихрама, ведь мы пригнали жертвенный скот”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

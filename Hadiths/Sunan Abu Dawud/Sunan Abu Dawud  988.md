@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada kami [Muhammad bin Abdurrahim Al Bazzaz] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] telah menceritakan kepada kami [Utsman bin Hakim] telah menceritakan kepada kami ['Amir bin Abdullah bin Az Zubair] dari [ayahnya] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam duduk dalam shalat, beliau meletakkan telapak kaki kirinya di bawah paha dan betis kanannya, dan menghamparkan telapak kaki kanannya serta meletakkan tangan kirinya di atas lutut kiri dan meletakkan tangan kanan di atas paha kanan sambil menunjuk dengan jarinya." Abdul Wahid memperlihatkan kepada kami sambil menunjuk dengan jari telunjuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (579)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>988</td></tr><tr><td>Arabic No</td><td>988</td></tr><tr><td>Reference</td><td>Book 2 Hadith 599</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн аз-Зубайра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ садясь в молитве, помещал левую ступню под правое бедро и голень и простирал правую ступню. При этом он возлагал левую руку на левое бедро, а правую на правое и вытягивал палец. (Передатчик) сказал: «И (передатчик) ‘Абду-ль-Вахид показал нам, вытянув указательный палец»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (579)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>988</td></tr><tr><td>Arabic No</td><td>988</td></tr><tr><td>Reference</td><td>Book 2 Hadith 599</td></tr></tbody></table></div>
 

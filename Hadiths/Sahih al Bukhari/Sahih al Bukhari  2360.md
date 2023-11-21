@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Az-Zubair:An Ansari man quarreled with Az-Zubair in the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] berkata, telah menceritakan kepadaku [Ibnu Syihab] dari ['Urwah] dari ['Abdullah bin Az Zubair radliallahu 'anhuma] bahwasanya dia menceritakan bahwa ada seorang dari kalangan Anshar bersengketa dengan Az Zubair di hadapan Nabi shallallahu 'alaihi wasallam tentang aliran air di daerah Al Harrah yang mereka gunakan untuk menyirami pepohonan kurma. Berkata, orang Anshar tersebut: "Bukalah air agar bisa mengalir?" Az Zubair menolaknya lalu keduanya bertengkar di hadapan Nabi shallallahu 'alaihi wasallam. Maka Rasulullah shallallahu 'alaihi wasallam berkata, kepada Az Zubair: "Wahai Zubair, berilah air dan kirimlah buat tetanggamu". Maka orang Anshar itu marah seraya berkata; "Tentu saja kamu bela dia karena dia putra bibimu". Maka wajah Rasulullah shallallahu 'alaihi wasallam memerah kemudian berkata: "Wahai Zubair, berilah air kemudian bendunglah hingga air itu kembali ke dasar ladang". Maka Az Zubair berkata: "Demi Allah, sungguh aku menganggap bahwa ayat ini turun tentang kasus ini, yaitu firman Allah dalam surah An-Nisa ayat 65 yang artinya: ("Maka demi Tuhanmu, mereka (pada hakekatnya) tidak beriman hingga mereka menjadikan kamu hakim terhadap perkara yang mereka perselisihkan…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2360</td></tr><tr><td>Arabic No</td><td>2360</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Урвы, что ‘Абдуллах ибн аз-Зубайр, да будет доволен Аллах им и его отцом, передаёт, что один человек из числа ансаров начал тяжбу с аз-Зубайром в присутствие Пророка ﷺ из-за источника воды, которым пользовались для орошения пальм. Ансари сказал: «Позволь воде течь». Однако аз-Зубайр отказался. Пророк ﷺ сказал: «О Зубайр! Набирай воду (немного), а потом посылай соседу». Ансар разгневался и сказал: «Ты рассудил так потому, что он сын твоей тётки со стороны отца!?» Посланник Аллаха ﷺ изменился в лице, а затем сказал: «Поливай, о Зубайр, затем перекрой воду, чтобы её собралось (достаточно у твоих пальм)». Аз-Зубайр сказал: «Клянусь Аллахом, я считаю, что этот аят ниспослан как раз об этом: “Но нет — клянусь твоим Господом! — они не уверуют, пока они не изберут тебя судьёй во всём том, что запутано между ними” (сура “ан-Ниса”, аят 65)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2360</td></tr><tr><td>Arabic No</td><td>2360</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: The leaves should not be be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hafsh Abu Abdurrahman Al Qathtan], telah menceritakan kepada kami [Muhammad bin Khalid], telah mengabarkan kepadaku [Kharijah bin Al Harits Al Juhani], telah mengabarkan kepadaku [ayahku], dari [Jabir bin Abdullah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: larangan ditebang dan potongnya pohon adalah aturan yang ditetapkan Rasulullah shallallahu 'alaihi wasallam, akan tetapi boleh digoyangkan dengan pelan agar daunnya berjatuhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2039</td></tr><tr><td>Arabic No</td><td>2039</td></tr><tr><td>Reference</td><td>Book 11 Hadith 319</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Нельзя сбивать листья с деревьев и обрезать ветки на заповедной территории Посланника Аллаха ﷺ. Можно лишь осторожно трясти дерево, чтобы листья падали»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2039</td></tr><tr><td>Arabic No</td><td>2039</td></tr><tr><td>Reference</td><td>Book 11 Hadith 319</td></tr></tbody></table></div>
 

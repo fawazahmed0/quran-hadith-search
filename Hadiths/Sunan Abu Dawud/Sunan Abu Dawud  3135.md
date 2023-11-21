@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The martyrs of Uhud were not washed, and they were buri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah mengabarkan kepada kami [Ibnu Wahb], dan ini adalah lafazhnya, telah mengabarkan kepadaku [Usamah bin Zaid Al Laitsi] bahwa [Ibnu Syihab] telah mengabarkan kepadanya bahwa [Anas bin Malik] telah menceritakan kepada mereka bahwa para syuhada' Uhud tidak dimandikan, dan mereka dikubur dengan darah mereka (lumuran darah yang pada jenazah mereka), serta tidak dishalatkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3135</td></tr><tr><td>Arabic No</td><td>3135</td></tr><tr><td>Reference</td><td>Book 21 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что погибших в битве при Ухуде не омывали и хоронили прямо так, в крови, не совершая по ним погребальную молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3135</td></tr><tr><td>Arabic No</td><td>3135</td></tr><tr><td>Reference</td><td>Book 21 Hadith 47</td></tr></tbody></table></div>
 

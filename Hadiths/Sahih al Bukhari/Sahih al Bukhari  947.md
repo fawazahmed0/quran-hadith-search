@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) (p.b.u.h) offered the Fajr praye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari ['Abdul 'Aziz bin Shuhaib] dan [Tsabit Al Banani] dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat Shubuh dalam keadaan masih gelap, kemudian beliau mengendarai tunggangannya seraya bersabda: "Allahu Akbar, hancurlah Khaibar! Sesungguhnya kami apabila mendatangi perkampungan suatu kaum, (maka amat buruklah pagi hari yang dialami orang-orang yang diperingatkan tersebut) (Qs. Ash Shaaffaat: 177). Orang-orang Khaibar keluar seraya berkata, "Muhammad dan Al Khamis!" Tabit berkata, "Al Khamis artinya pasukan." Maka Rasulullah shallallahu 'alaihi wasallam pun mengalahkan mereka, membunuh pasukan dan menawan tawanan. Maka Shafiah menjadi bagian Dihyah Al Kalbi, kemudian ia menjadi milik Rasulullah shallallahu 'alaihi wasallam. Beliau kemudian menikahinya, dan maharnya adalah pembebasannya." 'Abdul 'Azizi berkata kepada Tsabit, "Wahai Abu Muhammad, apakah kamu bertanya kepada Anas bin Malik, apa yang Beliau jadikan mahar untuk wanita tersebut?" Tsabit menjawab, 'Maharnya adalah pembebasannya.' Ia pun tersenyum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>947</td></tr><tr><td>Arabic No</td><td>947</td></tr><tr><td>Reference</td><td>Book 12 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Сабита аль-Бунани, что Анас ибн Малик, сказал, что Посланник Аллаха ﷺ совершил утреннюю молитву в предрассветном сумраке, после чего сел верхом и сказал: «Аллах велик! Хайбар разрушен. Поистине, когда мы появляемся у селений (враждующих с нами), “плохим становится утро для тех, кого предупреждали!”» (сура «ас-Саффат», аят 177) Люди стали выходить в спешке, говоря: «(Явился) Мухаммад со (своей) пятёркой (то есть армией, поделенной на пять частей)!» И победил их Посланник Аллаха ﷺ, убил их воинов и взял в плен всех остальных. Сафия досталась Дихье аль-Кяльби, затем Посланник Аллаха ﷺ взял её себе и женился на ней, а её махром (брачным подарком) было её освобождение.\nИ ‘Абдуль‘азиз спросил Сабита: «О Абу Мухаммад, ты спросил Анаса ибн Малика о её махре?» Он ответил: «Её махром была она сама», — и улыбнулся
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>947</td></tr><tr><td>Arabic No</td><td>947</td></tr><tr><td>Reference</td><td>Book 12 Hadith 6</td></tr></tbody></table></div>
 

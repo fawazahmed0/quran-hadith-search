@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:While Allah's Messenger (ﷺ) was on the pulpit, he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Ghurair Az Zuhriy] telah bercerita kepada kami [Ya'qub bin Ibrahim] dari [bapaknya] dari [Shalih] telah bercerita kepada kami [Nafi'] bahwa ['Abdullah] mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda dari atas mimbar: "Suku Ghifar, kiranya "ghafarallahu lahaa" (Allah mengampuninya), suku Aslam kiranya "salaamahallahu' (Allah menyelamatkannya) dan 'Ushayyah, mereka betul-betul "'ashatillaha wa rasuulih" (durhaka kepada Allah dan rasul-Nya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3513</td></tr><tr><td>Arabic No</td><td>3513</td></tr><tr><td>Reference</td><td>Book 61 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, что Посланник Аллаха ﷺ сказал с минбара: «Да простит /гафара/ Аллах племя гифар! И да спасет /саляма/ Аллах племя аслям! А племя ‘усайя ослушалось /’асат/ Аллаха и Его Посланника»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3513</td></tr><tr><td>Arabic No</td><td>3513</td></tr><tr><td>Reference</td><td>Book 61 Hadith 23</td></tr></tbody></table></div>
 

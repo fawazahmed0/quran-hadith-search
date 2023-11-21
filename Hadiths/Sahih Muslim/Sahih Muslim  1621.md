@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:When the Messenger of Allah (ﷺ) was in a state of hurry on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], katanya; Aku pernah menyetorkan hapalan di hadapan [Malik] dari [Nafi'] dari [Ibnu Umar] katanya; "Ketika beliau melakukan perjalanan dengan terburu-buru, maka Rasulullah shallallahu 'alaihi wasallam menjamak antara shalat Magrib dan Isya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Когда Посланнику Аллаха ﷺ, находящемуся в пути, надо было спешить, он объединял закатную молитву с вечерней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
 

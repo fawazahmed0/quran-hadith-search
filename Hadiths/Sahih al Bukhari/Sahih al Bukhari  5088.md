@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Abu Hudhaifa bin 'Utba bin Rabi'a bin 'Abdi Shams who had witnes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [Urwah bin Zubair] dari [Aisyah] radliallahu 'anha, bahwasanya; Abu Hudzaifah bin Utbah bin Abdu Syamsy -ia adalah seorang ahli Badar bersama Nabi shallallahu 'alaihi wasallam- menjadikan Salim sebagai anak angkat dan menikahkannya dengan anak perempuan saudarinya Hindu binti Al Walid bin Utbah bin Rabi'ah. Dan ia adalah bekas budak dari seorang wanita Anshar. Yakni, sebagaimana Nabi shallallahu 'alaihi wasallam pernah menjadikan Zaid sebagai anak angkat. Beliau termasuk orang yang mengambil anak angkat pada masa Jahiliyyah hingga orang-orang pun menduga bahwa Zaid nantinya akan mewarisi hartanya, hingga pada akhirnya Allah menurunkan ayat: "UD'UUHUM ILAA 'AABAA'IHIM.." hingga firman-Nya, "WA MAWAALIIKUM." Akhinya mereka pun mengembalikan (nasabnya) kepada bapak-bapak mereka. Dan siapa yang tidak diketahui bapaknya, maka ia adalah maula (budak yang dimerdekakan) dan saudara seagama. Kemudian datanglah Sahlah binti Suhail bin Amru Al Qurasyii lalu Al 'Amiri -ia adalah isteri Abu Hudzaifah bin Utbah- kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, sesungguhnya kami menganggap Salim sebagai anak, sementara Allah telah menurunkan sebagaimana apa yang telah Anda kethaui." Kemudian ia pun menyebutkan hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5088</td></tr><tr><td>Arabic No</td><td>5088</td></tr><tr><td>Reference</td><td>Book 67 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (в своё время) Абу Хузайфа бин ‘Утба бин Раби‘а бин ‘Абд Шамс, да будет доволен им Аллах, который в числе других принимал участие в битве при Бадре вместе с Пророком ﷺ усыновил Салима подобно тому, как Пророк ﷺ усыновил Зейда, и (Абу Хузайфа) женил (Салима) на дочери своего брата(, которую звали) Хинд бинт аль-Валид бин ‘Утба бин Раби‘а. Салим являлся вольноотпущенником одной женщины из числа ансаров, а надо сказать, что, когда человек усыновлял кого-нибудь в эпоху джахилийи, люди называли усыновлённого его сыном и он становился наследником (своего приёмного отца. Так было), пока Аллах не ниспослал (аят, в котором сказано): «Обращайтесь к ним по (именам) их (родных) отцов: это более справедливо пред Аллахом. А если вы и не знаете (имён) их отцов, то они (ведь) являются вашими братьями в религии и вашими близкими», после чего (приёмных детей) стали называть по именам их (настоящих) отцов, что же касается тех, имена отцов которых были неизвестны, то их (стали считать) близкими и братьями по вере. А потом жена Абу Хузайфы Сахля бинт Сухайль Ибн ‘Амр аль-Кураши, впоследствии аль-‘Амири, пришла к Пророку ﷺ и сказала (ему): «О Посланник Аллаха, мы считали Салима (нашим приёмным) сыном, а теперь Аллах ниспослал о нём то, о чём ты знаешь». \nДалее передатчик этого хадиса привёл его до конца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5088</td></tr><tr><td>Arabic No</td><td>5088</td></tr><tr><td>Reference</td><td>Book 67 Hadith 26</td></tr></tbody></table></div>
 

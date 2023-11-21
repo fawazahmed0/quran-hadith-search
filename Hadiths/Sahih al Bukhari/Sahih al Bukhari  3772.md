@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:When 'Ali sent 'Ammar and Al-Hasan to (the people of) Kufa to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] dari [Al Hakam], aku mendengar [Abu Wa'il] berkata; "Ketika 'Ali mengutus ['Amar] dan Al Hasan ke kota Kufah untuk mengerahkan mereka berjihad, 'Ammar menyampaikan khuthbah. Katanya; "Sungguh aku mengetahui bahwa dia (maksudnya Aisyah) adalah istri beliau (shallallahu 'alaihi wasallam) di dunia dan akhirat, akan tetapi sekarang Allah menguji kalian apakah akan mentaati-Nya (mentaa'ti 'Ali radliallahu 'anhuma sebagai pemimpin yang berarti mentaati Allah) atau mengikuti dia ('Aisyah radliallahu 'anha)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3772</td></tr><tr><td>Arabic No</td><td>3772</td></tr><tr><td>Reference</td><td>Book 62 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Ваиль (Шакик ибн Саляма) сказал: «Когда ‘Али послал ‘Аммара и аль-Хасана в Куфу, чтобы мобилизовать (жителей Куфы), ‘Аммар обратился с проповедью и сказал: “Поистине, я знаю, что ‘Аиша является женой Пророка ﷺ в мире этом и в мире ином, однако Аллах испытал вас, чтобы (узнать), Ему вы последуете или ей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3772</td></tr><tr><td>Arabic No</td><td>3772</td></tr><tr><td>Reference</td><td>Book 62 Hadith 117</td></tr></tbody></table></div>
 

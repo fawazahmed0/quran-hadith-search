@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Salamah bin Al Akwa said “After the revelation of the verse “For those who c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], Telah menceritakan kepada kami [Bakr bin Mudhar] dari ['Amr bin Al Harits] dari [Bukair] dari [Yazid] mantan budak Salamah bin Al Akwa', dari [Salamah bin Al Akwa] 'ia berkata; tatkala telah turun ayat ini: WA 'ALALLADZII YUTHIIQUUNAHU FIDYATUN THA'AAMU MISKIIN (dan bagi orang yang berat menjalankannya, wajib membayar fidyah, yaitu memberi makan seorang miskin), maka barangsiapa diantara kami yang hendak berbuka dan membayar fidyah, ia boleh melakukannya, hingga turunlah ayat yang setelahnya, dan menggantikan hukum ayat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4507) Sahih Muslim (1145)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Салямы ибн аль-Аква‘, да будет доволен им Аллах: «После того как был ниспослан аят “А тем, которые способны поститься с трудом, следует в искупление накормить бедняка” (сура 2 «аль-Бакара», аят 184), каждый из нас, кто не хотел соблюдать пост и намеревался искупить это, так и делал, и это продолжалось до тех пор, пока не был ниспослан следующий аят, который отменил это постановление»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4507) Sahih Muslim (1145)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>389</td></tr><tr><td>Arabic No</td><td>155.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 294</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов (Са‘ида) ибн аль-Мусаййиба о том, что он слышал, как Абу Хурайра, да будет доволен им Аллах, говорил: «Посланник Аллаха ﷺ сказал: “Клянусь Тем, в Чьей длани душа моя, поистине, скоро уже придёт к вам сын Марйам, (и будет судить вас) как справедливый судья, и сломает крест, и уничтожит свиней, и отменит джизью, после чего денег будет (так) много, что никто не станет их принимать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>389</td></tr><tr><td>Arabic No</td><td>155.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 294</td></tr></tbody></table></div>
 

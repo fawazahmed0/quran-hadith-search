@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Masud:I witnessed Al-Miqdad bin Al-Aswad in a scene which would hav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Isra'il] dari [Mukhariq] dari [Thariq bin Syihab] berkata, aku mendengar [Ibnu Mas'ud] berkata; "Aku menyaksikan dari Al Miqdad bin Al Aswad suatu peristiwa dimana jika aku menjadi pelaku peristiwa tersebut lebih aku sukai daripada apapun yang dibandingkan dengannya. Yaitu ketika Nabi shallallahu 'alaihi wasallam datang (pada perang Badar) dan memohonkan kebinasaan bagi orang-orang musyrik, Al Miqdad berkata; "Kami tidak akan mengatakan seperti yang dikatakan kaumnya Musa: "Pergilah kamu dan Rabbmu untuk berperang..." (QS al Maidah ayat). Akan tetapi kami akan berperang dari samping kananmu, samping kirimu, di hadapanmu dan di belakangmu". Maka aku melihat Nabi shallallahu 'alaihi wasallam wajahnya berseri-seri, yaitu karena ucapan Al Miqdad tadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 64 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Мас‘уд, да будет доволен им Аллах, сказал: (Однажды мне пришлось видеть, как вел себя) аль-Микдад бин аль-Асвад, да будет доволен им Аллах, и, поистине, если бы (мог) я оказаться (на его месте), это было бы для меня дороже всего иного! Он подошел к Пророку ﷺ призывавшему проклятия на многобожников, и сказал (ему): «Мы не скажем того, что сказали соплеменники Мусы (, сказавшие ему): “Ступай ты вместе с твоим Господом и сражайтесь...”, но будем сражаться справа и слева от тебя, перед тобой и позади тебя!» — и я увидел, как озарилось лицо (Пророка ﷺ ибо это) порадовало его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 64 Hadith 4</td></tr></tbody></table></div>
 

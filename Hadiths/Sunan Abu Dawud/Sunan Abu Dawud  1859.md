@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A man from the Ansar said on the authority of Ka'b ibn Ujrah that he was feeling
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Qutaibah bin Sa'id], telah menceritakan kepada Kami [Al Laits] dari [Nafi'] bahwa [seorang laki-laki anshar] telah mengabarkan kepadanya dari [Ka'b bin 'Ujrah] dan ia telah tertimpa sesuatu yang mengganggu. Kemudian Nabi shallallahu 'alaihi wasallam memerintahkannya agar menyembelih hewan kurban sapi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1859</td></tr><tr><td>Arabic No</td><td>1859</td></tr><tr><td>Reference</td><td>Book 11 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ка‘ба ибн ‘Уджры, да будет доволен им Аллах, что когда он обрил голову из-за мучивших его паразитов, Пророк ﷺ велел ему принести в жертву корову
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1859</td></tr><tr><td>Arabic No</td><td>1859</td></tr><tr><td>Reference</td><td>Book 11 Hadith 139</td></tr></tbody></table></div>
 

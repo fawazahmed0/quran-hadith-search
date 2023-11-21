@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin Malik:I said, "O Allah's Messenger (ﷺ)! For the acceptance o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata telah bercerita kepadaku ['Abdur Rahman bin 'Abdullah bin Ka'ab] bahwa ['Abdullah bin Ka'ab] berkata; Aku mendengar [Ka'ab bin Malik radliallahu 'anhu]; Aku berkata: "Wahai Rasulullah, sesungguhnya untuk melaksanakan taubatu aku berkehendak mengeluarkan seluruh hartaku sebagai shadaqah di jalan Allah dan Rosul-Nya shallallahu 'alaihi wasallam". Maka Beliau shallallahu 'alaihi wasallam berkata: "Simpanlah sebagian hartamu karena itu lebih baik bagimu". Aku berkata lagi: "Sesungguhnya aku menyimpan hartaku yaitu bagianku yang ada di tanah Khaibar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>2757</td></tr><tr><td>Reference</td><td>Book 55 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ка‘ба ибн Малика: «Я сказал: “О Посланник Аллаха, пусть частью моего покаяния будет то, что я отдам всё своё имущество в качестве милостыни ради Аллаха и Его Посланника ﷺ”. Посланник Аллаха ﷺ сказал: “Оставь себе часть своего имущества, так будет лучше для тебя”. Я сказал: “Тогда я оставлю себе свою долю в Хайбаре”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>2757</td></tr><tr><td>Reference</td><td>Book 55 Hadith 20</td></tr></tbody></table></div>
 

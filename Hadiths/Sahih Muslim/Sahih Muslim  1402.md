@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: When it is hot, make del
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ishaq bin Musa Al Anshari] telah menceritakan kepada kami [Ma'an] telah menceritakan kepada kami [Malik] dari [Abdullah bin Yazid] mantan budak Aswad bin Sufyan dari [Abu Salamah bin Abdurrahman] dan [Muhammad bin Abdurrahman bin Tsauban] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika panas menyengat, tangguhkanlah shalat hingga suhu agak dingin, sebab panas yang menyengat berasal dari uap neraka jahannam, " -dan beliau juga menyebutkan bahwa; "Neraka berkeluh kesah kepada Rabbnya, lalu Allah mengijinkan untuk bernapas dua kali dalam setahun, napas ketika musim dingin dan napas ketika musim panas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1402</td></tr><tr><td>Arabic No</td><td>617.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Если жара будет (слишком) сильной, отложите молитву, пока не станет прохладнее, ибо, поистине, жара усиливается из-за распространения жара от дуновения Ада». Также он упомянул, что пламя (Ада) пожаловалось своему Господу, и Он позволил ему делать два выдоха в год: один выдох зимой, а другой летом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1402</td></tr><tr><td>Arabic No</td><td>617.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 236</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported that Allah's Apostle (ﷺ) happened to walk through t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Ja'far] dari [ayahnya] dari [Jabir bin Abdullah], Rasulullah Shallallahu 'alaihi wa Salam melintas masuk ke pasar seusai pergi dari tempat-tempat tinggi sementara orang-orang berada disisi beliau. Beliau melintasi bangkai anak kambing dengan telinga melekat, beliau mengangkat telinganya lalu bersabda: "Siapa diantara kalian yang mau membeli ini seharga satu dirham?" mereka menjawab: Kami tidak mau memilikinya, untuk apa? Beliau bersabda: "Apa kalian mau (bangkai) ini milik kalian?" mereka menjawab: Demi Allah, andai masih hidup pun ada cacatnya karena telinganya menempel, lalu bagaimana halnya dalam keadaan sudah mati? Beliau bersabda: "Demi Allah, dunia lebih hina bagi Allah melebihi (bangkai) ini bagi kalian." Telah menceritakan kepadaku [Muhammad bin Al Mutsanna Al Anazi] dan [Ibrahim bin Muhammad bin Ararah As Sami] keduanya berkata: telah menceritakan kepada kami [Abdulwahhab Ats Tsaqafi] dari [Ja'far] dari [ayahnya] dari [Jabir] dari nabi Shallallahu 'alaihi wa Salam sepertinya hanya saja dalam hadits Ats Tsaqafi disebutkan: Bila pun hidup, telinga yang menempel ini aib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7418</td></tr><tr><td>Arabic No</td><td>2957.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7418</td></tr><tr><td>Arabic No</td><td>2957.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 2</td></tr></tbody></table></div>
 

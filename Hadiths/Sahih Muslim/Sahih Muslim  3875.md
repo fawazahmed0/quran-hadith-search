@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported Allah's Apostle (ﷺ) forbidding 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri]. Dan dari jalur lain telah menceritakan kepada kami [Ibnu Numair] dan [Zuhair bin Harb] sedangkan lafazh dari keduanya, keduanya berkata; Telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Az Zuhri] dari [Salim] dari [Ibnu Umar] bahwa Nabi Shallallu 'alaihi wa sallam melarang menjual buah-buahan hingga nampak matangnya dan melarang menjual buah-buahan dengan kurma. Ibnu Umar berkata; Dan telah menceritakan kepada kami Zaid bin Tsabit bahwasannya Rasulullah Shallallu 'alaihi wa sallam memberikan keringanan dalam transaksi 'Arayah, dalam riwayatnya Ibnu Numair, ia menambahkan; Yaitu untuk dijual
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3875</td></tr><tr><td>Arabic No</td><td>1534.09</td></tr><tr><td>Reference</td><td>Book 21 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3875</td></tr><tr><td>Arabic No</td><td>1534.09</td></tr><tr><td>Reference</td><td>Book 21 Hadith 74</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:Aisha said, "While the Ethiopians were playing with their small s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada kami [Hisyam] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Urwah] dari [Aisyah] ia berkta; Suatu ketika, orang-orang Habasyah sedang bermain-main dengan peralatan perang mereka, lalu Rasulullah shallallahu 'alaihi wasallam pun menutupiku, sementara aku menonton mereka. Begitulah seterusnya hingga aku sendirilah yang bosan dan beranjak sendiri. Karena itu, jadilah kalian seperti anak kecil yang suka bergurau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5190</td></tr><tr><td>Arabic No</td><td>5190</td></tr><tr><td>Reference</td><td>Book 67 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда эфиопы играли со своими копьями, Посланник Аллаха ﷺ закрыл меня собой, а я смотрела (на них). И я продолжала смотреть на них пока (мне не наскучило, и) я ушла. Поэтому считайтесь с молодыми девочками, которые любят играться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5190</td></tr><tr><td>Arabic No</td><td>5190</td></tr><tr><td>Reference</td><td>Book 67 Hadith 124</td></tr></tbody></table></div>
 

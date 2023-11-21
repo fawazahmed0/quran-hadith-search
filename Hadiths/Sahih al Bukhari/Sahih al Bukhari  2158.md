@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tawus:Ibn 'Abbas said, "Allah's Messenger (ﷺ) said, 'Do not go to mee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ash-Shaltu bin Muhammad] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami [Ma'mar] dari ['Abdullah bin Thawus] dari [Bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian songsong (cegat) kafilah dagang (sebelum mereka sampai di pasar) dan janganlah orang kota menjual kepada orang desa". Aku bertanya kepada Ibnu 'Abbas radliallahu 'anhuma: "Apa arti sabda Beliau; "dan janganlah orang kota menjual untuk orang desa". Dia menjawab: "Janganlah seseorang jadi perantara (broker, calo) bagi orang kota
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2158</td></tr><tr><td>Arabic No</td><td>2158</td></tr><tr><td>Reference</td><td>Book 34 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ сказал: “Не встречайте караваны, и пусть оседлый не продаёт за бедуина”». Ибн ‘Аббаса спросили: «Что (означают) его слова “пусть оседлый не продаёт за бедуина”?» Он сказал: «(Оседлый) не (должен) быть посредником для него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2158</td></tr><tr><td>Arabic No</td><td>2158</td></tr><tr><td>Reference</td><td>Book 34 Hadith 109</td></tr></tbody></table></div>
 

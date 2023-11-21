@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn as-Sa'ib: One day when the Messenger of Allah (ﷺ) was sittin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani] berkata, telah menceritakan kepada kami [Ibnu Wahb] ia berkata; telah menceritakan kepada [Amru bin Al Harits] bahwa [Umar bin As Sa'ib] menceritakan kepadanya, Bahwasanya telah sampai berita kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam sedang duduk, lalu bapak sesusuannya datang. Beliau lalu menggelar sebagian kainnya hingga bapaknya bisa duduk. Lantas datang pula ibu susuannya, lalu beliau menggelar sebagian yang lain dari kain miliknya hingga ibunya duduk di atas kain tersebut. Setelah itu saudara laki-laki sesusuannya datang, Rasulullah shallallahu 'alaihi wasallam kemudian bangkit dan mendudukkan saudaranya tersebut di depannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5145</td></tr><tr><td>Arabic No</td><td>5145</td></tr><tr><td>Reference</td><td>Book 43 Hadith 373</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5145</td></tr><tr><td>Arabic No</td><td>5145</td></tr><tr><td>Reference</td><td>Book 43 Hadith 373</td></tr></tbody></table></div>
 

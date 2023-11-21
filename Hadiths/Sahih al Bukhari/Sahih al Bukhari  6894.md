@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The daughter of An-Nadr slapped a girl and broke her incisor tooth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Anshari] telah menceritakan kepada kami [Humaid] dari [Anas] radliallahu 'anhu, anak perempuan Nadhr menempeleng seorang hamba sahaya sehigga gigi serinya tanggal, maka mereka mengadukan perkaranya kepada Nabi shallallahu 'alaihi wasallam, dan Nabi memerintahkan qisas berlaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6894</td></tr><tr><td>Arabic No</td><td>6894</td></tr><tr><td>Reference</td><td>Book 87 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, да будет доволен им Аллах, что когда дочь ан-Надра ударила по лицу девочку и сломала ей передний зуб, её родственники пришли к Пророку ﷺ , и он приказал воздать ей равным /кысас
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6894</td></tr><tr><td>Arabic No</td><td>6894</td></tr><tr><td>Reference</td><td>Book 87 Hadith 32</td></tr></tbody></table></div>
 

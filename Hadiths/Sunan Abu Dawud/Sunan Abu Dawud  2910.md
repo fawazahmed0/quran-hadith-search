@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Usamah b. Zaid:I said: Messenger of Allah, where will you stay tomorrow
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ali bin Husain], dari ['Amr bin Utsman] dari [Usamah bin Zaid], ia berkata; aku katakan; wahai Rasulullah, dimanakah kita singgah besok? Yaitu pada waktu haji beliau. Beliau berkata: "Apakah 'Aqil telah meninggalkan untuk kita tempat persinggahan?" kemudian beliau berkata: "Kita akan singgah di Khaif Bani Kinanah dimana orang-orang Quraisy saling bersumpah di atas kekafiran." Yaitu di Al Muhashshab, hal tersebut karena Bani Kinanah telah bersumpah kepada orang-orang Quraisy untuk memusuhi Bani Hasyim yang tidak saling menikahkan dengan mereka, dan tidak memberi tempat perlindungan kepada mereka. Az Zuhri berkata; Khaif adalah nama sebuah bukit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3058) Sahih Muslim (1351)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2910</td></tr><tr><td>Arabic No</td><td>2910</td></tr><tr><td>Reference</td><td>Book 19 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Усамы ибн Зейда, да будет доволен Аллах им и его отцом, что он спросил во время хаджа: «О Посланник Аллаха, где ты остановишься завтра?» Он сказал: «А разве ‘Акыль оставил нам какие-нибудь дома?» Затем он сказал: «Завтра мы остановимся в долине бану Кинана, где кинаниты и курайшиты поклялись друг другу в неверии». Он имел в виду долину Мухассаб, в которой кинаниты заключили союз с курайшитами против бану Хашим и договорились, что не будут вступать с ними в брак, вести с ними торговлю и давать им приют
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3058) Sahih Muslim (1351)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2910</td></tr><tr><td>Arabic No</td><td>2910</td></tr><tr><td>Reference</td><td>Book 19 Hadith 26</td></tr></tbody></table></div>
 

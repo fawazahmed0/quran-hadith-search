@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) gave the land of Khaibar to the Jew's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami n ['Ubaidullah] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam memberikan tanah Khaibar kepada orang Yahudi untuk dimanfaatkan dan ditanami tumbuhan dan mereka mendapat separuh dari hasilnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2331</td></tr><tr><td>Arabic No</td><td>2331</td></tr><tr><td>Reference</td><td>Book 41 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ дал землю Хайбара иудеям с условием, что они будут работать на ней и возделывать её и оставлять себе половину её урожая»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2331</td></tr><tr><td>Arabic No</td><td>2331</td></tr><tr><td>Reference</td><td>Book 41 Hadith 12</td></tr></tbody></table></div>
 

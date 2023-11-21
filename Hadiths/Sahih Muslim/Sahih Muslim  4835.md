@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of 'Urwa that 'A'isha described to him the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Sa'id Al Aili] dan [Abu At Thahir], [Abu At Thahir] berkata; telah mengabarkan kepada kami, dan [Harun] berkata; telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari ['Urwah], bahwa ['Aisyah] telah mengabarkan kepadanya mengenai proses pembai'atan terhadap kaum wanita, dia berkata, "Rasulullah shallallahu 'alaihi wasallam tidak pernah menyentuh tangan seorang wanita manapun, beliau hanya mengambil baiat dari mereka. Ketika mereka telah memberikan baiatnya kepada beliau, maka beliau bersabda: "Pergilah, sungguh aku telah membaiat kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4835</td></tr><tr><td>Arabic No</td><td>1866.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4835</td></tr><tr><td>Arabic No</td><td>1866.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 131</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Iyas b. Salama b. al-Akwa reported that his father reported to him that he heard
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Ikrimah bin Ammar] dari [Iyas bin Salamah bin Al Akwa'] dari [ayahnya]. Telah menceritakan kepada kami [Ishaq bin Ibrahim], teks miliknya, telah menceritakan kepada kami [Abu An Nadhr Hasyim bin Al Qasim] telah menceritakan kepada kami [Ikrimah bin Ammar] telah menceritakan kepadaku [Iyas bin Salamah bin Al Akwa'] bahwa [ayahnya] telah menceritakan kepadanya bahwa ia mendengar Rasulullah Shallallahu 'alaihi wa Salam mendoakan seseorang yang bersin didekat beliau: "YARHAMUKALLAAH" (semoga Allah merahmatimu) kemuidian ia bersin lagi lalu Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Ia pilek
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7489</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 55 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7489</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 55 Hadith 72</td></tr></tbody></table></div>
 

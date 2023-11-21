@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) and Ubai bin Ka'b Al-Ansari
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, [Salim] aku mendengar ['Abdullah bin 'Umar radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam dan Ubay bin Ka'ab Al Anshariy pergi menuju pepohonan kurma yang disana ada Ibnu Shayyad, hingga ketika Rasulullah shallallahu 'alaihi wasallam menemuinya, Ibnu Shoyyad sedang bersandar di bawah pohon kurma dan Beliau ingin mendengar sesuatu dari Ibnu Shayyad secara rahasia sebelum dia melihat Beliau. Ketika itu Ibnu Shayyad berbaring diatas tikarnya dan mengeluarkan suara samar-samar yang nyaris takbisa dipahami. Ibu Ibnu Shayyad rupanya melihat Nabi shallallahu 'alaihi wasallam saat Ibnu Shayad masih bersandar di bawah pohon kurma tersebut lalu ia berkata kepada Ibnu Shayyad: "Wahai anakku ini Muhammad datang". Akhirnya Ibnu Shayyad terjaga. Rasulullah shallallahu 'alaihi wasallam kemudian berkata: "Seandainya ibunya membiarkannya tentu akan jelas (Ibnu Shayyad dajjal atau bukan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2638</td></tr><tr><td>Arabic No</td><td>2638</td></tr><tr><td>Reference</td><td>Book 52 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Однажды Посланник Аллаха ﷺ отправился вместе с Убаем ибн Ка‘бом аль-Ансари в пальмовую рощу, где находился Ибн Саййад. Зайдя к нему, Посланник Аллаха ﷺ начал прятаться за стволами пальм, чтобы услышать что-нибудь сказанное Ибн Саййадом, прежде чем тот заметит его, (и он увидел, что) Ибн Саййад лежит на кровати, укрывшись куском ткани, из-под которой доносились его бормотания. Мать Ибн Саййада увидела Пророка ﷺ, прятавшегося за стволами пальм, и окликнула Ибн Саййада: “О Саф! Здесь Мухаммад”, после чего Ибн Саййад перестал бормотать, а Пророк ﷺ сказал: “Если бы она не побеспокоила его, он проявил бы себя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2638</td></tr><tr><td>Arabic No</td><td>2638</td></tr><tr><td>Reference</td><td>Book 52 Hadith 2</td></tr></tbody></table></div>
 

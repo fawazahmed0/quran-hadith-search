@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, "Do good deeds properly, sincerely
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Sulaiman] dari [Musa bin 'Uqbah] dari [Abu Salamah bin Abdurrahman] dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Beramallah sesuai dengan sunnah dan berlaku imbanglah, dan ketahuilah bahwa salah seorang tidak akan masuk surga karena amalannya, sesungguhnya amalan yang dicintai oleh Allah adalah yang terus menerus walaupun sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6464</td></tr><tr><td>Arabic No</td><td>6464</td></tr><tr><td>Reference</td><td>Book 81 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Совершайте (благие дела) правильно, искренне и умеренно и знайте, что благодаря вашим делам вы не войдете в Рай, и что самое любимое дело для Аллаха — это те, которые совершаются с наибольшим постоянством, даже если их и будет мало»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6464</td></tr><tr><td>Arabic No</td><td>6464</td></tr><tr><td>Reference</td><td>Book 81 Hadith 53</td></tr></tbody></table></div>
 

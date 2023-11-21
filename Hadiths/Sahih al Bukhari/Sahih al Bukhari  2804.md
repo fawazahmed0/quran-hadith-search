@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:That Abu Sufyan told him that Heraclius said to hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] berkata telah bercerita kepadaku [Yunus] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah] bahwa ['Abdullah bin 'Abbas radliallahu 'anhu] pernah mengabarkannya [Abu Sufyan bin Harb] mengabarkannya bahwa Heraklius berkata kepadanya: "Aku telah bertanya kepadamu bagaimana kesudahan peperangan antara kalian dengannya lalu kamu jawab bahwa peperangan yang terjadi bergantian saling mengalahkan. Begitulah adanya para rasul, dimana dia diuji kemudian akhirnya mereka mendapatkan kejayaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2804</td></tr><tr><td>Arabic No</td><td>2804</td></tr><tr><td>Reference</td><td>Book 56 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн Аббаса, да будет доволен им Аллах, что ему сообщил Абу Суфьян бин Харб, что Ираклий сказал: «Я спросил тебя о том, каким было ваше сражение с ним? И ты ответил, что война между вами шла с переменным успехом(: он побеждал вас и вы побеждали его). Таким образом испытываются посланники, а затем в завершении (победа) будет за ними»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2804</td></tr><tr><td>Arabic No</td><td>2804</td></tr><tr><td>Reference</td><td>Book 56 Hadith 21</td></tr></tbody></table></div>
 

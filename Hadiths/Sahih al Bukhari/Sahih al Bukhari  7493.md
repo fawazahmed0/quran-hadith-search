@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Once while Job (Aiyub) was taking 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami ['Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Dikala Ayyub mandi dalam keadaan telanjang, tiba-tiba kaki belalang yang terbuat dari emas jatuh kepadanya, kemudian Ayyub membungkus dengan kainnya. Maka Tuhannya memanggilnya, 'Wahai Ayyub, bukankah Aku telah mengayakanmu daripada sekedar apa yang engkau lihat? ' Ayyub menjawab, 'Benar wahai Rabbku, namun saya belum berkecukupan dari barakah-Mu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7493</td></tr><tr><td>Arabic No</td><td>7493</td></tr><tr><td>Reference</td><td>Book 97 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Однажды, когда (пророк) Айюб купался обнажённым, (сверху) на него посыпалась золотая саранча, и он принялся собирать её в свою одежду. Его Господь обратился к нему: “О Айюб, разве Я не избавил тебя от необходимости в том, что ты видишь?!” (В ответ Айюб) сказал: “Да, о Господь мой! Однако я не избавлен от Твоей благодати!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7493</td></tr><tr><td>Arabic No</td><td>7493</td></tr><tr><td>Reference</td><td>Book 97 Hadith 119</td></tr></tbody></table></div>
 

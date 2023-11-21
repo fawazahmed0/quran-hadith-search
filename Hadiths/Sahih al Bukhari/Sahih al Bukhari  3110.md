@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali bin Al-Husain:That when they reached Medina after returning from Y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin Muhammad Al Jarmiy] telah bercerita kepada kami [Ya'qub bin Ibrahim] telah bercerita kepada kami [bapakku] bahwa [Al Walid bin Katsir] bercerita kepadanya dari [Muhammad bin 'Amru bin Halhalah ad-Du'aliy] bercerita kepadanya bahwa [Ibnu Syihab] bercerita kepadanya bahwa ['Ali bin Husain] bercerita kepadanya bahwa mereka ketika tiba di Madinah dari bertemu dengan Yazib bin Mu'awiyah di masa terbunuhnya Husain bin 'Ali Rahmatullah 'alaihi, dia (Ali bin Husain) ditemui oleh Al [Miswar bin Makhramah] lalu dia (Al Miswar) berkata kepadanya' "Apakah kamu ada keperluan dengan suatu perintah untukku?". Maka aku katakan kepadanya; "Tidak". Lalu dia berkata lagi kepadanya; "Apakah kamu termasuk orang yang diberi pedang Rasulullah Shallallahu'alaiwasallam?. Karena aku khawatir bila mereka dapat mengambilnya dari kamu. Demi Allah, seandainya kamu menyerahkannya kepadaku, aku tidak akan pernah memberikannya kepada mereka untuk selama-lamanya hingga aku terbunuh, dan sesungguhnya 'Ali bin Abu Thalib pernah meminang anak perempuan Abu Jahal (untuk dijadikan istri) disamping Fathimah 'alaihi salam, lalu kudengar Rasulullah Shallallahu'alaiwasallam memberikan khuthbah kepada manusia tentang masalah itu di atas mimbar ini sedang aku saat itu sudah baligh, Beliau bersabda: "Sesungguhnya Fathimah adalah bagian dariku dan aku sangat khawatir dia terfitnah dalam agamanya". Kemudian Beliau menyebutkan kerabat Beliau dari Bani 'Abdu Syamsi seraya menyanjungnya dalam hubungan kekerabatannya yang baik kepada Beliau. Beliau melanjutkan: "Dia berbicara kepadaku lalu membenarkan aku serta berjanji kepadaku dan dia menunaikan janjinya kepadaku. Sungguh aku bukanlah orang yang mengharamkan suatu yang halal dan bukan pula menghalalkan apa yang haram akan tetapi, demi Allah, tidak akan bersatu putri Rasulullah Shallallahu'alaiwasallam dengan putri musuh Allah selamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>3110</td></tr><tr><td>Reference</td><td>Book 57 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Али ибн аль-Хусейна, что он и его спутники прибыли в Медину от Язида ибн Му‘авии после гибели аль-Хусейна ибн ‘Али, да смилуется над ним Аллах, и ему повстречался аль-Мисвар ибн Махрама, который спросил: «Нужно ли тебе от меня что-нибудь?» Он ответил: «Нет». Тогда он сказал: «Не отдашь ли ты мне меч Посланника Аллаха ﷺ? Поистине, я боюсь, что люди заберут его у тебя. Клянусь Аллахом, если ты отдашь мне его, я никому не отдам его до самой своей смерти! ‘Али ибн Абу Талиб посватался к дочери Абу Джахля, уже будучи женатым на Фатиме. И я, тогда уже достигший совершеннолетия, слышал, как Посланник Аллаха ﷺ обращался к людям с речью по этому поводу с этого минбара и сказал: “Поистине, Фатима — часть меня, и я боюсь, что это плохо отразится на её религии”. После этого он упомянул о своём зяте из бану ‘абд шамс и похвалил его, сказав: “Говоря со мной, он был правдив, а обещая мне что-то, держал обещание… Я не запрещаю дозволенное и не разрешаю запретное, однако, клянусь Аллахом, не могут быть вместе дочь Посланника Аллаха ﷺ и дочь врага Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>3110</td></tr><tr><td>Reference</td><td>Book 57 Hadith 19</td></tr></tbody></table></div>
 

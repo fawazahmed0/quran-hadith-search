@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "My example and the example of what I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Perumpamaanku dan perumpamaan risalah yang kubawa adalah bagaikan seseorang yang mendatangi sebuah kaum, lantas ia katakan, 'Hai kaum, aku telah melihat sebuah pasukan dengan kedua mataku, dan aku adalah pemberi peringatan orang yang telanjang, maka selamatkanlah kalian, selamatkanlah kalian.' Lantas sebagian kelompok kaumnya mentaatinya sehingga mereka meneruskan perjalanan sehingga selamat, namun sebagian lain mendustakan dan tetap berada di tempatnya hingga pasukan menyerangnya mereka di pagi buta dan menyandera mereka, itulah perumpamaan orang yang mentaatiku dan mengikuti risalah yang kubawa, dan perumpaman orang yang membangkangku dan mendustakan kebenaran yang kubawa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7283</td></tr><tr><td>Arabic No</td><td>7283</td></tr><tr><td>Reference</td><td>Book 96 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы аль-Аш‘арий, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, пример того, с чем отправил меня Аллах, подобен примеру человека, который явился к своему народу и сказал: “О народ мой! Поистине, я своими глазами видел войско, и поистине, я — нагой увещеватель! Так спасайтесь же!” И одна группа его соплеменников послушалась его, потихоньку двинулись в путь ещё затемно, и спаслась. Другая же группа посчитала его слова ложью, осталась на своих местах, а наутро к ним явилось это войско (заставшее их врасплох) и полностью уничтожило их всех. Это подобно мне и тем (людям), которые послушались меня и последовали за тем, с чем я пришёл, или же ослушались меня и сочли ложью то, с чем я пришёл из истины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7283</td></tr><tr><td>Arabic No</td><td>7283</td></tr><tr><td>Reference</td><td>Book 96 Hadith 15</td></tr></tbody></table></div>
 

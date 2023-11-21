@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Hasan:(Al-Ahnaf said:) I went out carrying my arms during the nights
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Abdul Wahhab], telah menceritakan kepada kami [Hammad] dari [seseorang yang tidak dia sebutkan namanya] dari [Al Hasan] mengatakan, Aku keluar dengan membawa senjataku di malam-malam terjadi fitnah, maka [Abu Bakrah] menemuiku dengan bertanya; 'mau kemana kamu? ' aku menjawab; 'Aku ingin menolong keponakan Rasulullah Shallallahu'alaihiwasallam' (maksudnya 'Ali). Abu Bakrah berkata, Rasulullah Shallallahu'alaihiwasallam bersabda; "Jika dua muslim berhadap-hadapan dengan kedua pedangnya, maka keduanya sama-sama masuk neraka." Maka ada yang bertanya; 'kalau yang membunuh sudah maklum, lantas apa dosa yang dibunuh? ' Nabi shallallahu 'alaihi wasallam menjawab: "Ia juga berkehendak membunuh saudaranya." [Hammad bin Zaid] berkata; maka hadits ini kusampaikan kepada [Ayyub] dan [Yunus bin Ubaid], dan aku ingin keduanya menceritakan kepadaku (jalur periwayatan) hadits ini, maka keduanya mengatakan; 'Hadits ini diriwayatkan oleh [Al Hasan] dari [Ahnaf bin Qais] dari [Abu Bakrah]. Telah menceritakan kepada kami [Sulaiman] telah menceritakan kepada kami [Hammad] tentang hal itu. [Mu'ammal] berkata; telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub], [Yunus bin Ubaid], [Hisyam] dan [Mu'ala bin Zaid] dari [Al Hasan] dari [Ahnaf] dari [Abu Bakrah] dari Nabi shallallahu 'alaihi wasallam, dan diriwayatkan oleh [Ma'mar] dari [Ayyub], dan diriwayatkan oleh [Bakkar bin Abdul aziz] dari [ayahnya] dari [Abu Bakrah] dan [Ghundar] mengatakan; telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Rib'i bin Hirasy] dari [Abu Bakrah] dari Nabi shallallahu 'alaihi wasallam, dan [Sufyan] tidak memarfu'kannya dari [Manshur]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7083</td></tr><tr><td>Arabic No</td><td>7083</td></tr><tr><td>Reference</td><td>Book 92 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хасан (аль-Басри) сказал: \n— В ночи смут я вышел со своим оружием, а (через некоторое время) мне повстречался Абу Бакра. Он спросил (меня): «Куда ты (направляешься)?» Я сказал: «Я хочу помочь сыну дяди Посланника Аллаха ﷺ (то есть 'Али)». Он сказал: «Посланник Аллаха ﷺ сказал: “Если два мусульманина скрестят мечи, то они оба будут из числа обитателей Огня”. (Его) спросили: «С убийцей всё ясно, но почему и убитый тоже?» Он сказал: “Он ведь тоже хотел убить своего товарища!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7083</td></tr><tr><td>Arabic No</td><td>7083</td></tr><tr><td>Reference</td><td>Book 92 Hadith 34</td></tr></tbody></table></div>
 

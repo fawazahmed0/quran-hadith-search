@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aws ibn Aws: The Prophet (ﷺ) said: Among the most excellent of your d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Husain bin Ali] dari [Abdurrahman bin Yazid bin Jabir] dari [Abu Al Asy'Ats Tsauri Ash Shan'ani] dari [Aus bin Aus] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di antara hari-harimu yang paling utama adalah hari Jum'at, pada hari itu Adam di ciptakan, pada hari itu beliau wafat, pada hari itu juga ditiup (sangkakala) dan pada hari itu juga mereka pingsan. Maka perbanyaklah shalawat kepadaku -karena- shalawat kalian akan disampaikan kepadaku." Aus bin Aus berkata; para sahabat bertanya; "Wahai Rasulullah Shalallahu, bagaimana mungkin shalawat kami bisa disampaikan kepadamu, sementara anda telah tiada (meninggal)? -atau mereka berkata; "Telah hancur (menjadi tulang) "- Beliau bersabda: "Sesungguhnya Allah Azza wa Jalla mengharamkan bumi untuk memakan jasad para Nabi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1047</td></tr><tr><td>Arabic No</td><td>1047</td></tr><tr><td>Reference</td><td>Book 2 Hadith 658</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ауса ибн Ауса, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ сказал: «Поистине, пятница относится к числу наилучших дней ваших. В этот день был сотворён Адам, и в этот день он скончался, и в этот день раздастся трубный глас, и в этот день (творения) будут поражены. Так почаще же призывайте на меня благословения в этот день, ибо, поистине, ваши благословения будут представляться мне». Люди спросили: «О Посланник Аллаха, как же наши благословения будут представляться тебе, когда ты уже истлеешь?!» Они имели в виду: «Станешь прахом». (Пророк ﷺ) сказал: «Поистине, Всемогущий и Великий Аллах сделал тела пророков запретными для земли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1047</td></tr><tr><td>Arabic No</td><td>1047</td></tr><tr><td>Reference</td><td>Book 2 Hadith 658</td></tr></tbody></table></div>
 

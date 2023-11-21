@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:The people of Kufa complained to Umar b. Khattab about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Abdul Malik bin Umair] dari [Jabir bin Samurah] "Bahwa penduduk Kufah mengadukan [Sa'ad] kepada Umar bin al-Khaththab lalu mereka menyebutkan sebagian dari (kejelekan) shalatnya. Lalu Umar mengirim utusan kepadanya. Utusan tersebut menghadapnya dan menceritakan celaan penduduk Kufah tentang shalatnya. Maka Sa'ad menjawab, 'aku shalat mengimami mereka dengan shalat (yang dilakukan) Rasulullah Shallallahu'alaihiwasallam. Saya tidak menguranginya. aku memanjangkannya pada dua rakaat pertama, dan memendekkan dua rakaat lainnya.' Dia berkata, '(Berarti) itu hanyalah prasangka buruk mereka terhadapmu wahai Abu Ishaq'." Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ishaq bin Ibrahim] dari [Jarir] dari [Abdul Malik bin Umair] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1016</td></tr><tr><td>Arabic No</td><td>453</td></tr><tr><td>Reference</td><td>Book 4 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн Самуры, что, когда жители Куфы пожаловались ‘Умару ибн аль-Хаттабу на Са‘да, упомянув его молитву, ‘Умар послал за ним. Когда он прибыл, ‘Умар рассказал ему о том, что люди осуждали его молитву, и он (Са’д) сказал: «Я совершаю с ними молитву (так, как) совершал её Посланник Аллаха ﷺ, не делая в ней упущений. Поистине, я удлиняю с ними первые два рак‘ата и укорачиваю два последних». (Услышав это ‘Умар) сказал: «Так я о тебе и думал, о Абу Исхак!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1016</td></tr><tr><td>Arabic No</td><td>453</td></tr><tr><td>Reference</td><td>Book 4 Hadith 178</td></tr></tbody></table></div>
 

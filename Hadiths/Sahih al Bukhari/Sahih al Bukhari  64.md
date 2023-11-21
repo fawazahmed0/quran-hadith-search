@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Once Allah's Messenger (ﷺ) gave a letter to a pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abdullah] berkata, telah menceritakan kepadaku [Ibrahim bin Sa'd] dari [Shalih] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah bin Mas'ud] bahwa [Abdullah bin 'Abbas] telah mengabarkannya, bahwa Nabi shallallahu 'alaihi wasallam telah mengutus seseorang dengan membawa surat dan memerintahkan kepadanya untuk memberikan surat tersebut kepada Pemimpin Bahrain. Lalu Pemimpin Bahrain itu memberikannya kepada Kisra. Tatkala dibaca, surat itu dirobeknya. Aku mengira kemudian [Ibnu Musayyab] berkata; lalu Rasulullah shallallahu 'alaihi wasallam berdoa agar mereka (kekuasaannya) dirobek-robek sehancur-hancurnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Arabic No</td><td>64</td></tr><tr><td>Reference</td><td>Book 3 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах ими обоими:«(В своё время) Посланник Аллаха ﷺ отправил одного человека со своим посланием, повелев ему вручить это послание владыке Бахрейна. И тот вручил его владыке Бахрейна, который отправил его Хосрову, разорвавшему его на мелкие куски после прочтения».\n(Ибн аль-Мусаййаб) сказал: «И Посланник Аллаха ﷺ проклял их, пожелав, чтобы их самих разорвали в клочья»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Arabic No</td><td>64</td></tr><tr><td>Reference</td><td>Book 3 Hadith 6</td></tr></tbody></table></div>
 

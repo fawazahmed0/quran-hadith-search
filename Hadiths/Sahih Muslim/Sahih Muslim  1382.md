@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Apostle of Allah (ﷺ) said the afternoon" prayer as the sun
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid]. ['Amru] mengatakan; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] bahwa Nabi shallallahu 'alaihi wasallam pernah shalat ashar ketika sinar matahari muncul di kamarku (maksudnya agak sore, saat sinar matahari sudah menerobos kamarnya -pent) dan bayangan belum begitu miring sekali." Sedangkan [Abu Bakr] mengatakan dengan redaksi; "Dan bayangan belum nampak jelas setelah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1382</td></tr><tr><td>Arabic No</td><td>611.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 216</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Урвы, что ‘Аиша сказала: «Пророк ﷺ совершал послеполуденную молитву /‘аср/, когда солнце всё ещё заглядывало в мою комнату, а тень ещё не распространилась»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1382</td></tr><tr><td>Arabic No</td><td>611.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 216</td></tr></tbody></table></div>
 

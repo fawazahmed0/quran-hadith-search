@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Musaiyab's grand-father:In the pre-lslamic period of ignor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] berkata; ['Amru] pernah berkata, telah menceritakan kepada kami [Sa'id bin Al Musayyab] dari [bapaknya] dari [kakeknya] berkata; Pada zaman jahiliyyah pernah terjadi banjir yang menggenangi lembah yang ada diantara dua bukit (sekitar Ka'bah) ". Sufyan berkata; Dan dia berkata bahwa hadits ini merupakan fakta sejarah yang pernah terjadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3833</td></tr><tr><td>Arabic No</td><td>3833</td></tr><tr><td>Reference</td><td>Book 63 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са’ид ибн аль-Мусаййиб передал со слов своего отца, что его дед сказал: «В доисламский период невежества сель заполнил долину между двумя горами (вокруг Каабы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3833</td></tr><tr><td>Arabic No</td><td>3833</td></tr><tr><td>Reference</td><td>Book 63 Hadith 58</td></tr></tbody></table></div>
 

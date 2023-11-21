@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The Prophet (ﷺ) said, "Do not prefer some prophets to other
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Amru bin Yahya] dari [Ayahnya] dari [Abu Sa'id] dari Nabi shallallahu 'alaihi wasallam bersabda: "Jangan kalian memilih-milih diantara para nabi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6916</td></tr><tr><td>Arabic No</td><td>6916</td></tr><tr><td>Reference</td><td>Book 87 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида, что Пророк ﷺ сказал: «Не превозносите одних пророков над другими!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6916</td></tr><tr><td>Arabic No</td><td>6916</td></tr><tr><td>Reference</td><td>Book 87 Hadith 54</td></tr></tbody></table></div>
 

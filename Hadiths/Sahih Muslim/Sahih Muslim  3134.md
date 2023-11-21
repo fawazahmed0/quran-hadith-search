@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Yazid reported that he performed Hajj along with 'Abdullah (All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Ghundar] dari [Syu'bah] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata, Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari [Abdurrahman bin Yazid] bahwa ia pernah menunaikan haji bersama [Abdullah]. Kemudian Abdullah pun melempar Jamrah Aqabah dengan tujuh butir kerikil. (Posisinya), ia menempatkan Baitullah di sebelah kirinya sedangkan Mina di sebelah kanannya. Dan ia pun berkata, "Inilah tempat (melempar Jamrah) orang yang telah diturunkan surat Al Baqarah kepadanya." Dan Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Syu'bah] dengan Isnad ini, hanya saja ia menyebutkan; "Dan ketika sampai di Jamrah Aqabah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3134</td></tr><tr><td>Arabic No</td><td>1296.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 338</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3134</td></tr><tr><td>Arabic No</td><td>1296.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 338</td></tr></tbody></table></div>
 

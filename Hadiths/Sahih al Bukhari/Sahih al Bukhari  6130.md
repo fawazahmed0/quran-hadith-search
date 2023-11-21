@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I used to play with the dolls in the presence of the Prophet, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Hisyam] dari [Ayahnya] dari [Aisyah] radliallahu 'anha dia berkata; "Aku pernah bermain bersama anak-anak perempuan di dekat Nabi shallallahu 'alaihi wasallam, dan aku juga mempunyai teman-teman yang biasa bermain denganku, apabila Rasulullah shallaallahu'alaihi wa sallam masuk, mereka bersembunyi dari beliau. Sehingga beliau memanggil mereka supaya bermain bersamaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6130</td></tr><tr><td>Arabic No</td><td>6130</td></tr><tr><td>Reference</td><td>Book 78 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я играла с куклами у Пророка ﷺ и у меня были подруги, которые играли со мной. Когда Посланник Аллаха ﷺ заходил (домой), они прятались от него, но он посылал их (снова) ко мне и они (продолжали) со мной играть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6130</td></tr><tr><td>Arabic No</td><td>6130</td></tr><tr><td>Reference</td><td>Book 78 Hadith 157</td></tr></tbody></table></div>
 

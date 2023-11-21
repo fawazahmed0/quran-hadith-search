@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:When the Verse:-- "Not equal are those of the believers who sit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Bara' radliallahu 'anhu] berkata; tatkala turun ayat: LAA YASTAWIL QAA'IDUUNA MINAL MUKMINIINA WAL MUJAAHIDUUNA FII SABIILILLAAH' 'Tidaklah sama antara orang mukmin yang tidak ikut berperang dan mereka yang berjihad fii sabilillah.' (An Nisa: 95) Rasulullah shallallahu 'alaihi wasallam memanggil Zaid, lalu Zaid menulisnya. Kemudian Ummi Maktum datang mengadukan kesulitannya untuk ikut berperang karena buta. Maka Allah menurunkan ayat: GHAIRU ULIDLDLARAR' 'Kecuali orang-orang yang mempunyai halangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4593</td></tr><tr><td>Arabic No</td><td>4593</td></tr><tr><td>Reference</td><td>Book 65 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Когда был ниспослан аят: “Не равны те из верующих, которые отсиживаются…”, Посланник Аллаха ﷺ позвал Зейда, и тот записал эти аяты. Тут Ибн Умм Мактум пожаловался на свою слепоту, и тогда Аллах ниспослал: “…кроме тех, кто испытывает тяготы…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4593</td></tr><tr><td>Arabic No</td><td>4593</td></tr><tr><td>Reference</td><td>Book 65 Hadith 115</td></tr></tbody></table></div>
 

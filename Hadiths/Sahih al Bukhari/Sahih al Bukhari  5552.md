@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ibn 'Umar said, "Allah's Messenger (ﷺ) used to slaughter (camels and sheep, et
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Katsir bin Farqad] dari [Nafi'] bahwa [Ibnu Umar] radliallahu 'anhuma telah mengabarkan kepadanya, dia berkata; "Rasulullah shallallahu 'alaihi wasallam biasa menyembelih binatang kurban di tempat yang di gunakan untuk shalat (ied)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>5552</td></tr><tr><td>Reference</td><td>Book 73 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «(В день праздника) Посланник Аллаха ﷺ обычно приносил в жертву жертвенных животных на месте совершения молитвы /мусалля/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>5552</td></tr><tr><td>Reference</td><td>Book 73 Hadith 8</td></tr></tbody></table></div>
 

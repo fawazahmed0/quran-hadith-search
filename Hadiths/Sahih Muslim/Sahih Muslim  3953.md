@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hanzala reported that he heard Rafi' b. Khadij (Allah be pleased with him) say:W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Yahya bin Sa'id] dari [Handlalah Az Zuraqi] bahwa dia mendengar [Rafi' bin Khadij] berkata; "Kebanyakan kami dari orang-orang Anshar melakukan muhaqalah." Rafi' melanjutkan; "Kami biasa menyewakan tanah perkebunan dengan imbalan bagi kami ini dan bagi mereka sebelah sana, seandainya tanaman yang membuahkan hasil ternyata di sebelah sana tidak membuahkan hasil, oleh karenanya kami dilarang melakukan usaha seperti itu, dan tidak mengapa jika menyewakan tanah perkebunan dengan imbalan dirham." Telah menceritakan kepada kami [Abu Rabi'] telah menceritakan kepada kami [Hammad]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Yazid bin Harun] semuanya dari [Yahya bin Sa'id] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3953</td></tr><tr><td>Arabic No</td><td>1547.13</td></tr><tr><td>Reference</td><td>Book 21 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3953</td></tr><tr><td>Arabic No</td><td>1547.13</td></tr><tr><td>Reference</td><td>Book 21 Hadith 152</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:I heard from the Prophet (ﷺ) saying, "There will come a tim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Al Majisyun] dari [Abdurrahman bin Abi Sha'sha'ah] dari [ayahnya] dari [Abu Sa'id Al Khudzri] bahwasanya ia mendengarnya mengatakan, kudengar Nabi shallallahu 'alaihi wasallam bersabda: "Akan datang suatu Zaman bagi manusia, yang ketika itu sebaik-baik harta seorang muslim adalah kambing yang ia gembalakan di puncak-puncak gunung dan tempat-tempat turunnya hujan, ia lari menyelamatkan agamanya dari fitnah (krisis agama)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6495</td></tr><tr><td>Arabic No</td><td>6495</td></tr><tr><td>Reference</td><td>Book 81 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Настанет для людей (такое) время, когда лучшим имуществом мусульманина будут овцы, за которыми он будет ходить по вершинам гор и местам выпадения дождя, убегая со своей религией от смут»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6495</td></tr><tr><td>Arabic No</td><td>6495</td></tr><tr><td>Reference</td><td>Book 81 Hadith 84</td></tr></tbody></table></div>
 

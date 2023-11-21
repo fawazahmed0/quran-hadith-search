@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Sahl As-Sa'idi:The Prophet (ﷺ) looked at a man fighting agai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Ayyats Al Hani Al Himsh] telah menceritakan kepada kami [Abu Ghassan] mengatakan; telah menceritakan kepadaku [Abu Hazim] dari [Sahal bin Sa'd As Sa'idi] mengatakan; Nabi shallallahu 'alaihi wasallam mengarahkan pandangannya kepada seseorang yang memerangi kaum musyrikin dan ia merupakan salah seorang prajurit muslimin yang gagah berani, namun anehnya beliau malah berujar; "Siapa yang ingin melihat seorang penduduk neraka, silahkan lihat orang ini." Kontan seseorang menguntitnya, dan terus ia kuntit hingga prajurit tadi terluka dan ingin disegerakan kematiannya. Serta merta ia ambil ujung pedangnya dan ia letakkan di dadanya, lantas ia hunjamkan hingga menembus diantara kedua lengannya. Selanjutnya Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh ada seorang hamba yang menurut pandangan orang banyak mengamalkan amalan penghuni surga, namun berakhir menjadi penghuni neraka, sebaliknya ada seorang hamba yang menurut pandangan orang melakukan amalan-amalan penduduk neraka, namun berakhir dengan menjadi penghuni surga, sungguh amalan itu dihitung dengan penutupannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6493</td></tr><tr><td>Arabic No</td><td>6493</td></tr><tr><td>Reference</td><td>Book 81 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль бин Са‘д ас-Са‘иди, да будет доволен им Аллах, передаёт, что однажды Пророк ﷺ наблюдал за одним человеком, который сражался с многобожниками. И из всех мусульман, он меньше всего нуждался в помощи мусульман. И Пророк ﷺ сказал: «Кто хочет взглянуть на одного из обитателей Огня, пусть посмотрит на этого». Один человек стал следить за ним, и он не переставал сражаться с многобожниками, пока не получил ранение. Тогда он поспешил умереть и он приложил остриё своего меча к своей груди и навалился на меч, так что он вышел у него между лопаток. И Пророк ﷺ сказал: «Поистине, людям может представляться, что раб совершает дела обитателей Рая, но (на самом деле) он относится к числу обитателей Огня, людям может представляться, что человек совершает дела обитателей Огня, но (на самом деле) он из числа обитателей Рая. И, поистине, деяния (будут определяться) по последним действиям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6493</td></tr><tr><td>Arabic No</td><td>6493</td></tr><tr><td>Reference</td><td>Book 81 Hadith 82</td></tr></tbody></table></div>
 

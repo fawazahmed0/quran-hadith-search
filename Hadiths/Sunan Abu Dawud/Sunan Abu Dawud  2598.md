@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: When the Messenger of Allah (ﷺ) proceeded on journey, he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya], telah menceritakan kepada kami [Muhammad bin 'Ajlan], telah menceritakan kepadaku [Sa'id Al Maqburi], dari [Abu Hurairah], ia berkata; Rasulullah shallallahu wa'alaihi wa sallam apabila bersafar beliau mengucapkan: "ALLAAHUMMA ANTASH SHAAHIBU FISSAFARI WAL KHALIIFATU FIL AHLI, ALLAAHUMMA INNII A'UUDZU BIKA MIN WA'TSAA-ISSAFARI WA KA-AABATIL MUNQALABI WA SUUIL MANZHARI FIL AHLI WAL MAALI. ALLAAHUMMATHWI ANNAL ARDHA WA HAWWIN 'ALAINAS SAFARA" (Ya Allah, Engkau adalah Teman dalam perjalanan, dan Pengganti di dalam keluarga. Ya Allah, sesungguhnya aku berlindung kepadaMu dari beratnya perjalanan, kesedihan saat kembali, dan keburukan pemandangan dalam keluarga, serta harta. Ya Allah, pendekkanlah jarak bumi, dan mudahkanlah perjalanan bagi kami)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2598</td></tr><tr><td>Arabic No</td><td>2598</td></tr><tr><td>Reference</td><td>Book 15 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2598</td></tr><tr><td>Arabic No</td><td>2598</td></tr><tr><td>Reference</td><td>Book 15 Hadith 122</td></tr></tbody></table></div>
 

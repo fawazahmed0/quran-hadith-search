@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:It is better for any one 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir] dan [Yunus bin Abdul A'la] keduanya berkata, Telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru bin Harits] dari [Ibnu Syihab] dari [Abu Ubaid] Maula Abdurrahman bin Auf, bahwa ia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang dari kalian mengikat satu ikatan kayu bakar, lalu ia memikulnya di atas punggungnya, kemudian ia jual adalah lebih baik baginya daripada harus meminta-minta kepada orang, baik orang itu memberi atau menolaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>1042.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, для любого из вас взять вязанку дров, понести её на своей спине, чтобы продать, лучше, чем обращаться с просьбами к (тому или иному) человеку, который может дать ему (что-либо), а может и отказать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>1042.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 139</td></tr></tbody></table></div>
 

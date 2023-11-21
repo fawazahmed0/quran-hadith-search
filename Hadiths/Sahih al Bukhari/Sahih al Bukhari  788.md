@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:I prayed behind a Sheikh at Mecca and he said twenty two Takbir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah mengabarkan kepada kami [Hammam] dari [Qatadah] dari ['Ikrimah] berkata, "Aku shalat di belakang seorang syaikh di Makkah. Orang itu bertakbir sejumlah dua puluh dua kali. Lalu aku katakan kepada Ibnu Abbas, 'Betapa bodohnya orangitu!" Maka [Ibnu 'Abbas] pun berkata, "Celaka kamu. Sungguh dia telah mempraktekkan sunnah yang dicontohlan oleh Abu Al Qasim shallallahu 'alaihi wasallam." [Musa] berkata, telah menceritakan kepada kami [Aban] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami ['Ikrimah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 10 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Катады, что ‘Икрима сказал: «Я молился позади какого-то старика в Мекке и он произнес такбир /«Аллаху акбар»/ двадцать два раза, после этого я сказал Ибн ‘Аббасу: “Поистине, он глупец!”. На что он ответил: “Да потеряет тебя твоя мать! Это сунна Абу аль-Касима ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 10 Hadith 183</td></tr></tbody></table></div>
 

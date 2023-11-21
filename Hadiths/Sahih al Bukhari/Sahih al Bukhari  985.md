@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundab:On the day of Nahr the Prophet (ﷺ) offered the prayer and deli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] berkata, telah menceritakan kepada kami [Syu'bah] dari [Al Aswad] dari [Jundub] berkata, "Nabi shallallahu 'alaihi wasallam melaksanakan shalat Hari Raya kurban lalu menyampaikan khutbah, beliau katakan: "Barangsiapa menyembelih hewan sebelum shalat maka dia harus menyembelih hewan kurban lain sebagai penggantinya. Dan siapa yang belum menyembelihnya maka sembelihlah atas nama Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>985</td></tr><tr><td>Arabic No</td><td>985</td></tr><tr><td>Reference</td><td>Book 13 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джундуб сказал: «Пророк ﷺ совершил молитву в День жертвоприношения, затем обратился с проповедью, затем совершил жертвоприношение и сказал: “Пусть тот, кто зарезал животное до молитвы, зарежет другое (животное) вместо той, а тот, кто не резал, пусть режет с именем Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>985</td></tr><tr><td>Arabic No</td><td>985</td></tr><tr><td>Reference</td><td>Book 13 Hadith 34</td></tr></tbody></table></div>
 

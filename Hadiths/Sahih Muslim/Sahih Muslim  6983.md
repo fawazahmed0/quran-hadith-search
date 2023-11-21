@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying that a servant transgress
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] dan ['Abd bin Humaid], 'Abd berkata; telah mengabarkan kepada kami, dan Ibnu Rafi' berkata; -dan lafadh ini miliknya-; telah menceritakan kepada kami ['Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dia berkata;) [Az Zuhri] berkata; dan telah menceritakan kepadaku [Humaid] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam dia berkata; "Seorang wanita masuk neraka karena seekor kucing yang diikatnya hingga akhirnya mati. Dia tidak memberinya makan, dan tidak pula membiarkannya lepas hingga mencari makan dari serangga-serangga bumi." Az Zuhri berkata; hal itu supaya seseorang tidak berdiam diri tanpa beramal (pasrah), dan tidak pula berputus asa. Telah menceritakan kepadaku [Abu Ar Rabi' Sulaiman bin Dawud] telah menceritakan kepada kami [Muhammad bin Harb] telah menceritakan kepadaku [Az Zubaidi], [Az Zuhri] berkata; telah menceritakan kepadaku [Humaid bin 'Abdurrahman bin 'Auf] dari [Abu Hurairah] dia berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang hamba telah melampaui batas atas dirinya. -sebagaimana Hadits Ma'mar. dan di dalam Hadits Az Zubaidi dia berkata; maka Allah ta'ala berfirman kepada setiap sesuatu yang telah mengambil dari yang bukan miliknya: "Tunaikan apa yang telah kamu ambil darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6983</td></tr><tr><td>Arabic No</td><td>2756.03</td></tr><tr><td>Reference</td><td>Book 50 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6983</td></tr><tr><td>Arabic No</td><td>2756.03</td></tr><tr><td>Reference</td><td>Book 50 Hadith 30</td></tr></tbody></table></div>
 

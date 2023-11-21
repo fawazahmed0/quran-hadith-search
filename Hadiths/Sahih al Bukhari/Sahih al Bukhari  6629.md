@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin Samura:The Prophet (ﷺ) said, "If Caesar is ruined, there wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] Telah menceritakan kepada kami [Abu 'Awanah] dari [Abdul Malik] dari [Jabir bin Samurah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika Kaisar telah meninggal, tak akan ada kaisar lagi sepeninggalnya, dan jika Kisra meninggal, maka tak akan ada lagi Kisra sepeninggalnya. Demi Dzat yang jiwaku berada di Tangan-Nya, perbendaharaan kekayaan keduanya akan terbelanjakan fi sabilillah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6629</td></tr><tr><td>Arabic No</td><td>6629</td></tr><tr><td>Reference</td><td>Book 83 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн Самуры о том, что Пророк ﷺ сказал: «Когда погибнет император, то не будет другого императора после него, и когда хосрой погибнет, то не будет хосроя после него. И клянусь Тем, в Чьей Длани душа моя, вы непременно будете расходовать их сокровища на пути Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6629</td></tr><tr><td>Arabic No</td><td>6629</td></tr><tr><td>Reference</td><td>Book 83 Hadith 9</td></tr></tbody></table></div>
 

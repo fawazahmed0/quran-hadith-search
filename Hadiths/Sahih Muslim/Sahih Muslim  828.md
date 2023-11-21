@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:We were with the Messenger of Allah (ﷺ) and he had come ou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru] dari [Sa'id bin al-Huwairits] saya mendengar [Ibnu Abbas] berkata, "Kami pernah di sisi Nabi Shallallahu'alaihiwasallam, lalu beliau datang dari WC, dan beliau dibawakan makanan, maka dikatakan kepada beliau, 'Tidakkah kamu berwudhu?.' Maka beliau bersabda, 'Mengapa harus berwudhu, apakah saya akan shalat sehingga harus berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>828</td></tr><tr><td>Arabic No</td><td>374.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «(Однажды), когда мы были у Пророка ﷺ, он пришёл из отхожего места, и была подана еда. Кто-то сказал ему: “Разве ты не совершишь омовение?” На что он сказал: “Зачем? Разве я собираюсь молиться, чтобы совершать омовение?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>828</td></tr><tr><td>Arabic No</td><td>374.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 149</td></tr></tbody></table></div>
 

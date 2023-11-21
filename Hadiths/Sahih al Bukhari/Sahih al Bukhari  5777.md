@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:When Khaibar was conquered, Allah's Messenger (ﷺ) was pre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Sa'id bin Abu Sa'id] dari [Abu Haurairah] Bahwa ketika Khaibar ditaklukkan, Rasulullah shallallahu 'alaihi wasallam diberi hadiah seekor kambing beracun. Rasulullah shallallahu 'alaihi wasallam langsung bersabda: 'Tolong kumpulkanlah orang-orang Yahudi yang ada di sini.' Maka mereka dikumpulkanlah di hadapan beliau. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: 'Saya akan bertanya kepada kalian tentang sesuatu, apakah kalian akan menjawab dengan jujur? ', mereka menjawab; 'Ya, wahai Abu Qasim (Nabi Muhammad Shallallahu'alaihi wasallam).' Lalu Rasulullah shallallahu 'alaihi wasallam bertanya: 'Siapakah ayah kalian? ' Mereka menjawab; 'Ayah kami si fulan.' Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: 'Kalian bohong!, tetapi ayah kalian adalah si fulan.' Mereka menjawab; 'Baginda benar.' Lalu beliau bersabda kepada mereka: 'Apakah kalian akan jujur jika saya tanya tentang sesuatu? ' Mereka menjawab; 'Ya, dan jika kami berbohong niscaya baginda mengetahuinya, sebagaimana baginda mengetahui ayah-ayah kami.' Rasulullah shallallahu 'alaihi wasallam bertanya kepada mereka: 'Siapakah penghuni neraka? ' Mereka menjawab; 'Kami berada di dalamnya sebentar dan kemudian baginda menggantikan kami di dalamnya.' Maka Rasulullah shallallahu 'alaihi wasallam berkata kepada mereka: Terhinalah kalian di dalamnya, demi Allah subhanahu wata'ala kami tidak akan menggantikan kalian di dalamnya selamanya." Lalu Rasulullah shallallahu 'alaihi wasallam bertanya kepada mereka: "Apakah kalian akan berkata jujur terhadap pertanyaan yang akan kutanyakan kepada kalian?", mereka menjawab; Ya. Beliau bersabda: "Apakah kalian membubuhi racun pada (daging) kambing tersebut?" Mereka menjawab; "Ya, " beliau bertanya: "Apa yang menyebabkan kalian berbuat demikian?" Mereka menjawab; "Kami ingin terbebas jika baginda seorang pembohong dan jika baginda benar seorang Nabi maka (racun itu) tidak bakalan mencelakai baginda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5777</td></tr><tr><td>Arabic No</td><td>5777</td></tr><tr><td>Reference</td><td>Book 76 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда Хайбар был завоёван, (иудеи) преподнесли в подарок Посланнику Аллаха ﷺ (жареную) отравленную овцу, и Посланник Аллаха ﷺ велел: “Соберите ко мне (всех) иудеев, которые здесь находятся”. Когда этих иудеев собрали у него, Посланник Аллаха ﷺ сказал: “Я хочу задать вам один вопрос. Скажете ли вы мне правду?” Они сказали: “Да, о Абу-ль-Касим”. Тогда Посланник Аллаха ﷺ спросил их: “Кто ваш отец?” Они сказали: “Такой-то”. Посланник Аллаха ﷺ сказал: “Вы солгали, ибо вашим отцом является такой- то”. Они сказали: “Ты сказал правду”. (Потом Пророк ﷺ) спросил: “А скажете ли вы мне правду, если я спрошу вас о чём-то (ещё)?” Они ответили: “Да, о Абу-ль-Касим, ибо если мы и солжём, ты распознаешь нашу ложь, как это было с нашим отцом”. Тогда Посланник Аллаха ﷺ спросил их: “Кто окажется в огне?” Они сказали: “Мы побудем там недолго, а потом нас замените собой вы”. (На это) Посланник Аллаха ﷺ сказал: “Оставайтесь (униженными в Аду)! Клянусь Аллахом, мы никогда не заменим вас собой в (огне)!” Потом он сказал: “А скажете ли вы мне правду, если я спрошу вас о чём-то (ещё)?” Они ответили: “Да”. (Тогда Пророк ﷺ) спросил: “Положили ли вы яд в эту овцу?” Они сказали: “Да”. (Пророк ﷺ) спросил: “Что заставило вас сделать это?” Они ответили: “Мы хотели избавиться от тебя, если ты лжец, если же ты (истинный) пророк, то (отрава) не повредила бы тебе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5777</td></tr><tr><td>Arabic No</td><td>5777</td></tr><tr><td>Reference</td><td>Book 76 Hadith 89</td></tr></tbody></table></div>
 

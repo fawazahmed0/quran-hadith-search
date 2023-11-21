@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir bin ‘Abd Allaah said “We were on a journey with the Apostle of Allaah(
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Husyaim], telah mengabarkan kepada kami [Sayyar] dari [Asy Sya'bi], dari [Jabir bin Abdullah], ia berkata; dahulu kami bersama Nabi shallallahu 'alaihi wasallam dalam sebuah safar, kemudian tatkala kami pergi untuk menemui keluarga kami beliau berkata: "Tundalah hingga kita masuk pada malam hari, agar wanita yang rambutnya acak-acakan bersisir, dan wanita yang ditinggal suaminya membersihkan bulu kemaluannya." Abu Daud berkata; Az Zuhri berkata; Thuruq adalah setelah 'Isya'. Abu Daud berkata; sedangkan setelah Maghrib tidak mengapa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5247) Sahih Muslim (715 After 1928)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2778</td></tr><tr><td>Arabic No</td><td>2778</td></tr><tr><td>Reference</td><td>Book 15 Hadith 302</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5247) Sahih Muslim (715 After 1928)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2778</td></tr><tr><td>Arabic No</td><td>2778</td></tr><tr><td>Reference</td><td>Book 15 Hadith 302</td></tr></tbody></table></div>
 

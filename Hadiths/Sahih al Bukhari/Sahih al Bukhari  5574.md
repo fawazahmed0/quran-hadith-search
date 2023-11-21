@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:'Abdullah bin 'Umar said, "Allah's Messenger (ﷺ) said, "Eat of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim] telah mengabarkan kepada kami [Ya'qub bin Ibrahim bin Sa'd] dari [Ibnu Akhi Ibnu Syihab] dari pamannya [Ibnu Syihab] dari [Salim] dari [Abdullah bin Umar] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Makanlah daging kurban selama tiga hari." Sementara Abdullah makan daging kurban tersebut dengan minyak, ketika dia kembali dari Mina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5574</td></tr><tr><td>Arabic No</td><td>5574</td></tr><tr><td>Reference</td><td>Book 73 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим передал от ’Абдуллы ибн ’Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Ешьте мясо жертвенных животных в течении трёх дней». И уходя из Мины, ’Абдуллах обычно ел (хлеб с) маслом, чтобы не есть мясо жертвенных животных (больше трёх дней)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5574</td></tr><tr><td>Arabic No</td><td>5574</td></tr><tr><td>Reference</td><td>Book 73 Hadith 30</td></tr></tbody></table></div>
 

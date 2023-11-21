@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Hisham:We were with the Prophet (ﷺ) and he was holding 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] menuturkan; telah menceritakan kepadaku [Ibnu Wahab] menuturkan; telah telah mengabarkan kepadaku [Haiwah] mengatakan; telah menceritakan kepadaku [Abu Uqail Zuhra bin Ma'bad] bahwasanya ia mendengar [kakeknya, Abdullah bin Hisyam] menuturkan; kami pernah bersama Nabi shallallahu 'alaihi wasallam yang saat itu beliau menggandeng tangan Umar bin Khattab, kemudian Umar berujar: "ya Rasulullah, sungguh engkau lebih aku cintai dari segala-galanya selain diriku sendiri." Nabi shallallahu 'alaihi wasallam bersabda: "Tidak, demi Dzat yang jiwa berada di Tangan-Nya, hingga aku lebih engkau cintai daripada dirimu sendiri." Maka Umar berujar; 'Sekarang demi Allah, engkau lebih aku cintai daripada diriku'. Maka Nabi shallallahu 'alaihi wasallam bersabda: "sekarang (baru benar) wahai Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6632</td></tr><tr><td>Arabic No</td><td>6632</td></tr><tr><td>Reference</td><td>Book 83 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Хишам, да будет доволен им Аллах, сказал: «(Однажды, когда) мы находились в обществе Пророка ﷺ который держал за руку ‘Умара ибн аль-Хаттаба, ‘Умар сказал ему: “О Посланник Аллаха, поистине, я люблю тебя больше всего иного, кроме самого себя!” (На это) Пророк ﷺ сказал: “Нет, клянусь Тем, в Чьей Длани душа моя, (не станет вера твоя совершенной,) пока не станешь ты любить меня больше самого себя!” Тогда ‘Умар сказал ему: “Поистине, сейчас, клянусь Аллахом, я люблю тебя больше самого себя!” — и Пророк ﷺ сказал: “Сейчас, о ‘Умар!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6632</td></tr><tr><td>Arabic No</td><td>6632</td></tr><tr><td>Reference</td><td>Book 83 Hadith 12</td></tr></tbody></table></div>
 

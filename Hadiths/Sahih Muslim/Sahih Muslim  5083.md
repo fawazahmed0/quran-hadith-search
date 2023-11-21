@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:Allah's Messenger (ﷺ) led us in the 'Id prayer in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Muhammad bin Bakar] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin Abdullah] berkata, "Nabi shallallahu 'alaihi wasallam pernah shalat Iedul Adlha bersama kami di Madinah, lalu para laki-laki menyembelih (hewan kurban), sebab mereka menyangka bahwa Nabi shallallahu 'alaihi wasallam telah menyembelih (hewan kurban). Nabi shallallahu 'alaihi wasallam kemudian memerintahkan bagi mereka yang telah menyembelih sebelum shalat untuk mengulangi kurbannya, dan mereka tidak menyembelihnya hingga Nabi shallallahu 'alaihi wasallam menyembelihnya terlebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5083</td></tr><tr><td>Arabic No</td><td>1964</td></tr><tr><td>Reference</td><td>Book 35 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5083</td></tr><tr><td>Arabic No</td><td>1964</td></tr><tr><td>Reference</td><td>Book 35 Hadith 20</td></tr></tbody></table></div>
 

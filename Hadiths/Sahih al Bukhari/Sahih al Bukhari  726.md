@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I prayed with the Prophet (ﷺ) one night and stood on his l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Daud] dari ['Amru bin Dinar] dari [Kuraib] mantan budak Ibnu 'Abbas, dari [Ibnu 'Abbas] berkata, "Pada suatu malam aku pernah shalat bersama Nabi shallallahu 'alaihi wasallam, dan aku berdiri di samping kirinya. Rasulullah shallallahu 'alaihi wasallam kemudian memegang kepalaku dari arah belakangku, lalu menempatkan aku di sebelah kanannya. Beliau kemudian shalat dan tidur setelahnya. Setelah itu datang mu'adzin kepada beliau, maka beliau pun berangkat shalat dengan tidak berwudlu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>726</td></tr><tr><td>Arabic No</td><td>726</td></tr><tr><td>Reference</td><td>Book 10 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Вольноотпущенник Ибн ‘Аббаса (по имени) Курайб передал, что Ибн ‘Аббас, да будет Аллах доволен им и его отцом, сказал: «Однажды ночью я решил совершить намаз вместе с Пророком ﷺ и встал слева от него. Он взял меня за затылок и поставил меня справа от себя. Совершив намаз он заснул, а когда к нему пришёл муаззин, он встал и совершил намаз, не совершив омовения /вудуъ/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>726</td></tr><tr><td>Arabic No</td><td>726</td></tr><tr><td>Reference</td><td>Book 10 Hadith 120</td></tr></tbody></table></div>
 

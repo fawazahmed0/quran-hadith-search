@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of the Messenger of Allah (ﷺ), said that between the time whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah menceritakan kepada kami [Ibn Wahb] telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Ibnu Syihab] dari ['Urwah bin Zubair] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah shalat antara habis shalat isya' yang biasa disebut 'atamah hingga waktu fajar. Beliau melakukan sebelas rakaat, setiap dua rakaat beliau salam, dan beliau juga melakukan witir satu rakaat. Jika muadzin shalat fajar telah diam, dan fajar telah jelas, sementara muadzin telah menemui beliau, maka beliau melakukan dua kali raka'at ringan, kemudian beliau berbaring diatas lambung sebelah kanan hingga datang muadzin untuk iqamat." Dan telah menceritakan kepadaku [Harmalah] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dengan sanad hadits ini. Harmalah juga membawakan hadits semisalnya, hanya saja ia tidak menyebutkan redaksi "Ketika fajar telah jelas, dan muadzin menemui beliau." Dia juga tidak menyebutkan "iqamat" dan semuanya sama seperti haditsnya 'Amru
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1718</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Между вечерней и утренней (обязательными) молитвами Посланник Аллаха ﷺ обычно совершал (молитву в) одиннадцать рак‘атов, произнося слова таслима после каждых двух рак‘атов и совершая в конце её один (рак‘ат). Когда же муаззин заканчивал произносить призыв к утренней молитве, видел, что начинало светать и приходил к (Пророку ﷺ), он поднимался и совершал два лёгких рак‘ата, после чего ложился на правый бок (и лежал) так, пока муаззин не приходил к нему (ещё раз), чтобы объявить о начале (обязательной) молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1718</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

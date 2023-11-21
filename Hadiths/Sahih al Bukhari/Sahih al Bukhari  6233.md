@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) said, "The riding person should gr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Ibnu Juraij] dia berkata; telah mengabarkan kepadaku [Ziyad] bahwa [Tsabit] telah mengabarkan kepadanya -dia adalah bekas budak Abdurrahman bin Zaid- dari [Abu Hurairah] radliallahu 'anhu dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Hendaknya orang yang berkendaraan memberi salam kepada yang berjalan, dan yang berjalan kepada yang duduk dan (rombongan) yang sedikit kepada (rombongan) yang banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6233</td></tr><tr><td>Arabic No</td><td>6233</td></tr><tr><td>Reference</td><td>Book 79 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Сообщается со слов Абу Хурайры, да будет доволен им Аллах, сообщается, что) Посланник Аллаха ﷺ сказал: «Всадник (должен первым) приветствовать пешего, идущий — сидящего, а меньшая (по количеству группа людей) — большую»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6233</td></tr><tr><td>Arabic No</td><td>6233</td></tr><tr><td>Reference</td><td>Book 79 Hadith 7</td></tr></tbody></table></div>
 

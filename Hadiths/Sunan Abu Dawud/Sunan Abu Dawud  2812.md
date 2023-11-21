@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:Some people of desert came at the time of sacrifice in the time
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik], dari [Abdullah bin Abu Bakr], dari ['Amrah binti Abdurrahman], ia berkata; saya mendengar [Aisyah] berkata; orang-orang bersegera menghadiri shalat 'Idul Adhha pada zaman Rasulullah shallallahu 'alaihi wasallam, kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Simpanlah sepertiga, dan sedekahkan sisanya!" Aisyah berkata; kemudian setelah itu Rasulullah shallallahu 'alaihi wasallam ditanya; wahai Rasulullah, dahulu orang-orang mendapatkan manfaat dari kurban mereka dan mereka mencairkan lemak, dan membuat tempat minum dari kulitnya, kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Ada apa dengan hal tersebut?" Mereka berkata; wahai Rasulullah, engkautelah melarang dari memakan daging kurban setelah tiga hari. Kemudian beliau berkata: "Sesungguhnya aku melarang hal tersebut, karena sekelompok orang yang terburu-buru datang kepada kalian. Makanlah, sedekahkan, serta simpanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1971)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2812</td></tr><tr><td>Arabic No</td><td>2812</td></tr><tr><td>Reference</td><td>Book 16 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «При жизни Посланника Аллаха ﷺ бедуины пришли на Праздник жертвоприношения и Посланник Аллаха ﷺ сказал: “Оставляйте у себя мяса на три дня, а остальное раздавайте в качестве милостыни”. Спустя некоторое время Посланнику Аллаха ﷺ сказали: “О Посланник Аллаха! Раньше люди использовали своих жертвенных животных, собирали их жир и делали из их кож бурдюки”. Посланник Аллаха ﷺ сказал: “А что же теперь?” Люди сказали: “Но ведь ты запретил нам оставлять у себя мясо жертвенных животных дольше трёх дней”. Посланник Аллаха ﷺ сказал: “Я запретил вам только ради этих людей, которые пришли к нам. Ешьте же, раздавайте и запасайте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1971)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2812</td></tr><tr><td>Arabic No</td><td>2812</td></tr><tr><td>Reference</td><td>Book 16 Hadith 25</td></tr></tbody></table></div>
 

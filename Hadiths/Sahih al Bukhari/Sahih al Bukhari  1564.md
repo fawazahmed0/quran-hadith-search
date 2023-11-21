@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The people (of the Pre-Islamic Period) used to think that to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ibnu Thowus] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Orang-orang (Kaum Jahiliyah) menganggap melaksanakan 'umrah pada bulan-bulan hajji adalah kejahatan yang paling besar di muka bumi dan mereka menjadiikan bulan haram adalah bulan Shafar dan mereka berkata: "Jika luka sudah sembuh (pada unta setelah melahirkan) dan sisa-sisa pelaksanaan hajji sudah hilang dan bulan Shafar sudah berlalu maka baru dibolehkan 'umrah bagi mereka yang mau ber'umrah". Kemudian Nabi shallallahu 'alaihi wasallam dan para sahabatnya tiba di Makkah pada hari keempat bulan Dzul Hijjah, mereka bertalbiyyah untuk haji. Kemudian Beliau memerintahkan mereka agar menjadikannya sebagai niat 'umrah. Hal ini menjadi perkara yang besar bagi mereka sehingga mereka bertanya: "Wahai Rasulullah, apa saja yang halal (dibolehkan)?". Beliau menjawab: "Semuanya halal (boleh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1564</td></tr><tr><td>Arabic No</td><td>1564</td></tr><tr><td>Reference</td><td>Book 25 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(В доисламскую эпоху люди) считали совершение умры в месяцы хаджа одним из тягчайших прегрешений на земле. (Кроме того,) они объявляли месяц мухаррам сафаром и говорили: “Когда заживут спины, и исчезнут следы, и закончится сафар, умра станет дозволенной для желающего совершить её”. Что же касается Пророка ﷺ то он и его сподвижники прибыли (в Мекку) утром в четвёртый (день месяца зуль-хиджжа) с намерением совершить хадж, (однако там) он велел (своим сподвижникам использовать эту возможность и для) совершения умры. Им было трудно согласиться с этим, и они спросили: “О Посланник Аллаха, а как именно следует выходить из состояния ихрама?” Он сказал: “Полностью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1564</td></tr><tr><td>Arabic No</td><td>1564</td></tr><tr><td>Reference</td><td>Book 25 Hadith 50</td></tr></tbody></table></div>
 

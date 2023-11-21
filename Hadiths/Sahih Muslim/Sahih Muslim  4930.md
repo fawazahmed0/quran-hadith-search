@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Sahl b. Aba Umama b. Sahl b. Hunaif who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah bin Yahya] dan ini adalah lafadz Harmalah, Abu At Thahir berkata; telah mengabarkan kepada kami, sedangkan Harmalah mengatakan; telah menceritakan kepada kami [Abdullah bin Wahb] telah menceritakan kepadaku [Abu Syuraikh] bahwa [Sahl bin Abu Umamah bin Sahl bin Hunaif] telah menceritakan kepadanya dari [ayahnya] dari [kakeknya], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengharapkan mati syahid dengan sungguh-sungguh, maka Allah akan mengangkatnya sampai ke derajat para syuhada' meski ia meninggal dunia di atas tempat tidur." Dan dalam hadits yang diriwayatkan Abu At Thahir tidak menyebutkan, 'Dengan sungguh-sungguh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4930</td></tr><tr><td>Arabic No</td><td>1909</td></tr><tr><td>Reference</td><td>Book 33 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4930</td></tr><tr><td>Arabic No</td><td>1909</td></tr><tr><td>Reference</td><td>Book 33 Hadith 225</td></tr></tbody></table></div>
 

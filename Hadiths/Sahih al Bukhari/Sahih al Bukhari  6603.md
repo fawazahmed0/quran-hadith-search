@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:That while he was sitting with the Prophet (ﷺ) a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hibban bin Musa] telah memberitakan kepada kami [Abdullah], telah memberitakan kepada kami [Yunus] dari [Az Zuhri] menuturkan; telah memberitakan kepadaku [Abdullah bin Muhairiz Al Jumahi] bahsawanya [Abu Said Al Khudzri] memberitakan kepada dia, bahwa ketika ia duduk-duduk bersama Nabi shallallahu 'alaihi wasallam, ada seorang laki-laki anshar dan berujar; 'Wahai Rasulullah, kami memperoleh tawanan wanita namun kami juga menyukai harta, bagaimana tanggapan anda mengenai 'azl? ' Rasulullah Shallallahu'alaihiwasallam bersabda: "apa kalian mengerjakan itu dengan anggapan tidak akan mendatangkan anak? Hendaklah tidak usah kalian lakukan, sebab tidaklah sebuah jiwa yang telah Allah tetapkan untuk muncul selain musti akan terjadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6603</td></tr><tr><td>Arabic No</td><td>6603</td></tr><tr><td>Reference</td><td>Book 82 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Мы сидели у Пророка ﷺ (и в это время) пришёл один человек из числа ансаров, и сказал: «О, Посланник Аллаха! Поистине, мы захватили пленных и любим богатство. Как ты считаешь, можно ли извергать семя вне лона?» И Посланник Аллаха ﷺ сказал: «Разве вы делаете это? Вам ничем не повредит, если вы не станете делать этого, ибо, поистине, всякая душа, которой суждено появиться, непременно появится»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6603</td></tr><tr><td>Arabic No</td><td>6603</td></tr><tr><td>Reference</td><td>Book 82 Hadith 9</td></tr></tbody></table></div>
 

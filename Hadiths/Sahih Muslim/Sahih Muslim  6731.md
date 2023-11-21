@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Alî (que Dieu l'agrée) a dit : Pendant que nous assistions à un enterrement �
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ishaq bin Ibrahim] lafazh ini milik Zuhair. [Ishaq] berkata; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Sa'ad bin 'Ubaidah] dari [Abu 'Abdur Rahman] dari ['Ali] dia berkata; "Kami pernah menguburkan jenazah di pemakaman Baqi Al Gharqad. Tak lama kemudian, Rasulullah shallallahu 'alaihi wasallam datang kepada kami. Lalu beliau duduk dan kami pun duduk mengelilingi beliau. Setelah itu Rasulullah memegang sebuah batang kayu pendek dan beliau menggaris-gariskan dan memukul-mukulkannya diatas tanah seraya berkata: 'Tidaklah seseorang diciptakan melainkan Allah telah menentukan tempatnya di surga ataupun di neraka, serta ditentukan pula sengsaranya atau bahagianya.' Ali bin Abu Thalib berkata; 'Kemudian seseorang bertanya; 'Ya Rasulullah, kalau begitu apakah sebaiknya kami berdiam diri saja tanpa harus berbuat apa-apa? ' Rasulullah shallallahu 'alaihi wasallam menjawab: 'Barang siapa termasuk dalam golongan orang-orang yang beruntung, maka ia pasti akan mengerjakan amal perbuatan orang-orang yang beruntung. Sebaliknya barang siapa termasuk dalam golongan orang-orang yang sengsara, maka ia pasti akan mengerjakan amal perbuatan orang-orang yang sengsara.' Selanjutnya Rasulullah shallallahu 'alaihi wasallam bersabda: 'Berbuatlah! Karena masing-masing telah dipermudah untuk berbuat sesuai dengan ketentuan sengsara dan bahagianya. Orang yang termasuk dalam golongan orang-orang yang berbahagia akan dimudahkan untuk mengerjakan amal perbuatan orang-orang yang beruntung. Dan orang yang termasuk dalam golongan orang-orang yang sengsara akan dimudahkan untuk mengerjakan amal perbuatan orang-orang yang sengsara.' Setelah itu Rasulullah pun membacakan ayat Al Qur'an: 'Adapun orang yang memberikan hartanya di jalan Allah dan bertakwa serta membenarkan adanya pahala yang terbaik (surga), maka Kami akan menyiapkan baginya jalan yang mudah. Adapun orang yang bakhil dan merasa dirinya cukup serta mendustakan adanya pahala yang terbaik, maka Kami akan menyiapkan baginya jalan yang sukar.' (Qs. A1-LaiI (92): 5-10). Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Hannad bin As Sari] keduanya berkata; Telah menceritakan kepada kami [Abu Al Ahwash] dari [Manshur] melalui jalur ini dengan Hadits yang semakna dan dia berkata; 'Lalu beliau mengambil 'Uud.' (sebatang kayu), ' -bukan mikhsharah.- Ibnu Abu Syaibah berkata di dalam Haditsnya dari Abul Ahwash; lalu Rasulullah shallallahu 'alaihi wasallam membaca…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6731</td></tr><tr><td>Arabic No</td><td>2647.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6731</td></tr><tr><td>Arabic No</td><td>2647.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 9</td></tr></tbody></table></div>
 

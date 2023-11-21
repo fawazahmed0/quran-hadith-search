@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-'Urs bin 'Amirat al-Kindi: The Prophet (ﷺ) said: When sin is done 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] berkata, telah mengabarkan kepada kami [Abu Bakr] berkata, telah menceritakan kepada kami [Mughirah bin Ziyad Al Mushili] dari [Adi bin Adi] dari [Al 'urs bin Amirah Al Kindi] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika ada satu kemaksiatan dikerjakan dimuka bumi, maka orang yang melihat lalu membencinya, dalam riwayat lain, "lalu ia mengingkarinya, ia seperti orang yang tidak melihatnya. Sedangkan bagi orang yang tidak melihatnya, namun ia ridha dengan kemaksiatan tersebut, maka ia seperti orang yang melihatnya." Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Abu Syihab] dari [Al Mughirah bin Ziyad] dari [Adi bin Adi] dari Nabi shallallahu 'alaihi wasallam sebagaimana dalam hadits tersebut. Beliau bersabda: "Barangsiapa melihat lalu mengingkarinya, maka ia seperti orang yang tidak melihatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4345</td></tr><tr><td>Arabic No</td><td>4345</td></tr><tr><td>Reference</td><td>Book 39 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-‘Урса ибн ‘Амиры аль-Кинди, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда на земле распространятся грехи, тот, в чьём присутствии они будут совершаться, если он будет питать к ним отвращение (или: порицать их), будет подобен тем, кто вообще не видел этого. А тот, кто не видел этих грехов, но одобрял их, будет подобен тем, в чьём присутствии они совершались (то есть на него тоже ляжет бремя греха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4345</td></tr><tr><td>Arabic No</td><td>4345</td></tr><tr><td>Reference</td><td>Book 39 Hadith 55</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Samura bin Jundab:The Prophet (ﷺ) said in his narration of a dream th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ammal bin Hisyam] berkata, telah menceritakan kepada kami [Isma'il bin 'Ulayyah] berkata, telah menceritakan kepada kami ['Auf] berkata, telah menceritakan kepada kami [Abu Raja'] berkata, telah menceritakan kepada kami [Samurah bin Jundab radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam tentang masalah mimpi. Beliau shallallahu 'alaihi wasallam bersabda: "Adapun ta'wil mimpi seseorang yang memecahkan kepalanya dengan batu adalah dia mengambil Al Qur'an lalu ditinggalkannya kemudian dia tidur sehingga melalaikan shalat wajib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1143</td></tr><tr><td>Arabic No</td><td>1143</td></tr><tr><td>Reference</td><td>Book 19 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Самуры бин Джундаба, да будет доволен им Аллах, что Пророк ﷺ сказал в своем рассказе о сне, который он видел: «Что касается того, чью голову разбивают камнем, то это тот, кто берет Коран и оставляет его, спит, игнорируя обязательные молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1143</td></tr><tr><td>Arabic No</td><td>1143</td></tr><tr><td>Reference</td><td>Book 19 Hadith 24</td></tr></tbody></table></div>
 

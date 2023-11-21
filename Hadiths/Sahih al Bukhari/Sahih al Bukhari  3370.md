@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Abi Laila:Ka'b bin Ujrah met me and said, "Shall I no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3370</td></tr><tr><td>Arabic No</td><td>3370</td></tr><tr><td>Reference</td><td>Book 60 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Аби Лейля сказал: «Повстречался мне Ка‘б ибн ‘Уджра и сказал: “Не подарить ли тебе подарок, который я слышал от Пророка ﷺ?” Я ответил: “Конечно, подари его мне”. Тогда он сказал: “(Однажды) мы сказали Посланнику Аллаха ﷺ: “О Посланник Аллаха, мы уже знаем, как приветствовать вас, но как нам обращаться к Аллаху с мольбами за вас, о семейство (Мухаммада ﷺ)?” (На это Пророк ﷺ) сказал: “Говорите: “О Аллах, благослови Мухаммада и семейство Мухаммада, как благословил Ты семейство Ибрахима, поистине, Ты — Достойный похвалы, Славный! О Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как послал Ты их семейству Ибрахима, поистине, Ты — Достойный похвалы, Славный!” /Аллахумма, салли ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма салляйта ‘аля Ибрахима ва ‘аля али Ибрахима, инна-кя Хамидун, Маджид! Аллахумма, барик ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма баракта ‘аля Ибрахима ва ‘аля али Ибрахима, инна-кя Хамидун, Маджид/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3370</td></tr><tr><td>Arabic No</td><td>3370</td></tr><tr><td>Reference</td><td>Book 60 Hadith 44</td></tr></tbody></table></div>
 

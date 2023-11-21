@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Fudail reported on the authority of his father that he heard Salim b. 'Abdul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Umar bin Aban], [Washil bin Abdula'la] dan [Ahmad bin Umar Al Waki'i], teks milik Ibnu Aban, mereka berkata: Telah menceritakan kepada kami [Ibnu Fudhail] dari [ayahnya] berkata: Aku mendengar [Salim bin Abdullah bin Umar] berkata: Wahai penduduk Irak, aku tidak bertanya tentang masalah kecil dan aku tidak mendorong kalian untuk masalah besar, aku pernah mendengar ayahku, [Abdullah bin Umar] berkata: Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya fitnah itu muncul disini -ia menunjukkan tangannya ke arah timur- dari arah terbitnya dua tanduk setan. Kalian saling menebas leher satu sama lain. Musa hanya membunuh orang yang ia bunuh berasal dari keluarga Fir'aun itu karena tidak sengaja lalu Allah 'azza wajalla berfirman padanya: 'Dan kamu pernah membunuh seorang manusia, lalu kami selamatkan kamu dari kesusahan dan Kami telah mencobamu dengan beberapa cobaan." (Thaahaa: 40) Ahmad bin Umar berkata dalam riwayatnya: Dari Salim, ia tidak menyebut: Aku telah mendengar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7297</td></tr><tr><td>Arabic No</td><td>2905.06</td></tr><tr><td>Reference</td><td>Book 54 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Салим ибн ‘Абдуллах ибн ‘Умар сказал: О жители Ирака, что заставляет вас спрашивать о мелочах в то время, когда вы совершаете тяжкие грехи? Я слышал, как мой отец ‘Абдуллах ибн ‘Умар сказал: Я слышал, как Посланник Аллаха ﷺ ска­зал: «Поистине, бедствие придёт оттуда», после чего он указал рукой на восток, где появятся края головы шайтана. «Вы рубите друг другу головы, а ведь когда Муса (нечаянно) убил человека из рода фара­она, Всемогущий и Великий Аллах сказал ему: “(Потом) ты убил человека, и Мы избавили тебя от скорби и подвергли (трудному) испытанию” (Та Ха, 20:40)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7297</td></tr><tr><td>Arabic No</td><td>2905.06</td></tr><tr><td>Reference</td><td>Book 54 Hadith 63</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Zaid bin 'Amr bin Nufail:That Arwa sued him before Marwan for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Ubaid bin Isma'il] telah bercerita kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari [Sa'id bin Zaid bin 'Amru bin Nufail] bahwa dia telah bertengkar dengan Arwa (binti Unais) dalam perkara kepemilikan tanah. Arwa menuduh bahwa Sa'id mengurangi haknya dan memberikannya kepada Marwan. Maka Sa'id berkata: "Apakah (patut) aku mengambil haknya?. Sungguh aku bersaksi bahwa aku benar-benar telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang mengambil sejengkal saja dari tanah secara aniaya maka dia akan dikalungkan dengan tanah sebanyak tujuh bumi pada hari qiyamat ". Berkata [Abu Az Zanad] dari [Hisyam] dari [bapaknya] berkata, [Sa'id bin Zaid] berkata kepadaku; "Aku menemui Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3198</td></tr><tr><td>Arabic No</td><td>3198</td></tr><tr><td>Reference</td><td>Book 59 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что когда Арва вела тяжбу с Са‘идом ибн Зейд ибн ‘Амр ибн Нуфаиль перед Марваном за землю, которую, как она утверждал он уменьшил, Са’ид сказал: «Я уменьшил что-то из её права? Свидетельствую, что я слышал, как Посланник Аллаха ﷺ сказал: “(В День воскресения) вокруг шеи того, кто несправедливо присвоит (себе) хотя бы пядь земли, обернут все семь земель”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3198</td></tr><tr><td>Arabic No</td><td>3198</td></tr><tr><td>Reference</td><td>Book 59 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) performed the Tawaf (around the Ka'b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada kami [Abu Amir Abdul Malik bin Amru] Telah menceritakan kepada kami [Ibrahim] dari [Khalid] dari [Ikrimah] dari [Ibnu Abbas] ia berkata; Rasulullah shallallahu 'alaihi wasallam melakukan thawaf dengan tetap berada di atas untanya. Dan setiap kali beliau sampai di rukun yamani beliau memberi isyarat padanya dan bertakbir. Kemudan Zainab berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Benteng yang menghalangi Ya'juj dan Ma'juj itu dibuka seperti ini." lalu beliau membentuk jari-jemarinya dengan angka sembilan puluh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5293</td></tr><tr><td>Arabic No</td><td>5293</td></tr><tr><td>Reference</td><td>Book 68 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Посланник Аллаха ﷺ совершал таваф сидя верхом на верблюде, и всякий раз, когда он проходил мимо угла, он указывал на него, произнося слова такбира (Аллаху акбар)».\nЗейнаб передала, что Пророк ﷺ сказал: «(Сегодня) в стене Яджуджа и Маджуджа было проделано вот такое отверстие!» — и соединил пальцы в форме числа девяносто
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5293</td></tr><tr><td>Arabic No</td><td>5293</td></tr><tr><td>Reference</td><td>Book 68 Hadith 42</td></tr></tbody></table></div>
 

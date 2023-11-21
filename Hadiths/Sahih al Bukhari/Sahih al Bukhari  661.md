@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid:Anas was asked, "Did Allah's Messenger (ﷺ) wear a ring?" He sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Humaid] berkata, " [Anas bin Malik] ditanya, 'Apakah Rasulullah ada mengenakan cincin? ' Maka dia menjawab, "Ya. Beliau pernah mengakhirkan shalat Isya hingga pertengahan malam, kemudian selesai shalat beliau menghadap ke arah kami seraya bersabda: "Manusia sudah selesai shalat dan tidur, sementara kalian akan senantiasa dalam hitungan shalat kalian menunggu pelaksanaannya." Anas bin Malik berkata, "Sungguh saat itu aku melihat kilau sinar cincin beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>661</td></tr><tr><td>Arabic No</td><td>661</td></tr><tr><td>Reference</td><td>Book 10 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумайд, сказал:\n— (Однажды) Анаса (ибн Малика) спросили: «Носил ли Посланник Аллаха ﷺ перстень?» Он ответил: «Да. (Однажды) ночью он отложил вечернюю молитву до середины ночи. Затем он повернулся к нам лицом после того, как совершил молитву и сказал: “Люди уже совершили молитву и заснули, а вы продолжали присутствовать на молитве с того времени, когда стали ожидать её (начала)”».\n(Анас) сказал: «И я будто и сейчас вижу, как блестел (той ночью) его перстень»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>661</td></tr><tr><td>Arabic No</td><td>661</td></tr><tr><td>Reference</td><td>Book 10 Hadith 55</td></tr></tbody></table></div>
 

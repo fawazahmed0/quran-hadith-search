@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Husain:had piles, so I asked the Prophet (ﷺ) about the pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari ['Abdullah] dari [Ibrahim bin Thohman] berkata, telah menceritakan kepada saya [Al Husain Al Muktib] dari [Abu Buraidah] dari ['Imrah bin Hushain radliallahu 'anhu] berkata: "Suatu kali aku menderita sakit wasir lalu aku tanyakan kepada Nabi shallallahu 'alaihi wasallam tentang cara shalat. Maka Beliau shallallahu 'alaihi wasallam menjawab: "Shalatlah dengan berdiri, jika kamu tidak sanggup lakukanlah dengan duduk dan bila tidak sanggup juga lakukanlah dengan berbaring pada salah satu sisi badan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>1117</td></tr><tr><td>Reference</td><td>Book 18 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран бин Хусайн, да будет доволен им Аллах, сказал: «У меня был геморрой, и я спросил Пророка ﷺ о (том, как мне совершать) молитву. Он сказал: “Стоя, но если не сможешь, совершай молитву сидя, а если не сможешь (делать и этого, то совершай лёжа) на боку”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>1117</td></tr><tr><td>Reference</td><td>Book 18 Hadith 37</td></tr></tbody></table></div>
 

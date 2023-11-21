@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Anas b. Malik that (when the enemy got 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid Al Azdi] telah menceritakan kepada kami [Hammad bin Salamah] dari [Ali bin Zaid] dan [Tsabit bin Al Banani] dari [Anas bin Malik], bahwa ketika perang Uhud berkecamuk, Rasulullah shallallahu 'alaihi wasallam terdesak sendirian bersama-sama dengan tujuh orang Anshar dan dua sahabat Quraisy (Muhajirin), ketika musuh semakin mendekati beliau, beliau bersabda: "Barangsiapa dapat menghalau mereka (musuh) dari kami, maka baginya surga atau dia akan bersamaku di surga." Maka seorang laki-laki dari Anshar maju kehadapan dan bertempur hingga terbunuh, kemudian musuh semakin mendekati beliau, beliau bersabda: "Barangsiapa dapat menghalau mereka dariku, maka baginya surga atau dia akan bersamaku di surga." Maka seorang laki-laki dari Anshar maju kehadapan dan bertempur hingga terbunuh. Peristiwa tersebut terus seperti itu hingga ketujuh sahabat Anshar terbunuh, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada kedua sahabat Quraisy: "Betapa adilnya para sahabat kita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4641</td></tr><tr><td>Arabic No</td><td>1789</td></tr><tr><td>Reference</td><td>Book 32 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4641</td></tr><tr><td>Arabic No</td><td>1789</td></tr><tr><td>Reference</td><td>Book 32 Hadith 123</td></tr></tbody></table></div>
 

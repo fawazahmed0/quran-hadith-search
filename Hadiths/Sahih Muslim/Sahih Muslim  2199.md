@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Abbas reported that his son died in Qudaid or 'Usfan. He said to Ku
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Harun bin Sa'id Al Aili] dan [Al Walid bin Syuja' As Sakuni] -[Al Walid] berkata- telah menceritakan kepadaku -sementara dua orang yang lain berkata- telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Abu Shakhr] dari [Syarik bin Abdullah bin Abu Namir] dari [Kuraib] Maula Ibnu Abbas, dari [Ibnu Abbas] bahwa anaknya telah meninggal di kawasan Qudaid atau 'Usfan, maka ia pun berkata, "Wahai Kuraib, lihatlah berapa orang yang berkumpul untuk menshalatkannya." Kuraib berkata; Maka aku pun keluar, ternyata orang-orang telah berkumpul untuk (menshalatkan) -nya. Lalu aku memberitahukannya kepada Ibnu Abbas, dan ia bertanya, "Apakah jumlah mereka mencapai empat puluh orang?" Kuraib menjawab, "Ya." Kemudian Ibnu Abbas berkata, "Keluarkanlah mayit itu, karena aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidaklah seorang muslim meninggal dunia, dan dishalatkan oleh lebih dari empat puluh orang, yang mana mereka tidak menyekutukan Allah, niscaya Allah akan mengabulkan do'a mereka untuknya.'" Sementara di dalam riwayat Ibnu Ma'ruf adalah dari Syarik bin Abu Namir dari Kuraib dari Ibnu Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2199</td></tr><tr><td>Arabic No</td><td>948</td></tr><tr><td>Reference</td><td>Book 11 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Курайба, что, когда Ибн ‘Аббас находился в Кудайде или: Усфане (название мест, находившихся между Меккой и Мединой), скончался его сын, и он сказал: «О Курайб, посмотри, сколько людей собралось (на заупокойную молитву) по нему». (Курайб) сказал: «Тогда я вышел (из дома) и обнаружил, что люди уже собрались, и сообщил ему об этом. Он (Ибн ‘Аббас) спросил: “Ты говоришь, что их сорок (человек)?” Я ответил: “Да”, и тогда он сказал: “Выносите его (тело), ибо, поистине, я слышал, как Посланник Аллаха ﷺ говорил: ‹Если кто-либо из мусульман скончается и заупокойную молитву над ним совершат сорок человек, никого не придающих Аллаху в сотоварищи, то Аллах непременно примет их ходатайства за него›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2199</td></tr><tr><td>Arabic No</td><td>948</td></tr><tr><td>Reference</td><td>Book 11 Hadith 77</td></tr></tbody></table></div>
 

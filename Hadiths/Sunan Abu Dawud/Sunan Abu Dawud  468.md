@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has been narrated by Abu Qatadah through a different chain of tra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Amir bin Abdullah bin Az Zubair] dari [Amru bin Sulaim Az Zuraqi] dari [Abu Qatadah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian datang ke Masjid, maka shalatlah dua rakaat sebelum dia duduk." Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] telah menceritakan kepada kami [Abu 'Umais, Utbah bin Abdillah] dari [Amir bin Abdullah bin Az Zubair] dari [seorang lelaki dari Bani Zuraiq] dari [Abu Qatadah] dari Nabi shallallahu 'alaihi wasallam dengan lafazh semisal di atas, (dengan tambahan): "Setelah itu silahkan duduk atau menunaikan kebutuhannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>468</td></tr><tr><td>Reference</td><td>Book 2 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Къатады, сообщившего от Пророка ﷺ похожий хадис с дополнением: «А затем если пожелает пусть садиться или идет дальше по своим делам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>468</td></tr><tr><td>Reference</td><td>Book 2 Hadith 78</td></tr></tbody></table></div>
 

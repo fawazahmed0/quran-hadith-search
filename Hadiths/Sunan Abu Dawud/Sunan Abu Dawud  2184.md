@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Yunus bin Jubair said “I asked ‘Abd Allah bin ‘Umar “A man divorced his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], telah menceritakan kepada kami [Yazid bin Ibrahim], dari [Muhammad bin Sirin], telah menceritakan kepadaku [Yunus bin Jubair], ia berkata; aku bertanya kepada [Abdullah bin Umar], ia berkata; aku katakan; terdapat seorang laki-laki yang menceraikan isterinya dalam keadaan haid. Ia berkata; apakah engkau mengetahui Abdullah bin Umar? Aku katakan; ya. Ia berkata; sesungguhnya Abdullah bin Umar telah menceraikan isterinya yang sedang haid. Kemudian Umar datang kepada Nabi shallallahu 'alaihi wasallam dan bertanya kepadanya. Lalu beliau berkata: "Perintahkan dia agar kembali kepadanya kemudian menceraikannya pada waktu ia menghadapi masa 'iddah." Abdullah bin Umar berkata; aku katakan; maka ia ber'iddah dengannya. Bagaimana apabila ia tidak mampu atau berpura-pura bersikap bodoh?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5333) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2184</td></tr><tr><td>Arabic No</td><td>2184</td></tr><tr><td>Reference</td><td>Book 13 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Юнуса ибн Джубайра: «Я спросил ‘Абдуллаха ибн ‘Умара: “Что если мужчина дал жене развод во время менструации?” Он ответил: “Знаешь ли ты ‘Абдуллаха ибн ‘Умара?” Я сказал: “Да”. Он сказал: “‘Абдуллах ибн ‘Умар дал развод своей жене, когда у неё была менструация. ‘Умар пошёл к Пророку ﷺ и спросил его об этом, и Пророк ﷺ сказал: “Вели ему вернуть её, а затем дать ей развод в начале ‘идды””. Я спросил: “А засчитывается ли этот развод?” Он ответил: “А как же иначе? (Разве это оправдание), что он проявил слабость или совершил глупость?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5333) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2184</td></tr><tr><td>Arabic No</td><td>2184</td></tr><tr><td>Reference</td><td>Book 13 Hadith 10</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:There was a man who fought most bravely of all the Muslim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abi Maryam] telah menceritakan kepada kami [Abu Ghassan] telah menceritakan kepadaku [Abu Hazim] dari [Sahal bin Sa'd] bahwasanya ada seorang muslimin yang gagah berani dalam peperangan ikut serta bersama Nabi shallallahu 'alaihi wasallam, kemudian Nabi shallallahu 'alaihi wasallam memperhatikan orang itu dan berujar; "Barangsiapa ingin melihat lelaki penghuni neraka, silahkan lihat orang ini." Seorang laki-laki akhirnya menguntitnya, dan rupanya lelaki tersebut merupakan orang yang paling ganas terhadap orang-orang musyrik. akhirnya lelaki tersebut terluka dan dia ingin segera dijemput kematian sebelum waktunya, maka ia ambil pucuk pedangnya dan ia letakkan di dadanya kemudian ia hunjamkan hingga tembus diantara kedua lengannya. Orang yang menguntit lelaki tersebut langsung menemui Nabi shallallahu 'alaihi wasallam dan berujar; 'Saya bersaksi bahwa engkau utusan Allah.' 'apa itu? ' Tanya Nabi. Orang tadi menjawab; 'anda berkata terhadap; 'siapa yang ingin melihat penghuni neraka, silahkan lihat orang ini, ' orang itu merupakan orang yang paling pemberani diantara kami, kaum muslimin. Lalu aku tahu, ternyata dia mati tidak diatas keIslaman, sebab dikala ia mendapat luka, ia tak sabar menanti kematian, lalu bunuh diri.' Seketika itu pula Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh ada seorang hamba yang melakukan amalan-amalan penghuni neraka, namun berakhir menjadi penghuni surga, dan ada seorang hamba yang mengamalkan amalan-amalan penghuni surga, namun berakhir menjadi penghuni neraka, sungguh amalan itu ditentukan dengan penutupan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6607</td></tr><tr><td>Arabic No</td><td>6607</td></tr><tr><td>Reference</td><td>Book 82 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль бин Са‘д, да будет доволен им Аллах, передаёт, что во время одного из сражений вместе с Пророком ﷺ был один человек, который из всех мусульман, меньше всего нуждался в помощи мусульман. И Пророк ﷺ посмотрев (на него) сказал: «Кто хочет взглянуть на одного из обитателей Огня, пусть посмотрит на этого». Один человек стал следить за ним, и оказалось, что он истово сражался против язычников, пока не получил ранение. Тогда он поспешил умереть и навалился грудью на острие своего меча, так что оно вышло у него между лопаток. Следивший за ним мужчина бросился к Посланнику ﷺ и сказал: «Свидетельствую, что ты — Посланник Аллаха». Он спросил: «В чём дело?» Мужчина сказал: «Ты сказал о том человеке: “Кто хочет взглянуть на одного из обитателей Огня, пусть посмотрит на него”. Он меньше других нуждался в помощи мусульман, и я понял, что он не умрет в таком состоянии. Получив ранение, он поспешил умереть и убил себя». Тогда Пророк ﷺ сказал: «Поистине, раб может совершать поступки обитателей Огня, хотя в действительности он попадёт в Рай. И он может совершать поступки обитателей Рая, хотя в действительности он попадёт в Огонь. Поистине, деяния (будут определяться) по последним действиям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6607</td></tr><tr><td>Arabic No</td><td>6607</td></tr><tr><td>Reference</td><td>Book 82 Hadith 13</td></tr></tbody></table></div>
 

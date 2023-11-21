@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hafs bin 'Asim:Ibn 'Umar went on a journey and said, "I accompanied the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan kepada saya [Ibnu Wahb] berkata, telah menceritakan kepada saya ['Umar bin Muhammad] bahwa [Hafsh bin 'Ashim] menceritakan kepadanya berkata; " [Ibnu 'Umar radliallahu 'anhumaa] mengadakan perjalanan lalu berkata: "Aku pernah menemani Nabi shallallahu 'alaihi wasallam dan aku tidak melihat Beliau melaksanakan shalat sunnah dalam safarnya". Dan Allah subhanahu wata'ala telah berfirman: "Sungguh telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu". (QS. Ahzab)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1101</td></tr><tr><td>Arabic No</td><td>1101</td></tr><tr><td>Reference</td><td>Book 18 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я (часто) сопровождал Пророка ﷺ и не видел, чтобы он совершал в пути дополнительные молитвы, а Аллах, велика слава Его, сказал: “Посланник Аллаха (являет собой) прекрасный пример для вас…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1101</td></tr><tr><td>Arabic No</td><td>1101</td></tr><tr><td>Reference</td><td>Book 18 Hadith 21</td></tr></tbody></table></div>
 

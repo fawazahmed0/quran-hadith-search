@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Malik Ibn Buhaina:Allah's Messenger (ﷺ) passed by a man praying two r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Bapaknya] dari [Hafsh bin 'Ashim] dari ['Abdullah bin Malik Ibnu Buhainah] berkata, "Nabi shallallahu 'alaihi wasallam pernah melewati Rasulullah. (dalam jalur lain disebutkan) Telah menceritakan kepadaku ['Abdurrahman] -yakni Ibnu Bisyr- berkata, telah menceritakan kepada kami [Bahz bin Asad] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepadaku [Sa'd bin Ibrahim] berkata, aku mendengar [Hafsh bin 'Ashim] berkata, aku mendengar seorang laki-laki dari Al Azdi yang dikenal dengan [Malik Ibnu Buhainah] berkata, bahwa Rasulullah shallallahu 'alaihi wasallam pernah melihat seorang laki-laki shalat dua rakaat padahal iqamah telah dikumandangkan. Setelah selesai shalat, Rasulullah shallallahu 'alaihi wasallam berkata kepadanya: "Apakah kamu shalat Shubuh empat rakaat? Apakah kamu shalat Shubuh empat rakaat?" Hadits ini dikuatkan oleh [Ghundar] dan [Mu'adz] dari [Syu'bah] dalam riwayat [Malik]. Dan [Ibnu Ishaq] berkata dari [Sa'd] dari [Hafsh] dari ['Abdullah bin Buhainah]. Dan [Hammad] berkata, telah mengabarkan kepada kami [Sa'd] dari [Hafsh] dari [Malik]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>663</td></tr><tr><td>Arabic No</td><td>663</td></tr><tr><td>Reference</td><td>Book 10 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Малик ибн Бухайна сказал:«(Однажды) Пророк ﷺ проходил мимо одного мужчины …».\nПередают со слов Малика ибн Бухайны из племени азд, да будет доволен им Аллах, о том, что как-то раз Посланник Аллаха ﷺ увидел, что после объявления о начале намаза один человек совершает молитву в два рак‘ата. Когда Посланник Аллаха ﷺ закончил молиться, его обступили люди, и он дважды спросил (того человека): «Разве утренняя молитва состоит из четырёх (рак‘атов)?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>663</td></tr><tr><td>Arabic No</td><td>663</td></tr><tr><td>Reference</td><td>Book 10 Hadith 57</td></tr></tbody></table></div>
 

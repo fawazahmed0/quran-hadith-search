@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ma’rur b. Suwaid said :We called on Abu Dharr at al-Rabadhah. He wore a cloak 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isa bin Yunus] berkata, telah menceritakan kepada kami [Al A'masy] dari [Al Ma'rur bin Suwaid] ia berkata, "Aku menemui [Abu Dzar] di Rabdzah, saat itu ia mengenakan kain yang sama dengan kain yang dikenakan oleh budaknya. Maka kami pun bertanya, "Wahai Abu Dzar! Sekiranya engkau ambil kain budakmu untuk engkau kenakan, lalu ia engkau berikan kain yang lain saja." Abu Dzar berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "(Mereka) adalah saudara-saudara kalian, Allah menjadikan mereka ada dalam tanggungan kalian. Maka barangsiapa yang saudaranya ada dalam tanggungannya, hendaklah ia beri makan sesuai dengan apa yang ia makan, dan memberinya pakaian sesuai dengan pakaian yang ia pakai. Jangan memberi beban di luar kemampuannya, jika ia memberi beban di atas kemampuannya, maka hendaklah ia menolongnya." Abu Dawud berkata, " [Ibnu Numair] meriwayatkannya dari [Al A'masy] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5158</td></tr><tr><td>Arabic No</td><td>5158</td></tr><tr><td>Reference</td><td>Book 43 Hadith 386</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Ма‘рур бин Сувайд сказал: (Однажды) я увидел Абу Зарра, да будет доволен им Аллах, который был одет в такую же одежду как и его раб... ...Пророк ﷺ сказал (ему): «Поистине, ты человек, в котором (сохранились остатки) невежества! Поистине, (ваши рабы) являются вашими братьями и вашими слугами, которых Аллах сделал подвластными вам, так пусть же тот, кто владеет братом своим, кормит его тем же, что ест сам, и одевает его в то же, что носит сам, и не поручайте им ничего непосильного для них, а если поручите, то оказывайте им помощь!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5158</td></tr><tr><td>Arabic No</td><td>5158</td></tr><tr><td>Reference</td><td>Book 43 Hadith 386</td></tr></tbody></table></div>
 

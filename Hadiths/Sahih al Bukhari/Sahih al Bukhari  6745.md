@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "I am more closer to the beli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud] telah mengabarkan kepada kami [Ubaidullah] dari [Israil] dari [Abu Hushain] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu mengatakan; Rasulullah Shallallahu'alaihiwasallam bersabda: "Saya lebih berhak menanggung urusan orang-orang mukmin daripada mereka sendiri, maka siapa mati dan meninggalkanharta maka hartanya untuk ahliwarisnya yang ashabah, dan barangsiapa meninggalkan hutang atau anak yang terlantar, saya walinya, maka hendaknya memanggil saya untuk menanggung hutangnya dan anak-anaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6745</td></tr><tr><td>Arabic No</td><td>6745</td></tr><tr><td>Reference</td><td>Book 85 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Я ближе к верующим, чем они сами к себе, поэтому если кто-либо (из верующих) умрёт, оставив какое-нибудь имущество, пусть оно перейдёт к его наследникам по отцовской линии, а если он (умрёт), оставив (неоплаченный) долг или нуждающихся детей, пусть они позовут меня, ибо я — покровитель (для таких)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6745</td></tr><tr><td>Arabic No</td><td>6745</td></tr><tr><td>Reference</td><td>Book 85 Hadith 22</td></tr></tbody></table></div>
 

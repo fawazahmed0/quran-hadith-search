@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:One day while Allah's Messenger (ﷺ) was sitting with the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] dari [Jarir] dari [Abu Hayyan] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada suatu hari Rasulullah shallallahu 'alaihi wasallam sedang berada bersama kami, lalu datanglah seorang laki-laki dengan berjalan kaki, lantas bertanya; "Wahai Rasulullah, apakah iman itu?" beliau menjawab: "Engkau beriman kepada Allah, malaikat-Nya, para Rasul-Nya, kitab-kitab-Nya, dan hari akhir." Lalu ia bertanya lagi; Wahai Rasulullah, apakah Islam itu?" Beliau menjawab: "Kamu beribadah kepada Allah dan tidak menyekutukan-Nya dengan sesuatu pun, menegakkan shalat, menunaikan zakat, dan puasa di bulan Ramadlan." Kemudian ia bertanya lagi; "Wahai Muhammad, apakah Ihsan itu?" beliau menjawab: "Engkau menyembah Allah seakan-akan engkau melihat-Nya. Jika engkau tidak dapat melihat-Nya sesungguhnya Dia melihatmu." Ia bertanya lagi, "Kapan hari kiamat datang?" beliau menjawab: "Orang yang ditanya tentangnya tidak lebih tahu dari orang yang bertanya, namun aku akan memberitahukan kepadamu tanda-tandanya; 'Apabila Seorang budak perempuan melahirkan anak majikannya, di antara tandanya juga; "Orang yang bertelanjang kaki dan dada menjadi pemimpin manusia. Itulah diantara tanda-tandanya. Ada lima hal yang tidak dapat mengetahuinya kecuali Allah saja; Sesungguhnya Allahlah yang mengetahui kapan terjadinya hari kiamat, kapan turunnya hujan, dan mengetahui apa yang ada di dalam rahim-rahim ibu. Kemudian orang yang bertanya tadi pergi. Nabi shallallahu 'alaihi wasallam berkata; 'Panggilkan orang itu! Maka para sahabat itu mencarinya untuk memanggilnya namun mereka tidak melihat sesuatu pun. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya itu Jibril, dia datang untuk mengajari manusia perkara agamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4777</td></tr><tr><td>Arabic No</td><td>4777</td></tr><tr><td>Reference</td><td>Book 65 Hadith 299</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды, когда Посланник Аллаха ﷺ находился среди людей, к нему подошёл какой-то человек и спросил: “О Посланник Аллаха, что такое иман (вера)?” (Пророк ﷺ) сказал: “(Суть имана в том), чтобы ты верил в Аллаха, в Его ангелов, в Его Книгу, в Его посланников и во встречу с Ним, и чтобы ты верил в последнее Воскресение”. (Тот человек) спросил: “О Посланник Аллаха, что такое ислам?” Он сказал: “(Суть) ислама (в том), чтобы ты поклонялся Аллаху и ничему более наряду с Ним, совершал (предписанные) молитвы, выплачивал обязательный закят и соблюдал пост в рамадане”. (Человек) спросил: “О Посланник Аллаха, что такое ихсан?” Он сказал: “(Суть ихсана в том), чтобы ты поклонялся Аллаху так, будто видишь Его, а если ты Его не видишь, то, (помня о том, что) Он, поистине, видит тебя”. (Человек) спросил: “О Посланник Аллаха, когда настанет Час этот?” Он сказал: “Тот, кого спрашивают о (Часе этом), знает не больше задающего вопрос, однако я расскажу тебе о его признаках. Когда ты увидишь, что женщина породит свою госпожу, это один из его признаков, и когда ты увидишь, что босые и нагие люди станут править (другими) людьми, то это будет одним из его признаков. (Что же касается знания о времени его наступления, то оно относится к числу) пяти (вещей), и которых известно только Аллаху”, после чего он прочитал (следующий) аят: “Поистине, (лишь) Аллаху ведомо, (когда наступит) Час этот, и (только) Он ниспосылает дождь, и (только) Он знает, что (скрыто) в утробах”». \n(Абу Хурайра) сказал: «Затем этот человек ушёл, а Посланник Аллаха ﷺ велел: “Верните ко мне этого человека”. Люди стали (искать) его, чтобы вернуть, но никого не увидели, и тогда Посланник Аллаха ﷺ сказал: “Это был Джибриль, который приходил для того, чтобы научить людей их религии”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4777</td></tr><tr><td>Arabic No</td><td>4777</td></tr><tr><td>Reference</td><td>Book 65 Hadith 299</td></tr></tbody></table></div>
 

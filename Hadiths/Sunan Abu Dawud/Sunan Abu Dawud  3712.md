@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Amrah said on the authority of Aisha that she wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Al Mu'tamir] ia berkata; aku mendengar [Syabib bin Abdul Malik] menceritakan dari [Muqatil bin Hayyan] ia berkata; telah menceritakan kepadaku bibiku ['Amrah] dari [Aisyah] radliallahu 'anhuma, bahwa ia pernah membuatkan perasan arak untuk Nabi shallallahu 'alaihi wasallam pada waktu makan pagi, kemudian saat makan malam beliau meminumnya. Jika ada yang sisa makan aku membuangnya, atau aku tuang. Kemudian Aisyah membuatkan perasan lagi untuk beliau diwaktu malam, saat maka pagi beliau meminumnya. Aisyah berkata, "Tempat minum tersebut dicuci pada pagi dan sore hari. Kemudian ayahku berkata kepadanya, "Apakah dua kali dalam sehari? Aisyah menjawab, "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3712</td></tr><tr><td>Arabic No</td><td>3712</td></tr><tr><td>Reference</td><td>Book 27 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что она делала набиз для Пророка ﷺ утром, а вечером он запивал им ужин: «И если что-то оставалось, я выливала эти остатки». А затем она делала ему набиз вечером, а утром он запивал им еду. Она сказала: «Мы мыли сосуд утром и вечером». Передатчик сказал: «Мой отец спросил её: “Дважды в день?” Она ответила: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3712</td></tr><tr><td>Arabic No</td><td>3712</td></tr><tr><td>Reference</td><td>Book 27 Hadith 44</td></tr></tbody></table></div>
 

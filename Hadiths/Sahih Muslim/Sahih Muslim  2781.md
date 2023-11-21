@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar (Allah be pleased with both of them) reported that the Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus bin Yazid] bahwa [Nafi'] telah menceritakan kepadanya dari [Abdullah bin Umar] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam melakukan I'tikaf pada sepuluh terakhir dari bulan Ramadlan. Nafi' berkata, "Dan Abdullah bin Umar telah memperlihatkan kepadaku tempat yang terdapat dalam ruangan Masjid, tempat yang Rasulullah shallallahu 'alaihi wasallam pergunakan untuk melakukan I'tikaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2781</td></tr><tr><td>Arabic No</td><td>1171.02</td></tr><tr><td>Reference</td><td>Book 14 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что в последние десять (дней) рамадана Посланник Аллаха ﷺ всегда неотлучно находился в мечети.Нафи‘ сказал: «И ‘Абдуллах, да будет доволен им Аллах, увидел меня на том месте в мечети, где неотлучно находился Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2781</td></tr><tr><td>Arabic No</td><td>1171.02</td></tr><tr><td>Reference</td><td>Book 14 Hadith 2</td></tr></tbody></table></div>
 

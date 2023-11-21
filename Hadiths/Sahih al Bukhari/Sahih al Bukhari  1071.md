@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) I prostrated while reciting An-Najm and wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami ['Abdul Warits] berkata, telah menceritakan kepada kami [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma]: "Bahwa Nabi shallallahu 'alaihi wasallam melakukan sujud tilawah ketika membaca surah An-Najm. Begitu juga ikut sujud bersama Beliau dari kalangan Kaum Muslimin, Musyrikin, bangsa jin dan manusia. Hadits ini juga diriwayatkan oleh [Ibrahim bin Thahman] dari [Ayyub]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1071</td></tr><tr><td>Arabic No</td><td>1071</td></tr><tr><td>Reference</td><td>Book 17 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что, когда Пророк ﷺ совершал земной поклон (во время чтения суры) «ан-Наджм», вместе с ним совершали земной поклон мусульмане и многобожники, джинны и люди
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1071</td></tr><tr><td>Arabic No</td><td>1071</td></tr><tr><td>Reference</td><td>Book 17 Hadith 5</td></tr></tbody></table></div>
 

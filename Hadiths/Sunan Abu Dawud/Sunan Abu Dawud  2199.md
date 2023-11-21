@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Tawus said A man called Abu Al Sahba used to ask Ibn ‘Abbas questions frequent
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdul Malik bin Marwan], telah menceritakan kepada kami [Abu An Nu'man], telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [lebih dari satu orang] dari [Thawus] bahwa [seorang laki-laki yang dipanggil Abu Ash Shahba'] adalah orang yang sering bertanya kepada [Ibnu Abbas], ia berkata; tidakkah engkau mengetahui bahwa seseorang apabila mencerai isterinya tiga kali sebelum menggaulinya mereka menganggapnya satu kali perceraian pada zaman Rasulullah shallallahu 'alaihi wasallam, Abu Bakr, dan permulaan kepemimpinan Umar? Ibnu Abbas berkata; benar, dahulu seorang laki-laki apabila menceraikan isterinya tiga kali sebelum ia menggaulinya mereka menganggapnya satu kali pada zaman Rasulullah shallallahu 'alaihi wasallam, Abu Bakr dan permulaan kepemimpinan Umar, kemudian tatkala orang-orang melihat sering melakukan hal tersebut maka Umar berkata; terapkan tiga perceraian atas mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2199</td></tr><tr><td>Arabic No</td><td>2199</td></tr><tr><td>Reference</td><td>Book 13 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Тавуса, что человек по имени Абу ас-Сахба часто задавал Ибн ‘Аббасу вопросы (о религии). Однажды он спросил: «А известно ли тебе о том, что, если мужчина, женившись, трижды произнёс формулу развода до того, как вступить в половые отношения с женой, это засчитывалось ему как один развод во времена Посланника Аллаха ﷺ и Абу Бакра и в начале правления ‘Умара?». Он ответил: «Да, если мужчина, женившись, трижды произнёс формулу развода до того, как вступить в половые отношения с женой, это засчитывалось ему как один развод во времена Посланника Аллаха ﷺ и Абу Бакра и в начале правления ‘Умара, а когда люди стали часто поступать подобным образом, ‘Умар сказал: “Пусть все они считаются действительными”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2199</td></tr><tr><td>Arabic No</td><td>2199</td></tr><tr><td>Reference</td><td>Book 13 Hadith 25</td></tr></tbody></table></div>
 

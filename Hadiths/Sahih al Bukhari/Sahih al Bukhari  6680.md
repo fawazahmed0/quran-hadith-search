@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:I went along with some men from the Ash-ariyin to A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Ayyub] dari [Al Qasim] dari [Zahdam] menuturkan; kami pernah di dekat [Abu Musa Al Asy'ari]. Dia menuturkan; selanjutnya kudatangi Rasulullah Shallallahu'alaihi wa sallam bersama sejumlah orang-orang Asy'ari, saya jumpai beliau ketika beliau sedang marah. Kami meminta beliau agar mengikutsertakan kami untuk naik kendaraan. Tetapi beliau bersumpah untuk tidak mengikut sertakan kami naik kendaraan. Kemudian beliau mengatakan: "Demi Allah, insya Allah tidaklah aku bersumpah dengan suatu sumpah, kemudian kulihat ada sesuatu yang lebih baik daripadanya, selain kulakukan yang lebih baik, dan kubayar kaffarat sumpahku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6680</td></tr><tr><td>Arabic No</td><td>6680</td></tr><tr><td>Reference</td><td>Book 83 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Захдама, что он сказал: «(Однажды), когда мы были с Абу Мусой аль-Аш‘ари, он сказал: «(Перед походом на Табук) я пришёл к Посланнику Аллаха ﷺ. А дело было в том, что, когда я пришёл к нему, он был в состоянии гнева. И мы попросили его снабдить нас (верховыми животными), а он поклялся, что не станет снабжать нас (ими). Потом сказал: “Клянусь Аллахом, если захочет Аллах, (отныне), какую бы клятву я ни дал, а потом увижу нечто лучшее, я делаю то, что мне представляется лучшим, и искупаю (нарушенную мною клятву)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6680</td></tr><tr><td>Arabic No</td><td>6680</td></tr><tr><td>Reference</td><td>Book 83 Hadith 57</td></tr></tbody></table></div>
 

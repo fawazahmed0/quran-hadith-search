@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: The Mahdi will be of my sto
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahl bin Tammam bin Bazi'] berkata, telah menceritakan kepada kami [Imran Al Qaththan] dari [Qatadah] dari [Abu Nadhrah] dari [Abu Sa'id Al Khudri] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Al Mahdi itu dari keturunanku, dahinya lebar dan hidungnya mancung, ia akan memenuhi bumi dengan keadilan sebagaimana bumi pernah dipenuhi dengan kejahatan dan kezhaliman. Ia akan berkuasa selama tujuh tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4285</td></tr><tr><td>Arabic No</td><td>4285</td></tr><tr><td>Reference</td><td>Book 38 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Махди из моего потомства. (Это человек) с широким лбом и орлиным носом. Он наполнит землю справедливостью подобно тому, как до этого наполнилась она притеснением и несправедливостью. Править он будет семь лет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4285</td></tr><tr><td>Arabic No</td><td>4285</td></tr><tr><td>Reference</td><td>Book 38 Hadith 7</td></tr></tbody></table></div>
 

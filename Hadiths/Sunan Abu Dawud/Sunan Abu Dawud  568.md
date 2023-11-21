@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Jarir] dan [Abu Mu'awiyah] dari [Al-A'masy] dari [Mujahid] dia berkata; [Abdullah bin Umar] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Izinkanlah kaum wanita untuk pergi ke masjid masjid pada malam hari." Lalu seorang anak lelaki Ibnu Umar berkata; Demi Allah, kami tidak akan memberi izin kepada mereka, karena mereka akan membuatnya sebagai tipuan. Demi Allah, kami tidak akan memberi izin kepada mereka. Mujahid berkata; Maka Abdullah memakinya dan memarahinya seraya berkata; Saya katakan Rasulullah shallallahu 'alaihi wasallam bersabda: "Izinkanlah mereka", namun mengapa malah kamu katakan; Kami tidak akan mengizinkan mereka?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (442)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>568</td></tr><tr><td>Arabic No</td><td>568</td></tr><tr><td>Reference</td><td>Book 2 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджахид сказал: «(Однажды) ‘Абдуллах ибн ‘Умар сказал: «Пророк ﷺ говорил: “Позволяйте женщинам посещать мечети ночью”». Его сын сказал ему: «Клянусь Аллахом, мы не позволим им, ведь они будут пользоваться этим во зло. Клянусь Аллахом – мы не позволим им это».(Муджахид) сказал: «И он обругал его и, разгневавшись, сказал: «Я тебе говорю, что Посланник Аллаха ﷺ сказал: “Позволяйте им”, а ты говоришь: “Мы не позволим им?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (442)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>568</td></tr><tr><td>Arabic No</td><td>568</td></tr><tr><td>Reference</td><td>Book 2 Hadith 178</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:We were in the company of the Prophet (ﷺ) while return
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Ma'mar] telah bercerita kepada kami ['Abdul Warits] berkata telah bercerita kepadaku [Yahya bin Abu Ishaq] dari [Anas bin Malik radliallahu 'anhu] berkata; "Kami pernah bersama Nabi Shallallahu'alaihiwasallam saat Beliau kembali dari 'Usfan, ketika itu Rasulullah Shallallahu'alaiwasallam berada diatas tunggangan Beliau dengan memboncengkan Shofiyah binti Huyay. Kemudian unta Beliau tergelincir sehingga membanting keduanya. Abu Tholhah pun bergegas membantunya dengan berujar; "Wahai Rasulullah, biarlah Allah menjadikan aku sebagai tebusan baginda". Beliau berkata: "Sebaiknya kamu menolong wanita". Maka Abu Tholhah menutup wajahnya dengan selembar baju lalu mendatangi Shofiyah dan melempar baju itu untuknya kemudian dia memperbaiki pelana hewan tunggangan itu, lalu Beliau dan Shofiyah dapat mengendarainya. Akhirnya kami dapat menolong Rasulullah Shallallahu'alaiwasallam. Ketika hampir tiba di Madinah, Beliau berdo'a: "Aayibuuna taa'ibuuna 'aabiduuna li robbinaa haamiduuna. (Kita kembali sebagai hamba yang bertaubat, ber'ibadah kepada Robb kita dan memuji-Nya"). Beliau serus saja membaca do'a itu hingga memasuki kota Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3085</td></tr><tr><td>Arabic No</td><td>3085</td></tr><tr><td>Reference</td><td>Book 56 Hadith 289</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды, когда) мы вместе с Пророком ﷺ возвращались из ‘Усфана и Посланник Аллаха ﷺ, посадивший позади себя Сафию бинт Хуйайй, сидел на своей верблюдице, его верблюдица споткнулась, и оба они упали на землю. (Увидев это,) Абу Тальха соскочил (со своего верблюда) и воскликнул: “О Посланник Аллаха, да сделает Аллах меня выкупом за тебя!” (Пророк ﷺ) сказал: “Позаботься о женщине”, после чего (Абу Тальха) прикрыл лицо одеждой, подошёл к (Сафие) и накрыл этой одеждой её, а потом подготовил (к дороге верблюдицу), на которой они ехали, и они (снова) сели на неё верхом, а мы окружили Посланника Аллаха ﷺ. Когда же мы приблизились к Медине, (Пророк ﷺ) сказал: “(Мы) возвращаемся, каемся, Господу нашему поклоняемся (и Ему) воздаём хвалу! /Айибуна, таъибуна, ‘абидуна ли-Рабби-на хамидун!/” и он продолжал повторять (эти слова), пока он не вошёл в Медину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3085</td></tr><tr><td>Arabic No</td><td>3085</td></tr><tr><td>Reference</td><td>Book 56 Hadith 289</td></tr></tbody></table></div>
 

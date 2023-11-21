@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (Allah be pleased with him) reported that 'Ali (Allah be pleased with him) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepadaku [Salim bin Hayyan] dari [Marwan Al Ashfar] dari [Anas] radliallahu 'anhu, bahwa Ali kembali dari negeri Yaman, lalu Nabi shallallahu 'alaihi wasallam bertanya kepadanya: "Dengan bacaan apa kamu Ihlal (memulai ihram)?" Ali menjawab, "Saya memulai ihram dengan ihlal Nabi shallallahu 'alaihi wasallam." beliau bersabda: "Sekiranya aku tidak membawa hadya (hewan kurban) niscaya aku akan tahallul." Dan telah meceritakannya kepadaku [Hajjaj bin Sya'ir] Telah menceritakan kepada kami [Abdush Shamad] -dalam riwayat lain- Dan telah menceritakan kepadaku [Abdullah bin Hasyim] Telah menceritakan kepada kami [Bahz] keduanya berkata, Telah menceritakan kepada kami [Salim bin Hayyan] dengan isnad ini, semisalnya. Hanya saja, di dalam riwayat Bahz ia mencantumkan; "LAHALALLTU (niscaya aku akan bertahallul)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3026</td></tr><tr><td>Arabic No</td><td>1250.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 234</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3026</td></tr><tr><td>Arabic No</td><td>1250.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 234</td></tr></tbody></table></div>
 

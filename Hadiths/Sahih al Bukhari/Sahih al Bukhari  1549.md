@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Talbiya of Allah's Messenger (ﷺ) was : 'Labba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhua] bahwa cara talbiyah Rasulullah shallallahu 'alaihi wasallam adalah: "Labbaikallahumma labbaik. Labbaika laa syariika laka labbaik. Innal hamda wan ni'mata laka wal mulk. Laa syariika lak". ("Aku datang memenuhi panggilanMu ya Allah. Aku datang memenuhi panggilanMu tidak ada sekutu bagiMu. Sesungguhnya segala puji, nikmat milikMU begitu pula kerajaan. Tidak ada sekutu bagiMu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1549</td></tr><tr><td>Arabic No</td><td>1549</td></tr><tr><td>Reference</td><td>Book 25 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими, что Посланник Аллаха ﷺ произносил тальбийу (следующим образом): «Вот я перед Тобой, о Аллах, вот я перед Тобой, вот я перед Тобой, нет у Тебя сотоварища, вот я перед Тобой, поистине, хвала Тебе, и милость принадлежит Тебе, и владычество, нет у Тебя сотоварища! /Ляббай-Кя, Аллахумма, ляббай-Кя, ляббай-Кя, ля шарикя ля-Кя, ляббай-Кя, инна-ль-хамда, ва-н-ни‘мата ля-Кя ва-ль-мульк, ля шарикя ля-Кя!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1549</td></tr><tr><td>Arabic No</td><td>1549</td></tr><tr><td>Reference</td><td>Book 25 Hadith 35</td></tr></tbody></table></div>
 

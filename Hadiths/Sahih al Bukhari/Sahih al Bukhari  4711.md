@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:During the Pre-lslamic period of ignorance if any tribe becam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] Telah menceritakan kepada kami [Sufyan] Telah mengabarkan kepada kami [Manshur] dari [Abu Wail] dari ['Abdullah] dia berkata; pada masa jahiliyah kami biasa mengatakan bagi suatu kaum apabila mereka berjumlah banyak, dengan perkataan; Bani Fulan banyak anaknya. Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] dia berkata dengan lafazh; 'Amara
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4711</td></tr><tr><td>Arabic No</td><td>4711</td></tr><tr><td>Reference</td><td>Book 65 Hadith 233</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Если какое-то племя становилось многочисленным во времена джахилиййи, мы говорили: “Увеличилось количество /амира/ такого-то племени”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4711</td></tr><tr><td>Arabic No</td><td>4711</td></tr><tr><td>Reference</td><td>Book 65 Hadith 233</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:I asked Aisha about the night prayer of Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] berkata, telah menceritakan kepada kami ['Ubaidullah bin Musa] berkata, telah mengabarkan kepada kami [Isra'il] dari [Abu Hushain] dari [Yahya bin Watstsab] dari [Masruq] berkata; Aku bertanya kepada ['Aisyah radliallahu 'anha] tentang shalat Rasulullah shallallahu 'alaihi wasallam di waktu malam. Maka dia radliallahu 'anhu menjawab: "Tujuh atau sembilan atau sebelas raka'at selain dua raka'at sunnat Fajar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1139</td></tr><tr><td>Arabic No</td><td>1139</td></tr><tr><td>Reference</td><td>Book 19 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрук сказал: «Я спросил ‘Айшу, да будет доволен ею Аллах, о ночной молитве Посланника Аллаха ﷺ. Она ответила: “Семь, и девять, и одиннадцать (рак‘атов), это не считая двух рак‘атов фаджра”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1139</td></tr><tr><td>Arabic No</td><td>1139</td></tr><tr><td>Reference</td><td>Book 19 Hadith 20</td></tr></tbody></table></div>
 

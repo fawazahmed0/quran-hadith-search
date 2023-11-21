@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : Nous accompagnâmes le Prophète (paix
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] ia berkata, saya telah membacakan kepada [Malik] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] radliallahu 'anha, bahwa ia berkata; Kami pergi haji bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam pada tahun haji Wada', lalu kami ihram untuk umrah. Kemudian beliau bersabda: "Siapa yang membawa hadya (hewan kurban) boleh ihram untuk haji dan umrah dan tidak boleh tahallul sebelum keduanya selesai." Aisyah berkata; Setibanya aku di Makkah, kebetulan aku haid, sehingga aku tidak thawaf di Baitullah dan tidak sa'i antara Shafa dan Marwa. Hal itu kulaporkan kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau pun bersabda: "Lepas sanggulmu dan bersisirlah. Kemudian teruskan ihrammu untuk haji dan tinggalkan umrah." Apa yang diperintahkan beliau kulaksanakan semuanya. Setelah kami selesai mengerjakan haji, Rasulullah shallallahu 'alaihi wasallam menyuruhku bersama-sama Abdurrahman bin Abu Bakr pergi ke Tan'im untuk melakukan umrah. Beliau bersabda: "Itulah ganti umrahmu yang gagal." Orang-orang yang tadinya ihram untuk umrah, setibanya di Makkah mereka terus thawaf dan Baitullah dan sa'i antara Shafa dan Marwa. Kemudian sekembalinya di mereka dari Mina, mereka thawaf kembali selaku thawaf akhir. Ada pun orang-orang yang menggabungkan niat haji dan umrah, mereka thawaf satu kali saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2910</td></tr><tr><td>Arabic No</td><td>1211.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2910</td></tr><tr><td>Arabic No</td><td>1211.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 119</td></tr></tbody></table></div>
 

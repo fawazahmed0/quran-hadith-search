@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. 'Umar reported the Messenger of Allah (ﷺ) as saying:If anyone ema
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Nafi'] dari [Abdullah bin Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa membebaskan bagiannya dalam diri seorang budak, maka budak tersebut dinilai dengan nilai pertengahan. Lalu ia memberikan bagian para sekutunya kepada mereka, dan budak tersebut dibebaskan, jika tidak maka ia telah membebaskan darinya bagian yang telah ia bebaskan." Telah menceritakan kepada kami [Muammal] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dengan maknanya. Ia berkata, "Nafi' dimungkinkan mengatakan, 'Sungguh ia telah membebaskan darinya bagian yang telah ia bebaskan', dan mungkin juga ia tidak mengatakannya." Telah menceritakan kepada kami [Sulaiman bin Daud Al 'Ataki] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini. Ayyub berkata, "Aku tidak tahu, lafadz tersebut ada dalam hadits Nabi shallallahu 'alaihi wasallam, atau sesuatu yang ia dikatakan oleh Nafi', yaitu ucapan, 'jika tidak maka ia telah membebaskan darinya bagian yang telah ia bebaskan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2522) Sahih Muslim (1501)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3940</td></tr><tr><td>Arabic No</td><td>3940</td></tr><tr><td>Reference</td><td>Book 31 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто освободил свою долю раба, тот должен оценить его и выплатить совладельцам их доли остатка его стоимости, и тогда раб становится свободным. А в противном случае (, если освободивший стеснён в средствах,) он остаётся освобождённым лишь настолько, насколько его освободил (этот человек)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2522) Sahih Muslim (1501)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3940</td></tr><tr><td>Arabic No</td><td>3940</td></tr><tr><td>Reference</td><td>Book 31 Hadith 15</td></tr></tbody></table></div>
 

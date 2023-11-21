@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad:Anas bin Malik said, "The head of Al-Husain was brought to 'Ub
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Al Husain bin Ibrahim] berkata, telah bercerita kepadaku [Husain bin Muhammad] telah bercerita kepada kami [Jarir] dari [Muhammad] dari [Anas bin Malik radliallahu 'anhu]; "'Ubaidullah bin Ziyad disodorkan kepala Al Husain 'alaihis salam (setelah dipenggal orang) maka dia meletakkannya ke dalam baskom kemudian mencocok-cocokkannya lalu berkata tentang segala kebaikannya". Anas berkata; Al Husain adalah orang yang paling mirip dengan Rasulullah shallallahu 'alaihi wasallam diantara mereka (ahlul bait) dan dia diwarnai dengan wasmah (pewarna dari tumbuh-tumbuhan yang kehitam-hitaman)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3748</td></tr><tr><td>Arabic No</td><td>3748</td></tr><tr><td>Reference</td><td>Book 62 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что, когда ‘Убейдуллаху ибн Зияду принесли голову аль-Хусейна и положили её в таз, он (глумясь) начал тыкать её (палкой), говоря: «Он был красив». Анас сказал: «Аль-Хусейн больше всех был похож на Посланника Аллаха ﷺ, и он красил волосы васмой (разновидность растения, используемого в качестве красителя)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3748</td></tr><tr><td>Arabic No</td><td>3748</td></tr><tr><td>Reference</td><td>Book 62 Hadith 93</td></tr></tbody></table></div>
 

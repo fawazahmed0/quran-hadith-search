@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Amru bin Sawwad] dan [Harmalah bin Yahya] sedangkan lafadznya dari Harmalah, telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata; telah menceritakan kepadaku [Abu Salamah bin Abdurrahman] bahwa dia mendengar [Abu Hurairah] mengatakan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Neraka menyampaikan keluh kesahnya kepada Rabbinya dan berujar; "Wahai rabb, mengapa kami satu sama lain saling memakan?. Allah pun mengijinkan neraka untuk bernapas dua kali, bernapas ketika musim dingin dan bernapas ketika musim panas, kedua napas itulah yang kalian dapatkan ketika panas menyengat dan dingin membeku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1401</td></tr><tr><td>Arabic No</td><td>617.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 235</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Ад пожаловался своему Господу, сказав: “О Господь мой, одна часть меня пожирает другую!” И (Аллах) позволил ему делать два выдоха: один выдох зимой, а другой летом. (Это тогда, когда) вы ощущаете наиболее сильную жару и наиболее сильный холод”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1401</td></tr><tr><td>Arabic No</td><td>617.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 235</td></tr></tbody></table></div>
 

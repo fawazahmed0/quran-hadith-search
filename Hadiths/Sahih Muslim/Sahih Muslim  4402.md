@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that she heard Allah's Apostle (ﷺ) as saying:The hand of the t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Bisyr bin Al Hakam Al 'Abdi] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Yazid bin Abdullah bin Al Hadi] dari [Abu Bakar bin Muhammad] dari ['Amrah] dari ['Aisyah], bahwa dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah tangan pencuri dipotong kecuali jika telah mencapai seperempat dinar atau lebih." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Al Mutsanna] dan [Ishaq bin Manshur] semuanya dari [Abu 'Amir Al 'Aqadi] telah menceritakan kepada kami [Abdullah bin Ja'far] dari anaknya Al Miswar bin Mahzamah, dari [Yazid bin Abdullah bin Al Hadi] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4402</td></tr><tr><td>Arabic No</td><td>1684.05</td></tr><tr><td>Reference</td><td>Book 29 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4402</td></tr><tr><td>Arabic No</td><td>1684.05</td></tr><tr><td>Reference</td><td>Book 29 Hadith 5</td></tr></tbody></table></div>
 

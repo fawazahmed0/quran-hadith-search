@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl Ibn Sa'd (que Dieu l'agrée) a dit : L'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Abu Hazim dari [Abu Hazim] dari [Sahl bin Sa'ad] dia berkata; "Pada suatu ketika, seorang keluarga Marwan diangkat menjadi pejabat di Madinah. Lalu orang tersebut memerintahkan Sahal bin Sa'ad untuk mencaci maki Ali bin Abu Thalib, tetapi Sahal malah menolak perintah tersebut." Pejabat tersebut berkata kepada Sahal, Kalau kamu tidak mau maka ucapkanlah; 'Semoga Allah melaknat Abu Thurab.' Sahal menjawab, "Tidak ada nama julukan Ali bin Abu Thalib yang lebih ia sukai daripada julukan Abu Turab dan ia pun senang jika dipanggil dengan julukan tersebut." Pejabat itu balik bertanya; 'Hai Sahal, beritahukanlah kepadaku, bagaimana ceritanya hingga Ia dijuluki Abu Turab?" Sahal berkata; "Pada suatu hari, Rasulullah shallallahu 'alaihi wasallam datang ke rumah Fatimah. Namun beliau tidak menjumpai Ali bin Abu Thalib di rumahnya. Kemudian Rasulullah bertanya; 'Dimanakah anak pamanmu? ' Fatimah menjawab; "Sebenarnya antara saya dan dia ada sedikit permasalahan. Malah ia memarahi saya. Setelah itu, ia keluar rumah dan enggan beristirahat di sini." Akhirnya Rasulullah shallallahu 'alaihi wasallam menyuruh seseorang untuk mencari Ali bin Abu Thalib, menantu Rasulullah sekaligus saudara sepupunya. Tak lama kemudian orang tersebut datang dan berkata kepada Rasulullah, "Ya Rasulullah, Ali bin Abu Thalib sedang tidur di masjid." Setelah itu Rasulullah mendatangi Ali yang kala itu sedang tidur berbaring sementara kain selendangnya jatuh dari Iambungnya hingga menempel ke tanah. Kemudian Rasulullah mengusapnya seraya berkata."Bangunlah hai Abu Turab! Bangunlah hai Abu Turab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6229</td></tr><tr><td>Arabic No</td><td>2409</td></tr><tr><td>Reference</td><td>Book 44 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6229</td></tr><tr><td>Arabic No</td><td>2409</td></tr><tr><td>Reference</td><td>Book 44 Hadith 59</td></tr></tbody></table></div>
 

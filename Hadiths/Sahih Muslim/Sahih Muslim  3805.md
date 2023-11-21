@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdur Razzaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Amru bin Dinar] dari ['Atha' bin Mina'] bahwa dia mendengarnya telah menceritakan dari [Abu Hurairah] bahwa dia berkata; "Telah dilarang dua system jual beli, yaitu Mulamasah dan Munabadzah, adapun Mulamasah ialah salah seorang menyentuh pakaian saudaranya tanpa melihat terlebih dahulu. Sedangkan Munabadzah ialah salah seorang melempar pakaian ke temannya dengan maksud menjual, sedangkan temannya tidak perlu melihat pakaian saudaranya tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3805</td></tr><tr><td>Arabic No</td><td>1511.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3805</td></tr><tr><td>Arabic No</td><td>1511.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 5</td></tr></tbody></table></div>
 

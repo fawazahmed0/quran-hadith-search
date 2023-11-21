@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Laila bin 'Abdullah bin 'Abdur-Rahman bin Sahl:Sahl bin Abi Hathma 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Abu Laila] -lewat jalur periwayatan lain-Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari [Abu Laila bin Abdullah bin Abduurrahman bin Sahal bin Abu Khatsmah], ia dan beberapa pemuka kaumnya mengabarinya, bahwa Abdullah bin Sahal dan Muhayshah berangkat ke Khaibar karena musim paceklik yang menimpa mereka, lantas Muhayshah diberi kabar bahwa Abdullah terbunuh dan di hempaskan begitu saja di sebuah mata air. Maka ia datangi kaum yahudi dan mengatakan; 'Hei, kalianlah -demi Allah- yang telah membunuhnya! ' Mereka menjawab; 'Kami tidak membunuhnya, demi Allah.' Kemudian Muhayshah pulang hingga ia temui kaumnya dan ia ceritakan kasusnya kepada mereka. Ia temui kaumnya bersama saudaranya, Huwaysah yang usianya lebih tua daripadanya, dan Abdurrahman bin Sahal. Muhayshah kontan ingin bicara -karena dialah yang pergi ke Khaibar--, namun Nabi shallallahu 'alaihi wasallam menegur Muhayshah; "hendaklah yang lebih tua, hendaklah yang lebih tua" yang beliau maksudkan adalah umurnya. Maka Huwayshah -kakak Muhaysah-berbicara, kemudian baru diteruskan oleh Muhayshah. Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Adakah mereka ingin membayar diyat sahabat kalian ataukah mereka ingin mengumumkan perang?" lantas Rasulullah Shallallahu'alaihiwasallam berkirim surat kepada mereka, dan mereka pun memberi balasan bahwa; 'kami tidak membunuhnya.' Lantas Rasulullah Shallallahu'alaihiwasallam berkata kepada Muhayshah, Huwayshah, dan Abdurrahman bin Sahal; "Bagaimana kalau kalian bersumpah dan berhak menuntut darah kawan kalian?" mereka menjawab; 'tidak'. Nabi lantas mengatakan; "bagaimana kalau kaum yahudi itu yang bersumpah untuk kalian?" Mereka menjawab; "mereka bukan muslimin." Selanjutnya malahan Rasulullah Shallallahu'alaihiwasallam yang membayar diyatnya dari miliknya sendiri sebanyak seratus ekor unta hingga dimasukkan kekandang. [Sahal] berkata; 'seekor diantaranya ada yang menyepakku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7192</td></tr><tr><td>Arabic No</td><td>7192</td></tr><tr><td>Reference</td><td>Book 93 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Лейля ибн ‘Абдуллах ибн ‘Абдуррахман ибн Сахль передаёт со слов Сахля ибн Абу Хасма и со слов старейшин своего племени, что однажды ‘Абдуллах ибн Сахль и Мухаййиса, которые обеднели и оказались в трудном положении, отправились в Хайбар. А потом Мухаййисе сообщили, что ‘Абдуллах ибн Сахль убит и брошен в колодец или в источник. Тогда он явился к иудеям и сказал: «Клянусь Аллахом, это вы убили его!» Они же стали говорить: «Клянёмся Аллахом, что мы его не убивали!» После этого он отправился к своим соплеменникам и обо всём рассказал им, а потом Мухаййиса вместе со своим старшим братом Хуваййисой и (братом убитого) ‘Абдуррахманом ибн Сахлем пошёл (к Посланнику Аллаха ﷺ). Мухаййиса, который был в Хайбаре, начал говорить (первым), но Пророк ﷺ сказал ему: «Старший, старший!» — имея в виду по возрасту. Тогда заговорил Хуваййиса, а потом стал говорить Мухаййиса. Посланник Аллаха ﷺ сказал: «Либо (эти иудеи) выплатят компенсацию за кровь вашего убитого, либо им будет объявлена война!» Затем Посланник Аллаха ﷺ написал об этом иудеям, но те написали ему: «Мы его не убивали!» Тогда Посланник Аллаха ﷺ сказал Хуваййисе, Мухаййисе и ‘Абдуррахману: «Можете ли вы принести клятвенное свидетельство против убийцы, чтобы по праву взыскать с него за кровь вашего убитого?» Они сказали: «Нет». (Посланник Аллаха ﷺ) сказал: «Тогда пусть иудеи поклянутся вам, (что не убивали его)». Они сказали: «Они ведь не мусульмане». Тогда Посланник Аллаха ﷺ выплатил компенсацию (дийа) сам, послав им сто верблюдиц, которых привели к ним во двор. Сахль сказал: «И одна верблюдица из их числа лягнула меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7192</td></tr><tr><td>Arabic No</td><td>7192</td></tr><tr><td>Reference</td><td>Book 93 Hadith 54</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Awf b. Malik said :We were with Messenger of Allah (May peace be upon him), seve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hisyam bin 'Ammar] telah menceritakan kepada Kami [Al Walid] telah menceritakan kepada Kami [Sa'id? bin Abdul Aziz] dari [Rabi'ah yaitu Ibnu Yazid] dari [Abu Idris Al Khaulani] dari [Abu Muslim Al Khaulani], ia berkata; telah menceritakan kepadaku Al Habib Al Amin, ia adalah orang yang aku cintai dan ia bagiku adalah orang yang dapat dipercaya yaitu ['Auf bin Malik], ia berkata; Kami pernah bersama Rasulullah shallAllahu wa'alaihi wa sallam berjumlah tujuh, atau delapan atau sembilan orang. Beliau berkata: "Tidakkah kalian membaiat Rasulullah shallAllahu wa'alaihi wa sallam?" Sementara Kami baru saja berbaiat kepada beliau. Kami katakan; Kami telah membaiat anda. Hingga beliau mengatakannya sebanyak tiga kali. Kemudian Kami menghamparkan tangan Kami dan membaiat beliau. Kemudian seseorang berkata; wahai Rasulullah, Kami telah membaiat anda, kepada apakah Kami membaiat anda? Beliau bersabda: "Agar kalian beribadah kepada Allah dan tidak menyekutukan sesuatupun denganNya, melakukan shalat lima waktu, mendengar dan mentaati…. -dan beliau berkata pelan-: dan kalian tidak meminta-minta kepada orang sesuatupun." Ia berkata; sungguh sebagian orang-orang tersebut cemetinya terjatuh dan ia tidak meminta seorangpun untuk mengambilkannya. Abu Daud berkata; Hadits Hisyam tidak diriwayatkan kecuali oleh Sa'id
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1043)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1642</td></tr><tr><td>Arabic No</td><td>1642</td></tr><tr><td>Reference</td><td>Book 9 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Ауфа ибн Малика (аль-Ашджа‘и), что он сказал: «Мы были у Посланника Аллаха, да благословит его Аллах и приветствует. Нас было семь, восемь или девять человек. Он спросил нас: “Не присягнёте ли вы Посланнику Аллаха?” А мы только недавно приносили присягу. Мы сказали: “Мы уже присягнули тебе, о Посланник Аллаха”. Он повторил свои слова трижды. Тогда мы протянули руки и кто-то сказал: “Мы присягаем тебе, о Посланник Аллаха. А в чём именно мы должны поклясться тебе?” Он ответил: “В том, что будете поклоняться Аллаху и не придавать Ему сотоварищей, совершать пятикратную молитву, и подчиняться”. И он добавил совсем тихо: “И не просить людей ни о чём”». Он сказал: «И бывало, что у кого-то из этих людей падала плеть, но он не просил никого подать ему её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1043)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1642</td></tr><tr><td>Arabic No</td><td>1642</td></tr><tr><td>Reference</td><td>Book 9 Hadith 87</td></tr></tbody></table></div>
 

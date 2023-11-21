@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Atiyyah as-Sa'di: AbuWa'il al-Qass said: We entered upon Urwah ibn Muha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bakr bin Khalaf] dan [Al Hasan bin Ali] secara makna, keduanya berkata; telah menceritakan kepada kami [Ibrahim bin Khalid] berkata, telah menceritakan kepada kami [Abu Wail Al Qash] ia berkata, "Kami masuk menemui [Urwah bin Muhammad As Sa'di], lalu ada seorang laki-laki berbicara dengannya hingga membuatnya murka. Lantas ia berdiri berwudhu dan kembali lagi dalam keadaan telah berwudhu." Setelah itu ia berkata, " [Bapakku] telah menceritakan kepadaku, dari kakekku, [Athiyah]. Ia mengatakan bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Sesungguhnya marah itu dari setan dan setan diciptakan dari api, sementara api akan mati dengan air, maka jika salah seorang dari kalian marah hendaklah berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4784</td></tr><tr><td>Arabic No</td><td>4784</td></tr><tr><td>Reference</td><td>Book 43 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Ваиля аль-Къасса, который сказал: Однажды мы зашли к ‘Урве ибн Мухаммад ас-Са‘ди, и когда с ним заговорил один человек и разгневал его, он встал (с места) и совершил омовение. Затем завершив омовение он вернулся и сказал: Рассказал мне мой отец от моего деда ‘Атыййи, который сказал: «Посланник Аллаха ﷺ сказал: “Гнев от шайтана, а шайтан сотворен из огня, и, поистине, огонь тушат водой. Посему, когда кто-либо из вас гневается, пусть совершит омовение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4784</td></tr><tr><td>Arabic No</td><td>4784</td></tr><tr><td>Reference</td><td>Book 43 Hadith 12</td></tr></tbody></table></div>
 

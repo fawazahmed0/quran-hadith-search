@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muhammad Ibn 'Abbâd a dit : J'ai interrogé Jâbir Ibn 'Abdoullâh alors qu'il 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abdul Hamid bin Jubair] dari [Muhammad bin Abbad bin Ja'far] ia berkata; saya bertanya kepada [Jabir bin Abdullah radliallahu 'anhuma] saat ia melakukan thawaf, "Apakah Rasulullah shallallahu 'alaihi wasallam melarang untuk berpuasa di hari Jum'at?" Maka ia pun menjawab, "Ya, dan Rabb-nya Ka'bah juga melarang." Dan Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abdul Hamid bin Jubair bin Syaibah] bahwa telah mengabarkan kepadanya [Muhammad bin Abbad bin Ja'far] bahwa ia telah bertanya kepada [Jabir bin Abdullah radliallahu 'anhuma] dengan pertanyaan yang sama, dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2681</td></tr><tr><td>Arabic No</td><td>1143.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2681</td></tr><tr><td>Arabic No</td><td>1143.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 187</td></tr></tbody></table></div>
 

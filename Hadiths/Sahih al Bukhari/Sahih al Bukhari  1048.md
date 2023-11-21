@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:Allah's Messenger (ﷺ) said: "The sun and the moon are two s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Yunus] dari [Al Hasan] dari [Abu Bakrah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah, dan keduanya tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang. Akan tetapi dengan peristiwa itu Allah Ta'ala ingin membuat para hamba-Nya takut (dengan siksa-Nya)." Abu 'Abdullah berkata, " ['Abdul Warits] dan [Syu'bah] dan [Khalid bin 'Abdullah] dan [Hammad bin Salamah] dari [Yunus] tidak menyebutkan lafadz, 'Akan tetapi dengan peristiwa tersebut Allah Ta'ala ingin membuat para hamba-Nya takut (dengan siksa-Nya)." Riwayat ini dikuatkan oleh ['Asy'ats] dari [Al Hasan], dan dikuatkan juga oleh [Musa] dari [Mubarak] dari [Al Hasan] ia berkata; telah mengabarkan kepadaku [Abu Bakrah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya Allah Ta'ala dengan peristiwa itu Allah ingin membuat takut para hamba-Nya (dari siksa-Nya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1048</td></tr><tr><td>Arabic No</td><td>1048</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Бакры, что Посланник Аллаха ﷺ сказал: «Поистине, солнце и луна являются знамениями из знамений Аллаха. Они не затмеваются из-за смерти или жизни кого-то, однако Всевышний Аллах устрашает ими Своих рабов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1048</td></tr><tr><td>Arabic No</td><td>1048</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) le Prophète (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim al-Hanzhali] keduanya meriwayatkan dari [Jarir], [Utsman] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari ['Abidah] dari [Abdullah bin Mas'ud] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya aku mengetahui penduduk neraka yang terakhir keluar darinya dan dia menjadi penduduk surga yang terakhir kali masuk surga, yaitu seorang laki-laki yang keluar dari neraka dalam keadaan merangkak, lalu Allah berkata kepadanya, 'Pergilah, dan masuklah surga. Lalu dia mendatanginya, lalu dikhayalkan kepadanya bahwa surga telah penuh. Lalu dia kembali seraya berkata, 'Wahai Rabbku, aku mendapatinya telah penuh.' Maka Allah berfirman kepadanya, 'Masuklah surga.' Lalu dia mendatanginya, lalu dikhayalkan kepadanya bahwa ia telah penuh. Lalu dia kembali seraya berkata, 'Wahai Rabbku, aku mendapatinya telah penuh.' Maka Allah berkata kepadanya, 'Pergilah, lalu masuklah ke surga, karena kamu mendapatkan seperti dunia dan sepuluh kali lipat semisalnya, -atau kamu mendapatkan sepuluh kali lipat semisal dunia-.' Dia berkata, 'Apakah Engkau mengolok-olokku atau sedangkan Engkau adalah Raja'." Perawi berkata, "Sungguh aku melihat Rasulullah shallallahu 'alaihi wasallam tertawa hingga gigi gerahamnya terlihat." Perawi melanjutkan: "Dan dikatakan bahwa dia adalah penduduk surga yang paling rendah kedudukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>461</td></tr><tr><td>Arabic No</td><td>186.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 366</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Мас‘уда, что Посланник Аллаха ﷺ сказал: «Поистине, я знаю, кто из оказавшихся в Огне выйдет из него последним и кто из обитателей Рая последним войдёт в Рай . (Этот) человек выберется из Огня ползком, и Всемогущий и Великий Аллах скажет ему: “Ступай и войди в Рай!” Когда он подойдёт к Раю, ему покажется, что он полон, и он вернётся и скажет: “О Господь мой, оказалось, что он уже полон!” И Всемогущий и Великий Аллах (снова) скажет ему: “Ступай и войди в Рай!” И он подойдёт к Раю, но ему (опять) покажется, что он полон, и он вернётся и скажет: “О Господь мой, оказалось, что он уже полон!” И тогда Аллах скажет ему: “Ступай и войди в Рай, и ты получишь всё, что вмещал (земной) мир, и в десять раз больше в придачу (или: в десять раз больше, чем (земной) мир)”. И (человек) скажет: “Ты насмехаешься (или: … смеёшься) надо мной, несмотря на то, что являешься Царём?”».‘Абдуллах сказал: «Я видел, как в тот момент Посланник Аллаха ﷺ рассмеялся так, что были видны его коренные зубы, и он говорил: “Этот человек займёт самую низкую ступень в Раю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>461</td></tr><tr><td>Arabic No</td><td>186.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 366</td></tr></tbody></table></div>
 

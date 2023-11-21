@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Juhaifa reported:The Messenger of Allah (ﷺ) went at noon towards al-Batha'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1122</td></tr><tr><td>Arabic No</td><td>503.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 284</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Джухайфа сказал: «(Однажды) в полдень, Посланник Аллаха ﷺ вышел в Батхаъ, совершил омовение и два рак‘ата полуденной /зухр/ и послеполуденной /‘аср/ молитвы, и перед ним была (воткнута в землю) палка с заостренным концом, а женщины и ослы (свободно) проходили перед ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1122</td></tr><tr><td>Arabic No</td><td>503.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 284</td></tr></tbody></table></div>
 

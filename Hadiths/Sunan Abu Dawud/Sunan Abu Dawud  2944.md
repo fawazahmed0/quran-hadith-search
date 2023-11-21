@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn al-Sa'idi:'Umar reported me to collect the sadaqah (i.e. zakat). Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi], telah menceritakan kepada kami [Laits] dari [Bukair bin Abdullah bin Al Asyjj], dari [Busr bin Sa'id], dari [Ibnu As Sa'idi], ia berkata; [Umar] memberiku jabatan untuk mengurusi zakat, lalu tatkala saya telah selesai mengurusinya, ia memerintahkan agar saya diberi uang, maka saya katakan; sesungguhnya saya bekerja hanya untuk Allah. Ia berkata; ambillah apa yang telah diberikan kepadamu, karena sesungguhnya saya telah bekerja pada masa? Rasulullah shallallahu 'alaihi wasallam dan beliau memberiku uang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1045)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2944</td></tr><tr><td>Arabic No</td><td>2944</td></tr><tr><td>Reference</td><td>Book 20 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ас-Са‘идит: «‘Умар, да будет доволен им Аллах, назначил меня ответственным за сбор закята, а когда я закончил свою работу, он велел дать мне плату. Я сказал: “Поистине, я трудился ради Аллаха”. ‘Умар сказал: “Бери то, что тебе дают… При жизни Посланника Аллаха ﷺ я занимался сбором закята, и он дал мне плату”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1045)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2944</td></tr><tr><td>Arabic No</td><td>2944</td></tr><tr><td>Reference</td><td>Book 20 Hadith 17</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : "Au temps du Prophète (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] semuanya dari [Ibnu Fudlail], [Abu Bakar] berkata, telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Mukhtar bin Fulful] ia berkata, saya bertanya kepada [Anas bin Malik] mengenai shalat tathawwu' sesudah shalat asar. Maka ia menjawab, "Dulu Umar memukul tangan seseorang karena shalat sesudah Asar. Dan pada masa Rasulullah shallallahu 'alaihi wasallam kami biasa menunaikan dua raka'at setelah terbenamnya matahari dan sebelum shalat Maghrib." Saya bertanya lagi padanya, "Apakah Rasulullah shallallahu 'alaihi wasallam pernah melakukannya?" Ia menjawab, "Beliau melihat kami melakukannya, namun beliau tidak memerintahkan kami dan tidak pula melarang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1938</td></tr><tr><td>Arabic No</td><td>836</td></tr><tr><td>Reference</td><td>Book 6 Hadith 366</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухтар ибн Фульфуль сказал: «Я задал Анасу ибн Малику вопрос о добровольной молитве после послеполуденной молитвы, и он сказал: “’Умар бил людей по рукам за совершение такой молитвы. Что же касается нас, то при жизни Посланника Аллаха ﷺ мы совершали добровольную молитву в два рак‘ата после захода солнца перед закатной молитвой”. Я спросил: “А совершал ли (такую молитву) Посланник Аллаха ﷺ?” (Анас) сказал: “Он видел, как мы совершали (её), но не велел нам делать это, как и не запрещал нам этого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1938</td></tr><tr><td>Arabic No</td><td>836</td></tr><tr><td>Reference</td><td>Book 6 Hadith 366</td></tr></tbody></table></div>
 

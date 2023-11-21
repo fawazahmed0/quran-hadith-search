@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abu Habib:Abu Al-Khair said, "As-Sanabih, I asked (me), 'When did y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab telah menceritakan kepada kami [Ashbagh] berkata; Telah mengabarkan kepadaku [Ibnu Wahb] berkata; Telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Ibnu Abu Habib] dari [Abu Al Khair] dari [Ash Shunabihi] bahwasanya dia bertanya kepada Ash Shunabihi; "Kapan kamu berhijrah? Dia menjawab; Kami berhijrah dari Yaman hingga kami sampai di Juhfah. Kemudian kami bertemu dengan seorang pengendara dan aku tanyakan kepadanya tentang kabar Rasulullah shallallahu 'alaihi wasallam. Dia menjawab; "Kami telah menguburkan jasad Rasulullah shallallahu 'alaihi wasallam sejak lima hari yang lalu. Aku bertanya lagi; 'Apakah kamu mendengar berita tentang lailatul qadar? Dia menjawab; 'Ya, [Bilal] -mu'adzin Rasulullah shallallahu 'alaihi wasallam- mengabarkan kepadaku bahwa itu terjadi pada hari ketujuh dari sepuluh hari terakhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4470</td></tr><tr><td>Arabic No</td><td>4470</td></tr><tr><td>Reference</td><td>Book 64 Hadith 485</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абуль-Хайр спросил ас-Санабихи: «Когда ты совершил переселение?» Он ответил: «Совершая переселение, мы вышли из Йемена и прибыли в аль-Джухфу, и там встретили всадника, которого я спросил о новостях. Всадник сказал: “Мы похоронили Пророка ﷺ пять дней назад”». Я (Абуль-Хайр) спросил: «Ты слышал что-нибудь о Ночи предопределения?» Он ответил: «Биляль, муаззин Пророка ﷺ сообщил мне, что это одна из семи ночей последних десяти дней (рамадана)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4470</td></tr><tr><td>Arabic No</td><td>4470</td></tr><tr><td>Reference</td><td>Book 64 Hadith 485</td></tr></tbody></table></div>
 

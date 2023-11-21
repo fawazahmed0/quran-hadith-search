@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Apostle (ﷺ) as saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Amru An Naqid] dan [Zuhair bin Harb] mereka berkata, Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] radliallahu 'anhu, -Abu Bakr bin Abu Syaibah berkata- dan telah berkata Amru hingga sampai kepada Nabi shallallahu 'alaihi wasallam -sementara Zuhair berkata- dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila salah seorang dari kalian diundang makan padahal ia sedang berpuasa, maka hendaklah ia mengatakan, 'Sesungguhnya, saya sedang berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>1150</td></tr><tr><td>Reference</td><td>Book 13 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>1150</td></tr><tr><td>Reference</td><td>Book 13 Hadith 208</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali (Allah be pleased with him) reported having said this:Messenger of Allah, wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] serta [Muhammad bin Al 'Ala'] sedangkan lafazhnya dari Abu Bakar mereka berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Sa'd bin 'Ubaidah] dari [Abu Abdurrahman] dari [Ali] dia berkata; Saya pernah bertanya; "Wahai Rasulullah, kenapa anda sangat mengutamakan wanita-wanita Quraisy dan meninggalkan wanita-wanita kami?" Beliau balik bertanya: "Adakah wanita dari kalian yang pantas bagiku?" Dia menjawab; "Ya, yaitu putrinya Hamzah." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya dia tidak halal bagiku, karena dia adalah putri saudaraku dari sepersusuan." Dan telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] dari [Jarir]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Abu Bakar Al Muqaddami] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Sufyan] mereka semua dari [Al A'masy] dengan isnd seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3581</td></tr><tr><td>Arabic No</td><td>1446.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3581</td></tr><tr><td>Arabic No</td><td>1446.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 14</td></tr></tbody></table></div>
 

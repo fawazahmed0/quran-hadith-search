@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has also been narrated on the authority of Abu Huraira
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abdurrahman bin Sahm] telah mengabarkan kepada kami [Abdullah bin Mubarrak] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Perang adalah tipu daya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4540</td></tr><tr><td>Arabic No</td><td>1740</td></tr><tr><td>Reference</td><td>Book 32 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4540</td></tr><tr><td>Arabic No</td><td>1740</td></tr><tr><td>Reference</td><td>Book 32 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I have heard 'Umar saying, "The Prophet (ﷺ) used 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7164</td></tr><tr><td>Arabic No</td><td>7164</td></tr><tr><td>Reference</td><td>Book 93 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «Обычно Пророк ﷺ всегда давал мне что-нибудь, а я говорил: “Отдай это тем, кто нуждается в этом больше меня”, — и так продолжалось до тех пор, пока однажды он не дал мне имущество, и я сказал: “Отдай это тем, кто нуждается в этом больше меня”. И тогда Пророк ﷺ сказал: “Возьми это, владей этим и отдавай это в качестве милостыни. И чтобы тебе не доставалось из этого имущества не по твоему собственному желанию и ты (ни о чём) не просишь, бери это, а что тебе не достанется, то не стремись к этому!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7164</td></tr><tr><td>Arabic No</td><td>7164</td></tr><tr><td>Reference</td><td>Book 93 Hadith 28</td></tr></tbody></table></div>
 

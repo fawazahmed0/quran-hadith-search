@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) was prevented from performing ('Umra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] berkata, telah menceritakan kepada kami [Yahya bin Shalih] telah menceritakan kepada kami [Mu'awiyah bin Salam] telah menceritakan kepada kami [Yahya bin Abu Katsir] dari ['Ikrimah] berkata, [Ibnu 'Abbas radliallahu 'anhuma] berkata: Rasulullah Shallallahu'alaihi shallallahu 'alaihi wasallam pernah terhalang melaksanakan haji, maka Beliau mencukur rambut Beliau, mendatangi isterinya dan menyembelih hewan korban. Beliau baru ber'umrah pada tahun berikutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1809</td></tr><tr><td>Arabic No</td><td>1809</td></tr><tr><td>Reference</td><td>Book 27 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(После того как) Посланника Аллаха ﷺ задержали, он обрил себе голову, и спал со своими жёнами, и принёс в жертву свой скот, а умру совершил на следующий год»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1809</td></tr><tr><td>Arabic No</td><td>1809</td></tr><tr><td>Reference</td><td>Book 27 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSahlah as-Sa'ib ibn Khallad: A man led the people in prayer. He spat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Amru] dari [Bakr bin Sawadah Al-Judzami] dari [Shalih bin Khaiwan] dari [Abu Sahlah As-Sa'ib bin Khallad] berkata Ahmad, salah seorang sahabat Nabi shallallahu 'alaihi wasallam bahwa ada seorang laki-laki menjadi imam shalat suatu kaum, lalu orang itu meludah ke arah kiblat, sedangkan Rasulullah shallallahu 'alaihi wasallam melihatnya, maka Rasulullah shallallahu 'alaihi wasallam bersabda setelah selesai shalat: "Orang itu tidak boleh shalat (menjadi imam) untuk kalian." Setelah itu, orang tersebut hendak mengerjakan shalat sebagai imam mereka, lalu mereka mencegahnya dan memberitahukan kepadanya tentang larangan Rasulullah shallallahu 'alaihi wasallam tersebut. Maka orang tersebut menyampaikan peristiwa itu kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda: "Ya, benar". Dan seingatku beliau bersabda: "Sesungguhnya engkau telah menyakiti Allah dan RasulNya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>481</td></tr><tr><td>Arabic No</td><td>481</td></tr><tr><td>Reference</td><td>Book 2 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Убады ибн аль-Валид ибн ‘Убада ибн ас-Самита: (Как то) мы пришли к Джабиру ибн ‘Абдуллах, который сидел в своей мечети. Он сказал: «Однажды к нам в эту мечеть зашел Посланник Аллаха ﷺ у которого в руках была ветвь финиковой пальмы сорта Ибн Таб, и увидел на стене мечети, направленной в сторону къиблы плевок. Он подошел к ней, стер его веткой, после чего сказал: “Кто из вас хочет, чтобы Аллах отвернулся от него?” Затем он сказал: “Поистине, когда кто-то из вас стоит на молитве, Аллах находится перед ним, поэтому не плюйте ни перед собой, ни вправо от себя, а плюйте слева от себя, под левую ногу. А если слюна одолеет его, пусть делает своей одеждой вот так”. И он поднес (край своей) одежды ко рту и вытер слюну ею, после чего сказал: “Принесите мне благовоние!”. Тогда встал один юноша с этого квартала и побежал к себе домой, и принес в руках халюкъ. Посланник Аллаха ﷺ взял его и поместил на конец ветки, после чего начал мазать им по месту, где остались следы от плевка”».Джабир сказал: «С этого и (началось) использование халюкъа в ваших мечетях»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>481</td></tr><tr><td>Arabic No</td><td>481</td></tr><tr><td>Reference</td><td>Book 2 Hadith 91</td></tr></tbody></table></div>
 

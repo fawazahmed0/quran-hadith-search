@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: When the words of Iqama 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Fudlail yaitu Ibnu Iyadl] dari [Hisyam] dia berkata, (Dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Zuhair bin Harb] sedangkan lafadznya dari dia, telah menceritakan kepada kami [Isma'il bin Ibrahim] telah menceritakan kepada kami [Hisyam bin Hassan] dari [Muhammad bin Sirin] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika iqamat shalat telah dikumandangkan, maka janganlah salah seorang dari kalian mendatanginya dengan tergesa-gesa, namun berjalanlah sambil tetap tenang dan berwibawa, apa yang kalian dapatkan dari shalat maka ikutilah, dan apa yang kalian tertinggal maka sempurnakanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1362</td></tr><tr><td>Arabic No</td><td>602.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «После того, как будет объявлено о начале молитвы, пусть никто из вас не является на неё в спешке, но пусть приходит на неё (обычным шагом,) сохраняя спокойствие и степенность. Молись то, что застанешь, а то, что пропустишь, восполняй»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1362</td></tr><tr><td>Arabic No</td><td>602.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 197</td></tr></tbody></table></div>
 

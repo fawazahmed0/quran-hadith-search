@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:Abu Musa said, "We went out in the company of the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Ala'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abdullah bin Abu Burdah] dari [Abu Burdah] dari [Abu Musa radliallahu 'anhu] berkata; "Kami keluar bersama Nabi shallallahu 'alaihi wasallam dalam suatu peperangan. Saat itu kami berjumlah enam orang dan kami hanya memiliki satu ekor unta yang kami gunakan secara bergantian. Kaki-kaki kami menjadi tipis (kerena berjalan) begitu juga kuku menjadi tipis hingga kuku-kuku kakiku tercabut. Kami lalu membungkus kaki-kaki kami dengan khiraq (sobekan-sobekan kain), oleh karena itu perang itu dinamakan perang Dzatur Riqa', karena kami membalut kaki-kaki kami dengan khiraq." Abu Musa telah menceritakan kepada kami hadits ini, namun dia tidak menyukainya. Dia berkata; "Apa yang telah aku lakukan dengan menceritakannya?". Seakan-akan ia tidak suka menampakkan amalannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4128</td></tr><tr><td>Arabic No</td><td>4128</td></tr><tr><td>Reference</td><td>Book 64 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «(Однажды) шестеро из нас выступили в поход вместе с Пророком ﷺ, и у нас был только один верблюд, на котором мы ехали по очереди. Из-за этого подошвы наших ног стерлись, и я (тоже) стёр себе ноги и (даже) лишился ногтей. Мы обматывали себе ноги тряпками, и (поэтому этот поход) был назван “Зат ар-рика‘”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4128</td></tr><tr><td>Arabic No</td><td>4128</td></tr><tr><td>Reference</td><td>Book 64 Hadith 172</td></tr></tbody></table></div>
 

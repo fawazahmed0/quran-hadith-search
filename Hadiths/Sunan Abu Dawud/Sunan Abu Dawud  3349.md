@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubadah ibn as-Samit: The Messenger of Allah (ﷺ) said: Gold is to be p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Bisyr bin Umar], telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Abu Al Khalil] dari [Muslim Al Makki] dari [Abu Al Asy'ats Ash Shan'ani] dari ['Ubadah bin Ash Shamit], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Emas dengan emas baik yang masih murni maupun mata uangnya, perak dengan perak baik yang masih murni maupun mata uangnya, gandum dengan gandum satu mudyu (takaran penduduk Syam sama dengan dua setengah sha') dengan satu mudyu, jewawut dengan jewawut satu mudyu dengan satu mudyu, kurma dengan kurma satu mudyu dengan satu mudyu, garam dengan garam satu mudyu dengan satu mudyu, barangsiapa yang menambah atau minta tambah maka sungguh ia telah melakukan riba. Tidak mengapa menjual emas dengan perak dan perak lebih banyak apabila secara langsung, adapun dengan cara menunda maka tidak boleh, dan tidak mengapa menjual gandum dengan jewawut dan jewawut lebih banyak apabila secara langsung, adapun dengan menunda maka tidak boleh." Abu Daud berkata; hadits ini diriwayatkan oleh [Sa'id bin Abu 'Arubah] dan [Hisyam Ad Dastuwai] dari [Qatadah] dari [Muslim bin Yasar] dengan sanadnya. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah?] telah menceritakan kepada kami [Waki'], telah menceritakan kepada kami [Sufyan] dari [Khalid] dari [Abu Qilabah], dari [Abu Al Asy'ats Ash Shan'ani], dari ['Ubadah bin Ash Shamit], dari Nabi shallallahu 'alaihi wasallam bersabda: dengan hadits ini, dan dengan menambah serta mengurangi. Ia tambahkan; beliau bersabda: "Apabila jenisnya berbeda, maka juallah dengan cara yang kalian kehendaki, apabila dilakukan secara langsung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3349</td></tr><tr><td>Arabic No</td><td>3349</td></tr><tr><td>Reference</td><td>Book 23 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Убады ибн ас-Самита, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Золото за золото, куски и монеты, серебро за серебро, куски и монеты, пшеница за пшеницу, мудй за мудй, ячмень за ячмень, мудй за мудй, финики за финики, мудй за мудй, и соль за соль, мудй за мудй, и кто добавит или потребует добавки, тот занимается ростовщичеством /риба/. При этом нет ничего запретного в том, чтобы продавать золото за серебро, если серебра больше и передача происходит из рук в руки. Что же касается продажи с задержкой /насиъа/, то это запрещено, и нет ничего запретного в том, чтобы продавать пшеницу за ячмень, если ячменя больше и передача происходит из рук в руки. Что же касается продажи с задержкой, то это запрещено»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3349</td></tr><tr><td>Arabic No</td><td>3349</td></tr><tr><td>Reference</td><td>Book 23 Hadith 24</td></tr></tbody></table></div>
 

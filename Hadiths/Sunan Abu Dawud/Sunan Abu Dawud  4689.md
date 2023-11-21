@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying :
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Shalih Al Anthaki] berkata, telah mengabarkan kepada kami [Abu Ishaq Al Fazari] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang yang berzina tidak disebut mukmin saat berzina, seorang pencuri tidak disebut mukmin saat mencuri, seorang peminum khamer tidak disebut mukmin saat minum khamer, dan pintu taubat akan selalu dibuka setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6810) Sahih Muslim (57)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4689</td></tr><tr><td>Arabic No</td><td>4689</td></tr><tr><td>Reference</td><td>Book 42 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Не совершает прелюбодей прелюбодеяния, будучи верующим, и не совершает вор кражи, будучи верующим, и не пьёт человек вина, будучи верующим, однако у него есть возможность покаяться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6810) Sahih Muslim (57)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4689</td></tr><tr><td>Arabic No</td><td>4689</td></tr><tr><td>Reference</td><td>Book 42 Hadith 94</td></tr></tbody></table></div>
 

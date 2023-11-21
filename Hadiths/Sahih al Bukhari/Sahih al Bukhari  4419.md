@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When the Prophet (ﷺ) passed by Al-Hijr, he said, "Do not en
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad Al Ju'fi] Telah menceritakan kepada kami ['Abdur Razzaq] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu 'Umar radliallahu 'anhu] dia berkata; Tatkala Rasulullah shallallahu 'alaihi wasallam melewati Hijr, Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian memasuki tempat-tempat tinggal orang yang menzhalimi diri mereka sendiri kecuali kalian dengan menangis karena khawatir kalian tertimpa seperti yang menimpa mereka." Beliau kemudian menutupi kepalanya dan cepat-cepat pergi hingga melintasi lembah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4419</td></tr><tr><td>Arabic No</td><td>4419</td></tr><tr><td>Reference</td><td>Book 64 Hadith 441</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что, проходя мимо аль-Хиджра, Пророк ﷺ сказал: «Не входите в жилища тех, кто поступили несправедливо в отношении самих себя, чтобы вас не постигло то, что постигло их, если только вы (не входите туда) плачущими». После этого он закрыл лицо своим покрывалом и ускорил шаг, пока не пересёк долину
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4419</td></tr><tr><td>Arabic No</td><td>4419</td></tr><tr><td>Reference</td><td>Book 64 Hadith 441</td></tr></tbody></table></div>
 

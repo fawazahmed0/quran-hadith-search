@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada saya [Muhammad bin Mahbub] telah menceritakan kepada k
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214.2</td></tr><tr><td>Arabic No</td><td>2214.2</td></tr><tr><td>Reference</td><td>Book 34 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ постановил, что преимущественное право покупки (шуф‘а) распространяется на любое не поделённое имущество, однако если границы и пути были размечены, то преимущественное право покупки уже не действовало»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214</td></tr><tr><td>Arabic No</td><td>2214</td></tr><tr><td>Reference</td><td>Book 34 Hadith 160</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214.2</td></tr><tr><td>Arabic No</td><td>2214.2</td></tr><tr><td>Reference</td><td>Book 34 Hadith 161</td></tr></tbody></table></div>

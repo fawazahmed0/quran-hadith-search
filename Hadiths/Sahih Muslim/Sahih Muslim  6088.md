@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Sarjis reported:I saw Allah's Apostle (ﷺ) and ate with him bread a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil]; Telah menceritakan kepada kami [Hammad] yaitu Ibnu Zaid; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Suwaid bin Sa'id]; Telah menceritakan kepada kami ['Ali bin Mushir] seluruhnya dari ['Ashim Al Ahwal]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Hamid bin 'Umar Al Bakrawi] dan lafazh ini miliknya; Telah menceritakan kepada kami ['Abdul Wahid] yaitu Ibnu Ziyad; Telah menceritakan kepada kami ['Ashim] dari ['Abdullah bin Sarjis] dia berkata; dia berkata; "Saya pernah melihat dan makan roti serta daging (Atau dia berkata; bubur daging) bersama Rasulullah shallallahu 'alaihi wasallam." Perawi berkata; 'Saya bertanya kepada 'Abdullah bin Sarjis, 'Apakah Nabi Muhammad memohonkan ampun untukmu? ' Kemudian Abdullah bin Sarjis menjawab; Ya, dan untuk kamu juga. Lalu dia membaca ayat yang berbunyi: Mohonlah ampunan (hai Muhammad) atas dosamu dan dosa orang mukmin laki-laki dan perempuan. (Muhammad: 19). Abdullah bin Sarjis berkata; 'Lalu saya berputar ke belakang Rasulullah dan saya melihat tanda kenabian di antara dua pundak beliau, yaitu dekat punuk pundak kirinya. Pada tanda kenabian itu ada tahi lalat sebesar kutil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6088</td></tr><tr><td>Arabic No</td><td>2346</td></tr><tr><td>Reference</td><td>Book 43 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6088</td></tr><tr><td>Arabic No</td><td>2346</td></tr><tr><td>Reference</td><td>Book 43 Hadith 146</td></tr></tbody></table></div>
 

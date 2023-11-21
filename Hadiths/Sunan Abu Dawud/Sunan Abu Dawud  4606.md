@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A'ishah reported the Messenger of Allah (ﷺ) as saying:If any one introduces in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabbah Al Bazzaz] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Isa] berkata, telah menceritakan kepada kami [Abdullah bin Ja'far Al Makhrami] dan [Ibrahim bin Sa'd] dari [Sa'd bin Ibrahim] dari [Al Qasim bin Muhammad] dari ['Aisyah radliallahu 'anha] ia berkata, "Rasulullah shallallahu 'alaihi wasallam a bersabda: "Barangsiapa membuat-buat suatu perkara yang tidak ada dalam agama kami, maka akan tertolak." Ibnu Isa menyebutkan, "Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa membuat perkara baru selain dari yang kami perintahkan maka akan tertolak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2697) Sahih Muslim (1718)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4606</td></tr><tr><td>Arabic No</td><td>4606</td></tr><tr><td>Reference</td><td>Book 42 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Если кто-то внесёт в это наше дело то, что к нему не относится, это будет отвергнуто». А в версии Ибн ‘Исы Пророк ﷺ сказал: «Если кто-то сделает нечто, не соответствующее нашему делу, оно будет отвергнуто»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2697) Sahih Muslim (1718)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4606</td></tr><tr><td>Arabic No</td><td>4606</td></tr><tr><td>Reference</td><td>Book 42 Hadith 11</td></tr></tbody></table></div>
 

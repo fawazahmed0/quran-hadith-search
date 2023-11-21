@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:I heard the Prophet (ﷺ) saying, "In the last days (of the world)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] Telah mengabarkan kepada kami [Sufyan] Telah menceritakan kepada kami [Al A'masy] dari [Khaitsamah] dari [Suwaid bin Ghaflah] bahwa [Ali] radliallahu 'anhu berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Pada akhir zaman nanti, akan datang suatu kaum yang muda usianya lagi bodoh. Mereka berkata-kata dengan kebaikan, akan tetapi mereka keluar dari Islam sebagaimana meluncurnya anak panah dari busurnya. Keimanan mereka tidaklah melewati batas tenggorokan (tidak meresap dalam hati). Karena itu, dimana pun kalian menemukannya, maka bunuhlah mereka. Karena sesungguhnya membunuh mereka merupakan pahala, yakni pahala pada hari kiamat bagi yang membunuh mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5057</td></tr><tr><td>Arabic No</td><td>5057</td></tr><tr><td>Reference</td><td>Book 66 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Али, да будет доволен им Аллах, что Пророк ﷺ сказал: «В последние времена появятся молодые и неразумные люди, которые станут произносить слова лучших созданий, однако они вылетят из ислама подобно выпущенной из лука стреле. Вера (этих людей) не выйдет за пределы их глоток, а поэтому, где бы вы ни встретили (таких), убивайте их, ибо, поистине, убивший их в День воскресения получит за это награду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5057</td></tr><tr><td>Arabic No</td><td>5057</td></tr><tr><td>Reference</td><td>Book 66 Hadith 82</td></tr></tbody></table></div>
 

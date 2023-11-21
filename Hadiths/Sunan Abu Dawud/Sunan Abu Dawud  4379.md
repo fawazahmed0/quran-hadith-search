@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wa'il ibn Hujr: When a woman went out in the time of the Prophet (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Al Faryabi] berkata telah menceritakan kepada kami [Isra'il] berkata, telah menceritakan kepada kami [Simak bin Harb] dari [Alqamah bin Wail] dari [bapaknya] ia berkata, "Pada masa Nabi shallallahu 'alaihi wasallam ada seorang wanita keluar rumah untuk melaksanakan shalat berjamaah. Lalu, ia bertemu dengan seorang laki-laki yang kemudian memaksanya untuk melakukan hubungan intim, laki-laki itu akhirnya memerkosanya sementara ia hanya bisa berteriak. Setelah puas laki-laki itu kabur melarikan diri. Kemudian lewatlah seorang laki-laki di hadapannya, wanita itu berkata, "Orang itu telah memperlakukan aku begini dan begini (memperkosa)! Pada saat yang bersamaan lewat juga sekelompok orang dari Muhajirin, wanita itu berkata, "laki-laki itu telah melakukan begini dan begini kepadaku (memperkosa)." Rombongan itu lalu mengejar laki-laki yang disangka oleh wanita itu telah memperkosanya. Mereka kemudian membawanya ke hadapan wanita itu, wanita berkata, "Benar, laki-laki inilah yang telah memperkosaku! ' Mereka kemudian membawa laki-laki malang itu kepada Nabi shallallahu 'alaihi wasallam, maka ketika beliau memerintahkan untuk menghukum (rajam) laki-laki tersebut, laki-laki yang memperkosa wanita itu berdiri dan berkata, "Wahai Rasulullah, akulah yang telah memperkosanya." Beliau bersabda kepada wanita itu: "Pergilah, semoga Allah mengampuni kekeliruanmu (salah tuduh)." Beliau juga mengatakan ucapan yang baik kepada laki-laki itu." Abu Dawud berkata, "maksudnya laki-laki yang diambil karena salah tangkap. Dan Rasulullah berkata untuk si pelaku: "Rajamlah ia." Kemudian beliau melanjutkan: "Dia telah bertaubat, dan sekiranya taubatnya dibagikan kepada seluruh penduduk Madinah, niscaya taubatnya akan diterima." Abu Dawud berkata, " [Asbath bin Nashr] juga meriwayatkannya dari [Simak]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4379</td></tr><tr><td>Arabic No</td><td>4379</td></tr><tr><td>Reference</td><td>Book 40 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Алькама ибн Ваиль передаёт от своего отца, что однажды во времена Пророка ﷺ женщина вышла, чтобы совершить молитву, и ей повстречался мужчина, который напал на неё и овладел ею. Она закричала, и нападавший убежал. А мимо проходил какой-то мужчина. Она сказала: «Этот мужчина сделал со мной то-то и то-то!» (рассказывая о насилии, которое тот человек сотворил над ней) А когда мимо проходила группа мухаджиров, женщина сказала: «Этот мужчина сделал со мной то-то и то-то!» И они схватили некоего человека, а женщина подумала, что это и есть нападавший, и, когда его привели, сказала: «Да, это он». Они привели его к Пророку ﷺ. И когда он отдал веление относительно него, поднялся нападавший, который овладел этой женщиной, и сказал: “О Посланник Аллаха! Это сделал я”. (Посланник Аллаха ﷺ) сказал (женщине): “Иди, Аллах простил тебя”. А тому человеку он сказал благие слова. Абу Дауд сказал: «То есть человеку, которого схватили (по ошибке). А относительно человека, который сотворил насилие над женщиной, он сказал: “Побейте его камнями”. И (посланник ﷺ) сказал: “Поистине, он покаялся таким покаянием, которого хватило бы на всех жителей Медины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4379</td></tr><tr><td>Arabic No</td><td>4379</td></tr><tr><td>Reference</td><td>Book 40 Hadith 29</td></tr></tbody></table></div>
 

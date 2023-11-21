@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "None of you should say: 'O A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang dari kalian mengatakan; 'Ya Allah, ampunilah aku jika Engkau kehendaki, dan rahmatilah aku jika Engkau berkehendak.' Akan tetapi hendaknya ia bersungguh-sungguh dalam meminta, karena Allah sama sekali tidak ada yang memaksa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6339</td></tr><tr><td>Arabic No</td><td>6339</td></tr><tr><td>Reference</td><td>Book 80 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Пусть никто из вас ни в коем случае не говорит: “О Аллах, прости меня, если захочешь, о Аллах, помилуй меня, если захочешь”, но проявляет решительность, ибо никто (и так) не может принудить (Аллаха) к чему бы то ни было»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6339</td></tr><tr><td>Arabic No</td><td>6339</td></tr><tr><td>Reference</td><td>Book 80 Hadith 36</td></tr></tbody></table></div>
 

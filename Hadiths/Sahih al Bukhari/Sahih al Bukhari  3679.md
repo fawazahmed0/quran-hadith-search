@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "I saw myself (in a dream) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hajjaj bin Minhal] telah bercerita kepada kami ['Abdul 'Aziz bin Al Majisyun] telah bercerita kepada kami [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdullah RAa] berkata, Nabi shallallahu 'alaihi wasallam bersabda: "Aku bermimpi memasuki surga. Disana aku bertemu seorang wanita yang bertahi mata, yaitu istri dari Abu Thalhah lalu aku mendengar suara langkah sandal. Aku bertanya; "Siapakah dia?". Dia menjawab; "Dia adalah Bilal". Kemudian aku melihat istana yang di halamannya ada seorang sahaya wanita. Aku bertanya: "Untuk siapakah istana itu?". Dia menjawab; "Untuk 'Umar". Semula aku ingin masuk ke dalam istana itu untuk melihat-lihat namun aku teringat kecemburuanmu". Maka 'Umar berkata; "Demi bapak dan ibuku, wahai Rasulullah, apakah aku boleh cemburu kepadamu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3679</td></tr><tr><td>Arabic No</td><td>3679</td></tr><tr><td>Reference</td><td>Book 62 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах ими обоими, что (однажды) Пророк ﷺ сказал: «Мне приснилось, что я вошел в Рай, где увидел Румайсу, жену Абу Тальхи. Потом я услышал звук (чьих-то шагов) и спросил: “Кто это?” (Мне) ответили: “Это Биляль”. А потом я увидел дворец, во дворе которого находилась какая-то девушка, и спросил: “Кому принадлежит этот (дворец)?” (Мне) ответили: “‘Умару”, и я хотел войти внутрь и посмотреть на него, но потом вспомнил о твоей ревности». (Услышав это,) ‘Умар воскликнул: «Да станут отец мой и мать выкупом за тебя, о Посланник Аллаха, могу ли я ревновать, когда речь идёт о тебе?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3679</td></tr><tr><td>Arabic No</td><td>3679</td></tr><tr><td>Reference</td><td>Book 62 Hadith 29</td></tr></tbody></table></div>
 

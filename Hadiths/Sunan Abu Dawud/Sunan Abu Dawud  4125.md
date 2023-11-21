@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salamah ibn al-Muhabbaq: On the expedition of Tabuk the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] dan [Musa bin Isma'il] keduanya berkata; telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Al Hasan] dari [Jaun bin Qatadah] dari [Salamah Ibnul Muhabbaq] berkata, "Ketika perang Tabuk, Rasulullah shallallahu 'alaihi wasallam mendatangi sebuah rumah, lalu beliau menemukan sebuah wadah dari kulit yang digantung. Beliau kemudian minta diambilkan air dengan wadah tersebut, maka para sahabat pun berkata, "Wahai Rasulullah, sesungguhnya wadah itu dari kulit bangkai!" beliau bersabda: "Penyamakannya telah menjadikan ia suci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4125</td></tr><tr><td>Arabic No</td><td>4125</td></tr><tr><td>Reference</td><td>Book 34 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Салямы ибн аль-Мухаббака, да будет доволен им Аллах, что во время похода на Табук Посланник Аллаха ﷺ подошёл к одному из домов и, увидев подвешенный кожаный бурдюк, попросил воды. Люди сказали ему: «О Посланник Аллаха! Но ведь это мертвечина (, так как был изготовлен из шкуры мертвечины)!» Он сказал в ответ: «Дубление очистило её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4125</td></tr><tr><td>Arabic No</td><td>4125</td></tr><tr><td>Reference</td><td>Book 34 Hadith 106</td></tr></tbody></table></div>
 

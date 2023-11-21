@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: When the Imam says:" All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca di hadapan [Malik] dari [Sumai] dari [Abu Shalih] dari [Abu Hurairah ra] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Apabila imam berkata, 'Samiallahu liman hamidah (semoga Allah mendengar kepada orang yang memujinya) ', maka katakanlah, 'Allahumma Rabbana laka al-Hamdu (Ya Allah, Rabb kami, segala puji untukMu) ' karena barangsiapa yang perkataannya bersesuaian dengan perkataan malaikat, niscaya dosanya yang telah lalu diampuni." Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub, yaitu Ibnu Abdurrahman] dari [Suhail] dari [bapaknya] dari [Abu Hurairah radhiyallahu'anhu] dari Nabi Shallallahu'alaihiwasallam semakna dengan hadits Sumai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>913</td></tr><tr><td>Arabic No</td><td>409.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда имам скажет: “Да услышит Аллах тех, кто воздал Ему хвалу”, говорите: “О Аллах, Господь наш, хвала Тебе”, ибо, поистине, тому, кто произнесёт эти слова одновременно с ангелами, простятся его прежние грехи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>913</td></tr><tr><td>Arabic No</td><td>409.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 75</td></tr></tbody></table></div>
 

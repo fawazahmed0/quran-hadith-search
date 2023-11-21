@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) did not prescribe any punishment 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] dan [Muhammad Ibnul Mutsanna] -dan ini adalah haditsnya- keduanya berkata; telah menceritakan kepada kami [Abu Ashim] dari [Ibnu Juraij] dari [Muhammad bin Ali bin Rukanah] dari [Ikrimah] dari [Ibnu Abbas] berkata, "Berkaitan dengan khamer Rasulullah shallallahu 'alaihi wasallam belum menentukan hukuman had." Ibnu Abbas berkata, "Seorang laki-laki minum khamer hingga mabuk, lalu orang itu terlihat berada di jalan yang besar, maka ia pun dibawa untuk dihadapkan kepada Nabi shallallahu 'alaihi wasallam. Ketika hampir sampai rumah Al Abbas, ia menyelinap dan kabur sembunyi di rumah Al Abbas. Hal itu lalu disampaikan kepada Nabi shallallahu 'alaihi wasallam hingga beliau tertawa. Beliau bersabda: "Apakah ia benar-benar melakukannya?" Beliau tidak memerintahkan hukuman apapun." Abu Dawud berkata, "Ini merupakan hadits yang hanya diriwayatkan oleh penduduk Madinah, yakni hadits Al Hasan bin Ali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4476</td></tr><tr><td>Arabic No</td><td>4476</td></tr><tr><td>Reference</td><td>Book 40 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ не назначил определённого наказания за употребление вина. Ибн ‘Аббас также передал, что один человек выпил вина и опьянел. Его увидели, когда он шёл по дороге, шатаясь. Его повели к Пророку ﷺ, но, когда они проходили мимо дома аль-‘Аббаса, он вырвался, забежал в дом и вцепился в аль-‘Аббаса. Когда об этом рассказали Пророку ﷺ он улыбнулся и сказал: «Он и правда это сделал?» И он не отдал относительно него никаких распоряжений
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4476</td></tr><tr><td>Arabic No</td><td>4476</td></tr><tr><td>Reference</td><td>Book 40 Hadith 126</td></tr></tbody></table></div>
 

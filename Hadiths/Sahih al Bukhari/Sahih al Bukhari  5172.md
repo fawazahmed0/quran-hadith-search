@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safiyya bint Shaiba:The Prophet (ﷺ) gave a banquet with two Mudds of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari [Manshur bin Shafiyyah] dari [Ibunya Shafiyyah binti Syaibah] ia berkata; Rasulullah shallallahu 'alaihi wasallam mengadakan walimah terhadap sebagian dari isteri-isterinya, yakni dengan dua Mud gandum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5172</td></tr><tr><td>Arabic No</td><td>5172</td></tr><tr><td>Reference</td><td>Book 67 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сафиййа бинт Шайба, да будет доволен ею Аллах, сказала: «На свадебное угощение по случаю бракосочетания с одной из его жён у Пророка ﷺ ушло два мудда ячменя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5172</td></tr><tr><td>Arabic No</td><td>5172</td></tr><tr><td>Reference</td><td>Book 67 Hadith 107</td></tr></tbody></table></div>
 

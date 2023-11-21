@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) said:The supplication of every
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; aku membacakan kepada [Malik] dari [Ibnu Syihab] dari [Abu 'Ubaid] maula Ibnu Azhar dari [Abu Hurairah] bahwasanya Rasululullah shallallahu 'alaihi wasallam bersabda: Doa seseorang dari kalian akan senantiasa dikabulkan selama ia tidak tergesa-gesa hingga mengatakan; 'Aku telah berdoa kepada Rabbku, namun tidak atau belum juga dikabulkan untukku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6934</td></tr><tr><td>Arabic No</td><td>2735.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6934</td></tr><tr><td>Arabic No</td><td>2735.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 125</td></tr></tbody></table></div>
 

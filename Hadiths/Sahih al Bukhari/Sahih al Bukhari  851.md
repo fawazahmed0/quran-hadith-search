@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba:I offered the 'Asr prayer behind the Prophet (ﷺ) at Medina. Whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid bin Maimun] berkata, telah menceritakan kepada kami ['Isa bin Yunus] dari ['Umar bin Sa'id] berkata, telah mengabarkan kepadaku [Ibnu Abu Mulaikah] dari ['Uqbah] berkata, "Aku pernah shalat 'Ashar di belakang Nabi shallallahu 'alaihi wasallam di kota Madinah. Setelah salam, tiba-tiba beliau berdiri dengan tergesa-gesa sambil melangkahi leher-leher orang banyak menuju sebagian kamar isteri-isterinya. Orang-orang pun merasa heran dengan ketergesa-gesaan beliau. Setelah itu beliau keluar kembali menemui orang banyak, dan beliau lihat orang-orang merasa heran. Maka beliau pun bersabda: "Aku teringat dengan sebatang emas yang ada pada kami. Aku khawatir itu dapat menggangguku, maka aku perintahkan untuk dibagi-bagikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>851</td></tr><tr><td>Arabic No</td><td>851</td></tr><tr><td>Reference</td><td>Book 10 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба, да будет доволен им Аллах, сказал: «(Однажды) в Медине я совершил послеполуденный намаз позади Пророка ﷺ который после произнесения слов таслима быстро поднялся и прошёл через ряды людей(, направляясь) к одной из комнат своих жён. Люди были испуганы подобной поспешностью, (а спустя некоторое время) он вышел к ним, увидел, что они удивлены тем, что он так спешил, и сказал: “Я вспомнил о том, что у нас есть золото, и приказал раздать его, не желая, чтобы оно (и дальше) отвлекало меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>851</td></tr><tr><td>Arabic No</td><td>851</td></tr><tr><td>Reference</td><td>Book 10 Hadith 242</td></tr></tbody></table></div>
 

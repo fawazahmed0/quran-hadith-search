@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. ‘Abd Allah said:The Jews brought a man and a woman of them who had co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa Al Balkhi] berkata, telah menceritakan kepada kami [Abu Usamah] berkata; [Mujalid] berkata; telah mengabarkan kepada kami dari [Amir] dari [Jabir bin Abdullah] ia berkata, "Orang-orang yahudi datang dengan membawa seorang laki-laki dan perempuan mereka yang telah melakukan perzinaan. Beliau lalu bersabda: "Datangkan kepadaku orang yang paling tahu dari cendikia kalian." Mereka lalu mendatangkan dua anak Shuriya, beliau bertanya kepada keduanya: "Hukuman apa yang kalian dapatkan dalam kitab Taurat berkenaan dengan kedua pezina ini?" keduanya menjawab, "Kami mendapatkan dalam kitab taurat; jika ada empat orang saksi yang menyatakan bahwa mereka telah melihat kemaluan si laki-laki masuk ke dalam kemaluan wanita seperti pena celak masuk ke dalam botolnya, maka mereka harus dirajam." Beliau bertanya lagi: "Lalu apa yang menghalangi kalian untuk merajam mereka berdua?" keduanya menjawab, "Kekuasaan kami telah hilang, maka kami takut untuk dibunuh." Rasulullah shallallahu 'alaihi wasallam lantas meminta didatangkan beberapa orang saksi, mereka lalu datang dengan membawa empat orang saksi yang kemudian menyatakan kesaksiannya, bahwa mereka melihat kemaluan si lelaki masuk ke dalam kemaluan wanita layaknya pena celak masuk ke dalam botolnya. Maka, Rasulullah shallallahu 'alaihi wasallam kemudian memerintahkan untuk merajam keduanya." Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Husyaim] dari [Mugirah] dari [Ibrahim] dan [Asy Sya'bi] dari Nabi shallallahu 'alaihi wasallam sebagaimana hadits tersebut. Namun tidak disebutkan, 'beliau lalu minta didatangkan empat orang saksi, lalu mereka pun bersaksi." Telah menceritakan kepada kami [Wahb bin baqiyyah] dari [Husyaim] dari [Ibnu Syubrumah] dari [Asy Sya'bi] seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4452</td></tr><tr><td>Arabic No</td><td>4452</td></tr><tr><td>Reference</td><td>Book 40 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что (к Посланнику Аллаха ﷺ) пришли иудеи и привели к нему мужчину и женщину из их числа, которые совершили прелюбодеяние. (Посланник Аллаха ﷺ) сказал: «Приведите ко мне двух самых знающих из вашего числа». К нему привели двоих сыновей Сурии, и он заклинал их сказать: «Какое предписание относительно этих двоих вы видите в Торе?» Они ответили: «В Торе сказано, что, если четыре человека засвидетельствуют, что видели, как половой орган мужчины скрылся во влагалище женщины подобно тому, как палочка для подводки глаз скрывается в ёмкости с сурьмой, этих прелюбодеев следует побить камнями». (Посланник Аллаха ﷺ) спросил: «Что же помешало вам побить их камнями?» Они ответили: «Мы лишились власти и не желаем никого убивать». Тогда Посланник Аллаха ﷺ призвал свидетелей, и пришли четверо и засвидетельствовали, что видели, как половой орган мужчины скрылся во влагалище женщины подобно тому, как палочка для подводки глаз скрывается в ёмкости с сурьмой, и Посланник Аллаха ﷺ велел побить этих прелюбодеев камнями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4452</td></tr><tr><td>Arabic No</td><td>4452</td></tr><tr><td>Reference</td><td>Book 40 Hadith 102</td></tr></tbody></table></div>
 

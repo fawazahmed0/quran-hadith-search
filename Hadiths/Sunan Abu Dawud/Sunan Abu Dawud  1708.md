@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The above mentioned tradition has also been transmitted by Yahya bin Sa’id and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hafsh], telah menceritakan kepadaku [ayahku], telah menceritakan kepadaku [Ibrahim bin Thahman], dari ['Abbad bin Ishaq] dari [Abdullah bin Yazid] dari [ayahnya yaitu Yazid] mantan budak Al Munba'its dari [Zaid bin Khalid Al Juhani] bahwa ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam ditanya ….. kemudian ia menyebutkan seperti hadits Rabi'ah. Ia berkata; dan beliau ditanya mengenai barang temuan, lalu beliau mengatakan: "Engkau umumkan selama satu tahun, kemudian apabila pemiliknya telah datang maka engkau serahkan kepadanya, jika tidak engkau ketahui talinya dan kantongnya, kemudian masukkan ke dalam hartamu, kemudian apabila pemiliknya datang maka serahkan kepadanya." Telah menceritakan kepada Kami [Musa bin Isma'il] dari [Hammad bin Salamah] dari [Yahya bin Sa'id] serta [Rabi'ah] dengan sanad Qutaibah, dan maknanya. Dan ia tambahkan dalam hadits tersebut: "Kemudian apabila orang yang mencarinya telah datang dan mengetahui isinya dan jumlahnya maka serahkan kepadanya." [Hammad] juga mengatakan dari ['Ubaidullah bin Umar] dari ['Amr bin Syuiab] dari [ayahnya] dari [kakeknya] dari Nabi shallallahu 'alaihi wasallam seperti itu. Abu Daud berkata; dan tambahan yang disebutkan Hammad bin Salamah dalam hadits Salamah Kuhail, Yahya bin Sa'id serta 'Ubaidullah bin Umar dan Rabi'ah: "Apabila pemiliknya telah datang dan mengetahui kantong serta talinya maka serahkan kepadanya" bukanlah kalimat yang mahfuzh yaitu: "dan mengetahui kandong dan talinya…", sedangkan hadits Uqbah bin Suwaid dari ayahnya dari Nabi juga beliau bersabda: "Umumkan selama satu tahun." Sedangkan hadits Umar bin Al Khathab juga dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Umumkan selama satu tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1722)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1708</td></tr><tr><td>Arabic No</td><td>1708</td></tr><tr><td>Reference</td><td>Book 10 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В версии Яхьи ибн Са‘ида и Раби‘а, с иснадом Кутайбы и похожим смыслом, имеется добавление: «И если к тебе придёт хозяин найденного, знающий, в чём оно было и сколько там было, тебе следует отдать находку ему».‘Амр ибн Шу‘айб передаёт от своего отца от его деда [‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах им и его отцом,] от Пророка ﷺ то же самое. Абу Давуд сказал: «А вот добавление Хаммада ибн Салямы в хадисе Салямы ибн Кухайля, Яхьи ибн Са‘ида, ‘Убайдуллаха ибн ‘Умара и Раби‘а: “И если к тебе придёт хозяин найденного, знающий, в чём оно было и чем было завязано, тебе следует отдать находку ему”. Однако слова “в чём оно было и чем было завязано” не встречаются в наиболее известных версиях».В версии ‘Укбы ибн Сувайда от его отца Пророк ﷺ сказал: «Объявляй о ней в течение года».В версии ‘Умара ибн аль-Хаттаба Пророк ﷺ сказал: «Объявляй о ней в течение года»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1722)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1708</td></tr><tr><td>Arabic No</td><td>1708</td></tr><tr><td>Reference</td><td>Book 10 Hadith 8</td></tr></tbody></table></div>
 

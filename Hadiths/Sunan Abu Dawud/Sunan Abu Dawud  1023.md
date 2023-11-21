@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah ibn Khudayj: One day the Messenger of Allah (ﷺ) prayed and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits yaitu Ibnu Sa'd] dari [Yazid bin Abu Habib] bahwa [Suwaid bin Qais] telah mengabarkan kepadanya, dari [Mu'awiyah bin Hudaij] bahwa suatu hari Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat, kemudian salam. Padahal masih tersisa satu raka'at lagi, lalu seorang laki-laki menemui beliau sambil berkata; "Anda lupa satu raka'at shalat." Maka beliau kembali masuk masjid dan menyuruh Bilal untuk menyerukan iqamah, kemudian beliau shalat satu raka'at bersama orang-orang." Lalu aku beritahukan peristiwa tersebut kepada orang-orang, mereka berkata kepadaku; "Tahukah kamu laki-laki tersebut?" jawabku; "Tidak, kecuali jika aku di beritahu." Tiba-tiba seseorang lewati di hadapanku, maka aku berkata; "Inikah orangnya?" mereka menjawab; "Ini adalah Thalhah bin 'Ubaidullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1023</td></tr><tr><td>Arabic No</td><td>1023</td></tr><tr><td>Reference</td><td>Book 2 Hadith 634</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Му‘авии ибн Худайджа, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ совершая молитву, произнёс слова таслима, когда от молитвы оставался ещё один рак‘ат. Один человек догнал его и сказал: «Ты забыл один рак‘ат молитвы!» Тогда он вернулся, вошёл в мечеть, велел Билялю произнести икамат для молитвы и совершил с людьми ещё один рак‘ат. (Он сказал): «Я рассказал об этом людям, и меня спросили: “Знаешь ли ты, кем был этот человек?” Я ответил: “Нет. Но я узнаю его, если увижу”». Потом я увидев его проходящим мимо и сказал: “Это он”. Они сказали: “Это Тальха ибн ‘Убайдуллах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1023</td></tr><tr><td>Arabic No</td><td>1023</td></tr><tr><td>Reference</td><td>Book 2 Hadith 634</td></tr></tbody></table></div>
 

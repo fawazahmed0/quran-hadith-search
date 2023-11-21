@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama b. Abd al-Rabman reported:'Abd al-Rabman b. Abu Sa'id al-Khudri (Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Humaid Al Kharrath] ia berkata, saya mendengar [Abu Salamah bin Abdurrahman] ia berkata; [Abdurrahman bin Abu Sa'id Al Khudri] pernah lewat di hadapanku, maka aku pun bertanya padanya, "Bagaimana yang Anda dengar dari bapak Anda ketika menyebutkan Masjid yang dibangun di atas taqwa?" Ia menjawab; [Bapakku] berkata; Aku pernah menemui Rasulullah shallallahu 'alaihi wasallam di rumah salah seorang dari isterinya, dan bertanya, "Ya, Rasulullah, masjid manakah di antara dua masjid (Makkah dan Madinah) yang dibangun di atas dasar taqwa?" Beliau mengambil segenggam pasir lalu dibuangnya kembali ke tanah, dan kemudian beliau bersabda: "Masjid kamu ini (masjid Madinah)." Abu Salamah berkata; Maka aku pun berkata, "Saya bersaksi bahwa saya telah mendengar bapakmu menyebutkan seperti itu." Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Sa'id bin Amru Al Asy'atsi] -Sa'id berkata- telah mengabarkan kepada kami -Abu Bakr berkata- Telah menceritakan kepada kami [Hatim bin Isma'il] dari [Humaid] dari [Abu Salamah] dari [Abu Sa'id] dari Nabi shallallahu 'alaihi wasallam semisalnya. Namun ia tidak menyebukan Abdurrahman bin Abu Sa'id di dalam isnad itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3387</td></tr><tr><td>Arabic No</td><td>1398.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 591</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3387</td></tr><tr><td>Arabic No</td><td>1398.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 591</td></tr></tbody></table></div>
 

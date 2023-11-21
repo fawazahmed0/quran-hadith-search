@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdulaziz bin Muhammad] dari [Tsaur] dari [Abu Al Ghaits] dari [Abu Hurairah] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya keringat pada hari kiamat menyebar di tanah seluas tujuh puluh depa dan sesungguhnya ia mencapai mulut-mulut manusia atau hingga telinga-telinga mereka." Tsaur ragu mana yang disampaikan Rasulullah Shallallahu 'alaihi wa Salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7205</td></tr><tr><td>Arabic No</td><td>2863</td></tr><tr><td>Reference</td><td>Book 53 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры (да будет доволен им Аллах), что Посланник Аллаха ﷺ сказал: «В День воскресения люди будут обливаться потом так (сильно), что их пот пропитает собой землю на семьдесят саженей (вглубь). И он будет доходить до ртов (некоторых из) людей или до (уровня) их ушей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7205</td></tr><tr><td>Arabic No</td><td>2863</td></tr><tr><td>Reference</td><td>Book 53 Hadith 74</td></tr></tbody></table></div>
 

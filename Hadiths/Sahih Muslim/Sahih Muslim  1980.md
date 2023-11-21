@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:We are the last (but) we 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kita (umat Muhammad) adalah yang terakhir (datang ke dunia), tetapi yang terdahulu (diadili) pada hari kiamat. Kita adalah yang paling dahulu masuk surga, padahal mereka diberi kitab lebih dahulu dari kita, sedangkan kita sesudah mereka. Lalu mereka berselisih, kemudian Allah memberikan petunjuk kepada kita, yakni kebenaran dari apa yang mereka perselisihkan. Inilah hari yang mereka perselisihkan, sedangkan Allah telah menunjukkannya kepada kita." Beliau bersabda lagi: "Maka hari ini (Jum'at) adalah untuk kita. Esok (hari Sabtu) untuk kaum Yahudi, dan lusa (Ahad) untuk kaum Nasrani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1980</td></tr><tr><td>Arabic No</td><td>855.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Мы последние, (но) в День воскресения (мы станем) первыми и первыми войдём в Рай, хотя им Писание было даровано раньше нас, а нам позже, нежели им. Они разошлись во мнениях об (этом дне), тогда как нам Аллах указал путь к истине, относительно которой они разошлись. Аллах указал нам путь к этому дню (передатчик этого хадиса) сказал: «(Имеется в виду пятница»), относительно которого они разошлись во мнениях. День пятницы для нас, следующий день для иудеев, а следующий после него для христиан”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1980</td></tr><tr><td>Arabic No</td><td>855.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 30</td></tr></tbody></table></div>
 

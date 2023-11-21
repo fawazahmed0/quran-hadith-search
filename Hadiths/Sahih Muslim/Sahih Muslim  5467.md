@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:There was a person who wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Al Mughirah] yaitu Al Hizami dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah]; Bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Dahulu Ketika ada seseorang yang berjalan dan ia merasa bangga dengan mantelnya yang indah, tiba-tiba bumi beserta isinya ditenggelamkan, dan diapun ikut terbenam ke dalam perut bumi sembari meronta-ronta hingga hari kiamat nanti. Telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdurrazaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] ia berkata; 'Inilah Hadits yang di ceritakan kepada kami oleh [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam Rasulullah shallallahu 'alaihi wasallam, kemudian dia menyebutkan beberapa Hadits di antaranya; "Dahulu Ketika ada seseorang yang berjalan dan ia merasa bangga dengan mantelnya yang indah, kemudian di menyebutkan Hadits yang serupa. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Affan]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Abu Rafi'] dari [Abu Hurairah] dia berkata; 'Aku mendengar Rasulullah Shallalllahu 'Alaihi Wa Sallam bersabda: "Sesungguhnya dahulu ada orang sebelum kalian yang berjalan dan ia merasa bangga dengan pakaiannya yang indah…(kemudian dia menyebutkan Hadits yang serupa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5467</td></tr><tr><td>Arabic No</td><td>2088.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5467</td></tr><tr><td>Arabic No</td><td>2088.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 82</td></tr></tbody></table></div>
 

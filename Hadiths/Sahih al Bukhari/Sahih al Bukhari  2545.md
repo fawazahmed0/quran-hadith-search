@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Ma'rur bin Suwaid:I saw Abu Dhar Al-Ghifari wearing a cloak, and his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abi Iyas] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Washil AL Ahdab] berkata, aku mendengar [Al Ma'rur bin Suwaid] berkata; Aku pernah melihat [Abu Dzar Al Ghifari] radliallahu 'anhu yang ketika itu dia memakai pakaian yang sama (seragam) dengan budak kecilnya, kami pun bertanya kepadanya tentang masalahnya itu. Maka dia berkata: "Aku pernah menawan seorang laki-laki lalu hal ini aku adukan kepada Nabi shallallahu 'alaihi wasallam, maka Nabi shallallahu 'alaihi wasallam berkata kepadaku: "Apakah kamu menjelek-jelekkkannya karena ibunya?" Beliau bersabda: "Sesungguhnya saudara-saudara kalian adalah tanggungan kalian, Allah menjadikan mereka dibawah tangan kalian, maka siapa yang saudaranya berada di tangannya hendaklah dia memberi makan dari apa yang dia makan dan memberi pakaian dari pakaian yang ia pakai dan janganlah kalian membebani mereka dengan apa yang mereka tidak sanggup. Jika kalian membebani mereka denagn apa yang mereka tidak sanggup maka bantulah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2545</td></tr><tr><td>Arabic No</td><td>2545</td></tr><tr><td>Reference</td><td>Book 49 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Ма‘рур (ибн Сувайд) сказал: «(Однажды) в ар-Рабазе, я увидел Абу Зарра, да будет доволен им Аллах, который был одет в такую же одежду как и его раб, и спросил его о (причине) этого, а он рассказал, что как-то раз стал ругать одного человека, который пожаловался на него Пророку ﷺ на что пророк, да благословит его Аллах и приветствует, сказал: „О Абу Зарр, неужели ты попрекал этого человека его матерью?! Поистине, (ваши рабы) являются вашими братьями и вашими слугами, которых Аллах сделал подвластными вам, так пусть же тот, кто владеет братом своим, кормит его тем же, что ест сам, и одевает его в то же, что носит сам, и не поручайте им ничего непосильного для них, а если поручите, то оказывайте им помощь“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2545</td></tr><tr><td>Arabic No</td><td>2545</td></tr><tr><td>Reference</td><td>Book 49 Hadith 28</td></tr></tbody></table></div>
 

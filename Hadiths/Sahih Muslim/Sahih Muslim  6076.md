@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thabit reported that Anas b. Malik was asked about the dyeing (of the hair of) A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ar Rabi' Al 'Ataki]; Telah menceritakan kepada kami [Hammad]; Telah menceritakan kepada kami [Tsabit], [Anas bin Malik] ditanya tentang apakah Rasulullah shallallahu 'alaihi wasallam rambutnya dicelup, dia menjawab; "Seandainya saya mau menghitung jumlah rambut putih yang berada di antara jumlah rambut hitam beliau, tentu saya bisa menghitungnya. Dia berkata; Rasulullah shallallahu 'alaihi wasallam tidak mencelupnya. Adapun Abu Bakr dan Umar, maka sungguh keduanya mencelup rambut mereka dengan Inai dan sejenisnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6076</td></tr><tr><td>Arabic No</td><td>2341.04</td></tr><tr><td>Reference</td><td>Book 43 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6076</td></tr><tr><td>Arabic No</td><td>2341.04</td></tr><tr><td>Reference</td><td>Book 43 Hadith 134</td></tr></tbody></table></div>
 

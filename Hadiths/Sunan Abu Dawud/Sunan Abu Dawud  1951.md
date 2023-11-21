@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbdurRahman ibn Mu'adh said that he heard a man from the Companions of the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal] telah menceritakan kepada Kami [Abdurrazzaq] telah mengabarkan kepada Kami [Ma'mar] dari [Humaid Al A'raj] dari [Muhammad bin Ibrahim At Taimi] dari [Abdurrahman bin Mu'adz] dari [seorang sahabat] Nabi shallallahu 'alaihi wasallam, ia berkata; Nabi shallallahu 'alaihi wasallam berkhutbah kepada orang-orang di Mina, dan menempatkan mereka di tempat-tempat singgah mereka. Beliau bersabda: "Hendaknya orang-orang muhajirin singgah di sini -beliau menunjukkan kepada sisi kanan kiblat-, dan orang-orang anshar di sini -beliau menunjukkan ke sisi kiri kiblat. Kemudian hendaknya orang-orang singgah diantara mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1951</td></tr><tr><td>Arabic No</td><td>1951</td></tr><tr><td>Reference</td><td>Book 11 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн Му‘аз передаёт от одного из сподвижников Пророка ﷺ что Пророк ﷺ обратился к людям с речью в долине Мина и определил места, в которых они должны были остановиться, сказав: «Пусть мухаджиры остановятся здесь». При этом он указал на правую от киблы сторону. Затем он сказал: «А ансары пусть располагаются вот здесь». И он указал на левую от киблы сторону [и сказал]: «А остальные люди пусть располагаются вокруг них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1951</td></tr><tr><td>Arabic No</td><td>1951</td></tr><tr><td>Reference</td><td>Book 11 Hadith 231</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:On the day of Al-Khandaq (the battle of trench.) 'U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Abu Salamah] dari [Jabir bin 'Abdullah], bahwa 'Umar bin Al Khaththab datang pada hari peperangan Khandaq setelah matahari terbenam hingga ia mengumpat orang-orang kafir Quraisy, lalu ia berkata, "Wahai Rasulullah, aku belum melaksanakan shaat 'Ashar hingga matahari hampir terbenam!" Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Demi Allah, aku juga belum melakasanakannya." Kemudian kami berdiri menuju aliran air (sungai), beliau berwudlu dan kami pun ikut berwudlu, kemudian beliau melaksanakan shalat 'Ashar setelah matahari terbenam, dan setelah itu dilanjutkan dengan shalat Maghrib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>596</td></tr><tr><td>Arabic No</td><td>596</td></tr><tr><td>Reference</td><td>Book 9 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Абдуллах, да будет доволен Аллах ими обоими, о том, что в (один из) дней битвы у рва ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, вернулся (в лагерь мусульман) после захода солнца и принялся ругать неверных курайшитов (, а потом) сказал: «О Посланник Аллаха, едва я успел закончить послеполуденную молитву, как солнце начало уходить за горизонт!» — Пророк же ﷺ воскликнул: «Клянусь Аллахом, а я (вообще) не совершил её!» Затем мы направились в сторону Бутхана и (Пророк ﷺ как и все) мы, совершил омовение для молитвы, а когда солнце зашло, он (cначала) совершил послеполуденную молитву, а после этого — закатную
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>596</td></tr><tr><td>Arabic No</td><td>596</td></tr><tr><td>Reference</td><td>Book 9 Hadith 71</td></tr></tbody></table></div>
 

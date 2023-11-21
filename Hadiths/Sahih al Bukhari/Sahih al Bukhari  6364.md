@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Khalid bint Khalid:I heard the Prophet (ﷺ) seeking refuge with All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Humaidi] telah menceritakan kepada kami [Sufran] telah menceritakan kepada kami [Musa bin 'Uqbah] dia berkata; saya mendengar [Ummu Khalid Binti Khalid] -kata Musa; dan belum ada yang mendengar seorang pun dari Nabi shallallahu 'alaihi wasallam selain dia- Ummu Khalid berkata; "Saya mendengar Nabi Shallallahu 'alahi wasallam meminta perlindungan dari siksa kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6364</td></tr><tr><td>Arabic No</td><td>6364</td></tr><tr><td>Reference</td><td>Book 80 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муса ибн ‘Укъба сказал:\n— Я слышал, как Умм Халид бинт Халид — и я не слышал никого, помимо неё, кто слышал от Пророка ﷺ. Она сказала: «Я слышала, как Пророк ﷺ обращался к Аллаху за защитой от мучений могилы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6364</td></tr><tr><td>Arabic No</td><td>6364</td></tr><tr><td>Reference</td><td>Book 80 Hadith 61</td></tr></tbody></table></div>
 

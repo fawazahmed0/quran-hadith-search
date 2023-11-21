@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Abu Lahab said, "May you perish! Is it' for this that you ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepadaku [Amru bin Murrah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Abu Lahab berkata, "Celaka kamu wahai (Muhammad), apakah hanya lantaran ini kamu mengumpulkan kami." Maka turunlah ayat: "TABBAT YADAA ABII LAHAB.." Hingga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4973</td></tr><tr><td>Arabic No</td><td>4973</td></tr><tr><td>Reference</td><td>Book 65 Hadith 495</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Абу Ляхаб воскликнул: “Чтоб ты пропал! И ради этого ты нас собрал?!” После чего было ниспослано: “Да пропадут пропадом руки Абу Ляхаба, и сам он пропал!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4973</td></tr><tr><td>Arabic No</td><td>4973</td></tr><tr><td>Reference</td><td>Book 65 Hadith 495</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, "If I had formerly known what I ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] telah menceritakan kepadaku ['Urwah], bahwasanya [Aisyah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika aku bisa mengulang kembali apa yang telah lewat, niscaya tidak kutuntun binatang korban ini, dan aku bertahallul bersama orang-orang ketika mereka bertahallul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7229</td></tr><tr><td>Arabic No</td><td>7229</td></tr><tr><td>Reference</td><td>Book 94 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Если бы я знал заранее то, что я узнал потом, я не стал бы гнать с собой жертвенный скот, однако я бы вышел из состояния ихрама вместе с людьми, когда они сняли ихрамы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7229</td></tr><tr><td>Arabic No</td><td>7229</td></tr><tr><td>Reference</td><td>Book 94 Hadith 4</td></tr></tbody></table></div>
 

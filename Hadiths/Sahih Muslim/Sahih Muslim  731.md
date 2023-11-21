@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I and the Messenger (ﷺ) took a bath from the same vessel and o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] dia berkata, telah menceritakan kepada kami [Aflah bin Humaid] dari [al-Qasim bin Muhammad] dari [Aisyah] dia berkata, "Saya mandi bersama Rasulullah shallallahu 'alaihi wasallam dalam satu bejana, tangan kami terpisah padanya karena junub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>731</td></tr><tr><td>Arabic No</td><td>321.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша, сказала: «Я совершала полное омовение после большого осквернения /джанаба/ вместе с Посланником Аллаха ﷺ, и мы набирали воду из одного и того же сосуда, по очереди погружая в него руки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>731</td></tr><tr><td>Arabic No</td><td>321.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 53</td></tr></tbody></table></div>
 

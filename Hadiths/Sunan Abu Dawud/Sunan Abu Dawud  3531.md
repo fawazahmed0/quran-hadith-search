@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: The Prophet (ﷺ) said: If anyone finds his very pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Aun] telah menceritakan kepada kami [Husyaim] dari [Musa bin As Saib] dari [Qatadah] dari [Al Hasan] dari [Samurah bin Jundub] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mendapatkan barangnya ada pada seseorang maka ia lebih berhak terhadap barang tersebut, dan orang yang membeli menuntut orang yang menjual kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3531</td></tr><tr><td>Arabic No</td><td>3531</td></tr><tr><td>Reference</td><td>Book 24 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Самуры ибн Джундуба, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто обнаружил у другого своё имущество, тот имеет больше прав на него. А тот пусть потребует свои деньги у того, кто продал ему эту вещь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3531</td></tr><tr><td>Arabic No</td><td>3531</td></tr><tr><td>Reference</td><td>Book 24 Hadith 116</td></tr></tbody></table></div>
 

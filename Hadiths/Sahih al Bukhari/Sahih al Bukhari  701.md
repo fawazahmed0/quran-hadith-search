@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:Jabir bin 'Abdullah said, "Mu'adh bin Jabal used to pray with the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Ghundar] berkata, telah menceritakan kepada kami [Syu'bah] dari ['Amru] berkata, Aku mendengar [Jabir bin 'Abdullah] berkata, "Mu'adz bin Jabal pernah shalat bersama Nabi shallallahu 'alaihi wasallam, dia lalu kembali pulang dan mengimami kaumnya shalat 'Isya dengan membaca surah Al Baqarah. Kemudian ada seorang laki-laki keluar dan pergi, Mu'adz seakan menyebut orang tersebut dengan keburukan. Kejadian ini kemudian sampai kepada Nabi shallallahu 'alaihi wasallam, maka beliau pun bersabda: "Apa engkau akan membuat fitnah? Apa engkau akan membuat fitnah? Apa engkau akan membuat membuat fitnah?" Beliau ucapkanhingga tiga kali. Atau kata beliau: "Apakah kamu menjadi pembuat fitnah? Apakah kamu menjadi pembuat fitnah? Apakah kamu menjadi pembuat fitnah?" Lalu beliau memerintahkannya (Mu'adz) untuk membaca dua surah saja dari pertengahan Al Mufashshal." Amru berkata, 'Namun aku tidak hafal kedua surat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>701</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 10 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр сказал:\n— Я слышал, как Джабир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Обычно Му‘аз ибн Джабаль молился вместе с Пророком ﷺ, а потом возвращался и проводил молитву с людьми своего племени. Однажды, когда во время проведения вечерней молитвы он стал читать суру “аль-Бакара”, какой-то человек покинул (место молитвы), что же касается Му‘аза, то он, как кажется, плохо отозвался о нём. Это дошло до Пророка ﷺ, который трижды воскликнул: “Искуситель!” — и велел ему читать две суры из середины муфассаля*”».\n* Муфассаль — общее название всех сур Корана, начиная с 50-й суры «Каф» до конца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>701</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 10 Hadith 96</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:'Umar saw a silken cloak over a man (for sale) so he took it 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Abdush Shamad] dia berkata; telah menceritakan kepadaku [Ayahku] dia berkata; telah menceritakan kepadaku [Yahya bin Abu Ishaq] dia berkata; [Salim bin Abdullah] berkata kepadaku; "Apakah istabraq itu?" aku menjawab; "yaitu kain sutera yang agak tebal dan kasar." Salim berkata; saya mendengar [Abdullah] berkata; "Umar pernah melihat seorang laki-laki mengenakan baju sutera dari istabraq (sutera tebal), lalu dia datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; "Wahai Rasulullah, Alangkah bagusnya jika Anda membelinya untuk Anda pakai saat menerima para utusan yang datang kepada Anda." Maka beliau menjawab: 'Yang memakai sutera ini hanyalah orang yang tidak mendapat bagian di akhirat. Tidak berapa lama dari peristiwa itu, Nabi shallallahu 'alaihi wasallam mengutus seseorang untuk memberi kain sutera tersebut kepada Umar, lalu Umar mendatangi Nabi shallallahu 'alaihi wasallam dengan membawa kain tersebut sambil berkata; ""Ya Rasulullah! Bagaimana anda mengutus seseorang untuk memberiku kain sutera ini, padahal Anda telah berkata kepadaku tentang baju ini?" beliau menjawab: 'Aku tidak mengirimkannya kepadamu kecuali supaya kamu mendapatkan hasil (menjualnya)." Sedangkan Ibnu Umar sangat membenci corak yang terdapat dalam baju karena hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6081</td></tr><tr><td>Arabic No</td><td>6081</td></tr><tr><td>Reference</td><td>Book 78 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Однажды ‘Умар увидел на одном человеке накидку из парчи, принёс её Пророку ﷺ и сказал: “О Посланник Аллаха, купи эту одежду, чтобы надевать её для встречи прибывающих к тебе делегаций”. Посланник Аллаха ﷺ сказал: “Шёлк носит лишь тот, у кого нет удела (в мире вечном)!” Некоторое время спустя Пророк ﷺ отправил ему (подобную) накидку, и ‘Умар пришёл с ней к Пророку ﷺ и сказал: “Ты отправил мне это, а сам сказал о подобной одежде то, что сказал !?” (На это) Посланник Аллаха ﷺ ответил: “Я послал это тебе только для того, чтобы ты мог получить за неё деньги, (продав её)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6081</td></tr><tr><td>Arabic No</td><td>6081</td></tr><tr><td>Reference</td><td>Book 78 Hadith 109</td></tr></tbody></table></div>
 

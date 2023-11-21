@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man said to the Prophet (ﷺ) , "Advise me! "The Prophet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Yusuf] telah mengabarkan kepada kami [Abu Bakr yaitu Ibnu Ayyasy] dari [Abu Hashin] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu bahwa seorang laki-laki berkata kepada Nabi shallallahu 'alaihi wasallam; "Berilah aku wasiat?" beliau bersabda: "Janganlah kamu marah." Laki-laki itu mengulangi kata-katanya, beliau tetap bersabda: "Janganlah kamu marah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6116</td></tr><tr><td>Arabic No</td><td>6116</td></tr><tr><td>Reference</td><td>Book 78 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что один человек попросил Пророка ﷺ: «Дай мне совет». Он сказал: «Не гневайся». После этого тот несколько раз повторил (свою просьбу, но Пророк ﷺ каждый раз) говорил: «Не гневайся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6116</td></tr><tr><td>Arabic No</td><td>6116</td></tr><tr><td>Reference</td><td>Book 78 Hadith 143</td></tr></tbody></table></div>
 

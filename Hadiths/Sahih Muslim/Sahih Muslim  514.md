@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:Verily, the Messenger of Allah (ﷺ) said: The leas
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Abu Bukari] telah menceritakan kepada kami [Zuhair bin Muhammad] dari [Suhail bin Abu Shalih] dari [an-Nu'man bin Abu Ayyasy] dari [Abu Sa'id al-Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh, penduduk neraka yang paling ringan siksanya, dia memakai dua sandal dari api neraka yang mana otaknya mendidih disebabkan panasnya kedua sandalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>514</td></tr><tr><td>Arabic No</td><td>211</td></tr><tr><td>Reference</td><td>Book 1 Hadith 420</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Поистине, самое легкое наказание в Огне получит человек, на которого наденут сандалии из огня, из-за жара которых закипит его головной мозг»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>514</td></tr><tr><td>Arabic No</td><td>211</td></tr><tr><td>Reference</td><td>Book 1 Hadith 420</td></tr></tbody></table></div>
 

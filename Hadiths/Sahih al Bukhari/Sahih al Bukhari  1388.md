@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:A man said to the Prophet (p.b.u.h), "My mother died suddenly and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah menceritakan kepada kami [Muhammad bin Ja'far] berkata, telah mengabarkan kepada saya [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] bahwa ada seorang laki-laki berkata, kepada Nabi Shallallahu'alaihiwasallam: "Ibuku meninggal dunia dengan mendadak, dan aku menduga seandainya dia sempat berbicara dia akan bershadaqah. Apakah dia akan memperoleh pahala jika aku bershadaqah untuknya (atas namanya)?". Beliau menjawab: "Ya, benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1388</td></tr><tr><td>Arabic No</td><td>1388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) один человек сказал Пророку ﷺ: «Моя мать внезапно умерла, но я думаю, что если бы она могла говорить, то раздавала бы милостыню. Получит ли она награду, если за неё это сделаю я?» Он сказал: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1388</td></tr><tr><td>Arabic No</td><td>1388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 140</td></tr></tbody></table></div>
 

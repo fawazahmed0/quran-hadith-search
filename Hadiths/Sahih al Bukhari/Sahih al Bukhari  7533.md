@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "Your stay (in this world) in c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Azzuhri] telah mengabarkan kepadaku [Salim] dari [Ibn Umar] radliyallahu'anhuma, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Keberadaan kalian di antara umat-umat terdahulu seperti permisalan antara antara shalat 'ashar hingga matahari terbenam. Pemeluk taurat diberi taurat dan mereka mengamalkannya hingga pertengahan siang, kemudian mereka tidak bisa lagi mengamalknnya sehingga diberi satu qirath. Kemudian pemeluk injil diberi injil dan mereka mengamalkannya hingga shalat 'ashar didirikan lantas mereka tidak bisa lagi mengamalkannya, dan mereka diberi satu qirath. Kemudian kalian diberi Al Qur'an dan kalian mengamalkannya hingga matahari terbenam, lantas kalian diberi dua qirath dua qirath. Orang-orang ahli kitab pun protes, 'Mereka (kaum muslimin) lebih sedikit bekerja daripada kami namun mengapa mereka lebih banyak pahalanya? ' Allah menjawab, 'Namun apakah berarti Aku menzhalimi hak kalian? ' Mereka menjawab, 'Tidak.' Allah kemudian firman-Nya: "Itulah keutamaan-Ku yang Aku berikan kepada siapa yang Aku kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7533</td></tr><tr><td>Arabic No</td><td>7533</td></tr><tr><td>Reference</td><td>Book 97 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал: «Поистине, время вашего существования по сравнению с теми общинами, которые были до вас подобно промежутку между послеполуденной молитвой /‘аср/ и закатом солнца. (В своё время) людям Таурата был дан Таурат, и они действовали (в соответствии с её установлениями), пока не обессилели к полудню, после чего им было даровано по кырату (награды). Затем людям Инджиля был дан Инджиль, и они действовали (в соответствии с его установлениями), пока не обессилели ко (времени) послеполуденной молитвы, после чего им было даровано по кырату (награды). А потом вам был дан Коран, и вы стали действовать (в соответствии с его установлениями) до заката солнца, после чего вам было даровано по два кырата (награды). Люди Писания сказали: “Эти (люди) меньше (совершили) деяний, но награду (получили) больше!”. Аллах сказал: “Разве Я обидел как-то в вашем праве?” Они ответили: “Нет”. Тогда Он сказал: “А это милость Моя, даю её тому, кому пожелаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7533</td></tr><tr><td>Arabic No</td><td>7533</td></tr><tr><td>Reference</td><td>Book 97 Hadith 158</td></tr></tbody></table></div>
 

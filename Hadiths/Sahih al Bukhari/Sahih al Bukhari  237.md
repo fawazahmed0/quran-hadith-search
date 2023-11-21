@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "A wound which a Muslim receives in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Setiap luka yang didapatkan seorang Muslim di jalan Allah, maka pada hari kiamat keadaannya seperti saat luka tersebut terjadi. Warnanya warna darah dan harumnya sewangi misik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>237</td></tr><tr><td>Arabic No</td><td>237</td></tr><tr><td>Reference</td><td>Book 4 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «В День воскресения каждая рана, полученная мусульманином на пути Аллаха, предстанет (перед взорами) в том виде, какой она была, когда её нанесли (ему). Кровь из (этой раны) будет бить ключом, и цвет её будет цветом крови, но запах её будет запахом мускуса»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>237</td></tr><tr><td>Arabic No</td><td>237</td></tr><tr><td>Reference</td><td>Book 4 Hadith 103</td></tr></tbody></table></div>
 

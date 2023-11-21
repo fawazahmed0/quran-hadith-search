@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ai’shah said :We raised our voices in talbiyah for Hajj. When we reached Sarif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Salamah Musa bin Isma'il], telah menceritakan kepada Kami [Hammad] dari [Abdurrahman bin Al Qasim] dari [ayahnya] dari [Aisyah] bahwa ia berkata; Kami bertalbiyah untuk melakukan haji, hingga setelah Kami berada di Saraf aku mengalami haid. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam menemuiku sementara aku sedang dalam keadaan menangis. Lalu beliau berkata: "Apa yang menyebabkanmu menangis wahai Aisyah?" Aku katakan; aku telah mengalami haid, seandainya aku belum melakukan haji. Kemudian beliau bersabda: "SubhanAllah, sesungguhnya hal tersebut adalah sesuatu yang telah Allah tetapkan pada anak-anak wanita Adam." Kemudian beliau bersabda: "Lakukanlah seluruh ibadah haji, hanya saja janganlah engkau melakukan thawaf di Ka'bah." Kemudian tatkala Kami memasuki Mekkah Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang menghendaki untuk menjadikannya sebagai umrah maka silahkan ia menjadikannya umrah, kecuali orang yang membawa hewan kurban." Aisyah berkata; Rasulullah shallAllahu wa'alaihi wa sallam menyembelihkan kurban untuk para isterinya satu ekor sapi pada hari Nahr. Kemudian tatkala pada malam singgah di Buthha' dan Aisyah telah suci, Aisyah berkata; wahai Rasulullah, apakah teman-temanku kembali dengan melakukan haji dan umrah sementara aku kembali hanya dengan melakukan haji? Kemudian Rasulullah shallAllahu wa'alaihi wa sallam memerintahkan Abdurrahman bin Abu Bakr untuk pergi ke Tan'im, kemudian ia bertalbiyah untuk melakukan umrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 11 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Мы объявили о намерении совершить хадж, но, когда мы добрались до Сарифа, у меня началась менструация. Когда Посланник Аллаха ﷺ зашёл ко мне, я плакала. Он спросил: “Почему ты плачешь, о ‘Аиша?” Я ответила: “У меня началась менструация… Ах, если бы я вообще не отправлялась в хадж!” Посланник Аллаха ﷺ сказал: “Преславен Аллах! Аллах предписал это всем дочерям Адама”. И он сказал: “Исполняй все обряды паломничества, кроме обхода вокруг Каабы”. А когда мы вошли в Мекку, Посланник Аллаха ﷺ сказал: “Кто желает сделать это ‘умрой, пусть сделает это умрой, кроме тех, кто гонит жертвенный скот”. И Посланник Аллаха ﷺ зарезал корову от своих жён в день жертвоприношения». И в ночь, когда они были в Батхе, ‘Аиша, да будет доволен ею Аллах, очистилась от менструации и сказала: «О Посланник Аллаха! Неужели мои подруги вернутся, совершив и хадж и ‘умру, а я вернусь, совершив только хадж?» И Посланник Аллаха ﷺ велел ‘Абдуррахману ибн Абу Бакру отвезти ‘Аишу в Тан‘им, где она произнесла тальбию для ‘умры
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 11 Hadith 62</td></tr></tbody></table></div>
 

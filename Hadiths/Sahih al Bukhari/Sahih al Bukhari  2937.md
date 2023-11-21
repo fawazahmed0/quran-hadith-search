@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Tufail bin 'Amr Ad-Dausi and his companions came to the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] telah bercerita kepada kami [Abu Az Zanad] bahwa [Abdur Rahman] berkata; [Abu Hurairah radliallahu 'anhu] berkata: Thufail bin 'Amru Ad-Dausiy dan para sahabatnya mendatangi Nabi shallallahu 'alaihi wasallam seraya berkata: "Wahai Rasulullah, sesungguhnya suku Daus telah ingkar kepada Allah dan enggan masuk Islam, untuk itu mohonlah kepada Allah agar mereka dibinasakan". Atau dikatakan kepada Beliau; "Suku Daus telah binasa". Maka Beliau berkata: "Ya Allah, tunjukilah suku Daus dan berikanlah petunjuk kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2937</td></tr><tr><td>Arabic No</td><td>2937</td></tr><tr><td>Reference</td><td>Book 56 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(В своё время) к Пророку ﷺ приехал Туфайль бин ‘Амр ад-Дауси со своими товарищами, которые сказали: “О Посланник Аллаха, поистине, (люди из племени) даус не послушались и отказались, так призови же на них проклятие Аллаха!” (Услышав это, люди) сказали: “(Теперь племя) даус погибнет!” (однако Пророк ﷺ) сказал: “О Аллах, укажи дауситам путь истинный и приведи их! /Аллахумма-хди даусан ва-‘ти би-хим!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2937</td></tr><tr><td>Arabic No</td><td>2937</td></tr><tr><td>Reference</td><td>Book 56 Hadith 150</td></tr></tbody></table></div>
 

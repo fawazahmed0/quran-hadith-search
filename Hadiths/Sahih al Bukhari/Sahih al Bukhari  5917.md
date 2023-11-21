@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) used to copy the people of the Scriptures 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ibrahim bin Sa'd] telah menceritakan kepada kami [Ibnu Syihab] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] radliallahu 'anhuma berkata; "Nabi shallallahu 'alaihi wasallam suka menyamai Ahli Kitab di sebagian perkara yang tidak diperintahkan, Ahli Kitab suka mengurai rambut mereka, sedangkan orang-orang Musyrik biasa membelah rambut mereka, maka beliau lebih suka mengurai rambut bagian depannya, lalu beliau membelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5917</td></tr><tr><td>Arabic No</td><td>5917</td></tr><tr><td>Reference</td><td>Book 77 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ любил следовать примеру людей Писания в том, относительно чего не получал никаких велений (свыше). Люди Писания распускали волосы, тогда как многобожники расчёсывали их на пробор. И Пророк ﷺ сначала распускал волосы, а затем стал расчёсывать на пробор
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5917</td></tr><tr><td>Arabic No</td><td>5917</td></tr><tr><td>Reference</td><td>Book 77 Hadith 132</td></tr></tbody></table></div>
 

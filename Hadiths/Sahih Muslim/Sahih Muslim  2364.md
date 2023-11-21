@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), l'Envoyé de Dieu (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Zuhair bin Harb] dan [Ishaq bin Ibrahim] semuanya dari [Jarir] - [Yahya] berkata- telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Syaqiq] dari [Masruq] dari [Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seorang isteri menyedekahkan makanan dari persediaan yang ada di rumahnya tanpa mengurangi kebutuhan rumah tangganya, maka si isteri itu mendapat pahala karena perbuatannya (yang telah menyedekahkan), dan si suami mendapat pahala karena usahanya (pekerjaannya), dan si bendahara mendapat pahala pula. Masing-masing mendapatkan pahala tanpa mengurangi pahala yang lainnya." Dan Telah menceritakannya kepada kami [Ibnu Abu Umar] Telah menceritakan kepada kami [Fudlail bin Iyadl] dari [Manshur] dengan isnad ini, dan ia mengatakan; "Dari makanan suaminya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2364</td></tr><tr><td>Arabic No</td><td>1024.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Посланник Аллаха ﷺ сказал: «Если женщина (раздаст в качестве милостыни что-нибудь) из еды, (которая имеется у) неё дома, (никому) не нанося ущерба, она получит награду за то, что (раздаст), её муж получит награду за то, что он заработал, и такую же (награду получит) хранитель (слуга-кладовщик), и награда любого из них никак не уменьшит награды другого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2364</td></tr><tr><td>Arabic No</td><td>1024.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 101</td></tr></tbody></table></div>
 

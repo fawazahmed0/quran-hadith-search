@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salama Ibn Al-Akwa' (que Dieu l'agrée) a dit : Nous partîmes avec l'Envoyé de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin 'Abbad] sedangkan lafadznya dari Ibnu 'Abbad, keduanya berkata; telah menceritakan kepada kami [Hatim] -yaitu Ibnu Isma'il- dari [Yazid bin Abu 'Ubaid] bekas budak Salamh bin Al Akwa', dari [Salamah bin Al Akwa'] dia berkata, "Kami pergi berperang ke khaibar bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam, maka kami mengadakan perjalanan di malam hari. Seorang anggota pasukan lalu berkata kepada 'Amir bin Al Akwa', "Bacakanlah kepada kami sajak-sajakmu!" -'Amir memang seorang penyair- kemudian dia turun sambil menghalau unta dan berkata, "Ya Allah, kalau bukan karena (Hidayah-Mu) maka tidaklah kami akan mendapat petunjuk, kami tidak akan bersedekah, dan kami tidak akan mendirikan shalat. Oleh karena itu, ampunilah kami sebagai, selaku tebusan Engkau atas kesalahan kami. Dan teguhkanlah pendirian kami jika bertemu denga musuh. Tanamkanlah ketenangan di hati kami, apabila di teriaki kami kan datang. Dan dengan teriakan, mereka kan menangis kepada kami." Maka Rasulullah shallallahu 'alaihi wasallam bertanya: "Siapakah orang yang menghalau unta sambil bersyair itu?" mereka menjawab, "Amir." Beliau bersabda: "Semoga Allah memberinya rahmat." Lalu seorang anggota pasukan bertanya, "Betulkah begitu ya Rasulullah? alangkah baiknya sekiranya anda menyuruhnya supaya menghibur kami terus." Kiranya saat itu kami telah sampa di Khaibar, kemudian kami mengepung penduduknya, sehingga perut kami terasa sangat lapar, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah menaklukkan negeri itu kepada kalian." Salamah berkata, "Setelah hari mulai petang di hari penaklukan Khaibar, mereka mulai menyalakan api, maka Rasulullah shallallahu 'alaihi wasallam bertanya: "Nyala api apakah itu? Dan untuk apakah mereka menyalakan api tersebut?" mereka menjawab, "Untuk membakar daging." Beliau bertanya: "Daging apa?" mereka menjawab, "Daging keledai jinak." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Tumpahkan dan pecahkanlah (periuknya)." Lantas ada seorang laki-laki berkata, "Tumpahkan lalu di cuci." Beliau menjawab: "Atau seperti itu." Tatkala dua pasukan saling berhadapan, ternyata 'Amir hanya mempunyai pedang pendek. Dengan pedang itu maka ia menikamkannya di betis orang Yahudi, tetapi malang baginya, ujung pedang itu terus meluncur hingga berbalik mengenai lutut 'Amir, dan 'Amir pun gugur karenanya." Salamah berkata, "Tatkala mereka telah kembali pulang, Rasulullah shallallahu 'alaihi wasallam memegang tanganku, ketika beliau melihat aku diam." Beliau bertanya: "Ada apa denganmu?" Aku menjawab, "Ayah dan ibuku menjadi tebusan anda, mereka mengatakan, 'Pahala 'Amir telah terhapus'." Beliau bertanya: "Siapa yang mengatakannya?" Aku menjawab, "Fulan, fulan dan Usaid bin Hudlair Al Anshari." Beliau bersabda: "Orang yang telah mengatakannya telah berdusta, sesungguhnya dia memperoleh pahala ganda -sambil beliau memberi isyarat dengan jemarinya- dialah pejuang sesungguhnya, dan sedikit sekali orang Arab yang pergi berperang seperti dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>1802.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>1802.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 150</td></tr></tbody></table></div>
 

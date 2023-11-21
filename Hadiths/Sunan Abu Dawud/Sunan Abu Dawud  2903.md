@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: A man came to the Messenger of Allah (ﷺ) and s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Sa'id Al Kindi], telah menceritakan kepada kami [Al Muharibi], dari [Jibril bin Ahmar] dari [Abdullah bin Buraidah] dari [ayahnya], ia berkata; terdapat seorang laki-laki yang datang kepada Nabi shallallahu 'alaihi wasallam kemudian berkata; sesungguhnya aku memiliki warisan seseorang yang berasal dari Azd, dan aku tidak mendapatkan seseorang yang berasal dari Azd yang dapat aku serahkan warisan tersebut kepadanya. Beliau berkata: "Pergilah dan carilah orang yang berasal dari Azd selama satu tahun." Buraidah berkata; kemudian orang tersebut datang kepada beliau setelah satu tahun, kemudian ia berkata; wahai Rasulullah, aku belum mendapatkan orang Azd yang dapat aku serahkan warisan tersebut kepadanya. Beliau berkata: "Pergilah dan lihatlah orang Khuza'ah pertama yang engkau temui, kemudian serahkan warisan tersebut kepadanya!" kemudian tatkala orang tersebut telah pergi beliau berkata: "Hadirkan orang tersebut!" kemudian tatkala orang tersebut telah datang kepadanya beliau berkata: "Lihatlah orang Khuza'ah yang paling tua, kemudian serahkan warisan tersebut kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2903</td></tr><tr><td>Arabic No</td><td>2903</td></tr><tr><td>Reference</td><td>Book 19 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Бурайды, да будет доволен им Аллах, что однажды один человек пришёл к Пророку ﷺ и сказал: «У меня есть наследство, оставленное человеком из племени Азд, но я никак не могу найти человека из этого племени, чтобы отдать ему это наследство». (Посланник Аллаха ﷺ) сказал: «Попробуй найти любого человека из племени Азд в течение года». Спустя год он пришёл к Посланнику Аллаха ﷺ и сказал: «О Посланник Аллаха, я так и не нашёл никого из племени Азд, кому можно было бы отдать это наследство». (Посланник Аллаха ﷺ) сказал: «Отдай его первому встречному хузаиту». А когда этот человек ушёл, (Посланник Аллаха ﷺ) сказал: «Верните его ко мне». А когда он вернулся, (Посланник Аллаха ﷺ) сказал: «Найди человека из хузаитов, который ближе всех по родству к основателю племени, и отдай наследство ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2903</td></tr><tr><td>Arabic No</td><td>2903</td></tr><tr><td>Reference</td><td>Book 19 Hadith 19</td></tr></tbody></table></div>
 

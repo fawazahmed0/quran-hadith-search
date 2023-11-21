@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:Hind, the mother of Mu'awiyah, came to the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari ['Urwah] dari [Aisyah] bahwa Hindun, ibu Mu'awiyah, datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Abu Sufyan adalah orang yang pelit, ia tidak memberikan kepadaku apa yang mencukupiku dan anakku. Apakah saya berdosa apabila mengambil sebagian dari hartanya?" Beliau bersabda: "Ambillah apa yang cukup untuk kamu dan anakmu dengan baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2211) Sahih Muslim (1714)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3532</td></tr><tr><td>Arabic No</td><td>3532</td></tr><tr><td>Reference</td><td>Book 24 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Однажды Хинд, мать Му‘авии, пришла к Посланнику Аллаха ﷺ и сказала: “Поистине, Абу Суфьян человек скупой, и он не даёт мне столько, сколько необходимо мне и моим сыновьям, так будет ли грехом, если я сама стану брать что-то из его имущества?” Посланник Аллаха ﷺ сказал: “Бери столько, сколько хватает тебе и твоим сыновьям сообразно обычаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2211) Sahih Muslim (1714)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3532</td></tr><tr><td>Arabic No</td><td>3532</td></tr><tr><td>Reference</td><td>Book 24 Hadith 117</td></tr></tbody></table></div>
 

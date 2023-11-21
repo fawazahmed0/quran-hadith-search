@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mujahid:'Umar gave judgement that bloodwit for quasi-intentional murder
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dari [Mujahid] ia berkata, " [Umar] memberi putusan bahwa pembunuhan semi sengaja diyatnya adalah tiga puluh hiqqah, ditambah tiga puluh jadz'ah dan empat puluh khalifah dari unta yang umurnya antara enam hingga sembilan tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4550</td></tr><tr><td>Arabic No</td><td>4550</td></tr><tr><td>Reference</td><td>Book 41 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Муджахида, что ‘Умар, да будет доволен им Аллах, постановил выплачивать за неумышленное убийство следующая компенсация /дийа/: тридцать трёхлетних верблюдиц, тридцать четырёхлетних верблюдиц и сорок беременных верблюдиц в возрасте от пяти до восьми лет
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4550</td></tr><tr><td>Arabic No</td><td>4550</td></tr><tr><td>Reference</td><td>Book 41 Hadith 57</td></tr></tbody></table></div>
 

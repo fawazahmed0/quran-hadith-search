@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:The Prophet (ﷺ) said, "Do not drink in gold or silver utensi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Ibnu 'Aun] dari [Mujahid] dari [Ibnu Abu Laila] dia berkata; kami pernah bepergian bersama [Hudzaifah], lalu dia menyebutkan perihal Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah kalian minum dari tempat yang terbuat emas dan perak dan janganlah kalian menggunakan kain sutera dan dibaj (sejenis sutera), karena itu semua untuk mereka (orang-orang kafir) di dunia dan untuk kalian di akhirat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5633</td></tr><tr><td>Arabic No</td><td>5633</td></tr><tr><td>Reference</td><td>Book 74 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Лейла сказал: «Мы вышли в путь вместе с Хузейфой, и он упомянул, что Пророк ﷺ сказал: “Не пейте из золотых и серебряных сосудов и не носите (одежду из) шёлка и парчи, ибо, поистине, всё это предназначено для них в мире этом, а для вас — в мире вечном”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5633</td></tr><tr><td>Arabic No</td><td>5633</td></tr><tr><td>Reference</td><td>Book 74 Hadith 59</td></tr></tbody></table></div>
 

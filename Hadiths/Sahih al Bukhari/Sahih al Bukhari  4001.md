@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ar-Rubai bint Muauwidh:The Prophet (ﷺ) came to me the night my marria
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali] telah menceritakan kepada kami [Bisyir bin Al Mufadldlal] telah menceritakan kepada kami [Khalid bin Dzakwan] dari [ar-Robi' binti Mu'awwidz] berkata; Nabi shallallahu 'alaihi wasallam datang menemuiku pada pagi hari dan membangunkan aku. Lalu beliau duduk di atas tikarku seperti posisi dudukmu di hadapanku ini. Saat itu, ada dua budak wanita sedang menabuh gendang sambil bersenandung mencela orang-orang yang terbunuh dari kalangan orangtua mereka pada perang Badar. Hingga berkata salah seorang dari budak itu; "Bersama kami ada Nabi yang mengetahui apa yang bakal terjadi besok". Maka Nabi shallallahu 'alaihi wasallam segera berkata: "Janganlah kamu mengatakan begitu. Tapi cukup katakan apa yang kamu katakan sebelumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4001</td></tr><tr><td>Arabic No</td><td>4001</td></tr><tr><td>Reference</td><td>Book 64 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ар-Рубаййи‘ бинт Му‘аввиз, да будет доволен ею Аллах, сказала: «Пророк ﷺ зашёл ко мне на следующее утро после моей свадьбы, когда маленькие девочки (, которые находились у меня,) били в бубны, оплакивая и поминая своих отцов, погибших в день Бадра. Одна девочка сказала: “Среди нас находится пророк, знающий, что будет завтра”, и тогда Пророк ﷺ сказал ей: “Не говори так, а говори то, что ты говорила (прежде)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4001</td></tr><tr><td>Arabic No</td><td>4001</td></tr><tr><td>Reference</td><td>Book 64 Hadith 52</td></tr></tbody></table></div>
 

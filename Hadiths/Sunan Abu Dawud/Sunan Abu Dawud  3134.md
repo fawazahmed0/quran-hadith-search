@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) commanded to remove we
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ziyad bin Ayyub] dan [Isa bin Yunus], mereka berkata; Telah menceritakan kepada kami [Ali bin 'Ashim] dari ['Atha' bin As Saib], dari [Sa'id bin Jubair] dari [Ibnu Abbas], ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan agar dicabut besi dan kulit dari para kurban perang Uhud dan agar mereka di kubur dengan darah dan pakaian mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3134</td></tr><tr><td>Arabic No</td><td>3134</td></tr><tr><td>Reference</td><td>Book 21 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ велел снимать с убитых в битве при Ухуде всё железное и кожаное и хоронить их с несмытой кровью в их одежде
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3134</td></tr><tr><td>Arabic No</td><td>3134</td></tr><tr><td>Reference</td><td>Book 21 Hadith 46</td></tr></tbody></table></div>
 

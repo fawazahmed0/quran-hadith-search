@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:My friend (the Prophet (ﷺ) ) advised me to observe three 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Abu At-Tayyah] berkata, telah menceritakan kepada saya [Abu 'Utsman] dari [Abu Hurairah radliallahu 'anhu] berkata: "Kekasihku Rasulullah shallallahu 'alaihi wasallam memberi wasiat kepadaku agar aku berpuasa tiga hari dalam setiap bulan, mendirikan shalat Dhuha dua raka'at dan shalat witir sebelum aku tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1981</td></tr><tr><td>Arabic No</td><td>1981</td></tr><tr><td>Reference</td><td>Book 30 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Мой любимейший друг ﷺ дал мне наказ относительно трёх (вещей): соблюдать (дополнительный) пост по три дня ежемесячно, совершать по утрам дополнительный утренний /духа/ намаз в два рак‘ата и совершать витр перед сном»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1981</td></tr><tr><td>Arabic No</td><td>1981</td></tr><tr><td>Reference</td><td>Book 30 Hadith 88</td></tr></tbody></table></div>
 

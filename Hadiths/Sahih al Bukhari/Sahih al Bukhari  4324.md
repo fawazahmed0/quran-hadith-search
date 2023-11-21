@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:The Prophet (ﷺ) came to me while there was an effeminate ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] ia mendengar [Sufyan] Telah menceritakan kepada kami [Hisyam] dari [ayahnya] dari [Zaenab binti Abu Salamah] dari [Ibunya, Ummu Salamah] radliallahu 'anha, Nabi shallallahu 'alaihi wasallam menemuiku yang ketika itu disisiku ada seorang waria dan kudengar ia mengatakan kepada Abdullah bin Abu Umayyah; Wahai Abdullah, bagaimana pendapatmu jika Allah menalukkan Thaif untukmu, hendaklah engkau menikahi anak perempuan Ghailan, sebab ia (perempuan) yang menghadap dengan empat cabang dan berbalik dengan delapan cabang. Maka Nabi shallallahu 'alaihi wasallam langsung berkomentar: "Jangan biarkan laki-laki waria (banci) itu menemui kalian. Kata Ibnu Uyainah, Ibnu Juraij mengatakan makna 'mukhannats' adalah banci, Telah menceritakan kepada kami [Mahmud] Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dengan hadist ini dan beliau tambahkan redaksi; "Ketika itu beliau sedang mengepung kota Thaif
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4324</td></tr><tr><td>Arabic No</td><td>4324</td></tr><tr><td>Reference</td><td>Book 64 Hadith 354</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала: «(Однажды) Пророк ﷺ, который зашёл ко мне в то время, когда у меня находился один женоподобный мужчина, услышал, как тот сказал ‘Абдуллаху ибн Аби Умаййе: “О ‘Абдуллах, если завтра Аллах поможет вам взять Таиф, ты должен взять (в жены) дочь Гайляна, ибо, поистине, (эта девушка столь красива и полна, что, когда) она поворачивается (к тебе) лицом (, видны) четыре (складки на её теле, когда же поворачивается спиной, то видны) восемь (складок)”. И (после этого) Пророк ﷺ сказал: “Такие никогда не должны приходить к вам!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4324</td></tr><tr><td>Arabic No</td><td>4324</td></tr><tr><td>Reference</td><td>Book 64 Hadith 354</td></tr></tbody></table></div>
 

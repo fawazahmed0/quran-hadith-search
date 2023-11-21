@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "A Muslim has to listen to and obey (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] Telah menceritakan kepadaku [Nafi'] dari [Abdullah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam bersabda: "mendengar dan taat adalah wajib bagi setiap muslim, baik yang ia sukai maupun yang tidak ia sukai, selama ia tidak diperintahkan melakukan kemaksiatan, adapun jika ia diperintahkan melakukan maksiat, maka tidak ada hak mendengar dan menaati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7144</td></tr><tr><td>Arabic No</td><td>7144</td></tr><tr><td>Reference</td><td>Book 93 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн ‘Умар), да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «Мусульманин обязан слушаться и повиноваться (правителю) в том, что любимо, и в том, что неприятно, если только не будет велено ему совершать что-нибудь греховное. А если велят ему совершить грех, то нет послушания и нет подчинения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7144</td></tr><tr><td>Arabic No</td><td>7144</td></tr><tr><td>Reference</td><td>Book 93 Hadith 8</td></tr></tbody></table></div>
 

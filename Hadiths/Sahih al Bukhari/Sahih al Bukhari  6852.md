@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Those people who used to buy foodstuff at random (w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ayyasy bin Al Walid] telah menceritakan kepada kami ['Abdul A'la] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Abdullah bin Umar]; Di masa Rasulullah Shallallahu' alaihi wa sallam, jika para sahabat membeli makanan yang tak jelas takaran dan timbangannya, mereka dilarang menjualnya ditempat mereka membeli (tempat yang sama) hingga mereka memindahkannya ke kendaraan angkut mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6852</td></tr><tr><td>Arabic No</td><td>6852</td></tr><tr><td>Reference</td><td>Book 86 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Умара, что во времена Пророка ﷺ били тех людей, которые покупали продукты питания, не взвешивая, если они продавали их на том же месте, не доставив их (для продажи) в свои дома (в другое место)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6852</td></tr><tr><td>Arabic No</td><td>6852</td></tr><tr><td>Reference</td><td>Book 86 Hadith 74</td></tr></tbody></table></div>
 

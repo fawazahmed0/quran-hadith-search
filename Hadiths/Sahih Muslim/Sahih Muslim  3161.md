@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Adullah b. 'Amr (b. al-'As) (Allah be pleased with him) reported that a person c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] - [Abu Bakr] berkata- Telah menceritakan kepada kami [Ibnu Uyainah] dari [Az Zuhri] dari [Isa bin Thalhah] dari [Abdullah bin Amru] ia berkata; Seorang laki-laki datang menghadap Nabi shallallahu 'alaihi wasallam seraya bertanya, "Aku telah bercukur sebelum menyembelih hewan kurban?" beliau bersabda: "Sembelihlah sekarang, tidaklah mengapa." Kemudian yang lain bertanya lagi, "Aku telah menyembelih hewan kurban sebelum melontar jumrah?" beliau bersabda: "Sekarang melontarlah, tidak mengapa." Dan Telah menceritakan kepada kami [Ibnu Abu Umar] dan [Abdu bin Humaid] dari [Abdurrazaq] dari [Ma'mar] dari [Az Zuhri] dengan isnad ini; Aku melihat Rasulullah shallallahu 'alaihi wasallam berada di atas kendaraannya di Mina. Lalu seorang laki-laki mendatangi beliau. Yakni semakna dengan haditsnya Ibnu Uyainah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3161</td></tr><tr><td>Arabic No</td><td>1306.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 365</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3161</td></tr><tr><td>Arabic No</td><td>1306.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 365</td></tr></tbody></table></div>
 

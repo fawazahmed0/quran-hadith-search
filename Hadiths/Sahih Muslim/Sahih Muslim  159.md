@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Sufyan b. 'Abdulla al-Thaqafi that he said:I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Ibnu Numair]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ishaq bin Ibrahim] semuanya dari [Jarir]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] semuanya dari [Hisyam bin Urwah] dari [bapaknya] dari [Sufyan bin Abdullah ats-Tsaqafi] dia berkata, "Saya berkata, 'Wahai Rasulullah, katakanlah kepadaku dalam Islam suatu perkataan yang mana aku tidak menanyakannya kepada seorang pun tentangnya setelahmu -dan dalam riwayat hadits Abu Usamah- selainmu.' Maka beliau menjawab: 'Katakanlah, 'aku beriman kepada Allah' lalu beristiqamahlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>159</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 1 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Суфйан бин ‘Абдуллах ас-Сакафи, да будет доволен им Аллах, сказал: (Однажды) я попросил: «О Посланник Аллаха, скажи мне об исламе такие слова (, чтобы после этого) я уже не спрашивал о нём никого другого». Он сказал: «Говори: „Я уверовал в Аллаха“, а потом придерживайся прямоты»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>159</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 1 Hadith 66</td></tr></tbody></table></div>
 

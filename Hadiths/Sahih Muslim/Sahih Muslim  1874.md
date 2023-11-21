@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Umama said he heard Allah's Messenger (ﷺ) say:Recite the Qur'an, for on th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Hasan bin Ali Al Hulwani] telah menceritakan kepada kami [Abu Taubah] ia adalah Ar Rabi' bin Nafi', telah menceritakan kepada kami [Mu'awiyah] yakni Ibnu Sallam, dari [Zaid] bahwa ia mendengar [Abu Sallam] berkata, telah menceritakan kepadaku [Abu Umamah Al Bahili] ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Bacalah Al Qur'an, karena ia akan datang memberi syafa'at kepada para pembacanya pada hari kiamat nanti. Bacalah Zahrawain, yakni surat Al Baqarah dan Ali Imran, karena keduanya akan datang pada hari kiamat nanti, seperti dua tumpuk awan menaungi pembacanya, atau seperti dua kelompok burung yang sedang terbang dalam formasi hendak membela pembacanya. Bacalah Al Baqarah, karena dengan membacanya akan memperoleh barokah, dan dengan tidak membacanya akan menyebabkan penyesalan, dan pembacanya tidak dapat dikuasai (dikalahkan) oleh tukang-tukang sihir." Mu'awiyah berkata; "Telah sampai (khabar) kepadaku bahwa, Al Bathalah adalah tukang-tukang sihir." Dan telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Yahya] yakni Ibnu Hassan, Telah menceritakan kepada kami [Mu'awiyah] dengan isnad ini, hanya saja ia mentatakan; "Wa Ka'annahumaa fii Kilaihimaa." dan ia tidak menyebutkan ungkapan Mu'awiyah, "Telah sampai (khabar) padaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1874</td></tr><tr><td>Arabic No</td><td>804.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 302</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Умама аль-Бахили, да будет доволен им Аллах, сказал:«Я слышал, как Посланник Аллаха ﷺ говорил: “Читайте Коран, ибо, поистине, в День воскрешения он явится как заступник за тех, кто его читал. Читайте две сияющие суры суры “аль-Бакара” и “Али ‘Имран”, потому что в День воскресения они явятся словно два облака или как два (навеса), или две стаи птиц, выстроившихся рядами, и будут защищать тех, кто (читал эти суры). Читайте суру “аль-Бакара”, потому что в ней благодать и изобилие, а без неё печаль и досада, и колдунам /баталя/ не справиться с ней”».Му‘авия сказал: «Дошло до меня, что “баталя” значит “колдуны”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1874</td></tr><tr><td>Arabic No</td><td>804.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 302</td></tr></tbody></table></div>
 

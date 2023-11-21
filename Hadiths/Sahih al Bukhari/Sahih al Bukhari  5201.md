@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) took an oath that he would not visit his w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] Telah menceritakan kepada kami [Sulaiman] ia berkata; Telah menceritakan kepadaku [Humaid] dari [Anas] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersumpah untuk tidak mendekati isteri-isterinya selama satu bulan. Kemudian beliau pun duduk di tempat minum miliknya, lalu beliau mendatangi mereka -para isterinya- pada hari yang dua puluh sembilan, maka dikatakanlah pada beliau, "Wahai Rasulullah, sesungguhnya Anda telah bersumpah untuk sebulan." Maka beliau bersabda: "Sesungguhnya bilangan bulan itu adalah dua puluh sembilan hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5201</td></tr><tr><td>Arabic No</td><td>5201</td></tr><tr><td>Reference</td><td>Book 67 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ поклялся, что в течение месяца не станет приближаться к своим жёнам, он пробыл в своей приподнятой (от земли) комнате /машруба/ двадцать девять дней, а затем спустился, и ему сказали: “О Посланник Аллаха, ты ведь поклялся (что не будешь приближаться к своим жёнам в течение) месяца!” Тогда он ответил: “Поистине, этот месяц состоит из двадцати девяти дней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5201</td></tr><tr><td>Arabic No</td><td>5201</td></tr><tr><td>Reference</td><td>Book 67 Hadith 135</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:The Prophet (ﷺ) said, "The terror caused by Al-Masih Ad-Daj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah menceritakan kepada saya [Ibrahim bin Sa'ad] dari [bapaknya] dari [kakeknya] dari [Abu Bakrah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Al Masihud-Dajjal yang ditakuti tidak akan dapat memasuki kota Madinah. Pada hari itu Madinah memiliki tujuh pintu yang setiap pintunya akan ada dua malaikat (yang menjaganya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1879</td></tr><tr><td>Arabic No</td><td>1879</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Бакры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не проникнет в Медину страх перед Антихристом, ибо в тот день будет у неё семь ворот, на каждом из которых будет находиться по два ангела»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1879</td></tr><tr><td>Arabic No</td><td>1879</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
 

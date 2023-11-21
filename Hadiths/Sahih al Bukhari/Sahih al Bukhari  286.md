@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:I asked 'Aisha "Did the Prophet (ﷺ) use to sleep while he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'aim] berkata, telah menceritakan kepada kami [Hisyam] dan [Syaiban] dari [Yahya bin Abu Katsir] dari [Abu Salamah] berkata, Aku bertanya kepada ['Aisyah], "Apakah Nabi shallallahu 'alaihi wasallam tidur dalam keadaan junub?" 'Aisyah menjawab, "Ya, setelah berwudlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>286</td></tr><tr><td>Arabic No</td><td>286</td></tr><tr><td>Reference</td><td>Book 5 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма сказал: «(Однажды) я спросил у ‘Аиши: “Укладывался ли спать Пророк ﷺ в состоянии полового осквернения?” Она ответила: “Да, и он совершал омовение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>286</td></tr><tr><td>Arabic No</td><td>286</td></tr><tr><td>Reference</td><td>Book 5 Hadith 38</td></tr></tbody></table></div>
 

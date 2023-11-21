@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) used to get a Harba planted in front of him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] telah mengabarkan kepadaku [Nafi'] dari ['Abdullah bin 'Umar], bahwa Nabi shallallahu 'alaihi wasallam menancapkan sebuah tombak lalu shalat menghadapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>498</td></tr><tr><td>Arabic No</td><td>498</td></tr><tr><td>Reference</td><td>Book 8 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха (ибн ‘Умара) о том, что Пророк ﷺ нередко втыкал в землю копьё, в сторону которого обращался во время молитвы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>498</td></tr><tr><td>Arabic No</td><td>498</td></tr><tr><td>Reference</td><td>Book 8 Hadith 145</td></tr></tbody></table></div>
 

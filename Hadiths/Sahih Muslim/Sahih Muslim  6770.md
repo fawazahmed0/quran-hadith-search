@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Yahya with the same chain of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] - dan lafadh ini milik Abu Bakr- mereka berdua berkata; telah menceritakan kepada kami [Waki'] dari [Mis'ar] dari ['Alqamah bin Martsad] dari [Al Mughirah bin 'Abdullah Al Yasykuri] dari [Al Ma'rur bin Suwaid] dari ['Abdullah] dia berkata; "Ummu Habibah -istri Rasulullah- pernah berdoa sebagai berikut; 'Ya Allah, berikanlah aku kenikmatan (panjangkanlah usiaku) bersama suamiku, Rasulullah shallallahu 'alaihi wasallam, ayahku, Abu Sufyan, dan saudaraku, Mu'awiyah.' Abdullah berkata; Mendengar doa itu, maka Rasulullah shallallahu 'alaihi wasallam berkata kepada istrinya, Ummu Habibah: 'Sesungguhnya kamu memohon kepada Allah Subhanahu wa Ta'ala: ajal, kematian, dan rezeki yang telah ditentukan, di mana Allah tidak akan mengajukan ataupun memundurkan sebelum waktunya. Apabila kamu memohon kepada Allah Suhhanahu wa Ta'ala agar Dia menyelamatkanmu dari siksa neraka dan siksa kubur, maka hal itu lebih baik bagimu dan lebih utama.' Abdullah bin Mas'ud berkata; lalu ditanyakan kepada Rasulullah tentang kera. Mis'ar berkata; aku kira dia berkata; Apakah babi itu berasal dari manusia yang telah berubah rupa? ' Rasulullah shallallahu 'alaihi wasallam menjawab: 'Sesungguhnya Allah Azza wa Jalla tidak akan menghancurkan atau menyiksa suatu kaum, kemudian menjadikan keturunan bagi mereka. Sesungguhnya keturunan babi dan kera itu sudah ada sebelumnya.' Telah menceritakannya kepada kami [Abu Kuraib] Telah menceritakan kepada kami [Ibnu Bisyr] dari [Mis'ar] melalui sanad ini. Hanya saja dia menyebutkan di dalam Haditsnya, dari Ibnu Bisyr dan Waki' -secara keseluruhan-. Lafazh; dari adzab neraka dan adzab kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6770</td></tr><tr><td>Arabic No</td><td>2663.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6770</td></tr><tr><td>Arabic No</td><td>2663.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 48</td></tr></tbody></table></div>
 

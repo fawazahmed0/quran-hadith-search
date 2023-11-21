@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz Ad Darawardi] dari [Al 'Ala] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan datang suatu masa yang ketika itu seseorang mengajak keponakannya dan kerabatnya untuk meninggalkan Madinah dengan berkata, 'Marilah kita mencari kemakmuran hidup, marilah kita mencari kemakmuran hidup.' Padahal Madinah lebih baik bagi mereka kalau mereka mengetahuinya. Demi Dzat yang jiwaku berada di tangan-Nya, tidaklah seseorang keluar dari Madinah karena tidak senang melainkan Allah akan memberikan pengganti dengan orang yang lebih baik darinya. Ketahuilah bahwa Madinah itu bagaikan tukang pandai besi yang mengeluarkan kotoran. Kiamat tidak akan terjadi sehingga Madinah menghilangkan para penjahatnya, sebagaimana tukang pandai besi menghilangkan kotoran besi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3352</td></tr><tr><td>Arabic No</td><td>1381</td></tr><tr><td>Reference</td><td>Book 15 Hadith 556</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3352</td></tr><tr><td>Arabic No</td><td>1381</td></tr><tr><td>Reference</td><td>Book 15 Hadith 556</td></tr></tbody></table></div>
 

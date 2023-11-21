@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Al-Fadl bin 'Abbas rode behind the Prophet (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Sulaiman bin Yasar] telah mengabarkan kepadaku [Abdullah bin Abbas] radliallahu 'anhuma dia berkata; "Pada hari Iedul Kurban, Al Fadlu bin Abbas pernah membonceng Rasulullah shallallahu 'alaihi wasallam dibelakang hewan tunggangannya, Al Fadl adalah orang yang cakap wajahnya, lalu Nabi shallallahu 'alaihi wasallam berhenti sejenak untuk memberi fatwa di hadapan orang-orang, ternyata ada seorang wanita berwajah cantik dari Kaitsam datang kepada Rasulullah shallallahu 'alaihi wasallam untuk meminta fatwa, segera Al Fadlu memandang wanita tersebut, ia merasa heran dengan kecantikannya, ketika Nabi shallallahu 'alaihi wasallam menoleh ke arah Al Fadl, dia masih saja memandangi wanita tersebut, akhirnya beliau memutar tangan ke arah belakang dan memegang dagu Al Fadl serta memalingkan wajahnya ke arah lain. Wanita tersebut bertanya; "Wahai Rasulullah, sesungguhnya Allah telah mewajibkan ibadah haji kepada para hamba-Nya, sementara ayahku baru mampu melaksanakan haji saat dia telah lanjut usia hingga menyebabkan ia tidak mampu naik kendaraan. Apakah saya boleh berhaji untuknya?" beliau menjawab; "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6228</td></tr><tr><td>Arabic No</td><td>6228</td></tr><tr><td>Reference</td><td>Book 79 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «В день жертвоприношения /яуму-н-нахр/ Посланник Аллаха ﷺ посадил аль-Фадля ибн ‘Аббаса позади себя на заднюю часть верблюдицы. А аль-Фадль был красивым мужчиной. Когда Пророк ﷺ остановился, чтобы отвечать на (касающиеся религии) вопросы людей, подошла женщина из племени хас‘ам, которая была прекрасна, чтобы задать свой вопрос Посланнику Аллаха ﷺ , а аль-Фадль стал смотреть на неё, восхитившись её красотой. Заметив это, Пророк ﷺ взял аль-Фадля за подбородок и повернул его лицо в другую сторону. (Эта женщина) сказала: “О Посланник Аллаха, обязанность совершать хадж, которую возложил Аллах на Своих рабов, застала моего отца глубоким стариком, и он не способен удержаться на верблюдице, зачтётся ли ему если я совершу хадж вместо него?” Он сказал: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6228</td></tr><tr><td>Arabic No</td><td>6228</td></tr><tr><td>Reference</td><td>Book 79 Hadith 2</td></tr></tbody></table></div>
 

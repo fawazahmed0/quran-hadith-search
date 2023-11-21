@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:Barirah came seeking my help to purchase her freedom. She said: I ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2563) Sahih Muslim (1504)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3930</td></tr><tr><td>Arabic No</td><td>3930</td></tr><tr><td>Reference</td><td>Book 31 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Барира пришла в связи с заключённым ею договором о самовыкупе и сказала: “Члены семьи, которой я принадлежу, заключили со мной договор о самовыкупе за девять окий серебра сроком на девять лет при условии, что я ежегодно буду выплачивать им по одной окии, помоги же мне расплатиться”. Я сказала ей: “Если твои хозяева пожелают, чтобы я выплатила им всё сразу, а потом освободила тебя, после чего право покровительства будет принадлежать мне, я сделаю это”. Барира отправилась к своим хозяевам». Далее передатчик хадиса рассказал историю, подобную приведённой выше, и упомянул в конце о том, что Пророк ﷺ ещё сказал: «Почему же среди вас находятся люди, которые говорят: “Освободи такого-то, а право покровительства останется за мной”? Право покровительства принадлежит лишь тому, кто освободил раба!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2563) Sahih Muslim (1504)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3930</td></tr><tr><td>Arabic No</td><td>3930</td></tr><tr><td>Reference</td><td>Book 31 Hadith 5</td></tr></tbody></table></div>
 

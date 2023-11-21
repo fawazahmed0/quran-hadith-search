@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rafi' ibn Khadij: I heard the Messenger of Allah (ﷺ) say: The officia
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ibrahim Al Asbathi], telah menceritakan kepada kami [Abdurrahim bin Sulaiman] dari [Muhammad bin Ishaq] dari ['Ashim bin Umar bin Qatadah] dari [Mahmud bin Labid] dari [Rafi' bin Khadij], ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam berkata; penunggu zakat yang benar seperti orang yang berperang di jalan Allah hingga ia kembali ke rumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 20 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Рафи‘а ибн Хадиджа, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: “Честный сборщик закята подобен сражающемуся на пути Аллаха, пока не вернётся домой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 20 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sahl bin Sa’d said :'Ali bin Abi Talib entered upon Fatimah while Hasan and Hu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716</td></tr><tr><td>Arabic No</td><td>1716</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Сахля ибн Са‘да, да будет доволен им Аллах, что однажды ‘Али ибн Абу Талиб пришёл к Фатиме и увидел, что Хасан и Хусейн плачут. Он спросил: «Почему они плачут?» Фатима ответила: «От голода». Тогда ‘Али вышел и вскоре нашёл на рынке динар, принёс его Фатиме и рассказал обо всём. Фатима сказала ему: «Пойди к такому-то иудею и купи для нас муки». ‘Али пошёл к иудею и купил муки. Иудей спросил его: «Ты зять того, кто утверждает, что он Посланник Аллаха?» ‘Али ответил: «Да». Иудей сказал: «Тогда возьми муку и забери свой динар». ‘Али вернулся к Фатиме и рассказал ей обо всём. Она сказала: «Пойди к такому-то мяснику и купи у него мяса на дирхем». Он пошёл и оставил мяснику динар в качестве залога и взял мяса на дирхем. Он принёс мясо Фатиме, и она замесила тесто, поставила варить мясо и испекла хлеб, после чего послала за своим отцом. Посланник Аллаха ﷺ пришёл к ним, и она сказала: «О Посланник Аллаха! Мы расскажем тебе всё как есть, и если ты сочтёшь это дозволенным для нас, то мы поедим вместе с тобой. Дело было так-то и так-то». Посланник Аллаха ﷺ сказал: «Ешьте с именем Аллаха». И они начали есть. Когда они сидели на своих местах, они услышали, как мальчик просит ради Аллаха и ислама отдать ему его потерянный динар. Тогда Посланник Аллаха ﷺ велел позвать его и спросил о динаре. Мальчик сказал: «Я выронил его на рынке». Тогда Посланник Аллаха ﷺ сказал: «О ‘Али, пойди к мяснику и передай, что Посланник Аллаха ﷺ говорит ему: “Пошли мне динар, а твой дирхем я верну тебе позже”». И он послал ему динар, и Посланник Аллаха ﷺ отдал этот динар его настоящему владельцу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716</td></tr><tr><td>Arabic No</td><td>1716</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
 

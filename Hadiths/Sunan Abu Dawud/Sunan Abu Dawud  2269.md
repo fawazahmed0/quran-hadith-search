@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Arqam: I was sitting with the Prophet (ﷺ). A man came from t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya] dari [Al Ajlah], dari [Asy Sya'bi] dari [Abdullah bin Al Khalil] dari [Zaid bin Arqam], ia berkata; aku pernah duduk bersama Nabi shallallahu 'alaihi wasallam kemudian terdapat seorang laki-laki dari Yaman yang masuk dan berkata; sesungguhnya terdapat tiga orang penduduk Yaman datang kepada Ali, mereka memperselisihkan kepada Ali mengenai anak yang dilahirkan oleh seorang wanita yang telah mereka gauli dalam satu masa suci. Kemudian Ali berkata kepada dua orang diantara mereka relakan anak itu untuk orang ini! Kemudian mereka berteriak, kemudian ia berkata; kepada dua orang; relakan anak tersebut untuk orang ini! Kemudian mereka berdua berteriak, kemudian ia berkata kepada dua orang; relakan anak tersebut untuk orang ini! Kemudian mereka berteriak. Lalu Ali berkata; kalian adalah sekutu yang saling berseteru, aku akan mengundi kalian. Barangsiapa yang keluar undiannya, maka anak tersebut adalah miliknya dan ia wajib membayar kepada kedua sahabatnya dua pertiga diyah. Kemudian Ali mengundi diantara mereka. Kemudian Rasulullah shallallahu 'alaihi wasallam tertawa hingga nampak gigi-gigi geraham beliau atau gigi-gigi seri beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2269</td></tr><tr><td>Arabic No</td><td>2269</td></tr><tr><td>Reference</td><td>Book 13 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Аркама: «Однажды я сидел у Пророка ﷺ и пришёл один человек из Йемена и рассказал, что три человека из числа жителей Йемена пришли к ‘Али. Все они вступили в половые отношения с женщиной в один и тот же период чистоты, и она родила ребёнка. Каждый из них утверждал, что ребёнок от него. ‘Али сказал двоим из них, указывая на оставшегося: “Откажитесь от ребёнка в его пользу”. Но они разгневались и не согласились. Тогда он сказал двоим из них, указывая на оставшегося: “Откажитесь от ребёнка в его пользу”. Но они разгневались и не согласились. Тогда он сказал двоим из них, указывая на оставшегося: “Откажитесь от ребёнка в его пользу”. Но они разгневались и не согласились. Тогда ‘Али сказал: “Вы несговорчивые партнёры. Поэтому бросьте жребий, и кому выпадет жребий, тому и достанется ребёнок, и он должен остальным двоим две трети выкупа /дийа/”. И по его велению они бросили жребий, и ребёнок достался тому, кому выпал жребий. И Посланник Аллаха ﷺ улыбнулся так, что показались его задние зубы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2269</td></tr><tr><td>Arabic No</td><td>2269</td></tr><tr><td>Reference</td><td>Book 13 Hadith 95</td></tr></tbody></table></div>
 

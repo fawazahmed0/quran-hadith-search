@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of ('Abdullah) son of 'Umar, that the Prophet (m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahl bin Utsman al-Askari] telah menceritakan kepada kami [Yahya bin Zakariya] telah menceritakan kepada kami [Sa'ad bin Thariq] dia berkata, telah menceritakan kepadaku [Sa'ad bin Ubaidah as-Sulami] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, beliau berkata: "Islam didirikan di atas lima dasar: Yaitu agar Allah disembah dan agar selainnya dikufurkan, mendirikan shalat, menunaikan zakat, haji di Baitullah, dan berpuasa Ramadlan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>112</td></tr><tr><td>Arabic No</td><td>16.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Ислам основывается на пяти (столпах): в поклонении Аллаху и отвержении всего помимо Него, выстаивании молитвы, выплате закята, совершении хаджа к Дому и соблюдении поста в Рамадане»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>112</td></tr><tr><td>Arabic No</td><td>16.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 20</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn 'Abdillâh (رضي الله عنهما) a dit : L'Envoyé de Dieu (pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [al-Laits] dari [Abu az-Zubair] dari [Jabir] bahwasanya dia berkata, "Sesungguhnya Rasulullah mengutusku untuk suatu urusan. (Setelah aku kembali), aku -dalam keadaan berjalan- mendapati beliau -Qutaibah berkata, 'sedang shalat'-. Lalu aku memberi salam kepada beliau, maka beliau hanya memberi isyarat kepadaku. Setelah selesai shalat, beliau memanggilku, seraya bersabda, 'Tadi engkau memberi salam kepadaku, padahal aku sedang shalat.' Ketika itu beliau menghadap ke timur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>540.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «(Однажды) Посланник Аллаха ﷺ послал меня с каким-то поручением, а (на обратном пути) я догнал его, когда он уже находился в пути, и поприветствовал его. (В ответ Пророк ﷺ) сделал мне знак рукой, закончив же (молиться), подозвал меня и сказал: “Недавно ты поприветствовал меня, но я был занят молитвой”, и в это время лицо его было обращено к востоку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>540.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 45</td></tr></tbody></table></div>
 

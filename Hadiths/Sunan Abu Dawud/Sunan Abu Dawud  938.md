@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuZuhayr an-Numayri: AbuMisbah al-Muqra'i said: We used to sit in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Walid bin 'Utbah Ad Dimasyqi] dan [Mahmud bin Khalid] keduanya berkata; telah menceritakan kepadaku [Al Firyabi] dari [Shubaih bin Muhriz Al Himshi] telah menceritakan kepadaku [Abu Mushabbih Al Maqra'i] dia berkata; "Kami bermajlis kepada [Abu Zuhair An Numairi] -dia termasuk salah seorang sahabat-, dia berbicara kepada kami dengan pembicaraan yang bagus: apabila seseorang dari kami berdo'a maka dia berkata: "Tutuplah dengan "Amiin" karena "amiin" seperti setempel pada lembaran." Abu Zuhair berkata; aku beritahukan kalian tentang itu; "Pada suatu malam, kami keluar bersama Rasulullah shallallahu 'alaihi wasallam, lalu kami menemui seseorang yang bersungguh-sungguh dalam meminta (berdo'a), maka Nabi shallallahu 'alaihi wasallam berhenti untuk mendengarkan ucapan orang tersebut, lalu beliau bersabda: "(Do'anya) akan dikabulkan apabila ditutup." Seseorang betanya; "Dengan apa ia menutupnya? Beliau menjawab: "Dengan "amiin" sesungguhnya apabila dia menutupnya dengan "amiin" pasti (do'nay) akan dikabulkan." Orang yang bertanya tadi pergi dan bergegas menemui orang yang berdo'a tadi sambil mengatakan: "Wahai fulan, tutuplah do'a kamu dengan "amiin" ini adalah kabar gembira!." Lafdz hadits ini dari Mahmud. Abu Daud berkata; Al Maqra' merupakan salah satu kabilah Himyar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 2 Hadith 549</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Мусбих аль-Макраи сказал: «Мы часто сидели у Абу Зухайра ан-Нумайра, который был сподвижником, и он вёл прекрасную беседу. А когда один из нас обращался к Аллаху с мольбами, он говорил ему: “Закончи словом “амин”, ибо это слово подобно печати, которой запечатывают послание… Я расскажу вам об этом. Однажды вечером, когда мы вышли вместе с посланником Аллаха ﷺ мы увидели человека, который обращался к Всевышнему с горячими мольбами. Пророк ﷺ остановился и некоторое время слушал этого человека. А потом Пророк ﷺ сказал: “Если он завершит свою мольбу должным образом, она не останется без ответа”. Один человек спросил: “А как он должен завершить свою мольбу?” (Посланник Аллаха ﷺ) ответил: “Словом “амин”, ибо если он завершит свою мольбу этим словом, она не останется без ответа”. После этого спросивший пришёл к тому человеку и сказал ему: “О такой-то, закончи свою мольбу словом “амин”, и радуйся””». Абу Дауд сказал: «Аль-Макра племя из Химьяра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 2 Hadith 549</td></tr></tbody></table></div>
 

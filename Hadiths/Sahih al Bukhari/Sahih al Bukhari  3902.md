@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) started receiving the Divine Inspira
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mathar bin Al Fadlal] telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami ['Ikrimah] dari [Ibnu 'Abbas] radliallahu 'anhuma berkata; Rasulullah shallallahu 'alaihi wasallam diutus sebagai rasul saat beliau berusia empat puluh tahun, beliau tinggal di Makkah selama tiga belas tahun menerima wahyu, kemudian beliau diperintahkan untuk berhijrah, Maka beliau berhijrah dan (menetap di Madinah) selama sepuluh tahun hingga beliau wafat ketika berusia enam puluh tiga tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3902</td></tr><tr><td>Arabic No</td><td>3902</td></tr><tr><td>Reference</td><td>Book 63 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Посланнику Аллаха ﷺ стали ниспосылаться откровения, когда ему исполнилось сорок лет, после чего он в течение тринадцати лет оставался в Мекке, получая откровения, а потом ему было велено переселиться, и он переселился в Медину, где прожил десять лет, а потом скончался в возрасте шестидесяти трёх лет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3902</td></tr><tr><td>Arabic No</td><td>3902</td></tr><tr><td>Reference</td><td>Book 63 Hadith 127</td></tr></tbody></table></div>
 

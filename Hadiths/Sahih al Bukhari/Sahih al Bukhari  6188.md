@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Abu-l-Qasim (The Prophet) said, "Name yourselves by my name
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Ayyub] dari [Ibnu Sirin] saya mendengar [Abu Hurairah] bahwa Abu Al Qasim shallallahu 'alaihi wasallam bersabda; "Berilah nama dengan namaku dan jangan kalian menjuluki dengan julukanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>6188</td></tr><tr><td>Reference</td><td>Book 78 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Абу-ль-Касим ﷺ сказал: “(Вы можете) называть себя моим именем, но не используйте мою кунью, называя себя!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>6188</td></tr><tr><td>Reference</td><td>Book 78 Hadith 212</td></tr></tbody></table></div>
 

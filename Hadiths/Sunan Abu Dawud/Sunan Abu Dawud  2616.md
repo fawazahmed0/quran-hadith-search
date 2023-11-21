@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Usamah: The Messenger of Allah (ﷺ) enjoined upon him to attack Ubna i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sarri], dari [Ibnu Al Mubarak] dari [Shalih bin Abu Al Akhdhar], dari [Az Zuhri], ['Urwah] berkata; telah menceritakan kepadaku [Usamah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah berwasiat kepadanya, beliau berkata: "Seranglah Ubna (tempat di Palestina antara Ramlah dan 'Asqalan) pada pagi hari dan bakarlah tanaman mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2616</td></tr><tr><td>Arabic No</td><td>2616</td></tr><tr><td>Reference</td><td>Book 15 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2616</td></tr><tr><td>Arabic No</td><td>2616</td></tr><tr><td>Reference</td><td>Book 15 Hadith 140</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-A'mash:When we were with Ibrahim, we talked about mortgaging in deal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'allaa bin Asad] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami [Al A'masy] berkata; "Kami pernah saling menceritakan dihadapan [Ibrahim] tentang gadai dalam jual beli As Salam, maka dia berkata, telah menceritakan kepadaku [Al Aswad] dari ['Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam pernah membeli makanan dari orang Yahudi (yang pembayaranya) di masa yang akan datang lalu Beliau menggadaikan baju besi Beliau (sebagai jaminan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2386</td></tr><tr><td>Arabic No</td><td>2386</td></tr><tr><td>Reference</td><td>Book 43 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ купил у иудея зерно в рассрочку, а в залог он оставил ему свою железную кольчугу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2386</td></tr><tr><td>Arabic No</td><td>2386</td></tr><tr><td>Reference</td><td>Book 43 Hadith 2</td></tr></tbody></table></div>
 

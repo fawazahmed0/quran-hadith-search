@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepadaku [Al-Walid bin Muslim] telah menceritakan kepada kami [Ibnu Abu Dzi'bin] dari [Ibnu Syihab] dari [Nafi'] budak Abu Qatadah, dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Bagaimana keadaan kalian apabila Isa putera Maryam turun pada kalian dan menjadi pemimpin kalian." Lalu aku berkata kepada [Ibnu Abu Dzi'b] bahwa [al-Auza'i] telah menceritakan kepada kami, dari [az-Zuhri] dari [Nafi'] dari [Abu Hurairah], "Pemimpin kalian dalah dari kalian." [Ibnu Abu Dzi'b] berkata, "Apakah kamu tahu sesuatu apa (yang dijadikan dasar) memimpin kalian?" Aku balik bertanya, "Apakah kamu akan mengabarkannya kepadaku?" Ibnu Abu Dzi'b berkata, "Dia akan memimpin kalian berdasarkan Kitabullah dan Sunnah Nabi Kalian shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>394</td></tr><tr><td>Arabic No</td><td>155.06</td></tr><tr><td>Reference</td><td>Book 1 Hadith 299</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ спросил (людей): «Каково будет ваше состояние, когда спустится к вам сын Марьям, а проводить с вами молитву будет (один) из вас?».(Аль-Валид ибн Муслим сказал): «Я сказал Ибн Аби Зи’бу: “Аль-Ауза’и передал нам со слов аз-Зухри, что Нафи’ передал, что Абу Хурайра сказал: “…А вашим имамом (будет один) из вас”». Ибн Абу Зи’б спросил: «Знаешь ли ты, что (означают слова): “…а проводить с вами молитву будет (один) из вас”?» Я сказал: «Скажи мне». Он сказал: «(Это значит, что) он будет проводить с вами молитву согласно Писанию вашего Господа и сунне вашего Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>394</td></tr><tr><td>Arabic No</td><td>155.06</td></tr><tr><td>Reference</td><td>Book 1 Hadith 299</td></tr></tbody></table></div>
 

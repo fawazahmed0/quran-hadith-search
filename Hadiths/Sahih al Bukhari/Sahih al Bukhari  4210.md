@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:On the day of Khaibar, Allah's Messenger (ﷺ) said, "Tom
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4210</td></tr><tr><td>Arabic No</td><td>4210</td></tr><tr><td>Reference</td><td>Book 64 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сахля ибн Са‘да, да будет доволен им Аллах, что в день Хайбара Посланник Аллаха ﷺ сказал: «Завтра я непременно вручу это знамя тому человеку, через которого Аллах дарует (нам) победу, который любит Аллаха и Его Посланника, и которого любят Аллах и Его Посланник». (Сахль, да будет доволен им Аллах, сказал): «(Услышав это, сподвижники Пророка ﷺ) всю ночь обсуждали, кому же из них вручат это знамя, а наутро они направились к Пророку ﷺ, и каждый из них хотел, чтобы (знамя) вручили ему, однако он спросил: “Где ‘Али ибн Аби Талиб?” Ему сказали, что у него болят глаза, и он велел позвать ‘Али к себе. Когда его привели, Посланник Аллаха ﷺ поплевал ему на глаза, обратился за него к Аллаху, и он сразу же выздоровел, будто с ним ничего и не было. Затем он дал ему знамя, а ‘Али спросил: “О Посланник Аллаха, следует ли нам сражаться с ними, пока они не станут такими же, как мы?” Тогда (Пророк ﷺ) сказал: “Иди не спеша, пока не встретишься с ними, а потом призови их к исламу и сообщи им о том, что является для них обязательным. И клянусь Аллахом, если Аллах через тебя выведет на прямой путь (хотя бы) одного человека, это будет для тебя лучше (обладания) красными верблюдами!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4210</td></tr><tr><td>Arabic No</td><td>4210</td></tr><tr><td>Reference</td><td>Book 64 Hadith 250</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported Allah's Messenger (ﷺ) as saying:A believer is like a brick f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu 'Amir Al Asy'ari] keduanya berkata; Telah menceritakan kepada kami ['Abdullah bin Idris] dan [Abu Usamah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al A'laa Abu Kuraib]; Telah menceritakan kepada kami [Ibnu Al Mubarak] dan [Ibnu Idris] serta [Abu Usamah] seluruhnya dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang mukmin yang satu dengan mukmin yang lain bagaikan satu bangunan, satu dengan yang lainnya saling mengokohkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6585</td></tr><tr><td>Arabic No</td><td>2585</td></tr><tr><td>Reference</td><td>Book 45 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6585</td></tr><tr><td>Arabic No</td><td>2585</td></tr><tr><td>Reference</td><td>Book 45 Hadith 83</td></tr></tbody></table></div>
 

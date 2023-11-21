@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadlth like this has been narrated on the authority of Asim With the same chai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Isma'il bin Ulayyah] dari [Ashim Al Ahwal] dari [Abdullah bin Sarjis] ia berkata; Ia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam melakukan suatu perjalanan, beliau berlindung kepada Allah dari kesulitan dalam perjalanan, dari kesedihan bila kembali, dari kesempitan setelah berkecukupan, dari do'a orang yang teraniyaya, dan pandangan yang buruk terhadap keluarga dan harta." Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Zuhair bin Harb] semuanya dari [Abu Mu'awiyah] -dalam riwayat lain- Dan telah menceritakan kepadaku [Hamid bin Umar] Telah menceritakan kepada kami [Abdul Wahid] keduanya dari [Ashim] dengan isnad ini, semisalnya. Hanya saja di dalam haditsnya Abdul Wahid tercantum; "Dalam harta dan keluarga." Sementara di dalam riwayat Muhammad bin Khazim, ia berkata; Beliau memulainya dari keluarga saat beliau kembali." Dan di dalam riwayat keduanya tercantum; "INNI A'UUDZU BIKA MIN WA'TSA'IS SAFAR (Aku berlindung kepada-Mu dari kelelahan dalam bepergian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3277</td></tr><tr><td>Arabic No</td><td>1343.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 481</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3277</td></tr><tr><td>Arabic No</td><td>1343.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 481</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mâlik Ibn Al-Huwayrith (que Dieu l'agrée) a dit : Alors que nous formions un g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ismail bin Ibrahim] telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Malik bin Huwairits] katanya; kami menemui Rasulullah shallallahu 'alaihi wasallam ketika kami masih remaja sebaya, lalu kami menginap di rumah beliau selama dua puluh malam. Rasulullah shallallahu 'alaihi wasallam adalah sosok yang berhati pengasih dan lembut. Beliau sadar bahwa kami telah merindukan keluarga kami, dan beliau menanyakan kepada kami mengenai orang yang telah kami tinggal dari keluarga-keluarga kami, dan kami pun memberitahukan kepada beliau. Selanjutnya beliau bersabda: "Sekarang kembalilah kepada keluarga kalian, dan diamlah bersama mereka, ajarilah mereka dan suruhlah mereka. Jika waktu shalat tiba, hendaknya salah seorang diantara kalian mengumandangkan adzan dan yang paling dewasa menjadi imam." Dan telah menceritakan kepada kami [Abu Rabi' Az Zahrani] dan [Khalaf bin Hisyam], keduanya berkata; telah menceritakan kepada kami [Hammad] dari [Ayyub] dengan sanad ini. Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Abdul Wahhab] dari [Ayyub] katanya; [Abu Qilabah] mengatakan kepadaku; telah menceritakan kepada kami [Malik bin Huwairits Abu Sulaiman], katanya; Aku pernah menemui Rasulullah shallallahu 'alaihi wasallam, ketika itu beliau berada di tengah-tengah orang dan kami waktu itu masih remaja sebaya, lalu keduanya mengisahkan hadis seperti hadis Ibnu 'Ulayyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>674.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 368</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Малик ибн аль-Хувайрис сказал: «(В своё время) мы пришли к Посланнику Аллаха ﷺ, а все мы были молодыми людьми примерно (одного возраста). И мы прожили у него двадцать дней, а Посланник Аллаха ﷺ был добр и мягок с нами, предположив же, что мы стали тосковать по своим семьям, он спросил нас о том, кто остался у нас (дома), и мы рассказали ему (об этом). Тогда он сказал: “Возвращайтесь к своим семьям, живите с ними, учите их (религии) и велите им творить (благое). Когда настанет время молитвы, пусть один из вас призовёт вас к ней, и пусть самый старший из вас руководит вашей молитвой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>674.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 368</td></tr></tbody></table></div>
 

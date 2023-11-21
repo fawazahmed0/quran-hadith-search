@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Yahya ibn Abdullah ibn Buhayr said that he was informed by one who had heard Far
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makhlad bin Khalid] serta [Abbas Al 'Anbari] mereka berkata; telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Yahya bin Abdullah bin Bahir] ia berkata; telah mengabarkan kepadaku [orang yang telah] mendengar [Farwah bin Musaik] berkata; aku katakan; wahai Rasulullah, lahan kami yang bernama tanah Abyan adalah tanah yang memiliki tanaman serta subur, tanah ladang kami, sesungguhnya tanah tersebut berwabah... -atau dia mengatakan; wabahnya keras- kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Tinggalkan tanah tersebut, sesungguhnya bersinggungan dengan penyakit adalah kebinasaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3923</td></tr><tr><td>Arabic No</td><td>3923</td></tr><tr><td>Reference</td><td>Book 30 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Фарвы ибн Мусайка: «Я сказал: “О Посланник Аллаха, есть у нас земля Абйан, в которой мы живём и от которой питаемся, однако она очень зачумлённая”. Пророк ﷺ сказал: “Оставь её, ибо соприкосновение с тем, что может повредить, погибель”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3923</td></tr><tr><td>Arabic No</td><td>3923</td></tr><tr><td>Reference</td><td>Book 30 Hadith 20</td></tr></tbody></table></div>
 

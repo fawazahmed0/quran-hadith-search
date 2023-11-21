@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Salamah said “I asked A’ishah about the dower given by the Apostle of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Abdul Aziz bin Muhammad], telah menceritakan kepada kami [Yazid bin Al Had] dari [Muhammad bin Ibrahim] dari [Abu Salamah]. Ia berkata; aku bertanya kepada [Aisyah] radliallahu 'anha mengenai mahar Nabi shallallahu 'alaihi wasallam, ia berkata; dua belas uqiyah dan nusy. Kemudian aku katakan; apakah nusy itu? Ia berkata; setengah uqiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1426)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Arabic No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 12 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Салямы: «Я спросил ‘Аишу, да будет доволен ею Аллах, о размере брачного дара, который Пророк ﷺ давал своим жёнам, и она ответила: “Двенадцать окий и нашш”. Я спросил: “А что такое нашш?” Она ответила: “Половина окии”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1426)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Arabic No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 12 Hadith 60</td></tr></tbody></table></div>
 

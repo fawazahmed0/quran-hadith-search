@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar Ibn Al-khattâb (que Dieu l'agrée) a dit : On amena au Prophète (paix et 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Hasan bin 'Ali Al Hulwani] dan [Muhammad bin Sahl At Tamimi] -dan lafadh ini milik Hasan-; telah menceritakan kepada kami [Ibnu Abu Maryam] telah menceritakan kepada kami [Abu Ghassan] telah menceritakan kepadaku [Zaid bin Aslam] dari [bapaknya] dari ['Umar bin Al Khaththab] bahwasanya dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah memperoleh beberapa orang tawanan perang. Tiba-tiba ada seorang perempuan dari mereka mencari bayinya dalam kelompok tawanan itu, maka ia mengambil dan membuainya serta menyusuinya. Melihat hal itu Rasulullah shallallahu 'alaihi wasallam bertanya kepada kami: 'Menurut kalian, apakah perempuan itu tega melemparkan bayinya ke dalam api? ' Kami menjawab; 'Demi Allah, sesungguhnya ia tidak akan tega melemparkan anaknya ke dalam api selama ia masih sanggup menghindarkannya dari api tersebut.' Lalu Rasulullah bersabda: 'Sungguh, kasih sayang Allah terhadap hamba-Nya melebihi kasih sayang perempuan itu terhadap anaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6978</td></tr><tr><td>Arabic No</td><td>2754</td></tr><tr><td>Reference</td><td>Book 50 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «(В своё время) к Посланнику Аллаха ﷺ привели пленных, среди которых была одна женщина, искавшая (кого-то), и когда она находила среди пленных какого-нибудь ребёнка, то брала его, прижимала к себе и кормила грудью. (Увидев это,) Посланник Аллаха ﷺ спросил нас: “Как вы думаете, (способна ли) эта (женщина) бросить в огонь своего ребёнка?” Мы сказали: “Клянёмся Аллахом, нет, (на это) она не способна!” Тогда он сказал: “А Аллах жалеет Своих рабов больше, чем эта (женщина жалеет) своего ребёнка!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6978</td></tr><tr><td>Arabic No</td><td>2754</td></tr><tr><td>Reference</td><td>Book 50 Hadith 26</td></tr></tbody></table></div>
 

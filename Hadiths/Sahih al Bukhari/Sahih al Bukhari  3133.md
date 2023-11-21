@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zahdam:Once we were in the house of Abu Musa who presented a meal conta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin 'Abdul Wahhab] telah bercerita kepada kami [Hammad] telah bercerita kepada kami [Ayyub] dari [Abu Qalabah] berkata telah bercerita kepadaku [Al Qasim bin 'Ashim Al Kulaibiy], hadits Al Qasim aku menghafalnya dari [Zahdam] berkata; "Kami pernah berada di sisi [Abu Musa] ketika dia diberikan seekor ayam jantan dan saat itu di sampingnya ada seorang dari suku Bani Taymillah yang berkulit merah nampak sebagai orang asing (non 'Arab). Abu Musa mengundangnya untuk makan. Zahdam berkata; "Sungguh aku lihat dia memakan sesuatu sehingga aku merasa jijik hingga aku bersumpah untuk tidak ikut makan". Abu Musa berkata; "Kemarilah karena aku akan bercerita kepada kalian tentang masalah ini. Aku pernah menemui Nabi Shallallahu'alaihiwasallam bersama rombongan Al Asy'ariyin untuk meminta kepada Beliau agar menyertakan kami (dalam perang dan bagian ghanimah), maka Beliau berkata: "Demi Allah, aku tidak dapat menyertakan kalian dan akupun tidak punya kendaraan yang dapat menyertakan kalian". Kemudian Rasulullah Shallallahu'alaiwasallam diberikan ghanimah berupa unta lalu Beliau bertanya kepada kami: "Mana rombongan Al Asy'ariyin tadi?". Maka Beliau memberikan kami sejumlah unta putih yang paling baik. Ketika kami tengah bertolak pulang, kami berkata; "Apa yang telah kita lakukan ini tidak berkah". Akhirnya kami kembali kepada Beliau lalu kami katakan; "Kami telah meminta kepada Baginda agar menyertakan kami dan Baginda telah bersumpah untuk tidak akan menyertakan kami, apakah Baginda lupa?". Beliau menjawab: "Bukan aku yang menyertakan kalian tetapi Allah dan sungguh, demi Allah, aku insya Allah tidaklah aku bersumpah lalu aku lihat ada sesuatu yang lebih baik darinya melainkan aku akan mengambil yang lebih baik itu dan kubayar kafarat sumpahku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 57 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Захдам сказал: «(Однажды), когда мы были с Абу Мусой, ему принесли (пищу), - и он упомянул о курице. Рядом с ним сидел чернокожий мужчина из племени бану таймуллах, похожий на (одного из) вольноотпущенников. (Абу Муса) подозвал его отведать пищу, на что он сказал: “Воистину, я видел, как (эта курица) питалась чем-то (грязным), и я брезгаю (кушать) её, поэтому я поклялся не есть её”. (Абу Муса) сказал (ему): “Подойди сюда, и я непременно расскажу тебе (что-то) на этот счёт. Воистину, (однажды) я пошёл к Пророку ﷺ в составе группы некоторых людей из аш‘аритов, прося его снабдить нас (верховыми животными)”. Он же сказал: “Клянусь Аллахом, не стану я снабжать вас! (Кроме прочего,) нет у меня того, чем бы снабдить вас!” Затем к Посланнику Аллаха ﷺ привели верблюдов (, взятых в качестве) добычи, и он спросил о нас сказав: “Где (та) группа аш‘аритов?” И он повелел (выделить) нам пять верблюдов с белыми горбами. Когда мы ушли, мы стали говорить: “Что же мы наделали? Нам не будет дано благословение”. Мы вернулись к нему и сказали: “Поистине, мы попросили тебя снабдить нас, а ты поклялся, что не будешь снабжать нас, разве ты забыл об этом?” На что он ответил: “Не я снабдил вас, а Аллах снабдил вас! Поистине, я клянусь Аллахом, если пожелает Аллах… Какую бы клятву я ни дал, и вижу нечто лучшее, я делаю то, что мне представляется лучшим, и искупаю (нарушенную мною клятву)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 57 Hadith 41</td></tr></tbody></table></div>
 

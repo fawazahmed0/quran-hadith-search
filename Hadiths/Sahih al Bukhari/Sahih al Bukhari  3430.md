@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Malik bin Sasaa:That the Prophet (ﷺ) talked to them about the night o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hudbah bin Khalid] telah bercerita kepada kami [Hammam bin Yahya] telah bercerita kepada kami [Qatadah] dari [Anas bin Malik] dari [Malik bin Sha'sha'ah] bahwa Nabi Allah shallallahu 'alaihi wasallam bercerita kepada mereka tentang malam Beliau diperjalankan (isra'), ketika itu beliau diangkat dan sampai ke lapis langit kedua lalu meminta ijin dibukakan pintu: "Ada yang bertanya; "Siapa ini?". Dijawab; "Jibril". Ditanya lagi; "Siapa orang yang bersamamu?". Dijawab; "Muhammad". Ditanya lagi; "Apakah dia telah diutus?". Dijawab; "Benar". Setelah aku selesai dari pertanyaan di pintu itu, aku mendapatkan Nabi Yahya dan 'isa 'alaihimas salam yang keduanya adalah saudara sepupu (dari pihak ibu). Dia (jibril) berkata; "Ini adalah Nabi Yahya dan 'isa, berilah salam kepada keduanya". Maka kuberi salam dan keduanya membalas salamku lalu keduanya berkata; "Selamat datang, wahai saudara yang shalih dan Nabi yang shalih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3430</td></tr><tr><td>Arabic No</td><td>3430</td></tr><tr><td>Reference</td><td>Book 60 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Малика ибн Са‘са‘а, да будет доволен Аллах им и его отцом, что, рассказывая о Ночи вознесения, Пророк Аллаха ﷺ сказал: «Затем Джибриль вознёсся (со мной) ко второму небу и его спросили: “Кто это?” Он сказал: “Джибриль”. (Его) спросили: “А кто с тобой?” Он ответил: “Мухаммад”. (Его) спросили: “А за ним посылали?” (Джибриль) сказал: “Да”. Войдя, я увидел Яхью и ‘Ису, которые являются двоюродными братьями. Джибриль сказал: “Это Яхья и ‘Иса, поприветствуй же их!” Я поприветствовал их, а они ответили (на приветствие), а затем сказали: “Добро пожаловать праведному брату и праведному пророку!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3430</td></tr><tr><td>Arabic No</td><td>3430</td></tr><tr><td>Reference</td><td>Book 60 Hadith 101</td></tr></tbody></table></div>
 

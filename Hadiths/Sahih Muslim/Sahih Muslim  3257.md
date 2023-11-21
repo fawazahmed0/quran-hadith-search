@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported:Allah's Messenger (ﷺ) address
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Ar Rabi' bin Muslim Al Qarasyi] dari [Muhammad bin Ziyad] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam menyampaikan khutbah kepada kami seraya bersabda: "Wahai sekalian manusia, Allah telah mewajibkan atas kalian untuk menunaikan ibadah haji. Karena itu, tunaikanlah ibadah haji." Kemudian seorang laki-laki bertanya, "Apakah setiap tahun ya Rasulullah?" beliau terdiam beberapa saat, hingga laki-laki itu mengulanginya hingga tiga kali. Maka beliau pun bersabda: "Sekiranya aku menjawab, 'Ya' niscaya akan menjadi kewajiban setiap tahun dan kalian tidak akan sanggup melaksanakannya. Karena itu, biarkanlah apa adanya masalah yang kutinggalkan untuk kalian. Sesungguhnya orang-orang yang sebelum kamu mendapat celaka karena mereka banyak tanya dan suka mendebat para Nabi mereka. karena itu, bila kuperintahkan mengerjakan sesuatu, laksanakanlah sebisa-bisanya, dan apabila kularang kalian mengerjakan sesuatu, maka hentikanlah segera
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3257</td></tr><tr><td>Arabic No</td><td>1337</td></tr><tr><td>Reference</td><td>Book 15 Hadith 461</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: (Однажды) Посланник Аллаха ﷺ обратился к нам с проповедью (, в которой среди прочего) сказал: «О люди, Аллах вменил вам в обязанность хадж, так совершайте же его!» Один человек спросил: «Каждый год, о Посланник Аллаха?», однако он хранил молчание, пока тот не (повторил свой вопрос) трижды, и тогда Посланник Аллаха ﷺ сказал: «Если я скажу: “Да”, это непременно станет (для вас) обязательным, но вы, ведь не сможете (делать этого)!» А потом он сказал: «Избавьте меня (от расспросов о том, относительно) чего я с вами (не говорил), ибо, поистине, жившие до вас погибли из-за того, что задавали множество вопросов и не соглашались со своими пророками! Когда я велю вам что-нибудь, (просто) делайте из этого то, что вам по силам, а когда запрещаю вам что-нибудь, отказывайтесь от этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3257</td></tr><tr><td>Arabic No</td><td>1337</td></tr><tr><td>Reference</td><td>Book 15 Hadith 461</td></tr></tbody></table></div>
 

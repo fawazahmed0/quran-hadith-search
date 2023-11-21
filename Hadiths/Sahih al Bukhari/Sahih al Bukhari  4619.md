@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I heard 'Umar while he was on the pulpit of the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Handzali] Telah mengabarkan kepada kami ['Isa] dan [Ibnu Idris] dari [Abu Hayyan] dari [Asy Sya'bi] dari [Ibnu 'Umar] dia berkata; Aku mendengar ['Umar radliallahu 'anhu] berkhutbah di atas mimbar Nabi shallallahu 'alaihi wasallam, ia mengatakan; Amma ba'du, "Wahai manusia! Ketahuilah, sesungguhnya khamer telah diharamkan. Dan ia terbuat dari lima macam (buah); anggur, kurma, madu, terigu, dan gandum. Khamer adalah sesuatu yang menutupi akal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>4619</td></tr><tr><td>Reference</td><td>Book 65 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен им Аллах, сказал: «Я слышал, как будучи на минбаре Пророка ﷺ ‘Умар, да будет доволен им Аллах, говорил: “А затем, о люди, поистине, запрет вина был ниспослан в то время, когда его делали из пяти вещей: из винограда, фиников, мёда, пшеницы и ячменя, вином же /хамр/ является то, что окутывает разум”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>4619</td></tr><tr><td>Reference</td><td>Book 65 Hadith 141</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yahya bin 'Is-haq:I heard Anas saying, "We traveled with the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada kami ['Abdul Warits] berkata, telah menceritakan kepada kami [Yahya bin Abu Ishaq] berkata; Aku mendengar [Anas radliallahu 'anhu] berkata: "Kami pernah bepergian bersama Nabi shallallahu 'alaihi wasallam dari kota Madinah menuju kota Makkah, selama kepergian itu Beliau melaksanakan shalat dua raka'at dua raka'at hingga kami kembali ke Madinah. Aku tanyakan: 'Berapa lama kalian menetap di Makkah?" Dia menjawab: "Kami menetap disana selama sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1081</td></tr><tr><td>Arabic No</td><td>1081</td></tr><tr><td>Reference</td><td>Book 18 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Йахйа бин Исхак, да помилует его Аллах, сказал: «Услышав слова Анаса, да будет доволен им Аллах: “Вместе с Пророком ﷺ мы двинулись из Медины в Мекку, и (в течение всего времени пребывания в пути) вплоть до возвращения обратно в Медину его намазы состояли из двух рак‘атов”, я спросил: “А пришлось ли вам провести какое-то время в самой Мекке?” Он ответил: “Мы прожили там десять дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1081</td></tr><tr><td>Arabic No</td><td>1081</td></tr><tr><td>Reference</td><td>Book 18 Hadith 2</td></tr></tbody></table></div>
 

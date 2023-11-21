@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:Allah's Messenger (ﷺ) said, "I am only a human being, and y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Hisyam] dari [ayahnya] dari [Zainab binti Abu Salamah] dari [Ummu Salamah] radliallahu 'anha, Rasulullah Shallallahu'alaihiwasallam bersabda; "Saya hanyalah manusia biasa, dan kalian seringkali mengadukan sengketa kepadaku, bisa jadi sebagian diantara kalian lebih pandai bersilat lidah daripada lainnya sehingga aku putuskan seperti yang kudengar, maka barangsiapa yang kuputuskan menang dengan menganiaya hak saudaranya, janganlah ia mengambilnya, sebab sama artinya aku ambilkan sundutan api baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7169</td></tr><tr><td>Arabic No</td><td>7169</td></tr><tr><td>Reference</td><td>Book 93 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умм Саламы, да будет доволен ею Аллах, что однажды Посланник Аллаха ﷺ сказал: «Поистине, я — только человек, и вы приходите ко мне (со своими) спорами. И может оказаться так, что кто-нибудь из вас будет более красноречив, чем другой, и я вынесу решение в его пользу на основании услышанного. Однако если я (по ошибке) решу отдать ему то, что по праву принадлежит его брату, то пусть он не берет, ибо это будет не чем иным, как частью (пламени) ада»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7169</td></tr><tr><td>Arabic No</td><td>7169</td></tr><tr><td>Reference</td><td>Book 93 Hadith 33</td></tr></tbody></table></div>
 

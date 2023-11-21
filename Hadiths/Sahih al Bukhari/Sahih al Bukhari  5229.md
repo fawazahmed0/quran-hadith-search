@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I never felt so jealous of any wife of Allah's Messenger (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Abu Raja'] Telah menceritakan kepada kami [An Nadlr] dari [Hisyam] ia berkata; Telah mengabarkan kepadaku [bapakku] dari [Aisyah] bahwa ia pernah berkata, "Aku tidak pernah merasa cemburu terhadap isteri-isteri Rasulullah shallallahu 'alaihi wasallam, melebihi rasa cemburuku kepada Khadijah, yang demikian karena begitu seringnya Rasulullah shallallahu 'alaihi wasallam menyebut-nyebut dan memuji kebaikannya. Dan sesungguhnya telah diwahyukan kepada Rasulullah shallallahu 'alaihi wasallam untuk memberi kabar gembira kepadanya dengan rumah yang dipersembahkan untuknya di dalam surga yang terbuat dari marmer
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5229</td></tr><tr><td>Arabic No</td><td>5229</td></tr><tr><td>Reference</td><td>Book 67 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Ни к кому из жён Посланника Аллаха ﷺ я не ревновала столь сильно, как к Хадидже, из-за того, что Посланник Аллаха ﷺ часто вспоминал о ней и хвалил её. И Посланнику Аллаха ﷺ было велено обрадовать её вестью о доме из полого жемчуга (, который ждёт её) в Раю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5229</td></tr><tr><td>Arabic No</td><td>5229</td></tr><tr><td>Reference</td><td>Book 67 Hadith 162</td></tr></tbody></table></div>
 

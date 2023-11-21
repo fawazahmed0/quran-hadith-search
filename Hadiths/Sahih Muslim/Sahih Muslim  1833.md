@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa b. Zubair reported that 'A'isha, the wife of the Messenger of Allah (ﷺ), 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] dan [Muhammad bin Salamah Al Muradi] ia berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] ia berkata, telah mengabarkan kepadaku [Urwah bin Zubair] bahwa [Aisyah] isteri Nabi shallallahu 'alaihi wasallam telah mengabarkan kepadanya bahwa Al Haula'a binti Tuwait bin Habib bin Asad bin Abdul 'Uzza melewatinya, sementara di sisinya ada Rasulullah shallallahu 'alaihi wasallam. Aisyah pun berkata; Saya berkata, "Wanita ini adalah Al Haula' binti Tuwait, orang-orang menganggap bahwa ia tidak pernah tidur malam." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Benarkan ia tidak tidur malam? Hendaklah kalian beramal sesuai dengan kemampuan kalian, karena demi Allah, Allah tidak akan bosan hingga kalian sendiri yang bosan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>785.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 261</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов жены Пророка ﷺ ‘Аиши, что однажды, когда у неё находился Посланник Аллаха ﷺ, мимо прошла аль-Хауля бинт Тувайт ибн Хубайб ибн Асад ибн ‘Абд-аль-‘Узза. (‘Аиша сказала): «Я сказала: “Это аль-Хауля бинт Тувайт, о которой говорят, что она не спит по ночам”. (Услышав мои слова), Посланник Аллаха ﷺ воскликнул: “Не спит по ночам?! Делайте то, что вам по силам, ибо, клянусь Аллахом, Аллах не утомится, пока сами вы не утомитесь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>785.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 261</td></tr></tbody></table></div>
 

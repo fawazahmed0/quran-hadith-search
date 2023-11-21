@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said, "(At bedtime) cover t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Hammad] dari [Katsir yaitu Ibnu Syindzir] dari ['Atha'] dari [Jabir bin Abdullah] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tutuplah tempat air kalian, pintu rumah kalian, dan matikanlah lampu kalian, karena binatang-binatang berbahaya bila datang dapat menarik sumbu lampu sehingga dapat berakibat kebakaran yang menyebabkan terbunuhnya para penghuni rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6295</td></tr><tr><td>Arabic No</td><td>6295</td></tr><tr><td>Reference</td><td>Book 79 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Прикрывайте сосуды, запирайте двери, и гасите светильники (перед сном), ведь мыши могут утащить фитиль и сжечь обитателей дома»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6295</td></tr><tr><td>Arabic No</td><td>6295</td></tr><tr><td>Reference</td><td>Book 79 Hadith 67</td></tr></tbody></table></div>
 

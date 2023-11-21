@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that there was consternation in Medina. The Messenger of Allah (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], telah menceritakan kepada kami [Waki'] dari [Syu'bah] dari [Qatadah] dari [Anas] dia berkata; "Suatu ketika (penduduk) Madinah dikejutkan oleh suatu suara. Maka Nabi shallallahu 'alaihi wasallam bergegas meminjam kuda Abu Thalhah yang dijuluki 'Mandub'. Beliau lalu menungganginya. Setelah itu beliau bersabda: "Kami tidak melihat sesuatu yang mengejutkan, melainkan kami mendapati kuda ini sedemikian kencang larinya, bagaikan ombak menggulung lautan." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far]. (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Yahya bin Habib] telah menceritakan kepada kami [Kholid yaitu Ibnu Harits] dia berkata; telah menceritakan kepada kami [Syu'bah] melalui jalur ini. Dan di dalam Hadits Ibnu Ja'far disebutkan; Anas berkata; 'Kuda milik kami', -dia tidak menyebutkan kuda milik Abu Thalhah.- Sedangkan di dalam Hadits Khalid disebutkan; dari Qatadah Aku mendengar Anas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6007</td></tr><tr><td>Arabic No</td><td>2307.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6007</td></tr><tr><td>Arabic No</td><td>2307.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 66</td></tr></tbody></table></div>
 

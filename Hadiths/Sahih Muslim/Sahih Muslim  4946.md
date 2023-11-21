@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Ibn Amir who said:I heard the Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru bin Al Harits] dari [Abu Ali Tsumamah bin Syufayi] bahwa dia mendengar ['Uqbah bin 'Amir] berkata, "Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam menyampaikan ketika beliau di atas mimbar: '(Dan siapkanlah untuk menghadapi mereka kekuatan apa saja yang kamu sanggupi) ' (Qs. Al Anfaal: 60), ketahuilah sesungguhnya kekuatan itu adalah melempar, ketahuilah sesungguhnya kekuatan itu adalah melempar, ketahuilah sesungguhnya kekuatan itu adalah melempar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4946</td></tr><tr><td>Arabic No</td><td>1917</td></tr><tr><td>Reference</td><td>Book 33 Hadith 241</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4946</td></tr><tr><td>Arabic No</td><td>1917</td></tr><tr><td>Reference</td><td>Book 33 Hadith 241</td></tr></tbody></table></div>
 

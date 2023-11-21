@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar reported that Allah's Messenger (ﷺ) went along with him in th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7357</td></tr><tr><td>Arabic No</td><td>2930.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Шихаб (аз-Зухри) передал со слов Салима ибн ‘Абдуллах о том, что ‘Абдуллах ибн ‘Умар сказал: «(Однажды) Посланник Аллаха ﷺ и ещё несколько человек, среди которых был и ‘Умар ибн аль-Хаттаб, да будет доволен Аллах ими обоими, чтобы найти Ибн Сайяда, который в то время был близок к совершеннолетию. (Они уви­дели, что тот) играет с другими мальчиками возле укрепления (рода) бану магъаля …», и далее он передал хадис похожий на хадис Юнуса, пока не дошёл до хадиса ‘Умара ибн Сабита, и в хадисе от Я‘къуба он сказал: «Убайй сказал то есть при его словах: “Не побес­покой она его, (всё) было бы ясно” “Если бы его не побес­покоила мать, выяснилось бы его дело”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7357</td></tr><tr><td>Arabic No</td><td>2930.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 119</td></tr></tbody></table></div>
 

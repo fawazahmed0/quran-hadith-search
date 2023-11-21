@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdallâh Ibn Zayd Ibn 'Asim Al-Ansâri (que Dieu l'agrée) transmet que quelque
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin ash-Shabbah] telah menceritakan kepada kami [Khalid bin Abdullah] dari [Amru bin Yahya bin Umarah] dari [bapaknya] dari [Abdullah bin Zaid bin 'Ashim al-Anshari] salah seorangh sahabat, ia mengatakan bahwa ia pernha ditanya, 'Tunjukkan kepada kami cara Rasulullah shallallahu 'alaihi wasallam berwudlu! ' Abdullah lalu minta satu wadah air, ia lalu menuangkan sedikit air ke atas kedua tapak tangan dan membasuhnya sebanyak tiga kali. Kemudian dia memasukkan tangan ke dalam wadah untuk menciduk air (dengan tangannya) dan berkumur-kumur serta memasukkan air ke dalam hidung dengan air yang sama sebanyak tiga kali dari satu telapak tangan. Kemudian dia menciduk air sekali lagi lalu membasuh muka sebanyak tiga kali. Selepas itu, dia menciduk lagi dengan tangannya lalu membasuh tangan hingga ke siku dua kali-dua kali. Kemudian dia menciduk lagi lalu mengusap kepala dengan cara menyapu tangannya dari arah depan kepala ke arah belakang, kemudian dia membasuh kedua kakinya hingga ke mata kaki. Selepas itu, dia berkata, 'Beginilah cara Rasulullah shallallahu 'alaihi wasallam wudlu'." Dan telah menceritakan kepadaku [al-Qasim bin Zakariya] telah menceritakan kepada kami [Khalid bin Makhlad] dari [Sulaiman] dia adalah Ibnu Bilal, dari [Amru bin Yahya] dengan isnad ini hadits, seperti hadits tersebut, dan tidak menyebutkan kata 'al-Ka'bain'." Dan telah menceritakan kepadaku [Ishaq bin Musa al-Anshari] telah menceritakan kepada kami [Ma'n] telah menceritakan kepada kami [Malik bin Anas] dari [Amru bin Yahya] dengan isnad ini, dan dia menyebutkan, "Abdullah berkumur dan beristintsar sebanyak tiga kali, ' dan tidak mengatakan 'dari satu tangan'." Dan dia menambahkan setelah perkataannya, "Lalu dia menyapunya dari depan dan belakang, dan memulainya dari arah depan kepalanya. Kemudian dia mulai dengan keduanya kepada jambulnya, kemudian mengembalikannya hingga kembali ke tampat semula yang mana dia memulai darinya. Lalu dia membasuh kedua kakinya." Telah menceritakan kepada kami [Abdurrahman bin Bisyr al-'Abdi] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Amru bin Yahya] dengan semisal isnad mereka, lalu menceritakan hadits tersebut. Dan dia menyebutkan di dalamnya, "Lalu dia berkumur-kumur dan beristinsaq (memasukkan air ke dalam hidung) lalu beristintsar (mengelurkan air dari dalam hidung) tiga kali cidukan." Dan dia juga menyebutkan, "Lalu dia mengusap kepalanya, lalu memulainya dengan cara dari depan ke belakang satu kali." Bahz berkata, "Wuhaib mendektekan hadits ini kepadaku." Dan Wuhaib berkata, "Amru bin Yahya mendektekan hadits ini kepadaku dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>555</td></tr><tr><td>Arabic No</td><td>235.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается ‘Абдуллах ибн Зайд ибн ‘Асим аль-Ансари, который был сподвижником передал, что (как-то раз) его попросили: «Соверши для нас омовение так же, как совершал его Посланник Аллаха ﷺ. Тогда он велел принести сосуд (с водой, когда же его принесли), слил воду себе на руки и трижды вымыл их, потом опустил руку (в сосуд) и зачерпнул воду, а потом прополоскал рот и промыл нос этой водой, (набирая её) из одной ладони, и (всё) это он проделал трижды. После этого он снова зачерпнул рукой (воду из сосуда) и трижды омыл лицо, потом снова зачерпнул воду и по два раза омыл руки до локтей, потом снова зачерпнул воду и протёр руками голову, проведя ими (ото лба до затылка) и обратно, потом омыл ноги до щиколоток, а потом сказал: «Так совершал омовение Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>555</td></tr><tr><td>Arabic No</td><td>235.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 22</td></tr></tbody></table></div>
 

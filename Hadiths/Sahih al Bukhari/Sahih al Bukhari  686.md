@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Itban bin Malik Al-Ansari:The Prophet (came to my house and) asked per
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Asad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Mahmud bin Ar Rabi'] berkata, "Aku mendengar ['Itban bin Malik Al Anshari] berkata, "Nabi shallallahu 'alaihi wasallam meminta izin masuk ke rumahku, lalu aku izinkan. Beliau kemudian bersabda: "Mana tempat yang kau sukai dari rumahmu hingga aku bisa shalat di sana?" Maka aku memberi isyarat kepada satu tempat yang aku sukai. Beliau lalu berdiri shalat dan kami berbaris mengikuti di belakang beliau, setelah salam beliau kamipun memberi salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>686</td></tr><tr><td>Arabic No</td><td>686</td></tr><tr><td>Reference</td><td>Book 10 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал:\n— Сообщил мне Махмуд ибн ар-Раби‘, который сказал:\n— Я слышал, как ‘Итбан ибн Малик аль-Ансари сказал: «(Однажды) Пророк ﷺ попросил разрешения войти (ко мне) и я позволил ему и тогда (Посланник Аллаха ﷺ) спросил: “Где в твоём доме ты хочешь, чтобы я помолился?” И я показал ему на то место, которое я хотел, после чего он стал (там), а мы выстроились в ряд за ним. Затем (в конце намазе) он произнёс слова приветствия и тоже самое сделали мы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>686</td></tr><tr><td>Arabic No</td><td>686</td></tr><tr><td>Reference</td><td>Book 10 Hadith 80</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "(The Prophet) Abraham migrat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah menceritakan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Ibrahim berhijrah bersama Sarah, kemudian mereka memasuki suatu desa yang dipimpin oleh seorang raja atau diktator. Raja mengutus seorang ajudan untuk menemui Ibrahim; 'Panggil Ibrahim untuk menghadapku bersama isterinya', lantas sang ajudan membawa isterinya kepada sang raja. Ketika raja berdiri menghadap Sarah, Sarah lantas berwudhu dan shalat dan memanjatkan doa; 'Ya Allah, jika aku beriman terhadap-Mu dan rasul-Mu, maka janganlah Engkau kuasakan seorang kafir kepada kami', ketika itu pula kaki sang raja terbenam ke dalam bumi hingga meronta-ronta dengan kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6950</td></tr><tr><td>Arabic No</td><td>6950</td></tr><tr><td>Reference</td><td>Book 89 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «(Когда) Ибрахим переселялся вместе с Сарой, он вошёл с ней в (какое-то) селение(, где находился) один из царей (или: один из тиранов), который послал Ибрахиму послание, приказав ему отправить к нему Сару. После этого он отправил её к нему. Когда (этот царь) подошёл к ней, она поднялась (со своего места), совершила омовение и молитву и сказала: “О Аллах, если я веровала в Тебя и Твоего посланника, не давай надо мной власти этому неверному!” — и тогда он захрипел и ноги его стали дёргаться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6950</td></tr><tr><td>Arabic No</td><td>6950</td></tr><tr><td>Reference</td><td>Book 89 Hadith 11</td></tr></tbody></table></div>
 

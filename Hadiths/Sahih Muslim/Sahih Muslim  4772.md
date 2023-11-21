@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami Ibrahim dari Muslim telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Syababah] telah menceritakan kepadaku [Warqa'] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Seorang imam itu ibarat perisai, seseorang berperang di belakangnya (mendukung) dan berlindung (dari musuh) dengan (kekuasaan) nya. Jika seorang imam (pemimpin) memerintahkan supaya takwa kepada Allah 'azza wajalla dan berlaku adil, maka dia (imam) akan mendapatkan pahala karenanya, dan jika dia (imam) memerintahkan selain itu, maka ia akan mendapatkan siksa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4772</td></tr><tr><td>Arabic No</td><td>1841</td></tr><tr><td>Reference</td><td>Book 33 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4772</td></tr><tr><td>Arabic No</td><td>1841</td></tr><tr><td>Reference</td><td>Book 33 Hadith 70</td></tr></tbody></table></div>
 

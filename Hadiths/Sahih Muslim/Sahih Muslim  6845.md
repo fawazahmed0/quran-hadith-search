@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin 'Ubaidullah Abu Ayyub Al Ghailani] telah menceritakan kepada kami [Abu 'Amir Al 'Aqdi] telah menceritakan kepada kami ['Umar bin Abu Zaidah] dari [Abu Ishaq] dari ['Amru bin Maimun] dia berkata; "Barangsiapa yang mengucapkan Laa ilaaha ilIallaahu wahdah, Iaa syariikalahu lahul mulku wa lahul hamdu wa huwa 'alaa kulli syai'in qadiir' (Tiada tuhan selain Allah, Dialah Tuhan Yang Maha Esa. Tidak ada sekutu bagi-Nya, Dialah yang memiliki alam semesta dan segala puji hanya bagi-Nya. Allah adalah Maha Kuasa atas segaIa sesuatu) sebanyak sepuluh kali, maka baginya pahala sebagaimana memerdekakan empat orang dari keturunan ismail. Dan berkata [Sulaiman] telah menceritakan kepada kami [Abu 'Amir] telah menceritakan kepada kami ['Umar] telah menceritakan kepada kami ['Abdullah bin Abu As Safar] dari [Asy Sya'bi] dari [Rabi' bin Khutsaim] dengan hadits tersebut, dia berkata; maka aku bertanya kepada Ar Rabi', 'dari mana kamu mendengarnya? ' Dia menjawab; 'Dari ['Amru bin Maimun], perawi berkata; maka aku mendatangi 'Amru bin Maimun, dan bertanya; 'dari mana engkau mendengar hadits itu? ' dia menjawab; dari [Ibnu Abu Laila], perawi berkata; maka aku menemui Ibnu Abu Laila dan aku tanyakan kepadanya; 'dari mana engkau mendengar hadits itu? ' dia menjawab dari [Abu Ayyub Al Anshari] ia menceritakannya dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6845</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6845</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

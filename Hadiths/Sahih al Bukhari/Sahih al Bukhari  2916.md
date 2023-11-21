@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) died while his (iron) armor was mortgage
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha] berkata; Ketika Rasulullah shallallahu 'alaihi wasallam wafat baju perang Beliau masih tergadai kepada seorang Yahudi seharga tiga puluh sho' gandum". Dan berkata [Ya'laa] telah bercerita kepada kami [Al A'masy]: "Baju perang yang terbuat dari besi". Dan berkata [Mu'allaa] telah bercerita kepada kami ['Abdul Wahid] telah bercerita kepada kami [Al A'masy] dan berkata: "Beliau shallallahu 'alaihi wasallam menggadaikan baju perangnya yang terbuat dari besi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2916</td></tr><tr><td>Arabic No</td><td>2916</td></tr><tr><td>Reference</td><td>Book 56 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Когда) Посланник Аллаха ﷺ скончался, его (железная) кольчуга была заложена у (одного) иудея за тридцать са‘ ячменя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2916</td></tr><tr><td>Arabic No</td><td>2916</td></tr><tr><td>Reference</td><td>Book 56 Hadith 129</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I and the Messenger of Allah (ﷺ) took a bath from one vessel w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Ashim al-Ahwal] dari [Mu'adzah] dari [Aisyah] dia berkata, "Saya mandi bersama Rasulullah shallallahu 'alaihi wasallam pada satu bejana, lalu beliau segera mendekatiku hingga aku berkata, 'Tinggalkanlah aku, tinggalkanlah aku.' Dia berkata lagi, 'Sedangkan keduanya dalam keadaan junub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>321.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Я совершала полное омовение вместе с Посланником Аллаха ﷺ, (черпая воду) из одного и того же сосуда, стоявшего между нами, и он опережал меня, а я говорила: “Оставь мне! Оставь мне!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>321.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 54</td></tr></tbody></table></div>
 

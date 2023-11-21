@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) having said:By Him in Whose Hand is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami ['Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Ja'far Al Jazari] dari [Yazid bin Al Asham] dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Demi Dzat yang jiwaku di tangannya, seandainya kamu sekalian tidak berbuat dosa sama sekali, niscaya Allah akan memusnahkan kalian. Setelah itu, Allah akan mengganti kalian dengan umat yang pernah berdosa. Kemudian mereka akan memohon ampunan kepada Allah dan Allah pun pasti akan mengampuni mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6965</td></tr><tr><td>Arabic No</td><td>2749</td></tr><tr><td>Reference</td><td>Book 50 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Клянусь Тем, в чьей длани душа моя, если бы вы не грешили, Аллах обязательно истребил бы вас и привёл таких людей, которые стали бы грешить и просить Аллаха о прощении, а Он стал бы прощать их!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6965</td></tr><tr><td>Arabic No</td><td>2749</td></tr><tr><td>Reference</td><td>Book 50 Hadith 13</td></tr></tbody></table></div>
 

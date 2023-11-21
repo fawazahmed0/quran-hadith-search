@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I heard the Prophet (ﷺ) saying, "If the son of Adam (the h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari ['Atha'] dia berkata; saya mendengar [Ibnu Abbas] radliallahu 'anhuma berkata; saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sekiranya anak Adam memiliki harta sebanyak dua bukit, niscaya ia akan mengharapkan untuk mendapatkan bukit yang ketiga, dan tidaklah perut anak Adam itu dipenuhi melainkan dengan tanah, dan Allah menerima taubat siapa saja yang bertaubat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6436</td></tr><tr><td>Arabic No</td><td>6436</td></tr><tr><td>Reference</td><td>Book 81 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Пророк ﷺ сказал: “Если бы заимел сын Адама два вади, полных денег, то непременно пожелал бы иметь и третье, и никогда не наполнит утробу сына Адама ничто, кроме земли, а Аллах примет покаяние тех, кто покается”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6436</td></tr><tr><td>Arabic No</td><td>6436</td></tr><tr><td>Reference</td><td>Book 81 Hadith 25</td></tr></tbody></table></div>
 

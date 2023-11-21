@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:"Some people drank alcohol in the morning of the da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] dari ['Amru] dia mendengar [Jabir bin 'Abdullah radliallahu 'anhuma] berkata: "Orang-orang minum khomer pada awal siang di hari perang Uhud (sebelum khomer diharamkan) lalu mereka terbunuh sebagai syuhada', lalu dikatakan kepada Sufyan: "Apakah mereka terbunuh pada sore hari di hari itu juga?" Dia menjawab: "Dalam hal ini tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2815</td></tr><tr><td>Arabic No</td><td>2815</td></tr><tr><td>Reference</td><td>Book 56 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Утром в день битвы при Ухуде некоторые люди пили опьяняющие напитки, затем они были убиты за веру (будучи шахидами)». Суфьяна спросили: «(Были убиты) в конце дня?» Он ответил: «Такого в этом хадисе нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2815</td></tr><tr><td>Arabic No</td><td>2815</td></tr><tr><td>Reference</td><td>Book 56 Hadith 31</td></tr></tbody></table></div>
 

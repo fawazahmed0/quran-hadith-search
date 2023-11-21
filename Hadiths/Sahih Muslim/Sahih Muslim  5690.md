@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Oum Salama (que Dieu soit satisfait d'elle), un efféminé était chez 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Waki']; Demikian juga telah diriwayatkan dari jalur yang lainnya; Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Jarir]; Demikian juga telah diriwayatkan dari jalur yang lainnya; Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Mu'awiyah] seluruhnya dari [Hisyam]; Demikian juga telah diriwayatkan dari jalur yang lainnya; Dan telah menceritakan kepada kami [Abu Kuraib] juga dengan lafazh ini; Telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari [Zainab binti Ummu Salamah] dari [Ummu Salamah] bahwa seorang banci datang ketika Rasulullah shallallahu 'alaihi wasallam sedang berada di rumahnya (Ummu Salamah). Maka si Banci berkata kepada saudara laki-laki Ummu Salamah; "Hai, 'Abdullah bin Abu Umaiyah! Jika Allah memenangkan bagi kalian kota thaif besok, maka aku akan menunjukkan bagimu anak perempuan Ghailan. Kalau dia menghadap, dia menghadap dengan empat anggota tubuhnya, dan kalau dia membelakang, dia membelakang dengan delapan anggota tubuhnya." Rasulullah shallallahu 'alaihi wasallam mendengar ucapan Banci itu, lalu beliau bersabda: 'Jangan izinkan lagi dia masuk ke rumahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5690</td></tr><tr><td>Arabic No</td><td>2180</td></tr><tr><td>Reference</td><td>Book 39 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5690</td></tr><tr><td>Arabic No</td><td>2180</td></tr><tr><td>Reference</td><td>Book 39 Hadith 44</td></tr></tbody></table></div>
 

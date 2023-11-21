@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Juraij:'Ata' said, "Ibn 'Abbas said, 'If he (i.e. the one intending
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru bin Ali] Telah menceritakan kepada kami [Yahya bin Sa'id] Telah menceritakan kepada kami [Ibnu Juraij] dia berkata; Telah menceritakan kepadaku ['Atha] dari [Ibnu Abbas]; 'Apabila sudah thawaf di Ka'bah maka dia telah bertahallul. Aku bertanya; 'Dari mana perkataan Ibnu Abbas ini? Atha menjawab; Dari firman Allah yang berbunyi: Kemudian tempat penyembelihannya adalah di sekitar Bai'tul 'Atiq. Dan dari perintah Nabi shallallahu 'alaihi wasallam kepada para sahabatnya agar bertahallul di waktu haji Wada.' Aku berkata; Hal itu di lakukan setelah wukuf di Arafah. Atha berkata; 'Ibnu Abbas melihat beliau melakukannya sebelum wukuf maupun setelah wukuf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4396</td></tr><tr><td>Arabic No</td><td>4396</td></tr><tr><td>Reference</td><td>Book 64 Hadith 419</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Джурайдж сказал: «’Ата, передал, что Ибн ‘Аббас сказал: “Если совершающий умру совершил таваф вокруг Каабы, то он выходит из ихрама”. Ибн Джурайдж спросил ‘Ату: “Какое у него на это доказательство?” ‘Ата ответил: “Ибн ‘Аббас сказал, что (доказательство) в словах Всевышнего Аллаха: “…а место их заклания — у древнего Дома (Каабы)” (сура “аль-Хадж”, аят 33), а также в приказе Пророка ﷺ своим сподвижникам, во время совершения Прощального хаджа, чтобы они вышли из ихрама”. Я (Ибн Джурайдж) сказал ‘Ате: “Это было после стояния на Арафате”. ‘Ата ответил: “Ибн ‘Аббас считал это правильным до стояния и после”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4396</td></tr><tr><td>Arabic No</td><td>4396</td></tr><tr><td>Reference</td><td>Book 64 Hadith 419</td></tr></tbody></table></div>
 

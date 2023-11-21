@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ The Prophet (ﷺ) added:I was raised to the Lote Tree and saw four rivers, two o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Al Auza'i] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam pernah meminum susu lalu berkumur-kumur, beliau bersabda: "Sesungguhnya ia mengandung lemak." [Ibrahim bin Thahman] mengatakan dari [Syu'bah] dari [Qatadah] dari [Anas bin Malik] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; "Ketika aku diangkat menuju Sidratul Muntaha, aku melewati empat sungai, dua sungai telah nampak olehku sementara dua lainnya belum nampak, dua sungai yang nampak olehku adalah sungai nil dan sungai efrat, sedangkan dua sungai yang tidak nampak olehku adalah sungai yang berada di surga, lalu aku diberi tiga mangkuk, satu mangkuk bersisi susu, satu mangkuk lagi berisi madu dan satu mangkuk lainnya berisi khamr, maka aku mengambil mangkuk yang berisi susu dan meminumnya, lalu diberitahukan kepadaku; "Kamu dan ummatmu telah memilih fithrah." [Hisyam] dan [Sa'id] serta [Hammam] berkata dari [Qatadah] dari [Anas bin Malik] dari [Malik bin Sha'sha'ah] dari Nabi shallallahu 'alaihi wasallam mengenai beberapa sungai seperti hadits di atas, namun mereka tidak menyebutkan tiga mangkuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5610</td></tr><tr><td>Arabic No</td><td>5610</td></tr><tr><td>Reference</td><td>Book 74 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «Я был вознесён к лотосу (крайнего предела) /сидрат aль-мунтаха/, и оказалось, что там текут четыре реки, две из которых являются видимыми, а две — скрытыми. Что касается двух видимых рек, то это Нил и Евфрат, что же касается скрытых рек, то это две реки, текущие в Раю. Затем мне принесли три сосуда: с молоком, с мёдом и с вином. Я взял молоко и выпил его. Тогда мне было сказано: “Ты взял то, что соответствует естеству, ты и твоя община”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5610</td></tr><tr><td>Arabic No</td><td>5610</td></tr><tr><td>Reference</td><td>Book 74 Hadith 36</td></tr></tbody></table></div>
 

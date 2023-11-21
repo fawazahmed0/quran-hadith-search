@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has been narrated by Sufyan through a different chain of transmit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin As Shabah Al Bazzaz] telah menceritakan kepada kami [Syarik] dari [Yazid bin Abu Ziyad] dari [Abdurrahman bin Abu Laila] dari [Al Barra'] bahwa; "Apabila Rasulullah shallallahu 'alaihi wasallam memulai shalat, beliau mengangkat kedua tangannya sampai mendekati kedua telinganya, dan tidak mengulanginya lagi (hanya sekali)." Telah menceritakan kepada kami [Abdullah bin Muhammad Az Zuhri] telah menceritakan kepada kami [Sufyan] dari [Yazid] seperti haditsnya Syarik, namun dia tidak mengatakan; "Dan beliau tidak mengulanginya lagi." Sufyan mengatakan; "Setelah itu dia mengatakan kepada kami; "Dan beliau tidak mengulanginya lagi" ketika berada di Kufah." Abu Daud mengatakan; "Hadits ini di riwayatkan pula oleh [Husyaim], [Khalid] dan [Ibdu Idris] dari [Yazid], namun mereka tidak menyebutkan; "Dan beliau tidak mengulanginya lagi." Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Mu'awiyah] dan [Khalid bin 'Amru] serta [Abu Hudzaifah] mereka mengatakan; telah menceritakan kepada kami [Sufyan] dengan isnad seperti ini, katanya; "Beliau mengangkat kedua tangannya di awal kali." sebagian yang lain mengatakan; "Satu kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>751</td></tr><tr><td>Reference</td><td>Book 2 Hadith 361</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал аль-Хасан ибн ‘Али: Рассказали нам Му‘авия, Халид ибн ‘Амр и Абу Хузайфа, которые сказали: Рассказал нам Суфйан этот же хадис с иснадом, в котором он сказал: «И он поднял руки в первый раз». Некоторые из них сказали: «Один раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>751</td></tr><tr><td>Reference</td><td>Book 2 Hadith 361</td></tr></tbody></table></div>
 

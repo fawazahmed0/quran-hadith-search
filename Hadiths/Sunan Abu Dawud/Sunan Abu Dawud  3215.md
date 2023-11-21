@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hisham ibn Amir: The Ansar came to the Messenger of Allah (ﷺ) on the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi], bahwa [Sulaiman bin Al Mughirah] telah menceritakan kepada mereka dari [Humaid bin Hilal] dari [Hisyam bin 'Amir], ia berkata; orang-orang anshar datang kepada Rasulullah shallallahu 'alaihi wasallam pada saat perang Uhud kemudian berkata; kami telah tertimpa kekalahan dan kesusahan, maka apakah yang anda perintahkan kepada kami? Beliau berkata: "Galilah lubang yang lebar dan masukkan dua atau tiga orang dalam satu kubur!" Beliau ditanya; siapakah yang didahulukan? Beliau bersabda: "Orang yang paling banyak hafal Al Qur'an." Hisyam bin Amir berkata; ayahku yaitu Amir pada saat itu terbunuh dan ia didahulukan diantara dua orang atau satu orang. Telah menceritakan kepada kami [Abu Shalih Al Anthaki], telah mengabarkan kepada kami [Abu Ishaq Al Fazari], dari [Ats Tsauri] dari [Ayyub] dari [Humaid bin Hilal] dengan sanad dan maknanya, dalam hadits tersebut ia menambahkan kata; dan dalamkan penggaliannya! Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Jarir], telah menceritakan kepada kami [Humaid bin Hilal] dari [Sa'd bin Hisyam bin Amir] dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3215</td></tr><tr><td>Arabic No</td><td>3215</td></tr><tr><td>Reference</td><td>Book 21 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хишам ибн ‘Амир передаёт, что в день битвы при Ухуде ансары пришли к Посланнику Аллаха ﷺ и сказали: «Мы понесли потери и сильно утомлены. Как велишь нам поступить?» Он сказал: «Ройте могилы пошире и опускайте в могилу по двое или по трое». Они спросили: «А кого опускать первым?» (Посланник Аллаха ﷺ) сказал: «Того, кто больше знал из Корана». Хишам сказал: «Мой отец ‘Амир погиб в тот день и его положили в могилу между двумя другими (или: вместе с ещё одним человеком)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3215</td></tr><tr><td>Arabic No</td><td>3215</td></tr><tr><td>Reference</td><td>Book 21 Hadith 127</td></tr></tbody></table></div>
 

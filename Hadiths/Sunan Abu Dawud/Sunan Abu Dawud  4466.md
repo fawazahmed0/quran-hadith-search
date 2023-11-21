@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sahl ibn Sa'd: A man came to the Prophet (ﷺ) and made acknowledgment 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Thalq bin Ghannam] berkata, telah menceritakan kepada kami [Abdussalam bin Hafsh] berkata, telah menceritakan kepada kami [Abu Hazim] dari [Sahl bin Sa'd] dari Nabi shallallahu 'alaihi wasallam, Bahwasanya seorang laki-laki pernah mendatanginya dan mengaku bahwa dirinya telah berbuat zina dengan seorang wanita yang namanya telah ia sebutkan kepada beliau. Rasulullah shallallahu 'alaihi wasallam kemudian mengutus seseorang untuk bertanya kepada wanita itu; apakah benar yang dikatakan oleh laki-laki tersebut. Wanita itu mengingkari bahwa dirinya telah berzina, maka beliau mendera laki-laki itu sebagai had dan membiarkan wanita tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4466</td></tr><tr><td>Arabic No</td><td>4466</td></tr><tr><td>Reference</td><td>Book 40 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Сахля ибн Са‘да, что однажды к Пророку ﷺ пришёл мужчина, признавшийся в совершении прелюбодеяния с женщиной, которую он назвал по имени. Посланник Аллаха ﷺ отправил к ней человека, спрашивая её об этом, но она отказалась признаться, что совершила прелюбодеяние. Тогда он подверг его установленному наказанию бичеванию (так, как этот мужчина не состоял в браке), а её оставил в покое (поскольку не было четырёх свидетелей)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4466</td></tr><tr><td>Arabic No</td><td>4466</td></tr><tr><td>Reference</td><td>Book 40 Hadith 116</td></tr></tbody></table></div>
 

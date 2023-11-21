@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali reported that Allah's Messenger (ﷺ) said to him:Say," O Allah, direct me t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala] telah menceritakan kepada kami [Ibnu Idris] dia berkata; aku mendengar ['Ashim bin Kulaib] dari [Abu Burdah] dari ['Ali] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda kepada saya: "Hai Ali, ucapkanlah doa. ALOOHUMMAH DINII WASADDIDNII WADZKUR BILHUDAA HIDAAYATAKATH THORIIQO WASSADAADI SADAADAS SAHMI "Ya Allah, berikanlah petunjuk kepadaku. Berilah aku jalan yang lurus. Jadikan petunjuk-Mu sebagai jalanku dan kelurusan hidupku selurus anak panah." Telah menceritakan kepada kami [Ibnu Numair] Telah menceritakan kepada kami [Abdullah] yaitu Ibnu Idris Telah mengabarkan kepada kami ['Ashim bin Kulaib] melalui jalur ini, dia berkata; Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: 'Katakanlah; Ya Allah aku memohon kepada-Mu petunjuk dan kelurusan hidup, -lalu dia menyebutkan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6911</td></tr><tr><td>Arabic No</td><td>2725.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6911</td></tr><tr><td>Arabic No</td><td>2725.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 104</td></tr></tbody></table></div>
 

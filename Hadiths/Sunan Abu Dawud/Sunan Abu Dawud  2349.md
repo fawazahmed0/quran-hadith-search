@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Adi b. Hatim:When the verse "Until the white thread of dawn appear to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Hushain bin Numair], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Ibnu Idris] secara makna, dari [Hushain] dari [Asy Sya'bi] dari [Adi bin Hatim], ia berkata; tatkala turun ayat ini: "Hingga terang bagimu benang putih dari benang hitam." Maka aku mengambil tali putih dan tali hitam dan aku letakkan keduanya di bawah bantalku, lalu aku lihat dan belum juga nampak. Lalu aku ceritakan hal tersebut kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau tertawa dan berkata; sesungguhnya bantalmu lebar dan panjang. Sesungguhnya yang dimaksud benang hitam dan putih tersebut adalah malam dan siang. Utsman berkata; sesungguhnya hal tersebut adalah gelapnya malam dan putihnya siang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1916) Sahih Muslim (1090)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2349</td></tr><tr><td>Arabic No</td><td>2349</td></tr><tr><td>Reference</td><td>Book 14 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ади ибн Хатима, да будет доволен им Аллах: «Когда был ниспослан этот аят: “…пока вы не сможете отличить белую нитку от чёрной” (сура 2 «аль-Бакара», аят 187), я взял путы верблюда, белые и чёрные, положил их под подушку и принялся смотреть, однако так и не смог отличить их. Я рассказал об этом Посланнику Аллаха ﷺ. Он улыбнулся и сказал: “Значит, подушка у тебя широкая и длинная… Поистине, имеются в виду день и ночь”». ‘Усман сказал: «Это чернота ночи и белизна дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1916) Sahih Muslim (1090)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2349</td></tr><tr><td>Arabic No</td><td>2349</td></tr><tr><td>Reference</td><td>Book 14 Hadith 37</td></tr></tbody></table></div>
 

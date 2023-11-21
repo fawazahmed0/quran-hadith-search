@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Omar (رضي الله عنهما) a dit : "Il est des gens qui p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr al-Abdi] telah menceritakan kepada kami [Ubaidullah bin Umar] dari [Muhammad bin Yahya bin Hibban] dari pamannya [Wasi' bin Habban] dari [Ibnu Umar] dia berkata, "Saya memanjat rumah saudariku, Hafshah. Maka saya melihat Rasulullah shallallahu 'alaihi wasallam duduk untuk buang hajatnya dalam keadaan menghadap Syam dan membelakangi kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>611</td></tr><tr><td>Arabic No</td><td>266.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Васи‘ ибн Хаббан сказал: «(Однажды, когда) я молился в мечети, ‘Абдуллах ибн ‘Умар сидел там, прислонившись спиной к кибле. Закончив молиться, я подошёл к нему со своей стороны, и ‘Абдуллах сказал: “Люди говорят, что если ты присядешь по нужде, то не следует поворачиваться лицом ни в сторону киблы, ни в сторону Храма /байт аль-макдис/ (в Иерусалиме)”. ‘Абдуллах также сказал: “А я однажды забрался на крышу (нашего) дома и увидел Посланника Аллаха ﷺ, присевшего на два необожжённых кирпича, чтобы удовлетворить нужду, и повернувшегося в сторону Храма /байт аль-макдис/ (в Иерусалиме)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>611</td></tr><tr><td>Arabic No</td><td>266.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 78</td></tr></tbody></table></div>
 

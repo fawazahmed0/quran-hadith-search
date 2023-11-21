@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying; I thought to give 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al-A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh saya ingin sekali menyuruh shalat, lalu dikumandangkan iqamah, kemudian saya menyuruh seseorang mengimami shalat berjamaah (menggantikan saya), lalu saya pergi bersama beberapa orang yang membawa tumpukan-tumpukan kayu bakar ke rumah orang-orang yang tidak mengerjakan shalat berjamaah, kemudian saya bakar rumah-rumah mereka dengan api
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (657) Sahih Muslim (651)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>548</td></tr><tr><td>Arabic No</td><td>548</td></tr><tr><td>Reference</td><td>Book 2 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Бывало так, что я хотел велеть призвать на молитву, потом велеть кому-нибудь помолиться с людьми, а потом отправиться взяв с собой людей, у которых есть вязанка дров, к тем людям, которые не присутствуют на (коллективной) молитве, и сжечь огнём их дома вместе с ними!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (657) Sahih Muslim (651)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>548</td></tr><tr><td>Arabic No</td><td>548</td></tr><tr><td>Reference</td><td>Book 2 Hadith 158</td></tr></tbody></table></div>
 

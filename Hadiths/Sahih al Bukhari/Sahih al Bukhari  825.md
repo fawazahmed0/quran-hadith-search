@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Harith:Abu Sa'id led us in the prayer and said the Takbir 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Shalih] berkata, telah menceritakan kepada kami [Fulaih bin Sulaiman] dari [Sa'id bin Al Harits] berkata, " [Abu Sa'id] memimpin kami shalat, dia lalu mengeraskan bacaan takbirnya ketika mengangkat kepala dari sujud, ketika mau sujud, ketika mengangkat (kepala dari sujud) dan ketika bangkit berdiri dari rakaat kedua, setelah itu ia berkata, "Begitulah aku melihat Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>825</td></tr><tr><td>Arabic No</td><td>825</td></tr><tr><td>Reference</td><td>Book 10 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, когда Абу Са‘ид аль-Худри, да будет доволен им Аллах, совершал молитвы (с людьми), он вслух произносил такбиры, поднимая голову после совершения земного поклона, и начиная совершать земной поклон, и (снова) поднимая (голову после земного поклона), и вставая после совершения двух рак‘атов. Он говорил: «Я видел, что так (поступал) Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>825</td></tr><tr><td>Arabic No</td><td>825</td></tr><tr><td>Reference</td><td>Book 10 Hadith 219</td></tr></tbody></table></div>
 

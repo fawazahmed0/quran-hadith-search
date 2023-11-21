@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Faji' ibn Abdullah al-Amiri: Al-Faji' came to the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Al Fadll bin Dukain] telah menceritakan kepada kami ['Uqbah bin Wahb bin 'Uqbah Al 'Amiri] ia berkata; aku mendengar [Ayahku] menceritakan dari [Al Fujai' Al 'Amiri] bahwa ia telah datang kepada Rasulullah shallallahu 'alaihi wasallam dan bertanya, "Bangkai apakah yang halal bagi kami?" Beliau menjawab: "Apakah makanan kalian?" Kami menjawab, "Kami minum susu pada satu gelas pada sore hari dan minum satu gelas pada pagi hari." Abu Nu'aim berkata, "Uqbah mentafsirkannya untukku, 'Yaitu satu gelas pada pagi hari dan satu gelas pada sore hari'. Beliau bersabda: "Ukuran itu tidak cukup dan masih ada rasa lapar." Kemudian beliau menghalalkan bangkai bagi mereka dalam keadaan ini." Abu Daud berkata, "Ghabuq adalah dari akhir siang sedangkan shabuh dari awal siang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3817</td></tr><tr><td>Arabic No</td><td>3817</td></tr><tr><td>Reference</td><td>Book 28 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Фуджайи‘ аль-‘Амири пришёл к Посланнику Аллаха ﷺ и спросил его: «Что дозволено нам из мертвечины?» Он спросил: «А что вы обычно едите?» Он ответил: «Кувшин молока с утра и кувшин вечером». Посланник Аллаха ﷺ сказал: «Это, клянусь, уже голод!» И он разрешил им есть мертвечину, учитывая их положение
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3817</td></tr><tr><td>Arabic No</td><td>3817</td></tr><tr><td>Reference</td><td>Book 28 Hadith 82</td></tr></tbody></table></div>
 

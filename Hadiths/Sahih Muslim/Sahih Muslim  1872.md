@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Would any one of you like
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Sa'id Al Asyaj] keduanya berkata, telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah salah seorang dari kalian suka, bila ia kembali kepada isterinya akan mendapatkan tiga ekor unta yang sedang bunting lagi gemuk-gemuk?" kami menjawab, "Ya." Beliau bersabda: "Tiga ayat yang dibaca oleh salah seorang dari kalian di dalam shalatnya adalah lebih baik daripada ketiga ekor unta yang bunting dan gemuk itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1872</td></tr><tr><td>Arabic No</td><td>802</td></tr><tr><td>Reference</td><td>Book 6 Hadith 300</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «(Однажды) Посланник Аллаха ﷺ спросил (людей): “Порадует ли кого-то из вас, если вернувшись домой, он обнаружит трёх огромных тучных беременных верблюдиц?” Мы сказали: “Да”. (Тогда Пророк ﷺ) сказал: “Но три аята, которые любой из вас может прочесть во время молитвы, лучше для него трёх огромных тучных беременных верблюдиц!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1872</td></tr><tr><td>Arabic No</td><td>802</td></tr><tr><td>Reference</td><td>Book 6 Hadith 300</td></tr></tbody></table></div>
 

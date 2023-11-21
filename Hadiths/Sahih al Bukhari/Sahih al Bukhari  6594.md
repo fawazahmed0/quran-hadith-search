@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ), the truthful and truly-inspired, sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid, Hisyam bin Abdul Malik] telah menceritakan kepada kami [Syu'bah] telah memberitakan kepadaku [Sulaiman Al A'masy] mengatakan, saya mendengar [Zaid bin Wahab] dari [Abdullah] mengatakan, telah menceritakan kepada kami Rasulullah shallallahu 'alaihi wasallam seorang yang jujur lagi di benarkan, bersabda: "Sungguh salah seorang diantara kalian dihimpun dalam perut ibunya selama empat puluh hari, kemudian menjadi segumpal darah juga seperti itu, kemudian menjadi segumpal daging juga seperti itu, kemudian Allah mengutus malaikat dan diperintahkannya dengan empat hal, rejekinya, ajalnya, sengsara ataukah bahagia, demi Allah, sungguh salah seorang diantara kalian, atau sungguh ada seseorang yang telah mengamalkan amalan-amalan penghuni neraka, sehingga tak ada jarak antara dia dan neraka selain sehasta atau sejengkal, tetapi takdir mendahuluinya sehingga ia mengamalkan amalan penghuni surga sehingga ia memasukinya. Dan sungguh ada seseorang yang mengamalkan amalan-amalan penghuni surga, sehingga tak ada jarak antara dia dan neraka selain sehasta atau dua hasta, lantas takdir mendahuluinya sehingga ia melakukan amalan-amalan penghuni neraka sehingga ia memasukinya." Sedang [Adam] mengatakan dengan redaksi 'kecuali tinggal sehasta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6594</td></tr><tr><td>Arabic No</td><td>6594</td></tr><tr><td>Reference</td><td>Book 82 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (бин Мас‘уд), да будет доволен им Аллах, сказал: «Правдивый и достойный доверия Посланник Аллаха ﷺ сказал нам: “Поистине, каждый из вас формируется во чреве своей матери в течение сорока дней в виде капли семени, затем он столько же пребывает (там) в виде сгустка крови и ещё столько же — в виде кусочка плоти, а затем к нему направляется ангел, который вдувает в него дух. И он получает веление записать четыре вещи: удел (человека), срок его (жизни), его дела, а также то, счастливым он будет или злосчастным. И клянусь Аллахом, помимо Которого нет истинного бога, поистине, любой из вас может совершать дела обитателей рая до тех пор, пока не окажется от рая на расстоянии всего лишь одного локтя, после чего (сбудется) написанное ему на роду, и он станет совершать дела обитателей огня и войдёт в (огонь). И, поистине, любой из вас может совершать дела обитателей огня до тех пор, пока не окажется от огня на расстоянии всего лишь одного локтя, после чего (сбудется) написанное ему на роду, и он станет совершать дела обитателей рая и попадёт в (рай)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6594</td></tr><tr><td>Arabic No</td><td>6594</td></tr><tr><td>Reference</td><td>Book 82 Hadith 1</td></tr></tbody></table></div>
 

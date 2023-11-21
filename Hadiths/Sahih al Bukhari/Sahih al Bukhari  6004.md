@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I never felt so jealous of any woman as I did of Khadija, though
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaid bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Ayahnya] dari [Aisyah] radliallahu 'anha dia berkata; "Aku tidak pernah merasa cemburu kepada siapapun melebihi kecemburuanku kepada Khadijah sungguh dia telah wafat tiga tahun sebelum beliau menikahiku. Menurut apa yang aku dengar beliau suka menyebut-nyebutnya. Sungguh, Rabbnya telah memerintahkan kepada beliau agar memberi kabar gembira kepadanya dengan istana dari permata di surga. Apabila Rasulullah shallallahu 'alaihi wasallam menyembelih seekor kambing, maka beliau suka menghadiahkannya kepada para sahabat-sahabatnya Khadijah dari pada dirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6004</td></tr><tr><td>Arabic No</td><td>6004</td></tr><tr><td>Reference</td><td>Book 78 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Ни к кому из жён Пророка ﷺ я не ревновала его столь сильно как к Хадидже, которая скончалась за три года до того, как он женился на мне, потому что я часто слышала, как он вспоминал о ней. И его Господь приказал ему обрадовать вестью о доме из полого жемчуга, который ждёт её в Раю. А когда Посланник Аллаха ﷺ резал овец, то дарил (мясо) её подругам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6004</td></tr><tr><td>Arabic No</td><td>6004</td></tr><tr><td>Reference</td><td>Book 78 Hadith 35</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Tawus said:we asked Ibn ‘Abbas about sitting on heels between the two prostrat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ma'in] telah menceritakan kepada kami [Hajjaj bin Muhammad] dari [Ibnu Juraij] telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Thawus] berkata; kami bertanya kepada [Ibnu Abbas] mengenai duduk iq'a' (duduk bersimpuh) di atas kedua tumit di antara sujud." Ibnu Abbas menjawab; "itu termasuk sunnah." Kata Thawus; "kami berkata; "Sesungguhnya kami melihatnya kurang sopan." Ibnu Abbas menjawab; "Itu adalah sunnah Nabimu shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (536)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>845</td></tr><tr><td>Arabic No</td><td>845</td></tr><tr><td>Reference</td><td>Book 2 Hadith 455</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Тавус сказал: «Мы сказали Ибн ‘Аббасу о сидении на пятках во время земного поклона, и он сказал: “Это сунна”. Мы сказали: “Но мы считаем это неподобающим для мужчин”. Ибн ‘Аббас сказал: “Это сунна твоего Пророка ﷺ!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (536)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>845</td></tr><tr><td>Arabic No</td><td>845</td></tr><tr><td>Reference</td><td>Book 2 Hadith 455</td></tr></tbody></table></div>
 

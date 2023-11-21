@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Anas b. Malik that a young man from Asl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Tsabit] dari [Anas bin Malik]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abu Bakar bin Nafi'] dan ini adalah lafadz dia, telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Tsabit] dari [Anas bin Malik], bahwa seorang pemuda dari suku Aslam berkata, "Wahai Rasulullah, sesungguhnya saya ingin ikut berperang, namun saya tidak memiliki perlengkapan." Beliau bersabda: "Datangilah si fulan, sebab dia telah mempersiapkan perlengkapannya namun dia jatuh sakit." Maka datanglah pemuda itu kepada Fulan seraya berkata, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam mengirim salam untuk anda, dan menyuruh anda memberikan perlengkapan anda kepadaku." Lalu orang yang sakit itu berkata, "Wahai fulanah, berikanlah perlengkapan yang telah aku persiapkan kepadanya, dan jangan sampai ada yang ketinggalan satu pun. Demi Allah, jangan sampai ada yang ketinggalan satupun! Semoga Allah memberikan berkah kepadamu karenanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4901</td></tr><tr><td>Arabic No</td><td>1894</td></tr><tr><td>Reference</td><td>Book 33 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4901</td></tr><tr><td>Arabic No</td><td>1894</td></tr><tr><td>Reference</td><td>Book 33 Hadith 197</td></tr></tbody></table></div>
 

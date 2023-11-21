@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported:While a person was standing in '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Rabi' Az Zahrani] telah menceritakan kepada kami [Hammad] dari [Amru bin Dinar] dan [Ayyub] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Ketika seorang laki-laki melakukan wukuf di Arafah bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba ia terjatuh dari Untanya -Ayyub berkata; FA'AUQASHATHU, sementara Amru menyebutkan; FAWAQASHATHU- hingga lehernya patah (dan meninggal seketika). Kemudian disampaikanlah peristiwa itu kepada Nabi shallallahu 'alaihi wasallam, maka beliau pun bersabda: "Mandikanlah ia dengan air bercampur daun bidara. Lalu kafanilah dengan kedua helai kain ihramnya, janganlah kalian memakaikan wewangian padanya dan jangan pula menutupi kepalanya." Ayyub berkata; "Karena Allah akan membangkitkannya kelak di hari kiamat dalam keadaan bertalbiyah (menunaikan haji)." Amru menyebutkan; "Karena Allah akan membangkitkannya kelak di hari kiamat dalam keadaan YULABBI (bertalbiyah)." Dan telah menceritakannya kepadaku [Amru An Naqid] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Ayyub] ia berkata, terlah diberitakan kepadaku dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, bahwa ada seorang laki-laki yang sedang melakukan wukuf bersama Nabi shallallahu 'alaihi wasallam, jadi ia dalam keadaan ihram. Maka ia pun menyebutkan sebagaimana hadits yang disebutkan oleh Hammad dari Ayyub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2892</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2892</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Don't nurse grudge and do
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab]; Telah menceritakan kepada kami [Dawud] yaitu Ibnu Qais dari [Abu Sa'id] budak 'Amir bin Kuraiz dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Janganlah kalian saling mendengki, saling memfitnah, saling membenci, dan saling memusuhi. Janganlah ada seseorang di antara kalian yang berjual beli sesuatu yang masih dalam penawaran muslim lainnya dan jadilah kalian hamba-hamba Allah yang saling bersaudara. Muslim yang satu dengan muslim yang lainnya adalah bersaudara tidak boleh menyakiti, merendahkan, ataupun menghina. Takwa itu ada di sini (Rasulullah menunjuk dadanya), Beliau mengucapkannya sebanyak tiga kali. Seseorang telah dianggap berbuat jahat apabila ia menghina saudaranya sesama muslim. Muslim yang satu dengan yang Iainnya haram darahnya. hartanya, dan kehormatannya." Telah menceritakan kepadaku [Abu At Thahir Ahmad bin Amru bin Sarh] Telah menceritakan kepada kami [Ibnu Wahab] dari [Usamah] yaitu Ibnu Zaid Bahwa dia mendengar [Abu Sa'id] -budak- dari Abdullah bin Amir bin Kuraiz berkata; aku mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: -kemudian perawi menyebutkan Hadits yang serupa dengan Hadits Daud, dengan sedikit penambahan dan pengurangan. Diantara tambahannya adalah; "Sesungguhnya Allah tidak melihat kepada tubuh dan rupa kalian, akan tetapi Allah melihat kepada hati kalian. (seraya mengisyaratkan telunjuknya ke dada beliau)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6541</td></tr><tr><td>Arabic No</td><td>2564.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал:“Не завидуйте друг другу, не взвинчивайте цену, откажитесь от взаимной ненависти, не поворачивайтесь спиной друг к другу, не перебивайте торговли друг другу и будьте братьями, о рабы Аллаха, ведь мусульманин мусульманину брат, и поэтому не должен никто из мусульман ни притеснять другого, ни относиться к нему с презрением, ни оставлять его без помощи, а богобоязненность скрыта здесь!”, и (Посланник Аллаха ﷺ) трижды указал (рукой) себе на грудь(, после чего сказал): “Достаточно будет вреда тому человеку, который презирает своего брата в исламе, и для каждого мусульманина (должны быть) неприкосновенными жизнь, имущество и честь другого мусульманина!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6541</td></tr><tr><td>Arabic No</td><td>2564.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 40</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:(the wife of the Prophet) Allah's Messenger (ﷺ) performed abl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Salim bin Abu Al Ja'd] dari [Kuraib] dari [Ibnu 'Abbas] dari [Maimunah] isteri Nabi shallallahu 'alaihi wasallam, ia berkata, "Nabi shallallahu 'alaihi wasallam berwudlu sebagaimana wudlunya untuk shalat, kecuali kedua kakinya. Beliau lalu mencuci kemaluan dan apa yang terkena kotoran (mani), kemudian menyiramkan air ke atasnya, kemudian mengakhirinya dengan menyela dan mencuci kedua kakinya. Itulah cara beliau mandi dari janabat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>249</td></tr><tr><td>Arabic No</td><td>249</td></tr><tr><td>Reference</td><td>Book 5 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что жена Пророка ﷺ Маймуна, да будет доволен ею Аллах, сказала: «(Сначала) Посланник Аллаха ﷺ совершал такое же омовение, какое он совершал перед молитвой, если не считать омовения ног, затем омывал свои половые органы, смывая все выделения, затем обливал себя водой, а затем переставлял ноги и омывал их. Таким было его большое омовение после осквернения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>249</td></tr><tr><td>Arabic No</td><td>249</td></tr><tr><td>Reference</td><td>Book 5 Hadith 2</td></tr></tbody></table></div>
 

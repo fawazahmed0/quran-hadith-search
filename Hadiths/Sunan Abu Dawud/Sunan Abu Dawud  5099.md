@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: When the Prophet (ﷺ) saw a cloud formation in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Basysyar] berkata, telah menceritakan kepada kami ['Abdurrahman] berkata, telah menceritakan kepada kami [Sufyan] dari [Al Miqdam bin Syuraih] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] berkata, "Jika Nabi shallallahu 'alaihi wasallam melihat sesuatu yang terjadi di langit beliau meninggalkan pekerjaannya, meskipun saat shalat. Kemudian beliau berdoa: "ALLAHUMMA INNII A'UDZU BIKA MIN SYARRIHA" (Ya Allah, aku berlindung dari keburukkannya). Dan jika mendapatkan hujan beliau berdoa: "ALLAHUMMA SHAYYIBAN HANII'AN" (Ya Allah, jadikanlah hujan ini curahan yang mensejahterakan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5099</td></tr><tr><td>Arabic No</td><td>5099</td></tr><tr><td>Reference</td><td>Book 43 Hadith 327</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5099</td></tr><tr><td>Arabic No</td><td>5099</td></tr><tr><td>Reference</td><td>Book 43 Hadith 327</td></tr></tbody></table></div>
 

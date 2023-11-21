@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:My brother and I came from Yemen, and for some time
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Al 'Alaa'] telah bercerita kepada kami [Ibrahim bin Yusuf bin Abu Ishaq] berkata, telah bercerita kepadaku [bapakku] dari [Abu Ishaq] berkata, telah bercerita kepadaku [Al Aswad bin Yazid] berkata, aku mendengar [Abu Musa Al Asy'ariy radliallahu 'anhu] berkata; "Aku dan saudara laki-lakiku baru tiba dari Yaman, lalu kami tinggal beberapa lama (bersama beliau) dan kami tidak punya pendapat lain kecuali bahwa 'Abdullah bin Mas'ud adalah salah seorang dari ahlu bait Nabi shallallahu 'alaihi wasallam, karena kami meihat dia dan ibunya sering masuk (dan bersama di rumah) Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3763</td></tr><tr><td>Arabic No</td><td>3763</td></tr><tr><td>Reference</td><td>Book 62 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса аль-Аш’ари, да будет доволен им Аллах, сказал: «Приехав из Йемена, мы с братом в течение некоторого времени считали ‘Абдуллаха ибн Мас’уда одним из членов семьи Пророка ﷺ. Это потому что мы видели, как часто он и его мать заходили в дом Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3763</td></tr><tr><td>Arabic No</td><td>3763</td></tr><tr><td>Reference</td><td>Book 62 Hadith 108</td></tr></tbody></table></div>
 

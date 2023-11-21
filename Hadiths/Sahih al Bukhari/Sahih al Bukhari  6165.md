@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:A bedouin said, "O Allah's Messenger (ﷺ)! Inform 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Abdurrahman] telah menceritakan kepada kami [Al Walid] telah menceritakan kepada kami [Abu 'Amru Al Auza'i] dia berkata; telah menceritakan kepadaku [Ibnu Syihab Az Zuhri] dari ['Atha' bin Yazid Al Laitsi] dari [Abu Sa'id Al Khudri] radliallahu 'anhu bahwa seorang Arab Badui berkata; "Wahai Rasulullah, beritahukanlah kepadaku tentang Hijrah!." Beliau bersabda: "Sayang sekali, hijrah itu sangat berat. Apakah kamu mempunyai unta?" Jawab orang itu; "Ada!" beliau bertanya: "Sudahkah kamu membayar zakatnya?" dia menjawab; "Ya!" beliau bersabda: "Kalau begitu beramallah di negerimu, sesungguhnya Allah Ta'ala tidak akan menyia-nyiakan pahala amalmu sedikitpun juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6165</td></tr><tr><td>Arabic No</td><td>6165</td></tr><tr><td>Reference</td><td>Book 78 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са’ида аль-Худри, да будет доволен им Аллах, что (как-то раз) один бедуин сказал: «О Посланник Аллаха, расскажи мне о переселении, и (Пророк ﷺ) сказал: “Горе тебе, поистине, переселение — это трудное дело! А есть ли у тебя верблюды?” Он ответил: “Да”. (Пророк ﷺ) спросил: “А выплачиваешь ли ты с них закят?” (Бедуин) ответил: “Да”. Тогда (Пророк ﷺ) сказал: “Так (продолжай) делать это (, даже если будешь жить) за морями, ведь, поистине, Аллах никогда не оставит (незамеченным) ни одно из дел твоих!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6165</td></tr><tr><td>Arabic No</td><td>6165</td></tr><tr><td>Reference</td><td>Book 78 Hadith 191</td></tr></tbody></table></div>
 

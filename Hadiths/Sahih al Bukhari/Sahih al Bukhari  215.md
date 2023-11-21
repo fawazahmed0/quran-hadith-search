@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Suwaid bin Nu'man:In the year of the conquest of Khaibar I went with Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] berkata, telah menceritakan kepada kami [Sulaiman bin Bilal] telah menceritakan kepadaku [Yahya bin Sa'id] berkata, telah mengabarkan kepadaku [Busyair bin Yasar] berkata, telah mengabarkan kepadaku [Suwaid bin An Nu'man] berkata, "Kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam pada tahun penaklukan Khaibar, hingga ketika kami sampai di suatu tempat bernama Shahba', beliau mengimami kami shalat Ashar. Selesai shalat beliau minta disajikan makanan, namun tidak ada kecuali makanan yang terbuat dari kurma dan gandum, lalu kami makan dan minum. Nabi shallallahu 'alaihi wasallam beranjak untuk melaksanakan shalat Maghrib, beliau berkumur lalu memimpin kami melaksanakan shalat maghrib tanpa berwudlu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>215</td></tr><tr><td>Arabic No</td><td>215</td></tr><tr><td>Reference</td><td>Book 4 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сувайд ибн ан-Ну‘ман, да будет доволен им Аллах, сказал: «В год Хайбара мы вместе с посланником Аллаха ﷺ выступили (из Медины). Когда мы достигли Сахбы, (расположенной поблизости от Хайбара), Посланник Аллаха ﷺ совершил с нами послеполуденную /‘аср/ молитву, а затем велел принести еду, однако подать могли только савикъ, и мы поели и попили. Затем Пророк ﷺ поднялся с места для совершения закатной /магъриб/ молитвы и прополоскал рот, а потом он совершил с нами закатную молитву, не совершив омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>215</td></tr><tr><td>Arabic No</td><td>215</td></tr><tr><td>Reference</td><td>Book 4 Hadith 81</td></tr></tbody></table></div>
 

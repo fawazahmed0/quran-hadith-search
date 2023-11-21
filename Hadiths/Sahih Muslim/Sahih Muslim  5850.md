@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:An Apostle from amongst t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Al Mughirah] yaitu Ibnu 'Abdur Rahman Al Hizami dari [Abu Az Zinad] dari [Al A'raj] dari [Ab Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Seorang Nabi suatu hari berhenti di bawah pohon lalu dia di sengat seekor semut. Kemudian Nabi tersebut menyuruh mengeluarkan makanan dan mengeluarkan semua semut dari sarangnya setelah itu menyuruh membakarnya. Kemudian Allah mewahyukan kepadanya: "Apakah karena seekor semut kamu kemudian membakarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5850</td></tr><tr><td>Arabic No</td><td>2241.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 201</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5850</td></tr><tr><td>Arabic No</td><td>2241.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 201</td></tr></tbody></table></div>
 

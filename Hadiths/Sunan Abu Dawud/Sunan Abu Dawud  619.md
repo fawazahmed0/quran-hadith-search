@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah ibn AbuSufyan: The Prophet (ﷺ) said: Do not try to outstrip
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ibnu 'Ajlan] telah menceritakan kepadaku [Muhammad bin Yahya bin Habban] dari [Ibnu Muhairiz] dari [Mu'awiyah bin Abi Sufyan] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mendahuluiku dengan ruku' dan sujud, karena meskipun saya mendahului kalian tatkala ruku', niscaya kalian akan mendapatkanku tatkala saya mengangkat kepalaku (i'tidal), karena saya telah berumur dan badanku berat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>619</td></tr><tr><td>Arabic No</td><td>619</td></tr><tr><td>Reference</td><td>Book 2 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘ауийа ибн Абу Суфйан сказал: «Посланник Аллаха ﷺ сказал: “Не опережайте меня ни в поясном, ни в земном поклоне, поскольку, как бы я не опережал вас, когда совершаю поясной поклон, вы догоните меня, когда я подниму (голову с поясного поклона), ибо, я уже отяжелел”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>619</td></tr><tr><td>Arabic No</td><td>619</td></tr><tr><td>Reference</td><td>Book 2 Hadith 229</td></tr></tbody></table></div>
 

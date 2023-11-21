@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Abbas said:The Messenger of Allah (SWAS) sent a man of al-Aslam tribe and se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Sulaiman bin Harb], dan [Musaddad], mereka berkata; telah menceritakan kepada Kami [Hammad]. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abdul Warits] dan ini adalah hadits Musaddad dari [Abu At Tayyah] dari [Musa bin Salamah] dari [Ibnu Abbas], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam mengutus Fulan Al Aslami dan mengirim bersamanya delapan belas unta kurban. Kemudian orang tersebut berkata; bagaimana pendapat anda apabila sebagiannya hampir mati dan tidak mampu berjalan? Beliau menjawab: "Engkau sembelih, kemudian engkau celupkan sepatunya pada darahnya. Kemudian pukulkan sepatu kakinya ke sisi punuknya, dan jangan engkau serta seorangpun dari para sahabatmu memakan sebagian darinya." Atau ia berkata; "Dari orang-orang yang bersahabat denganmu." Abu Daud berkata; yang tersendiri dari hadits ini adalah ucapannya; dan janganlah serta seorangpun dari para sahabatmu memakan sebagian darinya." Beliau berkata dalam hadits Abdul Warits: "kemudian jadikan sepatu tersebut pada sisi punuk." Sebagai ganti kata; pululkan. Abu Daud berkata; saya mendengar Abu Salamah berkata; apabila engkau menyebutkan sanad dan makna maka sudah cukup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1325)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1763</td></tr><tr><td>Arabic No</td><td>1763</td></tr><tr><td>Reference</td><td>Book 11 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ отправил жертвенный скот восемнадцать верблюдов с одним аслямитом и тот спросил: “А если какое-нибудь животное будет изнурено так, что не сможет продолжать путь?” Посланник Аллаха ﷺ сказал: “Зарежь его, затем окропи его кровью его [нашейную повязку с] сандалиями и оставь его лежать на боку. И не ешь его мяса сам, и пусть никто из твоих товарищей тоже не ест его мяса”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1325)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1763</td></tr><tr><td>Arabic No</td><td>1763</td></tr><tr><td>Reference</td><td>Book 11 Hadith 43</td></tr></tbody></table></div>
 

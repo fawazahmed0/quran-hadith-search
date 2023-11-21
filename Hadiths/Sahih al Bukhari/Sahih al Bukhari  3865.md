@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:When 'Umar embraced Islam, all The (disbelieving) p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] berkata, aku mendengar ['Amru bin Dinar] berkata, [Abdullah bin 'Umar] radliallahu 'anhuma berkata; Ketka 'Umar radliallahu 'anhu memeluk Islam, orang-orang berkumpul di rumahnya dan mereka berkata; "'Umar telah pindah agama". Saat itu aku adalah seorang anak yang masih kecil dimana aku berada di atas rumahku. Tiba-tiba datang seseorang yang mengenakan baju jubah tipis terbuat dari sutera seraya berkata; "'Umar memang telah pindah agama, lalu apa salahnya? Aku adalah pelindungnya". Ibnu 'Umar radliallahu 'anhuma berkata; Maka aku lihat orang-orang meninggalkannya. Lalu aku bertanya; "Siapakah orang itu? '. Mereka menjawab; Al 'Ash bin Wa'il
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3865</td></tr><tr><td>Arabic No</td><td>3865</td></tr><tr><td>Reference</td><td>Book 63 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Когда ‘Умар принял ислам, (неверующие) люди собрались вокруг его дома и сказали: “Умар отрёкся от нашей религии”. В то время я был ещё мальчиком и находился на крыше своего дома. Тут пришёл человек, одетый в шёлковый плащ, и сказал: “Умар отрёкся от вашей религии, и что с этого? Я — его защитник”. Затем я увидел, как люди уходят, и спросил: “Кто этот человек?” Мне ответили: “Аль-‘Ас ибн Уаиль”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3865</td></tr><tr><td>Arabic No</td><td>3865</td></tr><tr><td>Reference</td><td>Book 63 Hadith 90</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A man of the deputation of 'Abd al-Qais who came to the Prophet (ﷺ) said - the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Khalid] dari ['Auf] dari [Abu Al Qamush Zaid bin Ali] telah menceritakan kepadaku [seorang laki-laki] yang termasuk di antara delegasi yang datang kepada Nabi shallallahu 'alaihi wasallam dari Abdul Qais. 'Auf mengira namanya adalah Qais bin An Nu'man. Kemudian beliau bersabda: "Janganlah kalian minum dalam An naqir, Al muzaffat, Ad dubba dan hantam. Minumlah dalam kantung kulit yang terikat kepalanya, kemudian apabila telah mengeras maka stabilkan dengan air, dan apabila membuatmu tidak sadar maka tumpahkanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3695</td></tr><tr><td>Arabic No</td><td>3695</td></tr><tr><td>Reference</td><td>Book 27 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Один человек из делегации племени ‘абдулькайс, предположительно Кайс ибн ан-Ну‘ман, передаёт, что Пророк ﷺ сказал: «Не пейте из (таких сосудов, как) накыр, музаффат, дубба и хантам, а пейте из кожаных бурдюков, которые нужно завязывать. Если набиз в бурдюке близок к брожению, то разбавьте его водой, чтобы остановить брожение, а если он уже забродил, тогда вылейте его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3695</td></tr><tr><td>Arabic No</td><td>3695</td></tr><tr><td>Reference</td><td>Book 27 Hadith 27</td></tr></tbody></table></div>
 

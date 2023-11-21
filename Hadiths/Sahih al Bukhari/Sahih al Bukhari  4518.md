@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Husain:The Verse of Hajj-at-Tamatu was revealed in Allah's B
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Imran Abu Bakr] Telah menceritakan kepada kami [Abu Raja'] dari [Imran bin Hushain radliallahu 'anhuma] dia berkata; Ayat mut'ah (menggabungkan haji dan umrah) telah diturunkan di dalam kitabullah, maka kami pun melaksanakannya bersama Rasulullah shallallahu 'alaihi wasallam, dan Al qur'an tidak menurunkan ayat yang mengharamkannya, beliau pun tidak melarangnya hingga beliau wafat. sehingga seseorang dapat berbicara apa yang ia kehendaki menurut pendapatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4518</td></tr><tr><td>Arabic No</td><td>4518</td></tr><tr><td>Reference</td><td>Book 65 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран ибн Хусайн, да будет доволен Аллах ими обоими, сказал: «Аят о (допустимости) совершения хаджа после ‘умры /мут‘а/ был ниспослан в Книге Аллаха, и мы делали это вместе с посланником Аллаха ﷺ и в Коране не было ниспослано (аятов), запрещающих (подобное, и Пророк ﷺ) не запрещал этого до самой своей смерти, а (потом один) человек высказал об этом то мнение, которое пожелал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4518</td></tr><tr><td>Arabic No</td><td>4518</td></tr><tr><td>Reference</td><td>Book 65 Hadith 43</td></tr></tbody></table></div>
 

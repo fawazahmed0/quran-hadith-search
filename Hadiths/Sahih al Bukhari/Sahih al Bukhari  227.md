@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma':A woman came to the Prophet (ﷺ) and said, "If anyone of us gets
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Yahya] dari [Hisyam] berkata, telah menceritakan kepadaku [Fatimah] dari [Asma'] berkata, "Seorang wanita datang kepada Nabi shallallahu 'alaihi wasallam dan bertanya "Bagaimana pendapat Tuan jika salah seorang dari kami darah haidnya mengenai pakaiannya. Apa yang harus dilakukannya?" Beliau menjawab: "Membersihkan darah yang menggenai pakaiannya dengan menggosoknya dengan jari, lalu memercikinya dengan air. Kemudian shalat dengan pakaian tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>227</td></tr><tr><td>Arabic No</td><td>227</td></tr><tr><td>Reference</td><td>Book 4 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асмаъ, да будет доволен ею Аллах, сказала: «(Как-то раз) к Пророку ﷺ пришла одна женщина и спросила (его): “Что следует сделать той из нас, кровь которой во время месячных попадёт на её одежду?” Он ответил: “Пусть она удалит следы крови, потом польёт (это место) водой и потрёт его (руками), а потом побрызгает его, и после этого она (может) молиться в этой одежде”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>227</td></tr><tr><td>Arabic No</td><td>227</td></tr><tr><td>Reference</td><td>Book 4 Hadith 93</td></tr></tbody></table></div>
 

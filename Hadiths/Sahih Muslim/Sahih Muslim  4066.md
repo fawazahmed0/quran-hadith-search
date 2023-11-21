@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala'] dan [Washil bin Abdul A'la] keduanya berkata; telah menceritakan kepada kami [Ibnu Fudlail] dari [Ayahnya] dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kurma dengan kurma, gandum dengan gandum, jewawut dengan gandum, garam dengan garam harus sebanding dan tunai. Dan barangsiapa melebihkan, maka dia telah melakukan praktek riba kecuali jika berbeda jenisnya." Dan telah menceritakan kepadaku [Abu Sa'id Al Asyaj] telah menceritakan kepada kami [Al Muharibi] dari [Fudlail bin Ghazwan] dengan isnad ini, namun dia tidak menyebutkan "Tunai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4066</td></tr><tr><td>Arabic No</td><td>1588.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4066</td></tr><tr><td>Arabic No</td><td>1588.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 105</td></tr></tbody></table></div>
 

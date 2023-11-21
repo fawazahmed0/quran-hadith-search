@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I saw Allah's Messenger (ﷺ) opening the prayer wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepada kami [Salim bin 'Abdullah] bahwa ['Abdullah bin 'Umar] radliallahu 'anhuma berkata, "Aku melihat Nabi shallallahu 'alaihi wasallam memulai shalat dengan bertakbir. Beliau mengangkat kedua tangannya ketika bertakbir hingga meletakkan kedua tangannya sejajar dengan pundaknya. Ketika takbir untuk rukuk beliau juga melakukan seperti itu, jika mengucapkan: 'SAMI'ALLAHU LIMAN HAMIDAH (Semoga Allah mendengar siapa yang memuji-Nya) ', beliau juga melakukan seperti itu sambil mengucapkan: 'RABBANAA WA LAKAL HAMDU (Ya Rabb kami, milik Engkaulah segala pujian) '. Namun Beliau tidak melakukan seperti itu ketika akan sujud dan ketika mengangkat kepalanya dari sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>738</td></tr><tr><td>Arabic No</td><td>738</td></tr><tr><td>Reference</td><td>Book 10 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Абуль-Яман, который сказал:\n— Сообщил нам Шу‘айб от аз-Зухри, который сказал:\n— Сообщил нам Салим ибн ‘Абдуллах о том, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я видел, как Пророк ﷺ начинал произносить вступительный такбир в намазе и он поднял руки до уровня плеч, когда произносил слова “Аллах велик /Аллаху акбар/”, и он сделал то же самое, когда произносил такбир перед совершением поясного поклона, и когда он сказал: “Да услышит Аллах того, кто воздал Ему хвалу /Cами‘а-Ллах ли-ман хамидаху/” он сделал то же самое, после чего сказал: “Господь наш, и Тебе хвала /Раббана ва лякаль-хамд/”. И он не (поднимал рук) ни во время совершения земного поклона, ни в то время, когда поднимал голову с земного поклона»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>738</td></tr><tr><td>Arabic No</td><td>738</td></tr><tr><td>Reference</td><td>Book 10 Hadith 132</td></tr></tbody></table></div>
 

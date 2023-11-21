@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Adi bin Hatim:I said, "O Allah's Messenger (ﷺ)! We let loose our trai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Hammam Ibnul harits] dari [Adi bin Hatim] radliallahu 'anhu, ia berkata, "Aku bertanya, "Wahai Rasulullah, kami melepas anjing yang telah dilatih?" Beliau menjawab: "Makanlah apa yang dia tangkap untuk kamu." Aku bertanya, "Bagaimana jika ia membunuhnya." Beliau menjawab: "Meskipun ia membunuhnya." Aku bertanya lagi, "Kami juga melempar (memanah/menombak) dengan mi'radl?" Beliau menjawab: "Makanlah apa yang terkoyak, adapun yang terkena pada bagian tumpulnya maka janganlah kamu makan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5477</td></tr><tr><td>Arabic No</td><td>5477</td></tr><tr><td>Reference</td><td>Book 72 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим, да будет доволен им Аллах, сказал: «Я сказал: “О Посланник Аллаха! Мы выпускаем обученных собак на дичь?” Он сказал: “Ешь мясо дичи, которую они схватят для тебя”. Я спросил: “Даже если они убьют (дичь)?” Он ответил: “Даже если они убьют ее”. Я сказал: “Мы также метаем (в дичь) ми‘рад (т.е. древковое оружие с заточенными остриями)”. Он сказал: “Ешь мясо дичи, которую пронзает (ми‘рад), но не ешь то, что убито тупой частью (т.е. древком ми‘рада)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5477</td></tr><tr><td>Arabic No</td><td>5477</td></tr><tr><td>Reference</td><td>Book 72 Hadith 3</td></tr></tbody></table></div>
 

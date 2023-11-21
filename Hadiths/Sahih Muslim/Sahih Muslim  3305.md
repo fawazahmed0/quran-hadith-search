@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira, (Allah be pleased with him) reported. When Allah, the Exalted and M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ubaidullah bin Sa'id] semuanya dari [Al Walid] - [Zuhair] berkata- Telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Al Auza'i] telah menceritakan kepadaku [Yahya bin Abu Katsir] telah menceritakan kepadaku [Abu Salamah] -ia adalah Ibnu Abdurrahman- telah menceritakan kepadaku [Abu Hurairah] ia berkata; Setelah Allah 'azza wajalla memenangkan Rasulullah shallallahu 'alaihi wasallam atas penaklukan kota Makkah, beliau berpidato di hadapan orang banyak. Setelah memuji dan menyanjung Allah, beliau bersabda: "Sesungguhnya Allah telah melindungi kota Makkah dari serangan tentara gajah serta memberi kekuatan kepada Rasul-Nya dan orang-orang beriman untuk mempertahankannya. Tidak seorang pun yang boleh berperang di negeri ini. Larangan itu telah ada sejak dahulu. Dan hanya dikecualikan kepadaku untuk sesaat di siang hari. Dan juga tidak dibolehkan bagi orang-orang yang sesudahku. Jangan diburu hewan-hewan buruannya, jangan dipotong pohon berdurinya. Dan jangan dipungut barang-barang yang hilang tercecer kecuali untuk diumumkan. Siapa yang anggota keluarganya terbunuh, dia mempunyai dua pilihan yang baik, yaitu; Menerima uang tebusan atau membunuh si pembunuh." Kemudian berujarlah Al Abbas, "Selain Al Idzkhir ya Rasulullah. Karena kami membutuhkannya untuk kuburan dan rumah-rumah kami." Maka beliau pun bersabda: "Melainkah Al Idzkhir." Lalu berdirilah Abu Syat seorang laki-laki dari penduduk Yaman dan berkata, "Tuliskanlah untuk ya Rasulullah." Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Tiliskanlah untuk Abu Syat." Al Walid berkata; Aku bertanya kepada Al Auza'i, "Apa maksud dari sabda beliau: 'Tuliskanlah untuk ya Rasulullalh." Ia pun menjawab, "Yaitu, khuthbah ini, yang ia dengar dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3305</td></tr><tr><td>Arabic No</td><td>1355.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 509</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3305</td></tr><tr><td>Arabic No</td><td>1355.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 509</td></tr></tbody></table></div>
 

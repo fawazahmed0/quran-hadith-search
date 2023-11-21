@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibrahim b. Yazid al-Tayml reported:I used to read the Qur'an with my father in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ali bin Hujr as-Sa'di] telah mengabarkan kepada kami [Ali bin Mushir] telah menceritakan kepada kami [al-A'masy] dari [Ibrahim bin Yazid at-Taimi] dia berkata, "Saya membaca Al Quran di hadapan [bapakku] di pelataran masjid. Apabila aku membaca as-Sajdah, maka dia bersujud, lalu aku bertanya kepadanya, 'Wahai bapakku, apakah kamu sujud di jalan? ' Dia menjawab, 'Aku mendengar [Abu Dzarr] berkata, 'Aku bertanya kepada Rasulullah Shallallahu'alaihiwasallam tentang pertama kali masjid yang di bangun di muka bumi? ' Beliau menjawab, 'Masjid al-Haram.' Aku bertanya lagi, 'Kemudian masjid apa? ' Beliau menjawab, 'Masjid al-Aqsha.' Aku bertanya, 'Berapa jarak (waktu pembuatan) antara keduanya? ' Beliau menjawab, 'Empat puluh tahun, kemudian semua bumi bagimu adalah masjid, maka di mana pun waktu shalat mendapatimu, maka shalatlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1162</td></tr><tr><td>Arabic No</td><td>520.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибрахим ибн Язид ат-Тайми сказал: «(Однажды) я читал отцу Коран во дворе мечети, и когда я прочитал (аят, в котором содержится веление совершить) земной поклон, он совершил земной поклон. Я сказал ему: “О отец, ты совершаешь земной поклон на дороге?!” Он ответил: “Я слышал, как Абу Зарр сказал: ‹(Однажды) я спросил Посланника Аллаха ﷺ о том, какая мечеть была построена на земле первой, и он сказал: ‹Запретная мечеть /аль-масджид аль-харам/›. Я спросил: ‹А какая после (неё)?› Он ответил: ‹Отдалённейшая мечеть /аль-масджид аль-акса/›. Я спросил: ‹А сколько (лет прошло) между (возведением) той и другой?› Он ответил: ‹Сорок лет›, (после чего сказал): ‹Земля является мечетью (местом поклонения) для тебя, поэтому где бы ни застало тебя (время) молитвы, молись›”».Глава: Вся земля была сделана для меня местом для молитв и средством очищения
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1162</td></tr><tr><td>Arabic No</td><td>520.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 2</td></tr></tbody></table></div>
 

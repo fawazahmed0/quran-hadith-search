@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "O Allah! Bestow Your blessings on ou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Azhar bin Sa'd] dari [Ibnu 'Aun] dari [Nafi'] dari [Ibnu Umar] mengatakan, Nabi shallallahu 'alaihi wasallam pernah memanjatkan doa; "Ya Allah, berilah kami barakah dalam Syam kami, ya Allah, berilah kami barakah dalam Yaman kami." Para sahabat berkata; 'ya Rasulullah, dan juga dalam Nejed kami! ' Rasulullah Shallallahu'alaihiwasallam membaca doa: "Ya Allah, berilah kami barakah dalam Syam kami, ya Allah, berilah kami barakah dalam Yaman kami." Para sahabat berkata; 'Ya Rasulullah, juga dalam Nejed kami! ' dan seingatku, pada kali ketiga, beliau bersabda; "Disanalah muncul keguncangan dan fitnah, dan disanalah tanduk setan muncul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7094</td></tr><tr><td>Arabic No</td><td>7094</td></tr><tr><td>Reference</td><td>Book 92 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «О Аллах, сделай благословенным для нас наш Шам! О Аллах, сделай благословенным для нас наш Йемен!» (Люди) сказали: «О Посланник Аллаха! А наш Неджд?» Он сказал: «О Аллах, сделай благословенным для нас наш Шам! О Аллах, сделай благословенным для нас наш Йемен!» (Люди) сказали: «О Посланник Аллаха! А наш Неджд?» И, как я думаю, в третий раз он сказал: «Там — землетрясения, искушения и смуты, и там выходит рог шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7094</td></tr><tr><td>Arabic No</td><td>7094</td></tr><tr><td>Reference</td><td>Book 92 Hadith 45</td></tr></tbody></table></div>
 

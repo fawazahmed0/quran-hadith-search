@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:The Prophet (ﷺ) said, "A good dream is from Allah, and a b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Ubaidullah bin Abi Ja'far] telah mengabarkan kepadaku [Abu Salamah] dari [Abu Qatadah] mengatakan, Nabi Shallallahu'alaihiwasallam bersabda: "Mimpi yang baik adalah berasal dari Allah, sedang mimpi yang buruk berasal dari setan, maka barangsiapa melihat sesuatu yang tidak disukainya, hendaklah ia meludah ke samping kirinya sebanyak tiga kali, dan mintalah perlindungan dari setan, sesungguhnya mimpinya tersebut tidak akan membahayakannya, dan setan tidak mungkin bisa menyerupaiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6995</td></tr><tr><td>Arabic No</td><td>6995</td></tr><tr><td>Reference</td><td>Book 91 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Катада, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Благое сновидение — от Аллаха, а дурное — от шайтана, и если кто-нибудь увидит нечто, что ему не понравится, пусть трижды сплюнет налево и обратится к Аллаху с мольбой о защите от шайтана, и, поистине, тогда (увиденное им во сне) не повредит ему, ибо, поистине, шайтан не может представиться в моём облике»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6995</td></tr><tr><td>Arabic No</td><td>6995</td></tr><tr><td>Reference</td><td>Book 91 Hadith 14</td></tr></tbody></table></div>
 

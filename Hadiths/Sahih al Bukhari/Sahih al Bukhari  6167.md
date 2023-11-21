@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A bedouin came to the Prophet (ﷺ) and said, "O Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ashim] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas] bahwa seorang laki-laki dari penduduk kampung datang kepada Nabi shallallahu 'alaihi wasallam seraya berkata; "Wahai Rasulullah, kapankah hari Kiamat akan terjadi?" beliau menjawab: "Celaka kamu, apa yang telah kau persiapkan?" laki-laki itu berkata; "Aku belum mempersiapkan bekal kecuali aku hanya mencintai Allah dan Rasul-Nya." Beliau bersabda: "Kalau begitu, kamu bersama dengan orang yang kamu cintai." Maka kami pun berkata; "Apakah kami juga seperti itu?" beliau menjawab: "Ya." Maka pada hari itu kami sangat bahagia, tiba-tiba pelayan Mughirah lewat -sedangkan dia termasuk dari teman dekatku- beliau lalu bersabda: "Jika (ajalnya) ini diakhirkan, pasti dia tidak akan mendapati penyakit tua sampai kiamat tiba." [Syu'bah] meringkasnya, dari [Qatadah] saya mendengar [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6167</td></tr><tr><td>Arabic No</td><td>6167</td></tr><tr><td>Reference</td><td>Book 78 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) какой-то бедуин пришёл к Пророку ﷺ и спросил: “О Посланник Аллаха, когда наступит Час этот?” Он сказал: “Горе тебе, а что ты для него приготовил?” (Бедуин) сказал: “Я не приготовил для него ничего, кроме своей любви к Аллаху и Его посланнику”. (На это Пророк ﷺ) сказал: “Поистине, ты (будешь) с теми, кого ты любишь!” Мы спросили: “И мы тоже?” Он сказал: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6167</td></tr><tr><td>Arabic No</td><td>6167</td></tr><tr><td>Reference</td><td>Book 78 Hadith 193</td></tr></tbody></table></div>
 

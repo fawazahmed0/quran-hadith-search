@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Bakrah:The Prophet (ﷺ) as saying: The two months of 'Id (festival
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] bahwa [Yazid bin Zurai'] telah menceritakan kepada mereka; telah menceritakan kepada kami [Khalid Al Hadzdza'] dari [Abdurrahman bin Abu Bakrah] dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam beliau berkata: "Dua bulan 'Id tidaklah berkurang (pahalanya) yaitu Bulan Ramadhan (setelahnya adalah 'Idul Fithri), dan Bulan Dzul Hijjah (padanya 'Idul Adlha)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1912) Sahih Muslim (1089)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абду-р-Рахман, сын Абу Бакры, передаёт от своего отца, Пророк ﷺ сказал: «Два праздничных месяца рамадан и зуль-хиджжа не уменьшаются»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1912) Sahih Muslim (1089)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
 

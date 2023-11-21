@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ya'la bin Umaiya:I fought in Jaish-al-Usra (Ghazwa of Tabuk) along with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Isma'il bin 'Ulayyah] telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepada saya ['Atha'] dari [Shafwan bin Ya'laa] dari [Ya'laa bin Umayyah radliallahu 'anhu] berkata; Aku ikut perang dalam pasukan masa paceklik (pasukan perang Tabuk) dan itu merupakan amalku yang paling berkesan dalam jiwaku. Saat itu aku memiliki orang bayaran lalu dia memerangi seorang musuh salah satu diantaranya menggigit jari lawannya hingga jari lawannya putus lalu jatuh. Lalu dia menemui Nabi shallallahu 'alaihi wasallam lalu Beliau tidak menerapkan diyat atau tebusan kepada salah satunya dan bersabda: "Apakah dia melepaskan jarinya dalam mulutmu?" Orang itu berkata: "Aku kira begitu". Lalu Beliau bersabda: "Seperti unta mengigitnya". Berkata, [Ibnu Juraij] dan telah menceritakan kepada saya ['Abdullah bin Abi Mulaikah] dari [kakeknya] seperti redaksi hadits ini, yang salah seorang menggigit jari lawannya lalu dibebasakan dari segala tuntutan oleh Abu Bakar radliallahu 'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2266</td></tr><tr><td>Arabic No</td><td>2266</td></tr><tr><td>Reference</td><td>Book 37 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+А Ибн Абу Муляйка передаёт от своего деда подобную историю, о том, что один человек укусил руку другому, и тот отдёрнул свою руку, вырвав его передний зуб, и Абу Бакр, да будет доволен им Аллах, также оставил (вырванный в подобном случае) зуб без возмещения
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2266</td></tr><tr><td>Arabic No</td><td>2266</td></tr><tr><td>Reference</td><td>Book 37 Hadith 6</td></tr></tbody></table></div>
 

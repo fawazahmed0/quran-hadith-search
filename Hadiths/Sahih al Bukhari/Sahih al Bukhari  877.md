@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) (p.b.u.h) said, "Anyone of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar] radliallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorangii kalian mendatangi shalat jum'at hendaklah ia mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>877</td></tr><tr><td>Arabic No</td><td>877</td></tr><tr><td>Reference</td><td>Book 11 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас (решит) прийти на пятничную молитву, пусть искупается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>877</td></tr><tr><td>Arabic No</td><td>877</td></tr><tr><td>Reference</td><td>Book 11 Hadith 2</td></tr></tbody></table></div>
 

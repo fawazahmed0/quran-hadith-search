@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah: I went out along with the Prophet (ﷺ) during his last march,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepada kami [Abu Bakr Al Hanafi], telah menceritakan kepada kami [Aflah] dari [Al Qasim] dari [Aisyah], ia berkata; aku keluar bersama Rasulullah shallallahu 'alaihi wasallam pada rombongan yang terakhir, dan beliau singgah di Muhashshab. Abu Daud berkata; Ibnu Basysyar tidak menyebutkan kisah pengiriman Aisyah ke Tan'im dalam hadits ini. Aisyah berkata; kemudian aku datang kepada beliau pada waktu sahur, lalu beliau mengizinkan para sahabatnya untuk berangkat (keluar Mekkah), beliau melewati Ka'bah sebelum shalat Subuh dan melakukan thawaf padanya ketika beliau keluar kemudian pergi menuju Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1560) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2006</td></tr><tr><td>Arabic No</td><td>2006</td></tr><tr><td>Reference</td><td>Book 11 Hadith 286</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Я отправилась в путь вместе с Пророком ﷺ с последней группой паломников, и он остановился в Мухассабе. Я пришла к нему на рассвете, и он велел своим сподвижникам ехать и сам поехал. Он проезжал мимо Каабы до наступления времени утренней молитвы /фаджр/ и совершил обход вокруг неё, после чего отправился в Медину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1560) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2006</td></tr><tr><td>Arabic No</td><td>2006</td></tr><tr><td>Reference</td><td>Book 11 Hadith 286</td></tr></tbody></table></div>
 

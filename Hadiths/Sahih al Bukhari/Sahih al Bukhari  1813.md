@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':When 'Abdullah bin 'Umar set out for Mecca with the intentions pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya [Malik] dari [Nafi'] bahwa ['Abdullah bin 'Umar radliallahu 'anhu] berkata, ketika dia hendak berangkat melaksanakan 'umrah saat terjadinya fitnah: Jika aku dihalang-halangi dari Baitullah, kami akan melakukan seperti yang dilakukan Rasulullah shallallahu 'alaihi wasallam, yaitu aku akan berihram untuk 'umrah karena Nabi shallallahu 'alaihi wasallam pernah berihram untuk 'umrah pada tahun perjanjian Hudaibiyah" Kemudian 'Abdullah bin 'Umar radliallahu 'anhu memandang bahwa urusan keduanya (haji dan 'umrah) tidak lain kecuali satu. Lalu dia mendatangi para shahabatnya seraya berkata: "Aku bersaksi kepada kalian bahwa aku telah meniatkan hajiku ini bersama 'umrah". Maka dia thawaf untuk keduanya (haji dan 'umrah) dengan satu thawaf dan memandang bahwa hal itu sudah memadai lalu dia berqurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 27 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что когда ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, отправился в Мекку для совершения ‘умры, во время смуты, он сказал: «Если мне помешают достичь Каабы, то мы поступим так же, как мы поступили вместе с посланником Аллаха ﷺ». Он произнёс тальбию для ‘умры, потому что Пророк ﷺ произнёс так же тальбию для ‘умры в год Худайбии. Затем ‘Абдуллах ибн ‘Умар подумал о своём положении и сказал: «Положения хаджа и ‘умры одинаковы, я делаю вас свидетелями того, что я намерился совершить хадж вместе с ‘умрой». Затем он совершил один таваф для хаджа и умры, так как считал, что этого достаточно, затем он зарезал жертвенное животное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 27 Hadith 8</td></tr></tbody></table></div>
 

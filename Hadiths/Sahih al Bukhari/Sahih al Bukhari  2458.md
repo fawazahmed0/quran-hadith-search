@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:(the wife of the Prophet) Allah's Messenger (ﷺ) heard some 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah menceritakan kepadaku [Ibrahim bin Sa'ad] dari [Shalih] dari [Ibnu Syihab] berkata, telah menceritakan kepadaku ['Urwah bin Az Zubair] bahwa [Zainab bunti Ummu Salamah] mengabarkan kepadanya bahwa ibunya, [Ummu Salamah radliallahu 'anhah], isteri Nabi shallallahu 'alaihi wasallam mengabarkan kepadanya dari Rasulullah shallallahu 'alaihi wasallam bahwa Beliau mendengar dari balik pintu rumah Beliau ada pertengkaran lalu Beliau keluar menemui mereka kemudian bersabda: "Aku ini hanyalah manusia biasa dan sesungguhnya pertangkaran seringkali dilaporkan kepadaku. Dan bisa salah seorang diantara kalian lebih pandai bersilat lidah daripada lainnya, lalu aku menganggap dia benar kemudian aku berikan kepadanya sesuai pengakuannya itu. Maka siapa yang aku putuskan menang dengan mencederai hak seorang muslim, berarti itu adalah potongan dari api neraka. Karena itu hendaklah dia ambil atau ditinggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2458</td></tr><tr><td>Arabic No</td><td>2458</td></tr><tr><td>Reference</td><td>Book 46 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов жены Пророка ﷺ Умм Саламы, да будет доволен ею Аллах, что однажды Посланник Аллаха ﷺ услышал (шум) спора у дверей своей комнаты, вышел к (спорившим) и сказал: «Поистине, я — только человек, а (люди) приходят ко мне (со своими) спорами. И может оказаться так, что кто-нибудь из вас будет более красноречив, чем другой, и я посчитаю, что он сказал правду, и вынесу решение в его пользу на основании этого. Однако если я (по ошибке) решу отдать ему то, что по праву принадлежит (другому) мусульманину, это будет не чем иным, как частью (пламени) ада, так пусть он (сам) возьмёт это или откажется от этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2458</td></tr><tr><td>Arabic No</td><td>2458</td></tr><tr><td>Reference</td><td>Book 46 Hadith 19</td></tr></tbody></table></div>
 

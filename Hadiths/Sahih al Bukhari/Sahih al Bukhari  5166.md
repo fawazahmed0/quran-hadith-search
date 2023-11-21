@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I was ten years old when Allah's Messenger (ﷺ) arrived
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] ia berkata; Telah menceritakan kepadaku [Al Laits] dari [Uqail] dari [Ibnu Syihab] ia berkata; Telah mengabarkan kepadaku [Anas bin Malik] radliallahu 'anhu bahwasanya; Saat Rasulullah shallallahu 'alaihi wasallam datang di Madinah, ia masih anak-anak usia sepuluh tahun. Ia mengkisahkan; ibuku menyuruhku untuk berkhidmat kepada Nabi shallallahu 'alaihi wasallam. Maka aku pun berkhidmat untuk beliau selama sepuluh tahun, maka saat Nabi shallallahu 'alaihi wasallam wafat aku adalah pemuda yang telah berumur dua puluh tahun. Akulah orang yang paling mengerti tentang hijab saat perintah itu diturunkan. Itu adalah perintah yang pertama kali turun pada pernikahan Rasulullah shallallahu 'alaihi wasallam dengan Zainab binti Jahsyin. Saat itu Rasulullah shallallahu 'alaihi wasallam mengadakan walimah, beliau mengundang orang-orang dan mereka pun menikmati makanan yang dihidangkan. Setelah itu, mereka pun keluar pergi, kecuali beberapa orang yang masih tetap berada di sisi Rasulullah shallallahu 'alaihi wasallam, mereka memperlama duduk di situ. Maka Nabi shallallahu 'alaihi wasallam pun beranjak dan keluar, lalu aku pun ikut keluar bersama beliau agar orang-orang itu juga ikut keluar. Kemudian Nabi shallallahu 'alaihi wasallam berjalan, dan aku juga ikut berjalan hingga sampai di ambang pintu rumah Aisyah. Lalu beliau mengira, bahwa mereka yang duduk tadi telah keluar, maka beliau pun kembali lagi dan aku juga ikut kembali hingga beliau sampai di tempat Zainab, dan ternyata orang-orang itu masih ada di situ dan belum beranjak. Akhirnya Nabi shallallahu 'alaihi wasallam pun kembali lagi dan aku juga ikut kembali bersamanya. Dan ketika sampai di ambang pintu Aisyah, beliau menduga bahwa mereka pasti sudah pergi, maka beliau kembali lagi dan aku juga ikut kembali bersama beliau, dan ternyata orang-orang itu sudak keluar pergi, maka Nabi shallallahu 'alaihi wasallam meletakkan pembatas antara aku dan beliau, maka saat itu diturunkan perintah Hijab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5166</td></tr><tr><td>Arabic No</td><td>5166</td></tr><tr><td>Reference</td><td>Book 67 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик рассказывал: «Когда Посланник Аллаха ﷺ прибыл в Медину, мне было десять лет. Моя мать и тётки приучали меня служить Пророку ﷺ, и я служил ему в течение десяти лет. Когда Пророк ﷺ умер, мне было двадцать лет, и я лучше всех (остальных) людей знал о занавесе, и когда был ниспослан (приказ его опускать). Впервые это было ниспослано, когда Посланник Аллаха ﷺ заключил свой брак с Зайнаб бинт Джахш, и наутро он пригласил людей на свадебное угощение. Они поели, а затем все ушли, но несколько человек осталось сидеть у Пророка ﷺ, и они просидели так долгое время. Тогда Пророк ﷺ встал и вышел, и я тоже вышел вместе с ним, чтобы эти люди ушли. Пророк ﷺ шёл, и я тоже шёл, пока он не подошёл к порогу дома ‘Аиши. Затем он, подумав, что те люди ушли, вернулся, и я вернулся вместе с ним, однако, зайдя к Зейнаб, он обнаружил, что они всё ещё сидели там и не ушли. Тогда Пророк ﷺ снова ушёл, и я ушёл вместе с ним. Дойдя до порога дома ‘Аиши, он снова подумал, что они ушли и вернулся, а я вернулся вместе с ним, и оказалось, что они уже ушли, тогда Пророк ﷺ опустил передо мной занавеску, и так был ниспослан аят о занавесе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5166</td></tr><tr><td>Arabic No</td><td>5166</td></tr><tr><td>Reference</td><td>Book 67 Hadith 101</td></tr></tbody></table></div>
 

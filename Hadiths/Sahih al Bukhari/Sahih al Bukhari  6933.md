@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:While the Prophet (ﷺ) was distributing (something, 'Abdulla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dai [Abu Sa'id] mengatakan; Ketika Nabi shallallahu 'alaihi wasallam sedang membagi (harta rampasan), tiba-tiba Adbdullah bin Dzil huwaishirah At Tamimi datang seraya menegur Nabi; 'Hendaklah engkau berbuat adil! ' Spontan Nabi menjawab: "siapa lagi yang berbuat adil jika aku tak berbuat adil?" Umar kemudian berujar; 'Biarkan aku yang memenggal lehernya! ' Nabi bersabda; "Biarkan saja dia, sebab dia mempunyai beberapa kawan yang salah seorang diantara kalian meremehkan shalatnya dibanding dengan shalatnya, dan meremehkan puasanya dibanding puasanya, mereka keluar dari agama sebagaimana anak panah keluar dari busur, ia melihat bulu anak panahnya namun tak ada apa-apa, kemudian memperhatikan mata anak panahnya namun tidak ditemukan apa-apa, kemudian melihat kain panahnya namun tidak didapatkan apa-apa, dan telah didahulu oleh kotoran dan darah. Tanda-tanda mereka adalah salah satu diantara kedua tangannya -atau- diantara kedua putingnya seperti puting kaum perempuan atau ia seperti daging yang bergerak-gerak, mereka muncul ketika manusia mengalami perpecahan." Sedang Abu Sa'id mengatakan; aku bersaksi bahwa aku mendengar dari Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam, dan aku bersaksi bahwa 'Ali membunuh mereka dan aku bersamanya ketika didatangkan seseorang yang ciri-cirinya seperti yang disifatkan Nabi shallallahu 'alaihi wasallam, lantas diturunlah ayat; 'Diantara mereka ada yang mengolok-olokmu karena sedekah yang kamu infakkan' (QS. Attaubah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6933</td></tr><tr><td>Arabic No</td><td>6933</td></tr><tr><td>Reference</td><td>Book 88 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид сказал: «Однажды во время раздела военной добычи (после одного из военных походов) к Пророку ﷺ подошёл ‘Абдуллах ибн Зиль-Хуайсыра ат-Тамими и сказал: “О Посланник Аллаха, будь справедлив!” Пророк ﷺ сказал: “Горе тебе, кто же придерживается справедливости, если я не справедлив!?” (Услышав это,) ‘Умар ибн аль-Хаттаб сказал: “Позволь отрубить ему голову!” Пророк ﷺ ответил: “Оставь его, ибо у него есть товарищи, любой из вас посчитает свои молитвы и посты ничтожными по сравнению с их молитвами и постами, они вылетают из религии подобно тому, как стрела вылетает через дичь, (пробив её насквозь с такой скоростью, что) на хвостике стрелы ничего не видно, на острие стрелы ничего не видно, на его “рисафе” (часть наконечника стрелы) ничего не видно, на древке стрелы ничего не видно, ни внутренностей, ни крови. Их признаком будет мужчина, одна из рук (или: грудей) которого будет подобна женской груди или болтающемуся куску мяса. Они появятся, когда между людьми будут разногласия”». Абу Са‘ид сказал: «Я свидетельствую, что слышал этот хадис от Пророка ﷺ, и я свидетельствую, что ‘Али сражался с такими людьми, и я был вместе с ним. (Он приказал найти человека, описанного Пророком ﷺ), и когда его привели, (я посмотрел на него,) а он выглядел точно так, как его описал Пророк ﷺ».\nОн также сказал: «И в отношении него было ниспослано: “Среди них есть такие, которые обвиняют тебя из-за милостыни” (сура “ат-Тауба”, аят 58)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6933</td></tr><tr><td>Arabic No</td><td>6933</td></tr><tr><td>Reference</td><td>Book 88 Hadith 15</td></tr></tbody></table></div>
 

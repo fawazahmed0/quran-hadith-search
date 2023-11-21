@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmamah Ilyas ibn Tha'labah: The Companions of the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Abdullah bin Abu Umamah] dari [Abdullah bin Ka'b bin Malik] dari [Abu Umamah] ia berkata, "Pada suatu hari sahabat Rasulullah shallallahu 'alaihi wasallam memperbincangkan tentang dunia di sisinya, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidakkah kalian mendengar? Tidakkah kalian mendengar? Sesungguhnya sederhana dalam berpakaian adalah bagian dari iman. Sesungguhnya sederhana dalam berpakaian adalah bagian dari iman." Maksudnya adalah berpakaian apa adanya dan pantas.", Abu Dawud berkata; "Dia adalah Abu Umamah bin Tsa'labah Al Anshari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4161</td></tr><tr><td>Arabic No</td><td>4161</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Умамы, да будет доволен им Аллах, что однажды в присутствии Посланника Аллаха ﷺ его сподвижники упомянули о мирских благах и Посланник Аллаха ﷺ сказал: «Послушайте! Послушайте! Поистине, заношенность от веры, заношенность от веры!» То есть умеренность в пользовании мирскими благами
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4161</td></tr><tr><td>Arabic No</td><td>4161</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
 

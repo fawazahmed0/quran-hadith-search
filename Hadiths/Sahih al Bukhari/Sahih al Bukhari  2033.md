@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amra:Aisha said, "the Prophet (ﷺ) used to practice I'tikaf in the la
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Yahya] dari ['Amrah] dari ['Aisyah radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam beri'tikaf pada sepuluh hari terakhir dari bulan Ramadhan dan aku membuatkan tenda khusus untuk Beliau, dan setiap beliau selesai dari shalat Shubuh Beliau masuk ke dalam tenda tersebut. Kemudian Hafshah meminta izin kepada 'Aisyah untuk juga membuat tenda, maka 'Aisyah mengizinkannya, lalu Hafshah membuatnya. Ketika Zainab putri dari Jahsy melihatnya ia pun membuat tenda yang lain buatnya. Pada pagi harinya Nabi shallallahu 'alaihi wasallam melihat tenda-tenda tersebut lalu berkata: "Apa ini?" Lalu Beliau diberitahu. Maka Nabi shallallahu 'alaihi wasallam berkata: "Apakah kalian melihat kebaikan ada padanya (dengan membuat tenda-tenda ini)?" Akhirnya Beliau meninggalkan i'tikaf pada bulan itu lalu Beliau ber'tikaf sepuluh hari pada bulan Syawal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2033</td></tr><tr><td>Arabic No</td><td>2033</td></tr><tr><td>Reference</td><td>Book 33 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ совершал и‘тикяф в последние десять дней рамадана. Обычно я ставила для него палатку, и после утренней молитвы он заходил в неё». Однажды Хафса попросила ‘Айшу разрешения поставить палатку (для себя), она разрешила ей, и Хафса поставила палатку. Когда Зейнаб бинт Джахш увидела её, она тоже поставила палатку. Утром увидев палатки, Пророк ﷺ спросил: «Что это?» Когда ему всё рассказали, он сказал: «Считаете ли вы, что они сделали это из благочестия?» Так он оставил и‘тикаф в том месяце, но затем он совершил его в течение десяти (дней) шавваля
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2033</td></tr><tr><td>Arabic No</td><td>2033</td></tr><tr><td>Reference</td><td>Book 33 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ya'la ibn Umayyah: A man came to the Prophet (ﷺ) when he was at al-Ji
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Katsir], telah mengabarkan kepada Kami [Hammam], ia berkata; saya mendengar ['Atha'], telah mengabarkan kepada Kami [Shafwan bin Ya'la bin Umayyah] dari [ayahnya] bahwa seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam sementara beliau berada di Ji'ranah, dan pada diri orang tersebut terdapat bekas Khaluq (minyak yang terbuat dari kunyit dan yang lainnya) -atau ia mengatakan shufrah (sama dengan khaluq) - dan ia memakai jubbah, ia berkata; wahai Rasulullah, apa yang anda perintahkan agar aku lakukan dalam umrahku? Kemudian Allah tabaraka wa ta'ala menurunkan wahyu kepada Nabi shallallahu 'alaihi wasallam, kemudian tatkala telah hilang kesusahan darinya beliau mengatakan: "Dimanakah orang yang bertanya mengenai Umrah tadi?" Beliau bersabda: "Sucilah bekas khaluq tersebut atau beliau mengatakan: bekas Shufrah tersebut, dan lepaskan jubbah darimu, serta perbuatlah pada umrahmu apa yang engkau perbuat pada hajimu." Telah menceritakan kepada Kami [Muhammad bin Isa], telah menceritakan kepada Kami [Abu 'Awanah] dari [Abu Bisyr] dari ['Atha'] dari [Ya'la bin Umayyah] dan [Husyaim] dari [Al Hajjaj] dari ['Atho'] dari [Shafwan bin Ya'la] dari [ayahnya] dengan sifat ini. Dalam hadits tersebut Ya'la mengatakan; kemudian Nabi shallallahu 'alaihi wasallam berkata kepadanya: "Lepaskan jubahmu!" kemudian ia melepaskan jubah tersebut dari kepalanya. Dan ia menyebutkan hadits tesebut. Telah menceritakan kepada Kami [Yazid bin Khalid bin Abdullah bin Mauhib Al Hamadani Ar Ramli], ia berkata; telah menceritakan kepadaku [Al Laits] dari ['Atha' bin Abu Rabah] dari [Ibnu Ya'la bin Munyah] dari [ayahnya] dengan berita ini. Padanya ia mengatakan; kemudian Rasulullah shallAllahu wa'alaihi wa sallam memerintahkan agar ia melepas jubah tersebut dan mandi dua kali, atau tiga kali. Dan ia menyebutkan hadits tersebut. Telah menceritakan kepada Kami ['Uqbah bin Mukrim], telah menceritakan kepada Kami [Wahb bin Jarir], telah menceritakan kepada Kami [ayahku], ia berkata; saya mendengar [Qais bin Sa'd] menceritakan dari ['Atha'] dari [Shafwan bin Ya'la bin Umayyah] dari [ayahnya], bahwa seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam di Ji'ranah, dan ia telah berihram untuk melakukan umrah dan ia memakai jubah, dan ia mencelup jenggot dan kepalanya dengan Shufrah…. Dan ia menyebutkan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1789) Sahih Muslim (1180)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1819</td></tr><tr><td>Arabic No</td><td>1819</td></tr><tr><td>Reference</td><td>Book 11 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Я‘ля ибн Умайя, да будет доволен им Аллах, передаёт: «Один человек, одетый в джуббу со следами шафранового благовония (или: со следами жёлтого цвета), пришёл к Пророку ﷺ в Джи‘ране и спросил его: “О Посланник Аллаха! Как ты велишь мне поступить, если я хочу совершить ‘умру?” В этот момент Всеблагой и Всевышний Аллах ниспослал Пророку ﷺ Откровение. Очнувшись, Пророк ﷺ спросил: “Где тот, кто спрашивал об ‘умре? Смой следы шафранового благовония (или: жёлтые следы), сними свою джуббу и делай во время ‘умры то же, что ты делаешь во время хаджа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1789) Sahih Muslim (1180)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1819</td></tr><tr><td>Arabic No</td><td>1819</td></tr><tr><td>Reference</td><td>Book 11 Hadith 99</td></tr></tbody></table></div>
 

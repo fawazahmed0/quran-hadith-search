@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: When we came to Medina, the women came to me whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah mengabarkan kepada kami [Hisyam bin Urwah] dari [Urwah] dari ['Aisyah radliallahu 'anha] ia berkata, "Ketika kami datang ke Madinah, sekelompok wanita mendatangiku saat aku sedang bermain-main di ayunan. Aku adalah seorang wanita yang rambutnya lebat, mereka kemudian membawaku; mengurus dan meriasku. Setelah itu mereka membawaku kepada Rasulullah shallallahu 'alaihi wasallam. Maka beliau hidup berumah tangga dengaku saat aku berumur sembilan tahun." Telah menceritakan kepada kami [Bisyr bin Khalid] berkata, telah mengabarkan kepada kami [Abu Usamah] berkata, telah menceritakan kepada kami [Hisyam bin Urwah] dengan sanadnya dalam hadits ini, Aisyah berkata, "Saat aku dan beberapa sahabatku berada di ayunan. Mereka membawa dan memasukkan aku ke dalam rumah, dan ternyata di dalamnya telah banyak wanita Anshar. Mereka mengatakan, "Semoga membawa kebaikan dan keberkahan." Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Muhammad] -maksudnya Muhammad bin Amru- dari [Yahya] -maksudnya Yahya bin 'Abdurrahman bin Hathib ia berkata, "'Aisyah radliallahu 'anha berkata, "Kami lalu tiba di Madinah, maka kami pun singgah di bani Al Harits Ibnul Khazraj." 'Aisyah melanjutkan, "Demi Allah, ketika aku sedang berada di ayunan yang terpasang di antara dua pohon, ibuku datang dan menurunkan aku dari ayunan. Dan aku adalah wanita yang mempunyai rambut lebat…. lalu (perawi mengkisahkan Al hadits)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4935</td></tr><tr><td>Arabic No</td><td>4935</td></tr><tr><td>Reference</td><td>Book 43 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4935</td></tr><tr><td>Arabic No</td><td>4935</td></tr><tr><td>Reference</td><td>Book 43 Hadith 163</td></tr></tbody></table></div>
 

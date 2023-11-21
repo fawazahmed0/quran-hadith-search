@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] dan [Ahmad bin Umar Al Waki'i] berkata: Telah menceritakan kepada kami [Ibnu Fudhail] dari [ayahnya] dari [Abu Hazim] dari [Abu Hurairah] ia memarfu'kan hadits ini, ia berkata: Di neraka jarak antara kedua pundak orang kafir ialah sejauh tiga hari perjalanan seorang penunggang yang menunggangi kendaraannya dengan cepat." Al Waki'I tidak menyebutkan: "Di neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7186</td></tr><tr><td>Arabic No</td><td>2852</td></tr><tr><td>Reference</td><td>Book 53 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7186</td></tr><tr><td>Arabic No</td><td>2852</td></tr><tr><td>Reference</td><td>Book 53 Hadith 55</td></tr></tbody></table></div>
 

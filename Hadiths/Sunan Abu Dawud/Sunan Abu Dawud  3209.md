@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amir: Ali, Fadl and Usamah ibn Zayd washed the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Isma'il bin Abu Khalid] dari [Amir], ia berkata; Ali, Al Fadhl, dan Usamah bin Zaid memandikan Rasulullah shallallahu 'alaihi wasallam dan mereka memasukkannya ke dalam kubur beliau. Ia berkata; telah menceritakan kepada kami [Marhab] atau Abu Marhab bahwa mereka memasukkan Abdurrahman bersama mereka, kemudian setelah selesai, Ali berkata; sesungguhnya yang mengurusi seseorang adalah keluarganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3209</td></tr><tr><td>Arabic No</td><td>3209</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амир передаёт, что тело Посланника Аллаха ﷺ омывали ‘Али, аль-Фадль и Усама ибн Зейд и они же опустили его тело в могилу. (Передатчик) сказал: «Мураххаб (или Ибн Абу Мураххаб) рассказал мне, что они взяли туда с собой ‘Абдуррахмана ибн ‘Ауфа, и ‘Али, освободившись, сказал: «Поистине, заниматься (погребением) человека должны его родственники»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3209</td></tr><tr><td>Arabic No</td><td>3209</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
 

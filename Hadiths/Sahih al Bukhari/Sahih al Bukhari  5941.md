@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma':A woman asked the Prophet (ﷺ) saying, "0 Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Hisyam] bahwa dia mendengar [Fathimah binti Mundzir] berkata; saya mendengar [Asma'] berkata; seorang wanita bertanya kepada Nabi shallallahu 'alaihi wasallam katanya; "Wahai Rasulullah, sesungguhnya puteriku menderita penyakit gatal (cacar) hingga rambutnya rontok, sementara saya hendak menikahkannya, apakah saya boleh menyambung rambutnya? Beliau bersabda: "Sesungguhnya Allah melaknat orang yang menyambung rambutnya dan yang minta disambung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5941</td></tr><tr><td>Arabic No</td><td>5941</td></tr><tr><td>Reference</td><td>Book 77 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Асмы, что как-то одна женщина пришла к Пророку ﷺ и сказала: «О Посланник Аллаха, я выдала замуж свою дочь, но (вскоре), она заболела, и её волосы выпали. Подвязать ли мне ей (чужие) волосы?» Посланник Аллаха ﷺ сказал: «Аллах проклял подвязывающую (к волосам другие) волосы, и ту, что просит подвязать их ей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5941</td></tr><tr><td>Arabic No</td><td>5941</td></tr><tr><td>Reference</td><td>Book 77 Hadith 156</td></tr></tbody></table></div>
 

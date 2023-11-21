@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir: The Prophet (ﷺ) said to a man: Would you like me to m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris Adz Dzuhli], serta [Muhammad bin Al Mutsanna] dan [Umar bin Al Khathab], Muhammad berkata; telah menceritakan kepada kami [Abu Al Ashbagh Al Jazari Abdul Aziz bin Yahya], telah mengabarkan kepada kami [Muhammad bin Salamah] dari [Abu Abdurrahim Khalid bin Abu Yazid] dari [Zaid bin Abu Unaisah], dari [Yazid bin Abu Habib] dari [Martsad bin Abdullah] dari ['Uqbah bin 'Amir], bahwa Nabi shallallahu 'alaihi wasallam berkata kepada seorang laki-laki: "Apakah engkau rela aku nikahkah engkau dengan Fulanah?" Ia berkata; Iya. Beliau berkata kepada wanita tersebut: "Apakah engkau rela aku nikahkan engkau dengan Fulan?" Wanita tersebut berkata; Iya. Kemudian beliau menikahkan mereka berdua. Kemudian laki-laki tersebut bercampur dengannya (menggaulinya) dalam keadaan belum menentukan mahar dan belum memberikan sesuatupun kepadanya. Ia termasuk orang-orang yang menyaksikan perdamaian Al Hudaibiyah, orang yang menghadiri perdamaian Al Hudaibiyah, dan memiliki saham di Khaibar. Kemudian tatkala kematian menjemputnya ia berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah menikahkanku dengan Fulanah dan aku belum menentukan mahar untuknya dan belum memberikan sesuatupun kepadanya, dan aku meminta persaksian kalian bahwa aku telah memberikan kepadanya sahamku di Khaibar sebagai mahar. Kemudian wanita tersebut mengambil saham tersebut dan menjualnya seratus ribu. Abu Daud berkata; dan [Umar bin Al Khathab] menambahkan pada awal hadits, dan haditsnya lebih sempurna; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik pernikahan adalah yang paling mudah." Ia berkata; Rasulullah shallallahu 'alaihi wasallam berkata kepada laki-laki tersebut: Kemudian ia menyebutkan hadits tersebut dengan maknanya. Abu Daud berkata; hadits ini dikhawatirkan merupakan hadits tambahan karena kondisinya tidak demikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2117</td></tr><tr><td>Arabic No</td><td>2117</td></tr><tr><td>Reference</td><td>Book 12 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Укба ибн ‘Амир, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал одному человеку: «Желаешь ли ты, чтобы я выдал за тебя такую-то?» Он ответил: «Да». Тогда Пророк ﷺ спросил женщину: «Желаешь ли ты, чтобы я выдал тебя за такого-то?» Она ответила: «Да». И Пророк ﷺ поженил их. И этот человек вступил с ней в половые отношения, не назначив ей брачный дар сразу и ничего не дав ей. А он был одним из участников похода на Худайбию, а бывшие в Худайбии получили наделы в Хайбаре. Когда к нему пришла смерть, он сказал: «Посланник Аллаха ﷺ выдал за меня такую-то, а я не назначил ей брачный дар и ничего не дал ей. И я призываю вас в свидетели, что я даю ей в качестве брачного дара мой надел в Хайбаре». И этот надел перешёл в её собственность, и позже она продала его за сто тысяч дирхемов. ‘Умар ибн аль-Хаттаб, хадис которого более полный, добавлял, что Посланник Аллаха ﷺ сказал: «Лучший брак тот, который требует меньших затрат»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2117</td></tr><tr><td>Arabic No</td><td>2117</td></tr><tr><td>Reference</td><td>Book 12 Hadith 72</td></tr></tbody></table></div>
 

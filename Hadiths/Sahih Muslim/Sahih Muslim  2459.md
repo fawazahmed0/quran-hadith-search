@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:There would be tw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Rabi' Az Zahrani] dan [Qutaibah bin Sa'id] ia berkata; Telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Abu Nadlrah] dari [Abu Sa'id Al Khudri] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada umatku akan muncul dua golongan, dan dari kedua golongan itu akan keluar satu kelompok. Kemudian yang akan membunuhnya adalah yang paling dekat akan kebenaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2459</td></tr><tr><td>Arabic No</td><td>1065.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «В моей общине будет две группы, из числа одной из которых выйдет (группа) вылетевшая (из религии), которую убьёт та из групп, которая ближе к истине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2459</td></tr><tr><td>Arabic No</td><td>1065.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 196</td></tr></tbody></table></div>
 

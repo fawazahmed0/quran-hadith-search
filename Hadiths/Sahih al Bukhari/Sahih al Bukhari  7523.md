@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubaidullah bin 'Abdullah:'Abdullah bin 'Abbas said, "O the group of Mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Azzuhri] telah mengabarkan kepadaku ['Ubaidullah bin Abdullah] bahwa [Abdullah bin Abbas] berkata, "Wahai segenap muslimin, bagaimana kalian bertanya ahli kitab tentang sesuatu, sedang kitab kalian yang Allah turunkan kepada nabi kalian shallallahu 'alaihi wasallam adalah berita paling baru tentang Allah yang tidak dicampuri oleh sesutu apapun, dan Allah telah menceritakan kepada kalian bahwa ahli kitab mengubah-ubah kitab Allah dan merubah-rubahnya. Setelah itu mereka tulis kitab-kitab Allah dengan tangannya, dan mereka katakan, 'Ini dari Allah', yang demikian untuk mereka beli dengan harga yang sedikit, tidakkah ilmu yang datang kepada kalian melarang kalian bertanya kepada mereka? Tidak, demi Allah, tidak akan kami lihat salah seorang di antara mereka bertanya kalian tentang yang diturunkan kepada kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7523</td></tr><tr><td>Arabic No</td><td>7523</td></tr><tr><td>Reference</td><td>Book 97 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «О мусульмане, как вы можете спрашивать о чём-то у обладателей Писания, когда ваше Писание, ниспосланное Аллахом вашему Пророку ﷺ (содержит) самые свежие сообщения об Аллахе? (Вы читаете его) чистым, неискажённым. И Аллах рассказал вам, что обладатели Писания, исказили и изменили Книги Аллаха и написали Писания собственными руками, (а затем) сказали: “Это от Аллаха”, чтобы приобрести за это ничтожную плату. Разве то, что вы получили из знаний, не запрещает вам спрашивать у них? Нет, клянусь Аллахом, мы не видели ни одного из них, кто бы спрашивал вас о том, что вам ниспослано!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7523</td></tr><tr><td>Arabic No</td><td>7523</td></tr><tr><td>Reference</td><td>Book 97 Hadith 148</td></tr></tbody></table></div>
 

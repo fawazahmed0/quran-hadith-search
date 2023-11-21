@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that the Messenger of Allah (ﷺ) used to teach them this su
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas], dari apa yang telah dibacakan dihadapannya dari [Abu Zubair] dari [Thawus] dari [Ibn Abbas], bahwa Rasulullah shallallahu 'alaihi wasallam mengajari para sahabat doa ini sebagaimana mengajari mereka salah satu surat dalam Al Qur'an. Beliau bersabda: "Ucapkanlah ALLAAHUMA INNAA NA'UUDZU BIKA MIN 'ADZAABI JAHANNAMA WA A'UUDZU BIKA MIN 'ADZAABIL QABRI WA A'UUDZU BIKA MIN FITNATIL MASIIHID DAJJAAL, WA A'UUDZUBIKA MIN FITNATIL MAHYAA WAL MAMAAT" (Ya Allah saya berlindung kepada-Mu dari siksa jahnanam, dan saya berlindung kepada-Mu dari siksa kubur, dan saya berlindung kepada-Mu dari fitnah Al Masih Dajjal, dan saya berlindung kepada-Mu dari fitnah kehidupan dan kematian)." Muslim bin Hajjaj mengatakan; "Telah sampai berita kepadaku bahwa Thawus bertanya kepada anaknya; "Apakah kamu berdoa dengan do'a tersebut dalam shalatmu?" Jawabnya; "Tidak." Thawus berkata; "Ulangi shalatmu, sebab Thawus (maksudnya dirinya) telah meriwayatkan dari tiga atau empat orang, atau sebagaimana yang ia katakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1333</td></tr><tr><td>Arabic No</td><td>590</td></tr><tr><td>Reference</td><td>Book 5 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что Посланник Аллаха ﷺ учил их следующей мольбе, подобно тому, как учил он их сурам Корана. Он говорил: «Говорите: “О Аллах, поистине, я прошу у Тебя защиты от мучений в Аду, и я прошу у Тебя защиты от мучений в могиле, и я прошу у Тебя защиты от искушений Даджжаля, и я прошу у Тебя защиты от искушений жизни и смерти /Аллахумма инни а’узу би-кя мин ‘азаби джаханнама ва а’узу би-кя мин ‘азаби-ль-кабри ва а’узу бика мин фитнати-ль-масихи-д-даджжали ва а’узу би-кя мин фитнати-ль-махйа ва-ль-мамат/”».Муслим ибн Хаджжадж сказал: «До меня дошло, что Тавус спросил своего сына: “Произносил ли ты эту мольбу, совершая молитву?” Тот ответил: “Нет”. Тогда Тавус сказал: “Соверши молитву заново. Потому что Тавус передал этот хадис от трёх или четырёх (сподвижников)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1333</td></tr><tr><td>Arabic No</td><td>590</td></tr><tr><td>Reference</td><td>Book 5 Hadith 170</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Maimunah said:The Prophet (ﷺ) would contact and embrace any of his wives while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid bin Khalid bin Abdullah bin Mauhib Ar-Ramli] telah menceritakan kepada kami [Al-Laits bin Sa'd] dari [Ibnu Syihab] dari [Habib, mantan sahaya Urwah] dari [Nudbah, mantan sahaya Maimunah] dari [Maimunah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bercumbu dengan salah satu istri beliau ketika dalam keadaan haidl, apabila dia (istri beliau) memakai kain sarung sampai bagian pertengahan paha atau lututnya, yang dia gunakan untuk penghalang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>267</td></tr><tr><td>Arabic No</td><td>267</td></tr><tr><td>Reference</td><td>Book 1 Hadith 267</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Маймуны: «Посланник Аллаха ﷺ ласкал одну из своих жен, у которой были менструации, если на ней был изар доходивший до бедер или колен, которой она прикрывается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>267</td></tr><tr><td>Arabic No</td><td>267</td></tr><tr><td>Reference</td><td>Book 1 Hadith 267</td></tr></tbody></table></div>
 

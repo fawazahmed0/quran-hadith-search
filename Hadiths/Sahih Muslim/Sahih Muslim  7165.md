@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Mughirah bin Abdurrahman Al Hizami] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] nabi Shallallahu 'alaihi wa Salam bersabda: "Api kalian ini yang dinyalakan oleh anak cucu Adam adalah satu dari tujuh puluh bagian panasnya neraka jahanam." Mereka berkata: Bila seperti itu niscaya sudah cukup wahai Rasulullah. beliau bersabda: "Sesungguhnya ditambahi enampuluh sembilan bagian, masing-masing seperti panasnya." Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam seperti hadits Abu Az ZInad, hanya saja ia menyebutkan dalam riwayatnya: Semuannya seperti panasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7165</td></tr><tr><td>Arabic No</td><td>2843.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7165</td></tr><tr><td>Arabic No</td><td>2843.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 34</td></tr></tbody></table></div>
 

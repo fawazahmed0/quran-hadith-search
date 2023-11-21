@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The bowing, the prostration the sitting in between the two pros
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Badal bin Al Muhabbar] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepadaku [Al Hakam] dari [Ibnu Abu Laila] dari [Al Bara'] berkata, "Rukuk Nabi shallallahu 'alaihi wasallam, sujudnya, (duduk) antara dua sujud, dan ketika mengangkat kepala dari rukuk, tidaklah berbeda antara berdiri (i'tidal) dan duduknya melainkan semuanya sama (dalam thu'maninah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>792</td></tr><tr><td>Arabic No</td><td>792</td></tr><tr><td>Reference</td><td>Book 10 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн Абу Лейлы, что Бараъ сказал: «Поясной поклон Пророка ﷺ и его земной поклон, и то, что между двумя земными поклонами, и то, когда он поднимал голову с поясного поклона, кроме его стояния и сидения, были равны (по времени)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>792</td></tr><tr><td>Arabic No</td><td>792</td></tr><tr><td>Reference</td><td>Book 10 Hadith 187</td></tr></tbody></table></div>
 

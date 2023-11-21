@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMalik Al-Ash'ari: The Prophet (ﷺ) said: When a man goes into his h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Auf] berkata, telah menceritakan kepada kami [Muhammad bin Isma'il] ia berkata; telah menceritakan kepadaku [Bapakku]. [Ibnu Auf] berkata; Aku pernah melihat dalam buku [Isma'il] ia berkata; telah menceritakan kepadaku [Dhamdham] dari [Syuraih] dari [Abu Malik Al Asy'ari] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seorang laki-laki masuk ke dalam rumahnya hendaklah ia membaca: 'ALLAHUMMA INNII AS'ALUKA KHAIRAL MAULAJ WA KHAIRAL MAKHRAJ BIMILLAH WALAJNAA WA BISMILLAHI KHARAJNAA WA 'ALAALLAHI RABBINAA TAWAKKALNAA (Ya Allah, sesungguhnya aku minta kepada-Mu kebaikan tempat masuk dan tempat keluar. Dengan menyebut nama Allah, kami masuk (rumah) dan dengan menyebut nama Allah kami keluar). ' Setelah itu hendaklah mengucapkan salam kepada keluarganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5096</td></tr><tr><td>Arabic No</td><td>5096</td></tr><tr><td>Reference</td><td>Book 43 Hadith 324</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5096</td></tr><tr><td>Arabic No</td><td>5096</td></tr><tr><td>Reference</td><td>Book 43 Hadith 324</td></tr></tbody></table></div>
 

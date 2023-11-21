@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Burdah: On the authority of his father ( Abu Musa al-Ash'ari), repo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Sulaiman bin Dawud Al 'Ataki] mereka berdua berkata; Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ghailan bin Jarir] dari [Abu Burdah] dari [Ayahnya, Abu Musa]. menurut Musaddad, Abu Musa berkata; Kami pernah mendatangi Rasulullah shallallahu 'alaihi wasallam untuk meminta beliau membawa kami, lalu saya melihat beliau bersiwak pada lisannya. Abu Dawud berkata; Dan menurut Sulaiman, Abu Musa berkata; Saya pernah menemui Nabi shallallahu 'alaihi wasallam pada saat beliau sedang bersiwak, beliau meletakkan siwak pada ujung lisannya seraya mengucapkan: "Ihi ih." Yakni mengeluarkan suara seperti orang muntah. Abu Dawud berkata; Musaddad berkata; Hadits ini pada asalnya adalah panjang, akan tetapi saya menyingkatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (244) Sahih Muslim (254)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>49</td></tr><tr><td>Arabic No</td><td>49</td></tr><tr><td>Reference</td><td>Book 1 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бурда сообщил со слов своего отца (которым являлся Абу Муса ‘Абдуллах ибн Къайс аль-Аш‘ари): «Мусаддад (в своей версии) сказал: “(Однажды) мы пришли к Посланнику Аллаха ﷺ попросить его, чтобы он предоставил нам животных для перевозки и я увидел как он (зубочисткой) чистил свой язык”».Абу Дауд сказал: Сулейман сказал: (Абу Муса) сказал: «Я зашел к Пророку ﷺ когда он чистил зубы, поставив зубочистку на конец своего языка и говорил: “Ихь, ихь”, имея ввиду, что он (произносил такие звуки, которые произносит тот, кто) вызывает рвоту».Абу Дауд сказал: «Мусаддад сказал: “Этот хадис был длинным, но я сократил его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (244) Sahih Muslim (254)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>49</td></tr><tr><td>Arabic No</td><td>49</td></tr><tr><td>Reference</td><td>Book 1 Hadith 49</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:I witnessed the case of Lian (the case of a man who charg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan], [Az Zuhri] mengatakan dari [Sahal bin Sa'd] mengatakan, pernah aku menyaksikan dua orang yang saling meli'an, ketika itu umurku baru lima belas tahun, keduanya sama-sama mengajak berpisah, si suami mengatakan; 'berarti aku bohong terhadap dirinya jika aku terus mempertahankan dia sebagai isteri.' Kata Sahal, dan aku menghapal hadits yang serupa dari Az Zuhri yang redaksinya; 'Jika isteriku melahirkan bayi dengan ciri-ciri demikian maka,,,,, sebaliknya jika melahirkan bayi yang ciri-ciri kulitnya seperti tokek, maka demikian. Dan aku mendengar Az Zuhri mengatakan; Lantas wanita tersebut melahirkan bayi yang tidak di sukainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6854</td></tr><tr><td>Arabic No</td><td>6854</td></tr><tr><td>Reference</td><td>Book 86 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д сказал: «Я присутствовал, когда (муж с женой) обменивались клятвами и призывали на себя проклятия (в присутствии Пророка ﷺ), а мне тогда было пятнадцать лет». Затем мужчина сказал: “Если я оставлю её при себе, то получится, как будто я оклеветал её!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6854</td></tr><tr><td>Arabic No</td><td>6854</td></tr><tr><td>Reference</td><td>Book 86 Hadith 76</td></tr></tbody></table></div>
 

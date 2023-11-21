@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hudhayfah: The tradition mentioned above (No. 4232) has also been trans
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4246</td></tr><tr><td>Arabic No</td><td>4246</td></tr><tr><td>Reference</td><td>Book 37 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Наср ибн ‘Асым аль-Лейси передаёт: Мы пришли к аль-Яшкури в сопровождении нескольких человек из бану лейс. Он спросил: «Кто это?» Мы ответили: «Бану лейс. Мы пришли спросить тебя о хадисе Хузайфы». И он пересказал хадис и (среди прочего упомянул, что Хузайфа) сказал: «Я спросил: “О Посланник Аллаха, будет ли после этого блага зло?” Он сказал: “Смута и зло”. Я спросил: “О Посланник Аллаха, будет ли после этого зла благо?” Он сказал: “О Хузайфа! Изучай Книгу Аллаха и следуй тому, что в ней”. Он повторил эти слова трижды. Я спросил: “О Посланник Аллаха, будет ли после этого зла благо?” Он сказал: “Перемирие с затаённой злобой и объединение, но с испорченностью в сердцах”. Я спросил: “О Посланник Аллаха, а что такое перемирие с затаённой злобой?” Он сказал: “Сердца людей после него уже не станут такими, как прежде”. Я спросил: “О Посланник Аллаха, будет ли после этого блага зло?” (Посланник Аллаха ﷺ) сказал: “Смута, слепая и глухая, её зачинатели глашатаи у врат Ада, зазывающие туда. И если ты, о Хузайфа, умрёшь, вцепившись в древесный ствол, это будет лучше для тебя, чем последовать за одним из них”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4246</td></tr><tr><td>Arabic No</td><td>4246</td></tr><tr><td>Reference</td><td>Book 37 Hadith 7</td></tr></tbody></table></div>
 

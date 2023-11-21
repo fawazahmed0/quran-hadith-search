@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hakim bin Hizam:I said to Allah's Messenger (ﷺ), "Before embracing Is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhriy] dari ['Urwah] dari [Hakim bin Hiram radliallahu 'anhu] berkata; Aku berkata,: "Wahai Rasulullah, bagaimana pendapatmu, saat masih di zaman Jahiliyah aku sering ber'ibadah mendekatkan diri dengan cara bershadaqah, membebaskan budak dan juga menyambung silaturrahim, apakah dari itu semuanya aku akan mendapatkan pahala?". Maka Nabi Shallallahu'alaihiwasallam bersabda: "Kamu akan menerima dari kebaikan yang dahulu kamu lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1436</td></tr><tr><td>Arabic No</td><td>1436</td></tr><tr><td>Reference</td><td>Book 24 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаким бин Хизам, да будет доволен им Аллах, сказал: «(Однажды я) спросил (Посланника Аллаха ﷺ ): “О Посланник Аллаха, скажи, полагается ли мне награда за такие благочестивые дела, как милостыня, освобождение рабов и поддержание родственных связей, которыми я занимался во времена джахилийи?” Пророк ﷺ сказал: “Ты принял ислам вместе со (всеми) благими делами(, совершёнными тобой) прежде”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1436</td></tr><tr><td>Arabic No</td><td>1436</td></tr><tr><td>Reference</td><td>Book 24 Hadith 39</td></tr></tbody></table></div>
 

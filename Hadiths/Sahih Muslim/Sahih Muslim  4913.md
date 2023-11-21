@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir (que Dieu l'agrée) a dit : Un homme dit au Prophète : "Où est-ce que j
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Amru Al Asy'atsi] dan [Suwaid bin Sa'id] dan ini adalah lafadz Sa'id, telah mengabarkan kepada kami [Sufyan] dari ['Amru] dia mendengar [Jabir] berkata, "Seorang laki-laki bertanya, "Dimanakah tempatku jika saya terbunuh ya Rasulullah?" beliau menjawab: "Di surga." Setelah mendengar itu, dia membuang buah kurma yang ada di tangannya kemudian maju bertempur sampai meninggal." Dan dalam hadits Suwaid disebutkan, "Seorang laki-laki bertanya kepada Nabi shallallahu 'alaihi wasallam pada waktu perang uhud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4913</td></tr><tr><td>Arabic No</td><td>1899</td></tr><tr><td>Reference</td><td>Book 33 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4913</td></tr><tr><td>Arabic No</td><td>1899</td></tr><tr><td>Reference</td><td>Book 33 Hadith 208</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) had said:Seven are (the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Laits bin Sa'd] -dalam jalur lain- Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Sa'id bin Abu Sa'id] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai sekalian kaum wanita, janganlah sekali-kali kalian meremehkan pemberian seorang tetangga kepada tetangganya walau pun hanya berupa kuku kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2379</td></tr><tr><td>Arabic No</td><td>1031.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «О женщины-мусульманки, пусть (никто из вас) ни в коем случае не пренебрегает (ничем, чтобы сделать добро) своей соседке, даже если (речь идёт всего лишь об) овечьем копыте»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2379</td></tr><tr><td>Arabic No</td><td>1031.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 117</td></tr></tbody></table></div>
 

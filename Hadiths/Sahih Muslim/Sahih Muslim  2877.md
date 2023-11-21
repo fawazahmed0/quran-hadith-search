@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ka'b b. 'Ujra (Allah be pleased with him) reported:The Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] -dalam riwayat lain- Dan telah menceritakan kepadaku [Abu Rabi'] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] ia berkata, saya mendengar [Mujahid] menceritakan dari [Abdurrahman bin Abu Laila] dari [Ka'ab bin Ujrah] radliallahu 'anhu, ia berkata; Pada zaman Hudaibiyah, Rasulullah shallallahu 'alaihi wasallam mendatangiku, sementa aku sedang menyalakan api yang ada di bawah periuk -Abu Rabi' berkata- Burmah (yaitu sejenis periuk yang terbuat dari batu). Sedangkan kutu kepalaku telah bertebaran di wajahku. Maka beliau pun bertanya: "Apakah kutu di kepalamu itu mengganggumu?" saya menjawab, "Ya." Beliau bersabda: "Cukurlah rambutmu dan berpuasalah tiga hari, atau berilah makan kepada enam orang miskin, atau pun berkorbanlah." Ayyub berkata; Saya tidak tahu, dari yang mana beliau memulai. Telah menceritakan kepadaku [Ali bin Hurj As Sa'di] dan [Zuhair bin Harb] dan [Ya'qub bin Ibrahim] dari [Ibnu Ulayyah] dari [Ayyub] dalam isnad ini, dengan hadits yang semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2877</td></tr><tr><td>Arabic No</td><td>1201.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2877</td></tr><tr><td>Arabic No</td><td>1201.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 87</td></tr></tbody></table></div>
 

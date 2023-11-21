@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported that Allah's Messenger (ﷺ) said:He who climbed this
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Qurrah bin Khalid] dari [Abu Az Zubair] dari [Jabir bin 'Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; 'Barangsiapa mendaki bukit Al Murar? Maka dosanya akan diampuni sebagaimana diampuninya dosa Bani Israil.' Jabir bin Abdullah berkata; 'Yang pertama kali mendaki bukit itu adalah pasukan berkuda kami dari Bani Khazraj. Setelah itu, barulah pasukan yang lain menyusul bersama-sama.' Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda; 'Dosa kalian akan diampuni, kecuali dosa pemilik unta merah.' Setelah itu kami pun pergi mendatangi pemilik unta merah itu sambil berkata; 'Ayo, mintalah kepada Rasulullah agar beliau memohonkan ampun untukmu! ' Ternyata sang pemilik unta merah itu menjawab; 'Sungguh aku lebih senang mendapatkan kembali untaku yang hilang daripada temanmu itu (Nabi Muhammad) memohonkan ampun untukku.' Jabir berkata; 'Ternyata orang tersebut sedang mencari untanya yang hilang.' Dan telah menceritakannya kepada kami [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Qurrah] telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir bin 'Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; 'Barangsiapa mendaki bukit Al Murar atau Al Marar? Sebagaimana Hadits Mu'adz hanya saja dia berkata dengan lafazh; dan ternyata orang itu seorang badui yang sedang mencari untanya yang hilang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7038</td></tr><tr><td>Arabic No</td><td>2780.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7038</td></tr><tr><td>Arabic No</td><td>2780.01</td></tr><tr><td>Reference</td><td>Book 51 Hadith 15</td></tr></tbody></table></div>
 

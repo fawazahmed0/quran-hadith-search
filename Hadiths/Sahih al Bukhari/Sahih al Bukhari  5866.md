@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn. 'Umar:Allah's Messenger (ﷺ) wore a gold ring or a silver ring an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam pernah membuat cincin dari emas atau perak, dan menghadapkan mata cincinnya di telapak tangan serta mengukirnya dengan tulisan "Muhammad Rasulullah", maka orang-orang pun membuat seperti itu juga, ketika beliau mengetahui orang-orang membuatnya, maka beliau langsung melempar cincin tersebut sambil bersabda: "Saya tidak akan memakainya selama-lamanya." Setelah itu beliau membuatnya dari perak dan orang-orang pun ikut membuat cincin dari perak, Ibnu Umar mengatakan; "Cincin itu dipakai oleh Abu Bakr setelah Nabi shallallahu 'alaihi wasallam, kemudian Umar dan Utsman, sehingga Utsman menjatuhkannya di sumur Aris
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5866</td></tr><tr><td>Arabic No</td><td>5866</td></tr><tr><td>Reference</td><td>Book 77 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что (однажды) Посланник Аллаха ﷺ попросил изготовить перстень из золота или серебра, и он носил его широкой частью к ладони. На нём было выгравировано: «Мухаммад — Посланник Аллаха». Увидев, что люди стали носить перстни, подобные этому, он выбросил свой, сказав: «Я больше никогда его не надену!» После этого он стал носить серебряный перстень, и люди тоже стали носить серебряные перстни. Ибн ‘Умар сказал: «После Пророка ﷺ этот перстень стал носить Абу Бакр, затем ‘Умар, затем ‘Усман, пока однажды он не упал (с руки) ‘Усмана в колодец Арис»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5866</td></tr><tr><td>Arabic No</td><td>5866</td></tr><tr><td>Reference</td><td>Book 77 Hadith 83</td></tr></tbody></table></div>
 

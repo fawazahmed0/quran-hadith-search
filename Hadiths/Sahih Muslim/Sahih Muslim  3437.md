@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported:that Allah's Messenger (ﷺ) fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rumh bin Muhajir] telah mengabarkan kepada kami [Al Laits] dari [Yazid bin Abi Habib] dari ['Irak bin Malik] dari [Abu Hurairah] bahwasannya Rasulullah shallallahu 'alaihi wasallam melarang empat perempuan untuk dipoligami, yaitu menikahi wanita dengan bibinya (dari pihak ayah) sekaligus, dan seorang wanita dengan bibinya dari pihak ibu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3437</td></tr><tr><td>Arabic No</td><td>1408.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3437</td></tr><tr><td>Arabic No</td><td>1408.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 40</td></tr></tbody></table></div>
 

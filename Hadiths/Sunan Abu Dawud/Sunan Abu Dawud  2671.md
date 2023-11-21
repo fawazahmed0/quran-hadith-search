@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: No woman of Banu Qurayzah was killed except one.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Muhammad bin Salamah], dari [Muhammad bin Ishaq], telah menceritakan kepadaku [Muhammad bin Ja'far bin Az Zubair] dari ['Urwah bin Az Zubair] dari [Aisyah], ia berkata; tidak ada yang terbunuh diantara para wanita Bani Quraizhah kecuali seorang wanita, sesungguhnya ia di sisiku berbicara dan tertawa luar dalam. Dan Rasulullah shallallahu 'alaihi wasallam membunuh laki-laki mereka dengan pedang, tiba-tiba terdapat orang yang menyebutkan namanya; dimanakah Fulanah? Ia berkata; aku. Maka aku katakan; ada apa denganmu? Wanita tersebut berkata; ada suatu kejadian yang telah aku lakukan. Aisyah berkata; kemudian orang tersebut pergi membawa wanita tersebut kemudian leher wanita tersebut dipenggal. Aku tidak melupakan sesuatu yang aneh. Bahwa ia tertawa luar dalam sementara ia mengetahui bahwa ia akan dibunuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2671</td></tr><tr><td>Arabic No</td><td>2671</td></tr><tr><td>Reference</td><td>Book 15 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2671</td></tr><tr><td>Arabic No</td><td>2671</td></tr><tr><td>Reference</td><td>Book 15 Hadith 195</td></tr></tbody></table></div>
 

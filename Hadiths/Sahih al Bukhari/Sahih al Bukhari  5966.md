@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aiyub:The worst of three (persons riding one, animal) was mentioned in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Abdul Wahhab] telah menceritakan kepada kami [Ayyub] dia menyebutkan tiga keburukan di samping [Ikrimah], lalu dia berkata; [Ibnu Abbas] berkata; "Rasulullah shallallahu 'alaihi wasallam pernah datang sambil menggendong Qutsam di hadapannya dan Al Fadl di depannya atau Qutsam di belakangnya dan Al Fadl di depannya, lalu manakah diantara mereka yang jelek atau manakah di antara keduanya yang lebih utama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5966</td></tr><tr><td>Arabic No</td><td>5966</td></tr><tr><td>Reference</td><td>Book 77 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Аюба, что однажды в присутствие ‘Икримы люди говорили о том, кто является худшим из трёх (человек, сидящих верхом на одном животном: сидящий спереди или сзади), и он сказал: «Ибн ‘Аббас рассказал о том, что (однажды) Пророк ﷺ посадил Кусама перед собой, а Фадля позади себя, или Кусама позади себя, а Фадля перед собой. Так кто же из них худший, а кто лучший!?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5966</td></tr><tr><td>Arabic No</td><td>5966</td></tr><tr><td>Reference</td><td>Book 77 Hadith 182</td></tr></tbody></table></div>
 

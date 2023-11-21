@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad said:‘A’ishah came to Safiyyah Umm Talha al-Talhat and seeing her d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Muhammad] bahwasanya [Aisyah] singgah di rumah Shafiyyah, Ummu Thalhah Ath-Thalahat lalu dia meliaht putri-putrinya, maka dia berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam pernah masuk, sedangkan di kamarku ada seorang gadis kecil. Maka beliau memberikan kain penutup badan kepadaku dan bersabda: "Robeklah menjadi dua bagian, kemudian berilah setengahnya untuk gadis ini dan setengah lagi untuk gadis yang berada di Ummu Salamah, karena sesungguhnya saya memandangnya telah baligh, atau beliau bersabda: Saya tidak memandang keduanya kecuali telah baligh. Abu Dawud berkata; Dan demikian pula diriwayatkan oleh [Hisyam] dari [Ibnu Sirin]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>642</td></tr><tr><td>Arabic No</td><td>642</td></tr><tr><td>Reference</td><td>Book 2 Hadith 252</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мухаммада (ибн Сирина) о том, что (однажды) ‘Аиша зашла к Сафийе Умм Тальха ат-Талахат и увидев её дочерей она сказала: «(Как-то) Посланник Аллаха ﷺ зашёл (ко мне, когда) у меня в комнате была невольница. Он бросил мне свой изар и сказал: “Разорви его на две части и отдай эту часть ей, а другую невольнице Умм Салямы, ибо, поистине, я думаю, что она уже достигла совершеннолетия”. Или (он сказал): “Я думаю, что они уже достигли совершеннолетия”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>642</td></tr><tr><td>Arabic No</td><td>642</td></tr><tr><td>Reference</td><td>Book 2 Hadith 252</td></tr></tbody></table></div>
 

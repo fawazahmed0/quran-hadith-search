@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported that Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] -dalam riwayat lain- Dan telah menceritakan kepadaku [Sa'id bin Yahya Al Umawi] telah menceritakan kepadaku [bapakku] Telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Zubair] bahwa ia mendengar [Jabir bin Abdullah] berkata; "Rasulullah shallallahu 'alaihi wasallam menyembelih hewan kurban untuk isteri-isterinya. -sedangkan di dalam hadits Ibnu Bakr tercantum- (beliau menyembelih) sapi untuk kurban Aisyah dalam ibadah hajinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3192</td></tr><tr><td>Arabic No</td><td>1319.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 396</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3192</td></tr><tr><td>Arabic No</td><td>1319.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 396</td></tr></tbody></table></div>
 

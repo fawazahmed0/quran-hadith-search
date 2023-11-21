@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Abu Talha, a companion of Allah's Messenger (ﷺ) and one of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] dari [Ma'mar] dari [Az Zuhri]. (dan diriwayatkan dari jalur lain), telah menceritakan kepada kami [Isma'il] dia berkata, telah menceritakan kepadaku [Saudaraku] dari [Sulaiman] dari [Muhammad bin 'Atiq] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah bin 'Utbah bin Mas'ud] bahwa [Ibnu Abbas] radliallahu 'anhuma berkata, telah mengabarkan kepadaku [Abu Thalhah] radliallahu 'anhu -seorang sahabat Rasulullah shallallahu 'alaihi wasallam, dan seseorang yang pernah ikut serta dalam perang Badr bersama Rasulullah shallallahu 'alaihi wasallam- bahwa beliau bersabda: "Malaikat tidak akan masuk ke dalam rumah yang di dalamnya terdapat anjing dan gambar." Maksudnya adalah gambar yang bernyawa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4002</td></tr><tr><td>Arabic No</td><td>4002</td></tr><tr><td>Reference</td><td>Book 64 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Тальхи, да будет доволен им Аллах, принимавшего участие в битве при Бадре вместе с посланником Аллаха ﷺ, что (Пророк ﷺ) сказал: «Ангелы не входят в (такой) дом, где есть собака или изображение», имея в виду изображения того, в чём есть дух
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4002</td></tr><tr><td>Arabic No</td><td>4002</td></tr><tr><td>Reference</td><td>Book 64 Hadith 53</td></tr></tbody></table></div>
 

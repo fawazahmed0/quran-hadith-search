@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:the Prophet (ﷺ) said, "Allah said, "I have prepared for M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Asad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] radliyallahu'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Allah berfirman, 'Aku persiapkan bagi hamba-Ku yang shalih (ganjaran) yang tidak terlihat oleh mata, belum terdengar oleh telinga dan belum pernah terdetik oleh hati manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7498</td></tr><tr><td>Arabic No</td><td>7498</td></tr><tr><td>Reference</td><td>Book 97 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Аллах сказал: “Я приготовил для Моих праведных рабов то, чего не видели глаза, чего не слышали уши и чего даже не представляло себе сердце человека”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7498</td></tr><tr><td>Arabic No</td><td>7498</td></tr><tr><td>Reference</td><td>Book 97 Hadith 123</td></tr></tbody></table></div>
 

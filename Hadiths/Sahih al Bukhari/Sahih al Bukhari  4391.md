@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Alqama:We were sitting with Ibn Masud when Khabbab came and said, "O Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] dia berkata; Kami pernah duduk-duduk bersama [Ibnu Mas'ud]. Tiba-tiba Khabab datang seraya berkata; 'Wahai Abu Abdurrahman, Apakah para pemuda itu bisa membaca sebagaimana anda membaca? Dia menjawab; Kalau kamu ingin, aku suruh sebagian dari mereka untuk membacakan kepadamu? Khabab menjawab; 'Ya.' Ibnu Mas'ud berkata; 'Wahai Alqamah, bacalah! ' maka Zaid bin Hudair -saudara Ziyad bin Hudair- berkata; 'Apakah engkau menyuruh Alqamah untuk membaca padahal dia bukanlah yang terbaik dari kami? Ibnu Mas'ud berkata; Jika kamu mau, akan saya beritahukan kepadamu sabda Nabi shallallahu 'alaihi wasallam mengenai kaummu dan kaumnya. Maka aku membacakan lima puluh ayat dari surat Maryam. Lalu Abdullah berkata; Apa pendapatmu? Zaid berkata; Sungguh bagus. Abdullah berkata; Aku tidak membaca sesuatu kecuali ia pun telah membacanya. Kemudian ia menoleh kepada Khabab ditangannya ada cincin dari emas. Lalu Abdullah berkata; kenapa cincin ini tidak dibuang saja? Khabab berkata; sesungguhnya kamu tidak akan melihatnya lagi ada padaku setelah hari ini. Lalu ia membuangnya. Diriwayatkan oleh [Ghundar] dari [Syu'bah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4391</td></tr><tr><td>Arabic No</td><td>4391</td></tr><tr><td>Reference</td><td>Book 64 Hadith 414</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькама рассказывал: «Однажды, когда мы сидели с Ибн Мас‘удом, пришёл Хаббаб и сказал: “О Абу ‘Абдуррахман! Могут ли эти молодые люди читать Коран так же, как ты?” Ибн Мас‘уд сказал: “Если хочешь, я могу приказать одному из них почитать тебе (Коран)”. Хаббаб ответил: “Конечно”. Ибн Мас‘уд сказал: “Читай, о ‘Алькама!” На это Зайд ибн Худайр, брат Зияда ибн Худайра, сказал (Ибн Мас’уду): “Почему ты приказал ‘Алькаме читать, ведь он читает не лучше нас?” Ибн Мас‘уд сказал: “Если хочешь, я расскажу тебе, что Пророк ﷺ сказал о твоём и его (‘Алькамы) народе”. И я прочитал пятьдесят аятов из суры “Марьям”. ‘Абдуллах (ибн Мас’уд) сказал Хаббабу: “Что ты думаешь (о чтении ‘Алькамы)?” Хаббаб сказал: “Он хорошо читал”. ‘Абдуллах сказал: “Он может читать всё, что читаю я”. Затем ‘Абдуллах повернулся к Хаббабу и увидел, что тот носит золотое кольцо, и сказал: “Разве ещё не пришло время выбросить его?” Хаббаб сказал: “Ты не увидишь его на мне после сегодняшнего дня”, — и выбросил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4391</td></tr><tr><td>Arabic No</td><td>4391</td></tr><tr><td>Reference</td><td>Book 64 Hadith 414</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:One night the Prophet (ﷺ) woke up, saying, "None has the ri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] telah mengabarkan kepadaku [Hindun binti Al Harits] dari [Ummu Salamah] dia berkata; "Pada suatu malam Nabi shallahu'alaihi wa sallam bangun sambil menuturkan; 'Tiada ilah kecuali Allah, fitnah apakah yang diturunkan di malam hari? Dan perbendaharaan apakah yang diturunkan pada orang yang membangunkan para penghuni kamar, dan berapa banyak orang yang mengenakan pakaian di dunia, tapi telanjang di akhirat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5844</td></tr><tr><td>Arabic No</td><td>5844</td></tr><tr><td>Reference</td><td>Book 77 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма сказала: «Однажды ночью Пророк ﷺ проснулся и воскликнул: “Нет божества, достойного поклонения, кроме Аллаха! /Ля иляха илля Ллах!/ Какие смуты были ниспосланы сегодня ночью, и какие сокровищницы были ниспосланы! Кто разбудит обитательниц комнат (имея в виду его жён,)?! Ведь сколько одетых в мире этом окажутся обнажёнными в День Воскресения!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5844</td></tr><tr><td>Arabic No</td><td>5844</td></tr><tr><td>Reference</td><td>Book 77 Hadith 61</td></tr></tbody></table></div>
 

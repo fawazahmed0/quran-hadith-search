@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once the Prophet, while passing through one of the graveyard
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Mujahid] dari [Ibnu 'Abbas] berkata, "Rasulullah shallallahu 'alaihi wasallam melewati perkebunan penduduk Madinah atau Makkah, lalu beliau mendengar suara dua orang yang sedang di siksa dalam kumur mereka. Maka Nabi shallallahu 'alaihi wasallam pun berkata: "Keduanya sedang disiksa, dan tidaklah keduanya disiksa disebabkan dosa besar." Lalu beliau menerangkan: "Yang satu disiksa karena tidak bersuci setelah kencing, sementara yang satunya lagi disiksa karena suka mengadu domba." Beliau kemudian minta diambilkan sebatang dahan kurma yang masih basah, beliau lalu membelah menjadi dua bagian, kemudian beliau menancapkan setiap bagian pada dua kuburan tersebut. Maka beliau pun ditanya, "Kenapa Tuan melakukan ini?" Beliau menjawab: "Mudah-mudahan siksanya diringankan selama dahan itu masih basah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>216</td></tr><tr><td>Arabic No</td><td>216</td></tr><tr><td>Reference</td><td>Book 4 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ проходивший мимо одной из стен Медины (или: Мекки), услышал голоса двух человек, которые подвергались мучениям в своих могилах. Пророк ﷺ сказал: “Их подвергают мучениям, но не за большой грех”, [помолчал некоторое время], а потом воскликнул: “Да, конечно [, мучают их за тяжкие грехи]! Один из них не прикрывался от собственной мочи, а другой распространял сплетни”. Потом он велел принести себе голую пальмовую ветвь, разломал её на две половинки и воткнул их на могилы (этих людей). Его спросили: “О Посланник Аллаха, зачем ты сделал это?” — на что он ответил: “Возможно, это будет облегчать их мучения, пока ветки не засохнут”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>216</td></tr><tr><td>Arabic No</td><td>216</td></tr><tr><td>Reference</td><td>Book 4 Hadith 82</td></tr></tbody></table></div>
 

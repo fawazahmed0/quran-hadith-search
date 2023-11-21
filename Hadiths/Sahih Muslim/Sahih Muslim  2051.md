@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura said:I prayed with the Messenger of Allah (ﷺ) prayers on two I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Hasan bin Rabi'] dan [Qutaibah bin Sa'id] dan [Abu Bakar bin Abu Syaibah] - [Yahya] berkata- telah mengabarkan kepada kami -sementara orang-orang yang lain berkata- telah menceritakan kepada kami [Abul Ahwash] dari [Simak] dari [Jabir bin Samurah] ia berkata; Saya telah menunaikan shalat dua hari raya bersama Rasulullah shallallahu 'alaihi wasallam lebih dua kali, yakni (beliau menunaikannya) tanpa adzan dan iqamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2051</td></tr><tr><td>Arabic No</td><td>887</td></tr><tr><td>Reference</td><td>Book 8 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Самура сказал: «(В дни) обоих праздников я не раз и не два совершал с Посланником Аллаха ﷺ молитвы, перед которыми ни азан, ни икама не возглашались»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2051</td></tr><tr><td>Arabic No</td><td>887</td></tr><tr><td>Reference</td><td>Book 8 Hadith 7</td></tr></tbody></table></div>
 

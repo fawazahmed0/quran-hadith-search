@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Jamra:I was an interpreter between the people and Ibn 'Abbas. Once 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Ghundar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Jamrah] berkata aku pernah menjadi penerjemah antara [Ibnu 'Abbas] dan orang-orang, katanya; bahwasanya telah datang rombongan utusan Abdul Qais menemui Nabi shallallahu 'alaihi wasallam lalu Nabi shallallahu 'alaihi wasallam berkata: "Utusan siapakah ini atau kaum manakah ini?" Utusan itu menjawab: "Rabi'ah". Lalu Nabi shallallahu 'alaihi wasallam berkata: "Selamat datang kaum atau para utusan dengan sukarela dan tanpa menyesal". Para utusan berkata: "Wahai Rasulullah kami datang dari perjalanan yang jauh sementara diantara kampung kami dan engkau ada kampung kaum kafir (suku) Mudlor, dan kami tidak sanggup untuk mendatangi engkau kecuali di bulan suci. Ajarkanlah kami dengan satu perintah yang jelas, yang dapat kami amalkan dan kami ajarkan kepada orang-orang di kampung kami dan dengan begitu kami dapat masuk surga." Lalu mereka bertanya kepada Nabi shallallahu 'alaihi wasallam tentang minuman. Maka Nabi shallallahu 'alaihi wasallam memerintahkan mereka dengan empat hal dan melarang dari empat hal, memerintahkan mereka untuk beriman kepada Allah satu-satunya, beliau berkata: "Tahukah kalian apa arti beriman kepada Allah satu-satunya?" Mereka menjawab: "Allah dan Rasul-Nya yang lebih mengetahui." Nabi shallallahu 'alaihi wasallam menjelaskan: "Persaksian tidak ada ilah yang berhak disembah kecuali Allah dan bahwa Muhammad adalah utusan Allah, menegakkan shalat, menunaikan zakat, berpuasa di bulan Ramadlan dan kalian mengeluarkan seperlima dari harta rampasan perang". Dan Nabi shallallahu 'alaihi wasallam melarang mereka dari empat perkara, yaitu dari meminum dari dari al hantam, ad Dubbaa' dan al Muzaffaat. Syu'bah menerangkan; terkadang beliau menyebutkan an naqir dan terkadang muqoyyir (bukan naqir). Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "jagalah semuanya dan beritahukanlah kepada orang-orang di kampung kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Arabic No</td><td>87</td></tr><tr><td>Reference</td><td>Book 3 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, то Абу Джамра сказал:\n— Я был переводчиком между Ибн ‘Аббасом, да будет доволен Аллах ими обоими, и людьми, и (однажды) он сказал: «Когда к Пророку ﷺ прибыла делегация (племени) ‘абдуль-къайс, он спросил: “Что это за делегация? Или (он сказал): Кто эти люди?” Они ответили: “Раби‘а”. Он сказал: “Добро пожаловать (вам, о) люди! Или: (Добро пожаловать) этой делегации! Не будете вы посрамлены и не станете сожалеть!” Они сказали: “Мы проделали к тебе далёкий и трудный путь и между нами и тобой этот район, (где живут) неверные (из племени) мудар, и мы можем приезжать к тебе только в священный месяц. Дай же нам веление, чтобы мы передали его оставшимся за нами и благодаря этому вошли в рай!” И он велел им (делать) четыре (дела) и запретил им четыре (других). Он велел им верить в одного лишь Великого и Всемогущего Аллаха и спросил: “Знаете ли вы, что такое вера в одного лишь Аллаха?” Они ответили: “Аллах и Его посланник знают (об этом) лучше”. Тогда он сказал: “Это − свидетельство о том, что нет бога достойного поклонения, кроме Аллаха, и что Мухаммад − Посланник Аллаха, совершение молитвы, выплата закята, соблюдение поста в рамадане и выделение вами пятой части военной добычи”. И он запретил им дуббу, хантам, музаффат”. Шу‘ба сказал: “Возможно, что он сказал: накъир, а возможно и мукъаййар”. (А затем) он сказал: “Запомните это и передайте это тем, кто остался за вами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Arabic No</td><td>87</td></tr><tr><td>Reference</td><td>Book 3 Hadith 29</td></tr></tbody></table></div>
 

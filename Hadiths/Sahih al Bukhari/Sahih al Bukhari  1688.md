@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Jamra:I asked Ibn 'Abbas about Hajj-at-Tamattu'. He ordered me to p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [An-Nadhar] telah mengabarkan kepada kami [Syu'bah] telah menceritakan kepada kami [Abu Jamrah] berkata; Aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhuma] tentang muth'ah (hajji tamattu'), maka dia memerintahkan aku untuk melaksanakannya. Dan aku bertanya pula kepadanya tentang Al Hadyu (hewan qurban), maka dia berkata: 'Untuk Al Hadyu boleh unta, sapi atau kambing atau bersekutu dalam darahnya (kolektif dalam penyembilahannya). Dia berkata: "Seakan orang-orang tidak menyukainya. Kemudian aku tidur lalu aku bermimpi seakan ada orang yang menyeru: "Hajji mabrur dan tamattu' yang diterima". Kemudian aku menemui Ibnu 'Abbas radliallahu 'anhuma lalu aku ceritakan mimpiku itu, maka dia berkata: "Allahu Akbar, ini sunnah Abu Al Qasim Shallallahu'alaihiwasallam". Dia berkata; Dan berkata, [Adam], [Wahb bin Jarir] dan [Ghundar] dari [Syu'bah] dengan redaksi: "'Umrah mutaqabbalah (Umrah yang diterima) dan hajji mabrur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1688</td></tr><tr><td>Arabic No</td><td>1688</td></tr><tr><td>Reference</td><td>Book 25 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джамра сказал: «Я спросил Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, о “хаджж ат-таматту‘”,и он велел мне совершить его. Тогда я спросил его о жертвенном животном /хади/, и он ответил: “Закалывается верблюд, корова или овца, или можно разделить его с кем то другим”. Мне показалось, что некоторым людям не понравилось это (совершение “хаджж ат-таматту‘”), тогда я увидел во сне, что какой-то человек сказал мне: “Безупречный хадж и принятая умра!” Я сообщил об этом Ибн ‘Аббасу, и он сказал: “Превелик Аллах! (Это же) сунна Абу аль-Касима ﷺ!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1688</td></tr><tr><td>Arabic No</td><td>1688</td></tr><tr><td>Reference</td><td>Book 25 Hadith 167</td></tr></tbody></table></div>
 

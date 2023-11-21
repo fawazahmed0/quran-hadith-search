@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Said bin Al-Musaiyab: When the first civil strife (in Islam) took place
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4024</td></tr><tr><td>Arabic No</td><td>4024</td></tr><tr><td>Reference</td><td>Book 64 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джубайра ибн Мут‘има, да будет доволен им Аллах, что о людях, захваченных в плен в битве при Бадре, Пророк ﷺ сказал (следующее): «Если бы аль-Мут‘им ибн ‘Ади был жив и обратился ко мне с ходатайством за этих (людей), от которых исходит зловоние, я бы обязательно (отпустил) их ради него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4024</td></tr><tr><td>Arabic No</td><td>4024</td></tr><tr><td>Reference</td><td>Book 64 Hadith 73</td></tr></tbody></table></div>
 

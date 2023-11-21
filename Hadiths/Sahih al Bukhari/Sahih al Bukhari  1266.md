@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:While a man was at 'Arafat (for Hajj) with Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Ada seorang laki-laki yang sedang wukuf di 'Arafah bersama Rasulullah shallallahu 'alaihi wasallam lalu dia terjatuh dari hewan tunggangannya sehingga ia terinjak" atau dia Ibnu 'Abbas radliallahu 'anhuma berkata: "Hingga orang itu mati seketika". Maka Rasulullah shallallahu 'alaihi wasallam berkata: "Mandikanlah dia dengan air yang dicampur daun bidara dan kafanilah dengan dua helai kain dan janganlah diberi wewangian dan jangan pula diberi tutup kepalanya (serban) karena dia nanti akan dibangkitkan pada hari qiyamat dalam keadaan bertalbiyyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1266</td></tr><tr><td>Arabic No</td><td>1266</td></tr><tr><td>Reference</td><td>Book 23 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Один человек, находившийся вместе с посланником Аллаха ﷺ во время стояния на ‘Арафате, неожиданно упал со своей верблюдицы, сломал себе шею (и умер). Посланник Аллаха ﷺ сказал: “Обмойте его водой с отваром сидра и заверните (тело) в два куска ткани, но не умащайте его благовониями и не покрывайте ему голову, ибо, поистине, в День воскресения он будет воскрешён произносящим тальбийу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1266</td></tr><tr><td>Arabic No</td><td>1266</td></tr><tr><td>Reference</td><td>Book 23 Hadith 27</td></tr></tbody></table></div>
 

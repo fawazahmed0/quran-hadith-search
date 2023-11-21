@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Adam and Moses argued with each ot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Sufyan], menuturkan; kami menghafalnya dari ['Amru] dari [Thawus], aku mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Adam dan Musa saling berdebat. Musa mengatakan; 'Hai Adam, engkau adalah bapak kami, sungguh engkaulah yang telah menelantarkan kami dan mengusir kami dari surga'. Adam menjawab; 'Hai Musa, Allah telah memilihmu dengan kalam-Nya, dan Allah telah memberi catatan-catatan untukmu dengan tangan-NYA, apakah kamu mencelaku dengan suatu hal yang telah Allah takdirkan empat puluh tahun bagiku sebelum Dia menciptaku? ' Adam akhirnya bisa mengalahkan debat Musa (beliau ucapkan tiga kali)." [Sufyan] mengatakan, telah menceritakan kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6614</td></tr><tr><td>Arabic No</td><td>6614</td></tr><tr><td>Reference</td><td>Book 82 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, что Пророк ﷺ сказал: «Адам и Муса препирались между собой. Муса сказал ему: “О Адам! Ты наш праотец, и это ты оставил нас в убытке и вывел нас из Рая!” Адам скажет ему: “О Муса, Аллах избрал тебя, дабы говорить с тобой, и записал для тебя (Тору) Рукою Своей. И ты порицаешь меня за то, что я совершил нечто такое, что Аллах предопределил мне совершить за сорок лет до того, как Он создал меня?” Так Адам переспорил Мусу — повторив это трижды».\nСуфьян (ибн ‘Уейна) сказал: «Нам рассказал Абу аз-Зинад от аль-А‘раджа от Абу Хурайры от Пророка ﷺ похожий хадис»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6614</td></tr><tr><td>Arabic No</td><td>6614</td></tr><tr><td>Reference</td><td>Book 82 Hadith 20</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jarir b. 'Abdullah reported:People came to to the Messenger of Allah (ﷺ) and t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2354</td></tr><tr><td>Arabic No</td><td>1017.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джарир ибн ‘Абдуллах сказал: «Однажды к Посланнику Аллаха ﷺ пришли бедуины, одетые в шерстяную (одежду). Посланник Аллаха ﷺ увидел их нужду и тяжелое положение…». Далее подобно предыдущему хадису
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2354</td></tr><tr><td>Arabic No</td><td>1017.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 91</td></tr></tbody></table></div>
 

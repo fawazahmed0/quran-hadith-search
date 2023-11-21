@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':'Abdullah said, "The Prophet (ﷺ) arranged for a horse race, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7336</td></tr><tr><td>Arabic No</td><td>7336</td></tr><tr><td>Reference</td><td>Book 96 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ устраивал скачки на лошадях. И рысистых лошадей отправляли от Эль-Хафйи до местечка Санийят аль-Вада‘, а скачки на молодых скакунах проходили от местечка Санийят аль-Вада‘ до мечети Бану Зурейк». И сообщается, что в этих состязаниях принимал участие ‘Абдуллах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7336</td></tr><tr><td>Arabic No</td><td>7336</td></tr><tr><td>Reference</td><td>Book 96 Hadith 65</td></tr></tbody></table></div>
 

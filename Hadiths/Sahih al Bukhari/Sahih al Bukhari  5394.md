@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "A believer eats in one intesti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] Telah mengabarkan kepada kami [Abdah] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang mukmin itu makan dengan satu usus, sedangkan orang kafir atau munafik -aku tidak tahu mana yang beliau ucapkan diantara keduanya- makan dengan tujuh usus." [Ibnu Bukair] berkata; Telah menceritakan kepada kami [Malik] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5394</td></tr><tr><td>Arabic No</td><td>5394</td></tr><tr><td>Reference</td><td>Book 70 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Верующий наполняет одну кишку, а неверующий (или: лицемер) — семь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5394</td></tr><tr><td>Arabic No</td><td>5394</td></tr><tr><td>Reference</td><td>Book 70 Hadith 22</td></tr></tbody></table></div>
 

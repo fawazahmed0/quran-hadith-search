@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Rabi'a:who was one of the leaders of Bani 'Adi a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4011</td></tr><tr><td>Arabic No</td><td>4011</td></tr><tr><td>Reference</td><td>Book 64 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со ‘Абдуллах ибн ‘Амр ибн Раби‘а, который был одним из предводителей бану ‘ади, и отец которого участвовал в битве при Бадре вместе с Пророком ﷺ, что ‘Умар назначил Кудаму ибн Маз‘уна правителем Бахрейна, который был одним из участников битвы при Бадре и приходился дядей по материнской линии ‘Абдуллаху ибн ‘Умару и Хафсе
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4011</td></tr><tr><td>Arabic No</td><td>4011</td></tr><tr><td>Reference</td><td>Book 64 Hadith 62</td></tr></tbody></table></div>
 

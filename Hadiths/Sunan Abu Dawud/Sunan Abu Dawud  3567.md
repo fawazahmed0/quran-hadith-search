@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said: The Messenger of Allah (ﷺ) was with one of his wives. One of the Mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Khalid] dari [Humaid] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam pernah berada di rumah sebagian isterinya, kemudian salah seorang Ummul mukminin menyuruh pelayannya mengirimkan sebuah nampan yang berisi makanan." Anas berkata, "Kemudian isteri beliau memukul nampan tersebut dengan tangannya hingga pecah." Ibnu Al Mutsanna menyebutkan, "Nabi shallallahu 'alaihi wasallam mengambil dua pecahan tersebut dan menggabungkan sebagian dengan yang lainnya, kemudian mengembalikan makanan pada tempatnya (semula) seraya berkata: "Ibu kalian sedang cemburu." Ibnu Al Mutsanna menambahkan, "Makanlah." Kemudian mereka makan hingga datang nampan yang ada di rumah isteri beliau tersebut. Kemudian kita kembali kepada lafazh hadits Musaddad, beliau bersabda: "Makanlah!" Dan beliau menahan utusan dan nampan tersebut hingga mereka selesai lalu beliau menyerahkan nampan yang tidak pecah kepada utusan tersebut, dan beliau menahan nampan yang pecah di rumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2481)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3567</td></tr><tr><td>Arabic No</td><td>3567</td></tr><tr><td>Reference</td><td>Book 24 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что, когда Посланник Аллаха ﷺ находился у одной из своих жён, одна из матерей верующих послала ему со слугой деревянное блюдо с едой. Та жена, у которой находился Посланник Аллаха ﷺ ударила рукой по блюду и разбила его. Пророк ﷺ соединил две половины блюда и положил на них эту еду, приговаривая: «Ваша мать ревнует». А Ибн аль-Мусанна утверждал, что Посланник Аллаха ﷺ сказал: «Ешьте». И он задержал посланца вместе с этим блюдом, пока они не поели, а потом отдал ему целое блюдо, а разбитое оставил в этом своём доме
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2481)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3567</td></tr><tr><td>Arabic No</td><td>3567</td></tr><tr><td>Reference</td><td>Book 24 Hadith 152</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa that he saw a person bowing and prostrating imperfectly. When 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Ash Shaltu bin Muhammad] telah mengabarkan kepada kami [Mahdi] dari [Washil] dari [Abu Wa'il] dari [Hudzaifah], bahwa ia melihat seorang laki-laki tidak sempurna dalam rukuk dan sujudnya. Setelah orang itu selesai shalat, Hudzaifah berkata kepadanya, "Kamu belum shalat!" Orang itu berkata, "Aku rasa sudah cukup." Hudzaifah berkata lagi, "Seandainya kamu meninggal, maka kamu meninggal dunia bukan di atas sunah Muhammad shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>389</td></tr><tr><td>Arabic No</td><td>389</td></tr><tr><td>Reference</td><td>Book 8 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Ваиля о том, что однажды Хузейфа увидел человека, который не доводил до конца поясные и земные поклоны, и когда тот закончил свою молитву, Хузейфа сказал ему: «Ты не молился!» (Затем Хузейфа) сказал: «Если бы ты умер, то умер бы не на Сунне Мухаммада ﷺ!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>389</td></tr><tr><td>Arabic No</td><td>389</td></tr><tr><td>Reference</td><td>Book 8 Hadith 41</td></tr></tbody></table></div>
 

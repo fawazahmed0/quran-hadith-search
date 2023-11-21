@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Juraij:'Ata' told me that he had heard Jabir bin 'Abdullah saying, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Ibrahim bin Nashr] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah menceritakan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepadaku ['Atha'] dari [Jabir bin 'Abdullah] berkata, Aku mendengarnya berkata, "Nabi shallallahu 'alaihi wasallam berdiri untuk melaksanakan shalat pada hari Raya Iedul Fitri, dan yang pertama kali beliau kerjakan adalah shalat, baru kemudian menyampaikan khutbah. Selesai khutbah beliau turun (dari mimbar) dan mendatangi jama'ah wanita untuk mengingatkan mereka dengan bersandar pada tangan Bilal, sementara Bilal sendiri membentangkan kain miliknya hingga para wanita tersebut memasukkan sedekahnya ke dalam kain tersebut." Aku bertanya kepada 'Atha, 'Apakah itu zakat fitri? ' ia menjawab, 'Bukan, tetapi sedekah yang mereka keluarkan pada saat itu, mereka memberikan anting dan gelang mereka.' Aku bertanya lagi, 'Bagaimana pendapatmu jika masa sekarang ini seorang Imam mendatangi jama'ah para wanita lalu mengingatkan mereka tentang itu? ' 'Atha menjawab, 'Yang demikian itu merupakan hak mereka (para Imam), dan apa alasanya mereka tidak boleh melakukannya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>978</td></tr><tr><td>Arabic No</td><td>978</td></tr><tr><td>Reference</td><td>Book 13 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Атаъ сказал, что он слышал, как Джабир ибн ‘Абдуллах сказал: «Пророк ﷺ встал в День разговения, чтобы совершить молитву. Сначала он совершил молитву, а затем произнес хутбу. Закончив, он спустился и пошел к женщинам и, опираясь на руку Биляля, сделал им напоминание, а Биляль расстелил свою одежду, и женщины стали бросать на неё свои пожертвования». Я (Ибн Джурейдж) спросил ‘Атаъ: «Это был закят Дня разговения?» Он сказал: «Нет, в то время это была просто милостыня. Женщина кидала кольцо, а за ней кидали и остальные женщины». Я сказал: «Считаешь ли ты, что имам обязан делать напоминание (женщинам)?» Он сказал: «Без сомнения, это обязанность имамов, и почему они не делают этого?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>978</td></tr><tr><td>Arabic No</td><td>978</td></tr><tr><td>Reference</td><td>Book 13 Hadith 27</td></tr></tbody></table></div>
 

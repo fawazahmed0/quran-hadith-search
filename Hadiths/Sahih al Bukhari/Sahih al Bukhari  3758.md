@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:'Abdullah (bin Mas'ud) was mentioned before 'Abdullah bin 'Amr. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Ibrahim] dari [Masruq] berkata; "Ada seseorang yang menyebut nama 'Abdullah (bin Mas'ud) di hadapan 'Abdullah bin 'Umar, maka ['Abdullah bin 'Amr] berkata; "Dia adalah seorang yang senantiasa saya selalu mencintainya sejak saya dengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ambillah bacaan Al Qur'an dari empat orang. Yaitu dari 'Abdullah bin Mas'ud, Beliau memulainya dari 'Abdullah, kemudian Salim, maula Abu Hudzaifah, lalu Ubay bin Ka'ab dan Mu'adz bin Jabal". Perawi berkata; "Aku tidak tahu mana yang beliau dahulukan antara Ubay atau Mu'adz bin Jabal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3758</td></tr><tr><td>Arabic No</td><td>3758</td></tr><tr><td>Reference</td><td>Book 62 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Масрука, что однажды в присутствие ‘Абдуллаха ибн ‘Амра упомянули 'Абдуллаха (ибн Мас‘уда), и он сказал: «Я не перестаю любить его с тех пор, как услышал, как Посланник Аллаха ﷺ сказал: “Обучайтесь Корану у четверых: ‘Абдуллаха ибн Мас‘уда, Салима — вольноотпущенника Абу Хузейфы, Убаййа ибн Ка‘ба, Му‘аза ибн Джабаля”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3758</td></tr><tr><td>Arabic No</td><td>3758</td></tr><tr><td>Reference</td><td>Book 62 Hadith 104</td></tr></tbody></table></div>
 

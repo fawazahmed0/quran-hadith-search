@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:I heard Allah's Messenger (ﷺ), in the year of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abi Habib] dari ['Atho' bin Abi Rabah] dari [Jabir bin 'Abdullah radliallahu 'anhu] bahwasanya dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda ketika Hari Penaklukan saat Beliau di Makkah: "Allah dan RasulNya telah mengharamkan khamar, bangkai, babi dan patung-patung". Ada yang bertanya: "Wahai Rasulullah, bagaimana dengan lemak dari bangkai (sapi dan kambing) karena bisa dimanfaatkan untuk memoles sarung pedang atau meminyaki kulit-kulit dan sebagai bahan minyak untuk penerangan bagi manusia?. Beliau bersabda: "Tidak, dia tetap haram". Kemudian saat itu juga Rasulullah shallallahu 'alaihi wasallam bersabda: Semoga Allah melaknat Yahudi, karena ketika Allah mengharamkan lemak hewan (sapi dan kambing) mereka mencairkannya lalu memperjual belikannya dan memakan uang jual belinya". Berkata, [Abu 'Ashim] telah menceritakan kepada kami ['Abdul Hamid] telah menceritakan kepada kami [Yazid]; ['Atho'] menulis surat kepadaku yang katanya dia mendengar [Jabir radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2236</td></tr><tr><td>Arabic No</td><td>2236</td></tr><tr><td>Reference</td><td>Book 34 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира бин ‘Абдуллаха, да будет доволен Аллах ими обоими, что он слышал, как (однажды) в год овладения (Меккой) Посланник Аллаха ﷺ находившийся в Мекке, сказал: «Поистине, Аллах и посланник Его запретили продавать вино, и падаль, и свинину, и идолов». (Его) спросили: «О Посланник Аллаха, а что ты скажешь о жире мёртвых животных, которым покрываются (борта и днища) кораблей и смазываются кожи и который используется для освещения?» Он сказал: «Нет, это запретно», а потом Посланник Аллаха ﷺ сказал: «Да поразит Аллах иудеев! Поистине, когда Аллах запретил им (использовать) жир (животных), они стали перетапливать его и продавать, проедая (полученные) за него деньги»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2236</td></tr><tr><td>Arabic No</td><td>2236</td></tr><tr><td>Reference</td><td>Book 34 Hadith 182</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A Jew killed a girl so that he may steal her ornaments. He struck 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Hisyam bin Zaid] dari [Anas] radliallahu 'anhu, seorang laki-laki yahudi membunuh hamba sahaya karena ingin merampas anting-antingnya. Ia membunuhnya dengan batu. Si hamba sahaya dibawa ke hadapan Nabi shallallahu 'alaihi wasallam dengan sisa-sisa nyawanya. Nabi bertanya; "Apakah yang membunuhmu fulan?" Ia menjawab tidak dengan mengisyaratkan kepalanya. Nabi mengulang pertanyaannya: "Apakah yang membunuhmu fulan?" Ia menjawab tidak dengan mengisyaratkan kepalanya. Nabi bertanya lagi untuk kali ketiganya: "Apakah yang membunuhmu fulan?" ia menjawab 'iya.' Maka Nabi membunuh si yahudi dengan menjepitnya diantara dua batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6879</td></tr><tr><td>Arabic No</td><td>6879</td></tr><tr><td>Reference</td><td>Book 87 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, да будет доволен им Аллах, что какой-то иудей разбил камнем голову одной девочке, чтобы забрать серебряные украшения, которые были на ней. Когда её привели к Пророку ﷺ, она всё ещё была жива, и он спросил её: «Такой-то убил тебя?» Она сделала знак головой, что нет. Он спросил её второй раз, и она снова сделала знак головой, что нет. Он спросил её в третий раз, и она сделала головой знак, что да. Тогда по велению Пророка ﷺ (убийцу) казнили, (поместив его голову) между двух камней (и разбив её)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6879</td></tr><tr><td>Arabic No</td><td>6879</td></tr><tr><td>Reference</td><td>Book 87 Hadith 18</td></tr></tbody></table></div>
 

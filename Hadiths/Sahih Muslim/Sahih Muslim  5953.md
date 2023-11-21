@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu 'Amir Al Asy'ari] serta [Muhammad bin Al 'Allaa] lafazh ini milik Abu Amir mereka berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Perumpamaan agama yang aku diutus Allah 'azza wajalla dengannya, yaitu berupa petunjuk dan ilmu ialah bagaikan hujan yang jatuh ke bumi. Diantaranya ada yang jatuh ke tanah subur yang dapat menyerap air, maka tumbuhlah padang rumput yang subur. Diantaranya pula ada yang jatuh ke tanah keras sehingga air tergenang karenanya. Lalu air itu dimanfaatkan orang banyak untuk minum, menyiram kebun dan beternak. Dan ada pula yang jatuh ke tanah tandus, tidak menggenangkan air dan tidak pula menumbuhkan tumbuh-tumbuhan. Seperti itulah perumpamaan orang yang mempelajari agama Allah dan mengambil manfaat dari padanya, belajar dan mengajarkan, dan perumpamaan orang yang tidak mau tahu dan tidak menerima petunjuk Allah yang aku di utus dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5953</td></tr><tr><td>Arabic No</td><td>2282</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5953</td></tr><tr><td>Arabic No</td><td>2282</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
 

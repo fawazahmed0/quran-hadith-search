@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:O Allah, I make a covenant 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Al Mughirah] yaitu Ibnu 'Abdur Rahman Al Hizami dari [Az Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Ya Allah, sesungguhnya aku telah membuat perjanjian dengan-Mu yang Engkau tidak akan menyelisihinya, sesungguhnya aku hanyalah seorang manusia, maka mukmin mana saja yang pernah aku sakiti, atau aku cela, atau aku cambuk, atau aku la'nat, hendaklah dengannya Engkau gantikan untuknya pahala shalat, zakat dan taqarrub yang dengannya mereka bisa mendekatkannya kepada-Mu pada hari kiamat." Telah menceritakannya kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan]; Telah menceritakan kepada kami [Abu Az Zinad] melalui jalur ini dengan Hadits yang serupa. Hanya saja ia menggunakan lafazh; 'Jaladuhu.' Namun [Abu Az Zinad] berkata; 'Itu hanya bahasa Abu Hurairah saja, yang benar adalah lafazh; 'Jaladtuhu.' Telah menceritakan kepadaku [Sulaiman bin Ma'bad]; Telah menceritakan kepada kami [Sulaiman bin Harb]; Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari ['Abdur Rahman Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6619</td></tr><tr><td>Arabic No</td><td>2601.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6619</td></tr><tr><td>Arabic No</td><td>2601.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 117</td></tr></tbody></table></div>
 

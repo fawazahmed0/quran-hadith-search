@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hafs reported that the Messenger of Allah(ﷺ) as saying, and the other version 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abdussaalam bin Mutthahir] dan [Ibnu Katsir] sedangkan maksud haditsnya sama, bahwa [Sulaiman bin Mughirah] telah mengabarkan kepada mereka, dari [Humaid bin Hilal] dari [Abdullah bin bin Ash Shamit] dari [Abu Dzar] dia berkata; Hafsh berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang dapat memutuskan shalat seseorang apabila di hadapannya tidak terdapat tabir sepanjang ujung pelana unta yaitu, keledai, anjing hitam dan wanita." Kataku; Apa bedanya warna hitam dengan warna merah, kuning atau putih?" Abu Dzar menjawab; "Wahai anak saudaraku, aku pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam sebagaimana yang kamu tanyakan, beliau bersabda: "Anjing hitam adalah setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (510)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>702</td></tr><tr><td>Arabic No</td><td>702</td></tr><tr><td>Reference</td><td>Book 2 Hadith 312</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр сказал: «Посланник Аллаха ﷺ сказал: “Молитва человека прерывается прохождением (перед ним) осла, чёрной собаки или женщины, если перед ним нет чего-нибудь (высотой) с заднюю часть седла (отделяющая его от остальных)”».(Передатчик этого хадиса сказал:) «Я спросил (Абу Зарра): “А какая разница между черной и коричневой, рыжей и белой собаками?”. Он ответил: “О сын моего брата, такой же вопрос я задал и Посланнику Аллаха ﷺ (на что) он сказал: “Чёрная собака это шайтан”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (510)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>702</td></tr><tr><td>Arabic No</td><td>702</td></tr><tr><td>Reference</td><td>Book 2 Hadith 312</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:That when Haram bin Milhan, his uncle was stabbed on the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hibban] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dia berkata, telah menceritakan kepadaku [Tsumamah bin Abdullah bin Anas] bahwa dia mendengar [Anas bin Malik] radliallahu 'anhu berkata, "Ketika Haram bin Milhan ditikam -dia adalah paman beliau- pada peristiwa Bi'rul Ma'unah, dia memercikkan darahnya ke wajah dan kepalanya, lalu dia berkata, "Demi Rabb pemilik Ka'bah, aku telah menang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4092</td></tr><tr><td>Arabic No</td><td>4092</td></tr><tr><td>Reference</td><td>Book 64 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, рассказывал: «Когда в день Биър Ма‘уна, Харама ибн Мильхана, который был его дядей, пронзили (копьём), он обрызгал кровью своё лицо и голову, и сказал: “Аллах Велик! Я преуспел, клянусь Господом Каабы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4092</td></tr><tr><td>Arabic No</td><td>4092</td></tr><tr><td>Reference</td><td>Book 64 Hadith 136</td></tr></tbody></table></div>
 

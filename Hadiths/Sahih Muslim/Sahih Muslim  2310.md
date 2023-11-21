@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thauban reported Allah's Messenger (ﷺ) as saying:The most excellent dinar is o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Rabi' Az Zahrani] dan [Qutaibah bin Sa'id] keduanya dari [Hammad bin Zaid] - [Abu Rabi'] berkata- Telah menceritakan kepada kami [Hammad] Telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Abu Asma'] dari [Tsauban] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik dinar (uang atau harta) yang dinafkahkan seseorang, ialah yang dinafkahkan untuk keluarganya, untuk ternak yang depeliharanya, untuk kepentingan membela agama Allah, dan nafkah untuk para sahabatnya yang berperang di jalan Allah." Abu Qilabah berkata; Beliau memulainya dengan keluarga." Kemudian Abu Qilabah berkata; Dan laki-laki manakah yang lebih besar pahalanya dari seorang laki-laki yang berinfak kepada keluarga kecil, memuliakan mereka yang dengannya Allah memberikan manfaat dan memberikan kecukupan bagi mereka?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2310</td></tr><tr><td>Arabic No</td><td>994</td></tr><tr><td>Reference</td><td>Book 12 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Саубана, что Посланник Аллаха ﷺ сказал: «Лучшим динаром, который (может) потратить человек, является тот динар, который он потратит на членов своей семьи, и тот динар, который он потратит на своё верховое животное на пути Аллаха, и тот динар, который он потратит на своих товарищей на пути Аллаха».Абу Кыляба сказал: «(Пророк ﷺ) начал с упоминания членов семьи». Абу Кыляба также сказал: «Какой же мужчина получит награду больше, чем тот, кто расходует (свои средства) на детей, посредством чего Аллах удержит их (от запретного) (или: посредством чего Аллах принесёт им пользу) и избавит их от нужды?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2310</td></tr><tr><td>Arabic No</td><td>994</td></tr><tr><td>Reference</td><td>Book 12 Hadith 47</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:Ibn 'Abbas said, "How can you ask the people of the Scriptures 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Hatim bin Wardan] telah menceritakan kepada kami [Ayyub] dari ['Ikrimah] dari [Ibn Abbas] radliyallahu'anhuma, ia berkata, "Bagaimana kalian bertanya ahli kitab tentang kitab mereka padahal kalian mempunyai Kitabullah, kitab yang paling dekat janjinya kepada Allah, yang kalian membacanya dengan tidak dicampuri hal-hal lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7522</td></tr><tr><td>Arabic No</td><td>7522</td></tr><tr><td>Reference</td><td>Book 97 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Как вы можете спрашивать у обладателей Писания об их писаниях, (когда) у вас есть Писание Аллаха, новейшая книга (ниспосланная) от Аллаха. Вы читаете его чистым, неискажённым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7522</td></tr><tr><td>Arabic No</td><td>7522</td></tr><tr><td>Reference</td><td>Book 97 Hadith 147</td></tr></tbody></table></div>
 

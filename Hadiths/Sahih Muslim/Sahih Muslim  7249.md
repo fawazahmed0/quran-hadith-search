@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:There would be turmoil and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengkhabarkan kepada kami [Abu Dawud Ath Thayalisi] telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [ayahnya] dari [Abu Salamah] dari [Abu Hurairah] berkata: Nabi Shallallahu 'alaihi wa Salam bersabda: "Akan terjadi fitnah, orang tidur saat itu lebih baik dari orang terjaga, orang terjaga saat itu lebih baik dari orang yang berdiri dan orang yang berdiri saat itu lebih baik dari orang yang berjalan cepat. Barangsiapa menemukan tempat berlindung, hendaklah berlindung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7249</td></tr><tr><td>Arabic No</td><td>2886.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7249</td></tr><tr><td>Arabic No</td><td>2886.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 15</td></tr></tbody></table></div>
 

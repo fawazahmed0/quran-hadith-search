@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:We used to give one Sa' of barley as Sadaqat-ul-Fitr (per hea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah bin 'Uqbah] telah menceritakan kepada kami [Sufyan] dari [Zaid bin Aslam] dari ['Iyadh bin 'Abdullah] dari [Abu Sa'id radliallahu 'anhu] berkata: "Kami memberi makan (orang miskin) dari zakat dengan satu sha' dari gandum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1505</td></tr><tr><td>Arabic No</td><td>1505</td></tr><tr><td>Reference</td><td>Book 24 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид, да будет доволен им Аллах, сказал: «Обычно мы давали в качестве садака один са‘ ячменя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1505</td></tr><tr><td>Arabic No</td><td>1505</td></tr><tr><td>Reference</td><td>Book 24 Hadith 105</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Musa Ash'ari:I asked the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Sa'id bin Yahya bin Sa'id al-Umawi] dia berkata, telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Abu Burdah bin Abdullah bin Abu Burdah bin Abu Musa] dari [Abu Burdah] dari [Abu Musa] dia berkata, aku berkata, "Wahai Rasulullah, siapakah yang paling utama dalam berIslam?" Beliau menjawab: "Orang yang mana kaum muslimin selamat dari cercaan lisannya dan gangguan tangannya." Dan telah menceritakannya kepadaku [Ibrahim bin Sa'id al-Juhairi] telah menceritakannya kepadaku [Abu Usamah] ia berkata, telah menceritakan kepadaku [Buraid bin Abdullah] dengan sanad ini, ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah ditanya, "Siapakah orang yang paling utama di antara kaum msulimin? Lalu beliau menyebutkan hadits seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>163</td></tr><tr><td>Arabic No</td><td>42.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса сказал: «(Однажды) я спросил: “О Посланник Аллаха, какой ислам является лучшим?” Он ответил: “(Ислам) того, от зла языка и рук которого мусульмане находятся в безопасности»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>163</td></tr><tr><td>Arabic No</td><td>42.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 70</td></tr></tbody></table></div>
 

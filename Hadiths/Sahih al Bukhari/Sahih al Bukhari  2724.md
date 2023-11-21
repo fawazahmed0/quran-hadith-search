@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Zaid bin Khalid Al-Juhani:A bedouin came to Allah's Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Laits] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah bin 'Utbah bin Mas'ud] dari [Abu Hurairah] dan [Zaid bin Khalid] Al Juhaniy radliallahu 'anhuma bahwa keduanya berkata; Ada seorang warga Arab datang kepada Rasulullah shallallahu 'alaihi wasallam lalu berkata: "Wahai Rasulullah, aku bersumpa atas nama Allah kepadamu, bahwa engkau tidak memutuskan perkara diantara kami melainkan dengan Kitab Allah. Lalu lawan yang tutur katanya lebih baik dari padanya berkata: "Dia benar, putuskan perkara diantara kami dengan Kitab Allah dan perkenankanlah untukku". Maka Rasululloh shallallahu 'alaihi wasallam besabda: "Katakan". Seorang warga Arab berkata: "Sesunguhnya anakku adalah buruh yang bekerja pada orang ini lalu dia berzina dengan istrinya maka aku diberitahu bahwa anakku harus dirajam.. Kemudian aku tebus anakku dengan seratus ekor kambing dan seorang budak wanita kemudian aku bertanya kepada ahli ilmu lalu mereka memberitahu aku bahwa atas anakku cukup dicambuk seratus kali dan diasingkan selama setahun sedangkan untuk istri orang ini dirajam". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada di tangan-Nya, sungguh aku akan putuskan buat kalian berdua dengan menggunakan Kitab Allah. Adapun seorang budak dan kambing seharusnya dikembalikan dan untuk anakmu dikenakan hukum cambuk sebanyak seratus kali dan diasingkan selama setahun. Adapun kamu, wahai Unais, besok pagi datangilah istri orang ini. Jika dia mengaku maka rajamlah". Kemudian Unais mendatangi wanita itu dan dia mengakuinya. Maka Rasulullah shallallahu 'alaihi wasallam memerintahkan agar wanita itu dirajam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2724</td></tr><tr><td>Arabic No</td><td>2724</td></tr><tr><td>Reference</td><td>Book 54 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра и Зейд бин Халид аль-Джухани, да будет доволен Аллах ими обоими, передали (следующее): «(Как-то раз) один человек из числа бедуинов пришёл к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха, заклинаю тебя Аллахом решить моё дело согласно Книге Аллаха!” Человек, с которым у него была тяжба и который был более осведомлённым об установлениях религии, сказал: “Да, рассуди нас по Книге Аллаха и позволь мне (говорить)”, и Посланник Аллаха ﷺ велел: “Говори”. Тот сказал: “Мой сын работал по найму у этого (человека) и совершил прелюбодеяние с его женой. Мне сказали, что за это моего сына следует подвергнуть побиванию камнями /раджм/, но я отдал сто овец и рабыню в качестве выкупа за него. А потом я спросил (об этом) обладающих знанием, и они сказали мне, что мой сын должен получить сто ударов и отправиться в изгнание на год, что же касается жены этого (человека), то её следует забить камнями до смерти”. (Выслушав его,) Посланник Аллаха ﷺ сказал: “Клянусь Тем, в Чьей длани моя душа, я непременно рассужу вас по Книге Аллаха! Рабыню и овец следует вернуть тебе, а твой сын должен получить сто ударов и отправиться в изгнание на год. О Унайс, отправляйся к жене этого (человека), и, если она признается (в своём грехе), подвергни её побиванию камнями”. (После этого Анас) пошёл к ней, она призналась и по велению Посланника Аллаха ﷺ была подвергнута побиванию камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2724</td></tr><tr><td>Arabic No</td><td>2724</td></tr><tr><td>Reference</td><td>Book 54 Hadith 13</td></tr></tbody></table></div>
 

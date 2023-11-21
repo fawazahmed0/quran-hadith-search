@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Messenger of Allah (ﷺ) combined the noon and afternoon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Habib bin Abu Tsabit] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah menjama' shalat Dluhur dan Ashar, antara shalat Maghrib dan Isya' di Madinah, tidak dalam kondisi ketakutan, tidak pula hujan." Maka di tanyakan hal itu kepada Ibnu Abbas; "Apa maksud beliau melakukan hal itu?" Ibnu Abbas menjawab; "Supaya tidak memberatkan umatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (705 After 706)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1211</td></tr><tr><td>Arabic No</td><td>1211</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Са‘ида ибн Джубайра: «Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал, что Посланник Аллаха ﷺ соединял полуденную молитву /зухр/ с послеполуденной /‘аср/ и закатную молитву /магъриб/ с вечерней /‘иша/ в Медине, хотя ему не угрожала опасность и не шёл дождь. Его спросили: “Зачем же он это делал?” Он ответил: “Он хотел, чтобы его община не испытывала затруднений”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (705 After 706)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1211</td></tr><tr><td>Arabic No</td><td>1211</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
 

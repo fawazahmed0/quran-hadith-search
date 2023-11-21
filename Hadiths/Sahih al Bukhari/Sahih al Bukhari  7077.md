@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I heard the Prophet (ﷺ) saying, "Do not revert to disbelief
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kami [Syu'bah] Telah mengabarkan kepada kami [Waqid bin Muhammad] dari [ayahnya] dari [Ibnu Umar], bahwasanya ia mendengar Nabi Shallallahu'alaihiwasallam bersabda; "Janganlah kalian sepeninggalku kembali kepada kekafiran, sebagian kalian memenggal leher sebagian yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7077</td></tr><tr><td>Arabic No</td><td>7077</td></tr><tr><td>Reference</td><td>Book 92 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что он слышал, как Пророк ﷺ сказал: «Не становитесь после меня неверными, которые рубят друг другу головы!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7077</td></tr><tr><td>Arabic No</td><td>7077</td></tr><tr><td>Reference</td><td>Book 92 Hadith 28</td></tr></tbody></table></div>
 

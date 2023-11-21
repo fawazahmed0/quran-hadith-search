@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:That he heard Allah's Messenger (ﷺ) saying in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari ['Atha' bin Abu Rabah] dari [Jabir bin Abdullah] radliallahu 'anhuma, ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda pada tahun penaklukan Makkah yang ketika itu beliau di Makkah: "Allah dan Rasulnya mengharamkan jual beli Khamar (minuman keras)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4296</td></tr><tr><td>Arabic No</td><td>4296</td></tr><tr><td>Reference</td><td>Book 64 Hadith 329</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что он слышал, как в год овладения (Меккой) Посланник Аллаха ﷺ, находившийся в Мекке, сказал: «Поистине, Аллах и Посланник Его запретили продавать вино»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4296</td></tr><tr><td>Arabic No</td><td>4296</td></tr><tr><td>Reference</td><td>Book 64 Hadith 329</td></tr></tbody></table></div>
 

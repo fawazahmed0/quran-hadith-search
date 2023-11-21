@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:While some people were offering Fajr prayer at Quba mosque, s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik] dari [Abdullah bin Dinar] dari [Ibnu Umar] dia berkata; "Tatkala orang-orang sedang shalat shubuh di Quba', datang seseorang lalu berkata, 'Rasulullah Shallallahu'alaihi wasallam pada malam ini mendapat wahyu, beliau diperintahkan menghadap ke Ka'bah'. Maka menghadaplah ke sana! Mereka pun segera beralih ke Ka'bah, padahal sebelumnya wajah-wajah mereka menghadap ke Syam (Baitul Maqdis)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4494</td></tr><tr><td>Arabic No</td><td>4494</td></tr><tr><td>Reference</td><td>Book 65 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «(Однажды), когда люди совершали утреннюю молитву в мечети Къуба, к ним пришёл какой-то человек и сказал: “Поистине, этой ночью (Аллах) ниспослал Посланнику Аллаха ﷺ Коран и велел обратиться (лицом) в сторону Каабы, так повернитесь же к ней”. Тогда они повернулись к Каабе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4494</td></tr><tr><td>Arabic No</td><td>4494</td></tr><tr><td>Reference</td><td>Book 65 Hadith 21</td></tr></tbody></table></div>
 

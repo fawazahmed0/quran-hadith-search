@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Hour will not be establi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] dari [Abdurrahman] dari [Abu Hurairah] radhilayyahu'anhu, bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Hari kiamat tak akan terjadi hingga matahari terbit dari bagian barat, jika telah terbit, semua manusia beriman, namun ketika itu (seperti kutipan firman Allah) 'Sudah tak lagi bermanfaat bagi seseorang keimanannya yang sebelumnya tidak beriman atau melakukan kebajikan dengan keimanannya', (QS. Al an'am 165) dan hari kiamat terjadi ketika dua orang telah menyerahkan pakaiannya sehingga keduanya tidak lagi melakukan jual beli dan melipatnya, dan hari kiamat terjadi ketika seseorang telah mengambil susu perahannya dan ia tak jadi menyantapnya, dan hari kiamat terjadi ketika seseorang menuju telaganya dan ia tidak jadi meminumnya, dan hari kiamat terjadi ketika seseorang diantara kalian telah mengangkat suapannya ke mulutnya dan ia tidak jadi menyantapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6506</td></tr><tr><td>Arabic No</td><td>6506</td></tr><tr><td>Reference</td><td>Book 81 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не наступит Час этот, пока не взойдёт солнце на западе, а когда люди увидят это, все они уверуют, однако это будет то самое время, в которое “…вера не принесёт пользы душе, если та не уверовала прежде или не приобрела благодаря своей вере добро” (сура “аль-Ан’ам”, аят 158). И когда настанет Час этот, два человека, расстелившие одежду свою между собой, не успеют ни заключить сделку, ни свернуть эту одежду. И когда настанет Час этот, человек(, надоивший) молока от своей верблюдицы и унёсший его, не успеет его выпить. И когда настанет Час этот, человек, обмазывающий глиной свой водоём, не успеет напоить из него своих верблюдов. И когда настанет Час этот, человек, поднёсший ко рту кусок пищи, не успеет съесть его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6506</td></tr><tr><td>Arabic No</td><td>6506</td></tr><tr><td>Reference</td><td>Book 81 Hadith 95</td></tr></tbody></table></div>
 

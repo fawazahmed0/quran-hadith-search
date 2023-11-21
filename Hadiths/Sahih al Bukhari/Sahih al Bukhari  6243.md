@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I have not seen a thing resembling 'lamam' (minor sins) than
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] dari [Ibnu Thawus] dari [Ayahnya] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Saya tidak berpendapat dengan sesuatu yang menyerupai makna lamam (dosa kecil) selain perkataan [Abu Hurairah]. Dan di riwayatkan dari jalur lain, telah menceritakan kepadaku [Mahmud] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [Ayahnya] dari [Ibnu Abbas] dia berkata; "Saya tidak berpendapat tentang sesuatu yang paling dekat dengan makna Al lamam (dosa-dosa kecil) selain dari apa yang telah dikatakan oleh [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam: "Sesungguhnya Allah telah menetapkan pada setiap anak cucu Adam bagiannya dari perbuatan zina yang pasti terjadi dan tidak mungkin dihindari, maka zinanya mata adalah melihat sedangkan zinanya lisan adalah ucapan, zinanya nafsu keinginan dan berangan-angan, dan kemaluanlah sebagai pembenar semuanya atau tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6243</td></tr><tr><td>Arabic No</td><td>6243</td></tr><tr><td>Reference</td><td>Book 79 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (в ответ на вопрос о мелких грехах) Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Что касается мелких грехов, то не слышал я ничего более подходящего (в качестве ответа), чем слова Абу Хурайры, да будет доволен им Аллах, передавшего, что Пророк ﷺ сказал: “Поистине, Аллах записал за (каждым) сыном Адама его удел прелюбодеяния, которое неизбежно будет совершено им. Прелюбодеянием глаза является взор, а прелюбодеянием языка — речь. Душа хочет и желает, что же касается половых органов, то они подтверждают или отвергают всё это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6243</td></tr><tr><td>Arabic No</td><td>6243</td></tr><tr><td>Reference</td><td>Book 79 Hadith 17</td></tr></tbody></table></div>
 

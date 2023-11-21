@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Ibn 'Umar through some other c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; aku bacakan di hadapan [Malik]; dari [Nafi'] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam pernah memotong tangan seseorang yang mencuri tameng senilai tiga dirham." Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ibnu Rumh] dari [Al Laits bin Sa'd]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ibnu Mutsanna] keduanya berkata; telah menceritakan kepada kami [Yahya yaitu Al Qatthan]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] semuanya dari ['Ubaidullah]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] -yaitu Ibnu 'Ulayyah-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Ar Rabi'] dan [Abu Kamil] keduanya berkata; telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Sufyan] dari [Ayyub As Sahtiyani] dan [Ayyub bin Musa] serta [Isma'il bin Umayah]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Ayyub] dan [Isma'il bin Umayyah] dan ['Ubaidullah] dan [Musa bin 'Uqbah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Isma'il bin Umayyah]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abu At Thahir] telah mengabarkan kepada kami [Ibnu Wahb] dari [Hanzhalah bin Abu Sufyan Al Jumahi] dan [Abdullah bin Umar] dan [Malik bin Anas] dan [Usamah bin Zaid Al Laitsi] semuanya dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, seperti hadit Yahya dari Malik. Hanyasaja sebagian dari mereka menyebutkan, "Nilainya." Sedangkan sebagian yang lain menyebutkan, "Harganya tiga dirham
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4407</td></tr><tr><td>Arabic No</td><td>1686.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4407</td></tr><tr><td>Arabic No</td><td>1686.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 10</td></tr></tbody></table></div>
 

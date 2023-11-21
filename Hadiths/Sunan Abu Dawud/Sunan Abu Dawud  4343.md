@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: When we were around the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] berkata, telah menceritakan kepada kami [Al Fadhl bin Dukain] berkata, telah menceritakan kepada kami [Yunus bin Abu Ishaq] dari [Hilal bin Khabbab Abul 'Ala] ia berkata; telah menceritakan kepadaku [Ikrimah] berkata, telah menceritakan kepadaku [Abdullah bin Amru bin Al Ash] ia berkata, "Saat kami berada di sisi Rasulullah shallallahu 'alaihi wasallam, beliau menyebutkan tentang fitnah. Beliau bersabda: "Jika kalian melihat manusia telah rusak janji-janji mereka dan telah luntur amanah mereka, sementara mereka begini -beliau menganyam antara jemarinya-, " Abdullah berkata, "Aku lantas bangkit ke arah beliau seraya bertanya, "(Semoga Allah menjadikan aku sebagai tebusanmu) apa yang harus aku lakukan pada saat itu?" beliau menjawab: "Tetaplah engkau berdiam di dalam rumahmu, kuasailah lisanmu, ambilah (lakukan) apa saja yang kamu ketahui dan tinggalkan apa saja yang kamu pungkiri (tidak ketahui), urusilah perkaramu sendiri dan jauhilah urusan orang banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>4343</td></tr><tr><td>Reference</td><td>Book 39 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Амр ибн аль-‘Ас (да будет доволен Аллах им и его отцом) передаёт: «Мы сидели вокруг Посланника Аллаха ﷺ и он заговорил о смутах и сказал: “И вы увидите людей, которые не исполняют свои обещания и пренебрежительно относятся к взятым на себя обязательствам. Они будут вот такими”. С этими словами он смешал пальцы рук. Тогда я поднялся и спросил: “Как же мне поступать, когда это время наступит, да сделает Аллах меня выкупом за тебя?” Посланник Аллаха ﷺ сказал: “Держись дома своего, (отдаляясь от смуты), придерживай язык свой, (дабы не вносить свой вклад в разжигание смуты), принимай то, о чём знаешь, (что это истина), и сторонись того, чего не знаешь (из порицаемого и не соответствующего истине), и заботься о себе, и отринь то, что делает (отдалившееся от религии) большинство”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>4343</td></tr><tr><td>Reference</td><td>Book 39 Hadith 53</td></tr></tbody></table></div>
 

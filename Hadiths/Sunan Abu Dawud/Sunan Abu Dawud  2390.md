@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:A man came to the Prophet (ﷺ) and said: I am undone. He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Muhammad bin Isa] secara makna, mereka berkata; telah menceritakan kepada kami [Sufyan], Musaddad berkata; telah menceritakan kepada kami [Az Zuhri] dari [Humaid bin Abdurrahman] dari [Abu Hurairah], ia berkata; seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; aku telah binasa. Kemudian beliau berkata: "Ada apa denganmu?" Ia berkata; aku telah menggauli isteriku pada Bulan Ramadhan. Beliau berkata: "Apakah engkau mendapatkan sesuatu untuk membebaskan budak?" Ia berkata; tidak. Beliau berkata: "Apakah engkau mampu untuk melakukan puasa dua bulan berturut-turut?" Ia berkata; tidak. Beliau berkata: "Apakah engkau mampu untuk memberi makan enam orang miskin?" ia berkata; tidak. Beliau berkata: "Duduklah." Kemudian diberikan kepada Nabi shallallahu 'alaihi wasallam satu kerangjang yang berisi kurma, kemudian beliau berkata; bersedekahlah dengan ini. Lalu orang tersebut berkata; wahai Rasulullah, tidak ada diantara dua daerah yang berbatu hitam (yaitu Madinah) keluarga yang lebih fakir daripada kami. Kemudian Rasulullah shallallahu 'alaihi wasallam tertawa hingga terlihat gigi-gigi serinya, beliau bersabda: "Berikanlah makan mereka dengannya." Musaddad berkata pada tempat yang lain; gigi-gigi taring beliau. Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dengan hadits ini dengan maknanya. Az Zuhri menambahkan; dan sesungguhnya hal ini merupakan keringanan khusus untuknya, seandainya seseorang melakukan hal tersebut sekarang maka ia harus membayar kafarah. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Al Laits bin Sa'd], [Al Auza'i], [Manshur bin Al Mu'tamir] dan ['Arak bin Malik] seperti makna hadits 'Uyainah. Al Auza'i menambahkan padanya; dan memohonlah ampunan kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6711) Sahih Muslim (1111)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2390</td></tr><tr><td>Arabic No</td><td>2390</td></tr><tr><td>Reference</td><td>Book 14 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах: «Однажды к Пророку ﷺ пришёл какой-то человек и воскликнул: “Я погиб!” Пророк ﷺ спросил: “Что с тобой случилось?” Тот сказал: “Я спал с женой (днём) в рамадане”. Он спросил: “Можешь ли ты освободить раба?” Тот сказал: “Нет”. Пророк ﷺ спросил: “А сможешь ли ты поститься два месяца подряд?” Тот сказал: “Нет”. Пророк ﷺ спросил: “А сможешь ли ты накормить шестьдесят бедняков?” Тот сказал: “Нет”. Пророк ﷺ сказал: “Сядь”. В это время Пророку ﷺ принесли корзину из пальмовых листьев с финиками. Тогда он сказал: “Возьми это и раздай в качестве милостыни”. Этот человек сказал: “О Посланник Аллаха, нет в пределах Медины семьи беднее моей!” Тогда Посланник Аллаха ﷺ улыбнулся так, что показались его зубы, а потом сказал: “Накорми ими свою семью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6711) Sahih Muslim (1111)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2390</td></tr><tr><td>Arabic No</td><td>2390</td></tr><tr><td>Reference</td><td>Book 14 Hadith 78</td></tr></tbody></table></div>
 

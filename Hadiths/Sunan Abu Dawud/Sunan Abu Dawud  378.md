@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ali b. Abi Talib reported the Prophet (ﷺ) as saying:He narrated the tradition 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ibnu Abu Arubah] dari [Qatadah] dari [Abu Harb bin Abu Al Aswad] dari [Ayahnya] dari [Ali radliallahu 'anhu] dia berkata; Kencing anak perempuan dicuci sedangkan kencing anak laki-laki cukup diperciki, selama dia belum makan. Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [Ayahku] dari [Qatadah] dari [Abu Harb bin Abu Al Aswad] dari [Ayahnya] dari [Ali bin Abu Thalib radliallahu 'anhu] bahwasanya Nabi shallallahu 'alaihi wasallam bersabda: Kemudian dia menyebutkan maknanya dan tidak menyebutkan kalimat; 'selama dia belum makan. ' Dia menambahkan, Qatadah mengatakan; Ini kalau keduanya belum makan, apabila telah makan maka kedua-duanya dicuci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>378</td></tr><tr><td>Arabic No</td><td>378</td></tr><tr><td>Reference</td><td>Book 1 Hadith 378</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Али, да будет доволен им Аллах, о том, что «Пророк ﷺ сказал:», и он рассказал хадис со смыслом (предыдущего), и он не упомянул в нем слова «который (ещё) не ест (обычную) пищу».(Хишам в своем риваяте) добавил: «Къатада сказал: “Это касается того (мальчика), который не ест (обычную пищу), а если он (уже) ест, то оба (вида мочи) нужно смывать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>378</td></tr><tr><td>Arabic No</td><td>378</td></tr><tr><td>Reference</td><td>Book 1 Hadith 378</td></tr></tbody></table></div>
 

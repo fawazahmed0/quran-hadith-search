@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) performed a prostration when he finished r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] Telah menceritakan kepada kami ['Abdul Warits] Telah menceritakan kepada kami [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] dia berkata; "Nabi shallallahu 'alaihi wasallam bersujud pada surat An Najm, demikian juga kaum muslimin, orang-orang musyrik, jin dan seluruh manusia yang hadir." Hal ini diriwayatkan pula oleh [Ibrahim bin Thahman] dari [Ayyub], namun [Ibnu 'Ulayyah] tidak menyebutkan Ibnu Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4862</td></tr><tr><td>Arabic No</td><td>4862</td></tr><tr><td>Reference</td><td>Book 65 Hadith 383</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, когда Пророк ﷺ совершал земной поклон (во время чтения суры) «ан-Наджм», вместе с ним совершали земной поклон мусульмане и многобожники, джинны и люди
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4862</td></tr><tr><td>Arabic No</td><td>4862</td></tr><tr><td>Reference</td><td>Book 65 Hadith 383</td></tr></tbody></table></div>
 

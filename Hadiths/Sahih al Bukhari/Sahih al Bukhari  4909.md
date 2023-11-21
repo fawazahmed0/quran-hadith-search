@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:A man came to Ibn 'Abbas while Abu Huraira was sitting with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4909</td></tr><tr><td>Arabic No</td><td>4909</td></tr><tr><td>Reference</td><td>Book 65 Hadith 429</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма, рассказал, что к Ибн ‘Аббасу пришёл человек в то время, как у него находился Абу Хурайра, и сказал: «Дай мне фетву относительно женщины, которая родила через сорок дней после смерти мужа». Ибн ‘Аббас сказал: «Она должна выждать до конца самого крайнего из установленных сроков». Тогда я прочитал аят: «Для беременных срок установлен до тех пор, пока они не разрешатся от бремени». Абу Хурайра сказал: «Я согласен с сыном моего брата», то есть Абу Салямой. Затем Ибн ‘Аббас послал своего слугу Курайба к Умм Саляме спросить её об этом. Она сказала: «Муж Субай‘и аль-Аслямийи был убит, когда она была беременна. Через сорок дней после смерти мужа она родила. Затем к ней посватался один мужчина, и Посланник Аллаха ﷺ выдал её замуж. Абу ас-Санабиль был одним из тех, кто сделал ей предложение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4909</td></tr><tr><td>Arabic No</td><td>4909</td></tr><tr><td>Reference</td><td>Book 65 Hadith 429</td></tr></tbody></table></div>
 

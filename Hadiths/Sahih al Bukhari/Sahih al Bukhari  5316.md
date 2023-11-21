@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Those involved in a case of Lian were mentioned before Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] ia berkata; Telah menceritakan kepadaku [Sulaiman bin Bilal] dari [Yahya bin Sa'id] Telah mengabarkan kepadaku [Abdurrahman bin Al Qasim] dari [Al Qasim bin Muhammad] dari [Ibnu Abbas] bahwa ia berkata; Pernah disebutkan di sisi Rasulullah shallallahu 'alaihi wasallam, yakni dua orang suami isteri yang saling meli'an. Kemudan Ashim bin Adi mengungkapkan sesuatu terkait perkara itu, lalu ia beranjak pergi. Lalu ia didatangi oleh seseorang dari kaumnya dan menuturkan bahwa ia mendapatkan laki-laki lain yang sedang bersama isterinya. Maka Ashim pun berkata, "Tidaklah aku diuji dengan masalah ini, kecuali karena ungkapanku." Maka ia pun segera pergi bersama laki-laki itu kepada Rasulullah shallallahu 'alaihi wasallam. Kemudian ia pun menceritakan mengenai seorang laki-laki yang ia dapatkan sedang bersama isterinya. Laki-laki itu berperawakan kurus dan berambut lurus, sedangkan laki-laki yang dapatkan sedang bersama isterinya adalah berkulit sawo matang dan berperawakan gemuk. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Allah, jelaskanlah perkara ini." Maka sang isteri pun melahirkan bayi menyerupai laki-laki yang dilukiskan oleh suaminya, yang ia tuduhkan bersama isterinya. Akhirnya Rasulullah shallallahu 'alaihi wasallam meli'an keduanya. Kemudian seorang laki-laki bertanya kepada Ibnu Abbas di dalam majelis itu; "Wanita itukah yang dimaksud oleh sabda Rasulullah shallallahu 'alaihi wasallam: 'Seandainya aku boleh merajam seseorang tanpa Bayyinah (bukti), niscaya aku akan merajam wanita ini?.'" Maka Ibnu Abbas menjawab, "Tidak, wanita yang dimaksud adalah wanita yang secara vulgar (terang-terangan) menyatakan perselingkuhannya dalam Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5316</td></tr><tr><td>Arabic No</td><td>5316</td></tr><tr><td>Reference</td><td>Book 68 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Касима ибн Мухаммада, что Ибн ‘Аббас рассказывал: «Однажды, когда в присутствии Посланника Аллаха ﷺ было упомянуто взаимное проклятие /ли’ан/, ‘Асым ибн ‘Ади что-то сказал об этом и ушёл. Затем к нему пришёл человек из его племени и рассказал ему, что застал свою жену с другим мужчиной. ‘Асым сказал: “Я испытан этим только из-за того, что сказал об этом!” Он отвёл этого человека к Посланнику Аллаха ﷺ и рассказал ему о том, как он застал свою жену. Это мужчина был бледным, худощавым и с ровными волосами, в то время как тот, которого он застал вместе со своей женой был смуглым, крупным, мускулистым и кудрявым. Посланник Аллаха ﷺ сказал: “О Аллах, сделай (этот вопрос) ясным!” После этого эта женщина родила ребёнка, похожего на того мужчину, с которым, по словам её мужа, он застал её, и Посланник Аллаха ﷺ велел им призвать проклятие друг на друга /ли‘ан/». \nОдин человек сказал Ибн ‘Аббасу: «Это та, о которой Посланник Аллаха ﷺ сказал: “Если бы я и наказал кого-нибудь побиванием камнями без доказательства, то побил бы её камнями”?» Ибн ‘Аббас ответил: «Нет, та женщина открыто совершала мерзость в исламе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5316</td></tr><tr><td>Arabic No</td><td>5316</td></tr><tr><td>Reference</td><td>Book 68 Hadith 65</td></tr></tbody></table></div>
 

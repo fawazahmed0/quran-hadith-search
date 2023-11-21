@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Al Harith bin Hisham asked the Prophet, "How does the divine insp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Farwah] telah bercerita kepada kami ['Ali bin Mushir] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anhu] bahwa Al Harits bin Hisyam bertanya kepada Nabi shallallahu 'alaihi wasallam: "Bagaimana caranya wahyu datang kepada Tuan?". Beliau menjawab: "Terkadang datang kepadaku seperti suara gemerincing lonceng lalu terhenti sebentar namun aku dapat mengerti apa yang disampaikan. Dan cara ini yang paling berat buatku. Dan terkadang datang Malaikat menyerupai seorang laki-laki lalu berbicara kepadaku maka aku ikuti apa yang diucapkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3215</td></tr><tr><td>Arabic No</td><td>3215</td></tr><tr><td>Reference</td><td>Book 59 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, о том, что (однажды) аль-Харис ибн Хишам, спросил Пророка ﷺ: «Как к тебе приходят откровения?» Посланник Аллаха ﷺ ответил: «По-разному: иногда ангел приходит ко мне подобно звону колокола, и это покидает меня, когда я уже усвоил сказанное им, что является наиболее тяжким для меня. Иногда же ангел предстаёт передо мной в образе человека и обращается ко мне со своими словами, а я усваиваю то, что он говорит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3215</td></tr><tr><td>Arabic No</td><td>3215</td></tr><tr><td>Reference</td><td>Book 59 Hadith 26</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Ma'rur: At Ar-Rabadha I met Abu Dhar who was wearing a cloak, and hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari [Washil Al Ahdab] dari [Al Ma'rur bin Suwaid] berkata: Aku bertemu [Abu Dzar] di Rabdzah yang saat itu mengenakan pakaian dua lapis, begitu juga anaknya, maka aku tanyakan kepadanya tentang itu, maka dia menjawab: Aku telah menghina seseorang dengan cara menghina ibunya, maka Nabi shallallahu 'alaihi wasallam menegurku: "Wahai Abu Dzar apakah kamu menghina ibunya? Sesungguhnya kamu masih memiliki (sifat) jahiliyyah. Saudara-saudara kalian adalah tanggungan kalian, Allah telah menjadikan mereka di bawah tangan kalian. Maka siapa yang saudaranya berada di bawah tangannya (tanggungannya) maka jika dia makan berilah makanan seperti yang dia makan, bila dia berpakaian berilah seperti yang dia pakai, janganlah kalian membebani mereka sesuatu yang di luar batas kemampuan mereka. Jika kalian membebani mereka, maka bantulah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>30</td></tr><tr><td>Arabic No</td><td>30</td></tr><tr><td>Reference</td><td>Book 2 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Ма‘рур (ибн Сувайд) сказал: «(Однажды) в ар-Рабазе, я увидел Абу Зарра, да будет доволен им Аллах, который был одет в такую же одежду как и его раб, и спросил его о (причине) этого, а он рассказал, что как-то раз стал ругать одного человека, попрекая его его матерью. (Услышав это,) Пророк ﷺ сказал (ему): „О Абу Зарр, неужели ты попрекал этого человека его матерью?! Поистине, ты — человек, в котором (сохранились остатки) невежества! Поистине, (ваши рабы) являются вашими братьями и вашими слугами, которых Аллах сделал подвластными вам, так пусть же тот, кто владеет братом своим, кормит его тем же, что ест сам, и одевает его в то же, что носит сам, и не поручайте им ничего непосильного для них, а если поручите, то оказывайте им помощь“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>30</td></tr><tr><td>Arabic No</td><td>30</td></tr><tr><td>Reference</td><td>Book 2 Hadith 23</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuTha'labah al-Khushani: The Prophet (ﷺ) said: When you shoot your a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ma'in], Telah menceritakan kepada kami [Hammad bin Khalid Al Khayyath], dari [Mu'awiyah bin Shalih] dari [Abdurrahman bin Jubair bin Nufair], dari [ayahnya], dari [Tsa'labah Al Khusyani], dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila engkau memanah hewan buruan kemudian engkau mendapatinya setelah tiga malam dan anak panahmu ada padanya, maka makanlah selama belum membusuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1931)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2861</td></tr><tr><td>Arabic No</td><td>2861</td></tr><tr><td>Reference</td><td>Book 17 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ляба аль-Хушани, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если ты выстрелил в дичь, нашёл её через три дня и в ней твоя стрела, то ешь её мясо, если только от него не начало исходить зловоние»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1931)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2861</td></tr><tr><td>Arabic No</td><td>2861</td></tr><tr><td>Reference</td><td>Book 17 Hadith 18</td></tr></tbody></table></div>
 

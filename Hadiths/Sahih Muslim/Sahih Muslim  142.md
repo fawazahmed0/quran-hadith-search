@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Sunabihi that he went to Ubada b. Samit when 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Ajlan] dari [Muhammad bin Yahya bin Habban] dari [Ibnu Muhairiz] dari [ash-Shunabihi] dari [Ubadah bin ash-Shamit] bahwa dia berkata, "Saay saya mengunjunginya dia dalam keadaan sakit, hingga aku pun menangis. Maka dia berkata, 'Tahan, kenapa kamu menangis? Demi Allah, jika aku mati syahid, maka aku bersaksi untukmu, dan jika aku diberi syafa'at maka aku memberikan syafa'at untukmu, serta jika aku mampu, maka aku memberikan manfaat untukmu.' Kemudian dia berkata, 'Demi Allah, tidaklah ada suatu hadits yang aku dengar dari Rasulullah shallallahu 'alaihi wasallam untuk kalian yang di dalamnya terdapat kebaikan melainkan pasti aku menceritakannya kepada kalian, kecuali satu hadits, dan saya akan menceritakan kepadamu pada hari ini. Dan sungguh aku meresapi hal tersebut pada diriku. Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersaksi bahwa tidak ada tuhan (yang berhak disembah) selain Allah, dan bahwa Muhammad utusan Allah, niscaya Allah mengharamkan neraka atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>142</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 1 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Сунабихи, передававший хадисы со слов ‘Убады ибн ас-Самита, сказал: «Зайдя к (‘Убаде), который был при смерти, я заплакал, а он сказал: “Погоди, почему ты плачешь? Клянусь Аллахом, если потребуют от меня свидетельства, я обязательно буду свидетельствовать за тебя, и если будет принято моё заступничество, я обязательно заступлюсь за тебя, и если я смогу, то обязательно сделаю то, что принесёт тебе пользу!” Потом он сказал: “Клянусь Аллахом, я передал вам всё, что слышал от Посланника Аллаха ﷺ и в чём для вас заключалось благо, за исключением одного. (Эти его слова) я расскажу вам сегодня, ибо чувствую приближение смерти. Я слышал, как Посланник Аллаха ﷺ сказал: “Аллах сделает запретным для Огня (любого человека), который засвидетельствует, нет божества, достойного поклонения, кроме Аллаха, и что Мухаммад посланник Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>142</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 1 Hadith 49</td></tr></tbody></table></div>
 

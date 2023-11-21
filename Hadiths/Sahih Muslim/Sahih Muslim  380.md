@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd reported:The Messenger of Allah (ﷺ) bestowed upon a group of persons (boo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>380</td></tr><tr><td>Arabic No</td><td>150.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 287</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Амир ибн Са‘д передал, что его отец сказал: «Однажды Посланник Аллаха ﷺ оделил подарками группу людей, среди которых сидел и я». Далее подобно предыдущему хадису, но в этой версии он добавил: «…Я подошел к Посланнику Аллаха ﷺ и тайно спросил его: “Почему ты так отнёсся к такому-то?…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>380</td></tr><tr><td>Arabic No</td><td>150.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 287</td></tr></tbody></table></div>
 

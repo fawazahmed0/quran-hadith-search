@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ka'b bin Malik:Ka'b demanded his debt back from Ibn Abi H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2418</td></tr><tr><td>Arabic No</td><td>2418</td></tr><tr><td>Reference</td><td>Book 44 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ка‘ба, да будет доволен им Аллах, о том, что (однажды, находясь) в мечети, он принялся требовать у Ибн Абу Хадрада вернуть ему долг, и голоса их стали звучать так громко, что их услышал Посланник Аллаха ﷺ, который находился у себя дома и вышел к ним (столь поспешно), что (даже) не задёрнул занавеску своей комнаты. Он сказал: “О Ка‘б!” Ка‘б ответил: “Я перед тобой, о Посланник Аллаха!” (Тогда) он сказал: “Прости ему из того, что он должен тебе, столько”, и сделал рукой знак, означавший, что долг следовало уменьшить наполовину. Ка‘б сказал: “Я уже сделал это, о Посланник Аллаха!” — (после чего) он велел (Ибн Абу Хадраду): “А ты встань и уплати ему!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2418</td></tr><tr><td>Arabic No</td><td>2418</td></tr><tr><td>Reference</td><td>Book 44 Hadith 8</td></tr></tbody></table></div>
 

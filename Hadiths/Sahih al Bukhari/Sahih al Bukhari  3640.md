@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:The Prophet (ﷺ) said, "Some of my followers wil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abdullah bin Abu Al Aswad] telah bercerita kepada kami [Yahya] dari [Isma'il] telah bercerita kepada kami [Qais], aku mendengar [Al Mughirah bin Syu'bah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Senantiasa akan ada (sekelompok) orang dari ummatku yang akan menang hingga datang ketetapan Allah atas mereka dan mereka dalam keadaan menang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3640</td></tr><tr><td>Arabic No</td><td>3640</td></tr><tr><td>Reference</td><td>Book 61 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Мугъира ибн Шу‘ба, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Не перестанут люди из моей общины открыто придерживаться (истины), пока не придёт к ним повеление Аллаха, и они будут явно (на этом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3640</td></tr><tr><td>Arabic No</td><td>3640</td></tr><tr><td>Reference</td><td>Book 61 Hadith 144</td></tr></tbody></table></div>
 

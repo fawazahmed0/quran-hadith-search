@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The she camel of the Prophet (ﷺ) was called Al-Adba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Mu'awiyah] telah bercerita kepada kami [Abu Ishaq] dari [Humaid] berkata aku mendengar [Anas radliallahu 'anhu] berkata: "Unta Nabi shallallahu 'alaihi wasallam dipanggil dengan al-'Adhbaa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2871</td></tr><tr><td>Arabic No</td><td>2871</td></tr><tr><td>Reference</td><td>Book 56 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Верблюдицу Пророка ﷺ звали аль-‘Адба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2871</td></tr><tr><td>Arabic No</td><td>2871</td></tr><tr><td>Reference</td><td>Book 56 Hadith 87</td></tr></tbody></table></div>
 

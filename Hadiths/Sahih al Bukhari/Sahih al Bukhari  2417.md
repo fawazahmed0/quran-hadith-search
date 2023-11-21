@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:Allah's Messenger (ﷺ) said, "Whoever takes a fal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] dari ['Abdullah radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang bersumpah yang dengan sumpahnya itu dia durhaka dan bermaksud mengambil harta seorang Muslim, maka dia kelak akan berjumpa dengan Allah sedang Allah murka kepadanya". 'Abdullah berkata, [Al Asy'ats] berkata: "Demi Allah, ayat itu turun tentang aku, yang dahulu antara aku dan seorang Yahudi ada tanah yang diperebutkan lalu dia mengalahkan aku. Kemudian aku adukan hal itu kepada Nabi shallallahu 'alaihi wasallam. Maka Rasulullah shallallahu 'alaihi wasallam berkata, kepadaku: "Apakah kamu punya bukti?" Aku jawab: "Tidak". Lalu Beliau berkata, kepada orang Yahudi itu: "Bersumpahlah". Dia berkata,, aku katakan: "Wahai Rasulullah, dia bersumpah sementara dia mengambil hartaku?" Maka turunlah firman Allah QS Alu 'Imran ayat 77 yang artinya ("Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit…") hingga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2417</td></tr><tr><td>Arabic No</td><td>2417</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (бин Мас‘уд), да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ сказал: “Тот, кто даст ложную клятву (для того, чтобы) с помощью этого присвоить имущество мусульманина, встретит Аллаха гневающимся на него”».\n(‘Абдуллах бин Мас‘уд, да будет доволен им Аллах, сказал): «А потом аль-Аш‘ас сказал: «Клянусь Аллахом, всё это имело отношение ко мне. (Дело в том, что) у меня (была тяжба из-за участка) земли с одним иудеем, который не признавал мои права (на него. В конце концов) я привёл его к Пророку ﷺ, и Посланник Аллаха ﷺ спросил меня: “Есть ли у тебя доказательства?” Я сказал: “Нет”. Тогда он сказал этому иудею: “Поклянись”. Я сказал: “О Посланник Аллаха, он же принесёт (ложную) клятву и заберёт моё имущество!” — после чего Аллах Всевышний ниспослал аят(, в котором говорится): “Поистине, для тех, которые продают завет Аллаха и свои клятвы за ничтожную цену, нет удела в мире ином: Аллах не заговорит с ними, и не посмотрит на них в День воскресения, и не очистит их и (уготовано) им мучительное наказание”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2417</td></tr><tr><td>Arabic No</td><td>2417</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

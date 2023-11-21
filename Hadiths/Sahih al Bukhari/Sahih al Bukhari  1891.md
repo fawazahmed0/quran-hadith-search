@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Talha bin 'Ubaidullah:A bedouin with unkempt hair came to Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada saya [Isma'il bin Ja'far] dari [Abu Suhail] dari [Bapaknya] dari [Tholhah bin 'Ubaidullah]; Ada seorang 'Arab Baduy datang kepada Rasululloh shallallahu 'alaihi wasallam dalam keadaan kepalanya penuh debu lalu berkata; "Wahai Rasulullah, kabarkan kepadaku apa yang telah Allah wajibkan buatku tentang shalat?". Maka Beliau shallallahu 'alaihi wasallam menjawab: "Shalat lima kali kecuali bila kamu mau menambah dengan yang tathowwu' (sunnat) ". Orang itu bertanya lagi: "Lalu kabarkan kepadaku apa yang telah Allah wajibkan buatku tentang shaum (puasa)?". Maka Beliau shallallahu 'alaihi wasallam menjawab: "Shaum di bulan Ramadhan kecuali bila kamu mau menambah dengan yang tathowwu' (sunnat) "."Dan shiyam (puasa) Ramadhan". Orang itu bertanya lagi: "Lalu kabarkan kepadaku apa yang telah Allah wajibkan buatku tentang zakat?". Berkata, Tholhah bin 'Ubaidullah radliallahu 'anhu: Maka Rasulullah shallallahu 'alaihi wasallam menjelaskan kepada orang itu tentang syari-at-syari'at Islam. Kemudian orang itu berkata: "Demi Dzat yang telah memuliakan anda, Aku tidak akan mengerjakan yang sunnah sekalipun, namun aku pun tidak akan mengurangi satupun dari apa yang telah Allah wajibkan buatku". Maka Rasulullah shallallahu 'alaihi wasallam berkata: "Dia akan beruntung jika jujur menepatinya atau dia akan masuk surga jika jujur menepatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1891</td></tr><tr><td>Arabic No</td><td>1891</td></tr><tr><td>Reference</td><td>Book 30 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Тальхи ибн ‘Убайдуллах, да будет доволен им Аллах, о том, что (однажды) к Посланнику Аллаха ﷺ явился какой-то человек с растрёпанными волосами и сказал: «О Посланник Аллаха, расскажи мне, что из молитвы предписал мне Аллах?» И (Посланник Аллаха ﷺ) сказал: «Пять молитв, если только сам ты не пожелаешь (совершить) что-то дополнительно». Тот попросил: «Расскажи мне, что Аллах предписал мне из поста?» (Посланник Аллаха ﷺ) сказал: «(Ты должен соблюдать) пост (в месяце) рамадан, если только сам ты не пожелаешь что-то (соблюдать из поста) дополнительно». Тот (снова) спросил: «Расскажи мне, что Аллах предписал для меня из закята?» \n(Тальха) сказал: «А затем Посланник Аллаха ﷺ рассказал ему о законоположениях ислама». (Тогда этот человек) сказал: «Клянусь Тем, Кто почтил тебя, я ничего не буду делать дополнительно (к этому) и ничего не стану убавлять из того, что предписал мне Аллах!» И тогда Посланник Аллаха ﷺ сказал: “Он преуспеет, если говорит искренне! (или он сказал: Он войдёт в рай, если говорит искренне!”»)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1891</td></tr><tr><td>Arabic No</td><td>1891</td></tr><tr><td>Reference</td><td>Book 30 Hadith 1</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada reported Allah's Messenger (ﷺ) as saying:The good vision are from A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami ['Abdullah bin Wahb]; Telah mengabarkan kepadaku ['Amru bin Al Harits] dari ['Abdu Rabbih bin Sa'id] dari [Abu Salamah bin 'Abdur Rahman] dari [Abu Qatadah] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Mimpi yang baik datang dari Allah dan mimpi yang buruk datang dari setan, barang siapa yang bermimpi buruk maka hendaklah ia meludah ke sebelah kirinya dan meminta perlindungan kepada Allah dari godaan syetan niscaya tidak akan membahayakannya. Dan jangan menceritakan mimpi itu kepada siapapun. Dan jika dia bermimpi baik maka bergembiralah dan jangan menceritakannya kecuali kepada orang yang dikasihi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5902</td></tr><tr><td>Arabic No</td><td>2261.06</td></tr><tr><td>Reference</td><td>Book 42 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5902</td></tr><tr><td>Arabic No</td><td>2261.06</td></tr><tr><td>Reference</td><td>Book 42 Hadith 6</td></tr></tbody></table></div>
 

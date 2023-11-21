@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) passed by a fallen date and said, "Were it not f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Tholhah] dari [Anas radliallahu 'anhu] berkata: Nabi shallallahu 'alaihi wasallam berjalan melewati buah-buah kurma yang jatuh, lalu Beliau berkata: "Seandainya kurma-kurma ini padanya tidak ada kewajiban shadaqah (zakat) tentu aku sudah memakannya". Dan berkata, [Hammam] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Aku menemukan kurma yang jatuh di atas tempat tidurku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2055</td></tr><tr><td>Arabic No</td><td>2055</td></tr><tr><td>Reference</td><td>Book 34 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ прошёл мимо упавшего откуда-то финика и сказал: “Если бы я не опасался, что это может быть (частью) милостыни /садака/, я бы съел его”». \nАбу Хурайра, да будет доволен им Аллах, также передал, что Пророк ﷺ сказал: «Я нашёл финик, который лежал на моей кровати»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2055</td></tr><tr><td>Arabic No</td><td>2055</td></tr><tr><td>Reference</td><td>Book 34 Hadith 9</td></tr></tbody></table></div>
 

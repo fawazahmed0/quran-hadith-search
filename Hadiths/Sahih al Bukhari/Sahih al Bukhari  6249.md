@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, "O 'Aisha! This is Gabriel sending
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Muqatil] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah bin Abdurrahman] dari [Aisyah] radliallahu 'anha dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Aisyah, ini Jibril menyampaikan salam untukmu!." Aisyah berkata; "Jawabku; "Wa'alihis salam warahmatullahi, anda melihat apa yang tidak kami lihat." Maksud Aisyah adalah Rasulullah shallallahu 'alaihi wasallam." Hadits ini juga di perkuat oleh riwayat [Syu'aib], [Yunus] dan [An Nu'man] mengatakan dari [Az Zuhri] ia menambahkan; "Wabarakatuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6249</td></tr><tr><td>Arabic No</td><td>6249</td></tr><tr><td>Reference</td><td>Book 79 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) Посланник Аллаха ﷺ сказал ей: «О ‘Аиша! Вот Джибриль приветствует тебя», (на что) она сказала: «И ему мир, милость Аллаха. Ты видишь то, чего не видим мы!» — и(, говоря это,) она имела в виду Посланник Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6249</td></tr><tr><td>Arabic No</td><td>6249</td></tr><tr><td>Reference</td><td>Book 79 Hadith 23</td></tr></tbody></table></div>
 

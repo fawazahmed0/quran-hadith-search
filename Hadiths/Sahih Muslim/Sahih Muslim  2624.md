@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qaza'a reported:I came to Abu Sa'id al-Khudri (Allah be pleased with him) and he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Mu'awiyah bin Shalih] dari [Rabi'ah] ia berkata, telah menceritakan kepadaku [Qaza'ah] ia berkata; Aku pernah mendatangi [Abu Sa'id Al Khudriy] yang saat itu sedang dikerumuni oleh orang banyak. Ketika mereka telah membubarkan diri aku berkata kepadanya, "Aku tidak ingin menanyakan apa yang telah mereka tanyakan. Aku hanya ingin menanyakan perihal puasa dalam safar." Maka ia pun menjawab, "Kami dulu pernah bepergian ke kota Makkah bersama Rasulullah shallallahu 'alaihi wasallam dan kami saat itu sedang berpuasa. Lalu kami singgah di suatu tempat, kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Jarak kalian dengan musuh kalian sudah semakin dekat, dan makan (tidak berpuasa) akan dapat membuat kalian lebih kuat, dan ini adalah sebuah rukhshah (keringanan)." Maka di antara kamipun ada yang masih berpuasa dan ada pula yang tidak berpuasa. Setelah itu, kami singgah lagi pada sebuah tempat, lalu beliau bersabda: "Sesungguhnya kalian besok pagi kalian akan menghadapi musuh sedangkan berbuka akan membuat kalian lebih kuat, maka berbukalah kalian, ini adalah suatu ketetapan." Maka sesudah itu, kami pun berbuka. Abu Sa'id berkata; Sungguh, semenjak itu aku telah melihat kami berpuasa bersama Rasulullah shallallahu 'alaihi wasallam dalam perjalanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2624</td></tr><tr><td>Arabic No</td><td>1120</td></tr><tr><td>Reference</td><td>Book 13 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2624</td></tr><tr><td>Arabic No</td><td>1120</td></tr><tr><td>Reference</td><td>Book 13 Hadith 130</td></tr></tbody></table></div>
 

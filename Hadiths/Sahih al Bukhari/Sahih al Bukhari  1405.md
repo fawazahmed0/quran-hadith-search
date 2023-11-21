@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:Allah's Messenger (ﷺ) (p.b.u.h) said, "No Zakat is due on p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Yazid] telah mengabarkan kepada kami [Syu'aib bin Ishaq] telah mengabarkan kepada kami [Al Awza'iy] telah mengabarkan kepada saya [Yahya bin Abu Katsir] bahwa ['Amru bin Yahya bin 'Umarah] telah mengabarkannya dari bapaknya [Yahya bin 'Umarah bin Abu Al Hasan] bahwa dia mendengar [Abu Sa'id radliallahu 'anhu] berkata; Nabi Shallallahu'alaihiwasallam telah bersabda: "Tidak ada zakat harta dibawah lima wasaq, tidak ada zakat pada unta dibawah lima ekor dan tidak ada zakat pada hasil tanaman dibawah lima wasaq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1405</td></tr><tr><td>Arabic No</td><td>1405</td></tr><tr><td>Reference</td><td>Book 24 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не следует выплачивать садаку (с имущества стоимостью) менее пяти окий (серебра), и не следует выплачивать садаку (со стада, состоящего) менее чем из пяти верблюдов, и не следует выплачивать садаку (с урожая) менее чем в пять васков»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1405</td></tr><tr><td>Arabic No</td><td>1405</td></tr><tr><td>Reference</td><td>Book 24 Hadith 10</td></tr></tbody></table></div>
 

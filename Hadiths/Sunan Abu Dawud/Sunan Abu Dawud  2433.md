@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Ayyub:The Prophet (ﷺ) as saying: If anyone fasts during Ramadan, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili], Telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Shafwan bin Sulaim] serta [Sa'd bin Sa'id], dari [Umar bin Tsabit Al Anshari], dari [Abu Ayyub] sahabat nabi shallallahu 'alaihi wasallam, dari Nabi shallallahu 'alaihi wasallam, beliau berkata: "Barangsiapa yang melakukan puasa pada Bulan Ramadhan kemudian ia ikutkan dengan puasa enam hari pada Bulan Syawal, maka seolah-olah ia berpuasa satu tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1164)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2433</td></tr><tr><td>Arabic No</td><td>2433</td></tr><tr><td>Reference</td><td>Book 14 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Айюб, да будет доволен им Аллах, сподвижник Пророка ﷺ передаёт, что Пророк ﷺ сказал: «Кто постился весь рамадан, а потом постился ещё шесть дней в шаввале, тот как будто постится непрерывно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1164)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2433</td></tr><tr><td>Arabic No</td><td>2433</td></tr><tr><td>Reference</td><td>Book 14 Hadith 121</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama reported Allah's Messenger (ﷺ) having said this:When any one of you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Hajjaj bin Sya'ir] telah menceritakan kepadaku [Yahya bin Katsir Al 'Anbari Abu Ghassan] telah menceritakan kepada kami [Syu'bah] dari [Malik bin Anas] dari [Umar bin Muslim] dari [Sa'id bin Musayyab] dari [Ummu Salamah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika kalian telah melihat hilal sepuluh Dzul Hijjah, dan salah seorang dari kalian hendak berkurban, hendaknya ia tidak mencukur rambut dan tidak memotong kuku terlebih dahulu." Dan telah menceritakan kepada kami [Ahmad bin Abdullah bin Al Hakam Al Hasyimi] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Malik bin Anas] dari [Umar] atau 'Amru bin Muslim dengan sanad ini, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5119</td></tr><tr><td>Arabic No</td><td>1977.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Умм Салямы, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Когда увидите молодой месяц в зуль-хиджже и кто-то из вас собирается принести в жертву животное, пусть воздерживается от (подстригания) волос и ногтей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5119</td></tr><tr><td>Arabic No</td><td>1977.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 53</td></tr></tbody></table></div>
 

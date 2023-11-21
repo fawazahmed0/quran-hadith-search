@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah: Nafi narrated to me that 'Abdullah said that Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ubaidullah] mengatakan, telah menceritakan kepadaku [Nafi'] dari ['Abdullah] radliallahu 'anhu, Rasulullah Shallallahu'alaihiwasallam melarang nikah syighar. Saya bertanya kepada Nafi'; 'Apa maksud syighar? ' Ia menjawab; 'mengawini anak perempuan seseorang lelaki dengan syarat lelaki tersebut dinikahkan dengan anak perempuannya tanpa mahar, atau menikahi saudara perempuan seorang lelaki dengan syarat lelaki tersebut menikahkannya dengan saudara perempuannya tanpa mahar.' Sebagian orang berpendapat; jika seseorang bersiasat sehingga ia nikah syighar, maka perkawinannya boleh dan syaratnya bathil. Dan ia berkata tentang nikah mut'ah; pernikahannya rusak dan syaratnya bathil. Sedang sebagian lain berpendapat bahwa nikah syighar boleh dan syaratnya bathil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6960</td></tr><tr><td>Arabic No</td><td>6960</td></tr><tr><td>Reference</td><td>Book 90 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что ‘Абдуллах, да будет доволен им Аллах, сказал, что Посланник Аллаха ﷺ запретил шигар. Один из передатчиков хадиса сказал: «Я спросил Нафи‘а: “А что такое шигар?” Он ответил: “Это когда два человека выдают своих дочерей друга за друга без брачного дара, или когда два человека выдают своих сестёр друга за друга без брачного дара”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6960</td></tr><tr><td>Arabic No</td><td>6960</td></tr><tr><td>Reference</td><td>Book 90 Hadith 7</td></tr></tbody></table></div>
 

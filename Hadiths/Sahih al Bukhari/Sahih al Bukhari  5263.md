@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:I asked 'Aisha about the option: She said, "The Prophet (ﷺ) ga
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Isma'il] Telah menceritakan kepada kami [Amir] dari [Masruq] ia berkata; Aku pernah bertanya kepada [Aisyah] tentang Al Khiyarah (tawaran pilihan). Maka Ia pun menjawab, "Nabi shallallahu 'alaihi wasallam pernah memberi kami pilihan." Apakah itu termasuk talak? Masruq berkata; Aku tak peduli, apakah aku memberi pilihan satu atau seratus kali setelah ia memilihku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5263</td></tr><tr><td>Arabic No</td><td>5263</td></tr><tr><td>Reference</td><td>Book 68 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрук сказал: «Я спросил ’Аишу о предоставление выбора (жёнам), и она сказала: “Пророк, предоставил нам выбор, но разве это считалось разводом?”». \nМасрук сказал: «Для меня не имеет значения предоставлю я своей жене выбор один или сто раз после того, как она выберет меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5263</td></tr><tr><td>Arabic No</td><td>5263</td></tr><tr><td>Reference</td><td>Book 68 Hadith 13</td></tr></tbody></table></div>
 

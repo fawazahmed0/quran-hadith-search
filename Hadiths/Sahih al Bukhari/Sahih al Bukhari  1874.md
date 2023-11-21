@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "The people will le
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Sa'id bin Al Musayab] bahwa [Abu Hurairah radliallahu 'anhu] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Suatu saat nanti penduduk akan meninggalkan Madinah dalam keadaan baik sebagaimana keadaannya semula. Tidak ada lagi yang mendatanginya kecuali 'awaf, yaitu binatang-binatang buas dan burung-burung. Orang terakhir yang akan meninggal adalah dua orang pengembala dari suku Muzaynah yang keduanya mendatangi Madinah untuk menghalau kambing, lalu di Madinah keduanya mendapati binatang liar hingga ketika keduanya tiba di bukit Wada' keduanya jatuh tersungkur karena pingsan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1874</td></tr><tr><td>Arabic No</td><td>1874</td></tr><tr><td>Reference</td><td>Book 29 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “(Люди) покинут Медину, несмотря на то что она будет в своём наилучшем состоянии, и не станет появляться там никто, кроме посещающих”, под которыми он имел в виду зверей и птиц. (И он ﷺ сказал): “Последними же, кто будет собран, окажутся два пастуха из (племени) музайна, которые направятся в Медину, прикрикивая на своих овец, и обнаружат её пустой, когда же они достигнут Санийат аль-Вада‘, то упадут замертво”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1874</td></tr><tr><td>Arabic No</td><td>1874</td></tr><tr><td>Reference</td><td>Book 29 Hadith 8</td></tr></tbody></table></div>
 

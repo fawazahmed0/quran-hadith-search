@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Arqam:In the lifetime of the Prophet (ﷺ) we used to speak wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami ['Isa] dia adalah putra Yunus dari [Isma'il] dari [Al Harits bin Syubail] dari [Abu 'Amru Asy Syaibaniy] berkata; [Zaid bin Arqam] berkata, kepadaku: "Sungguh kami pernah berbicara ketika sedang shalat hingga ada seorang diantara kami yang berbicara dengan temannya tentang kebutuhannya sampai kemudian turun firman Allah Ta'ala (dalam surah Al Baqarah) "Peliharalah seluruh shalat kalian dan shalat Al Wustha dan berdirilah (dalam shalat) untuk Allah dengan khusyu'". (QS. Albaqarah, 238), Maka kami diperintah untuk diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1200</td></tr><tr><td>Arabic No</td><td>1200</td></tr><tr><td>Reference</td><td>Book 21 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В хадисе, передаваемом со слов Зейда бин Аркъама, да будет доволен им Аллах, сообщается, что он сказал: «При жизни Пророка ﷺ мы (сначала) разговаривали во время намазов, и человек говорил своему товарищу о том, что ему было нужно. (Так продолжалось) до тех пор, пока не был ниспослан аят(, в котором говорится): “Совершайте намазы неуклонно, (особенно) средний намаз, и стойте пред Аллахом благоговейно”, после чего нам было велено молчать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1200</td></tr><tr><td>Arabic No</td><td>1200</td></tr><tr><td>Reference</td><td>Book 21 Hadith 4</td></tr></tbody></table></div>
 

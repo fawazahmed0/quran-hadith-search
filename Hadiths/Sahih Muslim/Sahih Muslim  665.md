@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Qays bint Mihsan (raa) raconte qu'elle a apporté un jour au Prophète (paix
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rumh bin al-Muhajir] telah mengabarkan kepada kami [al-Laits] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah] dari [Ummu Qais binti Mihshan] bahwa dia mendatangi Rasulullah shallallahu 'alaihi wasallam dengan membawa seorang anak laki-lakinya yang belum makan makanan, lalu dia meletakkannya di pangkuan beliau. Kemudian bayi tersebut kencing." Ubaidullah berkata, "Tidaklah beliau melakukan sesuatu kecuali hanya sekedar memercikkan air (pada bekas kencingnya)." Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Amru an-Naqid] serta [Zuhair bin Harb] semuanya dari [Ibnu Uyainah] dari [az-Zuhri] dengan sanad ini. Dan dia sebutkan, "Lalu beliau meminta air, lalu menyiramnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>287.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Умм Кайс бинт Михсан, что однажды она пришла к Посланнику Аллаха ﷺ со своим грудным сыном и посадила ребёнка ему на колени, а (через некоторое время) он помочился (на его одежду), и тогда (Пророк ﷺ) лишь обрызгал водой это место(, не став застирывать его)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>287.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 131</td></tr></tbody></table></div>
 

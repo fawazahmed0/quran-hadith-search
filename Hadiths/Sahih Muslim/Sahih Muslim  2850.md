@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Tawus reported on the authority of Ibn 'Abbas (Allah be pleased with them) that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] ia berkata, telah mengabarkan kepadaku [Al Hasan bin Muslim] dari [Thawus] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Ketika [Zaid bin Arqam] datang, Abdullah bin Abbas berkata kepadanya minta diingatkan, "Bagaimana dengan hadits yang telah Anda kabarkan kepadaku terkait dengan daging hewan buruan yang dihadiahkan kepada Rasulullah shallallahu 'alaihi wasallam saat beliau ihram?" Zaid berkata; Beliau diberi hadiah sepotong daging buruan, namun beliau mengembalikannya seraya bersabda: "Kami tidak memakannya, karena kami sedang ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2850</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 15 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2850</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 15 Hadith 60</td></tr></tbody></table></div>
 

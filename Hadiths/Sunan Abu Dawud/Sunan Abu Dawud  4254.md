@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) said: The mill of Islam will go 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] berkata, telah menceritakan kepada kami ['Abdurrahman] dari [Sufyan] dari [Manshur] dari [rib'I bin Hirasy] dari [Al Bara bin Najiah] dari [Abdullah bin Mas'ud] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Roda Islam akan berputar (berlangsung) selama tiga puluh lima, atau tiga puluh enam, atau tiga puluh tujuh (tahun). Jika mereka binasa maka itulah jalan orang-orang yang binasa (sebelum mereka), namun jika mereka menegakkan agama, maka mereka akan tetap ada hingga tujuh puluh tahun." Ibnu Mas'ud berkata, "Aku lalu bertanya, "Dihitung dari pasca tiga puluh lima tahun, atau mulai dari awal berdirinya daulah Islam (di masa kenabian)?" beliau menjawab: "Dihitung dari awal." Abu Dawud berkata, "Siapa yang mengatakan (Rib'ie bin) Khirasy, ia telah keliru
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4254</td></tr><tr><td>Arabic No</td><td>4254</td></tr><tr><td>Reference</td><td>Book 37 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, передаёт: «Пророк ﷺ сказал: “Жернова ислама (благополучие, благоденствие и согласие) будут вертеться тридцать пять, тридцать шесть или тридцать семь лет, и если погибнут они, то до них уже погибали избравшие этот путь, а если религия сохранится у них, то продолжится это семьдесят лет”. Я спросил: “Из того, что осталось, или включая прошедшие годы?” (Посланник Аллаха ﷺ) сказал: “Включая прошедшие годы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4254</td></tr><tr><td>Arabic No</td><td>4254</td></tr><tr><td>Reference</td><td>Book 37 Hadith 15</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Exhort to recite" There i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr] dan [Utsman] -keduanya adalah anak dari Abu Syaibah- -dalam jalur lain- Dan telah menceritakan kepadaku [Amru An Naqid] semuanya berkata, telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Yazid bin Kaisan] dari [Abu Hazim] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda, "Tuntunlahlah orang yang sedang berada di penghujung ajalnya dengan kalimat LAA ILAAHA ILLALLAAH
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2125</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: Посланник Аллаха ﷺ сказал: «Внушайте своим умирающим, (чтобы они произносили слова) “Нет бога, достойного поклонения, кроме Аллаха” /Ля иляха илля-Ллах/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2125</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
 

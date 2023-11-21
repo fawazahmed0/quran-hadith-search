@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported many ahadith from Allah's Messenger (ﷺ) and one is that A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabih] dia berkata; 'Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, -kemudian dia menyebutkan beberapa Hadits yang di antaranya-; dan Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Aku lebih berhak atas diri Isa putra Maryam dari semua manusia di dunia dan di akhirat, " para sahabat bertanya; "Bagaimana hal itu wahai Rasulullah?" beliau bersabda: "Para Nabi adalah satu ayah (adam), ibu mereka berbeda-beda namun agama mereka satu, dan antara aku dengan Isa tidak ada Nabi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6132</td></tr><tr><td>Arabic No</td><td>2365.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6132</td></tr><tr><td>Arabic No</td><td>2365.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 190</td></tr></tbody></table></div>
 

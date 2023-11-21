@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Khalid] dari [Ibnu Al 'Ajlan] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abu Sa'id Al Khudri] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian ragu dalam shalatnya, hendaknya ia meninggalkan keraguannya dan menetapkan yang di yakininya, apabila dia yakin (raka'atnya) telah sempurna, lalu sujud dua kali. Apabila ternyata raka'atnya telah sempurna, maka satu raka'at dan kedua sujudnya itu menjadi tambahan baginya (amalan sunnah), kalau memang ternyata raka'atnya kurang, maka raka'at itu menjadi penyempurna shalatnya dan kedua sujudnya itu sebagai pembuat syetan jengkel." Abu Daud berkata; "Di riwayatkan pula oleh [Hisyam bin Sa'd] dan [Muhammad bin Mutharif] dari [Zaid] dari ['Atha' bin Yasar] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam, sedangkan haditsnya Abu Khalid lebih sempurna (daripada haditsnya Hisyam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (571)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1024</td></tr><tr><td>Arabic No</td><td>1024</td></tr><tr><td>Reference</td><td>Book 2 Hadith 635</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас засомневается в своей молитве, пусть он отбросит то, в чём он сомневается и исходит из того, в чём он уверен. И когда он будет уверен в том, что его молитва завершена, пусть совершил два земных поклона (суджуд ас-сахв), то, если его молитва завершена, дополнительный рак‘ат будет дополнительным действием, как и два земных поклона. Если же молитва ещё не завершена, этот рак‘ат станет её завершением, а два рак‘ата совершатся наперекор шайтану»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (571)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1024</td></tr><tr><td>Arabic No</td><td>1024</td></tr><tr><td>Reference</td><td>Book 2 Hadith 635</td></tr></tbody></table></div>
 

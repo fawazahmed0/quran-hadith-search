@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:The noon prayer would start and one would go to al-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Dawud bin Rusyaid] telah menceritakan kepada kami [al-Walid, yaitu Ibnu Muslim] dari [Sa'id yaitu Ibnu Abdul Aziz] dari [Athiyyah bin Qais] dari [Qaz'ah] dari [Abu Sa'id al-Khudri] dia berkata, "Sungguh shalat zhuhur dikumandangkan iqamah, maka seseorang pergi ke al-Baqi', lalu menunaikan hajatnya, kemudian berwudhu, kemudian dia mendatangi (shalat jama'ah) sedangkan Rasulullah shallallahu 'alaihi wasallam masih pada raka'at pertama yang beliau panjangkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1020</td></tr><tr><td>Arabic No</td><td>454.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «Когда объявляли о начале полуденной /зухр/ молитвы, и (если в это время) кто-нибудь из нас выходил в аль-Бакы’, справляя свою нужду, а затем приходил (назад) и совершал омовение, то заставал Посланника Аллаха ﷺ (всё ещё совершающим) первый рак‘ат, потому что он удлинял его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1020</td></tr><tr><td>Arabic No</td><td>454.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 182</td></tr></tbody></table></div>
 

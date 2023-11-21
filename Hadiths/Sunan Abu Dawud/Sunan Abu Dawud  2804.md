@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Messenger of Allah (ﷺ) enjoined upon us to pay 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Abu Ishaq], dari [Syuraih bin An Nu'man], dan ia adalah orang yang jujur, dari [Ali], ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kami agar memeriksa mata, dan telinga serta agar kami tidak berkurban dengan 'aura', muqabalah, mudabarah, kharqa' dan syarqa'. Zuhair berkata; aku katakan kepada Abu Ishaq; apakah beliau menyebutkan 'Adhba'? ia berkata; tidak. Aku katakan; apakah Muqabalah? Ia berkata; yang terpotong ujung telingannya. Aku katakan; apakah mudabarah? Ia berkata; yang terpotong belakang telingannya. Aku katakan; apakah syarqa'? Ia berkata; yang telingannya sobek. Aku katakan; apakah kharqa'? Ia berkata; yang telinganya dilubangi sebagai tanda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2804</td></tr><tr><td>Arabic No</td><td>2804</td></tr><tr><td>Reference</td><td>Book 16 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али, да будет доволен им Аллах: «Посланник Аллаха ﷺ велел нам смотреть на уши и глаза жертвенных животных и не приносить в жертву одноглазое животное, а также (животное, называемое) мукабаля, мудабара, харка и шарка». Зухайр сказал: «Я спросил Абу Исхака: “Он не упоминал овцу со сломанным рогом?” Он ответил: “Нет”. Я спросил: “А что такое мукабаля?” Он ответил: “Животное с отрезанной от края частью уха”. Я спросил: “А что такое мудабара?” Он ответил: “Животное с отрезанной от задней стороны частью уха”. Я спросил: “А что такое шарка?”. Он ответил: “Животное с рассечёнными ушами”. Я спросил: “А что такое харка?” “Животное с проколотым ухом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2804</td></tr><tr><td>Arabic No</td><td>2804</td></tr><tr><td>Reference</td><td>Book 16 Hadith 17</td></tr></tbody></table></div>
 

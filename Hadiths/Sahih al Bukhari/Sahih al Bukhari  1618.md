@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ibn Juraij said, " 'Ata informed us that when Ibn Hisham forbade women to perfor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan berkata, kepadaku ['Amru bin 'Ali] telah menceritakan kepada kami [Abu 'Ashim] berkata, [Ibnu Juraij] telah mengabarkan kepada kami, berkata,, telah mengabarkan kepada saya ['Atho'] ketika Ibnu Hisyam melarang para wanita untuk thawaf bersama kaum lelaki, ia ('Atho') berkata; "Bagaimana kalian melarang mereka sedangkan para isteri Nabi Shallallahu'alaihiwasallam melakukan tawaf bersama kaum lelaki?". Aku bertanya: "Apakah setelah turun ayat hijab atau sebelumnya?". Ia menjawab: "Benar, sungguh aku mendapatinya setelah turun ayat hijab". Aku berkata: "Bagaimana mereka berbaur dengan kaum lelaki?". Ia menjawab: "Mereka tidak berbaur dengan kaum lelaki, dan ['Aisyah radliallahu 'anha] thawaf dengan menyendiri dan tidak berbaur dengan kaum lelaki". Lalu ada seorang wanita berkata, kepadanya: "Beranjaklah wahai Ummul Mukminin, mari kita mencium hajar aswad". 'Aisyah radliallahu 'anha menjawab: "Engkau saja yang pergi". Sedangkan ia enggan untuk pergi. Dahulu kaum wanita keluar pada malam hari tanpa diketahui keberadaannya, lalu mereka thawaf bersama kaum lelaki. Namun mereka jika memasuki masjid, mereka berdiri hingga mereka masuk saat para lelaki telah keluar. Dan aku bersama 'Ubaid bin 'Umair pernah menemui 'Aisyah radliallahu 'anha yang sedang berada disisi gunung Tsabir. Aku bertanya: "Hijabnya apa? Ia menjawab: "Ia berada di dalam tenda kecil buatan Turki. Tenda itu memiliki penutup yang tipis dan tidak ada pembatas antara kami dan beliau selain tenda itu, dan aku melihat beliau mengenakan gamis bermotif mawar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1618</td></tr><tr><td>Arabic No</td><td>1618</td></tr><tr><td>Reference</td><td>Book 25 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Джурейдж сказал: «‘Ата сообщил нам, что когда ибн Хишам запретил женщинам совершать таваф вместе с мужчинами, он сказал ему: “Как ты запрещаешь им, тогда как жёны Пророка ﷺ совершали таваф вместе с мужчинами?” Я (Ибн Джурейдж) спросил ‘Ату: “Это было до ниспослания приказа носить хиджаб или после?” ‘Ата ответил: “Да, клянусь! Я застал это после ниспослания приказа носить хиджаб”. Я спросил: “Как они смешивались с мужчинами?” ‘Ата сказала: “Женщины не смешивались с мужчинами. ‘Аиша совершала таваф отдельно от мужчин и не смешивалась с ними. Однажды одна женщина сказала ей: “Иди прикоснись к Чёрному камню, о мать правоверных!” ‘Аиша ответила ей: “Оставь это!”, — и отказалась сделать это. Женщины выходили ночью, закрывшись, и совершали таваф вместе с мужчинами, однако, когда приходили к Каабе, они не заходили до тех пор, пока не уходили мужчины. Я и ‘Убейд ибн ‘Умейр навещали ‘Айшу, когда она находилась в Джауф-Сабире”. Я (Ибн Джурейдж) спросил: “Каким был её хиджаб?” ‘Ата сказал: «Она была в небольшой палатке, и между нами не было ничего, кроме неё. Я видел, что она была одета в рубаху розового цвета”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1618</td></tr><tr><td>Arabic No</td><td>1618</td></tr><tr><td>Reference</td><td>Book 25 Hadith 103</td></tr></tbody></table></div>
 

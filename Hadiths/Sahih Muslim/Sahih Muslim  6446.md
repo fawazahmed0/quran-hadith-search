@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Bakra reported from the Messenger of Allah (ﷺ) that Aslam, Ghifar, Muzaina
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin 'Ali Al Jahdhami]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] dari ['Abdur Rahman bin Abu Bakrah] dari [Bapaknya] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Suku Aslam, Ghifar, Muzainah, dan Juhainah, mereka lebih baik dari bani Tamim, bani Amir, dan dua sekutu bani Asad dan Ghathafan." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Harun bin 'Abdullah] keduanya berkata; Telah menceritakan kepada kami ['Abdush Shamad]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakannya kepadaku ['Amru An Naqid]; Telah menceritakan kepada kami [Syababah bin Sawwar] dia berkata; Telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6446</td></tr><tr><td>Arabic No</td><td>2522.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 275</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6446</td></tr><tr><td>Arabic No</td><td>2522.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 275</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu hurairah reported the prophet (peace be upon him) as saying :A prophet got d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Al Mughirah] -maksudnya Mughirah bin 'Abdurrahman- dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Ada seorang Nabi dari Nabi-nabi Allah yang berteduh di bawah pohon, lalu ia digigit oleh seekor semut. Maka ia pun menyiapkan alat-alatnya (perapian) seraya mengeluarkan semut dari bawah lubangnya dan membakarnya. Allah lalu berfirman kepadanya: "Apakah karena satu semut (lalu yang lain dibunuh semua)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3019) Sahih Muslim (2241)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5265</td></tr><tr><td>Arabic No</td><td>5265</td></tr><tr><td>Reference</td><td>Book 43 Hadith 493</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Некогда один из пророков остановился (на привал) под деревом и его укусил муравей. Тогда он повелел (перенести) свои вещи (в другое место) и их перенесли, а затем он велел (сжечь муравейник) и он был сожжён. Тогда Аллах внушил ему в откровении: “Почему же (ты не убил только) этого муравья?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3019) Sahih Muslim (2241)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5265</td></tr><tr><td>Arabic No</td><td>5265</td></tr><tr><td>Reference</td><td>Book 43 Hadith 493</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: The believer is the believer's mir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Sulaiman Al Muadzdzin] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Sulaiman] -maksudnya Sulaiman bin bilal- dari [katsir bin Zaid] dari [Al Walid bin Rabah] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang mukmin itu cermin bagi mukmin lainnya, dan seorang mukmin itu saudara bagi mukmin lainnya; ia membantunya saat kehilangan (ikut menanggung kesulitannya) serta menjaganya (membelanya) dari belakang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4918</td></tr><tr><td>Arabic No</td><td>4918</td></tr><tr><td>Reference</td><td>Book 43 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4918</td></tr><tr><td>Arabic No</td><td>4918</td></tr><tr><td>Reference</td><td>Book 43 Hadith 146</td></tr></tbody></table></div>
 

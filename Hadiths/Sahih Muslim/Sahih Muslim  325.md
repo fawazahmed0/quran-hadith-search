@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrate on the authority of Hakim b. Hizam:I said: Messenger of Allah, I d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>325</td></tr><tr><td>Arabic No</td><td>123.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Хаким ибн Хизам сказал: «Я сказал: “О Посланник Аллаха, (скажи мне, что ты думаешь) о тех делах благочестия, которыми я занимался во времена джахилиййи?” (В ответ на это) Посланник Аллаха ﷺ сказал: “Ты принял ислам вместе со (всеми) благими делами(, совершёнными тобой) прежде”. А я сказал: “Клянусь Аллахом, будучи в исламе, я не оставляю ничего (из дел благочестия), которыми я занимался во времена джахилиййи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>325</td></tr><tr><td>Arabic No</td><td>123.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 232</td></tr></tbody></table></div>
 

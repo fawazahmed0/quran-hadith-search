@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar (Allah be pleased with them) reported:I divorced my wife while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abd bin Humaid] telah mengabarkan kepadaku [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Muhammad, yaitu anak saudaraku Az Zuhri] dari [pamannya] telah mengabarkan kepada kami [Salim bin Abdullah] bahwa [Abdullah bin Umar] berkata; Saya pernah menceraikan istriku yang sedang haidl, lantas Umar melaporkannya kepada Nabi shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam marah sambil bersabda: "Suruhlah dia rujuk, hingga dia (istrinya) mengalami haidl yang kedua kali yaitu selain haidl yang dialami waktu dia ditalak, jika telah jelas dan dia ingin menceraikannya, hendaknya dia menceraikan sewaktu istrinya suci dari haidlnya, sebelum dia menggaulinya itulah maksud iddah dari talak yang Allah perintahkan." Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Yazid bin 'Abdi Rabbihi] telah menceritakan kepada kami [Muhammad bin Harb] telah menceritakan kepadaku [Az Zubaidi] dari [Az Zuhri] dengan isnad seperti ini, namun dia juga mengatakan; [Ibnu Umar] berkata; Kemudian saya merujuknya, dan saya mengira bahwa itu adalah talakku yang pertama terhadapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3657</td></tr><tr><td>Arabic No</td><td>1471.06</td></tr><tr><td>Reference</td><td>Book 18 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3657</td></tr><tr><td>Arabic No</td><td>1471.06</td></tr><tr><td>Reference</td><td>Book 18 Hadith 6</td></tr></tbody></table></div>
 

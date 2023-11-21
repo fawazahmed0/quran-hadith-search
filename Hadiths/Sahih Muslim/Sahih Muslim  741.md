@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jubair b. Mut'im reported it from the Messenger of Allah (ﷺ) that a mention wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Sulaiman bin Shurad] dari [Jubair bin Muth'im] dari Nabi shallallahu 'alaihi wasallam bahwa disebutkan di sisi beliau tentang mandi karena junub, maka beliau bersabda, "Adapun aku, maka aku menyiramkan pada kepalaku tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>741</td></tr><tr><td>Arabic No</td><td>327.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Джубайра ибн Мут‘има, что однажды в присутствии Пророка ﷺ (люди) упомянули о полном омовении из-за полового осквернения, и он сказал: «Что касается меня, то я обливаю голову трижды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>741</td></tr><tr><td>Arabic No</td><td>327.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 63</td></tr></tbody></table></div>
 

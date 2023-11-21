@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Atiyyah al-Qurazi: I was among the captives of Banu Qurayzah. They (the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah menceritakan kepada kami [Sufyan] berkata, telah mengabarkan kepada kami [Abdul Malik bin Umair] berkata, telah menceritakan kepadaku [Athiyah Al Qurazhi] ia berkata, "Aku termasuk salah satu dari tawanan bani Quraizhah, mereka mengamati siapa yang telah tumbuh bulu kemaluannya maka akan dibunuh, dan siapa yang belum tumbuh bulu kemaluannya maka tidak akan dibunuh. Sementara aku termasuk orang yang bulu kemaluannya belum tumbuh." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Abdul malik bin Umair] dengan hadits yang sama. Ia berkata, "Mereka lalu menyingkap auratku, namun mereka tidak mendapati bulu pada kemaluanku, sehingga mereka hanya menjadikan aku sebagai tawanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4404</td></tr><tr><td>Arabic No</td><td>4404</td></tr><tr><td>Reference</td><td>Book 40 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Атыйя аль-Курази сказал: «Я был в числе пленных бану курайза, и они смотрели, (у кого уже есть волосы на лобке, а у кого ещё нет), и у кого уже выросли волосы, того казнили (вместе с остальными взрослыми). Я оказался в числе тех, у кого ещё не было волос на лобке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4404</td></tr><tr><td>Arabic No</td><td>4404</td></tr><tr><td>Reference</td><td>Book 40 Hadith 54</td></tr></tbody></table></div>
 

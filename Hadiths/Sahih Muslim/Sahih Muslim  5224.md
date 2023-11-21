@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported Allah's Messenger (ﷺ) as saying:He who drank wine in this w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa meminum khamer di dunia, maka ia tidak akan meminumnya di akhirat kecuali jika ia bertaubat." Dan telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Hisyam] -yaitu Ibnu Sulaiman Al Mahzumi- dari [Ibnu Juraij] telah mengabarkan kepadaku [Musa bin Uqbah] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam seperti hadits Ubaidullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5224</td></tr><tr><td>Arabic No</td><td>2003.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5224</td></tr><tr><td>Arabic No</td><td>2003.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 98</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When it was the day of the Conquest (of Mecca) Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Syu'bah] dari [Abu At Tayyah] dari [Anas] katanya, ketika terjadi penaklukan Makkah, Rasulullah shallallahu 'alaihi wasallam membagi-bagi hanya untuk Quraisy. Maka kabilah merasa marah. Nabi shallallahu 'alaihi wasallam segera mengkritisi: "Tidakkah kalian ridha jika orang-orang pergi membawa dunia sementara kalian pergi membawa Rasulullah shallallahu 'alaihi wasallam? 'Baik, ' Jawab Anshar. Nabi meneruskan: "Kalaulah orang-orang mengarungi sebuah lembah atau lereng gunung, niscaya aku mengarungi lembah Anshar atau lereng gunung mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4332</td></tr><tr><td>Arabic No</td><td>4332</td></tr><tr><td>Reference</td><td>Book 64 Hadith 361</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Когда в день завоевания Мекки, Посланник Аллаха ﷺ поделил военную добычу между курайшитами, ансары разгневались, и Пророк ﷺ сказал: “Разве вы недовольны тем, что эти люди вернутся домой с (благами этого) мира, а вы вернётесь с Посланником Аллаха?” Они ответили: “Конечно!” Тогда он сказал: “Если бы люди пошли по одной долине или ущелью, я бы обязательно пошёл долиной ансаров (или: ущельем ансаров)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4332</td></tr><tr><td>Arabic No</td><td>4332</td></tr><tr><td>Reference</td><td>Book 64 Hadith 361</td></tr></tbody></table></div>
 

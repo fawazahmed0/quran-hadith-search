@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying :
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Dawud] berkata, telah mengabarkan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Al Laits bin Sa'd] dari [Ja'far bin Rabi'ah] dari [Al A'raj] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Jangan sekali-kali kalian mengatakan -kebun anggur- dengan lafadh Al karam (mulia), sebab Al karam artinya adalah seorang laki-laki muslim. Tetapi hendaklah kalian katakan hadaaiqul a'nab 'kebun anggur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4974</td></tr><tr><td>Arabic No</td><td>4974</td></tr><tr><td>Reference</td><td>Book 43 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4974</td></tr><tr><td>Arabic No</td><td>4974</td></tr><tr><td>Reference</td><td>Book 43 Hadith 202</td></tr></tbody></table></div>
 

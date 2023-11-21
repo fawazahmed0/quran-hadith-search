@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Humaid As-Saidi:We accompanied the Prophet (ﷺ) in the Ghazwa of T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sahal bin Bakkar] telah bercerita kepada kami [Wuhaib] dari ['Amru bin Yahya] dari ['Abbas as-Sa'idiy] dari [Abu Humaid as-Sa'idiy] berkata; "Kami ikut perang Tabuk bersama Nabi shallallahu 'alaihi wasallam lalu raja Aylah memberi hadiah seekor baghal berwarna putih kepada Nabi shallallahu 'alaihi wasallam dan Beliau (membalas) dengan memakaikan burdah kepada raja itu dan menetapkan baginya untuk tetap berkuasa atas negerinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3161</td></tr><tr><td>Arabic No</td><td>3161</td></tr><tr><td>Reference</td><td>Book 58 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хумайд ас-Са‘иди, да будет доволен им Аллах, сказал: «(Во время) похода на Табук, в котором мы принимали участие вместе с Пророком ﷺ властитель Айлы подарил ему белую мулицу и плащ, что же касается (Пророка ﷺ), то он подписал с ним мирное соглашение, по условиям которого (властитель Айлы) сохранял за собой власть над их владениями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3161</td></tr><tr><td>Arabic No</td><td>3161</td></tr><tr><td>Reference</td><td>Book 58 Hadith 4</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shaqiq al-'Uqaili reported:A person said to Ibn 'Abbas (as he delaye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Imran bin Hudair] dari [Abdullah bin Syaqiq Al 'Uqaili] katanya; "Seorang laki-laki pernah mengatakan kepada [Ibnu Abbas]; "Shalat, shalat." Ibnu Abbas pun diam. laki-laki itu berkata lagi; "Shalat!" Ibnu Abbas kembali diam. laki-laki itu berkata; "Shalat!" Ibnu Abbas kembali diam. Kemudian Ibnu Abbas berkata; "Apakah kamu hendak mengajari kami shalat? Padahal kami pernah menjamak antara dua shalat di masa Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1637</td></tr><tr><td>Arabic No</td><td>705.08</td></tr><tr><td>Reference</td><td>Book 6 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн Шакык аль-‘Укайли сказал: «Некий человек сказал Ибн ‘Аббасу: “Молитва”, а он промолчал. Затем он снова сказал: “Молитва”, а он (Ибн ‘Аббас) промолчал. Затем он снова сказал: “Молитва”, а он промолчал. Затем Ибн ‘Аббас сказал: “Да лишится тебя твоя мать, ты учишь нас совершать молитву!? Мы объединяли между двумя молитвами во времена Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1637</td></tr><tr><td>Arabic No</td><td>705.08</td></tr><tr><td>Reference</td><td>Book 6 Hadith 68</td></tr></tbody></table></div>
 

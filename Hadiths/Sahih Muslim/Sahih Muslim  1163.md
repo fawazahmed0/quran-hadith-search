@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir Ibn 'Abdillâh Al-Ansâri (que Dieu l'agrée), l'Envoyé de Dieu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Sayyar] dari [Yazid al-Faqir] dari [Jabir bin Abdullah al-Anshari] dia berkata, Rasulullah shallallahu'alaihiwasallam bersabda, "Aku diberikan lima perkara yang mana belum pernah diberikan kepada seorang pun sebelumku. Pertama, Dahulu setiap nabi diutus kepada kaumnya secara khusus, sedangkan aku diutus kepada setiap bangsa merah dan hitam. Kedua, ghanimah dihalalkan untukku, namun tidak dihalalkan untuk seorang pun sebelumku. Ketiga, dan bumi itu dijadikan untukku dalam keadaan suci dan mensucikan dan (sebagai) masjid juga, maka siapa pun laki-laki yang mana waktu shalat mendapatinya maka dia bisa shalat di mana pun dia berada. Keempat, aku ditolong dengan rasa takut (yang merasuk pada musuh di hadapanku) sejauh jarak perjalanan satu bulan. Kelima, aku diberi syafaat'." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Sayyar] telah menceritakan kepada kami [Yazid al-Faqir] telah mengabarkan kepada kami [Jabir bin Abdullah] bahwa Rasulullah shallallahu'alaihiwasallam bersabda, lalu dia menyebutkan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1163</td></tr><tr><td>Arabic No</td><td>521.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха аль-Ансари, что Посланник Аллаха ﷺ сказал: «Мне были дарованы пять (вещей), которые не были дарованы никому (из пророков) до меня: (раньше) каждый пророк направлялся только к своему народу, я же был направлен к каждому белому и чёрному; и мне была дозволена военная добыча, которую не разрешалось (брать) никому (из пророков) до меня; (вся) земля была сделана для меня чистой, местом совершения молитв и средством очищения, и поэтому, где бы ни застало человека, (время) молитвы, пусть совершает молитву на этом месте; и мне была оказана помощь страхом(, который охватил сердца моих врагов, живущих от меня) на расстоянии месяца пути; и (кроме всего этого), мне было даровано право заступничества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1163</td></tr><tr><td>Arabic No</td><td>521.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 3</td></tr></tbody></table></div>
 

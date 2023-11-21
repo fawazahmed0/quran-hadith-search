@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:Allah's Messenger (ﷺ) was informed that I had take
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepadaku [Sa'id bin Al Musayyab] dan [Abu Salamah bin 'Abdurrahman] bahwa ['Abdullah bin 'Amru] berkata; Diberitakan kepada Rasulullah shallallahu 'alaihi wasallam bahwa aku berkata: "Demi Allah, sungguh aku pasti akan berpuasa sepanjang hari dan sungguh aku pasti akan shalat malam sepanjang hidupku". Aku katakan secara terus terang; "Demi bapak dan ibuku sebagai tebusannya, sungguh aku memang telah mengatakannya". Maka Beliau berkata: "Sungguh kamu pasti tidak akan sanggup melaksanakannya. Akan tetapi berpuasalah dan berbukalah, shalat malam dan tidurlah dan berpuasalah selama tiga hari dalam setiap bulan karena setiap kebaikan akan dibalas dengan sepuluh kebaikan yang serupa, dan itu seperti puasa sepanjang tahun ". Aku katakan; "Sungguh aku mampu lebih dari itu". Belau berkata: "Kalau begitu puasalah sehari dan berbukalah selama dua hari". Aku katakan lagi: "Sungguh aku mampu yang lebih dari itu". Beliau berkata: "Kalau begitu puasalah sehari dan berbukalah sehari, yang demikian itu adalah puasanya Nabi Allah Daud 'alaihi salam yang merupakan puasa yang paling utama.". Aku katakan lagi: "Sungguh aku mampu yang lebih dari itu". Maka beliau bersabda: "Tidak ada puasa yang lebih utama dari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1976</td></tr><tr><td>Arabic No</td><td>1976</td></tr><tr><td>Reference</td><td>Book 30 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Однажды Посланнику Аллаха ﷺ сообщили, что я сказал: “Клянусь Аллахом! Я буду поститься каждый день и выстаивать молитвы каждую ночь, пока я жив!” Я сказал: “Я действительно так сказал, да будет отец мой и мать выкупом за тебя!” Тогда он сказал: “Но ты не сможешь делать это. Поэтому иногда постись, а иногда не постись, молись по ночам и спи. Постись по три дня в месяц, ведь за каждое доброе дело воздается в десятикратном размере, и это будет подобно непрерывному посту”. Я сказал: “Поистине, я способен на нечто лучшее!” Он сказал: “Тогда постись день, а потом не постись два дня”. Я сказал: “Поистине, я способен на нечто лучшее!” Он сказал: “Тогда постись через день, ибо таким был пост (пророка) Дауда (мир ему) и это лучший пост». Я же опять сказал: “Поистине, я способен на нечто лучшее!” Тогда Пророк ﷺ сказал: “Нет (поста) лучше этого!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1976</td></tr><tr><td>Arabic No</td><td>1976</td></tr><tr><td>Reference</td><td>Book 30 Hadith 83</td></tr></tbody></table></div>
 

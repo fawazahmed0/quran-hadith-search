@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I saw Allah's Messenger (ﷺ) in the courtyard of the Ka'ba i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Ghalib] telah mengabarkan kepada kami [Ibrahim bin Al Mundzir Al Khizami] telah menceritakan kepada kami [Muhammad bin Fulaih] dari [Ayahnya] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma dia berkata; "Saya melihat Rasulullah shallallahu 'alaihi wasallam berada di serambi Ka'bah duduk ihtiba' dengan tangannya seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6272</td></tr><tr><td>Arabic No</td><td>6272</td></tr><tr><td>Reference</td><td>Book 79 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я видел Посланника Аллаха ﷺ который сидел во дворе Каабы на корточках, обхватив колени руками таким образом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6272</td></tr><tr><td>Arabic No</td><td>6272</td></tr><tr><td>Reference</td><td>Book 79 Hadith 46</td></tr></tbody></table></div>
 

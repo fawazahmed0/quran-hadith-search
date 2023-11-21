@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:A person stood up and asked, "O Allah's: Apostle! W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yazid] telah mengabarkan kepada kami [Al Laits] telah menceritakan kepada kami [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhu] berkata: Seorang laki-laki datang lalu berkata: "Wahai Rasulullah, pakaian apa yang baginda perintahkan untuk kami ketika ihram)?. Nabi shallallahu 'alaihi wasallam menjawab: "Janganlah kalian mengenakan baju, celana, sorban, mantel (pakaian yang menutupi kepala) kecuali seseorang yang tidak memiliki sandal, hendaklah dia mengenakan sapatu tapi dipotongnya hingga berada dibawah mata kaki dan jangan pula kalian memakai pakaian yang diberi minyak wangi atau wewangian dari daun tumbuhan. Dan wanita yang sedang ihram tidak boleh memakai cadar (penutup wajah) dan sarung tangan". Hadits ini dikuatkan pula oleh [Musa bin 'Uqbah] dan [Isma'il bin Ibrahim bin 'Uqbah] dan [Juwairiyah] dan [Ibnu Ishaq] tentang cadar (tutup muka) dan sarung tangan. Dan berkata, ['Ubaidullah]; dan tidak pula wewangian dari daun tumbuhan yang wangi. Dan Beliau bersabda: "Dan wanita yang sedang ihram janganlah memakai cadar dan juga jangan memakai sarung tangan". Dan berkata, [Malik] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma]: "Dan wanita yang sedang ihram janganlah memakai". Dan hadits ini dikuatkan pula oleh [Laits bin Abu Salim]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1838</td></tr><tr><td>Arabic No</td><td>1838</td></tr><tr><td>Reference</td><td>Book 28 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен им Аллах, сказал: «(Однажды) какой-то человек встал и сказал: “О Посланник Аллаха! Что ты прикажешь нам надевать в состоянии ихрама?” Пророк ﷺ ответил: “Вам не следует надевать ни рубаху, ни брюки, ни чалму, ни бурнус (головной убор), если же кто-то из вас не найдёт сандалии, то пусть оденет кожаные носки, обрезав их так, чтобы (верхние края) были ниже щиколоток. Также не следует надевать одежду, на которую нанесен шафран или уарс (благовоние). Женщина в состоянии ихрама не должна закрывать свое лицо или носить перчатки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1838</td></tr><tr><td>Arabic No</td><td>1838</td></tr><tr><td>Reference</td><td>Book 28 Hadith 18</td></tr></tbody></table></div>
 

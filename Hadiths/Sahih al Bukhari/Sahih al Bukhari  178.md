@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:I used to get emotional urethral discharges frequently and felt sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Mundzir Abu Ya'la Ats Tsauri] dari [Muhammad bin Al Hanafiyah] ia berkata, [Ali] berkata, "Aku adalah seorang laki-laki yang mudah mengeluarkan madzi, karena malu untuk bertanya kepada Rasulullah shallallahu 'alaihi wasallam, maka aku suruh Miqdad bin Al Aswad untuk bertanya. Lalu ia pun bertanya, beliau kemudian menjawab: "Cukup baginya berwudlu." [Syu'bah] juga meriwayatkan dari [Al A'masy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>178</td></tr><tr><td>Arabic No</td><td>178</td></tr><tr><td>Reference</td><td>Book 4 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Обычно у меня выделялась жидкость, но я стеснялся спросить Посланника Аллаха ﷺ. (Однажды) я велел аль-Микъдаду ибн аль-Асваду (спросить об этом Пророка ﷺ. И аль-Микъдад) задал ему этот вопрос, и (Пророк ﷺ) сказал: “(В этом случае следует) совершить омовение /вудуъ/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>178</td></tr><tr><td>Arabic No</td><td>178</td></tr><tr><td>Reference</td><td>Book 4 Hadith 44</td></tr></tbody></table></div>
 

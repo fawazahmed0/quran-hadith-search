@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:Taking a bath on Frid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Shafwan bin Sulaim] dari [Atha' bin Yasar] dari [Abu Sa'id Al Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Mandi pada hari jum'at adalah wajib bagi setiap muhtalim (yang telah beranjak dewasa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>846.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Полное омовение в пятницу обязательно для каждого достигшего (половой) зрелости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>846.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 7</td></tr></tbody></table></div>
 

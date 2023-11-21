@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: The Prophet (ﷺ) as saying: If anyone buys sheep whose u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Ayyub] dan [Hisyam] serta [Habib] dari [Muhammad bin Sirin] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa membeli kambing yang telah ditahan kantong susunya (tidak diperah), maka ia memiliki hak memilih selama tiga hari. Apabila ia menghendaki maka ia mengembalikannya ditambah satu sha' makanan tidak mesti harus gandum samra
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1524)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>3444</td></tr><tr><td>Reference</td><td>Book 24 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кто купил долго не доенное животное, у того есть выбор в течение трёх дней. Если пожелает, он может вернуть животное и с ним са‘ съестного, но не пшеницы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1524)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>3444</td></tr><tr><td>Reference</td><td>Book 24 Hadith 29</td></tr></tbody></table></div>
 

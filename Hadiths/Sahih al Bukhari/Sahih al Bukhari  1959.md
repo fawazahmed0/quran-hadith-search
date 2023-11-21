@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Usama from Hisham bin 'Urwa from Fatima:Asma bint Abi Bakr said, "W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin 'Urwah] dari [Fathimah] dari [Asma' binti Abu Bakar Ash-Shiddiq radliallahu 'anhuma] berkata; Kami pernah berbuka puasa pada zaman Nabi shallallahu 'alaihi wasallam ketika hari mendung, ternyata kemudian matahari tampak kembali, maka orang-orang diperintahkan untuk mengqadha'nya, dan Beliau bersabda: "Harus dilaksanakan qadha'". Dan [Ma'mar] berkata, aku mendengar [Hisyam]: Aku tidak tahu apakah mereka kemudian mengqadha'nya atau tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1959</td></tr><tr><td>Arabic No</td><td>1959</td></tr><tr><td>Reference</td><td>Book 30 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Абу Бакр, да будет доволен Аллах ими обоими, сказала: «(Однажды) при жизни Пророка ﷺ мы разговелись в пасмурный день, а потом выглянуло солнце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1959</td></tr><tr><td>Arabic No</td><td>1959</td></tr><tr><td>Reference</td><td>Book 30 Hadith 66</td></tr></tbody></table></div>
 

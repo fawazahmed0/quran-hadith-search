@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: The Prophet (ﷺ) said: I forbade you three thin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Mu'arrif bin Washilah] dari [Muharib bin Ditsar] dari [Ibnu Buraidah] dari [Ayahnya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku larang kalian dari tiga hal dan aku perintahkan kalian tiga hal tersebut. Aku telah melarang kalian dari ziarah kubur, sekarang lakukanlah karena di dalamnya terdapat peringatan. Aku telah melarang kalian dari meminum beberapa minuman kecuali jika minuman tersebut berada dalam geriba kulit. Minumlah dari segala bejana, tetapi jangan kalian minum sesuatu yang memabukkan. Dan aku telah melarang kalian dari memakan daging kurban setelah tiga hari, sekarang makan dan nikmatilah dalam perjalanan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (977)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3698</td></tr><tr><td>Arabic No</td><td>3698</td></tr><tr><td>Reference</td><td>Book 27 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Бурайды, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Я запретил вам три вещи, а теперь велю вам их. Я запретил вам посещать могилы посещайте же их, ибо их посещение напоминает вам (о смерти и о мире вечном). И я запретил вам пить из любых сосудов, кроме кожаных бурдюков, пейте же из любого сосуда, только не пейте ничего опьяняющего. И я запретил вам есть мясо жертвенных животных больше трёх дней ешьте же и запасайтесь им для своих путешествий»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (977)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3698</td></tr><tr><td>Arabic No</td><td>3698</td></tr><tr><td>Reference</td><td>Book 27 Hadith 30</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) beat a drunk with palm-leaf stalks and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Anas] bahwasanya Nabi shallallahu 'alaihi wasallam -sedang lewat jalur periwayatan lain-Telah menceritakan kepada kami [Adam bin Abi Iyas] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Qatadah] dari [Anas bin Malik] radliallahu 'anhu bahwasanya Nabi shallallahu 'alaihi wasallam pernah memukul peminum khamar dengan pelepah kurma dan sandal, dan Abu Bakar pernah mencambuknya sebanyak empat puluh kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6773</td></tr><tr><td>Arabic No</td><td>6773</td></tr><tr><td>Reference</td><td>Book 86 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ приказал побить за употребление спиртного пальмовыми ветками и сандалиями. И Абу Бакр наказывал за это сорока ударами
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6773</td></tr><tr><td>Arabic No</td><td>6773</td></tr><tr><td>Reference</td><td>Book 86 Hadith 2</td></tr></tbody></table></div>
 

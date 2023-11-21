@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever spends two things in Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Sa'ad bin Hafsh] telah bercerita kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Barang siapa yang menginfaqkan sepasang sesuatu di jalan Allah, maka penjaga surga akan memanggilnya, dimana setiap pintu ada penjaganya, yaitu dengan berkata: "Kemarilah". Abu Bakar berkata: "Wahai Rasulullah, itulah orang yang tidak akan rugi dan sengsara". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Aku berharap kamu termasuk diantara mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2841</td></tr><tr><td>Arabic No</td><td>2841</td></tr><tr><td>Reference</td><td>Book 56 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Расходовавшего (по) две вещи на пути Аллаха, призовут все стражи врат Рая: “О такой-то, зайди сюда!”» (Услышав это,) Абу Бакр, сказал: «О Посланник Аллаха! Такой человек не погибнет». (Пророк ﷺ) сказал: «Поистине, я надеюсь, что ты будешь одним из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2841</td></tr><tr><td>Arabic No</td><td>2841</td></tr><tr><td>Reference</td><td>Book 56 Hadith 57</td></tr></tbody></table></div>
 

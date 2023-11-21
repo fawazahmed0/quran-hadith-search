@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:I asked Allah's Messenger (ﷺ) "Can any one of us
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu 'Umar] bahwa 'Umar bin Al Khaththab bertanya kepada Rasulullah shallallahu 'alaihi wasallam, "Apakah boleh seorang dari kami tidur dalam keadaan dia junub?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Ya. Jika salah seorang dari kalian berwudlu, maka hendaklah ia tidur meskipun dalam keadaan junub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>287</td></tr><tr><td>Arabic No</td><td>287</td></tr><tr><td>Reference</td><td>Book 5 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что однажды ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, спросил Посланника Аллаха ﷺ: «Можно ли кому-нибудь из нас засыпать в состоянии полового осквернения?» Он ответил: «Да, если любой из вас совершит малое омовение, он может лечь спать в состоянии полового осквернения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>287</td></tr><tr><td>Arabic No</td><td>287</td></tr><tr><td>Reference</td><td>Book 5 Hadith 39</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:came to the Prophet (from Yemen and was assuming Ihram for Haj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsannaa] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Qais bin Muslim] dari [Thoriq bin Syihab] dari [Abu Musa radliallahu 'anhu] berkata: "Aku mendatangi Nabi Shallallahu'alaihiwasallam ". Lalu Beliau memerintahnya untuk bertahallul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1565</td></tr><tr><td>Arabic No</td><td>1565</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1565</td></tr><tr><td>Arabic No</td><td>1565</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
 

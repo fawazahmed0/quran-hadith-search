@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ubayy said (referring to the hadith above), "We considered this as a saying from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6440</td></tr><tr><td>Arabic No</td><td>6440</td></tr><tr><td>Reference</td><td>Book 81 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Убайй , да будет доволен им Аллах, сказал: «Мы были убеждены, что это из Корана*, пока не была ниспослана сура: “Страсть к приумножению увлекает вас” (сура “ат-Такасур”, аят 1)».\n * «Если бы у сына Адама была долина, полная…»: т.е. те хадисы, которые приведены выше
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6440</td></tr><tr><td>Arabic No</td><td>6440</td></tr><tr><td>Reference</td><td>Book 81 Hadith 29</td></tr></tbody></table></div>
 

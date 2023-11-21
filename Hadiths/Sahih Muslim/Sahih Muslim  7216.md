@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdu bin Humaid] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Syaiban bin Abdurrahman] dari [Qatadah] telah menceritakan kepada kami [Anas bin Malik] berkata: Nabi Allah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya hamba bila telah diletakkan dikuburnya dan teman-temannya telah meninggalkannya, ia mendengar derap sandal mereka." Beliau bersabda: "Dua malaikat mendatanginya, keduanya mendudukkannya lalu bertanya padanya: 'Apa yang dulu kau katakan tentang orang ini?" beliau bersabda: "Orang mu'min menjawab: 'Aku bersaksi bahwa ia adalah hamba dan utusan Allah." Beliau bersabda: "Lalu dikatakan padanya: 'Lihatlah tempatmu dineraka, Allah telah menggantikannya dengan tempat disurga." Nabi Allah Shallallahu 'alaihi wa Salam bersabda: "Lalu ia melihat keduanya." Qadatah berkata: Disebutkan bagi kami bahwa kuburnya dipalangkan seluas tujuhpuluh dzira' dipenuhi oleh tanaman hijau hingga hari manusia dibangkitkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7216</td></tr><tr><td>Arabic No</td><td>2870.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7216</td></tr><tr><td>Arabic No</td><td>2870.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 85</td></tr></tbody></table></div>
 

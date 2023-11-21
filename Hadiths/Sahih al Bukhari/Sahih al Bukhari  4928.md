@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Musa bin Abi Aisha:That he asked Sa'id bin Jubair regarding (the statem
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Isra'il] dari [Musa bin Abu Aisyah] bahwa ia pernah bertanya kepada [Sa'id bin Jubair] mengenai firman Allah: "LAA TUHARRIK BIHI LISAANAK." Ia menjawab; [Ibnu Abbas] berkata; Biasa beliau menggerak-gerakkan kedua bibirnya saat wahyu diturunkan padanya. Oleh karena itu, dikatakanlah pada beliau, "Janganlah kamu menggerak-gerakkan lisanmu -saat menerimanya- karena khawatir sesuatu akan terlewatkan darinya." Firman Allah: "INNA 'ALAINA JAM'AHU WA QUR'AANAH." Maksudnya adalah, Kamilah yang akan mengumpulkannya di dalam dadamu agar kamu bisa mengungkapkannya. Dan firman-Nya: "FAIDZAA QARA'NAAHU FATTABI' QUR'AANAH." Ibnu Abbas menjelaskan; Maksudnya adalah ketika diturunkan padanya. Maka, ikutilah. Kemudian firman-Nya: "INNA 'ALAINAA BAYAANAH." Maksudnya; Kamilah yang akan menjelaskannya melalui lisanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4928</td></tr><tr><td>Arabic No</td><td>4928</td></tr><tr><td>Reference</td><td>Book 65 Hadith 448</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муса ибн Аби ‘Аиша спросил Са‘ида Ибн Джубайра о словах Всевышнего «Не шевели своим языком», и он ответил, что Ибн ‘Аббас сказал: «Пророк ﷺ шевелил губами, когда ему ниспосылалось откровение, боясь забыть его, тогда ему и было сказано: “Не шевели своим языком”». \n«Поистине, это Нам надлежит собрать и прочесть его» — Ибн ‘Аббас сказал: «(Это значит:) он будет собран в твоей груди, а потом, ты прочтёшь его. Далее ему было ниспослано: “А когда Мы прочитаем его, следуй его чтению. Далее, поистине, надлежит Нам разъяснить его”, то есть разъяснить его через тебя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4928</td></tr><tr><td>Arabic No</td><td>4928</td></tr><tr><td>Reference</td><td>Book 65 Hadith 448</td></tr></tbody></table></div>
 

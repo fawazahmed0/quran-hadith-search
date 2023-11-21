@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Tufail reported:I saw Allah's Messenger (ﷺ) and there is one amongst the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin 'Umar Al Qawariri]; Telah menceritakan kepada kami ['Abdul A'laa bin 'Abdul A'la] dari [Al Jurairi] dari [Abu Ath Thufail] dia berkata; "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam dan tidak ada orang lain selain saya (setelah dia tidak ada sahabat lagi) yang pernah melihat beliau. Perawi berkata; 'Saya bertanya kepadanya, bagaimana kamu melihatnya? Dia menjawab; 'Rasulullah shallallahu 'alaihi wasallam itu berkulit putih, manis dan bertubuh sedang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6072</td></tr><tr><td>Arabic No</td><td>2340.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6072</td></tr><tr><td>Arabic No</td><td>2340.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 130</td></tr></tbody></table></div>
 

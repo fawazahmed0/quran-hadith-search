@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Umm Habîba bint Abou Soufyân (رضي الله عنها), l'Envoyé d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Usamah] telah mengabarkan kepada kami [Hisyam] telah mengabarkan kepadaku [ayahku] dari [Zainab binti Ummi Salamah] dari [Ummu Habibah binti Abu Sufyan] dia berkata; Rasulullah shallallahu 'alaihi wasallam menemuiku, lantas saya berkata; Apakah anada berminat terhadap saudariku yaitu putri Abu Sufyan? Beliau bertanya: "Apa yang hendak saya lakukan?" Saya menjawab; Anda menikahinya. Beliau bertanya: "Apakah kamu suka hal itu?" Saya berkata; Saya serius dengan anda, justru saya lebih suka jika orang yang bersekutu denganku dalam kebaikan adalah saudariku sendiri. Beliau bersabda: "Sesungguhnya dia tidak halal bagiku." Saya bertanya; Saya mendengar bahwa anda akan meminang Durrah binti Abu Salamah. Beliau menyanggah; "Putri Ummu Salamah?" Saya menjawab; Ya. Beliau bersabda: "Seandainya dia bukan anak tiriku yang dalam asuhanku, maka dia tetap tidak halal bagiku, karena dia adalah putri saudara sesusuanku, sebab Tsuwaibah pernah menyusuiku dan menyusui ayahnya, oleh karena itu janganlah kamu menawarkan anak-anak perempuan kalian dan saudara-saudara perempuan kalian." Dan telah menceritakan kepadaku [Suwaid bin Sa'id] telah menceritakan kepada kami [Yahya bin Zakariya bin Abu Za'idah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Al Aswad bin Amir] telah mengabarkan kepada kami [Zuhair] keduanya dari [Hisyam bin 'Urwah] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3586</td></tr><tr><td>Arabic No</td><td>1449.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3586</td></tr><tr><td>Arabic No</td><td>1449.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 19</td></tr></tbody></table></div>
 

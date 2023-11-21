@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "A Muhrim should not wear a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dia berkata; aku mendengar [Az Zuhri], dia berkata; telah mengabarkan kepadaku [Salim] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah seorang yang berihram mengenakan kain gamis (jubah), surban, celana panjang, baju lengan panjang yang bertutup kepala dan tidak pula pakaian yang tercampuri dengan minyak za'faran dan wars (sejenis tumbuhan berwarna kuning atau kunyit) serta tidak pula mengenakan sepatu, kecuali jika ia tidak mendapatkan sandal, dan harus memotongnya lebih rendah dari kedua mata kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5806</td></tr><tr><td>Arabic No</td><td>5806</td></tr><tr><td>Reference</td><td>Book 77 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим передал от своего отца, что Пророк ﷺ сказал: «Вошедшему в состояние ихрама не следует надевать ни рубаху, ни чалму, ни брюки, ни бурнус, ни одежду, на которую нанесен шафран или уарс (один из видов благовоний), ни носки, если же он не найдёт сандалии, то пусть оденет кожаные носки, обрезав их так, чтобы верхние края были ниже щиколоток»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5806</td></tr><tr><td>Arabic No</td><td>5806</td></tr><tr><td>Reference</td><td>Book 77 Hadith 24</td></tr></tbody></table></div>
 

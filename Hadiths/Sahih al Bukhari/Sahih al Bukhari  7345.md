@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) had a dream in the last portion o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7345</td></tr><tr><td>Arabic No</td><td>7345</td></tr><tr><td>Reference</td><td>Book 96 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал, что, когда он остановился в Зу-ль-Хуляйфе, ему было сказано во сне: «Поистине, ты — в долине благословенной!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7345</td></tr><tr><td>Arabic No</td><td>7345</td></tr><tr><td>Reference</td><td>Book 96 Hadith 73</td></tr></tbody></table></div>
 

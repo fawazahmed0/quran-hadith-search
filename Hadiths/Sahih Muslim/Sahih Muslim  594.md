@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is reported from Hudaifa by another chain of transmitters. Whenever 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husyaim] dari [Hushain] dari [Abu Wa'il] dari [Hudzaifah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam apabila bangun (malam) untuk bertahajjud, maka beliau menggosok mulutnya dengan siwak." Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Manshur]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] dan [Abu Mu'awiyah] dari [al-A'masy] keduanya dari [Abu Wa'il] dari [Hudzaifah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam apabila bangun malam, " dengan semisalnya, namun mereka tidak menyebutkan, "untuk bertahajjud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>594</td></tr><tr><td>Arabic No</td><td>255.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Хузейфа сказал: «Поднимаясь ночью (ото сна), Посланник Аллаха ﷺ …». Далее подобно предыдущему хадису, но без упоминания ночной молитвы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>594</td></tr><tr><td>Arabic No</td><td>255.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 61</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I went along with the Prophet (ﷺ) to Khaibar so as to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] telah bercerita kepada kami [Muhammad bin Ja'far] dari ['Amru bin Abi 'Amru] mantan budak (yang telah dimerdekakan oleh) Al Muthallib bin Hanthab bahwa dia mendengar [Anas bin Malik radliallahu 'anhu] berkata: "Aku keluar bersama Rasulullah shallallahu 'alaihi wasallam menuju Khaibar dimana aku melayani Beliau. Ketika Beliau kembali pulang dan sampai di dekat gunung Uhud, Beliau bersabda: "Gunung ini mencintai kita dan kitapun mencintainya". Kemudian Beliau memberi isyarat dengan tangan Beliau ke arah Madinah seraya bersabda: "Ya Allah sungguh aku mensucikan apa yang ada diantara dua bukit hitam ini (maksudnya Madinah) sebagaimana Nabi Ibrahim Alaihis Salam mensucikan Makkah. Ya Allah berilah berkah kepada kami dalam takaran sho' dan mud kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2889</td></tr><tr><td>Arabic No</td><td>2889</td></tr><tr><td>Reference</td><td>Book 56 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Я отправился в Хайбар вместе с посланником Аллаха ﷺ чтобы прислуживать ему, а когда Пророк ﷺ на обратном пути увидел (гору) Ухуд, он сказал: “Эта гора любит нас, а мы любим её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2889</td></tr><tr><td>Arabic No</td><td>2889</td></tr><tr><td>Reference</td><td>Book 56 Hadith 104</td></tr></tbody></table></div>
 

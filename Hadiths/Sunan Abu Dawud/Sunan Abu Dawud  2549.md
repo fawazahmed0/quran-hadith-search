@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Mahdi], telah menceritakan kepada kami [Ibnu Abu Ya'qub] dari [Al Hasan bin Sa'd] mantan budak Al Hasan bin Ali, dari [Abdullah bin Ja'far], ia berkata; Rasulullah shallallahu wa'alaihi wa sallam pada suatu hari pernah memboncengkanku dibelakangnya kemudian beliau membisikkan suatu perkataan kepadaku yang tidak aku ceritakan kepada siapapun dari manusia. Dan sesuatu yang paling Rasulullah shallallahu 'alaihi wasallam senangi untuk menutupi hajatnya adalah tanah tinggi atau pohon kurma yang rimbun. Ia berkata; kemudian beliau memasuki kebun seorang laki-laki anshar, dan kemudian tiba-tiba terdapat unta. Tatkala unta tersebut melihat Nabi shallallahu 'alaihi wasallam maka ia merintih dan kedua matanya mengeluarkan air mata. Kemudian Nabi shallallahu 'alaihi wasallam mendatanginya dan mengusap tulang di belakang telinganya, lalu unta tersebut terdiam. Lalu beliau berkata: "Siapakah pemilik unta ini?" kemudian terdapat seorang pemuda anshar yang datang dan berkata; saya wahai Rasulullah. Kemudian beliau berkata: "Tidakkah engkau bertakwa kepada Allah dalam bertindak terhadap binatang ternak yang telah Allah berikan ini? Sesungguhnya unta tersebut telah mengeluhkan kepadaku bahwa engkau menyakitinya dan membuatnya menjadi letih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (342 Mukhtasar)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>2549</td></tr><tr><td>Reference</td><td>Book 15 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (342 Mukhtasar)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>2549</td></tr><tr><td>Reference</td><td>Book 15 Hadith 73</td></tr></tbody></table></div>
 

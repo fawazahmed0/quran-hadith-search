@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said to his companions who were at Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Malik] dari ['Abdullah bin Dinar] dari [Ibnu 'Umar radliallahu 'anhuma] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada para sahabat beliau yang tengah melintasi Hijr (tempat kaum Tsamud, pent.): "Jangan memasuki mereka kaum yang disiksa kecuali kalian menangis, karena jangan-jangan kalian tertimpa seperti yang menimpa mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4420</td></tr><tr><td>Arabic No</td><td>4420</td></tr><tr><td>Reference</td><td>Book 64 Hadith 442</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал сподвижникам про жителей аль-Хиджра: «Не входите в жилища тех, кто был наказан, чтобы вас не постигло подобное тому, что постигло их, если только вы (не входите туда) плачущими»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4420</td></tr><tr><td>Arabic No</td><td>4420</td></tr><tr><td>Reference</td><td>Book 64 Hadith 442</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said "Five things are in accordance with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dari [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "(Sunah) fitrah itu ada lima, yaitu; khitan, mencukur bulu kemaluan, mencabut bulu ketiak, mencukur kumis dan memotong kuku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6297</td></tr><tr><td>Arabic No</td><td>6297</td></tr><tr><td>Reference</td><td>Book 79 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Естественными /фитра/ являются пять (вещей): обрезание, сбривание волос с лобка, выщипывание волос подмышками, укорачивание усов и подстригание ногтей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6297</td></tr><tr><td>Arabic No</td><td>6297</td></tr><tr><td>Reference</td><td>Book 79 Hadith 69</td></tr></tbody></table></div>
 

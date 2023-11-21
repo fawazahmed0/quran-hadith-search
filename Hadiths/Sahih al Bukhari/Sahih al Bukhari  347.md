@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-A'mash:Shaqiq said, "While I was sitting with 'Abdullah and Abu Musa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] berkata; telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] ia berkata; Aku pernah duduk bersama 'Abdullah bin Mas'ud dan [Abu Musa Al Asy'ari]. Lalu Abu Musa berkata kepadanya, "Seandainya ada seseorang mengalami junub dan tidak mendapatkan air selama satu bulan, apakah dia bertayamum dan shalat? Dan bagaimana pendapatmu dengan ayat ini di dalam Surah Al Maidah ayat 6: '(Lalu kamu tidak memperaleh air, maka bertayammumlah dengan tanah yang baik (bersih) '? 'Abdullah, "Seandainya mereka diberi keringanan dalam masalah ini, bisa jadi nantinya bila ada seseorang dari mereka yang kedinginan dengan air dia akan bertayamum dengan tanah." Syaqiq bertanya, "Apakah kalian tidak suka masalah ini karena faktor itu?" Dia menjawab, "Ya." Kemudian Abu Musa berkata, "Tidakkah kamu pernah mendengar ucapan ['Ammar] kepada Umar, 'Rasulullah shallallahu 'alaihi wasallam mengutusku dalam suatu urusan, aku lalu junub dan tidak mendapatkan air. Maka aku pun berguling-guling di atas tanah seperti berguling-gulingnya hewan. Kemudian aku ceritakan hal tersebut kepada Nabi shallallahu 'alaihi wasallam, lalu beliau bersabda: "Sebenarnya cukup buatmu bila kamu melakukan begini." Nabi shallallahu 'alaihi wasallam kemudian memukulkan telapak tangannya ke permukaan tanah dan mengibaskannya, lalu mengusap punggung tangan kanannya dengan telapak tangan kirinya, atau punggung telapak kirinya dengan telapak tangan kanannya, kemudian beliau mengusap wajahnya." Abdullah berkata, "Apakah kamu tidak tahu kalau 'Umar tidak menerima pendapat 'Ammar?" [Ya'la] menambahkan dari [Al A'masy] dari [Syaqiq], "Aku pernah bersama 'Abdullah dan Abu Musa. [Abu Musa] lalu berkata, "Tidakkah kamu mendengar perkataan ['Ammar] kepada 'Umar 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam mengutus aku dan kamu, lalu aku mengalami junub dan aku bergulingan di atas tanah. Kemudian kita temui Rasulullah shallallahu 'alaihi wasallam menceritakan hal itu kepada beliau. Beliau lalu bersabda: "Sebenarnya kamu cukup melakukan begini." Beliau lalu memukulkan telapak tangannya ke tanah, lalu mengusap muka dan kedua telapak tangannya sekali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>347</td></tr><tr><td>Arabic No</td><td>347</td></tr><tr><td>Reference</td><td>Book 7 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Шакика, сказавшего:— (Однажды) я сидел с ‘Абдуллахом и Абу Мусой аль-Аш‘ари. Абу Муса сказал ему: «Если человек осквернился и не находит воду в течении месяца, разве ему не следует совершать таяммум и молитвы? А что вы будете делать с аятом в суре “аль-Маида” “Если же вы не смогли найти воды, то очищайтесь чистой землёй”?» ‘Абдуллах ответил: «Если мы им облегчим в этом, то будет вероятность того, что если у кого-то из них вода станет холодной, он будет оставлять её и совершать таяммум!» Я сказал: «Вы только ради этого порицали?» Он ответил: «Да». Тогда Абу Муса сказал: «Разве ты не слышал слова ‘Аммара ‘Умару: Посланник Аллаха ﷺ отправил меня по нужде, и в пути я осквернился и не смог найти воду. Я повалялся в песке как валяются верблюды. Потом я упомянул об этом Пророку ﷺ на что он сказал: “Тебе было достаточно сделать так”: и он ударил кистью по земле один раз, затем стряхнул ее, потом обтер их — тыльную часть правой кисти левой (или тыльную часть левой правой), а затем протер ими лицо». ‘Абдуллах сказал: «А ты думаешь, что ‘Умар удовлетворился словами ‘Аммара?»Я‘ля добавил, передав от А‘маша со слов Шакика: «Однажды я находился возле ‘Абдуллаха (ибн Мас‘уда) и Абу Мусы (аль-Аш‘ари), и Абу Муса сказал (Ибн Мас‘уду): Разве ты не слышал слов ‘Аммара ‘Умару: “Посланник Аллаха ﷺ отправил меня и тебя, а я осквернился и повалялся в песке. Когда мы прибыли к Посланнику Аллаха, мир и благословение Аллаха, и сообщили ему об этом, на что он сказал: “Тебе достаточно было этого: протереть себе лицо и кисти рук один раз”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>347</td></tr><tr><td>Arabic No</td><td>347</td></tr><tr><td>Reference</td><td>Book 7 Hadith 14</td></tr></tbody></table></div>
 

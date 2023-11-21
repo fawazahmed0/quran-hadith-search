@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reportedAllah's Apostle (ﷺ) visited us and there was none else (in the ho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Hasyim bin Al Qasim]; Telah menceritakan kepada kami [Sulaiman] dari [Tsabit] dari [Anas] dia berkata; 'Suatu ketika Nabi shallallahu 'alaihi wasallam menemui kami. Pada waktu itu di rumah hanya ada saya, ibuku dan bibiku Ummu Haram. Ibuku berkata; Ya Rasulullah, ini pembantu kecilmu, doakanlah ia! Anas berkata; 'Lalu beliau mendo'akanku dengan segala kebaikan. Dan diakhir do'anya beliau berkata: "Ya Allah perbanyaklah harta dan anaknya serta berkahilah ia di dalamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6375</td></tr><tr><td>Arabic No</td><td>2481.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6375</td></tr><tr><td>Arabic No</td><td>2481.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 205</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) vowed to keep aloof from his wives for one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Humaid] dari [Anas radliallahu 'anhu] berkata: Rasulullah shallallahu 'alaihi wasallam pernah bersumpah untuk tidak mendatangi para isteri Beliau dan kaki Beliau telah mengalami keletihan maka Beliau tinggal di tempat yang tinggi selama dua puluh sembilan hari lalu turun. Orang-orang berkata: "Wahai Rasulullah, anda telah bersumpah selama satu bulan. Maka Beliau shallallahu 'alaihi wasallam bersabda: "Satu bulan itu bisa jadi berjumlah dua puluh sembilan hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1911</td></tr><tr><td>Arabic No</td><td>1911</td></tr><tr><td>Reference</td><td>Book 30 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ поклялся, что в течение месяца не станет приближаться к своим жёнам, и у него был вывих ноги, он пробыл в своей приподнятой (от земли) комнате двадцать девять дней, затем он спустился, и ему сказали: «О Посланник Аллаха, ты ведь поклялся (что не будешь приближаться к своим жёнам в течение) месяца!» Тогда он сказал: «Поистине, месяц (может) состоять и из двадцати девяти дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1911</td></tr><tr><td>Arabic No</td><td>1911</td></tr><tr><td>Reference</td><td>Book 30 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Zayd ibn Aslam said: Abdullah ibn Umar entered upon 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Zaid bin Abu Az Zarqa'], telah menceritakan kepada kami [ayahku], telah menceritakan kepada kami [Hisyam bin Sa'd], dari [Zaid bin Aslam] bahwa [Abdullah bin Umar] menemui Mu'awiyah dan berkata; apa keperluanmu wahai Abdurrahman? 'Atho' berkata; ia berkata; memberikan pemberian kepada budak-budak yang telah dibebaskan. Sesungguhnya aku telah melihat Rasulullah shallallahu 'alaihi wasallam sesuatu pertama yang beliau lakukan adalah beliau memulai dari budak-budak yang telah dimerdekakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2951</td></tr><tr><td>Arabic No</td><td>2951</td></tr><tr><td>Reference</td><td>Book 20 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Асляма, да будет доволен им Аллах, что ‘Абдуллах ибн ‘Умар зашёл к Му‘авии и тот спросил: «Чего ты желаешь, о Абу ‘Абду-р-Рахман?» Он ответил: «Содержание освобождённым, ибо, поистине, я видел, что, как только Посланнику Аллаха ﷺ приносили что-то, он начинал с освобождённых»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2951</td></tr><tr><td>Arabic No</td><td>2951</td></tr><tr><td>Reference</td><td>Book 20 Hadith 24</td></tr></tbody></table></div>
 

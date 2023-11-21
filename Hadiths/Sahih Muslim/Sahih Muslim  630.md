@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mughira b. Shu'ba reported:The Messenger of Allah (ﷺ) went out for relieving h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ali bin Khasyram] semuanya meriwayatkan dari [Isa bin Yunus], [Ishaq] berkata, telah mengabarkan kepada kami [Isa] telah menceritakan kepada kami [al-A'masy] dari [Muslim] dari [Masruq] dari [al-Mughirah bin Syu'bah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam keluar untuk buang hajat, ketika kembali maka aku memberikan geriba dan aku tuangkan air kepada beliau, beliau lalu mencuci kedua tangannya, kemudian membasuh wajahnya, kemudian mulai mencuci kedua lengannya, ternyata (lengan) jubah tersebut sempit, lalu beliau mengeluarkan kedua tangannya dari bawah jubah, lalu beliau mencuci keduanya, mengusap kepala, dan mengusap bagian atas kedua khufnya, kemudian beliau shalat mengimami kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>630</td></tr><tr><td>Arabic No</td><td>274.05</td></tr><tr><td>Reference</td><td>Book 2 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Мугыра ибн Шу‘ба сказал: «(Однажды) Посланник Аллаха ﷺ вышел для того, чтобы справить нужду, и когда он вернулся, я встретил его с сосудом (с водой) и стал лить ему воду. (Сначала) он помыл руки и затем помыл лицо. Потом он захотел помыть предплечья, но (рукава) джуббы оказались (для этого) узкими, поэтому, он вытащил их из-под неё и вымыл их. Затем он (влажными руками) протёр голову и обтёр кожаные носки, и затем совершил с нами молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>630</td></tr><tr><td>Arabic No</td><td>274.05</td></tr><tr><td>Reference</td><td>Book 2 Hadith 97</td></tr></tbody></table></div>
 

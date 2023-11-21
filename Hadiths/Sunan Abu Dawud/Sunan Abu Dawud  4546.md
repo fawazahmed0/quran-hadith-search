@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: A man of Banu Adi was killed. The Prophet (ﷺ) fix
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] berkata, telah menceritakan kepada kami [Zaid Ibnul Hubab] dari [Muhammad bin Muslim] dari [Amru bin Dinar] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Seorang laki-laki dari bani Adi terbunuh, lalu Nabi shallallahu 'alaihi wasallam menetapkan bahwa diyatnya adalah dua belas ribu." Abu Dawud berkata, " [Ibnu Uyainah] meriwayatkannya dari [Amru], dari [Ikrimah], dari Nabi shallallahu 'alaihi wasallam, namun ia tidak menyebutkan nama Ibnu Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>4546</td></tr><tr><td>Reference</td><td>Book 41 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, когда один человек из бану ‘ади был убит, Пророк ﷺ назначил за него компенсацию /дийа/ в размере двенадцати тысяч дирхемов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>4546</td></tr><tr><td>Reference</td><td>Book 41 Hadith 53</td></tr></tbody></table></div>
 

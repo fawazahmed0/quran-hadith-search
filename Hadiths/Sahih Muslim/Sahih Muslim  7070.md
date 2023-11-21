@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubayy b. Ka'b reported that the words of Allah, the Exalted and Glorious:" We wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mustanna] dan [Muhammad bin Basyar] keduanya berkata: Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah]. Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah], teks miliknya, telah menceritakan kepada kami [Ghundar] dari [Syu'bah] dari [Qatadah] dari [Azrah] dari [Al Hasan Al Urani] dari [Yahya bin Al Hazzar] dari [Abdurrahman bin Abi Laila] dari [Ubai bin Ka'ab] mengenai firman Allah 'azza wajalla: "Dan Sesungguhnya kami merasakan kepada mereka sebahagian azab yang dekat (di dunia) sebelum azab yang lebih besar (di akhirat)." (As Sajdah: 21) Ia berkata: Musibah-musibah dunia, Perang Romawi, hantaman keras atau munculnya kabut Syu'bah ragu pada hantaman ataukah munculnya kabut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7070</td></tr><tr><td>Arabic No</td><td>2799</td></tr><tr><td>Reference</td><td>Book 52 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7070</td></tr><tr><td>Arabic No</td><td>2799</td></tr><tr><td>Reference</td><td>Book 52 Hadith 26</td></tr></tbody></table></div>
 

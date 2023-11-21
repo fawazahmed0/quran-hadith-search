@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said, "Everyone of you is a guardian 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari ['Ubaidulloh] berkata, telah menceritakan kepadaku [Nafi'] dari ['Abdullah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap kalian adalah pemimpin dan akan diminta pertanggung jawaban atas yang dipimpinnya. Amir (kepala Negara), dia adalah pemimpin manusia secara umum, maka dia akan diminta pertanggung jawaban atas mereka. Seorang suami dalam keluarganya adalah pemimpin dan akan diminta pertanggung jawaban atas mereka. Seorang isteri adalah pemimpin di dalam rumah tangga suaminya dan terhadap anak-anaknya dan dia akan diminta pertanggung jawaban atas mereka. Seorang hamba sahaya adalah pemimpin dalam urusan harta tuannya dia akan diminta pertanggung jawaban atasnya. Ketahuilah bahwa setiap kalian adalah pemimipin dan setiap kalian akan diminta pertanggung jawaban atas siapa yang dipimpinnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2554</td></tr><tr><td>Arabic No</td><td>2554</td></tr><tr><td>Reference</td><td>Book 49 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Каждый из вас является пастырем, и каждый из вас несёт ответственность за свою паству. Правитель является пастырем (для своих подданных) и несёт ответственность за них, и мужчина является пастырем для своей семьи и несёт ответственность за них, и женщина является пастырем в доме своего мужа и его детей и несёт ответственность за них, и раб является пастырем для имущества своего хозяина и несёт ответственность за него. Так что каждый из вас является пастырем и каждый из вас несёт ответственность за свою паству»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2554</td></tr><tr><td>Arabic No</td><td>2554</td></tr><tr><td>Reference</td><td>Book 49 Hadith 37</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Musa b. Salama al-Hudhali reported:I and Sinan b. Salama proceeded (to Mecca to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abdul Warits bin Sa'id] dari [Abu At Tayyah Adl Dluba'i] telah menceritakan kepadaku [Musa bin salamah Al Hudzali] ia berkata; Aku pernah menunaikan Umrah bersama Sinan bin Salamah. Sinan berangkat dengan membawa hewan kurban dengan menuntunnya. Namun, hewan kurban itu ternyata melelahkannya di tengah jalan, dan Sinan tidak tahu apa yang mesti dilakukan pada hewan kurbannya. Jika ia menelantarkannya, bagaimana ia akan membawanya nanti. Maka ia pun berkata, "Kalau aku sampai di tanah haram, niscaya aku akan menanyakan permasalahan tersebut dan baru berkurban." Ketika kami sampai di Bathha', ia berkata, "Temuilah [Ibnu Abbas], ceritakanlah padanya." Maka Musa pun menuturkan perihal hewan kurban itu. Ibu Abbas berkata; Kamu telah berbuat salah, Rasulullah shallallahu 'alaihi wasallam pernah mengirimkan bersama seorang laki-laki (dan mengangkatnya sebagai pimpinan safar) sebanyak enam belas Badanah (hewan kurban berupa unta atau sapi). Kemudian laki-laki itu pergi, kemudian kembali lagi dan berkata, "Wahai Rasulullah, apa yang mesti saya lakukan jika di antara hewan kurban itu ada yang sakit (sekarat)?" beliau bersabda: "Sembelihlah, kemudian rendamkan terompahnya ke darahnya dan sapukan ke badannya. Kemudian kamu dan siapa pun yang menyertaimu, tidak boleh memakannya." Dan Telah menceritakannya kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] dan [Ali bin Hujr] -Yahya berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- Telah menceritakan kepada kami [Isma'il bin Ulayyah] dari [Abu At Tayyah] dari [Musa bin Salamah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam mengirimkan sepuluh Badanah (hewan kurban berupa sapi atau unta) bersama dengan seorang laki-laki. Kemudian ia pun menyebutkan hadits Abdul Warits, dan ia tidak menyebutkan bagian awal hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3216</td></tr><tr><td>Arabic No</td><td>1325.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 420</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3216</td></tr><tr><td>Arabic No</td><td>1325.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 420</td></tr></tbody></table></div>
 

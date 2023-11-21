@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:A Jewish Rabbi came to Allah's Messenger (ﷺ) and said, "O M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Abu 'Awanah] dari [Al A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] berkata, "Seorang biarawan yahudi menemui Rasulullah Shallallahu'alaihiwasallam dan berkata: "Wahai Muhammad, sesungguhnya Allah meletakkan langit diatas satu jari, seluruh bumi diatas satu jari, semua gunung diatas satu jari, pohon dan sungai diatas satu jari, dan semua makhluk diatas satu jari, kemudian Allah berfirman seraya menunjukan jarinya, 'Akulah Sang raja'." Maka Rasulullah Shallallahu'alaihiwasallam tertawa dan membacakan kutipan ayat: '(Dan mereka tidak menghormati Allah dengan penghormatan yang semestinya) ' (QS. Azzumar:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7451</td></tr><tr><td>Arabic No</td><td>7451</td></tr><tr><td>Reference</td><td>Book 97 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передаёт, что однажды к Пророку ﷺ один из иудейских учёных и сказал: «О Мухаммад! Поистине, Аллах разместит на одном пальце небо, на другом — землю, на третьем — горы, на четвёртом — деревья и реки, на пятом — все остальные творения, а потом (возьмёт их) Своей рукой и скажет: “Я — Царь!”». И Посланник Аллаха ﷺ рассмеялся, а потом прочёл: «Не ценили они Аллаха должным образом» (сура «аль-Ан‘ам», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7451</td></tr><tr><td>Arabic No</td><td>7451</td></tr><tr><td>Reference</td><td>Book 97 Hadith 77</td></tr></tbody></table></div>
 

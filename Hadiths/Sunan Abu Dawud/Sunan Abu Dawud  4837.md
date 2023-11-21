@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Salam: When the Messenger of Allah (ﷺ) sat talking (to t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Yahya Al Harrani] ia berkata; telah menceritakan kepadaku [Muhammad] -maksudnya Muhammad bin Salamah- dari [Muhammad bin Ishaq] dari [Ya'qub bin Utbah] dari [Umar bin Abdul Aziz] dari [Yusuf bin Abdullah bin Salam] dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam jika duduk dan berbicara, beliau sering kali melirik ke atas langit (berharap ada wahyu yang turun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4837</td></tr><tr><td>Arabic No</td><td>4837</td></tr><tr><td>Reference</td><td>Book 43 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4837</td></tr><tr><td>Arabic No</td><td>4837</td></tr><tr><td>Reference</td><td>Book 43 Hadith 65</td></tr></tbody></table></div>
 

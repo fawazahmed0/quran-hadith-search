@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Kalb b. Ujra (Allah be pleased with him) reported:It was I for whom this verse w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] dari [Ibnu Aun] dari [Mujahid] dari [Abdurrahman bin Abu Laila] dari [Ka'ab bin Ujrah] radliallahu 'anhu, ia berkata; Kepadakulah ayat ini diturunkan; "Jika ada di antaramu yang sakit atau ada gangguan di kepalanya (lalu ia bercukur), Maka wajiblah atasnya berfid-yah, yaitu: berpuasa atau bersedekah atau berkorban." (QS. Albaqarah; 196), Saya mendatangi beliau, dan beliau bersabda: "Dekatkanlah ia." Saya pun mendekat. Beliau berkata lagi: "Dekatkanlah ia." Saya pun lebih mendekat lagi, kemudian Nabi shallallahu 'alaihi wasallam bertanya: "Apakah kutu dikepalamu itu mengganggumu?" Ibnu Aun berkata; Saya menduga bahwa ia menjawab, "Ya." Ka'ab bin Ujrah berkata; Lalu beliau pun memerintahkanku untuk membayar fidyah berupa puasa atau sedekah atau berkurban sesuai kemampuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2879</td></tr><tr><td>Arabic No</td><td>1201.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2879</td></tr><tr><td>Arabic No</td><td>1201.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
 

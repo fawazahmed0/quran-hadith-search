@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:The Mu'adh-dhin (call-maker) of the Prophet (ﷺ) pronounced t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Ghundar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Al Muhajir Abu Al Hasan] bahwa ia mendengar [Zaid bin Wahb] dari [Abu Dzar] berkata, "Seorang mu'adzin Nabi shallallahu 'alaihi wasallam mengumandangkan adzan Zhuhur. Kemudian beliau bersabda: "Tundalah, tundalah." Atau beliau katakan: "Tunggulah, tunggulah." Beliau kemudian melanjutkan:: "Panas yang menyengat ini berasal dari hembusan api jahannam. Jika udara sangat panas menyengat maka tundalah shalat hingga kita melihat bayangan suatu benda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>535</td></tr><tr><td>Arabic No</td><td>535</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр сказал: «(Однажды, когда) муаззин Пророка ﷺ произнёс азан к полуденной молитве, он сказал (ему): “Отложи! Отложи!” (Или он сказал: “Подожди! Подожди!”) Затем он сказал: “Жара усиливается из-за расширения ада, и поэтому, если жара будет (слишком) сильной, отложите молитву, пока не станет прохладнее. (И это продолжалось) до тех пор, пока мы не увидели тени холмов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>535</td></tr><tr><td>Arabic No</td><td>535</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
 

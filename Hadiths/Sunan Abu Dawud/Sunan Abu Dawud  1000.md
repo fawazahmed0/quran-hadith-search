@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. Samurah said:The Messenger of Allah (ﷺ) entered upon us while the peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Al A'masy] dari [Al Musayyab bin Rafi'] dari [Tamim Ath Tha'i] dari [Jabir bin Samurah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam menemui kami, sedangkan orang-orang tengah mengangkat tangan -Zuhair berkata; sepengetahuanku Jabir bin Samurah mengatakan; "ketika mereka tengah mengerjakan shalat, " maka beliau bersabda: "Kenapa aku melihat kalian mengangkat tangan seperti ekor kuda yang bergerak-gerak, diamlah kalian dalam shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 2 Hadith 611</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн Самуры, да будет доволен им Аллах: «Однажды Посланник Аллаха ﷺ зашёл к нам, увидел, что люди подняли руки». (Передатчик) Зухайр сказал: «И, кажется, он сказал: “…во время молитвы”». (Далее говорится): «И (Посланник Аллаха ﷺ) сказал: “Почему я вижу, что вы задрали руки так, что они стали похожи на хвосты норовистых лошадей? Сохраняйте спокойствие во время молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 2 Hadith 611</td></tr></tbody></table></div>
 

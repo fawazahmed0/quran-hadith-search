@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported that he divorced his wife during
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Nafi'] bahwasannya [Ibnu Umar] pernah menceraikan istrinya yang sedang haidl, kemudian Umar menanyakannya kepada Nabi shallallahu 'alaihi wasallam, lalu beliau menyuruh (Ibnu Umar) untuk merujuknya dan menangguhkan sampai istrinya mengalami haidl yang kedua, kemudian dia menangguhkannya sampai istrinya suci, setelah itu dia boleh menceraikannya sebelum menggaulinya, itulah maksud iddah yang diperintahkan Allah dalam menceraikan seorang wanita. Nafi' berkata; Apabila Ibnu Umar ditanya mengenai seorang laki-laki yang menceraikan istrinya yng sedang haidl, maka dia akan berkata; Jika kamu menceraikannya satu kali atau dua kali, maka sesungguhnya Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk merujuknya kemudian menangguhkannya sampai dia (istri) mengalami haidl yang kedua, kemudian menunggunya sampai dia suci, baru dia boleh menceraikannya sebelum menggaulinya, namun jika kamu langsung menceraikannya dengan talak tiga, maka kamu tela bermaksiat terhadap Rabbmu dalam perintah talak, dan kamu telah putus hubungan dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3656</td></tr><tr><td>Arabic No</td><td>1471.05</td></tr><tr><td>Reference</td><td>Book 18 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3656</td></tr><tr><td>Arabic No</td><td>1471.05</td></tr><tr><td>Reference</td><td>Book 18 Hadith 5</td></tr></tbody></table></div>
 

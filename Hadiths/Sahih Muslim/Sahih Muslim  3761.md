@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported that Sa'd b. 'Ubada al-Ansari s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz yaitu Ad Darawardi] dari [Suhail] dari [ayahnya] dari [Abu Hurairah] bahwa Sa'ad bin 'Ubadah Al Anshari pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam; "Wahai Rasulullah, bagaimana pendapatmu jika ada seorang suami mendapati lelaki lain sedang berkencan dengan isterinya, bolehkah dia membunuhnya?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Tidak." Lantas Sa'ad berkata: "Justru dia melakukannya (membunuhnya), demi Dzat yang telah mengutusmu dengan Al Haq." Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Dengarlah apa yang telah dikatakan oleh pemuka kalian ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3761</td></tr><tr><td>Arabic No</td><td>1498.01</td></tr><tr><td>Reference</td><td>Book 19 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Абу Хурайры, да будет доволен им Аллах, что однажды Са‘д ибн ‘Убада аль-Ансари, да будет доволен им Аллах, спросил: «О Посланник Аллаха, скажи, может ли человек убить постороннего мужчину, если застанет его со своей женой?» – и Посланник Аллаха ﷺ сказал: «Нет!» Са‘д сказал: «Да, клянусь Тем, Кто почтил тебя с истиной!» И тогда Посланник Аллаха ﷺ сказал: «Послушайте то, что говорит ваш господин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3761</td></tr><tr><td>Arabic No</td><td>1498.01</td></tr><tr><td>Reference</td><td>Book 19 Hadith 19</td></tr></tbody></table></div>
 

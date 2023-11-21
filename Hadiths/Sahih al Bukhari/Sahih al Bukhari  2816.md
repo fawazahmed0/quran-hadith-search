@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:My father's mutilated body was brought to the Prophet (ﷺ) and w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Shadaqah bin Al Fadhl] berkata telah mengabarkan kepada kami [Ibnu 'Uyainah] berkata aku mendengar [Muhammad bin Al Munkadir] bahwa dia mendengar [Jabir] berkata; "Jasad bapakku yang telah tercabik-cabik dibawa kepada Nabi shallallahu 'alaihi wasallam lalu diletakkan di hadapan Beliau. Lalu aku pergi untuk menyingkap wajahnya namun kaumku melarangku, Kemudian aku mendengar suara teriakan, yang ternyata putrinya 'Amru atau saudara perempuan 'Amru. Maka Beliau berkata: "Mengapa kamu menangis?" atau: "Janganlah kamu menangis. Sungguh para Malaikat senantiasa terus menaunginya dengan sayap-sayap mereka". Aku bertanya kepada Shadaqah: "Apakah selagi ada disitu hingga diangkat?" Dia menjawab: Sepertinya seperti itu yang Beliau katakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2816</td></tr><tr><td>Arabic No</td><td>2816</td></tr><tr><td>Reference</td><td>Book 56 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Когда (тело) моего убитого и изуродованного (в день Ухуда) отца принесли и положили перед Пророком ﷺ, я подошёл, чтобы поднять одежду с его лица, но мои соплеменники запретили мне сделать это. В это время Пророк ﷺ услышал голос громко рыдающей женщины. Люди сказали: “Это дочь или сестра ‘Амра”. Посланник Аллаха ﷺ сказал: “Почему она плачет? Или: пусть она не плачет. Ведь Ангелы продолжали укрывать его своими крыльями».Аль-Бухари сказал: «Я спросил Садаку (передатчика этого хадиса): “Сказал ли он: “…до тех пор, пока вы не унесли его”?” Он ответил: «Возможно он так сказал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2816</td></tr><tr><td>Arabic No</td><td>2816</td></tr><tr><td>Reference</td><td>Book 56 Hadith 32</td></tr></tbody></table></div>
 

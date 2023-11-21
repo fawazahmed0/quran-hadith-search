@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:Allah's Messenger (ﷺ) said to me, "Recite the whol
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] Telah mengabarkan kepada kami [Ubaidullah bin Musa] dari [Syaiban] dari [Yahya] dari [Muhamamd bin Abdurrahman] Maula Bani Zuhrah, dari [Abu Salamah] ia berkata; -dan aku menduga ia berkata- Aku mendengar dari Abu Salamah dari [Abdullah bin Amru] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bacalah Al Qur'an itu dalam satu bulan." Aku berkata, "Sesungguhnya aku lebih mampu dari itu." Beliau bersabda: "Kalau begitu, bacalah (khatamkanlah) ia dalam tujuh hari, dan janganlah melewati batas itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5054</td></tr><tr><td>Arabic No</td><td>5054</td></tr><tr><td>Reference</td><td>Book 66 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр сказал: «Посланник Аллаха ﷺ сказал: “Прочитывай Коран (полностью) за месяц”. Я сказал: “Но я чувствую в себе силу (чтобы читать больше)”. И в конце он сказал: “Тогда прочитывай его за семь дней, но не меньше!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5054</td></tr><tr><td>Arabic No</td><td>5054</td></tr><tr><td>Reference</td><td>Book 66 Hadith 79</td></tr></tbody></table></div>
 

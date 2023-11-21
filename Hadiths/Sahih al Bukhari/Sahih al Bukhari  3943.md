@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Prophet (ﷺ) arrived at Medina he found that the J
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ziyab bin Ayyub] telah menceritakan kepada kami [Husyaim] telah menceritakan kepada kami [Abu Bisyir] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] ia berkata; "Setibanya Nabi shallallahu 'alaihi wasallam di Madinah, beliau mendapatkan orang-orang Yahudi berpuasa pada hari 'Asyura. Mereka ditanya tentang masalah itu, lalu mereka menjawab; "Ini adalah hari di saat Allah memenangkan Musa 'alaihis salam dan Bani Isra'il atas Fir'aun. Dan kami berpuasa untuk mengagungkan hal itu." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Kami lebih berhak kepada Musa daripada kalian." Kemudian beliau memerintahkan untuk berpuasa pada hari 'Assyura
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3943</td></tr><tr><td>Arabic No</td><td>3943</td></tr><tr><td>Reference</td><td>Book 63 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, прибыв в Медину, Пророк ﷺ увидел, что иудеи постятся в день ‘Ашуры. Их спросили об этом. Они ответили: «Это — день, в который Аллах помог Мусе и израильтянам одержать верх над фараоном, и мы соблюдаем пост в этот день, возвеличивая его». Тогда Посланник Аллаха ﷺ сказал: «Мы имеем больше прав на Мусу, чем вы», — и велел (мусульманам) поститься в этот день
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3943</td></tr><tr><td>Arabic No</td><td>3943</td></tr><tr><td>Reference</td><td>Book 63 Hadith 167</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:Abu Usaid As-Sa'idi came and invited Allah's Messenger (ﷺ) on th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub bin Abdurrahman] dari [Abu Hazim] dia berkata; saya mendengar [Sahl] berkata; "Abu Usaid as Sa'idi datang dan mengundang Rasulullah shallallahu 'alaihi wasallam di tempat pelaminannya, sementara istri Abu Usaid membantu mereka pada hari ketika dia menjadi pengantin. (Sahal) berkata; 'Apakah kalian mengetahui apa yang aku tuangkan kepada Rasulullah Shallallahu'alaihiwasallam? Aku tuangkan kepada beliau (munuman) dari rendaman kurma semalam dalam kuali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5591</td></tr><tr><td>Arabic No</td><td>5591</td></tr><tr><td>Reference</td><td>Book 74 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль бин Са‘д, да будет доволен им Аллах, сказал: «Абу Усайд ас-Са‘иди пришёл к Посланнику Аллаха ﷺ и пригласил его к себе на свадьбу, что же касается его жены, которая тогда являлась невестой, то она прислуживала им. А знаете ли вы, чем она поила Посланника Аллаха ﷺ? Она всю ночь вымачивала для него финики в воде(, которая была налита) в таур»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5591</td></tr><tr><td>Arabic No</td><td>5591</td></tr><tr><td>Reference</td><td>Book 74 Hadith 17</td></tr></tbody></table></div>
 

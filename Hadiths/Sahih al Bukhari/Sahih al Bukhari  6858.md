@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Abu-l-Qasim (the Prophet) saying, "If somebody slan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Fudhail bin Ghazawan] dari [Ibnu Abi Nu'm] dari [Abu Hurairah] radliallahu 'anhu mengatakan; aku mendengar Abul Qasim Shallallahu'alaihiwasallam bersabda; "Siapa yang menuduh budaknya berzina padahal ia tidak seperti yang diucapkannya, si penuduh akan didera pada hari kiamat terkecuali sebagaimana yang diucapkan (benar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6858</td></tr><tr><td>Arabic No</td><td>6858</td></tr><tr><td>Reference</td><td>Book 86 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Абу-ль-Касим ﷺ сказал: “В День воскресения того, кто станет обвинять своего невольника (в совершении прелюбодеяния), в чём (на самом деле) он невиновен, подвергнут бичеванию, если только (этот невольник действительно) не является таким, как он (его назвал)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6858</td></tr><tr><td>Arabic No</td><td>6858</td></tr><tr><td>Reference</td><td>Book 86 Hadith 80</td></tr></tbody></table></div>
 

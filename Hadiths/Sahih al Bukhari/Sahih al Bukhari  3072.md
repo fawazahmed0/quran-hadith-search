@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Al-Hasan bin 'All took a date from the dates of the Sadaqa 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] dari [Muhammad bin Ziyad] dari [Abu Hurairah radliallahu 'anhu], bahwa Al Hasan bin 'Ali mengambil sebutir kurma dari kurma-kurma (zakat) shadaqah, (lalu ia masukkan) ke dalam mulutnya, maka Nabi Shallallahu'alaihiwasallam bersabda; "Hei, hei. Tidak tahukah kamu bahwa kita dilarang memakan shadaqah (zakat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3072</td></tr><tr><td>Arabic No</td><td>3072</td></tr><tr><td>Reference</td><td>Book 56 Hadith 277</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды аль-Хасан ибн ‘Али взял финик, который был предназначен для милостыни, и положил его в рот. Пророк ﷺ сказал ему по-персидски: “Ких! Ких! (выплюнь, выплюнь!) Разве ты не знал, что мы не едим милостыню?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3072</td></tr><tr><td>Arabic No</td><td>3072</td></tr><tr><td>Reference</td><td>Book 56 Hadith 277</td></tr></tbody></table></div>
 

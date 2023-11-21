@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Asim:I asked Anas bin Malik about the Qunut. Anas replied, "Definitely
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami ['Abdul Wahid bin Ziyad] berkata, telah menceritakan kepada kami ['Ashim] berkata, "Aku pernah bertanya [Anas bin Malik] tentang qunut." Maka dia menjawab, "Qunut itu benar adanya." Aku bertanya lagi, "Apakah pelaksanaannya sebelum atau sesudah rukuk?" Dia menjawab, "Sebelum rukuK." Ashim berkata, "Ada orang yang mengabarkan kepadaku bahwa engkau mengatakan bahwa pelaksanaannya setelah rukuk?" Anas bin Malik menjawab, "Orang itu dusta. Rasulullah shallallahu 'alaihi wasallam pernah melaksanakannya setelah rukuk selama satu bulan. Hal itu Beliau lakukan karena Beliau pernah mengutus sekelompok orang (ahli Al Qur'an) yang berjumlah sekitar tujuh puluh orang kepada Kaum Musyrikin selain mereka. Saat itu antara Rasulullah shallallahu 'alaihi wasallam dan kaum musyrikin ada perjanjian. Kemudian Rasulullah shallallahu 'alaihi wasallam melaksanakan doa qunut selama satu bulan untuk berdoa atas mereka (karena telah membunuh para utusannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1002</td></tr><tr><td>Arabic No</td><td>1002</td></tr><tr><td>Reference</td><td>Book 14 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Мусаддад, который сказал:\n— Рассказал нам ‘Абдуль-Вахид, который сказал:\n— Рассказал нам ‘Асым, который сказал:\n— (Однажды) я спросил у Анаса ибн Малика (об обращениях к Аллаху с мольбами) кунут и (в ответ) он сказал: «Кунут был!» Я спросил: «До совершения поясного поклона или после?» Он ответил: «До него». Он сказал: «А такой-то сообщил мне, что ты сказал, будто это имело место после совершения поясных поклонов». (Тогда Анас) сказал: «Он солгал. Посланник Аллаха ﷺ обращался с такими мольбами после поясных поклонов только (в течение одного) месяца. Я думаю, что (дело в том, что в своё время Пророк ﷺ) направил около семидесяти человек, которых называли “чтецами”, к людям из числа многобожников (из Неджда. Что касается людей, убивших этих чтецов, то) они не относились к числу (вышеупомянутых многобожников), и у Посланника Аллаха ﷺ был с ними договор и только после этого Посланник Аллаха ﷺ в течение месяца обращался (к Аллаху с мольбами) кунут покарать их (за это)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1002</td></tr><tr><td>Arabic No</td><td>1002</td></tr><tr><td>Reference</td><td>Book 14 Hadith 13</td></tr></tbody></table></div>
 

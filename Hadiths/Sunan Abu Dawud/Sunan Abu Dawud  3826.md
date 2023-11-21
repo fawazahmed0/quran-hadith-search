@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mughirah ibn Shu'bah: I ate garlic and came to the place where the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abu Hilal] telah menceritakan kepada kami [Humaid bin Hilal] dari [Abu Burdah] dari [Al Mughirah bin Syu'bah] ia berkata, "Aku pernah makan bawang putih kemudian mendatangi mushalla Nabi shallallahu 'alaihi wasallam, dan aku telah ketinggalan satu rakaat. Saat aku masuk masjid Nabi shallallahu 'alaihi wasallam mencium bau bawang putih, selesai shalat Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Barangsiapa makan sebagian dari pohon ini maka janganlah ia mendekati kami, hingga hilang baunya." Selesai shalat aku datang menemui Rasulullah shallallahu 'alaihi wasallam dan aku katakan, "Wahai Rasulullah, demi Allah! Berikanlah tanganmu kepadaku." Aku lalu memasukkan tangan beliau ke dalam lubang pergelangan bajuku hingga menyentuh dadaku. Sementara aku telah mengikat perut bagian dada dengan kain (karena lapar), maka beliau pun bersabda: "Sesungguhnya engkau memiliki udzur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3826</td></tr><tr><td>Arabic No</td><td>3826</td></tr><tr><td>Reference</td><td>Book 28 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Мугира ибн Шу‘ба, да будет доволен им Аллах, передаёт: «Я поел чеснока и пришёл в то место, где Пророк ﷺ совершал молитву, а я уже пропустил один рак‘ат, и когда я вошёл в мечеть, он почувствовал (исходящий от меня) запах чеснока. Закончив молиться, Посланник Аллаха ﷺ сказал: “Кто поел этого растения, пусть не приближается к нам, пока запах не уйдёт”. Завершив молитву, я подошёл к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха! Клянусь Аллахом, ты дашь мне руку!” И я взял его руку и вложил её в рукав моей рубахи, чтобы она коснулась груди и он понял, что грудь моя перевязана. После этого Посланник Аллаха ﷺ сказал: “Поистине, у тебя есть оправдание”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3826</td></tr><tr><td>Arabic No</td><td>3826</td></tr><tr><td>Reference</td><td>Book 28 Hadith 91</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ And Ibn 'Abbas narrated:Abu Sufyan bin Harb told me that Heraclius called for hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Utsman bin Umar] telah mengabarkan kepada kami [Ali bin Mubarak] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] berkata, "Ahli kitab membaca Taurat dengan bahasa Ibrani, dan mereka menafsirkannya dengan bahasa arab untuk pemeluk Islam." Spontan Rasulullah Sallallahu'alaihiwasallam bersabda: "Jangan kalian membenarkan ahli kitab dan jangan pula mendustakan mereka, katakan saja: 'Kami beriman kepada Allah dan apa yang diturunkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7541</td></tr><tr><td>Arabic No</td><td>7541</td></tr><tr><td>Reference</td><td>Book 97 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от (‘Абдуллах) ибн ‘Аббаса, да будет доволен Аллах им и его отцом, который сказал: «Рассказал мне Абу Суфьян ибн Харб, что Ираклий повелел позвать к нему переводчика, а потом велел принести послание Пророка ﷺ обращённое к нему, и прочитал в нём: «С именем Аллаха Милостивого, Милующего! От Мухаммада, раба и Посланника Аллаха, к Ираклию: “О люди писания, давайте придём к единому слову для нас и для вас”» (Сура «Аль ‘Имран», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7541</td></tr><tr><td>Arabic No</td><td>7541</td></tr><tr><td>Reference</td><td>Book 97 Hadith 166</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:I heard the Messenger of Allah (ﷺ) as saying this, but 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2416</td></tr><tr><td>Arabic No</td><td>1048.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «Я слышал, как Посланник Аллаха ﷺ говорил это, но не знаю, было ли это чем-то ниспосланным или же это его слова»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2416</td></tr><tr><td>Arabic No</td><td>1048.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 153</td></tr></tbody></table></div>
 

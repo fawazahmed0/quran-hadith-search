@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas (bin Malik):Ar-Rubai (the paternal aunt of Anas bin Malik) broke t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Salam] Telah mengabarkan kepada kami [Al Fazari] dari [Humaid] dari [Anas radliallahu 'anhu] dia berkata; Rubayyi' -bibinya Anas bin Malik- pernah mematahkan gigi seri budak dari Anshar. Lalu kaumnya meminta qishas dengan mendatangi Nabi shallallahu 'alaihi wasallam. Maka Nabi shallallahu 'alaihi wasallam menyuruh untuk mengqishashnya. Anas bin Mudlar -paman Anas bin Malik- berkata; Tidak, demi Allah, jangan engkau patahkan giginya ya Rasulullah. Rasulullah shallallahu 'alaihi wasallam bersabda: 'Wahai Anas, Kitabullah adalah Qishash.' Namun kemudian kaumnya merelakannya dan menerima dendanya. Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya dari hamba-hamba Allah ada orang yang apabila dia bersumpah atas nama Allah maka ALlah akan mengabulkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4611</td></tr><tr><td>Arabic No</td><td>4611</td></tr><tr><td>Reference</td><td>Book 65 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, что ар-Рубаййи‘, его тётя, сломала передний зуб одной девушке из ансаров, и её родные пришли требовать возмездия. Они пришли к Пророку ﷺ, и он велел, чтобы с ней сделали то же самое. Тогда Анас ибн ан-Надр сказал: «О Посланник Аллаха! Клянусь Аллахом, её зуб не будет сломан (сегодня)!» Посланник Аллаха ﷺ сказал: «О Анас! Согласно Книге Аллаха, полагается воздать ей равным». Но родственники пострадавшей согласились принять компенсацию и простили её, и Посланник Аллаха ﷺ сказал: «Поистине, есть среди рабов Аллаха такие, клятвы которых Аллах неизменно выполняет, когда они клянутся Им!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4611</td></tr><tr><td>Arabic No</td><td>4611</td></tr><tr><td>Reference</td><td>Book 65 Hadith 133</td></tr></tbody></table></div>
 

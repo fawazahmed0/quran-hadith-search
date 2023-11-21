@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who attends the funera
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir] dan [Harmalah bin Yahya] dan [Harun bin Sa'id Al Aili] -dan lafazh milik Harun dan Harmalah, Harun berkata- telah menceritakan kepada kami -sementara dua orang yang lain berkata- telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata, telah menceritakan kepadaku [Abdurrahman bin Hurmuz Al A'raj] bahwa [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang turut menyaksikan pengurusan jenazah hingga ia menshalitinya, maka baginya pahala sebesar satu qirath. Sedangkan siapa yang turut menyaksikan pengurusannya hingga jenazah itu dimakamkan, maka baginya pahala sebesar dua qirath." Lalu ditanyakanlah, "Apakah itu dua qirath?" beliau menjawab: "Seperti dua gunung yang besar." sampai disinilah haditsnya Abu Thahir. Kemudian dua orang itu menambahkan; Ibnu Syihab berkata, Salim bin Abdullah bin Umar berkata; Ibnu Umar pernah menshalati jenazah lalu ia bubar dan pergi. Dan ketika hadits Abu Hurairah sampai padanya, ia pun berkata, "Sungguh, kita telah menyia-nyiakan banyak qirath." Dan telah menceritakannya kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdul A'la] -dalam jalur lain- Dan Telah menceritakan kepada kami [Ibnu Rafi'] dan [Abdu bin Humaid] dari [Abdurrazaq] keduanya dari [Ma'mar] dari [Az Zuhri] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, hingga sampai pada; "Seperti dua gunung yang besar." Dan ia tidak menyebutkan sesudahnya. Dan di dalam haditsnya Abdul A'la tercantum; "Hingga pengurusan (jenazah itu) selesai." Sementara di dalam riwayat Abdurrazaq tercantum; "Hingga (jenazah itu) diletakkan di dalam liang lahad." Dan telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin Laits] telah menceritakan kepadaku [bapakku] dari [kakekku] ia berkata, telah menceritakan kepadaku [Uqail bin Khalid] dari [Ibnu Syihab] ia berkata, telah menceritakan kepadaku [seorang laki-laki] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, yakni seperti haditsnya Ma'mar. dan ia menyebutkan; "Hingga (jenazah itu) dikebumikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2189</td></tr><tr><td>Arabic No</td><td>945.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ сказал: «Тому, кто будет присутствовать на похоронах до завершения заупокойной молитвы, (уготована) награда в один кырат, а тому, кто останется до завершения погребения в два кырата». (Люди стали) спрашивать: «А что это за два кырата?», и (Пророк ﷺ) сказал: «(Они будут) подобны двум огромным горам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2189</td></tr><tr><td>Arabic No</td><td>945.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 67</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuWahb al-Jushami: The Prophet (ﷺ) said: Call yourselves by the name
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] berkata, telah menceritakan kepada kami [Hisyam bin Sa'id Ath Thalqani] berkata, telah mengabarkan kepada kami [Muhammad Ibnul Muhajir Al Anshari] ia berkata; telah menceritakan kepadaku [Aqil bin Syabib] dari [Abu Wahab Al Jusyami] -seorang sahabat- ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Buatlah nama sebagaimana nama para Nabi, nama yang paling disukai oleh Allah adalah Abdullah dan 'Abdurrahman. Dan Yang paling benar adalah Hammam dan Harits dan yang paling jelek adalah Harb dan Murrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4950</td></tr><tr><td>Arabic No</td><td>4950</td></tr><tr><td>Reference</td><td>Book 43 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4950</td></tr><tr><td>Arabic No</td><td>4950</td></tr><tr><td>Reference</td><td>Book 43 Hadith 178</td></tr></tbody></table></div>
 

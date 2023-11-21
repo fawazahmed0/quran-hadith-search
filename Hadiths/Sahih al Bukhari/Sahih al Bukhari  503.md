@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I saw the most famous people amongst the companions of the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kami [Sufyan] dari ['Amru bin 'Amir] dari [Anas bin Malik] berkata, "Aku pernah melihat para sahabat senior berlomba mendekati tiang saat adzan Maghrib." [Syu'bah] menambahkan dari ['Amru] dari [Anas], "Sehingga Nabi shallallahu 'alaihi wasallam keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>503</td></tr><tr><td>Arabic No</td><td>503</td></tr><tr><td>Reference</td><td>Book 8 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Я видел, как с наступлением времени закатной молитвы, виднейшие сподвижники Посланника Аллаха ﷺ спешили к столбам, опережая друга».\nШу‘ба привёл дополнение от ‘Амра, передавшего от Анаса: «До тех пор, пока не выходил (на молитву) Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>503</td></tr><tr><td>Arabic No</td><td>503</td></tr><tr><td>Reference</td><td>Book 8 Hadith 150</td></tr></tbody></table></div>
 

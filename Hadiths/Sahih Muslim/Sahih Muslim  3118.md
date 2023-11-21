@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:Sauda (the wife of the Holy Prophet)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] Telah menceritakan kepada kami [Aflah bin Humaid] dari [Qasim] dari [Aisyah] bahwa ia berkata; Saudah pernah meminta izin kepada Rasulullah shallallahu 'alaihi wasallam di malam Muzdalifah untuk berangkat mendahului beliau dan rombongan orang banyak -Saudah adalah seorang wanita gemuk yang lamban-. Aisyah berkata; Maka Rasulullah shallallahu 'alaihi wasallam pun mengizinkannya, lalu Saudah berangkat mendahului keberangkatan Rasulullah shallallahu 'alaihi wasallam. Lalu kami berangkat bersama Rasulullah shallallahu 'alaihi wasallam. Seandainya aku meminta izin kepada beliau sebagaimana Saudah, lalu aku berangkat dengan izin beliau, adalah lebih aku senangi daripada aku berangkat bersama beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3118</td></tr><tr><td>Arabic No</td><td>1290.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 322</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3118</td></tr><tr><td>Arabic No</td><td>1290.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 322</td></tr></tbody></table></div>
 

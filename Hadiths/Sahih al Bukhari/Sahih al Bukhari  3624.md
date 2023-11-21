@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once Fatima came walking and her gait resembled the gait of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3624</td></tr><tr><td>Arabic No</td><td>3624</td></tr><tr><td>Reference</td><td>Book 61 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Она ответила: «Он сказал мне: “Каждый год Джибриль повторял со мной Коран (полностью) один раз, а в этом году он повторил его со мной дважды, и я считаю это не чем иным как (указанием на то, что) срок мой уже близок. Ты же станешь первой из членов его семьи, которые последуют за мной”. И я заплакала, а он сказал: “Разве ты не рада тому, что будешь госпожой женщин в Раю (или: госпожой верующих женщин)?“, — поэтому я засмеялась»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3624</td></tr><tr><td>Arabic No</td><td>3624</td></tr><tr><td>Reference</td><td>Book 61 Hadith 129</td></tr></tbody></table></div>
 

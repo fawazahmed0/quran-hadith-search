@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Alî (que Dieu l'agrée), Fâtima se plaignît d'un mal que l'usage de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] -lafazh ini milik Ibnu Mutsanna keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dia berkata; Aku mendengar [Ibnu Abu Laila] Telah menceritakan kepada kami [Ali] bahwasanya Fatimah merasa sakit tangannya karena menumbuk tepung dan ketika itu ada seorang pelayan yang menawarkan dirinya kepada Rasulullah shallallahu 'alaihi wasallam. Fatimah datang menemui Rasulullah untuk meminta seorang pembantu. Tetapi ia tidak berhasil menemui Rasulullah dan hanya bertemu dengan Aisyah. Kemudian Fatimah menitip pesan kepada Aisyah untuk disampaikan kepada Rasulullah. Ketika Rasulullah tiba di rumah, Aisyah pun memberitahu beliau tentang kedatangan Fatimah. Ali bin Abu Thalib berkata; "Lalu Rasulullah pergi ke rumah kami ketika kami tengah berbaring hendak tidur. Maka kami segera bangun, tetapi beliau mencegahnya seraya berkata: 'Tetaplah di tempat kalian! ' Kemudian Rasulullah duduk di antara kami hingga saya merasakan dinginnya telapak kaki beliau yang menyentuh dada saya. Setelah itu, Rasulullah bersabda: 'Inginkah kalian berdua aku ajarkan sesuatu yang lebih baik daripada apa yang kalian minta? Apabila kalian berbaring hendak tidur, maka bacalah takbir tiga puluh empat kali, tasbih tiga puluh tiga kali, dan tahmid tiga puluh tiga kali. Sesungguhnya yang demikian itu lebih baik bagi kalian daripada seorang pembantu.' Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Waki'] Demikian juga diriwayatkan dari jalur lainnya, Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] Telah menceritakan kepada kami [Bapakku] Demikian juga diriwayatkan dari jalur lainnya, Telah menceritakan kepada kami [Ibnu Al Mutsanna] Telah menceritakan kepada kami [Ibnu Abu Adi] seluruhnya dari [Syu'bah] melalui sanad ini. Di dalam Hadits Mu'adz dengan menggunakan kalimat; Apabila 'kalian berbaring hendak tidur dimalam hari.' Telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ubaidullah bin Abu Yazid] dari [Mujahid] dari [Ibnu Abu laila] dari [Ali bin Abu Thalib] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakannya kepada kami [Muhammad bin Abdullah bin Numair] dan [Ubaid bin Ya'isy] dari [Abdullah bin Numair] Telah menceritakan kepada kami [Abdul Malik] dari [Atha bin Abu Rabah] dari [Mujahid] dari [Ibnu Abu Laila] dari [Ali] dari Nabi shallallahu 'alaihi wasallam yang sama dengan Hadits Al Hakam dari Ibnu Abu Laila. Di dalamnya ada tambahan; Ali berkata; 'Saya tidak pernah meninggalkan bacaan tersebut semenjak saya mendengarnya dari Rasulullah.' Seseorang bertanya kepadanya; 'Hai Ali, apakah kamu juga tidak meninggalkan doa ini pada malam perang Shiffin? ' Ali menjawab; 'Ya. Saya tidak pernah meninggalkan bacaan ini pada malam perang Shiffin sekalipun.' Sedangkan di dalam Hadits Atha dari Mujahid dari Ibnu Abu Laila dia berkata; aku bertanya kepada Ali; 'Apakah kamu juga tidak meninggalkan doa ini pada malam perang Shiffin?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6915</td></tr><tr><td>Arabic No</td><td>2727.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6915</td></tr><tr><td>Arabic No</td><td>2727.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 108</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMusa al-Ash'ari: Negus presented to the Messenger of Allah (ﷺ) two
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Ahmad bin Syu'aib Al Harrani] mereka berdua berkata; Telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Dalham bin Shalih] dari [Hujair bin Abdullah] dari [Ibnu Buraidah] dari [Ayahnya] bahwasanya raja Najasyi pernah memberi hadiah kepada Rasulullah shallallahu 'alaihi wasallam sepasang sepatu hitam mulus, maka beliau memakainya, kemudian beliau berwudhu dan mengusap di bagian atas keduanya. Musaddad berkata; dari Dalham bin Shalih. Abu Dawud berkata; Ini termasuk hadits yang hanya diriwayatkan oleh penduduk Bashrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>155</td></tr><tr><td>Arabic No</td><td>155</td></tr><tr><td>Reference</td><td>Book 1 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Бурайда со слов своего отца рассказывал: «Наджаши прислал Посланнику Аллаха ﷺ однотонные кожаные носки черного цвета. И он надел их, а затем, совершая омовение обтер их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>155</td></tr><tr><td>Arabic No</td><td>155</td></tr><tr><td>Reference</td><td>Book 1 Hadith 155</td></tr></tbody></table></div>
 

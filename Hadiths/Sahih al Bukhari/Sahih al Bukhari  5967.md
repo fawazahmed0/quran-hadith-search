@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'adh bin Jabal:While I was riding behind the Prophet (ﷺ) and betwee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hudbah bin Khalid] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Anas bin Malik] dari [Mu'adz bin Jabal] radliallahu 'anhu dia berkata; "Ketika saya membonceng Nabi shallallahu 'alaihi wasallam dan tidak ada yang menengahi keduanya melainkan hanya kursi kecil diatas pelana. Beliau bersabda, "Wahai Muadz bin Jabal!" Jawabku, "Ya wahai Rasulullah! saya penuhi pangilan anda", kemudian berjalan sesaat lalu bertanya, "Wahai Muadz bin Jabal!" jawabku, "Ya, wahai Rasulullah saya penuhi panggilan anda", kemudian beliau berjalan sesaat dan bertanya, "Wahai Mua'dz bin Jabal." Jawabku, "Ya wahai Rasulullah! saya penuhi pangilan anda", beliau bersabda: "Apakah engkau tahu apa hak Allah atas para hamba?" Jawabku, "Allah dan Rasul-Nya yang lebih tahu." Beliau bersabda: "Hak Allah atas para hamba-Nya adalah agar mereka beribadah kepada-Nya semata dan tidak menyekutukan-Nya dengan suatu apapun", Kemudian beliau berjalan sesaat dan bersertu, "Wahai Mua'adz bin Jabal." Jawabku; "Ya wahai Rasulullah, saya penuhi panggilan anda." Beliau bersabda: "Apakah engkau tahu hak hamba atas Allah, jika mereka melakukan itu?" Jawabku; "Allah dan Rasul-Nya yang lebih tahu", beliau bersabda: "Hak para hamba atas Allah adalah Dia tidak akan menyiksa mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5967</td></tr><tr><td>Arabic No</td><td>5967</td></tr><tr><td>Reference</td><td>Book 77 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘аз ибн Джабаль, да будет доволен им Аллах, сказал: «(Однажды) я сидел верхом (на верблюде) позади Пророк ﷺ, и между мной и им не было ничего, кроме задней части седла. Он сказал (мне): “О Му‘аз ибн Джабаль!” Я ответил: “Я повинуюсь тебе, о Посланник Аллаха, и счастлив служить тебе!” Затем он продолжил путь какое-то время. Затем он сказал (мне): “О Му‘аз!” Я ответил: “Я повинуюсь тебе, о Посланник Аллаха, и счастлив служить тебе!” Затем он продолжил путь какое-то время. Затем он сказал (мне): “О Му‘аз!” Я ответил: “Я повинуюсь тебе, о Посланник Аллаха, и счастлив служить тебе!” Затем он сказал (мне): “Известно ли тебе, какое право Аллаха должны соблюдать рабы Его?” Я сказал: “Аллах и Его посланник знают об этом лучше”. (Тогда) он сказал: “Право Аллаха, которое обязаны соблюдать рабы Его, (состоит) в том, что им следует поклоняться Ему (одному), не придавая Ему в сотоварищи ничего”. Затем он продолжил путь какое-то время. Затем он сказал (мне): “О Му‘аз ибн Джабаль!” Я ответил: “Я повинуюсь тебе, о Посланник Аллаха, и счастлив служить тебе!” (Тогда) он сказал: “А известно ли тебе, что в праве ожидать рабы Аллаха, если они будут это совершать?” Я сказал: “Аллах и Его посланник знают об этом лучше”. И он сказал: “Право рабов Аллаха на Аллахе — то, что Он не станет подвергать их мучениям (если они будут соблюдать Его право)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5967</td></tr><tr><td>Arabic No</td><td>5967</td></tr><tr><td>Reference</td><td>Book 77 Hadith 183</td></tr></tbody></table></div>
 

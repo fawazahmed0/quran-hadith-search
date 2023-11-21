@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Humaid Al-Sa'idi:Allah's Messenger (ﷺ) (p.b.u.h) appointed a man 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami [Abu Usamah] telah mengabarkan kepada kami [Hisyam bin 'Urwah] dari [bapaknya] dari [Abu Humaid As-Sa'adiy radliallahu 'anhu] berkata: "Rasulullah shallallahu 'alaihi wasallam memperkerjakan seorang laki-laki untuk mengurus zakat Bani Sulaim yang dikenal dengan sebutan Ibnu Al Latbiyah. Ketika orang itu kembali, Beliau memberinya (upah dari bagian zakat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>1500</td></tr><tr><td>Reference</td><td>Book 24 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хумайд ас-Са‘иди, да будет доволен им Аллах, сказал: «Для сбора садаки с племени бану суляйм Посланник Аллаха ﷺ назначил одного человека из племени аль-асд, которого звали Ибн аль-Лютбиййа и когда тот являлся (к нему), он требовал с него отчёта»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>1500</td></tr><tr><td>Reference</td><td>Book 24 Hadith 100</td></tr></tbody></table></div>
 

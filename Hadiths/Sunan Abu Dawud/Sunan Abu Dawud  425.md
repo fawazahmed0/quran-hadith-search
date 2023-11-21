@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Sunabihi: AbuMuhammad fancies that witr prayer is essentia
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Harb Al Wasithi] telah menceritakan kepada kami [Yazid bin Harun] telah menceritakan kepada kami [Muhammad bin Mutharrif] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abdullah bin Ash Shunabihi] dia berkata; Abu Muhammad beranggapan bahwa shalat witir itu wajib. Maka [Ubadah bin Ash Shamit] berkata; Abu Muhammad telah dusta, saya bersaksi bahwa saya pernah mendengar Rasulullah Shallallahu alaihi wasallam bersabda: "Lima shalat yang telah diwajibkan oleh Allah Ta'ala, barangsiapa yang membaguskan wudhu' dan shalatnya sesuai dengan waktunya serta menyempurnakan rukuk dan kekhusyu'annya, maka dia berhak mendapatkan janji dari Allah bahwa Dia akan mengampuninya, dan barangsiapa yang tidak melakukannya maka dia tidak memiliki janji atas Allah; Jika Allah berkehendak, Dia akan mengampuninya, dan jika berkehendak, Dia akan mengadzabnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>425</td></tr><tr><td>Arabic No</td><td>425</td></tr><tr><td>Reference</td><td>Book 2 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Сунабихи сказал: «Абу Мухаммад утверждал, что (молитва) витр является обязательным: ‘Убада ибн ас-Самит сказал: “Абу Мухаммад солгал. Я свидетельствую, что слышал как Посланник Аллаха ﷺ говорил: “Аллах Всемогущий сделал обязательными пять молитв. Тот, кто совершит для них омовение должным образом и совершит их в установленное для них время, будет совершать как следует поясные поклоны и выстаивать их со смирением, то Аллах обещал ему, что Он простит его (грехи). А кто не сделает этого, то для него нет обещания от Аллаха, и если Он пожелает, то простит его, а если пожелает - накажет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>425</td></tr><tr><td>Arabic No</td><td>425</td></tr><tr><td>Reference</td><td>Book 2 Hadith 35</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm al-Mundhar bint Qays al-Ansariyyah: The Messenger of Allah (ﷺ) ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Abu Daud] dan [Abu 'Amir] hadits ini adalah lafazh Abu 'Amir, dari [Fulaih bin Sulaiman] dari [Ayyub bin Abdurrahman bin Sha'sha'ah Al Anshari] dari [Ya'qub bin Abu Ya'qub] dari [Ummu Al Mundzir binti Qais Al Anshariyyah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam menemuiku bersama Ali radliallahu 'anhu, sementara Ali yang sedang sakit. Saat itu kami memiliki buah kurma yang tergantung, Rasulullah shallallahu 'alaihi wasallam lalu berdiri dan makan sebagian darinya. Ketika Ali berdiri untuk makan, Rasulullah shallallahu 'alaihi wasallam berkata kepada Ali: "Tahanlah, sesungguhnya engkau baru saja sembuh dari sakit!" Hingga Ali menahan diri." Ummu Al Mundzir berkata, "Aku lalu masak gandum dan rebusan sayur. Setelah itu aku membawanya dan Rasulullah shallallahu 'alaihi wasallam pun berkata: "Wahai Ali, makanlah dari makanan ini, makanan tersebut lebih bermanfaat bagimu." Abu Daud berkata, "Harun berkata, "Ia adalah Ummu Al Mundzir Al Anshariyyah Al 'Adawiyyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3856</td></tr><tr><td>Arabic No</td><td>3856</td></tr><tr><td>Reference</td><td>Book 29 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм аль-Мунзира бинт Кайса аль-Ансарийя, да будет доволен ею Аллах: «Посланник Аллаха ﷺ зашёл ко мне вместе с ‘Али, а ‘Али недавно выздоровел и был ослаблен болезнью. А у нас висели гроздья дозревающих фиников, и Посланник Аллаха ﷺ подошёл и стал отрывать ягоды от висевших гроздьев и есть их. ‘Али последовал его примеру, однако Посланник Аллаха ﷺ сказал ему: “Ты ослаблен болезнью, поэтому воздержись”. ‘Али перестал есть. А я тем временем приготовила ячмень с мангольдом и принесла им. (Посланник Аллаха ﷺ) сказал: “Поешь лучше этого, ибо это полезнее для тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3856</td></tr><tr><td>Arabic No</td><td>3856</td></tr><tr><td>Reference</td><td>Book 29 Hadith 2</td></tr></tbody></table></div>
 

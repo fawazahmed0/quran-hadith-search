@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said that his maternal aunt presented to the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dan [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa bibinya telah memberi hadiah mentega, biawak dan keju kepada Rasulullah shallallahu 'alaihi wasallam. Lalu beliau memakan sebagian dari mentega dan keju, serta meninggalkan biawak karena merasa jijik. Dan biawak tersebut dimakan di atas meja makan beliau, seandainya biawak itu haram, maka biawak tersebut tidak akan dimakan di atas meja makan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2575) Sahih Muslim (1947)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3793</td></tr><tr><td>Arabic No</td><td>3793</td></tr><tr><td>Reference</td><td>Book 28 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды тётка Ибн ‘Аббаса, да будет доволен всеми ими Аллах, с материнской стороны подарила Посланнику Аллаха ﷺ масло, (зажаренных шипохвостах) ящериц и сушёный творог, и он поел творога и масла, но не притронулся к ящерицам, так как питал к ним отвращение. Однако другие ели их за его столом, а если бы употреблять ящериц в пищу было запретно, то их бы не ели за столом Посланника Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2575) Sahih Muslim (1947)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3793</td></tr><tr><td>Arabic No</td><td>3793</td></tr><tr><td>Reference</td><td>Book 28 Hadith 58</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:We were in the company of the Prophet (ﷺ) in a Ghazwa. A large 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad] telah mengabarkan kepada kami [Makhlad bin Yazid] telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepadaku ['Amru bin Dinar] bahwa dia mendengar [Jabir radliallahu 'anhu] berkata; "Kami pernah berperang bersama Nabi shallallahu 'alaihi wasallam, ketika itu orang-orang Kaum Muhajirin sudah bergabung dan jumlah mereka semakin banyak. Di antara Kaum Muhajirin itu ada seorang laki- laki yang pandai memainkan senjata lalu dia memukul pantat seorang shahabat Anshar sehingga menjadikan orang Anshar ini sangat marah, lalu dia berseru seraya berkata; "Wahai Kaum Anshar". Laki-laki Muhajirin tadi menimpali dan berseru pula; "Wahai Kaum Muhajirin". Akhirnya Nabi shallallahu 'alaihi wasallam datang dan bersabda: "Mengapa seruan-seruan kaum jahiliyah masih saja terus dipertahankan? '. Kemudian beliau bertanya; "Apa yang terjadi dengan mereka?". Lalu beliau diberitahu bahwa ada seorang shahabat Muhajirin yang memukul pantat seorang shahabat Anshar. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Tinggalkanlah seruan itu karena hal semacam itu tercela (buruk) ". Setelah itu 'Abdullah bin Ubbay bin Salul berkata; "Apakah mereka (Kaum Muhajirin) tengah mengumpulkan kekuatan untuk melawan kami?. Seandainya kita kembali ke Madinah maka orang yang kuat pasti akan mengusir orang yang hina" (Allah Subhaanahu wa Ta'ala mengabadikan perkataannya ini dalam QS al-Munafiqun ayat 8). Spontan'Umar berkata; "Tidak sebaiknyakah kita bunuh saja orang tercela ini, wahai Rasulullah!" Yang dimaksudnya adalah 'Abdullah bin Ubay bin Salul. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Tidak, agar orang-orang tidakberdalih bahwa dia (Muhammad) membunuh shahabatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3518</td></tr><tr><td>Arabic No</td><td>3518</td></tr><tr><td>Reference</td><td>Book 61 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Когда мы отправились вместе с Пророком ﷺ в один из военных походов, с ним вышло большое количество мухаджиров, среди которых был человек, который много шутил (или играл с копьями). Этот человек ударил одного из ансаров по заду, из-за чего ансари сильно разгневался, (и дело дошло до того, что) каждый из них стал призывать на помощь других. Ансари воскликнул: “(На помощь,) о ансары!” — а мухаджир закричал: “(На помощь,) о мухаджиры!” (Тогда из своего шатра) вышел Пророк ﷺ и сказал: “Почему (они призывают) зовом доисламского невежества?” — после чего спросил: “Что с ними случилось?” — и ему рассказали о том, как мухаджир ударил ансара. Тогда Пророк ﷺ сказал: “Прекратите (говорить такие слова), ибо, поистине, они отвратительны!” Что же касается ‘Абдуллаха ибн Убаййа Ибн Салюля, то он сказал: “Они созывают (друг друга, чтобы напасть) на нас, но, поистине, когда мы вернёмся в Медину, могущественные выгонят из неё презренных!” (Услышав это,) ‘Умар сказал: “О Посланник Аллаха, не казнить ли нам этого мерзавца?” — (имея в виду) ‘Абдуллаха. (На это) Пророк ﷺ сказал: “Нет, ибо тогда люди станут говорить, что (Мухаммад) убивает своих сподвижников!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3518</td></tr><tr><td>Arabic No</td><td>3518</td></tr><tr><td>Reference</td><td>Book 61 Hadith 28</td></tr></tbody></table></div>
 

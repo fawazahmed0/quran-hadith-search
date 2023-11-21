@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad ibn Abdur Rahman ibn Thawban reported on the authority of a man from th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Katsir bin 'Ubaid Al Himshi], telah menceritakan kepada kami [Abu Haiwah] dari [Syu'aib bin Abu Hamzah], telah menceritakan kepadaku [Ghailan bin Anas], telah menceritakan kepadaku [Muhammad bin Abdurrahman bin Tsauban], dari [seorang laki-laki] sahabat Nabi shallallahu 'alaihi wasallam, bahwa Ali tatkala menikahi Fathimah binti Rasulullah shallallahu 'alaihi wasallam dan hendak bercampur dengannya (menggaulinya), Rasulullah shallallahu 'alaihi wasallam melarangnya hingga ia memberikan sesuatu kepadanya. Kemudian ia berkata; wahai Rasulullah, aku tidak memiliki sesuatu. Kemudian Nabi shallallahu 'alaihi wasallam berkata kepadanya: "Berikan baju besimu kepadanya!" kemudian Ali memberikannya kepada Fathimah, kemudian ia bercampur dengannya (menggaulinya). Telah menceritakan kepada kami [Katsir bin 'Ubaid], telah menceritakan kepada kami [Abu Haiwah], dari [Syu'aib] dari [Ghailan] dari [Ikrimah] dari [Ibnu Abbas] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2126</td></tr><tr><td>Arabic No</td><td>2126</td></tr><tr><td>Reference</td><td>Book 12 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от одного из сподвижников Пророка ﷺ что после того, как ‘Али женился на Фатиме, он хотел начать супружескую жизнь с ней, но Посланник Аллаха ﷺ велел ему не делать этого, пока он не даст ей что-нибудь в качестве брачного дара. ‘Али сказал: «О Посланник Аллаха, но у меня ничего нет!» Пророк ﷺ сказал: «Отдай ей свою кольчугу». И он отдал ей свою кольчугу, после чего начал супружескую жизнь с ней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2126</td></tr><tr><td>Arabic No</td><td>2126</td></tr><tr><td>Reference</td><td>Book 12 Hadith 81</td></tr></tbody></table></div>
 

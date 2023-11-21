@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) reported Allah's Apostle (ﷺ) as saying:The best among peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Al Hasan bin 'Ali Al Hulwani]; Telah menceritakan kepada kami [Azhar bin Sa'ad As Samman] dari [Ibnu 'Aun] dari [Ibrahim] dari ['Abidah] dari ['Abdullah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sebaik-baik manusia adalah generasiku, kemudian generasi setelahnya, kemudian generasi setelahnya lagi, -aku tidak tahu- beliau menyebutkan generasi setelah beliau tiga kali atau empat kali.- lalu beliau bersabda lagi: 'kemudian akan datang generasi setelah mereka yang mana persaksian salah seorang dari mereka mendahului sumpahnya, atau sebaliknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6472</td></tr><tr><td>Arabic No</td><td>2533.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 301</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6472</td></tr><tr><td>Arabic No</td><td>2533.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 301</td></tr></tbody></table></div>
 

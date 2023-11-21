@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdur Razaq] Telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; 'Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, -kemudian dia menyebutkan beberapa Hadits yang di antaranya-; dan Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Perumpamaanku dengan Nabi-nabi sebelumku adalah seperti orang membangun rumah, lalu disempurnakannya dan dibaguskannya buatannya, kecuali sebuah sudut (belum terpasang) dengan sebuah bata. Maka masuklah orang banyak ke rumah itu. Mereka mulai mengelilinginya dan kagum akan keindahannya. Lalu mereka bertanya; 'Kenapa batu di tempat ini belum dipasang sehingga bangunanmu menjadi sempurna? Tuan rumah menjawab; 'Yang akan memasangnya ialah Muhammad Rasulullah shallallahu 'alaihi wasallam." Maka akulah yang meletakkan atau memasang bata itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5960</td></tr><tr><td>Arabic No</td><td>2286.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5960</td></tr><tr><td>Arabic No</td><td>2286.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 23</td></tr></tbody></table></div>
 

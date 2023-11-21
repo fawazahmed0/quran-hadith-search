@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) said:(The Last Hour would not 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru An Naqid] telah menceritakan kepada kami [Al Aswad bin Amir] telah menceritakan kepada kami [Zuhair] dari [Suhail bin Abu Shalih] dari [ayahnya] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Rumah-rumah tempat tinggal itu akan sampai ke daerah Ihab atau Yahab." Zuhair berkata: Aku bertanya kepada Suhail: Seberapa jauh jarak (Ihab atau Yahab) dari kota Madinah? Ia menjawab: sekian dan sekian mil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7290</td></tr><tr><td>Arabic No</td><td>2903</td></tr><tr><td>Reference</td><td>Book 54 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7290</td></tr><tr><td>Arabic No</td><td>2903</td></tr><tr><td>Reference</td><td>Book 54 Hadith 56</td></tr></tbody></table></div>
 

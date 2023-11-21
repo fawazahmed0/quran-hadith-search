@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:I heard Allah's Messenger (ﷺ) commanding the killing of dog
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Hajib bin Al Walid]; Telah menceritakan kepada kami [Muhammad bin Harb] dari [Az Zubaidi] dari [Az Zuhri]; Telah mengabarkan kepadaku [Salim bin 'Abdullah] dari [Ibnu 'Umar] dia berkata; "Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam memerintahkan kami, kaum muslimin, untuk membunuh anjing." Beliau bersabda: 'Bunuhlah ular dan anjing! Serta musnahkanlah ular yang dipunggungnya ada dua garis putih dan ular yang ekornya bunting, karena kedua jenis ular tersebut dapat membutakan mata dan menggugurkan kandungan.' [Az Zuhri] berkomentar; 'Menurut kami, hal itu disebabkan karena racunnya. Wallahu A'lam.' [Salim] berkata; ['Abdullah bin Umar] pernah menyatakan; 'Setiap ular yang saya lihat tidak pernah saya biarkan hidup, melainkan selalu saya bunuh. Pada suatu hari, ketika saya sedang memburu ular yang bersarang/mendekam di rumah, tiba-tiba [Zaid bin Khaththab] atau [Abu Lubabah] lewat seraya berkata; 'Hentikan hai Abdullah! ' Mendengar teguran itu, saya pun menjawab; 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah memerintahkan kami untuk membunuh ular.' Zaid bin Khaththab berkata; 'Sebenarnya Rasulullah melarang kita, kaum muslimin, untuk membunuh ular yang bersarang di rumah kita." Dan telah menceritakannya kepada kami [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Ma'mar]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Hasan Al Hulwani]; Telah menceritakan kepada kami [Ya'qub]; Telah menceritakan kepada kami [Bapakku] dari [Shalih] seluruhnya dari [Az Zuhri] melalui jalur ini. Hanya saja Shalih berkata dengan kalimat; 'Hingga [Abu Lubabah bin Abdul Mundzir] dan [Zaid bin Al Khaththab] melihatku, lalu keduanya berkata; sebenarnya Rasulullah shallallahu 'alaihi wasallam hanya melarang untuk membunuh ular yang bersarang di sekitar rumah kita. Sedangkan di dalam Hadits Yunus disebutkan; 'Bunuhlah ular-ular.' -tanpa menyebutkan yang bergaris dua putih dan yang buntung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5827</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5827</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

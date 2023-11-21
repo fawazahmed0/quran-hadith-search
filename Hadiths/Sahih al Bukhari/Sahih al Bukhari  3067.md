@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi' (ra):A horse of Ibn 'Umar fled and the enemy took it. Then the Mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3067</td></tr><tr><td>Arabic No</td><td>3067</td></tr><tr><td>Reference</td><td>Book 56 Hadith 272</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) конь ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, убежал и его захватили враги, а потом мусульмане одержали победу над (этими людьми) и этого коня ему вернули, что было при жизни Посланника Аллаха ﷺ . А (в другой раз) сбежал раб (‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими,) который присоединился к византийцам, а потом мусульмане одержали над ними победу, и Халид ибн аль-Валид вернул ему (этого раба, что было уже) после смерти Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3067</td></tr><tr><td>Arabic No</td><td>3067</td></tr><tr><td>Reference</td><td>Book 56 Hadith 272</td></tr></tbody></table></div>
 

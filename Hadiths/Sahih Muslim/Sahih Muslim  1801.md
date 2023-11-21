@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:(My father) Al-'Abbas sent me to the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Abdullah] dan [Muhammad bin Rafi'] keduanya berkata, telah menceritakan kepada kami [Wahb bin Jarir] telah mengabarkan kepadaku [bapakku] ia berkata, saya mendengar [Qais bin Sa'd] ia menceritakan dari ['Atha'] dari [Ibnu Abbas] ia berkata; "Al Abbas mengutusku menemui Nabi shallallahu 'alaihi wasallam, sementara beliau berada di rumah bibiku Maimunah. Maka pada malam itu aku menginap bersama beliau. Kemudian beliau bangun dan menunaikan shalat malam. Lalu saya ikut shalat di sebelah kiri beliau, namun beliau memindahkanku dari arah belakangnya dan menempatkanku di samping kanannya." Dan telah menceritakan kepadaku [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Abdul Malik] dari [Atha'] dari [Ibnu Abbas] ia berkata; Saya bermalan di rumah bibiku, Maimunah. Yakni sebagaimana hadits Ibnu Juraij dan Qais bin Sa'd
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>763.14</td></tr><tr><td>Reference</td><td>Book 6 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «Однажды (мой отец) ‘Аббас отправил к Пророку ﷺ, когда тот был в доме моей тёти Маймуны, и я провёл ту ночь вместе с ним. Ночью Пророк ﷺ стал совершать молитву, а я встал слева от него. Он же схватил меня из-за спины и поставил справа от себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>763.14</td></tr><tr><td>Reference</td><td>Book 6 Hadith 229</td></tr></tbody></table></div>
 

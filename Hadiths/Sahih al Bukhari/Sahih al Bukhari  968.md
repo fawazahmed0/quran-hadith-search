@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':The Prophet (ﷺ) delivered the Khutba on the day of Nahr ('Id
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari [Zubaid] dari [Asy Sya'bi] dari [Al Bara'] berkata, "Nabi shallallahu 'alaihi wasallam memberi khutbah kepada kami pada hari Nahr (penyembelihan kurban), beliau sabdakan: "Sesungguhnya yang pertama kali kami lakukan pada hari Raya kami ini adalah shalat. Kemudian kami pulang dan melaksanakan penyembelihan kurban. Maka barangsiapa mengerjakan seperti itu berarti dia telah memenuhi sunnah kami. Dan barangsiapa menyembelih kurban sebelum pelaksanaan shalat 'Ied maka itu hanyalah daging yang dipersembahkan untuk keluarganya dan tidak sedikitpun mendapatkan (pahala) ibadah kurban." Tiba-tiba pamanku, Abu Burdah bin Niyar, berdiri dan berkata, "Wahai Rasulullah, aku telah menyembelih hewan sebelum aku shalat, namun aku masih memiliki anak kambing yang lebih baik dari kambing yang telah berumur dua tahun." Maka beliau pun bersabda: "Jadikanlah ia sebagai pengganti (dari apa yang telah kamu sembelih sebelum shalat)." Atau beliau mengatakan: "Sembelihlah, namun hal itu tidak mencukupi oleh orang selainmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>968</td></tr><tr><td>Arabic No</td><td>968</td></tr><tr><td>Reference</td><td>Book 13 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара сказал: «Пророк ﷺ обратился к нам с проповедью в день жертвоприношения, сказав: “Поистине, первое с чего мы начинаем этот наш день — это совершение праздничной молитвы, а потом — возвращаемся и закалываем (жертвенных животных). Поступивший так, поступил в соответствии с нашей сунной. А если кто-то совершил жертвоприношение до молитвы, то это просто мясо, которое он преподнес своей семье, и это совсем не жертвоприношение”. Тогда мой дядя, Абу Бурда ибн Нияр встал и сказал: “О, Посланник Аллаха! Я зарезал животное до совершения (праздничной) молитвы, но у меня есть годовалая козочка, которая даже лучше, чем двухгодовалая коза. (Посланник Аллаха ﷺ) сказал: “Зарежь её, вместо той, однако жертвоприношение годовалой козы не будет действительным ни для кого после тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>968</td></tr><tr><td>Arabic No</td><td>968</td></tr><tr><td>Reference</td><td>Book 13 Hadith 17</td></tr></tbody></table></div>
 

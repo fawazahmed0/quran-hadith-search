@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. Samurah reported:’Umar said to Sa’d: people complain against you fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin 'Ubaidullah Abu 'Aun] dari [Jabir bin Samurah] dia berkata; Umar berkata kepada Sa'd; "Orang-orang mengadukan segala sesuatu kepadamu sampai dalam masalah shalat, [Sa'd] menjawab; "Aku suka memanjangkan shalatku pada dua raka'at pertama dan memendekkannya pada dua raka'at yang terakhir, aku tidak akan mengurangi sedikitpun apa yang telah aku dapatkan dari tata cara shalat Rasulullah shallallahu 'alaihi wasallam." Umar berkata; "Demikianlah dugaan saya tentang dirimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (770) Sahih Muslim (453)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>803</td></tr><tr><td>Arabic No</td><td>803</td></tr><tr><td>Reference</td><td>Book 2 Hadith 413</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн Самуры, да будет доволен им Аллах, что ‘Умар сказал Са‘ду: «Люди жалуются на тебя из-за всего, даже из-за молитвы!» Тот сказал в ответ: «Я удлиняю первые два рак‘ата и укорачиваю последние два, но поступаю я так потому, что так поступал Посланник Аллаха ﷺ». Он сказал: «Так мы о тебе и думали»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (770) Sahih Muslim (453)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>803</td></tr><tr><td>Arabic No</td><td>803</td></tr><tr><td>Reference</td><td>Book 2 Hadith 413</td></tr></tbody></table></div>
 

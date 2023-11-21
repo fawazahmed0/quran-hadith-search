@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muhammad (one of the narrators) reported:I asked Anas b. Malik (Allah be pleased
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Hisyam] dari [Muhammad] dia berkata; Saya bertanya kepada [Anas bin Malik] dan saya tahu bahwa dia orang yang berilmu, dia berkata; Sesungguhnya Hilal bin Umayyah menuduh istrinya berbuat serong dengan Syarik bin Sahma' yaitu saudara seibu Barra' bin Malik, dan laki-laki pertama kali yang melakukan li'an dalam Islam. Anas berkata; Lantas Hilal melakukan sumpah li'an di hadapan Rasulullah shallallahu 'alaihi wasallam, kemudian beliau bersabda: "Coba perhatikan perempuan itu, jika nanti anaknya putih, berambut lurus dan mata agak merah, tandanya bayi tersebut anaknya Hilal bin Umayah, namun jika matanya agak hitam, rambutnya keriting dan betisnya ramping, maka bayi tersebut adalah milik Syarik bin Sahma'." Kata Anas; Kemudian saya diberitahu orang bahwa anak tersebut bermata hitam, berambut keriting dan berbetis ramping
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3757</td></tr><tr><td>Arabic No</td><td>1496</td></tr><tr><td>Reference</td><td>Book 19 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3757</td></tr><tr><td>Arabic No</td><td>1496</td></tr><tr><td>Reference</td><td>Book 19 Hadith 15</td></tr></tbody></table></div>
 

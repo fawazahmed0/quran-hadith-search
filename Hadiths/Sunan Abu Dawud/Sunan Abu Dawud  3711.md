@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah said :Dates were steeped for the Apostel of Allah (ﷺ) in skin which 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Abdul Wahhab bin Abdul Majid Ats Tsaqafi] dari [Yunus bin 'Ubaid] dari [Al Hasan] dari [Ibunya] dari [Aisyah] radliallahu 'anhuma, ia berkata, "Rasulullah shallallahu 'alaihi wasallam dibuatkan perasan nabidz dalam geriba air minum yang diikat bagian atasnya dan memiliki mulut (untuk keluar air). Diperas waktu pagi dan diminum waktu sore, diperas waktu sore dan diminum waktu pagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2005)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3711</td></tr><tr><td>Arabic No</td><td>3711</td></tr><tr><td>Reference</td><td>Book 27 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Для Посланника Аллаха ﷺ делали набиз в бурдюке, который завязывался сверху и имел отверстие внизу. Когда набиз делали утром, (Посланник Аллаха ﷺ) начинал пить его вечером, когда же его делали вечером, он начинал пить его утром»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2005)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3711</td></tr><tr><td>Arabic No</td><td>3711</td></tr><tr><td>Reference</td><td>Book 27 Hadith 43</td></tr></tbody></table></div>
 

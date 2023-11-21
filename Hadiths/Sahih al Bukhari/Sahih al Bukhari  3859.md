@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman:"I asked Masruq, 'Who informed the Prophet (ﷺ) about th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaidullah bin Sa'id] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Mis'ar] dari [Ma'an bin 'Abdurrahman] berkata, aku mendengar [bapakku] berkata; Aku bertanya kepada [Masruq]; "Siapakah yang memberitahukan bahwa Nabi shallallahu 'alaihi wasallam bersama-sama jin yang mendengarkan al Qur'an pada suatu malam?. Maka dia berkata; "Bapakmu, yaitu [Abdullah bin Mas'ud], dimana dia berkata bahwa yang memberitahukan beliau tentang keberadaan jin itu adalah sebuah pohon
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3859</td></tr><tr><td>Arabic No</td><td>3859</td></tr><tr><td>Reference</td><td>Book 63 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, когда ‘Абдуллаха бин Мас‘уда, да будет доволен им Аллах, спросили: «Кто сообщил Пророку ﷺ о джиннах той ночью, когда они слушали Коран?» — он ответил: «(Пророку ﷺ) сообщило о них дерево»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3859</td></tr><tr><td>Arabic No</td><td>3859</td></tr><tr><td>Reference</td><td>Book 63 Hadith 84</td></tr></tbody></table></div>
 

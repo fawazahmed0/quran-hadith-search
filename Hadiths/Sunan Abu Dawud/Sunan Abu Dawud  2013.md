@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said “The Prophet(ﷺ) offered noon, afternoon, evening and night 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami ['Affan], telah menceritakan kepada kami [Hammad bin Salamah], telah mengabarkan kepada kami [Humaid] dari [Bakr bin Abdullah] dari [Ibnu Umar] dan [Ayyub], dari [Nafi'] bahwa Nabi shallallahu 'alaihi wasallam melakukan Shalat Zhuhur dan 'Ashar, Maghrib serta Isya' di Al Bathha' lalu tidur di sana kemudian masuk ke Mekkah, dan Ibnu Umar melakukan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2013</td></tr><tr><td>Arabic No</td><td>2013</td></tr><tr><td>Reference</td><td>Book 11 Hadith 293</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ совершил полуденную /зухр/ и послеполуденную молитвы /‘аср/, а также закатную /магриб/ и вечернюю /‘иша/ в Батхе, после чего поспал немного, а потом уже вошёл в Мекку. И сам Ибн ‘Умар поступал так же
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2013</td></tr><tr><td>Arabic No</td><td>2013</td></tr><tr><td>Reference</td><td>Book 11 Hadith 293</td></tr></tbody></table></div>
 

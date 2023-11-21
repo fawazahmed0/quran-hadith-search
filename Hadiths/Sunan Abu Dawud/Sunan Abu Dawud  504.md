@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Mahdhurah reported:The Messenger of Allah (May peace be upon him) taught me 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>504</td></tr><tr><td>Arabic No</td><td>504</td></tr><tr><td>Reference</td><td>Book 2 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Ибрахим ибн Исма‘иль ибн ‘Абдульмалик ибн Абу Махзура, который сказал: «Я слышал, как мой дед ‘Абдульмалик ибн Абу Махзура рассказывал о том, что он слышал, как Абу Махзура говорил: “Посланник Аллаха ﷺ продиктовал мне (слова) азана букву за буквой: Аллаху акбар! Аллаху акбар! Аллаху акбар! Аллаху акбар! Ашхаду ан ля иляха илля-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Хаййа ‘аля-с-салях! Хаййа ‘аля-с-салях! Хаййа ‘аляль-фалях! Хаййа ‘аляль-фалях!”»(Передатчик этого хадиса) сказал: «Во время (азана) на утреннюю молитву он говорил: “ас-Саляту хайрун мина-н-наум, ас-Саляту хайрун мина-н-наум”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>504</td></tr><tr><td>Arabic No</td><td>504</td></tr><tr><td>Reference</td><td>Book 2 Hadith 114</td></tr></tbody></table></div>
 

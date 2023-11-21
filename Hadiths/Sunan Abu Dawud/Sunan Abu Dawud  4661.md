@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by ‘Abd Allah b. Zam�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Ibnu Abu Fudaik] ia berkata; telah menceritakan kepadaku [Musa bin Ya'qub] dari [Abdur Rahman bin Ishaq] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah] bahwa [Abdullah bin Zam'ah] mengabarkan kepadanya dengan kabar tersebut. Ia berkata, "Ketika Nabi shallallahu 'alaihi wasallam mendengar suara Umar, Ibnu Zam'ah berkata, "Nabi shallallahu 'alaihi wasallam keluar hingga kepalanya terlihat dari balik kamarnya. Beliau lantas bersabda: "Tidak, tidak, tidak. Hendaklah yang memimpin shalat adalah Ibnu Abu Quhafah." Beliau ucapkan itu dengan marah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4661</td></tr><tr><td>Arabic No</td><td>4661</td></tr><tr><td>Reference</td><td>Book 42 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Зам‘а передаёт в этой истории, что, услышав голос ‘Умара, Пророк ﷺ высунул голову из своей комнаты и сказал: «Нет, нет, нет… Пусть с людьми молится Ибн Абу Кухафа!» Эти слова он произнёс, будучи разгневанным
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4661</td></tr><tr><td>Arabic No</td><td>4661</td></tr><tr><td>Reference</td><td>Book 42 Hadith 66</td></tr></tbody></table></div>
 

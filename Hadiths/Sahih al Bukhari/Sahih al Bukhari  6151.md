@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Haitham bin Abu Sinan:that he heard Abu Huraira in his narration, me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Asbagh] dia berkata; telah mengabarkan kepadaku [Abdullah bin Wahb] dia berkata; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Al Haitsam bin Abu Sinan] telah mengabarkan kepadanya, bahwa dia pernah mendengar [Abu Hurairah] dalam kisahnya menyebutkan bahwa Nabi shallallahu 'alaihi wasallam bersabda: bahwa saudara kalian (maksudnya Ibnu Rawahah) pernah mengucapkan perkataan jelek, bahkan dia mengatakan; "Di antara kita ada Rasulullah shallallahu 'alaihi wasallam yang membaca kitabnya, saat fajar merekah terang. Beliau memperlihatkan petunjuk kepada kita. Yang karenanya hati kita menjadi yakin, setelah nyata apa yang diucapkannya musti terjadi. Beliau bermalam dengan menjauhkan punggungnya dari tempat tidurnya, saat tempat tidur terasa berat bagi orang-orang kafir." Hadits ini juga diperkuat ['Uqail] dari [Az Zuhri], [Az Zubuaidi] mengatakan dari [Az Zuhri] dari [Sa'id], dan [Al A'raj] dari [Abu Hurairah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6151</td></tr><tr><td>Arabic No</td><td>6151</td></tr><tr><td>Reference</td><td>Book 78 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Абу Хурайра, передававший один из своих рассказов (людям), упомянул, что Пророк ﷺ сказал: «Поистине, брат ваш не говорит (ничего) непристойного», имея в виду Ибн Раваху (и его стихи):\nИ среди нас — Посланник Аллаха, читающий Книгу Его, когда занимается яркая заря. Он показал нам правильный путь после слепоты, и сердца наши убеждены, что сказанное им верно. Он проводит ночи, не касаясь боками своими постели, тогда как многобожники спят глубоким сном
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6151</td></tr><tr><td>Arabic No</td><td>6151</td></tr><tr><td>Reference</td><td>Book 78 Hadith 177</td></tr></tbody></table></div>
 

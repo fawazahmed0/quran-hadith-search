@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported Allah's Messenger (ﷺ) as saying:When you go to bed, say:" Praise
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yazid bin Harun] dari [Hammad bin Salamah] dari [Tsabit] dari [Anas] bahwasanya Rasulullah shallallahu 'alaihi wasallam apabila berbaring di tempat tidur, maka beliau mengucapkan doa: " ALHAMDU LIILAAHIL LADZII ATH'AMANAA WASAQOONAA WAKFAAANAA WA-A-WAANAA WASAQOONAA WAKAFAANAA WA-AWAANAA, FAKAM MIMMAN LAA KAAFIYA LAHU WALAA MU"WIYA Segala puji bagi Allah yang telah memberi kami makan dan minum, serta mencukupi kebutuhan kami dan memberikan kami tempat berlindung, karena masih banyak orang yang tidak mempunyai kecukupan dan tempat berlindung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6894</td></tr><tr><td>Arabic No</td><td>2715</td></tr><tr><td>Reference</td><td>Book 48 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6894</td></tr><tr><td>Arabic No</td><td>2715</td></tr><tr><td>Reference</td><td>Book 48 Hadith 87</td></tr></tbody></table></div>
 

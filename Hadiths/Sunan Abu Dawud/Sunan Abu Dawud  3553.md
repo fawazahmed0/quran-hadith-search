@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir:The Messenger of Allah (ﷺ) as saying: If anyone has property gi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] dan [Muhammad bin Al Mutsanna] mereka berkata; telah menceritakan kepada kami [Bisyr bin Umar] telah menceritakan kepada kami [Malik bin Anas] dari [Ibnu Syihab] dari [Abu Salamah] dari [Jabir bin Abdullah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Lelaki mana saja yang diberi umra, maka ia akan menjadi miliknya dan milik keturunannya. Yakni, ia akan menjadi milik orang yang diserahi, dan tidak kembali kepada orang yang memberinya, karena dia telah memberikan suatu pemberian yang padanya berlaku hukum waris." Telah menceritakan kepada kami [Hajjaj bin Abu Ya'qub] telah menceritakan kepada kami [Ya'qub] telah menceritakan kepada kami [Ayahku] dari [Shalih] dari [Ibnu Syihab] dengan sanad dan maknanya." Abu Daud berkata, " [Aqil] juga menceritakan dari [Ibnu Syihab] dan [Yazid bin Abu Habib] dari [Ibnu Syihab]. Dan telah diperselisihkan pada lafazh [Al Auza'i] dari [Ibnu Syihab] dan hadits tersebut telah diriwayatkan oleh [Fulaih bin Sulaiman] seperti hadits Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1625)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3553</td></tr><tr><td>Arabic No</td><td>3553</td></tr><tr><td>Reference</td><td>Book 24 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Подарок на срок жизни, сделанный любому человеку, принадлежит тому, кому он был подарен, а также его потомкам, и не возвращается к дарителю, потому что подарил подарок и подарок этот стал частью наследства (того, кому он был подарен)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1625)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3553</td></tr><tr><td>Arabic No</td><td>3553</td></tr><tr><td>Reference</td><td>Book 24 Hadith 138</td></tr></tbody></table></div>
 

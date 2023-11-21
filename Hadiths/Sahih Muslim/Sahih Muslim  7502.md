@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Abu Bakra reported on the authority of his father that a person
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Amru bin Abbad bin Habalah bin Abu Rawwad] telah menceritakan kepada kami [Muhammad bin Ja'far]. Telah menceritakan kepadaku [Abu Bakr bin nafi'] telah mengkhabarkan kepada kami [Ghundar] berkata: telah menceritakan kepada kami [Syu'bah] dari [Khalid Al Hadzdza'] dari [Abdurrahman bin Abu Bakrah] dari [ayahnya] dari nabi Shallallahu 'alaihi wa Salam, seseorang disebut-sebut disisi beliau lalu ada orang yang berkata: Wahai Rasulullah, tidak ada seorang pun setelah Rasulullah Shallallahu 'alaihi wa Salam yang lebih baik darinya dalam hal ini dan itu. Lalu nabi Shallallahu 'alaihi wa Salam bersabda: "Tercelalah kamu, kau memotong leher temanmu, kau memotong leher temanmu, " beliau mengucapkannya berkali-kali kemudian beliau bersabda: "Bila salah seorang dari kalian memuji temannya -tidak mustahil- hendaklah mengucapkan: 'Aku kira fulan -bila ia melihat seperti itu- dan aku tidak menyucikan seorang pun atas Allah." Telah menceritakannya kepadaku [Amru An Naqid] telah menceritakannya kepada kami [Hasyim bin Al Qosim] telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Syababah bin Sawwar] keduanya dari [Syu'bah] dengan sanad ini seperti hadits Yazid bin Zurai', dalam hadits keduanya tidak disebutkan: Lalu orang itu berkata: Tidak ada seorang pun setelah Rasulullah Shallallahu 'alaihi wa Salam yang lebih baik darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7502</td></tr><tr><td>Arabic No</td><td>3000.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7502</td></tr><tr><td>Arabic No</td><td>3000.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 84</td></tr></tbody></table></div>
 

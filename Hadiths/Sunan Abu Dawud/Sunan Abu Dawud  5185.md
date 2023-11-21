@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qays ibn Sa'd: The Messenger of Allah (ﷺ) came to visit us in our hou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hisyam Abu Marwan] dan [Muhammad Ibnul Mutsanna] secara makna, [Muhammad Ibnul Mutsanna] berkata; telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah menceritakan kepada kami [Al Auza'i] ia berkata; Aku mendengar [Yahya bin Abu Katsir] berkata; telah menceritakan kepadaku [Muhammad bin 'Abdurrahman bin As'ad bin Zurarah] dari [Qais bin Sa'd] ia berkata, "Rasulullah shallallahu 'alaihi wasallam mengunjungi kami di rumah milik kami, beliau lalu mengucapkan: "Assalamu Alaikum wa Rahmatullahi." Sa'd lalu menjawab salam tersebut dengan suara lirih." Qais berkata, "Aku bertanya, "Apakah kamu tidak memberi izin kepada Rasulullah shallallahu 'alaihi wasallam?" Sa'd menjawab, "Biarkan Rasulullah shallallahu 'alaihi wasallam memperbanyak salam kepada kami." Rasulullah shallallahu 'alaihi wasallam kemudian mengucapkan salam lagi: "Assalamu Alaikum wa Rahmatullahi." Sa'd lalu menjawab salam tersebut dengan suara lirih." Kemudian Rasulullah shallallahu 'alaihi wasallam kembali mengucapkan salam: "Assalamu Alaikum wa Rahmatullahi." Selah itu Rasulullah shallallahu 'alaihi wasallam kembali pulang, sementara Sa'd mengikutinya dari belakang. Sa'd berkata, "Wahai Rasulullah, sesungguhnya aku mendengar salammu, dan aku juga telah menjawab salammu dengan suara yang lirih dengan harapan engkau memperbanyak salam kepada kami." Akhirnya Rasulullah shallallahu 'alaihi wasallam bersama Sa'd kembali ke rumah Sa'd. Sa'd kemudian mempersilahkan Rasulullah untuk mandi, maka beliau pun mandi. Lalu ia menyediakan handuk yang telah dicelup dengan minyak Za'faran atau Wars (sejenis tumbuhan), sehingga beliau mengelap tubuhnya dengan handuk tersebut. Setelah itu Rasulullah shallallahu 'alaihi wasallam mengangkat kedua tangannya seraya berdoa: "Ya Allah, jadikanlah shalawat (kesejahteraan) dan rahmat-Mu tercurah kepada keluarga Sa'd bin Ubadah." Perawi berkata, "Kemudian Rasulullah shallallahu 'alaihi wasallam menyantap makanan, dan ketika beliau ingin berlalu pergi, Sa'd mendekatkan himar yang telah diberi alas selembar kain kepada Rasulullah shallallahu 'alaihi wasallam. Sa'd berkata, "Wahai Qais, temanilah Rasulullah shallallahu 'alaihi wasallam." Qais berkata, "Rasulullah shallallahu 'alaihi wasallam kemudian berkata kepadaku: "Naiklah." Aku diam. Kemudian beliau berkata lagi: "Engkau ikut naik atau engkau tidak usah ikut?" Qais berkata, "Maka aku pun memutuskan untuk tidak ikut." [Hisyam Abu Marwan] menyebutkan dari [Muhammad bin 'Abdurrahman bin As'ad bin Zurarah]. Abu Dawud berkata, " [Umar bin Abdul Wahid] dan [Ibnu Sama'ah] meriwayatkannya dari [Al Auza'I] secara mursal. Namun keduanya tidak menyebutkan Qais bin Sa'd
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 43 Hadith 413</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 43 Hadith 413</td></tr></tbody></table></div>
 

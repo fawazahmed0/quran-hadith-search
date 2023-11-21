@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Ash-Sharid:Abu Rafi' sold a house to Sa'd bin Malik for four-h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] mengatakan, Telah menceritakan kepadaku [Ibrahim bin Maisarah] dari [Amru bin Syarid], bahwasanya [Abu Rafi'] pernah mengajukan penawaran rumah keada Sa'd bin Malik seharga empat ratus mitsqal, dan ia mengatakan; 'Kalaulah aku tidak emndengar Nabi shallallahu 'alaihi wasallam bersabda: "Tetangga lebih berhak teradap dindingnya" niscaya tidak aku berikan kepadamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6981</td></tr><tr><td>Arabic No</td><td>6981</td></tr><tr><td>Reference</td><td>Book 90 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Амра ибн аш-Шарида, что Абу Рафи’ продал дом Са’ду ибн Малику за четыреста мискалей и сказал: «Если бы я не слышал, как Пророк ﷺ сказал: “Сосед имеет больше прав на то, что прилегает к его участку”, то не продал бы его тебе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6981</td></tr><tr><td>Arabic No</td><td>6981</td></tr><tr><td>Reference</td><td>Book 90 Hadith 28</td></tr></tbody></table></div>
 

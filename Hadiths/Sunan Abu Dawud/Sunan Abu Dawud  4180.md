@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ammar ibn Yasir: The Prophet (ﷺ) said: The angels do not come near th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] berkata, telah menceritakan kepada kami [Abdul Aziz bin Abdullah Al Uwaisi] berkata, telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Tsaur bin Zaid] dari [Al Hasan bin Abu Al Hasan] dari [Ammar bin Yasir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tiga kelompok yang tidak akan didekati oleh malaikat; bangkai orang kafir, orang yang berlebihan dalam menggunakan wewangian dan orang junub kecuali jika ia berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4180</td></tr><tr><td>Arabic No</td><td>4180</td></tr><tr><td>Reference</td><td>Book 35 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аммара ибн Ясира, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «К трём не приближаются ангелы: к телу умершего неверующего, к человеку, который умастил себя шафраном, и к пребывающему в состоянии большого осквернения, пока он не совершит (хотя бы) малое омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4180</td></tr><tr><td>Arabic No</td><td>4180</td></tr><tr><td>Reference</td><td>Book 35 Hadith 22</td></tr></tbody></table></div>
 

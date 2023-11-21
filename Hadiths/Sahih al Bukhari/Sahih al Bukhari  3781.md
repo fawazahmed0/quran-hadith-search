@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When 'Abdur-Rahman bin 'Auf came to us, Allah's Messenger (ﷺ) ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah] telah bercerita kepada kami [Isma'il bin Ja'far] dari [Humaid] dari [Anas radliallahu 'anhu] bahwa dia berkata; "Abdur Rahman tiba kepada kami lalu Rasulullah shallallahu 'alaihi wasallam mempersaudarakan dia dengan Sa'ad bin ar-Rabi'. Sa'ad adalah orang yang banyak hartanya. Sa'ad berkata; "Orang-orang Anshar sudah mengetahui semua bahwa aku adalah orang Anshar yang paling banyak hartanya. Maka kubagi hartaku untukku dan kamu menjadi dua bagian, dan aku memiliki dua orang istri. Maka lihatlah mana diantara keduanya yang menarik hatimu nanti aku akan ceraikan, dan apabila telah halal silakan kamu menikahinya". 'Abdur Rahman berkata; "Baik, semoga Allah memberkahimu pada keluargamu." Sejak hari itu dia tidak kembali melainkan dengan membawa sesuatu yag paling baik dari minyak samin dan keju. Dan dia tidak tinggal (di rumah) kecuali sebentar lalu datang kepada Rasulullah shallallahu 'alaihi wasallam dengan mengenakan baju dan wewangian. Rasulullah shallallahu 'alaihi wasallam bertanya kepadanya: "Bagaimana keadaanmu?". 'Abdur Rahman menjawab; "Aku sudah menikah dengan seorang wanita Anshar". Beliau bertanya lagi: "Berapa jumlah mahar yang kamu berikan padanya?". 'Abdur Rahman menjawab; "Perhiasan seberat biji emas atau sebiji emas". Lalu beliau bersabda: "Adakanlah walimah (resepsi) sekalipun hanya dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3781</td></tr><tr><td>Arabic No</td><td>3781</td></tr><tr><td>Reference</td><td>Book 63 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда ‘Абдуррахман ибн ‘Ауф прибыл в Медину, Посланник Аллаха ﷺ побратал его с Са‘дом ибн ар-Раби‘ аль-Ансари. Са‘д был богатым человек, поэтому он сказал ‘Абдуррахману: “Ансары знают, что я самый богатый из них. Я поделю своё имущество пополам, посмотри также, какая из двух моих жён тебе понравится, и я разведу её, а когда закончится её срок (‘идда), ты женишься на ней”. ‘Абдуррахман ответил: “Да благословит Аллах твою семью и твоё имущество!”. И он не вернулся (с рынка) до тех пор, пока не заработал сушёный творог и масло и принёс его домой. После того как прошло немного времени, он явился с жёлтыми следами (от благовоний на теле). Посланник Аллаха ﷺ спросил его: “Что это?” Он ответил: “Я женился на женщине из ансаров”. Он спросил: “Что же ты подарил ей?” Он ответил: “Золото, равное по весу (финиковой) косточке”. Тогда Пророк ﷺ сказал: “Тебе следует устроить свадебное угощение /валима/ хотя бы из одной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3781</td></tr><tr><td>Arabic No</td><td>3781</td></tr><tr><td>Reference</td><td>Book 63 Hadith 6</td></tr></tbody></table></div>
 

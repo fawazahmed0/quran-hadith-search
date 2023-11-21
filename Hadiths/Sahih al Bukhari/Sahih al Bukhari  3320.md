@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said "If a house fly falls in the drink o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Khalid bin Makhlad] telah menceritakan kepada kami [Sulaiman bin Bilal] berkata; telah bercerita kepadaku [Utbah bin Muslim] berkata; telah mengabarkan kepadaku [Ubaid bin Hunain] berkata; saya mendengar [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Jika ada seekor lalat yang terjatuh pada minuman kalian maka tenggelamkan kemudian angkatlah, karena pada satu sayapnya penyakit dan sayap lainnya terdapat obatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>3320</td></tr><tr><td>Reference</td><td>Book 59 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если муха упадёт в питьё кого-нибудь из вас, пусть он (сначала) погрузит её (в это питьё полностью), а потом вытащит её (оттуда) ибо, поистине, на одном её крыле — болезнь, а на другом — исцеление»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>3320</td></tr><tr><td>Reference</td><td>Book 59 Hadith 126</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:That once he was in the company of the Prophet (ﷺ) carryi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami ['Amru bin Yahya bin Sa'id] berkata, telah mengabarkan kepadaku [kakekku] dari [Abu Hurairah] radliallahu 'anhu, bahwa dia pernah membawakan sebuah kantung air terbuat dari kulit untuk wudlu' dan hajat Nabi shallallahu 'alaihi wasallam. Dan dia mengikuti beliau dengan membawa kantung air tersebut, beliau bertanya: "Siapakah ini?". Ia menjawab; "Saya Abu Hurairah". Maka beliau berkata: "Carikanlah aku beberapa batu untuk aku gunakan sebagai alat bersuci dan jangan bawakan aku tulang dan kotoran hewan". Kemudian aku datang dengan membawa beberapa batu dengan menggunakan ujung bajuku dan meletakkannya di samping beliau. Kemudian aku pergi. Ketika beliau telah selesai, aku berjalan bersama beliau bertanya; "kenapa dengan tulang dan kotoran hewan?". Beliau menjawab: "Keduanya termasuk makanan jin. Dan sesungguhnya pernah datang kepadaku utusan jin dari Nashibin, dia adalah sebaik-baik jin, lalu mereka meminta kepadaku tentang bekal. Maka aku memohon kepada Allah untuk mereka agar mereka tidak melewati tulang dan kotoran hewan melainkan mereka mendapatkannya sebagai makanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3860</td></tr><tr><td>Arabic No</td><td>3860</td></tr><tr><td>Reference</td><td>Book 63 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что обычно он носил за Пророком ﷺ воду для омовения и (для очищения после удовлетворения нужды, и однажды,) когда он шел за Пророком ﷺ со всем этим, он спросил: «Кто это?» (Абу Хурайра) отозвался: «(Это) я, Абу Хурайра», и (Пророк ﷺ) сказал: «Найди мне (несколько) камней для очищения, но не приноси ни костей, ни сухого навоза /раус/».(Абу Хурайра, да будет доволен им Аллах, сказал): «И я принес ему (несколько) камней в полах своей одежды, положив их рядом с ним, а сам отошел, когда же он закончил, я пошел (рядом с ним) и спросил: “А чем (плохи) кости и навоз?” (Пророк ﷺ) сказал: “Ими питаются джинны. (Однажды) ко мне явилась делегация джиннов Насибина, — и это были прекрасные джинны! — которые попросили меня (дать им) припасов на дорогу, и тогда я попросил Аллаха, чтобы пропитанием для них служили кости или сухой навоз в любом месте, где бы они ни нашли это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3860</td></tr><tr><td>Arabic No</td><td>3860</td></tr><tr><td>Reference</td><td>Book 63 Hadith 85</td></tr></tbody></table></div>
 

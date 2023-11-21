@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Prophet of Allah (may peace be, upon him) said: Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>477</td></tr><tr><td>Arabic No</td><td>193.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 383</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса ибн Малика, что Пророк Аллаха ﷺ сказал: «В День воскресенья Аллах соберёт верующих и придёт им в голову такая мысль…». Затем подобно предыдущем хадисам, но в этой версии он сказал: «…затем я вернусь к Нему в четвёртый раз и скажу: “Господи, не осталось в Огне никого, кроме тех, кого задержал Коран, то есть тех, кто обречён на вечное пребывание (там)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>477</td></tr><tr><td>Arabic No</td><td>193.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 383</td></tr></tbody></table></div>
 

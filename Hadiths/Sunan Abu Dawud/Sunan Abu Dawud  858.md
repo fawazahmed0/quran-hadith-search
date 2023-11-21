@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rifa'ah ibn Rafi': This version (of Hadith No 856) adds: The Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>858</td></tr><tr><td>Arabic No</td><td>858</td></tr><tr><td>Reference</td><td>Book 2 Hadith 468</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Рифа‘а ибн Рафи‘а, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Молитва любого из вас не будет совершенной, пока он не совершит омовение должным образом, как повелел ему Всемогущий и Великий Аллах. Он должен умыть лицо и вымыть руки до локтей, протереть голову и (вымыть) ноги до щиколоток, а потом произнести такбир, восхвалить Аллаха, прочитать из Корана то, что Аллах разрешил и облегчил ему». И он упомянул нечто подобное хадису Хаммада и сказал: «А потом совершить земной поклон, приложив лицо (или: лоб) к земле».А Хаммам говорил, что порой он передавал ещё: «…и оставаться в таком положении, расслабившись, пока каждый сустав не встанет на своё место, затем произнести такбир, сесть и выпрямиться». И он описал молитву полностью, четыре рак‘ата, (и в его версии говорится): «Молитва любого из вас не будет совершенной, пока он не будет делать это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>858</td></tr><tr><td>Arabic No</td><td>858</td></tr><tr><td>Reference</td><td>Book 2 Hadith 468</td></tr></tbody></table></div>
 

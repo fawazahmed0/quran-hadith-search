@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Muhairiz:I entered the Mosque and saw Abu Sa'id Al-Khudri and sat b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah mengabarkan kepada kami [Isma'il bin Ja'far] dari [Rabi'ah bin Abu Abdurrahman] dari [Muhammad bin Yahya bin Habban] dari [Ibnu Muhayriz] bahwa dia berkata; "Ketika aku masuk masjid, aku melihat Abu Sa'id Al Khudri, lalu aku duduk di sampingnya. Aku bertanya kepadanya tentang 'azal (senggama terputus). [Abu Sa'id] menjawab; "Kami bersama Rasulullah shallallahu 'alaihi wasallam pernah keluar pada perang Bani Al Mushtahaliq, kemudian kami berhasil menawan para wanita dari keturunan 'Arab, kami tertarik dengan para wanitanya hingga kami merasa ingin memilikinya, sementara kami lebih menyukai untuk melakukan 'azal. Lalu kami saling berkata; "Kita melakukan 'azal padahal Rasulullah shallallahu 'alaihi wasallam berada di tengah-tengah kita, sementara kita belum menyanyakannya kepada beliau." Akhirnya kami bertanya kepada beliau tentang masalah ini. Beliau menjawab: "Tidak sebaiknyakah kalian untuk tidak melakukannya? Sebab tidak ada satu jiwapun yang telah Allah tetapkan akan tercipta hingga hari kiamat kecuali dia pasti akan tercipta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4138</td></tr><tr><td>Arabic No</td><td>4138</td></tr><tr><td>Reference</td><td>Book 64 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Мы выступили в поход на бану аль-мусталик вместе с Посланником Аллаха ﷺ и захватили пленных из числа арабов. Нас влекло к женщинам, так как нам стало уже трудно переносить воздержание, и (сначала) мы хотели спать с ними, прерывая половой акт, но потом стали говорить: “Как можно делать это, не спросив Посланника Аллаха ﷺ, когда он находится с нами?” И мы спросили его об этом, на что он сказал: “Можно этого и не делать, ибо до самого Дня воскресения будет так, что какой бы душе ни суждено было появиться на свет, она обязательно появится”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4138</td></tr><tr><td>Arabic No</td><td>4138</td></tr><tr><td>Reference</td><td>Book 64 Hadith 182</td></tr></tbody></table></div>
 

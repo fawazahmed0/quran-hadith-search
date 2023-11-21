@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abis:I asked 'Aisha "Did the Prophet (ﷺ) forbid eating the meat of s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] berkata; telah menceritakan kepada kami [Sufyan] dari ['Abdurrahman bin Abis] dari [Bapaknya] ia berkata; "Aku bertanya kepada [Aisyah]; 'Apakah Nabi shallallahu 'alaihi wasallam melarang untuk makan daging sembelihan hari raya Adlha lebih dari tiga hari? ' Aisyah menjawab; "Beliau tidak melakukan itu kecuali pada tahun paceklik (manusia kelaparan), sehingga beliau berharap orang kaya memberi makan kepada yang miskin. Dan sungguh, kami biasa makan lengan kambing setelah lima belas hari." Lalu dikatakan; 'Apa yang mendorong kalian melakukan itu? ' Aisyah tertawa, lalu ia berkata; 'Keluarga Muhammad shallallahu 'alaihi wasallam tidak pernah merasa kenyang karena makan roti atau gandum lebih dari tiga hari hingga beliau bertemu dengan Allah.' [Ibnu Katsir] berkata; telah mengabarkan kepada kami [Sufyan] berkata; telah menceritakan kepada kami ['Abdurrahman bin Abis] dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5423</td></tr><tr><td>Arabic No</td><td>5423</td></tr><tr><td>Reference</td><td>Book 70 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абис сказал: «Я спросил ‘Аишу: “Запрещал ли Пророк ﷺ есть мясо жертвенных животных больше трёх дней (то есть запасаться мясом)?” Она ответила: “Он делал это в тот год, когда голодали люди, желая, чтобы богатый накормил бедного. Но потом мы ели даже нижнюю часть бараньей голени, (после того, как она хранилась) пятнадцать дней”. Её спросили: “Что же вынудило вас поступать так?” Она засмеялась и сказала: “(Члены) семьи Мухаммада не ели досыта пшеничного хлеба с приправой в течение трёх дней подряд, пока он не вернулся к Аллаху”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5423</td></tr><tr><td>Arabic No</td><td>5423</td></tr><tr><td>Reference</td><td>Book 70 Hadith 51</td></tr></tbody></table></div>
 

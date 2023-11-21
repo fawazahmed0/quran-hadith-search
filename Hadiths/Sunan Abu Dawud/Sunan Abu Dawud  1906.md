@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ja’far bin Muhammad reported on the authority of his father The Prophet (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah], telah menceritakan kepada Kami [Sulaiman yaitu Ibnu Bilal]. Telah diriwayatkan melalui jalur yang lain: Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Abdul Wahhab Ats Tsaqafi] dan maknanya satu, dari [Ja'far bin Muhammad], dari [ayahnya], bahwa Nabi shallallahu 'alaihi wasallam melakukan Shalat Zhuhur, dan 'Ashar dengan satu adzan di 'Arafah. Dan tidak melakukan shalat sunah serta dua iqamah. Beliau melakukan Shalat Maghrib, serta Isya' dijama', dengan satu adzan dan dua iqamah, serta tidak melakukan shalat sunah diantara keduanya. Abu Daud berkata; hadits ini di sanadkan oleh [Hatim bin Isma'il] dalam hadits yang panjang dan sanad Hatim bin Isma'il telah disepakati oleh [Muhammad bin Ali Al Ju'fi], dari [Ja'far], dari [ayahnya] dari [Jabir] hanya saja ia berkata; kemudian melakukan Shalat Maghrib serta 'Isya' dengan satu adzan dan satu iqamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>1906</td></tr><tr><td>Reference</td><td>Book 11 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джа‘фар ибн Мухаммад передаёт от своего отца, что Пророк ﷺ совершил полуденную молитву (зухр) вместе с послеполуденной (‘аср) с одним азаном и двумя икаматами на ‘Арафате, не совершая никаких дополнительных молитв между ними, и совершил в Муздалифе закатную (магриб) и вечернюю (‘иша) молитвы с одним азаном и двумя икаматами, соединив их, и не совершал между ними никаких дополнительных молитв
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>1906</td></tr><tr><td>Reference</td><td>Book 11 Hadith 186</td></tr></tbody></table></div>
 

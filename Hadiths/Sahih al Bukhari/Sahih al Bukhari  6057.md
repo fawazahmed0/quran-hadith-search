@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever does not give up false sta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Al Maqburi] dari [Ayahnya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa tidak meninggalkan perkataan kotor, melakukan hal itu dan masa bodoh, maka Allah tidak butuh (amalannya) meskipun dia meninggalkan makanan dan minumannya (puasa)." Ahmad berkata; Seorang laki-laki memahamkanku tentang isnad hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6057</td></tr><tr><td>Arabic No</td><td>6057</td></tr><tr><td>Reference</td><td>Book 78 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кто (во время поста) не оставит лживые речи и дела соответствующие этим речам и безрассудство, — то у Аллаха нет нужды в том, что бы такой человек оставлял свою пищу и питьё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6057</td></tr><tr><td>Arabic No</td><td>6057</td></tr><tr><td>Reference</td><td>Book 78 Hadith 87</td></tr></tbody></table></div>
 

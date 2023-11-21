@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah said: "The son of Adam hurts
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Azzuhri] dari [Sa'id bin Musayyab] dari [Abu Hurairah] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Allah Ta'ala berfirman: 'Anak adam menyakiti-Ku dan mencela masa, padahal Aku adalah masa, di tangan-Ku lah segala urusan, Akulah yang membolak-balikkan siang dan malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7491</td></tr><tr><td>Arabic No</td><td>7491</td></tr><tr><td>Reference</td><td>Book 97 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Всевышний Аллах сказал: “Меня обижает сын Адама (т.е.человек), ругая время, ибо Я есть время, всё в Моей власти и Я чередую ночь и день”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7491</td></tr><tr><td>Arabic No</td><td>7491</td></tr><tr><td>Reference</td><td>Book 97 Hadith 117</td></tr></tbody></table></div>
 

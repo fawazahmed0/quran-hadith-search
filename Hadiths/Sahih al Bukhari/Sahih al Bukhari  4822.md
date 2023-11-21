@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:It is a sign of having knowledge that, when you do not know s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Abu Ad Dluha] dari [Masruq] dia berkata; ketika aku menemui [Abdullah] dia berkata; Diantara tanda pemahaman (ilmu) seseorang adalah dengan mengatakan Allahu a'lam untuk sesuatu yang tidak ia ketahui. Sesungguhnya Allah berfirman kepada Nabi-Nya: Katakanlah (hai Muhammad): "Aku tidak meminta upah sedikitpun padamu atas da'wahku dan bukanlah aku termasuk orang-orang yang mengada-adakan. (Shaad: 86). Sesunggunya kaum Quraisy tatkala menyerang Nabi shallallahu 'alaihi wasallam dan mendurhakai beliau, beliau mendoakan mereka: "Ya Allah timpakan kepada mereka kelaparan seperti kaum Yusuf. Maka mereka tertimpa tahun kekeringan dan penderitaan hingga mereka memakan tulang dan bangkai. Seseorang melihat ke langit, ia melihat seperti wujud kabut antara dirinya dan langit karena kelaparan. Lalu mereka berkata; "Ya Tuhan kami, lenyapkanlah dari kami azab itu. Sesungguhnya kami akan beriman." Maka dikatakan kepada beliau, jika kami lenyapkan adzab dari mereka, mereka akan kembali durhaka. Namun Rasulullah shallallahu 'alaihi wasallam memohon kepada Rabbnya, Allah pun melenyapkannya dari mereka. Kemudian mereka kembali durhaka. Maka Allah membalas mereka pada hari perang Badar, itulah yang dimaksud firman Allah: "Maka tunggulah hari ketika langit membawa kabut yang nyata, yang meliputi manusia. inilah azab yang pedih." Hingga ayat: Sesungguhnya Kami adalah Pemberi balasan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4822</td></tr><tr><td>Arabic No</td><td>4822</td></tr><tr><td>Reference</td><td>Book 65 Hadith 344</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрук, да помилует его Аллах Всевышний, сказал:\n— (Однажды) я пришёл к ‘Абдуллаху (бин Мас‘уду), который сказал: «Поистине, если о том, чего ты не знаешь, сказать: “Я не знаю”, это будет (одним из признаков) знания, ведь Аллах сказал Своему Пророку ﷺ: “Скажи: “Я не требую у вас за это никакого вознаграждения, и не отношусь я к числу притворяющихся”. (Что же касается) курайшитов, то, когда они стали одолевать Пророка ﷺ и восставать против него, он (призвал на них проклятие и обратился к Аллаху с такими словами): “О Аллах, помоги мне (в борьбе) против них (и пошли им) семь (голодных лет), подобных семи (годам) Йусуфа!” После этого их поразила такая засуха, что из-за истощения они стали употреблять в пищу кости и падаль, а от голода люди видели между небом и землёй нечто вроде дыма, и они стали говорить: “Господь наш! Избавь нас от (этого) наказания, поистине, мы веруем!” — а (Пророку ﷺ) было сказано: “Если Мы избавим их (от этого), они (снова) вернутся (к своему) неверию”. Однако он обратился с мольбой к своему Господу, Который избавил их от этого, после чего они (снова) вернулись (к неверию), и отмщение Аллаха настигло их в день (битвы при) Бадре, о чём Всевышний сказал так: “Жди же того дня, когда небо станет испускать ясно видимый дым, который окутает собой людей. Это (и будет) мучительное наказание. (Тогда они скажут): “Господь наш! Избавь нас от (этого) наказания, поистине, мы веруем!” Но разве (пойдёт им на пользу) наставление? Ведь уже явился к ним посланник(, разъясняющий) ясно, а они отвернулись от него, сказав: “(Он кем-то) подучен и безумен!” Конечно, Мы избавим (вас от этого) наказания на короткое (время), но вы ведь вернётесь (к своему неверию)! Но в тот день, когда Мы нанесём (им) величайший удар, поистине, Мы отомстим!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4822</td></tr><tr><td>Arabic No</td><td>4822</td></tr><tr><td>Reference</td><td>Book 65 Hadith 344</td></tr></tbody></table></div>
 

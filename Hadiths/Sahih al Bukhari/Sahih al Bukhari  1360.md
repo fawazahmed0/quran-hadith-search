@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Musaiyab from his father:When the time of the death of Abu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Ya'qub bin Ibrahim] berkata, telah menceritakan [apakku] kepadaku dari [Shalih] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya telah mengabarkan kepada saya [Sa'id bin Al Musayyab] dari [bapaknya] bahwasanya dia mengabarkan kepadanya: "Ketika menjelang wafatnya Abu Tholib, Rasulullah Shallallahu'alaihiwasallam mendatanginya dan ternyata sudah ada Abu Jahal bin Hisyam dan 'Abdullah bin Abu Umayyah bin Al Mughirah. Maka Rasulullah Shallallahu'alaihiwasallam berkata, kepada Abu Tholib: "Wahai pamanku katakanlah laa ilaaha illallah, suatu kalimat yang dengannya aku akan menjadi saksi atasmu di sisi Allah". Maka berkata, Abu Jahal dan 'Abdullah bin Abu Umayyah: "Wahai Abu Thalib, apakah kamu akan meninggalkan agama 'Abdul Muthalib?". Rasulullah Shallallahu'alaihiwasallam terus menawarkan kalimat syahadat kepada Abu Tholib dan bersamaan itu pula kedua orang itu mengulang pertanyaannya yang berujung Abu Tholib pada akhir ucapannya tetap mengikuti agama 'Abdul Muthalib dan enggan untuk mengucapkan laa ilaaha illallah. Maka berkatalah Rasulullah Shallallahu'alaihiwasallam: "Adapun aku akan tetap memintakan ampun buatmu selama aku tidak dilarang". Maka turunlah firman Allah subhanahu wata'ala tentang peristiwa ini: ("Tidak patut bagi Nabi …") dalam QS AT-Taubah ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1360</td></tr><tr><td>Arabic No</td><td>1360</td></tr><tr><td>Reference</td><td>Book 23 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘ида ибн аль-Мусаййаба, да помилует Его Аллах Всевышний, что его отец (аль-Мусаййаб ибн Хазн), да будет доволен им Аллах, сказал:\n— Когда Абу Талиб был уже близок к смерти, к нему пришёл Посланник Аллаха ﷺ обнаруживший, что у него находятся Абу Джахль ибн Хишам и ‘Абдуллах ибн Абу Умаййа ибн аль-Мугъира. Посланник Аллаха ﷺ сказал Абу Талибу: «О дядя, произнеси слова “Нет бога (достойного поклонения), кроме Аллаха”, благодаря чему я смогу свидетельствовать за тебя пред Аллахом!» (Услышав это,) Абу Джахль и ‘Абдуллах ибн Умаййа (в один голос) воскликнули: «О Абу Талиб, неужели же ты отступишься от религии ‘Абд аль-Мутталиба?!» И после этого Посланник Аллаха ﷺ продолжал предлагать ему (произнести эти слова), а они повторяли своё, пока в конце концов Абу Талиб не произнёс свои последние слова, (подтвердив, что) он не отступится от религии ‘Абд аль-Мутталиба, и отказавшись сказать: «Нет истинного бога, кроме Аллаха». Тогда Посланник Аллаха ﷺ воскликнул: «Что до меня, то, клянусь Аллахом, я обязательно стану просить прощения для тебя, пока мне не будет запрещено делать это!» И тогда Аллах Всевышний ниспослал аят, в котором говорится: «Не подобает пророку и тем, кто уверовал, просить прощения для многобожников после того, как им стало ясно, что они — обитатели огня, даже если они и являются их родственниками»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1360</td></tr><tr><td>Arabic No</td><td>1360</td></tr><tr><td>Reference</td><td>Book 23 Hadith 113</td></tr></tbody></table></div>
 

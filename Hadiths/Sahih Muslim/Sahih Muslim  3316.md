@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' b. Jubair reported that Marwan b. al-Hakam (Allah be pleased with him) add
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Utbah bin Muslim] dari [Nafi' bin Jubair] bahwa Marwan bin Al Hakam menyampaikan khutbah kepada orang banyak. Lalu ia menyebutkan tentang kota Makkah dan penduduknya serta keharamannya. Namun ia tidak menyebutkan tentan kota Madinah dan penduduk serta keharamannya. Maka [Rafi' bin Khadij] pun menyahut seraya berkata, "Mengapa Anda menyebutkan tentang kota Makkah dan penduduknya serta keharamannya, sementara Anda tidak menyebutkan tentang Madinah dan penduduknya serta keharamannya. Padahal Rasulullah shallallahu 'alaihi wasallam telah mengharamkan daerah yang terletak di anatara kedua Labah (daerah bebatuan) -nya. Dan hal itu termaktub di dalam kulit Khaulani, jika Anda mau, maka saya akan membacakannya untuk Anda." Maka Marwan pun terdiam dan kemudian berkata, "Saya telah mendengar sebagian dari perkara itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3316</td></tr><tr><td>Arabic No</td><td>1361.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 520</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3316</td></tr><tr><td>Arabic No</td><td>1361.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 520</td></tr></tbody></table></div>
 

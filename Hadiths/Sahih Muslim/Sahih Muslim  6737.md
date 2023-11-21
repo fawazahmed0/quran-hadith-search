@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain repotted that it was said to Allah's Messenger (ﷺ):Has there b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Hammad bin Zaid] dari [Yazid Adh Dhuba'i]; Telah menceritakan kepada kami [Mutharif] dari ['Imran bin Hushain] dia berkata; Rasulullah shallallahu 'alaihi wasallam ditanya; Ya Rasulullah, apakah penghuni surga dapat mengetahui siapa penghuni neraka? Beliau menjawab: 'Ya.' Imran bertanya lagi; Kalau begitu buat apa mereka beramal? Beliau menjawab; 'Setiap orang akan dipermudah untuk melaksanakan apa yang telah ditetapkan baginya.' Telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami [Abdul Warits]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ishaq bin Ibrahim] dan [Ibnu Numair] dari [Ibnu 'Ulayyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Ja'far bin Sulaiman]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Al Mutsanna]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] seluruhnya dari [Yazid Ar Risyki] melalui jalur ini yang semakna dengan Hadits 'Abdu Warits. Dia berkata; Aku bertanya; 'Ya Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6737</td></tr><tr><td>Arabic No</td><td>2649.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6737</td></tr><tr><td>Arabic No</td><td>2649.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 15</td></tr></tbody></table></div>
 

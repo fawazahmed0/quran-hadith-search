@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbusSamh: I used to serve the Prophet (ﷺ). Whenever he intended to wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mujahid bin Musa] dan [Abbas bin Abdul Azhim Al Anbari] secara makna, mereka berdua berkata; Telah menceritakan kepada kami [Abdrurrahman bin Mahdi] telah menceritakan kepadaku [Yahya bin Al Walid] telah menceritakan kepadaku [Muhill bin Khalifah] telah menceritakan kepadaku [Abu As Samh] dia berkata; Saya pernah melayani Nabi shallallahu 'alaihi wasallam, apabila beliau hendak mandi, beliau bersabda: "Belakangilah aku". Maka saya pun membelakangi beliau, lalu saya menutupi beliau (sewaktu mandi) dengan cara membelakangi beliau itu. Setelah itu dibawalah Hasan dan Husain radliallahu 'anhuma kepada beliau, lalu mereka kencing di atas dada beliau. Maka saya datang untuk mencucinya, namun beliau bersabda: "Kencing anak perempuan itu di cuci, sedangkan kencing anak laki-laki cukup diperciki". Abbas berkata; Telah menceritakan kepada kami Yahya bin Al Walid Abu Dawud berkata; Dia adalah Abu Az Za'ra'. Harun bin Tamim berkata; dari Al Hasan, dia berkata; Semua kencing itu sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>376</td></tr><tr><td>Arabic No</td><td>376</td></tr><tr><td>Reference</td><td>Book 1 Hadith 376</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Самх сказал: «Я прислуживал Пророку ﷺ и однажды, когда он захотел искупаться, он сказал: “Отвернись”. Я отвернулся от него и прикрывал его, как вдруг пришел Хасан или Хусайн, да будет доволен ими обоими Аллах, и помочился на его грудь. Я подошел, чтобы отмыть его, и он сказал: “Мочу девочки нужно смыть, а мочу мальчика (достаточно) опрыснуть (водой)”».‘Аббас (ибн ‘Абдуль ‘Азым в своем риваяте этого хадиса) сказал: «Нам рассказал (этот хадис) Йахйа ибн Валид».Абу Дауд сказал: «Это Абу За‘раъ».Харун ибн Тамим сообщил, что аль-Хасан (аль-Басри) сказал: «Оба вида мочи одинаковы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>376</td></tr><tr><td>Arabic No</td><td>376</td></tr><tr><td>Reference</td><td>Book 1 Hadith 376</td></tr></tbody></table></div>
 

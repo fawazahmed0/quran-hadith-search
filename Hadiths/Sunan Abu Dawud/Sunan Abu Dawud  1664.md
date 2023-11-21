@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: When this verse was revealed: "And those who hoard 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Yahya bin Ya'la Al Muharibi], telah menceritakan kepada Kami [ayahku], telah menceritakan kepada Kami [Ghailan] dari [Ja'far bin Iyas] dari [Mujahid] dari [Ibnu Abbas], ia berkata; tatkala turun ayat: "Dan orang-orang yang menyimpan emas dan perak….." Maka hal tersebut terasa berat atas orang-orang muslim. Kemudian Umar radliallahu 'anhu berkata; aku akan melapangkan hal itu dari kalian. Kemudian ia pergi dan berkata; wahai Rasulullah, sesungguhnya ayat ini telah terasa berat atas orang-orang muslim. Kemudian Rasulullah shallla Allahu 'alaihi wa sallam berkata: "Sesungguhnya Allah tidak mewajibkan zakat kecuali untuk mensucikan apa yang tersisa dari harta kalian, dan mewajibkan warisan untuk orang-orang yang kalian tinggalkan." Maka Umar pun bertakbir, kemudian Rasulullah shallla Allahu 'alaihi wa sallam berkata kepada Umar: "Maukah aku beritahukan simpanan paling baik yang disimpan oleh seseorang? Yaitu istri yang shalih yang apabila suaminya melihatnya maka ia akan menyenangkannya, dan apabilla ia memerintahkannya, maka diapun mentaatinya, dan kalau suaminya pergi maka dia akan menjaga amanahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1664</td></tr><tr><td>Arabic No</td><td>1664</td></tr><tr><td>Reference</td><td>Book 9 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+[‘Абдуллах] ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Когда был ниспослан аят “Обрадуй же тех, которые накапливают золото и серебро и не расходуют их на пути Аллаха, мучительными страданиями”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1664</td></tr><tr><td>Arabic No</td><td>1664</td></tr><tr><td>Reference</td><td>Book 9 Hadith 109</td></tr></tbody></table></div>
 

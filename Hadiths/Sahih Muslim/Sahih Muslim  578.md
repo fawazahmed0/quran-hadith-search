@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uthman b. 'Affan reported:The Messenger of Allah (way peace be upon him) said: H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ma'mar bin Rib'i al-Qaisi] telah menceritakan kepada kami [Abu Hisyam al-Makhzumi] dari [Abdul Wahid] -yaitu Ibnu Ziyad- telah menceritakan kepada kami [Utsman bin Hakim] telah menceritakan kepada kami [Muhammad bin al-Munkadir] dari [Humran] dari [Utsman bin Affan] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berwudlu, lalu membaguskan wudlunya, niscaya kesalahan-kesalahannya keluar dari badannya hingga keluar dari bawah kuku-kukunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>578</td></tr><tr><td>Arabic No</td><td>245</td></tr><tr><td>Reference</td><td>Book 2 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Усмана ибн ‘Аффана, что Посланник Аллаха ﷺ сказал: «Грехи того, кто совершит омовение наилучшим образом, покидают его тело так, что выходят даже из-под ногтей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>578</td></tr><tr><td>Arabic No</td><td>245</td></tr><tr><td>Reference</td><td>Book 2 Hadith 45</td></tr></tbody></table></div>
 

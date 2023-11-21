@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Whenever we went up a place we would say, "Allahu--
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Sufyan] dari [Hushain bin 'Abdur Rahman] dari [Salim bin Abu Al Ja'di] dari [Jabir bin 'Abdullah radliallahu 'anhuma] berkata: "Apabila kami berjalan mendaki (naik), kami bertakbir dan apabila menuruni jalan kami bertasbih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 56 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Когда мы поднимались (в гору), то говорили: “Аллах велик!”, а когда спускались (в вади), говорили: “Пречист Аллах!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 56 Hadith 202</td></tr></tbody></table></div>
 

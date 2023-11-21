@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said: Abraham did not tell lies except th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Talid] Telah mengabarkan kepadaku [Ibnu Wahb] ia berkata; Telah mengabarkan kepadaku [Jarir bin Hazim] dari [Ayyub] dari [Muhammad] dari [Abu Hurairah] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda. -dalam riwayat lain- Telah menceritakan kepada kami [Sulaiman] dari [Hammad bin Zaid] dari [Ayyub] dari [Muhammad] dari [Abu Hurairah] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Ibrahim tidak pernah berdusta kecuali tiga kedustaan. Yaitu; Ketika Ibrahim melewati Penguasa diktator bersama Sarah. -Lalu beliau pun menuturkan kisahnya- lantas raja dictator itu malahan memberi Sarah seorang hamba sahaya namanya Hajar. Sarah berkata, 'Allah telah menahan tangan orang kafir (untuk menyentuhku) dan malahan memberiku seorang pelayan yang namanya Ajar (maksudnya sama, Hajar).'" Abu Hurairah berkata; Itulah nenek moyang kalian wahai Bani Ma'as Sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5084</td></tr><tr><td>Arabic No</td><td>5084</td></tr><tr><td>Reference</td><td>Book 67 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Ибрахим никогда не лгал, за исключением трёх случаев: (один из них был,) когда Ибрахим вместе с Сарой проходил мимо одного (царя) тирана…». Затем Абу Хурайра рассказал всю историю, в конце которой было: «…тогда он (царь) подарил (Саре) Хаджар, и она сказала: “Аллах удержал руки неверного и даровал нам в служение Хаджар!” Абу Хурайра добавил: “Она (Хаджар) — ваша мать, о бану маъис-сама (дети дождя, то есть арабы)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5084</td></tr><tr><td>Arabic No</td><td>5084</td></tr><tr><td>Reference</td><td>Book 67 Hadith 22</td></tr></tbody></table></div>
 

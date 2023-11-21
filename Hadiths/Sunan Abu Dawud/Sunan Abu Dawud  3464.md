@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad or 'Abd Allah b. Mujahid said:'Abd Allah b. Shaddad and Abu Burdah disp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Katsir] telah mengabarkan kepada kami [Syu'bah] telah mengabarkan kepadaku [Muhammad atau Abdullah bin Mujalid] ia berkata, "Abdullah bin Syaddad dan Abu Burdah berselisih mengenai jual beli salaf. Kemudian mereka mengirim aku kepada Ibnu Abu Aufa untuk bertanya kepadanya. [Ibnu Abu Aufa] lalu berkata, "Pada masa Rasulullah shallallahu 'alaihi wasallam, Abu Bakar dan Umar kami pernah menjual jewawut, kurma dan kismis secara salaf - [Ibnu Katsir] menambahkan- kepada suatu kaum yang tidak memiliki barang tersebut -Kemudian keduanya sepakat pada lafazh-, dan aku bertanya kepada [Ibnu Abza], lalu ia mengatakan seperti itu." Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Yahya] dan [Ibnu Mahdi] mereka berkata; telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Abu Al Mujalid] dan Abdurrahman menyebutkan hadits ini dari Ibnu Abu Al Mujalid. Ia berkata, "Pada suatu kaum yang tidak memiliki barang tersebut." Abu Daud berkata, "Yang benar adalah Ibnu Abu Al Mujalid, dan Syu'bah dalam hal ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2243)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3464</td></tr><tr><td>Arabic No</td><td>3464</td></tr><tr><td>Reference</td><td>Book 24 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухаммад или ‘Абдуллах ибн Муджалид передаёт: «‘Абдуллах ибн Шаддад и Абу Бурда разошлись во мнениях о покупке товара заранее с получением через определённое время и послали меня к Ибн Абу ‘Ауфе, чтобы я спросил его об этом. Ибн Абу ‘Ауфа, да будет доволен им Аллах, передаёт: “Во времена Посланника Аллаха ﷺ Абу Бакра и ‘Умара мы покупали заранее урожай пшеницы и ячменя, фиников и изюма у людей, у которых этого ещё не было”. И я спросил Ибн Абза, и он сказал мне нечто подобное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2243)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3464</td></tr><tr><td>Arabic No</td><td>3464</td></tr><tr><td>Reference</td><td>Book 24 Hadith 49</td></tr></tbody></table></div>
 

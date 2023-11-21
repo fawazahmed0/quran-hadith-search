@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), on interrogea le Prophète (paix et
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Abdullah bin Habib bin Abu Tsabit] dari [Abdullah bin Abdurrahman bin Abu Husain] dari ['Atha] dari ['Aisyah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah ditanya perihal hijrah." Beliau menjawab: "Tidak ada hijrah setelah Fathu Makkah, namun yang ada hanyalah jihad dan niat (yang baik-pent). Dan apabila kalian diminta untuk pergi berperang, maka pergilah kalian ke medan perang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>1864</td></tr><tr><td>Reference</td><td>Book 33 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>1864</td></tr><tr><td>Reference</td><td>Book 33 Hadith 127</td></tr></tbody></table></div>
 

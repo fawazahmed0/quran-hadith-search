@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The Prophet (ﷺ) forbade two kinds of dresses and two kinds 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada kami ['Abdul A'la] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhriy] dari ['Atho' bin Yazid] dari [Abu Sa'id radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam melarang libsatain dan dua cara jual beli yaitu mulamasah dan munabadzah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2147</td></tr><tr><td>Arabic No</td><td>2147</td></tr><tr><td>Reference</td><td>Book 34 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил два вида одежды и два вида торговли: мулямаса и мунабаза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2147</td></tr><tr><td>Arabic No</td><td>2147</td></tr><tr><td>Reference</td><td>Book 34 Hadith 99</td></tr></tbody></table></div>
 

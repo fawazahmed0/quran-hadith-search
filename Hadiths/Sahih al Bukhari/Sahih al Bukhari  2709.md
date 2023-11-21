@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:My father died and was in debt. I suggested that hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami ['Abdul Wahhab] telah bercerita kepada kami ['Ubaidullah] dari [Wahb bin Kaisan] dari [Jabir bin 'Abdullah radliallahu 'anhuma] berkata: "Bapakku meninggal dunia dan memiliki hutang lalu aku tawarkan kepada para piutangnya untuk mengambil kurma miliknya sebanding dengan hutangnya namun mereka menolaknya dan menganggap bahwa hal itu belum cukup lunas. Lalu aku menemui Nabi shallallahu 'alaihi wasallam dan aku ceritakan hal itu maka Beliau berkata: "Jika kamu hendak memanen (kurmamu) lalu kamu letakkan dalam sebuah loyang maka beritahulah Rasulullah shallallahu 'alaihi wasallam". Maka Beliau datang bersama dengan Abu Bakar dan 'Umar lalu Beliau duduk di loyang tersebut seraya mendoakan keberkahan kemudian Beliau berkata: "Panggilah para piutang kamu itu lalu lunasilah". Maka tidak ada satupun orang yang bapakku berhutang padanya melainkan telah aku lunasi dan masih tersisa tiga belas wasaq dari kurma 'ajwah sebanyak tujuh wasaq dan kurma lain enam wasaq atau enam wasaq kurma 'ajwah dan tujuh wasaq kurma jenis lain. Lalu aku memenuhi shalat maghrib bersama Rasulullah shallallahu 'alaihi wasallam dan akupun menceritakan hal itu kepadanya, maka beliau tersenyum, dan bersabda; temuilah Abu Bakar dan Umar lalu bertahukan hal itu kepadanya". Maka keduanya berkata: 'Sungguh kami telah tahu bahwa bila Rasulullah shallallahu 'alaihi wasallam berbuat pasti akan terjadi". Dan berkata [Hisyam] dari [Wahb] dari [Jabir]: "Sholat 'Ashar dan tidak menyebut Abu Bakar dan tidak juga disebutkan Beliau tersenyum". Dan dia berkata: "Dan bapakku meninggalkan hutang sebanyak tiga puluh wasaq". Dan berkata [Ibnu Ishaq] dari [Wahb] dari [Jabir]: "Sholat azh-Zhuhur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2709</td></tr><tr><td>Arabic No</td><td>2709</td></tr><tr><td>Reference</td><td>Book 53 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Мой отец умер, оставив долги. И я предложил заимодавцам взять финики в счёт его долга, но они отказались, посчитав, что это не покроет весь долг. Тогда я пришёл к Пророку ﷺ и рассказал об этом, и он сказал: “Когда соберёшь финики и положишь их в аль-мирбад (место, где сушат финики), позови меня”. (Джабир так и сделал). Посланник Аллаха ﷺ пришёл вместе с Абу Бакром и ‘Умаром. Он сел возле фиников и призвал Аллаха, чтобы Он благословил их. Затем он сказал: “Позови заимодавцев и расплатись с ними”. Я расплатился со всеми, кому должен был мой отец, и после этого у меня осталось ещё тринадцать васков (фиников) — семь из них сорта “аджуа” и шесть сорта “лёун” (или шесть “аджуа”, семь “лёун”). Совершив молитву магриб с Посланником Аллаха ﷺ, я рассказал ему о случившемся, он засмеялся, сказав: “Иди к Абу Бакру и ‘Умару и расскажи им это”. (После того как он им рассказал,) они сказали: “Когда Посланник Аллаха ﷺ делал то, что он делал, мы поняли, что так и будет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2709</td></tr><tr><td>Arabic No</td><td>2709</td></tr><tr><td>Reference</td><td>Book 53 Hadith 19</td></tr></tbody></table></div>
 

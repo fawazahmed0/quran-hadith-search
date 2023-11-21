@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Miqdam b. Shuraih narrated it from his father who said:I asked A'isha what Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-Ala'] telah menceritakan kepada kami [Ibnu Bisyr] dari [Mis'ar] dari [al-Miqdam bin Syuraih] dari [bapaknya] dia berkata, "Saya bertanya kepada [Aisyah], aku bertanya, 'Dengan tindakan apa Nabi shallallahu 'alaihi wasallam memulai apabila masuk ke rumahnya? ' Dia menjawab, 'Dengan bersiwak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>590</td></tr><tr><td>Arabic No</td><td>253.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мис‘ара о том, что аль-Микъдам ибн Шурайх сообщил, что его отец сказал: «(Однажды) я спросил у ‘Аиши. Я сказал: “С чего начинал Посланник Аллаха ﷺ, когда заходил к себе домой?” Она ответила: “С зубочистки”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>590</td></tr><tr><td>Arabic No</td><td>253.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 57</td></tr></tbody></table></div>
 

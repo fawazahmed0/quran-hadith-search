@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zainab (bint Abu Salama) (Allah be pleased with her) reported:I went to Umm Habi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di depan [Malik] dari [Abdullah bin Abu Bakar] dari [Humaid bin Nafi'] dari [Zaenab binti Abi Salamah] bahwa dirinya telah mengabarkan kepadanya tentang ketiga hadits ini, Humaid berkata; Zaenab mengatakan; Saya pernah menemui [Ummu Habibah] istri Nabi shallallahu 'alaihi wasallam sesaat setelah ayahnya yaitu Abu Sufyan meninggal dunia, kemudian Ummu Habibah meminta untuk diambilkan khuluq (yaitu sejenis wewangian yang berwarna kuning), atau yang sejenis itu, kemudian dia meminyaki budak perempuannya dan mengolesi kedua pelipisnya sendiri, lalu dia berkata; "Demi Allah, sebenarnya saya tidak membutuhkan wewangian ini, kalaulah bukan karena saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda di atas mimbar: "Tidak halal bagi seorang wanita yang beriman kepada Allah dan Hari Akhir melakukan ihdad (berkabung dengan meninggalkan berhias) terhadap mayyit melebihi tiga hari, kecuali kematian suaminya yaitu empat bulan sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3727</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3727</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

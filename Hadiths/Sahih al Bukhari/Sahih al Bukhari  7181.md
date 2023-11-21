@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:(the wife of the Prophet) Allah's Messenger (ﷺ) heard some 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Salih] dari [Ibnu Syihab] mengatakan, [Urwah bin Zubair] mengabarkan kepadaku, bahwasanya [Zainab binti Abu Salamah] mengabarkan kepadanya, bahwa [Ummu Salamah isteri Nabi shallallahu 'alaihi wasallam] mengabarinya dari Rasulullah shallallahu 'alaihi wasallam; Beliau mendengar pertengkaran di pintu kamarnya, spontan beliau keluar menemui mereka dan mengatakan; "Saya hanyalah manusia biasa seperti kalian, dan aku mendapatkan pengaduan, siapa tahu diantara kalian lebih pandai bersilat lidah daripada yang lain, sehingga aku menyangka dirinya benar (padahal tidak), lalu aku putuskan untuknya, maka barangsiapa kuputuskan menang dengan melanggar hak saudaranya semuslim, sama artinya aku mengambilkan suluh api baginya, maka silahkan ia ambil atau ia tinggalkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7181</td></tr><tr><td>Arabic No</td><td>7181</td></tr><tr><td>Reference</td><td>Book 93 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов жены Пророка ﷺ Умм Саламы, да будет доволен ею Аллах, что однажды Посланник Аллаха ﷺ услышал (шум) спора у дверей своей комнаты, вышел к (спорившим) и сказал: «Поистине, я — только человек, а (люди) приходят ко мне (со своими) спорами. И может оказаться так, что кто-нибудь из вас будет более красноречив, чем другой, и я посчитаю, что он сказал правду, и вынесу решение в его пользу на основании этого. Однако если я (по ошибке) решу отдать ему то, что по праву принадлежит (другому) мусульманину, это будет не чем иным, как частью (пламени) ада, так пусть он (сам) возьмёт это или откажется от этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7181</td></tr><tr><td>Arabic No</td><td>7181</td></tr><tr><td>Reference</td><td>Book 93 Hadith 44</td></tr></tbody></table></div>
 

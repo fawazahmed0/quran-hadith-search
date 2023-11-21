@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Journey is a piece of tortur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Sumayya, maula Abu Bakar] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] Rasulullah shallallahu 'alaihi wasallam bersabda: "Safar (bepergian) itu bagian (setengah) dari adzab (siksa) karena jika seorang dari kalian bepergian terkurangi tidur, makan dan minumnya. Apabila salah seorang dari kalian telah menyelesaikan urusannya (saat bepergian) hendaklah dia segera kembali kepada keluarganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3001</td></tr><tr><td>Arabic No</td><td>3001</td></tr><tr><td>Reference</td><td>Book 56 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Путешествие является разновидностью мучения, (поскольку) лишает вас возможности спать (должным образом), есть и пить, поэтому, пусть тот, кто завершит свои дела (ради которых он вышел в путь), поспешит (вернуться) к своей семье»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3001</td></tr><tr><td>Arabic No</td><td>3001</td></tr><tr><td>Reference</td><td>Book 56 Hadith 210</td></tr></tbody></table></div>
 

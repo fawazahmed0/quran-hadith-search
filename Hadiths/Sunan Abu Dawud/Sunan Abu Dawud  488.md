@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:The Jews came to the Prophet (May peace be upon him) and he wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az-Zuhri] telah menceritakan kepada kami [seorang laki-laki dari Muzainah] dan tatkala itu kami sedang bersama Sa'id bin Al-Musayyib dari [Abu Hurairah], dia berkata; Orang-orang yahudi mendatangi Rasulullah shallallahu 'alaihi wasallam ketika beliau sedang duduk-duduk di tengah-tengah para sahabatnya di masjid, mereka berkata; Wahai Abul Qasim, apakah hukum seorang laki-laki dan seorang wanita yang berzina dari kalangan mereka?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>488</td></tr><tr><td>Arabic No</td><td>488</td></tr><tr><td>Reference</td><td>Book 2 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «(Однажды) иудеи явились к Пророку ﷺ когда он сидел в мечети со своими сподвижниками и сказали: “О Абуль-Къасим!” (И они упомянули) о мужчине и женщине из их числа, которые совершили прелюбодеяние»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>488</td></tr><tr><td>Arabic No</td><td>488</td></tr><tr><td>Reference</td><td>Book 2 Hadith 98</td></tr></tbody></table></div>
 

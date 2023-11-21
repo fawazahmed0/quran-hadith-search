@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Barrad Al Asy'ari] dan [Abu Kuraib] lafazh ini milik Abu Kuraib keduanya berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya perumpamaanku dan ajaran yang dengannya Allah mengutusku adalah bagaikan seseorang yang mendatangi kaumnya seraya berkata; 'Wahai kaumku, sungguh aku telah melihat pasukan musuh, dengan mata kepalaku sendiri, datang untuk menyerbumu dan aku benar-benar pemberi peringatan yang tulus untuk keselamatan dirimu. Maka sebagian kaumnya ada yang patuh dan ta'at, hingga akhirnya mereka secara perlahan-lahan berangkat pergi dari kampung tersebut pada malam hari untuk menghindari serbuan pasukan musuh. Namun, ada pula sebagian kaumnya yang mendustakan orang yang memberi peringatan dan mereka tetap bertahan serta menetap di kampung itu sampai pagi hari. Tapi sayangnya, pasukan musuh menyerbu dan merusak kampung mereka di pagi hari. Itulah perumpamaan orang yang mematuhi dan mengikuti ajaran yang aku bawa, serta perumpamaan orang yang durhaka dan mendustakan kebenaran yang aku sampaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5954</td></tr><tr><td>Arabic No</td><td>2283</td></tr><tr><td>Reference</td><td>Book 43 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5954</td></tr><tr><td>Arabic No</td><td>2283</td></tr><tr><td>Reference</td><td>Book 43 Hadith 17</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) Abu Hudhaifa, one of those who fought 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] telah mengabarkan kepadaku ['Urwah bin Az Zubair] dari ['Aisyah, istri Nabi shallallahu 'alaihi wasallam]; "Bahwa Abu Hudzaifah, salah seorang yang ikut perang Badar bersama Rasulullah shallallahu 'alaihi wasallam menjadikan Salim sebagai anak angkatnya lalu menikahkannya dengan putri saudaranya yang bernama Hindun binti Al Walid bin 'Utbah. Dia adalah mantan budak seorang wanita kaum Anshar sebagaimana Rasulullah shallallahu 'alaihi wasallam menjadikan Zaid sebagai anak angkat beliau. Dahulu pada zaman Jahiliyyah, siapa yang menjadikan seseorang sebagai anak angkatnya, orang-orang memanggil sebutan ayah anak angkat itu dengan nama bapak angkatnya dan mendapatkan hak warisan dari harta warisan (ayah angkatnya) hingga Allah Ta'ala menurunkan firman-Nya dalam QS al-Ahzab ayat 5 yang artinya: "Panggilah mereka (anak angkat kalian) dengan nama bapak-bapak kandung mereka...". Kemudian Sahlah mendatangi Nabi shallallahu 'alaihi wasallam. Lalu perawi menceritakan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>4000</td></tr><tr><td>Reference</td><td>Book 64 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что (в своё время) Абу Хузейфа, который был одним из участников битвы при Бадре вместе с Посланником Аллаха ﷺ усыновил Салима, (подобно тому, как Посланник Аллаха ﷺ усыновил Зейда), и женил его на дочери своего брата (, которую звали) Хинд бинт аль-Валид ибн ‘Утба. Салим являлся вольноотпущенником одной женщины из числа ансаров, а надо сказать, что, когда человек усыновлял кого-нибудь в эпоху джахилийи, люди называли усыновлённого его сыном и он становился наследником (своего приёмного отца. Так было), пока Аллах не ниспослал (аят, в котором сказано): «Обращайтесь к ним по (именам) их (родных) отцов» (сура «аль-Ахзаб», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>4000</td></tr><tr><td>Reference</td><td>Book 64 Hadith 51</td></tr></tbody></table></div>
 

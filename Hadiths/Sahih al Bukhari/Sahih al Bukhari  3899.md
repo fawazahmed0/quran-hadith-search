@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid bin Jabir Al-Makki:'Abdullah bin 'Umar used to say, "There is n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Yazid ad Damasyqi] telah menceritakan kepada kami [Yahya bin Hamzah] berkata, telah menceritakan kepadaku [Abu 'Amru Al Auza'i] dari ['Abdah bin Abu Lubabah] dari [Mujahid bin Jabr Al Makki] bahwa ['Abdullah bin 'Umar] radliallahu 'anhuma pernah berkata; "Tidak ada hijrah setelah kemenangan (penaklukan kota Makah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3899</td></tr><tr><td>Arabic No</td><td>3899</td></tr><tr><td>Reference</td><td>Book 63 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, говорил: «Нет хиджры (переселения) после завоевания (Мекки)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3899</td></tr><tr><td>Arabic No</td><td>3899</td></tr><tr><td>Reference</td><td>Book 63 Hadith 124</td></tr></tbody></table></div>
 

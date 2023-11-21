@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "While I was sleepi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdan] telah mengabarkan kepada kami [Abdullah] dari [Yunus] dari [Az Zuhriy] berkata, telah mengabarkan kepadaku [Ibnu Al Musayyab], dia mendengar [Abu Hurairah radliallahu 'anhu] berkata, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Ketika aku sedang tidur, aku (bermimpi) melihat diriku ada di samping sebuah sumur yang memiliki timba lalu aku mengambil air dengan timba itu sesuai kehendak Allah. Kemudian timba itu diambil oleh Ibnu Abu Quhafah lalu dia menimba sebanyak satu atau dua timba air dan pada tarikannya itu ada kelemahan dan Allah telah mengampuni kelemahannya itu. Kemudian timba itu menjadi besar alu diambil oleh Ibnu Al Khaththab. Sungguh aku belum pernah melihat di tengah-tengah manusia ada sesuatu yang begitu luar biasa yang dilakukan oleh seseorang kemudian dia membagi-bagikan kepada manusia seperti yang dilakukan oleh 'Umar sehingga manusia menjadi puas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3664</td></tr><tr><td>Arabic No</td><td>3664</td></tr><tr><td>Reference</td><td>Book 62 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Однажды во сне я увидел себя у колодца, у которого было ведро, и я вычерпал (столько воды), сколько пожелал Аллах. Потом (ведро) взял Ибн Абу Кухафа и зачерпнул одно или два ведра. При этом в движениях его была слабость, однако Аллах простит ему эту слабость. Потом (ведро) взял ‘Умар, и оно превратилось в огромную бадью. И я не видел, чтобы кто-нибудь из людей зачерпывал так же искусно, как это делал ‘Умар. (И это продолжалось,) пока (все) люди (не напились сами и не напоили своих верблюдов), отведя их от водопоя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3664</td></tr><tr><td>Arabic No</td><td>3664</td></tr><tr><td>Reference</td><td>Book 62 Hadith 16</td></tr></tbody></table></div>
 

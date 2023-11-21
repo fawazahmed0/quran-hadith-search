@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) did an act, and held it to be valid. Thi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Adh Dhuha] dari [Masruq] dari ['Aisyah] ia berkata: Rasulullah shallallahu 'alaihi wasallam memberikan suatu keringanan pada salah satu perintah beliau. Lalu hal itu sampai kepada sebagian sahabatnya dan mereka pun seperti kurang suka dan berlepas dari dari hal itu. maka sampailah kabar mengenai sikap mereka itu kepada Rasulullah shallallahu 'alaihi wasallam sehingga beliau pun berdiri dan berkhutbah: "Kenapa ada orang yang telah sampai kepada mereka suatu urusan dariku yang aku mendapatkan keringanan karenanya lalu mereka membencinya dan berlepas darinya?! Demi Allah, sungguh aku adalah orang yang lebih mengenal Allah daripada mereka dan aku adalah orang yang paling takut kepadaNya". Telah menceritakan kepada kami [Abu Sa'id Al Asyaj]; Telah menceritakan kepada kami [Hafsh] yaitu Ibnu Ghiyats; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim] dan ['Ali bin Khasyram] keduanya berkata; Telah mengabarkan kepada kami ['Isa bin Yunus] keduanya dari [Al A'masy] melalui sanad Jarir yang serupa dengan Haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6109</td></tr><tr><td>Arabic No</td><td>2356.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6109</td></tr><tr><td>Arabic No</td><td>2356.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 167</td></tr></tbody></table></div>
 

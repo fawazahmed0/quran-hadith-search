@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Arqam: The Prophet (ﷺ) said: When a man makes a promise to h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] berkata, telah menceritakan kepada kami [Abu Amir] berkata, telah menceritakan kepada kami [Ibrahim bin Thahman] dari [Ali bin Abdul A'la] dari [Abu An Nu'man] dari [Abu Waqqash] dari [Zaid bin Arqam] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika seorang laki-laki memberi janji kepada saudaranya dan ia berniat untuk menepatinya, namun ia tidak dapat menepati dan datang untuk janjinya, maka ia tidak berdosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4995</td></tr><tr><td>Arabic No</td><td>4995</td></tr><tr><td>Reference</td><td>Book 43 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4995</td></tr><tr><td>Arabic No</td><td>4995</td></tr><tr><td>Reference</td><td>Book 43 Hadith 223</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin Malik:In the last part of his narration about the three who re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Abdurrahman bin Abdullah bin ka'b bin Malik] dari [Abdullah bin Ka'b], ia adalah penuntun Ka'b diantara anak-anaknya ketika ia telah buta, menuturkan; aku mendengar [Ka'b bin Malik] tentang ceritanya mengenai firman Allah: 'dan atas tiga orang yang tertinggal' (QS. Attaubah; 118) -yang dalam akhir ceritanya ia mengatakan - diantara tanda ketulusan taubatku, aku melepas hartaku untuk kujadikan sebagai sedekah kepada Allah dan Rasul-NYA. Tetapi Nabi shallallahu 'alaihi wasallam bersabda: "tahan sebagian hartamu, itu lebih baik bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6690</td></tr><tr><td>Arabic No</td><td>6690</td></tr><tr><td>Reference</td><td>Book 83 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Ка‘б, который был одним из сыновей Ка‘ба (ибн Малика) и его поводырём, когда тот ослеп, сказал: «Я слышал, как Ка‘б ибн Малик рассказывал (о словах Всевышнего Аллаха): “И тем троим которые были оставлены” (сура “ат-Тауба”, аят 118). И в конце своего рассказа он сказал: “Поистине, раскаиваясь (перед Аллахом) я хочу раздать всё своё имущество в качестве милостыни ради Аллаха и Его посланника”. (На это) Пророк ﷺ сказал: “Оставь себе часть своего имущества, так будет лучше для тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6690</td></tr><tr><td>Arabic No</td><td>6690</td></tr><tr><td>Reference</td><td>Book 83 Hadith 67</td></tr></tbody></table></div>
 

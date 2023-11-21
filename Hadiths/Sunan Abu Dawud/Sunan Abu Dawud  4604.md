@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miqdam ibn Ma'dikarib: The Prophet (ﷺ) said: Beware! I have been g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Najdah] berkata, telah menceritakan kepada kami [Abu Amru bin Katsir bin Dinar] dari [Hariz bin Utsman] dari ['Abdurrahman bin Abu Auf] dari [Al Miqdam bin Ma'di Karib] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Ketahuilah, sesungguhnya aku diberi Al -Qur'an dan yang semisal bersamanya (As Sunnah). Lalu ada seorang laki-laki yang dalam keadaan kekenyangan duduk di atas kursinya berkata, "Hendaklah kalian berpegang teguh dengan Al-Qur'an! Apa yang kalian dapatkan dalam Al-Qur'an dari perkara halal maka halalkanlah. Dan apa yang kalian dapatkan dalam Al-Qur'an dari perkara haram maka haramkanlah. Ketahuilah! Tidak dihalalkan bagi kalian daging himar jinak, daging binatang buas yang bertaring dan barang temuan milik orang kafir mu'ahid (kafir dalam janji perlindungan penguasa Islam, dan barang temuan milik muslim lebih utama) kecuali pemiliknya tidak membutuhkannya. Dan barangsiapa singgah pada suatu kaum hendaklah mereka menyediakan tempat, jika tidak memberikan tempat hendaklah memberikan perlakukan sesuai dengan sikap jamuan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4604</td></tr><tr><td>Arabic No</td><td>4604</td></tr><tr><td>Reference</td><td>Book 42 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Микдама ибн Ма‘ди Кариба, что Посланник Аллаха ﷺ сказал: «Поистине, мне была дарована Книга и нечто подобное вместе с ней. Но приближается время, когда сытый человек, возлежащий на ложе своём, будет говорить: “Следуйте только этому Корану. И что обнаружите в нём разрешённым, то считайте разрешённым, а то, что обнаружите в нём запретным, считайте запретным”. Поистине, вам не дозволено мясо домашних ослов, а также всех диких зверей, имеющих клыки, а также найденное имущество неверующего, получившего от мусульман гарантии безопасности /му‘ахад/, за исключением того, в котором он не нуждается. И если какой-то человек останавливается у людей, но они не оказывают ему должного гостеприимства, он имеет право наказать их в размере того гостеприимства, которое они обязаны были ему оказать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4604</td></tr><tr><td>Arabic No</td><td>4604</td></tr><tr><td>Reference</td><td>Book 42 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(regarding His Statement): 'They ask your instruction concerning
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Salam] Telah mengabarkan kepada kami [Abu Mu'awiyah] Telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha, yakni terkait dengan firman-Nya: "WA YASTAFTUUNAKA FIN NISAA' QULILLAHU YUFTIIKUM FIIHINNA.." hingga akhir ayat. Aisyah berkata, "Maksudnya adalah seorang anak perempuan yatim yang berada pada asuhan seorang laki-laki, dan sang anak perempuan yatim juga telah berserikat pada hartanya. Lalu laki-laki itu tidak ingin menikahinya dan ia tidak suka bila anak perempuan yatim itu dinikahi oleh orang lain karena dikhawatirkan mencampuri hartanya. Maka Allah melarang mereka untuk melakukan hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5131</td></tr><tr><td>Arabic No</td><td>5131</td></tr><tr><td>Reference</td><td>Book 67 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, о словах Всевышнего «Они просят тебя вынести решение относительно женщин. Скажи: “Аллах вынесет для вас решение относительно них…”» сказала: «Речь идёт о сироте, которую воспитывает её опекун, и которая делит с ним имущество. Однако он ни сам не хочет жениться на ней, ни выдавать её замуж за кого-то другого, кто разделил бы с ним имущество, которое она делит с ним, и не даёт ей выйти замуж. Аллах запретил им делать это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5131</td></tr><tr><td>Arabic No</td><td>5131</td></tr><tr><td>Reference</td><td>Book 67 Hadith 67</td></tr></tbody></table></div>
 

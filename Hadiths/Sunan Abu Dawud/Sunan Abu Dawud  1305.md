@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:When the opening verses of Surah Al-muzammil was revealed, t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad yaitu Al Mawarzi] telah menceritakan kepada kami [Waki'] dari [Mis'ar] dari [Simak Al Hanafi] dari [Ibnu Abbas] dia berkata; "Ketika turun awal surat Al Muzammil, mereka (para sahabat) bangun (untuk mengerjakan shalat) sebagaimana bangunnya ketika di bulan Ramadhan hingga turun akhir dari surat Al Muzzamil, sedangkan rentang waktu turunnya awal surat Al Muzammil dengan akhir surat itu selama satu tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1305</td></tr><tr><td>Arabic No</td><td>1305</td></tr><tr><td>Reference</td><td>Book 5 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Когда были ниспосланы первые аяты суры “аль-Музаммиль”, люди выстаивали молитву примерно так же, как в рамадане, и это продолжалось до тех пор, пока не были ниспосланы последние аяты суры, а это случилось по прошествии года после ниспослания её первых аятов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1305</td></tr><tr><td>Arabic No</td><td>1305</td></tr><tr><td>Reference</td><td>Book 5 Hadith 56</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim narrated on the authority of his father (Allah be pleased with him) that '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dan [Amru] -dalam riwayat lain- Dan telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepadaku [Ibnu Wahb] telah mengabarkan kepadaku [Amru] dari [Ibnu Syihab] dari [Salim] bahwa [bapaknya] telah mengabarkan kepadanya, ia berkata; [Umar bin Khaththab] mencium Hajar Aswad. Kemudian Umar berkata, "Ketahuilah, demi Allah, aku tahu kamu hanyalah batu. Kalaulah aku tidak melihat Rasulullah shallallahu 'alaihi wasallam menciummu, niscaya aku tidak akan menciummu." [Harun] menambahkan dalam riwayatnya, [Amru] berkata; dan telah menceritakan kepadaku seperti di atas, [Zaid bin Aslam] dari [Bapaknya, Aslam]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3067</td></tr><tr><td>Arabic No</td><td>1270.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 273</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3067</td></tr><tr><td>Arabic No</td><td>1270.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 273</td></tr></tbody></table></div>
 

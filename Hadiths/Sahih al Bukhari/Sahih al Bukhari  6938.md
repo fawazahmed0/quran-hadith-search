@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Itban bin Malik:Once Allah's Messenger (ﷺ) came to me in the morning
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] telah menceritakan kepadaku [Mahmud bin Rabi'] mengatakan, aku mendengar [Itban bin Malik] mengatakan, Rasulullah shallallahu 'alaihi wasallam pernah menemuiku, lantas ada seseorang bertanya; 'mana Malik bin Duhsyun? ' seseorang dari kami mengatakan; 'Dia munafik, tidak mencintai Allah dan Rasul-NYA.' Spontan Nabi shallallahu 'alaihi wasallam bersabda: "Bukankah kalian katakan bahwa ia mengucapkan; laa-ilaaha-illallah, untuk mencari wajah Allah?" Ia menjawab; 'Benar'. Maka Nabi bersabda: "Tidaklah seorang hamba dipenuhi kecintaan kepada Allah, melainkan Allah mengharamkan neraka baginya di hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6938</td></tr><tr><td>Arabic No</td><td>6938</td></tr><tr><td>Reference</td><td>Book 88 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается ‘Итбан ибн Малик сказал: «(Однажды) Посланник Аллаха ﷺ пришёл ко мне утром, и один человек спросил: “Где Малик ибн ад-Духшун?” Другой человек из нас ответил: “Это — лицемер, который не любит Аллаха и посланника Его”. (Услышав это,) Пророк ﷺ воскликнул: “Не говорите так! Разве он не говорит: “Нет божества, достойного поклонения, кроме Аллаха” /Ля иляха илля-Ллах/, стремясь к лику Аллаха?” Они ответили: “Да, конечно”. Тогда Пророк ﷺ сказал: “Какой бы раб (Аллаха) не явился в День воскресения с этими словами, Аллах непременно сделает для него запретным Адский огонь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6938</td></tr><tr><td>Arabic No</td><td>6938</td></tr><tr><td>Reference</td><td>Book 88 Hadith 20</td></tr></tbody></table></div>
 

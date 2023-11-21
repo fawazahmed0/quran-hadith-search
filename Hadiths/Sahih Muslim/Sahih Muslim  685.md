@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amra daughter of 'Abd al-Rahman reported:'A'isha, wife of the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Rumh] dia berkata, telah mengabarkan kepada kami [al-Laits] dari [Ibnu Syihab] dari [Urwah] dan ['Amrah binti Abdurrahman] bahwa [Aisyah] isteri nabi shallallahu 'alaihi wasallam berkata, "Sungguh, aku masuk rumah untuk suatu keperluan sementara di dalam ada orang yang sedang sakit, dan aku tidak bertanya tentangnya melainkan hanya lewat saja. Dan sungguh, Rasulullah pernah memasukkan kepalanya kepadaku hingga aku dapat menyisirnya, sementara beliau di masjid. Jika sedang meakukan iktikaf, maka beliau tidak masuk rumah kecuali untuk suatu keperluan." [Ibnu Rumh] berkata, "Apabila mereka beriktikaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>685</td></tr><tr><td>Arabic No</td><td>297.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Если мне по необходимости приходилось входить в дом, где находился больной (из числа членов нашей семьи), я спрашивала о его состоянии только на ходу. Когда же в мечети находился Посланник Аллаха ﷺ, он часто просовывал голову ко мне (в комнату), и я причёсывала его, хотя, уединяясь там, он входил в дом только по необходимости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>685</td></tr><tr><td>Arabic No</td><td>297.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 7</td></tr></tbody></table></div>
 

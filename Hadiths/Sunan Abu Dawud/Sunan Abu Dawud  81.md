@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Humayd al-Himyari: Humayd al-Himyari reported: I met a person (among th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] dari [Dawud bin Abdullah], Dan menurut jalur yang lain; telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Dawud bin Abdullah] dari [Humaid Al Himyari] dia berkata; Saya pernah bertemu dengan [seorang laki-laki] yang pernah bersahabat dengan Nabi shallallahu 'alaihi wasallam empat tahun sebagaimana Abu Hurairah bersahabat dengan beliau, dia berkata; Rasulullah shallallahu 'alaihi wasallam melarang perempuan mandi dengan air sisa kaum lelaki dan melarang kaum lelaki mandi dengan air sisa perempuan. -Musaddad menambahkan, - Dan hendaknya mereka berdua sama-sama menciduk air (ketika mandi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Arabic No</td><td>81</td></tr><tr><td>Reference</td><td>Book 1 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумайд аль-Химьяри сказал: «Я встретил одного человека, который сопровождал Пророка ﷺ в течение четырех лет так же, как сопровождал его и Абу Хурайра. Он сказал: “Посланник Аллаха ﷺ запретил женщине купаться водой, оставшейся после мужчины, и мужчине запретил купаться водой, оставшейся от женщины”».Мусаддад (в своей версии) дополнил: «Вместе вычерпывая (воду)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Arabic No</td><td>81</td></tr><tr><td>Reference</td><td>Book 1 Hadith 81</td></tr></tbody></table></div>
 

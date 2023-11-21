@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Tawus reported:We asked Ibn Abbas about sitting on one's buttocks (in prayer). (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Muhammad bin Bakar] --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Hasan al-Hulwani] telah menceritakan kepada kami [Abdurrazzaq] dan keduanya berdekatan dalam lafazh, semuanya berkata, telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu az-Zubair] bahwasanya dia mendengar [Thawus] berkata, "Kami bertanya kepada [Ibnu Abbas] mengenai hukum duduk di atas kedua tumit." Dia menjawab, "Hukumnya sunat". Kami bertanya, "Kami lihat janggal orang duduk seperti itu." Ibnu Abbas menjawab, "Bahkan, begitulah sunnah Nabimu Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1198</td></tr><tr><td>Arabic No</td><td>536</td></tr><tr><td>Reference</td><td>Book 5 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Таус сказал: «(Однажды) мы задали Ибн ‘Аббасу вопрос о сидении на (пятках) в позе, именуемой “ик‘а”, и он сказал: “Это (соответствует) Сунне”. Мы стали говорить: “Поистине, мы считаем, что человеку неудобно сидеть так”. На что Ибн ‘Аббас сказал: “Но (такова) Сунна твоего Пророка ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1198</td></tr><tr><td>Arabic No</td><td>536</td></tr><tr><td>Reference</td><td>Book 5 Hadith 38</td></tr></tbody></table></div>
 

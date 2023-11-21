@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Apostle (ﷺ) as saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Husain bin Ali Al Ju'fi] dari [Za'idah] dari [Sulaiman] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa menjadikan budak suatu kaum tanpa seizin walinya (tuannya) maka bagianya laknat Allah, para Malaikat dan manusia semuanya, tidak akan diterima ibadahnya dan juga taubatnya." Dan telah menceritakan kepadaku [Ibrahim bin Dinar] telah menceritakan kepada kami ['Ubaidullah bin Musa] telah menceritakan kepada kami [Syaiban] dari [Al A'masy] dengan isnad ini, namun ia menyebutkan sabda beliau; "Barangsiapa yang menjadikan budak orang lain tanpa seizin mereka (para walinya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3793</td></tr><tr><td>Arabic No</td><td>1508.03</td></tr><tr><td>Reference</td><td>Book 20 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3793</td></tr><tr><td>Arabic No</td><td>1508.03</td></tr><tr><td>Reference</td><td>Book 20 Hadith 23</td></tr></tbody></table></div>
 

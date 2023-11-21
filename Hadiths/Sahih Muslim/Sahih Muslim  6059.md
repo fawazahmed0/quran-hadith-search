@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Harith b. Hisham asked Allah's Apostle (ﷺ):How does the t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Sufyan bin 'Uyainah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Usamah] dan [Ibnu Bisyr] seluruhnya dari [Hisyam]; Dan telah menceritakan kepada kami [Muhammad bin 'Abdillah bin Numair] dan lafazh ini miliknya; Telah menceritakan kepada kami [Muhammad bin Bisyr]; Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari ['Aisyah]; Harits bin Hisyam pernah bertanya kepada Nabi shallallahu 'alaihi wasallam; "Bagaimana caranya wahyu datang kepada Anda?" Jawab beliau: "Terkadang wahyu datang kepadaku seperti bunyi lonceng. Itulah yang paling berat bagiku. Kemudian bunyi terputus, sedangkan aku telah memahami maksudnya. Terkadang malaikat datang menyerupai bentuk laki-laki, lalu aku memahami apa yang dikatakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6059</td></tr><tr><td>Arabic No</td><td>2333.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6059</td></tr><tr><td>Arabic No</td><td>2333.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
 

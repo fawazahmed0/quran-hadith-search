@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated by Anas that (after his migration to Medina) a person place
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah], [Hamid bin Umar Al Bakrawi] dan [Muhammad bin Abdul A'la Al Qaisi] semuanya dari [Al Mu'tamir] sedangkan lafadznya dari Ibnu Abu Syaibah telah menceritakan kepada kami [Mu'tamir bin Sulaiman At Taimi] dari [ayahnya] dari [Anas] bahwa seorang laki-laki…" sedangkan Hamid dan Ibnu Abdul A'la mengatakan; "Bahwa seorang laki-laki pernah memberikan sebagian kebun kurmanya kepada Rasulullah shallallahu 'alaihi wasallam, sampai beliau menaklukkan Bani Quraidlah dan Bani Nadlir. Setelah penaklukan tersebut, maka beliau mengembalikan sebagian kebun kurma kepada laki-laki itu." Anas berkata; "Sesungguhnya keluargaku menyuruhku mendatangi Nabi shallallahu 'alaihi wasallam untuk meminta kembali apa yang pernah di berikan oleh beliau yaitu berupa sebidang kebun, padahal Nabi shallallahu 'alaihi wasallam telah memberikannya kepada Ummu Aiman. Lantas aku mendatangi Nabi shallallahu 'alaihi wasallam dan beliaupun menyerahkannya kembali kepadaku, tiba-tiba Ummu Aiman datang sambil menaruh selendangnya di leherku seraya berkata; "Demi Allah, kami tidak akan memberikannya kepadamu, sebab beliau telah memberikannya kepadaku." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Ummu Aiman, biarkanlah dia mengambilnya lagi, dan untukmu ini dan ini." Namun dia tetap mengatakan; "Sekali-kali tidak, demi Dzat yang tidak adak ilah selain Dia…" Ummu Aiman masih tetap berkata seperti itu sehingga beliau memberinya sepuluh kali dari pemberian yang hendak di ambil oleh Anas, atau mendekati sepuluh kali lipatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4604</td></tr><tr><td>Arabic No</td><td>1771.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4604</td></tr><tr><td>Arabic No</td><td>1771.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 85</td></tr></tbody></table></div>
 

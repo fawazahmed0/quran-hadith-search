@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundub bin Sufyan:Once Allah's Messenger (ﷺ) became sick and could no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] Telah menceritakan kepada kami [Zuhair] Telah menceritakan kepada kami [Al Aswad bin Qais] ia berkata; Aku mendengar [Jundub bin Sufyan radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam menderita sakit hingga beliau tidak bisa bangun selama dua malam atau tiga. Lalu datanglah seorang wanita seraya berkata, "Wahai Muhammad, aku benar-benar mengharap bahwa syetanmu telah meninggalkanmu. Sebab, aku tidak lagi melihatnya semenjak dua hari ini atau tiga hari." Maka Allah 'azza wajalla menurunkan surat: "WADLDLUHAA WALLAILI IDZAA SAJAA MAA WADDA'AKA RABBUKA WAMAA QALAA." Firman Allah: "MAA WADDA'AKA RABBUKA WAMAA QALAA." (QS. Adhdhuha 3) Dibaca dengan tasydid atau pun Takhfif maknanya tetap satu, yakni Rabb-mu tidaklah meninggalkanmu. Ibnu Abbas menafsirkan, "(Rabb-mu) tidaklah meninggalkan dan memurkaimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4950</td></tr><tr><td>Arabic No</td><td>4950</td></tr><tr><td>Reference</td><td>Book 65 Hadith 472</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джундуб ибн Суфьян, да будет доволен им Аллах, рассказывал: «(Однажды) Посланник Аллаха ﷺ заболел и не совершал (ночную) молитву одну или две ночи. Тогда к нему пришла некая женщина и сказала: “О Мухаммад! Я надеюсь, что твой шайтан покинул тебя, так как я не вижу его рядом с тобой уже два или три дня”. После этого Всемогущий и Великий Аллах ниспослал суру, в которой сказано: “Клянусь утром! Клянусь ночью, когда она успокаивается. Не покинул тебя твой Господь и не возненавидел”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4950</td></tr><tr><td>Arabic No</td><td>4950</td></tr><tr><td>Reference</td><td>Book 65 Hadith 472</td></tr></tbody></table></div>
 

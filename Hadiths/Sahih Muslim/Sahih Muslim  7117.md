@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Observe moderation in dee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Mendekatlah, tujulah kebenaran dan ketahuilah bahwa sesungguhnya tidak seorang pun dari kalian yang selamat karena amalnya." Mereka bertanya: "Tidak juga Tuan, wahai Rasulullah? beliau menjawab: "Tidak juga aku, kecuali bila Rabbmu melimpahkan rahmat dan karunia padaku." Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Al A'masy] dari [Abu Sufyan] dari [Jabir] dari nabi Shallallahu 'alaihi wa Salam sepertinya. Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dengan kedua dua sanad secara keseluruhan seperti riwayat Ibnu Numar. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata: Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam sepertinya dan ia menambahi: "Dan bergembiralah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7117</td></tr><tr><td>Arabic No</td><td>2816.07</td></tr><tr><td>Reference</td><td>Book 52 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7117</td></tr><tr><td>Arabic No</td><td>2816.07</td></tr><tr><td>Reference</td><td>Book 52 Hadith 70</td></tr></tbody></table></div>
 

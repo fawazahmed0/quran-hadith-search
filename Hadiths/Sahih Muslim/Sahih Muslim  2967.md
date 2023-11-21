@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr (Allah be pleased with him) said:Two are the Mut'as which were not per
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Fudlail] dari [Zubaid] dari [Ibrahim At Tamimi] dari [bapaknya] ia berkata, [Abu Dzar] radliallahu 'anhu berkata; "Tidak diperbolehkan dua Mut'ah, kecuali khusus bagi kami (dahulu), yaitu Mut'atun Nisa' (nikah mut'ah) dan Mut'atul Hajji (haji tamattu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2967</td></tr><tr><td>Arabic No</td><td>1224.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2967</td></tr><tr><td>Arabic No</td><td>1224.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 176</td></tr></tbody></table></div>
 

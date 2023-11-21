@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:In the lifetime of Allah's Messenger (ﷺ) (p.b.u.h) the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] berkata, telah mengabarkan kepada kami ['Abdullah bin Al Mubarak] berkata, telah mengabarkan kepada kami [Al Auza'i] berkata, telah menceritakan kepada kami [Ishaq bin 'Abdullah bin Abu Thalhah Al Anshari] berkata, telah menceritakan kepadaku [Anas bin Malik] berkata, "Di zaman Rasulullah shallallahu 'alaihi wasallam manusia pernah terkena musibah paceklik kekeringan. Pada hari Jum'at ketika Nabi shallallahu 'alaihi wasallam sedang memberikan khutbah, tiba-tiba seorang Arab badui berdiri dan berkata, "Wahai Rasulullah, harta benda telah binasa dan telah terjadi kelaparan, maka berdo'alah kepada Allah agar menurunkan hujan untuk kita!" Anas bin Malik berkata, "Maka Rasulullah shallallahu 'alaihi wasallam lalu berdoa dengan mengangkat kedua telapak tangannya. Dan saat itu tidak sedikitpun ada awan di langit." Anas bin Malik melanjutkan perkataannya, "Maka awan seperti gunung bergerak. Beliau belum lagi turun dari mimbarnya hingga aku melihat air hujan membasahi jenggotnya. Maka pada hari itu kami mendapatkan hujan hingga esok harinya dan lusa, hingga hari Jum'at berikutnya. Pada hari Jum'at berikut itulah orang Arab badui tersebut, atau orang yang lain berdiri dan berkata, "Wahai Rasulullah, banyak bangunan yang roboh, harta benda tenggelam dan hanyut, maka berdo'alah kepada Allah untuk kami!" Rasulullah shallallahu 'alaihi wasallam lalu berdoa dengan mengangkat kedua telapak tangannya: 'ALLAHUMMA HAWAALAINAA WA LAA 'ALAINAA (Ya Allah, turunkanlah hujan di sekeling kami saja dan jangan sampai menimbulkan kerusakan kepada kami) '. Belum lagi beliau memberikan isyarat dengan tangannya ke langit, awan tersebut telah hilang. Saat itu kota Madinah menjadi seperti danau dan aliran-aliran air, bahkan tidak mendapatkan sinar matahari selama satu bulan." Anas bin Malik berkata, "Tidak ada satupun orang yang datang dari segala pelosok kota kecuali akan menceritakan tentang terjadinya hujan yang lebat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1033</td></tr><tr><td>Arabic No</td><td>1033</td></tr><tr><td>Reference</td><td>Book 15 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) при жизни Посланника Аллаха ﷺ людей поразила засуха. Как-то раз, когда Пророк ﷺ произносил пятничную проповедь, стоя на минбаре (со своего места) поднялся один бедуин и сказал: “О, Посланник Аллаха! (Наше) имущество пропало, а дети голодают, так обратись же к Аллаху, чтобы Он ниспослал нам дождь!” Тогда Посланник Аллаха ﷺ поднял руки. В это время на небе не было ни одного облачка, как вдруг собрались тучи, подобные горам. Затем не успел ещё он сойти с минбара, как я увидел (капли) дождя, катившиеся по его бороде. И дождь шел (весь) этот день, и наследующий день, и на третий день, и на четвертый день, (и во все остальные дни) вплоть до следующей пятницы. (Когда настала пятница, со своего места) поднялся тот же бедуин (или: другой человек) и сказал: “О, Посланник Аллаха! (Наши) дома разрушились, а имущество оказалось под водой, так обратись же к Аллаху с мольбой за нас!” Тогда Посланник Аллаха ﷺ поднял руки и сказал: “О Аллах, вокруг нас, а не на нас”. И после этого куда бы он ни указал своей рукой, тучи там расходились, и очистившееся (небо над) Мединой стало подобно дыре среди (окружавших город) туч. Что же касается долины Канат, то вода в нем (после этого) текла ещё целый месяц, и (впоследствии) каждый человек, откуда бы он ни приезжал (в Медину), обязательно рассказывал об этом сильнейшем дожде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1033</td></tr><tr><td>Arabic No</td><td>1033</td></tr><tr><td>Reference</td><td>Book 15 Hadith 28</td></tr></tbody></table></div>
 

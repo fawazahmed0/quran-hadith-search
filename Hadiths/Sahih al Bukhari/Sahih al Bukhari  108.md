@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The fact which stops me from narrating a great number of Hadiths t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada kami ['Abdul Warits] dari ['Abdul 'Aziz] berkata, [Anas] berkata, "Beliau melarangku untuk banyak menceritakan hadits kepada kalian karena Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa sengaja berdusta terhadapku (atas namaku), maka hendaklah ia persiapkan tempat duduknya di neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>108</td></tr><tr><td>Arabic No</td><td>108</td></tr><tr><td>Reference</td><td>Book 3 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Поистине, рассказывать вам множество хадисов мне мешает (лишь то), что Пророк ﷺ сказал: “Тот, кто возведет на меня ложь, непременно займёт своё место в огне!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>108</td></tr><tr><td>Arabic No</td><td>108</td></tr><tr><td>Reference</td><td>Book 3 Hadith 50</td></tr></tbody></table></div>
 

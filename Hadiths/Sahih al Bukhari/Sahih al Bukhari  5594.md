@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:the Prophet (ﷺ) forbade the use of Ad-Dubba' and Al Muzaffat. A'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepadaku [Sulaiman] dari [Ibrahim At Taimi] dari [Al Harits bin Suwaid] dari [Ali] radliallahu 'anhu bahwa Nabi shallallahu 'alaihi wasallam melarang duba' (tempat minum dari labu yang di buang isinya dan di gunakan untuk merendam perasan kurma atau anggur) dan Muzaffat (tempat minum yang dipolesi dengan ter)." Telah menceritakan kepada kami [Utsman] telah menceritakan kepada kami [Jarir] dari [Al A'masy] seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5594</td></tr><tr><td>Arabic No</td><td>5594</td></tr><tr><td>Reference</td><td>Book 74 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил пользоваться сосудами “дубба” (сосуд для вина, из высушенных тыкв) и “музаффат” (сосуд для вина, бока которого обмазывались смолой)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5594</td></tr><tr><td>Arabic No</td><td>5594</td></tr><tr><td>Reference</td><td>Book 74 Hadith 20</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported Allah's Messenger (ﷺ) having said:None of you should make a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Muhammad bin Rumh bin Al Muhajir]; Telah mengabarkan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah kamu menyuruh orang lain berdiri dari tempat duduknya, kemudian kamu duduk di tempatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5683</td></tr><tr><td>Arabic No</td><td>2177.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5683</td></tr><tr><td>Arabic No</td><td>2177.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 37</td></tr></tbody></table></div>
 

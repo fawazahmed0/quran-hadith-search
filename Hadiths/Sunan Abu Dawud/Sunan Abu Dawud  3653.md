@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbuSallam said on the authority of a man who served the Holy Prophet (ﷺ) that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Marzuq] telah mengabarkan kepada kami [Syu'bah] dari [Abu 'Aqil Hasyim bin Bilal] dari [Sabiq bin Najiyah] dari [Abu Sallam] dari [Seorang laki-laki] yang melayani Nabi shallallahu 'alaihi wasallam, bahwa Nabi shallallahu 'alaihi wasallam apabila menceritakan suatu hadits maka beliau mengulanginya sebanyak tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3653</td></tr><tr><td>Arabic No</td><td>3653</td></tr><tr><td>Reference</td><td>Book 26 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Один человек, прислуживавший Пророку ﷺ сказал, что Пророк ﷺ говоря что-то, повторял это трижды
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3653</td></tr><tr><td>Arabic No</td><td>3653</td></tr><tr><td>Reference</td><td>Book 26 Hadith 13</td></tr></tbody></table></div>
 

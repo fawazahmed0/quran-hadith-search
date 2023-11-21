@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) used to offer the 'Asr prayer at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhrii] berkata, telah menceritakan kepadaku [Anas bin Malik] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah melaksanakan shalat 'Ashar saat matahari masih meninggi. Dan jika ada seseorang pergi menemui keluarganya kemudian kembali, maka ia akan mendapati matahari masih tinggi. Sedangkan sebagian desa jaraknya dengan Madinah ada yang berjarak sampai empat mil atau sekitar itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>550</td></tr><tr><td>Arabic No</td><td>550</td></tr><tr><td>Reference</td><td>Book 9 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал: «Мне сообщил Анас ибн Малик, да будет доволен им Аллах, который сказал: “Посланник Аллаха ﷺ совершал послеполуденную молитву, когда солнце стояло высоко и припекало, и (если после этого) кто-нибудь отправлялся в ‘Авали, то он добирался до места, когда солнце всё ещё стояло высоко, а некоторые части ‘Авали находились от Медины на расстоянии примерно четырёх миль”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>550</td></tr><tr><td>Arabic No</td><td>550</td></tr><tr><td>Reference</td><td>Book 9 Hadith 27</td></tr></tbody></table></div>
 

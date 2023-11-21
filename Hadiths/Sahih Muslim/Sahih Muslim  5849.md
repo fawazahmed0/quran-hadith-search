@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah bin Yahya] keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dan [Abu Salamah bin 'Abdur Rahman] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam sabdanya: "Seekor semut menggigit seorang Nabi di antara nabi-nabi, lalu Nabi tersebut menyuruh membakar sarang semut itu, lalu dibakarlah. Kemudian Allah Subhanahu Wa Ta'ala mewahyukan kepadanya: "Apakah karena seekor semut yang menggigitmu, lalu engkau musnahkan suatu umat yang selalu membaca tasbih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5849</td></tr><tr><td>Arabic No</td><td>2241.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5849</td></tr><tr><td>Arabic No</td><td>2241.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 200</td></tr></tbody></table></div>
 

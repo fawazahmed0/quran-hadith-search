@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported that Allah's Apostle (ﷺ) entered on the day of Vict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hakim Al Audi] telah mengabarkan kepada kami [Syarik] dari [Ammar Ad Duhni] dari [Abu Zubair] dari [Jabir bin Abdullah] bahwa Nabi shallallahu 'alaihi wasallam masuk pada hari Fathu Makkah dengan memakai surban hitam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3310</td></tr><tr><td>Arabic No</td><td>1358.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 514</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3310</td></tr><tr><td>Arabic No</td><td>1358.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 514</td></tr></tbody></table></div>
 

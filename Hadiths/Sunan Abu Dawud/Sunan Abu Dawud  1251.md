@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abd Allah b. Shaqiq:I asked A'ishah about the voluntary prayers offered
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Khalid]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Khalid] sedangkan maknanya dari [Abdullah bin Syaqiq] dia berkata; saya bertanya kepada [Aisyah] mengenai shalat sunnahnya Rasulullah shallallahu 'alaihi wasallam." Jawabnya; "Beliau biasa mengerjakan shalat (sunnah) sebelum Dluhur empat raka'at di rumahku, kemudian beliau keluar dan shalat bersama orang-orang. Setelah shalat, beliau kembali ke rumahku lalu beliau mengerjakan shalat dua raka'at. Setelah shalat Maghrib (berjama'ah) bersama orang-orang, beliau pulang ke rumahku, kemudian beliau shalat (sunnah) dua raka'at. Setelah shalat Isya' bersama orag-orang, beliau masuk ke rumahku lalu shalat dua raka'at. Beliau juga biasa mengerjakan shalat malam sembilan raka'at bersamaan dengan witirnya. Beliau mengerjakan shalat malam dengan berdiri hingga jangka waktu yang lama, terkadang juga shalat malam sambil duduk hingga jangka waktu yang lama. Apabila membaca (Surat) sambil berdiri, maka beliau ruku' dan sujud sebagaimana (ruku' dan sujud) ketika mengerjakan shalat dengan berdiri, dan apabila beliau duduk, maka beliau ruku' dan sujud dengan posisi duduk. apabila waktu fajar telah terbit, beliau shalat dua raka'at, lalu beliau shallallahu 'alaihi wasallam keluar mengerjakan shalat shubuh (berjama'ah) bersama orang-orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (730)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1251</td></tr><tr><td>Arabic No</td><td>1251</td></tr><tr><td>Reference</td><td>Book 5 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Шакыка: «Я спросил ‘Аишу, да будет доволен ею Аллах о дополнительных молитвах Посланника Аллаха ﷺ и она сказала: “Он совершал четыре рак‘ата перед полуденной молитвой в моём доме, после чего выходил и совершал обязательную молитву с людьми. Затем он возвращался в мой дом и совершал ещё два рак‘ата. Совершив с людьми закатную молитву, Посланник Аллаха ﷺ возвращался в мой дом и совершал ещё два рак‘ата. Потом он совершал с людьми обязательную вечернюю молитву /‘иша/, после чего Посланник Аллаха ﷺ возвращался в мой дом и совершал ещё два рак‘ата. А ночью он совершал девять рак‘атов, включая витр. Его ночная молитва была долгой, и совершал он её стоя, а иногда сидя, но она всё равно была долгой. Если он читал аяты стоя, то и поясные и земные поклоны совершал стоя, а если он читал аяты сидя, то и поясные и земные поклоны совершал сидя. Когда наступало время утренней молитвы, он совершал два рак‘ата, а потом выходил к людям и совершал с ними обязательную утреннюю молитву /фаджр/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (730)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1251</td></tr><tr><td>Arabic No</td><td>1251</td></tr><tr><td>Reference</td><td>Book 5 Hadith 2</td></tr></tbody></table></div>
 

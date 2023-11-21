@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dharr:I asked the Prophet (ﷺ) regarding the Verse:--'And the sun 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Ibrahim At Taimi] dari [Ayahnya] dari [Abu Dzar] berkata, "Aku bertanya nabi shallallahu 'alaihi wasallam mengenai kutipan ayat: '(dan matahari berjalan di persinggahannya) ' (Qs. Yasin: 38), beliau berkomentar: "Persingghannya adalah di bawah 'Arsy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7433</td></tr><tr><td>Arabic No</td><td>7433</td></tr><tr><td>Reference</td><td>Book 97 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зарр, да будет доволен им Аллах, сказал: «Я спросил у Пророка ﷺ о значении слов Аллаха: “Солнце плывет к своему местопребыванию” (Сура “Йасин”, аят 38). Он сказал: “Его местопребывание находится под Троном”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7433</td></tr><tr><td>Arabic No</td><td>7433</td></tr><tr><td>Reference</td><td>Book 97 Hadith 60</td></tr></tbody></table></div>
 

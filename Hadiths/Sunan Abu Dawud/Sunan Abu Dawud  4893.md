@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Az Zuhri] dari [Salim] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Seorang muslim itu saudara bagi muslim lainnya, tidak boleh menzhalimi atau merendahkannya. Barang siapa memenuhi kebutuhan saudaranya maka Allah akan memenuhi kebutuhannya. Dan Barang siapa membebaskan kesulitan seorang muslim di dunia, maka Allah akan membebaskan kesulitannya di akhirat. Dan barangsiapa menutupi aib seorang muslim, maka Allah akan menutupi aibnya pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2442) Sahih Muslim (2580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>4893</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим передал со слов своего отца (‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими,) о том, что Пророк ﷺ сказал: «Мусульманин мусульманину брат, и он (не должен) ни притеснять, ни предавать его. Тому, кто (поможет) своему брату в нужде его, Аллах (поможет) в его собственной нужде, того, кто избавит мусульманина от печали, Великий и Всемогущий Аллах избавит от одной из печалей Дня воскресения, а (грехи) того, кто покроет (грехи) мусульманина, Аллах покроет в День воскресения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2442) Sahih Muslim (2580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>4893</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
 

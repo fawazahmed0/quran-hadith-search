@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I witnessed the 'Id-al-Fitr prayer with Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim] Telah menceritakan kepada kami [Harun bin Ma'ruf] Telah menceritakan kepada kami [Abdullah bin Wahb] ia berkata, Telah mengabarkan kepadaku [Ibnu Juraij] bahwa [Al Hasan bin Muslim] Telah mengabarkan kepadanya dari [Thawus] dari [Ibnu Abbas radliallahu 'anhuma] ia berkata; Aku pernah turut menunaikan Shalat 'Idul Fithri bersama Rasulullah shallallahu 'alaihi wasallam, Abu Bakar, Umar dan Utsman, maka semuanya shalat terlebih dahulu sebelum khuthbah. Dan setelah shalat, barulah mereka menyampaikan khuthbah. Ketika Nabi shallallahu 'alaihi wasallam turun, maka aku melihat saat beliau memerintahkan dengan tangannya agar kaum lelaki duduk. Dan setelah itu, beliau berjalan ditemani Bilal melewati mereka hingga sampai di tempat kaum wanita berada. Kemudian beliau membaca: "Wahai sang Nabi, apabila wanita-wanita mukminat datang kepadamu hendak berbai'at bahwa mereka tidak akan menyekutukan Allah dengan sesuatu apa pun, tidak mencuri, tidak berzina, dan tidak akan membunuh anak-anak mereka, serta tidak akan berbuat kebohongan..."(QS. ALmumtahanah 12). hingga beliau selesai membaca ayat itu keseluruhannya. Setelah itu beliau bersabda: "Kalian semua berada di atas janji itu." Lalu salah seorang wanita menjawab, "Ya, wahai Rasulullah." Sementara yang lain diam. Al Hasan tidak tahu, siapakah wanita itu. Akhirnya para wanita bersedekah, sedangkan Bilal membentangkan pakaiannya, sementara mereka melemparkan gelang dan cincin-cincin mereka ke dalam pakaian Bilal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4895</td></tr><tr><td>Arabic No</td><td>4895</td></tr><tr><td>Reference</td><td>Book 65 Hadith 415</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Я присутствовал на праздничной молитве (‘Ид аль-Фитр) вместе с Посланником Аллаха ﷺ, Абу Бакром, ‘Умаром и ‘Усманом. (И все) они совершали молитву перед хутбой, а затем произносили хутбу после неё. Пророк Аллаха ﷺ вышел, и как будто я смотрю на него (сейчас), как он подает знак рукой, чтобы люди сели. Затем он в сопровождении Биляля прошел через ряды, подошёл к женщинам и прочитал: “О Пророк! Если к тебе придут верующие женщины, чтобы присягнуть в том, что они не будут приобщать сотоварищей к Аллаху, красть, прелюбодействовать, убивать своих детей, покрывать клеветой то, что между их руками и ногами...”. Закончив чтение аята, он сказал: “Вы придерживаетесь того, что в этом аяте?” Только одна женщина ответила: “Да, о Посланник Аллаха!”, — и никто, не ответил кроме неё. Пророк ﷺ сказал: “Тогда подавайте милостыню!” И Биляль расправил свою одежду, а они начали кидать свои кольца /аль-фатах/ и перстни в одежду Биляля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4895</td></tr><tr><td>Arabic No</td><td>4895</td></tr><tr><td>Reference</td><td>Book 65 Hadith 415</td></tr></tbody></table></div>
 

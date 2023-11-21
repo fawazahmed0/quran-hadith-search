@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Riders would pass us when we accompanied the Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Husyaim], telah mengabarkan kepada Kami [Yazid bin Abu Ziyad] dari [Mujahid] dari [Aisyah] ia berkata; orang-orang yang berkendaraan melewati Kami sementara Kami sedang berihram bersama Rasulullah shallAllahu wa'alaihi wa sallam kemudian apabila mereka dekat dengan Kami maka salah seorang diantara Kami menutupkan jilbabnya dari kepala ke wajahnya, kemudian apabila mereka telah melewati Kami maka Kami membukanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>1833</td></tr><tr><td>Reference</td><td>Book 11 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Когда мы сопровождали Посланника Аллаха ﷺ пребывая в состоянии ихрама, мимо нас проезжали всадники. Когда они приближались к нам, мы спускали покрывала с головы на лица, а когда они проезжали, мы вновь открывали лица»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>1833</td></tr><tr><td>Reference</td><td>Book 11 Hadith 113</td></tr></tbody></table></div>
 

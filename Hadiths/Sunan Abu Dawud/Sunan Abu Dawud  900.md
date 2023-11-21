@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ahmar ibn Jaz': When the Messenger of Allah (ﷺ) prostrated himself, h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami ['Abbad bin Rasyid] telah menceritakan kepada kami [Al Hasan] telah menceritakan kepada kami [Ahmar bin Juz'in] salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam bahwa apabila Rasulullah shallallahu 'alaihi wasallam sujud, beliau merenggangkan kedua lengannya dari kedua rusuk beliau sehingga kami amat kasihan terhadap beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>900</td></tr><tr><td>Arabic No</td><td>900</td></tr><tr><td>Reference</td><td>Book 2 Hadith 510</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ахмар ибн Джаз, да будет доволен им Аллах, сподвижник Посланника Аллаха ﷺ передаёт: «Посланник Аллаха ﷺ совершая земной поклон, отстранял руки от боков так, что нам даже становилось жаль его (из-за прилагаемых им усилий)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>900</td></tr><tr><td>Arabic No</td><td>900</td></tr><tr><td>Reference</td><td>Book 2 Hadith 510</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Habiba, the wife of the Messenger of Allah (ﷺ), reported Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Nu'man bin Salim] dari ['Amru bin Aus] dari [Anbasah bin Abu Sufyan] dari [Ummu Habibah] isteri Nabi shallallahu 'alaihi wasallam, katanya; "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang muslim mendirikan shalat sunnah ikhlas karena Allah sebanyak dua belas rakaat selain shalat fardhu, melainkan Allah akan membangunkan baginya sebuah rumah di surga." -Atau dengan redaksi lain- "Melainkan akan dibangunkan baginya rumah di surga." [Ummu Habibah] berkata; "Setelah itu, aku selalu melaksanakan kedua belas rakaat itu." ['Amru] juga berkata; "Aku tidak pernah meninggalkannya setelah itu." [Nu'man] juga mengatakan seperti itu. Dan telah menceritakan kepadaku [Abdurrahman bin Bisyr] dan [Abdullah bin Hasyim Al 'Abdi] keduanya berkata; telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Syu'bah]. [Nu'man bin Salim] mengatakan; telah menceritakan kepadaku, katanya; Aku mendengar ['Amru bin Aus] menceritakan dari [Anbasah] dari [Ummu Habibah] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang hamba muslim berwudhu' kemudian menyempurnakan wudlu'nya, lalu shalat karena Allah setiap harinya…" lalu dia menyebutkan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1696</td></tr><tr><td>Arabic No</td><td>728.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов жены Посланника Аллаха ﷺ Умм Хабибы, что она слышала, как Посланник Аллаха ﷺ сказал: «Если раб (Аллаха) мусульманин будет ежедневно совершать ради Аллаха двенадцать рак‘атов добровольной молитвы, Аллах непременно возведёт для него дом в Раю (или: для него непременно будет возведён дом в Раю)».Умм Хабиба сказала: «И я всегда совершала (эти рак‘аты с тех пор, как услышала его слова)».‘Амр ибн Аус сказал: «И я всегда совершал (эти рак‘аты с тех пор, как услышал её слова)». И нечто подобное сказал ан-Ну‘ман ибн Салим
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1696</td></tr><tr><td>Arabic No</td><td>728.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 126</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ On being asked about (washing) the fluid that flows between man and woman ‘A�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Syarik] dari [Qais bin Wahb] dari [seorang lelaki dari bani Suwa'ah bin Amir] dari [Aisyah] tentang air yang dituangkan pada laki-laki dan wanita. Dia berkata; Rasulullah shallallahu 'alaihi wasallam (tatkala mandi junub) mengambil air setelapak tangan kemudian menuangkan air tersebut padaku, lalu mengambil air setelapak tangan lagi dan menuangkannya padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>257</td></tr><tr><td>Arabic No</td><td>257</td></tr><tr><td>Reference</td><td>Book 1 Hadith 257</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша о жидкости, которая имеет место (быть, при близости) между мужчиной и женщиной сказала: «Посланник Аллаха ﷺ набирал пригоршню воды и наливал на меня, а затем набрав пригоршню воды, наливал на себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>257</td></tr><tr><td>Arabic No</td><td>257</td></tr><tr><td>Reference</td><td>Book 1 Hadith 257</td></tr></tbody></table></div>
 

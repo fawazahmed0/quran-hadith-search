@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) said:In Paradise there is a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Utsman Sa'id bin Abduljabbar Al Bashri] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit Al Bunani] dari [Anas bin Malik] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya di surga ada pasar, mereka mendatanginya setiap hari jum'at, angin dari utara berhembus lalu menerpa wajah-wajah mereka dan pakaian-pakaian mereka hingga mereka semakin indah dan menawan. Mereka kembali ke keluarga mereka dengan penampilan yang lebih indah dan menawan, keluarga-keluarga mereka berkata pada mereka: 'Demi Allah, kau semakin indah dan menawan setelah kami.' mereka berkata: 'Kalian juga, demi Allah, lebih indah dan menawan setelah kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7146</td></tr><tr><td>Arabic No</td><td>2833</td></tr><tr><td>Reference</td><td>Book 53 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7146</td></tr><tr><td>Arabic No</td><td>2833</td></tr><tr><td>Reference</td><td>Book 53 Hadith 15</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri and Abu Huraira:Allah's Messenger (ﷺ) employed so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Abdul Majid bin Suhail bin 'Abdurrahman bin 'Auf] dari [Sa'id bin Al Musayyab] dari [Abu Sa'id Al Khudriy] dan [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam memperkerjakan seorang di tanah Khaibar lalu dia membawakan kurma yang banyak kepada mereka lalu Beliau shallallahu 'alaihi wasallam bertanya: "Apakah semua kurma Khaibar seperti ini?" Maka orang itu menjawab: "Sesungguhnya kami mengambil satu sha'jenis kurma ini dengan dua sha' kurma lain dan dua sha'kurma ini dengan tiga sha' kurma lain". Maka Beliau bersabda: "Janganlah kamu berbuat seperti itu. Juallah dengan dirham kemudian belilah dengan dirham pula". Dan bersabda: "Dan dengan timbangan seperti itu pula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>2302</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри и Абу Хурайры, да будет доволен Аллах ими обоими, что (в своё время) Посланник Аллаха ﷺ назначил управлять Хайбаром одного человека. Когда тот доставил Посланнику Аллаха ﷺ финики (сорта) джаниб, он спросил: «Все ли финики Хайбара таковы?» Он ответил: «Поистине, мы берём один са‘ таких (фиников) за два са‘ (других), а за два са‘ (таких) мы отдаём три са‘ (других)». Тогда Посланник Аллаха ﷺ сказал: «Не делай так, (но) продавай (финики разных сортов) за дирхамы, а потом покупай за дирхамы джаниб». И то же самое он сказал о финиках, продаваемых весом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>2302</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

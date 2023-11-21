@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The last Qur'anic Verse that was revealed (to the Prophet) was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Israil] dari [Abu Ishaq] dari [Al Barra'] radliallahu 'anhu mengatakan; 'akhir ayat yang diturunkan adalah penutupan surat An Naisa'; 'Mereka memintamu fatwa tentang kalalah, katakanlah bahwa Allah memfatwakan kepada kalian….(QS. Annisa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6744</td></tr><tr><td>Arabic No</td><td>6744</td></tr><tr><td>Reference</td><td>Book 85 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Последним аятом был ниспослан последний аят суры “ан-Ниса”: “Они просят тебя вынести решение. Скажи: “Аллах вынесет для вас решение относительно тех, кто не оставляет после себя родителей или детей” (сура “ан-Ниса”, аят 176)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6744</td></tr><tr><td>Arabic No</td><td>6744</td></tr><tr><td>Reference</td><td>Book 85 Hadith 21</td></tr></tbody></table></div>
 

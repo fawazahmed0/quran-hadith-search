@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:That the Prophet (ﷺ) gave him one Dinar so as to buy a sheep fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin Abdullah] telah mengabarkan kepada kami [Sufyan] telah bercerita kepada kami [Syabib bin Gharfadah] berkata, aku mendengar [orang-orang dari qabilahku] yang bercerita dari ['Urwah] bahwa Nabi shallallahu 'alaihi wasallam memberinya satu dinar untuk dibelikan seekor kambing, dengan uang itu ia beli dua ekor kambing, kemudian salah satunya dijual seharga satu dinar, lalu dia menemui beliau dengan membawa seekor kambing dan uang satu dinar. Maka beliau mendoa'akan dia keberkahan dalam jual belinya itu". Sungguh dia apabila berdagang debu sekalipun, pasti mendapatkan untung". [Sufyan] berkata; "Adalah Al Hasan bin 'Umarah yang datang kepada kami dengan membawa hadits ini darinya (dari Syabib). Katanya (Al Hasan); " [Syabib] mendengar hadits ini dari ['Urwah], maka aku (Sufyan) menemui Syabib lantas dia berkata; "Aku tidak mendengarnya dari 'Urwah". Syabib berkata; "Aku mendengarnya dari orang-orang yang mengabarkan hadits darinya namun aku mendengar dia berkata, Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Kebaikan senantiasa terikat dengan ubun-ubun kuda hingga hari qiyamat". Dia Syabib berkata; "Sungguh aku telah melihat di rumahnya ada tujuh puluh ekor kuda". Sufyan berkata; "Dia ('Urwah) membeli seekor kambing untuk beliau shallallahu 'alaihi wasallam sepertinya untuk keperluan hewan kurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>3642</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Урвы аль-Барики, да будет доволен им Аллах, что (однажды) Пророк ﷺ дал ему динар, чтобы он купил ему на него овцу, а (‘Урва) купил ему на (этот динар) двух овец, после чего продал одну из них за динар и (вернулся к Пророку ﷺ) с динаром и овцой. (Пророк ﷺ) призвал благословение на его торговые дела, и (с тех пор) он получал прибыль, даже если покупал песок
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>3642</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that the Messenger of Allah (ﷺ) used to recite in first of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Fazari yaitu Marwan bin Muawiyah] dari [Utsman bin Hakim Al Anshari], katanya; telah menceritakan kepadaku [Said bin Yasar] bahwa [Ibnu Abbas] mengabarinya; bahwa dalam dua raka'at fajar, tepatnya di raka'at pertama, Rasulullah shallallahu 'alaihi wasallam membaca "Katakanlah, kami beriman kepada Allah dan apa yang diturunkan kepada kami." QS. Albaqarah 136, dan pada rakaat kedua membaca "Kami beriman kepada Allah, dan saksikanlah bahwa kami orang muslim." QS. Ali Imran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1691</td></tr><tr><td>Arabic No</td><td>727.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что во время (совершения) первого из двух рак‘атов (добровольной) утренней молитвы Посланник Аллаха ﷺ обычно читал тот аят из суры «аль-Бакара»(, в котором говорится): «Скажите: “Мы уверовали в Аллаха, и в то, что Он ниспослал нам…” (Сура «аль-Бакара», аят 136)», а (во время совершения) второго из них (он читал тот аят, в котором сказано): «Мы уверовали в Аллаха, засвидетельствуй же, что мы предаёмся (Ему) (Сура «али ‘Имран», аят 52)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1691</td></tr><tr><td>Arabic No</td><td>727.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 121</td></tr></tbody></table></div>
 

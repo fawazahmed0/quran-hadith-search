@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah], [Ibnu Numair] dan [Ishaq Al Handlali] semuanya dari [Ibnu 'Uyainah]. [Ibnu Numair] mengatakan; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Amru bin Dinar] dari [Abu As Sya'tsa'] bahwa [Ibnu Abbas] telah mengabarkan kepadanya bahwa Nabi shallallahu 'alaihi wasallam menikahi Maimunah padahal beliau sedang berihram, [Ibnu Numair] menambahkan, maka saya menceritakannya kepada [Az Zuhri], maka dia berkata; Telah mengabarkan kepadaku [Yazid bin Al Asham] bahwa beliau menikahinya ketika beliau sedang halal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3451</td></tr><tr><td>Arabic No</td><td>1410.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3451</td></tr><tr><td>Arabic No</td><td>1410.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 54</td></tr></tbody></table></div>
 

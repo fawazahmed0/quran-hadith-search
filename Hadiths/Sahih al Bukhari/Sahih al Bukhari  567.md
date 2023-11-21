@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:My companions, who came with me in the boat and I landed at a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala] berkata, telah mengabarkan kepada kami [Abu Umamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] ia berkata, "Aku dan sahabat-sahabatku yang pernah ikut dalam perahu singgah pada tanah lapang yang memiliki aliran air, sedangkan Nabi shallallahu 'alaihi wasallam berada di Madinah. Di antara mereka ada beberapa orang yang saling bergantian mengikuti Nabi shallallahu 'alaihi wasallam shalat 'Isya di setiap malamnya. Hingga pada suatu malam, aku dan para sahabatku menjumpai Nabi shallallahu 'alaihi wasallam yang saat itu sedang sibuk dengan urusannya, sehingga beliau mengakhirkan pelaksanaan shalatr 'Isya hingga pada pertengahan malam. Maka Nabi shallallahu 'alaihi wasallam keluar untuk menunaikan shalat bersama mereka. Selesai shalat beliau bersabda kepada orang-orang yang hadir: "Tetaplah kalian di tempat kalian, dan bergemberilah. Sesungguhnya termasuk dari nikmat Allah kepada kalian adalah didapatinya seorang pun saat ini yang melaksanakan shalat (Isya) selain kalian." Atau Beliau bersabda: "Tidak ada yang melaksanakan shalat pada waktu seperti ini kecuali kalian." Namun ia terlupa mana dari dua kalimat ini yang dikatakan beliau. Abu Burdah berkata, Abu Musa, "Maka kami kembali dengan gembira dengan apa yang kami dengar dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>567</td></tr><tr><td>Reference</td><td>Book 9 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «(В своё время) я вместе со своими товарищами, прибывшими со мной на корабле, да будет доволен ими Аллах, остановился в Бакъи‘ Бутхан. Что касается Пророка ﷺ, то он тогда находился в Медине, и каждый вечер некоторые из нас по очереди приходили к нему ко времени вечерней молитвы. Однажды, когда я вместе со своими товарищами пришёл к Пророку ﷺ, оказалось, что из-за занятости чем-то он отложил молитву до середины ночи, а потом вышел (к людям) и совершил с ними молитву. Закончив молиться, он сказал присутствовавшим: “Не спешите и радуйтесь, ибо, поистине, милостью Аллаха по отношению к вам является то, что никто из людей, кроме вас, не молится в это время!”» (Или же он сказал: «…никто, кроме вас, не молился в это время!»)\n(Передатчик этого хадиса сказал): «Я не знаю, что именно он сказал».\nАбу Муса сказал: «И мы вернулись (к себе), радуясь тому, что услышали от Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>567</td></tr><tr><td>Reference</td><td>Book 9 Hadith 44</td></tr></tbody></table></div>
 

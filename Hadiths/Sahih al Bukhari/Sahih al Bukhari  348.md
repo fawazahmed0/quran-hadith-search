@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Husain Al-Khuza'i:Allah's Messenger (ﷺ) saw a person sitti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami ['Auf] dari [Abu Raja'] berkata, telah menceritakan kepada kami ['Imran bin Hushain Al Khaza'i], bahwa Rasulullah shallallahu 'alaihi wasallam melihat seorang menyendiri dan tidak ikut shalat bersama orang banyak, beliau lalu bertanya: "Wahai fulan, apa yang menghalangi kamu untuk shalat bersama orang-orang?" Maka orang itu menjawab: "Wahai Rasulullah, aku mengalami junub dan tidak ada air." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Wajib bagi kamu menggunakan tanah dan itu sudah cukup buatmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>348</td></tr><tr><td>Arabic No</td><td>348</td></tr><tr><td>Reference</td><td>Book 7 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Имрана ибн Хусайна аль-Хуза‘и о том, что (однажды,) когда Посланник Аллаха ﷺ увидел удалившегося (от людей) человека и не совершающего с ними молитву, он сказал (ему): «О такой-то, что тебе помешало помолиться с людьми?» Тот сказал: «О Посланник Аллаха, меня постигло осквернение, а воды нет». (Пророк ﷺ) сказал: «Тебе следует (очиститься) землёй, ибо тебе его будет достаточно!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>348</td></tr><tr><td>Arabic No</td><td>348</td></tr><tr><td>Reference</td><td>Book 7 Hadith 15</td></tr></tbody></table></div>
 

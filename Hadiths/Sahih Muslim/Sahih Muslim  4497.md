@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; ini adalah sesuatu yang pernah diceritakan oleh [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, lalu dia menyebutkan beberapa hadits yang di antaranya adalah, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada seseorang yang membeli tanah dari orang lain, lalu orang yang membeli tanah itu menemukan guci berisi emas dari dalam tanah yang telah dibelinya. Orang yang membeli tanah itu berkata kepada yang menjualnya, 'Ambillah emasmu dari tanah yang aku beli ini, sebab aku hanya membeli tanah darimu, dan tidak membeli emasmu.' Sedangkan orang yang menjual tanah berkata, 'Yang aku jual kepadamu adalah tanah berikut isinya, oleh karena itu, jika kamu mendapati emas, maka itu sudah menjadi hakmu.' Akhirnya kedua orang tersebut pergi menemui seseorang untuk meminta keputusan antara mereka berdua. Lalu orang yang dimintai keputusan bertanya kepada keduanya, 'Apakah kalian berdua memiliki anak? ' seorang di antara mereka menjawab, 'Ya, aku memiliki anak laki-laki', dan yang satunya menjawab, 'Ya, aku juga memiliki anak perempuan'. Kemudian orang yang dimintai keputusan itu berkata, 'Sebaiknya nikahkan saja anak laki-laki dan anak perempuan kelian berdua. Setelah itu, belanjakanlah emas tersebut untuk kepentingan kalian, dan bersedekahlah untuk diri kalian berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4497</td></tr><tr><td>Arabic No</td><td>1721</td></tr><tr><td>Reference</td><td>Book 30 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4497</td></tr><tr><td>Arabic No</td><td>1721</td></tr><tr><td>Reference</td><td>Book 30 Hadith 28</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 42 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Асым сказал: «Я слышал, как аль-Хаджжадж сказал, стоя на минбаре: “Вы должны бояться Аллаха по мере ваших сил, и не может быть тут никаких исключений, и вы должны слушать и повиноваться повелителю верующих ‘Абдульмалику, и не может быть тут никаких исключений. Поистине, если бы я велел людям выйти из одних ворот мечетей, а они вышли из других, их кровь и имущество перестали бы быть неприкосновенными для меня, и если бы я взыскал с (племени) раби‘ за (вред, нанесённый в своё время племени) мудар, это было бы для меня пред Аллахом дозволено. А найдётся ли кто-нибудь, кто оправдает меня, (если я причиню вред либо убью) ‘Абд Хузайля, утверждающего, что чтение его от Аллаха, ибо это только раджаз бедуинов и Аллах не ниспосылал это Своему Пророку ﷺ. А найдётся ли кто-нибудь, кто оправдает меня, (если я причиню вред либо убью) этих неарабов-мавали, среди которых находится утверждающий, что если он бросит камень, то ещё до его падения на землю произойдет (очередная смута). Поистине, я уничтожу их так, (что они исчезнут), как вчерашний день!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 42 Hadith 48</td></tr></tbody></table></div>
 

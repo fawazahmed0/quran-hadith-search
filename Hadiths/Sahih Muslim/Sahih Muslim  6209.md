@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aisha reported:Allah's Messenger (ﷺ) was lying in the bed in my apartment with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr]. [Yahya bin Yahya] berkata; Telah mengabarkan kepada kami Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far dari [Muhammad bin Abu Harmalah] dari ['Atha] dan [Sulaiman] -kedua anak Yasar dan [Abu Salamah bin 'Abdur Rahman] bahwa ['Aisyah] berkata; 'Pada suatu ketika, Rasulullah shallallahu 'alaihi wasallam sedang berbaring di rumah saya dengan membiarkan kedua pahanya atau kedua betisnya terbuka. Tak lama kemudian, Abu Bakar minta izin kepada Rasulullah untuk masuk ke dalam rumah beliau. Maka Rasulullah pun mempersilahkannya untuk masuk dalam kondisi beliau tetap seperti itu dan terus berbincang-bincang (tentang suatu hal). Lalu Umar bin Khaththab datang dan meminta izin kepada Rasulullah untuk masuk ke dalam rumah beliau. Maka Rasulullah pun mempersilahkannya untuk masuk dalam kondisi beliau tetap seperti itu dan terus berbincang-bincang (tentang suatu hal). Kemudian Utsman bin Affan datang dan meminta izin kepada beliau untuk masuk ke dalam rumah beliau. Maka Rasulullah pun mempersilahkannya untuk masuk seraya mengambil posisi duduk dan membetulkan pakaiannya. Muhammad berkata; Saya tidak mengatakan hal itu pada hari yang sama. Lalu Utsman masuk dan langsung bercakap-cakap dengan beliau tentang berbagai hal. Setelah Utsman keluar dari rumah, Aisyah bertanva; "Ya Rasulullah, tadi ketika Abu Bakar masuk ke rumah engkau tidak terlihat tergesa-gesa untuk menyambutnya. Kemudian ketika Umar datang dan masuk, engkaupun menyambutnya dengan biasa-biasa saja. Akan tetapi ketika Utsman bin Affan datang dan masuk ke rumah maka engkau segera bangkit dari pembaringan dan langsung mengambil posisi duduk sambil membetulkan pakaian engkau. Sebenarnya ada apa dengan hal ini semua ya Rasulullah'?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Hai Aisyah, bagaimana mungkin aku tidak merasa malu kepada seseorang yang para malaikat saja merasa malu kepadanya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 44 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, рассказала: «Посланник Аллаха ﷺ лежал в моём доме, и часть его бедра или голени обнажилась. Абу Бакр попросил разрешения войти, и он разрешил ему, оставаясь в таком положении, и они поговорили. Потом ‘Умар попросил разрешения войти, и он разрешил ему, оставаясь в таком положении, и они поговорили. Затем ‘Усман попросил разрешения войти, и Посланник Аллаха ﷺ сел и поправил свою одежду». [Передатчик] Мухаммад сказал: «И я не говорю, что всё это было в один день». Он зашёл, и они поговорили. А когда он ушёл, ‘Аиша спросила: «Абу Бакр вошёл, а ты не изменил своего положения и его присутствие не смутило тебя, потом вошёл ‘Умар, но ты не изменил своего положения и его присутствие не смутило тебя, а когда пришёл ‘Усман, ты сел и поправил свою одежду». [Посланник Аллаха ﷺ] сказал: «Разве не следует мне стесняться человека, которого стесняются ангелы?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 44 Hadith 39</td></tr></tbody></table></div>
 

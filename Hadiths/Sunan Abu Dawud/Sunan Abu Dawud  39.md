@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: A deputation of the jinn came to the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haiwah bin Syuraih Al Himshi] telah menceritakan kepada kami [Ibnu 'Ayyasy] dari [Yahya bin Abu 'Amru As Saibani] dari [Abdullah bin Ad Dailami] dari [Abdullah bin Mas'ud] dia berkata; Telah datang utusan dari bangsa jin kepada Rasulullah shallallahu 'alaihi wasallam, seraya berkata; "Wahai Muhammad, laranglah umatmu untuk beristinja' dengan tulang, atau kotoran binatang atau arang, karena sesungguhnya Allah Ta'ala telah menjadikan rizki kami pada hal Hal tersebut!" Maka Rasulullah shallallahu 'alaihi wasallam melarang umatnya untuk melakukan demikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>39</td></tr><tr><td>Arabic No</td><td>39</td></tr><tr><td>Reference</td><td>Book 1 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд сказал: «(Однажды) к Пророку ﷺ прибыла делегация из числа джиннов, и они сказали: “О, Мухаммад! Запрети членам своей общины подтираться костями, помётом и угольками. Поистине, Аллах Всевышний сделал в них нам пищу”».(Ибн Мас‘уд) сказал: «И Пророк ﷺ запретил нам это делать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>39</td></tr><tr><td>Arabic No</td><td>39</td></tr><tr><td>Reference</td><td>Book 1 Hadith 39</td></tr></tbody></table></div>
 

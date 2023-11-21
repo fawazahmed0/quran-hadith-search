@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir bin 'Abdullah:We were with the Prophet (ﷺ) on a full moon night
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Isma'il] telah menceritakan kepada kami [Qais], [Jarir bin 'Abdullah] berkata kepadaku, "Kami sedang bersama Nabi shallallahu 'alaihi wasallam saat beliau melihat rembulan di malam purnama. Kemudian beliau bersabda: "Sesungguhnya kalian akan melihat Rabb kalian sebagaimana kalian melihat bulan purnama ini. Dan kalian tidak akan saling berdesakan dalam melihatnya. Maka jika kalian mampu untuk tidak terlewatkan melaksanakan shalat sebelum terbit matahari dan sebelum terbenamnya, maka lakukanlah, " Kemudian beliau membaca: '(Maka bertasbihlah sambil memuji Rabbmu sebelum terbit matahari dan sebelum terbenamnya) ' (Qs. Qaaf:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>573</td></tr><tr><td>Arabic No</td><td>573</td></tr><tr><td>Reference</td><td>Book 9 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Однажды в ночь полнолуния, когда мы находились вместе с Пророком ﷺ, он посмотрел на луну и сказал: “Поистине, вы увидите Господа вашего (так же ясно), как видите эту (луну), и не будете вы обижены в том, что касается лицезрения Его! И если сможете вы добиться того, чтобы ничто не мешало вам совершать молитвы перед восходом солнца и перед закатом его, то совершайте (их)”. А после этого он прочитал (аят, в котором сказано): “…и прославляй Господа твоего до восхода солнца и перед заходом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>573</td></tr><tr><td>Arabic No</td><td>573</td></tr><tr><td>Reference</td><td>Book 9 Hadith 49</td></tr></tbody></table></div>
 

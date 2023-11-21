@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported Allah's Apostle (ﷺ) as saying one mouth before his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Habib] dan [Muhammad bin Abdul A'laa] seluruhnya dari [Al Mu'tamir]. [Ibnu Habib] berkata; Telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dia berkata; Aku mendengar [Bapakku], Telah menceritakan kepada kami [Abu Nadhrah] dari [Jabir bin 'Abdullah] dari Nabi shallallahu 'alaihi wasallam bahwa beliau mengatakan hal itu sebulan sebelum wafatnya. -atau yang serupa dengan Hadits tersebut; "Tidak akan ada jiwa yang hidup pada hari setelah seratus tahun yang akan datang." Dan dari ['Abdur Rahman] -yaitu tukang memberi minum- dari [Jabir bin 'Abdullah] dari Nabi shallallahu 'alaihi wasallam dengah Hadits yang serupa. 'Abdur Rahman menafsirkan hal itu dengan 'berkurangnya umur.' Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Yazid bin Harun]; Telah mengabarkan kepada kami [Sulaiman At Taymi] melalui kedua jalur sekaligus dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6483</td></tr><tr><td>Arabic No</td><td>2538.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 312</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6483</td></tr><tr><td>Arabic No</td><td>2538.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 312</td></tr></tbody></table></div>
 

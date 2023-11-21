@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir bin ‘Abdallah reported the Apostle of Allaah (ﷺ) as saying “The whol
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Hasan bin Ali], telah menceritakan kepada Kami [Abu Usamah] dari [Usamah bin Zaid] dari ['Atha'], ia berkata; telah menceritakan kepadaku [Jabir bin Abdullah] bahwa Rasulullah shallAllahu wa'alaihi wa sallam berkata; seluruh Arafah adalah tempat berwukuf, dan seluruh Mina adalah tempat menyembelih, serta seluruh Muzdalifah adalah tempat berwukuf, dan seluruh jalan Mekkah adalah jalan dan tempat menyembelih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1937</td></tr><tr><td>Arabic No</td><td>1937</td></tr><tr><td>Reference</td><td>Book 11 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Весь ‘Арафат является местом стояния. Вся Мина является местом жертвоприношения. Вся Муздалифа является местом стояния. И все ущелья Мекки являются дорогами и местом жертвоприношения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1937</td></tr><tr><td>Arabic No</td><td>1937</td></tr><tr><td>Reference</td><td>Book 11 Hadith 217</td></tr></tbody></table></div>
 

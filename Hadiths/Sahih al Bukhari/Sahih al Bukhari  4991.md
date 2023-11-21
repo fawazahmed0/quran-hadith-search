@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Allah's Messenger (ﷺ) said, "Gabriel recited the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ufair] ia berkata; Telah menceritakan kepadaku [Al Laits] ia berkata; Telah menceritakan kepadaku [Uqail] dari [Ibnu Syihab] ia berkata; Telah menceritakan kepadaku [Ubaidullah] bahwa [Abdullah bin Abbas] radliallahu 'anhuma telah menceritakan kepadanya bahwa; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jibril telah membacakan padaku dengan satu dialek, maka aku pun kembali kepadanya untuk meminta agar ditambahkan, begitu berulang-ulang hingga berakhirlah dengan Sab'atu Ahruf (Tujuh dialek yang berbeda)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4991</td></tr><tr><td>Arabic No</td><td>4991</td></tr><tr><td>Reference</td><td>Book 66 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Джибриль учил меня читать (Коран одним) способом, но я продолжал добиваться от него большего, пока он не (научил меня читать его) семью способами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4991</td></tr><tr><td>Arabic No</td><td>4991</td></tr><tr><td>Reference</td><td>Book 66 Hadith 13</td></tr></tbody></table></div>
 

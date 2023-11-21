@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Some people used to buy foodstuff at the head of the market a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] berkata, telah menceritakan kepada saya [Nafi'] dari ['Abdullah radliallahu 'anhu] berkata: "Dahulu mereka berjual beli makanan jauh di luar pasar lalu menjualnya di tempat itu pula, maka Rasulullah shallallahu 'alaihi wasallam melarang menjual makanan di tempat (pembeliannya) hingga makanan itu dipindahkan lebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2167</td></tr><tr><td>Arabic No</td><td>2167</td></tr><tr><td>Reference</td><td>Book 34 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Люди покупали продукты в верхней части рынка (за пределами рынка), и там же их и продавали. И Посланник Аллаха ﷺ запретил им продавать их на том же месте, пока они не перенесут их (для продажи в другое место)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2167</td></tr><tr><td>Arabic No</td><td>2167</td></tr><tr><td>Reference</td><td>Book 34 Hadith 118</td></tr></tbody></table></div>
 

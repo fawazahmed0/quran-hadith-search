@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported that Abu Huraira narrated to them some ahadith of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] berkata: Inilah yang diceritakan [Abu Hurairah] kepada kami dari Rasulullah Shallallahu 'alaihi wa Salam, ia menyebut beberapa hadits, diantaranya: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Surga dan neraka berbantah-bantahan. Neraka berkata: 'Orang-orang congkak dan sombong memasukiku. Surga berkata: Sedangkan aku, tidak ada yang memasukiku selain orang-orang lemah, tidak berguna dan budak. Lalu Allah berfirman kepada surga: 'Kau adalah rahmatKu, denganmu Aku merahmati siapa saja yang Aku kehendaki dari hamba-hambaKu.' Kemudian Allah berfirman kepada neraka: 'Kau adalah siksaKu, denganmu Aku menyiksa siapa pun yang Aku kehendaki dan masing-masing dari kalian berdua berisi penuh.' Sedangkan neraka tidak terisi penuh, lalu Allah meletakkan kakiNya kemudian neraka berkata: 'Cukup, cukup, cukup.' Saat itu neraka penuh dan sebagaiannya dihimpun pada sebagaian yang lain dan Allah tidak menzhalimi seorang pun dari makhlukNya. Sedangkan surga, Allah menciptakan penghuninya." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id Al Khudri] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Surga dan neraka berbantah-bantahan, " ia menyebut seperti hadits Abu Hurairah hingga sabda beliau: "Masing-masing dari kalian berdua wajib Aku penuhi" dan tidak menyebut tambahan setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7175</td></tr><tr><td>Arabic No</td><td>2846.04</td></tr><tr><td>Reference</td><td>Book 53 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7175</td></tr><tr><td>Arabic No</td><td>2846.04</td></tr><tr><td>Reference</td><td>Book 53 Hadith 44</td></tr></tbody></table></div>
 

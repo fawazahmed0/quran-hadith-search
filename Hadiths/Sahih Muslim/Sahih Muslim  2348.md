@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Adi b. Hatim reported Allah's Messenger (ﷺ) as saying:Allah will speak with ev
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hujr As Sa'di] dan [Ishaq bin Ibrahim] dan [Ali bin Khasyram] -Ibnu Hujr berkata- Telah menceritakan kepada kami -sementara dua orang yang lain berkata- telah mengabarkan kepada kami [Isa bin Yunus] Telah menceritakan kepada kami [Al A'masy] dari [Khaitsamah] dari [Adi bin Hatim] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya tidak seorang pun dari kalian, kecuali Allah akan mengajaknya berbicara tanpa ada satu penghalang pun yang menghalangi antara ia dan Allah. Kemudian ia melihat ke samping kanannya, dan ia pun tidak melihat kecuali apa yang telah dipersembahkannya, kemudian ia melihat ke sebelah kirinya, maka ia pun tidak melihat kecuali apa yang telah dipersembahkannya. Kemudian ia melihat ke arah depannya, ia pun tidak melihat yang lain kecuali neraka yang terpampang di depan wajahnya. Karena itu, takutlah kalian akan neraka meskipun hanya (bershadaqah) dengan setengah biji kurma." [Ibnu Hujr] menambahkan; [Al A'masy] berkata; Dan telah menceritakan kepadaku [Amru bin Murrah] dari [Khaitsamah] semisalnya. Kemudian ia juga menambahkan di dalamnya; "Meskipun hanya dengan kalimat yang baik." Dan [Ishaq] berkata; [Al A'masy] berkata; dari [Amru bin Murrah] dari [Khaitsamah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2348</td></tr><tr><td>Arabic No</td><td>1016.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Ади ибн Хатима, что Посланник Аллаха ﷺ сказал: «(В Судный день) Аллах заговорит с каждым из вас так, что между ним и Аллахом не будет переводчика. (Человек) посмотрит справа от себя и увидит лишь то, что он уготовил (для себя в земной жизни). (Затем) он посмотрит слева от себя и увидит лишь то, что уготовил (для себя в земной жизни). (Затем) он посмотрит перед собой и увидит перед своим лицом лишь Огонь, так защититесь же от Огня хотя бы половинкой финика».А’маш сказал: Мне рассказал ‘Амр ибн Мурра от Хайсама подобный хадис, и добавил в нём: «…хотя бы с помощью доброго слова!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2348</td></tr><tr><td>Arabic No</td><td>1016.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 85</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) and his Companions per
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Salamah Musa], telah menceritakan kepada Kami [Hammad] dari [Abdullah bin Utsman bin Khutsaim] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa Rasulullah shallAllahu wa'alaihi wa sallam dan para sahabatnya melakukan umrah dari Al Ji'ranah, dan mereka berlari-lari kecil di Ka'bah dan meletakkan selendang mereka di bawah ketiak mereka, dan melemparkan di atas pundak kiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ и его сподвижники совершали ‘умру из Джи‘раны и обходили Каабу почти бегом и при этом они пропустили свои накидки /ридаъ/ под мышками и забросили их концы на левое плечо
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 164</td></tr></tbody></table></div>
 

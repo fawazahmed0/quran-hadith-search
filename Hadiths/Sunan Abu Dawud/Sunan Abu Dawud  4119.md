@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) gave licence to the Mot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari [Sufyan] berkata, telah mengabarkan kepadaku [Zaid Al 'Ammi] dari [Abu Ash Shiddiq An Naji] dari [Ibnu Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam memberi keringanan para Ummahatul Mukminin (isteri-isteri Nabi) untuk memanjangkan kain mereka satu jengkal, lalu mereka minta untuk ditambah dan beliau menambahkan satu jengkal lagi. Maka, mereka kemudian memanjangkan kainnya hingga satu hasta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4119</td></tr><tr><td>Arabic No</td><td>4119</td></tr><tr><td>Reference</td><td>Book 34 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ разрешил матерям верующих отпускать подол одежды на пядь (длиннее, чем у мужчин), а когда они попросили его добавить им, он добавил им ещё пядь (, что равняется одному локтю), и они посылали к нам, и мы (, используя стебель тростника,) отмеривали для них (длину в) локоть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4119</td></tr><tr><td>Arabic No</td><td>4119</td></tr><tr><td>Reference</td><td>Book 34 Hadith 100</td></tr></tbody></table></div>
 

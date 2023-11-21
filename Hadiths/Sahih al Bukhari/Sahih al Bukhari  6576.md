@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abdullah added:The Prophet (ﷺ) said, "I am your predecessor at the Lake-Fount,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru bin Ali] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Mughirah] mengatakan; aku mendengar [Abu Wa'il] dari [Abdullah] radliyallahu'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Akulah yang mendahului kalian yang mendatangi telaga, dan diperlihatkan bersamaku beberapa orang diantara kalian, kemudian dicabut dari pandanganku, maka aku pun berteriak; 'ya rabbi, itu sahabatku! ' maka ada suara; 'Engkau tak tahu yang mereka lakukan sepeninggalmu'." hadits ini diperkuat oleh oleh ['Ashim] dari [Abu Wa'il]. Dan [Husain] mengatakan; dari [Abu Wa'il] dari [Khudzaifah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6576</td></tr><tr><td>Arabic No</td><td>6576</td></tr><tr><td>Reference</td><td>Book 81 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха, да будет доволен им Аллах, что Пророк ﷺ сказал: «Я первым из вас (окажусь) у Водоёма, и некоторых из вас покажут мне, затем они будут оторваны от меня, и я скажу: “Господи, мои сподвижники!” И будет сказано: “Воистину, ты не знаешь, что они внесли (в религию) после тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6576</td></tr><tr><td>Arabic No</td><td>6576</td></tr><tr><td>Reference</td><td>Book 81 Hadith 164</td></tr></tbody></table></div>
 

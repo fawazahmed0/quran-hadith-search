@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakr bin 'Uthman bin Sahl bin Hunaif:that he heard Abu Umama saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Muqatil] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Abu Bakar bin Utsman bin Sahl bin Hunaif] berkata, "Aku mendengar [Abu Umamah bin Sahl] berkata, "Kami pernah shalat Zhuhur bersama 'Umar bin 'Abdul 'Aziz. Setelah selesai kami keluar mendatangi [Anas bin Malik], dan saat itu kami dapati mereka sedang melaksanakan shalat 'Ashar. Maka aku pun bertanya, "Wahai paman, shalat apakah yang kamu kerjakan ini?" Dia menjawab, "Shalat 'Ashar. Saat seperti inilah shalat Rasulullah shallallahu 'alaihi wasallam yang pernah kami lakukan bersamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>549</td></tr><tr><td>Arabic No</td><td>549</td></tr><tr><td>Reference</td><td>Book 9 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакр ибн ‘Усман ибн Са‘д ибн Хунайф сказал:\n— Я слышал, как Абу Умама (Ас‘ад ибн Са‘д ибн Хунайф) говорил: «(Однажды) мы совершили полуденную молитву вместе с ‘Умаром ибн ‘Абдуль-‘Азизом, после чего вышли, затем зашли к Анасу ибн Малику и нашли его совершающим послеполуденную молитву, и тогда я сказал: “О дядя, что это за молитва, которую ты совершил?” Он ответил: “Послеполуденная /‘аср/ молитва, и это молитва Посланника Аллаха ﷺ, которую мы совершали вместе с ним!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>549</td></tr><tr><td>Arabic No</td><td>549</td></tr><tr><td>Reference</td><td>Book 9 Hadith 26</td></tr></tbody></table></div>
 

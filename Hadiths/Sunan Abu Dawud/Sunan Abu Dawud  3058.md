@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Alqamah ibn Wa'il: The Prophet (ﷺ) bestowed land in Hadramawt as fief
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin Marzuq], telah mengabarkan kepada kami [Syu'bah], dari [Simak] dari ['Alqamah bin Wail] dari [ayahnya], bahwa Nabi shallallahu 'alaihi wasallam telah mengalokasikan untuknya lahan di Hadhramaut. Telah menceritakan kepada kami [Hafsh bin Umar], telah menceritakan kepada kami [Jami' bin Mathar], dari ['Alqamah bin Wail] dengan sanadnya seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 20 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ваиля, да будет доволен им Аллах, что Пророк ﷺ дал ему земельный надел в Хадрамауте
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 20 Hadith 131</td></tr></tbody></table></div>
 

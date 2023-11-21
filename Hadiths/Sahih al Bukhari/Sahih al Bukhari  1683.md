@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Yazid:I went out with 'Abdullah , to Mecca and when w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Raja'] telah menceritakan kepada kami [Isra'il] dari [Abu Ishaq] dari ['Abdurrahman bin Yazid] berkata; "Kami keluar bersama ['Abdullah] radliallahu 'anhu menuju Makkah kemudian kami tiba di Jama', lalu dia shalat dua kali, yang pada masing-masing shalat itu dia mengumandangkan adzan dan iqamat serta menikmati makan malam diantara dua shalat itu. Lalu dia shalat Shubuh ketika fajar telah terbit. Ada seseorang berkata: "Fajar telah terbit". Ada yang lain berkata: "Fajar belum terbit". Kemudian dia ('Abdullah radliallahu 'anhu) berkata; "Sesungguhnya Rasulullah Shallallahu'alaihiwasallam telah bersabda: "Inilah dua shalat yang dimundurkan pelaksanaannya dari waktunya, di tempat ini, yaitu shalat Maghrib dan 'Isya', karenanya janganlah orang-orang tiba di Jama' (Muzdalifah) kecuali mereka shalat 'Isya' dan Shubuh disana, dan pada waktu ini". Kemudian dia wuquf disana hingga langit tampak kekuningan (pagi hari) kemudian dia berkata: "Seandainya Amiril Mu'minin bertolak sekarang (pagi hari), maka sesuai dengan (dia mendapatkan) sunnah". 'Abdurrahman bin Zaid berkata: "Aku tidak tahu apakah ucapannya itu agar 'Utsman radliallahu 'anhu bersegera atau 'Utsman radliallahu 'anhu bertolak dari sana senantiasa bertalbiyah hingga melempar jumrah 'Aqabah pada hari Nahar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1683</td></tr><tr><td>Arabic No</td><td>1683</td></tr><tr><td>Reference</td><td>Book 25 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Йазид, да помилует его Аллах Всевышний, сказал:\n— Мы отправились в Мекку вместе с ‘Абдуллахом бин Мас‘удом, да будет доволен им Аллах, а когда достигли (Муздалифы), он совершил две молитвы, произнеся слова азана и икамы для каждой из них отдельно и поужинав между ними. А с первыми проблесками зари он совершил утреннюю молитву, и некоторые говорят, что это было, когда заря уже занялась, другие же утверждают, что это было раньше. Затем он сказал: «Поистине, Посланник Аллаха ﷺ сказал: “Поистине, (время) этих двух молитв — закатной и вечерней — в этом месте сдвигается. Пусть люди не вступают в (Муздалифу) до наступления времени вечерней молитвы, а утреннюю молитву следует совершать в это время”». После этого (‘Абдуллах бин Мас‘уд) оставался там, пока не занялась заря, а потом сказал: «Если повелитель правоверных двинется (в Мину) сейчас, он поступит в соответствии с сунной». И я не знаю, успел он произнести эти слова или ‘Усман, да будет доволен им Аллах, двинулся с места ещё до этого. (Что же касается ‘Абдуллаха, то) он повторял слова тальбийи, пока не начал бросать камешки в «джамрат аль-‘акаба» в День жертвоприношения
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1683</td></tr><tr><td>Arabic No</td><td>1683</td></tr><tr><td>Reference</td><td>Book 25 Hadith 163</td></tr></tbody></table></div>
 

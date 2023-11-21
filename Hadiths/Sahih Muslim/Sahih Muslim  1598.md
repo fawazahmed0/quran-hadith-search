@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Haritha b. Wahb reported:I prayed with the Messenger of Allah (ﷺ) two rak'ahs 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah]. Yahya mengatakan; telah mengabarkan kepada kami, sedangkan Qutaibah mengatakan; telah menceritakan kepada kami [Abul Al Ahwash] dari [Abu Ishaq] dari [Haritsah bin Wahb] katanya; "Aku pernah shalat bersama Rasulullah shallallahu 'alaihi wasallam di Mina, di saat kondisi manusia sangat banyak dan aman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1598</td></tr><tr><td>Arabic No</td><td>696.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хариса ибн Вахб сказал: «Я совершал молитву с Посланником Аллаха ﷺ в Мине в два рак‘ата, хотя в то время нас было больше, чем когда-либо, и мы были в большей безопасности, чем когда-либо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1598</td></tr><tr><td>Arabic No</td><td>696.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
 

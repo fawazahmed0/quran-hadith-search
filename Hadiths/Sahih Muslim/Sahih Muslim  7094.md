@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ka'b reported that Allah's Messenger (ﷺ) said that the similitude of a believe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] dan [Muhammad bin Bisyr] keduanya berkata: Telah menceritakan kepada kami [Zakariya bin Abu Za'idah] dari [Sa'ad bin Ibrahim] telah menceritakan kepadaku [Ibnu Ka'ab bin Malik] dari [ayahnya, Ka'ab] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Perumpamaan mu'min itu seperti tanaman yang kuat dan lentur, angin menerpanya, kadang menundukkannya dan kadang membuatnya tegak hingga bergerak, dan perumpamaan orang kafir itu seperti pohon cedar yang dicabut dengan akar-akarnya, tidak ada sesuatu pun yang menerpanya hingga ia dicabut sekali saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7094</td></tr><tr><td>Arabic No</td><td>2810.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7094</td></tr><tr><td>Arabic No</td><td>2810.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 48</td></tr></tbody></table></div>
 

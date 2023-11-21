@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported Allah's Messenger (ﷺ) as saying:When any one of you intends
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin 'Abdullah bin Numair] dan [Zuhair bin Harb] dan [Ibnu Abu 'Umar]; Dan lafazh ini milik Ibnu Numair, ia berkata; Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Abu Bakr bin 'Ubaidullah bin 'Abdullah bin 'Umar] dari kakeknya [Ibnu 'Umar]; bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seseorang diantara kalian makan, maka hendaknya dia makan dengan tangan kanannya. Jika minum maka hendaknya juga minum dengan tangan kanannya, karena setan makan dengan tangan kirinya dan minum dengan tangan kirinya pula." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] yang dia bacakan kepadanya. Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Ibnu Numair], telah menceritakan kepada kami [bapakku]. Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Ibnu Al Mutsanna], telah menceritakan kepada kami [Yahya] yaitu Al Qaththan, keduanya dari [Ubaidullah], dari [Az Zuhri], dengan sanad Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5265</td></tr><tr><td>Arabic No</td><td>2020.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5265</td></tr><tr><td>Arabic No</td><td>2020.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 139</td></tr></tbody></table></div>
 

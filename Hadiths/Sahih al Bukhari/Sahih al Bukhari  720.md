@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Martyrs are those who die because 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Malik] dari [Sumayya] dari [Abu Shalih] dari [Abu Hurairah] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Orang-orang yang mati syahid itu adalah; orang yang mati kerena tenggelam, karena penyakit kusta, karena sakit perut, dan orang yang mati karena tertimpa reruntuhan." Beliau juga bersabda: "Seandainya mereka mengetahui kebaikan yang terdapat dalam bersegera menuju shalat, tentulah mereka akan berlomba-limba. Dan seandainya mereka mengetahui kebaikan yang terdapat pada waktu 'atamah (shalat 'Isya) dan shubuh, tentulah mereka akan mendatanginya meskipun dengan merangkak, dan seandainya mereka mengetahui kebaikan yang ada pada shaf pertama tentulah mereka akan berlomba meraihnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Пророк ﷺ сказал: “Мученниками являются: утонувшие, умершие от чумы, умершие от болезней живота, погребённые под обломками”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

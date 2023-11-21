@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:Ibn 'Umar said, "By Allah, I have not put a brick over a brick (i.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan], ['Amru] mengatakan; [Ibnu Umar] mengatakan; "Aku tidak pernah membangun suatu bangunan dan tidak juga menanam pohon kurma setelah Nabi shallallahu 'alaihi wasallam wafat." Sufyan mengatakan; 'Lalu hal itu aku memberitahukan kepada sebagian keluarganya, namun dia mengatakan; 'Demi Allah, sungguh dia pernah membangun (suatu bangunan).' Sufyan mengatakan; aku berkata; 'Semoga saja Ibnu Umar mengatakan hadits tersebut sebelum dia membangun (suatu bangunan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>6303</td></tr><tr><td>Reference</td><td>Book 79 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Амра, что Ибн ‘Умар сказал: «Клянусь Аллахом, я не клал кирпич на кирпич (то есть не строил здание) и не сажал пальму с тех пор, как умер Пророк ﷺ». Суфьян (один из передатчиков этого хадиса) сказал: «Я рассказал эти слова одному из его (Ибн ‘Умара) родственников, и он сказал: “Клянусь Аллахом, он построил (что-то)”». Суфьян добавил: «Я сказал: “Возможно он сказал это до того, как построил”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>6303</td></tr><tr><td>Reference</td><td>Book 79 Hadith 75</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b Khalid al-Juhani said:I would definitely watch at night the prayer observ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari [Abdullah bin Abu Bakr] dari [bapaknya] bahwa [Abdullah bin Qais bin Makhramah] telah mengabarkan kepadanya dari [Zaid bin Khalid Al Juhani] bahwa ia berkata; Saya benar-benar akan memperhatikan shalat Rasulullah shallallahu 'alaihi wasallam pada malam ini. (Maka saya melihat) beliau shalat dua raka'at ringan. Kemudian beliau shalat dua raka'at yang sangat panjang. Kemudian beliau shalat dua raka'at lagi selain dua raka'at sebelumnya. Kemudian beliau shalat dua raka'at lagi selain dua raka'at sebelumnya. Kemudian beliau shalat lagi selain dua raka'at sebelumnya. Kemudian beliau shalat dua raka'at lagi selain dua raka'at sebelumnya. Dan sesudah itu beliau shalat witir, hingga bilangan semua raka'atnya adalah tiga belas raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1804</td></tr><tr><td>Arabic No</td><td>765</td></tr><tr><td>Reference</td><td>Book 6 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Халид аль-Джухани сказал: «Я решил непременно понаблюдать за тем, как Посланник Аллаха ﷺ совершает (ночную) молитву. Он совершил два лёгких рак‘ата, потом два долгих, долгих, долгих, потом два рак‘ата короче, потом два рак‘ата ещё короче, потом два рак‘ата ещё короче, потом два рак‘ата ещё короче и завершил молитву одним рак‘атом. Таким образом, всего он совершил тринадцать рак‘атов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1804</td></tr><tr><td>Arabic No</td><td>765</td></tr><tr><td>Reference</td><td>Book 6 Hadith 232</td></tr></tbody></table></div>
 

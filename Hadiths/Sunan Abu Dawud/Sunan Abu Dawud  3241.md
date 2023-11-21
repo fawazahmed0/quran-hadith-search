@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:A man wearing ihram was thrown by his she-camel and had his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Al Hakam] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata; terdapat seorang laki-laki yang terjatuh dari untanya hingga lehernya patah dan membunuhnya, kemudian orang tersebut dibawa kepada Rasulullah shallallahu 'alaihi wasallam, kemudian beliau berkata: "Mandikan serta kafanilah dia, dan jangan kalian tutup kepalanya, serta jangan kalian dekatkan minyak wangi kepadanya. Karena sesungguhnya ia akan dibangkitkan dalam keadaan bertalbiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1839)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3241</td></tr><tr><td>Arabic No</td><td>3241</td></tr><tr><td>Reference</td><td>Book 21 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Один человек, облачённый в ихрам, неожиданно умер из-за своей верблюдицы, которая сбросила его и сломала ему шею. Его принесли к Посланнику Аллаха ﷺ и он сказал: “Обмойте его и заверните в саван, но не покрывайте ему голову и не умащайте его благовониями, ибо он будет воскрешён произносящим тальбию”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1839)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3241</td></tr><tr><td>Arabic No</td><td>3241</td></tr><tr><td>Reference</td><td>Book 21 Hadith 153</td></tr></tbody></table></div>
 

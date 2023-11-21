@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported, Abu Bakr led them in prayer due to the illness of the Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru an-Naqid] dan [Hasan al-Hulwani] serta ['Abd bin Humaid] 'Abd berkata, telah mengabarkan kepadaku, sedangkan dua orang yang lainnya berkata, telah menceritakan kepada kami [Ya'qub], dan dia adalah Ibnu Ibrahim bin Sa'ad dan telah menceritakan kepadaku [Bapakku] dari [Shalih] dari [Ibnu Syihab] dia berkata, telah mengabarkan kepadaku [Anas bin Malik] bahwa Abu Bakar shalat mengimami mereka pada saat sakit Rasulullah shallallahu 'alaihi wasallam yang menghantarkan wafatnya, hingga ketika hari Senin, sedangkan mereka berbaris dalam shalat, maka Rasulullah shallallahu 'alaihi wasallam membuka tirai kamar, lalu melihat kepada kami dalam keadaan berdiri, seakan-akan wajah beliau adalah lembaran mushaf (putih cemerlang), kemudian Rasulullah shallallahu 'alaihi wasallam tersenyum tertawa." Perawi berkata, "Maka kami tercengang bingung, dan kami berada dalam shalat karena bahagia dengan keluarnya Rasulullah Shallallahu'alaihiwasallam, dan Abu Bakar mundur kembali untuk mencapai shaf (barisan), dan dia menduga bahwa Rasulullah shallallahu 'alaihi wasallam keluar untuk shalat. Lalu Rasulullah shallallahu 'alaihi wasallam memberi isyarat kepada mereka dengan tangannya untuk menyempurnakan shalat mereka." Perawi berkata, "Kemudian Rasulullah shallallahu 'alaihi wasallam masuk, lalu menurunkan tirai tersebut." Perawi berkata, "Lalu Rasulullah shallallahu 'alaihi wasallam wafat pada hari tersebut." Dan telah menceritakannya kepadaku [Amru an-Naqid] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Anas] dia berkata, "Pandangan terakhir aku melihat pada Rasulullah shallallahu 'alaihi wasallam adalah ketika beliau membuka tabir pada hari Senin dengan kisah ini." Dan hadits Shalih lebih sempurna dan lebih lengkap. Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan ['Abd bin Humaid] semuanya meriwayatkan dari [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] dia berkata, telah mengabarkan kepadaku [Anas bin Malik] dia berkata, "Ketika pada hari Senin" dengan semisal hadits keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>944</td></tr><tr><td>Arabic No</td><td>419.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что во время той болезни Посланника Аллаха ﷺ, от которой он умер, молитвы с ними проводил Абу Бакр, и это продолжалось вплоть до понедельника. (Когда в этот день люди) выстроились рядами для совершения молитвы, Посланник Аллаха ﷺ, лицо которого было подобно листу бумаги мусхафа, поднял занавеску своей комнаты и стал смотреть на них, стоя (у дверей). А потом он улыбнулся, и при виде Посланника Аллаха ﷺ мы были радостно удивлены. (Тем временем) Абу Бакр отошёл назад, чтобы совершить молитву в (общем) ряду, решив, что Посланник Аллаха ﷺ вышел для совершения молитвы. Однако Посланник Аллаха ﷺ сделал присутствующим знак(, означавший, что они должны) закончить молитву, после чего опустил занавеску. Посланник Аллаха ﷺ скончался в тот же день
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>944</td></tr><tr><td>Arabic No</td><td>419.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 106</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra et Zayd Ibn Khâlid Al-Juhanî (رضي الله عنهم�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah bin 'Utbah bin Mas'ud] dari [Abu Hurairah] dan [Zaid bin Khalid Al Juhani] bahwa keduanya berkata, "Seorang laki-laki dari desa datang menghadap Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Ya Rasulullah, aku memohon supaya anda bersumpah dengan nama Allah, bahwa anda tidak akan menjatuhkan hukuman kepadaku kecuali sesuai dengan Kitabullah." Lawan bicara laki-laki tersebut angkat bicara -dan dia lebih pandai dari laki-laki pertama-, "Ya betul, putuskanlah perkara kami sesuai dengan Kitabullah, dan izinkanlah aku bicara lebih dahulu." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Katakanlah." Dia berbicara, "Anak laki-lakiku bekerja menjadi pegawai orang ini, lalu dia menuduh anakku berzina dengan isterinya. Sesungguhnya aku tahu, bahwa anakku harus dihukum rajam, lalu aku tebus dia dengan seratus ekor kambing dan seorang sahaya perempuan, kemudian aku bertanya kepada alim ulama, mereka mengatakan kalau anakku harus dihukum dera seratus kali dan diasingkan selama setahun, sedangkan yang perempuan mendapatkan hukuman rajam." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi dzat yang jiwaku berada di tangan-Nya, aku akan menjatuhkan hukuman bagi kalian berdua sesuai dengan kitabullah, hamba sahaya dan kambing akan dikembalikan, sementara anakmu harus didera seratus kali lalu diasingkan selama satu tahun. Wahai Unais, besok pagi pergilah kamu kepada isteri orang ini, lalu periksa, apakah dia memang benar berzina, jika dia mengaku berzina, maka rajamlah dia." Abu Hurairah berkata, "Pagilah Unais memeriksa wanita itu, ternyata dia mengaku telah berzina, maka Rasulullah shallallahu 'alaihi wasallam memrintnahkan supaya dirajam, akhirnya dia pun dirajam." Dan telah menceritakan kepada kami [Abu At Thahir] dan [Harmalah] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku ['Amru An Naqid] telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [ayahku] dari [Shalih]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] dari [Ma'mar] semuanya dari [Az Zuhri] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

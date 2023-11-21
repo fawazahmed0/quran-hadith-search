@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : Le Prophète vint à Médine et
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Ketika Rasulullah shallallahu 'alaihi wasallam belum lama tiba di Madinah, didapatinya orang-orang Yahudi berpuasa pada hari 'Asyura'. Lalu mereka pun ditanya (alasan apa mereka berpuasa di hari itu). Mereka menjawab, "Hari ini adalah hari kemenangan Musa dan Bani Isra'il atas Fir'aun. Karena itu, kami puasa pada hari ini untuk menghormati Musa." Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Sesungguhnya kami lebih pantas untuk memuliakan Musa daripada kalian." lalu beliau perintahkan agar kaum muslimin puasa pada hari 'Asyura'. Dan Telah meceritakannya kepada kami [Ibnu Basysyar] dan [Abu Bakr bin Nafi'] semuanya dari [Muhammad bin Ja'far] dari [Syu'bah] dari [Abu Bisyr] dengan isnad ini, dan ia mengatakan; Maka beliau pun menanyakan hal itu pada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2656</td></tr><tr><td>Arabic No</td><td>1130.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2656</td></tr><tr><td>Arabic No</td><td>1130.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 162</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya] dan ['Ubaidullah], telah menceritakan kepadaku [Nafi'], dari [Abdullah] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Kewajiban seorang muslim adalah mendengar dan mentaati dalam perkara yang ia senangi maupun ia benci, selama ia tidak diperintahkan untuk bermaksiat. Apabila ia diperintakan untuk bermaksiat, maka tidak boleh mendengar dan mentaati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7144) Sahih Muslim (1839)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2626</td></tr><tr><td>Arabic No</td><td>2626</td></tr><tr><td>Reference</td><td>Book 15 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7144) Sahih Muslim (1839)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2626</td></tr><tr><td>Arabic No</td><td>2626</td></tr><tr><td>Reference</td><td>Book 15 Hadith 150</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hassan ibn Ibrahim: I asked Hisham ibn Urwah about the cutting of a lot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah] dan [Humaid bin Mas'adah] keduanya berkata; telah menceritakan kepada kami [Hassan bin Ibrahim] ia berkata, "Aku bertanya kepada [Hisyam bin Urwah] tentang menebang pohon bidara, saat itu ia sedang bersandar pada kayu milik Urwah, Hisyam lalu menjawab, "Apa pendapatmu dengan pintu-pintu dan mashari' (daun pintu) ini, ia terbuat dari kayu bidara milik Urwah. Urwah memotongnya dari kebun miliknya." [Urwah] berkata, "Itu tidak apa-apa." -Humaid menambahkan- Hisyam bin Urwah lalu berkata (kepada Hassan bin Ibrahim), "Wahai orang Irak, itu (memotong pohon bidara tidak boleh) hanyalah bid'ah yang kamu bawa kepadaku." Hassan berkata, "Aku lalu berkata, "Hanyasanya bid'ah itu datang dari kalian (wahai Hisyam), di Makkah aku mendengar seseorang mengatakan bahwa Rasulullah shallallahu 'alaihi wasallam melaknat orang yang memotong pohon bidara…. kemudian hadits tersebut disebutkan secara makna dengan lengkap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 43 Hadith 469</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 43 Hadith 469</td></tr></tbody></table></div>
 

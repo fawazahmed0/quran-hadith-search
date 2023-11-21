@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:Regarding the above narration, The Prophet (ﷺ) said, "I do n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7004</td></tr><tr><td>Arabic No</td><td>7004</td></tr><tr><td>Reference</td><td>Book 91 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Посланник Аллаха ﷺ) сказал: «Я не знаю, что будет сделано с ним». (Умм аль-‘Аля) сказала: «(Это) меня опечалило, я легла спать и увидела (во сне) текущий родник, принадлежавший ‘Усману (ибн Маз‘уну). И я сообщила (об этом) Посланнику Аллаха ﷺ и он сказал: “Это его деяния”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7004</td></tr><tr><td>Arabic No</td><td>7004</td></tr><tr><td>Reference</td><td>Book 91 Hadith 22</td></tr></tbody></table></div>
 

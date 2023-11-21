@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "When I start the prayer I inten
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Yazid bin Zurai'] berkata, telah menceritakan kepada kami [Sa'id] berkata, telah menceritakan kepada kami [Qatadah] bahwa [Anas bin Malik] menceritakan kepadanya, bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Saat aku shalat dan ingin memanjangkan bacaanku, tiba-tiba aku mendengar tangian bayi sehingga aku pun memendekkan shalatku, sebab aku tahu ibunya akan susah dengan adanya tangisan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>709</td></tr><tr><td>Arabic No</td><td>709</td></tr><tr><td>Reference</td><td>Book 10 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Поистине, я приступаю к молитве, желая проводить её долго, но когда слышу плач ребёнка, то сокращаю её из-за того, что знаю, какое огорчение чувствует его мать из-за его плача»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>709</td></tr><tr><td>Arabic No</td><td>709</td></tr><tr><td>Reference</td><td>Book 10 Hadith 104</td></tr></tbody></table></div>
 

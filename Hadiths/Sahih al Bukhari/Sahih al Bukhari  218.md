@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) once passed by two graves and said, "These
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, [Muhammad bin Hazm] berkata, telah menceritakan kepada kami [Al A'masy] dari [Mujahid] dari [Thawus] dari [Ibnu 'Abbas] berkata, "Rasulullah shallallahu 'alaihi wasallam lewat di dekat dua kuburan, lalu beliau bersabda: "Sesungguhnya keduanya sedang disiksa, dan keduanya disiksa bukan karena dosa besar. Yang satu disiksa karena tidak bersuci setelah kencing, sementara yang satunya suka mengadu domba." Kemudian beliau mengambil sebatang dahan kurma yang masih basah, beliau lalu membelahnya menjadi dua bagian kemudian menancapkannya pada masing-masing kuburan tersebut. Para sahabat pun bertanya, "Wahai Rasulullah, kenapa engkau melakukan ini?" beliau menjawab: "Semoga siksa keduanya diringankan selama batang pohon ini basah." [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Waki'] berkata, telah menceritakan kepada kami [Al A'masy] ia berkata, "Aku mendengar [Mujahid] menyebutkan seperti itu, "Tidak bersuci setelah kencing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 4 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) Посланник Аллаха ﷺ проходивший мимо двух могил, сказал: “Поистине, они [обитатели этих могил] подвергаются мучениям, и ведь эти мучения не из-за чего-то, что было бы тяжело [соблюдать]. Что касается одного из них, то он не прикрывался от собственной мочи, а что касается другого, то он распространял сплетни”». Потом он взял голую пальмовую ветвь, разломал её на две половинки и воткнул на каждую из могил (этих людей) по одной. Его спросили: “О Посланник Аллаха, зачем ты это сделал?” — на что он ответил: “Возможно, это будет облегчать их (мучения), пока ветки не засохнут”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 4 Hadith 84</td></tr></tbody></table></div>
 

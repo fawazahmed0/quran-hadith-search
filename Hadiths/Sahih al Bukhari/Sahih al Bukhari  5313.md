@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) separated (divorced) the wife from he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Al Mundzir] Telah menceritakan kepada kami [Anas bin Iyadl] dari [Ubaidullah] dari [Nafi'] bahwa [Ibnu Umar] radliallahu 'anhuma telah menganbarkan kepadanya bahwasanya; Rasulullah shallallahu 'alaihi wasallam pernah memisahkan seorang laki-laki dan isterinya yang telah dituduhnya berzina. Dan beliau juga meminta keduanya untuk bersumpah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5313</td></tr><tr><td>Arabic No</td><td>5313</td></tr><tr><td>Reference</td><td>Book 68 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, рассказал, что Посланник Аллаха ﷺ расторг брак мужчины с его женой, который обвинил её в прелюбодеянии и велел им обоим поклясться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5313</td></tr><tr><td>Arabic No</td><td>5313</td></tr><tr><td>Reference</td><td>Book 68 Hadith 62</td></tr></tbody></table></div>
 

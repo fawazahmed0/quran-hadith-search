@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is narrated on the same authority from A'mash by another chain of tr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>623</td></tr><tr><td>Arabic No</td><td>272.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но в этой версии говорится: «И товарищи ‘Абдуллаха удивлялись этому хадису, так как Джарир принял ислам только после ниспослания (аята из суры) “аль-Маида”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>623</td></tr><tr><td>Arabic No</td><td>272.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 90</td></tr></tbody></table></div>
 

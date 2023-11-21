@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir (que Dieu l'agrée), le Prophète (paix et bénédiction de Dieu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Muhammad bin Rumh]; Telah mengabarkan kepada kami [Al Laits] dari [Abu Zubair] dari [Jabir] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Tutuplah oleh kalian bejana-bejana, rapatkanlah tempat-tempat minuman, tutuplah pintu-pintu, dan matikanlah lampu, karena setan tidak dapat membuka ikatan tempat minum, pintu, dan bejana. Jika kalian tidak mendapatkan penutupnya kecuali dengan membentangkan sepotong kayu di atas bejananya dan menyebut nama Allah, maka lakukanlah. Karena tikus dapat merusak pemilik rumah dengan membakar rumahnya." Tapi Qutaibah dalam Haditsnya tidak menyebutkan; "dan tutuplah pintu-pintu". Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Aku membaca kitab [Malik] mengenai Hadits ini dari [Abu Zubair] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam, namun dia menyebutkan; "Dan tutupalah rapat-rapat atau tutuplah bejana-bejana." Dia tidak menyebutkan merentangkan kayu di atas bejana. Dan telah mengabarkan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Abu Zubair] dari [Jabir] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tutuplah pintu-pintu, " dan kemudian dia menyebutkan yang serupa dengan Hadist Laits, namun dia menyebutkan; "Tutuplah bejana, " dan berkata; "Sesungguhnya tikus dapat merusak pemilik rumah dengan membakar pakaiannya." Dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna], telah menceritakan kepada kami [Abdurrahman], telah menceritakan kepada kami [Sufyan] dari [Abu Zubair] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa, dan dia berkata; 'Tikus dapat merusak pemilik rumah dengan membakar rumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5246</td></tr><tr><td>Arabic No</td><td>2012.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5246</td></tr><tr><td>Arabic No</td><td>2012.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 120</td></tr></tbody></table></div>
 

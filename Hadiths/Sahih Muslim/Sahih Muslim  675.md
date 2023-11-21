@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asma (raa) a dit : Une femme vint trouver le Prophète et lui demanda : "Qu'est-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Hisyam bin Urwah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Hatim] dan lafazh tersebut miliknya, telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hisyam bin Urwah] dia berkata, telah menceritakan kepada kami [Fatimah] dari [Asma'] dia berkata, "Seorang perempuan datang menemui Nabi shallallahu 'alaihi wasallam seraya berkata, 'Pakaian salah seorang dari kalangan kami terkena darah haid. Apa yang harus dia lakukan? ' Beliau bersabda: "Keriklah darah itu (terlebih dahulu), kemudian bilaslah ia dengan air, kemudian siramlah ia. Setelah itu (kamu boleh) menggunakannya untuk mendirikan shalat." Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Numair]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu ath-Thahir] telah mengabarkan kepada kami [Ibnu Wahab] telah mengabarkan kepada kami [Yahya bin Abdullah bin Salim] dan [Malik bin Anas] serta [Amru bin al-Harits] semuanya dari [Hisyam bin Urwah] dengan sanad ini seperti hadits Yahya bin Sa'id
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>675</td></tr><tr><td>Arabic No</td><td>291.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма сказала: «(Как-то раз) к Пророку ﷺ пришла одна женщина и сказала: “Менструальная кровь (может) попасть на одежду некоторых из нас, так что (женщине) следует с ней сделать?” Он ответил: “Пусть удалит (следы крови, когда она высохнет), потом польёт (это место) водой и потрёт его (руками), а потом обрызгает его, после чего она (может) молиться в этой одежде”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>675</td></tr><tr><td>Arabic No</td><td>291.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 141</td></tr></tbody></table></div>
 

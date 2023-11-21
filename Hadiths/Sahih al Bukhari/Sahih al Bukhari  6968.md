@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "A virgin should not be married til
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Yahya bin Abi Katsir] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, bersabda: "Gadis tidak boleh dinikahi hingga dimintai izin, dan janda tidak bleh dinikahi hingga dimintai persetujuannya." Ada yang bertanya; 'ya Rasulullah, bagaimana tanda izinnya? ' Nabi menjawab: "tandanya diam." Sebagian orang berpendapat; Jika seorang gadis belum dimintai izin, kemudian seseorang mencari siasat, kemudian dua orang saksi dusta bersaksi bahwa laki-laki tersebut telah menikahinya dengan kerelaannya, dan hakim memutuskannya secara resmi, dan suami tahu bahwa persaksiannya adalah dusta, maka yang demikian tidak mengapa untuk menyetubuhinya, dan termasuk pernikahan yang sah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6968</td></tr><tr><td>Arabic No</td><td>6968</td></tr><tr><td>Reference</td><td>Book 90 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Не следует выдавать замуж девственницу, не спросив её согласия (на это), и не следует выдавать замуж побывавшую замужем, не посоветовавшись с ней». (Люди) спросили: «О Посланник Аллаха, а как же мы узнаем о её согласии?» (Пророк ﷺ) сказал: «По её молчанию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6968</td></tr><tr><td>Arabic No</td><td>6968</td></tr><tr><td>Reference</td><td>Book 90 Hadith 15</td></tr></tbody></table></div>
 

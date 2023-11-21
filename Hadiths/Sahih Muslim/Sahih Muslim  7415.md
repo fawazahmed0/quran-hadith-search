@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The earth would consume a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Mughirah Al Hizami] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Setiap anak cucu Adam dimakan tanah kecuali tulang ekor. Dari situlah ia diciptakan dari Disitulah ia disusun (kembali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7415</td></tr><tr><td>Arabic No</td><td>2955.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Земля пожирает всё (тело) сына Адама, кроме копчика. Из него (началось) его сотворение и из него он (будет заново) воссоздан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7415</td></tr><tr><td>Arabic No</td><td>2955.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 176</td></tr></tbody></table></div>
 

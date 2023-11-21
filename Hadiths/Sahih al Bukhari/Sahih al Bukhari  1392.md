@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Maimun Al-Audi:I saw 'Umar bin Al-Khattab (when he was stabbed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir bin 'Abdul Hamid] telah menceritakan kepada kami [Hushain bin 'Abdurrahman] dari ['Amru bin Maimun Al Audiy] berkata,: "Aku melihat ['Umar bin Al Khaththab] radliallahu 'anhu berkata,: "Wahai 'Abdullah bin Umar temuilah Ummul Mu'minin 'Aisyah radliallahu 'anha lalu sampaikan bahwa 'Umar bin Al Khaththab menyampaikan salam kepadamu, kemudian mintalah agar aku dikubur bersama kedua temanku. 'Aisyah berkata; "Aku dulu menginginkan tempat itu untukku, namun sekarang aku lebih mengutamakannya daripada diriku. Ketika ia pulang, Umar berkata, kepadanya: "Jawaban apa yang kamu bawa?". Ia menjawab; "Engkau telah mendapat izin wahai Amirul Mu'minin, lalu ia berkata,: "Tidak ada sesuatu yang lebih aku cintai daripada tempat berbaring itu, dan jika aku sudah meninggal, bawalah aku kepadanya lalu sampaikan salam dan katakan bahwa 'Umar bin Al Khaththab telah meminta izin, dan jika diizinkan maka kuburkanlah aku disana, dan jika tidak, maka kuburlah aku dipekuburan kaum muslimin. Sebab aku tidak mengetahui seseorang yang lebih berhak pada perkara ini daripada mereka, orang-orang yang ketika beliau meninggal maka Rasulullah Shallallahu'alaihiwasallam telah meridhai mereka, maka barangsiapa yang menggantikan aku setelahku dialah khalifah, wajib dengar dan taatlah padanya. Lalu ia menyebut nama 'Utsman, 'Ali, Thalhah, Az Zubair, 'Abdur-Rahman bin 'Auf, Saad bin Abi Waqqas. Kemudian seorang pemuda Anshar datang kepadanya, ia berkata,: "Wahai Amirul Mu'minin, berilah kabar gembira yang diberikan Allah kepadamu karena masuk Islam pertama kali seperti yang telah engkau ketahui, lalu engkau diangkat menjadi khalifah dan setelah ini semua engkau akan mati syahid?". Da menjawab: "Barangkali cukuplah yang engkau katakan itu wahai anak saudaraku, aku berwasiat kebaikan kepada khalifah setelahku terhadap orang-orang yang pertama-tama berhijrah, agar ia mengerti hak-hak mereka dan menjaga kehormatan mereka, dan aku berwasiat kebaikan kepadanya terhadap orang-orang Anshar, yang mereka telah menempati Madinah dan beriman kepada Allah Ta'ala, agar ia terima orang-orang yang baik diantara mereka dan memaafkan orang-orang yang berbuat buruk diantara mereka, dan aku berwasiat kepadanya akan tanggungan Allah dan RasulNya Shallallahu'alaihiwasallam agar ia menepati perjanjian dengannya, dan ia berperang dibelakangnya, serta tidak membebani mereka dengan apa yang tidak mereka mampu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1392</td></tr><tr><td>Arabic No</td><td>1392</td></tr><tr><td>Reference</td><td>Book 23 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар бин аль-Хаттаб, да будет доволен им Аллах, сказал: «Поистине, я не знаю никого более достойного этого, чем эти люди, которыми Посланник Аллаха ﷺ оставался доволен до самой смерти. Халифом должен стать тот, кого изберут они, вы же слушайте его и повинуйтесь ему!» — и он назвал имена ‘Усмана, ‘Али, Тальхи, аз-Зубайра, ‘Абдуррахмана бин ‘Ауфа и Са‘да бин Абу Ваккаса, да будет доволен ими Аллах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1392</td></tr><tr><td>Arabic No</td><td>1392</td></tr><tr><td>Reference</td><td>Book 23 Hadith 146</td></tr></tbody></table></div>
 

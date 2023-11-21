@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Qatâda (que Dieu l'agrée) a dit : Quand nous atteignîmes Al-Qâha avec l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari [Shalih bin Kaisan] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Abu Umar] -lafazh juga miliknya- Telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Shalih bin Kaisan] ia berkata, saya mendengar [Abu Muhammad] Maula Abu Qatadah, berkata, saya mendengar [Abu Qatadah] berkata; Pada suatu ketika, kami bepergian bersama-sama Rasulullah shallallahu 'alaihi wasallam. Setelah sampai di Qahah, sebagian kami ada yang ihram dan ada pula yang tidak ihram. Sementara itu, aku melihat kawan-kawanku sedang memperhatikan sesuatu, lalu aku ikut pula melihatnya bersama-sama dengan mereka. Kiranya seekor himar liar. Aku segera memasang pelana kudaku dan kuambil lembingku, lalu kukendarai kudaku. Tetapi sayang, cemetiku terjatuh. Aku meminta tolong kepada kawan-kawanku untuk mengambilkannya, sedangkan mereka adalah orang-orang yang ihram. Mereka pun menjawab, "Kami tidak bisa menolongmu sedikit pun jua." Lalu aku turun untuk mengambilnya sendiri. Sesudah itu, kukendarai kudaku kembali dan kukejar himar itu. kudapati ia sedang berada di belakang gundukan pasir, lalu kutusuk lambungnya dengan lembingku, dan dagingnya kubawakan untuk kawan-kawanku. Sebagian mereka mengatakan boleh memakan daging itu dan sebagian yang lain tidak boleh. Sedangkan Nabi shallallahu 'alaihi wasallam telah berlalu terlebih dahulu daripada kami. Lalu kupacu kudaku sehingga beliau tersusul olehku. Beliau bersabda: "Daging itu halal, makanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>1196.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>1196.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 61</td></tr></tbody></table></div>
 

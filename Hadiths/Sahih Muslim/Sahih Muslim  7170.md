@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Samura b. Jundub reported Allah's Messenger (ﷺ) as saying:There would be among
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Zurarah] telah mengkhabarkan kepada kami [Abdulwahab bin Atha'] dari [Sa'id] dari [Qatadah] berkata: Aku mendengar [Abu Nadhrah] menceritakan dari [Samurah bin Jundub] nabi Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya diantara mereka ada yang terkena api neraka hingga mata kakinya, ada yang terkena api neraka hingga lutut, ada yang terkena api neraka hingga tempat ikat pinggang dan ada yang terkena api neraka hingga tulang selangka." Telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar] keduanya berkata: Telah menceritakan kepada kami [Rauh] telah menceritakan kepada kami [Sa'id] dengan sanad ini, ia mengganti HUJZATIHI (tempat pengikat pinggang) dengan HIQWAIHI (pinggang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7170</td></tr><tr><td>Arabic No</td><td>2845.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7170</td></tr><tr><td>Arabic No</td><td>2845.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 39</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Seereen:I said to 'Abida, "I have some of the hair of the Prophet (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] berkata, telah menceritakan kepada kami [Israil] dari ['Ashim] dari [Ibnu Sirin] berkata, "Aku berkata kepada Abidah, "Kami memiliki rambut Nabi shallallahu 'alaihi wasallam yang kami dapat dari [Anas], atau keluarga Anas.' Ia lalu berkata, "Sekiranya aku memiliki satu helai rambut Rasulullah, maka itu lebih aku sukai daripada dunia dan seisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>170</td></tr><tr><td>Arabic No</td><td>170</td></tr><tr><td>Reference</td><td>Book 4 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Сирин сказал: «Однажды я сказал ‘Абиде: “У нас есть кое-что из волос Пророка ﷺ которые мы получили от Анаса или от его семьи”. Тогда он сказал: “Иметь у себя его волосы любимее для меня, чем этот мир и всё что в нём есть!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>170</td></tr><tr><td>Arabic No</td><td>170</td></tr><tr><td>Reference</td><td>Book 4 Hadith 36</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said on the day (of the battle) of Badr, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim binMusa] telah mengabarkan kepada kami ['Abdul Wahhab] telah menceritakan kepada kami [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas RAa] bahwa Nabi shallallahu 'alaihi wasallam berkata pada saat perang Badar: "Ini Jibril 'alaihis salam sedang memegang kepala kudanya dan dirinya dilengkapi peralatan perang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3995</td></tr><tr><td>Arabic No</td><td>3995</td></tr><tr><td>Reference</td><td>Book 64 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что в день Бадра Пророк ﷺ сказал: «Вот Джибриль с боевым оружием держится за голову своего коня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3995</td></tr><tr><td>Arabic No</td><td>3995</td></tr><tr><td>Reference</td><td>Book 64 Hadith 46</td></tr></tbody></table></div>
 

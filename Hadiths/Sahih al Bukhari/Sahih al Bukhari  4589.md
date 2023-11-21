@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:Regarding the Verse:-- "Then what is the matter with yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ghundar] dan ['Abdur Rahman] berkata; Telah menceritakan kepada kami [Syu'bah] dari ['Adi] dari ['Abdullah bin Yazid] dari [Zaid bin Tsabit radliallahu 'anhu] bahwa ia berkata mengenai ayat; 'famaa lakum fiil munafiqiin fi'atain' Maka mengapa kamu (terpecah) menjadi dua golongan. Zaid berkata; Beberapa orang dari sahabat Nabi shallallahu 'alaihi wasallam kembali dari perang Uhud, hingga mereka terpecah menjadi dua kelompok yang menyatakan perang dan sekelompok yang menyatakan tidak berperang, lalu turun ayat ini 'famaa lakum fiil munafiqiin fi'atain' juga ia berkata; "Merekalah orang yang baik, yang telah membersihkan kotoran sebagaimana api membersihkan karat-karat logam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4589</td></tr><tr><td>Arabic No</td><td>4589</td></tr><tr><td>Reference</td><td>Book 65 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Сабит, да будет доволен им Аллах, сказал относительно аята «Почему вы разошлись во мнениях относительно лицемеров на две группы?»: «Когда некоторые сподвижники Пророка ﷺ вернулись с битвы при Ухуде, другие сподвижники разошлись в отношении них на два мнения: часть (сподвижников) сказала: “Давайте убьём их (вернувшихся)”, но другая часть сказала: “Не будем убивать”. Тогда было ниспослано: “Почему вы разошлись во мнениях относительно лицемеров на две группы?” Пророк ﷺ сказал: “Она (Медина) — благая. Она удаляет (от себя) грехи так же, как огонь удаляет примеси от серебра”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4589</td></tr><tr><td>Arabic No</td><td>4589</td></tr><tr><td>Reference</td><td>Book 65 Hadith 111</td></tr></tbody></table></div>
 

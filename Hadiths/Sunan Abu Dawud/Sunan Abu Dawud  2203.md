@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah said The Apostle of Allaah(ﷺ) gave us our choice and we chose him so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu 'Awanah] dari [Al A'masy] dari [Abu Adh Dhuha] dari [Masruq] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam memberiku pilihan, maka aku memilih beliau, dan hal tersebut tidak dianggap sebagai perceraian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5262) Sahih Muslim (1477)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2203</td></tr><tr><td>Arabic No</td><td>2203</td></tr><tr><td>Reference</td><td>Book 13 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказала ‘Аиша, да будет доволен ею Аллах: «Посланник Аллаха ﷺ предоставил нам выбор, и мы выбрали его. И он не считал это (разводом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5262) Sahih Muslim (1477)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2203</td></tr><tr><td>Arabic No</td><td>2203</td></tr><tr><td>Reference</td><td>Book 13 Hadith 29</td></tr></tbody></table></div>
 

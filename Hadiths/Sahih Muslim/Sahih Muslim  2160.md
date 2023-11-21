@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Malik al-Ash'ari reported Allah's Messenger (ﷺ) as saying:Among my people 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Aban bin Yazid] -dalam jalur lain- Dan telah menceritakan kepadaku [Ishaq bin Manshur] -dan lafazh juga miliknya- telah mengabarkan kepada kami [Habban bin Hilal] telah menceritakan kepada kami [Aban] telah menceritakan kepada kami [Yahya] bahwa [Zaid] telah menceritakan kepadanya bawah [Abu Sallam] telah menceritakan kepadanya bahwa [Abu Malik Al Asy'ari] telah menceritakan kepadanya bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Ada empat perkara jahiliyah yang masih melekat pada umatku dan mereka belum meninggalkannya: Membanggakan kedudukan, mencela nasab (garis keturunan), meminta hujan dengan bintang-bintang, dan niyahah (meratapi mayit)." Dan beliau bersabda: "Orang yang meratapi mayit, jika ia belum bertaubat sebelum ajalnya tiba maka pada hari kiamat ia akan dibangkitkan dengan memakai baju panjang yang berwarna hitam dan memakai tameng dari pedang yang sudah karatan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2160</td></tr><tr><td>Arabic No</td><td>934</td></tr><tr><td>Reference</td><td>Book 11 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Малика аль-Аш‘ари, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Члены моей общины не отказались от четырёх дел, которые совершались во времена джахилиййи: от (обыкновения) гордиться своим происхождением, порочить происхождение (других), обращаться к звёздам с мольбами о ниспослании дождя и причитать по покойным». Он также сказал: «Если (женщина,) громко причитавшая над покойным не покается в этом до своей собственной смерти, то в День воскресения она будет воскрешена в одеянии из жидкой смолы и панцире из струпьев»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2160</td></tr><tr><td>Arabic No</td><td>934</td></tr><tr><td>Reference</td><td>Book 11 Hadith 38</td></tr></tbody></table></div>
 

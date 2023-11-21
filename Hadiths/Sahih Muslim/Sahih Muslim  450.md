@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammad b. Salama narrated it on the same authority and added:He then recited the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>450</td></tr><tr><td>Arabic No</td><td>181.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 355</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса с другим иснадом он добавил: «…затем он прочитал этот аят “Тем, которые творили добро, уготовано Наилучшее и добавка” (сура «Юнус», аят 26)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>450</td></tr><tr><td>Arabic No</td><td>181.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 355</td></tr></tbody></table></div>
 

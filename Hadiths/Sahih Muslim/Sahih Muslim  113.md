@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (le Très-Haut) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ashim] -yaitu Ibnu Muhammad bin Zaid bin Abdullah bin Umar- dari [bapaknya] dia berkata; [Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Islam dibangun atas lima dasar: Yaitu persaksian bahwa tidak ada tuhan (yang berhak disembah) melainkan Allah, bahwa Muhammad adalah hamba dan Rasul-Nya, mendirikan shalat, menunaikan zakat, berhaji ke Baitullah, dan berpuasa Ramadlan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>113</td></tr><tr><td>Arabic No</td><td>16.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Асым (ибн Мухаммад ибн Зейд ибн ‘Абдуллах ибн ‘Умар) передал со слов своего отца о том, что тот сказал: ‘Абдуллах (Ибн ‘Умар, да будет доволен Аллах ими обоими,) сказал: «Посланник Аллаха ﷺ сказал: “Ислам основывается на пяти (столпах): свидетельстве о том, что нет божества достойного поклонения, кроме Аллаха и что Мухаммад Его раб и посланник, выстаивании молитвы, выплате закята, совершении хаджа к Дому и соблюдении поста в Рамадане”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>113</td></tr><tr><td>Arabic No</td><td>16.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 21</td></tr></tbody></table></div>
 

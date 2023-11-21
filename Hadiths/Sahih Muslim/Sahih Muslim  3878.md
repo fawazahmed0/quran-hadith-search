@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. al-Musayyib said that Allah's Messenger (ﷺ) forbade the transaction o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Hujain bin Al Mutsanna] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Sa'id bin Musayyab] bahwasannya Rasulullah Shallallu 'alaihi wa sallam melarang transaksi dengan sistem muzabanah dan muhaqalah. Muzabanah ialah seseorang menjual buah kurma yang masih di pohon dengan kurma kering, sedangkan muhaqalah ialah seseorang menjual biji-bijian dengan gandum serta menyewakan tanah dengan gandum. Dia (Sa'id bin Musayyib) berkata; Telah mengabarkan kepadaku [Salim bin Abdullah] dari Rasulullah Shallallu 'alaihi wa sallam bahwa beliau bersabda: "Janganlah kalian membeli buah-buahan sampai nampak matangnya dan janganlah kalian membeli buah-buahan dengan buah kurma." [Salim] berkata; Telah mengabarkan kepadaku [Abdullah] dari [Zaid bin Tsabit] dari Rasulullah Shallallu 'alaihi wa sallam bahwa setelah itu beliau memberikan keringanan dalam transaksi 'Ariyyah dengan ruthab (kurma basah) atau tamr (kurma kering) dan tidak memberi keringanan selain itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3878</td></tr><tr><td>Arabic No</td><td>1539.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3878</td></tr><tr><td>Arabic No</td><td>1539.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 77</td></tr></tbody></table></div>
 

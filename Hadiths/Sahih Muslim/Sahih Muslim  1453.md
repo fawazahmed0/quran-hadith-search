@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported that the Messenger of Allah (ﷺ) postponed the last 'I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Said] dan [Abu Bakr bin Abu Syaibah]. Yahya mengatakan; telah mengabarkan kepada kami, sedangkan dua orang lainnya mengatakan; telah menceritakan kepada kami [Abul Al Ahwash] dari [Simak] dari [Jabir bin Samurah] Rasulullah shallallahu 'alaihi wasallam biasa mengakhirkan shalat isya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1453</td></tr><tr><td>Arabic No</td><td>643.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 286</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Самура сказал: «Посланник Аллаха ﷺ откладывал вечернюю молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1453</td></tr><tr><td>Arabic No</td><td>643.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 286</td></tr></tbody></table></div>
 

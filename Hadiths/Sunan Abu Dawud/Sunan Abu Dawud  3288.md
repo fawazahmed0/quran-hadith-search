@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:The Messenger of Allah (ﷺ) as saying: A vow does not pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Daud], ia berkata; telah dibacakan riwayat kepada [Al Harits bin Miskin], sementara aku menyaksikan. Telah mengabarkan kepada kalian [Ibnu Wahb], ia berkata; telah mengabarkan kepadaku [Malik] dari [Abu Az Zinad], dari [Abdurrahman bin Hurmuz] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam berkata: "Tidaklah nadzar mendatangi Adam menuju kepada takdir dengan membawa sesuatu pun yang belum Aku takqirkan untuknya, akan tetapi nadzar tersebut mempertemukannya dengan takdir yang telah Aku takdirkan. Nadzar dikeluarkan dari orang yang bakhil, ia memberi karena nadzar tersebut sesuatu yang belum pernah ia berikan sebelumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6694) Sahih Muslim (1640)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3288</td></tr><tr><td>Arabic No</td><td>3288</td></tr><tr><td>Reference</td><td>Book 22 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Укбы ибн ‘Амира аль-Джухани, да будет доволен им Аллах: «Моя сестра дала обет идти к Дому Аллаха (Каабе) пешком и попросила меня посоветоваться с посланником Аллаха ﷺ относительно её обета. Я посоветовался с Пророком ﷺ и он сказал: “Пусть то идёт, то едет верхом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6694) Sahih Muslim (1640)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3288</td></tr><tr><td>Arabic No</td><td>3288</td></tr><tr><td>Reference</td><td>Book 22 Hadith 47</td></tr></tbody></table></div>
 

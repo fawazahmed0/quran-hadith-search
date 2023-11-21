@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Khudri reported that Allah's Messenger (ﷺ) said:Do not take down any
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid Al Azdi] telah menceritakan kepada kami [Hammam] dari [Zaid bin Aslam] dari [Atho' bin Yasar] dari [Abu Sa'id Al Khudri] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Janganlah kalian menulis dariku, barangsiapa menulis dariku selain al-Qur'an hendaklah dihapus, dan ceritakanlah dariku dan tidak ada dosa. Barangsiapa berdusta atas (nama) ku -Hammam berkata: Aku kira ia (Zaid) berkata: dengan sengaja, maka henkdaklah menyiapkan tempatnya dari neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7510</td></tr><tr><td>Arabic No</td><td>3004</td></tr><tr><td>Reference</td><td>Book 55 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри (да будет доволен им Аллах), что Посланник Аллаха ﷺ сказал: «Не записывайте мои (слова), и пусть тот, кто записал что-либо, кроме (аятов) Корана, сотрёт это. Передавайте мои (слова) нет в этом греха, но пусть тот, кто будет возводить на меня ложь, (Хаммам сказал: «Я думаю, что он сказал “намеренно”») (приготовится) занять своё место в Огне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7510</td></tr><tr><td>Arabic No</td><td>3004</td></tr><tr><td>Reference</td><td>Book 55 Hadith 92</td></tr></tbody></table></div>
 

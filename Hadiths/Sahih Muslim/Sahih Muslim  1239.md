@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) stood for prayer with a garment whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata, telah mengabarkan kepadaku [Urwah bin az-Zubair] dari [Aisyah radhiyallahu'anhu] dia berkata, "Rasulullah Shallallahu'alaihiwasallam pernah berdiri untuk shalat dengan memakai baju yang bergambar tanda (bercorak-corak), lalu beliau melihat kepada corak itu. Setelah selesai shalat, maka beliau bersabda, 'Bawalah baju ini kepada Abu Jahm bin Hudzaifah, dan bawakanlah untukku baju yang polos. Karena baju itu melalaikanku (dari kekhusyu'an) shalatku barusan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1239</td></tr><tr><td>Arabic No</td><td>556.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Однажды, когда Посланник Аллаха ﷺ молился в (новой) одежде /хамиса/, его взгляд упал на узоры, которыми она была украшена. Закончив молиться, он велел: “Отнесите эту одежду Абу Джахму ибн Хузейфе, а мне принесите его одежду (анбиджанийа), ибо (хамиса) отвлекла меня от молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1239</td></tr><tr><td>Arabic No</td><td>556.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 77</td></tr></tbody></table></div>
 

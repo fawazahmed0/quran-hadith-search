@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:I went to the Prophet (ﷺ) with two men from Ash'ari tribe. I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Qurrah bin Khalid] berkata, telah menceritakan kepada saya [Humaid bin Hilal] telah menceritakan kepada kami [Abu Burdah] dari [Abu Musa radliallahu 'anhu] berkata; Aku menghadap menemui Nabi shallallahu 'alaihi wasallam bersama dua orang suku Al Asyariyyin, aku bertanya: "Apa yang harus aku lakukan bila keduanya mengharapkan pekerjaan?" Beliau bersabda: "Sekali-kali jangan atau janganlah engkau memperkerjakan dalam urusan kita ini orang yang berambisi menginginkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2261</td></tr><tr><td>Arabic No</td><td>2261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «(Однажды) я пришёл к Пророку ﷺ с двумя людьми из числа аш‘аритов и сказал (ему): “Я не знал, что они ищут работу”. (На это Пророк ﷺ) сказал: “Мы ни за что не назначим (или: Мы не назначаем) тех, кто сам добивается этого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2261</td></tr><tr><td>Arabic No</td><td>2261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 2</td></tr></tbody></table></div>
 

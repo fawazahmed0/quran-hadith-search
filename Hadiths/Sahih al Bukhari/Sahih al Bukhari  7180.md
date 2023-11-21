@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Hind (bint 'Utba) said to the Prophet (ﷺ) "Abu Sufyan is a mis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] Telah mengabarkan kepada kami [Sufyan] dari [Hisyam] dari [ayahnya] dari [Aisyah] radliallahu 'anha, Hindun binti Utbah berkata kepada Nabi shallallahu 'alaihi wasallam; "Abu Sufyan itu orangnya sangat pelit, maka aku perlu mengambil hartanya (tanpa sepengetahuannya)!" Nabi menjawab: "ambillah yang mencukupimu dan anak-anakmu dengan cara yang ma'ruf (wajar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7180</td></tr><tr><td>Arabic No</td><td>7180</td></tr><tr><td>Reference</td><td>Book 93 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Хинд сказала Пророку ﷺ: “Поистине, Абу Суфйан — человек скупой, я нуждаюсь в том, чтобы брать (что-то) из его денег?” Он сказал: “Бери то, чего для тебя и твоим сыновьям будет достаточно, сообразно обычаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7180</td></tr><tr><td>Arabic No</td><td>7180</td></tr><tr><td>Reference</td><td>Book 93 Hadith 43</td></tr></tbody></table></div>
 

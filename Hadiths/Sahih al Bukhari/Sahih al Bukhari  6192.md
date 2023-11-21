@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Zainab's original name was "Barrah," but it was said' "By t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Al Fadl] telah mengabarkan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari ['Atha' bin Abu Maimunah] dari [Abu Rafi'] dari [Abu Hurairah] bahwa Zainab nama (aslinya) adalah Barrah, maka dikatakan kepadanya; "Apakah kamu hendak mensucikankan dirinya?" setelah itu Rasulullah shallallahu 'alaihi wasallam menamainya Zainab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6192</td></tr><tr><td>Arabic No</td><td>6192</td></tr><tr><td>Reference</td><td>Book 78 Hadith 216</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что первоначально Зайнаб звали Барра, и (люди стали) говорить: «Она (как бы) сама себя восхваляет», после чего Посланник Аллаха ﷺ назвал её Зайнаб
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6192</td></tr><tr><td>Arabic No</td><td>6192</td></tr><tr><td>Reference</td><td>Book 78 Hadith 216</td></tr></tbody></table></div>
 

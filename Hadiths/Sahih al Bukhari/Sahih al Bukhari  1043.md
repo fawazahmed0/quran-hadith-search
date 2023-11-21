@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:"The sun eclipsed in the lifetime of Allah's Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Hasyim bin Al Qasim] berkata, telah menceritakan kepada kami [Syaiban Abu Mu'awiyyah] dari [Ziyad bin 'Alaqah] dari [Al Mughirah bin Syu'bah] berkata, "Pada masa Rasulullah shallallahu 'alaihi wasallam pernah terjadi gerhana matahari, yaitu di hari meninggalnya putera beliau, Ibrahim. Orang-orang lalu berkata, "Gerhana matahari ini terjadi karena meninggalnya Ibrahim!" Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Sesungguhnya matahari dan bulan tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang. Jika kalian melihat gerhana, maka shalat dan berdoalah kalian kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 16 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугира бин Шу‘ба, да будет доволен им Аллах, сказал: «В день смерти (малолетнего сына) Посланника Аллаха ﷺ Ибрахима произошло солнечное затмение и люди стали говорить: “Затмение началось из-за смерти Ибрахима”. (Услышав это,) Посланник Аллаха ﷺ сказал: “Поистине, солнечные и лунные затмения не происходят ни из-за смерти, ни из-за жизни кого бы то ни было (из людей), если же вы увидите (подобное), совершайте молитву и взывайте к Аллаху”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 16 Hadith 4</td></tr></tbody></table></div>
 

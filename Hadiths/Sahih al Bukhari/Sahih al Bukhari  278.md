@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, 'The (people of) Bani Israel used t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashir] berkata, telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Orang-orang bani Israil jika mandi maka mereka mandi dengan telanjang, hingga sebagian melihat sebagian yang lainnya. Sedangkan Nabi Musa 'Alaihis Salam lebih suka mandi sendirian. Maka mereka pun berkata, "Demi Allah, tidak ada menghalangi Musa untuk mandi bersama kita kecuali karena ia adalah seorang laki-laki yang kemaluannya kena hernia. Lalu pada suatu saat Musa pergi mandi dan meletakkan pakaiannya pada sebuah batu, lalu batu tersebut lari dengan membawa pakaiannya. Maka Musa lari mengejar batu tersebut sambil berkata 'Wahai batu, kembalikan pakaianku! ' sehingga orang-orang bani Israil melihat Musa. Mereka lalu berkata, 'Demi Allah, pada diri Musa tidak ada yang ganjil.' Musa kemudian mengambil pakaiannya dan memukul batu tersebut dengan satu pukulan." Abu Hurairah berkata, "Demi Allah, sungguh pada batu tersebut terdapat bekas pukulan enam atau tujuh akibat pukulannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>278</td></tr><tr><td>Arabic No</td><td>278</td></tr><tr><td>Reference</td><td>Book 5 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Обычно израильтяне купались обнажёнными и смотрели друг на друга; о том, что же касается Мусы, то он купался в одиночестве, и они (стали) говорить: “Клянёмся Аллахом, купаться вместе с нами Мусе мешает лишь то, что на срамных частях его грыжа!” Однажды Муса пошёл купаться и положил свою одежду на камень, который укатился вместе с его одеждой. Муса бросился вслед за ним, крича: “Моя одежда, о камень!” Увидев его (обнажённым), израильтяне воскликнули: “Клянёмся Аллахом, (на теле) у Мусы ничего нет!” − а он взял свою одежду и принялся наносить удары по камню».\nАбу Хурайра сказал: «Клянусь Аллахом, от этих ударов на камне осталось шесть (или: семь) следов!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>278</td></tr><tr><td>Arabic No</td><td>278</td></tr><tr><td>Reference</td><td>Book 5 Hadith 30</td></tr></tbody></table></div>
 

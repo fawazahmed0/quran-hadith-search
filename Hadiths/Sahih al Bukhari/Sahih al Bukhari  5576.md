@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:On the night Allah's Messenger (ﷺ) was taken on a night j
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepadaku [Sa'id bin Musayyib] bahwa dia mendengar [Abu Hurairah] radliallahu 'anhu, bahwa pada malam Rasulullah shallallahu 'alaihi wasallam diisra'kan yaitu ketika sampai di Iliya', dihidangkan ke hadapan beliau dua gelas yang berisikan susu dan berisikan khamer, lalu aku melihat keduanya dan mengambil gelas yang berisi susu, maka Jibril berkata; 'Segala puji bagi Allah yang telah memberimu petunjuk kepada fitrah, seandainya engkau memilih khamer maka umatmu akan tersesat.' Riwayat ini juga di perkuat oleh riwayat [Ma'mar], [Ibnu Al Had], dan [Utsman bin Umar] serta [Az Zubaidi] dari [Az Zuhri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5576</td></tr><tr><td>Arabic No</td><td>5576</td></tr><tr><td>Reference</td><td>Book 74 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что во время ночного путешествия Пророку ﷺ принесли две чаши (, одна из которых была наполнена) вином (, а другая —) молоком, и он посмотрел на них и взял молоко (, после чего) Джибрил ﷺ сказал (ему): «Хвала Аллаху, который направил тебя к (тому, что соответствует) естеству, (ибо) если бы ты взял вино, твоя община сбилась бы с пути!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5576</td></tr><tr><td>Arabic No</td><td>5576</td></tr><tr><td>Reference</td><td>Book 74 Hadith 2</td></tr></tbody></table></div>
 

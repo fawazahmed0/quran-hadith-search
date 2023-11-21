@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) had a Had (a camel driver) called Anja
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Habban] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Anas bin Malik] dia berkata; "Nabi shallallahu 'alaihi wasallam memiliki seorang pengawal yang bernama Anjasyah, dan beliau adalah sosok yang suaranya merdu, maka Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Pelan-pelanlah wahai Anjasyah, janganlah kamu memecahkan sesuatu yang mudah pecah (wanita)." Qatadah mengatakan; Maksudnya adalah wanita, karena lemahnya diri mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6211</td></tr><tr><td>Arabic No</td><td>6211</td></tr><tr><td>Reference</td><td>Book 78 Hadith 235</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «У Пророка ﷺ был погонщик верблюдов по имени Анджаша, обладающий красивым голосом, и Пророк ﷺ сказал ему: “(Веди верблюдов) медленнее, о Анджаша, не разбей бутылки”». Къатада сказал: «То есть слабых женщин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6211</td></tr><tr><td>Arabic No</td><td>6211</td></tr><tr><td>Reference</td><td>Book 78 Hadith 235</td></tr></tbody></table></div>
 

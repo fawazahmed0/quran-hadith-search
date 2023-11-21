@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:We were with 'Umar and he said, "We have been forbidden to underta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas] berkata, "Pernah kami di sisi [Umar] dan beliau berkata, "Kami dilarang mengada-ada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7293</td></tr><tr><td>Arabic No</td><td>7293</td></tr><tr><td>Reference</td><td>Book 96 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся, что Анас ибн Малик сказал: «(Однажды) мы были у ‘Умара, да будет доволен им Аллах, и он сказал: “Нам был запрещён такаллюф (вычурность, проявление неестественности)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7293</td></tr><tr><td>Arabic No</td><td>7293</td></tr><tr><td>Reference</td><td>Book 96 Hadith 24</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée), un homme vint interroger l'Envoyé de Dieu (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hajjaj bin Asy Sya'ir] telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ma'bad bin Hilal Al Anazi] dari [Anas bin Malik], seseorang bertanya kepada Rasulullah Shallallahu 'alaihi wa Salam kapan terjadinya kiamat. Beliau terdiam sejenak lalu melihat anak kecil dari Azd Syanu'ah yang ada didepan beliau, beliau menjawab: "Bila anak ini masih hidup, ia tidak sampai tua hingga kiamat terjadi." Anas berkata: Anak itu sebayaku saat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7411</td></tr><tr><td>Arabic No</td><td>2953.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Анаса ибн Малика (да будет доволен им Аллах) о том, что (как-то) один человек спросил Пророка ﷺ: «Когда наступит Час этот?»(Анас) сказал: «Посланник Аллаха ﷺ некоторое время хранил молчание, а потом посмотрел на находившегося перед ним юношу из (племени) азд шануа и сказал: «Если этому (юноше суждено) прожить (достаточно) долго, Час этот наступит (для него), прежде чем он одряхлеет».Анас ибн Малик сказал: «А этот юноша был примерно такого же возраста, как и я»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7411</td></tr><tr><td>Arabic No</td><td>2953.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 172</td></tr></tbody></table></div>
 

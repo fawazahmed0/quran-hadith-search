@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Talha:Whenever the Prophet (ﷺ) conquered some people, he would st
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah Telah bercerita kepada kami [Muhammad bin 'Abdur Rahim] telah bercerita kepada kami [Rauh bin 'Ubadah] telah bercerita kepada kami [Sa'id] dari [Qatadah] berkata [Anas bin Malik] bercerita kepada kami dari [Abu Thalhah radliallahu 'anhuma] dari Nabi Shallallahu'alaihiwasallam bahwa jika beliau menghadapi suatu kaum (musuh), Beliau singgah di tempat persinggahan selama tiga malam. Hadits ini juga diperkuat oleh [Mu'adz] dan ['Abdul A'laa], katanya telah bercerita kepada kami [Sa'id] dari [Qatadah] dari [Anas] dari [Abu Thalhah] dari Nabi Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 56 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Тальхи, да будет доволен им Аллах, что, одержав победу над людьми (из какого-нибудь) племени, Пророк ﷺ обычно оставался там в течение трёх дней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 56 Hadith 270</td></tr></tbody></table></div>
 

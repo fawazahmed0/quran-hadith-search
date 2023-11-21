@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Yunus said:I asked Abu Zinad about the sale of fruits before they were clearly i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami ['Anbasah bin Khalid] telah menceritakan kepadaku [Yunus], ia berkata; aku bertanya kepada [Abu Az Zinad] mengenai penjualan buah sebelum nampak kelayakannya, dan apa yang diceritakan mengenai hal tersebut. Ia berkata; ['Urwah bin Az Zubair] menceritakan dari [Sahl bin Abu Hatsmah] dari [Zaid bin Tsabit], ia berkata; dahulu orang-orang saling berjual beli buah sebelum nampak kelayakannya. Kemudian apabila orang-orang telah memotong kurma, dan telah hadir tuntutan hutang mereka, maka pembeli berkata; buahnya telah membusuk, dan telah mengering serta terkena penyakit dan bencana. Mereka berhujjah dengannya, kemudian tatkala telah banyak perselisihan mereka di sisi Nabi shallallahu 'alaihi wasallam maka Rasulullah shallallahu 'alaihi wasallam bersabda seperti suatu isyarat yang beliau tunjukkan, apabila tidak maka beliau mengatakan: "Janganlah kalian berjual beli buah hingga, nampak kelayakannya!" karena banyak perselisihan dan perbedaan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3372</td></tr><tr><td>Arabic No</td><td>3372</td></tr><tr><td>Reference</td><td>Book 23 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейд ибн Сабит, да будет доволен им Аллах, сказал: «Люди продавали плоды до того, как становилась очевидной их годность к употреблению, а когда приходило время собирать урожай, покупатель начинал говорить, что плоды почернели и испортились, не созрев, или опали, или случилось что-то иное и плоды погибли, приводя это в качестве оправдания. К Пророку ﷺ стали часто обращаться с подобными тяжбами. И тогда Посланник Аллаха ﷺ посоветовал людям: “Не продавайте плоды до того, как станет очевидной их годность к употреблению”. Причиной стало множество конфликтов, которые возникали между людьми из-за этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3372</td></tr><tr><td>Arabic No</td><td>3372</td></tr><tr><td>Reference</td><td>Book 23 Hadith 47</td></tr></tbody></table></div>
 

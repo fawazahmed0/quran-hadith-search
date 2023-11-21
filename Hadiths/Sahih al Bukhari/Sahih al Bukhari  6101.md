@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) did something and allowed his people to do it,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Muslim] dari [Masruq], [Aisyah] berkata; "Rasulullah shallallahu 'alaihi wasallam pernah membuat sesuatu yang diperbolehkan bagi beliau, namun anehnya ada beberapa orang sahabat yang mengingkarinya (tidak mau menerimanya). Ketika berita itu sampai kepada Nabi shallallahu 'alaihi wasallam, Maka beliau berkhutbah, setelah memuji Allah beliau bersabda: "Apa alasan mereka itu mengingkari sesuatu yang aku buat, demi Allah, aku adalah manusia yang paling mengenal Allah dan paling takut kepada-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6101</td></tr><tr><td>Arabic No</td><td>6101</td></tr><tr><td>Reference</td><td>Book 78 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Однажды Пророк ﷺ сделал что-то и разрешил [людям делать] то же самое, но некоторые из них отказались от этого. Когда это дошло до Пророка ﷺ, он восхвалил и Аллаха, а потом сказал: “Что происходит с людьми, которые отказываются от того, что я делаю?! Клянусь Аллахом, я знаю об Аллахе больше, чем они, и больше их боюсь Его!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6101</td></tr><tr><td>Arabic No</td><td>6101</td></tr><tr><td>Reference</td><td>Book 78 Hadith 128</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ibn 'Abbas added:The Prophet married Maimuna during the 'Umrat-al-Qada' (i.e. th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] Telah menceritakan kepada kami [Wuhaib] Telah menceritakan kepada kami [Ayyub] dari [Ikrimah] dari [Ibnu Abbas] katanya, Nabi shallallahu 'alaihi wasallam menikahi Maimunah ketika beliau ihram, dan beliau menggaulinya ketika beliau telah bertahallul dan Maimunah meninggal di Sarif. Kata Abu Abdullah, [Ibnu Ishaq] menambahkan, telah menceritakan kepadaku [Ibnu Abu Najih] dan [Abban bin Shalih] dari [Atha'] dan [Mujahid] dari [Ibnu Abbas], katanya, Nabi shallallahu 'alaihi wasallam menikahi Maimunah ketika Umratul qadla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4259</td></tr><tr><td>Arabic No</td><td>4259</td></tr><tr><td>Reference</td><td>Book 64 Hadith 293</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Пророк ﷺ женился на Маймуне во время умры “аль-када” (то есть умра, которую он совершил через год, после того как многобожники помешали ему)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4259</td></tr><tr><td>Arabic No</td><td>4259</td></tr><tr><td>Reference</td><td>Book 64 Hadith 293</td></tr></tbody></table></div>
 

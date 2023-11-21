@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Do you know who is poor? 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan ['Ali bin Hujr] keduanya berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far dari [Al A'laa] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah bertanya kepada para sahabat: "Tahukah kalian, siapakah orang yang bangkrut itu?" Para sahabat menjawab; 'Menurut kami, orang yang bangkrut diantara kami adalah orang yang tidak memiliki uang dan harta kekayaan.' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya umatku yang bangkrut adalah orang yang pada hari kiamat datang dengan shalat, puasa, dan zakat, tetapi ia selalu mencaci-maki, menuduh, dan makan harta orang lain serta membunuh dan menyakiti orang lain. Setelah itu, pahalanya diambil untuk diberikan kepada setiap orang dari mereka hingga pahalanya habis, sementara tuntutan mereka banyak yang belum terpenuhi. Selanjutnya, sebagian dosa dari setiap orang dari mereka diambil untuk dibebankan kepada orang tersebut, hingga akhirnya ia dilemparkan ke neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6579</td></tr><tr><td>Arabic No</td><td>2581</td></tr><tr><td>Reference</td><td>Book 45 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6579</td></tr><tr><td>Arabic No</td><td>2581</td></tr><tr><td>Reference</td><td>Book 45 Hadith 77</td></tr></tbody></table></div>
 

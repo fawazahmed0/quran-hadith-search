@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ d'après 'Atâ' : Nous prîmes part avec Ibn 'Abbâs à des obsèques tenus à S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Hatim]. Muhammad bin Hatim mengatakan; Telah menceritakan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku ['Atha'] dia berkata; Kami menghadiri jenazah Maimunah, istri Nabi shallallahu 'alaihi wasallam bersama Ibnu Abbas di daerah Sarif. [Ibnu Abbas] berkata; "Ini adalah istri Nabi shallallahu 'alaihi wasallam, jika kalian mengangkat kerandanya, maka janganlah kalian berisik dan jangan pula menggoncangkannya, angkatlah pelan-pelan. Sesungguhnya Rasulullah shallallahu 'alaihi wasallam memiliki sembilan orang istri, beliau pernah menggilir delapan istri, namun tidak menggilir yang satunya." 'Atha' berkata; Yang pernah tidak digilir adalah Shafiyah binti Huhyay bin Akhthab. (tapi yang benar adalah Saudah -red). Telah menceritakan kepada kami [Muhammad bin Rafi'] dan ['Abd bin Humaid] semuanya dari [Abdur Razaq] dari [Ibnu Juraij] dengan isnad ini dengan menambahkan; 'Atha' mengatakan; Dia adalah istri Rasulullah yang terakhir meninggal dunia, dia meninggal di Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3633</td></tr><tr><td>Arabic No</td><td>1465.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3633</td></tr><tr><td>Arabic No</td><td>1465.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 66</td></tr></tbody></table></div>
 

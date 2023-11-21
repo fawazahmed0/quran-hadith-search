@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Malik bin Buhaina:Once Allah's Messenger (ﷺ) led us in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Bakar] dari [Ja'far bin Rabi'ah] dari [Al A'raj] dari [Abdullah bin Malik Ibnu Buhainah] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah shalat Zhuhur bersama kami, lalu beliau berdiri yang semestinya beliau duduk. Kemudian di akhir shalatnya, beliau sujud dua kali dalam posisi duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>830</td></tr><tr><td>Arabic No</td><td>830</td></tr><tr><td>Reference</td><td>Book 10 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин Малика Ибн Бухайны, да будет доволен им Аллах, что однажды Пророк ﷺ совершавший с ними полуденный намаз, (не стал сидеть после совершения первых двух рак‘атов, а) поднялся, хотя должен был сидеть. В конце намаза, продолжая сидеть, совершил два земных поклона (, совершаемых при забывчивости)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>830</td></tr><tr><td>Arabic No</td><td>830</td></tr><tr><td>Reference</td><td>Book 10 Hadith 224</td></tr></tbody></table></div>
 

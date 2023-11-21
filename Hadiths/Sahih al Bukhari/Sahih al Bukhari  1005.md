@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abbad bin Tamim's uncle:The Prophet (p.b.u.h) went out to offer the Is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Sufyan] dari ['Abdullah bin Abu Bakar] dari ['Abbad bin Tamim] dari [Pamannya] ia berkata, "Nabi shallallahu 'alaihi wasallam pernah keluar melaksanakan shalat istisqa' dengan membalik selendangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1005</td></tr><tr><td>Arabic No</td><td>1005</td></tr><tr><td>Reference</td><td>Book 15 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Зейд, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ отправившийся (к избранному им месту намаза), чтобы обратиться к Аллаху с мольбой о ниспослании дождя, (надел) свой плащ по-другому»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1005</td></tr><tr><td>Arabic No</td><td>1005</td></tr><tr><td>Reference</td><td>Book 15 Hadith 1</td></tr></tbody></table></div>
 

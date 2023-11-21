@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:When the Messenger of Allah (ﷺ) entered the privy, a se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dan [Ghundar] dari [Syu'bah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan lafazh tersebut miliknya. Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Atha' bin Abu Maimunah] bahwa dia mendengar [Anas bin Malik] berkata, "Rasulullah shallallahu 'alaihi wasallam masuk WC, maka saya dan seorang pemuda sepertiku membawa satu emnber berisi air dan kayu tombak, lalu beliau beristinja' dengan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>620</td></tr><tr><td>Arabic No</td><td>271.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аты ибн Абу Маймуны о том, что он слышал, как Анас ибн Малик говорил: «Когда Посланник Аллаха ﷺ заходил в отхожее место, я вместе с таким же, как я, мальчиком нёс с собой маленький кожаный бурдюк с водой и палку с наконечником (маленькое копьё), и он использовал воду для подмывания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>620</td></tr><tr><td>Arabic No</td><td>271.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 87</td></tr></tbody></table></div>
 

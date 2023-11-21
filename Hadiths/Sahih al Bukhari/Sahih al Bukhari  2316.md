@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin Al-Harith:When An-Nuaman or his son was brought in a state of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Salam] telah mengabarkan kepada kami ['Abdul Wahhab Ats-Tsaqafiy] dari [Ayyub] dari [Ibnu Abu Mulaikah] dari ['Uqbah bin Al Harits] berkata; Telah didatangkan An-Nu'aiman atau Abu An-Nu'aiman dalam keadaan mabuk maka Rasulullah shallallahu 'alaihi wasallam memerintahkan orang yang ada di Baitullah agar memukulnya. Dia berkata: "Aku termasuk diantara orang yang memukulnya dimana kami melemparinya dengan sandal dan pelepah kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2316</td></tr><tr><td>Arabic No</td><td>2316</td></tr><tr><td>Reference</td><td>Book 40 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба бин аль-Харис, да будет доволен им Аллах, сказал: «(Однажды, когда) к Посланнику Аллаха ﷺ привели пьяного ан-Ну‘мана (или: сына ан-Ну‘мана), он велел находившимся (у него) дома (людям) побить его, и я был одним из тех, кто бил его, и мы били его сандалиями и голыми пальмовыми ветвями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2316</td></tr><tr><td>Arabic No</td><td>2316</td></tr><tr><td>Reference</td><td>Book 40 Hadith 15</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr: The Prophet (ﷺ) said: There are two qualities or ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Atha bin As Saib] dari [Bapaknya] dari [Abdullah bin Amr] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ada dua perkara, sekiranya keduanya itu selalu dijaga oleh seorang muslim, maka ia akan masuk surga. Dua perkara itu sangat mudah untuk dikerjakan, tetapi sedikit yang mau melaksanakannya. Yaitu; setiap selesai shalat mengucapkan tasbih sebanyak sepuluh kali, tahmid sepuluh kali, dan takbir sepuluh kali. Hal itu akan sama dengan seratus lima puluh dengan lisan dan seribu lima ratus dalam timbangan. Membaca takbir sebanyak tiga puluh empat jika akan tidur, membaca tahmid sebanyak tiga puluh tiga dan membaca tasbih sebanyak tiga puluh tiga, maka itu adalah seratus dalam hitungan lisan dan seribu dalam hitungan timbangan." Sungguh, aku telah melihat Rasulullah shallallahu 'alaihi wasallam menghitungnya dengan tangan." Lau para sahabat bertanya, "Wahai Rasulullah, dua hal itu mudah untuk dilakukan tetapi kenapa sedikit yang melakukannya?" beliau menjawab: "Setan datang kepada salah seorang dari kalian saat tidur, lalu dia akan menidurkan kalian sebelum kalian membacanya. Setan juga datang saat shalat, lalu dia akan mengingatkan semua keperluannya sebelum ia membacanya." Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Abdullah bin Wahb] ia berkata; telah menceritakan kepadaku [Ayyasy bin Uqbah Al Hadhrami] dari [Al fadhl bin Hasan Adh Dhamri] bahwa [Ibnu Ummul hakam] atau [Dhaba'ah] -keduanya puteri Az Zubair- ia menceritakan kepadanya dari salah seorang dari mereka, bahwa ia berkata, "Rasulullah shallallahu 'alaihi wasallam mendapatkan tawanan, lalu aku dan saudaraku Fatimah binti Nabi shallallahu 'alaihi wasallam, pergi menemui Nabi shallallahu 'alaihi wasallam. Kemudian kami mengadukan semua permasalahan kami dan minta agar beliau memerintahkan (petusnya) memberikan budak kepada kami. Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Kalian telah di dahului oleh anak-anak yatim badar (anak-anak yang bapaknya meninggal di badar)." Kemudian ia menyebutkan kisah hadits tasbih. Beliau bersabda: "Setiap selesai dari melaksanakan shalat …namun tidak menyebutkan ketika akan tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>5065</td></tr><tr><td>Reference</td><td>Book 43 Hadith 293</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>5065</td></tr><tr><td>Reference</td><td>Book 43 Hadith 293</td></tr></tbody></table></div>
 

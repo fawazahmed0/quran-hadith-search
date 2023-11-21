@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: She heard the Messenger of Allah (ﷺ) say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Shalih], telah menceritakan kepada Kami [Ibnu Abu Fudaik] dari [Abdullah bin Abdurrahman bin Yuhannas] dari [Yahya bin Abu Sufyan Al Akhnasi] dari [neneknya yaitu Hukaimah] dari [Ummu Salamah] istri Nabi shalla Allahu 'alaihi wa sallam bahwa ia telah mendengar Nabi shalla Allahu 'alaihi wa sallam bersabda: "Barangsiapa yang bertalbiyah untuk melakukan haji atau umrah dari Masjid Al Aqsha hingga Masjid Al Haram maka akan dihapuskan dosanya yang telah lalu dan yang akan datang, atau wajib ia mendapatkan Surga. Abdullah merasa ragu yang manakah yang beliau ucapkan. Abu Daud berkata; semoga Allah merahmati Waki' sebab dia telah melaksanakan ihram dari Baitul Maqdis sampai ke Mekkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1741</td></tr><tr><td>Arabic No</td><td>1741</td></tr><tr><td>Reference</td><td>Book 11 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от жены Пророка ﷺ Умм Саляма, да будет доволен ею Аллах, что она слышала, как Посланник Аллаха ﷺ сказал: «Кто совершит хадж или ‘умру, проделав путь от мечети Аль-Акса до Заповедной мечети, тому простятся его прошлые и будущие прегрешения (или: Рай станет для него обязательным)». Передатчик ‘Абдуллах не мог точно сказать, как именно было сказано. Абу Дауд сказал: «Да помилует Аллах Ваки, который, отправляясь в Мекку, вступил в состояние ихрама от Бейт аль-Макдис»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1741</td></tr><tr><td>Arabic No</td><td>1741</td></tr><tr><td>Reference</td><td>Book 11 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi 'Aufa:(Who was one of those who had given the Pledge 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4166</td></tr><tr><td>Arabic No</td><td>4166</td></tr><tr><td>Reference</td><td>Book 64 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Аби Ауфа, который был одним из тех, кто давал клятву под деревом, сказал: «Когда люди приносили Пророку ﷺ закят, он говорил: “О Аллах, благослови семью такого-то!” И когда мой отец принёс ему свой закят, он сказал: “О Аллах, благослови семью Абу Ауфы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4166</td></tr><tr><td>Arabic No</td><td>4166</td></tr><tr><td>Reference</td><td>Book 64 Hadith 208</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qabisa b. Mukhariq al-Hilali said:I was under debt and I came to the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Sa'id] keduanya dari [Hammad bin Zaid] - [Yahya] berkata- telah mengabarkan kepada kami [Hammad bin Zaid] dari [Harun bin Riyab] telah menceritakan kepadaku [Kinanah bin Nu'aim Al 'Adawi] dari [Qabishah bin Mukhariq Al Hilali] ia berkata; Aku pernah menanggung hutang (untuk mendamaikan dua kabilah yang saling sengketa). Lalu aku datang kepada Rasulullah shallallahu 'alaihi wasallam, meminta bantuan beliau untuk membayarnya. Beliau menjawab: "Tunggulah sampai orang datang mengantarkan zakat, nanti kusuruh menyerahkannya kepadamu." Kemudian beliau melanjutkan sabdanya: "Hai Qabishah, sesungguhnya meminta-minta itu tidak boleh (tidak halal) kecuali untuk tiga golongan. (Satu) orang yang menanggung hutang (gharim, untuk mendamaikan dua orang yang saling bersengketa atau seumpanya). Maka orang itu boleh meminta-minta, sehingga hutangnya lunas. Bila hutangnya telah lunas, maka tidak boleh lagi ia meminta-meminta. (Dua) orang yang terkena bencana, sehingga harta bendanya musnah. Orang itu boleh meminta-minta sampai dia memperoleh sumber kehidupan yang layak baginya. (Tiga) orang yang ditimpa kemiskinan, (disaksikan atau diketahui oleh tiga orang yang dipercayai bahwa dia memang miskin). Orang itu boleh meminta-minta, sampai dia memperoleh sumber penghidupan yang layak. Selain tiga golongan itu, haram baginya untuk meminta-minta, dan haram pula baginya memakan hasil meminta-minta itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2404</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 12 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Кабиса ибн Мухарик аль-Хиляли сказал: «(Когда- то) я взял на себя обязательства по выплате выкупа, а потом пришёл к Посланнику Аллаха ﷺ с просьбой (помочь мне выплатить его). Он сказал: “Поживи (здесь), пока нам не доставят милостыню /садака/, и тогда мы велим (выдать) тебе (то, о чём ты просишь)”. Потом он сказал (мне): “О Кабиса, поистине, с (подобными) просьбами позволено обращаться лишь одному из троих: человеку, взявшему на себя обязательства по выплате выкупа, такому можно просить, чтобы (уплатить долг), после чего он (должен) воздерживаться; человеку, которого постигло какое-нибудь бедствие, погубившее его имущество, такому можно просить, чтобы получить (средства, необходимые для жизни); и, наконец, человеку, который впадёт в (такую) бедность, что трое разумных (людей) из числа его соплеменников (скажут): “Такой-то обеднел (до крайности)” такому (тоже) можно просить, чтобы получить (средства, необходимые для жизни). Что же касается всех остальных просьб, о Кабиса, то они запретны, а (тот, кто получит что-либо после обращений с подобными просьбами, будет пользоваться) запретным”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2404</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 12 Hadith 141</td></tr></tbody></table></div>
 

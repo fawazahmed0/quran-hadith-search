@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by Ibn al- Had through a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Abu Dhamrah] dari [Yazid Ibnul Had] dari [Muhammad bin Ibrahim] dari [Abu Salamah] dari [Abu Hurairah] ia berkata, "Seorang yang telah minum khamer didatangkan kepada Rasulullah shallallahu 'alaihi wasallam, lalu beliau bersabda: "Pukullah ia." Abu Hurairah berkata, "Di antara kita ada yang memukul dengan tangan, sandal dan kain. Ketika beliau beranjak pergi, sebagian kami ada yang mengucapkan, "Semoga Allah menghinakanmu!" maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Janganlah kalian mengatakan begitu, jangan kalian bantu setan dalam memperdayanya." Telah menceritakan kepada kami [Muhammad bin Daud bin Abu Najiyah Al Iskandarani] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Yahya bin Ayyub] dan [Haiwah bin Syuraih] dan [Ibnu Lahi'ah] dari [Ibnul Had] dengan sanad dan maknanya. Setelah pemukulan (terhadap peminum khamer), ia menyebutkan dalam haditsnya, "Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda kepada para sahabatnya: "Jelekkanlah ia." Maka orang-orang kembali menemui peminum khamer itu dan berkata, "Kamu tidak bertakwa kepada Allah!" Ada yang berkata, "Kamu tidak takut kepada Allah!" Ada yang berkata, "Kamu tidak punya malu kepada Rasulullah shallallahu 'alaihi wasallam! ' Kemudian mereka membebaskan orang tersebut. Dan diakhir ucapannya, beliau mengatakan: "Jangan kalian katakan yang demikian, tetapi ucapkanlah 'Ya Allah ampunilah ia, ya Allah rahmatilah ia'." Dan sebagian mereka ada yang menambahkan kalimat dan semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4478</td></tr><tr><td>Arabic No</td><td>4478</td></tr><tr><td>Reference</td><td>Book 40 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В версии хадиса от Ибн аль-Хади с таким же смыслом говорится, что после того, как этого человека побили, Посланник Аллаха ﷺ сказал: «Пристыдите его». Тогда люди окружили его и начали говорить: «Ты не боишься Аллаха! Ты не испытываешь страха перед Господом! Ты не стыдишься Посланника Аллаха ﷺ». Затем они отпустили его. А в конце передатчик упомянул, что Посланник Аллаха ﷺ сказал: «Лучше говорите: “О Аллах, прости ему, О Аллах, помилуй Его!”» А в других версиях передатчики передают это с добавлениями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4478</td></tr><tr><td>Arabic No</td><td>4478</td></tr><tr><td>Reference</td><td>Book 40 Hadith 128</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:My father said , "I heard the Prophet (ﷺ) delivering the Khutba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Az Zuhri] dari [Salim] dari [Bapaknya] berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda saat sedang berkhuthbah di atas mimbar: "Siapa yang mendatangi shalat Jum'at, hendaklah dia mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>919</td></tr><tr><td>Reference</td><td>Book 11 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Салима, что его отец сказал: «Я слышал, как Пророк ﷺ говорил, обращаясь с минбара: “Пусть тот из вас, кто (решит) прийти на пятничную молитву, совершает большое омовение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>919</td></tr><tr><td>Reference</td><td>Book 11 Hadith 43</td></tr></tbody></table></div>
 

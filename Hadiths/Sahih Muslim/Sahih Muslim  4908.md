@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Sulaimin b. Buraida who learnt the trad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari ['Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [ayahnya] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kehormatan isteri-isteri para pejuang bagi mereka yang tidak ikut berjuang, seperti kehormatan ibu-ibu mereka. Tidaklah seseorang yang tidak ikut berperang karena suatu udzur, lalu dia diberi amanat oleh saudaranya yang ikut berperang untuk menjaga keluarganya, namun dia justru mengkhianatinya, melainkan di hari Kiamat kelak amalannya akan diambil oleh saudaranya dengan sesuka hatinya, lalu bagaimana dengan pendapat kalian?" Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Mis'ar] dari ['Alqamah bin Martsad] dari [Ibnu Buraidah] dari [ayahnya] dia berkata, "Nabi shallallahu 'alaihi wasallam bersabda semakna dengan hadits At Tsauri." Dan telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Sufyan] dari [Qa'nab] dari ['Alqamah bin Martsad] dengan sanad ini, ia menyebutkan, "Ambillah kebaikannya sesuka hatimu." Kemudian Rasulullah shallallahu 'alaihi wasallam menoleh kepada kami seraya bersabda: "Bagaimana pendapatmu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>1897.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>1897.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 203</td></tr></tbody></table></div>
 

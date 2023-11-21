@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:The Prophet (ﷺ) said, "The Adhan pronounced by B
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Sulaiman At Taimi] dari [Abu 'Utsman Al Hindi] dari ['Abdullah bin Mas'ud] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Adzannya Bilal tidaklah menghalangi seorang dari kalian, atau seseorang dari makan sahurnya, karena dia mengumandangkan adzan saat masih malam supaya orang yang masih shalat malam dapat pulang untuk mengingatkan mereka yang masih tidur. Dan Bilal adzan tidak bermaksud memberitahukan masuknya waktu fajar atau shubuh." Beliau berkata dengan isyarat jarinya, beliau angkat ke atas dan menurunkannya kembali hingga berkata seperti ini." Zuhair menyebutkan, "Beliau berisyarat dengan kedua jari telunjuknya, salah satu jarinya beliau letakkan di atas yang lainnya, kemudian membentangkannya ke kanan dan kirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>621</td></tr><tr><td>Arabic No</td><td>621</td></tr><tr><td>Reference</td><td>Book 10 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Мас‘уда, да будет доволен им Аллах, о том, что (однажды) Пророк ﷺ сказал: «Призыв к молитве, возглашаемый Билялом ночью, ни в коем случае не должен мешать вам есть перед рассветом, ибо он произносит слова азана, чтобы отвлечь бодрствующих из вас и разбудить спящих, а не для того, чтобы сообщить о наступлении (времени) утренней молитвы», после чего он сделал знак пальцами, (сначала) подняв их вверх, а потом опустив вниз (и Ибн Мас‘уд показал, как он сделал это). (Аз-Зухайр также) сделал знак двумя указательными пальцами, (сначала) положив их друг на друга, а потом разведя направо и налево от себя
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>621</td></tr><tr><td>Arabic No</td><td>621</td></tr><tr><td>Reference</td><td>Book 10 Hadith 19</td></tr></tbody></table></div>
 

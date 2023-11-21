@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ The the above hadith was narrated by Anas through another chain and said (with t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7090</td></tr><tr><td>Arabic No</td><td>7090</td></tr><tr><td>Reference</td><td>Book 92 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Катада (ибн Ди‘ама) рассказывал со слов Анаса (ибн Малика) от пророка Аллаха ﷺ этот же хадис, и (Анас) сказал: «… каждый человек покрыл себе голову одеждой и принялся плакать говоря: “Я прибегаю к Аллаху за защитой от зла смут!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7090</td></tr><tr><td>Arabic No</td><td>7090</td></tr><tr><td>Reference</td><td>Book 92 Hadith 41</td></tr></tbody></table></div>
 

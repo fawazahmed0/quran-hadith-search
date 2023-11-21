@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:[as above]
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Mis'ar] telah menceritakan kepada kami [Sa'd bin Ibrahim] dari [ayahnya] dari [Abu Bakrah] dari Nabi shallallahu 'alaihi wasallam bersabda; "Kemelut al masih ad dajjal tak akan memasuki Madinah, sebab ketika itu Madinah mempunyai tujuh pintu yang setiap pintunya dijaga oleh dua malaikat." Dia berkata, [Ibnu Ishaq] mengatakan dari [Salih bin Ibrahim] dari [ayahnya] mengatakan, aku mendatangi Bashrah lantas [Abu Bakrah] mengatakan kepadaku; aku dengar Nabi shallallahu 'alaihi wasallam bersabda sama dengan Hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7126</td></tr><tr><td>Arabic No</td><td>7126</td></tr><tr><td>Reference</td><td>Book 92 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бакра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Не проникнет в Медину страх перед Масихом Даджалем, ибо в это время будет у неё семь входов, и у каждых будут стоять два ангела». \nИбн Исхак передаёт от Салих ибн Ибрахима, который передал от своего отца, что он сказал: «Я прибыл в Басру, и Абу Бакра сказал мне: “Я слышал этот хадис от Пророка ﷺ“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7126</td></tr><tr><td>Arabic No</td><td>7126</td></tr><tr><td>Reference</td><td>Book 92 Hadith 73</td></tr></tbody></table></div>
 

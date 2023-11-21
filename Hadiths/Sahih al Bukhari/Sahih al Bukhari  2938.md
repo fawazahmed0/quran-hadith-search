@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When the Prophet (ﷺ) intended to write a letter to the ruler of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin Al Ja'di] telah mengabarkan kepada kami [Syu'bah] dari [Qatadah] berkata aku mendengar [Anas radliallahu 'anhu] berkata; Ketika Nabi shallallahu 'alaihi wasallam hendak menulis surat kepada (raja) Romawi dikatakan kepada Beliau bahwa mereka tidak membaca tulisan kecuali bila berstempel. Maka Beliau mengambil stempel terbuat dari perak. Sungguh aku seakan melihat cahaya putih pada tangan Beliau. Lalu Beliau memberi tanda yang bertuliskan Muhammad Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2938</td></tr><tr><td>Arabic No</td><td>2938</td></tr><tr><td>Reference</td><td>Book 56 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2938</td></tr><tr><td>Arabic No</td><td>2938</td></tr><tr><td>Reference</td><td>Book 56 Hadith 151</td></tr></tbody></table></div>
 

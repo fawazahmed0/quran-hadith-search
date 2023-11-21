@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:While the Prophet (ﷺ) was passing the night at hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Musa bin 'Uqbh] dari [Salim bin 'Abdullah bin 'Umar] dari [bapaknya radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam: " Malaikat diperlihatkan kepada Beliau ketika Beliau singgah untuk beristirahat di Dzul Hulaifah di dasar lembah dan dikatakan kepada Beliau; "Sesungguhnya anda sekarang sedang berada di Bathha' yang penuh berkah". Dan berkata, Musa; Saat itu Salim beristirahat bersama kami di tempat singgahnya 'Abdullah ketika sedang mencari tempat singgah yang tepat untuk peristirahatan Rasulullah shallallahu 'alaihi wasallam, yaitu pada posisi bawah dari masjid yang ada di dasar lembah itu. Dimana letaknya berada di tengah antara mereka dan jalan yang mereka lalui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2336</td></tr><tr><td>Arabic No</td><td>2336</td></tr><tr><td>Reference</td><td>Book 41 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2336</td></tr><tr><td>Arabic No</td><td>2336</td></tr><tr><td>Reference</td><td>Book 41 Hadith 17</td></tr></tbody></table></div>
 

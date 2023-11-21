@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Burda reported on the authority of his grandfather that Allah's Messenger (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abbad] telah menceritakan kepada kami [Sufyan] dari ['Amru] ia mendengar dari [Sa'id bin Abu Burdah] dari [ayahnya] dari [kakeknya], bahwa Nabi shallallahu 'alaihi wasallam mengutusnya bersama Mu'adz ke negeri Yaman, lalu beliau bersabda kepada keduanya: "Berilah kabar gembira dan mudahkanlah setiap urusannya, ajarilah dan jangan kamu membuatnya lari." Dan sepertinya beliau juga bersabda: "Dan janganlah kalian berdua saling berselisih." Ketika Abu Musa kembali, maka dia berkata, "Wahai Rasulullah, sesungguhnya mereka (penduduk Yaman) terbiasa membuat minuman dari madu yang direbus hingga mengental dan minuman keras yang terbuat dari tepung?" Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap sesuatu yang memabukkan (menghalangi dari) shalat, maka hukumnya haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>1733.06</td></tr><tr><td>Reference</td><td>Book 36 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>1733.06</td></tr><tr><td>Reference</td><td>Book 36 Hadith 89</td></tr></tbody></table></div>
 

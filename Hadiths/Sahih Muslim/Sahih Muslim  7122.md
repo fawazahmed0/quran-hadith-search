@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of Allah's Apostle (ﷺ), reported that Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengkhabarkan kepada kami [Abdul Aziz bin Muhammad] telah mengkhabarkan kepada kami [Musa bin Uqbah]. Telah menceritakan kepadaku [Muhammad bin Hatim], teks hadits miliknya, telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Musa bin Uqbah] berkata: Aku mendengar [Abu Salamah bin Aburrahman bin Auf] menceritakan dari [Aisyah, istri nabi] Shallallahu 'alaihi wa Salam, ia berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Tujulah (kebenaran), mendekatlah dan bergembiralah bahwa sesungguhnya tidak seorang pun dari kalian yang dimasukkan surga oleh amalnya." Mereka bertanya: "Tidak juga Tuan, wahai Rasulullah? beliau menjawab: "Tidak juga aku, kecuali bila Rabbmu melimpahkan rahmat dan karunia padaku. Dan ketahuilah bahwa amal yang paling sukai Allah adalah yang paling rutin meski sedikit." Telah menceritakannya kepada kami [Hasan Al Hulwani] telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'ad] telah menceritakan kepada kami [Abdul Aziz bin Al Muthallib] dari [Musa bin Uqbah] dengan sanad ini, mereka tidak menyebutkan: "Dan bergembiralah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7122</td></tr><tr><td>Arabic No</td><td>2818.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7122</td></tr><tr><td>Arabic No</td><td>2818.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 75</td></tr></tbody></table></div>
 

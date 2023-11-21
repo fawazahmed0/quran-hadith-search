@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: A man had a shot of arrow in his chest or throat (t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ma'n bin Isa] dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami ['Ubaidullah bin Umar Al Jusyami], telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Ibrahim bin Thahman], dan [Abu Az Zubair] dari [Jabir] ia berkata; seorang laki-laki dipanah menggunakan anak panah pada dadanya atau pada tenggorokannya, kemudian ia meninggal. Lalu ia dibiarkan memakai pakainnya sebagaimana apa adanya. Ia berkata sementara kami bersama Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир, да будет доволен Аллах им и его отцом, передаёт: «Одному человеку стрела попала в грудь или в горло, и он умер, и его завернули в его одежду, как он был, и мы в это время были вместе с Посланником Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:"Allah's Messenger (ﷺ) said to me, "Have you got married O Jabi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Sufyan] telah mengabarkan kepada kami ['Amru] dari [Jabir] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bertanya kepadaku: "Apakah kamu sudah menikah wahai Jabir?" aku menjawab, "Ya, sudah." Beliau lalu bertanya: "Kamu menikah dengan gadis ataukah janda?" Aku menjawab, "Dengan seorang janda." Beliau bertanya lagi: "Kenapa tidak gadis saja, yang dapat mencumbumu?" Aku menjawab, "Wahai Rasulullah, sesungguhnya ayahku telah terbunuh pada perang uhud, sementara dia meninggalkan sembilan putri, jadi aku memiliki sembilan saudara perempuan, dan aku tidak suka jika aku bersama gadis yang sebaya dengan mereka, akan tetapi (aku lebih memilih) seseorang yang dapat merawat dan mendidik mereka." Beliau bersabda: "Engkau benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4052</td></tr><tr><td>Arabic No</td><td>4052</td></tr><tr><td>Reference</td><td>Book 64 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Посланник Аллах ﷺ спросил меня: “О Джабир, ты женился?” Я ответил: “Да”. Он спросил: “На девушке или на той, что уже была замужем?” Я ответил: “На той, что была замужем”. Он спросил: “Почему же не на девушке, с которой ты мог бы играть, и которая играла бы с тобой?” Я сказал: “О Посланник Аллаха, мой отец был убит в день битвы при Ухуде, оставив девять дочерей, которые являются моими девятью сёстрами, поэтому я не хотел добавлять к ним ещё одну подобную им маленькую девочку, однако мне нужна была женщина, которая причёсывала бы их и присматривала бы за ними”. Тогда (Пророк ﷺ) сказал: “Ты поступил правильно”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4052</td></tr><tr><td>Arabic No</td><td>4052</td></tr><tr><td>Reference</td><td>Book 64 Hadith 98</td></tr></tbody></table></div>
 

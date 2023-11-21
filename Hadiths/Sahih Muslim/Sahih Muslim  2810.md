@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Rauh bin Ubadah] Telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Az Zubair] bahwa ia mendengar [Jabir bin Abdillah] radliallahu 'anhuma pernah ditanya mengenai Al Muhalli (tempat memulai Ihram), maka ia menjawab; Aku pernah mendengar Nabi shallallahu 'alaihi wasallam. -dalam riwayat lain- Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Abdu bin Humaid] keduanya dari [Muhammad bin Bakr] - [Abdu] berkata- telah mengabarkan kepada kami [Muhammad] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Zubair] bahwa ia mendengar [Jabir bin Abdullah] radliallahu 'anhuma ketika ia ditanya tentang Al Muhallu (tempat memulai Ihram), maka ia menjawab -menurut dugaanku, ia memarfu'kannya kepada Nabi shallallahu 'alaihi wasallam-; "Muhallu (tempat memulai Ihram) bagi penduduk Madinah adalah dari Dzulhulaifah atau jalur yang lain yakni dari Juhfah, dan bagi penduduk Irak adalah dari Dzatu 'Irq, dan bagi penduduk Najed adalah dari Qarnulmanazil, dan bagi penduduk Yaman adalah dari Yalamlam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2810</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2810</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

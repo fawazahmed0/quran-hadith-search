@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hassan bin Thabit Al-Ansari:I asked Abu Huraira "By Allah! Tell me the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman Al Hakam bin Nafi'] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Abu Salamah bin 'Abdurrahman bin 'Auf] bahwa dia mendengar [Hassan bin Tsabit Al Anshari] meminta kesaksian [Abu Hurairah], "Semoga Allah memberimu kebaikan, apakah anda mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Hassan, penuhilah panggilan Rasulullah shallallahu 'alaihi wasallam (permintaan untuk melawan kaum kafir). Ya Allah, kuatkanlah dia dengan Ruhul Qudus (Malaikat Jibril) '. Abu Hurairah menjawab, "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>453</td></tr><tr><td>Arabic No</td><td>453</td></tr><tr><td>Reference</td><td>Book 8 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается аз-Зухри сказал: \n— Сообщил мне Абу Саляма ибн ‘Абду-р-Рахман ибн ‘Ауф о том, что он слышал, как (однажды) Хассан ибн Сабит аль-Ансари, да будет доволен им Аллах, попросил Абу Хурайру, да будет доволен им Аллах: «Заклинаю тебя Аллахом, (скажи мне,) слышал ли ты, как Пророк ﷺ сказал: “О Хассан, ответь (неверным) за Посланника Аллаха! О Аллах, поддержи его духом святым!”?» — и Абу Хурайра сказал: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>453</td></tr><tr><td>Arabic No</td><td>453</td></tr><tr><td>Reference</td><td>Book 8 Hadith 102</td></tr></tbody></table></div>
 

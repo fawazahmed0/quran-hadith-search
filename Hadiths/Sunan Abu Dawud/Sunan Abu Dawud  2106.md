@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbulAjfa' as-Sulami said:Umar (Allah be pleased with him) delivered a speech to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid], telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Muhammad] dari [Abu Al 'Ajfa' As Sulami], ia berkata; [Umar] radliallahu 'anhu berkhutbah kepada kami, ia berkata; ketahuilah, janganlah kalian berlebihan dalam memberi mahar kepada para wanita, seandainya hal itu adalah sebuah kemuliaan di dunia atau sebagai bentuk ketakwaan di sisi Allah, niscaya orang yang paling dahulu melakukannya adalah Nabi shallallahu 'alaihi wasallam, tidaklah Rasulullah shallallahu 'alaihi wasallam memberikan mahar kepada salah seorang dari isteri-isteri beliau, dan tidak juga diberikan kepada puteri-puteri beliau jumlah mahar yang melebihi dua belas uqiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2106</td></tr><tr><td>Arabic No</td><td>2106</td></tr><tr><td>Reference</td><td>Book 12 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу аль-Аджфа ас-Сулями: «Однажды ‘Умар, да будет доволен им Аллах, обратился к нам с речью, сказав: “Не делайте брачный дар слишком большим, ибо, если бы это было благим делом в мирской жизни или проявлением богобоязненности пред Аллахом, Пророк ﷺ непременно делал бы это, однако ни его жёны, ни его дочери не получали в качестве брачного дара больше двенадцати окий”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2106</td></tr><tr><td>Arabic No</td><td>2106</td></tr><tr><td>Reference</td><td>Book 12 Hadith 61</td></tr></tbody></table></div>
 

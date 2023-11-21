@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A similar tradition has been transmitted by 'Aishah from the Prophet (ﷺ) throu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah], dari [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair], dari ['Amrah binti Abdurrahman] dari [Aisyah], ia berkata; apabila Rasulullah shallallahu wa'alaihi wa sallam hendak beri'tikaf, maka beliau mendekatkan kepalanya kepadaku, lalu aku menyisir rambutnya. Dan beliau tidak memasuki rumah kecuali karena suatu keperluan manusia. Telah menceritakan kepada kami [Qutaibah bin Sa'id], serta [Abdullah bin Maslamah], mereka berkata; telah menceritakan kepada kami [Al Laits], dari [Ibnu Syihab], dari ['Urwah] serta ['Amrah], dari [Aisyah], dari Nabi shallallahu 'alaihi wasallam seperti itu. Abu Daud berkata; dan begitu juga hadits tersebut diriwayatkan oleh [Yunus] dari [Az Zuhri], dan tidak ada seorangpun yang mengikutkan Malik atas 'Urwah, dari 'Amrah. Dan hadits tersebut telah diriwayatkan oleh [Ma'mar], serta [Ziyad bin Sa'd] dan yang lainnya dari [Az Zuhri] dari ['Urwah] dari [Aisyah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2029)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2468</td></tr><tr><td>Arabic No</td><td>2468</td></tr><tr><td>Reference</td><td>Book 14 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Похожий хадис передаётся от ‘Аиши от Пророка ﷺ другим путём
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2029)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2468</td></tr><tr><td>Arabic No</td><td>2468</td></tr><tr><td>Reference</td><td>Book 14 Hadith 156</td></tr></tbody></table></div>
 

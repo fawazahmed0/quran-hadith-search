@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Reference</td><td>Book 0 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амир ибн ‘Абада сказал: «‘Абдуллах (ибн Мас‘уд) сказал: «Поистине, шайтан принимает образ человека, приходит к людям и рассказывает им лживые рассказы. Когда же они расходятся, один человек из их числа говорит: “Я слушал человека, лицо которого знаю, но не знаю его имени”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Reference</td><td>Book 0 Hadith 17</td></tr></tbody></table></div>
 

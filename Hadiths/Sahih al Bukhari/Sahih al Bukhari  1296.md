@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda bin Abi Musa:Abu Musa got seriously ill, fainted and could no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1296</td></tr><tr><td>Arabic No</td><td>1296</td></tr><tr><td>Reference</td><td>Book 23 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что однажды он тяжело заболел, лишился чувств и ничего не смог сказать одной из своих жён, прижимавшей к своей груди его голову, а когда пришёл в себя, сказал: «Я не имею отношения к тем, от кого отстраняется Посланник Аллаха ﷺ, а он отстраняется от кричащей, обривающей и разрывающей!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1296</td></tr><tr><td>Arabic No</td><td>1296</td></tr><tr><td>Reference</td><td>Book 23 Hadith 54</td></tr></tbody></table></div>
 

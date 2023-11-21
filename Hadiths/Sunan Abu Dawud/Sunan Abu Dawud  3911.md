@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: The Messenger of Allah (ﷺ) as saying : There is no infe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutawakkil Al 'Asqalani] dan [Al Hasan bin Ali] mereka berkata; telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada 'adwa, thiyarah, shafar, dan tidak ada hammah." Seorang Arab badui lalu berkata, "Kenapa seekor unta yang ada gurun pasir seperti kijang, kemudian bercampur dengan unta yang terkena penyakit kurap lalu ia tertular penyakit kurap?" Beliau menjawab: "(Jika begitu) siapakah yang menularkannya kepada yang pertama?" Ma'mar berkata; Az Zuhri berkata; telah menceritakan kepadaku seorang laki-laki dari Abu Hurairah bahwa ia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah orang yang memiliki unta yang sakit mendatangkannya kepada orang yang memiliki unta yang sehat!" Kemudian orang tersebut kembali kepadanya dan berkata, "Bukankah ia telah menceritakan kepada kita bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada 'Adwa, thiyarah, shafar dan tidak ada hammah." Abu Hurairah berkata, "Aku belum pernah menceritakannya kepada kalian." [Az Zuhri] berkata; [Abu Salamah] berkata, "Abu Hurairah telah menceritakannya dan aku tidak pernah mendengar ia lupa kepada suatu hadits pun selian hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5770) Sahih Muslim (2220)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3911</td></tr><tr><td>Arabic No</td><td>3911</td></tr><tr><td>Reference</td><td>Book 30 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Нет заразы (, которая может передаваться сама по себе, так как это происходит только по воле Аллаха), и нет суеверий, и нет сафара, и нет хамы». Услышав это, один бедуин спросил: «А как же тогда случается, что верблюды пасутся в пустыне подобно газелям, а потом смешивается с ними один паршивый верблюд и заражает их паршой?» Посланник Аллаха ﷺ спросил: «А кто заразил первого?» Аз-Зухри передаёт: «Один человек передал мне от Абу Хурайры, что тот слышал, как Пророк ﷺ сказал: “Не пускайте здорового к больному”. А потом тот человек пришёл к Абу Хурайре и спросил: “Разве ты не передавал, что Пророк ﷺ сказал: “Нет заразы, и нет сафара, и нет хамы”?» Однако он ответил: “Я не передавал вам этого”». Аз-Зухри сказал: «Абу Саляма сказал: “Он передавал это, и я никогда не слышал о том, что Абу Хурайра забыл какой-то хадис, кроме этого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5770) Sahih Muslim (2220)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3911</td></tr><tr><td>Arabic No</td><td>3911</td></tr><tr><td>Reference</td><td>Book 30 Hadith 8</td></tr></tbody></table></div>
 

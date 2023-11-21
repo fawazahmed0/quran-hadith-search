@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), le Prophète (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Muawiyah] dari [al-A'masy] dari [Mujahid] dari [Ibnu Umar] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, "Janganlah kalian menghalangi kaum wanita keluar ke masjid pada malam hari." Lalu putera Ibnu Umar berkata, "Kami tidak akan membiarkan mereka keluar, sehingga mereka jadikan moment untuk melakukan kejahatan." Lalu Ibnu Umar menghardiknya seraya berkata, "Aku mengatakan bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, tapi kamu malahan berkata kami tidak akan membiarkan mereka." Telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Isa bin Yunus] dari [al-A'masy] dengan isnad ini hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>992</td></tr><tr><td>Arabic No</td><td>442.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Муджахида, что (однажды) Ибн ‘Умар сказал: «Посланник Аллаха ﷺ говорил: “Не запрещайте женщинам посещать мечети ночью”». (Услышав это) его сын сказал: «Мы не позволим им, ведь они будут пользоваться этим во зло». Тогда Ибн ‘Умар обругал его и сказал: «Я тебе говорю: “Сказал Посланник Аллаха ﷺ”, а ты говоришь: “Мы не позволим им”?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>992</td></tr><tr><td>Arabic No</td><td>442.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 154</td></tr></tbody></table></div>
 

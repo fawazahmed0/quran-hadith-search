@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to read in his Ruqya, "In the Name 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Shadaqah bin Al Fadl] telah mengabarkan kepada kami [Ibnu 'Uyainah] dari ['Abdurrabbihi bin Sa'id] dari ['Amrah] dari ['Aisyah] dia berkata; "Biasanya dalam meruqyah, beliau membaca: "BISMILLAHI TURBATU ARDLINA BI RIIQATI BA'DLINA YUSYFAA SAQIIMUNA BI IDZNI RABBINA ("Dengan nama Allah, Debu tanah kami dengan ludah sebagian kami semoga sembuh orang yang sakit dari kami dengan izin Rabb kami)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5746</td></tr><tr><td>Arabic No</td><td>5746</td></tr><tr><td>Reference</td><td>Book 76 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что обычно Пророк ﷺ говорил больному: «С именем Аллаха! Земля нашей страны вместе со слюной кого-нибудь из нас, и будет исцелён наш больной с дозволения нашего Господа!»\n/Би-сми-Лляхи! Турбату арди-на би-рикати ба‘ди-на, йушфа сакыму-на би-изни Рабби-на
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5746</td></tr><tr><td>Arabic No</td><td>5746</td></tr><tr><td>Reference</td><td>Book 76 Hadith 61</td></tr></tbody></table></div>
 

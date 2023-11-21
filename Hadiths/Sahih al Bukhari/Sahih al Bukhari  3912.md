@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:'Umar bin Al-Khattab fixed a grant of 4000 (Dirhams) for ever
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3912</td></tr><tr><td>Arabic No</td><td>3912</td></tr><tr><td>Reference</td><td>Book 63 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи’ сказал: «‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, назначил первым мухаджирам содержание в четыре тысячи, а своему сыну — в три с половиной тысячи. Ему сказали: “Он ведь относится к числу мухаджиров, так почему ты назначил ему меньше?” Он ответил: “Поистине, это его отец привёз его сюда, совершая переселение (хиджру), и он не подобен тем, кто совершил переселение сам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3912</td></tr><tr><td>Arabic No</td><td>3912</td></tr><tr><td>Reference</td><td>Book 63 Hadith 137</td></tr></tbody></table></div>
 

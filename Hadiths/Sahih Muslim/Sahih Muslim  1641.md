@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:The Apostle of Allah (ﷺ) used to turn to the right (at the end o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [As Sudi] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam meninggalkan shalat dari sebelah kanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1641</td></tr><tr><td>Arabic No</td><td>708.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что Пророк ﷺ уходил (с места молитвы, повернув) направо
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1641</td></tr><tr><td>Arabic No</td><td>708.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 72</td></tr></tbody></table></div>
 

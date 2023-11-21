@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: Muhammad ibn AbuYahya said that his father told tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Muhammad bin Abu Yahya] ia berkata; telah menceritakan kepadaku [Bapakku] Bahwasanya ia dan seorang sahabatnya pergi menjenguk Abu Sa'id, maka kami pun keluar dari sisi Abu Sa'id. Lalu kami bertemu dengan [sahabat kami] yang ingin menemui Abu Sa'id. Lantas kami menuju masjid dan duduk di sana. Kemudian ia (sahabat kami) datang dan mengabarkan bahwa ia mendengar [Abu Sa'id Al Khudri] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya ular hitam itu dari jin, barangsiapa melihatnya dalam rumahnya hendaklah ia memintanya untuk keluar hingga tiga kali, dan jika tetap berada di dalam rumah hendaklah ia membunuhnya, karena itu adalah setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5256</td></tr><tr><td>Arabic No</td><td>5256</td></tr><tr><td>Reference</td><td>Book 43 Hadith 484</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5256</td></tr><tr><td>Arabic No</td><td>5256</td></tr><tr><td>Reference</td><td>Book 43 Hadith 484</td></tr></tbody></table></div>
 

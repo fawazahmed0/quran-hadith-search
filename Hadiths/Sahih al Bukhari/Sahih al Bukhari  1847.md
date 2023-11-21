@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ya'li:While I was with Allah's Messenger (ﷺ) there came to him a man 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami ['Atho'] berkata, telah menceritakan kepada saya [Shafwan bin Ya'la bin Umayyah] dari [bapaknya] berkata; Ketika aku sedang bersama Rasulullah shallallahu 'alaihi wasallam tiba-tiba datang seseorang yang mengenakan jubah yang tampak pada jubahnya pewarna kuning atau sejenisnya. Saat itu 'Umar berkata, kepadaku: "Kamu suka bila Beliau sedang menerima wahyu kamu dapat melihatnya?". Maka wahyu turun kepada Beliau kemudian setelah selesai, Beliau bersabda: "Kerjakanlah manasik dalam 'umrahmu seperti kamu kerjakan dalam hajimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1847</td></tr><tr><td>Arabic No</td><td>1847</td></tr><tr><td>Reference</td><td>Book 28 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Я‘ля ибн Умайя, рассказал: «Однажды, когда я был вместе с посланником Аллаха ﷺ к нему подошёл человек, одетый в джуббу со следами шафранового благовония (или чего-то другого). ‘Умар говорил мне: “Хотел бы ты увидеть Пророка ﷺ в тот момент, когда ему ниспосылается откровение?” И Пророку ﷺ было ниспослано откровение, очнувшись, он сказал тому человеку: “Делай во время ‘умры то же, что ты делаешь во время хаджа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1847</td></tr><tr><td>Arabic No</td><td>1847</td></tr><tr><td>Reference</td><td>Book 28 Hadith 27</td></tr></tbody></table></div>
 

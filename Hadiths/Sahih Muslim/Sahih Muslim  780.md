@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubayy ibn Ka'b narrated it from the Messenger of Allah (ﷺ) that he said:If a p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Hisyam bin Urwah] telah menceritakan kepada kami [bapakku] dari al-Mali dari al-Mali yaitu dengan perkataanya al-Mali, dari al-Mali [Abu Ayyub] dari [Ubaiy bin Ka'ab] dari Rasulullah Shallallahu'alaihiwasallam, bahwa beliau berkata pada seorang laki-laki yang menyenggamai istrinya, kemudian tidak keluar mani. Beliau berkata lagi, "Hendaklah dia mencuci dzakarnya dan berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>346.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Убая ибн Ка‘ба, что Посланник Аллаха ﷺ сказал о человеке, который вступил в половую связь со своей женой, а затем (остановился,) не произведя семяизвержение: «Пусть вымоет свой половой орган и совершит малое омовение /вудуъ/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>346.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 102</td></tr></tbody></table></div>
 

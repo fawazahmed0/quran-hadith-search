@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported she had borrowed from Asma' (her sister) a necklace and it was l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abu Usamah] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] dan [Ibnu Bisyr] dari [Hisyam] dari [bapaknya] dari [Aisyah] bahwa dia meminjam kalung dari Asma', lalu kalung itu hilang. Maka Rasulullah shallallahu 'alaihi wasallam mengutus orang dari kalangan sahabatnya untuk mencarinya. Lalu tiba waktu shalat, maka mereka shalat tanpa berwudhu. Ketika mereka mendatangi Nabi Shallallahu'alaihiwasallam, maka mereka mengadukan hal tersebut kepada beliau, maka turunlah ayat tayammum. Lalu Usaid bin Hudhair berkata, "Semoga Allah memberikan pahala kepadamu. Demi Allah, tidaklah suatu perkara turun padamu melainkan Allah menjadikan jalan keluar untukmu, dan menjadikan keberkahan bagi kaum mukminin di dalamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>817</td></tr><tr><td>Arabic No</td><td>367.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша рассказывала о том, что (однажды) она позаимствовала у Асмы ожерелье, которое (затем) пропало. Посланник Аллаха ﷺ послал (несколько) своих сподвижников на его поиски, в ходе которых их застало время молитвы, и им пришлось совершить молитву без омовения. Вернувшись к Пророку ﷺ, они пожаловались ему на это, после чего был ниспослан аят о (допустимости) очищения песком /ат-таяммум/, и (тогда) Усайд ибн Худайр сказал (‘Аише): «Да воздаст тебе Аллах благом! Клянусь Аллахом, когда бы ни попадала ты в (трудное положение), Аллах всегда не только указывал тебе выход из него, но и делал это благословенным для (всех) мусульман!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>817</td></tr><tr><td>Arabic No</td><td>367.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 138</td></tr></tbody></table></div>
 

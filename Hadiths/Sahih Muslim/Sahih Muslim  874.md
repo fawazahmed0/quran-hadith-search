@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubada b. as-Samit reported from the Messenger of Allah (may peace be upon him ):
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Amru an-Naqid] serta [Ishaq bin Ibrahim] semuanya dari [Sufyan] berkata [Abu Bakar] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Mahmud bin ar-Rabi'] dari [Ubadah bin ash-Shamit] menyatakan hadits tersebut marfu' kepada Nabi Shallallahu'alaihiwasallam, "Tidak sah shalat seseorang yang tidak membaca al-Fatihah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>874</td></tr><tr><td>Arabic No</td><td>394.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Убады ибн ас-Самита, что Пророк ﷺ сказал: «Не совершил молитву тот, кто не прочитал (суру) открывающую Писание»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>874</td></tr><tr><td>Arabic No</td><td>394.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 37</td></tr></tbody></table></div>
 

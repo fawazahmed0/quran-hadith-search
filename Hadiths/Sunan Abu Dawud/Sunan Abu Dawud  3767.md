@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) said: When one of y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muammal bin Hisyam] telah menceritakan kepada kami [Isma'il] dari [Hisyam bin Abu Abdullah Ad Dastuwai] dari [Budail] dari [Abdullah bin 'Ubaid] dari seorang wanita di antara mereka yang dipanggil [Ummu Kultsum] dari [Aisyah] radliallahu 'anhuma, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian makan, maka hendaknya ia menyebutkan nama Allah Ta'ala. Jika ia lupa untuk menyebut nama Allah Ta'ala di awal, hendaklah ia mengucapkan: BISMILLAAHI AWWALAHU WA AAKHIRAHU (dengan nama Allah pada awal dan akhirnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3767</td></tr><tr><td>Arabic No</td><td>3767</td></tr><tr><td>Reference</td><td>Book 28 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Пусть каждый из вас, принимаясь за еду, помянет имя Всевышнего Аллаха. Если же он забудет помянуть имя Всевышнего Аллаха в начале еды, пусть скажет: “С именем Аллаха в начале и конце её!” (Бисми-Лляхи фи аввали-хи ва ахыри-хи)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3767</td></tr><tr><td>Arabic No</td><td>3767</td></tr><tr><td>Reference</td><td>Book 28 Hadith 32</td></tr></tbody></table></div>
 

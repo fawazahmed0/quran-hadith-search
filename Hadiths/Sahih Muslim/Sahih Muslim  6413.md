@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn 'Abdoullâh (رضي الله عنهما) a dit : C'est à notre sujet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] dan [Ahmad bin 'Abdah], lafazh ini milik Ishaq keduanya berkata; Telah mengabarkan kepada kami [Sufyan] dari ['Amru] dari [Jabir bin 'Abdullah] dia berkata; "Ada ayat Al Qur'an yang turun berkenaan dengan kami yaitu: 'Ingatlah ketika dua golongan ingin mundur karena takut, padahal Allah penolong kedua golongan tersebut. '(Qs. Ali 'lmraan (2): 122) Keduanya adalah Bani Salimah dan Bani Haritsah. Kami tidak senang jika ayat ini tidak turun, karena firman Allah yang berbunyi: "Padahal Allah penolong kedua golongan itu (QS. Ali-Imran)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6413</td></tr><tr><td>Arabic No</td><td>2505</td></tr><tr><td>Reference</td><td>Book 44 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6413</td></tr><tr><td>Arabic No</td><td>2505</td></tr><tr><td>Reference</td><td>Book 44 Hadith 243</td></tr></tbody></table></div>
 

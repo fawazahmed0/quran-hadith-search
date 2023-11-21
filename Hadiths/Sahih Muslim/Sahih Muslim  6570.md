@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported that Allah's Messenger (ﷺ) visited Umm Sa'ib or Umm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaidullah bin 'Umar Al Qawariri]; Telah menceritakan kepada kami [Yazid bin Zurai']; Telah menceritakan kepada kami [Al Hajjaj Ash Shawwaf]; Telah menceritakan kepadaku [Abu Az Zubair]; Telah menceritakan kepada kami [Jabir bin 'Abdullah] bahwa Rasulullah shallallahu 'alaihi wasallam datang berkunjung ke rumah Ummu Saib atau Ummu Musayyab, maka beliau bertanya: "Sakit apa kamu sampai menggigil begitu?" Jawab Ummu Saib; "Demam! Yang Allah Ta'ala tidak memberi berkah dengannya." Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kamu menyalahkan penyakit, karena penyakit itu dapat menghilangkan kesalahan (dosa-dosa) anak Adam, seperti halnya Kir (alat peniup atau penyala api) membersihkan karat-karat besi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6570</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 45 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6570</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 45 Hadith 68</td></tr></tbody></table></div>
 

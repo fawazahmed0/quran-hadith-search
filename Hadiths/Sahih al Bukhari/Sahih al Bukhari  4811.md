@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:A (Jewish) Rabbi came to Allah's Messenger (ﷺ) and he said,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syaiban] dari [Manshur] dari [Ibrahim] dari [Abidah] dari [Abdullah radliallahu 'anhu] dia berkata; Seorang rahib datang kepada Nabi shallallahu 'alaihi wasallam lalu dia berkata; 'Ya Muhammad, Kami mendapatkan bahwa Allah Ta'ala memegang langit, bumi, pohon-pohon, air, binatang-binatang, dan seluruh makhluk dengan jari-Nya seraya berkata; 'Akulah Raja (Penguasa)! 'Maka Rasulullah shallallahu 'alaihi wasallam pun tertawa hingga nampak gigi serinya sebagai pembenaran terhadap perkataan rahib tersebut. Kemudian beliau membaca ayat: 'Dan mereka tidak mengagungkan Allah dengan pengagungan yang semestinya padahal bumi seluruhnya dalam genggaman-Nya pada hari kiamat dan langit digulung dengan tangan kanan-Nya. Maha Suci Tuhan dan Maha Tinggi Dia dari apa yang mereka persekutukan.' (Az Zumar:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4811</td></tr><tr><td>Arabic No</td><td>4811</td></tr><tr><td>Reference</td><td>Book 65 Hadith 333</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал:\n– (Однажды) к Посланнику Аллаха ﷺ пришёл учёный муж (из числа иудеев) и сказал: «О Мухаммад, мы знаем, (что в Торе сказано,) что Аллах поместит небеса на (один) палец, (всю) землю — на другой, деревья — на третий, воду и землю — на четвёртый, а всё прочее, (что было Им) создано, – на пятый, после чего скажет: “Я — Царь!”» — и в подтверждение правоты этого учёного мужа Пророк ﷺ улыбнулся так широко, что показались его зубы; а потом Посланник Аллаха ﷺ прочитал (аят, в котором сказано): «Не оценили они Аллаха должным образом, а в День воскресения вся земля окажется в руке Его, и (будут) свёрнуты небеса правой десницей Его! Преславен Он(, Который) выше того, чему они поклоняются наряду с Ним!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4811</td></tr><tr><td>Arabic No</td><td>4811</td></tr><tr><td>Reference</td><td>Book 65 Hadith 333</td></tr></tbody></table></div>
 

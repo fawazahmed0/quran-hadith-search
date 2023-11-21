@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:There are some distinguishing features of Banu Tamim which 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Al Mughirah] dari [Al Harits] dari [Abu Zur'ah] dia berkata; [Abu Hurairah] berkata; 'Saya akan senantiasa cinta kepada Bani Tamim, karena saya pernah mendengar tiga hal dari Rasulullah: Pertama, saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Mereka (Bani Tamim) adalah umatku yang paling gigih melawan Dajjal.' Kedua, Rasulullah shallallahu 'alaihi wasallam pernah bersabda ketika ada zakat dari Bani Tamim: 'Ini adalah zakat kaum kami.' Ketiga, ada seorang tawanan perempuan dari Bani Tamim di rumah Aisyah. Kemudian Rasulullah bersabda: 'Hai Aisyah, bebaskanlah ia! Karena ia adalah keturunan Ismail.' Dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Jarir] dari [Amarah] dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata; Aku akan senantiasa mencintai bani Tamim setelah tiga hal yang aku dengar dari Rasulullah…-lalu perawi menyebutkan Hadits yang serupa. Dan telah menceritakan kepada kami [Hamid bin Umar Al Bakrawi] Telah menceritakan kepada kami [Maslamah bin Alqamah Al Mazani] -seorang imam masjid Daud- Telah menceritakan kepada kami [Daud] dari [As Sya'bi] dari [Abu Hurairah] dia berkata; 'tiga perkara yang aku dengar dari Rasulullah shallallahu 'alaihi wasallam mengenai bani Tamim yang dengannya aku selalu mencintai mereka -kemudian dia menyebutkan Haditsnya dengan Hadits yang semakna. Hanya saja dia menambahkan; 'Mereka adalah orang-orang yang sangat pemberani di dalam pertempuran-pertempuran dahsyat.' Dia tidak menyebutkan kalimat 'Dajjal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6453</td></tr><tr><td>Arabic No</td><td>2525.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 282</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6453</td></tr><tr><td>Arabic No</td><td>2525.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 282</td></tr></tbody></table></div>
 

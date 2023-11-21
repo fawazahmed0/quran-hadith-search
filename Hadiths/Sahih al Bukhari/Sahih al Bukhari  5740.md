@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The effect of an evil eye is a fac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Hammam] dari [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Penyakit 'ain (yang disebabkan oleh sorotan mata yang dengki) adalah haq (benar)." Dan beliau melarang tato
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5740</td></tr><tr><td>Arabic No</td><td>5740</td></tr><tr><td>Reference</td><td>Book 76 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Дурной глаз — истина». И он запретил наносить татуировки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5740</td></tr><tr><td>Arabic No</td><td>5740</td></tr><tr><td>Reference</td><td>Book 76 Hadith 55</td></tr></tbody></table></div>
 

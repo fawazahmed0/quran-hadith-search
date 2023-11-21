@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Usaid:We went out with the Prophet (ﷺ) to a garden called Ash-Sha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Abdurrahman bin Ghasil] dari [Hamzah bin Abu Usaid] dari [Abu Usaid] radliallahu 'anhu, ia berkata; Kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam hingga sampai pada suatu dinding yang dinamakan Asy Syauth, kami terus berjalan hingga sampai pada dua dinding dan duduk di antara keduanya. Lalu Nabi shallallahu 'alaihi wasallam bersabda: "Duduklah kalian di sini." Beliau pun masuk dan ternyata telah didatangkan seorang perempuan bani Jaun dan ditempatkan di rumah yang ada di kebun kurma yaitu rumahnya Ummayyah binti An-Nu'man bin Syarahil yang saat itu sedang bersama pelayan dan perawatnya. Dan ketika Nabi shallallahu 'alaihi wasallam menemuinya, beliau bersabda: "Serahkanlah dirimu untukku." Wanita itu berkata, "Apakah seorang permaisuri akan menyerahkan dirinya kepada seorang rakyat jelata?" maka beliau pun menjulurkan tangannya dan hendak menyentuh dan menenangkan, akan tetapi wanita itu berkata, "Aku berlindung kepada Allah darimu." Maka beliau bersabda: "Sesungguhnya kamu telah berlindung dengan Dzat Yang Maha Melindungi." Setelah itu, beliau keluar dan berkata, "Wahai Usaid, berilah ia dua helai pakaian dari katun dan kembalikanlah ia kepada keluarganya." Dan [Al Husain bin Al Walid An Naisaburi] berkata; dari [Abdurrahman] dari [Abbas bin Sahl] dari [bapaknya] dan [Abu Usaid] keduanya berkata; Nabi shallallahu 'alaihi wasallam menikahi Umayyah binti Syarahil. Dan ketika wanita itu dipertemukan dengan beliau. beliau pun merangkulkan tangan kepada wanita itu, sepertinya wanita itu tak menyukai hal itu. Maka beliau menyuruh Abu Usaid untuk mempersiapkan bekal untuk wanita itu, kemudian memberinya dua helai pakaian dari katun. Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada kami [Ibrahim bin Abu Zubair] Telah menceritakan kepada kami [Abdurrahman] dari [Hamzah] dari [bapaknya] dan dari [Abbas bin Sahl bin Sa'd] dari [bapaknya] dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5255</td></tr><tr><td>Arabic No</td><td>5255</td></tr><tr><td>Reference</td><td>Book 68 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Усайд, да будет доволен им Аллах, сказал: «(Однажды, когда) мы с Пророком ﷺ вышли (из дома) и дошли до двух (пальмовых рощ). Пророк ﷺ сказал: “Посидите здесь”, а сам вошёл внутрь. А дело в том, что к нему привели женщину из племени бану джаун, которую поселили в находившемся в этой пальмовой роще доме Умаймы бинт ан-Ну‘ман ибн Шарахиль, и вместе с ней была женщина, которая с малых лет воспитывала её. Войдя к ней, Пророк ﷺ сказал: “Подари себя мне”, а она спросила: “Разве царица дарит себя простому человеку?” Пророк ﷺ протянул к ней свою руку, чтобы она успокоилась, а она сказала: “Прибегаю к защите Аллаха от тебя!” — и тогда (Пророк ﷺ) сказал: “Ты прибегла к защите Того, Кто даёт защиту”, а потом вышел к нам и сказал: “О Абу Усайд, дай ей две белых одежды и отправь её к её семье!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5255</td></tr><tr><td>Arabic No</td><td>5255</td></tr><tr><td>Reference</td><td>Book 68 Hadith 5</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ghailan:Anas said "You people do (bad) deeds (commit sins) which seem i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] telah menceritakan kepada kami [Mahdi] dari [Ghailan] dari [Anas] radhilayyahu'anhu mengatakan; "Sungguh kalian mengerjakan beberapa amalan yang menurut kalian lebih remeh temeh daripada seutas rambut, padahal kami dahulu semasa Nabi shallallahu 'alaihi wasallam menganggapnya diantara dosa-dosa besar." Kata Abdurrahman dengan redaksi; 'Diantara dosa yang membinasakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6492</td></tr><tr><td>Arabic No</td><td>6492</td></tr><tr><td>Reference</td><td>Book 81 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Поистине, вы совершаете такие поступки, которые в ваших глазах тоньше волоса, тогда как при жизни Пророка ﷺ мы относили их к числу смертных грехов /мубикъат/».\nАбу ‘Абдуллах (имам аль-Бухари) сказал: «Под ними (т.е. смертными грехами) подразумевается всё то, что приводит к гибели /аль-мухликат/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6492</td></tr><tr><td>Arabic No</td><td>6492</td></tr><tr><td>Reference</td><td>Book 81 Hadith 81</td></tr></tbody></table></div>
 

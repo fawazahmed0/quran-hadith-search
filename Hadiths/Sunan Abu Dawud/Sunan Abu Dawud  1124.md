@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Abi Rafi' said:Abu Hurairah led us in the Friday prayer and recited Surah al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] telah menceritakan kepada kami [Sulaiman yaitu Ibnu Bilal] dari [Ja'far] dari [ayahnya] dari [Ibnu Abu Rafi'] dia berkata; Abu Hurairah shalat mangimami kami pada hari (shalat) Jum'at, lalu dia membaca surat Al Jumuah pada raka'at pertama dan "idza jaa-akal munafiqun" pada raka'at terakhir. Selesai shalat, aku menjumpai Abu Hurairah dan berkata kepadanya; "Sesungguhnya anda membaca surat sebagaimana yang dibaca oleh Ali bin Abu Thalib di Kufah." [Abu Hurairah] berkata; "Aku mendengar Rasulullah shallallahu 'alaihi wasallam membaca kedua surat tersebut pada shalat Jum'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (877)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1124</td></tr><tr><td>Arabic No</td><td>1124</td></tr><tr><td>Reference</td><td>Book 2 Hadith 735</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (877)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1124</td></tr><tr><td>Arabic No</td><td>1124</td></tr><tr><td>Reference</td><td>Book 2 Hadith 735</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "Gabriel called me and said, 'Allah has 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Ibn Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibn Syihab] telah menceritakan kepadaku ['Urwah] bahwa [Aisyah] radliyallahu'anhuma menceritakan kepadanya, "Nabi shallallahu 'alaihi wasallam bersabda: "Jibril memanggilku dan berkata: 'Sesungguhnya Allah mendengar ucapan kaummu namun mereka tidak bisa mencelakaimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7389</td></tr><tr><td>Arabic No</td><td>7389</td></tr><tr><td>Reference</td><td>Book 97 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, что Пророк ﷺ сказал: «Поистине, Джибриль, мир ему, обратился ко мне и сказал: “Поистине, Аллах слышал, что сказали тебе твои соплеменники и какой ответ они тебе дали”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7389</td></tr><tr><td>Arabic No</td><td>7389</td></tr><tr><td>Reference</td><td>Book 97 Hadith 18</td></tr></tbody></table></div>
 

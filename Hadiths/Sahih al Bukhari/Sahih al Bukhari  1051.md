@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:When the sun eclipsed in the lifetime of Allah's Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari ['Abdullah bin 'Amru] bahwa dia berkata, "Saat terjadi gerhana matahari di zaman Rasulullah shallallahu 'alaihi wasallam, maka diserukan dengan panggilan, 'Ashshalaatul jaami'ah (Marilah mendirikan shalat secara bersama-sama) '. Nabi shallallahu 'alaihi wasallam lalu rukuk dua kali dalam satu kali sujud, kemudian berdiri kembali dan rukuk dua kali dengan satu kali sujud. Kemudian beliau duduk sementara matahari telah nampak kembali." 'Abdullah bin 'Amru berkata, 'Aisyah? radliallahu 'anha berkata, "Tidak pernah aku melaksanakan satu sujudpun yang lebih panjang darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>1051</td></tr><tr><td>Reference</td><td>Book 16 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр сказал: «Когда при жизни Посланника Аллаха ﷺ произошло солнечное затмение, было возглашено: “Общая молитва!” Пророк ﷺ совершил два поясных поклона в рак‘ате, затем встал и совершил два поясных поклона (во втором) рак‘ате, затем он сел, после этого затмение закончилось. ‘Аиша, да будет доволен ею Аллах, сказала: “Я никогда не совершала такого долгого земного поклона”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>1051</td></tr><tr><td>Reference</td><td>Book 16 Hadith 11</td></tr></tbody></table></div>
 

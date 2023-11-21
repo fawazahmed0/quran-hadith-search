@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) a dit : On parla devant le Prophète
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq] -Utsman- berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari [Abdullah] ia berkata; Suatu ketika Rasulullah shallallahu 'alaihi wasallam mendengarkan cerita bahwa ada laki-laki yang tidur hingga pagi. Maka beliau bersabda: "Itulah laki-laki yang telah dikencingi kedua telinganya oleh syetan." Atau beliau mengatakan; "Di telinganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1817</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 6 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «(Однажды) в присутствии Посланника Аллаха ﷺ (кто-то) упомянул об одном человеке, который спал всю ночь до самого утра. (Услышав это, Пророк ﷺ) сказал: “В ухо (или: в уши) этому человеку помочился шайтан”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1817</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 6 Hadith 245</td></tr></tbody></table></div>
 

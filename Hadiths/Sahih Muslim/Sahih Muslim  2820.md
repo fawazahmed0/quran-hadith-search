@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported that the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, ia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam telah meletakkan kakinya di atas kayu atau kulit yang diletakkan di punggung untanya, dan hewan tunggangannya telah siap memberangkatkannya, maka barulah beliau memulai Ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2820</td></tr><tr><td>Arabic No</td><td>1187.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2820</td></tr><tr><td>Arabic No</td><td>1187.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 30</td></tr></tbody></table></div>
 

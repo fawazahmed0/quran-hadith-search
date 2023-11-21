@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:The Messenger of Allah (ﷺ) used to pray in the folds of the shee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Muadz al-'Anbari] telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepadaku [Abu at-Tayyah] dari [Anas] "Bahwa Rasulullah Shallallahu'alaihiwasallam dahulu shalat di tempat peristirahatan kambing sebelum masjid di bangun." Telah menceritakan kepada kami [Yahya bin Habib] telah mengabarkan kepada kami [Khalid, yaitu Ibnu al-Harits] telah menceritakan kepada kami [Syu'bah] dari [Abu at-Tayyah] dia berkata, "Saya mendengar [Anas] berkata, Rasulullah shallallahu'alaihiwasallam bersabda dengan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1174</td></tr><tr><td>Arabic No</td><td>524.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что до того, как была построена мечеть, Посланник Аллаха ﷺ (часто) молился в загонах для овец»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1174</td></tr><tr><td>Arabic No</td><td>524.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 14</td></tr></tbody></table></div>
 

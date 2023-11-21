@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted by Mahmud b. Ghailan by another chain of transm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Muhammad bin Abbad] dan lafazh tersebut milik Harun, keduanya berkata, telah menceritakan kepada kami [Sufyan] dari [Hisyam] dari [bapaknya] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia senantiasa bertanya-tanya hingga ditanyakan, 'Ini, Allah menciptakan makhluk, lalu siapakah yang menciptakan Allah', maka barangsiapa mendapatkan sesuatu dari hal tersebut, maka hendaklah dia berkata, 'Aku beriman kepada Allah'." Dan telah menceritakan kepada kami [Mahmud bin Ghailan] telah menceritakan kepada kami [Abu an-Nadlar] telah menceritakan kepada kami [Abu Sa'id al-Mu'addib] dari [Hisyam bin Urwah] dengan sanad ini, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Setan datang kepada salah seorang dari kalian lalu berkata, 'Siapakah yang menciptakan langit, siapakah yang menciptakan bumi? ' lalu dia menjawab, 'Allah', kemudian menyebutkan dengan semisalnya, dan dia menambahkan kalimat, 'Dan Rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>344</td></tr><tr><td>Arabic No</td><td>134.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается от Хишама ибн ‘Урвы с тем же иснадом, что Посланник Аллаха ﷺ сказал: «Шайтан может явиться к любому из вас и сказать: “Кто создал небеса? Кто создал землю?” (Человек) скажет: “Аллах”». Так до конца предыдущего хадиса, но в конце он добавил: «…и Его посланников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>344</td></tr><tr><td>Arabic No</td><td>134.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 251</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported:Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Muharib] bahwa dia pernah mendengar [Jabir bin Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah membeli untaku seharga dua uqiyah ditambah satu dirham atau dua dirham." Jabir melanjutkan, "Ketika sampai daerah Shirar, beliau memerintahkan untuk menyembelih sapi, kemudian sapi tersebut disembelih dan mereka (para sahabat) memakan dagingnya. Setibanya di Madinah, beliau memerintahkanku untuk datang ke Masjid, lalu saya shalat dua rakaat. Setelah itu, beliau menawarkan harga untaku, kemudian beliau menambahkan sedikit harga kepadaku." Telah menceritakan kepadaku [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepada kami [Muharib] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam dengan kisah seperti ini, namun dia menambahkan, "Kemudian beliau membelinya dariku dengan harga seperti yang telah saya sebutkan tadi." Dan dia tidak menyebutkan, "Dua uqiyah dan satu dirham atau dua dirham." Dan dia berkata, "Kemudian beliau menyuruh untuk menyembelih sapi, setelah itu beliau membagi-bagikan dagingnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4105</td></tr><tr><td>Arabic No</td><td>715.20</td></tr><tr><td>Reference</td><td>Book 22 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4105</td></tr><tr><td>Arabic No</td><td>715.20</td></tr><tr><td>Reference</td><td>Book 22 Hadith 144</td></tr></tbody></table></div>
 

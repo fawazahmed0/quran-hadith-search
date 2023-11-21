@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) gave us the option (to remain with him o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] Telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepada kami [Muslim] dari [Masruq] dari [Aisyah] radliallahu 'anha, ia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah memberikan pilihan kepada kami, maka kami pun memilih Allah dan Rasul-Nya. Dan beliau tidak menganggapnya thalak sama sekali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5262</td></tr><tr><td>Arabic No</td><td>5262</td></tr><tr><td>Reference</td><td>Book 68 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Посланник Аллаха ﷺ предоставил нам выбор, мы выбрали Аллаха и Его Посланника, и это не считалось ничем (разводом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5262</td></tr><tr><td>Arabic No</td><td>5262</td></tr><tr><td>Reference</td><td>Book 68 Hadith 12</td></tr></tbody></table></div>
 

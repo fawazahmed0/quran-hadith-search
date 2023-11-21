@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khabbab:We migrated with Allah's Messenger (ﷺ) seeking Allah's Counte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3914</td></tr><tr><td>Arabic No</td><td>3914</td></tr><tr><td>Reference</td><td>Book 63 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб сказал: «Мы переселились (из Мекки в Медину) вместе с Посланником Аллаха ﷺ, стремясь к лику Аллаха, поэтому Аллах и наградит нас. Некоторые из нас умерли, не получив никакой награды (в мире этом), и среди них был Мус‘аб ибн ‘Умайр, который был убит в день битвы при Ухуде. У нас не нашлось в качестве савана ничего, кроме его плаща, однако, когда мы покрывали им голову, неприкрытыми оставались ноги, когда же мы покрывали им ноги, то неприкрытой оставалась голова, и тогда Посланник Аллаха ﷺ велел нам прикрыть его голову, а на ноги набросать душистого тростника. А кто-то из нас получил свои плоды (уже в этой жизни)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3914</td></tr><tr><td>Arabic No</td><td>3914</td></tr><tr><td>Reference</td><td>Book 63 Hadith 139</td></tr></tbody></table></div>
 

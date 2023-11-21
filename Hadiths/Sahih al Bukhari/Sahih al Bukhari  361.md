@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Harith:I asked Jabir bin 'Abdullah about praying in a sing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Shalih] berkata, telah menceritakan kepada kami [Fulaih bin Sulaiman] dari [Sa'id bin Al Harits] berkata, "Kami bertanya kepada [Jabir bin 'Abdullah] tentang shalat dengan mengenakan satu lembar kain. Maka ia menjawab, "Aku pernah shalat bersama Nabi shallallahu 'alaihi wasallam dalam salah satu perjalanannya. Pada suau malamnya aku datang untuk keperluanku. Saat itu aku dapati beliau sedang shalat dengan mengenakan satu kain. Maka aku bergabung dengan beliau dan shalat disampingnya. Setelah selesai beliau bertanya: "Ada urusan apa (malam-malam begini) kamu datang wahai Jabir?" Maka aku sampaikan keperluanku kepada beliau. Setelah aku selesai, beliau berkata: "Kenapa aku lihat kamu menyelimutkan (kain) seperti ini? ' Aku jawab, "Kainku sempit!" Beliau bersabda: "Jika kain itu lebar maka diikatkanlah dari pundak, namun bila sempit maka cukup dikenakan (sebatas untuk menutup aurat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>361</td></tr><tr><td>Arabic No</td><td>361</td></tr><tr><td>Reference</td><td>Book 8 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн аль-Харис сказал:\n— Мы спросили Джабира ибн ‘Абдуллах, да будет доволен им Аллах, о (совершении) молитвы в одной одежде и он сказал: «(Однажды,) находясь вместе с Пророком ﷺ в одной из его поездок и придя к нему ночью по какому-то делу, я нашёл его молящимся. На мне была одна одежда, в которую я и завернулся, (прикрыв плечи и) помолившись рядом с ним. Закончив (молиться), он спросил: “Что привело тебя сюда ночью, о Джабир?” Я сообщил ему о том, что мне было нужно, а потом он спросил: “Что заставило тебя завернуться (так плотно)?” Я ответил: “Эта одежда (слишком узка)”. Тогда он сказал: “Если одежда (достаточно) широка, закутывайся в неё, (покрывая и плечи,) а если она (слишком) узка, то надевай её как изар”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>361</td></tr><tr><td>Arabic No</td><td>361</td></tr><tr><td>Reference</td><td>Book 8 Hadith 13</td></tr></tbody></table></div>
 

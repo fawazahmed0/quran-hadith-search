@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that when this verse was tevealed:" You will not attain righteousn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Bahz] Telah menceritakan kepada kami [Hammad bin Salamah] Telah menceritakan kepada kami [Tsabit] dari [Anas] ia berkata; Ketika turun ayat: "Sekali-kali kamu tidak akan mencapai kebaikan (yang sempurna), sehingga kamu menafkahkan sebagian hartamu yang kamu cintai." Abu Thalhah berkata, "Menurutku, bahwa Rabb kita meminta kita (agar menyedekahkan) harta yang kita miliki, karena itu, aku persaksikan kepadamu wahai Rasulullah, bahwa saya telah menjadikan kebunku Bairaha untuk Allah." Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Bagi-bagikanlah kepada kerabatmu." Akhirnya ia pun membagi-bagikannya kepada Hassan bin Tsabit dan Ubay bin Ka'b
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2316</td></tr><tr><td>Arabic No</td><td>998.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас сказал: «Когда был ниспослан аят, (в котором сказано): “Вам никогда не обрести благочестия, если не будете вы расходовать из того, что любите” (Сура «Али ‘Имран», аят 92), Абу Тальха сказал: “Я вижу, наш Господь велит нам расходовать из нашего имущества. И я призываю тебя в свидетели, о Посланник Аллаха, что я отдаю ради Аллаху мою землю в Байраха”. Посланник Аллаха ﷺ сказал: “Отдай её своим родственникам”. И он разделил её между Хассаном ибн Сабитом и Убайем ибн Ка‘бом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2316</td></tr><tr><td>Arabic No</td><td>998.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 53</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "O Bani Najjar! Suggest a price for your g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami ['Abdul Warits] dari [Abu At-Tayyah] dari [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam berkata: "Wahai Banu Najar, juallah kepadaku berapa harga (kebun kalian) ". Didalam kebun tersebut terdapat reruntuhan bangunan dan pohon-pohon kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2106</td></tr><tr><td>Arabic No</td><td>2106</td></tr><tr><td>Reference</td><td>Book 34 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «О бану ан-Наджжар, назовите мне цену за этот ваш сад!» А там находились развалины и пальмы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2106</td></tr><tr><td>Arabic No</td><td>2106</td></tr><tr><td>Reference</td><td>Book 34 Hadith 59</td></tr></tbody></table></div>
 

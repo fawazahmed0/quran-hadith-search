@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Al-Barâ (que Dieu l'agrée), le Prophète (paix et bénédiction de Di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Muadz al-'Anbari] telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Syu'bah] dari ['Adi] dia berkata, "Saya mendengar [al-Bara'] menceritakan dari Nabi Shallallahu'alaihiwasallam bahwa beliau berada pada suatu perjalanan, lalu beliau shalat isya' yang akhir, lalu beliau membaca pada salah satu raka'at, 'At-Tin wa az-Zaitun'. (QS. Attin)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1037</td></tr><tr><td>Arabic No</td><td>464.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Адий сказал: «Я слышал, (как) аль-Бараъ (рассказывал), что (однажды), находясь в пути, Пророк ﷺ прочёл во время совершения одного из двух рак‘атов вечерней молитвы /‘иша/: “Клянусь смоковницей и оливой…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1037</td></tr><tr><td>Arabic No</td><td>464.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 199</td></tr></tbody></table></div>
 

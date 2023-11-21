@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ya'la:I went out in one of the Ghazwa and a man bit another man and as 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari ['Atho'] dari [Shafwan bin Ya'la] dari [ayahnya] mengatakan, pernah aku berangkat untuk suatu peperangan, kemudian ada seseorang yang menggigit sehingga kedua gigi serinya tanggal, dan Nabi shallallahu 'alaihi wasallam menganggap kasus ini tak dianggap (tak ada diyat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6893</td></tr><tr><td>Arabic No</td><td>6893</td></tr><tr><td>Reference</td><td>Book 87 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Йа‘ля ибн Умаййа сказал: «Когда я вышел в военный поход, один человек укусил другого за руку, а укушенный вырвал руку из его рта вместе с передним зубом укусившего, но Пророк ﷺ не назначил никакой компенсации (за его зубы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6893</td></tr><tr><td>Arabic No</td><td>6893</td></tr><tr><td>Reference</td><td>Book 87 Hadith 31</td></tr></tbody></table></div>
 

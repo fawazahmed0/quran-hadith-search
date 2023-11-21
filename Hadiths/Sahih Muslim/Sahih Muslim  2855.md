@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Abu Qatada reported on the authority of his father (Allah be pleased
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Abu 'Awanah] dari [Utsman bin Abdullah bin Mauhab] dari [Abdullah bin Abu Qatadah] dari [bapaknya] radliallahu 'anhu, ia berkata; Kami pernah pergi melaksanakan haji bersama Rasulullah shallallahu 'alaihi wasallam, sebagian sahabat menempuh jalan yang lain, termasuk Abu Qatadah. Rasulullah shallallahu 'alaihi wasallam bersabda: "Tempuhlah jalan pantai hingga kalian menemuiku." Mereka pun kemudian menempuh jalan pesisir pantai. Ketika mereka semua berangkat lebih dulu dari Rasulullah shallallahu 'alaihi wasallam, semuanya berihram kecuali Abu Qatadah. Di tengah-tengah perjalanan, tiba-tiba mereka melihat beberapa ekor keledai liar, kemudian Abu Qatadah berhasil menangkap seekor darinya yang betina dan menyembelihnya. Rombongan kemudian berhenti, lalu memakan daging himar tersebut. Kemudian mereka berkata, "Kita telah memakan daging binatang buruan, padahal kita sedang berihram." Lalu sisa daging tersebut mereka bawa. Dan tatkala mereka sampai kepada Rasulullah shallallahu 'alaihi wasallam, mereka pun berkata, "Wahai Rasulullah, kami tadi telah berihram, sedangkan Abu Qatadah tidak berihram, lalu kami melihat beberapa ekor himar liar, kemudian ditangkap oleh Abu Qatadah, lalu disembelihnya. Kemudian kami berhenti untuk memakan dagingnya. Dan kami pun berkata, 'Kita makan daging hewan buruan, padahal kita sedang ihram.' Maka sisa daging tersebut pun kami bawa." Maka Rasulullah shallallahu 'alaihi wasallam pun bertanya: "Apakah ada seorang dari kalian yang telah menyuruh atau memberinya petunjuk (isyarat) terhadap buruan tersebut?" Mereka menjawab, "Tidak ada." Akhirnya beliau pun bersabda: "Kalau begitu, makanlah dagingnya yang masih tersisa." Dan Telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] -dalam riwayat lain- Dan telah menceritakan kepadaku [Al Qasim bin Zakariya] telah menceritakan kepada kami [Ubaidullah] dari [Syaiban] semuanya dari [Utsman bin Abdullah bin Mauhab] dengan isnad ini. Di dalam riwayatnya Syaiban termaktub; "Maka Rasulullah shallallahu 'alaihi wasallam bertanya; 'Apakah ada salah seorang dari kalian yang menyuruhnya untuk berburu atau memberinya petunjuk (isyarat) kepadanya himar itu? '" sementara di dalam riwayat Syu'bah termaktub; "Apakah kalian telah memberi isyarat, atau ikut membantu atau pun ikut berburu?" Syu'bah berkata; Saya tidak tahu apakah; "Apakah kalian turut membantu?" atau "Apakah kalian ikut berburu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>1196.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2855</td></tr><tr><td>Arabic No</td><td>1196.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 65</td></tr></tbody></table></div>
 

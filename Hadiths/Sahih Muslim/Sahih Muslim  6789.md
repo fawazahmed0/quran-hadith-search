@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of 'Abdullah (b. Mas'ud) and Abu 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] telah menceritakan kepada kami [Waki'] dan [bapakku], mereka berdua berkata; telah menceritakan kepada kami [Al A'masy] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Abu Sa'id Al Asyaj] -dan lafadh ini miliknya- telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dari [Abu Wail] dia berkata; aku pernah duduk bersama ['Abdullah] dan [Abu Musa], mereka berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya sebelum hari kiamat ada beberapa hari yang didalamnya ilmu dihilangkan, kebodohan merajalela, dan banyaknya pembunuhan." Telah menceritakan kepada kami [Abu Bakr bin An Nadhr bin Abu An Nadhr] telah menceritakan kepada kami [Abu An Nadhr] telah menceritakan kepada kami ['Ubaidullah Al Asyja'i] dari [Sufyan] dari [Al A'masy] dari [Abu Wail] dari ['Abdullah] dan [Abu Musa Al Asy'ari] mereka berdua berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Al Qasim bin Zakariya] telah menceritakan kepada kami [Husain Al Ju'fi] dari [Zaidah] dari [Sulaiman] dari [Syaqiq] dia berkata; aku pernah duduk bersama ['Abdullah] dan [Abu Musa] dan keduanya saling bercerita, maka mereka berkata; Rasulullah shallallahu 'alaihi wasallam bersabda seperti hadits Waki' dan Ibnu Numair. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] dan [Ibnu Numair] dan [Ishaq Al Hanzhali] semuanya dari [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam seperti hadits Ishaq bin Ibrahim. Telah mengabarkan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wail] dia berkata; sesungguhnya aku pernah duduk bersama ['Abdullah] dan [Abu Musa] dan keduanya saling bercerita, maka Abu Musa berkata; Rasulullah shallallahu 'alaihi wasallam bersabda -dengan Hadits yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6789</td></tr><tr><td>Arabic No</td><td>2672.02</td></tr><tr><td>Reference</td><td>Book 47 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6789</td></tr><tr><td>Arabic No</td><td>2672.02</td></tr><tr><td>Reference</td><td>Book 47 Hadith 15</td></tr></tbody></table></div>
 

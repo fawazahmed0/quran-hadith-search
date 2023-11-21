@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Allah's Messenger (ﷺ) forbade that a woman should be married to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Ashim] dari [Asy Sya'bi] bahwa ia mendengar [Jabir] radliallahu 'anhu berkata; "Rasulullah shallallahu 'alaihi wasallam melarang bilamana wanita dimadu dengan bibinya baik dari jalur ibu atau bapaknya." [Dawud] berkata; Dan [Ibnu 'Aun] dari [Asy Sya'bi] dari [Abu Hurairah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5108</td></tr><tr><td>Arabic No</td><td>5108</td></tr><tr><td>Reference</td><td>Book 67 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдиллах, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ запретил выдавать женщин замуж за тех, кто уже женат на их тётках по отцу или по матери»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5108</td></tr><tr><td>Arabic No</td><td>5108</td></tr><tr><td>Reference</td><td>Book 67 Hadith 46</td></tr></tbody></table></div>
 

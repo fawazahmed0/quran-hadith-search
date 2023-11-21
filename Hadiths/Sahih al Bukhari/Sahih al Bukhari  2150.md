@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Do not go forward to meet th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mencegat rombongan dagang (sebelum sampai di pasar) dan jangan pula sebagian kalian membeli barang yang dibeli orang lain (sedang ditawar) dan janganlah melebihkan harga tawaran barang (yang sedang ditawar orang lain, dengan maksud menipu pembeli) dan janganlah orang kota membeli buat orang desa. Janganlah kalian menahan susu dari unta dan kambing (yang kurus dengan maksud menipu calon pembeli). Maka siapa yang membelinya setelah itu maka dia punya hak pilih, bila dia rela maka diambilnya dan bila dia tidak suka dikembalikannya dengan menambah satu sha' kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2150</td></tr><tr><td>Arabic No</td><td>2150</td></tr><tr><td>Reference</td><td>Book 34 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не встречайте всадников, (чтобы перекупить у них их товар), и никто из вас не должен перебивать другому торговлю, и не поднимайте цену на товар, (который вы не хотите покупать), и пусть оседлый житель не продаёт за бедуина. И не оставляйте не доенными верблюдиц и овец. А кто купил такое животное, тому предоставляется выбор после того, как он подоит его. Если он доволен покупкой, он оставляет его себе, а если недоволен, он может вернуть его, а вместе с ним ещё са‘ фиников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2150</td></tr><tr><td>Arabic No</td><td>2150</td></tr><tr><td>Reference</td><td>Book 34 Hadith 102</td></tr></tbody></table></div>
 

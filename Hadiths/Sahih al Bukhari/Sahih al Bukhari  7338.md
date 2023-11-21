@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sa'ib bin Yazid:That he heard 'Uthman bin 'Affan delivering a sermon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7338</td></tr><tr><td>Arabic No</td><td>7338</td></tr><tr><td>Reference</td><td>Book 96 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ас-Саиб Ибн Язид передаёт, что он слышал, как ‘Усман Ибн ‘Аффан обратился к нам с проповедью, стоя на минбаре Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7338</td></tr><tr><td>Arabic No</td><td>7338</td></tr><tr><td>Reference</td><td>Book 96 Hadith 67</td></tr></tbody></table></div>
 

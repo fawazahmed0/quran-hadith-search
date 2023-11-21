@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ishaq] - [Zuhair] berkata- telah menceritakan kepada kami [Jarir] dari [Umarah] dari [Abu Zur'ah] dari [Abu Hurairah] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian melakukan puasa wishal." Mereka bertanya, "Bukankah Anda sendiri melakukan puasa wishal wahai Rasulullah?" Maka beliau menjawab: "Sesungguhnya kalian tidaklah sebagaimana aku, sesungguhnya ketika aku bermalam Rabb-ku memberiku makan dan minum. Karena itu, beribadahlah kalian sesuai dengan kemampuan kalian." Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Mughirah] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam semisalnya. Hanya saja, ia mengatakan; "FAKLAFUU MAA LAKUM BIHI THAAQAH (Lakukanlah amalan yang sesuai dengan kemampuan kalian)." Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau melarang puasa wishal, yakni sebagaimana hadits Umarah dari Abu Zur'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2567</td></tr><tr><td>Arabic No</td><td>1103.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2567</td></tr><tr><td>Arabic No</td><td>1103.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 73</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr: A man asked the Prophet, "What Islamic traits are t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] dia berkata; telah menceritakan kepadaku [Yazid] dari [Abu Al Khair] dari [Abdullah bin 'Amru] bahwa seorang laki-laki bertanya kepada Nabi shallallahu 'alaihi wasallam; "Islam bagaimanakah yang baik?" beliau menjawab: "Kamu memberi makan, menebarkan salam baik terhadap orang yang kamu kenal maupun terhadap orang yang tidak kamu kenal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6236</td></tr><tr><td>Arabic No</td><td>6236</td></tr><tr><td>Reference</td><td>Book 79 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах ими обоими, что (как-то) раз один человек спросил Пророка ﷺ: «Какое (проявление) ислама является наилучшим?» — (на что Посланник Аллаха ﷺ) ответил: «(Наилучшее состоит в том,) чтобы ты угощал (людей) и приветствовал тех, кого знаешь и кого не знаешь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6236</td></tr><tr><td>Arabic No</td><td>6236</td></tr><tr><td>Reference</td><td>Book 79 Hadith 10</td></tr></tbody></table></div>
 

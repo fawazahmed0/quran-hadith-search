@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: If anyone gives as a dower 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Jibrail Al Baghdadi], telah mengabarkan kepada kami [Yazid], telah mengabarkan kepada kami [Musa bin Muslim bin Ruman], dari [Abu Az Zubair] dari [Jabir bin Abdullah] bahwa Nabi shallallahu 'alaihi wasallam berkata: "Barangsiapa yang memberi mahar seorang wanita berupa gandum atau kurma sepenuh dua telapak tangannya, maka (pemberiannya) itu ia telah menghalalkannya (menjadi mahar bagi istrinya))." Abu Daud berkata; hadits tersebut diriwayatkan oleh [Abdurrahman bin Mahdi] dari [Shalih bin Ruman] dari [Abu Az Zubair] dari [Jabir] secara mauquf. Dan diriwayatkan oleh [Abu 'Ashim] dari [Shalih bin Ruman] dari [Abu Az Zubair] dari [Jabir], ia berkata; kami pada zaman Rasulullah shallallahu 'alaihi wasallam menikah mut'ah dengan memberikan mahar satu genggam makanan. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Ibnu Juraij] dari [Abu Az Zubair] dari [Jabir] seperti ma'na hadits Abu 'Ashim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2110</td></tr><tr><td>Arabic No</td><td>2110</td></tr><tr><td>Reference</td><td>Book 12 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Дар того, кто дал женщине в качестве брачного дара полную пригоршню савика или фиников, действителен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2110</td></tr><tr><td>Arabic No</td><td>2110</td></tr><tr><td>Reference</td><td>Book 12 Hadith 65</td></tr></tbody></table></div>
 

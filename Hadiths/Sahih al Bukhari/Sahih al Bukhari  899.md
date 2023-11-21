@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (p.b.u.h) said, "Allow women to go to the Mosques
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Syababah] telah menceritakan kepada kami [Warqa'] dari ['Amru bin Dinar] dari [Mujahid] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Izinkanlah para wanita (bila minta izin) pergi ke masjid di malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>899</td></tr><tr><td>Arabic No</td><td>899</td></tr><tr><td>Reference</td><td>Book 11 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, что Пророк ﷺ сказал: «Позволяйте женщинам посещать мечети ночью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>899</td></tr><tr><td>Arabic No</td><td>899</td></tr><tr><td>Reference</td><td>Book 11 Hadith 23</td></tr></tbody></table></div>
 

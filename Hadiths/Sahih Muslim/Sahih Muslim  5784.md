@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Abbâs (رضي الله عنهما), 'Omar Ibn Al-Khat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Aku membaca Hadits [Malik] dari [Ibnu Syihab] dari ['Abdullah bin 'Amir bin Rabi'ah] bahwa "Pada suatu ketika 'Umar bin Khaththab pergi ke Syam. Setelah sampai di Saragh, dia mendengar bahwa wabah penyakit sedang berjangkit di Syam. Maka 'Abdurrahman bin 'Auf mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Apabila kamu mendengar wabah berjangkit di suatu negeri, maka janganlah kamu datangi negeri itu. Dan apabila wabah itu berjangkit di negeri tempat kamu berada, janganlah kamu keluar dari negeri itu karena hendak melarikan diri darinya.' Maka Umar pun kembali dari Saragh. Dan dari [Ibnu Syihab] dari [Salim bin Abdullah]; bahwa Umar kembali bersama orang-orang setelah mendengar Hadits [Abdurrahman bin Auf]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5784</td></tr><tr><td>Arabic No</td><td>2219.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5784</td></tr><tr><td>Arabic No</td><td>2219.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 136</td></tr></tbody></table></div>
 

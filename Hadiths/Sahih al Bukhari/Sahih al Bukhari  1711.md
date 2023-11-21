@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar used to send his Hadi from Jam' (to Mina) in the last t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Anas bin 'Iyadh] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] bahwa [Ibnu'Umar radliallahu 'anhuma] mengirim hewan qurbannya dari Jama' pada akhir malam hingga dibawa masuk pada tempat penyembelihan hewan qurban Nabi Shallallahu'alaihiwasallam, bersama para jama'ah hajji yang terdiri dari orang-orang merdeka dan para budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1711</td></tr><tr><td>Arabic No</td><td>1711</td></tr><tr><td>Reference</td><td>Book 25 Hadith 189</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ рассказывал о том, что Ибн ‘Умар обычно посылал своего жертвенного животного из Муздалифы в последнюю треть ночи, вместе с паломниками, среди которых были свободные люди и рабы, чтобы они его доставили в место заклания животных Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1711</td></tr><tr><td>Arabic No</td><td>1711</td></tr><tr><td>Reference</td><td>Book 25 Hadith 189</td></tr></tbody></table></div>
 

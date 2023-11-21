@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hakim b. Hizam reported to 'Urwa b. Zubair that he said to the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Hasan al-Hulwani] dan [Abd bin Humaid], [al-Hulwani] berkata, telah menceritakan kepada kami, dan [Abd] berkata, telah menceritakan kepadaku [Ya'qub] -yaitu Ibnu Ibrahim bin Sa'ad- telah menceritakan kepada kami [bapakku] dari [Shalih] dari [Ibnu Syihab] dia berkata, telah mengabarkan kepadaku [Urwah bin az-Zubair] bahwa [Hakim bin Hizam] telah mengabarkan kepadanya, bahwa dia berkata kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai Rasulullah, apa pendapatmu tentang beberapa perkara, berupa sedekah, atau pembebasan budak, atau silaturrahim, yang pernah aku lakukan zaman Jahiliyah dulu? Apakah aku mendapatkan pahala padanya?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Kamu masuk Islam dengan kebaikan yang kamu lakukan dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>324</td></tr><tr><td>Arabic No</td><td>123.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Урва ибн аз-Зубайр передал, что Хаким ибн Хизам сообщил ему, что (когда-то) он спросил Посланника Аллаха ﷺ: «О Посланник Аллаха, скажи, полагается ли мне награда за милостыню, освобождение рабов, поддержание родственных связей и (другие) дела поклонения, которые я совершал во времена джахилиййи?» (В ответ ему) Посланник Аллаха ﷺ сказал: «Ты принял ислам вместе со (всеми) благими делами, (которые совершал) прежде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>324</td></tr><tr><td>Arabic No</td><td>123.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 231</td></tr></tbody></table></div>
 

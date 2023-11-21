@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet(ﷺ) as saying :There is no loss in salutation
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah mengabarkan kepada kami [Mu'awiyah bin Hisyam] dari [Sufyan] dari [Abu Malik] dari [Abu Hazim] dari [Abu Hurairah] dia berkata; -sepertinya Sufyan merafa'kan hadits ini kepada Nabi- beliau bersabda: "Tidak boleh ada ghirar (pengurangan) dalam hal salam, maupun shalat." Abu Daud mengatakan; "Hadits ini di riwayatkan pula oleh [Ibnu Fudlail] dengan lafadz Ibnu Mahdi, namun dia tidak merafa'kan kepada Nabi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>929</td></tr><tr><td>Arabic No</td><td>929</td></tr><tr><td>Reference</td><td>Book 2 Hadith 540</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не должно быть недостатка (гырар) ни в приветствии, ни в молитве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>929</td></tr><tr><td>Arabic No</td><td>929</td></tr><tr><td>Reference</td><td>Book 2 Hadith 540</td></tr></tbody></table></div>
 

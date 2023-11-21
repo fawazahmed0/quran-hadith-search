@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mahmud bin Ar-Rabi'a:I remember that the Allah's Messenger (ﷺ) took w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6422</td></tr><tr><td>Arabic No</td><td>6422</td></tr><tr><td>Reference</td><td>Book 81 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказывал Махмуд ибн ар-Раби‘а: и Махмуд утверждал, что он запомнил от Посланника Аллаха ﷺ и сказал: «Он запомнил то, как брызнул (Пророк ﷺ, взяв ртом воду) из ведра, которое было в их доме»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6422</td></tr><tr><td>Arabic No</td><td>6422</td></tr><tr><td>Reference</td><td>Book 81 Hadith 11</td></tr></tbody></table></div>
 

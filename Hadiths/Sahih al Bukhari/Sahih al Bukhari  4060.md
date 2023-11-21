@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'tamir's father:'Uthman said that on the day of the battle of Uhud, n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] dari [Mu'tamir] dari [Ayahnya] dua berkata, [Abu Utsman] meyakini bahwa tidak ada yang tetap bersama Nabi shallallahu 'alaihi wasallam pada sebagian hari-hari dimana Rasulullah shallallahu 'alaihi wasallam berperang didalamya (perang Uhud) kecuali [Thalhah] dan [Sa'ad] ". Cerita ini diperoleh dari keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4060</td></tr><tr><td>Arabic No</td><td>4060</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ‘Усман сказал: «В один из тех дней, когда Пророк ﷺ сражался, не осталось с ним никого, кроме Тальхи и Са‘да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4060</td></tr><tr><td>Arabic No</td><td>4060</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

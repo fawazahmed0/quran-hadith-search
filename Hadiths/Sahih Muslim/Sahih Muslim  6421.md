@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou 'Usayd (que Dieu l'agrée), L'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan lafazh ini milik Ibnu Al Mutsanna dia berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] Aku mendengar [Qatadah] bercerita dari [Anas bin Malik] dari [Abu Usaid] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik kabilah Anshar adalah Bani Najjar, kemudian Bani Abdul Asyhal, kemudian Bani Harits bin Khazraj, kemudian Bani Saidah dan setiap kabilah Anshar mempunyai kebaikan." Lalu 'Sa'ad berkata; 'Tidaklah aku melihat Rasulullah shallallahu 'alaihi wasallam, selain beliau telah mengutamakan kabilah kita.' Lalu di katakan kepadanya; 'Bahkan beliau mengutamakan kalian lebih banyak lagi.' Telah menceritakannya kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Abu Dawud]; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] Aku mendengar [Anas] bercerita dari [Abu Usaid Al Anshari] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa. Telah menceritakan kepada kami [Qutaibah] dan [Ibnu Rumh] dari [Al Laits bin Sa'ad]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Qutaibah]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Muhammad; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Abu 'Umar] keduanya berkata; Telah menceritakan kepada kami ['Abdul Wahhab Ats Tsaqafi] seluruhnya dari [Yahya bin Sa'id] dari [Anas] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa. Namun dia di dalam Haditsnya dia tidak menyebutkan perkataan Sa'ad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6421</td></tr><tr><td>Arabic No</td><td>2511.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6421</td></tr><tr><td>Arabic No</td><td>2511.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 250</td></tr></tbody></table></div>
 

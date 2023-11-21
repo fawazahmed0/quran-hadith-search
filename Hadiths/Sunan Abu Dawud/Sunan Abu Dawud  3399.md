@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbuJa'far al-Khatmi said:My uncle sent me and his slave to Sa'id ibn al-Musayyab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepada kami [Yahya], telah menceritakan kepada kami [Abu Ja'far Al Khathmi], ia berkata; pamanku mengutusku dan budaknya kepada [Sa'id bin Al Muasayyab], ia berkata; kemudian kami mengatakan kepadanya; apakah ada sesuatu yang telah sampai kepadamu mengenai muzara'ah. Ia berkata; dahulu Ibnu Umar melihatnya sebagai sesuatu yang diperbolehkan hingga sampai kepadanya hadits dari [Rafi' bin Khadij], kemudian ia datang kepadanya, lalu Rafi' mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam telah datang kepada Bani Haritsah lalu beliau melihat tanaman di tanah Zhuhair. Kemudian beliau berkata; betapa indah tanaman Zhuhair. Orang-orang berkata; itu bukan milik Zhuhair. Beliau berkata; bukankah itu adalah tanah milik Zhuhair? Mereka berkata; benar, akan tetapi tanamannya adalah tanaman Fulan. Beliau berkata: "Ambillah tanaman kalian dan kembalikan pembiayaannya kepadanya." Rafi' berkata; kemudian kami mengambil tanaman kami dan kami mengembalikan pembiayaan kepadanya. Sa'id berkata; "Berikan kepada saudaramu atau sewakan dengan upah beberapa dirham
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3399</td></tr><tr><td>Arabic No</td><td>3399</td></tr><tr><td>Reference</td><td>Book 23 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Джа‘фар аль-Хатми сказал: Мой дядя со стороны отца послал меня и своего слугу к Саиду ибн аль-Мусайябу, и мы сказали: «Нам передавали от тебя кое-что насчёт издольщины». Он ответил: «Ибн ‘Умар не видел в ней ничего запретного, пока ему не передали один хадис от Рафи‘ ибн Хадиджа. Тогда он отправился к Рафи‘, и Рафи‘ сообщил ему, что однажды Посланник Аллаха ﷺ пришёл к бану хариса и увидел посевы, которые были на земле Зухайра, и сказал: “Какие замечательные посевы у Зухайра!” Люди сказали: “Это не посевы Зухайра”. Посланник Аллаха ﷺ спросил: “Разве это не земля Зухайра?” Люди ответили: “Да, это так, но эти посевы принадлежат такому-то”. Посланник Аллаха ﷺ сказал: “Заберите ваши посевы и верните [посеявшему их потраченные им] деньги”. Рафи‘ сказал: “И мы забрали посевы и вернули ему деньги”». Са‘ид ибн аль-Мусайяб говорил: «Отдавай своему брату землю в пользование или дай ему возделывать её за дирхемы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3399</td></tr><tr><td>Arabic No</td><td>3399</td></tr><tr><td>Reference</td><td>Book 23 Hadith 74</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Prophet (ﷺ), was asked about water (in desert 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala] dan [Utsman bin Abi Syaibah] dan [Al Hasan bin Ali] dan yang lainnya, mereka berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Al Walid bin Katsir] dari [Muhammad bin Ja'far bin Az Zubair] dari [Abdullah bin Abdullah bin Umar] dari [Ayahnya], dia berkata; Rasulullah shallallahu 'alaihi wasallam ditanya tentang air dan (lokasi) air yang selalu didatangi binatang melata dan binatang buas, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila air itu dua qullah, maka ia tidak najis." Abu Dawud berkata; Ini adalah lafazh Ibnu Al 'Ala (yakni, di dalam sanadnya terdapat rawi bernama Muhammad bin Ja'far bin Az Zubair). Sedangkan [Utsman] dan [Al Hasan bin Ali] menyebutkan dari [Muhammad bin 'Abbad bin Ja'far] (sebagai ganti Muhammad bin Ja'far bin Az Zubair). Abu Dawud berkata; Itulah yang benar. Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad], dan menurut jalur yang lain; telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Yazid, yakni Ibnu Zurai'] dari [Muhammad bin Ishaq] dari [Muhammad bin Ja'far]. Abu Kamil Ibnu Az Zubair berkata; dari [Ubaidillah bin Abdullah bin Umar] dari [Ayahnya] bahwasanya Rasulullah shallallahu 'alaihi wasallam ditanya tentang air di tanah lapang, lalu dia menyebutkan hadits yang semakna dengan yang pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Arabic No</td><td>63</td></tr><tr><td>Reference</td><td>Book 1 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что‘Абдуллах ибн ‘Абдуллах ибн ‘Умар передал со слов своего отца о том, что однажды Посланника Аллаха ﷺ спросили о воде и о хищниках и других животных, которые посещают её и он ﷺ ответил: «Если объем воды достигает двух кувшинов, то она не оскверняется»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Arabic No</td><td>63</td></tr><tr><td>Reference</td><td>Book 1 Hadith 63</td></tr></tbody></table></div>
 

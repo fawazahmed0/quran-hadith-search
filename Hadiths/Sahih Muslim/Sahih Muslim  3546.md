@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah be pleased with him) reported:We took women captives,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad bin Asma' Ad Dluba'i] telah menceritakan kepada kami [Juwairiyah] dari [Malik] dari [Az Zuhri] dari [Ibnu Muhairiz] dari [Abu Sa'id Al Khudri] bahwa dia telah mengabarkan kepadanya, dia berkata; Kami mendapatkan tawanan wanita, dan kami hendak menyetubuhinya dengan cara 'azl, lalu kami tanyakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, beliau pun bersabda kepada kami: "Apakah kalian benar-benar melakukannya? Apakah kalian benar-benar melakukannya? Apakah kalian benar-benar melakukannya? Tidaklah ruh yang tercipta sampai Hari Kiamat, melainkan ia akan tetap tercipta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3546</td></tr><tr><td>Arabic No</td><td>1438.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3546</td></tr><tr><td>Arabic No</td><td>1438.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 148</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It Is narrated on the authority of Abu Malik:I heard the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Suwaid bin Sa'id] dan [Ibnu Abu Umar] keduanya berkata, telah menceritakan kepada kami [Marwan] keduanya memaksudkan Marwan al-Fazari, dari [Abu Malik] dari [bapaknya] dia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang mengucapkan tidak ada tuhan (yang berhak disembah) melainkan Allah, dan mengkufuri sesuatu yang disembah selain Allah, maka telah haram harta dan darahnya, dan pahalanya di sisi Allah." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Khalid al-Ahmar]. (dalam riwayat lain disebutkan) Dan telah mengabarkan kepadaku tentangnya [Zuhair bin Harb] telah menceritakan kepada kami [Yazid bin Harun] keduanya dari [Abu Malik] dari [bapaknya] bahwasanya dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang mentauhidkan Allah, " kemudian menyebutkan semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>130</td></tr><tr><td>Arabic No</td><td>23.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Малик со слов своего отца рассказывал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Имущество и кровь того, кто скажет: “Нет бога, достойного поклонения, кроме Аллаха /Ля иляха илля-Ллах/” и проявит неверие во все, чему поклоняются помимо Аллаха, будет запретным, и тогда (лишь) Аллах (сможет потребовать) от них отчёта”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>130</td></tr><tr><td>Arabic No</td><td>23.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 37</td></tr></tbody></table></div>
 

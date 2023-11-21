@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail: Abdullah (bin Mas'ud) said, "Whoever took a false oath in ord
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] berkata, ['Abdullah radliallahu 'anhu] berkata: "Siapa yang bersumpah yang dengan sumpahnya itu dia bermaksud mengambil harta orang maka dia seorang durhaka yang akan berjumpa dengan Allah dimana Allah murka kepadanya". Maka Allah menurunkan ayatnya sebagai pembenaran QS Alu 'Imran ayat 77 yang artinya ("Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit…lalu dia membaca hingga ayat berbunyi …siksa yang pedih"). Kemudian bahwa [Al Asyats bin Qais] keluar bersama kami lalu berkata: "Apa yang dibicarakan dengan kalian oleh Abu 'Abdurrahman?". Dia berkata: "Maka kami ceritakan kepadanya". Maka dia berkata: "Dia benar. Sungguh demi Allah, ayat itu turun berkenaan antara aku dengan sesoerang yang sedang berselisih tentang sumur lalu kami mengadukannya kepada Rasulullah shallallahu 'alaihi wasallam maka Rasulullah shallallahu 'alaihi wasallam berkata: "Kamu hadirkan dua saksi atau bersumpah?". Aku katakan: "Biarlah dia bersumpah dan aku tidak peduli". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang bersumpah yang dengan sumpahnya itu dia bermaksud mengambil harta orang maka dia telah berbuat kedurhakaan dan akan berjumpa dengan Allah dimana Allah murka kepadanya". Maka turunlah firman Allah sebagai pembenaran atas kejadian itu kemudian bacalah ayat ini: ("Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit… hingga ayat…siksa yang pedih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2516</td></tr><tr><td>Arabic No</td><td>2516</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «Кто принёс ложную клятву (Аллахом), чтобы таким образом присвоить имущество, тот встретит Аллаха разгневанным на него», — после этого в подтверждение этих слов Аллах ниспослал аят, (в котором сказано): «Поистине, для тех, которые продают завет с Аллахом и свои клятвы задёшево, нет доли в последней жизни. Аллах не будет говорить с ними, не посмотрит на них в день воскресения и не очистит их. Им уготованы мучительные страдания» (сура «Али ‘Имран», аят 77). Затем вышел к нам Аль-Аш‘ас ибн Кайс, да будет доволен им Аллах, и сказал: «Что рассказал вам Абу ‘Абдуррахман?», — и мы рассказали ему о том, (что сказал ‘Абдуллах ибн Мас‘уд). И он сказал: «Он сказал правду. (Клянусь Аллахом, я стал причиной ниспослания аята (на эту тему). Мы с одним человеком вели тяжбу из-за колодца. Мы обратились к Посланнику Аллаха ﷺ и Посланник Аллаха ﷺ сказал: “(Приведи) двух свидетелей или пусть он поклянётся”. Я возразил: “Но ведь он не задумываясь сейчас поклянётся”. И Посланник Аллаха ﷺ сказал: “Кто принёс ложную клятву (Аллахом), чтобы таким образом присвоить имущество, тот встретит Всемогущего и Великого Аллаха разгневанным на него”, — и в подтверждение этих слов Аллах ниспослал (аят в Коране), после чего он прочитал этот аят: “Поистине, для тех, которые продают завет с Аллахом и свои клятвы задёшево, нет доли в последней жизни. Аллах не будет говорить с ними, не посмотрит на них в день воскресения и не очистит их. Им уготованы мучительные страдания” (сура «Али ‘Имран», аят 77)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2516</td></tr><tr><td>Arabic No</td><td>2516</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

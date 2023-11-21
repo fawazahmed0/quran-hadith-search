@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Barâ' (que Dieu l'agrée) a dit : "Le Prophète (paix et bénédiction de Di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dia berkata; Aku mendengar [Abu Ishaq] berkata; Aku mendengar [Al Barra'] dia berkata; "Rasulullah shallallahu 'alaihi wasallam itu berperawakan sedang, perpundak bidang, rambutnya lebat terurai ke bahu hingga sampai kedua cuping telinganya. Pada suatu ketika, beliau pernah mengenakan pakaian berwarna merah, tidak ada seorangpun yang lebih tampan dari beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6064</td></tr><tr><td>Arabic No</td><td>2337.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6064</td></tr><tr><td>Arabic No</td><td>2337.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 122</td></tr></tbody></table></div>
 

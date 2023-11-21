@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported:The Messenger of Allah (ﷺ) was standing amongst us and (he s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] dia berkata, telah menceritakan kepada kami [Syu'bah] dari [Amru bin Murrah] dari [Abu Ubaidah] dari [Abu Musa] dia berkata, "Rasulullah berdiri (berkhutbah) di antara kami (untuk mengingatkan) empat hal: sesungguhnya Allah tidak tidur, dan tidak layak bagi-Nya untuk tidur. Dia mengangkat dan menurunkan timbangan mizan, dan amal manusia pada siang hari diangkat kepada-Nya pada malam hari, dan amal manusia pada malam hari diangkat kepadanya pada siang hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>447</td></tr><tr><td>Arabic No</td><td>179.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 352</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Муса сказал: «(Однажды) Посланник Аллаха ﷺ, находившийся среди нас, встал и (поведал нам о) четырёх (вещах). Он сказал: “Поистине, Аллах не спит, и не подобает Ему спать; Он уменьшает и увеличивает удел /кыст/ (Своих рабов); дела дня представляют Ему ночью, а дела ночи днём”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>447</td></tr><tr><td>Arabic No</td><td>179.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 352</td></tr></tbody></table></div>
 

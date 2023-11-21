@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "Whoever prays like us and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Abbas] berkata, telah menceritakan kepada kami [Ibnu Al Mahdi] berkata, telah menceritakan kepada kami [Manshur bin Sa'd] dari [Maimun bin Siyah] dari [Anas bin Malik] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa shalat seperti shalat kita, menghadap ke arah kiblat kita dan memakan sembilan kita, maka dia adalah seorang Muslim, ia memiliki perlindungan dari Allah dan Rasul-Nya. Maka janganlah kalian mendurhakai Allah dengan mencederai perlindungan-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>391</td></tr><tr><td>Arabic No</td><td>391</td></tr><tr><td>Reference</td><td>Book 8 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Тот, кто совершает молитву так же, как и мы, и обращается к нашей кибле, и ест то, что мы приносим в жертву, является мусульманином, который находится под защитой Аллаха и под защитой Его посланника. Не предавайте же Аллаха, (предавая тех, кто находится) под Его защитой!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>391</td></tr><tr><td>Arabic No</td><td>391</td></tr><tr><td>Reference</td><td>Book 8 Hadith 43</td></tr></tbody></table></div>
 

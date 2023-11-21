@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain (Allah be pleased with him) reported:We performed Tamattu' (Hajj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Abdush Shamad] Telah menceritakan kepada kami [Hammam] Telah menceritakan kepada kami [Qatadah] dari [Mutharrif] dari [Imran bin Hushain] radliallahu 'anhu, ia berkata; "Kami mengerjakan haji tamattu' bersama Rasulullah shallallahu 'alaihi wasallam, dan tidak ada ayat Al Qur'an yang turun (melarangnya). Namun seorang laki-laki telah berkata dengan akalnya sendiri dan semuanya." Dan telah menceritakan kepadaku [Hajjaj bin Sya'ir] Telah menceritakan kepada kami [Ubaidullah bin Abdul Majid] Telah menceritakan kepada kami [Isma'il bin Muslim] telah menceritakan kepadaku [Muhammad bin Wasi'] dari [Mutharrif bin Abdullah Asy Syikhkhir] dari [Imran bin Hushain] radliallahu 'anhu dengan isnad ini, ia berkata; Nabi shallallahu 'alaihi wasallam mengerjakan haji tamattu', maka kami pun ikut mengerjakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2979</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2979</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

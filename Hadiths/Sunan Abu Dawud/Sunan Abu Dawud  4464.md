@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: If anyone has sexual interc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] berkata, telah menceritakan kepada kami [Abdul Aziz bin Muhammad] berkata, telah menceritakan kepadaku [Amru bin Abu Amru] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mensetubuhi binatang maka bunuhlah ia beserta binatang tersebut." Ibnu Abbas berkata, "Aku lantas bertanya kepada Rasulullah, "Apa salah binatang tersebut?" Ibnu abbas berkata, "Aku tidak melihat beliau mengatakan begitu kecuali karena sebab, bahwa beliau tidak suka jika binatang yang telah disetubuhi itu dimakan dagingnya." Abu Dawud berkata, "Namun derajat hadits ini tidak kuat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4464</td></tr><tr><td>Arabic No</td><td>4464</td></tr><tr><td>Reference</td><td>Book 40 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Если кто-то занимается скотоложством, убейте и его, и животное, с которым он это делает». ‘Икрима спросил: «А почему следует убить и животное?» Он ответил: «Я думаю, что (Посланник Аллаха ﷺ) не желал, чтобы мясо такого животного употреблялось в пищу после того, что с ним делали»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4464</td></tr><tr><td>Arabic No</td><td>4464</td></tr><tr><td>Reference</td><td>Book 40 Hadith 114</td></tr></tbody></table></div>
 

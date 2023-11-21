@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: "Allah's Messenger (ﷺ) said, "By Him in Whose Hands my l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] berkata, telah menceritakan kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Maka demi Zat yang jiwaku di tangan-Nya, tidaklah beriman seorang dari kalian hingga aku lebih dicintainya daripada orang tuanya dan anaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>14</td></tr><tr><td>Arabic No</td><td>14</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Клянусь Тем, в Чьей длани душа моя, не уверует никто из вас, пока не станет любить меня больше, чем любит своего отца и своих детей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>14</td></tr><tr><td>Arabic No</td><td>14</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
 

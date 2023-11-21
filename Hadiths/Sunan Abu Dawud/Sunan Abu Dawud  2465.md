@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Umar said:The Prophet (ﷺ) used to observe I'tikaf during the last ten day
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah mengabarkan kepada kami [Ibnu Wahb], dari [Yunus], bahwa [Nafi'] telah mengabarkan kepadanya dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam beri'tikaf sepuluh hari terakhir Bulan Ramadhan. Nafi' berkata; Abdullah telah memperlihatkan kepadaku tempat yang digunakan Rasulullah shallallahu 'alaihi wasallam untuk beri'tikaf di Masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2025) Sahih Muslim (1171)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2465</td></tr><tr><td>Arabic No</td><td>2465</td></tr><tr><td>Reference</td><td>Book 14 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ совершал и‘тикаф в последнюю декаду рамадана. Нафи‘ рассказывал: «‘Абдуллах показывал мне место в мечети, в котором совершал и‘тикаф Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2025) Sahih Muslim (1171)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2465</td></tr><tr><td>Arabic No</td><td>2465</td></tr><tr><td>Reference</td><td>Book 14 Hadith 153</td></tr></tbody></table></div>
 

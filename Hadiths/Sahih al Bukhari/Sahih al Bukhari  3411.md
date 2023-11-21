@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:Allah's Messenger (ﷺ) said, "Many amongst men reached (the l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Ja'far] telah bercerita kepada kami [Waki'] dari [Syu'bah] dari ['Amru bin Murrah] dari [Murrah Al Hamdaniy] dari [Abu Musa radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia yang sempurna dari kalangan laki-laki banyak dan tidak ada manusia yang sempurna dari kalangan wanita kecuali Asiyah, istrinya Fir'aun dan Maryam binti 'Imran. Dan keistimewaan 'Aisyah radliallahu 'anhu dibandingkan wanita-wanita lain adalah bagaikan keistimewaan makanan "tsarid" terhadap makanan yang lain". (Tsarid adalah sejenis makanan yang terbuat dari daging dan roti yang dibuat bubur dan berkuah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3411</td></tr><tr><td>Arabic No</td><td>3411</td></tr><tr><td>Reference</td><td>Book 60 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса (аль-Аш‘ари), да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Многие из мужчин отличались совершенством, а среди женщин никто не достиг его, кроме Асийи, жены фараона, и Марйам, дочери ‘Имрана. (Что же касается) превосходства ‘Аиши над (другими) женщинами, то, поистине, оно подобно превосходству сарида над прочими (видами) еды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3411</td></tr><tr><td>Arabic No</td><td>3411</td></tr><tr><td>Reference</td><td>Book 60 Hadith 84</td></tr></tbody></table></div>
 

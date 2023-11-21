@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar, 'Aïcha voulut acheter une esclave pour l'affranchir. Les ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Nafi'] dari [Ibnu Umar] dari ['Aisyah] bahwa dia ingin membeli seorang budak perempuan yang akan dibebaskan, maka pemiliknya berkata; "Kami akan menjual budak ini kepadamu dengan syarat perwaliannya untuk kami." Maka Aisyah memberitahukan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, lantas beliau bersabda: "Janganlah hal itu menghalangi kamu (untuk membelinya) karena perwalian itu untuk orang yang membebaskan budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3776</td></tr><tr><td>Arabic No</td><td>1504.01</td></tr><tr><td>Reference</td><td>Book 20 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3776</td></tr><tr><td>Arabic No</td><td>1504.01</td></tr><tr><td>Reference</td><td>Book 20 Hadith 7</td></tr></tbody></table></div>
 

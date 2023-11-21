@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:Make haste at a funeral; if
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] semuanya dari [Ibnu Uyainah] - [Abu Bakr] berkata- telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Segerakanlah penguburan jenazah, karena jika ia adalah seorang yang shalih (mungkin ia akan berkata) segeralah mengantarkannya pada kebaikan. Tetapi, jika ia tidak termasuk orang yang shalih, maka berarti kalian mempercepat meletakkan keburukan dari pundak-pundak kalian." Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abdu bin Humaid] semuanya dari [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] -dalam jalur lain- Dan telah menceritakan kepada kami [Yahya bin Habib] telah menceritakan kepada kami [Rauh bin Ubadah] Telah menceritakan kepada kami [Muhammad bin Abu Hafshah] keduanya dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam. Hanya saja di dalam hadits Ma'mar ia mengatakan; Saya tidak mengetahuinya, kecuali ia telah memarfu'kan hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2186</td></tr><tr><td>Arabic No</td><td>944.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «(Несите) погребальные носилки быстро, ибо если (покойный) был праведным, вы (несёте) его к благу, если же он таковым не был, вы (сможете быстрее) убрать нечто дурное со своих шей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2186</td></tr><tr><td>Arabic No</td><td>944.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 64</td></tr></tbody></table></div>
 

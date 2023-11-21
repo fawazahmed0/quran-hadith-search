@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : L'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Zakariya' bin Ishaq] telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir bin Abdillah], dia berkata; Suatu ketika Abu Bakar pernah meminta izin kepada Rasulullah shallallahu 'alaihi wasallam untuk memasuki rumah beliau dan dia mendapati beberapa orang sedang duduk di depan pintu rumah beliau dan tidak satu pun dari mereka yang diizinkan masuk. Dia berkata: Lalu Abu Bakar pun diizinkan masuk, maka dia pun masuk ke rumah beliau. Setelah itu Umar datang dan meminta izin, dan dia pun diizinkan masuk. Di dalam rumah Umar mendapati Nabi shallallahu 'alaihi wasallam sedang duduk, dan di sekeliling beliau nampak isteri-isteri beliau sedang terdiam dan bersedih. Ia berkata: Lalu Umar berkata; Sungguh saya akan mengucapkan satu perkataan yang dapat membuat Nabi shallallahu 'alaihi wasallam tertawa. Dia berkata: Wahai Rasulullah, jika engkau melihat anak perempuan Khorijah meminta nafkah (berlebihan) kepadaku niscaya akan saya hadapi dia dan saya pukul tengkuknya. Maka Rasulullah shallallahu 'alaihi wasallam pun tertawa seraya berkata: Mereka semua ada di sekelilingku, seperti yang kau lihat mereka semua sedang meminta nafkah (lebih) dariku. Maka Abu Bakar pun segera berdiri menghampiri 'Aisyah dan memukulnya. Demikian juga dengan Umar, dia berdiri menghampiri Hafshah dan memukulnya. Lantas keduanya berkata: Mengapa kalian meminta kepada Rasulullah shallallahu 'alaihi wasallam sesuatu yang tidak dimilikinya? Lalu keduanya menjawab: Demi Allah, kami tidak akan meminta kepada Rasulullah shallallahu 'alaihi wasallam sesuatu yang tidak dimilikinya. Lalu beliau ber'uzlah dari mereka selama sebulan atau selama dua puluh sembilan hari. Kemudian turunlah ayat: "Wahai Nabi, katakanlah kepada isteri-isterimu, -sampai Firman-Nya- Bagi orang-orang yang baik di antara kalian pahala yang besar". Dia berkata: Beliau memulainya dari 'Aisyah, beliau berkata kepadanya: "Wahai 'Aisyah, sesungguhnya saya hendak menawarkan suatu perkara kepadamu, dan saya harap kamu tidak tergesa-gesa dalam memutuskannya hingga kamu meminta persetujuan dari kedua orang tuamu." Aisyah berkata: Apa itu wahai Rasulullah? Maka beliau pun membacakan ayat tersebut di atas kepadanya. Aisyah berkata: Apakah terhadap anda, saya mesti meminta persetujuan kepada orang tuaku?! Tidak, bahkan saya lebih memilih Allah, Rasul-Nya dan Hari Akhir, dan saya mohon kepada anda untuk tidak memberitahukan pernyataanku ini kepada isteri-isterimu yang lain. Beliau menjawab: "Tidaklah salah seorang di antara mereka meminta hal itu kepadaku kecuali saya pasti memberitahukan hal ini kepadanya. Sesungguhnya Allah Ta'ala tidak mengutusku untuk memaksa orang atau menjerumuskannya, akan tetapi Dia mengutusku sebagai seorang pengajar dan orang memudahkan urusan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3690</td></tr><tr><td>Arabic No</td><td>1478</td></tr><tr><td>Reference</td><td>Book 18 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3690</td></tr><tr><td>Arabic No</td><td>1478</td></tr><tr><td>Reference</td><td>Book 18 Hadith 39</td></tr></tbody></table></div>
 

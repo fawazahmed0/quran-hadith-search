@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar told us that the people used to buy food from the carav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Abu Dhamrah] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] telah menceritakan kepada kami [Ibnu 'Umar radliallahu 'anhuma], sudah menjadi kebiasaan di zaman Nabi shallallahu 'alaihi wasallam mereka membeli makanan dari hewan-hewan pengangkut dagangan, kemudian datanglah kepada mereka seseorang yang melarang mereka menjual dangannya di tempat mereka membeli, hingga mereka pindahkan ditempat makanan biasa dijual. Berkata Nafi': dan telah menceritakan kepada kami Ibnu 'Umar radliallahu 'anhuma yang berkata: Nabi shallallahu 'alaihi wasallam melarang seseorang menjual makanan yang sudah dibeli hingga telah menjadi haknya secara sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2123</td></tr><tr><td>Arabic No</td><td>2123</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что при жизни Пророка ﷺ люди обычно покупали продукты (у тех, кто доставлял их в Медину) караванами, что же касается Пророка ﷺ, то он посылал к ним тех, кто не давал (перекупщикам) продавать купленное там же, где они его купили(, заставляя их ждать), пока (караванщики) не доставят (свой товар на тот рынок), где торговали съестным
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2123</td></tr><tr><td>Arabic No</td><td>2123</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) The wife of Rifa'a Al-Qurazi came to A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwa [Aisyah] radliallahu 'anha isteri Nabi shallallahu 'alaihi wasallam berkata; "Telah datang isteri Rifa'ah Al Qurazhi kepada Nabi shallallahu 'alaihi wasallam, sementara diriku sedang duduk dan Abu Bakr ada di sisi beliau. Isteri Rifa'ah berkata; "Wahai Rasulullah, sesungguhnya saya dahulu dibawah naungan Rifa'ah Al Qurazhi, kemudian ia menceraiku sama sekali (talak tiga). Kemudian saya menikah dengan Abdur Rahman bin Az Zubair, dan demi Allah wahai Rasulullah, tidaklah aku bersamanya melainkan ia tidak memiliki kemampuan kecuali seperti ujung pakaian ini." -seraya mengambil ujung jilbabnya, - sementara Khalid bin Sa'id ada di depan pintu, belum di izinkan masuk oleh beliau, Aisyah melanjutkan; "Lantas Khalid berkata; "Wahai Abu Bakr, tidakkah engkau menahan wanita ini berkata keji dengan apa yang ia katakan di sisi Rasulullah shallallahu 'alaihi wasallam?" dan Rasulullah shallallahu 'alaihi wasallam hanya tersenyum mendengarnya, kemudian beliau bersabda: "Sepertinya dirimu ingin kembali kepada Rifa'ah, Tidak, hingga kamu merasakan kenikmatannya dan ia merasakan kenikmatanmu." Maka hal itu menjadi ajaran beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5792</td></tr><tr><td>Arabic No</td><td>5792</td></tr><tr><td>Reference</td><td>Book 77 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, жена Пророка ﷺ, сказала: «Однажды, когда я была с Абу Бакром у Посланника Аллаха ﷺ, к нему пришла жена Рифа‘а аль-Куразы и сказала (ему): “О Посланник Аллаха, я была женой Рифа‘а, но он дал мне окончательный (безвозвратный) развод, и после этого я вышла замуж за ‘Абдуррахмана ибн аз-Зубайра, но клянусь Аллахом, о Посланник Аллаха, то, что у него подобно бахроме одежды (он бессилен)…”, — сказав это, она взяла край своего покрывала /джильбаб/. Услышав её, Халид ибн Са‘ид, который стоял у двери, ожидая разрешения войти, воскликнул: “О Абу Бакр! Разве ты не запретишь ей говорить то, что она открыто говорит при Посланнике Аллаха ﷺ?!” А Посланник Аллаха ﷺ только улыбнулся. Посланник Аллаха ﷺ сказал ей: “Может быть, ты хочешь вернуться к Рифа‘а? Нет, (ты не можешь сделать этого,) пока ты не вкусишь сладость (нового мужа) и пока он не вкусит твою сладость”. Таким образом это было узаконено»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5792</td></tr><tr><td>Arabic No</td><td>5792</td></tr><tr><td>Reference</td><td>Book 77 Hadith 10</td></tr></tbody></table></div>
 

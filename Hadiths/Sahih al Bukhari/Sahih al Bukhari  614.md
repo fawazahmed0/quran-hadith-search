@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said, "Whoever after listen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Ayyasy] berkata, telah menceritakan kepada kami [Syu'aib bin Abu Hamzah] dari [Muhammad Al Munkadir] dari [Jabir bin 'Abdullah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berdo'a setelah mendengar adzan: ALLAHUMMA RABBA HAADZIHID DA'WATIT TAMMAH WASHSHALAATIL QAA'IMAH. AATI MUHAMMADANIL WASIILATA WALFADLIILAH WAB'ATSHU MAQAAMAM MAHMUUDANIL LADZII WA'ADTAH (Ya Allah. Rabb Pemilik seruan yang sempurna ini, dan Pemilik shalat yang akan didirikan ini, berikanlah wasilah (perantara) dan keutamaan kepada Muhammad. Bangkitkanlah ia pada kedudukan yang terpuji sebagaimana Engkau telah jannjikan) '. Maka ia berhak mendapatkan syafa'atku pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>614</td></tr><tr><td>Arabic No</td><td>614</td></tr><tr><td>Reference</td><td>Book 10 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Абдуллах, да будет доволен Аллах ими обоими, о том, что Посланник Аллаха ﷺ сказал: «В День воскрешения право на моё заступничество получит тот, кто, выслушав слова азана, будет говорить: “О Аллах, Господь этого совершенного призыва и этой совершаемой молитвы, приведи Мухаммада к Василе и высокому положению и направь его к месту достохвальному, которое Ты обещал ему!\n/Аллахумма, Рабба хазихи-д-да‘вати-т-таммати ва-с-саляти-ль-къаимати, ати Мухаммадан аль-Василята ва-ль-фадылята ва-б‘асху макъаман махмудан аллязи ва‘адтаху!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>614</td></tr><tr><td>Arabic No</td><td>614</td></tr><tr><td>Reference</td><td>Book 10 Hadith 12</td></tr></tbody></table></div>
 

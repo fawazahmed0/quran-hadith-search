@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to like to start from the right side as f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari [Asy'ats bin Sulaim] dari [Ayahnya] dari [Masruq] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam bahwa beliau menyukai tayamun (mendahulukan yang kanan) ketika menyisir rambut dan berwudlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5926</td></tr><tr><td>Arabic No</td><td>5926</td></tr><tr><td>Reference</td><td>Book 77 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророку ﷺ нравилось начинать с правой стороны по мере возможности, (когда) он причёсывался и совершал омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5926</td></tr><tr><td>Arabic No</td><td>5926</td></tr><tr><td>Reference</td><td>Book 77 Hadith 141</td></tr></tbody></table></div>
 

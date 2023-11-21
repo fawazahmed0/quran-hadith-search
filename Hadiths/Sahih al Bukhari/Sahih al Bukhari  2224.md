@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "May Allah curse the Jews, be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dari [Ibnu Syihab]; Aku mendengar [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah melaknat Yahudi, karena telah diharamkan atas mereka lemak hewan (sapi dan kambing) namun lalu memperjual belikannya dan memakan uang jual belinya". Berkata, Abu 'Abdullah Al Bukoriy: ' Qaatalahumullah artinya Allah melaknat mereka. (qutila) artinya (lu'ina) seperti artinya: "Terkutuklah orang-orang yang banyak berdusta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2224</td></tr><tr><td>Arabic No</td><td>2224</td></tr><tr><td>Reference</td><td>Book 34 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Да погубит Аллах иудеев! Им было запрещено (употреблять в пищу) жир (животных), а они стали продавать его, проедая полученные за него деньги!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2224</td></tr><tr><td>Arabic No</td><td>2224</td></tr><tr><td>Reference</td><td>Book 34 Hadith 171</td></tr></tbody></table></div>
 

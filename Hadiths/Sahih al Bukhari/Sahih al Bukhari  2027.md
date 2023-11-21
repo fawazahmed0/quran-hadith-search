@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) used to practice I'tikaf in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya [Malik] dari [YAzid bin 'Abdullah bin Al Had] dari [Muhammad bin Ibrahim bin Al Harits At-Taimiy] dari [Abu Salamah bin 'Abdurrahman] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam 'i'tikaf pada sepuluh malam pertengahan bulan dari Ramadhan lalu orang-orang mengikutinya. Hingga ketika malam kedua puluh satu, yaitu malam ketika Beliau kembali ke tempat i'tikaf Beliau, Beliau berkata: "Siapa yang telah beri'tilkaf bersamaku maka hendaklah dia beri'tikaf pada sepuluh malam-malam akhir. Sungguh aku telah diperlihatkan tentang malam Lailatul Qadar ini namun kemudian aku dilupakan waktunya yang pasti. Maka carilah pada malam sepuluh akhir dan carilah pada malam yang ganjil". Kemudian pada malam itu langit menurunkan hujan. Pada waktu itu atap masjid masih terbuat dari dedaunan hingga air hujan mengalir masuk kedalam masjid. Kemudian mataku memandang Rasulullah shallallahu 'alaihi wasallam yang pada dahi Beliau ada sisa air dan tanah di waktu pagi pada hari kedua puluh satu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2027</td></tr><tr><td>Arabic No</td><td>2027</td></tr><tr><td>Reference</td><td>Book 33 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ совершал и‘тикаф (неотлучно пребывал в мечети) в середине третьей части рамадана. В один год он совершал и‘тикаф, и когда настала двадцать первая ночь, ночь, в которую он обычно он выходил утром из и‘тикяфа, он сказал: “Пусть тот, кто совершал и‘тикяф вместе со мной, останется (на своём месте) на десять последних дней, ведь мне была показана эта ночь (Лейлят-уль-Кадр), но затем она была забыта мной. И я видел, как утром этого дня, я совершаю земной поклон на воду и глину. Ищите же её в последние десять ночей и ищите её во все нечётные ночи”. В эту ночь (двадцать первого) пошёл дождь, и так как она была сделана из пальмовых листьев, вода начала просачиваться через крышу мечети. Я видел собственными глазами следы воды и глины на лбу Посланника Аллаха ﷺ утром двадцать первого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2027</td></tr><tr><td>Arabic No</td><td>2027</td></tr><tr><td>Reference</td><td>Book 33 Hadith 3</td></tr></tbody></table></div>
 

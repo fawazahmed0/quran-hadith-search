@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi 'Aufa:Allah's Messenger (ﷺ) invoked evil upon the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Isma'il bin Abu Khalid] bahwa dia mendengar ['Abdullah bin Abu Aufaa radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam berdo'a ketika perang Al Ahzab terhadap kaum musyrikin (Belioau berdo'a untuk kebinasaan mereka): "Ya Allah, Yang Menurunkan kitab, Yang Maha cepat perhitungan-Nya. Ya Allah, kalahkanlah pasukan sekutu (Al Ahzab). Ya Allah, kalahkanlah mereka dan guncangkanlah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2933</td></tr><tr><td>Arabic No</td><td>2933</td></tr><tr><td>Reference</td><td>Book 56 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Абу Ауфа, да будет доволен Аллах ими обоими, сказал: «В (один из) дней нашествия (союзных) племён Посланник Аллаха ﷺ обратился к Аллаху, призывая проклятие на многобожников, и сказал: “О Аллах, ниспославший Писание и скорый в расчёте! О Аллах, нанеси поражение племенам, о Аллах, разбей их и потряси их! /Аллахумма, мунзиля-ль-Китаби сари‘а-ль-хисаб! Аллахумма,-хзими-ль-ахзаб, Аллахумма,-хзим-хум ва зальзиль-хум!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2933</td></tr><tr><td>Arabic No</td><td>2933</td></tr><tr><td>Reference</td><td>Book 56 Hadith 146</td></tr></tbody></table></div>
 

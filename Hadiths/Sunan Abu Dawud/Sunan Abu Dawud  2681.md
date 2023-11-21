@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said “The Apostle of Allaah(ﷺ) called on his Companions and they procee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismai'i], ia berkata; telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam memanggil para sahabatnya, kemudian mereka pergi ke Badr, dan ternyata mereka mendapatkan beberapa unta Quraisy padanya terdapat seorang budak hitam milik Bani Hajjaj, kemudian ia ditangkap para sahabat Rasulullah shallallahu 'alaihi wasallam. Kemudian mereka menginterogasinya; dimanakah Abu Sufyan? Kemudian budak tersebut berkata; demi Allah, aku tidak tahu mengenainya sama sekali. Akan tetapi orang-orang Quraisy telah datang, diantara mereka terdapat Abu Jahl dan 'Utbah serta Syaibah dua anak Rabi'ah, dan Umayyah bin Khalaf. Ketika ia berkata demikian kepada mereka maka mereka memukulinya, lalu ia berkata; biarkan aku, biarkan aku! Aku akan beritahu kalian. Kemudian tatkala mereka membiarkannya ia berkata; demi Allah aku tidak mengetahui mengenai Abu Sufyan sama sekali. Akan tetapi orang-orang Quraisy telah datang, diantara mereka terdapat Abu Jahl dan 'Utbah serta Syaibah dua anak Rabi'ah, dan Umayyah bin Khalaf. Mereka telah datang. Sementera Nabi shallallahu 'alaihi wasallam melakukan shalat dan mendengar hal tersebut, kemudian tatkala pergi beliau mengatakan; demi Dzat yang jiwaku ada di tanganNya, sesungguhnya kalian akan memukulnya apabila ia berkata jujur kepada kalian, dan kalian akan membiarkannya apabila ia berdusta kepada kalian. Inilah orang-orang Quraisy, mereka telah datang untuk mencegah Abu Sufyan. Anas berkata; Rasulullah shallallahu 'alaihi wasallam berkata: "Ini adalah tempat terbunuhnya Fulan besok." Dan beliau meletakkan tangannya di atas tanah."Dan ini adalah tempat terbunuhnya Fulan besok." Dan beliau meletakkan tangannya di atas tanah."Dan ini adalah tempat terbunuhnya Fulan besok." Dan beliau meletakkan tangannya di atas tanah. Anas berkata; demi Allah tidak ada seorangpun diantara mereka yang melewati tempat tangan Rasulullah shallallahu 'alaihi wasallam. Kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan agar mereka dikumpulkan, lalu dipegang kaki mereka dan diseret dan dilemparkan ke dalam lubang Badr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1779)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2681</td></tr><tr><td>Arabic No</td><td>2681</td></tr><tr><td>Reference</td><td>Book 15 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1779)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2681</td></tr><tr><td>Arabic No</td><td>2681</td></tr><tr><td>Reference</td><td>Book 15 Hadith 205</td></tr></tbody></table></div>
 

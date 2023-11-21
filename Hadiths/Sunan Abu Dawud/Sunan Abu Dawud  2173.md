@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir said “A man from the Ansar came to the Apostle of Allaah(ﷺ) and said �
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Al Fadhl bin Dukain], telah menceritakan kepada kami [Zuhair] dari [Abu Az Zubair] dari [Jabir], ia berkata; terdapat seorang laki-laki anshar yang datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata; sesungguhnya aku memiliki seorang budak wanita, aku bercampur dengannya sementara aku tidak ingin ia hamil. Kemudian beliau berkata: "Lakukanlah 'azl jika engkau menghendaki, sesungguhnya akan datang apa yang telah ditakdirkan baginya." Jabir berkata; orang tersebut tinggal beberapa saat kemudian datang kepada beliau dan berkata; sesungguhnya budak tersebut telah hamil. Beliau berkata: "Aku telah memberitahukan kepadamu bahwa akan datang kepadanya apa yang telah ditakdirkan untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1439)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2173</td></tr><tr><td>Arabic No</td><td>2173</td></tr><tr><td>Reference</td><td>Book 12 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен им Аллах, что один человек из числа ансаров пришёл к Посланнику Аллаха ﷺ и сказал: «У меня есть невольница, и я вступаю с ней в половую близость, но не хочу, чтобы она забеременела». Посланник Аллах ﷺ сказал: «Если хочешь, извергай семя вне её лона. Но, воистину, её постигнет то, что ей предопределено». Тогда этот человек удалился и не появлялся некоторое время. Затем он вновь пришёл к Посланнику Аллаха ﷺ и сказал: «Невольница забеременела!» Посланник Аллаха ﷺ ответил: «Я же говорил тебе, что её постигнет то, что ей предопределено»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1439)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2173</td></tr><tr><td>Arabic No</td><td>2173</td></tr><tr><td>Reference</td><td>Book 12 Hadith 128</td></tr></tbody></table></div>
 

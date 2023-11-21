@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:A woman committed theft in the Ghazwa of the Conque
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Ibnu Wahb] dari [Yunus]. Dan berkata, [Al Laits] telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kapadaku ['Urwah bin Az Zubair] bahwa ada seorang wanita yang mencuri saat peperangan pembebasan Makkah, kemudian wanita dibawa ke hadapan Rasulullah shallallahu 'alaihi wasallam, lalu Beliau memerintahkan untuk memotong tangan wanita tersebut. ['Aisyah radliallahu 'anha] berkata: "Wanita tersebut menindaklanjuti taubatnya dengan baik, lalu wanita itu menikah. Setelah itu, suatu hari wanita itu datang untuk menyampaikan kebutuhannya kepada Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>2648</td></tr><tr><td>Reference</td><td>Book 52 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Урвы бин Зубейра, что в день завоевания Мекки одна женщина совершила кражу. Когда её привели к Посланнику Аллаха ﷺ, он приказал отрубить ей руку. ‘Аиша сказала: «После этого она принесла прекрасное покаяние и вышла замуж. Она приходила ко мне, и я рассказывала о её нуждах Посланнику Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>2648</td></tr><tr><td>Reference</td><td>Book 52 Hadith 12</td></tr></tbody></table></div>
 

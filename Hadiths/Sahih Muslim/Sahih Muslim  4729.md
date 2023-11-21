@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Hasan who said:Ubaidullah b Ziyad visit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Abu Al Ayshab] dari [Hasan] dia berkata, "Ubaidullah bin Ziyad menjenguk [Ma'qil bin Yasar Al Muzanni] ketika dia sedang sakit yang mengantarkan kepada kematiannya, maka Ma'qil lalu berkata, "Sungguh saya akan menceritakan kepadamu suatu hadits yang pernah saya dengar langsung dari Rasulullah shallallahu 'alaihi wasallam, sekiranya saya masih hidup lama niscaya tidak akan saya ceritakan hal ini kepadamu. Sesungguhnya saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang pemimpin yang Allah serahi untuk memimpin rakyatnya, ketika meninggal dalam keadaan menipu rakyatnya, melainkan Allah akan mengharamkan surga untuknya." Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Yunus] dari [Hasan] dia berkata, "Ibnu Ziyad menemui [Ma'qil bin Yasar] yang sedang sakit, seperti haditsnya Abu Al Asyhab, lalu ia menambahkan, "Ibnu Ziyad bertanya, "Tidakkah sebelumnya kamu telah menceritakan hal ini kepadaku?" Dia menjawab, "Saya belim pernah menceritakan hal ini kepadamu atau belum pernah bercerita kepadamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4729</td></tr><tr><td>Arabic No</td><td>142.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4729</td></tr><tr><td>Arabic No</td><td>142.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 28</td></tr></tbody></table></div>
 

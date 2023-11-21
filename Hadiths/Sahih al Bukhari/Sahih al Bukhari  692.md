@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When the earliest emigrants came to Al-'Usba [??] a place in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah menceritakan kepada kami [Anas bin 'Iyadl] dari ['Ubaidullah] dari [Nafi'] dari ['Abdullah bin 'Umar] berkata, "Ketika robongan Muhajirin yang pertama sampai di 'Ushbah, suatu tempat di Quba', sebelum kedatangan Rasulullah shallallahu 'alaihi wasallam, yang mengimami shalat mereka adalah Salim mantan budak Abu Hudzaifah. Dia adalah seorang sahabat yang paling banyak bacaan (hafalan) Al Qur'annya di antara mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>692</td></tr><tr><td>Arabic No</td><td>692</td></tr><tr><td>Reference</td><td>Book 10 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Когда ещё до приезда Посланника Аллаха ﷺ первые мухаджиры приехали в аль-‘Усба – местечко вблизи Къубаъ – во время намаза у них имамом был Салим — вольноотпущенник Абу Хузайфы, который больше всех них знал Коран»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>692</td></tr><tr><td>Arabic No</td><td>692</td></tr><tr><td>Reference</td><td>Book 10 Hadith 87</td></tr></tbody></table></div>
 

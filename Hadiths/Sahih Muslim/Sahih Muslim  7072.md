@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of Abdullah b. Mas'ud (who sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], [Abu Kuraib] dan [Ishaq bin Ibrahim] semuanya dari [Abu Mu'awiyah]. Telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyats] telah menceritakan kepada kami [ayahku], keduanya dari [Al A'masy]. Telah menceritakan kepada kami [Minjab bin Al Harits At Taimi], teks hadits miliknya, telah mengkhabarkan kepada kami [Ibnu Mushir] dari [Al A'masy] dari [Ibrahim] dari [Abu Ma'mar] dari [Abdullah bin Mas'ud] berkata: Saat kami bersama Rasulullah Shallallahu 'alaihi wa Salam di Mina, bulan terbelah menjadi dua bagian, salah satunya di belakang gunung dan yang lain di bawahnya, lalu Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Saksikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7072</td></tr><tr><td>Arabic No</td><td>2800.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд сказал: «Когда мы вместе с посланником Аллаха ﷺ находились в Мине, луна раскололась на две части так, что одна (её) часть оказалась за горой, а другая перед ней, и Посланник Аллаха ﷺ сказал: “Засвидетельствуйте (это)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7072</td></tr><tr><td>Arabic No</td><td>2800.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 28</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd's father:When the emigrants reached Medina. Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il bin 'Abdullah] berkata, telah bercerita kepadaku [Ibrahim bin Sa'ad] dari [bapaknya] dari [kakeknya] berkata; Ketika mereka (Kaum Muhajirin) telah tiba di Madinah, Rasulullah shallallahu 'alaihi wasallam mempersaudarakan 'Abdur Rahman bin 'Auf dengan Sa'ad bin ar-Rabi'. Sa'ad berkata kepada 'Abdur Rahman; "Aku adalah orang Anshar yang paling banyak hartanya, maka hartaku aku akan bagi dua dan aku mempunyai dua istri, maka lihatlah mana diantara keduanya yang menarik hatimu dan sebut kepadaku nanti aku akan ceraikan dan apabila telah selesai masa iddahnya silakan kamu menikahinya". 'Abdur Rahman berkata; "Semoga Alah memberkahimu pada keluarga dan hartamu. Dimana letak pasar-pasar kalian?". Maka mereka menunjukkan pasar Bani Qainuqa'. Dia tidak kembali dari pasar melainkan dengan membawa keju dan minyak samin yang banyak. Lalu dia terus berdagang hingga pada suatu hari dia datang dengan mengenakan pakaian dan wewangian yang bagus. Nabi shallallahu 'alaihi wasallam bertanya kepadanya: "Bagaimana keadaanmu?". 'Abdur Rahman menjawab; "Aku sudah menikah". Beliau bertanya lagi: "Berapa jumlah mahar yang kamu berikan padanya?". 'Abdur Rahman menjawab; "Sebiji emas atau seberat biji emas". Dalam hal ini Ibrahim ragu jumlahnya yang pasti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3780</td></tr><tr><td>Arabic No</td><td>3780</td></tr><tr><td>Reference</td><td>Book 63 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что отец Са‘да сказал: «Когда мухаджиры приехали в Медину, Посланник Аллаха ﷺ побратал Абдуррахмана ибн ‘Ауфа с Са‘дом ибн ар-Раби‘, и Са‘д ибн ар-Раби‘ сказал ‘Абдуррахману: “Поистине, я — самый богатый из ансаров, и я отдам тебе половину того, что имею. Посмотри также, какая из двух моих жён тебе понравится, и я разведу её, а когда закончится её срок (‘идда), ты женишься на ней”. ‘Абдуррахман ибн ‘Ауф, сказал: “Да благословит Аллах твою семью и твоё имущество! Где находится ваш рынок?” И ему указали на рынок кайнука‘. (Он пошёл туда) и вернулся с сушёным творогом и маслом, после чего стал ходить на рынок постоянно, и уже через короткое время он явился с жёлтыми следами от благовоний на теле. Пророк ﷺ спросил его: “Что это?” Он ответил: “Я женился”. Он спросил: “Сколько же ты подарил ей?” Он ответил: “Золото, равное по весу (финиковой) косточке”. Тогда Пророк ﷺ сказал: “Тебе следует устроить свадебное угощение /валима/ хотя бы из одной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3780</td></tr><tr><td>Arabic No</td><td>3780</td></tr><tr><td>Reference</td><td>Book 63 Hadith 5</td></tr></tbody></table></div>
 

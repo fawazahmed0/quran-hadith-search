@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Imran:Anas looked at the people wearing Tailsans (i.e. a special k
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4208</td></tr><tr><td>Arabic No</td><td>4208</td></tr><tr><td>Reference</td><td>Book 64 Hadith 248</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ’Имран сказал: «Когда Анас увидел, в пятничный день некоторых людей, которые носили “тайалиса” (один из видов одежды, который носили иудеи), он сказал: “Они сейчас выглядят как иудеи Хайбара”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4208</td></tr><tr><td>Arabic No</td><td>4208</td></tr><tr><td>Reference</td><td>Book 64 Hadith 248</td></tr></tbody></table></div>
 

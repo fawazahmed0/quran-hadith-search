@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Amr (Allah be pleased with them) reported that the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Ziyad bin Fayyadl] ia berkata, saya mendengar [Abu 'Iyadl] dari [Abdullah bin Amru] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Berpuasalah satu hari maka bagimu pahala sepanjang masa.” Abdullah bin Amru berkata, “Sesungguhnya aku masih mampu lebih dari itu.” Beliau bersabda: “Kalau begitu berpuasalah dua hari, maka bagimu pahala sepanjang masa.” Beliau bersabda: “Kalau begitu berpuasalah tiga hari (dalam setiap bulan) bagimu pahala sepanjang masa." Abdullah bin Amru berkata, "Sesungguhnya saya masih kuat lebih dari itu." beliau bersabda: "Kalau begitu, berpuasalah empat hari (dalam setiap bulannya), bagimu pahala sepanjang masa." Abdulah berkata lagi, "Saya masih kuat lebih dari itu." beliau bersabda: "kalau begitu, berpuasalah dengan seutama-utama puasa di sisi Allah yaitu puasa Dawud 'Alaihis Salam, ia berpuasa sehari dan berbuka sehari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2742</td></tr><tr><td>Arabic No</td><td>1159.14</td></tr><tr><td>Reference</td><td>Book 13 Hadith 248</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2742</td></tr><tr><td>Arabic No</td><td>1159.14</td></tr><tr><td>Reference</td><td>Book 13 Hadith 248</td></tr></tbody></table></div>
 

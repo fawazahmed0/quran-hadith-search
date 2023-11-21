@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yuhannis, the freed slave of Zubair, narrated that when he was sitting with Abdu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Qathn bin Wahb bin Uwaimir bin Al Ajda'] dari [Yuhannas] Maula Az Zubair, ia telah mengabarkan kepadanya bahwasanya; Dia pernah duduk dekat [Abdullah bin Umar] pada masa kacau, lalu datang Maulanya yang perempuan ke arahnya. Setelah memberi salam, perempuan itu berkata, "Aku ingin pergi dari kota ini, hai Abu Abdurrahman, karena keadaan terasa semakin sulit." Abdullah pun menjawab, "Bodoh kamu, sesungguhnya aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Siapa yang sabar menahan kesusahan dan kesulitan yang dideritanya di kota ini, maka aku akan menjadi saksi atau pembelanya kelak pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3345</td></tr><tr><td>Arabic No</td><td>1377.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 549</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3345</td></tr><tr><td>Arabic No</td><td>1377.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 549</td></tr></tbody></table></div>
 

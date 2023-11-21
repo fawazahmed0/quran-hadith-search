@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qays ibn Abbad : I and Ashtar went to Ali and said to him: Did the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Musaddad] keduanya berkata; telah menceritakan kepada kami [Yahya bin Sa'id] berkata, telah mengabarkan kepada kami [Sa'id bin Abu Arubah] dari [Qatadah] dari [Al Hasan] dari [Qais bin Ubad] ia berkata, "Aku bersama Al Asytar berangkat menemui [Ali radliallahu 'anhu]. Kami lalu bertanya, "Apakah Rasulullah shallallahu 'alaihi wasallam memberimu suatu wasiat yang tidak disampaikan kepada manusia secara umum?" Ali menjawab, "Tidak, kecuali apa yang ada dalam catatanku ini -Musaddad menyebutkan- "Ali lalu mengeluarkan sebuah catatan." -Dan Ahmad menyebutkan- "catatan yang ada pada sarung pedangnya." Dalam catatan itu disebutkan, "orang-orang yang beriman itu darahnya sama (dalam hal qishash dan tebusan), mereka saling membantu dengan sesamanya untuk menghadapi orang lain (kafir), dan orang-orang yang paling dekat dengan mereka yang mukmin itu dapat menanggung mereka. Ketahuilah, seorang mukmin tidak boleh dibunuh karena membunuh seorang kafir (sebagai qishas), dan juga tidak boleh membunuh seseorang yang berada dalam ikatan perjanjiannya. Siapa saja yang berbuat kejahatan maka dosanya ia tanggung sendiri, dan barangsiapa berbuat kejahatan atau melindungi seorang penjahat, maka ia akan mendapat laknat Allah, malaikat dan semua manusia." [Musaddad] menyebutkan dari [Ibnu Abu Arubah], "Lalu Ali mengeluarkan catatan." Telah menceritakan kepada kami [Ubaidullah bin Umar] berkata, telah menceritakan kepada kami [Husyaim] dari [Yahya bin Sa'id] dari [Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, lalu beliau menyebutkan sebagaimana hadits Ali. Hanya saja perawi menambahkan, "Orang-orang yang ada di tempat yang jauh (perbatasan) memberikan perlindungannya, yang kuat melindungi yang lemah dan ikut perang melindungi mereka yang berada di rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4530</td></tr><tr><td>Arabic No</td><td>4530</td></tr><tr><td>Reference</td><td>Book 41 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Кайса ибн ‘Аббада: «Вместе с аль-Аштаром мы пришли к ‘Али, да будет доволен им Аллах, и спросили: “Оставил ли тебе Посланник Аллаха ﷺ какой-нибудь завет сверх тех, что оставил он всем людям?” Он ответил: “Нет, если не считать вот этот мой свиток”. И он достал свиток (или достал свиток из ножен своего меча). Там было написано: “Верующие равны между собой в том, что касается (воздаяния за пролитую) кровь, и они помогают друг другу против тех, кто не относится к ним, и защита их едина, даже если предоставляет её нижайший из них. Поистине, мусульманин не подлежит казни за убийство неверующего, и заключивший договор с мусульманами /му‘ахад/ не подлежит убийству, пока он верен договору. Кто совершил преступление, тот совершил его против себя же. А кто совершил преступление или укрыл преступника, на того ляжет проклятие Аллаха, ангелов и всех людей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4530</td></tr><tr><td>Arabic No</td><td>4530</td></tr><tr><td>Reference</td><td>Book 41 Hadith 37</td></tr></tbody></table></div>
 

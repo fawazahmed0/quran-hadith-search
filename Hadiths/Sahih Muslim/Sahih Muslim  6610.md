@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Aslam reported that 'Abd al-Malik b. Marwan sent some domestic goods for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Suwaid bin Sa'id]; Telah menceritakan kepadaku [Hafsh bin Maisarah] dari [Zaid bin Aslam] bahwa suatu ketika 'Abdul Malik bin Marwan mengirim perabot rumah miliknya kepada Ummu Ad Darda. Pada suatu malam, Abdul Malik bangun dan memanggil pembantunya. Namun seakan-akan pembantu itu lambat dalam memenuhi panggilannya. Hingga Abdul Malik melaknatnya. Pada pagi harinya, [Ummu Darda] berkata kepadanya; 'Tadi malam aku mendengar kamu melaknat pembantumu ketika kamu memanggilnya.' Aku mendengar [Abu Darda'] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya para pelaknat itu tidak akan dapat menjadi syuhada' (orang-orang yang menjadi saksi) dan tidak pula dapat memberi syafa'at pada hari kiamat kelak.'" Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Ghassan Al Misma'i] serta ['Ashim bin An Nadhr At Taimi] mereka berkata; Telah menceritakan kepada kami [Mu'tamir bin Sulaiman]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami ['Abdur Razzaq] keduanya dari [Ma'mar] dari [Zaid bin Aslam] melalui jalur ini yang semakna dengan Hadits Hafsh bin Maisarah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6610</td></tr><tr><td>Arabic No</td><td>2598.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6610</td></tr><tr><td>Arabic No</td><td>2598.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 108</td></tr></tbody></table></div>
 

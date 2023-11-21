@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Mubashshir reported that she heard Allah's Apostle (ﷺ) as saying in presen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin 'Abdullah]; Telah menceritakan kepada kami [Hajjaj bin Muhammad] berkata; [Ibnu Juraij] berkata; Telah mengabarkan kepadaku [Abu Az Zubair] bahwasannya Aku mendengar [Jabir bin 'Abdullah] dia berkata; Telah mengabarkan kepadaku [Ummu Mubasysyir], bahwasanya ia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda di rumah Hafshah: "Insya Allah tidak akan masuk ke dalam neraka seorang pun dari orang-orang yang turut serta berbai'at di bawah pohon." Hafshah berkata; 'Memangnya benar seperti itu ya Rasulullah? ' Rasulullah menegur Hafshah yang berkata seperti itu. Lalu Hafshah membacakan ayat yang ang berbunyi; 'Tak seorang pun darimu melainkan akan mendatangi neraka itu.' (Maryam (19): 71). Kemudian Rasulullah bersabda: 'Bukankah Allah Suhhanahu wa Ta'ala telah berfirman: 'Kemudian Kami akan menyelamatkan orang-orang yang bertakwa dan membiarkan orang-orang yang zhalim di dalam neraka dalam keadaan berlutut?.' (Maryam (19):
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6404</td></tr><tr><td>Arabic No</td><td>2496</td></tr><tr><td>Reference</td><td>Book 44 Hadith 235</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6404</td></tr><tr><td>Arabic No</td><td>2496</td></tr><tr><td>Reference</td><td>Book 44 Hadith 235</td></tr></tbody></table></div>
 

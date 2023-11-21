@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jabir that the Messenger of Allah (ﷺ) said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ali bin Hujr As Sa'di] dan ['Amru An Naqid] dan [Zuhair bin Harb] sedangkan lafadznya dari Ali dan Zuhair, Ali berkata; telah mengabarkan kepada kami, sedangkan yang dua orang mengatakan; telah menceritakan kepada kami [Sufyan] dia berkata; ['Amru] pernah mendengar [Jabir] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Perang adalah tipu daya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4539</td></tr><tr><td>Arabic No</td><td>1739</td></tr><tr><td>Reference</td><td>Book 32 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4539</td></tr><tr><td>Arabic No</td><td>1739</td></tr><tr><td>Reference</td><td>Book 32 Hadith 20</td></tr></tbody></table></div>
 

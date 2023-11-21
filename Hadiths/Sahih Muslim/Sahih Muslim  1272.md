@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:The Messenger of Allah (ﷺ) said: When any one of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Ahmad bin Abi Khalaf] telah menceritakan kepada kami [Musa bin Dawud] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abu Sa'id al-Khudri] dia berkata, "Rasulullah Shallallahu'alaihiwasallam bersabda, 'Apabila salah seorang dari kalian ragu dalam shalatnya, dan tidak mengetahui berapa rakaat dia shalat, tiga ataukah empat rakaat maka buanglah keraguan, dan ambilah yang pasti (yaitu yang sedikit). Kemudian sujudlah dua kali sebelum memberi salam. Jika ternyata dia shalat lima rakaat, maka sujudnya telah menggenapkan shalatnya. Dan jika, ternyata shalatnya memang empat rakaat maka kedua sujudnya itu adalah sebagai penghinaan bagi setan'." Telah menceritakan kepadaku [Ahmad bin Abdurrahman bin Wahb] telah menceritakan kepadaku [Pamanku, Abdullah] telah menceritakan kepadaku [Dawud bin Qais] dari [Zaid bin Aslam] dengan isnad ini, dan dalam maknanya, 'Hendaklah dia sujud dua kali sebelum salam.' Atau sebagaimana yang dikatakan Sulaiman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1272</td></tr><tr><td>Arabic No</td><td>571.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Если во время молитвы кто-нибудь из вас будет сомневаться, не зная (точно), три или четыре (рак‘ата) он совершил, пусть отринет сомнения и основывается на том, в чём он уверен, а потом, перед таслимом, совершит два земных поклона (в качестве искупления за проявление невнимательности). Если человек (по ошибке) совершит (обязательную молитву в) пять рак‘атов, то (благодаря совершению этих двух поклонов общее количество совершённых им рак‘атов) станет чётным, если же он (по ошибке) совершит (вышеупомянутые поклоны) после четырёх рак‘атов, (эти поклоны) унизят шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1272</td></tr><tr><td>Arabic No</td><td>571.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 110</td></tr></tbody></table></div>
 

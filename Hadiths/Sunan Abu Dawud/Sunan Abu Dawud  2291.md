@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Ishaq said “I was with Al Aswad in the congregational mosque. He said “F
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali], telah mengabarkan kepadaku [Abu Ahmad], telah menceritakan kepada kami ['Ammar bin Ruzaiq] dari [Abu Ishaq], ia berkata; aku pernah berada di masjid jami' bersama [Al Aswad], kemudian ia berkata; Fathimah binti Qais datang kepada [Umar bin Al Khathab radliallahu 'anhu], kemudian Umar berkata; kami tidak akan meninggalkan Kitab Tuhan kami dan Sunnah Nabi kami shallallahu 'alaihi wasallam hanya karena perkataan seorang wanita yang tidak kami ketahui apakah ia menghafalnya atau tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1480)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2291</td></tr><tr><td>Arabic No</td><td>2291</td></tr><tr><td>Reference</td><td>Book 13 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Исхака: «Я сидел в соборной мечети вместе с аль-Асвадом, и он рассказал, что Фатима бинт Кайс пришла к ‘Умару ибн аль-Хаттабу, да будет доволен им Аллах, и он сказал: “Мы не оставим Книгу нашего Господа и Сунну нашего Пророка ﷺ ради слов женщины, о которой не знаем, всё она запомнила или нет!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1480)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2291</td></tr><tr><td>Arabic No</td><td>2291</td></tr><tr><td>Reference</td><td>Book 13 Hadith 117</td></tr></tbody></table></div>
 

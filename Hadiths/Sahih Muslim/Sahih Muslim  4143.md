@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Tawus reported on the authority of Ibn Abbas (Allah be pleased with them) narrat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Rafi'] dan [Abd bin Humaid], dan ini adalah lafadz Ibnu Rafi'. Ishaq berkata; telah menceritakan kepada kami, sedangkan yang dua mengatakan; telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [Ayahnya] dari [Ibnu Abbas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Bagikanlah harta warisan di antara orang-orang yang berhak (Dzawil furudl) sesuai dengan Kitabullah, sedangkan sisa dari harta warisan untuk keluarga laki-laki yang terdekat." Dan telah menceritakan kepadaku [Muhammad bin Al 'Ala' Abu Kuraib Al Hamdani] telah menceritakan kepada kami [Zaid bin Hubab] dari [Yahya bin Ayyub] dari [Ibnu Thawus] dengan isnad ini, seperti hadits Wuhaib dan Rauh bin Qasim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4143</td></tr><tr><td>Arabic No</td><td>1615.03</td></tr><tr><td>Reference</td><td>Book 23 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4143</td></tr><tr><td>Arabic No</td><td>1615.03</td></tr><tr><td>Reference</td><td>Book 23 Hadith 4</td></tr></tbody></table></div>
 

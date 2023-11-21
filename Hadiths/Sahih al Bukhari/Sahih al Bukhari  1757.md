@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Safiya bint Huyay, the wife of the Prophet (ﷺ) got her menses,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Abdurrahman bin Al Qasim] dari [bapaknya] dari ['Aisyah radliallahu 'anha]; bahwa Shafiyyah binti Huyay, isteri Nabi shallallahu 'alaihi wasallam mengalami haidh. Berita itu lantas disampaikan kepada Rasulullah shallallahu 'alaihi wasallam, maka Beliau berkata: "Apakah dia akan menyusahkan kita?". Orang-orang berkata: "Dia telah ikut bertolak pada hari Nahar (untuk thawaf) ". Maka Beliau berkata: "Kalau begitu tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1757</td></tr><tr><td>Arabic No</td><td>1757</td></tr><tr><td>Reference</td><td>Book 25 Hadith 235</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что когда у Сафии бинт Хуей, жены Пророка ﷺ началась менструация, ‘Аиша рассказала об этом Посланнику Аллаха ﷺ и он сказал: «Она нас задержит?» Люди сказали: «Она совершила обход вокруг Каабы /таваф аль-ифада/». Пророк ﷺ сказал: «Значит, нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1757</td></tr><tr><td>Arabic No</td><td>1757</td></tr><tr><td>Reference</td><td>Book 25 Hadith 235</td></tr></tbody></table></div>
 

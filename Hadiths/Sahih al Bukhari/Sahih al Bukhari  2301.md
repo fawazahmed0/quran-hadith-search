@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin 'Auf:I got an agreement written between me and Umaiya
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah menceritakan kepada saya [Yusuf bin Al Majisyun] dari [Shalih bin Ibrahim bin 'Abdurrahman bin 'Auf] dari [bapaknya] dari [kakeknya, 'Abdurrahman bin 'Auf radliallahu 'anhu] berkata: "Aku mengirim surat kepada Umayah bin Khalaf agar ia menjagaku dalam urusan keluargaku dan harta bendaku di Makkah dan aku akan menjaganya dalam urusan keluarganya dan harta bendanya di Madinah. Ketika aku menyebut nama Ar-Rahman ia berkata; "Aku tidak mengenal Ar-Rahman, tulislah namamu ketika engkau masih di jahiliyah". Maka aku menulis namaku 'Abdu 'Amru. Ketika terjadi perang Badar aku keluar ke gunung untuk menjaganya ketika orang-orang tidur. Kemudian Bilal melihatnya, lalu ia keluar hingga sampai di majlis orang-orang Anshar. Lalu Umayyah bin Khalaf berkata: "Aku tidak akan selamat jika Umayah selamat. Kemudian beberapa orang Anshar keluar bersamanya mendekati kami, ketika aku khawatir mereka akan menemukan kami maka aku keluarkan anaknya kearah mereka agar mereka tersibukkan dengannya, namun mereka membunuhnya dan mereka enggan kembali hingga mereka menemui kami, ketika itu ia adalah seorang lelaki yang gemuk, ketika mereka menemui kami aku berkata, kepadanya merunduklah, lalu iapun merunduk dan aku meletakkan badanku diatasnya untuk melindunginya, kemudian mereka (kaum muslimin) berusaha menusuknya dengan mengarahkan pedang mereka melalui bawahku hingga mereka membunuhnya, kakiku terkena pedang salah seseorang dari mereka. Dan 'Abdurrahman bin 'Auf memperlihatkan luka bekas pedang itu pada kami dipunggung kakinya. Abu 'Abdullah berkata, Yusuf mendengar Shaleh begitu juga Ibrahim, bapaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2301</td></tr><tr><td>Arabic No</td><td>2301</td></tr><tr><td>Reference</td><td>Book 40 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн ‘Ауф сказал: «Я заключил с Умайей ибн Халяфом письменное соглашение о том, что он будет заботиться о моей собственности (или семье) в Мекке, а я буду заботиться о его собственности в Медине. Когда в письме я упомянул слово “ар-Рахман” (то есть своё имя ‘Абдуррахман), он сказал: “Я не знаю “ар-Рахмана”. Напиши мне то имя, которое у тебя было в доисламский период невежества (джахилийя)”. И я написал ‘Абду ‘Амр. В день битвы при Бадре, я поднялся на холм, чтобы защищать его (Умайю), когда люди спали. Однако Биляль увидел его (Умайю), он пошёл к месту собрания ансаров и сказал: “Там Умайя ибн Халяф! Горе мне, если он сбежит!” Таким образом группа ансаров вышла вместе с Билялем, и последовали за нами. Боясь, что они нас догонят, я оставил им сына Умаййи, чтобы отвлечь их, но они убили его и продолжили погоню за нами. Умайя был полным человеком, и когда они нас догнали я сказал ему: “Встань на колени!”, и он встал на колени, а я закрыл его своим телом, чтобы защитить его, но они стали пропускать мечи подо мной и резать его таким образом до тех пор, пока не убили его, а один из них ранил мою ногу своим мечом». Один из передатчиков хадиса сказал: «‘Абдуррахман ибн ‘Ауф показывал нам след от раны на своей ноге»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2301</td></tr><tr><td>Arabic No</td><td>2301</td></tr><tr><td>Reference</td><td>Book 40 Hadith 3</td></tr></tbody></table></div>
 

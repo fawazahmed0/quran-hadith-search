@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qilaba reported on the authority of Anas:It is the Sunnah to stay with a vir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdur Razaq] telah mengabarkan kepada kami [Sufyan] dari [Ayyub] dan [Khalid Al Hadzdza'] dari [Abu Qilabah] dari [Anas] dia berkata; Termasuk sunnah (Nabi shallallahu 'alaihi wasallam) adalah tinggal (di malam pertama) bersama istri yang masih gadis selama tujuh hari. Khalid berkata; Seandainya saya mau, saya akan mengatakan; Anas memarfu'kan (hadits tersebut) kepada Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3627</td></tr><tr><td>Arabic No</td><td>1461.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3627</td></tr><tr><td>Arabic No</td><td>1461.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 60</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Malik b. Huwairith reported:The Messenger of Allah (ﷺ) raised his hands apposi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kamil al-Jahdari] telah menceritakan kepada kami [Abu Awanah] dari [Qatadah] dari [Nashr bin Ashim] dari [Malik bin al-Huwairits] bahwa Rasulullah shallallahu 'alaihi wasallam apabila bertakbir maka beliau mengangkat kedua tangannya hingga sejajar dengan kedua telinganya, dan apabila rukuk maka beliau mengangkat kedua tangannya hingga sejajar dengan kedua telinganya, dan apabila mengangkat kepalanya dari rukuk seraya mengucapkan, 'Semoga Allah mendengarkan orang yang memujiNya', maka beliau melakukan seperti itu." Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Ibnu Abi Adi] dari [Sa'id] dari [Qatadah] dengan sanad ini bahwa dia melihat Nabi Allah shallallahu 'alaihi wasallam seraya berkata, hingga kedua tangannya sejajar dengan cabang telinganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>865</td></tr><tr><td>Arabic No</td><td>391.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Малика ибн аль-Хувайриса, что во время произношения слов «Аллаху акбар», Посланник Аллаха ﷺ поднимал руки так, что они достигали до уровня ушей, и перед совершением поясного поклона он поднимал руки так, что они достигали до уровня ушей, и когда он поднимал голову после поясного поклона, он говорил: «Да услышит Аллах того, кто воздал Ему хвалу» /Сами’а-Ллаху ли-ман хамидаху/ и поступал так же
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>865</td></tr><tr><td>Arabic No</td><td>391.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 28</td></tr></tbody></table></div>
 

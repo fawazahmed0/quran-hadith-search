@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:I saw Bilal bringing a short spear (or stick) and fixing it
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] telah mengabarkan kepada kami [Ibnu Syumail] telah mengabarkan kepada kami [Umar bin Abu Za'idah] telah mengabarkan kepada kami ['Aun bin Abu Juhaifah] dari ayahnya [Abu Juhaifah] dia berkata; "Lalu aku melihat Bilal datang dengan membawa tongkat (berujung runcing) dan menancapkan tongkat tersebut, kemudian dia mengumandangkan iqamah, setelah itu saya melihat Rasulullah shallallahu 'alaihi wasallam keluar (rumah) dengan menyingsingkan pakaiannya, lalu beliau shalat dua raka'at di hadapan tongkat tersebut, dan saya melihat orang-orang dan binatang pun lewat di hadapan beliau di belakang tongkat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5786</td></tr><tr><td>Arabic No</td><td>5786</td></tr><tr><td>Reference</td><td>Book 77 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джухейфа сказал: «Я видел, как Биляль принёс палку с заострённым концом и воткнул её (в землю). Затем он провозгласил о начале молитвы, и я видел, как Посланник Аллаха ﷺ вышел в накидке с закатанными рукавами и совершил два рак‘ата, стоя лицом к палке. И я видел, как люди и верховые животные проходили перед ним за палкой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5786</td></tr><tr><td>Arabic No</td><td>5786</td></tr><tr><td>Reference</td><td>Book 77 Hadith 4</td></tr></tbody></table></div>
 

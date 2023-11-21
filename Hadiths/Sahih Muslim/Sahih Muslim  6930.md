@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Safwan (and he was Ibn 'Abdullah b. Safwan, and he had been married to Umm Darda
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami ['Isa bin Yunus] telah menceritakan kepada kami ['Abdul Malik bin Abu Sulaiman] dari [Abu Az Zubair] dari [Shafwan bin 'Abdullah bin Shafwan] dan riwayat selanjutnya adalah dari [Ummu Darda'], dia berkata; "Saya pernah pergi ke Syam dan mengunjungi Abu Darda' di rumahnya. Namun saya tidak bertemu dengannya, lalu saya pergi menjumpai Ummu Darda'. Setelah itu, Ummu Darda' bertanya kepada saya; 'Hai Shafwan, apakah kamu akan pergi haji pada tahun ini? ' Saya pun menjawab; 'Ya.' Ummu Darda' berkata; 'Mohonkanlah kepada Allah kebaikan untuk kami, karena Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Doa seorang muslim untuk saudaranya sesama muslim dari kejauhan tanpa diketahui olehnya akan dikabulkan. Di atas kepalanya ada malaikat yang telah diutus, dan setiap kali ia berdoa untuk kebaikan, maka malaikat yang diutus tersebut akan mengucapkan 'Amin dan kamu juga akan mendapatkan seperti itu.' Shafwan berkata; 'Setelah itu saya pergi ke pasar dan di sana saya bertemu dengan [Abu Darda']. Ternyata ia pun mengatakan seperti itu kepada saya yang diriwayatkannya dari Nabi Muhammad shallallahu 'alaihi wasallam. Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yazid bin Harun] dari ['Abdul Malik bin Abu Sulaiman] melalui sanad ini dengan Hadits yang serupa. dia berkata; dari Shafwan bin 'Abdullah bin Shafwan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6930</td></tr><tr><td>Arabic No</td><td>2732.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6930</td></tr><tr><td>Arabic No</td><td>2732.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 121</td></tr></tbody></table></div>
 

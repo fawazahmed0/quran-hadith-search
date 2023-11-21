@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:I heard Abu Ash-sha'tha' Jabir saying, "I heard Ibn 'Abbas saying,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Sufyan] dari ['Amru] berkata, Aku mendengar [Abu Asy-Sya'tsa' Jabir] berkata, Aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Aku pernah shalat bersama Rasulullah shallallahu 'alaihi wasallam delapan raka'at dengan dijamak dan tujuh raka'at dengan di jamak'". Aku tanyakan: "Wahai Abu Asy-Sya'tsa', dugaanku Beliau mengakhirkan Zhuhur dan menyegerakan 'Ashar (jama' takhir) dan menyegerakan 'Isya mengakhirkan Maghrib" (jamak takhir). Dia berkata: "Aku juga menduga begitu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1174</td></tr><tr><td>Arabic No</td><td>1174</td></tr><tr><td>Reference</td><td>Book 19 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр сказал: «Я слышал Абу Ша‘са Джабира, который сказал, что он слышал, как Ибн ‘Аббас, да будет доволен им Аллах, сказал: “Я совершил вместе с Посланником Аллаха ﷺ восемь рак‘атов /зухр и ‘аср/, объединив их и семь рак‘атов /‘иша и магъриб/, объединив”. Я сказал: “О, Абу Ша‘са! Я думаю, что он отложил зухр и совершил пораньше ‘аср, и совершил пораньше ‘иша, отложив магъриб?” Он ответил: “И я так думаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1174</td></tr><tr><td>Arabic No</td><td>1174</td></tr><tr><td>Reference</td><td>Book 19 Hadith 52</td></tr></tbody></table></div>
 

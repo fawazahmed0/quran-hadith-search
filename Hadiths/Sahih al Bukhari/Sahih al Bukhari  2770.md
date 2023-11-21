@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A man said to Allah's Messenger (ﷺ) , "My mother died, wil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin 'Abdur Rohim] telah mengabarkan kepada kami [Rouh bin 'Ubadah] telah bercerita kepada kami [Zakariya' bin Ishaq] berkata telah bercerita kepadaku ['Amru bin Dinar] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhu]; Bahwa ada seorang laki-laki berkata kepada Rasulullah shallallahu 'alaihi wasallam yang ibunya telah meninggal dunia: "Apakah dapat bermanfaat baginya bila aku bershadaqah atas namanya?" Beliau bersabda: "Ya". Lalu laki-laki itu berkata: "Sesungguhnya aku memiliki kebun yang penuh dengan bebuahannya dan aku bersaksi kepada Tuan bahwa aku menshadaqahkan kebun itu atas namanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2770</td></tr><tr><td>Arabic No</td><td>2770</td></tr><tr><td>Reference</td><td>Book 55 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что один человек сказал Посланнику Аллаха, да благословит его Аллах и приветствует: «Поистине, моя мать умерла. Принесёт ли ей пользу милостыня, которую я подам от её имени?» (Посланник Аллаха, да благословит его Аллах и приветствует) сказал: «Да». Этот человек сказал: «У меня есть сад под названием аль-Михраф, и я беру тебя в свидетели того, что я отдаю его в качестве милостыни от имени моей матери»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2770</td></tr><tr><td>Arabic No</td><td>2770</td></tr><tr><td>Reference</td><td>Book 55 Hadith 33</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'aiqib:The Prophet (ﷺ) talked about a man leveling the earth on pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] berkata, telah menceritakan kepada saya [Mu'aiqib] bahwa Nabi shallallahu 'alaihi wasallam berkata tentang seseorang yang mengusapkan tanah ke mukanya ketika sedang sujud. Beliau bersabda: "Jika kamu melakukannya, lakukanlah sekali saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1207</td></tr><tr><td>Arabic No</td><td>1207</td></tr><tr><td>Reference</td><td>Book 21 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Му‘айкиба, да будет доволен им Аллах, что (однажды) Пророк ﷺ (увидевший, как один) человек выравнивает перед собой землю во время совершения земных поклонов, сказал: «Если это (необходимо) сделать, то (только) один раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1207</td></tr><tr><td>Arabic No</td><td>1207</td></tr><tr><td>Reference</td><td>Book 21 Hadith 11</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Kulaib b. Manfa'ah said that his grandfather told then he went to the Prophet (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] berkata, telah menceritakan kepada kami [Al Harits bin Murrah] berkata, telah menceritakan kepada kami [Kulaib bin Manfa'ah] dari [Kakeknya] Bahwasanya ia pernah datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, siapa yang paling aku perlakukan dengan baik?" beliau menjawab: "Ibumu, lalu bapakmu, lalu saudara perempuanmu, lalu saudara laki-lakimu, lalu kerabatmu yang wajib untuk engkau sambung silaturahminya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5140</td></tr><tr><td>Arabic No</td><td>5140</td></tr><tr><td>Reference</td><td>Book 43 Hadith 368</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5140</td></tr><tr><td>Arabic No</td><td>5140</td></tr><tr><td>Reference</td><td>Book 43 Hadith 368</td></tr></tbody></table></div>
 

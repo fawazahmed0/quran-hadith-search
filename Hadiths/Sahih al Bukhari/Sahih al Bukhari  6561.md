@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nu'man:I heard the Prophet (ﷺ) saying, "The person who will have t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6561</td></tr><tr><td>Arabic No</td><td>6561</td></tr><tr><td>Reference</td><td>Book 81 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Ну‘ман ибн Башир, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Пророк ﷺ говорил: “Поистине, в День воскрешения наиболее лёгкому наказанию подвергнется тот человек из числа обитателей Огня, под ступни которого (будет положен) тлеющий уголёк, из-за чего мозг его станет кипеть”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6561</td></tr><tr><td>Arabic No</td><td>6561</td></tr><tr><td>Reference</td><td>Book 81 Hadith 150</td></tr></tbody></table></div>
 

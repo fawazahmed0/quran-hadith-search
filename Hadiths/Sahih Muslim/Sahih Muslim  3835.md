@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih said:Out of the ahadith which Abu Huraira (Allah be pleased w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdur Razzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata, ini seperti apa yang telah diceritakan [Abu Hurairah] kepada kami, dari Rasulullah Shallallu 'alaihi wa sallam, kemudian dia menyebutkan beberapa hadits di antaranya, dia (Abu Hurairah) berkata; Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa salah seorang dari kalian yang membeli unta bunting yang di ikat puting susunya, atau kambing yang diikat puting susunya, maka ia boleh menentukan dua pilihan setelah diambil susunya, (jika ia berkenan) ia boleh mengambilnya, jika tidak, maka ia boleh mengembalikannya dengan menyertakan satu sha' kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3835</td></tr><tr><td>Arabic No</td><td>1524.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3835</td></tr><tr><td>Arabic No</td><td>1524.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 35</td></tr></tbody></table></div>
 

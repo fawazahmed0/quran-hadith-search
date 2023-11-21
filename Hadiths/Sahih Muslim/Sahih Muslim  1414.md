@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Messenger of Allah (ﷺ) led us in the afternoon pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Sawwad Al 'Amiri] dan [Muhammad bin Salamah Al Muradi] dan [Ahmad bin Isa] sedangkan lafadznya hampir berdekatan, 'Amru mengatakan; telah mengabarkan kepada kami, sedang keduanya mengatakan; telah menceritakan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Yazid bin Abu Hubaib] bahwa [Musa bin Sa'd Al Anshari] menceritakan kepadanya dari [Hafs bin Abdullah] dari [Anas bin Malik], ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah shalat Ashar untuk kami, ketika beliau selesai, salah seorang Bani Salamah menemui beliau dan berkata; "Wahai Rasulullah, kami ingin menyembelih untuk sembelihan kami dan sangat berharap agar anda menghadirinya. Beliau menjawab; "Baiklah" Beliau pun berangkat bersama kami, ternyata kami mendapati unta sembelihan belum disembelih, setelah itu unta tersebut disembelih, kemudian dipotong-potong dagingnya dan dimasak, setelah itu kami menyantapnya sebelum matahari menghilang." [Al Muradi] berkata; telah menceritakan kepada kami [Ibnu Wahb] dari [Ibn Lahi'ah] dan ['Amru bin Harits] tentang hadis ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1414</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 5 Hadith 248</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается Анас ибн Малик сказал: «(Однажды) Посланник Аллаха ﷺ совершил с нами послеполуденную молитву /‘аср/, и когда он закончил, к нему подошёл человек из (племени) бану Саляма, и сказал: “О Посланник Аллаха! Мы хотим заколоть нашего верблюда, а (также) хотим, чтобы ты присутствовал там”. Пророк ﷺ сказал: “Хорошо”. И отправился (к ним), а мы пошли вместе с ним. (Придя,) мы обнаружили, что верблюд ещё не был заколот, затем его закололи, поделили и часть приготовили. Затем мы поели до захода солнца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1414</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 5 Hadith 248</td></tr></tbody></table></div>
 

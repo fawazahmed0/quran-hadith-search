@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Asma', daughter of Yazid ibn as-Sakan,: I heard the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Nafi' Abu Taubah] telah menceritakan kepada kami [Muhammad bin Muhajir] dari [Ayahnya] dari [Asma' binti Yazid bin As Sakan] ia berkata, "Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian membunuh anak-anak kalian secara rahasia, sesungguhnya pengaruh menggauli isteri pada waktu menyusui akan menimpa penunggang kuda sehingga menyebabkannya lemah dan terjatuh dari kudanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3881</td></tr><tr><td>Arabic No</td><td>3881</td></tr><tr><td>Reference</td><td>Book 29 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Асмы бинт Язид ибн ас-Сакан, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Не убивайте своих детей тайно, ибо, поистине, половое сношение, совершаемое во время кормления грудью, потом действует на всадника, из-за чего он падает с лошади и гибнет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3881</td></tr><tr><td>Arabic No</td><td>3881</td></tr><tr><td>Reference</td><td>Book 29 Hadith 27</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar reported Allah's Apostle (ﷺ) as saying:The dead is punished in the grave 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] ia berkata, saya mendengar [Qatadah] menceritakan dari [Sa'id bin Al Musayyab] dari [Ibnu Umar] dari [Umar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Mayit itu akan disiksa di dalam kuburnya, lantara ratapan yang ditujukan atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2143</td></tr><tr><td>Arabic No</td><td>927.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Умара, что Пророк ﷺ сказал: «Покойный подвергается мучениям в своей могиле из-за того, что по нему причитают»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2143</td></tr><tr><td>Arabic No</td><td>927.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmayr ibn Anas: AbuUmayr reported on the authority of some of his pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Ja'far bin Abu wahsyiyah] dari [Abu 'Umair bin Anas] dari [paman-pamannya yang juga sahabat Rasulullah shallallahu 'alaihi wasallam] bahwa suatu rombongan datang kepada Nabi shallallahu 'alaihi wasallam, mereka bersaksi bahwa mereka telah melihat hilal kemarin. Maka beliau memerintahkan mereka (masyarakat) untuk berbuka puasa, dan keesokan harinya, mereka berpagi-pagi menuju ke tempat shalat (untuk melaksanakan shalat hari raya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1157</td></tr><tr><td>Arabic No</td><td>1157</td></tr><tr><td>Reference</td><td>Book 2 Hadith 768</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу ‘Умайр ибн Анас передаёт от своего дяди из числа сподвижников Пророка ﷺ что однажды к Пророку ﷺ приехали всадники, которые засвидетельствовали, что видели народившийся месяц накануне. (Пророк ﷺ) велел всем прервать пост, а утром отправиться к месту молитвы (для совершения праздничной молитве)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1157</td></tr><tr><td>Arabic No</td><td>1157</td></tr><tr><td>Reference</td><td>Book 2 Hadith 768</td></tr></tbody></table></div>
 

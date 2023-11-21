@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: I heard the Messenger of Allah (ﷺ) say: He who l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zaid bin Akhzam] telah menceritakan kepada kami [Abu Dawud] dari [Abu 'Awanah] dari ['Ashim] dari [Abu Utsman] dari [Ibnu Mas'ud] dia berkata; Saya mendengar Rasulullah Shallallahu alaihi wasallam bersabda; "Barangsiapa yang isbal (memanjangkan) pakaiannya (hingga melewati mata kaki) dalam shalat karena sombong, maka Allah tidak menghalalkan baginya surga dan tidak mengharamkan neraka untuknya." Abu Dawud berkata; Hadits ini diriwayatkan oleh Jama'ah dari ['Ashim] mauquf terhadap [Ibnu Mas'ud], di antara mereka adalah [Hammad bin Salamah] dan [Hammad bin Zaid] dan [Abul Ahwash] dan [Abu Mu'awiyah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>637</td></tr><tr><td>Arabic No</td><td>637</td></tr><tr><td>Reference</td><td>Book 2 Hadith 247</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Тот, кто совершает молитву опустив изар из-за высокомерия, тот не имеет отношения к Аллаху ни в дозволенном, ни в запретном”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>637</td></tr><tr><td>Arabic No</td><td>637</td></tr><tr><td>Reference</td><td>Book 2 Hadith 247</td></tr></tbody></table></div>
 

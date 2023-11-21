@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated (Abdullah) bin 'Umar:Allah's Messenger (ﷺ) forbade Al-Qaza' (leaving 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Abdullah bin Mutsanna bin Abdullah bin Anas bin Malik] telah menceritakan kepada kami [Abdullah bin Dinar] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam melarang qaza' (mencukur sebagian rambut kepala dan membiarkan sebagian yang lain)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>5921</td></tr><tr><td>Reference</td><td>Book 77 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ запретил каза‘
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>5921</td></tr><tr><td>Reference</td><td>Book 77 Hadith 136</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated through several other chains of transmitters, but 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami ['Amru] -yaitu Ibnu Al Harits- bahwa [Ibnu Syihab] telah mengabarkan kepadanya dari [Abu Idris Al Khaulani] dari [Abu Tsa'labah Al Khusyani], bahwa Rasulullah shallallahu 'alaihi wasallam melarang memakan setiap binatang buas yang bertaring." Dan telah menceritakan kepada kami [Abu At Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Malik bin Anas] dan [Ibnu Abu Dzi'ib] dan ['Amru bin Harits] dan [Yunus bin Yazid] serta yang lain. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Rafi'] dan ['Abdu bin Khumaid] dan ['Abdurrazaq] dari [Ma'mar]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yusuf bin Majisyun]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Al Khulwani] dan ['Abdu bin Khumaid] dari [Ya'qub bin Ibrahim bin Sa'ad] telah menceritakan kepada kami [Ayahku] dari [Shalih] mereka semua dari [Az Zuhri] dengan sanad ini seperti hadits Yunus dan 'Amru, semuanya menyebutkan Al Aklu (memakan), kecuali Shalih dan Yusuf. Dalam hadits keduanya disebutkan, 'Beliau melarang memakan setiap binatang buas yang bertaring
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4991</td></tr><tr><td>Arabic No</td><td>1932.04</td></tr><tr><td>Reference</td><td>Book 34 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4991</td></tr><tr><td>Arabic No</td><td>1932.04</td></tr><tr><td>Reference</td><td>Book 34 Hadith 20</td></tr></tbody></table></div>
 

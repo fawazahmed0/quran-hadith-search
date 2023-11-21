@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qatada b. Rib'i reported Allah's Messenger (ﷺ) as saying:Whenever a bier passe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] -terkait dengan hadits yang telah dibacakan kepadanya- dari [Muhammad bin Amru bin Halhalah] dari [Ma'bad bin Ka'ab bin Malik] dari [Abu Qatadah bin Rabi'i] bahwa ia menceritakan bahwasanya; Suatu ketika iringan jenazah lewat di hadapan Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda: "MUTARIIH dan MUSTARAAH." Para sahabat bertanya, "Wahai Rasulullah, apakah itu MUSTARIIH dan MUSTARAAH?" beliau menjawab, "Seorang hamba yang mukmin YASTARIH (akan beristirahat) dari memakmurkan dunia, sementara seorang hamba yang fajir, justru seluruh hamba, negeri, pepohonan dan binatang melata akan YASTARIH (beristirahat) dari (kezhalimannya) " Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Yahya bin Sa'id] -dalam jalur lain- Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abdurrazaq] semuanya dari [Abdullah bin Sa'id bin Abu Hind] dari [Muhammad bin Amru] dari [Ibnu Ka'ab bin Malik] dari [Abu Qatadah] dari Nabi shallallahu 'alaihi wasallam. Dan di dalam hadits Yahya bin Sa'id: "(Seorang hamba mukmin) akan beristirahat dari kesulitan dan kepenatan dunia menuju rahmat Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2202</td></tr><tr><td>Arabic No</td><td>950.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада ибн Риб‘и передавал, что (однажды) мимо Посланника Аллаха ﷺ пронесли погребальные носилки, и он сказал: «(Один) отдохнёт, а от другого отдохнут (другие)». (Люди стали) спрашивать: «О Посланник Аллаха, что значит “отдохнёт” и что значит “от другого отдохнут”?» (В ответ на это Пророк ﷺ) сказал: «Верующий раб отдохнёт от страданий мира этого, что же касается нечестивого раба, то от него отдохнут и (другие) рабы, и города, и деревья, и животные»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2202</td></tr><tr><td>Arabic No</td><td>950.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 80</td></tr></tbody></table></div>
 

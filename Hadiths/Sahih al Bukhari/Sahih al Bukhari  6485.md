@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If you knew that which I kno
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Sa'id bin Musayyab], bahwasnya [Abu Hurairah] radliallahu 'anhu menuturkan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalaulah kalian tahu yang kutahu, niscaya kalian sedikit tertawa dan banyak menangis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6485</td></tr><tr><td>Arabic No</td><td>6485</td></tr><tr><td>Reference</td><td>Book 81 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если бы знали вы то, что известно мне, то, конечно же, смеялись бы мало, а плакали много!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6485</td></tr><tr><td>Arabic No</td><td>6485</td></tr><tr><td>Reference</td><td>Book 81 Hadith 74</td></tr></tbody></table></div>
 

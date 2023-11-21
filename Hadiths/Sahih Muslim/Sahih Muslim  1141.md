@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha, la femme du Prophète (raa) a dit : "Le Prophète (paix et bénédiction
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Waki'] dari [Hisyam] dari [Bapaknya] dari [Aisyah] dia berkata, "Dahulu Nabi Shallallahu'alaihiwasallam melakukan shalatnya pada sebagian malam seluruhnya, sedangkan aku (tidur) melintang antara beliau dan kiblat. Apabila beliau berkehendak untuk shalat witir maka beliau membangunkanku, lalu aku pun berwitir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1141</td></tr><tr><td>Arabic No</td><td>512.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 303</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Обычно Пророк ﷺ совершал молитву ночью, а я лежала поперёк между ним и киблой. Когда же он хотел совершить молитву витр, он будил меня, и я тоже совершала молитву витр»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1141</td></tr><tr><td>Arabic No</td><td>512.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 303</td></tr></tbody></table></div>
 

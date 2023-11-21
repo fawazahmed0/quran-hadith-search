@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'tamir:I heard my father saying, "I saw Anas wearing a yellow hooded 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5802</td></tr><tr><td>Arabic No</td><td>5802</td></tr><tr><td>Reference</td><td>Book 77 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘тамир сказал: «Я слышал, как мой отец сказал: “Я видел Анаса в жёлтом плаще с капюшоном /бурнус/, сшитым из шерстяной ткани с примесью шёлка /хазз/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5802</td></tr><tr><td>Arabic No</td><td>5802</td></tr><tr><td>Reference</td><td>Book 77 Hadith 20</td></tr></tbody></table></div>
 

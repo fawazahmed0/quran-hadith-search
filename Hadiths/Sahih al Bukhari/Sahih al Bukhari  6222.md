@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The Prophet (ﷺ) ordered us to do seven (things) and forbade u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Al Asy'ats bin Sulaim] dia berkata; saya mendengar [Mu'awiyah bin Suwaid bin Muqarrin] dari [Al Barra'] radliallahu 'anhu dia berkata; "Nabi shallallahu 'alaihi wasallam memerintahkan kami tujuh perkara dan melarang tujuh perkara, beliau memerintahkan menjenguk orang sakit, mengiringi jenazah, mendo'akan orang yang bersin, memenuhi undangan, menjawab salam dan menolong orang yang terzhalimi serta melaksanakan sumpah, dan beliau melarang tujuh perkara, yaitu; mengenakan cincin emas, atau bersabda; kalung emas, mengenakan sutera, dibaj (sejenis sutera), Sundus (kain yang terbuat dari sutera) dan mayasir (mantel yang bertutup kepala yang terbuat dari sutera)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6222</td></tr><tr><td>Arabic No</td><td>6222</td></tr><tr><td>Reference</td><td>Book 78 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Пророк ﷺ велел нам делать семь (вещей) и запретил нам семь (других). Он велел нам навещать больного, провожать погребальные носилки, произносить благопожелание чихнувшему, принимать приглашения, отвечать на приветствия помогать притесняемому и выполнять клятвы того, кто даёт их. И он запретил нам семь (вещей): (носить) золотые перстни (или: кольца), шёлковую одежду, чистый шёлк, атлас и (пользоваться) подушками в шёлковых чехлах, которые кладут на сёдла верховых животных»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6222</td></tr><tr><td>Arabic No</td><td>6222</td></tr><tr><td>Reference</td><td>Book 78 Hadith 246</td></tr></tbody></table></div>
 

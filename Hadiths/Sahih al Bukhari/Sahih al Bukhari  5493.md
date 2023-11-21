@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:We went out in a campaign and the army was called The Army of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij] ia berkata; telah mengabarkan kepadaku [Amru] Bahwasanya ia mendengar [Jabir] radliallahu 'anhu berkata, "Kami berperang dalam pertempuran Khabath, dan saat itu yang diangkat sebagai pemimpin adalah Abu Ubaidah. Kemudian kami merasakan kelaparan yang melilit, lalu laut mendamparkan seekor hiu besar yang disebut dengan nama al Anbar, dan belum pernah ada ikan sebesar itu. Maka selama setengah bulan kami hanya makan darinya, Abu Ubaidah lalu mengambil satu tulang dari ikan tersebut, dan (karena besarnya) seorang penunggang kuda dapat lewat di bawahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5493</td></tr><tr><td>Arabic No</td><td>5493</td></tr><tr><td>Reference</td><td>Book 72 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Мы отправились в поход, (именуемый) “Армия Хабат”, под руководством Абу ‘Убайды, и нас поразил сильный голод. (Затем) море выбросило нам мёртвое животное, именуемое “‘анбар”, подобной которой никогда не видели. Мы ели его в течение полмесяца, а затем Абу Убайда взял одну из его костей (и сделал из неё арку), чтобы всадник мог легко проехать под ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5493</td></tr><tr><td>Arabic No</td><td>5493</td></tr><tr><td>Reference</td><td>Book 72 Hadith 19</td></tr></tbody></table></div>
 

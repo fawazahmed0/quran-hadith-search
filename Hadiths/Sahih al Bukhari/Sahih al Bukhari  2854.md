@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Qatada:(from his father) Abu Qatada went out (on a jo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Abu Bakar] telah bercerita kepada kami [Fudhail bin Sulaiman] dari [Abu Hazim] dari ['Abdullah bin Abu Qatadah] dari [bapaknya] bahwa dia pernah keluar bepergian bersama Nabi shallallahu 'alaihi wasallam lalu Abu Qatadah tertinggal bersama dengan sebagian sahabat yang sudah berihram sedangkan dia tidak berihram. Lalu mereka melihat seekor keledai liar sebelum dia melihatnya. Ketika mereka melihat keledai tersebut maka mereka meninggalkan Abu Qatadah hingga ketika dia melihatnya dia segera saja menunggang kuda miliknya yang dinamakan al-Jaradah. Lalu dia meminta agar mereka melemparkan tombaknya kepadanya namun mereka tidak mau. Akhirnya dia sendiri mengambil tombaknya lalu dibawanya hingga dia dapat menyembelih (dengan cara menikam) keledai tersebut. Kemudian dia memakannya dan mereka pun ikut memakannya namun kemudian mereka menyesal. Setelah mereka bertemu dengan Beliau shallallahu 'alaihi wasallam, Beliau bertanya: "Apakah kalian masih punya sisa darinya". Dia berkata: "Masih ada pada kami kakinya". Maka Nabi shallallahu 'alaihi wasallam mengambil lalu memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2854</td></tr><tr><td>Arabic No</td><td>2854</td></tr><tr><td>Reference</td><td>Book 56 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Катады, что он сопровождал Пророка ﷺ, (а по дороге в Мекку) отстал вместе с двумя товарищами. Они были в состоянии ихрама, а он нет. Они увидели дикого осла, прежде чем он увидел его. Увидев дикого осла, они ничего не говорили, пока Абу Катада сам его не увидел. Тогда он сел верхом на своего коня по имени аль-Джарада, и попросил товарищей подать ему плеть, но они отказались. Тогда он сам его взял, а потом погнался за ослом и убил его. Затем он поел это мясо, и некоторые его спутники тоже ели, но потом пожалели об этом. Встретившись с Посланником Аллаха ﷺ, они спросили его об этом, и он сказал: «У вас есть с собой что-нибудь из этого мяса?» Они ответили: «Да, у нас есть его нога». Тогда Пророк ﷺ взял её и поел
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2854</td></tr><tr><td>Arabic No</td><td>2854</td></tr><tr><td>Reference</td><td>Book 56 Hadith 70</td></tr></tbody></table></div>
 

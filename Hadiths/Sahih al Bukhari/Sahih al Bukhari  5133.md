@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:that the Prophet (ﷺ) married her when she was six years old an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha, bahwasanya; Nabi shallallahu 'alaihi wasallam menikahinya saat ia berumur enam tahun, dan ia digauli saat berumur sembilan tahun. Dan Aisyah hidup bersama dengan beliau selama sembilan tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5133</td></tr><tr><td>Arabic No</td><td>5133</td></tr><tr><td>Reference</td><td>Book 67 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала, что Пророк ﷺ женился на ней, когда ей было шесть лет, а привели её к нему, когда ей было девять. Затем она жила с ним в течение девяти лет
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5133</td></tr><tr><td>Arabic No</td><td>5133</td></tr><tr><td>Reference</td><td>Book 67 Hadith 69</td></tr></tbody></table></div>
 

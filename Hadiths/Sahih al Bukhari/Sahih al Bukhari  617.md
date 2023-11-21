@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim bin 'Abdullah:My father said that Allah s Apostle said, "Bilal pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Salim bin 'Abdullah] dari [Bapaknya], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Bilal mengumandangkan adzan saat masih malam, maka makan dan minumlah sampai kalian mendengar adzan Ibnu Ummi Maktum." Perawi berkata, "Ibnu UmmuiMaktum adalah seorang sahabat yang buta, ia tidak akan mengumandangkan adzan (shubuh) hingga ada orang yang mengatakan kepadanya, 'Sudah shubuh, sudah shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>617</td></tr><tr><td>Arabic No</td><td>617</td></tr><tr><td>Reference</td><td>Book 10 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Посланник Аллаха ﷺ сказал: «Поистине, Биляль возглашает азан ночью, поэтому (продолжайте) есть и пить, пока призыв не начнёт возглашать Ибн Умм Мактум». Затем (передатчик этого хадиса) сказал: «А он был слепым и не начинал призывать к молитве, пока ему не говорили: “Светает, светает!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>617</td></tr><tr><td>Arabic No</td><td>617</td></tr><tr><td>Reference</td><td>Book 10 Hadith 15</td></tr></tbody></table></div>
 

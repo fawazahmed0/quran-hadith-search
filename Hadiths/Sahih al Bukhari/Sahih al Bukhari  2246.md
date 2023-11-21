@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakhtari at-Tai:I asked Ibn 'Abbas about Salam for (the fruits of) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepada kami ['Amru] berkata; Aku mendengar [Abu Al Bakhtariy Ath-Tho'iy] berkata: "Aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhuma] tentang As-Salam pada pohon kurma. Maka dia berkata: "Nabi shallallahu 'alaihi wasallam telah melarang menjual pohon kurma hingga buahnya layak dimakan dan ditimbang". Berkata, seseorang: "Bagaimana caranya ditimbang?" Berkata, seseorang yang ada di sebelahnya: "Hingga bisa dipelihara (dismpan). Dan berkata, [Mu'adz] telah menceritakan kepada kami [Syu'bah] dari ['Amru] berkata, [Abu Al Bakhtariy] aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi shallallahu 'alaihi wasallam melarang hal yang semacam itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2246</td></tr><tr><td>Arabic No</td><td>2246</td></tr><tr><td>Reference</td><td>Book 35 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу аль-Бахтари ат-Таи сказал: «Я спросил Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, о предварительной оплате (салям) за финики на пальмах. Он ответил: “Пророк ﷺ запретил продавать финики на пальмах до тех пор, пока они не станут пригодны для еды и не будут взвешены”. Тогда один человек сказал: “А как же их взвесить (ведь финики всё ещё на пальмах)!?” Человек, который сидел рядом ответил: “Пока он не будут собраны и сохранены”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2246</td></tr><tr><td>Arabic No</td><td>2246</td></tr><tr><td>Reference</td><td>Book 35 Hadith 9</td></tr></tbody></table></div>
 

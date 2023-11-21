@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Malik:We came to the Prophet (ﷺ) and stayed with him for twenty days 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami ['Abdul Wahhab] berkata, telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] berkata, telah menceritakan kepada kami [Malik], "Kami datang menemui Nabi shallallahu 'alaihi wasallam, saat itu kami adalah para pemuda yang usianya sebaya. Maka kami tinggal bersama beliau selama dua puluh hari dua puluh malam. Beliau adalah seorang yang sangat penuh kasih dan lembut. Ketika beliau menganggap bahwa kami telah ingin, atau merindukan keluarga kami, beliau bertanya kepada kami tentang orang yang kami tinggalkan. Maka kami pun mengabarkannya kepada beliau. Kemudian beliau bersabda: "Kembalilah kepada keluarga kalian dan tinggallah bersama mereka, ajarilah mereka dan perintahkan (untuk shalat)." Beliau lantas menyebutkan sesuatu yang aku pernah ingat lalu lupa. Beliau mengatakan: "Shalatlah kalian seperti kalian melihat aku shalat. Maka jika waktu shalat sudah tiba, hendaklah salah seorang dari kalian mengumandangkan adzan, dan hendaklah yang menjadi Imam adalah yang paling tua di antara kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>631</td></tr><tr><td>Arabic No</td><td>631</td></tr><tr><td>Reference</td><td>Book 10 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Килаба сказал:\n— Малик ибн аль-Хувайрис, да будет доволен им Всевышний Аллах, рассказывал нам: «(В своё время) мы пришли к Пророку ﷺ, а все мы были молодыми людьми (из одного племени) примерно (одного возраста). И мы прожили у него двадцать дней и ночей, а Посланник Аллаха ﷺ был добр и мягок с нами, решив же, что мы стали тосковать по своим семьям (или: что мы измучились), он спросил нас о том, кто остался у нас (дома), и мы рассказали ему (об этом). Тогда он сказал: “Возвращайтесь к своим семьям и оставайтесь с ними, учите их (религии) и велите им творить (благое)” — и он упомянул о некоторых вещах, часть которых я запомнил, а другую забыл: “Совершайте молитву так же, как на ваших глазах молился я, а когда наступит время молитвы, пусть один из вас произнесёт для вас азан, а самый старший будет вашим имамом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>631</td></tr><tr><td>Arabic No</td><td>631</td></tr><tr><td>Reference</td><td>Book 10 Hadith 28</td></tr></tbody></table></div>
 

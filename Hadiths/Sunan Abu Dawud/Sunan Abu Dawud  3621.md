@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Ash’ath b. Qais said:A Jew and I shared some land and he denied my right, s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari [Al Asy'ats] ia berkata, "Aku dan seorang laki-laki Yahudi berselisih atas sebuah lahan, kemudian ia mengingkariku. Maka aku pun datang menemui Nabi shallallahu 'alaihi wasallam dan mengadukan hal itu kepadanya, Nabi shallallahu 'alaihi wasallam lalu berkata kepadaku: "Apakah engkau memiliki bukti?" Aku menjawab, "Tidak." Beliau bersabda kepada orang Yahudi tersebut: "Bersumpahlah!" Maka aku katakan, "Wahai Rasulullah, jika demikian ia akan bersumpah dan membawa hartaku!" Kemudian Allah menurunkan ayat: '(Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit…) ' (Qs. Ali Imran: 77) hingga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2616، 2617) Sahih Muslim (138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Аш‘аса: «Один иудей не хотел отдавать мне мою землю, и мы вели тяжбу из-за неё. Я привёл его к Пророку ﷺ и Пророк ﷺ сказал мне: “Есть ли у тебя доказательство?” Я ответил: “Нет”. Тогда он сказал иудею: “Поклянись”. Я возразил: “О Посланник Аллаха! Но ведь он сейчас поклянётся, и я лишусь своего имущества!” Тогда Аллах ниспослал: “Воистину, тем, которые продают завет с Аллахом и свои клятвы за ничтожную цену, нет доли в Последней жизни. Аллах не станет говорить с ними, не посмотрит на них в День воскресения и не очистит их. Им уготованы мучительные страдания” (сура “Али ‘Имран”, аят 77)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2616، 2617) Sahih Muslim (138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
 

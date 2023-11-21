@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When the Muslims arrived at Medina, they used to assemble for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Ghailan] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Nafi'] bahwa [Ibnu 'Umar] berkata, "Ketika Kaum Muslimin tiba di Madinah, mereka berkumpul untuk shalat dengan cara memperkirakan waktunya, dan tidak ada panggilan untuk pelaksanaan shalat. Suatu hari mereka memperbincangkan masalah tersebut, di antara mereka ada yang mengusulkan lonceng seperi loncengnya Kaum Nashrani dan sebagaian lain mengusulkan untuk meniup terampet sebagaimana Kaum Yahudi. Maka 'Umar pun berkata, "Mengapa tidak kalian suruh seseorang untuk mengumandangkan panggilan shalat?" Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Wahai Bilal, bangkit dan serukanlah panggilan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>604</td></tr><tr><td>Arabic No</td><td>604</td></tr><tr><td>Reference</td><td>Book 10 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Нафи‘а о том, что Ибн ‘Умар, да будет доволен Аллах ими обоими, говорил: «(В первое время после переселения) в Медину мусульмане, собиравшиеся на молитву, (старались) определить, когда им начинать его, так как никто к нему не призывал. Однажды они стали обсуждать этот вопрос, и некоторые сказали: “Заведите себе такой же колокол, как и у христиан”. Другие сказали: “Нет, (лучше) трубу наподобие рога иудеев”, что же касается ‘Умара, то он сказал: “А не поручить ли вам какому-нибудь человеку призывать (других) к молитве?” И тогда Посланник Аллаха ﷺ велел: “О Билял, встань и призови (людей) к молитве!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>604</td></tr><tr><td>Arabic No</td><td>604</td></tr><tr><td>Reference</td><td>Book 10 Hadith 2</td></tr></tbody></table></div>
 

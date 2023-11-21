@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Zaid b. 'Amr b. Nufail (Allah be pleased with them) reported Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ali bin Hujr] mereka berkata; telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Ja'far- dari [Al 'Ala bin Abdurrahman] dari [Abbas bin Sahl bin Sa'd As Sa'idi] dari [Sa'id bin Zaid bin 'Amru bin Nufail], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengambil sejengal tanah saudaranya dengan zhalim, niscaya Allah akan menghimpitnya dengan tujuh lapis bumi pada hari Kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4132</td></tr><tr><td>Arabic No</td><td>1610.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4132</td></tr><tr><td>Arabic No</td><td>1610.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 171</td></tr></tbody></table></div>
 

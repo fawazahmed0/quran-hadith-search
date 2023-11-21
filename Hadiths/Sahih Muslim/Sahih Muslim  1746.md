@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Arqam, on seeing some people praying in the forenoon, said:They well kno
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Ibnu Numair] keduanya berkata; telah menceritakan kepada kami [Ismail yaitu Ibnu 'Ulayyah] dari [Ayyub] dari [Al Qasim Asy Syaibani] bahwa [Zaid bin Arqam] pernah melihat suatu kaum yang tengah mengerjakan shalat dluha, lalu dia berkata; "Tidakkah mereka tahu bahwa shalat diluar waktu ini lebih utama? sebab Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat awwabin (orang yang bertaubat) dikerjakan ketika anak unta mulai beranjak karena kepanasan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>748.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Къасим аш-Шайбани передал, что, увидев каких-то людей, которые совершали дополнительную утреннюю/духа/ молитву, Зейд ибн Аркъам, да будет доволен им Аллах, сказал: «Поистине, они знали, что совершать эту молитву в другое время лучше, ведь Посланник Аллаха ﷺ сказал: “(Время) молитвы кающихся/аввабин/ (наступает тогда), когда (земля начинает) обжи­гать (лапы) верблюжат”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>748.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 175</td></tr></tbody></table></div>
 

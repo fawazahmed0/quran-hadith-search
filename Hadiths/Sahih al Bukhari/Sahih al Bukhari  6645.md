@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:An Ansari woman came to the Prophet (ﷺ) in the company
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6645</td></tr><tr><td>Arabic No</td><td>6645</td></tr><tr><td>Reference</td><td>Book 83 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах, что однажды одна женщина из числа ансаров пришла к Пророку ﷺ вместе со своими детьми, и Пророк ﷺ сказал ей трижды: «Клянусь Тем, в Чьей руке душа моя, поистине, для меня вы — самые любимые люди!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6645</td></tr><tr><td>Arabic No</td><td>6645</td></tr><tr><td>Reference</td><td>Book 83 Hadith 24</td></tr></tbody></table></div>
 

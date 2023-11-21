@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:A man said, "O Allah's Messenger (ﷺ)! Which sin is the grea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6861</td></tr><tr><td>Arabic No</td><td>6861</td></tr><tr><td>Reference</td><td>Book 87 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Шурахбиль сказал:\n— ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал:\n«(Однажды) какой-то мужчина спросил: “О Посланник Аллаха, какой грех является величайшим пред Аллахом?” Он ответил: “Приравнивание кого бы то ни было к Аллаху, Который создал тебя”. (Тот человек) спросил: “А после этого?” Он ответил: “Убийство своего ребёнка из страха перед тем, что он будет есть вместе с тобой”. (Тот снова) спросил: “А после этого?” Он ответил: “Совершение прелю­бодеяния с женой твоего соседа”, и в подтверждение этих слов Великий и Всемогу­щий Аллах ниспослал аят, (в котором сказано) “…и (рабами Милостивого являются) те, которые не взывают (ни к какому иному) богу наряду с Аллахом, и не убивают человека, которого Аллах запретил (убивать), иначе как по праву, и не прелюбодействуют. Тот же, кто поступит так …” и до конца аята (сура «аль-Фуркъан», аят 68)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6861</td></tr><tr><td>Arabic No</td><td>6861</td></tr><tr><td>Reference</td><td>Book 87 Hadith 1</td></tr></tbody></table></div>
 

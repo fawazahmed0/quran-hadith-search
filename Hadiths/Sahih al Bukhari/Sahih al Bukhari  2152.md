@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If a slave-girl commits illegal se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] berkata, telah menceritakan kepada saya [Sa'id Al Maqbariy] dari [Bapaknya] dari [Abu Hurairah radliallahu 'anhu] bahwa dia mendengarnya berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Jika seorang budak wanita berzina dan terbukti perzinahannya maka dia dihukum cambuk tanpa dicela dan dihinakan. Jika berzina lagi maka dihukum cambuk tanpa dicela dan dihinakan dan jika berzina lagi untuk ketiga kalinya maka juallah sekalipun dengan harga senilai sehelai rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2152</td></tr><tr><td>Arabic No</td><td>2152</td></tr><tr><td>Reference</td><td>Book 34 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если рабыня совершит прелюбодеяние и о её прелюбодеянии станет известно, пусть (хозяин) подвергнет её (установленному шариатом) бичеванию, не браня её, и если она совершит прелюбодеяние (снова), пусть он подвергнет её бичеванию, не браня её, если же после этого она совершит прелюбодеяние в третий раз, пусть он продаст её хотя бы за волосяную верёвку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2152</td></tr><tr><td>Arabic No</td><td>2152</td></tr><tr><td>Reference</td><td>Book 34 Hadith 104</td></tr></tbody></table></div>
 

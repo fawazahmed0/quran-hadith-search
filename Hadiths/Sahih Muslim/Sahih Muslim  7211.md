@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported Allah's Messenger (ﷺ) as say- ing:When any one of you dies,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] berkata: Aku meriwayatkan dari [Malik] dengan membaca, dari [Nafi'] dari [Ibnu Umar] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya salah seorang dari kalian bila meninggal dunia, tempatnya diperlihatkan pada pagi dan sore hari, bila termasuk penghuni surga, ia termasuk penghuni surga dan bila termasuk penghuni neraka, ia termasuk penghuni neraka. Dikatakan: 'Inilah tempatmu hingga Allah membangkitkanmu kepadanya pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7211</td></tr><tr><td>Arabic No</td><td>2866.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7211</td></tr><tr><td>Arabic No</td><td>2866.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 80</td></tr></tbody></table></div>
 

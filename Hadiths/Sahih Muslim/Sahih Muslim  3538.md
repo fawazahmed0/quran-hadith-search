@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), L'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] sedangkan lafazhnya dari Al Mutsanna keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata; Saya pernah mendengar [Qatadah] telah menceritakan dari [Zurarah bin Aufa] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila seorang istri enggan bermalam dengan memisahkan diri dari tempat tidur suaminya, maka Malaikat akan melaknatnya sampai pagi." Dan telah menceritakan kepadaku [Yahya bin Habib] telah menceritakan kepada kami [Khalid] yaitu Ibnu Al Harits, telah menceritakan kepada kami [Syu'bah] dengan isnad ini, beliau bersabda: "Sampai dia (istri) kembali (kepada suaminya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3538</td></tr><tr><td>Arabic No</td><td>1436.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если женщина проведёт ночь не на ложе своего мужа, ангелы будут проклинать её до самого утра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3538</td></tr><tr><td>Arabic No</td><td>1436.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 140</td></tr></tbody></table></div>
 

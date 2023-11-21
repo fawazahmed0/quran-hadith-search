@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:We did not eat the flesh of sacrificed animals beyon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Zakaria bin 'Adi] dari [Ubaidillah bin 'Amru] dari [Zaid bin Abu Unaisah] dari ['Atha bin Abu Rabah] dari [Jabir bin Abdullah] dia berkata, "Kami tidak menyimpan daging kurban setelah tiga hari, lantas Rasulullah shallallahu 'alaihi wasallam memerintahkan kami untuk menyimpannya sebagai perbekalan, dan kami pun memakan daging tersebut setelah tiga hari." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin Uyainah] dari ['Amru] dari ['Atha] dari [Jabir] dia berkata, "Kami menyimpannya untuk perbekalan ke Madinah pada masa Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5106</td></tr><tr><td>Arabic No</td><td>1972.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5106</td></tr><tr><td>Arabic No</td><td>1972.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 43</td></tr></tbody></table></div>
 

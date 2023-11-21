@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala] telah menceritakan kepada kami [Ibnu Mubarak] dari [Ma'mar]. (dalam riwayat lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rafi'] sedangkan susunan redaksi hadits ini berasal dari dia, telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata, "Ini adalah beberapa hadits yang pernah diceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, lalu dia menyebutkan beberapa hadits yang di antaranya adalah, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dulu ada seorang Nabi dari para Nabi yang hendak berperang, lalu dia berkata kepada kaumnya: 'Janganlah ikut serta berperang bersamaku, yaitu orang yang telah menikah dan ingin menggauli isterinya, orang-orang yang sedang membangun rumah dan ia belum sempat menaikkan atapnya, atau orang yang telah membeli seekor kambing atau seekor unta bunting, sementara ia tengah menunggu kelahiran anak ternak tersebut'. Lalu Nabi tersebut berangkat berperang, menjelang waktu Ashar, ia telah sampai di suatu perkampungan, lalu dia berkata kepada Matahari: 'Hai Matahari, kamu diperintah dan aku pun diperintah'. Setelah itu dia berdo'a: 'Ya Allah, hentikanlah laju putaran matahari demi kepentingan urusanku'. Lalu matahari pun berhenti, hingga Allah dapat memenangkan mereka atas musuhnya. Setelah harta rampasan perang terkumpul menjadi satu, tiba-tiba api yang ingin menyambar harta rampasan tersebut tidak jadi menyambarnya. Lantas Nabi tersebut berkata, 'Di antara kalian pasti ada yang menyembunyikan harta rampasan, maka hendaklah setiap orang dari berbagai kabila berbaiat kepadaku!. Maka, mereka pun berbaiat kepada Nabi tersebut dengan menjabat tangannya. Lalu dia berkata lagi, 'Di antara kalian pasti ada yang menyembunyikan harta rampasan, hendaknya setiap kabilah berbaiat kepadaku!. lalu dia menjabat tangan dua orang laki-laki atau tiga orang laki-laki sekaligus, lantas Nabi tersebut berkata, 'Kalian telah menyembunyikan harta rampasan'." Rasulullah melanjutkan: "Setelah itu mereka mengeluarkan seonggok emas sebesar kepala sapi dan menyerahkan kepada Nabi tersebut, lalu dia meletakkanya pada tumpukan harta rampasan yang berada di atas bukit. Tidak lama kemudian, api datang melahap harta rampasan tersebut." Setelah itu beliau bersabda: "Harta rampasan perang itu sama sekali tidak dihalalkann bagi salah seorang sebelum kita, karena Allah mengetahui kelemahan dan kekurangan kita, akhirnya Allah menghalalkannya atas kita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4555</td></tr><tr><td>Arabic No</td><td>1747</td></tr><tr><td>Reference</td><td>Book 32 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4555</td></tr><tr><td>Arabic No</td><td>1747</td></tr><tr><td>Reference</td><td>Book 32 Hadith 36</td></tr></tbody></table></div>
 

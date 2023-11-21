@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "My similitude in comparison 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Isma'il bin Ja'far] dari ['Abdullah bin Dinar] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaanku dan nabi-nabi sebelumku seperti seseorang yang membangun suatu rumah lalu dia membaguskannya dan memperindahnya kecuali ada satu labinah (tempat lubang batu bata yang tertinggal belum diselesaikan) yang berada di dinding samping rumah tersebut, lalu manusia mengelilinginya dan mereka terkagum-kagum sambil berkata; 'Duh seandainya ada orang yang meletakkan labinah (batu bata) di tempatnya ini". Beliau bersabda: "Maka akulah labinah itu dan aku adalah penutup para nabi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3535</td></tr><tr><td>Arabic No</td><td>3535</td></tr><tr><td>Reference</td><td>Book 61 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, для сравнения меня с (жившими) прежде пророками (можно привести притчу) о человеке, который построил хороший дом и (полностью) украсил его, если не считать (того, что не хватало последнего) кирпича в (одном из его) углов. И люди стали ходить вокруг (этого дома), дивясь (его красоте) и говоря: “Вот если бы и этот кирпич был на месте!”» (Пророк ﷺ также) сказал: «Я и есть этот кирпич, и я — последний из пророков»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3535</td></tr><tr><td>Arabic No</td><td>3535</td></tr><tr><td>Reference</td><td>Book 61 Hadith 44</td></tr></tbody></table></div>
 

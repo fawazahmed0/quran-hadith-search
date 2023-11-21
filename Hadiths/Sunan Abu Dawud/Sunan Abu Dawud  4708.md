@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6594) Sahih Muslim (2643)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4708</td></tr><tr><td>Arabic No</td><td>4708</td></tr><tr><td>Reference</td><td>Book 42 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Мас‘уд сказал: «Правдивый и тот, кому говорил правду, Посланник Аллаха ﷺ сказал нам: “Поистине, в течение сорока дней каждый из вас сначала собирается в чреве матери, затем подобным образом пребывает там в виде сгустка крови /‘аляка/ и подобным же образом в виде кусочка плоти /мудга/, а затем Аллах направляет ангела, который получает веление записать четыре вещи: его удел, его жизненный срок, его дела, а также то, счастливым он будет или злосчастным, а затем вдыхает в него дух. И поистине, любой из вас может совершать дела обитателей Рая, пока не окажется от Рая на расстоянии всего лишь одного локтя, а потом возобладает написанное ему на роду (злосчастье), и он станет совершать дела обитателей Огня и войдёт в Огонь. И, поистине, любой из вас может совершать дела обитателей Огня, пока не окажется от Огня на расстоянии всего лишь одного локтя, а потом возобладает написанное ему на роду (счастье), и он станет совершать дела обитателей Рая и войдёт в Рай”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6594) Sahih Muslim (2643)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4708</td></tr><tr><td>Arabic No</td><td>4708</td></tr><tr><td>Reference</td><td>Book 42 Hadith 113</td></tr></tbody></table></div>
 

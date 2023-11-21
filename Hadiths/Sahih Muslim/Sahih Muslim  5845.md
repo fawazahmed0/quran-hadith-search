@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) said about the gecko as a noxious c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah] keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam menamai cecak dengan Fuwaisiq. Harmalah menambahkan; 'Dan aku belum mendengar beliau menyuruh untuk membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5845</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 39 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши о том, что Посланник Аллаха ﷺ назвал ящерицу фувайсикъ.Хармаля добавил: «(‘Аиша) сказала: “Но я не слышала, чтобы он велел убить её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5845</td></tr><tr><td>Arabic No</td><td>2239</td></tr><tr><td>Reference</td><td>Book 39 Hadith 196</td></tr></tbody></table></div>
 

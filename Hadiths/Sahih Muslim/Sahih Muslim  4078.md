@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Fadala b. 'Ubaid reported:We were in the company of Allah's Messenger ( may peac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Abu Ja'far] dari [Julah Abu Katsir] telah menceritakan kepadaku [Hanas As Shan'ani] dari [Fadlalah bin 'Ubaid] dia berkata, "Pada penaklukan Khaibar, kami bersama Rasulullah shallallahu 'alaihi wasallam membeli dari seorang Yahudi satu uqiyah emas seharga dua atau tiga dinar. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh jual beli emas, kecuali sama berat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4078</td></tr><tr><td>Arabic No</td><td>1591.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4078</td></tr><tr><td>Arabic No</td><td>1591.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 117</td></tr></tbody></table></div>
 

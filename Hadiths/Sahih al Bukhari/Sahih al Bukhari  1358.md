@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Shihab:The funeral prayer should be offered for every child even if
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] berkata, [Ibnu Syihab]: "Setiap anak yang wafat wajib dishalatkan sekalipun anak hasil zina karena dia dilahirkan dalam keadaan fithrah Islam, jika kedua orangnya mengaku beragama Islam atau hanya bapaknya yang mengaku beragama Islam meskipun ibunya tidak beragama Islam selama anak itu ketika dilahirkan mengeluarkan suara (menangis) dan tidak dishalatkan bila ketika dilahirkan anak itu tidak sempat mengeluarkan suara (menangis) karena dianggap keguguran sebelum sempurna, berdasarkan perkataan [Abu Hurairah radliallahu 'anhu] yang menceritakan bahwa Nabi Shallallahu'alaihiwasallam bersabda: "Tidak ada seorang anakpun yang terlahir kecuali dia dilahirkan dalam keadaan fithrah. Maka kemudian kedua orang tuanyalah yang akan menjadikan anak itu menjadi Yahudi, Nashrani atau Majusi sebagaimana binatang ternak yang melahirkan binatang ternak dengan sempurna. Apakah kalian melihat ada cacat padanya?". Kemudian Abu Hurairah radliallahu 'anhu berkata, (mengutip firman Allah QS Ar-Ruum: 30 yang artinya: ('Sebagai fitrah Allah yang telah menciptakan manusia menurut fitrah itu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1358</td></tr><tr><td>Arabic No</td><td>1358</td></tr><tr><td>Reference</td><td>Book 23 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Шихаб сказал: «Заупокойная молитва должна совершаться за каждого умершего ребенка, даже если он будет ребенком блудницы или неверующей женщины, потому что он был рожден на “фитре” (врожденное чувство) ислама, его родители мусульмане, или только его отец, и даже если его мать не является мусульманкой. Если ребенок, (после родов) успел заплакать (перед смертью), то за него совершается заупокойная молитва. Если же ребенок не плачет после родов (то есть родился мертвым), то заупокойная молитва за него не совершается, потому что он является выкидышем. Абу Хурайра, да будет доволен им Аллах, рассказывал, что Пророк ﷺ сказал: “Каждый человек рождается на “фитре” (врожденное чувство ислама), а уже потом родители делают из него иудея или христианина, подобно тому, как верблюды появляются на свет целыми. Видел ли ты среди них верблюда, (родившегося) с отрезанной конечностью?” Затем Абу Хурайра, да будет доволен им Аллах, добавил: “Таково врожденное качество, с которым Аллах сотворил людей” (сура “Ар-Рум”, аят 30)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1358</td></tr><tr><td>Arabic No</td><td>1358</td></tr><tr><td>Reference</td><td>Book 23 Hadith 111</td></tr></tbody></table></div>
 

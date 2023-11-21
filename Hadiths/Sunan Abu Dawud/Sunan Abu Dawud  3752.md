@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] bahwa ia berkata, "Kami bertanya, "Wahai Rasulullah, ketika tuan mengirim kami, maka kami singgah di suatu kaum, namun mereka tidak mau menjamu kami, bagaimana pendapat anda?" Rasulullah shallallahu 'alaihi wasallam lalu bersabda kepada kami: "Apabila kalian singgah di suatu kaum, lalu mereka memberikan apa yang layak bagi tamu maka terimalah, namun jika mereka tidak melakukannya maka ambillah apa yang berhak bagi seorang tamu dari mereka." Abu Daud berkata, "Ini adalah dalil bagi seorang laki-laki untuk mengambil jika sesuatu itu adalah haknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6137) Sahih Muslim (1727)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3752</td></tr><tr><td>Arabic No</td><td>3752</td></tr><tr><td>Reference</td><td>Book 28 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Укба ибн ‘Амир, да будет доволен им Аллах, передаёт: «Мы сказали: “О Посланник Аллаха! Ты посылаешь нас (в военный поход или в составе делегации), и мы останавливаемся у людей, а они не оказывают нам гостеприимства. Что нам делать?” Посланник Аллаха ﷺ сказал нам: “Если вы пришли к каким-нибудь людям, и они велели предоставить вам то, что положено предоставлять гостю, то примите от них. Если же они отказывают вам, то берите сами то, что причитается вам”». Абу Дауд сказал: «Это довод в пользу человека, который берёт сам то, на что имеет право»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6137) Sahih Muslim (1727)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3752</td></tr><tr><td>Arabic No</td><td>3752</td></tr><tr><td>Reference</td><td>Book 28 Hadith 17</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Qudamah bin A'yan] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Hilal yaitu Ibnu Yasaf] dari [Abu Yahya] dari [Abdullah bin 'Amru] dia berkata; pernah di sampaikan kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalatnya seseorang dengan duduk itu mendapatkan pahala separuh shalat." Maka aku pergi menemui beliau dan aku dapati beliau tengah mengerjakan shalat dengan duduk, maka aku meletakkan kedua tangan di atas kepalaku, maka beliau bersabda: "Kenapa denganmu wahai Abdullah bin 'Amru?" jawabku; "Telah sampai kepadaku wahai Rasulullah, bahwa anda bersabda: "Shalatnya seseorang dengan duduk itu mendapatkan pahala separuh shalat, sementara anda mengerjakan shalat dengan posisi duduk." beliau bersabda: "Benar, akan tetapi aku tidak sebagaimana salah seorang dari kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (735)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>950</td></tr><tr><td>Arabic No</td><td>950</td></tr><tr><td>Reference</td><td>Book 2 Hadith 561</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Мне стало известно о том, что Посланник Аллаха ﷺ сказал: “Молитва того, кто молится сидя, половина молитвы”, и однажды я пришёл к нему и увидел его совершающим (дополнительную) молитву сидя. Я схватился за голову, а (Посланник Аллаха ﷺ) спросил: “Что с тобой, о ‘Абдуллах ибн ‘Амр?” Я ответил: “О Посланник Аллаха! Мне стало известно о том, что ты сказал: “Молитва того, кто молится сидя, половина молитвы”. А ты сам молишься сидя”. (Посланник Аллаха ﷺ) сказал: “Да, всё так… Однако я не подобен вам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (735)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>950</td></tr><tr><td>Arabic No</td><td>950</td></tr><tr><td>Reference</td><td>Book 2 Hadith 561</td></tr></tbody></table></div>
 

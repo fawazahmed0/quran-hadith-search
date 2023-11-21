@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abu Sa'id added:"As you see a glittering star remaining in the eastern horizon a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Abdul Aziz] dari [Ayahnya] dari [Sahal] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sungguh penghuni surga bisa melihat kamar-kamarnya dalam surga sebagaimana mereka bisa melihat gugusan bintang di langit." Kata [ayahku], lantas aku menceritakannya kepada [Nu'man bin Abi 'Ayyasy], maka ia berkata; Sungguh aku dengar [Abu Sa'id] menceritakan, dan ia menambahnya dengan redaksi; "sebagaimana mereka melihat bintang melintas di ufuk timur dan barat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6556</td></tr><tr><td>Arabic No</td><td>6556</td></tr><tr><td>Reference</td><td>Book 81 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са’ид добавил: «…подобно тому, как вы смотрите на сверкающую вдалеке планету, которая удаляется за горизонт к востоку или западу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6556</td></tr><tr><td>Arabic No</td><td>6556</td></tr><tr><td>Reference</td><td>Book 81 Hadith 145</td></tr></tbody></table></div>
 

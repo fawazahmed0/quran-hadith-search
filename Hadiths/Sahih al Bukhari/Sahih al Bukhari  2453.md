@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:That there was a dispute between him and some people (about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Husain] dari [Yahya bin Abi Katsir] berkata, telah menceritakan kepadaku [Muhammad bin Ibrahim] bahwa [Abu Salamah] menceritakan kepadanya bahwa dia pernah bertengkar dengan seseorang lalu diceritakan hal ini kepada 'Aisyah radliallahu 'anha, maka ['Aisyah radliallahu 'anha] berkata: "Wahai Abu Salamah hindarkanlah bertengkar dalam urusan tanah karena Nabi shallallahu 'alaihi wasallam pernah bersabda: "Siapa yang pernah berbuat aniaya sejengkal saja (dalam perkara tanah) maka nanti dia akan dibebani (dikalungkan pada lehernya) tanah dari tujuh petala bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2453</td></tr><tr><td>Arabic No</td><td>2453</td></tr><tr><td>Reference</td><td>Book 46 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма рассказал, что у него был спор с людьми (из-за земли). Когда он рассказал об этом ‘Аише, да будет доволен ею Аллах, она сказала: «О Абу Саляма! Избегай (того, чтобы брать незаконно чужую) землю, ведь Пророк ﷺ сказал: «(В День воскресения) вокруг шеи того, кто несправедливо присвоит себе хотя бы пядь земли, обернут все семь земель»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2453</td></tr><tr><td>Arabic No</td><td>2453</td></tr><tr><td>Reference</td><td>Book 46 Hadith 14</td></tr></tbody></table></div>
 

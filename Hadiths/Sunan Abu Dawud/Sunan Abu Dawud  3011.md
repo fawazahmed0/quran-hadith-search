@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Bashir bin Yasar said that he heard a number of the Companions of the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Sulaiman Al Muadzdzin], telah menceritakan kepada kami [Asad bin Musa], telah menceritakan kepada kami [Yahya bin Zakariya], telah menceritakan kepadaku [Sufyan] dari [Yahya bin Sa'id] dari [Busyair bin Yasar] dari [Sahl bin Abu Hatsmah], ia berkata; Rasulullah shallallahu 'alaihi wasallam telah membagi Khaibar menjadi dua bagian, setengah bagian untuk musibah-musibah yang kemungkinan menimpa, dan kebutuhan beliau dan setengah bagian dibagikan diantara orang-orang muslim yang beliau bagikan diantara mereka dengan delapan belas saham. Telah menceritakan kepada kami [Husain bin Ali bin Al Aswad] bahwa [Yahya bin Adam] telah menceritakan kepada mereka dari [Ibnu Syihab] dari [Yahya bin Sa'id], dari [Busyair bin Yasar], bahwa ia telah mendengar [beberapa orang] sahabat Nabi shallallahu 'alaihi wasallam berkata; …. Kemudian ia menyebutkan hadits tersebut. Ia berkata; setengah bagian adalah saham orang-orang muslim dan saham Rasulullah shallallahu 'alaihi wasallam. Dan beliau mememisahkannya untuk orang-orang muslimin untuk perkara-perkara yang kemungkinan menimpa mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3011</td></tr><tr><td>Arabic No</td><td>3011</td></tr><tr><td>Reference</td><td>Book 20 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Бушайра ибн Ясара, да будет доволен им Аллах, что, когда Пророк ﷺ завладел Хайбаром по воле Аллаха, он разделил земли Хайбара на тридцать шесть долей, в каждой доле сто частей, и оставил половину, то есть Ватыху, Кутайбу и прилегающие земли, на случай непредвиденных происшествий и бед. А вторую половину он разделил между мусульманами. Это Шакк, Ната и прилегающие к ним земли. Доля Посланника Аллаха ﷺ была в числе этих долей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3011</td></tr><tr><td>Arabic No</td><td>3011</td></tr><tr><td>Reference</td><td>Book 20 Hadith 84</td></tr></tbody></table></div>
 

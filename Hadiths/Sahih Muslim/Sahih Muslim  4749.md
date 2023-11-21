@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Huraira that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadanya, ia berkata; telah menceritakan kepada kami [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Barangsiapa mentaatiku sungguh dia telah mentaati Allah, barangsiapa bermaksiat kepadaku maka dia telah bermaksiat kepada Allah. Dan barangsiapa mentaati pemimpinku sungguh dia telah mentaatiku, barangsiapa bermaksiat kepada pemimpinku maka dia telah bermaksiat kepadaku." Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Makki bin Ibrahim] telah menceritakan kepada kami [Ibnu Juraij] dari [Ziyad] dari [Ibnu Syihab] bahwa [Abu Salamah bin Abdurrahman] telah mengabarkan kepadanya, bahwa dia pernah mendengar [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda seperti hadits di atas." Dan telah menceritakan kepadaku [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Abu 'Awanah] dari [Ya'la bin 'Atha'] dari [Abu 'Alqamah] dia berkata, telah menceritakan kepadaku, dari mulutnya ke mulutku (secara lisan), dia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam…" (dalam jalur lain disebutkan) Telah menceritakan kepadaku ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] dia berkata, telah menceritakan kepada kami [Syu'bah] dari [Ya'la bin 'Atha] bahwa dia pernah mendengar [Abu 'Alqamah] mendengar dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits mereka." Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdur Razaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits mereka." Dan telah menceritakan kepadaku [Abu At Thahir] telah mengabarkan kepada kami [Ibnu Wahb] dari [Haiwah] bahwa [Abu Yunus] budak Abu Hurairah, telah bercerita kepadanya, dia berkata; saya pernah mendengar [Abu Hurairah] berkata, dari Rasulullah shallallahu 'alaihi wasallam seperti itu. Beliau bersabda: 'Barangsiapa mentaati seorang pemimpin…', tidak mengatakan, 'Barangsiapa mentaati kepemimpinanku'. begitu juga dalam hadits riwayat Hammam dari Abu Hurairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4749</td></tr><tr><td>Arabic No</td><td>1835.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4749</td></tr><tr><td>Arabic No</td><td>1835.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 47</td></tr></tbody></table></div>
 

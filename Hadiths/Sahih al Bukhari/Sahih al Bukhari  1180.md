@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar: I remember ten Rakat of Nawafil from the Prophet, two Rakat 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhu] berkata; "Aku menghafal sesuatu dari Nabi shallallahu 'alaihi wasallam berupa shalat sunnat sepuluh raka'at yaitu; dua raka'at sebelum shalat Zhuhur, dua raka'at sesudahnya, dua raka'at sesudah shalat Maghrib di rumah Beliau, dua raka'at sesudah shalat 'Isya' di rumah Beliau dan dua raka'at sebelum shalat Shubuh, dan pada pelaksanaan shalat ini tidak ada waktu senggang buat Nabi shallallahu 'alaihi wasallam ". Telah menceritakan kepada saya [Hafshah]: "Bahwasanya bila mu'adzin sudah mengumandangkan adzan dan fajar sudah terbit, Beliau shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1180</td></tr><tr><td>Arabic No</td><td>1180</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Я запомнил, от Пророка ﷺ десять рак‘атов: два рак‘ата до молитвы зухр и два после нее, два рак‘ата после молитвы магъриб у себя дома, два рак‘ата после молитвы ‘иша у себя дома и два рак‘ата перед утренней молитвой, в это было время люди не заходили к Пророку ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1180</td></tr><tr><td>Arabic No</td><td>1180</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

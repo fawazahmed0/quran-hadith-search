@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:"The Prophet (ﷺ) prayed eight rak'at for the Zuhr and 'Asr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu AN Nu'man] berkata, telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid- dari ['Amru bin Dinar] dari [Jabir bin Zaid] dari [Ibnu 'Abbas], bahwa Nabi shallallahu 'alaihi wasallam pernah melaksanakan shalat di Madinah sebanyak tujuh dan delapan, yaitu shalat Zhuhur, 'Ashar, Maghrib dan 'Isya'." Ayyub berkata, "Barangkali hal itu ketika pada malam itu hujan." Ibnu Abbas berkata, "Bisa jadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>543</td></tr><tr><td>Arabic No</td><td>543</td></tr><tr><td>Reference</td><td>Book 9 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что (иногда) в Медине Пророк ﷺ совершал молитвы в семь и восемь рак‘атов (, объединяя) полуденную молитву с послеполуденной, а закатную — с вечерней.\nАюб (ас-Сахтияни) спросил: «Возможно это было во время (сильного) дождя?» (Джабир ибн Зейд, который передал этот хадис от Ибн ‘Аббаса) ответил: «Возможно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>543</td></tr><tr><td>Arabic No</td><td>543</td></tr><tr><td>Reference</td><td>Book 9 Hadith 20</td></tr></tbody></table></div>
 

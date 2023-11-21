@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. 'Amr: The Prophet (ﷺ) as saying to him: Complete the re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] dan [Musa bin Isma'il] keduanya berkata; telah mengabarkan kepada kami [Aban] dari [Yahya] dari [Muhammad bin Ibrahim] dari [Abu Salamah] dari [Abdullah bin 'Amru] bahwa Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Bacalah Al Qur'an (hingga khatam) dalam sebulan." Abdullah berkata; "Aku bisa (mengkhatamkan) lebih dari itu (sebulan)." Beliau bersabda: "Kalau begitu (khatamkan) selama dua puluh hari." Abdullah berkata; "Aku bisa (mengkhatamkan) lebih dari itu." Beliau bersabda: "Kalau begitu, (khatamkan) selama lima belas hari." Abdullah berkata; "Aku bisa (mengkhatamkan) lebih dari itu." Beliau bersabda: "Kalau begitu, (khatamkan) selama sepuluh hari." Abdullah berkata; "Aku bisa (mengkhatamkan) lebih dari itu." Beliau bersabda "Kalau begitu, (khatamkan) selama tujuh hari, jangan kamu kurangi dari itu." Abu Daud berkata; "Hadits muslim lebih lengkap (dari haditsnya Musa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5054) Sahih Muslim (1159)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1388</td></tr><tr><td>Arabic No</td><td>1388</td></tr><tr><td>Reference</td><td>Book 6 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра (ибн аль-‘Ас), да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Прочитывай Коран полностью за месяц». Он сказал: «Но я чувствую в себе силу!» (Посланник Аллаха ﷺ) сказал: «Прочитывай его за двадцать дней». Он сказал: «Но я чувствую в себе силу!» (Посланник Аллаха ﷺ) сказал: «Прочитывай его за пятнадцать дней». Он сказал: «Но я чувствую в себе силу!» (Посланник Аллаха ﷺ) сказал: «Прочитывай его за десять дней». Он сказал: «Но я чувствую в себе силу!» (Посланник Аллаха ﷺ) сказал: «Тогда прочитывай его за семь дней, но не меньше!» Абу Дауд сказал: «Хадис Муслима (ибн Ибрахима) более полный»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5054) Sahih Muslim (1159)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1388</td></tr><tr><td>Arabic No</td><td>1388</td></tr><tr><td>Reference</td><td>Book 6 Hadith 18</td></tr></tbody></table></div>
 

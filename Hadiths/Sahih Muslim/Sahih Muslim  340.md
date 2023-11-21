@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that some people from amongst the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah meriwayatkan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] dia berkata, "Sekelompok manusia dari kalangan sahabat Nabi shallallahu 'alaihi wasallam datang, maka mereka bertanya kepada beliau, 'Sesungguhnya kami mendapatkan dalam diri kami sesuatu yang salah seorang dari kami merasa besar (khawatir) untuk membicarakannya? ' Beliau menjawab: 'Benarkah kalian telah mendapatkannya? ' Mereka menjawab, 'Ya.' Beliau bersabda: "Itu adalah tanda bersihnya iman." Dan telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ibnu Abu Adi] dari [Syu'bah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepadaku [Muhammad bin Amru bin Jabalah bin Abu Rawwad] dan [Abu Bakar bin Ishaq] keduanya berkata, telah menceritakan kepada kami [Abu al-Jawwab] dari [Ammar bin Ruzaiq] keduanya dari [al-A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, seperti hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>340</td></tr><tr><td>Arabic No</td><td>132.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 247</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Однажды люди из числа сподвижников Пророка ﷺ пришли (к нему) и спросили его: “Поистине, (иногда) мы ощущаем, что в наших душах (происходит нечто такое), о чём мы не осмеливаемся даже говорить”. (Пророк ﷺ) спросил: “Так вам приходилось ощущать это?” Они ответили: “Да”, (и тогда) он сказал: “Это и (указывает на) чистоту веры”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>340</td></tr><tr><td>Arabic No</td><td>132.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 247</td></tr></tbody></table></div>
 

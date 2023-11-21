@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali bin Abi Talib:That Allah's Messenger (ﷺ) came to him and Fatima 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Azzuhri]. (dalam jalur lain disebutkan) telah menceritakan kepadaku [Muhammad bin Salam] Telah mengabarkan kepada kami ['Attab bin Basyir] dari [Ishaq] dari [Azzuhri] telah mengabarkan kepadaku [Ali bin Husain] bahwa [Husain bin Ali] radliyallahu'anhuma mengabarkan kepadanya, bahwa [Ali bin Abu Thalib] berkata, "Rasulullah Shallallahu'alaihiwasallam membangunkannya di malam hari, dan juga beliau bangunkan Fatimah binti Rasulullah Shallallahu'alaihiwasallam, beliau berkata kepada mereka: "Tidak sebaiknyakah kalian mendirikan shalat? Kata Ali, kujawab "Wahai Rasulullah, jiwa kita ada di tangan Arrahman, kalaulah Dia berkenan membangunkan kita niscaya Dia membangunkan." Lantas Rasulullah Shallallahu'alaihiwasallam pergi ketika Ali menjawab sedemikian ini, dan sama sekali tidak kembali lagi, kemudian Ali mendengar Nabi membaca sebuah ayat ketika kembali sambil menepuk pahanya, ayat yang beliau baca: '(Sungguh manusia itu makhluk yang suka membantah (QS. Al Kahfi; 54). Abu Abdullah berkata; apa saja yang datang kepadamu malam hari, diistilahkan dengan Ath thariq. Istilah Ath Thariq juga diperuntukan untuk bintang, sedang atsaqib maknanya yang bercahaya atau menyala, seperti perkataan atsqib naaroka (nyalakan apimu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7347</td></tr><tr><td>Arabic No</td><td>7347</td></tr><tr><td>Reference</td><td>Book 96 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али ибн Абу Талиб, да будет доволен им Аллах, сказал: «Однажды ночью Посланник Аллаха ﷺ пришёл ко мне и Фатиме, мир ей, дочери Посланника Аллаха ﷺ и сказал нам: “Разве вы не совершаете молитву?” И ‘Али сказал: “Я же ответил: «О Посланник Аллаха, души наши в руках Аллаха, и если Он пожелает разбудить нас, то разбудит»”. После того как я сказал это, Посланник Аллаха ﷺ ушёл, не промолвив в ответ ни слова, а потом ‘Али услышал, как, удаляясь и хлопая себя рукой по бедру, он говорил: “…но человек больше всего склонен спорить”».\nАбу ‘Абдуллах сказал: «О том, кто пришёл к тебе ночью, говорят: «Тарик — ночной путник», также говорят, что «ат-Тарик» — это звезда, а «ас-Сакиб» — это яркая, (у арабов) говорят: «Аскиб наракя лиль-мукид — посвети разжигателю огня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7347</td></tr><tr><td>Arabic No</td><td>7347</td></tr><tr><td>Reference</td><td>Book 96 Hadith 75</td></tr></tbody></table></div>
 

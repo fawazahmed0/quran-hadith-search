@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Adi b. Hatim reported:I said: Messenger of Allah, I set off trained dogs and the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Hammam bin Al Harits] dari ['Adi bin Hatim] dia berkata; saya bertanya, "Wahai Rasulullah, saya pernah melepas anjing pemburu yang terlatih lalu ia menangkap buruan untukku setelah saya menyebut nama Allah ketika melepasnya?" Jawab Rasulullah shallallahu 'alaihi wasallam: "Apabila kamu melepas anjing pemburu yang terlatih setelah kamu menyebut nama Allah ketika melepasnya, makanlah tangkapannya." Aku bertanya, "Bagaimana jika buruan itu mati?" beliau menjawab: "Meskipun mati, selama tidak ada anjing lain yang menyertainya menangkap." Saya bertanya lagi, "Bagaimana jika saya melempar buruan dengan Mi'radl dan mengenainya?" Beliau menjawab: "Apabila kamu melempar dengan Mi'radl dan dapat mengoyaknya maka makanlah buruanmu itu. Namun jika jika yang mengenai adalah pada bagian yang tumpul maka jangan kamu makan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4972</td></tr><tr><td>Arabic No</td><td>1929.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4972</td></tr><tr><td>Arabic No</td><td>1929.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 1</td></tr></tbody></table></div>
 

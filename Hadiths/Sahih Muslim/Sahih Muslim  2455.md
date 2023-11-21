@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama and 'Ata' b. Yasar came to Abu Sa'id al-Khudri and asked him about Ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] ia berkata, saya mendengar [Yahya bin Sa'id] berkata, telah mengabarkan kepadaku [Muhammad bin Ibrahim] dari [Abu Salamah] dan [Atha' bin Yasar] bahwa keduanya mendatangi [Abu Sa'id Al Khudri] dan bertanya tentang Al Haruriyyah, "Apakah Anda pernah mendengar Rasulullah shallallahu 'alaihi wasallam menyebutnya?" Abu Sa'id menjawab, "Saya tidak tahu, siapakah sebenarnya Al Haruriyyah itu. Tetapi, saya telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Akan keluar dari umat ini -dan beliau tidak mengatakan- darinya suatu kaum, yang mereka akan meremehkan shalat kalian. kemudian mereka membaca Al Qur'an, namun tidak sampai melewati kerongkongan mereka. Mereka keluar dari Islam, sebagaimana meluncurnya anak panah dari busurnya, hingga sang pemanah pun melihat ujung dari anak panah itu, apakah memuncratkan darah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2455</td></tr><tr><td>Arabic No</td><td>1064.05</td></tr><tr><td>Reference</td><td>Book 12 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Саляма и ‘Ата ибн Ясар рассказали, что (однажды) они пришли к Абу Са‘иду аль-Худри и спросили о харуритах: «Слышал ли ты, чтобы Посланник Аллаха ﷺ (упоминал их)?» Он ответил: «Я не знаю, что такое харурия, но я слышал, как Посланник Аллаха ﷺ говорил: “Появятся в этой общине люди, молитвы которых заставят вас считать ничтожными ваши собственные молитвы. Они станут читать Коран, однако он не выйдет за пределы их глоток. И они вылетят из религии подобно тому, как стрела вылетает через дичь, (пробив её насквозь, с такой скоростью, что) когда стрелок смотрит на стрелу, на острие стрелы, на его “рисафу” (часть наконечника стрелы), на “фуку” (пятка стрелы), есть ли на нём хоть какой-то след крови, (то не находит его)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2455</td></tr><tr><td>Arabic No</td><td>1064.05</td></tr><tr><td>Reference</td><td>Book 12 Hadith 192</td></tr></tbody></table></div>
 

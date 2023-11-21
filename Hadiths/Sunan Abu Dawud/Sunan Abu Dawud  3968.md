@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbudDarda': The Prophet (ﷺ) said: the similitude of a man who emancip
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah menceritakan kepada kami [Sufyan] dari [Abu Ishaq] dari [Abu Habibah Ath Tha'i] dari [Abu Ad Darda] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Permisalan orang yang membebaskan budak ketika hendak meninggal seperti orang yang memberi hadiah apabila ia telah kenyang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 31 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу ад-Дарды, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот, кто освобождает рабов на смертном одре, подобен тому, кто делает подарки после того, как насытился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>3968</td></tr><tr><td>Reference</td><td>Book 31 Hadith 43</td></tr></tbody></table></div>
 

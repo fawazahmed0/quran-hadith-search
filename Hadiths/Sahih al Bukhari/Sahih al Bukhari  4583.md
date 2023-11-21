@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The necklace of Asma' was lost, so the Prophet (ﷺ) sent some m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] Telah mengabarkan kepada kami ['Abdah] dari [Hisyam] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] berkata; Kalung Asma' pernah hilang, maka Nabi shallallahu 'alaihi wasallam menyuruh beberapa sahabat mencari kalung itu. Lalu datanglah waktu shalat dan mereka dalam keadaan hadats serta mereka tidak mendapatkan air. Lalu mereka shalat tanpa wudlu. Maka Allah Azza wa Jalla menurunkan ayat tentang tayamum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4583</td></tr><tr><td>Arabic No</td><td>4583</td></tr><tr><td>Reference</td><td>Book 65 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала, что, когда она потеряла ожерелье Асмы, Пророк ﷺ отправил несколько человек на его поиски. Тут их застало (время) молитвы, но у них не было воды, и они совершили молитву (без омовения). Тогда Аллах ниспослал аят об очищении песком (таяммум)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4583</td></tr><tr><td>Arabic No</td><td>4583</td></tr><tr><td>Reference</td><td>Book 65 Hadith 105</td></tr></tbody></table></div>
 

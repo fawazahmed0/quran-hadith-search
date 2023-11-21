@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported Allah's Messenger (ﷺ) as saying:A believer eats in one intes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala]; Telah menceritakan kepada kami [Abu Usamah]; Telah menceritakan kepada kami [Buraid] dari [Kakeknya] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Orang mukmin makan dengan satu usus (perut) sedangkan orang kafir makan dengan tujuh usus (perut)." Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami ['Abdul'Aziz] yaitu Ibnu Muhammad dari [Al 'Ala] dari [Bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5377</td></tr><tr><td>Arabic No</td><td>2062.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5377</td></tr><tr><td>Arabic No</td><td>2062.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 251</td></tr></tbody></table></div>
 

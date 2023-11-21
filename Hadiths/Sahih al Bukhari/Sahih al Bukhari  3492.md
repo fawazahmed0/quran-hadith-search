@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Kulaib:I was told by the Rabiba (i.e. daughter of the wife of the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa] telah bercerita kepada kami ['Abdul Wahid] telah bercerita kepada kami [Kulaib] telah bercerita kepadaku anak tiri Nabi shallallahu 'alaihi wasallam anak, (kata Musa); aku duga dia adalah [Zainab binti Abu Salamah] berkata; "Rasulullah Shallallhu 'alaihi wa salam melarang (meminum pada wadah) ad-dubba', al-hantam, an-naqir dan al-muzaffat". Aku bertanya kepadanya; "Kabarkanlah kepadaku, apakah Nabi Shallallhu 'alaihi wa salam berasal dari suku Mudlar?". Zainab menjawab; "Dari suku mana lagi kalau bukan suku Mudlar?. Beliau adalah anak keturunan Bani an-Nadlir bin Kinanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3492</td></tr><tr><td>Arabic No</td><td>3492</td></tr><tr><td>Reference</td><td>Book 61 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Кулейб сказал: «Мне сказала Зейнаб, дочь жены Пророка ﷺ, что Пророк ﷺ запретил (использовать посуду называемую) ад-дубба, аль-хантам, аль-мукаййар и аль-музаффат. Я сказал ей: “Скажи мне, к какому племени принадлежал Пророк ﷺ, был ли он из племени мудар?” Она ответила: “А из какого племени ему ещё быть, если не из мудар? Он был из сынов ан-Надра ибн Кинаны”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3492</td></tr><tr><td>Arabic No</td><td>3492</td></tr><tr><td>Reference</td><td>Book 61 Hadith 4</td></tr></tbody></table></div>
 

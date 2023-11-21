@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) bought some foodstuff from a Jew and mor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha] berkata: Rasulullah shallallahu 'alaihi wasallam pernah membeli makanan dari orang Yahudi dengan menggadaikan (menjaminkan) baju besi Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2513</td></tr><tr><td>Arabic No</td><td>2513</td></tr><tr><td>Reference</td><td>Book 48 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ купил у иудея зерно в рассрочку, а в залог он оставил ему свою кольчугу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2513</td></tr><tr><td>Arabic No</td><td>2513</td></tr><tr><td>Reference</td><td>Book 48 Hadith 6</td></tr></tbody></table></div>
 

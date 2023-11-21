@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Abu Bakr wrote to me what Allah had instructed His Apostle (p.b.u.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah] berkata, telah menceritakan kepadaku [bapakku] berkata, telah menceritakan kepada saya [Tsumaamah] bahwa [Anas radliallahu 'anhu] menceritakan kepadanya bahwa [Abu Bakar radliallahu 'anhu] telah menulis surat kepadanya (tentang aturan zakat) sebagaimana apa yang telah diperintahkan Allah dan rasulNya, yaitu; "Barangsiapa yang terkena kewajiban zakat bintu makhadh namun dia tidak memilikinya sedang yang ada dimilikinya bintu labun, maka zakatnya bisa diterima dengan bintu labun dan dia diberi (menerima) dua puluh dirham atau dua ekor kambing. Jadi jika ia tidak memiliki bintu makhadh (yang wajib dizakatkan sesuai ketentuan) sedangkan yang ada padanya bintu labun maka zakatnya bisa diterima dengan bintu labun itu karena dia tidak memiliki yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 24 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что в своё (время) Абу Бакр, да будет доволен им Аллах, написал ему (письмо, в котором изложил то), что Аллах повелел Своему посланнику ﷺ . (В этом письме говорилось): «У того, кто в качестве садаки должен отдать годовалую верблюдицу, но не имеет таковой, а имеет двухгодовалую, следует взять её, но при этом сборщику садаки необходимо отдать ему двадцать дирхемов или двух овец. Если же у (выплачивающего закят) нет годовалой верблюдицы, но имеется двухгодовалый верблюд, его можно принять от него, ничего не отдавая ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 24 Hadith 51</td></tr></tbody></table></div>
 

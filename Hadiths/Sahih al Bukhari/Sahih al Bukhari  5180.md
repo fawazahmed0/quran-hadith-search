@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Once the Prophet (ﷺ) saw some women and children comin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahman bin Mubarak] Telah menceritakan kepada kami [Abdul Warits] Telah menceritakan kepada kami [Abdul Aziz bin Shuhaib] dari [Anas bin Malik] radliallahu 'anhu, ia berkata; Suatu ketika Nabi shallallahu 'alaihi wasallam melihat para wanita dan anak-anak perempuan yang sedang memenuhi undangan walimahan, maka beliau pun berdiri dengan segera seraya mengatakan: "Ya Allah, kalian adalah orang-orang yang paling aku cintai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5180</td></tr><tr><td>Arabic No</td><td>5180</td></tr><tr><td>Reference</td><td>Book 67 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ, увидевший женщин и детей, которые возвращались со свадьбы, встал во весь рост и сказал: “О Аллах [, засвидетельствуй или благослови их]! Вы — из числа самых любимых для меня людей!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5180</td></tr><tr><td>Arabic No</td><td>5180</td></tr><tr><td>Reference</td><td>Book 67 Hadith 115</td></tr></tbody></table></div>
 

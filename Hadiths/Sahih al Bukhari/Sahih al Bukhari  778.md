@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Qatada:My father said, "The Prophet (ﷺ) used to rec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan kepada kami [Al Auza'i] telah menceritakan kepadaku [Yahya bin Abu Katsir] telah menceritakan kepadaku ['Abdullah bin Abu Qatadah] dari [Bapaknya] bahwa Nabi shallallahu 'alaihi wasallam membaca Al Fathihah dan dua surah pada dua rakaat pertama dalam shalat Zhuhur dan 'Ashar. Terkadang beliau memperdengarkan (mengeraskan bacaan) ayat yang dibacanya, dan beliau biasa memanjangkannya pada rakaat pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>778</td></tr><tr><td>Arabic No</td><td>778</td></tr><tr><td>Reference</td><td>Book 10 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Абу Къатада передал, что его отец (Абу Къатада), да будет доволен им Аллах, сказал: «При совершении первых двух рак‘атов полуденного /зухр/ намаза и послеполуденного /‘аср/ намаза Пророк ﷺ обычно читал суру “аль-Фатиха” и ещё по одной суре (во время каждого рак‘ата), и иногда читал аяты так, что его слова были слышны нам, и удлинял чтение во время совершения первого рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>778</td></tr><tr><td>Arabic No</td><td>778</td></tr><tr><td>Reference</td><td>Book 10 Hadith 173</td></tr></tbody></table></div>
 

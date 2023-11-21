@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid:I said to Ibn 'Umar, "I want to migrate to Sham." He said, "The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] dari [Mujahid] saya berkata kepada [Ibnu Umar] radliallahu 'anhuma, saya ingin hijrah ke Syam, lantas beliau mengatakan; "Tak ada hijrah lagi, namun yang ada adalah jihad, maka pergilah sana siapa tahu engkau mendapat sesuatu yang mengganjal, kalaulah tidak, silahkan kembali." Kata [An Nadhr], Telah mengabarkan kepada kami [Syu'bah] Telah mengabarkan kepada kami [Abu Bisyr] aku mendengar [Mujahid], saya bertanya [Ibnu Umar] dan beliau jawab; "Tak ada hijrah lagi setelah hari ini" atau setelah Rasulullah shallallahu 'alaihi wasallam -semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4309</td></tr><tr><td>Arabic No</td><td>4309</td></tr><tr><td>Reference</td><td>Book 64 Hadith 340</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджахид рассказывал: «Я сказал Ибн ‘Умару, да будет доволен Аллах им и его отцом: “Я хочу переселиться в Шам”. Он ответил: “(Сейчас) нет хиджры (переселения), однако есть сражение. Поэтому иди и предложи себя (для участия в сражении), и если оно будет, то оставайся, а если же нет возвращайся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4309</td></tr><tr><td>Arabic No</td><td>4309</td></tr><tr><td>Reference</td><td>Book 64 Hadith 340</td></tr></tbody></table></div>
 

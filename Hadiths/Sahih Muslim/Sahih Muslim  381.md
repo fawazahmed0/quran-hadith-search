@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The same hadith has been narrated on the authority of Muhammad b Sa'd and these 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>381</td></tr><tr><td>Arabic No</td><td>150.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 288</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот же хадис был передан от Мухаммада ибн Са‘да, но в его версии он также сказал следующее: «Посланник Аллаха ﷺ ударил меня (в участок) между шеей и двумя лопатками, и сказал: “Ты сражаешься со мной, о Са‘д? Поистине, (иногда) я даю человеку…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>381</td></tr><tr><td>Arabic No</td><td>150.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 288</td></tr></tbody></table></div>
 

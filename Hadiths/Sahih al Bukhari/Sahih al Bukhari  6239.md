@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When the Prophet (ﷺ) married Zainab, the people came and were of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Mu'tamar], [Ayahku] berkata; telah menceritakan kepada kami [Abu Mijlaz] dari [Anas] radliallahu 'anhu dia berkata; "Ketika Nabi shallallahu 'alaihi wasallam menikah dengan Zainab, orang-orang (tamu undangan) pun berdatangan dan menikmati hindangan, kemudian mereka duduk dan berbincang-bincang. Lalu beliau merubah posisi seakan-akan ingin berdiri, namun orang-orang tidak juga berdiri, tatkala beliau mengetahui hal itu, maka beliau berdiri dan orang-orang pun ikut berdiri. Tinggal beberapa orang yang masih tetap, sesungguhnya Nabi shallallahu 'alaihi wasallam datang dan hendak masuk ke kamar Zainab, namun orang-orang masih tetap duduk-duduk, setelah itu mereka berdiri dan beranjak pergi, lalu saya mengabarkan hal itu kepada Nabi shallallahu 'alaihi wasallam. Kemudian beliau masuk dan saya mengikuti beliau masuk, lalu beliau menurunkan kain tirainya antara saya dengan beliau. Ternyata Allah Ta'ala menurunkan (ayat) Wahai orang-orang yang beriman, janganlah kalian masuk ke rumah Nabi…QS Al Ahzab; 53 Abu Abdullah mengatakan; "Dalam perintah tersebut terdapat hukum fikih, bahwa beliau tidak mengizinkan mereka (para sahabat) ketika beliau berdiri dan keluar, dan juga ketika beliau merubah posisi seakan-akan hendak berdiri, menandakan bahwa beliau menghendaki mereka (para sahabat) keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6239</td></tr><tr><td>Arabic No</td><td>6239</td></tr><tr><td>Reference</td><td>Book 79 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Женившись на Зейнаб, Пророк ﷺ пригласил людей на угощение. Они поели, а затем продолжили сидеть и разговаривать. (Через некоторое время) Пророк ﷺ (показал им), как будто собирается встать, но никто из людей не поднимался. Увидев, что они не поняли его намёка, он встал, и остальные тоже встали, кроме нескольких человек, которые продолжали сидеть. (Спустя какое-то время) Пророк ﷺ вернулся (в дом) и хотел зайти (к своей жене), однако они всё ещё сидели на своих местах. Когда же они встали и ушли, я сообщил об этом Пророку ﷺ, и тогда он вошёл (в дом). Я же хотел зайти за ним, но Пророк ﷺ опустил передо мной занавеску, после этого Всевышний Аллах ниспослал: “О те, которые уверовали! Не входите в дома Пророка…” (сура “аль-Ахзаб”, аят 53)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6239</td></tr><tr><td>Arabic No</td><td>6239</td></tr><tr><td>Reference</td><td>Book 79 Hadith 13</td></tr></tbody></table></div>
 

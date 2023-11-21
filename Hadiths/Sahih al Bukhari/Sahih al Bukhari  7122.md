@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:Nobody asked the Prophet (ﷺ) as many questions 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Isma'il] telah menceritakan kepadaku [Qais] mengatakan, [Mughirah bin Syu'bah] mengatakan kepadaku; Tak seorangpun yang lebih banyak bertanya kepada Nabi shallallahu 'alaihi wasallam tentang Dajjal daripadaku, dan beliau bersabda kepadaku: "Dia tidak membahayakanmu', Saya katakan; 'Yang demikian karena orang-orang mengatakan bahwa Dajjal membawa gunung roti dan sungai yang berair.' Nabi bersabda: "Itu semua bagi Allah lebih sepele
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7122</td></tr><tr><td>Arabic No</td><td>7122</td></tr><tr><td>Reference</td><td>Book 92 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Кайс (ибн Абу Хазим) сказал: \n— Однажды аль-Мугира ибн Шу‘ба, да будет доволен им Аллах, сказал мне: «Никто не расспрашивал Пророка ﷺ о Даджале больше, чем я, и (однажды) он спросил меня: “А что тебя беспокоит в нём?” Я сказал: “(Люди) говорят, что будет с ним (целая) гора хлеба и (целая) река воды”. (На это Пророк ﷺ) сказал: “Это будет для Аллаха легче, чем то!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7122</td></tr><tr><td>Arabic No</td><td>7122</td></tr><tr><td>Reference</td><td>Book 92 Hadith 69</td></tr></tbody></table></div>
 

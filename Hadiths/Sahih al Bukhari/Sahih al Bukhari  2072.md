@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miqdam:The Prophet (ﷺ) said, "Nobody has ever eaten a better meal 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami ['Isa bin Yunus] dari [Tsaur] dari [Khalid bin Ma'dan] dari [Al Miqdam radliallahu 'anhu] dari Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada seorang yang memakan satu makananpun yang lebih baik dari makanan hasil usaha tangannya sendiri. Dan sesungguhnya Nabi Allah Daud AS memakan makanan dari hasil usahanya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2072</td></tr><tr><td>Arabic No</td><td>2072</td></tr><tr><td>Reference</td><td>Book 34 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Микдама, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Никто и никогда не ел ничего лучше той еды(, на которую он заработал) трудом своих рук, и, поистине, пророк Аллаха Дауд, мир ему, питался тем, на что он зарабатывал трудом своих рук»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2072</td></tr><tr><td>Arabic No</td><td>2072</td></tr><tr><td>Reference</td><td>Book 34 Hadith 25</td></tr></tbody></table></div>
 

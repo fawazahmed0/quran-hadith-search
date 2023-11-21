@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Salam:(In a dream) I saw myself in a garden, and there wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdullah bin Muhammad] telah menceritakan kepada kami [Azhar] dari [Ibnu Aun] -lewat jalur periwayatan lain-dan telah menceritakan kepadaku [Khalifah] telah menceritakan kepada kami [Mu'adz] telah menceritakan kepada kami [Ibnu 'Aun] dari [Muhammad] telah menceritakan kepada kami [Qais bin Ubbad] dari ['Abdullah bin Salam] mengatakan; di sebuah taman atau tengah-tengah taman seolah-olah aku melihat sebuah tiang yang bagian paling atas tiang terdapat tali, kemudian dikatakan kepadaku; 'naikilah! ' aku berkata; 'aku tidak bisa menaikinya! ' lantas seorang pelayan mendatangiku dan mengangkat pakaianku, dan aku dinaikkan, dan aku berpegang erat dengan tali tersebut. Tiba-tiba aku terbangun dalam kondisi masih berpegangan dengan tali itu. Kejadian mimpiku ini kukisahkan kepada Rasulullah Shallallahu'alaihiwasallam, dan beliau bersabda; "Taman itu maksudnya taman Islam, dan tiang itu maksudnya tiang Islam, dan tali itu maksudnya tali yang kokoh, engkau senantiasa memegang teguh Islam, hingga engkau meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7014</td></tr><tr><td>Arabic No</td><td>7014</td></tr><tr><td>Reference</td><td>Book 91 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Салям, да будет доволен им Аллах, сказал: «Я увидел (во сне), что нахожусь в каком-то саду. Посреди (этого сада) стояла железная колонна, и на верхнем ее конце находилась ручка (в виде кольца). Кто-то сказал мне: “Поднимись на нее”. Я сказал: “Я не могу”. Тогда ко мне явился слуга и приподнял сзади полы моей одежды, после чего я поднимался(, пока не очутился на вершине этой колонны). Там я взялся за эту ручку, а потом я проснулся, и, поистине, оказалось, что эта ручка осталась у меня в руке. Я рассказал (обо всем этом) Пророку ﷺ который сказал: “Сад — это ислам, колонна — столп ислама, а ручка — надежнейшая связь /аль-‘урват аль-вуска/, (и это значит, что) ты останешься мусульманином до самой своей смерти”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7014</td></tr><tr><td>Arabic No</td><td>7014</td></tr><tr><td>Reference</td><td>Book 91 Hadith 32</td></tr></tbody></table></div>
 

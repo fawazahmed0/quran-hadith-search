@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:Allah's Messenger (ﷺ) came to us at noon and water for ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Al Hakam] berkata, aku pernah mendengar [Abu Juhaifah] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah keluar mendatangi kami di waktu tengah hari yang panas. Beliau lalu diberi air wudlu hingga beliau pun berwudlu, orang-orang lalu mengambil sisa air wudlu beliau seraya mengusap-ngusapkannya. Kemudian Nabi shallallahu 'alaihi wasallam shalat zhuhur dua rakaat dan 'ashar dua rakaat sedang di depannya diletakkan tombak kecil." Abu Musa berkata, "Nabi shallallahu 'alaihi wasallam meminta bejana berisi air, beliau lalu membasuh kedua tangan dan mukanya di dalamnya, lalu menyentuh air untuk memberkahinya seraya berkata kepada keduanya (Abu Musa dan Bilal): "Minumlah darinya dan usapkanlah pada wajah dan leher kalian berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>187</td></tr><tr><td>Reference</td><td>Book 4 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джухайфа, да будет доволен им Аллах, сказал: «(Однажды, когда) Посланник Аллаха ﷺ вышел к нам в полдень, ему принесли воду для омовения, а после того как он совершил его, люди стали брать оставшуюся (после его омовения) воду и обтираться ею. А затем Пророк ﷺ совершил полуденную /зухр/ и послеполуденную /‘аср/ молитвы, каждая из которых состояла из двух рак‘атов, и (в это время) перед ним была (воткнута в землю) его палка с острым наконечником»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>187</td></tr><tr><td>Reference</td><td>Book 4 Hadith 53</td></tr></tbody></table></div>
 

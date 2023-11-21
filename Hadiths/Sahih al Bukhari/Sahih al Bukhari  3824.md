@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:On the day of the battle of Uhud the pagans were defeated comple
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Isma'il bin Khalil] telah mengabarkan kepada kami [Salamah bin Raja'] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata; "Ketika perang Uhud, kaum Musyrikin menderita kekalahan yang sangat telak lalu Iblis berteriak memanggil, wahai hamba-hamba Allah, awasilah barisan belakang kalian". Maka pasukan depan kembali mendatangi pasukan yang di belakang dan bertempur menghadapi pasukan yang di belakang (sehingga terjadi pertempuran sesama Kaum Muslimin). Hudzaifah memperhatikan pertempuran itu dan ternyata dia melihat bapaknya (Al Yaman), maka dia berseru, "Wahai hamba-hamba Allah (ia tujukan untuk prajurit muslim), itu bapakku, itu bapakku". 'Aisyah radliallahu 'anha berkata; "Demi Allah, pasukan tidak mempedulikannya hingga mereka membunuh bapaknya". Hudzaifah berkata; "Semoga Allah mengampuni kalian". Bapakku, 'Urwah berkata; "Demi Allah, sejak peristiwa itu, Hudzaifah senantiasa mendapatkan kebaikan hingga bertemu dengan Allah (meninggal dunia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3824</td></tr><tr><td>Arabic No</td><td>3824</td></tr><tr><td>Reference</td><td>Book 63 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «В день (битвы) при Ухуде, когда многобожники были побеждены, Иблис воскликнул: “О рабы Аллаха! Защищайте ваши спины!” Тогда (мусульмане) из первых рядов обернулись и стали сражаться с мусульманами из задних рядов (думая, что это многобожники). Когда Хузейфа оглянулся и увидел своего отца аль-Йамана, (подвергшегося нападению мусульман), он воскликнул: “О рабы Аллаха! Мой отец! Мой отец!” Клянусь Аллахом, они не остановились, пока не убили его. Тогда Хузейфа сказал: “Да простит вас Аллах!”».\n‘Урва сказал: «Хузейфа продолжал творить добро (призывая Аллаха простить убийц своего отца), пока не встретил Великого и Могучего Аллаха (т.е. пока умер)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3824</td></tr><tr><td>Arabic No</td><td>3824</td></tr><tr><td>Reference</td><td>Book 63 Hadith 49</td></tr></tbody></table></div>
 

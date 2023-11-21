@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dia berkata; aku bacakan di hadapan [Malik bin Anas]; dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang dari kalian memeras susu ternak orang lain kecuali minta izin darinya, sukakah salah seorang dari kalian jika wadah airnya diberikan namun tempat penyimpanannya dipecahkan serta makanannya dipindahkan? Hanyasanya kantung-kantung susu kambing merekalah yang menjadi tempat penyimpanan makanan mereka, maka jangan sekali-kali salah seorang dari kalian memerah susu ternak orang lain tanpa izin pemiliknya." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin Rumh] semuanya dari [Laits bin Sa'd]. (dalam riwayat lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir]. (dalam riwayat lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepadaku [ayahku] keduanya dari [Ubaidullah]. (dalam riwayat lain disebutkan) Telah menceritakan kepadaku [Abu Ar Rabi'] dan [Abu Kamil] keduanya berkata; telah menceritakan kepada kami [Hammad]. (dalam riwayat lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] -yaitu Ibnu 'Ulayyah- semuanya dari [Ayyub]. (dalam riwayat lain disebutkan) Telah menceritakan kepada kami [Ibnu Abu 'Umar] telah menceritakan kepada kami [Sufyan] dari [Isma'il bin Umayyah]. (dalam riwayat lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Ayyub] dan [Ibnu Juraij] dari [Musa] mereka semua dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam seperti hadits Malik, hanya saja hadits mereka semua disebutkan, 'hendaknya dia memberikan sebagian makanannya', kecuali riwayat Laits bin Sa'd disebutkan, 'hendaknya memberikan makanannya', sebagaimana riwayat Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4511</td></tr><tr><td>Arabic No</td><td>1726.01</td></tr><tr><td>Reference</td><td>Book 31 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4511</td></tr><tr><td>Arabic No</td><td>1726.01</td></tr><tr><td>Reference</td><td>Book 31 Hadith 13</td></tr></tbody></table></div>
 

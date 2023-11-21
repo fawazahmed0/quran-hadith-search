@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Amir Al Asy'ari] dan [Ibnu Numair] dan [Abu Kuraib] semuanya dari [Abu Usamah] - [Abu Amir] berkata- Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Buraid] dari [kakeknya] Abu Burdah, dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Seorang bendahara muslim yang melaksanakan tugasnya dengan jujur, dan membayar sedekah kepada orang yang diperintahkan oleh majikannya secara sempurna, dengan segera dan dengan pelayanan yang baik, maka ia mendapat pahala yang sama seperti orang yang bersedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2363</td></tr><tr><td>Arabic No</td><td>1023</td></tr><tr><td>Reference</td><td>Book 12 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы, что Пророк ﷺ сказал: «Хранитель (хозяйского добра), который является мусульманином, отличается верностью и полностью выполняет (или: отдаёт) то, что ему было велено, отдавая всё полностью и от души и вручая (милостыню) тому, кому было приказано (её вручить), является одним из двоих подающих милостыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2363</td></tr><tr><td>Arabic No</td><td>1023</td></tr><tr><td>Reference</td><td>Book 12 Hadith 100</td></tr></tbody></table></div>
 

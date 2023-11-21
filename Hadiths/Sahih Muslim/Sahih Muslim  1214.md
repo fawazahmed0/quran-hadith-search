@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada reported:I saw the Messenger of Allah (ﷺ) leading the people in pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1214</td></tr><tr><td>Arabic No</td><td>543.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Катада аль-Ансари сказал: «Я видел, как Посланник Аллаха ﷺ совершал молитву с людьми, посадив на плечи Умаму бинт Абу аль-‘Ас. И перед совершением земного поклона, он опускал её (на землю)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1214</td></tr><tr><td>Arabic No</td><td>543.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 54</td></tr></tbody></table></div>
 

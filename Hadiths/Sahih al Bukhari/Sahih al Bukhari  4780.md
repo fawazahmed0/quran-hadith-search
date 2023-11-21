@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet, said, "Allah said, 'I have prepared for My pio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Nashr] Telah menceritakan kepada kami [Abu Usamah] dari [Al A'masy] Telah menceritakan kepada kami [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam, Allah Ta'ala berfirman: "Aku telah menyiapkan bagi hamba-hambaku yang shalih sesuatu yang belum pernah dilihat mata, belum pernah didengar telinga dan tidak pernah terlintas dibenak manusia." Sebagai simpanan, biarkan apa yang diperlihatkan Allah pada kalian." Lalu beliau membaca ayat: "Tak seorangpun mengetahui berbagai nikmat yang menanti, yang indah dipandang sebagai balasan bagi mereka, atas apa yang mereka kerjakan (As Sajdah: 17). [Abu Mu'awiyah] berkata; dari [Al A'masy] dari [Abu Shalih], [Abu Hurairah] membaca dengan lafazh 'Qurraat A'yun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4780</td></tr><tr><td>Arabic No</td><td>4780</td></tr><tr><td>Reference</td><td>Book 65 Hadith 302</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Аллах Всевышний говорит: “Для Моих праведных рабов Я приготовил то, чего не видел глаз, о чём не слышало ухо и чего даже не представляло себе сердце человека, не говоря уже о том, что вам было дано узнать”».\n(Передав это, Абу Хурайра, да будет доволен им Аллах, прочёл нижеследующий аят): «И не знает (ни один) человек, какая радость скрыта для них в воздаяние за то, что они делали»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4780</td></tr><tr><td>Arabic No</td><td>4780</td></tr><tr><td>Reference</td><td>Book 65 Hadith 302</td></tr></tbody></table></div>
 

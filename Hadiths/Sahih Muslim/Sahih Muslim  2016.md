@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umara b. Ruwaiba said he saw Bishr b. Marwan on the pulpit raising his hands and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Idris] dari [Hushain] dari [Umarah bin Ru'aibah] bahwa suatu ketika ia melihat Bisyra bin Marwan mengangkat kedua tangannya di atas mimbar, maka ia pun berkata; Semoga Allah menjelekkan kedua tangan ini. Sungguh, saya telah melihat Rasulullah shallallahu 'alaihi wasallam, beliau tidak menambah lagi setelah memberikan isyarat dengan tangannya seperti ini -ia pun memberi isyarat dengan jari telunjuknya-. Dan telah menceritakannya kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu Awanah] dari [Hushain bin Abdurrahman] ia berkata; Saya melihat Bisyra bin Marwan pada hari Jum'at mengangkat kedua tangannya, maka [Umarah bin Ru'aibah] pun berkata. Kemudian ia pun menyebutkan hadits semisal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2016</td></tr><tr><td>Arabic No</td><td>873.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хусайна, что (однажды), увидев, как Бишр ибн Марван стоит на минбаре с (высоко) поднятыми руками, ‘Умара ибн Руайба воскликнул: «Да обезобразит Аллах эти руки! Я видел, как (в подобных случаях) Посланник Аллаха ﷺ делал руками только такие движения», и он сделал знак указательным пальцем
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2016</td></tr><tr><td>Arabic No</td><td>873.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 66</td></tr></tbody></table></div>
 

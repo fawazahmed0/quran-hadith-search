@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas and Tawus reported :The Messenger of Allah (SWAS) appointed places fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Qa'nabi], dari [Malik]. Dan telah diriwayatkan dari jalur yang lain: telah menceritakan kepada Kami [Ahmad bin Yunus], telah menceritakan kepada Kami [Malik] dari [Nafi'] dari [Ibnu Umar], ia berkata; Rasulullah shallallahu 'alaihi wasallam menetapkan Dzul Hulaifah sebagai miqat bagi penduduk Madinah Al Juhfah, serta bagi penduduk Najd Qarnul manazil, dan telah sampai kepadaku berita bahwa beliau menetapkan Yalamlam sebagai miqat penduduk Yaman. Telah menceritakan kepada Kami [Sulaiman bin Harb], telah menceritakan kepada Kami [Hammad] dari ['Amr bin Dinar] dari [Thawus] dari [Ibnu Abbas], dan dari [Ibnu Thawus] dari [ayahnya], mereka berkata; Rasulullah shallAllahu wa'alaihi wa sallam telah menetapkan …… -secara makna-. Dan salah seorang diantara mereka berkata; dan Yalamlam sebagai miqat bagi penduduk Yaman. Sedangkan salah seorang dari mereka berkata; Alamlam. Beliau bersabda: Tempat-tempat tersebut adalah miqat untuk mereka dan orang yang datang ke tempat-tempat tersebut yang bukan penduduknya, diantara orang yang ingin berhaji dan berumrah. Dan orang yang diluar hal tersebut Thawus berkata; maka dari tempat ia memulai berihram." Ia berkata; dan seperti itu hingga penduduk Mekkah, mereka bertalbiyah darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1526) Sahih Muslim (1181)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1738</td></tr><tr><td>Arabic No</td><td>1738</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии, переданной Ибн Тавусом от своего отца и Ибн ‘Аббасом, один назвал микатом жителей Йемена Ялямлям, а второй Алямлям. В этой версии упоминается, что Посланник Аллаха ﷺ сказал: «Эти микаты предназначены для тех, кто живёт непосредственно в этих местах, и для людей из других мест, проезжающих через эти места с целью совершения хаджа или ‘умры». Ибн Тавус сказал: «Для живущих ближе к Мекке микатом должно служить то место, где они наденут ихрам, а жителям Мекки ихрам следует надевать в самой Мекке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1526) Sahih Muslim (1181)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1738</td></tr><tr><td>Arabic No</td><td>1738</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama:I heard the Prophet (ﷺ) saying, "Whoever (intentionally) ascri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makki bin Ibrahim] berkata, telah menceritakan kepada kami [Yazid bin Abu 'Ubaid] dari [Salamah] berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa berkata tentangku yang tidak pernah aku katakan, maka hendaklah ia persiapkan tempat duduknya di neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>109</td></tr><tr><td>Arabic No</td><td>109</td></tr><tr><td>Reference</td><td>Book 3 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма (ибн аль-Акъва‘, да будет доволен им Аллах,) сказал: «Я слышал, как Пророк ﷺ сказал: “Пусть займёт своё место в Огне тот, который станет приписывать мне то, чего я не говорил!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>109</td></tr><tr><td>Arabic No</td><td>109</td></tr><tr><td>Reference</td><td>Book 3 Hadith 51</td></tr></tbody></table></div>
 

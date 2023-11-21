@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hurairah (ra):The Prophet (ﷺ) said, (The people of) Aslam, Ghifar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Hammad] dari [Ayyub] dari [Muhammad] dari [Abu Hurairah radliallahu 'anhu] berkata, Nabi shallallahu 'alaihi wasallam bersabda: "Suku Aslam, Ghifar, dan juga diantara suku Muzainah dan Juhainah atau dia berkata: "Atau diantara suku Juhainah atau Muzainah lebih baik di sisi Allah atau dia berkata: "Pada hari qiyamat dari pada Bani Asad, Bani Tamim, Hawazin dan Bani Ghathafan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3523</td></tr><tr><td>Arabic No</td><td>3523</td></tr><tr><td>Reference</td><td>Book 61 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Люди из племён) аслям и гифар и некоторые (люди из племён) музайна и джухайна (или: некоторые люди из племени джухайна; или: некоторые люди из племени музайна) окажутся пред Аллахом (или: окажутся в День воскресения) в лучшем положении, чем (люди из племён) асад, тамим, хавазин и гатафан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3523</td></tr><tr><td>Arabic No</td><td>3523</td></tr><tr><td>Reference</td><td>Book 61 Hadith 33</td></tr></tbody></table></div>
 

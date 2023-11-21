@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdallâh Ibn Buhayna (que Dieu l'agrée) a dit : Le Prophète (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1269</td></tr><tr><td>Arabic No</td><td>570.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Бухайна сказал: «Однажды Посланник Аллаха ﷺ совершал с нами молитву, и после двух рак‘атов он встал и не посидел, и люди встали вместе с ним. В конце молитвы, когда мы ожидали таслима, он сначала произнёс такбир, совершил во время своего сидения два земных поклона, а затем произнёс таслим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1269</td></tr><tr><td>Arabic No</td><td>570.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 107</td></tr></tbody></table></div>
 

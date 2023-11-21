@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar reported:'Umar b. at-Khattab found a silk garment being sold in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah bin Yahya] dan lafazh ini milik Harmalah; ia berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah menceritakan kepadaku [Salim bin 'Abdillah]; Bahwa ['Abdullah bin 'Umar] berkata; Umar pernah melihat baju sutera di jual di pasar, kemudian dia mengambilnya dan membawanya ke hadapan Rasulullah shallallahu 'alaihi wasallam seraya berkata; "Ya Rasulullah belilah baju ini, dan pakailah oleh anda untuk hari raya dan untuk menyambut para tamu utusan yang menghadap anda!." Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang memakai sutera ini hanyalah orang yang tidak dapat bagian di akhirat." Beberapa hari kemudian, Rasulullah shallallahu 'alaihi wasallam mengirimkan kepada Umar selendang sutera, setelah Umar menerimanya, dia lalu menemui Rasulullah shallallahu 'alaihi wasallam dan berkata; "Ya Rasulullah bukankah anda telah menegur dengan mengatakan bahwa pakaian ini atau yang memakai sutera ini hanyalah orang yang tidak dapat bagian di akhirat, tapi kenapa anda mengirimkannya untukku?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Hendaklah kamu jual kain itu dan ambillah hasilnya untuk memenuhi kebutuhan hidupmu." Dan telah menceritakan kepada kami [Harun bin Ma'ruf]; Telah menceritakan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Ibnu Syihab] melalui sanad ini dengan redaksi yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5404</td></tr><tr><td>Arabic No</td><td>2068.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5404</td></tr><tr><td>Arabic No</td><td>2068.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 19</td></tr></tbody></table></div>
 

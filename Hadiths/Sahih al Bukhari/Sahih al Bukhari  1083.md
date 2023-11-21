@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Haritha bin Wahab:The Prophet (ﷺ) I led us in the prayer at Mina duri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] telah memberitakan kepada kami [Abu Ishaq] berkata; Aku mendengar [Haritsah bin Wahb] berkata: "Nabi shallallahu 'alaihi wasallam shalat bersama kami, sebagaimana Beliau selalu lakukan seperti saat di Mina hanya dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1083</td></tr><tr><td>Arabic No</td><td>1083</td></tr><tr><td>Reference</td><td>Book 18 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хариса бин Вахб, да будет доволен им Аллах, сказал: «Пророк ﷺ совершал с нами в Мине намазы в два рак‘ата и в самое безопасное время»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1083</td></tr><tr><td>Arabic No</td><td>1083</td></tr><tr><td>Reference</td><td>Book 18 Hadith 4</td></tr></tbody></table></div>
 

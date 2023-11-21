@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Prophet (ﷺ) said: When one of the Jews greets 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] berkata, telah menceritakan kepada kami [Abdul Aziz] -maksudnya Abdul Aziz bin Muslim- dari [Abdullah bin Dinar] dari [Abdullah bin Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari bangsa Yahyudi mengucapkan salam kepada kalia, maka mereka hanya akan mengucapkan 'Assaamu Alaikum (semoga bahaya menimpa kalian), maka balaslah dengan mengucapkan 'Wa Alaikum (akan tetapi atas kalian)." Abu Dawud berkata, " [Malik] meriwayatkannya dari [Abdullah bin Dinar], dan [Ats Tsauri] meriwayatkannya juga dari [Abdullah bin Dinar], dalam hadits tersebut beliau mengucapkan, 'Wa Alaikum (bahkan atas kalian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (6257) Sahih Muslim (2164)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5206</td></tr><tr><td>Arabic No</td><td>5206</td></tr><tr><td>Reference</td><td>Book 43 Hadith 434</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (6257) Sahih Muslim (2164)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5206</td></tr><tr><td>Arabic No</td><td>5206</td></tr><tr><td>Reference</td><td>Book 43 Hadith 434</td></tr></tbody></table></div>
 

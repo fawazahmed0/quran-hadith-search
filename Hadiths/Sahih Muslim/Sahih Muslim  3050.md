@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar (Allah be pleased with them) reported:I saw that when Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] dan [Harmalah bin Yahya] -Harmalah berkata- telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Salim bin Abdullah] telah mengabarkan kepadanya bahwa [Abdullah bin Umar] berkata; "Saya melihat Rasulullah shallallahu 'alaihi wasallam saat beliau datang ke Makkah. Bila beliau hendak mencium Hajar Aswad, maka pertama kali datang beliau thawaf qudum, dari tujuh kali putaran, beliau berlari-lari kecil sebanyak tiga kali putaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>1261.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 256</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>1261.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 256</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما) a dit : "Quand le Prophète (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ubaidullah bin Sa'id] serta [Muhammad bin al-Mutsanna] semuanya meriwayatkan dari [Yahya al-Qaththan] [Zuhair] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ubaidullah] dia berkata, telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] bahwa Nabi Shallallahu'alaihiwasallam pernah membaca al-Qur'an, lalu beliau membaca surat yang di dalamnya terdapat ayat sajdah, lalu beliau sujud, dan kami pun sujud bersama beliau hingga sebagian dari kami tidak mendapatkan tempat untuk sujudnya keningnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1295</td></tr><tr><td>Arabic No</td><td>575.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, сказал: «Когда Пророк ﷺ читал (в нашем присутствии) такую суру Корана, в которой упоминалось о земном поклоне, он совершал земной поклон, а мы кланялись вместе с ним, (и иногда получалось так, что) некоторым из нас не удавалось найти (на полу) места, которого можно было бы коснуться лбом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1295</td></tr><tr><td>Arabic No</td><td>575.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 133</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Ash-Sharid: Abu Rafi' said that Sa'd offered him four hundred 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Ibrahim bin Maisarah] dari [Amru bin Syarid] dari [Abu Rafi'], bahwasanya Sa'd pernah mengajukan penawaran rumah kepadanya seharga empat ratus mitsqal. Lantas Abu rafi' menjawab; 'Kalaulah aku tidak mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tetangga lebih berhak terhadap dindingnya, " niscaya aku tidak menjualnya kepadamu. Dan sebagian orang berpendapat; Jika seseorang membeli bagian rumah, lantas ia ingin membatalkan syuf'ah, dan ia berikan kepada anak kecilnya, maka ia tak wajib bersumpah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6978</td></tr><tr><td>Arabic No</td><td>6978</td></tr><tr><td>Reference</td><td>Book 90 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Амра ибн аш-Шарида, что Са‘д предложил Абу Рафи‘у продать дом за четыреста мискалей. (Абу Рафи‘) сказал: «Если бы я не слышал, как Посланник Аллаха ﷺ сказал: “Сосед имеет больше прав на то, что прилегает к его участку”, то не продал бы его тебе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6978</td></tr><tr><td>Arabic No</td><td>6978</td></tr><tr><td>Reference</td><td>Book 90 Hadith 25</td></tr></tbody></table></div>
 

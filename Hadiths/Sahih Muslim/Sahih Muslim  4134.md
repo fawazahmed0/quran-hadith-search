@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham b. Urwa reported on the authority of his father (Allah be pleased with hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ar Rabi' Al 'Ataki] telah menceritakan kepada kami [Hammad bin Zaid] dari [Hisyam bin 'Urwah] dari [Ayahnya], bahwa Arwa binti Uwais menuduh [Sa'id bin Zaid] telah mengambil sebagian dari tanahnya, lantas dia mengadukan kepada Marwan bin Hakam, maka Sa'id berkata, "Mungkinkah saya mengambil sebagian tanah miliknya setelah saya mendengar sesuatu dari Rasulullah shallallahu 'alaihi wasallam?" Marwan berkata, "Apa yang kamu dengar dari Rasulullah shallallahu 'alaihi wasallam?" Sa'id menjawab, "Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengambil sejengkal tanah dengan cara zhalim, maka pada hari kiamat ia akan dihimpit dengan tujuh lapis bumi." Lalu Marwan berkata kepadanya, "Saya tidak akan menanyakan bukti lagi kepadamu setelah mendengar (sabda Rasulullah shallallahu 'alaihi wasallam) ini. Kemudian Sa'id berdo'a, "Ya Allah, jika ia (wanita) berdusta, maka butakanlah matanya dan bunuhlah dia di tanahnya sendiri." Urwah berkata, "Ternyata dia (Arwa) tidak meninggal kecuali dalam keadaan buta, dan tatkala dia berjalan-jalan di tanah pekarangannya, tiba-tiba dia terpeleset ke dalam lubang dan meninggal dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4134</td></tr><tr><td>Arabic No</td><td>1610.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4134</td></tr><tr><td>Arabic No</td><td>1610.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 173</td></tr></tbody></table></div>
 

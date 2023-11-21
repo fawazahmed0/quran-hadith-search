@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) used to begin prayer with takbir (s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Abu Khalid, yaitu al-Ahmar] dari [Husain al-Mu'allim] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan lafazh tersebut miliknya, dia berkata, telah mengabarkan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Husain al-Mu'allim] dari [Budail bin Maisarah] dari [Abu al-Jauza'] dari [Aisyah radhiyallahu'anha] dia berkata, "Dahulu Rasulullah Shallallahu'alaihiwasallam membuka shalat dengan takbir dan membaca, 'Al-Hamdulillah Rabb al-Alamin'. Dan beliau apabila rukuk niscaya tidak mengangkat kepalanya dan tidak menundukkannya, akan tetapi melakukan antara kedua hal tersebut. Dan beliau apabila mengangkat kepalanya dari rukuk, niscaya tidak bersujud hingga beliau lurus berdiri, dan beliau apabila mengangkat kepalanya dari sujud niscaya tidak akan sujud kembali hingga lurus duduk, dan beliau membaca tahiyyat pada setiap dua raka'at. Beliau menghamparkan kaki kirinya dan memasang tegak lurus kakinya yang kanan. Dan beliau melarang duduknya setan, dan beliau melarang seorang laki-laki menghamparkan kedua siku kakinya sebagaimana binatang buas menghampar. Dan beliau menutup shalat dengan salam." Dan dalam riwayat Ibnu Numair dari Abu Khalid, "Dan beliau melarang duduk seperti duduknya setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1110</td></tr><tr><td>Arabic No</td><td>498</td></tr><tr><td>Reference</td><td>Book 4 Hadith 272</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланник Аллаха всегда начинал молитву с произнесения слов “Аллаху акбар” и чтения (суры, начинающейся словами) “Хвала Аллаху, Господу миров…”. Совершая поясной поклон, он не поднимал голову (слишком высоко) и не опускал (её слишком низко, а держал прямо). Подняв голову после совершения поясного поклона, он не переходил к земному поклону, пока не выпрямлялся стоя, а после (первого) земного поклона не переходил ко второму, пока не выпрямлялся сидя. После каждых двух рак‘атов он произносил приветствие, сидя на левой стопе и подняв правую стопу вертикально. Он запрещал сидеть (так, как сидит) шайтан, и касаться локтями земли (во время земного поклона), подобно дикому зверю, а завершал молитву таслимом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1110</td></tr><tr><td>Arabic No</td><td>498</td></tr><tr><td>Reference</td><td>Book 4 Hadith 272</td></tr></tbody></table></div>
 

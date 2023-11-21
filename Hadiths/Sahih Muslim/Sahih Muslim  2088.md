@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Ibn 'Abbas through another cha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ghandar] dari [Syu'bah] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Mujahid] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Aku mendapat pertolongan dengan angin timur dan kaum 'Aad dibinasakan dengan angin Barat." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] -dalam jalur lain- Dan telah menceritakan kepada kami [Abdullah bin Umar bin Muhammad bin Aban Al Ju'fi] telah menceritakan kepada kami [Abdah, yakni anaknya Sulaiman] keduanya dari [Al A'masy] dari [Mas'ud bin Malik] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2088</td></tr><tr><td>Arabic No</td><td>900.02</td></tr><tr><td>Reference</td><td>Book 9 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но с другим иснадом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2088</td></tr><tr><td>Arabic No</td><td>900.02</td></tr><tr><td>Reference</td><td>Book 9 Hadith 19</td></tr></tbody></table></div>
 

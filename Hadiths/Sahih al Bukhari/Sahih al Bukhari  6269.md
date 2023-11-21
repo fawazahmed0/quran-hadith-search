@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "A man should not make another man ge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abdullah] dia berkata; telah menceritakan kepadaku [Malik] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah seseorang membangunkan orang lain dari tempat duduknya kemudian ia duduk di situ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6269</td></tr><tr><td>Arabic No</td><td>6269</td></tr><tr><td>Reference</td><td>Book 79 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Не следует одному человеку поднимать другого с его места, а потом садиться на него самому. Садитесь пошире (и давайте место другим)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6269</td></tr><tr><td>Arabic No</td><td>6269</td></tr><tr><td>Reference</td><td>Book 79 Hadith 43</td></tr></tbody></table></div>
 

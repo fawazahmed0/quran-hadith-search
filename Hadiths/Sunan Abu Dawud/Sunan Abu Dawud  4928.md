@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: Am effeminate man (mukhannath) who had dyed his hands and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] dan [Muhammad Ibnul 'Ala] bahwa [Abu Usamah] mengabarkan kepada mereka, dari [Mufadhdhal bin Yunus] dari [Al Auza'i] dari [Abu Yasar Al Qurasyi] dari [Abu Hasyim] dari [Abu Hurairah] berkata, "Pernah didatangkan kepada Nabi shallallahu 'alaihi wasallam seorang banci yang mewarnai kuku tangan dan kakinya dengan inai. Maka Nabi shallallahu 'alaihi wasallam pun bertanya: "Ada apa dengan orang ini?" para sahabat menjawab, "Wahai Rasulullah, orang ini menyerupai wanita." Beliau kemudian memerintahkan agar orang tersebut dihukum, maka orang itu diasingkan ke suatu tempat yang bernama Naqi'. Para sahabat bertanya, "Wahai Rasulullah, tidakkah kita membunuhnya saja?" beliau menjawab: "Aku dilarang untuk membunuh orang yang shalat." Abu Usamah berkata, "Naqi' adalah sebuah tempat di pinggiran Kota Madinah, dan bukan Baqi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4928</td></tr><tr><td>Arabic No</td><td>4928</td></tr><tr><td>Reference</td><td>Book 43 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4928</td></tr><tr><td>Arabic No</td><td>4928</td></tr><tr><td>Reference</td><td>Book 43 Hadith 156</td></tr></tbody></table></div>
 

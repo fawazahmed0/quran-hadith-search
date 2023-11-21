@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah] sedangkan lafazhnya dari Harmalah, keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Sa'id bin Musayyab] dan [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] berkata; Rasulullah Shallallu 'alaihi wa sallam bersabda: "Janganlah kalian membeli buah-buahan hingga nampak matangnya, dan janganlah kalian membeli buah-buahan dengan kurma." Ibnu Syihab berkata; Dan telah menceritakan kepadaku [Salim bin Abdullah bin Umar] dari [ayahnya] dari Nabi Shallallu 'alaihi wa sallam sama seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3877</td></tr><tr><td>Arabic No</td><td>1538.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3877</td></tr><tr><td>Arabic No</td><td>1538.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 76</td></tr></tbody></table></div>
 

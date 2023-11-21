@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar: Allah's Messenger (ﷺ) said: "I have been ordered (by Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad Al Musnadi] dia berkata, Telah menceritakan kepada kami [Abu Rauh Al Harami bin Umarah] berkata, telah menceritakan kepada kami [Syu'bah] dari [Waqid bin Muhammad] berkata; aku mendengar [bapakku] menceritakan dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Aku diperintahkan untuk memerangi manusia hingga mereka bersaksi; tidak ada ilah kecuali Allah dan bahwa sesungguhnya Muhammad adalah utusan Allah, menegakkan shalat, menunaikan zakat. Jika mereka lakukan yang demikian maka mereka telah memelihara darah dan harta mereka dariku kecuali dengan haq Islam dan perhitungan mereka ada pada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>25</td></tr><tr><td>Arabic No</td><td>25</td></tr><tr><td>Reference</td><td>Book 2 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Мне было велено сражаться с (этими) людьми до тех пор, пока они не засвидетельствуют, что нет бога достойного поклонения, кроме Аллаха, и что Мухаммад — Посланник Аллаха, и не станут совершать молитвы и выплачивать закят, а если они будут делать всё это, то защитят от меня свою кровь и своё имущество (, которых впредь их могут лишить не иначе как) по праву Ислама, и (тогда) отчёта с них (вправе будет требовать только) Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>25</td></tr><tr><td>Arabic No</td><td>25</td></tr><tr><td>Reference</td><td>Book 2 Hadith 18</td></tr></tbody></table></div>
 

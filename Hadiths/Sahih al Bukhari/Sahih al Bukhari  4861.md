@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:I asked 'Aisha (regarding the Sai between As Safa and Al-Marwa). 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Az Zuhri] Aku mendengar ['Urwah] berkata; 'pernah bertanya kepada ['Aisyah radliallahu 'anha], lalu ia menjawab; Sesungguhnya dahulu orang yang telah bertalbiyah untuk berhala Manat yang berada di Al Musyallal tidak melakukan thawaf antara Shafa dan Marwa. Lalu Allah menurunkan ayat; Sesungguhnya shofa dan marwah termasuk syiar Allah. Maka Rasulullah shallallahu 'alaihi wasallam dan kaum muslimin melakukan thawaf. Sufyan berkata; berhala Manat yang berada di Al Musyallal letaknya antara Makkah dan Madinah. [Abdurrahman bin Khalid] berkata; dari [Ibnu Syihab], [Urwah] berkata; ['Aisyah] berkata; Ayat ini turun berkenaan dengan orang-orang Anshar yang mana mereka dan kabilah Ghassan sebelum mereka masuk Islam biasa bertalbiyah untuk berhala Manat, -seterusnya dengan redaksi yang serupa.- sedangkan [Ma'mar] berkata; dari [Az Zuhri] dari [Urwah] dari [Aisyah]; bahwa beberapa orang Anshar yang telah bertalbiyah bagi berhala Manat -yaitu berhala yang berada diantara Makkah dan Madinah- mereka berkata; Ya Nabiyullah, Kami tidak melakukan Thawaf antara Shafa dan Marwa, karena mengagungkan Manat. -dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 65 Hadith 382</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва сказал: «(Однажды) я спросил ‘Аишу, да будет доволен ею Аллах, (о словах Аллаха Всевышнего “Поистине, ас-Сафа и аль-Марва — из числа знаков Аллаха, и (поэтому) для совершающего к Дому хадж или умру нет греха в том, чтобы обойти их”), и она ответила: “Это было ниспослано в отношении тех, кто входил в ихрам ради Манат, которая находилась (у горы) аль-Мушалляль, они не совершали обход между ас-Сафой и аль-Марвой, тогда Аллах и ниспослал: “Поистине, ас-Сафа и аль-Марва — из числа знаков Аллаха…”. После этого Посланник Аллаха ﷺ и мусульмане стали совершать этот обход”».\nСуфьян сказал: «Манат находилась у (горы) аль-Мушалляль (напротив) Кудайда».\n‘Урва передал, что ‘Аиша сказала: «Этот аят был ниспослан об ансарах и племени аль-гассан, которые прежде чем стать мусульманами, совершали хадж ради Манат».\n‘Аиша так же сказала: «Некоторые люди из числа ансаров, которые совершали хадж ради Манат (Манат — это идол, который находился между Меккой и Мединой), сказали: «О Пророк Аллаха! Мы не совершали обход между ас-Сафой и аль-Марвой, возвеличивая Манат»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 65 Hadith 382</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha la mère des Croyants (que Dieu soit satisfait d'elle), l'Envoy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Ghailan Abu Ahmad]; Telah menceritakan kepada kami [Al Fadhl bin Musa As Sinani]; Telah mengabarkan kepada kami [Thalhah bin Yahya bin Thalhah] dari ['Aisyah binti Thalhah] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Di antara kalian yang lebih dahulu bertemu denganku di hari kiamat kelak adalah yang paling panjang Iangannya. Aisyah berkata; "Lalu mereka, para istri Rasulullah shallallahu 'alaihi wasallam, mungukur tangan siapakah yang paling panjang." Aisyah berkata; "Ternyata setelah di ukur-ukur Zainablah yang paling panjang di antara kami, karena ia sering beramal dan bersedekah dengan tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6316</td></tr><tr><td>Arabic No</td><td>2452</td></tr><tr><td>Reference</td><td>Book 44 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6316</td></tr><tr><td>Arabic No</td><td>2452</td></tr><tr><td>Reference</td><td>Book 44 Hadith 146</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Zaid bin Khalid Al-Juhani:A man came to the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Ibnu Uyainah] dari [Az Zuhri] dari [Ubaidullah bin Abdullah bin Utbah] dari [Abu Hurairah] dan [Zaid bin Khalid Al Juhani] mengatakan, Seorang laki-laki mendatangi Nabi shallallahu 'alaihi wasallam dan berujar; 'Saya bersumpah kepadamu dengan nama Allah, hendaknya engkau memutuskan diantara kami dengan kitabullah.' Lantas lawan sengketanya yang lebih faqih darinya berdiri dan berkata; 'Ia benar, putuskanlah diantara kami dengan kitabullah, dan perkenankan saya ya Rasulullah untuk bicara! ' Nabi menjawab; "Silahkan bicara". Ia meneruskan; 'anak saya menjadi pekerja orang ini, kemudian dia berzina dengan isterinya, maka aku menebusnya dengan seratus ekor kambing dan satu pelayan. Aku kemudian bertanya kepada beberapa orang ahlul ilmu dan mereka memberitahukan kepadaku bahwa anakku didera seratus kali dan diasingkan selama setahun dan wanita ini dirajam.' Lantas Nabi bersabda: "Demi Dzat yang jiwaku berada di tangan-NYA, sungguh aku akan putuskan diantara kalian berdua, seratus ekor kambing dan pelayan dikembalikan kepadamu, kemudian anakmu didera seratus kali dan diasingkan selama setahun, dan engkau hai Unais Al Aslami, temuilah si wanita dan tanyailah, jika ia mengakui maka rajamlah!" Si Wanita akhirnya mengaku dan dia merajamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6859</td></tr><tr><td>Arabic No</td><td>6859</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра и Зейд ибн Халид аль-Джухани, да будет доволен Аллах ими обоими, передают: «(Как-то раз) один человек пришёл к Пророку ﷺ и сказал: “Я заклинаю тебя Аллахом, чтобы ты рассудил нас согласно Книге Аллаха!” Человек же, с которым у него была тяжба и который был более просвещённым в вопросах религии, поднялся и сказал: “Он изрёк истину, рассуди нас согласно Книге Аллаха и позволь мне (высказаться), о Посланник Аллаха”. Тогда Пророк ﷺ сказал ему: “Говори”. Тот сказал: “Поистине, мой сын был наёмным работником у этого человека и совершил прелюбодеяние с его женой. Мне сказали, что за это моего сына следует подвергнуть побиванию камнями, но я отдал сто овец и раба в качестве выкупа за него. А потом я спросил (об этом) обладающих знанием и они сказали мне, что мой сын должен получить сто ударов и отправиться в изгнание на год, а побить камнями следует жену этого человека”. Тогда Пророк ﷺ сказал: “Клянусь Тем, в Чьей руке моя душа, я обязательно рассужу вас согласно Книге Аллаха! Раб и овцы должны быть возвращены тебе, а что касается твоего сына, то ему необходимо нанести сто ударов и отправить его в изгнание на год. А что касается тебя о Унайс, то отправляйся к жене этого (человека) и спроси её, и если она признается, то побей её камнями”. И она призналась и он побил её камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6859</td></tr><tr><td>Arabic No</td><td>6859</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

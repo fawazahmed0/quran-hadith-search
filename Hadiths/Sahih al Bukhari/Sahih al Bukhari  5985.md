@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "Who ever is please
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Muhammad bin Ma'an] dia berkata; telah menceritakan kepadaku [Ayahku] dari [Sa'id bin Abu Sa'id] dari [Abu Hurairah] radliallahu 'anhu dia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa ingin dibentangkan pintu rizki untuknya dan dipanjangkan ajalnya hendaknya ia menyambung tali silaturrahmi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5985</td></tr><tr><td>Arabic No</td><td>5985</td></tr><tr><td>Reference</td><td>Book 78 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Пусть тот, кого обрадует то, что его удел его был увеличен, а срок жизни продлён, поддерживает родственные узы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5985</td></tr><tr><td>Arabic No</td><td>5985</td></tr><tr><td>Reference</td><td>Book 78 Hadith 16</td></tr></tbody></table></div>
 

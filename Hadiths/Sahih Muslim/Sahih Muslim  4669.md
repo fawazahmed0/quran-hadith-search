@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Salama b. Akwa' who said:On the day of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Abdurrahman] -selain Ibnu Wahb menisbatkan kepada selainnya, Ibnu Abdullah bin Ka'ab bin Malik berkata- [Salamah bin Al Akwa'] berkata, "Ketika terjadi perang Khaibar, saudaraku berperang dengan dahsyatnya bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam, namun malang baginya, pedang yang dipakainya berbalik dan mengenainya hingga ia meninggal. Maka [para sahabat] Rasulullah shallallahu 'alaihi wasallam berkomentar mengenai peristiwa itu, bahwa ada seseorang yang mati karena tertusuk pedangnya sendiri." Salamah berkata, "Setelah Rasulullah shallallahu 'alaihi wasallam kembali pulang dari khaibar, maka aku bertanya kepada beliau, "Wahai Rasulullah, izinkanlah aku untuk malantunkan beberapa bait syair untuk anda!" Rasulullah shallallahu 'alaihi wasallam pun mengizinkannya, lantas Umar bin Khattab berkata, "Aku lebih tahu apa yang akan kamu katakan." Salamah berkata, "Lalu aku berkata (membacakan syair), "Demi Allah, kalau bukan karena Allah, niscaya kami tidak akan mendapatkan petunjuk, kami tidak akan bersedekah, dan kami tidak akan mendirikan shalat." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Kamu benar." (Salamah melanjutkan senandungnya), "Semoga Allah menurunkan ketenangan atas kita, dan teguhkanlah pendirian kami jika bertemu dengan musuh…salamah berkata, "ketika aku selesai melatunkan beberapa bait syair tersebut, Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebenarnya siapakah yang melantunkan bait syair ini?" Aku menjawab, "Saudaraku." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah merahmatinya." Salamah berkata, "Maka aku bertanya, "Wahai Rasulullah, sesungguhnya orang-orang enggan mendo'akan dia, justru mereka mengatakan bahwa ada seorang laki-laki mati karena pedangnya sendiri." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Dia telah gugur sebagai seorang Mujahid." [Ibnu Syihab] berkata, "Setelah itu baru aku bertanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4669</td></tr><tr><td>Arabic No</td><td>1802.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4669</td></tr><tr><td>Arabic No</td><td>1802.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 151</td></tr></tbody></table></div>
 

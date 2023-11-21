@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) stood up amongst the people
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul 'Aziz bin Abdullah], Telah menceritakan kepada kami [Ibrahim] dari [Shalih] dari [Ibnu Syihab] dari [Salim bin Abdullah] bahwasanya [Abdullah bin Umar] radliallahu 'anhu mengatakan, Rasulullah Shallallahu'alaihiwasallam berdiri di tengah-tengah para sahabat lantas memuji Allah dengan pujian selayaknya bagi-Nya, kemudian beliau menyebut-nyebut dajjal dan mengatakan; "Sungguh saya mengingatkan kalian tentang dajjal, dan tidak ada seorang pun Nabi melainkan telah mengingatkan kaumnya tentang dajjal, dan akan saya jelaskan kepada kalian tentangnya suatu hal yang belum pernah dijelaskan oleh seorang Nabi shallallahu 'alaihi wasallam pun kepada kaumnya, sesungguhnya dajjal itu buta sebelah sedang Allah tidak buta sebelah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7127</td></tr><tr><td>Arabic No</td><td>7127</td></tr><tr><td>Reference</td><td>Book 92 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Однажды Посланник Аллаха ﷺ находившийся среди людей, поднялся со своего места и должным образом воздал хвалу Аллаху, а потом упомянул об Даджале и сказал: “Поистине, я предостерегаю вас от него, и не было ни одного пророка, который не предостерегал бы о нём свой народ. Но я скажу вам о нём то, чего не говорил ни один пророк своему народу: он одноглазый, тогда как Аллах не одноглазый!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7127</td></tr><tr><td>Arabic No</td><td>7127</td></tr><tr><td>Reference</td><td>Book 92 Hadith 74</td></tr></tbody></table></div>
 

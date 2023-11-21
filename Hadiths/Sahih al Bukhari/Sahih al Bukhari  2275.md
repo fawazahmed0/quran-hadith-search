@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khabbab:I was a blacksmith and did some work for Al-'As bin Wail. When 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] dari [Muslim] dari [Masruq] telah menceritakan kepada kami [Khabbab] berkata: "Pada masa Jahiliyyah aku adalah seorang tukang besi dan emas lalu aku bekerja pada Al 'Ash bin Wa'il lalu upahku aku kumpulkan kepadanya kemudian aku menagih agar dia membayarnya. Dia berkata: "Demi Allah, aku tidak akan membayarnya kepadamu kecuali kamu mau mengingkari (kufur) Muhammad shallallahu 'alaihi wasallam ". Aku katakan: "Adapun aku, demi Allah tidak akan kufur sampai kamu mati lalu kamu dibangkitkan. Dia berkata: "Biarkanlah aku sampai aku mati lalu dibangkitkan". Aku katakan: Baik kalau begitu". Dia berkata: "Sungguh aku akan mendapatkan harta dan anak lalu aku akan bayar hutang kepadamu". Maka Allah Ta'ala menurunkan QS Maryam ayat yang artinya: (" Maka apakah kamu telah melihat orang yang kafir kepada ayat-ayat kami dan ia mengatakan "pasti Aku akan diberi harta dan anak") (QS. Maryam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2275</td></tr><tr><td>Arabic No</td><td>2275</td></tr><tr><td>Reference</td><td>Book 37 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб, да будет доволен им Аллах, сказал: «Раньше я был кузнецом, и как-то я выполнил работу для аль-‘Аса ибн Уаиля, он задолжал мне, и (однажды) я пришёл к нему, чтобы потребовать возврата долга. Он сказал: “Нет, клянусь Аллахом! Я (ничего) не отдам тебе, пока ты не перестанешь верить в Мухаммада!” Я воскликнул: “Я не перестану верить в него до тех пор, пока ты не умрёшь и не воскреснешь!” Он сказал: “Значит я умру, а потом воскресну?” Я ответил: “Да”. Он сказал: “Тогда, когда у меня будут там имущество и дети, я верну тебе долг!” После этого Всевышний Аллах ниспослал: “Видел ли ты того, кто не уверовал в Наши знамения и сказал: “Я непременно буду одарен богатством и детьми?” (сура «Марьям», аят 77)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2275</td></tr><tr><td>Arabic No</td><td>2275</td></tr><tr><td>Reference</td><td>Book 37 Hadith 15</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما) a dit : Pendant que les fidèles faisaien
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abdul Aziz bin Muslim] telah menceritakan kepada kami [Abdullah bin Dinar] dari [Ibnu Umar] --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan lafazh tersebut miliknya, dari [Malik bin Anas] dari [Abdullah bin Dinar] dari [Ibnu Umar] dia berkata, "Ketika orang-orang dalam shalat Shubuh di Quba', tiba-tiba seseorang mendatangi mereka seraya berkata, 'Rasulullah Shallallahu'alaihiwasallam telah diturunkan wahyu atas beliau pada suatu malam, dan beliau telah diperintahkan untuk berkiblat menghadap Ka'bah, maka kalian menghadap kiblatlah, dan sebelumnya mereka menghadap ke Syam, maka mereka memutar menghadap Ka'bah'." Telah menceritakan kepadaku [Suwaid bin Sa'id] telah menceritakan kepadaku [Hafsh bin Maisarah] dari [Musa bin Uqbah] dari [Nafi'] dari [Ibnu Umar] dan dari [Abdullah bin Dinar] dari [Ibnu Umar] dia berkata, "Ketika orang-orang berada dalam shalat shubuh, tiba-tiba seorang laki-laki mendatangi mereka' seperti hadis Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1178</td></tr><tr><td>Arabic No</td><td>526.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «(Однажды), когда люди совершали утреннюю молитву в мечети Къуба, к ним пришёл какой-то человек и сказал: “Поистине, этой ночью (Аллах) ниспослал Посланнику Аллаха ﷺ (Коран) и велел обратиться (лицом) в сторону Каабы, так повернитесь же к ней”. Они стояли лицом к Шаму и повернулись к Каабе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1178</td></tr><tr><td>Arabic No</td><td>526.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 18</td></tr></tbody></table></div>
 

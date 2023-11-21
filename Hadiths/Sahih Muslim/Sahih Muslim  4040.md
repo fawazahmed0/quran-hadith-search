@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Humaid reported Anas (Allah be pleased with him) having said this:Allah's Apostl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hasan bin Khirasy] telah menceritakan kepada kami [Syababah] telah menceritakan kepada kami [Syu'bah] dari [Humaid] dia berkata; saya mendengar [Anas] berkata, "Nabi shallallahu 'alaihi wasallam pernah memanggil pelayan kami yang berprofesi sebagai tukang bekam, lantas dia membekam beliau. Setelah itu, beliau memerintahkan supaya memberi satu sha' atau satu mud atau dua mud (makanan), beliau juga memerintahkan supaya meringankan tugas yang dibebankan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4040</td></tr><tr><td>Arabic No</td><td>1577.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4040</td></tr><tr><td>Arabic No</td><td>1577.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 79</td></tr></tbody></table></div>
 

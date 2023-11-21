@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Abi Bakra's father:Once the Prophet (ﷺ) was riding 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Bisyir] berkata, telah menceritakan kepada kami [Ibnu 'Aun] dari [Ibnu Sirin] dari [Abdurrahman bin Abu Bakrah] dari [bapaknya], dia menuturkan, bahwa Nabi shallallahu 'alaihi wasallam duduk diatas untanya sementara orang-orang memegangi tali kekang unta tersebut. Beliau shallallahu 'alaihi wasallam berkata: "Hari apakah ini? '. Kami semua terdiam dan menyangka bahwa Beliau akan menamakan nama lain selain nama hari yang sudah dikenal. Beliau shallallahu 'alaihi wasallam berkata: "Bukankah hari ini hari Nahar?" Kami menjawab: "Benar". Nabi shallallahu 'alaihi wasallam kembali bertanya: "Bulan apakah ini? '. Kami semua terdiam dan menyangka bahwa Beliau akan menamakan nama lain selain nama bulan yang sudah dikenal. Beliau shallallahu 'alaihi wasallam berkata: "Bukankah ini bulan Dzul Hijjah?" Kami menjawab: "Benar". Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya darah kalian, harta kalian dan kehormatan kalian sesama kalian haram (suci) sebagaimana sucinya hari kalian ini, bulan kalian ini dan tanah kalian ini. (Maka) hendaklah yang hadir menyampaikan kepada yang tidak hadir, karena orang yang hadir semoga dapat menyampaikan kepada orang yang lebih paham darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>67</td></tr><tr><td>Arabic No</td><td>67</td></tr><tr><td>Reference</td><td>Book 3 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, сказал: «Пророк ﷺ да, сел на своего верблюда, которого держал за повод (или: недоуздок) один человек, а потом спросил: “Что это за день?” Мы промолчали, так как подумали, что он назовёт его как-нибудь по-другому, но он сказал: “Разве это не день жертвоприношения?” Мы сказали: “Да”. (Затем) он спросил: “А что это за месяц?” Мы (снова) промолчали, так как подумали, что он назовёт его как-нибудь по-другому, но он сказал: “Разве это не зуль-хиджжа?” Мы сказали: “Да”. (Тогда) он сказал: “Поистине, взаимоотношения меж вами должны быть такими, чтобы ваша кровь, ваше имущество и ваша честь являлись для вас столь же священными, сколь священным является этот ваш день в этом вашем месяце в этом вашем городе! Пусть присутствующий известит об этом отсутствующего, но, поистине, может получиться и так, что присутствующий известит того, кто усвоит это лучше него самого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>67</td></tr><tr><td>Arabic No</td><td>67</td></tr><tr><td>Reference</td><td>Book 3 Hadith 9</td></tr></tbody></table></div>
 

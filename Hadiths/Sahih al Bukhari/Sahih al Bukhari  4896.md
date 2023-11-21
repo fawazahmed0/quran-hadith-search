@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:I heard Allah's Messenger (ﷺ) saying, 'I have sever
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata, Telah mengabarkan kepadaku [Muhammad bin Jubair bin Muth'im] dair [bapaknya radliallahu 'anhu] ia berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam berabda: "Sesungguhnya aku memiliki beberapa nama. Aku adalah Muhammad, Ahmad, Al Mahi yang maknanya dengankulah Allah menghilangkan kekafiran. Aku juga adalah Al Hasyir, yang maknanya manusia dibangkitkan di atas telapak kakiku. Dan aku juga Al 'Aqib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4896</td></tr><tr><td>Arabic No</td><td>4896</td></tr><tr><td>Reference</td><td>Book 65 Hadith 416</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джубайра ибн Мут‘има, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «У меня есть пять имён: я — Мухаммад и Ахмад (достойный похвалы), и я — аль-Махи (стирающий), посредством которого Аллах сотрёт неверие, и я — аль-Хашир (собирающий), у ног которого будут собраны люди, и я — аль-‘Акиб (идущий вслед. Имеется в виду, что после пророка Мухаммада ﷺ других пророков уже не будет)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4896</td></tr><tr><td>Arabic No</td><td>4896</td></tr><tr><td>Reference</td><td>Book 65 Hadith 416</td></tr></tbody></table></div>
 

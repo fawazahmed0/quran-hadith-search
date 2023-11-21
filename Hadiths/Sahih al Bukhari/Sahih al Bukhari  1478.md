@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd (bin Abi Waqqas):Allah's Messenger (ﷺ) distributed something (fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ghurair Az Zuhri] telah menceritakan kepada kami [Ya'qub bin Ibrahim] dari [bapaknya] dari [Shalih bin Kaisan] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya ['Amir bin Sa'ad] dari [bapaknya] berkata; "Rasulullah Shallallahu'alaihiwasallam memberikan suatu harta dari shadaqah sedangkan saat itu aku sedang duduk di tengah-tengah mereka. Saat itu Rasulullah Shallallahu'alaihiwasallam membiarkan dan tidak memberi seorang pun dari mereka, padahal orang itu adalah yang paling menakjubkan aku diantara mereka yang hadir. Maka aku menemui Rasulullah Shallallahu'alaihiwasallam dan aku mendekati beliau seraya aku bertanya: "Wahai Rasulullah Shallallahu'alaihiwasallam, bagaimana dengan si fulan?. Demi Allah sungguh aku memandangnya dia sebagai seorang mu'min. Nabi Shallallahu'alaihiwasallam membalas: "atau dia muslim?". Kemudian aku terdiam sejenak lalu aku terdorang untuk lebih mengetahui apa yang dimaksud Beliau Shallallahu'alaihiwasallam, maka aku ulangi ucapanku: "Wahai Rasululloh Shallallahu'alaihiwasallam bagaimana dengan si fulan?". Demi Allah, sungguh aku memandangnya sebagai seorang mu'min. Nabi Shallallahu'alaihiwasallam membalas: atau dia muslim? Aku masih terdiam sejenak lalu aku terdorang lagi untuk lebih memastikan apa yang dimaksudnya hingga aku ulangi lagi pertanyaanku: "Wahai Rasululloh Shallallahu'alaihiwasallam bagaimana dengan si fulan?". Demi Allah, sungguh aku memandangnya sebagai seorang mu'min. Lalu Nabi Shallallahu'alaihiwasallam menjelaskan: "Sungguh aku memberikan kepada seseorang atau selain dia lebih aku sukai dari pada memberi kepada dia karena aku takut kalau dia akan dicampakkan mukanya ke neraka". Dan dari [bapaknya] dari [Shalih] dari [Isma'il bin Muhammad] bahwa dari berkata; Aku mendengar [bapakku] menceritakan sepereti ini yang dia ceritakan dalam hadits yang diceritakannya: Maka Rasulullah Shallallahu'alaihiwasallam memukulkan kedua tangannya lalu mengumpulkannya diantara leher dan pundaknya kemudian bersabda: "Dengarlah Sa'ad, sungguh aku memberikan kepada seseorang ….". Berkata, Abu 'Abdullah Al Bukhariy: (QS. Asy-Syu'ara ayat 94) artinya: "Dibalik (wajah mereka) lalu dibenamkan". Sedangkan (Al Mulk ayat 22) artinya: "Seseorang dikatakan terjungkal bila perbuatannya tidak realistis dan jika dia benar berbuat kamu akan mengatakannya Allah menjungkalkan wajah orang itu begitu juga aku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1478</td></tr><tr><td>Arabic No</td><td>1478</td></tr><tr><td>Reference</td><td>Book 24 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амир ибн Са‘д передал, что его отец сказал: «Однажды Посланник Аллаха ﷺ оделил подарками группу людей, среди которых сидел и я. При этом Посланник Аллаха ﷺ ничего не дал одному человеку, который нравился мне больше всех из них. Я подошел к Посланнику Аллаха ﷺ и тайно спросил его: “Почему ты так отнёсся к такому-то? Клянусь Аллахом, я считаю, что он — верующий!” Он сказал: “Или мусульманин”. Я помолчал немного, но мне не давало покоя то, что я знал об этом человеке, и я снова спросил: “О, Посланник Аллаха! Почему ты так отнёсся к такому-то? Клянусь Аллахом, я считаю, что он — верующий!” Он сказал: “Или мусульманин”. Но и после этого то, что мне было известно об этом человеке, продолжало беспокоить меня, и я снова спросил: “О, Посланник Аллаха! Почему ты так отнёсся к такому-то? Клянусь Аллахом, я считаю, что он — верующий!” Он сказал: “Или мусульманин”. Затем Посланник Аллаха ﷺ добавил: “Поистине, (иногда) я даю человеку в то время, как другой любимей для меня чем он, из страха, что он может быть ввергнут лицом в Огонь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1478</td></tr><tr><td>Arabic No</td><td>1478</td></tr><tr><td>Reference</td><td>Book 24 Hadith 79</td></tr></tbody></table></div>
 

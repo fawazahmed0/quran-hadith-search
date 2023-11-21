@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubayy ibn Ka'b: The Prophet (ﷺ) used to observe i'tikaf during the la
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], telah mengabarkan kepada kami [Tsabit] dari [Abu Rafi'] dari [Ubai bin Ka'bin], bahwa Nabi shallallahu 'alaihi wasallam beri'tikaf sepuluh hari Bulan Ramadhan, dan beliau tidak beri'tikaf satu tahun. Kemudian tatkala pada tahun mendatang beliau beri'tikaf selama dua puluh malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2463</td></tr><tr><td>Arabic No</td><td>2463</td></tr><tr><td>Reference</td><td>Book 14 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Убаййа ибн Ка‘ба, да будет доволен им Аллах, что Пророк ﷺ неотлучно пребывал в мечети в последние десять дней рамадана, потом в один год вообще не делал этого, а в последний год он неотлучно пребывал в мечети двадцать дней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2463</td></tr><tr><td>Arabic No</td><td>2463</td></tr><tr><td>Reference</td><td>Book 14 Hadith 151</td></tr></tbody></table></div>
 

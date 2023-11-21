@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:'Umar asked the people regarding Allah's Statement: 'When co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abu Syaibah] Telah menceritakan kepada kami [Abdurrahman] ia berkata; Telah menceritakan kepada kami [Sufyan] dari [Habib bin Abu Tsabit] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwasanya Umar menanyakan kepada mereka (para pembesar Badar) mengenai firman Allah Ta'ala, "IDZAA JAA'A NASHRULLAHI WAL FATH." Mereka menjawab: "Yaitu, penaklukan kota-kota dan istana-istana." Umar berkata, "Bagaimanakah pendapatmu wahai Ibnu Abbas? ' Ibnu Abbas menjawab, "Maksudnya adalah ajal, atau suatu permisalan yang diberikan untuk Muhammad shallallahu 'alaihi wasallam bahwa ajal beliau telah dekat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4969</td></tr><tr><td>Arabic No</td><td>4969</td></tr><tr><td>Reference</td><td>Book 65 Hadith 491</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас рассказывал, что как-то раз ’Умар, да будет доволен им Аллах, спросил сподвижников о Словах Всевышнего «Когда придёт помощь Аллаха и победа…». Сподвижники сказали: «Речь идёт о завоевании городов и дворцов». (Услышав их ответ,) ’Умар спросил: «А что скажешь ты, о Ибн ‘Аббас?» Ибн ‘Аббас сказал: «Этот аят известил Мухаммада ﷺ о скорой смерти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4969</td></tr><tr><td>Arabic No</td><td>4969</td></tr><tr><td>Reference</td><td>Book 65 Hadith 491</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Abu Bakr bin Abu Syaibah], ['Amru An Naqid] dan [Zuhair bin Harb]; Dan lafazh ini milik Yahya; [Yahya] Berkata; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Abu Salamah] dan [Sulaiman bin Yasar] dari [Abu Hurairah radliallahu 'anhu], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Orang-orang Yahudi dan Nasrani tidak mencelup (rambut dan jenggot mereka). Karena itu selisihilah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5510</td></tr><tr><td>Arabic No</td><td>2103</td></tr><tr><td>Reference</td><td>Book 37 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5510</td></tr><tr><td>Arabic No</td><td>2103</td></tr><tr><td>Reference</td><td>Book 37 Hadith 125</td></tr></tbody></table></div>
 

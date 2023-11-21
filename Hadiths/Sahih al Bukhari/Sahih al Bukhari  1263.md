@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya:One of the daughters of the Prophet (ﷺ) expired and he cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada saya [Yahya bin Sa'id] dari [Hisyam bin Hassan] berkata, telah menceritakan kepada kami [Hafshah] dari [Ummu 'Athiyyah radliallahu 'anha] berkata: Ketika salah satu puteri Nabi shallallahu 'alaihi wasallam wafat, Nabi shallallahu 'alaihi wasallam mendatangi kami seraya berkata: "Mandikanlah menggunakan daun bidara dengan ganjil, tiga kali, lima kali atau lebih dari itu jika kalian anggap perlu dan jadikanlah yang terakhirnya dengan kafur barus (wewangian) atau yang sejenis dari kapur barus (kamper). Dan bila kalian telah selesai beritahu aku". Ketika kami telah selesai, kami memberi tahu Beliau, kemudian Beliau memberikan kain Beliau kepada kami. Maka kami menyisir (dan menguraikan lalu mengepangnya) rambut kepalanya menjadi tiga kepang dan kami letakkan di belakangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1263</td></tr><tr><td>Arabic No</td><td>1263</td></tr><tr><td>Reference</td><td>Book 23 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыйя, да будет доволен ей Аллах, сказала: «Когда умерла одна из дочерей Пророка ﷺ он пришел к нам и сказал: “Обмойте её трижды, или пять раз, или более того, если посчитаете нужным, отваром сидра, а в последний раз используйте камфару [или: немного камфары] и дайте мне знать, когда закончите”. Закончив обмывать её тело, мы сообщили ему об этом, а он дал нам свой изар и мы заплели её волосы в три косы и забросили их назад»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1263</td></tr><tr><td>Arabic No</td><td>1263</td></tr><tr><td>Reference</td><td>Book 23 Hadith 24</td></tr></tbody></table></div>
 

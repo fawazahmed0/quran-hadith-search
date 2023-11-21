@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, " If anyone of you sneezes, he shou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kami [Abdul Aziz bin Abu Salamah] telah mengabarkan kepada kami [Abdullah bin Dinar] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Ababila salah seorang dari kalian bersin, hendaknya ia mengucapkan "Al Hamdulillah" sedangkan saudaranya atau temannya hendaklah mengucapkan "Yarhamukallah (semoga Allah merahmatimu), dan hendaknya ia membalas; "Yahdikumullah wa yushlih baalakum (semoga Allah memberimu petunjuk dan memperbaiki hatimu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6224</td></tr><tr><td>Arabic No</td><td>6224</td></tr><tr><td>Reference</td><td>Book 78 Hadith 248</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если кто-нибудь из вас чихнёт, пусть скажет: “Хвала Аллаху!” /Адь-хамду ли-Лляхи! /, — и пусть его брат (или: … его спутник) скажет ему: “Да помилует тебя Аллах!” /Йархаму-кя-Ллаху! /, — а если он скажет ему: “Да помилует тебя Аллах!”, — пусть (чихнувший) скажет (ему в ответ): “Да укажет вам Аллах правильный путь и да приведёт Он в порядок все дела ваши!” /Йахдикуму-Ллаху ва йуслиху баля-кум! /»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6224</td></tr><tr><td>Arabic No</td><td>6224</td></tr><tr><td>Reference</td><td>Book 78 Hadith 248</td></tr></tbody></table></div>
 

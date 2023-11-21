@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miqdad ibn al-Aswad: I never saw the Messenger of Allah (ﷺ) prayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid Ad-Dimasyqi] telah menceritakan kepada kami [Ali bin 'Ayyasy] telah menceritakan kepada kami [Abu Ubaidah Al-Walid bin Kamil] dari [Al-Muhallab bin Hujr Al-Bahrani] dari [Dluba'ah binti Al-Miqdad bin Al-Aswad] dari [Ayahnya] dia berkata; Saya tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam shalat menghadap kayu, tiang, dan tidak pula pohon, kecuali beliau menjadikannya di depan sebelah kanannya atau kirinya, dan beliau tidak menghadapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>693</td></tr><tr><td>Arabic No</td><td>693</td></tr><tr><td>Reference</td><td>Book 2 Hadith 303</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Дуба‘и бинт аль-Микъдад ибн аль-Асуад о том, что её отец (аль-Микъдад ибн аль-Асуад) сказал: «Я никогда не видел, чтобы Посланник Аллаха ﷺ молился ни перед палкой, ни перед столбом, ни перед деревом, не оставив его справа или слева от себя и не направлялся (лицом) к ним».Также этот хадис передали Ахмад 6/4 и аль-Байхакъи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>693</td></tr><tr><td>Arabic No</td><td>693</td></tr><tr><td>Reference</td><td>Book 2 Hadith 303</td></tr></tbody></table></div>
 

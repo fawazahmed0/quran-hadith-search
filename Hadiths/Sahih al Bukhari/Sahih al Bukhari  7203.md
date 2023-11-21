@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Dinar:I witnessed Ibn 'Umar when the people gathered arou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepada kami [Abdullah bin Dinar] mengatakan, aku pernah menyaksikan [Ibnu Umar] ketika orang-orang berkumpul kepada Abdul Malik, ia mengatakan dengan menulis; "Saya ikrarkan untuk senantiasa mendengar dan taat terhadap hamba Allah Abdul Malik amirul mukminin diatas sunnatullah dan sunnah rasul-NYA semaksimal kemampuanku, dan anak-anakku mengikrarkan yang sedemikian ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7203</td></tr><tr><td>Arabic No</td><td>7203</td></tr><tr><td>Reference</td><td>Book 93 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Динар рассказывал: «Я видел Ибн ‘Умара (в то время), когда люди собрались вокруг ‘Абдульмалика (ибн Марвана), он написал (ему): “Поистине, я признаю за собой послушание и подчинение рабу Аллаха — ‘Абдульмалику повелителю правоверных на основании Сунны Аллаха и Сунны Его посланника по мере своих сил, а также то, что мои сыновья признают за собой то же самое”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7203</td></tr><tr><td>Arabic No</td><td>7203</td></tr><tr><td>Reference</td><td>Book 93 Hadith 63</td></tr></tbody></table></div>
 

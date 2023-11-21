@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Tilha, the Companion of Allah's Messenger (ﷺ), reported Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits] dari [Bukair] dari [Busr bin Sa'id] dari [Zaid bin Khalid] dari [Abu Thalhah] sahabat Rasulullah shallallahu 'alaihi wasallam dia berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Sesungguhnya para malaikat tidak akan masuk sebuah rumah yang di dalamnya ada gambar." [Busr] berkata; pada suatu hari setelah itu Zaid sakit, lalu kami menjenguknya tiba-tiba kami melihat di depan pintunya ada tirai yang bergambar. Busr bertanya kepada [Ubaidullah Al Khaulani] anak tiri Maimunah istri Nabi shallallahu 'alaihi wasallam; 'Bukankah Zaid dulu pernah mengabarkan kepada kita tentang masalah gambar? Ubaidullah balik bertanya; 'Apakah kamu tidak mendengarnya ketika dia mengatakan; 'Kecuali garis atau tulisan pada kain?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5517</td></tr><tr><td>Arabic No</td><td>2106.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5517</td></tr><tr><td>Arabic No</td><td>2106.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 132</td></tr></tbody></table></div>
 

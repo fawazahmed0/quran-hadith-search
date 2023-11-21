@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Dihyah ibn Khalifah al-Kalbi: The Messenger of Allah (ﷺ) was brought 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Amru bin As Sarh] dan [Ahmad bin Sa'id Al Hamdani] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepada kami [Ibnu Lahi'ah] dari [Musa bin Jubair] bahwa [Ubaidullah bin Abbas] menceritakan kepadanya dari [Khalid bin Yazid bin Mu'awiyah] dari [Dihyah bin Khalifah Al Kalbi] Bahwasanya ia berkata, "Rasulullah shallallahu 'alaihi wasallam diberi beberapa potong kain Qubthiyah (kain mesir yang tipis dan berwarna putih), lalu memberikan satu potong kepadaku. Beliau bersabda: "Bagilah menjadi dua bagian. Sebagian buatlah baju dan sebagian yang lain berikanlah kepada isterimu untuk dijadikan kerudung." Ketika telah berlalu, beliau berbalik dan bersabda: "Perintahkanlah isterimu agar ia melapisi pada bagian bawahnya agar tidak membentuk tubuhnya." Abu Dawud berkata, "Hadits ini diriwayatkan oleh [Yahya bin Ayyub], dan ia berkata; [Abbas bin Ubaidullah bin Abbas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4116</td></tr><tr><td>Arabic No</td><td>4116</td></tr><tr><td>Reference</td><td>Book 34 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Дихьи ибн Халифа аль-Кальби, да будет доволен им Аллах: «Посланнику Аллаха ﷺ принесли тонкие льняные египетские ткани, и он дал мне одну из них и сказал: “Раздели её на две части. Из одной сделай рубаху, а вторую отдай жене, чтобы она использовала её в качестве покрывала”». А когда он уже повернулся, чтобы уйти, (Посланник Аллаха ﷺ) сказал: «И вели жене надевать под неё какую-нибудь одежду, чтобы эта одежда не просвечивала»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4116</td></tr><tr><td>Arabic No</td><td>4116</td></tr><tr><td>Reference</td><td>Book 34 Hadith 97</td></tr></tbody></table></div>
 

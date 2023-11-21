@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Kharija bin Zaid:Zaid bin Thabit said, "When the Qur'an was compiled fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy]. Dan diriwayatkan pula, telah bercerita kepada kami [Isma'il] berkata telah bercerita kepadaku [saudaraku] dari [Sulaiman] yang dianggapnya dari [Muhammad bin Abi 'Atiq] dari [Ibnu Syihab] dari [Khorijah bin Zaid] bahwa [Zaid bin Tsabit radliallahu 'anhu] berkata; "Aku menulis ayat ke dalam shuhuf lalu aku kehilangan satu ayat yang aku pernah dengar Rasulullah shallallahu 'alaihi wasallam membacanya. Kemudian aku tidak mendapatkannya kecuali ada pada Khuzaimah bin Tsabit, seorang shahabat yang persaksiannya dijadikan oleh Rasulullah shallallahu 'alaihi wasallam seperti persaksian dua orang. Ayat dimaksud adalah QS al-Ahzab 23 yang artinya ("Dan diantara Kaum Mu'minin ada orang-orang yang menepati apa yang telah mereka janjikan kepada Allah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2807</td></tr><tr><td>Arabic No</td><td>2807</td></tr><tr><td>Reference</td><td>Book 56 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Сабит, да будет доволен им Аллах, сказал: «Переписывая листы из (различных копий) Корана, я потерял один аят из суры “Сонмы”, который часто слышал от Посланника Аллаха ﷺ и смог найти его только у Хузаймы ибн Сабита аль-Ансари, свидетельство которого Посланник Аллаха ﷺ приравнивал к свидетельству двух человек. В этом аяте говорилось (следующее): “Среди верующих есть люди, которые верны тому, что они обещали Аллаху, и есть среди них такие, которые выполнили свой обет, и такие, которые ждут, не изменив (своего решения) ни в чём”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2807</td></tr><tr><td>Arabic No</td><td>2807</td></tr><tr><td>Reference</td><td>Book 56 Hadith 23</td></tr></tbody></table></div>
 

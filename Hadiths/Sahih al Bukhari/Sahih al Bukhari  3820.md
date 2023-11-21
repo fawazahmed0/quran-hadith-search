@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Gabriel came to the Prophet (ﷺ) and said, "O Allah's Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3820</td></tr><tr><td>Arabic No</td><td>3820</td></tr><tr><td>Reference</td><td>Book 63 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Джибриль явился к Пророку ﷺ и сказал: “О Посланник Аллаха, Хадиджа принесла приправу к хлебу (или: еду; или: питье). Когда она подойдёт к тебе, приветствуй её от имени её Господа и от меня и порадуй её благой вестью о том, что в Раю (её ждет) дом из полой жемчужины, где не будет шума (и где не будет она знать) усталости”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3820</td></tr><tr><td>Arabic No</td><td>3820</td></tr><tr><td>Reference</td><td>Book 63 Hadith 45</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama: A woman was bereaved of her husband and her relatives worrie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] Telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepada kami [Humaid bin Nafi'] dari [Zainab binti Ummu Salamah] dari [Ibunya] bahwasanya; Ada seorang wanita yang ditinggal mati oleh suaminya, hingga orang-orang pun mengkhawatir kesehatan kedua matanya. Maka mereka mendatangi Rasulullah shallallahu 'alaihi wasallam dan meminta izin bolehnya mencelak mata. Maka beliau bersabda: "Janganlah kamu bercelak. Sesungguhnya -pada masa jahiliyah dulu- salah seorang dari kalian berdiam diri dalam rumahnya yang paling lusuh. Setelah setahun berlaku, seekor anjing lewat, dan ia pun melemparinya dengan kotoran. Karena itu, janganlah bercelak hingga empat bulan sepuluh hari telah berlalu." Dan aku mendengar [Zainab binti Ummu Salamah] menceritakan dari [Ummu Habibah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak halal bagi seorang wanita muslimah yang beriman kepada Allah dan hari akhir untuk berkabung lebih dari tiga hari kecuali atas suaminya, yakni empat bulan sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5338</td></tr><tr><td>Arabic No</td><td>5338</td></tr><tr><td>Reference</td><td>Book 68 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умм Салямы, да будет доволен ею Аллах, что (близкие) одной женщины, у которой умер муж, испытывавшие беспокойство за её глаза, пришли к Посланнику Аллаха ﷺ и попросили у него разрешения на (то, чтобы лечить её с помощью) сурьмы, однако он сказал: «Она не должна пользоваться сурьмой. (Когда во времена джахилийи женщина) оставалась вдовой, она носила самую плохую одежду (или: жила в худшей части дома), а если по прошествии года мимо неё проходила собака, она бросала в неё навозом! Не следует ей пользоваться сурьмой раньше, чем через четыре месяца и десять (дней)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5338</td></tr><tr><td>Arabic No</td><td>5338</td></tr><tr><td>Reference</td><td>Book 68 Hadith 83</td></tr></tbody></table></div>
 

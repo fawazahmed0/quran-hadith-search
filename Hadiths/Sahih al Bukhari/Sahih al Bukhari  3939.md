@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Al-Minhal 'AbdurRahman bin Mut'im:A partner of mine sold some Dirha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari ['Amru] dia mendengar [Abu Al Minhal Abdurrahman bin Muth'im] berkata; "Syarik pernahh menjual beberapa dirham kepadaku secara nasi'ah (pembayaran ditunda dengan nilai lebih). Maka aku berkata; "Maha suci Allah, apakah ini diperbolehkan?". Syarik berkata; "Mahasuci Allah. Demi Allah, kami melakukannya di pasar dan tidak ada seorangpun yang melarangnya." Lalu aku bertanya kepada [Al Bara' bin 'Azib], dia menjawab; "Nabi shallallahu 'alaihi wasallam tiba di Madinah sementara kami mempraktekkan cara jual beli seperti ini. Apabila dengan cara kontan, maka tidak ada dosa padanya. Namun jika dengan nasi'ah, maka hal ini tidak diperbolehkan. Pergilah menemui Zaid bin Arqam dan tanyalah kepadanya, karena dia adalah seorang saudagar yang sukses." Maka aku bertanya kepada [Zaid bin Arqam] dan dia menjawab seperti yang di katakan Al Bara'." Suatu kali Sufyan berkata; "Nabi shallallahu 'alaihi wasallam menemui kami di Madinah, ketika kami tengah berjual beli. Dan dia berkata; "Nasi'ah adalah pembayaran jual beli pada waktu yang ditentukan yaitu tahun depan atau musim haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3939</td></tr><tr><td>Arabic No</td><td>3939</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу аль-Минхаль ‘Абдуррахман ибн Мут’им сказал: «(Однажды) мой партнёр продал на рынке дирхамы в рассрочку, и я сказал: “Пречист Аллах! Разве так можно делать?!” Он ответил: “Пречист Аллах! Клянусь Аллахом, я продал их на рынке, и никто не порицал меня”. Тогда я спросил об этом аль-Бара ибн ‘Азиба, и он ответил: “Когда Пророк ﷺ прибыл в Медину, мы занимались такими продажами, и он сказал: “Если это происходит из рук в руки, то в этом нет проблем, а если в рассрочку, то это не разрешается”. Иди к Зейду ибн Аркаму и спроси его, ведь он больше нас занимался торговлей”. Я спросил Зейда ибн Аркама, и он ответил то же самое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3939</td></tr><tr><td>Arabic No</td><td>3939</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

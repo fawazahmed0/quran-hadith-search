@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The people mentioned the fire and the bell (they suggested those a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Imran bin Maisarah] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Khalid Al Hadza'] dari [Abu Qilabah] dari [Anas bin Malik] berkata, "Orang-orang menyebut-nyebut tentang api dan lonceng (dalam mengusulkan cara memanggil shalat). Lalu ada juga di antara mereka yang mengusulkan seperti kebiasaan orang-orang Yahudi dan Nahrani. Maka Bilal diperintahkan untuk mengumandangkan adzan dengan dua kali dua kali dan iqamat dengan bilangan ganjil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>603</td></tr><tr><td>Arabic No</td><td>603</td></tr><tr><td>Reference</td><td>Book 10 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(Люди) упомянули об огне и колоколе, иудеях и христианах, и было велено Билялу (повторять слова) азана чётное число раз, а икъамы — нечётное /витр/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>603</td></tr><tr><td>Arabic No</td><td>603</td></tr><tr><td>Reference</td><td>Book 10 Hadith 1</td></tr></tbody></table></div>
 

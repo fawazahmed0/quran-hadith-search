@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd b. Yazid reported:I said to Anas b. Malik: Did the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1236</td></tr><tr><td>Arabic No</td><td>555.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Язид сказал: «(Однажды) я спросил Анаса ибн Малика: “Молился ли Посланник Аллаха ﷺ в сандалиях?”, и он сказал: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1236</td></tr><tr><td>Arabic No</td><td>555.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 74</td></tr></tbody></table></div>
 

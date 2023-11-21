@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Samura bin Jundub:The Prophet (ﷺ) offered the funeral prayer for the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Suraij] berkata, telah mengabarkan kepada kami [Syababah] berkata, telah mengabarkan kepada kami [Syu'bah] dari [Husain Al Mu'alim] dari ['Abdullah bin Buraidah] dari [Samrah bin Jundub], bahwa ada seorang wanita yang meninggal dunia karena hamil. Maka Nabi shallallahu 'alaihi wasallam menshalatinya dan beliau berdiri di bagian tengah (jenazah) nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>332</td></tr><tr><td>Arabic No</td><td>332</td></tr><tr><td>Reference</td><td>Book 6 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Самуры бин Джундуба, да будет доволен им Аллах, что после смерти одной женщины во время родов, Пророк ﷺ совершил по ней заупокойную молитву, встав напротив середины её тела
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>332</td></tr><tr><td>Arabic No</td><td>332</td></tr><tr><td>Reference</td><td>Book 6 Hadith 36</td></tr></tbody></table></div>
 

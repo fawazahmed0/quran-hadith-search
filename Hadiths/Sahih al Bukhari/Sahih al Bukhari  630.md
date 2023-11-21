@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Malik bin Huwairith:Two men came to the Prophet (ﷺ) with the intentio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan kepada kami [Sufyan] dari [Khalid Al Hadzdza'] dari [Abu Qilabah] dari [Malik bin Al Huwairits] berkata, "Dua orang laki-laki datang menemui Nabi shallallahu 'alaihi wasallam, keduanya ingin melakukan suatu perjalanan. Nabi shallallahu 'alaihi wasallam lalu bersabda: "Jika kalian berdua sudah keluar, maka (bila hendak shalat) adzan dan iqamatlah. Dan yang menjadi Imam hendaklah yang paling tua di antara kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>630</td></tr><tr><td>Arabic No</td><td>630</td></tr><tr><td>Reference</td><td>Book 10 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Малик ибн аль-Хувайрис, да будет доволен им Аллах, сказал: «Как-то раз двое людей, собравшихся в путь, явились к Пророку ﷺ, и он сказал им: “Когда будете в пути, (сначала) произносите азан, потом — икаму, а потом пусть старший из вас станет для вас имамом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>630</td></tr><tr><td>Arabic No</td><td>630</td></tr><tr><td>Reference</td><td>Book 10 Hadith 27</td></tr></tbody></table></div>
 

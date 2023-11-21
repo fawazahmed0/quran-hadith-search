@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:"I saw Allah's Messenger (ﷺ) delaying the Maghrib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Salim] dari ['Abdullah bin 'Umar radliallahu 'anhu] berkata: "Aku melihat Rasulullah shallallahu 'alaihi wasallam jika perjalanan mendesak, Beliau menangguhkan shalat Maghrib dan menggabungkannya bersama shalat 'Isya'". Berkata, Salim: "Dan 'Abdullah bin 'Umar radliallahu 'anhu mengerjakannya juga bila terdesak (tergesa-gesa) dalam perjalanan". [Al Laits] menambahkan dan berkata, telah menceritakan kepada saya [Yunus] dari [Ibnu Syihab]; [Salim] berkata: [Ibnu 'Umar radliallahu 'anhuma] menggabungkan antara shalat Maghrib dan 'Isya' saat berada di Muzdalifah. Salim berkata, lagi; "Ibnu 'Umar radliallahu 'anhuma mengakhirkan shalat Maghrib karena hendak menolong isterinya Shafiyah binti Abu 'Ubaid (yang sedang sakit). Aku katakan kepadanya; "Mari kita dirikan shalat?!". Dia menjawab: "Terus saja berjalan". Aku katakan lagi; " Mari kita dirikan shalat?!". Dia menjawab: "Terus saja berjalan". Hingga ketika perjalanan sudah mencapai dua atau tiga mil, dia turun lalu mendirikan shalat. Setelah selesai dia berkata: "Beginilah, aku pernah melihat Nabi shallallahu 'alaihi wasallam melaksanakan shalat bila dalam keadaan terdesak dalam perjalanannya". Dan berkata, 'Abdullah bin 'Umar radliallahu 'anhu: "Aku melihat Nabi shallallahu 'alaihi wasallam jika perjalanan mendesak, Beliau menangguhkan shalat Maghrib, kemudian Beliau mengerjakan tiga raka'at lalu salam. Kemudian diam sejenak lalu mengerjakan shalat 'Isya' dengan dua raka'at lalu salam. Beliau tidak bertasbih (mengerjakan shalat sunnah) setelah shalat 'Isya' hingga Beliau bangun di penghujung malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1092</td></tr><tr><td>Arabic No</td><td>1092</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Шихаба (аз-Зухри) о том, что Салим (ибн ‘Абдуллах ибн ‘Умар) сказал: «Обычно, Ибн ‘Умар, да будет доволен ими обоими Аллах, объединял закатный намаз с вечерним в Муздалифе».\nСалим сказал: «И (однажды), когда к нему пришёл человек с криком о помощи его жене Сафийе бинт Абу ‘Убайд, Ибн ‘Умар отложил закатный намаз, и я сказал ему: “Намаз!”, но он сказал: “Двигайся (дальше)!” Я (снова) сказал: “Намаз!”, но он (опять) сказал: “Двигайся!” (И мы двигались), пока не проехали две или три мили, после чего он остановился, совершил намаз и затем сказал: “Я видел, что таким образом совершал намаз пророк, когда ему нужно было спешно двигаться (в пути)”.\nИ ‘Абдуллах (также) сказал: «Я видел, как Пророк ﷺ когда ему нужно было спешно двигаться (в пути), откладывал закатный намаз и совершал его в три (рак‘ата), после чего произносил слова таслима. Спустя непродолжительное время объявляли о начале вечернего намаза, и он совершал этот намаз в два рак‘ата, после чего (также) произносил слова таслима. И он не совершал после вечернего намаза дополнительных намазов, пока не вставал (для этого) посреди ночи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1092</td></tr><tr><td>Arabic No</td><td>1092</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
 

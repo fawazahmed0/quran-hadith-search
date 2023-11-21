@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported Allah's Messenger (ﷺ) saying to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abi Syaibah] serta [Zuhair bin Harb] sedangkan lafazhnya dari Yahya, dia mengatakan; Telah mengabarkan kepada kami, sedangkan yang dua mengatakan; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru] dari [Sa'id bin Jubair] dari [Ibnu Umar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada sepasang suami istri yang saling meli'an: "Hanya Allah sajalah yang tahu jika salah satu dari kalian ada yang berdusta, dan tidak ada jalan lain bagimu untuk menuntut istrimu." Kata suaminya; "Wahai Rasulullah, bagaimanaah dengan hartaku?" beliau menjawab: "Kamu tidak dapat menuntutnya lagi karena kamu telah bersumpah. Jika sumpahmu benar, maka harta itu sebagai imbalan kehalalan kehormatannya bagimu, dan jika ternyata kamu yang dusta, maka harta tersebut akan semakin menjauh darimu." Dalam riwayatnya Zuhair mengatakan; Telah menceritakan kepada kami Sufyan dari 'Amru bahwa dia mendengar Sa'id bin Jubair berkata; Saya pernah mendengar Ibnu Umar berkata; Rasulullah shallallahu 'alaihi wasallam bersabda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3748</td></tr><tr><td>Arabic No</td><td>1493.03</td></tr><tr><td>Reference</td><td>Book 19 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3748</td></tr><tr><td>Arabic No</td><td>1493.03</td></tr><tr><td>Reference</td><td>Book 19 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "By Him in Whose Hands my sou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq] telah mengabarkan kepada kami [Ya'qub binIbrahim] telah bercerita kepada kami [bapakku] dari [Shalih] dari [Ibnu Syihab] bahwa [Sa'id bin Al Musayyab] mendengar [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam besabda: "Demi Dzat yang jiwaku berada di tangan-Nya, diprediksikan segera turun kepada kalian 'Isa bin Maryam sebagai hakim yang adil, dia akan menghancurkan salib, membunuh babi, membebaskan jizyah dan harta benda akan banyak tersebar sehingga tidak ada seorangpun yag mau menerima (shadaqah) hingga pada masa itu satu kali sujud lebih baik daripada dunia dan isinya". Kemudian Abu Hurairah radliallahu 'anhu berkata; "Bacalah firman Allah jika kamu mau; ("Dan tidak ada satu pun dari Ahli Kitab kecuali pasti akan beriman kepadanya ('Isa 'alahis salam) sebelum kematiannya dan pada hari qiyamat nanti 'Isa akan menjadi saksi bagi mereka"). (QS an-Nisaa ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3448</td></tr><tr><td>Arabic No</td><td>3448</td></tr><tr><td>Reference</td><td>Book 60 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: “Клянусь Тем, в Чьей длани душа моя, поистине, скоро уже придёт к вам сын Марйам, (и будет судить вас) как справедливый судья, и будет ломать кресты, и убивать свиней, и отменит джизью, после чего денег будет (так) много, что никто не станет их принимать. И один земной поклон будет лучше этой жизни и всего, что в ней есть». \nЗатем Абу Хурайра сказал: «Если хотите читайте: “Среди людей Писания не останется такого, который не уверует в него до его смерти, а в День воскресения он будет свидетелем против них” (сура “ан-Ниса”, аят 159)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3448</td></tr><tr><td>Arabic No</td><td>3448</td></tr><tr><td>Reference</td><td>Book 60 Hadith 118</td></tr></tbody></table></div>
 

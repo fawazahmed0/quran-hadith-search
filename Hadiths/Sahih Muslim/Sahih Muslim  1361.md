@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported ahadith from the Messenger of Allah (ﷺ), and one of them 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] katanya, inilah yang telah diceritakan kepada kami oleh [Abu Hurairah] dari Rasululah shallallahu 'alaihi wasallam, -lalu Abu Hurairah menyebutkan beberapa hadis diantaranya- Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika iqamat telah dikumandangkan, maka janganlah kalian mendatanginya sambil tergesa-gesa, namun datanglah sambil berjalan dan hendaklah kalian tenang. Apa yang kalian dapatkan dari shalat maka ikutilah, dan apa yang kalian tertinggal maka sempurnakanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1361</td></tr><tr><td>Arabic No</td><td>602.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда призывается к молитве, приходите на неё (обычным) шагом, и сохраняйте (при этом) спокойствие. Молитесь то, что вы застанете, а то, что пропустите, восполняйте »
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1361</td></tr><tr><td>Arabic No</td><td>602.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 196</td></tr></tbody></table></div>
 

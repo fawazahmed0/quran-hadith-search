@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:Allah's Messenger (ﷺ) proceeded from 'Arafat and dismo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Musa bin 'Uqbah] dari [Kuraib] dari [Usamah bin Zaid radliallahu 'anhuma] bahwa dia mendengarnya berkata: "Rasulullah Shallallahu'alaihiwasallam bertolak dari 'Arafah kemudian berhenti di bukit (Asy-Syi'ib) lalu buang air kecil kemudian berwudhu' dengan wudhu' yang tidak sempurna. Lalu Aku bertanya kepada Beliau: " Ayo dirikan Shalat!". Beliau menjawab: "Shalat nanti saja". Lalu Beliau sampai di Muzdalifah kemudian berwudhu' dengan sempurna lalu shalat dibacakan iqamatnya. Beliau melaksanakan shalat Maghrib. Kemudian setiap orang menambatkan untanya masing-masing pada tempat tambatannya, kemudian iqamat shalat dikumandangkan, maka Beliau shalat dan tidak shalat diantara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1672</td></tr><tr><td>Arabic No</td><td>1672</td></tr><tr><td>Reference</td><td>Book 25 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама ибн Зейд, да будет доволен Аллах им и его отцом, сказал: «Уезжая с ‘Арафата, Посланник Аллаха ﷺ доехал до ущелий, спустился, справил малую нужду и совершил облегчённое малое омовение. Я сказал ему: “Молитва!” Посланник Аллаха ﷺ ответил: “Молитва впереди”. Добравшись до Муздалифы, Посланник Аллаха ﷺ совершил тщательное омовение, после чего было объявлено о начале молитвы и он совершил закатную молитву /магриб/. После этого каждый человек поставил своего верблюда на колени на том месте, где остановился, а потом было объявлено о начале молитвы /‘Иша/ и он совершил молитву, и не совершал между ними никакой другой молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1672</td></tr><tr><td>Arabic No</td><td>1672</td></tr><tr><td>Reference</td><td>Book 25 Hadith 152</td></tr></tbody></table></div>
 

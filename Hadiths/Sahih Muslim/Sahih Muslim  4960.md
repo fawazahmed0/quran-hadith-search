@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated (through another chain of transmitters) on the authority of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz] -yaitu Ibnu Muhammad- dari [Suhail] dari [ayahnya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian melewati padang rumput maka biarkanlah unta kalian memakan makanan di muka bumi, jika kalian mengadakan perjalanan di musim kemarau maka percepatlah perjalananmu (agar cepat sampai tujuan). Dan bila kamu istirahat dalam perjalanan malam hari, jauhilah jalan raya, karena jalan raya itu tempat lewat hewan melata dan serangga-serangga di waktu malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4960</td></tr><tr><td>Arabic No</td><td>1926.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 255</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4960</td></tr><tr><td>Arabic No</td><td>1926.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 255</td></tr></tbody></table></div>
 

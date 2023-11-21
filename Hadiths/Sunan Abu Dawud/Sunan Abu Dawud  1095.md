@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. Samurah said:I saw the Prophet (ﷺ) would deliver the sermon standing,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] dan [Utsman bin Abi Syaibah] sedangkan ma'na haditsnya dari [Abu Al Ahwash] telah menceritakan kepada kami [Simak] dari [Jabir bin Samurah] dia berkata; "Nabi shallallahu 'alaihi wasallam biasa menyampaikan dua kali khutbah, beliau duduk di antara dua khutbah tersebut, beliau membaca Al Qur'an dan memberi peringatan kepada orang-orang." Telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Abu 'Awanah] dari [Simak bin Harb] dari [Jabir bin Samurah] dia berkata; saya melihat Rasulullah shallallahu 'alaihi wasallam khutbah dengan berdiri kemudian duduk, beliau tidak mengatakan sepatah katapun,,,, " kemudian dia melanjutkan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1095</td></tr><tr><td>Arabic No</td><td>1095</td></tr><tr><td>Reference</td><td>Book 2 Hadith 706</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн Самуры, да будет доволен Аллах им и его отцом: «Я видел, как Пророк ﷺ произносил проповедь стоя, а потом садился на некоторое время, замолкая». Далее он привёл хадис полностью
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1095</td></tr><tr><td>Arabic No</td><td>1095</td></tr><tr><td>Reference</td><td>Book 2 Hadith 706</td></tr></tbody></table></div>
 

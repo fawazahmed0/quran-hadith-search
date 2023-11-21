@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Yazid ibn Abdullah: We were at Mirbad. A man with dishevelled hair and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Qurrah], ia berkata; saya mendengar [Yazid bin Abdullah], ia berkata; dahulu kami pernah berada di tempat penambatan unta, kemudian terdapat [seorang laki-laki] yang datang dalam keadaan berambut acak-acakan. Di tangannya terdapat selembar kulit merah, kemudian kami katakan; sepertinya engkau berasal dari pelosok. Kemudian ia berkata; benar. Kami katakan; berikan selembar kulit yang ada di tanganmu ini! Lalu ia memberikan kulit tersebut kepada kami dan kami membacanya. Ternyata isinya adalah: Dari Muhammad Rasulullah kepada Bani Zuhair bin Uqaisy. Sesungguhnya apabila kalian bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Allah dan Muhammad adalah Rasulullah, kalian tegakkan shalat dan kalian berikan zakat serta kalian tunaikan seperlima dari rampasan perang dan kalian berikan saham Nabi shallallahu 'alaihi wasallam yang khusus, maka kalian adalah aman dengan keamanan dari Allah dan rasulNya. Kemudian kami katakan; siapakah yang menulis surat ini untukmu? Ia berkata; Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2999</td></tr><tr><td>Arabic No</td><td>2999</td></tr><tr><td>Reference</td><td>Book 20 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Язида ибн ‘Абдуллаха: «Мы были в Мирбаде (, место возле Медины), и к нам пришёл человек с взъерошенными волосами и куском красной кожи в руке. Мы сказали: “Ты, наверное, бедуин”. Он сказал: “Конечно”. Мы сказали: “Дай нам этот кусок кожи, который у тебя в руке”. И он протянул нам этот кусок кожи, на котором было написано: “От Мухаммада, Посланника Аллаха, бану Зухайр ибн Укайш: “Поистине, если вы засвидетельствуете, что нет бога [заслуживающего поклонение], кроме Аллаха, и что Мухаммад Посланник Аллаха, и будете совершать молитву, выплачивать закят и выделять хумус, долю Пророка и избранный трофей, то вы под защитой Аллаха и Его посланника””. Мы спросили: “Кто написал тебе эту грамоту?” Он ответил: “Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2999</td></tr><tr><td>Arabic No</td><td>2999</td></tr><tr><td>Reference</td><td>Book 20 Hadith 72</td></tr></tbody></table></div>
 

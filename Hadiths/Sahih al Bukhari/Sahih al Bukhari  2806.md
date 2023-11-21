@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:My uncle Anas bin An-Nadr was absent from the Battle of Badr. He s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Sa'id Al Khuza'iy] telah bercerita kepada kami ['Abdul A'laa] dari [Humaid] berkata; Aku bertanya kepada [Anas]. Dia berkata; dn diriwayatkan pula, telah bercerita kepada kami ['Amru bin Zurarah] telah bercerita kepada kami [Ziyad] berkata telah bercerita kepadaku [Humaid Ath Thowil] dari [Anas radliallahu 'anhu] berkata: "Pamanku, Anas bin an-Nadhar tidak ikut perang badar kemudian dia berkata: "Wahai Rasulullah, aku tidak ikut saat pertama kali Tuan berperang menghadapai Kaum Musyrikin. Seandainya Allah memperkenankan aku dapat berperang melawan Kaum Musyrikin, pasti Allah akan melihat apa yang akan aku lakukan". Ketika terjadi perang Uhud dan Kaum Muslimin ada yang kabur dari medan pertempuran, dia berkata: "Ya Allah, aku berlindung kepada-Mu dari apa yang dilakukan oleh mereka, yakni para sahabat Nabi shallallahu 'alaihi wasallam dan aku berlepas diri dari apa yang dilakukan oleh mereka yakni Kaum Musyrikin". Maka dia maju ke medan pertempuran lalu Sa'ad bin Mu'adz menjumpainya. Maka dia berkata kepadanya: "Wahai Sa'ad bin Mu'adz, demi Robbnya an-Nadhar, aku menginginkan surga. Sungguh aku mencium baunya dari balik bukit Uhud ini". Sa'ad berkata: "Wahai Rasulullah, aku tidak sanggup untuk menggambarkan apa yang dialaminya". Anas berkata: "Kemudian kami temukan dia dengan luka tidak kurang dari delapan puluh sabetan pedang atau tikaman tombak atau terkena lemparan panah dan kami menemukannya sudah dalam keadaan terbunuh dimana Kaum Musrikin telah mencabik-cabik jasadnya sehingga tidak ada satupun orang yang mengenalinya kecuali saudara perempuannya yang mengenali jarinya". Anas berkata: "Kami mengira atau berpedapat bahwa ayat ini turun berkenaan dengan dia dan orang yang serupa dengan dia. ("Dan diantara Kaum Mu'minin ada orang-orang yang membuktikan janji mereka kepada Allah") sampai akhir ayat QS al-Ahzab 23. Dan Anas berkata: "Bahwa saudaranya yang dipangil dengan ar-Rubbai' pernah memecahkan gigi seri seorang wanita lalu Rasulullah shallallahu 'alaihi wasallam memerintahkan agar dilaksanakan hukum balas (qishosh). Maka Anas berkata; "Demi Dzat Yang mengutus Tuan dengan haq, janganlah dibalas dengan mematahkan gigi serinya". Akhirnya mereka setuju dengan pembayaran tembusan dan membatalkan qishosh. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya diantara hamba-hamba Allah ada hamba yang bila bersumpah atas nama Allah pasti akan dilaksanakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 56 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Сообщается также, что Анас ибн Малик, да будет доволен им Аллах,) сказал: «(Однажды) его сестра по имени ар-Рубаййи‘ сломала какой-то женщине передний зуб, и Посланник Аллаха ﷺ велел, чтобы с ней сделали то же самое. (Услышав это,) Анас (ибн ан-Надр) воскликнул: “О Посланник Аллаха, клянусь Тем, Кто направил тебя с истиной, её зуб сломан не будет!” после чего (её родственники) согласились на выкуп, а Посланник Аллаха ﷺ сказал: “Поистине, есть среди рабов Аллаха такие, клятвы которых Аллах неизменно выполняет, когда они клянутся Им!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 56 Hadith 22</td></tr></tbody></table></div>
 

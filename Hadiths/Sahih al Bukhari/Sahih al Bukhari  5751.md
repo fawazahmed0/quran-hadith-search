@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet, during his fatal ailment used to blow (on his hands
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad Al Ju'fi] telah menceritakan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] radliallahu 'anha bahwa Nabi shallallahu 'alaihi wasallam biasa meniupkan pada diri beliau sendiri dengan mu'awwidzat (surat An nas dan Al falaq) ketika sakit menjelang kematiannya, ketika sakit beliau semakin parah, maka akulah yang meniupkan (dengan membacakan mu'awidzat) kepadanya, aku mengusapkan dengan tangan beliau sendiri karena berharap keberkahan darinya." Aku bertanya kepada Ibnu Syihab; "Bagaimana cara beliau meniup (dengan membaca mu'awidzat)?" dia menjawab; "Yaitu beliau meniupkan (dengan membaca mu'awidzat) pada tangannya kemudian beliau mengusapkannya ke wajah beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5751</td></tr><tr><td>Arabic No</td><td>5751</td></tr><tr><td>Reference</td><td>Book 76 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказывала: «Когда Пророк ﷺ заболел той болезнью, от которой умер, он читал для себя защищающие суры (“аль-Фаляк” и “ан-Нас”), поплёвывая, а когда его болезнь усилилась, я читала для него эти суры, поплёвывая, и протирала его тело его же рукой, надеясь на её благодать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5751</td></tr><tr><td>Arabic No</td><td>5751</td></tr><tr><td>Reference</td><td>Book 76 Hadith 66</td></tr></tbody></table></div>
 

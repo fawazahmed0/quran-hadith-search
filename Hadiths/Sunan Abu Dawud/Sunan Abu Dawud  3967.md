@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by Mu'adh through a diff
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Najdah] telah menceritakan kepada kami [Baqiyyah] telah menceritakan kepada kami [Shafwan bin 'Amru] telah menceritakan kepadaku [Sulaim bin Amir] dari [Syurahbil bin As Samth] bahwa ia berkata kepada ['Amru bin 'Abasah], "Ceritakan kepada kami sebuah hadits yang engkau dengar dari Rasulullah shallallahu 'alaihi wasallam! Amru lalu berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa membebaskan seorang budak mukmin, maka ia akan menjadi penebusnya dari Neraka." Telah menceritakan kepada kami [Hafshah bin Umar] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Salim bin Abu Al Ja'd] dari [Syurahbil bin As Samth] bahwa ia berkata kepada [Ka'b bin Murrah atau Murrah bin Ka'b], "Ceritakanlah kepada kami sebuah hadits yang engkau dengar dari Rasulullah shallallahu 'alaihi wasallam!" Kemudian ia menyebutkan makna hadits Mu'adz hingga perkataannya, "Siapapun orang yang membebaskan seorang laki-laki dan siapapun wanita yang membebaskan seorang wanita muslimah…." Ka'b bin Murrah menambahkan, "Siapapun laki-laki yang membebaskan dua orang wanita muslimah melainkan keduanya akan menjadi penebusnya dari Neraka, satu tulang dari tulang-tulangnya terwakili oleh setiap dua tulang dari keduanya." Abu Daud berkata, "Salim tidak mendengar dari Syurahbil, sebab Syurahbil meninggal di perang Shiffin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3967</td></tr><tr><td>Arabic No</td><td>3967</td></tr><tr><td>Reference</td><td>Book 31 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3967</td></tr><tr><td>Arabic No</td><td>3967</td></tr><tr><td>Reference</td><td>Book 31 Hadith 42</td></tr></tbody></table></div>
 

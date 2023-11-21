@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr b. Muslim b. 'Ammar al-Laithi reported:While we were in a bathroom just befo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Muhammad bin 'Amru Al Laitsi] dari [Umar bin Muslim bin 'Ammar bin Ukaimah Al Laitsi] dia berkata; saya mendengar [Sa'id bin Musayyab] berkata; saya mendengar [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memiliki hewan kurban, hendaknya ia berkurban jika hilal sepuluh Dzul Hujjah telah terlihat jelas, janganlah ia mencukur rambut dan memotong kuku terlebih dahulu walau sedikit hingga ia selesai berkurban." Telah menceritakan kepadaku [Al Hasan bin Ali Al Khulwani] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepadaku [Muhammad bin 'Amru] telah menceritakan kepada kami ['Amru bin Muslim bin 'Ammar Al Laitsi] dia berkata, "Kami pernah berada di tempat pemandian menjelang iedul adlha, sedangkan sebagian orang ada yang mencukur ketiaknya dengan pisau cukur, maka sebagian orang di tempat pemandian berkata, "Sesungguhnya Sa'id bin Musayyab membenci hal itu, atau ia melarang hal itu." Lantas aku menemui Sa'id bin Musayyab dan memberitahukan hal itu kepadanya, ia menjawab, "Wahai keponakanku, hadits ini telah dilupakan, atau ditinggalkan." Telah menceritakan kepadaku [Ummu Salamah], isteri Nabi shallallahu 'alaihi wasallam, dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda semakna dengan hadits Mu'adz dari Muhammad bin 'Amru." Dan telah menceritakan kepadaku [Harmalah bin Yahya] dan [Ahmad bin Abdurrahman Akhi Ibnu Syihab] keduanya berkata; telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Haiwah] telah mengabarkan kepadaku [Khalid bin Yazid] dari [Sa'id bin Abu Hilal] dari [Umar bin Muslim Al Junda'i] bahwa [Ibnu Musayyab] telah mengabarkan kepadanya, bahwa [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam, telah mengabarkan kepadanya, lalu ia menyebutkan Nabi shallallahu 'alaihi wasallam semakna dengan hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5122</td></tr><tr><td>Arabic No</td><td>1977.08</td></tr><tr><td>Reference</td><td>Book 35 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5122</td></tr><tr><td>Arabic No</td><td>1977.08</td></tr><tr><td>Reference</td><td>Book 35 Hadith 58</td></tr></tbody></table></div>
 

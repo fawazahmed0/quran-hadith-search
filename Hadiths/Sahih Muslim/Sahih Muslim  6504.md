@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Amr (رضي الله عنهما) a dit : Un homme vint demander 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Habib]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Yahya] yaitu Ibnu Sa'id Al Qaththan dari [Sufyan] dari [Syu'bah] keduanya berkata; Telah menceritakan kepada kami [Habib] dari [Abu Al 'Abbas] dari ['Abdullah bin 'Amru] dia berkata; "Seseorang datang kepada Nabi shallallahu 'alaihi wasallam minta izin hendak ikut jihad (berperang). Lalu Nabi shallallahu 'alaihi wasallam bertanya kepadanya: "Apakah kedua orang tuamu masih hidup?" Jawab orang itu; "Masih!" Sabda beliau: "Berbakti kepada keduanya adalah jihad." Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] Telah menceritakan kepada kami [Bapakku] Telah menceritakan kepada kami [Syu'bah] dari [Habib] Aku mendengar [Abul Abbas], aku mendengar [Abdullah bin Amru bin Al Ash] dia berkata; Seseorang datang kepada Nabi shallallahu 'alaihi wasallam -lalu Amru menyebutkan Hadits yang serupa.- Muslim berkata; Abul Abbas adalah As Saib bin Farukh Al Makki. Telah menceritakan kepada kami [Abu Kuraib] Telah mengabarkan kepada kami [Ibnu Basyir] dari [Mis'ar] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Mu'awiyyah bin Amru] dari [Abu Ishaq] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Al Qasim bin Zakaria] Telah menceritakan kepada kami [Husain bin Ali Al Ju'fi] dari [Zaidah] keduanya dari [Al A'masy] seluruhnya dari [Habib] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6504</td></tr><tr><td>Arabic No</td><td>2549.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6504</td></tr><tr><td>Arabic No</td><td>2549.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 5</td></tr></tbody></table></div>
 

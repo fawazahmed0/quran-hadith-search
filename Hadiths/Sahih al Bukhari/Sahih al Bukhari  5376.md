@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Abi Salama:I was a boy under the care of Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah mengabarkan kepada kami [Sufyan] ia berkata; [Al Walid bin Katsir] Telah mengabarkan kepadaku, bahwa ia mendengar [Wahb bin Kaisan] bahwa ia mendengar [Umar bin Abu Salamah] berkata; Waktu aku masih kecil dan berada di bawah asuhan Rasulullah shallallahu 'alaihi wasallam, tanganku bersileweran di nampan saat makan. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Ghulam, bacalah Bismilillah, makanlah dengan tangan kananmu dan makanlah makanan yang ada di hadapanmu." Maka seperti itulah gaya makanku setelah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5376</td></tr><tr><td>Arabic No</td><td>5376</td></tr><tr><td>Reference</td><td>Book 70 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар бин Абу Салама, да будет доволен им Аллах, сказал:\n— В детстве я находился на попечении Посланника Аллаха ﷺ. Обычно я протягивал руку к (разным концам общего) блюда, но (однажды) Посланник Аллаха ﷺ сказал мне: «О мальчик, скажи: “С именем Аллаха”, ешь правой рукой и бери то, что находится рядом с тобой!” — и с тех пор я ем только так»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5376</td></tr><tr><td>Arabic No</td><td>5376</td></tr><tr><td>Reference</td><td>Book 70 Hadith 4</td></tr></tbody></table></div>
 

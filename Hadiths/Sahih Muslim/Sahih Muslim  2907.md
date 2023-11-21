@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Ibn 'Abbas with a slight varia
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Ishaq bin Ibrahim] dan [Abu Al Ghailani] dan [Ahmad bin Khirasy] -Ishaq berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- Telah menceritakan kepada kami [Abu Amir] ia adalah Abdul Malik bin Amru Telah menceritakan kepada kami [Rabah] ia adalah Ibnu Abu Ma'ruf dari [Atha'] dari [Ibnu Abbas] radliallahu 'anhuma bahwa Nabi shallallahu 'alaihi wasallam bersabda kepada Dluba'ah: "Berhajilah dan syaratkan dalam niatmu: 'ANNA MAHILLII HAITSU TAHBISUNII (Ya Allah, aku akan tahallul (berhenti) jika Engkau menahanku -bila tambah sakit dan tak sanggup meneruskannya-).'" Sementara dalam riwayat Ishaq; Beliau memerintahkan Dluba'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2907</td></tr><tr><td>Arabic No</td><td>1208.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2907</td></tr><tr><td>Arabic No</td><td>1208.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 116</td></tr></tbody></table></div>
 

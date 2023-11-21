@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sulaiman b. Yasir reported that Jabir gave this verdict. The inheritor has a rig
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan ini adalah lafadz Abu Bakar, Ishaq berkata; telah mengabarkan kepada kami, sedangkan Abu Bakar berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru] dari [Sulaiman bin Yasar], bahwa Thariq pernah memutuskan perkara mengenai harta 'umra untuk ahli waris, dia mengambil perkataannya [Jabir bin Abdullah] dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4199</td></tr><tr><td>Arabic No</td><td>1625.12</td></tr><tr><td>Reference</td><td>Book 24 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4199</td></tr><tr><td>Arabic No</td><td>1625.12</td></tr><tr><td>Reference</td><td>Book 24 Hadith 37</td></tr></tbody></table></div>
 

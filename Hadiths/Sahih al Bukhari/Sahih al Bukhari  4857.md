@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ash-Shaibani:I asked Zirr about the Statement of Allah: 'And was at a d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Thalq bin Ghannam] Telah menceritakan kepada kami [Zaidah] dari [As Syaibani] dia berkata; Aku bertanya kepada [Zirr] tentang firman Allah Ta'ala: maka jadilah dia dekat (pada Muhammad sejarak) dua ujung busur panah atau lebih dekat (lagi). Lalu dia menyampaikan kepada hamba-Nya (Muhammad) apa yang telah Allah wahyukan, (An Najm: 9-10). Zirr berkata; Telah mengabarkan kepada kami [Abdullah bin Mas'ud] bahwa Muhammad shallallahu 'alaihi wasallam melihat Jibril mempunyai enam ratus sayap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4857</td></tr><tr><td>Arabic No</td><td>4857</td></tr><tr><td>Reference</td><td>Book 65 Hadith 378</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что о значении слов Всевышнего Аллаха «И был он на расстоянии двух луков или ближе, и ниспослал Он Своему рабу в откровении то, что ниспослал» ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Поистине, Мухаммад ﷺ видел Джибриля, у которого было шестьсот крыльев»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4857</td></tr><tr><td>Arabic No</td><td>4857</td></tr><tr><td>Reference</td><td>Book 65 Hadith 378</td></tr></tbody></table></div>
 

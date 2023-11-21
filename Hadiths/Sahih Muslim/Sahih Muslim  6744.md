@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:There was an argument bet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Musa bin 'Abdullah bin Musa bin 'Abdullah bin Yazid Al Anshari]; Telah menceritakan kepada kami [Anas bin 'Iyadh]; Telah menceritakan kepadaku [Al Harits bin Abu Dzubab] dari [Yazid] yaitu Ibnu Hurmuz dan ['Abdur Rahman Al A'raj] keduanya berkata; Kami mendengar [Abu Hurairah] berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Adam dan Musa alaihimas salam pernah berdebat di sisi Allah. Namun akhirnya Adam dapat mengalahkan Musa alaihi salam." Musa berkata; 'Kamulah Adam yang telah diciptakan Allah dengan kekuasaan-Nya. Kemudian Allah menghembuskan ruh-Nya ke dalam dirimu. Setelah itu, Allah memerintahkan semua malaikat-Nya untuk bersujud kepadamu dan Dia menempatkanmu di dalam surga-Nya, tetapi kemudian kamu membuat manusia turun ke bumi karena kesalahanmu.' Adam menjawab; 'Kamulah Musa yang telah dipilih Allah dengan risalah dan firman-Nya. Allah juga telah memberimu beberapa lembaran yang berisi penjelasan tentang segala sesuatu dan mendekatkanmu untuk menerima firman-Nya. Berapa tahunkah Allah telah menulis kitab Taurat sebelum aku diciptakan? ' Musa menjawab; 'Empat puluh tahun.' Adam bertanya lagi; 'Apakah kamu dapatkan, di dalam kitab Taurat, ayat yang berbunyi: '…dan durhakalah Adam kepada Tuhannya serta sesatlah ia.' (Qs. Thaahaa (20): 12 1)." Musa menjawab; 'Ya.' Adam bertanya lagi; 'Mengapa kamu mencelaku karena suatu perbuatan yang telah ditetapkan Allah Azza wa Jalla empat puluh tahun sebelum Allah menciptakanku? ' Rasulullah shallallahu 'alaihi wasallam bersabda: 'Akhirnya Adam dapat memberikan jawaban kepada Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6744</td></tr><tr><td>Arabic No</td><td>2652.03</td></tr><tr><td>Reference</td><td>Book 46 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6744</td></tr><tr><td>Arabic No</td><td>2652.03</td></tr><tr><td>Reference</td><td>Book 46 Hadith 22</td></tr></tbody></table></div>
 

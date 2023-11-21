@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying :If the servant of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] telah menceritakan kepada kami [Daud bin Qais] dari [Musa bin Yasar] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila pembantu salah seorang di antara kalian membuatkan makanan untuknya kemudian ia datang membawa makanan tersebut kepadanya, sementara pembantu tersebut telah merasakan panas dan terkena asapnya maka hendaknya ia memintanya agar duduk untuk makan bersamanya. Apabila makakan tersebut sedikit maka hendaknya ia meletakkan di tangannya satu atau dua suap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2557) Sahih Muslim (1663)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3846</td></tr><tr><td>Arabic No</td><td>3846</td></tr><tr><td>Reference</td><td>Book 28 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если слуга любого из вас приготовил для него еду и принёс ему её после того, как стоял ради неё возле жаркой и дымной печи, пусть он посадит его рядом с собой и накормит этой едой. А если еды мало, пусть он хотя бы положит ему в руку кусок или два»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2557) Sahih Muslim (1663)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3846</td></tr><tr><td>Arabic No</td><td>3846</td></tr><tr><td>Reference</td><td>Book 28 Hadith 111</td></tr></tbody></table></div>
 

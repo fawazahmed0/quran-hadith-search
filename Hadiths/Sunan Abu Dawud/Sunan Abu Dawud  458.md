@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu al-Walid said:I asked Ibn 'Umar about the gravel spread pin the mosque. He r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahl bin Tammam bin Bazi'] telah menceritakan kepada kami [Umar bin Sulaim Al Bahili] dari [Abu Al Walid], Saya pernah bertanya kepada [Ibnu Umar] tentang kerikil yang berada di masjid? Dia menjawab; Pada suatu malam hujan turun kepada kami sehingga membuat tanah masjid basah (becek), maka ada seorang lelaki membawa kerikil dengan pakaiannya lalu menghamparkannya di bawahnya. Kemudian ketika Rasulullah shallallahu 'alaihi wasallam selesai melaksanakan shalat, beliau bersabda: "Alangkah bagusnya ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>458</td></tr><tr><td>Arabic No</td><td>458</td></tr><tr><td>Reference</td><td>Book 2 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абуль-Валида о том, что он спросил Ибн ‘Умара о камешках в мечети и он сказал: «Однажды когда ночью прошел дождь и на утро земля была влажной, один человек принес в своей одежде мелкие камешки и стал их рассыпать на полу. Когда Посланник Аллаха ﷺ завершил молитву, он сказал: “Как это хорошо”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>458</td></tr><tr><td>Arabic No</td><td>458</td></tr><tr><td>Reference</td><td>Book 2 Hadith 68</td></tr></tbody></table></div>
 

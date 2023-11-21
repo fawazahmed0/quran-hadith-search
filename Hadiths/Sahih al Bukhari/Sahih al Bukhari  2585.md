@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to accept gifts and used to give so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Isa bin Yunus] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata: "Adalah Rasulullah shallallahu 'alaihi wasallam menerima pemberiah hadiah dan membalasnya". [Waki'] dan [Muhadhir] tidak menebutkan dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2585</td></tr><tr><td>Arabic No</td><td>2585</td></tr><tr><td>Reference</td><td>Book 51 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ принимал подарок и воздавал за него (равным)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2585</td></tr><tr><td>Arabic No</td><td>2585</td></tr><tr><td>Reference</td><td>Book 51 Hadith 19</td></tr></tbody></table></div>
 

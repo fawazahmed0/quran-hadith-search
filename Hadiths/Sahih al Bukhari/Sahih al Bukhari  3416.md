@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "None should say that I am better t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim]; ms [Humaid bin "AbdurRAhman] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Tidak patut bagi seorang hamba berkata bahwa aku (Muhammad shallallahu 'alaihi wasallam) lebih baik dari pada Yunus bin Matta 'alaihi salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3416</td></tr><tr><td>Arabic No</td><td>3416</td></tr><tr><td>Reference</td><td>Book 60 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Не следует рабу говорить, что я лучше (пророка) Йунуса сына Матты»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3416</td></tr><tr><td>Arabic No</td><td>3416</td></tr><tr><td>Reference</td><td>Book 60 Hadith 88</td></tr></tbody></table></div>
 

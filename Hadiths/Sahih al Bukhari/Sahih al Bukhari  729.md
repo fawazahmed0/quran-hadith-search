@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to pray in his room at night. As th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan kepada kami ['Abdah] dari [Yahya bin Sa'id Al Anshari] dari ['Amrah] dari ['Aisyah] berkata, "Pada suatu malam Rasulullah shallallahu 'alaihi wasallam pernah shalat di kamarnya, saat itu dinding kamar beliau tidak terlalu tinggi (pendek) hingga orang-orang pun melihat Nabi shallallahu 'alaihi wasallam berdiri shalat sendirian. Orang-orang itu pun berdiri dan shalat di belakang beliau, hingga pada pagi harinya orang-orang saling memperbincangkan kejadian tersebut. Kemudian pada malam keduanya beliau kembali shalat, dan orang-orangpun mengikuti shalat beliau kembali. Mereka melakukan ini selama dua atau tiga malam hingga setelah malam itu, Rasulullah shallallahu 'alaihi wasallam duduk di rumahnya dan tidak keluar melaksanakan shalat seperti malam sebelumnya. Pada pagi harinya orang-orang mempertanyakannya, lalu beliau bersabda: "Aku khawatir bila shalat malam itu ditetapkan sebagai kewajiban atas kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>729</td></tr><tr><td>Arabic No</td><td>729</td></tr><tr><td>Reference</td><td>Book 10 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Обычно Посланник Аллаха ﷺ совершал ночные намазы в своей комнате, стена которой была коротка. (Однажды) люди увидели Пророка ﷺ (совершавшего этот намаз,) и стали молиться, следуя его примеру, а на утро рассказали об этом (другим). На следующую ночь он снова встал на намаз и люди стали молиться вместе с ним. Это продолжалось в течение двух или трёх ночей, а потом Посланник Аллаха ﷺ остался (дома) и не вышел (на намаз). Утром люди спросили его об этом, и он сказал: “Поистине, я побоялся, что ночной намаз будет сделан для вас обязательным!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>729</td></tr><tr><td>Arabic No</td><td>729</td></tr><tr><td>Reference</td><td>Book 10 Hadith 123</td></tr></tbody></table></div>
 

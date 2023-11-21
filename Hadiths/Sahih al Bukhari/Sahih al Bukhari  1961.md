@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Do not practice Al-Wisal (fasting continu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada saya [Yahya] dari [Syu'bah] berkata, telah menceritakan kepada saya [Qatadah] dari [Anas radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian melaksanakan puasa wishal (puasa terus tanpa berbuka) ". Orang-orang berkata: "Namun, bukankah anda melakukan puasa wishal?" Beliau bersabda: "Aku tidak sama dengan keadaan seorang dari kalian karena aku diberi makan dan minum atau dengan redaksi selalu saja aku diberi makan dan minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1961</td></tr><tr><td>Arabic No</td><td>1961</td></tr><tr><td>Reference</td><td>Book 30 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, что Пророк ﷺ сказал: «Не поститесь непрерывно!» Люди сказали: «Но ведь ты постишься без разговения!» (Посланник Аллаха ﷺ) сказал: «Я не подобен вам. Поистине, у меня есть Тот, Кто кормит и поит меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1961</td></tr><tr><td>Arabic No</td><td>1961</td></tr><tr><td>Reference</td><td>Book 30 Hadith 68</td></tr></tbody></table></div>
 

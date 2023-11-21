@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:We were coming from Khaibar along with Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Muhammad bin Shabah] telah menceritakan kepada kami [Yahya bin 'Abbad] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku [Yahya bin Abu Ishaq] dia berkata; saya mendengar [Anas bin Malik] radliallahu 'anhu berkata; "Kami bersama Rasulullah shallallahu 'alaihi wasallam pernah kembali dari Khaibar, sedangkan saya membonceng Abu Thalhah yang sedang berjalan (dengan berkendara) sementara sebagian isteri Rasulullah shallallahu 'alaihi wasallam ada yang membonceng di belakang Rasulullah shallallahu 'alaihi wasallam, tiba-tiba unta beliau terjatuh, spontan aku berkata; "Seorang wanita..." lalu aku pun turun, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya ia adalah ibu kalian." Lalu aku mempersiapkan kendaraan beliau dan Rasulullah shallallahu 'alaihi wasallam pun menaikinya, ketika Madinah telah dekat dan terlihat oleh kami, beliau bersabda: "Kami kembali dengan bertaubat, beribadah dan memuji Rabb kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5968</td></tr><tr><td>Arabic No</td><td>5968</td></tr><tr><td>Reference</td><td>Book 77 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, рассказывал: «Когда мы возвращались вместе с Посланником Аллаха ﷺ из Хайбара, я сидел позади Абу Тальхи, а одна из жён Посланника Аллаха ﷺ сидела позади него, (его) верблюдица споткнулась. Я сказал: “Женщина!” — и спешился. Посланник Аллаха ﷺ сказал: “Поистине, она — ваша мать”. (Затем) я оседлал верблюдицу, и Посланник Аллаха ﷺ сел на неё верхом. Когда же он приблизился или увидел Медину, он сказал: “(Мы) возвращаемся, каемся, Господу нашему поклоняемся (и Ему) воздаём хвалу! /Айибуна, таъибуна, ‘абидуна ли-Рабби-на хамидун!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5968</td></tr><tr><td>Arabic No</td><td>5968</td></tr><tr><td>Reference</td><td>Book 77 Hadith 184</td></tr></tbody></table></div>
 

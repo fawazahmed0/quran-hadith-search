@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Hisyam] dari [Muhammad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bahwa di suatu hari yang sangat panas seorang wanita pelacur melihat seekor anjing, anjing tersebut mengelilingi sebuah sumur sambil menjulurkan lidahnya karena kehausan, maka kemudian wanita tersebut mencopot sepatunya dan memberi minum anjing tersebut. Allah pun kemudian mengampuni dosa-dosa pelacur itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5860</td></tr><tr><td>Arabic No</td><td>2245.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5860</td></tr><tr><td>Arabic No</td><td>2245.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 211</td></tr></tbody></table></div>
 

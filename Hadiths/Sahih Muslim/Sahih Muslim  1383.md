@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of the Apostle (ﷺ), said that the Messenger of Allah (ﷺ) sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata, [Urwah bin Zubair] telah menceritakan kepadaku bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam mengabarinya, bahwa Rasulullah shallallahu 'alaihi wasallam pernah shalat ashar ketika sinar matahari telah menerobos kamarnya sementara bayangan belum jelas di kamarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1383</td></tr><tr><td>Arabic No</td><td>611.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Урвы ибн аз-Зубайра, что ’Аиша, жена Пророка ﷺ сообщила ему о том, что обычно, Посланник Аллаха ﷺ совершал послеполуденную молитву /‘аср/, когда солнечный (свет) попадал в её комнату, а тень (ещё) не появилась в её комнате»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1383</td></tr><tr><td>Arabic No</td><td>611.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 217</td></tr></tbody></table></div>
 

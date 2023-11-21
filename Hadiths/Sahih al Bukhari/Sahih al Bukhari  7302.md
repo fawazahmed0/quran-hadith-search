@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Mulaika:Once the two righteous men, i.e., Abu Bakr and 'Umar we
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami [Waki'] telah mengabarkan kepada kami [Nafi' bin Umar] dari [Ibn Abu Mulaikah] berkata, "Hampir saja dua orang pilihan, Abu Bakar dan Umar, binasa tatkala utusan Bani Tamim menemui Nabi shallallahu 'alaihi wasallam, salah satu diantara dua sahabat pilihan itu menunjuk Aqra' bin Habis At Tamimi Al Hanzhali, saudara Bani Mujasyi', sedang lainnya menunjuk lainnya. Maka Abu Bakar berkata kepada Umar, 'Kamu inginnya menyelisihiku saja!" Umar mengelak seraya mengatakan, "Aku sama sekali tak berniat menyelisihimu! Suara keduanya terus semakin gaduh di sisi Nabi shallallahu 'alaihi wasallam, sehingga turunlah ayat: '(Wahai orang-orang yang beriman, jangan kalian meninggikan suara kalian diatas suara Nabi) ' (Qs. Al Hujurat: 2-3). Ibnu Abu Mulaikah berkata, " [Ibnu Zubair] berkata, "Di kemudian hari Umar -dan ia tidak menyebutkan dari kakeknya maksudnya Abu bakar- jika mengajak bicara dengan nabi shallallahu 'alaihi wasallam dengan suatu pembicaraan seperti orang yang mengadakan pembicaraan rahasia, tidak sampai terdengar orang lain hingga betul-betul ia memahaminya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7302</td></tr><tr><td>Arabic No</td><td>7302</td></tr><tr><td>Reference</td><td>Book 96 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Абу Мулейка, сообщил, что двое наилучших, Абу Бакр и ‘Умар, чуть было не погибли, когда к Пророку ﷺ прибыла делегация из племени бану тамим. Один из них рекомендовал (назначить старшим) аль-Акра‘ ибн Хабиса ат-Тамимий аль-Ханзалий, члена племени муджаши‘, а второй посоветовал другого человека. Тогда Абу Бакр сказал ‘Умару: «Ты просто хочешь перечить мне!». ‘Умар ответил ему: «Я не собирался перечить тебе!». И они повысили свои голоса возле Пророка ﷺ и тогда был ниспослан аят: «О вы, которые уверовали! Не поднимайте ваши голоса выше голоса Пророка и не обращайтесь к нему так же громко, как вы обращаетесь друг к другу, а не то ваши деяния окажутся тщетными, и вы даже не почувствуете этого. Воистину, сердца тех, которые при Посланнике Аллаха понижают свои голоса, Аллах очистил (или раскрыл) для богобоязненности. Им уготованы прощение и великая награда». Ибн аз-Зубайр сказал, что после (ниспослания этого аята) ‘Умар — и Ибн Зубайр не упомянул о том, что его дед, то есть Абу Бакр, поступал так же — разговаривал с Пророком ﷺ так тихо, что тот переспрашивал его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7302</td></tr><tr><td>Arabic No</td><td>7302</td></tr><tr><td>Reference</td><td>Book 96 Hadith 33</td></tr></tbody></table></div>
 

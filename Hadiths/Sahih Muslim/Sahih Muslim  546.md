@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Humran b. Aban reported:I used to fetch water for 'Uthman for his purification. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-'Ala] dan [Ishaq bin Ibrahim] semuanya meriwayatkan dari [Waki'], [Abu Kuraib] berkata, telah menceritakan kepada kami [Waki'] dari [Mis'ar] dari [Jami' bin Syaddad Abu Shakhrah] dia berkata, "Saya mendengar [Humran bin Aban] dia berkata, "Dahulu aku pernah meletakkan air wudlu untuk [Utsman]. Tidaklah datang kepadanya suatu hari melainkan dia memperbanyak (bersuci) dengan air sedikit." Utsman berkata, "Rasulullah shallallahu 'alaihi wasallam menceritakan kepada kami ketika kami kembali dari shalat -Mis'ar berkata; Aku menduga shalat Ashar-, seraya bersabda: "Saya tidak tahu apakah aku menceritakan kepada kalian dengan sesuatu atau berdiam diri." Maka kami bertanya, "Wahai Rasulullah, jika itu baik maka ceritakanlah kepada kami. Dan apabila tidak baik maka Allah dan Rasul-Nya lebih mengetahui (kemaslahatannya)." Beliau bersabda: "Tidaklah seorang muslim pun bersuci lalu menyempurnakan bersucinya sebagimana Allah telah mewajibkan kepadanya, lalu melakukan shalat lima waktu melainkan itu menjadi penebus dosa antara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>546</td></tr><tr><td>Arabic No</td><td>231.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Усман рассказывал: «Однажды, когда мы закончили совершение послеполуденной молитвы /‘аср/, Посланник Аллаха ﷺ сказал: “Я не знаю, рассказать ли вам что-нибудь или промолчать”. Мы сказали: “О Посланник Аллаха, если речь идёт о благом, то расскажи нам, а если речь идёт о чём-то другом, то Аллаху и Его посланнику известно лучше”. Тогда он сказал: “Какой бы мусульманин ни очистился, совершив полноценное омовение, предписанное ему Аллахом, после чего совершил пять этих (обязательных) молитв, они непременно станут искуплением для грехов, совершенных им между ними”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>546</td></tr><tr><td>Arabic No</td><td>231.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 13</td></tr></tbody></table></div>
 

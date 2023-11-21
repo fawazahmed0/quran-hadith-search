@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that when the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Yahya bin Sa'id] dari [Amrah] dari [Aisyah] radliallahu 'anha, ia berkata; Jika Rasulullah shallallahu 'alaihi wasallam hendak I'tikaf, beliau shalat Shubuh terlebih dahulu, lalu masuk ke tempat I'tikafnya dan beliau memerintahkan untuk dibuatkan bilik kecil, maka dibuatlah. Beliau ingin I'tikaf pada sepuluh hari terakhir Ramadlan. Zainab juga minta dibuatkan bilik kecil, maka dibuatkanlah untuknya. Ketika beliau hendak menunaikan shalat Shubuh, beliau bersabda: "Kebaikan apa yang kalian inginkan?" Beliau lalu memerintahkan agar bilik-bilik itu dibongkar, lalu beliau batalkan I'tikaf di bulan Ramadlan. Sehingga beliau I'tikaf pada sepuluh hari pertama di bulan Syawal. Dan Telah menceritakannya kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] -dalam riwayat lain- Dan telah menceritakan kepadaku [Amru bin Sawwad] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami [Amru bin Harits] -dalam riwayat lain- Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abu Ahmad] telah menceritakan kepada kami [Sufyan] -dalam riwayat lain- Dan telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Abul Mughirah] telah menceritakan kepada kami [Al Auza'i] -dalam riwayat lain- Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [bapakku] dari [Abu Ishaq] semuanya dari [Yahya bin Sa'id] dari [Amrah] dari [Aisyah] radliallahu 'anha, dari Nabi shallallahu 'alaihi wasallam, yakni sebagaimana makna hadits Abu Mu'awiyah. Dan di dalam haditsnya Ibnu Uyainah, Amru bin Harits dan Ibnu Ishaq disebutkah; Aisyah, Hafshah dan Zainab radliallahu 'anhunna, meminta dibuatkan bilik-bilik untuk I'tikaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2785</td></tr><tr><td>Arabic No</td><td>1173.01</td></tr><tr><td>Reference</td><td>Book 14 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Желая уединиться, Посланник Аллаха ﷺ (сначала) совершал утреннюю молитву, а потом приходил к месту своего уединения, где по его велению ста­вили палатку. (Однажды, когда) он решил провести в уединении пос­ледние десять дней рамадана, (на месте его уединения) по велению Зай­наб для неё поставили палатку, и (некоторые) другие жёны Пророка ﷺ (тоже) велели поставить (там) палатки для них. Совершив утреннюю молитву, Посланник Аллаха т (неожиданно) увидел несколько пала­ток и сказал: “Разве они (сделали это) из благочестия?” после чего по велению (Пророка ﷺ) его палатку убрали, и он не стал уединяться в мечети в рамадане, но провёл там первые десять дней шавваля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2785</td></tr><tr><td>Arabic No</td><td>1173.01</td></tr><tr><td>Reference</td><td>Book 14 Hadith 6</td></tr></tbody></table></div>
 

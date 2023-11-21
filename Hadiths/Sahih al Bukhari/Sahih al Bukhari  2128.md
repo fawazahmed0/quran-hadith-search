@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miqdam bin Ma'diyakrib:The Prophet (ﷺ) said, "Measure your foodstu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah menceritakan kepada kami [Al Walid] dari [Tsaur] dari [Khalid bin Ma'dan] dari [Al Miqdam bin Ma'diy Karib radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Timbanglah makanan kalian niscaya kalian diberkahi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2128</td></tr><tr><td>Arabic No</td><td>2128</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Микдама бин Ма‘дикариба, да будет доволен им Аллах, что Пророк ﷺ сказал: «Отмеряйте вашу пищу, и она будет благословенной для вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2128</td></tr><tr><td>Arabic No</td><td>2128</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
 

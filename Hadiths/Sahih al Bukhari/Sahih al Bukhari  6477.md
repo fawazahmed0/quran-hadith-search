@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:That he heard Allah's Messenger (ﷺ) saying, "A slave of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Hamzah] telah menceritakan kepadaku [Ibnu Abu Hazim] dari [Yazid] dari [Muhammad bin Ibrahim] dari [Isa bin Thalhah bin 'Ubaidullah At Taimi] dari [Abu Hurairah] dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya seorang hamba mengucapkan kalimat tanpa diteliti yang karenanya ia terlempar ke neraka sejauh antara jarak ke timur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6477</td></tr><tr><td>Arabic No</td><td>6477</td></tr><tr><td>Reference</td><td>Book 81 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что он слышал, как Посланник Аллаха ﷺ говорил: «Поистине, раб (Аллаха) может сказать одно слово, не придавая этому значения, за что он опустится в Огонь (Ада) на расстояние, подобное расстоянию между востоком (и западом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6477</td></tr><tr><td>Arabic No</td><td>6477</td></tr><tr><td>Reference</td><td>Book 81 Hadith 66</td></tr></tbody></table></div>
 

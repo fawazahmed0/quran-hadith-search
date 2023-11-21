@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] Telah menceritakan kepada kami Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam - [Amru] berkata- Dan Telah menceritakan kepada kami [Sufyan bin Uyainah] ia berkata; - [Ibnu Juraij] berkata- dari [Al Hasan bin Muslim] dari [Thawus] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Perumpamaan orang yang suka bersedekah (dermawan) bagaikan seorang yang memakai dua perisai di atas kedua susunya hingga ke tulang selangkanya. Bila dia ingin bersedekah, maka baju tersebut terasa longgar baginya. Dan bila orang bakhil ingin bersedekah, baju besi itu terasa sempit baginya seakan lengket ke kulitnya hingga menutupi jari-jemari kakinya bahkan menghapus jejak kakinya. Abu Hurairah berkata: Ketika ia berusaha untuk melapangkannya, dia tidak bisa melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2359</td></tr><tr><td>Arabic No</td><td>1021.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Скупой и раздающий милостыню подобны двум мужам в джуббах или железных кольчугах (, покрывающих их тела) от сосков до ключиц. Каждый раз, как подающий милостыню подаёт её, (его кольчуга) расширяется (или: увеличивается) и покрывает кончики пальцев его (ног, в результате чего) стираются его следы (то есть грехи). Когда же милостыню хочет подать скупой, его кольчуга сжимается и каждое кольцо примыкает к соседнему (кольцу)».Абу Хурайра сказал: «Пророк ﷺ сказал: “Он пытается расширить её, но она не расширяется”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2359</td></tr><tr><td>Arabic No</td><td>1021.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 96</td></tr></tbody></table></div>
 

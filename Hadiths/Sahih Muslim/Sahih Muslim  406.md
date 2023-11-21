@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir Ibn 'Abdillâh Al-'Ansârî (رضي الله عنهما), l'Envo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu ath-Thahir] telah mengabarkan kepada kami [Ibnu Wahab] dia berkata, telah menceritakan kepada kami [Yunus] dia berkata, [Ibnu Syihab] berkata, telah mengabarkan kepada kami [Abu Salamah bin Abdurrahman] bahwa [Jabir bin Abdullah al-Anshari] -dan dia termasuk salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam- dia menceritakan sebuah hadits, dia berkata, "Rasulullah shallallahu 'alaihi wasallam menceritakan tentang masa terputusnya wahyu. Beliau bersabda: "Ketika aku berjalan-jalan, tiba-tiba aku mendengar suara dari langit. Aku mendongakkan kepalaku, ternyata Malaikat yang pernah mendatangiku di gua Hira' sedang duduk di atas kerusi terapung-apung di antara langit dan bumi.' Lalu Rasulullah shallallahu 'alaihi wasallam bersabda lagi: 'Aku mulai gementar karena ketakutanku kepadanya. Lalu aku pulang dan berkata, 'Selimutkanlah aku! Selimutkanlah aku! Lalu dia menyelimutiku, ketika itulah Allah menurunkan ayat: '(Wahai orang yang berselimut! Bangunlah serta berilah peringatan, dan Rabbmu maka agungkanlah, dan bajumu maka sucikanlah, dan segala kejahatan, hendaklah kamu jauhi,) ' (Qs. Al Mudatstsir: 1-5), maksudnya adalah berhala-berhala tersebut maka jauhilah. Setelah itu wahyu diturunkan terus-terusan." Dan telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin al-Laits] dia berkata, telah menceritakan kepada kami [bapakku] dari [kakekku] dia berkata, telah menceritakan kepada kami [Uqail bin Khalid] dari [Ibnu Syihab] dia berkata, saya mendengar [Abu Salamah bin Abdurrahman] berkata, telah mengabarkan kepada kami [Jabir bin Abdullah] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Kemudian wahyu berhenti dariku beberapa saat, maka ketika aku berjalan, " kemudian dia menyebutkan seperti hadits Yunus, hanya saja dia menyebutkan, "Lalu aku takut disebabkannya hingga aku jatuh ke tanah." Dia berkata, "Sedangkan Abu Salamah berkata, "Dan yang dimaksud adalah berhala-berhala." Dia berkata, "kemudian wahyu banyak turun dan terus-terusan." Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] dengan sanad ini seperti hadits Yunus, ia menyebutkan, "Allah lalu menurunkan ayat: '(Wahai orang yang berselimut! Bangunlah serta berilah peringatan, dan Rabbmu maka agungkanlah, dan bajumu maka sucikanlah dan segala kejahatan, hendaklah kamu jauhi) ' (Qs. Al Mudatstsir: 1-5). Sebelum shalat diwajibkan, maksudnya adalah jauhilah berhala-berhala. Dan dia berkata, "Maka aku takut disebabkannya, " sebagaimana dikatakan oleh Uqail
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>406</td></tr><tr><td>Arabic No</td><td>161.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 311</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах аль-Ансари, сказал: «Я слышал, как рассказывая о периоде (временного) прекращения откровений, Посланник Аллаха ﷺ сказал: “И (как-то раз) я шёл (по дороге) и вдруг услышал голос с неба. Я поднял голову и увидел ангела, явившегося ко мне (в пещере на горе) Хира, который (на этот раз) сидел на троне между небом и землёй. Я испугался его, затем вернулся (домой) и сказал: “Укройте меня, укройте меня!” Меня укрыли, и Всевышний и Всеблагой Аллах ниспослал: “О завернувшийся! Встань и увещевай, и Господа своего возвеличивай, и одежды свои очищай, и идолов /риджз/ сторонись” (сура “аль-Муддассир”, аят 5)» “Ар-риджз” это идолы. После этого откровения стали приходить одно за другим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>406</td></tr><tr><td>Arabic No</td><td>161.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 311</td></tr></tbody></table></div>
 

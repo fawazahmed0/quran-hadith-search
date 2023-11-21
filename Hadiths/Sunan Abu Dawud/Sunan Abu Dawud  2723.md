@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'id ibn al-'As: The Messenger of Allah (ﷺ) sent AbuSa'id ibn al-'As
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur?], ia berkata; telah menceritakan kepada kami [Isma'il bin 'Ayyasy] dari [Muhammad bin Al Walid Az Zubaidi] dari [Az Zuhri], bahwa ['Anbasah bin Sa'id] telah mengabarkan kepadanya bahwa ia telah mendengar [Abu Hurairah], menceritakan kepada Sa'id bin Al 'Ash bahwa Rasulullah shallallahu 'alaihi wasallam telah mengutus Aban bin Sa'id bin Al 'Ash dalam sebuah kesatuan militer dari Madinah menuju ke Najd. Kemudian Aban bin Sa'id serta para sahabatnya datang kepada Rasulullah shallallahu 'alaihi wasallam di Khaibar setelah beliau menaklukkannya. Dan tali pengikat badan kuda mereka adalah serat. Kemudian Aban berkata; wahai Rasulullah, bagikan untuk kami! Kemudian Abu Hurairah berkata; jangan engkau bagikan untuk mereka wahai Rasulullah! Kemudian Aban berkata; engkau wahai Abu Hurairah (atas ucapanmu ini) seperti hewan kecil (seperti kucing liar) yang datang kepada kami dari puncak Dhal (nama sebuah gunung atau tempat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2723</td></tr><tr><td>Arabic No</td><td>2723</td></tr><tr><td>Reference</td><td>Book 15 Hadith 247</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2723</td></tr><tr><td>Arabic No</td><td>2723</td></tr><tr><td>Reference</td><td>Book 15 Hadith 247</td></tr></tbody></table></div>
 

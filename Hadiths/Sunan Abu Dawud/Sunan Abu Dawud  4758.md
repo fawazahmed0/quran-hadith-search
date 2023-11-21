@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuDharr: The Prophet (ﷺ) said: He who separates from the community w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Zuhair] dan [Abu Bakr bin Ayyasy] dan [Mandal] dari [Mutharrif] dari [Abu Jahm] dari [Khalid bin Wahban] dari [Abu Dzar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang meninggalkan jamaah meskipun hanya satu jengkal, sungguh ia telah melepas ikatan Islam dari lehernya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4758</td></tr><tr><td>Arabic No</td><td>4758</td></tr><tr><td>Reference</td><td>Book 42 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Зарра, что Посланник Аллаха ﷺ сказал: «Кто отделился от общины на пядь, тот снял со своей шеи петлю ислама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4758</td></tr><tr><td>Arabic No</td><td>4758</td></tr><tr><td>Reference</td><td>Book 42 Hadith 163</td></tr></tbody></table></div>
 

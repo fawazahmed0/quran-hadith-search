@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah (b. Mas'ud):The Messenger of Allah (ﷺ) recited Surah al-Na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] dari [Abdullah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah membaca surat An Najm, lalu beliau sujud, dan tidak seorang pun dari kaum tersebut yang tidak turut sujud. Setelah itu seorang laki-laki dari kaum tersebut mengambil segenggam kerikil atau tanah, lalu di angkat ke wajahnya sambil berkata; "Sujud bagiku cukuplah sekali ini saja." Abdullah berkata; "Sungguh, setelah peristiwa tersebut, aku melihat laki-laki tersebut mati terbunuh dalam keadaan kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1070) Sahih Muslim (576)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1406</td></tr><tr><td>Arabic No</td><td>1406</td></tr><tr><td>Reference</td><td>Book 7 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха, да будет доволен им Аллах, что (как-то раз, когда) Посланник Аллаха ﷺ прочитал суру «ан-Наджм», он совершил земной поклон, и ни один из людей не остался не поклонившись, а один человек из числа (присутствовавших там) людей поднял (с пола) горсть мелких камешков (или: земли), поднёс их к лицу и сказал: «Довольно с меня и этого».‘Абдуллах, да будет доволен им Аллах, сказал: «А потом я видел, что его убили как неверного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1070) Sahih Muslim (576)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1406</td></tr><tr><td>Arabic No</td><td>1406</td></tr><tr><td>Reference</td><td>Book 7 Hadith 6</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'mash reported:I heard Hajjaj b. Yusuf saying as he was delivering sermon on th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Minjab bin Harits At Tamimi] telah mengabarkan kepada kami [Ibnu Mushir] dari [Al A'masy] ia berkata, saya mendengar Al Hajjaj bin Yusuf berkata saat ia sedang berkhutbah di atas mimbar, "Biasakanlah membaca Al Qur'an sebagaimana yang dibacakan oleh Jibril, (yaitu) surah yang disebutkan di dalamnya Al Baqarah, An Nisa', dan Ali Imram. Al A'masy berkata; Kemudian aku temui [Ibrahim], lalu aku sampaikan ucapan Al Hajjaj bin Yusuf itu, lalu ia mencelanya. Ibrahim berkata; [Abdurrahman bin Yazid] telah menceritakan kepadaku bahwasanya, ia pernah bersama [Abdullah bin Mas'ud], lalu ia menuju ke Jumratul 'Aqabah. Ia menuju ke tengah lembah dengan tujuh buah kerikil sambil diiringi membaca takbir pada setiap kali lantaran kerikil tersebut." Al A'masy berkata; Aku pun bertanya, "Wahai Abu Abdurrahman, orang-orang pada melontar Jamrah dari atas?" Ia menjawab, "Demi Dzat yang tidak Tuhan yang berhak disembah selain-Nya, inilah tempat (melempar Jamrah) seorang yang telah diturunkan surat Al Baqarah kepadanya." Dan telah menceritakan kepadaku [Ya'qub Ad Dauraqi] Telah menceritakan kepada kami [Ibnu Abu Za'idah] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Abu Umar] Telah menceritakan kepada kami [Sufyan] keduanya dari [Al A'masy] ia berkata, saya mendengar Al Hajjaj berkata; "Janganlah kalian mengatakan surat Al Baqarah…" ia pun mengisahkan hadits sebagaimana haditsnya Ibnu Mushir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3132</td></tr><tr><td>Arabic No</td><td>1296.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 336</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3132</td></tr><tr><td>Arabic No</td><td>1296.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 336</td></tr></tbody></table></div>
 

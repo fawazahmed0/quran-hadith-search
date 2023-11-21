@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas:The Prophet (peace be upon him) was not accustomed to raise his ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] telah mengabarkan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam tidak pernah mengangkat kedua tangannya ketika berdo'a kecuali ketika meminta hujan, ketika itu beliau mengangkat kedua tangan beliau sehingga terlihat putih ketiaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3565) Sahih Muslim (896)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 3 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что Пророк ﷺ поднимал руки в мольбе, только когда обращался к Аллаху с мольбами о ниспослании дождя, причём руки он поднимал так высоко, что становилась видна белизна его подмышек
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3565) Sahih Muslim (896)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 3 Hadith 10</td></tr></tbody></table></div>
 

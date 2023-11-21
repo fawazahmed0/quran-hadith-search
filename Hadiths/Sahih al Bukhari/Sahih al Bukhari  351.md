@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiya:We were ordered to bring out our menstruating women and veile
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Yazid bin Ibrahim] dari [Muhammad] dari [Ummu 'Athiyah] berkata, "Kami diperintahkan untuk mengajak keluar (wanita) haid dan wanita yang sedang dipingit pada dua hari raya, sehingga mereka bisa menyaksikan jama'ah kaum Muslimin dan mendo'akan mereka, lalu menjauhkan wanita-wanita haid dari tempat shalat mereka." Seorang wanita lalu, "Wahai Rasulullah, di antara kami ada yang tidak memiliki jilbab?" Beliau menjawab: "Hendaklah temannya meminjamkan jilbab miliknya kepadanya." ['Abdullah bin Raja'] berkata, telah menceritakan kepada kami ['Imran] telah menceritakan kepada kami [Muhammad bin Sirin] telah menceritakan kepada kami [Ummu 'Athiyah] aku mendengar Nabi shallallahu 'alaihi wasallam bersabda seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>351</td></tr><tr><td>Arabic No</td><td>351</td></tr><tr><td>Reference</td><td>Book 8 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа, да будет доволен ею Аллах, сказала: «Нам велели выводить в дни двух праздников женщин, у которых начались месячные и сидящих за занавесками, и принимать участие с общиной мусульман и их обращениях к Аллаху со своими мольбами, (однако тем,) у кого начались месячные, (желательно было) держаться в стороне от места их молитв. Одна женщина сказала: “О Посланник Аллаха, у некоторых из нас нет джильбаба”. (Пророк ﷺ) сказал: “Пусть её подруга одолжит ей свой джильбаб!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>351</td></tr><tr><td>Arabic No</td><td>351</td></tr><tr><td>Reference</td><td>Book 8 Hadith 3</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:No Sadaqa is due from a M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru An Naqid] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] telah menceritakan kepada kami [Ayyub bin Musa] dari [Makhul] dari [Sulaiman bin Yasar] dari [Irak bin Malik] dari [Abu Hurairah] -Amru mengatakan- dari Nabi shallallahu 'alaihi wasallam -sementara Zuhair berkata-sampai kepada Nabi shallallahu 'alaihi wasallam: "Tidak wajib bagi seorang muslim menzakati hamba sahanya dan kudanya." Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Sulaiman bin Bilal] -dalam jalur lain- Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Hammad bin Zaid] -dalam jalur lain- Dan Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] Telah menceritakan kepada kami [Hatim bin Isma'il] semuanya dari [Khutsaim bin Irak bin Malik] dari [bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2274</td></tr><tr><td>Arabic No</td><td>982.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис с другим иснадом подобен предыдущему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2274</td></tr><tr><td>Arabic No</td><td>982.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 12</td></tr></tbody></table></div>
 

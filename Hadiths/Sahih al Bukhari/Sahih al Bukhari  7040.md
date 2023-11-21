@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father:The Prophet (ﷺ) said, "I saw (in a dream) a black woma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Mundzir] telah menceritakan kepadaku [Abu Bakar bin Abi Uwais] telah menceritakan kepadaku [Sulaiman] dari [Musa bin 'Uqbah] dari [Salim] dari [Ayahnya], bahwasanya Nabi shallallahu 'alaihi wasallam bersabda; "Aku (bermimpi) melihat seorang wanita hitam berambut acak-acakan keluar dari Madinah hingga berdiri di Mahya'ah, maka aku takwilkan bahwa wabah Madinah telah dipindahkan ke Mahya'ah yaitu Juhfah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7040</td></tr><tr><td>Arabic No</td><td>7040</td></tr><tr><td>Reference</td><td>Book 91 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передёт, что Пророк ﷺ сказал: «Я увидел во сне, как чёрная женщина с растрёпанными волосами вышла из Медины и остановилась в Махйа‘а, и истолковал (этот сон) как то, что (эпидемии) чумы, (которые прежде разражались) в Медине, были перенесены в Махйа’а», — а это аль-Джухфа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7040</td></tr><tr><td>Arabic No</td><td>7040</td></tr><tr><td>Reference</td><td>Book 91 Hadith 54</td></tr></tbody></table></div>
 

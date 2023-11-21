@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Some meat was presented to the Prophet (p.b.u.h) and it had been g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas radliallahu 'anhu] bahwa kepada Nabi Shallallahu'alaihiwasallam diberikan sepotong daging dari zakat yang diberikan kepada Barirah. Maka Beliau bersabda: "Daging ini baginya shadaqah (zakat) dan bagi kita ini sebagai hadiah". Dan berkata, [Abu Daud]: [Syu'bah] menceritakan kepada kami dari [Qatadah] bahwa dia mendengar [Anas] dari Nabi Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 24 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что когда Пророку ﷺ принесли мясо, которое Барира получила в качестве садаки, он сказал: «Для неё (это мясо) является садакой, а для нас — подарком”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 24 Hadith 95</td></tr></tbody></table></div>
 

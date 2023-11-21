@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Dinar:We asked Ibn 'Umar whether a man who had performed the T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Sufyan] dari ['Amru bin Dinar] berkata: "Kami pernah bertanya kepada [Ibnu'Umar radliallahu 'anhuma] tentang seseorang yang melaksanakan thawaf di Ka'bah Baitullah dam 'ibadah 'umrahnya namun belum melaksanakan sa'iy antara bukit Shafaa dan Marwah, apakah dia boleh mendatangi (berhubungan dengan) isterinya?. Dia menjawab: "Nabi shallallahu 'alaihi wasallam pernah datang ke Baitullah untuk haji yang Beliau thawaf di Ka'bah Baitullah tujuh kali putaran kemudian shalat dua raka'at di belakang Maqam (Ibrahim) lalu melaksakan sa'iy antara bukit Shafaa dan Marwah tujuh kali. (Kemudian dia membaca QS Al Ahzab ayat 21 yang artinya): ("Sungguh bagi kalian ada suri tauladan yang baik pada diri Rasulullah"). Dan kami pernah pula bertanya kepada [Jabir bin 'Abdullah radliallahu 'anhu] tentang hal ini. Maka dia berkata: "Janganlah orang itu mendekati isterinya hingga dia melaksanakan sa'iy antara bukit Shafaa dan Marwah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Динар сказал: «(Однажды) мы спросили Ибн ‘Умара, да будет доволен Аллах им и его отцом: “Может ли иметь половую близость со своей женой человек, совершивший обход Каабы во время ‘умры, но не пробежавший между (холмами) ас-Сафа и аль-Марва?”, — и он ответил: “Прибыв в (Мекку), Пророк ﷺ семь раз обошёл вокруг Каабы, совершил молитву в два рак‘ата позади места (Ибрахима) и пробежал между (холмами) ас-Сафа и аль-Марва семь раз, “В Посланнике Аллаха был прекрасный пример для вас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

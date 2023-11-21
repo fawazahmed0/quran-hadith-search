@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by 'A'isha (Allah be pleased with her) through ano
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Mu'awiyah] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Sahl bin Utsman] telah mengabarkan kepada kami [Hafsh bin Ghiyats] semuanya dari [Hisyam] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] -dan lafazh milik mereka berdua- keduanya berkata, Telah menceritakan kepada kami [Ibnu Numair] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Bahwa Rasulullah shallallahu 'alaihi wasallam melakukan I'tikaf pada sepuluh terakhir dari bulan Ramadlan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2783</td></tr><tr><td>Arabic No</td><td>1172.02</td></tr><tr><td>Reference</td><td>Book 14 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «В последние десять (дней) рамадана Посланник Аллаха ﷺ всегда неотлучно находился в мечети»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2783</td></tr><tr><td>Arabic No</td><td>1172.02</td></tr><tr><td>Reference</td><td>Book 14 Hadith 4</td></tr></tbody></table></div>
 

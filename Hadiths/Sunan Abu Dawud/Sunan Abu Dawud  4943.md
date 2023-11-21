@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: Those who do not s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu As Sarh] keduanya berkata; telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dari [Ibnu Amir] dari [Abdullah bin Amru] ia meriwayatkan; Ibnu As Sarh berkata; dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Siapa yang tidak menyayangi orang yang kecil di antara kami dan tidak mengerti hak orang yang lebih besar di antara kami, maka ia bukan dari golongan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4943</td></tr><tr><td>Arabic No</td><td>4943</td></tr><tr><td>Reference</td><td>Book 43 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Амр бин Шу‘айб передавал со слов своего отца, что его дед, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Не относится к нам тот, кто не жалеет младших среди нас и не оказывает уважения старшим”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4943</td></tr><tr><td>Arabic No</td><td>4943</td></tr><tr><td>Reference</td><td>Book 43 Hadith 171</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Perish the slave of Dinar, Dirham,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Yusuf] telah mengabarkan kepada kami [Abu Bakr] dari [Abu Hashin] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Celakalah budak dinar, budak dirham dan budak pakaian (sutra kasar) serta budak Khamishah (campuran sutera), jika diberi ia akan ridla dan jika tidak diberi maka dia tidak akan ridla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6435</td></tr><tr><td>Arabic No</td><td>6435</td></tr><tr><td>Reference</td><td>Book 81 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Погибнет раб динара, дирхема, катифы (толстой мягкой ткани) и хамисы (одежды), ибо если ему дают, то он доволен, в противном случае (если ему не дают) он недоволен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6435</td></tr><tr><td>Arabic No</td><td>6435</td></tr><tr><td>Reference</td><td>Book 81 Hadith 24</td></tr></tbody></table></div>
 

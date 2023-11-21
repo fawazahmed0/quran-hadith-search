@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), Le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Zaidah] dari [Abdul Malik bin Umair] dari [Abu Burdah] dari [Abu Musa] dia berkata, "Rasulullah shallallahu 'alaihi wasallam sakit, lalu sakitnya menjadi parah, maka beliau bersabda, 'Kalian perintahkanlah Abu Bakar agar dia shalat mengimami manusia.' Maka Aisyah berkata, 'Wahai Rasulullah, sesungguhnya Abu Bakar adalah lelaki yang lemah (sensitife), ketika dia menempati kedudukanmu, niscaya dia tidak dapat shalat mengimami manusia.' Maka beliau bersabda, 'Kamu perintahkanlah Abu Bakar agar shalat mengimami manusia, kamu ini seperti isteri Yusuf saja (maksudnya jika sudah punya ambisi atau keinginin, sulit dicegah) '." Perawi berkata, "Lalu Abu Bakar shalat mengimami mereka pada sahat kehidupan Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>948</td></tr><tr><td>Arabic No</td><td>420</td></tr><tr><td>Reference</td><td>Book 4 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса сказал: «Когда Посланник Аллаха ﷺ заболел, и его болезнь усилилась, он сказал: “Велите Абу Бакру, чтобы он проводил молитвы с людьми!” ‘Аиша сказала: “О Посланник Аллаха, поистине, Абу Бакр человек мягкосердечный, и встав на твоё место, он не сможет совершать молитву с людьми”. (Пророк ﷺ снова) сказал: “Велите Абу Бакру, чтобы он проводил молитвы с людьми! Поистине, вы подобны женщинам (из истории про) Юсуфа!” И таким образом Абу Бакр проводил с ними молитвы при жизни Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>948</td></tr><tr><td>Arabic No</td><td>420</td></tr><tr><td>Reference</td><td>Book 4 Hadith 110</td></tr></tbody></table></div>
 

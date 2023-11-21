@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas b. Malik :We went out from Medina to Mecca with the Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] dan [Muslim bin Ibrahim] sedangkan maksud haditsnya sama, keduanya berkata; telah menceritakan kepada kami [Wuhaib] telah menceritakan kepadaku [Yahya bin Abu Ishaq] dari [Anas bin Malik] dia berkata; "Kami pernah bepergian bersama Rasulullah shallallahu 'alaihi wasallam dari madinah menuju Makkah, beliau selalu mengerjakan shalat dua raka'at sehingga kami kembali tiba di Madinah." Kami berkata; 'Apakah kalian bermukim di sana?" dia berkata; "Kami bermukim di sana selama sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1081) Sahih Muslim (693)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1233</td></tr><tr><td>Arabic No</td><td>1233</td></tr><tr><td>Reference</td><td>Book 4 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Яхьи ибн Абу Исхака: «Анас ибн Малик, да будет доволен им Аллах, сказал: “Однажды мы с посланником Аллаха ﷺ отправились из Медины в Мекку и он совершал два рак‘ата (вместо четырёх), пока мы не вернулись в Медину”. Мы спросили: “И сколько вы там пробыли?” Он ответил: “Мы пробыли там десять дней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1081) Sahih Muslim (693)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1233</td></tr><tr><td>Arabic No</td><td>1233</td></tr><tr><td>Reference</td><td>Book 4 Hadith 36</td></tr></tbody></table></div>
 

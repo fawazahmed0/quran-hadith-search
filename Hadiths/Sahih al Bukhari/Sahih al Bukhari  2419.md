@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:I heard Hisham bin Hakim bin Hizam reciting Surat-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Abdurrahman bin 'Abdul Qariy] bahwa dia berkata, aku mendengar ['Umar bin Al Khaththob radliallahu 'anhu] berkata, aku mendengar Hisyam bin Hakim bin Hizam membaca surah Al Furqan dengan cara yang berbeda dari yang aku baca sebagaimana Rasulullah shallallahu 'alaihi wasallam membacakannya kepadaku dan hampir saja aku mau bertindak terhadapnya namun aku biarkan sejenak hingga dia selesai membaca. Setelah itu aku ikat dia dengan kainku lalu aku giring dia menghadap Rasulullah shallallahu 'alaihi wasallam dan aku katakan: "Aku mendengar dia membaca Al Qur'an tidak sama dengan aku sebagaimana anda membacakannya kepadaku". Maka Beliau berkata, kepadaku: "Bawalah dia kemari". Kemudian Beliau berkata, kepadanya: "Bacalah". Maka dia membaca. Beliau shallallahu 'alaihi wasallam kemudian bersabda: "Begitulah memang yang diturunkan". Kemudian Beliau berkata kepadaku: "Bacalah". Maka aku membaca. Beliau shallallahu 'alaihi wasallam bersabda: "Begitulah memang yang diturunkan. Sesungguhnya Al Qur'an diturunkan dengan tujuh huruf, maka bacalah oleh kalian mana yang mudah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2419</td></tr><tr><td>Arabic No</td><td>2419</td></tr><tr><td>Reference</td><td>Book 44 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Умара ибн аль-Хаттаба, что он сказал: «(Однажды) я услышал, как Хишам ибн Хаким ибн Хизам читал суру “аль-Фуркан” не так, как читал её я и как научил меня читать её Посланник Аллаха ﷺ. Я хотел сразу броситься к нему, но потом решил подождать, и когда он закончил, я схватил его за накидку и привёл к Посланнику Аллаха ﷺ. Я сказал: “Поистине, я слышал, как вот этот читает не так, как учил меня читать её ты!” Посланник Аллаха ﷺ сказал: “Отпусти его!” Затем он сказал Хишаму: “Читай!” И он прочитал. Посланник Аллаха ﷺ сказал: “Так она была ниспослана”. Потом он сказал мне: “Читай”. И я прочитал, и он сказал: “Так она была ниспослана. Поистине, этот Коран был ниспослан (так, что его можно читать) семью способами, читайте же его так, как вам будет легче”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2419</td></tr><tr><td>Arabic No</td><td>2419</td></tr><tr><td>Reference</td><td>Book 44 Hadith 9</td></tr></tbody></table></div>
 

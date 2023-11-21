@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: If you find anyone doing as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad bin Ali An Nufaili] berkata, telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Amru bin Abu Amru] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang kalian dapati sedang melakukan perbuatan kaum Luth, maka bunuhlah; pelaku dan objeknya." Abu Dawud berkata, " [Sulaiman bin Bilal] meriwayatkannya dari [Amru bin Abu Amru] seperti hadits tersebut. Dan [Abbad bin Manshur] meriwayatkannya dari [Ikrimah], dari [Ibnu Abbas], dan ia memarfu'kannya. [Ibnu Juraij] meriwayatkannya dari [Ibrahim], dari [Dawud Ibnul Hushain], dari [Ikrimah], dari [Ibnu Abbas], dan ia memarfu'kannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4462</td></tr><tr><td>Arabic No</td><td>4462</td></tr><tr><td>Reference</td><td>Book 40 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Если вы застали кого-то за совершением деяния народа Люта (мужеложства), убейте и его, и того, с кем он это делает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4462</td></tr><tr><td>Arabic No</td><td>4462</td></tr><tr><td>Reference</td><td>Book 40 Hadith 112</td></tr></tbody></table></div>
 

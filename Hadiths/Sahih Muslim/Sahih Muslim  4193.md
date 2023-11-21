@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (b. 'Abdullah) (Allah be pleased with him) reported Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Hisyam] dari [Yahya bin Abu Katsir] telah menceritakan kepadaku [Abu Salamah bin Abdurrahman] dia berkata; saya pernah mendengar [Jabir bin Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Umra itu untuk orang yang telah menerimanya." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [Ayahku] dari [Yahya bin Abu Katsir] telah menceritakan kepada kami [Abu Salamah bin Abdurrahman] dari [Jabir bin Abdullah], bahwa Nabi shallallahu 'alaihi wasallam telah bersabda seperti itu." Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir] yang merafa'kan kepada Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4193</td></tr><tr><td>Arabic No</td><td>1625.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4193</td></tr><tr><td>Arabic No</td><td>1625.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 31</td></tr></tbody></table></div>
 

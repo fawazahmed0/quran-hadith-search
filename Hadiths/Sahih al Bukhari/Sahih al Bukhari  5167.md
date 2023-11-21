@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When 'Abdur-Rahman bin 'Auf married an Ansari woman, the Prophet (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] Telah menceritakan kepada kami [Sufyan] ia berkata; Telah menceritakan kepadaku [Humaid] bahwa ia mendengar [Anas] radliallahu 'anhu berkata; Nabi shallallahu 'alaihi wasallam pernah bertanya kepada Abdurrahman bin Auf saat ia menikahi seorang wanita Anshriyah, "Berapa mahar kamu berikan padanya?" ia pun menjawab, "Seukuran biji berupa emas." Dan dari Humaid; Aku mendengar Anas berkata; Ketika mereka sampai di kota Madinah, kaum Muhajirin pun singgah di tepat kediaman orang-orang Anshar. Lalu Abdurrahman bin Auf tinggal di kediaman Sa'd bin Ar Rabi'. Sa'd bin Rabi' pun berkata padanya, "Aku akan membagi hartaku kepadaku dan menikahkanmu dengan salah seorang isteriku." Abdurrahman berkata, "Semoga Allah memberi keberkahan pada keluarga dan juga hartamu." Lalu ia pun keluar menuju pasar dan berjual beli hingga ia mendapatkan keuntungan berupa keju dan samin, dan ia pun, menikah. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Adakanlah walimah meskipun hanya dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5167</td></tr><tr><td>Arabic No</td><td>5167</td></tr><tr><td>Reference</td><td>Book 67 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда ‘Абдуррахман ибн ‘Ауф женился на женщине из ансаров, Пророк ﷺ спросил его: “Что ты подарил ей?” Он ответил: “Золото, равное по весу (финиковой) косточке”». \nАнас также добавил: «Прибыв в Медину, мухаджиры остановились у ансаров. ‘Абдуррахман ибн ‘Ауф остановился у Са‘да ибн ар-Раби‘а, который сказал: “Я поделю своё имущество пополам и разведу для тебя одну из своих жён”, но ‘Абдуррахман ответил: “Да благословит Аллах твою семью и твоё имущество!” Затем отправился на рынок, поторговал там и заработал сухой творог и масло, а затем женился. Пророк ﷺ сказал ему: “Тебе следует устроить свадебное угощение /валима/ хотя бы из одной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5167</td></tr><tr><td>Arabic No</td><td>5167</td></tr><tr><td>Reference</td><td>Book 67 Hadith 102</td></tr></tbody></table></div>
 

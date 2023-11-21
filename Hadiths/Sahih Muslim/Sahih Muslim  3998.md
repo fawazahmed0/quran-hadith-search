@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Manshur bin Abi Muzahim] dan [Muhammad bin Ja'far bin Ziyad] telah mengabarkan kepada kami [Ibrahim] dia adalah Ibnu Sa'ad, dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada seorang laki-laki yang suka menghutangi orang-orang, lalu dia berkata kepada pelayannya, 'Jika seorang yang kesusahan datang kepadamu, maka berilah kemudahan kepadanya, semoga Allah memberi kemudahan kepada kita.' Kemudian dia bertemu dengan Allah (meninggal), maka Allah pun memberi kemudahan kepadanya." Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa ['Ubaidullah bin 'Utbah] telah menceritakan kepadanya, bahwa dia pernah mendengar [Abu Hurairah] berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3998</td></tr><tr><td>Arabic No</td><td>1562.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3998</td></tr><tr><td>Arabic No</td><td>1562.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 37</td></tr></tbody></table></div>
 

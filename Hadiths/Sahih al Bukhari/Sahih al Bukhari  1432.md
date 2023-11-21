@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda bin Abu Musa:that his father said, "Whenever a beggar came to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami [Abu Burdah bin 'Abdullah bin Abu Burdah] telah menceritakan kepada kami [Abu Burdah bin Musa] dari [bapaknya radliallahu 'anhu] berkata; 'Rasulullah Shallallahu'alaihiwasallam jika datang kepadanya seorang yang meminta atau memerlukan sesuatu Beliau bersabda: "Penuhilah oleh kalian, nanti kalian akan diberikan pahala, sedangkan Allah pasti akan menetapkan apa yang dikehendaki-Nya melalui lisan NabiNya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1432</td></tr><tr><td>Arabic No</td><td>1432</td></tr><tr><td>Reference</td><td>Book 24 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса (аль-Аш‘ари), да будет доволен им Аллах, сказал: «Когда к Посланнику Аллаха ﷺ приходил нищий или когда его просили о чём-нибудь, он всегда говорил (нам): “Ходатайствуйте (за просящих) и вы получите награду, а Аллах объявит об угодном Ему решении через Своего Пророка ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1432</td></tr><tr><td>Arabic No</td><td>1432</td></tr><tr><td>Reference</td><td>Book 24 Hadith 35</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Kuraib, the freed slave of Ibn 'Abbas (Allah be pleased with him), reported from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] dari [Bukair bin Al Asyajj] dari [Kuraib Maula Ibnu Abbas] radliallahu 'anhuma, dari [Maimunah] isteri Nabi shallallahu 'alaihi wasallam, bahwa ia berkata; Orang banyak ragu tentang puasa Rasulullah shallallahu 'alaihi wasallam di hari Arafah, lalu kukirim kepada secangkir susu -ketika itu beliau sedang berdiri (wukuf) di tempatnya- lalu susu itupun diminum, sedangkan orang banyak melihatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2636</td></tr><tr><td>Arabic No</td><td>1124</td></tr><tr><td>Reference</td><td>Book 13 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2636</td></tr><tr><td>Arabic No</td><td>1124</td></tr><tr><td>Reference</td><td>Book 13 Hadith 142</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Mas'ud reported that he had been beating his slave and he had been saying:I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] dan ini adalah lafadz Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Syu'bah] dari [Sulaiman] dari [Ibrahim At Taimi] dari [Ayahnya] dari [Abu Mas'ud], bahwa dia pernah memukul budak miliknya, kemudian budaknya mengatakan, "Aku berlindung kepada Allah." Perawi berkata, "Kemudian dia memukulnya lagi, lalu budaknya mengatakan, "Aku berlindung kepada Rasulullah shallallahu 'alaihi wasallam." Kemudian Abu Mas'ud meninggalkannya. Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Demi Allah, sungguh Allah lebih berkuasa atas dirimu daripada kuasamu atas dia." Perawi berkata, "Kemudian ia memerdekakannya." Dan telah menceritakan kepadaku [Bisyr bin Khalid] telah mengabarkan kepada kami [Muhammad] -yaitu Ibnu Ja'far- dari [Syu'bah] dengan sanad ini, namun dia tidak menyebutkan perkataannya, "Aku berlindung kepada Allah dan aku berlindung kepada Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4309</td></tr><tr><td>Arabic No</td><td>1659.04</td></tr><tr><td>Reference</td><td>Book 27 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мас‘уда, да будет доволен им Аллах, о том, что как-то, когда он избивал своего невольника, тот стал говорить: «Прибегаю к защите Аллаха!»(Передатчик этого хадиса) сказал: «Но он стал его избивать (и далее), а тот (невольник) сказал: “Прибегаю к защите Посланника Аллаха”. И он оставил его, а Посланник Аллаха ﷺ сказал: “Клянусь Аллахом, поистине, Аллах может сделать с тобой больше, чем ты с ним!” И он освободил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4309</td></tr><tr><td>Arabic No</td><td>1659.04</td></tr><tr><td>Reference</td><td>Book 27 Hadith 56</td></tr></tbody></table></div>
 

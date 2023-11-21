@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi’ said on the authority of Ibn ‘Umar that when he began prayer, he utter
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nahsr bin Ali] telah mengabarkan kepada kami [Abdul A'laa] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa apabila dia hendak melaksanakan shalat, dia bertakbir sambil mengangkat kedua tangannya, (begitu juga) ketika ruku', ketika mengucapkan sami'allahu liman hamidah, ketika berdiri dari raka'at kedua beliau juga mengangkat kedua tangannya." Dia merafa'kan (mengangkat hadits ini) kepada Rasulullah shallallahu 'alaihi wasallam." Abu Daud mengatakan; "Yang shahih adalah perkataannya Ibnu Umar, bukan sampai kepada Nabi shallallahu 'alaihi wasallam. ' Abu Daud mengatakan; "Sedangkan di awal-awal hadits (yaitu tanpa menyebutkan "Apabila berdiri dari raka'at kedua -pent) telah di riwayatkan oleh [Baqiyyah] dari ['Ubaidullah] dan ia merafa'kannya (bersambung sampai kepada Nabi -pent) kepada Nabi shallallahu 'alaihi wasallam. Dan di riwayatkan pula oleh [Ats Tsaqafi] dari ['Ubaidullah], namun ia hanya mewaqafkan sampai kepada [Ibnu Umar], katanya; "Apabila beliau hendak berdiri di raka'at kedua, beliau mengangkat kedua tangannya sampai kedua susunya (dadanya), inilah (di antara riwayat) yang shahih." Abu Daud berkata; "Dan di riwayatkan pula oleh [Al Laits bin Sa'd], [Malik], [Ayyub] serta [Ibnu Juraij] secara mauquf, namun [Hammad bin Salamah] saja yang menyambungnya (hingga kepada Nabi) dari [Ayyub], sedangkan Malik dan Ayyub tidak merafa'kan lafadz; "Apabila beliau hendak bangkit dari sujud kedua." Al Laits juga menyebutkan dalam haditsnya seperti ini." Ibnu Juraij juga mengatakan; kataku kepada Nafi'; "Apakah ibnu Umar mengangkat (kedua tangannya) lebih tinggi (dari dada)?" jawabnya; "Tidak, namun sejajar (dengan dada)." Kataku; "Jelaskanlah padaku!." Kemudian Nafi' memberi isyarat pada kedua susunya (dadanya) atau lebih rendah darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>741</td></tr><tr><td>Arabic No</td><td>741</td></tr><tr><td>Reference</td><td>Book 2 Hadith 351</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Нафи‘а: «Когда Ибн ‘Умар приступал к молитве, он произносил слова «Аллаху акбар» и поднимал руки. (Также он поднимал руки), когда совершал поясной поклон, и когда говорил: «Да услышит Аллах того, кто Его восхваляет» («Сами‘а-Ллаху лиман хамидах»). Когда он вставал после совершения двух рак‘атов, он также поднимал руки и относил это (к поступкам) Посланника Аллаха ﷺ».Абу Дауд сказал: «Достоверным является то, что это высказывание самого Ибн ‘Умара и не восходит (к Пророку ﷺ)».Абу Дауд сказал: «Бакъиййа передал первую часть этого хадиса от ‘Убайдуллаха и возвёл его к Пророку ﷺ. Также его передал ‘ас-Сакъафи от ‘Убайдуллы остановившись на Ибн ‘Умаре и сказал в нём: “Когда он вставал после совершения двух рак‘атов, он также поднимал их до уровня сосков (груди)”, и это является достоверным».Абу Дауд сказал: «Также его передали аль-Лейс ибн Са‘д, Малик, Аййюб (ас-Сахтияни) и Ибн Джурайдж, как слова Ибн ‘Умара, а к Пророку ﷺ отнёс его один Хаммад ибн Саляма от Аййюба, но ни Аййюб, ни Малик, не упомянули о поднятии рук при вставании после совершения двух рак‘атов, однако об этом упомянул аль-Лейс в своём хадисе».Ибн Джурайдж сказал в нём: «Я спросил у Нафи‘а: “Поднимал ли руки Ибн ‘Умар в первый раз из них выше?” Он ответил: “Нет, одинаково”. Я попросил: “Покажи мне”. И он указал на уровень сосков (груди) или ниже этого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>741</td></tr><tr><td>Arabic No</td><td>741</td></tr><tr><td>Reference</td><td>Book 2 Hadith 351</td></tr></tbody></table></div>
 

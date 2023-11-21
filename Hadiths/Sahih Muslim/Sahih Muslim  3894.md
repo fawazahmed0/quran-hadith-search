@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Umar) reported that Allah's Apostle (ﷺ) forbade Muzabana, i. e. b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Muhammad bin Abdullah bin Numair] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] bahwa [Abdullah] telah mengabarkan kepadanya bahwa Nabi shallallahu 'alaihi wasallam melarang jual beli dengan praktek Muzabanah, yaitu jual beli kurma basah dengan kurma kering dengan takaran tertentu, dan jual beli anggur basah dengan anggur kering dengan takaran tertentu serta jual beli gandum yang masih kasar dengan gandum yang halus dengan takaran tertentu." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Abu Za'idah] dari ['Ubaidillah] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>1542.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>1542.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 93</td></tr></tbody></table></div>
 

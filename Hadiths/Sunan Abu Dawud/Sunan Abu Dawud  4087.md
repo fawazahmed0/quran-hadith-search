@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Dharr:The Prophet (ﷺ) as saying: There are three to whom Allah wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Ali bin Mudrik] dari [Abu Zur'ah bin Amru bin Jarir] dari [Kharasyah Ibnul Hur] dari [Abu Dzar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ada tiga golongan yang tidak dilihat oleh Allah dan tidak dibersihkan dosanya pada hari kiamat serta bagi mereka siksa yang pedih." Aku bertanya, "Siapa mereka itu ya Rasulullah? Sungguh sia-sia dan meruginya mereka!? Beliau mengulangi perkataan itu hingga tiga kali, aku bertanya lagi, "Siapa mereka itu ya Rasulullah? Sungguh sia-sia dan meruginya mereka!? beliau menjawab: "Mereka adalah orang yang menjulurkan kainnya, orang yang mengungkit-ungkit pemberiannya dan orang yang melariskan dagangannya dengan sumpah palsu." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sufyan] dari [Al A'masy] dari [Sulaiman bin Mushir] dari [Kharasyah Ibnul Hur] dari [Abu Dzar] dari Nabi shallallahu 'alaihi wasallam, sebagaimana dalam hadits ini. Namun riwayat yang pertama lebih sempurna, Abu Dzar berkata, "Al Mannan adalah orang yang tidak memberikan sesuatu kecuali mengharap pengembalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (106)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4087</td></tr><tr><td>Arabic No</td><td>4087</td></tr><tr><td>Reference</td><td>Book 34 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Зарра, да будет доволен им Аллах: «Пророк ﷺ сказал: “С тремя не заговорит Аллах в День воскресения, не посмотрит на них и не очистит их, и им уготовано мучительное наказание!” И Посланник Аллаха ﷺ повторил эти слова трижды. Я сказал: “Кто же они, о Посланник Аллаха? Они останутся ни с чем (, так как лишатся блага) и окажутся в убытке!” Посланник Аллаха ﷺ сказал: “Опускающий края изара (ниже щиколоток из высокомерия), попрекающий своими благодеяниями людей /маннан/ и сбывающий свой товар с помощью ложных клятв”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (106)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4087</td></tr><tr><td>Arabic No</td><td>4087</td></tr><tr><td>Reference</td><td>Book 34 Hadith 68</td></tr></tbody></table></div>
 

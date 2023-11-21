@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée) : Bilâl ayant apporté au P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Yahya bin Shalih Al Wuhadli] telah menceritakan kepada kami [Mu'awiyah]. (dalam jalur lain disebutkan) Telah mengabarkan kepadaku [Muhammad bin Sahl At Tamimi] dan [Abdullah bin Abdurrahman Ad Darimi] dan ini adalah lafadz keduanya, dari [Yahya bin Hassan] telah menceritakan kepada kami [Mu'awiyah] -yaitu Ibnu Salam- telah mengabarkan kepadaku [Yahya] -yaitu Ibnu Abu Katsir- dia berkata; saya pernah mendengar ['Uqbah bin Abdul Ghafir] berkata; saya pernah mendengar [Abu Sa'id] berkata, "Suatu ketika Bilal datang dengan membawa kurma barni (jenis kurma yang bermutu tinggi). Lalu Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Dari manakah kurma ini?" Bilal menjawab, "Kurma kita rendah mutunya, oleh karena itu saya menukar dua sha' dengan sajtu sha' kurma ini untuk kebutuhan Nabi shallallahu 'alaihi wasallam." Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Inilah yang disebut riba, maka jangan sekali-kali kamu lakukan perbuatan ini lagi, akan tetapi apabila kamu hendak membeli kurma (yang lebih bagus), maka jualah terlebih dahulu kurmamu (yang kwalitasnya rendah) kemudian dengan uang hasil penjualannya kamu boleh membeli kurma yang lebih bagus kwalitasnya." Namun Ibnu Suhail tidak menyebutkan hal itu dalam riwayat haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4083</td></tr><tr><td>Arabic No</td><td>1594.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4083</td></tr><tr><td>Arabic No</td><td>1594.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 122</td></tr></tbody></table></div>
 

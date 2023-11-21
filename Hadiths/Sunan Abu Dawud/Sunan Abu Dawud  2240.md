@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) restored his daughter 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Muhammad bin Salamah], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Muhammad bin 'Amr Ar Razi], telah menceritakan kepada kami [Salamah yaitu Ibnu Al Fadh], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Yazid] secara makna, dan seluruh mereka berasal dari [Ibnu Ishaq], dari [Daud bin Al Hushain], dari [Ikrimah] dari [Ibnu Abbas], ia berkata; Rasulullah shallallahu 'alaihi wasallam mengembalikan anak wanitanya yaitu Zainab kepada Abu Al 'Ash dengan pernikahan yang pertama dan beliau tidak memperbarui sesuatupun. Muhammad bin 'Amr berkata dalam haditsnya; setelah enam tahun, sedangkan Al Hasan bin Ali berkata; setelah dua tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2240</td></tr><tr><td>Arabic No</td><td>2240</td></tr><tr><td>Reference</td><td>Book 13 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ вернул свою дочь Зейнаб Абу аль-‘Асу на основании первого брака и ничего более не делал». Мухаммад ибн ‘Амр, передавая этот хадис, сказал: «…спустя шесть лет», а аль-Хасан ибн ‘Али сказал: «…спустя два года»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2240</td></tr><tr><td>Arabic No</td><td>2240</td></tr><tr><td>Reference</td><td>Book 13 Hadith 66</td></tr></tbody></table></div>
 

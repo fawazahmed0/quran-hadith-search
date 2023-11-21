@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) sent me (to Mina) with the luggage from Ja
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Ubaidullah bin Abu Yazid] berkata; Aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi shallallahu 'alaihi wasallam mengutusku atau memanggilku untuk membawa perbekalan para musafir (jama'ah haji) di Jama' pada malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1856</td></tr><tr><td>Arabic No</td><td>1856</td></tr><tr><td>Reference</td><td>Book 28 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Ночью Пророк ﷺ отправил меня с багажом из Муздалфы (в Мину)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1856</td></tr><tr><td>Arabic No</td><td>1856</td></tr><tr><td>Reference</td><td>Book 28 Hadith 36</td></tr></tbody></table></div>
 

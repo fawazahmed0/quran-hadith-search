@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar, through another chain of transmitters; reported Allah's Messenger (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abu Bakar bin Ishaq] keduanya dari [Rauh bin Ubadah] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap yang memabukkan adalah khamer, dan setiap yang memabukkan adalah haram." Dan telah menceritakan kepada kami [Shalih bin Mismar As Sulami] telah menceritakan kepada kami [Ma'an] telah menceritakan kepada kami [Abdul Aziz bin Mutthalib] dari [Musa bin 'Uqbah] dengan isnad yang seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5219</td></tr><tr><td>Arabic No</td><td>2003.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5219</td></tr><tr><td>Arabic No</td><td>2003.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 93</td></tr></tbody></table></div>
 

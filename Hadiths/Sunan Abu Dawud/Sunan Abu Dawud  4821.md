@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: AbulQasim (ﷺ) said: When one of you is in the sun (Shams
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh] dan [Makhlad bin Khalid] keduanya berkata; telah menceritakan kepada kami [Sufyan] dari [Muhammad Ibnul Munkadar] ia berkata; telah menceritakan kepadaku [seseorang] yang mendengar [Abu Hurairah] ia berkata, "Abul Qasim shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian terkena terik matahari, Makhlad menyebutkan, "di bawah bayangan yang teduh, lalu banyangan itu berlalu; hingga sebagian tubuhnya terkena terik matahari dan sebagian tidak, maka hendaklah ia berdiri (pindah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4821</td></tr><tr><td>Arabic No</td><td>4821</td></tr><tr><td>Reference</td><td>Book 43 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4821</td></tr><tr><td>Arabic No</td><td>4821</td></tr><tr><td>Reference</td><td>Book 43 Hadith 49</td></tr></tbody></table></div>
 

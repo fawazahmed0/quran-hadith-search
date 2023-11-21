@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwah (also) said:'A'isha?, the wife of the Apostle (ﷺ) narrated it to me that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1381</td></tr><tr><td>Arabic No</td><td>611.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 215</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Урва сказал: «И ‘Аиша, жена Пророка ﷺ сообщила мне о том, что обычно, Посланник Аллаха ﷺ совершал послеполуденную молитву /‘аср/, когда солнце всё ещё заглядывало в её комнату, до того, как оно появлялось там (полностью)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1381</td></tr><tr><td>Arabic No</td><td>611.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 215</td></tr></tbody></table></div>
 

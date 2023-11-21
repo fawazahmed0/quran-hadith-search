@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:When Allah's Messenger (ﷺ) intended to carry on the Ghazw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] Telah menceritakan kepada kami [Ibrahim bin Sa'd] Telah mengabarkan kepada kami [Ibnu Syihab] dari [Abu Salamah] dari [Abu Hurairah] radliallahu 'anhu, katanya, Rasulullah shallallahu 'alaihi wasallam bersabda ketika menuju Hunain; "Tempat persinggahan kita esok insya Allah di Khaif Bani Kinanah, tempat yang dipergunakan Quraisy untuk bersumpah diatas kekufuran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4285</td></tr><tr><td>Arabic No</td><td>4285</td></tr><tr><td>Reference</td><td>Book 64 Hadith 318</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ когда хотел направиться в военный поход в Хунейн, он сказал: «Мы остановимся завтра в долине бану кинана, где (курайшиты) поклялись друг другу в неверии, если на то будет воля Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4285</td></tr><tr><td>Arabic No</td><td>4285</td></tr><tr><td>Reference</td><td>Book 64 Hadith 318</td></tr></tbody></table></div>
 

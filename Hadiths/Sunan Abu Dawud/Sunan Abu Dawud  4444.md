@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dawud said:A similar tradition has been transmitted by Zakariya b. Salim thr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Waki' Ibnul Jarrah] dari [Zakariya Abu Imran] ia berkata; Aku mendengar [Seorang Syaikh] menceritakan dari [Ibnu Abu Bakrah] dari [Bapaknya] berkata, "Nabi shallallahu 'alaihi wasallam merajam seorang wanita, lalu beliau membuat lubang untuknya hingga sebatas dada." Abu Daud berkata, "Seorang laki-laki memahamkan kepadaku dari Utsman." Abu Daud berkata lagi, "Al Ghassani berkata, "Juhainah, Ghamid dan Bariq itu sama." Abu Daud berkata, "Aku mendapat cerita dari [Abdu Ash Shamad bin Abdul Warits], ia berkata; [Zakariya bin Sulaim] telah menceritakan kepada kami dengan sanadnya seperti hadits tersebut. Namun ia menambahkan, 'kemudian beliau melemparnya dengan kerikil-kerikil semisal biji gandum. Setelah itu beliau bersabda: "Lemparlah, tetapi jauhilah bagian wajah." Ketika wanita itu telah meninggal, beliau mengeluarkannya dari lubang dan menshalatinya." Dan ia mengatakan dalam haditsnya tentang masalah taubat sebagaimana hadits Buraidah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4444</td></tr><tr><td>Arabic No</td><td>4444</td></tr><tr><td>Reference</td><td>Book 40 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В версии Закарии ибн Суляйма говорится, что Посланник Аллаха ﷺ бросил в неё камешком размером с горошину, а потом сказал: «Бросайте, но старайтесь избегать лица». А когда она затихла, Посланник Аллаха ﷺ велел вытащить её тело из ямы, совершил над ней молитву джаназа и сказал о её покаянии примерно то же, что сказано в хадисе Бурайды
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4444</td></tr><tr><td>Arabic No</td><td>4444</td></tr><tr><td>Reference</td><td>Book 40 Hadith 94</td></tr></tbody></table></div>
 

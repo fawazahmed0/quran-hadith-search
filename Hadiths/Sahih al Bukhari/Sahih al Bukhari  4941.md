@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The first of the companions of the Prophet (ﷺ) who came to us
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] ia berkata; Telah mengabarkan kepadaku [bapakku] dari [Syu'bah] dari [Abu Ishaq] dari [Al Bara' radliallahu 'anhu] ia berkata; Orang yang pertama-tama kali menemui kami dari sahabat Nabi shallallahu 'alaihi wasallam adalah Mush'ab bin Umair dan Ibnu Ummu Maktum. Lalu keduanya pun membacakan Al Qur'an kepada kami. Setelah itu, datanglah Bilal dan Sa'd. Lalu disusul kemudian oleh Umar bin Al Khaththab bersama dua puluh orang. Setelah itu, barulah Nabi shallallahu 'alaihi wasallam datang. Maka aku tidak pernah melihat penduduk Madinah gembira menyerupai senang dan gembiranya mereka dengan kedatangan beliau, sampai-sampai anak-anak kecil dan para hamba sahaya pun berseru, "Ini adalah Rasulullah shallallahu 'alaihi wasallam telah datang." Tidaklah beliau datang hingga aku selesai membaca surat Al A'la dan surat-surat semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4941</td></tr><tr><td>Arabic No</td><td>4941</td></tr><tr><td>Reference</td><td>Book 65 Hadith 462</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Первыми из тех, кто приехал к нам из сподвижников Пророка ﷺ, были Мус‘аб ибн ‘Умайр и Ибн Умм Мактум, которые учили людей чтению Корана. Потом (к нам) приехали ‘Аммар Биляль и Са‘д, потом приехал ‘Умар ибн аль-Хаттаб с двадцатью (другими сподвижниками), а потом приехал и сам Пророк ﷺ, и я не видел, чтобы жители Медины радовались чему-нибудь больше, чем его (приезду), так что даже дети говорили: “Приехал Посланник Аллаха!” И прежде чем он приехал, я уже читал “Славь имя Господа твоего Высочайшего...” и (некоторые) другие суры подобные ей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4941</td></tr><tr><td>Arabic No</td><td>4941</td></tr><tr><td>Reference</td><td>Book 65 Hadith 462</td></tr></tbody></table></div>
 

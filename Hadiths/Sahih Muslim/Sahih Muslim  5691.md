@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that a eunuch used to come to the wives of Allah's Apostle (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razaq] dari [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] ia berkata; "Seorang banci masuk ke tempat para isteri Nabi shallallahu 'alaihi wasallam. Lalu mereka menganggapnya seperti orang yang tidak mempunyai birahi terhadap perempuan. kemudian Nabi shallallahu 'alaihi wasallam datang, dan si Banci itu sedang berada di antara mereka. Dia menggambarkan perempuan yang katanya: 'Wanita bila menghadap, dia menghadap dengan empat anggota tubuhnya, dan bila membelakang, dia membelakang dengan delapan anggota tubuhnya.' Maka Nabi shallallahu 'alaihi wasallam bersabda: 'Perhatikanlah, bukankah dia mengerti apa yang ada di sini? Karena itu janganlah kalian izinkan masuk ke rumah kalian.' Kata 'Aisyah; 'Sejak itu rumah kami tertutup bagi si banci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5691</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 39 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5691</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 39 Hadith 45</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Saib bin Yazid:In the lifetime of the Prophet, Abu Bakr and 'Umar, t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Az Zuhri] dari [As Sa'ib bin Yazid] berkata, "Adzan panggilan shalat Jum'at pada mulanya dilakukan ketika imam sudah duduk di atas mimbar. Hal ini dipraktekkan sejak zaman Nabi shallallahu 'alaihi wasallam, Abu Bakar dan 'Umar? radliallahu 'anhuma. Ketika masa 'Utsman? radliallahu 'anhu dan manusia sudah semakin banyak, maka dia menambah adzan ketiga di Az Zaura'." Abu 'Abdullah berkata, "Az Zaura' adalah bangunan yang ada di pasar di Kota Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>912</td></tr><tr><td>Arabic No</td><td>912</td></tr><tr><td>Reference</td><td>Book 11 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Саиб ибн Йазид, да будет доволен им Аллах, сказал: «При жизни Пророка ﷺ, а также при Абу Бакре и ‘Умаре, да будет доволен Аллах ими обоими, призыв на молитву (раздавался в тот момент,) когда имам усаживался на минбаре, когда же (халифом) стал ‘Усман, да будет доволен им Аллах, и количество людей (,живших в Медине,) умножилось, он добавил третий призыв(, который произносили) в аз-Зауре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>912</td></tr><tr><td>Arabic No</td><td>912</td></tr><tr><td>Reference</td><td>Book 11 Hadith 36</td></tr></tbody></table></div>
 

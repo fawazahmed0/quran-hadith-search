@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The above mentioned tradition has also been transmitted by Umm 'Atiyyah through 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil], telah menceritakan kepada kami [Isma'il], telah menceritakan kepada kami [Khalid] dari [Hafshah binti Sirin], dari [Ummu 'Athiyyah] bahwa Rasulullah shallallahu 'alaihi wasallam berkata kepada mereka ketika memandikan anak wanitanya: "Mulailah dari sisi kanannya dan tempat-tempat wudhunya." Telah menceritakan kepada kami [Muhammad bin 'Ubaid], telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Muhammad] dari [Ummu 'Athiyyah] sama dengan makna hadits Malik, ia tambahkan dalam hadits Hafshah dari Ummu 'Athiyyah sama dengan hadits ini, dan ia menambahkan padanya; atau tujuh kali, atau lebih dari hal itu apabila kalian memandang perlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1253) Sahih Muslim (939)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3146</td></tr><tr><td>Arabic No</td><td>3146</td></tr><tr><td>Reference</td><td>Book 21 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии хадиса от Умм ‘Атыййи говорится: «…или семь и более, если сочтёте нужным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1253) Sahih Muslim (939)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3146</td></tr><tr><td>Arabic No</td><td>3146</td></tr><tr><td>Reference</td><td>Book 21 Hadith 58</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:When Allah's Messenger (ﷺ) v
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami [Abu 'Awanah] dari [Manshur] dari [Ibrahim] dari [Masruq] dari ['Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam apabila menjenguk salah seorang di antara kami yang sakit, beliau mengucapkan: 'Wahai Rabb manusia, singkirkanlah penyakit ini dan sembuhkanlah ia Karena hanya Engkaulah yang bisa menyembuhkannya, tiada kesembuhan kecuali dari-Mu, kesembuhan yang tidak akan menyebabkan penyakit lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5709</td></tr><tr><td>Arabic No</td><td>2191.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5709</td></tr><tr><td>Arabic No</td><td>2191.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 63</td></tr></tbody></table></div>
 

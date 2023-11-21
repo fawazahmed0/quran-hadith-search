@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah:The Messenger of Allah (ﷺ) as saying: When one of you is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], telah mengabarkan kepada kami [Tsabit], dari [Ibnu Umar bin Abu Salamah], dari [ayahnya] dari [Ummu Salamah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang diantara kalian tertimpa musibah maka hendaknya ia mengucapkan; INNAA LILLAAHI WA INNAA ILAIHI RAAJI'UUN ALLAAHUMMA 'INDAKA AHTASIBU MUSHIIBATII FA-AAJIRNII FIIHAA WA ABDIL LII BIHAA KHAIRAN MINHAA (sesungguhnya kami milik Allah dan sesungguhnya kepadaNya kami akan kembali. Ya Allah aku mengharapkan pahala pada musibahku dan berilah aku pahala padanya dan gantikanlah untukku yang lebih baik darinya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3119</td></tr><tr><td>Arabic No</td><td>3119</td></tr><tr><td>Reference</td><td>Book 21 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Умм Салямы, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Если один из вас понесёт утрату, пусть он скажет: “Поистине, мы принадлежим Аллаху и к Нему возвращаемся! О Аллах, в горе своём надеюсь на награду Твою, вознагради же меня и замени мне его тем, что лучше (, даруя мне благо в этом мире и в мире вечном)” /инна ли-Лляхи ва инна иляйхи раджи‘ун, Аллахумма ‘инда-ка ахтасибу мусыбати ва-аджир-ни фи-ха и абдиль ли хайран мин-ха/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3119</td></tr><tr><td>Arabic No</td><td>3119</td></tr><tr><td>Reference</td><td>Book 21 Hadith 31</td></tr></tbody></table></div>
 

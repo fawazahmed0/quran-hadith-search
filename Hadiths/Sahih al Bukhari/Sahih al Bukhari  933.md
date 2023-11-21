@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Once in the lifetime of the Prophet (p.b.u.h) the people
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah menceritakan kepada kami [Abu 'Amru Al Auza'i] berkata, telah menceritakan kepadaku [Ishaq bin 'Abdullah bin Abu Thalhah] dari [Anas bin Malik] berkata, "Pasa masa Nabi shallallahu 'alaihi wasallam manusia tertimpa paceklik. Ketika Nabi shallallahu 'alaihi wasallam sedang memberikan khutbah pada hari Jum'at, tiba-tiba ada seorang Arab badui berdiri dan berkata, "Wahai Rasulullah, harta benda telah binasa dan telah terjadi kelaparan, maka berdo'alah kepada Allah untuk kami." Beliau lalu mengangkat kedua telapak tangan berdoa, dan saat itu kami tidak melihat sedikitpun ada awan di langit. Namun demi Dzat yang jiwaku berada di tangan-Nya, sungguh beliau tidak menurunkan kedua tangannya kecuali gumpalan awan telah datang membumbung tinggi laksana pegunungan. Dan beliau belum turun dari mimbar hingga akhirnya aku melihat hujan turun membasahi jenggot beliau shallallahu 'alaihi wasallam. Maka pada hari itu, keesokan harinya dan lusa kami terus-terusan mendapatkan guyuran hujan dan hari-hari berikutnya hingga hari Jum'at berikutnya. Pada Jum'at berikut itulah orang Arab badui tersebut, atau orang yang lain berdiri seraya berkata, "Wahai Rasulullah, banyak bangunan yang roboh, harta benda tenggelam dan hanyut, maka berdo'alah kepada Allah untuk kami." Beliau lalu mengangkat kedua telapak tangannya dan berdoa: 'ALLAHUMMA HAWAALAINAA WA LAA 'ALAINAA (Ya Allah, turunkanlah hujan di sekeliling kami dan jangan sampai menimbulkan kerusakan kepada kami) '. Belum lagi beliau memberikan isyarat dengan tangannya kepada gumpalan awan, melainkan awan tersebut hilang seketika. Saat itu kota Madinah menjadi seperti danau dan aliran-aliran air, Madinah juga tidak mendapatkan sinar matahari selama satu bulan. Dan tidak seorang pun yang datang dari segala pelosok kota kecuali akan menceritakan tentang terjadinya hujan yang lebat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>933</td></tr><tr><td>Arabic No</td><td>933</td></tr><tr><td>Reference</td><td>Book 11 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал:«(Однажды) при жизни Пророка ﷺ людей поразила засуха. (Как-то раз,) когда Пророк ﷺ произносил пятничную проповедь, (со своего места) поднялся один бедуин и сказал: “О Посланник Аллаха! (Наше) имущество пропало, а дети голодают, так обратись же к Аллаху с мольбой за нас!” — и тогда (Пророк ﷺ) воздел руки к небу. В это время на небе не было ни одного облачка, но, клянусь Тем, в Чьей длани душа моя, не успел ещё он ﷺ опустить руки, как собрались тучи, подобные горам, и не успел ещё он сойти с минбара, как я увидел (капли) дождя, катившиеся по его бороде. И дождь шел (весь) этот день, и наследующий день, и на третий день, и на четвертый день, (и во все остальные дни) вплоть до следующей пятницы. (А когда настала пятница, со своего места) поднялся тот же бедуин (или: другой человек) и сказал: “О Посланник Аллаха!(Наши) дома разрушились, а имущество оказалось под водой, так обратись же к Аллаху с мольбой за нас!” — и (тогда Пророк ﷺ) воздел руки к небу и сказал: “О Аллах, вокруг нас, а не на нас!/Аллахумма, хаваляй-на, ва ля ‘аляй-на!/” И после этого, куда бы он ни указал своей рукой, тучи там расходились, и очистившееся (небо над) Мединой уподобилось дыре среди (окружавших город) туч. Что же касается вади Канат, то вода в нем (после этого) текла ещё целый месяц, и (впоследствии) каждый человек, откуда бы он ни приезжал (в Медину), обязательно рассказывал об этом сильнейшем дожде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>933</td></tr><tr><td>Arabic No</td><td>933</td></tr><tr><td>Reference</td><td>Book 11 Hadith 57</td></tr></tbody></table></div>
 

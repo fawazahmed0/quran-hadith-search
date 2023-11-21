@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Masruq reported:We were in the company of Abdullah b 'Amr that we made a mention
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Zuhair bin Harb] serta ['Utsman bin Abu Syaibah] mereka berkata; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wa-il] dari [Masruq] dia berkata; suatu ketika kami bersama [Abdullah bin 'Amru], lalu kami menceritakan tentang hadits dari Ibnu Mas'ud. maka Ia (Abdullah 'Amru) berkata; Aku sangat mencintainya hingga kini setelah Rasulullah shallallahu 'alaihi wasallam bersabda; "Dengarkanlah bacaan Al Qur 'an dari empat orang; Dari Ibnu Mas 'ad -beliau memulai darinya-, kemudian dari Ubay bin Ka 'ab, Salim maula Abu Hanifah, dan Mu'adz bin Jabal." Ada satu huruf yang tidak di sebutkan oleh Zuhair yaitu perkataannya; 'yaquuluhu' (yang dia ucapkannya). Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dengan sanad Jarir dan Waki'. Dan di dalam riwayat Abu Bakr dari Abu Mu'awiyah, disebutkan dengan mendahulukan nama Mu'adz bin Jabal dari Ubay bin Ka'ab. Sedangkan di dalam riwayat Abu Kuraib, disebutkan nama Ubay terlebih dahulu baru Mu'adz. Telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Ibnu Abu 'Adi]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Bisyr bin Khalid]; Telah mengabarkan kepada kami [Muhammad] yaitu Ibnu Ja'far keduanya dari [Syu'bah] dari [Al A'masy] melalui jalur mereka. Keduanya berselisih dari jalur Syu'bah mengenai penyebutan keempat nama tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6335</td></tr><tr><td>Arabic No</td><td>2464.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6335</td></tr><tr><td>Arabic No</td><td>2464.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 165</td></tr></tbody></table></div>
 

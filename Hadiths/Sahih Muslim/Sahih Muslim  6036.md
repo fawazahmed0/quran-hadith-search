@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) had in one of his journeys his black 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ar Rabi' Al 'Ataki], [Hamid bin 'Umar], [Qutaibah bin Sa'id] dan [Abu Kamil] seluruhnya dari [Hammad bin Zaid]. [Abu Ar Rabi'] berkata; Telah menceritakan kepada kami [Hammad]; Telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Anas] dia berkata; "Pada suatu ketika Rasulullah shallallahu 'alaihi wasallam bepergian (dengan diikuti para wanita), sedangkan pengawalnya adalah seorang budak hitam yang bernama Anjasyah. Rasulullah shallallahu 'alaihi wasallam berkata kepadanya; 'Hai Anjasyah, pelan-pelan (hati-hati) jika mengawal para wanita.' Dan telah menceritakan kepada kami [Abu Ar Rabi' Al 'Ataki] dan [Hamid bin 'Umar] serta [Abu Kamil] mereka berkata; Telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Anas] dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6036</td></tr><tr><td>Arabic No</td><td>2323.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас (ибн Малик, да будет доволен им Аллах,) сказал: «(Однажды) Посланник Аллаха ﷺ находился в одной из своих поездок, а чёрный раб по имени Анджала подгонял верблюдов пением, и Посланник Аллаха ﷺ сказал ему: “О Анджала, (вези) медленнее, (будто везёшь) бутылки”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6036</td></tr><tr><td>Arabic No</td><td>2323.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 94</td></tr></tbody></table></div>
 

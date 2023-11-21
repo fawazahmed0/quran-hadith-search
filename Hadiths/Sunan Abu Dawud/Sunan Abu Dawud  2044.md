@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi’ reported on the authority of ‘Abd Allah bin ‘Umar “The Apostle of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik], dari [Nafi'], dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam menderumkan untanya di Al Bathha' yang berada di Dzul Hulaifah, kemudian beliau melakukan shalat padanya. Dan Abdullah bin Umar melakukan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1532) Sahih Muslim (1257 After 1345)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2044</td></tr><tr><td>Arabic No</td><td>2044</td></tr><tr><td>Reference</td><td>Book 11 Hadith 324</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ заставил свою верблюдицу опуститься на колени в Батхе, что в Зу-ль-Хуляйфе, и совершил там молитву. Сам Абдуллах ибн ‘Умар поступал так же
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1532) Sahih Muslim (1257 After 1345)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2044</td></tr><tr><td>Arabic No</td><td>2044</td></tr><tr><td>Reference</td><td>Book 11 Hadith 324</td></tr></tbody></table></div>
 

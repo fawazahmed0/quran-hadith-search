@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mahmud bin Ar-Rabi':I remember Allah's Messenger (ﷺ) and also the mou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Mahmud bin Ar Rabi'], dia mengklaim bahwa ia telah membuat perjanjian dengan Rasulullah shallallahu 'alaihi wasallam dan meminta keberkahan kewat air yang diambil dari sumur yang ada di dalam mereka. Dia berkata, Aku mendengar ['Itban bin Malik Al Anshari] kemudian seseorang dari suku Bani Salim berkata, "Aku pernah memimpin shalat kaumku, Bani Salim. Pada kemudian hari aku menemui Nabi shallallahu 'alaihi wasallam, lalu aku berkata kepada beliau, "Wahai Rasulullah, aku adalah orang yang sudah lemah penglihatan sedangkan genangan-genangan dari saluran air sering menghalangi antara aku dan masjid kaumku. Seandainya tuan berkenan, bolehlah tuan datang berkunjung lalu shalat di rumahku pada suatu tempat yang akan aku jadikan masjid." Maka Beliau berkata, "Aku akan datang, Insyaallah." Kemudian beliau datang kepadaku bersama Abu Bakar di waktu siang yang terik. Nabi shallallahu 'alaihi wasallam lalu minta izin masuk dan aku pun mengizinkannya. Sebelum duduk beliau langsung bersabda: "Mana tempat yang kau sukai untuk aku shalat padanya di rumahmu ini?" Maka Itban memberi isyarat kepada Beliau tempat yang disukainya supaya Beliau shalat di tempat tersebut. Beliau lalu berdiri shalat dan kamipun berdiri shalat mengatur shaf di belakangnya. Kemudian Beliau mengakhiri shalat dengan salam, maka kamipun mengucapkan salam setelah Beliau salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>839</td></tr><tr><td>Arabic No</td><td>839</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал: «Мне сообщил Махмуд ибн Раби‘а, который утверждал, что он запомнил Посланника Аллаха ﷺ и он запомнил то, как он брызнул на него, набрав воду ртом из ведра, которое было у него дома»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>839</td></tr><tr><td>Arabic No</td><td>839</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

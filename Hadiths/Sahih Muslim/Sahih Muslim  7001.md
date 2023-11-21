@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mas'oûd (رضي الله عنهما), un homme, ayant 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Kamil Fudhail bin Husain Al Jahdari] keduanya dari [Yazid bin Zurai'] - dan lafadh ini milik Abu Kamil-; telah menceritakan kepada kami Yazid telah menceritakan kepada kami [At Taimi] dari [Abu 'Utsman] dari ['Abdullah bin Mas'ud] bahwasanya seorang lelaki pernah mencium seorang wanita, lalu dia menemui Nabi shallallahu 'alaihi wasallam dan mengabarkannya kepada Nabi shallallahu 'alaihi wasallam. Maka turunlah ayat: "Dan dirikanlah shalat itu pada kedua tepi siang (pagi dan petang) dan pada bagian permulaan daripada malam. Sesungguhnya perbuatan-perbuatan yang baik itu menghapuskan (dosa) perbuatan-perbuatan yang buruk. Itulah peringatan bagi orang-orang yang ingat." (QS Hud; 114). Abdullah berkata; laki-laki itu bertanya; "Wahai Rasulullah, apakah ayat ini untukku?" Beliau menjawab: "Ayat tersebut adalah untuk orang-orang yang melakukannya dari ummatku." Telah menceritakan kepada kami [Muhammad bin 'Abdul A'la] telah menceritakan kepada kami [Mu'tamir] dari [bapaknya] telah menceritakan kepada kami [Abu 'Utsman] dari [Ibnu Mas'ud] bahwasanya seorang laki-laki menemui Nabi shallallahu 'alaihi wasallam dan menceritakan bahwa dirinya telah menyentuh seorang wanita, baik itu berupa ciuman atau setuhan tangan, seperitinya dia bertanya kepada Nabi shallallahu 'alaihi wasallam tentang kafarahnya (penghapus). Ibnu Mas'ud berkata; maka turunlah ayat -sebagaimana dalam Hadits Yazid. Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Sulaiman At Taimi] dengan sanad ini, dia berkata; 'Seorang laki-laki pernah melakukan perbuatan dosa kecil terhadap seorang wanita, lalu dia menemui Umar bin Khaththab, maka Umar menganggapnya telah melakukan dosa besar. Lalu dia menemui Abu Bakr, ia pun menganggapnya telah melakukan dosa besar. Kemudian dia mendatangi Nabi shallallahu 'alaihi wasallam -lalu perawi menyebutkan sebagaimana Hadits Yazid dan Mu'tamir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7001</td></tr><tr><td>Arabic No</td><td>2763.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7001</td></tr><tr><td>Arabic No</td><td>2763.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 47</td></tr></tbody></table></div>
 

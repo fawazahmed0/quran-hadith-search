@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) saw a man driving a Badana and said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il] telah bercerita kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam melihat seseorang sedang menggiring untanya, maka Beliau berkata: "Kendarailah unta itu". Orang itu menjawab: "Wahai Rasulullah, unta ini untuk qurban". Maka Beliau shallallahu 'alaihi wasallam mengulangi: "Kendarailah unta itu, celaka kamu ini". pada perintah Beliau yang kedua kalinya atau yang ketiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2755</td></tr><tr><td>Arabic No</td><td>2755</td></tr><tr><td>Reference</td><td>Book 55 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что, когда Посланник Аллаха ﷺ увидел какого-то человека, который гнал своего верблюда, он сказал ему: «Сядь на него верхом». (Человек) сказал: «Это ведь жертвенный верблюд!» Тогда на третий (или: на второй) раз (Пророк ﷺ) сказал: «Садись же, горе тебе!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2755</td></tr><tr><td>Arabic No</td><td>2755</td></tr><tr><td>Reference</td><td>Book 55 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) said: A townsman must not sell for a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] bahwa [Muhammad bin Az Zibriqan Abu Hammam] telah menceritakan kepada mereka, Zuhair berkata; dan ia adalah orang yang tsiqah, dari [Yunus] dari [Al Hasan] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak boleh orang yang bermukim (orang kota) menjualkan barang orang yang datang dari desa walaupun ia adalah saudaranya atau ayahnya." Abu Daud berkata; saya mendengar Hafsh bin Umar berkata; telah menceritakan kepada kami Abu Hilal, telah menceritakan kepada kami Muhammad dari Anas bin Malik ia berkata; dahulu pernah dikatakan; Tidak boleh orang yang bermukim menjualkan orang pelosok. Hal tersebut merupakan sebuah kalimat yang mencakup tidak boleh menjualkan sesuatu untuknya dan tidak boleh membelikan sesuatu untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3440</td></tr><tr><td>Arabic No</td><td>3440</td></tr><tr><td>Reference</td><td>Book 24 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Оседлый житель не должен продавать за бедуина, даже если он приходится ему братом или отцом».Анас ибн Малик, да будет доволен им Аллах, сказал: «Слова: “Оседлый житель не должен продавать за бедуина” означают, что он не должен ничего продавать за бедуина и не должен ничего покупать за него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3440</td></tr><tr><td>Arabic No</td><td>3440</td></tr><tr><td>Reference</td><td>Book 24 Hadith 25</td></tr></tbody></table></div>
 

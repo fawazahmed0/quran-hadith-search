@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’id al-Khudri said:I was sitting in one of the meeting of the Ansar. Abu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdah] berkata, telah mengabarkan kepada kami [Sufyan] dari [Yazid bin Khushaifah] dari [Busr bin Sa'id] dari [Abu Sa'id Al Khudri] ia berkata, "Suatu kali aku duduk di salah satu majelis kaum Anshar, lalu tiba-tiba [Abu Musa] datang dengan wajah ketakutan. Kami lalu bertanya kepadanya, "Apa yang membuatmu takut?" ia menjawab, "Umar memerintahkan aku untuk menemuinya, ketika aku meminta izin hingga tiga kali, ia tidak memberiku izin. Maka aku pun kembali pulang." Umar lantas bertanya kepadaku, "Apa yang menghalangimu untuk datang kepadaku?" Aku menjawab, "Aku sudah datang dan meminta izin hingga tiga kali, tetapi tidak jawaban, padahal Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Jika salah seorang dari kalian meminta izin hingga tiga kali, lalu tidak mendapat izin, maka hendaknya ia kembali." Umar berkata, "Kamu harus membawa bukti atas apa yang kamu katakan ini." Abu Sa'id berkata, "Tidak akan ada yang akan menemanimu kecuali orang paling muda umurnya." Lalu berangkatlah Abu Sa'id bersamanya untuk menjadi saksi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6245) Sahih Muslim (2153)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5180</td></tr><tr><td>Arabic No</td><td>5180</td></tr><tr><td>Reference</td><td>Book 43 Hadith 408</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6245) Sahih Muslim (2153)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5180</td></tr><tr><td>Arabic No</td><td>5180</td></tr><tr><td>Reference</td><td>Book 43 Hadith 408</td></tr></tbody></table></div>
 

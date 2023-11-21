@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Kathir b. Kathir b. al-Muttalib b. Abi Wida'ah From his people on the a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Sufyan bin 'Uyainah], telah menceritakan kepadaku [Katsir bin Katsir bin Al Muththalib bin Abu Wida'ah] dari [sebagian keluarganya], dari [Kakeknya], bahwa ia telah melihat Nabi shallallahu 'alaihi wasallam melakukan shalat di tempat yang terletak setelah pintu Bani Sahm, sementara orang-orang lewat di hadapannya, dan tidak ada sutrah (pembatas shalat) antara keduanya. Sufyan berkata; tidak ada sutrah antara beliau dan Ka'bah. Sufyan berkata; [Ibnu Juraij] telah mengabarkan kepada kami mengenai hal tersebut. Ia berkata; telah mengabarkan kepada kami [Kutsair] dari [ayahnya], ia berkata; aku bertanya kepadanya kemudian ia berkata; bukan dari ayahku aku mendengarnya, akan tetapi dari sebagian keluargaku, dari kakekku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2016</td></tr><tr><td>Arabic No</td><td>2016</td></tr><tr><td>Reference</td><td>Book 11 Hadith 296</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Касир ибн Касир ибн аль-Мутталиб ибн Абу Вада‘а передаёт от кого-то из членов его семьи рассказ его деда о том, что он видел, как Пророк ﷺ совершал молитву напротив ворот бану сахм, люди проходили перед ним и между ним и ими не было никакой преграды (или: между ним и Каабой не было никакой преграды)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2016</td></tr><tr><td>Arabic No</td><td>2016</td></tr><tr><td>Reference</td><td>Book 11 Hadith 296</td></tr></tbody></table></div>
 

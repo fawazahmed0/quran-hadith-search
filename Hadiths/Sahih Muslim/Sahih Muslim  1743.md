@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that when the Messenger of Allah (ﷺ) missed the night prayer d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Said bin Manshur] dan [Qutaibah bin Said], semuanya dari [Abu 'Awanah], [Said] mengatakan; telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Zurarah bin Aufa] dari [Sa'd bin Hisyam] dari ['Aisyah], bahwa apabila Rasulullah shallallahu 'alaihi wasallam ketinggalan shalat malam karena sakit atau lainnya, maka beliau melaksanakan shalat pada siangnya sebanyak dua belas rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1743</td></tr><tr><td>Arabic No</td><td>746.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что, если Посланник Аллаха ﷺ пропускал ночную молитву из-за болезни или чего-то другого, то совершал днём (дополнительные молитвы, общее количество) рак‘атов (которых равнялось) двенадцати
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1743</td></tr><tr><td>Arabic No</td><td>746.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 172</td></tr></tbody></table></div>
 

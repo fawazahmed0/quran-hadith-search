@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:We prostrated ourselves along with the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan] dari [Ayyub bin Musa] dari ['Atha' bin Mina'] dari [Abu Hurairah] dia berkata; "Kami pernah bersujud (tilawah) bersama Rasulullah shallallahu 'alaihi wasallam pada surat "idzaas samaa'un syaqqat" dan "iqra' bismirabbikal ladzii khalaq" Abu Daud berkata; "Abu Hurairah masuk Islam pada tahun ke enam (hijriyah) yaitu ketika hari penaklukan Khaibar, sedangkan sujud ini adalah yang terakhir kali di kerjakan oleh Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (578)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1407</td></tr><tr><td>Arabic No</td><td>1407</td></tr><tr><td>Reference</td><td>Book 7 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах: «Мы с посланником Аллаха ﷺ совершали земной поклон при чтении сур “Когда небеса расколются…” и “Читай! С именем Господа твоего, Который сотворил…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (578)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1407</td></tr><tr><td>Arabic No</td><td>1407</td></tr><tr><td>Reference</td><td>Book 7 Hadith 7</td></tr></tbody></table></div>
 

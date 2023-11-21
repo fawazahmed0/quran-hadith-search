@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) died while his armor was mortgaged to a Jew fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab telah menceritakan kepada kami [Qabishah] Telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha] dia berkata; "Rasulullah shallallahu 'alaihi wasallam wafat, dan beliau meninggalkan baju besinya yang digadaikan kepada orang Yahudi seharga tiga puluh sha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4467</td></tr><tr><td>Arabic No</td><td>4467</td></tr><tr><td>Reference</td><td>Book 64 Hadith 482</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что она сказала: «Умер Пророк ﷺ, а его кольчуга была заложена у одного иудея за тридцать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4467</td></tr><tr><td>Arabic No</td><td>4467</td></tr><tr><td>Reference</td><td>Book 64 Hadith 482</td></tr></tbody></table></div>
 

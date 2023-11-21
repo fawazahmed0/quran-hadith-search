@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali (que Dieu l'agrée) a dit : J'étais souvent sujet au [Madhi], mais comme j'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Waki'] dan [Abu Muawiyah] serta [Husyaim] dari [al-A'masy] dari [Mundzir bin Ya'la], dan dia diberi gelar Abu Ya'la dari [Ibnu al-Hanafiyyah] dari [Ali] dia berkata, "Aku adalah lelaki yang sering keluar madzi, tetapi aku malu untuk bertanya Nabi Shallallahu'alaihiwasallam karena puteri beliau adalah istriku sendiri. Maka kusuruh al-Miqdad bin al-Aswad supaya bertanya beliau, lalu beliau bersabda, "Hendaklah dia membasuh kemaluannya dan berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>695</td></tr><tr><td>Arabic No</td><td>303.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али сказал: «Обычно у меня выделялось много жидкости /мазий/, но я стеснялся спросить об этом Пророка ﷺ, поскольку его дочь была (моей женой), и (однажды) я велел (сделать это) аль-Микъдаду ибн аль-Асваду. (Аль-Микъдад) задал ему этот вопрос, и (Пророк ﷺ) сказал: “(В подобном случае следует) смыть “мазий” с полового органа и совершить омовение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>695</td></tr><tr><td>Arabic No</td><td>303.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 17</td></tr></tbody></table></div>
 

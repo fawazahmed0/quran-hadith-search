@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Tawus: The Messenger of Allah (ﷺ) used to place his right hand on his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah] telah menceritakan kepada kami [Al Haitsam yaitu Ibnu Humaid] dari [Tsaur] dari [Sulaiman bin Musa] dari [Thawus] dia berkata; "Rasulullah shallallahu 'alaihi wasallam meletakkan tangan kanannya diatas tangan kiri, kemudian menarik keduanya diatas dada ketika shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>759</td></tr><tr><td>Arabic No</td><td>759</td></tr><tr><td>Reference</td><td>Book 2 Hadith 369</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Тавус сказал: «Когда Посланник Аллаха ﷺ совершал молитву, он возлагал правую руку на левую и затем прижимал их к своей груди»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>759</td></tr><tr><td>Arabic No</td><td>759</td></tr><tr><td>Reference</td><td>Book 2 Hadith 369</td></tr></tbody></table></div>
 

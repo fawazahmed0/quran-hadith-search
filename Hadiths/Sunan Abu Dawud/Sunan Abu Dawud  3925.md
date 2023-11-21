@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) took a man who was suf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Mufadldlal bin Fadlalah] dari [Habib bin Asy Syahid] dari [Muhammad bin Al Munkadir] dari [Jabir], bahwa Rasulullah shallallahu 'alaihi wasallam menggandeng tangan orang yang menderita penyakit kusta, kemudian beliau meletakkan tangan orang tersebut di atas nampan seraya bersabda: "Makanlah dengan percaya kepada Allah dan bertawakal kepada-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>3925</td></tr><tr><td>Reference</td><td>Book 30 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом, что однажды Посланник Аллаха ﷺ взял руку прокажённого и опустил её на блюдо, с которого ел, со словами: «Ешь, с верой в Аллаха и упованием на Него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>3925</td></tr><tr><td>Reference</td><td>Book 30 Hadith 22</td></tr></tbody></table></div>
 

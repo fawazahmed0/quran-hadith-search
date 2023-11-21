@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Kathir ibn Jamhan said:A man asked Abdullah ibn Umar between as-Safa and al-Marw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [An Nufaili], telah menceritakan kepada Kami [Zuhair], telah menceritakan kepada Kami ['Atho' bin As Saib], dari [Katsir bin Jamhan] bahwa seseorang berkata kepada [Abdullah bin Umar] diantara Shafa dan Marwa: wahai Abu Abdurrahman aku melihatmu berjalan antara Shafa dan Marwa, sementara orang-orang berlari-laki kecil? Dia menjawab: Kalau aku berjalan karena aku telah melihat Rasulullah shallallahu 'alaihi wasallam berjalan, dan kalau aku berlari-lari kecil karena aku juga telah melihat Rasulullah shallallahu 'alaihi wasallam berlari-lari kecil. Sementara aku sekarang aku sudah tua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1904</td></tr><tr><td>Arabic No</td><td>1904</td></tr><tr><td>Reference</td><td>Book 11 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Касир ибн Джумхан передаёт, что один человек сказал ‘Абдуллаху ибн ‘Умару, когда они проходили между холмами Сафа и Марва: «О Абу ‘Абдуррахман! Вижу, что ты идёшь, тогда как люди бегут…» Он ответил: «Если я и иду, то я видел, как шёл Посланник Аллаха ﷺ, а если я побегу, то я видел, как бежал Посланник Аллаха ﷺ… Поистине, я уже стар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1904</td></tr><tr><td>Arabic No</td><td>1904</td></tr><tr><td>Reference</td><td>Book 11 Hadith 184</td></tr></tbody></table></div>
 

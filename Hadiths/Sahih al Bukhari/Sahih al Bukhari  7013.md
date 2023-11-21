@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "I have been sent w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] Telah menceritakan kepada kami [Al Laits] telah menceritakan kepadaku [Uqail] dari [Ibnu Syihab] telah mengabarkan kepadaku [Sa'id bin Musayyab], bahwasanya [Abu Hurairah] mengatakan, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku diutus dengan membawa jawami' kalim, dan aku diberi pertolongan dengan rasa takut yang dihunjamkan dalam dada-dada musuhku, dan ketika aku tidur, aku diberi kunci-kunci perbendaharaan bumi, dan diletakkan pada kedua tanganku." Abu Abdullah mengatakan, dan sampai berita kepadaku bahwa makna jawami' kalim ialah, Allah menghimpun sekian banyak masalah yang pernah ditulis dalam kitab-kitab suci sebelumnya dalam satu masalah atau dua masalah, atau seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7013</td></tr><tr><td>Arabic No</td><td>7013</td></tr><tr><td>Reference</td><td>Book 91 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, слышал, как Посланник Аллаха ﷺ сказал: «Я был послан с краткими и многозначными словами /джавами‘ аль-кялим/, мне была оказана помощь страхом, а когда я спал, я увидел во сне, что мне были дарованы ключи от сокровищниц земли и положили их мне в руку». \nМухаммад (аз-Зухри) сказал: «До меня дошло, что краткие и многозначные слова /джавами‘ аль-кялим/ — это когда Аллах собирает множество положений, которые писались в писаниях до него, в одну или две вещи и тому подобное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7013</td></tr><tr><td>Arabic No</td><td>7013</td></tr><tr><td>Reference</td><td>Book 91 Hadith 31</td></tr></tbody></table></div>
 

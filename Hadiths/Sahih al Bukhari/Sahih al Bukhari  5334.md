@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid bin Nafi':Zainab bint Abu Salama told me these three narrations:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Abdullah bin Abu Bakr bin Muhammad bin Amru bin Hazm] dari [Humaid bin Nafi'] dari [Zainab binti Abu Salamah] bahwa ia telah mengabarkan tiga hadits ini kepadanya. Zainab berkata; Aku menemui [Ummu Habibah] isteri Nabi shallallahu 'alaihi wasallam saat bapaknya, Abu Sufyan bin Harb, wafat. Lalu Ummu Habibah meminta wewangian yang di dalamnya terdapat minyak wangi kuning yang sudah usang. Kemudian dari wewangian itu, ia meminyaki seorang budak wanita lalu memegang kedua belah pipinya seraya berkata, "Demi Allah, aku tidak berhajat sedikitpun terhadap wewangian, hanya saja aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak halal bagi seorang wanita yang beriman kepada Allah dan hari akhir, untuk berkabung lebih dari tiga hari, kecuali karena kematian suaminya, yaitu selama empat bulan sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5334</td></tr><tr><td>Arabic No</td><td>5334</td></tr><tr><td>Reference</td><td>Book 68 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейнаб бинт Аби Саляма сказала: «Когда умер Абу Суфьян ибн Харб, отец жены Пророка ﷺ Умм Хабибы, я зашла к ней, а она велела принести жёлтые благовония из шафрана или чего-то другого, умастила ими рабыню, нанесла их на щёки себе, а потом сказала: “Клянусь Аллахом, нет мне нужды в этих благовониях, однако я слышала, как Посланник Аллаха ﷺ сказал: “Не дозволено женщине, верующей в Аллаха и в Последний день, соблюдать траур свыше трёх дней по кому-то, кроме мужа, — по нему она должна соблюдать траур четыре месяца и десять дней””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5334</td></tr><tr><td>Arabic No</td><td>5334</td></tr><tr><td>Reference</td><td>Book 68 Hadith 79</td></tr></tbody></table></div>
 

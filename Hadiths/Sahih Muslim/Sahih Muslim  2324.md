@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asma' daughter of Abu Bakr reported:I said: Messenger of Allah, my mother, who i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] Telah menceritakan kepada kami [Abdullah bin Idris] dari [Hisyam bin Urwah] dari [bapaknya] dari [Asma'] ia berkata; Saya bertanya, "Wahai Rasulullah, sesungguhnya ibu mengunjungiku (karena rindu padaku). Bolehkah aku menyambung silaturahmi dengannya?" beliau menjawab: "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2324</td></tr><tr><td>Arabic No</td><td>1003.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Аби Бакр сказала: «Я сказала: “О Посланник Аллаха, ко мне приехала моя мать, которая чего-то хочет (или: чего-то боится), так следует ли мне поддерживать с ней отношения?” и он сказал: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2324</td></tr><tr><td>Arabic No</td><td>1003.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 61</td></tr></tbody></table></div>
 

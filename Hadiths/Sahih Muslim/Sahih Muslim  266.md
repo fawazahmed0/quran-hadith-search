@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of 'Abdullah b. Mas'ud that the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Minjab bin al-Harits at-Tamimi] dan [Suwaid bin Sa'id] keduanya dari [Ali bin Mushir], [Minjab] berkata, telah mengabarkan kepada kami [Ibnu Mushir] dari [al-A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan masuk neraka, seseorang yang mana dalam hatinya terdapat seberat biji sawi dari iman, dan tidak akan masuk surga seseorang yang mana dalam hatinya terdapat seberat biji sawi dari kesombongan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>266</td></tr><tr><td>Arabic No</td><td>91.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд, да будет доволен им Аллах,) сказал: «Посланник Аллаха ﷺ сказал: “Не войдёт в (адский) Огонь ни один (человек), в чьём сердце есть вера весом в горчичное зерно, и не войдет в Рай ни один, в чьём сердце есть высокомерие весом в горчичное зерно”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>266</td></tr><tr><td>Arabic No</td><td>91.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 172</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "My heirs will not inherit a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Warisanku tidaklah dibagi-bagi baik berupa dinar maupun dirham. Apa yang aku tinggalkan selain berupa nafkah buat istri-istriku dan para pekerjaku, semuanya adalah sebagai shadaqah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2776</td></tr><tr><td>Arabic No</td><td>2776</td></tr><tr><td>Reference</td><td>Book 55 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Мои наследники не разделят между собой ни одного динара, ибо оставленное мной после (выделения соответствующих средств) моим жёнам и выплат тем, кто у меня работал, (предназначено для) садаки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2776</td></tr><tr><td>Arabic No</td><td>2776</td></tr><tr><td>Reference</td><td>Book 55 Hadith 39</td></tr></tbody></table></div>
 

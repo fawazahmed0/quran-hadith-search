@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Apostle of Allaah(ﷺ) as saying “A woman should not
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik], dari [Abu Az Zinad] dari [Al A'raj], dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah seorang wanita meminta cerai saudarinya agar ia dapat mengosongkan nampannya (menguasai apa yang ia miliki) dan agar ia dapat menikah dengan suaminya, sesungguhnya baginya apa yang ditakdirkan untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6601)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 13 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не должна женщина просить развода для сестры своей, чтобы опустошить посуду её. Пусть выходит замуж (не ставя подобных условий), ибо, поистине, ей то, что предопределено ей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6601)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 13 Hadith 2</td></tr></tbody></table></div>
 

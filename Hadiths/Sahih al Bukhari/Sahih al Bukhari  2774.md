@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:When Allah's Messenger (ﷺ) came to Medina, he ordered 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq] telah bercerita kepada kami ['Abdush Shomad] berkata aku mendengar [bapakku] telah bercerita kepada kami [Abu at-Tayyah] berkata telah bercerita kepadaku [Anas bin Malik radliallahu 'anhu]; Ketika Nabi shallallahu 'alaihi wasallam tiba di Madinah, Beliau memerintahkan untuk membangun masjid (Nabawiy) lalu berkata: "Wahai Bani an-Najjar, tentukanlah harganya (juallah) kepadaku kebun-kebun kalian ini". Mereka berkata: "Demi Allah, kami tidak membutuhkan uangnya akan tetapi kami berikan untuk Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2774</td></tr><tr><td>Arabic No</td><td>2774</td></tr><tr><td>Reference</td><td>Book 55 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Прибыв в Медину, Посланник Аллаха ﷺ приказал построить мечеть и сказал: “О (предводители) бану ан-наджжар, назначьте мне цену за этот ваш сад”. Они ответили: “Нет, клянёмся Аллахом, мы потребуем плату за неё только от Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2774</td></tr><tr><td>Arabic No</td><td>2774</td></tr><tr><td>Reference</td><td>Book 55 Hadith 37</td></tr></tbody></table></div>
 

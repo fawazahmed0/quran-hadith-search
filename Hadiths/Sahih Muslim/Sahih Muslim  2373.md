@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who spent pairs for th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Muhammad bin Abdullah bin Zubair] telah menceritakan kepada kami [Syaiban] -dalam jalur lain- Dan telah menceritakan kepadaku [Muhammad bin Hatim] -lafazh juga miliknya- telah menceritakan kepada kami [Syababah] telah menceritakan kepadaku [Syaiban bin Abdurrahman] dari [Yahya bin Abu Katsir] dari [Abu Salamah bin Abdurrahman] bahwa ia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barngsiapa yang bersedekah sepasang kuda perang untuk membela agama Allah (fi sabilillah), maka ia akan dipanggil kelak oleh penjaga surga, bahkan setiap penjaga pintu surga mengatakan, 'kemarilah.'" Kemudian Abu Bakar berkata, "Wahai Rasulullah, itulah orang yang tidak ada kebinasaan baginya." Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh, saya berharap kamu termasuk salah seorang dari mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2373</td></tr><tr><td>Arabic No</td><td>1027.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ сказал: «Расходовавшего (по) две вещи на пути Аллаха, призовут все стражи врат Рая: “О такой-то, зайди сюда!”». (Услышав это,) Абу Бакр, сказал: «О Посланник Аллаха! Такой человек не погибнет». (Пророк ﷺ) сказал: «Поистине, я надеюсь, что ты будешь одним из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2373</td></tr><tr><td>Arabic No</td><td>1027.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 110</td></tr></tbody></table></div>
 

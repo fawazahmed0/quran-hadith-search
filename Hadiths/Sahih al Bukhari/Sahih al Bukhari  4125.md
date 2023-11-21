@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin Abdullah (ra):The Prophet (ﷺ) led his Companions in the Fea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Abdullah dan [Abdullah bin Raja'] berkata kepadaku; telah mengabarkan kepada kami ['Imran Al Qaththan] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Jabir bin Abdullah radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam dan para shahabat beliau merasa khawatir (serangan musuh) pada perang ketujuh yaitu perang Dzatur Riqa'. Ibnu 'Abbas berkata; Maka Nabi shallallahu 'alaihi wasallam melaksanakan shalat khauf di Dzi Qarad." [Bakr bin Sawadah] mengatakan; telah menceritakan kepadaku [Ziyad bin Nafi'] dari [Abu Musa] bahwa [Jabir] menceritakan kepada mereka; Nabi shallallahu 'alaihi wasallam melaksanakan shalat bersama mereka pada perang Muharib dan Tsa'labah". Dan berkata [Ibnu Ishaq] aku mendengar [Wahb bin Kaisan] aku mendengar [Jabir]; Nabi shallallahu 'alaihi wasallam keluar menuju Dzatur Riqa' dan melewati daerah Nakhl. Beliau bertemu dengan rombongan dari suku Ghathafan namun tidak terjadi peperangan, ternyata satu sama lain dari kedua kelompok saling dihinggapi rasa takut. Lalu Nabi shallallahu 'alaihi wasallam melaksanakan shalat khauf dua raka'at." [Yazid] mengatakan dari [Salamah]; "Aku ikut perang bersama Nabi shallallahu 'alaihi wasallam saat perang Al Qard
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4125</td></tr><tr><td>Arabic No</td><td>4125</td></tr><tr><td>Reference</td><td>Book 64 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах ими обоими, что во время седьмого похода, то есть похода «Зат ар-Рика‘», Пророк ﷺ вместе со своими сподвижниками совершил молитву под воздействием страха /салят aль-хауф
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4125</td></tr><tr><td>Arabic No</td><td>4125</td></tr><tr><td>Reference</td><td>Book 64 Hadith 169</td></tr></tbody></table></div>
 

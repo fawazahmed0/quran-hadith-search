@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Mughira b. Shu'ba reported:A woman killed her fellow-wife with a tent-pole. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Mufadlal] dari [Manshur] dari [Ibrahim] dari ['Ubaid bin Nushailah] dari [Mughirah bin Syu'bah], bahwa ada seorang wanita memukul madunya (isteri dari suaminya) dengan tiang pasak tenda sehingga meninggal, padahal madu suaminya tengah hamil. Kemudian persoalan tersebut dihadapkan kepada Rasulullah shallallahu 'alaihi wasallam. Beliau memutuskan bahwa 'ashabah wanita yang membunuh agar membayar diyah, beliau juga memutuskan bahwa denda janin yang ada dalam perutnya dengan memerdekakan seorang budak mahal. Lantas 'ashabah wanita tersebut protes, "Apakah aku harus menanggung denda untuk orang yang belum bisa makan, minum dan menangis saat dilahirkan? Itu adalah suatu kesia-siaan!" Syu'bah berkata, "Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Ini adalah sajak seperti sajaknya orang-orang badui." Dan telah menceritakan kepadaku [Muhammad bin Al hatim] dan [Muhammad bin Basyar] keduanya berkata; telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Sufyan] dari [Manshur] dengan isnad ini seperti makna haditsnya Jarir dan Mufadlal." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] mereka berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Manshur] dengan sanad hadits mereka dan ceritanya, hanya saja dalam hadits tersebut disebutkan, "Hingga wanita tersebut terjatuh. Persoalan tersebut kemudian diangkat kepada Nabi shallallahu 'alaihi wasallam, lantas beliau memutuskan dengan membayar denda berupa seorang budak, dan beliau membebankan diyatnya kepada walinya." Dan dalam hadits itu tidak disebutkan, "Diyatnya seorang wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4394</td></tr><tr><td>Arabic No</td><td>1682.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4394</td></tr><tr><td>Arabic No</td><td>1682.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 53</td></tr></tbody></table></div>
 

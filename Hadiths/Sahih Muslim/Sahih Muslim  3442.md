@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Apostle (ﷺ) as saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Muhammad bin Sirin] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah meminang wanita yang telah dipinang saudaranya, dan janganlah menawar barang yang telah ditawar saudaranya, dan janganlah wanita dipoligami dengan bibinya (baik dari saudara ayah atau ibu), dan janganlah seorang istri meminta suaminya supaya menceraikan madunya agar segala kebutuhannya terpenuhi, akan tetapi biarkanlah suami menikah (sesuai dengan kemampuannya), karena Allah telah menentukan bagiannya sang istri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3442</td></tr><tr><td>Arabic No</td><td>1408.07</td></tr><tr><td>Reference</td><td>Book 16 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3442</td></tr><tr><td>Arabic No</td><td>1408.07</td></tr><tr><td>Reference</td><td>Book 16 Hadith 45</td></tr></tbody></table></div>
 

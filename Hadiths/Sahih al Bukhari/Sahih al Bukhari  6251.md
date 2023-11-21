@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man entered the mosque while Allah's Messenger (ﷺ) was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Abdullah bin Numair] telah menceritakan kepada kami ['Ubaidullah] dari [Sa'id bin Abu Sa'id Al Maqbury] dari [Abu Hurairah] radliallahu 'anhu bahwa seorang laki-laki memasuki masjid, sementara Rasulullah shallallahu 'alaihi wasallam tengah duduk di pojok masjid, kemudian laki-laki itu mengerjakan shalat. Seusai shalat ia datang menemui beliau sambil mengucapkan salam, dan Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Wa'alikas salam, Kembalilah dan ulangi shalatmu karena kamu belum mengerjakan shalat! ' lalu ia kembali lagi dan mengulangi shalatnya. Seusai shalat ia datang lagi sambil mengucapkan salam dan beliau bersabda: "Wa'alaikas-salam. Kembali dan ulangi lagi shalatmu karena kamu belum mengerjakan shalat! ' Lalu orang tersebut berkata ketika disuruh mengulangi yang kedua kali atau setelahnya; "Ajarilah aku wahai Rasulullah!" Selanjutnya beliau bersabda: 'Jika kamu hendak mengerjakan shalat, maka sempurnakanlah wudlu', lalu menghadap ke arah Kiblat, setelah itu bertakbirlah, kemudian bacalah Al Qur'an yang mudah bagimu. Kemudian ruku'lah hingga kamu benar-benar ruku' dan bangkitlah dari ruku' hingga kamu berdiri tegak. Lalu sujudlah kamu hingga kamu benar-benar sujud, dan bangkitlah hingga kamu benar-benar duduk, setelah itu sujudlah hingga kamu benar-benar sujud, lalu bangkitlah hingga kamu benar-benar duduk, dan Kerjakanlah semua hal tersebut pada setiap shalatmu." [Abu Usamah] mengatakan di akhir haditsnya; "Sehingga kamu benar-benar berdiri." Telah menceritakan kepada kami [Ibnu Basyar] dia berkata; telah menceritakan kepadaku [Yahya] dari ['Ubaidullah] telah menceritakan kepadaku [Sa'id] dari [Ayahnya] dari [Abu Hurairah] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Kemudian bangkitlah (dari sujud) hingga kamu benar-benar duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6251</td></tr><tr><td>Arabic No</td><td>6251</td></tr><tr><td>Reference</td><td>Book 79 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что однажды один человек вошёл в мечеть, когда Посланник Аллаха ﷺ сидел в стороне мечети. Этот человек совершил молитву, а потом подошёл и обратился с приветствием к Пророку ﷺ. Посланник Аллаха ﷺ сказал: «И тебе мир, вернись и соверши молитву (заново), ибо, поистине, ты не помолился!» Он совершил молитву так же, как и прежде, а потом опять подошёл к Пророку ﷺ и поприветствовал его, и Посланник Аллаха ﷺ сказал ему: «И тебе мир, вернись и соверши молитву (заново), ибо, поистине, ты не помолился!», — и это повторилось трижды. Тогда этот человек сказал: «Научи меня, о Посланник Аллаха!» (Пророк ﷺ) сказал: «Когда будешь вставать на молитву, соверши омовение должным образом и затем, повернувшись в сторону киблы, скажи: “Аллаху акбар” /Аллах велик/. Потом прочти из Корана то, что сможешь, потом соверши поясной поклон (и оставайся в таком положении), пока не успокоишься в нём. Потом выпрямись полностью, пока не встанешь ровно. Потом соверши земной поклон, (и оставайся в таком положении,) пока не достигнешь спокойствия в земном поклоне. Потом выпрямись сидя (и оставайся в таком положении), пока не достигнешь спокойствия сидя. Потом (опять) соверши земной поклон, (и оставайся в таком положении,) пока не достигнешь спокойствия в земном поклоне, после чего вставай и выпрямись стоя, и затем поступай так на протяжении всей своей молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6251</td></tr><tr><td>Arabic No</td><td>6251</td></tr><tr><td>Reference</td><td>Book 79 Hadith 25</td></tr></tbody></table></div>
 

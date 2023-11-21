@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:As soon as the Prophet (ﷺ) departed from 'Arafat, he w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] dari [Yahya bin Sa'id] dari [Musa bin 'Uqbah] dari [Kuraib] maulanya Ibnu 'Abbas dari [Usamah bin Zaid radliallahu 'anhuma] bahwa tatkala Nabi Shallallahu'alaihiwasallam bertolak meninggalkan 'Arafah Beliau menuju bukit (Asy-Syi'ib) untuk menunaikan hajatnya, kemudian Beliau Shallallahu'alaihiwasallam berwudhu'. Aku bertanya: "Wahai Rasulullah apakah kita shalat disini (sekarang)?". Beliau Shallallahu'alaihiwasallam menjawab: "Shalat nanti saja di depan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1667</td></tr><tr><td>Arabic No</td><td>1667</td></tr><tr><td>Reference</td><td>Book 25 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама ибн Зейд, да будет доволен Аллах ими обоими, сказал: «Когда Пророк ﷺ двинувшийся с ‘Арафата (в Муздалифу), достиг ущелья, он спешился и справил нужду, после чего совершил омовение. Я спросил: “О Посланник Аллаха, ты будешь молится?” Он ответил: “(Место) молитвы перед тобой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1667</td></tr><tr><td>Arabic No</td><td>1667</td></tr><tr><td>Reference</td><td>Book 25 Hadith 148</td></tr></tbody></table></div>
 

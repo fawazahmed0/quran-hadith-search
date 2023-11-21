@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Rafi' reported:I testify that I used to roast the liver of the goat for the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>797</td></tr><tr><td>Arabic No</td><td>357</td></tr><tr><td>Reference</td><td>Book 3 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Рафи‘ сказал: «Свидетельствую, что я жарил для Посланника Аллаха ﷺ бараньи субпродукты (и он ел их), а затем совершал молитву, не совершив омовения».Глава: Поласкание рта после выпитого молока
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>797</td></tr><tr><td>Arabic No</td><td>357</td></tr><tr><td>Reference</td><td>Book 3 Hadith 118</td></tr></tbody></table></div>
 

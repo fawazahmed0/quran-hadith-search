@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Qatadah asked Anas:Which Supplication would the Prophet (ﷺ) often make ? He re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] telah menceritakan kepada Kami [Abdul Harits] dan telah diriwayatkan melalui jalur yang lain: Telah menceritakan kepada Kami [Ziyad bin Ayyub], telah menceritakan kepada Kami [Isma'il Al Ma'na] dari [Abdul Aziz bin Shuhaib], ia berkata; Qatadah bertanya kepada [Anas] doa apakah yang lebih sering diucapkan Rasulullah shallAllahu wa'alaihi wa sallam? Doa yang lebih sering diucapkan Rasulullah shallAllahu wa'alaihi wa sallam adalah ALLAAHUMMA RABBANAA AATINAA FIDDUNYAA HASANATA WA QINAA 'ADZAABAN NAAR (Ya Allah Tuhan Kami, berikanlah kepada Kami kebaikan di dunia, dan lindungilah Kami dari adzab Neraka). Ziyad menambahkan; Anas apabila hendak menyeru dengan sebuah seruan maka ia menyeru dengannya dan apabila hendak berdoa dengan sebuah doa maka ia berdoa dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6389) Sahih Muslim (2690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1519</td></tr><tr><td>Arabic No</td><td>1519</td></tr><tr><td>Reference</td><td>Book 8 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуль‘азиза ибн Сухайба, что Катада спросил Анаса, с какой мольбой Пророк ﷺ чаще всего обращался к Аллаху, и Анас сказал: «Чаще всего Пророк ﷺ обращался к Аллаху с такой мольбой: “О Аллах, наш Господь, даруй нам в этом мире благо и в мире вечном благо и упаси нас от мук Огня! /Аллахумма Рабба-на, ати-на фи-д-дунйа хасанатан, ва фи-ль-ахырати хасанатан ва кы-на ‘азаба-н-нар/”». В версии этого хадиса от Зияда (ибн Айюб) говорится: «И когда Анас хотел обратиться к Аллаху с мольбой, он произносил эти слова, когда же он обращался к Нему с какой-нибудь другой мольбой, он произносил и эту мольбу вместе с ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6389) Sahih Muslim (2690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1519</td></tr><tr><td>Arabic No</td><td>1519</td></tr><tr><td>Reference</td><td>Book 8 Hadith 104</td></tr></tbody></table></div>
 

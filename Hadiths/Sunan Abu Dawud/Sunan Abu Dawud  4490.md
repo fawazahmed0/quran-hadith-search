@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hakim ibn Hizam: The Messenger of Allah (ﷺ) forbade to take retaliati
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hisyam bin Ammar] berkata, telah menceritakan kepada kami [Shadaqah] -maksudnya Shadaqah bin Khalid- berkata, telah menceritakan kepada kami [Asy Syu'aitsi] dari [Zufar bin Watsimah] dari [Hakim bin Hizam] bahwa ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang pelaksanaan hukuman qishas dalam masjid, melantunkan syair (buruk) dan pelaksanaan hudud secara umum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4490</td></tr><tr><td>Arabic No</td><td>4490</td></tr><tr><td>Reference</td><td>Book 40 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Хакима ибн Хизама, что Посланник Аллаха ﷺ запретил осуществлять в мечети воздаяние равным за убийство (дабы не проливать кровь в мечети), а также читать там стихи (не стихи вообще, а скверные из их числа) и применять установленные Шариатом наказания
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4490</td></tr><tr><td>Arabic No</td><td>4490</td></tr><tr><td>Reference</td><td>Book 40 Hadith 140</td></tr></tbody></table></div>
 

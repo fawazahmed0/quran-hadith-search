@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:That Abu Sufyan bin Harb told him that Heraclius h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepadaku [Ubaidullah bin Abdullah], bahwasanya [Abdullah bin Abbas] mengabarkannya, [Abu Sufyan bin Harb] mengabarkannya, bahwa Heraqlius mengutus seorang utusan kepadanya ketika ia bersama rombongan Quraisy, kemudian mengatakan kepada juru terjemahnya; 'Katakan kepada mereka bahwa aku akan bertanya kepada orang ini (Abu Sufyan), jika dia mendustaiku maka dustakanlah dia, ' lalu Abu Sufyan mengemukakan pembicaraannya,, kemudian Heraklius berkata kepada juru bicaranya; 'katakan kepadanya (Abu Sufyan), sekiranya apa yang kamu katakan benar, niscaya dia (Muhammad) akan menguasai hingga kedua telapak kakiku ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7196</td></tr><tr><td>Arabic No</td><td>7196</td></tr><tr><td>Reference</td><td>Book 93 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Аббас, да будет доволен Аллах им и его отцом, рассказывал о том, что Абу Суфйан ибн Харб, да будет доволен им Аллах, сообщил ему о том, что Ираклий послал за ним, когда он сопровождал караван курайшитов. Потом он сказал своему переводчику: «Скажи им, что я буду спрашивать его, и, если он солжёт мне, пусть они уличат его во лжи». И он пересказал хадис. И (Ираклий) сказал переводчику: «Скажи (Абу Суфйану): “И если ты говоришь правду, это значит, что он обязательно овладеет тем, что ныне принадлежит мне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7196</td></tr><tr><td>Arabic No</td><td>7196</td></tr><tr><td>Reference</td><td>Book 93 Hadith 57</td></tr></tbody></table></div>
 

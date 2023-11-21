@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "None of you should point out towar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] Telah mengabarkan kepada kami [Abdurrazaq] dai [Ma'mar] dari [Hammam], aku mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang diantara kalian mengarahkan pedangnya kepada kawannya, sebab siapa tahu setan menariknya dari tangannya lantas ia terjerumus dalam lubang neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7072</td></tr><tr><td>Arabic No</td><td>7072</td></tr><tr><td>Reference</td><td>Book 92 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пусть никто из вас не направляет оружие на своего брата, ибо, поистине, не знает он, что шайтан может направить его руку, и окажется он в огненной яме!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7072</td></tr><tr><td>Arabic No</td><td>7072</td></tr><tr><td>Reference</td><td>Book 92 Hadith 23</td></tr></tbody></table></div>
 

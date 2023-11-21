@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran:The Prophet (ﷺ) said, "I looked at Paradise and saw that the m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Al Haitsam] Telah menceritakan kepada kami ['Auf] dari [Abu Raja'] dari [Imran] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Aku memperhatikan isi surga, lalu aku mendapatkan bahwa kebanyakan penghuninya adalah orang-orang miskin. Kemudian aku melihat ke dalam neraka, maka aku pun melihat kebanyakan penghuninya adalah para wanita." Hadis ini diperkuat oleh [Ayyub] dan [Salm bin Zarir]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5198</td></tr><tr><td>Arabic No</td><td>5198</td></tr><tr><td>Reference</td><td>Book 67 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Имрана, что Пророк ﷺ сказал: ««Я заглянул в Рай и обнаружил, что большинство его обитателей — бедняки, и заглянул в Ад и обнаружил, что большинство его обитателей — женщины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5198</td></tr><tr><td>Arabic No</td><td>5198</td></tr><tr><td>Reference</td><td>Book 67 Hadith 132</td></tr></tbody></table></div>
 

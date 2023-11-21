@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Usama b. Zaid (Allah be pleased with him) said:Allah's Messenger, God willing, w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran Ar Razi] dan [Ibnu Abu Umar] dan [Abdu bin Humaid] semuanya dari [Abdurrazaq] dari [Ma'mar] dari [Az Zuhri] dari [Ali bin Husain] dari [Amru bin Utsman] dari [Usamah bin Zaid]; Aku bertanya, "Ya Rasulullah, di manakah Anda akan singgah esok hari?" yakni pada waktu beliau menunaikan haji Wada' saat kami telah dekat dari kota Makkah. Maka beliau bersabda: "Apakah Aqil meninggalkan rumah untuk kami?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3295</td></tr><tr><td>Arabic No</td><td>1351.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 499</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3295</td></tr><tr><td>Arabic No</td><td>1351.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 499</td></tr></tbody></table></div>
 

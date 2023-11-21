@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Umama:Some people conquered many countries and their swords were de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Al Auza'iy] berkata aku mendengar [Sulaiman bin Habib] berkata aku mendengar [Abu Umamah] berkata; Kaum Muslimin telah menaklukan banyak wilayah namun perhiasan pedang mereka bukanlah emas dan perak. Perhiasan mereka tidak lain adalah al-'Alaby (ikat leher unta yang digunakan sebagai penghias pedang), tombak yang tajam, dan pedang besi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2909</td></tr><tr><td>Arabic No</td><td>2909</td></tr><tr><td>Reference</td><td>Book 56 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Умама, да будет доволен им Аллах, сказал: «(Были) люди, которые завоевали многое(, хотя) мечи их не были украшены ни золотом, ни серебром, а только невыдубленной кожей, свинцом и железом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2909</td></tr><tr><td>Arabic No</td><td>2909</td></tr><tr><td>Reference</td><td>Book 56 Hadith 122</td></tr></tbody></table></div>
 

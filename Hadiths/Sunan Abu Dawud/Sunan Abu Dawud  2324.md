@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: The end of Ramadan is on the day w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid], telah menceritakan kepada kami [Hammad] dalam hadits [Ayyub] dari [Muhammad bin Al Munkadir] dari [Abu Hurairah], Nabi shallallahu 'alaihi wasallam menyebutkan padanya, beliau berkata: "Dan Fithri kalian adalah hari kalian berbuka, adlha kalian adalah hari kalian menyembelih, dan seluruh 'Arafah adalah tempat berwukuf, seluruh Mina adalah tempat menyembelih, dan seluruh jalan Mekkah adalah tempat untuk menyembelih dan seluruh Muzdalifah adalah tempat wukuf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2324</td></tr><tr><td>Arabic No</td><td>2324</td></tr><tr><td>Reference</td><td>Book 14 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Ваш праздник разговения в день, в который вы прекращаете пост, а ваш праздник жертвоприношения в день, в который вы совершаете жертвоприношение, и весь Арафат является местом стояния, вся Мина является местом жертвоприношения, и все ущелья Мекки являются местом жертвоприношения, и вся Муздалифа является местом стояния»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2324</td></tr><tr><td>Arabic No</td><td>2324</td></tr><tr><td>Reference</td><td>Book 14 Hadith 12</td></tr></tbody></table></div>
 

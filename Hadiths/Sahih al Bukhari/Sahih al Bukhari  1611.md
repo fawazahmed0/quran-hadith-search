@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zubair bin 'Arabi:A man asked Ibn 'Umar about the touching of the Bl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] dari [Az Zubair bin 'Arabiy] berkata; Ada seseorang bertanya kepada [Ibnu'Umar radliallahu 'anhuma] tentang mengusap Al Hajar Al Aswad. Maka dia berkata: "Aku melihat Rasulullah Shallallahu'alaihiwasallam mengusap dan menciumnya". Dia berkata; Aku bertanya lagi: "Bagaimana kalau berdesakan atau aku gagal menggapainya?". Dia menjawab: "Tetap laksanakanlah". Bagaimana kalau kamu berada di Yaman?."Aku melihat Rasulullah Shallallahu'alaihiwasallam mengusap dan menciumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1611</td></tr><tr><td>Arabic No</td><td>1611</td></tr><tr><td>Reference</td><td>Book 25 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зубайр ибн ‘Араби, да помилует его Аллах Всевышний, сказал: «Один человек задал Ибн ‘Умару, да будет доволен Аллах ими обоими, вопрос о прикосновении к Чёрному камню. (В ответ) он сказал: “Я видел, как Посланник Аллаха ﷺ прикасался к нему и целовал его”».\n(Аз-Зубайр) сказал:\n— Я спросил: «А что если там будет слишком много людей? А что если мне не дадут этого сделать?» (На это Ибн ‘Умар) сказал: «Оставь эти “а что если” в Йемене! Я видел, как Посланник Аллаха ﷺ дотрагивался до него и целовал его!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1611</td></tr><tr><td>Arabic No</td><td>1611</td></tr><tr><td>Reference</td><td>Book 25 Hadith 97</td></tr></tbody></table></div>
 

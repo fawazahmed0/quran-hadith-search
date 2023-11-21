@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit bin Ad-Dahhak:who was one of the companions of the tree (those w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Walid] Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Khalid] dari [Abu Qilabah] dari [Tsabit bin Dlahak radliallahu 'anhu], dan dia termasuk peserta bai'atur Ridwan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4843</td></tr><tr><td>Arabic No</td><td>4843</td></tr><tr><td>Reference</td><td>Book 65 Hadith 364</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Кылябы, что Сабит ибн ад-Даххак, да будет доволен им Аллах, сообщил ему, что он был одним из тех, кто давал клятву под деревом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4843</td></tr><tr><td>Arabic No</td><td>4843</td></tr><tr><td>Reference</td><td>Book 65 Hadith 364</td></tr></tbody></table></div>
 

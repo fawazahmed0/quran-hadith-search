@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd al-Malik b. Abi Bakr reported from his father on the authority of Umm Salama
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb], telah menceritakan kepada kami [Yahya] dari [Sufyan], ia berkata; telah menceritakan kepadaku [Muhammad bin Abu Bakr], dari [Abdul Malik bin Abu Bakr] dari [ayahnya] dari [Ummu Salamah] bahwa Rasulullah shallallahu 'alaihi wasallam tatkala menikahi Ummu Salamah beliau tinggal di rumahnya selama tiga hari, kemudian beliau berkata: "Engkau tidaklah direndahkan dan dikurangi hak kamu oleh keluargamu (maksudnya Rasulullah shallallahu 'alaihi wasallam), apabila engkau mau maka aku akan memberimu (giliran) tujuh hari, dan apabila aku memberimu (giliran) tujuh hari, maka aku memberi isteri-isteriku (giliran) tujuh hari (juga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1460)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2122</td></tr><tr><td>Arabic No</td><td>2122</td></tr><tr><td>Reference</td><td>Book 12 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Салямы, да будет доволен ею Аллах, что, когда Посланник Аллаха ﷺ женился на ней, он провёл у неё три дня, а потом сказал: «Знай, что муж твой не относится к тебе с пренебрежением. Если желаешь, я проведу с тобой семь дней, и если я проведу с тобой семь дней, то с другими моими жёнами я также проведу семь дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1460)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2122</td></tr><tr><td>Arabic No</td><td>2122</td></tr><tr><td>Reference</td><td>Book 12 Hadith 77</td></tr></tbody></table></div>
 

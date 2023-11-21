@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shaqiq said:I asked 'A'isha about the Messenger of Allah's (ﷺ) vol
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1699</td></tr><tr><td>Arabic No</td><td>730.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Шакык сказал: «(Однажды) я спросил ‘Аишу, какие добровольные молитвы совершал Посланник Аллаха ﷺ, и она сказала: “(Пророк ﷺ) часто совершал в моём доме (дополнительную) молитву в четыре (рак‘ата) перед обязательной полуденной молитвой, потом выходил (в мечеть) и проводил с людьми (обязательную) молитву, а потом (снова) заходил (ко мне) и совершал (дополнительную) молитву в два рак‘ата. Он также проводил с людьми закатную молитву, а потом заходил (ко мне) и совершал (дополнительную) молитву в два рак‘ата, и он проводил с людьми вечернюю молитву, а потом заходил в мой дом и совершал (дополнительную) молитву в два рак‘ата. (Кроме того), ночью он совершал молитвы в девять рак‘атов, включая витр. По ночам он долго молился стоя и долго молился сидя. Читая Коран стоя, он совершал поясные и земные поклоны из положения стоя, если же он читал Коран сидя, то совершал поясные и земные поклоны сидя, а когда занималась заря, он совершал (добровольную) молитву в два рак‘ата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1699</td></tr><tr><td>Arabic No</td><td>730.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 129</td></tr></tbody></table></div>
 

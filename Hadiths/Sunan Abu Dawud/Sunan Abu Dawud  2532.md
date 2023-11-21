@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) said: Three things are the roots of f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Abu Mu'awiyah], telah menceritakan kepada kami [Ja'far bin Burqan], dari [Yazid bin Abu Nusybah], dari [Anas bin Malik], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkata: "Tiga perkara yang merupakan dasar keimanan, yaitu: menahan diri dari orang yang mengucapkan LAA ILAAHA ILLALLAAH, dan kita tidak mengkafirkannya karena suatu dosa, serta tidak mengeluarkannya dari keislaman karena sebuah amalan. Jihad tetap berjalan sejak Allah mengutusku hingga umatku yang terakhir memerangi Dajjal, hal itu tidaklah digugurkan oleh kelaliman orang yang lalim, serta keadilan orang yang adil, dan beriman kepada taqdir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2532</td></tr><tr><td>Arabic No</td><td>2532</td></tr><tr><td>Reference</td><td>Book 15 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2532</td></tr><tr><td>Arabic No</td><td>2532</td></tr><tr><td>Reference</td><td>Book 15 Hadith 56</td></tr></tbody></table></div>
 

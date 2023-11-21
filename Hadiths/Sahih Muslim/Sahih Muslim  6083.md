@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura was asked about the old age of Allah's Apostle (ﷺ). He said:Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Abu Dawud Sulaiman bin Dawud]; Telah menceritakan kepada kami [Syu'bah]; dari [Simak bin Harb] dia berkata; Aku mendengar [Jabir bin Samurah] ditanya tentang uban Nabi shallallahu 'alaihi wasallam, lalu dia menjawab; 'Apabila beliau telah meminyaki rambutnya maka ubannya sama sekali tidak kelihatan. Namun apabila beliau tidak memakai minyak, maka ubannya kelihatan hanya sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6083</td></tr><tr><td>Arabic No</td><td>2344.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6083</td></tr><tr><td>Arabic No</td><td>2344.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 141</td></tr></tbody></table></div>
 

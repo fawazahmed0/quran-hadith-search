@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar bin Maisarah Al Jusyami] telah menceritakan kepada kami [Abdul Warits bin Sa'id] dia berkata; telah menceritakan kepada kami [Muhammad bin Juhadah] telah menceritakan kepadaku [Abdul Jabbar bin Wa'il bin Hujr] dia berkata; "Aku adalah seorang anak yang belum mengerti shalat yang di kerjakan ayahku, katanya; maka ["Wa'il bin 'Alqamah] telah menceritakan kepadaku, dari ayahku [Wa'il bin Hujr] dia berkata; "Aku shalat bersama Rasulullah shallallahu 'alaihi wasallam, apabila beliau hendak bertakbir, maka beliau mengangkat kedua tangannya." Katanya; "Kemudian beliau melipatkan pakaiannya, lalu tangan kanannya memegang tangan kirinya dan memasukkan kedua tangannya ke dalam pakaian beliau." dia melanjutkan; "Apabila beliau hendak ruku', beliau mengeluarkan kedua tangannya dan mengangkatnya, dan apabila beliau hendak mengangkat kepalanya dari ruku' (i'tidal), beliau mengangkat kedua tangannya, barulah beliau sujud dengan meletakkan wajahnya sejajar dengan kedua telapak tangannya, apabila beliau hendak mengangkat kepalanya dari sujud, maka beliau juga mengangkat kedua tangannya lagi sampai selesai shalat." Muhammad mengatakan; "Lalu aku menyebutkan hal itu kepada Al Hasan bin Abu Al Hasan, maka dia berkata; "Itu adalah shalat Rasulullah shallallahu 'alaihi wasallam yang di kerjakan oleh orang yang suka mengerjakan dan di tinggalkan oleh orang yang suka meninggalkannya." Abu Daud mengatakan; "Hadits ini di riwayatkan juga oleh [Hammam] dari [Ibnu Juhadah], namun dia tidak menyebutkan 'juga mengangkat tangan ketika bangkit dari sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>723</td></tr><tr><td>Arabic No</td><td>723</td></tr><tr><td>Reference</td><td>Book 2 Hadith 333</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Уаиль ибн Худжр сказал: «Я совершал молитву с посланником Аллаха ﷺ и обычно, когда он произносил такбир, он поднимал руки».(Передатчик этого хадиса) сказал: «Затем он завернулся (в свою одежду), после чего взял левую руку правой и просунул руки под одежду».(Передатчик этого хадиса) сказал: «И когда он хотел совершить поясной поклон, он вынимал руки (из своей одежды), и затем поднимал их, а когда хотел поднять голову с поясного поклона, он поднимал свои руки. Затем он совершал земной поклон и ставил своё лицо между кистями рук, а когда поднимал голову с земного поклона, также поднимал руки, и так до завершения своей молитвы».Мухаммад (ибн Джухада) сказал: «Я упомянул это аль-Хасану ибн Абуль-Хасану (аль-Басри) и он сказал: “Это молитва Посланника Аллаха ﷺ. Кто делает это, тот делает, а кто оставляет, тот оставляет”».Абу Дауд сказал: «Этот хадис передал Хаммам со слов Ибн Джухады не упоминая о поднятии (рук) вместе со вставанием с земного поклона»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>723</td></tr><tr><td>Arabic No</td><td>723</td></tr><tr><td>Reference</td><td>Book 2 Hadith 333</td></tr></tbody></table></div>
 

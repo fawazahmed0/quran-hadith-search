@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Mulaika:Somebody said to Ibn 'Abbas, "Can you speak to the chie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibnu Abu Maryam] telah bercerita kepada kami [Nafi' bin 'Umar] telah bercerita kepadaku [Ibnu Abu Mulaikah]; "Pernah ditanyaan kepada Ibnu 'Abbas, apakah anda punya pendapat tentang amirul mu'minin, Mu'awiyah, yang tidak shalat witir kecuali satu raka'at?". [Ibnu 'Abbas] menjawab; "Dia benar, karena dia seorang yang faqih (faham agama)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3765</td></tr><tr><td>Arabic No</td><td>3765</td></tr><tr><td>Reference</td><td>Book 62 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Мулейка сказал: «Однажды Ибн ‘Аббасу сказали: “Не поговорить ли тебе с повелителем верующих Му‘авией, ведь он совершил молитву витр в один рак‘ат?” Ибн ‘Аббас ответил: “Он поступил правильно, поистине, он — факых (то есть, человек, разбирающийся в вопросах религии и понимающий её предписания)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3765</td></tr><tr><td>Arabic No</td><td>3765</td></tr><tr><td>Reference</td><td>Book 62 Hadith 110</td></tr></tbody></table></div>
 

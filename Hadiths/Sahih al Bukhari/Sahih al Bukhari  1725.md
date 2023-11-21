@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Hafsa said, "O Allah's Messenger (ﷺ)! What is wrong with th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari [Ibnu 'Umar] dari [Hafsoh radliallahu 'anhum] bahwa dia berkata; "Wahai Rasulullah, apa yang telah diperbuat oleh orang-orang itu, mereka bertahallul sedangkan anda tidak bertahallul dari 'umrah anda?". Beliau berkata: "Aku telah mengikat rambutku dan telah aku tandai hewan qurbanku, maka aku tidak bertahallul hingga aku menyembelih hewan qurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1725</td></tr><tr><td>Arabic No</td><td>1725</td></tr><tr><td>Reference</td><td>Book 25 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, что Хафса, да будет доволен ими Аллах, жена Пророка ﷺ спросила: «О Посланник Аллаха, почему люди вышли из состояния ихрама, совершив умру, а ты не сделал этого после своей умры?» Он сказал: «Я ведь склеил себе волосы, и пометил свой скот, и теперь я не выйду из состояния ихрама, пока не принесу этот скот в жертву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1725</td></tr><tr><td>Arabic No</td><td>1725</td></tr><tr><td>Reference</td><td>Book 25 Hadith 203</td></tr></tbody></table></div>
 

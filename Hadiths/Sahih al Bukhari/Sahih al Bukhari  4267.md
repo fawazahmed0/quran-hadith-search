@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nu'man bin Bashir:'Abdullah bin Rawaha fell down unconscious and his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Imran bin Maisarah] Telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Hushain] dari [Amir] dari [Nu'man bin Basyir] radliallahu 'anhuma, katanya, dahulu aku pingsan mendengar kematian Abdullah bin Rawahah. Seketika itu pula saudara perempuannya (saudara perempuan Nu'man, maksudnya) menangis dan mengatakan; "Aduuh, telah binasa orang yang mulia." Demikian ia katakan secara berulang-ulang. Maka ketika Nu'man siuman, Num'an katakan kepada saudara perempuannya; "Semua yang kamu katakan tadi, kecuali terdengar ditanyakan kepadaku; "Apakah engkau juga seperti itu pula?" Telah menceritakan kepada kami [Qutaibah], Telah menceritakan kepada kami ['Abtsar] dari [Husain] dari [Asy Sya'bi] dari [Nu'man bin Basyir] katanya, aku jatuh pingsan ketika Abdullah bin Rawahah meninggal, namun engkau tidak menangis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4267</td></tr><tr><td>Arabic No</td><td>4267</td></tr><tr><td>Reference</td><td>Book 64 Hadith 301</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Ну‘ман ибн Башир, да будет доволен Аллах им и его отцом, сказал: «(Однажды) ‘Абдуллах ибн Раваха потерял сознание и, (увидев это), его сестра принялась плакать и (восклицать): “О подобный горе (возвеличивая его), о такой-то и такой-то!”, — перечисляя его достоинства. Когда же он очнулся, то сказал: “Что бы ты ни говорила, (оплакивая меня), меня непременно спрашивали (с укором и порицанием): “Ты (и в самом деле) таков?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4267</td></tr><tr><td>Arabic No</td><td>4267</td></tr><tr><td>Reference</td><td>Book 64 Hadith 301</td></tr></tbody></table></div>
 

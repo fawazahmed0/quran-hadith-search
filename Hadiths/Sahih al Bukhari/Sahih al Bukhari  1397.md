@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A Bedouin came to the Prophet (ﷺ) and said, "Tell me of s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Muhammad bin 'Abdur Rahim] telah menceritakan kepada kami ['Affan bin Muslim] telah menceritakan kepada kami [Wuhaib] dari [Yahya bin Sa'id bin Hayyan] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu]; Ada seorang Arab Badui menemui Nabi Shallallahu'alaihiwasallam lalu berkata,: "Tunjukkan kepadaku suatu amal yang bila aku kerjakan akan memasukkan aku kedalam surga". Nabi Shallallahu'alaihiwasallam bersabda: "Kamu menyembah Allah dengan tidak menyekutukanNya dengan suatu apapun, kamu mendirikan shalat yang diwajibkan, kamu tunaikan zakat yang wajib, kamu mengerjakan shaum (puasa) bulan Ramadhan. Kemudian orang Badui itu berkata,: "Demi Dzat yang jiwaku berada di tanganNya, aku tidak akan menambah dari perintah-perintah ini". Ketika hendak pergi, Nabi Shallallahu'alaihiwasallam bersabda: "Siapa yang berkeinginan melihat laki-laki penghuni surga maka hendaklah dia melihat orang ini". Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Abu Hayyan] berkata, telah mengabarkan kepada saya [Abu Zur'ah] dari Nabi Shallallahu'alaihiwasallam sepeti hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1397</td></tr><tr><td>Arabic No</td><td>1397</td></tr><tr><td>Reference</td><td>Book 24 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что однажды к Пророку ﷺ пришёл какой-то бедуин и попросил его: «Укажи мне на такое дело, которое поможет мне попасть в рай, если я буду совершать его». (В ответ ему Посланник Аллаха ﷺ) сказал: «Поклоняйся Аллаху, (никого и) ничего не придавая Ему в сотоварищи, совершай предписанную молитву, выплачивай обязательный закят и постись во время рамадана». (Бедуин) воскликнул: «Клянусь Тем, в Чьей длани душа моя, я ничего не добавлю к этому!» — а когда он ушёл, Пророк ﷺ сказал: «Пусть посмотрит на этого (бедуина) тот, кому доставит радость взгляд на человека из числа обитателей рая»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1397</td></tr><tr><td>Arabic No</td><td>1397</td></tr><tr><td>Reference</td><td>Book 24 Hadith 3</td></tr></tbody></table></div>
 

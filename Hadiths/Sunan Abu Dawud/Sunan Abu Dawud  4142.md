@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir bin ‘Abdullah :The Messenger of Allah (ﷺ) mentioned bedding a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid bin Khalid Al Hamdani Ar Ramli] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Abu Hani'] dari [Abu 'Abdurrahman Al Hubuli] dari [Jabir bin Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam menyebutkan tentang ranjang tidur, beliau bersabda: "Satu ranjang untuk seorang laki-laki, satu ranjang untuk wanita, satu ranjang untuk tamu, dan yang keempat adalah untuk setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2084)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4142</td></tr><tr><td>Arabic No</td><td>4142</td></tr><tr><td>Reference</td><td>Book 34 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал о постелях: «Постель для мужчины, постель для женщины, постель для гостя, а четвёртая для шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2084)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4142</td></tr><tr><td>Arabic No</td><td>4142</td></tr><tr><td>Reference</td><td>Book 34 Hadith 123</td></tr></tbody></table></div>
 

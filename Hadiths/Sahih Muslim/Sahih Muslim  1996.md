@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura said that the Messenger of Allah (ﷺ) used to deliver the sermo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Simak] ia berkata, ia telah memberitakan kepadaku [Jabir bin Samurah] bahwasanya Rasulullah shallallahu 'alaihi wasallam berkhutbah sambil berdiri. Kemudian beliau duduk, setelah itu beliau berdiri kembali dan menyampaikan khutbah kedua. Maka barangsiapa yang memberitakan kepadamu bahwa beliau berkhutbah sambil duduk, sesungguhnya ia telah berkata dusta. Demi Allah, saya telah shalat bersama beliau lebih dari duaribu kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1996</td></tr><tr><td>Arabic No</td><td>862.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн Самура (сказал): «(Сначала) Посланник Аллаха ﷺ читал хутбу стоя, потом присаживался, а потом вставал и (продолжал) читать. Что же касается того, кто сообщил тебе, что (Пророк ﷺ) читал хутбу сидя, то он солгал, ибо, клянусь Аллахом, я молился вместе с ним более двух тысяч раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1996</td></tr><tr><td>Arabic No</td><td>862.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 46</td></tr></tbody></table></div>
 

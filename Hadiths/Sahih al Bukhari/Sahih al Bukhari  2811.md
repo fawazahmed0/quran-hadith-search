@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Abs:(who is 'Abdur-Rahman bin Jabir) Allah's Messenger (ﷺ) said,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq] telah mengabarkan kepada kami [Muhammad bin Al Mubarak] telah bercerita kepada kami [Yahya bin Hamzah] berkata telah bercerita kepadaku [Yazid bin Abi Maryam] telah mengabarkan kepada kami ['Abayah bin Rifa'ah bin Rofi' bin Khodij] berkata telah bercerita kepadaku [Abu 'Isa, dia adalah 'Abdur Rahman bin Jabr] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kedua kaki seorang hamba yang berdebu fi sabilillah tidak akan disentuh oleh api neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811</td></tr><tr><td>Arabic No</td><td>2811</td></tr><tr><td>Reference</td><td>Book 56 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу ‘Абса, что Посланник Аллаха ﷺ сказал: «Аллах запретил огню касаться того, чьи ноги покрываются пылью на пути Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2811</td></tr><tr><td>Arabic No</td><td>2811</td></tr><tr><td>Reference</td><td>Book 56 Hadith 27</td></tr></tbody></table></div>
 

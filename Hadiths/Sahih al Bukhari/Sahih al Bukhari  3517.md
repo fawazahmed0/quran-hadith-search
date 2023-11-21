@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hurairah (ra):The Prophet (ﷺ) said, "The hour will not be establi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata telah bercerita kepadaku [Sulaiman bin Bilal] dari [Tsaur bin Zaid] dari [Abu Al Ghaits] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Tidak akan terjadi hari qiyamat hingga muncul seorang laki-laki dari suku Qahthan menggiring manusia dengan tongkatnya'. (Qahthan adalah nama wilayah atau suku di Yaman. Qahthan biasa disebut juga dengan Himyar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3517</td></tr><tr><td>Arabic No</td><td>3517</td></tr><tr><td>Reference</td><td>Book 61 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Не наступит Час, пока не появится человек из потомство Кахтана, который будет руководить людьми с помощью своей палки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3517</td></tr><tr><td>Arabic No</td><td>3517</td></tr><tr><td>Reference</td><td>Book 61 Hadith 27</td></tr></tbody></table></div>
 

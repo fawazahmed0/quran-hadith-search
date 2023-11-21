@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Ju'aid bin 'Abdur Rahman:I saw As-Sa'ib bin Yazid when he was ninety
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah bercerita kepadaku [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Al Fadlal bin Musa] dari [Al ja'di bin 'Abdur Rahman]; "Aku melihat [as-Sa'ib bin Yazid] dalam usia sembilan puluh empat tahun masih kekar dan tegap lalu dia berkata; "Aku mengetahui bahwa tidak ada nikmat yang aku rasakan dalam pendengaran dan penglihatanku ini melainkan karena do'a Rasulullah shallallahu 'alaihi wasallam. Dahulu bibiku dan aku pernah menemui beliau lalu bibiku berkata; "Wahai Rasulullah, sesungguhnya anak laki-laki dari saudara perempuanku ini mengeluhkan sesuatu kepadaku maka tolonglah mohon do'a kepada Allah untuknya". as-Sa'ib berkata; "Maka beliau shallallahu 'alaihi wasallam mendo'akan kebaikan bagiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3540</td></tr><tr><td>Arabic No</td><td>3540</td></tr><tr><td>Reference</td><td>Book 61 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Джу‘йад ибн ‘Абдуррахман, сказал: «Я видел ас-Саъиба ибн Йазида, когда ему было девяносто четыре года, (однако был он ещё) силён и держался прямо, и он говорил: «Я знаю, что (до сих пор не утратил) слуха и зрения только благодаря мольбе Посланника Аллаха ﷺ! (Однажды) моя тётка отвела меня к нему и сказала: “О Посланник Аллаха, поистине, сын моей сестры болеет, обратись же к Аллаху с мольбой за него!” — и он сделал это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3540</td></tr><tr><td>Arabic No</td><td>3540</td></tr><tr><td>Reference</td><td>Book 61 Hadith 49</td></tr></tbody></table></div>
 

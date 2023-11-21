@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "When it is the last third of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Malik] dari [Ibnu Syihab] dari [Abu Abdullah Al Aghar] dan [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Rabb kita Tabaraka wata'ala setiap malam turun ke langit dunia ketika sepertiga malam terakhir, lantas Dia berfirman; 'Siapa yang berdoa kepada-Ku, niscaya Aku akan mengijabahinya, siapa yang meminta sesuatu kepada-Ku, niscaya Aku akan memberinya dan siapa yang meminta ampun kepada-Ku, niscaya Aku akan mengampuninya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6321</td></tr><tr><td>Arabic No</td><td>6321</td></tr><tr><td>Reference</td><td>Book 80 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра передаёт, что Посланник Аллаха ﷺ сказал: «Каждую ночь, когда от ночи остаётся лишь треть, наш Всеблагой и Всевышний Господь нисходит к нижнему небу и говорит: “Кто станет обращаться ко Мне с мольбами, чтобы Я ответил ему? Кто станет просить Меня о чём-нибудь, чтобы Я даровал ему это? Кто станет испрашивать у Меня прощения, чтобы Я простил его?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6321</td></tr><tr><td>Arabic No</td><td>6321</td></tr><tr><td>Reference</td><td>Book 80 Hadith 18</td></tr></tbody></table></div>
 

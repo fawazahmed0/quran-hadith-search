@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Ibn Abu Aufa that the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Khalid bin Abdullah] dari [Isma'il bin Abu Khalid] dari [Abdullah bin Abu Aufa] dia berkata, "Rasulullah shallallahu 'alaihi wasallam mendo'akan kehancuran bagi pasukan Ahzab, beliau bersabda: "Ya Allah, dzat yang menurunkan kitab, dzat yang segera membuat perhitungan, hancurkanlah pasukan Ahzab. Ya Allah, hancurkanlah mereka dan cerai-beraikanlah mereka." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki' bin Jarrah] dari [Isma'il bin Abu Khalid] dia berkata; aku pernah mendengar [Ibnu Abu Aufa] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mendo'akan...seperti hadits riwayat Khalid, hanya saja ia menyebutkan, 'Hancurkanlah pasukan Ahzab', dan tidak menyebutkan, 'Ya Allah'." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ibnu Abu Umar] semuanya dari [Ibnu Uyainah] dari [Isma'il] dengan isnad ini, dan dalam riwayat Ibnu Abu Umar disebutkan, 'Dzat yang menggerakkan awan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4543</td></tr><tr><td>Arabic No</td><td>1742.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4543</td></tr><tr><td>Arabic No</td><td>1742.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 24</td></tr></tbody></table></div>
 

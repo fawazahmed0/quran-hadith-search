@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "Beware! Avoid sitting on h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadhalah] telah menceritakan kepada kami [Abu 'Umar Hafsh bin Maisarah] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abu Sa'id AL Khudriy radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian duduk duduk di pinggir jalan". Mereka bertanya: "Itu kebiasaan kami yang sudah biasa kami lakukan karena itu menjadi majelis tempat kami bercengkrama". Beliau bersabda: "Jika kalian tidak mau meninggalkan majelis seperti itu maka tunaikanlah hak jalan tersebut". Mereka bertanya: "Apa hak jalan itu?" Beliau menjawab: "Menundukkan pandangan, menyingkirkan halangan, menjawab salam dan amar ma'ruf nahiy munkar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2465</td></tr><tr><td>Arabic No</td><td>2465</td></tr><tr><td>Reference</td><td>Book 46 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Ни в коем случае не следует вам сидеть на дорогах!» Люди сказали: «Но мы обязательно должны (делать это), ведь только там мы (можем) собраться и побеседовать (друг с другом)!» Тогда Пророк ﷺ сказал: «Если уж вам непременно нужно собираться (там, то по крайней мере) воздавайте дороге должное!» (Люди) спросили: «А что значит воздавать должное дороге?» Он ответил: «(Это значит) потуплять взоры, (никому) не причинять вреда, отвечать на приветствия, побуждать к одобряемому и удерживать от порицаемого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2465</td></tr><tr><td>Arabic No</td><td>2465</td></tr><tr><td>Reference</td><td>Book 46 Hadith 26</td></tr></tbody></table></div>
 

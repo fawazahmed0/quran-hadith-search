@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) dit : Après la révélation du verset : ' Qui
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakr bin Abu Syaibah] keduanya dari [Ibnu 'Uyainah] dan lafazh ini milik Qutaibah; Telah menceritakan kepada kami [Sufyan] dari [Ibnu Muhaishin] seorang syaikh dari bangsa Quraisy, dia mendengar [Muhammad bin Qais bin Makhramah] bercerita dari [Abu Hurairah] dia berkata; "Tatkala telah turun ayat yang mengatakan: "Ketika turun ayat Al Qur'an yang berbunyi Barang siapa berbuat kejelekan, niscaya ia akan dibalas dengan kejelekan (siksa) (Qs. An-Nisaa'(4): 123), maka kaum muslimin pun merasa prihatin. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: 'Janganlah kalian berlebihan, tempuhlah kejujuran dan perbaikilah dirimu. Sesungguhnya setiap musibah yang menimpa seorang muslim itu adalah sebagai penghapus dosa, termasuk pula jika ia terantuk batu ataupun tertusuk duri.' Muslim berkata; 'Dia adalah Umar bin Abdurrahman bin Muhshin dari penduduk Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6569</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 45 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6569</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 45 Hadith 67</td></tr></tbody></table></div>
 

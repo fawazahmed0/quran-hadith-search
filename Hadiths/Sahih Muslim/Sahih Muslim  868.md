@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:When the Messenger of Allah (ﷺ) got up for prayer, he wou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ibnu Syihab] dari [Abu Bakar bin Abdurrahman] bahwa dia mendengar [Abu Hurairah] berkata, "Rasulullah apabila mendirikan shalat, maka beliau bertakbir ketika berdiri kemudian bertakbir ketika rukuk kemudian mengucapkan, 'Semoga Allah mendengar orang yang memujinya' ketika mengangkat tulang rusuknya dari rukuk, kemudian dia membaca -dalam keadaan berdiri-, 'Wahai Rabb kami, bagiMu segala puji' kemudian beliau bertakbir ketika turun sujud, kemudian bertakbir ketika mengangkat kepalanya kemudian bertakbir ketika sujud kemudian bertakbir ketika mengangkat kepalanya, kemudian melakukan seperti itu dalam shalat semuanya hingga menyelesaikannya, dan bertakbir ketika berdiri dari rakaat kedua setelah duduk. Kemudian Abu Hurairah berkata, 'aku adalah orang yang paling mirip shalatnya dengan Rasulullah Shallallahu'alaihiwasallam.' Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Hujain] telah menceritakan kepada kami [al-Laits] dari [Uqail] dari [Ibnu Syihab] telah mengabarkan kepadaku [Abu Bakar bin Abdurrahman bin al-Harits] bahwa dia mendengar [Abu Hurairah] berkata, "Rasululah shallallahu 'alaihi wasallam apabila mendirikan shalat, maka bertakbir ketika berdiri" seperti hadits Ibnu Juraij, namun dia tidak menyebutkan perkataan Abu Hurairah, 'aku adalah orang yang shalatnya paling mirip dengan Rasulullah Shallallahu'alaihiwasallam.' Dan telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] ketika Marwan mengangkatnya sebagai pengganti imam pada Madinah, apabila dia mendirikan shalat wajib maka dia bertakbir. Lalu dia menyebutkan semisal hadits Ibnu Juraij. Dan dalam haditsnya, 'Ketika dia menyelesaikannya dan mengucapkan salam maka dia menghadap penghuni masjid seraya berkata, 'Demi Dzat yang jiwaku berada di TanganNya, aku adalah orang yang paling mirip shalatnya dengan Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>868</td></tr><tr><td>Arabic No</td><td>392.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ всегда произносил слова “Аллаху акбар” когда становился на молитву, потом он произносил их, начиная совершать поясной поклон, потом, выпрямляясь после поясного поклона, он говорил: “Да услышит Аллах тех, кто воздал Ему хвалу” /Сами‘а Алаху ли-ман хамида-ху/, а потом, выпрямившись, он говорил: “Господь наш, а Тебе хвала” /Рабба-на, ва ля-ка ль-хамд/. Потом он произносил слова “Аллаху акбар”, начиная склоняться в земном поклоне, потом он произносил их, начиная поднимать голову (после земного поклона), потом он произносил их, начиная (совершать второй) земной поклон, а потом поступал так же до самого конца молитвы. Кроме того, он произносил такбир, когда вставал, посидев (некоторое время) после (совершения первых двух рака’атов)».(Передав этот хадис), Абу Хурайра сказал: «Поистине, (моя молитва) подобна молитве Посланника Аллаха ﷺ в большей степени, нежели (молитва любого) из вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>868</td></tr><tr><td>Arabic No</td><td>392.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 31</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qasim:Urwa said to Aisha, "Do you know so-and-so, the daughter of Al-Ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Abbas] Telah menceritakan kepada kami [Ibnu Mahdi] Telah menceritakan kepada kami [Sufyan] dari [Abdurrahman bin Al Qasim] dari [bapaknya] bahwa [Urwah bin Az Zubair] berkata kepada Aisyah, "Tidakkah kamu melihat Fulanah binti Hakam yang telah diceraikan oleh suaminya." Maka Aisyah pun keluar seraya berkata, "Alangkah buruk apa yang telah diperbuatnya." Urwah bin Zubair berkata, "Tidakkah Anda mendengar ungkapan Fathimah?" Ia berkata, "Sesungguhnya dalam ungkapan itu tidak ada kebaikan baginya." [Ibnu Abu Zinad] menambahkan dari [Hisyam], dari [bapaknya]; [Aisyah] mencela dengan celaan yang sangat dan berkata, "Sesungguhnya Fathimah saat itu berada di tempat yang tandus, lalu keberadaannya pun dikhawatirkan. Karena itu, Nabi shallallahu 'alaihi wasallam memberikan rukhshah padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5326</td></tr><tr><td>Arabic No</td><td>5326</td></tr><tr><td>Reference</td><td>Book 68 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Касима, что ‘Урва ибн аз-Зубайр сказал ‘Аише: «Ты знаешь, что такой-то, дочери аль-Хакама, муж дал окончательный развод, и она ушла (из дома своего мужа)?» ‘Аиша сказала: «Как же отвратительно то, что она совершила!» Он сказал: «Слышала ли ты, что сказала (об этом) Фатыма?» Она ответила: «Нет блага в том, что она говорит об этом». ‘Аиша также сказала: «Фатыма жила в безлюдном месте, и были основания опасаться за неё, поэтому Пророк ﷺ и разрешил ей переехать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5326</td></tr><tr><td>Arabic No</td><td>5326</td></tr><tr><td>Reference</td><td>Book 68 Hadith 72</td></tr></tbody></table></div>
 

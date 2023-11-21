@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Wabra:I asked Ibn 'Umar, "When should I do the Rami of the Jimar?" He r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Mis'ar] dari [Wabarah] berkata; Aku bertanya kepada [Ibnu'Umar radliallahu 'anhuma] kapan melempar jumrah dilaksanakan? Dia menjawab: "Jika pemimpinmu telah melemparnya maka lemparlah". Lalu aku mengulangi pertanyaan itu, ia berkata: "Dulu kami menunggu waktu dan apabila matahari sudah condong (siang hari), maka kami baru melempar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>1746</td></tr><tr><td>Reference</td><td>Book 25 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Вабара, да помилует его Аллах Всевышний, сказал: «(Однажды) я спросил Ибн ‘Умара, да будет доволен Аллах ими обоими: “Когда мне следует бросать камешки в столбы /джимар/?” Он сказал: “Бросай, когда станет бросать твой руководитель”. Я снова задал ему этот вопрос, и он сказал: “Мы ожидали (того момента, когда) солнце начинало клониться к закату, и тогда начинали бросать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>1746</td></tr><tr><td>Reference</td><td>Book 25 Hadith 224</td></tr></tbody></table></div>
 

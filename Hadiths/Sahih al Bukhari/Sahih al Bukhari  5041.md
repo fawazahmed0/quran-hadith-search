@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Khattab:I heard Hisham bin Hakim bin Hizam reciting Surat-al-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [Urwah bin Zubair] dari hadits [Al Miswar bin Makhzamah] dan [Abdurrahman bin Abd Al Qari'] bahwa keduanya mendengar [Umar bin Al Khaththab] berkata, Pada masa Rasulullah shallallahu 'alaihi wasallam, aku pernah mendengar Hisyam bin Hakim bin Hizam membacakan surat Al Furqan, maka aku pun mendengarkan bacaannya dengan seksama. Dan ternyata ia membacanya dengan Huruf (cara bacaan) yang begitu banyak, yang Rasulullah shallallahu 'alaihi wasallam sendiri belum membacakan bacaan seperti itu padaku, maka aku pun ingin segera menyergapnya di dalam shalat, namun aku menunggunya hingga selesai salam dan langsung meninting lengan bajunya seraya bertanya, "Siapa yang membacakan surat ini padamu?" Ia menjawab, "Rasulullah shallallahu 'alaihi wasallam yang membacakannya padaku." Maka kukatakan padanya, "Kamu telah berdusta. Demi Allah, sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah membacakan surat -yang telah aku dengar ini darimu- padaku." Maka aku pun segera membawanya menghadap Rasulullah shallallahu 'alaihi wasallam. Aku berkata, "Wahai Rasulullah shallallahu 'alaihi wasallam, aku mendengar orang ini membaca surat Al Furqan dengan cara baca yang belum pernah Anda ajarkan padakku. Dan sungguh, Anda telah membacakan surat Al Furqan padaku." Akhirnya beliau bersabda: "Wahai Hisyam, bacalah surat itu." Maka Hisyam pun membacanya bacaan yang telah aku dengan sebelumnya. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Seperti inilah surat itu diturunkan." Kemudian beliau bersabda lagi: "Bacalah wahai Umar." Lalu aku pun membacanya sebagaimana yang telah diajarkan beliau. Kemudian beliau bersabda: "Seperti ini pulalah ia diturunkan." Dan Rasulullah shallallahu 'alaihi wasallam bersabda lagi: "Al Qur'an diturunkan dengan Sab'atu Ahruf (tujuh dialek) karena itu bacalah sesuai kemampuan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5041</td></tr><tr><td>Arabic No</td><td>5041</td></tr><tr><td>Reference</td><td>Book 66 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Умара ибн аль-Хаттаба, что он сказал: «(Как-то раз) при жизни Посланника Аллаха ﷺ, я услышал, как Хишам ибн Хаким ибн Хизам читает суру “аль-Фуркъан”, и прислушавшись к его чтению (повнимательнее), оказалось, что он читает её многими такими способами, которым Посланник Аллаха ﷺ меня не учил. Я был готов наброситься на него (за это) во время молитвы, однако сдержался (и подождал,) когда же он произнёс слова таслима, я схватил его за накидку и спросил: “Кто научил тебя читать ту суру, чтение которой я от тебя слышал?” Он сказал: “Читать её научил меня Посланник Аллаха ﷺ”. Я воскликнул: “Ты лжёшь, клянусь Аллахом, ибо это Посланник Аллаха ﷺ научил меня читать эту суру, которую читал ты!” А потом я привёл его к Пророку ﷺ и сказал: “О Посланник Аллаха, поистине, я слышал, как этот (человек) читает суру “аль-Фуркъан” таким способом, каким ты меня не учил читать, а читать суру “аль-Фуркъан” учил меня ты”. (На это) Пророк ﷺ сказал: “Читай, о Хишам!” — и он прочитал её (Пророку ﷺ точно) так же, как я (уже) слышал, после чего Пророк ﷺ сказал: “Так она и была ниспослана (мне)”. Потом Пророк ﷺ сказал мне: “(Теперь) читай ты, о ‘Умар!” — и я прочёл её так, как он учил меня, а Посланник Аллаха ﷺ сказал: “Так она и была ниспослана (мне)”. Затем, Посланник Аллаха ﷺ сказал: “Поистине, этот Коран был ниспослан (так, что его можно читать) семью способами, читайте же его так, как вам будет легче”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5041</td></tr><tr><td>Arabic No</td><td>5041</td></tr><tr><td>Reference</td><td>Book 66 Hadith 65</td></tr></tbody></table></div>
 

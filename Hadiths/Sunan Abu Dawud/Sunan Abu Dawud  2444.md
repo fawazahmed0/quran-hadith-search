@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said:When the Prophet (ﷺ) came to Medina, he found the Jews observi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ziyad bin Ayyub], Telah menceritakan kepada kami [Husyaim], telah menceritakan kepada kami [Abu Bisyr], dari [Sa'id bin Jubair], dari [Ibnu Abbas], ia berkata; tatkala Nabi shallallahu 'alaihi wasallam datang ke Madinah, beliau mendapati orang-orang Yahudi berpuasa pada hari 'Asyura, kemudian mereka ditanya mengenai hal tersebut. Kemudian mereka berkata; ini adalah hari dimana Allah memenangkan Musa atas Fir'aun, sementara kami sedang berpuasa sebagai pengagungan terhadapnya. Rasulullah shallallahu 'alaihi wasallam berkata; kami lebih berhak terhadap Musa daripada kalian. Dan beliau memerintahkan untuk berpuasa pada hari tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3943) Sahih Muslim (1130)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2444</td></tr><tr><td>Arabic No</td><td>2444</td></tr><tr><td>Reference</td><td>Book 14 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, прибыв в Медину, Пророк ﷺ увидел, что иудеи постятся в день ‘Ашуры. Их спросили об этом. Они ответили: «Это день, в который Аллах помог Мусе одержать верх над фараоном, и мы соблюдаем пост в этот день, возвеличивая его». Тогда Посланник Аллаха ﷺ сказал: «Мы имеем больше прав на Мусу и более близки к нему, чем вы», и велел (мусульманам) поститься в этот день
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3943) Sahih Muslim (1130)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2444</td></tr><tr><td>Arabic No</td><td>2444</td></tr><tr><td>Reference</td><td>Book 14 Hadith 132</td></tr></tbody></table></div>
 

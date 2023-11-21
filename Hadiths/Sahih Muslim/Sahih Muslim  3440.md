@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ma'n Ar Raqasyi] telah menceritakan kepada kami [Khalid bin Harits] telah menceritakan kepada kami [Hisyam] dari [Yahya] bahwa dia pernah menulis sesuatu kepadanya dari [Abu Salamah] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah seorang wanita dipoligami dengan bibinya sekaligus (baik dari saudara ayah atau ibu)." Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Syaiban] dari [Yahya] telah menceritakan kepadaku [Abu Salamah] bahwa dia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda, seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3440</td></tr><tr><td>Arabic No</td><td>1408.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3440</td></tr><tr><td>Arabic No</td><td>1408.05</td></tr><tr><td>Reference</td><td>Book 16 Hadith 43</td></tr></tbody></table></div>
 

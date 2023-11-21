@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once I saw Allah's Messenger (ﷺ) at the door of my house while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih bin Kaisan] dari [Ibnu Syihab] berkata, telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwa ['Aisyah] berkata, "Pada suatu hari aku penah melihat Rasulullah shallallahu 'alaihi wasallam berdiri di pintu rumahku sedangkan budak-budak Habasyah sedang bermain di dalam Masjid. Rasulullah shallallahu 'alaihi wasallam menutupiku dengan kain selendangnya saat aku menyaksikan permainan mereka." [Ibraim bin Al Mundzir] menambahkan, telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] berkata, "Aku melihat Rasulullah shallallahu 'alaihi wasallam menyaksikan budak-budak Habasyah mempertunjukkan permainan tombak mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>455</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 8 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды, я заметила Посланника Аллаха ﷺ, когда эфиопы играли со своими копьями (в мечети) …»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>455</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 8 Hadith 103</td></tr></tbody></table></div>
 

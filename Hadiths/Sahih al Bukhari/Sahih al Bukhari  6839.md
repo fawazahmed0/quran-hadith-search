@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If a lady slave commits illegal se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] dari [Sa'id Al Maqburi] dari [ayahnya] dari [Abu Hurairah] bahwasanya ia mendengarnya mengatakan; Nabi Shallallahu'alaihiwasallam bersabda: "Jika seorang hamba sahaya berzina dan jelas-jelas perzinahannya, maka jilidlah, dan jangan diperolok-olok, kemudian jika berzina lagi deralah dan jangan diperolok-olok, kemudian jika berzina untuk ketiga kalinya juallah sekalipun seharga seutas tali yang terbuat dari rambut." hadits ini diperkuat oleh [Isma'il bin Umayyah] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6839</td></tr><tr><td>Arabic No</td><td>6839</td></tr><tr><td>Reference</td><td>Book 86 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Если рабыня совершит прелюбодеяние и о её прелюбодеянии станет известно, пусть (хозяин) подвергнет её (установленному шариатом) бичеванию, не браня её, и если она совершит прелюбодеяние (снова), пусть он подвергнет её бичеванию, не браня её, если же после этого она совершит прелюбодеяние в третий раз, пусть он продаст её хотя бы за волосяную верёвку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6839</td></tr><tr><td>Arabic No</td><td>6839</td></tr><tr><td>Reference</td><td>Book 86 Hadith 62</td></tr></tbody></table></div>
 

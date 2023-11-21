@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "When a funeral is ready an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] dari [Sa'id] dari [Bapaknya] bahwa dia mendengar dari [Abu Sa'id AL Khudriy radliallahu 'anhu] berkata, bahwa Rasulullah Shallallahu'alaihiwasallam telah bersabda: "Jika jenazah diletakkan lalu dibawa oleh para orang-orang di atas pundak mereka, jika jenazah tersebut termasuk orang shalih (semasa hidupnya) maka (jenazah tersebut) akan berkata; "Bersegeralah kalian (membawa aku). Dan jika ia bukan dari orang shalih, maka dia akan berkata kepada keluarganya; "Celaka, kemana mereka akan membawanya?. Suara jenazah itu akan didengar oleh setiap makhluq kecuali manusia dan seandainya ada manusia yang mendengarnya tentu dia akan jatuh pingsan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1316</td></tr><tr><td>Arabic No</td><td>1316</td></tr><tr><td>Reference</td><td>Book 23 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Пророк ﷺ часто говорил: “Если покойный, лежащий на носилках, которые мужчины несут на своих плечах, был праведным, он говорит: “(Несите) меня вперёд (побыстрее)!” Если же (покойный) праведным не был, то он говорит своим домочадцам (или тем, кто его несёт): “О горе (мне)! Куда вы несёте меня?!” — и его голос слышен всем, кроме человека, а если бы услышал его (человек), он лишился бы чувств”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1316</td></tr><tr><td>Arabic No</td><td>1316</td></tr><tr><td>Reference</td><td>Book 23 Hadith 73</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Harith bin Suwaid:'Abdullah bin Mas'ud related to us two narrations:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Abu Syihab] dari [Al A'masy] dari ['Umarah bin 'Umair] dari [Al Harits bin Suwaid] telah menceritakan kepada kami [Abdullah bin Mas'ud] mengenai dua hadits, salah satunya dari Nabi shallallahu 'alaihi wasallam dan yang lain dari dia sendiri, dia berkata; "Sesungguhnya orang mukmin melihat dosa-dosanya seperti ia duduk di pangkal gunung, ia khawatir gunung itu akan menimpanya, sedangkan orang fajir (selalu berbuat dosa) melihat dosa-dosanya seperti lalat yang menempel di batang hidungnya, kemudian ia mengusirnya seperti ini lalu terbang." Abu Syihab mengisyaratkan dengan tangannya di atas hidungnya. Dia juga berkata; 'Allah merasa gembira karena taubatnya seorang hamba melebihi kegembiraan seseorang yang tengah singgah di suatu tempat yang mencekam dengan ditemani hewan tunggangannya, perbekalan makanan dan minuman berada bersama tunggangannya, kemudian ia meletakkan kepalanya lalu tertidur. Ketika ia terbangun dari tidurnya, ternyata hewan tunggangannya terlepas dengan membawa perbekalan makanan dan minumannya, hingga ketika ia merasa sangat panas dan haus, atau seperti yang dikehendaki Allah, ia pun berkata; 'Sebaiknya aku kembali saja ke tempat tidurku semula.' Kemudian ia kembali dan tertidur. Ketika ia mengangkat kepalanya, ternyata hewan tunggangannya telah berada di sisinya.' Hadits ini juga diperkuat oleh [Abu 'Awanah] dan [Jarir] dari [Al A'masy]. [Abu Usamah] berkata; telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami ['Umarah] saya mendengar [Al Harits]. Dan [Syu'bah], Abu Muslim yaitu ['Ubaidullah Al Kufi] pengawalnya Al A'masy juga berkata; dari [Al A'masy] dari [Ibrahim At Taimi] dari [Al Harits bin Suwaid]. [Abu Mu'awiyah] berkata; telah menceritakan kepada kami [Al A'masy] dari ['Umarah] dari [Al Aswad] dari [Abdullah] dan dari [Ibrahim At Taimi] dari [Al Harits bin Suwaid] dari [Abdullah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6308</td></tr><tr><td>Arabic No</td><td>6308</td></tr><tr><td>Reference</td><td>Book 80 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Имам аль-Бухари сказал):\n— Рассказал нам Ахмад ибн Юнус, (который сказал):\n— Рассказал нам Абу Шихаб от аль-А‘маша, (передавшего) от ‘Умары ибн ‘Умайра, (передавшего) от аль-Хариса ибн Сувайда, (который сказал):\n— Рассказал нам ‘Абдуллах (ибн Мас‘уд, да будет доволен им Аллах,) два хадиса, в одном из которых были слова Пророка ﷺ, а в другом — его собственные слова. Он сказал: «Поистине, верующий смотрит на свои грехи так, будто он сидит у подножия горы и боится, что она обрушится на него, а нечестивый считает свои грехи чем-то вроде мухи, пролетающей у его носа». И он показал вот так. Абу Шихаб сказал: «Своей рукой над носом».\nЗатем (Ибн Мас‘уд, да будет доволен им Аллах, передал, что Пророк ﷺ) сказал: «Поистине, Аллах радуется покаянию (Своего) раба больше, чем человек, останавливающийся в каком-нибудь опасном месте и имеющий верблюдицу, которая везёт на себе его припасы и воду. Он преклоняет свою голову и засыпает на какое-то время, а когда просыпается, видит, что его верблюдица убежала, (и начинает её искать, страдая) от сильной жары, жажды или того, что угодно Аллаху, (а через некоторое время) говорит: “Я вернусь на своё место”, возвращается и (снова ненадолго) засыпает, (а потом просыпается,) поднимает голову и видит, что его верблюдица стоит рядом с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6308</td></tr><tr><td>Arabic No</td><td>6308</td></tr><tr><td>Reference</td><td>Book 80 Hadith 5</td></tr></tbody></table></div>
 

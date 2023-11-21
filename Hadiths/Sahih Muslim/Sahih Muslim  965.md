@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by Abu Huraira by another chain of transmitters ex
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru an-Naqid] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Ismail bin Ibrahim] dari [Yunus] dari [Muhammad bin Ziyad] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, "Tidaklah aman orang yang mengangkat kepalanya dalam shalatnya sebelum imam, karena Allah akan mengubah bentuknya ke dalam bentuk keledai." Telah menceritakan kepada kami [Abdurrahman bin Sallam al-Jumahi] dan [Abdurrahman bin ar-Rabi' bin Muslim] semuanya meriwayatkan dari [ar-Rabi' bin Muslim] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ubaidullah bin Muadz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Waki'] dari [Hammad bin Salamah] semuanya meriwayatkan dari [Muhammad bin Ziyad] dari [Abu Hurairah radhiyallahu'anhu] dari Nabi Shallallahu'alaihiwasallam dengan isnad ini, hanya saja bahwa dalam hadits ar-Rabi' bin Muslim terdapat redaksi, "Karena Allah mengubah wajahnya menjadi wajah keledai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>965</td></tr><tr><td>Arabic No</td><td>427.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Абу Хурайра передал от Пророка ﷺ хадис, подобный предыдущему, но в этой версии говорится: «…что Аллах сделает его лицо ослиным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>965</td></tr><tr><td>Arabic No</td><td>427.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 127</td></tr></tbody></table></div>
 

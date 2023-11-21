@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that a person who was known as Abu Humaid brought for him (the Ho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah]; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Sufyan] dan [Abu Shalih] dari [Jabir] ia berkata; seorang laki-laki yang biasa disebut Abu Humaid datang dengan membawa cangkir yang berisi susu yang sudah didinginkan, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidakkah engkau menutupinya? Walaupun hanya dengan sepotong kayu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5245</td></tr><tr><td>Arabic No</td><td>2011.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5245</td></tr><tr><td>Arabic No</td><td>2011.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 119</td></tr></tbody></table></div>
 

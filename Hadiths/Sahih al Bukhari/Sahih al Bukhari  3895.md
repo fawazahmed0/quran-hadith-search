@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:That the Prophet (ﷺ) said to her, "You have been shown to me t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'allaa] telah menceritakan kepada kami [Wuhaib] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah] radliallahu 'anha bahwa Nabi shallallahu 'alaihi wasallam berkata kepadanya; "Aku diperlihatkan kamu dalam tidur (bermimpi) dua kali. Aku melihat kamu dalam balutan sutera dan orang itu berkata; "Ini adalah istrimu, lepaskanlah dia. Ternyata wanita itu adalah kamu. Maka aku katakan: "Kalau ini datangnya dari Allah, maka Dia pasti akan menetapkannya (buatku)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3895</td></tr><tr><td>Arabic No</td><td>3895</td></tr><tr><td>Reference</td><td>Book 63 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал ей: «Ты была показана мне во сне дважды. (Оба раза) я видел твоё (изображение) на куске шёлка, и (мне) говорили: “Это твоя жена, открой же его!” — и оказывалось, что это ты, а я говорил: “Если это от Аллаха, Он приведёт это к завершению”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3895</td></tr><tr><td>Arabic No</td><td>3895</td></tr><tr><td>Reference</td><td>Book 63 Hadith 120</td></tr></tbody></table></div>
 

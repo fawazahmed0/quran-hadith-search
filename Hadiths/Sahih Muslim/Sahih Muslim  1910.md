@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by A'mash with the same chain of transmitters in w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1910</td></tr><tr><td>Arabic No</td><td>822.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 338</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса говорится, что он сказал: «Поистине, я знаю близкие (по длине) суры, которые читал Посланник Аллаха ﷺ: две суры в одном рака’ате и двадцать сур в десяти рак‘атах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1910</td></tr><tr><td>Arabic No</td><td>822.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 338</td></tr></tbody></table></div>
 

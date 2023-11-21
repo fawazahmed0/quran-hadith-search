@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated As-Subayy ibn Ma'bad: I was a Christian Bedouin; then I embraced Islam.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Qudamah bin A'yan] serta [Utsman bin Abu Syaibah] secara makna, mereka berkata; telah menceritakan kepada Kami [Jarir bin Abdul Hamid] dari [Manshur] dari [Abu Wail], ia berkata; [Ash Shubai bin Ma'bad] berkata; dahulu aku adalah orang badui yang beragama nasrani, kemudian aku masuk Islam, lalu aku menemui seseorang dari keluargaku yang dipanggil Hudzail bin Tsurmulah, kemudian aku katakan kepadanya; wahai orang ini, sesungguhnya aku sangat ingin untuk berjihad, dan aku mendapati haji dan umrah adalah sesuatu yang diwajibkan kepadaku, bagaimana aku menggabungkan keduanya? Ia berkata; ia berkata; gabungkan keduanya dan sembelihlah hewan kurban yang mudah bagimu untuk melakukan keduanya secara bersamaan. Kemudian tatkala aku datang ke 'Udzaib (nama sumber air milik Bani Tamim), aku berjumpa dengan Salman bin Rabi'ah dan Zaid bin Shuhan, sementara aku sedang bertalbiyah untuk melakukan keduanya secara bersamaan. Kemudian salah seorang dari mereka berkata kepada yang lainnya; orang ini tidak lebih pandai daripada untanya. Ash Shubai bin Ma'bad berkata; seolah-olah telah ditimpakan sebuah gunung kepadaku, hingga aku datang kepada [Umar bin Al Khathab] dan mengatakan kepadanya; wahai amirul mukminin, sesungguhnya dahulu aku adalah orang yang beragama nasrani, dan aku telah masuk Islam. Aku sangat berkeinginan untuk berjihad, sementara aku mendapati haji dan umrah diwajibkan atas diriku. Kemudian aku datang kepada seorang laki-laki dari kaumku, lalu ia berkata; gabungkan keduanya dan sembelihlah hewan kurban yang mudah. Dan kau telah bertalbiyah untuk melakukan keduanya secara bersamaan. Kemudian Umar radliallahu 'anhu berkata kepadaku; engkau telah mendapatkan petunjuk untuk melakukan sunah Nabimu shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1799</td></tr><tr><td>Arabic No</td><td>1799</td></tr><tr><td>Reference</td><td>Book 11 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ас-Субайй ибн Ма‘бад сказал: Я был бедуином-христианином, а потом принял ислам. Я пришёл к одному из своих соплеменников по имени Хузайм ибн Сурмуля и сказал: «О такой-то! Я хочу участвовать в борьбе на пути Аллаха, но при этом я обнаружил, что обязан совершить хадж и ‘умру. Как мне объединить их?» Он ответил: «Ты можешь объединить их, но ты должен зарезать из жертвенного скота, что сможешь». И я произнёс тальбию для ‘умры и хаджа вместе. Добравшись до ‘Узайба (источник бану Тамим), я встретил Сальмана ибн Раби‘а и Зейда ибн Сухана. А я как раз объявлял о намерении совершить вместе хадж и ‘умру. И один из них сказал другому: «Этот понимает не больше своего верблюда!» И я почувствовал себя так, будто на меня взвалили гору. Я пошёл к ‘Умару ибн аль-Хаттабу и сказал ему: «О повелитель верующих! Я был бедуином-христианином, а потом принял ислам. Я хочу участвовать в борьбе на пути Аллаха, но при этом я обнаружил, что обязан совершить хадж и ‘умру. Я пришёл к одному из своих соплеменников, и он сказал: “Ты можешь объединить их, но ты должен зарезать из жертвенного скота, что сможешь”. И я объявил о намерении совершить вместе ‘умру и хадж». ‘Умар сказал: «Ты поступил согласно Сунне твоего Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1799</td></tr><tr><td>Arabic No</td><td>1799</td></tr><tr><td>Reference</td><td>Book 11 Hadith 79</td></tr></tbody></table></div>
 

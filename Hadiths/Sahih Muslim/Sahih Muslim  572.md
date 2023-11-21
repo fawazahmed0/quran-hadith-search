@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Amr reported:The Messenger of Allah (ﷺ) lagged behind us on a jour
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] dan [Abu Kamil al-Jahdari] semuanya dari [Abu Awanah], [Abu Kamil] berkata, telah menceritakan kepada kami [Abu Bisyr] dari [Yusuf bin Mahak] dari [Abdullah bin Amru] dia berkata, "Nabi shallallahu 'alaihi wasallam meninggalkan kami (lebih dahulu) dalam suatu perjalanan yang kami lakukan, maka kami mendapati beliau ketika waktu shalat Ashar telah tiba, maka kami mulai membasuh kaki-kaki kami, tiba-tiba beliau bersabda: "Celakalah bagi tumit-tumit (yang tidak terbasuh air wudlu) dengan api neraka. Sempurnakanlah wudlu kalian dengan baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>572</td></tr><tr><td>Arabic No</td><td>241.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн ‘Амр, да будет доволен им Аллах, сказал: «Как-то раз, Пророк ﷺ, отставший от нас в пути, присоединился к нам уже после того, как настало время послеполуденной молитвы /‘аср/, (а мы совершали омовение) и (некоторые из нас) начали протирать ноги, и тогда (Пророк ﷺ) воззвал: “Горе пяткам от Огня!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>572</td></tr><tr><td>Arabic No</td><td>241.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 39</td></tr></tbody></table></div>
 

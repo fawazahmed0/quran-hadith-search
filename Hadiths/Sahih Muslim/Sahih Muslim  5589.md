@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that a child was born to one of the persons amongst 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sarri]; Telah menceritakan kepada kami ['Abtsar] dari [Hushain] dari [Salim bin Abu Al Ja'di] dari [Jabir bin 'Abdillah] ia berkata; Suatu ketika seseorang diantara kami mempunyai anak, lalu dia memberinya nama Muhammad. Maka kami berkata; 'Kami tidak akan memberikan julukan kepada kamu dengan nama Rasulullah shallallahu 'alaihi wasallam hingga kita mendapat persetujuan beliau terlebih dahulu. Lalu orang itu datang kepada Rasulullah shallallahu 'alaihi wasallam seraya berkata; 'Sesungguhnya aku telah memiliki seorang anak laki-laki, dan aku memberinya nama Muhammad, namun kaumku menolak untuk memanggilnya dengan nama tersebut sehingga mendapat persetujuan Nabi shallallahu 'alaihi wasallam. Beliau bersabda: "Namailah dengan namaku, tetapi janganlah kalian menjulukinya dengan julukanku. Karena aku diutus sebagai Qasim (orang yang membagi) yang akan membagi di antara kalian. Telah menceritakan kepada kami [Rifa'ah bin Al Haitsam Al Wasithi] Telah menceritakan kepada kami [Khalid] yaitu Ath Thahhan dari [Hushain] melalui jalur ini juga, namun dia tidak menyebutkan; 'Karena aku diutus sebagai Qasim (orang yang membagi) yang akan membagi di antara kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5589</td></tr><tr><td>Arabic No</td><td>2133.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5589</td></tr><tr><td>Arabic No</td><td>2133.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 4</td></tr></tbody></table></div>
 

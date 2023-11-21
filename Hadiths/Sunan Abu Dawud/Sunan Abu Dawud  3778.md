@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) said: Do not eat me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Abu Ma'syar] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] radliallahu 'anhuma, ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian memotong daging menggunakan pisau, sesungguhnya hal tersebut termasuk perbuatan orang-orang 'Ajam (selain Arab), gigitlah daging tersebut karena sesungguhnya hal tersebut lebih nyaman dan nikmat." Abu Dawud berkata, "Hadits ini tidak kuat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3778</td></tr><tr><td>Arabic No</td><td>3778</td></tr><tr><td>Reference</td><td>Book 28 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Не срезайте мясо ножом, ибо так поступают неарабы. Обгрызайте его с кости, ибо так приятнее и лучше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3778</td></tr><tr><td>Arabic No</td><td>3778</td></tr><tr><td>Reference</td><td>Book 28 Hadith 43</td></tr></tbody></table></div>
 

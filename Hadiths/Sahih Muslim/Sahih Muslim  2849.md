@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The narration transmitted by Hakam (the words are):Al-Sa'b b. Jaththama presente
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Habib bin Abu Tsabit] dari [Sa'd bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Ash Sha'b bin Jutsamah pernah menghadiahkan seekor keledai liar kepada Nabi shallallahu 'alaihi wasallam yang ketika itu sedang berihram, maka beliaupun mengembalikannya kepadanya seraya bersabda: "Kalaulah bukan karena kami sedang Ihram, niscaya kami akan menerimanya darimu." Dan Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Al Mu'tamir bin Sulaiman] ia berkata, saya mendengar [Manshur] menceritakan dari [Al Hakam] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata, Telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] dari [Syu'bah] semuanya dari [Habib] dari [Sa'd bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma. Dalam riwayat Manshur, dari Al Hakam; Ash Sha'b bin Jatstsamah menghadiahkan sebuah kaki keledai liar kepada Nabi shallallahu 'alaihi wasallam. Dan dalam riwayat Syu'bah dari Al Hakam disebutkan: Ash Sha'b bin Jatstsamah menghadiahkan sempol/pantat keledai liar yang masih meneteskan darah segar. Dan dalam riwayat Syu'bah, dari Habib disebutkan; Ia menghadiahkan setengah tubuh keledai liar kepada Nabi shallallahu 'alaihi wasallam lalu beliau mengembalikannya kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2849</td></tr><tr><td>Arabic No</td><td>1194.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2849</td></tr><tr><td>Arabic No</td><td>1194.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 59</td></tr></tbody></table></div>
 

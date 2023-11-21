@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Arqam: We were with the Messenger of Allah (ﷺ). He said when
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar An Namari] berkata, telah menceritakan kepada kami [Syu'bah] dari [Amru bin Murrah] dari [Abu Hamzah] dari [Zaid bin Arqam] ia berkata, "Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam singgah pada suatu tempat, beliau lalu bersabda: "Kalian tidak sampai satu bagian dari seratus ribu bagian orang yang datang untuk minum di telagaku." Perawi berkata, "Berapa jumlah kalian waktu itu?" Ia menjawab, "Tujuh ratus atau delapan ratus orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4746</td></tr><tr><td>Arabic No</td><td>4746</td></tr><tr><td>Reference</td><td>Book 42 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+передаётся от Зейда ибн Аркама: «Мы были (в пути) вместе с посланником Аллаха ﷺ и остановились на привал. Посланник Аллаха ﷺ сказал: “Вы не составляете собой и одну стотысячную часть тех, кто встретится со мной у моего водоёма”». (Передатчик сказал): «Я спросил: “А сколько вас тогда было?” Он ответил: “Семьсот или восемьсот человек”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4746</td></tr><tr><td>Arabic No</td><td>4746</td></tr><tr><td>Reference</td><td>Book 42 Hadith 151</td></tr></tbody></table></div>
 

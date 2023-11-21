@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) used to seek Refuge with Allah for Al-Hasa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3371</td></tr><tr><td>Arabic No</td><td>3371</td></tr><tr><td>Reference</td><td>Book 60 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, передал, что Пророк ﷺ часто просил защиты для аль-Хасана и аль-Хусейна и говорил: «Поистине, ваш праотец просил у Аллаха защиты для Исма‘иля и Исхака(, говоря): “Прибегаю к совершенным словам Аллаха, чтобы они защитили вас от любого шайтана и (ядовитого) насекомого и от всякого дурного глаза! /А‘узу би-кялимати-Лляхи-т-таммати мин кулли шайтанин ва хамматин ва мин кулли ‘айнин лямматин!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3371</td></tr><tr><td>Arabic No</td><td>3371</td></tr><tr><td>Reference</td><td>Book 60 Hadith 45</td></tr></tbody></table></div>
 

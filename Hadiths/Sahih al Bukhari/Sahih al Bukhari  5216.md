@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever Allah's Messenger (ﷺ) finished his 'Asr prayer, he wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Farwah] Telah menceritakan kepada kami [Ali bin Mushir] dari [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha; "Biasanya Rasulullah shallallahu 'alaihi wasallam jika beranjak dari shalat Ashar, maka beliau menemui para isteri-isterinya. Lalu beliau mendekat pada salah seorang dari mereka. Beliau masuk ke rumah Hafshah lalu beliau berdiam di situ lebih lama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>5216</td></tr><tr><td>Reference</td><td>Book 67 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша рассказывала: «Когда Посланник Аллаха ﷺ заканчивал послеполуденную /‘аср/ молитву, он приходил к своим жёнам и оставался с каждой из них. Однажды он вошёл к Хафсе и пробыл у неё дольше обычного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>5216</td></tr><tr><td>Reference</td><td>Book 67 Hadith 149</td></tr></tbody></table></div>
 

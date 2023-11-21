@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that a slave of Hatib came to Allah's Messenger (ﷺ) complaining
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Rumh]; Telah mengabarkan kepada kami [Al Laits] dari [Abu Az Zubair] dari [Jabir] bahwa bahwa seorang budak Hathib datang kepada Rasulullah shallallahu 'alaihi wasallam mengadukan tentang pribadi Hathib seraya berkata; "Ya Rasulullah, Sungguh Hathib pasti akan masuk Neraka." Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: 'Kamu telah berdusta, dia tidak akan masuk ke neraka, karena dia pernah ikut serta dalam perang Badar dan perjanjian Hudaibiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6403</td></tr><tr><td>Arabic No</td><td>2495</td></tr><tr><td>Reference</td><td>Book 44 Hadith 234</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6403</td></tr><tr><td>Arabic No</td><td>2495</td></tr><tr><td>Reference</td><td>Book 44 Hadith 234</td></tr></tbody></table></div>
 

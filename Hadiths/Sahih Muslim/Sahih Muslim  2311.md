@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Of the dinar you spend as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb] dan [Abu Kuraib] -dan lafazh milik Abu Kuraib- mereka berkata, Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Muzahim bin Zufar] dari [Mujahid] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Dinar (harta) yang kamu belanjakan di jalan Allah dan dinar (harta) yang kamu berikan kepada seorang budak wanita, dan dinar yang kamu sedekahkan kepada orang miskin serta dinar yang kamu nafkahkan kepada keluargamu. Maka yang paling besar ganjaran pahalanya adalah yang kamu nafkahkan kepada keluargamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2311</td></tr><tr><td>Arabic No</td><td>995</td></tr><tr><td>Reference</td><td>Book 12 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Если ты потратишь динар на пути Аллаха, динар на освобождение раба, динар отдашь в качестве милостыни бедняку, и динар потратишь на членов своей семьи, то наибольшую награду ты получишь за тот динар, который ты потратил на членов своей семьи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2311</td></tr><tr><td>Arabic No</td><td>995</td></tr><tr><td>Reference</td><td>Book 12 Hadith 48</td></tr></tbody></table></div>
 

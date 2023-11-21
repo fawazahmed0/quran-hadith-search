@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim b. 'Abdullah (Allah be pleased with them) reported that he heard his fathe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Musa bin Uqbah] dari [Salim bin Abdullah] bahwa ia mendengar [bapaknya] radliallahu 'anhu berkata; Baida' kalian inilah yang dahulu ditempat itu kalian mendustakan atas Rasulullah shallallahu 'alaihi wasallam, Beliau tidak pernah melakukan Ihlal (memulai Ihram) kecuali dari sisi Masjid, yakni Dzulhulaifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2816</td></tr><tr><td>Arabic No</td><td>1186.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2816</td></tr><tr><td>Arabic No</td><td>1186.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 26</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said :People used to perform Hajj and not bring provisions with them.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Al Furat yaitu Abu Mas'ud Ar Razi], serta [Muhammad bin Abdullah Al Makhrami], dan ini adalah lafazhnya, mereka berkata; telah menceritakan kepada Kami [Syababah] dari [Warqa'] dari ['Amr bin Dinar] dari ['Ikrimah] dari [Ibnu Abbas], ia berkata; dahulu mereka pergi untuk melaksanakan haji, namun tidak membawa bekal. Abu Mas'ud berkata; dahulu penduduk Yaman atau orang-orang dari penduduk Yaman pergi melaksanakan haji namun tidak membawa bekal dan mereka mengatakan; Kami adalah orang-orang yang bertawakkal kepada Allah. Kemudian Allah menurunkan ayat: "Dan berbekAllah, dan sebaik-baik bekal adalah ketakwaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1523)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1730</td></tr><tr><td>Arabic No</td><td>1730</td></tr><tr><td>Reference</td><td>Book 11 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что люди из числа жителей Йемена совершали хадж без всяких запасов и говорили: «Мы уповающие», и Всевышний Аллах ниспослал: «Берите с собой припасы, хотя лучшим припасом является богобоязненность» (сура «аль-Бакара, аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1523)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1730</td></tr><tr><td>Arabic No</td><td>1730</td></tr><tr><td>Reference</td><td>Book 11 Hadith 10</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:On the day (of the battle) of Al-Ahzab (i.e. clans) I saw the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hafsh bin 'Amru] telah bercerita kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Bara' radliallahu 'anhu] berkata; Aku melihat Rasulullah shallallahu 'alaihi wasallam pada perang al-Ahzab mengangkut tanah bebatuan dimana tanah-tanah itu telah menutup perut Beliau yang putih sambil bersya'ir: "Kalaulah bukan karena Engkau ya Allah, tentu kami tidak akan mendapat petunjuk, tidak pula menunaikan zakat dan mendirikan shalat". Untuk itu turunkanlah sakinat (ketenangan) kepada kami, dan kuatkanlah kaki-kaki kami bila bertenu (musuh) "."Sesungguhnya orang-orang (itu) telah berbuat aniaya terhadap kami, jika mereka menghendaki fitnah, kami tidak pernah peduli (menyerah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 56 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: Я видел, как во время нашествия союзных племён Посланник Аллаха ﷺ живот которого был покрыт пылью, переносил землю, произнося (такие слова):Если бы не Ты, не встали бы мы на верный путь, не давали бы милостыню и не молились! Ниспошли же нам спокойствие и укрепи стопы наши, если встретим мы (врагов). Поистине, эти (люди) замыслили (недоброе) против нас, Но если захотят они (ввести нас в) соблазн, мы не поддадимся
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 56 Hadith 53</td></tr></tbody></table></div>
 

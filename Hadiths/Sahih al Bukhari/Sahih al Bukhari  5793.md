@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:The Prophet (ﷺ) asked for his Rida, put it on and set out walkin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] telah mengabarkan kepadaku [Ali bin Husain] bahwa [Husain bin Ali] telah mengabarkan kepadanya, bahwa [Ali] radliallahu 'anhu berkata; "...lalu Nabi shallallahu 'alaihi wasallam meminta jubahnya kemudian beliau pergi berjalan, aku dan Zaid bin Haritsah pun turut mengikuti beliau hingga beliau tiba di Ka'bah yang di dalamnya ada Hamzah, kemudian beliau meminta izin, dan dia pun mengizinkan masuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5793</td></tr><tr><td>Arabic No</td><td>5793</td></tr><tr><td>Reference</td><td>Book 77 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Пророк ﷺ велел принести ему плащ, затем вышел из дома, и мы с Зейдом ибн Хариса последовали за ним. Подойдя к дому, в котором находился Хамза, он попросил разрешения войти, и им разрешили»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5793</td></tr><tr><td>Arabic No</td><td>5793</td></tr><tr><td>Reference</td><td>Book 77 Hadith 11</td></tr></tbody></table></div>
 

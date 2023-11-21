@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) died while he was between my chest and chin, s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4446</td></tr><tr><td>Arabic No</td><td>4446</td></tr><tr><td>Reference</td><td>Book 64 Hadith 466</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса сообщается, что ‘Аиша, да будет доволен ею Аллах,) сказала: «Когда Пророк ﷺ умер, (голова его) покоилась у меня на груди, а (я касалась ее) подбородком, и после (смерти) Пророка ﷺ я никогда не стану испытывать отвращения к агонии кого бы то ни было»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4446</td></tr><tr><td>Arabic No</td><td>4446</td></tr><tr><td>Reference</td><td>Book 64 Hadith 466</td></tr></tbody></table></div>
 

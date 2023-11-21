@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Once the Prophet (ﷺ) sat on a pulpit and we sat a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadhalah] telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Hilal bin Abu Maimunah] telah menceritakan kepada kami ['Atha' bin Yasar] bahwa dia mendengar [Abu Sa'id Al Khudriy radliallahu 'anhu] menceritakan bahwa Nabi Shallallahu'alaihiwasallam suatu hari duduk diatas mimbar dan kami pun duduk didekatnya lalu Beliau berkata,: "Sesungguhnya diantara yang aku khawatirkan terjadi pada kalian sepeninggalku adalah apabila telah dibuka untuk kalian (keindahan) dunia serta perhiasannya". Tiba-tiba ada seorang laki-laki berkata,: "Wahai Rasulullah, apakah kebaikan dapat mendatangkan keburukan?". Maka Nabi Shallallahu'alaihiwasallam terdiam. Dikatakan kepada orang yang bertanya tadi; "Apa yang telah kamu lakukan, kamu mengajak Nabi Shallallahu'alaihiwasallam berbicara yang membuat Beliau tidak berbicara kepadamu". Maka kami melihat bahwa wahyu sedang turun kepada Beliau. Abu Said berkata,: "Beliau mengusap keringatnya yang banyak lalu berkata,: "Mana orang yang bertanya tadi?". Lalu nampak Beliau memuji Allah seraya bersabda: "Kebaikan tidak akan mendatangkan keburukan. Sesungguhnya apa yang ditumbuhkan pada musim semi dapat membinasakan atau dapat mendekatkan kepada kematian kecuali seperti (ternak) pemakan dedaunan hijau yang apabila sudah kenyang dia akan memandang matahari lalu mencret kemudian kencing lalu dia kembali merumput (makan lagi). Dan sungguh harta itu seperti dedaunan hijau yang manis. Maka beruntunglah seorang muslim yang dengan hartanya dia memberi orang-orang miskin, anak yatim dan ibnu sabil (musafir yang kehabisan bekal) ". Atau seperti yang didabdakan oleh Nabi Shallallahu'alaihiwasallam: "Dan sesungguhnya barangsiapa yang mengambil harta dunia tanpa hak ia seperti orang yang memakan namun tidak pernah kenyang dan harta itu akan menjadi saksi yang menuntutnya pada hari qiyamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1465</td></tr><tr><td>Arabic No</td><td>1465</td></tr><tr><td>Reference</td><td>Book 24 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, рассказывал: «Однажды, после того как Посланник Аллаха ﷺ сел на минбаре, а мы уселись вокруг него, он сказал: “Поистине, чего я боюсь для вас после моей смерти, так это блеска и украшений мира дольнего, которые будут вам дарованы!” Один человек спросил: “О Посланник Аллаха, а разве благо приносит с собой и зло?” — (однако) Пророк ﷺ хранил молчание, и этого человека стали спрашивать: “Что случилось (и почему) ты обращаешься к Пророку ﷺ, а он не разговаривает с тобой?” — но потом мы заметили, что ему ниспосылается откровение».\n(Абу Са‘ид) сказал: «А (через некоторое время) Пророк ﷺ отёр (с лица) обильный пот и спросил: “Где тот, кто задал вопрос?” — и нам показалось, что он (говорит эти слова с одобрением). Потом он сказал: “Поистине, благо не приносит с собой зла и, поистине, из (растений,) появляющихся на свет рядом с потоками, (есть такие, что) убивают (любых животных) или вызывают у них болезни, которые могут погубить их, если только (животное) не наестся до отвала (одного из видов) овощей; когда же бока его раздуваются, оно поворачивается к солнцу, испражняется, мочится и снова начинает жадно есть. Поистине, богатство привлекательно и приятно на вкус, и прекрасно поступит обладающий богатством мусульманин, если станет тратить часть его на неимущих, сирот и путников. (Или же Пророк ﷺ сказал нечто подобное.) Что же касается приобретающего богатство незаконно, то он подобен тому, кто ест, но не может насытиться, и (такое богатство) будет свидетельствовать против него в День воскрешения!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1465</td></tr><tr><td>Arabic No</td><td>1465</td></tr><tr><td>Reference</td><td>Book 24 Hadith 67</td></tr></tbody></table></div>
 

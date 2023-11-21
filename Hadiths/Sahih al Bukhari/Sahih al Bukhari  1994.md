@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ziyad bin Jubair:A man went to Ibn 'Umar I. and said, "A man vowed to f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Mu'adz] telah mengabarkan kepada kami [Ibnu 'Aun] dari [Ziyad bin Jubair] berkata: Datang seorang laki-laki kepada [Ibnu'Umar radliallahu 'anhuma] lalu berkata: Ada seorang yang bernadzar akan melaksanakan puasa pada suatu hari. Aku menduga dia berkata, hari Senin, lalu hari yang dinadzarkkan itu bertepatan dengan hari Raya 'Ied". Maka Ibnu'Umar radliallahu 'anhuma berkata: "Allah telah memerintahkan untuk menunaikan nadzar dan melarang berpuasa pada hari raya ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1994</td></tr><tr><td>Arabic No</td><td>1994</td></tr><tr><td>Reference</td><td>Book 30 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зияд ибн Джубейр сказал: «Один человек пришёл к Ибн ‘Умару, да будет доволен Аллах им и его отцом, и сказал: “Один человек дал обет /назр/ поститься один день”, — передатчик сказал: “Я думаю, что он сказал: “понедельник”. Но это день совпал с днём праздника”. Ибн ‘Умар ответил: “Аллах приказал исполнять обеты, а Пророк ﷺ запретил поститься в этот день”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1994</td></tr><tr><td>Arabic No</td><td>1994</td></tr><tr><td>Reference</td><td>Book 30 Hadith 100</td></tr></tbody></table></div>
 

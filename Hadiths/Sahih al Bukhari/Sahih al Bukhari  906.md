@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) used to offer the prayer earlier if it
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar Al Muqaddami] berkata, telah menceritakan kepada kami [Harami bin 'Umarah] berkata, telah menceritakan kepada kami [Abu Khaldah] -yaitu Khalid bin Dinar- berkata, Aku mendengar [Anas bin Malik] berkata, "Jika hari terasa sejuk Nabi shallallahu 'alaihi wasallam menyegerakan pelaksanaan shalat, dan bila udara panas beliau mengakhirkannya, yakni shalat Jum'at." [Yunus bin Bukair] berkata; telah mengabarkan kepada kami [Abu Khaldah] menyebutkan dengan lafadz 'shalat' saja dan tidak menyebutkan kata 'jum'at'. [Bisyr bin Tsabit] berkata; telah menceritakan kepada kami [Abu Khaldah] ia berkata, "Ada seorang amir (pemimpin) shalat bersama kami kemudian bertanya kepada Anas? radliallahu 'anhu, "Bagaimana cara Nabi shallallahu 'alaihi wasallam shalat Zhuhur?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>906</td></tr><tr><td>Arabic No</td><td>906</td></tr><tr><td>Reference</td><td>Book 11 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас да будет доволен им Аллах, сказал: «Когда становилось очень холодно, Пророк ﷺ обычно начинал намаз пораньше, а когда усиливалась жара, он откладывал его, пока не становилось прохладнее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>906</td></tr><tr><td>Arabic No</td><td>906</td></tr><tr><td>Reference</td><td>Book 11 Hadith 30</td></tr></tbody></table></div>
 

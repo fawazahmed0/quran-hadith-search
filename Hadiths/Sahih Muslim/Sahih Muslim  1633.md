@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that the Messenger of Allah (ﷺ) combined the noon prayer w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; telah menceritakan kepada kami [Abu Muawiyah] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu Kuraib] dan [Abu Said Al Asyajj] sedangkan lafadznya milik Abu Kuraib, keduanya berkata; telah menceritakan kepada kami [Waki'], keduanya dari [Al A'masy] dari [Habib bin Abu Tsabit] dari [Said bin Jubair] dari [Ibnu Abbas] katanya; "Rasulullah shallallahu 'alaihi wasallam pernah menjamak antara zhuhur dan ashar, maghrib dan isya' di Madinah, bukan karena ketakutan dan bukan pula karena hujan." Dalam hadis Waki', katanya; aku tanyakan kepada Ibnu Abbas; "Mengapa beliau lakukan hal itu?" Dia menjawab; "Beliau ingin supaya tidak memberatkan umatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1633</td></tr><tr><td>Arabic No</td><td>705.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «(Бывало так, что), находясь в Медине, Посланник Аллаха ﷺ объединял полуденную молитву с послеполуденной, а закатную с вечерней (в такие дни), когда (городу ничто) не угрожало и не было дождя».В той версии этого хадиса, (одним из передатчиков которой был) Ваки‘, (сообщается, что Са‘ид ибн Джубайр) сказал: «Я спросил Ибн ‘Аббаса: “Почему (Пророк ﷺ) делал это?” и он сказал: “Чтобы не доставлять затруднений (членам) своей общины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1633</td></tr><tr><td>Arabic No</td><td>705.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 64</td></tr></tbody></table></div>
 

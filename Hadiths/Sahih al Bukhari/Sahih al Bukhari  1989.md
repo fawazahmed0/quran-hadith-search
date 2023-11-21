@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:The people doubted whether the Prophet (ﷺ) was fasting on the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] telah menceritakan kepada kami [Ibnu Wahab] atau dibacakan kepadanya, dia berkata, telah mengabarkan kepada saya ['Amru] dari [Bukair] dari [Kuraib] dari [Maymunah radliallahu 'anha] bahwa orang-orang ragu tentang puasa Nabi shallallahu 'alaihi wasallam pada hari 'Arafah, lalu ia mengirim susu kepada Beliau yang sedang wukuf di Arafah, maka Beliau meminumnya sementara orang-orang melihatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1989</td></tr><tr><td>Arabic No</td><td>1989</td></tr><tr><td>Reference</td><td>Book 30 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Маймуны, да будет доволен ею Аллах, что люди усомнились в посте Пророка ﷺ в день ‘Арафата. (Маймуна сказала): «Тогда я отправила ему кувшин с молоком, в то время как он находился на ‘Арафате, и он попил его, а люди смотрели»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1989</td></tr><tr><td>Arabic No</td><td>1989</td></tr><tr><td>Reference</td><td>Book 30 Hadith 96</td></tr></tbody></table></div>
 

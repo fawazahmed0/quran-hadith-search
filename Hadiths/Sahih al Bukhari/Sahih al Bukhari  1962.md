@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) forbade Al-Wisal. The peopl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhua] berkata; Rasulullah shallallahu 'alaihi wasallam melarang puasa wishal. Orang-orang berkata: "Namun, bukankah anda sendiri melakukan puasa wishal?" Beliau bersabda: "Aku tidak sama dengan keadaan seorang dari kalian karena aku diberi makan dan minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1962</td></tr><tr><td>Arabic No</td><td>1962</td></tr><tr><td>Reference</td><td>Book 30 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Когда Пророк ﷺ запретил поститься непрерывно, люди сказали: “Но ведь ты постишься без разговения”. Он ответил: “Я не подобен вам. Поистине, у меня есть Тот, Кто кормит и поит меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1962</td></tr><tr><td>Arabic No</td><td>1962</td></tr><tr><td>Reference</td><td>Book 30 Hadith 69</td></tr></tbody></table></div>
 

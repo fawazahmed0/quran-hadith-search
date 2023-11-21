@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said:When the Messenger of Allah (ﷺ) was alive, we used to say: Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Anbasah] berkata, telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] ia berkata; [Salim bin Abdullah] berkata; [Ibnu Umar] berkata, "Kami pernah mengatakan sesuatu saat Nabi shallallahu 'alaihi wasallam masih hidup, "Yang paling utama di antara umat Nabi shallallahu 'alaihi wasallam setelah beliau adalah Abu Bakar, lalu Umar, lalu Utsman. Semoga Allah meridhai mereka semua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4628</td></tr><tr><td>Arabic No</td><td>4628</td></tr><tr><td>Reference</td><td>Book 42 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «При жизни Посланника Аллаха ﷺ мы говорили, что самый достойный в общине Пророка ﷺ после него Абу Бакр, затем ‘Умар, затем ‘Усман, да будет Аллах доволен ими всеми»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4628</td></tr><tr><td>Arabic No</td><td>4628</td></tr><tr><td>Reference</td><td>Book 42 Hadith 33</td></tr></tbody></table></div>
 

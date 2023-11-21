@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (may peace be upon him') often said while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] Zuhair berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu adh-Dhuha] dari [Masruq] dari [Aisyah] dia berkata, "Dahulu Rasulullah memperbanyak dalam rukuk dan sujudnya membaca, ' SUBHAANAKALLOOHUMMA ROBBANAA WABIHAMDIKALLOOHUMMAGH FIRLII, YATA"AWWALUL QUR"AANA (Mahasuci Engkau ya Allah, Rabb kami, dan dengan memujiMu, ya Allah, ampunilah aku, mentakwil al-Qur'an)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>484.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 247</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Совершая поясные и земные поклоны, Посланник Аллаха ﷺ часто повторял: “Слава Тебе, о Аллах, Господь наш, и хвала Тебе! О Аллах, прости меня! /Субхана-кя Аллахумма, Рабба-на, ва би-хамди-кя! Аллахумма-гфир ли/”. Так он выполнял веления, которые содержатся в Коране»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>484.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 247</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Oum Salama (رضي الله عنها), une femme vint dire à l'Envoyé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Amru An Naqid] keduanya berkata; Telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Yahya bin Sa'id] dari [Humaid bin Nafi'] bahwasannya dia mendengar [Zaenab binti Abi Salamah] menceritakan dari [Ummu Salamah] dan [Ummu Habibah], keduanya menyebutkan bahwa seorang wanita menemui Rasulullah shallallahu 'alaihi wasallam dan memberitahukan kepada beliau bahwa putrinya telah ditinggal mati oleh suaminya, hingga matanya bengkak dan dia hendak mencelakinya, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh dahulu wanita dari kalian (yang ditinggal mati suaminya) salalu melemparkan kotoran di penghujung tahun, sedangkan sekarang ini bagi dia hanyalah empat bulan sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3733</td></tr><tr><td>Arabic No</td><td>1488.04</td></tr><tr><td>Reference</td><td>Book 18 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3733</td></tr><tr><td>Arabic No</td><td>1488.04</td></tr><tr><td>Reference</td><td>Book 18 Hadith 77</td></tr></tbody></table></div>
 

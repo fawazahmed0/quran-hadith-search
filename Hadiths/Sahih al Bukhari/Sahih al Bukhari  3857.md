@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ammar bin Yasir:I saw Allah's Messenger (ﷺ) , and the only converts 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Hammad Al Amuli] berkata, telah menceritakan kepadaku [Yahya bin Ma'in] telah menceritakan kepada kami [Isma'il bin Mujalid] dari [Bayan] dari [Wabarah] dari [Hammam bin Al Harits] berkata, ['Ammar bin Yasir] menceritakan; Aku melihat Rasulullah shallallahu 'alaihi wasallam, dan tidak ada sorangpun yang menyertai beliau melainkan lima orang hamba sahaya, dua orang wanita dan Abu Bakr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3857</td></tr><tr><td>Arabic No</td><td>3857</td></tr><tr><td>Reference</td><td>Book 63 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аммар бин Ясир, да будет доволен им Аллах, сказал: «Я видел Посланника Аллаха ﷺ (в те времена, когда) не было с ним никого, кроме пяти рабов, двух женщин и Абу Бакра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3857</td></tr><tr><td>Arabic No</td><td>3857</td></tr><tr><td>Reference</td><td>Book 63 Hadith 82</td></tr></tbody></table></div>
 

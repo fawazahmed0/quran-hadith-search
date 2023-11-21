@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "Allah will say (on the Day
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ishaq bin Nashr] telah bercerita kepada kami [Abu Usamah] dari [Al A'masy] telah bercerita kepada kami [Abu Shalih] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Allah Ta'ala berfirman: "Wahai Adam, ". Nabi Adam 'Alaihissalam menjawab: "Labbaika, kemuliaan milik-Mu dan segala kebaikan berada di tangan-Mu". Kemudian Allah berfirman: "Keluarkanlah utusan neraka". Adam bertanya; "Apa yang dimaksud dengan utusan neraka? (berapa jumlahnya?) ". Allah berfirman: "Dari setiap seribu, sembilan ratus sembilan puluh Sembilan dijebloskan neraka!, Ketika perintah ini diputuskan, maka anak-anak belia menjadi beruban, dan setiap wanita hamil kandungannya berguguran dan kamu lihat manusia mabuk padahal mereka tidaklah mabuk akan tetapi (mereka melihat) siksa Allah yang sangat keras". (QS. Alhajj 2), Para shahabat bertanya; "Wahai Rasulullah, adakah diantara kami seseorang yang selamat?". Beliau bersabda: "Bergembiralah, karena setiap seribu yang dimasukkan neraka, dari kalian cuma satu, sedang Sembilan ratus sembilan puluh sembilannya dari Ya'juj dan ma'juj". Kemudian Beliau bersabda: "Dan demi Dzat yang jiwaku berada di tangan-Nya, aku berharap kalian menjadi di antara seperempat ahlu surga". Maka kami bertakbir. Kemudian Beliau bersabda lagi: "Aku berharap kalian menjadi di antara sepertiga ahlu surga". Maka kami bertakbir lagi. Kemudian Beliau bersabda lagi: "Aku berharap kalian menjadi di antara setengah ahlu surga". Maka kami bertakbir sekali lagi. Lalu Beliau bersabda: "Tidaklah keberadan kalian di hadapan manusia melainkan bagaikan bulu hitam pada kulit sapi jantan putih atau bagaikan bulu putih yang ada pada kulit sapi jantan hitam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3348</td></tr><tr><td>Arabic No</td><td>3348</td></tr><tr><td>Reference</td><td>Book 60 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал:\n— (Однажды) Пророк ﷺ сказал: «(В День воскресения) Аллах скажет: “О Адам!” (Адам) откликнется: “Вот я перед Тобой и готов служить Тебе, а (всё) благо в Твоих руках! /Лаббайка, ва са‘дайка валь-хайру фи йадайка!/” (Аллах) скажет: “Выведи тех, кому суждено оказаться в огне!” (Адам) спросит: “А сколько их?” (Аллах) скажет: “(Выведи) девятьсот девяносто девять из каждой тысячи”, и после этого поседеют малые (дети), и каждая беременная сложит свою ношу, и увидишь ты людей (будто) пьяными, хотя пьяными они не будут, но суровым будет наказание Аллаха!”» (Люди) спросили: «О посланник Аллах, а кто из нас будет тем единственным(, кто спасётся от огня)?» (На это Пророк ﷺ) ответил: «Радуйтесь, ибо один будет из вас, а тысяча — из (народов) Йаджудж и Маджудж!» — после чего сказал: «Клянусь Тем, в Чьей длани душа моя, поистине, я надеюсь, что вы составите собой четверть обитателей Рая!» — и мы воскликнули: «Аллах велик!» Потом (Пророк ﷺ) сказал: «Я надеюсь, что вы составите собой треть обитателей Рая!» — и мы воскликнули: «Аллах велик!» Потом (Пророк ﷺ) сказал: «Я надеюсь, что вы составите собой половину обитателей Рая!» — и мы воскликнули: «Аллах велик!» А потом (Пророк ﷺ) сказал: «Но по сравнению с другими людьми вы подобны всего лишь чёрному волоску на шкуре белого быка или белому волоску на шкуре чёрного быка»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3348</td></tr><tr><td>Arabic No</td><td>3348</td></tr><tr><td>Reference</td><td>Book 60 Hadith 23</td></tr></tbody></table></div>
 

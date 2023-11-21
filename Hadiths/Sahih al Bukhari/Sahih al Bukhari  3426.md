@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "My example and the example o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] telah bercerita kepada kami [Abu Az Zanad] dari ['Abdurrahman] yang bercerita kepadanya bahwa dia mendengar dari [Abu Hurairah radliallahu 'anhu] yang mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaanku di hadapan manusia bagaikan seseorang yang menyalakan api lalu kupu-kupu dan hewan-hewan ini masuk ke dalam api tersebut". Dan Beliau juga bersabda: "Ada dua orang wanita dengan bayinya masing-masing lalu datang serigala membawa kabur salah satu dari bayi itu. Maka salah seorang dari wanita itu berkata; "Yang dibawa kabur serigala itu adalah anakmu". Dan wanita lainnya berkata; "Justru anakmu yang dibawa kabur serigala itu". Akhirnya keduanya meminta keputusan kepada Nabi Daud 'Alaihissalam lalu Nabi Daud memutuskan bahwa bayi yang ada itu milik wanita yang lebih tua. Namun keduanya pergi menemui Nabi Sulaiman bin Daud 'alahimassalam dan menceritakan peristiwa yang telah terjadi kepadanya. Maka Sulaiman berkata: "Berikan pisau agar aku potong bayi ini menjadi dua". Wanita yang lebih muda berkata; "Jangan kamu lakukan. Semoga Allah merahmatimu, anak itu miliknya". Maka akhirnya Nabi Sulaiman memutuskan bahwa bayi itu milik wanita yang lebih muda". Abu Hurairah radliallahu 'anhu berkata; "Demi Allah, aku belum pernah mendengar tentang "sikkin" (pisau) dalam kisah ini kecuali hari ini dan kami tidak pernah mengatakannya kecuali al-Mudyah (golok)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3426</td></tr><tr><td>Arabic No</td><td>3426</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что он слышал, как Посланник Аллаха ﷺ сказал: «(Для того, чтобы пояснить то,) что касается меня и людей, (можно) привести в пример человека, который разжёг огонь, куда стали падать бабочки и (другие насекомые)»”. (Пророк ﷺ также) сказал: «Были две женщины, с каждой из которых находился её сын. (Вдруг) прибежал волк, который унёс сына одной из них, и тогда её подруга сказала: “Он унёс твоего сына!” — другая же сказала: “Это твоего сына он унёс!” — и они обратились на суд к Дауду, который решил(, что ребёнка следует отдать) старшей. После этого они пошли к Суляйману, сыну Дауда, рассказали ему (обо всём) и он сказал: “Принесите мне нож, и я разделю его между ними!” Услышав его слова,) младшая воскликнула: “Не делай этого, да помилует тебя Аллах, это её сын!” — и он решил (отдать ребёнка) младшей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3426</td></tr><tr><td>Arabic No</td><td>3426</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

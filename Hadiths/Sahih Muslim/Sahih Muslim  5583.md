@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that a woman said:Allah's Messenger, may I say to my (co-wife) t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdillah bin Numair]; Telah menceritakan kepada kami [Waki'] dan ['Abdah] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] bahwa ada seorang perempuan berkata; "Ya Rasulullah aku adakalanya menyebarkan isu 'Sesungguhnya suamiku memberiku demikian-demikian, padahal apa yang aku katakan hanyalah bualan belaka, tanggapan anda? Rasulullah shallallahu 'alaihi wasallam menjawab: 'Orang yang menampak-nampakkan kepuasan dengan sesuatu yang sebenarnya tidak diberikan kepadanya, sama artinya dengan memakai dua helai baju palsu (penuh dosa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5583</td></tr><tr><td>Arabic No</td><td>2129</td></tr><tr><td>Reference</td><td>Book 37 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5583</td></tr><tr><td>Arabic No</td><td>2129</td></tr><tr><td>Reference</td><td>Book 37 Hadith 191</td></tr></tbody></table></div>
 

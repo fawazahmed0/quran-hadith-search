@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Khabbâb (que Dieu l'agrée), Qays Ibn 'Abî Hâzim a dit : Nous rendî
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami ['Abdullah bin Idris] dari [Isma'il bin Abu Khalid] dari [Qais bin Abu Hazim] dia berkata; Aku pernah menemui [Khabbab], yang pada waktu itu ia telah mengobati perutnya dengan besi panas sebanyak tujuh kali. Dia berkata; "Andai kata Rasulullah shallallahu 'alaihi wasallam (tidak melarang kita berdo'a untuk mati, niscaya aku berdo'a untuk mati." Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Sufyan bin 'Uyainah] dan [Jarir bin 'Abdul Hamid] dan [Waki'] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] dan [Yahya bin Habib] mereka berkata; telah menceritakan kepada kami [Mu'tamir] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abu Usamah] semuanya dari [Isma'il] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6817</td></tr><tr><td>Arabic No</td><td>2681.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6817</td></tr><tr><td>Arabic No</td><td>2681.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 13</td></tr></tbody></table></div>
 

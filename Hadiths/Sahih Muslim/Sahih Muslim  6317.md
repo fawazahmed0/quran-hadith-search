@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) went to Umm Aiman and I went along wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al A'laa]; Telah menceritakan kepada kami [Abu Usamah] dari [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Anas] ia berkata: Rasulullah shallallahu 'alaihi wasallam pernah pergi ke rumah Ummu Aiman, dan aku pergi bersama beliau. Lalu Ummu Aiman memberikan kepada beliau sebuah bejana yang di dalamnya terdapat air minum. Ia berkata; Aku tidak tahu, apakah Ummu Aiman memberinya bertepatan pada sa'at beliau berpuasa atau memang beliau tidak menginginkannya. Lalu Ummu Aiman pun mengomel dan marah-marah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6317</td></tr><tr><td>Arabic No</td><td>2453</td></tr><tr><td>Reference</td><td>Book 44 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6317</td></tr><tr><td>Arabic No</td><td>2453</td></tr><tr><td>Reference</td><td>Book 44 Hadith 147</td></tr></tbody></table></div>
 

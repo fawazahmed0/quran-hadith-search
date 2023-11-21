@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ See translation for hadith 484 above
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>490</td></tr><tr><td>Arabic No</td><td>490</td></tr><tr><td>Reference</td><td>Book 8 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И ‘Абдуллах (ибн ‘Умар) рассказывал, что Пророк ﷺ останавливался в нижней части Марр аз-Захрана на пути из Мекки в Медину. Когда путник выходит из Сафрават, он оказывается как раз в этом месте, расположенном слева от дороги, если идти в сторону Мекки, а расстояние между дорогой и тем местом, где останавливался Посланник Аллаха ﷺ не превышает дальности полёта брошенного рукой камня
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>490</td></tr><tr><td>Arabic No</td><td>490</td></tr><tr><td>Reference</td><td>Book 8 Hadith 137</td></tr></tbody></table></div>
 

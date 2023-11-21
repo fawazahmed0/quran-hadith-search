@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ata:I heard Jabir bin 'Abdullah in a gathering saying, "We, the compani
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makki bin Ibrahim] dari [Ibn Juraij], ['Atha'] berkata, [Jabir] berkata, Abu Abdullah berkata, [Muhammad bin bakar Al Bursani] berkata, telah menceritakan kepada kami [Ibn Juraij] berkata, telah mengabarkan kepadaku ['Atha'] aku mendengar [Jabir bin Abdullah] di tengah-tenghah manusia yang bersamanya berkata, 'Kami para sahabat Rasulullah Shallallahu'alaihiwasallam bertalbiyah dan berniyat haji semata tanpa disertai Umrah.' Kata 'Atha, "Jabir berkata, "Lantas Nabi shallallahu 'alaihi wasallam tiba pada waktu subuh hari keempat bulan Dzulhijjah, tatkala kami tiba, Rasulullah Shallallahu'alaihiwasallam memerintahkan kami untuk bertahallul. Beliau sabdakan: 'Bertahallullah kalian, dan gilirlah isteri-isteri kalian! 'Atha berkata, "Jabir berkata, "Nabi tidak mewajibkan atas mereka, hanya menghalalkan isteri-isteri itu untuk dikumpuli, kemudian Jabir pun mengabarkannya. Kami katakan, ketika itu jarak antara kami dan Arafah selain hanya lima, dan beliau perintahkan kami untuk bertahallul hingga isteri-isteri kami, lantas kami datangi Arafah sedang kemaluan kami meneteskan madzi.' Kata 'Atha, "Jabir berkata, 'Demikian' sambil ia gerakkan tangannya. Lantas Rasulullah Shallallahu'alaihiwasallam berdiri dan bersabda: 'Kalian tahu bahwa aku adalah orang yang paling bertakwa diantara kalian dan paling jujur, paling baik, kalaulah bukan karena hewan sembelihanku, niscaya aku telah bertahallul sebagaimana kalian lakukan, maka bertahallullah kalian, kalaulah aku bisa mengulang kembali kejadian yang telah lewat, niscaya aku tidak membawa sembelihan.' Kami pun bertahallul, mendengar dan taat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7367</td></tr><tr><td>Arabic No</td><td>7367</td></tr><tr><td>Reference</td><td>Book 96 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ата слышал, как Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, находясь в кругу людей сказал: «Мы, сподвижники Посланника Аллаха ﷺ объявили о намерение совершить один только хадж, не объединяя с умрой».\n‘Ата сообщил, что Джабир сказал: «И Пророк ﷺ прибыл (в Мекку) утром по прошествии четырёх дней с начала месяца зуль-хиджжа. И когда мы прибыли, Пророк ﷺ велел нам снять ихрам и сказал: “Выйдите из состояния ихрама и вступайте в интимные отношения с жёнами”».\n‘Ата сообщил, что Джабир сказал: «И он не требовал от них сделать это, а только дозволил для них жён. И до (Пророка ﷺ) дошло, что мы говорили: “Когда до дня стояния на ‘Арафате оставалось всего пять ночей, Пророк ﷺ повелел нам освободиться для наших жён. Поэтому, когда мы прибыли на ‘Арафат, с наших половых органов капало семя”». (‘Ата) сказал: «Джабир указывал своей рукой таким образом, и при этом жестикулировал рукой». Джабир сказал: «Затем Посланник Аллаха ﷺ встал и сказал: “Вам ведь ведомо, что я самый богобоязненный, правдивый и благочестивый из вас. Если бы у меня не было с собой жертвенного животного, то я вышел бы из состояния ихрама так же, как и вы, поэтому выходите из состояния ихрама. И если бы я мог повернуть время вспять, я не стал бы гнать с собой жертвенный скот”. И мы вышли из состояния ихрама, услышали и подчинились
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7367</td></tr><tr><td>Arabic No</td><td>7367</td></tr><tr><td>Reference</td><td>Book 96 Hadith 94</td></tr></tbody></table></div>
 

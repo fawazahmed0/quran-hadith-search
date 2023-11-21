@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:Whoever takes bath 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Sumayy] dari [Abu Shalih As-Samman] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang mandi pada hari Jum'at sebagaimana mandi junub kemudian dia pergi ke masjid pada awal waktu, maka dia mendapat ganjaran seperti pahala berkurban satu ekor unta. Barangsiapa berangkat ke masjid pada saat yang kedua, maka dia mendapat ganjaran seperti pahala berkurban seekor sapi. Barangsiapa yang berangkat masjid pada saat yang ketiga, maka dia mendapat ganjaran seperti pahala berkurban seekor kambing jantan. Barangsiapa yang berangkat ke masjid pada saat yang keempat, maka dia mendapat ganjaran seperti pahala berkurban seekor ayam. Dan barangsiapa yang berangkat ke masjid pada saat yang kelima, maka dia mendapat ganjaran seperti berkurban sebutir telur. Apabila imam telah datang (untuk menyampaikan khuthah) maka para malaikat juga turut hadir untuk mendengarkan khutbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (881) Sahih Muslim (850)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>351</td></tr><tr><td>Arabic No</td><td>351</td></tr><tr><td>Reference</td><td>Book 1 Hadith 351</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «Тот, кто искупается в пятницу из-за осквернения /джанаба/, а затем отправится (в мечеть), то он подобен тому, кто принес в жертву верблюда. Тот, кто отправится во втором часу, подобен тому, кто принес в жертву корову. Тот, кто отправится в третьем часу, подобен тому, кто принес в жертву рогатого барана. Тот, кто отправится в четвертом часу, подобен тому, кто принес в жертву курицу. Тот, кто отправится в пятом часу, подобен тому, кто принес в жертву яйцо. А когда выходит имам, приходят ангелы, чтобы послушать поминание (Аллаха) /зикр/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (881) Sahih Muslim (850)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>351</td></tr><tr><td>Arabic No</td><td>351</td></tr><tr><td>Reference</td><td>Book 1 Hadith 351</td></tr></tbody></table></div>
 

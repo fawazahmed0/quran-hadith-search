@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ IA'isha (Allah be pleased with her) reported Allah's Messenger (ﷺ) as saying:F
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] dan [Harmalah] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wab] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Urwah bin Zubair] dari [Aisyah] radliallahu 'anha, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada lima jenis binatang yang berbahaya, semuanya boleh dibunuh di tanah haram, yaitu; Gagak, elang, anjing gila, kalajengking dan tikus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2867</td></tr><tr><td>Arabic No</td><td>1198.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2867</td></tr><tr><td>Arabic No</td><td>1198.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 77</td></tr></tbody></table></div>
 

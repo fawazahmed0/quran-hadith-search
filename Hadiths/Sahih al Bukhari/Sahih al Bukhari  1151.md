@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: A woman from the tribe of Bani Asad was sitting with me and All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah radliallahu 'anhu] berkata: "Suatu hari seorang wanita dari Bani Asad bersamaku saat Rasulullah shallallahu 'alaihi wasallam mendatangiku. Lalu Beliau bertanya: "Siapa dia?" Aku jawab: "Si anu, orang yang tidak tidur di waktu malam". Lantas diberitakan kepada Beliau tentang shalat wanita tersebut. Kemudian Beliau shallallahu 'alaihi wasallam bersabda: "Celakalah kalian, mengapa kalian memaksakan amalan yang kalian tidak mampu? Sungguh Allah tidak bosan (memberi ganjaran) hingga kalian merasa bosan sendiri (jika terlalu memaksakan diri)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1151</td></tr><tr><td>Arabic No</td><td>1151</td></tr><tr><td>Reference</td><td>Book 19 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды когда у меня дома находилась женщина из бану асад, ко мне зашел Посланник Аллаха ﷺ и спросил: “Кто это?” Я ответила: “Такая-то, она не спит по ночам”. И стала рассказывать о том, как она молится. Тогда Пророк ﷺ сказал: “Прекрати! Вы должны делать лишь то, что вам по силам! Поистине, Аллах не утомится, пока сами вы не утомитесь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1151</td></tr><tr><td>Arabic No</td><td>1151</td></tr><tr><td>Reference</td><td>Book 19 Hadith 32</td></tr></tbody></table></div>
 

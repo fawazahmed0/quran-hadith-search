@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Two ladies (had a fight) and one of them hit the other with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] dari [Malik] dari [Ibnu Syihab] dari [Abu Salamah] dari [Abu Hurairah] radliallahu 'anhu bahwa salah seorang dari dua orang wanita melempar lawannya dengan batu hingga menyebabkan janinnya gugur, lalu Nabi shallallahu 'alaihi wasallam memutuskan untuk membayar diyat janin dengan seorang budak baik laki-laki maupun perempuan." Dan dari [Ibnu Syihab] dari [Sa'id bin Musayyab] bahwa Rasulullah shallallahu 'alaihi wasallam pernah memutuskan mengenai janin yang terbunuh di perut ibunya dengan (membayar diyat) seorang hamba sahaya baik laki-laki maupun perempuan. Lantas orang yang diputusi hukuman berkata; "Bagaimana saya harus menanggung orang yang belum bisa makan dan minum, bahkan belum bisa berbicara ataupun menjerit sama sekali?, tidakkah hal itu dapat dikatagorikan sebagai kecelakaan yang tidak dapat di hindari?" maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya perkara itu seperti perkara paranormal (yang membacakan mantera-mantera)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5759</td></tr><tr><td>Arabic No</td><td>5759</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что (в своё время) одна женщина бросила в другую камень, в следствие чего умер ребёнок, (которым она была беременна). И Пророк ﷺ вынес решение, что (в качестве компенсации пострадавшей) должны дать раба или рабыню
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5759</td></tr><tr><td>Arabic No</td><td>5759</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

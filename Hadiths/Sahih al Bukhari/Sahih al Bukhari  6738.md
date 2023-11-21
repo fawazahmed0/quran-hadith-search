@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The person about whom Allah's Messenger (ﷺ) said, "If I we
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Ayyub] dari [Ikrimah] dari [Ibnu 'Abbas] mengatakan; yang disabdakan Rasulullah Shallallahu'alaihiwasallam ialah; "kalaulah aku mengambil seseorang dari umat ini untuk menjadi kekasih niscaya aku mengambilnya, namun persaudaraan Islam lebih utama -atau beliau bersabda: - lebih baik, " kemudian beliau menempatkannya sebagai ayah atau memutuskannya sebagai ayah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6738</td></tr><tr><td>Arabic No</td><td>6738</td></tr><tr><td>Reference</td><td>Book 85 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Что касается того, о ком Посланник Аллаха ﷺ сказал: “Если бы мне пришлось выбирать любимца /халиля/ из числа (членов) моей общины, я непременно выбрал бы его (Абу Бакра), однако (достойнее этого) братство в исламе!” — то он считал, что дед находится в положении отца (в вопросах наследства)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6738</td></tr><tr><td>Arabic No</td><td>6738</td></tr><tr><td>Reference</td><td>Book 85 Hadith 15</td></tr></tbody></table></div>
 

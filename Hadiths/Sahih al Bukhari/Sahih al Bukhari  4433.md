@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) called Fatima during his fatal illness and tol
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yasarah bin Shafwan bin Jamil Al Lakhmi] Telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Bapaknya] dari [Urwah] dari [Aisyah radliallahu 'anha] dia berkata; "Ketika Rasulullah sakit yang menyebabkan beliau meninggal, beliau memanggil Fathimah. Beliau membisikinya dan ia pun menangis, lalu beliau membisikinya dan ia pun tersenyum. Aisyah berkata; "Saya bertanya kepada Fathimah; 'Apa yang dibisikkan oleh Rasulullah shalallahu'alaihi wa sallam kepadamu. ia menjawab; "Beliau berbisik kepadaku dan memberitahuku perihal kematiannya, aku pun menangis. Kemudian beliau berbisik kepadaku dan memberitahuku bahwa saya adalah orang yang pertama kali mengikutinya dari keluarganya maka aku pun tersenyum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4433</td></tr><tr><td>Arabic No</td><td>4433</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Заболев той болезнью, от которой он умер, Пророк ﷺ позвал к себе Фатиму, мир ей, и что-то сказал ей по секрету, после чего она заплакала, а потом он снова позвал ее и (снова) что-то сказал по секрету, и она засмеялась. (Потом) мы спросили ее о (причине) этого, и она сказала: “(Сначала) Пророк ﷺ сказал мне, что он умрет от той болезни, от которой он скончался, и я заплакала, а потом он сказал мне, что я стану первой из членов его семьи, которые последуют за ним, и я засмеялась”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4433</td></tr><tr><td>Arabic No</td><td>4433</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

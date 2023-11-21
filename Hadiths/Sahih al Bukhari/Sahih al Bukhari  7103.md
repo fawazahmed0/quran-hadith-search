@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:Abu Musa and Abii Mas'ud went to 'Ammar when 'Ali had sent him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Badal bin Al Muhabbar] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepada kami ['Amru] aku mendengar [Abu Wa'il] mengatakan; [Abu Musa] dan [Abu Mas'ud] menemui ['Ammar] ketika ia diutus Ali ke Kufah untuk mengajak masyarakat Kufah ikut dalam barisannya, lantas keduanya mengatakan kepada Ammar; 'Kami belum pernah melihatmu melakukan sesuatu yang lebih kami benci daripada kesegeraanmu dalam masalah ini semenjak kamu masuk Islam.' 'Ammar lantas menjawab; 'Dan Saya belum pernah melihat kamu berdua melakukan sesuatu yang lebih saya benci daripada keterlambatan kalian mengikuti urusan ini, ' lantas Ammar memberi keduanya masing-masing satu pakaian, kemudian mereka bertiga pergi ke masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7103</td></tr><tr><td>Arabic No</td><td>7103</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Ваиль (Шакик ибн Саляма) сказал: «Когда ‘Али отправил ‘Аммара (ибн Ясира) к жителям Куфы, чтобы призвать людей (сражаться на стороне ‘Али), к ‘Аммару пришли Абу Муса (аль-Аш‘ари) и Абу Мас‘уд (аль-Бадри) и сказали: “С тех самых пор, как ты принял Ислам, мы не видели от тебя ничего столь порицаемого, как твоя поспешность в этом деле!“ А ‘Аммар ответил: “С тех самых пор, как вы приняли Ислам, я не видели от вас ничего столь неприятного для меня, чем ваше неучастие в этом деле!“ Затем (Абу Мас‘уд аль-Бадри) облачил их в одеяния, после чего они отправились в мечеть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7103</td></tr><tr><td>Arabic No</td><td>7103</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

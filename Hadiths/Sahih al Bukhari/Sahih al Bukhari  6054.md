@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A man asked permission to enter upon Allah's Messenger (ﷺ). Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Al Fadl] telah mengabarkan kepada kami [Ibnu 'Uyainah] saya mendengar [Ibnu Al Munkadir] dia mendengar ['Urwah bin Az Zubair] bahwa [Aisyah] radliallahu 'anha pernah mengabarkan kepadanya, katanya: "Seorang laki-laki meminta izin kepada nabi Shallalahu 'alaihi wa sallam, beliau lalu bersabda: "Izinkanlah dia masuk, amat buruklah saudara 'Asyirah (maksudnya kabilah) ini atau amat buruklah Ibnul Asyirah (maksudnya kabilah) ini." Ketika orang itu duduk, beliau berbicara kepadanya dengan suara yang lembut, lalu aku bertanya; "Wahai Rasulullah, anda berkata seperti ini dan ini, namun setelah itu anda berbicara dengannya dengan suara yang lembut, Maka beliau bersabda: "Wahai 'A'isyah, sesungguhnya seburuk-buruk kedudukan manusia di sisi Allah pada hari kiamat adalah orang yang ditinggalkan oleh manusia karena takut akan kekejiannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6054</td></tr><tr><td>Arabic No</td><td>6054</td></tr><tr><td>Reference</td><td>Book 78 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Как-то раз) один человек попросил у Посланника Аллаха ﷺ разрешения войти и он сказал: “Впустите его, но сколь плох он как брат (или: сын)-соплеменник!” Когда же он вошёл, (Пророк ﷺ) стал с ним говорить мягко. Я сказала: “О Посланник Аллаха, ты сказал то, что сказал, а затем стал с ним разговаривать мягко”. (На это Пророк ﷺ) сказал: “О ‘Аиша, поистине, худшим из людей является тот, кого люди оставляют (или: покидают) опасаясь его неприличия!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6054</td></tr><tr><td>Arabic No</td><td>6054</td></tr><tr><td>Reference</td><td>Book 78 Hadith 84</td></tr></tbody></table></div>
 

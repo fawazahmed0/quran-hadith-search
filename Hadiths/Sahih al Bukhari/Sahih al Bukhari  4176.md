@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Jamra:I asked Aidh bin 'Amr, who was one of the companions of the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4176</td></tr><tr><td>Arabic No</td><td>4176</td></tr><tr><td>Reference</td><td>Book 64 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джамра сказал: «Я спросил ’Аиза ибн ’Амра, который был одним из сподвижников Пророка ﷺ и одним из тех (кто присягнул Пророку ﷺ) под деревом: “Нарушается ли молитва витр (если после неё совершать дополнительные молитвы)?” Он сказал: “Если ты совершил её в первой половине ночи, то не следует повторять её в последней части ночи”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4176</td></tr><tr><td>Arabic No</td><td>4176</td></tr><tr><td>Reference</td><td>Book 64 Hadith 218</td></tr></tbody></table></div>
 

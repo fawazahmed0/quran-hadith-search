@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Zaid b. 'Asim al-Mazini reported:He saw Allah's Messenger (ﷺ) perf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Harun bin Sa'id al-Aili] dan [Abu ath-Thahir] mereka berkata, telah menceritakan kepada kami [Ibnu Wahab] telah mengabarkan kepada kami [Amru bin al-Harits] bahwa [Habban bin Wasi'] telah menceritakan kepadanya, bahwa [bapaknya] menceritakan kepadanya, bahwa dia mendengar [Abdullah bin Zaid bin Ashim al-Mazini] menyebutkan, bahwa dia melihat Rasulullah shallallahu 'alaihi wasallam berwudlu, lalu berkumur-kumur kemudian beristintsar (memasukkan air ke hidung), kemudian membasuh wajahnya tiga kali, tangannya sebelah kanan tiga kali dan yang sebelah kiri tiga kali, lalu mengusap kepalanya dengan air yang bukan sisa air dari tangannya, dan mencuci kedua kakinya hingga membersihkan keduanya." [Abu ath-Thahir] berkata, telah menceritakan kepada kami [Ibnu Wahab] dari [Amru bin al-Harits]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>559</td></tr><tr><td>Arabic No</td><td>236</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллах ибн Зейд ибн ‘Асым аль-Мазини рассказывал о том, что он видел, как совершая омовение, Посланник Аллаха ﷺ прополоснул рот и нос, затем помыл лицо три раза, затем трижды помыл правую и левую руку, и он обтёр свою голову не той водой, что оставалась на его руках, и затем он дочиста помыл ноги»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>559</td></tr><tr><td>Arabic No</td><td>236</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
 

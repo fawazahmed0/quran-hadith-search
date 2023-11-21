@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khansa' bint Khidam Al-Ansariya:That her father gave her in marriage wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] telah menceritakan kepada kami [Malik] dari ['Abdurrahman bin Al Qasim] dari [ayahnya] dari ['Abdurrahman] dan [Mujamma'], dua anak Yazid bin Jariyah Al Anshari, dari [Khansa' binti Khidzam Al Anshariyah]; bahwa ayahnya mengawinkannya -ketika itu ia janda-dengan lak-laki yang tidak disukainya, kemudian dia menemui Nabi shallallahu 'alaihi wasallam dan beliau membatalkan pernikahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6945</td></tr><tr><td>Arabic No</td><td>6945</td></tr><tr><td>Reference</td><td>Book 89 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ханса бинт Хизам аль-Ансарийа рассказала, что когда её отец выдал её замуж после того, как она уже побывала замужем, против её воли, она пришла к Пророку ﷺ, и он расторг этот брак
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6945</td></tr><tr><td>Arabic No</td><td>6945</td></tr><tr><td>Reference</td><td>Book 89 Hadith 6</td></tr></tbody></table></div>
 

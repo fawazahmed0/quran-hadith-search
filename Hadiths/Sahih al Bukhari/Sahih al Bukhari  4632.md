@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid:That he asked Ibn 'Abbas, "Is there a prostration Surat-al-Sa'd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam] bahwa [Ibnu Juraij] mengabarkan kepada mereka seraya berkata; Telah mengabarkan kepadaku [Sulaiman Al Ahwal], [Mujahid] telah mengabarkan kepadanya bahwasanya ia bertanya kepada [Ibnu 'Abbas]; 'Apakah di dalam surat Shaad terdapat ayat sadjah? ' Ibnu Abbas menjawab; 'Ya.' Lalu dia membaca: Dan Kami telah menganugerahkan Ishak dan Yaqub kepadanya…, hingga ayat: Mereka itulah orang-orang yang telah diberi petunjuk oleh Allah, maka ikutilah petunjuk mereka Al An'am: 84-90). Kemudian Ibnu Abbas berkata; 'Daud termasuk dari mereka. [Yazid bin Harun] dan [Muhammad bin 'Ubaid] serta [Sahl bin Yusuf] menambahkan dari [Al Awwam] dari [Mujahid] Aku bertanya kepada [Ibnu 'Abbas], lalu dia menjawab; 'Nabi kalian shallallahu 'alaihi wasallam adalah termasuk orang yang diperintahkan untuk mengikuti mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4632</td></tr><tr><td>Arabic No</td><td>4632</td></tr><tr><td>Reference</td><td>Book 65 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн ‘Аббаса, да будет доволен Аллах ими обоими, спросили: «Следует ли совершать земной поклон(, услышав чтение суры) “Сад”?» — (на что) он ответил: «Да», после чего прочитал (нижеследующие аяты): «И Мы даровали ему Исхака, (а Исхаку — ) Йа‘куба, и всех (их) Мы вели прямым путём, Нуха же Мы вели прямым путём (задолго) до (Ибрахима), а из потомства (Нуха Мы вели прямым путём) Дауда, Суляймана, Аййуба, Йусуфа и Харуна. Так воздаём Мы творящим благое. (И Мы вели прямым путём) Закарийу, Йахйу, ‘Ису и Илйаса — все они из (числа) праведников, а (также) Исма‘ила, аль-Йаса‘а, Йунуса и Лута. Всем (им) Мы отдали предпочтение перед (обитателями) миров и (некоторыми из) их предков, и потомков, и братьев, которых Мы (тоже) избрали и которых вели прямым путём. Таково руководство Аллаха, ведущего прямым путём кого Он желает из рабов Своих. А если станут они поклоняться кому-либо ещё наряду с Ним, все дела их окажутся тщетными. Это — те, кому Мы даровали Писание, мудрость и пророчество, а если они не уверуют, Мы вверим это людям, которые не станут отвергать этого. Они — те, кого Аллах вёл прямым путём, следуй же их руководству», а потом сказал: «Ваш Пророк ﷺ являлся (одним) из тех, кому было велено следовать им»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4632</td></tr><tr><td>Arabic No</td><td>4632</td></tr><tr><td>Reference</td><td>Book 65 Hadith 154</td></tr></tbody></table></div>
 

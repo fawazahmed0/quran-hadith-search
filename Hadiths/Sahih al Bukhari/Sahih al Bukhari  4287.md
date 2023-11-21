@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When the Prophet (ﷺ) entered Mecca on the day of the Conque
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Fadhl] Telah mengabarkan kepada kami [Ibnu 'Uyainah] dari [Ibnu Abu Najih] dari [Mujahid] dari [Abu Ma'mar] dari [Abdullah] radliallahu 'anhu, katanya, Nabi shallallahu 'alaihi wasallam memasuki Makkah pada penaklukan Makkah yang ketika itu di sekitar ka'bah ada tiga ratus enam puluh patung, lantas beliau porak-porandakan dengan sebongkah kayu di tangannya seraya beliau serukan "Sekarang telah datang kebenaran dan kebatilan telah musnah." (QS. Isra'; 81), "Sekarang kebenaran telah datang dan kebatilan tak akan terulang dan kembali lagi." (QS. Saba':)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4287</td></tr><tr><td>Arabic No</td><td>4287</td></tr><tr><td>Reference</td><td>Book 64 Hadith 320</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ вступил в Мекку в день её завоевания, вокруг Каабы находилось триста шестьдесят идолов, и он начал тыкать их палкой, которую держал в руке, говоря: “Пришла истина, и сгинуло ложное...” И он (говорил также): “Пришла истина, а ложное больше не появится и не вернётся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4287</td></tr><tr><td>Arabic No</td><td>4287</td></tr><tr><td>Reference</td><td>Book 64 Hadith 320</td></tr></tbody></table></div>
 

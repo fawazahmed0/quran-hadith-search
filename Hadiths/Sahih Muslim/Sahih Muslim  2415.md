@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported Allah's Messenger (ﷺ) as saying:If the son of Adam were to posse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Sa'id bin Manshur] dan [Qutaibah bin Sa'id] -Yahya berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas bin Malik] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Andai kata manusia itu telah mempunyai harta benda sebanyak dua lembah, mereka masih ingin untuk mendapatkan satu lembah lagi. Tidak ada yang dapat mengisi perutnya sampai penuh melainkan hanya tanah (maut). Dan Allah menerima taubat orang yang telah bertaubat kepada-Nya." Dan telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ibnu Basysyar] -Ibnul Mutsanna- berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah mengabarkan kepada kami [Syu'bah] ia berkata, saya mendengar [Qatadah] menceritakan dari [Anas bin Malik] ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda. Namun saya tidak tahu, apakah hal itu adalah wahyu yang diturunkan kepadanya atau sesuatu dari ungkapan beliau sendiri yang serupa dengan haditsnya Abu 'Awanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2415</td></tr><tr><td>Arabic No</td><td>1048.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что Посланник Аллаха ﷺ сказал: «Если бы у потомка Адама было две долины богатства, он непременно пожелал бы к ним третью. И не наполнит его утробу ничего, кроме земли (могилы), а Аллах принимает покаяние того, кто покается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2415</td></tr><tr><td>Arabic No</td><td>1048.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 152</td></tr></tbody></table></div>
 

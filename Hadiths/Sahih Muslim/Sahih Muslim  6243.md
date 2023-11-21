@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported:I heard Allah's Messenger (ﷺ) exhorting people on t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid]; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdullah] dia berkata; saya pernah mendengar dia berkata; 'Ketika terjadi perang khandak, Rasulullah shallallahu 'alaihi wasallam berseru kepada kaum muslimin untuk mendekat kepada beliau, maka Zubair pun mendekati beliau. Lalu Rasulullah berseru kepada kaum muslimin untuk mendekat, maka Zubair mendekati beliau. Kemudian Rasulullah berseru kepada kaum muslimin untuk mendekat. maka Zubair pun segera mendekati lagi kepada beliau. akhinya Rasulullah bersabda: "Ketahuilah bahwasanya setiap nabi itu mempunyai pembela (penolong) dan pembelaku adalah Zubair." Telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin 'Urwah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib] dan [Ishaq bin Ibrahim] seluruhnya dari [Waki']; Telah menceritakan kepada kami [Sufyan] keduanya dari [Muhammad bin Al Munkadir] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam yang semakna dengan Hadits Ibnu 'Uyainah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6243</td></tr><tr><td>Arabic No</td><td>2415.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6243</td></tr><tr><td>Arabic No</td><td>2415.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 73</td></tr></tbody></table></div>
 

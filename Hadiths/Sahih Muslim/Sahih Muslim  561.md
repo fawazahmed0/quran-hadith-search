@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported:This is what Abu Huraira transmitted to us from Muha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq bin Hammam] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata, ini yang diceritakan kepada kami oleh [Abu Hurairah] dari Muhammad shallallahu 'alaihi wasallam, lalu dia menyebutkan hadits-hadits darinya, Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian berwudlu hendaklah dia menghirup air dengan kedua lubang hidungnya kemudian mengeluarkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>561</td></tr><tr><td>Arabic No</td><td>237.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда кто-либо из вас будет совершать омовение, пусть втягивает воду в ноздри, а потом с силой выпускает её наружу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>561</td></tr><tr><td>Arabic No</td><td>237.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 28</td></tr></tbody></table></div>
 

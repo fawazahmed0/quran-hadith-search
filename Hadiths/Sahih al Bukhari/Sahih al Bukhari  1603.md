@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim that his father said:I saw Allah's Messenger (ﷺ) arriving at Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashbagh bin Al Faraj] telah mengabarkan kepada saya [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] dari [Salim] dari [bapaknya] radliallahu 'anhu berkata,: "Aku melihat Rasulullah Shallallahu'alaihiwasallam tatkala datang ke Makkah (melaksanakan haji atau 'umrah) bila menyentuh sudut Al Hajar Al Aswad ketika melaksanakan thawaf qudum, Beliau berlari-lari kecil pada tiga kali putaran dari tujuh putaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 25 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я видел, что, когда Посланник Аллаха ﷺ приезжал в Мекку, в начале обхода он прикасался к Чёрному камню, (после чего) проходил быстрым шагом (первые) три круга из семи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 25 Hadith 89</td></tr></tbody></table></div>
 

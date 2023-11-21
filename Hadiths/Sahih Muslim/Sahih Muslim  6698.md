@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) said to a woman of the Ansar:I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Muhammad dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda kepada para wanita Anshar: "Tidaklah salah seorang dari kalian ditinggal mati oleh tiga orang anaknya, lalu ia sabar dan mengharap pahala dari Allah, kecuali pasti ia akan masuk surga." Lalu berkatalah seorang wanita dari mereka; "Bagimana jika dua orang saja?" Rasulullah bersabda: "Meskipun dua orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6698</td></tr><tr><td>Arabic No</td><td>2632.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал женщинам из числа ансаров: «Любая из вас, у которой умрут трое детей и которая станет проявлять терпение в надежде на награду Аллаха, непременно войдёт в Рай». Одна из этих женщин спросила: «А если (умрут) двое, о Посланник Аллаха?» и (Пророк ﷺ) сказал: «(И если умрут) двое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6698</td></tr><tr><td>Arabic No</td><td>2632.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 195</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Masruq reported:I asked 'A'isha if Muhammad (ﷺ) had seen his Lord. She replied
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>177.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 346</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Масрук рассказывал: «Однажды я спросил ‘Аишу: “Видел ли Мухаммад ﷺ с своего Господа?” Она ответила: “Свят Аллах /Субхан Аллах/! От твоего вопроса у меня волосы встали дыбом…”». Далее подобно предыдущим хадисам
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>177.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 346</td></tr></tbody></table></div>
 

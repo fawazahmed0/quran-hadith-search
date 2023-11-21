@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (Allah be pleased with him) reported that Allah's Apostle (ﷺ) had nine wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Syababah bin Sawwar] telah menceritakan kepada kami [Sulaiman bin Mughirah] dari [Tsabit] dari [Anas] dia berkata; Nabi shallallahu 'alaihi wasallam memiliki sembilan istri, jika beliau menggilir mereka, beliau tidak kembali ke istri pertamanya kecuali setelah hari ke sembilan, biasanya mereka berkumpul setiap malam di rumah istri yang sedang beliau datangi. Ketika beliau sedang di giliran Aisyah, datanglah Zainab, lalu beliau mengulurkan tangan kepadanya, lantas Aisyah berkata; Ini Zainab! Karena itu Nabi shallallahu 'alaihi wasallam manarik tangannya, maka terjadilah adu mulut antara keduanya, padahal iqamat telah dikumandangkan, kebetulan Abu Bakar lewat dan mendengar suara keduanya (sedang adu mulut), dia berkata; Wahai Rasulullah, keluarlah (untuk Shalat), dan tutuplah mulut mereka dengan tanah! Lantas Nabi shallallahu 'alaihi wasallam keluar, Aisyah berkata; Sekarang, setelah Nabi shallallahu 'alaihi wasallam selesai mengerjakan shalat, tentu Abu Bakar akan datang dan memarahiku. Betul saja, tatkala Nabi shallallahu 'alaihi wasallam selesai mengerjakan shalat, Abu Bakar mendatangi (Aisyah), dan berkata kepadanya dengan nada yang keras sambil berkata; Biginikah perbuatanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3628</td></tr><tr><td>Arabic No</td><td>1462</td></tr><tr><td>Reference</td><td>Book 17 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3628</td></tr><tr><td>Arabic No</td><td>1462</td></tr><tr><td>Reference</td><td>Book 17 Hadith 61</td></tr></tbody></table></div>
 

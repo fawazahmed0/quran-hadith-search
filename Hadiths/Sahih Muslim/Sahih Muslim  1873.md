@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uqba b. 'Amir reported:When we were in Suffa, the Messenger of Allah (ﷺ) came 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Al Fadlu bin Dukain] dari [Musa bin Ulay] ia berkata, saya mendengar [bapakku] menceritakan dari [Uqbah bin Amir] ia berkata; Rasulullah shallallahu 'alaihi wasallam keluar sementara kami sedang berada di Shuffah (tempat berteduhnya para Fuqara dari kalangan muhajirin), kemudian beliau bertanya: "Siapakah di antara kalian yang suka pergi ke Buthhan atau ke Aqiq, lalu ia pulang dengan membawa dua ekor unta yang gemuk-gemuk dengan tanpa membawa dosa dan tidak pula memutuskan silaturahmi?" Maka kami pun menjawab, "Kami semua menyukai hal itu." beliau melanjutkan sabdanya: "Sungguh, salah seorang dari kalian pergi ke masjid lalu ia mempelajari atau membaca dua ayat dari kitabullah 'azza wajalla adalah lebih baik baginya daripada dua unta. Tiga (ayat) lebih baik dari tiga ekot unta, empat ayat lebih baik daripada empat ekor unta. Dan berapa pun jumlah unta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1873</td></tr><tr><td>Arabic No</td><td>803</td></tr><tr><td>Reference</td><td>Book 6 Hadith 301</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укъба ибн ‘Амир сказал: «(Однажды), когда мы находились в ас-Суффе, Посланник Аллаха ﷺ вышел (из дома) и спро­сил (людей): “Кто из вас хочет каждый день отправляться утром в (вади) Бутхан или (вади) аль-‘Акъикъи приводить оттуда по две верблюдицы с ог­ромными горбами, (для чего не понадобится) ни (совершать ничего) грехо­вного, ни порывать связи с родственниками?” Мы сказали: “О Посланник Аллаха, все мы хотим этого”. (Тогда Пророк ﷺ) сказал: “Так не ходить ли каждому из вас по утрам в мечеть, (где человек может) изучать (или: читать) по два аята из Книги Великого и Всемогущего Аллаха, что для него будет лучше двух вер­блюдиц? И три будут лучше трёх, четыре четырёх, и (любое) их коли­чество (будет лучше такого же количества) верблюдиц”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1873</td></tr><tr><td>Arabic No</td><td>803</td></tr><tr><td>Reference</td><td>Book 6 Hadith 301</td></tr></tbody></table></div>
 

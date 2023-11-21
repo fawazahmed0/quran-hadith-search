@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mu'awiya said:Be cautious about ahadith except those which were current during t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Zaid bin Al Hubab] telah mengabarkan kepadaku [Mu'awiyah bin Shalih] telah menceritakan kepadaku [Rabi'ah bin Yazid Ad Dimasyqi] dari [Abdullah bin Amir Al Yahshabi] ia berkata, saya mendengar [Mu'awiyah] berkata; Hati-hatilah kalian dari hadits-hadits (palsu), kecuali hadits-hadits pada masa Umar bin Al Khaththab. Sesungguhnya Umar sangat ditakuti orang mengenai hukum-hukum Allah. Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang dikehendaki Allah menjadi baik, maka akan dipahamkan-Nya dengan kepahaman yang dalam tentang agama." Dan saya juga mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku ini adalah seorang bendahara. Maka siapa yang kuberi sedekah dan diterimanya dengan hati yang bersih, maka dia akan beroleh berkah dari harta itu. Tetapi siapa yang kuberi karena meminta-minta dan rakus, maka dia seperti orang yang makan yang tak pernah kenyang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2389</td></tr><tr><td>Arabic No</td><td>1037.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Му‘авии, что Посланник Аллаха ﷺ сказал: «Поистине, я лишь хранитель. Если я даю (что-либо) кому-то от чистого сердца, то в этом ему будет дарована благодать. Но если я даю (что-либо) кому-то после (его) просьб и алчного стремления, то он будет подобен тому, кто ест, но не насыщается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2389</td></tr><tr><td>Arabic No</td><td>1037.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 126</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) halted on the day of sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muammal bin Al Fadhl], telah menceritakan kepada Kami [Al Walid], telah menceritakan kepada Kami [Hisyam yaitu Ibnu Al Ghaz], telah menceritakan kepada Kami [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallAllahu wa'alaihi wa sallam berdiri pada hari Nahr (penyembelihan) diantara jumrah-jumrah pada waktu beliau berhaji, lalu berkata: hari apakah ini? Mereka menjawab; Hari Nahr! Beliau berkata: "Ini adalah hari haji akbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1945</td></tr><tr><td>Arabic No</td><td>1945</td></tr><tr><td>Reference</td><td>Book 11 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ стоял между столбами, в которые нужно бросать камешки, в том хадже, который он совершил, и сказал: «Какой сегодня день?» Ему ответили: «День жертвоприношения». Тогда он сказал: «Это день великого хаджа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1945</td></tr><tr><td>Arabic No</td><td>1945</td></tr><tr><td>Reference</td><td>Book 11 Hadith 225</td></tr></tbody></table></div>
 

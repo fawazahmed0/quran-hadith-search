@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ AI-Qasim narrated from the Mother of the Believers (Hadrat 'A'isha) that she sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Ibnu Ulayyah] dari [Ibnu Aun] dari [Ibrahim] dari [Al Aswad] dari [Ummul mukminin] -dalam riwayat lain- dan dari [Al Qasim] dari [Ummul mukminin] ia berkata; Saya berkata, "Wahai Rasulullah, orang-orang menunaikan dua nusuk sementara saya hanya satu nusuk." Beliau bersabda: "Jika kamu telah suci, maka keluarlah ke Tan'im dan berihramlah (untuk umrah), kemudian temuilah kami di tempat ini dan ini -saya menduga bahwa beliau mengatakan- esok hari, tetapi hendaklah sesuai dengan bagianmu -atau beliau berkata- nafkahmu." Dan Telah meceritakan kepada kami [Ibnul Mutsanna] Telah menceritakan kepada kami [Ibnu Adi] dari [Ibnu Aun] dari [Al Qasim] dan [Ibrahim] ia berkata; -saya tidak dapat membedakan hadits salah satu dari keduanya daripada yang lain- bahwa [Ummul Mukminin] radliallahu 'anha berkata; "Wahai Rasulullah, orang-orang menunaikan dua nusuk,.." Ia pun menyebutkan hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2927</td></tr><tr><td>Arabic No</td><td>1211.18</td></tr><tr><td>Reference</td><td>Book 15 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2927</td></tr><tr><td>Arabic No</td><td>1211.18</td></tr><tr><td>Reference</td><td>Book 15 Hadith 136</td></tr></tbody></table></div>
 

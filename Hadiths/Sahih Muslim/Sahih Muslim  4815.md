@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of 'Abdullah b. Abu Aufa who said:The Comp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari ['Amru] -yaitu Ibnu Murrah- telah menceritakan kepadaku [Abdullah bin Abu Aufa] dia berkata, "Sahabat yang menyaksikan bai'at di bawah pohon berjumlah seribu tiga ratus orang, dan suku Aslam (jumlahnya) seperdelapan kaum muhajirin." Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Abu Daud]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [An Nadlr bin Syumail] semuanya dari [Syu'bah] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4815</td></tr><tr><td>Arabic No</td><td>1857.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4815</td></tr><tr><td>Arabic No</td><td>1857.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 112</td></tr></tbody></table></div>
 

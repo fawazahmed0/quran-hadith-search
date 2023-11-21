@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Abou Qatâda (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédiction
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Zaidah] katanya; telah menceritakan kepadaku ['Amru bin Yahya Al Anshari] telah menceritakan kepadaku [Muhammad bin Yahya bin Habban] dari ['Amru bin Sulaim bin Khaldah Al Anshari] dari [Abu Qatadah] -salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam- katanya; "Aku masuk masjid ketika Rasulullah shallallahu 'alaihi wasallam duduk ditengah kerumuan para sahabat. Abu Qatadah melanjutkan; "Maka aku langsung duduk. Ketika melihatku, Rasulullah shallallahu 'alaihi wasallam bersabda; "Apa yang menghalangimu untuk melakukan dua rakaat sebelum duduk?" Aku berkata; "Wahai Rasulullah, aku melihat engkau telah duduk dan orang-orang juga duduk. Beliau bersabda: "Jika salah sorang diantara kalian masuk masjid, janganlah ia duduk hingga melakukan dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1655</td></tr><tr><td>Arabic No</td><td>714.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Катада сказал: «(Однажды) я вошёл в мечеть, где среди людей сидел Посланник Аллаха ﷺ. Я (тоже) сел, а Посланник Аллаха ﷺ спросил (меня): “Что помешало тебе совершить молитву в два рак‘ата, прежде чем сесть?” Я сказал: “О Посланник Аллаха, я увидел, что ты сидишь, и (все) люди сидят (вокруг тебя)”. Тогда он сказал: “Когда кто-нибудь из вас войдёт в мечеть, пусть не садится, пока не совершит молитву в два рак‘ата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1655</td></tr><tr><td>Arabic No</td><td>714.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 85</td></tr></tbody></table></div>
 

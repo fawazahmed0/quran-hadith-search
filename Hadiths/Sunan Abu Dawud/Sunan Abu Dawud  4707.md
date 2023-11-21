@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said :Ubayy b. Ka’b told me that the Messenger of Allah (May peac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran Ar Razi] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru] dari [Sa'id bin Jubair] ia berkata; [Ibnu Abbas] berkata; telah menceritakan kepadaku [Ubay bin Ka'b] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Khidhir melihat seorang anak kecil yang sedang bermain dengan anak-anak yang lainnya, lalu ia memegang kepala anak tersebut dan membunuhnya. Musa bertanya, "Mengapa kamu bunuh jiwa yang bersih?" -Qs. Al Kahfi:
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (122) Sahih Muslim (2380)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4707</td></tr><tr><td>Arabic No</td><td>4707</td></tr><tr><td>Reference</td><td>Book 42 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Убайа ибн Ка‘ба, что Посланник Аллаха ﷺ сказал: «Аль-Хадыр увидел мальчика, который играл с другими мальчиками, подошёл к нему и оторвал ему голову, а Муса спросил его: “Неужели ты убил невинную душу?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (122) Sahih Muslim (2380)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4707</td></tr><tr><td>Arabic No</td><td>4707</td></tr><tr><td>Reference</td><td>Book 42 Hadith 112</td></tr></tbody></table></div>
 

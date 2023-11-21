@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "The best people are those of my gene
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Ibrahim] dari ['Abidah] dari ['Abdullah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sebaik-baik manusia adalah yang hidup pada masaku, kemudian orang-orang pada masa berikutnya, kemudian orang-orang pada masa berikutnya, kemudian setelah mereka akan datang suatu kaum kesaksian mereka mendahului sumpah mereka, dan sumpah mereka mendahului kesaksian mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6429</td></tr><tr><td>Arabic No</td><td>6429</td></tr><tr><td>Reference</td><td>Book 81 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передал, что Пророк ﷺ сказал: «Лучшие из вас — это мои современники, а затем те, кто придёт после них (табиины), а затем те, кто придёт после них (последователи табиинов), а затем после них придут люди, чьё свидетельство будут опережать их клятвы, и чьи клятвы будут опережать их свидетельства»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6429</td></tr><tr><td>Arabic No</td><td>6429</td></tr><tr><td>Reference</td><td>Book 81 Hadith 18</td></tr></tbody></table></div>
 

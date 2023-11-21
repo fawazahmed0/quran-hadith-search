@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Manshur bin Abu Muzahim] telah menceritakan kepada kami [Ibrahim bin Sa'd]. (dalam riwayat lain disebutkan) telah menceritakan kepadaku [Muhammad bin Ja'far bin Ziyad] telah mengabarkan kepada kami [Ibrahim] -yaitu bin Sa'd- dari [Ibnu Syihab] dari [Sa'id bin al-Musayyab] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah ditanya, "Amal apa yang paling utama? ' Beliau menjawab, "Iman kepada Allah." Dia bertanya lagi, "Kemudian apa?" Beliau menjawab, "Jihad di jalan Allah." Dia bertanya lagi, "Kemudian apa?" Beliau menjawab, "Haji yang mabrur." Dan dalam riwayat [Muhammad bin Ja'far], 'Iman kepada Allah dan Rasul-Nya'." Dan telah menceritakan tentangnya kepadaku [Muhammad bin Rafi'] dan [Abd bin Humaid] dari [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] dengan sanad ini semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>248</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что однажды Посланника Аллаха ﷺ спросили: «Какое дело является наилучшим?» Он ответил: «Вера в Аллаха». (Его) спросили: «А после этого?» Он ответил: «Борьба на пути Аллаха». (Его снова) спросили: «А после этого?» Он ответил: «Благочестивый /мабрур/ хадж».В версии Мухаммада ибн Джа’фара он сказал: «Вера в Аллаха и Его Посланника»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>248</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

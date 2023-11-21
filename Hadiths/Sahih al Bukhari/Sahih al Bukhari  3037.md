@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim:The people asked Sahl bin Sa'd As-Sa' idi "With what thing (m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufan] telah bercerita kepada kami [Abu Hazim] berkata: "Mereka bertanya kepada [Sahal bin Sa'ad as-Sa'idiy] radliallahu 'anhu: "Dengan apa luka Nabi Shallallahu'alaihiwasallam diobati?". Dia menjawab: "Tidak ada seorangpun dari manusia yang masih hidup yang lebih mengetahui tentang hal itu selain aku. 'Ali membawakan air di dalam wajan sedangkan Fathimah yang membersihkan darah dari wajah Beliau, kemudian diambillah tikar dan dibakar (hingga menjadi abu) kemudian ditempelkan pada luka Rasulullah Shallallahu'alaiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 56 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) люди спросили Сахля ибн Са‘да ас-Са‘иди, да будет доволен им Аллах: «Чем лечили рану Пророка ﷺ?» Он ответил: «Сейчас уже не осталось никого, кто знал бы об этом лучше меня. ‘Али приносил в своём щите воду, Фатима же смывала кровь с его лица, а потом (они) взяли циновку, сожгли её и приложили (золу) к ране Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 56 Hadith 243</td></tr></tbody></table></div>
 

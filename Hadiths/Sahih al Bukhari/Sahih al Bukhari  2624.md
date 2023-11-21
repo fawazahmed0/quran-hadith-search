@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abu Bakr (ra):My mother came to me during the lifetime of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] mengabarkan mereka berkata, telah menceritakan kepadaku ['Abdullah bin 'Ubaidullah bin Abi Mulaikah] bahwa anak-anak Shuhaib maula Ibnu Jud'an mereka mengklaim dua rumah dan sebuah kamar yang diberi Rasulullah shallallahu 'alaihi wasallam kepada Shuhaib. Maka Marwan berkata: "Siapa yang menjadi saksi atas kalian berdua dalam perkara ini?" Mereka menjawab: " [Ibnu 'Umar] ". Lalu Marwan memanggilnya dan ia bersaksi bahwa Rasulullah shallallahu 'alaihi wasallam memang telah memberi Shuhaib dua rumah dengan satu kamar. Kemudian Marwan memutuskan untuk mereka dengan persaksiannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2624</td></tr><tr><td>Arabic No</td><td>2624</td></tr><tr><td>Reference</td><td>Book 51 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Убайдуллаха бин Абу Муляйки, что (в своё время) сыновья Сухайба, который был вольноотпущенником Ибн Джуд‘ана, стали претендовать на два дома и комнату, утверждая, что всё это подарил Сухайбу Посланник Аллаха ﷺ . Марван спросил: «Кто подтвердит правоту ваших слов?» Они сказали: «Ибн ‘Умар». И (Марван) призвал к себе (Ибн ‘Умара, да будет доволен Аллах ими обоими,) который засвидетельствовал, что Посланник Аллаха ﷺ действительно подарил Сухайбу эти два дома и комнату, после чего Марван присудил им (это имущество) на основании его свидетельства в их пользу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2624</td></tr><tr><td>Arabic No</td><td>2624</td></tr><tr><td>Reference</td><td>Book 51 Hadith 56</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubaidullah bin 'Abdullah:Ibn 'Abbas' said, "Usama rode behind Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Wahab bin Jarir] telah menceritakan kepada kami [bapakku] dari [Yunus Al Ailiyya] dari [Az Zuhriy] dari ['Ubaidullah bin 'Abdullah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa [Usamah radliallahu 'anhu] pernah berboncengan dengan Nabi shallallahu 'alaihi wasallam dari 'Arafah hingga ke Al Muzdalifah, kemudian Beliau membonceng [Al Fadhal] dari Al Muzdalifah hingga ke Mina. Dia berkata; Pada kedua perjalanan itu senantiasa Nabi shallallahu 'alaihi wasallam bertalbiyyah hingga Beliau melempar jumrah Al 'Aqabah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>1544</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что (во время хаджа при переезде) из ‘Арафата в Муздалифу Усама (бин Зейд), да будет доволен им Аллах, сидел позади Пророка ﷺ, а (во время переезда) из Муздалифы в Мину (Пророк ﷺ) посадил позади себя аль-Фадля (бин ‘Аббаса). (Ибн ‘Аббас, да будет доволен Аллах ими обоими) сказал: «И оба они говорили, что Пророк ﷺ произносил тальбийу до тех пор, пока не начинал бросать камешки в “джамрат аль-‘акаба“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1544</td></tr><tr><td>Arabic No</td><td>1544</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
 

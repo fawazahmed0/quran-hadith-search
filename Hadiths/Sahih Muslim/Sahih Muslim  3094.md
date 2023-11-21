@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Yazid and al-Aswad b. Yazid reported:We heard 'Abdullah b. Mas'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepadaku [Yusuf bin Hammad Al Ma'ni] Telah menceritakan kepada kami [Ziyad Al Bakka'i] dari [Hushain] dari [Katsir bin Mudrik Al Asyja'i] dari [Abdurrahman bin Yazid] dan [Al Aswad bin Yazid] keduanya berkata, kami mendengar [Abdullah bin Mas'ud] berkata di Jam'; Aku mendengar seorang yang telah diturunkan kepadanya surat Al Baqarah di tempat ini membaca: "LABBAIKA ALLAHUMMA LABBAIKA (Aku penuhi panggilan-Mu, Ya Allah aku penuhi panggilan-Mu)." Sesudah itu, ia membaca talbiyah, dan kami pun ikut bertalbiyah (memulai Ihram)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3094</td></tr><tr><td>Arabic No</td><td>1283.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 299</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3094</td></tr><tr><td>Arabic No</td><td>1283.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 299</td></tr></tbody></table></div>
 

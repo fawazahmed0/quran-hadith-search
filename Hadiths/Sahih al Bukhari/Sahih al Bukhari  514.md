@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The things which annul prayer were mentioned before me (and thos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin 'Iyats] berkata, telah menceritakan kepada kami [Bapakku] ia berkata, telah menceritakan kepada kami [Al A'masy] berkata, telah menceritakan kepada kami [Ibrahim] dari [Al Aswad] dari ['Aisyah]. (dalam jalur lain disebutkan) [Al A'masy] berkata, telah menceritakan kepadaku [Muslim] dari [Masruq] dari ['Aisyah], bahwa telah disebutkan kepadanya tentang sesuatu yang dapat memutuskan shalat; anjing, keledai dan wanita. Maka ia pun berkata, "Kalian telah menyamakan kami dengan keledai dan anjing! Demi Allah, aku pernah melihat Nabi shallallahu 'alaihi wasallam shalat sedangkan aku berbaring di atas tikar antara beliau dan arah kiblatnya. Sehingga ketika aku ada suatu keperluan dan aku tidak ingin duduk hingga menyebabkan Nabi shallallahu 'alaihi wasallam terganggu, maka aku pun pergi diam-diam dari dekat kedua kaki beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>514</td></tr><tr><td>Arabic No</td><td>514</td></tr><tr><td>Reference</td><td>Book 8 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды, когда в присутствии ‘Аиши речь зашла о том, что молитву могут прервать (проходящие перед молящимся) собака, осёл или женщина, (‘Аиша) сказала: «Вы сравнили нас с ослами и собаками, но, клянусь Аллахом, я видела, как Пророк ﷺ молился, а я в это самое время лежала на кровати между ним и киблой. Иногда, предо мной возникала какая-то нужда, но подняться и сесть я не хотела, потому что могла тем самым доставить неудобство Пророку ﷺ и поэтому я просто проскальзывала возле его ног»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>514</td></tr><tr><td>Arabic No</td><td>514</td></tr><tr><td>Reference</td><td>Book 8 Hadith 161</td></tr></tbody></table></div>
 

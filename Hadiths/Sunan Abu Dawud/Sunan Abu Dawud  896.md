@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: Al-Bara' described to us (the nature of prostration)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi'ah' bin Nafi' Abu Taubah] telah menceritakan kepada kami [Syarik] dari [Abu Ishaq] dia berkata; [Al Barra' bin 'Azib] menjelaskan sujud kepada kami, maka ia meletakkan kedua tangannya dan mengangkat perutnya dari menempel tanah. Al Barra berkata; Beginilah Rasulullah Shalallahu 'Alaihi Wa sallam sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>896</td></tr><tr><td>Arabic No</td><td>896</td></tr><tr><td>Reference</td><td>Book 2 Hadith 506</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Исхака: «Аль-Бара ибн ‘Азиб показал нам однажды: опустил руки на землю, опёрся на колени и поднял крестец, и сказал: «Так совершал земной поклон Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>896</td></tr><tr><td>Arabic No</td><td>896</td></tr><tr><td>Reference</td><td>Book 2 Hadith 506</td></tr></tbody></table></div>
 

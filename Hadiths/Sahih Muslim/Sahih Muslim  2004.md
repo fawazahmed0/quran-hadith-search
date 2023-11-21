@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:I used to observe prayer with the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Zakariya] telah menceritakan kepadaku [Simak bin Harb] dari [Jabir bin Samurah] ia berkata; "Kami telah beberapa kali shalat (Jum'at) bersama Rasulullah shallallahu 'alaihi wasallam, maka shalat dan khutbah beliau adalah pertengahan (tidak terlalu panjang dan tidak pula terlalu pendek)." Sementara dalam riwayat Abu Bakar bin Zakariya dari Simak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2004</td></tr><tr><td>Arabic No</td><td>866.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн Самура сказал: «Я часто молился вместе с Пророком ﷺ, молитвы и хутбы которого (никогда) не были ни слишком краткими, ни слишком длинными»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2004</td></tr><tr><td>Arabic No</td><td>866.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 54</td></tr></tbody></table></div>
 

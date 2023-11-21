@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. al-Musayyib reported:I heard Sa'd (b. Abi Waqqas) saying that the idea 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Imran Muhammad bin Ja'far bin Ziyad] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Ibnu Syihab Az Zuhri] dari [Sa'id bin Al Musayyab] ia berkata, saya mendengar [Sa'd] berkata; Utsman bin Mazh'un pernah dilarang untuk membujang selamanya, karena semata-mata hendak melakukan ibadah kepada Allah. Andaikan beliau mengizinkannya, tentulah kami sudah mengebiri diri kami sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3405</td></tr><tr><td>Arabic No</td><td>1402.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3405</td></tr><tr><td>Arabic No</td><td>1402.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 8</td></tr></tbody></table></div>
 

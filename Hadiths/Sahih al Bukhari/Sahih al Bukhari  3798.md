@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to the Prophet. The Prophet (ﷺ) sent a messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami ['Abdullah bin Daud] dari [Fudlail bin Ghazwan] dari [Abu Hazim] dari [Abu Hurairah radliallahu 'anhu] bahwa ada seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam lalu beliau datangi istri-istri beliau. Para istri beliau berkata; "Kami tidak punya apa-apa selain air". Maka kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepada orang banyak: "Siapakah yang mau mengajak atau menjamu orang ini?". Maka seorang laki-laki dari Anshar berkata; "Aku". Sahabat Anshar itu pulang bersama laki-laki tadi menemui istrinya lalu berkata; "Muliakanlah tamu Rasulullah shallallahu 'alaihi wasallam ini". Istrinya berkata; "Kita tidak memiliki apa-apa kecuali sepotong roti untuk anakku". Sahabat Anshar itu berkata; Suguhkanlah makanan kamu itu lalu matikanlah lampu dan tidurkanlah anakmu". Ketika mereka hendak menikmati makan malam, maka istrinya menyuguhkan makanan itu lalu mematikan lampu dan menidurkan anaknya kemudian dia berdiri seakan hendak memperbaiki lampunya, lalu dimatikannya kembali. Suami- istri hanya menggerak-gerakkan mulutnya (seperti mengunyah sesuatu) seolah keduanya ikut menikmati hidangan. Kemudian keduanya tidur dalam keadaan lapar karena tidak makan malam. Ketika pagi harinya, pasangan suami istri itu menemui Rasulullah shallallahu 'alaihi wasallam. Maka beliau berkata: "Malam ini Allah tertawa atau terkagum-kagum karena perbuatan kalian berdua". Maka kemudian Allah menurunkan firman-Nya dalam QS al-Hasyr ayat 9 yang artinya: ("Dan mereka lebih mengutamakan orang lain (Muhajirin) dari pada diri mereka sendiri sekalipun mereka memerlukan apa yang mereka berikan itu. Dan siapa yang dipelihara dari kekikiran dirinya, mereka itulah orang-orang yang beruntung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3798</td></tr><tr><td>Arabic No</td><td>3798</td></tr><tr><td>Reference</td><td>Book 63 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) к Пророку ﷺ пришел какой-то человек, и (Пророк ﷺ) послал (кого-то) к своим женам, но (все) они сказали: «У нас нет ничего, кроме воды!» Тогда Посланник Аллаха ﷺ спросил: «Кто примет этого (человека у себя)?» Один из ансаров откликнулся: «Я», (после чего) отвел его к своей жене и сказал: «Окажи уважение гостю Посланника Аллаха ﷺ». Она сказала: «У нас нет (ничего), кроме еды для моих детей». Тогда он сказал: «Приготовь свою еду, зажги светильник и уложи детей спать, если они захотят поужинать». И она приготовила еду, зажгла светильник и уложила детей, а потом поднялась (со своего места), будто бы (желая) поправить светильник, и погасила его. Затем они стали делать вид, что едят, (а после того, как гость поел,) легли спать голодными. Наутро (хозяин дома) пришел к Посланнику Аллаха ﷺ который сказал: «Этой ночью Аллах улыбнулся (или: подивился) тому, что вы сделали!» А потом Аллах ниспослал (аят, в котором сказано): «...и отдают им предпочтение перед самими собой, даже если и сами испытывают нужду. Преуспеют те, кто будет защищен от собственной скупости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3798</td></tr><tr><td>Arabic No</td><td>3798</td></tr><tr><td>Reference</td><td>Book 63 Hadith 23</td></tr></tbody></table></div>
 

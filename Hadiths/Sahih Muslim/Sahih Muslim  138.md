@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira:We were accompanying the Apostle 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin an-Nadlar bin Abu an-Nadlar] dia berkata, telah menceritakan kepada kami [Abu an-Nadlar Hasyim bin al-Qasim] telah menceritakan kepada kami [Ubaidullah al-Asyja'i] dari [Malik bin Mighwal] dari [Thalhah bin Musharrif] dari [Abu Shalih] dari [Abu Hurairah] dia berkata, "Kami bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan". Lalu dia berkata, 'maka bekal kaum tersebut habis.' Selanjutnya dia berkata, "Hingga mereka berkeinginan untuk menyembelih sebagian hewan kendaraan mereka." Perawi berkata, "Maka Umar berkata, 'Wahai Rasulullah, kalau seandainya kamu mengumpulkan sebagian dari bekal kaum lalu kamu berdoa kepada Allah atasnya (niscaya itu baik)." Perawi berkata, "Lalu beliau melakukannya." Perawi berkata, "Lalu pemilik gandum datang dengan membawa gandumnya, pemilik kurma datang dengan membawa kurmanya." Perawi berkata, "Dan Mujahid berkata, 'Dan pemilik biji-bijian dengan biji-bijian mereka." Aku berkata, "Apa yang mereka perbuat dengan biji-bijian tersebut?" dia menjawab, "Mereka mengisap dan meminum air padanya." Dia berkata, "Lalu Rasulullah memanggil mereka hingga mereka dapat memenuhi wadah perbekalan mereka." Perawi berkata, "Maka Rasulullah berdoa ketika itu: 'Saya bersaksi bahwa tidak ada tuhan (yang berhak disembah) selain Allah dan bahwa saya adalah utusan Allah, tidaklah seorang hamba bertemu Allah dengan berpegang teguh padanya tanpa ada keraguan niscaya dia masuk surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>138</td></tr><tr><td>Arabic No</td><td>27.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Однажды, когда мы были вместе с Пророком ﷺ в пути, запасы (еды) людей иссякли, так что Пророк ﷺ задумался о том, чтобы зарезать некоторых верблюдов. Тогда ‘Умар сказал: “О Посланник Аллаха, (было бы лучше) если бы ты собрал то, что осталось из припасов людей, и обратился к Аллаху с мольбой над этим”. Так он и сделал. Тогда тот, у кого была пшеница принёс пшеницу, у кого были финики принёс финики».Муджахид сказал: «А тот, у кого были косточки от фиников, принёс косточки от фиников». Тальха ибн Мусарриф (один из передатчиков хадиса) спросил: «А что они делали с косточками?» Он ответил: «Они обсасывали их и запивали водой».Абу Хурайра продолжил: «И Пророк ﷺ обратился к Аллаху с мольбой (над тем, что было собрано), так, что люди (после этого) заполнили свои сосуды провизией. И тогда Пророк ﷺ сказал: “Свидетельствую, что нет божества, достойного поклонения, кроме Аллаха, и что я Посланник Аллаха, и если кто-нибудь из рабов (Аллаха) встретит Его(, имея в запасе два этих свидетельства) и не сомневаясь (в их истинности), то он обязательно войдёт в Рай!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>138</td></tr><tr><td>Arabic No</td><td>27.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 45</td></tr></tbody></table></div>
 

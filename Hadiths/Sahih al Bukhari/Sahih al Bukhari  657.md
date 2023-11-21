@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "No prayer is heavier upon the hypo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] berkata, telah telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Al A'masy] berkata, telah menceritakan kepadaku [Abu Shalih] dari [Abu Hurairah] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada shalat yang lebih berat bagi orang-orang Munafik kecuali shalat shubuh dan 'Isya. Seandainya mereka mengetahui (kebaikan) yang ada pada keduanya tentulah mereka akan mendatanginya walau harus dengan merangkak. Sungguh, aku berkeinginan untuk memerintahkan seorang mu'adzin sehingga shalat ditegakkan dan aki perintahkan seseorang untuk memimpin orang-orang shalat, lalu aku menyalakan api dan membakar (rumah-rumah) orang yang tidak keluar untuk shalat berjama'ah (tanpa alasan yang benar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>657</td></tr><tr><td>Arabic No</td><td>657</td></tr><tr><td>Reference</td><td>Book 10 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал:«Пророк ﷺ сказал: “Для лицемеров нет намазов более тяжких, чем утренний и вечерний, однако, если бы знали они(, какая награда ждёт людей) за два эти намаза, то обязательно являлись бы на них (в мечеть), даже (если бы пришлось им добираться) ползком! (Бывало так, что) хотел я приказать муаззину объявить о намазе, затем повелеть кому-то возглавить людей в намазе, а потом взять факел и сжечь (дома) тех, кто не выходит на намаз после (того, как услышали призыв к нему)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>657</td></tr><tr><td>Arabic No</td><td>657</td></tr><tr><td>Reference</td><td>Book 10 Hadith 51</td></tr></tbody></table></div>
 

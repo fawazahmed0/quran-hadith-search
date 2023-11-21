@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik did not like that a person should pick out his white hair from his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin 'Ali Al Jahdhami]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Al Mutsanna bin Sa'id] dari [Qatadah] dari [Anas bin Malik] "Makruh seorang laki-laki mencabut rambut putih di kepala dan di jenggotnya." Dia juga berkata; "Rasulullah shallallahu 'alaihi wasallam tidak pernah menyemir rambut dan jenggotnya. Uban Rasulullah shallallahu 'alaihi wasallam hanya ada di bawah bibir, di antara mata dan telinga, serta di rambut kepala yang jarang tumbuhnya. Dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Abdus Shamad] Telah menceritakan kepada kami [Al Mutsanna] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6077</td></tr><tr><td>Arabic No</td><td>2341.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6077</td></tr><tr><td>Arabic No</td><td>2341.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 135</td></tr></tbody></table></div>
 

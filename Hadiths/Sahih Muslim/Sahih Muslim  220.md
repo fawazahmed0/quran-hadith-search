@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd and Abu Bakra each one of them said:My ears heard and my hearing preserved 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Zakariya bin Abu Zaidah] dan [Abu Muawiyah] dari [Ashim] dari [Abu Utsman] dari [Sa'd] dan [Abu Bakrah] keduanya berkata, "Telingaku mendengarnya dan hatiku meresapinya dari Muhammad shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Barangsiapa mengklaim orang lain sebagai bapaknya, padahal dia mengetahui bahwa dia bukan bapaknya, maka surga haram atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>220</td></tr><tr><td>Arabic No</td><td>63.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Са‘д и Абу Бакра сказали: «Я слышал собственными ушами, и сердце моё запомнило, как Посланник Аллаха ﷺ говорил: “Рай станет запретным для того, кто выдаёт себя за сына не своего отца, зная о том, что (этот человек) его отцом не является”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>220</td></tr><tr><td>Arabic No</td><td>63.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 126</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hanzala reported:We were in the company of Allah's Messenger (ﷺ) and he delive
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami ['Abdush Shamad] Aku mendengar [bapakku] bercerita; telah menceritakan kepada kami [Sa'id Al Jurairi] dari [Abu 'Utsman An Nahdi] dari [Hanzhalah] dia berkata; Ketika kami berada di sisi Rasulullah shallallahu 'alaihi wasallam, beliau biasa mengingatkan kami dan menuturkan tentang neraka. Hanzhalah berkata; Namun ketika aku sudah kembali ke rumah, aku tertawa bersama anak-anakku dan bermain-main bersama istri. Hanzhalah berkata; maka aku pun keluar dan bertemu dengan Abu Bakar, lalu aku ceritakan kebiasaanku kepadanya. Abu Bakr menjawab; Demikian juga saya biasa melakukan hal itu. Lalu kami bertemu dengan Rasulullah, maka aku berkata; 'Ya Rasulullah, Hanzhalah telah munafik! Beliau bertanya: 'Kenapa demikian wahai Hanzhalah? ' aku pun menuturkan kebiasaanku pada beliau, maka beliau bersabda: "Wahai Hanzhalah, perbaharuilah iman secara berkala (dari waktu ke waktu, secara bertahap, tidak spontanitas), sekiranya keadaan kalian adalah sebagaimana keadaan kalian saat bersamaku, niscaya para malaikat akan menyalami kalian hingga ketika di perjalanan kalian." Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Al Fudlail bin Dukain] telah menceritakan kepada kami [Sufyan] dari [Sa'id Al Jurairi] dari [Abu 'Utsman An Nahdi] dari [Hanzhalah At Tamimi Al Usayyidil Al Katib] dia berkata; Ketika kami bersama Rasulullah, beliau biasa mengingatkan kami tentang surga dan neraka. -Selanjutnya sebagaimana Hadits keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6967</td></tr><tr><td>Arabic No</td><td>2750.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6967</td></tr><tr><td>Arabic No</td><td>2750.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 15</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: A man came to the Prophet (ﷺ) and said: Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Manshur bin Abu Muzahim], telah menceritakan kepada kami [Abu Bakr], dari [Abu Ishaq], dari [Al Bara' bin 'Azib], ia berkata; seorang laki-laki datang kepada kepada Nabi shallallahu 'alaihi wasallam dan berkata; wahai Rasulullah, mereka meminta fatwa kepada engkau mengenai kalalah, apakah kalalah itu? Beliau berkata: "Cukup bagimu ayat yang turun pada musim panas." Kemudian aku katakan kepada Abu Ishaq; ia adalah orang yang mati dan tidak meninggalkan anak dan ayah, ia berkata; demikianlah mereka meyakini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2889</td></tr><tr><td>Arabic No</td><td>2889</td></tr><tr><td>Reference</td><td>Book 19 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Бара ибн ‘Азиба, да будет доволен им Аллах, что однажды к Пророку ﷺ пришёл какой-то человек и спросил: «О Посланник Аллаха ﷺ они просят тебя вынести решение о “каляле”. А что такое “каляля”?» (Посланник Аллаха ﷺ) сказал: «Достаточно тебе летнего аята». Передатчик этого хадиса сказал: «Я спросил Абу Исхака: «“Каляля” это человек, который умирает, не оставив ни детей, ни родителей?» Он ответил: «Они считали, что это так»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2889</td></tr><tr><td>Arabic No</td><td>2889</td></tr><tr><td>Reference</td><td>Book 19 Hadith 5</td></tr></tbody></table></div>
 

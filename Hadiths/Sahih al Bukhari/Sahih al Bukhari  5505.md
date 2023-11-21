@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'adh bin Sa'd or Sa'd bin Mu'adh:A slave girl belonging to Ka'b used 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] berkata; telah menceritakan kepadaku [Malik] dari [Nafi'] dari [Laki-laki Anshar] dari [Mu'adz bin Sa'd atau Sa'd bin Mu'adz] ia mengabarkan kepadanya, bahwa budak wanita Ka'b bin Malik mengembalakan kambing di daerah Sal', lalu salah satu kambingnya terkena sakit hingga ia pun menyembelihnya dengan batu. Ketika Nabi shallallahu 'alaihi wasallam ditanya tentang hukum (daging sembelihannya), beliau menjawab: "Makanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5505</td></tr><tr><td>Arabic No</td><td>5505</td></tr><tr><td>Reference</td><td>Book 72 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Исма‘иль, который сказал:\n— Рассказал мне Малик от Нафи‘а, передавшего от одного человека из числа ансаров, передавшего со слов Му‘аза ибн Са‘да (или: Са‘да ибн Му‘аза,) который сообщил ему, что однажды, когда невольница Ка‘ба ибн Малика, да будет доволен им Аллах, пасла овец на горе Саль‘, одна из овец заболела, и тогда она догнала её и зарезала с помощью камня. Когда (об этом) спросили Пророка ﷺ, он сказал: «Ешьте её!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5505</td></tr><tr><td>Arabic No</td><td>5505</td></tr><tr><td>Reference</td><td>Book 72 Hadith 31</td></tr></tbody></table></div>
 

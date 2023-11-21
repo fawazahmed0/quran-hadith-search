@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Zaid bin Khalid:Two men had a dispute in the presence o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] mengatakan; telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari [Ubaidullah bin Abdillah bin Utbah bin Mas'ud] dari [Abu Hurairah] dan [Zaid bin Khalid] keduanya mengabarkannya, bahwa ada dua orang bersengketa dan mengadukan perkaranya kepada Rasulullah Shallallahu'alaihiwasallam. Salah satu dari keduanya berujar; 'putuskanlah antara kami dengan kitabullah! ' lalu laki-laki kedua -dan dia lebih pandai agama daripada laki-laki pertama- menjawab; 'Betul ya Rasulullah, putuskanlah antara kami dengan kitabullah dan izinkan bagiku untuk berbicara.' "Bicaralah, " kata Nabi. Lanjutnya; 'sesungguhnya anakku adalah 'asiif (pekerja) orang ini. -Malik menjelaskan bahwa asiif adalah buruh.- Anakku berzina dengan isterinya. Maka orang-orang mengabarkan kepadaku bahwa anakku harus dihukum rajam, aku pun menebusnya dengan seratus ekor unta dan satu hamba sahaya. Lalu aku bertanya para orang alim, dan mereka menjelaskan, bahwa anakku cukup dijilid (dicambuk) seratus kali cambukan dan diasingkan selama satu tahun, dan rajam berlaku bagi isterinya.' Maka Rasulullah Shallallahu'alaihiwasallam bersabda: "Ketahuilah, demi Allah, saya putuskan perkara kalian berdua dengan kitabullah, kambing dan hamba sahayamu dikembalikan kepadamu, dan anak laki-lakimu dicambuk seratus kali dan diasingkan setahun." Kemudian beliau memerintahkan Unais Al Aslami untuk mendatangi isteri laki-laki tersebut, jika ia mengaku telah berzina maka dirajam, dan ternyata perempuan laki-laki tersebut mengakui, maka dia pun merajamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6634</td></tr><tr><td>Arabic No</td><td>6634</td></tr><tr><td>Reference</td><td>Book 83 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра и Зейд ибн Халид, да будет доволен Аллах ими обоими, передали: «Как-то два человек обратились к Посланнику Аллаха ﷺ с просьбой рассудить их и один из них сказал: “Рассуди нас согласно Книге Аллаха!” Второй, который был более просвещённым в вопросах религии, сказал: “Да, о посланник Аллаха! Рассуди нас согласно Книге Аллаха и позволь мне высказаться”. [Посланник Аллаха ﷺ] сказал: “Говори”. Тот сказал: “Поистине, мой сын был наёмным работником у этого человека и совершил прелюбодеяние с его женой. Мне сказали, что за это моего сына следует подвергнуть побиванию камнями, но я отдал сто овец и свою рабыню в качестве выкупа за него. А потом я спросил об этом обладающих знанием, и они сказали мне, что мой сын должен получить сто ударов и отправиться в изгнание на год, а побить камнями следует жену этого человека”. Тогда Посланник Аллаха ﷺ сказал: “Клянусь Тем, в Чьей Руке моя душа, я обязательно рассужу вас согласно Книге Аллаха! Что касается твоей рабыни и твоих овец, то они должны быть возвращены тебе”. И он велел нанести его сыну сто ударов и отправить его в изгнание на год. И он велел Унайсу аль-Аслями пойти к жене второго и, если она признается, побить её камнями. И она призналась, и он побил её камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6634</td></tr><tr><td>Arabic No</td><td>6634</td></tr><tr><td>Reference</td><td>Book 83 Hadith 13</td></tr></tbody></table></div>
 

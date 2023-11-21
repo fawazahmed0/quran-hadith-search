@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ai’shah said:The Messenger of Allah (SWAS) sent sacrificial camels as offering
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Bisyr bin Al Mufadhdhal], telah menceritakan kepada Kami [Ibnu 'Aun] dari [Al Qasim bin Muhammad] dan [Ibrahim], ia mengaku bahwa ia telah mendengarnya dari keduanya, dan tidak dapat membedakan antara hadits ini dari hadits ini dan hadits ini dari hadits ini. Mereka berkata; telah berkata [Ummul mukminin]; Rasulullah shallAllahu wa'alaihi wa sallam mengirim hewan kurban, dan aku yang menjalin kalung-kalung hewan tersebut dengan tanganku dari bulu yang ada pada Kami, kemudian pada pagi hari beliau dalam keadaan tidak berihram, beliau melakukan apa yang dilakukan seorang laki-laki kepada isterinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1699) Sahih Muslim (1321)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1759</td></tr><tr><td>Arabic No</td><td>1759</td></tr><tr><td>Reference</td><td>Book 11 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мать верующих (т.е. ‘Аиша, да будет доволен ею Аллах,) сказала: «Посланник Аллаха ﷺ отправил в Мекку жертвенный скот, а я плела для этих животных нашейные повязки из окрашенной шерсти, которая была у нас, а потом оставался не в состоянии ихрама и приходил к нам, как приходит мужчина к своим жёнам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1699) Sahih Muslim (1321)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1759</td></tr><tr><td>Arabic No</td><td>1759</td></tr><tr><td>Reference</td><td>Book 11 Hadith 39</td></tr></tbody></table></div>
 

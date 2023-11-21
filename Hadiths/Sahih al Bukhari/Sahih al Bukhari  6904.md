@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Two women from the tribe of Hudhail (fought with each other
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dan telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Malik] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] radliallahu 'anhu, ada dua wanita Hudzail, salah satunya memukul yang lain sehingga janin yang dikandung keguguran, dan Rasulullah Shallallahu'alaihiwasallam memutuskan untuk membayar ghurrah, budak laki-laki atau hamba sahaya perempuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6904</td></tr><tr><td>Arabic No</td><td>6904</td></tr><tr><td>Reference</td><td>Book 87 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что (в своё время) две женщины из племени хузайль (подрались), и одна из них бросила в другую (камень), в следствие чего умер ребёнок, (которым она была беременна). И Посланник Аллаха ﷺ вынес решение, что (компенсацией пострадавшей) должен послужить раб или рабыня
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6904</td></tr><tr><td>Arabic No</td><td>6904</td></tr><tr><td>Reference</td><td>Book 87 Hadith 43</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Fatima bint Abi Hubaish used to have bleeding in between the per
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Sufyan] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] bahwa Fatimah binti Abu Hubaisy mengalami istihadlah (mengeluarkan datah penyakit). Maka aku bertanya kepada Nabi shallallahu 'alaihi wasallam, dan beliau menjawab: "Itu seperti keringat dan bukan darah haid. Jika haid datang maka tinggalkanlah shalat dan jika telah selesai mandilah dan shalatlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>320</td></tr><tr><td>Arabic No</td><td>320</td></tr><tr><td>Reference</td><td>Book 6 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, о том, что у Фатимы бинт Абу Хубайш были хронические (женские) кровотечения и она спросила об этом Пророка ﷺ и он сказал: «Это не менструация, а кровотечение из сосуда. Когда у тебя начнутся месячные, то воздержись от совершения молитвы, а когда они прекратятся, то соверши большое омовение и совершай молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>320</td></tr><tr><td>Arabic No</td><td>320</td></tr><tr><td>Reference</td><td>Book 6 Hadith 25</td></tr></tbody></table></div>
 

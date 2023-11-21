@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) heard a man reciting (the Qur'an) in the mosqu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ustman bin Abu Syaibah] telah menceritakan kepada kami ['Abdah] dari [Hisyam] dari [Ayahnya] dari [Aisyah] radliallahu 'anha dia berkata; Nabi shallallahu 'alaihi wasallam pernah mendengar seorang laki-laki membaca (Al Qur'an) di masjid, lalu beliau bersabda: "Semoga Allah merahmatinya, sungguh ia telah mengingatkanku ini dan ini, yaitu ayat yang aku lupa dalam surat ini dan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6335</td></tr><tr><td>Arabic No</td><td>6335</td></tr><tr><td>Reference</td><td>Book 80 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Пророк ﷺ услышал, как какой-то человек читает (Коран) в мечети и сказал: “Да помилует его Аллах! Он напомнил мне такие-то аяты из таких-то сур, которые я забыл”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6335</td></tr><tr><td>Arabic No</td><td>6335</td></tr><tr><td>Reference</td><td>Book 80 Hadith 32</td></tr></tbody></table></div>
 

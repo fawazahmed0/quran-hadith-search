@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) drew a square and then drew a line in the m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Al Fadll] telah mengabarkan kepada kami [Yahya bin Sa'id] dari [Sufyan] dia berkata; telah menceritakan kepadaku [Ayahku] dari [Mundzir] dari [Rabi' bin Khutsaim] dari [Abdullah] radliallahu 'anhu dia berkata; "Nabi shallallahu 'alaihi wasallam pernah membuat suatu garis persegi empat, dan menggaris tengah dipersegi empat tersebut, dan satu garis di luar garis segi empat tersebut, serta membuat beberapa garis kecil pada sisi garis tengah dari tengah garis tersebut. Lalu beliau bersabda: 'Ini adalah manusia dan ini adalah ajalnya yang telah mengitarinya atau yang mengelilinginya dan yang di luar ini adalah cita-citanya, sementara garis-garis kecil ini adalah rintangan-rintangannya, jika ia berbuat salah, maka ia akan terkena garis ini, jika berbuat salah lagi maka garis ini akan mengenainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6417</td></tr><tr><td>Arabic No</td><td>6417</td></tr><tr><td>Reference</td><td>Book 81 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ начертил прямоугольник, (потом) он начертил в середине (его) линию, выходящую за его (пределы, потом) он начертил (несколько) маленьких линий, (доходящих) до той (линии,) которая была посередине, после чего сказал: “Это — человек; то, что его окружает (или: то, что его окружило), есть его срок; то, что выходит за пределы (прямоугольника), является его надеждами, а эти маленькие чёрточки — превратностями судьбы, (которые его постигают,) и если минует его одно, то схватит зубами другое, если же минует его (второе), то схватит зубами (первое)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6417</td></tr><tr><td>Arabic No</td><td>6417</td></tr><tr><td>Reference</td><td>Book 81 Hadith 6</td></tr></tbody></table></div>
 

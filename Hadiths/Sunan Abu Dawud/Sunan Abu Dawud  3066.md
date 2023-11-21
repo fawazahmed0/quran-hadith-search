@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abyad ibn Hammal: He asked the Messenger of Allah (ﷺ) for giving him 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 20 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абьяда ибн Хаммаля, да будет доволен им Аллах, что он спросил Посланника Аллаха ﷺ о том, можно ли сделать арак заповедным. (Посланник Аллаха ﷺ) сказал: «Арак нельзя сделать заповедным». Он сказал: «Но куст арака растёт на земле, которую я возделываю». (Посланник Аллаха ﷺ) сказал: «Арак нельзя сделать заповедным». Фарадж сказал: «То есть на возделываемой земле, окружённый со всех сторон посевами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 20 Hadith 139</td></tr></tbody></table></div>
 

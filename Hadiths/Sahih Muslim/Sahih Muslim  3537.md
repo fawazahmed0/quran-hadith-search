@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported on the authority of Jabir through another chain of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rumh bin Al Muhajir] telah mengabarkan kepada kami [Al Laits] dari [Ibnu Al Hadi] dari [Abu Hazim] dari [Muhammad bin Al Munkadir] dari [Jabir bin Abdullah] bahwa orang-orang yahudi mengatakan; Jika seorang wanita digauli pada kemaluannya dari arah belakang, kemudian ia hamil, maka anaknya (terlahir) juling. (Jabir) berkata; Maka turunlah ayat; "Isteri-isteri kalian adalah tempat bercocok tanam bagi kalian, maka datangilah tempat bercocok tanam kalian dari mana saja kalian kehendaki." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abdul Warits bin Abdush Shamad] telah menceritakan kepadaku [ayahku] dari [kakekku] dari [Ayyub]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Wahb bin Jarir] telah menceritakan kepada kami [Syu'bah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Sufyan]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku ['Ubaidullah bin Sa'id] dan [Harun bin Abdullah] serta [Abu Ma'n Ar Raqasyi] mereka berkata; Telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [ayahku] dia berkata; Saya mendengar [Nu'man bin Rasyid] telah menceritakan dari [Az Zuhri]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Sulaiman bin Ma'bad] telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami [Abdul Aziz] dia adalah Ibnu Muhtar, dari [Suhail bin Abi Shalih] mereka semua dari [Muhammad bin Al Munkadir] dari [Jabir] dengan hadits ini, dan dalam haditsnya Nu'man ditambahkan dari Az Zuhri; "Jika ia menghendaki, ia (boleh menggauli istrinya) dari belakang, dan jika ia menghendaki ia boleh menggaulinya dari arah depan asalkan dari satu lubang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3537</td></tr><tr><td>Arabic No</td><td>1435.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3537</td></tr><tr><td>Arabic No</td><td>1435.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 139</td></tr></tbody></table></div>
 

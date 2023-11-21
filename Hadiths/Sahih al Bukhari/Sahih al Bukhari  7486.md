@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "There are angels coming to y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Malaikat malam dan malaikat siang secara bergantian menjaga kalian, dan mereka berkumpul pada waktu shalat 'ashar dan shalat subuh, kemudian malaikat yang menjaga kalian di malam hari naik ke langit dan Allah menanyai mereka -sekalipun Dia paling tahu terhadap keadaan mereka- bagaimana kalian tinggalkan para hamba-Ku? ' Para malaikat menjawab, 'Kami tinggalkan saat mereka sedang melaksanakan shalat, dan kami datangi mereka juga saat melaksanakan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7486</td></tr><tr><td>Arabic No</td><td>7486</td></tr><tr><td>Reference</td><td>Book 97 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт о том, что Посланник Аллаха ﷺ сказал: «Рядом с вами пребывают ангелы, сменяющие друг друга. Одни из них приходят по ночам, а другие — днём, но они собираются вместе во время послеполуденной и утренней молитв. Потом те ангелы, которые провели с вами ночь, поднимаются, и Аллах спрашивает их: “В каком положении оставили вы рабов Моих?” — хотя Он лучше них осведомлен о вас. И они отвечают: “Они молились, когда мы покинули их, и молились, когда мы пришли к ним”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7486</td></tr><tr><td>Arabic No</td><td>7486</td></tr><tr><td>Reference</td><td>Book 97 Hadith 112</td></tr></tbody></table></div>
 

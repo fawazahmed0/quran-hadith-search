@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd: On the day when Mecca was conquered, the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], ia berkata; telah menceritakan kepada kami [Ahmad bin Al Mufadhdhal], ia berkata; telah menceritakan kepada kami [Asbath bin Nashr], ia berkata; [As Suddi] mengaku dari [Mush'ab bin Sa'd], dari [Sa'id], ia berkata; tatkala terjadi penaklukan Mekkah Rasulullah shallallahu 'alaihi wasallam memberikan keamanan kepada semua orang kecuali empat orang laki-laki dan dua orang wanita, dan beliau menyebutkan mereka, serta Ibnu Abu Sarh. Kemudian Sa'id menyebutkan hadits tersebut, ia berkata; adapun Ibnu Abu Sarh, ia bersembunyi di rumah Utsman bin Affan, kemudian tatkala Rasulullah shallallahu 'alaihi wasallam menyeru untuk berbai'ah, Utsman membawanya ke hadapan Rasulullah shallallahu wa'alaihi wa sallam dan berkata; wahai Nabi Allah, bai'atlah Abdullah. Kemudian beliau mengangkat kepalanya dan melihat kepadanya tiga kali, setiap melakukan tersebut beliau enggan untuk memba'iatnya. Kemudian setelah tiga kali beliau membai'atnya lalu beliau menghadap kepada para sahabatnya dan berkata: "Bukankah diantara kalian ada orang yang berakal yang mendatangi orang ini dimana ia melihatku. Aku menahan diri dari memba'iatnya, lalu ia membunuhnya?" Mereka berkata; kami tidak mengetahui wahai Rasulullah, apa yang ada di dalam hati anda. Bukankah anda telah memberi isyarat kepada kami dengan mata anda? Beliau berkata: "Sesungguhnya tidak selayaknya seorang nabi memiliki mata khianat." Abu Daud berkata; Abdullah adalah saudara Utsman sepersusuan. Al Walid bin 'Uqbah adalah saudara Utsman seibu, dan Utsman telah mencambuknya tatkala ia meminum arak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>2683</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>2683</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
 

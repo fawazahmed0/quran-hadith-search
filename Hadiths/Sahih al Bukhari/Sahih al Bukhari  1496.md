@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Ma'bad:(the slave of Ibn 'Abbas) Allah's Messenger (ﷺ) said to Mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Zakariya' bin Ishaq] dari [Yahya bin 'Abdullah bin Shayfiy] dari [Abu Ma'bad] sahayanya [Ibnu 'Abbas radliallahu 'anhuma] berkata; Rasulullah Shallallahu'alaihiwasallam berkata, kepada Mu'adz bin Jabal Radhiyalahu'anhu ketika Beliau mengutusnya ke negeri Yaman: "Sesungguhnya kamu akan mendatangi kaum Ahlul Kitab, jika kamu sudah mendatangi mereka maka ajaklah mereka untuk bersaksi tidak ada ilah yang berhak disembah kecuali Allah dan bahwa Muhammad adalah utusan Allah. Jika mereka telah mentaati kamu tentang hal itu, maka beritahukanlah mereka bahwa Allah mewajibkan bagi mereka shalat lima waktu pada setiap hari dan malamnya. Jika mereka telah mena'ati kamu tentang hal itu maka beritahukanlah mereka bahwa Allah mewajibkan bagi mereka zakat yang diambil dari kalangan orang mampu dari mereka dan dibagikan kepada kalangan yang faqir dari mereka. Jika mereka mena'ati kamu dalam hal itu maka janganlah kamu mengambil harta-harta terhormat mereka dan takutlah terhadap do'anya orang yang terzholimi karena antara dia dan Allah tidak ada hijab (pembatas yang menghalangi) nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1496</td></tr><tr><td>Arabic No</td><td>1496</td></tr><tr><td>Reference</td><td>Book 24 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что, посылая в Йемен Му‘аза бин Джабаля, да будет доволен им Аллах, Посланник Аллаха ﷺ сказал (ему): «Поистине, ты приедешь к людям из числа обладателей Писания, и когда ты явишься к ним, призови их (принести) свидетельство о том, что нет истинного бога, кроме Аллаха, и что Мухаммад — Посланник Аллаха. Если они подчинятся тебе в этом, сообщи (этим людям), что Аллах вменил им в обязанность (совершение) пяти намазов ежедневно. Если они подчинятся тебе в этом, сообщи им, что Аллах обязал их (выплачивать) садаку, которую следует брать с богатых среди них и отдавать бедным из их числа. Если же они подчинятся тебе и в этом, то ни в коем случае не бери из имущества людей того, что (наиболее) дорого им, и бойся проклятий притесняемого, ибо, поистине, не найдётся такой преграды, которая отделит (его мольбы) от Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1496</td></tr><tr><td>Arabic No</td><td>1496</td></tr><tr><td>Reference</td><td>Book 24 Hadith 96</td></tr></tbody></table></div>
 

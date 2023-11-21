@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (raa) a dit : Deux vieilles femmes des juives de Médine vinrent me voir 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] keduanya dari [Jarir] kata [Zuhair] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari [Masruq] dari ['Aisyah] dia berkata; "Dua wanita tua Yahudi Madinah pernah menemuiku seraya berkata; "Sesungguhnya penghuni kubur akan disiksa di kuburan mereka." 'Aisyah berkata; Maka aku mendustakan keduanya dan mempercayainya, lalu keduanya pergi. Setelah itu Rasulullah shallallahu 'alaihi wasallam datang menemuiku, maka aku beritahukan kepada beliau; "Wahai Rasulullah, dua wanita tua Yahudi Madinah telah menemuiku, keduanya beranggapan bahwa penghuni kubur akan disiksa di kuburan mereka." Beliau bersabda: "Keduanya benar, sesungguhnya penghuni kubur akan disiksa dengan siksaan yang dapat didengar oleh semua binatang melata." Kata 'Aisyah; "Setelah itu tidaklah aku melihat kecuali beliau selalu meminta perlindungan dari sika kubur dalam shalatnya." Telah menceritakan kepada kami [Hannad bin As Sarri] telah menceritakan kepada kami [Abul Ahwash] dari [Asy'ats] dari [Ayahnya] dari [Masruq] dari ['Aisyah] dengan hadis ini, dan didalamnya terdapat redaksi, 'Aisyah berkata; "Tidaklah beliau melaksanakan shalat setelah itu, kecuali aku selalu mendengar beliau meminta perlindungan dari siksa kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1321</td></tr><tr><td>Arabic No</td><td>586.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды ко мне зашли две иудейки из числа иудеев Медины, и они сказали мне: “Поистине, обитатели могил подвергаются мучениям в своих могилах!” Но я не поверила им и не сказала, что верю им, после чего они вышли. Затем ко мне зашёл Посланник Аллаха ﷺ, и я сказала ему: “О Посланник Аллаха! Поистине, две старушки из числа иудеев Медины пришли ко мне и стали утверждать, что обитатели могил подвергаются мучениям в своих могилах”, и (Пророк ﷺ) сказал: “Они сказали правду! Поистине, они подвергаются таким мучениям, которое слышат все животные”. И после этого я не видела, чтобы во время молитвы он не прибегал к защите (Аллаха) от мучений могилы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1321</td></tr><tr><td>Arabic No</td><td>586.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 159</td></tr></tbody></table></div>
 

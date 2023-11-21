@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) informed about the news of the deat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] telah menceritakan kepada kami [Sa'id bin Al Musayyab] dan [Abu Salamah] bahwa keduanya menceritakan kepadanya dari [Abu Hurairah radliallahu 'anhu] berkata,: Nabi Shallallahu'alaihiwasallam mengumumkan kepada kami kematian An-Najasyi, Penguasa Negeri Habasyah pada hari kematiannya lalu berkata,: "Mohonkanlah ampun buat saudara kalian". Dan dari [Ibnu Syihab] berkata, telah menceritakan kepada saya [Sa'id bin Al Musayyab] bahwa [Abu Hurairah radliallahu 'anhu] berkata,: Bahwa Nabi Shallallahu'alaihiwasallam membariskan mereka di tanah lapang kemudian Beliau bertakbir empat kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1328</td></tr><tr><td>Arabic No</td><td>1328</td></tr><tr><td>Reference</td><td>Book 23 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ построил их в ряды в мусалле и произнес четыре такбира
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1328</td></tr><tr><td>Arabic No</td><td>1328</td></tr><tr><td>Reference</td><td>Book 23 Hadith 83</td></tr></tbody></table></div>
 

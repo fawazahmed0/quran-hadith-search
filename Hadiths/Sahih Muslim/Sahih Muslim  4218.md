@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : Si seulement les gens font le l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Musa Ar Razi] telah mengabarkan kepada kami [Isa] -yaitu Ibnu Yunus-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; telah menceritakan kepada kami [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Numair] semuanya dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Ibnu Abbas] dia berkata, "Alangkah baiknya jika orang-orang mengurangi sepertiga dari harta yang diwasiatkan menjadi seperempat, karena Rasulullah shallallahu 'alaihi wasallam bersabda: "Sepertiga itu sudah cukup banyak." Dan dalam hadits Waki' disebutkan, "Cukup besar." Atau, "Cukup banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4218</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 25 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4218</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 25 Hadith 15</td></tr></tbody></table></div>
 

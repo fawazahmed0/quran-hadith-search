@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ibnu Syihab] dari [Sa'id bin Musayyab] bahwa dia menceritakan dari [Abu Hurairah] dia berkata, "Semoga Allah mengutuk orang-orang Yahudi, sebab Allah telah mengharamkan buat mereka lemak bangkai, namun mereka tetap menjual dan memakan hasil penjualannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4052</td></tr><tr><td>Arabic No</td><td>1583.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4052</td></tr><tr><td>Arabic No</td><td>1583.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 91</td></tr></tbody></table></div>
 

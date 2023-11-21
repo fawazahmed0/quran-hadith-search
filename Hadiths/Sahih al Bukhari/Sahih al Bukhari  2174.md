@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Shihab:that Malik bin Aus said, "I was in need of change for one-hu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Malik bin Aus] mengabarkan kepadanya bahwa dia mencari sharf (barang dagangan) yang akan dibelinya dengan seratus dirham. Maka Tholhah bin 'Ubaidullah memanggilku lalu kami saling mengemukakan harga dia membeli dariku lalu dia mengambil emas sebagai ganti pembayarannya seraya berkata: "Hingga tukang gudang kami datang dari hutan". ['Umar] mendengar perkataan itu lalu berkata: "Demi Allah, janganlah kamu meninggalkan dia hingga kamu ambil bayaran darinya karena Rasulullah shallallahu 'alaihi wasallam bersabda: "Jual beli emas dengan emas adalah riba' kecuali begini-begini (kontan, cash), beras dengan beras adalah riba' kecuali begini-begini (kontan, cash), gandum dengan gandum adalah riba' kecuali begini-begini (kontan, cash) dan kurma dengan kurma adalah riba' kecuali begini-begini (kontan, cash)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2174</td></tr><tr><td>Arabic No</td><td>2174</td></tr><tr><td>Reference</td><td>Book 34 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Малика бин Ауса, да будет доволен им Аллах, что (однажды) он хотел разменять сто динаров. (Малик бин Аус, да будет доволен им Аллах,) сказал:\n— Меня позвал к себе Тальха бин ‘Убайдуллах, мы поторговались, и он (согласился) обменять мои (деньги). Он взял золото, повертел его в руках, а потом сказал: «(Подожди,) пока мой управляющий не вернётся из аль-Габы», что же касается ‘Умара, который слышал (его слова), то он сказал: «Клянусь Аллахом, ты не (должен) расставаться с ним, пока не возьмёшь у него (деньги, ведь) Посланник Аллаха ﷺ сказал: “(Обмен) золота на золото является ростовщичеством, если только (золото не передаётся из рук в руки в равных количествах), и (обмен) пшеницы на пшеницу является ростовщичеством, если только (пшеница не передаётся из рук в руки в равных количествах), и (обмен) ячменя на ячмень является ростовщичеством, если только (ячмень не передаётся из рук в руки в равных количествах), и (обмен) фиников на финики является ростовщичеством, если только (финики не передаются из рук в руки в равных количествах)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2174</td></tr><tr><td>Arabic No</td><td>2174</td></tr><tr><td>Reference</td><td>Book 34 Hadith 124</td></tr></tbody></table></div>
 

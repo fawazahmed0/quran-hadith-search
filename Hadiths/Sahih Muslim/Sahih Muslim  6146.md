@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported that Abu Huraira reported many ahadith from Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdur Razaq] Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabih] dia berkata; 'Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, -kemudian dia menyebutkan beberapa Hadits yang di antaranya-; dan Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Dahulu orang-orang bani Isra'il mandi dengan telanjang sehingga sebagian dapat melihat aurat sebagaian yang lain, sedangkan Musa 'Alaihis Salam selalu mandi sendirian, lalu orang-orang berkata; 'Demi Allah tidaklah ada yang menghalangi Musa untuk mandi bersama kita kecuali karena dia memiliki cacat pada auratnya.'" Rasulullah Bersabda: "Suatu kali Musa pergi untuk mandi, lalu ia meletakkan pakaiannya di atas sebuah batu, namun batu tersebut hanyut membawa pakaiannya, " Rasulullah Bersabda lagi: "Lalu Musa segera mengejar batu tersebut untuk mengambilnya, ia berkata; 'Wahai batu kembalikanlah pakaianku, wahai batu kembalikanlah pakaianku.' Sehingga orang-orang bani Isra'il bisa melihat aurat Musa, lalu mereka berkata; 'Demi Allah, ternyata pada aurat Musa tidak ada kejanggalan, ' kemudian setelah itu batu tersebut bangun sehingga bisa terlihat oleh Musa. Lalu Musa mengambil pakaiannya dan memukul batu tersebut, " Abu Hurairah berkata; "Demi Allah, pada batu tersebut masih ada bekas pukulan Musa enam atau tujuh tempat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6146</td></tr><tr><td>Arabic No</td><td>339.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6146</td></tr><tr><td>Arabic No</td><td>339.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 204</td></tr></tbody></table></div>
 

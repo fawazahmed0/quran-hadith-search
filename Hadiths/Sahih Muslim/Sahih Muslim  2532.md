@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd ar-Rahman b. Abu Bakra reported on the authority of Abu Bakra that the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] ia berkata, telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dari [Ishaq bin Suwaid] dan [Khalid] dari [Abdurrahman bin Abu Bakarah] dari [Abu Bakarah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Dua bulan hari raya, keduanya tidaklah akan berkurang pahalanya, yakni Ramadlan dan Dzul Hijjah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2532</td></tr><tr><td>Arabic No</td><td>1089.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2532</td></tr><tr><td>Arabic No</td><td>1089.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 38</td></tr></tbody></table></div>
 

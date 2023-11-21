@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that Allah's Messenger (ﷺ) sent an expedition to Najd and I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam riwayat lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Nafi'] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengirim suatu pasukan menuju daerah Najd, sedangkan Ibnu Umar termasuk dalam prajurit tersebut. Lalu pasukan tersebut mendapatkan ghanimah yang banyak sehingga masing-masing dari mereka mendapatkan dua belas unta dan masih ditambah dengan satu unta lagi untuk setiap prajurit, dan Rasulullah shallallahu 'alaihi wasallam tidak merubah ketetapan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4559</td></tr><tr><td>Arabic No</td><td>1749.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4559</td></tr><tr><td>Arabic No</td><td>1749.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 40</td></tr></tbody></table></div>
 

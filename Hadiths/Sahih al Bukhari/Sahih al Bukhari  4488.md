@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:While some people were offering Fajr prayer in the Quba' mosq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Sufyan] dari [Abdullah bin Dinar] dari [Ibnu Umar] radliallahu 'anhuma; "Tatkala orang-orang melaksanakan shalat shubuh di Quba', tiba-tiba ada orang yang datang dan berkata; Allah telah menurunkan wahyu kepada Nabi shallallahu 'alaihi wasallam agar menghadap kiblat, maka menghadaplah ke sana! lalu mereka berbalik menghadap Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4488</td></tr><tr><td>Arabic No</td><td>4488</td></tr><tr><td>Reference</td><td>Book 65 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет Аллах доволен им и его отцом, сказал: «(Однажды), когда люди совершали утреннюю молитву в мечети Къуба, к ним пришёл какой-то человек и сказал: “Поистине, этой ночью (Аллах) ниспослал Посланнику Аллаха ﷺ Коран и велел обратиться (лицом) в сторону Каабы, так повернитесь же к ней”. Тогда они повернулись к Каабе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4488</td></tr><tr><td>Arabic No</td><td>4488</td></tr><tr><td>Reference</td><td>Book 65 Hadith 15</td></tr></tbody></table></div>
 

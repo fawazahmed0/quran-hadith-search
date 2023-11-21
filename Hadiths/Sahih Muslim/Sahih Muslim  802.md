@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:A man asked the Messenger of Allah (may peace he upon h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Fudhail bin Husain al-Jahdari] telah menceritakan kepada kami [Abu 'Awanah] dari [Utsman bin Abdullah bin Mauhab] dari [Ja'far bin Abi Tsaur] dari [Jabir bin Samurah] bahwa seorang laki-laki bertanya kepada Rasulullah Shallallahu'alaihiwasallam, "Apakah kami harus berwudhu karena makan daging kambing?" Beliau menjawab, "Jika kamu berkehendak maka berwudhulah, dan jika kamu tidak berkehendak maka janganlah kamu berwudhu." Dia bertanya lagi, "Apakah harus berwudhu disebabkan (makan) daging unta?" Beliau menjawab, "Ya. Berwudhulah disebabkan (makan) daging unta." Dia bertanya, "Apakah aku boleh shalat di kandang kambing?" Beliau menjawab, "Ya boleh." Dia bertanya, "Apakah aku boleh shalat di kandang unta?" Beliau menjawab, "Tidak." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Muawiyah bin Amr] dan telah menceritakan kepada kami [Zaidah] dari [Simak] --lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [al-Qasim bin Zakariya'] telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Syaiban] dari [Utsman bin Abdullah bin Mauhab] dan [Asy'ats bin Abi asy-Sya'tsa'] mereka semuanya meriwayatkan dari [Ja'far bin Abi Tsaur] dari [Jabir bin Samurah] dari Nabi shallallahu 'alaihi wasallam semisal hadits Abu Kamil dari Abu 'Awanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>802</td></tr><tr><td>Arabic No</td><td>360.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается Джабир ибн Самура передал, что один человек спросил Посланника Аллаха ﷺ: «Следует ли мне совершать омовение (после употребления в пищу) баранины?» (Пророк ﷺ) сказал: «Если хочешь, совершай, а если не хочешь, не совершай». (Этот человек) спросил: «А следует ли мне совершить омовение (после того, как я поем) верблюжатины?» (Пророк ﷺ) сказал: «Да, после (этого) тебе (следует) совершить омовение». (Потом) тот спросил: «Могу ли я молиться в загонах для овец?» (Пророк ﷺ) ответил: «Да». (Потом) тот спросил: «А могу ли я молиться в загонах для верблюдов?» и (Пророк ﷺ) ответил: «Нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>802</td></tr><tr><td>Arabic No</td><td>360.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 123</td></tr></tbody></table></div>
 

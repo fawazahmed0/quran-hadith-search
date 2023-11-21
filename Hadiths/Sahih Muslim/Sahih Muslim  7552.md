@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that 'Abdullah b. Ubayy b. Salul used to say to his slave-girl:Go
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] dari [Abu Mu'awiyah], teks milik Abu Kuraib, telah menceritakan kepada kami Abu Mu'awiyuah telah menceritakan kepada kami [Al A'masy] dari [Abu Sufyan] dari [Jabir] berkata: Dahulu Abdullah bin Ubai bin Salul berkata kepada budak wanitanya: Pergilah dan melacurlah untuk kami. Maka Allah 'azza wajalla menurunkan ayat: "Dan janganlah kamu paksa budak-budak wanitamu untuk melakukan pelacuran, sedang mereka sendiri mengingini kesucian, karena kamu hendak mencari keuntungan duniawi. dan barangsiapa yang memaksa mereka, maka sesungguhnya Allah adalah Maha Pengampun lagi Maha Penyayang (kepada mereka) sesudah mereka dipaksa itu." (An Nuur:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7552</td></tr><tr><td>Arabic No</td><td>3029.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7552</td></tr><tr><td>Arabic No</td><td>3029.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 30</td></tr></tbody></table></div>
 

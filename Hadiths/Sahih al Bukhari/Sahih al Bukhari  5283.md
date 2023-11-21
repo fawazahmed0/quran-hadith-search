@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Barira's husband was a slave called Mughith, as if I am seei
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] Telah mengabarkan kepada kami [Abdul Wahhab] Telah menceritakan kepada kami [Khalid] dari [Ikrimah] dari [Ibnu Abbas] bahwa suami Barirah adalah seorang budak yang bernama Mughits. Sepertinya aku melihat ia berthawaf di belakangnya seraya menangis hingga air matanya membasahi jenggot. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Abbas, tidakkah kamu ta'ajub akan kecintaan Mughits terhadap Barirah dan kebencian Barirah terhadap Mughits?" Akhirnya Nabi shallallahu 'alaihi wasallam pun bersabda: "Seandainya kamu mau meruju'nya kembali." Barirah bertanya, "Wahai Rasulullah, apakah Anda menyuruhku?" beliau menjawab, "Aku hanya menyarankan." Akhirnya Barirah pun berkata, "Sesungguhnya aku tak berhajat sedikit pun padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5283</td></tr><tr><td>Arabic No</td><td>5283</td></tr><tr><td>Reference</td><td>Book 68 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Мужем Бариры был один раб по имени Мугис, и я будто и сейчас вижу, как он, плача, идёт за ней и слёзы текут по его бороде. И Пророк ﷺ сказал ‘Аббасу: “О ‘Аббас, разве тебе не удивительно, что Мугис любит Бариру, а Барира ненавидит Мугиса?” А потом Пророк ﷺ сказал (Барире): “Вернулась бы ты к нему”. Она спросила: “О Посланник Аллаха, ты приказываешь мне (сделать это)?” Он сказал: “Я только ходатайствую”. (Тогда) она воскликнула: “Не нужен он мне!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5283</td></tr><tr><td>Arabic No</td><td>5283</td></tr><tr><td>Reference</td><td>Book 68 Hadith 32</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:One night a house in Medina was burnt with its occupants. The 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al A'Ala'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abdullah] dari [Abu Burdah] dari [Abu Musa] radliallahu 'anhu dia berkata; "Pada suatu malam salah satu rumah penduduk Madinah terbakar ketika penghuninya tertidur. Ketika hal itu diceritakan kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya api adalah musuh kalian, karena itu bila kalian hendak tidur, maka padamkanlah ia lebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6294</td></tr><tr><td>Arabic No</td><td>6294</td></tr><tr><td>Reference</td><td>Book 79 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «(Однажды) ночью в Медине загорелся дом, где находились жившие в нём люди, и когда Пророку ﷺ сообщили об этом, он сказал: “Поистине, этот огонь — враг вам, и поэтому, когда будете ложиться спать, гасите его(, чтобы уберечь) себя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6294</td></tr><tr><td>Arabic No</td><td>6294</td></tr><tr><td>Reference</td><td>Book 79 Hadith 66</td></tr></tbody></table></div>
 

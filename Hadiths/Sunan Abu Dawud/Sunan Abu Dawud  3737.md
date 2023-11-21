@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by Ibn ‘Umar to the sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian diundang untuk menghadiri sebuah pesta, maka hendaknya ia mendatanginya!" Telah menceritakan kepada kami [Makhlad bin Khalid] telah menceritakan kepada kami [Abu Usamah] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda dengan makna yang sama, ia menambahkan, "Jika tidak berpuasa hendaklah ia makan, jika sedang berpuasa hendaklah ia (memberikan) doa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1429)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3737</td></tr><tr><td>Arabic No</td><td>3737</td></tr><tr><td>Reference</td><td>Book 28 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал в качестве добавления к предыдущему хадису: «И если он не постится, то пусть поест, а если постится, то пусть вознесёт мольбу (, прося у Аллаха прощения и благодати для приготовивших эту еды)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1429)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3737</td></tr><tr><td>Arabic No</td><td>3737</td></tr><tr><td>Reference</td><td>Book 28 Hadith 2</td></tr></tbody></table></div>
 

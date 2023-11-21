@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ala b. 'Abd al-Rahman said:We came upon Anas b. Malik after the Zuhr prayer. He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Al 'Ala'bin Abdurrahman] bahwasanya dia berkata; Kami pernah menemui [Anas bin Malik] setelah Zhuhur, lalu beliau bangkit dan shalat Ashar. Setelah selesai dari shalatnya, kami menyebutkan tentang tergesa-gesa dalam shalat, atau menceritakannya, maka dia berkata; Saya pernah mendengar Rasulullah Shallallahu alaihi wasallam bersabda: "Itu adalah shalatnya orang-orang munafik, itu adalah shalatnya orang-orang munafik, itu adalah shalatnya orang-orang munafik, salah seorang dari mereka duduk hingga sinar matahari telah menguning, tatkala itu ia sedang berada di antara dua tanduk setan atau pada dua tanduk setan, maka dia bengkit untuk shalat, dia shalat empat rakaat dengan sangat cepat (seperti burung mematuk makanan), dia tidak mengingat Allah padanya kecuali sangat sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (622)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>413</td></tr><tr><td>Arabic No</td><td>413</td></tr><tr><td>Reference</td><td>Book 2 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Малика о том, что аль-‘Аляи ибн ‘Абдуррахман сказал: «Однажды мы зашли к Анасу ибн Малику после полуденной молитвы, а он стоял и совершал послеполуденную /‘аср/ молитву. Когда он закончил молитву, мы упомянули (при нём) о быстром совершении этой молитвы или (просто) упомянули о ней, и он сказал: “Я слышал, как Посланник Аллаха ﷺ говорил: “Это молитва лицемера, это молитва лицемера, это молитва лицемера! Один из них сидит, пока не пожелтеет солнце. А когда оно становится между рогов шайтана или: на рога шайтана, он встаёт и совершает четыре клевка, поминая при этом Аллаха лишь немного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (622)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>413</td></tr><tr><td>Arabic No</td><td>413</td></tr><tr><td>Reference</td><td>Book 2 Hadith 23</td></tr></tbody></table></div>
 

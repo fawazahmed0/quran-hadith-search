@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:That the Prophet (ﷺ) said, "The good is what Allah gave us l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al 'Alaa'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [kakeknya. Abu Burdah] dari [Abu Musa] dia menganggapnya dari Nabi shallallahu 'alaihi wasallam yang (setelah menceritakan mimpi beliau) beliau bersabda: "Ternyata itu berarti Kaum Mu'minin pada perang Uhud yang akan mendapatkan kebaikan seperti yang Allah datangkan berupa kebaikan dan pahala, sebagai janji yang benar, yang telah Allah berikan kepada kita pada perang Badar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>3987</td></tr><tr><td>Reference</td><td>Book 64 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы, что Пророк ﷺ сказал: «Благом стало то, что Аллах даровал потом, и это послужило наградой за искренность, дарованную нам Аллахом после дня Бадра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>3987</td></tr><tr><td>Reference</td><td>Book 64 Hadith 38</td></tr></tbody></table></div>
 

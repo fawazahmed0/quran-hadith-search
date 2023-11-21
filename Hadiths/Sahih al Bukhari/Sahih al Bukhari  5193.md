@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If a man Invites his wife to sleep
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ibnu Abu Adi] dari [Syu'bah] dari [Sulaiman] dari [Abu Hazim] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika seorang suami mengajak isterinya ke tempat tidur, lalu ia enggan untuk memenuhi ajakan suaminya, maka ia akan dilaknat Malaikat hingga pagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5193</td></tr><tr><td>Arabic No</td><td>5193</td></tr><tr><td>Reference</td><td>Book 67 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если мужчина позвал свою жену на супружеское ложе, а она отказалась прийти, то ангелы будут проклинать её до самого утра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5193</td></tr><tr><td>Arabic No</td><td>5193</td></tr><tr><td>Reference</td><td>Book 67 Hadith 127</td></tr></tbody></table></div>
 

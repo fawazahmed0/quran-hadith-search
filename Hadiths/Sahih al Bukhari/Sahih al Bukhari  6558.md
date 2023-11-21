@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hammad from 'Amr from Jabir:The Prophet (ﷺ) said, "Some people will c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] Telah menceritakan kepada kami [Hammad] dari [Amru] dari [Jabir] radliallahu 'anhu, bahwasanya Nabi Shallallahu'alaihiwasallam bersabda: "Pada hari kiamat ada sekelompok kaum yang keluar dari neraka dengan syafaat, seolah-olah mereka buah krai (mentimun kecil), " saya (Hamad) bertanya; 'apa maksud istilah dhoghobis? ' Amru menjawab; 'yaitu mentimun kecil.' Kata Hamad, ketika itu Amru adalah seseorang yang sering keceplosan, maka saya tanyakan langsung kepada 'Amru bin Dinar Abu Muhammad; 'apakah anda mendengar Jabir bin Abdulah mengatakan aku mendengar Nabi Shallallahu'alaihiwasallam bersabda: "Ada sekelompok kaum yang keluar dari neraka karena mendapat syafaat?" Ia menjawab; 'Benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6558</td></tr><tr><td>Arabic No</td><td>6558</td></tr><tr><td>Reference</td><td>Book 81 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, да будет доволен им Аллах, что Пророк ﷺ сказал: «Будут люди, которые выйдут из Огня благодаря заступничеству, и они будут выглядеть как са’арир». Хаммад (один из передатчиков) спросил ‘Амра (другого передатчика): «Что значит са’арир?» Он ответил: «Это — мелкие огурчики /дагабис/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6558</td></tr><tr><td>Arabic No</td><td>6558</td></tr><tr><td>Reference</td><td>Book 81 Hadith 147</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported so many 'ahadith from Allah's Messenger (ﷺ) and one among
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabih] dia berkata; 'Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, -kemudian dia menyebutkan beberapa Hadits yang di antaranya-; dan Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Demi Dzat yang jiwa Muhammad ada dalam genggaman-Nya, sungguh akan kepada kalian suatu masa, dimana seseorang tidak akan melihatku lagi, kemudian jika seandainya dia dapat melihatku, maka hal itu lebih ia cintai dari pada keluarga dan hartanya." Abu Ishaq berkata; 'Menurut saya, arti Hadits tersebut adalah; Sungguh seandainya dia dapat melihatku bersama mereka, maka hal itu lebih ia sukai dari pada keluarganya dan hartanya. Namun sayangnya dia tidak akan dapat melihatku lagi.' Menurutku ada bagian-bagian kalimat yang didahulukan dan ada juga yang diakhirkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6129</td></tr><tr><td>Arabic No</td><td>2364</td></tr><tr><td>Reference</td><td>Book 43 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6129</td></tr><tr><td>Arabic No</td><td>2364</td></tr><tr><td>Reference</td><td>Book 43 Hadith 187</td></tr></tbody></table></div>
 

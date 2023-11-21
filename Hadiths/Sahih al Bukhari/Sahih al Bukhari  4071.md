@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tha'laba bin Abi Malik:'Umar bin Al-Khattab distributed woolen clothes 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Yunus] dari [Ibnu Syihab], [Tsa'labah bin Abu Malik] pernah mengatakan, "Sesungguhnya [Umar bin Al Khatthab] pernah membagi-bagikan kain kepada para wanita penduduk Madinah, hingga tersisa satu kain yang sangat bagus, lalu orang-orang yang ada di sisinya berkata, "Wahai Amirul Mukminin, berikan saja kain tersebut kepada putri (cucu) Rasulullah shallallahu 'alaihi wasallam!" Maksud mereka adalah Ummu Kultsum binti Ali, lalu Umar berkata, "Ummu Salith lebih berhak mendapatkan kain ini, -Ummu Salith adalah seorang wanita Anshar yang pernah berbaiat kepada Rasulullah shallallahu 'alaihi wasallam-, Umar berkata, "Sesungguhnya dia pernah membawakan air minum kami pada perang Uhud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4071</td></tr><tr><td>Arabic No</td><td>4071</td></tr><tr><td>Reference</td><td>Book 64 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Са‘лябы ибн Абу Малика, что (однажды) ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, разделил между женщинами Медины плащи, после чего остался один хороший плащ, и один из тех, кто находился рядом с (‘Умаром), сказал: «О повелитель правоверных, отдай этот плащ дочери Посланника Аллаха ﷺ, на которой ты женат», имея в виду дочь ‘Али — Умм Кульсум. (На это) ‘Умар сказал: «Умм Салит имеет больше прав на него», а Умм Салит была из числа ансаров и (в своё время) принесла Посланнику Аллаха ﷺ клятву (на верность исламу)». ‘Умар сказал: «И, поистине, в день (битвы при) Ухуде она приносила нам бурдюки (с водой)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4071</td></tr><tr><td>Arabic No</td><td>4071</td></tr><tr><td>Reference</td><td>Book 64 Hadith 116</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) was shrouded in three pieces of cloth an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Hisyam] telah menceritakan kepadaku [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa Rasulullah shallallahu 'alaihi wasallam (ketika wafat) dikafani jasadnya dengan tiga helai kain dan tidak dikenakan padanya baju dan serban (tutup kepala)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1272</td></tr><tr><td>Arabic No</td><td>1272</td></tr><tr><td>Reference</td><td>Book 23 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиша, да будет доволен ею Аллах, что тело Посланника Аллаха ﷺ было завернуто в три куска белого йеменского полотна без рубахи и чалмы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1272</td></tr><tr><td>Arabic No</td><td>1272</td></tr><tr><td>Reference</td><td>Book 23 Hadith 33</td></tr></tbody></table></div>
 

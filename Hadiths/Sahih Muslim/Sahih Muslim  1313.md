@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Ma'mar reported:There was an Amir in Mecca who pronounced taslim twice. Abdu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Said] dari [Syu'bah] dari [Al Hakam] dan [Manshur] dari [Mujahid] dari [Abu Ma'mar], seorang penguasa di Makkah pernah mengucapkan salam dua kali, lalu [Abdullah] bertanya; "Darimana ia mendapatkan hal itu?" Al Hakam berkata dalam hadisnya; "Rasulullah shallallahu 'alaihi wasallam pernah melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1313</td></tr><tr><td>Arabic No</td><td>581.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Ма‘мара, что в Мекке был правитель, который дважды произносил таслим (в конце молитвы). (Услышав об этом) ‘Абдуллах сказал: «Откуда он узнал (эту сунну)?» Аль-Хакам сказал: «Поистине, Посланник Аллаха ﷺ делал это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1313</td></tr><tr><td>Arabic No</td><td>581.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 151</td></tr></tbody></table></div>
 

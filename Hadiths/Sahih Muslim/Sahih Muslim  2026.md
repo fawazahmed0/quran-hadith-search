@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abu Rafi' said:Marwan appointed Abu Huraira as his deputy in Medina and he h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] Telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Ja'far] dari [bapaknya] dari [Ibnu Abu Rafi'] ia berkata; Suatu ketika (khalifah) Marwan meminta kepada [Abu Hurairah] untuk menggantikannya (sebagai pemimpin) di Madinah, sementara Marwan pergi ke Makkah. Maka pada suatu hari Jum'at, Abu Hurairah mengimami kami shalat Jum'at. Ia membaca surat Al Jumu'ah pada raka'at pertama, dan surat Al Munafiqun pada raka'at kedua. Setelah selesai shalat, kutemui Abu Hurairah dan kukatakan kepadanya, "Kedua surat yang Anda baca tadi, pernah dibaca oleh Ali bin Abi Thalib ketika ia berada di Kufah." Abu Hurairah berkata, "Saya telah mendengar Rasulullah shallallahu 'alaihi wasallam membaca kedua surat itu pada hari Jum'at." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakar bin Abu Syaibah] keduanya berkata, telah menceritakan kepada kami [Hatim bin Isma'il] -dalam jalur lain- Dan telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Abdul Aziz] yakni Ad Darawardi, keduanya dari [Ja'far] dari [bapaknya] dari [Ubaidullah bin Abu Rafi'] ia berkata; Marwan meminta kepada [Abu Hurairah] untuk menggantikannya. Yakni semisalnya. Hanya saja dalam riwayat Hatim; "Maka ia pun membaca surat Al Jumu'ah pada sujud yang pertama, sedangkan pada sujud (raka'at) terakhir ia membaca, 'IDZAA JAA'AKAL MUNAAFIQUUNA..'" Sedangkan pada riwayat Abdul Aziz adalah serupa dengan hadits Sulaiman bin Bilal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2026</td></tr><tr><td>Arabic No</td><td>877.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Рафи‘ сказал: «Марван назначил Абу Хурайру своим наместником в Медине, а сам отправился в Мекку. Совершая с нами пятничную молитву, Абу Хурайра прочитал после суры “аль-Джуму‘а” во втором рак‘ате (суру, в которой говорится): “Когда лицемеры приходят к тебе…”. Когда Абу Хурайра вышел (из мечети) я догнал его и сказал ему: “Ты прочитал две суры, которые ‘Али ибн Аби Талиб читал в Куфе”. Абу Хурайра сказал: “Я слышал, как Посланник Аллаха ﷺ читал их в пятницу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2026</td></tr><tr><td>Arabic No</td><td>877.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 76</td></tr></tbody></table></div>
 

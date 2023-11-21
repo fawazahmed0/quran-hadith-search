@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has also been reported through a different chain of narrators in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] dan [Musa bin Isma'il] mereka berdua berkata; telah menceritakan kepada kami [Aban] dari [Yahya] dari [Abdullah bin Abi Qatadah] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila telah dikumandangkan iqamah untuk shalat, maka janganlah kalian berdiri sehingga melihatku (datang)." Abu Dawud berkata; Demikianlah diriwayatkan oleh [Ayyub] dan [Hajjaj Ash-Shawwaf] dari [Yahya] dan [Hisyam Ad-Dastuwa'i] dia berkata; Yahya menuliskan kepadaku, dan diriwayatkan oleh [Mu'awiyah bin Sallam] dan [Ali bin Al-Mubarak] dari [Yahya] dan mereka berdua menyebutkan padanya; (beliau bersabda): "Hingga kalian melihatku (datang) dan kalian harap tenang." Telah menceritakan kepada kami [Ibrahim bin Musa] telah menceritakan kepada kami [Isa] dari [Ma'mar] dari [Yahya] dengan isnadnya semisanya, dia meyebutkan; (beliau bersabda): "Hingga kalian melihatku telah keluar (dari rumah ke Masjid)." Abu Dawud berkata; Tidak meyebutkan lafazh 'telah keluar' kecuali Ma'mar, dan diriwayatkan oleh [Ibnu 'Uyainah] dari [Ma'mar], dia tidak menyebutkan padanya lafazh 'telah keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (637) Sahih Muslim (604)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>540</td></tr><tr><td>Arabic No</td><td>540</td></tr><tr><td>Reference</td><td>Book 2 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Яхйа (передавая) похожий хадис с иснадом (предыдущего) сказал: «Пока не увидите, что я уже вышел».Абу Дауд сказал: «Но он не упомянул (слова) “… что я уже вышел”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (637) Sahih Muslim (604)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>540</td></tr><tr><td>Arabic No</td><td>540</td></tr><tr><td>Reference</td><td>Book 2 Hadith 150</td></tr></tbody></table></div>
 

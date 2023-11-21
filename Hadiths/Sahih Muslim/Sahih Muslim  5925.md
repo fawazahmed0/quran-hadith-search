@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported Allah's Messenger (ﷺ) as saying:There came to him (the Holy Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Rumh]; Telah mengabarkan kepada kami [Al Laits] dari [Abu Az Zubair] dari [Jabir] dari Rasulullah shallallahu 'alaihi wasallam bahwa seorang Arab dusun datang bertanya kepada Nabi shallallahu 'alaihi wasallam: "Ya Rasulullah! Aku bermimpi dalam tidurku, kepalaku di penggal lalu aku mengikutinya." Rasulullah shallallahu 'alaihi wasallam lalu memperingatkan kepadanya: "Janganlah kamu menceritakan kepada orang lain permainan setan denganmu ketika kamu tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5925</td></tr><tr><td>Arabic No</td><td>2268.03</td></tr><tr><td>Reference</td><td>Book 42 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5925</td></tr><tr><td>Arabic No</td><td>2268.03</td></tr><tr><td>Reference</td><td>Book 42 Hadith 29</td></tr></tbody></table></div>
 

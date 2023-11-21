@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thumama bin 'Abdullah;:Anas never used to refuse (a gift of) scent and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Azrah bin Tsabit Al Anshari] dia berkata; telah menceritakan kepadaku [Tsumamah bin Abdullah] dari [Anas] radliallahu 'anhu bahwa dia tidak pernah menolak (pemberian) minyak wangi, dan dia mengira bahwa Nabi shallallahu 'alaihi wasallam juga tidak pernah menolak (pemberian) minyak wangi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5929</td></tr><tr><td>Arabic No</td><td>5929</td></tr><tr><td>Reference</td><td>Book 77 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ не отвергал благовоний(, которые ему дарили люди)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5929</td></tr><tr><td>Arabic No</td><td>5929</td></tr><tr><td>Reference</td><td>Book 77 Hadith 144</td></tr></tbody></table></div>
 

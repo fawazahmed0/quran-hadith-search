@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu soit satisfait d'elle) a dit : "Hâla bint Khuwaylid, la sœur 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Suwaid bin Sa'id]; Telah menceritakan kepada kami ['Ali bin Mushir] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; "Halah binti Khuwailid, saudara perempuan Khadijah, pernah meminta izin untuk masuk ke dalam rumah Rasulullah shallallahu 'alaihi wasallam. Sepertinya beliau mengenali suaranya yang mirip dengan suara Khadijah, hingga beliau merasa senang. Tak lama kemudian beliau berkata: ya Allah, ternyata ia adalah binti Khuwailid, adik perempuan Khadijah! ' Aisyah berkata; Tentu saja saya merasa cemburu dan berkata; 'Mengapa Anda masih mengingat-ingat perempuan Quraisy yang tua renta itu, yang kedua ujung bibirnya telah memerah dan ia sudah tidak ada lagi, Sedangkan Allah telah memberikan gantinya yang lebih dari padanya untuk engkau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6282</td></tr><tr><td>Arabic No</td><td>2437</td></tr><tr><td>Reference</td><td>Book 44 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6282</td></tr><tr><td>Arabic No</td><td>2437</td></tr><tr><td>Reference</td><td>Book 44 Hadith 112</td></tr></tbody></table></div>
 

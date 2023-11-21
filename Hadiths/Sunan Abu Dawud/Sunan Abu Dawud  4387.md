@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) had a man's hand cut o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Muhammad bin Abu As Sari Al Asqalani] -ini adalah lafadz darinya, dan ini juga lebih lengkap- dari [Ibnu Numair] dari [Muhammad bin Ishaq] dari [Ayyub bin Musa] dari [Atha] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam memotong tangan seorang laki-laki karena mencuri baju perang yang harganya satu dinar, atau sepuluh dirham." Abu Dawud berkata, " [Muhammad bin Salamah] dan [Sa'dan bin Yahya] juga meriwayatkannya dari [Ibnu Ishaq] dengan sanadnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4387</td></tr><tr><td>Arabic No</td><td>4387</td></tr><tr><td>Reference</td><td>Book 40 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ велел отрубить руку укравшему щит стоимостью в динар или десять дирхемов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4387</td></tr><tr><td>Arabic No</td><td>4387</td></tr><tr><td>Reference</td><td>Book 40 Hadith 37</td></tr></tbody></table></div>
 

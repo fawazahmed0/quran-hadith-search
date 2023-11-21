@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Five things have passed: Al-Lizam, the defeat of the Romans, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Muslim] dari [Masruq] dari [Abdullah] dia berkata; lima hal telah berlalu; "Kematian, kekalahan Ramawi, hantaman keras, terbelahnya bulan, dan kabut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4825</td></tr><tr><td>Arabic No</td><td>4825</td></tr><tr><td>Reference</td><td>Book 65 Hadith 347</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Абдуллах сказал: «Пять событий уже произошли это: неизбежность (, упомянутая в аяте: “…и теперь будет это [наказание] для вас неизбежно [обязательно]”), (победа) римлян, хватка (в день Бадра), (раскол) луны и дым (упомянутый в суре ат-Духан)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4825</td></tr><tr><td>Arabic No</td><td>4825</td></tr><tr><td>Reference</td><td>Book 65 Hadith 347</td></tr></tbody></table></div>
 

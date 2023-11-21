@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Imran ibn Husayn: The Prophet (ﷺ) led (us) in the noon prayer, and a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan kepada kami [Syu'bah]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Katsir Al 'Abdi] telah mengabarkan kepada kami [Syu'bah] sedangkan ma'na haditsnya dari [Qatadah] dari [Zurarah] dari ['Imran bin Hushain] bahwa Nabi shallallahu 'alaihi wasallam menunaikan shalat Dluhur, tiba-tiba seorang laki-laki datang sambil membaca "Sabbihisma rabbikal a'la." di belakang beliau, ketika selesai shalat, beliau bersabda: "Siapakah tadi yang membaca (surat)?" para sahabat menjawab; "Laki-laki ini." beliau bersabda: "Sungguh aku telah mengetahui, bahwa sebagian dari kalian telah mengalahkan bacaanku." Abu Daud berkata; Al Walid berkata dalam haditsnya, Syu'bah berkata; kataku kepada Qatadah; 'tidakkah perkataannya Sa'id; "Diamlah (untuk mendengarkan) bacaan Al Qur'an (imam)." Qatadah berkata; "Hal itu jika (imam) mengeraskan bacaannya." Ibnu Katsir berkata dalam haditsnya; dia berkata; kataku kepada Qatadah; "Sepertinya beliau hanya membenci." Qatadah menimpali; "Jika beliau membencinya, berarti beliau melarang yang demikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (398)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>828</td></tr><tr><td>Arabic No</td><td>828</td></tr><tr><td>Reference</td><td>Book 2 Hadith 438</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что однажды, когда Пророк ﷺ совершал полуденную молитву, один человек стал читать позади него суру «Славь имя Господа твоего Высочайшего…». Закончив молитву, (Пророк ﷺ) спросил: «Кто из вас читал?» Ему указали на одного человека, и он сказал: «Я заметил, что кто-то из вас меня перебивает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (398)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>828</td></tr><tr><td>Arabic No</td><td>828</td></tr><tr><td>Reference</td><td>Book 2 Hadith 438</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Dawud berkata; Aku diceritakan dari [Harun Ibnul Mughirah] ia berkata; telah menceritakan kepada kami [Amru bin Abu Qais] dari [Syu'aib bin Khalid] dari [Abu Ishaq] ia berkata; Sambil melihat puteranya Al hasan, Ali radliallahu 'anhu berkata berkata, "Puteraku ini adalah seorang pemimpin sebagaimana yang disebutkan oleh Nabi shallallahu 'alaihi wasallam, dan akan keluar dari keturunannya seorang laki-laki yang bernama seperti nama Nabi kalian, akhlaqnya sama tetapi tidak untuk postur tubuhnya." Kemudian beliau menyebutkan kisahnya, "Ia akan memenuhi bumi dengan keadilan." Harun berkata, "Telah menceritakan kepada kami [Amru bin Abu Qais] dari [Mutharrif bin Tharif] dari [Abu Al Hasan] dari [Hilal bin Amru] ia berkata; Aku mendengar [Ali radliallahu 'anhu] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Akan keluar seorang laki-laki dari seberang sungai (seperti Bukhara dan Samarqan), dia bernama Al Harits bin Hurrats, lalu setelahnya akan keluar seorang laki-laki bernama Manshur. Ia memperkokoh keluarga Muhammad sebagaimana bangsa Quraisy memperkokoh Rasulullah shallallahu 'alaihi wasallam. Maka wajib atas setiap mukmin menolongnya, atau beliau mengatakan: "memenuhi seruannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Исхак передаёт, что ‘Али (ибн Абу Талиб), да будет доволен им Аллах, однажды сказал, посмотрев на своего сына аль-Хасана: «Этот мой сын господин, как назвал его Пророк ﷺ. Среди его потомков появится человек, имя которого будет совпадать с именем вашего Пророка ﷺ. Он будет похож на вашего Пророка ﷺ нравом, но не внешностью. И он упомянул историю о том, как тот наполнит землю справедливостью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
 

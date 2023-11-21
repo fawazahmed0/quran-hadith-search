@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Not equal are those believers who sat (at home) and did not 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam] bahwa [Ibnu Juraij] Telah mengabarkan kepada mereka; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Ishaq] Telah mengabarkan kepada kami ['Abdur Razzaq] Telah mengabarkan kepada kami [Ibnu Juraij] Telah mengabarkan kepadaku ['Abdul Karim] bahwa [Miqsam] -budak- 'Abdullah bin Al Harits mengabarkan kepadanya dari [Ibnu 'Abbas radliallahu 'anhuma] mengenai ayat: LAA YASTAWIL QAA'IDUUNA MINAL MUKMINIINA WAL MUJAAHIDUUNA FII SABIILILLAAH' 'Tidaklah sama antara orang mukmin yang tidak ikut berperang dan mereka yang berjihad fii sabilillah.' (An Nisa: 95), yaitu yang duduk-duduk tidak ikut perang Badar dan orang-orang yang berangkat untuk berperang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4595</td></tr><tr><td>Arabic No</td><td>4595</td></tr><tr><td>Reference</td><td>Book 65 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аббас, да будет доволен Аллах им и его Аллах, сказал об аяте «Не равны те из верующих, которые отсиживаются…»: «Это о битве при Бадре и тех, кто отправился на битву при Бадре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4595</td></tr><tr><td>Arabic No</td><td>4595</td></tr><tr><td>Reference</td><td>Book 65 Hadith 117</td></tr></tbody></table></div>
 

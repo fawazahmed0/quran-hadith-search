@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The above two hadith have been narrated likewise through another chain of transm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Ibnu Syihab) berkata; [Abu Salamah] berkata; [Abu Qatadah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa melihatku dalam tidurnya maka dia telah melihat yang benar (melihatku)." Dan telah menceritakannya kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Ya'qub bin Ibrahim]; Telah menceritakan kepada kami [anak saudaraku, Az Zuhri]; Telah menceritakan kepada kami pamanku. -kemudian dia menyebutkan dua Hadits seluruhnya beserta kedua sanadnya yang serupa dengan Hadits [Yunus]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5922</td></tr><tr><td>Arabic No</td><td>2267.02</td></tr><tr><td>Reference</td><td>Book 42 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5922</td></tr><tr><td>Arabic No</td><td>2267.02</td></tr><tr><td>Reference</td><td>Book 42 Hadith 26</td></tr></tbody></table></div>
 

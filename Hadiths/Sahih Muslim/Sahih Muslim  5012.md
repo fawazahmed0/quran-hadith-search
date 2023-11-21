@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Adi (he was the son of Thabit) said:I heard al-Bara' and 'Abdullah b. Abu Aufa s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidillah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari ['Adi] -yaitu Ibnu Tsabit- dia berkata; saya mendengar [Al Barra] dan [Abdullah bin Abu Aufa] keduanya berkata, "Kami pernah menangkap seekor keledai dan hendak memasaknya, tiba-tiba seorang penyeru yang ternyata utusan Rasulullah shallallahu 'alaihi wasallam berkata, "Tumpahkanlah periuk kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5012</td></tr><tr><td>Arabic No</td><td>1938.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5012</td></tr><tr><td>Arabic No</td><td>1938.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 41</td></tr></tbody></table></div>
 

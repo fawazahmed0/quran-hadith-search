@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Apostle of Allaah(ﷺ) as saying “There are Camels w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'], telah menceritakan kepada kami [Ibnu Abu Fudaik], telah menceritakan kepadaku [Abdullah bin Abu Yahya], dari [Sa'id bin Abu Hindun], ia berkata; [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Terdapat unta untuk syetan dan rumah untuk syetan, adapun unta syetan sungguh aku telah melihatnya, yaitu: salah seorang diantara kalian keluar dengan membawa unta yang tidak dikendarai yang telah ia gemukkan, lalu ia tidak menaiki satu untapun darinya, ia melewati saudaranya yang telah kehabisan bekal namun ia tidak menaikkannya. Adapun rumah syetan aku belum melihatnya." Sa'id berkata; aku belum diperlihatkan kepadanya, kecuali tandu-tandu yang ditutupi orang dengan kain sutera
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2568</td></tr><tr><td>Arabic No</td><td>2568</td></tr><tr><td>Reference</td><td>Book 15 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2568</td></tr><tr><td>Arabic No</td><td>2568</td></tr><tr><td>Reference</td><td>Book 15 Hadith 92</td></tr></tbody></table></div>
 

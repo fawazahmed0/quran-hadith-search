@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Al-Fadl bint Al-Harith:I heard the Prophet (ﷺ) reciting Surat-al-M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah] dari [Abdullah bin Abbas radliallahu 'anhuma] dari [Ummu Fadl binti Al Harits] dia berkata; "Aku mendengar Nabi shallallahu 'alaihi wasallam pada waktu shalat maghrib membaca surat Al Mursalat. Setelah itu beliau tidak shalat lagi bersama kami hingga beliau wafat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4429</td></tr><tr><td>Arabic No</td><td>4429</td></tr><tr><td>Reference</td><td>Book 64 Hadith 451</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм аль-Фадль бинт аль-Харис сказала: «Я слышала, как Пророк ﷺ читал в послезакатной молитве /магриб/ суру “аль-Мурсалят”, и после этого он больше не молился с нами, пока Аллах не упокоил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4429</td></tr><tr><td>Arabic No</td><td>4429</td></tr><tr><td>Reference</td><td>Book 64 Hadith 451</td></tr></tbody></table></div>
 

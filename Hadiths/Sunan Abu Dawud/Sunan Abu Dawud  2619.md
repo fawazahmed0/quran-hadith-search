@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: The Prophet (ﷺ) said: When one of you comes to th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy bin Al Walid Ar Raqqam], telah menceritakan kepada kami [Abdul A'la], telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Al Hasan] dari [Samurah bin Jundub], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang diantara kalian datang kepada hewan ternak, apabila ada pemiliknya maka hendaknya ia meminta izin kepadanya, apabila ia mengizinkannya maka silahkan ia memeras susunya dan minum. Dan jika tidak ada pemiliknya maka hendaknya ia memanggil (pemiliknya) tiga kali, jika ia menjawabnya maka hendaknya ia meminta izin, jika tidak maka hendaknya ia memerah, minum dan tidak membawanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2619</td></tr><tr><td>Arabic No</td><td>2619</td></tr><tr><td>Reference</td><td>Book 15 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2619</td></tr><tr><td>Arabic No</td><td>2619</td></tr><tr><td>Reference</td><td>Book 15 Hadith 143</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:I never saw Allah's Messenger (ﷺ) finding fault with food
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], [Abu Kuraib], [Muhammad bin Al Mutsanna], ['Amru An Naqid] dan lafazh ini miliknya Abu Kuraib ia berkata; Telah menceritakan kepada kami [Abu Mu'awiyah]; Telah menceritakan kepada kami [Al A'masy] dari [Abu Yahya] budak milik keluarga Ja'dah dari [Abu Hurairah radliallahu 'anhu] dia berkata; "Aku tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam mencela suatu makanan. Apabila beliau menyukainya maka dimakannya dan apabila beliau tidak menyukainya maka beliau diam saja." Telah menceritakan kepada kami [Abu Kuraib] dan [Muhammad bin Al Mutsanna] keduanya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Hazim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5383</td></tr><tr><td>Arabic No</td><td>2064.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 257</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5383</td></tr><tr><td>Arabic No</td><td>2064.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 257</td></tr></tbody></table></div>
 

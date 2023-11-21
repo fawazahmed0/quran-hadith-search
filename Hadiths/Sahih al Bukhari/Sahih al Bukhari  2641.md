@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:People were (sometimes) judged by the revealing of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hakam bin Nafi'] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah menceritakan kepadaku [Humaid bin 'Abdurrahman bin 'Auf] bahwa ['Abdullah bin 'Utbah] berkata, aku mendengar ['Umar bin Al Khaththob radliallahu 'anhu] berkata: "Sesungguhnya orang-orang telah mengambil wahyu (sebagai pedoman) pada masa hidup Rasulullah shallallahu 'alaihi wasallam dan hari ini wahyu sudah terputus. Dan hari ini kita menilai kalian berdasarkan amal amal yang nampak (zhahir). Maka siapa yang secara zhahir menampakkan perbuatan baik kepada kita, kita percaya kepadanya dan kita dekat dengannya dan bukan urusan kita apa yang tersembunyi darinya karena hal itu sesuatu yang menjadi urusan Allah dan Dia yang akan menghitungnya. Dan siapa yang menampakkan perbuatan yang jelek kepada kita, maka kita tidak percaya kepadanya dan tidak membenarkannya sekalipun dibalik itu ada yang mengatakan baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2641</td></tr><tr><td>Arabic No</td><td>2641</td></tr><tr><td>Reference</td><td>Book 52 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Утба сказал: «Я слышал, как ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «Поистине, при жизни Посланника Аллаха ﷺ с людей спрашивали на основании откровений, но ниспослание откровений прекратилось, и теперь мы спрашиваем с вас по тем делам вашим, которые (мы видим), и тем из вас, кто проявляет себя перед нами с хорошей стороны, мы доверяем и приближаем к себе, никак не касаясь того, что скрыто у них в глубине души, ибо за это их рассчитает один лишь Аллах! Тем же, кто проявляет себя перед нами с плохой стороны, мы не доверяем и не верим им, даже если они утверждают, что и не помышляют ни о чём дурном!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2641</td></tr><tr><td>Arabic No</td><td>2641</td></tr><tr><td>Reference</td><td>Book 52 Hadith 5</td></tr></tbody></table></div>
 

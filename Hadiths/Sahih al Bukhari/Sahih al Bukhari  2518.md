@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:I asked the Prophet, "What is the best deed?" He replied, "To 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Hisyam bin 'Urwah] dari [bapaknya] dari [Abu Murawih] dari [Abu Dzar radliallahu 'anhu] berkata; Aku bertanya kepada Nabi shallallahu 'alaihi wasallam, amal apakah yang paling utama?". Beliau menjawab: "Iman kepada Allah dan jihad di jalan-Nya". Kemudian aku bertanya lagi: "Pembebasan budak manakah yang paling utama?". Beliau menjawab: "Yang paling tinggi harganya dan yang paling berharga hati tuannya". Aku katakan: "Bagaimana kalau aku tidak dapat mengerjakannya?". Beliau berkata: "Kamu membantu orang yang telantar atau orang bodoh yang tak mempunyai ketrampilan ". Aku katakan lagi:: "Bagaimana kalau aku tidak dapat mengerjakannya?". Beliau berkata: "Kamu hindari manusia dari keburukan karena yang demikian berarti shadaqah yang kamu lakukan untuk dirimu sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2518</td></tr><tr><td>Arabic No</td><td>2518</td></tr><tr><td>Reference</td><td>Book 49 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «(Однажды) я спросил Пророка ﷺ : “О Посланник Аллаха, какие дела являются наиболее достойными?” Он ответил: “Вера в Аллаха и борьба на пути Его”. Я спросил: “А какие рабы лучше всех?” Он ответил: “Те, которые обошлись дороже всего и которых их хозяева ценят больше всего”. Я спросил: “А если я не (смогу) сделать этого?” Он сказал: “Тогда помоги занятому каким-либо делом, или сделай что-нибудь сам вместо неумелого”. Я спросил: “А если я не (смогу) сделать и этого?” Он сказал: “Тогда воздержись от причинения зла людям, и это станет садакой, которую ты подашь самому себе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2518</td></tr><tr><td>Arabic No</td><td>2518</td></tr><tr><td>Reference</td><td>Book 49 Hadith 2</td></tr></tbody></table></div>
 

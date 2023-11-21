@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubaidullah bin Hafs:that 'Umar bin Nafi' told him that Nafi', Maula 'Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] dia berkata; telah mengabarkan kepadaku [Makhlad] dia berkata; telah mengabarkan kepadaku [Ibnu Juraij] dia berkata; telah mengabarkan kepadaku ['Ubaidullah bin Hafsh] bahwa [Umar bin Nafi'] mengabarkan kepadanya dari [Nafi'] bekas budak Abdullah pernah mendengar [Ibnu Umar] radliallahu 'anhuma berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam melarang dari qaza' (mencukur sebagian rambut kepala dan membiarkan sebagian yang lain)." 'Ubaidullah mengatakan; "saya bertanya; "Apakah qaza' itu" 'Ubaidullah lalu mengisyaratkan kepada kami sambil mengatakan; "Jika rambut anak kecil dicukur, lalu membiarkan sebagian yang ini, yang ini dan yang ini." 'Ubaidullah menunjukkan kepada kami pada ubun-ubun dan samping (kanan dan kiri) kepalanya." Ditanyakan kepada 'Ubaidullah; "Apakah hal itu berlaku untuk anak laki-laki dan perempuan?" dia menjawab; "Saya tidak tahu yang seperti ini." Penanya bertanya lagi; "Apakah khusus untuk anak laki-laki." 'Ubaidullah mengatakan (kepada syaikhnya); "Pertanyaan itu pernah juga aku ulangi (kepada syaikhku), lalu dia berkata; "Dan tidak mengapa (membiarkan) rambut depan kepala dan rambut tengkuk bagi anak-anak, akan tetapi maksud qaza' adalah membiarkan sebagian rambut yang ada di ubun-ubun, hingga di kepala hanya tersisa itu, begitu pula dengan memangkas rambut kepalanya ini dan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5920</td></tr><tr><td>Arabic No</td><td>5920</td></tr><tr><td>Reference</td><td>Book 77 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Посланник Аллаха ﷺ запретил каза‘».\nПередатчик (этого хадиса) сказал: «“Каза‘” — это оставление в разных местах прядей волос во время бритья головы ребёнка», указав при этом рукой себе на лоб и на обе стороны головы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5920</td></tr><tr><td>Arabic No</td><td>5920</td></tr><tr><td>Reference</td><td>Book 77 Hadith 135</td></tr></tbody></table></div>
 

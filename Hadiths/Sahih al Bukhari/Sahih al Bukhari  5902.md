@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "Today I saw myself i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari [Abdullah bin Umar] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Di saat saya tengah bermimpi pada malam hari di dekat Ka'bah saya melihat seorang laki-laki yang berkulit sawo matang, berperawakan sangat rupawan yang pernah saya lihat dari seorang laki-laki dan berambut lurus, dipapah dua orang laki-laki atau berada di antara dua pundak laki-laki dan rambutnya meneteskan air, tengah thawaf di Ka'bah, Saya bertanya, 'Siapa orang ini? ' di beritahukan, 'Ibnu Maryam.' Tiba-tiba ada seorang lelaki berambut keriting, dan buta mata kanannya, seolah-olah matanya seperti buah anggur yang menjorok. Lalu Saya bertanya, 'Siapakah orang ini? ' diberitahukan; 'Ad Dajjal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5902</td></tr><tr><td>Arabic No</td><td>5902</td></tr><tr><td>Reference</td><td>Book 77 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Посланник Аллаха ﷺ сказал: «Прошлой ночью я видел себя (во сне) у Каабы, и увидел смуглого человека, который по виду являлся лучшим среди смуглых людей, из тех, что ты видел. У него были красивые и ухоженные локоны, которых ты только видел, и с них капала вода. Он совершал обход Дома (Аллаха), опираясь на двух мужчин (или: на плечи двух мужчин). Я спросил: “Кто это?” Мне сказали: “Это Мессия, сын Марйам”. А потом я оказался возле человека с короткими и курчавыми волосами, кривого на правый глаз, который был похож на выпуклую виноградину. Я спросил: “Кто это?” — и (мне) ответили: “Антихрист” /аль-Масиху-д-Даджаль/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5902</td></tr><tr><td>Arabic No</td><td>5902</td></tr><tr><td>Reference</td><td>Book 77 Hadith 119</td></tr></tbody></table></div>
 

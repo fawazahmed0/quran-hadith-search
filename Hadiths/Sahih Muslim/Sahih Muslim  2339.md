@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Ya'qub bin Abdurrahman Al Qari] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan terjadi hari kiamat, sebelum harta kekayaan telah tertumpuk dan melimpah ruah, hingga seorang laki-laki pergi ke mana-mana sambil membawa harta zakatnya, tetapi dia tidak mendapatkan seorang pun yang bersedia menerima zakatnya itu. Dan sehingga tanah Arab menjadi subur Makmur kembali dengan padang-padang rumput dan sungai-sungai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2339</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Не наступит этот Час до тех пор, пока не увеличится богатство и будет в таком изобилии, что выйдет человек (чтобы выплатить) закят со своего имущества, но не найдёт никого, кто принял бы его от него, и (не наступит этот Час), пока земля арабов вновь не покроется зеленью и реками»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2339</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

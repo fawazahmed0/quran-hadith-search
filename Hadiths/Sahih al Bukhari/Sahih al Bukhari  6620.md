@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:I saw the Prophet (ﷺ) on the Day of (the battle of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] telah memberitakan kepada kami [Jarir ibnu Jazim] dari [Abu Ishaq] dari [Al Barra' bin 'Azib] menuturkan; aku melihat Nabi shallallahu 'alaihi wasallam di perang Khandaq memindahkan tanah-tanah bersama kami seraya melantunkan bait syair; "Demi Allah, kalaulah Allah tidak memberi kami petunjuk, kami tidak puasa dan tidak pula shalat, maka turunkanlah ketenangan bagi kami, kokohkanlah kaki-kaki kami jika kami bertemu musuh, musuh musyrikin telah sewenang-wenang terhadap kami, kalaulah mereka ingin mengganggu kami, kami menolaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6620</td></tr><tr><td>Arabic No</td><td>6620</td></tr><tr><td>Reference</td><td>Book 82 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся, что аль-Бара (ибн ‘Азиб), да будет доволен им Аллах, сказал: «В битве у рва я видел, как Пророк ﷺ, носил вместе с нами землю и он говорил:\n“Клянусь Аллахом, если бы не Ты, не встали бы мы на прямой путь,Мы бы не постились и не молились!Ниспошли же нам спокойствиеи укрепи стопы наши, если встретим мы (врагов).Многобожники напали на нас,Но, если захотят они смутить нас, мы откажемся!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6620</td></tr><tr><td>Arabic No</td><td>6620</td></tr><tr><td>Reference</td><td>Book 82 Hadith 26</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) said: When one of you becomes 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Hasan Al Mishishi] telah menceritakan kepada kami [Hajjaj] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Hisyam bin 'Urwah] dari ['Urwah] dari ['Aisyah] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian berhadats dalam shalatnya, hendaknya ia memegang hidungnya lalu keluar." Abu Daud berkata; "(hadits ini) juga di riwayatkan oleh [Hammad bin Salamah] dan [Abu Usamah] dari [Hisyam] dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam, namun keduanya (Hammad dan Abu Usamah) tidak menyebutkan "Aisyah radliallahu 'anha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1114</td></tr><tr><td>Arabic No</td><td>1114</td></tr><tr><td>Reference</td><td>Book 2 Hadith 725</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1114</td></tr><tr><td>Arabic No</td><td>1114</td></tr><tr><td>Reference</td><td>Book 2 Hadith 725</td></tr></tbody></table></div>
 

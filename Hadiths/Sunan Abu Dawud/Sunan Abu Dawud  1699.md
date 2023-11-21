@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Asma, daughter of Abu Bakr, said :I said : Messenger of Allah(SAWS), I have noth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Isma'il], telah mengabarkan kepada Kami [Ayyub], telah menceritakan kepada Kami [Abdullah bin Abu Mulaikah], telah menceritakan kepadaku [Asma' binti Abu Bakr], ia berkata; wahai Rasulullah, aku tidak mempunyai apa-apa kecuali hanya apa yang telah dimasukkan Zubair kerumahnya, apakah aku boleh memberikannya? Beliau menjawab: "Berikanlah dan janganlah kamu menahan pemberian, maka kamu juga akan diperlakukan sama seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1699</td></tr><tr><td>Arabic No</td><td>1699</td></tr><tr><td>Reference</td><td>Book 9 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Асма бинт Абу Бакра, да будет доволен ею Аллах: «Однажды я сказала: “О Посланник Аллаха, у меня нет ничего, кроме того, что аз-Зубайр принёс в свой дом. Подавать ли мне из этого имущества?” Он сказал: “Подавай. Не закрывай [сосуд подаяния], тогда и от тебя не будет закрыт [сосуд благодати]”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1699</td></tr><tr><td>Arabic No</td><td>1699</td></tr><tr><td>Reference</td><td>Book 9 Hadith 144</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali b. Abi Talib (Allah be pleased with him) reported:Allah's Apostle (ﷺ) put 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim bin Maimun] dan [Muhammad bin Marzuq] dan [Abdu bin Humaid] -Abdu berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- Telah menceritakan kepada kami [Muhamamd bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Al Hasan bin Muslim] bahwa [Mujahid] telah mengabarkan kepadanya bahwa [Abdurrahman bin Abu Laila] telah mengabarkan kepadanya bahwa [Ali bin Abu Thalib] telah mengabarkan kepadanya bahwasanya; Nabi shallallahu 'alaihi wasallam menyuruhnya untuk mengurusi penyembelihan hewan kurban, menyedekahkan daging dan kulitnya serta segala sesuatu yang berhubungan dengan kesempurnaan kurban kepada orang-orang miskin. Dan dagingnya tidak boleh diberikan kepada tukang potong sedikitpun sebagai upah. Dan telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abdul Karim bin Malik Al Jazari] bahwa [Mujahid] telah mengabarkan kepadanya bahwa [Abdurrahman bin Abu Laila] telah mengabarkan kepadanya bahwa [Ali bin Abu Thalib] telah mengabarkan kepadanya, bahwasanya; Nabi shallallahu 'alaihi wasallam memerintahkannya.. Yakni serupa dengan hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3183</td></tr><tr><td>Arabic No</td><td>1317.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 387</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3183</td></tr><tr><td>Arabic No</td><td>1317.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 387</td></tr></tbody></table></div>
 

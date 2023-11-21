@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:The Messenger of Allah (ﷺ) used to have sexual intercourse with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [al-Hasan bin Ahmad bin Abi Syu'aib al-Harrani] telah menceritakan kepada kami [Miskin, yaitu Ibnu Bukair al-Hadzdza'] dari [Syu'bah] dari [Hisyam bin Zaid] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam menggilir istri-istrinya dengan satu kali mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>708</td></tr><tr><td>Arabic No</td><td>309</td></tr><tr><td>Reference</td><td>Book 3 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что Пророк ﷺ обходил своих жён, совершая большое омовение /гусль/ при этом лишь один раз
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>708</td></tr><tr><td>Arabic No</td><td>309</td></tr><tr><td>Reference</td><td>Book 3 Hadith 30</td></tr></tbody></table></div>
 

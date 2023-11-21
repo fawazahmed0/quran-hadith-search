@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ya'la: The Messenger of Allah (ﷺ) saw a man washing in a public place
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad bin Nufail] telah menceritakan kepada kami [Zuhair] dari [Abdul Malik bin Abu Sulaiman Al 'Arzami] dari ['Atha] dari [Ya'la], bahwa Rasulullah shallallahu 'alaihi wasallam melihat seorang laki-laki mandi di tanah lapang tanpa memakai sarung. Kemudian beliau naik mimbar, lalu memuji Allah dan bersabda: "Sesungguhnya Allah 'azza wajalla Maha Pemalu dan Tertutup, Dia menyukai sifat malu dan tertutup. Apabila salah seorang di antara kalian mandi, maka hendaknya ia menutupi dirinya." Telah menceritakan kepada kami [Muhammad bin Ahmad bin Abu Khalaf] telah menceritakan kepada kami [Al Aswad bin 'Amir] telah menceritakan kepada kami [Abu Bakr bin 'Ayyasy] dari [Abdul Malik bin Abu Sulaiman] dari ['Atha] dari [Shafwan bin Ya'la] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini." Abu Daud berkata, "Hadits yang pertama lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4012</td></tr><tr><td>Arabic No</td><td>4012</td></tr><tr><td>Reference</td><td>Book 33 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Я‘ли, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ увидел, как один человек моется без изара на открытом месте. Тогда он взошёл на минбар, восхвалил и восславил Аллаха, а потом сказал: «Поистине, Всемогущий и Великий Аллах Стыдливый и Скрытный, и Он любит стыдливость и сокрытие. Поэтому, когда любой из вас моется, пусть прикрывается чем-нибудь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4012</td></tr><tr><td>Arabic No</td><td>4012</td></tr><tr><td>Reference</td><td>Book 33 Hadith 4</td></tr></tbody></table></div>
 

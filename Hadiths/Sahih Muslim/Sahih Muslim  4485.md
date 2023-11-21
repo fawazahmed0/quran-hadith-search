@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sha'bi reported that the scribe of al-Mughira b. Shu'ba said:Mu'awiya wrote to M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ismail bin Ulayyah] dari [Khalid Al Khaddza'] telah menceritakan kepadaku [Ibnu Asywa'] dari [As Sya'bi] telah menceritakan kepadaku [Sekretaris Mughirah bin Syu'bah] dia berkata, "Mu'awiyah pernah mengirim surat kepada [Mughirah], 'Tulislah untukku sesuatu yang pernah kamu dengar dari Rasulullah shallallahu 'alaihi wasallam! ' Lantas dia membalas suratnya, 'Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah membenci atas kalian tiga perkara; mengatakan sesuatu yang tidak jelas sumbernya, menyia-nyiakan harta dan banyak bertanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4485</td></tr><tr><td>Arabic No</td><td>593.08</td></tr><tr><td>Reference</td><td>Book 30 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4485</td></tr><tr><td>Arabic No</td><td>593.08</td></tr><tr><td>Reference</td><td>Book 30 Hadith 16</td></tr></tbody></table></div>
 

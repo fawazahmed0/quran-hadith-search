@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:that the Prophet (ﷺ) saw in her house a girl whose face had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Khalid] telah menceritakan kepada kami [Muhammad bin Wahb bin 'Athiyah Ad Dimasyqi] telah menceritakan kepada kami [Muhammad bin Harb] telah menceritakan kepada kami [Muhammad bin Al Walid Az Zubaidi] telah mengabarkan kepada kami [Az Zuhri] dari ['Urwah bin Zubair] dari [Zainab puteri Ummu Salamah] dari [Ummu Salamah] radliallahu 'anha bahwa Nabi shallallahu 'alaihi wasallam melihat budak wanita di rumahnya, ketika beliau melihat bekas hitam pada wajah budak wanita itu, beliau bersabda: "Ruqyahlah dia, karena padanya terdapat nadlrah (sisa sakit yang disebabkan karena sorotan mata jahat)." Hadits ini diperkuat oleh riwayat [Abdullah bin Salim] dari [Az Zubaidi], dan berkata [Uqail] dari [Az Zuhri] telah mengabarkan kepadaku [Urwah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5739</td></tr><tr><td>Arabic No</td><td>5739</td></tr><tr><td>Reference</td><td>Book 76 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умм Саламы, да будет доволен ею Аллах, что, когда Пророк ﷺ увидел в её доме девушку, на лице которой появилось тёмное пятно, он сказал: «Читайте над ней заговор, ибо, поистине, её сглазили!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5739</td></tr><tr><td>Arabic No</td><td>5739</td></tr><tr><td>Reference</td><td>Book 76 Hadith 54</td></tr></tbody></table></div>
 

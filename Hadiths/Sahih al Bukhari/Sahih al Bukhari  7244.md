@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "But for the emigration, I wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abuz Zinad] dari [Al A'raj] dari [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalaulah bukan karena hijrah, maka aku adalah seorang Anshar, kalaulah manusia mengarungi lembah dan Anshar mengarungi lembah lain atau lereng gunung, niscaya aku mengarungi lembah Anshar atau lereng gunung Anshar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7244</td></tr><tr><td>Arabic No</td><td>7244</td></tr><tr><td>Reference</td><td>Book 94 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Если бы не хиджра, я непременно был бы одним из ансаров. Если бы люди пошли по одной долине, а ансары — другой (или: ущельем), я бы обязательно пошёл долиной ансаров (или: ущельем ансаров)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7244</td></tr><tr><td>Arabic No</td><td>7244</td></tr><tr><td>Reference</td><td>Book 94 Hadith 19</td></tr></tbody></table></div>
 

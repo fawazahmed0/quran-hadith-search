@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:That she said, "O Allah's Messenger (ﷺ)! Your companions are re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Amru bin 'Ali] telah bercerita kepada kami [Abu 'Ashim] telah bercerita kepada kami ['Utsman bin Al Aswad] telah bercerita kepada kami [Ibnu Abi Mulaikah] dari ['Aisyah radliallahu 'anha] bahwa dia berkata: "Wahai Rasulullah, para sahabat Tuan telah kembali dengan membawa pahala haji dan 'umrah sedangkan aku belum menyempurnakan haji". Maka Beliau berkata: "Pergilah kamu dan hendaklah 'Abdur Rahman (kakak Aisyah) memboncengkanmu". Maka Beliau memerintahkan 'Abdur Rahman agar mengantarnya untuk melaksanakan 'umrah dari At-Tan'im dan Rasulullah shallallahu 'alaihi wasallam menunggunya di ujung kota Makkah hingga 'Aisyah radliallahu 'anha datang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>2984</td></tr><tr><td>Reference</td><td>Book 56 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: “О Посланник Аллаха! Твои сподвижники возвращаются, получив награду за хадж и умру, а я совершила только хадж”. Он ответил ей: “Отправляйся в сопровождении ‘Абдуррахмана!” И велел ‘Абдуррахману дать ей совершить умру из Тан‘има. Посланник Аллаха ﷺ ожидал её в верхней части Мекки, пока она не пришла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>2984</td></tr><tr><td>Reference</td><td>Book 56 Hadith 193</td></tr></tbody></table></div>
 

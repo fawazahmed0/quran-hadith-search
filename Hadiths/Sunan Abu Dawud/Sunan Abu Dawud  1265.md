@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. Sarjas:A man came while the Prophet (ﷺ) was leading the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Ashim] dari [Abdullah bin Sarjis] dia berkata; "Seorang laki-laki datang, sementara Nabi shallallahu 'alaihi wasallam tengah mengerjakan shalat shubuh, kemudian laki-laki itu shalat dua raka'at, barulah dia masuk (shaf) untuk mengerjakan shalat bersama Nabi shallallahu 'alaihi wasallam, setelah selesai shalat, beliau bersabda: "Wahai fulan, dari kedua shalatmu tadi, manakah yang merupakan shalat (shubuh)? yang kamu kerjakan secara sendirian ataukah yang kamu kerjakan bersama kami?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Сарджис, да будет доволен им Аллах, сказал: «Однажды, когда Пророк ﷺ совершал утреннюю молитву, пришёл какой-то человек. Он совершил два рак‘ата (дополнительной молитвы) и только потом присоединился к Пророку ﷺ. Закончив молитву, Пророк ﷺ сказал: “О такой-то! Какую же молитву (ты совершал как обязательную) ту, которую ты совершил в одиночку, или ту, которую ты совершил вместе с нами?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:When I got married, Allah's Messenger (ﷺ) said to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepada kami [Muharib] ia berkata; Aku mendengar [Jabir bin Abdullah] radliallahu 'anhuma berkata; aku telah menikah, Rasulullah shallallahu 'alaihi wasallam bertanya padaku: "Bagaimana wanita yang kamu nikahi? Kujawab; aku menikahi seorang janda." Beliau bersabda: "Kenapa kamu tidak menikah dengan seorang gadis, sehinga kamu dapat bermain-main dengannya.?" Lalu aku pun menuturkan hal itu pada Amru bin Dinar, lalu [Amru] berkata; Aku mendengar [Jabir bin Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda padaku: "(Kenapa bukan) wanita yang masih gadis, sehingga kamu dapat bermain-main dengannya dan ia pun dapat bermain-main denganmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5080</td></tr><tr><td>Arabic No</td><td>5080</td></tr><tr><td>Reference</td><td>Book 67 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Когда я женился, Посланник Аллаха ﷺ спросил меня: “На ком ты женился?” Я ответил: “Я женился на женщине, которая уже была замужем”. Он сказал: “Почему же не на девственнице, с которой ты мог бы играть?”».\nДжабир также сказал: «Посланник Аллаха ﷺ сказал: “Почему же не на девственнице, с которой ты мог бы играть, и которая играла бы с тобой?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5080</td></tr><tr><td>Arabic No</td><td>5080</td></tr><tr><td>Reference</td><td>Book 67 Hadith 18</td></tr></tbody></table></div>
 

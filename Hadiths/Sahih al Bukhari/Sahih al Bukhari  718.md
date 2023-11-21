@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Straighten your rows, for I see you from 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada kami ['Abdul Warits] dari ['Abdul 'Aziz bin Shuhaib] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Luruskanlah shaf, sesungguhnya aku dapat melihat kalian dari balik punggungku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>718</td></tr><tr><td>Arabic No</td><td>718</td></tr><tr><td>Reference</td><td>Book 10 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Выравнивайте ваши ряды, ибо, поистине, я вижу(, что делаете) вы у меня за спиной!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>718</td></tr><tr><td>Arabic No</td><td>718</td></tr><tr><td>Reference</td><td>Book 10 Hadith 113</td></tr></tbody></table></div>
 

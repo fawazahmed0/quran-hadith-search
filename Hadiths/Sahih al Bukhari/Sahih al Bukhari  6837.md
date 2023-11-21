@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Zaid bin Khalid:The verdict of Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah] dari [Abu Hurairah] dan [Zaid bin Khalid] radliallahu 'anhuma, bahwasanya Rasulullah Shallallahu'alaihiwasallam ditanya tentang hamba sahaya yang berzina dan belum menikah. Maka Nabi menjawab: "Jika ia berzina maka deralah, jika berzina lagi deralah, kemudian jika berzina lagi maka juallah sekalipun seharga seutas tali." Ibnu Syihab mengatakan; 'Saya tidak tahu setelah kali ketiga atau keempat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6837</td></tr><tr><td>Arabic No</td><td>6837</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры и Зейда ибн Халида, да будет доволен Аллах ими обоими, что однажды Посланника Аллаха ﷺ спросили, как следует поступить с несостоявшей в браке рабыней, если она совершит прелюбодеяние. Он ответил: «Если она совершит прелюбодеяние, подвергните её бичеванию, если она опять совершит прелюбодеяние, подвергните её бичеванию, если она опять совершит прелюбодеяние, подвергните её бичеванию, а потом продайте её, пусть даже по цене верёвки».\nИбн Шихаб (один из передатчиков этого хадиса) сказал: «Я не знаю, (когда следует продать такую рабыню,) — после третьего или после четвёртого раза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6837</td></tr><tr><td>Arabic No</td><td>6837</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

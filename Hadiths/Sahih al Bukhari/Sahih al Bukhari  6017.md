@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) used to say, "O Muslim ladies! A neighbou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] telah menceritakan kepada kami [Sa'id yaitu Al Maqburi] dari [Ayahnya] dari [Abu Hurairah] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Wahai para wanita muslimah, janganlah antara tetangga yang satu dengan yang lainnya saling meremehkan walaupun hanya dengan memberi kaki kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6017</td></tr><tr><td>Arabic No</td><td>6017</td></tr><tr><td>Reference</td><td>Book 78 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, что Пророк ﷺ сказал: «О женщины-мусульманки, пусть ни одна соседка ни в коем случае не пренебрегает (ничем, чтобы сделать добро) своей соседке, даже если (речь идёт всего лишь об) овечьем копыте»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6017</td></tr><tr><td>Arabic No</td><td>6017</td></tr><tr><td>Reference</td><td>Book 78 Hadith 48</td></tr></tbody></table></div>
 

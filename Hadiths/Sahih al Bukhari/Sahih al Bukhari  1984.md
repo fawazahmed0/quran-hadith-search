@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin 'Abbas:I asked Jabir "Did the Prophet (ﷺ) forbid fasting
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari ['Abdul Hamid bin Jubair bin Syaibah] dari [Muhammad bin 'Abbad] berkata; "Aku bertanya kepada [Jabir radliallahu 'anhu] apakah benar Nabi shallallahu 'alaihi wasallam telah melarang puasa pada hari Jum'at? Dia menjawab: "Benar". Selain 'Abu 'Ashim, para perawi menambahkan: "Yakni apabila mengkhususkan hari Jum'at untuk berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1984</td></tr><tr><td>Arabic No</td><td>1984</td></tr><tr><td>Reference</td><td>Book 30 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Джабира, да будет доволен им Аллах, спросили: «Запрещал ли Пророк ﷺ соблюдать пост в пятницу?» — и он сказал: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1984</td></tr><tr><td>Arabic No</td><td>1984</td></tr><tr><td>Reference</td><td>Book 30 Hadith 91</td></tr></tbody></table></div>
 

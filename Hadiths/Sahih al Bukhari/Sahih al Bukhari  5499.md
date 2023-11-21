@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said that he met Zaid bin 'Amr Nufail
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] berkata, telah menceritakan kepada kami [Abdul Aziz] -yaitu Ibnul Mukhtar- berkata, telah mengabarkan kepada kami [Musa bin Uqbah] ia berkata; telah mengabarkan kepadaku [Salim] Bahwasanya ia mendengar [Abdullah] menceritakan dari Rasulullah shallallahu 'alaihi wasallam, Bahwasanya beliau berjumpa dengan Zaid bin Amru bin Nufail di bawah Baldah -dan itu adalah ketika belum turun wahyu kepada Rasulullah shallallahu 'alaihi wasallam-, Rasulullah shallallahu 'alaihi wasallam kemudian menyodorkan kepadanya nampan berisi daging, namun ia enggan untuk memakannya. Beliau pun bersabda: "Sesungguhnya aku tidak makan apa yang kalian sembah untuk sesembahan kalian, dan aku juga tidak makan sesuatu yang tidak disebut nama Allah atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5499</td></tr><tr><td>Arabic No</td><td>5499</td></tr><tr><td>Reference</td><td>Book 72 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал, что он встретил Зейда ибн ‘Амра Нуфейля в месте близ Балдаха, и это произошло до того, как на Посланника Аллаха ﷺ снизошло откровение. Посланник Аллаха ﷺ поднес блюдо с мясом(, которое было предложено ему язычниками,) Зейду ибн ‘Амру, но Зейд отказался есть его, а затем сказал (этим язычникам): “Я не ем того, что вы режете на своих на каменных жертвенниках, и я ем только то, над чем было упомянуто имя Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5499</td></tr><tr><td>Arabic No</td><td>5499</td></tr><tr><td>Reference</td><td>Book 72 Hadith 25</td></tr></tbody></table></div>
 

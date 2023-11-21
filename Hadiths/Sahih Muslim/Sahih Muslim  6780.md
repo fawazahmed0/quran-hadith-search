@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:The most despicable amongst pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Ibnu Juraij] dari [Ibnu Abi Mulaikah] dari ['Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang paling Allah benci adalah orang yang keras kepala lagi suka bermusuhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6780</td></tr><tr><td>Arabic No</td><td>2668</td></tr><tr><td>Reference</td><td>Book 47 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6780</td></tr><tr><td>Arabic No</td><td>2668</td></tr><tr><td>Reference</td><td>Book 47 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubayd ibn Khalid as-Sulami,: A man from the Companions of the Prophet (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Manshur?] dari [Tamim bin Salamah] atau [Sa'd bin 'Ubaidah] dari [Ubaid bin Khalid As Sulami] seorang sahabat Nabi shallallahu 'alaihi wasallam, sesekali ia berkata dari Nabi shallallahu 'alaihi wasallam, dan sesekali ia berkata; dari 'Ubaid ia berkata: "Mati tiba-tiba adalah siksaan karena kemarahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>3110</td></tr><tr><td>Reference</td><td>Book 21 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От Тамима ибн Саляма или Са‘да ибн ‘Убайды передаётся, что ‘Убайд ибн Халид ас-Сулями, один из сподвижников Пророка ﷺ передал однажды, что Пророк ﷺ сказал, а однажды что сам ‘Убайд сказал: «Внезапная смерть хватка разгневанного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>3110</td></tr><tr><td>Reference</td><td>Book 21 Hadith 22</td></tr></tbody></table></div>
 

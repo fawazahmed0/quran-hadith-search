@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa: Aisha told me, "Allah's Messenger (ﷺ) used to examine them acc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2713</td></tr><tr><td>Arabic No</td><td>2713</td></tr><tr><td>Reference</td><td>Book 54 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Урва сказал: «’Аиша рассказала, что Посланник Аллаха ﷺ испытывал тех женщин следующим аятом: “О те, кто уверовал! Когда к вам приходят переселяющиеся верующие женщины, подвергайте их испытанию…” до слов: “…Прощающий, Милосердный” (сура “аль-Мумтахана”, аят 12)». ‘Урва сказал, что ’Аиша сказала: «И той из них, кто соглашался с этим условием, Посланник Аллаха ﷺ говорил: “Я принял твою присягу”. Он говорил это словами, и клянусь Аллахом, его рука никогда не прикасалась к руке (чужой) женщины, он принимал их присягу только словами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2713</td></tr><tr><td>Arabic No</td><td>2713</td></tr><tr><td>Reference</td><td>Book 54 Hadith 2</td></tr></tbody></table></div>
 

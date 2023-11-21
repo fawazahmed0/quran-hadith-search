@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "They now realize that what I used to te
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] berkata; Nabi Shallallahu'alaihiwasallam bersabda: "Mereka (kaum musyrikin yang terbunuh dalam perang Badar) telah mengetahui sekarang bahwa apa yang aku katakan (terbukti) benar dan Allah telah berfirman (QS An-Naml ayat 80 yang artinya): ("Sungguh kamu tidak akan dapat menjadikan orang yang sudah mati bisa mendengar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 23 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Теперь они уже убедились в истинности того, что я говорил», а Аллах Всевышний сказал: «Поистине, ты не в силах заставить услышать призыв ни мёртвых, ни глухих…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 23 Hadith 123</td></tr></tbody></table></div>
 

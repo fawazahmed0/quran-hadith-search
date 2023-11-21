@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mus'ab bin Sa'd:I offered prayer beside my father and approximated both
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Ya'fur] berkata, Aku mendengar [Mush'ab bin Sa'd] berkata, "Aku shalat di samping [ayahku], lalu aku rapatkan tanganku dan aku letakkan di atas pahaku. Maka ayahku pun melarangnya seraya berkata, "Kami pernah mengerjakan seperti itu lalu kami dilarang (oleh Nabi shallallahu 'alaihi wasallam), dan kami diperintahkan untuk meletakkan tangan kami pada lutut-lutut kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>790</td></tr><tr><td>Reference</td><td>Book 10 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Мус‘аба бин Са‘да, что он сказал: «Однажды, совершая молитву рядом со своим отцом, я соединил ладони и положил их между ног (во время поясного поклона), и отец запретил мне делать это, сказав: “Мы тоже так делали, но затем нам было запрещено это и было приказано ставить руки на колени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>790</td></tr><tr><td>Reference</td><td>Book 10 Hadith 185</td></tr></tbody></table></div>
 

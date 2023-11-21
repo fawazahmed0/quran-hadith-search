@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yunus Ibn Jubair:Ibn 'Umar divorced his wife while she was having her m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj] Telah menceritakan kepada kami [Yazid bin Ibrahim] Telah menceritakan kepada kami [Muhammad bin Sirin] Telah menceritakan kepadaku [Yunus bin Jubair] Aku bertanya kepada [Ibnu Umar], maka ia pun berkata; "Ibnu Umar pernah menceraikan isterinya dalam keadaan haid. Maka Umar pun menanyakannya kepada Nabi shallallahu 'alaihi wasallam. Dan akhirnya beliau memerintahkannya agar ia meruju'nya kembali dan menceraikannya di permulaan masa iddahnya." Aku bertanya, "Apakah ia (isteri Ibnu Umar) menunggu masa iddah dari perceraian itu?" ia menjawab, "Bagaimana pendapatmu, bila ia memang benar-benar bodoh atau pandir (tak tahu)?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5333</td></tr><tr><td>Arabic No</td><td>5333</td></tr><tr><td>Reference</td><td>Book 68 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Юнус ибн Джубайр рассказывал: «Я спросил Ибн ‘Умара (о разводе женщины во время месячных), и он сказал: “Ибн ‘Умар дал развод своей жене, когда у неё была менструация, и ‘Умар спросил Пророка ﷺ об этом, а Пророк ﷺ велел ему вернуть её, а когда она очистится, дать ей развод”. Я спросил: “А засчитался ли тот развод?” Он ответил: “А как думаешь, (разве это оправдание), что он проявил слабость и глупость?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5333</td></tr><tr><td>Arabic No</td><td>5333</td></tr><tr><td>Reference</td><td>Book 68 Hadith 78</td></tr></tbody></table></div>
 

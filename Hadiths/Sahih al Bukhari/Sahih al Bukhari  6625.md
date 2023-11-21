@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Allah's Messenger (ﷺ) also said:"By Allah, if anyone of you insists on fulfill
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan (masih dari jalur periwayatan yang sama dengan hadits sebelumnya -dari [Abu Hurairah]-) Rasulullah Shallallahu'alaihiwasallam bersabda: "Demi Allah, salah seorang diantara kalian terus-menerus bersama keluarganya dengan sumpahnya, lebih berdosa baginya disisi Allah daripada ia memberikan kaffarat sumpahnya yang Allah wajibkan baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6625</td></tr><tr><td>Arabic No</td><td>6625</td></tr><tr><td>Reference</td><td>Book 83 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Мы — последние, но в День воскресения мы будем первыми».\nИ Посланник Аллаха ﷺ также сказал: «Клянусь Аллахом, проявление упорства любым из вас при выполнении такой клятвы(, выполнение которой может нанести вред) его семье, является большим грехом пред Аллахом, чем установленное для него Аллахом искупление за нарушение клятвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6625</td></tr><tr><td>Arabic No</td><td>6625</td></tr><tr><td>Reference</td><td>Book 83 Hadith 5</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "There is no Diya for a person inju
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Ziyad] dari [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam bersabda: "Binatang ternak yang mencederai tak berkewajiban membayar diyat, sumur yang menjadikan celaka juga tak ada diyat, pertambangan yang menjadikan celaka juga tak ada diyat, dan harta karun zakatnya seperlima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6913</td></tr><tr><td>Arabic No</td><td>6913</td></tr><tr><td>Reference</td><td>Book 87 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не выплачивается возмещение ни за (раненого или убитого) животным, ни за упавшего в колодец, ни за (пострадавшего) в руднике, а с клада следует выплатить пятую часть (его стоимости)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6913</td></tr><tr><td>Arabic No</td><td>6913</td></tr><tr><td>Reference</td><td>Book 87 Hadith 51</td></tr></tbody></table></div>
 

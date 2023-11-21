@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Yazid reported:It was said to 'Abdullah (Allah be pleased with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Abul Muhayyat] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Yahya bin Yahya] -lafazh juga miliknya- telah mengabarkan kepada kami [Yahya bin Ya'la Abul Muhayyat] dari [Salamah bin Kuhail] dari [Abdurrahman bin Yazid] ia berkata; Pernah dikatakan kepada [Abdullah], "Sesungguhnya orang-orang pada melontar Jamrah dari atas 'Aqabah?" Namun Abdullah kemudian melempar dari dalam lembah, dan ia pun berkata, "Dari sinilah (tempatnya melempar) -Demi Dzat yang tidak ada Tuhan yang berhak disembah selain-Nya- seorang yang telah diturunkan surat Al Baqarah padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3136</td></tr><tr><td>Arabic No</td><td>1296.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 340</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3136</td></tr><tr><td>Arabic No</td><td>1296.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 340</td></tr></tbody></table></div>
 

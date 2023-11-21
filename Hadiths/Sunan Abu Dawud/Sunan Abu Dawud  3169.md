@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Dawud b. 'Amir b. Sa'd b. Abi Waqqas said that his father 'Amir b. Sa'd was with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan] dari [Sumai] dari [Abu Shalih] dari [Abu Hurairah], ia berkata; barangsiapa yang mengikuti jenazah dan menshalatinya maka baginya pahala satu qirath, dan barangsiapa yang mengikutinya hingga selesai darinya maka baginya pahala dua qirath, paling kecilnya adalah seperti Gunung Uhud atau salah satunya seperti Uhud. Telah menceritakan kepada kami [Harun bin Abdullah] dan [Abdurrahman bin Husain Al Marawi], mereka berkata; telah menceritakan kepada kami [Al Muqri'], telah menceritakan kepada kami [Haiwah], telah menceritakan kepadaku [Abu Shakhr yaitu Humaid bin Ziyad] bahwa [Yazid? bin Abdullah bin Qusaith] telah menceritakan kepadanya bahwa [Daud bin Amir bin Sa'd bin Abu Waqqash] telah menceritakan kepadanya dari [ayahnya] bahwa ia pernah berada di sisi Ibnu Umar bin Al Khathab tiba-tiba [Khabbab] pemilik maqshurah (rumah yang dibentengi dengan pagar) muncul dan berkata; wahai Abdullah bin Umar, tidakkah engkau mendengar apa yang dikatakan [Abu Hurairah]? Bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Barangsiapa yang keluar bersama jenazah dari rumahnya dan menshalatkannya….." kemudian ia menyebutkan makna hadits Sufyan. Kemudian Ibnu Umar mengirimkan utusan kepada Aisyah kemudian, kemudian [Aisyah] berkata; Abu Hurairah benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (945)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>3169</td></tr><tr><td>Reference</td><td>Book 21 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амир ибн Са‘д ибн Абу Ваккас, да будет доволен Аллах им и его отцом, передаёт, что он был у Ибн ‘Умара ибн аль-Хаттаба и пришёл Хаббаб, владелец небольшого дома, который сказал: «О ‘Абдуллах ибн ‘Умар, ты слышал, что сказал Абу Хурайра? Он утверждает, что слышал, как Посланник Аллаха ﷺ сказал: “Кто провожал погребальные носилки из дома (покойного) и совершил погребальную молитву по нему…”» И он привёл хадис, подобный упомянутому выше. Ибн ‘Умар послал к ‘Аише, и она сказала: «Абу Хурайра сказал правду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (945)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>3169</td></tr><tr><td>Reference</td><td>Book 21 Hadith 81</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:You should not give away a part of your prayer to Satan by th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] dari ['Umarah bin 'Umair] dari [Al Aswad] berkata, [Abdullah] berkata, "Janganlah salah seorang dari kalian memberi peluang sedikitpun kepada setan untuk menggangu shalatnya." Dia berpendapat bahwa tidak boleh seseorang beranjak pergi kecuali dari sebelah kanannya, dan aku melihat Nabi shallallahu 'alaihi wasallam sering beranjak pergi dari sebelah kirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>852</td></tr><tr><td>Arabic No</td><td>852</td></tr><tr><td>Reference</td><td>Book 10 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Мас‘уд, да будет доволен им Аллах, сказал: «Пусть никто из вас не уступает шайтану ничего из молитвы своей, думая, что он должен покидать её, поворачивая только направо: я много раз видел, как Пророк ﷺ уходил (с места молитвы, повернувшись) налево»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>852</td></tr><tr><td>Arabic No</td><td>852</td></tr><tr><td>Reference</td><td>Book 10 Hadith 243</td></tr></tbody></table></div>
 

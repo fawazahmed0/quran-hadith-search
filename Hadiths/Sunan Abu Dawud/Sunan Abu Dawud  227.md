@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Prophet (ﷺ) said: Angels do not enter the house
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar An-Namari] telah menceritakan kepada kami [Syu'bah] dari [Ali bin Mudrik] dari [Abu Zur'ah bin 'Amru bin Jarir] dari [Abdullah bin Nujay] dari [Ayahnya] dari [Ali Bin Abi Thalib radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Malaikat tidak akan memasuki rumah yang ada gambar, anjing, dan orang yang sedang junub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>227</td></tr><tr><td>Arabic No</td><td>227</td></tr><tr><td>Reference</td><td>Book 1 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Али ибн Абу Талиба, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Ангелы не входят в дом, в котором есть изображение (живого существа), собака, или человек, в состоянии большого осквернения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>227</td></tr><tr><td>Arabic No</td><td>227</td></tr><tr><td>Reference</td><td>Book 1 Hadith 227</td></tr></tbody></table></div>
 

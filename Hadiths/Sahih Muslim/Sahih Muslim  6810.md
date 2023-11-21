@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:Verily, there are ninety-ni
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami ['Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Ayyub] dari [Ibnu Sirin] dari [Abu Hurairah] dan dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Allah 'azza wajalla mempunyai sembilan puluh sembilan nama, seratus kurang satu, barangsiapa menjaganya maka ia akan masuk surga." Hammam menambahkan; dari Abu Hurairah dari Nabi shallallahu 'alaihi wasallam; 'Sesungguhnya Allah itu ganjil dan menyukai yang ganjil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6810</td></tr><tr><td>Arabic No</td><td>2677.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6810</td></tr><tr><td>Arabic No</td><td>2677.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:"A man from the Muslims and a man from the Jews quarrelled,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] telah menceritakan kepada kami [Ibrahim] dari [Ibn Syihab] dari [Abu Salamah] dan [Al a'raj]. (dalam jalur lain disebutkan) telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Saudaraku] dari [Sulaiman] dari [Muhammad bin Abu 'Atiq] dari [Ibn Syihab] dari [Abu Salmah bin Abdurrahman] dan [Sa'id bin Musayyab] bahwa [Abu Hurairah] berkata, "Seorang laki-laki muslimin dan seorang laki-laki Yahudi saling memaki (mencela). Si Muslim berkata, 'Demi Dzat yang mengistimewakan Muhammad di atas semua manusia', dan ia mengucapkannya disertai sumpah. Sedang si Yahudi berkata, 'Demi Dzat yang telah mengistimewakan Musa di atas semua manusia'. Lantas si muslim mengangkat tangannya dan menempeleng si Yahudi. Maka si Yahudi melaporkan kasusnya kepada Rasulullah Shallalahu'alaihiwasallam dan mengutarakan segala kasus yang terjadi antara dirinya dan si Muslim, maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Janganlah kalian mengistimewakanku di atas Musa, sebab manusia di hari kiamat nanti akan pingsan sehingga akulah manusia pertama-tama yang bisa siuman. Tiba-tiba Musa telah berdiri di samping 'arsy, sehingga aku tidak tahu apakah dia termasuk yang pingsan ataukah dia telah siuman sebelumku, atau dia diantara manusia yang Allah kecualikan (tidak pingsan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7472</td></tr><tr><td>Arabic No</td><td>7472</td></tr><tr><td>Reference</td><td>Book 97 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «(Как-то раз) один человек из числа мусульман, а другой — иудей, поругались друг с другом. Мусульманин сказал: “Клянусь Тем, Кто избрал Мухаммада среди всех миров!” — (Абу Хурайра сказал: “Он поклялся клятвой”.) — А иудей сказал: “Клянусь Тем, Кто избрал Мусу среди всех миров!” Тогда мусульманин поднял руку и ударил иудея по лицу, а иудей пошёл к Посланнику Аллаха ﷺ и рассказал ему о том, что произошло между ним и мусульманином. После чего Пророк ﷺ сказал (ему): “Не отдавайте мне предпочтение перед Мусой, ибо, поистине, в День Воскрешения люди будут поражены, и я приду в себя первым и увижу Мусу, (который будет) держаться за край Трона. И мне неизвестно, будет ли он поражён подобно другим и придёт в себя раньше меня, или же он будет среди тех, для кого Аллах сделает исключение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7472</td></tr><tr><td>Arabic No</td><td>7472</td></tr><tr><td>Reference</td><td>Book 97 Hadith 98</td></tr></tbody></table></div>
 

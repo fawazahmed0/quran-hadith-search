@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) said, "Once Solomon, son of David 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2819</td></tr><tr><td>Arabic No</td><td>2819</td></tr><tr><td>Reference</td><td>Book 56 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра ﷺ передаёт, что Посланник Аллаха ﷺ сказал: «Сулейман ибн Дауд, мир им обоим, как-то сказал: “Этой ночью я обязательно обойду сто (или: девяносто девять) (своих) жён, и каждая из них родит всадника, который будет сражаться на пути Аллаха”. Тогда его спутник сказал ему: “(Скажи:) Ин шаа-Ллах (Если пожелает Аллах)”, но Сулейман не сказал “Ин шаа-Ллах”, и никто из них не забеременела, кроме одной жены, которая родила половину человека. Клянусь Тем, в Чьих руках душа Мухаммада, скажи он: “Если пожелает Аллах”, то все они стали бы всадниками и непременно сражались бы на пути Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2819</td></tr><tr><td>Arabic No</td><td>2819</td></tr><tr><td>Reference</td><td>Book 56 Hadith 35</td></tr></tbody></table></div>
 

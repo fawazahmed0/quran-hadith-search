@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ata bin Abi Rabah:'Ubaid bin 'Umar Al-Laithi and I visited Aisha and a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Berkata [Yahya bin Hamzah], dan telah menceritakan kepadaku [Al Auza'i] dari ['Atha' bin Abi Rabah] berkata; Aku bersama 'Ubaid bin 'Umair Al Laitsi berkunjung kepada ['Aisyah] radliallahu 'anha, kami bertanya kepadanya tentang hijrah. Maka dia mengatakan; "Hari ini tidak ada lagi hijrah. Dahulu orang-orang beriman, diantara mereka ada yang berlari kepada Allah dan Rasul-Nya shallallahu 'alaihi wasallam dengan membawa agamanya karena takut terkena fitnah. Adapun hari ini, Allah 'azza wajalla telah memenangkan Islam, dan hari ini pula seseorang dapat beribadah kepada Rabbnya sesukanya. Dan yang ada sekarang adalah jihad dan niat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 63 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ата ибн Аби Рабах сказал: «Однажды, когда я вместе с ‘Убайдем ибн ‘Умайром аль-Лейси посетил ‘Аишу, мы спросили её о переселении. Она сказала: «Сегодня нет (необходимости в) переселении. Верующие бежали к Аллаху и Его Посланнику ﷺ, спасая свою религию и боясь подвергнуться испытанию. Сегодня же Аллах дал победу исламу, и (верующий) сегодня может поклоняться своему Господу, где захочет. Но (осталась необходимость участия в) джихаде и (благом) намерении»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 63 Hadith 125</td></tr></tbody></table></div>
 

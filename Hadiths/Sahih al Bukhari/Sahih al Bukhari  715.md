@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) prayed two rak'at of Zuhr prayer (instead
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim] dari [Abu Salamah bin 'Abdurrahman] dari [Abu Hurairah] berkata, "Nabi shallallahu 'alaihi wasallam mengerjakan shalat Zhuhur dua rakaat. Lalu dikatakan kepada beliau, "Tuan shalat hanya dua rakaat!" Maka beliau mengerjakan shalat dua rakaat yang kurang kemudian salam, setelah itu beliau sujud dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>715</td></tr><tr><td>Arabic No</td><td>715</td></tr><tr><td>Reference</td><td>Book 10 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Однажды Пророк ﷺ совершил полуденный намаз в два рак‘ата. (Люди) сказали ему: “Ты совершил (только) два рак‘ата”. И тогда он помолился (ещё) в два рак‘ата, затем произнес слова приветствия /таслим/, после чего совершил два земных поклона»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>715</td></tr><tr><td>Arabic No</td><td>715</td></tr><tr><td>Reference</td><td>Book 10 Hadith 110</td></tr></tbody></table></div>
 

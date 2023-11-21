@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Zubair narrated on the authority of his father:When the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ma'mar bin Rib'i Al Qaisi], telah menceritakan kepada kami [Abu Hisyam Al Makhzumi] dari [Abdul Wahid yaitu Ibn Ziyad] telah menceritakan kepada kami [Usman bin Hakim] telah menceritakan kepadaku ['Amir bin Abdullah bin Zubair] dari [Ayahnya] dia berkata; "Jika Rasulullah shallallahu 'alaihi wasallam duduk dalam shalat, beliau meletakkan telapak kaki kirinya diantara pahanya dan betisnya, serta menghamparkan telapak kaki kanannya, sambil meletakkan tangan kirinya diatas lutut kirinya, dan beliau letakkan tangan kanannya diatas paha kanannya, lalu beliau memberi isyarat dengan telunjuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1307</td></tr><tr><td>Arabic No</td><td>579.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн аз-Зубайр сказал: «Когда Посланник Аллаха ﷺ садился во время молитвы (для совершения первого ташаххуда), он помещал левую стопу между бедром и голенью, а подъём правой стопы на землю, возлагал левую ладонь на левое колено, а правую на правое бедро, после чего указывал (в сторону киблы) указательным пальцем (правой руки)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1307</td></tr><tr><td>Arabic No</td><td>579.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 145</td></tr></tbody></table></div>
 

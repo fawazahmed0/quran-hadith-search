@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Awf ibn Malik: The Holy Prophet (ﷺ) gave a decision between two men, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Najdah] dan [Musa bin Marwan Ar Raqqi] mereka berkata; telah menceritakan kepada kami [Baqiyyah bin Al Walid] dari [Bahir bin Sa'd] dari [Khalid bin Ma'dan] dari [Saif] dari ['Auf bin Malik] bahwa ia menceritakan kepada mereka, bahwa Nabi shallallahu 'alaihi wasallam telah memberikan keputusan di antara dua orang laki-laki, kemudian orang yang diputuskan atasnya ketika pergi mengatakan, "Cukuplah Allah bagiku dan Dia adalah sebaik-baik pelindung." Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah mencela kelemahan, hendaklah kalian berlaku bijak, jika kalian mendapati sesuatu yang kalian tidak sukai maka ucapkanlah: HASBIALLAHU WA NI'MAL WAKIL (Cukuplah Allah bagiku dan Dia adalah sebaik-baik pelindung)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3627</td></tr><tr><td>Arabic No</td><td>3627</td></tr><tr><td>Reference</td><td>Book 25 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ауфа ибн Малика, да будет доволен им Аллах, что однажды Пророк ﷺ рассудил двоих, и тот, чей иск был отвергнут, сказал, повернувшись, чтобы уйти: «Достаточно мне Аллаха и прекрасный Он Покровитель!» Пророк ﷺ сказал: «Поистине, Аллах упрекает человека за слабость. Поэтому пользуйся причинами (помогающими добиться успеха), и если кто-то одолел тебя, говори: “Достаточно мне Аллаха, и прекрасный Он Покровитель!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3627</td></tr><tr><td>Arabic No</td><td>3627</td></tr><tr><td>Reference</td><td>Book 25 Hadith 57</td></tr></tbody></table></div>
 

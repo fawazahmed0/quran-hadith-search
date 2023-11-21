@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Bakrah said that when a man praised another man in his face in the presence 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Abu Syihab] dari [Khalid Al Hadzdza] dari ['Abdurrahman bin Abu Bakrah] dari [Bapaknya] ia berkata, "Ada seseorang memuji laki-laki lain di sisi Nabi shallallahu 'alaihi wasallam, beliau lalu bersabda: "Engkau telah memenggal leher saudaramu." Beliau ucapkan itu hingga tiga kali. Setelah itu beliau bersabda: "Jika salah seorang dari kalian ingin memuji saudaranya, maka tidaklah mengapa. Namun hendaklah ia mengatakan, 'Aku mengira sebagaimana yang ia ingin katakan, 'Aku tidak memuji-muji seseorang di hadapan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6061) Sahih Muslim (3000)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4805</td></tr><tr><td>Arabic No</td><td>4805</td></tr><tr><td>Reference</td><td>Book 43 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6061) Sahih Muslim (3000)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4805</td></tr><tr><td>Arabic No</td><td>4805</td></tr><tr><td>Reference</td><td>Book 43 Hadith 33</td></tr></tbody></table></div>
 

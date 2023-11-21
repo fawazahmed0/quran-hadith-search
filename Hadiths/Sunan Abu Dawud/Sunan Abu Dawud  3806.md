@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Khalid ibn al-Walid: I went with the Messenger of Allah (ﷺ) to fight 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Utsman] telah menceritakan kepada kami [Muhammad bin Harb] telah menceritakan kepadaku [Abu Salamah Sulaiman bin Sulaim] dari [Shalih bin Yahya bin Al Miqdam] dari kakeknya [Al Miqdam bin Ma'dikarib] dari [Khalid bin Al Walid] ia berkata, "Aku pernah mengikuti perang Khaibar bersama Rasulullah shallallahu 'alaihi wasallam, kemudian orang-orang Yahudi datang dan mengeluhkan bahwa kaum Muslimin cepat-cepat menyerbu kandang mereka. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketahuilah, tidak halal harta orang-orang kafir Mu'ahad (yang memiliki perjanjian damai dengan orang-orang muslim) kecuali dengan haknya, dan haram atas kalian keledai jinak, kuda jinak, dan bighal jinak serta segala binatang buas yang memiliki taring dan segala burung yang memiliki cakar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3806</td></tr><tr><td>Arabic No</td><td>3806</td></tr><tr><td>Reference</td><td>Book 28 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Халид ибн аль-Валид, да будет доволен им Аллах, передаёт: «Я участвовал в походе на Хайбар вместе с Посланником Аллаха ﷺ и к нему пришли иудеи и пожаловались на то, что мусульмане поспешили к их хлевам (желая забрать их скот). Посланник Аллаха ﷺ сказал: “Поистине, имущество мусульманина, заключившего договор с немусульманами /му‘ахид/ нельзя отбирать без права, и вам запрещено употреблять в пищу мясо домашних ослов, лошадей, мулов, всех хищных зверей, имеющих клыки, и всех птиц, имеющих когти”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3806</td></tr><tr><td>Arabic No</td><td>3806</td></tr><tr><td>Reference</td><td>Book 28 Hadith 71</td></tr></tbody></table></div>
 

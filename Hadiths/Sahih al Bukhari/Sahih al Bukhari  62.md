@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "Amongst the trees, there is a tree, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] Telah menceritakan kepada kami [Sulaiman] Telah menceritakan kepada kami [Abdullah bin Dinar] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya diantara pohon ada satu pohon yang tidak jatuh daunnya. Dan itu adalah perumpamaan bagi seorang muslim". Nabi shallallahu 'alaihi wasallam bertanya: "Katakanlah padaku, pohon apakah itu?" Maka para sahabat beranggapan bahwa yang dimaksud adalah pohon yang berada di lembah. Abdullah berkata: Aku berpikir dalam hati pohon itu adalah pohon kurma, tapi aku malu mengungkapkannya. Kemudian orang-orang berkata: "Wahai Rasulullah, pohon apakah itu?" Beliau shallallahu 'alaihi wasallam menjawab: "Pohon kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Arabic No</td><td>62</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Однажды Посланник Аллаха ﷺ сказал: «Поистине, есть среди деревьев такое, листья которого не опадают, и, поистине, оно подобно мусульманину. Скажите мне, что это (за дерево)?»\n(‘Абдуллах ибн ‘Умар) сказал: «И люди стали вспоминать, какие деревья растут в пустыне».\n‘Абдуллах (ибн ‘Умар) сказал: «И мне пришло в голову, что это пальма, а потом они сказали: “Скажи нам, что это за дерево, о Посланник Аллаха?” Он сказал: “Это — пальма”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Arabic No</td><td>62</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
 

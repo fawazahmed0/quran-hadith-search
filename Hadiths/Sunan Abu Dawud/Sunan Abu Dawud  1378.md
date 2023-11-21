@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zirr (b. Hubaish) said:I said to Ubayy b. Ka'b: Tell me about lailat al-qadr, O 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Musaddad] sedangkan maksudnya sama, keduanya berkata; telah menceritakan kepada kami [Hammad bin Zaid] dari ['Ashim] dari [Zirrin] dia berkata; aku bertanya kepada [Ubay bin Ka'b]; "wahai Abu Mundzir, beritahukanlah kepadaku mengenai lailatul qadr!, karena sesungguhnya sahabat kami (Ibnu Mas'ud) pernah di tanya tentang lailatul qadr, lalu dia menjawab; "Barangsiapa melakukan (qiyamullail) setahun penuh, maka ia akan mendapatkannya." Ubay bin Ka'b berkata; "Semoga Allah merahmati Abu Abdurrahman, sungguh dirinya telah mengetahui bahwa lailatul qadr terjadi pada bulan Ramadhan." Musaddad menambahkan; "Tapi beliau tidak senang jika kalian bergantung pada lailatul qadr -atau- beliau lebih suka jika kalian tidak bergantung pada lailatul qadr. Demi Allah, sesungguhnya lailatul qadr itu terjadi pada bulan Ramadhan yaitu pada tanggal dua puluh tujuh tanpa terkecuali." Tanyaku; "Wahai Abu Mundzir, bagaimana kamu dapat mengetahui hal itu?" dia menjawab; "yaitu dengan tanda-tanda yang pernah di beritahukan Rasulullah shallallahu 'alaihi wasallam." aku berkata kepada Zirr; "Apakah tanda-tandanya?" dia menjawab; "Matahari pada pagi harinya seperti baskom, tidak bercahaya hingga ia meninggi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1169)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1378</td></tr><tr><td>Arabic No</td><td>1378</td></tr><tr><td>Reference</td><td>Book 6 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Зирра (ибн Хубайш), да будет доволен им Аллах: «Я сказал Убаййу ибн Ка‘бу: “Расскажи мне о Ночи предопределения, о Абу аль-Мунзир, ибо, поистине, нашего товарища спросили о ней, и он сказал, что застанет её только тот, кто молится по ночам весь год”. Он сказал: “Да помилует Аллах Абу ‘Абдуррахмана! Клянусь Аллахом, он знает, что она в рамадане”». В версии Мусаддада имеется добавление: «…однако он не желал, чтобы люди стали ленивыми». Далее в сообщении говорится: «“Клянусь Аллахом, эта ночь двадцать седьмая ночь рамадана”. Говоря это, он не сделал оговорку: “Если пожелает Аллах”. Я спросил: “О Абу аль-Мунзир, как ты узнал об этом?” Он ответил: “По признаку, о котором сообщил нам Посланник Аллаха ﷺ”. Я спросил: “Что за признак?” Он ответил: “Наутро после этой ночи солнце встаёт похожим на таз, не испуская лучей, пока не поднимется”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1169)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1378</td></tr><tr><td>Arabic No</td><td>1378</td></tr><tr><td>Reference</td><td>Book 6 Hadith 8</td></tr></tbody></table></div>
 

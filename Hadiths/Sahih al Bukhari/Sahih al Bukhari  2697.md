@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) said, "If somebody innovates something wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub] telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [bapaknya] dari [Al Qasim bin Muhammad] dari ['Aisyah radliallahu 'anha] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang membuat perkara baru dalam urusan kami ini yang tidak ada perintahnya maka perkara itu tertolak". Diriwayatkan pula oleh ['Abdullah bin Ja'far Al Makhramiy] dan ['Abdul Wahid bin Abu 'Aun] dari [Sa'ad bin Ibrahim]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>2697</td></tr><tr><td>Reference</td><td>Book 53 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ сказал: “Если кто-нибудь внесёт в это наше дело нечто новое и не имеющее к нему отношения, это будет отвергнуто”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>2697</td></tr><tr><td>Reference</td><td>Book 53 Hadith 7</td></tr></tbody></table></div>
 

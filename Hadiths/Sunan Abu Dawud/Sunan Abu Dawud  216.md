@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet (May peace be upon him) as saying :when anyone
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim Al-Farahidy] telah menceritakan kepada kami [Hisyam] dan [Syu'bah] dari [Qatadah] dari [Al Hasan] dari [Abu Rafi'] dari [Abu Hurairah] bahwasanya Nabi shallallahu 'alaihi wasallam bersabda: "Apabila suami telah duduk di antara keempat anggola tubuhnya (kedua tangan dan kedua kaki istrinya), lalu dia menempelkan khitan (kemaluan suami) dengan kemaluan istrinya, maka wajiblah mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (291) Sahih Muslim (248)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>216</td></tr><tr><td>Arabic No</td><td>216</td></tr><tr><td>Reference</td><td>Book 1 Hadith 216</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Пророк ﷺ сказал: «Если (мужчина) усядется меж четырёх частей её (тела) и соприкоснутся две обрезаемые части /аль-хитан/, то купание становится обязательным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (291) Sahih Muslim (248)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>216</td></tr><tr><td>Arabic No</td><td>216</td></tr><tr><td>Reference</td><td>Book 1 Hadith 216</td></tr></tbody></table></div>
 

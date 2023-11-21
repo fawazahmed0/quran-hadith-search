@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabi:A man among us begot a boy whom he named Al-Qasim. The people said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid] telah menceritakan kepada kami [Hushain] dari [Salim] dari [Jabir] radliallahu 'anhu dia berkata; "Seorang laki-laki di antara kami ada yang memiliki anak, kemudian dia memberi nama "Al Qasim." Maka orang-orang berkata; "Kami tidak akan menjulukinya hingga kami bertanya kepada Nabi shallallahu 'alaihi wasallam. Maka beliau bersabda: "Berilah nama dengan namaku dan janganlah kalian memberi julukan dengan julukanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6187</td></tr><tr><td>Arabic No</td><td>6187</td></tr><tr><td>Reference</td><td>Book 78 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Когда у одного человека из нас родился мальчик, и он назвал его аль-Касимом, люди сказали: “Мы не станем называть тебя “Абуль-Касим” до тех пор, пока не спросим об этом Пророка ﷺ!” (На это) Пророк ﷺ сказал: “Можете называть (детей) моим именем, но не пользуйтесь моей куньей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6187</td></tr><tr><td>Arabic No</td><td>6187</td></tr><tr><td>Reference</td><td>Book 78 Hadith 211</td></tr></tbody></table></div>
 

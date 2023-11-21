@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: I memorised (a tradition) from the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Yahya bin Muhammad Al Madini] telah menceritakan kepada kami [Abdullah bin Khalid bin Sa'id bin Abu Maryam] dari [ayahnya], dari [Sa'id bin Abdurrahman bin Yazid bin Ruqaisy] bahwa ia mendengar beberapa syekh dari Bani 'Amr bin 'Auf serta dari pamannya yaitu [Abdullah bin Abu Ahmad], ia berkata; [Ali bin Abu Thalib] berkata; aku telah hafal dari Rasulullah shallallahu 'alaihi wasallam: "Tidak ada yatim setelah baligh, dan tidak ada sikap diam satu hari hingga malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2873</td></tr><tr><td>Arabic No</td><td>2873</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али ибн Абу Талиба, да буде доволен им Аллах: «Я запомнил от Посланника Аллаха ﷺ: “Нет сиротства после появления поллюций, и не следует молчать весь день до вечера”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2873</td></tr><tr><td>Arabic No</td><td>2873</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
 

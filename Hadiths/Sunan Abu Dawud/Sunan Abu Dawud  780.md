@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: I remember from the Messenger of Allah (ﷺ) two pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Sa'id] dengan redaksi ini, katanya; dari [Qatadah] dari [Al Hasan] dari [Samurah] dia berkata; "Dua tempat pemberhentian sejenak yang pernah saya hafal dari Rasulullah shallallahu 'alaihi wasallam, (Abdul A'la) mengatakan dalam hadits tersebut, Sa'id berkata; kami berkata kepada Qatadah; "Di manakah dua tempat pemberhentian sejenak tersebut?" jawabnya; "Apabila telah masuk shalat (setelah takbir -pent) dan ketika selesai dari membaca (surat Al Qur'an)." Setelah itu Qatadah mengatakan; "Ketika selesai membaca; "GHAIRIL MAGHDLUUBI 'ALAIHIM WALADL DLLAALLIN
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 2 Hadith 390</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Имам Абу Дауд сказал): Рассказал нам Ибн аль-Мусанна, (который сказал): Рассказал нам Абдуль-Аля, (который сказал): Рассказал нам этот (хадис) Саид, (который сказал): От Къатады, (передавшего) от аль-Хасана, (передавшего) от Самуры (ибн Джундуб, который) сказал: «Я запомнил от Посланника Аллаха ﷺ два (вида) молчания».(‘Абдуль-А‘ля ас-Самий) сказал в этом хадисе: Са‘ид (ибн Аруба) сказал: Мы спросили у Къатады: «А что это за два (вида) молчания?» Он ответил: «Когда он (молящийся) приступил к молитве, и когда завершает чтение (суры “аль-Фатиха”)». Затем, после этого (Къатада) сказал: «И (молчание) после того, как он сказал: “Не тех, на кого пал гнев, и не заблудших /Гъайриль-магъдуби ‘алейхим ва ла-д-доллийн/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 2 Hadith 390</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that when Allah's Messenger (ﷺ) ate food he licked his three fin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim] dan [Abu Bakr bin Nafi' Al 'Abdi] mereka berkata; Telah menceritakan kepada kami [Bahz]; Telah menceritakan kepada kami [Hammad bin Salamah]; Telah menceritakan kepada kami [Tsabit] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam apabila selesai makan, dia menjilati ke tiga jari tangannya. Anas berkata; Beliau bersabda: 'Apabila suapan makanan salah seorang diantara kalian jatuh, ambillah kembali lalu buang bagian yang kotor dan makanlah bagian yang bersih. Jangan dibiarkannya dimakan setan." Dan beliau menyuruh kami untuk menjilati piring. Beliau bersabda: 'Karena kalian tidak tahu makanan mana yang membawa berkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5306</td></tr><tr><td>Arabic No</td><td>2034</td></tr><tr><td>Reference</td><td>Book 36 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5306</td></tr><tr><td>Arabic No</td><td>2034</td></tr><tr><td>Reference</td><td>Book 36 Hadith 180</td></tr></tbody></table></div>
 

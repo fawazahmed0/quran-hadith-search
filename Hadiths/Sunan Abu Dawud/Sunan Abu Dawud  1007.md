@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Azraq ibn Qays: An imam of ours, whose kunyah (surname) was AbuRimth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahab bin Najdah] telah menceritakan kepada kami [Asy'ats Tsauri bin Syu'bah] dari [Al Minhal bin Khalifah] dari [Al Azraq bin Qais] dia berkata; imam kami yang berkunyah [Abu Rimtsah] shalat bersama kami, katanya; "Aku shalat seperti ini atau seperti shalat bersama Nabi shallallahu 'alaihi wasallam, -dia melanjutkan perkataannya- sementara Abu Bakar dan Umar shalat di shaf pertama, tepatnya di samping kanan beliau, tiba-tiba seseorang datang dan mendapatkan takbiratul ihram bersama beliau, lalu Nabi Allah shallallahu 'alaihi wasallam mengerjakan shalat, kemudian salam kekanan dan kekiri sehingga kami melihat putihnya pipi beliau. Kemudian beliau merubah posisi sebagaimana Abu Ritsmah merubah posisi. Lantas seorang laki-laki yang tadi hanya mendapatkan takbiratul ihram berdiri untuk menambah raka'at lagi, maka Umar melompat menuju kepadanya dan memegang kedua pundak orang tersebut serta menggetarkannya sambil berkata: "Duduklah! Karena sesungguhnya ahlul kitab tidak binasa kecuali mereka tidak memisahkan antara shalat-shalat mereka." Lalu Nabi shallallahu 'alaihi wasallam memandanginya seraya bersabda: "Kamu benar wahai Ibnu Khattab." Abu Daud berkata: "Dikatakan bahwa Abu Umayyah diganti dengan Abu Ritsmah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1007</td></tr><tr><td>Arabic No</td><td>1007</td></tr><tr><td>Reference</td><td>Book 2 Hadith 618</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Аль-Азрака ибн Кайса: «Однажды наш имам Абу Римса совершил с нами молитву и сказал: “Я совершал такую же молитву вместе с Пророком ﷺ и Абу Бакр и ‘Умар стояли в первом ряду справа от него. Один человек застал первый такбир Посланника Аллаха ﷺ после того, как пророк Аллаха совершил молитву и произнёс слова таслима, повернув голову сначала направо, потом налево так, что мы увидели белизну его щёк. Потом он повернулся так же, как Абу Римса (он имел в виду себя), а тот человек сразу же начал совершать другую (дополнительную) молитву. ‘Умар бросился к нему и потряс его за плечо, после чего сказал: “Сядь, ибо, поистине, людей Писания погубило то, что их молитвы ничто не разделяло!” Пророк ﷺ поднял взор и сказал: “Да поможет тебе Аллах всегда поступать правильно, о Ибн аль-Хаттаб””». Абу Дауд сказал: «Иногда вместо Абу Римсы упоминается Абу Умайя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1007</td></tr><tr><td>Arabic No</td><td>1007</td></tr><tr><td>Reference</td><td>Book 2 Hadith 618</td></tr></tbody></table></div>
 

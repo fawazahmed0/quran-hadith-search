@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to like starting from the right in perfor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] dia berkata; telah mengabarkan kepadaku [Asy'ats bin Sulaim] saya mendengar [Ayahku] menceritakan dari [Masruq] dari ['Aisyah] radliallahu 'anha dia berkata; "Nabi shallallahu 'alaihi wasallam menyukai tayamun (mendahulukan yang kanan) ketika bersuci, menyisir rambut dan memakai sandal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5854</td></tr><tr><td>Arabic No</td><td>5854</td></tr><tr><td>Reference</td><td>Book 77 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ любил начинать справа при очищении, при расчёсывании волос и при надевании сандалий»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5854</td></tr><tr><td>Arabic No</td><td>5854</td></tr><tr><td>Reference</td><td>Book 77 Hadith 71</td></tr></tbody></table></div>
 

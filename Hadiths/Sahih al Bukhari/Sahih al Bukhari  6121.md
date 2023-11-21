@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:Um Sulaim came to Allah's Messenger (ﷺ) and said, "O Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Zainab binti Abu Salamah] dari [Ummu Salamah] radliallahu 'anha dia berkata; "Ummu Sulaim datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata; "Wahai Rasulullah, sesungguhnya Allah tidak malu dari kebenaran, apakah seorang wanita wajib mandi jika ia ihtilam (mimpi basah)? Beliau bersabda: "Ya, jika ia melihat air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6121</td></tr><tr><td>Arabic No</td><td>6121</td></tr><tr><td>Reference</td><td>Book 78 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала: «(Однажды) Умм Сулейм пришла к Посланнику Аллаха ﷺ и сказала: “О Посланник Аллаха, поистине, Аллах не стыдится (говорить) истину, ( так скажи мне,) следует ли женщине совершить полное омовение /гусль/, если у неё случится поллюция?” Пророк ﷺ ответил: “Да, если (после пробуждения) она увидит (свои) выделения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6121</td></tr><tr><td>Arabic No</td><td>6121</td></tr><tr><td>Reference</td><td>Book 78 Hadith 148</td></tr></tbody></table></div>
 

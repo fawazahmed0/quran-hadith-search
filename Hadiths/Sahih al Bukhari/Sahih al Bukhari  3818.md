@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I did not feel jealous of any of the wives of the Prophet (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Umar bin Muhammad bin Hasan] telah bercerita kepada kami [bapakku] telah bercerita kepada kami [Hafsh] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anhu] berkata; "Tidaklah aku cemburu kepada salah seorang istri-istri Nabi shallallahu 'alaihi wasallam sebagaimana kecemburuanku terhadap Khadijah. Padahal aku belum pernah melihatnya. Akan tetapi ini karena beliau sering sekali menyebut-nyebutnya (memuji dan menyanjungnya) dan acapkali beliau menyembelih kambing, memotong-motong bagian-bagian daging kambing tersebut, lantas beliau kirimkan daging kambing itu kepada teman-teman Khadijah. Suatu kali aku pernah berkata kepada beliau yang intinya seolah tidak ada wanita di dunia ini selain Khadijah. Maka spontan beliau menjawab: "Khadijah itu begini dan begini dan dari dialah aku mempunyai anak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3818</td></tr><tr><td>Arabic No</td><td>3818</td></tr><tr><td>Reference</td><td>Book 63 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Ни к кому из жён Пророка ﷺ я не ревновала его столь сильно, как к Хадидже, да будет доволен ею Аллах, которую я (никогда в жизни) не видела! Пророк ﷺ часто вспоминал о ней, и нередко бывало так, что он резал овцу, разрубал её на части, а потом посылал (мясо) подругам Хадиджи, и тогда я говорила: “Можно подумать, что не было в мире женщин, кроме Хадиджи!” — а он отвечал мне: “Поистине, была она такой-то и такой-то, и были у меня от неё дети”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3818</td></tr><tr><td>Arabic No</td><td>3818</td></tr><tr><td>Reference</td><td>Book 63 Hadith 43</td></tr></tbody></table></div>
 

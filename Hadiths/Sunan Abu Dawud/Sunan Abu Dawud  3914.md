@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dawud said:Malik was asked about the meaning of his saying: There is no safa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3914</td></tr><tr><td>Arabic No</td><td>3914</td></tr><tr><td>Reference</td><td>Book 30 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ашхаба, что имама Малика спросили о словах Посланника Аллаха ﷺ «Нет сафара», и он ответил: «Во времена невежества арабы считали (месяц) сафар одного года дозволенным, а сафар другого запретным, поэтому Пророк ﷺ и сказал, что нет сафара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3914</td></tr><tr><td>Arabic No</td><td>3914</td></tr><tr><td>Reference</td><td>Book 30 Hadith 11</td></tr></tbody></table></div>
 

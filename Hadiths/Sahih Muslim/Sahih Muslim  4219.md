@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported that a person said to Allah's A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ali bin Hujr] mereka berkata; telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Ja'far- dari [Al 'Ala'] dari [Ayahnya] dari [Abu Hurairah], bahwa seorang laki-laki bertanya kepada Nabi shallallahu 'alaihi wasallam, "Ayahku telah meninggal dunia dan meninggalkan harta, namun dia tidak memberi wasiat terhadap harta yang ditinggalkannya, dapatkah harta itu menghapus dosa-dosanya jika harta tersebut saya sedekahkan atas namanya?" beliau menjawab: "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4219</td></tr><tr><td>Arabic No</td><td>1630</td></tr><tr><td>Reference</td><td>Book 25 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4219</td></tr><tr><td>Arabic No</td><td>1630</td></tr><tr><td>Reference</td><td>Book 25 Hadith 16</td></tr></tbody></table></div>
 

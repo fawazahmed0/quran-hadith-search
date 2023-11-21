@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said to Thabit :Should I not use the spell of the Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz bin Shuhaib] ia berkata, " [Anas] berkata kepada Tsabit, "Maukah aku jampi engkau dengan jampi yang dilakukan Rasulullah shallallahu 'alaihi wasallam?" Tsabit menjawab, "Ya." Anas lalu mengucapkan, "ALLAAHUMMA RABBAN NAASI, MUDZHIBIL BA'SI ISYFI ANTA ASY SYAAFII LAA SYAAFIYA ILLAA ANTA ISYFIHI SYIFAA AN LAA YUGHAADIRU SAQAMAN (Ya Allah, Tuhan manusia, Penghilang penyakit, sembuhkanlah. Engkau adalah Pemberi kesembuhan, tidak ada yang dapat menyembuhkan kecuali Engkau. Sembuhkanlah dia dengan kesembuhan yang tidak meninggalkan efek sakit)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5742)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3890</td></tr><tr><td>Arabic No</td><td>3890</td></tr><tr><td>Reference</td><td>Book 29 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абду-ль-Азиза ибн Сухайба, что Анас, да будет доволен им Аллах, спросил Сабита: «Не прочитать ли над тобой рукъю Посланника Аллаха ﷺ?» Он сказал: «Конечно, прочитай!» Тогда Анас, да будет доволен им Аллах, сказал: «О Аллах, Господь людей, удаляющий болезнь, исцели, Ты Целитель, и нет исцеляющего, кроме Тебя, исцели же так, чтобы после этого не осталось болезни! /Аллахумма, Рабба-н-наси, музхиба-ль-ба‘си, шфи Анта-ш-Шафи, ля шафийа илля Анта ишфи-хи шифа‘ан ля йугадиру сакаман/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5742)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3890</td></tr><tr><td>Arabic No</td><td>3890</td></tr><tr><td>Reference</td><td>Book 29 Hadith 36</td></tr></tbody></table></div>
 

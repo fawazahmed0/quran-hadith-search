@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mu'awiya b. Suwaid reported:I slapped a slave belonging to us and then fled away
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] dan ini adalah lafadz dari dia, telah menceritakan kepadaku [Ayahku] telah menceritakan kepada kami [Sufyan] dari [Salamah bin Kuhail] dari [Mu'awiyah bin Suwaid] dia berkata, "Aku pernah menampar seorang bekas budak milikku, lalu aku pergi dan kembali pulang menjelang zhuhur, kemudian aku shalat di belakang ayahku. Lantas [ayahku] memanggilku dan memanggilnya (bekas budakku), lalu dia berkata, "Tamparlah dia sebagaiamana dia menamparmu." Namun bekas budakku mema'afkanku hingga ayahku pun berkata, "Kami adalah bani Muqarrin yang di masa Rasulullah shallallahu 'alaihi wasallam kami tidak memiliki pelayan kecuali hanya satu orang wanita, kemudian salah seorang dari kami menamparnya, ternyata hal itu sampai kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Merdekakanlah dia." Mereka berkata, "Kami tidak memiliki pelayan lain selain dia." Beliau menjawab, "Mintalah dia supaya tetap menjadi pelayan kalian sementara waktu, kemudian biarkanlah dia bebas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4301</td></tr><tr><td>Arabic No</td><td>1658.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4301</td></tr><tr><td>Arabic No</td><td>1658.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 48</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:I placed water for the bath of the Prophet (ﷺ) and he poured 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] berkata, telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Al A'masy] berkata, telah menceritakan kepadaku [Salim] dari [Kuraib] dari [Ibnu 'Abbas] berkata, telah menceritakan kepada kami [Maimunah] berkata, "Aku menuangkan air untuk mandi Nabi shallallahu 'alaihi wasallam, lalu dengan tangan kanannya beliau menuangkan air pada tangan kirinya lalu membasuh keduanya. Kemudian mencuci kemaluannya, lalu menyentuhkan tangannya ke bumi dan mengusapnya dengan tanah, lalu mencucinya dengan air. Kemudian berkumur-kumur dan memasukkan air ke hidung, kemudian membasuh muka dan menyiramkan air ke atas kepalanya. Kemudian beliau bergeser untuk mencuci kedua telapak kakinya. Setelahitu beliau diberi handuk, tapi beliau tidak mengeringkan badannya dengan handuk tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>259</td></tr><tr><td>Arabic No</td><td>259</td></tr><tr><td>Reference</td><td>Book 5 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Маймуна, да будет доволен ею Аллах, рассказывала нам: “(Однажды) я налила для Пророка ﷺ воду для большого омовения, и он налив её правой рукой на левую, помыл их. Затем он помыл свои половые органы, затем ударил рукой по земле, вытер её об землю и затем помыл её. Потом он прополоснул рот и нос, после чего помыл лицо и облил (водой) свою голову. Затем он перешёл на другое место и помыл ноги. Затем ему принесли полотенце, однако он не стал вытираться им”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>259</td></tr><tr><td>Arabic No</td><td>259</td></tr><tr><td>Reference</td><td>Book 5 Hadith 12</td></tr></tbody></table></div>
 

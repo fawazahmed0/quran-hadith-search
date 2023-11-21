@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:Abu al-Qasim, the Prophet of Atonement (ﷺ) said to me: If an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi] ia berkata; telah mengabarkan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muammal Ibnul Fadhl Al Harrani] ia berkata; telah mengabarkan kepada kami [Isa] berkata, telah menceritakan kepada kami [Fudhail] -maksudnya Fudhail bin Ghazwan- dari [Ibnu Abu Nu'm] dari [Abu Hurairah] ia berkata; telah menceritakan kepadaku Abul Qasim -Nabi shallallahu 'alaihi wasallam- beliau bersabda: "Barangsiapa menuduh budaknya (zina) sementara budak itu berlepas diri dari tuduhan tersebut, maka pada hari kiamat ia akan dicambuk sebagai hukuman baginya." Muammal berkata, "Telah menceritakan kepada kami Isa dari Al Fudhail -maksudnya Fudhail bin Ghazwan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6858) Sahih Muslim (1660)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5165</td></tr><tr><td>Arabic No</td><td>5165</td></tr><tr><td>Reference</td><td>Book 43 Hadith 393</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6858) Sahih Muslim (1660)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5165</td></tr><tr><td>Arabic No</td><td>5165</td></tr><tr><td>Reference</td><td>Book 43 Hadith 393</td></tr></tbody></table></div>
 

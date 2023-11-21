@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Quand les Muhâjirûn, venus de La M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah] keduanya; telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Anas bin Malik] dia berkata, "Ketika kaum muhajirin tiba dari Makkah ke Madinah, mereka datang dengan tidak membawa sesuatupun, sedangkan kaum Anshar mempunyai tanah dan kebun kurma yang luas. Maka orang-orang Anshar membagikan sebagiannya kepada Sahabat Muhajirin dengan syarat mereka memberikan setengah dari hasil penennya setiap tahun. Maka orang-orang Muhajirin pun membayar kepada orang-orang Anshar dengan kerja dan makanan." Ibu Anas bin Malik atau yang biasa dipanggil Ummu Sulaim, dan Ibu Abdullah bin Abu Thalhah - saudara seibu Anas-, Ibu Anas memberikan kebun kurma miliknya kepada Rasulullah shallallahu 'alaihi wasallam, lalu beliau memberikannya kepada Ummu Aiman, budak Ibu Usamah bin Zaid." Ibnu Syihab berkata, "Lalu Anas bin Malik mengabarkan kepadaku, bahwa ketika Rasulullah shallallahu 'alaihi wasallam kembali dari perang Khaibar beliau pulang ke Madinah, lalu kaum muhajirin mengembalikan kebun kurma pemberian kaum anshar kepada mereka." Ibnu Syihab berkata, "Rasulullah shallallahu 'alaihi wasallam juga mengembalikan kebun kurmanya kepada ibuku, dan beliau shallallahu 'alaihi wasallam juga memberikan bagian dari kebun kurmanya kepada Ummu Aiman." Ibnu Syihab berkata, "Yang menjadi permasalahan Ummu Aiman ialah, bahwa Ibu Usamah bin Zaid dulunya seorang pelayan milik Abdullah bin Abdul Muththallib yang berasal dari Habasyah. Ketika Aminah (Ibu Rasul) melahirkan Rasulullah shallallahu 'alaihi wasallam, setelah ditinggal wafat oleh ayahnya, maka Ummu Aimanlah yang merawat beliau hingga beliau shallallahu 'alaihi wasallam dewasa, kemudian ia dimerdekakan dan dinikahi oleh Zaid bin Haritsah. Ummu Aiman meninggal dunia lima tahun setelah meninggalnya Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4603</td></tr><tr><td>Arabic No</td><td>1771.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4603</td></tr><tr><td>Arabic No</td><td>1771.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 84</td></tr></tbody></table></div>
 

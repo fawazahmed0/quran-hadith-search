@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: If anyone hears a man cr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu ath-Thahir Ahmad bin Amru] telah menceritakan kepada kami [Ibnu Wahb] dari [Haiwah] dari [Muhammad bin Abdurrahman] dari [Abu Abdullah, maula Syaddad bin al-Had] bahwasanya dia mendengar [Abu Hurairah radhiyallahu'anhu] berkata, "Rasulullah Shallallahu'alaihiwasallam bersabda, 'Barangsiapa yang mendengar seseorang mengumumkan barang hilang di masjid, hendaklah dia mendoakan, 'Semoga Allah tidak mengembalikannya kepadamu, karena masjid bukan dibangun untuk ini'." Dan telah menceritakannya kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [al-Muqri'] telah menceritakan kepada kami [Haiwah] dia berkata, "Saya mendengar [Abu al-Aswad] berkata, telah menceritakan kepadaku [Abu Abdullah, maula Syaddad] bahwasanya dia mendengar [Abu Hurairah radhiyallahu'anhu] berkata, Saya mendengar Rasulullah Shallallahu'alaihiwasallam bersabda dengan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1260</td></tr><tr><td>Arabic No</td><td>568.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Пусть тот, кто услышит, как (какой-нибудь) человек расспрашивает в мечети о пропаже, скажет: “Да не вернёт тебе этого Аллах!”, ибо, поистине, мечети были построены не для этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1260</td></tr><tr><td>Arabic No</td><td>568.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 98</td></tr></tbody></table></div>
 

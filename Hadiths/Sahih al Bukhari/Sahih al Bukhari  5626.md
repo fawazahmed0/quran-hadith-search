@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:I heard Allah's Messenger (ﷺ) forbidding the drin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqattil] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] dia berkata; telah menceritakan kepadaku ['Ubaidullah bin Abdullah] bahwa dia mendengar [Abu Sa'id Al Khudri] berkata; saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam melarang minum langsung dari geribah (tempat air minum)." Abdullah mengatakan; Ma'mar dan yang lain mengatakan yaitu minum air langsung dari mulut geribah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5626</td></tr><tr><td>Arabic No</td><td>5626</td></tr><tr><td>Reference</td><td>Book 74 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запрещал сгибать горлышки бурдюков», имея в виду(, что он запрещал) пить (непосредственно) из них
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5626</td></tr><tr><td>Arabic No</td><td>5626</td></tr><tr><td>Reference</td><td>Book 74 Hadith 52</td></tr></tbody></table></div>
 

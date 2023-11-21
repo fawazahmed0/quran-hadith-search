@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Musa said :I asked the prophet (ﷺ) about wine made from honey. He said: Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Khalid] dari ['Ashim bin Kulaib] dari [Abu Burdah] dari [Abu Musa] ia berkata, "Aku pernah bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai minuman yang terbuat dari madu. Kemudian beliau menjawab: "Itu adalah arak." Aku katakan kepada beliau, "Dia dibuat dari perasan jewawut dan jagung?" Beliau bersabda: "Itu adalah arak." Kemudian beliau bersabda: "Beritahukan kepada kaummu bahwa segala sesuatu yang memabukkan adalah haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (6124، 4344) Sahih Muslim (1733 After 2001)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3684</td></tr><tr><td>Arabic No</td><td>3684</td></tr><tr><td>Reference</td><td>Book 27 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Мусы, да будет доволен им Аллах: «Я спросил Пророка ﷺ о напитке из мёда, и он сказал: “Это бит‘”. Я сказал: “Они делают (подобный) и из ячменя и сорго”. (Посланник Аллаха ﷺ) сказал: “Это мизр”. Потом он сказал: “Сообщи своим соплеменникам, что всё опьяняющее запретно”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (6124، 4344) Sahih Muslim (1733 After 2001)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3684</td></tr><tr><td>Arabic No</td><td>3684</td></tr><tr><td>Reference</td><td>Book 27 Hadith 16</td></tr></tbody></table></div>
 

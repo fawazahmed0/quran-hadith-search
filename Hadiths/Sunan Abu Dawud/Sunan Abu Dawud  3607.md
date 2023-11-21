@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uncle of Umarah ibn Khuzaymah: The Prophet (ﷺ) bought a horse from a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] bahwa [Al Hakam bin Nafi'] telah menceritakan kepada mereka, ia berkata; telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dari ['Umarah bin Khuzaimah] bahwa [pamannya] seorang sahabat Nabi shallallahu 'alaihi wasallam, telah menceritakan kepadanya, bahwa Nabi shallallahu 'alaihi wasallam pernah membeli seekor kuda dari seorang Arab dusun, kemudian Nabi shallallahu 'alaihi wasallam meminta kepada Arab dusun tersebut untuk mengikutinya sehingga beliau bisa membayar kuda yang dibelinya. Rasulullah shallallahu 'alaihi wasallam berjalan cepat sementara orang Arab dusun tersebut berjalan lambat. Setelah itu orang-orang datang kepada Arab dusun itu dan menawar kudanya, dan mereka tidak mengetahui bahwa Nabi shallallahu 'alaihi wasallam telah membelinya. Arab dusun itu kemudian datang menemui Rasulullah shallallahu 'alaihi wasallam dan berkata, "Apabila engkau membeli kuda ini maka belilah, jika tidak maka aku akan menjualnya." Saat mendengar panggilan Arab dusun itu Nabi shallallahu 'alaihi wasallam bangkit dan berkata: "Bukankah aku telah membelinya darimu?" Arab dusun itu menjawab, "Demi Allah, tidak! Aku tidak menjualnya kepadamu." Nabi shallallahu 'alaihi wasallam lalu berkata: "Benar, aku telah membelinya darimu." Maka Arab dusun itu pun berkata, "Berikan kepadaku seorang saksi." Kemudian Khuzaimah bin Tsabit berkata, "Aku bersaksi bahwa engkau telah menjualnya." Lalu Nabi shallallahu 'alaihi wasallam menghadap kepada ke arah Khuzaimah dan berkata: "Dengan apakah engkau bersaksi?" Khuzaimah menjawab, "Dengan membenarkanmu wahai Rasulullah!" Lalu Rasulullah shallallahu 'alaihi wasallam menjadikan persaksian Khuzaimah sama dengan persaksian dua orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3607</td></tr><tr><td>Arabic No</td><td>3607</td></tr><tr><td>Reference</td><td>Book 25 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умара ибн Хузайма передаёт от своего дяди, который был сподвижником Пророка ﷺ что Пророк ﷺ купил коня у одного бедуина. Пророк ﷺ повёл его за собой, чтобы заплатить ему за коня. Посланник Аллаха ﷺ шёл быстро, а бедуин медленно, и люди обступили его, предлагая ему продать коня и торгуясь. Они не знали, что Пророк ﷺ уже купил его. Тогда бедуин позвал Посланника Аллаха ﷺ и сказал ему: «Либо ты покупаешь коня, либо я продаю его другим». Услышав эти слова, Пророк ﷺ поднялся и сказал: «Разве я уже не купил его у тебя?» Тот ответил: «Нет, клянусь Аллахом, я не продавал его тебе». Пророк ﷺ сказал: «О нет, я уже купил его у тебя». Тогда бедуин стал требовать: «Приведи же свидетеля». Хузайма ибн Сабит сказал: «Я свидетельствую, что ты купил его!» Пророк ﷺ подошёл к Хузайме и спросил его: «На основании чего ты свидетельствуешь?» Он ответил: «На том основании, что я верю твоим словам». И Пророк ﷺ объявил, что свидетельство Хузаймы приравнивается к свидетельству двух мужчин
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3607</td></tr><tr><td>Arabic No</td><td>3607</td></tr><tr><td>Reference</td><td>Book 25 Hadith 37</td></tr></tbody></table></div>
 

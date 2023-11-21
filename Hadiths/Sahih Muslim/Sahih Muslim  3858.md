@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hakim b. Hazim (Allah be pleased with him) reported Allah's Messenger (ﷺ) as s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Syu'bah]. Dan dari jalur lain, telah menceritakan kepada kami [Amru bin Ali] telah menceritakan kepada kami [Yahya bin Sa'id] dan [Abdurrahman bin Mahdi] keduanya berkata; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Abu Al Khalil] dari [Abdullah bin Al Harits] dari [Hakim bin Hizam] dari Nabi Shallallu 'alaihi wa sallam, beliau bersabda: "Orang yang bertransaksi jual beli berhak khiyar (memilih) selama keduanya belum berpisah. Jika keduanya jujur dan terbuka, maka keduanya akan mendapatkan keberkahan dalam jual beli, tapi jika keduanya berdusta dan tidak terbuka, maka keberkahan jual beli antara keduanya akan hilang." Telah menceritakan kepada kami [Amru bin Ali] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Hammam] dari [Abu At Tayyah] dia berkata; Saya mendengar [Abdullah bin Al Harits] telah menceritakan dari [Hakim bin Hizam] dari Nabi Shallallu 'alaihi wa sallam, seperti hadits di atas, Muslim bin Hajjaj berkata; Hakim bin Hizam dilahirkan di dalam Ka'bah, dan dia hidup selama seratus dua puluh tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3858</td></tr><tr><td>Arabic No</td><td>1532.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3858</td></tr><tr><td>Arabic No</td><td>1532.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 57</td></tr></tbody></table></div>
 

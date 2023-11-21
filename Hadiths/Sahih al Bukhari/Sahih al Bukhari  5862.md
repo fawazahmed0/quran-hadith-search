@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama:My father, Makhrama said to me, "I have come to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5862</td></tr><tr><td>Arabic No</td><td>5862</td></tr><tr><td>Reference</td><td>Book 77 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Мисвара ибн Махрама, что его отец Махрама сказал ему: «О сынок, до меня дошло, что Пророку ﷺ прибыли кафтаны, и он делит их (между людьми), поэтому пойдём к нему вместе со мной». Аль-Мисвар сказал: «Мы пришли и обнаружили, что Пророк ﷺ дома, и отец сказал мне: “О сынок, позови ко мне Пророка ﷺ”. Мне было трудно сделать это, поэтому я спросил: “Мне позвать к тебе Посланника Аллаха ﷺ!?”, и он сказал: “О сынок, поистине, он — не тиран”. Тогда я позвал его, и он вышел, надев на себя кафтан из порчи с золотыми пуговицами, и сказал: “О Махрама, мы придержали этот (кафтан) для тебя”, и дал его ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5862</td></tr><tr><td>Arabic No</td><td>5862</td></tr><tr><td>Reference</td><td>Book 77 Hadith 79</td></tr></tbody></table></div>
 

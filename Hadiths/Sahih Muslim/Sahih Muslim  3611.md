@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported on the authority of AbuSa'id (al-Khudri) (Allah be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Abu Al Khalil] dari [Abu Sa'id] dia berkata; Pada waktu (perang) Authas, mereka (para sahabat) menawan para tawanan wanita yang masih memiliki suami. Maka mereka khawatir (jika menyetubuhinya), lalu turunlah ayat ini: "Dan di haramkan bagi kamu mengawini wanita-wanita yang bersuami, kecuali budak-budak yang kalian miliki." Dan telah menceritakan kepadaku [Yahya bin Habib] telah menceritakan kepada kami [Khalid yaitu Ibnu Al Harits] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3611</td></tr><tr><td>Arabic No</td><td>1456.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3611</td></tr><tr><td>Arabic No</td><td>1456.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 43</td></tr></tbody></table></div>
 

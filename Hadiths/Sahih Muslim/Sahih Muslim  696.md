@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali reported:I felt shy of asking about prostatic fluid from the Apostle (ﷺ) b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Habib al-Haritsi] telah menceritakan kepada kami [Khalid, yaitu bin Harits] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku [Sulaiman] dia berkata, Saya mendengar [Mundzir] dari [Muhammad bin Ali] dari [Ali] bahwa dia berkata, "Saya malu untuk bertanya Nabi shallallahu 'alaihi wasallam tentang madzi karena (posisiku sebagai suami) Fathimah. Maka saya perintahkan al-Miqdad, lalu dia bertanya kepada beliau. Maka beliau bersabda, 'Karena madzi, juga harus berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>303.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Али сказал: «Я стеснялся спросить Пророка ﷺ о “мазий” из-за Фатыми, поэтому я велел аль-Микъдаду ибн аль-Асваду (спросить об этом Пророка ﷺ. Аль-Микъдад) задал ему этот вопрос, и (Пророк ﷺ) сказал: “(В этом случае следует) совершить малое омовение /вудуъ/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>303.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 18</td></tr></tbody></table></div>
 

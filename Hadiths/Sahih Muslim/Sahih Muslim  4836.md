@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Omar (رضي الله عنهما) a dit : Quand nous prêtions s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] dan ini adalah lafadz Ibnu Ayyub, mereka berkata; telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Ja'far- telah mengabarkan kepadaku [Abdullah bin Dinar] bahwa dia mendengar [Abdullah bin Umar] berkata, "Kami berbai'at kepada Rasulullah shallallahu 'alaihi wasallam untuk selalu mendengar dan taat, beliau bersabda: "Sesuai dengan kemampuan kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4836</td></tr><tr><td>Arabic No</td><td>1867</td></tr><tr><td>Reference</td><td>Book 33 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4836</td></tr><tr><td>Arabic No</td><td>1867</td></tr><tr><td>Reference</td><td>Book 33 Hadith 132</td></tr></tbody></table></div>
 

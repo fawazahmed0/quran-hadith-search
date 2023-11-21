@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha, la femme du Prophète (رضي الله عنها) a dit : Lorsqu'il faisa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman, yaitu anaknya Bilal] dari [Ja'far, yaitu anaknya Muhammad] dari [Atha' bin Abu Rabah] bahwa ia mendengar [Aisyah] isteri Nabi shallallahu 'alaihi wasallam berkata; Apabila ada angin bertiup kencang sekali, maka hal itu dapat diketahui dari wajah beliau shallallahu 'alaihi wasallam, beliau bolak-balik ke depan dan ke belakang. Dan ketika hujan turun, maka beliau pun senang dan hilanglah kekhawatirannya. Aisyah berkata; Maka saya pun menanyakan hal itu pada beliau, beliau menjawab: "Saya khawatir, bisa jadi hal itu akan menjadi adzab yang ditimpakan kepada umatku." Dan ketika melihat hujan beliau bersabda: "(ini adalah) rahmat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2084</td></tr><tr><td>Arabic No</td><td>899.01</td></tr><tr><td>Reference</td><td>Book 9 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, жена Пророка ﷺ сказала: «Когда были ветряные и облачные дни, это отображалось на лице Посланника Аллаха ﷺ. Он ходил вперёд и назад, когда же начинался дождь, он радовался и (беспокойство) покидало его. (Однажды) я спросила его (об этом), и он сказал: “Я боялся, что это может быть наказанием, посланным на мою общину”, а когда он увидел дождь, то сказал: “(Это) милость (Аллаха)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2084</td></tr><tr><td>Arabic No</td><td>899.01</td></tr><tr><td>Reference</td><td>Book 9 Hadith 15</td></tr></tbody></table></div>
 

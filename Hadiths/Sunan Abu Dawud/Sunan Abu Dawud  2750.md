@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Habib ibn Maslamah al-Fihri: Makhul said: I was the slave of a woman of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Ahmad bin Basyir bin Dzakwan], serta [Mahmud bin Khalid Ad Dimasyqi] secara makna, mereka berkata; telah menceritakan kepada kami [Marwan bin Muhammad], ia berkata; telah menceritakan kepada kami [Yahya bin Hamzah], ia berkata; saya mendengar [Abu Wahb] berkata; saya telah mendegar [Makhul] berkata; dahulu aku adalah seorang budak di Mesir milik seorang wanita dari Bani Hudzail, kemudian ia membebaskanku. Tidaklah aku keluar dari Mesir dan padanya terdapat ilmu kecuali aku telah menguasainya sepengetahuanku, kemudian aku datang ke Hijaz, tidaklah aku keluar darinya dan padanya terdapat ilmu melainkan aku telah menguasainya sepengetahuanku. Kemudian aku datang ke Irak, tidaklah aku keluar darinya dan padanya terdapat ilmu melainkan aku telah menguasainya sepengetahuanku. Kemudian aku datang ke Syam lalu aku mengetahui kondisi orang-orang yang ada di sana, setiap itu semua aku bertanya mengenai nafal (tambahan yang diberikan seorang pemimpin) dan aku tidak menjumpai seseorang yang memberitahukan mengenainya hingga aku bertemu dengan seorang syekh yang bernama [Ziyad bin Jariyah At Taimi]. Kemudian aku tanyakan kepadanya; apakah engkau pernah mendengar sesuatu mengenai nafal? Ia berkata; ya. Aku pernah mendengar [Habib bin Maslamah Al Fihri] berkata; aku menyaksikan Nabi shallallahu 'alaihi wasallam memberikan tambahan seperempat ketika pergi dan sepertiga ketika kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2750</td></tr><tr><td>Arabic No</td><td>2750</td></tr><tr><td>Reference</td><td>Book 15 Hadith 274</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Макхуль рассказывал: «Когда-то я был невольником в Египте и принадлежал женщинам из (племени) хузейль, которая впоследствии освободила меня. Мне кажется, что я покинул Египет лишь тогда, когда собрал всё знание, которое в нём было. Затем я направился в Хиджаз, и, как мне кажется покинул его лишь тогда, когда собрал всё знание, которое в нём было. Затем я направился в Ирак, и покинул его лишь тогда, когда как мне кажется, собрал всё знание, которое в нём было. Затем я направился в Шам и просеял его через сито. Все это время я спрашивал (людей) о дополнительных долях военной добычи, но не находил никого, кто поведал бы мне об этом хоть что-то (из сообщений от Посланника Аллаха ﷺ), пока не встретил старца, которого звали Зияд ибн Джария ат-Тамими. Я спросил его: “Не слышал ли ты что-нибудь о дополнительных долях военной добычи?’’ Он ответил: “Да, я слышал, как Хабиб ибн Масляма аль-Фихри говорил: “Я видел, как Пророк ﷺ выделял четверть (добычи некоторым воинам) в начале (военного похода) и треть при возвращении из него дополнительно”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2750</td></tr><tr><td>Arabic No</td><td>2750</td></tr><tr><td>Reference</td><td>Book 15 Hadith 274</td></tr></tbody></table></div>
 

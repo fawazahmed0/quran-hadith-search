@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Tufail reported:'Ali was asked whether Allah's Messenger (ﷺ) had showed sp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] dan ini adalah lafadz Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata; saya mendengar [Al Qasim bin Abu Bazzah] menceritakan dari [Abu Thufail] dia berkata, " [Ali] pernah ditanya, "Apakah Rasulullah shallallahu 'alaihi wasallam merahasiakan kepadamu dengan sesuatu?" dia menjawab, "Rasulullah shallallahu 'alaihi wasallam tidak pernah merahasiakan sesuatu pun yang tidak diumumkan kepada manusia, kecuali mengenai sesuatu yang ada dalam sarung pedangku ini." Abu Thufail berkata, "Kemudian Ali mengeluarkan lembaran yang bertuliskan: "Allah mengutuk orang yang menyembelih untuk selain Allah, mengutuk orang yang memindah batas tanah, mengutuk orang yang mencaci maki orang tuanya dan mengutuk orang yang melindungi pelaku kejahatan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5126</td></tr><tr><td>Arabic No</td><td>1978.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5126</td></tr><tr><td>Arabic No</td><td>1978.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 62</td></tr></tbody></table></div>
 

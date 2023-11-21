@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Jubayr Ibn Mut'im (que Dieu l'agrée), Etant chez l'Envoyé de Dieu (paix 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Sa'id] serta [Abu Bakar bin Abi Syaibah] berkata Yahya, telah mengabarkan kepada kami, sedangkan dua orang yang lainnya mengatakan, telah menceritakan kepada kami [Abu al-Ahwash] dari [Abu Ishaq] dari [Sulaiman bin Shurad] dari [Jubair bin Muth'im] dia berkata, "Orang-orang berselisih dalam masalah mandi di sisi Rasulullah Shallallahu'alaihiwasallam, maka sebagian kaum berkata, 'Adapun saya maka sungguh saya membasuh kepalaku demikian dan demikian.' Maka Rasulullah shallallahu 'alaihi wasallam bersabda, 'Adapun saya, maka sungguh saya mengguyurkan pada kepalaku tiga cidukan telapak tangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>740</td></tr><tr><td>Arabic No</td><td>327.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джубайр ибн Мут‘им сказал: «(Однажды) в присутствие Посланника Аллаха ﷺ люди стали спорить о полном омовении /гусль/, и кто-то из них сказал: “Что касается меня, то я мою свою голову так-то и так-то”. Тогда Посланник Аллаха ﷺ сказал: “Что касается меня, то я обливаю голову тремя пригоршнями воды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>740</td></tr><tr><td>Arabic No</td><td>327.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 62</td></tr></tbody></table></div>
 

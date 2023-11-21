@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said :I heard the Messenger of Allah (May peace be upon him) say : 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Abdullah bin Wahb] ia berkata; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata; telah mengabarkan kepadaku [Abu Salamah bin 'Abdurrahman] bahwa [Abu Hurairah] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa melihatku dalam mimpi maka ia akan melihatku di saat sadar, atau beliau mengatakan, "sekan ia melihatku dalam alam nyata. Dan setan tidak akan dapat menyerupaiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6993) Sahih Muslim (2266)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5023</td></tr><tr><td>Arabic No</td><td>5023</td></tr><tr><td>Reference</td><td>Book 43 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6993) Sahih Muslim (2266)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5023</td></tr><tr><td>Arabic No</td><td>5023</td></tr><tr><td>Reference</td><td>Book 43 Hadith 251</td></tr></tbody></table></div>
 

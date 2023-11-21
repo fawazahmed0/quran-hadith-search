@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما) : L'Envoyé de Dieu (paix et bé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], katanya; aku menyetorkan hapalan kepada [Malik] dari [Nafi'] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat jama'ah lebih utama dua puluh tujuh derajat daripada shalat sendirian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1477</td></tr><tr><td>Arabic No</td><td>650.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 310</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Коллективная молитва превосходит молитву, (совершённую) в одиночестве, на двадцать семь степеней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1477</td></tr><tr><td>Arabic No</td><td>650.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 310</td></tr></tbody></table></div>
 

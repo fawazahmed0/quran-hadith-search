@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) addressed the people, and after praising 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Harb] telah menceritakan kepada kami [Yahya bin Abu Zakariya Al Ghassani] dari [Hisyam] dari ['Urwah] dari ['Aisyah] bahwa Rasulullah Shallallahu'alaihiwasallam berpidato kepada manusia, lantas memuja dan memuji Allah dan bersabda: "Kalian tidak bisa memberiku alasan terhadap seseorang yang mencela isteriku, setahuku tak ada keburukan pada mereka sama sekali." Dan 'Urwah berkata, 'Dikala 'Aisyah dikabarkan selingkuh, ia berkata, 'Wahai Rasulullah, bersediakah engkau jika aku kembali kepada keluargaku? Maka Rasul memberinya ijin dan mengutus pelayan untuk menemaninya. Dan seorang laki-laki anshar berkata, 'Maha suci Engkau, tak sepantasnya kami berkata yang sedemikian ini. Maha suci Engkau, ini adalah kebohongan yang nyata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7370</td></tr><tr><td>Arabic No</td><td>7370</td></tr><tr><td>Reference</td><td>Book 96 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, что однажды Посланник Аллаха ﷺ обратился к людям с проповедью, (предварительно) восхвалив и восславив Аллаха, он сказал: «Что вы мне посоветуете сделать с людьми, которые оскорбляют мою жену? Мне не известно о ней ничего плохого».\nСообщается, что ‘Урва сказал: «Когда же ‘Аише рассказали о том, что говорили (клеветники), она сказала: «О Посланник Аллаха, позволь мне пойти к моим родителям?», — и Пророк ﷺ позволил ей (сделать это), послав вместе с ней слугу. А один человек из числа ансаров сказал: «Пречист Ты! Нам не подобает говорить такое. Пречист Ты! Это — великая клевета»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7370</td></tr><tr><td>Arabic No</td><td>7370</td></tr><tr><td>Reference</td><td>Book 96 Hadith 97</td></tr></tbody></table></div>
 

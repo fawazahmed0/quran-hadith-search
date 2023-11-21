@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aishah (ra):I heard the Prophet (ﷺ), "Souls are like recruited troops
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 60 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я слышала, как Пророк ﷺ говорил: “Души (подобны) воинам, призванным (в войско): те из них, которые узнают друг друга, объединяются, а те, которые друг друга не узнают, расходятся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 60 Hadith 11</td></tr></tbody></table></div>
 

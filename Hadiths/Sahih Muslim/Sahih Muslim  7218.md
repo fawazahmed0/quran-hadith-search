@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Apostle (ﷺ) said:When the servant is place
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Minhal Adh Dharir] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id bin Abu Arubah] dari [Qatadah] dari [Anas bin Malik] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya mayit bila telah diletakkan dikuburnya, ia mendengar derapan sandal mereka saat mereka pulang." Telah menceritakan kepadaku [Amru bin Zurarah] telah mengkhabarkan kepada kami [Abdulwahhab bin Atho'] dari [Sa'id] dari [Qatadah] dari [Anas bin Malik] nabi Allah Shallallahu 'alaihi wa Salam bersabda: "Bila ia diletakkan dikuburnya dan teman-temannya pulang." Ia menyebut seperti hadits Syaiban dari Qatadah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7218</td></tr><tr><td>Arabic No</td><td>2870.03</td></tr><tr><td>Reference</td><td>Book 53 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7218</td></tr><tr><td>Arabic No</td><td>2870.03</td></tr><tr><td>Reference</td><td>Book 53 Hadith 87</td></tr></tbody></table></div>
 

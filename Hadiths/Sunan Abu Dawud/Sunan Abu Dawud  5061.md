@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: When the Messenger of Allah (ﷺ) awake at night
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamid bin Yahya] berkata, telah menceritakan kepada kami [Abu 'Abdurrahman] berkata, telah menceritakan kepada kami [Sa'id] -maksudnya bin Abu Ayyub- ia berkata; telah menceritakan kepadaku [Abdullah Ibnul Walid] dari [Sa'id Ibnul Musayyab] dari ['Aisyah radliallahu 'anha] berkata, "Jika Rasulullah shallallahu 'alaihi wasallam bangun di waktu malam beliau membaca: "LAA ILAAHA ILLA ANTA SUBHAANAKA ALLAHUMMA ASTAGHFIRUKA LIDZANBII WA AS'ALUKA RAHMATAKA ALLAHUMMA ZIDNII 'ILMAN WA LAA TUZIGH QALBII BA'DA IDZ HADAITANII WA HABLII MIN LADUNKA RAHMATAN INNAKA ANTAL WAHHAAB (Tidak ada Tuhan selain Engkau, Maha Suci Engkau ya Allah, aku meminta pengampunan kepada-Mu untuk dosaku, dan aku meminta rahmat-Mu. Ya Allah, tambahkanlah ilmu kepadaku, jangan Engkau condongkan hatiku kepada kesesatan setelah Engkau beri petunjuk. Dan karuniakanlah kepadaku rahmat dari sisi Engkau. Karena sesungguhnya Engkau-lah Maha Pemberi (karunia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5061</td></tr><tr><td>Arabic No</td><td>5061</td></tr><tr><td>Reference</td><td>Book 43 Hadith 289</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5061</td></tr><tr><td>Arabic No</td><td>5061</td></tr><tr><td>Reference</td><td>Book 43 Hadith 289</td></tr></tbody></table></div>
 

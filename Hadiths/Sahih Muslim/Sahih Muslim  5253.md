@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported Allah's Messenger (ﷺ) as saying:Do not let your animals and chi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus]; Telah menceritakan kepada kami [Zuhair]; Telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Az Zubair] dari [Jabir] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan biarkan ternak dan anak-anakmu lepas berkeliaran ketika matahari terbenam sampai hilangnya cahaya senja. Karena setan keluar ketika matahari terbenam sampai hilang cahaya senja." Dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami ['Abdurrahman]; Telah menceritakan kepada kami [Sufyan] dari [Abu Az Zubair] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5253</td></tr><tr><td>Arabic No</td><td>2013.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5253</td></tr><tr><td>Arabic No</td><td>2013.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 127</td></tr></tbody></table></div>
 

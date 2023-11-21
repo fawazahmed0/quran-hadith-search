@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) forbade the drinking of alcoholic drinks prepar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] telah mengabarkan kepadaku ['Atha'] bahwa dia mendengar [Jabir] radliallahu 'anhu berkata; Nabi shallallahu 'alaihi wasallam melarang (minuman keras yang terbuat) dari kismis, tamr (kurma kering), busr (kurma muda) dan ruthab (kurma basah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5601</td></tr><tr><td>Arabic No</td><td>5601</td></tr><tr><td>Reference</td><td>Book 74 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил (готовить напитки из смешанных между собой) изюма, фиников, незрелых фиников и свежих спелых фиников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5601</td></tr><tr><td>Arabic No</td><td>5601</td></tr><tr><td>Reference</td><td>Book 74 Hadith 27</td></tr></tbody></table></div>
 

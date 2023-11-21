@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(At times) in Ramadan the Prophet (ﷺ) used to take a bath in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahab] telah menceritakan kepada kami [Yunus] dari [Ibnu Sihab] dari ['Urwah] dan [Abu Bakar], ['Aisyah radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam pernah mendapati masuknya waktu fajar di bulan Ramadhan dalam keadaan Beliau junub, lalu Beliau mandi dan shaum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1930</td></tr><tr><td>Arabic No</td><td>1930</td></tr><tr><td>Reference</td><td>Book 30 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Пророк ﷺ встречал рассвет в рамадане в состоянии полового осквернения (по причине половой близости, а не полюций), он совершал большое омовение и продолжал поститься»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1930</td></tr><tr><td>Arabic No</td><td>1930</td></tr><tr><td>Reference</td><td>Book 30 Hadith 38</td></tr></tbody></table></div>
 

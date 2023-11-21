@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid Al-Juhani:Allah's Messenger (ﷺ) led the morning praye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepadaku [Malik] dari [Shalih bin Kaisan] dari ['Ubaidullah bin 'Abdullah bin 'Utbah bin Mas'ud] dari [Zaid bin Khalid Al Juhaini] bahwa dia berkata, "Rasulullah shallallahu 'alaihi wasallam memimpin kami shalat Shubuh di Hudaibiyyah pada suatu malam sehabis turun hujan. Selesai shalat beliau menghadapkan wajahnya kepada orang banyak lalu bersabda: "Tahukah kalian apa yang sudah difirmankan oleh Rabb kalian?" Orang-orang menjawab, "Allah dan rasul-Nya lebih mengetahui." Beliau lalu bersabda: "Allah berfirman: 'Di pagi ini ada hamba-hamba Ku yang menjadi Mukmin kepada-Ku dan ada pula yang kafir. Orang yang berkata, 'Hujan turun kepada kita karena karunia Allah dan rahmat-Nya', maka dia adalah yang beriman kepada-Ku dan kafir kepada bintang-bintang. Adapun yang berkata, 'Hujan turun disebabkan bintang ini dan itu', maka dia telah kafir kepada-Ku dan beriman kepada bintang-bintang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1038</td></tr><tr><td>Arabic No</td><td>1038</td></tr><tr><td>Reference</td><td>Book 15 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд бин Халид аль-Джухани, да будет доволен им Аллах, сказал: «В Худайбийe после прошедшего ночью дождя Пророк ﷺ совершил с нами утренний намаз, завершив который, он повернулся к людям и спросил: “Знаете ли вы, что сказал Господь ваш?” Они ответили: “Аллах и посланник Его знают (об этом) лучше”. (Пророк ﷺ) сказал:\n— (Аллах) сказал: «Этим утром (некоторые) из рабов Моих остались верующими, а (некоторые) стали неверными. Что касается сказавшего: “Нам был послан дождь по милости Аллаха и милосердию Его”, то он верует в Меня и не верит в планеты, что же касается сказавшего: “Нам был послан дождь благодаря такой-то планете”, то он не верует в Меня и верит в планеты”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1038</td></tr><tr><td>Arabic No</td><td>1038</td></tr><tr><td>Reference</td><td>Book 15 Hadith 33</td></tr></tbody></table></div>
 

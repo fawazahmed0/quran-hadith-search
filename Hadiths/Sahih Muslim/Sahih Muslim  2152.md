@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported that the Messenger of Allah (ﷺ) said:The dead is pu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah menceritakan kepada kami [Abdullah bin Wahb] telah menceritakan kepadaku [Umar bin Muhammad] bahwa [Salim] telah menceritakannya dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya mayit itu akan disiksa karena tangisan mereka yang masih hidup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2152</td></tr><tr><td>Arabic No</td><td>930</td></tr><tr><td>Reference</td><td>Book 11 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Поистине, покойный подвергается мучениям из-за плача живого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2152</td></tr><tr><td>Arabic No</td><td>930</td></tr><tr><td>Reference</td><td>Book 11 Hadith 30</td></tr></tbody></table></div>
 

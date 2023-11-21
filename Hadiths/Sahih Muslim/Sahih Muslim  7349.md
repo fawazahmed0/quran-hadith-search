@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Khudri reported:Ibn Sa'id said to me something for which I felt ashame
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Hubaib] dan [Muhammad bin Abdula'la], keduanya berkata: Telah menceritakan kepada kami [Mu'tamir] berkata: Aku mendengar [ayahku] menceritakan dari [Abu Nadhrah] dari [Abu Sa'id Al Khudri] berkata: Ibnu Sha'id berkata padaku, aku merasa menghargainya: Aku memaafkan orang-orang. Apa urusan kalian denganku, wahai sahabat-sahabat Muhammad, bukankah nabi Allah Shallallahu 'alaihi wa Salam mengatakan bahwa ia (Dajjal) adalah Yahudi, sementara aku telah masuk Islam. Ia meneruskan: Ia (Dajjal) tidak punya anak, sementara aku punya. Ia meneruskan: Allah mengharamkannya (Dajjal) Makkah dan Madinah, sementara aku telah menunaikan haji. Abu Sa'id berkata: Ia terus berbicara hingga perkataannya menarikku, ia berkata: Ingat, demi Allah sesungguhnya aku tahu dimana sekarang ia (Dajjal) berada, aku mengetahui ayah dan ibunya. Abu Sa'id berkata: Ada yang berkata padanya: Apa kau suka bahwa kau adalah orang itu (Dajjal)? Ia menjawab: Bila ia diperlihatkan padaku, aku tidak benci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7349</td></tr><tr><td>Arabic No</td><td>2927.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7349</td></tr><tr><td>Arabic No</td><td>2927.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 113</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "The prayer in congregation
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Al Laits] telah menceritakan kepadaku [Ibnu Al Had] dari ['Abdullah bin Khabbab] dari [Abu Sa'id Al Khudri], bahwa dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Shalat berjama'ah lebih utama dibandingkan shalat sendirian dengan dua puluh lima derajat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>646</td></tr><tr><td>Reference</td><td>Book 10 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, о том, что он слышал, как Пророк ﷺ говорил: «Коллективная молитва превосходит индивидуальную в двадцать пять раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>646</td></tr><tr><td>Arabic No</td><td>646</td></tr><tr><td>Reference</td><td>Book 10 Hadith 43</td></tr></tbody></table></div>
 

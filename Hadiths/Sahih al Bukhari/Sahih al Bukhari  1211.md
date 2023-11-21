@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Azraq bin Qais:We were at Al-Ahwaz fighting the Al-Haruriya (tribe).
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Al Azraq bin Qais] berkata; "Kami pernah berada di daerah Al Ahwaz ketika kami memerangi kelompok Haruriyyah. Ketika aku berada di tepian sungai ada seseorang yang sedang mengerjakan shalat sementara dia tetap memegang tali kekang tunggangannya. Maka hewan tunggangannya mengganggunya dengan bergerak kesana kemari hingga ia mengikuti kemana gerak hewannya itu". Berkata, Syu'bah dia adalah [Abu Barzah Al Aslamiy]; Tiba-tiba seorang dari Khawarij berkata: "Masya Allah, apa yang dilakukan orang ini?" Ketika orang tadi selesai dari shalatnya, dia berkata; "Sungguh aku mendengar percakapan kalian. Sungguh aku sudah pernah ikut berperang bersama Rasulullah shallallahu 'alaihi wasallam enam, tujuh atau hingga delapan kali peperangan dan aku menyaksikan kemudahan-kemudahan yang Beliau ajarkan. Bagiku mengikuti hewan tungganganku itu lebih aku sukai daripada aku memaksa kembali ke padang gembalaan tempat hewan itu biasa berkeliaraan, yang nanti pasti lebih menyulitkan aku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1211</td></tr><tr><td>Arabic No</td><td>1211</td></tr><tr><td>Reference</td><td>Book 21 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Шу‘ба, да помилует его Аллах Всевышний, сообщил, что аль-Азрак бин Кайс рассказал им следующее: «(Однажды,) когда во время боевых действий с харуритами мы находились в Ахвазе, я оказался на крутом берегу реки, где увидел совершавшего намаз человека, который не выпускал из рук узды своего коня. (И вдруг) конь тронулся с места, а этот человек последовал за ним».\nШу‘ба сказал: «(Этим человеком был) Абу Барза аль-Аслями».\n(Далее аль-Азрак бин Кайс сказал): «И тогда один из хариджитов принялся повторять: “О Аллах, накажи этого старца!” — когда же этот старец закончил (намаз), он сказал: “Поистине, я слышал ваши слова, но я принимал участие в шести (или: в семи; или: в восьми) военных походах вместе с посланником Аллаха ﷺ и видел, какую снисходительность он проявлял (в подобных случаях)! А мне, конечно, было лучше отойти назад вместе с (конём), чем позволить ему убежать и вернуться на привычное место, так как тогда я оказался бы в трудном положении”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1211</td></tr><tr><td>Arabic No</td><td>1211</td></tr><tr><td>Reference</td><td>Book 21 Hadith 15</td></tr></tbody></table></div>
 

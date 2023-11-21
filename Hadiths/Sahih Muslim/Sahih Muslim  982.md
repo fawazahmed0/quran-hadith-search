@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:The Messenger of Allah (ﷺ) saw (a tendency ) amon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abu al-Asyhab] dari [Abu Nadhrah al-'Abdi] dari [Abu Sa'id al-Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam melihat pada para sahabatnya keterlambatan, maka beliau bersabda kepada mereka, 'Kalian majulah, dan berimamlah denganku, dan hendaklah orang sesudah kalian berimam kepada kalian. Jika suatu kaum membiasakan diri melambat-lambatkan shalatnya, maka Allah juga melambatkan diri memasukkannya ke surga, atau melambatkan diri untuk mengentaskannya dari neraka'." Telah menceritakan kepada kami [Abdullah bin Abdurrahman ad-Darimi] telah menceritakan kepada kami [Muhammad bin Abdullah ar-Raqasyi] telah menceritakan kepada kami [Bisyr bin Manshur] dari [al-Jurairi] dari [Abu Nadhrah] dari [Abu Sa'id al-Khudri] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melihat suatu kaum di ujung masjid", lalu dia menyebutkan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>982</td></tr><tr><td>Arabic No</td><td>438.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что (однажды), когда Посланник Аллаха ﷺ увидел, как (некоторые из) его сподвижников встали в последних рядах, и сказал им: «Двигайтесь вперёд и следуйте за мной (в молитве), а за вами пусть следуют те, кто (молится) позади вас. Люди не перестанут становится в последних (рядах), пока Аллах не отодвинет их назад»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>982</td></tr><tr><td>Arabic No</td><td>438.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 144</td></tr></tbody></table></div>
 

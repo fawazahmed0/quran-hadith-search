@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira:The Prophet (ﷺ) used to offer night prayers till his feet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Al Fadl] Telah mengabarkan kepada kami [Ibnu Uyainah] Telah menceritakan kepada kami [Ziyad] yaitu Ibnu 'Ilaaqah bahwa dia mendengar [Al Mughirah] berkata; Nabi shallallahu 'alaihi wasallam berdiri shalat hingga kedua telapak kakinya bengkak-bengkak. Maka dikatakan kepada beliau; 'Bukankah Allah telah mengampuni anda terhadap dosa-dosa anda yang lalu maupun yang akan datang? Beliau menjawab: "Tidak bolehkah saya menjadi hamba yang bersyukur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4836</td></tr><tr><td>Arabic No</td><td>4836</td></tr><tr><td>Reference</td><td>Book 65 Hadith 357</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугыра сказал: «Пророк ﷺ выстаивал (ночную молитву так долго), что его стопы опухали. (Однажды) кто-то сказал ему: “Но ведь Аллах простил тебе твои прошлые и будущие грехи”, — на что (Пророк ﷺ) ответил: “Разве не надлежит мне быть благодарным рабом?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4836</td></tr><tr><td>Arabic No</td><td>4836</td></tr><tr><td>Reference</td><td>Book 65 Hadith 357</td></tr></tbody></table></div>
 

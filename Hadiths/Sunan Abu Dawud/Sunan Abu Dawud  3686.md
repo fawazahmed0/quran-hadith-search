@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: The Messenger of Allah (ﷺ) forbade every
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Abu Syihab Abdu Rabbih bin Nafi'] dari [Al Hasan bin 'Amru Al Fuqaimi] dari [Al Hakam bin 'Utaibah] dari [Syahr bin Hausyab] dari [Ummu Salamah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam telah melarang dari segala sesuatu yang memabukkan dan melemahkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3686</td></tr><tr><td>Arabic No</td><td>3686</td></tr><tr><td>Reference</td><td>Book 27 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Салямы, да будет доволен ею Аллах: «Посланник Аллаха ﷺ запретил всё опьяняющее и расслабляющее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3686</td></tr><tr><td>Arabic No</td><td>3686</td></tr><tr><td>Reference</td><td>Book 27 Hadith 18</td></tr></tbody></table></div>
 

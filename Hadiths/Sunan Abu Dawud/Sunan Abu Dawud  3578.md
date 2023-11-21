@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) said: If anyone desires the office of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Israil] telah menceritakan kepada kami [Abdul A'la] dari [Bilal] dari [Anas bin Malik] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menginginkan untuk menjadi hakim dan ia meminta pertolongan untuk mendapatkannya, maka segala urusannya akan diserahkan kepadanya, sedangkan orang yang tidak menginginkannya dan tidak meminta pertolongan untuk mendapatkannya, maka Allah menurunkan Malaikat untuk meluruskannya." [Waki'] berkata dari [Israil] dari [Abul A'la] dari [Bilal bin Abu Musa] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, dan [Abu 'Awanah] berkata dari [Abdul A'la] dari [Bilal bin Mirdas Al Fazari] dari [Khaitsamah Al Anshari] dari [Anas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3578</td></tr><tr><td>Arabic No</td><td>3578</td></tr><tr><td>Reference</td><td>Book 25 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: "Кто стремился к судопроизводству и добивался этого, тот будет поручен ему, а кто не стремился к нему и не добивался его, к тому Аллах пошлёт ангела, который будет направлять его"»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3578</td></tr><tr><td>Arabic No</td><td>3578</td></tr><tr><td>Reference</td><td>Book 25 Hadith 8</td></tr></tbody></table></div>
 

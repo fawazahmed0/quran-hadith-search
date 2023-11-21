@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Thauban that the Messenger of Allah (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Abu Ar Rabi' Al 'Ataki] dan [Qutaibah bin Sa'id] mereka berkata; telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid- dari [Ayyub] dari [Abu Qilabah] dari [Abu Asma'] dari [Tsauban] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Senantiasa ada sekelompok ummatku yang dimenangkan atas kebenaran, tidak akan membahayakannya orang yang memusuhinya hingga hari Kiamat sedangkan mereka tetap seperti itu." Namun dalam hadits Qutaibah tidak disebutkan, "Sedangkan mereka tetap sepperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4950</td></tr><tr><td>Arabic No</td><td>1920</td></tr><tr><td>Reference</td><td>Book 33 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4950</td></tr><tr><td>Arabic No</td><td>1920</td></tr><tr><td>Reference</td><td>Book 33 Hadith 245</td></tr></tbody></table></div>
 

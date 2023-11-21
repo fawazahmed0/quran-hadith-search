@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah ibn AbuSufyan: The Prophet (ﷺ) said: If they (the people) d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Aban] dari [Ashim] dari [Abu Shalih Dzakwan] dari [Mu'awiyah bin Abu Sufyan] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika mereka minum khamer maka cambuklah, jika mereka minum lagi maka cambuklah, jika mereka minum lagi maka cambuklah, dan jika mereka minum lagi maka bunuhlah." Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Humaid bin Yazid] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda dengan makna tersebut. Ia (perawi) berkata, "Menurutku beliau bersabda pada kali kelima: "Jika ia meminumnya lagi maka bunuhlah." Abu Dawud berkata, "Dalam hadits Abu Ghuthaif juga dengan lafadz 'pada kali kelima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4482</td></tr><tr><td>Arabic No</td><td>4482</td></tr><tr><td>Reference</td><td>Book 40 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Му‘авии ибн Абу Суфьяна, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Если люди выпьют вина, подвергните их бичеванию, если они сделают это снова, подвергните их бичеванию, если они сделают это снова, подвергните их бичеванию, а если они опять сделают это, убейте их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4482</td></tr><tr><td>Arabic No</td><td>4482</td></tr><tr><td>Reference</td><td>Book 40 Hadith 132</td></tr></tbody></table></div>
 

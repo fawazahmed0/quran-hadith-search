@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: When the time of his death came, he called for new 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Ibnu Abu Maryam], telah mengabarkan kepada kami [Yahya bin Ayyub], dari [Ibnu Al Had] dari [Muhammad bin Ibrahim], dari [Abu Salamah], dari [Abu Sa'id Al Khudri] bahwa tatkala ia mendekati kematian ia meminta pakaian baru lalu ia memakainya, kemudian berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang yang meninggal akan dibangkitkan dengan memakai pakaiannya yang ia pakai tatkala meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Саляма передаёт, что, когда Абу Са‘ид аль-Худри почувствовал приближение смерти, он велел принести ему новые одежды и надел их, после чего сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, умерший будет воскрешён в той одежде, в которой он умер”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
 

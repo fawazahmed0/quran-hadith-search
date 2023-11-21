@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Muhayyisah ibn Ka'b: Muhayyisah asked permission of the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah], dari [Malik] dari [Ibnu Syihab] dari [Ibnu Muhayyishah] dari [ayahnya] bahwa ia meminta izin kepada Rasulullah shallallahu 'alaihi wasallam untuk menyewakan tukang bekam, kemudian beliau melarangnya. Namun ia terus memohon dan minta izin hingga beliau memerintahkannya: "Berilah makan untamu yang digunakan untuk mengairi air, serta budakmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3422</td></tr><tr><td>Arabic No</td><td>3422</td></tr><tr><td>Reference</td><td>Book 24 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Мухаййиса передаёт от своего отца, что он попросил у Посланника Аллаха ﷺ разрешения отдавать напрокат раба, отворяющего кровь, однако Посланник Аллаха ﷺ запретил ему делать это. Он так долго упрашивал его, что Посланник Аллаха ﷺ велел ему: «Используй полученное в качестве платы, чтобы кормить своих верблюдов, используемых для орошения, или рабов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3422</td></tr><tr><td>Arabic No</td><td>3422</td></tr><tr><td>Reference</td><td>Book 24 Hadith 7</td></tr></tbody></table></div>
 

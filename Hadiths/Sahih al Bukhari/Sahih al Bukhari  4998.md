@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu-Huraira:Gabriel used to repeat the recitation of the Qur'an with th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Yazid] Telah menceritakan kepada kami [Abu Bakr] dari [Abu Hushain] dari [Abu Shalih] dari [Abu Hurairah] ia berkata; "Biasa Jibril mengecek bacaan Al Qur'an Nabi shallallahu 'alaihi wasallam sekali pada setiap tahunnya. Namun pada tahun wafatnya Rasulullah shallallahu 'alaihi wasallam, Jibril melakukannya dua kali. Dan beliau Rasulullah shallallahu 'alaihi wasallam beri'tikaf sepuluh hari pada setiap tahunnya. Sedangkan pada tahun wafatnya, beliau beri'tikaf selama dua puluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4998</td></tr><tr><td>Arabic No</td><td>4998</td></tr><tr><td>Reference</td><td>Book 66 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Каждый год Джибриль читал Пророку ﷺ Коран один раз, а в год его он смерти он прочитал его дважды. И (во время рамадана) Пророк ﷺ всегда неотлучно находился в мечети /и‘тикяф/ в течение десяти дней, а в год его смерти он провёл там двадцать дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4998</td></tr><tr><td>Arabic No</td><td>4998</td></tr><tr><td>Reference</td><td>Book 66 Hadith 20</td></tr></tbody></table></div>
 

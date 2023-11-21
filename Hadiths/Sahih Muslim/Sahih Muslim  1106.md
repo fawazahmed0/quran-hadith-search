@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by Ja'far b. Rabi' with the same chain of transmit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Bakar, dan dia adalah Ibnu Mudhar] dari [Ja'far bin Rabi'ah] dari [al-A'raj] dari [Abdullah bin Malik bin Buhainah] "Bahwa Rasulullah shallallahu'alaihiwasallam apabila shalat (lalu sujud) maka beliau membuka antara kedua tangannya hingga tampak putihnya ketiaknya." Telah menceritakan kepada kami [Amru bin Sawwad] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepada kami [Amru bin al-Harits] dan [al-Laits bin Sa'd] keduanya meriwayatkan dari [Ja'far bin Rabi'ah] dengan isnad ini. Dan dalam riwayat [Amru bin al-Harits], "Dahulu Rasulullah Shallallahu'alaihiwasallam apabila bersujud, niscaya beliau menjauhkan sikutnya dari sisinya dalam sujudnya hingga terlihat putihnya ketiaknya." Dan dalam riwayat al-Laits, "Rasulullah Shallallahu'alaihiwasallam dahulu apabila bersujud niscaya beliau membuka kedua tangannya dari ketiaknya hingga sungguh saya melihat putihnya ketiaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1106</td></tr><tr><td>Arabic No</td><td>495.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 268</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В версии ‘Амра ибн аль-Хариса говорится, что совершая земной поклон, Посланник Аллаха ﷺ расставлял руки настолько, что становилась видна белизна его подмышек.А в версии аль-Лейса говорится: «Совершая земной поклон, Посланник Аллаха ﷺ расставлял руки настолько широко, что я видел белизну его подмышек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1106</td></tr><tr><td>Arabic No</td><td>495.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 268</td></tr></tbody></table></div>
 

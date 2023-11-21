@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said - (Musaddad and Wahb transmitted from Maimunah) Maimunah said:A 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Wahb bin Bayan] dan [Utsman bin Abu Syaibah] dan [Ibnu Abu Khalaf] mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas]. [Musaddad] dan [Wahb] berkata; dari [Maimunah] ia berkata, "Pelayan kami mendapat hadiah seekor kambing, kemudian kambing itu mati. Ketika Nabi shallallahu 'alaihi wasallam melewatinya, beliau bersabda: "Kenapa kalian tidak menyamak kulitnya hingga kalian dapat memanfaatkannya?" orang-orang menjawab, "Kambing itu telah mati." Beliau bersabda: "Yang diharamkan itu memakannya." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yazid] berkata, telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] seperti hadits ini, namun ia tidak menyebut nama Maimunah. Ia berkata, "Rasulullah bersabda: "Kenapa kalian tidak memanfaatkan kulitnya?" Ia lalu menyebutkan makna hadits tersebut, namun tidak menyebutkan kata 'menyamak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1492) Sahih Muslim (363)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4120</td></tr><tr><td>Arabic No</td><td>4120</td></tr><tr><td>Reference</td><td>Book 34 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Маймуны, да будет доволен ею Аллах: «Однажды нашей вольноотпущеннице подарили овцу, которая была садакой и через некоторое время издохла. Проходивший мимо Пророк ﷺ спросил: “Почему же вы не выдубили и не использовали её шкуру?” Они сказали: “О Посланник Аллаха, это ведь мертвечина!” (Посланник Аллаха ﷺ) сказал: “Запретно только есть её мясо”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1492) Sahih Muslim (363)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4120</td></tr><tr><td>Arabic No</td><td>4120</td></tr><tr><td>Reference</td><td>Book 34 Hadith 101</td></tr></tbody></table></div>
 

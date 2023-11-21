@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: Ali ibn Rabi'ah said: I was present with Ali while a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu Al Ahwash], telah menceritakan kepada kami [Abu Ishaq Al Hamdani], dari [Ali bin Rabi'ah], ia berkata; aku menyaksikan [Ali] radliallahu 'anhu dan ia telah diberi unta untuk ia naiki, kemudian tatkala ia telah meletakkan kakinya di dalam sanggurdi, ia mengucapkan; BISMILLAAH, dan ketika telah berada di atas punggungnya ia mengucapkan; AlHAMDULILLAAH, kemudian ia mengucapkan; SUBHAANALLADZII SAKHKHARA LANAA HAADZAA WA MAA KUNNAA LAHUU MUQRINIIN, WA INNAA ILAA RABBINAA LAMUNQALIBUUN (Maha Suci Dzat yang telah menundukkan untuk kami hewan ini, dan tidaklah kami dapat memaksakannya, dan kepada Tuhan kami niscaya kami akan kembali). Kemudian ia mengucapkan; AlHAMDULILLAAH tiga kali, WALLAAHU AKBAR tiga kali, SUBHAANAKA INNII ZHALAMTU NAFSII FAGHFIR LII, FAINNAHU LAA YAGHFIRUDZ DZUNUUBA ILLAA ANTA (Maha Suci Engkau, sesungguhnya aku telah menzhalimi diriku maka ampunilah aku. Karena sesungguhnya tidak ada yang dapat mengampuni dosa kecuali engkau). Kemudian ia tertawa. Kemudian ia ditanya; wahai Amirul mukminin, kenapa engkau tertawa? Ia berkata; aku melihat Rasulullah shallallahu 'alaihi wasallam melakukan seperti apa yang aku lakukan kemudian beliau tertawa dan aku katakan; wahai Rasulullah, kenapa engkau tertawa? Beliau bersabda: "Sesungguhnya Tuhanmu sungguh merasa kagum kepada hambaNya apabila mengucapkan; ya Allah, ampunilah dosa-dosaku! Ia mengetahui bahwa tidak ada yang mengampuni dosa selainKu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2602</td></tr><tr><td>Arabic No</td><td>2602</td></tr><tr><td>Reference</td><td>Book 15 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2602</td></tr><tr><td>Arabic No</td><td>2602</td></tr><tr><td>Reference</td><td>Book 15 Hadith 126</td></tr></tbody></table></div>
 

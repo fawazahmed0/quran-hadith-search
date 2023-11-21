@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas bin Malik:The Messenger of Allah (ﷺ) established an alliance (of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Sufyan] dari ['Ashim Al Ahwal] ia berkata; saya mendengar [Anas bin Malik] berkata; Rasulullah shallallahu 'alaihi wasallam mempersaudarakan antara orang-orang muhajirin dan anshar di rumah kami. Kemudian dikatakan kepadanya; bukankah Rasulullah shallallahu 'alaihi wasallam telah mengatakan: "Tidak ada perjanjian dalam Islam?" Kemudian ia berkata; Rasulullah shallallahu 'alaihi wasallam mempersaudarakan antara orang-orang muhajirin dan anshar di rumah kami. Ia mengucapkannya dua atau tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>2926</td></tr><tr><td>Reference</td><td>Book 19 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах: «Посланник Аллаха ﷺ заключил союз между мухаджирами и ансарами в нашем доме». Ему сказали: «Разве Посланник Аллаха ﷺ не говорил: “Нет союза в исламе”?» Анас сказал: «Посланник Аллаха ﷺ заключил союз между мухаджирами и ансарами в нашем доме». И он повторил свои слова два или три раза
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>2926</td></tr><tr><td>Reference</td><td>Book 19 Hadith 42</td></tr></tbody></table></div>
 

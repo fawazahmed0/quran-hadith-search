@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:I placed water for the bath of Allah's Messenger (ﷺ) and he p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mahbub] berkata, telah menceritakan kepada kami ['Abdul Wahid] berkata, telah menceritakan kepada kami [Al A'masy] dari [Salim bin Abu Al Ja'd] dari [Kuraib] mantan budak Ibnu 'Abbas, dari [Ibnu 'Abbas] berkata, [Maimunah] berkata, "Aku menyediakan air mandi untuk Rasulullah shallallahu 'alaihi wasallam, beliau lalu menuangkan air pada kedua tangannya dan mencuci keduanya dua kali dua kali atau tiga kali. Lalu dengan tangan kanannya beliau menuangkan air pada telapak tangan kirinya lalu mencuci kemaluannya, setelah itu menyentuhkan tangannya ke tanah. Kemudian berkumur-kumur dan memasukkan air ke hidung. Kemudian membasuh muka dan kedua tangannya, lalu membasuh kepalanya tiga kali dan mengguyur seluruh badannya. Setelah itu beliau bergeser dari posisi semula lalu mencuci kedua telapak kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>265</td></tr><tr><td>Arabic No</td><td>265</td></tr><tr><td>Reference</td><td>Book 5 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «(Жена Пророка ﷺ) Маймуна, да будет доволен ею Аллах, сказала: “(Однажды) я поставила для Посланника Аллаха ﷺ воду, которой он искупался. Он налил её на свои руки и помыл их два или три раза. Затем он налил правой рукой на левую и помыл свои половые органы. После этого он потёр рукой о землю, и затем прополоснул рот и нос. Затем он умыл своё лицо и руки (с локтями) и трижды помыл голову, после чего налил воду на своё тело и затем он перешёл со своего места (на другое) и помыл ноги”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>265</td></tr><tr><td>Arabic No</td><td>265</td></tr><tr><td>Reference</td><td>Book 5 Hadith 18</td></tr></tbody></table></div>
 

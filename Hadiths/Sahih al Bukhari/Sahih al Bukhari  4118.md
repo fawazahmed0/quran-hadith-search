@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:As if I am just now looking at the dust rising in the street of Ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Jarir bin Hazim] dari [Humaid bin Hilal] dari [Anas radliallahu 'anhu], ia berkata; "Seolah-olah aku melihat debu-debu beterbangan di lorong-lorong jalan suku Bani Ghanmin. Hal ini sebagi bukti keterlibatan malaikat Jibril -shalawatullah 'alaihi- ketika Rasulullah shallallahu 'alaihi wasallam menyerbu perkampungan Bani Quraizhah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4118</td></tr><tr><td>Arabic No</td><td>4118</td></tr><tr><td>Reference</td><td>Book 64 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Как будто я и сейчас вижу облако пыли, поднятое в переулке бану ганм. Это была конница Джибриля, когда Посланник Аллаха ﷺ ехал к бану курайза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4118</td></tr><tr><td>Arabic No</td><td>4118</td></tr><tr><td>Reference</td><td>Book 64 Hadith 162</td></tr></tbody></table></div>
 

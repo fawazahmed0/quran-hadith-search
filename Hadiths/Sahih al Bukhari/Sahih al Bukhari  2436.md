@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid Al-Juhani:A man asked Allah's Messenger (ﷺ) about the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Rabi'ah bin Abi 'Abdurrahman] dari [Yazid, maula Al Munba'its] dari [Zaid bin Khalid Al Juhaniy radliallahu 'anhu] berkata; "Ada seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang barang temuan. Maka Beliau bersabda: "Kamu umumkan selama satu tahun kemudian kamu pergunakan. Jika datang pemiliknya maka berikanlah kepadanya". Mereka bertanya: "Bagaimana tentang hukum bila menemukan kambing. Maka Beliau menjawab: "Ambillah karena dia untuk kamu atau saudaramu atau serigala". Lalu orang itu bertanya lagi tentang menemukan unta. Maka Rasulullah shallallahu 'alaihi wasallam marah hingga memerah pipi atau wajah Beliau kemudian berkata: "Bagaimana kamu ini, padahal unta itu selalu bersama sepatunya dan perutnya (yang terisi air) hingga pemiliknya bisa menemukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2436</td></tr><tr><td>Arabic No</td><td>2436</td></tr><tr><td>Reference</td><td>Book 45 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Зейда ибн Халида аль-Джухани, да будет доволен им Аллах, что как-то раз один человек спросил Посланника Аллаха ﷺ о (том, что следует делать с) найденным, он ответил: «Объявляй о находке (людям) в течение года, затем узнай, как выглядит то, в чём находилось найденное и то, чем было перевязано найденное, затем можешь пользоваться ею, и если придёт её хозяин, то отдай ему её». Он спросил: «О Посланник Аллаха, а (что делать с) заблудившимися овцами?» Пророк ﷺ ответил: «Возьми их себе, ведь либо они достанутся тебе, либо твоему брату, либо волку». Этот человек спросил: «О Посланник Аллаха, а что делать с заблудившимися верблюдами?» Тогда Посланник Аллаха ﷺ разгневался так, что его лицо покраснело, и он ответил: «Что тебе до них? Ведь у них есть копыта и вода, (достаточная до тех пор), пока хозяин не найдёт их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2436</td></tr><tr><td>Arabic No</td><td>2436</td></tr><tr><td>Reference</td><td>Book 45 Hadith 11</td></tr></tbody></table></div>
 

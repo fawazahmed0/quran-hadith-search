@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas reported the Apostle of Allaah(ﷺ) as saying “He who kills and infidel g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], ia berkata; telah menceritakan kepada kami [Hammad] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkata pada saat perang Hunain: "Barangsiapa yang membunuh seorang kafir maka baginya salabnya (segala apa yang dikenakan oleh orang yang dibunuh)." Kemudian Abu Thalhah pada saat itu telah membunuh dua puluh orang dan ia mengambil salab mereka. Dan Abu Thalhah menemui Ummu Sulaim dan bersama Ummu Sulaim terdapat sebuah khanjar (pisau besar yang memiliki dua sisi yang tajam). Lalu Abu Thalhah berkata; wahai Ummu Sulaim, apa yang engkau bawa ini? Ia berkata; demi Allah apabila salah sebagian diantara mereka mendekatiku maka aku sobek perutnya. Kemudian Abu Thalhah mengabarkan hal tersebut kepada Rasulullah shallallahu 'alaihi wasallam. Abu Daud berkata; hadits ini adalah hadits hasan. Abu Daud berkata; aku ingin dengan pisau ini… dan dahulu senjata orang-orang selain Arab adalah khanjar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1809)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2718</td></tr><tr><td>Arabic No</td><td>2718</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1809)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2718</td></tr><tr><td>Arabic No</td><td>2718</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
 

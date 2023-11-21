@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Wine comes from vine and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Abu Kuraib] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Al Auza'i] dan [Ikrimah bin 'Ammar] dan ['Uqbah bi At Tau'am] dari [Abu Katsir] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: Khamer itu bisa terbuat dari dua jenis pohon ini; anggur dan kurma." Dan dalam riwayatnya Abu Kuraib juga menyebutkan, "Pohon anggur dan pohon kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>1985.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>1985.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 18</td></tr></tbody></table></div>
 

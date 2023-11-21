@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Ibn 'Umar who said:I entered the apartm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ibnu Abu Umar] dan [Muhammad bin Rafi'] dan [Abd bin Humaid] sedangkan lafadz mereka saling berdekatan, Ishaq dan Abd berkata; telah mengabarkan kepada kami, sedangkan yang dua mengatakan; telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] telah mengabarkan kepadaku [Salim] dari [Ibnu Umar] dia berkata, "Aku pernah menemui Hafshah, lalu dia bertanya, "Apakah kamu tahu bahwa ayahmu tidak mau menunjuk seorang Khalifah?" Abdullah berkata, "Lalu aku berkata, 'Sepertinya dia tidak mau melakukan hal itu.' Hafshah berkata, "Ia (Umar bin Khattab) harus melakukan hal itu." Lalu aku bersumpah untuk meyakinkan (Umar) akan hal itu, namun dia hanya terdiam sehingga aku merasa tidak ingin untuk membicarakannya lagi. Akan tetapi, aku merasa seakan-akan aku sedang memikul gunung di pundak kanan aku, hingga akhirnya aku menemuinya lagi. Umar bertanya kepadaku tentang keadaan manusia, maka aku pun menjawab seadanya. Lalu aku berkata kepadanya, "Aku mendengar masyarakat sedang membicarakan tentang sesuatu dan aku bersumpah untuk menyampaikan berita ini kepadamu, menurut pandangan mereka selama ini, kamu adalah seorang Khalifah yang tidak ingin menunjuk seorang Khalifah atau pengganti. Bagaimana pendapatmu sekiranya kamu seorang penggembala unta atau kambing, kemudian dia datang kepadamu dengan meninggalkan hewan gembalannya, maka bukankah kamu melihat bahwa ia telah menyia-nyiakannya? Terlebih lagi, gembala yang akan kamu atur itu adalah manusia." Abdullah berkata, "Ternyata Umar menyutujui pendapatku. Sejenak dia menundukkan kepalanya dan mengangkatnya kembali mengarah kepadaku serata berkata, "Sesungguhnya Allah Azza Wa Jalla akan menjaga agama-Nya, sekiranya saat ini aku tidak menunjuk seorang Khalifa, maka bukankah Rasulullah shallallahu 'alaihi wasallam sendiri sudah pernah melakukannya? Dan sekiranya nanti aku menunjuk seorang Khalifah penggantiku, maka bukankah hak itu juga pernah dilakukan oleh Abu Bakar?" Abdullah berkata, "Demi Allah, ketika dia menyinggung nama Rasulullah shallallahu 'alaihi wasallam dan Abu Bakar, maka sadarlah aku bahwa dia memang tidak bermaksud seperti Rasulullah shallallahu 'alaihi wasallam, bahwa dia tidak menunjuk secara langsung orang yang akan menggantikannya menjadi Khalifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4714</td></tr><tr><td>Arabic No</td><td>1823.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4714</td></tr><tr><td>Arabic No</td><td>1823.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 14</td></tr></tbody></table></div>
 

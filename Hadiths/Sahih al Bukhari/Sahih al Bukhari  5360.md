@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If the wife gives of her husband's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Abdurrazzaq] dari [Ma'mar] dari [Hammam] ia berkata; Aku mendengar [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika seorang wanita menginfakkan sesuatu dari hasil jerih payah suaminya tanpa seizinnya, maka bagi suaminya itu adalah setengah pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5360</td></tr><tr><td>Arabic No</td><td>5360</td></tr><tr><td>Reference</td><td>Book 69 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если женщина израсходует что-либо из заработка мужа без его веления, то ему достанется половина награды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5360</td></tr><tr><td>Arabic No</td><td>5360</td></tr><tr><td>Reference</td><td>Book 69 Hadith 10</td></tr></tbody></table></div>
 

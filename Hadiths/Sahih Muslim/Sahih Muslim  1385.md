@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It was narrated from 'Abdullah bin 'Amr that the Prophet (ﷺ) said:"When you pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ghassan Al Misma'i] dan [Muhammad bin Al Mutsanna] dia berkata; telah menceritakan kepada kami [Mu'adz yaitu Ibnu Hisyam] telah menceritakan kepadaku [Ayahku] dari [Qatadah] dari [Abu Ayyub] dari [Abdullah bin 'Amru] bahwa Nabiyullah shallallahu 'alaihi wasallam bersabda; "Jika kalian melaksanakan shalat fajar, maka waktunya hingga muncul tanduk setan pertama, jika kalian shalat zhuhur, maka waktunya hingga tiba waktu shalat ashar, dan jika kalian melaksanakan shalat ashar, makwa waktunya hingga matahari menguning, jika kalian melaksanakan shalat maghrib, maka waktunya hingga syafaq (mega merah) menghilang, dan jika kalian shalat isya', maka waktunya hingga tengah malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1385</td></tr><tr><td>Arabic No</td><td>612.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Амра, что Пророк Аллаха ﷺ сказал: «Когда станете совершать утреннюю молитву /фаджр/, то (знайте, что) её время (продолжается) до начала появления края солнечного диска; затем когда станете совершать послеполуденную молитву /зухр/, то (знайте, что) её время (продолжается до тех пор,) пока не настанет послеполуденное время /‘аср/; когда станете совершать послеполуденную молитву /‘аср/, то (знайте, что) её время (продолжается до тех пор,) пока не пожелтеет солнце; когда станете совершать закатную молитву /магриб/, то (знайте, что) её время (продолжается до тех пор), пока не погаснет вечерняя заря; когда же станете совершать вечернюю молитву /‘иша/, то (знайте, что) её время (продолжается) до середины ночи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1385</td></tr><tr><td>Arabic No</td><td>612.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 219</td></tr></tbody></table></div>
 

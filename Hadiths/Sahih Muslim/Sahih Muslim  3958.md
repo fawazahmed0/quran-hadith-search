@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Tawus reported that he let out his land on rent, whereupon Amr said:I said to hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan] dari ['Amru] dan [Ibnu Thawus] dari [Thawus] bahwa dia adalah seorang petani yang mengusahakan tanahnya dan memungut sebagian dari hasil tanaman yang ditanamnya, Amru berkata; Lalu saya bertanya kepadanya; "Wahai Abu Abdurrahman, sekiranya kamu menghentikan usahamu melakukan mukhabarah, karena sesungguhnya mereka mengatakan bahwa Nabi shallallahu 'alaihi wasallam telah melarang melakukan mukhabarah." Thawus menjawab; "Hai Amru, telah mengabarkan kepadaku orang yang lebih mengetahui daripada mereka tentang perihal itu -yaitu [Ibnu Abbas] - bahwa Nabi shallallahu 'alaihi wasallam tidak melarang hal itu, hanyasanya beliau bersabda: "Salah seorang dari kalian memberikan sebagian tanahnya kepada saudaranya itu lebih baik daripada memungut imbalan tertentu." Telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Ats Tsaqafi] dari [Ayyub]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] semuanya dari [Waki'] dari [Sufyan]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Al Laits] dari [Ibnu Juraij]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Ali bin Hujr] telah menceritakan kepada kami [Al Fadll bin Musa] dari [Syarik] dari [Syu'bah] semuanya dari ['Amru bin Dinar] dari [Thawus] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam seperti hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3958</td></tr><tr><td>Arabic No</td><td>1550.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3958</td></tr><tr><td>Arabic No</td><td>1550.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 157</td></tr></tbody></table></div>
 

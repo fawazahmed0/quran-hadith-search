@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) reported Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Hammad yaitu Ibnu Zaid] dari [Mathar Al Warraq] dari ['Atha'] dari [Jabir bin Abdullah] bahwasanya Rasulullah Shallallu 'alaihi wa sallam melarang menyewakan tanah (Kira' al-Ardli)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3916</td></tr><tr><td>Arabic No</td><td>1536.11</td></tr><tr><td>Reference</td><td>Book 21 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3916</td></tr><tr><td>Arabic No</td><td>1536.11</td></tr><tr><td>Reference</td><td>Book 21 Hadith 115</td></tr></tbody></table></div>
 

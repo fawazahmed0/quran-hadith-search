@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:One of the sons of Abu Talha became sick and died and Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyir bin Al Hakam] telah menceritakan kepada kami [Sufyan bin 'Uyainah] telah mengabarkan kepada kami [Ishaq bin 'Abdullah bin Abu Tholhah] bahwasanya dia mendengar [Anas bin Malik radliallahu 'anhu] berkata; Anak dari Abu Tholhah dalam kondisi sakit yang parah. Katanya: "Dan akhirnya dia meninggal dunia". Saat itu Abu Tholhah sedang bepergian. Ketika isterinya melihat bahwa dia (anaknya) sudah meninggal, maka dia mengerjakan sesuatu dan meletakkannya di samping rumah. Ketika Abu Tholhah sudah datang, dia bertanya: "Bagaimana keadaan anak (kita)?. Isterinya menjawab: "Dia sudah tenang dan aku berharap dia sudah beristirahat".. Abu Tholhah menganggap bahwa isterinya berkata, benar adanya. Anas bin Malik radliallahu 'anhu; Maka dia tidur pada malam itu. Pada keesokan harinya, dia mandi. Ketika dia hendak pergi keluar, isterinya memberitahu bahwa anaknya sudah meninggal dunia. Kemudian dia shalat bersama Nabi Shallallahu'alaihiwasallam lalu dia menceritakan apa yang sudah terjadi antara dia berdua (dengan isterinya). Maka Rasulullah Shallallahu'alaihiwasallam berkata,: "Semoga Allah memberkahi kalian berdua pada malam kalian itu". Sufyan berkata; Ada seorang dari kalangan Anshar berkata,: "Kemudian setelah itu aku melihat keduanya memiliki sembilan anak yang semuanya telah hafal Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1301</td></tr><tr><td>Arabic No</td><td>1301</td></tr><tr><td>Reference</td><td>Book 23 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «(В своё время) у Абу Тальхи, да будет доволен им Аллах, заболел сын, умерший, когда Абу Тальхи не было дома. Увидев, что он умер, жена (Абу Тальхи) сделала необходимые приготовления и спрятала тело где-то в пределах дома. Вернувшись, Абу Тальха спросил: “Как мальчик?” Она ответила: “Он успокоился, и я надеюсь, что он отдохнул”. Абу Тальха решил, что всё так и есть, и лёг спать (с женой). Утром он совершил большое омовение, а когда уже собирался выйти из дома, она сообщила ему о том, что (их сын) умер. После этого Абу Тальха совершил (утренний) намаз вместе с Пророком ﷺ, а затем сообщил ему о том, что у них произошло, на что Посланник Аллаха ﷺ сказал: “Надеюсь, что Аллах благословил вас этой ночью”».\nСообщается, что один человек из числа ансаров сказал: «И я видел девятерых (их) сыновей, каждый из которых стал чтецом Корана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1301</td></tr><tr><td>Arabic No</td><td>1301</td></tr><tr><td>Reference</td><td>Book 23 Hadith 59</td></tr></tbody></table></div>
 

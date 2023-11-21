@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira said:The Messenger of Allah (ﷺ) said: Every Messenger is endowed w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Umarah] -yaitu Ibnu al-Qa'qa'- dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam berkata, "Setiap Nabi memiliki doa yang mustajab yang dia panjatkan sehingga doanya dikabulkan lalu diwujudkan (oleh Allah), dan sesungguhnya aku menyembunyikan doaku sebagai syafa'at bagi umatku pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>492</td></tr><tr><td>Arabic No</td><td>199.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 398</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «У каждого пророка было такое обращение с мольбой, на которое Аллах (обязательно) давал ответ и с которым он обращался к Аллаху, я же придержал свою мольбу для заступничества за свою общину в День воскресения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>492</td></tr><tr><td>Arabic No</td><td>199.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 398</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The above mentioned tradition has also been narrated by Qatadah through a differ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1343</td></tr><tr><td>Arabic No</td><td>1343</td></tr><tr><td>Reference</td><td>Book 5 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии Катады говорится: «Посланник Аллаха ﷺ совершал восемь рак‘атов и садился только в конце восьмого. Некоторое время он сидел, поминая Всемогущего и Великого Аллаха, потом обращался к Нему с мольбами, потом произносил слова таслима так громко, чтобы мы слышали. Затем он совершал ещё два рак‘ата сидя после таслима, а потом ещё один. Это составляло одиннадцать рак‘атов, сынок. А когда Посланник Аллаха ﷺ достиг преклонного возраста и отяжелел, он стал совершать семь рак‘атов, а потом совершал ещё два рак‘ата сидя, после таслима». Эта версия до слов: «…услышать непосредственно от неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1343</td></tr><tr><td>Arabic No</td><td>1343</td></tr><tr><td>Reference</td><td>Book 5 Hadith 94</td></tr></tbody></table></div>
 

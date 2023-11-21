@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The first child who was born in the Islamic Land (i.e. Medina) am
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3910</td></tr><tr><td>Arabic No</td><td>3910</td></tr><tr><td>Reference</td><td>Book 63 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Первым ребёнком, родившимся в исламе, был ‘Абдуллах ибн аз-Зубайр. Когда его принесли к Пророку ﷺ, он взял финик, разжевал его и положил ему в рот. Таким образом, первым, что попало в его желудок, была слюна Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3910</td></tr><tr><td>Arabic No</td><td>3910</td></tr><tr><td>Reference</td><td>Book 63 Hadith 135</td></tr></tbody></table></div>
 

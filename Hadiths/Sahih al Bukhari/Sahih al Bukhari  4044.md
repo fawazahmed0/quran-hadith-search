@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:We faced the pagans on that day (of the battle of Uhud) and the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Israil] dari [Abu Ishaq] dari [Al Barra] radliallahu 'anhu, dia berkata, "Suatu ketika kami bertemu pasukan Musyrikin, lalu Nabi shallallahu 'alaihi wasallam menempatkan pasukan pemanah di bawah komando Abdullah. Beliau berpesan: "Diamlah kalian di sini, walaupun kalian melihat kami menang atas mereka, janganlah kalian meninggalkan tempat ini, dan jika kalian melihat kami kalah, janganlah kalian (pindah tempat) untuk menolong kami." Ketika perang mulai berkecamuk, maka pasukan musuh dapat dipukul mundur hingga aku melihat para wanita berlarian ke gunung hingga tersingkap betis mereka dan tampaklah gelang kaki mereka. Lalu kaum Muslimin (pasukan pemanah) berebut mengambil (ghanimah) sambil berkata, "Ghanimah, ghanimah!" Abdullah pun akhirnya berteriak, "Nabi shallallahu 'alaihi wasallam telah berpesan, janganlah kalian meninggalkan tempat kalian!" Namun mereka tidak peduli, ketika mereka tidak memperdulikan wasiat Nabi, maka wajah mereka menjadi terseret (kocar kacir) hingga menyebabkan tujuh puluh sahabat gugur, kemudian Abu Sufyan naik ke tempat yang tinggi dan berseru, "Apakah di antara kalian ada Muhammad?" beliau bersabda: "Jangan dijawab." Abu Sufyan kembali bertanya, "Apakah di antara kalian terdapat Abu Quhafah?" Beliau bersabda: "Jangan dijawab." Dia kembali bertanya, "Apakah di antara kalian terdapat Ibnul Khattab?" Abu Sufyan melanjutkan, "Sesungguhnya mereka telah tewas, sekiranya mereka masih hidup, tentu mereka akan menjawabnya." Ternyata Umar tidak dapat menahan dirinya dan berkata, "Kamu telah berdusta wahai musuh Allah, Allah akan tetap membuat kalian terhina." Abu Sufyan berkata, "Tinggilah Hubal." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Jawablah." Para sahabat bertanya, "Apa yang harus kami katakan?" Beliau bersabda: "Katakanlah, 'Allah lebih tinggi dan lebih mulia'." Abu Sufyan kemudian berkata, "Kami memiliki 'Uzza sementara kalian tidak memilikinya." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Jawablah." Para sahabat bertanya, "Apa yang harus kami katakan?" Beliau bersabda: "Katakanlah, 'Allah adalah penolong kami dan kalian tidak memiliki penolong'." Abu Sufyan kembali berkata, "Hari ini adalah hari pembalasan untuk hari Badr, dan perang silih berganti, dan kalian akan menemukan penyincangan yang tidak aku perintahkan, namun aku tidak membencinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4044</td></tr><tr><td>Arabic No</td><td>4044</td></tr><tr><td>Reference</td><td>Book 64 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Утром в день битвы при Ухуде некоторые люди пили опьяняющие напитки, затем они были убиты за веру (будучи шахидами)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4044</td></tr><tr><td>Arabic No</td><td>4044</td></tr><tr><td>Reference</td><td>Book 64 Hadith 90</td></tr></tbody></table></div>
 

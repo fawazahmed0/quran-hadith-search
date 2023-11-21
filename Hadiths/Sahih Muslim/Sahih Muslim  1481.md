@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) found some people absenting fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Amru An Naqid] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abu Zanad] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam tidak menjumpai beberapa orang dalam beberapa shalat, maka komentar beliau "Sungguh aku berkeinginan kuat menyuruh seseorang untuk mengimami orang-orang, kemudian aku pergi untuk menemui orang-orang yang tidak menghadirinya dan kusuruh mereka untuk membakari rumah-rumah mereka dengan sebongkah kayu. Kalaulah seorang dari mereka tahu bahwa akan mereka dapatkan unta yang gemuk, niscaya akan mereka hadiri shalat isya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1481</td></tr><tr><td>Arabic No</td><td>651.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 314</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что, когда Посланник Аллаха ﷺ заметил отсутствие людей на некоторых молитвах, он сказал: «(Бывало так, что) я хотел велеть кому-нибудь помолиться с людьми, а затем отправиться, взяв с собой людей, у которых есть вязанка дров, к тем людям, которые не присутствуют на (общей) молитве, и сжечь их дома! И если бы кто-нибудь из них узнал, что найдёт здесь кость с куском жирного мяса, он непременно явился бы на вечернюю молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1481</td></tr><tr><td>Arabic No</td><td>651.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 314</td></tr></tbody></table></div>
 

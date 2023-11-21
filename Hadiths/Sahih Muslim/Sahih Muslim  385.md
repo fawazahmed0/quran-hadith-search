@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Sa'id bin Abu Sa'id] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah setiap Nabi melainkan dia pasti diberi tanda (sebagai bukti kenabian mereka) semisalnya, yang mana manusia beriman kepadanya. Sedangkan yang diberikan kepadaku hanyalah wahyu yang diturunkan oleh Allah. Oleh karena itu, aku berharap menjadi nabi yang paling banyak pengikutnya (dibandingkan dengan) mereka pada Hari Kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>385</td></tr><tr><td>Arabic No</td><td>152</td></tr><tr><td>Reference</td><td>Book 1 Hadith 291</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры (да будет доволен им Аллах), что Пророк ﷺ сказал: «Каждому пророку даровалось из знамений то, благодаря чему люди начинали верить в него, что же касается меня, то мне были дарованы откровения, которые Аллах внушал мне, и я надеюсь, что в День воскресения у меня окажется больше последователей, чем у любого из них».Глава: Обязательность веры людей Писания в послание ислама
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>385</td></tr><tr><td>Arabic No</td><td>152</td></tr><tr><td>Reference</td><td>Book 1 Hadith 291</td></tr></tbody></table></div>
 

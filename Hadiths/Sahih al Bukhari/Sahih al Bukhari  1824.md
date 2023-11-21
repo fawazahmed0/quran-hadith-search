@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abu Qatada:That his father had told him that Allah's Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] telah menceritakan kepada kami ['Utsman, dia adalah putra Mawhab] berkata, telah mengabarkan kepada saya ['Abdullah bin Abu Qatadah] bahwa [Abu Qatadah] mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersama mereka (para sahabat) berangkat untuk menunaikan haji. Lalu sebagian rambongan ada yang berpisah, diantaranya adalah Abu Qatadah radliallahu 'anhu. Beliau berkata, kepada rombongan ini: "Ambillah jalan menyusuri tepi pantai hingga kita bertemu". Maka mereka mengambil jalan di tepian pantai. Ketika mereka hendak berangkat, semua anggota rambongan itu berihram kecuali Abu Qatadah. Ketika mereka sedang berjalan, mereka melihat ada seeokor keledai liar. Maka Abu Qatadah menghampiri keledai itu lalu menyembelihnya yang sebagian dagingnya dibawa ke hadapan kami. Maka mereka berhenti lalu memakan daging keledai tersebut. Sebagian dari mereka ada yang berkata: "Apakah kita boleh memakan daging hewan buruan padahal kita sedang berihram?". Maka kami bawa sisa daging tersebut. Ketika mereka berjumpa dengan Rasulullah shallallahu 'alaihi wasallam, mereka berkata: "Wahai Rasulullah, kami sedang berihram sedangkan Abu Qatadah tidak. Lalu kami melihat ada keledai-keledai liar kemudian Abu Qatadah menangkapnya lalu menyembelihnya kemudian sebagian dagingnya dibawa kepada kami, lalu kami berhenti dan memakan dari daging tersebut kemudian diantara kami ada yang berkata: "Apakah kita boleh memakan daging hewan buruan padahal kita sedang berihram?". Lalu kami bawa sisa dagingnya itu kemari". Beliau bertanya: "Apakah ada seseorang diantara kalian yang sedang berihram menyuruh Abu Qatadah untuk memburunya atau memberi isyarat kepadanya?". Mereka menjawab: "Tidak ada". Maka Beliau bersabda: "Makanlah sisa daging yang ada itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1824</td></tr><tr><td>Arabic No</td><td>1824</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(В другой версии этого хадиса) сообщается, что (Абу Катада, да будет доволен им Аллах,) сказал: «А когда они прибыли к Посланнику Аллаха ﷺ он спросил: “Не приказывал ли кто-нибудь из вас ему напасть на неё и не указывал ли (ему) на неё?” Они ответили: “Нет”, и он сказал: “Тогда ешьте оставшееся от неё мясо”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1824</td></tr><tr><td>Arabic No</td><td>1824</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
 

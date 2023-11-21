@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Miqdan bin Shuraih reported on the authority of his father. I asked A’ishah ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr], serta [Utsman] keduanya adalah anak Abu Syaibah, mereka berkata; telah menceritakan kepada kami [Syarik] dari [Al Miqdad bin Syuraih], dari [ayahnya], ia berkata; aku bertanya kepada [Aisyah], radliallahu 'anha mengenai kehidupan nomaden, lalu Aisyah berkata; Rasulullah shallallahu 'alaihi wasallam pernah keluar menuju menuju dataran tinggi ini dan beliau menginginkan kehidupan nomaden kembali, lalu beliau mengirimkan seekor unta yang belum dinaiki dan belum digunakan dari unta zakat. Beliau berkata kepadaku: "Wahai Aisyah, bersikaplah lembut, sesungguhnya kelembutan tidaklah ada pada sesuatu kecuali akan menghiasinya dan tidaklah tercabut dari sesuatu melainkan akan memberikan aib padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2478</td></tr><tr><td>Arabic No</td><td>2478</td></tr><tr><td>Reference</td><td>Book 15 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2478</td></tr><tr><td>Arabic No</td><td>2478</td></tr><tr><td>Reference</td><td>Book 15 Hadith 2</td></tr></tbody></table></div>
 

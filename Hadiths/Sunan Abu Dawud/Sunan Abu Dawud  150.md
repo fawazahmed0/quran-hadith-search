@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Mughirah b. Shu’bah said:The Messenger of Allah (ﷺ) performed ablution an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] Al Hadits. Dan telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Al-Mu'tamir] dari [At-Taimi] telah menceritakan kepada kami [Bakr] dari [Al Hasan] dari [Ibnu Al-Mughirah bin Syu'bah] dari [Al-Mughirah bin Syu'bah] bahwasanya Rasulullah shallallahu 'alaihi wasallam berwudhu dan mengusap ubun-ubunnya. Dan Mughirah menyebutkan bahwa beliau mengusap di atas surbannya. Dia berkata dari [Al-Mu'tamir] Saya telah mendengar [Ayahku] menceritakan hadits dari [Bakr bin Abdullah] dari [Al Hasan] dari [Ibnu Al-Mughirah bin Syu'bah] dari [Al-Mughirah] bahwasanya Rasulullah shallallahu 'alaihi wasallam biasa mengusap bagian atas kedua khuf dan bagian atas ubun-ubun, serta bagian atas surban beliau. Bakr mengatakan; Sungguh, saya telah mendengarnya dari Ibnu Al-Mughirah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (274)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 1 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мугъиры ибн Шу‘ба: «Совершая омовение, Посланник Аллаха ﷺ обтер свой хохол». И он упомянул об (обтирании) поверх чалмы (Пророком).(Мусаддад) сказал: «Передают со слов Му‘тамира: “Я слышал, как мой отец рассказывал со слов Бакра ибн ‘Абдуллаха от аль-Хасана, от Ибн аль-Мугъиры ибн Шу‘ба со слов аль-Мугъиры о том, что Посланник Аллаха ﷺ (совершая омовение) обтирал кожаные носки /хуффайн/, хохол и чалму”».Бакр (ибн ‘Абдуллах) сказал: «Я слышал этот (хадис) от Ибн аль-Мугъиры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (274)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 1 Hadith 150</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:I heard the Prophet (ﷺ) saying, "Do not exaggerate in praising 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] berkata, aku mendengar [Az Zuhriy] berkata, telah mengabarkan kepadaku ['Ubaidullah bin 'Abdullah] dari [Ibnu 'Abbas radliallahu 'anhua] bahwa dia mendengar ['Umar radliallahu 'anhum] berkata di atas mimbar, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian melampaui batas dalam memujiku (mengkultuskan) sebagaimana orang Nashrani mengkultuskan 'Isa bin Maryam. Sesungguhnya aku hanyalah hamba-Nya, maka itu katakanlah 'abdullahu wa rasuuluh (hamba Allah dan utusan-Nya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3445</td></tr><tr><td>Arabic No</td><td>3445</td></tr><tr><td>Reference</td><td>Book 60 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «Не превозносите меня подобно тому, как христиане превозносят (‘Ису,) сына Марйам, ибо, поистине, я — раб (Аллаха), а поэтому говорите: “Раб Аллаха и посланник Его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3445</td></tr><tr><td>Arabic No</td><td>3445</td></tr><tr><td>Reference</td><td>Book 60 Hadith 115</td></tr></tbody></table></div>
 

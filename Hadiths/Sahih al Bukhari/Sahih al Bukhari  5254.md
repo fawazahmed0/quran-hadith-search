@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Awza:I asked Az-Zuhri, "Which of the wives of the Prophet (ﷺ) soug
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Al Walid] Telah menceritakan kepada kami [Al Auza'i] ia berkata; Aku bertanya kepada [Az Zuhri], "Siapakah di antara isteri-isteri Nabi shallallahu 'alaihi wasallam yang meminta perlindungan daripada beliau?" Ia pun berkata; Telah mengabarkan kepadaku [Urwah] dari [Aisyah] Radliayallahu 'Anha, bahwa ketika anak perempuan Al Jaun dihadapkan pada Rasulullah shallallahu 'alaihi wasallam, dan beliau pun mendekat darinya, ia berkata, "Aku berlindung kepada Allah darimu." Maka beliau pun bersabda padanya: "Sesungguhnya kamu telah berlindung dengan Dzat Yang Maha Agung. Kembalilah kepada keluargamu." Abu Abdullah berkata; Hadits itu diriwayatkan oleh [Hajjaj bin Abu Mani'] dari [kakeknya] dari [Az Zuhri] bahwa [Urwah] Telah mengabarkan kepadanya, bahwa [Aisyah] berkata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5254</td></tr><tr><td>Arabic No</td><td>5254</td></tr><tr><td>Reference</td><td>Book 68 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что, когда дочь аль-Джауна ввели к Посланнику Аллаха ﷺ, она воскликнула: «Прибегаю к защите Аллаха от тебя!» — и тогда (Пророк ﷺ) сказал: «Ты прибегла к защите Великого, так возвращайся же к своей семье»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5254</td></tr><tr><td>Arabic No</td><td>5254</td></tr><tr><td>Reference</td><td>Book 68 Hadith 4</td></tr></tbody></table></div>
 

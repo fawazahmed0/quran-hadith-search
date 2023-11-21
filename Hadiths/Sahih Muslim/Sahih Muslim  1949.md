@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir (que Dieu l'agrée) a dit : Nous accompagnâmes le Prophète (paix et bé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Aban bin Yazid] telah menceritakan kepada kami [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Jabir] ia berkata; Kami berangkat bersama Rasulullah shallallahu 'alaihi wasallam hingga sampailah kami di Dzatur Riqa'. Biasanya, bila kami mendapati sebatang pohon yang bisa digunakan untuk berteduh, maka kami menjadikannya sebagai tempat peristirahatan Rasulullah shallallahu 'alaihi wasallam. Di kala itu, datanglah seorang laki-laki dari kaum musyrikin, sementara pedang Rasulullah shallallahu 'alaihi wasallam tergantung di pohon. Maka laki-laki musyrik itu pun mengambil pedang Rasulullah shallallahu 'alaihi wasallam dan menghunuskannya seraya berkata kepada Rasulullah shallallahu 'alaihi wasallam, "Apakah kamu takut padaku?" beliau menjawab: "Tidak." Laki-laki itu bertanya lagi, "Lalu siapa yang akan menolongmu dari ancamanku?" beliau menjawab: "Allah-lah yang akan menolongku dari ancamanmu." Lalu para sahabat pun menakuti-nakutinya hingga ia memasukkan kembali pedang itu ke dalam sarungnya dan menggantungnya. Setelah itu, dikumandangkanlah adzan untuk mengerjakan shalat. Maka mula-mula beliau shalat dengan satu kelompok sebanyak dua raka'at, setelah itu, mereka pun mundur. Kemudian datanglah kelompok lain dan shalat bersama beliau dua raka'at. Sehingga Rasulullah shallallahu 'alaihi wasallam mengerjakannya empat raka'at, sementara masing-masing kelompok dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1949</td></tr><tr><td>Arabic No</td><td>843.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 377</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир рассказал (следующее): «(В своё время) мы вместе с Посланником Аллаха ﷺ принимали участие в походе на Зат ар-Рика‘. Добравшись до дерева, отбрасывавшего густую тень, мы предоставили (это место) Посланнику Аллаха ﷺ, а потом (туда) явился какой-то человек из числа многобожников, (увидел, что) меч Посланника Аллаха ﷺ висит на дереве, выхватил его из ножен и сказал: “Ты боишься меня?” (Пророк ﷺ) сказал: “Нет”. (Этот человек) спросил: “Кто же защитит тебя от меня?” (на что он) ответил: “Аллах защитит меня от тебя!” После этого сподвижники Посланника Аллаха ﷺ испугали его, и он вложил меч в ножны и повесил его (на место). Затем было объявлено о начале молитвы. (Пророк ﷺ) совершил два рак‘ата с одной группой (людей), которые потом отошли назад, а (Пророк ﷺ) совершил ещё два рак‘ата с другой группой. Таким образом Пророк ﷺ совершил четыре рака’ата молитвы, а остальные по два»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1949</td></tr><tr><td>Arabic No</td><td>843.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 377</td></tr></tbody></table></div>
 

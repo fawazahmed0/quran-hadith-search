@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Suwaid:We went out with Allah's Messenger (ﷺ) to Khaibar. and when we
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] berkata, telah menceritakan kepada kami [Sufyan] aku mendengar [Yahya bin Sa'id] dari [Busyair bin Yasar] dari [Suwaid bin An Nu'man] ia berkata, "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam menuju Khaibar, ketika sampai di Shahba', beliau minta disiapkan makanan. Dan beliau tidak diberi kecuali hanya sawiq (tepung gandum yang dicampur dengan air), kami lalu memakannya. Beliau kemudian berdiri untuk melaksanakan shalat, beliau berkumur lalu kami pun ikut berkumur." Yahya berkata; Aku mendengar Busyair berkata; telah menceritakan kepada kami Suwaid berkata, "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam menuju Khaibar, ketika kami sampai di Shahba' -Yahya berkata; jaraknya dengan Khaibar hanya beberapa mil-, beliau minta untuk disiapkan makanan. Dan beliau tidak diberi hidangan kecuali hanya sawiq, kami lalu makan bersama beliau. Kemudian beliau minta diambilkan air, beliau lalu berkumur dan kami pun mengikutinya berkumur, kemudian beliau mengimami kami shalat Maghrib dan tidak berwudlu lagi." Sufyan berkata, "Sepertinya kamu mendengarnya dari Yahya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5455</td></tr><tr><td>Arabic No</td><td>5455</td></tr><tr><td>Reference</td><td>Book 70 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5455</td></tr><tr><td>Arabic No</td><td>5455</td></tr><tr><td>Reference</td><td>Book 70 Hadith 84</td></tr></tbody></table></div>
 

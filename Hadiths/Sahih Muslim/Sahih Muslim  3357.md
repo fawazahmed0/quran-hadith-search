@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura (Allah be pleased with him) reported that he heard Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Hannad bin As Sari] dan [Abu Bakr bin Abu Syaibah] mereka berkata, Telah menceritakan kepada kami [Abul Ahwash] dari [Simak] dari [Jabir bin Samurah] ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah Ta'ala telah menamai Madinah dengan 'Thabah' (baik)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3357</td></tr><tr><td>Arabic No</td><td>1385</td></tr><tr><td>Reference</td><td>Book 15 Hadith 561</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3357</td></tr><tr><td>Arabic No</td><td>1385</td></tr><tr><td>Reference</td><td>Book 15 Hadith 561</td></tr></tbody></table></div>
 

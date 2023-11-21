@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Al-Arqam:The Annwar said, "O Allah's Messenger (ﷺ)! Every pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] dari ['Amru], aku mendengar [Abu Hamzah] dari [Zaid bin Arqam]; "Kaum Anshar berkata; "Wahai Rasulullah, setiap nabi memiliki pengikut dan kami telah menjadi pengikut baginda. Maka mohonlah kepada Allah agar menjadikan orang yang mengikuti kami menjadi bagian dari kami". Maka beliau mendo'akannya. Kemudian aku sampaikan hal itu kepada [Ibnu Abu Laila], maka dia berkata; "Zaid telah pula mengatakan hal itu" (bahwa Nabi akan mendo'akan mereka). (Kata za'ama menurut Ahlu Hijaz artinya berkata)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3787</td></tr><tr><td>Arabic No</td><td>3787</td></tr><tr><td>Reference</td><td>Book 63 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Аркам, да будет доволен им Аллах, сказал: «(Однажды) ансары сказали: “О Посланник Аллаха, у каждого пророка (были) последователи, а мы последовали за тобой, так обратись же к Аллаху с мольбой, чтобы Он причислил к нам и наших последователей!” — и (Пророк ﷺ) обратился к Аллаху с мольбой об этом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3787</td></tr><tr><td>Arabic No</td><td>3787</td></tr><tr><td>Reference</td><td>Book 63 Hadith 12</td></tr></tbody></table></div>
 

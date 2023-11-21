@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:I happened to pass before Allah's Messenger (may peace be upo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir]; Telah menceritakan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku ['Umar bin Muhammad] dari ['Abdullah bin Waqid] dari [Ibnu 'Umar] ia berkata; "Aku pernah melewati Rasulullah shallallahu 'alaihi wasallam, sementara kain (pakaian) saya terjurai sampai ke tanah." Maka beliau berkata; 'Hai Abdullah, naikkan kainmu! ' lalu akupun langsung menaikkan kainku. Setelah itu Rasulullah berkata; 'Naikkan lagi.' Maka akupun menaikan lagi. Dan setelah itu aku selalu memperhatikan kainku. Sementara itu ada beberapa orang yang bertanya; 'Sampai di mana batasnya? ' Ibnu Umar menjawab; 'Sampai pertengahan kedua betis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5462</td></tr><tr><td>Arabic No</td><td>2086</td></tr><tr><td>Reference</td><td>Book 37 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5462</td></tr><tr><td>Arabic No</td><td>2086</td></tr><tr><td>Reference</td><td>Book 37 Hadith 77</td></tr></tbody></table></div>
 

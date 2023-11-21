@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) said, "Name yourselves after me, but do not cal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Syu'bah] dari [Manshur] dari [Salim] dari [Jabir radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Silakan kalian memakai nama dengan namaku tapi jangan dengan nama kuniyahku (gelar/panggilan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3538</td></tr><tr><td>Arabic No</td><td>3538</td></tr><tr><td>Reference</td><td>Book 61 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что Пророк ﷺ сказал: «Называйте (детей) моим именем, но не пользуйтесь моей куньей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3538</td></tr><tr><td>Arabic No</td><td>3538</td></tr><tr><td>Reference</td><td>Book 61 Hadith 47</td></tr></tbody></table></div>
 

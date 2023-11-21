@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported that a person asked All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Amru Al Asy'atsi] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Sa'id bin Hasan] dari [Urwah bin Iyadl] dari [Jabir bin Abdullah] dia berkata; Seorang laki-laki bertanya kepada Nabi Shalallahu 'alaihi Wasallam; "Sesungguhnya saya memiliki seorang budak perempuan, dan saya melakukan azl saat berhubungan dengannya?" Maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Sesungguhnya yang demikian itu tidak akan mampu mencegah sesuatu yang telah ditetapkan Allah." Dia (Jabir) berkata; Maka laki-laki tersebut menemui Nabi shallallahu 'alaihi wasallam dan berkata; "Wahai Rasulullah, sesungguhnya budak perempuan yang pernah saya ceritakan kepadamu telah hamil." Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Saya adalah hamba Allah dan Rasul-Nya." Dan telah menceritakan kepada kami [Hajjaj bin Sya'ir] telah menceritakan kepada kami [Abu Ahmad Az Zubairi] telah menceritakan kepada kami [Sa'id bin Hasan] seorang yang menceritakan penduduk Makkah, telah mengabarkan kepadaku ['Urwah bin 'Iyadl bin 'Adi bin Al Khiyar An Naufali] dari [Jabir bin Abdullah] dia berkata; Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam, semakna dengan hadits Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3557</td></tr><tr><td>Arabic No</td><td>1439.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3557</td></tr><tr><td>Arabic No</td><td>1439.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 159</td></tr></tbody></table></div>
 

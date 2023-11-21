@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah Apostle prayed while I was lying like a dead body on his f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepadaku ['Urwah] bahwa ['Aisyah] mengabarkan kepadanya, bahwa ketika Rasulullah shallallahu 'alaihi wasallam sedang shalat Aisyah pernah tidur di arah kiblat beliau, ia tidur di atas kasur dengan posisi seperti jenazah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>383</td></tr><tr><td>Arabic No</td><td>383</td></tr><tr><td>Reference</td><td>Book 8 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Шихаб (аз-Зухри) сказал: «Сообщил мне ‘Урва о том, что ‘Аиша, да будет доволен ею Аллах, рассказывала ему, что когда Посланник Аллаха ﷺ молился, она, подобно покойнице, нередко лежала на постели меж ним и киблой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>383</td></tr><tr><td>Arabic No</td><td>383</td></tr><tr><td>Reference</td><td>Book 8 Hadith 35</td></tr></tbody></table></div>
 

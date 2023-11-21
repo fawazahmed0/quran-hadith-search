@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:When the soul of a believer would go out (of his body) it w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Budail] dari [Abdullah bin Syaqiq] dari [Abu Hurairah] berkata: Apabila roh orang mukmin telah keluar dari jasadnya, ia akan ditemui oleh dua malaikat yang akan membawanya naik, lalu Hammad berkata dan menyebutkan baunya yang harum seraya berkata: Baunya seperti minyak wangi, dan para penghuni langit berkata: Telah datang roh yang baik dari bumi, semoga Allah mendo'akanmu dan mendo'akan jasad yang telah kau tinggali. Lalu ia dibawa menghadap Rabbnya 'azza wajalla. Kemudian ia berkata: Bawalah ia sampai ke tempat yang paling akhir (yakni Sidratul Muntaha). Dan sesungguhnya orang kafir apabila rohnya telah keluar daripadanya. Hammad berkata: ia menyebutkan baunya yang busuk dan cercaan yang ditujukan kepadanya, lalu para penghuni langit berkata: Telah datang satu roh yang buruk dari bumi. Ia berkata: lalu dikatakan: bawalah ia hingga sampai ke tempat yang paling akhir (yakni sijiin) Abu Hurairah berkata: Rasulullah shallallahu 'alaihi wasallam meletakkan kain tipis yang ada padanya pada hidung beliau seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7221</td></tr><tr><td>Arabic No</td><td>2872</td></tr><tr><td>Reference</td><td>Book 53 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7221</td></tr><tr><td>Arabic No</td><td>2872</td></tr><tr><td>Reference</td><td>Book 53 Hadith 90</td></tr></tbody></table></div>
 

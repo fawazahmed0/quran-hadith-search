@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa b. Zubair reported:'A'isha asked: What disrupts the prayer? We said: The wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru bin Ali] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Bakar bin Hafsh] dari [Urwah bin az-Zubair] dia berkata, [Aisyah] radhiyallahu'anhu berkata, "Apa yang memutuskan shalat?" Perawi berkata, "Kami menjawab, "Wanita dan keledai!" Kata Aisyah, "Apa wanita itu adalah hewan melata yang jelek?. Sungguh aku melihat diriku sendiri (sering) tidur melintang seperti jenazah di hadapan Rasulluah Shallallahu'alaihiwasallam, ketika beliau sedang shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1142</td></tr><tr><td>Arabic No</td><td>512.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 304</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Урвы ибн аз-Зубайра, что (однажды) ‘Аиша спросила: «Что прерывает молитву (молящегося)?», мы сказали: «Женщина и осёл». Тогда она сказала: «(Вы считаете) женщину скверным животным!? Я лежала перед Посланником Аллаха ﷺ подобно покойнице, а он совершал молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1142</td></tr><tr><td>Arabic No</td><td>512.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 304</td></tr></tbody></table></div>
 

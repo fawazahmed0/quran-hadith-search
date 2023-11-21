@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' b. 'Azib reported:I noticed the prayer of Muhammad (ﷺ) and saw his Qi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Hamid bin Umar al-Bakrawi] dan [Abu Kamil Fudhail bin Husain al-Jahdari] keduanya meriwayatkan dari [Abu 'Awanah] berkata [Hamid], telah menceritakan kepada kami [Abu 'Awanah] dari [Hilal bin Abi Humaid] dari [Abdurrahman bin Abi Laila] dari [al-Bara' bin 'Azib] dia berkata, "Aku memperhatikan shalat bersama Muhammad Shallallahu'alaihiwasallam, lalu aku mendapatkan berdirinya, rukuknya, i'tidalnya setelah rukuk, sujudnya, duduknya antara dua sujud, sujudnya, dan duduknya antara dua salam, dan keluarnya (dari shalat) semuanya adalah mendekati sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1057</td></tr><tr><td>Arabic No</td><td>471.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб сказал: «Совершая молитву вместе с Мухаммадом ﷺ, я наблюдал (за тем, как он молится), и обнаружил, что (продолжительность) его стояния была примерно равна (продолжительности) поясного поклона, выпрямления после поясного поклона, (первого) земного поклона, сидения между двумя земными поклонами, (второго) земного поклона и сидения после таслима до оставления (места молитвы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1057</td></tr><tr><td>Arabic No</td><td>471.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 219</td></tr></tbody></table></div>
 

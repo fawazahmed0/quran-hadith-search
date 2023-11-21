@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:A man said, "O Allah's Messenger (ﷺ)! If a man finds an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa] berkata, telah mengabarkan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepada kami [Ibnu Syihab] dari [Sahal bin Sa'd], bahwa ada seorang laki-laki datang dan berkata, "Wahai Rasulullah, bagaimana pendapatmu jika seorang suami mendapati laki-laki lain bersama isterinya? Lalu keduanya saling melaknat di dalam masjid, sementara aku menyaksiakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 8 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля ибн Са‘да о том, что (однажды) некий мужчина сказал: «О Посланник Аллаха, что ты скажешь о мужчине, который находит со своей женой (постороннего) мужчину, следует ли ему убить его?» И они призвали друг на друга проклятие в мечети, а я был свидетелем (этого)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 8 Hadith 73</td></tr></tbody></table></div>
 

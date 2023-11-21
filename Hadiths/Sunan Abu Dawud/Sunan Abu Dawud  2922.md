@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas explained the following Qur'anic verse :"To those also, to whom your 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah], telah menceritakan kepada kami [Abu Usamah], telah menceritakan kepadaku [Idris bin Yazid?], telah menceritakan kepada kami [Thalhah bin Musharrif] dari [Sa'id bin Jubair], dari [Ibnu Abbas] mengenai firman Allah ta'ala: "Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka, maka berilah kepada mereka bagiannya." Ia berkata; dahulu orang-orang muhajirin ketika datang ke Madinah, orang-orang anshar diwarisi selain orang-orang yang memiliki hubungan kekerabatan dengannya karena persaudaraan yang telah Allah perintahkan diantara mereka. Kemudian tatkala turun ayat ini: "Bagi tiap-tiap harta peninggalan dari harta yang ditinggalkan….." ia berkata; ayat tersebut dihapus ayat: "Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka, maka berilah kepada mereka bagiannya." Yaitu berupa pertolongan, nasehat, serta bantuan, berwasiat kepadanya dan warisan telah pergi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2922</td></tr><tr><td>Arabic No</td><td>2922</td></tr><tr><td>Reference</td><td>Book 19 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего «Отдавайте тем, с кем вы связаны клятвами, их долю» (сура 4 «ан-Ниса», аят 33): «Когда мухаджиры прибыли в Медину, они с ансарами наследовали друг другу вместо кровных родственников, из-за того, что Посланник Аллаха ﷺ побратал их. Всевышний Аллах ниспослал: “Каждому человеку Мы определили близких, которые наследуют из того, что оставили родители и ближайшие родственники” (сура 4 «ан-Ниса», аят 33). А потом это предписание было отменено аятом “Отдавайте тем, с кем вы связаны клятвами, их долю”. Имелась в виду взаимопомощь, чистосердечное отношение и поддержка, а также возможность завещать побратиму часть имущества, однако наследования между ними больше не было»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2922</td></tr><tr><td>Arabic No</td><td>2922</td></tr><tr><td>Reference</td><td>Book 19 Hadith 38</td></tr></tbody></table></div>
 

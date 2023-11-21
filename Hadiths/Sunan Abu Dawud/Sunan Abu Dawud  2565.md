@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Messenger of Allah (ﷺ) was present with a she-m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib], dari [Abu Al Khair], dari [Ibnu Zurair] dari [Ali bin Abu Thalib] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam telah diberi hadiah seekor baghal. Kemudian beliau menaikinya. Lalu Ali berkata; seandainya kita naikkan keledai di atas kuda yang dahulu kita memiliki kebiasaan seperti ini. Rasulullah shallallahu 'alaihi wasallam berkata: "Sesungguhnya yang melakukan hal tersebut hanyalah orang-orang yang tidak mengetahui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али ибн Аби Талиб, да будет доволен им Аллах, рассказывал: «Однажды Посланнику Аллаха ﷺ подарили мулицу, и он сел на неё верхом». (Передатчик этого хадиса продолжил): «Тогда ‘Али сказал: “Если бы мы скрестили осла с лошадью, то у нас была бы мулица подобно этой”. Посланник Аллаха ﷺ ответил: “Так поступают лишь те, которые не знают!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
 

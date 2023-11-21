@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:Let him be humbled into dus
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami [Abu 'Awanah] dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Dia celaka! Dia celaka! Dia celaka!" lalu beliau ditanya; "Siapakah yang celaka, ya Rasulullah?" Jawab Nabi shallallahu 'alaihi wasallam: "Barang Siapa yang mendapati kedua orang tuanya (dalam usia lanjut), atau salah satu dari keduanya, tetapi dia tidak berusaha masuk surga (dengan berusaha berbakti kepadanya dengan sebaik-baiknya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6510</td></tr><tr><td>Arabic No</td><td>2551.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Абу Хурайры (да будет доволен им Аллах), что (однажды) Пророк ﷺ сказал: «Да будет унижен, да будет унижен, да будет унижен!» Его спросили: «Кто, о Посланник Аллаха?» (и Пророк ﷺ) сказал: «Тот, кто увидит старость одного или обоих своих родителей и не войдёт в Рай»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6510</td></tr><tr><td>Arabic No</td><td>2551.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 10</td></tr></tbody></table></div>
 

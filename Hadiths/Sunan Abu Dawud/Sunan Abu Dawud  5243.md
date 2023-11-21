@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuDharr: The Prophet (ﷺ) said: In the morning alms are due from ever
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad bin Zaid]. (Dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Mani'] dari [Abbad bin Abbad] -ini adalah lafadz darinya, dan ini lebih lengkap- dari [Washil] dari [Yahya bin Uqail] dari [Yahya bin Ya'mar] dari [Abu Dzar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Setiap hari setiap persendian anak Adam harus disedekahi, salam yang diberikan kepada orang yang dijumpainya adalah sedekah, setiap perintahnya kepada kebaikan adalah sedekah, setiap larangannya dari yang munkar adalah sedekah, membuang hal yang mengganggu jalan adalah sedekah, dan persetubuhannya dengan isteri adalah sedekah." Para sahabat bertanya, "Wahai Rasulullah, mendatangi isteri dengan syahwat juga dihitung sebagai sedekah!" beliau menjawab: "Apa pendapatmu jika itu ia lakukan kepada yang bukan haknya, apakah ia berdosa?" Beliau lalu bersabda lagi: "Dan itu semua bisa diganti dengan dua rakaat dhuha." Abu Dawud berkata, "Hammad tidak menyebutkan memerintahkan dan melarang (amar ma'ruf)." Telah menceritakan kepada kami [Wahb bin Baqiyyah] berkata, telah mengabarkan kepada kami [Khalid] dari [Washil] dari [Yahya bin Uqail] dari [Yahya bin Ya'mar] dari [Abul Aswad Ad Dili] dari [Abu Dzar] dengan hadits yang sama. Dan ia menyebutkan Nabi shallallahu 'alaihi wasallam pada bagian tengahnya (hadits)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5243</td></tr><tr><td>Arabic No</td><td>5243</td></tr><tr><td>Reference</td><td>Book 43 Hadith 471</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5243</td></tr><tr><td>Arabic No</td><td>5243</td></tr><tr><td>Reference</td><td>Book 43 Hadith 471</td></tr></tbody></table></div>
 

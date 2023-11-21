@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "It is not permissibl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada haq seorang muslim yang mempunyai suatu barang yang akan diwasiatkannya, ia bermalam selama dua malam kecuali wasiatnya itu ditulis di sisinya". Hadits ini diikuti pula oleh [Muhammad bin Muslim] dari ['Amru] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2738</td></tr><tr><td>Arabic No</td><td>2738</td></tr><tr><td>Reference</td><td>Book 55 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Непозволительно мусульманину, владеющему тем, что можно завещать, проводить две ночи, не имея составленного завещания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2738</td></tr><tr><td>Arabic No</td><td>2738</td></tr><tr><td>Reference</td><td>Book 55 Hadith 1</td></tr></tbody></table></div>
 

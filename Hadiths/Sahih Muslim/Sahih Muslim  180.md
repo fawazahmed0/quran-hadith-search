@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The same hadith has been transmitted by another chain of narrators on the author
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>180</td></tr><tr><td>Arabic No</td><td>50.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Рафи‘ вольноотпущенник Пророка ﷺ передал со слов ‘Абдуллаха ибн Мас‘уда, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не было такого Пророка (которого Аллах направлял до меня), чтобы у него не было апостолов, которые следовали его руководству и следовавшие его сунне …», (и далее он передал) хадис похожий на тот, что передал Салих, но не упоминает в нём прибытие Ибн Мас‘уда и встречу с ним Ибн ‘Умара
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>180</td></tr><tr><td>Arabic No</td><td>50.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 87</td></tr></tbody></table></div>
 

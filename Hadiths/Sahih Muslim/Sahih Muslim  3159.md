@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Amr b. al-'As (Allah be pleased with them) reported:As Allah's Apost
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Isa] dari [Ibnu Juraij] ia berkata, saya mendengar [Ibnu Syihab] berkata, telah menceritakan kepadaku [Isa bin Thalhah] telah menceritakan kepadaku [Abdullah bin Amru bin Ash] bahwasanya; Ketika Nabi shallallahu 'alaihi wasallam menyampaikan khutbah pada hari Nahr (hari kurban), seorang laki-laki beranjak ke arah beliau seraya bertanya, "Saya tidak menyangka wahai Rasulullah, bahwa amalan ini dan ini, sebelum amalan itu dan yang itu." kemudian yang lagi datang dan bertanya, "Wahai Rasulullah, aku mengira bahwa amalan ini sebelum amalan itu." Demikianlah, tiga orang seperti itu pertanyaannya. Namun beliau bersabda: "Lakukanlah sekarang, tidaklah mengapa." Dan Telah menceritakannya kepada kami [Abdu bin Humaid] Telah menceritakan kepada kami [Muhammad bin Bakr] Dan telah menceritakan kepadaku [Sa'id bin Yahya Al Umawi] telah menceritakan kepadaku [bapakku] dari [Ibnu Juraij] dengan isnad ini. Adapun riwayat Abu Bakr, maka sama halnya dengan riwayatnya Isa, kecuali pada ungkapannya; "LIHAA'ULAA'I ATS TSALAATS (untuk ketiga orang itu)." sebab, ia tidak menyebutkannya. Sedangkan Yahya Al Umawi, maka di dalam riwayatnya tercantum; Aku telah bercukur sebelum aku menyembelih hewan kurban, dan aku menyembelih sebelum melontar jumrah." Dan serupa dengan kalimat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3159</td></tr><tr><td>Arabic No</td><td>1306.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 363</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3159</td></tr><tr><td>Arabic No</td><td>1306.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 363</td></tr></tbody></table></div>
 

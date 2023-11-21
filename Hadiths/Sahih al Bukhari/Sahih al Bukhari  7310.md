@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:A woman came to Allah's Messenger (ﷺ) and said, "O Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu'Awanah] dari [Abdurrahman bin Al Ashbahani] dari [Abu Shalih Dzakwan] dari [Abu Sa'id], bahwa seorang wanita menemui Rasulullah shallallahu 'alaihi wasallam dan menyampaikan uneg-unegnya, "Wahai Rasulullah, orang laki-laki sudah biasa datang kepadamu dan menimba hadits, maka tolong berilah kami jatah harimu sehingga kami bisa menemuimu dan anda dapat mengajarkan kepada kami ilmu yang telah Allah ajarkan kepada anda." Rasul mengiayakan dengan bersabda: "Boleh, berkumpullah kalian pada hari ini dan ini, di tempat si fulan dan fulan, " maka para wanita pun berkumpul dan Rasulullah shallallahu 'alaihi wasallam mengajari mereka ilmu yang telah Allah ajarkan kepada beliau. Kemudian Rasulullah shallallahu 'alaihi wasallam mengatakan kepada para wanita itu: "Tidaklah salah seorang di antara kalian melahirkan tiga anak (yang shalih), kecuali ketiga anak itu akan menjadi penghalang neraka baginya." Maka ada seorang wanita yang bertanya, 'Wahai Rasulullah, bagaimana kalau hanya dua?" Wanita itu mengulanginya hingga dua kali. Maka Rasulullah menjawab: "Sekalipun hanya dua, sekalipun hanya dua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7310</td></tr><tr><td>Arabic No</td><td>7310</td></tr><tr><td>Reference</td><td>Book 96 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «(Как-то раз) одна женщина пришла к Посланнику Аллаха ﷺ и сказала: “О Посланник Аллаха, с тобой разговаривают одни только мужчины, назначь же и для нас какой-нибудь день, когда мы станем приходить к тебе, а ты будешь учить нас тому, чему научил тебя Аллах!” (В ответ ей Пророк ﷺ) сказал: “Соберитесь в такой-то день, в таком-то месте”, — и (женщины) собрались, что же касается Пророка ﷺ то он пришёл к ним и стал учить их тому, чему научил его Аллах, а потом он сказал: “Для любой из вас, у которой умрут трое её детей, они обязательно послужат защитой от Огня". Одна из этих женщин спросила: “О Посланник Аллаха, а если их будет двое?” — и она повторила эти слова дважды. И затем Посланник Аллаха ﷺ ответил: “И двое”», — произнеся эти слова трижды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7310</td></tr><tr><td>Arabic No</td><td>7310</td></tr><tr><td>Reference</td><td>Book 96 Hadith 41</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Two person of Bani Thaqif and one from Quarish (or two person
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Manshur] dari [Mujahid] dari [Abu Ma'mar] dari [Abdullah] radliyallahu'anhu berkata, "Ada dua orang kabilah Tsaqif dan seorang qurays, atau dua orang qurasy. Salah seorang dari kabilah Tsaqif lemak perutnya terlihat banyak sekali, sementara kefakihan hati mereka sangat minim. Lalu salah seorang dari mereka berkata, 'Apa menurutmu Allah akan mendengar apa yang kita ucapkan? ' Sedang lainnya berkata, 'Allah mendengar jika kita mengucapkan dengan lantang, dan Dia tidak mendengar jika kita mengucapkan dengan lirih (rahasia).' Lantas lainnya berkata, 'Apabila Dia mendengar jika kita mengucapkan secara lantang, tentu Dia juga mendengar jika kita mengucapkan secara lirih! Lantas Allah menurunkan ayat: '(Dan apa saja yang kalian sembunyikan, akan bersaksi atas kalian, pendengaran kalian, tidak pula penglihatan kalian dan tidak pula kulit kalian) ', (Qs. Fushshilat: ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7521</td></tr><tr><td>Arabic No</td><td>7521</td></tr><tr><td>Reference</td><td>Book 97 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «Однажды возле Дома (т.е. Каабы) встретились двое сакафитов и один курайшит (или: двое курайшитов и один сакафит). У них были большие животы, и они мало что понимали. Один из них сказал: “Как вы думаете, Аллах слышит то, что мы говорим?” Другой сказал: “Слышит, когда мы говорим вслух, но не слышит, когда мы говорим шёпотом”. Третий же сказал: “Если Он слышит, когда мы говорим вслух, то должен слышать и тогда, когда мы говорим шёпотом”. Тогда Аллах Всевышний ниспослал аят: “Вы не укрывались от вашего слуха, ваших взоров и вашей кожи, [не подозревая, что они будут] свидетельствовать против вас. Вы даже полагали, что Аллах не знает многого из того, что вы совершал” (Сура «Фуссылят», аят 22)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7521</td></tr><tr><td>Arabic No</td><td>7521</td></tr><tr><td>Reference</td><td>Book 97 Hadith 146</td></tr></tbody></table></div>
 

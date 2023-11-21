@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qathn bin Nusair] telah menceritakan kepada kami [Ja'far] telah menceritakan kepada kami [Humaid Al A'raj Al Makki] dari [Ibnu Syihab] dari ['Urwah] dari [Aisyah] -kemudian 'Urwah menyebutkan tentang haditsul ifki (berita kebohongan terhadap diri Aisyah) - Aisyah berkata; Suatu ketika Rasulullah shallallahu 'alaihi wasallam duduk dan mengusap wajahnya sambil mengucapkan: "A'UUDZU BILLAHIS-SAMI'IL 'ALIM MINASY-SYAITHANIR RAJIM. INNAL LADZINA JAA-U BIL IFKI 'USHBATUN MINKUM" (Sesungguhnya orang-orang yang membawa berita bohong itu adalah dari golongan kamu juga)." QS. An Nur: 11. Abu Daud berkata; "Ini adalah hadits munkar, dan hadits ini juga di riwayatkan oleh beberapa orang dari Az Zuhri, namun mereka tidak menyebutkan perkataan ini sebagai penjelas, dan aku khawatir "istiadzah" pada redaksi ini dari perkataan Humaid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>785</td></tr><tr><td>Reference</td><td>Book 2 Hadith 395</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Имам Абу Дауд сказал): Рассказал нам Къатан ибн Нусайр, (который сказал): Рассказал нам Джа‘фар, (который сказал): Рассказал нам Хумайд аль-А‘радж аль-Макки, (передавший) от Ибн Шихаба (аз-Зухри), (передавшего) от ‘Урвы (ибн аз-Зубайра), передавшего от ‘Аиши (и ‘Урва привёл рассказ о клевете на ‘Аишу, которая) сказала: «(Однажды), Посланник Аллаха ﷺ сел, и убрав покрывало со своего лица, сказал: “Прибегаю к защите Всеслышащего и Всеведущего от изгнанного и побиваемого шайтана: “Поистине, те, которые возвели отвратительную ложь, (составляют собой) группу из вас же …”, (и до конца) этого аята».Абу Дауд сказал: «Этот хадис является отвергаемым, поскольку его передала группа (передатчиков) со слов аз-Зухри, не упоминая эти слова с таким толкованием, и я опасаюсь, что “исти‘аза” может быть словами Хумайда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>785</td></tr><tr><td>Reference</td><td>Book 2 Hadith 395</td></tr></tbody></table></div>
 

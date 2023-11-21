@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that Duba'a bint al-Zubair b. 'Abd al-Muttalib (Allah be plea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Abdul Wahhab bin Abdul Majid] dan [Abu Ashim] dan [Muhammad bin Bakr] dari [Ibnu Juraij] -dalam riwayat lain- Telah menceritakan kepada kami [Ishaq bin Ibrahim] -lafazh darinya- telah mengabarkan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Zubair] bahwa ia mendengar [Thawus] dan [Ikrimah] Maula Ibnu Abbas, dari [Ibnu Abbas] bahwasanya; Dluba'ah bini Zubair bin Abdul Muthalib radliallahu 'anha menemui Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Saya adalah seorang wanita yang berat (karena sakit), namun ingin sekali berhaji, lalu apa yang Anda perintahkan padaku?" beliau bersabda: "Niatkanlah untuk berhaji dan syaratkan, 'ANNA MAHILLII HAITSU TAHBISUNII (Ya Allah, aku akan tahallul (berhenti) jika Engkau menahanku -bila tambah sakit dan tak sanggup meneruskannya-).'" Ibnu Abbas berkata; Lalu Dluba'ah pun mendapatkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2905</td></tr><tr><td>Arabic No</td><td>1208.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2905</td></tr><tr><td>Arabic No</td><td>1208.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 114</td></tr></tbody></table></div>
 

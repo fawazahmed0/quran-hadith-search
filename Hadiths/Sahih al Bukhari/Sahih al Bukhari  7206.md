@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yazid:I said to Salama, "For what did you give the Pledge of allegiance
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Hatim] dari [Yazid bin Abu Ubaid] mengatakan, saya bertanya kepada [Salamah]; Untuk apa kalian berbaiat kepada Nabi shallallahu 'alaihi wasallam dihari Hudaibiyah? ia menjawab; untuk menyongsong kematian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7206</td></tr><tr><td>Arabic No</td><td>7206</td></tr><tr><td>Reference</td><td>Book 93 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Язид ибн Абу ‘Убайд сказал: «Я спросил Саляму (ибн аль-Акуа‘): “В чём вы клялись Пророку ﷺ в день Худайбиййи?” Он сказал: “В том, что (будем сражаться) насмерть”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7206</td></tr><tr><td>Arabic No</td><td>7206</td></tr><tr><td>Reference</td><td>Book 93 Hadith 66</td></tr></tbody></table></div>
 

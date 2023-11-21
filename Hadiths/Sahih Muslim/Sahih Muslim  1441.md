@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Rafi' b. Khadij reported:We used to observe the evening prayer with the Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Mihran Ar Razi] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Al Auza'i] telah menceritakan kepadaku [Abu Najasyi], dia berkata; Aku mendengar [Rafi' bin Khadij] berkata; "Kami pernah shalat maghrib bersama Rasulullah shallallahu 'alaihi wasallam, lalu salah seorang diantara kami pulang dan masih bisa melihat tempat anak panahnya." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan kepada kami [Syu'aib bin Ishaq Ad Dimasyqi] telah menceritakan kepada kami [Al Auza'i] telah menceritakan kepadaku [Abu Najasyi] telah menceritakan kepadaku [Rafi' bin Khadij] katanya; "Kami pernah shalat maghrib seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>637.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 274</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ ибн Хадидж сказал: «Обычно после того, как мы совершали закатную молитву вместе с Посланником Аллаха ﷺ, и любой из нас удалялся, он ещё мог рассмотреть то место, куда упала бы стрела (, пущенная им из лука)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>637.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 274</td></tr></tbody></table></div>
 

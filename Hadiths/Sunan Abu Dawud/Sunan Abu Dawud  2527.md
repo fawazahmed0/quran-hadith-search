@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ya'la ibn Munyah: The Messenger of Allah (ﷺ) announced an expedition,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Abdullah bin Wahb], telah mengabarkan kepadaku ['Ashim bin Hakim], dari [Yahya bin As Saibani], dari [Abdullah bin Ad Dailami], bahwa [Ya'la bin Munyah] berkata; Rasulullah shallallahu 'alaihi wasallam mengumumkan peperangan sementara aku adalah orang yang sudah tua dan tidak memiliki pembantu. Kemudian aku mencari orang upahan yang akan mewakiliku dan aku memberikan kepadanya sahamnya. Kemudian aku mendapatkan seseorang, lalu tatkala telah dekat waktu pemberangkatan orang tersebut datang kepadaku dan berkata; aku tidak tahu apa dua saham tersebut, dan saham apakah yang akan aku dapatkan, maka sebutkanlah sesuatu untukku baik terdapat saham atau tidak. Kemudian aku sebutkan tiga dinar untuknya. Kemudian tatkala telah datang rampasan perangnya maka aku hendak memberikan sahamnya kepadanya. Lalu aku ingat uang dinar tersebut, maka aku datang kepada Nabi shallallahu 'alaihi wasallam dan aku ceritakan kepadanya permasalahan mengenainya. Beliau berkata: "Aku tidak mendapati baginya dalam peperangannya ini baik di dunia maupun di akhirat kecuali beberapa uang dinar yang telah ia sebutkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2527</td></tr><tr><td>Arabic No</td><td>2527</td></tr><tr><td>Reference</td><td>Book 15 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2527</td></tr><tr><td>Arabic No</td><td>2527</td></tr><tr><td>Reference</td><td>Book 15 Hadith 51</td></tr></tbody></table></div>
 

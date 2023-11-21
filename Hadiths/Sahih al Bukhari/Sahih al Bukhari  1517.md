@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thumama bin 'Abdullah bin Anas:Anas performed the Hajj on a packsaddle 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami ['Azrah bin Tsabit] dari [Tsumamah bin 'Abdullah bin Anas] berkata: " [Anas] berhajji dengan menunggang kendaraannya dan ketika itu ia bukanlah seorang yang kikir. Ia juga menceritakan bahwa Rasulullah shallallahu 'alaihi wasallam berhaji mengendarai tunggangannya yang membawa perbekalannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1517</td></tr><tr><td>Arabic No</td><td>1517</td></tr><tr><td>Reference</td><td>Book 25 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что во время своего хаджа Посланник Аллаха ﷺ (передвигался), сидя на вьючном седле той верблюдицы, которая везла и его поклажу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1517</td></tr><tr><td>Arabic No</td><td>1517</td></tr><tr><td>Reference</td><td>Book 25 Hadith 5</td></tr></tbody></table></div>
 

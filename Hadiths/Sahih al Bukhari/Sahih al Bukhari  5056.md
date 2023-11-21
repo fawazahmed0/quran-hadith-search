@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Masud:The Prophet (ﷺ) said to me, "Recite Qur'an to me.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qais bin Hafsh] Telah menceritakan kepada kami [Abdul Wahid] Telah menceritakan kepada kami [Al A'masy] dari [Ibrahim] dari [Abidah As Silmani] dari [Abdullah bin Mas'ud] radliallahu 'anhu, ia berkata; Nabi shallallahu 'alaihi wasallam pernah bersabda padaku: "Bacakanlah Al Qur'an padaku." Aku pun berkata, "Aku membacakannya untuk Anda, padahal kepada Andalah ia diturunkan?" beliau bersabda: "Sesungguhnya aku suka mendengarnya dari orang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5056</td></tr><tr><td>Arabic No</td><td>5056</td></tr><tr><td>Reference</td><td>Book 66 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, рассказал: «(Однажды) Пророк ﷺ велел мне: “Почитай мне (Коран)”. Я сказал: “Как же я буду читать его тебе, когда тебе он был ниспослан?!” — (однако Пророк ﷺ) сказал: “Поистине, я люблю слушать(, когда его читают) другие”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5056</td></tr><tr><td>Arabic No</td><td>5056</td></tr><tr><td>Reference</td><td>Book 66 Hadith 81</td></tr></tbody></table></div>
 

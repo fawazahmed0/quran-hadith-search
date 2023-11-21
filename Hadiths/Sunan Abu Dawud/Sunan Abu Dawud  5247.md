@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said:A mouse came dragging a wick and dropped before the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin 'Abdurrahman At Tammar] berkata, telah menceritakan kepada kami [Amru bin Thalhah] berkata, telah menceritakan kepada kami [Asbath] dari [Simak] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Seekor tikus datang dan menarik sumbu lampu, tikus itu menariknya dan melemparnya ke hadapan Rasulullah shallallahu 'alaihi wasallam, yaitu di atas tikar kecil yang di duduki oleh beliau sehingga tikar tersebut terbakar sebesar uang dirham. Beliau lalu bersabda: "Jika salah seorang dari kalian hendak tidur, maka hendaklah ia matikan lampu-lampu kalian, sebab setan akan memberi petunjuk kepada (tikus) ini untuk melakukan (seperti) ini hingga membakar kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5247</td></tr><tr><td>Arabic No</td><td>5247</td></tr><tr><td>Reference</td><td>Book 43 Hadith 475</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5247</td></tr><tr><td>Arabic No</td><td>5247</td></tr><tr><td>Reference</td><td>Book 43 Hadith 475</td></tr></tbody></table></div>
 

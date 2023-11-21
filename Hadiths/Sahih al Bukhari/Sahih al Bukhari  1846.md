@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) entered Mecca in the year of its
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Anas bin Malik radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam memasuki Makkah pada tahun Penaklukan Makkah dengan mengenakan pelindung kepala terbuat dari besi diatas kepala Beliau. Ketika Beliau melepaskannya, datang seseorang lalu berkata; "Sesungguhnya Ibnu Khathol sedang berlindung di balik kain penutup Ka'bah. Maka Beliau berkata: "Bunuhlah dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1846</td></tr><tr><td>Arabic No</td><td>1846</td></tr><tr><td>Reference</td><td>Book 28 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса бин Малика, да будет доволен им Аллах, что, когда в год завоевания (Мекки) Посланник Аллаха ﷺ вступил (в город), на голове его был шлем, а когда он снял его, (к нему) подошёл один человек и сказал: «Поистине, Ибн Хаталь держится за покровы Каабы!» — и (Пророк ﷺ) велел: “Убейте его!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1846</td></tr><tr><td>Arabic No</td><td>1846</td></tr><tr><td>Reference</td><td>Book 28 Hadith 26</td></tr></tbody></table></div>
 

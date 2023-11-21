@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) saw the women and children (of the Ansar) coming
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Ma'mar] telah bercerita kepada kami ['Abdul Warits] telah bercerita kepada kami ['Abdul 'Aziz] dari [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam melihat para wanita dan anak-anak berdatangan. Perawi berkata; "Aku mengira dia (Anas) berkata; Sepulang dari resepsi perkawinan. Kemudian Nabi shallallahu 'alaihi wasallam berdiri untuk menyambut mereka seraya berkata: "Allahumma. Kalian adalah termasuk diantara manusia yang paling aku cintai". Beliau mengucapkannya sebanyak tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3785</td></tr><tr><td>Arabic No</td><td>3785</td></tr><tr><td>Reference</td><td>Book 63 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ увидевший женщин и детей (из числа ансаров), которые возвращались со свадьбы, встал во весь рост и трижды сказал: “О Аллах, вы — из числа самых любимых для меня людей!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3785</td></tr><tr><td>Arabic No</td><td>3785</td></tr><tr><td>Reference</td><td>Book 63 Hadith 10</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:They, the people of the Scriptures, divided this Scripture i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ziyad bin Ayyub] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Abu Bisyir] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] radliallahu 'anhuma, ia berkata; "Mereka adalah Ahlul Kitab yang telah memilah-milih (aturan Allah). Sebagian mereka mengimani sebagian dan sebagian lagi mereka mengingkarinya." Ini adalah maksud firman Allah "(yaitu) orang-orang yang telah menjadikan al Qur'an terbagi-bagi." QS Al Hijr;
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3945</td></tr><tr><td>Arabic No</td><td>3945</td></tr><tr><td>Reference</td><td>Book 63 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал, объясняя аят «Которые поделили Коран на части» (сура «аль-Хиджр», аят 91): «Это обладатели Писания, они разделили его на части, уверовали в одну часть и не уверовали в другую»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3945</td></tr><tr><td>Arabic No</td><td>3945</td></tr><tr><td>Reference</td><td>Book 63 Hadith 169</td></tr></tbody></table></div>
 

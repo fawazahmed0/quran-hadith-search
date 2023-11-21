@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>7168</td></tr><tr><td>Reference</td><td>Book 93 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах сказал: «Я был из числа тех, кто побивал его камнями в том месте, где обычно совершалась молитва».\nЭтот хадис передали Йунус, Ма‘мар и ибн Джурейдж от аз-Зухри от Абу Саляма от Джабира от Пророка ﷺ в главе о побивании камнями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>7168</td></tr><tr><td>Reference</td><td>Book 93 Hadith 32</td></tr></tbody></table></div>
 

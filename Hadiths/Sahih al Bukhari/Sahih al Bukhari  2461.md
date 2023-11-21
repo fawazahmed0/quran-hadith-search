@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin 'Amir:We said to the Prophet, "You send us out and it happens
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] berkata, telah menceritakan kepadaku [Yazid] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] berkata; Kami bertanya kepada Nabi shallallahu 'alaihi wasallam: Bila anda mengutus kami dalam suatu perjalanan lalu kami singgah di suatu kaum (kampung) namun mereka tidak melayani kami (memberikan hak tamu) apa pendapat anda dalam masalah ini?" Maka Beliau bersabda: "Bagi kita, bila kalian singgah di suatu kaum diperintahkan bagi kalian untuk mendapatkan apa yang seharusnya didapat sebagai tamu, maka mintalah kepada mereka. Bila mereka tidak menunaikannya ambillah dari mereka sebatas hak tamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2461</td></tr><tr><td>Arabic No</td><td>2461</td></tr><tr><td>Reference</td><td>Book 46 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба бин ‘Амир, да будет доволен им Аллах, сказал: «(Однажды) мы сказали (Пророку ﷺ): “О Посланник Аллаха, ты посылаешь нас, а мы останавливаемся у людей, не оказывающих нам (гостеприимства). Что ты об этом скажешь?” (В ответ) Посланник Аллаха ﷺ сказал: “Если остановитесь у кого-либо и будет велено (принимать вас), как положено (принимать гостя), то примите это, если же они этого не сделают, сами берите с них то, что полагается гостю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2461</td></tr><tr><td>Arabic No</td><td>2461</td></tr><tr><td>Reference</td><td>Book 46 Hadith 22</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "When the Jews greet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila orang-orang Yahudi menyalami kalian, bahwa salah seorang dari mereka mengatakan; "As saamu 'alaika (kebinasaan keatasmu), maka jawablah; "wa'alaika (dan keatasmu juga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6257</td></tr><tr><td>Arabic No</td><td>6257</td></tr><tr><td>Reference</td><td>Book 79 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Когда вас приветствуют иудеи, то некоторые из них говорят: “Смерть тебе!”, так ответь: “И тебе!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6257</td></tr><tr><td>Arabic No</td><td>6257</td></tr><tr><td>Reference</td><td>Book 79 Hadith 31</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) had the date-palm trees of Bani Al-Na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Al Laits] dari [An Nafi'] dari [Ibnu Umar] radliallahu 'anhuma dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah membakar kebun kurma Bani Nadlir dan memotongnya, yaitu yang ada di Buwairah. Kemudian turunlah ayat: '(Apa saja yang kamu tebang dari pohon kurma (milik orang-orang kafir) atau yang kamu biarkan (tumbuh) berdiri di atas pokoknya. Maka (semua itu) adalah dengan izin Allah) ' (Qs. Al Hasyr:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4031</td></tr><tr><td>Arabic No</td><td>4031</td></tr><tr><td>Reference</td><td>Book 64 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ сжёг и вырубил пальмы бану ан-надир в Бувайре, а потом был ниспослан (аят, в котором говорится): “То, что вы срубили из пальм или оставили стоять на корнях их, (было сделано) с соизволения Аллаха...”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4031</td></tr><tr><td>Arabic No</td><td>4031</td></tr><tr><td>Reference</td><td>Book 64 Hadith 80</td></tr></tbody></table></div>
 

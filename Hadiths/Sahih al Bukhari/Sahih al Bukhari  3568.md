@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to talk so clearly that if somebody wante
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 61 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Не удивляет ли тебя поведение Абу фуляна? Он пришёл, сел рядом с моей комнатой и стал пересказывать хадисы Посланника Аллаха ﷺ так, чтобы я слышала. А я в это время совершала молитву. И не успела я закончить, как он встал и ушёл. Если бы я успела, я бы ответила ему. Поистине, Посланник Аллаха ﷺ никогда не говорил так быстро и неразборчиво, как это делаете вы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 61 Hadith 77</td></tr></tbody></table></div>
 

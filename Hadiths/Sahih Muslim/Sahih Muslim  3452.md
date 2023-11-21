@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with them) reported:Allah's Messenger. (ﷺ) marrie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Daud bin Abdurrahman] dari [Amru bin Dinar] dari [Jabir bin Zaid Abu Asy Sya'tsa'] dari [Ibnu Abbas] bahwa dia berkata; Rasulullah shallallahu 'alaihi wasallam menikahi Maimunah ketika beliau sedang berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3452</td></tr><tr><td>Arabic No</td><td>1410.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3452</td></tr><tr><td>Arabic No</td><td>1410.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 55</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Hasan ibn Ali: The Messenger of Allah (ﷺ) taught me some words tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Qutaibah bin Sa'id] dan [Ahmad bin Jawwas Al Hanafi] mereka berkata; telah menceritakan kepada Kami [Abu Al Ahwash] dari [Abu Ishaq] dari [Buraid bin Abu Maryam] dari [Abu Al Haura'], ia berkata; telah berkata [Al Hasan bin Ali radliallahu 'anhuma]; Rasulullah shallAllahu wa'alaihi wa sallam telah mengajarkan kepada beberapa kalimat yang aku ucapkan ketika melakukan witir.. Ibnu Hawwas berkata; ketika melakukan qunut witir yaitu; ALLAAHUMMAH DINII FIIMAN HADAIT, WA 'AAFINII FIIMAN TAWALLAIT, WA BAARIK LII FIIMAA A'THAIT, WA QINII SYARRA MAA QADHAIT, INNAKA TAQDHII WA LAA YUQDHAA 'ALAIK, WA INNAHU LAA YADZILLU MAN WAALAIT, WA LAA YA'IZZU MAN 'AADAIT, TABAARAKTA RABBANAA WA TA'AALAIT (Ya Allah, berilah aku petunjuk diantara orang-orang yang Engkau beri petunjuk, dan berilah aku keselamatan diantara orang-orang yang telah Engkau beri keselamatan, uruslah diriku diantara orang-orang yang telah Engkau urus, berkahilah untukku apa yang telah Engkau berikan kepadaku, lindungilah aku dari keburukan apa yang telah Engkau putuskan, sesungguhnya Engkau Yang memutuskan dan tidak diputuskan kepadaku, sesungguhnya tidak akan hina orang yang telah Engkau jaga dan Engkau tolong, dan tidak akan mulia orang yang Engkau musuhi. Engkau Maha Suci dan Maha Tinggi). Telah menceritakan kepada Kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada Kami [Zuhair], telah menceritakan kepada Kami [Abu Ishaq] dengan sanad serta maknannya, ia berkata pada akhir hadits tersebut; Abu Al Haura' Rabi'ah bin Syaiban mengatakan hal ini yaitu; beliau mengucapkan ketika melakukan qunud dalam witir: "….." dan ia tidak menyebutkan; aku mengucapkannya dalam witir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1425</td></tr><tr><td>Arabic No</td><td>1425</td></tr><tr><td>Reference</td><td>Book 8 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Хасан ибн ‘Али, да будет доволен Аллах им и его отцом, рассказывал, что Посланник Аллаха ﷺ научил его читать во время витра (или кунут во время витра) следующим образом: «О Аллах, наставь меня на правильный путь наряду с теми, кого Ты наставил на него, даруй мне благополучие наряду с теми, кому Ты даровал его, опекай меня наряду с теми, кого Ты опекаешь, сделай благодатным для меня то, что Ты даровал, и защити меня от зла того, что Ты предрешил, ибо Ты решаешь, а о Тебе решений не принимают. Воистину, не будет унижен тот, кого Ты поддержал, и не будет возвеличен тот, с кем Ты враждуешь. Господь наш, Ты Благословенный, Всевышний /Аллахумма хдини фиман хадайта, ва‘афини фиман ‘афайта, ва-тавалляни фиман тавалляйта, ва барик ли фима а‘тайта, ва кы-ни шарра ма кадайта, фаиннака такды валя йукда ‘аляйка, иннаху ля йазиллю ман валяйта, табаракта раббана ва та‘аляйта/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1425</td></tr><tr><td>Arabic No</td><td>1425</td></tr><tr><td>Reference</td><td>Book 8 Hadith 10</td></tr></tbody></table></div>
 

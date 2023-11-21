@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Zuhri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu At Thahir] telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Humaid bin Abdurrahman bin 'Auf] bahwa [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam berabda: "Siapa saja di antara kalian yang bersumpah dengan mengatakan dalam sumpahnya 'Demi Lata', maka hendaklah dia segera menyebut La Ilaaha Illallah. Dan barangsiapa mengajak temannya berjudi dengan mengatakan 'Mari berjudi', maka hendaknya dia bersedekah." Dan telah menceritakan kepadaku [Suwaid bin Sa'id] telah menceritakan kepada kami [Al Walid bin Muslim] dari [Al Auza'i]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abd bin Humaid] keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] keduanya dari [Az Zuhri] dengan isnad ini. Dan hadits Ma'mar seperti hadits Yunus, namun dalam haditsnya dia menyebutkan, "Hendaknya dia bersedekah dengan sesuatu." Dan dalam hadits Auza'id disebutkan, "Barang siapa bersumpah dengan menyebut Lata dan Uzza." Abu Husain Muslim berkata; perkataan 'Mari berjudi, hendaklah dia bersedekah', seperti ini tidak ada yang meriwayatkannya seorangpun selain Az Zuhri." Perawi berkata, "Dan Az Zuhri juga mempunyai sekitar sembilan puluh riwayat yang dia riwayatkan dari Nabi shallallahu 'alaihi wasallam, sedangkan perawi yang lain tidak ikut serta di dalam riwayatnya dengan isnad yang kuat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>1647.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>1647.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 8</td></tr></tbody></table></div>
 

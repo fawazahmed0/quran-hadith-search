@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted by another chain of narrators:Abu Bakr b. Abi S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>354</td></tr><tr><td>Arabic No</td><td>137.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 261</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Умама аль-Хариси рассказал, что слышал от Посланника Аллаха ﷺ хадис, подобный предыдущему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>354</td></tr><tr><td>Arabic No</td><td>137.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 261</td></tr></tbody></table></div>
 

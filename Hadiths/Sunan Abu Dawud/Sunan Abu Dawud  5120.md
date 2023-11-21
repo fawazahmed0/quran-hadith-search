@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Suraqah ibn Malik ibn Ju'sham al-Mudlaji: The Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Amru bin As Sarh] berkata, telah menceritakan kepada kami [Ayyub bin Suwaid] dari [Usamah bin Zaid] ia mendengar [Sa'id Ibnul Musayyab] ia menceritakan dari [Suraqah bin Malik bin Ju'syum Al Mudhiji] ia berkata, "Rasulullah shallallahu 'alaihi wasallam berkhutbah di hadapankami seraya mengatakan: "Sebaik-baik kalian adalah orang yang membela keluarganya, selama tidak dalam suatu dosa." Abu Dawud berkata, "Ayyub bin Suwaid adalah seorang yang lemah(dalam periwayatan hadits)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5120</td></tr><tr><td>Arabic No</td><td>5120</td></tr><tr><td>Reference</td><td>Book 43 Hadith 348</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Ахмад ибн ‘Амр ибн ас-Сарх: Рассказал нам Аййюб ибн Сувайд от Усамы ибн Зейда о том, что он слышал, как Са‘ид ибн аль-Мусаййиб рассказывал от Суракъи ибн Малика ибн Джу‘шум аль-Мудлиджи, который сказал: «(Однажды) Посланник Аллаха ﷺ обратился к нам с проповедью и сказал: “Лучший из вас защищающий свой род (племя), если не совершает (при этом) грех”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5120</td></tr><tr><td>Arabic No</td><td>5120</td></tr><tr><td>Reference</td><td>Book 43 Hadith 348</td></tr></tbody></table></div>
 

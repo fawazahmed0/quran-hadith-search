@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al-'As:The Prophet (ﷺ) said to me, "You fast d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Habib bin Abu Tsabit] berkata, aku mendengar [Abu Al 'Abbas Al Makkiy], seorang ahli sya'ir yang tidak dianggap buruk dalam menyampaikan hadits, berkata, aku mendengar ['Abdullah bin 'Amru bin Al 'Ash radliallahu 'anhuma] berkata,, Nabi shallallahu 'alaihi wasallam berkata: "Apakah benar kamu berpuasa dahr (sepanjang masa) dan shalat sepanjang malam?" Aku jawab; "Benar". Beliau berkata: "Jika kamu kerjakan itu nanti matamu akan mengantuk dan fisikmu menjadi lemah. Tidak ada nilai puasa bagi siapa yang mengerjakan puasa sepanjang masa. Puasa tiga hari (dalam sebulan) sama nilainya dengan puasa sepanjang jaman". 'Abdullah bin 'Amru berkata: "Sungguh aku mampu lebih dari itu". Beliau berkata: "Kalau begitu puasalah dengan puasanya Nabi Daud 'alaihi salam, yang dia berpuasa sehari dan berbuka sehari sehingga dia tidak akan kabur ketika berjumpa dengan musuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1979</td></tr><tr><td>Arabic No</td><td>1979</td></tr><tr><td>Reference</td><td>Book 30 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Амр ибн аль-‘Ас, да будет доволен Аллах им и его отцом, сказал: «(Однажды) Пророк ﷺ спросил меня: “Ты постишься каждый день и выстаиваешь молитвы всю ночь?” Я ответил: “Да”. Он сказал: “Если ты будешь делать это, твои глаза ослабеют, а душа устанет. Не постился тот, кто постился вечно (постоянно). Пост по три дня в месяц подобен вечному посту”. Я сказал: “Поистине, я способен на большее”. Он сказал: “Тогда постись так, как постился Дауд, мир ему: он постился через день и не убегал (с поля битвы) при встрече (с врагом)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1979</td></tr><tr><td>Arabic No</td><td>1979</td></tr><tr><td>Reference</td><td>Book 30 Hadith 86</td></tr></tbody></table></div>
 

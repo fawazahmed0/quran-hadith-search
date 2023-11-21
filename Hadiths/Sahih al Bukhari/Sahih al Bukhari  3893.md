@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As Samit:I was one of the Naqibs who gave the ('Aqaba) Pledg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari [ash Shunabihi] dari ['Ubadah bin ash Shamit] radliallahu 'anhu, dia berkata; Aku termasuk orang yang berbai'at kepada Rasulullah shallallahu 'alaihi wasallam. dan katanya; "Kami berbai'at kepada beliau untuk tidak menyekutukan Allah dengan suatu apapun, tidak mencuri, tidak berzina, tidak membunuh jiwa yang diharamkan Allah, tidak merampok dan tidak berbuat maksiat yang balasannya adalah surga bila kami memenuhi semuanya. Namun bila kami melanggar maka keputusannya ada pada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3893</td></tr><tr><td>Arabic No</td><td>3893</td></tr><tr><td>Reference</td><td>Book 63 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убада ибн ас-Самит, да будет доволен им Аллах, сказал: «Я был одним из старшин, которые присягнули Посланнику Аллаха ﷺ (в ночь ‘Акабы). Мы поклялись, что не будем поклоняться наряду с Аллахом ничему, не будем воровать, прелюбодействовать, не будем убивать того, кого Аллах запретил убивать, кроме как по праву и не будем грабить друг друга. Если мы не будем ослушиваться в этом, нам обещан Рай, если же совершим что-то из перечисленного, то Аллах будет решать (если пожелает, то простит его, а если пожелает, накажет его)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3893</td></tr><tr><td>Arabic No</td><td>3893</td></tr><tr><td>Reference</td><td>Book 63 Hadith 118</td></tr></tbody></table></div>
 

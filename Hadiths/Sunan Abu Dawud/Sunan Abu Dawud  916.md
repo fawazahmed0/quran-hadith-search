@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sahl ibn al-Hanzaliyyah: The iqamah for the morning prayer was pronounc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin nafi'] telah menceritakan kepada kami [Mu'awiyah yaitu Ibnu Sallam] dari [Zaid] bahwa dia mendengar [Abu Salam] berkata; telah menceritakan kepadaku [As Saluli yaitu Abu Kabsyah] dari [Sahl bin Handzaliyah] dia berkata; "Iqamat shalat subuh telah di kumandangkan, lalu Rasulullah shallallahu 'alaihi wasallam berdiri untuk melaksanakan shalat, (dalam shalatnya) beliau menoleh ke arah jalan setapak di bukit." -Abu Daud berkata; Waktu itu beliau mengutus pasukan penunggang kuda ke jalan setapak di bukit untuk berjaga-jaga pada malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>916</td></tr><tr><td>Arabic No</td><td>916</td></tr><tr><td>Reference</td><td>Book 2 Hadith 527</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Сахль ибн аль-Ханзалийя, да будет доволен им Аллах: «Однажды объявили о начале утренней молитвы, и Посланник Аллаха ﷺ совершал её, периодически поглядывая на ущелье».Абу Дауд сказал: «А дело было в том, что он послал туда всадника, который должен был охранять спящих мусульман ночью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>916</td></tr><tr><td>Arabic No</td><td>916</td></tr><tr><td>Reference</td><td>Book 2 Hadith 527</td></tr></tbody></table></div>
 

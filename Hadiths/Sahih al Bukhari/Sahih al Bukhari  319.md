@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:'Aisha said, "We set out with the Prophet (ﷺ) in his last Hajj.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] berkata, "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam pada saat haji Wada'. Di antara kami ada yang bertalbiah dengan Umrah dan ada pula yang bertalbiah dengan haji. Ketika kami sudah sampai di Makkah, Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berihram dengan Umrah dan tidak membawa sembelihan, maka hendaklah dia bertahallul. Dan barangsiapa berihram dengan Umrah dan membawa sembelihan, maka janganlah bertahallul kecuali setelah menyembelih hewan pada hari Nahr (hari penyembelihan). Dan barangsiapa bertalbiah (memulai) dengan haji, hendaklah menyempurnakan hajinya." 'Aisyah berkata, "Kemudian aku mengalami haid dan terus terjadi hingga hari 'Arafah, dan aku tidak bertalbiah kecuali dengan Umrah. Maka Nabi shallallahu 'alaihi wasallam memerintahkan aku untuk menguraikan (rambut) kepalaku dan menyisirnya, lalu bertalbiah dengan haji dan meninggalkan Umrah. Maka aku laksanakan hingga aku merampungkan hajiku. Kemudian beliau mengutus saudaraku, 'Abdurrahman bin Abu Bakar untuk menemaniku dan memerintahkan aku agar aku berumrah dari Tan'im sebagai ganti Umrahku sebelumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>319</td></tr><tr><td>Arabic No</td><td>319</td></tr><tr><td>Reference</td><td>Book 6 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Урвы, что ‘Аиша сказала: «Мы вышли вместе с Пророком ﷺ в Прощальный хадж. Среди нас были те, кто произнес тальбию для умры и те, кто для хаджа. Когда же прибыли в Мекку, Посланник Аллаха ﷺ сказал: “Кто вошел в состояние ихрама для умры и у него нет с собой жертвенного животного, то пусть он выйдет из ихрама, совершив умру. Кто надел ихрам для умры и пригнал с собой жертвенное животное, то пусть не выходит из состояния ихрама, пока не принесет в жертву скот. А кто же надел ихрам для хаджа, то пусть завершит свой хадж”. И у меня были месячные, которые продолжались до дня Арафа, а я всего лишь произнесла тальбию для умры. И Пророк ﷺ велел мне распустить волосы, причесаться, произнести тальбию для хаджа и оставить умру. Я так и сделала, совершив хадж. И он ﷺ отправил со мной ‘Абду-р-Рахмана ибн Абу Бакра и велел мне совершить умру вместо прежней из Тан‘има»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>319</td></tr><tr><td>Arabic No</td><td>319</td></tr><tr><td>Reference</td><td>Book 6 Hadith 24</td></tr></tbody></table></div>
 

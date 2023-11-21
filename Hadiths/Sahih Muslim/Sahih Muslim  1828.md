@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha is reported to have said that the Messenger of Allah (ﷺ) was asked abou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Sa'id bin Ibrahim] bahwa ia mendengar [Abu Salamah] menceritakan dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah ditanya, "Amal yang bagaimanakah yang paling dicintai oleh Allah?" Aisyah menjawab, "Amalan yang dikerjakan secara kontinyu meskipun sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1828</td></tr><tr><td>Arabic No</td><td>782.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 256</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что (однажды) Посланнику Аллаха ﷺ задали вопрос: «Какие деяния являются наиболее любимым для Аллаха?» Он ответил: «Те из них, что совершаются с постоянством, даже если их мало»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1828</td></tr><tr><td>Arabic No</td><td>782.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 256</td></tr></tbody></table></div>
 

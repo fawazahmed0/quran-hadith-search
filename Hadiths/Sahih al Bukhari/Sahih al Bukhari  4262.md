@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) had informed the people of the martyrdom of Zaid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Waqid] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dai [Humaid bin Hilal] dari [Anas] radliallahu 'anhu, bahwasanya Nabi shallallahu 'alaihi wasallam pernah mengumumkan kematian Zaid bin Haritsah, Ja'far bin Abi Thalib dan Abdullah bin Rawahah kepada para sahabat sebelum berita kematian mereka sampai. Nabi sabdakan: "Bendera perang diambil oleh Zaid, lantas ia gugur, kemudian Ja'far mengambil alih benderanya, ia pun gugur, lantas diambil alih oleh Abdullah bin Rawahah dan ia pun gugur -seraya kedua mata beliau berlinang-, lantas bendera diambil oleh "si pedang Allah", Khalid bin Al Walid hingga Allah membuka kemenangan bagi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 64 Hadith 296</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сообщил людям о смерти Зейда, Джа‘фара и Ибн Равахи ещё до того, как известия о них (были доставлены гонцами), и он сказал: «Зейд взял знамя и был сражён, потом взял его Джа‘фар и был сражён, а потом взял его Ибн Раваха и (тоже) был сражён — и (когда Пророк ﷺ говорил это,) глаза его были полны слёз (, после чего он продолжил), — а затем взял его меч из числа мечей Аллаха, и Аллах даровал им победу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 64 Hadith 296</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported Allah's Messenger (ﷺ) as saying:It is obligatory for you to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair]; Telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki'] keduanya berkata; Telah menceritakan kepada kami [Al A'masy]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Mu'awiyah]; Telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari ['Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Kalian harus berlaku jujur, karena kejujuran itu akan membimbing kepada kebaikan. Dan kebaikan itu akan membimbing ke surga. Seseorang yang senantiasa berlaku jujur dan memelihara kejujuran, maka ia akan dicatat sebagai orang yang jujur di sisi Allah. Dan hindarilah dusta, karena kedustaan itu akan menggiring kepada kejahatan dan kejahatan itu akan menjerumuskan ke neraka. Seseorang yang senantiasa berdusta dan memelihara kedustaan, maka ia akan dicatat sebagai pendusta di sisi Allah.'" Telah menceritakan kepada kami [Minjab bin Al Harits At Tamimi]; Telah mengabarkan kepada kami [Ibnu Mushir]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali]; Telah mengabarkan kepada kami ['Isa bin Yunus] keduanya dari [Al A'masy] melalui jalur ini. Namun di dalam Hadits Isa tidak disebutkan lafazh; 'memelihara kejujuran dan memelihara kedustaan.' Sedangkan di dalam Hadits Ibnu Mushir disebutkan dengan lafazh; Hatta yuktabahullah.' (hingga Allah mencatatnya sebagai pendusta)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6639</td></tr><tr><td>Arabic No</td><td>2607.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6639</td></tr><tr><td>Arabic No</td><td>2607.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 136</td></tr></tbody></table></div>
 

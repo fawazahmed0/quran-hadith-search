@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "While I was sleeping, I saw 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7475</td></tr><tr><td>Arabic No</td><td>7475</td></tr><tr><td>Reference</td><td>Book 97 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Однажды во сне я увидел себя у колодца, и я вычерпал (столько воды), сколько пожелал Аллах. Потом (ведро) взял Ибн Абу Кухафа и зачерпнул одно или два ведра. При этом в движениях его была слабость, однако Аллах простит ему эту слабость. Потом (ведро) взял ‘Умар, и оно превратилось в большой чан, и я не видел среди людей другого предводителя, который делал бы своё дело так искусно, (и это продолжалось,) пока (все) люди (не напились сами и не напоили своих верблюдов), отведя их от водопоя на отдых»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7475</td></tr><tr><td>Arabic No</td><td>7475</td></tr><tr><td>Reference</td><td>Book 97 Hadith 101</td></tr></tbody></table></div>
 

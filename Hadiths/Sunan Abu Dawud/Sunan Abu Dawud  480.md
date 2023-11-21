@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’id al-khudri said:The Prophet(ﷺ) liked the twigs of the date-palm, an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Hubaib bin Arabi] telah menceritakan kepada kami [Khalid bin Al-Harits] dari [Muhammad bin 'Ajlan] dari ['Iyadl bin Abdullah] dari [Abu Sa'id Al-Khudri] bahwasanya Nabi shallallahu 'alaihi wasallam suka membawa tandan kurma, beliau memegangnya dan masuk Masjid, tiba-tiba dia mendapati dahak di arah kiblat Masjid, maka beliau menggosoknya, kemudian beliau menghadap kepada jama'ah dengan marah seraya bersabda: "Apakah salah seorang di antara kalian suka diludahi mukanya? Sesungguhnya seseorang apabila sedang menghadap kiblat, maka sebenarnya dia sedang menghadap Rabbnya Azza wa Jalla, sedangkan malaikat ada di sebelah kanannya. Karena itu, janganlah berludah ke arah kanannya dan jangan pula ke depannya, akan tetapi berludahlah ke kirinya atau ke bawah kakinya, jika ada sesuatu yang mengharuskannya segera meludah, maka lakukanlah seperti ini." Ibnu Ajlan mempraktekannya, yaitu: beliau meludah ke kainnya, kemudian menggosok-gosokkan sebagiannya terhadap bagian yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>480</td></tr><tr><td>Arabic No</td><td>480</td></tr><tr><td>Reference</td><td>Book 2 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри о том, что Пророк ﷺ любил пальмовую ветку с финиками, и он всегда носил с собой это. Однажды он зашел в мечеть, и увидел на стене мечети, направленной в сторону киблы плевок. Соскоблив его, он повернулся к людям разгневанным и сказал: «Разве обрадует кого-либо из вас то, что кто-то плюнет в его сторону?! Когда кто-то из вас поворачивается в сторону киблы, поистине, он поворачивается к своему Великому и Всемогущему Господу, а ангелы находятся справа от него. Поэтому не плюйте ни вправо (от себя), ни перед собой, а плюйте влево от себя или под свою ногу, а если это его одолеет, пусть делает вот так». И Ибн ‘Аджлян показал нам как это делается, сплюнув (в край) своей одежды и прикрыл плевок другой частью (этого края)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>480</td></tr><tr><td>Arabic No</td><td>480</td></tr><tr><td>Reference</td><td>Book 2 Hadith 90</td></tr></tbody></table></div>
 

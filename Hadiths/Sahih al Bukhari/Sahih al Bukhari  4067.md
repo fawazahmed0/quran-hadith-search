@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:The Prophet (ﷺ) appointed 'Abdullah bin Jubair as 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru bin Khalid] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] dia berkata, aku mendengar [Al Barra' bin 'Azib] radliallahu 'anhuma berkata, "Nabi shallallahu 'alaihi wasallam pernah menjadikan Abdullah bin Jubair sebagai komandan pasukan pejalan kaki pada perang Uhud. Lalu mereka lari berpencar, itulah (peristiwa) ketika Rasul yang berada di antara kawan-kawanmu yang lain menyeru pasukan belakang kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4067</td></tr><tr><td>Arabic No</td><td>4067</td></tr><tr><td>Reference</td><td>Book 64 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «В день битвы при Ухуде Пророк ﷺ поставил ‘Абдуллаха ибн Джубайра во главе пехотинцев. Затем они были разбиты, об этом говорится в аяте: “…тогда как Посланник призывал вас, находясь в последних (ближайших к противнику) рядах…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4067</td></tr><tr><td>Arabic No</td><td>4067</td></tr><tr><td>Reference</td><td>Book 64 Hadith 112</td></tr></tbody></table></div>
 

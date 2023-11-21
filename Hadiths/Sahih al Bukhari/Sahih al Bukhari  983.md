@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:On the day of Nahr Allah's Messenger (ﷺ) delivered
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Al Ahwash] berkata, telah menceritakan kepada kami [Manshur bin Al Mutamir] dari [Asy Sya'bi] dari [Al Bara' bin 'Azib] berkata, "Rasulullah shallallahu 'alaihi wasallam memberikan khutbah pada hari kurban setelah shalat. Beliau katakan: "Barangsiapa shalat seperti shalat kita dan melaksanakan manasik (penyembelihan kurban) seperti kita berarti telah mendapatkan pahala berkurban. Dan barangsiapa menyembelih kurban sebelum shalat maka itu hanyalah kambing yang dinikmati dagingnya." Maka Abu Burdah bin Niyar berdiri dan berkata, "Wahai Rasulullah, aku telah menyembelih sebelum aku keluar untuk shalat, dan aku mengetahui bahwa hari ini adalah hari makan dan minum, aku lalu menyegerakan penyembelihannya, kemudian aku berikan kepada keluarga dan para tetanggaku." Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Itu hanyalah kambing yang dinikmati dagingnya." Abu Burdah bertanya lagi, "Namun aku masih memiliki anak kambing yang lebih baik dari kambing yang telah aku sembelih itu. Apakah dibenarkan kalau aku menyembelihnya?" Beliau menjawab: "Ya. Akan tetapi tidak boleh untuk seorangpun setelah kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>983</td></tr><tr><td>Arabic No</td><td>983</td></tr><tr><td>Reference</td><td>Book 13 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб сказал: «Посланник Аллаха ﷺ в День жертвоприношения обратился к нам с проповедью после молитвы, сказав: “Кто совершил нашу молитву и наше жертвоприношение, тот совершил жертвоприношение. А если кто-то совершил жертвоприношение до молитвы, то эта овца — просто мясо”. Тогда поднялся Абу Бурда ибн Нияр и сказал: “О, Посланник Аллаха! Клянусь Аллахом! Я зарезал животное до того, как пойти на молитву. Я узнал, что сегодня — день еды и питья, и поторопился поесть и накормить членов своей семьи и соседей”. Посланник Аллаха ﷺ сказал: “Эта овца — просто мясо”. Он сказал: “У меня есть годовалая козочка, она даже лучше, чем две овцы. Будет ли моё жертвоприношение действительным, если я принесу в жертву её?” (Посланник Аллаха ﷺ) сказал: “Да, однако такое жертвоприношение не будет действительным ни для кого после тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>983</td></tr><tr><td>Arabic No</td><td>983</td></tr><tr><td>Reference</td><td>Book 13 Hadith 32</td></tr></tbody></table></div>
 

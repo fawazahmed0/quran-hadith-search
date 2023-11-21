@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jundab b. Sufyan reported:I was with Allah's Messenger (ﷺ) on the day of 'Id a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Al Aswad bin Qais]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Al Aswad bin Qais] telah menceritakan kepadaku [Jundab bin Sufyan] dia berkata, "Saya pernah ikut hadir shalat Idul Adlha bersama Rasulullah shallallahu 'alaihi wasallam, tidak lama setelah selesai shalat, beliau melihat daging kurban yang telah disembelih, maka beliau bersabda: "Siapa yang menyembelih hewan kurban sebelum shalat, hendaknya ia mengulanginya sebagai gantinya. Dan siapa yang belum menyembelih hendaknya menyembelih dengan menyebut nama Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5064</td></tr><tr><td>Arabic No</td><td>1960.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5064</td></tr><tr><td>Arabic No</td><td>1960.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 1</td></tr></tbody></table></div>
 

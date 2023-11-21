@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:In the lifetime of the Prophet (ﷺ) the sun eclipsed and the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dan [Hisyam bin 'Urwah] dari ['Urwah] dari ['Aisyah] berkata, "Pernah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam. Maka beliau berdiri melaksanakan shalat bersama orang banyak, beliau memanjangkan bacaan, lalu rukuk dengan memanjangkan rukuk, kemudian mengangkat kepalanya, lalu membaca lagi dengan memanjangkan bacaannya namun tidak sebagaimana panjang bacaan yang pertama. Kemudian beliau rukuk lagi dengan memanjangkan rukuk, namun tidak sepanjang rukuk yang pertama, lalu mengangkat kepalanya kemudian sujud dua kali. Beliau kemudian berdiri kembali dan mengerjakan seperti pada rakaat pertama. Setelah itu beliau bangkit dan bersabda: "Sesungguhnya matahari dan bulan tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang, akan tetapi keduanya adalah dua tanda dari tanda-tanda kebesaran Allah, yang Dia perlihatkan kepada hamba-hambaNya. Jika kalian melihat gerhana keduanya, maka segeralah mendirikan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1058</td></tr><tr><td>Arabic No</td><td>1058</td></tr><tr><td>Reference</td><td>Book 16 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Когда) при жизни Посланника Аллаха ﷺ произошло солнечное затмение, Пророк ﷺ встал и совершил молитву с людьми. Он удлинил чтение (Корана), затем совершил продолжительный поясной поклон; затем он (поднял голову и) прочел длинным чтением, которое было короче первого. Он снова сказал такбир, и поклонился продолжительным поклоном, но более коротким, чем первый. Затем он выпрямился и совершил два земных поклона, затем встал и сделал то же самое во втором рака‘ате. (После молитвы) он встал и сказал: “Поистине, солнце и луна не затмеваются из-за смерти или жизни кого-то, однако они являются знамениями из знамений Аллаха, которые Он показывает Своим рабам, поэтому когда вы видите их, спешите совершать молитву!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1058</td></tr><tr><td>Arabic No</td><td>1058</td></tr><tr><td>Reference</td><td>Book 16 Hadith 17</td></tr></tbody></table></div>
 

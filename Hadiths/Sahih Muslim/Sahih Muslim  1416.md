@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported by 'Auza'i with the same chain of transmitters:We 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>625.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса с другим иснадом он сказал: «Мы закалывали верблюда при жизни Посланника Аллаха ﷺ после послеполуденной молитвы…». И не сказал: «Мы совершали вместе с ним молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>625.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 250</td></tr></tbody></table></div>
 

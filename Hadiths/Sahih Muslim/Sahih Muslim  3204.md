@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:We used to garland the goats and sen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ishaq bin Manshur] Telah menceritakan kepada kami [Abush Shamad] telah menceritakan kepadaku [bapakku] telah menceritakan kepadaku [Muhammad bin Juhadah] dari [Al Hakam] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] ia berkata; "Kami pernah mengalungkan tanda kurban pada kambing kurban Rasulullah shallallahu 'alaihi wasallam, lalu kambing itu dikirimkan ke tanah haram. Sedangkan Rasulullah shallallahu 'alaihi wasallam telah halal dari segala sesuatu (yang sebelumnya dilarang), tidak haram bagi beliau segala itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3204</td></tr><tr><td>Arabic No</td><td>1321.11</td></tr><tr><td>Reference</td><td>Book 15 Hadith 408</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3204</td></tr><tr><td>Arabic No</td><td>1321.11</td></tr><tr><td>Reference</td><td>Book 15 Hadith 408</td></tr></tbody></table></div>
 

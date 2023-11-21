@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "A good dream (that comes 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ishaq bin Abdullah bin Abi Thalhah] dari [Anas bin Malik], Rasulullah Shallallahu'alaihiwasallam bersabda: "Mimpi baik yang berasal dari seorang yang shalih adalah satu bagian dari enam atau empat puluh bagian kenabian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6983</td></tr><tr><td>Arabic No</td><td>6983</td></tr><tr><td>Reference</td><td>Book 91 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Благое сновидение праведного человека является одной из сорока шести частей пророчества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6983</td></tr><tr><td>Arabic No</td><td>6983</td></tr><tr><td>Reference</td><td>Book 91 Hadith 2</td></tr></tbody></table></div>
 

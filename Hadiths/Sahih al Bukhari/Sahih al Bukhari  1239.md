@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:Allah's Messenger (ﷺ) ordered us to do seven thing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari [Al Asy'ats] berkata, aku mendengar [Mu'awiyyah bin Suwaid bin Muqarrin] dari [Al Bara' bin 'Azib radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam memerintahkan kami tentang tujuh perkara dan melarang kami dari tujuh perkara pula. Beliau memerintahkan kami untuk; mengiringi jenazah, menjenguk orang yang sakit, memenuhi undangan, menolong orang yang dizhalimi, berbuat adil dalam pembagian, menjawab salam dan mendoakan orang yang bersin. Dan Beliau melarang kami dari menggunakan bejana terbuat dari perak, memakai cincin emas, memakai kain sutera kasar, sutera halus, baju berbordir sutera dan sutera tebal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1239</td></tr><tr><td>Arabic No</td><td>1239</td></tr><tr><td>Reference</td><td>Book 23 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Пророк ﷺ велел нам делать семь (вещей) и запретил нам семь (других). Он велел нам провожать погребальные носилки, навещать больного, принимать приглашения, помогать притесняемому, выполнять клятвы, отвечать на приветствия и произносить благопожелание чихнувшему. И он запретил нам пользоваться серебряной посудой, носить золотые кольца, шёлковую одежду, чистый шёлк, касси и истабрак»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1239</td></tr><tr><td>Arabic No</td><td>1239</td></tr><tr><td>Reference</td><td>Book 23 Hadith 3</td></tr></tbody></table></div>
 

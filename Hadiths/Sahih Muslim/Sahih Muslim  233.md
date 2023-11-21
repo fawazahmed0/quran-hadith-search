@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Abu Huraira that the Messenger of Allah (may 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Salamah al-Muradi] telah menceritakan kepada kami [Abdullah bin Wahab] dari [Amru bin al-Harits]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepadaku [Amru bin Sawwad] telah mengabarkan kepadaku [Abdullah bin Wahab] telah mengabarkan kepadaku [Amru bin al-Harits] bahwa [Abu Yunus] mantan budak Abu Hurairah, telah menceritakan kepadanya dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Tidaklah Allah menurunkan dari langit sebagian keberkahan melainkan sebagian manusia menjadi kafir. Allah menurunkan hujan, maka mereka berkata, 'Bintang ini dan bintang itu (menyebabkan hujan)." Sedangkan dalam hadits [al-Muradi], "Disebabkan oleh bintang ini dan itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>233</td></tr><tr><td>Arabic No</td><td>72.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда бы Аллах не ниспосылал с неба дождь, группа людей обязательно проявляет неверие (относительно него). Аллах ниспосылает дождь, а они говорят: “(Это благодаря) такой-то и такой-то звезде”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>233</td></tr><tr><td>Arabic No</td><td>72.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 139</td></tr></tbody></table></div>
 

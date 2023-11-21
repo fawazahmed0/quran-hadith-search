@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "O Allah! Forgive those who g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada kami [Muhammad bin Fudhail] telah menceritakan kepada kami ['Umarah bin Al Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Allah, ampunilah orang-orang yang mencukur rambutnya". Orang-orang berkata: "Dan juga bagi orang-orang yang hanya memendekkan rambutnya?". Beliau tetap berkata: "Ya Allah, ampunilah orang-orang yang mencukur rambutnya". Beliau mengucapkannya hingga tiga kali, baru kemudian bersabda: Dan juga orang-orang yang hanya memendekkan rambutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 25 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(После завершения обрядов хаджа) Посланник Аллаха ﷺ сказал: “О Аллах, прости сбривших волосы”. (Люди) сказали: “(Обратись с мольбой) и за укоротивших”. (Пророк ﷺ снова) сказал: “О Аллах, прости сбривших волосы”. (Люди) сказали: “(Обратись с мольбой) и за укоротивших”. И он повторил это трижды, (после чего) сказал: “И (прости) укоротивших”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 25 Hadith 206</td></tr></tbody></table></div>
 

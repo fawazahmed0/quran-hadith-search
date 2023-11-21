@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:My father saw 'Amr bin Abi Hasan asking 'Abdullah bin Zaid about t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] berkata, telah menceritakan kepada kami [Wuhhaib] dari ['Amru] dari [Bapaknya] berkata, "Aku pernah menyaksikan 'Amru bin Abu Hasan bertanya kepada ['Abdullah bin Zaid] tentang wudlunya Nabi shallallahu 'alaihi wasallam. Lalu ia minta diambilkan satu gayung air, kemudian ia memperlihatkan kepada mereka cara wudlu Nabi shallallahu 'alaihi wasallam. Ia menuangkan air dari gayung ke telapak tangannya lalu mencucinya tiga kali, kemudian memasukkan tangannya ke dalam gayung, lalu berkumur-kumur, lalu memasukkan air ke hidung lalu mengeluarkannya kembali dengan tiga kali cidukan, kemudian memasukkan tangannya ke dalam gayung, lalu membasuh mukanya tiga kali, kemudian membasuh kedua tangannya dua kali sampai ke siku. Kemudian memasukkan tangannya ke dalam gayung, lalu mengusap kepalanya dengan tangan; mulai dari bagian depan ke belakang dan menariknya kembali sebanyak satu kali, lalu membasuh kedua kakinya hingga mata kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>186</td></tr><tr><td>Arabic No</td><td>186</td></tr><tr><td>Reference</td><td>Book 4 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Амра, передавшего от своего отца: «Я был свидетелем, когда ‘Амр ибн Аби Хасан спросил ‘Абдуллаха ибн Зейда об омовении Пророка ﷺ. (‘Абдуллах ибн Зейд) велел принести тазик с водой, совершил для них омовение Пророка ﷺ: он слил воду себе на руки и трижды вымыл их, потом опустил руку в тазик и трижды прополоснул рот и высморкался (и сделал это) из одной пригоршни, потом снова опустил руку (в тазик) и зачерпнув (воду) омыл лицо трижды, потом дважды омыл руки до локтей, потом опустил руку (в тазик) и протёр руками голову один раз, проведя ими ото лба до затылка и вернув обратно к тому месту, откуда начал, а потом омыл ноги до лодыжек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>186</td></tr><tr><td>Arabic No</td><td>186</td></tr><tr><td>Reference</td><td>Book 4 Hadith 52</td></tr></tbody></table></div>
 

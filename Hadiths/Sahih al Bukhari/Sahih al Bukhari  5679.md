@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rubai bint Mu'adh bin Afra:We used to go for Military expeditions along
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Bisyr bin Al Mufadlal] dari [Khalid bin Dzakwan] dari [Rubayyi' binti Mu'awwidz bin 'Afra'] dia berkata; Kami pernah ikut perang bersama Nabi shallallahu 'alaihi wasallam, kami bertugas memberi minum kepada pasukan dan membantu menyiapkan keperluan mereka, serta ikut membawa orang-orang yang gugur dan yang terluka ke Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5679</td></tr><tr><td>Arabic No</td><td>5679</td></tr><tr><td>Reference</td><td>Book 76 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ар-Рубаййи‘ бинт Му‘аввиз ибн ‘Афра сказала: «Обычно мы принимали участие в военных походах вместе с Посланником Аллаха ﷺ, принося (воинам) воду, помогая им и доставляя убитых и раненых в Медину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5679</td></tr><tr><td>Arabic No</td><td>5679</td></tr><tr><td>Reference</td><td>Book 76 Hadith 2</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:The Prophet (ﷺ) said, "If somebody claims to be the son of a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Ma'mar] telah bercerita kepada kami ['Abdul Warits] dari [Al Husain] dari ['Abdullah bin Buraidah] berkata, telah bercerita kepadaku [Yahya bin Ya'mar] bahwa [Abu Al Aswad ad-Dayliy] bercerita kepadanya dari [Abu Dzarr radliallahu 'anhu] bahwa dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang mengaku (sebagai anak) dari bukan bapaknya padahal dia mengetahuinya melainkan telah kafir dan siapa yang mengaku dirinya berasal dari suatu kaum padahal dia bukan dari kaum itu maka bersiaplah menempati tempat duduknya di neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3508</td></tr><tr><td>Arabic No</td><td>3508</td></tr><tr><td>Reference</td><td>Book 61 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Зарра, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «Любой (человек), который объявляет себя сыном не своего отца, зная, что (на самом деле) это (не так), обязательно является неверным, что же касается заявляющего о своей принадлежности к тому народу, с людьми которого у него нет родственных связей, то пусть он (приготовится) занять своё место в огне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3508</td></tr><tr><td>Arabic No</td><td>3508</td></tr><tr><td>Reference</td><td>Book 61 Hadith 18</td></tr></tbody></table></div>
 

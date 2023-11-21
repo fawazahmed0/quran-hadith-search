@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported Allah's Messenger (ﷺ) liked sweet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala'] dan [Harun bin Abdullah] keduanya berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [ayahnya] dari [Aisyah] dia berkata; Bahwa Rasulullah shallallahu 'alaihi wasallam menyukai manisan dan madu, jika beliau selesai Shalat Ashar, beliau biasa berkeliling ke rumah para istrinya lalu mampir sebentar, suatu ketika beliau mampir di rumah Hafshah, dan berhenti di situ lebih lama dari biasanya, lantas saya bertanya mengenai apa yang terjadi, dikatakan kepadaku, ternyata seorang wanita dari kaumnya telah memberikan semangkuk madu, lalu dia (Hafshah) menuangkan seteguk kepada Rasulullah shallallahu 'alaihi wasallam, saya pun berkata; Demi Allah, saya akan menggodanya. Kemudian saya memberi tahu Saudah, saya berkata; Jika beliau masuk menemuimu, sebab sebentar lagi beliau akan mampir (di rumahmu), maka katakanlah kepadanya; Wahai Rasulullah, apakah anda habis makan buah maghafir? Pasti beliau nanti akan bilang tidak. Lalu katakan lagi kepadanya; Lalu bau apakah ini? Biasanya beliau sangat tidak suka jika mendapati bau, nanti beliau akan mengatakan kepadamu; Hafshah telah menuangkan untukku seteguk madu, lalu katakanlah kepada beliau; Lebahnya makan buah 'urfuth (sejenis pohon dengan buah yang berbau tidak sedap). Maka saya akan mengatakan seperti itu kepada beliau, dan kamu juga wahai Shafiyah. Ketika beliau masuk ke rumah Suadah, Saudah berkata; Demi Dzat yang tidak ada ilah yang berhak disembah selain Dia, hampir saja saya mengungkapkan apa yang kamu (Aisyah) katakan kepadaku karena saya takut kepadamu, ketika Rasulullah shallallahu 'alaihi wasallam baru sampai di depan pintu, tatkala Rasulullah shallallahu 'alaihi wasallam mendekat, dia mengatakan; Wahai Rasulullah, apakah anda habis makan buah Maghair? Beliau menjawab: "Tidak." Dia melanjutkan; Lantas, bau apakah ini? Beliau menjawab: "Hafshah telah menuangkan untukku seteguk madu." Dia melajutkan; Lebahnya makan urfuth. Tatkala beliau menemuiku, saya pun mengatakan seperti itu, kemudian beliau masuk ke rumah Shafiyah, maka Shafiyah pun mengatakan dengan hal yang sama. Tatkala beliau masuk ke rumah Hafshah, dia berkata; Wahai Rasulullah, apakah saya perlu menuangkan madu lagi? Beliau menjawab: "Tidak, saya tidak membutuhkan lagi." Dia (Aisyah) berkata; Kemudian Saudah berkata; Subhanallah, demi Allah, sungguh kita telah mengharamkannya. Dia (Aisyah) berkata; Saya berkata kepadanya; Diamlah kamu! Abu Ishaq Ibrahim berkata; Telah menceritakan kepada kami Al Hasan bin Bisyr bin Al Qasim telah menceritakan kepada kami Abu Usamah dengan hadits seperti ini, dan telah menceritakan kepadaku [Suwaid bin Sa'id] telah menceritakan kepada kami [Ali bin Mushir] dari [Hisyam bin 'Urwah] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3679</td></tr><tr><td>Arabic No</td><td>1474.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3679</td></tr><tr><td>Arabic No</td><td>1474.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 28</td></tr></tbody></table></div>
 

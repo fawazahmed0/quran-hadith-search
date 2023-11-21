@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':"The Prophet (ﷺ) used to make his she-camel sit across and he w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar Al Muqaddami] telah menceritakan kepada kami [Mu'tamir] dari ['Ubaidullah bin 'Umar] dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau pernah menambatkan tunggangannya lalu shalat menghadap ke arahnya." Aku (Nafi') berkata, 'Apakah kamu pernah melihat bahwa tunggangannya itu berjalan pergi? ' Ibnu 'Umar menjawab, 'Beliau ambil tali pelananya lalu meletakkannya di depannya, kemudian shalat menghadap ke arahnyanya.' Dan Ibnu 'Umar juga pernah melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>507</td></tr><tr><td>Arabic No</td><td>507</td></tr><tr><td>Reference</td><td>Book 8 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нафи‘ передал со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Пророк ﷺ часто опускал на землю перед собой свою верблюдицу и молился, обратившись к ней лицом. (Нафи‘ сказал): «Я спросил (Ибн ‘Умара): “Скажи, а если верблюдица убежит?” Он ответил: “(В таких случаях Пророк ﷺ) брал седло, устанавливал его и молился, обращаясь лицом к его задней части”. И точно так же поступал Ибн ‘Умар, да будет доволен им Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>507</td></tr><tr><td>Arabic No</td><td>507</td></tr><tr><td>Reference</td><td>Book 8 Hadith 154</td></tr></tbody></table></div>
 

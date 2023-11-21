@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "Take Suhur as there is a blessi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Abdul 'Aziz bin Shuhaib] berkata, aku mendengar [Anas bin Malik radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Bersahurlah kalian, karena didalam sahur ada barakah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1923</td></tr><tr><td>Arabic No</td><td>1923</td></tr><tr><td>Reference</td><td>Book 30 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса бин Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Ешьте перед рассветом, ибо в сухуре благодать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1923</td></tr><tr><td>Arabic No</td><td>1923</td></tr><tr><td>Reference</td><td>Book 30 Hadith 32</td></tr></tbody></table></div>
 

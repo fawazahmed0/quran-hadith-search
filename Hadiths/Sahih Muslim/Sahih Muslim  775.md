@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id al-Khudri narrated it from his father:I went to Quba' with the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya], [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] Yahya bin Yahya berkata, telah mengabarkan kepada kami, sedangkan dua orang yang lainnya berkata, telah menceritakan kepada kami [Ismail yaitu Ibnu Ja'far] dari [Syarik yaitu Ibnu Abi Namir] dari [Abdurrahman bin Abi Sa'id al-Khudri] dari [bapaknya] dia berkata, "Aku keluar bersama Rasulullah shallallahu 'alaihi wasallam pada hari Senin ke Quba' hingga kita berada pada Bani Salim, maka Rasulullah shallallahu 'alaihi wasallam berhenti pada pintu Itban, lalu berteriak di sampingnya, maka dia keluar dengan menyeret sarungnya. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda, 'Kami telah membuat tergesa seorang laki-laki.' Maka Itban berkata, 'Wahai Rasulullah, apa pendapatmu terhadap seorang laki-laki yang ditimpa sesuatu sehingga mengharuskannya bersegera meninggalkan istrinya, sedangkan dia belum mengeluarkan mani, apa yang harus dilakukannya? ' Rasulullah shallallahu 'alaihi wasallam bersabda, ' air (mandi wajib) itu disebabkan karena (keluarnya) air mani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>775</td></tr><tr><td>Arabic No</td><td>343.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Аби Са‘ид аль-Худри передал, что его отец сказал: «В понедельник я отправился в Кубу вместе с Посланником Аллаха ﷺ. Когда мы добрались до (жилищ племени) бану салим, Посланник Аллаха ﷺ остановился у дверей (дома) ‘Итбана и громко позвал (его). Спустя некоторое время тот (быстрым шагом) вышел (из дома), волоча за собой свой изар и Посланник Аллаха ﷺ сказал: “Мы поторопили этого человека”. ‘Итбан спросил: “О Посланник Аллаха ﷺ, скажи, что должен сделать мужчина, которого поторопят, когда он будет (спать) с женой, если он не успеет извергнуть семя?” Посланник Аллаха ﷺ сказал: “Для (очищения) от жидкости (следует использовать) воду”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>775</td></tr><tr><td>Arabic No</td><td>343.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 97</td></tr></tbody></table></div>
 

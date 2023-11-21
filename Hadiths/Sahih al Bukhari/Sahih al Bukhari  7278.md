@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Zaid bin Khalid:We were with the Prophet (ﷺ) when he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Az Zuhri] dari [Ubaidullah] dari [Abu Hurairah] dan [Zaid bin Khalid] ia berkata, "Pernah kami di sisi Nabi shallallahu 'alaihi wasallam, lantas beliau bersabda: "Sungguh, aku akan putuskan kalian berdua dengan kitabullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7278</td></tr><tr><td>Arabic No</td><td>7278</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра и Зейд ибн Халид, да будет доволен Аллах ими обоими, передают: «Однажды мы находились возле Пророка ﷺ и он сказал: “Я обязательно рассужу вас согласно Книге Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7278</td></tr><tr><td>Arabic No</td><td>7278</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

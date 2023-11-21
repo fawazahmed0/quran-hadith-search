@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya:We entwined the hair of the dead daughter of the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Hisyam] dari [Ummu Al Hudzail] dari [Ummu 'Athiyyah radliallahu 'anha] berkata: "Kami menjalin (rambut) keala putri Nabi shallallahu 'alaihi wasallam menjadi tiga ikatan (kepang) ". Berkata, [Waki'] berkata, [Sufyan]: "Diikat kepang dan diketakkan di belakangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1262</td></tr><tr><td>Arabic No</td><td>1262</td></tr><tr><td>Reference</td><td>Book 23 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыйя, да будет доволен ею Аллах, сказала: «Мы заплели волосы дочери Пророка ﷺ», то есть: в три косы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1262</td></tr><tr><td>Arabic No</td><td>1262</td></tr><tr><td>Reference</td><td>Book 23 Hadith 23</td></tr></tbody></table></div>
 

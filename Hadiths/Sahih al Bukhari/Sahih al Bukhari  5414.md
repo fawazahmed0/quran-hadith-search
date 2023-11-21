@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:that he passed by a group of people in front of whom there 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Ibrahim] Telah mengabarkan kepada kami [Rauh bin Ubadah] Telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Sa'id Al Maqburi] dari [Abu Hurairah] radliallahu 'anhu, bahwa suatu ketika ia melewati suatu kaum yang dihadapan mereka terdapat seekor kambing yang telah terpanggang. Lalu mereka pun mengundangnya, namun ia enggan untuk memakan daging kambing tersebut. Dan Abu Hurairah pun berkata, "Rasulullah shallallahu 'alaihi wasallam meninggalkan dunia ini, namun beliau belum pernah kenyang memakan roti yang terbuat dari gandum lembut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5414</td></tr><tr><td>Arabic No</td><td>5414</td></tr><tr><td>Reference</td><td>Book 70 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды какие-то) люди, перед которыми лежала жареная баранина, пригласили (поесть с ними) проходившего мимо Абу Хурайру, да будет доволен им Аллах, однако он отказался от еды, сказав: «Посланник Аллаха ﷺ покинул мир этот, так и не наевшись досыта (даже) ячменного хлеба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5414</td></tr><tr><td>Arabic No</td><td>5414</td></tr><tr><td>Reference</td><td>Book 70 Hadith 42</td></tr></tbody></table></div>
 

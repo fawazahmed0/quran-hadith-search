@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:That he heard the Prophet (ﷺ) recite in both rak'ahs of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin As Shabbah bin Sufyan] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Utsman bin Umar yaitu Ibnu Musa] dari [Abu Al Ghaits] dari [Abu Hurairah] bahwa dia mendengar Nabi shallallahu 'alaihi wasallam membaca dalam dua raka'at fajar dengan; "Katakanlah: "Kami beriman kepada Allah dan kepada apa yang diturunkan kepada kami…" QS Ali Imran; 84, ayat ini beliau baca di raka'at pertama, sedangkan di raka'at kedua, beliau membaca dengan ayat ini; "Ya Tuhan kami, kami Telah beriman kepada apa yang Telah Engkau turunkan dan Telah kami ikuti rasul, Karena itu masukanlah kami ke dalam golongan orang-orang yang menjadi saksi (tentang keesaan Allah) " (QS Ali Imran; 53) atau membaca; "Sesungguhnya kami Telah mengutusmu (Muhammad) dengan kebenaran; sebagai pembawa berita gembira dan pemberi peringatan, dan kamu tidak akan diminta (pertanggungan jawab) tentang penghuni-penghuni neraka Jahannam." (QS Al Baqarah; 119) -Ad Darawardi ragu mengenai redaksi hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1260</td></tr><tr><td>Arabic No</td><td>1260</td></tr><tr><td>Reference</td><td>Book 5 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что он слышал, как Пророк ﷺ читал в двух рак‘атах перед утренней молитвой «Скажи: “Мы уверовали в Аллаха и в то, что ниспослано нам…”» в первом рак‘ате и «Господь наш! Мы уверовали в то, что Ты ниспослал, и последовали за посланником. Запиши же нас вместе с засвидетельствовавшими (истину)» (сура “аль-‘Имран”, аят 53) или «Мы отправили тебя с истиной добрым вестником и предостерегающим увещевателем, и ты не будешь спрошен об обитателях Ада» (сура “аль-Бакара”, аят 119) во втором. Передатчик ад-Дараварди сомневался
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1260</td></tr><tr><td>Arabic No</td><td>1260</td></tr><tr><td>Reference</td><td>Book 5 Hadith 11</td></tr></tbody></table></div>
 

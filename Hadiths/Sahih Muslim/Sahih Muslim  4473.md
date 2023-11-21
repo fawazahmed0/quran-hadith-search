@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama, the wife of Allah's Apostle (ﷺ), reported that Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Zainab binti Salamah] dari [Ummu Salamah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalian mengadukan perkara kepadaku (karena minta diadili), mungki salah satu pihak lebih pandai memberikan alasannya dari pada yang lain, lalu aku putuskan perkaranya sesuai dengan yang aku dengar, jika aku memberi putusan dengan mengorbankan hak saudaranya maka janganlah ia ambil, sesungguhnya aku telah memberinya potongan api neraka." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Numair] keduanya dari [Hisyam] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4473</td></tr><tr><td>Arabic No</td><td>1713.03</td></tr><tr><td>Reference</td><td>Book 30 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4473</td></tr><tr><td>Arabic No</td><td>1713.03</td></tr><tr><td>Reference</td><td>Book 30 Hadith 6</td></tr></tbody></table></div>
 

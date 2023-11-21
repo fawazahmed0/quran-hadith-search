@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubadah ibn as-Samit: Ibn Muhayriz said: A man from Banu Kinanah, named 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi] dari [Malik] dari [Yahya bin Sa'id] dari [Muhammad bin Yahya bin Habban] dari [Ibnu Muhairiz] bahwa seorang laki-laki dari Bani Kinanah yang dipanggil Al Makhdaji telah mendengar seorang laki-laki di Syam yang dipanggil Abu Muhammad berkata; sesungguhnya shalat witir adalah wajib. [Al Makhdaji] berkata; kemudian aku pergi kepada 'Ubadah bin Ash Shamid dan mengabarkan hal tersebut kepadanya. ['Ubadah] berkata; Abu Muhammad telah berdusta, aku telah mendengar Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Lima shalat, telah Allah wajibkan bagi para hamba, barang siapa yang melakukannya dan tidak memenyia-nyiakan sedikitpun darinya karena meremehkan haknya maka baginya di sisi Allah sebuah perjanjian untuk Allah masukkan dirinya ke dalam Surga. Sedangkan orang yang tidak melaksanakannya maka ia tidak memiliki perjanjian di sisi Allah, apabila Allah menghendaki maka Dia akan menyiksanya aan apabila menghendaki maka Allah akan memasukkannya ke dalam Surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1420</td></tr><tr><td>Arabic No</td><td>1420</td></tr><tr><td>Reference</td><td>Book 8 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Мухайриз передаёт от одного человека из бану кинана, прозванного аль-Мухдаджи: «Один человек из Шама по имени Абу Мухаммад сказал, что витр является обязательной молитвой, и я пошёл к ‘Убаде ибн ас-Самиту и передал ему эти слова, а ‘Убада ибн ас-Самит сказал ему: “Лжёт Абу Мухаммад! Я слышал, как Посланник Аллаха ﷺ сказал: “Аллах сделал обязательными пять молитв, и кто совершит их, не упустив ничего из них из пренебрежения к ним, тому Аллах обещал ввести его в Рай. А кто не сделает этого, тому Аллах ничего не обещает: если Он пожелает, то подвергнет его наказанию, а если пожелает, то введёт его в Рай””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1420</td></tr><tr><td>Arabic No</td><td>1420</td></tr><tr><td>Reference</td><td>Book 8 Hadith 5</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:I came riding on a she-ass, and I was on the threshold of ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, "Saya membaca di hadapan [Malik] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] dia berkata, "Aku pernah datang kepada Rasulullah shallallahu'alaihiwasallam, dengan mengendarai keledai betina, ketika itu aku hampir baligh. Waktu itu Rasulullah shallallahu'alaihiwasallam sedang mengimami shalat orang banyak di Mina. Lalu aku lewat di muka shaf, lalu aku turun, lalu aku mengirim pergi keledai betina tersebut untuk merumput. Kemudian aku masuk ke dalam shaf; ternyata tidak ada seorang pun yang menegurku atas tindakanku yang demikian itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1124</td></tr><tr><td>Arabic No</td><td>504.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 286</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Однажды, незадолго до своего совершеннолетия я приехал верхом на ослице в Мину, где Посланник Аллаха ﷺ в это время совершал с людьми молитву. И я прошёл перед рядом (молившихся), слез и отпустил ослицу пастись, а потом занял своё место в ряду, и никто не высказал мне за это порицания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1124</td></tr><tr><td>Arabic No</td><td>504.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 286</td></tr></tbody></table></div>
 

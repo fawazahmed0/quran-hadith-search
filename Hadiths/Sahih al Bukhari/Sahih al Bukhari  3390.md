@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "The honorable, the son of the honora
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepadaku ['Abdah] telah bercerita kepada kami ['Abdush Shamad] dari ['Abdur Rahman] dari [bapaknya] dari [Ibnu 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Orang yang mulia putra dari orang yang mulia putra dari orang yang mulia putra dari orang yang mulia adalah Yusuf bin Ya'qub bin Ishaq bin Ibrahim ASm
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3390</td></tr><tr><td>Arabic No</td><td>3390</td></tr><tr><td>Reference</td><td>Book 60 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Благородным, сыном благородного, сына благородного, сына благородного (был) Йусуф ибн Йа‘куб ибн Исхак ибн Ибрахим, мир им»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3390</td></tr><tr><td>Arabic No</td><td>3390</td></tr><tr><td>Reference</td><td>Book 60 Hadith 64</td></tr></tbody></table></div>
 

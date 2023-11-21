@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Fatima bint Qais (Allah be pleased with her) reported that she had been married 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hasan bin Ali Al Hulwani] dan [Abd bin Humaid] semuanya dari [Ya'qub bin Ibrahim bin Sa'ad] telah menceritakan kepada kami [Ayahku] dari [Shalih] dari [Ibnu Syihab] bahwasannya [Abu Salamah bin Abdurrahman bin 'Auf] telah mengabarkan kepadanya, bahwa [Fathimah binti Qais] telah mengabarkan kepadanya, bahwa dirinya pernah menjadi istri Abu 'Amru bin Hafsh bin Mughirah, kemudian dia menceraikan istrinya yang terakhir kali dengan talak tiga, lalu dia (istrinya) berniat akan mendatangi Rasulullah shallallahu 'alaihi wasallam untuk meminta fatwa tentang apakah dia boleh keluar dari rumahnya (karena merasa tidak aman). Kemudian Rasulullah shallallahu 'alaihi wasallam menyuruhnya untuk tinggal di rumah Ibnu Ummi Maktum yang buta. Akan tetapi Marwan menolak membenarkan berita tentang wanita yang ditalak tiga diperbolehkan keluar meninggalkan rumahnya. 'Urwah berkata; Sesungguhnya 'Aisyah mengingkari hal itu terjadi pada Fathimah binti Qais. Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Hujain] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dengan isnad yang seperti ini, dengan perkataannya 'Urwah; "Bahwa 'Aisyah mengingkari hal itu terjadi pada diri Fathimah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>1480.06</td></tr><tr><td>Reference</td><td>Book 18 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>1480.06</td></tr><tr><td>Reference</td><td>Book 18 Hadith 50</td></tr></tbody></table></div>
 

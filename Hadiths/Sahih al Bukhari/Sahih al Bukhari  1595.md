@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "As if I were looking at him, a blac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ali] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami ['Ubaidullah bin Al Akhnas] telah menceritakan kepada saya [Ibnu Abu Mulaikah] dari [Ibnu 'Abbas radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "(Seakan akan aku melihat orang yang akan menghancuirkan Ka'bah), dia orang yang berkulit hitam dan renggang antara kedua kakinya dan dia mengangkat batunya satu persatu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1595</td></tr><tr><td>Arabic No</td><td>1595</td></tr><tr><td>Reference</td><td>Book 25 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Я будто (воочию вижу) его — чёрного (человека) с широко расставленными ногами, который выламывает (из Каабы) камень за камнем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1595</td></tr><tr><td>Arabic No</td><td>1595</td></tr><tr><td>Reference</td><td>Book 25 Hadith 81</td></tr></tbody></table></div>
 

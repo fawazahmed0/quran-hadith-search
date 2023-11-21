@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha the wife of Allah's Apostle (ﷺ), reported that one day Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahab] telah mengkhabarkan kepadaku [Abu Shakr] dari [Ibnu Qusaith] telah menceritakan kepadanya bahwa [Urwah] telah menceritakan kepadanya bahwa [Aisyah], istri nabi Shallallahu 'alaihi wa Salam, telah menceritakan kepadanya bahwa Rasulullah Shallallahu 'alaihi wa Salam keluar dari kediamannya pada suatu malam. Aisyah berkata: Aku merasa cemburu pada beliau lalu beliau datang dan aku melihat yang beliau lalukan. Beliau bertanya: "Kau kenapa, wahai Aisyah?" aku menjawab: Orang sepertiku mengapa tidak menyemburui orang seperti Tuan? Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Apa setanmu mendatangimu?" Aisyah bertanya: Waha Rasulullah, apakah ada setan menyertaiku? Beliau menjawab: "Ya." Aisyah bertanya: Juga menyertai semua manusia? Beliau menjawab: "Ya." Ia bertanya: Menyertai Tuan juga? Beliau menjawab: "Ya, hanya saja Rabbku menolongku mengalahkannya hingga ia masuk Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7110</td></tr><tr><td>Arabic No</td><td>2815</td></tr><tr><td>Reference</td><td>Book 52 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7110</td></tr><tr><td>Arabic No</td><td>2815</td></tr><tr><td>Reference</td><td>Book 52 Hadith 64</td></tr></tbody></table></div>
 

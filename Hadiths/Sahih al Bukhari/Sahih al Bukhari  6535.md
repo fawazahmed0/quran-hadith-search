@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "The believers, after
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Shalat bin Muhammad] telah menceritakan kepada kami [Yazid bin Zurai'] perihal firman Allah: 'dan kami cabut kedengkian yang berada di dada mereka' (QS. Alhijr 47) ia menuturkan, telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Abu Mutawakkil An Naji], bahwasanya [Abu sa'id Al Khudzri] radhilayyahu'anhu mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang mukmin selamat dari neraka, kemudian dihisab diatas jembatan antara surga dan neraka, sehingga kezhaliman sesama mereka di dunia diqisas satu sama lainnya, sehingga jika mereka telah bersih dan suci, mereka dipersilahkan masuk surga, Demi Dzat yang jiwaku berada di Tangan-Nya, sungguh mereka lebih kenal hunian mereka di surga, daripada mereka kenal terhadap huniannya ketika di dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6535</td></tr><tr><td>Arabic No</td><td>6535</td></tr><tr><td>Reference</td><td>Book 81 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда верующие спасутся от огня, они будут остановлены на мосту между Раем и Адом, где (люди) взыщут друг с друга за те несправедливости, которым (они подвергались) в этом мире; когда же они будут очищены и избавлены (от грехов), им позволят войти в Рай, и клянусь Тем, в Чьей длани душа Мухаммада, каждый из них найдёт своё жилище в Раю легче, чем он находил свой дом в мире этом!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6535</td></tr><tr><td>Arabic No</td><td>6535</td></tr><tr><td>Reference</td><td>Book 81 Hadith 124</td></tr></tbody></table></div>
 

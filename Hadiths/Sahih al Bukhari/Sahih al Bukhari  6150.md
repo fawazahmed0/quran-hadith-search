@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Hassan bin Thabit asked the permission of Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah menceritakan kepada kami ['Abdah] telah mengabarkan kepada kami [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] radliallahu 'anha dia berkata; "Hasan bin Tsabit pernah meminta izin kepada Rasulullah shallallahu 'alaihi wasallam untuk mengejek kaum Musyrikin (Quraisy), lalu beliau bersabda: "Tapi bagaimana dengan nasab (keturunan) ku?" Hasan berkata; "Aku pasti akan mengeluarkan (menyelamatkan) tuan dari mereka sebagaimana rambut dikeluarkan dari adonan tepung." Dan dari Hisyam bin 'Urwah dari Ayahnya dia berkata; "Aku pernah pergi untuk mencela Hasan di hadapan Aisyah, maka dia berkata; "Jangan kamu mencelanya, karena dia pernah menyelamatkan (melindungi) Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>6150</td></tr><tr><td>Reference</td><td>Book 78 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что однажды Хассан ибн Сабит попросил Посланника Аллаха ﷺ разрешить ему высмеивать (в рифмованной форме) многобожников. Посланник Аллаха ﷺ сказал: «А как же мои родственники?», на что Хассан ответил: «Я извлеку тебя из их числа подобно тому, как извлекают волосок из теста».\nОт Абу Хишама сообщается, что он сказал: «Как-то начал я ругать Хассана в присутствии ‘Аиши, да будет доволен ею Аллах, на что она сказала: “Не ругай его, ибо он защищал Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>6150</td></tr><tr><td>Reference</td><td>Book 78 Hadith 176</td></tr></tbody></table></div>
 

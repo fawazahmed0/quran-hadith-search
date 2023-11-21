@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama reported it on the authority of Abu Huraira that the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1542</td></tr><tr><td>Arabic No</td><td>675.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 375</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что в течение месяца Пророк ﷺ обращался (к Аллаху) после поясного поклона и слов: «Да услышит Аллах тех, кто воздал Ему хвалу» /Cами‘а-Ллаху ли-ман хамида-ху/, со словами: «О Аллах, спаси аль-Валида ибн аль-Валида! О Аллах, спаси Саляму ибн Хишама! О Аллах, спаси ‘Айяша ибн Абу Раби‘у! О Аллах, спаси слабых из числа верующих! О Аллах, подвергни суровому наказанию (людей из племён) мудар и сделай так, чтобы для них оно продолжалось столько же, сколько лет (длилась засуха) во времена Юсуфа!» Абу Хурайра сказал: «Затем я увидел, что Посланник Аллаха ﷺ перестал взывать с этой мольбой, и сказал: “Я вижу, что Посланник Аллаха ﷺ перестал взывать с этой мольбой за них”. На что мне ответили: “Разве ты не видишь, что они уже прибыли (из Мекки в Медину)?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1542</td></tr><tr><td>Arabic No</td><td>675.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 375</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah b. 'Amr:The Prophet (ﷺ) as saying: If a man takes an oath of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isa bin Yunus] berkata, telah menceritakan kepada kami [Al A'masy] dari [Zaid bin Wahb] dari ['Abdurrahman bin Abdu Rabbil Ka'bah] dari [Abdullah bin Amru] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa membaiat seorang imam, ia jabat tangannya dan menyerahkan keikhlasan hatinya (untuk setia), maka hendaklah ia berikan hak ketaatan padanya semampu mungkin. Jika ada pihak lain yang ingin mengambil kekuasaannya hendaklah ia penggal lehernya." Aku (perawi) bertanya, "Apakah engkau benar-benar mendengarnya dari Rasulullah shallallahu 'alaihi wasallam?" Abdullah bin Amru menjawab: "Kedua telingaku mendengarnya dan hatiku mengingatnya." Aku berkata, "Sepupumu ini (Mu'awiyah), memerintahkan kami untuk melakukan begini dan begini?" ia menjawab, "Taatilah ia dalam ketaatan kepada Allah, dan ingkarilah dalam kemaksiatan kepada-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1844)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4248</td></tr><tr><td>Arabic No</td><td>4248</td></tr><tr><td>Reference</td><td>Book 37 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн ‘Абд Рабби-ль-Ка‘ба передаёт от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Пророк ﷺ сказал: “Кто присягнул имаму, протянул ему руку свою и вручил ему плод сердца своего, тот должен повиноваться ему, насколько сможет, а если появится другой и начнёт оспаривать у него власть, рубите этому другому голову”. Я спросил (‘Абдуллаха): “Ты слышал это от Посланника Аллаха ﷺ?” Он ответил: “Слышали это уши мои, и усвоило сердце моё”. Я сказал: “Вот сын дяди твоего, Му‘авия (ибн Абу Суфьян), (в своё время) велел нам делать то-то и то-то…” Он сказал: “Подчиняйся ему в том, что является покорностью Аллаху, и не слушайся его в том, что является ослушанием Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1844)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4248</td></tr><tr><td>Arabic No</td><td>4248</td></tr><tr><td>Reference</td><td>Book 37 Hadith 9</td></tr></tbody></table></div>
 

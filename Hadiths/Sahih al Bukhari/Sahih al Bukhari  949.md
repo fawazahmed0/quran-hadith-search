@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) (p.b.u.h) came to my house while two girl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Isa] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepada kami ['Amru] bahwa [Muhammad bin 'Abdurrahman Al Asadi] menceritakan kepadanya dari ['Urwah] dari ['Aisyah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam masuk menemuiku saat ketika di sisiku ada dua budak wanita yang sedang bersenandung dengan lagu-lagu (tentang perang) Bu'ats. Maka beliau berbaring di atas tikar lalu memalingkan wajahnya, kemudian masuklah Abu Bakar mencelaku, ia mengatakan, "Seruling-seruling setan (kalian perdengarkan) di hadapan Nabi shallallahu 'alaihi wasallam!" Rasulullah shallallahu 'alaihi wasallam lantas memandang kepada Abu Bakar seraya berkata: "Biarkanlah keduanya." Setelah beliau tidak menghiraukan lagi, aku memberi isyarat kepada kedua sahaya tersebut agar lekas pergi, lalu keduanya pun pergi. Saat Hari Raya 'Ied, biasanya ada dua budak Sudan yang memperlihatkan kebolehannya mempermainkan tombak dan perisai. Maka adakalanya aku sendiri yang meminta kepada Nabi shallallahu 'alaihi wasallam, atau beliau yang menawarkan kepadaku: "Apakah kamu mau melihatnya?" Maka aku jawab, "Ya, mau." Maka beliau menempatkan aku berdiri di belakangnya, sementara pipiku bertemu dengan pipinya sambil beliau berkata: "Teruskan hai Bani Arfadah!" Demikianlah seterusnya sampai aku merasa bosan lalu beliau berkata: "Apakah kamu merasa sudah cukup?" Aku jawab, "Ya, sudah." Beliau lalu berkata: "Kalau begitu pergilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>949</td></tr><tr><td>Arabic No</td><td>949</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ вошёл ко мне в то время, когда у меня находились две девушки, певшие песню о Бу‘асе, лёг на постель и отвернулся. (А через некоторое время в мою комнату) вошёл Абу Бакр и резко спросил меня: “(Как может) свирель шайтана (звучать) у Пророка ﷺ?!” Тогда Посланник Аллаха ﷺ повернулся к нему и сказал: “Оставь их”, когда же (Абу Бакр) отвлёкся, я сделала девушкам знак и они вышли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>949</td></tr><tr><td>Arabic No</td><td>949</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

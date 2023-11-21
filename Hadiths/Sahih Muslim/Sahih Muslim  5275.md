@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Apostle (ﷺ) forbade that a person should drink whil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Abdul A'la]; Telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau melarang seseorang minum sambil berdiri. Qatadah berkata; 'Maka kami tanyakan, bagaimana dengan makan? ' Anas menjawab: 'Apalagi makan, itu lebih buruk, atau lebih jelek.' Dan telah mengabarkannya pula [Qutaibah bin Sa'id] dan [Abu Bakr bin Abu Syaibah] keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Hisyam] dari [Qatadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, dengan Hadits yang serupa, namun dia tidak menyebutkan ucapan Qatadah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5275</td></tr><tr><td>Arabic No</td><td>2024.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5275</td></tr><tr><td>Arabic No</td><td>2024.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 149</td></tr></tbody></table></div>
 

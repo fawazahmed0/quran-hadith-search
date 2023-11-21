@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Hind came to Allah's Apostle (ﷺ) and said:Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] dia berkata, "Suatu ketika Hindun datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, Demi Allah, dahulu tidak ada ahli bait di muka bumi ini yang lebih aku sukai supaya Allah menghinakannya daripada ahli baitmu, namun sekarang tidak ada ahli bait di muka bumi ini yang lebih aku sukai supaya Allah memuliakannya selain ahli baitmu." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Demi dzat yang jiwaku berada di tangan-Nya, mungkin kamu ingin mengatakan sesuatu yang lain?" Kemudian dia berkata, "Wahai Rasulullah, sesungguhnya Abu Sufyan adalah laki-laki yang bakhil, apakah aku berdosa jika aku memebelanjakan hartanya untuk keluarganya tanpa sepengetahuan darinya?" maka Nabi shallallahu 'alaihi wasallam bersabda: "Kamu tidak berdosa jika mengemabil untuk menafkahi keluarganya dengan sekedarnya (tidak berlebihan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4479</td></tr><tr><td>Arabic No</td><td>1714.03</td></tr><tr><td>Reference</td><td>Book 30 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4479</td></tr><tr><td>Arabic No</td><td>1714.03</td></tr><tr><td>Reference</td><td>Book 30 Hadith 10</td></tr></tbody></table></div>
 

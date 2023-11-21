@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:When 'Abdullah bin Ubai bin Salul died, Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada saya [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah] dari [Ibnu 'Abbas] dari ['Umar bin Al Khaththab radliallahu 'anhu] bahwasanya dia berkata,: "Ketika 'Abdullah bin Ubay bin Salul meninggal dunia, Rasulullah Shallallahu'alaihiwasallam diminta untuk menyolatkannya. Ketika Beliau sudah berdiri hendak shalat aku hampiri Beliau lalu aku berkata: "Wahai Rasulullah, apakah anda akan menyolatkan anak Ubay padahal dia suatu hari pernah mengatakan begini begini, begini dan begini, (aku mengulang-ulang ucapan bin Ubay yang dahulu pernah dilontarkan kepada Nabi) ". Ternyata Rasulullah Shallallahu'alaihiwasallam malah tersenyum seraya berkata,: "Cukupkanlah ucapanmu dariku wahai 'Umar. Ketika aku terus berbicara kepada Beliau, Beliau berkata,: "Sungguh aku diberi pilihan dan aku memilih seandainya aku mengetahui bila aku menambah lebih dari tujuh puluh kali permohonan ampun baginya dia akan diampuni, pasti aku akan tambah (permohonan ampun baginya) ". 'Umar berkata,: "Maka kemudian Rasulullah Shallallahu'alaihiwasallam menyolatkannya hingga selesai, tak lama setelah Beliau terdiam, turunlah firman Allah subhanahu wata'ala QS At-Taubah ayat 84 yang artinya ("Dan janganlah kamu menyolatkan siapa yang mati dari mereka selamanya" hingga ayat "mereka mati dalam keadaan fasiq)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1366</td></tr><tr><td>Arabic No</td><td>1366</td></tr><tr><td>Reference</td><td>Book 23 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «Когда умер ‘Абдуллах ибн Убей ибн Салюль, люди позвали Посланника Аллаха ﷺ совершить за него заупокойную молитву. Когда Посланник Аллаха ﷺ встал, чтобы совершить молитву, я подскочил к нему и сказал: “О, Посланник Аллаха! Ты будешь совершать молитву за Ибн Убеййа, ведь в такой-то день он говорил то-то?” — и начал перечислять все, что он сказал. Посланник Аллаха ﷺ улыбнулся и сказал: “Отойди от меня, о ‘Умар!” Когда я начал говорить ещё, он сказал: “Поистине, мне был дан выбор, и я выбрал. Если бы я знал, что он будет прощен, если я попрошу за него прощения (у Аллаха) более семидесяти раз, я бы так и сделал”. Посланник Аллаха ﷺ совершил за него заупокойную молитву, затем ушел. Через некоторое время, снизошли два аята из суры “аль-Бара”:“Никогда не совершай молитву за кого-либо из них и не стой над его могилой, ведь они не уверовали в Аллаха и Его Посланника и умерли нечестивцами”. (сура “ат-Тауба”, аят 84). ‘Умар сказал: “Позже я удивился своей смелости перед Посланником Аллаха ﷺ в тот день. А Аллах и Его Посланник знают лучше”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1366</td></tr><tr><td>Arabic No</td><td>1366</td></tr><tr><td>Reference</td><td>Book 23 Hadith 118</td></tr></tbody></table></div>
 

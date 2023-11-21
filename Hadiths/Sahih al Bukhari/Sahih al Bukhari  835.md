@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When we prayed with the Prophet (ﷺ) we used to say, "Peace 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Al A'masy] telah menceritakan kepadaku [Syaqiq] dari ['Abdullah] berkata, "Jika kami shalat bersama Nabi shallallahu 'alaihi wasallam, kami mengucapkan: "ASSALAAMU 'ALAALLAH MIN 'IBAADIHIS SALAAMU 'ALAA FULAAN WA FULAAN (Semoga kesejahteraan terlimpahkan kepada Allah dari hamba-hamba Nya, dan semoga kesejahteraan terlimpahkan kepada si anu dan si anu) '. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mengucapkan: 'ASSALAAMU 'ALAALLAH (Semoga kesejahteraan terlimpahkan kepada Allah) ', karena sesungguhnya Allah, Dialah As-Salaam. Akan tetapi bacalah: 'ATTAHIYYAATU LILLAHI WASHSHALAAWAATU WATHTHAYYIBAAT ASSALAAMU 'ALAIKA AYYUHANNABIYYU WA RAHMATULLAHI WA BARAKAATUH ASSALAAMU 'ALAINAA WA 'ALAA 'IBAADILLAHISH SHAALIHIIN (Segala penghormatan hanya milik Allah, juga segala pengagungan dan kebaikan. Semoga kesejahteraan terlimpahkan kepada engkau wahai Nabi dan juga rahmat dan berkah-Nya. Semoga kesejahteraan terlimpahkan kepada kami dan kepada hamba-hamba Allah yang shalih). Karena apabila kalian mengucapkan seperti ini, maka berarti kalian telah mengucapkan salam kepada seluruh yang ada di langit atau yang berada di antara langit dan bumi." (Dan lanjutkanlah dengan bacaan): 'ASYHADU ALLAA ILAAHA ILLALLAH WA ASYHADU ANNA MUHAMMADAN 'ABDUHU WA RASUULUH (Aku bersaksi tidak ada tuhan yang berhak disembah selain Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya) '. Lalu ia memilih doa yang paling ia sukai kemudian berdoa dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>835</td></tr><tr><td>Arabic No</td><td>835</td></tr><tr><td>Reference</td><td>Book 10 Hadith 228</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Мас‘уд, да будет доволен им Аллах, сказал:\n— Совершая намазы вместе с Пророком ﷺ мы обычно говорили (сидя): «Мир Аллаху от Его рабов, мир такому-то и такому-то», но однажды Пророк ﷺ сказал: «Не говорите: “Мир Аллаху”, ведь Аллах и есть Мир, но говорите: “Приветствия, молитвы и (всё) благое Аллаху, мир тебе, о пророк, милость Аллаха и благословения Его, мир нам и всем праведным рабам Аллаха”. Поистине, если вы произнесёте (эти слова, они) коснутся каждого раба(, обитающего) на небе /или: между небом и землёй/. (И говорите): “Свидетельствую, что нет истинного бога, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Его посланник”, после чего можно выбрать слова мольбы, которые нравятся человеку больше всего, и обратиться с ними к Аллаху»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>835</td></tr><tr><td>Arabic No</td><td>835</td></tr><tr><td>Reference</td><td>Book 10 Hadith 228</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of 'Auf b. Malik that the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Handlali] telah mengabarkan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Al Auza'i] dari [Yazid bin Yazid bin Jabir] dari [Ruzaiq bin Hayyan] dari [Muslim bin Qaradlah] dari ['Auf bin Malik] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Sebaik-baik pemimpin kalian adalah mereka mencintai kalian dan kalian mencintai mereka, mereka mendo'akan kalian dan kalian mendo'akan mereka. Dan sejelek-jelek pemimpin kalian adalah mereka yang membenci kalian dan kalian membenci mereka, mereka mengutuk kalian dan kalian mengutuk mereka." Beliau ditanya, "Wahai Rasulullah, tidakkah kita memerangi mereka?" maka beliau bersabda: "Tidak, selagi mereka mendirikan shalat bersama kalian. Jika kalian melihat dari pemimpin kalian sesuatu yang tidak baik maka bencilah tindakannya, dan janganlah kalian melepas dari ketaatan kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>1855.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>1855.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 101</td></tr></tbody></table></div>
 

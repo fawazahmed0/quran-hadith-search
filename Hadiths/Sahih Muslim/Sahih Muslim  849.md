@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Amr b. al-As reported Allah's Messenger (ﷺ) as saying:When you hea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salamah al-Muradi] telah menceritakan kepada kami [Abdullah bin Wahab] dari [Haiwah] dan [Sa'id bin Abi Ayyub] serta selain keduanya dari [Ka'ab bin Alqamah] dari [Abdurrahman bin Jubair] dari [Abdullah bin Amru bin al-Ash] bahwa dia mendengar Nabi shallallahu 'alaihi wasallam bersabda, "Apabila kalian mendengar mu'adzdzin (mengumandangkan adzan) maka ucapkanlah seperti yang dia ucapkan, kemudian bershalawatlah atasku, karena orang yang bershalawat atasku dengan satu shalawat, niscaya Allah akan bershalawat atasnya dengannya sepuluh kali, kemudian mintalah kepada Allah wasilah untukku, karena ia adalah suatu tempat di surga, tidaklah layak tempat tersebut kecuali untuk seorang hamba dari hamba-hamba Allah, dan saya berharap agar saya menjadi hamba tersebut. Dan barangsiapa memintakan wasilah untukku, maka syafa'at halal untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>849</td></tr><tr><td>Arabic No</td><td>384</td></tr><tr><td>Reference</td><td>Book 4 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса о том, что он слышал, как Пророк ﷺ говорил: «Когда вы услышите призыв муаззина, повторяйте за ним то, что он говорит. Затем помолитесь за моё благословение, ибо, поистине, того, кто помолится за моё благословение один раз, Аллах благословит за это десять раз. После этого попросите Великого и Всемогущего Аллаха, чтобы Он даровал мне “аль-Василя”. Поистине, это степень в Раю, которую достигнет только один раб из числа рабов Аллаха Всевышнего, и я надеюсь, что им буду я. И тот, кто попросит Аллаха даровать мне “аль-Василя”, получит (моё) заступничество»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>849</td></tr><tr><td>Arabic No</td><td>384</td></tr><tr><td>Reference</td><td>Book 4 Hadith 13</td></tr></tbody></table></div>
 

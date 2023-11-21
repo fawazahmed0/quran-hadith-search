@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Whenever anyone of you offers his prayer 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian shalat bermunajat kepada Rabbnya, maka janganlah dia meludah ke sebelah kanannya, tetapi henklah ke sebelah kiri atau bawah kaki kirinya." [Sa'id] menyebutkan dari [Qatadah], "Janganlah dia meludah ke arah depannya, tetapi ke sebelah kiri atau di bawah kedua kakinya." [Syu'bah] menyebutkan: "Janganlah ia meludah ke arah depan atau sebelah kanannya, tetapi hendaklah ke sebelah kiri atau di bawah kaki kirinya." Dan [Humaid] menyebutkan dari [Anas] dari Nabi shallallahu 'alaihi wasallam: "Janganlah ia meludah ke arah kiblat atau sebelah kanannya, tetapi hendaklah ke sebelah kiri atau di bawah kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>531</td></tr><tr><td>Arabic No</td><td>531</td></tr><tr><td>Reference</td><td>Book 9 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Поистине, когда любой из вас совершает молитву, он ведёт тайную беседу со своим Господом, посему не плюйте справа от себя, а (сплёвывайте) под свою левую ногу”».\nСа‘ид сказал: «От Къатады: “Пусть не плюёт вперёд или перед собой, а (сплёвывает) слева или под ноги”».\nШу‘ба сказал: «Пусть ни в коем случае не плюёт ни перед собой, ни вправо, но (пусть сплёвывает) влево от себя или под ногу».\nХумайд передал со слов Анаса от Пророка ﷺ: «Не плюйте ни в сторону киблы, ни справа от себя, а (делайте это) влево от себя или себе под ногу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>531</td></tr><tr><td>Arabic No</td><td>531</td></tr><tr><td>Reference</td><td>Book 9 Hadith 10</td></tr></tbody></table></div>
 

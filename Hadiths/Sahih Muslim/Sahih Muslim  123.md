@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Ibn 'Abbas that when the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umayyah bin Bistham al-Aisyi] telah menceritakan kepada kami [Yazid bin Zura'i'] telah menceritakan kepada kami [Rauh] -yaitu Ibnu al-Qasim- dari [Ismail bin Umayyah] dari [Yahya bin Abdullah bin Shaifi] dari [Abu Ma'bad] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam ketika mengutus Mu'adz ke Yaman, beliau bersabda: "Sesungguhnya kamu menghadapi suatu kaum Ahli Kitab, maka hendakah pertama kali yang kalian dakwahkan kepada mereka adalah penyembahan kepada Allah azza wa jalla, apabila mereka mengenal Allah, maka beritahukanlah bahwa Allah mewajibkan kepada mereka shalat lima waktu pada siang dan malam mereka, apabila mereka melakukannya maka beritahukanlah kepada mereka bahwa Allah telah mewajibkan zakat atas mereka yang diambil dari orang kaya mereka lalu dibagikan kepada orang fakir mereka. Jika mereka menaatimu dengan hal tersebut, maka ambillah zakat dari mereka dan takutlah dari harta mulia mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>123</td></tr><tr><td>Arabic No</td><td>19.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса о том, что когда Посланник Аллаха ﷺ отправлял Му‘аза в Йемен, он сказал: «Ты отправляешься к народу, который является обладателем Писания. Пусть первым, к чему ты призовёшь их, будет поклонение Великому и Всевышнему Аллаху. Когда они узнают об Аллахе, то дай им знать, что Аллах обязал их совершать пять молитв в течение дня и ночи. Если они сделают это, то дай им знать, что Аллах обязал их выплачивать закят, который следует брать с их богатых в пользу их бедных. Если они покорятся тебе в этом, то бери его с них и не посягай на их отборное имущество»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>123</td></tr><tr><td>Arabic No</td><td>19.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 31</td></tr></tbody></table></div>
 

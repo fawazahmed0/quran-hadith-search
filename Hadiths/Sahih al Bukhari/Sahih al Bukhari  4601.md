@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Regarding the Verse:--"If a woman fears cruelty or desertion on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] Telah mengabarkan kepada kami ['Abdullah] Telah mengabarkan kepada kami [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] mengenai firman Allah: Dan jika seorang wanita khawatir akan nusyuz atau sikap tidak acuh dari suaminya. (An Nisa: 128). Aisyah berkata; ayat ini mengenai seorang laki-laki yang mempunyai istri namun dia tidak terlalu mencintainya dan memberikan hak wanita itu, hingga ia ingin berpisah darinya tanpa mentalaknya. Lalu dia berkata; Kamu akan tetap halal bersamaku. Maka turunlah ayat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4601</td></tr><tr><td>Arabic No</td><td>4601</td></tr><tr><td>Reference</td><td>Book 65 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала относительно аята «Если женщина опасается, что муж будет проявлять к ней неприязнь или отворачиваться от неё…»: «Мужчина перестал испытывать потребность в своей жене и хочет развести её, и она говорит: “Я отказываюсь от своих прав”. По этому поводу был ниспослан этот аят»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4601</td></tr><tr><td>Arabic No</td><td>4601</td></tr><tr><td>Reference</td><td>Book 65 Hadith 123</td></tr></tbody></table></div>
 

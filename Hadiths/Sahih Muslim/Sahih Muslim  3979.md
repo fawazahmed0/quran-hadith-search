@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (Allah be pleased with him) reported Allah's Apostle (ﷺ) as saying:If All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abbad] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Humaid] dari [Anas], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika Allah tidak menjadikannya matang, maka atas dasar apakah salah seorang dari kalian menghalalkan harta saudaranya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3979</td></tr><tr><td>Arabic No</td><td>1555.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3979</td></tr><tr><td>Arabic No</td><td>1555.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 18</td></tr></tbody></table></div>
 

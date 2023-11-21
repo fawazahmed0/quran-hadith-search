@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) gave a verdict regarding Sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Musaddad] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhriy] dari [Abu Salamah bin 'Abdurrahman] dari [Jabir bin 'Abdullah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam telah menetapkan hak Asy-Syuf'ah pada setiap harta yang belum dibagi. Apabila terdapat pembatas dan jalan yang terpisah maka tidak ada syuf'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2257</td></tr><tr><td>Arabic No</td><td>2257</td></tr><tr><td>Reference</td><td>Book 36 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ постановил, что преимущественное право покупки (шуф‘а) распространяется на любое не поделённое имущество, однако если границы и пути были размечены, то преимущественное право покупки уже не действовало»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2257</td></tr><tr><td>Arabic No</td><td>2257</td></tr><tr><td>Reference</td><td>Book 36 Hadith 1</td></tr></tbody></table></div>
 

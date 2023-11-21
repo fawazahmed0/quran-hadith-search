@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah her pleased with him) reported that at the Battle of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar bin Maisarah Al Qawariri] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id bin Abu 'Arubah] dari [Qatadah] dari [Shalih Abu Al Khalil] dari [Abu Alqamah Al Hasyimi] dari [Abu Sa'id Al Khudri] bahwa pada saat perang Hunain, Rasulullah shallallahu 'alaihi wasallam mengirim ekspedisi ke wilayah Authas, kemudian mereka bertemu dengan musuh dan terjadilah pertempuran, akhirnya mereka dapat mengalahkan musuh dan berhasil menawan musuh, di antaranya adalah tawanan wanita, seakan-akan para sahabat Rasulullah shallallahu 'alaihi wasallam keberatan menggauli mereka, karena mereka memiliki suami-suami yang masih musyrik. Maka Allah menurunkan ayat mengenai hal itu "Dan di haramkan bagi kamu mengawini wanita-wanita yang bersuami, kecuali budak-budak yang kalian miliki, (Allah telah menetapkan hukum itu) sebgai ketetapan-Nya atas kamu." (An Nisaa': 24). Maksudnya, mereka halal bagimu setelah 'iddah mereka habis. Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Muhammad bin Al Mutsanna] serta [Ibnu Basysyar] mereka berkata; Telah menceritakan kepada kami [Abdul A'la] dari [Sa'id] dari [Qatadah] dari [Abu Khalil] bahwa [Abu Alqamah Al Hasyimi] telah bercerita bahwa [Abu Sa'id Al Khudri] telah menceritakan kepada mereka, bahwa pada saat perang Hunain, Nabi yullah shallallahu 'alaihi wasallam mengirim suatu ekspedisi, dengan makna hadits Yazid bin Zurai' namun dia menyebutkan; "Kecuali budak-budak perempuan yang kalian miliki, maka mereka halal bagi kalian." Dan tidak menyebutkan; "Jika telah usai masa 'iddah mereka." Dan telah menceritakan kepadaku [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid yaitu Ibnu Al Harits] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3608</td></tr><tr><td>Arabic No</td><td>1456.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3608</td></tr><tr><td>Arabic No</td><td>1456.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 41</td></tr></tbody></table></div>
 

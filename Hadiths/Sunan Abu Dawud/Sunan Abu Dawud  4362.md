@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: A Jewess used to abuse the Prophet (ﷺ) and disparag
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Abdullah Ibnul jarrah] dari [Jarir] dari [Mughirah] dari [Asy Sya'bi] dari [Ali radliallahu 'anhu] ia berkata, "Seorang wanita yahudi mencela Nabi shallallahu 'alaihi wasallam, lalu seorang laki-laki mencekik lehernya hingga mati. Rasulullah shallallahu 'alaihi wasallam lalu menjadikan darahnya sia-sia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4362</td></tr><tr><td>Arabic No</td><td>4362</td></tr><tr><td>Reference</td><td>Book 40 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Али, что одна иудейка поносила Пророка ﷺ, а потом один человек задушил её, и Посланник Аллаха ﷺ объявил, что за её кровь не полагается отмщение
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4362</td></tr><tr><td>Arabic No</td><td>4362</td></tr><tr><td>Reference</td><td>Book 40 Hadith 12</td></tr></tbody></table></div>
 

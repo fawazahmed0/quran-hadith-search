@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated through a still different chain of transmitters by the same
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] sedangkan lafadznya dari Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dia berkata; aku mendengar? [Al Barra] ditanya oleh seorang laki-laki dari Qais, "Apakah kalian pernah lari dari Rasulullah shallallahu 'alaihi wasallam pada waktu peperangan Hunain?" Al Barra menjawab, "(pasukan) Rasulullah shallallahu 'alaihi wasallam tidaklah lari dari peperangan, ketika itu Bani Hawazin memiliki sekelompok ahli pemanah. Dan ketika kami menyerang mereka, mereka lari kocar kacir sehingga kami berdesak-desakan untuk mengambil ghanimah, tidak lama setelah itu mereka mengadakan serangan balik dengan melempari anak panah kepada kami, sungguh saat itu aku melihat Rasulullah shallallahu 'alaihi wasallam berada di atas bighal putihnya, sedangkan Abu Sufyan bin Harits memegang tali kekangnya. Beliau bersabda: "Aku adalah seorang Nabi, bukan seorang pendusta, aku adalah putra Abdul Mutthalib." Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] serta [Abu Bakar bin Khallad] mereka berkata; telah menceritakan kepada kami [Yahya bin Sa'id] dari [Sufyan] dia berkata; telah menceritakan kepadaku [Abu Ishaq] dari [Al Barra] dia berkata, "Seorang laki-laki pernah bertanya kepadanya, "Wahai Abu 'Umarah…kemudian dia menyebutkan hadits tersebut, sedangkan hadits mereka lebih sempurna daripada haditnya dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>1776.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>1776.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 99</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Harb b. Abu al-Aswad reported on the authority of his father that Abu Musa a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Suwaid bin Sa'id] telah menceritakan kepada kami [Ali bin Mushir] dari [Dawud] dari [Abu Harb bin Abul Aswad] dari [bapaknya] ia berkata; Ketika [Abu Musa Al Asy'ari] mengutus seorang untuk memanggil Qurra' (orang-orang yang menguasai bacaan Al Qur'an), maka datanglah kepadanya tiga ratus orang yang memang benar-benar telah menguasai bacaan Al Qur'an. Iapun berkata, "Kalian adalah sebaik-baik penduduk Bashrah dan kalian adalah Qurraa' mereka. Oleh karena itu bacalah dan janganlah kalian meninggalkannya terlalu lama hingga hati kalian akan membatu sebagaimana hati orang-orang sebelum kalian. Saat kami membaca satu surat yang panjang dan ketegasannya menyerupai surat Bara'ah (surat Taubah) kemudian aku dilupakan, tapi aku masih ingat sedikit darinya yaitu: 'Kalau seandainya anak cucu Adam memiliki harta benda sebanyak dua bukit niscaya ia akan mencari bukit yang ketiga, dan tidak ada yang dapat memenuhi perut anak cucu Adam kecuali tanah.' Saat itu kami juga membaca satu surat yang serupa dengan salah satu Al Musabbihaat (surat yang diawali dengan sabbaha) kemudian aku dilupakan, tapi aku masih hafal sedikit daripadanya yaitu: 'Wahai orang-orang yang beriman kenapakah kalian mengatakan (memerintahkan) apa yang tidak kalian perbuat.' Lalu akan dituliskan satu persaksian pada kalian, dan kelak di hari kiamat kalian akan ditanyai mengenai hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2419</td></tr><tr><td>Arabic No</td><td>1050</td></tr><tr><td>Reference</td><td>Book 12 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу аль-Асвад сказал: «(Однажды) Абу Муса аль-Аш‘ари послал за чтецами (Корана) из числа жителей Басры, и к нему явились триста человек, читавших Коран. (Абу Муса) сказал: “Вы лучшие из жителей Басры и вы их чтецы, так ни в коем случае не (оставляйте Коран) надолго, иначе сердца ваши очерствеют, как очерствели сердца тех, кто (жил) до вас. Прежде мы читали одну суру, которую считали подобной (суре) “Бараъа” по длине и силе, и я (почти полностью) забыл её, однако (всё же) запомнил, (что в ней говорилось): “Будь у потомка Адама две долины, (полные) сокровищ, он непременно пожелал бы иметь третье, и не наполнит утробу потомка Адама ничто, кроме земли”. Мы также читали суру, которую считали подобной одной из “прославляющих” /мусаббихат/ (суры Корана, которые начинаются с прославления Аллаха), и я (почти полностью) забыл её, однако (всё же) запомнил, (что в ней говорилось): “О те, кто уверовал! Почему говорите вы то, чего не делаете? Это будет записано (в качестве) свидетельства на ваших шеях, и спросится с вас за это в День воскресения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2419</td></tr><tr><td>Arabic No</td><td>1050</td></tr><tr><td>Reference</td><td>Book 12 Hadith 156</td></tr></tbody></table></div>
 

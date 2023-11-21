@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:the Prophet (ﷺ) said "When three persons are together, then
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Nafi'] dari [Abdullah] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kalian bertiga, maka janganlah dua orang berbisik-bisik dengan membiarkan yang ketiganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6288</td></tr><tr><td>Arabic No</td><td>6288</td></tr><tr><td>Reference</td><td>Book 79 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если (соберутся) трое, пусть двое (из них) не перешёптываются в присутствии третьего»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6288</td></tr><tr><td>Arabic No</td><td>6288</td></tr><tr><td>Reference</td><td>Book 79 Hadith 60</td></tr></tbody></table></div>
 

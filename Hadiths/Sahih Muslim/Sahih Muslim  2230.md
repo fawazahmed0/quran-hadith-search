@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Muhammad b. Munkadir that he said:I heard fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Al Munkadir] ia berkata, saya mendengar [Mas'ud bin Al Hakam] menceritakan dari [Ali] ia berkata; Suatu ketika, kami melihat Rasulullah shallallahu 'alaihi wasallam berdiri, maka kami pun ikut berdiri. Kemudian beliau duduk dan kami pun ikut duduk kembali. Yakni (mereka berdiri) karena (di hadapan mereka lewat) jenazah. Dan telah menceritakannya kepada kami [Muhammad bin Abu Bakar Al Muqaddami] dan [Ubaidullah bin Sa'id] keduanya berkata, telah menceritakan kepada kami [Yahya Al Qaththan] dari [Syu'bah] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2230</td></tr><tr><td>Arabic No</td><td>962.04</td></tr><tr><td>Reference</td><td>Book 11 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Али сказал: «Мы видели, как (сначала) Посланник Аллаха ﷺ вставал, (увидев похоронную процессию) и тоже вставали, а затем (он перестал это делать и оставался) сидеть и мы тоже (стали) сидеть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2230</td></tr><tr><td>Arabic No</td><td>962.04</td></tr><tr><td>Reference</td><td>Book 11 Hadith 107</td></tr></tbody></table></div>
 

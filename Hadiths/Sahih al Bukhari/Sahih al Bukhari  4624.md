@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) said, "I saw Hell and its different porti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abu Ya'qub Abu 'Abdullah Al Karmani] Telah menceritakan kepada kami [Hassan bin Ibrahim] Telah menceritakan kepada kami [Yunus] dari [Az Zuhri] dari ['Urwah] bahwa ['Aisyah radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku melihat penghuni Jahannam sebagiannya saling mematahkan (menindih) sebagian yang lain dan aku melihat Amru bin Amir Al Khuza'i menyeret ususnya di neraka." Ia adalah orang pertama yang membuat unta sa'ibah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4624</td></tr><tr><td>Arabic No</td><td>4624</td></tr><tr><td>Reference</td><td>Book 65 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Посланник Аллаха ﷺ сказал: «Я видел, как (разные) части Ада сокрушают друг друга, и ещё я увидел в Аду ‘Амра (ибн Лухаййа), волочащим свои кишки. Он был первым, кто ввел обычай считать неприкосновенными (священными) [некоторых] домашних животных»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4624</td></tr><tr><td>Arabic No</td><td>4624</td></tr><tr><td>Reference</td><td>Book 65 Hadith 146</td></tr></tbody></table></div>
 

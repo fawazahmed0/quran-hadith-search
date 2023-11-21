@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Talha reported:I heard Allah's Messenger (ﷺ) as saying: Angels do not ente
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah bin Yahya] keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari ['Ubaidillah bin 'Abdullah bin 'Utbah] bahwa dia mendengar [Ibnu 'Abbas] berkata; Aku mendengar [Abu Thalhah] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Malaikat tidak akan masuk ke dalam rumah yang di dalamnya ada Anjing dan gambar." Dan Telah menceritakannya kepada kami [Ishaq bin Ibrahim] dan ['Abad bin Humaid] keduanya berkata; Telah mengabarkan kepada kami ['Abdurrazaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] melalui jalur ini seperti Hadits Yunus, demikian juga dalam hal mengabarkannya di dalam sanad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5515</td></tr><tr><td>Arabic No</td><td>2106.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5515</td></tr><tr><td>Arabic No</td><td>2106.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 130</td></tr></tbody></table></div>
 

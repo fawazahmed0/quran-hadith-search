@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Jurayj nous a informés qu'il avait dit un jour à 'Atâ' : N'as-tu pas ente
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abdu bin Humaid] semuanya dari [Ibnu Bakr] - [Abdu] berkata- telah mengabarkan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] ia berkata; Aku bertanya kepada [Atha'], "Apakah Anda pernah mendengar [Ibnu Abbas] berkata, 'Kalian diperintahkan untuk melakukan thawaf, dan kalian tidak diperintahkan untuk memasuki Ka'bah? '" Atha' menjawab, "Ia tidaklah melarang untuk memasukinya. Tetapi saya mendengarnya berkata; [Usamah bin Zaid] mengabarkan kepadaku, bahwa Nabi shallallahu 'alaihi wasallam masuk ke dalam Baitullah kemudian beliau berdo'a di setiap sudutnya, dan beliau tidak shalat di dalam sampai beliau keluar kembali. setelah di luar, beliau shalat dua raka'at di hadapannya. Kemudian beliau bersabda: 'Inilah kiblat.' Aku bertanya, 'Salah satu sisinya, ataukah seluruh sisinya? ' beliau menjawab: 'Bahkan setiap sisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3237</td></tr><tr><td>Arabic No</td><td>1330</td></tr><tr><td>Reference</td><td>Book 15 Hadith 441</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3237</td></tr><tr><td>Arabic No</td><td>1330</td></tr><tr><td>Reference</td><td>Book 15 Hadith 441</td></tr></tbody></table></div>
 

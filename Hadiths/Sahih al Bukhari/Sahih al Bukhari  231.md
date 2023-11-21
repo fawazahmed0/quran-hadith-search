@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Maimun:I heard Sulaiman bin Yasar talking about the clothes so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il Al Minqari] berkata, telah menceritakan kepada kami ['Abdul Wahid] berkata, telah menceritakan kepada kami ['Amru bin Maimun] berkata, "Aku bertanya kepada [Sulaiman bin Yasar] tentang pakaian yang terkena janabat (mani), ia menjawab, " ['Aisyah] pernah berkata, "Aku pernah mencuci air mani dari pakaian Rasulullah shallallahu 'alaihi wasallam, kemudian beliau keluar untuk shalat dan sisa cucian masih nampak pada pakaian beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>231</td></tr><tr><td>Arabic No</td><td>231</td></tr><tr><td>Reference</td><td>Book 4 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Маймун сказал:\n— Я спросил Сулеймана ибн Ясара об одежде, которую постигает осквернение и он сказал: «‘Аиша сказала: “(Обычно) я смывала его с одежды Посланника Аллаха ﷺ после чего он выходил на молитву, а на его одежде всё ещё были видны следы мытья”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>231</td></tr><tr><td>Arabic No</td><td>231</td></tr><tr><td>Reference</td><td>Book 4 Hadith 97</td></tr></tbody></table></div>
 

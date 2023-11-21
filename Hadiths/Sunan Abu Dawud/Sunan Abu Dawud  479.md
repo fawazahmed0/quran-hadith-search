@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar reported:One day while the Messenger of Allah(ﷺ)was giving sermon 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Dawud] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] dari [Nafi'] dari [Ibnu Umar] dia berkata; Tatkala suatu hari Rasulullah shallallahu 'alaihi wasallam berkhutbah, tiba-tiba beliau melihat dahak di arah kiblat Masjid, maka beliau marah kepada jama'ah lalu menggaruk dahak tersebut. Perawi berkata; Saya kira dia Ibnu Umar berkata; Kemudian beliau meminta minyak za'faran, lalu melumurinya dan bersabda: "Sesungguhnya Allah di arah wajah salah seorang dari kalian apabila dia shalat, maka janganlah dia meludah ke depannya". Abu Dawud berkata; Diriwayatkan oleh [Isma'il] dan [Abdul Warits] dari [Ayyub] dari [Nafi'] dan [Malik] dan [Ubaidullah] dan [Musa bin Uqbah] dari [Nafi'] seperti hadits Hammad, hanya saja mereka tidak menyebutkan perihal za'faran. Dan diriwayatkan oleh [Ma'mar] dari [Ayyub] dan dia menetapkan perihal za'faran pada hadits ini. [Yahya bin Sulaim] menyebutkan dari [Ubaidullah] dari [Nafi']; Minyak khaluq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1213) Sahih Muslim (547)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>479</td></tr><tr><td>Arabic No</td><td>479</td></tr><tr><td>Reference</td><td>Book 2 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Однажды, когда Посланник Аллаха ﷺ обращался к людям с проповедью, он увидел на стене мечети, направленной в сторону киблы плевок. Он разгневался на людей, а затем, соскоблив его, велел принести шафран и протер им это место, а потом сказал: “Поистине, Аллах находится перед одним из вас, когда он молится, поэтому пусть не плюет перед собой”».Абу Дауд сказал: «Также этот хадис передали Исма‘иль и ‘Абдуль-Варис со слов Аййюба, передавшего от Нафи‘а, а также Малик, ‘Убайдуллах, Муса ибн ‘Укъба со слов Нафи‘а сообщение похожее на то, что передал Хаммад, исключая то, что он не упомянул о шафране. Также его передал Ма‘мар от Аййюба и подтвердил в нем о шафране. А Яхйа ибн Сулейм передал от ‘Убайдуллы, сообщившего от Нафи‘а: “халюкъ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1213) Sahih Muslim (547)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>479</td></tr><tr><td>Arabic No</td><td>479</td></tr><tr><td>Reference</td><td>Book 2 Hadith 89</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:We were with the Prophet (ﷺ) while we were young and had no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Hafsh bin Ghiyats] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Al A'masy] ia berkata; Telah menceritakan kepadaku [Umarah] dari [Abdurrahman bin Yazid] ia berkata; Aku, Alqamah dan Al Aswad pernah menemui [Abdullah], lalu ia pun berkata; Pada waktu muda dulu, kami pernah berada bersama Nabi shallallahu 'alaihi wasallam. Saat itu, kami tidak sesuatu pun, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami: "Wahai sekalian pemuda, siapa diantara kalian telah mempunyai kemampuan, maka hendaklah ia menikah, karena menikah itu dapat menundukkan pandangan, dan juga lebih bisa menjaga kemaluan. Namun, siapa yang belum mampu, hendaklah ia berpuasa, sebab hal itu dapat meredakan nafsunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5066</td></tr><tr><td>Arabic No</td><td>5066</td></tr><tr><td>Reference</td><td>Book 67 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Мы были с Пророком ﷺ, когда были молоды и не имели имущества, и Посланник Аллаха ﷺ сказал нам: “О молодёжь! Кто из вас способен на брак, пусть женится, ведь это способствует опусканию взгляда (на посторонних женщин) и сохранению половых органов (от греха). А тот из вас, кто не способен женится, пусть соблюдает пост, что станет для него подобием оскопления”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5066</td></tr><tr><td>Arabic No</td><td>5066</td></tr><tr><td>Reference</td><td>Book 67 Hadith 4</td></tr></tbody></table></div>
 

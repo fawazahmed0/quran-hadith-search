@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that Allah's Messenger (ﷺ) bought 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] serta [Muhammad bin 'Ala] dan ini adalah lafadz Yahya, Yahya berkata; telah mengabarkan kepada kami, sedangkan dua orang lainnya berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah membeli makanan dari seorang Yahudi dengan bayaran yang ditangguhkan, lantas beliau menggadaikan baju besinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4114</td></tr><tr><td>Arabic No</td><td>1603.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4114</td></tr><tr><td>Arabic No</td><td>1603.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 153</td></tr></tbody></table></div>
 

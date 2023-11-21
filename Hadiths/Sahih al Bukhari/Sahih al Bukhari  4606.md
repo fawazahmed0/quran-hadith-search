@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tariq bin Shihab:The Jews said to 'Umar, "You (i.e. Muslims) recite a V
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami ['Abdur Rahman] Telah menceritakan kepada kami [Sufyan] dari [Qais] dari [Thariq bin Syihab] dia berkata; Orang-orang Yahudi mengatakan kepada Umar; "Sesungguhnya kalian membaca satu ayat, seandainya ayat itu diturunkan kepada kami, maka hari turunnya ayat tersebut pasti akan kami jadikan hari raya." lalu [Umar] menjawab; "sesungguhnya aku sangat tahu dimana ayat tersebut diturunkan, pada hari apa diturunkan, dan di mana Rasulullah shallallahu 'alaihi wasallam berada ketika ayat tersebut diturunkan, bahwa ayat tersebut diturunkan pada hari Arafah dan kami demi Allah pada waktu itu sedang melaksanakan wukuf di Arafah." Sufyan berkata; aku ragu tentang; "hari Jum'at atau bukan." yaitu ayat; "Pada hari Ini telah Kusempurnakan untuk kamu agamamu, dan telah Ku-cukupkan kepadamu nikmat-Ku, dan telah Ku-ridhai Islam itu jadi agama bagimu."(QS Al Ma'idah ayat:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4606</td></tr><tr><td>Arabic No</td><td>4606</td></tr><tr><td>Reference</td><td>Book 65 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Тарика ибн Шихаба, что человек из числа иудеев сказал ’Умару: «Есть в вашем Писании один аят, который вы читаете, если бы он был ниспослан нам, то мы обязательно отмечали бы день (его ниспослания) как праздник». ’Умар сказал: «Поистине, я знаю, когда он был ниспослан, где он был ниспослан,и где был Посланник Аллаха ﷺ, когда он ниспосылался — это было в день Арафа, и клянусь Аллахом, в это момент мы находились на Арафате». \nСуфьян (передатчик) сказал: «Я сомневаюсь, было это в пятницу или нет». Речь идёт об аяте: «Сегодня Я довёл до совершенства для вас вашу религию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4606</td></tr><tr><td>Arabic No</td><td>4606</td></tr><tr><td>Reference</td><td>Book 65 Hadith 128</td></tr></tbody></table></div>
 

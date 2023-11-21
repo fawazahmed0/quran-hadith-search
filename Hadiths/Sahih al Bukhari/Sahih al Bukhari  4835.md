@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mughaffal:On the Day of the Conquest of Mecca, the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] Telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepada kami [Mu'awiyah bin Qurrah] dari [Abdullah bin Mughaffal] dia berkata; pada waktu fathu Makkah, Nabi shallallahu 'alaihi wasallam membaca surat Al Fath, dan beliau mengulang-ngulangnya. Mu'awiyah berkata; Jika aku ingin menceritakan kepada kalian bacaan Nabi shallallahu 'alaihi wasallam, tentu akan aku ceritakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4835</td></tr><tr><td>Arabic No</td><td>4835</td></tr><tr><td>Reference</td><td>Book 65 Hadith 356</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мугаффаль сказал: «В день завоевания Мекки Пророк ﷺ читал нараспев суру “аль-Фатх”». Му‘авия сказал: «Если бы я захотел, то показал бы вам, как читал Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4835</td></tr><tr><td>Arabic No</td><td>4835</td></tr><tr><td>Reference</td><td>Book 65 Hadith 356</td></tr></tbody></table></div>
 

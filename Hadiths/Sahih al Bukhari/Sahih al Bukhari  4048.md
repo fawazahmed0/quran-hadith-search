@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas: His uncle (Anas bin An-Nadr) was absent from the battle of Badr a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Hasan bin Hasan] telah menceritakan kepada kami [Muhammad bin Thalhah] telah menceritakan kepada kami [Humaid] dari [Anas] radliallahu 'anhu, bahwa pamannya tidak ikut serta dalam perang Badr, dia berkata, "Aku tidak ikut awal peperangan yang dilakukan Nabi shallallahu 'alaihi wasallam, sekiranya Allah memberiku kesempatan untuk ikut serta (berperang) bersama Nabi shallallahu 'alaihi wasallam, maka Allah akan melihatku apa yang akan kulakukan." Lalu dia menjumpai perang Uhud, ketika itu orang-orang porak poranda. Maka paman Anas berkata, "Ya Allah, aku minta permaafan dari yang mereka lakukan -maksudnya para sahabatnya-, dan aku serahkan kepada-Mu apa yang diperbuat oleh orang-orang musyrik." Lalu ia maju dengan sebilah pedangnya hingga ia bertemu Sa'ad bin Mu'adz, dia lalu berujar, "Dimanakah wahai Sa'd, sungguh aku mendapati bau surga di belakang Uhud." Saat perang usai, ia terbunuh, dan tidak ada yang mengenali jasadnya selain saudara perempuannya dengan tanda atau jari-jemari yang ada pada dirinya, dan didapati (dalam jasadnya) sebanyak delapan puluh lebih tikaman tombak, sabetan pedang, dan tusukan panah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4048</td></tr><tr><td>Arabic No</td><td>4048</td></tr><tr><td>Reference</td><td>Book 64 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) мой дядя, не принимавший участия в битве при Бадре, сказал: “Я не участвовал в первом сражении Пророка ﷺ, но если (Аллах даст мне возможность сразиться) вместе с Пророком ﷺ, то, поистине, Аллах увидит, что я сделаю!” Когда же в день битвы при Ухуде мусульмане потерпели поражение, он воскликнул: “О Аллах, я приношу Тебе извинения за то, что сделали эти, — имея в виду своих товарищей мусульман — и (призываю) Тебя (засвидетельствовать) мою непричастность, к (тому, что совершили) те!” — имея в виду многобожников. (Сказав же это,) он двинулся вперёд со своим мечом и столкнулся с (бежавшим) Са‘дом ибн Му‘азом, (которому он) сказал: “Куда ты, о Са‘д? Я ощущаю благоухание Рая со стороны Ухуда!” Затем он пошёл дальше и был убит, (а после боя), никто не смог опознать его, кроме его сестры, узнавшей его по родинке и кончикам пальцев его рук, на (его теле) было восемьдесят с лишним ран от копий, мечей и стрел»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4048</td></tr><tr><td>Arabic No</td><td>4048</td></tr><tr><td>Reference</td><td>Book 64 Hadith 94</td></tr></tbody></table></div>
 

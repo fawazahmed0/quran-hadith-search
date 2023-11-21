@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:A woman came to Allah's Messenger (ﷺ) and said, "I pres
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Abu Hazim] dari [Sahl bin Sa'd] ia berkata; Ada seorang wanita datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Sesungguhnya aku menghibahkan diriku." Wanita itu berdiri agak lama, lalu seorang laki-laki pun berkata, "Nikahkahkanlah aku dengannya, jika memang Anda tidak berhasrat padanya." Beliau bertanya: "Apakah kamu memiliki sesuatu untuk maharnya?" laki-laki itu berkata, "Aku tidak punya apa-apa kecuali kainku ini." Beliau bersabda: "Jika kamu memberikannya dan kamu duduk tak berkain. Carilah sesuatu." Laki-laki itu menjawab, "Aku tidak mendapatkan sesuatu." Beliau bersabda lagi: "Carilah, meskipun hanya berupa cincin emas." Namun laki-laki itu ternyata tak mendapatkan sesuatu, akhirnya beliau bertanya: "Apakah kamu hafal sesuatu dari Al Qur'an?" laki-laki itu menjawab, "Ya, yaitu surat ini dan ini." Ia menyebutkannya. Maka beliau bersabda: "Sesungguhnya aku telah menikahkanmu dengan wanita itu dengan mahar hafalan Al Qur'anmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>5135</td></tr><tr><td>Reference</td><td>Book 67 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д рассказывал: «Однажды какая-то женщина пришла к Посланнику Аллаха ﷺ и сказала: “Я дарю тебе себя”. Она стояла довольно долго. Тогда один человек сказал: “Если ты в ней не нуждаешься, жени на ней меня”. Посланник Аллаха ﷺ спросил: “А есть ли у тебя что-нибудь, что можно отдать ей в качестве брачного дара?” Тот сказал: “Ничего, кроме моего изара”. Посланник Аллаха ﷺ сказал: “Если ты отдашь ей свой изар, то сам останешься без изара. Поищи что-нибудь другое”. Он сказал: “У меня ничего нет”. Посланник Аллаха ﷺ сказал: “Попробуй найти хотя бы железный перстень”. Он поискал, но не смог ничего найти. Тогда Посланник Аллаха ﷺ спросил его: “Знаешь ли ты что-нибудь из Корана?” Он ответил: “Да, такую-то и такую-то суру” — и он назвал эти суры. Тогда Посланник Аллаха ﷺ сказал ему: “Я выдаю её за тебя на основании того, что ты знаешь из Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>5135</td></tr><tr><td>Reference</td><td>Book 67 Hadith 71</td></tr></tbody></table></div>
 

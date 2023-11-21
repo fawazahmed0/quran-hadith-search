@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:When Allah revealed the Verse: "Warn your nearest kinsmen,"
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku [Sa'id bin Al Musayyab] dan [Abu Salamah bin 'Abdur Rahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam berdiri ketika turun turun QS asy-Syu'ara' ayat 214 yang artinya: ("Dan berilah peringatan kepada keluarga-keluargamu yang terdekat"), Beliau berseru: "Wahai Kaum Quraisy" atau ucapan semacamnya, peliharalah diri kalian karena aku tidak dapat membela kalian sedikitpun di hadapan Allah. Wahai Bani 'Abdi Manaf, aku tidak dapat membela kalian sedikitpun di hadapan Allah. Wahai 'Abbas bin 'Abdul Muthallib aku tidak dapat membela kamu sedikitpun di hadapan Allah. Wahai Shofiyah bibi Rasulullah, aku tidak dapat membela kamu sedikitpun di hadapan Allah. Wahai Fathimah putri Muhammad, mintalah kepadaku apa yang kamu mau dari hartaku, sungguh aku tidak dapat membela kamu sedikitpun di hadapan Allah". Hadits ini ditelusuri oleh [Ashbagh] dari [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2753</td></tr><tr><td>Arabic No</td><td>2753</td></tr><tr><td>Reference</td><td>Book 55 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда Всемогущий и Великий Аллах ниспослал Посланнику Аллаха ﷺ (аят, в котором сказано): “И увещевай своих ближайших родственников…”, он (обратился к курайшитам и) сказал: “О курайшиты (или же он сказал нечто подобное), купите самих себя, ибо я никак не смогу избавить вас от (наказания) Аллаха! О бану ‘абд манаф, я никак не смогу избавить вас от (наказания) Аллаха! О ‘Аббас бин ‘Абд аль-Мутталиб, я никак не смогу избавить тебя от (наказания) Аллаха! О Сафиййа, тётка посланика Аллаха, я никак не смогу избавить тебя от (наказания) Аллаха! О Фатима, дочь Мухаммада, я никак не смогу избавить тебя от (наказания) Аллаха! Проси у меня чего хочешь из моего имущества, но я никак не смогу избавить тебя от (наказания) Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2753</td></tr><tr><td>Arabic No</td><td>2753</td></tr><tr><td>Reference</td><td>Book 55 Hadith 16</td></tr></tbody></table></div>
 

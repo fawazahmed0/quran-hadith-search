@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Allah, the Majestic and t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya At Tujibi] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Sa'id bin Al Musayyab] bahwa ia mendengar [Abu Hurairah] radliallahu 'anhu berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah 'azza wajalla telah berfirman; 'Setiap amal anak Adam adalah teruntuk baginya, kecuali puasa, karena ia adalah bagi-Ku, dan Akulah yang akan membalasnya.' Maka demi Dzat yang jiwa Muhammad ada di tangan-Nya, sungguh, bau mulut orang yang berpuasa adalah lebih wangi di sisi Allah daripada wanginya kesturi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2704</td></tr><tr><td>Arabic No</td><td>1151.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2704</td></tr><tr><td>Arabic No</td><td>1151.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 210</td></tr></tbody></table></div>
 

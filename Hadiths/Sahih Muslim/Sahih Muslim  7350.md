@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:We came back after having performed Pilgrimage or '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Salim bin Nuh] telah mengkhabarkan kepadaku [Al Jurairi] dari [Abu Nadhrah] dari [Abu Sa'id Al Khudri] berkata: Kami pergi menunaikan haji atau umrah, Ibnu Sha'id bersama kami. kami singgah disuatu tempat, orang-orang berpencar dan yang tersisa hanya aku dan dia, aku sangat tidak senang padanya karena yang dikatakan orang-orang tentang dia. Ia membawa barang-barang perbekalannya lalu diletakkan bersamaan dengan barang-barangku. Aku berkata: Panas sekali, andai kau meletakkanya di bawah pohon itu. Abu Sa'id berkata: Ia melakukannya. Abu Sa'id berkata: Lalu seekor kambing diangkat, ia pergi lalu datang dengan membawa gelas. Ia berkata: Minumlah wahai Abu Sa'id. Aku berkata: Panas sekali, susu itu juga panas. Tidak ada apa-apa denganku selain hanya karena aku tidak suka minum dari tangannya -atau ia berkata: Aku mengambil dari tangannya. Lalu Abu Sha'id berkata: Wahai Abu Sa'id, aku ingin mengambil tali lalu aku gantungkan dipohon kemudian aku gantung diri karena yang dikatakan banyak orang terhadapku. Wahai Abu Sa'id, siapa yang tidak mengetahui hadits Rasulullah Shallallahu 'alaihi wa Salam, kalian wahai kaum Anshar, tidaklah samar bagi kalian. Bukankah kalian termasuk yang paling tahu hadits Rasulullah Shallallahu 'alaihi wa Salam? Bukankah beliau pernah bersabda bahwa ia (Dajjal) kafir sementara aku muslim, bukankah Rasulullah Shallallahu 'alaihi wa Salam bersabda bahwa ia (Dajjal) mandul sementara aku punya anak? Dan aku tinggalkan ayahku di Madinah. Bukankah Rasulullah Shallallahu 'alaihi wa Salam pernah bersabda bahwa ia (Dajjal) tidak bisa memasuki Madinah dan Makkah sementara aku telah meninggalkan Madinah dan sekarang aku hendak ke Makkah? Abu Sa'id Al Khudri berkata: Hampir saja aku menerima alasannya (Abu Sha'id). Setelah itu ia berkata: Ingat, demi Allah aku mengetahuinya (Dajjal), aku mengetahui kelahirannya dan dimana sekarang ia berada. Abu Sa'id berkata: Aku berkata padanya: Celakalah kau sepanjang hari ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7350</td></tr><tr><td>Arabic No</td><td>2927.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7350</td></tr><tr><td>Arabic No</td><td>2927.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 114</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud:The Prophet (ﷺ) said, 'One of the sayings of the early Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Manshur] dari [Rib'i bin Hirasy] telah menceritakan kepada kami [Abu Mas'ud] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya yang diperoleh manusia dari ucapan kenabian yang pertama adalah jika kamu tidak mempunyai rasa malu, maka berbuatlah sesukamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6120</td></tr><tr><td>Arabic No</td><td>6120</td></tr><tr><td>Reference</td><td>Book 78 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд (да будет доволен им Аллах) сказал: «Пророк ﷺ сказал: “Поистине, дошло до людей из слов первого пророчества (следующее): если ты не чувствуешь стыда, делай что хочешь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6120</td></tr><tr><td>Arabic No</td><td>6120</td></tr><tr><td>Reference</td><td>Book 78 Hadith 147</td></tr></tbody></table></div>
 

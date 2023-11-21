@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sulamah daughter of al-Hurr: I heard the Messenger of Allah (ﷺ) say: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abbad Al-Azdi] telah menceritakan kepada kami [Marwan] telah menceritakan kepadaku [Thalhah, Ummu Ghurab] dari ['Aqilah], seorang wanita dari Bani Fazarah, maula mereka dari [Salamah binti Al-Hurr], saudara wanita Kharasyah bin Al-Hurr Al-Fazari dia berkata; Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Diantara tanda-tanda Hari Kiamat, jama'ah Masjid saling dorong karena mereka tidak mendapatkan imam yang bisa mengimami mereka shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>581</td></tr><tr><td>Arabic No</td><td>581</td></tr><tr><td>Reference</td><td>Book 2 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма бинт аль-Хурр, сестра Хараша ибн аль-Хурра аль-Фазари, сказала: «Я слышала, как Посланник Аллаха ﷺ говорил: “Один из признаков наступления Часа этого это то, что люди в мечети станут отталкивать (от себя руководство молитвой), не находя имама, который возглавлял бы их в молитве”».Шейх аль-Альбани сказал: «Слабый хадис /да‘иф/». См. «Да‘иф Аби Дауд» 91, «Да‘иф аль-джами‘ ас-сагъир» 1987, «Мишкат аль-масабих» 1124.Иснад этого хадиса слабый. Две его передатчицы Тальха Умм Гъураб и ‘Акъиля являются неизвестными, как об этом сказал хафиз (Ибн Хаджар) в «ат-Такъриб», даже если первую из них назвал надёжной Ибн Хиббан. См. «Да‘иф Аби Дауд» 1/204.О том, что в передатчице по имени ‘Акъиля присутствует неизвестность, сказал также имам аз-Захаби. См. «Мизан аль-и‘тидаль»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>581</td></tr><tr><td>Arabic No</td><td>581</td></tr><tr><td>Reference</td><td>Book 2 Hadith 191</td></tr></tbody></table></div>
 

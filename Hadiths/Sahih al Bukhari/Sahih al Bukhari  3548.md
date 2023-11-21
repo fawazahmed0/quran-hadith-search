@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) was neither very tall nor short, neither a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik bin Anas] dari [Rabi'ah bin Abu 'Abdur Rahman] dari [Anas bin Malik radliallahu 'anhu] bahwa dia mendengarnya berkata; "Adalah Rasulullah shallallahu 'alaihi wasallam tidaklah berbadan tinggi dan juga tidak pendek. Kulit beliau tidak terlalu putih dan juga tidak terlalu kecoklatan. Rambut beliau tidak terlalu keriting dan tidak lurus. Beliau diutus oleh Allah Subhaanahu wa Ta'ala saat usia beliau empat puluh tahun lalu tinggal di Makkah selama sepuluh tahun dan menetap di Madinah selama sepuluh tahun lalu Allah Subhaanahu wa Ta'ala mewafatkan beliau dan ada rambut yang beruban pada kepala dan jenggot beliau tidak lebih dari dua puluh helai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3548</td></tr><tr><td>Arabic No</td><td>3548</td></tr><tr><td>Reference</td><td>Book 61 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ не был ни слишком высок, ни мал (ростом), и не был ни слишком белокожим, ни смуглым, а волосы его были ни слишком курчавыми, ни абсолютно прямыми. Аллах направил его (к людям как посланника), когда он достиг сорока лет, после чего он прожил десять лет в Мекке и десять лет в Медине, а когда Аллах упокоил его, на его голове и бороде не было и двадцати седых волос»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3548</td></tr><tr><td>Arabic No</td><td>3548</td></tr><tr><td>Reference</td><td>Book 61 Hadith 57</td></tr></tbody></table></div>
 

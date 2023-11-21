@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Sharik reported:I heard Allah's Messenger (ﷺ) as saying: The people would 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Hajjaj bin Muhammad] berkata: Berkata [Ibnu Juraij]: telah menceritakan kepadaku [Abu Az Zubair] ia mendengar [Jabir bin Abdullah] berkata: telah mengkhabarkan kepadaku [Ummu Syarik] bahwa ia mendengar nabi Shallallahu 'alaihi wa Salam bersabda: "Manusia akan lari dari Dajjal ke gunung." Ummu Syarik bertanya: Wahai Rasulullah, lalu dimana bangsa arab saat itu? Beliau menjawab: "Mereka sedikit." Telah menceritakannya kepada kami [Muhammad bin Basyar] dan [Abdu bin Humaid], keduanya berkata: Telah menceritakan kepada kami [Abu Ashim] dari [Ibnu Juraij] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7393</td></tr><tr><td>Arabic No</td><td>2945.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7393</td></tr><tr><td>Arabic No</td><td>2945.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 154</td></tr></tbody></table></div>
 

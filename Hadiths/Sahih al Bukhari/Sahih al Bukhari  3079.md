@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Uthman An-Nahdi:Mujashi (bin Mas'ud) took his brother Mujalid bin 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Khalid] dari [Abu 'Utsman an-Nahdiy] dari [Mujasyi' bin Mas'ud] berkata; Mujasyi'bersama saudaranya Mujalid bin Khalid datang menemui Nabi Shallallahu'alaihiwasallam seraya berkata; "Ini Mujalid datang dengan tujuan berbai'at kepada Baginda untuk hijrah". Maka Beliau berkata: "Tidak ada lagi hijrah setelah pembebasan Makkah, akan tetapi aku membai'atmu untuk (membela) Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3079</td></tr><tr><td>Arabic No</td><td>3079</td></tr><tr><td>Reference</td><td>Book 56 Hadith 283</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджаши‘ ибн Мас‘уд привёл своего брата Муджалида ибн Мас‘уда к Пророку ﷺ и сказал: «Это Муджалид, он хочет присягнуть тебе на совершение хиджры». (Пророк ﷺ) сказал: «Нет хиджры после завоевания Мекки, однако я приму его присягу на верность исламу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3079</td></tr><tr><td>Arabic No</td><td>3079</td></tr><tr><td>Reference</td><td>Book 56 Hadith 283</td></tr></tbody></table></div>
 

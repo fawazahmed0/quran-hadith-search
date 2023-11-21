@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Darda' reported Allah's Apostle (ﷺ) as saying:Is any one of you incapable 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Muhammad bin Basysyar] - [Zuhair] berkata- telah menceritakan kepada kami [Yahya bin Sa'id] dari [Syu'bah] dari [Qatadah] dari [Salim bin Abul Ja'd] dari [Ma'dan bin Abu Thalhah] dari [Abu Darda'] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak sanggupkah salah seorang dari kalian membaca sepertiga Al Qur'an dalam semalam?" Mereka balik bertanya, "Bagaimana cara membaca sepertiganya?" Nabi shallallahu 'alaihi wasallam menjawab: "'QUL HUWALLAHU AHAD' (surat Al Ikhlash) sama dengan sepertiga Al Qur'an." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Muhammad bin Bakr] telah menceritakan kepada kami [Sa'id bin Abu 'Arubah] -dalam jalur lain- Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami ['Affan] Telah menceritakan kepada kami [Aban Al Aththar] semuanya dari [Qatadah] dengan isnad ini. Dan di dalam hadits keduanya adalah dari sabda Nabi shallallahu 'alaihi wasallam: "Sesungguhnya Allah 'azza wajalla menjadikan Al Qur'an itu tiga bagian. Lalu Dia menjadikan, 'QUL HUWALLAHU AHAD.' Sebagai satu bagian dari bagian-bagian Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1886</td></tr><tr><td>Arabic No</td><td>811.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 314</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу ад-Дарды, что (однажды) Пророк ﷺ спросил (людей): «Сможет ли кто-нибудь из вас прочесть за ночь треть Корана?» Люди сказали: «Как же (сможет кто-нибудь) прочесть треть Корана?» (Абу ад-Дарда передал, что после этого Пророк ﷺ) сказал: «(Сура, в которой сказано): «Скажи: “Он Аллах, Один”», равна трети Корана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1886</td></tr><tr><td>Arabic No</td><td>811.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 314</td></tr></tbody></table></div>
 

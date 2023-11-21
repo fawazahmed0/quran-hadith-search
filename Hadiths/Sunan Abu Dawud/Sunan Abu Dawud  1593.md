@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated ‘Abdallah bin Umar :‘Umar bin Al Khattab gave a horse as alms in th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah] dari [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa Umar bin Al Khathab radliallahu 'anhu telah mewakafkan kuda di jalan Allah, kemudian ia melihat kuda tersebut dijual, kemudian ia ingin membelinya. Lalu ia bertanya kepada Rasulullah shallAllahu wa'alaihi wa sallam mengenai hal tersebut, kemudian beliau bersabda: "Jangan engkau beli, dan janganlah engkau mengambil kembali sedekahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2636) Sahih Muslim (1620)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1593</td></tr><tr><td>Arabic No</td><td>1593</td></tr><tr><td>Reference</td><td>Book 9 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, отдал коня в качестве милостыни для сражений на пути Аллаха, а потом обнаружил, что этого коня продают, и хотел купить его. Он спросил об этом Посланника Аллаха ﷺ и тот сказал: «Не покупай его и не возвращайся к своей милостыне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2636) Sahih Muslim (1620)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1593</td></tr><tr><td>Arabic No</td><td>1593</td></tr><tr><td>Reference</td><td>Book 9 Hadith 38</td></tr></tbody></table></div>
 

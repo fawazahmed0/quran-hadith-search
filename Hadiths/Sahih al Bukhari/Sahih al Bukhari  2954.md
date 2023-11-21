@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hurairah (ra):Allah's Messenger (ﷺ) sent us on military expeditio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2954</td></tr><tr><td>Arabic No</td><td>2954</td></tr><tr><td>Reference</td><td>Book 56 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды,) отправляя нас в военный поход, Посланник Аллаха ﷺ сказал нам: “Если встретите такого-то и такого-то, после чего назвал имена двух курайшитов, сожгите их”. А когда потом мы пришли к нему, чтобы попрощаться перед самым отъездом, он сказал: “Сначала я велел вам сжечь такого-то и такого-то, но, поистине, наказанию огнём вправе подвергать один лишь Аллах, (а поэтому) если вы захватите этих двоих, (просто) убейте их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2954</td></tr><tr><td>Arabic No</td><td>2954</td></tr><tr><td>Reference</td><td>Book 56 Hadith 166</td></tr></tbody></table></div>
 

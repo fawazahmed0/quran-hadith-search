@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: A client of the Prophet (ﷺ) died and left some
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya], telah menceritakan kepada kami [Syu'bah], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Utsman Ibnu Abu Syaibah?], telah menceritakan kepada kami [Waki' bin Al Jarrah], dari [Sufyan], semuanya berasal dari [Ibnu Al Ashbahani], dari [Muhajid bin Wardan], dari ['Urwah] dari [Aisyah] radliallahu 'anha, bahwa mantan budak Nabi shallallahu 'alaihi wasallam meninggal dan ia tidak meninggalkan sesuatupun, dan tidak meninggalkan anak serta kerabat. Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Berikan warisannya kepada seseorang yang merupakan penduduk kampungnya." Abu Daud berkata; dan hadits Sufyan lebih sempurna. Musaddad berkata; Nabi shallallahu 'alaihi wasallam berkata: "Apakah di sini terdapat seseorang yang berasal dari penduduk negerinya?" Mereka berkata; Iya. Beliau bersabda: "Berikan warisan tersebut kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2902</td></tr><tr><td>Arabic No</td><td>2902</td></tr><tr><td>Reference</td><td>Book 19 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что вольноотпущенник Пророка ﷺ умер, оставив некоторое имущество, но не оставив ни детей, ни родственников, и Пророк ﷺ сказал: «Отдайте его наследство какому-нибудь человеку из его селения». По словам Абу Дауда, версия Суфьяна более полная, а в версии Мусаддада говорится, что Пророк ﷺ спросил: «Есть ли здесь кто-нибудь из той же земли, что и он?» Ему ответили: «Да». Он сказал: «Отдайте ему его наследство»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2902</td></tr><tr><td>Arabic No</td><td>2902</td></tr><tr><td>Reference</td><td>Book 19 Hadith 18</td></tr></tbody></table></div>
 

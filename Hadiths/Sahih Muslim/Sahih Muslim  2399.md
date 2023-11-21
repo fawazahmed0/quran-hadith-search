@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who begs the riches of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] dan [Washil bin Abdul A'la] keduanya berkata, telah menceritakan kepada kami [Ibnu Fudlail] dari [Umarah bin Al Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang meminta-minta kepada orang banyak untuk menumpuk harta kekayaan, berarti dia hanya meminta bara api. Sama saja halnya, apakah yang diterimanya sedikit atau banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2399</td></tr><tr><td>Arabic No</td><td>1041</td></tr><tr><td>Reference</td><td>Book 12 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Кто просит у людей для увеличения своего имущества, тот просит себе (адские) угли, так пуст же уменьшит их количество, либо увеличит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2399</td></tr><tr><td>Arabic No</td><td>1041</td></tr><tr><td>Reference</td><td>Book 12 Hadith 136</td></tr></tbody></table></div>
 

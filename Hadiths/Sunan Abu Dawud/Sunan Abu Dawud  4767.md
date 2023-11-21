@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] berkata, telah menceritakan kepada kami [Al A'masy] dari [Khaitsamah] dari [Suwaid bin Ghafalah] ia berkata; [Ali radliallahu 'anhu] berkata, "Jika aku menceritakan kepada kalian sebuah hadits Rasulullah shallallahu 'alaihi wasallam, maka jika aku jatuh dari langit lebih aku sukai dari pada aku harus berdusta. Dan jika aku berbicara tentang suatu permasalahan yang terjadi antara aku dengan kalian, maka sesungguhnya peperangan itu penuh dengan tipu daya. Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada akhir zaman nanti akan muncul suatu kaum yang usianya masih muda, namun cita-cita mereka gila. Mereka berbicara berdasarkan perkataan manusia yang paling baik (Muhammad shallallahu 'alaihi wasallam). Tetapi mereka keluar dari Islam seperti keluarnya anak panah dari busurnya. Keimanan mereka tidak melampaui kerongkongan, maka dimanapun kalian mendapati mereka bunuhlah mereka. Sebab membunuh mereka akan diberi pahala pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3611) Sahih Muslim (1066)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4767</td></tr><tr><td>Arabic No</td><td>4767</td></tr><tr><td>Reference</td><td>Book 42 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али сказал: «Когда я передаю вам что-нибудь от Посланника Аллаха ﷺ для меня желаннее упасть с неба, чем возвести на него ложь. Если же я просто говорю вам что-нибудь между нами, то, как известно, война хитрость. Итак, Посланник Аллаха ﷺ сказал: “В конце времён появятся в моей общине люди недалёкие юнцы. Они будут произносить некоторые из слов лучшего из творений и при этом отдаляться от ислама подобно тому, как стрела пронзает дичь и выходит с другой стороны. Их вера не пройдёт дальше их глоток. Где бы вы ни встретили их, убивайте их, ибо в Судный день те, кто убивал их, получат награду”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3611) Sahih Muslim (1066)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4767</td></tr><tr><td>Arabic No</td><td>4767</td></tr><tr><td>Reference</td><td>Book 42 Hadith 172</td></tr></tbody></table></div>
 

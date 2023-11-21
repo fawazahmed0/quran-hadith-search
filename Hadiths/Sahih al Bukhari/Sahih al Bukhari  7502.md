@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah created the creation, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7502</td></tr><tr><td>Arabic No</td><td>7502</td></tr><tr><td>Reference</td><td>Book 97 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Аллах создал все творения, а когда Он завершил это, со своего места поднялись родственные связи. Аллах спросил: “В чём дело?” Они сказали: “Это — место того, кто прибегает к защите Твоей от разрыва”. Тогда Он сказал: “Так удовольствуетесь ли вы тем, что Я буду поддерживать связь с тем, кто станет вас поддерживать, и порву с тем, кто будет порывать вас?” Они ответили: “Да, о Господь мой!” (И тогда) Он сказал: “Это даруется вам”». \nПотом Абу Хурайра, да будет доволен им Аллах, сказал: «А может быть, если вы отвернётесь (от Книги Аллаха и Сунны Его Посланника), будете распространять нечестие по земле и порывать родственные связи?» (Сура «Мухаммад», аят 22)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7502</td></tr><tr><td>Arabic No</td><td>7502</td></tr><tr><td>Reference</td><td>Book 97 Hadith 127</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Fasting for those who perform ,Hajj-at-Tamattu' (in lieu of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Salim bin 'Abdullah bin 'Umar] dari [Ibnu 'Umar radliallahu 'anhuma] berkata: "Diperbolehkan berpuasa bagi orang yang melaksanakan haji tamattu' (bersenang-senang setelah mengerjakan 'umrah sebelum melaksanakan manasik haji) hingga hari 'Arafah bila tidak membawa hewan qurban (Al Hadyu) dan tidak boleh berpuasa pada hari-hari Mina (Tasyriq) ". Dan dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] seperti hadits ini juga dan dikuatkan oleh [Ibrahim bin Sa'ad] dari [Ibnu Syihab]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1999</td></tr><tr><td>Arabic No</td><td>1999</td></tr><tr><td>Reference</td><td>Book 30 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пост, тем, кто совершает хадж ат-таматту‘ (и не может приобрести жертвенное животное), можно держать до (дня стояния) на ‘Арафате. А если человек не смог приобрести жертвенное животное и не постился, то он должен поститься в дни пребывания в Мине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1999</td></tr><tr><td>Arabic No</td><td>1999</td></tr><tr><td>Reference</td><td>Book 30 Hadith 104</td></tr></tbody></table></div>
 

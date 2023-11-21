@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Hudhaifa b. al-Yaman who said:People us
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Al Walid bin Maslim] telah menceritakan kepada kami [Abdurrahman bin Yazid bin Jabir] telah menceritakan kepadaku [Busr bin 'Ubaidullah Al Hadlrami] bahwa dia mendengar [Abu Idris Al Haulani] berkata; saya mendengar [Hudzaifah bin Yaman] berkata, "Biasanya orang-orang bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang kebajikan. Namun justru saya bertanya kepada beliau tentang kejahatan, karena saya khawatir akan menimpaku. Lalu saya bertanya, "Wahai Rasulullah! Kami dahulu berada dalam kejahilan dan kejahatan, karena itu Allah Ta'ala menurunkan kebaikan (agama) ini kepada kami. Mungkinkah sesudah ini timbul lagi kejahatan?" beliau menjawab: "Ya." Saya bertanya lagi, "Apakah setelah itu ada lagi kebaikan?" beliau menjawab: "Ya, akan tetapi ada cacatnya! saya bertanya, "Apa cacatnya?" Beliau bersabda: "Kaum yang mengamal sunnah selain dari sunnahku, dan memimpin tanpa hidayahku, kamu tahu mereka tapi kamu ingkari." Saya bertanya, "Apakah setelah itu akan ada kejahatan lagi?" Jawab beliau: "Ya. Yaitu orang-orang yang menyeru menuju neraka Jahannam, barangsiapa memenuhi seruannya maka ia akan dilemparkan ke dalam neraka itu." Maka saya bertanya lagi, "Wahai Rasulullah! Tunjukanlah kepada kami ciri-ciri mereka." Beliau menjawab: "Baik. Kulit mereka seperti kulit kita dan berbicara dengan bahasa kita." Aku bertanya lagi, "Wahai Rasulullah, bagaimana petunjuk anda seandainya saya menemui hal yang demikian?" Jawab beliau: "Tetaplah kamu bersama jama'ah kaum muslimin dan imam (pemimpin) mereka." Saya bertanya lagi, "Jika tidak ada jama'ah dan imam?" beliau menjawab: "Tinggalkan semua kelompok meskipun kamu menggigit akar kayu sampai ajal menjemput, dan kamu masih tetap pada pendirianmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4784</td></tr><tr><td>Arabic No</td><td>1847.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4784</td></tr><tr><td>Arabic No</td><td>1847.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 81</td></tr></tbody></table></div>
 

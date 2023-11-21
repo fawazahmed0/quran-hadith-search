@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported:An Amir or a person pronounced taslim twice. 'Abdullah said: W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ahmad bin Hanbal] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Syu'bah] dari [Al Hakam] dari [Mujahid] dari [Abu Ma'mar] dari [Abdullah], [Syu'bah] mengatakan; "Sesekali ia memarfukkannya, seorang penguasa atau seorang laki-laki pernah mengucapkan salam dua kali, lantas Abdullah berujar; "Darimanakah ia mendapatkan hal itu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>581.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса говорится, что некий правитель или некий человек дважды произносил таслим и (услышав об этом) ‘Абдуллах сказал: «Откуда он узнал (эту сунну)?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>581.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 152</td></tr></tbody></table></div>
 

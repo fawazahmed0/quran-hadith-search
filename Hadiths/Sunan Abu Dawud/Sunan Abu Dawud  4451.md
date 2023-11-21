@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:A man and a woman of the Jews who were married committed forni
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Yahya Abu Al Ashbagh Al Harrani] berkata, telah menceritakan kepadaku [Muhammad] -maksudnya Muhammad bin Salamah- dari [Muhammad bin Ishaq] dari [Az Zuhri] ia berkata, "Aku mendengar [seorang laki-laki] dari Muzainah menceritakan dari Sa'id Ibnul Musayyab, dari [Abu Hurairah] ia berkata, "Seorang laki-laki dan perempuan yahudi melakukan perbuatan zina, sementara keduanya sama-sama telah menikah ketika Rasulullah shallallahu 'alaihi wasallam datang ke Madinah. Padahal, sesuai dengan ketentuan Taurat mereka harus mendapatkan hukuman rajam. Namun mereka tidak melaksanakan hukuman itu dan menggantinya dengan Tajbih, yakni didera dengan cambuk sebanyak seratus kali dengan cambuk yang dilumuri warna hitam. Lalu diarak dengan dinaikkan himar, sementara wajah mereka menghadap ke arah bokong himar. Para ulama' mereka lalu berkumpul, mereka kemudian mengutus beberapa orang untuk menemui Rasulullah shallallahu 'alaihi wasallam. Para ulama' itu berkata, "Bertanyalah kepada Muhammad apa hukum bagi pezina…lalu ia menyebutkan hadits selengkapnya. Ia berkata, "Orang-orang yahudi itu bukan termasuk orang yang seagama dengannya (Rasulullah) namun beliau harus memberi putusan kepada mereka. Maka beliau diberi pilihan, Allah berfirman: '(Jika mereka (orang Yahudi) datang kepadamu (untuk meminta putusan), maka putuskanlah (perkara itu) diantara mereka, atau berpalinglah dari mereka..) ' -Al Maidah:
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4451</td></tr><tr><td>Arabic No</td><td>4451</td></tr><tr><td>Reference</td><td>Book 40 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, что однажды состоявший в браке мужчина и состоявшая в браке женщина совершили прелюбодеяние. Это произошло, когда Посланник Аллаха ﷺ прибыл в Медину. А в Торе содержалось предписание побивать прелюбодеев камнями, однако они перестали исполнять это предписание и вместо этого били прелюбодеев верёвкой, покрытой смолой, нанося каждому по сто ударов, и возили их на осле по улицам, посадив их лицом к заду осла. И учёные иудеи собрались и послали несколько человек к Посланнику Аллаха ﷺ сказав: «Спросите его о наказании за прелюбодеяние». Передатчик хадиса сказал: «При этом они не были его единоверцами и он не был обязан выносить решения для них. Ему был предоставлен выбор: “Если они явятся к тебе, то рассуди их или же отвернись от них”» (сура “аль-Маида”, аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4451</td></tr><tr><td>Arabic No</td><td>4451</td></tr><tr><td>Reference</td><td>Book 40 Hadith 101</td></tr></tbody></table></div>
 

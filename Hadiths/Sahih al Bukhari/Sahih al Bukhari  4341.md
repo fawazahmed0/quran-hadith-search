@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:Allah's Messenger (ﷺ) sent Abu Musa and Mu'adh bin Jabal to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] Telah menceritakan kepada kami [Abu Awanah] Telah menceritakan kepada kami [Abdul Malik] dari [Abu Burdah] katanya, Rasulullah shallallahu 'alaihi wasallam mengutus Abu Musa dan Mu'adz bin Jabal ke negeri Yaman. Dan beliau utus keduanya pada lokasi yang berbeda -sekalipun satu negara, Yaman- sebab Yaman ketika itu dibagi dua negara bagian, kemudian Nabi berpesan: "Tolong kalian permudah, jangan kalian persulit, berilah kabar gembira, jangan kalian jadikan masyarakat alergi (terhadap agama)." Masing-masing pun berangkat mengerjakan tugasnya. Selanjutnya masing-masing diantara keduanya jika berjalan di wilayah temannya, ia berusaha dekat dengan kawannya dan membuat perjanjian (kesepakatan bertemu) lantas mengucapkan salam. Di kemudian hari Mu'adz berjalan di kawasan kawannya, Abu musa, ia datang dengan berkendara diatas bighalnya hingga menemuinya yang ketika itu Mu'adz sedang duduk dikerumuni manusia. Tak tahunya disana ada seseorang yang kedua tangannya diikat diatas tengkuknya. Mu'adz menyapa; "Wahai Abdullah bin Qais (nama lain Abu Musa), orang ini memangnya mengapa?" Kata Abu Musa; "Orang ini telah kufur setelah keIslamannya." Mu'adz menjawab; "Saya tak akan turun hingga ia dibunuh." Abu Musa meneruskan; "Orang ini didatangkan semata-mata karena kemurtadannya, maka turunlah." Muadz menjawab; "Saya tak sudi turun dari hewan tungganganku hingga dibunuh." Maka Abu Musa perintahkan hingga si laki-laki dibunuh. Kemudian Muadz turun. Muadz bertanya; "Wahai Abdullah, bagaimana engkau membaca alquran? Jawab Muadz; "Saya berusaha membaca sebanyak-banyaknya, lalu engkau sendiri bagaimana wahai muadz?" Kalau aku, jawab Muadz, saya tidur diawal malam kemudian bangun, kulaksanakan hak tidurku, dan aku baca apa yang Allah tetapkan bagiku, Aku berharap pahala dari tidurku sebagaimana berharap pahala dari shalat malamku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4341</td></tr><tr><td>Arabic No</td><td>4341</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что (в своё время) Пророк ﷺ послал Абу Мусу и Му‘аза ибн Джабаля в Йемен (, назначив) каждого из них наместником провинции, которых в Йемене тогда было две, и сказав: «Облегчайте, а не создавайте трудности, несите благие вести, а не внушайте отвращение (к религии)!» — после чего оба они отправились делать своё дело. И когда любой из них во время объезда своей территории оказывался поблизости от (границ территории) своего товарища, он навещал и приветствовал его. Однажды Му‘аз, объезжавший свою территорию и оказавшийся близ (границ территории) своего товарища Абу Мусы, приехал к нему верхом на своей мулице и увидел, что (Абу Муса) сидит в окружении людей, а перед ним находится какой-то человек, руки которого были привязаны к его шее. Му‘аз спросил (его): «О ‘Абдуллах ибн Кайс, что это?» (Абу Муса) ответил: «Это — человек, отступившийся от веры после того, как он принял ислам». (Му‘аз) сказал: «Я не спущусь вниз, пока его не казнят!» (Абу Муса) сказал: «Его только для этого и привели, так что можешь спускаться». (Му‘аз снова) сказал: «Я не спущусь вниз, пока его не казнят!» — и тогда по приказу (Абу Мусы этого человека) казнили. После этого (Му‘аз) спешился и спросил: «О ‘Абдуллах, как ты читаешь Коран?» (Абу Муса) сказал: «Я читаю его днём и ночью по частям в определённые периоды времени. А как читаешь его ты, о Му‘аз?» (Му‘аз) ответил: «Я сплю первую часть ночи, потом встаю, проведя во сне часть времени, которое я отвожу для сна, а потом читаю столько, сколько предписал мне читать Аллах, и я надеюсь на награду Аллаха как за свой сон, так и за своё бодрствование»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4341</td></tr><tr><td>Arabic No</td><td>4341</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

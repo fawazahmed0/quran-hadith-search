@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Anyone who takes an oath thr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq yaitu bin Ibrahim] telah menceritakan kepada kami [Yahya bin Shalih] telah menceritakan kepada kami [Mu'awiyah] dari [Yahya] dari [Ikrimah] dari [Abu Hurairah] mengatakan, Rasulullah Shallallahu'alaihiwasallam bersabda: "Siapa yang terus menerus dalam keluarganya dengan disertai sumpah, itu lebih besar dosanya daripada sekedar membayar kaffarat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6626</td></tr><tr><td>Arabic No</td><td>6626</td></tr><tr><td>Reference</td><td>Book 83 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Кто станет упорствовать в клятве (выполнение которой может нанести вред) его семье, то это больше грехом, (чем нарушить клятву). Так пусть (оставит клятву) и совершит искупление»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6626</td></tr><tr><td>Arabic No</td><td>6626</td></tr><tr><td>Reference</td><td>Book 83 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:Allah's Messenger (ﷺ) used to put me on (one of) his t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami ['Arim] telah menceritakan kepada kami [Al Mu'tamir bin Sulaiman] ia bercerita dari [Ayahnya] dia berkata; saya mendengar [Abu Tamimah] bercerita dari [Abu Utsman An Nahdi], Abu Utsman bercerita dari [Usamah bin Zaid] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengambilku dan mendudukkanku di atas pangkuannya serta meletakkan Hasan di pangkuan beliau yang satu, lalu beliau mendekap keduanya dan berdo'a: "Ya Allah kasihilah keduanya karena aku mengasihi keduanya." Dan dari [Ali] dia berkata; telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Sulaiman] dari [Abu Utsman], At Taimi berkata; "Lalu aku merasa janggal, kataku; Aku menceritakan ini dan ini namun aku sendiri tidak mendengar dari Abu Utsman, kemudian aku mengeceknya, ternyata aku mendapatinya tertulis di bukuku sebagaimana yang aku dengar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6003</td></tr><tr><td>Arabic No</td><td>6003</td></tr><tr><td>Reference</td><td>Book 78 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама бин Зейд (да будет доволен Аллах ими обоими) сказал: «Посланник Аллаха ﷺ часто сажал меня на одну ногу, а аль-Хасана — на другую, потом обнимал нас, а потом говорил: “О Аллах, помилуй их, ибо, поистине, я их жалею!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6003</td></tr><tr><td>Arabic No</td><td>6003</td></tr><tr><td>Reference</td><td>Book 78 Hadith 34</td></tr></tbody></table></div>
 

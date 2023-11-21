@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ammar: The Prophet (ﷺ) said: He who is two-faced in this world will h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Syarik] dari [Ar Rukain bin Ar rabi'] dari [Nu'aim bin Hanzhalah] dari [Ammar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang di dunia mempunyai dua wajah, maka pada hari kiamat ia akan mempunyai dua lisan dari api
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 43 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аммар (ибн Ясир, да будет доволен им Аллах,) сказал: «Посланник Аллаха ﷺ сказал: “Тот, кто в мире этом был двуличным, в День воскрешения будет иметь два языка из огня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 43 Hadith 101</td></tr></tbody></table></div>
 

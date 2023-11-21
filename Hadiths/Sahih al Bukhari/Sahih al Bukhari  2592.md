@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Kuraib:the freed slave of Ibn 'Abbas, that Maimuna bint Al-Harith told 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] dari [Al Laits] dari [Yazid] dari [Bukair] dari [Kuraib, maula Iabnu 'Abbas] bahwa [Maimunah binti Al Harits radliallahu 'anha] mengabarkan kepadanya bahwa dia telah membebaskan budak wanitanya namun dia tidak meminta izin terlebih dahulu kepada Nabi shallallahu 'alaihi wasallam. Ketika hari giliran Beliau di rumahnya, Maimunah berkata: "Apakah kakanda telah mengetahui bahwa saya telah membebaskan budak wanita saya, wahai Rasulullah". Beliau bertanya: "Apakah kamu sudah melakukannya?" Dia menjawab: "Ya, sudah". Beliau bersabda: "Jika seandainya kamu hibahkan budak itu kepada bibi-bibi kamu tentu kamu akan mendapatkan pahala yang besar". Dan berkata, [Bakar bin Mudhor] dari ['Amru] dari [Bukair] dari [Kuraib] bahwa [Maimunah] telah membebaskan (budaknya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2592</td></tr><tr><td>Arabic No</td><td>2592</td></tr><tr><td>Reference</td><td>Book 51 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов матери правоверных Маймуны бинт аль-Харис, да будет доволен ею Аллах, что (в своё время) она освободила рабыню, не спросив позволения Пророка ﷺ, а когда наступил один из дней, по которым он приходил к ней, она сказала: «Известно ли тебе, о Посланник Аллаха, что я освободила свою рабыню?» Он спросил: «Ты и в самом деле сделала (это)?» Она ответила: «Да». (Тогда) он сказал: «Если бы ты отдала её братьям своей матери, твоя награда была бы больше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2592</td></tr><tr><td>Arabic No</td><td>2592</td></tr><tr><td>Reference</td><td>Book 51 Hadith 26</td></tr></tbody></table></div>
 

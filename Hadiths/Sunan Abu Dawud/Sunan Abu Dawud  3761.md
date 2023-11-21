@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salman al-Farsi: I read in the Torah that the blessing of food consists
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Qais] dari [Abu Hasyim] dari [Zadzan] dari [Salman] ia berkata, "Aku membaca dalam Taurat bahwa berkah makanan adalah dengan berwudlu sebelum makan. Lalu aku ceritakan hal tersebut kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Berkah makanan adalah dengan berwudlu sebelum makan dan setelah makan." Sedangkan Sufyan tidak menyukai wudlu sebelum makan." Abu Daud berkata, "Hadits tersebut adalah dla'if
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3761</td></tr><tr><td>Arabic No</td><td>3761</td></tr><tr><td>Reference</td><td>Book 28 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сальман, да будет доволен им Аллах, передаёт: «Я, до принятия ислама, читал в Торе, что благодать еды малое омовение перед ней. Я рассказал об этом Пророку ﷺ и он сказал: “Благодать еды малое омовение и до неё, и после неё”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3761</td></tr><tr><td>Arabic No</td><td>3761</td></tr><tr><td>Reference</td><td>Book 28 Hadith 26</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said to Abu-Dhar, "Listen and obey (yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Aban] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] dari [Abu At Tayyah] bahwa dia mendengar [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam pernah berkata kepada Abu Dzar: "Dengar dan taatlah sekalipun terhadap seorang budak Habasyi yang berambut keriting seperti buah anggur kering
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>696</td></tr><tr><td>Reference</td><td>Book 10 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу ат-Таййаха о том, что он слышал, как Анас ибн Малик, да будет доволен им Аллах, рассказывал, что Пророк ﷺ сказал Абу Зарру: «Слушай (своего правителя) и повинуйся (ему), даже если (подчиняться придётся) эфиопу, голова которого подобна изюмине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>696</td></tr><tr><td>Reference</td><td>Book 10 Hadith 91</td></tr></tbody></table></div>
 

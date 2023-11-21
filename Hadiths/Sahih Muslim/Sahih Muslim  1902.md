@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported Allah's Messenger (ﷺ) as saying:Gabriel taught me to recit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Ubaidullah bin Abdullah bin Utbah] bahwa [Ibnu Abbas] telah menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Mula-mula Jibril membacakan Al Qur'an padaku dengan satu huruf (bacaan dengan satu lahjah) saja. Lalu saya memohon agar ditambahkan. Maka Jibril pun menambahkannya hingga menjadi tujuh huruf (lahjah bacaan)." Ibnu Syihab berkata; "Telah sampai khabar kepadaku bahwa tujuh huruf itu, dalam masalah hukum adalah satu, tidak ada pertentangan di dalamnya mengenai halal dan haram." Dan telah menceritakannya kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdur Razaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dengan Isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1902</td></tr><tr><td>Arabic No</td><td>819.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 330</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что Посланник Аллаха ﷺ сказал: «Джибриль учил меня читать (Коран одним) способом, но я продолжал добиваться от него большего, пока он не (научил меня читать его) семью способами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1902</td></tr><tr><td>Arabic No</td><td>819.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 330</td></tr></tbody></table></div>
 

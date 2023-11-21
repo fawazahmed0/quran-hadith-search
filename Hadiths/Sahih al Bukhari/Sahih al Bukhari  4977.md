@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zirr bin Hubaish:I asked Ubai bin Ka'b, "O Abu AlMundhir! Your brother,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Abdah bin Abu Lubabah] dari [Zirr bin Hubaisy] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ashim] dari [Zirr] ia berkata; Aku bertanya kepada [Ubbay bin Ka'ab], aku katakan, "Wahai Abu Mundzir, sesungguhnya saudaramu Ibnu Mas'ud mengatakan seperti ini dan itu." Maka Ubbay pun berkata, "Aku pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda padaku. Lalu dikatakanlah padaku, maka aku pun berkata, 'Akan tetapi, kami akan mengatakan sebagaimana apa yang telah dikatakan oleh Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4977</td></tr><tr><td>Arabic No</td><td>4977</td></tr><tr><td>Reference</td><td>Book 65 Hadith 499</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зирр рассказывал: «Однажды я сказал Убайю ибн Ка‘бу: “О Абу-ль Мунзир! Твой брат Ибн Мас‘уд говорит то-то и то-то (то есть, что суры “аль-Фаляк” и “ан-Нас” не являются сурами из Корана)”. Убай ответил: “Я спрашивал (об этом) Посланника Аллаха ﷺ, и он ответил: “Мне было сказано: “Скажи”, и я сказал”. И мы говорим то же, что говорил Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4977</td></tr><tr><td>Arabic No</td><td>4977</td></tr><tr><td>Reference</td><td>Book 65 Hadith 499</td></tr></tbody></table></div>
 

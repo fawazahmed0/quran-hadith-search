@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said (regarding the Verse), "A Day when all
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail bin Abban] telah menceritakan kepada kami ['Isa bin Yunus] telah menceritakan kepada kami [Ibnu 'Aun] dari [Nafi'] dari [Ibnu 'Umar] radhilayyahu'anhuma, dari Nabi shallallahu 'alaihi wasallam perihal firman Allah; 'Pada hari manusia menghadap Allah rabb semesta alam' (QS. Almuthaffifirn 4-5), sabda beliau; "Mereka dihari itu dalam genangan keringatnya hingga pertengahan kedua telinganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6531</td></tr><tr><td>Arabic No</td><td>6531</td></tr><tr><td>Reference</td><td>Book 81 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал об аяте «(Того) Дня, когда предстанут люди пред Господом миров» (сура «аль-Мутаффин», аят 6): «Некоторые из них погрузятся в собственный пот до середины своих ушей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6531</td></tr><tr><td>Arabic No</td><td>6531</td></tr><tr><td>Reference</td><td>Book 81 Hadith 120</td></tr></tbody></table></div>
 

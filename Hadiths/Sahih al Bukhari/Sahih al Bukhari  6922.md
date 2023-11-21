@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:Some Zanadiqa (atheists) were brought to 'Ali and he burnt them
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man Muhammad bin Fadhl] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Ikrimah] mengatakan, beberapa orang Zindiq diringkus dan dihadapkan kepada Ali radliallahu 'anhu, lalu Ali membakar mereka. Kasus ini terdengar oleh [Ibnu Abbas], sehingga ia berujar; 'Kalau aku, aku tak akan membakar mereka karena ada larangan Rasulullah Shallallahu'alaihiwasallam yang bersabda: "Janganlah kalian menyiksa dengan siksaan Allah, " dan aku tetap akan membunuh mereka sesuai sabda Rasulullah Shallallahu'alaihiwasallam: "Siapa yang mengganti agamanya, bunuhlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>6922</td></tr><tr><td>Reference</td><td>Book 88 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Икрима сказал: «(Однажды) к ‘Али привели нескольких вероотступников, и он приказал сжечь их. Узнав об этом, Ибн ‘Аббас сказал: “(На его месте) я не стал бы сжигать их, ибо Посланник Аллаха ﷺ запретил это, сказав: “Не наказывайте наказанием Аллаха”. Однако я (просто) казнил бы их в соответствие со словами Посланника Аллаха ﷺ: “Кто изменил свою религию, того казните”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>6922</td></tr><tr><td>Reference</td><td>Book 88 Hadith 5</td></tr></tbody></table></div>
 

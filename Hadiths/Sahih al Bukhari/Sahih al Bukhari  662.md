@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah will prepare for him who goe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Muhammad bin Mutharrif] dari [Zaid bin Aslam] dari ['Atha bin Yasar] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa datang ke masjid di pagi dan sore hari, maka Allah akan menyediakan baginya tempat tinggal yang baik di surga setiap kali dia berangkat ke masjid di pagi dan sore hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>662</td></tr><tr><td>Arabic No</td><td>662</td></tr><tr><td>Reference</td><td>Book 10 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал:«Для того, кто ходит в мечеть утром и в конце дня, Аллах готовит (достойное) место в раю каждый раз, как (человек делает это)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>662</td></tr><tr><td>Arabic No</td><td>662</td></tr><tr><td>Reference</td><td>Book 10 Hadith 56</td></tr></tbody></table></div>
 

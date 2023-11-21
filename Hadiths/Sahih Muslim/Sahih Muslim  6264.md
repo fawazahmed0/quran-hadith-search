@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما) a dit : L'Envoyé de Dieu (paix et béné
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Yahya bin Ayyub], [Qutaibah] dan [Ibnu Hujr]. [Yahya bin Yahya] berkata; Telah mengabarkan kepada kami sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far dari ['Abdullah bin Dinar] bahwasannya dia mendengar [Ibnu 'Umar] berkata; "Rasulullah shallallahu 'alaihi wasallam pernah menyiapkan sebuah pasukan perang yang dipimpin oleh Usamah bin Zaid. Lalu para sahabat saling mengecam kepemimpinannya. Maka Rasulullah shallallahu 'alaihi wasallam bangkit seraya bersabda: "Apabila kalian mengecam kepemimpinan Usmah bin Zaid, maka berarti kalian juga mengecam kepemimpinan ayahnya sebelum itu. Demi Allah, sungguh ia memang layak dengan jabatan itu. Jika bapaknya adalah termasuk orang yang paling aku cintai, maka Usamah juga termasuk dari orang yang paling aku cintai setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6264</td></tr><tr><td>Arabic No</td><td>2426.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6264</td></tr><tr><td>Arabic No</td><td>2426.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 94</td></tr></tbody></table></div>
 

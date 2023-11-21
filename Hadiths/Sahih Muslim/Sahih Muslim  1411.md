@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:We used to offer the afternoon prayer (at such a time) th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] katanya; Aku bacakan kepada [Malik] dari [Ishaq bin Abdulah bin Abu Thalhah] dari [Anas bin Malik], katanya; kami shalat Ashar, kemudian seseorang pergi ke Bani 'Amru bin 'Auf dan ia mendapati mereka masih melakukan shalat Ashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1411</td></tr><tr><td>Arabic No</td><td>621.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «После того как мы заканчивали послеполуденную молитву, человек мог добраться до (домов людей из племени) бану ‘Амр ибн ‘Ауф и застать их за совершением послеполуденной молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1411</td></tr><tr><td>Arabic No</td><td>621.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 245</td></tr></tbody></table></div>
 

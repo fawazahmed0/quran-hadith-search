@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya Al-Ansariya:The Prophet (ﷺ) went to 'Aisha and asked her w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Khalid] dari [Hafshah binti Sirin] dari [Ummu 'Athiyah Al Anshariyyah radliallahu 'anhuma] berkata,: Nabi Shallallahu'alaihiwasallam menemui 'Aisyah radliallahu 'anha lalu berkata,: "Apakah ada sesuatu yang kalian miliki (untuk dimakan)?". Dia 'Aisyah radliallahu 'anha berkata,: "Tidak ada, kecuali apa yang dikirim buat kita oleh Nusaibah dari daging kambing yang diperuntukkan untuknya sebagai zakat". Maka Beliau berkata,: "Shadaqah itu telah sampai kepada tempatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1494</td></tr><tr><td>Arabic No</td><td>1494</td></tr><tr><td>Reference</td><td>Book 24 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа, да будет доволен ею Аллах, сказала: «(Однажды) Пророк ﷺ зашел к ‘Аише, да будет доволен ею Аллах, и спросил: “Найдётся ли у вас что-нибудь (поесть)?” ‘Аиша ответила: “Нет, если не считать немного баранины, которую прислала Нусайба в качестве милостыни”. (Пророк ﷺ) сказал: “Она достигла своего места”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1494</td></tr><tr><td>Arabic No</td><td>1494</td></tr><tr><td>Reference</td><td>Book 24 Hadith 94</td></tr></tbody></table></div>
 

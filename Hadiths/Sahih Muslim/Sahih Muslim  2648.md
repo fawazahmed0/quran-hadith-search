@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mas'oûd (que Dieu l'agrée) : 'Abdourrahmân Ibn Yazî
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] semuanya dari [Abu Mu'awiyah] - [Abu Kuraib] berkata- Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Umarah] dari [Abdurrahman bin Yazid] ia berkata; Al Asy'ats bin Qais pernah datang ke rumah Abdullah ketika dia sedang makan. Maka [Abdullah] pun berkata, "Ya Abu Muhammad! Mari silahkan makan." Asy'ats menjawab, "Bukankah hari ini adalah hari 'Asyura'?" Abdullah balik bertanya, "Tahukah kamu, apakah hari 'Asyura' itu?" kemudian ia melanjutkan, "Hari 'Asyura' adalah hari yang dijadikan Rasulullah shallallahu 'alaihi wasallam untuk berpuasa sebelum diwajibkannya puasa Ramadlan. Maka ketika puasa Ramadlan diwajibkan, maka puasa hari 'Asyura itu pun ditinggalkannya." Abu Kuraib mengatakan; "Beliau meninggalkannya." Dan Telah menceritakan kepada kami [Zuhair bin Harb] dasn [Utsman bin Abu Syaibah] keduanya berkata, Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dengan isnad ini, dan keduanya menyebutkan; "Maka ketika kewajiban puasa Ramadlan turun, beliau pun meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>1127.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>1127.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 154</td></tr></tbody></table></div>
 

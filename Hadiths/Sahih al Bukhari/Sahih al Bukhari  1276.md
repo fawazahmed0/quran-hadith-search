@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khabbab:We emigrated with the Prophet (p.b.u.h) in Allah's cause, and s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Syaqiq] telah menceritakan kepada kami [Khabab radliallahu 'anhu] berkata; Kami berhijrah bersama Nabi shallallahu 'alaihi wasallam dengan hanya mengharapkan ridha Allah dan kami telah mendapatkan pahala di sisi Allah. Lalu diantara kami ada yang meninggal lebih dahulu sebelum menikmati pahalanya sedikitpun (di dunia ini), diantaranya adalah Mus'ab bin Umair. Dan diantara kami ada yang buah (perjuangannya) sudah masak lalu dia memetiknya dengan terbunuh sebagai syahid di medan Perang Uhud namun kami tidak mendapatkan kain untuk mengafaninya kecuali burdah (kain bergaris) yang kain tersebut bila kami gunakan untuk menutup kepalanya, kakinya terbuka dan bila kakinya yang hendak kami tutup kepalanyalah yang terbuka. Maka kemudian Nabi shallallahu 'alaihi wasallam memerintahkan kami untuk menutup kepalanya dengan kain tersebut sedangkan kakinya kami tutup dengan dedaunan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1276</td></tr><tr><td>Arabic No</td><td>1276</td></tr><tr><td>Reference</td><td>Book 23 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб, да будет доволен им Аллах, сказал: «Мы переселились (из Мекки в Медину) вместе с Пророком ﷺ стремясь к лику Аллаха, а поэтому Аллах и наградит нас. Некоторые из нас умерли, не получив никакой награды (в мире этом), и среди них был Мус‘аб бин ‘Умайр, другим же (часть этой награды) досталась (уже здесь). Что касается (Мус‘аба), то он был убит в день битвы при Ухуде, и у нас не нашлось в качестве савана ничего, кроме его плаща, однако, когда мы покрывали им голову, неприкрытыми оставались ноги, когда же мы покрывали им ноги, то неприкрытой оставалась голова, и тогда Пророк ﷺ велел нам прикрыть его голову, а на ноги набросать душистого тростника»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1276</td></tr><tr><td>Arabic No</td><td>1276</td></tr><tr><td>Reference</td><td>Book 23 Hadith 37</td></tr></tbody></table></div>
 

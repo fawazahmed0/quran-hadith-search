@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:The Prophet (ﷺ) sent my father and Mu'adh bin Jabal to Yeme
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Al 'Aqdi] telah menceritakan kepada kami [Syu'bah] dari [Sa'id bin Abu Burdah] mengatakan, aku mendengar [Ayahku] mengatakan; Nabi shallallahu 'alaihi wasallam mengutus ayahku dan Mu'adz bin Jabal ke Yaman, Nabi berpesan: "Hendaknya kalian berdua mempermudah, jangan mempersulit, memberi kabar gembira, tidak menjadikan orang menjauh, dan bersatu padulah!" Lantas Abu Musa mengatakan kepadanya; "Di daerah kami sering dibuat fermentasi kurma (Albit'u)." Mu'adz menjawab; "setiap yang memabukkan adalah haram." Sedang [Abu Nadhr], [Abu Daud], [Yazid bin harun] dan [Waki'] mengatakan dari [Syu'bah] dari [Sa'id bin Abu Burdah] dari [ayahnya] dari [kakeknya], dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7172</td></tr><tr><td>Arabic No</td><td>7172</td></tr><tr><td>Reference</td><td>Book 93 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘ид Ибн Абу Бурда сказал: «Я слышал как мой отец сказал: “Пророк ﷺ послал моего отца (Абу Мусу аль-Аш‘ари) и Му‘аза ибн Джабаля в Йемен и сказал: “Облегчайте, а не затрудняйте, приносите радость, а не внушайте отвращение (к Исламу) и подчиняйтесь друг другу!” И Абу Муса сказал (Пророку ﷺ): “Поистине, на нашей земле изготовляют медовуху”. И (Пророк ﷺ) сказал: “Всё опьяняющее запретно”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7172</td></tr><tr><td>Arabic No</td><td>7172</td></tr><tr><td>Reference</td><td>Book 93 Hadith 36</td></tr></tbody></table></div>
 

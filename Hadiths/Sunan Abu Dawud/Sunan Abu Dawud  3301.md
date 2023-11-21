@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas b. Malik : The Messenger of Allah (ﷺ) saw a man that he was supp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya] dari [Humaid Ath Thawil] dari [Tsabit Al Bunani] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam melihat seorang laki-laki yang dipapah daintara dua orang anaknya. Kemudian beliau bertanya mengenainya, lalu mereka berkata; ia telah bernadzar untuk berjalan. Kemudian beliau berkata: "Sesungguhnya Allah tidak butuh penyiksaan orang ini terhadap dirinya." Dan beliau memerintahkannya agar berkendaraan. Abu Daud berkata; dan hadits tersebut diriwayatkan oleh ['Amr bin Abu 'Amr], dari [Al A'raj], dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6701) Sahih Muslim (1642)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3301</td></tr><tr><td>Arabic No</td><td>3301</td></tr><tr><td>Reference</td><td>Book 22 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Бурайды, да будет доволен им Аллах, что одна женщина пришла к Посланнику Аллаха ﷺ и спросила: «Я отдала своей матери рабыню, а теперь она умерла, оставив эту рабыню». (Посланник Аллаха ﷺ) сказал: «Ты заслужила свою награду, а рабыня возвращается к тебе с наследством». Эта женщина сказала: «И когда она умерла, на ней лежала обязанность держать пост…» И он рассказал историю, похожую на предыдущую
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6701) Sahih Muslim (1642)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3301</td></tr><tr><td>Arabic No</td><td>3301</td></tr><tr><td>Reference</td><td>Book 22 Hadith 60</td></tr></tbody></table></div>
 

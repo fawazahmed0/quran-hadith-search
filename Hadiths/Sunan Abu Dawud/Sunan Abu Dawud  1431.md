@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: If anyone oversleeps and mi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin 'Auf], telah menceritakan kepada Kami [Utsman bin Sa'id] dari [Abu Gassan Muhammad bin Mutharrif Al Madani] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abu Sa'id], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang tertidur dari melakukan witir atau lupa untuk melakukannya maka hendaknya ia melakukannya apabila ia ingat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1431</td></tr><tr><td>Arabic No</td><td>1431</td></tr><tr><td>Reference</td><td>Book 8 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто проспал витр или забыл о нём, пусть совершит его, когда вспомнит о нём»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1431</td></tr><tr><td>Arabic No</td><td>1431</td></tr><tr><td>Reference</td><td>Book 8 Hadith 16</td></tr></tbody></table></div>
 

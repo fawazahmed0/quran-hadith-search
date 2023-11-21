@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mustawrid ibn Shaddad: Al-Mustawrid heard the Prophet (ﷺ) say: He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Marwan Ar Raqqi], telah menceritakan kepada kami [Al Mu'afi], telah menceritakan kepada kami [Al Auza'i], dari [Al Harits bin Yazid], dari [Jubair bin Nufair] dari [Al Mustaurid bin Syaddad], ia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang menjadi pegawai kami maka hendaknya ia mencari seorang isteri, apabila ia tidak memiliki pembantu maka hendaknya ia mencari pembantu, dan apabila ia tidak memiliki tempat tinggal maka hendaknya ia mencari tempat tinggal!" Abu Bakr berkata; aku diberi khabar bahwa Nabi shallallahu 'alaihi wasallam berkata: "Barangsiapa yang mengambil selain itu, maka ia adalah pengkhianat atau pencuri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2945</td></tr><tr><td>Arabic No</td><td>2945</td></tr><tr><td>Reference</td><td>Book 20 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Муставрида ибн Шаддада, да будет доволен им Аллах: «Я слышал, как Пророк ﷺ сказал: “Кто занимается сбором закята для нас, пусть женится, и если у него нет слуги, пусть приобретёт слугу, и если у него нет жилища, пусть приобретёт жилище”». Абу Бакр передал: «Мне сообщили, что Пророк ﷺ сказал: “Кто приобретёт что-то сверх этого на эти средства, тот подобен присвоившему военную добычу или вору”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2945</td></tr><tr><td>Arabic No</td><td>2945</td></tr><tr><td>Reference</td><td>Book 20 Hadith 18</td></tr></tbody></table></div>
 

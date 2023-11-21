@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Quraish, Ansar, Muzaina, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Sufyan] dari [Sa'ad bin Ibrahim] dari ['Abdur Rahman bin Hurmuz Al A'raj] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Orang-orang Islam dari kaum Quraisyy, Anshar, Muzainah, Juhainah, Aslam, Ghifar, dan Asyja' adalah para hamba yang tidak mempunyai tuan (majikan) selain Allah dan Rasul-Nya. Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim] melalui jalur ini dengan Hadits yang serupa. Namun sepengetahuanku, di dalam Haditsnya Sa'ad hanya menyebutkan sebagian saja dari nama-nama suku tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6439</td></tr><tr><td>Arabic No</td><td>2520.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 268</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6439</td></tr><tr><td>Arabic No</td><td>2520.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 268</td></tr></tbody></table></div>
 

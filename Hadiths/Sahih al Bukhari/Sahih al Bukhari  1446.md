@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya:A sheep was sent to me (Nusaiba Al-Ansariya) (in charity) an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Abu Syihab] dari [Khalid Al Hadzdza'] dari [Hafshah binti Sirin] dari [Ummu 'Athiyah radliallahu 'anha] berkata,: Telah diberikan seekor kambing kepada Nusaibah Al Anshariyyah (seorang wanita Anshar) lalu dia mengirim sebagian dagingnya kepada 'Aisyah radliallahu 'anha. Nabi Shallallahu'alaihiwasallam bertanya: "Apakah ada sesuatu yang kalian miliki (untuk dimakan)?". Aku menjawab: "Tidak ada, kecuali apa yang dikirim oleh Nusaibah dari daging kambing itu". Maka Beliau berkata,: "Bawalah kemari, karena shadaqah itu telah sampai kepada tempatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1446</td></tr><tr><td>Arabic No</td><td>1446</td></tr><tr><td>Reference</td><td>Book 24 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа, да будет доволен ею Аллах, сказала: «(Однажды) Нусайба аль-Ансариййа, которой прислали баранины, отослала часть её ‘Аише, да будет доволен ею Аллах. Пророк ﷺ спросил: “Найдётся ли у вас что-нибудь (поесть?” ‘Аиша) ответила: “Нет, если не считать этого мяса, которое прислала Нусайба”. (Пророк ﷺ) сказал: “Давайте, ибо сейчас оно на своём месте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1446</td></tr><tr><td>Arabic No</td><td>1446</td></tr><tr><td>Reference</td><td>Book 24 Hadith 49</td></tr></tbody></table></div>
 

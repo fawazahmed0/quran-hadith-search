@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:The Prophet (ﷺ) said, "Do not tell a lie against me for whoever 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Al Ja'd] berkata, telah mengabarkan kepada kami [Syu'bah] berkata, telah mengabarkan kepadaku [Manshur] berkata, aku mendengar [Rib'i bin Jirasy] berkata, aku mendengar ['Ali] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian berdusta terhadapku (atas namaku), karena barangsiapa berduasta terhadapku dia akan masuk neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>106</td></tr><tr><td>Arabic No</td><td>106</td></tr><tr><td>Reference</td><td>Book 3 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Не возводите на меня ложь, ибо, поистине, тот, кто возведёт на меня ложь, непременно попадёт в Огонь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>106</td></tr><tr><td>Arabic No</td><td>106</td></tr><tr><td>Reference</td><td>Book 3 Hadith 48</td></tr></tbody></table></div>
 

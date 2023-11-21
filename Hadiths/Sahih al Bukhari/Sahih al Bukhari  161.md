@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever performs ablution should c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Abu Idris] bahwa dia mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Barangsiapa berwudlu hendaklah mengeluarkan (air dari hidung), dan barangsiapa beristinja' dengan batu hendaklah dengan bilangan ganjil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>161</td></tr><tr><td>Reference</td><td>Book 4 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пусть тот, кто станет совершать омовение, промывает нос, и пусть тот, кто станет очищаться с помощью камней, делает это нечётное число раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>161</td></tr><tr><td>Reference</td><td>Book 4 Hadith 27</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda Al-Ansari:I heard the Prophet (ﷺ) saying, "Do not flog anyo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] telah menceritakan kepadaku [Ibnu Wahb] telah mengabarkan kepadaku [Amru] bahwa [Bukair] menceritakan kepadanya, dia berkata; ketika kami sedang duduk-duduk di dekat [Sulaiman bin Yasar] datanglah [Abdurrahman bin Jabir], dan dia menceritakan kepada Sulaiman bin Yasar, kemudian Sulaiman bin Yasar menghadap ke kami dan berkata; Abdurrahman bin Jabir telah menceritakan kepadaku; bahwa [bapaknya] telah menceritakan kepadanya, bahwasanya dia telah mendengar [Abu Burdah Al Anshari] berkata; aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "janganlah kalian menjilid diatas sepuluh cambukan, kecuali dalam salah satu hukuman had Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6850</td></tr><tr><td>Arabic No</td><td>6850</td></tr><tr><td>Reference</td><td>Book 86 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Бурды аль-Ансари, что Пророк ﷺ сказал: «Не давайте больше десяти плетей, за исключением (тех случаев, когда виновный подвергается одному из) наказаний, установленных Аллахом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6850</td></tr><tr><td>Arabic No</td><td>6850</td></tr><tr><td>Reference</td><td>Book 86 Hadith 72</td></tr></tbody></table></div>
 

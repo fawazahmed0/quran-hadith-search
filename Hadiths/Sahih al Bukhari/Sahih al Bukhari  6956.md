@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Talha bin 'Ubaidullah:A bedouin with unkempt hair came to Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Isma'il bin ja'far] dari [Abu Suhail] dari [ayahnya] dari [Thalhah bin Ubaidullah]; ada seorang arab badui menemui Rasulullah shallallahu 'alaihi wasallam dengan rambut acak-acakan, ia berkata; 'ya Rasulullah, beritahukanlah kepadaku shalat apakah yang Allah wajibkan atasku? ' Nabi menjawab: "shalat lima waktu, kecuali jika engkau mau mengerjakan yang sunnah." Si arab badui bertanya lagi: 'Beritahukanlah kepadaku puasa apakah yang Allah wajibkan bagiku? ' Nabi menjawab: "puasa bulan ramadhan, kecuali jika kamu ingin melaksanakan yang sunnah." Si arab badui bertanya; 'Beritahukanlah kepadaku, zakat apakah yang Allah wajibkan atasku? ' maka Rasulullah shallallahu 'alaihi wasallam memberitahukan kepadanya syariat-syariat Islam, dan arab badui tersebut mengatakan; 'Demi Dzat yang memuliakanmu, saya tidak akan melakukan yang sunnah, namun juga tak akan mengurangi sedikitpun yang telah Allah fardhukan atas diriku.' Maka Rasulullah bersabda; "dia beruntung jika ia jujur atau dengan redaksi -ia masuk surga jika jujur." Penulis menuturkan; Sebagian orang mengatakan, bahwa seratus duapuluh unta zakatnya dua hiqqah, dan jika yang punya membelanjakannya secara sengaja, atau meng-hibahkannya atau mencari siasat terhadapnya dengan tujuan untuk tidak berzakat, maka yang demikian dia tak terkena dosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6956</td></tr><tr><td>Arabic No</td><td>6956</td></tr><tr><td>Reference</td><td>Book 90 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Тальха ибн ‘Убайдуллах, да будет доволен им Аллах, сказал: \n— Однажды к Посланнику Аллаха ﷺ пришёл какой-то бедуин с растрёпанными волосами и сказал: «О посланник Аллаха, сообщи мне, что из молитвы предписал мне Аллах?» И (Посланник Аллаха ﷺ) сказал: «Пять молитв, если только сам ты не пожелаешь (совершить) что-то дополнительно». Тот спросил: «Сообщи мне, что Аллах предписал мне из поста?» (Посланник Аллаха ﷺ) сказал: «(Ты должен соблюдать) пост в месяце рамадан, если только сам ты не пожелаешь что-то (соблюдать из поста) дополнительно». Он спросил: «Расскажи мне, что Аллах предписал для меня из закята?» (Тальха) сказал: «А затем Посланник Аллаха ﷺ рассказал ему о законоположениях ислама». (Тогда этот человек) сказал: «Клянусь Тем, Кто почтил тебя, я ничего не буду делать дополнительно (к этому) и ничего не стану убавлять из того, что предписал мне Аллах!» И тогда Посланник Аллаха ﷺ сказал: «Он преуспеет, если только говорит он правду!» — или он сказал: «Он войдёт в Рай, если только он говорит правду». \nНекоторые люди сказали: «Если количество верблюдов составляет сто двадцать, за них следует отдать двух трёхлетних верблюдиц. А если он погубит их преднамеренно или подарит их, или прибегнет к хитрости в отношение них с целью избежать выплаты закята, то нет на нём никакой обязанности»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6956</td></tr><tr><td>Arabic No</td><td>6956</td></tr><tr><td>Reference</td><td>Book 90 Hadith 4</td></tr></tbody></table></div>
 

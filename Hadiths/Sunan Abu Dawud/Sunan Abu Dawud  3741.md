@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Prophet (ﷺ) said: He who does not accept an in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Durst bin Ziyad] dari [Aban bin Thariq] dari [Nafi'] ia berkata, [Abdullah bin Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa diundang dan ia tidak mendatangi undangan tersebut maka sungguh ia telah durhaka kepada Allah dan rasul-Nya. Barangsiapa yang masuk tanpa undangan maka ia masuk sebagai pencuri, dan keluar sebagai orang yang menyerang." Abu Daud berkata, "Aban bin Thariq adalah orang yang tidak dikenal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3741</td></tr><tr><td>Arabic No</td><td>3741</td></tr><tr><td>Reference</td><td>Book 28 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал: «Кого пригласили, но он не принял приглашение, тот ослушался Аллаха и Его Посланника, а кто пришёл без приглашения, тот вошёл вором, а вышел совершившим набег»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3741</td></tr><tr><td>Arabic No</td><td>3741</td></tr><tr><td>Reference</td><td>Book 28 Hadith 6</td></tr></tbody></table></div>
 

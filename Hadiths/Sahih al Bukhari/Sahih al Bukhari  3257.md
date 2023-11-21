@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The Prophet (ﷺ) said, "Paradise has eight gates, and on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin Abu Maryam] telah bercerita kepada kami [Muhammad bin Mutharrif] berkata telah bercerita kepadaku [Abu Hazim] dari [Sahal bin Sa'ad radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Di surga ada delapan pintu, diantaranya ada yang dinamakan pintu ar-Rayyan yang tidak akan memasukinya kecuali orang-orang yang berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3257</td></tr><tr><td>Arabic No</td><td>3257</td></tr><tr><td>Reference</td><td>Book 59 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сахля ибн Са‘да, да будет доволен им Аллах, что Пророк ﷺ сказал: «В Раю восемь врат. И среди них есть врата, которые называются “ар-Райян”, через которые войдут только постившиеся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3257</td></tr><tr><td>Arabic No</td><td>3257</td></tr><tr><td>Reference</td><td>Book 59 Hadith 67</td></tr></tbody></table></div>
 

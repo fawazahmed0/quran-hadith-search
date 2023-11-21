@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported Allah's Apostle (ﷺ) as saying:In the morning charity is due
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad bin Asma' Adl Dluba'i] telah menceritakan kepada kami [Mahdi yaitu Ibnu Maimun] telah menceritakan kepada kami [Washil] mantan budak Abu 'Uyainah dari [Yahya bin 'Uqail] dari [Yahya bin Ya'mar] dari [Abul Aswad Ad Du'ali] dari [Abu Dzarr] dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda: "Setiap pagi dari persendian masing-masing kalian ada sedekahnya, setiap tasbih adalah sedekah, setiap tahmid adalah sedekah, dan setiap tahlil adalah sedekah, setiap takbir sedekah, setiap amar ma'ruf nahyi mungkar sedekah, dan semuanya itu tercukupi dengan dua rakaat dhuha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1671</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 6 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Зарра, что Посланник Аллаха ﷺ сказал: «(Ежедневно) с наступлением утра каждому из вас следует давать милостыню /садаку/ столько раз, сколько суставов (насчитывается в его теле). Каждое произнесение слов “Пречист Аллах” /Субхана Ллах/ есть садака, и каждое произнесение слов “Хвала Аллаху” /Аль-хамду ли-Ллях/ есть садака, и каждое произнесение слов “Нет божества, достойного поклонения, кроме Аллаха” /Ля иляха илля Ллах/ есть садака, и каждое произнесение слов “Аллах велик” /Аллаху акбар/ есть садака, и каждое побуждение к (совершению) одобряемого (шариатом) есть садака, и каждая (попытка) удержания от порицаемого (шариатом) есть садака, но всё это заменяет собой (добровольная) утренняя (молитва) “ад-духа” в два рак‘ата». Глава: Наказ совершать дополнительную утреннюю молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1671</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 6 Hadith 101</td></tr></tbody></table></div>
 

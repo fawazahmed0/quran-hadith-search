@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr b. Shu'aib on his father's authority said that his grandfather reported:A ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb], telah menceritakan kepada kami [Yazid bin Harun], telah mengabarkan kepada kami [Husain Al Mu'allim] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya], ia berkata; seorang laki-laki berdiri dan berkata; wahai Rasulullah, sesungguhnya Fulan adalah anakku. Aku berhubungan dengan ibunya pada masa jahiliyah. Rasulullah shallallahu 'alaihi wasallam berkata; tidak ada pengakuan dalam Islam, telah hilang urusan jahiliyah, anak mengikuti pemilik ranjang, dan orang yang berzina tidak mendapat apapun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2274</td></tr><tr><td>Arabic No</td><td>2274</td></tr><tr><td>Reference</td><td>Book 13 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда: «Один человек пришёл к Посланнику Аллаха ﷺ и сказал ему: “О Посланник Аллаха! Такой-то мой сын. Я совершил прелюбодеяние с его матерью во времена невежества!” Посланник Аллаха ﷺ сказал: “Нельзя предъявлять подобные претензии в исламе. Времена невежества минули. Ребёнок принадлежит постели, а прелюбодею позор и лишения (прав на ребенка)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2274</td></tr><tr><td>Arabic No</td><td>2274</td></tr><tr><td>Reference</td><td>Book 13 Hadith 100</td></tr></tbody></table></div>
 

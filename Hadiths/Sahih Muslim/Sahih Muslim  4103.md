@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported:My camel had grown tired as Allah's M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ar Rabi' Al 'Ataki] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub] dari [Abu Az Zubair] dari [Jabir] dia berkata, "Nabi shallallahu 'alaihi wasallam menemuiku saat hewan tungganganku kelelahan." Jabir melanjutkan, "Maka beliau menghardiknya, dan tiba-tiba hewan itu meloncat dan saya berusaha mengendalikan tali kekangnya agar saya dapat mendengar perkataan beliau, namun saya tidak kuasa mendengarnya. Setelah itu Nabi shallallahu 'alaihi wasallam menemuiku dan bersabda: "Jual saja untamu kepadaku." Lalu saya menjualnya seharga lima uqiyah." Jabir melanjutkan, "Saya berkata, "Dengan syarat saya menaikinya sampai Madinah." Beliau bersabda: "Naikilah sampai tiba di Madinah." Jabir berkata, "Setibanya di Madinah, saya memberikannya kepada beliau dan beliaupun memberiku beberapa uqiyah dan sedikit tambahan, lalu beliau memberikan unta tersebut kepadaku." Telah menceritakan kepada kami [Uqbah bin Mukram Al 'Ammi] telah menceritakan kepada kami [Ya'qub bin Ishaq] telah menceritakan kepada kami [Basyir bin 'Uqbah] dari [Abu Al Mutawakil An Naji] dari [Jabir bin Abdullah] dia berkata, "Saya pernah pergi bersama Rasulullah shallallahu 'alaihi wasallam di salah satu perjalanannya -saya kira dia (Jabir) berkata; salah satu peperangan-, kemudian dia menceritakan hadits tersebut dengan tambahan, "Beliau bersabda: "Wahai Jabir, apakah harganya sudah cukup?" saya menjawab, "Ya." Beliau bersabda: "Untukmu harganya (uangnya) dan untukmu pula untanya. Untukmu harganya (uangnya) dan untukmu pula untanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4103</td></tr><tr><td>Arabic No</td><td>715.18</td></tr><tr><td>Reference</td><td>Book 22 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4103</td></tr><tr><td>Arabic No</td><td>715.18</td></tr><tr><td>Reference</td><td>Book 22 Hadith 142</td></tr></tbody></table></div>
 

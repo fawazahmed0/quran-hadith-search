@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Messenger of Allah (ﷺ) said: Complete the rows, for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz, yaitu Ibnu Shuhaib] dari [Anas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, 'Sempurnakanlah shaf-shaf kalian, karena aku melihat kalian dari arah belakang punggungku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>976</td></tr><tr><td>Arabic No</td><td>434</td></tr><tr><td>Reference</td><td>Book 4 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что Посланник Аллаха ﷺ сказал: «Заполняйте ряды, поистине, я вижу (то, что) вы (делаете) за моей спиной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>976</td></tr><tr><td>Arabic No</td><td>434</td></tr><tr><td>Reference</td><td>Book 4 Hadith 138</td></tr></tbody></table></div>
 

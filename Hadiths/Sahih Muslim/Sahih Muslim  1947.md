@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sahl Ibn Hathma (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Abdurrahman bin Qasim] dari [bapaknya] dari [Shalih bin Khawwat bin Jubair] dari [Sahl bin Abu Hatsmah] bahwasanya; Rasulullah shallallahu 'alaihi wasallam pernah shalat Khauf bersama para sahabatnya. Maka beliau membariskan mereka menjadi dua shaf di belakangnya. Kemudian beliau shalat satu raka'at bersama shaf yang tepat berada di belakang beliau. Setelah menunaikan satu raka'at, mereka pun berdiri dan terus berdiri, hingga shaf kedua selesai shalat satu raka'at. Setelah shaf kedua selesai shalat raka'at, mereka maju ke depan sementara shaf yang tadinya di depan mundur, maka beliau shalaf bersama mereka satu raka'at. Kemudian beliau duduk hingga shaf yang dibelakang shalat satu raka'at, setelah itu baru beliau salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1947</td></tr><tr><td>Arabic No</td><td>841</td></tr><tr><td>Reference</td><td>Book 6 Hadith 375</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сахля ибн Абу Хасмы, что, когда Посланник Аллаха ﷺ совершал со своими сподвижниками молитву, (совершаемую под воздействием) страха /салят аль-хауф/, он поставил их позади себя в два ряда, после чего совершил один рак‘ат с тем рядом, который стоял сразу за ним, и поднялся. Он стоял так, пока стоявшие позади них не совершили один рак‘ат молитвы. Затем они выступили вперёд, а те, напротив, отступили, поменявшись местами, и Пророк ﷺ совершил с ними один рак‘ат, после чего сел и подождал, пока стоявшие во втором ряду совершат (оставшийся) рак‘ат, а потом произнёс слова приветствия /таслим
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1947</td></tr><tr><td>Arabic No</td><td>841</td></tr><tr><td>Reference</td><td>Book 6 Hadith 375</td></tr></tbody></table></div>
 

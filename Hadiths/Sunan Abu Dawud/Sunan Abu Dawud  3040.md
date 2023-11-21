@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Abbas bin Abdul Azhim], telah menceritakan kepada kami [Abdurrahman bin Hani' Abu Nu'aim An Nakha'i], telah mengabarkan kepada kami [Syarik] dari [Ibrahim bin Muhajir], dari [Ziyad bin Hudair], ia berkata; [Ali] berkata; seandainya aku masih hidup niscaya aku akan membunuh orang-orang nashrani Bani Taghlab yang berperang dan aku tawan anak keturunannya, sungguh aku telah menulis surat perjanjian antara mereka dengan Nabi shallallahu 'alaihi wasallam yaitu agar mereka tidak menjadikan anak-anak mereka beragama nashrani. Abu Daud berkata; hadits ini adalah hadits munkar. Telah sampai kepadaku dari Ahmad bahwa ia mengingkari hadits ini dengan keras. Abu Ali berkata; Abu Daud tidak membacanya pada pemaparan yang kedua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3040</td></tr><tr><td>Arabic No</td><td>3040</td></tr><tr><td>Reference</td><td>Book 20 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зияда ибн Худайра, что ‘Али, да будет доволен им Аллах, сказал: «Если я ещё поживу, я казню способных сражаться мужчин из числа христиан бану таглиб и возьму в плен их женщин и детей, ибо, поистине, я записывал договор между ними и Пророком ﷺ с условием, что они не будут вынуждать своих детей становиться христианами». Абу Дауд сказал, что этот хадис отвергаемый /мункар
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3040</td></tr><tr><td>Arabic No</td><td>3040</td></tr><tr><td>Reference</td><td>Book 20 Hadith 113</td></tr></tbody></table></div>
 

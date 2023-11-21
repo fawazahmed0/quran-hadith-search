@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ma'rur:I saw Abu Dhar wearing a Burd (garment) and his slave too was we
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Umar bin Hafsh] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] dari [Ma'rur yaitu Ibnu Suwaid] dari [Abu Dzar], (Ma'rur) berkata; "Saya pernah melihat Abu Dzar memakai pakaian serupa dengan sahayanya. Maka saya berkata kepadanya; "Sekiranya kamu mengambil kain tersebut untuk kamu kenakan kemudian kamu memberi kain lagi untuk sahayamu (itu akan lebih baik), Lalu Abu Dzar berkata; "Bahwa dahulu aku dengan seorang laki-laki terjadi percekcokan, sementara ibu laki-laki itu adalah orang 'ajm (non Arab) lalu aku pun menghinakannya. Kemudian laki-laki itu mengadu kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda kepadaku: "Apakah kamu habis menjelekkan fulan?" jawabku; "Benar." Beliau bertanya lagi; "Apakah kamu juga menghinakan ibunya?" jawabku; "Benar." Beliau bersabda: "Sungguh dalam dirimu masih terdapat sifat jahiliyah, " aku pun berkata; "Apakah saya masih memiliki sifat jahiliyahan padahal aku sudah tua?" beliau menjawab: "Ya, benar, mereka adalah saudaramu dan paman-pamanmu yang dititipkan Allah dibawah pengurusanmu, barangsiapa memiliki saudara yang masih dalam pengurusanya, hendaklah dia diberi makan sebagaimana yang dia makan, diberi pakaian sebagaimana ia mengenakan pakaian. Dan janganlah kamu bebaninya diluar batas kemampuannya, dan jika kamu membebaninya, maka bantulah dia dalam menyelesaikan tugasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6050</td></tr><tr><td>Arabic No</td><td>6050</td></tr><tr><td>Reference</td><td>Book 78 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Ма‘рур (ибн Сувайд) сказал: «(Однажды) я увидел Абу Зарра, который был в такой же накидке /бурда/, как и его невольник. Я сказал ему: “Если бы ты взял (одежду, которая на твоём невольнике), соединил бы её со своей, получилась бы полноценная одежда (с верхней накидкой /рида/ и нижней частью /изар/) /хулля/, его же ты можешь облачить во что-нибудь другое”. Абу Зарр ответил: “Как-то между мной и одним человеком произошла ссора. Его мать была не арабкой, и я упрекнул его ею. Он рассказал обо мне Пророку ﷺ, который спросил меня: “Ты оскорбил такого-то?” Я ответил: “Да”. Он спросил: “И ты оскорбил его мать?” Я ответил: “Да”. Он сказал: “Воистину, ты человек, в котором осталось невежество!” Тогда я воскликнул: “(Неужели во мне всё ещё есть невежество) даже сейчас, в моем преклонном возрасте?” Он ответил: “Да. Они (ваши невольники) являются вашими братьями, которых Аллах сделал подвластными вам, так пусть же тот, кто владеет братом своим (как невольником), кормит его тем же, что ест сам, и одевает его в то же, что носит сам, и не обременяет его непосильным для него. Если же он поручит ему что-то непосильное, то пусть поможет ему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6050</td></tr><tr><td>Arabic No</td><td>6050</td></tr><tr><td>Reference</td><td>Book 78 Hadith 80</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hamza:(A man from the Ansar) The Ansar said, "Every nation has foll
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Adam] telah bercerita kepada kami [Syu'bah] telah bercerita kepada kami ['Amru bin Murrah] berkata, aku mendengar [Abu Hamzah], salah seorang Kaum Anshar; "Kaum Anshar berkata; "Setiap kaum memiliki pengikut dan kami telah menjadi pengikut baginda. Maka mohonlah kepada Allah agar menjadikan orang yang mengikuti kami menjadi bagian dari kami". Maka Nabi shallallahu 'alaihi wasallam berdo'a: "Ya Allah, jadikanlah orang yang mengikuti mereka menjadi bagian dari mereka". ['Amru] berkata; "Kemudian aku ceritakan hal itu kepada [Ibnu Abu Laila], maka dia berkata; " [Zaid] telah mengatakan hal itu" (bahwa Nabi akan mendo'akan mereka). [Syu'bah] berkata; "Aku kira yang dimaksudkan adalah Zaid bin Arqam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3788</td></tr><tr><td>Arabic No</td><td>3788</td></tr><tr><td>Reference</td><td>Book 63 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хамзы, что (однажды) ансары сказали: «О Посланник Аллаха, у каждого пророка (были) последователи, а мы последовали за тобой, так обратись же к Аллаху с мольбой, чтобы Он причислил к нам и наших последователей!» — и Пророк ﷺ сказал: «О Аллах! Причисли к ним их последователей!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3788</td></tr><tr><td>Arabic No</td><td>3788</td></tr><tr><td>Reference</td><td>Book 63 Hadith 13</td></tr></tbody></table></div>
 

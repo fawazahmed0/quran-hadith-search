@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:Allah's Messenger (ﷺ) sent someone to a woman telling her to "Or
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami ['Abdul 'Aziz] telah menceritakan kepadaku [Abu Hazim] dari [Sahl] berkata, "Rasulullah shallallahu 'alaihi wasallam mengutus seorang wanita dan berkata, "Perintahkan budakmu yang tukang kayu itu membuat tangga mimbar untukku, hingga aku bisa duduk di atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>448</td></tr><tr><td>Arabic No</td><td>448</td></tr><tr><td>Reference</td><td>Book 8 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль (ибн Са‘д), да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ отправил человека к одной женщине (с поручением): “Вели своему рабу-плотнику, чтобы он сделал для меня (возвышение) из дерева, на котором я буду сидеть, (когда стану обращаться к людям)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>448</td></tr><tr><td>Arabic No</td><td>448</td></tr><tr><td>Reference</td><td>Book 8 Hadith 97</td></tr></tbody></table></div>
 

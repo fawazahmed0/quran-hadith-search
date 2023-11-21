@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) divided something (among the Muslims) and d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku [Sulaiman] dari [Abu Wa'il] dari [Abdullah] dia berkata; "Suatu ketika Nabi shallallahu 'alaihi wasallam membagi-bagi suatu pembagian, lalu seorang laki-laki berkata; 'Sungguh pembagian ini tidak dimaksudkan untuk mengharap ridla Allah.' Lalu aku memberitahukannya kepada Nabi shallallahu 'alaihi wasallam, maka beliau marah hingga aku lihat tampak kemarahan pada wajah Beliau. Beliau lalu bersabda: 'Semoga Allah merahmati Musa, karena dia disakiti lebih banyak dari ini namun dia tetap bersabar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6336</td></tr><tr><td>Arabic No</td><td>6336</td></tr><tr><td>Reference</td><td>Book 80 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ разделил (военную добычу, и увидев это,) один человек воскликнул: “Поистине, такой раздел был сделан не ради Аллаха!” Тогда я сообщил (об этом) Пророку ﷺ, и он разгневался так, что я увидел гнев на его лице и он сказал: “Да помилует Аллах (пророка) Мусу, который подвергался ещё большим обидам, но терпел!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6336</td></tr><tr><td>Arabic No</td><td>6336</td></tr><tr><td>Reference</td><td>Book 80 Hadith 33</td></tr></tbody></table></div>
 

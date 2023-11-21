@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:A child was born in the house of a person amongst us
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid] dan [Muhammad bin 'Abdillah bin Numair] seluruhnya dari [Sufyan]. ['Amru] berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah]; Telah menceritakan kepada kami [Ibnu Al Munkadir]; bahwa dia mendengar [Jabir bin 'Abdullah] berkata; Suatu ketika seseorang diantara kami mempunyai anak, lalu dia memberinya nama Al Qasim. Maka kami berkata; Kami tidak akan menjuluki kamu dengan Abu Al Qasim dan kami tidak senang dengan nama anakmu itu. Kemudian orang tersebut menemui Nabi shallallahu 'alaihi wasallam dan melaporkan hal itu. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Berilah anakmu nama Abdurrahman." Dan telah menceritakan kepadaku [Umayyah bin Bistham]; Telah menceritakan kepada kami [Yazid] yaitu Ibnu Zurai'; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami ['Ali bin Hujr]; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu 'Ulayyah seluruhnya dari [Rauh bin Al Qasim] dari [Muhammad bin Al Munkadir] dari [Jabir] seperti Hadits Ibnu Uyainah, namun dia tidak menyebutkan; 'dan kami tidak senang dengan nama anakmu itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5595</td></tr><tr><td>Arabic No</td><td>2133.08</td></tr><tr><td>Reference</td><td>Book 38 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5595</td></tr><tr><td>Arabic No</td><td>2133.08</td></tr><tr><td>Reference</td><td>Book 38 Hadith 10</td></tr></tbody></table></div>
 

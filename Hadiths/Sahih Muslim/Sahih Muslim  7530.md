@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya bekata: Telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Hisyam] dari [ayahnya] dari [Aisyah] tentang firman Allah: "Dan jika kalian khawatir utnuk tidak berbuat adil terhadap wanita-wanita yatim, " (An Nisaa': 3) Ia berkata: (Ayat ini) turun berkenaan dengan seseorang, ia memiliki seorang wanita yatim, ia walinya dan ahli warisnya. Wanita yatim itu memiliki harta, ia tidak memiliki orang lain yang menyainginya selain dia. Ia tidak menikahinya karena hartanya sehingga itu akan membahayakannya dan memperburuk perawatannya. Lalu ia berkata: "Dan jika kalian khawatir untuk tidak berbuat adil dalam masalah anak-anak yatim maka nikahilah wanita-wanita yang baik bagi kalian." (An Nisaa': 3) Ia berkata: Aku tidak menghalalkan untuk kalian dan tinggalkan wanita ini yang berbahaya karenanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7530</td></tr><tr><td>Arabic No</td><td>3018.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7530</td></tr><tr><td>Arabic No</td><td>3018.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 8</td></tr></tbody></table></div>
 

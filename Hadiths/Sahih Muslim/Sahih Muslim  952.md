@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mughira b. Shu'ba reported that he participated In the expedition of Tabuk along
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Hasan bin Ali al-Hulwani] semuanya meriwayatkan dari [Abdurrazzaq] [Ibnu Rafi'] berkata, telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ibnu Juraij] telah menceritakan kepadaku [Ibnu Syihab] dari hadits ['Abbad bin Ziyad] bahwa [Urwah bin al-Mughirah bin Syu'bah] telah mengabarkan kepadanya bahwa [al-Mughirah bin Syu'bah] telah mengabarkan kepadanya "Bahwa dia berperang bersama Rasulullah shallallahu 'alaihi wasallam pada perang Tabuk." Al-Mughirah berkata, "Lalu Rasulullah shallallahu 'alaihi wasallam membuang hajat ke wc, lalu aku membawakan air sebelum shalat fajar. Ketika Rasulullah shallallahu 'alaihi wasallam kembali kepadaku, aku mulai menyiram kedua tangannya dengan air dari ember, lalu beliau mencuci kedua tangannya tiga kali, kemudian membasuk wajahnya, kemudian mulai mengeluarkan kedua lengannya dari jubahnya, lalu lengan jubahnya sempit, maka beliau memasukkan kedua tangannya ke dalam jubahnya hingga mengeluarkannya dari arah bawah jubah, lalu membasuh kedua lengannya hingga ke siku, kemudian berwudhu pada kedua khufnya kemudian kembali ke depan." Al-Mughirah berkata, "Lalu aku beranjak bersama beliau hingga mendapatkan manusia yang telah menyuruh maju Abdurrahman bin Auf lalu dia mengimami mereka. Lalu Rasulullah shallallahu 'alaihi wasallam mendapati salah satu dari dua rakaat, lalu beliau shalat bersama manusia pada rakaat terakhir. Ketika Abdurrahman bin Auf mengucapkan salam, maka Rasulullah shallallahu 'alaihi wasallam berdiri menyempurnakan shalatnya, lalu hal tersebut mengambil perhatian kaum muslimin, lalu mereka memperbanyak tasbih. Ketika Nabi shallallahu 'alaihi wasallam menyelesaikan shalatnya, beliau menghadap mereka kemudian bersabda, "Kalian telah berbuat baik" atau beliau bersabda, "Kalian telah benar, membuat mereka termotivasi untuk melakukan shalat pada waktunya." Telah menceritakan kepada kami [Muhammad bin Rafi'] dan [al-Hulwani] dia berkata, telah menceritakan kepada kami [Abdurrazzaq] dari [Ibnu Juraij] telah menceritakan kepadaku [Ibnu Syihab] dari [Ismail bin Muhammad bin Sa'id] dari [Hamzah bin al-Mughirah] semisal hadits Abbad. [Al-Mughirah] berkata, "Lalu aku bermaksud untuk mengakhirkan Abdurrahman, maka Nabi shallallahu 'alaihi wasallam bersabda, "Biarkan dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>952</td></tr><tr><td>Arabic No</td><td>274.12</td></tr><tr><td>Reference</td><td>Book 4 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугыйра ибн Шу‘ба, передавший, что он принимал участие в походе на Табук вместе с Посланником Аллаха ﷺ, сказал: «(Однажды) перед утренней молитвой Посланник Аллаха ﷺ направился в сторону какой-то низины, чтобы удовлетворить большую нужду, а я нёс за ним сосуд с водой. Когда Посланник Аллаха ﷺ вернулся, я стал сливать ему воду на руки, и он трижды омыл их. Потом он омыл лицо, а потом хотел обнажить руки до локтей, но рукава его джуббы были слишком узки для этого, и тогда он просунул руки внутрь и продел их снизу. После этого он омыл руки до локтей, потом протёр свои кожаные носки, а потом вернулся (к людям). Я пришёл вместе с ним, и мы увидели, что люди (выбрали имамом) ‘Абдуррахмана ибн ‘Ауфа, который уже проводил с ними молитву. Посланник Аллаха ﷺ (пропустил) один из двух рак‘атов и успел совершить с людьми (только) второй рак‘ат, а когда ‘Абдуррахман ибн ‘Ауф произнёс слова таслима, Посланник Аллаха ﷺ (встал и) довёл свою молитву до конца, что устрашило мусульман, которые стали часто произносить слова “Субхана-Ллах”. Закончив молиться, Пророк ﷺ повернулся к ним и сказал: “Вы поступили хорошо (или, правильно)”, похвалив их за то, что они совершили молитву вовремя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>952</td></tr><tr><td>Arabic No</td><td>274.12</td></tr><tr><td>Reference</td><td>Book 4 Hadith 114</td></tr></tbody></table></div>
 

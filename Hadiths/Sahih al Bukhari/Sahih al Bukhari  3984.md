@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usaid:On the day of Badr, Allah's Messenger (ﷺ) said to us, "When the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepadaku [Abdullah bin Muhammad Al Ju'fiy] telah menceritakan kepada kami [Abu Ahmad Az Zubairiy] telah menceritakan kepada kami ['Abdur Rahman bin Al Ghasil] dari [Hamzah bin Abu Usaid] dan [Az Zubair bin Al Mundzir bin Abu Usaid] dari [Abu Usaid] radliallahu 'anhu berkata; "Rasulullah shallallahu 'alaihi wasallam berkata kepada kami ketika perang Badar: "Jika mereka telah mendekati kalian, lemparlah mereka dan tetap serang dengan anak panah kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3984</td></tr><tr><td>Arabic No</td><td>3984</td></tr><tr><td>Reference</td><td>Book 64 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Усайд, да будет доволен им Аллах, сказал: «В день (битвы при) Бадре Посланник Аллаха ﷺ сказал нам: “Когда они приблизятся к вам, обстреливайте их из луков, но экономьте стрелы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3984</td></tr><tr><td>Arabic No</td><td>3984</td></tr><tr><td>Reference</td><td>Book 64 Hadith 35</td></tr></tbody></table></div>
 

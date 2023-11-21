@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: Let Allah destroy the Je
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dan [Malik] dari [Ibnu Syihab] telah menceritakan kepadaku [Sa'id bin al-Musayyab] bahwa [Abu Hurairah radhiyallahu'anhu] berkata, Rasulullah shallallahu'alaihiwasallam bersabda, "Allah memerangi kaum Yahudi yang menjadikan kuburan para nabi mereka sebagai masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1185</td></tr><tr><td>Arabic No</td><td>530.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Да погубит Аллах иудеев, которые превратили могилы своих пророков в места поклонений (или: мечети)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1185</td></tr><tr><td>Arabic No</td><td>530.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 25</td></tr></tbody></table></div>
 

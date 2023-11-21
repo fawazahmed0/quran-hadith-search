@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Al-Darda' said:My friend (i.e. the Prophet) instructed me to observe three p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdul Wahhab bin Najdah], telah menceritakan kepada Kami [Abu Al Yaman] dari [Shafwan bin 'Amr] dari [Abu Idris As Sakuni] dari [Jubair bin Nufair] dari [Abu Ad Darda'], ia berkata; kekasihku shallallahu 'alaihi wasallam telah berwasiat kepadaku dengan tiga perkara, aku tidak meninggalkannya karena sesuatu, beliau berwasiat kepadaku agar melakukan puasa tiga hari setiap bulan, tidak tidur kecuali telah melakukan witir, dan melakukan shalat Dhuha disaat bermukim dan sedang bepergian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1433</td></tr><tr><td>Arabic No</td><td>1433</td></tr><tr><td>Reference</td><td>Book 8 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу ад-Дарда, да будет доволен им Аллах, сказал: «Мой любимейший друг ﷺ велел мне делать три вещи, и я ни в коем случае не оставлю их: ежемесячно добровольно поститься по три дня, совершать витр перед сном и совершать молитву-духа и дома, и в пути»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1433</td></tr><tr><td>Arabic No</td><td>1433</td></tr><tr><td>Reference</td><td>Book 8 Hadith 18</td></tr></tbody></table></div>
 

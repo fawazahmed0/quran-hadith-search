@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:I invited my mother, who was a polytlieist, to Islam. I inv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid]; Telah menceritakan kepada kami ['Umar bin Yunus Al Yamami]; Telah menceritakan kepada kami ['Ikrimah bin 'Ammar] dari [Abu Katsir Yazid bin 'Abdur Rahman]; Telah menceritakan kepadaku [Abu Hurairah] dia berkata; 'Dulu, saya sering mengajak ibu saya untuk masuk Islam, ketika ia masih musyrik. Pada suatu hari saya mengajaknya untuk masuk ke dalam Islam, tetapi ia mengutarakan kata-kata yang tidak saya sukai tentang diri Rasulullah shallallahu 'alaihi wasallam. Kemudian saya datang menemui Rasulullah sambil menangis dan berkata; Ya Rasulullah, saya sering mengajak ibu saya untuk masuk Islam, tetapi ia selalu menolak dan malah mengucapkan kepada saya kata-kata yang tidak saya sukai tentang engkau. Oleh karena itu mohonkanlah kepada Allah agar ibu saya mendapatkan petunjuk dan hidayah-Nya.' Setelah mendengar penjelasan saya. Rasulullah langsung berdo'a: 'Ya Allah, berikanlah hidayah kepada ibu Abu Hurairah! ' Lalu saya kembali ke rumah dengan perasaan gembira karena doa Rasulullah tersebut. Setibanya di rumah, saya mendapati pintu rumah masih tertutup. lbu saya mendengar derap langkah saya lalu berkata; Hai Abu Hurairah, berhentilah sejenak! ' Kemudian saya mendengar suara tumpahan air. Ternyata ibu saya sedang mandi. Ia segera berpakaian dan mengenakan kerudung. Ia membuka pintu seraya berkata; Hai Abu Hurairah, sekarang aku bersaksi bahwasanya tiada tuhan selain Allah dan aku bersaksi bahwasanya Muhammad adalah hamba Allah dan Rasul-Nya.' Abu Hurairah berkata; "Lalu saya kembali lagi kepada RasuluIlah shallallahu 'alaihi wasallam. Saya datangi beliau sambil menangis karena perasaan gembira. Saya berkata; 'Ya Rasulullah, saya sungguh senang dan gembira, AIIah telah mengabulkan doa engkau. Dan Allah telah memberikan hidayah-Nya kepada ibu saya." Rasulullah shallallahu 'alaihi wasallam memuji Allah dan mengucapkan syukur kepadaNya. Saya berkata; 'Ya Rasulullah, mohonkanlah kepada Allah agar saya dan ibu saya mencintai orang-orang mukmin dan mereka juga mencintai kami! ' Kemudian Rasulullah berdoa; 'Ya Allah, jadikanlah hamba-Mu yang kecil ini (yaitu Abu Hurairah dan ibunya) cinta kepada orang-orang mukmin serta jadikanlah mereka cinta kepada keduanya! ' Maka tidak ada seorang mukmin yang mendengar nama saya dan tidak bertemu dengan saya melainkan ia cinta kepada saya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6396</td></tr><tr><td>Arabic No</td><td>2491</td></tr><tr><td>Reference</td><td>Book 44 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6396</td></tr><tr><td>Arabic No</td><td>2491</td></tr><tr><td>Reference</td><td>Book 44 Hadith 226</td></tr></tbody></table></div>
 

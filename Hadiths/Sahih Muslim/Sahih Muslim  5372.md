@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported Allah's Messenger (ﷺ) as saying that a non-Muslim eats in s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb], [Muhammad bin Al Mutsanna] dan [Ubaidullah bin Sa'id] mereka berkata; telah mengabarkan kepada kami [Yahya] yaitu Al Qaththan dari [Ubaidullah] telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] dari Nabi Shallallah 'Alaihi Wa Sallam beliau bersabda: "Orang-orang kafir makan dengan tujuh usus (perut), dan orang mukmin makan dengan satu usus (perut)." Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair], Telah menceritakan kepada kami [Bapakku], demikian juga di riwayatkan dari jalur lain, Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], Telah menceritakan kepada kami [Abu Usamah] dan [Ibnu Numair] keduanya berkata; Telah menceritakan kepada kami [Ubaidullah], Demikian juga telah diriwayatkan dari jalur yang lain, dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abad bin Humaid], dari [Abdur Razak] dia berkata; telah mengabarkan kepada kami [Ma'mar] dari [Ayyub] keduanya dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5372</td></tr><tr><td>Arabic No</td><td>2060.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5372</td></tr><tr><td>Arabic No</td><td>2060.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 246</td></tr></tbody></table></div>
 

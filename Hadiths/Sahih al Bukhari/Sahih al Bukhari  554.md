@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:Jarir said, "We were with the Prophet (ﷺ) and he looked at the m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] berkata, telah menceritakan kepada kami [Marwan bin Mu'awiyah] berkata, telah menceritakan kepada kami [Isma'il] dari [Qais] dari [Jarir bin 'Abdullah] berkata, "Pada suatu malam kami pernah bersama Nabi shallallahu 'alaihi wasallam, beliau lalu melihat ke arah bulan purnama. Kemudian beliau bersabda: "Sesungguhnya kalian akan melihat Rabb kalian sebagaimana kalian melihat bulan purnama ini. Dan kalian tidak akan saling berdesakan dalam melihat-Nya. Maka jika kalian mampu untuk tidak terlewatkan untuk melaksanakan shalat sebelum terbit matahri dan sebelum terbenamnya, maka lakukanlah." Beliau kemudian membaca ayat: '(Dan bertasbihlah sambil memuji Rabbmu sebelum terbit matahari dan sebelum terbenamnya) ' (Qs. Qaaf: 39). Isma'il menyebutkan, "Kerjakanlah dan sekali-kali jangan sampai kalian terlewatkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>554</td></tr><tr><td>Arabic No</td><td>554</td></tr><tr><td>Reference</td><td>Book 9 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир, да будет доволен им Аллах, сказал: «Однажды в ночь полнолуния, когда мы находились вместе с Пророком ﷺ, он посмотрел на луну и сказал: “Поистине, вы увидите Господа вашего (так же ясно), как видите эту луну, и не будете вы обижены в том, что касается лицезрения Его! И если сможете вы добиться того, чтобы ничто не мешало вам совершать молитвы перед восходом солнца и перед закатом его, то совершайте (их)”. А после этого он прочитал (аят, в котором сказано): “…и прославляй Господа твоего до восхода солнца и перед заходом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>554</td></tr><tr><td>Arabic No</td><td>554</td></tr><tr><td>Reference</td><td>Book 9 Hadith 31</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The prayer of the Prophet (ﷺ) used to be of thirteen rak'a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musadad] berkata, telah menceritakan kepada kami [Yahya] dari [Syu'bah] berkata, telah menceritakan kepada saya [Abu Jamrah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Shalat Nabi shallallahu 'alaihi wasallam adalah tiga belas raka'at, yaitu shalat malamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1138</td></tr><tr><td>Arabic No</td><td>1138</td></tr><tr><td>Reference</td><td>Book 19 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, имевший в виду добровольную ночную молитву, сказал: «Молитва Пророка ﷺ состоял из тринадцати рак‘атов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1138</td></tr><tr><td>Arabic No</td><td>1138</td></tr><tr><td>Reference</td><td>Book 19 Hadith 19</td></tr></tbody></table></div>
 

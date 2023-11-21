@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It was narrated from Abu Sa'eed Al-Khudri that the Messenger of Allah (ﷺ) said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Dawud] dari [Abu Nadlrah] dari [Abu Sa'id Al Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan keluar sekelompok kaum dari manusia, dan yang akan memerangi mereka adalah salah satu dari dua kelompok yang paling dekat dari kebenaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2460</td></tr><tr><td>Arabic No</td><td>1065.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Во время разногласий между людьми, выйдет (группа) вылетевшая (из религии), которую убьёт та из двух групп, которая ближе к истине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2460</td></tr><tr><td>Arabic No</td><td>1065.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 197</td></tr></tbody></table></div>
 

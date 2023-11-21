@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "The sign of Belief is to love t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muslim bin Ibrahim] telah bercerita kepada kami [Syu'bah] dari ['Abdullah bin 'Abdullah bin Jabr] dari [Anas bin Malik radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Diantara tanda iman adalah mencintai Kaum Anshar dan diantara tanda nifaq adalah membenci Kaum Anshar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>3784</td></tr><tr><td>Reference</td><td>Book 63 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анан ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Признак имана — любовь к ансарам, а признак лицемерия — ненависть к ансарам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>3784</td></tr><tr><td>Reference</td><td>Book 63 Hadith 9</td></tr></tbody></table></div>
 

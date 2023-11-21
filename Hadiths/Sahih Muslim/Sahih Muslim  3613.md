@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها) : Une dispute s'était élevée entr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] bahwa dia berata; Sa'ad bin Abu Waqqash bersengketa dengan Abd bin Zam'ah mengenai seorang anak laki-laki, Sa'ad berkata; Wahai Rasulullah, ini adalah anak dari saudaraku, Utbah bin Abi Waqash, dia telah berpesan kepadaku bahwa ini memang anaknya, lihatlah kemiripannya (dengan saudaraku). 'Abd bin Zam'ah berkata; Wahai Rasulullah, anak ini adalah saudaraku, karena dia dilahirkan di ranjang ayahku dari budak perempuan ayahku. Kemudian Rasulullah shallallahu 'alaihi wasallam memperhatikan kemiripannya, ternyata dia persis seperti 'Utbah, lalu beliau bersabda: "Ini adalah milikmu, wahai Abd, yaitu untuk orang yang punya ranjang, di mana anak tersebut di lahirkan. Sedangkan laki-laki yang menzinahi ibunya tidak memiliki hak apa-apa terhadapnya. Karena itu, tetaplah kamu menutupkan tabirmu terhadapnya wahai Saudah binti Zam'ah." Dan Saudah pun tidak pernah melihatnya lagi. Dan Muhmmad bin Rumh tidak menyebutkan perkataan beliau: "Wahai Abd." Telah menceritakan kepada kami [Sa'id bin Manshur], [Abu Bakar bin Abi Syaibah] dan [Amru An Naqid] mereka berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah]. Dan diriwayatkan dari jalur lain, Dan telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdur Razaq] telah mengabarkan kepada kami [Ma'mar] keduanya dari [Az Zuhri] dengan isnad seperti ini, namun Ma'mar dan Ibnu 'Uyainah berkata dalam haditsnya; "Untuk pemilik ranjang." Dan tidak menyebutkan; "Bagi yang menzinahi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3613</td></tr><tr><td>Arabic No</td><td>1457.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3613</td></tr><tr><td>Arabic No</td><td>1457.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 46</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl b. Abu Hathma and Rafi' b. Khadij reported that 'Abdullah b. Sahl b. Zaid a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Yahya] -yaitu Ibnu Sa'id- dari [Busyair bin Yasar] dari [Sahal bin Abu Hatsmah] - [Yahya] berkata; dan aku mengira dia berkata- dari [Rafi' bin Khadij] bahwa keduanya berkata, "Abdullah bin Sahl bin Zaid dan Muhayishah bin Mas'ud bin Zaid pernah melakukan safar, hingga ketika mereka sampai di Khaibar, mereka berdua berpisah, Tidak beberapa lama Muhayishah mendapati Abdullah telah terbunuh, dia pun menguburkannya. Sesudah itu dia datang menghadap Rasulullah shallallahu 'alaihi wasallam bersama-sama dengan Huwaishah bin Mas'ud dan Abdurrahman bin Sahl. Sedangkan Abdurrahman adalah yang paling muda di antara mereka, tetapi Abdurrahman yang lebih dahulu berbicara daripada saudara sepupunya itu. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Dahulukanlah yang lebih tua umurnya." Maka ia pun diam dan kedua saudaranya lalu angkat bicara. Keduanya menceritakan kepada beliau bahwa Abdullah bin Sahal telah terbunuh, lalu Rasulullah shallallahu 'alaihi wasallam bertanya kepada mereka: "Maukah kalian bersumpah lima puluh kali? Jika kalian mau bersumpah, maka kalian berhak menuntut balas atas kematian saudara kalian." Mereka menjawab, "Bagaimana kami harus bersumpah, sedangkan kami tidak menyaksikan terjadinya pembunuhan itu." Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika begitu maka orang-orang Yahudi akan bebas dari kalian dengan lima puluh sumpah yang mereka lakukan." Mereka menjawab, "Bagaimana mungin kami dapat menerima sumpah orang kafir itu?" melihat kondisi seperti itu, akhirnya Rasulullah shallallahu 'alaihi wasallam memberikan diyatnya (tebusannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4342</td></tr><tr><td>Arabic No</td><td>1669.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4342</td></tr><tr><td>Arabic No</td><td>1669.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 1</td></tr></tbody></table></div>
 

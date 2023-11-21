@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] telah menceritakan kepada kami [Waki'] dari [Ibrahim bin Thahman] dari [Husain Al Mu'allim] dari [Ibnu Buraidah] dari [Imran bin Hushain] dia berkata; "Aku menderita penyakit wasir, lalu aku tanyakan hal itu kepada Nabi shallallahu 'alaihi wasallam, maka beliau bersabda: "Shalatlah dengan berdiri, dan apabila kamu tidak mampu, maka dengan duduk, jika tidak mampu, maka dengan berbaring
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1117)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>952</td></tr><tr><td>Arabic No</td><td>952</td></tr><tr><td>Reference</td><td>Book 2 Hadith 563</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал ‘Имран ибн Хусайн, да будет доволен Аллах им и его отцом: «У меня был геморрой, и я спросил Пророка ﷺ (о том, как мне совершать молитву). Он сказал: “Стоя, но, если не сможешь, молись сидя, а если не сможешь (делать и этого, то молись, лёжа) на боку”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1117)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>952</td></tr><tr><td>Arabic No</td><td>952</td></tr><tr><td>Reference</td><td>Book 2 Hadith 563</td></tr></tbody></table></div>
 

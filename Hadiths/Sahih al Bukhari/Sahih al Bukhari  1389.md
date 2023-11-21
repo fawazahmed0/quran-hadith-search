@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:During his sickness, Allah's Messenger (ﷺ) was asking repeated
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada saya [Sulaiman] dari [Hisyam] dan diriwayatkan pula dari jalan lain, telah menceritakan kepada saya [Muhammad bin Harb] telah menceritakan kepada kami [Abu Marwan Yahya bin Abu Zakariya'] dari [Hisyam] dari ['Urwah] dari ['Aisyah radliallahu 'anha] berkata,: Ketika Rasulullah Shallallahu'alaihiwasallam dalam keadaan sakit dan meminta udzur untuk giliran tinggal dengan isteri-isterinya (Beliau bertanya): "dimana aku hari ini dan dimana kesokannya?", saat itu rupanya Beliau menginginkan berlama-lama berada dalam giliran 'Aisyah radliallahu 'anha. Saat Beliau giliran di rumahku, Allah mencabut nyawa Beliau yang berada dalam dekapan dadaku dan pangkuanku, lalu Beliau dikebumikan di rumahku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1389</td></tr><tr><td>Arabic No</td><td>1389</td></tr><tr><td>Reference</td><td>Book 23 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Во время своей болезни Посланник Аллаха ﷺ всё время спрашивал: “Где я буду сегодня? Где я буду завтра?” — с нетерпением дожидаясь дня ‘Аиши, а когда настал мой день, он умер у меня на руках и был похоронен в моём доме»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1389</td></tr><tr><td>Arabic No</td><td>1389</td></tr><tr><td>Reference</td><td>Book 23 Hadith 141</td></tr></tbody></table></div>
 

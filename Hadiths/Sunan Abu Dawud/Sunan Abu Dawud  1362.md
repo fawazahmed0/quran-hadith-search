@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. Abi Qais said that he asked 'Aishah:How many rak'ahs would the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1362</td></tr><tr><td>Arabic No</td><td>1362</td></tr><tr><td>Reference</td><td>Book 5 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Абу Кайса: «Я спросил у ‘Аиши, да будет доволен ею Аллах, сколько рак‘атов совершал Посланник Аллаха ﷺ когда совершал (ночную молитву и) витр. Она ответила: “Он совершал четыре и три, шесть и три, восемь и три, и десять и три, и обычно он не совершал меньше семи и больше тринадцати”». Абу Дауд сказал: «Ахмад ибн Салих добавлял: “И он не оставлял два рак‘ата, совершаемые перед утренней молитвой /фаджр/”. Я спросил: “Что значит не оставлял?” Он ответил: “То есть он совершал их неуклонно”. И в версии Ахмада не упоминается: “И шесть и три”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1362</td></tr><tr><td>Arabic No</td><td>1362</td></tr><tr><td>Reference</td><td>Book 5 Hadith 113</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : "Faire halte à Al-Muhassab n'e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan [Ibnu Abu Umar] dan [Ahmad bin Abdah] -lafazhnya dari Abu Bakr- Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru] dari [Atha'] dari [Ibnu Abbas] ia berkata; "Berhenti di Hashbah bukanlah sesuatu yang diperintahkan, dan itu hanyalah sebuah tempat peristirahatan (persinggahan) Rasulullah shallallahu 'alaihi wasallam saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3172</td></tr><tr><td>Arabic No</td><td>1312</td></tr><tr><td>Reference</td><td>Book 15 Hadith 376</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3172</td></tr><tr><td>Arabic No</td><td>1312</td></tr><tr><td>Reference</td><td>Book 15 Hadith 376</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:Two men from my tribe and I entered upon the Prophet. One of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] radliallahu 'anhu mengatakan; aku menemui Nabi shallallahu 'alaihi wasallam bersama dua orang kaumku, lantas satu diantara kedua orang itu mengatakan; 'Jadikanlah kami pejabat ya Rasulullah? ' orang kedua juga mengatakan yang sama. Secara spontan Rasulullah Shallallahu'alaihiwasallam bersabda; "Kami tidak akan memberikan jabatan ini kepada orang yang memintanya, tidak juga kepada orang yang ambisi terhadapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7149</td></tr><tr><td>Arabic No</td><td>7149</td></tr><tr><td>Reference</td><td>Book 93 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса, да будет доволен им Аллах, сказал: «Однажды я зашёл к Пророку ﷺ в сопровождении двух человек из моего народа, и один из них сказал: “О Посланник Аллаха, поручи нам управление!” И другой сказал нечто подобное. Тогда Посланник Аллаха ﷺ сказал: “Воистину, мы не поручаем эту работу ни тому, кто сам просит об этом, ни тому кто стремится к этому”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7149</td></tr><tr><td>Arabic No</td><td>7149</td></tr><tr><td>Reference</td><td>Book 93 Hadith 13</td></tr></tbody></table></div>
 

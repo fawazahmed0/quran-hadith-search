@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) so many ahadith and one of them is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabih] dia berkata; Inilah yang telah diceritakan kepada kami oleh [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam kemudian dia menyebutkan beberapa Hadits di antaranya; dan Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang dari kalian berkata; 'Beri minum Tuhanmu, beri makan Tuhanmu, wudlukan Tuhanmu, ' dan janganlah salah seorang dari kalian berkata; 'Tuhanku, ' akan tetapi hendaklah ia berkata; 'Tuanku, majikanku, ' dan janganlah salah seorang dari kalian berkata; 'Hamba laki-lakiku dan hamba perempuanku, ' akan tetapi katakanlah, 'Anak mudaku, dan anak mudiku serta anak laki-lakiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5877</td></tr><tr><td>Arabic No</td><td>2249.04</td></tr><tr><td>Reference</td><td>Book 40 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5877</td></tr><tr><td>Arabic No</td><td>2249.04</td></tr><tr><td>Reference</td><td>Book 40 Hadith 16</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: When this verse was revealed: "If they do come to t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Daud bin Al Hushain] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Tatkala turun ayat ini: '(Jika mereka (orang Yahudi) datang kepadamu (untuk meminta putusan), maka putuskanlah (perkara itu) diantara mereka, atau berpalinglah dari mereka; jika kamu berpaling dari mereka maka mereka tidak akan memberi mudharat kepadamu sedikitpun. Dan jika kamu memutuskan perkara mereka, maka putuskanlah (perkara itu) diantara mereka dengan adil) ' (Qs. Al Maidah: 42), Ibnu Abbas berkata, "Dahulu jika orang-orang Bani An Nadlir membunuh orang dari Bani Quraizhah maka mereka memberikan setengah diyat (tebusan), dan apabila Bani Quraizhah membunuh sebagian orang dari Bani An Nazlir, maka mereka menunaikan diyat secara penuh. Lalu Rasulullah shallallahu 'alaihi wasallam menyamaratakan besaran diyat di antara mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3591</td></tr><tr><td>Arabic No</td><td>3591</td></tr><tr><td>Reference</td><td>Book 25 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал, что, когда был ниспослан этот аят «Если они явятся к тебе, то рассуди их или же отвернись от них. Если ты отвернёшься от них, то они нисколько не навредят тебе. Но если ты вынесешь решение, то суди их беспристрастно» (сура “аль-Маида”, аят 42), бану ан-надыр, убив кого-то из бану курайза, выплачивали только половину выкупа, а если бану курайза убивали кого-то из бану ан-надыр, они выплачивали выкуп полностью. И Посланник Аллаха ﷺ уравнял их
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3591</td></tr><tr><td>Arabic No</td><td>3591</td></tr><tr><td>Reference</td><td>Book 25 Hadith 21</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman reported that he heard Hassin b. Thabit al-Ansari call Abu Huraira
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Abu Al Yaman]; Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]; Telah mengabarkan kepadaku [Abu Salamah bin 'Abdur Rahman] bahwa dia mendengar [Hassan bin Tsabit Al Anshari] meminta persaksian [Abu Hurairah] seraya berkata; "Saya bersumpah kepadamu dengan nama Allah hai Abu Hurairah, pernahkah kamu mendengar Rasulullah berkata kepada saya: 'Hai Hassan, balaslah sya'ir orang-orang kafir untuk membelaku! Ya Allah ya Tuhanku, dukunglah Hassan dengan Jibril! ' Abu Hurairah menjawab; 'Ya, Saya pernah mendengarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6386</td></tr><tr><td>Arabic No</td><td>2485.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 216</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6386</td></tr><tr><td>Arabic No</td><td>2485.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 216</td></tr></tbody></table></div>
 

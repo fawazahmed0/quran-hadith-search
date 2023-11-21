@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Qais b. ‘Abbad said :I said to ‘All (Allah be pleased with him) : Tell me ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Ibrahim Al hudzali] berkata, telah menceritakan kepada kami [Ibnu Ulayyah] dari [Yunus] dari [Al Hasan] dari [Qais bin Abbad] ia berkata, "Aku berkata kepada [Ali radliallahu 'anhu], "Kabarkanlah kepada kami tentang perjalananmu ini (ke Irak untuk memerangi Mu'awiyah), apakah itu nasihat yang Rasulullah shallallahu 'alaihi wasallam berikan kepadamu atau hanya sekedar pendapatmu saja?" Ali menjawab, "Rasulullah shallallahu 'alaihi wasallam tidak pernah memberikan nasihat kepadaku hal itu, tetapi itu hanyalah pendapatku semata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4666</td></tr><tr><td>Arabic No</td><td>4666</td></tr><tr><td>Reference</td><td>Book 42 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Кайса ибн ‘Убада: «Я спросил ‘Али: “Скажи мне, этот твой поход завет Посланника Аллаха ﷺ тебе или твоё личное мнение?” Он ответил: “Посланник Аллаха ﷺ ничего не завещал мне, и это моё личное мнение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4666</td></tr><tr><td>Arabic No</td><td>4666</td></tr><tr><td>Reference</td><td>Book 42 Hadith 71</td></tr></tbody></table></div>
 

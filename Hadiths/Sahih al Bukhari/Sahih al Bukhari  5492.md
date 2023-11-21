@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:I was with the Prophet (on a journey) between Mecca and Medi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman Al Ju'fi] berkata; telah menceritakan kepadaku [Ibnu Wahb] berkata, telah mengabarkan kepada kami [Amru] bahwa [Abu An Nadlr] menceritakan kepadanya dari [Nafi] mantan budak Abu Qatadah, dan [Abu Shalih] mantan budak At Tau'amah ia berkata, Aku mendengar [Abu Qatadah] berkata, "Aku bersama Nabi shallallahu 'alaihi wasallam berada di suatu daerah antara Makkah dan Madinah, saat itu para sahabat sedang ihram. Sementara aku tidak melakukan ihram, dan sedang di atas kuda. Ketika aku sedang berada di atas gunung, aku melihat orang-orang berkerumun melihat sesuatu, kemudian aku pergi ke arah mereka dan ternyata yang mereka lihat itu adalah keledai liar. Aku lalu bertanya kepada mereka, "Apa ini?" Mereka menjawab, "Kami tidak tahu." Aku pun berkata, "Itu adalah keledai liar." Mereka lantas berkata, "Ya itu adalah sebagaimana yang kamu lihat." Saat itu aku lupa dengan cambukku, maka aku pun berkata kepada mereka, "Tolong ambilkan cambukku." Mereka menjawab, "Kami tidak akan menolong kamu dalam masalah itu." Aku lalu turun dan mengambilnya sendiri, kemudian aku mengikuti jejak keledai liar tersebut hingga dapat menangkap dan menyembelihnya. Kemudian aku datang menemui mereka dan kukatakan, "Bangun dan angkatlah." Mereka menjawab, "Kami tidak akan menyentuhnya." Maka aku pun membawa ke hadapan mereka, lalu sebagian mereka ada yang makan dan sebagian lain tidak mau memakannya. Aku lalu berkata kepada mereka, "Aku akan sampaikan kepada Nabi shallallahu 'alaihi wasallam akan keberatan kalian." Kemudian aku menyusul beliau dan menceritakan kejadian tersebut, beliau pun bersabda kepadaku: "Apakah kalian masih mempunyai sisa dagingnya?" Aku jawab, "Ya." Beliau bersabda lagi: "Itu adalah makanan yang Allah berikan kepada kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5492</td></tr><tr><td>Arabic No</td><td>5492</td></tr><tr><td>Reference</td><td>Book 72 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада рассказал: «(Однажды) я был с Пророком ﷺ между Меккой и Мединой, и все они (Пророк ﷺ и его сподвижники) были в состоянии ихрама, а я нет. Я ехал верхом на лошади и любил подниматься в горы, и, находясь там я заметил, что люди что-то высматривают. Посмотрев, я увидел, что это был дикий осёл. Я спросил своих спутников: “Что это?” Они ответили: “Мы не знаем”. Я сказал: “Это дикий осёл”. Они сказали: “Это то, что ты видел”. Я забыл взять свою плеть и сказал им: “Подайте мне мою плеть”. Но они ответили: “Мы не будем помогать тебе в этом деле”. Тогда я спустился, взял плеть, погнался за животным (на своем коне) и (догнав) убил его. Я пришёл к ним и сказал: “Вставайте, чтобы принести его!” Но они сказали: “Мы даже не прикоснёмся к нему”. Тогда я один принёс его к ним. Некоторые из них поели его мяса, а некоторые отказались есть. Я сказал (им): “Я спрошу об этом у Пророка ﷺ”. Когда я встретил Пророка ﷺ, я рассказал о том, что произошло, и он спросил меня: “У вас осталось с собой что-нибудь из этого мяса?” Я ответил: “Да”. Тогда он сказал: “Ешьте, это просто еда, которой вас накормил Аллах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5492</td></tr><tr><td>Arabic No</td><td>5492</td></tr><tr><td>Reference</td><td>Book 72 Hadith 18</td></tr></tbody></table></div>
 

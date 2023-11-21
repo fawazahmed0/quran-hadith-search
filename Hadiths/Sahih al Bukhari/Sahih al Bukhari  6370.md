@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mus'ab bin Sa'd:Sa'd bin Abi Waqqas used to recommend these five (state
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abdul Malik bin Umair] dari [Mush'ab bin Sa'd] dari [Sa'd bin Abu Waqash] radliallahu 'anhu bahwa dia memerintahkan lima perkara, dan dia pernah menceritakan tentang hal itu dari Rasulullah shallallahu 'alaihi wasallam, yaitu; "ALLAHUMMA INNI A'UUDZU BIKA MINAL BUKHLI, WA A'UUDZU BIKA MINAL JUBNI, WA A'UUDZU BIKA MIN AN URADDA ILAA ARDZALIL 'UMUR WA A'UUDZU BIKA MIN FITNATID DUNYA, WA A'UUDZUBIKA MIN 'ADZAABIL QABRI (Ya Allah, aku berlindung kepada-Mu dari sifat kikir, aku berlindung kepada-Mu dari sifat pengecut, aku berlindung kepada-Mu kepikunan, aku berlindung dari fitnah dunia dan aku berlindung kepada-Mu dari siksa kubur)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6370</td></tr><tr><td>Arabic No</td><td>6370</td></tr><tr><td>Reference</td><td>Book 80 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся, что Са‘д ибн Абу Ваккъас, да будет доволен им Аллах, приказывал (людям произносить) эти пять вещей, и он передавал их от Пророка ﷺ: «О Аллах, поистине, я ищу у Тебя защиты от скупости, и я прошу у Тебя защиты от трусости, и я прошу у Тебя защиты от того, чтобы оказаться дряхлым стариком, и я прошу у Тебя защиты от искушений мира этого, и я прошу у Тебя защиты от мучений могилы /Аллахумма, инни а‘узу бика мина-ль-бухли, ва а‘узу бика мин аль-джубни, ва а‘узу бика мин ан урадда иля арзали-ль-‘умури, ва а‘узу бика мин фитнати-д-дунйа, ва а‘узу бика мин ‘азаби-ль-кабр/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6370</td></tr><tr><td>Arabic No</td><td>6370</td></tr><tr><td>Reference</td><td>Book 80 Hadith 67</td></tr></tbody></table></div>
 

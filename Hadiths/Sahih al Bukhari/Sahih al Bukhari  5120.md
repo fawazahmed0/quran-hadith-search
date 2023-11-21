@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit Al-Banani:I was with Anas while his daughter was present with hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Marhum bin Abdul Aziz bin Mihran] ia berkata; Aku mendengar [Tsabit Al Bunani] berkata; Aku pernah berada di tempat Anas, sedang ia memiliki anak wanita. [Anas] berkata, "Ada seorang wanita datang kepada Rasulullah shallallahu 'alaihi wasallam lalu menghibahkan dirinya kepada beliau. Wanita itu berkata, 'Wahai Rasulullah, adakah Anda berhasrat padaku?" lalu anak wanita Anas pun berkomentar, "Alangkah sedikitnya rasa malunya.." Anas berkata, "Wanita lebih baik daripada kamu, sebab ia suka pada Nabi shallallahu 'alaihi wasallam, hingga ia menghibahkan dirinya pada beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5120</td></tr><tr><td>Arabic No</td><td>5120</td></tr><tr><td>Reference</td><td>Book 67 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сабит аль-Бунани рассказывал: «Однажды я был с Анасом, когда с ним была его дочь. Анас сказал: “Однажды одна женщина пришла к Посланнику Аллаха ﷺ, предлагая ему себя (в жёны), и сказала: “О Посланник Аллаха, у тебя есть нужда во мне?” На это дочь Анаса сказала: “Как же мало было в ней скромности, и как плохо она поступила”. Тогда Анас сказал ей: “Она была лучше тебя! Она любила Пророка ﷺ и предложила себя ему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5120</td></tr><tr><td>Arabic No</td><td>5120</td></tr><tr><td>Reference</td><td>Book 67 Hadith 56</td></tr></tbody></table></div>
 

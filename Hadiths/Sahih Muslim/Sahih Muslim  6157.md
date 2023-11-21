@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. malik reported Allah's Messenger (ﷺ) as saying:I came. And in the narr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid] dan [Syaiban bin Farrukh] keduanya berkata; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit Al Bunani] dan [Sulaiman At Taimi] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku mendatangi -dan pada riwayat Haddab- Aku melewati Musa pada malam aku di isra'kan, yaitu di samping bukit merah sedang shalat di dalam kuburannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6157</td></tr><tr><td>Arabic No</td><td>2375.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 215</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6157</td></tr><tr><td>Arabic No</td><td>2375.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 215</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:The people used to send presents to the Prophet (ﷺ) o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin 'Abdul Wahhab] telah bercerita kepada kami [Hammad] telah bercerita kepada kami [Hisyam] dari [bapaknya] berkata; "Orang-orang biasa memilih memberikan hadiah mereka (kepada Nabi shallallahu 'alaihi wasallam) saat beliau giliran di rumah 'Aisyah radliallahu 'anha. ['Aisyah radliallahu 'anha] berkata; "Maka shahabat-shahabatku (para istri Nabi yang lain) berkumpul pada Ummu Salamah dan berkata; "Wahai Ummu Salamah, sesungguhnya orang-orang memberikan hadiah kepada beliau shallallahu 'alaihi wasallam saat beliau giliran di rumah 'Aisyah. Dan kami menghendaki kebaikan sebagaimana yang juga 'Aisyah radliallahu 'anha kehendaki. Maka itu mintalah kepada Rasulullah shallallahu 'alaihi wasallam agar beliau memerintahkan orang-orang apabila hendak memberi hadiah kepada beliau agar memberikanya kepada beliau saat beliau berada dimana saja dari giliran belau (di rumah istri-istrinya) ". 'Aisyah radliallahu 'anha berkata; "Maka Ummu Salamah menyampaikan hal ini kepada Nabi shallallahu 'alaihi wasallam". Ummu Salamah berkata; "Beliau menolak berbicara denganku. Dan ketika beliau datang kembali kepadaku, aku sampaikan lagi hal itu namun beliau tetap menolak berbicara. Ketika untuk yang ketiga kalinya aku sampaikan, beliau berkata kepadaku: "Wahai Ummu Salamah, janganlah kamu sakiti aku dalam masalah 'Aisyah. Karena demi Allah, tidak ada wahyu yang turun kepadaku saat aku dalam selimut seorang istri diantara kalian kecuali dia ('Aisyah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3775</td></tr><tr><td>Arabic No</td><td>3775</td></tr><tr><td>Reference</td><td>Book 62 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что отец Хишама сказал: \n— Люди старались дарить подарки Пророку ﷺ в день ‘Аиши. ‘Аиша сказала: «Однажды мои спутницы (то есть другие жёны Пророка ﷺ) собрались в доме Умм Салямы, и сказали: “О Умм Саляма, клянёмся Аллахом, люди специально выбирают день ‘Аиши, чтобы дарить подарки. Мы хотим блага (подарки) так же, как его хочет ‘Аиша. Скажи же Посланнику Аллаха ﷺ, чтобы он повелел людям дарить подарки где бы он не находился”. Тогда Умм Саляма передала Пророку ﷺ их слова. Умм Саляма сказала: “Но он отвернулся от меня, а когда он вернулся ко мне в следующий раз, я снова напомнила ему об этом, но снова отвернулся от меня. Когда же я упомянула это в третий раз, он сказал: “О Умм Саляма, не досаждай мне (разговорами об) ‘Аише, ибо, поистине, клянусь Аллахом, не ниспосылались мне откровения в то время, когда я был под одеялом какой-либо женщины из вас, кроме ‘Аиши”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3775</td></tr><tr><td>Arabic No</td><td>3775</td></tr><tr><td>Reference</td><td>Book 62 Hadith 120</td></tr></tbody></table></div>
 

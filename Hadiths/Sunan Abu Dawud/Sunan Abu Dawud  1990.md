@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Abbas: The Messenger of Allah (ﷺ) intended to perform ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abdul Warits] dari [Amir Al Ahwal] dari [Bakr bin Abdullah] dari [Ibnu Abbas], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam hendak melakukan haji, kemudian seorang wanita berkata kepada suaminya; hajikan saya bersama Rasulullah shallAllahu wa'alaihi wa sallam di atas untamu! Kemudian beliau berkata; aku tidak memiliki sesuatu untuk membawamu berhaji. Ia berkata; hajikan saya di atas untamu Fulani! Ia berkata; itu adalah unta yang tertahan untuk di jalan Allah 'azza wajalla. Kemudian ia datang kepada Rasulullah shallAllahu wa'alaihi wa sallam dan berkata; sesungguhnya isteriku mengucapkan salam dan rahmat kepadamu. Dan ia meminta kepadaku untuk melakukan haji bersamamu. Ia berkata; hajikan aku bersama Rasulullah shallAllahu wa'alaihi wa sallam Fulani! Lalu aku mengatakan unta itu adalah unta yang tertahan di jalan Allah. Kemudian beliau berkata: "Sesungguhnya apabila engkau menghajikannya di atas unta tersebut maka hal itu adalah di jalan Allah." Ia berkata; dan ia memintaku untuk bertanya kepada anda, apakah yang sama dengan haji bersama anda? Kemudian Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Sampaikan salam dan rahmat serta berkah kepadanya. Umrah pada Bulan Ramadhan adalah sama dengan haji bersamaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 11 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, когда Посланник Аллаха ﷺ собрался совершить прощальный хадж, одна женщина сказала своему мужу: «Отправь меня в хадж вместе с Посланником Аллаха ﷺ на твоём верблюде». Муж ответил ей: «Но у меня нет верблюда, на котором я мог бы отправить тебя в хадж». Она сказала: «Отправь меня в хадж на таком-то верблюде». Он возразил: «Но он предназначен для использования на пути Всемогущего и Великого Аллаха». Потом этот человек пошёл к Посланнику Аллаха ﷺ и сказал: «Моя жена приветствует тебя миром и призывает на тебя милость Аллаха. Она попросила меня отправить её совершать хадж вместе с тобой. Она сказала: “Отправь меня в хадж вместе с Посланником Аллаха ﷺ”. Я ответил ей: “Но у меня нет верблюда, на котором я мог бы отправить тебя в хадж”. Она сказала: “Отправь меня в хадж на таком-то верблюде”. Я возразил: “Но он предназначен для использования на пути Аллаха”». Посланник Аллаха ﷺ сказал: «Если бы ты отправил её в хадж, это было бы на пути Аллаха». Он сказал: «Она велела мне спросить у тебя, что может сравниться с хаджем, совершённым вместе с тобой?» Посланник Аллаха ﷺ сказал: «Передай ей пожелание мира, милости Аллаха и Его благословения и скажи, что она подобна хаджу, совершённому вместе со мной». Он имел в виду ‘умру, совершённую в рамадан
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 11 Hadith 270</td></tr></tbody></table></div>
 

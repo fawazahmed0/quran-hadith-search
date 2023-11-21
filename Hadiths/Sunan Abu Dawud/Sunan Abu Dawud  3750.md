@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuKarimah: The Prophet (ﷺ) said: It is a duty of every Muslim (to pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Khalaf bin Hisyam] mereka berkata; telah menceritakan kepada kami [Abu 'Awanah] dari [Manshur] dari ['Amir] dari [Abu Karimah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Malam bertamu adalah kewajiban atas setiap Muslim 9untuk memuliakannya), maka barangsiapa diwaktu pagi ia (tamu) berada di halaman rumahnya, maka itu adalah hutang; jika mau ia boleh menjamu dan jika tidak maka ia boleh membiarkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3750</td></tr><tr><td>Arabic No</td><td>3750</td></tr><tr><td>Reference</td><td>Book 28 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Карима передаёт, что Посланник Аллаха ﷺ сказал: «Ночь гостя обязанность каждого мусульманина, и принять того, кто встретил утро на его дворе, долг хозяина. И если гость желает, то может добиваться уплаты этого долга, а если желает, то может отказаться от него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3750</td></tr><tr><td>Arabic No</td><td>3750</td></tr><tr><td>Reference</td><td>Book 28 Hadith 15</td></tr></tbody></table></div>
 

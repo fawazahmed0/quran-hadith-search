@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr ibn Dinar said:I heard Ibn Umar say: We did not see any harm in sharecroppin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari ['Amr bin Dinar], ia berkata; aku mendengar [Ibnu Umar] berkata; kami menganggap muzara'ah adalah sesuatu yang diperbolehkan hingga aku mendengar Rafi' bin Khadij berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang darinya. Kemudian aku ceritakan hal tersebut kepada Thawus. Lalu ia berkata; Ibnu Abba berkata kepadaku; sesungguhnya Rasulullah shallallahu 'alaihi wasallam tidak melarang darinya. Akan tetapi beliau bersabda: "Sungguh, salah seorang diantara kalian memberikan tanahnya kepada saudaranya adalah lebih baik daripada ia mengambil upah tertentu atas tanah tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1547)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3389</td></tr><tr><td>Arabic No</td><td>3389</td></tr><tr><td>Reference</td><td>Book 23 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Динар передаёт: Я слышал, как Ибн ‘Умар, да будет доволен Аллах им и его отцом, говорил: «Мы не видели ничего запретного в издольщине, пока Рафи‘ ибн Хадидж не сообщил нам, что Посланник Аллаха ﷺ запретил это». Я сообщил об этом Тавусу, и он сказал: «Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: “Посланник Аллаха ﷺ не запрещал издольщину. Он только сказал: Лучше для любого из вас безвозмездно отдавать свою землю во временное пользование, чем брать известную плату”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1547)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3389</td></tr><tr><td>Arabic No</td><td>3389</td></tr><tr><td>Reference</td><td>Book 23 Hadith 64</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:I would eat flesh from a bone when I was menstruating, then hand it 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdullah bin Dawud] dari [Mis'ar] dari [Al-Miqdam bin Syuraih] dari [Ayahnya] dari [Aisyah] dia berkata; Saya pernah menggigit daging, sementara aku sedang haidl, lalu daging itu saya berikan kepada Nabi shallallahu 'alaihi wasallam, maka beliau menggigitnya pada bagian daging yang saya gigit. Dan saya minum, lalu saya berikan minuman itu kepada beliau, maka beliau meminumnya pada bagian yang saya minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (300)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>259</td></tr><tr><td>Arabic No</td><td>259</td></tr><tr><td>Reference</td><td>Book 1 Hadith 259</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «В то время, когда у меня были менструации, я обгладывала кость и передавала его Пророку ﷺ и он прикладывал губы к тому месту, куда прикладывала я свои. Я пила и отдавала (сосуд) ему, а он прикладывал свои губы к тому месту, откуда пила я»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (300)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>259</td></tr><tr><td>Arabic No</td><td>259</td></tr><tr><td>Reference</td><td>Book 1 Hadith 259</td></tr></tbody></table></div>
 

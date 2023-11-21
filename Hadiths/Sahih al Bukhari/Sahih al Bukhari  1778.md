@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:I asked Anas how many times the Prophet (ﷺ) had performed 'Umr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hassan bin Hassan] telah menceritakan kepada kami [Hammam] dari [Qatadah]; Aku bertanya kepada [Anas radliallahu 'anhu]: Berapa kali Nabi shallallahu 'alaihi wasallam melaksanakan 'umrah?". Dia menjawab: "Empat kali. Diantaranya, 'umrah Al Hudaibiyah pada bulan Dzul Qa'dah saat Kaum Musyrikin menghalangi Beliau, 'umrah pada tahun berikutnya pada bulan Dzul Qa'dah setelah melakukan perjanjian damai dengan mereka dan 'umrah Al Ji'ranah ketika Beliau membagi-bagikan ghanimah (harta rampasan perang). Aku menduga yang dimaksudnya adalah ghanimah perang Hunain. Aku tanyakan lagi: "Berapa kali Beliau menunaikan haji?". Dia menjawab: "Satu kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1778</td></tr><tr><td>Arabic No</td><td>1778</td></tr><tr><td>Reference</td><td>Book 26 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Анаса бин Малика, да будет доволен им Аллах, спросили: «Сколько раз совершил умру Пророк ﷺ?» Он сказал: «Четыре (раза, а именно): умру (в год) Худайбийи в (месяце) зуль-ка‘да, когда ему воспрепятствовали многобожники, и умру на следующий год в (месяце) зуль-ка‘да, когда он уже заключил перемирие с ними, и умру из Джи‘раны, когда он разделил военную добычу».\n(Катада сказал): «Я думаю, что он (имел в виду) Хунайн. И я спросил (его): “А сколько раз он совершал хадж?” Он сказал: “Один (раз)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1778</td></tr><tr><td>Arabic No</td><td>1778</td></tr><tr><td>Reference</td><td>Book 26 Hadith 5</td></tr></tbody></table></div>
 

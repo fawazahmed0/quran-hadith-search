@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:We used to participate in the holy wars carried on by the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Aun] Telah menceritakan kepada kami [Khalid] dari [Isma'il] dari [Qais] dari ['Abdullah radliallahu 'anhu] dia berkata; Kami pernah berperang bersama Nabi shallallaahu 'alaihi wasallam namun tidak mengikut sertakan istri-istri kami, lalu kami berkata: Wahai Rasulullah, tidakkah kami dikebiri? Namun Nabi shallallaahu 'alaihi wasallam melarang kami melakukannya. tapi setelah itu beliau memberikan keringanan kepada kami untuk menikahi wanita dalam waktu tertentu. lalu beliau membacakan ayat; Hai orang-orang yang beriman, janganlah kamu haramkan apa-apa yang baik yang telah Allah halalkan bagi kamu, dan janganlah kamu melampaui batas. Sesungguhnya Allah tidak menyukai orang-orang yang melampaui batas. (Al Maidah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4615</td></tr><tr><td>Arabic No</td><td>4615</td></tr><tr><td>Reference</td><td>Book 65 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Когда мы участвовали в военных походах вместе с Пророком ﷺ с нами не было (наших) жён, и (однажды) мы спросили (его): “Не оскопить ли нам себя?” Однако он запретил нам делать это и разрешил заключать (временные) браки(, позволив отдавать женщинам в качестве махра) одежду», а потом (‘Абдуллах) прочитал (аят, в котором сказано): “О те, кто уверовал! Не запрещайте того благого, что Аллах разрешил вам…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4615</td></tr><tr><td>Arabic No</td><td>4615</td></tr><tr><td>Reference</td><td>Book 65 Hadith 137</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:My grandmother Mulaika invited Allah's Messenger (ﷺ) f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Ishaq bin 'Abdullah bin Abu Thalhah] dari [Anas bin Malik] bahwa neneknya, Mulaikah, mengundang Rasulullah shallallahu 'alaihi wasallam untuk menghadiri hidangan yang ia masak untuknya. Beliau lantas memakannya lalu bersabda: "Berdirilah kalian, aku akan pimpin shalat kalian." Maka aku berdiri di tikar milik kami yang sudah hitam lusuh akibat sering digunakan. Tikar itu kemudian aku perciki dengan air, lalu Rasulullah shallallahu 'alaihi wasallam berdiri diatasnya. Maka aku dan anak yatim yang tinggal bersama kami merapatkan shaf di belakang beliau sedangkan nenek kami berdiri di belakang kami. Nabi shallallahu 'alaihi wasallam kemudian shalat memimpim kami sebanyak dua rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>860</td></tr><tr><td>Arabic No</td><td>860</td></tr><tr><td>Reference</td><td>Book 10 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что (однажды) его бабушка Мулейка пригласила Посланника Аллаха ﷺ отведать еды, которую она приготовила. Он отведал (это угощение), а потом сказал: «Становитесь, и я помолюсь с вами». Анас сказал: «Тогда я подошёл к нашей подстилке, почерневшей от долгого использования, и побрызгал её водой, после чего (на неё) встал Посланник Аллаха ﷺ за ним встали мы с сиротой, а за нами — старуха (Мулейка), и он совершил с нами молитву в два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>860</td></tr><tr><td>Arabic No</td><td>860</td></tr><tr><td>Reference</td><td>Book 10 Hadith 251</td></tr></tbody></table></div>
 

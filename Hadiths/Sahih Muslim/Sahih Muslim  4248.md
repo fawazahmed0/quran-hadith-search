@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:Allah's Apostle (ﷺ) found an old man walking between his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] mereka berkata; telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Ja'far- dari ['Amru] -yaitu Ibnu Abu 'Amru- dari [Abdurrahman Al A'raj] dari [Abu Hurairah], bahwa Nabi shallallahu 'alaihi wasallam melihat seorang laki-laki tua berjalan dengan diapit oleh kedua putranya, maka Nabi shallallahu 'alaihi wasallam bersabda: "Kenapa orang ini?" kedua putaranya menjawab, "Wahai Rasulullah, dia sedang menunaikan nadzarnya." Lantas Nabi shallallahu 'alaihi wasallam bersabda: "Naiklah kendaraan wahai bapak tua, sesungguhnya Allah Mahakaya (tidak butuh) nadzarmu yang seperti itu." Dan ini adalah lafaz Qutaibah dan Ibnu Hujr." Dan telah mengabarkan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz] -yaitu Ad Darawardi- dari ['Amru bin Abu 'Amru] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4248</td></tr><tr><td>Arabic No</td><td>1643.01</td></tr><tr><td>Reference</td><td>Book 26 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4248</td></tr><tr><td>Arabic No</td><td>1643.01</td></tr><tr><td>Reference</td><td>Book 26 Hadith 14</td></tr></tbody></table></div>
 

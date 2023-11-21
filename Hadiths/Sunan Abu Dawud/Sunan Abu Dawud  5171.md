@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. malik said :A man peeped into some of the apartment of the prophet (May 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Hammad] dari [Ubaidullah bin Abu Bakar] dari [Anas bin Malik] berkata, "Ada seseorang yang mengintip sebagian kamar Nabi shallallahu 'alaihi wasallam. Maka Rasulullah shallallahu 'alaihi wasallam bangkit ke arah orang itu dengan membawa panah, atau beberapa anak panah, dan seakan aku melihat Rasulullah shallallahu 'alaihi wasallam mengendap-endap untuk menikamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6242) Sahih Muslim (2157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5171</td></tr><tr><td>Arabic No</td><td>5171</td></tr><tr><td>Reference</td><td>Book 43 Hadith 399</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6242) Sahih Muslim (2157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5171</td></tr><tr><td>Arabic No</td><td>5171</td></tr><tr><td>Reference</td><td>Book 43 Hadith 399</td></tr></tbody></table></div>
 

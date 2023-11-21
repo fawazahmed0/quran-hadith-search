@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Mulaika:I heard 'Aisha reciting: "When you invented a lie (and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] Telah menceritakan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] Telah mengabarkan kepada mereka. [Ibnu Abu Mulaikah] dia berkata; Aku mendengar [Aisyah] membaca ayat: Ingatlah, di waktu kamu menerima berita bohong itu dari mulut ke mulut. (An Nuur:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4752</td></tr><tr><td>Arabic No</td><td>4752</td></tr><tr><td>Reference</td><td>Book 65 Hadith 274</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн абу Мулейка сказал: «Я слышал, как ‘Аиша читала: “Вы продолжаете распространять ложь своими языками”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4752</td></tr><tr><td>Arabic No</td><td>4752</td></tr><tr><td>Reference</td><td>Book 65 Hadith 274</td></tr></tbody></table></div>
 

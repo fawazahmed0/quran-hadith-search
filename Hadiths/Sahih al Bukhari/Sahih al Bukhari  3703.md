@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim:A man came to Sahl bin Sa'd and said, "This is so-and-so," me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] telah bercerita kepada kami ['Abdul 'Aziz bin Abu Hazim] dari [bapaknya] bahwa ada seseorang datang kepada [Sahal bin Sa'ad] lalu berkata; "Inilah si fulan, amir kota Madinah, yang memanggil 'Ali di samping mimbar". Sahal bertanya; "Bagaimana dia memanggilnya?". Orang itu berkata; "Dia memanggilnya dengan sebutan Abu Turab". Maka Sahal tertawa lalu berkata; "Demi Allah, tidaklah yang menamakannya begitu kecuali Nabi shallallahu 'alaihi wasallam dan tidak ada nama yang lebih disukainya kecuali panggilan itu". Maka aku ingin sekali menikmati hadits Sahal tersebut lalu aku bertanya; "Wahai Abu 'Abbas, bagaimana ceritanya pemberian nama tersebut?". Sahal menjawab; "'Ali datang menemui Fathimah lalu keluar lagi kemudian tidur di masjid. Kemudian Nabi shallallahu 'alaihi wasallam bertanya: "Kemana putra pamanmu?. Fathimah menjawab; "Di masjid". Maka beliau shallallahu 'alaihi wasallam pergi menemui 'Ali dan mendapatkan selendang 'Ali terjatuh dari punggungnya sehingga debu mengenai punggungnya. Maka beliau membersihkan debu dari punggung 'Ali seraya berkata: "Duduklah, AbuTurab". Beliau mengatakannya dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3703</td></tr><tr><td>Arabic No</td><td>3703</td></tr><tr><td>Reference</td><td>Book 62 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, со слов Абу Хазма, что однажды один человек пришёл к Сахлю ибн Са‘ду и сказал: «Такой-то (имея ввиду амира Медины) называет ‘Али плохим именем прямо с минбара». Сахль спросил: «И как же он его называет?» Он ответил: «Он называет его Абу Тураб (пыльный)». Сахль рассмеялся и сказал: «Клянусь Аллахом, его так назвал Пророк ﷺ, и это было его самым любимым прозвищем». Я попросил его рассказать об этом, сказав: «О Абу ‘Аббас, как же это произошло?» И он сказал: «(Однажды) ‘Али зашёл в дом Фатимы, затем вышел и лёг в мечети. Пророк ﷺ спросил Фатиму: “А где же сын твоего дяди?” (Фатима) ответила: “В мечети”. Тогда Посланник Аллаха ﷺ пришёл туда (и увидел), что накидка ‘Али упала с его бока и его спина покрылась пылью. Посланник Аллаха ﷺ стал стряхивать с него пыль, приговаривая: “Вставай, о Абу Тураб, вставай, о Абу Тураб!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3703</td></tr><tr><td>Arabic No</td><td>3703</td></tr><tr><td>Reference</td><td>Book 62 Hadith 53</td></tr></tbody></table></div>
 

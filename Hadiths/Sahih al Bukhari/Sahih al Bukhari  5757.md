@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "There is no 'Adwa, nor Tiyara, nor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Hakam] telah menceritakan kepada kami [An Nadlr] telah mengabarkan kepada kami [Isra'il] telah mengabarkan kepada kami [Abu Hashin] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidak ada 'adwa (keyakinan adanya penularan penyakit), tidak ada thiyarah (menganggap sial sesuatu hingga tidak jadi beramal), tidak ada hammah (keyakinan jahiliyah tentang rengkarnasi) dan tidak pula shafar (menganggap bulan shafar sebagai bulan haram atau keramat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5757</td></tr><tr><td>Arabic No</td><td>5757</td></tr><tr><td>Reference</td><td>Book 76 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не (передаётся) зараза (иначе как по воле Аллаха), и не (является дурным предзнаменованием ни полёт) птиц, ни сова, и не (сулит ничего дурного месяц) сафар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5757</td></tr><tr><td>Arabic No</td><td>5757</td></tr><tr><td>Reference</td><td>Book 76 Hadith 72</td></tr></tbody></table></div>
 

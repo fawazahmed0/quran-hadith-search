@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "A prophet amongst the prophets car
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al 'Alaa'] telah bercerita kepada kami [Ibnu Al Mubarak] dari [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah Radliallahu 'anhu] berkata; Rasulullah Shallallahu'alaiwasallam bersabda: "Ada seorang Nabi diantara para Nabi yang berperang lalu berkata kepada kaumnya; "Janganlah mengikuti aku seseorang yang baru saja menikahi wanita sedangkan dia hendak menyetubuhinya karena dia belum lagi menyetubuhinya (sejak malam pertama), dan jangan pula seseorang yang membangun rumah-rumah sedang dia belum memasang atap-atapnya, dan jangan pula seseorang yang membeli seekor kambing atau seekor unta yang bunting sedang dia menanti-nanti hewan itu beranak". Maka Nabi tersebut berperang dan ketika sudah hampir mendekati suatu kampung datang waktu shalat 'Ashar atau sekitar waktu itu lalu Nabi itu berkata kepada matahari; "Kamu adalah hamba yang diperintah begitu juga aku hamba yang diperintah. Ya Allah tahanlah matahari ini untuk kami. Maka matahari itu tertahan (berhenti beredar) hingga Allah memberikan kemenangan kepada Nabi tersebut. Kemudian Nabi tersebut mengumpulkan ghanimah lalu tak lama kemudian datanglah api untuk memakan (menghanguskannya) namun api itu tidak dapat memakannya. Maka Nabi tersebut berkata; "Sungguh diantara kalian ada yang berkhiyanat (mencuri ghanimah) untuk itu hendaklah dari setiap suku ada seorang yang berbai'at kepadaku. Maka ada tangan seorang laki-laki yang melekat (berjabatan tangan) dengan tangan Nabi tersebut lalu Nabi tersebut berkata; "Dikalangan sukumu ada orang yang mencuri ghanimah maka hendaklah suku kamu berbai'at kepadaku. Maka tangan dua atau tiga orang laki-laki suku itu berjabatan tangan dengan tangan Nabi tersebut lalu Nabi tersebut berkata; "Di kalangan sukumu ada orang yang mencuri ghanimah". Maka mereka datang dengan membawa emas sebesar kepala sapi lalu meletakkannya' Kemudian datanglah api lalu menghanguskannya. Kemudian Allah menghalalkan ghanimah untuk kita karena Allah melihat kelemahan dan ketidak mampuan kita sehingga Dia menghalalkannya untuk kita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3124</td></tr><tr><td>Arabic No</td><td>3124</td></tr><tr><td>Reference</td><td>Book 57 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Отправляясь в военный поход, один из пророков сказал своим соплеменникам: “Пусть не следует за мной тот, кто женился на женщине и желает войти к ней, но ещё не вошёл, и тот, кто построил дом, но не покрыл его крышей, и тот, кто купил овец или верблюдиц и ожидает приплода от них”, после чего он двинулся в путь. Подойдя к этому городу ко времени послеполуденной молитвы или примерно в это время, он сказал солнцу: “Ты подвластно (Аллаху), и я подвластен, о Аллах, останови его для нас!” — и (солнце не заходило) до тех пор, пока Аллах не даровал ему победу. После этого он собрал военную добычу, и (с небес) сошёл огонь, чтобы уничтожить это, однако не тронул (собранного). Тогда (этот пророк) сказал (своим воинам): “Поистине, (кто-то) из вас (пошёл на) обман, пусть же принесёт мне клятву один человек из каждого племени”. (Они так и сделали,) и рука одного из них прилипла к его руке. Тогда он сказал: “(Пошедший на) обман находится среди вас, пусть же все твои соплеменники принесут мне клятву”. (На этот раз) к его руке прилипли руки двоих или троих из них, и он сказал: “(Кто-то) из вас (пошёл на) обман”, после чего они принесли сделанную из золота голову наподобие коровьей головы и положили её (перед ним), и тогда сошедший (с неба) огонь уничтожил (всю эту добычу). А потом Аллах разрешил нам (брать) военную добычу. Он увидел нашу слабость и неспособность и разрешил нам (брать) её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3124</td></tr><tr><td>Arabic No</td><td>3124</td></tr><tr><td>Reference</td><td>Book 57 Hadith 33</td></tr></tbody></table></div>
 

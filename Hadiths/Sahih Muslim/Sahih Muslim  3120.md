@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : La nuit d'Al-Muzdalifa, Sawda demanda 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ibnu Numair] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Ubaidullah bin Umar] dari [Abdurrahman bin Qasim] dari [Al Qasim] dari [Aisyah] ia berkata; Aku ingin pula minta izin kepada Rasulullah shallallahu 'alaihi wasallam seperti halnya Saudah minta izin kepadsa beliau, supaya aku bisa shalat Shubuh di Mina, lalu melontar Jumrah sebelum orang banyak datang." Lalu Aisyah pun ditanya, "Apakah Saudah pernah meminta izin seperti itu kepada Rasulullah shallallahu 'alaihi wasallam?" Aisyah menjawab, "Ya, pernah. Karena Saudah adalah seorang wanita gemuk yang menyebabkan gerakannya lamban. Lalu dia minta izin kepada Rasulullah shallallahu 'alaihi wasallam, maka diizinkan oleh beliau." Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Waki'] -dalam riwayat lain- Dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Abdurrahman] keduanya dari [Sufyan] dari [Abdurrahman bin Qasim] dengan isnad ini, semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3120</td></tr><tr><td>Arabic No</td><td>1290.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 324</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3120</td></tr><tr><td>Arabic No</td><td>1290.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 324</td></tr></tbody></table></div>
 

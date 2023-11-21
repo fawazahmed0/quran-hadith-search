@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Zubair is reported to have heard Jabir b. 'Abdullah (Allah be pleased with b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Abdullah] dan [Hajjaj bin Sya'ir] keduanya berkata, telah menceritakan kepada kami [Hajjaj bin Muhammad] ia berkata, [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Abu Zubair] bahwa ia mendengar [Jabir bin Abdullah] radliallahu 'anhuma berkata; Rasulullah shallallahu 'alaihi wasallam pernah (bersumpah) meninggalkan isteri-isterinya selama satu bulan. Kemudian pada pagi di hari yang kedua puluh sembilan, beliau keluar menemui kami, maka sebagian orang pun berkata, "Wahai Rasulullah, sesungguhnya pagi hari ini kita baru memasuki hari ke dua puluh sembilan." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhya jumlah bulan itu adalah dua puluh sembilan hari." Lalu beliau mengangkat jari-jemari dari kedua tangannya sebanyak tiga kali, dua kali beserta disertai semua jari-jemarinya dan pada kali yang ketiga hanya dengan sembilan jari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2522</td></tr><tr><td>Arabic No</td><td>1084.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2522</td></tr><tr><td>Arabic No</td><td>1084.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 28</td></tr></tbody></table></div>
 

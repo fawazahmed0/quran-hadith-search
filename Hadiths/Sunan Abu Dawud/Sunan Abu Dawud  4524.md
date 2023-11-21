@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rafi' ibn Khadij: A man of the Ansar was killed at Khaybar and his rela
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali bin Rasyid] berkata, telah mengabarkan kepada kami [Husyaim] dari [Abu hayyan At taimi] berkata, telah menceritakan kepada kami [Abayah bin Rifa'ah] dari [Rafi' bin Khadij] ia berkata, "Seorang laki-laki Anshar terbunuh di Khaibar, maka para walinya datang menemui Nabi shallallahu 'alaihi wasallam. Mereka menceritakan kepada beliau perihal terbunuhnya saudaranya tersebut. Beliau lantas bertanya: "Apakah kalian mempunyai dua saksi yang melihat pembunuhan itu?" mereka menjawab, "Wahai Rasulullah, tidak ada seorang muslim pun, mereka semua orang-orang Yahudi! Dan mungkin mereka akan lebih berani lagi untuk melakukan yang lebih besar dari ini." Rafi' bin Khadij berkata, "Beliau lalu memilih lima puluh orang dari mereka untuk disumpah, namun mereka menolak. Maka diyat itu akhirnya dibayar oleh Nabi shallallahu 'alaihi wasallam dari harta sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4524</td></tr><tr><td>Arabic No</td><td>4524</td></tr><tr><td>Reference</td><td>Book 41 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Рафи‘а ибн Хадиджа, да будет доволен им Аллах: «В Хайбаре нашли убитым одного человека из числа ансаров. Его родственники пришли к Пророку ﷺ и рассказали ему о случившемся, и он спросил: “Есть ли у вас два свидетеля, которые могут засвидетельствовать относительно убийства вашего товарища?” Они ответили: “О Посланник Аллаха, там не было никого из мусульман… Только иудеи, а они осмеливаются и на большее”. (Посланник Аллаха ﷺ) сказал: “Выберите пятьдесят человек из их числа и потребуйте, чтобы они поклялись вам, (что не убивали его)”. Однако (покровители убитого) отказались. Тогда Пророк ﷺ сам выплатил компенсацию /дийа/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4524</td></tr><tr><td>Arabic No</td><td>4524</td></tr><tr><td>Reference</td><td>Book 41 Hadith 31</td></tr></tbody></table></div>
 

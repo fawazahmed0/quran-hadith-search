@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Alaqama b. Wa'il reported on the authority of his father that a person was broug
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Sa'id bin Sulaiman] telah menceritakan kepada kami [Husyaim] telah menceritakan kepada kami [Isma'il bin Salim] dari ['Alqamah bin Wa'il] dari [Ayahnya] dia berkata, "Pernah dihadapkan kepada Rasulullah shallallahu 'alaihi wasallam seorang laki-laki yang telah membunuh laki-laki lain, lalu walinya orang yang terbunuh itu membawa pembunuh tersebut dengan mengikatkan tali di lehernya. Ketika dia pergi Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang membunuh dan terbunuh, kedua-duanya berada dalam neraka." Lalu seseorang pergi menemui laki-laki yang membawa pembunuh saudaranya itu sambil mengatakan apa yang dikatakan Rasulullah shallallahu 'alaihi wasallam, lantas wali korban membiarkan si pembunuh pergi." [Isma'il bin Salim] berkata; kemudian aku menyebutkan hal itu kepada [Habib bin Abu Tsabit] katanya; telah menceritakan kepadaku [Ibnu Asywa'], bahwa Nabi shallallahu 'alaihi wasallam pernah meminta kepadanya untuk memaafkan (pembunuh itu), namun dia enggan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4388</td></tr><tr><td>Arabic No</td><td>1680.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4388</td></tr><tr><td>Arabic No</td><td>1680.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 47</td></tr></tbody></table></div>
 

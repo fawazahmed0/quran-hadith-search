@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Tawus narrated it on the authority of Ibn 'Abbas that he said:The Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Abdurrahman bin Humaid] telah menceritakan kepadaku [Abu az-Zubair] dari [Thawus] dari [Ibnu Abbas] dia berkata, "Dahulu Rasulullah shallallahu 'alaihi wasallam mengajarkan kepada kami tasyahhud sebagaimana beliau mengajarkan surat al-Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «Посланник Аллаха ﷺ учил нас (произнесению) ташаххуда, как учил (чтению каждой) суры Корана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
 

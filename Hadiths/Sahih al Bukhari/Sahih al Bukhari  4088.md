@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdul 'Aziz:Anas said, "The Prophet (ﷺ) sent seventy men, called Al-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Abdul Aziz] dari [Anas] radliallahu 'anhu, dia berkata, Nabi shallallahu 'alaihi wasallam pernah mengutus tujuhpuluh orang untuk suatu keperluan, mereka disebut sebagai qurra' (para ahli al Qur'an), mereka di hadang oleh penduduk dari bani Sulaim, Ri'l dan Dzakwan dekat mata air yang disebut dengan Bi'r Ma'unah, mereka berkata, "Demi Allah, bukan kalian yang kami inginkan, kami hanya ada perlu dengan Nabi shallallahu 'alaihi wasallam." Mereka akhirnya membunuh para sahabat tersebut, maka Nabi shallallahu 'alaihi wasallam mendo'akan kecelakan kepada mereka (Sulaim, Ri'l dan Dzakwan) selama sebulan pada shalat shubuh, itu adalah awal kali dilakukannya qunut, sebelumnya kami tida pernah melakukan do'a qunut." [Abdul Aziz] mengatakan; seseorang bertanya kepada [Anas] tentang qunut, apakah ia dikerjakan setelah rukuk ataukah setelah selesai membaca ayat?" Anas menjawab; "Tidak, bahkan dikerjakan setelah selesai membaca ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4088</td></tr><tr><td>Arabic No</td><td>4088</td></tr><tr><td>Reference</td><td>Book 64 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(В своё время) Пророк ﷺ послал по нужде семьдесят (человек), которых мы называли их аль-курра (чтецами). Около колодца, называемом Биър Ма‘уна, на них напали люди из ри‘ль и закван, из племени бану сулейм. (Чтецы) сказали: “Клянусь Аллахом, мы пришли не к вам, мы лишь проходим мимо вас, по делам Пророка ﷺ”. Но их убили. Тогда Пророк ﷺ призывал Аллаха против них в течении месяца во время утренних молитв. Так и появился кунут, которого до этого мы его не совершали».\nОдин человек спросил Анаса: «Совершался ли кунут после поясного поклона или после чтения (перед поясным поклоном)?» Он ответил: «Нет, после чтения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4088</td></tr><tr><td>Arabic No</td><td>4088</td></tr><tr><td>Reference</td><td>Book 64 Hadith 132</td></tr></tbody></table></div>
 

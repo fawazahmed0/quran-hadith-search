@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim b. 'Abdullah reported on the authority of his father that Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] dan [Yahya] berkata; telah mengabarkan kepada kami, sedangkan yang lain berkata; telah menceritakan kepada kami [Isma'il] dari [Muhammad] -yaitu Ibnu Abu Harmalah- dari [Salim bin Abdullah] dari [Ayahnya], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memelihara anjing selain anjing penjaga hewan ternak atau anjing untuk berburu, maka amalnya akan dikurangi satu qirath setiap harinya." Abdullah berkata, " [Abu Hurairah] berkata, "Atau anjing penjaga tanaman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4026</td></tr><tr><td>Arabic No</td><td>1574.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4026</td></tr><tr><td>Arabic No</td><td>1574.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 65</td></tr></tbody></table></div>
 

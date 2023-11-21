@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar:A man told the Messenger of Allah (ﷺ) that he was being dec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abdullah bin Dinar] dari [Ibnu Umar] bahwa seorang laki-laki menyebutkan kepada Rasulullah shallallahu 'alaihi wasallam bahwa dirinya telah ditipu dalam jual beli. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila engkau melakukan transaksi jual beli maka katakanlah, 'Tidak boleh ada penipuan'." Setelah itu jika laki-laki tersebut melakukan transaksi jual beli ia selalu mengatakan, 'Tidak boleh ada penipuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2117) Sahih Muslim (1533)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3500</td></tr><tr><td>Arabic No</td><td>3500</td></tr><tr><td>Reference</td><td>Book 24 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что один человек пришёл к Посланнику Аллаха ﷺ и пожаловался ему на то, что его обманывают в торговле. Посланник Аллаха ﷺ сказал ему: «Когда будешь заключать торговую сделку, скажи: “Без обмана!”». И этот человек стал говорить, заключая торговые сделки: «Без обмана!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2117) Sahih Muslim (1533)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3500</td></tr><tr><td>Arabic No</td><td>3500</td></tr><tr><td>Reference</td><td>Book 24 Hadith 85</td></tr></tbody></table></div>
 

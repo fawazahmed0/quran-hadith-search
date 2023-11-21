@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yahya:I asked Aba Salama, "Which Sura of the Qur'an was revealed first?
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] Telah menceritakan kepada kami [Abdush Shamad] Telah menceritakan kepada kami [Harb] Telah menceritakan kepada kami [Yahya] ia berkata; Aku pernah bertanya kepada [Abu Salamah], "Bagian manakah dari Al Qur'an yang pertama kali turun?" Ia pun menjawab, "YAA AYYUHAL MUDDATSTSIR." Aku berkata, "Aku pernah dikabarkan bahwa bagian Al Qur'an yang pertama kali turun adalah: 'IQRA' BISMI RABIKALLADZII KHALAQ (Sebutlah dengan nama Tuhanmu yang telah menciptakan).'" Maka Abu Salamah pun berkata; Aku pernah bertanya kepada [Jabir bin Abdullah], "Bagian Al Qur'an yang manakah yang pertama kali turun?" Maka ia menjawab, "YA 'AYYUHAL MUDDATSTSIR." Kukatakan, "Pernah diberitakan kepadaku, bahwa yang pertama kali turun adalah, 'IQRA' BISMI RABIKALLADZII KHALAQ.'" Maka ia menjelaskan kembali; Aku tidak akan mengabarkan kepadamu kecuali dengan sesuatu yang telah dikatakan oleh Rasulullah shallallahu 'alaihi wasallam. Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku berdiam diri di gua Hira'. Setelah selesai, aku pun beranjak keluar dan menelusuri lembah, tiba-tiba aku mendengar seseorang memanggilku, maka aku pun menoleh ke depan, ke arah belakang, ke samping kanan dan juga ke kiri. Ternyata, yang memanggilku duduk di atas kursi yang terbentang antara langit dan bumi. Setelah itu, aku segera mendatangi Khadijah dan berkata, 'Selimutilah aku. Dan tuangkanlah air dingin pada tubuhku.' Pada saat itulah, diturunkanlah ayat ini padaku: 'YAA 'AYYUHAL MUDDATSTSIR, QUM FA'ANDZIR, WA RABBAKA FAKABBIR (Wahai orang yang berselimut, bangunlah dan berilah peringatakan. Dan Tuhan-mu, agungkanlah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4924</td></tr><tr><td>Arabic No</td><td>4924</td></tr><tr><td>Reference</td><td>Book 65 Hadith 444</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Яхья рассказывал: «Однажды я спросил Абу Саляму о первом, что было ниспослано из Корана, и он ответил: “О завернувшийся!” Я сказал: “Мне сообщили, что это было: “Читай во имя Господа твоего, Который сотворил…”. Тогда Абу Саляма сказал: “(Однажды) я спросил Джабира ибн ’Абдуллаха: “Что из Корана было ниспослано первым?”, он ответил: “О завернувшийся!” Я сказал: “Мне сообщили, что это было: “Читай во имя Господа твоего, Который сотворил…”. Джабир сказал: “Я расскажу тебе только то, что сказал Посланник Аллаха ﷺ. Посланник Аллаха ﷺ сказал: “Я уединялся в пещере Хира, и когда закончилось моё уединение, я спустился и услышал голос, зовущий меня. Я посмотрел перед собой, назад, направо и налево и увидел его (Джибриля), сидящего на троне между небом и землёй. Я пришёл к Хадидже, и сказал: “Укройте меня и облейте холодной водой”, тогда мне было ниспослано: “О завернувшийся! Встань и увещевай, и Господа своего возвеличивай…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4924</td></tr><tr><td>Arabic No</td><td>4924</td></tr><tr><td>Reference</td><td>Book 65 Hadith 444</td></tr></tbody></table></div>
 

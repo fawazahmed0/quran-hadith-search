@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama reported:Abu Huraira led prayer for them and recited takbir when he b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca di hadapan [Malik] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] pernah shalat mengimami mereka, lalu bertakbir setiap kali turun dan naik. Dan ketika dia berpaling maka dia berkata, "Demi Allah, aku adalah orang yang paling mirip shalatnya dengan Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>392.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Салямы ибн ‘Абдуррахмана, что Абу Хурайра молился с ними (будучи имамом), и он говорил: «Аллаху акбар» каждый раз, когда опускался и поднимался, а когда закончил (молитву), он сказал: «Клянусь Аллахом, (моя молитва) подобна молитве Посланника Аллаха ﷺ в большей степени, нежели (молитва любого) из вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>392.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 30</td></tr></tbody></table></div>
 

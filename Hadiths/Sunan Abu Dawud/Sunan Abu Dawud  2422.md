@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Juwairiyah, daughter of al-Harith:That the Prophet (ﷺ) entered upon h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah menceritakan kepada kami [Hammam], dari [Qatadah], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Hafsh bin Umar], telah menceritakan kepada kami [Hammam], telah menceritakan kepada kami [Qatadah], dari [Abu Ayyub], Hafsh Al 'Ataki dari [Juwairiyah binti Al Harits], bahwa Nabi shallallahu 'alaihi wasallam menemuinya pada Hari Jum'at dalam keadaan sedang berpuasa, kemudian beliau berkata; apakah engkau berpuasa kemarin? Ia berkata; tidak. Beliau berkata: "Apakah engkau ingin berpuasa besok?" Ia berkata; tidak. Beliau berkata; "Berbukalah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1986)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2422</td></tr><tr><td>Arabic No</td><td>2422</td></tr><tr><td>Reference</td><td>Book 14 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Одна из жён Пророка ﷺ) Джувайрийя бинт аль-Харис, да будет доволен ею Аллах, передаёт, что однажды в пятницу Пророк ﷺ зашёл к ней, а она постилась, и он спросил её: «Ты постилась вчера?» Она ответила: «Нет». Он спросил: «Ты собираешься поститься завтра?» Она ответила: «Нет». Он сказал: «Тогда прерви свой пост»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1986)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2422</td></tr><tr><td>Arabic No</td><td>2422</td></tr><tr><td>Reference</td><td>Book 14 Hadith 110</td></tr></tbody></table></div>
 

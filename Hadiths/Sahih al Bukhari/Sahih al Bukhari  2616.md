@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A Jubba (i.e. cloak) made of thick silken cloth was presented to t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Syaiban] dari [Qatadah] telah menceritakan kepada kami [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam dihadiahi baju jubah terbuat dari sutera tipis dan sebelumnya Beliau telah melarang memakai sutera lalu orang-orang menjadi heran karenanya. Maka Beliau bersabda: "Demi Dzat Yang jiwa Muhammad di tangan-Nya, sungguh sapu tangan Sa'ad bin 'Ubadah di surga lebih baik dari ini". Dan berkata, [Sa'id] dari [Qatadah] dari [Anas]; Bahwa Ukaidar Dumah yang menghadiahkan kepada Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2616</td></tr><tr><td>Arabic No</td><td>2616</td></tr><tr><td>Reference</td><td>Book 51 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас добавил: «Подарок был послан Пророку ﷺ Укайдиром из Думы (название города — прим. перев.)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2616</td></tr><tr><td>Arabic No</td><td>2616</td></tr><tr><td>Reference</td><td>Book 51 Hadith 48</td></tr></tbody></table></div>
 

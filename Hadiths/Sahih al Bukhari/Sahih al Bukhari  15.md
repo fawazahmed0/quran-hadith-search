@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas: The Prophet (ﷺ) said "None of you will have faith till he loves
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] berkata, telah menceritakan kepada kami [Ibnu 'Ulayyah] dari [Abdul 'Aziz bin Shuhaib] dari [Anas] dari Nabi shallallahu 'alaihi wasallam Dan telah menceritakan pula kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] dari [Qotadah] dari [Anas] berkata, Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah beriman seorang dari kalian hingga aku lebih dicintainya daripada orang tuanya, anaknya dan dari manusia seluruhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>15</td></tr><tr><td>Arabic No</td><td>15</td></tr><tr><td>Reference</td><td>Book 2 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Не уверует никто из вас, пока не станет любить меня больше, чем любит своего отца, и своих детей, и всех людей вообще”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>15</td></tr><tr><td>Arabic No</td><td>15</td></tr><tr><td>Reference</td><td>Book 2 Hadith 8</td></tr></tbody></table></div>
 

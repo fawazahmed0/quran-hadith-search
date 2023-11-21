@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Anas b. Malik that it was said to the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdul A'la Al Qaisi] telah menceritakan kepada kami [Al Mu'tamir] dari [ayahnya] dari [Anas bin Malik] dia berkata, "Seseorang mengusulkan kepada Nabi shallallahu 'alaihi wasallam, "Alangkah baiknya seandainya anda datang menjenguk Abdullah bin Ubay." Anas berkata, "Kemudian beliau pergi menjenguknya dengan mengendarai keledainya bersama-sama dengan beberapa orang Muslim, sementara Ubay tinggal di tanah yang gersang. Ketika Nabi shallallahu 'alaihi wasallam mendatanginya, dia berkata, "Menjauhlah kamu dariku, demi Allah bau keledaimu telah menyakitiku." Seorang laki-laki dari Anshar menyahut, "Demi Allah, bau keledai Rasulullah shallallahu 'alaihi wasallam lebih harum daripada baumu sendiri." Anas berkata, "Lalu seorang laki-laki dari kaumnya (Ubay) angkat bicara hingga masing-masing pihak sama-sama marah dan hampir terjadi perkelahian antara mereka." Anas melanjutkan, "Mereka saling pukul memukul dengan pelepah kurma, dengan tangan dan dengan sepatu atau sandal. Anas berkata, "Berkenaan dengan mereka, maka turunlah ayat: '(Jika dua golongan antara orang-orang Mukmin berkelahi, maka damaikanlah mereka…) ' (Qs. Al Hujurat:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4661</td></tr><tr><td>Arabic No</td><td>1799</td></tr><tr><td>Reference</td><td>Book 32 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4661</td></tr><tr><td>Arabic No</td><td>1799</td></tr><tr><td>Reference</td><td>Book 32 Hadith 143</td></tr></tbody></table></div>
 

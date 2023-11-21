@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Fasting is a shield
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] dan [Qutaibah bin Sa'id] keduanya berkata, Telah menceritakan kepada kami [Al Mughirah Al Hizami] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Puasa adalah perisai (yang akan melindungi seseorang dari api neraka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2705</td></tr><tr><td>Arabic No</td><td>1151.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2705</td></tr><tr><td>Arabic No</td><td>1151.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 211</td></tr></tbody></table></div>
 

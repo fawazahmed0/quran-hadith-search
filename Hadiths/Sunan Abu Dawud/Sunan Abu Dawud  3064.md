@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abyad ibn Hammal: Abyad went to the Messenger of Allah (ﷺ) and asked 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id Ats Tsaqafi] dan [Muhammad bin Al Mutawakkil Al 'Asqalani] dan maknanya satu, bahwa [Muhammad bin Yahya bin Qais Al Ma'ribi] telah menceritakan kepada mereka; telah mengabarkan kepadaku [ayahku] dari [Tsumamah bin Syarahil] dari [Sumai bin Qais] dari [Syumair], Ibnu Al Mutawakkilberkata; Ibnu Abdul Madan dari [Abyadh bin Hammal] bahwa ia menjadi utusan kepada Rasulullah shallallahu 'alaihi wasallam, kemudian ia meminta garam. Ibnu Al Mutawakkil berkata; yang ada di Ma'rib. Kemudian ia memotong untuknya. kemudian tatkala ia pergi, seseorang yang berasal dari majelis tersebut berkata; tahukah anda apa yang anda berikan kepadanya? sesungguhnya anda telah memberikan kepadanya air terus mengalir. Ibnu Al Mutawakkil berkata; kemudian beliau mengambil darinya. Kemudian ia bertanya kepada beliau mengenai apa yang dilindungi dari pohon Arok? Beliau berkata: "Apa yang tidak mampu dicapai oleh kuku unta." Ibnu Al Mutawakkil berkata; kuku-kuku unta. Telah menceritakan kepadaku Harun bin Abdullah ia berkata; Muhammd bin Al Hasan Al Makhzumi berkata; apa yang tidak dicapai kuku unta, yaitu bahwa unta memakan sepanjang yang dapat dicapai kepalanya dan yang di atasnya terlindungi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 20 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абьяда ибн Хаммаля, да будет доволен им Аллах, что он прибыл к Посланнику Аллаха ﷺ и попросил отдать ему солончак в Маърибе и Посланник Аллаха ﷺ отдал его ему. А когда он ушёл, один из присутствующих сказал: «Знаешь ли ты, что за участок ты отдал ему? Ты отдал ему (нечто подобное) источнику, постоянно дающему воду». И тогда он забрал его обратно. И он спросил его о том, какой арак можно объявлять заповедным. Посланник Аллаха ﷺ сказал: «То, до чего не достают ноги верблюда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 20 Hadith 137</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubayy ibn Umarah: I asked: Messenger of Allah (ﷺ) may I wipe over the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ma'in] telah menceritakan kepada kami ['Amru bin Ar-Rabi' bin Thariq] telah mengabarkan kepada kami [Yahya bin Ayyub] dari [Abdurrahman bin Razin] dari [Muhammad bin Yazid] dari [Ayyub bin Qathan] dari [Ubay bin 'Imarah] berkata Yahya bin Ayyub, dia adalah orang yang pernah shalat bersama Rasulullah shallallahu 'alaihi wasallam menghadap kedua qiblat, dia berkata; Wahai Rasulullah, apakah aku boleh mengusap kedua khuf? Beliau menjawab: "Boleh." Dia bertanya lagi; Satu hari? Beliau menjawab: "Ya, satu hari." Dia bertanya lagi; Dua hari? Beliau menjawab: "Ya, dua hari." Dia bertanya lagi; Tiga hari? Beliau menjawab: "Ya, sesukamu!" Abu dawud berkata: Hadits ini diriwayatkan oleh [Ibnu Abi Maryam Al-Mishri] dari [Yahya bin Ayyub] dari [Abdurrahman bin Razin] dari [Muhammad bin Yazid bin Abi Ziyad] dari [Ubadah bin Nusiy] dari [Ubay bin Immarah] dia berkata di dalamnya; Hingga disebutkan bilangan tujuh, dan Rasulullah shallallahu 'alaihi wasallam menjawab: "Ya, sekehendakmu." Abu Dawud berkata; Isnad hadits ini telah diperselisihkan, dan hadits ini tidak kuat, dan telah diriwayatkan juga oleh [Ibnu Abi Maryam] dan [Yahya bin Ishak As-Sailahini] dari [Yahya bin Ayyub], dan isnadnya juga diperselisihkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>158</td></tr><tr><td>Arabic No</td><td>158</td></tr><tr><td>Reference</td><td>Book 1 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Убай ибн ‘Имара (Йахйа ибн Аййуб сказал: «Он совершал молитву вместе с посланником Аллаха ﷺ в направлении обоих святынь») рассказывал о том, что он спросил Пророка ﷺ: «О Посланник Аллаха! Могу ли я обтирать поверх кожаных носков?» Он ответил: «Да». Он спросил: «В течение одного дня?» Он сказал: «В течение одного дня». Он спросил: «А в течение двух дней?» Он сказал: «И в течение двух дней». Он спросил: «А в течение трех дней». Он сказал: «Да, ты можешь обтирать их так долго, как пожелаешь».Абу Дауд сказал: «Абу Марьям аль-Мисри передал от Яхйи ибн Аййуба, от ‘Абду-р-Рахмана ибн Разина, от Мухаммада ибн Йазида ибн Абу Зийада, от ‘Убады ибн Нусайа, от Убай ибн ‘Имара, который спрашивал, пока не дошел до семи (раз). Посланник Аллаха ﷺ сказал: «Да, и столько, сколько тебе нужно».Абу Дауд сказал: «По поводу иснада этого хадиса существуют разногласия, и он не является сильным. Также его передал Ибн Абу Марьям, Яхъйа ибн Исхак ас-Силахини от Яхъйи ибн Аййуба, по поводу иснада которого также существуют разногласия»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>158</td></tr><tr><td>Arabic No</td><td>158</td></tr><tr><td>Reference</td><td>Book 1 Hadith 158</td></tr></tbody></table></div>
 

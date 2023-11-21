@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Attab ibn Usayd: The Messenger of Allah (ﷺ) commanded to estimate vin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdul Aziz bin As Sari An Naqith], telah menceritakan kepada Kami [Bisyr bin Manshur] dari [Abdurrahman bin Ishaq] dari [Az Zuhri] dari [Sa'id? bin Al Musayyab] dari ['Attab bin Usaid], ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk memperkirakan jumlah anggur sebagaimana memperkirakan jumlah kurma dan diambil zakatnya dalam bentuk kismis sebagaimana pohon kurma diambil zakatnya dalam bentuk kurma. Telah menceritakan kepada Kami [Muhammad bin Ishak Al Musayyabi], telah menceritakan kepada Kami [Abdullah bin Nafi'] dari [Muhammad bin Sholih At Tammar] dari [Ibnu Syihab] dengan sanad dan maknanya. Abu daud berkata Sa'id tidak mendengar dari 'Atab sedikit pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аттаб ибн Асид передаёт, что Посланник Аллаха ﷺ велел определять количество винограда приблизительно, подобно тому, как определял приблизительно и количество фиников на пальмах, и брал с него закят изюмом, подобно тому, как с пальм берут закят сушёными финиками
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
 

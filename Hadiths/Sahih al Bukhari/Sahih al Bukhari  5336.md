@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Zainab further said:"I heard my mother, Um Salama saying that a woman came to Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5336</td></tr><tr><td>Arabic No</td><td>5336</td></tr><tr><td>Reference</td><td>Book 68 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейнаб также сказала: «Я слышала, как Умм Саляма рассказывала: “К Посланнику Аллаха ﷺ пришла одна женщина и сказала: “О Посланник Аллаха, муж моей дочери умер, а у неё болят глаза. Можно ли нам подвести ей глаза сурьмой?” Посланник Аллаха ﷺ сказал: “Нет”, — два или три раза. Затем Посланник Аллаха ﷺ сказал: “Траур следует соблюдать четыре месяца и десять дней. А ведь во времена невежества одна из вас бросала верблюжий помёт спустя год после смерти мужа!””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5336</td></tr><tr><td>Arabic No</td><td>5336</td></tr><tr><td>Reference</td><td>Book 68 Hadith 81</td></tr></tbody></table></div>
 

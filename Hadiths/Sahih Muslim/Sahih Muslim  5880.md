@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sahl Ibn Hunayf (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah] keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Umamah bin Sahl bin Hunaif] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang kamu berkata: 'Khabusat nafsi' (diriku buruk), tetapi katakanlah: 'Laqisat nafsi' (diriku kurang mampu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5880</td></tr><tr><td>Arabic No</td><td>2251</td></tr><tr><td>Reference</td><td>Book 40 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Умамы ибн Сахля ибн Хунайфа о том, что его отец рассказывал, что Посланник Аллаха ﷺ сказал: «Пусть никто из вас не говорит: “Я плох”/Хабусат нафси/, но пусть говорит: “Я заслуживаю порицания”/Лакъисат нафси/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5880</td></tr><tr><td>Arabic No</td><td>2251</td></tr><tr><td>Reference</td><td>Book 40 Hadith 19</td></tr></tbody></table></div>
 

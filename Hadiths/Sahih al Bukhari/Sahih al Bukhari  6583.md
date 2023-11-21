@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim from Sahl bin Sa'd:The Prophet (ﷺ) said, "I am your predece
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6583</td></tr><tr><td>Arabic No</td><td>6583</td></tr><tr><td>Reference</td><td>Book 81 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Сахля ибн Са‘да, что Пророк ﷺ сказал: «Воистину, я первым из вас (окажусь) у Водоёма, и кто будет проходить мимо меня, испьёт из него, а тот, кто испил из него, никогда не почувствует после этого жажды. Ко мне непременно придут люди, которых я знаю, и они знают меня, и тогда разъединят между мной и ними»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6583</td></tr><tr><td>Arabic No</td><td>6583</td></tr><tr><td>Reference</td><td>Book 81 Hadith 171</td></tr></tbody></table></div>
 

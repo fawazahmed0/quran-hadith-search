@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Suhail reported on the authority of Abu Huraira that the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Amru An Naqid] keduanya berkata, telah menceritakan kepada kami [Abdullah bin Idris] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian ingin shalat (sunah) setelah menunaikan shalat Jum'at, maka shalatlah empat raka'at." Amru menambahkan di dalam riwayatnya; Ibnu Idris berkata, Suhail berkata; "Jika kamu terburu-buru (karena suatu keperluan), maka shalatlah dua raka'at di Masjid dan dua raka'at di rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2037</td></tr><tr><td>Arabic No</td><td>881.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Когда будете совершать (дополнительную молитву) после пятничной молитвы, совершайте четыре рак‘ата”».‘Амр в своей версии привёл дополнение: Ибн Идрис сказал: «Сказал Сухайль: “А если ты торопишься из-за чего-то, то совершай два рак‘ата в мечети и два, когда вернёшься”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2037</td></tr><tr><td>Arabic No</td><td>881.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 87</td></tr></tbody></table></div>
 

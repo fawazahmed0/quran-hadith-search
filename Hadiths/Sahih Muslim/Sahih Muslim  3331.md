@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this has been narrated on the authority of A'mash with the same ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali Al Ju'fi] dari [Za'idah] dari [Sulaiman] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Madinah adalah tanah haram. Maka siapa yang mengada-ngada di dalamnya, dia akan mendapatkan kutukan dari Allah, laknat para Malaikat dan laknat seluruh manusia. Tidak akan diterima tebusannya kelak pada hari kiamat." Dan Telah menceritakan kepada kami [Abu Bakr bin An Nadlr bin Abu Nadlr] telah menceritakan kepadaku [Abu Nadlr] telah menceritakan kepadaku [Ubaidullah Al Asyja'i] dari [Sufyan] dari [Al A'masy] dengan isnad ini semisalnya. Namun ia tidak menyebutkan; "Kelak pada hari kiamat." Kemudian ia juga menambahkan; "Jaminan perlindungan kaum muslimin adalah satu, Orang yang paling rendah paling mereka (budak) bisa memberi perlindungan keamanan dengan jaminan itu. Dan barangsiapa yang melanggar penjanjian seorang muslim, maka ia akan mendapatkan laknat Allah, laknat para malaikat dan seluruh manusia. Tidak akan diterima tebusan darinya kelak pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3331</td></tr><tr><td>Arabic No</td><td>1371.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 535</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3331</td></tr><tr><td>Arabic No</td><td>1371.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 535</td></tr></tbody></table></div>
 

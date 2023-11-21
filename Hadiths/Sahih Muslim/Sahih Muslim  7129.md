@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Shaqiq b. Wi'il reported that 'Abdullah used to give us sermon on every Thursday
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengkhabarkan kepada kami [Jarir] dari [Manshur]. Telah menceritakan kepada kami [Ibnu Abi Umar], teks hadits miliknya, telah menceritakan kepada kami [Fudhail bin Iyadh] dari [Manshur] dari [Syaqiq Abu Wa'il] berkata: [Abdullah] menyampaikan nasehat untuk kami setiap hari kamis lalu seseorang berkata padanya: Hai Abu Abdurrahman, kami menyukai penyampaianmu. Kami ingin kau menceritakan kepada kami setiap hari. Abdullah berkata: Tidak ada yang menghalangiku untuk menceritakan kepada kalian selain karena aku tidak ingin membuat kalian jemu. Rasulullah Shallallahu 'alaihi wa Salam mengatur (penyampaian) nasehat pada kami dalam beberapa hari karena tidak mau membuat kami jemu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7129</td></tr><tr><td>Arabic No</td><td>2821.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7129</td></tr><tr><td>Arabic No</td><td>2821.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 82</td></tr></tbody></table></div>
 

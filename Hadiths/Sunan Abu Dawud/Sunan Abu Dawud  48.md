@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah b. 'Abd Allah b. 'Umar: Muhammad ibn Yahya ibn Habban asked Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Auf Ath Tha'i] telah menceritakan kepada kami [Ahmad bin Khalid] telah menceritakan kepada kami [Muhammad bin Ishaq] dari [Muhammad bin Yahya bin Hibban] dari [Abdullah bin Abdullah bin Umar], Muhammad bin Yahya berkata; Saya bertanya kepada Abdullah bin Abdullah bin Umar; "bagaimana anda melihat wudhunya Ibnu Umar di setiap shalat, baik dalam keadaan suci ataupun tidak, dari sebab apa itu?" Maka dia menjawab; Telah menceritakan kepada saya [Asma' binti Zaid bin Al Khaththab] bahwasanya [Abdullah bin Hanzhalah bin Abi Amir] telah menceritakan kepadanya; bahwa Rasulullah shallallahu 'alaihi wasallam telah diperintahkan berwudhu untuk setiap kali shalat baik dalam keadaan suci maupun tidak. Tatkala hal itu terasa berat bagi beliau, maka beliau diperintahkan untuk bersiwak di setiap kali shalat. Namun Ibnu Umar merasa bahwa dia kuat untuk melaksanakan hal itu, maka dia pun tidak meninggalkan wudhu untuk setiap kali shalat. Abu Dawud berkata; [Ibrahim bin Sa'ad] meriwayatkan hadits ini dari [Muhammad bin Ishaq] dia berkata; [Ubaidullah bin Abdullah] (bukan Abdullah bin Abdullah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>48</td></tr><tr><td>Arabic No</td><td>48</td></tr><tr><td>Reference</td><td>Book 1 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн Яхйа ибн Хаббан спросил ‘Абдуллаха ибн ‘Абдуллах ибн ‘Умар: «Ты видел, как Ибн ‘Умар совершал омовение для каждой молитвы, будучи в состоянии омовения или без него!» Он ответил: «Асмаъ бинт Зейд ибн аль-Хаттаб, рассказала мне, что ‘Абдуллах ибн Ханзала ибн Абу ‘Амир рассказывал ей, что Посланнику Аллаха ﷺ было велено совершать омовение перед каждой молитвой, будь он с омовением или нет, и, когда это стало для него обременительным, ему повелели использовать зубочистку перед каждой молитвой. А Ибн ‘Умар считал, что находит в себе силы (для этого), поэтому он не оставлял совершение омовения для каждой молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>48</td></tr><tr><td>Arabic No</td><td>48</td></tr><tr><td>Reference</td><td>Book 1 Hadith 48</td></tr></tbody></table></div>
 

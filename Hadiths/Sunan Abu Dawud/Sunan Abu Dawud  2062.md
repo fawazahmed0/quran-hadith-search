@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah said “In what was sent down in the Qu’ran ten suckling’s made ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi], dari [Malik] dari [Abdullah bin Abu Bakr bin Muhammad bin 'Amr bin Hazm] dari ['Amrah binti Abdurrahman], dari [Aisyah] bahwa ia berkata; dahulu di antara ayat yang diturunkan adalah sepuluh kali susuan mengharamkan (untuk dinikahi). Kemudian ayat tersebut dinaskh (dihapus) menjadi lima kali susuan mengharamkan (untuk dinikahi). Lalu Nabi Shallallahu 'alaihi sallam meninggal dan ayat tersebut termasuk di antara bagian Al Qur'an yang dibaca
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1452)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>2062</td></tr><tr><td>Reference</td><td>Book 12 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Среди того, что ниспослал Аллах из Корана, было постановление о том, что десять кормлений грудью создают молочное родство, запрещающее вступление в брак, а затем они были отменены постановлением о том, что такое родство создают пять известных кормлений, и, когда Пророк ﷺ скончался, это постановление было среди того, что читалось людьми из Корана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1452)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>2062</td></tr><tr><td>Reference</td><td>Book 12 Hadith 17</td></tr></tbody></table></div>
 

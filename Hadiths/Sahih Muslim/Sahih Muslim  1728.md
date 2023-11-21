@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit de 'Aïcha (رضي الله عنها) : Abou 'Ishâq dit : "J'ai interrog
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Ishaq] katanya; Aku bertanya kepada [Al Aswad bin Yazid] dari segala yang diceritakan oleh ['Aisyah] tentang shalat (malam) Rasulullah shallallahu 'alaihi wasallam. Dia berkata; "Rasulullah shallallahu 'alaihi wasallam tidur di awal malam, dan beliau hidupkan (beliau lakukan aktivitas) di akhir malamnya, jika beliau mempunyai hajat kepada isterinya, beliau lakukan hajatnya, kemudian beliau tidur. Jika panggilan (adzan) pertama telah diserukan, Aisyah melanjutkan; beliau langsung bergegas." Demi Allah, Aisyah tidak menggunakan menyebutkan "Sambil berdiri", setelah itu beliau mengguyurkan air. Demi Allah, Aisyah tidak menyebutkan dengan redaksi "Mandi." Dan aku mengetahui apa yang kamu inginkan, kalaulah beliau tidak junub, maka beliau berwudlu sebagaimana wudlu seseorang untuk shalat, kemudian beliau mengerjakan shalat dua rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>739</td></tr><tr><td>Reference</td><td>Book 6 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Асвада ибн Язида, что ‘Аиша сказала о молитве Посланника Аллаха ﷺ: «(Обычно) в начале ночи он спал, а в конце её вставал, (чтобы совершить молитву). Затем, если у него была нужда (в половой близости) с женой, он удовлетворял её, после чего (снова) спал. Когда звучал первый призыв (к молитве), он вскакивал, обливался водой, а если он не был в состоянии большого осквернения, то совершал омовение, которое (обычно) человек совершает для совершения молитвы, затем совершал два рака’ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>739</td></tr><tr><td>Reference</td><td>Book 6 Hadith 157</td></tr></tbody></table></div>
 

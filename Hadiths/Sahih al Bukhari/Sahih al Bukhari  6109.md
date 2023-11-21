@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) entered upon me while there was a curtain havi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yasrah bin Shafwan] telah menceritakan kepada kami [Ibrahim] dari [Az Zuhri] dari [Al Qasim] dari [Aisyah] radliallahu 'anha dia berkata; Nabi shallallahu 'alaihi wasallam masuk menemuiku, sementara di dalam rumah terdapat kain pembatas (satir) yang bergambar, maka rona wajah beliau berubah, beliau langsung mengambil satir tersebut dan memotongnya." Aisyah melanjutkan; "Lalu beliau bersabda: "Sesungguhnya orang-orang yang paling keras siksaannya pada hari Kiamat adalah orang yang menggambar gambar seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6109</td></tr><tr><td>Arabic No</td><td>6109</td></tr><tr><td>Reference</td><td>Book 78 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказывала: «Однажды Пророк ﷺ зашёл ко мне, а я повесила занавесь /кырам/ с изображениями внутри дома. Увидев это, у Посланник Аллаха ﷺ изменился цвет лица, затем он схватил занавесь и сорвал её, сказав: “Поистине, наиболее сильному наказанию в День Воскресения будут подвергнуты те, кто создают эти изображения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6109</td></tr><tr><td>Arabic No</td><td>6109</td></tr><tr><td>Reference</td><td>Book 78 Hadith 136</td></tr></tbody></table></div>
 

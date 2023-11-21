@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:We chased a rabbit at Mar-al-Zahran and the people ran after it bu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Hisyam bin Zaid bin Anas bin Malik] dari [Anas radliallahu 'anhu] berkata: "Kami pernah disibukkan untuk menangkap kelinci di lembah Marru Azh-Zhohran, orang-orang berusaha menangkapnya hingga mereka keletihan. Kemudian aku bisa menangkapnya lalu aku bawa menghadap Abu Tholhah. Maka dia menyembelihnya kemudian dikirim daging paha depannya atau paha belakangnya kepada Rasulullah shallallahu 'alaihi wasallam. Dia (Anas) berkata: "Daging pahanya dan tidak diragukan lagi. Lalu Beliau menerimanya". Aku bertanya: "Apakah Beliau memakannya?". Dia berkata: "Ya Beliau memakannya". Kemudian dia sambung: "Setelah menerimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2572</td></tr><tr><td>Arabic No</td><td>2572</td></tr><tr><td>Reference</td><td>Book 51 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) мы вспугнули зайца в Марр аз-Захране и люди стали гоняться за ним, но выбились из сил, а я догнал и схватил его. Потом я принёс (этого) зайца Абу Тальхе, который зарезал его и отослал Посланнику Аллаха ﷺ его задние ноги, а он принял это».\nВ другой версии (этого хадиса сообщается, что Анас, да будет доволен им Аллах, сказал): «…а он отведал его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2572</td></tr><tr><td>Arabic No</td><td>2572</td></tr><tr><td>Reference</td><td>Book 51 Hadith 7</td></tr></tbody></table></div>
 

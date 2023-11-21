@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar:The Messenger of Allah (ﷺ) would recite to us a surah (acco
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Yahya bin Sa'id], dan diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Ahmad bin Abu Syu'aib Al Harrani] telah menceritakan kepada Kami [Ibnu Numair] secara makna dari ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] ia berkata; "Rasulullah shallallahu 'alaihi wasallam membacakan kepada Kami sebuah surat. Ibnu Numair berkata; tidak ketika melakukan shalat. Kemudian keduanya sama lafazh mereka yaitu, "Kemudian beliau bersujud dan Kamipun bersujud bersamanya hingga salah seorangpun diantara Kami yang tidak mendapatkan tempat untuk meletakkan keningnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1075) Sahih Muslim (575)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1412</td></tr><tr><td>Arabic No</td><td>1412</td></tr><tr><td>Reference</td><td>Book 7 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ иногда читал нам суру…» В версии Ибн Нумайра говорится: «не в молитве». Далее говорится: «…и совершал земной поклон, и мы совершали земной поклон вместе с ним, так что иногда не могли найти место для своего лба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1075) Sahih Muslim (575)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1412</td></tr><tr><td>Arabic No</td><td>1412</td></tr><tr><td>Reference</td><td>Book 7 Hadith 12</td></tr></tbody></table></div>
 

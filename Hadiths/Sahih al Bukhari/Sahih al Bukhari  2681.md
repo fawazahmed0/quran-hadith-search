@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Abu Sufyan told me that Heraclius said to him, "Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Hamzah] telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Shalih] dari [Ibnu Syihab] dari ['Ubaidulloih bin 'Abdullah] bahwa ['Abdullah bin 'Abbas radliallahu 'anhuma] mengabarkannya berkata, telah mengabarkan kepada kami [Abu Sufyan] bahwa Raja Heraklius berkata kepadanya: "Aku telah bertanya kepadamu apa yang dia perintahkan kepada kalian, lalu kamu menjawab bahwa dia memerintahkan kalian untuk shalat, bershadaqah (zakat), menjauhkan diri dari berbuat buruk, menunaikan janji dan melaksankan amanah". Lalu dia berkata; "Ini adalah diantara sifat-sifat seorang Nabi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2681</td></tr><tr><td>Arabic No</td><td>2681</td></tr><tr><td>Reference</td><td>Book 52 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Аббас, да будет доволен Аллах им и его отцом сказал: «Абу Суфьян сообщил мне, что Хиракль сказал ему: “Я спросил тебя о том, что он велит вам делать, и ты ответил, что он велит вам совершать молитву, говорить правду и быть целомудренными, выполнять обещания и возвращать доверенное”. Затем Хиракль добавил: “Это и есть качества пророка”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2681</td></tr><tr><td>Arabic No</td><td>2681</td></tr><tr><td>Reference</td><td>Book 52 Hadith 42</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (Allah be pleased with him) reported that Allah's Apostle (ﷺ) forbade the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ali bin Hujr] mereka berkata; telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Humaid] dari [Anas], bahwasannya Nabi shallallahu 'alaihi wasallam melarang menjual buah kurma sampai terlihat matangnya, maka kami bertanya kepada Anas, 'Bagaimana terlihat matangnya? ' Dia menjawab, 'Jika telah kemerahan atau kekuningan. Bagaimana menurutmu jika Allah mencegah buah-buah tersebut, sehingga atas dasar apa kamu menghalalkan harta saudaramu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3977</td></tr><tr><td>Arabic No</td><td>1555.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3977</td></tr><tr><td>Arabic No</td><td>1555.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 16</td></tr></tbody></table></div>
 

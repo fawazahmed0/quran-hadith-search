@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Tha'alba: Allah's Messenger (ﷺ) prohibited the eating of donkey's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [ayahku] dari [Shalih] dari [Ibnu Syihab] bahwa [Abu Idris] telah mengabarkan kepadanya bahwa [Abu Tsa'labah] berkata; "Rasulullah shallallahu 'alaihi wasallam telah mengharamkan daging keledai jinak." Hadits ini di perkuat juga oleh [Az Zubaidi] dan ['Uqail] dari [Ibnu Syihab]. Berkata juga [Malik], [Ma'mar], [Al Majisun], [Yunus] serta [Ibnu Ishaq] dari [Az Zuhri] bahwa Nabi shallallahu 'alaihi wasallam melarang makan daging binatang buas yang bertaring
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5527</td></tr><tr><td>Arabic No</td><td>5527</td></tr><tr><td>Reference</td><td>Book 72 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ляба, сказал: «Посланник Аллаха ﷺ запретил есть мясо домашних ослов».\nРассказал аз-Зухри: «Пророк ﷺ запретил употреблять в пищу мясо любых хищников, имеющих клыки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5527</td></tr><tr><td>Arabic No</td><td>5527</td></tr><tr><td>Reference</td><td>Book 72 Hadith 52</td></tr></tbody></table></div>
 

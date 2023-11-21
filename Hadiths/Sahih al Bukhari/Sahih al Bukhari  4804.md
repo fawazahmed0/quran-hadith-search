@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said, "Nobody has the right to be bet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wa'il] dari [Abdullah radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak layak bagi seorang pun untuk mengatakan saya lebih baik dari Yunus bin Matta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>4804</td></tr><tr><td>Reference</td><td>Book 65 Hadith 326</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Пусть никто (из вас не говорит, что он) лучше Йунуса ибн Матта»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>4804</td></tr><tr><td>Reference</td><td>Book 65 Hadith 326</td></tr></tbody></table></div>
 

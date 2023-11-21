@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin Ujra:We were in the company of Allah's Messenger (ﷺ) at Al-H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4191</td></tr><tr><td>Arabic No</td><td>4191</td></tr><tr><td>Reference</td><td>Book 64 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ка‘б ибн ‘Уджра сказал: «Мы были вместе с Посланником Аллаха ﷺ в Худайбиййи в состоянии ихрама, а многобожники не дали нам (отправиться к Каабе). Мои волосы доходили до мочек ушей, и вши стали падать на моё лицо. Проходя мимо меня Пророк ﷺ сказал: “Вши на твоей голове мучают тебя?” Я ответил: “Да”. Тогда был ниспослан этот аят: “А если кто-то из вас болен или из-за головы своей испытывает страдания, то он должен в качестве искупления поститься, или раздать милостыню, или принести жертву” (сура “аль-Бакара”, аят 196)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4191</td></tr><tr><td>Arabic No</td><td>4191</td></tr><tr><td>Reference</td><td>Book 64 Hadith 231</td></tr></tbody></table></div>
 

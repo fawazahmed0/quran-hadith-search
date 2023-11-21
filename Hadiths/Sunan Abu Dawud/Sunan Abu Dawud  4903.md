@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: Avoid envy, for envy devours good 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Shalih Al Baghdadi] berkata, telah menceritakan kepada kami [Abu Amir] -maksudnya Abdul Malik bin Amru- berkata, telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Ibrahim bin Abu Asid] dari [Kakeknya] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jauhilah hasad (dengki), karena hasad dapat memakan kabaikan seperti api memakan kayu bakar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4903</td></tr><tr><td>Arabic No</td><td>4903</td></tr><tr><td>Reference</td><td>Book 43 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Остерегайтесь зависти, ибо, поистине, зависть пожирает добрые дела подобно тому, как огонь пожирает дрова (или: … траву)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4903</td></tr><tr><td>Arabic No</td><td>4903</td></tr><tr><td>Reference</td><td>Book 43 Hadith 131</td></tr></tbody></table></div>
 

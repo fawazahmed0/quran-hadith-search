@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ubadah b. al Samit said to his son :Son! You will not get the taste of the reali
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4700</td></tr><tr><td>Arabic No</td><td>4700</td></tr><tr><td>Reference</td><td>Book 42 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хафсы, что ‘Убада ибн ас-Самит сказал своему сыну: «Сынок, ты не ощутишь истинный вкус веры до тех пор, пока не поймёшь, что постигшее тебя не могло обойти тебя стороной, а то, что обошло тебя стороной, не могло постигнуть тебя. Я слышал, как Посланник Аллаха ﷺ говорил: “Первым, что сотворил Аллах, стала Письменная трость, которой Он сказал: “Пиши!” Она сказала: “Господи, а что мне писать?” Он сказал: “Пиши всё, что будет”, и она записала всё, чему суждено произойти до наступления Часа… Сынок, поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Кто умер, придерживаясь иного, тот не имеет ко мне отношения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4700</td></tr><tr><td>Arabic No</td><td>4700</td></tr><tr><td>Reference</td><td>Book 42 Hadith 105</td></tr></tbody></table></div>
 

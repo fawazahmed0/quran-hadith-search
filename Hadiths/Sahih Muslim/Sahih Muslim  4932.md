@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Jabir who said:We were with the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] dia berkata."Kami pernah ikut berperang bersama Nabi shallallahu 'alaihi wasallam dalam suatu peperangan, ketika itu beliau bersabda: "Ada beberapa orang laki-laki di Madinah yang mereka tidak ikut serta dalam peperangan, biasanya jika kalian pergi berperang sedangkan kalian melewati suatu lembah, mereka tetap turut bersama-sama kamu, namun mereka sekarang terhalang karena sakit." Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Mu'awiyah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Sa'id Al Asyaj] keduanya berkata; telah menceritakan kepada kami [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus] semuanya dari [Al A'masy] dengan sanad ini, namun dalam haditsnya Waki' disebutkan; "Melainkan mereka juga mendapatkan pahala seperti kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4932</td></tr><tr><td>Arabic No</td><td>1911.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4932</td></tr><tr><td>Arabic No</td><td>1911.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 227</td></tr></tbody></table></div>
 

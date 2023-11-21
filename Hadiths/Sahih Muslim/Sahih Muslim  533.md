@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The same hadith has been narrated from A'mash on the authority of the same chain
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>222.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 439</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса он сказал: «…В тот день вы будете среди (других) людей подобны всего лишь чёрному волоску на шкуре белого быка». И не упомянул: «Маленькому наросту на ноге осла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>222.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 439</td></tr></tbody></table></div>
 

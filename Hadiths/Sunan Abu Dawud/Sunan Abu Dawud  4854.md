@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbudDarda': The Messenger of Allah (ﷺ) would sit and we would also si
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi] berkata, telah menceritakan kepada kami [Mubasysyir Al Halabi] dari [Tamam bin Najih] dari [Ka'b Al Iyadi] ia berkata, "Aku bolak balik menemui [Abu Darda], ia lalu berkata, "Rasulullah shallallahu 'alaihi wasallam jika duduk maka kami ikut duduk di sisinya. Lalu jika beliau berdiri dan ingin kembali lagi, beliau melepas kedua sandalnya atau sesuatu yang ia bawa sehingga para sahabat mengerti (bahwa beliau akan kembali lagi), maka mereka pun diam di tempat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4854</td></tr><tr><td>Arabic No</td><td>4854</td></tr><tr><td>Reference</td><td>Book 43 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4854</td></tr><tr><td>Arabic No</td><td>4854</td></tr><tr><td>Reference</td><td>Book 43 Hadith 82</td></tr></tbody></table></div>
 

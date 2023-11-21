@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'aim b. 'Abdallah reported:He saw Abu Huraira perform ablution. He washed his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami [Amru bin al-Harits] dari [Sa'id bin Abu Hilal] dari [Nu'aim bin Abdullah] bahwa dia melihat [Abu Hurairah] berwudlu, lalu membasuh wajahnya dan kedua tangannya hingga hampir mencapai lengan, kemudian membasuh kedua kakinya hingga meninggi sampai pada kedua betisnya, kemudian dia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya umatku datang pada hari kiamat dalam keadaan putih bercahaya disebabkan bekas wudlu. Maka barangsiapa di antara kalian mampu untuk memanjangkan putih pada wajahnya maka hendaklah dia melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>246.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ну‘айм ибн ‘Абдуллах рассказывал, что однажды он увидел, как Абу Хурайра совершал омовение. Он умыл лицо и помыл руки так, что почти дошёл до плечей. Затем он помыл ноги так, что дошёл до голеней. Затем он сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “В День воскресения члены моей общины придут с белыми пятнами на лбу и белыми кольцами на руках и ногах, (сияющими) от следов омовения. И если кто-либо из вас может увеличить свое белое пятно, пусть сделает это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>246.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amir from his father who said:I saw the Prophet (p.b.u.h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami ['Abdul 'Abdullah'laa] berkata, telah menceritakan kepada kami [Ma'mar] dari [Az Zuhriy] dari ['Abdullah bin 'Amir bin Rabi'ah] dari [bapaknya] berkata; "Aku melihat Nabi shallallahu 'alaihi wasallam shalat diatas hewan tunggangannya kearah mana saja hewan tunggangannya berjalan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1093</td></tr><tr><td>Arabic No</td><td>1093</td></tr><tr><td>Reference</td><td>Book 18 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Амра ибн Раби‘а, что его отец сказал: «Я видел Пророка ﷺ совершающим молитву, сидя верхом на своей верблюдице и направляясь в ту сторону, куда она обращалась»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1093</td></tr><tr><td>Arabic No</td><td>1093</td></tr><tr><td>Reference</td><td>Book 18 Hadith 13</td></tr></tbody></table></div>
 

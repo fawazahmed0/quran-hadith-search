@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir said “The Prophet (ﷺ) saw a woman so he entered upon Zainab daughter o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Hisyam], dari [Abu Az Zubair], dari [Jabir], bahwa Nabi shallallahu 'alaihi wasallam melihat seorang wanita kemudian beliau menemui Zainab binti Jahsy dan menunaikan hajat beliau kepadanya, kemudian keluar menuju para sahabatnya dan berkata kepada mereka: "Sesungguhnya seorang wanita itu (ketika) datang dalam bentuk syetan. Maka barangsiapa yang (setelah melihatnya) timbul pada dirinya sesuatu (syahwat) hendaknya ia mendatangi isterinya, karena hal tersebut akan melampiaskan syahwatnya (dan ketenangan pikirannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1403)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2151</td></tr><tr><td>Arabic No</td><td>2151</td></tr><tr><td>Reference</td><td>Book 12 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом, что однажды Пророк ﷺ увидел какую-то женщину, после чего зашёл к Зейнаб бинт Джахш и вступил с ней в близость. Потом он вышел к своим сподвижникам и сказал: «Поистине, женщина может приходить в образе шайтана, и кто обнаружит нечто подобное, пусть придёт к жене своей и вступит с ней в близость, и это прогонит то, что запало ему в душу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1403)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2151</td></tr><tr><td>Arabic No</td><td>2151</td></tr><tr><td>Reference</td><td>Book 12 Hadith 106</td></tr></tbody></table></div>
 

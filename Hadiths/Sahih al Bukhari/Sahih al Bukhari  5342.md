@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya:The Prophet (ﷺ) said, "It is not lawful for a lady who bel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Fadllu bin Dukain] Telah menceritakan kepada kami [Abdus Salam bin Harb] dari [Hisyam] dari [Hafshah] dari [Ummu 'Athiyah] ia berkata; Nabi shallallahu 'alaihi wasallam pernah bersabda kepadaku: "Tidak halal bagi seorang wanita yang beriman kepada Allah dan hari akhir untuk berkabung lebih dari tiga hari kecuali terhadap suaminya. Maka ia tidak boleh bercelak, tidak boleh memakai pakaian yang berwarna (bercorak) kecuali pakaian yang terbuat dari bahan dedaunan." Dan [Al Anshari] berkata; Telah menceritakan kepada kami [Hisyam] Telah menceritakan kepada kami [Hafshah] Telah menceritakan kepadaku [Ummu 'Athiyyah] ia berkata; Nabi shallallahu 'alaihi wasallam melarang: "Dan janganlah ia memakai wewangian kecuali pada akhir masa sucinya. Dan jika ia telah suci, ia boleh memakai potongan kecil dari dahan yang dibuat kemenyan dan obat yang sering disebut qusth atau minyak wangi azhfar." Abu Abdullah berkata; Al Qusth dan Al Kust adalah seperti Al Kafur dan Al Qafur (maksudnya dalam kesesuaian huruf qaf dan kaf)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5342</td></tr><tr><td>Arabic No</td><td>5342</td></tr><tr><td>Reference</td><td>Book 68 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа сказала: «Пророк ﷺ сказал мне: “Не дозволено женщине, верующей в Аллаха и в Последний день, соблюдать траур свыше трёх дней по кому-то, кроме мужа. (В период траура) он не должна подводить глаза сурьмой, носить одежду из окрашенной ткани, за исключением одежды, сшитой из уже покрашенной пряжи /‘асб/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5342</td></tr><tr><td>Arabic No</td><td>5342</td></tr><tr><td>Reference</td><td>Book 68 Hadith 87</td></tr></tbody></table></div>
 

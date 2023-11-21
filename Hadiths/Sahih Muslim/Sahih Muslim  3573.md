@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that there came Aflah the brother, o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari ['Urwah] bahwasannya ['Aisyah] telah mengabarkannya, bahwa Aflah, saudara Abu Al Qu'ais datang meminta izin untuk menemuinya setelah turunnya ayat hijab, Abu Al Qu'ais adalah ayah 'Aisyah dari susuan, Aisyah berkata; Saya berkata; Demi Allah, saya tidak akan mengizinkan Aflah masuk menemuiku sehingga saya meminta izin Rasulullah shallallahu 'alaihi wasallam terlebih dahulu. Karena bukan Abu Al Qu'ais yang memusuiku, tetapi istrinya yang menyusuiku. Aisyah berkata; Setelah Rasulullah shallallahu 'alaihi wasallam datang, saya berkata; Wahai Rasulullah, sesungguhnya Aflah, yaitu saudara Abu Al Qu'ais telah datang minta izin untuk menemuiku, saya tidak suka jika saya mengizinkannya sebelum ada izin dari ananda. Aisyah melanjutkan; Maka Nabi shallallahu 'alaihi wasallam bersabda: "Izinkanlah dia masuk." Urwah berkata; Oleh karena itu Aisyah berkata; "Jadikanlah mahram saudara dari sesusuan sebagaimana kalian menjadikan mahram saudara dari keturunan." Dan telah menceritakannya kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dengan sanad ini. Aflah datang, yaitu saudara Abu Al Qu'ais meminta izin kepadanya, sama dengan hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3573</td></tr><tr><td>Arabic No</td><td>1445.03</td></tr><tr><td>Reference</td><td>Book 17 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3573</td></tr><tr><td>Arabic No</td><td>1445.03</td></tr><tr><td>Reference</td><td>Book 17 Hadith 6</td></tr></tbody></table></div>
 

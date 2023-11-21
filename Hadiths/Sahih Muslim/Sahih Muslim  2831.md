@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:I applied the best available perfume
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Ibnu Abu Fudaik] telah mengabarkan kepada kami [Adl Dlahak] dari [Abu Rijal] dari [ibunya] dari [Aisyah] radliallahu 'anha, bahwa ia berkata; "Aku memakaikan harum-haruman kepada Rasulullah shallallahu 'alaihi wasallam dengan harum-haruman yang terbaik yang aku dapatkan, yakni sebelum beliau berihram dan sesudah tahallul sebelum (tawaf di Baitullah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>1189.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>1189.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 41</td></tr></tbody></table></div>
 

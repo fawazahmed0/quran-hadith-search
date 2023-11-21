@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported The Messenger of Allah (ﷺ) as saying When a woman gives 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Hasan bin Ali], telah menceritakan kepada Kami [Abdurrazzaq], telah mengabarkan kepada Kami [Ma'mar] dari [Hammam bin Munabbih], ia berkata; saya mendengar [Abu Hurairah] berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Apabila seorang wanita berinfak dari sebagian usaha suaminya tanpa perintahnya maka baginya setengah pahala suaminya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5360) Sahih Muslim (1026)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 9 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если женщина подаст что-нибудь из добытого её мужем без его веления, то ей достанется половина его награды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5360) Sahih Muslim (1026)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>1687</td></tr><tr><td>Reference</td><td>Book 9 Hadith 132</td></tr></tbody></table></div>
 

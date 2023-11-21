@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) said: The divorce of a slave-w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mas'ud], telah menceritakan kepada kami [Abu 'Ashim], dari [Ibnu Juraij] dari [Muzhahir] dari [Al Qasim bin Muhammad] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Talak (yang boleh dirujuk kembali) bagi budak wanita adalah dua kali talak, dan quru'nya adalah dua kali haid." Abu 'Ashim berkata; telah menceritakan kepadaku [Muzhahir], telah menceritakan kepadaku [Al Qasim] dari [Aisyah], dari Nabi shallallahu 'alaihi wasallam seperti itu, hanya saja ia berkata; dan 'iddahnya adalah dua kali haid. Abu Daud berkata; hadits tersebut adalah hadits majhul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2189</td></tr><tr><td>Arabic No</td><td>2189</td></tr><tr><td>Reference</td><td>Book 13 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Рабыне можно давать развод дважды, а её ‘идда два менструальных цикла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2189</td></tr><tr><td>Arabic No</td><td>2189</td></tr><tr><td>Reference</td><td>Book 13 Hadith 15</td></tr></tbody></table></div>
 

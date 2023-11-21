@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar heard Allah's Messenger (ﷺ) as saying:He who has to take an oath, he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] serta [Qutaibah] dan [Ibnu Hujr], [Yahya bin Yahya] berkata; telah mengabarkan kepada kami, sedangkan yang lain mengatakan; telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Ja'far- dari [Abdullah bin Dinar] bahwa dia mendengar [Ibnu Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah, maka janganlah bersumpah kecuali dengan nama Allah." Sebab saat itu orang-orang Quraisy bersumpah dengan menyebut nama bapak mereka, oleh karena itu beliau bersabda: "Janganlah kalian bersumpah dengan nama bapak kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4259</td></tr><tr><td>Arabic No</td><td>1646.06</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4259</td></tr><tr><td>Arabic No</td><td>1646.06</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
 

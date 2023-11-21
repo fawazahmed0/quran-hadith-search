@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa, (Allah be pleased with him) reported that he used to deliver religious
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] - [Ibnul Mutsanna] berkata- Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Umarah bin Umair] dan [Ibrahim bin Abu Musa] dari [Abu Musa] bahwa ia memberi fatwa bolehnya haji tamattu', maka seorang laki-laki pun berkata kepadanya, "Tangguhkanlah fatwamu, karena kamu tidak tahu kebijakan apa yang akan diambil oleh Amirul Mukminin nanti mengenai tata cara Manasik." Setelah itu, Abu Musa menjumpai Umar dan bertanya kepadanya. Kemudian [Umar] berkata, "Saya tahu bahwa Nabi shallallahu 'alaihi wasallam dan para sahabatnya telah melakukannya. Akan tetapi saya tidak suka bila mereka terus-menerus bergaul dengan isteri-isteri mereka di Al Arak, kemudian mereka beristirahan di dalam haji dengan rambut basah meneteskan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2961</td></tr><tr><td>Arabic No</td><td>1222</td></tr><tr><td>Reference</td><td>Book 15 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2961</td></tr><tr><td>Arabic No</td><td>1222</td></tr><tr><td>Reference</td><td>Book 15 Hadith 170</td></tr></tbody></table></div>
 

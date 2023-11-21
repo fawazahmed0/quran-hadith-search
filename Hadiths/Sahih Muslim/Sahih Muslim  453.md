@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih said:This is what Abu Huraira transmitted to us from the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata, "Inilah sesuatu yang telah diceritakan [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, " kemudian ia menyebutkan beberapa hadits tersebut. Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya derajat salah seorang dari kalian yang paling rendah dari surga adalah derajat di mana (Allah) berkata kepadanya, 'Berangan-anganlah', lalu dia berangan-angan. Lalu Allah bertanya kepadanya, 'Apakah kamu telah berangan-angan? ' Dia menjawab, 'Ya.' Lalu Allah berkata kepadanya, 'Kamu sungguh telah mendapatkan sesuatu yang kamu angan-angankan, dan sesuatu yang semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>453</td></tr><tr><td>Arabic No</td><td>182.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Поистине, самое низкое положение в Раю займёт тот из вас, кому будет сказано: “(Говори, чего) ты желаешь!”, и (этот человек) будет высказывать свои пожелания снова и снова, а потом его спросят: “(Все) ли свои пожелания ты высказал?”, и он скажет: “Да”, и тогда ему скажут: “(Будет) тебе то, чего ты пожелал, и ещё столько же”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>453</td></tr><tr><td>Arabic No</td><td>182.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
 

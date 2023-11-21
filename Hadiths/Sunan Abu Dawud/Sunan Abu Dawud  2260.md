@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said A man from Banu Fazarah came to the Prophet (ﷺ) and said “
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Khalaf], telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah], ia berkata; seorang laki-laki dari Bani Fazarah datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; sesungguhnya isteriku melahirkan anak yang berkulit hitam. Kemudian beliau berkata: "Apakah engkau memiliki unta?" Ia berkata; ya. Beliau berkata: "Apa warnanya?" Ia berkata; merah. Beliau berkata: "Apakah ada diantara yang berwarna coklat sawo matang?" ia berkata; diantaranya ada yang berwarna coklat sawo matang. Beliau berkata: "Dari manakah menurutmu hal itu berasal?" Ia berkata; kemungkinan kerena pengaruh keturunan. Beliau berkata: "Dan anak ini kemungkinan ada pengaruh keturunan." Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri], dengan sanad dan maknanya, dan pada saat itu menyindir untuk mengingkari anak tersebut. Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Salamah], dari [Abu Hurairah] bahwa seorang badui datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; sesungguhnya isteri saya telah melahirkan anak hitam, dan saya mengingkarinya. Kemudian ia menyebutkan maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1500)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2260</td></tr><tr><td>Arabic No</td><td>2260</td></tr><tr><td>Reference</td><td>Book 13 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что однажды к Пророку ﷺ пришёл какой-то человек из бану фазара и сказал: «Моя жена родила темнокожего ребёнка!» Он спросил: «Есть ли у тебя верблюды?» Тот сказал: «Да». Он спросил: «Какого они цвета?» Тот сказал: «Рыжего». Он спросил: «А есть ли среди них серые?» Бедуин сказал: «Есть и серые». (Посланник Аллаха ﷺ) спросил: «Откуда же они взялись?» Этот человек сказал: «Наверное, это передалось им по наследству». Тогда он сказал: «Так, может быть, и у твоего сына это передалось по наследству!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1500)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2260</td></tr><tr><td>Arabic No</td><td>2260</td></tr><tr><td>Reference</td><td>Book 13 Hadith 86</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: Malik ibn Aws al-Hadthan said: One of the argument
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hisyam bin 'Ammar], telah menceritakan kepada kami [Hatim bin Isma'il], dan telah diriwayatkan melalui jalur yang lain: Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah mengabarkan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Abdul Aziz bin Muhammad], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Nashr bin Ali], telah menceritakan kepada kami [Shafwan bin Isa], dan ini adalah lafazh haditsnya. Seluruh mereka berasal dari [Usamah bin Zaid] dari [Az Zuhri], dari [Malik bin Aus bin Al Hadatsan], ia berkata; diantara yang dijadikan hujjah [Umar] radliallahu 'anhu adalah bahwa ia mengatakan; Rasulullah shallallahu 'alaihi wasallam memiliki tiga bagian yang khusus untuknya, yaitu: Bani Nadhir, Khaibar, dan Fadak. Adapun Bani Nadhir, maka harta mereka dikhususkan untuk keperluan-keperluan beliau, adapun Fadak, maka harta mereka dikhususkan untuk Ibnu Sabil, adapun Khaibar maka Rasulullah shallallahu 'alaihi wasallam telah membagi harta mereka menjadi tiga bagian, dua bagian dibagikan diantara orang-orang muslim, dan satu bagian untuk memberikan nafkah kepada keluarganya. Dan yang tersisa dari pemberian nafkah keluarganya beliau bagikan diantara orang-orang muhajirin yang fakir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2967</td></tr><tr><td>Arabic No</td><td>2967</td></tr><tr><td>Reference</td><td>Book 20 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Малик ибн Аус ибн аль-Хадасан сказал: «Среди доводов, которые приводил ‘Умар, был и такой: Посланнику Аллаха ﷺ три раза даровалось имущество, которое принадлежало только ему. Это имущество (иудеев) бану ан-надыр, а также Фадак и Хайбар. Имущество бану ан-надыр было оставлено на крайний случай, доходы с Фадака предназначались для помощи путникам, а Хайбар Посланник Аллаха ﷺ разделил на три части: две части он отдал мусульманам, а одну часть оставил себе, чтобы обеспечивать свою семью. А то, что оставалось после обеспечения его семьи, он отдавал бедным из числа мухаджиров»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2967</td></tr><tr><td>Arabic No</td><td>2967</td></tr><tr><td>Reference</td><td>Book 20 Hadith 40</td></tr></tbody></table></div>
 

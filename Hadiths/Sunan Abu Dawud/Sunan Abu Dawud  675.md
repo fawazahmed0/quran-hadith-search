@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has also been transmitted by ‘Abd Allah (b. Mas’ud) through a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Katsir] telah mengabarkan kepada kami [Sufyan] dari [Al-A'masy] dari ['Umarah bin 'Umair] dari [Abu Ma'mar] dari [Abu Mas'ud] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Hendaklah yang menempati shaf di belakangku adalah orang orang dewasa dan cerdik pandai, kemudian orang orang yang (kualitas dan umurnya) setelah mereka, kemudian orang orang yang (kualitas dan umurnya) setelah mereka." Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Khalid] dari [Abu Ma'syar] dari [Ibrahim] dari [Alqamah] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, semisal dengannya, dan menambahkan lafazh; Dan janganlah kalian berselisih sehingga menyebabkan hati kalian saling berselisih. Dan jauhilah olehmu suara ribut seperti di tengah pasar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (432)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>675</td></tr><tr><td>Arabic No</td><td>675</td></tr><tr><td>Reference</td><td>Book 2 Hadith 285</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд) передал от Пророка ﷺ похожий хадис с дополнением: «И не нарушайте единообразия, иначе не будет согласия между вашими сердцами».(После чего он добавил:) «И ни в коем случае (не ведите себя так, будто находитесь) на рынке!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (432)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>675</td></tr><tr><td>Arabic No</td><td>675</td></tr><tr><td>Reference</td><td>Book 2 Hadith 285</td></tr></tbody></table></div>
 

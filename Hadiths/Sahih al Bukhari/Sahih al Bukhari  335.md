@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "I have been given five thi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] -yaitu Al 'Awaqi- telah menceritakan kepada kami [Husyaim] berkata. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Sa'id bin An Nadlr] berkata, telah mengabarkan kepada kami [Husyaim] berkata, telah mengabarkan kepada kami [Sayyar] berkata, telah menceritakan kepada kami [Yazid] -yaitu Ibnu Shuhaib Al Faqir- berkata, telah mengabarkan kepada kami [Jabir bin 'Abdullah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Aku diberikan lima perkara yang tidak diberikan kepada orang sebelumku; aku ditolong melawan musuhku dengan ketakutan mereka sejauh satu bulan perjalanan, dijadikan bumi untukku sebagai tempat sujud dan suci. Maka dimana saja salah seorang dari umatku mendapati waktu shalat hendaklah ia shalat, dihalalkan untukku harta rampasan perang yang tidak pernah dihalalkan untuk orang sebelumku, aku diberikan (hak) syafa'at, dan para Nabi sebelumku diutus khusus untuk kaumnya sedangkan aku diutus untuk seluruh manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>335</td></tr><tr><td>Arabic No</td><td>335</td></tr><tr><td>Reference</td><td>Book 7 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Абдуллах, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Мне были дарованы пять (вещей), которые не были дарованы никому (из пророков) до меня: мне была оказана помощь страхом(, который охватил сердца моих врагов, живущих от меня) на расстоянии месяца пути; (вся) земля была сделана для меня местом совершения молитв и средством очищения, и поэтому, где бы ни застало человека, принадлежащего к моей общине, (время) молитвы, он (может) молиться (на этом месте); военная добыча, которую не разрешалось (брать) никому (из пророков) до меня, была дозволена мне; мне было даровано право заступничества, и (, кроме того, раньше) каждый пророк направлялся только к своему народу, я же был направлен ко всем людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>335</td></tr><tr><td>Arabic No</td><td>335</td></tr><tr><td>Reference</td><td>Book 7 Hadith 2</td></tr></tbody></table></div>
 

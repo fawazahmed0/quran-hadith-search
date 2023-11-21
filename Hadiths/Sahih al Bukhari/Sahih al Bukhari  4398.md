@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hafsa:(the wife of the Prophet) The Prophet (ﷺ) ordered all his wives
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Al Mundzir] Telah mengabarkan kepada kami [Anas bin 'Iyadl] Telah menceritakan kepada kami [Musa bin Uqbah] dari [Nafi'] bahwa [Ibnu Umar] telah mengabarkan kepadanya; dari [Hafsah radliallahu 'anha] -istri Nabi shallallahu 'alaihi wasallam- bahwa Nabi shallallahu 'alaihi wasallam menyuruh istri-istri beliau untuk bertahallul pada tahun haji Wada'. Hafshah berkata; 'Tapi kenapa anda belum bertahallul? ' Beliau menjawab: "Saya telah mengikat kepalaku dan mengalungi hewan kurbanku, dan tidak akan bertahallul hingga menyembelih kurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4398</td></tr><tr><td>Arabic No</td><td>4398</td></tr><tr><td>Reference</td><td>Book 64 Hadith 421</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от жены Пророка ﷺ Хафсы, да будет доволен ею Аллах, что когда Пророк ﷺ приказал своим жёнам выйти из состояния ихрама в год Прощального хаджа, она спросила: «А почему ты не делаешь то же самое?» Посланник Аллаха ﷺ сказал: «Я склеил волосы камедью и пометил жертвенный скот, и я не выйду из состояния ихрама, пока не принесу этот скот в жертву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4398</td></tr><tr><td>Arabic No</td><td>4398</td></tr><tr><td>Reference</td><td>Book 64 Hadith 421</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) said," (On the Day of Resurrection) any o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Ali] Telah menceritakan kepada kami [Yahya] dari [Utsman bin Al Aswad] ia berkata; Aku mendengar [Ibnu Abu Mulaikah] Aku mendengar [Aisyah radliallahu 'anha] berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam berabda. -dalam riwayat lain- Dan Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Ibnu Abu Mulaikah] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam. -dalam riwayat lain- Dan Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Abu Yunus Hatim bin Abu Shaghirah] dari [Ibnu Abu Mulaikah] dari [Al Qasim] dari [Aisyah radliallahu 'anha] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak seorang pun yang dihisab, kecuali ia akan binasa." Aisyah berkata; Aku bertanya, "Wahai Rasulullah, Allah telah menjadikanku sebagai tebusanmu, bukankah Allah telah berfirman: 'Makan barangsiapa yang didatangkan kitabnya dari sebelah kanannya, maka niscaya ia akan dihisab dengan perhitungan yang ringan? '" beliau menjawab: "Itulah adalah Al 'Ardlu (hari ketika amal ditampakkan) Namun siapa saja yang hisabnya diperdebatkan, maka dia akan binasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4939</td></tr><tr><td>Arabic No</td><td>4939</td></tr><tr><td>Reference</td><td>Book 65 Hadith 460</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ сказал: “Обязательно погибнет тот, у кого потребуют отчёта!” Я сказала: «О Посланник Аллаха, да сделает Аллах меня выкупом за тебя, разве Всемогущий и Великий Аллах не говорит: “Что касается того, кому Книгу его подадут в правую руку, то (непременно) будет он рассчитан расчётом лёгким…”?» (В ответ на это Пророк ﷺ) сказал: «Это касается только представления, но тот (человек, дела) которого будут обсуждаться, погибнет!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4939</td></tr><tr><td>Arabic No</td><td>4939</td></tr><tr><td>Reference</td><td>Book 65 Hadith 460</td></tr></tbody></table></div>
 

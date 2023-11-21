@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:Abu Bakr As-Siddiq said to the Prophet, "Teach me an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin bin Yusuf] telah mengabarkan kepada kami [Al Laits] dia berkata; telah menceritakan kepadaku [Yazid] dari [Abu Al Khair] dari [Abdullah bin 'Amru] dari [Abu Bakr As Siddiq] radliallahu 'anhu bahwa dia berkata kepada Nabi shallallahu 'alaihi wasallam; "Ajarilah aku doa yang aku panjatkan dalam shalatku! Beliau menjawab: 'Ucapkanlah; ALLAAHUMMA INII ZHALAMTU NAFSII ZHULMAN KATSIIRAN WALAA YAGHFIRUDZDZUNUUBA ILLAA ANTA FAHGHFIRLII MAGHFIRATAN MIN INDIKA INNAKA ANTAL GHAFUURURRAHIIM ('Ya Allah, sesungguhnya aku telah menzhalimi diriku sendiri dengan kezhaliman yang banyak, dan tidak ada yang bisa mengampuni dosa selain Engkau, maka ampunilah bagiku dari sisi-Mu, sesungguhnya Engkau Maha pengampun lagi Maha Penyayang)." ['Amru bin Harits] berkata; dari [Yazid] dari [Abu Al Khair] bahwa dia mendengar [Abdullah bin Amru], [Abu Bakr] radliallahu 'anhu berkata kepada Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6326</td></tr><tr><td>Arabic No</td><td>6326</td></tr><tr><td>Reference</td><td>Book 80 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Бакра ас-Сиддика, да будет доволен им Аллах, что однажды он сказал Пророку ﷺ: «Научи меня словам мольбы, с которой я обращался бы к Аллаху во время своей молитвы», и (Пророк ﷺ.) сказал: «Говори: “О Аллах, я был сильно несправедлив по отношению к себе, и никто не прощает грехов, кроме Тебя. Даруй мне прощение от Тебя и будь милостив ко мне, ибо Ты — Прощающий, Милостивый” /Аллахумма, инни залямту нафси зульман кясиран, ва ля йагфиру-з-зунуба илля Анта, фа-гфир ли магфиратан мин ‘инди-кя ва-рхам-ни, инна-кя Анта-ль-Гафуру-р-Рахиму/».\n‘Амр ибн аль-Харис передаёт от Язида от Абу аль-Хайр, что он слышал, как ‘Абдуллах ибн ‘Амр (сказал): «Абу Бакр, да будет доволен им Аллах, однажды сказал Пророку ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6326</td></tr><tr><td>Arabic No</td><td>6326</td></tr><tr><td>Reference</td><td>Book 80 Hadith 23</td></tr></tbody></table></div>
 

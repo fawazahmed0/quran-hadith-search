@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once Allah's Messenger (ﷺ) delayed the 'Isha' prayer till 'Uma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku ['Urwah bin Az Zubair] dari ['Aisyah] radliallahu 'anha berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengakhirkan shalat 'Isya' ketika malam sudah larut, hingga 'Umar berseru pun kepada beliau, "Para wanita dan anak-anak sudah tidur!" Maka keluarlah Rasulullah seraya bersabda: "Tidak ada seorangpun yang menunggu pelaksanaan shalat 'Isya ini dari penduduk bumi selain kalian." Dan pada hari itu tidak ada satu orangpun yang melaksanakan shalat selain penduduk Madinah. Mereka melakanakan shalat 'Isya antara telah berlalunya waktu syafaq hingga sepertiga awal malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>864</td></tr><tr><td>Arabic No</td><td>864</td></tr><tr><td>Reference</td><td>Book 10 Hadith 255</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) ночью Посланник Аллаха ﷺ откладывал вечерний намаз и не выходил (из дома), пока ‘Умар не сказал ему: “Женщины и дети уже заснули”, после чего он вышел и сказал собравшимся в мечети: “Никто из живущих на земле, кроме вас, не дожидается этого намаза!” И в то время намаз совершали только в Медине и ночной намаз совершали в период между исчезновением вечерний зари и первой трети ночи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>864</td></tr><tr><td>Arabic No</td><td>864</td></tr><tr><td>Reference</td><td>Book 10 Hadith 255</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:Verity the Messenger of Allah (ﷺ) said: There is for ever
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yunus bin Abdul A'la] telah mengabarkan kepada kami [Abdullah bin Wahab] dia berkata, telah mengabarkan kepada kami [Malik bin Anas] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap Nabi memiliki doa yang dia panjatkan, maka aku berkeinginan untuk menyimpan doaku sebagai syafa'at bagi umatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>487</td></tr><tr><td>Arabic No</td><td>198.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 393</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «У каждого пророка было такое обращение с мольбой, с которым он обращался (к Аллаху), я же хочу придержать свою мольбу для заступничества за свою общину в День воскресения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>487</td></tr><tr><td>Arabic No</td><td>198.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 393</td></tr></tbody></table></div>
 

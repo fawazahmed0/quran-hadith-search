@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith (pertaining to this topic), has been narrated on the authority of Zuhri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] dari [Ash Sha'b bin Jatsamah Al Laitsi] bahwa ia pernah memberi hadiah kepada Rasulullah shallallahu 'alaihi wasallam berupa daging Himar liar yang pada saat itu beliau berada di Abwa' atau di Waddan. Namun Rasulullah shallallahu 'alaihi wasallam mengembalikannya. Ash Sha'b berkata; Maka ketika Rasulullah shallallahu 'alaihi wasallam melihat kekecewaan pada wajahku beliau bersabda: "Sebenarnya kami tidaklah mengembalikannya padamu, hanya saja kami sedang melakukan Ihram." Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] dan [Qutaibah bin Sa'id] semuanya dari [Al Laits bin Sa'd] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] -dalam riwayat lain- Telah menceritakan kepada kami [Hasan Al Hulwani] telah menceritakan kepada kami [Ya'qub] telah menceritakan kepada kami [bapakku] dari [Shalih] semuanya dari [Az Zuhri] dengan isnad ini; "Aku pernah menghadiahkan kepada beliau berupa daging Himar Liar." Yakni sebagaimana yang dikatakan Malik. Dan di dalam haditsnya Laits dan Shalih bahwa Ash Sha'b bin Jatsamah telah mengabarkan kepadanya. Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] dan [Amru An Naqid] mereka berkata Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dengan isnad ini, dan mengatakan; "Saya pernah menghadiahkan kepada beliau berupa daging Himar Liar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846</td></tr><tr><td>Arabic No</td><td>1193.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2846</td></tr><tr><td>Arabic No</td><td>1193.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 56</td></tr></tbody></table></div>
 

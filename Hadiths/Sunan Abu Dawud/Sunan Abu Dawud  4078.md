@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn Rukanah: Ali quoting his father said: Rukanah wrestled with the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id Ats Tsaqafi] berkata, telah menceritakan kepada kami [Muhammad bin Rabi'ah] berkata, telah menceritakan kepada kami [Abu Al Hasan Al Asqalani] dari [Abu Ja'far bin Muhammad bin Ali bin Rukanah] dari [Bapaknya] berkata, "Rukanah pernah menggulat (membanting) Nabi shallallahu 'alaihi wasallam, lalu Nabi shallallahu 'alaihi wasallam ganti membanting rukanah. [Rukanah] berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Perbedaan antara kita dengan orang-orang musyrik adalah diletakkannya imamah (semacam surban yang dililitkan di kepala) di atas peci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4078</td></tr><tr><td>Arabic No</td><td>4078</td></tr><tr><td>Reference</td><td>Book 34 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Джа‘фар ибн Мухаммад ибн ‘Али ибн Рукана передаёт от своего отца, что однажды Рукана вступил в поединок с Пророком ﷺ и Пророк ﷺ победил его. Рукана сказал: «Я слышал, как Пророк ﷺ сказал: “Нас отличает от многобожников ношение чалмы вместе с шапочкой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4078</td></tr><tr><td>Arabic No</td><td>4078</td></tr><tr><td>Reference</td><td>Book 34 Hadith 59</td></tr></tbody></table></div>
 

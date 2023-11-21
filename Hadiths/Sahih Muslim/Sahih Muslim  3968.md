@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:Nev
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Abdul Malik] dari ['Atha'] dari [Jabir] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang muslim yang bercocok tanam, kecuali setiap tanamannya yang dimakannya bernilai sedekah baginya, apa yang dicuri orang darinya menjadi sedekah baginya, apa yang dimakan binatang liar menjadi sedekah baginya, apa yang dimakan burung menjadi sedekah baginya, dan tidaklah seseorang mengambil darinya, melainkah ia menjadi sedekah baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>1552.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Если мусульманин посадит дерево, то всё то, что будет съедено с него, обязательно (зачтётся) ему как садакъа/милостыня/, и всё, что будет украдено с него, зачтётся ему как садакъа, и все, что съедят с него звери, зачтётся ему как садакъа, и все, что съедят с него птицы, зачтётся ему как садакъа, и если кто-нибудь нанесёт ему урон, это обязательно зачтётся ему как садакъа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3968</td></tr><tr><td>Arabic No</td><td>1552.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 7</td></tr></tbody></table></div>
 

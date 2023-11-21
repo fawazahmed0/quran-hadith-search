@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: A woman threw a stone at another woman and she a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abbas bin Abdul Azhim] berkata, telah menceritakan kepada kami [Ubaidullah bin Musa] berkata, telah menceritakan kepada kami [Yusuf bin Shuhaib] dari [Abdullah bin Buraidah] dari [Bapaknya] berkata, "Seorang wanita melempar wanita lain hingga bayi yang ada dalam perutnya keguguran. Maka hal itu kemudian disampaikan kepada Rasulullah shallallahu 'alaihi wasallam, lalu beliau memutuskan bahwa diyat bagi bayinya adalah lima ratus kambing. Kemudian saat itu pula beliau melarang untuk melempar." Abu Dawud berkata, "Demikianlah, hadits tersebut menyebutkan lima ratus ekor kambing, padahal yang benar adalah seratus kambing." Abu Dawud melanjutkan, "Demikianlah, Abbas mengatakan bahwa itu (riwayat yang menyebutkan lima ratus kambing) adalah riwayat yang masih diragukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4578</td></tr><tr><td>Arabic No</td><td>4578</td></tr><tr><td>Reference</td><td>Book 41 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Бурайда передаёт от своего отца, да будет доволен им Аллах, что одна женщина бросила в другую чем-то и у той случился выкидыш. Люди обратились к Посланнику Аллаха ﷺ и он велел выплатить за погибший плод компенсацию в пятьсот овец. В тот день Посланник Аллаха ﷺ запретил людям бросать друг в друга камешки и нечто подобное. Абу Дауд сказал, что на самом деле компенсация составила не пятьсот, а сто овец, просто передатчик хадиса ошибся: «Так сказал ‘Аббас. Это была ошибка»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4578</td></tr><tr><td>Arabic No</td><td>4578</td></tr><tr><td>Reference</td><td>Book 41 Hadith 85</td></tr></tbody></table></div>
 

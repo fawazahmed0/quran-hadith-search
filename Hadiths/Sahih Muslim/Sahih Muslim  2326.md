@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha said that a person came to the Messenger of Allah (ﷺ) and said:My mothe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] Telah menceritakan kepada kami [Muhammad bin Bisyr] Telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Aisyah] bahwa seorang laki-laki mendatangi Nabi shallallahu 'alaihi wasallam seraya berkata, "Wahai Rasulullah, ibuku meninggal secara tiba-tiba dan ia tidak sempat berwasiat. Menurut dugaanku, seandainya ia sempat berbicara, mungkin dia akan bersedekah. Apakah ia akan mendapatkan pahalanya jika aku bersedekah atas namanya?" beliau menjawab: "Ya." Dan telah menceritakannya kepadaku [Zuhari bin Harb] Telah menceritakan kepada kami [Yahya bin Sa'id] -dalam jalur lain- Dan Telah menceritakan kepada kami [Abu Kuraib] Telah menceritakan kepada kami [Abu Usamah] -dalam jalur lain- Dan telah menceritakan kepadaku [Ali bin Hujr] telah mengabarkan kepada kami [Ali bin Mushir] Telah menceritakan kepada kami [Al Hakam bin Musa] Telah menceritakan kepada kami [Syu'aib bin Ishaq] semuanya dari [Hisyam] dengan isnad ini. Dan di dalam hadits Abu Usamah; "Namun ia belum berwasiat." Sebagaimana yang dikatakan oleh Ibnu Bisyr, sementara yang lain tidak menyebutkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2326</td></tr><tr><td>Arabic No</td><td>1004.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что как-то к Пророку ﷺ пришёл один человек и сказал: «О Посланник Аллаха, моя мать внезапно умерла, не оставив завещания, но я думаю, что если бы она (успела что-то) сказать, то (велела бы) раздать милостыню, так (получит) ли она награду, если милостыню за неё раздам я?» и Пророк ﷺ сказал: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2326</td></tr><tr><td>Arabic No</td><td>1004.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 63</td></tr></tbody></table></div>
 

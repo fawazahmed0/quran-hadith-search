@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman ibn Awf: The Messenger of Allah (ﷺ) put a turban on me an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isma'il] -mantan budak bani Hasyim- berkata, telah menceritakan kepada kami [Utsman Al Ghathafani] berkata, telah menceritakan kepada kami [Sulaiman bin Kharrabudz] berkata, telah menceritakan kepadaku [Syaikh] -dari Madinah- ia berkata, "Aku mendengar ['Abdurrahman bin Auf] berkata, "Rasulullah shallallahu 'alaihi wasallam memasangkan imamah untukku, lalu beliau menjuntaikan ujung-ujungnya ke bagian depan dan belakangku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4079</td></tr><tr><td>Arabic No</td><td>4079</td></tr><tr><td>Reference</td><td>Book 34 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абду-р-Рахмана ибн ‘Ауфа, да будет доволен им Аллах: «Посланник Аллаха ﷺ надел на меня чалму и опустил один её край спереди, а другой сзади»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4079</td></tr><tr><td>Arabic No</td><td>4079</td></tr><tr><td>Reference</td><td>Book 34 Hadith 60</td></tr></tbody></table></div>
 

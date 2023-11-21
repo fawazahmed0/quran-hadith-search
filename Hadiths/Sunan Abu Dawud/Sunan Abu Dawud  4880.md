@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuBarzah al-Aslami: The Prophet (ﷺ) said: O community of people, who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Al Aswad bin Amir] berkata, telah menceritakan kepada kami [Abu Bakar bin Ayyasy] dari [Al A'masy] dari [Sa'id bin Abdullah bin Juraij] dari [Abu Barzah Al Aslami] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai orang-orang yang beriman dengan lisannya namun keimanannya belum masuk ke dalam hatinya, janganlah kalian mengumpat seorang muslim dan jangan pula mencari-cari kesalahannya. Sebab siapa saja yang mencari-cari kesalahan mereka, maka Allah akan mencari-cari kesalahannya. Maka siapa saja yang Allah telah mencari-cari kesalahannya, Allah tetap akan menampakkan kesalahannya meskipun ia ada di dalam rumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4880</td></tr><tr><td>Arabic No</td><td>4880</td></tr><tr><td>Reference</td><td>Book 43 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4880</td></tr><tr><td>Arabic No</td><td>4880</td></tr><tr><td>Reference</td><td>Book 43 Hadith 108</td></tr></tbody></table></div>
 

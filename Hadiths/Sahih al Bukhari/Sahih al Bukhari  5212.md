@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Sauda bint Zam'a gave up her turn to me ('Aisha), and so the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] Telah menceritakan kepada kami [Zuhair] dari [Hisyam] dari [bapaknya] dari [Aisyah] bahwasanya; "Saudah binti Zam'ah, menghibahkan giliran harinya kepada Aisyah. Karena itu, Nabi shallallahu 'alaihi wasallam membagi harinya untuk Aisyah dan giliran Saudah juga untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5212</td></tr><tr><td>Arabic No</td><td>5212</td></tr><tr><td>Reference</td><td>Book 67 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Сауда бинт Зам‘а уступила ей свою ночь. Таким образом Пророк ﷺ проводил дни с ‘Аишей как в её дни, так и в дни Сауды
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5212</td></tr><tr><td>Arabic No</td><td>5212</td></tr><tr><td>Reference</td><td>Book 67 Hadith 145</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:You would find people lik
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah menceritakan kepadaku [Sa'id bin Al Musayyab] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalian akan mendapatkan manusia bagaikan barang tambang. Mereka yang pernah menjadi orang-orang yang terbaik pada masa jahiliah akan menjadi orang-orang yang terbaik pula pada masa Islam jika mereka memahaminya (ajaran Islam). Selain itu kalian juga akan menjumpai orang-orang yang tergolong baik, tapi dulunya sebelum masuk Islam mereka adalah orang-orang yang sangat membenci Islam. Kalian juga akan menjumpai seburuk-buruknya manusia, yaitu orang yang bermuka dua, yang apabila datang ke satu kelompok dengan satu sikap dan bila datang pada kelompok lain dengan sikap yang lain." Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir] dari ['Umarah] dari [Abu Zur'ah] dari [Abu Hurairah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Al Mughirah bin 'Abdur Rahman Al Hizami] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Kalian akan mendapatkan manusia bagaikan barang tambang, -sebagaimana Hadits Az Zuhri. Namun di dalam Hadits Abu Zur'ah dan Al A'raj dengan menggunakan lafazh; kalian juga akan menjumpai orang-orang yang tergolong baik di dalam umat ini, tapi dulunya sebelum masuk Islam mereka adalah orang-orang yang sangat membenci Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6454</td></tr><tr><td>Arabic No</td><td>2526.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 283</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Вы (увидите), что люди (подобны) рудникам. Те из них, что были луч­шими во времена джахилии, (остались) лучшими и в исламе, если усвоили (установления религии). И вы (увидите), что лучшим из людей в том, что касается этого дела, является тот, кто больше всех ненавидел его, пока не (занялся) им. И вы увидите, что худшим из людей является двуличный, который к одним приходит с одним лицом, а к другим с другим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6454</td></tr><tr><td>Arabic No</td><td>2526.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 283</td></tr></tbody></table></div>
 

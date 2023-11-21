@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Abu Huraira through another ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] dari [Umarah bin Al Qa'qa'] telah menceritakan kepada kami [Abu Zur'ah] berkata: Aku mendengar [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Orang pertama yang masuk surga." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Zuhair bin Harb], teks milik Qutaibah, keduanya berkata: Telah menceritakan kepada kami [Jarir] dari [Umarah] dari [Abu Zur'ah] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya golongan pertama yang masuk surga wujudnya seperti bulan di malam purnama, golongan selanjutnya wujudnya seperti bintang paling terang di langit, mereka tidak kencing, tidak berak, tidak ingusan dan tidak meludah, sisir mereka emas, keringat mereka minyak kesturi, tempat bara api mereka kayu wangi, istri-istri mereka bidadari, postur mereka sama seperti wujud ayah mereka, Adam, enampuluh dzira' di langit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7149</td></tr><tr><td>Arabic No</td><td>2834.03</td></tr><tr><td>Reference</td><td>Book 53 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7149</td></tr><tr><td>Arabic No</td><td>2834.03</td></tr><tr><td>Reference</td><td>Book 53 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thabit ibn Qays ibn Shammas: The Messenger of Allah (ﷺ) entered upon 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] dan [Ibnu As Sarh] [Ahmad] berkata; telah menceritakan kepada kami [Ibnu Wahb] dan [Ibnu As Sarh] berkata; telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepada kami [Daud bin Abdurrahman] dari ['Amru bin Yahya] dari [Yusuf bin Muhammad] -Ibnu Shalih Muhammad bin Yusuf bin Tsabit bin Qais bin Syammas berkata- dari [Ayahnya] dari [Kakeknya] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau pernah menemui Tsabit bin Qais -Ahmad berkata; saat ia sedang sakit-, lalu beliau mengucapkan: 'IKSYIFIL BA'SA RABBAN NAASI (Hilangkan penyakit wahai Tuhan manusia!) '. Dari Tsabit bin Qais bin Syammas, "Kemudian beliau mengambil tanah dari Bathhan dan memasukkannya ke dalam sebuah gelas, beliau kemudian menyemburkan air ke dalamnya, lalu menuangkannya kepadanya." Abu Daud berkata; Ibnu As As Sarh berkata, "Yang benar adalah Yusuf bin Muhammad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3885</td></tr><tr><td>Arabic No</td><td>3885</td></tr><tr><td>Reference</td><td>Book 29 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сабита ибн Кайса ибн Шаммаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ зашёл к нему, чтобы навестить его, когда он болел, и сказал: «Удали болезнь, Господь людей, от Сабита ибн Кайса». Затем он взял немного земли из Батхана (долина в Медине), положил её в кувшин, побрызгал на неё водой, затем вылил на него
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3885</td></tr><tr><td>Arabic No</td><td>3885</td></tr><tr><td>Reference</td><td>Book 29 Hadith 31</td></tr></tbody></table></div>
 

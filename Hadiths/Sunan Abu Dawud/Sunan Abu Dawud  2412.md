@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuBusrah al-Ghifari,: Ja'far ibn Jubayr said: I accompanied AbuBusrah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar], telah menceritakan kepadaku [Abdullah bin Yazid], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ja'far bin Musafir], telah menceritakan kepada kami [Abdullah bin Yahya] secara makna, telah menceritakan kepadaku [Sa'id bin Abu Ayyub] -dan [Ja'far] serta [Al Laits] menambahkan; telah menceritakan kepadaku [Yazid bin Abu Habib] - bahwa [Kulaib bin Dzuhail Al Hadhrami], telah mengabarkan kepadanya dari ['Ubaid], ia berkata; Ja'far bin Jabr berkata; aku pernah bersama [Abu Bashrah Al Ghifari] seorang sahabat Nabi shallallahu 'alaihi wasallam dalam sebuah kapal dari Al Fusthath pada Bulan Ramadhan, kemudian dihidangkan makan siangnya. Ja'far dalam haditsnya mengatakan; ia belum melewati rumah-rumah hingga ia meminta sufrah (makanan musafir). Ia berkata; mendekatlah. Aku katakan; bukankah engkau melihat rumah-rumah tersebut? Abu Bashrah mengatakan; apakah engkau membenci sunah Rasulullah shallallahu 'alaihi wasallam? Ja'far dalam haditsnya berkata; kemudian ia memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2412</td></tr><tr><td>Arabic No</td><td>2412</td></tr><tr><td>Reference</td><td>Book 14 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Убайд ибн Джабр сказал: «Я плыл в рамадане вместе с Абу Басрой аль-Гифари, сподвижником Пророка ﷺ на корабле из Фустата. Корабль отчалил от берега. Ему принесли обед, а дома ещё не скрылись из виду, и он велел подать еду и сказал мне: “Пододвинься”. Я сказал: “Но разве ты не видишь дома?” Абу Басра сказал: “Неужели ты не желаешь следовать Сунне Посланника Аллаха ﷺ?” И он поел»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2412</td></tr><tr><td>Arabic No</td><td>2412</td></tr><tr><td>Reference</td><td>Book 14 Hadith 100</td></tr></tbody></table></div>
 

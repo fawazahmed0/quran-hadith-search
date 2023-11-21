@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما) a dit : Je me vis en songe tenant à la m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ar Rabi' Al 'Ataki] dan [Khalaf bin Hisyam] dan [Abu Kamil Al Jahdari] seluruhnya dari [Hammad bin Zaid]. [Abu Ar Rabi'] berkata; Telah menceritakan kepada kami [Hammad bin Zaid]; Telah menceritakan kepada kami [Ayyub] dari [Nafi'] dari [Ibnu 'Umar] dia berkata; Aku bermimpi seakan-akan ditanganku ada seutas kain sutra. Dan tidaklah suatu tempat yang aku inginkan disurga, kecuali aku dapat melihatnya. Dia berkata; 'Lalu aku menceritakannya kepada Hafshah, kemudian Hafshah menceritakannya lagi kepada Nabi shallallahu 'alaihi wasallam. Maka Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam bersabda: "Aku melihat Abdullah sebagai lelaki yang shalih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6369</td></tr><tr><td>Arabic No</td><td>2478</td></tr><tr><td>Reference</td><td>Book 44 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6369</td></tr><tr><td>Arabic No</td><td>2478</td></tr><tr><td>Reference</td><td>Book 44 Hadith 199</td></tr></tbody></table></div>
 

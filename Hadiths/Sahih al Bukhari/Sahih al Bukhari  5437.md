@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I saw the Prophet (ﷺ) being served with soup and containing gour
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Malik bin Anas] dari [Ishaq bin Abdullah] dari [Anas] radliallahu 'anhu, ia berkata, "Aku melihat Nabi shallallahu 'alaihi wasallam diberi hidangan kuah yang di dalamnya ada buah labu dan daging yang telah dikeringkan, dan aku lihat beliau memilih-milih buah labu lalu memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5437</td></tr><tr><td>Arabic No</td><td>5437</td></tr><tr><td>Reference</td><td>Book 70 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Я видел, как Пророку ﷺ принесли суп, в котором были ломтики тыквы и кусочки сушёного мяса, и я видел, как Пророк ﷺ выискивал (ломтики) этой тыквы и ел их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5437</td></tr><tr><td>Arabic No</td><td>5437</td></tr><tr><td>Reference</td><td>Book 70 Hadith 65</td></tr></tbody></table></div>
 

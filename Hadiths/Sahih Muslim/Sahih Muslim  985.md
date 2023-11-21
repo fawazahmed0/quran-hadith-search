@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It was narrated from Abu Huraira that the Messenger of Allah (ﷺ) said:The best
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Suhail] dari [Bapaknya] dari [Abu Hurairah radhiyallahu'anhu] dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda, "Sebaik-baik shaf kaum laki-laki adalah di depan, dan sejelek-jeleknya adalah pada akhirnya. Dan sebaik-baik shaf wanita adalah akhirnya, dan sejelek-jeleknya adalah awal shaf." Telah menceritakan kepada kami [Qutaibah bin Sa'id] dia berkata, telah menceritakan kepada kami [Abdul Aziz, yaitu ad-Darawardi] dari [Suhail] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>985</td></tr><tr><td>Arabic No</td><td>440.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «(Во время молитвы) лучшими из рядов для мужчин является первые, а худшим последние, лучшими же из рядов для женщин является последние, а худшими первые»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>985</td></tr><tr><td>Arabic No</td><td>440.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 147</td></tr></tbody></table></div>
 

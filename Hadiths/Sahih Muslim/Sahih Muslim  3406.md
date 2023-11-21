@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. al Musayyib heard Sa'd b. Abi Waqqas (Allah be pleased with him) saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Hujain bin Al Mutsanna] telah menceritakan kepada kami [Laits] dari [Uqail] dari [Ibnu Syihab] bahwa ia berkata, telah mengabarkan kepadaku [Sa'id bin Al Musayyab] bahwa ia mendengar [Sa'd bin Abu Waqash] berkata; "Utsman bin Mazh'un untuk hidup membujang, lalu Rasulullah shallallahu 'alaihi wasallam melarangnya. Andaikan beliau mengizinkannya, tentulah kami sudah mengebiri diri kami sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3406</td></tr><tr><td>Arabic No</td><td>1402.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3406</td></tr><tr><td>Arabic No</td><td>1402.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':'Abdullah bin 'Umar said, "Allah's Messenger (ﷺ) entered the Ka
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar], bahwa Rasulullah shallallahu 'alaihi wasallam masuk ke dalam Ka'bah bersama Usamah bin Zaid, Bilal dan 'Utsman bin Thalhah Al Hajabi kemudian pintu ditutup, dan beliau berada di dalamnya. Kemudian setelah beliau keluar aku bertanya kepada [Bilal] apa yang dilakukan oleh beliau di dalamnya. Bilal menjawab, 'Beliau menjadikan tiang berada di sebelah kiri, lalu satu di sebelah kanan dan tiga tiang berada di belakangnya -saat itu tiang Ka'bah berjumlah enam buah- kemudian beliau shalat'." [Isma'il] menyebutkan kepada kami; [Malik] menceritakan kepadaku, ia sebutkan, "Dua tiang di sebelah kanannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>505</td></tr><tr><td>Arabic No</td><td>505</td></tr><tr><td>Reference</td><td>Book 8 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ вошёл в Каабу (и вместе с ним вошли) Билял, Усама ибн Зейд и хранитель (ключей от Каабы) ‘Усман ибн Тальха, после чего (‘Усман) закрыл за (Пророком ﷺ) дверь, и он остался там (на некоторое время).\n(‘Абдуллах ибн ‘Умар сказал): «Когда Билял вышел, я спросил его: “Что делал (там) Пророк ﷺ?” Он ответил: “Он встал таким образом, что один столб оказался слева от него, один — справа, а три — сзади, и совершил молитву”, а в то время (крыша) Каабы покоилась на шести столбах».\nВ другой версии этого хадиса говорится: «…два (других) столба — справа…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>505</td></tr><tr><td>Arabic No</td><td>505</td></tr><tr><td>Reference</td><td>Book 8 Hadith 152</td></tr></tbody></table></div>
 

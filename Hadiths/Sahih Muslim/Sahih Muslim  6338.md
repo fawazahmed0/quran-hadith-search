@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Masruq reported:They made a mention of Ibn Mas'ud before 'Abdullah b. Amr, where
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Ibrahim] dari [Masruq] dia berkata; "Para sahabat menyebutkan nama Abdullah bin Mas'ud di hadapan Abdullah bin 'Amru." Maka [Abdullah bin 'Amru] berkata; 'Itulah orang yang aku sangat mencintainya hingga kini setelah Rasulullah shallallahu 'alaihi wasallam bersabda; "Dengarkanlah bacaan Al Qur 'an dari empat orang; Dari Ibnu Mas 'ad, Salim maula Abu Hanifah, Ubay bin Ka 'ab, dan Mu'adz bin Jabal. Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] melalui jalur ini. Di dalamnya ada tambahan, Syu'bah berkata; 'Abdullah bin 'Amru memulainya dengan dua orang ini. Aku tidak tahu nama siapa dulu yang dia sebutkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6338</td></tr><tr><td>Arabic No</td><td>2464.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6338</td></tr><tr><td>Arabic No</td><td>2464.05</td></tr><tr><td>Reference</td><td>Book 44 Hadith 168</td></tr></tbody></table></div>
 

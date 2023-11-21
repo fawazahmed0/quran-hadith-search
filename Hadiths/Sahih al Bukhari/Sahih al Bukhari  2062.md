@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubaid bin 'Umair:Abu Musa asked 'Umar to admit him but he was not admi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Makhlad bin Yazid] telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepada saya ['Atho'] dari ['Ubaid bin 'Umair] bahwa [Abu Musa Al Anshariy] meminta izin kepada 'Umar bin Al Khaththob radliallahu 'anhu namun tidak diizinkan karena nampaknya dia sedang sibuk. Lalu Abu Musa kembali sedangkan 'Umar telah pula selesai dari pekerjaannya lalu dia berkata: "Tidakkah tadi aku mendengar suara 'Abdullah bin Qais?, Berilah izin kepadanya". Umar diberitahu bahwa Abu Musa telah pulang. Maka 'Umar memanggilnya, lalu Abu Musa berkata: "Kami diperintahkan hal yang demikian (kembali pulang bila salam minta izin tiga kali tidak dijawab) ". Maka dia berkata: "Berikanlah kepadaku alasan yang jelas tentang masalah ini". Maka Abu Musa pergi menemui majelis Kaum Anshar lalu dia bertanya kepada mereka. Kaum Anshar berkata: "Tidak ada yang menjadi saksi (mengetahui) perkara ini kecuali anak kecil kami yaitu Abu Sa'id Al Khudriy". Maka Abu Musa berangkat bersama [Abu Sa'id Al Khudriy] menemui 'Umar, maka 'Umar berkata: "Kenapa aku bisa tidak tahu urusan Rasulullah shallallahu 'alaihi wasallam. Sungguh aku telah dilalaikan oleh hiruk pikik pasar". Maksudnya kegiatan berdagang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>2062</td></tr><tr><td>Reference</td><td>Book 34 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Убайдуллаха бин ‘Умайра, что (однажды) Абу Муса аль-Аш‘ари, да будет доволен им Аллах, попросил позволения войти к ‘Умару бин аль-Хаттабу, да будет доволен им Аллах, но не получил его, так как (‘Умар), кажется, был чем-то занят, и Абу Муса вернулся к себе. Освободившись, ‘Умар сказал: «Я слышал голос ‘Абдуллаха бин Кайса, не так ли? Впустите же его». Ему сказали: «Он вернулся к себе», и (‘Умар) послал за ним. (Вернувшись, Абу Муса) сказал: «Нам всегда велели поступать так». (‘Умар) сказал: «Докажи мне это!» — после чего (Абу Муса) отправился к месту встреч ансаров и стал расспрашивать их об этом. Они сказали: «Засвидетельствовать это для тебя не сможет никто, кроме Абу Са‘ида аль-Худри, самого младшего из нас», а когда (Абу Муса) привёл Абу Са‘ида аль-Худри (к ‘Умару), ‘Умар воскликнул: «Неужели это веление Посланника Аллаха ﷺ осталось скрытым от меня?! Отвлекло меня хлопанье на рынках!» (‘Умар) имел в виду то, что он занимался торговлей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>2062</td></tr><tr><td>Reference</td><td>Book 34 Hadith 15</td></tr></tbody></table></div>
 

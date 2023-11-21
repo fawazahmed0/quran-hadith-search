@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما) a dit : Un homme vint trouver Ibn 'Omar (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Ibnu 'Aun] dari [Ziyad bin Jubair] ia berkata; Seorang laki-laki bertanya kepada [Ibnu Umar], "Aku telah benadzar untuk berpuasa sehari, dan ternyata puasa itu bertepatan dengan hari raya Iedul Adlha atau Iedul Fithri." Maka Ibnu Umar menjawab: "Allah Ta'ala telah memerintahkan untuk menunaikan Nadzar, namun Rasulullah shallallahu 'alaihi wasallam telah melarang untuk berpuasa di hari ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2675</td></tr><tr><td>Arabic No</td><td>1139</td></tr><tr><td>Reference</td><td>Book 13 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2675</td></tr><tr><td>Arabic No</td><td>1139</td></tr><tr><td>Reference</td><td>Book 13 Hadith 181</td></tr></tbody></table></div>
 

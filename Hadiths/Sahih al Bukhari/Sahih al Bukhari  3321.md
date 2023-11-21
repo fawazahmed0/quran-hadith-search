@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "A prostitute was forgiven by
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Hasan bin ash-Shobbah] telah bercerita kepada kami [Ishaq Al Azraq] telah bercerita kepada kami ['Auf] dari [Al Hasan] dan [Ibnu Sirin] dari [Abu Hurairah radliallahu 'anhu] dari Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada seorang wanita pezina yang diampuni dosanya disebabkan (memberi minum seekor anjing). Ketika dia berjalan ada seekor anjing dekat sebuah sumur yang sedang menjulurkan lidahnya dalam kondisi hampir mati kehausan. Wanita itu segera melepas sepatunya lalu diikatnya dengan kerudungnya kemudian dia mengambil air dari sumur itu. Karena perbuatannya itulah maka dia diampuni dosanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3321</td></tr><tr><td>Arabic No</td><td>3321</td></tr><tr><td>Reference</td><td>Book 59 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Была прощена одна блудница, которая проходила мимо высунувшей язык собаки, которая умирала от жажды у колодца: (эта блудница) сняла башмак, привязала его к своему покрывалу и зачерпнула для неё воды, и за это простились ей (её грехи)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3321</td></tr><tr><td>Arabic No</td><td>3321</td></tr><tr><td>Reference</td><td>Book 59 Hadith 127</td></tr></tbody></table></div>
 

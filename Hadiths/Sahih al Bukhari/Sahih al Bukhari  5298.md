@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud: The Prophet (ﷺ) said, "The call (or the Adhan) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5298</td></tr><tr><td>Arabic No</td><td>5298</td></tr><tr><td>Reference</td><td>Book 68 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Мас‘уда, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пусть азан Биляля не мешает вам совершать сухур, ибо он произносит азан или возглашает призыв для того, чтобы выстаивающий молитву завершил её, а не для того, чтобы сообщить о наступлении (времени) утренней молитвы». После этого Язид показал свои руки и развёл их в разные стороны
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5298</td></tr><tr><td>Arabic No</td><td>5298</td></tr><tr><td>Reference</td><td>Book 68 Hadith 47</td></tr></tbody></table></div>
 

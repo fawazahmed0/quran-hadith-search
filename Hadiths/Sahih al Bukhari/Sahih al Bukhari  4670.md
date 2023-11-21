@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When 'Abdullah bin 'Ubai died, his son 'Abdullah bin 'Abdull
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaid bin Isma'il] dari [Abu Usamah] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] dia berkata; "Ketika Abdullah bin Ubay meninggal dunia. anak laki-lakinya -yaitu Abdulah bin Abdullah- datang kepada Rasulullah shallallahu 'alaihi wasallam seraya memohon kepada beIiau agar sudi memberikan baju beliau kepada Abdullah untuk kain kafan ayahnya, Abdullah bin Ubay bin Salul. Lalu Rasulullah shallallahu 'alaihi wasallam memberikan bajunya kepada Abdullah. setelah itu, Abdullah juga memohon Rasulullah agar beliau berkenan menshalati jenazah ayahnya. Kemudian Rasulullah pun bersiap-siap untuk menshalati jenazah Abdullah bin Ubay, hingga akhirnya Umar berdiri dan menarik baju Rasulullah seraya berkata, "Ya Rasulullah, apakah engkau akan menshalati jenazah Abdullah bin Ubay sedangkan Allah telah melarang untuk menshalatinya?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Sesungguhnya Allah Subhanahu wa Ta'ala telah memberikan pilihan kepadaku." Lalu beliau membacakan ayat yang berbunyi; "Kamu memohonkun ampun bagi orang-orang munafik atau tidak kamu mohonkan ampun bagi mereka, maka hal itu adalah sama saja. sekalipun kamu memohonkan ampun bagi mereka tujuh puluh kali (Qs. At-Taubah 9: 80). Oleh karena itu, aku akan menambah istighfar lebih dari tujuh puluh kali untuknya." Umar bin Khaththab berkata, "Ya Rasulullah, sesungguhnya Ia adalah orang munafik?." Tetapi, rupanya Rasulullah shallallahu 'alaihi wasallam tetap saja menshalatinya, hingga Allah menurunkan ayat Al Qur'an: "Janganlah kamu sekali-kali menshalati jenazah seorang di antara orang-orang munafik dan janganlah kamu berdiri di atas kuburnya." (Qs. At-Taubah 9:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4670</td></tr><tr><td>Arabic No</td><td>4670</td></tr><tr><td>Reference</td><td>Book 65 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что, когда ‘Абдуллах ибн Убай умер, его сын ’Абдуллах ибн ’Абдиллях пришёл к Посланнику Аллаха ﷺ и попросил его дать ему свою рубаху, чтобы он завернул в неё (тело) отца. Пророк ﷺ дал ему, а затем он попросил совершить над ним погребальную молитву, и Посланник Аллаха ﷺ встал, чтобы совершить молитву, но ‘Умар встал, потянул его за одежду и сказал: «О Посланник Аллаха! Ты совершишь над ним молитву при том, что твой Господь запретил тебе делать это?!» (В ответ ему) Посланник Аллаха ﷺ сказал: «Аллах дал мне право выбора, ибо сказал Он: “Будешь ты просить для них прощения или нет (, не имеет значения, ибо), если (даже) ты попросишь для них прощения семьдесят раз…”. Поэтому я буду просить прощения больше семидесяти раз». ‘Умар сказал: «Поистине, он — лицемер». Но Посланник Аллаха ﷺ всё равно совершил над ним молитву, и после этого Аллах ниспослал: “И никогда не совершай молитву ни по одному из них, (когда) он умрет, и не стой над его могилой” (сура “ат-Тауба”, аят 84)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4670</td></tr><tr><td>Arabic No</td><td>4670</td></tr><tr><td>Reference</td><td>Book 65 Hadith 192</td></tr></tbody></table></div>
 

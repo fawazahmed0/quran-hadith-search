@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:Surat Bani Israel and Al-Kahf and Mary are among my first ol
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dia berkata; Aku mendengar ['Abdur Rahman bin Yazid] dia berkata; Aku mendengar [Ibnu Mas'ud radliallahu 'anhu] dia berkata mengenai surat Bani Israil, Ashabul Al Kahfi, dan Maryam; Mereka adalah orang-orang terdahulu, dan surat-surat itu sudah lama aku membacanya. Adapun arti Lalu mereka akan menggeleng-gelengkan kepala mereka.. (Al Israa: 51). Ibnu Abbas berkata; yaitu menggerak-gerakannya. Yang lainnya berkata; 'Naghdlat Sinnuka.' Yakni; gigimu bergerak-gerak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4708</td></tr><tr><td>Arabic No</td><td>4708</td></tr><tr><td>Reference</td><td>Book 65 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд, да будет доволен им Аллах, сказал о сурах «Бану Исраиль», «аль-Кяхф» и «Марьям»: «Они были одними из первых ниспосланных сур, и их я заучил одними из первых»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4708</td></tr><tr><td>Arabic No</td><td>4708</td></tr><tr><td>Reference</td><td>Book 65 Hadith 230</td></tr></tbody></table></div>
 

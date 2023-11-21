@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ziyad ibn al-Harith as-Suda'i: I came to the Messenger of Allah (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah], telah menceritakan kepada Kami [Abdullah] yaitu Ibnu Umar bin Ghanim dari [Abdurrahman bin Ziyad] bahwa ia mendengar [Ziyad bin Nu'aim Al Hadhrami] bahwa ia telah mendengar [Ziyad bin Harits Ash Shuda'i] berkata; aku menemui Rasulullah shallallahu 'alaihi wasallam lalu membaiatnya. Kemudan ia menyebutkan hadits yang panjang. Ia berkata; kemudian terdapat seseorang yang datang kepada beliau dan berkata; berikanlah aku sebagian dari sedekah! Maka Rasulullah shallallahu 'alaihi wasallam berkata kepadanya: "Sesungguhnya Allah tidak tidak ridha kepada hukum seorang Nabi atau yang lainnya, Dialah yang telah menentukannya dan telah menetapkannya bagi delapan bagian dalam perkara zakat, hingga Dia sendiri yang memutuskan. Maka Allah membaginya menjadi delapan bagian, seandainya engkau termasuk dari bagian itu maka aku akan memberikan hakmu kepadamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1630</td></tr><tr><td>Arabic No</td><td>1630</td></tr><tr><td>Reference</td><td>Book 9 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зийад ибн аль-Харис ас-Судаъи, да будет доволен им Аллах, сказал: «Я пришёл к Посланнику Аллаха ﷺ и присягнул ему». И он привёл длинный хадис, и сказал: «А потом к нему пришёл какой-то человек и сказал ему: “Дай мне что-нибудь из закята”. Посланник Аллаха ﷺ сказал: “Поистине, Аллах не пожелал, чтобы пророк или кто-то иной выносил решения о закяте. Он Сам вынес о нём решение, разделив его на восемь частей. Если ты принадлежишь к имеющим право получать одну из этих частей, я дам тебе то, на что ты имеешь право”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1630</td></tr><tr><td>Arabic No</td><td>1630</td></tr><tr><td>Reference</td><td>Book 9 Hadith 75</td></tr></tbody></table></div>
 

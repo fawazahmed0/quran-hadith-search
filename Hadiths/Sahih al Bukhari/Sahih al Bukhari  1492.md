@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) saw a dead sheep which had been given in c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Uqair] telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] telah menceritakan kepada saya ['Ubaidullah bin 'Abdullah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata,: Nabi Shallallahu'alaihiwasallam mendapatkan seekor kambing yang diberikan oleh seorang sahaya wanita Maimunah sebagai zakatnya dalam keadaan mati. Maka Nabi Shallallahu'alaihiwasallam bersabda: "Kenapa kalian tidak memanfaatkan kulitnya? '. Orang-orang berkata,: "Kambing itu sudah jadi bangkai". Beliau SHAlLAlLAHU'AlAIHIWASAlLAM menjawab: "Yang diharamkan itu memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 24 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ увидевший издохшую овцу, которая досталась вольноотпущеннице (его жены) Маймуны в качестве садаки, спросил: “Разве вы не использовали её шкуру?” (Люди) сказали: “Она же подохла!” (Тогда) он сказал: “Запрещается только есть её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 24 Hadith 92</td></tr></tbody></table></div>
 

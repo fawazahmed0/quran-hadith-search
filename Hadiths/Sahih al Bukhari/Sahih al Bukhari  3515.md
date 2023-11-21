@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:The Prophet (ﷺ) said, "Do you think that the tribes of Juha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qabishah] telah bercerita kepada kami [Sufyan] telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ibnu Mahdiy] dari [Sufyan] dari ['Abdul Malik bin 'Umair] dari ['Abdur Rahman bin Abu Bakrah] dari [bapaknya], Nabi shallallahu 'alaihi wasallam bersabda: "Bagaimana pendapat kalian jika (ada yang beranggapan) bahwa suku Juhainah, Muzainah, Aslam dan Ghifar lebih baik dari Bani Tamim, Bani Asad, Bani 'Abdullah bin Ghathafan dan Bani 'Amir bin Sha'sha'ah?". Tiba-tiba ada seseorang yang mengatakan; "Mereka itu celaka dan rugi".Maka beliau bersabda: "Memang mereka itu lebih baik dari Bani Tamim, Bani Asad, Bani 'Abdullah bin Ghathafan dan Bani 'Amir bin Sha'sha'ah?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3515</td></tr><tr><td>Arabic No</td><td>3515</td></tr><tr><td>Reference</td><td>Book 61 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Бакры, что Пророк ﷺ сказал: «Как думаете, племена джухайна, музаина, аслям и гифар лучше племен бану тамим, бану асад, бану ‘Абдуллах ибн Гатафан и бану ‘Амир ибн Са‘са‘а?» Один мужчина сказал: «Они потерпели неудачу и убыток». Пророк ﷺ добавил: «(Да), они лучше, чем племена бану тамим, бану асад, бану ‘Абдуллах ибн Гатафан и бану ‘Амир ибн Са‘са‘а»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3515</td></tr><tr><td>Arabic No</td><td>3515</td></tr><tr><td>Reference</td><td>Book 61 Hadith 25</td></tr></tbody></table></div>
 

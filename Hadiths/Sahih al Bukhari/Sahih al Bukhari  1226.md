@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated' 'Abdullah:Once Allah's Messenger (ﷺ) offered five rak'at in the Zuhr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu.bah] dari [Al Hakam] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat Zhuhur lima raka'at. Beliau ditegur: "Apakah ada tambahan raka'at shalat?" Beliau menjawab: "Memangnya apa yang terjadi?" Dia ('Abdullah) berkata: "Anda kerjakan shalat lima raka'at". Maka Beliau sujud dua kali setelah memberi salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1226</td></tr><tr><td>Arabic No</td><td>1226</td></tr><tr><td>Reference</td><td>Book 22 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин Мас‘уда, да будет доволен им Аллах, что однажды во время полуденного намаза Посланник Аллаха ﷺ совершил пять (рак‘атов вместо положенных четырёх). Кто-то спросил его: «Разве намаз был увеличен?» (Пророк ﷺ в свою очередь) спросил: «А в чём дело?» (Человек, задавший вопрос,) сказал: «Ты совершил пять (рак‘атов)», и тогда (Пророк ﷺ) совершил ещё два земных поклона после таслима
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1226</td></tr><tr><td>Arabic No</td><td>1226</td></tr><tr><td>Reference</td><td>Book 22 Hadith 3</td></tr></tbody></table></div>
 

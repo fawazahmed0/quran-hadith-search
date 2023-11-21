@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) Allah's Messenger (ﷺ) said, "No cala
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman Al Hakam bin Nafi'] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwa [Aisyah] radliallahu 'anha isteri Nabi shallallahu 'alaihi wasallam berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah suatu musibah yang menimpa seorang muslim bahkan duri yang melukainya sekalipun melainkan Allah akan menghapus (kesalahannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5640</td></tr><tr><td>Arabic No</td><td>5640</td></tr><tr><td>Reference</td><td>Book 75 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, жены Пророка ﷺ, что Посланник Аллаха ﷺ сказал: «Какое бы бедствие ни постигло мусульманина, Аллах непременно искупает этим его (грехи), даже если его уколет колючка»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5640</td></tr><tr><td>Arabic No</td><td>5640</td></tr><tr><td>Reference</td><td>Book 75 Hadith 1</td></tr></tbody></table></div>
 

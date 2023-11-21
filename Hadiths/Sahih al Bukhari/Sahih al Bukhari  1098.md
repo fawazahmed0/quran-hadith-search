@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:At night 'Abdullah bin 'Umar used to offer the prayer on the back
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Abdullah bin 'Amir bin Rabi'ah] bahwa ['Amir bin Rabi'ah] mengabarkannya berkata: "Aku melihat Rasulullah shallallahu 'alaihi wasallam di atas hewan tunggangannya bertasbih dengan memberi isyarat dengan kepala beliau kearah mana saja hewan tunggangannya menghadap. Rasulullah shallallahu 'alaihi wasallam tidak pernah melakukan seperti ini untuk shalat-shalat wajib". Dan berkata, [Al Laits] telah menceritakan kepada saya [Yunus] dari [Ibnu Syihab] berkata; Telah berkata, [Salim]: ['Abdullah bin 'Umar radliallahu 'anhua] ketika bepergian pernah shalat malam diatas tunggangannya ke arah mana saja tunggangannya menghadap. berkata, Ibnu 'Umar radliallahu 'anhuma: "Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat sunnat diatas tunggangan Beliau ke arah mana saja menghadap dan juga melaksanakan shalat witir di atasnya. Hanya saja Beliau tidak melaksanakan yang demikian untuk shalat wajib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1098</td></tr><tr><td>Arabic No</td><td>1098</td></tr><tr><td>Reference</td><td>Book 18 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Салима, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, совершал ночную молитву на своем верблюде в путешествии, не обращая внимания, куда он обращался. Ибн ‘Умар сказал: «Посланник Аллаха ﷺ совершал молитвы, сидя верхом на своей верблюдице, направляясь в ту сторону, куда она обращалась, и совершал на ней “витр”, но обязательные молитвы он на ней не совершал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1098</td></tr><tr><td>Arabic No</td><td>1098</td></tr><tr><td>Reference</td><td>Book 18 Hadith 18</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Dharr (que Dieu l'agrée) a dit : Comme je demandais à l'Envoyé de Dieu (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kamil al-Jahdari] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [al-A'masy] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Muawiyah] dari [al-A'masy] dari [Ibrahim at-Taimi] dari [Bapaknya] dari [Abu Dzarr] dia berkata, "Saya berkata, 'Wahai Rasulullah, masjid apa yang didirikan di bumi pertama kali? ' Beliau menjawab, 'Masjid al-Haram.' Aku bertanya lagi, 'Kemudian apa lagi? ' Beliau menjawab, 'Masjid al-Aqsha.' Aku bertanya, 'Berapa jarak (waktu pembangunan) antara keduanya? ' Beliau menjawab, 'Empat puluh tahun. Dan di mana pun kamu mendapatkan waktu shalat maka shalatlah, dan ia adalah masjid (untukmu).' Dan dalam hadits Abu Kami, 'Kemudian di mana pun kamu mendapatkan (waktu) shalat, shalatlah padanya karena ia adalah masjid (untukmu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1161</td></tr><tr><td>Arabic No</td><td>520.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр сказал: «(Однажды) я спросил: “О Посланник Аллаха, какая мечеть была построена на земле первой?” Он ответил: “Запретная мечеть /аль-масджид аль-харам/”. Я спросил: “А после неё?” Он ответил: “Отдалённейшая мечеть /аль-масджид аль-акса/”. Я спросил: “А сколько (лет прошло) между (возведением) той и другой?” Он ответил: “Сорок лет”, (после чего сказал): “Где бы ни застало тебя (время) молитвы, молись, ибо это (место и будет для тебя) мечетью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1161</td></tr><tr><td>Arabic No</td><td>520.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 1</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported:'Abdullah died and he l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Rabi' Az Zahrani]. Yahya mengatakan; Telah mengabarkan kepada kami [Hammad bin Zaid] dari ['Amru bin Dinar] dari [Jabir bin Abdullah] dia berkata; Bahwasanya Abdullah telah meninggal dunia dan meninggalkan sembilan anak perempuan, atau dia berkata; Tujuh. Lantas saya menikah dengan seorang janda. Kemudian Rasulullah shallallahu 'alaihi wasallam bertanya kepadaku: "Wahai Jabir, apakah kamu sudah menikah? Dia (Jabir) berkata; Saya menjawab; Ya. Beliau bertanya kembali: "Dengan seorang gadis atau janda?" Dia (Jabir) berkata; Saya menjawab; Dengan seorang janda, wahai Rasulullah! Beliau bersabda: "Kenapa tidak dengan seorang gadis, agar kamu bisa bercumbu rayu dengannya dan dia bisa bercumbu rayu denganmu? -Atau beliau bersabda: - Kamu bisa bersenda gurau dengannya dan dia bisa bersenda gurau denganmu?" Dia (Jabir) berkata; Saya berkata; Sesungguhnya Abdullah (ayah Jabir) telah meninggal dunia dengan meninggalkan sembilan anak perempuan atau tujuh anak perempuan, dan saya tidak suka jika saya menikah dengan orang yang sepadan dengan mereka, namun saya lebih suka menikah dengan wanita yang bisa mengurus mereka dan bisa membuat mereka baik. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Semoga Allah memberkahimu." atau beliau mendo'akan kebaikan kepadaku. Dan dalam riwayatnya Abu Rabi'; "Agar kamu dapat mencumbunya dan dia dapat mencumbumu atau kamu dapat bersenda gurau dengannya dan dia dapat bersenda gurau denganmu." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Jabir bin Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku; "Wahai Jabir, apakah kamu telah menikah?" Kemudian dia meyebutkan hadits ini hingga perkataan Jabir; Seorang wanita yang dapat bisa mengurus mereka dan menisir rambut mereka. Beliau bersabda: "Kamu benar." Dan dia tidak menyebutkan setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3638</td></tr><tr><td>Arabic No</td><td>715.06</td></tr><tr><td>Reference</td><td>Book 17 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3638</td></tr><tr><td>Arabic No</td><td>715.06</td></tr><tr><td>Reference</td><td>Book 17 Hadith 71</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hammad said:I heard Ayyub say: Two kinds of people have lied to al-Hasan: people
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] ia berkata; telah menceritakan kepada kami [Hammad] ia berkata; Aku mendengar [Ayyub] berkata, "Ada dua kelompok yang mendustakan Al Hasan; kelompok yang mengatakan bahwa takdir adalah kreasi mereka sendiri, mereka ingin menyebarkan fitnah kemunafikkan dengan pernyataan mereka itu; kelompok yang hatinya benci kepada Al Hasan. Mereka berkata, "Bukahkah Al Hasan mengatakan begini? Bukankah Al Hasan mengatakan begini?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4622</td></tr><tr><td>Arabic No</td><td>4622</td></tr><tr><td>Reference</td><td>Book 42 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Айюб сказал: «На аль-Хасана возводят ложь две категории людей: те, кто хочет поднять свой авторитет, и люди, в сердцах которых злоба и ненависть, и они говорят: “Разве не сказал он то-то? Разве не сказал он то-то?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4622</td></tr><tr><td>Arabic No</td><td>4622</td></tr><tr><td>Reference</td><td>Book 42 Hadith 27</td></tr></tbody></table></div>
 

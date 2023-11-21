@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) recited the following Verse) in the u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Nashr bin 'Ali] telah mengabarkan kepada kami [Abu Ahmad] dari [Sufyan] dari [Abu Ishaq] dari [Al Aswad bin Yazid] dari ['Abdullah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam membaca "Fahal min muddakir", seperti bacaan bahasa orang umum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3341</td></tr><tr><td>Arabic No</td><td>3341</td></tr><tr><td>Reference</td><td>Book 60 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ читал «Найдётся ли поминающий?», обычным (распространённым) чтением
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3341</td></tr><tr><td>Arabic No</td><td>3341</td></tr><tr><td>Reference</td><td>Book 60 Hadith 16</td></tr></tbody></table></div>
 

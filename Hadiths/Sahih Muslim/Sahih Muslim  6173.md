@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported Allah's Messenger (ﷺ) as saying:If I were to choose from my 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] lafazh ini milik Ibnu Al Mutsanna keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Abu Al Ahwash] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: Seandainya saya dibolehkan menjadikan seorang kekasih dari umatku, maka aku akan menjadikan Abu Bakr sebagai kekasih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6173</td></tr><tr><td>Arabic No</td><td>2383.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6173</td></tr><tr><td>Arabic No</td><td>2383.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 5</td></tr></tbody></table></div>
 

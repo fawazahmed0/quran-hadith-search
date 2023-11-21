@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:I heard Sa'd saying, "I was the first amongst the 'Arabs who shot 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Amru bin 'Aun] telah bercerita kepada kami [Khalid bin ab] dari [Isma'il] dari [Qais] berkata, aku mendengar [Sa'ad radliallahu 'anhu] berkata; 'Sugguh aku adalah orang Arab yang pertama kali melepaskan anak panah di jalan Allah. Kami pernah berperang bersama Nabi shallallahu 'alaihi wasallam yang ketika itu kami tidak memiliki makanan kecuali dedaunan pohon, hingga seorang diantara kami buang air besar bagaikan unta atau kambin g buang air besar. Kotoran kami tak ada campurannya apa-apa sehingga nampak kering. Kemudian Banu Asad datang mengajari kami tentang Islam. Sungguh aku telah rugi dan sia-sia amalku (kalau penduduk Kufah mengatakan sholatku kurang beres). Sa'd katakana yang demikian karena penduduk Kufah mengadukan kepada 'Umar dan menyampaikan bahwa Sa'd tidak bagus cara shalatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3728</td></tr><tr><td>Arabic No</td><td>3728</td></tr><tr><td>Reference</td><td>Book 62 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д, да будет доволен им Аллах, сказал: «Поистине, я был первым арабом, выпустившим из лука стрелу на пути Аллаха, и нам случалось совершать военные походы вместе с Пророком ﷺ, когда не было у нас никакой иной еды, кроме листьев деревьев, от которых испражнения людей напоминали собой сухой верблюжий или овечий помёт. А теперь люди из племени бану асад обвиняют меня в том, что я плохо совершаю молитву. Если бы это было так, я потерпел бы неудачу, а мои деяния стали бы тщетными». Эти люди жаловались ‘Умару, утверждая, что Са’д плохо совершает молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3728</td></tr><tr><td>Arabic No</td><td>3728</td></tr><tr><td>Reference</td><td>Book 62 Hadith 75</td></tr></tbody></table></div>
 

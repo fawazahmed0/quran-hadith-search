@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salamah ibn al-Akwa': I said: Messenger of Allah, I am a man who goes o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Qa'nabi'] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Musa bin Ibrahim] dari [Salamah bin Al-Akwa'] dia berkata; Saya pernah bertanya; Ya Rasulullah, saya sedang berburu, apakah saya boleh shalat dengan menggunakan sehelai baju? Beliau menjawab: "Ya, dan ikatlah dia walau hanya dengan duri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>632</td></tr><tr><td>Arabic No</td><td>632</td></tr><tr><td>Reference</td><td>Book 2 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма ибн аль-Акуа‘ сказал: «(Однажды) я сказал: “О Посланник Аллаха, поистине, я человек занимающийся охотой (асид), так могу ли я совершать молитву в одной рубахе?”».(Посланник Аллаха ﷺ), сказал: «Да, и застегни её хотя бы колючкой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>632</td></tr><tr><td>Arabic No</td><td>632</td></tr><tr><td>Reference</td><td>Book 2 Hadith 242</td></tr></tbody></table></div>
 

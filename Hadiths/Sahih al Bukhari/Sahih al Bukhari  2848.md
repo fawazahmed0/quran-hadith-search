@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Malik bin Al-Huwairith:On my departure from the Prophet (ﷺ) he said t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Yunus] telah bercerita kepada kami [Abu Syihab] dari [Khalid Al Hadzdza'] dari [Abu Qilabah] dari [Malik bin Al Huwairits] berkata; Aku berpamitan pulang kepada Nabi shallallahu 'alaihi wasallam lalu Beliau bersabda kepada kami, aku dan sahabatku: "Adzanlah lalu qomat dan hendaklah yang menjadi imam siapa yang paling tua usianya diantara kalian berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2848</td></tr><tr><td>Arabic No</td><td>2848</td></tr><tr><td>Reference</td><td>Book 56 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Малик бин аль-Хуэйрис сказал: «Когда я уходил от Пророка ﷺ, он сказал мне и моему другу: “Произносите азан и икаму (для совершения молитвы), и пусть старший из вас будет для вас имамом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2848</td></tr><tr><td>Arabic No</td><td>2848</td></tr><tr><td>Reference</td><td>Book 56 Hadith 64</td></tr></tbody></table></div>
 

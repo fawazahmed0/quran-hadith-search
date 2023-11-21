@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I stayed overnight in the house of my aunt Maimuna. Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] Telah mengabarkan kepada kami [Muhammad bin Ja'far] berkata; Telah mengabarkan kepadaku [Syarik bin 'Abdullah bin Abu Namir] dari [Kuraib] dari [Ibnu 'Abbas radliallahu 'anhuma] dia berkata; suatu ketika aku bermalam di rumah bibiku Maimunah, aku mendengar Rasulullah shallallahu 'alaihi wasallam berbincang-bincang bersama istrinya sesaat. Kemudian beliau tidur. Tatkala tiba waktu sepertiga malam terakhir, beliau duduk dan melihat ke langit lalu beliau membaca; "Sesungguhnya dalam penciptaan langit dan bumi, dan silih bergantinya malam dan siang terdapat tanda-tanda bagi orang-orang yang berakal." (Ali Imran; 190). Lalu beliau berwudlu dan bersiwak, kemudian shalat sebelas raka'at. Setelah mendengar Bilal adzan, beliau shalat dua raka'at kemudian beliau keluar untuk shalat subuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4569</td></tr><tr><td>Arabic No</td><td>4569</td></tr><tr><td>Reference</td><td>Book 65 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббаса, да будет доволен Аллах им и его отцом, сказал: «Однажды я остался на ночь у своей тёти по материнской линии Маймуны. И Посланник Аллаха ﷺ поговорив немного со своей семьёй, затем лёг спать. Когда настала последняя треть ночи, (Посланник Аллаха ﷺ) сел, посмотрел на небо и прочитал (слова Всевышнего): “Поистине, в сотворении небес и земли, а также в смене ночи и дня заключены знамения для обладающих разумом”. Затем он встал, совершил малое омовение, почистил зубы сиваком и совершил молитву в одиннадцать рак‘атов. Затем Биляль призвал на (утреннюю молитву) и (Посланник Аллаха ﷺ) совершил два рак‘ата, а затем вышел и совершил с людьми обязательную утреннюю молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4569</td></tr><tr><td>Arabic No</td><td>4569</td></tr><tr><td>Reference</td><td>Book 65 Hadith 91</td></tr></tbody></table></div>
 

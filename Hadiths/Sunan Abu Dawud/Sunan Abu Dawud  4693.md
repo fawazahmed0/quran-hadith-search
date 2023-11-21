@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Musa al-Ash’ari reported the Messenger of Allah (May peace be upon him) as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] bahwa [Yazid bin Zurai'] dan [Yahya bin Sa'id] menceritakan kepada mereka, keduanya berkata; telah menceritakan kepada kami [Auf] ia berkata; telah menceritakan kepada kami [Qasamah bin Zuhair] ia berkata; telah menceritakan kepada kami [Abu Musa Al Asy'ari] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah menciptakan Adam dari segenggam tanah dari semua jenis tanah. Kemudian keturunannya datang beragam sesuai dengan unsur tanahnya. Ada di antara mereka yang berkulit merah, putih, hitam, dan antara warna-warna itu. Ada yang lembut dan ada yang kasar, ada yang buruk dan ada yang baik." Dan ada tambahan dalam hadits Yahya; "dan ada pula di antara (sifat) itu", adapun lafadz (redaksi) hadits di atas adalah riwayat Yazid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 42 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Мусы аль-Аш‘ари, что Посланник Аллаха ﷺ сказал: «Поистине, Аллах сотворил Адама из пригоршни почвы, которую собрал Он со всей земли, и потомки Адама получились такими, какой была эта земля: среди них есть краснокожие и белокожие, чернокожие и обладатели кожи других оттенков, с хорошим характером и с трудным, скверные и хорошие». А в версии Яхьи имеется добавление: «… и средние»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 42 Hadith 98</td></tr></tbody></table></div>
 

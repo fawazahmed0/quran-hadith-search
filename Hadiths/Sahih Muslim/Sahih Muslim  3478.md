@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sufyan reported on the basis of the same chain of transmitters (and the words ar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari [Ziyad bin Sa'ad] dari [Abdullah bin Fadll] bahwa dia mendengar [Nafi' bin Jubair] mengabarkan dari [Ibnu Abbas] bahwasannya Nabi shallallahu 'alaihi wasallam bersabda: "Seorang janda lebih berhak atas dirinya daripada walinya, sedangkan perawan (gadis) harus dimintai izin darinya, dan diamnya adalah izinnya." Dan telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Sufyan] dengan isnad ini, beliau bersabda: "Seorang janda lebih berhak atas dirinya daripada walinya, sedangkan perawan (gadis), maka ayahnya harus meminta persetujuan atas dirinya, dan persetujuannya adalah diamnya." Atau mungkin beliau bersabda: "Dan diamnya adalah persetujuannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3478</td></tr><tr><td>Arabic No</td><td>1421.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3478</td></tr><tr><td>Arabic No</td><td>1421.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 80</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:The Messenger of Allah (ﷺ) recited the supplication in the n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdurrahman bin Ibrahim], telah menceritakan kepada Kami [Al Walid], telah menceritakan kepada Kami [Al Auza'i], telah menceritakan kepadaku [Yahya bin Abu Katsir], telah menceritakan kepadaku [Abu Salamah bin Abdurrahman] dari [Abu Hurairah], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam melakukan qunut pada saat shalat Isya' selama satu bulan, ketika qunut beliau berdoa: "Ya Allah, selamatkan Al Walid bin Al Walid, ya Allah, selamatkan Salamah bin Hisyam, ya Allah, selamatkan orang-orang mukmin yang lemah, ya Allah, keraskan siksaMu kepada Mudhar, ya Allah, jadikan siksaMu kepada mereka selama bertahun-tahun seperti beberapa tahun yang dialami Yusuf." Abu Hurairah berkata; pada suatu pagi beliau tidak mendoakan untuk mereka, kemudian aku tanyakan hal tersebut kepada beliau, kemudian beliau berkata: "Bagaimana pendapatmu, sementara mereka telah meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (675)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1442</td></tr><tr><td>Arabic No</td><td>1442</td></tr><tr><td>Reference</td><td>Book 8 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах: «Однажды Посланник Аллаха ﷺ в течение месяца совершал кунут во время вечерней молитвы, говоря: “О Аллах, спаси аль-Валида ибн аль-Валида! О Аллах, спаси Саляму ибн Хишама! О Аллах, спаси слабых из числа верующих! О Аллах, будь суров с племенем мудар! О Аллах, сделай так, чтобы голод продолжался для них столько же, сколько и во времена (пророка) Юсуфа!” А потом в один из дней он встал утром, и в этот день он не стал обращаться к Аллаху с этими мольбами. Я спросил его, в чём дело, и он сказал: “Разве ты не видишь, что они вернулись?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (675)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1442</td></tr><tr><td>Arabic No</td><td>1442</td></tr><tr><td>Reference</td><td>Book 8 Hadith 27</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:I asked the Prophet (about the hunting dogs) and he repl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Ibnu Abu As Safar] dari [Asy Sya'bi] dari ['Adi bin Hatim] berkata, "Aku bertanya kepada Nabi shallallahu 'alaihi wasallam, beliau lalu menjawab: "Jika kamu melepas anjing buruanmu yang telah terlatih lalu ia mendapatkan hasil buruan, maka makanlah hasil buruannya. Jika anjing itu memakannya maka kamu jangan memakannya, sebab ia menangkap untuk dirinya sendiri." Aku lalu bertanya lagi, "Aku melepas anjing buruanku, lalu aku mendapati anjinglain bersama dengan anjingku?" Beliau menjawab: "Jangan kamu makan, karena kamu membaca basmalah untuk anjingmu dan tidak untuk anjing yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>175</td></tr><tr><td>Arabic No</td><td>175</td></tr><tr><td>Reference</td><td>Book 4 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим сказал: «(Однажды) я задал вопрос Пророку ﷺ и он сказал: “Когда спустишь свою обученную собаку и она убьёт (дичь), то ешь (это). Если же она (начала) есть (от дичи), то не ешь это, так как она поймала её для себя”. Я спросил: “А если я отправил свою собаку и нашёл с ней другую собаку?” Он сказал: “Тогда не ешь это, поскольку ты помянул имя Аллаха над своей собакой, и не делал этого над другой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>175</td></tr><tr><td>Arabic No</td><td>175</td></tr><tr><td>Reference</td><td>Book 4 Hadith 41</td></tr></tbody></table></div>
 

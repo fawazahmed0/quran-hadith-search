@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], katanya; Aku bacakan kepada [Malik] dari [Nafi'] dari [Ibn Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa kehilangan shalat ashar, seolah-olah ia kehilangan keluarga dan hartanya." Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid], katanya; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Salim] dari [Ayahnya]. 'Amru mengatakan; dan telah sampai kepadanya, sedangkan Abu Bakr mengatakan; "Dan 'Amru memarfu'kannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1417</td></tr><tr><td>Arabic No</td><td>626.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «(Человек), пропускающий послеполуденную молитву, подобен тому, кто лишился своей семьи и имущества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1417</td></tr><tr><td>Arabic No</td><td>626.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 251</td></tr></tbody></table></div>
 

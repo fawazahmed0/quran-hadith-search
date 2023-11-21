@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said:When the Messenger of Allah (ﷺ) stood up for praying at midn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abu Az Zubair] dari [Thawus] dari [Ibnu Abbas] bahwa; "Apabila Rasulullah shallallahu 'alaihi wasallam hendak mengerjakan shalat malam, beliau berdo'a; "ALLAHUMMA LAKAL HAMDU ANTA NUURUS SAMAAWAATI WAL ARDLI WALAKAL HAMDU ANTA QAYYAMAS SAMAAWAATI WAL ARDLI WALAKAL HAMDU ANTA RABBUS SAMAAWAATI WAL ARDLI WAMAN FIIHINNA, ANTAL HAQQU WAQAULUKAL HAQQU WAWA'DUKAL HAQQU WANNAARU HAQQUN, WAS SAA'ATU HAQQUN, ALLAHUMMA LAKA ASLAMTU WABIKA AAMANTU WA'ALAIKA TAWAKKALTU WA ILAIKA ANABTU WABIKA KHAASHAMTU WA ILAIKA HAAKAMTU, FAGHFIRLII MAA QADDAMTU WA AKKHARTU WA ASRARTU WA A'LANTU ANTA ILAAHI LAA ILAAHA ILLA ANTA (Ya Allah, hanya untuk Engkau segala pujian, Engkau lah cahaya langit dan bumi, hanya untuk Engkau lah segala pujian, Engkau lah pemelihara langit dan bumi, dan hanya untuk Engkau-lah segala pujian, Engkau Maha pengatur langit dan bumi serta segala isinya, Engkau lah Al Haqq, firman-Mu juga Haqq, surga itu haq, janji Engkau juga haq, hari kiamat itu haq, Ya Allah, kepada Engkau lah aku berserah diri, kepada-Mu aku beriman, kepada-Mu aku bertawakkal, kepada-Mu aku akan kembali, dan aku berjuang bersama-Mu, dan aku berpedoman kepada hukum-hukum-Mu, maka ampunilah dosa-dosaku yang telah lalu dan yang akan datang, baik yang samar maupun yang terang, Engkau lah Rabb ku tidak ada ilah selain Engkau)." Telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Khalid yaitu Ibnu Al Harits] telah menceritakan kepada kami ['Imran bin Muslim] bahwa [Qais bin Sa'd] telah menceritakan kepadanya, katanya; telah menceritakan kepada kami [Thawus] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam dalam shalat tahajjud, yaitu setelah mengucapkan "Allahu akbar" beliau biasa mengucapkan do'a…" kemudian dia menyebutkan makna haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (769)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>771</td></tr><tr><td>Arabic No</td><td>771</td></tr><tr><td>Reference</td><td>Book 2 Hadith 381</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса (да будет доволен Аллах ими обоими) о том, что обычно, когда Посланник Аллаха ﷺ приступал к молитве глубокой ночью, он говорил: «О Аллах, хвала Тебе, Ты свет небес, земли. И Тебе хвала, Ты блюститель небес и земли. И хвала Тебе, Ты Господь небес, земли и тех, кто там обитает. Ты Истина, и слово Твоё истина, и обещание Твоё истина, и встреча с Тобой истина, и Рай истина, и (адский) Огонь истина, и Час этот истина. О Аллах, Тебе я предаюсь, в Тебя я верую, на Тебя уповаю, к Тебе обращаюсь, благодаря Тебе веду споры и к Тебе на суд обращаюсь, прости же мне то, что я уже совершил, (и то, чего) я ещё не совершал, то, что я делал тайно и что делал открыто. Ты мой бог, и нет божества достойного поклонения, кроме Тебя! /Аллахумма, лака-ль-хамду, Анта нуру-с-самавати, ва-ль-ард. Ва лака-ль-хамду, Анта Къаййиму-с-самаввати, ва-ль-ард. Ва лака-ль-хамду, Анта рабу-с-самавати валь-арди ва манн фийхинна, Анта-ль-Хаккъу, ва къаулюка-ль-хаккъу, ва ва‘дука-ль-хаккъу, ва ликъаука хаккъун, валь-джаннату хаккъун, ва-н-нару хаккъун, ва-с-са‘ату хаккъун! Аллахумма, лака аслямту, ва бика аманту, ва ‘алейка таваккальту, ва илейка анабту, ва бика хасамту, ва илейка хакамту, фа-гъфир ли ма къаддамту, ва аххарту, ва асрарту, ва а‘лянту! Анта иляхи, ля иляха илля Анта/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (769)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>771</td></tr><tr><td>Arabic No</td><td>771</td></tr><tr><td>Reference</td><td>Book 2 Hadith 381</td></tr></tbody></table></div>
 

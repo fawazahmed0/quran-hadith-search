@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim narrated it from his father ('Abdullah b. Umar) that the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru an-Naqid] dan [Zuhair bin Harb] semuanya meriwayatkan dari [Ibnu Uyainah], [Zuhair] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dia mendengar [Salim] bercerita dari [Bapaknya] yang merafa'kan kepada Nabi Shallallahu'alaihiwasallam, beliau bersabda, "Apabila istri salah seorang dari kalian meminta izin kepada kalian ke masjid maka janganlah dia melarangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>988</td></tr><tr><td>Arabic No</td><td>442.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим передал от своего отца, что Пророк ﷺ сказал: «Если жена кого-то из вас попросит у него разрешения отправиться в мечеть, то не запрещайте ей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>988</td></tr><tr><td>Arabic No</td><td>442.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 150</td></tr></tbody></table></div>
 

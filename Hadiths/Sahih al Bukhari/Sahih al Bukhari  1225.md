@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Buhaina:Allah's Messenger (ﷺ) got up after the second r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Yahya bin Sa'id] dari ['Abdurrahman Al A'raj] dari ['Abdullah Ibnu Buhainah radliallahu 'anhu] bahwa dia berkata; "Rasulullah shallallahu 'alaihi wasallam berdiri dari dua raka'at shalat Zhuhur dan tidak duduk diantaranya. Setelah Beliau menyelesaikan shalatnya, Beliau sujud dua kali lalu memberi salam setelah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1225</td></tr><tr><td>Arabic No</td><td>1225</td></tr><tr><td>Reference</td><td>Book 22 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Бухайна, да будет доволен им Аллах, сказал: «Однажды Посланник Аллаха ﷺ совершал с нами молитву зухр и не сел после двух рак‘атов. В конце молитвы, он совершил два земных поклона и после этого произнёс таслим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1225</td></tr><tr><td>Arabic No</td><td>1225</td></tr><tr><td>Reference</td><td>Book 22 Hadith 2</td></tr></tbody></table></div>
 

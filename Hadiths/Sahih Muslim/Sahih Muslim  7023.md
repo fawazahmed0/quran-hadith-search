@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that a person was charged with fornication with the slavegirl of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Affan] Telah menceritakan kepada kami [Hammad bin Salamah] Telah mengabarkan kepada kami [Tsabit] dari [Anas] bahwa ada seorang laki laki yang dituduh berzina dengan istri Rasulullah shallallahu 'alaihi wasallam. maka Rasulullah shallallahu 'alaihi wasallam berkata kepada Ali: pergilah, dan penggallah lehernya (karena kemunafikannya). lalu Ali mendatanginya yang ternyata ia sedang mendinginkan dirinya dalam sebuah sumur kecil, Ali berkata padanya: Keluarlah! kemudian Ali menarik tangannya dan ternyata dia adalah seorang laki-laki yang terputus kemaluannya, Maka Ali pun tidak membunuhnya. Lalu Ali datang kepada Rasulullah shallallahu 'alaihi wasallam Seraya berkata; Ya Rasulullah sesungguhnya dia adalah laki laki yang terputus kemaluannya (tidak mempunyai kemaluan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7023</td></tr><tr><td>Arabic No</td><td>2771</td></tr><tr><td>Reference</td><td>Book 50 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7023</td></tr><tr><td>Arabic No</td><td>2771</td></tr><tr><td>Reference</td><td>Book 50 Hadith 68</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. 'Uthman Taimi reported on the authority of his father:While we 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] telah mengabarkan kepadaku [Muhammad bin Al Munkadir] dari [Mu'adz bin Abdurrahman] dari [Mu'adz bin Abdurrahman bin Utsman At Tamimi] dari [bapaknya] ia berkata; Kami pernah melakukan Ihram bersama-sama dengan Thalhah bin Ubaidullah. Kemudian ia diberi hadiah burung saat ia tertidur. Lalu di antara kami ada yang memakannya dan ada pula yang enggan. Ketika Thalhah bangun, ia pun mendapati orang yang memakannya, maka ia berkata; Kami pernah memakannya bersama Rasulullah shallallahu 'alaihi wasallam (saat ihram)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2860</td></tr><tr><td>Arabic No</td><td>1197</td></tr><tr><td>Reference</td><td>Book 15 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2860</td></tr><tr><td>Arabic No</td><td>1197</td></tr><tr><td>Reference</td><td>Book 15 Hadith 70</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) forbade (to do certain th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Ahmad bin Abu Khalaf] Telah menceritakan kepada kami [Zakaria bin Adi] telah mengabarkan kepada kami [Ubaidullah bin Amru] dari [Zaid] dari [Adi bin Tsabit] dari [Abu Hazim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bahwa beliau melarang -ia pun menyebutnya- dan beliau bersabda: "Siapa yang meminjamkan hewan ternak untuk diperah susunya di pagi dan sore hari, maka ia telah bersedekah di pagi dan sore harinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2358</td></tr><tr><td>Arabic No</td><td>1020</td></tr><tr><td>Reference</td><td>Book 12 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Тот, кто даст (кому-либо, для временного пользования) родившую верблюдицу, которая даёт много молока, (или овцу, дающую много молока), будет получать награду как утром, так и вечером, за утреннюю (дойку) и за вечернюю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2358</td></tr><tr><td>Arabic No</td><td>1020</td></tr><tr><td>Reference</td><td>Book 12 Hadith 95</td></tr></tbody></table></div>
 

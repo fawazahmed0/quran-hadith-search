@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), l'Envoyé de Dieu (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Hajjaj bin Muhammad] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku ['Atha'] bahwa dia mendengar ['Ubaid bin 'Umair] mengabarkan bahwa dia mendengar ['Aisyah] mengabarkan bahwa ketika Nabi shallallahu 'alaihi wasallam tinggal di rumahnya Zainab binti Jahsyi, beliau minum madu, (Aisyah) melanjutkan; Kemudian saya dan Hafshah saling berpesan, yaitu kepada siapa di antara kami yang didatangi Nabi shallallahu 'alaihi wasallam lebih dulu, maka ia harus mengatakan; Sesungguhnya saya mencium darimu bau maghafir (yaitu jenis buah yang manis dan berbau tidak sedap), apakah anda memakan buah Maghafir? Lalu beliau menemui salah satu dari mereka, maka salah satu dari mereka mengatakan (pesan yang telah disepakati), jawab beliau: "Tidak, akan tetapi saya meminum madu di sisi Zainab binti Jahsy, dan saya tidak akan mengulanginya lagi." Maka turunlah ayat: "Mengapa kamu mengharamkan apa yang d halalkan Allah untukmu-sampai Firman-Nya- jika kamu berdua bertaubat -yaitu Aisyah dan Hafshah- dan ingatlah ketika Nabi membicarakan secara rahasia kepada salah seorang dari istri-istrinya suatu peristiwa." (At Tahrim: 1-3). Yaitu berkenaan dengan sabda beliau: "Tetapi saya meminum madu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3678</td></tr><tr><td>Arabic No</td><td>1474.01</td></tr><tr><td>Reference</td><td>Book 18 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3678</td></tr><tr><td>Arabic No</td><td>1474.01</td></tr><tr><td>Reference</td><td>Book 18 Hadith 27</td></tr></tbody></table></div>
 

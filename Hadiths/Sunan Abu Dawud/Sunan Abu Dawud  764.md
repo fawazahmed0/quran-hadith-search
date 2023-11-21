@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jubayr ibn Mut'im: Jabir saw the Messenger of Allah (ﷺ) observing pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Marzuq] telah mengabarkan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari ['Ashim Al 'Anazi] dari [Ibnu Jubair bin Muth'im] dari [ayahnya] bahwa dia melihat Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat, -'Amru mengatakan; Aku tidak tahu shalat apa yang sedang di kerjakan beliau- beliau mengucapkan; "ALLAHU AKBAR KABIIRA, ALLAHU AKBAR KABIIRA, ALLAHU AKBAR KABIIRAW WAL HAMDU LILLAAHI KATSIRA WAL HAMDU LILLAHI KATSIIRA WAL HAMDU LILLAHI KATSIRA WA SUBHAANALLAHI BUKRATA WA ASHIILA -tiga kali- A'UUDZU BILLAHI MINAS SYAITHAANI MIN NAFKHIHI WA NAFSIHI WA HAMAZIHI (Allah Maha Besar sungguh Maha Besar, Allah Maha Besar sungguh Maha Besar, Allah Maha Besar sungguh Maha Besar, dan segala puji bagi Allah dengan pujian yang banyak, segala puji bagi Allah dengan pujian yang banyak, segala puji bagi Allah dengan pujian yang banyak, dan Maha suci Allah pada pagi hari dan sore -sebanyak tiga kali- Aku berlindung kepada Allah dari godaan syetan, dari nafkh-nya, nafts-nya serta hamz-nya." Perawi berkata; nafts adalah syairnya, an-nafkh adalah kesombongannya sedangkan hamznya adalah kegilaan." Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Mis'ar] dari [Mis'ar] dari ['Amru bin Murrah] dari [seorang laki-laki] dari [Nafi' bin Jubair] dari [ayahnya] dia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam mengucapkan dalam shalat sunnahnya…" kemudian dia menyebutkan hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 2 Hadith 374</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Джубайра ибн Мут‘има о том, что его отец рассказывал, что он видел, как Посланник Аллаха ﷺ совершал молитву. ‘Амр (ибн Мурра) сказал: «Но я не знаю, какую молитву именно». И он сказал: «Аллах велик, намного (более велик, чем всё остальное), Аллах велик, намного (более велик, чем всё остальное), Аллах велик, намного (более велик, чем всё остальное), многая хвала Аллаху, многая хвала Аллаху, многая хвала Аллаху, пречист Аллах утром и вечером! /Аллаху акбару кабиран, Аллаху акбару кабиран, Аллаху акбару кабиран, валь-хамду ли-Ллахи касиран, валь-хамду ли-Ллахи касиран, валь-хамду ли-Ллахи касиран, ва субхана-Ллахи букратан ва асылан, ва субхана-Ллахи букратан ва асылан, ва субхана-Ллахи букратан ва асылан!/ трижды. Прибегаю к защите Аллаха от шайтана: от его дуновения, от выделения его слюны и от его наущений /А‘узу би-Лляхи мин-аш-шайтани, мин нафхихи, ва нафсихи, ва хамзихи/».(‘Амр) сказал: «Его слюна это поэзия; его дуновение это высокомерие; его наущения это безумие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 2 Hadith 374</td></tr></tbody></table></div>
 

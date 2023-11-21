@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) performed four 'Umras, all in the month of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hudbah bin Khalid] telah menceritakan kepada kami [Hammam] dari [Qatadah] bahwa [Anas radliallahu 'anhu] mengabarkan kepadanya, ia berkata; Rasulullah shallallahu 'alaihi wasallam melaksanakan 'umrah sebanyak empat kali, semuanya pada bulan Dzul Qa'dah kecuali 'umrah yang beliau laksanakan bersama hajji beliau, yaitu 'umrah beliau dari Hudaibiyyah pada bulan Dzul Qa'dah dan 'umrah pada tahun berikutnya pada bulan Dzul Qa'dah dan 'umrah dari Al Ji'ranah ketika beliau membagi-bagikan harta rampasan perang (ghanimah) Hunain pada bulan Dzul Qa'dah dan 'Umrah bersama hajji yang beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4148</td></tr><tr><td>Arabic No</td><td>4148</td></tr><tr><td>Reference</td><td>Book 64 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ совершил умру четыре (раза), все в (месяце) зуль-ка‘да, кроме той, которую он совершил во время хаджа: это его умра из аль-Худайбиййи в (месяце) зуль-ка‘да и умра, которую он совершил на следующий год в (месяце) зуль-ка‘да, так же умра, которую он совершил из аль-Джи‘раны, где он разделил военную добычу Хунайна в месяце зуль-ка‘да, и другая умра, которую он совершил вместе с хаджем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4148</td></tr><tr><td>Arabic No</td><td>4148</td></tr><tr><td>Reference</td><td>Book 64 Hadith 192</td></tr></tbody></table></div>
 

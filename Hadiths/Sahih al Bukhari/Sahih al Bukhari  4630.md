@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "Nobody has the rights to say that I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ibnu Mahdi] Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Abu Al 'Aliyah] dia berkata; Telah menceritakan kepadaku putra paman nabi kalian yaitu [Ibnu Abbas radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidak layak bagi seorang hamba untuk mengatakan: 'Saya lebih baik daripada Yunus bin Mata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4630</td></tr><tr><td>Arabic No</td><td>4630</td></tr><tr><td>Reference</td><td>Book 65 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Не следует рабу говорить: “Я лучше, чем Йунус ибн Матта”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4630</td></tr><tr><td>Arabic No</td><td>4630</td></tr><tr><td>Reference</td><td>Book 65 Hadith 152</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar: During the time of Messenger of Allah (ﷺ) we used to buy g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Nafi'] dari [Ibnu Umar] bahwa ia berkata, "Pada masa Rasulullah shallallahu 'alaihi wasallam kami membeli makanan, kemudian beliau memerintahkan kepada dengan mengutus seseorang agar kami memindahkan makanan tersebut dari tempat kami membelinya ke tempat lain, sebelum kami menjualnya dengan tanpa penakaran dan penimbangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1527)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 24 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт: «Во времена Посланника Аллаха ﷺ мы покупали съестное, и он посылал к нам человека, который велел нам перевезти купленное в другое место, прежде чем мы продадим его. То есть мы покупали его оптом неотмеренное мерой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1527)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3493</td></tr><tr><td>Arabic No</td><td>3493</td></tr><tr><td>Reference</td><td>Book 24 Hadith 78</td></tr></tbody></table></div>
 

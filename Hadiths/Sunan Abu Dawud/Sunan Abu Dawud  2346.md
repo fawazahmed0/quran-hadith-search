@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Addressing (the people) Samurah b. Jundub reported the Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid], dari [Abdullah bin Sawadah Al Qusyairi] dari [ayahnya], saya mendengar [Samurah bin Jundab] berkhutbah, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah Adzan Bilal dan putih di ufuk yang demikian menghalangi dari sahur kalian hingga cahayanya telah menyebar dan meluas di ufuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1094)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2346</td></tr><tr><td>Arabic No</td><td>2346</td></tr><tr><td>Reference</td><td>Book 14 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Самуры ибн Джундуба, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Пусть ни азан Биляля, ни вот такая белизна на горизонте, пока она не распространится, не мешают вам совершать сухур»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1094)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2346</td></tr><tr><td>Arabic No</td><td>2346</td></tr><tr><td>Reference</td><td>Book 14 Hadith 34</td></tr></tbody></table></div>
 

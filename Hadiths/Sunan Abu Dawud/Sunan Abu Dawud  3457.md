@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbulWadi': We fought one of our battle, and encamped at a certain place
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Hammad] dari [Jamil bin Murrah], dari [Abu Al Wadhi'], ia berkata; kami melakukan peperangan kami, kemudian kami singgah di suatu tempat. Kemudian seorang sahabat kami menjual kuda dengan seorang budak. Kemudian mereka berdua tinggal pada sisa hari dan malam mereka berdua. Kemudian pada keesokan hari pasukan datang, kemudian pergi kepada kudanya untuk memberinya pelana. Maka ia merasa menyesal, lalu ia datang kepada laki-laki pemilik budak tersebut dan ingin membeli kuda tersebut. Lalu laki-laki pemilik budak tersebut menolak untuk menyerahkannya kepadanya. Lalu ia berkata; antaraku dan dirimu terdapat [Abu Barzah] seorang sahabat Nabi shallallahu 'alaihi wasallam. kemudian mereka berdua datang kepada Abu Barzah di pinggir pasukan. Kemudian mereka berdua menceritakan kisah ini kepadanya. Lalu ia berkata; apakah kalian berdua rela aku putuskan diantara kalian berdua dengan keputusan Rasulullah shallallahu 'alaihi wasallam? Rasulullah shallallahu 'alaihi wasallam bersabda: "Dua orang yang saling berjual beli memiliki hak memilih selama belum berpisah." [Hisyam bin Hassan] berkata; telah menceritakan kepada kami [Jamil] bahwa ia berkata; aku melihat kalian berdua tidak berpisah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 24 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аль-Вады передаёт: Когда мы участвовали в одном из военных походов и встали лагерем в одном месте, один наш товарищ продал одному человеку своего коня в обмен на раба. После этого они провели на том же месте остаток дня и ночь, а наутро, когда пришло время отправляться в путь, этот человек стал седлать коня и пожалел о том, что продал его. Тогда он пришёл к другому, чтобы расторгнуть сделку и вернуть раба, но второй отказался возвращать ему коня. Тот сказал: «Пусть нас рассудит Абу Барза, сподвижник Пророка ﷺ». И они пошли к Абу Барзе, который был в другой части лагеря. Они рассказали ему свою историю, и он сказал: «Если желаете, я вынесу по вашему делу такое же решение, которое вынес в своё время Посланник Аллаха ﷺ. Посланник Аллаха ﷺ сказал: “У продавца и покупателя есть выбор, пока они не разошлись”».Передатчик Хишам ибн Хассан передал со слов Джамиля, что он сказал: «А я не считаю, что вы уже разошлись»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3457</td></tr><tr><td>Arabic No</td><td>3457</td></tr><tr><td>Reference</td><td>Book 24 Hadith 42</td></tr></tbody></table></div>
 

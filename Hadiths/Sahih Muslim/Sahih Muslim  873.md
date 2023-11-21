@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mutarrif reported:I and 'Imran b. Husain said prayer behind 'Ali b. Abu, Talib. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Khalaf bin Hisyam] semuanya dari [Hammad] berkata [Yahya] telah mengabarkan kepada kami [Hammad bin Zaid] dari [Ghailan] dari [Mutharrif] dia berkata, "Saya shalat bersama [Imran bin Hushain] di belakang Ali bin Abi Thalib, dahulu apabila dia bersujud maka bertakbir, dan apabila mengangkat kepalanya maka dia bertakbir, serta apabila berdiri dari dua raka'at maka dia bertakbir. Lalu ketika kami pulang dari shalat. Dia berkata, 'Imran memegang tanganku kemudian berkata, 'Sungguh orang ini telah mengimami kami dengan shalat Muhammad shallallahu 'alaihi wasallam atau orang ini telah mengingatkanku tentang shalat Muhammad Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>393</td></tr><tr><td>Reference</td><td>Book 4 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мутарриф сказал: «Однажды я совершал молитву вместе с ‘Имраном ибн Хусайн позади ‘Али ибн Аби Талиба. И когда он совершал земной поклон, он говорил: “Аллаху акбар” /такбир/, и когда поднимал голову говорил: “Аллаху акбар”. И когда он поднимался с двух рак‘атов, так же говорил: “Аллаху акбар”. Когда он закончил молитву, ‘Имран ибн Хусейн взял меня за руку и сказал: “Он совершил с нами молитву Мухаммада ﷺ”. Или он сказал: “Он напомнил мне молитву Мухаммада ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>393</td></tr><tr><td>Reference</td><td>Book 4 Hadith 36</td></tr></tbody></table></div>
 

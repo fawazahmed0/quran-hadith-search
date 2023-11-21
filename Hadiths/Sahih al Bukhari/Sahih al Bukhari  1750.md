@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-A'mash:I heard Al-Hajjaj saying on the pulpit, "The Sura in which Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dari ['Abdul Wahid] telah menceritakan kepada kami [Al A'masy] berkata; Aku mendengar Al Hajjaj berkata, dari atas mimbar: "Surah yang disebut didalamnya Al Baqarah dan surah yang disebut didalamnya Ali 'Imran dan surah yang didalamnya disebut tentang para wanita". Dia (Al A'masy) berkata: "Lalu aku sampaikan hal ini kepada [Ibrahim], maka dia berkata; telah menceritakan kepada saya ['Abdurrahman bin Yazid] bahwa dia pernah bersama [Ibnu Mas'ud radliallahu 'anhu] ketika melempar jumrah Al 'Aqabah, dia menuruni lembah hingga ketika sampai di sebuah pohon, dia berhenti dan dari situ melempar dengan tujuh kerikil dengan bertakbir pada setiap kerikil lemparannya lalu berkata: "Demi Dzat yang tidak ada ilah selain Dia, dari sinilah berdiri melempar seseorang yang diturunkan kepadanya surah Al Baqarah, yaitu Muhammad shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1750</td></tr><tr><td>Arabic No</td><td>1750</td></tr><tr><td>Reference</td><td>Book 25 Hadith 228</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что ‘Абдуррахман ибн Язид рассказывал, что он был вместе с Ибн Мас‘удом, да будет доволен им Аллах, когда он бросал камешки в большой столб. Он спустился в середину долины, и подойдя к дереву, встал напротив него и кинул семь камешков, произнося такбир, бросая каждый камешек. Затем он сказал: «Здесь, клянусь Тем, кроме Которого нет божества, достойного поклонения, стоял тот, кому была ниспослана сура “аль-Бакара” ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1750</td></tr><tr><td>Arabic No</td><td>1750</td></tr><tr><td>Reference</td><td>Book 25 Hadith 228</td></tr></tbody></table></div>
 

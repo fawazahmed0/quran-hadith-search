@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sahl Ibn Sa'd (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu [Ibnu Hazim] dari Abu Hazim dari [Sahl]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan lafazhnya adalah yang ini; Telah menceritakan kepada kami [Ya'qub] yaitu Ibnu 'Abdur Rahman dari [Abu Hazim]; Telah mengabarkan kepadaku [Sahl bin Sa'ad] bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda ketika terjadi perang Khaibar: "Sesungguhnya akan aku serahkan bendera perang ini kepada seorang laki-laki yang di tangannya Allah akan memberikan kemenangan bagi kaum muslimin. Ia mencintai Allah dan Rasulnya, serta sebaliknya yaitu bahwasanya Allah dan Rasulnya pun mencintainya." Sahal berkata; "Satu malam lamanya para sahabat bertanya-tanya; 'siapa di antara mereka yang ditugasi membawa bendera perang." Esok harinya, para sahabat dan kaum muslimin Iainnya datang menghadap Rasulullah shallallahu 'alaihi wasallam. Setiap orang dari mereka ingin diberi tugas untuk membawa bendera perang tersebut. Lalu Rasulullah bertanya; "Di mana Ali bin Abu Thalib?" Para sahabat menjawab; "Ia sedang menderita sakit mata ya Rasulullah." Rasulullah berkata, "Bawalah ia kemari!" Tak lama kemudian, Ali bin Abu Thalib datang menemui Rasulullah. Lalu Rasulullah meludahi kedua matanya dan berdoa untuk kesembuhannya. Tak lama kemudian kedua mata Ali sembuh tanpa ada rasa sakit lagi. Kemudian Rasulullah menyerahkan bendera perang itu kepadanya. Ali bin Abu Thalib bertanya; 'Ya Rasulullah, apakah saya harus memerangi kaum musyrikin hingga mereka menjadi orang-orang muslim seperiti kita? Rasulullah shallallahu 'alaihi wasallam menjawab: "Hai Ali, laksanakanlah tugasmu dengan baik dan tidak tergesa-gesa, hingga kamu tiba di wilayah mereka'. Setelah itu, serulah mereka untuk masuk ke dalam agama Islam beritahukan kepada mereka tentang kewajiban-kewajihan yang harus mereka lakukan di dalam ajaran Islam! Demi Allah, sungguh petunjuk Allah yang diberikan kepada seseorang (hingga Ia masuk Islam) melalui perantaraanmu, adalah lebih baik bagimu daripada kamu memperoleh nikmat yang melimpah ruah dari unta merah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6223</td></tr><tr><td>Arabic No</td><td>2406</td></tr><tr><td>Reference</td><td>Book 44 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6223</td></tr><tr><td>Arabic No</td><td>2406</td></tr><tr><td>Reference</td><td>Book 44 Hadith 53</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Umar said:When the Messenger of Allah (ﷺ) would go out (for prayer) on th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Hasan bin Ali] telah menceritakan kepada kami [Ibnu Numair] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwasanya apabila Rasulullah shallallahu 'alaihi wasallam hendak pergi melakukan shalat pada Hari Raya, beliau memerintahkan untuk membawa tombak, lalu ditancapkannya di depan beliau. lalu beliau shalat menghadap kepadanya, sementara orang-orang berdiri di belakang beliau. Hal itu juga dilakukan beliau sewaktu dalam perjalanan, yang kemudian dicontoh oleh para pemimpin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (494) Sahih Muslim (501)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>687</td></tr><tr><td>Arabic No</td><td>687</td></tr><tr><td>Reference</td><td>Book 2 Hadith 297</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара: «Когда Посланник Аллаха ﷺ выходил (на молитву) в день праздника, он приказывал втыкать перед ним (в землю) короткое копьё, после чего он совершал молитву обратившись к нему, а люди (молились) позади него. То же самое он делал находясь в пути, а потом этот (обычай) переняли и другие правители»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (494) Sahih Muslim (501)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>687</td></tr><tr><td>Arabic No</td><td>687</td></tr><tr><td>Reference</td><td>Book 2 Hadith 297</td></tr></tbody></table></div>
 

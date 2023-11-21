@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Urwah: The Prophet (ﷺ) said: If anyone brings barren land into cultiv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], telah menceritakan kepada kami [Abdul Wahhab] telah menceritakan kepada kami [Ayyub] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Sa'id bin Zaid] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barang siapa yang menghidupkan lahan yang mati maka lahan tesebut adalah miliknya, tidak ada hak bagi keringat yang zhalim." Telah menceritakan kepada kami [Hannad bin As Sari] telah menceritakan kepada kami ['Abdah] dari [Muhammad bin Ishaq] dari [Yahya bin 'Urwah] dari [ayahnya] bahwa Rasulullah shallallahu 'alaihi wasallam berkata: "Barang siapa yang menghidupkan lahan yang mati maka lahan tesebut adalah miliknya." Dan ia menyebutkan sesuatu yang sama dengannya. Ia berkata; sungguh telah telah mengabarkan kepadaku orang yang telah menceritakan kepadaku hadits ini, bahwa dua orang telah memperkarakan kepada Rasulullah shallallahu 'alaihi wasallam. Salah seorang diantara diantara mereka menanam pohon kurma di lahan orang lain. Kemudian beliau memutuskan bahwa orang yang memiliki lahan mendapatkan lahannya dan memerintahkan kepada pemilik pohon kurma agar mengeluarkan pohon kurma dari lahan tersebut. 'Urwah berkata; sungguh aku melihat pohon kurma tersebut akarnya telah ditebang menggunakan kapak. Sesungguhnya pohon kurma tersebut adalah pohon kurma yang sempurna tinggi dan lebatnya. Hingga pohon tersebut telah dikeluarkan darinya. Telah menceritakan kepada kami [Ahmad bin Sa'id Ad Darimi], telah menceritakan kepada kami [Wahb] dari [ayahnya], dari [Ibnu Ishaq] dengan sanad dan maknanya, hanya saja ia mengatakan pada perkataan (di tempat ia menceritakan kepadaku ini); kemudian seorang sahabat Nabi shallallahu 'alaihi wasallam berkata; dan perkiraan kuatku bahwa ia adalah [Abu Sa'id Al Khudri], dan aku melihat seorang laki-laki yang menebang akar pohon kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>3074</td></tr><tr><td>Reference</td><td>Book 20 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Урвы: «Человек, который передал мне эту историю, сказал, что два человека обратились к Посланнику Аллаха ﷺ с просьбой рассудить их. Один из них посадил пальмы на земле другого. И Посланник Аллаха ﷺ оставил владельцу земли его землю, а посадившему пальмы велел убрать пальмы. И я видел, как эти высокие пальмы рубили топором до тех пор, пока не убрали с той земли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>3074</td></tr><tr><td>Reference</td><td>Book 20 Hadith 147</td></tr></tbody></table></div>
 

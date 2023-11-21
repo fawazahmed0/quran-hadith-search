@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Dharr:I was sitting behind the Messenger of Allah (ﷺ) who was rid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3199، 4802، 4803) Sahih Muslim (159)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4002</td></tr><tr><td>Arabic No</td><td>4002</td></tr><tr><td>Reference</td><td>Book 32 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зарр, да будет доволен им Аллах, передаёт: «Я сидел на осле позади Посланника Аллаха ﷺ, а солнце как раз склонилось к закату, и Посланник Аллаха ﷺ сказал: “Знаешь ли ты, куда оно заходит?” Я ответил: “Аллах и Его Посланник знают об этом лучше”. Он сказал: “Оно садится в источник горячий /хамийа/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3199، 4802، 4803) Sahih Muslim (159)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4002</td></tr><tr><td>Arabic No</td><td>4002</td></tr><tr><td>Reference</td><td>Book 32 Hadith 34</td></tr></tbody></table></div>
 

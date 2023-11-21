@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been related by, Yazid b. al-Asamm that he heard Mu'awiya b. Abu Sfyan qu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Katsir bin Hasyim] telah menceritakan kepada kami [Ja'far] -yaitu Ibnu Burqan- telah menceritakan kepada kami [Yazid bin Al Asham] dia berkata; saya pernah mendengar [Mu'awiyah bin Abu Sufyan] menyebutkan hadits yang ia riwayatkan dari Nabi shallallahu 'alaihi wasallam, saya belum pernah mendengar dia meriwayatkan sebuah hadits dari mimbar beliau selain hadits tersebut. Mu'awiyah berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa Allah kehendaki untuk menjadi baik, maka Allah akan pahamkan ia dalam masalah agama. Dan senantiasa ada sekelompok dari kaum Muslimin yang memperjuangkan kebenaran dan selalu menang atas orang yang memusuhinya sampai hari Kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4956</td></tr><tr><td>Arabic No</td><td>1037.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4956</td></tr><tr><td>Arabic No</td><td>1037.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 251</td></tr></tbody></table></div>
 

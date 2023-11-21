@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Habban b. Wasi’ reported on the authority of his father who heard ‘Abd Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Amru bin As-Sarj] telah menceritakan kepada kami [Ibnu Wahb] dari [Amru bin Al Harits] bahwasanya [Habban bin Wasi'] telah menceritakan kepadanya bahwa [Ayahnya] telah menceritakan kepadanya bahwa dia telah mendengar [Abdullah bin Zaid bin 'Ashim Al-Mazini] menyebutkan bahwa dia pernah melihat wudhu Rasulullah shallallahu 'alaihi wasallam, lalu dia menyebutkan wudhu beliau dan berkata di dalamnya; Dan beliau mengusap kepalanya dengan air yang bukan sisa kedua tangannya dan membasuh kedua kakinya hingga membersihkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (236)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>120</td></tr><tr><td>Arabic No</td><td>120</td></tr><tr><td>Reference</td><td>Book 1 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Амра ибн Хариса о том, что Хаббан ибн Васи‘ со слов своего отца рассказывал ему, что тот слышал как ‘Абдуллах ибн Зейд ибн ‘Асым аль-Мазини рассказывал о том, что он видел Посланника Аллаха ﷺ и рассказывая о его омовении, он сказал: «И он обтёр свою голову не той водой, что оставалась на его руках, и затем он дочиста помыл ноги»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (236)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>120</td></tr><tr><td>Arabic No</td><td>120</td></tr><tr><td>Reference</td><td>Book 1 Hadith 120</td></tr></tbody></table></div>
 

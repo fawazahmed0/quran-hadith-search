@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hakam b. al-'Araj reported:I went to Ibn 'Abbas (Allah be Pleased with both of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki' bin Jarrah] dari [Hajib bin Umar] dari [Al Hakam bin Al A'raj] ia berkata; Aku pernah mendatangi [Ibnu Abbas] ketika ia sedang berbantal dengan selendangnya di dekat Zamzam, lalu aku berkata padanya, "Beritahukanlah kepadaku tentang puasa 'Asyura'." Ia menjawab, "Jika kamu telah melihat Hilal (bulan sabit) pada bulan Muharram, maka hitunglah, lalu berpuasalah sejak subuh pada hari ke sembilan." Aku bertanya, "Apakah Rasulullah shallallahu 'alaihi wasallam berpuasa seperti itu?" Ia menjawab, "Ya." Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id Al Qaththan] dari [Mu'awiyah bin Amru] Dan telah menceritakan kepadaku [Al Hakam bin Al A'raj] ia berkata; Saya bertanya kepada [Ibnu Abbas] radliallahu 'anhuma yang sedang berbantal dengan selendangnya di sisi Zamzam mengenai puasa di hari 'Asyura'. Yakni serupa dengan hadits Hajib bin Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2664</td></tr><tr><td>Arabic No</td><td>1133.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Хакам ибн аль-А‘радж сказал: «Я пришёл к Ибн ‘Аббасу, да будет доволен ими обоими Аллах, в то время как он лежал возле Замзама, подложив верхнюю накидку себе под голову. Я сказал ему: «Поведай мне о посте в день ‘Ашураъ». Он сказал: «Если увидишь молодой месяц мухаррама, то отсчитывай дни, и в девятый день постись». Я спросил: «Так постился Посланник Аллаха ﷺ в этот день?» Он сказал: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2664</td></tr><tr><td>Arabic No</td><td>1133.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 170</td></tr></tbody></table></div>
 

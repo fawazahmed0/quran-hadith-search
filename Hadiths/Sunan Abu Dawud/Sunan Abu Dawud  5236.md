@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by al-A’mash through a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] berkata, telah menceritakan kepada kami [Hafsh] dari [Al A'masy] dari [Abu As Safar] dari [Abdullah bin Amru] ia berkata, "Ketika aku dan ibuku membangun tembok milikku, Rasulullah shallallahu 'alaihi wasallam melewati kami. Beliau lalu bertanya: "Wahai Abdullah, apa ini?" Aku menjawab, "Sesuatu yang sedang aku perbaiki." Beliau bersabda: "Kematian lebih cepat datang dari rusaknya banguan itu." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Hannad] secara makna, keduanya berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dengan sanadnya ini ia menyebutkan, "Rasulullah shallallahu 'alaihi wasallam melewati kami saat kami sedang memperbaiki gubuk milik kami yang sedang rusak. Beliau bertanya: "Apa ini?" Kami menjawab, "Gubuk kami rusak, dan kami sedang memperbaikinya." Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Aku tidak melihat kecuali kematian itu datangnya lebih cepat dari (rusaknya) gubuk itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5236</td></tr><tr><td>Arabic No</td><td>5236</td></tr><tr><td>Reference</td><td>Book 43 Hadith 464</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Амр бин аль-‘Ас, да будет доволен Аллах ими обоими, сказал: (Однажды, когда) мы чинили нашу лачугу, Посланник Аллаха ﷺ проходивший мимо нас, спросил: «Что это?» Мы ответили: «Она обветшала, и мы укрепляем её». Он сказал: «Я думаю, что есть дело, более неотложное, чем это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5236</td></tr><tr><td>Arabic No</td><td>5236</td></tr><tr><td>Reference</td><td>Book 43 Hadith 464</td></tr></tbody></table></div>
 

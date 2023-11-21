@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Someone who prayed with the Prophet: Muhammad ibn Sirin said: Someone w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Bisyr bin Mufadhdhal], telah menceritakan kepada Kami [Yunus bin 'Ubaid] dari [Muhammad bin Sirin], ia berkata; telah menceritakan kepadaku [orang yang melakukan shalat Subuh bersama Nabi] shallallahu 'alaihi wasallam; kemudian tatkala beliau mengangkat kepalanya dari raka'at yang kedua beliau berdiri sesaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1446</td></tr><tr><td>Arabic No</td><td>1446</td></tr><tr><td>Reference</td><td>Book 8 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Мухаммада ибн Сирина: «Мне рассказал человек, который совершал вместе с Пророком ﷺ утреннюю молитву, что во втором рак‘ате, подняв голову после поясного поклона, он стоял немного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1446</td></tr><tr><td>Arabic No</td><td>1446</td></tr><tr><td>Reference</td><td>Book 8 Hadith 31</td></tr></tbody></table></div>
 

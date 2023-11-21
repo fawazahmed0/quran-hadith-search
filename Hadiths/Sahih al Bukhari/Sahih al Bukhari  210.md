@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:The Prophet (ﷺ) ate (a piece of) mutton from the shoulder reg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ashbagh] berkata, telah mengabarkan kepada kami [Ibnu Wahhab] berkata, telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Bukair] dari [Kuraib] dari [Maimunah], bahwa Nabi shallallahu 'alaihi wasallam pernah makan daging paha (kambing) di sisinya kemudian shalat tanpa berwudlu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>210</td></tr><tr><td>Arabic No</td><td>210</td></tr><tr><td>Reference</td><td>Book 4 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Маймуны, да будет доволен ею Аллах, что (однажды) Пророк ﷺ съел у неё (в доме) баранью лопатку, а потом помолился, не совершив омовения
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>210</td></tr><tr><td>Arabic No</td><td>210</td></tr><tr><td>Reference</td><td>Book 4 Hadith 76</td></tr></tbody></table></div>
 

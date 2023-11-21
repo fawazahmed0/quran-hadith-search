@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: If anyone applies collyrium, he sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi] telah mengabarkan kepada kami [Isa bin Yunus] dari [Tsaur] dari [Al Hushain Al Hubrani] dari [Abu Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barang siapa bercelak hendaklah dia melakukannya dengan ganjil, barangsiapa yang melakukannya maka dia telah berbuat baik, dan barangsiapa yang tidak melakukannya maka tidak ada dosa baginya. Barangsiapa yang beristinja dengan batu hendaklah dia melakukannya dengan ganjil, barangsiapa yang melakukannya maka dia telah berbuat baik dan barangsiapa yang tidak melakukannya maka tidak ada dosa baginya. Barangsiapa yang makan, maka apa yang menyangkut hendaklah dia membuangnya, dan yang dapat di lepas oleh lidah hendaknya dia menelannya, Barangsiapa yang melakukannya maka dia telah berbuat baik dan barangsiapa yang tidak melakukannya maka tidak ada dosa baginya. Barangsiapa mendatangi tempat buang air maka hendaklah dia mengambil satir (penutup), dan jika tidak menemukan kecuali dengan mengumpulkan setumpuk pasir, maka hendaklah dia membelakanginya, karena sesungguhnya seta bermain-main dengan tempat duduk anak Adam. Barangsiapa yang melakukannya maka dia telah berbuat baik dan barangsiapa yang tidak melakukannya maka tidak ada dosa baginya." Abu Dawud berkata; Diriwayatkan oleh [Abu 'Ashim] dari [Tsaur]. Hushain Al Himyari berkata; dan diriwayatkan oleh [Abdul Malik bin Ash Shabbah] dari [Tsaur], dia berkata; [Abu Sa'id Al Khair]. Abu Dawud berkata; Abu Sa'id Al Khair termasuk di antara sahabat Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Arabic No</td><td>35</td></tr><tr><td>Reference</td><td>Book 1 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид (аль-Хайр) передал со слов Хурайры о том, что Пророк ﷺ сказал: «Кто подкрашивает глаза сурьмой, пусть делает это нечётное количество раз, и кто сделал это, тот поступил хорошо, но если не сделает этого, то нет на нём греха. Кто очищается камнями, пусть делает это нечётное количество раз, и кто сделал это, тот поступил хорошо, но если не сделает этого, то нет на нём греха. Если кто-то ест, то ему следует выбросить то, что он удаляет с зубочисткой и проглотить то, что прилипнет к языку, и кто сделал это, тот поступил хорошо, но если не сделает этого, то нет на нём греха. Если кто-то отправляется справлять нужду, ему следует скрыться (от людей), а если он не найдёт место, где можно было бы скрыться, то пусть хотя бы сделает бугорок из песка и сядет к нему спиной, ибо поистине, шайтан играет с ягодицами сынов Адама. И кто сделает это, тот поступит хорошо, но если не сделает этого, то нет на нём греха».Абу Дауд сказал: «Абу Са‘ид аль-Хайр был из числа сподвижников Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Arabic No</td><td>35</td></tr><tr><td>Reference</td><td>Book 1 Hadith 35</td></tr></tbody></table></div>
 

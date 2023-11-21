@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:I saw when the Messenger of Allah (ﷺ) got his hair cut by the ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami [Abu An Nadhr]; Telah menceritakan kepada kami [Sulaiman] dari [Tsabit] dari [Anas] dia berkata; "Sungguh saya pernah melihat Rasulullah shallallahu 'alaihi wasallam sedang dicukur oleh seorang tukang cukur dengan dikerumuni oleh para sahabat beliau. Sebenarnya yang mereka inginkan adalah agar setiap helai rambut beliau yang tercukur itu jatuh ke tangan seorang sahabat yang mengerumuninya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6043</td></tr><tr><td>Arabic No</td><td>2325</td></tr><tr><td>Reference</td><td>Book 43 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6043</td></tr><tr><td>Arabic No</td><td>2325</td></tr><tr><td>Reference</td><td>Book 43 Hadith 101</td></tr></tbody></table></div>
 

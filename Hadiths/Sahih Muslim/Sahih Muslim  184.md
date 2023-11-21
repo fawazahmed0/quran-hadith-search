@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Amru an-Naqid] dan [Hasan al-Hulwani] keduanya berkata, telah menceritakan kepada kami [Ya'qub] -yaitu Ibnu Ibrahim bin Sa'd- telah menceritakan kepada kami [bapakku] dari [Shalih] dari [al-A'raj] dia berkata, [Abu Hurairah] berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Telah datang penduduk Yaman, mereka adalah kaum yang paling lembut hatinya. Fiqh ada pada orang Yaman. Hikmah juga ada pada orang Yaman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>184</td></tr><tr><td>Arabic No</td><td>52.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: (Однажды) Посланник Аллаха ﷺ сказал: «Пришли к вам люди из Йемена, сердца которых являются более тонкими и мягкими, (чем сердца других людей). Понимание религии /фикъх/ в Йемене, а йеменцам присуща мудрость»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>184</td></tr><tr><td>Arabic No</td><td>52.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 91</td></tr></tbody></table></div>
 

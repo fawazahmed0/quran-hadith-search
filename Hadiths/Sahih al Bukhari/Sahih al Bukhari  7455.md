@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "O Gabriel, what prevents you. from 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kami [Umar bin Dzar] aku mendengar [Ayahku] menceritakan dari [Said bin Jubair] dari [Ibn Abbas] Radliyallahu'anhuma, bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Jibril, apa yang menghalangimu untuk mengunjungi kami lebih sering daripada apa yang telah engkau lakukan?" Maka turunlah ayat: '(Dan tidaklah Kami menurunkan ayat melainkan dengan perintah Tuhanmu, milik Dialah apa yang didepan kami dan di belakang kami) ', hingga akhir ayat (Qs. Maryam: 64). Dan jawaban ini adalah untuk Muhammad shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7455</td></tr><tr><td>Arabic No</td><td>7455</td></tr><tr><td>Reference</td><td>Book 97 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «О Джибриль, что мешает тебе посещать нас чаще, чем ты делаешь это?», — и был ниспослан (аят, в котором говорится): «Мы нисходим только по велению твоего Господа. Ему принадлежит то, что перед нами, и то, что позади нас, и то, что между ними. Господь твой не забывчив» (Сура «Марьям» аят 64). И это был ответ Мухаммаду ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7455</td></tr><tr><td>Arabic No</td><td>7455</td></tr><tr><td>Reference</td><td>Book 97 Hadith 81</td></tr></tbody></table></div>
 

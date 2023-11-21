@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:When it is Friday, the an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] dan [Harmalah] dan [Amru bin Sawwad Al Amiri] - [Abu Thahir] berkata- telah menceritakan kepada kami -sementara yang lain mengatakan- telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Abu Abdullah Al Agharr] bahwa ia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila hari Jum'at telah tiba, para Malaikat berdiri di setiap pintu Masjid, mencatat orang yang pertama-tama datang dan seterusnya. Apabila Imam telah datang (naik mimbar), maka mereka pun menutup shuhuf (buku catatan) dan bersegera untuk mendengarkan khutbah. Perumpamaan orang yang pertama-tama datang adalah seperti berkorban dengan seekor unta. Kemudian orang yang datang sesudah itu, seperti orang yang berkurban dengan seekor lembu. Kemudian seperti orang yang berkurban kibas. Kemudian seperti orang yang berkurban dengan seekor ayam. Dan kemudian seperti orang yang berkurban dengan sebutir telur." Telah menceritakan kepada kami [Yahya bin Yahya] dan [Amru An Naqid] dari [Sufyan] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1984</td></tr><tr><td>Arabic No</td><td>850.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, что Пророк ﷺ сказал: «С наступлением пятницы у каждой двери мечети (располагаются) ангелы, которые одного за другим записывают (приходящих), когда же имам усаживается (на минбаре, ангелы) сворачивают свои свитки и являются (в мечеть), чтобы послушать (слова) поминания (Аллаха). Человек, который придёт (в мечеть) заблаговременно, будет подобен тому, кто принесёт в жертву (Аллаху) верблюда; (тот, кто придёт на молитву позже), будет подобен тому, кто принесёт в жертву (Аллаху) корову; (тот, кто придёт ещё позже), будет подобен тому, кто принесёт в жертву (Аллаху) барана; (тот, кто придёт ещё позже), будет подобен тому, кто принесёт в жертву (Аллаху) курицу, (а тот, кто придёт ещё позже), будет подобен тому, кто принесёт в жертву (Аллаху) яйцо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1984</td></tr><tr><td>Arabic No</td><td>850.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 34</td></tr></tbody></table></div>
 

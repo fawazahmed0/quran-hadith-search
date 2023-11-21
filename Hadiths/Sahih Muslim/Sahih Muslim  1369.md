@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama reported on the authority of Abu Huraira that when Iqama was pronounc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ibrahim bin Musa] telah mengabarkan kepada kami [Walid bin Muslim] dari [Auza'i] dari [Az Zuhri] dia berkata; telah menceritakan kepadaku [Abu Salamah] dari [Abu Hurairah]; "Tatkala iqamat dikumandangkan tanda shalat akan dilaksanakan bersama Rasulullah shallallahu 'alaihi wasallam, lantas para sahabat bersegera membentuk barisan (shaff) sebelum Nabi shallallahu 'alaihi wasallam berdiri di tempat yang biasa beliau gunakan untuk berdiri (menjadi imam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1369</td></tr><tr><td>Arabic No</td><td>605.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры о том, что для Посланника Аллаха ﷺ возвещали второй призыв к молитве /икама/ и люди занимали свои места до того, как своё место занимал Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1369</td></tr><tr><td>Arabic No</td><td>605.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 203</td></tr></tbody></table></div>
 

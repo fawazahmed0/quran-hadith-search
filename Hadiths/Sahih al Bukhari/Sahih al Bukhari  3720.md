@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Az-Zubair:During the battle of Al-Ahzab, I and 'Umar bin 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Hisyam bin 'Urwah] dari [bapaknya] dari ['Abdullah biin Az Zubair] berkata; Pada hari perang Ahzab, aku dan 'Umar bin Abu Salamah berada dekat dengan kaum wanita lalu aku melihat-lihat ternyata aku dapatkan [Zubair] berada di atas kudanya bolak-balik menuju Bani Quraizhah dua atau tiga kali. Setelah kembali aku bertanya; "Wahai ayahku, aku melihatmu berbolak-balik". Dia bertanya; "Apakah benar kamu melihatku, wahai anakku?". Aku jawab; "Ya benar". Dia berkata; "Karena sebelumnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang dapat mendatangi Bani Quraizhah lalu membawa kabar mereka kepadaku?". Maka aku berangkat dan tatkala aku kembali, aku dapati Rasulullah shallallahu 'alaihi wasallam menyertakan kedua orangtua beliau sebagai tebusan bagiku dengan sabdanya: "Tebusanmu adalah bapak dan ibuku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3720</td></tr><tr><td>Arabic No</td><td>3720</td></tr><tr><td>Reference</td><td>Book 62 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн аз-Зубайр, да будет доволен им Аллах, сказал:\n— Во время нашествия племён (на Медину) меня и ‘Умара ибн Аби Саляму поставили (охранять тыл) среди женщин, и вдруг я увидел (моего отца) аз-Зубайра, который дважды или трижды проскакал на своём коне в сторону (бойцов племени) бану курайза. Вернувшись, я сказал: «О батюшка, я видел, как ты скакал (к бану курайза) и возвращался обратно». Он спросил: «Так ты видел меня, сынок?» Я сказал: «Да». Он сказал: «Посланник Аллаха ﷺ спросил: “Кто отправится к бану курайза и принесёт мне сведения о них?” — и я отправился (туда), а когда я вернулся, Пророк ﷺ (помянул) ради меня своих родителей, воскликнув: “Да станут отец мой и мать выкупом за тебя!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3720</td></tr><tr><td>Arabic No</td><td>3720</td></tr><tr><td>Reference</td><td>Book 62 Hadith 68</td></tr></tbody></table></div>
 

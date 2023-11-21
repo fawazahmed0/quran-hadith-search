@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) used to enter Mecca from the high Tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah menceritakan kepada saya [Ma'n] berkata, telah menceritakan kepada saya [Malik] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam memasuki (kota Makkah) melewati dataran tinggi dan keluar melewati dataran rendah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1575</td></tr><tr><td>Arabic No</td><td>1575</td></tr><tr><td>Reference</td><td>Book 25 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что обычно Посланник Аллаха ﷺ вступал в Мекку, со стороны Када, проехав через верхний перевал, что в Батхе, а покидал (город) через нижний перевал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1575</td></tr><tr><td>Arabic No</td><td>1575</td></tr><tr><td>Reference</td><td>Book 25 Hadith 61</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Arqam: The Messenger of Allah (ﷺ) said: These privies are fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Marzuq] telah mengabarkan kepada kami [Syu'bah] dari [Qatadah] dari [an Nadhr bin Anas] dari [Zaid bin Arqam] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya tempat buang hajat itu dihadiri oleh setan-setan, maka apabila salah seorang dari kalian mendatangi WC, hendaklah dia mengucapkan; 'Aku berlindung kepada Allah dari setan jantan dan setan betina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Arabic No</td><td>6</td></tr><tr><td>Reference</td><td>Book 1 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Аркъам сказал: «Посланник Аллаха ﷺ сказал: “Воистину, эти места справления нужды посещаются (шайтанами). И (поэтому,) когда кто-то из вас придет туда, пусть скажет: “Прибегаю к защите Аллаха от шайтанов мужского и женского пола” /А‘узу би-Лляхи мин-аль-хубуси ва-ль-хабаиси/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Arabic No</td><td>6</td></tr><tr><td>Reference</td><td>Book 1 Hadith 6</td></tr></tbody></table></div>
 

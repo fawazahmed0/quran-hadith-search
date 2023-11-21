@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once the Prophet (ﷺ) entered a lavatory and I placed water
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Hasyim bin Al Qasim] telah menceritakan kepada kami [Warqa'] dari ['Ubaidullah bin Abu Yazid] dari [Ibnu 'Abbas], bahwa pernah Nabi shallallahu 'alaihi wasallam masuk kedalam WC, lalu aku letakkan bejana berisi air. Beliau lantas bertanya: "Siapa yang meletakkan ini?" Aku lalu memberitahukannya, maka beliau pun bersabda: "Ya Allah pandaikanlah dia dalam agama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>143</td></tr><tr><td>Reference</td><td>Book 4 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что (однажды,) когда Пророк ﷺ зашёл в отхожее место, он принёс ему воду для омовения. (Потом Пророк ﷺ) спросил: «Кто поставил (здесь) это?» Ему сообщили, (что это сделал я,) и тогда он сказал: «О Аллах, наставь его в религии!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>143</td></tr><tr><td>Reference</td><td>Book 4 Hadith 9</td></tr></tbody></table></div>
 

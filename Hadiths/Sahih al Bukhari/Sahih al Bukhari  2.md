@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: (the mother of the faithful believers) Al-Harith bin Hisham ask
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [bapaknya] dari [Aisyah] Ibu Kaum Mu'minin, bahwa Al Harits bin Hisyam bertanya kepada Rasulullah shallallahu 'alaihi wasallam: "Wahai Rasulullah, bagaimana caranya wahyu turun kepada engkau?" Maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Terkadang datang kepadaku seperti suara gemerincing lonceng dan cara ini yang paling berat buatku, lalu terhenti sehingga aku dapat mengerti apa yang disampaikan. Dan terkadang datang Malaikat menyerupai seorang laki-laki lalu berbicara kepadaku maka aku ikuti apa yang diucapkannya". Aisyah berkata: "Sungguh aku pernah melihat turunnya wahyu kepada Beliau shallallahu 'alaihi wasallam pada suatu hari yang sangat dingin lalu terhenti, dan aku lihat dahi Beliau mengucurkan keringat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2</td></tr><tr><td>Arabic No</td><td>2</td></tr><tr><td>Reference</td><td>Book 1 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал ‘Абдулла ибн Юсуф, сказавший: Нам сообщил Малик, от Хишама ибн ‘Урвы, от его отца, от ‘Аиши — матери правоверных, да будет доволен ею Аллах, о том, что (однажды) аль-Харис ибн Хишам, да будет доволен им Аллах, спросил Посланника Аллаха ﷺ: «О Посланник Аллаха, как приходят к тебе откровения?» Посланник Аллаха ﷺ ответил: «Иногда приходящее ко мне подобно звону колокола, что является для меня наиболее тяжким, и это покидает меня, когда я уже усвоил сказанное им. Иногда же ангел предстаёт передо мной в образе человека и обращается ко мне со своими словами, и я усваиваю то, что он говорит». ‘Аиша, да будет доволен ею Аллах, сказала: «И мне приходилось видеть, как в очень холодные дни ему ниспосылались откровения, а после завершения (ниспослания) со лба его лился пот»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2</td></tr><tr><td>Arabic No</td><td>2</td></tr><tr><td>Reference</td><td>Book 1 Hadith 2</td></tr></tbody></table></div>
 

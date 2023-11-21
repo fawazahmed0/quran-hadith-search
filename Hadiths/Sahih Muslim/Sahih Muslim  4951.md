@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Mughira who said:I heard the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Waki'] dan ['Abdah] keduanya dari [Isma'il bin Abu Khalid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Abu 'Umar] dan ini adalah lafadz dia, telah menceritakan kepada kami [Marwan] -yaitu Al Fazari- dari [Isma'il] dari [Qais] dari [Al Mughirah] dia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Senantiasa ada sekelompok kaum dari ummatku yang dimenangkan atas manusia sehingga datang keputusan Allah (hari Kiamat)." Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepadaku [Isma'il] dari [Qais] dia berkata; saya mendengar [Al Mughirah bin Syu'bah] berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda seperti haditsnya Marwan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>1921.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>1921.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 246</td></tr></tbody></table></div>
 

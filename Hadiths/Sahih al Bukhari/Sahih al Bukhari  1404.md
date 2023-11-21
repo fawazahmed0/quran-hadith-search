@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khalid bin Aslam:We went out with 'Abdullah bin 'Umar and a bedouin sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Syabib bin Sa'id] telah menceritakan [bapakku] kepadaku dari [Yunus] dari [Ibnu Syihab] dari [Khalid bin Aslam] berkata; Kami keluar bersama ['Abdullah bin 'Umar] radliallahu 'anhuma, lalu seorang Badui berkata,: "Kabari aku akan firman Allah: " walladziina yaknizuunadz dzahaba wal fidhdhata walaa yunfiquunahaa fii sabiilillah" (dan orang-orang yang menyimpan emas dan perak dan tidak menafkahkannya pada jalan Allah), " Ibn 'Umar radliallahu 'anhuma berkata,: "Barangsiapa yang menyimpannya dan ia tidak menunaikan zakatnya maka celakalah ia. Namun ayat ini turun sebelum diturunkannya ayat zakat, ketika aturan zakat sudah diturunkan maka Allah subhanahu wata'ala menjadikannya ketentuan ayat ini sebagai perintah pensucian harta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1404</td></tr><tr><td>Arabic No</td><td>1404</td></tr><tr><td>Reference</td><td>Book 24 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Халид ибн Аслям рассказывал: \n— Однажды мы вышли с ‘Абдуллахом ибн ‘Умаром, да будет доволен Аллах им и его отцом, (в путешествие) и один бедуин сказал ему: «Объясни мне слова Аллаха: “А те, которые накапливают золото и серебро и не расходуют его на пути Аллаха…” (сура “ат-Тауба”, аят 34)». Ибн ‘Умар, да будет доволен Аллах им и его отцом, ответил: «Тот, кто копит их и не выплачивает закят, горе ему. Это было до ниспослания аятов повелевающих выплату закята, когда же они были ниспосланы, Аллах сделал его (закят) очищением имущества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1404</td></tr><tr><td>Arabic No</td><td>1404</td></tr><tr><td>Reference</td><td>Book 24 Hadith 9</td></tr></tbody></table></div>
 

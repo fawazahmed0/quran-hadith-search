@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Verse of Al-Hijab (veiling of women) was revealed in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kami [Isa bin Tahman] berkata, aku mendengar [Anas bin Malik] radliyallahu'anhu mengatakan, "Ayat hijab diturunkan tentang Zainab binti Jahsyin, yang ketika itu beliau Shallallahu'alaihiwasallam memberinya makan berupa roti dan daging, dan Zainab membanggakan diri kepada isteri-isteri Nabi shallallahu 'alaihi wasallam lainnya dengan berkata, 'Allah lah yang menikahkanku di langit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7421</td></tr><tr><td>Arabic No</td><td>7421</td></tr><tr><td>Reference</td><td>Book 97 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, сказал: «Аят о покрывале был ниспослан по поводу Зейнаб бинт Джахш. Во время свадебного пира, Пророк ﷺ накормил (собравшихся) хлебом и мясом. И Зейнаб гордилась этим перед остальными жёнами Пророка ﷺ говоря: «Поистине, Аллах выдал меня замуж с высоты небес»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7421</td></tr><tr><td>Arabic No</td><td>7421</td></tr><tr><td>Reference</td><td>Book 97 Hadith 49</td></tr></tbody></table></div>
 

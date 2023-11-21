@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: The Prophet (ﷺ) said: Fighting is of two kinds: The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haiwah bin Syuraih Al Hadhrami], telah menceritakan kepada kami [Baqiyyah], telah menceritakan kepadaku [Bahir] dari [Khalid bin Ma'dan] dari [Abu Bahriyyah] dari [Mu'adz bin Jabal] dari Rasulullah shallallahu 'alaihi wasallam bahwa beliau bersabda: "Berperang ada dua, adapun orang yang mengharapkan wajah Allah, mentaati pemimpin, menginfakkan barang berharga, dan bergaul dengan sekutunya dengan mudah, serta menjauhi kerusakan maka tidurnya dan terjaganya adalah pahala semua. Adapun orang yang berperang karena berbangga diri, ingin dilihat dan didengar orang, durhaka kepada pemimpin serta membuat kerusakan, maka ia tidak kembali dengan membawa manfaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2515</td></tr><tr><td>Arabic No</td><td>2515</td></tr><tr><td>Reference</td><td>Book 15 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2515</td></tr><tr><td>Arabic No</td><td>2515</td></tr><tr><td>Reference</td><td>Book 15 Hadith 39</td></tr></tbody></table></div>
 

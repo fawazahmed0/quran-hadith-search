@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad b. al-Musaffa said to us on the authority of Baqiyyah. He said:I asked 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim bin Al Barqi] bahwa [Sa'id bin Al Hakam] telah menceritakan kepada mereka, ia berkata; telah mengabarkan kepada kami [Yahya bin Ayyub] telah menceritakan kepadaku [Ibnu 'Ajlan] telah menceritakan kepadaku [Al Qa'qa' bin Hakim] dan ['Ubaidullah bin Miqsam] dan [Zaid bin Aslam] dari [Abu Shalih] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada ghul (yang dapat menyesatkan seseorngpun)." Abu Daud berkata; telah dibacakan di hadapan [Al Harits bin Miskin] -sementara aku menyaksikan- telah mengabarkan kepada kalian [Asyhab] ia berkata; [Malik] pernah ditanya mengenai sabda beliau 'Tidak ada shafar', maka ia menjawab, "Sesungguhnya orang-orang jahiliyah dahulu menghalalkan bulan Shafar satu tahun dan mengharamkannya satu tahun. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: 'Tidak ada shafar'. Telah menceritakan kepada kami [Muhammad bin Al Mushaffa] telah menceritakan kepada kami [Baqiyyah] ia berkata, "Aku tanyakan kepada [Muhammad bin Rasyid], "Bagaimana dengan kata 'haam'? Ia menjawab, "Orang-orang jahiliyah dulu mengatakan, 'Tidaklah orang yang meninggal kemudian dikubur melainkan keluar serangga berbisa dari kuburnya'. Aku tanyakan lagi, "Bagaimana dengan kata, 'Shafar'? Ia menjawab, "Aku pernah mendengar bahwa orang-orang jahiliyah menisbatkan kesialan kepada bulan Shafar." Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada shafar." Muhammad berkata, "Aku mendengar orang yang mengatakan, 'Itu adalah suatu penyakit yang bertempat di dalam perut. Dahulu mereka mengatakan, 'Penyakit tersebut menular'. Maka beliau bersabda: "Tidak ada shafar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5756) Sahih Muslim (2224)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>3915</td></tr><tr><td>Reference</td><td>Book 30 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «Нет заразы и нет дурных примет, однако мне нравится благое предзнаменование, а хорошая примета это (услышанное) благое слово»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5756) Sahih Muslim (2224)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>3915</td></tr><tr><td>Reference</td><td>Book 30 Hadith 12</td></tr></tbody></table></div>
 

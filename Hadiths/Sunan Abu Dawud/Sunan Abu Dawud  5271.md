@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Atiyyah al-Ansariyyah: A woman used to perform circumcision in Medi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin 'Abdurrahman Ad Dimasyqi] dan [Abdul Wahhab bin Abdur Rahim Al Asyja'i] keduanya berkata; telah menceritakan kepada kami [Marwan] berkata, telah menceritakan kepada kami [Muhammad bin Hassan] -Abdul Wahhab Al Kufi berkata- dari [Abdul Malik bin Umair] dari [ummu Athiyah Al Anshariyah] berkata, "Sesungguhnya ada seorang permpuan di Madinah yang berkhitan, lalu Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Janganlah engkau habiskan semua, sebab hal itu akan mempercantik wanita dan disukai oleh suami." Abu Dawud berkata, "Diriwayatkan pula dari [Ubaidullah bin Amru], dari [Abdul Malik] dengan sanad dan makna yang sama." Abu Dawud berkata, "Tetapi hadits ini tidak kuat, sebab ia diriwayatkan secara mursal." Abu Dawud berkata, "Muhammad bin Hassan adalah seorang yang majhul, sehingga hadits ini derajatnya lemah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5271</td></tr><tr><td>Arabic No</td><td>5271</td></tr><tr><td>Reference</td><td>Book 43 Hadith 499</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5271</td></tr><tr><td>Arabic No</td><td>5271</td></tr><tr><td>Reference</td><td>Book 43 Hadith 499</td></tr></tbody></table></div>
 

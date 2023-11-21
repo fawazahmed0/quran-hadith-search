@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) and I used to take a bath from a single pot of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Bakar bin Hafsh] dari ['Urwah] dari ['Aisyah] berkata, "Aku pernah mandi junub bersama Nabi shallallahu 'alaihi wasallam dalam satu bejana." Dan dari ['Abdurrahman bin Al Qasim] dari [Bapaknya] dari ['Aisyah] seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>263</td></tr><tr><td>Arabic No</td><td>263</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Обычно я купалась из-за полового осквернения вместе с Пророком ﷺ (набирая воду) из одного и того же сосуда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>263</td></tr><tr><td>Arabic No</td><td>263</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
 

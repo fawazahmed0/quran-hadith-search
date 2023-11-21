@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that his grandmother, Mulaika, invited the Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], katanya; aku pernah menyetorkan hapalan kepada [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik], bahwa neneknya Mulaikah pernah mengundang Rasulullah shallallahu 'alaihi wasallam karena hidangan yang aku buat. Beliau pun memakannya, setelah itu beliau bersabda: "Berdirilah kalian, aku akan mengimami untuk kalian." Anas bin Malik berkata; "Aku lalu berdiri menuju sebuah tikar yang warnanya telah menghitam, karena sekian lama dipakai, lalu kuperciki dengan air, saementara Rasulullah shallallahu 'alaihi wasallam berdiri diatasnya. Aku lalu membuat shaff bersama seorang anak yatim yang berada di belakang beliau dan seorang wanita tua di belakang kami. Rasulullah shallallahu 'alaihi wasallam kemudian shalat dua raka'at mengimami kami, selanjutnya beliau beranjak pergi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1499</td></tr><tr><td>Arabic No</td><td>658</td></tr><tr><td>Reference</td><td>Book 5 Hadith 332</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Исхак ибн ‘Абдуллах ибн Аби Тальха передал со слов Анаса ибн Малика, что (однажды) бабушка (Анаса) Мулейка пригласила Посланника Аллаха ﷺ отведать еды, которую она приготовила для него. Он отведал (её угощение), а потом сказал: «Становитесь, и я помолюсь с вами». Анас ибн Малик сказал: «Тогда я подошёл к нашей подстилке, почерневшей от долгого использования, и побрызгал её водой, а потом (на неё) встал Посланник Аллаха ﷺ. За ним встали мы с сиротой, а за нами старуха (Мулейка), и Посланник Аллаха ﷺ совершил с нами молитву в два рак‘ата, а потом ушёл»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1499</td></tr><tr><td>Arabic No</td><td>658</td></tr><tr><td>Reference</td><td>Book 5 Hadith 332</td></tr></tbody></table></div>
 

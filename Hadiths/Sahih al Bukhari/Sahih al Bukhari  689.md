@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Once Allah's Messenger (ﷺ) rode a horse and fell down 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam pada suatu hari mengendarai kudanya lalu terjatuh dan terhempas pada bagian lambungnya yang kanan. Karena sebab itu beliau pernah melaksanakan shalat sambil duduk di antara shalat-shalatnya. Maka kamipun shalat di belakang Beliau dengan duduk. Ketika selesai Beliau bersabda: "Sesungguhnya imam dijadikan untuk diikuti, jika ia shalat dengan berdiri maka shalatlah kalian dengan berdiri. Jika ia rukuk maka rukuklah kalian, jika ia mengangkat kepalanya maka angkatlah kepala kalian. Dan jika ia mengucapkan SAMI'ALLAHU LIMAN HAMIDAH (Semoga Allah merndengar orang yang memuji-Nya) ', maka ucapkanlah; RABBANAA WA LAKAL HAMDU (Ya Rabb kami, milik Engkaulah segala pujian) '. Dan jika ia shalat dengan berdiri maka shalatlah kalian dengan berdiri, dan jika ia shalat dengan duduk maka shalatlah kalian semuanya dengan duduk." Abu 'Abdullah berkata, Al Humaidi ketika menerangkan sabda Nabi shallallahu 'alaihi wasallam 'Dan bila dia shalat dengan duduk maka shalatlah kalian dengan duduk' dia berkata, "Kejadian ini adalah saat sakitnya Nabi shallallahu 'alaihi wasallam di waktu yang lampau. Kemudian setelah itu Nabi shallallahu 'alaihi wasallam shalat dengan duduk sedangkan orang-orang shalat di belakangnya dengan berdiri, dan beliau tidak memerintahkan mereka agar duduk. Dan sesungguhnya yang dijadikan ketentuan adalah berdasarkan apa yang paling akhir dan terakhir dari perbuatan Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>689</td></tr><tr><td>Arabic No</td><td>689</td></tr><tr><td>Reference</td><td>Book 10 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, о том, что (как-то) Посланник Аллаха ﷺ ехал верхом на коне, который сбросил его (с себя) из-за чего поцарапал (Пророку ﷺ) правый бок. И он совершая одну из намазов молился сидя и мы также молились сидя за ним, а когда он завершил намаз, то сказал: «Имам назначается для того, чтобы (во время намаза) другие следовали его примеру. Если он молится стоя, молитесь стоя. Если он совершит поясной поклон, то совершайте поясной поклон и вы. Если он поднимет (голову), поднимайте (головы) и вы. Когда (имам) скажет: “Cами‘а-Ллаху ли-ман хамидах /Да услышит Аллах тех, кто воздал Ему хвалу/”, говорите: “Господь наш, хвала Тебе /Раббана, ва лякаль хамд/”. И если он будет молиться стоя, то молитесь стоя, а если он молится сидя, то все молитесь сидя».\nАбу ‘Абдуллах (имам аль-Бухари) сказал:\n— Аль-Хумайди сказал: «Его слова: “Если он молится сидя, то молитесь сидя” (были сказаны) раньше, когда он заболел. После этого Пророк ﷺ совершал молитву сидя, а люди позади него стояли и он не велел им садиться. Поэтому следует руководствоваться тем, что делал Пророк ﷺ последним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>689</td></tr><tr><td>Arabic No</td><td>689</td></tr><tr><td>Reference</td><td>Book 10 Hadith 83</td></tr></tbody></table></div>
 

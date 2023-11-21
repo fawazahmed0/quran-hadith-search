@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I heard the Prophet (ﷺ) saying, "Afflictions will emerge fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] Telah menceritakan kepada kami [Sufyan] dari [Abdullah bin Dinar] dari [Ibnu Umar] radliallahu 'anhuma, ia berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya fitnah itu akan muncul dari sisi." Beliau sambil menunjuk ke ufuk timur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5296</td></tr><tr><td>Arabic No</td><td>5296</td></tr><tr><td>Reference</td><td>Book 68 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ сказал: “Смута (выйдет) оттуда”. И указал на восток»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5296</td></tr><tr><td>Arabic No</td><td>5296</td></tr><tr><td>Reference</td><td>Book 68 Hadith 45</td></tr></tbody></table></div>
 

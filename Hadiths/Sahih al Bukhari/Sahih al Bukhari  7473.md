@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "Ad-Dajjal will come to Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Abu 'Isa] telah mengabarkan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Syu'bah] dari [Qatadah] dari [Anas bin Malik] radliyallahu'anhu berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Madinah akan didatangi oleh dajjal dan ia temukan kota tersebut dijaga oleh para malaikat, sehingga dajjal tidak bisa mendekatinya, dan tidak pula penyakit tha'un, insya allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7473</td></tr><tr><td>Arabic No</td><td>7473</td></tr><tr><td>Reference</td><td>Book 97 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Даджаль подойдёт к Медине и увидит, что ангелы защищают её. И не приблизится к Медине ни Даджаль, ни чума, если пожелает Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7473</td></tr><tr><td>Arabic No</td><td>7473</td></tr><tr><td>Reference</td><td>Book 97 Hadith 99</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) was asked about sutra of a worshipp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Abdullah bin Yazid] telah mengabarkan kepada kami [Sa'id bin Abi Ayyub] dari [Abu al-Aswad] dari [Urwah] dari [Aisyah ra] bahwasanya dia berkata, "Rasulullah Shallallahu'alaihiwasallam pernah ditanya mengenai sutrah (pembatas) seseorang yang sedang shalat. Maka beliau menjawab, 'Ia ialah semisal kayu yang diletakkan di punggung hewan tunggangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1113</td></tr><tr><td>Arabic No</td><td>500.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 275</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда Посланника Аллаха ﷺ спросили о преграде /сутра/ молящегося, он сказал: “(Это) нечто (высотой) с заднюю часть седла”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1113</td></tr><tr><td>Arabic No</td><td>500.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 275</td></tr></tbody></table></div>
 

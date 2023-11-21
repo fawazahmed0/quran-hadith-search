@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Musailama-al-Kadhdhab (i.e. the liar) came in the life-time 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>3620</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аббас, да будет доволен Аллах им и его отцом, сказал: «Прибыв (в Медину) при жизни Посланника Аллаха ﷺ Мусайлима аль-Каззаб (лжец) начал говорить: “Если Мухаммад сделает меня своим преемником, я последую за ним”. Он прибыл с большим количеством людей из своего племени. Посланник Аллаха ﷺ подошёл к нему с Сабитом ибн Кайсом ибн Шаммасом, держа в руке ветку финиковой пальмы. Он остановился около Мусайлимы, которого окружали его последователи, и сказал (ему): “Если бы ты попросил у меня (даже) эту (ветвь), я не отдал бы тебе и её, и ты никогда не сможешь пойти против (решения) Аллаха относительно тебя, если же ты станешь поступать наперекор (истине), Аллах обязательно уничтожит тебя! Я думаю, что ты и есть тот человек, которого я видел во сне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>3620</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

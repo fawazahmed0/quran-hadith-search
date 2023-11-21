@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Allah will say to that person of the (Hel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qais bin Hafsh] telah bercerita kepada kami [Khalid bin Al Harits] telah bercerita kepada kami [Syu'bah] dari [Abu 'Imran Al Jawniy] dari [Anas], dia memarfu'kannya, (Nabi shallallahu 'alaihi wasallam bersabda): "Sesungguhnya Allah berfirman kepada seorang penduduk neraka yang paling ringan siksaannya,: "Seandainya kamu memiliki sesuatu dari kekayaan bumi apakah kamu akan menggunakannya untuk menebus dirimu?". Orang itu menjawab; "Ya". Maka Allah berfirman: "Sungguh aku dahulu meminta darimu sesuatu yang lebih ringan dari itu, tepatnya saat kamu berada di dalam perut ibumu, yaitu agar kamu tidak menyekutukan aku namun kamu enggan dan tetap berbuat syirik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3334</td></tr><tr><td>Arabic No</td><td>3334</td></tr><tr><td>Reference</td><td>Book 60 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, что Посланник Аллаха ﷺ сказал: «Аллах спросит того из оказавшихся в огне, кто подвергнется самому лёгкому наказанию: “Будь у тебя всё то, что есть на земле, отдал бы ты это(, чтобы избавиться от мук)?” Тот воскликнет: “Да!” (Тогда Аллах) скажет: “Когда ты был ещё в чреслах Адама, Я просил тебя о том, что намного меньше этого, — не поклоняться никому наряду со Мной, но ты отказался (и настоял на своём) многобожии!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3334</td></tr><tr><td>Arabic No</td><td>3334</td></tr><tr><td>Reference</td><td>Book 60 Hadith 9</td></tr></tbody></table></div>
 

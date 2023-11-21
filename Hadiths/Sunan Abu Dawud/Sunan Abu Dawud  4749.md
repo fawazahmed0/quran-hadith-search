@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbdusSalam ibn AbuHazim AbuTalut said:I saw AbuBarzah who came to visit Ubaydull
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Abdussalam bin Abu Hazim Abu Thalut] ia berkata; Aku melihat [Abu Barzah] masuk menemui Ubaidullah bin Ziyad, lalu ada seseorang dalam sebuah rombongan bernama Muslim bercerita kepadaku. Ketika Ubaidullah melihatnya, ia berkata, "Sesungguhnya salah satu dari kelompok Muhammad adalah orang yang gemuk dan pendek." Maka Abu Barzah pun mengerti apa yang dikatakan oleh Ubaidullah tersebut. Lantas Abu Barzah berkata, "Aku tidak menyangka bisa hidup bersama orang-orang yang mencelaku karena aku berkumpul dengan Muhammad shallallahu 'alaihi wasallam." Ubaidullah balik berkata, "Sesungguhnya persahabatanmu dengan Muhammad adalah perhiasan dan tidak ada celanya." Ia melanjutkan lagi kata-katanya, "Dan aku datang kepadamu untuk bertanya perihal telaga, aku pernah mendengar Muhammad shallallahu 'alaihi wasallam menyebut-nyebut tentang itu?" Abu Barzah menjawab, "Benar. Tidak hanya satu kali, dua kali, tiga kali, empat kali atau lima kali (beliau sebutkan itu). Maka siapa saja yang mendustainya Allah tidak akan memberinya minum darinya." Lalu ia keluar dengan marah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4749</td></tr><tr><td>Arabic No</td><td>4749</td></tr><tr><td>Reference</td><td>Book 42 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуссаляма ибн Абу Хазима Абу Талюта: «Я видел, как Абу Барза зашёл к ‘Убайдуллаху ибн Зияду. И мне рассказал такой-то, который был в окружении большой группы людей, что ‘Убайдуллах сказал, увидев (Абу Барзу): “Ваш последователь Мухаммада человек маленького роста с большим животом”. Старец услышал это и сказал: “Не думал я, что останусь среди людей, которые попрекают меня сподвижничеством Мухаммаду!” ‘Убайдуллах сказал: “Сподвижничество Мухаммаду ﷺ украшение для тебя, а не позор”. Затем он сказал: “Поистине, я послал за тобой, чтобы спросить тебя о водоёме. Ты слышал упоминания о нём от Посланника Аллаха ﷺ?” Абу Барза сказал: “Да, и не раз, не два, не три, не четыре и даже не пять! А кто не верит в него, да не напоит того Аллах из этого водоёма!” И он вышел разгневанным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4749</td></tr><tr><td>Arabic No</td><td>4749</td></tr><tr><td>Reference</td><td>Book 42 Hadith 154</td></tr></tbody></table></div>
 

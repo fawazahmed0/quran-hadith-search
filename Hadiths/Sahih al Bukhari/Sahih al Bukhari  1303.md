@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:We went with Allah's Messenger (ﷺ) (p.b.u.h) to the bl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin 'Abdul 'Aziz] telah menceritakan kepada kami [Yahya bin Hassan] telah menceritakan kepada kami [Quraisy] dia adalah Ibnu Hayyan dari [Tsabit] dari [Anas bin Malik radliallahu 'anhu] berkata; Kami bersama Rasulullah Shallallahu'alaihiwasallam mendatangi Abu Saif Al Qaiyn yang (isterinya) telah mengasuh dan menyusui Ibrahim 'alaihissalam (putra Nabi Shallallahu'alaihiwasallam. Lalu Rasulullah Shallallahu'alaihiwasallam mengambil Ibrahim dan menciumnya. Kemudian setelah itu pada kesempatan yang lain kami mengunjunginya sedangkan Ibrahim telah meninggal. Hal ini menyebabkan kedua mata Rasulullah Shallallahu'alaihiwasallam berlinang air mata. Lalu berkatalah 'Abdurrahman bin 'Auf radliallahu 'anhu kepada Beliau: "Mengapa anda menangis, wahai Rasulullah?". Beliau menjawab: "Wahai Ibnu 'Auf, sesungguhnya ini adalah rahmat (tangisan kasih sayang) ". Beliau lalu melanjutkan dengan kalimat yang lain dan bersabda: "Kedua mata boleh mencucurkan air mata, hati boleh bersedih, hanya kita tidaklah mengatakan kecuali apa yang diridhai oleh Rabb kita. Dan kami dengan perpisahan ini wahai Ibrahim pastilah bersedih". Dan diriwayatkan oleh [Musa] dari [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Anas bin Malik radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1303</td></tr><tr><td>Arabic No</td><td>1303</td></tr><tr><td>Reference</td><td>Book 23 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Как-то раз мы с посланником Аллаха ﷺ зашли к кузнецу Абу Сайфу, который был мужем кормилицы Ибрахима, и Посланник Аллаха ﷺ взял Ибрахима на руки, поцеловал его и стал вдыхать его запах. А потом мы пришли к (Абу Сайфу ещё раз), когда Ибрахим был уже при смерти, и тогда из глаз Посланника Аллаха ﷺ полились слёзы, а ‘Абд ар-Рахман бин ‘Ауф, да будет доволен им Аллах, сказал: “И ты (плачешь), о Посланник Аллаха?” (На это Пророк ﷺ) ответил: “О Ибн ‘Ауф, поистине, это — (проявление) сострадания!” — а затем он ﷺ сказал: “Поистине, глаза плачут, а сердце печалится, но мы говорим лишь то, что угодно нашему Господу! Поистине, мы опечалены разлукой с тобой, о Ибрахим!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1303</td></tr><tr><td>Arabic No</td><td>1303</td></tr><tr><td>Reference</td><td>Book 23 Hadith 61</td></tr></tbody></table></div>
 

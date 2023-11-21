@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim bin 'Abdullah:'Abdullah bin 'Umar used to do Rami of the Jamrat-u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah menceritakan kepada saya [saudaraku] dari [Sulaiman] dari [Yunus bin Yazid] dari [Ibnu Syihab] dari [Salim bin 'Abdullah] bahwa ['Abdullah bin 'Umar radliallahu 'anhu] melempar Al Jumrah Ad-Dunya (Al Ulaa, awal) dengan tujuh kerikil kemudian bertakbir pada setiap kali lemparannya, kemudian dia maju hingga sampai pada permukaan yang datar dia berdiri menghadap qiblat dengan agak lama, lalu berdo'a dengan mengangkat kedua tangannya, kemudian melempar jumrah Al Wustho seperti itu pula, dia mengambil jalan sebelah kiri pada dataran yang rata lalu berdiri menghadap qiblat dengan agak lama, lalu berdo'a dengan mengangkat kedua tangannya, kemudian melempar jumrah Al 'Aqabah dari dasar lembah dan dia tidak berhenti disitu lalu berkata: "Begitulah aku melihat Nabi shallallahu 'alaihi wasallam mengerjakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1752</td></tr><tr><td>Arabic No</td><td>1752</td></tr><tr><td>Reference</td><td>Book 25 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, бросал семь камешков в ближний столб, произнося слова такбира после каждого броска, а затем он продвигался вперёд, пока не выходил на ровное место, становился лицом к кибле и долго стоял так, обращаясь с мольбами к Аллаху и подняв руки к небу. Затем он так же бросал камешки в средний (столб), после чего сворачивал налево, выходил на ровное место, становился лицом к кибле и долго стоял так, обращаясь с мольбами к Аллаху и подняв руки к небу. Затем он бросал камешки в большой столб из внутренней части долины, не задерживаясь возле него, после чего уходил, и он говорил: «Я видел, что Посланник Аллаха ﷺ поступал так же»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1752</td></tr><tr><td>Arabic No</td><td>1752</td></tr><tr><td>Reference</td><td>Book 25 Hadith 230</td></tr></tbody></table></div>
 

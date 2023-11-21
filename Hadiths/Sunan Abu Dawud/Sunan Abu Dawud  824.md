@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi’b. Mahmudb. Al-Rabi’ Al-Ansari said:“Ubadah b. al-samit came to late 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi'ah' bin Sulaiman Al Azdi] telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Al Haitsam bin Humaid] telah mengabarkan kepadaku [Zaid bin Waqid] dari [Makhul] dari [Nafi' bin Mahmud bin Ar Rabi'ah' Al Anshari], Nafi' berkata; ['Ubadah bin Shamit] terlambat dari shalat shubuh, maka Abu Nu'aim seorang Mu'adzin mengumandangkan adzan untuk shalat, lalu Abu Nu'aim mengimami shalat orang banyak, tidak lama kemudian Ubadah datang bersamaku hingga kami mengambil shaf di belakang Abu Nu'aim, sedangkan Abu Nu'aim mengeraskan bacaannya, sementara 'Ubadah membaca Al Fatihah. Ketika shalat selesai, aku bertanya kepada Ubadah; "Aku mendengar kamu membaca Al Fatihah ketika Abu Nu'aim mengeraskan bacaannya." Dia menjawab; "Ya, kami juga pernah melakukan ketika shalat bersama Rasulullah shallallahu 'alaihi wasallam di sebagian shalat yang bacaannya di keraskan." Katanya melanjutkan; "Hingga bacaannya bercampur, selepas shalat, beliau menghadap kami sambil bersabda: "Apakah kalian juga ikut membaca ketika aku mengeraskan bacaanku?" sebagian kami menjawab; "Kami melakukan hal itu." Beliau bersabda: "Oleh karenanya aku berkata (dalam hati), kenapa ada yang membaca bersamaku dan mendahuluiku dalam membaca Al Qur'an?, janganlah kalian membaca sesuatu pun ketika aku mengeraskan bacaan, kecuali bacaan Al Fatihah." Telah menceritakan kepada kami [Ali bin Sahl Ar Ramli] telah menceritakan kepada kami [Al Walid] dari [Ibnu Jabir] dan [Sa'id bin Abdul Aziz] dan [Abdullah bin Al 'Ala'] dari [Makhul] dari ['Ubadah] seperti haditsnya Ar Rabi'ah' bin Sulaiman, mereka berkata; "Mak-hul biasa membaca Al Fatihah dengan suara lirih pada waktu shalat Maghrib, Isya' dan Shubuh, di setiap raka'atnya. Kata Mak-hul; "Bacalah Al Fatihah dengan suara lirih (pelan) ketika imam mengeraskan bacaannya ketika berhenti dari membaca Al Fatihah, apabila imam tidak berhenti (diam), maka bacalah sebelum imam membaca atau membaca bersamanya atau setelah imam membacanya, yang penting, janganlah kamu meninggalkannya (tidak membaca Al Fatihah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>824</td></tr><tr><td>Arabic No</td><td>824</td></tr><tr><td>Reference</td><td>Book 2 Hadith 434</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Нафи‘а ибн Махмуда ибн ар-Раби‘ аль-Ансари: «Однажды ‘Убада ибн ас-Самит задержался, и утренней молитвой руководил Абу Ну‘айм муаззин, который предварительно произнёс икамат. Потом пришёл ‘Убада, которого сопровождал я, и мы встали в ряд позади Абу Ну‘айма. Абу Ну‘айм читал аяты вслух, а ‘Убада принялся читать “аль-Фатиху”. После завершения молитвы я сказал ‘Убаде: “Я слышал, как ты читал “аль-Фатиху”, когда Абу Ну‘айм читал аяты вслух”. Он сказал в ответ: “Разумеется. Однажды Посланник Аллаха ﷺ совершал с нами молитву, во время которой читал аяты вслух и начал сбиваться. Завершив молитву, он повернулся к нам и спросил: “Вы читаете одновременно со мной, когда я читаю аяты вслух?” Кто-то из нас сказал: “Да, мы делаем это”. Посланник Аллаха ﷺ сказал: “Нет, не нужно… То-то я заметил, что меня перебивают. Когда я читаю аяты вслух, не читайте ничего, кроме “аль-Фатихи””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>824</td></tr><tr><td>Arabic No</td><td>824</td></tr><tr><td>Reference</td><td>Book 2 Hadith 434</td></tr></tbody></table></div>
 

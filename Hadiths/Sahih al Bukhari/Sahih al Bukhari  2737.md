@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Umar bin Khattab got some land in Khaibar and he went to the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Muhammad bin 'Abdullah Al Anshariy] telah bercerita kepada kami [Ibnu 'Aun] berkata [Nafi'] memberitakan kepadaku dari [Ibnu 'Umar radliallahu 'anhuma] bahwa 'Umar bin Al Khaththab radliallahu 'anhu mendapat bagian lahan di Khaibar lalu dia menemui Nabi shallallahu 'alaihi wasallam untuk meminta pendapat Beliau tentang tanah lahan tersebut dengan berkata: "Wahai Rasulullah, aku mendapatkan lahan di Khaibar dimana aku tidak pernah mendapatkan harta yang lebih bernilai selain itu. Maka apa yang Tuan perintahkan tentang tanah tersebut?" Maka Beliau berkata: "Jika kamu mau, kamu tahan (pelihara) pepohonannya lalu kamu dapat bershadaqah dengan (hasil buah) nya". Ibnu 'Umar radliallahu 'anhu berkata: "Maka 'Umar menshadaqahkannya dimana tidak dijualnya, tidak dihibahkan dan juga tidak diwariskan namun dia menshadaqahkannya untuk para faqir, kerabat, untuk membebaskan budak, fii sabilillah, ibnu sabil dan untuk menjamu tamu. Dan tidak dosa bagi orang yang mengurusnya untuk memakan darinya dengan cara yang ma'ruf (benar) dan untuk memberi makan orang lain bukan bermaksud menimbunnya. Perawi berkata; "Kemudian aku ceritakan hadits ini kepada Ibnu Sirin maka dia berkata: "ghoiru muta'atstsal maalan artinya tidak mengambil harta anak yatim untuk menggabungkannya dengan hartanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2737</td></tr><tr><td>Arabic No</td><td>2737</td></tr><tr><td>Reference</td><td>Book 54 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Получив землю в Хайбаре, ‘Умар ибн аль-Хаттаб пришёл к Пророку ﷺ и сказал: “О Посланник Аллаха, я получил землю в Хайбаре, и у меня никогда не было имущества более ценного, чем эта земля. Что ты велишь мне делать с ней?” (Посланник Аллаха ﷺ) сказал: “Если хочешь, завещай в качестве вакфа её основу и давай милостыню за счёт того, что она будет тебе приносить”. И ‘Умар превратил эту землю в милостыню, поставив условие о том, что её нельзя будет ни продавать, ни дарить, ни наследовать, а доходы, которые она приносила, могут направляться на оказание помощи бедным, близким родственникам, на освобождение рабов, для расходования на пути Аллаха и помощи путникам, а также для приёма гостей. Если же управляющий таким имуществом будет питаться тем, что оно приносит, в пределах разумного или накормит своего друга, не получая никакой иной прибыли (или: ничего не присваивая), в этом не будет ничего дурного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2737</td></tr><tr><td>Arabic No</td><td>2737</td></tr><tr><td>Reference</td><td>Book 54 Hadith 24</td></tr></tbody></table></div>
 

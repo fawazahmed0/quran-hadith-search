@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Barza:Allah's Messenger (ﷺ) disliked to sleep before the 'Isha' p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan kepada kami ['Abdul Wahhab Ats Tsaqafi] berkata, telah menceritakan kepada kami [Khalid Al Hadza'] dari [Abu Al Minhal] dari [Abu Barzah], bahwa Rasulullah shallallahu 'alaihi wasallam tidak suka tidur sebelum shalat 'Isya dan berbincang-bincang setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>568</td></tr><tr><td>Arabic No</td><td>568</td></tr><tr><td>Reference</td><td>Book 9 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Барза, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ не любил спать до вечерней молитвы /‘иша/ и вести разговоры после неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>568</td></tr><tr><td>Arabic No</td><td>568</td></tr><tr><td>Reference</td><td>Book 9 Hadith 45</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما) : Une députation des 'Abd Al-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalaf bin Hisyam] telah menceritakan kepada kami [Hammad bin Zaid] dari [Abu Jamrah] dia berkata, Saya mendengar [Ibnu Abbas]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Yahya bin Yahya] dan lafazh ini adalah miliknya, telah mengabarkan kepada kami [Abbad bin Abbad] dari [Abu Jamrah] dari [Ibnu Abbas] dia berkata, "Utusan Abdul Qais menghadap Rasulullah shallallahu 'alaihi wasallam seraya mereka berkata, 'Wahai Rasulullah, sesungguhnya desa ini adalah termasuk kabilah Rabi'ah, dan sungguh para kafir Mudlar telah menghalangi antara kami dan kamu, sehingga kita tidak bisa selamat menujumu kecuali pada bulan Haram, maka perintahkanlah kepada kami untuk mengamalkan suatu perintah dan kami akan mendakwahkannya kepada orang-orang yang ada di belakang kami.' Beliau bersabda: "Saya memerintahkan kepada kalian dengan empat perkara dan melarang kalian dari empat perkara: Yaitu iman kepada Allah, " kemudian beliau menafsirkannya untuk mereka seraya bersabda: "Persaksian bahwa tidak ada tuhan (yang berhak disembah) selain Allah dan bahwa Muhammad adalah utusan Allah, mendirikan shalat, menunaikan zakat, dan mengeluarkan seperlima dari harta rampasan perang. Dan aku melarang kamu agar tidak membuat arak perasan dalam ad-Duba', al-Hantam, an Naqir dan al-Muqayyar." Khalaf menambahkan dalam riwayatnya, "Persaksian bahwa tidak ada tuhan (yang berhak disembah) selain Allah. Dan mengikatkan sekali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>115</td></tr><tr><td>Arabic No</td><td>17.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Однажды) к Посланнику Аллаха ﷺ прибыла делегация из племени ‘абд аль-кайс, и они сказали: “О Посланник Аллаха, поистине, мы из района Раби‘а, нас отделяют от тебя эти неверные из племени мудар, и мы можем приезжать к тебе только в запретный месяц, так дай же нам веление, в соответствие с которым мы будем действовать и будем призывать к этому других”. Тогда Пророк ﷺ сказал: “Я повелеваю вам четыре вещи и запрещаю четыре вещи: вера в Аллаха”, затем объяснил сказав: “Свидетельство, что нет божества, достойного поклонения, кроме Аллаха, совершение молитвы, выплата закята и выделение вами Аллаху пятой части военной добычи, которую вы захватите. И я запрещаю вам дуббy, хантам, накыр и мукаййар (разные виды сосудов, которые использовались для изготовления спиртного)”».Дубба сосуды из высушенных тыкв. Хантам кувшины из глины. В таких сосудах в Медину привозили вино. Накыр сосуды, выдолбленные из дерева. Мукаййар сосуд, бока которого обмазывались смолой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>115</td></tr><tr><td>Arabic No</td><td>17.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 23</td></tr></tbody></table></div>
 

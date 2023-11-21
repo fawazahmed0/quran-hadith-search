@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. al-Mukhtar heard Musa b. Anas narrating on the authority of Anas b. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ubaidullah bin Muadz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Mukhtar], ia mendengar [Musa bin Anas] mnceritakan dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam pernah shalat bersmanya dan ibunya atau bibinya. Kata Anas selanjutnya; "Kemudian beliau menempatkanku di sebelah kanannya dan beliau menempatkan wanita di belakang kami." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Zuhair bin Harb] katanya; telah menceritakan kepada kami [Abdurrahman yaitu Ibnu Mahdi] katanya; telah menceritakan kepada kami [Syu'bah] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1502</td></tr><tr><td>Arabic No</td><td>660.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 335</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ совершил молитву с ним, его матерью и тётей. Анас сказал: «И он поставил меня справа от себя, а женщин позади нас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1502</td></tr><tr><td>Arabic No</td><td>660.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 335</td></tr></tbody></table></div>
 

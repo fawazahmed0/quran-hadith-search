@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid:Anas was asked, "Did the Prophet (ﷺ) wear a ring?" Anas said, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Yazid bin Zurai'] telah mengabarkan kepada kami [Humaid] dia berkata; [Anas] pernah ditanya; "Apakah Nabi shallallahu 'alaihi wasallam pernah membuat (mengenakan) cincin?” Dia menjawab; 'Beliau pernah mengakhirkan shalat Isya' sampai menjelang tengah malam, kemudian beliau menemui kami, seakan-akan saya melihat kilauan cincin beliau, beliau bersabda: “Orang-orang telah melaksanakan shalat dan tidur, sementara kalian senantiasa dalam keadaan shalat selagi kalian menunggu shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5869</td></tr><tr><td>Arabic No</td><td>5869</td></tr><tr><td>Reference</td><td>Book 77 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумайд, сказал: «Спросили Анаса (ибн Малика), да будет доволен им Аллах: “Носил ли Пророк ﷺ перстень?” Он ответил: “(Однажды) Посланник Аллаха ﷺ откладывал (начало) вечерней молитвы до полуночи, совершив же её, он повернулся к нам, и я будто и сейчас вижу, как блестел (той ночью) его перстень, он и сказал: “(Другие) люди помолились и заснули, а вы продолжали находиться в (состоянии) молитвы (всё то время, пока) дожидались её (начала)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5869</td></tr><tr><td>Arabic No</td><td>5869</td></tr><tr><td>Reference</td><td>Book 77 Hadith 86</td></tr></tbody></table></div>
 

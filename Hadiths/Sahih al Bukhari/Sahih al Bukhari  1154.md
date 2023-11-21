@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:The Prophet (ﷺ) "Whoever gets up at night and say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bun AL Fadhal] telah mengabarkan kepada kami [Al Walid], dia adalah anak dari Muslim telah menceritakan kepada kami [Al Awza'iy] berkata, telah menceritakan kepada saya ['Umair bin Hani'] berkata, telah menceritakan kepada saya [Junadah bin Abu Umayyah] telah menceritakan kepada saya ['Ubadah bin Ash-Shamit] dari Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang bangun di malam hari lalu membaca "laa ilaaha illallah wahdahu laa syariika lahu, lahul mulku wa lahul hamdu wa huwa 'alaa kulli syai-in qadiir. Alhamdulillahi wa subhaanallah wa laa ilaaha illallah wallahu akbar wa laa jaula wa laa quwwata illa billah" (Tidak ada ilah yang berhaq disembah kecuali Allah satu-satunya, tidak ada sekutu bagiNya. Dialah yang memiliki kerajaan dan baginNya segala pujian dan Dia berkuasa atas segala sesuatu. Segala puji bagi Allah dan Maha Suci Allah dan tidak ada ilah kecuali Allah dan Allah Maha Besar dan tidak ada daya dan upaya kecuali dengan Dia") Kemudian dilanjutkan dengan membaca "Allahummaghfirlii" ("Ya Allah ampunilah aku") atau berdo'a, maka akan dikabulkan baginya. Jika dia berwudhu' lalu shalat maka shalatnya diterima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1154</td></tr><tr><td>Arabic No</td><td>1154</td></tr><tr><td>Reference</td><td>Book 19 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Убады бин ас-Самита, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если человек проснётся ночью и скажет: „Нет истинного [достойного поклонения] бога, кроме одного лишь Аллаха, у Которого нет сотоварища, Ему принадлежит власть и Ему хвала; Он всё может; хвала Аллаху; пречист Аллах; нет истинного [достойного поклонения] бога, кроме Аллаха; Аллах велик; нет мощи и силы ни у кого, кроме Аллаха /Ля иляха илля-Ллаху вахда-ху ля шарикя ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамд, ва хуа ‘аля кулли шайй‘ин кадир; аль-хамду ли-Ллях, ва субхана-Ллах, ва ля иляха илля-Ллах, ва-Ллаху акбар, ва ля хауля ва ля куввата илля би-Ллях/“, а потом скажет: „О Аллах, прости меня! /Аллахумма-гфир ли! /“ — или же обратится к Аллаху с (какой-нибудь иной) мольбой, то на мольбу его будет дан ответ, если же он совершит омовение и совершит молитву, то молитва его будет принята»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1154</td></tr><tr><td>Arabic No</td><td>1154</td></tr><tr><td>Reference</td><td>Book 19 Hadith 35</td></tr></tbody></table></div>
 

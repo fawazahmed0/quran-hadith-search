@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of 'Ali b. 'Abd al-Rahman with th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>588</td></tr><tr><td>Arabic No</td><td>251.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но в версии Шу‘бы нет упоминания рибата, а версии Малика он упоминается дважды: «…и это будет для вас (равносильно пребыванию в) рибате, и это будет для вас (равносильно пребыванию в) рибате»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>588</td></tr><tr><td>Arabic No</td><td>251.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 55</td></tr></tbody></table></div>
 

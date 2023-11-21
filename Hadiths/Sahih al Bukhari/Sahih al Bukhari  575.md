@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Zaid bin Thabit said, "We took the "Suhur" (the meal taken before 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ashim] berkata, telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas bin Malik] bahwa [Zaid bin Tsabit] telah menceritakan kepadanya, bahwa mereka pernah sahur bersama Nabi shallallahu 'alaihi wasallam, kemudian mereka berdiri untuk melaksanakan shalat." Aku bertanya, "Berapa jarak antara sahur dengan shalat subuh?" Dia menjawab, "Antara lima puluh hingga enam puluh ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>575</td></tr><tr><td>Reference</td><td>Book 9 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, передал, что Зейд ибн Сабит, да будет доволен им Аллах, рассказывал ему о том, что однажды они вместе с Пророком ﷺ поели перед рассветом во время рамадана, а потом встали на молитву.\n(Анас сказал): «Я спросил: “И сколько времени прошло между одним и другим?” Он ответил: “(За это время) можно было прочитать пятьдесят или шестьдесят аятов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>575</td></tr><tr><td>Reference</td><td>Book 9 Hadith 51</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: A man paid in advance for a palm-tree. It did not be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Abu Ishaq] dari [seorang Najran] dari [Ibnu Umar] bahwa seorang laki-laki telah menjual kurma kepada seseorang secara salaf. Kemudian pada tahun itu, pohon kurma tersebut tidak berbuah sedikitpun. Lalu mereka mengadukan kepada Nabi shallallahu 'alaihi wasallam, beliau lalu menjawab: "Dengan alasan apakah engkau menghalalkan hartanya? Kembalikan harta tersebut kepadanya!" Kemudian beliau berkata: "Janganlah kalian menjual kurma dalam pohon secara salaf hingga nampak kematangannya buah tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3467</td></tr><tr><td>Arabic No</td><td>3467</td></tr><tr><td>Reference</td><td>Book 24 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что один человек купил у другого урожай его пальм заранее, а пальмы в тот год не принесли урожая. Они обратились к Пророку ﷺ с просьбой рассудить их, и он сказал: «На каком основании ты делаешь дозволенными для себя его деньги? Верни их ему». А потом он сказал: «Не продавайте урожай пальм до тех пор, пока не станет очевидно, что плоды годны к употреблению»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3467</td></tr><tr><td>Arabic No</td><td>3467</td></tr><tr><td>Reference</td><td>Book 24 Hadith 52</td></tr></tbody></table></div>
 

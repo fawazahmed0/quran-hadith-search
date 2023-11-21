@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Ibnu Syihab] dari [Abu Abdullah Al Agharr] dan dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Rabb Tabaraka wa Ta'la turun ke langit dunia pada setiap malam, yakni saat sepertiga malam terakhir seraya berfirman, 'Siapa yang berdo'a kepadaKu niscaya akan Aku kabulkan dan siapa yang meminta kepadaKu niscaya akan Aku berikan dan siapa yang memohon ampun kepadaKu, niscaya akan Aku ampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1772</td></tr><tr><td>Arabic No</td><td>758.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 201</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Наш Всеблагой и Всевышний Господь нисходит к нижнему небу каждую ночь, когда остаётся от неё последняя треть, и говорит: “Кто станет взывать ко Мне, чтобы Я ответил ему? Кто станет просить Меня, чтобы Я даровал ему (желаемое)? Кто станет молить Меня о прощении, чтобы Я простил”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1772</td></tr><tr><td>Arabic No</td><td>758.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 201</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:Once Allah's Messenger (ﷺ) said to me, "I have bee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Abu Al 'Abbas] berkata; Aku mendengar ['Abdullah bin 'Amru radliallahu 'anhuma] berkata: "Nabi shallallahu 'alaihi wasallam berkata, kepadaku: "Benarkah kabar bahwa kamu selalu mendirikan shalat di malam hari dan shaum pada siang harinya? Aku jawab: 'Benar ". Beliau shallallahu 'alaihi wasallam bersabda: "Sungguh jika kamu lakukan terus menerus maka nanti matamu letih dan jiwamu lemah. Sungguh untuk dirimu ada haknya, juga keluargamu punya hak, maka shaumlah dan juga berbukalah, bangun untuk shalat malam dan juga tidurlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1153</td></tr><tr><td>Arabic No</td><td>1153</td></tr><tr><td>Reference</td><td>Book 19 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ сказал мне: “О ‘Абдуллах, мне сообщили, что ты совершаешь молитву по ночам и постишься днём”. Я сказал: “Да, я так и делаю”. Он сказал: “Если ты будешь делать это, твоё зрение ослабеет, и ты сам станешь слабым. Поистине, у твоего тела есть на тебя право, и у твоей семьи есть на тебя право. Поэтому иногда постись, а иногда не постись, иногда совершай ночную молитву, а иногда спи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1153</td></tr><tr><td>Arabic No</td><td>1153</td></tr><tr><td>Reference</td><td>Book 19 Hadith 34</td></tr></tbody></table></div>
 

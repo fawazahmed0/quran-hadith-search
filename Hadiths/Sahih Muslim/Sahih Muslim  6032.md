@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Khudri reported that Allah's Messenger (ﷺ) was more modest than the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia mendengar ['Abdullah bin Abu 'Utbah] bercerita dari [Abu Sa'id Al Khudri]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] serta [Ahmad bin Sinan]. [Zuhair] berkata; Telah menceritakan kepada kami ['Abdur Rahman bin Mahdi] dari [Syu'bah] dari [Qatadah] dia berkata; Aku mendengar ['Abdullah bin Abi 'Utbah] berkata; Aku mendengar [Abu Sa'id Al Khudri] berkata; "Rasulullah shallallahu 'alaihi wasallam adalah orang yang sangat pemalu, lebih malu dari gadis pingitan. Apabila beliau tidak menyenangi sesuatu, maka kami dapat mengetahuinya di wajah beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6032</td></tr><tr><td>Arabic No</td><td>2320</td></tr><tr><td>Reference</td><td>Book 43 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6032</td></tr><tr><td>Arabic No</td><td>2320</td></tr><tr><td>Reference</td><td>Book 43 Hadith 90</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1865</td></tr><tr><td>Arabic No</td><td>799.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 293</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что (однажды) Посланник Аллаха ﷺ сказал Убайю ибн Ка‘бу: «Поистине, Аллах велел мне прочесть тебе (суру, в которой сказано): “Не расставались те, которые не уверовали…”». Тот спросил: «И Он назвал тебе моё имя?». (Пророк ﷺ) сказал: «Да», и (тогда Убай) заплакал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1865</td></tr><tr><td>Arabic No</td><td>799.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 293</td></tr></tbody></table></div>
 

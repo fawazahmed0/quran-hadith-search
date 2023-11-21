@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that the Messenger of Allah (ﷺ) observed two rak'ahs of the da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab], katanya; aku mendengar [Yahya bin Said] berkata; telah mengabarkan kepadaku [Muhammad bin Abdurrahman] bahwa ia mendengar ['Amrah] menceritakan dari ['Aisyah], bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam sering shalat dua rakaat fajar dan meringankan raka'atnya hingga aku berkata dalam hari; "Apakah beliau membaca Alfatihah?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1684</td></tr><tr><td>Arabic No</td><td>724.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Аиша, да будет доволен ею Аллах, говорила: «Обычно Посланник Аллаха ﷺ совершал молитву в два рак‘ата (перед обязательной) утренней молитвой, сокращая их (настолько), что я даже говорила (себе): “Да читал ли он в них “Мать Корана”?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1684</td></tr><tr><td>Arabic No</td><td>724.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 114</td></tr></tbody></table></div>
 

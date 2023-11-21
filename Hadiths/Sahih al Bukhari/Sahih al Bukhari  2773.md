@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:'Umar got some property in Khaibar and he came to the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu 'Ashim] telah bercerita kepada kami [Abu 'Aun] dari [Nafi'] dari [Ibnu 'Umar] bahwa 'Umar radliallahu 'anhuma mendapatkan harta di Khaibar lalu dia menemui Nabi shallallahu 'alaihi wasallam dan mengabarkannya. Maka Beliau berkata: "Jika kamu mau, kamu shadaqahkan (hasil) nya". Maka 'Umar menshadaqahkannya untuk para fakir dan miskin, kerabat dan untuk menjamu tamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2773</td></tr><tr><td>Arabic No</td><td>2773</td></tr><tr><td>Reference</td><td>Book 55 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, что когда ‘Умар, да будет доволен им Аллах, получил землю в Хайбаре, он пришёл к Пророку ﷺ и сказал ему об этом. Пророк ﷺ сказал: «Если хочешь, ты можешь отдать её в качестве милостыни». И он отдал эту землю в качестве милостыни для бедных, неимущих, близких и для приёма гостей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2773</td></tr><tr><td>Arabic No</td><td>2773</td></tr><tr><td>Reference</td><td>Book 55 Hadith 36</td></tr></tbody></table></div>
 

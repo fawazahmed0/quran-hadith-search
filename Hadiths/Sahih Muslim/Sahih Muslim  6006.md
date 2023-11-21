@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Sa'id bin Manshur], [Abu Rabi' Al 'Ataki] serta [Abu Kamil] lafazh ini dari milik Yahya. [Yahya] berkata; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas bin Malik] dia berkata; "Rasulullah shallallahu 'alaihi wasallam adalah orang yang paling baik, paling pemurah, dan paling berani. Pada suatu malam penduduk Madinah dikejutkan oleh suatu suara, lalu orang banyak keluar ke arah datangnya suara itu. Di tengah jalan mereka bertemu dengan Rasulullah shallallahu 'alaihi wasallam justru telah hendak pulang (dari suara itu). Rupanya beliau telah mendahului mereka ke tempat datangnya suara itu. Beliau mengendarai kuda yang dipinjamnya dari Abu Thalhah, sambil menyandang pedang. Beliau bersabda; "Sungguh kudapati kuda ini sedemikian kencang larinya bagaikan ombak menggulung lautan." Atau dengan redaksi "Sungguh kuda ini bagaikan ombak menggulung lautan." Kata Anas, padahal kuda itu sebelumnya sangat pelan jalannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6006</td></tr><tr><td>Arabic No</td><td>2307.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6006</td></tr><tr><td>Arabic No</td><td>2307.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 65</td></tr></tbody></table></div>
 

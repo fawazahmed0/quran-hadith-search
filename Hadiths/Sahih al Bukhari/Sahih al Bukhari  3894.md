@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The Prophet (ﷺ) engaged me when I was a girl of six (years). We
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Farwah bin Abu Al Maghra'] telah menceritakan kepada kami ['Ali bin Mushir] dari [Hisyam] dari [bapaknya] dari ['Aisyah] radliallahu 'anha berkata; Nabi shallallahu 'alaihi wasallam menikahiku saat aku berusia enam tahun, lalu kami tiba di Madinah dan singgah di kampung Bani Al harits bin Khazraj. Kemudian aku menderita demam hingga rambutku menjadi rontok. Setelah sembuh, rambutku tumbuh lebat sehingga melebihi bahu. Kemudian ibuku, Ummu Ruman datang menemuiku saat aku sedang berada dalam ayunan bersama teman-temanku. Ibuku berteriak memanggilku lalu aku datangi sementara aku tidak mengerti apa yang diinginkannya. Ibuku menggandeng tanganku lalu membawaku hingga sampai di depan pintu rumah. Aku masih dalam keadaan terengah-engah hingga aku menenangkan diri sendiri. Kemudian ibuku mengambil air lalu membasuhkannya ke muka dan kepalaku lalu dia memasukkan aku ke dalam rumah itu yang ternyata didalamnya ada para wanita Anshar. Mereka berkata; "Mudah-mudahan memperoleh kebaikan dan keberkahan dan dan mudah-mudahan mendapat nasib yang terbaik". Lalu ibuku menyerahkan aku kepada mereka. Mereka merapikan penampilanku. Dan tidak ada yang membuatku terkejut melainkan keceriaan Rasulullah shallallahu 'alaihi wasallam. Akhirnya mereka menyerahkan aku kepada beliau dimana saat itu usiaku sembilan tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>3894</td></tr><tr><td>Reference</td><td>Book 63 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Мой брачный договор с Пророком ﷺ был заключен, когда мне исполнилось шесть лет. Потом мы приехали в Медину и остановились (в квартале) бану аль-харис бин хазрадж. После этого я заболела, и у меня выпали волосы, а потом они снова отросли. (Однажды, когда) я качалась на качелях вместе с моими подругами, моя мать Умм Руман пришла ко мне и громко позвала меня, а я подошла к ней, не зная, чего она хотела. Она взяла меня за руку и привела к дверям дома. Я тяжело дышала, а когда мое дыхание стало успокаиваться, она взяла немного воды и протерла мне лицо и голову, после чего ввела меня в дом. В этом доме находились женщины из числа ансаров, которые стали говорить: “(Желаем тебе) блага, благословения (Аллаха) и удачи!” И (моя мать) передала меня (этим женщинам), которые приготовили меня (к свадьбе), а утром пришёл Посланник Аллаха ﷺ и (моя мать) передала меня ему, а было мне тогда девять лет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>3894</td></tr><tr><td>Reference</td><td>Book 63 Hadith 119</td></tr></tbody></table></div>
 

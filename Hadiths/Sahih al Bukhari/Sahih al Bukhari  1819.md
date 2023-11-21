@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whoever performs Hajj to thi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Manshur] aku mendengar [Abu Hazim] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang menunaikan haji di Baitullah ini kemudian tidak berkata, -kata kotor dan tidak berbuat fasiq maka bila dia kembali keadaannya seperti saat dilahirkan oleh ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1819</td></tr><tr><td>Arabic No</td><td>1819</td></tr><tr><td>Reference</td><td>Book 27 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот, кто совершит хадж к этому дому (Каабе), не совершив половую близость со своей женой (или не сказав ничего непристойного) и не совершив ничего греховного, вернётся (домой таким же), каким (он был в тот день), когда его родила мать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1819</td></tr><tr><td>Arabic No</td><td>1819</td></tr><tr><td>Reference</td><td>Book 27 Hadith 14</td></tr></tbody></table></div>
 

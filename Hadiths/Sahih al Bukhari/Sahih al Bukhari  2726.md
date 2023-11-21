@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aiman Al-Makki:When I visited Aisha she said, "Barirah who had a writte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Khallad bin Yahya] telah bercerita kepada kami ['Abdul Wahid bin Aiman Al Makkiy] dari [bapaknya] berkata; Aku menemui ['Aisyah] radliallahu 'anha lalu dia berkata: "Barirah pernah datang kepadaku sementara dia seorang budak mukatab, lalu berkata: "Wahai Ummul Mu'minin, belilah aku karena tuanku akan menjualku, maka merdekakanlah aku". 'Aisyah berkata: "baiklah". Barirah berkata: "Sesungguhnya tuanku tidak akan menjualku kecuali dengan membuat persyaratan tentang perwalianku". 'Aisyah berkata: "Aku tidak ada keperluan dalam urusanmu itu". Kemudian Nabi shallallahu 'alaihi wasallam mendengar hal ini atau sampai kabar hal ini kepada Beliau lalu Beliau bertanya: "Ada apa dengan Bararah?" Kemudian Beliau bersabda: "Belilah dia lalu bebaskanlah dan biarkanlah mereka dengan persyaratan yang mereka buat sesuka mereka". Maka 'Aisyah membelinya lalu membebaskannya sedangkan tuannya meminta perwaliannya. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Perwalian menjadi milik orang yang membebaskannya sekalipun mereka membuat seratus persyaratam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2726</td></tr><tr><td>Arabic No</td><td>2726</td></tr><tr><td>Reference</td><td>Book 54 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Айман аль-Макки сказал: «Когда я посетил ‘Аишу, да будет доволен им Аллах, она сказала: “Заключив договор о самовыкупе, Барира, пришла ко мне и сказала: “О мать правоверных, выкупи меня, мои хозяева продают меня, так освободи же меня!” ‘Аиша сказала: “Хорошо”. Барира сказала: “Поистине, мои хозяева продадут меня, только поставив условие, что право на моё покровительство останется за ними”. ‘Аиша сказала: “Тогда я не нуждаюсь в тебе”. Услышав об этом Пророк ﷺ спросил: “Что случилось у Бариры?” (После того, как она рассказала ему,) он сказал: “Купи её и освободи, и пусть ставят те условия, какие захотят”. ‘Аиша сказала: “Я купила её и освободила, а её хозяева поставили условием (её продажи), что право на её покровительство останется за ними”. Тогда Пророк ﷺ сказал: “Покровителем может быть только тот, кто освободил раба, даже если они поставят сто условий!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2726</td></tr><tr><td>Arabic No</td><td>2726</td></tr><tr><td>Reference</td><td>Book 54 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Abbas: Ibn Umar misunderstood (the Qur'anic verse, "So com
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Yahya Abu Al Ashbagh], telah menceritakan kepadaku [Muhammad bin Salamah], dari [Muhammad bin Ishaq] dari [Aban bin Shalih] dari [Mujahid] dari [Ibnu Abbas], ia berkata; sesungguhnya Ibnu Umar semoga Allah mengampuninya, ia telah melakukan suatu kesalahan. Sesungguhnya terdapat sebuah kampong anshar yang merupakan para penyembah berhala, hidup bersama kampong yahudi yang merupakan ahli kitab. Dan mereka memandang bahwa orang-orang yahudi memeliki keutamaan atas mereka dalam hal ilmu. Dan mereka mengikuti kebanyakan perbuatan orang-orang yahudi. Diantara keadaan ahli kitab adalah bahwa mereka tidak menggauli isteri mereka kecuali dengan satu cara, dan hal tersebut lebih menjaga rasa malu seorang wanita. Dan orang-orang anshar ini mengikuti perbuatan mereka dalam hal tersebut. Sementara orang-orang Quraisy menggauli isteri-isteri mereka dengan cara yang mereka ingkari, orang-orang Quraisy menggauli mereka dalam keadaan menghadap dan membelakangi serta dalam keadaan terlentang. Kemudian tatkala orang-orang muhajirin datang ke Madinah, salah seorang diantara mereka menikahi seorang wanita anshar. Kemudian ia melakukan hal tersebut. Kemudian wanita anshar tersebut mengingkarinya dan berkata; sesungguhnya kami didatangi dengan satu cara, maka lakukan hal tersebut, jika tidak maka jauhilah aku! Hingga tersebar permasalahan mereka, dan hal tersebut sampai kepada Rasulullah shallallahu 'alaihi wasallam. kemudian Allah 'azza wajalla menurunkan ayat: "Isteri-isterimu adalah (seperti) tanah tempat kamu bercocok tanam, maka datangilah tanah tempat bercocok-tanammu itu bagaimana saja kamu kehendaki." Yakni dalam keadaan menghadap (saling berhadapan), membelakangi dan terlentang, yaitu pada tempat diperolehnya anak (farj)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2164</td></tr><tr><td>Arabic No</td><td>2164</td></tr><tr><td>Reference</td><td>Book 12 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Ибн ‘Аббас, да будет доволен Аллах им и его отцом: «Ибн ‘Умар, да простит его Аллах, ошибся. Он утверждал, что это племя ансаров-язычников соседствовало с племенем иудеев людей Писания, и ансары относились к ним с уважением, потому что у иудеев было знание, которого не было у них, и подражали им во многом. Люди Писания совокуплялись с женщинами только в одном положении, когда женщина была максимально укрыта. И ансары переняли от них этот обычай. А в квартале, населённом курайшитами, напротив, раскрывали женщин полностью и наслаждались ими, приходя к ним сзади, и спереди, и когда они лежали на боку. И вот, когда мухаджиры прибыли в Медину, один из них женился на женщине из числа ансаров и начал делать это с ней, и она стала осуждать его за это. Она сказала ему: “К нам всегда входили только одним способом. Поступай так же или не приближайся ко мне!” Вскоре многие узнали об их ситуации, и весть об этом дошла до Посланника Аллаха ﷺ. Тогда Всемогущий и Великий Аллах ниспослал: “Ваши жёны являются пашней для вас. Приходите же на вашу пашню, когда и как пожелаете” (сура 2 «аль-Бакара», аят 223). Другими словами, приходите к ним спереди и сзади и когда они лежат на спине, но только в половые органы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2164</td></tr><tr><td>Arabic No</td><td>2164</td></tr><tr><td>Reference</td><td>Book 12 Hadith 119</td></tr></tbody></table></div>
 

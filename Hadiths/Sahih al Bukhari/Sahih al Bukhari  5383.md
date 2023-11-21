@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) died when we had satisfied our hunger with the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] Telah menceritakan kepada kami [Wuhaib] Telah menceritakan kepada kami [Manshur] dari [Ibunya] dari [Aisyah] radliallahu 'anha ia berkata; Nabi shallallahu 'alaihi wasallam wafat ketika kami kenyang karena makan kurma dan minum air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5383</td></tr><tr><td>Arabic No</td><td>5383</td></tr><tr><td>Reference</td><td>Book 70 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ умер в то время, когда мы могли полностью насыщаться финиками и водой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5383</td></tr><tr><td>Arabic No</td><td>5383</td></tr><tr><td>Reference</td><td>Book 70 Hadith 11</td></tr></tbody></table></div>
 

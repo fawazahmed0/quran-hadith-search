@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: How will you do wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] bahwa [Abdul Aziz bin Abu Hazim] menceritakan kepada mereka, dari [Bapaknya] dari [Umarah bin Amru] dari [Abdullah bin Amru bin Al Ash] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Bagaimana kondisi kalian pada zaman, atau beliau mengatakan, "Hampir-hampir akan datang kepada kalian suatu masa, orang-orang yang baik telah pergi dan tinggal orang-orang yang jelek. Janji-janji dan amanah mereka telah rusak, mereka berselisih, dan mereka menjadi seperti ini -beliau menganyam antara jemarinya-". Para sahabat bertanya, "Wahai Rasulullah, lalu bagaimana dengan kami; apa yang engkau perintahkan?" beliau menjawab: "Ambillah apa yang kalian ketahui (dari kebenarannya) dan jauhi apa yang kalian ingkari, terimalah apa yang menjadi hak kalian dan tinggalkan apa yang menjadi hak khalayak umum." Abu Dawud berkata, "Demikianlah hadits ini diriwayatkan oleh Abdullah bin Amru dari Nabi shallallahu 'alaihi wasallam dengan banyaknya jalur periwayatan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4342</td></tr><tr><td>Arabic No</td><td>4342</td></tr><tr><td>Reference</td><td>Book 39 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Амр ибн аль-‘Ас (да будет доволен Аллах им и его отцом) передаёт, что Посланник Аллаха ﷺ сказал: «Каково вам будет, когда настанет время (или: приближается то время), когда люди будут просеяны через сито и останется шелуха люди ненадёжные и не исполняющие свои обещания и обязательства. И среди них будут разногласия, и будут они вести себя вот так». С этими словами Посланник Аллаха ﷺ переплёл пальцы. Люди спросили: «Что же нам делать, о Посланник Аллаха?» Он ответил: «Вы должны принимать то, что знаете, и отвергать то, чего не знаете, и заботиться о себе, перестав обращать внимание на (отдалившееся от религии) большинство»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4342</td></tr><tr><td>Arabic No</td><td>4342</td></tr><tr><td>Reference</td><td>Book 39 Hadith 52</td></tr></tbody></table></div>
 

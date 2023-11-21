@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’id (Al Khudri) reported The Prophet(ﷺ) was asked “Which believers a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi], telah menceritakan kepada kami [Sulaiman bin Katsir], telah menceritakan kepada kami [Az Zuhri], dari ['Atha' bin Yazid] dari [Abu Sa'id], dari Nabi shallallahu 'alaihi wasallam bahwa beliau ditanya; siapakah orang mukmin yang paling sempurna keimanannya? Beliau bersabda: "Seseorang yang berperang di jalan Allah dengan jiwa dan hartanya, serta seseorang yang beribadah kepada Allah di sebuah lembah dan orang-orang telah terhindar dari keburukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2886) Sahih Muslim (1888)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2485</td></tr><tr><td>Arabic No</td><td>2485</td></tr><tr><td>Reference</td><td>Book 15 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2886) Sahih Muslim (1888)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2485</td></tr><tr><td>Arabic No</td><td>2485</td></tr><tr><td>Reference</td><td>Book 15 Hadith 9</td></tr></tbody></table></div>
 

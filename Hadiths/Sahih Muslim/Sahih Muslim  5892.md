@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Yahya bin Zakaria] dari [Israil] dari ['Abdul Malik bin 'Umair] dari [Abu Salamah bin 'Abdur Rahman] dia berkata; Aku mendengar [Abu Hurairah] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sya'ir paling benar yang pernah di ucapkan oleh seorang penyair adalah syairnya Labid, dia bersyair: "Alaa, kullu syaiin maa khalallaha bathil (Ketahuilah, segala sesuatu selain Allah itu pasti binasa)." Dan beliau tidak menambahkan lebih dari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5892</td></tr><tr><td>Arabic No</td><td>2256.05</td></tr><tr><td>Reference</td><td>Book 41 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5892</td></tr><tr><td>Arabic No</td><td>2256.05</td></tr><tr><td>Reference</td><td>Book 41 Hadith 7</td></tr></tbody></table></div>
 

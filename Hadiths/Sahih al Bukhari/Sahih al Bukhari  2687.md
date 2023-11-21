@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Al-Ala:That when the Ansar drew lots as to which of the emigrants sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah menceritakan kepadaku [Kharijah bin Zaid Al Anshariy] bahwa [Ummu Al 'Alaa'], seorang wanita dari kalangan mereka yang telah berbai'at kepada Nabi shallallahu 'alaihi wasallam mengabarkan kepadanya bahwa 'Utsman bin Mazh'un diberikan bagiannya ketika Kaum Anshar menawarkan tempat tinggal kepada Kaum Muhajirin" Berkata Ummu Al 'Alaa': "Lalu 'Utsman bin Mazh'un mendapatkan bagiannya untuk tinggal bersama kami. Namun kemudian dia menderita sakit yang membawa kepada kematianya. Lalu dia kami mandikan dan kafani dengan baju yang dikenakannnya. Tak lama kemudian Rasulullah shallallahu 'alaihi wasallam datang, lalu aku berkata kepada Beliau: "Semoga rahmat Allah tercurah atasmu wahai Abu As-Sa'ib ('Utsman bin Mazh'un). Dan persaksianku atasmu bahwa Allah telah memuliakanmu". Maka Nabi shallallahu 'alaihi wasallam berkata: "Dari mana kamu tahu bahwa Allah telah memuliakannya?" Aku jawab: "Demi bapak ibuku untuk anda, aku tidak tahu wahai Rasulullah". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Adapun 'Utsman, demi Allah, telah datang kepadanya Al Yaqin (kematian) dan aku berharap dia berada diatas kebaikan. Demi Allah, meskipun aku ini Rasulullah, aku sendiri tidak tahu apa yang akan dilakukan-Nya terhadapku". Dia (Ummu Al 'Ala') berkata: "Demi Allah, tidak seorangpun yang aku sucikan setelah peristiwa itu selamanya dan peristiwa ini membuatku bersedih". Dia berkata: "Kemudian aku tidur dan bermimpi, aku melihat ada air yang mengalir untuk 'Utsman. Kemudian aku temui Rasulullah shallallahu 'alaihi wasallam lalu aku kabarkan tentang mimpiku itu, maka Beliau bersabda: "Itulah amal dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2687</td></tr><tr><td>Arabic No</td><td>2687</td></tr><tr><td>Reference</td><td>Book 52 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Хариджа ибн Зейд аль-Ансари передаёт, что однажды Умм аль-‘Аля, да будет доволен ею Аллах, женщина из числа ансаров, которая дала Пророку ﷺ клятву на верность исламу, сказала: «Когда ансары распределили мухаджиров на постой по жребию, нам достался ‘Усман ибн Маз‘ун, (которого мы поселили в нашем) доме, а (через некоторое время) он заболел и мы ухаживали за ним до тех пор, пока он не умер. После (того как он умер), мы завернули его в его же одежду, и к нам пришёл Посланник Аллаха ﷺ, а я сказала: “Да помилует тебя Аллах, о Абу-с-Са‘иб! Свидетельствую, что Аллах почтил тебя!” (Услышав эти слова,) Пророк ﷺ спросил: “Откуда тебе знать, (что Аллах почтил его)?” Я сказала: “Я не знаю, да станет мой отец выкупом за тебя, о Посланник Аллаха!” Тогда Посланник Аллаха ﷺ сказал: “Что касается ‘Усмана, то, клянусь Аллахом, он скончался, и, поистине, я желаю ему блага, однако клянусь Аллахом и в том, что не знаю, что будет сделано с ним, хотя я и посланник Аллаха!”».\nУмм аль-‘Аля сказала: «И, клянусь Аллахом, с тех пор я больше ни о ком не говорю так». (Умм аль-‘Аля) сказала: «И я увидела (во сне) текущий родник, принадлежавший ‘Усману (ибн Маз‘уну). И я пришла к Посланнику Аллаха ﷺ и сообщила ему об этом, и он сказал: “Это его деяния, (которые непрерывно текут к нему)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2687</td></tr><tr><td>Arabic No</td><td>2687</td></tr><tr><td>Reference</td><td>Book 52 Hadith 48</td></tr></tbody></table></div>
 

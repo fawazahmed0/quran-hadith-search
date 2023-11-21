@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubaida: Ali said (to the people of 'Iraq), "Judge as you used to judge,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin Al Ja'di] telah mengabarkan kepada kami [Syu'bah] dari [Ayyub] dari [Ibnu Sirin] dari ['Abidah] dari ['Ali radliallahu 'anhuma] berkata; "Putuskanlah sebagaimana biasa kalian memutuskan perkara, karena aku tidak suka perbedaan pendapat sehingga semua manusia berada dalam kesepakatan, atau aku mati (diatas prinsip persatuan) sebagaimana para sahabatku mati". Adalah [Ibnu Sirin] berpendapat bahwa pada umumnya apa yang diriwayatkan tentang 'Ali (yang berselisih dengan dua orang pendahulunya, Abu Bakr dan 'Umar bin Al Khaththab, seperti pendapat kaum ar-Rafidlah) adalah dusta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3707</td></tr><tr><td>Arabic No</td><td>3707</td></tr><tr><td>Reference</td><td>Book 62 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абиды, что ‘Али, да будет доволен им Аллах, сказал: «Выносите решение так, как вы это делали ранее. Воистину, я не желаю разногласия, (а делаю всё), чтобы люди были единой общиной, или я умру так, как умерли мои друзья»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3707</td></tr><tr><td>Arabic No</td><td>3707</td></tr><tr><td>Reference</td><td>Book 62 Hadith 57</td></tr></tbody></table></div>
 

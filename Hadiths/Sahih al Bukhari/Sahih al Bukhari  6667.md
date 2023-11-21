@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man entered the mosque and started praying while Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Ubaidullah bin Umar] dari [Said bin Abi Sa'id] dari [Abu Hurairah], ada seorang laki-laki masuk masjid dan shalat, sedang Rasulullah Shallallahu'alaihiwasallam ketika itu berada di pojok masjid. kemudian lelaki tersebut datang menemui Nabi dan memberi salam, tapi beliau berujar: "kembali dan shalaatlah, (karena) kamu belum melakukan shalat!" Orang itu mengulangi shalatnya dan mengucapkan salam. Nabi shallallahu 'alaihi wasallam bersabda lagi; "kembalilah dan lakukan shalat (lagi), sebab engkau belum melakukan shalat!" Pada kali ketiganya, orang itu berujar; 'ajarilah aku! ' Nabi menjawab: "Jika kamu hendak melakukan shalat, sempurnakanlah wudhu dan menghadaplah ke kiblat, kemudian bertakbirlah dan bacalah al qur'an yang mudah bagimu, kemudian ruku'lah hingga kamu lakukan ruku'mu dengan tenang, kemudian angkatlah kepalamu hingga engkau berdiri dengan tenang, kemudian sujudlah hingga engkau sujud dengan tenang, kemudian angkatlah hingga engkau betul-betul duduk lurus dan tenang, kemudian sujudlah hingga engkau sujud dengan tenang, kemudian angkatlah hingga engkau berdiri dengan tenang, lakukanlah yang demikian dalam semua shalatmu semuanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>6667</td></tr><tr><td>Reference</td><td>Book 83 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что однажды, когда Посланник Аллаха ﷺ находился в одном из углов мечети, в мечеть вошёл один человек и совершил молитву. После чего он подошёл (к Посланнику Аллаха ﷺ) и поприветствовал его. (Ответив на его приветствие, Посланник Аллаха ﷺ) сказал ему: «Вернись и соверши молитву, ибо, поистине, ты не помолился!» Он вернулся совершил молитву, а потом поприветствовал (Пророка ﷺ), и (Посланник Аллаха ﷺ) сказал: «И тебе мир! Вернись и соверши молитву, ибо, поистине, ты не помолился!» На третий раз он сказал: «Научи же меня!» (Пророк ﷺ) сказал: «Когда соберёшься совершить молитву, то тщательно соверши омовение, после чего встань лицом к кибле и скажи: “Аллах превелик!”, потом прочти, что сможешь из Корана, потом соверши поясной поклон, пока не замрёшь в таком положении, потом подними свою голову, выпрямившись полностью, потом соверши земной поклон, пока не замрёшь в таком положении, потом поднимись, пока не выпрямишься сидя и не замрёшь в таком положение, потом соверши земной поклон, пока не замрёшь в таком положении, потом поднимись, пока не выпрямишься полностью, а потом поступай так в течение всей своей молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>6667</td></tr><tr><td>Reference</td><td>Book 83 Hadith 45</td></tr></tbody></table></div>
 

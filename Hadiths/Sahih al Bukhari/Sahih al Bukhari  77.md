@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mahmud bin Rabi'a:When I was a boy of five, I remember, the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Yusuf] berkata, Telah menceritakan kepada kami [Abu Mushir] berkata, Telah menceritakan kepadaku [Muhammad bin Harb] Telah menceritakan kepadaku [Az Zubaidi] dari [Az Zuhri] dari [Mahmud bin Ar Rabbi'] berkata: "Aku mengingat dari Nabi, saat Beliau melumuri air ludah Beliau di wajahku, saat itu aku baru berumur lima tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Arabic No</td><td>77</td></tr><tr><td>Reference</td><td>Book 3 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Махмуд ибн ар-Раби‘, да будет доволен им Аллах, сказал: «Я запомнил, что (однажды), когда мне было пять лет, Пророк ﷺ брызнул мне в лицо водой, набрав её ртом из ведра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Arabic No</td><td>77</td></tr><tr><td>Reference</td><td>Book 3 Hadith 19</td></tr></tbody></table></div>
 

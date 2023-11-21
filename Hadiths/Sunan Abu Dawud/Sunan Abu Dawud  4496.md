@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuShurayh al-Khuza'i: The Prophet (ﷺ) said: If a relative of anyone 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah mengabarkan kepada kami [Muhammad bin Ishaq] dari [Al Harits bin Fudhail] dari [Sufyan bin Abu Al 'Auja] dari [Abu Syuraih Al AKhuza'i] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa mendapat musibah berupa pembunuhan atau cacat anggota badan maka ia mempunyai tiga pilihan; minta qishas, memberi maaf, atau meminta tebusan denda. Jika ia menginginkan yang keempat maka halangilah, dan barangsiapa melampaui batas setelah itu maka baginya siksa yang pedih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4496</td></tr><tr><td>Arabic No</td><td>4496</td></tr><tr><td>Reference</td><td>Book 41 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Шурайха аль-Хуза‘и, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кого постигло (не обоснованное шариатскими причинами) убийство (близких из числа тех, кому он наследует) или повреждение органов, тот должен выбрать одно из трёх: воздаяние равным /кысас/, прощение или компенсацию /дийа/. А кто станет искать четвёртый вариант, того хватайте за руки. И кто преступит границы после этого, того ждёт болезненное наказание»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4496</td></tr><tr><td>Arabic No</td><td>4496</td></tr><tr><td>Reference</td><td>Book 41 Hadith 3</td></tr></tbody></table></div>
 

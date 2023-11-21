@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMalik al-Ash'ari: The Prophet (ﷺ) said: Allah has protected you fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Auf Ath Tha'i] berkata, telah menceritakan kepada kami [Muhammad bin Isma'il] berkata, telah menceritakan kepadaku [Bapakku]. [Ibnu Auf] berkata; Aku membaca dalam buku Isma'il; ia berkata; telah menceritakan kepadaku [Dhamdham] dari [Syuraih] dari [Abu Malik] -maksudnya Abul Malik Al Asy'ari- ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah melindungi kalian dari tiga hal; jangan sampai Nabi kalian mendoakan (keburukan), hingga kalian mendapat kecelakaan, jangan sampai pendukung kebatilan (orang-orang kafir) mengalahkan pendukung kebenaran, dan jangan sampai kalian berkumpul dalam kesesatan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4253</td></tr><tr><td>Arabic No</td><td>4253</td></tr><tr><td>Reference</td><td>Book 37 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Малика аль-Аш‘ари, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, Всевышний Аллах уберёг вас от трёх вещей. Ваш пророк не станет обращаться к Нему с мольбой против вас, в результате которой вы все погибнете, приверженцы ложного никогда не одолеют приверженцев истины, и вы никогда не впадёте в заблуждение всей общиной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4253</td></tr><tr><td>Arabic No</td><td>4253</td></tr><tr><td>Reference</td><td>Book 37 Hadith 14</td></tr></tbody></table></div>
 

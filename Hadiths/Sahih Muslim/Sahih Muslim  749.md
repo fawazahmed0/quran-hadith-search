@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:A woman asked the Messenger of Allah (ﷺ) how he should wash he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>749</td></tr><tr><td>Arabic No</td><td>332.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что какая-то женщина спросила Пророка ﷺ: «Как мне следует совершать большое омовение, после (завершения) месячных?» И он сказал: «Возьми кусок шерсти, пропитанной мускусом, и очищайся этим». Далее подобно подобно предыдущему хадису
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>749</td></tr><tr><td>Arabic No</td><td>332.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 71</td></tr></tbody></table></div>
 

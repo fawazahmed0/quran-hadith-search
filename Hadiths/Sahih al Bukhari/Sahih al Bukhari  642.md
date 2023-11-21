@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Once the Iqama was pronounced and the Prophet (ﷺ) was talking to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar Abdullah bin 'Amru] berkata, telah menceritakan kepada kami ['Abdul Warits] berkata, telah menceritakan kepada kami ['Abdul 'Aziz bin Shuhaib] dari [Anas bin Malik] berkata, "Pada suatu hari ketika iqamat sudah dibacakan, Nabi shallallahu 'alaihi wasallam masih berbicara dengan seseorang di sisi masjid. Beliau belum juga melaksanakan shalat hingga sebagian para sahabat tertidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>642</td></tr><tr><td>Arabic No</td><td>642</td></tr><tr><td>Reference</td><td>Book 10 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды,) когда уже было объявлено о начале молитвы, Пророк ﷺ всё ещё продолжал беседовать с каким-то человеком в углу мечети и не стал на молитву, пока не заснули (некоторые) люди»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>642</td></tr><tr><td>Arabic No</td><td>642</td></tr><tr><td>Reference</td><td>Book 10 Hadith 39</td></tr></tbody></table></div>
 

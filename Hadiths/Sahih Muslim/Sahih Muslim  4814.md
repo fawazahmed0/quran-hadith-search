@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated (through a different chain of transmitters) on the authorit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim], Ishaq berkata; telah mengabarkan kepada kami, dan 'Utsman mengatakan; telah menceritakan kepada kami [Jarir] dari [Al A'masy] telah menceritakan kepadaku [Salim bin Abu Al Ja'd] dia berkata, "Saya bertanya kepada [Jabir], "Berapakah jumlah kalian saat itu?" dia menjawab, "Seribu empat ratus orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>1856.08</td></tr><tr><td>Reference</td><td>Book 33 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>1856.08</td></tr><tr><td>Reference</td><td>Book 33 Hadith 111</td></tr></tbody></table></div>
 

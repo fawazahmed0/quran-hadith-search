@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:None remains of those who prayed facing both Qiblas (that is, Jeru
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Mu'tamir] dari [Bapaknya] dari [Anas radliallahu 'anhu] dia berkata; 'semua orang yang pernah shalat menghadap dua kiblat sudah tiada kecuali aku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4489</td></tr><tr><td>Arabic No</td><td>4489</td></tr><tr><td>Reference</td><td>Book 65 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Никого не осталось из тех, кто молился, обратившись к обеим киблам (Иерусалиму и Мекке), кроме меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4489</td></tr><tr><td>Arabic No</td><td>4489</td></tr><tr><td>Reference</td><td>Book 65 Hadith 16</td></tr></tbody></table></div>
 

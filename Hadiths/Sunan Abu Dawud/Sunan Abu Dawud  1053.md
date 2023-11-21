@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: The Prophet (ﷺ) said: If anyone omits the Friday 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Qudamah bin Wabarah Al 'Ujaifi] dari [Samurah bin Jundab] dari Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa meninggalkan Jum'at tanpa ada udzur (syar'i) hendaknya ia bersedekah satu Dinar, apabila ia tidak mendapati (satu Dinar), maka dengan setengah Dinar." Abu Daud mengatakan; "Demikianlah yang di riwayatkan Khalid bin Qais, ia menyelisihinya dalam isnad, namun sepakat pada matan-nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1053</td></tr><tr><td>Arabic No</td><td>1053</td></tr><tr><td>Reference</td><td>Book 2 Hadith 664</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Самуры ибн Джундуба, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пусть тот, кто пропустил пятничную молитву без уважительной причины, подаст милостыню в размере динара, а если не найдёт, тогда в размере половины динара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1053</td></tr><tr><td>Arabic No</td><td>1053</td></tr><tr><td>Reference</td><td>Book 2 Hadith 664</td></tr></tbody></table></div>
 

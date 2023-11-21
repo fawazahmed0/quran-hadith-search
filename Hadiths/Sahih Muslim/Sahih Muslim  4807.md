@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Jabir who said:We were one thousand and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits bin Sa'd]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Al Laits] dari [Abu Az Zubair] dari [Jabir] dia berkata, "Di hari Hudaibiyyah kami berjumlah seribu empat ratus orang, kami berbaiat kepada beliau. Umar memegang tangan beliau di bawah pohon Samurah sambil berkata, "Kami berbai'at kepada beliau bahwa kami tidak akan lari (dari peperangan) dan kami tidak berbai'at atas kematian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4807</td></tr><tr><td>Arabic No</td><td>1856.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4807</td></tr><tr><td>Arabic No</td><td>1856.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 104</td></tr></tbody></table></div>
 

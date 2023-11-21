@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once the Jews came to the Prophet (ﷺ) and said, "Death be upon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Hammad] dari [Ayyub] dari [Ibnu Abi Mulaikah] dari ['Aisyah radliallahu 'anha] bahwa orang-orang Yahudi datang menemui Nabi shallallahu 'alaihi wasallam lalu mereka mengucapkan as-saamu 'alaika (Kecelakaan atau racun buatmu), maka 'Aisyah melaknat mereka. Beliau bertanya: "Kenapa kamu berbuat begitu". Aku jawab: "Apakah Tuan tidak mendengar apa yang mereka ucapkan? ' Beliau menjawab: "Apakah kamu tidak mendengar apa yang aku katakan?" (Aku kepada mereka): "Wa 'alaikum (namun juga buat kalian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2935</td></tr><tr><td>Arabic No</td><td>2935</td></tr><tr><td>Reference</td><td>Book 56 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: (Как-то) раз к Пророку ﷺ пришли иудеи и сказали: «Ас-самму ‘аляйкя». Я стала проклинать их (за это, а Пророк ﷺ) спросил: «Что с тобой?» Я сказала: «Разве ты не слышал, что они сказали?!» Он сказал: «А разве ты не слышала, что я сказал: “И вам /Ва ‘аляй-кум/?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2935</td></tr><tr><td>Arabic No</td><td>2935</td></tr><tr><td>Reference</td><td>Book 56 Hadith 148</td></tr></tbody></table></div>
 

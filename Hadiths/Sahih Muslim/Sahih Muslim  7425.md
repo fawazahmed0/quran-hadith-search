@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Amr Ibn 'Awf (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya bin Abdullah bin Harmalah bin Imran At Tujibi] telah mengkhabarkan kepada kami [Ibnu Wahab] telah mengkhabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Urwah bin Az Zubair] bahwa [Al Miswar bin Makhramah] telah mengkhabarkan kepadanya bahwa [Amru bin Auf] sekutu bagi Amir bin Lu'ai, turut serta dalam perang Badar bersama Rasulullah Shallallahu 'alaihi wa Salam, telah mengkhabarkan kepadanya bahwa Rasulullah Shallallahu 'alaihi wa Salam mengutus Abu Ubaidah bin Al Jarrah ke Bahrain membawa jizyahnya dan Rasulullah Shallallahu 'alaihi wa Salam membuat perjanjian damai dengan penduduk Bahrain, beliau mengangkat Al Ala' bin Al Hadlrami sebagai pemimpin mereka. lalu Abu Ubaidah datang membawa harta dari Bahrain dan kaum Anshar mendengar kedatangan Abu 'Ubaidah lalu mereka shalat fajar bersama Rasulullah Shallallahu 'alahi wa Salam, seusai shalat Rasulullah Shallallahu 'alahi wa Salam bergegas lalu mereka menghadang beliau, Rasulullah Shallallahu 'alahi wa Salam tersenyum saat melihat mereka, setelah itu beliau bersabda: "Aku kira kalian mendengar bahwa Abu 'Ubaidah datang membawa sesuatu." Mereka berkata: Benar, wahai Rasulullah. Beliau bersabda: "Bergembiralah dan berharaplah apa yang menggembirakan kalian, demi Allah bukan kemiskinan yang aku takutkan pada kalian, tapi aku takut dunia dibentangkan untuk kalian seperti halnya dibentangkan pada orang sebelum kalian, lalu kalian memperlombakannya sebagaimana mereka memperlombakannya lalu ia membinasakan kalian seperti halnya mereka." Telah menceritakan kepada kami [Al Hasan bin Ali Al Hulwani] dan [Abdu bin Humaid], semuanya dari [Ya'qub bin Ibrahim bin Sa'ad] telah menceritakan kepada kami [ayahku] dari [Shalih]. Telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Darimi] telah mengkhabarkan kepada kami [Abu Al Yaman] telah mengkhabarkan kepada kami [Syu'aib] keduanya dari [Az Zuhri] dengan sanad Yunus seperti haditsnya, hanya saja disebutkan dalam hadits Shalih: "Dan melalaikan kalian sebagaimana telah melalaikan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7425</td></tr><tr><td>Arabic No</td><td>2961.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7425</td></tr><tr><td>Arabic No</td><td>2961.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 9</td></tr></tbody></table></div>
 

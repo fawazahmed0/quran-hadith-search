@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I have never seen the Messenger of Allah (ﷺ) hastening as much
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Numair] telah menceritakan kepada kami [Hafs] dari [Ibnu Juraij] dari ['Atha'] dari [Ubaid bin Umair] dari ['Aisyah] katanya; "Aku belum pernah melihat shalat sunnah yang lebih disegerakan untuk dikerjakan Nabi shallallahu 'alaihi wasallam daripada dua rakaat sebelum fajar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>724.07</td></tr><tr><td>Reference</td><td>Book 6 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Я не видела, чтобы Посланник Аллаха ﷺ торопился к совершению какой-либо добровольной молитвы, как к двум рака’атам перед утренней молитвой».Глава: Достоинство совершения двух рака’атов перед (обязательной) утренней молитвой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1687</td></tr><tr><td>Arabic No</td><td>724.07</td></tr><tr><td>Reference</td><td>Book 6 Hadith 117</td></tr></tbody></table></div>
 

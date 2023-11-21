@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) saw some sputum in the di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb] semuanya meriwayatkan dari [Ibnu Ulayyah] berkata [Zuhair], telah menceritakan kepada kami [Ibnu Ulayyah] dari [al-Qasim bin Mihran] dari [Abu Rafi'] dari [Abu Hurairah radhiyallahu'anhu] "Bahwa Rasulullah Shallallahu'alaihiwasallam melihat dahak pada dinding arah kiblat masjid. Lalu beliau menghadap kepada orang-orang seraya bersabda, 'Bagaimana pendapat kamu semua, ada orang sedang shalat menghadapi Rabbnya, lalu dia meludah ke hadapanNya? Senangkah kamu jika kamu sedang dihadapi seseorang, lalu orang itu meludahi mukamu? Karena itu jika salah seorang dari kalian meludah ketika shalat, maka hendaklah dia meludah ke kiri atau ke bawah kakimu. Jika itu tidak mungkin, maka hendaklah dia mengatakan demikian, lalu al-Qasim memberikan gambaran contohnya, lalu dia meludah ke sapu tanganmu, kemudian mengusap sebagiannya pada sebagian yang lain." Dan telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Abdul Warits] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] semuanya meriwayatkan dari [al-Qasim bin Mihran] dari [Abu Rafi'] dari [Abu Hurairah radhiyallahu'anhu] dari Nabi Shallallahu'alaihiwasallam semisal hadits Ibnu Ulayyah, dan dalam hadits Husyaim dia menambahkan, "Abu Hurairah berkata, 'Seakan-akan aku melihat Rasulullah Shallallahu'alaihiwasallam mengusapkan sebagian bajunya kepada sebagian lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1228</td></tr><tr><td>Arabic No</td><td>550.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что однажды, увидев мокроту на (стене) мечети (со стороны ) киблы, Посланник Аллаха ﷺ повернулся к людям и сказал: «Почему один из вас становится (на молитву) и обращается лицом к своему Господу, а потом плюёт перед собой? Разве кому-нибудь из вас понравится, если кто-то повернётся к нему и плюнет ему в лицо?! Когда кому-либо из вас захочется сплюнуть, пусть сплюнет налево себе под ногу, а если (такой возможности) у него не будет, пусть сделает так». И аль-Касим (показал, как следует поступать в подобных случаях). (Взявшись за край) своей одежды, он сплюнул (на него), а потом растёр (плевок другой частью этого края)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1228</td></tr><tr><td>Arabic No</td><td>550.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 66</td></tr></tbody></table></div>
 

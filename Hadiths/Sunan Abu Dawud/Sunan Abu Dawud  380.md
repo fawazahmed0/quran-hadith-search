@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported:A bedouin entered the	mosque while the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Amru bin As Sarj] dan [Ibnu Abdah] pada para perawi yang lain, dan ini adalah lafazh Ibnu Abdah telah mengabarkan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id bin Al Musayyib] dari [Abu Hurairah] bahwasanya pernah ada seorang Arab badui masuk ke masjid, sedangkan Rasulullah shallallahu 'alaihi wasallam duduk, lalu orang tersebut mengerjakan shalat, kata [Ibnu Abdah], Dua rakaat, kemudian dia (si badui) berkata; Ya Allah, rahmatilah aku dan Muhammad, dan janganlah engkau beri rahmat kepada seseorang pun bersama kami! Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya kamu telah mempersempit suatu perkara yang luas". Kemudian tidak lama kemudian orang itu kencing di sudut masjid. Maka orang-orang dengan segera membentaknya, lalu Nabi shallallahu 'alaihi wasallam melarang mereka dan bersabda: "Sesungguhnya kamu sekalian diutus untuk mempermudah, tidak diutus untuk mempersulit, tuangkanlah air satu timba ke atas kencing itu!" Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Jarir bin Hazim] dia berkata; Saya mendengar [Abdul Malik bin Umair] dia menceritakan hadits dari [Abdullah bin Ma'qil bin Muqarrin] dia berkata; Pernah ada seorang Arab badui yang mengerjakan shalat bersama Nabi shallallahu 'alaihi wasallam... seperti kisah dalam hadits tersebut, lalu Nabi shallallahu 'alaihi wasallam bersabda: "Ambillah debu tanah yang dikencingi itu, lalu buanglah. Setelah itu tuangkanlah air ke atas tempat (yang dikencingi itu) ". Abu Dawud berkata; Ini adalah mursal Ibnu Aqil, dia tidak pernah bertemu dengan Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>380</td></tr><tr><td>Arabic No</td><td>380</td></tr><tr><td>Reference</td><td>Book 1 Hadith 380</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры: «Однажды, какой-то бедуин зашёл в мечеть, а в это время Посланник Аллаха ﷺ сидел и молился».Ибн ‘Абда сказал: «В два рак‘ата».Затем он (бедуин) сказал: “О Аллах помилуй меня и Мухаммада и никого не прощай с нами!” Пророк ﷺ сказал: “Ты лишаешь (людей милости Аллаха, которая) обширна”. Затем он (бедуин) отошёл в сторону мечети и начал мочиться, а люди устремились остановить его, но Пророк ﷺ запретил им (мешать ему) и сказал: “Поистине, вы посланы для того, чтобы облегчать, а не для того, чтобы усложнять. Налейте на это место ведро воды”. Или он сказал: “Большое ведро воды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>380</td></tr><tr><td>Arabic No</td><td>380</td></tr><tr><td>Reference</td><td>Book 1 Hadith 380</td></tr></tbody></table></div>
 

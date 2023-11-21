@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) prohibited, according t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], [Ahmad bin Muhammad bin Syabuaih], [Muhammad bin Rafi'] dan [Muhammad bin Abdul Malik Al Ghazzal] mereka berkata; telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Isma'il bin Umayyah] dari [Nafi'] dari [Ibnu Umar] dia berkata; Rasulullah shallallahu 'alaihi wasallam melarang -Ahmad bin Hanbal mengatakan- seseorang duduk dalam shalat, sedangkan dia bertopang kepada kedua tangannya." Ibnu Syabuaih; "Beliau melarang seseorang yang sedang shalat bertumpu pada tangannya. ' Ibnu Rafi' mengatakan; "Beliau melarang seseorang yang shalat sambil bertumpu pada tangannya." Dan dia menyebutkannya pada bab "Mengangkat (kepadal) dari sujud", Ibnu Abdul Malik berkata; "Beliau melarang seseorang bertumpu kepada kedua tangannya ketika bangkit (berdiri) dalam shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>992</td></tr><tr><td>Arabic No</td><td>992</td></tr><tr><td>Reference</td><td>Book 2 Hadith 603</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ запретил… В версии Ахмада ибн Ханбаля говорится: «…мужчине сидеть в молитве, опираясь на руку». В версии Ибн Шаббувайхи говорится: «Он запретил мужчине опираться на руку в молитве». В версии Ибн Рафи‘ говорится: «Он запретил мужчине молиться, опираясь на руку». Он упоминал его в главе о вставании из земного поклона. А в версии Ибн ‘Абду-ль-Малика говорится: «Он запретил мужчине опираться на руки, когда он поднимается в молитве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>992</td></tr><tr><td>Arabic No</td><td>992</td></tr><tr><td>Reference</td><td>Book 2 Hadith 603</td></tr></tbody></table></div>
 

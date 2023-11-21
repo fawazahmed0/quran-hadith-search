@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:The Apostle of Allah (ﷺ) said: The deeds of my people, good
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad bin Asma' adh-Dhuba'i] dan [Syaiban bin Farrukh] keduanya berkata, telah menceritakan kepada kami [Mahdi bin Maimun] telah menceritakan kepada kami [Washil, maula Abu Uyainah] dari [Yahya bin Uqail] dari [Yahya bin Ya'mar] dari [Abu al-Aswad ad-Diliyyi] dari [Abu Dzarr] dari Nabi Shallallahu'alaihiwasallam, "Dipaparkan kepadaku segala amal umatku, yang baik dan yang buruk. Maka aku mendapatkan di antara kebaikan amal umatku adalah membuang rintangan yang mengganggu di jalanan. Dan aku mendapatkan dalam amal jelek umatku adalah meludah di masjid tanpa dipendam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1233</td></tr><tr><td>Arabic No</td><td>553</td></tr><tr><td>Reference</td><td>Book 5 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Зарра, что Пророк ﷺ сказал: «Мне были представлены (все) дела (членов) моей общины: (как) благие, (так) и скверные. И среди благих деяний я обнаружил удаление с дороги того, что мешает людям, а среди скверных деяний я обнаружил мокроту (плевок) в мечети, остающуюся не погребенной (в землю)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1233</td></tr><tr><td>Arabic No</td><td>553</td></tr><tr><td>Reference</td><td>Book 5 Hadith 71</td></tr></tbody></table></div>
 

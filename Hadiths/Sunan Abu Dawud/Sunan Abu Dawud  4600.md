@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh] berkata, telah mengabarkan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata; telah mengabarkan kepadaku ['Abdurrahman bin Abdullah bin Ka'b bin Malik] bahwa [Abdullah bin Ka'b bin Malik] -di antara anak-anak Ka'ab Abdullah adalah orang yang menjadi penuntun Ka'b saat buta- ia berkata, "Aku mendengar [Ka'b bin Malik] -Ibnu As Sarh menyebutkan kisah ketidak ikut sertaannya bersama Nabi shallallahu 'alaihi wasallam daam perang Tabuk- ia (Ka'b) berkata, "Rasulullah shallallahu 'alaihi wasallam melarang kaum muslimin untuk berbicara dengan kami bertiga. Ketika suasana seperti berjalan lama, aku masuk ke dalam kebun milik anak pamanku, Abu Qatadah. Demi Allah, aku ucapkan salam kepadanya namun ia tidak menjawabnya." Kemudian Ka'ab menceritakan turunnya ayat yang mengabarkan atas diterimanya taubatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4676) Sahih Muslim (2769)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4600</td></tr><tr><td>Arabic No</td><td>4600</td></tr><tr><td>Reference</td><td>Book 42 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ка‘б ибн Малик передаёт (тут передатчик Ибн ас-Сарх рассказал историю его уклонения от похода на Табук вместе с Пророком ﷺ): «Пророк ﷺ запретил людям разговаривать с нами троими. Однажды, когда я провёл в таком положении уже много времени, я забрался на ограду сада Абу Катады, моего двоюродного брата. Я обратился к нему с приветствием и, клянусь Аллахом, он не ответил на моё приветствие!» Далее он рассказал историю его покаяния полностью
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4676) Sahih Muslim (2769)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4600</td></tr><tr><td>Arabic No</td><td>4600</td></tr><tr><td>Reference</td><td>Book 42 Hadith 5</td></tr></tbody></table></div>
 

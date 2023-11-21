@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Bushair b. Yasar reported that 'Abdullah b. Sahl b. Zaid and Muhayyisa b. Mas'ud
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman bin Bialal] dari [Yahya bin Sa'id] dari [Busyair bin Yasar], bahwa Abdullah bin Sahal bin Zaid dan Muhaishah bin Mas'ud bin Zaid Al Anshari dari penduduk Bani Hartsah, kedua-duanya keluar menuju Khaibar di masa Rasulullah shallallahu 'alaihi wasallam. Saat itu (Khaibar) masih dalam tahap perdamaian dan penduduknya adalah orang-orang Yahudi. Kemudian keduanya berpisah untuk melaksanakan kebutuhan masing-masing. Tidak beberapa lama, dia mendapati Abdullah bin Sahal mati terbunuh, lantas dia menguburkannya dan kembali ke Madinah. Kemudian saudara terbunuh; Abdurrahman bin Sahal, Muhayishah dan Huwaishah, memberitahukan perkara Abdullah yang terbunuh kepada Rasulullah shallallahu 'alaihi wasallam." Busyair -dia pernah meriwayatkan dari sahabat Nabi shallallahu 'alaihi wasallam yang mengetahui perkara tersebut- menyakini bahwa beliau bersabda kepada mereka: "Hendaknya kalian mengucapkan lima puluh kali sumpah, barulah kalian berhak (mengqishash) orang yang membunuh saudara kalian." Mereka berkata, "Wahai Rasulullah, saat itu kami tidak menyaksikan pembunuhan tersebut." Busyair menyakini bahwa beliau menjawab: "Jika demikian, maka orang Yahudi itu telah terbebas dari tuduhan kalian dengan lima puluh sumpahnya." Mereka berkata, "Wahai Rasulullah, bagaimana mungkin kami menerima sumpah kaum yang masih kafir?" Busyair menyakini bahwa Rasulullah shallallahu 'alaihi wasallam membayar diyat dari sisi beliau sendiri." Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Yahya bin Sa'id] dari [Busyair bin Yasar] bahwa seorang laki-laki Anshar dari penduduk Bani Haritsah yang bernama Abdullah bin Sahl bin Zaid pergi bersama anak pamannya yang bernama Muhayishah bin Mas'ud bin Zaid…", kemudian dia melanjutkan hadits tersebut seperti haditsnya Laits, hingga sampai pada perkataannya, "Kemudian Rasulullah shallallahu 'alaihi wasallam membayar diyatnya dengan menggunakan uang pribadinya." [Yahya] berkata; telah menceritakan kepadaku [Busyair bin Yasar] dia berkata; telah mengabarkan kepadaku [Sahl bin Abu Hatsmah] dia berkata, "Sungguh aku pernah di tendang (unta) yang dibayarkan untuk diat, di kandangnya." Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Sa'id bin 'Ubaid] telah menceritakan kepada kami [Busyair bin Yasar Al Anshari] dari [Sahal bin Abu Hatsmah Al Anshari], bahwa dia pernah mengabarkan, bahwa sekelompok orang dari mereka pergi menuju Khaibar, sesampainya (di Khaibar) mereka berpisah, tiba-tiba mereka menemukan salah seorang dari mereka telah mati terbunuh …", kemudian dia melanjutkan hadits tersebut. Dalam hadits tersebut dia juga menyebutkan, "Kemudian Rasulullah shallallahu 'alaihi wasallam tidak suka jika membiarkan darah kehormatannya, lantas beliau mengganti diyatnya dengan seratus unta dari hasil sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4346</td></tr><tr><td>Arabic No</td><td>1669.05</td></tr><tr><td>Reference</td><td>Book 28 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4346</td></tr><tr><td>Arabic No</td><td>1669.05</td></tr><tr><td>Reference</td><td>Book 28 Hadith 5</td></tr></tbody></table></div>
 

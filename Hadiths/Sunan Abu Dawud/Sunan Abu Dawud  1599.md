@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: When the Messenger of Allah (ﷺ) sent him to the Yem
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ar Rabi' bin Sulaiman] telah menceritakan kepada Kami [Ibnu Wahb] dari [Sulaiman yaitu Ibnu Bilal] dari [Syarik bin Abdullah bin Abu Namir] dari ['Atho' bin Yasar] dari [Muadz bin Jabal] bahwa Rasulullah shallallahu 'alaihi wasallam mengutusnya ke Yaman dan berkata: "Ambillah biji-bijian dari biji-bijian, kambing dari domba, unta dari unta, dan sapi dari sapi." Abu Daud berkata: aku mengukur mentimun di Mesir mencapai tiga belas jengkal, dan aku melihat dua potong buah limau (sejenis jeruk nipis) yang telah dipotong diatas unta dan ditempatkan pada tempat seperti dua kantong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1599</td></tr><tr><td>Arabic No</td><td>1599</td></tr><tr><td>Reference</td><td>Book 9 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Му‘аз ибн Джабаль, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ отправил его в Йемен и наказал ему: «С зерновых бери зерном, с овец овцами, с верблюдов верблюдами и с коров коровами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1599</td></tr><tr><td>Arabic No</td><td>1599</td></tr><tr><td>Reference</td><td>Book 9 Hadith 44</td></tr></tbody></table></div>
 

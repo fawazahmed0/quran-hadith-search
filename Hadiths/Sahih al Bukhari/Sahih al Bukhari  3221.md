@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Shihab:Once 'Umar bin 'Abdul 'Aziz delayed the 'Asr prayer a little
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3221</td></tr><tr><td>Arabic No</td><td>3221</td></tr><tr><td>Reference</td><td>Book 59 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн Шихаба о том, что однажды, когда ‘Умар ибн ‘Абдуль‘азиз задержал молитву ‘аср, ‘Урва ибн аз-Зубайр сказал ему: «Спустившись на землю, Джибриль, совершил молитву перед Посланником Аллаха ﷺ». ‘Умар ибн ‘Aбдуль‘азиз сказал: «Что ты такое говоришь, о ‘Урва! ‘Урва ответил: «Я слышал, как Башир ибн Аби Мас’уд рассказывал со слов Ибн Мас’уда, что Посланник Аллаха ﷺ сказал: “Спустившись на землю, Джибриль встал имамом, и я совершил молитву вместе с ним, затем я снова совершил молитву вместе с ним, затем я снова совершил молитву вместе с ним, затем я снова совершил молитву вместе с ним, затем я снова совершил молитву вместе с ним” — считая пальцами пять молитв»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3221</td></tr><tr><td>Arabic No</td><td>3221</td></tr><tr><td>Reference</td><td>Book 59 Hadith 32</td></tr></tbody></table></div>
 

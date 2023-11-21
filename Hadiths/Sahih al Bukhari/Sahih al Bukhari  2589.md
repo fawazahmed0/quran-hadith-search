@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "One who takes back his gift (which 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ibnu Thawus] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Orang yang meminta kembali apa yang telah dihibahkannya bagaikan anjing yang muntah lalu menelan kembali apa yang dimuntahkannya ke dalam mulutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2589</td></tr><tr><td>Arabic No</td><td>2589</td></tr><tr><td>Reference</td><td>Book 51 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Человек, забирающий назад то, что он подарил, подобен псу, которого тошнит, после чего он возвращается к своей блевотине (и поедает её)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2589</td></tr><tr><td>Arabic No</td><td>2589</td></tr><tr><td>Reference</td><td>Book 51 Hadith 23</td></tr></tbody></table></div>
 

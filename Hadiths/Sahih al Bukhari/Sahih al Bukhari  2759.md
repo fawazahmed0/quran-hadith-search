@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Some people claim that the order in the above Verse is cance
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al Fadhl Abu an-Nu'man] telah bercerita kepada kami [Abu 'Awanah] dari [Abu Bisyir] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Sesungguhnya ada orang-orang yang menganggap bahwa ayat ini telah dihapus. Namun demi Allah, ayat itu tidak dihapus hanya saja ayat itu telah diremehkan manusia, yaitu dua orang wali. Yang pertama tentang wali yang meninggalkan warisan, itulah yang memberikan rizki. Dan yang kedua seorang wali yang tidak meninggalkan warisan, itulah yang berkata dengan kebaikan, dimana ia berkata: "Aku tidak memiliki sesuatu untuk diberikan kepadamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2759</td></tr><tr><td>Arabic No</td><td>2759</td></tr><tr><td>Reference</td><td>Book 55 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аббас, да будет доволен Аллах им и его отцом, сказал: «Некоторые люди утверждают, что это аят отменён, нет, клянусь Аллахом, он не отменён, однако люди стали пренебрегать им»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2759</td></tr><tr><td>Arabic No</td><td>2759</td></tr><tr><td>Reference</td><td>Book 55 Hadith 22</td></tr></tbody></table></div>
 

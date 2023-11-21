@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition (mentioned above) has also been transmitted by al-Zuhri through a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Abdurrahman bin Al A'raj] dari [Abdullah bin Buhainah] bahwa dia berkata; "Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat dua raka'at bersama kami, lalu beliau langsung berdiri, sementara beliau belum duduk (tasyahud), maka orang-orang pun berdiri mengikuti beliau, setelah selesai shalat, sedangkan kami tengah menunggu salam, beliau lalu bertakbir dan sujud dua kali sewaktu beliau duduk sebelum salam, kemudian beliau (shallallahu 'alaihi wasallam) salam." Telah menceritakan kepada kami ['Amru bin Utsman] telah menceritakan kepada kami [ayahku] dan [Baqiyah] keduanya berkata; telah menceritakan kepada kami [Syu'aib] dari [Az Zuhri] dengan maksud hadits dan isnad yang sama, dia menambahkan; "…di antara kami ada juga yang membaca tasyahud ketika beliau berdiri (karena lupa)." Abu Daud berkata; "Demikianlah Ibnu Zubair mengerjakan kedua sujud, beliau berdiri dari raka'at kedua sebelum memberi salam" ini adalah pendapat Az Zuhri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1224) Sahih Muslim (570)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1035</td></tr><tr><td>Arabic No</td><td>1035</td></tr><tr><td>Reference</td><td>Book 2 Hadith 646</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В версии аз-Зухри имеется добавление: «И среди нас были совершающие ташаххуд во время стояния».Абу Дауд сказал: «И таким же образом эти два земных поклона совершал Ибн аз-Зубайр, поднявшись после двух ракатов, перед таслимом. И это мнение аз-Зухри»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1224) Sahih Muslim (570)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1035</td></tr><tr><td>Arabic No</td><td>1035</td></tr><tr><td>Reference</td><td>Book 2 Hadith 646</td></tr></tbody></table></div>
 

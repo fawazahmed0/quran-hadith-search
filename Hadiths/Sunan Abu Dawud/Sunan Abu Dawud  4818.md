@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: A woman came to the Messenger of Allah (ﷺ) and said: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa bin Ath Thabba'] dan [Katsir bin Ubaid] keduanya berkata; telah menceritakan kepada kami [Marwan] berkata; [Ibnu Isa] berkata; telah menceritakan kepada kami [Humaid] dari [Anas] ia berkata, "Seorang wanita datang menemui Rasulullah shallallahu 'alaihi wasallam dan bertanya, "Wahai Rasulullah, aku mempunyai keperluan denganmu." Beliau bersabda: "Wahai Ummu fulan, duduklah di sudud mana saja yang kamu suka hingga aku dapat duduk bersamamu (menemuimu)." Anas berkata, "Wanita itu lalu duduk, dan Nabi shallallahu 'alaihi wasallam mendatangi tempat duduknya. Dan beliau tetap di situ hingga wanita tersebut menyelesaikan keperluannya." Ibnu Isa tidak menyebutkan dalam riwayatnya; "Hingga wanita terebut menyelesaikan keperluannya", [Katsir] menyebutkan dari [Humaid], dari [Anas], dari [Utsman bin Abu Syaibah], ia berkata; telah menceritakan kepada kami [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] berkata, "Ada seorang wanita yang dalam pikirannya ada keperluan (datang) …dengan makna hadits yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4818</td></tr><tr><td>Arabic No</td><td>4818</td></tr><tr><td>Reference</td><td>Book 43 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4818</td></tr><tr><td>Arabic No</td><td>4818</td></tr><tr><td>Reference</td><td>Book 43 Hadith 46</td></tr></tbody></table></div>
 

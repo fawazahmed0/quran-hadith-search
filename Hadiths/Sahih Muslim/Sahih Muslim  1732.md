@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : "Lorsque l'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Nashr bin Ali] dan [Ibnu Abu Umar]. [Abu Bakar] mengatakan; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abu Nadlr] dari [Abu Salamah] dari ['Aisyah] katanya; "Jika Nabi shallallahu 'alaihi wasallam selesai shalat dua rakaat fajar, dan aku sudah bangun, maka beliau akan mengajakku berbincang-bincang, jika aku belum bangun, maka beliau tidur lagi." Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Ziyad bin Sa'd] dari [Ibn Abu Attab] dari [Abu Salamah] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1732</td></tr><tr><td>Arabic No</td><td>743.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «После того, как Пророк ﷺ совершал два рак‘ата утренней молитвы, он смотрел, (сплю ли я), и если я не спала, то мы разговаривали, если же я спала, то он ложился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1732</td></tr><tr><td>Arabic No</td><td>743.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 161</td></tr></tbody></table></div>
 

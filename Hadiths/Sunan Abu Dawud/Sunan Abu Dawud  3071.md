@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Asmar ibn Mudarris: I came to the Prophet (ﷺ), and took the oath of a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepadaku [Abdul Hamid bin Abdul Wahid] telah menceritakan kepadaku [ummu Janub ninti Numailah] dari [Ibunya yaitu Suadah binti Jabir], dari [Ibunya yaitu 'Aqilah binti Asmar bin Mudharris] dari [ayahnya yaitu Asmar bin Mudharris] ia berkata; aku datang kepada Nabi shallallahu 'alaihi wasallam kemudian kami membai'atnya. Kemudian beliau berkata: "Barang siapa mendahului menuju sebuah mata air yang belum di dahului seorang muslimpun, maka air tersebut adalah miliiknya." Ia berkata; kemudian orang-orang saling mendahului
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 20 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Асмара ибн Мударрисы, да будет доволен им Аллах: «Я пришёл к Пророку ﷺ и присягнул ему, и он сказал: “Если кто-то нашёл воду и в этом его не опередил ни один мусульманин, она принадлежит ему”. Услышав это, люди вышли в спешке, чтобы ставить метки на земле (свидетельствующие о том, что она принадлежит им)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 20 Hadith 144</td></tr></tbody></table></div>
 

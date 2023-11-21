@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Mas'ûd Al-Ansâri (que Dieu l'agrée), le Prophète (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Isma'il] dari [Qais bin Abu Hazim] dari [Abu Mas'ud Al Anshari] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhya matahari dan bulan adalah dua ayat dari ayat-ayat Allah, yang dengan keduanya Allah hendak menakut-nakuti hamba-Nya. Dan tidaklah terjadi gerhana pada keduanya karena kematian seseorang atau pun kelahirannya. Jika kalian melihat gerhana, maka shalat dan berdo'alah kepada Allah sampai matahari kembali normal (seperti sedia kala)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2114</td></tr><tr><td>Arabic No</td><td>911.01</td></tr><tr><td>Reference</td><td>Book 10 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мас‘уда аль-Ансари, что Посланник Аллаха ﷺ сказал: «Поистине, солнце и луна являются знамениями из знамений Аллаха, посредством которых Аллах устрашает Своих рабов, и их затмение не происходит из-за смерти кого-то из людей, поэтому, когда вы увидите (подобное), совершайте молитву и взывайте к Аллаху, пока затмение не закончится»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2114</td></tr><tr><td>Arabic No</td><td>911.01</td></tr><tr><td>Reference</td><td>Book 10 Hadith 23</td></tr></tbody></table></div>
 

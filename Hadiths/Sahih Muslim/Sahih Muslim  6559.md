@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Mas'oûd (que Dieu l'agrée) a dit : Je visitai le Prophète (paix et béné
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Zuhair bin Harb] serta [Ishaq bin Ibrahim]. [Ishaq] berkata; Telah mengabarkan kepada kami sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim At Tamimi] dari [Al Harits bin Suwaid] dari ['Abdullah] dia berkata; "Aku datang mengunjungi Rasulullah shallallahu 'alaihi wasallam ketika beliau sakit, lalu kuraba beliau seraya berkata, "Ya, Rasulullah! Demam Anda bertambah keras." Jawab beliau: "Memang demamku sama dengan demam dua orang dari kalian." Kataku pula; "Semoga Anda mendapat pahala berganda pula." Jawab beliau; "Semoga demikian!" Kemudian beliau bersabda: "Tidak ada seorang muslim yang ditimpa cobaan berupa sakit dan sebagainya, melainkan dihapuskan oleh Allah Ta'ala dosa-dosanya, seperti sebatang pohon yang menggugurkan daunnya." Namun di dalam Hadits Zuhair tidak disebutkan 'lafazh; lalu aku meraba tubuh beliau.' Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] berkata telah menceritakan kepadaku [Abu Mu'awiyah] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Rofi'] telah menceritakan kepadaku ['Abdur Razzaq]; Telah menceritakan kepada kami [Sufyan]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami ['Isa bin Yunus] dan [Yahya bin 'Abdul Malik bin Abu Ghaniyyah] seluruhnya dari [Al A'masy] melalui sanad Jarir dengan Hadits yang serupa. Di dalam Hadits Abu Mu'awiyah disebutkan dengan lafazh 'Na'am.' (ya), Demi jiwaku yang berada di tangan-Nya, tidaklah seorang muslim di muka bumi ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6559</td></tr><tr><td>Arabic No</td><td>2571.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6559</td></tr><tr><td>Arabic No</td><td>2571.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 57</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) went to (the house of) his slave tailor, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Ali] berkata; telah menceritakan kepada kami [Azhar bin Sa'd] dari [Ibnu Aun] dari [Tsumamah bin Anas] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam mendatangi seorang penjahit pernah menjadi budaknya. Beliau lalu diberi buah labu yang kemudian memakannya, maka aku selalu menyukainya semenjak aku melihat beliau memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5433</td></tr><tr><td>Arabic No</td><td>5433</td></tr><tr><td>Reference</td><td>Book 70 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(Однажды) Посланник Аллаха ﷺ пришёл к своему освобождённому рабу-портному, который подал ему (блюдо, в котором была) тыква, и он стал есть её. И с тех пор, как я увидел, что Посланник Аллаха ﷺ ест тыкву, я полюбил её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5433</td></tr><tr><td>Arabic No</td><td>5433</td></tr><tr><td>Reference</td><td>Book 70 Hadith 61</td></tr></tbody></table></div>
 

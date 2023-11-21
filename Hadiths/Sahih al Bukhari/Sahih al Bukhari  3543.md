@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:I saw the Prophet, and Al-Hasan resembled him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Yunus] telah bercerita kepada kami [Zuhair] telah bercerita kepada kami [Isma'il] dari [Abu Juhaifah radliallahu 'anhu] berkata; "Aku melihat Nabi shallallahu 'alaihi wasallam (bersama Al Hasan) dan Al Hasan mirip dengan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3543</td></tr><tr><td>Arabic No</td><td>3543</td></tr><tr><td>Reference</td><td>Book 61 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Абу Джухайфа, да будет доволен им Аллах, сказал: «Я видел Пророка ﷺ и (могу сказать, что) аль-Хасан похож на него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3543</td></tr><tr><td>Arabic No</td><td>3543</td></tr><tr><td>Reference</td><td>Book 61 Hadith 52</td></tr></tbody></table></div>
 

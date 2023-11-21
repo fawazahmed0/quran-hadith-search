@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id As Sarkhasi] telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [ayahku] dia berkata; saya mendengar [Muhammad bin Ishaq] menceritakan dari ['Amru bin Syu'aib] dari [ayahnya] dari [kakeknya] bahwa dia berkata; "Tidak ada suatu surat yang pendek ataupun yang panjang melainkan aku telah mendengar Rasulullah shallallahu 'alaihi wasallam membacanya ketika mengimami orang-orang dalam shalat wajib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>814</td></tr><tr><td>Arabic No</td><td>814</td></tr><tr><td>Reference</td><td>Book 2 Hadith 424</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца слова его деда: «Нет в коротких сурах (муфассаль) такой суры, большой или маленькой, которую я бы не слышал от Посланника Аллаха ﷺ во время обязательных молитв»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>814</td></tr><tr><td>Arabic No</td><td>814</td></tr><tr><td>Reference</td><td>Book 2 Hadith 424</td></tr></tbody></table></div>
 

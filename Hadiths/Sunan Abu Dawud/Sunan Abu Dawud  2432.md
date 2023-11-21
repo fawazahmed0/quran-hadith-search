@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Muslim al-Qurashi: I asked or someone asked the Prophet (ﷺ) about per
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Utsman Al 'Ajli], telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Harun bin Salman], dari ['Ubaidullah bin Muslim Al Qurasyi], dari [ayahnya], ia berkata; saya bertanya atau Nabi shallallahu 'alaihi wasallam ditanya mengenai puasa setahun, lalu beliau berkata; sesungguhnya keluargamu memiliki hak atasmu. Berpuasalah pada Bulan Ramadhan dan setelahnya, serta setiap hari Rabu dan Kamis, maka engkau telah melakukan puasa setahun. Abu Daud berkata; hal tersebut disepakati oleh Zaid Al 'Ukli, sedangkan Ummu Nu'aim menyelisihinya, ia mengatakan; Muslim bin 'Ubaidullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2432</td></tr><tr><td>Arabic No</td><td>2432</td></tr><tr><td>Reference</td><td>Book 14 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Муслима аль-Кураши: «Я спросил Пророка ﷺ (или: Пророка ﷺ спросили) о непрерывном посте, и он сказал: “У семьи твоей есть право на тебя. Постись рамадан и следующий за ним месяц и постись по средам и четвергам, и это будет для тебя подобно непрерывному посту”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2432</td></tr><tr><td>Arabic No</td><td>2432</td></tr><tr><td>Reference</td><td>Book 14 Hadith 120</td></tr></tbody></table></div>
 

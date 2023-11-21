@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "Allah is more pleased wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Habban] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Hudbah] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Anas] radliallahu 'anhu dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah lebih gembira dengan taubat hamba-Nya melebihi salah seorang dari kalian yang mendapatkan hewan tunggangannya yang telah hilang di padang yang luas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6309</td></tr><tr><td>Arabic No</td><td>6309</td></tr><tr><td>Reference</td><td>Book 80 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Аллах радуется покаянию Своего раба больше, чем любой из вас, когда неожиданно находит своего верблюда, потерянного им в пустыне”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6309</td></tr><tr><td>Arabic No</td><td>6309</td></tr><tr><td>Reference</td><td>Book 80 Hadith 6</td></tr></tbody></table></div>
 

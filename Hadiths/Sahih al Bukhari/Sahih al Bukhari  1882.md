@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) told us a long narrative ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya ['Ubaidullah bin 'Abdullah bin 'Uqbah] bahwa [Abu Sa'id Al Khudriy radliallahu 'anhu] berkata, telah menceritakan kepada kami Rasulullah shallallahu 'alaihi wasallam dengan pembicaraan yang panjang tentang Dajjal. Diantara yang Beliau ceritakan tentangnya adalah, Beliau berkata: "Dajjal akan datang pada suatu tanah yang tandus di Madinah (untuk memasuki Madinah) padahal dia diharamkan untuk memasuki pintu-pintu gerbang Madinah. Maka pada hari itu keluarlah seorang laki-laki yang merupakan manusia terbaik atau salah seorang dari manusia terbaik menghadangnya seraya berkata; Aku bersaksi bahwa kamu adalah Dajjal yang pernah diceritakan oleh Rasulullah shallallahu 'alaihi wasallam. Maka Dajjal berkata; Bagaimana sikap kalian jika aku membunuh orang ini lalu aku menghidupkannya kembali, apakah kalian masih meragukan kemampuanku?. Mereka menjawab: "Tidak". Maka Dajjal membunuh laki-laki terbaik itu lalu menghidupkannya kembali. Laki-laki itu berkata, ketika Dajjal menghidupkannya kembali; "Demi Allah, hari aku tidak akan lebih waspada kecuali terhadap diriku sendiri. Maka Dajjal berkata; "Aku akan membunuhnya lagi". Maka Dajjal tidak sanggup untuk menguasainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1882</td></tr><tr><td>Arabic No</td><td>1882</td></tr><tr><td>Reference</td><td>Book 29 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал:\n— (Однажды) Посланник Аллаха ﷺ долго рассказывал нам об Антихристе и среди прочего он сказал: «Явится Антихрист, которому будет запрещено входить в Медину, и остановится на одном из солончаков (за пределами) Медины, и выйдет к нему в тот день лучший из людей (или: один из лучших людей), который скажет: “Я свидетельствую, что ты — Антихрист, о котором рассказывал нам Посланник Аллаха ﷺ !” Тогда Антихрист обратится (к людям): “Скажите, если я убью этого (человека), а потом оживлю его, останутся ли у вас сомнения в этом?” Они скажут: “Нет”, и тогда он убьёт его, а потом воскресит, и когда он воскресит его, (этот человек) скажет: “Клянусь Аллахом, никогда знание моё не было столь сильным, как сегодня!” — после чего Антихрист воскликнет: “Я (хочу снова) убить его, но уже не могу (сделать этого)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1882</td></tr><tr><td>Arabic No</td><td>1882</td></tr><tr><td>Reference</td><td>Book 29 Hadith 16</td></tr></tbody></table></div>
 

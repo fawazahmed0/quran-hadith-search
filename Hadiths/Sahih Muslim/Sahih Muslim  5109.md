@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Salama Ibn Al-'Akwa' (que Dieu l'agrée), le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Abu 'Ashim] dari [Yazid bin Abu Ubaid] dari [Salamah bin Al Akwa'], bahwa Rasulullah shallallahu 'alaihi wasallam: "Siapa dari kalian menyembelih kurban, maka hendaklah ia tidak menyisakan (menyimpan) di rumahnya setelah tiga hari." Pada tahun berikutnya mereka bertanya, "Wahai Rasulullah, apakah kami mesti melakukan sebagaimana yang kami lakukan tahun lalu?" Beliau menjawab: "Tidak, sesungguhnya tahun lalu orang-orang berada dalam keadaan susah hingga saya menginginkan agar daging hewan kurban ini bisa merata dirasakan oleh mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5109</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 35 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5109</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 35 Hadith 46</td></tr></tbody></table></div>
 

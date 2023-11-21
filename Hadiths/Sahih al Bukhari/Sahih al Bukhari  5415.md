@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) never took his meals at a dining table
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abul Aswad] Telah menceritakan kepada kami [Mu'adz] Telah menceritakan kepadaku [bapakku] dari [Yunus] dari [Qatadah] dari [Anas bin Malik] ia berkata; Nabi shallallahu 'alaihi wasallam tidak pernah makan di atas meja dan tidak pula dengan piring. Dan beliau tidak pernah dibuatkan roti empuk." Aku bertanya kepada Qatadah, "Lalu di atas hamparan apa beliau makan?" ia menjawab, "Di atas daun kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5415</td></tr><tr><td>Arabic No</td><td>5415</td></tr><tr><td>Reference</td><td>Book 70 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Пророк ﷺ никогда не ел ни за (высоким) обеденным столом, ни с блюдец (из различных видов закусок) /сукруджа/, ни хлеба из тонкой муки». Один из передатчиков сказал: «Я спросил Катаду: “На чём они тогда ели?” Он ответил: “На ‘суфре’ (кожаная подстилка, которую расстилали на земле)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5415</td></tr><tr><td>Arabic No</td><td>5415</td></tr><tr><td>Reference</td><td>Book 70 Hadith 43</td></tr></tbody></table></div>
 

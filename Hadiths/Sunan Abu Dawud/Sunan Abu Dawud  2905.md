@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: A man died leaving no heir but a slave whom he had 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], telah mengabarkan kepada kami ['Amr bin Dinar], dari ['Ausajah], dari [Ibnu Abbas] bahwa seorang laki-laki meninggal dan tidak meninggalkan pewaris kecuali seorang budak yang telah ia bebaskan. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah ia memiliki seseorang?" Mereka berkata; tidak, kecuali seorang budak yang telah ia bebaskan. Kemudian Rasulullah shallallahu 'alaihi wasallam memberikan warisannya untuk mantan budak tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2905</td></tr><tr><td>Arabic No</td><td>2905</td></tr><tr><td>Reference</td><td>Book 19 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что один человек умер, не оставив наследников, за исключением раба, которому он даровал свободу, и Посланник Аллаха ﷺ спросил: «Есть ли у него кто-нибудь?» Ему сказали: «Нет, если не считать раба, которому он даровал свободу». И Посланник Аллаха ﷺ велел отдать наследство этому бывшему рабу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2905</td></tr><tr><td>Arabic No</td><td>2905</td></tr><tr><td>Reference</td><td>Book 19 Hadith 21</td></tr></tbody></table></div>
 

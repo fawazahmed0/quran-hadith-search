@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : Un groupe de musulmans ayant re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7548</td></tr><tr><td>Arabic No</td><td>3025</td></tr><tr><td>Reference</td><td>Book 56 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Атаъ передал, что Ибн ‘Аббас, да будет доволен Аллах ими обо­ими, сказал: «Как-то раз люди из числа мусульман встретили одного человека, (пасшего) небольшое стадо своих овец, и он сказал: «Мир вам /ас-Саляму ‘алейкум/», они же схватили и убили его, а этих овец забрали, и тогда был ниспослан аят, в котором сказано: «и не говорите тому, кто (обратится) к вам (с приветствием и пожелает)мира: “Ты не являешься верую­щим”» (ан-Нисаъ, 4:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7548</td></tr><tr><td>Arabic No</td><td>3025</td></tr><tr><td>Reference</td><td>Book 56 Hadith 26</td></tr></tbody></table></div>
 

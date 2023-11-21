@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Aslam:My father said, "Allah's Messenger (ﷺ) was proceeding 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4177</td></tr><tr><td>Arabic No</td><td>4177</td></tr><tr><td>Reference</td><td>Book 64 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, что как-то раз, когда Посланник Аллаха ﷺ совершал одну из своих поездок, а ‘Умар, да будет доволен им Аллах, ехал вместе с ним ночью, ‘Умар ибн аль-Хаттаб спросил его о чем-то, но Посланник Аллаха ﷺ не ответил ему, после чего он ещё дважды задал вопрос (Пророку ﷺ), но он так и не ответил ему. Тогда ‘Умар ибн аль-Хаттаб сказал (себе): «Да лишится тебя твоя мать, о ‘Умар, ты (обращался) к Посланнику Аллаха ﷺ трижды, а он ни разу не ответил тебе!»\n‘Умар сказал: «Тогда я пустил своего верблюда вскачь, опередив (остальных) мусульман и опасаясь, что относительно меня ниспосылается (что-то) из (откровений) Корана, но уже скоро я услышал, как кто-то зовет меня, и сказал себе: “(Недаром) я боялся, что обо мне ниспосылаются (откровения) Корана!” И я явился к Посланнику Аллаха ﷺ и приветствовал его, а он сказал: “Сегодня ночью мне была ниспослана сура, и, поистине, она мне дороже всего того, над чем восходит солнце!” — после чего (Пророк ﷺ) прочел: “Поистине, Мы даровали тебе явную победу...”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4177</td></tr><tr><td>Arabic No</td><td>4177</td></tr><tr><td>Reference</td><td>Book 64 Hadith 219</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Lian was mentioned in the presence of the Prophet, 'Asim bin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Abdurrahman bin Al Qasim] dari [Al Qasim bin Muhammad] dari [Ibnu 'Abbas] radliallahu 'anhuma, Di majlis Nabi shallallahu 'alaihi wasallam dibicarakan masalah li'an. Lantas 'Ashim bin 'Adi mengucapkan satu perkataan kemudian pulang. selanjutnya dia didatangi sereorang dari kaumnya yang mengadukan keluh kesahnya bahwa dirinya menemukan isterinya sedang bersama laki-laki lain yang bukan suaminya. Maka 'Ashim bin Adi berujar; 'aku tidak diuji dengan kasus ini selain karena ucapanku sendiri! ' Lalu ia bawa orang tadi menemui Nabi shallallahu 'alaihi wasallam dan memberitahukan kepada beliau tentang kejadian bahwa dia menemukan isterinya bersama laki-laki lai nyang ciri-cirinya berkulit kuning, dagingnya sedikit, rambutnya lurus, sedang laki-laki yang mengaku bahwa dia menemukan isterinya bersama orang lain berwarna coklat, gemuk, dan berbadan gempal berisi. Nabi shallallahu 'alaihi wasallam kemudian berdoa; "Ya allah, berilah kejelasan masalah ini." kemudian si wanita melahirkan bayi yang mirip dengan laki-laki yang dituduhkan suaminya bersama isterinya. Lantas Nabi shallallahu 'alaihi wasallam meli'an keduanya. Ada seseorang bertanya kepada Ibn 'Abbas; 'Wanita itukah yang dimaksud oleh ucapan Nabi: "Sekiranya aku merajam wanita dengan tanpa bukti, niscaya kurajam wanita ini!"? ' Ibn Abbas menjawab; ' bukan! Itu adalah wanita yang menampakkan keburukan (zina) di dalam Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6856</td></tr><tr><td>Arabic No</td><td>6856</td></tr><tr><td>Reference</td><td>Book 86 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Касима ибн Мухаммада, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, рассказывал, однажды, когда в присутствии Пророка ﷺ было упомянуто взаимное проклятие /ли‘ан/, ‘Асым ибн ‘Ади что-то сказал об этом и ушёл. Затем к нему пришёл человек из его племени и рассказал ему, что застал свою жену с другим мужчиной. ‘Асым сказал: “Я испытан этим только из-за того, что сказал об этом!” Он отвёл этого человека к Пророку ﷺ и рассказал ему о том, как он застал свою жену. Это мужчина был бледным, худощавым и с ровными волосами, в то время как тот, которого он застал вместе со своей женой был смуглым, крупным и мускулистым. Пророк ﷺ сказал: “О Аллах, сделай (этот вопрос) ясным!” После этого эта женщина родила ребёнка, похожего на того мужчину, с которым, по словам её мужа, он застал её, и Пророк ﷺ велел им призвать проклятие друг на друга /ли‘ан/».\nОдин человек сказал Ибн ‘Аббасу: «Это та, о которой Пророк ﷺ сказал: “Если бы я и наказал кого-нибудь побиванием камнями без доказательства, то побил бы её камнями”?» Ибн ‘Аббас ответил: «Нет, та женщина открыто совершала мерзость в исламе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6856</td></tr><tr><td>Arabic No</td><td>6856</td></tr><tr><td>Reference</td><td>Book 86 Hadith 78</td></tr></tbody></table></div>
 

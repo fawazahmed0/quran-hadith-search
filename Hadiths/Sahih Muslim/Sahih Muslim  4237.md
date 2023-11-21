@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), Un jour, l'Envoyé 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Ishaq bin Ibrahim] dan Ishaq berkata; telah mengabarkan kepada kami, dan Zuhair berkata; telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abdullah bin Murrah] dari [Abdullah bin Umar] dia berkata, "Suatu hari Rasulullah shallallahu 'alaihi wasallam melarang kami bernadzar, beliau bersabda: "Sesungguhnya (nadzar) tidak dapat menolak sesuatu, hanyasanya ia untuk mengeluarkan sesuatu dari orang yang pelit (tidak mau beramal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>1639.01</td></tr><tr><td>Reference</td><td>Book 26 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>1639.01</td></tr><tr><td>Reference</td><td>Book 26 Hadith 3</td></tr></tbody></table></div>
 

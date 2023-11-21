@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim b. 'Abdullah (b. 'Umar) reported on the authority of his father that Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yhaya] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku ['Amru yaitu Ibnu Al Harits] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [Ayahnya] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau pernah mengerjakan shalat musafir di Mina dan lainnya sebanyak dua rakaat, Abu Bakar, Umar dan awal pemerintahan Utsman juga dua rakaat, setelah itu dia menyempurnakannya empat rakaat." Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Al Walid bin Muslim] dari [Auza'i] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ishaq] dan ['Abd bin Humaid], keduanya berkata; telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar], semuanya dari [Az Zuhri] dengan sanad seperti ini, katanya; "Di Mina, " namun dia tidak menyebutkan yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1590</td></tr><tr><td>Arabic No</td><td>694.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ совершал молитвы путника, находясь в Мине и в других местах в два рак‘ата. Так же поступал Абу Бакр, ‘Умар и ‘Усман в начале своего правления, а затем он стал совершать их полностью (четыре рак‘ата)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1590</td></tr><tr><td>Arabic No</td><td>694.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 21</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr reported:It was narrated to me that the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Hilal bin Yasaf] dari [Abu Yahya] dari [Abdullah bin 'Amru] katanya; diceritakan kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat seseorang yang dilakukanya dengan duduk, memperoleh separoh pahala shalat (dengan berdiri)." Abdullah bin 'Amru berkata; Lalu aku menemui beliau, ternyata aku mendapati beliau shalat dengan duduk, lalu aku meletakkan tanganku diatas kepalanya, maka beliau bersabda: "Apa urusanmu wahai Abdullah bin 'Amru?" Aku menjawab; "Disampaikan kepadaku wahai Rasulullah, bahwa engkau bersabda: "Shalat seseorang dengan duduk mendapat separoh pahala shalat dengan berdiri, " lalu kenapa engkau shalat dengan duduk?" Beliau menjawab: "Benar, namun aku tidak seperti kalian." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Al Mutsanna] dan [Ibnu Basyar], semuanya dari [Muhmamad bin Ja'far] dari [Syubah], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnul Al Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Sufyan], keduanya dari [Manshur] dengan sanad ini dan dalam periwayatan Syu'bah, dari Abu Yahya Al A'raj
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1715</td></tr><tr><td>Arabic No</td><td>735.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр: «Мне передали, что Посланник Аллаха ﷺ сказал: “Молитва того, кто молится сидя, половина молитвы”, и однажды я пришёл к нему и увидел его совершающим (дополнительную) молитву сидя. Я положил свою руку ему на голову, а (Посланник Аллаха ﷺ) спросил: “Что с тобой, о ‘Абдуллах ибн ‘Амр?” Я ответил: “О Посланник Аллаха! Мне передали, что ты сказал: “Молитва того, кто молится сидя, половина молитвы”. А ты сам молишься сидя”. (Посланник Аллаха ﷺ) сказал: “Да, всё так… Однако я не подобен вам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1715</td></tr><tr><td>Arabic No</td><td>735.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 145</td></tr></tbody></table></div>
 

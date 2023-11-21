@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:I heard Khabbab, who had branded his 'Abdomen with seven brands, s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Musa] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Isma'il] dari [Qais] dia berkata; saya mendengar [Khabbab] ketika itu dirinya tengah diterapi dengan kay (terapi dengan menempelkan besi panas pada bagian tubuh yang sakit) di perutnya sebanyak tujuh kali, lalu dia berkata; "Sekiranya Nabi shallallahu 'alaihi wasallam tidak melarang kami untuk mengharapkan kematian, niscaya kami akan mengharapkan kematian. Sesungguhnya para Muhammad shallallahu 'alaihi wasallam yang telah mendahului kami, mereka telah pergi sementara mereka tidak mendapatkan bagian sedikitpun dari kehidupan dunia, dan sekiranya kami mendapatkan bagian dunia, maka kami hanya mendapatkan sepetak tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6430</td></tr><tr><td>Arabic No</td><td>6430</td></tr><tr><td>Reference</td><td>Book 81 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал Кайс, да будет доволен им Аллах: «Я слышал, как Хаббаб, который на то время сделал семь прижиганий, на своём животе (т.е от постигшей его болезни) и сказал: “Если бы Посланник Аллаха ﷺ не запретил нам просить (или взывать) для себя смерти, то я бы пожелал бы себе смерти. Поистине, сподвижники Мухаммада ﷺ покинули этот мир, и этот мир ничего не сократил (не отнял) у них из вознаграждения. Поистине, нам досталось из мирского богатства то, что мы не можем потратить, кроме как на земле (т.е. на строительство домов)“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6430</td></tr><tr><td>Arabic No</td><td>6430</td></tr><tr><td>Reference</td><td>Book 81 Hadith 19</td></tr></tbody></table></div>
 

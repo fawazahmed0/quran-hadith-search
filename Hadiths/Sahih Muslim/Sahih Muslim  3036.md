@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa Ibn Az-Zubayr a dit : Ibn 'Omar et moi étions assis adossés à la chambre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] telah mengabarkan kepada kami [Muhammad bin Bakr Al Bursani] telah mengabarkan kepada kami [Ibnu Juraij] ia berkata, saya mendengar [Atha'] mengabarkan, ia berkata, telah mengabarkan kepadaku [Urwah bin Zubair] ia berkata; Saya dan Ibnu Zubair bersandar ke dinding kamar Aisyah, dan saat itu kami mendengar bunyi siwaknya. Kemudian aku bertanya kepada [Ibnu Umar], "Wahai Abu Abdurrahman, apakah Nabi shallallahu 'alaihi wasallam pernah mengerjakan umrah di bulan Rajab? ' Ia menjawab, "Ya, pernah." Lalu aku bertanya kepada Aisyah, "Wahai Ummul Mukminin, tidakkah Anda mendengar apa yang dikatakan oleh Abu Abdurrahman?" [Aisyah] balik bertanya, "Memangnya apa yang ia katakan?" Saya menjawab, "Ia berkata bahwa Nabi shallallahu 'alaihi wasallam pernah mengerjakan umrah di bulan Rajab." Maka Aisyah pun berkata, "Semoga Allah mengampuni Abu Abdurrahman. Beliau tidak pernah umrah di bulan Rajab, dan tidaklah beliau mengerjakan umrah kecuali selalu bersamanya." Atha' berkata, "Ibnu Umar pasti mendengarnya, lalu apa komentarnya?" Urwah bin Zubair menjawab, "Ia tidak membantah dan tidak pula mengiyakan. Ia hanya terdiam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3036</td></tr><tr><td>Arabic No</td><td>1255.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3036</td></tr><tr><td>Arabic No</td><td>1255.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 243</td></tr></tbody></table></div>
 

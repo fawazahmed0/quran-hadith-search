@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The family of (the Prophet) Muhammad never ate wheat-bread with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Abdurrahman bin Abbas] dari [ayahnya] dari [Aisyah] radliallahu 'anha berkata; Keluarga Muhammad Shallallahu'alaihi wa sallam tidak pernah kenyang dengan roti gandum berlauk selama tiga hari berturut-turut hingga bertemu Allah. Sedang [Ibnu Katsir] menuturkan; telah mengabarkan kepada kami [Sufyan] telah menceritakan kepada kami [Abdurrahman] dari [ayahnya] bahwasanya ia mengatakan kepada ['Aisyah] seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6687</td></tr><tr><td>Arabic No</td><td>6687</td></tr><tr><td>Reference</td><td>Book 83 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Семья Мухаммада ﷺ не ела пшеничного хлеба с приправой досыта на протяжении трёх дней (подряд), пока Посланник Аллаха ﷺ не присоединился к Аллаху (т.е. пока не умер)».\nА Ибн Касир сказал: «Сообщил нам Суфьян (ас-Саури, который сказал:) рассказал нам ‘Абдуррахман от своего отца, который рассказал об этом (хадисе) ‘Аише»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6687</td></tr><tr><td>Arabic No</td><td>6687</td></tr><tr><td>Reference</td><td>Book 83 Hadith 64</td></tr></tbody></table></div>
 

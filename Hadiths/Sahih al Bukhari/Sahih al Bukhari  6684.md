@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) took an oath for abstention from his wives
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin Abdullah] Telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Humaid] dari [Anas] mengatakan; Rasulullah pernah meng-ila' isteri-isterinya, yang ketika itu kaki beliau sedang bengkak-bengkak, beliau tinggal di kamarnya selama dua puluh Sembilan hari. kemudian beliau turun dari kamarnya (setelah dua puluh Sembilan hari berlalu). Maka para sahabat bertanya; 'katanya anda meng-ila' isteri anda selama dua puluh Sembilan hari? ' Nabi shallallahu 'alaihi wasallam menjawab; "sebulan itu jumlahnya dua puluh Sembilan hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6684</td></tr><tr><td>Arabic No</td><td>6684</td></tr><tr><td>Reference</td><td>Book 83 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ поклялся, (что в течение месяца не станет приближаться) к своим жёнам, и у него был вывих ноги, он пробыл в своей приподнятой (от земли) комнате двадцать девять ночей, затем он спустился, и (ему) сказали: “О Посланник Аллаха, ты ведь поклялся (что не будешь приближаться к своим жёнам в течение) месяца!” Тогда он сказал: “Поистине, месяц состоит из двадцати девяти дней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6684</td></tr><tr><td>Arabic No</td><td>6684</td></tr><tr><td>Reference</td><td>Book 83 Hadith 61</td></tr></tbody></table></div>
 

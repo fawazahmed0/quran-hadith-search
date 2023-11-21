@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), Abou Al-Qâsim (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Numair]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Fudlail bin Ghazwan] dia berkata; aku mendengar [Abdurrahman bin Abu Nu'm] telah menceritakan kepadaku [Abu Hurairah] dia berkata, "Abu Qasim shallallahu 'alaihi wasallam pernah bersabda: "Barangsiapa menuduh seorang budak berbuat zina, maka dia akan dikenakan had (hukuman setimpal) pada hari Kiamat, kecuali jika tuduhannya benar." Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Ishaq bin Yusuf Al Azraq] keduanya dari [Fudlail bi Ghazwan] dengan sanad ini. Dan dalam hadits keduanya disebutkan, "Aku pernah mendengar Abu Qasim shallallahu 'alaihi wasallam, yaitu Nabi yang menyukai taubat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4311</td></tr><tr><td>Arabic No</td><td>1660.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4311</td></tr><tr><td>Arabic No</td><td>1660.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 58</td></tr></tbody></table></div>
 

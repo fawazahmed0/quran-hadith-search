@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Saud:The Prophet (ﷺ) said, "If you hear of an outbreak of plague in a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dia berkata; telah mengabarkan kepadaku [Habib bin Abu Tsabit] dia berkata; saya mendengar [Ibrahim bin Sa'd] berkata; saya mendengar [Usamah bin Zaid] bercerita kepada Sa'd dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda: "Apabila kalian mendengar wabah lepra di suatu negeri, maka janganlah kalian masuk ke dalamnya, namun jika ia menjangkiti suatu negeri, sementara kalian berada di dalamnya, maka janganlah kalian keluar dari negeri tersebut." Lalu aku berkata; "Apakah kamu mendengar Usamah menceritakan hal itu kepada Sa'd, sementara [Sa'd] tidak mengingkari perkataannya Usamah?" Ibrahim bin Sa'd berkata; "Benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5728</td></tr><tr><td>Arabic No</td><td>5728</td></tr><tr><td>Reference</td><td>Book 76 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Усамы ибн Зейда, что Пророк ﷺ сказал: «Если услышите, что чума (распространилась в какой-нибудь) земле, не приезжайте туда, если же она распространится на той земле, где вы находитесь, не покидайте (эту землю)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5728</td></tr><tr><td>Arabic No</td><td>5728</td></tr><tr><td>Reference</td><td>Book 76 Hadith 43</td></tr></tbody></table></div>
 

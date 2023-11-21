@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Huraira that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah menceritakan kepada kami [Abdul Aziz bin Abu Hazim] dari [Ayahnya] dari [Ba'jah] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Sebaik-baik kehidupan manusia adalah seorang laki-laki yang memegang kendali kudanya dan bergegas untuk berjuang di jalan Allah, setiap kali mendengar suara musuh yang menakutkan atau sangat mengerikan, ia melompat ke atas punggung kudanya untuk mengharapkan kematian. Atau seorang laki-laki yang berada dalam kumpulan kambing yang berada di puncak gunung atau berada di pedalaman lembah ini, ia mendirikan shalat, menunaikan zakat dan beribadah kepada Rabbnya sampai menemui ajalnya, tidaklah ia menjadi manusia kecuali dalam kebaikan." Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Abdul Aziz bin Abu Hazim] dan [Ya'qub yaitu Ibnu Abdurrahman Al Qari] keduanya dari [Abu Hazim] dengan sanad ini, seperti hadits tersebut. Dia (perawi) berkata; dari Ba'jah bin Abdullah bin Badr, beliau bersabda: 'Di bukit dari bukit-bukit ini, ' berbeda dengan riwayatnya Yahya." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dan [Abu Kuraib] mereka berkata, telah menceritakan kepada kami [Waki'] dari [Usamah bin Zaid] dari [Ba'jah bin Abdullah Al Juhani] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam semakna dengan hadits Abu Hazm dari Ba'jah, dia berkata, "Di suatu bukit dari beberapa bukit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>1889.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>1889.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 185</td></tr></tbody></table></div>
 

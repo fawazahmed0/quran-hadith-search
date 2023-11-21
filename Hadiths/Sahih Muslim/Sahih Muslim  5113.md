@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thauban, the freed slave of Allah's Messenger (ﷺ), reported:Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Abu Mushir] telah menceritakan kepada kami [Yahya bin Hamzah] telah menceritakan kepadaku [Az Zubaidi] dari [Abdurrahman bin Jubair bin Nufair] dari [ayahnya] dari [Tsauban] bekas budak Rasulullah shallallahu 'alaihi wasallam, dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku ketika haji Wada': "Simpanlah daging ini untuk perbekalan." Tsauban berkata, "Lalu saya pun menyimpannya sebagai perbekalan, dan beliau masih tetap memakan perbekalan tersebut hingga sampai tiba di Madinah." Dan telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Muhammad bin Al Mubarak] telah menceritakan kepada kami [Yahya bin Hamzah] dengan isnad ini, hanya saja ia tidak menyebutkan, "Ketika haji Wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

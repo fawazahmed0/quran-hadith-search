@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amir: I saw the Messenger of Allah (ﷺ) at Mina giving sermon on a mul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Hilal bin Amir] dari [Bapaknya] ia berkata, "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam berkhutbah di Mina di atas bighal, beliau mengenakan selendang beludru berwarna merah, sementara Ali radliallahu 'anhu berada di depannya sebagai penerjemah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4073</td></tr><tr><td>Arabic No</td><td>4073</td></tr><tr><td>Reference</td><td>Book 34 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хиляль ибн ‘Амир передаёт от своего отца: «Я видел, как Посланник Аллаха ﷺ обращался к людям с проповедью в Мине, сидя на своей мулице. На нём был красный плащ, а ‘Али, да будет доволен им Аллах, стоял перед ним, повторяя его слова громким голосом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4073</td></tr><tr><td>Arabic No</td><td>4073</td></tr><tr><td>Reference</td><td>Book 34 Hadith 54</td></tr></tbody></table></div>
 

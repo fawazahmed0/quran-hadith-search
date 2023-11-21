@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Le récit de 'Aïcha (raa) : D'après 'Ubayd Ibn 'Umayr, 'Aïcha a entendu dire 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya], [Abu Bakar bin Abi Syaibah] dan [Ali bin Hujr] semuanya meriwayatkan dari [Ibnu Ulayah] [Yahya] berkata, telah mengabarkan kepada kami [Ismail bin Ulayah] dari [Ayyub] dari [Abu az-Zubair] dari [Ubaid bin Umair] dia berkata, " [Aisyah] pernah mendengar Abdullah bin Amru memerintahkan orang-orang perempuan agar membuka tali ikatan rambut mereka apabila mereka mandi. Lalu Aisyah berkata, 'Mengapa dia tidak menyuruh mereka agar mencukur rambut saja? Aku pernah mandi bersama-sama Rasulullah Shallallahu'alaihiwasallam menggunakan air dari wadah yang sama. Aku tidak menyiram kepalaku lebih dari tiga kali siram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>747</td></tr><tr><td>Arabic No</td><td>331</td></tr><tr><td>Reference</td><td>Book 3 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Убайда ибн ‘Умайра, что как-то до ‘Аиши дошло, что ‘Абдуллах ибн ‘Амр велит женщинам расплетать свои косы для совершения полного омовения /гусль/, и она сказала: “Удивительно то, что этот Ибн ‘Амр велит женщинам расплетать косы для совершения полного омовения! Почему бы ему не приказать им брить головы?! Я совершала полное омовение после большого осквернения /джанаба/ вместе с Посланником Аллаха ﷺ, (черпая воду) из одного и того же сосуда, и я лишь обливала голову тремя пригоршнями (воды)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>747</td></tr><tr><td>Arabic No</td><td>331</td></tr><tr><td>Reference</td><td>Book 3 Hadith 69</td></tr></tbody></table></div>
 

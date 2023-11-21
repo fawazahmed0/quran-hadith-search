@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I asked Allah's Messenger (ﷺ) about the plague. He said, "That
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Ibrahim Al Hanzhali] telah memberitakan kepada kami [An Nadhr] telah menceritakan kepada kami [Dawud bin Abi Furat] dari [Abdullah bin Buraidah] dari [Yahya bin Ya'mar] bahwasanya [Aisyah] radliallahu 'anhuma mengabarkan kepadanya, ia pernah bertanya Rasulullah Shallallahu'alaihiwasallam tentang thaun (penyakit pes, lepra), Nabi bersabda: "Itu adalah siksa yang Allah kirimkan kepada siapa saja yang dikehendaki-Nya, dan Allah menjadikannya sebagai rahmat bagi orang-orang beriman. Dan tidaklah seorang hamba di suatu negeri yang terkena penyakit tha'un dan ia tinggal disana, ia tidak mengungsi dari negeri itu dengan sabar dan mengharap pahala disisi Allah, ia sadar bahwa tak akan menimpanya selain yang telah digariskan-Nya baginya, selain baginya pahala seperti pahala syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6619</td></tr><tr><td>Arabic No</td><td>6619</td></tr><tr><td>Reference</td><td>Book 82 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Яхья ибн Ма‘мар передаёт, что ‘Аиша, да будет доволен ею Аллах, сообщила ему, что однажды она спросила Посланника Аллаха ﷺ о чуме, и он сказал: «(Чума) является наказанием, которое Аллах насылает, на кого пожелает (из Своих рабов), (однако) для верующих Аллах сделал (чуму) милостью. И любой раб (Аллаха), который будет находится в какой-либо местности, (если там разразится (чума), и не уйдёт оттуда, оставаясь там, проявляя терпение и надеясь на награду Аллаха, (так как) он знает, что не постигнет его ничто, кроме предопределённого ему Аллахом, получит такую же награду, как и павший за веру»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6619</td></tr><tr><td>Arabic No</td><td>6619</td></tr><tr><td>Reference</td><td>Book 82 Hadith 25</td></tr></tbody></table></div>
 

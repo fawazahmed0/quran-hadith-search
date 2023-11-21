@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Ibn 'Abbas that he (the Holy Prophet) saw (Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafsh] dari [Abdul Malik] dari ['Atha'] dari [Ibnu Abbas] dia berkata, "Beliau telah melihatnya dengan mata hatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>436</td></tr><tr><td>Arabic No</td><td>176.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 341</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «(Пророк ﷺ) видел его (Джибриля) своим сердцем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>436</td></tr><tr><td>Arabic No</td><td>176.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 341</td></tr></tbody></table></div>
 

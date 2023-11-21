@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thabit narrated it from Anas:Among the Jews, when a woman menstruated, they did 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Tsabit] dari [Anas] bahwa kaum Yahudi dahulu apabila kaum wanita mereka, mereka tidak memberinya makan dan tidak mempergaulinya di rumah. Maka para sahabat Nabi shallallahu 'alaihi wasallam bertanya kepada Nabi Shallallahu'alaihiwasallam. Lalu Allah menurunkan, "Mereka bertanya kepadamu tentang haidh. Katakanlah, 'Haidh itu adalah suatu kotoran'. Oleh sebab itu, hendaklah kamu menjauhkan diri dari wanita di waktu haidh; dan janganlah kamu mendekati mereka, sebelum mereka suci. Apabila mereka telah suci, maka campurilah mereka itu di tempat yang diperintahkan Allah kepadamu. Allah menyukai orang-orang yang taubat dan menyukai orang-orang yang mensucikan diri." (al-Baqarah: 222) maka Rasulullah shallallahu 'alaihi wasallam bersabda, "Perbuatlah segala sesuatu kecuali nikah". Maka hal tersebut sampai kepada kaum Yahudi, maka mereka berkata, "Laki-laki ini tidak ingin meninggalkan sesuatu dari perkara kita melainkan dia menyelisihi kita padanya." Lalu Usaid bin Hudhair dan Abbad bin Bisyr berkata, "Wahai Rasulullah, sesungguhnya kaum Yahudi berkata demikian dan demikian, maka kami tidak menyenggamai kaum wanita." Raut wajah Rasulullah shallallahu 'alaihi wasallam spontan berubah hingga kami mengira bahwa beliau telah marah pada keduanya, lalu keduanya keluar, keduanya pergi bertepatan ada hadiah susu yang diperuntukkan Nabi shallallahu 'alaihi wasallam, Maka beliau kirim utusan untuk menyusul kepergian keduanya, dan beliau suguhkan minuman untuk keduanya. Keduanya pun sadar bahwa beliau tidak marah atas keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>694</td></tr><tr><td>Arabic No</td><td>302</td></tr><tr><td>Reference</td><td>Book 3 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Иудеи не ели вместе с женщинами, у которых начинались месячные, и не оставались с (ними) в одном доме. Сподвижники Пророка ﷺ задали ему вопрос об этом, и тогда Всемогущий и Великий Аллах ниспослал (аят, в котором сказано): «Они спрашивают тебя о менструациях. Скажи: “Они причиняют страдания. Посему избегайте половой близости с женщинами во время менструаций и не приближайтесь к ним, пока они не очистятся. А когда они очистятся, то приходите к ним так, как повелел вам Аллах. Воистину, Аллах любит кающихся и любит очищающихся”». (Сура «аль-Бакара», аят 222) После этого Посланник Аллаха ﷺ сказал: “(Можете) делать всё, за исключением половой близость”. Это дошло до иудеев, которые стали говорить: “Что бы мы ни делали, этот человек не желает упускать (ни одной возможности), лишь бы поступить наперекор нам!” Через некоторое время (к Пророку ﷺ) пришли Усайд ибн Худайр и ‘Аббад ибн Бишр, которые сказали: “О Посланник Аллаха, поистине, иудеи говорят то-то и то-то, так не вступать ли нам в половую близость с (женщинами, у которых начались месячные)?” (Услышав их слова), Посланник Аллаха ﷺ изменился в лице (настолько), что мы даже решили, что он разгневался на них, однако когда они вышли, им встретился (человек, нёсший) молоко в подарок Пророку ﷺ, который (сразу) послал за (Усайдом и ‘Аббадом) и напоил их, и они поняли, что он не гневается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>694</td></tr><tr><td>Arabic No</td><td>302</td></tr><tr><td>Reference</td><td>Book 3 Hadith 16</td></tr></tbody></table></div>
 

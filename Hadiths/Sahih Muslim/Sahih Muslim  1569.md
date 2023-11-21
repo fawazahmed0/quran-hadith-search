@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qatada reported it on the authority of Anas b. Malik that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali Al Jahdlami] telah menceritakan kepadaku [Ayahku] telah menceritakan kepada kami [Al Mutsanna] dari [Qatadah] dari [Anas bin Malik] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang diantar kalian ketiduran dari (tidak mengerjakan) shalat, hendaknya ia mengerjakan ketika ingat, sebab Allah Ta'ala berfirman; Dirikanlah shalat untuk mengingat-Ku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1569</td></tr><tr><td>Arabic No</td><td>684.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 402</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «Если кто-то из вас проспит молитву или забудет о ней, пусть помолится, когда вспомнит о ней, ведь Аллах сказал: “…и выстаивай молитву, чтобы помнить обо Мне” (Сура «Та ха», аят 14)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1569</td></tr><tr><td>Arabic No</td><td>684.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 402</td></tr></tbody></table></div>
 

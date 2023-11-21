@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) allowed one of the Ansar familie
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Arim] telah menceritakan kepada kami [Hammad] dia berkata; dibacakan di hadapan [Ayyub] dari kitabnya [Abu Qilabah], di antaranya ada sesuatu yang dibacakan dan ada sesuatu yang di dengar, sementara hal ini terdapat dalam kitabnya dari [Anas] bahwa Abu Thalhah dan Anas bin Nadlr pernah melakukan terapi kay (menempelkan besi panas pada daerah yang luka atau sakit) sementara Abu Thalhah juga pernah melakukan terapi kay (menempelkan besi panas pada daerah yang luka atau sakit) dengan tangannya sendiri." ['Abbad bin Manshur] mengatakan dari [Abu Qilabah] dari [Anas bin Malik] dia berkata; Rasulullah shallallahu 'alaihi wasallam memberi izin kepada keluarga beliau dari Anshar untuk meruqyah dari penyakit demam dan sakit telinga. Anas mengatakan; "Aku juga pernah melakukan kay (menempelkan besi panas pada daerah yang luka atau sakit) pada penyakit radang selaput dada, sedangkan Rasulullah shallallahu 'alaihi wasallam masih hidup. Abu Thalhah, Anas bin Nadlr, Zaid bin Tsabit juga pernah menyaksikanku ketika aku diterapi dengan kay (menempelkan besi panas pada daerah yang sakit) oleh Abu Thalhah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5720</td></tr><tr><td>Arabic No</td><td>5720</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ разрешил членам одной из семей ансаров лечиться от ядовитых укусов и от боли в ушах с помощью заговоров, я же лечился от плеврита при жизни Посланника Аллаха ﷺ с помощью прижиганий. Это видели Абу Тальха, Анас ибн ан-Надр и Зейд ибн Сабит, а делал мне прижигания Абу Тальха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5720</td></tr><tr><td>Arabic No</td><td>5720</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

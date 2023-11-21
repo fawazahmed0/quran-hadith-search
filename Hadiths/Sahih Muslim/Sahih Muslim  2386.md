@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hakim b. Hizam reported Allah's Messenger (ﷺ) having said this:The most excell
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Muhammad bin Hatim] dan [Ahmad bin Abdah] semuanya dari [Yahya Al Qaththan] - [Ibnu Basysyar] berkata- Telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Amru bin Utsman] ia berkata, saya mendengar [Musa bin Thalhah] menceritakan bahwa [Hakim bin Hizam] telah menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sedekah yang paling utama atau paling baik adalah sedekah yang diberikan ketika ia mampu. Dan tangan yang di atas adalah lebih baik daripada tangan yang di bawah. Dan dahulukanlah pemberian itu kepada orang yang menjadi tanggunganmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2386</td></tr><tr><td>Arabic No</td><td>1034</td></tr><tr><td>Reference</td><td>Book 12 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хакима ибн Хизама, что Посланник Аллаха ﷺ сказал: «Лучшей милостыней является та, которая подаётся от достатка, а высшая рука (дающего милостыню ) лучше руки низшей (берущего). И начинай (с расходования) на тех, кого ты (обязан) содержать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2386</td></tr><tr><td>Arabic No</td><td>1034</td></tr><tr><td>Reference</td><td>Book 12 Hadith 123</td></tr></tbody></table></div>
 

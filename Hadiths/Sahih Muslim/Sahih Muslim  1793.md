@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that he spent a night in the house of his maternal aunt, Mai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>763.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас рассказал о том, что (однажды) он ночевал (в доме) его тёти Маймуны. Ночью Посланник Аллаха ﷺ встал и совершил лёгкое омовение из висевшего бурдюка. Ибн ‘Аббас сказал: «(Затем он стал молиться,) я же совершил такое же омовение, какое совершил Пророк ﷺ, после чего пришёл и встал слева от него, но он поставил меня справа от себя. Он помолился, после чего лёг спать и пролежал так, пока не начал храпеть. Затем к нему пришёл Биляль, который сообщил ему о (наступлении времени) молитвы, и он вышел и совершил утреннюю молитву, не совершив омовения (повторно)».Суфйан сказал: «Это является особенностью Пророка ﷺ, ибо до нас дошло, что глаза Пророка ﷺ спят, но не спит его сердце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>763.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 221</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abdullah b. Mas'ud:We once said: Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] dan [Waki']. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan lafazh tersebut miliknya, telah menceritakan kepada kami [Waki'] dari [al-A'masy] dari [Abu Wail] dari [Abdullah] dia berkata, "Kami bertanya, 'Wahai Rasulullah, apakah kami akan dihukum disebabkan perbuatan kami pada masa Jahiliyah? ' Beliau menjawab: 'Barangsiapa berbuat baik pada masa Islam, maka dia tidak dihukum disebabkan perbuatannya pada masa jahiliyah, dan barangsiapa berbuat jelek pada masa Islam maka dia dihukum disebabkan perbuatannya di masa jahiliyah dan Islam'." Telah menceritakan kepada kami [Minjab bin al-Harits at-Tamimi] telah mengabarkan kepada kami [Ali bin Mushir] dari [al-A'masy] dengan sanad ini semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>319</td></tr><tr><td>Arabic No</td><td>120.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах сказал: «Однажды мы спросили: “О Посланник Аллаха, взыщется ли с нас за то, что мы совершали во времена джахилиййи?” (Пророк ﷺ) сказал: “С того, кто в исламе совершает благие дела, не спросят за то, что он делал во времена джахилиййи, а с того, кто в исламе совершает дурные дела, спросят и за первое, и за последнее”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>319</td></tr><tr><td>Arabic No</td><td>120.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 226</td></tr></tbody></table></div>
 

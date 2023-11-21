@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah, the brother of Abu Al-Qu'ais asked my permission to enter
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Urwah] dari [Aisyah] sesungguhnya Aflah saudara Abu Al Qu'ais pernah meminta izin untuk menemuiku setelah turun (ayat) hijab, maka aku berkata; "Demi Allah, aku tidak akan mengizinkannya (masuk) sebelum aku meminta izin kepada Rasulullah shallallahu 'alaihi wasallam, karena saudara Abu Al Qu'ais bukanlah orang yang menyusuiku, akan tetapi yang menyusuiku adalah isterinya." Beberapa saat kemudian Rasulullah shallallahu 'alaihi wasallam datang, lalu aku berkata; "Wahai Rasulullah, sesungguhnya laki-laki itu bukanlah orang yang menyusuiku, akan tetapi yang menyusuiku adalah isterinya, beliau bersabda: "Izinkanlah ia (masuk) karena dia adalah pamanmu, semoga kamu beruntung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6156</td></tr><tr><td>Arabic No</td><td>6156</td></tr><tr><td>Reference</td><td>Book 78 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Как-то раз) после ниспослания (веления о) завесе разрешения войти ко мне попросил Афлях, брат Абу-ль-Ку‘айса. Я сказала: “Клянусь Аллахом, я не позволю ему (войти), пока не спрошу разрешения Посланника Аллаха ﷺ на это, поскольку вскормил меня не его брат Абу-ль-Ку‘айс, а жена Абу-ль-Ку‘айса”. И когда Посланник Аллаха ﷺ зашёл ко мне, я сказала ему: “О Посланник Аллаха, меня вскормил не мужчина, а его жена”. А он сказал: “Впусти же его, ведь он — твой дядя, да покроется пылью твоя правая рука!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6156</td></tr><tr><td>Arabic No</td><td>6156</td></tr><tr><td>Reference</td><td>Book 78 Hadith 182</td></tr></tbody></table></div>
 

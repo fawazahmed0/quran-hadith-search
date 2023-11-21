@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Satan comes to one of you an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata telah mengabarkan kepadaku ['Urwah bin Az Zubair], berkata [Abu Hurairah radliallahu 'anhu]; Rasulullah shallallahu 'alaihi wasallam bersabda: "Syetan senantiasa mendatangi salah seorang dari kalian seraya berkata; siapa yang menciptakan ini dan siapa yang menciptakan itu hingga akhirnya dia bertanya 'Lantas siapa yang menciptakan Tuhanmu?. Bila sudah sampai seperti itu maka hendaklah dia meminta perlindungan kepada Allah dan menghentikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3276</td></tr><tr><td>Arabic No</td><td>3276</td></tr><tr><td>Reference</td><td>Book 59 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Шайтан может явиться к любому из вас и сказать: “Кто создал это? Кто создал это?” — (и он будет продолжать задавать такие вопросы,) пока не спросит: “Кто создал твоего Господа?” — и когда он дойдёт до этого, пусть человек обратится за защитой к Аллаху и прекратит (думать об этом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3276</td></tr><tr><td>Arabic No</td><td>3276</td></tr><tr><td>Reference</td><td>Book 59 Hadith 85</td></tr></tbody></table></div>
 

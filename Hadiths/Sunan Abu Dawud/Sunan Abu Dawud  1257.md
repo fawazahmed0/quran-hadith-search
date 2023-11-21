@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Bilal: Ziyadah al-Kindi reported on the authority of Bilal that he (Bil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abu Al Mughirah] telah menceritakan kepada kami [Abdullah Al 'Ala'] telah menceritakan kepadaku [Abu Ziyadah 'Ubaidullah bin Ziyadah Al Kindi] dari [Bilal] bahwa dia telah menceritakan kepadanya, bahwa dirinya pernah datang kepada Rasulullah shallallahu 'alaihi wasallam untuk menyerukan adzan subuh, lalu Aisyah menyibukkan Bilal dengan suatu perkara yang ia tanyakan, hingga waktu pagi datang dengan cerah. ' Katanya; 'lalu Bilal berdiri mengumandangkan adzan untuk shalat, dan adzan di kumandangkan dengan sempurna, namun Rasulullah shallallahu 'alaihi wasallam tidak kunjung keluar, setelah beliau keluar mengerjakan shalat dengan orang-orang, di sampaikanlah kepada beliau bahwa dia (Bilal) disibukkan dengan suatu urusan yang di tanyakan Aisyah sampai tiba waktu pagi yang cerah, sehingga dia membuat beliau juga terlambat keluar." Beliau bersabda: "Sesungguhnya aku tengah mengerjakan shalat sunnah fajar dua raka'at." Bilal berkata; "Wahai Rasulullah, sesungguhnya anda berada di pagi yang sangat cerah?" beliau bersabda: "Sekiranya aku kesiangan dan lebih siang daripada sekarang ini, pasti aku akan tetap mengerjakan dua raka'at tersebut, dan aku akan memperbaiki dan memperbagus kedua raka'at tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1257</td></tr><tr><td>Arabic No</td><td>1257</td></tr><tr><td>Reference</td><td>Book 5 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Биляля, да будет доволен им Аллах, что как-то раз он пришёл к Посланнику Аллаха ﷺ чтобы возвестить о наступлении времени утренней молитвы, и ‘Аиша отвлекла Биляля, попросив его о чём-то, до тех пор, пока не стало совсем светло. Потом он произнёс азан, призывая на утреннюю молитву, но Посланник Аллаха ﷺ не вышел к нему сразу. Потом Посланник Аллаха ﷺ совершил молитву с людьми и рассказал ему о том, как ‘Аиша отвлекла его и задерживала до тех пор, пока не стало совсем светло. [Биляль заметил, что Посланник Аллаха ﷺ не вышел к нему сразу же. Посланник Аллаха ﷺ] объяснил: «Я совершал два рак‘ата перед утренней молитвой». Биляль сказал: «О Посланник Аллаха! Но ведь стало совсем светло!» (Посланник Аллаха ﷺ) сказал: «Даже если бы рассвело ещё больше, я непременно совершил бы эти два рак‘ата должным образом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1257</td></tr><tr><td>Arabic No</td><td>1257</td></tr><tr><td>Reference</td><td>Book 5 Hadith 8</td></tr></tbody></table></div>
 

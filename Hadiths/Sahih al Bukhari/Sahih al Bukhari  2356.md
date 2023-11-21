@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah (bin Mas'ud):The Prophet (ﷺ) said, "Whoever takes a false o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Syaqiq] dari ['Abdullah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang bersumpah yang dengan sumpahnya itu dia bermaksud mengambil harta seorang Muslim maka dia telah berbuat kedurhakaan dan akan berjumpa dalam keadaan Allah murka kepadanya". Maka turunlah firman Allah QS Alu 'Imran ayat 77 yang artinya ("Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit…"). Maka datang [Al Asy'ats] seraya berkata; "Apa yang Abu 'Abdurrahman katakan kepada kalian sehubungan dengan turunnya ayat ini? Aku dahulu memiliki sumur yang berada di rumah anak pamanku". Beliau berkata, kepadaku: "Siapa yang menjadi saksi atas ucapanmu ini?" Aku menjawab: "Aku tidak punya saksi". Beliau berkata: "Maka dia harus bersumpah". Aku katakan: "Wahai Rasulullah, kalau begitu dia pasti akan bersumpah". Maka Nabi shallallahu 'alaihi wasallam menyebutkan hadits ini lalu turunlah ayat ini sebagai pembenaran atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2356</td></tr><tr><td>Arabic No</td><td>2356</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Мас‘уд, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал: “Давший ложную клятву (для того, чтобы) с помощью этого присвоить имущество другого человека, встретит Аллаха гневающимся на него”, а потом Аллах Всевышний ниспослал (айат, в котором говорится): “Поистине, для тех, которые продают завет Аллаха и свои клятвы за ничтожную цену, нет удела в мире ином: Аллах не заговорит с ними, и не посмотрит на них в День воскресения, и не очистит их, и (уготовано) им мучительное наказание”».\n(Через некоторое время к людям, которые слушали ‘Абдуллаха), подошёл аль-Аш‘ас и спросил: «Что рассказал вам Абу ‘Абд ар-Рахман? (На самом деле ниспослание) этого аята имело отношение ко мне. (Дело в том, что) мне принадлежал колодец(, располагавшийся) на земле моего двоюродного брата. (Я пришёл с этим делом к Пророку ﷺ) который сказал мне: “(Приведи) своих свидетелей”. Я сказал: “У меня нет свидетелей”. (Пророк ﷺ) сказал: “(Тогда пусть) он поклянётся”. Я сказал: “О Посланник Аллаха, он принесёт (ложную) клятву!” — и тогда Пророк ﷺ произнёс эти слова, а Аллах ниспослал этот аят в качестве подтверждения (сказанного Пророком ﷺ )»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2356</td></tr><tr><td>Arabic No</td><td>2356</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

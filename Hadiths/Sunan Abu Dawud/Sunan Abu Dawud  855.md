@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMas'ud al-Badri: The Prophet (ﷺ) said: A man's prayer does not ava
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar An Namari] telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] dari ['Umarah bin Umair] dari [Abu Ma'mar] dari [Abu Mas'ud Al Badri] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak sempurna shalat seseorang sehingga ia meluruskan punggungnya ketika ruku' dan sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>855</td></tr><tr><td>Reference</td><td>Book 2 Hadith 465</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Мас‘уда аль-Бадри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Молитва человека не будет действительной до тех пор, пока он не станет совершать поясные и земные поклоны, (с должным спокойствием и неторопливостью), выпрямляя спину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>855</td></tr><tr><td>Reference</td><td>Book 2 Hadith 465</td></tr></tbody></table></div>
 

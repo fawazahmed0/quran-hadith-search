@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "One should not say that I am better
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] dari [Qatadah] berkata aku mendengar [Abu Al 'Aliyah] telah bercerita kepada kami [anak paman Nabi kalian, yaitu Ibnu 'Abbas] dari Nabi shallallahu 'alaihi wasallam bersabda: "Tidak sepatutnya seorang hamba berkata aku lebih baik dari Yunus bin Matta" -----beliau menyebutnya dengan menisbatkannya kepada ayahnya----". Dan Nabi shallallahu 'alaihi wasallam juga menyebutkan pada malam Beliau diisra'kan, kata Beliau; "Musa adalah seorang laki-laki yang berkulit sawo matang seakan dia laki-laki gagah berasal dari Syanu'ah (Yaman) dan Beliau juga berkata bahwa 'Isa adalah seorang yang berambut keriting, berdada bidang. Beliau juga menyebut malaikat Malik penjaga neraka dan juga menyebut ad-Dajjal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>3396</td></tr><tr><td>Reference</td><td>Book 60 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказывая о своём ночном переносе (аль-исра), Пророк ﷺ сказал: «(Я увидел) Мусу (в образе) смуглого, высокого человека, будто был он одним из людей (племени) шану‘а, и я увидел ‘Ису (в образе человека) среднего роста и телосложения, который имел курчавые волосы». И он упомянул Малика, стража ада, и Даджаля
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>3396</td></tr><tr><td>Reference</td><td>Book 60 Hadith 69</td></tr></tbody></table></div>
 

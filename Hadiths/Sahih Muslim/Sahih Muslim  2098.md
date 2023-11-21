@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amra reported that a Jewess came to 'A'isha to ask (about something) and said:Ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Yahya] dari [Amrah] bahwa seorang wanita Yahudi mendatangi [Aisyah] seraya berkata, "Semoga Allah melindungimu dari siksa kubur." Aisyah berkata; Maka saya pun bertanya, "Wahai Rasulullah, apakah Allah akan menyiksa manusia di alam kubur?" Amrah berkata; Aisyah berkata; Rasulullah shallallahu 'alaihi wasallam menjawab: "Mintalah perlindungan kepada Allah." Kemudian Rasulullah shallallahu 'alaihi wasallam pergi dengan berkendaraan di siang hari, tiba-tiba terjadilah gerhana matahari. Aisyah berkata; Maka saya pun keluar melewati pintu rumah yang berada di dalam masjid bersama beberapa orang wanita. Kemudian datanglah Rasulullah shallallahu 'alaihi wasallam dari kendaraannya, beliau berjalan hingga sampai di Mushalla (tanah lapang) tempat beliau shalat. Lalu beliau berdiri (shalat) dan kaum muslimin pun ikut berdiri (shalat) di belakangnya. Aisyah berkata; Beliau berdiri lama sekali, kemudian beliau ruku' dengan ruku' yang lama sekali, setelah itu beliau bangkit dan berdiri lama sekali, namun tidak seperti berdirinya yang pertama. Kemudian beliau ruku' dengan sangat lama, namun tidak selama ruku'nya yang pertama, lalu beliau bangkit sementara matahari telah bersinar kembali. Akhirnya beliau bersabda: "Sungguh, saya telah melihat bahwa kalian akan diuji di alam kubur nanti sebagaimana fitnah Dajjal." Amrah berkat; Saya mendengar Aisyah berkata, "Setelah itu, saya mendengar Rasulullah shallallahu 'alaihi wasallam meminta perlindungan dari adzab neraka dan adzab kubur." Dan telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] semuanya dari [Yahya bin Sa'id] dengan isnad ini, dan sesuai dengan makna haditsnya Sulaiman bin Bilal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2098</td></tr><tr><td>Arabic No</td><td>903.01</td></tr><tr><td>Reference</td><td>Book 10 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Амры, что (как-то раз) к ‘Аише пришла одна иудейка, которая попросила её о чём-то, (а потом) сказала ей: «Да защитит тебя Аллах от мучений могилы!»‘Аиша, сказала: «(После этого) я спросила: “О Посланник Аллаха, разве люди будут подвергнуты мучениям в своих могилах?” Посланник Аллаха ﷺ ответил: “Да упасёт (нас от этого) Аллах!”».(‘Аиша сказала): «(Однажды) рано утром Посланник Аллаха ﷺ сел (на свою верблюдицу), отправился в путь и началось солнечное затмение. Я, вместе с другими женщинами вышла из дома и мы отправились в мечеть. Посланник Аллаха ﷺ вернулся, подошёл к месту, где он (обычно) совершал молитву и встал на молитву, а люди встали позади него. (Сначала) он долго стоял, потом надолго склонился в поясном поклоне, потом выпрямился и (снова) стоял долго, но меньше, чем в первый раз, потом совершил (ещё один) долгий поясной поклон, занявший меньше времени, чем первый, после чего выпрямился, а солнце уже прояснилось. Затем он сказал: “Я видел, как вы подвергаетесь испытаниям в могиле, подобно искушению Даджжаля”».‘Аиша сказала: «И после этого я слышала, как Посланник Аллаха ﷺ обращался (к Аллаху) за защитой от мук Огня и мучений могилы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2098</td></tr><tr><td>Arabic No</td><td>903.01</td></tr><tr><td>Reference</td><td>Book 10 Hadith 9</td></tr></tbody></table></div>
 

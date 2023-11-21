@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: A man asked the Prophet (ﷺ) whether one who was fasting 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali], telah menceritakan kepada kami [Abu Ahmad yaitu Az Zubairi], telah mengabarkan kepada kami [Israil] dari [Abu Al 'Anbas] dari [Al Aghar] dari [Abu Hurairah] bahwa seoerang laki-laki bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai cumbuan orang yang berpuasa, lalu beliau memberikan keringanan kepadanya. Dan orang yang lain datang kepada beliau dan bertanya mengenainya, lalu beliau melarangnya. Ternyata orang yang beliau beri keringanan adalah orang yang sudah tua, sedangkan orang yang beliau larang adalah orang yang masih muda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2387</td></tr><tr><td>Arabic No</td><td>2387</td></tr><tr><td>Reference</td><td>Book 14 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что один человек спросил Пророка ﷺ о том, разрешено ли мужчине прикасаться (к жене) во время поста, и Пророк ﷺ разрешил ему. А потом к нему пришёл другой человек и задал такой же вопрос, однако Пророк ﷺ запретил ему. А дело было в том, что тот, кому он разрешил, был пожилым, а тот, кому он запретил, напротив, был молодым
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2387</td></tr><tr><td>Arabic No</td><td>2387</td></tr><tr><td>Reference</td><td>Book 14 Hadith 75</td></tr></tbody></table></div>
 

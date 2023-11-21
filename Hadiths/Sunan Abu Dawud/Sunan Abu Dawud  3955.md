@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. 'Abd Allah said:A man declared that his slave would be free after his d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Husyaim] dari [Abdul Malik bin Abu Sulaiman] dari ['Atha] dan [Isma'il bin Abu Khalid] dari [Salamah bin Kuhail] dari ['Atha] dari [Jabir bin Abdullah], bahwa seorang laki-laki berjanji kepada budaknya, bahwa dirinya akan merdeka setelah ia (tuan) meninggal, padahal ia tidak memiliki seorang pun selain budak tersebut. Lalu Nabi shallallahu 'alaihi wasallam memerintahkan agar menjualnya, lalu budak tersebut dijual dengan harga tujuh ratus atau sembilan ratus." Telah menceritakan kepada kami [Ja'far bin Musafir] telah menceritakan kepada kami [Bisyr bin Bakr] telah mengabarkan kepada kami [Al Auza'i] telah menceritakan kepadaku ['Atha bin Abu Rabah] telah menceritakan kepadaku [Jabir bin Abdullah] dengan hadits ini, ia menambahkan, "Nabi shallallahu 'alaihi wasallam bersabda: "Engkau lebih berhak terhadap harganya dan Allah tidak butuh kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2230) Sahih Muslim (997 After 1668)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 31 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что один человек обещал своему рабу свободу после его смерти, а у него не было иного имущества. А Пророк ﷺ велел продать этого раба, и он был продан за семьсот или девятьсот (дирхемов)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2230) Sahih Muslim (997 After 1668)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 31 Hadith 30</td></tr></tbody></table></div>
 

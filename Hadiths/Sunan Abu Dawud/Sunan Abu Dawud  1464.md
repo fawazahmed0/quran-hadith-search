@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) said: One who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] telah menceritakan kepada Kami [Yahya] dari [Sufyan], telah menceritakan kepadaku ['Ashim bin Bahdalah] dari [Zirr] dari [Abdullah bin 'Amr], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Dikatakan kepada orang yang membaca Al Qur'an: "Bacalah, dan naiklah, serta bacalah dengan tartil (jangan terburu-buru), sebagaimana engkau membaca dengan tartil di dunia, sesungguhnya tempatmu adalah pada akhir ayat yang engkau baca
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1464</td></tr><tr><td>Arabic No</td><td>1464</td></tr><tr><td>Reference</td><td>Book 8 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Знающему Коран будет сказано (в Судный день): “Читай и возвышайся… Читай размеренно и хорошо, как читал ты в земной жизни, и место твоё будет там, где прочтёшь ты последний аят”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1464</td></tr><tr><td>Arabic No</td><td>1464</td></tr><tr><td>Reference</td><td>Book 8 Hadith 49</td></tr></tbody></table></div>
 

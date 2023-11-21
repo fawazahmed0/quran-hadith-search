@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) shrouded every two martyrs 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Laits bin Sa'ad] telah menceritakan kepada saya [Ibnu Syihab] dari ['Abdurrahman bin Ka'ab bin Malik] dari [Jabir bin 'Abdullah radliallahu 'anhu] bahwa Nabi Shallallahu'alaihiwasallam pernah menghimpun dua orang laki-laki yang gugur dalam perang Uhud dalam satu kubur dan dalam satu kain, lalu bersabda: "Siapakah dianrara mereka yang lebih banyak mengambil hafalan Al Qur'an". Bila Beliau telah diberi tahu kepada salah satu diantara keduanya, maka Beliau mendahulukannya didalam lahad lalu bersabda: "Aku akan menjadi saksi atas mereka". Maka kemudian Beliau memerintahkan agar menguburkan mereka dengan darah-darah mereka dan tidak dishalatkan dan juga tidak dimandikan".Dan telah mengabarkan kepada kami [Ibnu AL Mubarak] telah mengabarkan kepada kami [Al Awza'iy] dari [Az Zuhriy] dari [Jabir bin 'Abdullah radliallahu 'anhua] bahwa Nabi Shallallahu'alaihiwasallam berkata tentang mereka yang gugur dalam perang Uhud: "Siapakah dianrara mereka yang lebih banyak mengambil hafalan Al Qur'an". Bila Beliau telah diberi tahu kepada salah satunya, maka Beliau mendahulukannya sebelum temannya yang lain". Berkata, Jabir: "Maka bapakku dan pamanku dikafankan dalam satu kain namirah (selimut bergaris terbuat dari wol). Dan berkata, [Sulaiman bin Katsir] telah menceritakan kepada saya [Az Zuhriy] telah menceritakan kepada saya [orang] yang telah mendengar dari [Jabir radliallahu 'anhu]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1348</td></tr><tr><td>Arabic No</td><td>1348</td></tr><tr><td>Reference</td><td>Book 23 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Джабира бин ‘Абдуллах, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ спрашивал о павших в битве при Ухуде: “Кто из них знал Коран больше?” — когда же ему указывали на одного из них, он (распоряжался) укладывать его в могилу первым». Джабир добавил: «Мой отец с дядей были завернуты в один плащ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1348</td></tr><tr><td>Arabic No</td><td>1348</td></tr><tr><td>Reference</td><td>Book 23 Hadith 102</td></tr></tbody></table></div>
 

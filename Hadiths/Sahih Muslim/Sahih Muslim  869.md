@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn al-Harith reported:He had heard Abu Huraira say: The Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>392.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ всегда произносил слова “Аллаху акбар” когда становился на молитву…» подобно предыдущему хадису, но в этой версии нет слов Абу Хурайры: «Поистине, (моя молитва) подобна молитве Посланника Аллаха ﷺ в большей степени, нежели (молитва любого) из вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>392.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
 

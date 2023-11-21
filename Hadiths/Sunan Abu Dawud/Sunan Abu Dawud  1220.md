@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: The Prophet (ﷺ) was engaged in the Battle of Tabuk.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1220</td></tr><tr><td>Arabic No</td><td>1220</td></tr><tr><td>Reference</td><td>Book 4 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Му‘аза ибн Джабаля, да будет доволен им Аллах, что во время похода на Табук Пророк ﷺ если он отправлялся в путь до того, как солнце отклонялось от точки зенита, откладывал полуденную молитву /зухр/ и соединял её с послеполуденной /‘аср/. Если же он отправлялся в путь после того, как солнце отклонялось от точки зенита, он сразу совершал полуденную и послеполуденную молитвы, после чего пускался в путь. Если он отправлялся в путь перед заходом солнца, он откладывал закатную молитву /магъриб/ и совершал её вместе с вечерней /‘иша/. Если же он отправлялся в путь после захода солнца, то сразу совершал закатную и вечернюю молитвы (и только потом пускался в путь)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1220</td></tr><tr><td>Arabic No</td><td>1220</td></tr><tr><td>Reference</td><td>Book 4 Hadith 23</td></tr></tbody></table></div>
 

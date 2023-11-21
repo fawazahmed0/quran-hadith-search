@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Men from the companions of Allah's Messenger (ﷺ) used to se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabrkan kepadaku ['Ubaidullah bin Sa'id], Telah menceritakan kepada kami ['Affan bin Muslim] telah menceritakan kepada kami [Shakhr bin Juwairiyah] telah menceritakan kepada kami [Nafi'] bahwasanya [Ibnu Umar] mengatakan; dahulu sahabat-sahabat Rasulullah Shallallahu'alaihiwasallam jika bermimpi, mereka suka sekali mengisahkan mimpinya kepada Rasulullah Shallallahu'alaihiwasallam sehingga Rasulullah Shallallahu'alaihiwasallam menakwilkan mimpinya. Ketika itu umurku masih belia, sedang aku sering tinggal dimasjid, karena aku belum menikah. Maka aku berkata kepada diriku sendiri; 'kalaulah dirimu ada kebaikan, niscaya engkau berimimpi sebagaimana orang-orang bermimpi.' Suatu malam ketika aku berbaring, aku memanjatkan doa; 'Ya Allah, jika Engkau mengetahui pada diriku terdapat kebaikan, maka perlihatkanlah kepadaku dalam mimpi.' Ketika aku dalam kondisi (mimpi) seperti itu, tiba-tiba ada dua malaikat mendatangiku yang di tangan masing-masing memegang palu besi, keduanya membawaku ke jahannam sedang aku diantara keduanya tiada henti memanjatkan doa; 'Ya Allah, aku berlindung kepada-Mu dari jahannam, ' Kemudian aku diperlihatkan seorang malaikat menemuiku sedang di tangannya membawa palu besi seraya berujar; 'tidak usah khawatir, sebaik-baik manusia adalah engkau, jika engkau memperbanyak shalat.' Mereka kemudian membawaku hingga menghentikanku di tepi jahannam, ternyata jahannam tergulung seperti gulungan sumur, ia mempunyai emperan sebagaimana emperan sumur, yang diantara kedua emperannya terdapat malaikat yang di tangannya membawa palu besi. Dan kulihat disana ada beberapa orang bergelantungan di rantai-rantai, kepala mereka terjungkir dibawah mereka, aku tahu disana ada beberapa pemuka Quraisy. Kemudian mereka membawaku pergi dari sisi kanan. Maka akub ceritakan mimpiku itu kepada Hafshah, kemudian [Hafshah] menceritakanya kepada Rasulullah Shallallahu'alaihiwasallam, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Abdullah adalah seorang hamba yang shalih, asalkan shalat malam." Kata [Nafi']; 'semenjak itu Abdullah memperbanyak shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7028</td></tr><tr><td>Arabic No</td><td>7028</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн 'Умар, да будет доволен Аллах им и его отцом, сказал: «Поистине, некоторые сподвижники Посланника Аллаха ﷺ видели сны во времена Посланника Аллаха ﷺ и рассказывали о них Посланнику Аллаха ﷺ, а посланник Аллаха ﷺ растолковывал их так, как желает (этого) Аллах. (В то время) я был молодым, неженатым юношей и жил в мечети. Тогда я сказал себе: “Если бы было в тебе благо, то непременно увидел бы подобное тому, что видят эти люди”. И вот однажды ночью, уложившись, я сказал: “О Аллах, если ты знаешь, что во мне есть благо, то покажи мне сон”. И вот (как-то раз во сне) ко мне пришли два ангела, в руке каждого из которых была железная палица. Они повели меня к Аду, а я, находясь между ними, взывал к Аллаху: “О Аллах, я ищу Твоей защиты от Ада”. После этого мне встретился другой ангел, в руке которого также была палица из железа. Он сказал мне: “Не бойся, ты был прекрасным человеком, если бы совершал больше молитв”. Они отправились со мной дальше, пока не встали со мной у самого края Ада и вдруг оказалось, что огонь подобен колодцу с двумя рогами, какие обычно бывают у колодцев. Между каждыми двумя рогами был ангел, в руках которого была железная палица. Я увидел в нём людей, подвешенных за цепи, висящих вниз головой. Я узнал среди них некоторых из курайшитов. После этого ангелы увели меня в правую сторону».\nЯ рассказал об этом сне Хафсе, а Хафса поведала о нём Посланнику Аллаха, ﷺ, который сказал: «Поистине, ‘Абдуллах — праведный человек, если бы молился по ночам».\nНафи‘ сказал: «После этого ‘Абдуллах не переставал молится много»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7028</td></tr><tr><td>Arabic No</td><td>7028</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

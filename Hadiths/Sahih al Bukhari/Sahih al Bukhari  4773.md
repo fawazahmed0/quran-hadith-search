@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Qur'an 28.85'...will bring you home' means to Mecca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] Telah mengabarkan kepada kami [Ya'la] Telah menceritakan kepada kami [Sufyan Al 'Ushfuri] dari ['Ikrimah] dari [Ibnu 'Abbas] mengenai firman Allah: Sesungguhnya yang mewajibkan atasmu (melaksanakan hukum-hukum) Al Quran, benar-benar akan mengembalikan kamu ke tempat kembali (al Qashshas: 85). Ibnu Abbas berkata; Tempat kembali yang dimaksudkan yaitu Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4773</td></tr><tr><td>Arabic No</td><td>4773</td></tr><tr><td>Reference</td><td>Book 65 Hadith 295</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал об аяте «…Он непременно вернёт тебя к месту возвращения»: «То есть в Мекку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4773</td></tr><tr><td>Arabic No</td><td>4773</td></tr><tr><td>Reference</td><td>Book 65 Hadith 295</td></tr></tbody></table></div>
 

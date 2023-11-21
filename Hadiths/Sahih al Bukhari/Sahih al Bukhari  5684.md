@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:A man came to the Prophet (ﷺ) and said, "My broth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ayyas bin Al Walid] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Abu Al Mutawakkil] dari [Abu Sa'id] bahwa seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam sambil berkata; "Saudaraku sedang menderita sakit perut." Beliau bersabda: "Minumilah madu." Kemudian laki-laki itu datang kedua kalinya, lalu beliau tetap bersabda: "Minumilah madu." Kemudian laki-laki itu datang yang ketiga kalinya, beliau bersabda: "Minumilah madu." Kemudian dia datang lagi sambil berkata; "Aku telah melakukannya." Maka beliau bersabda: "Maha benar Allah, dan perut saudaramulah yang berdusta, berilah minum madu." Lalu ia pun meminuminya madu dan akhirnya sembuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5684</td></tr><tr><td>Arabic No</td><td>5684</td></tr><tr><td>Reference</td><td>Book 76 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида, да будет доволен им Аллах, что (как-то раз) к Пророку ﷺ пришёл один человек, который сказал ему: «У моего брата болит живот». (Пророк ﷺ) сказал (ему): «Давай ему мёд». Потом (этот человек) снова пришёл к нему, и (Пророк ﷺ снова) сказал: «Давай ему мёд». Потом (этот человек) пришёл к нему в третий раз, и (Пророк ﷺ снова) сказал: «Давай ему мёд». Потом он (опять) пришёл и сказал: «Я сделал это». (Тогда Пророк ﷺ) сказал: «Правду сказал Аллах, а живот твоего брата солгал! Давай ему мёд!» — после чего (этот человек) стал давать (своему брату мёд), и тот выздоровел
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5684</td></tr><tr><td>Arabic No</td><td>5684</td></tr><tr><td>Reference</td><td>Book 76 Hadith 7</td></tr></tbody></table></div>
 

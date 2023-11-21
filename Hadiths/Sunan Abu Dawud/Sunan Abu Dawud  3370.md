@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir bin ‘Abdullah :The Messenger of Allah (ﷺ) forbade the sale of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Khallad Al Bahili] telah menceritakan kepada kami [Yahya bin Sa'id], dari [Salim bin Hayyan] telah mengabarkan kepada kami [Sa'id bin Mina'], ia berkata; aku mendengar [Jabir bin Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam melarang menjual buah hingga hingga tusyqif. Ia ditanya apa makna tusyqif? Ia berkata; memerah dan menguning dan dapat dimakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2196) Sahih Muslim (1536 After 1543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3370</td></tr><tr><td>Arabic No</td><td>3370</td></tr><tr><td>Reference</td><td>Book 23 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ запретил продавать финики, пока они не изменят цвет. Кто-то спросил: «Что значит изменят цвет?» Он ответил: «Покраснеют, пожелтеют и их можно будет есть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2196) Sahih Muslim (1536 After 1543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3370</td></tr><tr><td>Arabic No</td><td>3370</td></tr><tr><td>Reference</td><td>Book 23 Hadith 45</td></tr></tbody></table></div>
 

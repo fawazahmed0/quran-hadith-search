@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ It was reported from Abu An-Nadr, from Abu Salama bin 'Abdur Rahman, from 'Aisha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ashim bin An Nadlr] telah menceritakan kepada kami [Al Mu'tamir] telah menceritakan kepada kami ['Ubaidullah] dari [Abu An Nadlr] dari [Abu Salamah bin Abdurrahman] dari [Aisyah] bahwa dia berkata; "Aku pernah tidur dan kedua kakiku berada di hadapan Rasulullah shallallahu 'alaihi wasallam padahal beliau sedang mengerjakan shalat malam, apabila beliau hendak sujud, beliau menepuk kakiku, sebab itu aku menarik kedua kakiku, kemudian beliau sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (382) Sahih Muslim (512)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>713</td></tr><tr><td>Arabic No</td><td>713</td></tr><tr><td>Reference</td><td>Book 2 Hadith 323</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Обычно) я спала перед посланником Аллаха ﷺ в то время, когда он совершал ночную молитву, а мои ноги находились перед ним. И когда он хотел совершить земной поклон, он (слегка) ударял о мои ноги, и я прибирала их, после чего он совершал земной поклон»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (382) Sahih Muslim (512)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>713</td></tr><tr><td>Arabic No</td><td>713</td></tr><tr><td>Reference</td><td>Book 2 Hadith 323</td></tr></tbody></table></div>
 

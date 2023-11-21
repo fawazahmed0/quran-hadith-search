@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) came to the drinking place and asked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Khalid] dari [Khalid Al Hadzdza'] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Rasulullah Shallallahu'alaihiwasallam datang menemui orang-orang yang menyediakan minuman dalam pelayanan hajji, lalu Beliau meminta minum. Maka Al 'Abbas berkata: "Wahai Fadhal, pergilah kepada ibumu dan berikan Rasulullah Shallallahu'alaihiwasallam minuman darinya. Maka Beliau berkata: "Berilah aku air minum". Maka dia (Al 'Abbas) berkata: "Wahai Rasulullah, mereka membuat dengan tangan mereka sendiri. Beliau berkata: "Berilah aku air minum". Maka Beliau meminumnya lalu menghampiri air zamzam yang ketika itu orang-orang sedang meminum dan bekerja disana. Maka Beliau berkata: "Bekerjalah, karena kalian sedang beramal shalih". Kemudian Beliau berkata: "Seandainya bukan karena kalian akan tersingkirkan tentu aku akan turun ikut bekerja hingga aku ikatkan tali disini", yaitu bahu. Beliau menunjuk kepada bahu Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1635</td></tr><tr><td>Arabic No</td><td>1635</td></tr><tr><td>Reference</td><td>Book 25 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что, когда Посланник Аллаха ﷺ подошёл к тому месту, где паломников поили, и попросил воды, аль-‘Аббас сказал: «О Фадль, сходи к своей матери и принеси Посланнику Аллаха ﷺ воды от неё». (Пророк ﷺ) сказал: «Напои меня». (Аль-‘Аббас) воскликнул: «О Посланник Аллаха, они же опускают туда руки!» (Пророк ﷺ снова) сказал: «Напои меня», (после чего) напился из (общей бадьи). А потом он подошёл к Замзаму, где (находились люди,) поившие (других) водой и работавшие (там), и сказал (им): «Трудитесь, ибо, поистине, вы заняты праведным делом». А потом он сказал: «Если бы (потом) вас не одолели (другие), я бы и сам спустился вниз, чтобы (обмотать) верёвку вокруг этого», имея в виду своё плечо и указав на него
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1635</td></tr><tr><td>Arabic No</td><td>1635</td></tr><tr><td>Reference</td><td>Book 25 Hadith 118</td></tr></tbody></table></div>
 

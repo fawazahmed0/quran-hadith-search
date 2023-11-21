@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:That his father said, "The Prophet (ﷺ) sent Mu'adh and Abu 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya] telah bercerita kepada kami [Waki'] dari [Syu'bah] dari [Sa'id bin Abi Burdah] dari [bapaknya] dari [kakeknya] bahwa Nabi Shallallahu'alaihiwasallam mengutus Mu'adz dan Abu Musa ke negeri Yaman dan Beliau berpesan: "Mudahkanlah (urusan) dan jangan dipersulit. Berilah kabar gembira dan jangan membuat orang lari (tidak tertarik) dan bekerja samalah kalian berdua dan jangan berselisih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3038</td></tr><tr><td>Arabic No</td><td>3038</td></tr><tr><td>Reference</td><td>Book 56 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Аби Бурда, передал от своего отца, а тот от своего, что, отправляя в Йемен Му‘аза и Абу Мусу, Пророк ﷺ сказал: «Облегчайте, а не затрудняйте, приносите радость, а не внушайте отвращение (к исламу) и подчиняйтесь друг другу и не разногласьте!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3038</td></tr><tr><td>Arabic No</td><td>3038</td></tr><tr><td>Reference</td><td>Book 56 Hadith 244</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) led us in Zuhr prayer and prayer five rak'a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafs bin Umar] telah menceritakan kepada kami [Syu'bah] [Al Hakam] dari [Ibrahim] dari ['Alqamah] dari [Abdullah] berkata, "Nabi shallallahu 'alaihi wasallam mengimami kami shalat zhuhur sebanyak lima rakaat, maka beliau ditegur 'Apakah shalat sekarang ditambah? ' Nabi bertanya: 'Memang berapa shalatku? ' para sahabat menjawab, "Lima rakaat, " maka beliau sujud dua kali setelah mengucapkan salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7249</td></tr><tr><td>Arabic No</td><td>7249</td></tr><tr><td>Reference</td><td>Book 95 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах [ибн Мас‘уд], да будет доволен им Аллах, передаёт, что однажды Посланник Аллаха ﷺ совершил в полуденной молитве пять рак‘атов. Его спросили: «Молитва стала длиннее?» Он сказал: «А в чём дело?» Ему сказали: «Ты совершил пять рак‘атов». Тогда он совершил два земных поклона после таслима
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7249</td></tr><tr><td>Arabic No</td><td>7249</td></tr><tr><td>Reference</td><td>Book 95 Hadith 4</td></tr></tbody></table></div>
 

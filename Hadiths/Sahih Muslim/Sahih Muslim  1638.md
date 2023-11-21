@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported:None of you should give a share to Satan out of your self. He 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bukair bin Abu Syaibah] telah menceritakan kepada kami [Abu Muawiyah] dan [Waki'] dari [Al A'masy] dari ['Umarah] dari [Al Aswad] dari [Abdullah] katanya; "Janganlah salah seorang dari kalian memberi peluang sedikitpun kepada setan untuk menggangu shalatnya, bahwa tidak boleh seseorang beranjak pergi kecuali dari sebelah kanannya, dan tidaklah aku melihat Nabi shallallahu 'alaihi wasallam beranjak pergi dari sebelah kirinya." Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dan [Isa bin Yunus] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Isa], semuanya dari [Al A'masy] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1638</td></tr><tr><td>Arabic No</td><td>707.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд сказал: «Пусть никто из вас ни в коем случае ничего не оставляет шайтану, считая, что он должен покидать (место молитвы, уходя только) направо, (ибо) я много раз видел, как Посланник Аллаха ﷺ уходил (с места молитвы, повернув) налево»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1638</td></tr><tr><td>Arabic No</td><td>707.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 69</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas:The Prophet (ﷺ) used to make supplication for rain in this manne
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Muhammad Az Za'farani] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Tsabit] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam meminta hujan dengan begini maksudnya beliau memanjangkan kedua tangannya dengan menjadikan punggung telapak tangannya menghadap ke arah bumi, sehingga aku melihat putih ketiaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (896)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1171</td></tr><tr><td>Arabic No</td><td>1171</td></tr><tr><td>Reference</td><td>Book 3 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах: «Пророк ﷺ обращаясь к Аллаху с мольбой о ниспослании дождя, вытягивал руки, повернув их внутренней частью к земле, так что я видел белизну его подмышек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (896)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1171</td></tr><tr><td>Arabic No</td><td>1171</td></tr><tr><td>Reference</td><td>Book 3 Hadith 11</td></tr></tbody></table></div>
 

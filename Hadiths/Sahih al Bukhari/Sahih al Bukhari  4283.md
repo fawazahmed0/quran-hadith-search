@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin 'Uthman:Usama bin Zaid said during the Conquest (of Mecca), "O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Abdurrahman] Telah menceritakan kepada kami [Sa'dan bin Yahya] Telah menceritakan kepada kami [Muhammad bin Abu Hafsah] dari [Azzuhri] dari [Ali bin Husain] dari [Amru bin Utsman] dari [Usamah bin Zaid], katanya; "Sekarang telah tiba penaklukan ya Rasulullah, dimana engkau singgah esok?" Nabi shallallahu 'alaihi wasallam bersabda: Apakah Aqil meninggalkan persinggahan untuk kita? Lantas beliau sabdakan "Seorang mukmin tidak mewarisi orang kafir, dan orang kafir tidak mewarisi orang mukmin." Ditanyakan kepada Az Zuhri; Lantas siapa yang mewarisi Abu Thalib? Nabi menjawab: "Yang mewarisinya 'Aqil dan Thalib." Kata [Ma'mar] dari [Az Zuhri] dengan redaksi; 'Dimana engkau singgah esok -maksudnya ketika hajinya-? sedang [Yunus] tidak mengatakan lafadz "Dalam hajinya" tidak pula ada redaksi "Jaman penaklukan Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4283</td></tr><tr><td>Arabic No</td><td>4283</td></tr><tr><td>Reference</td><td>Book 64 Hadith 316</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Потом он сказал: «Верующий не наследует от неверного, как и неверный не наследует от верующего!»\nСпросили у (Мухаммад Ибн Шихаб) аз-Зухри: «А кто стал наследником Абу Талиба?» Он ответил: «Его наследниками стали ‘Акыль и Талиб».\nМа‘мар передаёт от аз-Зухри: «Где ты остановишься завтра во время хаджа?» А Юнус (ибн Язид) не сказал как «во время хаджа», а также не сказал «во время покорения Мекки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4283</td></tr><tr><td>Arabic No</td><td>4283</td></tr><tr><td>Reference</td><td>Book 64 Hadith 316</td></tr></tbody></table></div>
 

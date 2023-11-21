@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir reported:My father donated to me some of his property. My mothe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Ubbad bin 'Awwam] dari [Hushain] dari [Asy Sya'bi] dia berkata; saya mendengar [An Nu'man bin Basyir]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Yahya bin Yahya] dan ini adalah lafadznya, telah mengabarkan kepada kami [Abu Al Ahwash] dari [Hushain] dari [As Sya'bi] dari [An Nu'man bin Basyir] dia berkata, "Ayahku pernah memberikan sebagian hartanya kepadaku, lantas Ummu 'Amrah binti Rawahah berkata, "Saya tidak akan rela akan hal ini sampai kamu meminta Rasulullah shallallahu 'alaihi wasallam sebagai saksinya." Setelah itu saya bersama ayahku pergi menemui Nabi shallallahu 'alaihi wasallam untuk memberitahukan pemberian ayahku kepadaku, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Apakah kamu berbuat demikian kepada anak-anakmu?" dia menjawab, "Tidak." Beliau bersabda: "Bertakwalah kepada Allah dan berbuat adillah terhadap anak-anakmu." Kemudian ayahku pulang dan meminta kembali pemberiannya itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4181</td></tr><tr><td>Arabic No</td><td>1623.05</td></tr><tr><td>Reference</td><td>Book 24 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4181</td></tr><tr><td>Arabic No</td><td>1623.05</td></tr><tr><td>Reference</td><td>Book 24 Hadith 19</td></tr></tbody></table></div>
 

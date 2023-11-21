@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:Someone said to Usama, "Will you not talk to this (Uthman)?" U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Bisyr bin Khalid] Telah menceritakan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Sulaiman], aku mendengar [Abu Wa'il] berkata, pernah ditanyakan kepada [Usamah]; 'kenapa engkau tidak mengajak bicara orang ini? ' Usamah menjawab; 'Aku telah mengajak biacara orang itu, dan sekarang aku tidak mau membuka pembicaraan yang aku menjadi orang pertama-tama yang membukanya, dan aku tidak akan mengatakan kepada seseorang yang telah menjadi pemimpin terhadap dua orang; 'Engkau lebih baik', setelah aku mendengar dari Rasulullah Shallallahu'alaihiwasallam bersabda; "akan didatangkan seseorang, kemudian dia dilempar ke dalam neraka, lantas disana ia berputar-putar sebagaimana keledai menarik alat penggilingan, maka penghuni neraka mengelilingi orang tersebut dan bertanya; 'Hai fulan, bukankah kamu dahulu pernah memerintahkan kebaikan dan melarang kemungkaran? ' Ia menjawab; 'ya, saya dahulu memerintah kebaikan, namun aku tidak mengerjakannya, dan aku melarang kemungkaran, namun justru aku melakkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7098</td></tr><tr><td>Arabic No</td><td>7098</td></tr><tr><td>Reference</td><td>Book 92 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Ваиль (Шакик ибн Саляма) сказал:\n— Однажды Усаму (ибн Зейда) спросили: «Почему бы тебе не поговорить с этим (то есть ‘Усманом ибн ‘Аффаном)?» (В ответ им Усама) сказал: «Я уже говорил с ним (наедине), но я не хочу быть первым, кто раскроет дверь (ко злу и смуте). И если человек становится правителем над двумя людьми, то я не тот, кто говорит ему: “Ты лучший (из людей)”, после того, как я услышал слова Посланника Аллаха ﷺ который сказал: “(В День воскресения) приведут человека и ввергнут его в Огонь, где станет он крутиться, подобно ослу, вращающему жернова мельницы. И соберутся около него обитатели Огня, и станут говорить: “О такой-то! Разве ты не велел совершать одобряемое и не удерживал от порицаемого?” (На это) он скажет: “Поистине, я побуждал к одобряемому, но сам не совершал его, и я удерживал от порицаемого, а сам делал это!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7098</td></tr><tr><td>Arabic No</td><td>7098</td></tr><tr><td>Reference</td><td>Book 92 Hadith 49</td></tr></tbody></table></div>
 

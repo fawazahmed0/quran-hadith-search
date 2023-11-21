@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:'Umar bin Al-Khattab gave a horse to be ridden in A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa 'Umar bin Al Khaththab menshadaqahkan kuda di jalan Allah namun kemudian dia mendapatkan kuda itu dijual lalu dia berkehendak untuk membelinya. Akhirnya dia bertanya kepada Rasulullah shallallahu 'alaihi wasallam, maka Beliau bersabda: "Janganlah kamu beli dan jangan kamu ambil lagi shadaqah kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3002</td></tr><tr><td>Arabic No</td><td>3002</td></tr><tr><td>Reference</td><td>Book 56 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды ‘Умар ибн аль-Хаттаб отдал (одному человеку, намеревавшемуся принять участие в войне) на пути Аллаха, коня. Затем увидев, что этот конь продаётся, он захотел купить его и спросил совета у Посланника Аллаха ﷺ, который сказал: “Не покупай его и не бери назад свою милостыню (садака)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3002</td></tr><tr><td>Arabic No</td><td>3002</td></tr><tr><td>Reference</td><td>Book 56 Hadith 211</td></tr></tbody></table></div>
 

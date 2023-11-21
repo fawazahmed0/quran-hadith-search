@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Thabit:Abu Bakr sent for me, so I collected the Qur'an till I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] dari [Ibrahim] telah menceritakan kepada kami [Ibn Syihab] dari ['Ubaid bin Sibaq] bahwa [Zaid bin Tsabit], sedang [Al Laits] berkata, telah menceritakan kepadaku [Abdurrahman bin Khalid] dari [Ibn Syihab] dari [Ibn Sibaq Zaid bin Tsabit] menceritakannya dengan berkata, "Abu Bakar mengutus seseorang kepadaku dan Abu Khuzaimah Al Anshari, sehingga aku telusuri alquran dan hingga aku temukan akhir surat At Taubah, yang aku tidak menemukannya dengan seorang pun selain bersamanya, yaitu ayat: '(Telah datang kepada kalian seorang rasul dari kalian sendiri) ' (QS. Attaubah 128), hingga penghabisan surat al Bara'ah (surat At Taubah)." Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Yunus] dengan hadis ini, dan beliau berkata; telah menceritakan kepada kami Yahya bin Bukair telah menceritakan kepada kami Al Laits dari Yunus dengan hadis ini, dan ia menyebutkan, 'Bersama Abu Khuzaimah Al anshari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7425</td></tr><tr><td>Arabic No</td><td>7425</td></tr><tr><td>Reference</td><td>Book 97 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейд ибн Сабит, да будет доволен им Аллах, сказал: «Абу Бакар послал за мной (посланца, приказав мне собирать Коран), и я начал собирать Коран. Последние же части суры “ат-Тауба” я обнаружил только у Абу Хузеймы аль-Ансари. Кроме него я не обнаружил их ни у кого. (Это были слова:) “К вам явился Посланник из вашей среды. Тяжко для него то, что вы страдаете. Он старается для вас. Он сострадателен и милосерден к верующим. А если они отвернутся, то скажи: ‹Мне достаточно Аллаха! Нет божества достойного поклонения, кроме Него. Я уповаю только на Него, ибо Он - Господь великого Трона›“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7425</td></tr><tr><td>Arabic No</td><td>7425</td></tr><tr><td>Reference</td><td>Book 97 Hadith 53</td></tr></tbody></table></div>
 

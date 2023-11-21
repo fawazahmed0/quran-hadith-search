@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zainab, daughter of Umm Salama, reported:My name first was Barra. Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami ['Isa bin Yunus]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Usamah] ia berkata; Telah menceritakan kepada kami [Al Walid bin Katsir]; Telah menceritakan kepadaku [Muhammad bin 'Amru bin 'Atha]; Telah menceritakan kepadaku [Zainab binti Ummu Salamah] dia berkata; "Dahulu namaku adalah 'Barrah', lalu Rasulullah shallallahu 'alaihi wasallam menggantiku dengan nama 'Zainab'. Dia juga berkata; 'Suatu hari Zainab binti Jahsy -yang waktu itu namanya adalah 'Barrah'-, menemui Rasulullah shallallahu 'alaihi wasallam, lalu beliau menggantinya dengan nama Zainab pula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5608</td></tr><tr><td>Arabic No</td><td>2142.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5608</td></tr><tr><td>Arabic No</td><td>2142.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 23</td></tr></tbody></table></div>
 

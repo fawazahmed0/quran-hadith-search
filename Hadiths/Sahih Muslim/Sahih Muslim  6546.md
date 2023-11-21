@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported it as a marfu' hadith (and the words are):The deeds are pre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] dari [Muslim bin Abu Maryam] dari [Abu Shalih]; Aku mendengar [Abu Hurairah] berkata tentang sebuah Hadits yang telah ia marfu'kan; "Pintu surga dibuka setiap hari senin dan kamis. Maka Allah mengampuni dosa setiap hamba-Nya yang tidak musyrik, kecuali orang yang bermusuhan dengan saudaranya (sesama muslim). Maka dikatakan kepada mereka; Tunggulah dahulu kedua orang ini hingga berdamai! Tunggulah dahulu kedua orang ini hingga berdamai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6546</td></tr><tr><td>Arabic No</td><td>2565.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6546</td></tr><tr><td>Arabic No</td><td>2565.03</td></tr><tr><td>Reference</td><td>Book 45 Hadith 44</td></tr></tbody></table></div>
 

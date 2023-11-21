@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ka'b:I heard Ka'b bin Malik narrating (when he did not jo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Abdurrahman bin Abdullah bin Ka'b] bahwa [Abdullah bin Ka'b] berkata; saya medengar [Ka'b bin Malik] bercerita ketika dia tidak mengikuti perang tabuk (tanpa udzur), Rasulullah shallallahu 'alaihi wasallam melarang berbicara kepada kami, kemudian aku medatangi Rasulullah shallallahu 'alaihi wasallam, aku memberi salam kepadanya, dalam hatiku berkata; "Apakah beliau menggerak-gerakkan bibirnya untuk menjawab salam ataukah tidak, hingga hal itu berlangsung genap lima puluh malam, setelah itu barulah Nabi shallallahu 'alaihi wasallam mengumumkan penerimaan Allah atas taubat kami setelah shalat shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6255</td></tr><tr><td>Arabic No</td><td>6255</td></tr><tr><td>Reference</td><td>Book 79 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Ка‘ба, что, рассказывая историю своего уклонения от участия в походе на Табук, Ка‘б ибн Малик сказал: «И Посланник Аллаха ﷺ запретил (людям) разговаривать с нами. Я подходил к Посланнику Аллаха ﷺ, приветствовал его и спрашивал себя: “Пошевелил он губами в ответ на мое приветствие или нет?” — и в подобном положении мы провели пятьдесят ночей. А затем Пророк ﷺ объявил (людям о том, что) Аллах принял наше покаяние после того, как совершил утреннюю молитву /фаджр/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6255</td></tr><tr><td>Arabic No</td><td>6255</td></tr><tr><td>Reference</td><td>Book 79 Hadith 29</td></tr></tbody></table></div>
 

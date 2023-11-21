@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Qais:Allah's Messenger (ﷺ) said, "In Paradise there is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepadaku [Abdul Aziz bin Abdush Shamad] Telah menceritakan kepada kami [Abu Imran Al Jauni] dari [Abu Bakr bin Abdullah bin Qais] dari [bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dalam surga terdapat kemah yang terbuat dari permata yang berongga dengan luas enam puluh mil. Pada setiap sudutnya terdapat penghuni, namun mereka tidak dapat melihat yang lain, orang-orang mukmin mengelilingi mereka. Dan (di dalam surga juga terdapat) dua kebun yang gelas-gelas, serta segala sesuatu yang berada di dalamnya terbuat dari perak. Tidak ada lagi yang menghalangi antara suatu kaum untuk melihat Rabb mereka kecuali pakaian kesombongan yang melekat di wajah-Nya di dalam Jannah Aden
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4880</td></tr><tr><td>Arabic No</td><td>4880</td></tr><tr><td>Reference</td><td>Book 65 Hadith 400</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин Кайса, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, есть в раю шатёр(, сделанный) из полой жемчужины, ширина которого равна шестидесяти милям. В каждом из его углов находятся (женщины), которые не видят тех, что находятся в других углах, и которых будут посещать верующие. И есть два сада, сосуды и всё прочее в которых (сделано) из серебра, и два (других) сада, сосуды и всё прочее в которых (сделано) из того-то, и ничто, кроме накидки величия, что будет покрывать собой лик Господа, не помешает людям, которые окажутся в райском саду, взирать на Него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4880</td></tr><tr><td>Arabic No</td><td>4880</td></tr><tr><td>Reference</td><td>Book 65 Hadith 400</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Ash’ath b. Qais said:A men from Kindah and a men from Hadramawt came to the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] telah menceritakan kepada kami [Al Faryabi] telah menceritakan kepada kami [Al Harits bin Sulaiman] telah menceritakan kepadaku [Kurdus] dari [Al Asy'ats bin Qais] bahwa seorang laki-laki dari Kindah dan seorang laki-laki dari Hadlramaut mengadukan perselisihan mereka tentang lahan yang ada di Yaman kepada Nabi shallallahu 'alaihi wasallam. Orang Hadlrami berkata, "Wahai Rasulullah, sesungguhnya tanahku telah dirampas bapak orang ini. Dan tanah tersebut ada di tangannya." Beliau bersabda: "Apakah engkau memiliki bukti?" Aku katakan, "Tidak, akan tetapi aku memintanya agar ia bersumpah. Demi Allah ia tidak mengetahui bahwa tanah tersebut adalah tanahku yang dirampas oleh bapaknya." Maka orang Kindah tersebut bersiap-siap untuk bersumpah…. Al Asy'ats lalu menyebutkan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3622</td></tr><tr><td>Arabic No</td><td>3622</td></tr><tr><td>Reference</td><td>Book 25 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Аш‘аса ибн Кайса, что один человек из племени Кинда вёл тяжбу с человеком из Хадрамаута из-за участка земли в Йемене и они обратились к Пророку ﷺ. Житель Хадрамаута сказал: «О Посланник Аллаха, отец этого человека отобрал у меня мою землю, и теперь она в его руках!» (Посланник Аллаха ﷺ) спросил: «Есть ли у тебя доказательство?» Тот ответил: «Нет, однако я хочу, чтобы он поклялся Аллахом, что ему не известно о том, что его отец отобрал у меня эту землю». И человек из племени Кинда приготовился поклясться. И он привёл историю полностью
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3622</td></tr><tr><td>Arabic No</td><td>3622</td></tr><tr><td>Reference</td><td>Book 25 Hadith 52</td></tr></tbody></table></div>
 

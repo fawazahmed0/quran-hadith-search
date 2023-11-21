@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad al-Firyabl said:I heard Sufyan say: If anyone thinks that ‘All (Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Miskin] berkata, telah menceritakan kepada kami [Muhammad] -maksudnya Muhammad Al Firyabi- ia berkata; Aku mendengar [Sufyan] berkata, "Siapa yang menyakini bahwa Ali Alaihis Salam lebih berhak untuk menjadi penguasa dari keduanya (Abu Bakar dan Umar), maka ia telah menyalahi Abu Bakar, Umar dan kaum Muhajirin dan Anshar. Dengan keyakinan dia seperti itu, maka aku melihat bahwa amalan baiknya tidak akan naik ke langit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4630</td></tr><tr><td>Arabic No</td><td>4630</td></tr><tr><td>Reference</td><td>Book 42 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Суфьян сказал: «Кто считает, что ‘Али был более достоин править (после кончины Посланника Аллаха ﷺ), тот обвиняет в грехе Абу Бакра, ‘Умара, мухаджиров и ансаров, и я не думаю, что при этом дела его будут подниматься на небеса!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4630</td></tr><tr><td>Arabic No</td><td>4630</td></tr><tr><td>Reference</td><td>Book 42 Hadith 35</td></tr></tbody></table></div>
 

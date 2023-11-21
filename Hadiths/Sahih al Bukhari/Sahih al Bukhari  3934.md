@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The Prophet's companions did not take as a starting date 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Abdul 'Aziz] dari [Bapaknya] dari [Sahal bin Sa'ad] ia berkata; "Tidaklah para shahabat menghitung penanggalan bulan mulai dari diutusnya Nabi shallallahu 'alaihi wasallam atau wafat beliau. Tidaklah mereka menghitung penanggalan melainkan dari waktu kedatangan beliau di Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3934</td></tr><tr><td>Arabic No</td><td>3934</td></tr><tr><td>Reference</td><td>Book 63 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д сказал: «(Сподвижники Пророка ﷺ взяли в качестве начальной даты летоисчисления) ни день, когда Пророк ﷺ был послан, и ни день его смерти, а день его прибытия в Медину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3934</td></tr><tr><td>Arabic No</td><td>3934</td></tr><tr><td>Reference</td><td>Book 63 Hadith 159</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd As-Sa'di:Allah's Messenger (ﷺ) said, "To guard Muslims 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Munir] dia mendengar [Abu An-Nadhar] telah bercerita kepada kami ['Abdur Rahman bin 'Abdullah bin Dinar] dari [Abu Hazim] dari [Sahal bin Sa'ad As-Sa'idiy radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ribath (bersiap siaga) satu hari di jalan Allah lebih baik dari dunia dan apa saja yang ada diatasnya dan tempat cambuk seorang dari kalian di surga lebih baik dari pada dunia dan apa saja yang ada diatasnya dan berangkat pada awal hari (pagi) atau berangkat pada akhir hari (siang) untuk berperang di jalan Allah lebih baik dari pada dunia dan apa saja yang ada diatasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2892</td></tr><tr><td>Arabic No</td><td>2892</td></tr><tr><td>Reference</td><td>Book 56 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля бин Са‘да ас-Са‘иди, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Один день пребывания на страже на пути Аллаха лучше мира этого со всем тем, что в нём есть; место в раю, которое заняла бы плеть любого из вас, лучше мира этого со всем тем, что в нём есть, и (дела, совершаемые) рабом на пути Аллаха, утром или вечером, лучше мира этого со всем тем, что в нём есть!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2892</td></tr><tr><td>Arabic No</td><td>2892</td></tr><tr><td>Reference</td><td>Book 56 Hadith 107</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:Usama bin Zaid was asked at what pace the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada kami [Yahya] dari [Hisyam] berkata telah mengabarkan kepadaku [bapakku] berkata; [Usamah bin Zaid radliallahu 'anhuma] pernah ditanya -Yahya berkata; aku mendengarnya lalu hilang dariku (lupa) - tentang cara berjalan Nabi shallallahu 'alaihi wasallam saat haji wada'. Dia menjawab: "Beliau berjalan dengan 'anaq (sedang, tidak lambat tidak cepat) dan apabila sampai di daerah dataran yang luas Beliau berjalan dengan nashshu. Dan nashsh maksudnya adalah berjalan sedikit lebih cepat dari 'anaq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2999</td></tr><tr><td>Arabic No</td><td>2999</td></tr><tr><td>Reference</td><td>Book 56 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Усаму ибн Зейда, да будет доволен им Аллах, спросили о том, как двигался Пророк ﷺ в прощальном хадже? И он сказал: «Он двигался размеренным ходом, а если видел свободное место, то начинал погонять верблюда сильнее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2999</td></tr><tr><td>Arabic No</td><td>2999</td></tr><tr><td>Reference</td><td>Book 56 Hadith 208</td></tr></tbody></table></div>
 

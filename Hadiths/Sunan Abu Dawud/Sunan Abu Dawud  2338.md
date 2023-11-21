@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Husayn ibn al-Harith al-Jadli from the tribe of Jadi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim Abu Yahya Al Bazzaz], telah menceritakan kepada kami [Sa'id bin Sulaiman], telah menceritakan kepada kami ['Abbad], dari [Abu Malik Al Asyja'i], telah menceritakan kepada kami [Husain bin Al Harits Al Jadali] yang berasal dari Jadilah Qais, bahwa Amir Mekkah telah berkhutbah, ia berkata; Rasulullah shallallahu 'alaihi wasallam berwasiat kepada kami agar berkurban ketika melihat hilal, dan apabila kami tidak melihatnya dan terdapat dua orang adil yang bersaksi maka kami berkurban dengan persaksian mereka berdua. Kemudian aku bertanya kepada Al Husain bin Al Harits, siapakah Amir Mekkah tersebut? Ia berkata; saya tidak tahu. Kemudian ia bertemu denganku setelah itu dan berkata; ia adalah [Al Harits bin Hathib] saudara Muhammad bin Hathib. Kemudian Amir tersebut berkata; sesungguhnya diantara kalian terdapat orang yang lebih mengetahui mengenai Allah dan rasulNya daripada diriku. Dan orang ini telah menyaksikan hal ini dari Rasulullah shallallahu wa'alaihi wa sallam. Amir tersebut menunjuk dengan tangannya kepada seorang laki-laki. Al Husain berkata; aku bertanya kepada orang tua yang ada di sampingku; siapakah orang yang ditunjuk oleh Amir tersebut? Ia berkata; orang ini adalah Abdullah bin Umar, dan Amir tersebut benar. Ia adalah orang yang lebih tahu mengenai Allah daripada dirinya. Ibnu Umar berkata; demikianlah Rasulullah shallallahu 'alaihi wasallam memerintahkan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2338</td></tr><tr><td>Arabic No</td><td>2338</td></tr><tr><td>Reference</td><td>Book 14 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Малик аль-Ашджа‘и сказал: «Аль-Хусейн ибн аль-Харис аль-Джадали из Джадилят аль-Кайс передаёт, что правитель Мекки, обращаясь к людям, сказал: “Посланник Аллаха ﷺ взял с нас обещание, что мы будем приступать к обрядам с появлением народившегося месяца, и, если мы не видели его, но два надёжных человека засвидетельствовали, что видели его, мы должны приступать к обрядам”. Я спросил аль-Хусейна ибн аль-Хариса: “А кто правитель Мекки?” Он ответил: “Я не знаю”. А спустя некоторое время он встретил меня и сказал: “Аль-Харис ибн Хатыб, брат Мухаммада ибн Хатыба. Затем правитель сказал: “Поистине, среди вас есть люди, знающие об Аллахе и Его Посланнике больше меня и присутствовавшие при произнесении посланником Аллаха ﷺ этих слов”. И он указал в сторону одного человека”. Аль-Хусейн сказал: “И я спросил находившегося возле меня пожилого человека, кто этот человек, на которого указал правитель, и он сказал мне: “Это ‘Абдуллах ибн ‘Умар”. И он был прав Ибн ‘Умар действительно знал об Аллахе больше него. И он сказал: “Посланник Аллаха ﷺ действительно велел нам поступать так””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2338</td></tr><tr><td>Arabic No</td><td>2338</td></tr><tr><td>Reference</td><td>Book 14 Hadith 26</td></tr></tbody></table></div>
 

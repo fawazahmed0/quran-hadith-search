@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is narrated by Ishaq with the same chain uf transmitters except this
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman] dan [Abu Bakr] keduanya adalah anak dari Abu Syaibah dan [Ishaq bin Ibrahim Al Hanzhali] sedangkan lafazhnya dari Ibnu Abu Syaibah, [Ishaq] berkata, telah mengabarkan kepada kami -sementara dua orang yang lain- berkata, Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Ishaq] dari [Al Agharr Abu Muslim] ia meriwayatkannya dari [Abu Sa'id] dan [Abu Hurairah] keduanya berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah menunda hingga sepertiga malam pertama berlalu, Dia pun turun ke langit dunia dan berfirman, 'Adalah orang yang meminta ampun? Adakah orang yang bertaubat? Adakah orang yang meminta? Adakah orang yang memohon? ' hingga fajar terbit." Dan Telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata, Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dengan sanad-sanad ini, hanya saja hadits Manshur lebih lengkap dan banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1777</td></tr><tr><td>Arabic No</td><td>758.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Поистине, Аллах ждёт, пока не проходит треть ночи; тогда Он нисходит на нижнее небо и говорит: “Есть ли просящие прощения? Есть ли кающиеся? Есть ли просящие? Есть ли взывающие?” и это продолжается до тех пор, пока не займётся заря»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1777</td></tr><tr><td>Arabic No</td><td>758.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 206</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima from Ibn 'Abbas: Allah's Messenger (ﷺ)s said, "When a slave (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah mengabarkan kepada kami [Ishaq bin Yusuf] Telah mengabarkan kepada kami [Al Fudhail bin Ghazwan] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah berzina seorang hamba yang berzina ketika ia berzina dalam keadaan beriman, dan tidaklah mencuri ketika ia mencuri dalam keadaan beriman, tidaklah ia meminum khamr ketika meminumnya dan ia dalam keadaan beriman, dan tidaklah dia membunuh sedang dia dalam keadaan beriman." Kata Ikrimah, saya bertanya kepada 'Ibnu 'Abbas; 'bagaimana iman bisa dicabut padanya? ' ia menjawab; 'begini', sambil menjalinkan jari-jemarinya, kemudian ia keluarkan, 'maka jika ia bertaubat, iman itu kembali kepadanya, ' sambil ia menjalin jari jemarinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6809</td></tr><tr><td>Arabic No</td><td>6809</td></tr><tr><td>Reference</td><td>Book 86 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Когда раб (Аллаха) прелюбодействует, он не является верующим, и когда совершает кражу, он не является верующим, и когда распивает опьяняющие напитки, он не является верующим, и когда совершает убийство, он не является верующим».\n‘Икрима сказал: «Я спросил у Ибн ‘Аббаса: “А как его лишат веры?” Он ответил: “Вот так, — и он переплёл свои пальцы и затем разнял их, — если же он покается, то она вернётся к нему вот так”, — и он снова переплёл пальцы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6809</td></tr><tr><td>Arabic No</td><td>6809</td></tr><tr><td>Reference</td><td>Book 86 Hadith 38</td></tr></tbody></table></div>
 

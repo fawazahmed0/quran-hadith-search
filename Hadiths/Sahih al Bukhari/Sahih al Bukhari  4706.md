@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas concerning:"As We have sent down (the Scripture) on those wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Al A'masy] dari [Abu Zhabyan] dari [Ibnu 'Abbas radliallahu 'anhuma] mengenai firman Allah: Sebagaimana Kami telah menurunkan (azab) kepada orang-orang yang membagi-bagi Kitab Allah. (Al Hijr: 90). Ibnu Abbas berkata; "Mereka beriman dengan sebagiannya dan kafir dengan sebagian yang lain, mereka adalah Yahudi dan Nashrani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4706</td></tr><tr><td>Arabic No</td><td>4706</td></tr><tr><td>Reference</td><td>Book 65 Hadith 228</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал, объясняя аят «Мы также ниспослали его (наказание) разделяющим»: «Это иудеи и христианине, они уверовали в одну часть и не уверовали в другую»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4706</td></tr><tr><td>Arabic No</td><td>4706</td></tr><tr><td>Reference</td><td>Book 65 Hadith 228</td></tr></tbody></table></div>
 

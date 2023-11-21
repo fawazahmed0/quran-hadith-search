@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) ascended the mountain of Uhud and Abu Bakr, 'Uma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Sa'id] dari [Qatadah] dari [Anas bin Malik radliallahu 'anhu] berkata; "Rasulullah shallallahu 'alaihi wasallam mendaki bukit Uhud bersama Abu Bakr, 'Umar dan 'Utsman lalu bukit itu bergetar. Maka beliau bersabda: "Tenanglah Uhud". Seingatku beliau menghentakkan kaki beliau seraya berujar "Karena di atas kamu sekarang tidak lain kecuali Nabi, Shiddiq dan dua orang (yang akan mati) syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3699</td></tr><tr><td>Arabic No</td><td>3699</td></tr><tr><td>Reference</td><td>Book 62 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ поднялся на гору Ухуд вместе с Абу Бакром, ‘Умаром и ‘Усманом, и гора задрожала под ними. Пророк ﷺ топнул ногой и сказал: “Остановись, о Ухуд! Поистине, на тебе пророк, правдивейший и два шахида (мученика)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3699</td></tr><tr><td>Arabic No</td><td>3699</td></tr><tr><td>Reference</td><td>Book 62 Hadith 49</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mu'adh b. Jabal reported that the Messenger of Allah (ﷺ) caught his hand and s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami ['Ubaidullah bin Umar bin Maisarah] telah menceritakan kepada Kami [Abdullah bin Yazid Al Muqri'], telah menceritakan kepada Kami [Haiwah bin Syuraih], ia berkata; aku mendengar ['Uqbah bin Muslim] berkata; telah menceritakan kepadaku [Abu Abdurrahman Al Hubuli] dari [Ash Shunabihi] dari [Mu'adz bin Jabal] bahwa Rasulullah shallAllahu wa'alaihi wa sallam menggandeng tangannya dan berkata: "Wahai Mu'adz, demi Allah, aku mencintaimu." Kemudian beliau berkata: "Aku wasiatkan kepadamu wahai Mu'adz, janganlah engkau tinggalkan setiap selesai shalat untuk mengucapkan, "ALLAAHUMMA A'INNII 'ALAA DZIKRIKA WA SYUKRIKA WA HUSNI 'IBAADATIK" (Ya Allah, bantulah aku untuk berdzikir dan bersyukur kepadaMu serta beribadah kepadaMu dengan baik.) Mu'adz mewasiatkan dengan hal tersebut kepada Ash Shunabihi dan Ash Shunabihi mewasiatkan hal tersebut kepada Abdurrahman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1522</td></tr><tr><td>Arabic No</td><td>1522</td></tr><tr><td>Reference</td><td>Book 8 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Му‘аза ибн Джабаля, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ взял его за руку и сказал: «О Му‘аз, клянусь Аллахом, поистине, я люблю тебя, клянусь Аллахом, поистине, я люблю тебя». А потом он сказал: «Наказываю тебе, о Му‘аз, ни в коем случае не забывай в конце каждой молитвы говорить: “О Аллах, помоги мне поминать Тебя, и благодарить Тебя, и должным образом поклоняться Тебе /Аллахумма, а‘инни ‘аля зикри-ка, ва шукри-ка ва хусни ‘ибадати-ка/”». Му‘аз завещал это ас-Сунабихи, а ас-Сунабихи завещал это Абу ‘Абдуррахману
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1522</td></tr><tr><td>Arabic No</td><td>1522</td></tr><tr><td>Reference</td><td>Book 8 Hadith 107</td></tr></tbody></table></div>
 

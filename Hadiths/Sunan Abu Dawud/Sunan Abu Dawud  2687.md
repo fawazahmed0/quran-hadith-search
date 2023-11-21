@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn Ti'li: We fought along with AbdurRahman ibn Khalid ibn al-Walid. Fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], ia berkata; telah menceritakan kepada kami [Abdullah bin Wahb], ia berkata; telah mengabarkan kepadaku ['Amr bin Al Harits] dari [Bukair bin Abdullah bin Al Asyajj], dari [Ibnu Ya'la], ia berkata; kami pernah berperang bersama Abdurrahman bin Khalid bin Al Walid, kemudian ia diberi empat orang musuh yang kuat, kemudian ia memerintahkan untuk membunuh mereka. Kemudian mereka di bunuh dengan ditahan dan dilempari. Abu Daud berkata; selain Sa'id telah berkata kepadaku dari Ibnu Wahb dalam hadits ini, ia berkata; dengan melempari anak panah. Kemudian hal tersebut sampai kepada [Abu Ayyub Al Anshari], lalu ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam melarang dari membunuh dengan cara menahan dan melemparinya. Demi Dzat yang jiwaku ada di tanganku, seandainya hal tersebut adalah ayam betina, maka aku tidak akan menjadikannya sasaran. Kemudian hal tersebut sampai kepada Abdurrahman bin Khalid bin Al Walid, kemudian ia memerdekakan empat orang budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2687</td></tr><tr><td>Arabic No</td><td>2687</td></tr><tr><td>Reference</td><td>Book 15 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2687</td></tr><tr><td>Arabic No</td><td>2687</td></tr><tr><td>Reference</td><td>Book 15 Hadith 211</td></tr></tbody></table></div>
 

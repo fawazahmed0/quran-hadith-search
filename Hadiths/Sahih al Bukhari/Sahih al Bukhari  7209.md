@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:A bedouin gave the Pledge of allegiance to Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7209</td></tr><tr><td>Arabic No</td><td>7209</td></tr><tr><td>Reference</td><td>Book 93 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «(Однажды) один бедуин присягнул Посланнику Аллаха ﷺ на верность Исламу, а (на следующий день) его постигла лихорадка, и он сказал: “Освободи меня от моей присяги (перебраться в Медину)!” — однако (Посланник Аллаха ﷺ) отказал (ему в этом). Затем он пришёл к нему (ещё раз) и сказал: “Освободи меня от моей присяги (перебраться в Медину)!” — однако (Пророк ﷺ) снова отказал (ему в этом). Тогда (бедуин) вышел (с Медины) и Посланник Аллаха ﷺ сказал: “Медина подобна кузнечному меху, ибо она отвергает то нечистое, что в ней есть, а (всё) благое в ней ярко сияет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7209</td></tr><tr><td>Arabic No</td><td>7209</td></tr><tr><td>Reference</td><td>Book 93 Hadith 69</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) drew a few lines and said, "This is (m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Hammam] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas] dia berkata; Nabi shallallahu 'alaihi wasallam pernah membuat suatu garis lalu beliau bersabda: "Ini adalah cita-citanya, dan ini adalah ajalnya, ketika seseorang seperti itu (dalam cita-citanya), maka datanglah garis yang lebih dekat (yaitu ajalnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6418</td></tr><tr><td>Arabic No</td><td>6418</td></tr><tr><td>Reference</td><td>Book 81 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ начертил (несколько) линий и сказал: “Это — надежды человека, а это — его срок, и в то время, как находится он в подобном положении, неожиданно подходит к нему ближайшая линия”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6418</td></tr><tr><td>Arabic No</td><td>6418</td></tr><tr><td>Reference</td><td>Book 81 Hadith 7</td></tr></tbody></table></div>
 

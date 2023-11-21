@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samat:I was among those Naqibs (selected leaders) who gav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] telah menceritakan kepada kami [Yazid] dari [Abul khair] dari [Ash Shunabihi] dari ['Ubadah bin Ash Shamit] radliallahu 'anhu mengatakan; "Saya diantara pemuka masyarakat yang berbait kepada Rasulullah Shallallahu'alaihiwasallam, kami berbaiat kepadanya untuk tidak menyekutukan Allah dengan sesuatu apapun, tidak mencuri, tidak berzina, dan tidak membunuh jiwa yang Allah haramkan, tidak merampok, kami memperoleh surga jika melakukan janji setia ini, namun jika melanggar satu perkara itu, keputusannya terserah Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6873</td></tr><tr><td>Arabic No</td><td>6873</td></tr><tr><td>Reference</td><td>Book 87 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убада ибн ас-Самит, да будет доволен им Аллах, сказал: «Я был одним из старшин, которые присягнули Посланнику Аллаха ﷺ (в ночь ‘Акабы). Мы поклялись, что не будем поклоняться наряду с Аллахом ничему, не будем воровать, прелюбодействовать, не будем убивать того, кого Аллах запретил убивать, кроме как по праву и не будем грабить друг друга. Если мы не будем ослушиваться в этом, нам обещан Рай, если же совершим что-то из перечисленного, то Аллах будет решать (если пожелает, то простит его, а если пожелает, накажет его)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6873</td></tr><tr><td>Arabic No</td><td>6873</td></tr><tr><td>Reference</td><td>Book 87 Hadith 12</td></tr></tbody></table></div>
 

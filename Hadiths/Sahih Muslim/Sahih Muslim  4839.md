@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Ibn 'Umar who said:The Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; saya membacakan di hadapan [Malik]; dari [Nafi'] dari [Abdullah bin Umar] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang membawa mushaf Al Qur'an ke daerah musuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4839</td></tr><tr><td>Arabic No</td><td>1869.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4839</td></tr><tr><td>Arabic No</td><td>1869.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 135</td></tr></tbody></table></div>
 

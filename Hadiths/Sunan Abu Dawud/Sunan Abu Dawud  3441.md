@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salim al-Makki: That a bedouin told him that he brought a milch she-cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Muhammad bin Ishaq], dari [Salim Al Makki] bahwa [seorang badui] telah menceritakan kepadanya bahwa ia datang dengan membawa kambing perahan pada zaman Rasulullah shallallahu 'alaihi wasallam. kemudian ia singgah pada [Thalhah bin 'Ubaidullah], kemudian berkata; sesungguhnya Nabi shallallahu 'alaihi wasallam telah melarang orang yang bermukim (orang kota) menjualkan barang orang yang datang dari desa, akan tetapi pergilah ke pasar dan lihatlah siapakah yang berjual beli denganmu, kemudian mintalah petunjuk kepadaku hingga aku memerintahkan atau melarangmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3441</td></tr><tr><td>Arabic No</td><td>3441</td></tr><tr><td>Reference</td><td>Book 24 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим аль-Макки передаёт от одного бедуина, что он пришёл во времена Посланника Аллаха ﷺ со своей дававшей молоко верблюдицей (или: со своим товаром) и остановился у Тальхи ибн ‘Убайдуллаха, и тот сказал: «Поистине, Пророк ﷺ запретил оседлому жителю продавать что-либо за бедуина, а потому иди на рынок сам и посмотри, кто захочет купить её у тебя, а потом посоветуйся со мной и я подскажу тебе, на что следует соглашаться, а на что не следует»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3441</td></tr><tr><td>Arabic No</td><td>3441</td></tr><tr><td>Reference</td><td>Book 24 Hadith 26</td></tr></tbody></table></div>
 

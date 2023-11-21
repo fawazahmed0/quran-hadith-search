@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The first Jumua prayer which was offered after a Jumua praye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Abu 'Amir Al 'Aqadi] berkata, telah menceritakan kepada kami [Ibrahim bin Thahman] dari [Abu Jamrah Adl Dluba'i] dari [Ibnu 'Abbas] bahwa dia berkata, "Sesungguhnya (shalat) Jum'at yang pertama kali dilaksanakan setelah (shalat) Jum'at) di Masjid Rasulullah shallallahu 'alaihi wasallam adalah di Masjid 'Abdul Qais di kampung Juwatsa, negeri Bahrain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>892</td></tr><tr><td>Arabic No</td><td>892</td></tr><tr><td>Reference</td><td>Book 11 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Первой пятничной молитвой после совершённой в мечети Посланника Аллаха ﷺ была пятничная молитва, совершённая в Джувасе, одном из селений Бахрейна»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>892</td></tr><tr><td>Arabic No</td><td>892</td></tr><tr><td>Reference</td><td>Book 11 Hadith 17</td></tr></tbody></table></div>
 

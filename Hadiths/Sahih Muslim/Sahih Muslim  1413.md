@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Umama b. Sahl reported:We offered the noon prayer with Umar b. 'Abd al-'Aziz
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Manshur bin Abu Muzahim] telah menceritakan kepada kami [Abdullah bin Mubarak] dari [Abu Bakr bin Utsman bin Sahal bin Hunaif] katanya; Aku mendengar [Abu Umamah bin Sahl] mengatakan; "Kami shalat zhuhur bersama Umar bin Abdul Aziz, kemudian kami keluar hingga kami menemui [Anas bin Malik], kami mendapati dia tengah melakukan shalat Ashar. Lalu aku bertanya; "Wahai paman, shalat apa yang anda lakukan ini?" Dia menjawab; "Shalat Ashar, dan inilah shalat Rasulullah shallallahu 'alaihi wasallam yang dahulu kami pernah shalat bersamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1413</td></tr><tr><td>Arabic No</td><td>623</td></tr><tr><td>Reference</td><td>Book 5 Hadith 247</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакр ибн ‘Усман ибн Са‘д ибн Хунайф сказал: «Я слышал, как Абу Умама ибн Сахль говорил: “(Однажды) мы совершили полуденную молитву /зухр/ вместе с ‘Умаром ибн ‘Абдуль‘азизом, после чего вышли, затем зашли к Анасу ибн Малику и нашли его совершающим послеполуденную молитву /‘аср/ и тогда я сказал: “О дядя, что это за молитва, которую ты совершил?” Он ответил: “Послеполуденная молитва /‘аср/, и это молитва Посланника Аллаха ﷺ, которую мы совершали вместе с ним!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1413</td></tr><tr><td>Arabic No</td><td>623</td></tr><tr><td>Reference</td><td>Book 5 Hadith 247</td></tr></tbody></table></div>
 

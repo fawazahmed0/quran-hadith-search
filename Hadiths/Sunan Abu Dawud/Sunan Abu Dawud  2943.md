@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraidah:The Prophet (ﷺ) as saying: When we appoint someone to an adm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zaid bin Akhzam Abu Thalib], telah menceritakan kepada kami [Abu 'Ashim] dari [Abdul Warits bin Sa'id] dari [Husain Al Mu'allim] dari [Abdullah bin Buraidah], dari [ayahnya], dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa yang kami beri jabatan untuk mengurusi suatu pekerjaan kemudian kami berikan kepadanya suatu pemberian (gaji), maka apa yang ia ambil setelah itu (selain gaji) adalah suatu bentuk pengkhianatan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2943</td></tr><tr><td>Arabic No</td><td>2943</td></tr><tr><td>Reference</td><td>Book 20 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Бурайды, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если мы назначили человека на какую-то должность и определили ему плату, то всё, что он возьмёт сверх этого, будет подобно присвоению военной добычи до раздела»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2943</td></tr><tr><td>Arabic No</td><td>2943</td></tr><tr><td>Reference</td><td>Book 20 Hadith 16</td></tr></tbody></table></div>
 

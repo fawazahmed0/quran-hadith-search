@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu zur’ah said:A group of people came to Marwan in Medina, and they heard him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muammal bin Hisyam] berkata, telah menceritakan kepada kami [Isma'il] dari [Abu Hayyan At taimi] dari [Abu Zur'ah] ia berkata, "Beberapa orang datang menemui Marwan di Madinah, mereka mendengar Marwan menceritakan tentang tanda-tanda datangnya hari kiamat. Bahwa pertama kali yang akan muncul adalah Dajjal." Abu Zur'ah berkata, "Aku lantas menemui Abdullah bin Amru dan aku ceritakan hal itu kepadanya. [Abdullah] lalu berkata, "Perkataan Marwan tidak dianggap, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tanda hari kiamat pertama yang akan muncul adalah terbitnya matahari dari arah barat, atau keluarnya binatang melata kepada manusia di waktu dhuha. Mana pun dari keduanya muncul pertama kali, maka yang lain akan segera menyusul." Abdullah berkata -sambil membaca buku-, "Aku kira yang pertama kali akan muncul adalah terbitnya matahari dari arah terbenamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2941)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4310</td></tr><tr><td>Arabic No</td><td>4310</td></tr><tr><td>Reference</td><td>Book 39 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зур‘а передаёт: К Мервану (ибн аль-Хакаму), находившемуся в Медине пришла группа людей, и они услышали, как он говорил о признаках приближения Судного дня, что первым из них будет появление Даджжаля. Тогда я пошёл к ‘Абдуллаху ибн ‘Амру и рассказал ему об этом. ‘Абдуллах сказал: «Он не сказал ничего стоящего. Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, первым знамением станет восход солнца на западе, или животное, которое появится поздним утром. И какое бы из этих двух событий ни произошло раньше, второе произойдёт вскоре после первого”». И ‘Абдуллах а он читал Писания сказал: «Я думаю, что первым из этих признаков станет восход солнца на западе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2941)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4310</td></tr><tr><td>Arabic No</td><td>4310</td></tr><tr><td>Reference</td><td>Book 39 Hadith 20</td></tr></tbody></table></div>
 

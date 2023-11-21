@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:A Jew and Jewess were brought to the Prophet (ﷺ) on a charg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Ismail] dari [Ayyub] dari [Nafi'] dari [Ibn Umar] radliyallahu'anhuma berkata, "Seorang laki-laki dan wanita Yahudi yang berzina didatangkan kepada nabi shallallahu 'alaihi wasallam, Nabi lalu bertanya kepada si Yahudi: 'Hukuman apa biasa kalian lakukan terhadap keduanya? ' Mereka menjawab, 'Kami biasanya menghukum mereka dengan menghitami wajah keduanya dan menghinakannya.' Lantas nabi bersabda (dengan mengutip ayat): '(Maka datangkanlah Taurat dan bacalah, jika kalian orang-orang yang benar) ', (Qs. Ali 'Imran: 93), lantas mereka datang dan mereka katakan kepada seseorang yang mereka percayai, 'Hai A'war bacalah! Lantas A'war membaca hingga sampai ayat (yang berkenaan hukum perzinaan), dengan terburu-buru ia menutupi dengan tangannya, maka Nabi menegur: 'Hai, angkatlah tanganmu! ' Maka ia angkat tangannya. Dan ternyata yang ia tutupi adalah ayat rajam, lantas A'war berkata, 'Hai Muhammad, kedua orang itu wajib dirajam, hanya kami merahasiakannya di antara kami.' Maka Nabi perintahkan agar keduanya dirajam, dan kemudian keduanya pun dirajam. Sungguh, aku lihat yang laki-laki membungkukkan badannya ke arah wanita untuk mencegahnya agar tidak terkena batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7543</td></tr><tr><td>Arabic No</td><td>7543</td></tr><tr><td>Reference</td><td>Book 97 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен ими обоими Аллах, который сказал: «К Пророку ﷺ привели мужчину и женщину из числа иудеев, совершивших прелюбодеяние. (Посланник Аллаха ﷺ) спросил иудеев: “Что вы (обычно) с ними делаете?”. Они сказали: “Мы очерняем их лица и срамим их”. (Пророк ﷺ) сказал: “Принесите Таурат и прочтите его, если вы говорите правду” (Сура «Аль ‘Имран», аят 93)». Они пришли (обратно, принеся его), а затем сказали одному мужчине, которым они были довольны: “О одноглазый, читай!” И он (начал) читать до тех пор, пока не остановился на (одной его) части, на которую он поставил свою руку. (Пророк ﷺ) сказал: “Убери свою руку”. И когда он убрал свою руку, там оказался аят о побивании камнями. Он сказал: “О Мухаммад! Воистину, они должны быть побиты камнями, однако мы скрываем это между собой”. Затем (Пророк ﷺ) велел побить их обеих камнями и я видел, как (мужчина) защищал (женщину) от камней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7543</td></tr><tr><td>Arabic No</td><td>7543</td></tr><tr><td>Reference</td><td>Book 97 Hadith 168</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hakim bin Hizam:The Prophet (ﷺ) said, "The buyer and the seller have 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Habban bin Hilal] telah menceritakan kepada kami [Syu'bah] berkata, [Qatadah] mengabarkan kepadaku dari [Shalih Abu Al Khalil] dari ['Abdullah bin Al Harits] berkata, aku mendengar [Hakim bin Hizam radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Dua orang yang melakukan jual beli boleh melakukan khiyar (pilihan untuk melangsungkan atau membatalkan jual beli) selama keduanya belum berpisah", Atau sabda Beliau: "hingga keduanya berpisah. Jika keduanya jujur dan menampakkan cacat dagangannya maka keduanya diberkahi dalam jual belinya dan bila menyembunyikan cacatnya dan berdusta maka akan dimusnahkan keberkahan jual belinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2110</td></tr><tr><td>Arabic No</td><td>2110</td></tr><tr><td>Reference</td><td>Book 34 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Хакима ибн Хизама, да будет доволен им Аллах, что Пророк ﷺ сказал: «Продавец и покупатель имеют право выбора: завершить или отменить сделку — до тех пор, пока не расстанутся, и если они будут правдивы и разъяснят, их сделка будет благодатной для них, а если они скроют и солгут, их сделка будет лишена благодати»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2110</td></tr><tr><td>Arabic No</td><td>2110</td></tr><tr><td>Reference</td><td>Book 34 Hadith 63</td></tr></tbody></table></div>
 

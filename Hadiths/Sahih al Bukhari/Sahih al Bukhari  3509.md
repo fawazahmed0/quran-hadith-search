@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Wathila bin Al-Asqa:Allah's Messenger (ﷺ) said, "Verily, one of the w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Ayyasy] telah bercerita kepada kami [Hariz] berkata, telah bercerita kepadaku ['Abdul Wahid bin 'Abdullah an-Nashriy] berkata, aku mendengar [Watsilah bin Al Asyfa'] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya diantara kebohongan yang besar adalah bila seseorang mengaku (sebagai anak) dari orang yang bukan bapaknya atau (seseorang) mengaku kedua matanya melihat sesuatu dalam mimpi padahal tidak bermimpi apapun atau seseorang mengatakan sesuatu atas nama Rasulullah shallallahu 'alaihi wasallam apa yang beliau tidak mensabdakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3509</td></tr><tr><td>Arabic No</td><td>3509</td></tr><tr><td>Reference</td><td>Book 61 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Василя ибн аль-Аскъа‘, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Поистине, величайшими (видами) лжи являются объявление человеком себя сыном не своего отца, заявление о том, что он видел во сне то, чего (на самом деле) не видел, и приписывание Посланнику Аллаха того, чего он не говорил”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3509</td></tr><tr><td>Arabic No</td><td>3509</td></tr><tr><td>Reference</td><td>Book 61 Hadith 19</td></tr></tbody></table></div>
 

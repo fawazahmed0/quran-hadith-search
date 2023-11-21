@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa Al-Ash'ari:The Prophet (ﷺ) said, "None is more patient than 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Sa'id bin Jubair] dari [Abu 'Abdurrahman assulami] dari [Abu Musa Al asy'ari] berkata, "Nabi shallallahu 'alaihi wasallam Shallallahu'alaihiwasallam bersabda: "Tidak ada seorang pun yang lebih bersabar atas gangguan yang didengarnya daripada Allah, ada manusia mengaku Allah mempunyai anak (yaitu orang nashrani), namun Allah masih juga memberi mereka kesehatan dan rejeki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7378</td></tr><tr><td>Arabic No</td><td>7378</td></tr><tr><td>Reference</td><td>Book 97 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса (аль-Аш‘ари, да будет доволен им Аллах,) сказал: «Пророк ﷺ сказал: “Никто не проявляет больше терпения, слыша обидное, чем Аллах: (люди) утверждают, что у Него есть ребёнок, а Он исцеляет их и дарует им их удел”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7378</td></tr><tr><td>Arabic No</td><td>7378</td></tr><tr><td>Reference</td><td>Book 97 Hadith 8</td></tr></tbody></table></div>
 

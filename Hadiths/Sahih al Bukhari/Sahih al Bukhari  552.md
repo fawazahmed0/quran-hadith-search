@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "Whoever misses the 'Asr prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang kehilangan shalat 'Ashar (dengan berjama'ah) seperti orang yang kehilangan keluarga dan hartanya." Saat menafsirkan ayat: '(Dia sekali-kali tidak akan mengurangi) ' (Qs. Muhammad: 35) Abu Abdullah berkata, "Bila kamu membunuh seseorang atau kamu mengambil hartanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>552</td></tr><tr><td>Arabic No</td><td>552</td></tr><tr><td>Reference</td><td>Book 9 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Посланник Аллаха ﷺ сказал: «(Тот человек,) который пропускает послеполуденную молитву, подобен лишившемуся своей семьи и имущества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>552</td></tr><tr><td>Arabic No</td><td>552</td></tr><tr><td>Reference</td><td>Book 9 Hadith 29</td></tr></tbody></table></div>
 

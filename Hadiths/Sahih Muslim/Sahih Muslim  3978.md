@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik (Allah be pleased with him) reported that Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu At Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Malik] dari [Humaid At Thawil] dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam melarang menjual buah-buahan sampai tampak matang." Para sahabat bertanya, "Bagaimana terlihat matangnya?" Beliau menjawab: "Hingga memerah." Beliau melanjutkan: "Jika Allah mencegah buah tersebut (belum matang), maka atas dasar apakah kamu menghalalkan harta saudaramu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3978</td></tr><tr><td>Arabic No</td><td>1555.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3978</td></tr><tr><td>Arabic No</td><td>1555.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 17</td></tr></tbody></table></div>
 

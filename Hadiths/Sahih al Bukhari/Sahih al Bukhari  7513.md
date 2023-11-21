@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:A priest from the Jews came (to the Prophet) and said, "On th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari ['Abidah] dari ['Abdullah] radliyallahu'anhu berkata, "Seorang biarawan Yahudi datang dan berkata, 'Jika hari kiamat terjadi, maka Allah meletakkan langit di atas jari-Nya, dan tujuh lapisan bumi juga diletakkan di atas jarinya dan air, bintang juga di atas jari, dan seluruh makhluk yang ada juga di atas satu jarinya, kemudian Allah menggetarkan mereka seraya berkata: 'Aku adalah Sang raja, akulah sang raja! ' Dan kulihat Nabi shallallahu 'alaihi wasallam tertawa hingga kelihatan gigi gerahamnya sebagai pertanda takjub dan membenarkan ucapannya. Kemudian Nabi Shallallahu'alaihiwasalam membacakan firman Allah: '(Dan mereka (orang-orang Yahudi) tidak menghormati Allah dengan penghormatan yang sebenarnya) hingga ayat '(dari apa yang mereka persekutukan) ' (Qs. Azzumar: ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7513</td></tr><tr><td>Arabic No</td><td>7513</td></tr><tr><td>Reference</td><td>Book 97 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал, что однажды пришёл раввин из числа иудеев и сказал: «Поистине, когда наступит День воскресения Аллах разместит на одном пальце небеса, на другом — земли, на третьем — воду и богатства, а все творения — на четвёртом, затем потрясет ими и скажет: “Я — Царь! Я — Царь!”». (‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал:) «Я увидел, как Пророк ﷺ рассмеялся так широко удивления и в подтверждение его слов, что показались его коренные зубы, а потом Пророк ﷺ прочёл: “Не ценили они Аллаха должным образом, а ведь вся земля в День воскресения будет всего лишь Пригоршней Его, а небеса будут свернуты Его Десницей. Пречист Он и превыше того, что они приобщают к Нему в сотоварищи” (сура «аз-Зумар», аят 67)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7513</td></tr><tr><td>Arabic No</td><td>7513</td></tr><tr><td>Reference</td><td>Book 97 Hadith 138</td></tr></tbody></table></div>
 

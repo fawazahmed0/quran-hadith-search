@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: Abdullah ibn Salamah said: I, accompanied by other tw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Abdullah bin Salamah] dia berkata; Saya pernah menemui [Ali radliallahu 'anhu] bersama dua orang laki-laki, seorang dari kami dan seorang lagi dari Bani Asad -saya sangka-. Kemudian Ali radliallahu 'anhu mengutus keduanya ke suatu tempat untuk suatu keperluan seraya berkata; Sesungguhnya kalian berdua kuat dalam bekerja, maka jadilah kalian kuat dalam agama kalian. Kemudian dia bangkit dan masuk ke tempat buang hajat. Setelah keluar, dia meminta air, lalu mengambil satu ciduk darinya dan membasuh sebagian anggota badannya dengan air tersebut. Kemudian dia membaca Al Quran (tanpa berwudhu terlebih dahulu), dan orang-orang mengingkari apa yang dilakukannya, maka dia berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam pernah keluar dari tempat buang hajat lalu membacakan Al Quran untuk kami dan makan daging bersama kami. Tidak ada sesuatu pun yang menghalanginya dari membaca Al Quran selain junub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>229</td></tr><tr><td>Arabic No</td><td>229</td></tr><tr><td>Reference</td><td>Book 1 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Салама сказал: «Однажды я зашел к ‘Али, да будет доволен им Аллах, вместе с двумя мужчинами, которых вызвали, и один из которых я думаю был из числа наших, а другой из (племени) Бану Асад. Отправляя их (в какое-то место) он сказал им: “Поистине, вы сильные люди, так покажите свою силу в деле религии”. Затем он встал и отправился в охожее место. Потом он вышел оттуда и попросил принести воды и набрал из нее пригоршню. Он помыл свои руки и затем начал читать Куръан. Им это не понравилось, а (‘Али) сказал: “Поистине, Посланник Аллаха ﷺ приходил с отхожего места и читал нам Куръан, кушал с нами мясо, и ничто не мешало ему” – или он сказал: “не удерживало его от (чтения) Куръана ничто, кроме большого осквернения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>229</td></tr><tr><td>Arabic No</td><td>229</td></tr><tr><td>Reference</td><td>Book 1 Hadith 229</td></tr></tbody></table></div>
 

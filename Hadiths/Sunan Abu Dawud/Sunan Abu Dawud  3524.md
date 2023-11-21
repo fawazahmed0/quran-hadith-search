@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amir ash-Sha'bi: The Prophet (ﷺ) said: If anyone finds an animal whos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Aban] dari ['Ubaidullah bin Humaid bin Abdurrahman Al Himyari] dari [Asy Sya'bi] dan ia berkata dari [Aban] bahwa [Amir Asy Sya'bi] menceritakan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mendapati hewan kendaraan yang pemiliknya sudah tidak mampu untuk memberinya makan, kemudian mereka membiarkannya pergi kemanapun hewan itu, lalu orang tersebut mengambilnya dan merawatnya maka hewan kendaraan tersebut adalah miliknya." Ia menyebutkan dalam hadits Aban, Ubaidullah berkata, "Kemudian aku katakan, "Dari siapa?" Ia menjawab, "Berasal lebih dari satu orang sahabat Nabi shallallahu 'alaihi wasallam." Abu Daud berkata, "Ini adalah hadits Hammad, dan hadits tersebut lebih jelas dan lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3524</td></tr><tr><td>Arabic No</td><td>3524</td></tr><tr><td>Reference</td><td>Book 24 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аш-Ша‘би передаёт, что Посланник Аллаха ﷺ сказал: «Кто обнаружил животное, которое его владельцы были не в состоянии прокормить и потому отпустили на волю, взял его к себе и выходил, тот становится владельцем этого животного». В версии Абана говорится, что (передатчик) ‘Убайдуллах спросил: «От кого?» (Аш-Ша‘би) ответил: «От нескольких сподвижников Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3524</td></tr><tr><td>Arabic No</td><td>3524</td></tr><tr><td>Reference</td><td>Book 24 Hadith 109</td></tr></tbody></table></div>
 

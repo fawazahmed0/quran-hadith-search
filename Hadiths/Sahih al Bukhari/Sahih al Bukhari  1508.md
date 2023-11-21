@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:In the lifetime of the Prophet (ﷺ) we used to giv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Munir] dia mendengar [Yazid bin Abu Hakim Al 'Adaniy] telah menceritakan kepada kami [Sufyan] dari [Zaid bin Aslam] berkata, telah menceritakan kepada saya ['Iyadh bin 'Abdullah bin Abu Sarhi] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] berkata: "Pada zaman Nabi shallallahu 'alaihi wasallam kami memberi makan (mengeluarkan zakat fithri) satu sha' dari makanan atau satu sha' dari kurma atau satu sha' dari gandum atau satu sha' dari sha'dari kismis (anggur kering). Ketika Mu'awiyah datang (untuk melaksanakanhajji) dan gandum dari negeri Syam, dia berkata: "Aku menganggap satu mud ini (kurna) sama dengan dua mud (gandum negeri Syam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1508</td></tr><tr><td>Arabic No</td><td>1508</td></tr><tr><td>Reference</td><td>Book 24 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «При жизни Пророка ﷺ мы выплачивали (закят аль-фитр) са‘ пшеницы, или са‘ фиников, или са‘ ячменя, или са‘ изюма, когда же пришел Му‘авия, и пришла тёмная пшеница, Му‘авия сказал: “Я считаю, что один мудд этого равен двум муддам (упомянутых продуктов)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1508</td></tr><tr><td>Arabic No</td><td>1508</td></tr><tr><td>Reference</td><td>Book 24 Hadith 108</td></tr></tbody></table></div>
 

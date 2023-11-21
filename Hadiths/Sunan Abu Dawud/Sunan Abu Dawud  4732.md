@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Muhammad Ibnul 'Ala] bahwa [Abu Usamah] mengabarkan kepada mereka dari [Umar bin Hamzah] ia berkata; [Salim] berkata; telah mengabarkan kepadaku [Abdullah bin Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada hari kiamat Allah akan menggulung semua langit kemudian mengenggamnya dengan tangan kanan, setelah itu Allah berfirman: "Aku adalah raja! Sekarang dimanakah orang-orang yang berlaku sewenang-wenang, di mana orang-orang yang berlaku sombong!" Kemudian Allah juga menggulung semua bumi dan menggenggamnya. Ibnul 'Ala menyebutkan, "Dengan tangan-Nya yang lain. Setelah itu berfirman: "Aku adalah raja! Sekarang dimanakah orang-orang yang berlaku sewenang-wenang, di mana orang-orang yang berlaku sombong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2778)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4732</td></tr><tr><td>Arabic No</td><td>4732</td></tr><tr><td>Reference</td><td>Book 42 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Аллах свернёт небеса в Судный день, а затем возьмёт их в Правую Руку и скажет: “Я Царь! Где же тираны? Где высокомерные гордецы?” А потом Он свернёт земли, возьмёт их (или: возьмёт их другой Рукой) и скажет: “Я Царь! Где же тираны? Где высокомерные гордецы?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2778)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4732</td></tr><tr><td>Arabic No</td><td>4732</td></tr><tr><td>Reference</td><td>Book 42 Hadith 137</td></tr></tbody></table></div>
 

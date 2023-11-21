@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:While I was at Yemen, I met two men from Yemen called Dhu Kala an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdullah bin Abu Syaibah Al 'Absi] Telah menceritakan kepada kami [Ibnu Idris] dari [Isma'il bin Abu Khalid] dari [Qais] dari [Jarir] dia berkata; Ketika aku berada di Yaman, aku bertemu dengan dua orang Yaman yang bernama dzu-Kala dan Dzy-Amr. Kepada mereka berdua kuceritakan perihal Rasulllah Shallallahu'alaihiwasallam. Dzu-Amr berkata kepadaku, "Jika cerita tentang sahabatmu itu (Rasulullah Shallallahu'alaihiwasallam) benar, maka ia telah wafat tiga hari yang lalu."Maka mereka berdua pergi bersamaku ke Madinah dan ketika jarak kami telah dekat dengan Madinah kami melihat sejumlah orang menunggang binatang-binatang mereka datang dari arah Madinah. Kami bertanya kepada mereka dan mereka berkata,: "Rasulullah Shallallahu 'Alaih wa Sallam telah wafat dan Abu Bakar telah ditunjuk sebagai khalifah, sementara orang-orang (Muslim) dalam keadaan baik."Kemudian mereka (berdua) berkata, "Katakan kepada sahabatmu (Abu Bakar) bahwa kami (berniat mengunjunginya) dan insya allah, kami akan kembali ke mari." Maka mereka (berdua) pulang kembali ke Yaman. Maka hal itu aku kabarkan kepada Abu Bakr. Lalu dia berkata; Kenapa kamu tidak datang bersama mereka. Pada keesokan harinya Dzu Amru berkata kepadaku; Ya Jarir, kamu memiliki kemuliaan padaku, Sungguh aku akan mengabarkan kepadamu satu kabar: Sesungguhnya kalian wahai bangsa Arab, akan senantiasa dalam keadaan baik sebagaimana keadaan saat ini. Karena ketika pemimpin kalian meninggal, kalian memilih pemimpin yang lain. Tetapi jika kalian memilihnya dengan memakai pedang (peperangan), maka hal itu tidak beda dengan para raja yang apa bila mereka murka maka kemurkaannya karena kekuasaan dan apabila rela maka kerelaannya pun karena kekuasaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4359</td></tr><tr><td>Arabic No</td><td>4359</td></tr><tr><td>Reference</td><td>Book 64 Hadith 385</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир, да будет доволен им Аллах, сказал: «Находясь в Йемене, я встретил там двоих йеменцев, которых звали Зу Кaля‘ и Зу ‘Амр, и стал рассказывать им о посланнике Аллаха ﷺ. Зу ‘Амр сказал мне: “Поистине, если все, что ты говоришь о своем друге, правда, это значит, что он умер три (дня) назад”, (после чего) оба они отправились со мной (в Медину). Преодолев часть пути, мы увидели всадников, которые ехали (со стороны) Медины, стали расспрашивать их, и они сказали: “Посланник Аллаха ﷺ умер, оставив после себя Абу Бакра, а у людей все в порядке”. (Тогда Зу Кaля‘ и Зу ‘Амр) сказали: “Передай своему другу, что мы приезжали и что мы, возможно, ещё вернемся, если будет угодно Аллаху”, а потом они вернулись в Йемен. Я передал Абу Бакру их слова, и он воскликнул: “Что же ты не привел их (ко мне)?!” А потом Зу ‘Амр сказал мне: “О Джарир, поистине, ты оказал мне уважение, и я скажу тебе нечто: поистине, у вас, арабов, все будет в порядке до тех пор, пока вы не перестанете выбирать следующего правителя после смерти предыдущего на совете, если же (такие дела будут решаться) мечом, то (ваши правители) превратятся в царей, которые станут гневаться подобно царям и проявлять благоволение подобно царям”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4359</td></tr><tr><td>Arabic No</td><td>4359</td></tr><tr><td>Reference</td><td>Book 64 Hadith 385</td></tr></tbody></table></div>
 

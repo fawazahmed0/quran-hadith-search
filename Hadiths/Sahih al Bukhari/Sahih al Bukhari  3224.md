@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I stuffed for the Prophet (ﷺ) a pillow decorated with pictures
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3224</td></tr><tr><td>Arabic No</td><td>3224</td></tr><tr><td>Reference</td><td>Book 59 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Я набила для Пророка ﷺ подушку, похожую на “нумруку” (небольшая подушка), на которой были изображения (живых существ). Увидев (эту подушку), Посланник Аллаха ﷺ остановился между двух дверей, и его лицо стало меняться. Я сказала: “Что мы сделали не так, о Посланник Аллаха!?” Посланник Аллаха ﷺ сказал: “Что это за подушка?” Я сказала: “Это подушка для того, чтобы ты лежал на ней”. Тогда Посланник Аллаха ﷺ сказал: “Разве ты не знаешь, что ангелы не входят в дом, где есть изображения (живых существ); и что того, кто создаёт изображения подвергнут мучению в День Воскресения, и им скажут: “Оживите то, что вы создали!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3224</td></tr><tr><td>Arabic No</td><td>3224</td></tr><tr><td>Reference</td><td>Book 59 Hadith 35</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud Al-Ansari:The Prophet (ﷺ) said, "When a Muslim spends some
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] Telah menceritakan kepada kami [Syu'bah] dari [Adi bin Tsabit] ia berkata; Aku mendengar [Abdullah bin Yazid Al Anshari] dari [Abu Mas'ud Al Anshari] maka aku berkata; Dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika seorang muslim memberi nafkah pada keluarganya dengan niat mengharap pahala, maka baginya hal itu adalah sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5351</td></tr><tr><td>Arabic No</td><td>5351</td></tr><tr><td>Reference</td><td>Book 69 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мас‘уда аль-Ансари, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда мусульманин расходует (что-нибудь) на свою семью с надеждой на награду Аллаха, это (засчитывается) ему как садака»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5351</td></tr><tr><td>Arabic No</td><td>5351</td></tr><tr><td>Reference</td><td>Book 69 Hadith 1</td></tr></tbody></table></div>
 

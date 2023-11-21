@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubaidullah bin 'Abdullah bin 'Utba:Ibn 'Abbas said, "O Muslims? How do 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Yunus] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah bin 'Utbah] dari ['Abdullah bin 'Abbas radliallahu 'anhuma] berkata: "Wahai sekalian kaum muslimin, bagaimana bisa kalian bertanya kepada Ahli kitab sedangkan kitab kalian yang diturunkan kepada nabi-Nya shallallahu 'alaihi wasallam adalah kitab paling baru tentang Allah. Kalian membacanya dengan tidak dicampur aduk, dan Allah telah memberitahu kalian bahwa orang-orang ahli kitab telah merubah apa yang telah Allah tetapkan, dan mereka merubahnya dengan tangan mereka, lalu mereka berkata ini dari Allah dengan maksud (menjualnya dengan harga yang sedikit). Bukankah dengan ilmu yang telah datang kepada kalian berarti Dia melarang kalian untuk bertanya kepada mereka?. Tidak, demi Allah, kami tidak melihat seorangpun dari mereka yang bertanya tentang apa yang diturunkan kepada kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>2685</td></tr><tr><td>Reference</td><td>Book 52 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «О мусульмане! Как вы можете спрашивать о чём-то у обладателей Писания, когда ваше Писание, ниспосланное Пророку ﷺ (содержит) самые свежие сообщения об Аллахе? Вы читаете его чистым, неискажённым. И Аллах рассказал вам, что обладатели Писания, исказили и изменили Книгу Аллаха и написали Писание собственными руками, а затем сказали: “Это — от Аллаха”, чтобы приобрести за это ничтожную плату. Разве то, что вы получили из знаний, не запрещает вам спрашивать у них? Нет, клянусь Аллахом, мы не видели ни одного из них, кто бы спрашивал вас о том, что вам ниспослано!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>2685</td></tr><tr><td>Reference</td><td>Book 52 Hadith 46</td></tr></tbody></table></div>
 

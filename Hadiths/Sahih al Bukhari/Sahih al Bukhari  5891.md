@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard the Prophet (ﷺ) saying. "Five practices are chara
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ibrahim bin Sa'd] telah menceritakan kepada kami [Ibnu Syihab] dari [Sa'id bin Musayyab] dari [Abu Hurairah] radliallahu 'anhu saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sunnah-sunnah fitrah itu ada lima, yaitu; berkhitan, mencukur bulu kemaluan, memotong kumis, memotong kuku dan mencabut bulu ketiak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5891</td></tr><tr><td>Arabic No</td><td>5891</td></tr><tr><td>Reference</td><td>Book 77 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что он слышал, как Посланник Аллаха ﷺ говорил: «К естественным вещам /фитра/ относится обрезание, сбривание волос с лобка, укорачивание усов, подстригание ногтей и выщипывание волос подмышками»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5891</td></tr><tr><td>Arabic No</td><td>5891</td></tr><tr><td>Reference</td><td>Book 77 Hadith 108</td></tr></tbody></table></div>
 

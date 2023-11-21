@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usaid bin Hudair:A man came to the Prophet (ﷺ) and said, "O Allah's M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas bin Malik] dari [Usaid bin Hudhair], ada seseorang yang menemui Nabi shallallahu 'alaihi wasallam dan berujar; 'Wahai Rasulullah, engkau mempekerjakan si fulan namun engkau tidak mempekerjakan aku? ' maka Nabi menjawab; "kalian sepeninggalku akan melihat sifat-sifat egoisme, maka bersabarlah hingga kalian menemuiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7057</td></tr><tr><td>Arabic No</td><td>7057</td></tr><tr><td>Reference</td><td>Book 92 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Усайд ибн Худайр, да будет доволен им Аллах, передаёт, что однажды некий человек пришёл к Пророку ﷺ и сказал: «О Посланник Аллаха, ты назначил правителем такого-то, не назначишь ли меня (правителем)?» (В ответ ему) он сказал: «Поистине, после моей (смерти) вы увидите корысть (предпочтение в мирских вещах станут отдавать другим), терпите же, пока не встретитесь со мной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7057</td></tr><tr><td>Arabic No</td><td>7057</td></tr><tr><td>Reference</td><td>Book 92 Hadith 9</td></tr></tbody></table></div>
 

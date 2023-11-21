@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Zuhri:'Umar said explaining the verse: "What Allah has bestowed on H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], Telah menceritakan kepada kami [Isma'il bin Ibrahim], telah mengabarkan kepada kami [Ayyub] dari [Az Zuhri], ia berkata; [Umar] berkata: "Dan apa saja harta rampasan (fai') yang diberikan Allah kepada RasulNya (dari harta benda) mereka, maka untuk mendapatkan itu kamu tidak mengerahkan seekor kudapun dan (tidak pula) seekor untapun." Az Zuhri berkata; Umar berkata; ini adalah untuk Rasulullah shallallahu 'alaihi wasallam, khususnya kampong 'Urainah, Fadak, dan ini, serta ini."Apa saja harta rampasan (fai-i) yang diberikan Allah kepada RasulNya (dari harta benda) yang berasal dari penduduk kota-kota maka adalah untuk Allah, untuk Rasul, kaum kerabat, anak-anak yatim, orang-orang miskin dan orang-orang yang dalam perjalanan." "(Juga) bagi orang fakir yang berhijrah yang diusir dari kampung halaman dan dari harta benda mereka." "Dan orang-orang yang telah menempati kota Madinah dan telah beriman (Anshor) sebelum (kedatangan) mereka (Muhajirin)." "Dan orang-orang yang datang sesudah mereka (Muhajirin dan Anshor)." Maka ayat ini mencakup seluruh orang, dan tidak ada seorang pun dari kalangan muslimin melainkan ia memiliki hak padanya. Ayyub berkata; atau ia mengatakan; bagian. Kecuali sebagian apa yang kalian miliki berupa budak-budak kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2966</td></tr><tr><td>Arabic No</td><td>2966</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аз-Зухри, что ‘Умар, да будет доволен им Аллах, сказал: «“К добыче, которую Аллах даровал Своему Посланнику, вы не скакали рысью ни на конях, ни на верблюдах, но Аллах дарует Своим посланникам власть над кем пожелает. Аллах всё может” (сура 59 «аль-Хашр», аят 6). Речь идёт о том, что было даровано Посланнику Аллаха ﷺ селения Урайны, Фадак и ещё то-то и то-то (включая селения в Хайбаре). “Добыча, которую Аллах даровал Своему Посланнику от жителей селений, принадлежит Аллаху, Посланнику, родственникам Пророка, сиротам, бедным и путникам”, “А также бедным мухаджирам, которые были изгнаны из своих жилищ и лишены своего имущества… И те, которые пришли после них [мухаджиров и ансаров]…” Все люди имеют долю в этом имуществе, за исключением некоторых ваших невольников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2966</td></tr><tr><td>Arabic No</td><td>2966</td></tr><tr><td>Reference</td><td>Book 20 Hadith 39</td></tr></tbody></table></div>
 

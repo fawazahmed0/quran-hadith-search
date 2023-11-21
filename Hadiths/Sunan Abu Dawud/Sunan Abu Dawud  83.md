@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: A man asked the Messenger of Allah (ﷺ): Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Shafwan bin Sulaim] dari [Sa'id bin Salamah dari keluarga Ibnu Al Azraq] bahwa [Al Mughirah bin Abi Burdah] -dan ia dari Bani Abd Ad Dar, - mengabarkan kepadanya bahwa dia telah mendengar [Abu Hurairah] berkata; Ada seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam, seraya berkata; "Wahai Rasulullah, kami naik kapal dan hanya membawa sedikit air, jika kami berwudhu dengannya maka kami akan kehausan, apakah boleh kami berwudhu dengan air laut?" Maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Ia (laut) adalah suci airnya dan halal bangkainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Arabic No</td><td>83</td></tr><tr><td>Reference</td><td>Book 1 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘ида ибн Салямы из рода Бану аль-Азракъ о том, что аль-Мугъира ибн Абу Бурда, а он был из рода бану ‘абд-ад-Дар, рассказал ему, что он слышал, как Абу Хурайра говорил: «Некий человек спросил Посланника Аллаха ﷺ: “О Посланник Аллаха! Выходя в море, мы берем с собой немного воды. Если мы станем совершать ею омовение, то будем испытывать сильную жажду. Так можно ли нам совершать омовение морской водой?” И Посланник Аллаха ﷺ сказал: “Морская вода чистая, а её мертвечина дозволена”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Arabic No</td><td>83</td></tr><tr><td>Reference</td><td>Book 1 Hadith 83</td></tr></tbody></table></div>
 

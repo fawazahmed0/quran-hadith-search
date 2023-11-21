@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:"I told her ('Aisha): (Regarding the above narration), they (Apos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4696</td></tr><tr><td>Arabic No</td><td>4696</td></tr><tr><td>Reference</td><td>Book 65 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва сказал: «Я сказал (‘Аише): “Может правильно читать: “были отвергнуты” (кузибу)?” Она ответила: “Да упасет Аллах!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4696</td></tr><tr><td>Arabic No</td><td>4696</td></tr><tr><td>Reference</td><td>Book 65 Hadith 218</td></tr></tbody></table></div>
 

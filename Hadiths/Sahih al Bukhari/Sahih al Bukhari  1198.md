@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Kuraib Maula Ibn 'Abbas:'Abdullah bin 'Abbas said that he had passed a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Makhramah bin Sulaiman] dari [Kuraib] sahaya Ibnu 'Abbas radliallahu 'anhu bahwa dia mengabarkan dari ['Abdullah bin 'Abbas radliallahu 'anhuma] bahwa dia pada suatu malam bermalam di rumah Maimunah Ummul Mu'minin radliallahu 'anha, dia adalah bibinya, katanya: "Maka aku berbaring di sisi bantal bagian lebar, sementara Nabi shallallahu 'alaihi wasallam dan keluarganya pada bagian panjang, lantas Rasulullah shallallahu 'alaihi wasallam tidur hingga pada tengah malam kurang sedikit atau lewat sedikit, Beliau shallallahu 'alaihi wasallam bangun lalu sambil duduk Beliau mengusap (sisa) tidur pada wajahnya dengan tangannya. Kemudian membaca sepuluh ayat terakhir dari Surah Ali 'Imran. Kemudian berdiri menuju tempat wudhu' lalu Beliau berwudhu' dengan sebaik-baiknya, kemudian shalat". Berkata, Ibnu 'Abbas radliallahu 'anhu, "Maka aku pun bangun dan aku lakukan seperti yang Beliau shallallahu 'alaihi wasallam lakukan. Lalu aku menuju kepadanya dan berdiri di sampingnya. Maka Beliau meletakkan tangan kanannya di kepalaku seraya memegang telingaku hingga menggeserku ke sebelah kanannya. Kemudian Beliau shalat dua raka'at, kemudian dua raka'at, kemudian dua raka'at, kemudian dua raka'at, kemudian witir (ganjil) kemudian berbaring hingga datang kepadanya mu'adzin (mengumandangkan adzan). Maka Beliau shalat dua raka'at dengan ringan lalu keluar untuk menunaikan shalat Shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1198</td></tr><tr><td>Arabic No</td><td>1198</td></tr><tr><td>Reference</td><td>Book 21 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Аббас, да будет доволен Аллах ими обоими, рассказывал, что однажды он остался ночевать у Маймуны, матери правоверных, да будет доволен ею Аллах, которая была его тёткой со стороны матери, он сказал: «Я улёгся поперёк постели, а Посланник Аллаха ﷺ со своей женой — вдоль неё. И Посланник Аллаха ﷺ спал примерно до середины ночи, а потом проснулся, сел и начал протирать лицо, чтобы разогнать сон. Затем он прочитал десять последних аятов суры “Али ‘Имран”, подошёл к старому бурдюку, подвешенному к потолку, совершил омовение должным образом, а потом встал на молитву». \n‘Абдуллах Ибн ‘Аббас, да будет доволен Аллах им и его отцом сказал: «И я тоже поднялся, сделал всё то, что сделал он, а потом встал рядом с ним. Он же положил свою правую руку мне на голову, взял меня за ухо и слегка потрепал его. И он совершил два рак‘ата молитвы, потом ещё два, потом ещё два, потом ещё два, потом ещё два, потом ещё два. Затем он завершил молитву нечётным количеством рак‘атов. Затем он снова лёг и лежал, пока к нему не пришёл муаззин, и тогда он поднялся, совершил молитву в два лёгких рак‘ата, а потом вышел из дома и совершил утреннюю молитву (в мечети)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1198</td></tr><tr><td>Arabic No</td><td>1198</td></tr><tr><td>Reference</td><td>Book 21 Hadith 1</td></tr></tbody></table></div>
 

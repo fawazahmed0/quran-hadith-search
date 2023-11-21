@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umrah reported on the authority of her sister:I memorized Surah al-Qaf from the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] telah menceritakan kepada kami [Marwan] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Yahya bin Sa'id] dari ['Amrah] dari [saudara perempuannya] dia berkata; "Aku tidak pernah hafal surat Qaaf, kecuali dari mulut Rasulullah shallallahu 'alaihi wasallam, karena beliau membacanya setiap Jum'at." Abu Daud berkata; Demikianlah yang di riwayatkan oleh [Yahya bin Ayyub] dan [Ibnu Abu Rijal] dari [Yahya bin Sa'id] dari ['Amrah] dari [Ummu Hisyam binti Haritsah bin Nu'man]. Telah menceritakan kepada kami [Ibnu As Sarh] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yahya bin Ayyub] dari [Yahya bin Sa'id] dari ['Amrah] dari [Saudara perempuannya 'Amrah binti Abdurrahman] bahwa dirinya lebih tua daripada saudara perempuannya dan haditsnya semakna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (872)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1102</td></tr><tr><td>Arabic No</td><td>1102</td></tr><tr><td>Reference</td><td>Book 2 Hadith 713</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амра передаёт от своей сестры, да будет доволен ею Аллах: «Я научилась суре “Каф” не иначе как от Посланника Аллаха ﷺ читавшего её с минбара каждую пятницу». Абу Дауд сказал: «Так его передал Яхья ибн Айюб и Ибн Абу ар-Риджаль от Яхьи ибн Са‘ида от ‘Амры от Умм Хишам бинт Хариса ибн ан-Ну‘ман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (872)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1102</td></tr><tr><td>Arabic No</td><td>1102</td></tr><tr><td>Reference</td><td>Book 2 Hadith 713</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ata' reported from Ibn Abbas (Allah be pleased with them):Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Atha'] bahwa [Ibnu Abbas] berkata; "Nabi shallallahu 'alaihi wasallam mengutusku di waktu Sahur dari Jam' dengan membawa perbekalan beliau." Ibnu Juraij bertanya, "Apakah telah sampai kepadamu bahwa Ibnu Abbas mengatakan; Beliau mengutusku di malam yang panjang?" Atha' menjawab, "Tidak. Kecuali seperti itu, yakni di waktu sahur." Kemudian Ibnu Abbas berkata, "Kami melempar Jumrah sebelum fajar." Ibnu Juraij bertanya, "Lalu di mana beliau shalat?" Atha' menjawab, "Aku tidak tahu, kecuali redaksinya memang seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3129</td></tr><tr><td>Arabic No</td><td>1294</td></tr><tr><td>Reference</td><td>Book 15 Hadith 333</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3129</td></tr><tr><td>Arabic No</td><td>1294</td></tr><tr><td>Reference</td><td>Book 15 Hadith 333</td></tr></tbody></table></div>
 

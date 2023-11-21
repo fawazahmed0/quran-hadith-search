@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa-al-Bariqi:The Prophet (ﷺ) said, "Horses are always the source o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Khalid] telah bercerita kepada kami [Hushain] dari ['Amir] dari ['Urwah Al Bariqiy Radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: "Pada seekor kuda terikat pada ubun-ubunya kebaikan berupa pahala dan ghanimah sampai hari qiyamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3119</td></tr><tr><td>Arabic No</td><td>3119</td></tr><tr><td>Reference</td><td>Book 57 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Урвы аль-Барикый, да будет доволен им Аллах, что Пророк ﷺ сказал: «Благо /хайр/ останется в чёлках лошадей до самого Дня воскрешения, (ибо благодаря им людям достанется) награда (в мире вечном) и военная добыча (в земной жизни)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3119</td></tr><tr><td>Arabic No</td><td>3119</td></tr><tr><td>Reference</td><td>Book 57 Hadith 28</td></tr></tbody></table></div>
 

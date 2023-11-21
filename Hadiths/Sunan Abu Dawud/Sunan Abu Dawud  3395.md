@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rafi' b. Khadij:We used to employ people to till land for a share of it
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar bin Maisarah], telah menceritakan kepada kami [Khalid bin Al Harits], telah menceritakan kepada kami [Sa'id] dari [Ya'laa bin Hakim], dari [Sulaiman bin Yasar] bahwa [Rafi' bin Khadij] berkata; dahulu kami pernah melakukan mukhabarah (menyewakan tanah kepada petani dengan upah sebagian hasil bumi seperti sepertiga atau seperempat) pada masa Rasulullah shallallahu 'alaihi wasallam. kemudian ia menyebutkan bahwa [sebagian pamannya] datang kepadanya dan berkata; Rasulullah shallallahu 'alaihi wasallam telah melarang dari suatu perkara yang dahulu memberikan manfaat kepada kami sedangkan mentaati Allah dan RasulNya adalah lebih bermanfaat bagi kita. Rafi' berkata; maka kami katakan; apakah itu? Ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang memiliki tanah maka hendaknya ia menanamnya atau meminta saudaranya untuk menanamnya, dan tidak menyewakannya dengan sepertiga dan seperempat dan tidak pula dengan upah makanan tertentu." Telah menceritakan kepada kami [Muhammad bin 'Ubaid], telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub], ia berkata; [Ya'laa] menulis surat kepadaku; bahwa aku telah mendengar [Sulaiman bin Yasar], dengan makna sanad 'Ubaidullah dan haditsnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1548)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3395</td></tr><tr><td>Arabic No</td><td>3395</td></tr><tr><td>Reference</td><td>Book 23 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рафи‘ ибн Хадидж, да будет доволен им Аллах, сказал: Во времена Посланника Аллаха ﷺ мы отдавали землю на возделывание в обмен на часть урожая«. И он упомянул о том, что один из его дядей по отцу пришёл к нему и сказал: «Посланник Аллаха ﷺ запретил нечто, приносившее нам пользу, но покорность Аллаху и Его Посланнику намного полезнее для нас». Рафи‘ передаёт: «И мы спросили, что же это. Он ответил: «Посланник Аллаха ﷺ сказал: “У кого есть земля, пусть возделывает её или позволит брату своему возделывать её [не взимая с него платы], но пусть не отдаёт её никому на возделывание за треть или четверть урожая или определённое количество съестного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1548)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3395</td></tr><tr><td>Arabic No</td><td>3395</td></tr><tr><td>Reference</td><td>Book 23 Hadith 70</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Out of all the Ansar, living in Medina, Abu Talha had th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata; Telah menceritakan kepadaku [Malik] dari [Ishaq bin 'Abdullah bin Abu Thalhah] bahwasanya dia mendengar [Anas bin Malik radliallahu 'anhu] berkata; Abu Thalhah adalah orang Anshar yang paling banyak pohon kurmanya. Dan harta yang paling ia sukai dari harta miliknya adalah Bairuha' (kebun) yang berhadapan dengan masjid. Nabi shallallahu 'alaihi wasallam biasa masuk ke dalamnya untuk minum airnya yang jernih segar. ketika turun ayat: "Kamu sekali-kali tidak akan mendapatkan kebajikan (yang sempurna) sebelum kamu menafkahkan sebahagian harta yang kamu cintai. Maka Abu Thalhah berkata; "Wahai Rasulullah, sesungguhnya Allah telah berfirman: Kamu sekali-kali tidak sampai kepada kebajikan (yang sempurna), sebelum kamu menafkahkan sebahagian harta yang kamu cintai, dan harta yang paling aku sukai adalah Bairuha', maka ia sekarang adalah sedekah bagi Allah 'azza wajalla. Dan aku mengharap kebaikan dan simpanannya di sisi Allah. Wahai Rasulullah, sekarang aturlah ia sesukamu." Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Amboi, itu adalah harta yang menguntungkan, itu adalah harta yang menguntungkan! Aku telah mendengar apa yang telah kamu katakan, namun aku melihat sepertinya lebih baik itu engkau sedekahkan untuk kerabat-kerabatmu." Lalu Abu Thalhah berkata; "Wahai Rasulullah, aku akan melakukannya." Maka Abu Thalhah pun membagi-bagikan kepada kerabat dan anak-anak pamannya." ['Abdullah bin Yusuf] dan [Rauh bin 'Ubadah] berkata; 'Itulah harta yang rabih (menguntungkan). Telah menceritakan kepadaku [Yahya bin Yahya] dia berkata; Aku membaca Hadits [Malik] dengan lafazh; 'Maal Rayih.' (harta yang menguntungkan). Telah menceritakan kepada kami [Muhammad bin 'Abdullah Al Anshari] dia berkata; Telah menceritakan kepadaku [Bapakku] dari [Tsumamah] dari [Anas radliallahu 'anhu] berkata; 'Maka harta itu dibagikan kepada Hassan dan Ubay, dan akupun termasuk kerabat yang paling dekat dengannya namun dia tidak memberikannya kepadaku sedikit pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4554</td></tr><tr><td>Arabic No</td><td>4554</td></tr><tr><td>Reference</td><td>Book 65 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Из всех ансаров Абу Тальха владел в Медине наибольшим количеством финиковых пальм, а больше всего из того, что ему принадлежало, он любил находившуюся напротив мечети (рощу) Байруха, куда часто приходил Посланник Аллаха ﷺ, и где он пил хорошую воду. А после того как был ниспослан аят(, в котором говорится): “Вам никогда не обрести благочестия, если не будете вы расходовать из того, что любите…” (сура «Али Имран», аят 92), Абу Тальха встал и сказал: “О Посланник Аллаха, поистине, Всеблагой и Всевышний Аллах говорит: “Вам никогда не обрести благочестия, если не будете вы расходовать из того, что любите…”, а больше всего из принадлежащего мне я люблю Байруху, так пусть же она станет милостыней ради Аллаха, а я надеюсь, что благодаря ей обрету благочестие и сделаю себе запас у Аллаха. Используй её, о Посланник Аллаха, как укажет тебе Аллах”. Посланник Аллаха ﷺ воскликнул: “Прекрасно! Это имущество принесёт доход, обязательно принесёт! Я слышал твои слова и, поистине, я считаю, что тебе следует отдать её своим родным и близким”. Абу Тальха сказал: “Я сделаю это, о Посланник Аллаха”, а потом он разделил её между своими родственниками и сыновьями своего дяди»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4554</td></tr><tr><td>Arabic No</td><td>4554</td></tr><tr><td>Reference</td><td>Book 65 Hadith 76</td></tr></tbody></table></div>
 

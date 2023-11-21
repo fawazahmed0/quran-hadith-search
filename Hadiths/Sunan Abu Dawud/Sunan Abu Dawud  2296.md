@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Maimun bin Mihram said “I came to Median and went to Sa’id bin Al Musayyab�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus], telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Ja'far bin Burqan], telah menceritakan kepada kami [Maimun bin Mihran], ia berkata; aku datang ke Madinah, kemudian aku didorong untuk pergi kepada [Sa'id bin Al Musayyab], kemudian aku katakan; Fathimah binti Qais dicerai kemudian ia keluar dari rumahnya. Kemudian Sa'id berkata; ia adalah seorang wanita yang mengfitnah manusia, dahulu ia adalah orang yang melukai manusia dengan lisannya, kemudian ia ditempatkan di rumah Ibnu Ummi Maktum orang yang buta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2296</td></tr><tr><td>Arabic No</td><td>2296</td></tr><tr><td>Reference</td><td>Book 13 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Маймуна ибн Михрана: «Я прибыл в Медину и отправился к Са‘иду ибн аль-Мусайябу. Я сказал ему: “Фатима бинт Кайс получила (окончательный) развод и переехала из своего дома!” Са‘ид сказал: “Эта женщина смутила людей своим хадисом… Она была остра на язык и (поэтому вместо того, чтобы провести идду в доме мужа) была отправлена к слепому Ибн Умм Мактуму”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2296</td></tr><tr><td>Arabic No</td><td>2296</td></tr><tr><td>Reference</td><td>Book 13 Hadith 122</td></tr></tbody></table></div>
 

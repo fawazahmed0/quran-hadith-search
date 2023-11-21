@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) gave a decision on the basis of an oath 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Bakr Abu Mush'ab Az Zuhri] dari [Rabi'ah bin Abu Abdurrahman] dari [Suhail bin Abu Shalih] dari [Ayahnya] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam memberikan putusan dengan adanya sumpah dan satu orang saksi." Abu Daud berkata, " [Ar Rabi' bin Sulaiman Al Muadzdzin] dalam haditsnya menambahkan kepadaku, ia berkata; telah mengabarkan kepadaku [Asy Syafi'i] dari [Abdul Aziz] ia berkata, "Hal itu kemudian aku ceritakan kepada [Suhail], ia pun berkata; telah mengabarkan kepadaku [Rabi'ah] -dan ia menurutku adalah orang yang tsiqah- bahwa aku telah menceritakan hal tersebut kepadanya dan aku sudah tidak menghafalnya. Abdul Aziz berkata; Suhail telah terkena suatu penyakit yang menghilangkan sebagian ingatannya, hingga ia lupa sebagian haditsnya. Setelah itu ia menceritakan kepadanya dari Rabi'ah dari ayahnya." Telah menceritakan kepada kami [Muhammad bin Daud Al Iskandarani] telah menceritakan kepada kami [Ziyad bin Yunus] telah menceritakan kepadaku [Sulaiman bin Bilal] dari [Rabi'ah] dengan sanad Abu Mush'ab dan dengan maknanya. Sulaiman berkata, "Kemudian aku bertemu dengan Suhail dan bertanya kepadanya mengenai hadits ini, lalu ia berkata, "Aku tidak mengetahuinya." Lalu aku katakan kepadanya, "Sesungguhnya Rabi'ah telah mengabarkannya kepadaku darimu." Ia berkata, "Jika Rabi'ah pernah mengabarkan kepadamu dariku, maka ceritakan (riwayat) dari Rabi'ah dariku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3610</td></tr><tr><td>Arabic No</td><td>3610</td></tr><tr><td>Reference</td><td>Book 25 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ вынес судебное решение на основе клятвы и свидетельства одного свидетеля
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3610</td></tr><tr><td>Arabic No</td><td>3610</td></tr><tr><td>Reference</td><td>Book 25 Hadith 40</td></tr></tbody></table></div>
 

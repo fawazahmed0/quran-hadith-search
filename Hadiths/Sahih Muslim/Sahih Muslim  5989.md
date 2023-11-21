@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr said:Allah's Messenger, what about the vessels of that Cistern? He sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan [Ibnu Abu Umar Al Makki] lafazh ini milik Ibnu Abu Syaibah. [Ishaq] berkata; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Abdul Aziz bin Abdus Shamad Al 'Ammi] dari [Abu 'Imran Al Jauni] dari [Abdullah bin As Shamit] dari [Abu Dzar] dia berkata; 'Aku pernah bertanya; 'Ya Rasulullah, Apakah ada gelas-gelas di dalam telaga surga? Beliau menjawab: 'Demi Dzat yang jiwa Muhammad berada di tangan-Nya, sungguh gelas-gelasnya sebanyak bilangan bintang-bintang di langit pada malam yang gelap gulita. Itulah gelas-gelas di surga. Barang siapa yang minum air telaga tersebut, maka ia tidak akan merasa haus selamanya. Di telaga tersebut ada dua saluran air yang tersambung ke Surga. Barang siapa meminum airnya, maka ia tidak akan merasa haus. Lebarnya sama dengan panjangnya, yaitu seukuran antara Amman dan Ailah. Airnya lebih putih dari pada susu dan rasanya lebih manis dari pada manisnya madu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5989</td></tr><tr><td>Arabic No</td><td>2300</td></tr><tr><td>Reference</td><td>Book 43 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5989</td></tr><tr><td>Arabic No</td><td>2300</td></tr><tr><td>Reference</td><td>Book 43 Hadith 50</td></tr></tbody></table></div>
 

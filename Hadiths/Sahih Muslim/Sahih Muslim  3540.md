@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Marwan] dari [Yazid yaitu Ibnu Kaisan] dari [Abu Hazim] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi dzat yang jiwaku berada di Tangan-Nya, tidaklah seorang suami mengajak istrinya ke ranjang (untuk bersenggama) sedangkan dia enggan, melainkan yang ada di langit murka kepadanya sampai suaminya mema'afkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3540</td></tr><tr><td>Arabic No</td><td>1436.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Клянусь Тем, в чьей длани душа моя, если кто-либо из мужчин позовёт свою жену в постель, а она откажет ему, тот, кто пребывает на небесах, не перестанет гневаться на неё до тех пор, пока (муж снова) не будет доволен ею!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3540</td></tr><tr><td>Arabic No</td><td>1436.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 142</td></tr></tbody></table></div>
 

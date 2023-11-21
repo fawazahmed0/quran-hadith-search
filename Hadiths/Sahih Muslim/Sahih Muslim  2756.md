@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported that he (the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Abdul Malik bin Umair] dari [Muhammad bin Al Muntasyir] dari [Humaid bin Abdurrahman] dari [Abu Hurairah] radliallahu 'anhu -dan ia saya mendengar-marfu'-kannya bahwa; Rasulullah shallallahu 'alaihi wasallam pernah ditanya, "Shalat apakah yang paling utama setelah shalat Maktubah (wajib)? Dan puasa apakah yang paling utama setelah puasa Ramadlan?" maka beliau menjawab: "Seutama-utama shalat setelah shalat Maktubah (wajib) adalah shalat pada sepertiga akhir malam, dan seutama-utama puasa setelah puasa Ramadlan adalah puasa di bulan Muharram." Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Za'idah] dari [Abdul Malik bin Umair] dengan isnad ini, terkait dengan penyebutan puasa dari Nabi shallallahu 'alaihi wasallam. yakni dengan hadits yang semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2756</td></tr><tr><td>Arabic No</td><td>1163.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 262</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды у Пророка ﷺ спросили: “Какая молитва является наилучшей после предписанной, и какой пост является наилучшим, после поста месяца рамадан?”, и он сказал: “Наилучшей молитвой после предписанной, является молитва, (которая совершается) глубокой ночью, а наилучшим постом, после (поста) месяца рамадана – пост месяца Аллаха мухаррам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2756</td></tr><tr><td>Arabic No</td><td>1163.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 262</td></tr></tbody></table></div>
 

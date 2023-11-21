@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibrahim al-Taimi reported on the authority of his father:'Ali b. Abu Talib (Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Ibrahim At Taimi] dari [ayahnya] dia berkata; " [Ali bin Abi Thalib] berkhutbah, seraya mengatakan; "Barangsiapa yang mengira bahwa di sisi kami ada sesuatu yang kami baca selain Kitabullah dan lembaran ini -ayah Ibrahim berkata; saat itu lembaran tesebut menggantung di sarungnya- sungguh dia telah berdusta, di dalamnya terdapat penjelasan tentang umur-rumu unta dan hukum-hukum melukai, dan di dalamnya juga tertulis bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kota Madinah dijadikan kota Haram (suci) yaitu antara 'Air hingga Tsaur. Barangsiapa yang berbuat kejahatan padanya atau melindungi pelaku kejahatan, maka ia berhak mendapat laknat Allah, Maliakat dan seluruh manusia, tidak diterima amalan fardhu maupun amalan sunnahnya. Jaminan (perlindungan) kaum Muslimin adalah satu, di mana bisa diusahakan oleh orang yang paling rendah dari mereka sekalipun. Barangsiapa yang menisbatkan diri kepada selain ayahnya, atau kepada selain walinya, maka ia berhak mendapatkan laknat dari Allah, para Malaikat dan manusia seluruhnya, Allah tidak akan menerima amalan fardhunya maupun amalam sunnahnya kelak di Hari Kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3794</td></tr><tr><td>Arabic No</td><td>1370.04</td></tr><tr><td>Reference</td><td>Book 20 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3794</td></tr><tr><td>Arabic No</td><td>1370.04</td></tr><tr><td>Reference</td><td>Book 20 Hadith 24</td></tr></tbody></table></div>
 

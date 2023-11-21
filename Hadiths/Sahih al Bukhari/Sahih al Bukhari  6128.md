@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A bedouin urinated in the mosque, and the people rushed to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri], [Al Laits] berkata; telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku ['Ubaidullah bin Abdullah bin 'Utbah] bahwa [Abu Hurairah] telah mengabarkan kepadanya; Seorang Arab badui kencing di Masjid, maka orang-orang pun segera menuju kepadanya dan menghardiknya, kemudian Rasulullah shallallahu 'alaihi wasallam bersabda kepada mereka: "Biarkanlah dia, dan guyurlah air kencingnya dengan seember air, hanyasanya kalian diutus untuk memudahkan bukan untuk mempersulit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6128</td></tr><tr><td>Arabic No</td><td>6128</td></tr><tr><td>Reference</td><td>Book 78 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: \n— (Как-то раз, когда) один бедуин принялся мочиться (прямо) в мечети, люди поднялись (со своих мест), чтобы наброситься на него, однако Пророк ﷺ велел им: «Оставьте его и вылейте на его мочу ведро (или: …бадью) воды, ибо, поистине, посланы вы только для того, чтобы облегчать, а не для того, чтобы создавать затруднения!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6128</td></tr><tr><td>Arabic No</td><td>6128</td></tr><tr><td>Reference</td><td>Book 78 Hadith 155</td></tr></tbody></table></div>
 

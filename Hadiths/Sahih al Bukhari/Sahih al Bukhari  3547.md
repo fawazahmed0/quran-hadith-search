@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rabi'a bin Abi 'Abdur-Rahman:I heard Anas bin Malik describing the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ibnu Bukair] berkata, telah bercerita kepadaku [Al Laits] dari [Khalid] dari [Sa'id binAbu Hilal] dari [Rabi'ah bin Abu 'Abdur Rahman] berkata, aku mendengar [Anas bin Malik radliallahu 'anhu] sedang menceritakan sifat-sifat Nabi shallallahu 'alaihi wasallam, katanya; "Beliau adalah seorang laki-laki dari suatu kaum yang tidak tinggi dan juga tidak pendek. Kulitnya terang tidak terlalu putih dan tidak pula terlalu kecoklatan. Rambut beliau tidak terlalu keriting dan tidak lurus. Kepada beliau diturunkan wahyu saat usia beliau empat puluh tahun lalu menetap di Makkah selama sepuluh tahun kemudian diberikan wahyu lagi dan menetap di Madinah selama sepuluh tahun lalu beliau meninggal dunia, dan ada rambut yang beruban pada kepala dan jenggot beliau dengan tidak lebih dari dua puluh helai". Rabi'ah berkata; "Aku pernah melihat sehelai rambut dari rambut kepala beliau berwarna merah lalu kutanyakan. Maka dijawab; "Warna merah itu berasal dari minyak rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3547</td></tr><tr><td>Arabic No</td><td>3547</td></tr><tr><td>Reference</td><td>Book 61 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Пророк ﷺ был среднего роста и не был ни (слишком) высок, ни мал; у него был румянец, и не был он ни слишком белым, ни (слишком) смуглым, а волосы его были ни слишком курчавыми, ни абсолютно прямыми. Откровения начали ниспосылаться ему в возрасте сорока лет и ниспосылались в течение (тех) десяти лет, что он оставался в Мекке, (после чего) он ещё десять лет (прожил) в Медине, а когда он умер, на его голове и бороде не было и двадцати седых волос»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3547</td></tr><tr><td>Arabic No</td><td>3547</td></tr><tr><td>Reference</td><td>Book 61 Hadith 56</td></tr></tbody></table></div>
 

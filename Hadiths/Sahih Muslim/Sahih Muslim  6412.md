@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'idh b. Amr reported that Abu Sufyan came to Salman, Suhaib and Bilal in the pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim]; Telah menceritakan kepada kami [Bahz]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Mu'awiyah bin Qurrah] dari [A'idz bin'Amru] bahwa Abu Sufyan pernah mendatangi Salman, Shuhaib, dan Bilal dalam sekelompok orang sahabat. Setelah itu, mereka berkata kepada Abu Sufyan; "Demi Allah, pedang Allah tidak sampai menebas leher musuh Allah." Mendengar ucapan mereka, (Salman, Shuhaib dan Bilal) maka Abu Bakar berkata; 'Mengapa kalian berkata seperti itu kepada salah seorang tokoh dan pemimpin Quraisyy hai Salman, Shuhaib, dan Bilal. Kemudian Abu Bakar datang kepada Rasulullah shallallahu 'alaihi wasallam untuk menceritakan tentang hal itu. Tetapi, Rasulullah malah berkata: "Hai Abu Bakar, mungkin kamu sendirilah yang telah membuat mereka marah. Apabila kamu membuat mereka marah, maka berarti kamu juga telah membuat Tuhanmu marah." Lalu Abu Bakar pergi mendatangi mereka sambil bertanya; 'Hai saudara-saudaraku, apakah aku telah membuat kalian marah? ' Mereka menjawab; 'Tidak.' Semoga Allah mengampunimu hai saudaraku, Abu Bakar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6412</td></tr><tr><td>Arabic No</td><td>2504</td></tr><tr><td>Reference</td><td>Book 44 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6412</td></tr><tr><td>Arabic No</td><td>2504</td></tr><tr><td>Reference</td><td>Book 44 Hadith 242</td></tr></tbody></table></div>
 

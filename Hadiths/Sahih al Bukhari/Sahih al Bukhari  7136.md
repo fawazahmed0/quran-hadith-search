@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "A hole has been opened in the dam 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ibnu Thawus] dari [ayahnya] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Benteng ya'juj dan ma'juj dibuka seperti ini." Wuhaib mengilustrasikan jarinya dengan membentuk sembilan puluh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7136</td></tr><tr><td>Arabic No</td><td>7136</td></tr><tr><td>Reference</td><td>Book 92 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Сегодня в стене Яджуджа и Маджуджа было проделано вот такое отверстие!» Тут (передатчик хадиса) Вухайб (ибн Халид) соединил пальцы в форме числа девяносто
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7136</td></tr><tr><td>Arabic No</td><td>7136</td></tr><tr><td>Reference</td><td>Book 92 Hadith 83</td></tr></tbody></table></div>
 

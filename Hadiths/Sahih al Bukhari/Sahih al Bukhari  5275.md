@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The wife of Thabit bin Qais came to Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq Al Wasithi] Telah menceritakan kepada kami [Khalid] dari [Khalid Al Hadzdza'] dari [Ikrimah] bahwa saudara perempuan Abdullah bin Ubay dengan ini beliau berkata, "Kembalikanlah kebun miliknya." Ia berkata, "Ya." Lalu ia pun mengembalikannya, dan beliau memerintahkan agar menceraikannya. Dan Telah berkata [Ibrahim bin Thahman] dari [Khalid] dari [Ikrimah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Dan ceraikanlah ia." Dan dari [Ayyub bin Abu Tamimah] dari [Ikrimah] dari [Ibnu Abbas] bahwa ia berkata; Isteri Tsabit datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, sesungguhnya aku tidak mencela Tsabit atas agama atau pun akhlaknya. Akan tetapi, aku tak kuasa untuk hidup bersamanya." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau begitu, kembalikanlah kebun miliknya." Ia menjawab, "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5275</td></tr><tr><td>Arabic No</td><td>5275</td></tr><tr><td>Reference</td><td>Book 68 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Аббас сказал: «Однажды жена Сабита ибн Кайса пришла к Посланнику Аллаха ﷺ и сказала: “О Посланник Аллаха, я не упрекаю Сабита в недостатке религиозности или благонравия, однако я не выношу его”. А Посланник Аллаха ﷺ спросил: “Вернёшь ли ты ему его сад?” Она ответила: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5275</td></tr><tr><td>Arabic No</td><td>5275</td></tr><tr><td>Reference</td><td>Book 68 Hadith 24</td></tr></tbody></table></div>
 

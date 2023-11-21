@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ka’b b. Malik said:The Prophet (ﷺ) used to eat with three fingers and not wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Hisyam bin 'Urwah] dari [Abdurrahman bin Sa'dan] dari [Ibnu Ka'b bin Malik] dari [Ayahnya] bahwa Nabi shallallahu 'alaihi wasallam makan menggunakan tiga jari, dan tidak mengusap tangannya hingga beliau menjilatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3848</td></tr><tr><td>Arabic No</td><td>3848</td></tr><tr><td>Reference</td><td>Book 28 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сын Ка‘ба ибн Малика передаёт от своего отца, что Пророк ﷺ ел тремя пальцами и не вытирал руку, пока не облизывал пальцы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3848</td></tr><tr><td>Arabic No</td><td>3848</td></tr><tr><td>Reference</td><td>Book 28 Hadith 113</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:'Ali bin Abu Talib came out of the house of the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Bisyr bin Syu'aib] telah menceritakan kepadaku [Ayahku] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Abdullah bin Ka'b] bahwa [Abdullah bin Abbas] telah mengabarkan kepadanya, bahwa [Ali yaitu Ibnu Abu Thalib] pergi dari sisi Nabi shallallahu 'alaihi wasallam. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami ['Anbasah] telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Abdullah bin Ka'b bin Malik] bahwa [Abdullah bin Abbas] telah mengabarkan kepadanya; bahwa [Ali bin Abu Thalib] radliallahu 'anhu keluar dari sisi Nabi shallallahu 'alaihi wasallam disaat beliau sakit yang menyebabkan beliau meninggal, maka orang-orang bertanya; "Wahai Abu Hasan, bagaimana keadaan Rasulullah shallallahu 'alaihi wasallam?" Ia menjawab; "Alhamdulillah beliau sudah agak baikan." Lalu Abbas memegang tangannya dan berkata; "Demi Allah, tidakkah engkau lihat? Sesungguhnya aku mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam akan wafat karena sakitnya ini. Sesungguhnya aku juga mengetahui wajah bani Abdul Muththalib ketika menghadapi kematiannya. Mari kita menemui Rasulullah shallallahu 'alaihi wasallam, lalu kita tanyakan kepada siapa perkara (kepemimpinan) ini akan diserahkan? Jika kepada (orang) kita, maka kita mengetahuinya dan jika (diserahkan) kepada selain kita maka kita akan menyuruh beliau supaya mewasiatkannya pada kita." Lalu Ali radliallahu 'anhu berkata; "Demi Allah, bila kita memohonnya kepada Rasulullah shallallahu 'alaihi wasallam lalu beliau menolak, maka selamanya orang-orang tidak akan memberikannya kepada kita. Karena itu, aku tidak akan pernah menanyakan kepada Rasulullah shallallahu 'alaihi wasallam selamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6266</td></tr><tr><td>Arabic No</td><td>6266</td></tr><tr><td>Reference</td><td>Book 79 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «После того как ‘Али бин Абу Талиб, да будет доволен им Аллах, вышел от Посланника Аллаха ﷺ болевшего той болезнью, от которой он умер, люди спросили: “О Абу-ль-Хасан, как чувствует себя этим утром Посланник Аллаха ﷺ?” Он ответил: “Хвала Аллаху, сегодня утром он поправился!” Тогда ‘Аббас бин ‘Абд аль-Мутталиб взял его за руку и сказал: “Клянусь Аллахом, через три (дня) ты будешь подчиняться уже другому, и, клянусь Аллахом, я думаю, что Посланник Аллаха ﷺ умрет от этой своей болезни, ибо я знаю, какими бывают лица потомков ‘Абд аль-Мутталиба перед смертью! Пойдем же к Посланнику Аллаха ﷺ и спросим, кому достанется власть (после него). Если она будет принадлежать нам, мы узнаем об этом, и если она будет принадлежать другим, мы тоже узнаем об этом, а (Пророк ﷺ) сделает распоряжения о нас”. (На это) ‘Али сказал: “Клянусь Аллахом, если мы попросим (халифат) у Посланника Аллаха ﷺ, а он откажет нам, то после его (смерти) люди уже не отдадут его нам! И, клянусь Аллахом, я не стану просить об этом Посланника Аллаха ﷺ!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6266</td></tr><tr><td>Arabic No</td><td>6266</td></tr><tr><td>Reference</td><td>Book 79 Hadith 40</td></tr></tbody></table></div>
 

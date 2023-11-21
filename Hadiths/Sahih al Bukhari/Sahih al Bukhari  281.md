@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:I screened the Prophet (ﷺ) while he was taking a bath of Jana
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Salim bin Abu Al Ja'd] dari [Kuraib] dari [Ibnu 'Abbas] dari [Maimunah] ia berkata, "Aku menutupi Nabi shallallahu 'alaihi wasallam saat beliau sedang mandi junub. Beliau mencuci kedua tangannya, lalu dengan tangan kanannya beliau menuangkan air pada tangan kirinya, lalu mencuci kemaluannya dan apa yang terkena (mani). Beliau kemudian menggosokkan tangannya ke dinding atau tanah. Kemudian berwudlu sebagaimana wudlu untuk shalat kecuali kedua kakinya. Kemudian beliau mengguyurkan air ke seluruh badannya. Kemudian menyudahi dengan mencuci kedua kakinya." Hadits ini dikuatkan oleh [Abu 'Awanah] dan [Ibnu Fudlail] dalam masalah tabir (penutup)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>281</td></tr><tr><td>Arabic No</td><td>281</td></tr><tr><td>Reference</td><td>Book 5 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса о том, что (жена Пророка ﷺ) Маймуна, да будет доволен ею Аллах, сказала: «(Однажды) я прикрывала Пророка ﷺ когда он совершал большое омовение из-за полового осквернения, и он помыл свои руки. Затем он налил (воду) правой рукой на левую и помыл свои половые органы и (смыл) то, что было на них. После этого он потёр рукой о стену или землю, и затем совершил такое же омовение, которое он совершал для молитвы, исключая (то, что он) не (помыл) ноги. После этого он налил воду на своё тело и затем отошёл в сторону и помыл ноги»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>281</td></tr><tr><td>Arabic No</td><td>281</td></tr><tr><td>Reference</td><td>Book 5 Hadith 33</td></tr></tbody></table></div>
 

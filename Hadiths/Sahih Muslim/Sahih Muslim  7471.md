@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mahmud b. Labid reported that 'Uthman b. 'Affan decided to rebuild the mosque (o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] keduanya dari [Adh Dhahhak] berkata [Ibnu Al Mutsanna]: telah menceritakan kepada kami [Adh Dhahhak bin Makhald] telah mengkhabarkan kepada kami [Abdulhamid bin Ja'far] telah menceritakan kepadaku [ayahku] dari [Mahmud bin Labid] bahwa [Utsman bin Affan] hendak membangun masjid tapi orang-orang tidak menyukainya, mereka ingin masjid tetap seperti kondisinya. Lalu ia berkata: Aku pernah mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Barangsiapa membangun masjid maka Allah akan membangunkan sepertinya di surga." Telah menceritakannya kepada kami [Ishaq bin Ibrahim Al Hadzhali] telah menceritakan kepada kami [Abu Bakr Al Hanafi] dan [Abdulmalik bin Ash Shabbah] keduanya dari [Abdulhamid bin Ja'far] dengan sanad ini, hanya saja dalam hadits keduanya disebutkan: "Allah akan membangunkan rumah untuknya disurga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7471</td></tr><tr><td>Arabic No</td><td>533.04</td></tr><tr><td>Reference</td><td>Book 55 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7471</td></tr><tr><td>Arabic No</td><td>533.04</td></tr><tr><td>Reference</td><td>Book 55 Hadith 54</td></tr></tbody></table></div>
 

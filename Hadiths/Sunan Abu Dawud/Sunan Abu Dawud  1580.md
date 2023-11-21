@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Suwaid bin Ghaflah reported The collector of the Prophet (ﷺ) came to us. I cau
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Ash Shabbah Al Bazzar], telah menceritakan kepada Kami [Syarik] dari [Utsman bin Abu Zur'ah] dari [Abu Laila Al Kindi] dari [Suwaid bin Ghafalah], ia berkata; [petugas zakat Nabi shallallahu 'alaihi wasallam] telah datang kepada Kami, kemudian aku gandeng tangannya dan aku membaca isi catatannya: Tidak boleh digabungkan antara hewan yang terpisah, dan tidak boleh dipisahkan antara hilang yang digabungkan karena khawatir wajib zakat. Dan ia tidak menyebutkan; hewan yang menetek susu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1580</td></tr><tr><td>Arabic No</td><td>1580</td></tr><tr><td>Reference</td><td>Book 9 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сувайд ибн Гафаля, да будет доволен им Аллах, передаёт: «К нам пришёл сборщик закята, назначенный Пророком ﷺ и я взял его за руку и прочитал в его грамоте: “И люди не должны объединять свои стада и, напротив, разделять их из опасения, что с них придётся выплачивать закят”». И он не упоминал дающее молоко
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1580</td></tr><tr><td>Arabic No</td><td>1580</td></tr><tr><td>Reference</td><td>Book 9 Hadith 25</td></tr></tbody></table></div>
 

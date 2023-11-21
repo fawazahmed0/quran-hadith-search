@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mughaffal:While we were besieging the fort of Khaibar, a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] dari [Humaid bin Hilal] dari ['Abdullah bin Mughaffal radliallahu 'anhu] berkata; "Ketika kami sedang mengepung benteng Khaibar, ada seseorang yang melempar wadah kulit berisi lemak maka aku melompat untuk mengambilnya. Lalu aku melirik ternyata ada Nabi Shallallahu'alaihiwasallam sehingga aku jadi malu kepada Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3153</td></tr><tr><td>Arabic No</td><td>3153</td></tr><tr><td>Reference</td><td>Book 57 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мугаффаль, да будет доволен им Аллах, сказал: «Когда мы осаждали крепость Хайбара, один человек бросил кожаный мешок, в котором был жир. Я побежал, чтобы взять его, но когда обернулся, то увидел Пророка ﷺ (стоящего сзади), и я постеснялся его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3153</td></tr><tr><td>Arabic No</td><td>3153</td></tr><tr><td>Reference</td><td>Book 57 Hadith 61</td></tr></tbody></table></div>
 

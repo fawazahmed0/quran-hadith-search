@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Musa reported the Messenger of Allah (May peace be upon him) as saying:Make 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Sufyan] dari [Buraid bin Abu Burdah] dari [Bapaknya] dari [Abu Musa] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Mintalah syafaat kepadaku, niscaya kalian akan mendapat pahala. Dan Allah akan menetapkan apa saja yang dikehendaki-Nya melalui lisan Nabi-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6027) Sahih Muslim (2627)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5131</td></tr><tr><td>Arabic No</td><td>5131</td></tr><tr><td>Reference</td><td>Book 43 Hadith 359</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, что Посланник Аллаха ﷺ говорил: «Ходатайствуйте (за просящих) и вы получите награду, а Аллах объявит об угодном Ему решении через Своего пророка»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6027) Sahih Muslim (2627)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5131</td></tr><tr><td>Arabic No</td><td>5131</td></tr><tr><td>Reference</td><td>Book 43 Hadith 359</td></tr></tbody></table></div>
 

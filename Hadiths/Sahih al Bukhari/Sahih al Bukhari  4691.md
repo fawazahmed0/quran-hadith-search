@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Ruman:Who was 'Aisha's mother: While I was with 'Aisha, 'Aisha got f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] Telah menceritakan kepada kami [Abu 'Awanah] dari [Hushain] dari [Abu Wail] dia berkata; Telah menceritakan kepadaku [Masruq bin Al Ajda'] dia berkata; Telah menceritakan kepadaku [Ummu Rumman] yaitu Ummu 'Aisyah dia berkata; ketika kami bersama Aisyah yang sedang menderita demam, Nabi shallallahu 'alaihi wasallam berkata; semoga ada wahyu yang mengabarkan tentang Aisyah. Ummu Ruman berkata; 'Ya.' Lalu Aisyah duduk seraya berkata; perumpamaanku dengan kalian adalah seperti perkataannya Ya'qub kepada putra-putranya: "Sebenarnya dirimu sendirilah yang memandang baik perbuatan (yang buruk) itu; maka kesabaran yang baik itulah (kesabaranku). Dan Allah sajalah yang dimohon pertolongan-Nya terhadap apa yang kamu ceritakan." (Yusuf:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4691</td></tr><tr><td>Arabic No</td><td>4691</td></tr><tr><td>Reference</td><td>Book 65 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Руман, мать ‘Аиши сказала: «Когда я находилась с ‘Аишей, у неё началась лихорадка. Пророк ﷺ сказал: “Возможно (лихорадка началась) из-за слухов, которые рассказываются”. Я ответила: “Да”. Затем ‘Аиша села и сказала: “Я и вы подобны Я‘кубу и его сыновьям (сказавшему): “Да, украсили вам ваши души некое дело, но — терпение прекрасно, и (лишь) к Аллаху (должно) обращаться за помощью от того, что вы утверждаете!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4691</td></tr><tr><td>Arabic No</td><td>4691</td></tr><tr><td>Reference</td><td>Book 65 Hadith 213</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (p.b.u.h) used to Nahr or slaughter sacrifices at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah menceritakan kepada kami [Al Laits] berkata, telah menceritakan kepadaku [Katsir bin Farqad] dari [Nafi'] dari [Ibnu 'Umar], bahwa Nabi shallallahu 'alaihi wasallam biasa berkurban atau menyembelih hewan kurban di tempat shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>982</td></tr><tr><td>Arabic No</td><td>982</td></tr><tr><td>Reference</td><td>Book 13 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что (в день праздника) Пророк ﷺ обычно приносил в жертву верблюдов (или: жертвенных животных) на месте намаза
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>982</td></tr><tr><td>Arabic No</td><td>982</td></tr><tr><td>Reference</td><td>Book 13 Hadith 31</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad:Um 'Atiyya said: "Our Prophet ordered us to come out (on 'Id d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] berkata, [Hammad bin Zaid] dari [Ayyub] dari [Muhammad] dari [Ummu 'Athiyyah] berkata, "Nabi kami shallallahu 'alaihi wasallam memerintahkan kami untuk mengeluarkan para gadis remaja kami dan wanita-wanita yang dipingit di rumah." Dan dari [Ayyub] dari [Hafshah] seperti riwayat ini juga. Dalam hadits Hafshah ditambahkan, beliau bersabda. Atau Ummu 'Athiyyah berkata, "Para gadis remaja kami dan wanita-wanita yang dipingit di rumah, dan wanita-wanita hadi menjauhi tempat shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>974</td></tr><tr><td>Reference</td><td>Book 13 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа сказала: «Пророк ﷺ приказывал нам выводить совершеннолетних девушек и девственниц, сидящих за занавесками». И Аюб передал от Хафсы подобное этому сообщение, но добавил в хадисе Хафсы, что она сказала: «...Совершеннолетних девушек и девственниц, сидящих за занавесками, а женщины, у которых началась менструация, должны были сторониться места совершения праздничной молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>974</td></tr><tr><td>Reference</td><td>Book 13 Hadith 23</td></tr></tbody></table></div>
 

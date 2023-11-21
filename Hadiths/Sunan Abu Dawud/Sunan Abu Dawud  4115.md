@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: The Prophet (ﷺ) came to visit her when s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] berkata, telah menceritakan kepada kami ['Abdurrahman]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sufyan] dari [Habib bin Abu Tsabit] dari [Wahb] -mantan budak (yang telah dimerdekakan oleh) Abu Ahmad- dari [Ummu Salamah] Bahwasanya Nabi shallallahu 'alaihi wasallam pernah masuk menemuinya, sementara ia sedang mengenakan kerudung. Maka beliau bersabda: "Lilitkanlah sekali saja, jangan dua kali lilitan." Abu Dawud berkata; "Makna sabda Nabi, 'Lilitkanlah sekali saja, jangan dua kali lilitan' adalah janganlah engkau seperti lelaki memakai imamah (surban yang dililitkan pada kepala), jangan engkau ulangi berkali-kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4115</td></tr><tr><td>Arabic No</td><td>4115</td></tr><tr><td>Reference</td><td>Book 34 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Умм Салямы, да будет доволен ею Аллах, что Пророк ﷺ зашёл к ней, когда она надевала покрывало, и сказал: «В один оборот, не в два». Абу Дауд сказал: «Смысл его слов: “В один оборот, не в два” таков: не надевай покрывало так, как мужчины надевают чалму, то есть не делай лишний оборот или два»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4115</td></tr><tr><td>Arabic No</td><td>4115</td></tr><tr><td>Reference</td><td>Book 34 Hadith 96</td></tr></tbody></table></div>
 

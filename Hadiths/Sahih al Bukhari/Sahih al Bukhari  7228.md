@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If I had gold equal to the mountai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Hammam] ia mendengar [Abu Hurairah] dari Nabi Shallallahu'alaihiwasallam, beliau bersabda; "Sekiranya aku mempunyai emas sebesar gunung Uhud, sungguh aku pun tetap berkeinginan untuk tidak mempunyai tiga dinar padahal aku masih mempunyai satu dinar, itupun tak ada alasan bagiku untuk mencarinya selain karena ada hutang yang harus kubayar, yang kuharap ada orang menerima pembayaran hutangku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7228</td></tr><tr><td>Arabic No</td><td>7228</td></tr><tr><td>Reference</td><td>Book 94 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Если бы у меня было золото величиной с гору Ухуд и я нашёл бы нуждающихся в нём, то я был бы рад, если через три дня не осталось у меня от этого золота даже одного динара, кроме того, что я приберёг бы для уплаты долга»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7228</td></tr><tr><td>Arabic No</td><td>7228</td></tr><tr><td>Reference</td><td>Book 94 Hadith 3</td></tr></tbody></table></div>
 

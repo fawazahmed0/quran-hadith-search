@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:'Umar said "O Allah's Messenger (ﷺ)! I vowed to perform I't
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil Abul Hasan] telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami ['Ubaidullah bin Umar] dari [Nafi'] dari [Ibnu Umar], bahwasanya [Umar] mengatakan; 'wahai Rasulullah, saya bernadzar semasa jahiliyah untuk beri'tikaf dimasjidil haram! ' Nabi shallallahu 'alaihi wasallam bersabda: "penuhi nadzarmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6697</td></tr><tr><td>Arabic No</td><td>6697</td></tr><tr><td>Reference</td><td>Book 83 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар (ибн аль-Хаттаб), да будет доволен им Аллах, сказал: «О Посланник Аллаха! Поистине, во времена невежества я дал обет уединиться в течение одной ночи в Заповедной мечети». Он сказал: «Исполни свой обет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6697</td></tr><tr><td>Arabic No</td><td>6697</td></tr><tr><td>Reference</td><td>Book 83 Hadith 74</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sahl b. Hunaif reported:The Messenger of Allah (ﷺ) said: If anyone asks Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Yazid bin Khalid Ar Ramli], telah menceritakan kepada Kami [Ibnu Wahb], telah menceritakan kepada Kami [Abdurrahman bin Syuraih] dari [Abu Umamah bin Sahl bin Hunaif] dari [ayahnya], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang memohon kepada Allah agar meninggal dalam keadaan syahid dengan jujur, maka Allah akan menyampaikannya kepada derajat para syuhada walaupun dia mati diatas tempat tidurnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1909)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 8 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Сахля ибн Хунайфа, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Того, кто искренне попросит Аллаха дать ему возможность погибнуть мучеником, Аллах возвысит до положения мучеников, даже если этот человек умрёт в своей постели»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1909)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 8 Hadith 105</td></tr></tbody></table></div>
 

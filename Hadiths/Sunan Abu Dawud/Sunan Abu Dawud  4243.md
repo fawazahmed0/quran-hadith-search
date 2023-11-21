@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hudhayfah ibn al-Yaman: I swear by Allah, I do not know whether my comp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Ibnu Abu Maryam] berkata, telah mengabarkan kepada kami [Ibnu Farrukh] berkata, telah mengabarkan kepadaku [Usamah bin Zaid] berkata, telah mengabarkan kepadaku [Ibnu Qabishah bin Dzuaib] dari [Bapaknya] ia berkata; [Hudzaifah bin Yaman] berkata, "Demi Allah, aku tidak tahu apakah para sahabatku lupa atau pura-pura lupa. Demi Allah, Rasulullah shallallahu 'alaihi wasallam tidak pernah meninggalkan penyeru fitnah hingga berakhirnya masa kehidupan dunia, yang jumlahlah lebih dari tiga ratus orang kecuali beliau menyebutkan kepada kami akan namanya, nama bapak dan kabilahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>4243</td></tr><tr><td>Reference</td><td>Book 37 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен им Аллах, передаёт: «Мы сидели у Посланника Аллаха ﷺ разговаривая о грядущих смутах и испытаниях. И он упомянул о многих из них, а когда дошёл до “смуты попон”, один человек спросил: “О Посланник Аллаха, а что такое ‹смута попон›?” Он ответил: “Это бегство и погибель. А после неё будет ‹смута благоденствия›. Выйдет она из-под ног человека из моей семьи подобно дыму. Он станет утверждать, что он от меня, но на самом деле он не имеет ко мне отношения, ибо мои близкие только богобоязненные. Потом люди помирятся и совместно изберут (в качестве правителя) человека, который на самом деле будет столь же неподходящим для них, как не подходит бедро к ребру. Затем будет ‹чёрная смута›, и она не обойдёт стороной никого из этой общины (эта смута коснётся каждого и причинит вред каждому), и когда скажут, что она прекратилась, она продолжится дальше. И во время неё будет человек просыпаться верующим, а засыпать уже неверующим. И разделятся люди на два лагеря лагерь, в котором только верующие и нет лицемеров, и лагерь, в котором только лицемеры и нет верующих. И когда это произойдёт, ждите, что сегодня-завтра появится Даджжаль”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>4243</td></tr><tr><td>Reference</td><td>Book 37 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:The Messenger of Allah (ﷺ) kept silence between the takbir a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Syu'aib] telah menceritakan kepada kami [Muhammad bin Fudlail] dari ['Umarah]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Abdul Wahid] dari ['Umarah] sedangkan ma'na haditsnya dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam mengucapkan takbir dalam shalat, maka beliau akan diam sejenak antara takbir dan qira'ah (membaca surat Al Fatihah), maka kataku kepadanya; "Demi ayah dan ibuku sebagai tebusanmu, beritahukanlah kepadaku, apa yang anda baca sewaktu anda diam antara takbir dan membaca Al Fatihah?" beiau menjawab: "ALLAHUMMA BAA'ID BAINI WA BAINA KHATHAAYAYA KAMAA BAA'ATTA BAINAL MASYRIQI WAL MAGHRIB, ALLAHUMMA ANQINII MIN KHATHAAYAAYA KATSSAUBIL ABYADLI MINAD DANAS, ALLAHUMMAGH SILNII BIS TSALJI WAL MAA'I WAL BARAD (Ya Allah, jauhkanlah antara aku dengan dosa-dosaku, sebagaimana Engkau jauhkan jarak antara timur dan barat, ya Allah bersihkanlah kesalahan-kesalahanku sebagaimana bersihnya kain putih dari kotoran, ya Allah cucilah diriku dengan salju, air dan embun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (744) Sahih Muslim (598)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>781</td></tr><tr><td>Arabic No</td><td>781</td></tr><tr><td>Reference</td><td>Book 2 Hadith 391</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: Обычно, когда Посланник Аллаха ﷺ (приступая к молитве) произносил слова «Аллаху акбар», он умолкал между этим такбиром и (началом) чтения (суры «аль-Фатиха». Однажды) я сказал ему: «Да станут мои родители выкупом за тебя! Ты молчишь между такбиром и чтением (“аль-Фатихи”), так расскажи мне, что ты говоришь (в это время шёпотом?)» Он ответил: «(Я говорю): “О Аллах, удали меня от прегрешений моих, как удалил Ты восток от запада! О Аллах, очисти меня от прегрешений моих, как (очищают) белую одежду от грязи! О Аллах, омой меня снегом, водой и градом!” /Аллахумма, ба‘ид байни ва байна хатайайа, кама ба‘адта байналь-машрикъи ва-ль-магъриб. Аллахумма, анкъини мин хатайайа, ка-с-сауби-ль-абйади мин-ад-данаси. Аллахумма-гъсильни би-с-сальджи, ва-ль-маи, ва-ль-баради!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (744) Sahih Muslim (598)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>781</td></tr><tr><td>Arabic No</td><td>781</td></tr><tr><td>Reference</td><td>Book 2 Hadith 391</td></tr></tbody></table></div>
 

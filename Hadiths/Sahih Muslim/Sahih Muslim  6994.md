@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Mas'ud reported that Allah's Messenger (ﷺ) said:None loves one's o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ishaq bin Ibrahim], Ishaq berkata; telah mengabarkan kepada kami, dan berkata yang lain; telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Malik bin Al Harits] dari ['Abdurrahman bin Yazid] dari ['Abdullah bin Mas'ud] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; 'Tidak ada seorang pun di dunia ini yang melebihi kesukaan Allah Subhanahu Wa Ta'ala terhadap pujian. Oleh karena itu, dia memuji diri-Nya sendiri. Tidak ada seorang pun yang melebihi kecemburuan Allah. Oleh karena itu, dia mengharamkan keburukan. Dan tidak ada seorang pun yang melebihi kesukaan Allah Azza wa Jalla terhadap pembebasan dosa. Oleh karena itu, Dia menurunkan kitab suci dan mengutus para rasul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6994</td></tr><tr><td>Arabic No</td><td>2760.04</td></tr><tr><td>Reference</td><td>Book 50 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6994</td></tr><tr><td>Arabic No</td><td>2760.04</td></tr><tr><td>Reference</td><td>Book 50 Hadith 40</td></tr></tbody></table></div>
 

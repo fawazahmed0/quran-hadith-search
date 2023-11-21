@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr. b. al-'As reported that some persons from Banu Hisham entered 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf]; Telah menceritakan kepada kami ['Abdullah bin Wahb]; Telah mengabarkan kepadaku ['Amru]; Demikian juga diriwayatkan dari jalur yang lain; Dan Telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami ['Abdullah bin Wahb] dari ['Amru bin Al Harits], [Bakr bin Sawadah]; Telah menceritakan kepadanya; ['Abdur Rahman bin Jubair]; Telah menceritakan kepadanya; ['Abdullah bin 'Amru bin Al 'Ash]; Telah menceritakan kapadanya bahwa beberapa orang Bani Hisyam datang ke rumah Asma' binti 'Umais, isteri Abu Bakar Shiddiq (ketika Abu Bakar sedang tidak di rumah). Tiba-tiba Abu Bakar pulang dan bertemu dengan mereka. Abu Bakar merasa kurang senang atas kedatangan mereka yang demikian. Lalu diceritakannya hal itu kepada Rasulullah shallallahu 'alaihi wasallam. Jawab beliau: "Aku tidak melihat sesuatu yang buruk atas kedatangan mereka. Sesungguhnya Allah Subhanahu Wa Ta'ala telah menyucikan Asma' binti 'Umais dari hal-hal yang demikian." Kemudian beliau naik mimbar, lalu beliau bersabda: 'Sesudah hari ini, seorang laki-laki tidak boleh masuk ke rumah seorang wanita yang suaminya sedang pergi, kecuali bila laki-laki itu disertai seorang atau dua orang teman laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5677</td></tr><tr><td>Arabic No</td><td>2173</td></tr><tr><td>Reference</td><td>Book 39 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5677</td></tr><tr><td>Arabic No</td><td>2173</td></tr><tr><td>Reference</td><td>Book 39 Hadith 31</td></tr></tbody></table></div>
 

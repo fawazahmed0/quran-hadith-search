@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported by Miqdam b. Shuraih b. Hani with the same chain o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari [Al Miqdam] yaitu Ibnu Syuraih bin Hani dari [Bapaknya] dari ['Aisyah] istri Nabi shallallahu 'alaihi wasallam dari Nabi shallallahu 'alaihi wasallam beliau telah bersabda: "Sesungguhnya kasih sayang itu tidak akan berada pada sesuatu melainkan ia akan menghiasinya (dengan kebaikan). Sebaliknya, jika kasih sayang itu dicabut dari sesuatu, melainkan ia akan membuatnya menjadi buruk." Telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] aku mendengar [Al Miqdam bin Syuraih bin Hani] melalui jalur ini. Namun di dalam Haditsnya ada tambahan; Suatu ketika Aisyah menaiki seekor unta, namun dia merasa kesulitan hingga dia menarik-narik unta itu. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: 'Hendaklah kamu berbuat lembut kepadanya, --lalu perawi menyebutkan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6603</td></tr><tr><td>Arabic No</td><td>2594.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6603</td></tr><tr><td>Arabic No</td><td>2594.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 101</td></tr></tbody></table></div>
 

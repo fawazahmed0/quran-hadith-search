@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (que Dieu l'agrée) a dit : Mon oncle dont je pris le nom n'avait pas pris 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Sulaiman bin Al Mughirah] dari [Tsabit] dia berkata; [Anas] berkata, "Bahwa pamanku yang bernama seperti namaku tidak ikut perang bersama Rasulullah shallallahu 'alaihi wasallam ketika perang Badr." Anas berkata, "Dengan perasaan menyesal dia berkata, "Saya tidak hadir disaat pertempuran pertama kali yang diikuti Rasulullah shallallahu 'alaihi wasallam, jika Allah masih memberikan kesempatan kepadaku untuk berjuang bersama Rasulullah shallallahu 'alaihi wasallam setelah itu, sungguh Allah akan melihat apa yang akan saya perbuat." -sepertinya dia akan mengucapkan sesuatu selainnya- Anas berkata, "Kemudian dia ikut serta bersama Rasulullah shallallahu 'alaihi wasallam pada perang uhud." Anas melanjutkan, "Ketika Sa'ad bin Mu'adz menghampirinya, Anas bertanya kepadanya, 'Wahai Abu Amru, mau kemana anda? ' dia menjawab, 'Harumnya surga sudah aku cium dibalik gunung uhud." Anas bin Malik melanjutkan, "Kemudian dia (pamanku) memerangi mereka (musuh) hingga terbunuh." Anas bin Malik berkata, "Pada sekujur tubuhnya didapati delapan puluh lebih luka bekas sabetan pedang, tikaman tombak dan hujaman anak panah." Anas berkata, "Maka saudara perempuannya -yaitu bibiku yang bernama Rubayi' binti An Nadlr- berkata, 'Saya tidak mengenali saudara laki-laki saya kecuali lewat jari jemarinya.' Kemudian turunlah ayat: '(Di antara orang-orang mukmin itu ada orang-orang yang menepati apa yang telah mereka janjikan kepada Allah; Maka di antara mereka ada yang gugur. dan di antara mereka ada (pula) yang menunggu- nunggu dan mereka tidak merubah (janjinya) '. (Qs. Al Ahzaab: 23). Anas berkata, "Menurut mereka bahwa ayat tersebut turun berkenaan dengan dia dan para sahabat beliau yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4918</td></tr><tr><td>Arabic No</td><td>1903</td></tr><tr><td>Reference</td><td>Book 33 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4918</td></tr><tr><td>Arabic No</td><td>1903</td></tr><tr><td>Reference</td><td>Book 33 Hadith 213</td></tr></tbody></table></div>
 

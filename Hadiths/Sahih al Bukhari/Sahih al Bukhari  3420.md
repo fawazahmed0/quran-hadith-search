@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:Allah's Messenger (ﷺ) said to me, "The most belove
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Sufyan] dari ['Amru bin Dinar] dari ['Amru bin Aus ast-Tasaqafiy] dia mendengar ['Abdullah bin 'Amru] berkata; Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Puasa yang paling Allah cintai adalah puasa Nabi Daud 'Alaihissalam, yaitu dia berpuasa satu hari dan berbuka satu hari dan shalat yang paling Allah sukai adalah shalatnya Nabi Daud 'Alaihissalam pula, yaitu dia tidur hingga pertengahan malam lalu bangun mendirikan shalat pada sepertiga malam dan tidur lagi di akhir seperenam malamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3420</td></tr><tr><td>Arabic No</td><td>3420</td></tr><tr><td>Reference</td><td>Book 60 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Амра, что однажды Посланник Аллаха ﷺ сказал ему: «Самым любимым постом для Аллаха является пост Дауда, который постился через день. И самой любимой молитвой для Аллаха является молитва Дауда, который спал половину ночи, (потом) совершал молитву треть её, а (потом) спал шестую часть ночи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3420</td></tr><tr><td>Arabic No</td><td>3420</td></tr><tr><td>Reference</td><td>Book 60 Hadith 92</td></tr></tbody></table></div>
 

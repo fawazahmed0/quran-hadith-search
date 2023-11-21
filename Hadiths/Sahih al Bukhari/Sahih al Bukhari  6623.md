@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:I went to the Prophet (ﷺ) along with a group of Al-Ash'ariyi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ghailan bin Jarir] dari [Abu Burdah] dari [ayahnya] menuturkan; aku pernah mendatangi Nabi shallallahu 'alaihi wasallam di tengah-tengah rombongan orang-orang asy'ari, saya meminta agar bisa membawa kami. Tapi Nabi mengatakan: "demi Allah kami tidak bisa mengikut sertakan kalian dan kami tidak mempunyai kendaraan untuk mengangkut kalian." Dia melanjutkan; maka kami pun tinggal sekehendak Allah, dan kami diberi tiga unta yang punggungnya putih, sehingga beliau bisa mengangkut kami dengan unta-unta itu. Tatkala kami berjalan, kami atau sebagian kami mengatakan; 'Demi Allah, kita tak akan memperoleh barakah karena kita mendatangi Nabi Shallalahu'alaihi wasallam meminta diikusertakan menumpang, namun beliau terus bersumpah untuk tidak mengikutkan kita menumpang, namun selanjutnya beliau memberi kendaraan untuk mengangkut kami, maka kembalilah sekarang kepada Nabi shallallahu 'alaihi wasallam, kemudian kita utarakan kepada beliau! ' Maka kami mendatangi beliau, dan Nabi menjawab: "Bukan kami yang mengangkut kalian, namun Allahlah yang menyediakan kendaraan untuk mengangkut kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6623</td></tr><tr><td>Arabic No</td><td>6623</td></tr><tr><td>Reference</td><td>Book 83 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса аль-Аш'ари, да будет доволен им Аллах, сказал: «(Перед походом на Табук) я пришёл к Пророку ﷺ вместе с несколькими другими аш'аритами, и я стал просить у него [верблюдов]. (Выслушав нас, Пророк ﷺ) сказал: “Клянусь Аллахом, не стану я снабжать вас! (Кроме прочего,) нет у меня того, чем бы снабдить вас!” (После этого) мы провели (в ожидании столько времени), сколько было угодно Аллаху, а потом к (Пророку ﷺ) пригнали трёх верблюдов с белыми горбами и (Посланник Аллаха ﷺ) посадил нас (верхом) на них. Двинувшись в путь, мы стали говорить (или: говорить некоторые из нас): “Клянёмся Аллахом, (Аллах) не сделает (этих верблюдов) благословенными для нас, (ведь) мы пришли к Пророку, чтобы попросить у него (верблюдов), и он поклялся, что ничего не даст нам, а потом дал! Так возвращайтесь с нами к Пророку ﷺ и расскажем ему (о содержание нашего разговора)”. После этого мы пришли к (Пророку ﷺ и передали ему содержание своих разговоров). Пророк ﷺ сказал: “Это не я дал вам их, а Аллах дал вам. Поистине, клянусь Аллахом, если захочет Аллах, (отныне) после того, как я дам клятву (сделать что-нибудь), а потом увижу нечто лучшее, я непременно буду искупать нарушение своей клятвы и делать то, что лучше (или: я делаю то, что мне представляется лучшим, и искупаю нарушенную мною клятву)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6623</td></tr><tr><td>Arabic No</td><td>6623</td></tr><tr><td>Reference</td><td>Book 83 Hadith 3</td></tr></tbody></table></div>
 

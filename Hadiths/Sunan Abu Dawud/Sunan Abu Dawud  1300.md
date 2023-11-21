@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ka'b ibn Ujrah: The Prophet (ﷺ) came to the mosque of Banu AbdulAshha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Al Aswad] telah menceritakan kepadaku [Abu Mutharif Muhammad bin Abu Al Wazir] telah menceritakan kepada kami [Muhammad bin Musa Al Fithri] dari [Sa'd bin Ishaq bin Ka'b bin 'Ujrah] dari [ayahnya] dari [kakeknya] bahwa Nabi shallallahu 'alaihi wasallam pernah datang berkunjung ke Masjid Bani Abdul Asyhal, kemudian beliau shalat Maghrib, ketika mereka selesai mengerjakan shalat Maghrib, beliau melihat mereka mengerjakan shalat sunnah, maka beliau bersabda: "Shalat ini adalah shalat untuk di kerjakan di rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1300</td></tr><tr><td>Arabic No</td><td>1300</td></tr><tr><td>Reference</td><td>Book 5 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘д ибн Исхакъ ибн Ка‘б ибн ‘Уджра передал со слов своего отца и деда о том, что (однажды) Пророк ﷺ пришел в мечеть (племени) бану ‘абдуль-ашхаль и совершил там закатную молитву. Когда они завершили молитву, он, увидев, что они совершают дополнительную молитву после нее, сказал: «Это молитва (, которая совершается) в домах!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1300</td></tr><tr><td>Arabic No</td><td>1300</td></tr><tr><td>Reference</td><td>Book 5 Hadith 51</td></tr></tbody></table></div>
 

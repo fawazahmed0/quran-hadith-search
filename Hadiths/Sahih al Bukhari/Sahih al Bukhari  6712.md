@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Ju'aid bin 'Abdur-Rahman:As-Sa'ib bin Yazid said, "The Sa' at the ti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Al Qasim bin Malik Al Muzanni] telah menceritakan kepada kami [Al Ju'aid bin Abdurrahman] dari [As Sa'ib bin Yazid] mengatakan; Satu sha' di jaman Nabi shallallahu 'alaihi wasallam adalah setara satu mud ditambah sepertiga mud kalian sekarang, kemudian di jaman Umar bin Abdul 'Aziz ditambah lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6712</td></tr><tr><td>Arabic No</td><td>6712</td></tr><tr><td>Reference</td><td>Book 84 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Саиб ибн Язид, да будет доволен им Аллах, сказал: «Во времена Пророка ﷺ один са‘ был равен вашему сегодняшнему мудду и одной трети. А затем во времена ‘Умара ибн ‘Абдуль‘азиза размер мудда был увеличен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6712</td></tr><tr><td>Arabic No</td><td>6712</td></tr><tr><td>Reference</td><td>Book 84 Hadith 5</td></tr></tbody></table></div>
 

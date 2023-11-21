@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Alqama:I went to Sham with a group of the companions of 'Abdullah (bin 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah bin Uqbah] Telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari [Alqamah] ia berkata; Aku bergabung dalam suatu kelompok yang terdiri dari sabahat-sahabatnya Abdullah Asy Sya'a, lalu Abu Darda' mendengar kami, maka ia pun bergegas datang. Kemudian ia bertanya, "Adakah di antara kalian yang bisa membaca (Al Qur'an)?" kami menjawab, "Ya, ada." Ia bertanya lagi, "Lalu, siapakah diantara kalian yang paling bagus bacaannya?" Maka mereka pun menunjuk ke arahku. [Abu Darda'] berkata, "Kalau begitu, bacalah." Maka aku pun membaca, "WAL LAAILI IDZAA YAGHSYAA WAN NAHAARI IDZAA TAJALLAA WADZ DZAKARI WAL UNTSAA." Ia bertanya lagi, "Apakah kamu mendengarnya langsung dari bibir temanmu (Ibnu Mas'ud)?" aku menjawab, "Ya." Ia berkata, "Kalau aku mendengarnya langsung dari bibir Nabi shallallahu 'alaihi wasallam, namun orang-orang itu mengingkarinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4943</td></tr><tr><td>Arabic No</td><td>4943</td></tr><tr><td>Reference</td><td>Book 65 Hadith 464</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькама сказал: «Я прибыл в Шам вместе с группой сподвижников ‘Абдуллаха (ибн Мас‘уда). Услышав о нашем прибытии, Абу ад-Дарда пришёл к нам и спросил: “Есть ли среди вас те, кто читает (Коран)?” Мы ответили: “Да”. Затем он спросил: “А кто из вас наилучший чтец?” И люди указали на меня. Тогда он сказал: “Читай”. Я прочитал: “Клянусь ночью, когда она (всё) покрывает (мраком), клянусь днём, когда предстаёт он в полном блеске. Клянусь мужчиной и женщиной...”. Он спросил: “Ты слышал это из уст твоего товарища (‘Абдуллаха ибн Мас‘уда)?” Я ответил: “Да”. Он сказал: “А я слышал его из уст Пророка, но они (жители Шама) противоречат нам (считают неправильным подобное чтение)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4943</td></tr><tr><td>Arabic No</td><td>4943</td></tr><tr><td>Reference</td><td>Book 65 Hadith 464</td></tr></tbody></table></div>
 

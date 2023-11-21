@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: I heard the Messenger of Allah, (ﷺ) say: When you 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Haiwah bin Syuraih]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ja'far bin Musafir At Tinnisi] telah menceritakan kepada kami [Abdullah bin Yahya Al Burullussi] telah menceritakan kepada kami [Haiwah bin Syuraih] dari [Ishaq bin Abu Abdurrahman] dan [Sulaiman] berkata dari [Abu Abdurrahman Al Khurasani] bahwa ['Atha Al Khurasani] menceritakan kepadanya bahwa [Nafi'] telah menceritakan kepadanya dari [Ibnu Umar] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian berjual beli secara cara 'inah, mengikuti ekor sapi, ridla dengan bercocok tanam dan meninggalkan jihad, maka Allah akan menguasakan kehinaan atas kalian. Allah tidak akan mencabutnya dari kalian hingga kalian kembali kepada agama kalian." Abu Daud berkata, "Ini adalah riwayat Ja'far, dan hadits ini adalah lafadznya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: “Когда вы начнёте продавать путём ‘ина и ходить за хвостами коров (на пашнях) и удовольствуетесь земледелием, оставив джихад, Аллах нашлёт на вас унижение и не избавит вас от него до тех пор, пока вы не вернётесь к своей религии”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 47</td></tr></tbody></table></div>
 

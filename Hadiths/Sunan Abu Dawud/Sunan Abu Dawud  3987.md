@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: A man from the Illiyyun wil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>3987</td></tr><tr><td>Reference</td><td>Book 32 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, когда человек из числа обитателей Иллийюна (подразумеваются высоты Рая) смотрит на остальных обитателей Рая, от света его лика весь Рай озаряется как подобное жемчугу (читается «дуррий») небесное светило, и, поистине, Абу Бакр и ‘Умар принадлежат к их числу и им уготовано благо (или: и они ещё лучше, чем просто обитатели Иллийюна)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>3987</td></tr><tr><td>Reference</td><td>Book 32 Hadith 19</td></tr></tbody></table></div>
 

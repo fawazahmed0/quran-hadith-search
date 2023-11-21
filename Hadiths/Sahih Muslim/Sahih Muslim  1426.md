@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) reported that the polytheists detained the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Aun bin Salam Al Kufi] telah mengabarkan kepada kami [Muhammad bin Thalhah Al Yami] dari [Zubaid] dari [Murrah] dari [Abdullah] dia berkata; "Kaum Musyrikin pernah menahan Rasulullah shallallahu 'alaihi wasallam dari shalat Ashar hingga matahari memerah atau menguning. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda; "Sungguh mereka telah menyibukkan kita dari shalat wustha yaitu shalat ashar, semoga Allah memenuhi rongga mereka dan kubur mereka dengan api, -atau dengan redaksi lain- "Semoga Allah mengisi rongga dan kubur mereka dengan api
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>628</td></tr><tr><td>Reference</td><td>Book 5 Hadith 260</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «(Однажды, когда) многобожники не давали Посланнику Аллаха ﷺ возможности совершить послеполуденную молитву, пока солнце не покраснело (или: не пожелтело), Посланник Аллаха ﷺ воскликнул: “Они отвлекли нас от средней молитвы, от послеполуденной молитвы, да наполнит (или: да набьёт) Аллах огнём их утробы и их могилы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>628</td></tr><tr><td>Reference</td><td>Book 5 Hadith 260</td></tr></tbody></table></div>
 

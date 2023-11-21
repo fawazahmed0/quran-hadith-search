@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) having said:Wine is prepared from t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah mengabarkan kepada kami [Al Hajjaj bin Abu Utsman] telah menceritakan kepadaku [Yahya bin Abu Katsir] bahwa [Abu Katsir] telah menceritakan kepadanya dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Khamer itu bisa terbuat dari dua macam pohon ini; kurma dan anggur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5142</td></tr><tr><td>Arabic No</td><td>1985.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5142</td></tr><tr><td>Arabic No</td><td>1985.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 16</td></tr></tbody></table></div>
 

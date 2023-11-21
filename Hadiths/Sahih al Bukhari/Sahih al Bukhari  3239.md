@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "On the night of my Ascent to the He
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3239</td></tr><tr><td>Arabic No</td><td>3239</td></tr><tr><td>Reference</td><td>Book 59 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что (однажды) Пророк ﷺ сказал: «В ту ночь, когда я был вознесён (на небо), среди знамений, показанных мне Аллахом, я увидел Мусу (в образе) смуглого, высокого и курчавого человека, будто был он одним из людей (племени) шану‘а, и я увидел ‘Ису (в образе человека) среднего роста и телосложения, (который был) румяным и белокожим и имел прямые волосы, и я увидел Малика, стража ада, и я увидел Антихриста», (а затем Пророк ﷺ прочитал следующий аят): «Так не сомневайся же во встрече с Ним!» (сура «ас-Саджда», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3239</td></tr><tr><td>Arabic No</td><td>3239</td></tr><tr><td>Reference</td><td>Book 59 Hadith 50</td></tr></tbody></table></div>
 

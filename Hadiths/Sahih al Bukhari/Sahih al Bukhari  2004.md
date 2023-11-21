@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) came to Medina and saw the Jews fasting on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Ayyub] telah menceritakan kepada kami ['Abdullah bin Sa'id bin Jubair] dari [bapaknya] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Ketika Nabi shallallahu 'alaihi wasallam telah sampai dan tinggal di Madinah, Beliau melihat orang-orang Yahudi melaksanakan puasa hari 'Asyura' lalu Beliau bertanya: "Kenapa kalian mengerjakan ini?" Mereka menjawab: "Ini adalah hari kemenangan, hari ketika Allah menyelamatkan Bani Isra'il dari musuh mereka lalu Nabi Musa Alaihissalam menjadikannya sebagai hari berpuasa". Maka Beliau bersabda: "Aku lebih berhak dari kalian terhadap Musa". Lalu Beliau memerintahkan untuk berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2004</td></tr><tr><td>Arabic No</td><td>2004</td></tr><tr><td>Reference</td><td>Book 30 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Когда Пророк ﷺ, прибывший в Медину, увидел, что иудеи постятся в день ‘Ашуры, он спросил (их): “Что это?” Они ответили: “Это — благой день, тот день, когда Аллах спас израильтян от их врага, и (поэтому) Муса стал соблюдать пост в этот день”. (На это Пророк ﷺ) сказал: “Я имею на Мусу больше прав, чем вы!” — после чего стал соблюдать пост в этот день сам и велел делать это всем остальным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2004</td></tr><tr><td>Arabic No</td><td>2004</td></tr><tr><td>Reference</td><td>Book 30 Hadith 109</td></tr></tbody></table></div>
 

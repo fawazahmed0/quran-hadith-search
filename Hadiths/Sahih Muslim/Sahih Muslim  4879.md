@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Sa'id al-Khudri that the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Abdullah bin Wahb] telah menceritakan kepadaku [Abu Hani'Al Khaulani] dari [Abu Abdirrahman Al Hubuli] dari [Abu Sa'id Al Khudri], bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda kepadanya: "Wahai Abu Sa'id, barangsiapa ridla Allah sebagai Rabbnya, Islam sebagai agamanya dan Muhammad sebagai Nabinya, maka ia pasti masuk surga." Abu Sa'id takjub serya berkata, "Wahai Rasulullah, sudikah anda mengulanginya lagi untukku?" Beliau pun mengulanginya, kemudian beliau melanjutkan: "Dan ada satu amalan yang dengannya seorang hamba akan diangkat derajatnya di surga sebanyak seratus derajat, antara derajat satu dengan derajat yang lain seperti jarak antara langit dan bumi." Abu Sa'id berkata, "Amalan apakah itu wahai Rasulullah?" Beliau menjawab: "Jihad di jalan Allah, Jihad di jalan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4879</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 33 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4879</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 33 Hadith 175</td></tr></tbody></table></div>
 

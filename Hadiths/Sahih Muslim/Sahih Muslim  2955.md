@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham narrated on the authority of his father that the Arabs with the exception
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Abu Kuraib] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Hisyam] dari [bapaknya] ia berkata; Orang-orang Arab zaman dahulu thawaf di Baitullah dalam keadaan telanjang bulat, kecuali Al Hums. Al Hums ialah orang-orang Quraisy dan turunannya. Orang-orang Arab itu thawaf dalam keadaan telanjang, kecuali apabila mereka diberi pakaian oleh orang Quraisy, yang laki-laki memberi pakaian kepada yang laki-laki dan perempuan kepada perempuan. Orang-orang Quraisy tidak berangkat dari Muzdalifah, tetapi orang banyak semuanya pergi ke 'Arafah. Hisyam berkata; telah menceritakan kepadaku bapakku, dari [Aisyah] radliallahu 'anha, ia berkata; Al Hums adalah orang-orang Quraisy yang menyebabkan Allah menurunkan ayat pada mereka, "Kemudian berangkatlah kamu dari tempat berangkatnya orang banyak..." (Al Baqarah: 199). Aisyah berkata; Orang banyak berangkat dari Arafah, sedangkan mereka (Al Hums) berangkat dari Muzdalifah. Kata mereka, "Kami tidak akan berangkat melainkan dari tanah haram." Maka ketika ayat di atas turun, mereka sama-sama pergi ke Arafah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2955</td></tr><tr><td>Arabic No</td><td>1219.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2955</td></tr><tr><td>Arabic No</td><td>1219.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 164</td></tr></tbody></table></div>
 

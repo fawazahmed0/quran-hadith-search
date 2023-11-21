@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:The Apostle of Allah (ﷺ) came out of the privy, and he was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] dan [Abu ar-Rabi' az-Zahrani] berkata [Yahya] telah mengabarkan kepada kami [Hammad bin Zaid] dan berkata [Abu ar-Rabi'] telah menceritakan kepada kami [Hammad] dari [Amru bin Dinar] dari [Sa'id bin al-Huwairits] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam keluar dari WC, lalu beliau dibawakan makanan, maka mereka mengingatkan beliau untuk berwudhu, maka beliau bersabda, "Saya ingin shalat, maka saya berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>374.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что (однажды), когда Пророк ﷺ вышел из отхожего места, была подана еда. Кто-то напомнил ему об омовении, на что он сказал: «Разве я собираюсь молиться, чтобы совершать омовение?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>374.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 148</td></tr></tbody></table></div>
 

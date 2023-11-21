@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas:The Prophet (ﷺ) as saying: There is no infection* and no evil om
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Anas], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada 'Adwa dan tidak ada thiyarah, aku tertarik dengan Al fa'l (optimisme) yang baik, dan optimisme yang baik adalah perkataan yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3916</td></tr><tr><td>Arabic No</td><td>3916</td></tr><tr><td>Reference</td><td>Book 30 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Бакыйи: «Я спросил Мухаммада ибн Рашида о слове “хама” (в хадисе), и он сказал: “Во времена невежества арабы говорили, что кого бы ни похоронили, из его могилы обязательно вылетает (особая птица) (хама)”. Я спросил: “А его слова о сафаре?” Он сказал: “Я слышал, что во времена невежества люди считали наступление (месяца) сафара дурной приметой, и Пророк ﷺ сказал: “Нет сафара””. Мухаммад сказал: “И мы слышали того, кто говорил, что имеется в виду болезнь живота, которую считали заразной, из-за чего (Пророк ﷺ) и произнёс эти слова”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3916</td></tr><tr><td>Arabic No</td><td>3916</td></tr><tr><td>Reference</td><td>Book 30 Hadith 13</td></tr></tbody></table></div>
 

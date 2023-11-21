@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa reported on the authority of his father that Hisham b. Hakim b. Hizam happe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [Hisyam bin Hakim bin Hizam] dia berkata; "Saya pernah melewati beberapa orang di Syam yang dijemur di terik matahari sedangkan kepala mereka dituangi minyak. Kemudian Hisyam bertanya; 'Mengapa mereka ini dihukum? ' Seseorang menjawab; 'Mereka disiksa karena masalah pajak.' Hisyam berkata; 'Sesungguhnya saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya Allah akan menyiksa orang-orang yang menyiksa orang lain di dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6657</td></tr><tr><td>Arabic No</td><td>2613.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6657</td></tr><tr><td>Arabic No</td><td>2613.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 154</td></tr></tbody></table></div>
 

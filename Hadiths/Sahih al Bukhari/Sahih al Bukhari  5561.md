@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Whoever slaughtered the sacrifice before 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Ayyub] dari [Muhammad] dari [Anas] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa menyembelih binatang kurban sebelum shalat (iedul adlha) hendaknya ia mengulangi kurbannya." Seseorang berdiri dan berkata; "Wahai Rasulullah, sesungguhnya hari ini adalah hari pembagian daging kurban -lalu laki-laki itu menceritakan kesusahan yang di alami tetangganya, seakan-akan dia berharap Nabi shallallahu 'alaihi wasallam membenarkan perbuatannya- sementara aku hanya masih memiliki jad'ah (anak kambing yang berusia dua tahun) yang lebih aku cintai daripada dua ekor kambing muda." Maka nabi shallallahu 'alaihi wasallam memberi keringanan kepadanya, aku tidak mengetahui apakah keringanan itu berlaku juga kepada orang lain ataukah tidak. Selanjutnya beliau berpaling dan pergi menuju dua ekor domba lalu beliau menyembelihnya, setelah itu orang-orang berpaling dan pergi menuju segerombolan kambing, lalu mereka menyembelihnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5561</td></tr><tr><td>Arabic No</td><td>5561</td></tr><tr><td>Reference</td><td>Book 73 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, что (в День жертвоприношения,) Пророк ﷺ сказал: «Пусть тот, кто принёс жертву до праздничной молитвы, повторит жертвоприношение!» И тут (один) мужчина сказал: «О Посланник Аллаха! В этот день люди желают мяса», — и упомянул (нужду его) соседей. Затем он сказал: «У меня есть годовалая коза, которая лучше, чем мясо двух баранов». И Пророк ﷺ разрешил ему (совершить жертвоприношение этой козой), и я не знаю, касается ли это разрешение других людей помимо него или нет. Затем Пророк ﷺ подошёл к двум баранам и зарезал их, после чего люди подошли к своим овцам и зарезали их
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5561</td></tr><tr><td>Arabic No</td><td>5561</td></tr><tr><td>Reference</td><td>Book 73 Hadith 17</td></tr></tbody></table></div>
 

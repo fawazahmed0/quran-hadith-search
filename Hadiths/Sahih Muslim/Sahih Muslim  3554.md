@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah be pleased with him) reported that Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengkhabarkan kepadaku [Mu'awiyah, yakni Ibnu Shalih] dari [Ali bin Abu Thalhah] dari [Abu Al Waddak] dari [Abu Sa'id Al Khudri] bahwa dia (Abu Waddak) pernah mendengarnya berkata; Rasulullah shallallahu 'alaihi wasallam pernah ditanya perihal azl, maka beliau menjawab: "Tidak semua air mani akan menjadi anak, namun apabila Allah berkehendak menjadikan sesuatu, maka tidak akan ada sesuatu pun yang bisa menghalangi-Nya." Telah menceritakan kepadaku [Ahmad bin Mundzir Al Bashri] telah menceritakan kepada kami [Zaid bin Hubab] telah menceritakan kepada kami [Mu'awiyah] telah mengabarkan kepadaku [Ali bin Abi Thalhah Al Hasyimi] dari [Abu Al Waddak] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3554</td></tr><tr><td>Arabic No</td><td>1438.11</td></tr><tr><td>Reference</td><td>Book 16 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3554</td></tr><tr><td>Arabic No</td><td>1438.11</td></tr><tr><td>Reference</td><td>Book 16 Hadith 156</td></tr></tbody></table></div>
 

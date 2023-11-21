@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:I heard 'Urwa bin Az-Zubair talking to 'Umar bin 'Abdul 'Aziz 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4007</td></tr><tr><td>Arabic No</td><td>4007</td></tr><tr><td>Reference</td><td>Book 64 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри рассказал, что однажды он слышал, как ‘Урва ибн аз-Зубайр разговаривал с ‘Умар ибн ‘Абдуль‘азизом, сказав: «Однажды, когда аль-Мугъира ибн Шу‘ба был наместником Куфы, он совершил молитву позже (начала установленного времени), и к нему явился Абу Мас‘уд ‘Укба ибн ‘Амр аль-Ансари, который был дедом Зейда ибн Хасана и участником битвы при Бадре и сказал: “Ты же знаешь, что, спустившись на землю, Джибриль, совершил пять молитв, и Посланник Аллаха ﷺ совершил их (вместе с ним), а затем он сказал: “Так мне было приказано (совершать их)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4007</td></tr><tr><td>Arabic No</td><td>4007</td></tr><tr><td>Reference</td><td>Book 64 Hadith 58</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Seereen:I asked Ibn 'Umar, "What is your opinion about the two
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Hammad bin Zaid] berkata, telah menceritakan kepada kami [Anas bin Sirin] berkata, Aku bertanya kepada [Ibnu 'Umar], "Apakah shalat dua rakaat sebelum shalat Fajar bacaannya dipanjangkan?" Maka dia menjawab, "Nabi shallallahu 'alaihi wasallam melaksanakan shalat malam dua rakaat dua rakaat lalu witir dengan satu rakaat, dan beliau mengerjakan shalat dua rakaat sebelum melaksanakan shalat Fajar, seakan adzan ada di sisi telinganya." Hammad berkata, "Maksudnya beliau melaksanakan dua rakaat tersebut dengan cepat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>995</td></tr><tr><td>Arabic No</td><td>995</td></tr><tr><td>Reference</td><td>Book 14 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Сирин сказал: «Я спросил Ибн ‘Умара: “Что ты думаешь о том, что я удлиняю чтение (Корана) в двух рак'атах (дополнительной молитвы) перед утренней (обязательной) молитвой?” Он ответил: “Пророк ﷺ совершал ночью по два рак‘ата, и заканчивал молитву одним рак‘атом витра. И он совершал два рак‘ата перед утренней молитвой так, как-будто он уже слышит икамат”». Хаммад сказал: «То есть он совершал их быстро»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>995</td></tr><tr><td>Arabic No</td><td>995</td></tr><tr><td>Reference</td><td>Book 14 Hadith 6</td></tr></tbody></table></div>
 

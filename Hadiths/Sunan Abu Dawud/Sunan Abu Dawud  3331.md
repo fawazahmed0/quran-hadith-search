@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: A time is certainly coming to mank
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Husyaim], telah mengabarkan kepada kami ['Abbad bin Rasyid], ia berkata; saya mendengar [Sa'id bin Abu Khairah] ia berkata; telah menceritakan kepada kami [Al Hasan] sejak empat puluh tahun, dari [Abu Hurairah], ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: …. Dan telah diriwayatkan dari jalur yang lain. Dan telah menceritakan kepada kami [Wahb bin Baqiyyah], telah mengabarkan kepada kami [Khalid], dari [Daud bin Abu Hindun], dan ini adalah lafazhnya. Dari [Sa'id bin Abu Khairah], dari [Al Hasan] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh akan datang kepada manusia suatu zaman dimana tidak ada seorangpun melainkan ia akan makan riba, jika tidak memakannya maka ia terkena sebagian dari uapnya." Ibnu Isa berkata; terkena sebagian dari debunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3331</td></tr><tr><td>Arabic No</td><td>3331</td></tr><tr><td>Reference</td><td>Book 23 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Наступят времена, когда все будут пожирать лихву /риба/, а кто не будет делать это сам, на того всё равно распространится дым её». А в версии Ибн Исы сказано: «…пыль её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3331</td></tr><tr><td>Arabic No</td><td>3331</td></tr><tr><td>Reference</td><td>Book 23 Hadith 6</td></tr></tbody></table></div>
 

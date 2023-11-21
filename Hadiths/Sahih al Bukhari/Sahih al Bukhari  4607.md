@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The wife of the Prophet (ﷺ) : We set out with Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; Telah menceritakan kepadaku [Malik] dari ['Abdur Rahman bin Al Qasim] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] isteri Nabi shallallahu 'alaihi wasallam berkata; "Kami pernah bersama Rasulullah Shallallahu'alihi wasallam dalam sebagian perjalanannya, dan saat kami sampai di Al Baida -atau di Dzatuljaisy- kalungku hilang, maka Rasulullah Shallallahu'alihi wasallam berhenti untuk mencarinya dan para sahabat juga ikut bersamanya. Mereka tidak mempunyai air dan juga Rasulullah Shallallahu'alihi wasallam. Para sahabat datang kepada Abu Bakar Radliyallhu'anhu dan berkata, 'Apakah kamu tidak melihat apa yang diperbuat Aisyah?! Ia menghentikan (menahan) Rasulullah Shallallahu'alihi wasallam dan para sahabat, padahal mereka tidak pada tempat yang ada airnya dan mereka juga tidak mempunyai air'. Abu Bakar Radliyallahu'anhu lalu datang (kepadaku) dan Rasulullah Shallallahu'alihi wasallam berbaring meletakkan kepalanya diatas pahaku dan beliau tertidur. Ia berkata, 'Kamu menahan Rasulullah Shallallahu'alihi wasallam dan manusia pada tempat yang tidak ada airnya dan mereka juga tidak mempunyai air?" Aisyah berkata, "Abu Bakar mencelaku dan beliau mengatakan sebagaimana yang dikehendaki Allah dan ia menekan lambungku dengan tangannya. Tidak ada yang menghalangiku untuk bergerak kecuali keadaan Rasulullah Shallallahu'alihi wasallam yang berada diatas pahaku! Rasulullah Shallallahu'alihi wasallam tertidur hingga pagi, tanpa ada air. Kemudian Allah Azza wa Jalla menurunkan ayat tayamum, maka mereka pun bertayamum." Usaid bin Hudhair berkata; "Ini bukan keberkahan keluargamu yang pertama wahai keluarga Abu Bakar!" Aisyah berkata, "Lalu kami membangunkan unta yang kami tunggangi, dan kalung tersebut ternyata ada dibawahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4607</td></tr><tr><td>Arabic No</td><td>4607</td></tr><tr><td>Reference</td><td>Book 65 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды, когда) мы вместе с Посланником Аллаха ﷺ выступили в путь и достигли уже Байды (или: Зат аль-Джайша), у меня порвалась (нить) ожерелья. (Узнав об этом,) Посланник Аллаха ﷺ остановился, чтобы найти его, и этим же занялись находившиеся вместе с ним люди. (В этих местах) не было воды, и у людей с собой не было воды. (Некоторые участники похода) люди пришли к Абу Бакру ас-Сыддику и сказали ему: “Разве ты не видишь, что сделала ‘Аиша? Она заставила Посланника Аллаха ﷺ и (всех остальных) людей, не имеющих с собой воды, задержаться в безводной местности!” (Услышав это,) Абу Бакр пришёл (ко мне), когда Посланник Аллаха ﷺ, положивший голову мне на ногу, уже заснул. Он воскликнул: “Ты задержала Посланника Аллаха ﷺ и (других) людей, не имеющих воды, там, где её нет!”».\n‘Аиша сказала: «И Абу Бакр принялся упрекать меня, высказав всё, что было угодно Аллаху, а потом стал тыкать меня рукой в бок, мне же мешало двинуться с места лишь то, что (голова) Посланника Аллаха ﷺ покоилась у меня на ноге. А когда наутро Посланник Аллаха ﷺ проснулся и (оказалось, что ни у кого) не было воды, Аллах ниспослал аят об очищении песком, после чего люди совершили такое очищение. Что же касается Усайда ибн Худайра, то он воскликнул: “О семейство Абу Бакра! Это уже не первое благословение (, ниспосланное) вам!”». \n(‘Аиша) сказала: «А потом мы подняли верблюда, на котором я ехала, и нашли ожерелье под ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4607</td></tr><tr><td>Arabic No</td><td>4607</td></tr><tr><td>Reference</td><td>Book 65 Hadith 129</td></tr></tbody></table></div>
 

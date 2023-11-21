@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jundub reported:I came on the day of Jara'a that a person was (found) sitting. I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Hatim] keduanya berkata: Telah menceritakan kepada kami [Mu'adz bin Mu'adz] telah menceritakan kepada kami [Ibnu Abun] dari [Muhammad] berkata: [Jundub] berkata: Saat terjadi peristiwa Jara'ah (nama tempat didekat Kufah) ternyata ada seseorang yang tengah duduk, aku berkata: Hari ini, darah akan bertumpahan disini. Orang itu berkata: Tidak, demi Allah. Aku berkata: Ya, demi Allah. Orang itu berkata: Tidak, demi Allah. Aku berkata: Ya, demi Allah. Itu adalah hadits Rasulullah Shallallahu 'alaihi wa Salam yang beliau sampaikan kepadaku. Aku berkata: Kau adalah teman terburukku sejak hari ini, kau mendengarku aku menyelisihimu padahal aku pernah mendengar dari Rasulullah Shallallahu 'alaihi wa Salam, karena itu jangan kau larang aku. Setelah itu aku berkata: Kenapa marah? Aku menghampirinya lalu bertanya padanya, ternyata ia adalah [Hudzaifah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7271</td></tr><tr><td>Arabic No</td><td>2893</td></tr><tr><td>Reference</td><td>Book 54 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7271</td></tr><tr><td>Arabic No</td><td>2893</td></tr><tr><td>Reference</td><td>Book 54 Hadith 37</td></tr></tbody></table></div>
 

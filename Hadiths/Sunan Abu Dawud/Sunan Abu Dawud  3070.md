@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qaylah bint Makhramah: Abdullah ibn Hasan al-Anbari said: My grandmothe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar], dan [Musa bin Isma'il] secara makna adalah satu. Mereka berkata; telah menceritakan kepada kami [Abdullah bin Hassan Al 'Anbari] telah menceritakan kepadaku kedua nenekku yaitu [Shafiyyah] dan [Duhaibah] dua anak wanita 'Ulaibah. Dan mereka berdua adalah dua anak asuh [Qailah binti Makhramah], dan ia adalah nenek ayah mereka berdua, bahwa ia telah mengabarkan kepada mereka berdua, ia berkata; kami datang kepada Rasulullah shallallahu 'alaihi wasallam, kemudian sahabatku yaitu Huraits bin Hassan utusan Bakr bin Wail maju ke depan, kemudian beliau membai'atnya ia dan kaumnya harus berada di atas Islam. Kemudian ia berkata; wahai Rasulullah, tulislah antara kami dan Bani Tamim di Ad Dahna' di Ad Dahna' agar tidak ada seorangpun yang melampauinya kepada kami kecuali orang musafir atau orang yang bertetangga. Kemudian beliau berkata: "Tuliskan untuknya wahai pembantu, di Ad Dahnah', bahwa tidak ada menewatinya menuju kepada kami seorang pun diantara mereka kecuali orang y ang bersafar, atau orang yang bertetangga." Kemudian tatkala aku melihat beliau memerintahkan agar menuliskan hal tersebut maka aku merasa gelisah, Ad Dahna' adalah negeriku dan tempat tinggalku. Kemudian aku katakan; wahai Rasulullah, sesungguhnya ia tidak meminta kepadamu tanah datarketika ia meminta kepadamu. Sesungguhnya Ad Dahna' ini adalah tempat mengikat unta serta tempat menggembala kambing, sementara para wanita Bani Tamim dan anak-anak mereka di belakang perjanjian tersebut. Kemudian beliau berkata; tahan wahai pelayan. Wanita miskin (yaitu Qailah) itu benar, seorang muslim adalah saudara muslim yang lain, mereka berdua boleh mengambil air dan pohon serta mereka berdua saling tolang menolong melawan pembawa fitnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3070</td></tr><tr><td>Arabic No</td><td>3070</td></tr><tr><td>Reference</td><td>Book 20 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Кайли бинт Махрама, да будет доволен ею Аллах: «Мы прибыли к Посланнику Аллаха ﷺ и мой спутник Хурайс ибн Хассан, делегат бану Бакр ибн Ваиль, опередил меня и принёс ему присягу от своего имени и от имени своего народа, а потом сказал: “О Посланник Аллаха! Напиши мне грамоту о том, что бану тамим не должны переходить Дехну, за исключением путешественника и желающего попросить защиты”. (Посланник Аллаха ﷺ) сказал: “О юноша, напиши ему насчёт Дехны”. Когда я увидела, что он велел сделать это, меня задело это, ведь это был мой дом, моя родина, и я сказала: “О Посланник Аллаха! Поистине, он не о простой земле просил тебя… Он о Дехне говорит, пастбище верблюдов и овец. А за ними женщины Тамима и его сыны”. (Посланник Аллаха ﷺ) сказал: “Подожди, о юноша. Бедняжка правду сказала… Мусульманин мусульманину брат. Они не делят воду и землю и помогают друг другу против смутьяна”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3070</td></tr><tr><td>Arabic No</td><td>3070</td></tr><tr><td>Reference</td><td>Book 20 Hadith 143</td></tr></tbody></table></div>
 

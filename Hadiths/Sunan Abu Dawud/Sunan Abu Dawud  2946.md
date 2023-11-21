@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Humaid al-Sa'idi:The Prophet (ﷺ) appointed a man of Azd called Ib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh], dan [Ibnu Abu Khalaf], dengan lafazhnya, mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Urwah], dari [Abu Humaid As Sa'idi], bahwa Nabi shallallahu 'alaihi wasallam mengangkat seorang laki-laki dari Azd yang bernama Ibnu Al Lutbiyyah sebagai pegawai. -Ibnu As Sarh berkata; Ibnu Al Utbiyyah-. Untuk mengurusi zakat, kemudian ia datang dan berkata; ini yang menjadi untuk anda dan yang ini dihadiahkan kepadaku. Kemudian Nabi shallallahu 'alaihi wasallam berdiri di atas mimbar lalu memuji Allah dan bersabda: "Bagaimana dengan seorang pekerja yang kami utus, kemudian datang dan berkata; ini untuk anda dan ini dihadiahkan kepadaku. Tidakkah sekiranya ia duduk di rumah ayah atau ibunya kemudian menunggu, apakah ia akan diberi hadiah atau tidak? Tidaklah seseorang diantara kalian mengambil sesuatupun dari hal tersebut kecuali pada Hari Kiamat ia datang dengan membawanya pada lehernya, apabila sesuatu tersebut adalah unta maka unta tersebut bersuara unta, apabila atau sapi maka sapi tersebut bersuara sapi, dan kambing yang mengembik." Kemudian Rasulullah shallallahu 'alaihi wasallam mengangkat kedua tangannya hingga kami melihat putih kedua ketiaknya. Kemudian beliau mengucapkan: "Ya Allah, bukankah aku telah menyampaikan? Ya Allah, bukankah aku telah menyampaikan?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7174) Sahih Muslim (1832)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2946</td></tr><tr><td>Arabic No</td><td>2946</td></tr><tr><td>Reference</td><td>Book 20 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хумайда ас-Са‘иди, да будет доволен им Аллах: «В своё время Пророк ﷺ поручил одному человеку из (племени) Азд по имени Ибн аль-Лютбийя (или: Ибн аль-Утбийя) заниматься сбором закята. Вернувшись, он сказал: “Это вам, а это было подарено мне”. Тогда Пророк ﷺ поднялся на минбар, воздал хвалу Аллаху, восславил Его, а потом сказал: “Что такое, мы посылаем работника, а он приходит и говорит: “Это вам, а это подарок, который мне сделали”! Почему не остался он в доме своей матери или своего отца, чтобы посмотреть, подарят ему это или нет?! Кто придёт с чем-то из этого, тот в День воскресения обязательно придёт, таща это на себе. Если это был верблюд, то (он явится) с ревущим верблюдом, (и это может быть) мычащая корова или блеющая овца!” после чего (Пророк ﷺ) воздел руки к небу, подняв их так высоко, что мы увидели белизну его подмышек, и сказал: “О Аллах, донёс ли я? О Аллах, донёс ли я?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7174) Sahih Muslim (1832)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2946</td></tr><tr><td>Arabic No</td><td>2946</td></tr><tr><td>Reference</td><td>Book 20 Hadith 19</td></tr></tbody></table></div>
 

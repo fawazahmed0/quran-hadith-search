@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Ja'd ad-Damri: The Prophet (ﷺ) said: He who leaves the Friday pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Muhammad bin 'Amru] dia berkata; telah menceritakan kepadaku ['Abidah bin Sufyan Al Hadlrami] dari [Abu Al Ja'd Adl Dlamri] -beliau termasuk dari sahabat Nabi- bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa meninggalkan Jum'at tiga kali karena meremehkannya, Allah menutup pintu hatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1052</td></tr><tr><td>Arabic No</td><td>1052</td></tr><tr><td>Reference</td><td>Book 2 Hadith 663</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аль-Джа‘д ад-Дамри, да будет доволен им Аллах, который был сподвижником, передаёт, что Посланник Аллаха ﷺ сказал: «Тому, кто пропустил три пятничные молитвы из пренебрежения к ним, Аллах запечатывает сердце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1052</td></tr><tr><td>Arabic No</td><td>1052</td></tr><tr><td>Reference</td><td>Book 2 Hadith 663</td></tr></tbody></table></div>
 

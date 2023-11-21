@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:That Allah's Messenger (ﷺ) said, "Allah will not 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Musa bin 'Uqbah] dari [Salim bin Abdullah] dari [Abdullah bin 'Umar radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang menjulurkan pakaiannya karena kesombongan maka Allah tidak akan melihat kepadanya pada hari qiyamat". Kemudian Abu Bakr berkata; "Sesungguhnya sebelah dari pakaianku terjulur kecuali bila aku memeganginya (mengangkatnya) ". Maka Rasulullah shallallahu 'alaihi wasallam berkata: "Sesungguhnya kamu melakukan itu bukan bermaksud sombong". [Musa] berkata; Aku bertanya kepada [Salim]; "Apakah [Abdullah] menyebutkan; "Siapa yang menjulurkan sarungnya? (pakaian bagian bawah). Salim berkata; "Aku tidak pernah mendengar dia berkata kecuali menyebut pakaian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3665</td></tr><tr><td>Arabic No</td><td>3665</td></tr><tr><td>Reference</td><td>Book 62 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что (однажды) Посланник Аллаха ﷺ сказал: «В День воскресения Аллах не посмотрит на того, кто волочил за собой свою одежду из кичливости». (Услышав это,) Абу Бакр воскликнул: «А ведь одна из пол моей одежды развязывается (и волочится по земле), если я не слежу за ней!» — (на что) Посланник Аллаха ﷺ сказал: «Но ты ведь делаешь это не из кичливости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3665</td></tr><tr><td>Arabic No</td><td>3665</td></tr><tr><td>Reference</td><td>Book 62 Hadith 17</td></tr></tbody></table></div>
 

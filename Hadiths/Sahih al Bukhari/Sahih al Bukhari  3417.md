@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The reciting of the Zabur (i.e. Ps
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami ['Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Telah dimudahkan bagi Nabi Daud 'alaihi salam membaca al-Qur'an (Kitab Zabur). Dia pernah memerintahkan agar pelana hewan-hewan tunggangannya disiapkan, maka dia selesai membaca Kitab sebelum pelana hewan tunggangannya selesai disiapkan, dan dia tidak memakan sesuatu kecuali dari hasil usaha tangannya sendiri". [Musa bin 'Uqbah] meriwayatkan dari [Shafwan] dari ['Atha' bin Yasar] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3417</td></tr><tr><td>Arabic No</td><td>3417</td></tr><tr><td>Reference</td><td>Book 60 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Чтение Псалмов было облегчено для Дауда, мир ему, и часто бывало так, что он повелевал седлать своих верховых животных, а пока их седлали, он успевал прочесть Псалмы, ел же он лишь то, на что зарабатывал своими руками»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3417</td></tr><tr><td>Arabic No</td><td>3417</td></tr><tr><td>Reference</td><td>Book 60 Hadith 89</td></tr></tbody></table></div>
 

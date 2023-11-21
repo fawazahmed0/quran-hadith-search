@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported that he was asked about
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] telah mengabarkan kepadaku [Abu Zubair] ia berkata, saya mendengar [Jabir bin Abdullah] bahwasanya; Ia pernah ditanya tentang mengendarai hewan kurban, maka ia pun menjawab; Aku telah mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Kendarailah ia dengan baik (wajar) jika kamu memerlukannya sampai kamu memperoleh kendaraan yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3214</td></tr><tr><td>Arabic No</td><td>1324.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 418</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу аз-Зубайр сказал: Я слышал, как Джабира ибн ‘Абдуллаха, да будет доволен Аллах ими обоими, спросили, (можно ли) ездить верхом на жертвенных животных, и он сказал: «Я слышал, как Пророк ﷺ говорил: “Если ты будешь вынужден (использовать их для этого, можешь) ездить на них верхом, пока не найдёшь какое-нибудь (другое) верховое животное”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3214</td></tr><tr><td>Arabic No</td><td>1324.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 418</td></tr></tbody></table></div>
 

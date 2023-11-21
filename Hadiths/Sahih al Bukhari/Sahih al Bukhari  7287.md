@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abu Bakr:I came to 'Aisha during the solar eclipse. The peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7287</td></tr><tr><td>Arabic No</td><td>7287</td></tr><tr><td>Reference</td><td>Book 96 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Абу Бакр, да будет доволен Аллах ею и её отцом, сказала: \n— Когда произошло солнечное затмение, я пришла к ‘Аише и в это время люди совершали молитву. Она также стояла и совершала молитву, я спросила: «Что происходит с людьми?» (В ответ) она указала рукой на небо и сказала: «Пречист Аллах! /Субхана-Ллах!/». И я спросила: «(Это) знамение?» — и она утвердительно кивнула головой: (как будто говоря) «Да». Завершив молитву, Посланник Аллаха ﷺ воздал хвалу Аллаху, восславил Его и сказал: «На этом месте я (только что) увидел всё, что мне не было показано раньше, в том числе Рай и Ад. И мне было ниспослано откровение о том, что в могилах своих вы подвергнетесь испытанию близкому к испытанию, связанное с Даджжалем. А что касается верующего или мусульманина (передатчик этого хадиса сказал: “Я не знаю, что именно сказала Асма”) скажет: “Мухаммад пришёл к нам с явными доказательствами, а мы ответили (ему) и уверовали (в него)”, после чего (ангелы) скажут ему: “Спи во благе, ибо мы убедились, что ты веровал в него!” Что же касается лицемера или сомневающегося (передатчик этого хадиса сказал: “Я не знаю, что именно сказала Асма”), то он скажет: “Я не знаю, я только слышал, как люди говорили что-то, и говорил то же самое”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7287</td></tr><tr><td>Arabic No</td><td>7287</td></tr><tr><td>Reference</td><td>Book 96 Hadith 18</td></tr></tbody></table></div>
 

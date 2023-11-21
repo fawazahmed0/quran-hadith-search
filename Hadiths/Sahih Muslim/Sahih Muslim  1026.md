@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ziyad b. 'Ilaqa reported it on the authority of his uncle that he said the morni
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Ziyad bin 'Ilaqah] dari [pamannya] "Bahwasanya dia shalat shubuh bersama Rasulullah Shallallahu'alaihiwasallam, maka beliau membaca pada rakaat pertama, 'Wannakhla Basiqat Laha Thal' Nadhid' -dan boleh jadi beliau membaca, 'Qaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1026</td></tr><tr><td>Arabic No</td><td>457.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Зияд ибн ‘Иляка передал, что его дядя совершал утреннюю молитву /фаджр/ под руководством Пророка ﷺ, и в первом рак‘ате он прочитал: «И высокие финиковые пальмы с висящими рядами плодами» (Сура “Каф”, аят 10), или он сказал: «Каф»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1026</td></tr><tr><td>Arabic No</td><td>457.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 188</td></tr></tbody></table></div>
 

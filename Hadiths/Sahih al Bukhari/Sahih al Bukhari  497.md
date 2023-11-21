@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama:The distance between the wall of the mosque and the pulpit was h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makki bin Ibrahim] berkata, telah menceritakan kepada kami [Yazid bin Abu 'Ubaid] dari [Salamah] berkata, "Jarak antara dinding masjid di mimbar kira-kira seukuran kambing bisa lewat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>497</td></tr><tr><td>Arabic No</td><td>497</td></tr><tr><td>Reference</td><td>Book 8 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма (ибн Аква‘)сказал: «Стена мечети возле минбара (была на таком расстоянии), что там могла пройти овца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>497</td></tr><tr><td>Arabic No</td><td>497</td></tr><tr><td>Reference</td><td>Book 8 Hadith 144</td></tr></tbody></table></div>
 

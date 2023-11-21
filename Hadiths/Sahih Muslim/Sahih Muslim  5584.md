@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'apr√®s Asma (que Dieu soit satisfait d'elle), une femme vint trouver le Proph√
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdillah bin Numair]; Telah menceritakan kepada kami ['Abdah]; Telah menceritakan kepada kami [Hisyam] dari [Fathimah] dari [Asma'] katanya; "Seorang wanita datang kepada Nabi shallallahu 'alaihi wasallam seraya berkata; 'Aku mempunyai madu (isteri suaminya yang lain). Berdosakah kalau aku menampak-nampakkan kepuasan diri dengan harta suamiku yang sebenarnya tidak diberikan kepadaku? ' Jawab Rasulullah shallallahu 'alaihi wasallam: 'Orang yang menampak-nampakkan kepuasan dengan apa yang tidak diberikan suaminya, sama dengan memakai dua helai baju palsu (penuh dosa).' Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah], demikian juga telah diriwayat dari jalur lainnya, telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abu Mu'awiyah] keduanya dari [Hisyam] melalui sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5584</td></tr><tr><td>Arabic No</td><td>2130.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5584</td></tr><tr><td>Arabic No</td><td>2130.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 192</td></tr></tbody></table></div>
 

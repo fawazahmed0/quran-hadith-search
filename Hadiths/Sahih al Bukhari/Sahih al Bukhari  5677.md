@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When Allah's Messenger (ﷺ) emigrated to Medina, Abu Bakr and B
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] radliallahu 'anha bahwa dia berkata; "Ketika Rasulullah shallallahu 'alaihi wasallam sampai (di Madinah), Abu Bakar dan Bilal menderita sakit, lalu aku menjenguk mereka berdua. Aku bertanya; "Wahai ayahku, bagaimana keadaanmu? Dan engkau Bilal, bagaimana keadaanmu?" Aisyah melanjutkan; Dan setiap kali Abu Bakar menderita sakit panas, maka dia akan berkata; "Setiap orang bertanggung jawab terhadap keluarganya dan kematian itu lebih dekat dari pada tali sandalnya." Sedangkan jika Bilal sakit demamnya semakin tinggi, maka dia akan berkata; "Alangkah baiknya syairku, apakah aku harus bermalam di suatu lembah sementara di sampingku terdapat orang-orang yang membanggakan diri lagi mulia. Apakah suatu hari mereka akan menginginkan air yang melimpah. Apakah sudah tampak olehku gunung Syamah dan Thafil?" Abu Urwah berkata; Aisyah melanjutkan; Kemudian aku mendatangi Rasulullah shallaallahu 'alaihi wa sallam dan mengabarkan keadaan mereka kepada beliau. Lalu beliau berdo'a: ALLAHUMMA HABBIB ILAINAA ALMADINAH KAHUBBINA MAKKATA AW ASYADDA ALLAHUMMA WA SHAHHIHHA WA BAARIK LANAA FI SHAA'IHAA WA MUDDIHA WANQUL HUMMAHA FAJ'ALHA BIL JUHFAH (Ya Allah, jadikanlah kecintaan kami kepada Madinah seperti kecintaan kami kepada Mekkah atau lebih. Ya Allah, perbaikilah ia, Berkahilah kami pada takaran sha' dan mudnya dan pindahkanlah wabah penyakitnya ke Juhfah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5677</td></tr><tr><td>Arabic No</td><td>5677</td></tr><tr><td>Reference</td><td>Book 75 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «После приезда Посланника Аллаха ﷺ (в Медину) Абу Бакр и Биляль стали болеть лихорадкой. Я зашла к ним и сказала: “О отец, как ты себя чувствуешь? О Биляль, как ты себя чувствуешь?” Когда приступ лихорадки начинался у Абу Бакра, он говорил:\n— Каждому человеку в семье его желают доброго утра,а смерть ближе к нему, чем ремни его сандалий!\nЧто касается Биляля, то, когда лихорадка отпускала его, он произносил (такие стихи):\n— Знать бы мне, смогу ли провести ночьв долине среди душистого тростника и джалиля?И смогу ли когда-нибудь зачерпнуть воды Маджанныи покажутся ли предо мной Шама и Тафиль?\nЗатем я пришла к Посланнику Аллаха ﷺ и рассказала ему об этом, а он сказал: “О Аллах, сделай так, чтобы мы полюбили Медину так же, как любим Мекку, или даже больше; и оздорови для нас (климат) её и благослови её мудды и са‘, и перенеси её лихорадку в аль-Джухфу!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5677</td></tr><tr><td>Arabic No</td><td>5677</td></tr><tr><td>Reference</td><td>Book 75 Hadith 37</td></tr></tbody></table></div>
 

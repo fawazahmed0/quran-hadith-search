@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that the Messenger of Allah (ﷺ) used to say prayer on his c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1612</td></tr><tr><td>Arabic No</td><td>700.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «По дороге из Мекки в Медину, Посланник Аллаха ﷺ совершал молитву верхом на своей верблюдице, (направляясь в ту сторону), куда она обращалась. И поэтому поводу был ниспослан (аят): “Куда бы вы ни повернулись, там будет Лик Аллаха” (Сура «аль-Бакара», аят 115)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1612</td></tr><tr><td>Arabic No</td><td>700.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 43</td></tr></tbody></table></div>
 

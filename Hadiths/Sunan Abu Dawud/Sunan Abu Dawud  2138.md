@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah wife of the Prophet (ﷺ) reported “When the Apostle of Allaah(ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Amr bin As Sarh], telah mengabarkan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] bahwa ['Urwah bin Az Zubair] telah menceritakan kepadanya bahwa [Aisyah] isteri Nabi shallallahu 'alaihi wasallam berkata; Rasulullah shallallahu 'alaihi wasallam apabila hendak bepergian beliau mengundi diantara para isterinya, siapa diantara mereka yang keluar undiannya maka beliau keluar bersamanya. Dan beliau membagi bagian untuk setiap isteri satu hari satu malam, hanya saja Saudah binti Zam'ah telah memberikan harinya untuk Aisyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2593، 2688)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2138</td></tr><tr><td>Arabic No</td><td>2138</td></tr><tr><td>Reference</td><td>Book 12 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, передаёт, что, когда Посланник Аллаха ﷺ собирался отправиться в путь, его жёны тянули жребий по его велению и та из них, на которую падал выбор, отправлялась вместе с ним и что он делил дни и ночи между своими жёнами, только Сауда бинт Зам‘а уступила свою ночь ‘Аише
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2593، 2688)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2138</td></tr><tr><td>Arabic No</td><td>2138</td></tr><tr><td>Reference</td><td>Book 12 Hadith 93</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hayyaj al-Asadi:'Ali said to me: I am sending you on the same missi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Sufyan] telah menceritakan kepada kami [Habib bin Abu Tsabit], dari [Abu Wail] dari [Abu Hayyaj Al Asadi], ia berkata; [Ali] telah mengutusku, ia berkata; aku mengutusmu sebagaimana Rasulullah shallallahu 'alaihi wasallam telah mengutusku, agar aku tidak meninggalkan kuburan yang ditinggikan kecuali aku meratakannya, dan tidak meninggalkan berhala kecuali aku hancurkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (969)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3218</td></tr><tr><td>Arabic No</td><td>3218</td></tr><tr><td>Reference</td><td>Book 21 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хайядж аль-Асади передаёт: «‘Али послал меня с поручением, сказав: “Я посылаю тебя с тем же поручением, с которым посылал меня Посланник Аллаха ﷺ: не оставляй ни одной возвышающейся могилы, не сровняв её с землёй, и ни одного изображения живого существа, не стерев его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (969)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3218</td></tr><tr><td>Arabic No</td><td>3218</td></tr><tr><td>Reference</td><td>Book 21 Hadith 130</td></tr></tbody></table></div>
 

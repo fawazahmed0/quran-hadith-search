@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: If anyone asks (you) for re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] dari [Ubaidullah bin Umar Al Jusyami] keduanya berkata; telah menceritakan kepada kami [Khalid bin Al Harits] berkata, telah menceritakan kepada kami [Sa'id]. [Nashr bin Abu Arubah] berkata; dari [Qatadah] dari [Abu Nahik] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa meminta perlindungan kepada kalian dengan nama Allah, maka berilah ia perlindungan. Dan siapa yang meminta kepada kalian karena Allah, maka berilah." Ubaidullah menyebutkan, "Siapa yang meminta kepadamu dengan nama Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5108</td></tr><tr><td>Arabic No</td><td>5108</td></tr><tr><td>Reference</td><td>Book 43 Hadith 336</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Берите под защиту того, кто станет просить о защите ради Аллаха, и давайте тому, кто попросит вас (что-либо) ради лика Аллаха». ‘Убайдуллах сказал: «...кто попросит вас (что-либо) ради Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5108</td></tr><tr><td>Arabic No</td><td>5108</td></tr><tr><td>Reference</td><td>Book 43 Hadith 336</td></tr></tbody></table></div>
 

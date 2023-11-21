@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdussalam bin Muthahhar] bahwa [Sulaiman bin Al Mughirah], menceritakan kepada mereka dari [Abu Musa] dari [ayahnya] dari [Ibnu Abdullah bin Mas'ud] dari [Ibnu Mas'ud], ia berkata; Tidaklah (dianggap) persusuan kecuali yang dapat menguatkan tulang dan menumbuhkan daging. Abu Musa berkata; jangan kalian bertanya kepada kami sementara orang alim ini berada di antara kalian. Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari], telah menceritakan kepada kami [Waki'] dari [Sulaiman bin Al Mughirah] dari [Abu Musa Al Hilali], dari [ayahnya] dari [Ibnu Mas'ud] dari Nabi shallallahu 'alaihi wasallam dengan makna yang sama dengannya, dan ia berkata; serta menumbuhkan tulang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2059</td></tr><tr><td>Arabic No</td><td>2059</td></tr><tr><td>Reference</td><td>Book 12 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Ибн Мас‘уд, да будет доволен им Аллах: «Вскармливание считается, только если оно укрепляет кости и наращивает плоть». (Передатчик) Абу Муса сказал: «Не спрашивайте нас, когда среди вас находится этот учёный!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2059</td></tr><tr><td>Arabic No</td><td>2059</td></tr><tr><td>Reference</td><td>Book 12 Hadith 14</td></tr></tbody></table></div>
 

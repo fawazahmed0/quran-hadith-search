@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:"Alcoholic drinks were prohibited (by Allah) when there was n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Shabbah] telah menceritakan kepada kami [Muhammad bin Sabiq] telah menceritakan kepada kami [Malik] yaitu Ibnu Mighwal dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma dia berkata; "Katika khamer diharamkan, maka tidak didapati sedikitpun jenis minuman keras di Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5579</td></tr><tr><td>Arabic No</td><td>5579</td></tr><tr><td>Reference</td><td>Book 74 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Умар, да будет доволен Аллах им и его отцом, сказал: «Опьяняющие напитки (из винограда) были запрещены, когда в Медине их уже не было»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5579</td></tr><tr><td>Arabic No</td><td>5579</td></tr><tr><td>Reference</td><td>Book 74 Hadith 5</td></tr></tbody></table></div>
 

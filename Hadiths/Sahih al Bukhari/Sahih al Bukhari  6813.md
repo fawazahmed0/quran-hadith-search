@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ash Shaibani:I asked 'Abdullah bin Abi 'Aufa, 'Did Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] telah menceritakan kepada kami [Khalid] dari [Asy Syaibani], aku bertanya kepada ['Abdullah bin Abi Auwfa]; 'Pernahkah Rasulullah Shallallahu'alaihiwasallam merajam? ' 'ya pernah' jawabnya. Saya bertanya lagi; 'apakah sebelum surat an-Nur diturunkan atau sesudahnya? ' dia menjawab; 'saya tidak tahu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6813</td></tr><tr><td>Arabic No</td><td>6813</td></tr><tr><td>Reference</td><td>Book 86 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аш-Шейбани сказал: «Я спросил ‘Абдуллаха ибн Аби ‘Ауфу: “Подвергал ли Посланник Аллаха (прелюбодеев) побиванию камнями /раджм/?” Он ответил: “Да”. Я спросил: “(Он делал это) до ниспослания суры “ан-Нур” или после?” Он ответил: “Я не знаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6813</td></tr><tr><td>Arabic No</td><td>6813</td></tr><tr><td>Reference</td><td>Book 86 Hadith 42</td></tr></tbody></table></div>
 

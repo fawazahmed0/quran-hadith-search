@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:that he heard the Prophet (ﷺ) saying, "Allah does not lis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Hamzah] telah menceritakan kepadaku [Ibn Abu Hazim] dari [Yazid] dari [Muhammad bin Ibrahim] dari [Abu Salamah] dari [Abu Hurairah], bahwa ia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Allah tidak pernah mengijinkan sesuatu sebagaimana ijin-Nya terhadap nabi-Nya untuk memperindah suara Al Qur'an dan menyaringkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7544</td></tr><tr><td>Arabic No</td><td>7544</td></tr><tr><td>Reference</td><td>Book 97 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что он слышал, как Пророк ﷺ говорил: «Аллах ничему не внимает так, как внимает Он обладающему красивым голосом пророку, который вслух читает Коран нараспев»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7544</td></tr><tr><td>Arabic No</td><td>7544</td></tr><tr><td>Reference</td><td>Book 97 Hadith 169</td></tr></tbody></table></div>
 

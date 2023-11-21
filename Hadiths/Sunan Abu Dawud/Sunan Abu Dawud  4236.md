@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: If anyone wants to put a ring of f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] berkata, telah menceritakan kepada kami [Abdul Aziz] -maksudnya Abdul Aziz bin Muhammad- dari [Asid bin Abu Asid Al Barrad] dari [Nafi' bin Ayyasy] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa ingin memberi cincin kekasihnya dengan cincin dari api, hendaklah ia memberinya cincin dari emas. Barangsiapa ingin memberi gelang kepada kekasihnya dengan gelang dari api, hendaklah ia memberinya gelang dari emas. Dan barangsiapa ingin memberi gelang kepada kekasihnya dengan gelang dari api, hendaklah ia memberinya gelang dari emas. Hendaklah kalian menggunakan perak, dan bersenang-senanglah kalian dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4236</td></tr><tr><td>Arabic No</td><td>4236</td></tr><tr><td>Reference</td><td>Book 36 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто желает надеть на того, кого любит, кольцо из Огня, пусть наденет на него серьги из золота, и кто желает надеть на шею того, кого любит, ожерелье из Огня, пусть наденет на него золотое ожерелье, и кто желает надеть на того, кого любит, браслет из Огня, пусть наденет на него золотой браслет! Вам следует носить серебро»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4236</td></tr><tr><td>Arabic No</td><td>4236</td></tr><tr><td>Reference</td><td>Book 36 Hadith 23</td></tr></tbody></table></div>
 

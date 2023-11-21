@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:"There is a time on Friday 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abdurrahman bin Sallam Al Jumahi] Telah menceritakan kepada kami [Ar Rabi'] yakni Ibnu Muslim, dari [Muhammad bin Ziyad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Sesungguhnya pada hari Jum'at terdapat satu waktu, tidaklah seorang mukmin mendapati waktu tersebut dengan berdo'a, memohon kebaikan kepada Allah, kecuali Allah akan mengabulkan permohonannya. Dan waktu itu sangatlah singkat." Dan telah menceritakannya kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdurrazaq] Telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam; namun ia tidak mengatakan; "Dan saat itu sangatlah sempit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1973</td></tr><tr><td>Arabic No</td><td>852.05</td></tr><tr><td>Reference</td><td>Book 7 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Поистине, есть в пятницу такой период времени, когда Аллах непременно дарует мусульманину, просящему Его (даровать ему) нечто благое, то, (чего тот просит)». Далее он сказал: «И это короткий период»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1973</td></tr><tr><td>Arabic No</td><td>852.05</td></tr><tr><td>Reference</td><td>Book 7 Hadith 23</td></tr></tbody></table></div>
 

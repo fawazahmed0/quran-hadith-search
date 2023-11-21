@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) commanded that a ram with black leg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] telah menceritakan kepada kami [Abdullah bin Wahb] dia berkata; [Haiwah] berkata; telah mengabarkan kepadaku [Abu Shahr] dari [Yazid in Qusaith] dari ['Urwah bin Zubair] dari ['Aisyah], bahwa Rasulullah shallallahu 'alaihi wasallam pernah menyuruh untuk diambilkan dua ekor domba bertanduk yang di kakinya berwarna hitam, perutnya terdapat belang hitam, dan di kedua matanya terdapat belang hitam. Kemudian domba tersebut di serahkan kepada beliau untuk dikurbankan, lalu beliau bersabda kepada 'Aisyah: "Wahai 'Aisyah, bawalah pisau kemari." Kemudian beliau bersabda: "Asahlah pisau ini dengan batu." Lantas 'Aisyah melakukan apa yang di perintahkan beliau, setelah di asah, beliau mengambilnya dan mengambil domba tersebut dan membaringkannya lalu beliau menyembelihnya." Kemudian beliau mengucapkan: "Dengan nama Allah, ya Allah, terimalah ini dari Muhammad, keluarga Muhammad, dan ummat Muhammad." Kemudian beliau berkurban dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5091</td></tr><tr><td>Arabic No</td><td>1967</td></tr><tr><td>Reference</td><td>Book 35 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5091</td></tr><tr><td>Arabic No</td><td>1967</td></tr><tr><td>Reference</td><td>Book 35 Hadith 28</td></tr></tbody></table></div>
 

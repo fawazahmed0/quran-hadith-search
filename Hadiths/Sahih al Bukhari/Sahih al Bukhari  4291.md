@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:During the year of the Conquest (of Mecca), the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaid bin Ismail] Telah menceritakan kepada kami [Abu usamah] dari [Hisyam] dari [ayahnya], Nabi shallallahu 'alaihi wasallam pada tahun penaklukan Makkah masuk dari atas Makkah dari Kada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4291</td></tr><tr><td>Arabic No</td><td>4291</td></tr><tr><td>Reference</td><td>Book 64 Hadith 324</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что отец Хишама сказал: «В год завоевания Мекки Пророк ﷺ вошёл через верхнюю часть Мекки через Кяда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4291</td></tr><tr><td>Arabic No</td><td>4291</td></tr><tr><td>Reference</td><td>Book 64 Hadith 324</td></tr></tbody></table></div>
 

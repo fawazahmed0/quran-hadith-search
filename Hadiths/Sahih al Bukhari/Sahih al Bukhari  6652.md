@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit bin Ad-Dahhak:The Prophet (ﷺ) said, "Whoever swears by a relig
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami [Wuhaib] dari [Ayyub] dari [Abu Qilabah] dari [Tsabit bin Adh Dhahhak] menuturkan; Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah dengan agama selain Islam, maka dia seperti yang dikatakannya, dan barangsiapa membunuh dirinya dengan sesuatu, ia disiksa di neraka jahannam dengan sesuatu yang digunakannya untuk bunuh diri, dan melaknat seorang mukmin bagaikan membunuhnya, dan barangsiapa menuduh seorang mukmin dengan kekafiran, maka dia seperti membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6652</td></tr><tr><td>Arabic No</td><td>6652</td></tr><tr><td>Reference</td><td>Book 83 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Сабита ибн ад-Даххака, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кто поклялся не религией ислама, тот таков, как он сам сказал, и кто убил себя посредством какого-то предмета, того будут мучить этим предметом в огне Ада, и проклинание верующего подобно его убийству, и кто обвинил верующего в неверии, подобен тому, кто его убил!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6652</td></tr><tr><td>Arabic No</td><td>6652</td></tr><tr><td>Reference</td><td>Book 83 Hadith 31</td></tr></tbody></table></div>
 

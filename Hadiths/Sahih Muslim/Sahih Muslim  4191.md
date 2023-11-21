@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) said:The Umra for which Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abd bin Humaid] dan ini adalah lafadznya, keduanya berkata; telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Jabir] dia berkata, "Hanyasanya 'Umra yang diperbolehkan Rasulullah shallallahu 'alaihi wasallam adalah seseorang mengatakan, 'Ini untuk anda dan keturunan anda.' Namun jika si pemberi berkata 'Ini untukmu selagi kamu masih hidup.' Maka harta pemberian itu akan kembali kepada si pemberi." [Ma'mar] berkata, "Zuhri memberi fatwa dengan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4191</td></tr><tr><td>Arabic No</td><td>1625.04</td></tr><tr><td>Reference</td><td>Book 24 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4191</td></tr><tr><td>Arabic No</td><td>1625.04</td></tr><tr><td>Reference</td><td>Book 24 Hadith 29</td></tr></tbody></table></div>
 

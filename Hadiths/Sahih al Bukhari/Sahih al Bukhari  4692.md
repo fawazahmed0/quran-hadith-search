@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:'Abdullah bin Mas'ud recited "Haita laka (Come you)," and adde
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Sa'id] Telah menceritakan kepada kami [Bisyr bin 'Umar] Telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] dari [Abu Wail] dari ['Abdullah bin Mas'ud] dia berkata; mengenai firman Allah: "Marilah ke sini, (Yusuf: 23)." Ibnu Mas'ud berkata; Kami membacanya sesuai dengan yang telah diajarkan kepada kami. Arti Matswaahu: tempat tinggalnya. Arti Al Fayaa: keduanya mendapatkan. Sebagaimana perkataan Al Fau Aabaa'ahum: yakni mereka mendapatkan. Demikian juga dari Ibnu Mas'ud mengenai firman Allah: Bahkan aku menjadi heran (terhadap keingkaran mereka) dan mereka menghinakan kamu. (As Shafaat:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4692</td></tr><tr><td>Arabic No</td><td>4692</td></tr><tr><td>Reference</td><td>Book 65 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Уаиля, что ‘Абдуллах ибн Мас‘уд прочитал: «Иди ко мне /хайта ля-ка/», и сказал: «Мы читаем его так, как нас научили»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4692</td></tr><tr><td>Arabic No</td><td>4692</td></tr><tr><td>Reference</td><td>Book 65 Hadith 214</td></tr></tbody></table></div>
 

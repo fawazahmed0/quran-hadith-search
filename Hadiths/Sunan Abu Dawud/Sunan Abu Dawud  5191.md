@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said :Most of the people did not act upon the verse about asking pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Ash Shabbah bin Sufyan] dan [Ibnu Abdah] -dan ini adalah haditsnya- keduanya berkata; telah mengabarkan kepada kami [Sufyan] dari [Ubaidullah bin Abu Yazid] ia mendengar [Ibnu Abbas] berkata, "Sebelum orang-orang diperintahkan oleh ayat izin, aku telah memerintahkan budakku untuk minta izin kepadaku." Abu Dawud berkata, " [Atha] juga meriwayatkan dari [Ibnu Abbas] dengan lafadz 'memerintahkan dengannya (izin)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5191</td></tr><tr><td>Arabic No</td><td>5191</td></tr><tr><td>Reference</td><td>Book 43 Hadith 419</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5191</td></tr><tr><td>Arabic No</td><td>5191</td></tr><tr><td>Reference</td><td>Book 43 Hadith 419</td></tr></tbody></table></div>
 

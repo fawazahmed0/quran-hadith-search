@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:There was an orphan (girl) under the care of a man. He married he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam] dari [Ibnu Juraij] berkata; Telah mengabarkan kepadaku [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] bahwa seorang laki-laki memiliki seorang wanita yatim. Lalu dia menikahinya karena wanita itu memiliki kebun kurma. Hingga dia di suruh menjaga kebun itu yang sebenarnya dia tidak mencintai wanita itu. Maka turunlah ayat: "Dan jika kamu takut tidak akan dapat berlaku adil terhadap (hak-hak) perempuan yang yatim bilamana kamu mengawininya….." (An Nisa: 3). Aku mengira Hisyam berkata; Wanita itu dia sertakan dalam mengurus kebun kurma dan hartanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4573</td></tr><tr><td>Arabic No</td><td>4573</td></tr><tr><td>Reference</td><td>Book 65 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказывала: «На попечении одного из мужчин была девушка-сирота, обладавшая пальмой. Он удержал её из-за этой пальмы, а после и вовсе женился на ней, не заплатив ей (в качестве махра) ничего. В отношении этого были ниспосланы слова Аллаха: “Если вы боитесь, что не соблюдете справедливости по отношению к сиротам…”». \nОдин из передатчиков сказал: «Я думаю, что он (Ибн Джурейдж) сказал: “Она была его партнером в отношении этой пальмы и его имущества”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4573</td></tr><tr><td>Arabic No</td><td>4573</td></tr><tr><td>Reference</td><td>Book 65 Hadith 95</td></tr></tbody></table></div>
 

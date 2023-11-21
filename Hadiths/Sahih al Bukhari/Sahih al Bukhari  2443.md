@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "Help your brother, whethe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abi Syaibah] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami ['Ubaidullah bin Abi Bakar bin Anas] dan [Humaid Ath-Thowil] dia mendengar [Anas bin Malik radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tolonglah saudaramu yang berbuat zhalim (aniaya) dan yang dizhalimi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 46 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Помогай брату своему (независимо от того), притеснителем он является или притесняемым!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 46 Hadith 4</td></tr></tbody></table></div>
 

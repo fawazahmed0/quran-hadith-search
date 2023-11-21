@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying:I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (395)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>821</td></tr><tr><td>Arabic No</td><td>821</td></tr><tr><td>Reference</td><td>Book 2 Hadith 431</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от вольноотпущенника Хишама ибн Зухры Абу ас-Саиб: «Я слышал, как Абу Хурайра, да будет доволен им Аллах, говорил, что Посланник Аллаха ﷺ сказал: “Если кто-то совершил молитву, не прочитав в ней мать Корана, его молитва будет неполной, его молитва будет неполной, его молитва будет неполной и несовершенной!” Я сказал: “О Абу Хурайра! Но ведь иногда я совершаю молитву под руководством имама!” Он сказал, тронув моё предплечье: “Читай её про себя, о перс, ибо, поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Всемогущий и Великий Аллах сказал: “Я разделил молитву на две равные части между Собой и Своим рабом, и раб Мой получит то, о чём просит”. И когда человек говорит: “Хвала Аллаху, Господу миров”, Всемогущий и Великий Аллах говорит: “Восхвалил Меня раб Мой!” Когда он говорит: “Всемилостивому, Милостивому”, Всемогущий и Великий Аллах говорит: “Раб Мой воздал Мне хвалу!” Когда он говорит: “Властелину Дня воздаяния”, Всемогущий и Великий Аллах говорит: “Восславил Меня раб Мой!” Когда он говорит: “Тебе Одному мы поклоняемся и Тебя Одного молим о помощи”, Аллах говорит: “Половина этого Мне, а половина Моему рабу, и раб Мой получит то, о чём просит”. А когда человек говорит: “Веди нас прямым путём, путём тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших”, Аллах говорит: “Я дарую это Моему рабу, и раб Мой получит то, о чём просит””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (395)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>821</td></tr><tr><td>Arabic No</td><td>821</td></tr><tr><td>Reference</td><td>Book 2 Hadith 431</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: Let there be curse of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Qutaibah bin Sa'id] telah menceritakan kepada kami [al-Fazari] dari [Ubaidullah al-Ashamm] telah menceritakan kepada kami [Yazid bin al-Ashamm] dari [Abu Hurairah radhiyallahu'anhu] bahwa Rasulullah shallallahu'alaihiwasallam bersabda, "Allah melaknat kaum Yahudi dan Nashrani yang menjadikan kuburan para nabi mereka sebagai masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1186</td></tr><tr><td>Arabic No</td><td>530.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Аллах проклял иудеев и христиан за то, что они избрали могилы своих пророков местами для поклонения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1186</td></tr><tr><td>Arabic No</td><td>530.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 26</td></tr></tbody></table></div>
 

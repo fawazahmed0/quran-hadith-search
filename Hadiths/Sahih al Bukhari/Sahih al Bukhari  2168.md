@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:Aisha said, "Barira came to me and said, 'I have agreed with my m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] berkata: "Bahwa Barirah datang kepadaku seraya berkata: "Tuanku telah menetapkan (tebusan untuk pembebasanku) sebanyak sembilan waq yang setiap tahunnya wajib kubayar satu waq, maka tolonglah aku". Aku berkata: "Jika tuanmu suka, aku akan bayar ketetapan tersebut kepada mereka dan perwalianmu ada padaku. Lalu aku penuhi. Kemudian Barirah datang kepada para sahabat sementara Rasulullah shallallahu 'alaihi wasallam sedang duduk, lalu dia berkata: "Sungguh aku sudah menawarkan hal itu kepada mereka namun mereka enggan menerimanya kecuali bila perwalian tetap menjadi hak mereka". Nabi shallallahu 'alaihi wasallam mendengar hal ini lalu 'Aisyah radliallahu 'anha mengabarkan kepada Nabi shallallahu 'alaihi wasallam, maka Beliau berkata: "Ambillah dia (Barirah) dan berikan syarat perwalian kepada tuannya bahwa perwalian seorang budak adalah bagi yang memerdekakannya". Maka 'Aisyah radliallahu 'anha melaksanakan perintah Beliau. Kemudian Rasulullah shallallahu 'alaihi wasallam berdiri di hadapan manusia lalu memuji Allah dan mengagungkan-Nya kemudian bersabda: "Bagaimana jadinya suatu kaum, mereka membuat persyaratan dengan syarat-syarat yang tidak ada pada Kitabulloh. Apapun bentuknya syarat yang tidak sesuai dengan Kitab Allah maka syarat itu batal sekalipun seratus kali persyaratan. Ketetapan Allah lebih berhaq (untuk ditunaikan) dan syarat (yang ditetapkan) Allah lebih kokoh. Sesungguhnya perwalian (seorang budak) adalah untuk yang memerdekakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2168</td></tr><tr><td>Arabic No</td><td>2168</td></tr><tr><td>Reference</td><td>Book 34 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды ко мне пришла Барира и сказала: “Я заключила договор о самовыкупе со своими хозяевами за девять окий (серебра) сроком на девять лет, при условии, что я ежегодно буду выплачивать им по одной окий, помоги же мне (расплатиться)”. Я сказала: “Если они согласятся, чтобы я выплатила за тебя необходимую сумму, и уаля (право наследования имущества освобождённого) будет принадлежать мне, то я сделаю это”. Тогда Барира пошла к своим хозяевам, передала им её слова, но они отказались. Когда она вернулась, Посланник Аллаха ﷺ сидел (в доме ‘Аиши). Она сказала: “Я предложила им, но они настояли, что право наследования имущества освобождённого останется за ними”. Когда Пророк ﷺ услышал её, и ‘Аиша рассказала ему все в подробностях, он сказал: “Купи её и поставь им условие, что право наследования имущества освобождённого останется за тобой, ведь покровителем может быть только тот, кто освободил раба”. ‘Аиша так и сделала. Затем Посланник Аллаха ﷺ встал перед людьми, прославил и восхвалил Аллаха, и сказал: “А затем. Почему люди выдвигают условия, которых нет в Книге Аллаха? Условия, которых нет в Книге Аллаха, являются недействительными, даже если это будет сто условий! Решения Аллаха являются самыми истинными, а условия Аллаха самыми надёжными. Право наследования имущества освобождённого принадлежит только тому, кто освободил раба”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2168</td></tr><tr><td>Arabic No</td><td>2168</td></tr><tr><td>Reference</td><td>Book 34 Hadith 119</td></tr></tbody></table></div>
 

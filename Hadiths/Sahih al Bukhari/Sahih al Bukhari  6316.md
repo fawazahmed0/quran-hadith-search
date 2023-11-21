@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:One night I slept at the house of Maimuna. The Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Ibnu Mahdi] dari [Sufyan] dari [Salamah] dari [Kuraib] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Aku pernah bermalam di rumah Maimunah, lalu Nabi shallallahu 'alaihi wasallam bangun untuk membuang hajat. Kemudian beliau membasuh wajah dan kedua tangannya, lalu beliau mendatangi tempat air yang digantung dan membuka talinya. Kemudian beliau berwudlu di antara dua wudlu (dua kali dalam membasuh), tidak banyak namun sempurna. Kemudian beliau melaksanakan shalat, aku pun berdiri dan berjinjit khawatir beliau akan melihat bahwa aku memperhatikannya, lalu aku berwudlu dan berdiri untuk shalat. Maka aku berdiri di sebelah kiri beliau lalu beliau meraih telingaku dan menggeserku ke sebelah kanannya. Shalat beliau pun selesai hingga tiga belas rakaat. Kemudian beliau berbaring dan tertidur hingga terdengar tarikan nafasnya. Beliau jika tidur terdengar tarikan nafasnya, lalu Bilal mengumandangkan adzan untuk shalat, kemudian beliau shalat tanpa berwudlu lagi. Di dalam doanya beliau mengucapkan: "'ALLAHUMMAJ'AL FI QALBI NURAN WA FI BASHARI NURAN WA FI SAM'I NURAN WA 'AN YAMINI NURAN WA 'AN YASARI NURAN WA MIN FAUQI NURAN WA MIN TAHTI NURAN WA MIN AMAMI NURAN WA MIN KHALFI NURAN WA A'ZHIM LI NURAN' (Ya Allah, jadikanlah cahaya di dalam hatiku, cahaya di dalam pendengaranku, cahaya di penglihatanku, cahaya di sebelah kananku, cahaya di sebelah kiriku, cahaya di hadapanku, cahaya di belakangku, cahaya di atasku, cahaya di bawahku dan muliakanlah cahaya bagiku)." Kuraib berkata; Ada tujuh di dalam dada, ia berkata; Lalu aku bertemu dengan salah seorang anak Al Abbas, lalu ia menceritakannya kepadaku, lalu menyebutkan; 'ASHABI WA LAHMI WA DAMI WA SYA'RI WA BASYARI' (Uratku, dagingku, rambutku dan kulitku).' Ia berkata; Dan menyebutkan dua hal lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6316</td></tr><tr><td>Arabic No</td><td>6316</td></tr><tr><td>Reference</td><td>Book 80 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+[‘Абдуллах] ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Однажды, когда) я ночевал у Маймуны, Пророк ﷺ поднялся ночью, удовлетворил свою нужду, омыл лицо и руки, а потом снова лёг спать. Потом он снова встал, подошёл к бурдюку и развязал его, совершил омовение, израсходовав не слишком много воды, но сделав всё полностью, а потом помолился. Я (тоже) поднялся и подошёл (к нему), потягиваясь и не желая, чтобы он понял, что я смотрел на него, и совершил омовение, а когда он встал на молитву, я встал слева от него, но он взял меня за ухо и поставил справа от себя. Молитва, которую он совершил, состояла из тринадцати рак‘атов, а после (молитвы) он лёг, заснул и начал глубоко дышать, так как он всегда глубоко дышал во сне. А потом Биляль сообщил ему о наступлении времени молитвы, и он помолился, не совершив омовения. Обращаясь же к Аллаху с мольбами, (Пророк ﷺ) обычно говорил: “О Аллах, помести в сердце моё свет, и в зрение моё свет, и в слух мой свет, и справа от меня свет, и слева от меня свет, и надо мной свет, и подо мной свет, и передо мной свет, и позади меня свет, и даруй мне свет!”»\n/Аллахумма-дж‘аль фи кальби нуран, ва фи басари нуран, ва фи сам‘и нуран, ва ‘ан йамини нуран, ва ‘ан йасари нуран, ва фауки нуран, ва тахти нуран, ва амами нуран, ва хальфи нуран, ва-дж‘аль ли нуран/\nКурайб сказал: «А семь (других вещей я забыл, но) они есть в (моём) сердце. А потом я встретил одного из потомков аль-‘Аббаса, и он рассказал мне о них, и он упомянул мне, (что этими словами были) “мои сухожилия” ('асаби), “моя плоть” (ляхми), “моя кровь” (дами), “мои волосы” (ша‘ри) и “моя кожа” (башари), и упомянул о двух других вещах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6316</td></tr><tr><td>Arabic No</td><td>6316</td></tr><tr><td>Reference</td><td>Book 80 Hadith 13</td></tr></tbody></table></div>
 

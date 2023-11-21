@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) Allah's Messenger (ﷺ) came to me whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; Telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] bahwa [Aisyah radliallahu 'anha] -istri Rasulullah shallallahu 'alaihi wasallam- mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam pernah mendatangi Aisyah ketika Allah menyuruhnya untuk memilih (cerai atau tetap bersama) para istrinya, beliau memulai denganku. Beliau bersabda: "Saya hendak memberitahukan kepadamu hal yang sangat penting, karena itu, janganlah kamu terburu-buru menjawabnya sebelum kamu bermusyawarah dengan kedua orang tuamu." Dia (Aisyah) berkata; Beliau tahu benar, kedua orang tuaku tidak akan mengizinkanku bercerai dengan beliau. Dia (Aisyah) melanjutkan; Kemudian beliau bersabda: "Sesungguhnya Allah berfirman: 'Wahai Nabi, katakanlah kepada istri-istrimu, jika kalian menghendaki kehidupan dunia beserta perhiasannya, marilah kuberikan kepadamu suatu pemberian, kemudian kuceraikan kamu dengan cara yang baik, dan jika kalian menghendaki Allah dan Rasul-Nya serta kampung akhirat, sesungguhnya Allah menyediakan pahala yang besar bagi yang berbuat kebajikan di antara kamu'. Al Ahzab: 28). Aisyah berkata; Apa untuk yang seperti ini saya harus minta musyawarah kepada kedua orang tuaku?, sudah tentu saya menghendaki Allah dan Rasul-Nya serta kampung akhirat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4785</td></tr><tr><td>Arabic No</td><td>4785</td></tr><tr><td>Reference</td><td>Book 65 Hadith 307</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда был ниспослан аят о предоставлении выбора, Посланник Аллаха ﷺ пришёл ко мне, и я была первая, с кого он начал, сказав: “Я хочу кое-что сказать тебе, но не торопись с ответом, пока не посоветуешься со своими родителями”. А он знал, что мои родители никогда не посоветуют мне оставить его. Затем Пророк ﷺ сказал: “Поистине, Аллах сказал: “О Пророк! Скажи своим женам…” и до конца 29-го аята. Я сказала: “Неужели об этом мне нужно советоваться с родителями? Я выбираю Аллаха, Его посланника и Последнюю обитель”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4785</td></tr><tr><td>Arabic No</td><td>4785</td></tr><tr><td>Reference</td><td>Book 65 Hadith 307</td></tr></tbody></table></div>
 

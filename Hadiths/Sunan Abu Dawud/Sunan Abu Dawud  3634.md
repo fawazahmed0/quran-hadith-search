@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Holy Prophet(ﷺ) as saying:When one of you asks permi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Ibnu Abu Khalaf] mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Al A'raj] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian meminta izin kepada saudaranya untuk meletakkan kayu pada dindingnya maka izinkanlah, lalu mereka mengiyakan dengan kepalanya. Lalu dia berkata; 'Kenapa saya masih melihat kalian menolaknya. Sungguh saya akan menyampaikan kepada mereka." Abu Daud berkata; Ini adalah hadits Ibnu Abu Khalaf, dan merupakan yang paling lengkap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2463) Sahih Muslim (1609)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3634</td></tr><tr><td>Arabic No</td><td>3634</td></tr><tr><td>Reference</td><td>Book 25 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если кто-то из вас попросил у брата своего разрешения прибить доску к его стене, он не должен отказывать ему». Однако люди не послушались. Тогда (Абу Хурайра) сказал: «Что случилось? Вы отворачиваетесь (от речей Посланника Аллаха ﷺ) … Я не перестану говорить вам об этом!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2463) Sahih Muslim (1609)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3634</td></tr><tr><td>Arabic No</td><td>3634</td></tr><tr><td>Reference</td><td>Book 25 Hadith 64</td></tr></tbody></table></div>
 

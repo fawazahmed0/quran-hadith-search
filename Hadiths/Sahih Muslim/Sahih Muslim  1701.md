@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shaqiq reported:I fell ill in Persia and therefore, prayed in a sitt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Hammad] dari [Budail] dan [Ayyub] dari [Abdullah bin Syaqiq] dari ['Aisyah] katanya; Rasulullah shallallahu 'alaihi wasallam biasa shalat malam sekian lama, jika beliau shalat dengan berdiri, maka beliau ruku' dengan berdiri, dan jika beliau shalat dengan duduk, maka beliau ruku' dengan duduk." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Budail] dari [Abdullah bin Syaqiq], katanya; "Aku pernah mengeluhkan nyeri, maka aku shalat dengan duduk, maka aku tanyakan hal itu kepada ['Aisyah], dia menjawab; "Rasulullah shallallahu 'alaihi wasallam juga pernah shalat malam sekian lama sambil duduk, lalu ia menyebutkan haditnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1701</td></tr><tr><td>Arabic No</td><td>730.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн Шакык сказал: «Заболев в Персии, я совершал молитву сидя, и (затем) спросил об этом ‘Аишу, а она ответила: “По ночам Посланник Аллаха ﷺ подолгу молился стоя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1701</td></tr><tr><td>Arabic No</td><td>730.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 131</td></tr></tbody></table></div>
 

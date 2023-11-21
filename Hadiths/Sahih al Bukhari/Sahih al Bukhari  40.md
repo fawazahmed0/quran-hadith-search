@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' (bin 'Azib): When the Prophet (ﷺ) came to Medina, he stayed 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Khalid] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Abu Ishaq] dari [Al Barro' bin 'Azib] bahwa Nabi shallallahu 'alaihi wasallam saat pertama kali datang di Madinah, singgah pada kakek-kakeknya ('Azib) atau paman-pamannya dari Kaum Anshar, dan saat itu Beliau shallallahu 'alaihi wasallam shalat menghadap Baitul Maqdis selama enam belas bulan atau tujuh belas bulan, dan Beliau sangat senang sekali kalau shalat menghadap Baitullah (Ka'bah). Shalat yang dilakukan Beliau shallallahu 'alaihi wasallam pertama kali (menghadap Ka'bah) itu adalah shalat 'ashar dan orang-orang juga ikut shalat bersama Beliau. Pada suatu hari sahabat yang ikut shalat bersama Nabi shallallahu 'alaihi wasallam pergi melewati orang-orang di Masjid lain saat mereka sedang ruku', maka dia berkata: "Aku bersaksi kepada Allah bahwa aku ikut shalat bersama Rasulullah shallallahu 'alaihi wasallam menghadap Makkah, maka orang-orang yang sedang (ruku') tersebut berputar menghadap Baitullah dan orang-orang Yahudi dan Ahlul Kitab menjadi heran, sebab sebelumnya Nabi shallallahu 'alaihi wasallam shalat menghadap Baitul Maqdis. Ketika melihat Nabi shallallahu 'alaihi wasallam menghadapkan wajahnya ke Baitullah mereka mengingkari hal ini. Berkata Zuhair Telah menceritakan kepada kami Abu Ishaq dari Al Barro', dalam haditsnya ini menerangkan tentang (hukum) seseorang yang meninggal dunia pada saat arah qiblat belum dialihkan dan juga banyak orang-orang yang terbunuh pada masa itu?, kami tidak tahu apa yang harus kami sikapi tentang mereka hingga akhirnya Allah Ta'ala menurunkan firman-Nya: "Dan Allah tidaklah akan menyia-nyiakan iman kalian". (QS. Al Baqoroh:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ ибн ‘Азиб, да будет доволен им Аллах, сказал: «В первое время после приезда Пророка ﷺ в Медину он жил у своих дедов (или же он сказал: у дядей своей матери) из числа ансаров. (После этого) он в течение шестнадцати или семнадцати месяцев молился, обращаясь лицом в сторону Иерусалима, однако ему хотелось обращаться во время молитвы в сторону Каабы. Первой такой молитвой, которую он ﷺ совершил вместе с другими людьми, была послеполуденная молитва /‘аср/. Затем один из тех, кто молился вместе с ним, вышел и, проходя мимо собравшихся в мечети людей, которые склонились в поясном поклоне(, повернувшись в сторону Иерусалима), сказал: “Клянусь Аллахом, (только что) я молился вместе с посланником Аллаха ﷺ обратившись в сторону Мекки”. (Услышав это,) они сразу же повернулись в сторону Каабы. Что касается иудеев и (других) людей Писания, то им было приятно, что Пророк ﷺ молился, обращаясь в сторону Иерусалима, когда же он стал поворачиваться лицом в сторону Каабы, им это не понравилось»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
 

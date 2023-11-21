@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd: The Prophet (ﷺ) said: There is hesitation in everything except 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Muhammad bin Ash Shabbah] berkata, telah menceritakan kepada kami [Affan] berkata, telah menceritakan kepada kami [Abdul Wahid] berkata, telah menceritakan kepada kami [Sulaiman Al A'masy] dari [Malik Ibnul Harits] -Al A'masy berkata; Aku mendengar mereka menyebutkan dari [Mush'ab bin Sa'd] dari [Bapaknya] - Al A'masy berkata, "Aku tidak tahu kecuali bahwa itu adalah dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sabar dalam segala sesuatu itu baik, kecuali dalam beramal untuk akhirat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4810</td></tr><tr><td>Arabic No</td><td>4810</td></tr><tr><td>Reference</td><td>Book 43 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4810</td></tr><tr><td>Arabic No</td><td>4810</td></tr><tr><td>Reference</td><td>Book 43 Hadith 38</td></tr></tbody></table></div>
 

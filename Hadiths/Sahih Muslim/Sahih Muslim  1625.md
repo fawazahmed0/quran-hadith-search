@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Lorsqu'il se mettait en marche avant
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Said] Telah menceritakan kepada kami [Almufadhdhal] yakni Ibnu fadhalah dari [Uqail] dari [Ibnu Syihab] dari [Anas bin Malik] katanya, Dahulu Rasulullah shallallahu 'alaihi wasallam jika melakukan safar (perjalanan) sebelum matahari miring, maka beliau mengakhirkan shalat zhuhur hingga waktu ashar, kemudian singgah dan beliau jamak antara keduanya. Namun jika melakukan perjalanan dan matahari telah miring, beliau lakuakn shalat zhuhur terlebih dahulu kemudian beliau naik kendarannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1625</td></tr><tr><td>Arabic No</td><td>704.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, сказал: «Когда Посланник Аллаха ﷺ отправлялся в путь до того, как солнце уклонялось от зенита, он (обычно) откладывал полуденную молитву до времени послеполуденной, затем спускался и объединял их вместе; а если солнце склонялось (в полдень), он совершал полуденную молитву и затем отправлялся (в путь)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1625</td></tr><tr><td>Arabic No</td><td>704.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 56</td></tr></tbody></table></div>
 

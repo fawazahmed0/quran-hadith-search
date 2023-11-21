@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Safiyyah said:When the Messenger of Allah (ﷺ) was observing I'tikaf (in the mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Syabbuwaih Al Marwazi], telah menceritakan kepadaku [Abdurrazzaq], telah mengabarkan kepada kami [Ma'mar], dari [Az Zuhri], dari [Ali bin Husain], dari [Shafiyyah], berkata; Rasulullah shallallahu 'alaihi wasallam beri'tikaf, kemudian aku datang menjenguk beliau pada malam hari. Lalu aku mengajak beliau berbicara kemudian berdiri dan kembali. Lalu beliau berdiri bersamaku untuk mengantarku, tempat tinggal Shafiyyah adalah di rumah Usamah bin Zaid. Kemudian terdapat dua orang laki-laki anshar yang lewat. Kemudian tatkala mereka melihat Nabi shallallahu 'alaihi wasallam maka mereka mempercepat jalan. Lalu Nabi shallallahu 'alaihi wasallam berkata: "Perlahanlah berjalan. Ia adalah Shafiyyah binti Huyai." Mereka berkata; subhanallah wahai Rasulullah. Beliau berkata: "Sesungguhnya syetan berjalan pada diri manusia melalui tempat mengalirnya darah. Aku khawatir ia akan melemparkan sesuatu -atau beliau mengatakan: keburukan- pada hati kalian berdua." Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris], telah menceritakan kepada kami [Abu Al Yaman], telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri], dengan sanadnya; dengan hal inilah Aisyah berkata; kemudian tatkala berada di samping pintu masjid yang berada di samping pintu Ummu Salamah, terdapat dua orang laki-laki yang melewati mereka ….. dan ia menyebutkan hadits secara maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3281) Sahih Muslim (2175)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2470</td></tr><tr><td>Arabic No</td><td>2470</td></tr><tr><td>Reference</td><td>Book 14 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сафийи, да будет доволен ею Аллах: «Я пришла навестить Посланника Аллаха ﷺ однажды вечером в период его неотлучного пребывания в мечети. Мы поговорили немного, а потом я поднялась и собралась пойти домой, а она жила в доме, который впоследствии принадлежал Усаме ибн Зейду, и он встал, чтобы проводить меня. Мимо нас прошли два ансара. Увидев Пророка ﷺ они ускорили шаг. Пророк ﷺ сказал: “Не торопитесь… Это ведь Сафийя бинт Хуяйй!” Они воскликнули: “Пречист Аллах, о Посланник Аллаха!” Он сказал: “Шайтан течёт в человеке с током крови, и я побоялся, что он внушит вашим сердцам что-нибудь (или: что-нибудь дурное)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3281) Sahih Muslim (2175)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2470</td></tr><tr><td>Arabic No</td><td>2470</td></tr><tr><td>Reference</td><td>Book 14 Hadith 158</td></tr></tbody></table></div>
 

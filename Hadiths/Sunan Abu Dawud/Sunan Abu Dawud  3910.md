@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) said: Taking omens is polytheism
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepadaku [Sufyan] dari [Salamah bin Kuhail] dari [Isa bin 'Ashim] dari [Zir bin Hubaisy] dari [Abdullah bin Mas'ud] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Thiyarah adalah syirik, thiyarah adalah syirik -tiga kali-. Tidaklah di antara kita kecuali beranggapan seperti itu, akan tetapi Allah menghilangkannya dengan tawakal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3910</td></tr><tr><td>Arabic No</td><td>3910</td></tr><tr><td>Reference</td><td>Book 30 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн Мас‘уда, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поступать согласно суевериям придавание Аллаху сотоварищей, поступать согласно суевериям придавание Аллаху сотоварищей, поступать согласно суевериям придавание Аллаху сотоварищей». (‘Абдуллах) повторил свои слова трижды, а потом сказал: «Нет среди нас такого (кому не приходит в голову нечто подобное), однако Аллах избавляет от этого благодаря упованию на Него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3910</td></tr><tr><td>Arabic No</td><td>3910</td></tr><tr><td>Reference</td><td>Book 30 Hadith 7</td></tr></tbody></table></div>
 

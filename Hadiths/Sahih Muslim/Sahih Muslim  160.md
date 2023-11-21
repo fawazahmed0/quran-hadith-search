@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon 'Abdoullâh Ibn 'Amr (que Dieu l'agrée), un homme ayant demandé au Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Rumh bin al-Muhajir] telah mengabarkan kepada kami [al-Laits] dari [Yazid bin Abu Habib] dari [Abu al-Khair] dari [Abdullah bin Amru] bahwa seorang laki-laki bertanya Rasulullah shallallahu 'alaihi wasallam, "Islam yang bagaimana yang paling baik?" Beliau menjawab: "Kamu memberi makan, dan mengucapkan salam kepada orang yang kamu kenal dan orang yang tidak kamu kenal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>160</td></tr><tr><td>Arabic No</td><td>39</td></tr><tr><td>Reference</td><td>Book 1 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр, да будет доволен Аллах ими обоими, сказал: Один человек спросил Посланника Аллаха ﷺ: «Какое (проявление) ислама является наилучшим?» Он ответил: «(Лучшее состоит в том, чтобы) ты кормил (людей) и приветствовал тех, кого знаешь и кого не знаешь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>160</td></tr><tr><td>Arabic No</td><td>39</td></tr><tr><td>Reference</td><td>Book 1 Hadith 67</td></tr></tbody></table></div>
 

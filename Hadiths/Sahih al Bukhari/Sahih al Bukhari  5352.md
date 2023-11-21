@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah said, 'O son of Adam! 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] ia berkata; Telah menceritakan kepadaku [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] radliallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya, Allah berilah rezeki. Wahai Ibnu Adam berinfaklah, niscaya kalian juga akan diberi rezeki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5352</td></tr><tr><td>Arabic No</td><td>5352</td></tr><tr><td>Reference</td><td>Book 69 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Аллах сказал: “Расходуй, о сын Адама, и Я буду расходовать на тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5352</td></tr><tr><td>Arabic No</td><td>5352</td></tr><tr><td>Reference</td><td>Book 69 Hadith 2</td></tr></tbody></table></div>
 

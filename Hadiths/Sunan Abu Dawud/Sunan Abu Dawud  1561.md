@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Habib al-Maliki said:A man said to Imran ibn Husayn: AbuNujayd, you narrate to u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhamad bin Basysyar] telah menceritakan kepadaku [Muhammad bin Abdullah Al Anshari], telah menceritakan kepada Kami [Shurad bin Abu Al Manazil], ia berkata; saya mendengar [Habib Al Maliki] berkata; seorang laki-laki berkata kepada 'Imran bin Hushain; wahai Abu Nujaid, sesungguhnya kalian telah menceritakan kepada Kami dengan hadits-hadits yang tidak Kami dapatkan dasarnya dalam Al Qur'an! Maka [Imran] berkata kepada orang tersebut; apakah kalian dapatkan dalam setiap empat puluh dirham terdapat zakat satu dirham, dan dalam setiap sekian kambing zakat satu kambing, dan dalam setiap sekian unta zakat sekian dan sekian unta, apakah kalian mendapatkannya dalam Al Qur'an? Orang tersebut menjawab: tidak! Imran berkata lagi: jadi, dari siapa kalian mengambilnya? Kalian mengambilnya dari Kami dan Kami mengambilnya dari Nabi Shalla Allahu 'alaihi wa sallam. Dan dia menyebutkan perkara-perkara lain seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1561</td></tr><tr><td>Arabic No</td><td>1561</td></tr><tr><td>Reference</td><td>Book 9 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хабиб аль-Малики передаёт: «Один человек сказал ‘Имрану ибн Хусайну (да будет доволен Аллах им и его отцом): “О Абу Нуджайд, порой вы говорите нам нечто такое, основы чего мы не находим в Коране”. ‘Имран разгневался и сказал этому человеку: “Вы видите в Коране предписание о том, что с каждых сорока дирхемов полагается выплачивать закят в размере одного дирхема, а со стольких-то овец отдавать одну овцу и со стольких-то верблюдов одного верблюда?” Он ответил: “Нет”. ‘Имран сказал: “Откуда же вы тогда взяли это? От нас. А мы переняли это от Пророка Аллаха ﷺ”. И он привёл ещё несколько подобных примеров»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1561</td></tr><tr><td>Arabic No</td><td>1561</td></tr><tr><td>Reference</td><td>Book 9 Hadith 6</td></tr></tbody></table></div>
 

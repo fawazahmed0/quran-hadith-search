@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ma'an ibn Yazid: AbulJuwayriyyah al-Jarmi said: I found a red pitcher c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Shalih Mahbub bin Musa], telah mengabarkan kepada kami [Abu Ishaq Al Fazari], dari ['Ashim bin Kulaib] dari [Abu Al Juwairiyah Al Jarmi], ia berkata; aku di negeri Romawi aku mendapatkan kendi merah yang berisi uang dinar pada saat kepemimpinan Mu'awiyah. Dan kami dipimpin oleh seorang sahabat Nabi shallallahu 'alaihi wasallam dari Bani Sulaim yang dipanggil [Ma'n bin Yazid]. Lalu aku mendatanginya dengan membawa kendi tersebut, lalu ia membaginya diantara orang-orang muslim. Dan ia memberiku dari kendi tersebut seperti ia memberikan kepada salah seorang diantara mereka. Kemudian ia berkata; seandainya aku tidak mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada nafal kecuali setelah diambil seperlima niscaya aku memberimu." Kemudian beliau menawarkan kepadaku sebagian dari bagiannya. Lalu aku menolak. Telah menceritakan kepada kami [Hannad] dari [Ibnu Al Mubarak] dari [Abu 'Awanah] dari ['Ashim bin Kulaib] dengan sanadnya dan maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2753</td></tr><tr><td>Arabic No</td><td>2753</td></tr><tr><td>Reference</td><td>Book 15 Hadith 277</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2753</td></tr><tr><td>Arabic No</td><td>2753</td></tr><tr><td>Reference</td><td>Book 15 Hadith 277</td></tr></tbody></table></div>
 

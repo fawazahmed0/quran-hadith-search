@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu ‘Abd al-Rahman al-Sulami said that he witnessed ‘Abd al-Rahman b. ‘Awf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abu Bakr bin Hafsh bin Umar bin Sa'd] dia mendengar [Abu Abdillah] dari [Abu Abdirrahman As-Sulami] bahwa dia pernah menyaksikan Abdurrahman bin 'Auf bertanya kepada [Bilal] tentang wudhu Rasulullah shallallahu 'alaihi wasallam, maka Bilal berkata; Beliau pernah keluar untuk membuang hajatnya, lalu saya membawakannya air, kemudian beliau berwudhu dan mengusap sorbannya dan kedua sepatunya. Abu Dawud berkata; Dia adalah Abu Abdillah mantan sahaya Bani Taim bin Murrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>153</td></tr><tr><td>Arabic No</td><td>153</td></tr><tr><td>Reference</td><td>Book 1 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу ‘Абду-р-Рахмана ас-Сулами о том, что он видел, как ‘Абду-р-Рахман ибн ‘Ауф спросил Биляля об омовении Посланника Аллаха ﷺ и он сказал: «Обычно, он выходил справлять нужду, затем ему приносили воды и он совершал омовение, (и совершая омовение) он обтирал свою чалму и кожаные носки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>153</td></tr><tr><td>Arabic No</td><td>153</td></tr><tr><td>Reference</td><td>Book 1 Hadith 153</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The angels invoke blessin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibn Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Ayyub As Sakhtiyani] dari [Ibnu Sirin] dari [Abu Hurairah] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Para malaikat akan mendoakan salah seorang diantara kalian selama ia dalam majlisnya, mereka memohon; "Ya Allah, ampunilah dia, Ya Allah, rahmatilah dia, " selama ia belum berhadas, dan salah seorang diantara kalian dihitung dalam shalatnya selama ia tertahan oleh shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1508</td></tr><tr><td>Arabic No</td><td>649.08</td></tr><tr><td>Reference</td><td>Book 5 Hadith 341</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Ангелы будут возносить мольбы за каждого из вас всё то время, пока (человек) будет оставаться на месте (совершения) молитвы, говоря: “О Аллах, прости его, о Аллах, окажи ему милость”, до тех пор, пока он не осквернится. (И будет считаться, что) человек занят молитвой всё то время, пока (лишь) молитва будет удерживать его (там)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1508</td></tr><tr><td>Arabic No</td><td>649.08</td></tr><tr><td>Reference</td><td>Book 5 Hadith 341</td></tr></tbody></table></div>
 

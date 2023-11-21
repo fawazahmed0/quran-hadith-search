@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) said: When any of y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Qutaibah bin Sa'id] mereka berdua berkata; Telah menceritakan kepada kami [Ya'qub bin Abdurrahman] dari [Abu Hazim] dari [Muslim bin Qurth] dari ['Urwah] dari [Aisyah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian pergi untuk buang air besar, maka hendaklah dia membawa tiga batu untuk beristinja, sesungguhnya itu mencukupinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 1 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши о том, что Посланник Аллаха ﷺ сказал: «Когда кто-либо из вас выходит справить нужду, пусть берёт с собой три камешка, которыми он очистит себя, поскольку их будет для него достаточно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 1 Hadith 40</td></tr></tbody></table></div>
 

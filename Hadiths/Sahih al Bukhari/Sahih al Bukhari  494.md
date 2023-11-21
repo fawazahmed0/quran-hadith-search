@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Whenever Allah's Messenger (ﷺ) came out on 'Id day, he used
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] -yakni Ibnu Manshur- berkata, telah menceritakan kepada kami ['Abdullah bin Numair] berkata, telah menceritakan kepada kami ['Ubaidullah bin 'Umar] dari [Nafi'] dari [Ibnu 'Umar], bahwa Rasulullah shallallahu 'alaihi wasallam jika keluar untuk shalat 'ied, beliau meminta sebuah tombak lalu ditancapkannya di hadapannya. Kemudian beliau shalat dengan menghadap ke arahnya, sedangkan orang-orang shalat di belakangnya. Beliau juga berbuat seperti itu ketika dalam bepergian, yang kemudian diteruskan oleh para pemimpin (Khulafa Rasyidun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>494</td></tr><tr><td>Arabic No</td><td>494</td></tr><tr><td>Reference</td><td>Book 8 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что когда Посланник Аллаха ﷺ выходил (на молитву) в день праздника, он приказывал втыкать перед ним (в землю) короткое копьё, после чего совершал молитву, обратившись в сторону этого копья, а люди молились позади него. То же самое он делал, находясь в пути, а потом этот обычай переняли и другие правители
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>494</td></tr><tr><td>Arabic No</td><td>494</td></tr><tr><td>Reference</td><td>Book 8 Hadith 141</td></tr></tbody></table></div>
 

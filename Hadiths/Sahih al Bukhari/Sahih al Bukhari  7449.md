@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Paradise and Hell (Fire) quarrelle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Sa'd bin Ibrahim] telah menceritakan kepada kami [Ya'qub] telah menceritakan kepada kami [Ayahku] dari [Shalih bin Kisan] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Surga dan neraka saling berselisih kepada Tuhan keduanya, surga berkata, 'Wahai Tuhan, mengapa aku tak dimasuki selain orang-orang lemah dan rakyat jelata? ' Sedang neraka berkata, 'Mengapa aku dikhususkan untuk orang-orang yang sombong? ' Allah ta'ala menjawab surga: "Engkau adalah rahmat-Ku", dan Allah berfirman kepada neraka, 'Engkau adalah Siksa-Ku, yang Aku timpakan kepada siapa saja yang Aku kehendaki, dan masing-masing diantara kalian berdua harus dipenuhi.' Nabi bersabda: "Adapun surga sesungguhnya Allah tidak menzhalimi satupun dari makhluk-Na, dan Allah akan memenuhi neraka dengan siapa saja yang dikehendaki-Nya, lantas mereka dilempar ke dalamnya '(neraka berkata, 'Masihkah ada tambahan) ' (QS. Qaaf ayat: 30) -beliau mengulanginya tiga kali-, kemudian Allah meletakkan telapak kakinya sehingga neraka menjadi penuh, sebagian satu dengan sebagian yang lain saling berhimpitan, neraka pun berkata, 'cukup, cukup, sukup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7449</td></tr><tr><td>Arabic No</td><td>7449</td></tr><tr><td>Reference</td><td>Book 97 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Рай и Огонь стали пререкаться между собой, обратившись к своему Господу, и Рай сказал: “О Господь мой, почему в меня входят только слабые и приниженные люди?” Огонь сказал: “Мне дано предпочтение, мне будут отданы все высокомерные”. И тогда Всевышний Аллах сказал Раю: “Ты — Моя милость”. Потом Он сказал Огню: “Ты — Моё наказание, которому Я подвергаю, кого пожелаю, и каждый из вас двоих заполнится”. Ни с кем из обитателей Рая Аллах не поступит несправедливо, а для Огня создаст, кого пожелает. Их бросят туда, и он скажет: “Нет ли добавки?” — повторив эти слова трижды. И так до тех пор, пока Аллах не наступит на него Своей Стопой. Только тогда он заполнится, его части войдут одна в другую, и он скажет: “Довольно, довольно, довольно”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7449</td></tr><tr><td>Arabic No</td><td>7449</td></tr><tr><td>Reference</td><td>Book 97 Hadith 75</td></tr></tbody></table></div>
 

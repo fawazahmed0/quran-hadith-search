@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:In the lifetime of Allah's Messenger (ﷺ) , we use
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadhalah] telah menceritakan kepada kami [Abu 'Umar Hafsh bin Maisarah] dari [Zaid bin Aslam] dari ['Iyadh bin 'Abdullah bin Sa'ad] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] berkata: "Pada zaman Nabi shallallahu 'alaihi wasallam kami mengeluarkan (zakat fithri) pada hari Raya 'Iedul fithri satu sha' dari makanan". Dan berkata, Abu Sa'id: "Dan saat itu makanan kami adalah gandum, kismis, biji-bijian atau kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 24 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «При жизни Посланника Аллаха ﷺ мы раздавали (бедным) в день разговения по одному са‘ какой-нибудь еды, а питались мы ячменём и изюмом, сушёным творогом и финиками»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 24 Hadith 110</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khalid bin Sa'd:We went out and Ghalib bin Abjar was accompanying us. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abu Syaibah] telah menceritakan kepada kami ['Ubaidullah] telah menceritakan kepada kami [Isra'il] dari [Manshur] dari [Khalid bin Sa'd] dia berkata; Kami pernah bepergian yang di antaranya terdapat Ghalib bin Abjar, di tengah jalan ia jatuh sakit, ketika sampai di Madinah ia masih menderita sakit, lalu [Ibnu Abu 'Atiq] menjenguknya dan berkata kepada kami; "Hendaknya kalian memberinya habbatus sauda' (jintan hitam), ambillah lima atau tujuh biji, lalu tumbuklah hingga halus, setelah itu teteskanlah di hidungnya di sertai dengan tetesan minyak sebelah sini dan sebelah sini, karena sesungguhnya [Aisyah] pernah menceritakan kepadaku bahwa dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya habbatus sauda' ini adalah obat dari segala macam penyakit kecuali saam." Aku bertanya; "Apakah saam itu?" beliau menjawab: "Kematian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>5687</td></tr><tr><td>Reference</td><td>Book 76 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды,) услышав, как Пророк ﷺ сказал: «Поистине, этот чёрный тмин является средством против любой болезни, кроме “самма”», я спросила: «А что такое “самм”?» — (на что Пророк ﷺ) сказал: «Смерть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>5687</td></tr><tr><td>Reference</td><td>Book 76 Hadith 10</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:Ibn 'Umar used to oil his hair. I told that to Ibrahim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Sa'id bin Jubair] berkata; [Ibnu 'Umar radliallahu 'anhuma] pernah meminyaki rambutnya dengan wewangian (saat berihram) lalu hal ini aku ceritaklan kepada [Ibrahim]. Maka dia berkata: "Bagaimana pendapatmu dengan apa yang disampaikannya; telah menceritakan kepada saya [Al Aswad] dari ['Aisyah radliallahu 'anha] berkata; "Seakan aku melihat kilau minyak wangi pada bagian rambut Rasulullah shallallahu 'alaihi wasallam saat Beliau sedang berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1538</td></tr><tr><td>Arabic No</td><td>1538</td></tr><tr><td>Reference</td><td>Book 25 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+мне рассказал Асвад, что ‘Аиша, да будет доволен ею Аллах, сказала: “Как будто я и сейчас смотрю на блеск благовоний в проборе волос Пророка ﷺ в то время как он находился в состоянии ихрама”?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1538</td></tr><tr><td>Arabic No</td><td>1538</td></tr><tr><td>Reference</td><td>Book 25 Hadith 25</td></tr></tbody></table></div>
 

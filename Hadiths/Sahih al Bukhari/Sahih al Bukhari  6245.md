@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:While I was present in one of the gatherings of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Yazid bin Khushaifah] dari [Busr bin Sa'id] dari [Abu Sa'id Al Khudri] dia berkata; "Saya pernah berada di majlis dari majlisnya orang-orang Anshar, tiba-tiba [Abu Musa] datang dalam keadaan kalut, lalu dia berkata; "Aku (tadi) meminta izin kepada Umar hingga tiga kali, namun ia tidak memberiku izin, maka aku hendak kembali pulang, lalu Umar bertanya; "Apa yang membuatmu hendak kembali pulang?" jawabku; "Aku (tadi) meminta izin hingga tiga kali, namun aku tidak diberi izin, maka aku hendak kembali pulang, karena Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian meminta izin, namun tidak diberi izin, hendaknya ia kembali pulang." Maka Umar pun berkata; "Demi Allah, sungguh kamu harus memberiku satu bukti yang jelas, " (kata Abu Musa) "Apakah di antara kalian ada yang pernah mendengarnya dari Nabi shallallahu 'alaihi wasallam?" lalu Ubay bin Ka'ab angkat bicara; "Demi Allah, tidaklah ada orang yang akan bersamamu melainkan orang yang paling muda di antara mereka, sedangkan akulah orang yang paling muda." Lalu aku pergi bersamanya menemui Umar, dan aku pun memberitahukan kepada Umar bahwa Nabi shallallahu 'alaihi wasallam berkata seperti itu." Dan [Ibnu Mubarak] berkata; telah mengabarkan kepadaku [Ibnu Uyainah] telah menceritakan kepadaku [Yazid bin Khushaifah] dari [Busr bin Sa'id] saya mendengar [Abu Sa'id] seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6245</td></tr><tr><td>Arabic No</td><td>6245</td></tr><tr><td>Reference</td><td>Book 79 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «(Как-то раз), когда я находился в одном из собраний ансаров, пришёл Абу Муса, который был будто напуган, и сказал: “Я попросил разрешения войти к ‘Умару трижды, но мне никто не ответил, и я вернулся, затем (‘Умар) спросил: “Что тебе помещало подождать?” Я ответил: “Я постучал трижды, но мне никто не ответил, и я вернулся, ведь Посланник Аллаха ﷺ сказал: “Если кто-то из вас трижды попросит разрешения войти (в дом) и ему не позволят (это), пусть возвращается”. На что (‘Умар) сказал: “Клянусь Аллахом! Ты обязан доказать то, что ты сейчас сказал” (и поэтому Абу Муса спросил): “Есть ли среди вас, кто слышал подобное от Пророка ﷺ?” Тогда Убай ибн Ка‘б сказал: “Клянусь Аллахом! Встанет с тобой самый младший из присутствующих!” А я был самым младшим из присутствующих, я встал и поведал ‘Умару, что Пророк ﷺ действительно говорил подобное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6245</td></tr><tr><td>Arabic No</td><td>6245</td></tr><tr><td>Reference</td><td>Book 79 Hadith 19</td></tr></tbody></table></div>
 

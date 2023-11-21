@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The tradition has been narrated on the authority of 'Abdullah b. Qais. He heard 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Qutaibah bin Sa'id] dan ini adalah lafadz Yahya, Qutaibah berkata; telah menceritakan kepada kami, dan Yahya berkata; telah mengabarkan kepada kami [Ja'far bin Sulaiman] dari [Abu Imran Al Jauni] dari [Abu Bakar bin Abdullah bin Qais] dari ayahnya dia berkata, "Saya pernah mendengar [ayahku] ketika dia sedang berhadapan dengan musuh, dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya pintu-pintu surga terletak di bawah bayangan pedang." Tiba-tiba seorang laki-laki berdiri sambil menangis, katanya, "Hai Abu Musa, apakah anda pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda seperti itu?" dia menjawab, "Ya." Kakeknya Qais berkata, "Kemudian dia kembali menemui kawan-kawannya seraya berkata, "Saya menyampaikan salam buat kalian." Kemudian dia mengeluarkan pedang dari sarungnya lalu membuang sarung pedangnya, dengan pedang terhunus, dia lalu berjalan menemui musuh dan berperang dengan pedangnya hingga terbunuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>1902</td></tr><tr><td>Reference</td><td>Book 33 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>1902</td></tr><tr><td>Reference</td><td>Book 33 Hadith 211</td></tr></tbody></table></div>
 

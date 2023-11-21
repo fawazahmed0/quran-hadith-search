@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Once the Prophet (ﷺ) was offering the prayer in the shade o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Abu Syaibah] telah mengabarkan kepada kami [Ja'far bin 'Aun] telah bercerita kepada kami [Sufyan] dari [Abu Ishaq] dari ['Amru bin Maimun] dari ['Abdullah radliallahu 'anhu] berkata; Ketika Nabi shallallahu 'alaihi wasallam shalat di naungan Ka'bah, Abu Jahal dan orang-orang dari Quraisy berkata satu sama lain. Kemudian mereka menyembelih (unta) di luar sekitar Makkah lalu mengutus orang untuk mengambilnya kemudian mereka datang dengan membawa isi perutnya (jeraan) lalu melemparkannya ke (punggung) Be; liau shallallahu 'alaihi wasallam. Kemudian Fathimah datang lalu menyingkirkannya. Kemudian Beliau berdo'a: "Ya Allah aku serahkan (urusan) suku Quraisy kepadaMu."Ya Allah aku serahkan (urusan) suku Quraisy kepadaMu."Ya Allah aku serahkan (urusan) suku Quraisy kepadaMu. Terutama Abu Jahal bin Hisyam, 'Utbah bin Rabi'ah, Syaibah bin Rabi'ah, Al Walid bin 'Utbah, Ubay bin Kholaf, 'Uqbah bin Abu Mu'aith". 'Abdullah radliallahu 'anhu berkata: "Sungguh aku melihat orang-orang yang disebut Nabi shallallahu 'alaihi wasallam itu terbantai di pinggiran lembah Badar (dalam perang Badar). Abu Ishaq berkata; "Aku lupa orang ketujuh yang disebut Beliau". Dan berkata Abu 'Abdullah Al Bukhariy; dan berkata [Yusuf bin Ishaq] dari [Abu Ishaq]: "Umayyah bin Kholaf". Dan berkata [Syu'bah]: Umayyah atau Ubay?" Dan yang benar adalah Umayyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2934</td></tr><tr><td>Arabic No</td><td>2934</td></tr><tr><td>Reference</td><td>Book 56 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Однажды, когда Пророк ﷺ молился в тени Каабы, Абу Джахль и некоторые курайшиты отправили человека принести содержимое брюшной полости верблюда, зарезанного рядом с Меккой. Когда он принёс это, они положили его на спину Пророка ﷺ. Затем Фатыма сбросила это с его (спины), а Пророк ﷺ сказал: “О Аллах, покарай курайшитов! О Аллах, покарай курайшитов! О Аллах, покарай курайшитов!” и перечислил их поимённо назвав: Абу Джахля ибн Хишама, ‘Утбу ибн Раби‘а, Шайбу ибн Раби‘а, аль-Валида ибн ‘Утбу, Убаййу ибн Халафа и ‘Укъбу ибн Абу Му‘айта».‘Абдуллах сказал: «И я видел всех их убитыми и брошенными в колодец в день Бадра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2934</td></tr><tr><td>Arabic No</td><td>2934</td></tr><tr><td>Reference</td><td>Book 56 Hadith 147</td></tr></tbody></table></div>
 

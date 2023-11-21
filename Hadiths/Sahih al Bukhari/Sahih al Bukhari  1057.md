@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud:Allah's Messenger (ﷺ) said, "The sun and the moon do not e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah telah menceritakan kepada kami [Yahya bin Sa'id] dari [Isma'il] berkata, telah menceritakan kepadaku [Qais] dari [Ibnu Mas'ud] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Matahari dan bulan tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang, akan tetapi keduanya adalah dua tanda dari tanda-tanda kebesaran Allah. Jika kalian melihat gerhana keduanya maka shalatlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1057</td></tr><tr><td>Arabic No</td><td>1057</td></tr><tr><td>Reference</td><td>Book 16 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Мас‘уда, что Посланник Аллаха ﷺ сказал: «Солнечные и лунные затмения происходят не потому, что кто-то (из людей) умирает или живет, однако они являются знамениями из знамений Аллаха. Поэтому, когда вы увидите (подобное), совершайте молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1057</td></tr><tr><td>Arabic No</td><td>1057</td></tr><tr><td>Reference</td><td>Book 16 Hadith 16</td></tr></tbody></table></div>
 

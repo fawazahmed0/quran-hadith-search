@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Salamah bin Al Akwa’ repoted on the authority of his father. A spy of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abu Nu'aim], telah menceritakan kepada kami [Abu 'Umais] dari [Salamah bin Al Akwa'] dari [ayahnya], ia berkata; telah datang seorang mata-mata dari orang-orang musyrik kepada Nabi shallallahu 'alaihi wasallam dan ia sedang dalam perjalanannya, kemudian ia duduk disisi para sahabatnya kemudian ia pergi. Nabi shallallahu 'alaihi wasallam berkata: "Carilah dia dan bunuhlah!" Salamah bin Al Akwa' berkata; kemudian aku mendahului mereka dan membunuhnya serta mengambil barang yang ada di badannya. Lalu beliau memberiku tambahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3051)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2653</td></tr><tr><td>Arabic No</td><td>2653</td></tr><tr><td>Reference</td><td>Book 15 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3051)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2653</td></tr><tr><td>Arabic No</td><td>2653</td></tr><tr><td>Reference</td><td>Book 15 Hadith 177</td></tr></tbody></table></div>
 

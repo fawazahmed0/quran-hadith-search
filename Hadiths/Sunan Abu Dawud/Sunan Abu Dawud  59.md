@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbulMalih: The Prophet (ﷺ) said: Allah does not accept charity from g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Abu Al Malih] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Allah Azza wa Jalla tidak menerima sedekah dari harta ghulul (harta rampasan perang yang dicuri) dan juga tidak menerima shalat tanpa bersuci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Arabic No</td><td>59</td></tr><tr><td>Reference</td><td>Book 1 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Малих передал со слов своего отца о том, что Пророк ﷺ сказал: «Аллах, Великий и Всемогущий не примет милостыню /садака/, подаваемую с имущества, раздобытого запретным путем /гъулюль/ и молитву, совершаемую без омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Arabic No</td><td>59</td></tr><tr><td>Reference</td><td>Book 1 Hadith 59</td></tr></tbody></table></div>
 

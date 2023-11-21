@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Salamah reported the Messenger of Allah (ﷺ) as saying:"I am only a human b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6967) Sahih Muslim (1713)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3583</td></tr><tr><td>Arabic No</td><td>3583</td></tr><tr><td>Reference</td><td>Book 25 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Салямы, да будет доволен ею Аллах, что однажды Посланник Аллаха ﷺ сказал: «Поистине, я всего лишь человек, а вы приходите ко мне со своими тяжбами. И может оказаться так, что кто-нибудь из вас будет более убедителен в своих аргументах, чем другой, и тогда я вынесу решение в его пользу на основании того, что услышу от него. И пусть тот, кому я присужу то, что по праву принадлежит его брату, не берёт ничего из этого, ибо я даю ему частицу Огня!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6967) Sahih Muslim (1713)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3583</td></tr><tr><td>Arabic No</td><td>3583</td></tr><tr><td>Reference</td><td>Book 25 Hadith 13</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "There is always goodness in horses
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qais bin Hafsh] telah bercerita kepada kami [Khalid bin Al Harits] telah bercerita kepada kami [Syu'bah] dari [Abu at-Tayyah] berkata, aku mendengar [Anas binMalik] dari Nabi shallallahu 'alaihi wasallam bersabda: ""Kuda, pada ubun-ubunnya senantiasa ada kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3645</td></tr><tr><td>Arabic No</td><td>3645</td></tr><tr><td>Reference</td><td>Book 61 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Пророк ﷺ сказал: «Благо /хайр/ привязано к чёлкам лошадей до самого Дня воскрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3645</td></tr><tr><td>Arabic No</td><td>3645</td></tr><tr><td>Reference</td><td>Book 61 Hadith 148</td></tr></tbody></table></div>
 

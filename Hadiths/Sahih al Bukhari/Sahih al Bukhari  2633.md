@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:A bedouin came to the Prophet (ﷺ) and asked him about emigr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Al Awza'iy] berkata, telah menceritakan kepadaku ['Atho'] dari [Jabir radliallahu 'anhu] berkata; Ada orang-orang dari kami yang memiliki banyak lahan tanah. Mereka berkata: "Kami akan sewakan dengan pembagian sepertiga, seperempat dan atau setengah". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang memiliki lahan hendaklah dia tanami atau dia berikan kepada saudaranya untuk digarap. Jika dia tidak mau, hendaklah dia biarkan tanahnya". Dan Mujahid bin Yusuf berkata, telah menceritakan kepada kami Al Awza'iy telah menceritakan kepadaku Az Zuhriy telah menceritakan kapadaku 'Atho' bin Yazid telah menceritakan kapadaku Abu Sa'id berkata: "Datang seorang Baduy kepada Nabi shallallahu 'alaihi wasallam lalu bertanya tentang hijrah. Maka Beliau menjawab: "Bagaimana kamu ini, sesungguhnya hijrah adalah perkara yang berat. Apakah kamu ada memiliki unta?" Dia menjawab: "Ya punya". Lalu Beliau bertanya: "Apakah kamu mengeluarkan zakatnya?" Dia menjawab: "Ya". Beliau bertanya lagi: "Apakah ada darinya yang kamu berikan (hadiahkan)?" Dia menjawab: "Ya". Beliau bertanya lagi: "Apakah kamu memberinya susu saat kehausan?" Dia menjawab: "Ya". Maka Beliau bersabda: "Beramallah kamu dari seberang lautan karena Allah tidak akan mengurangi sedikitpun dari amalan kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2633</td></tr><tr><td>Arabic No</td><td>2633</td></tr><tr><td>Reference</td><td>Book 51 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид сказал: «(Как-то раз) один бедуин задал Пророку ﷺ вопрос о переселении, и (Пророк ﷺ) сказал: “Да помилует тебя Аллах, поистине, переселение — это трудное дело! А есть ли у тебя верблюды?” Он ответил: “Да”. (Пророк ﷺ) спросил: “И ты выплачиваешь с них закят?” (Бедуин) ответил: “Да”. (Пророк ﷺ) спросил: “А даёшь ли ты их во временное пользование (чтобы их молоком могли использовать другие)?” Он ответил: “Да”. (Пророк ﷺ) спросил: “А доишь ли ты её в день поения?” Он ответил: “Да”. Тогда (Пророк ﷺ) сказал: “Так (продолжай) делать это (, даже если будешь жить) за морями, ведь, поистине, Аллах никогда не оставит (незамеченным) ни одно из дел твоих!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2633</td></tr><tr><td>Arabic No</td><td>2633</td></tr><tr><td>Reference</td><td>Book 51 Hadith 65</td></tr></tbody></table></div>
 

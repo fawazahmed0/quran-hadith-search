@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(regarding the Verse):-- 'Cruel after all that, base-born (o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud] Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Isra'il] dari [Abu Hashin] dari [Mujahid] dari [Ibnu Abbas radliallahu 'anhuma]: "'UTULLIM BA'DA DZAALIKA ZANIIM." Ia berkata, "Yaitu seorang laki-laki Quraisy yang memiliki telinga terpotong seperti telinga kambing yang terpotong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4917</td></tr><tr><td>Arabic No</td><td>4917</td></tr><tr><td>Reference</td><td>Book 65 Hadith 437</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал об аяте «…жестокому, к тому же самозванцу (заним)»: «Это один человек из курайшитов, у которого есть “занама” (то, что вешали на шею овцы, чтобы узнавать её) как у овцы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4917</td></tr><tr><td>Arabic No</td><td>4917</td></tr><tr><td>Reference</td><td>Book 65 Hadith 437</td></tr></tbody></table></div>
 

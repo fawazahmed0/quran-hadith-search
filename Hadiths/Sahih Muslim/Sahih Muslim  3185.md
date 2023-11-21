@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn 'Abdoullâh (رضي الله عنهما) a dit : "L'an de Al-Hudaybiy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Malik] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Yahya bin Yahya] -lafazh darinya- ia berkata, saya telah membacakan kepada [Malik] dari [Abu Zubair] dari [Jabir bin Abdullah] ia berkata; "Kami pernah menyembelih kurban bersama Rasulullah shallallahu 'alaihi wasallam di tahun perjanjian Hudaibiyah, untuk kurban seekor unta atau seekor sapi, kami bersekutu tujuh orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3185</td></tr><tr><td>Arabic No</td><td>1318.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 389</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3185</td></tr><tr><td>Arabic No</td><td>1318.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 389</td></tr></tbody></table></div>
 

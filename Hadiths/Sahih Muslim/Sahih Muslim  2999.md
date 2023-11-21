@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما) a dit : "Arrivé à La Mecque, l'Envoyé 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru bin Dinar] ia berkata; Kami bertanya kepada [Ibnu Umar] mengenai seorang laki-laki yang mengerjakan ibadah umrah, lalu ia thawaf di Baitullah tetapi belum Sa'i antara Shafa dan Marwa. Bolehkah ia menggauli isterinya (bertahallul). Ibnu Umar menjawab, "Rasulullah shallallahu 'alaihi wasallam telah melakukan umrah, mula-mula beliau thawaf di Baitullah tujuh kali; kemudian shalat dua raka'at di Maqam Ibrahim, kemudian Sa'i antara Shafa dan Marwah tujuh kali. Sesungguhnya pada diri Rasulullah shallallahu 'alaihi wasallam terdapat suri tauladan yang baik bagi kalian." Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Rabi' Az Zahrani] dari [Hammad bin Zaid] -dalam riwayat lain- Dan Telah meceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Muhamamd bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] semuanya dari [Amru bin Dinar] dari [Ibnu Umar] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam. yakni seperti haditsnya Ibnu Uyainah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2999</td></tr><tr><td>Arabic No</td><td>1234.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2999</td></tr><tr><td>Arabic No</td><td>1234.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
 

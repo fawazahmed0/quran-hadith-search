@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Burda reported Allah's Messenger (ﷺ) as saying:There would come people amo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Amru bin 'Abbad bin Jabalah bin Abu Rawwad] Telah menceritakan kepada kami [Harami Ibnu 'Umarah] telah menceritakan kepada kami [Syaddad Abu Thalhah Ar Rasibi] dari [Ghailan bin Jarir] dari [Abu Burdah] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Di hari kiamat kelak, sekelompok dari kaum muslimin akan datang membawa dosa mereka sebesar gunung. Lalu Allah mengampuni dosa-dosanya, kemudian dibebankan-Nya kepada orang-orang Yahudi dan Nasrani." (Itu menurut perkiraanku). Rauh berkata; 'aku tidak tahu dari siapa keraguan ini.' Abu Burdah berkata; Maka hal ini aku ceritakan kepada Umar bin Abdul Aziz. Lalu dia bertanya; 'Apakah Bapakmu menceritakan hal ini dari Nabi shallallahu 'alaihi wasallam? aku menjawab; 'Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7014</td></tr><tr><td>Arabic No</td><td>2767.04</td></tr><tr><td>Reference</td><td>Book 50 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7014</td></tr><tr><td>Arabic No</td><td>2767.04</td></tr><tr><td>Reference</td><td>Book 50 Hadith 60</td></tr></tbody></table></div>
 

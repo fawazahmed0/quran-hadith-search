@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) wore a silver ring on his ri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan ['Abbad bin Musa] ia berkata; Telah menceritakan kepada kami [Thalhah bin Yahya] yaitu Al Anshari kemudian Az Zuraqi dari [Yunus] dari [Ibnu Syihab] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam memakai cincin perak bermata batu Habsyi di tangan kanannya. Beliau meletakkan mata cincinnya di sebelah dalam telapak tangannya. Dan telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepadaku [Isma'il bin Abu Uwais]; Telah menceritakan kepadaku [Sulaiman bin Bilal] dari [Yunus bin Yazid] melalui jalur ini, sebagaimana Hadits Thalhah bin Yahya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5487</td></tr><tr><td>Arabic No</td><td>2094.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5487</td></tr><tr><td>Arabic No</td><td>2094.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 102</td></tr></tbody></table></div>
 

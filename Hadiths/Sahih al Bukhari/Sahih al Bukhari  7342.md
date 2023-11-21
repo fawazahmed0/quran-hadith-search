@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:When I arrived at Medina, 'Abdullah bin Salam met me and said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7342</td></tr><tr><td>Arabic No</td><td>7342</td></tr><tr><td>Reference</td><td>Book 96 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бурда, да будет доволен им Аллах, сказал: «Когда я приехал в Медину, меня встретил ‘Абдуллах ибн Салям и сказал мне: “Идём ко мне домой, я напою тебя из сосуда, с которого пил Посланник Аллаха ﷺ, а затем ты совершишь молитву в мечети, в которой совершал Пророк ﷺ”. И я отправился вместе с ним, и он напоил меня савиком, накормил финиками и я совершил молитву в его мечети»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7342</td></tr><tr><td>Arabic No</td><td>7342</td></tr><tr><td>Reference</td><td>Book 96 Hadith 70</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying. "All the sins of my
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Ibnu Akhi Ibnu Syihab] dari [Ibnu Syihab] dari [Salim bin Abdullah] dia berkata; saya mendengar [Abu Hurairah] berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap umatku dimaafkan (dosanya) kecuali orang-orang menampak-nampakkannya dan sesungguhnya diantara menampak-nampakkan (dosa) adalah seorang hamba yang melakukan amalan di waktu malam sementara Allah telah menutupinya kemudian di waktu pagi dia berkata: 'Wahai fulan semalam aku telah melakukan ini dan itu, ' padahal pada malam harinya (dosanya) telah ditutupi oleh Rabbnya. Ia pun bermalam dalam keadaan (dosanya) telah ditutupi oleh Rabbnya dan di pagi harinya ia menyingkap apa yang telah ditutupi oleh Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6069</td></tr><tr><td>Arabic No</td><td>6069</td></tr><tr><td>Reference</td><td>Book 78 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал:\n— Я слышал, как Посланник Аллаха ﷺ сказал: «Все члены моей общины будут избавлены, за исключением заявляющих во всеуслышание, (примером чего могут служить) действия такого человека, который совершает что-нибудь ночью, и Аллах покрывает его (грех), а наутро он сам говорит: “О такой-то, вчера я сделал то-то и то-то”, и (получается так, что) он проводит ночь под покровом своего Господа, а наутро сбрасывает покров Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6069</td></tr><tr><td>Arabic No</td><td>6069</td></tr><tr><td>Reference</td><td>Book 78 Hadith 99</td></tr></tbody></table></div>
 

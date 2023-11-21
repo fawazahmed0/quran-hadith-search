@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Bakr b. 'Abdullah al-Muzani said:While I was sitting along with Ibn 'Abbas (Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Al Minhal Adl Dlarir] Telah menceritakan kepada kami [Yazid bin Zurai'] Telah menceritakan kepada kami [Humaid Ath Thawil] dari [Bakr bin Abdullah Al Muzani] ia berkata; Aku duduk bersama [Ibnu Abbas] di dekat Ka'bah. Tiba-tiba datanglah seorang A'rabi dan bertanya, "Aku lihat anak-anak paman Anda minum madu dan susu, sedangkan Anda minum anggur. Apakah hal itu karena suatu kepentingan-kepentingan tertentu ataukah karena bakhil?" Ibnu Abbas menjawab, "Segala puji bagi Allah, tidak ada kepentingan-kepentingan tertentu bagi kami dan tidak pula karena bakhil. Rasulullah shallallahu 'alaihi wasallam pernah datang berkendaraan dan di belakangnya membonceng Usamah. Beliau minta minum, lalu kami beri minum dengan anggur. Setelah beliau minum, sisanya diberikan kepada Usamah. Dan beliau pun bersabda: 'Perbuatanmu ini sangat baik dan bagus; teruskanlah seperti itu.' Aku tidak ingin merubah yang telah diperintahkan oleh Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3179</td></tr><tr><td>Arabic No</td><td>1316</td></tr><tr><td>Reference</td><td>Book 15 Hadith 383</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3179</td></tr><tr><td>Arabic No</td><td>1316</td></tr><tr><td>Reference</td><td>Book 15 Hadith 383</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: AbuSalih al-Ghifari reported: Ali (once) passed by Ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Dawud] telah mengabarkan kepada kami [Ibnu Wahb] dia berkata; Telah menceritakan kepadaku [Ibnu Lahi'ah] dan [Yahya bin Azhar] dari [Ammar bin Sa'd Al-Muradi] dari [Abu Shalih Al-Ghifari] bahwasanya [Ali radliallahu 'anhu] melewati negeri Babilonia dalam sebuah perjalanannya, kemudian seorang muadzin mengumandangkan adzan shalat Ashar, maka ketika dia telah keluar dari negeri tersebut, dia memerintahkan seseorang untuk mengumandangkan adzan lalu dilaksanakanlah shalat, ketika dia selesai melaksanakan shalat, dia berkata; Sesungguhnya kekasihku shallallahu 'alaihi wasallam melarangku untuk melaksanakan shalat di kuburan dan melarangku juga untuk melaksanakan shalat di negeri babilonia, karena negeri ini terlaknat. Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yahya bin Azhar] dan [Ibnu Lahi'ah] dari [Al-Hajjaj bin Syaddad] dari [Abu Shalih Al-Ghifari] dari [Ali] yang maknanya sama dengan hadits Sulaiman bin Dawud dengan menyebutkan kata kharaja sebagai ganti kata baraza
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>490</td></tr><tr><td>Arabic No</td><td>490</td></tr><tr><td>Reference</td><td>Book 2 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Салиха аль-Гъифари о том, что однажды, во время поездки, когда ‘Али, да будет доволен им Аллах, проезжал мимо Бабиля, к нему пришел муаззин и произнес азан на послеполуденную молитву. Когда он проехал это место, он велел муаззину (произнести азан) и совершил молитву. Закончив молитву, он сказал: «Поистине, мой любимейший друг (Посланник Аллаха) ﷺ запретил мне молиться на кладбищах, и также запретил молиться на земле Бабиля, ибо, поистине, она проклята!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>490</td></tr><tr><td>Arabic No</td><td>490</td></tr><tr><td>Reference</td><td>Book 2 Hadith 100</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported:I was along with the Messenger of Allah (ﷺ) on Frid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Rifa'ah bin Al Haitsam Al Wasithi] telah menceritakan kepada kami [Khalid] yakni Ath Thahhan, dari [Hushain] dari [Salim] dan [Abu Sufyan] dari [Jabir bin Abdullah] ia berkata; Kami sedang bersama Rasulullah shallallahu 'alaihi wasallam pada hari Jum'at, tiba-tiba datanglah suatu Kafilah dagang sehingga para jama'ah pun keluar menjemputnya hingga tidak tersisa lagi kecuali dua belas orang dan saya adalah salah seorang dari mereka. Maka Allah menurunkan ayat: "Dan apabila mereka melihat perniagaan atau permainan, mereka bubar untuk menuju kepadanya dan mereka tinggalkan kamu sedang berdiri (berkhotbah)." Hingga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1999</td></tr><tr><td>Arabic No</td><td>863.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн ‘Абдуллах сказал: «(Однажды,) в пятницу, когда мы были вместе с Пророком ﷺ, прибыл караван. Люди вышли к нему, и (в мечети) осталось только двенадцать человек, среди которых был и я. Тогда Аллах ниспослал: “Когда же они увидели торговлю или забаву, они разошлись, бросившись к ней, и оставили тебя стоять” ( Сура «аль-Джуму’а», аят 11)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1999</td></tr><tr><td>Arabic No</td><td>863.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 49</td></tr></tbody></table></div>
 

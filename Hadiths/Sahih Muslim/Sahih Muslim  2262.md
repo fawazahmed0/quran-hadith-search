@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:(The dead body) of a person who had killed himself with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Aun bin Sallam Al Kufi] telah mengabarkan kepada kami [Zuhair] dari [Simak] dari [Jabir bin Samurah] ia berkata; Pernah didatangkan kepada beliau shallallahu 'alaihi wasallam jenazah seorang laki-laki yang bunuh diri dengan anak panah. Tetapi jenazah tersebut tidak dishalatkan oleh beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2262</td></tr><tr><td>Arabic No</td><td>978</td></tr><tr><td>Reference</td><td>Book 11 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Джабир ибн Самура, да будет доволен им Аллах, сказал: «(Однажды) к Пророку ﷺ принесли (тело) одного мужчины, покончившего с собой с помощью стрел с широкими наконечниками, и (Пророк ﷺ) не стал молиться по нему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2262</td></tr><tr><td>Arabic No</td><td>978</td></tr><tr><td>Reference</td><td>Book 11 Hadith 138</td></tr></tbody></table></div>
 

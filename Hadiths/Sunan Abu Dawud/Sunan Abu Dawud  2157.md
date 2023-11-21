@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’id Al Khudri traced to Prophet (ﷺ) the following statement regarding 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin 'Aun], telah mengabarkan kepada kami [Syarik], dari [Qais bin Wahb] dari [Abu Al Waddak], dari [Abu Sa'id Al Khudri], dan ia memarfu'kan hadits tersebut, bahwa ia berkata mengenai wanita-wanita tawanan dari Suku Authas; wanita hamil tidak boleh digauli hingga melahirkan, dan tidak pula wanita yang tidak hamil hingga mengalami satu kali haid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2157</td></tr><tr><td>Arabic No</td><td>2157</td></tr><tr><td>Reference</td><td>Book 12 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал о женщинах, взятых в плен в Аутасе, что не следует вступать в половые отношения с беременной, пока она не родит, а с той, что не беременна, до тех пор, пока не пройдёт очередная менструация
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2157</td></tr><tr><td>Arabic No</td><td>2157</td></tr><tr><td>Reference</td><td>Book 12 Hadith 112</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMusa al-Ash'ari: When the Prophet (ﷺ) feared a (group of) people, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan dari Kami [Muhammad bin Al Mutsanna], telah menceritakan kepada Kami [Mu'adz bin Hisyam], telah menceritakan kepadaku [ayahku] dari [Qatadah] dari [Abu Burdah bin Abdullah] bahwa [ayahnya] telah menceritakan kepadanya bahwa Nabi shallallahu 'alaihi wasallam apabila khawatir kepada suatu kaum beliau berdoa: "Ya Allah, sesungguhnya Kami menjadikanMu di leher-leher mereka (yaitu menghadapi mereka) dan Kami berlindung kepadaMu dari kejahatan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1537</td></tr><tr><td>Arabic No</td><td>1537</td></tr><tr><td>Reference</td><td>Book 8 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Бурды ибн Абдуллах о том, что его отец рассказывал о том, что когда Пророк ﷺ опасался кого-нибудь из людей, он говорил: «О Аллах, поистине, мы призываем Тебя на помощь против них и прибегаем к Твоей защите от их зла!» /Аллахумма, инна надж‘алюка фи нухурихим ва на‘узу бика мин шурурихим
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1537</td></tr><tr><td>Arabic No</td><td>1537</td></tr><tr><td>Reference</td><td>Book 8 Hadith 122</td></tr></tbody></table></div>
 

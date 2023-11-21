@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama:We used to pray the Maghrib prayer with the Prophet (ﷺ) when t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makki bin Ibrahim] berkata, telah menceritakan kepada kami [Yazid bin Abu 'Ubaid] dari [Salamah] berkata, "Kami pernah shalat Maghrib bersama Nabi shallallahu 'alaihi wasallam ketika matahari sudah tenggelam tidak terlihat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>561</td></tr><tr><td>Arabic No</td><td>561</td></tr><tr><td>Reference</td><td>Book 9 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма, да будет доволен им Аллах, сказал: «Мы всегда совершали закатную молитву вместе с Пророком ﷺ после того, как (солнце) скрывалось за (горизонтом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>561</td></tr><tr><td>Arabic No</td><td>561</td></tr><tr><td>Reference</td><td>Book 9 Hadith 38</td></tr></tbody></table></div>
 

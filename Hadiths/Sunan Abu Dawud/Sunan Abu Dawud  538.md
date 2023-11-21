@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Mujahid reported: I was in the company of Ibn Umar. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Abu Yahya Al-Qattat] dari [Mujahid] dia berkata; Saya pernah bersama [Ibnu Umar], lalu ada seseorang yang mengumandangkan adzan dengan menambah tatswib (kalimat Ashshalatu khairun minannaum) pada waktu Zhuhur atau Ashar, maka Ibnu Umar berkata; Keluarlah dengan kami, sesungguhnya ini perbuatan bid'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>538</td></tr><tr><td>Arabic No</td><td>538</td></tr><tr><td>Reference</td><td>Book 2 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджахид сказал: «(Однажды,) когда я был вместе с Ибн ‘Умаром, один человек произнёс “тасвиб” то ли к полуденной, то ли послеполуденной молитве, и (Ибн ‘Умар) сказал: “Выведите нас (из этой мечети), ибо, поистине, это является нововведением в религии/бид‘а/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>538</td></tr><tr><td>Arabic No</td><td>538</td></tr><tr><td>Reference</td><td>Book 2 Hadith 148</td></tr></tbody></table></div>
 

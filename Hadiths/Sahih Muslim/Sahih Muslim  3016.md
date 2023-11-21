@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), L'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [ibnu Basysyar] semuanya dari [Ibnu Abu Adi] - [Ibnul Mutsanna] berkata- Telah menceritakan kepada kami [Ibnu Abu Adi] dari [Syu'bah] dari [Qatadah] dari [Abu Hassan] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; "Rasulullah shallallahu 'alaihi wasallam shalat Zhuhur di Dzulhulaifah, kemudian beliau meminta agar diambilkan untanya (hewan kurban), lalu diberinya tanda di punuk kanan unta itu sampai berdarah, kemudian dikalungkannya sepasang terompah di tengkuknya, sampai di Baida'. Barulah beliau ihram untuk haji." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [bapakku] dari [Qatadah] dalam isnad ini, dan semakna dengan haditsnya Syu'bah, hanya saja ia berkata; "Ketika Nabi shallallahu 'alaihi wasallam sampai di Dzulhulaifah." Ia tidak mengatakan; "Beliau shalat Zhuhur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3016</td></tr><tr><td>Arabic No</td><td>1243.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3016</td></tr><tr><td>Arabic No</td><td>1243.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 224</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Allah the Exalted and Maj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Atha'] dari [Abu Shalih Az Zayyat] bahwa ia mendengar [Abu Hurairah] radliallahu 'anhu berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah 'azza wajalla telah berfirman; 'Setiap amal anak Adam adalah teruntuk baginya kecuali puasa. Puasa itu adalah bagi-Ku, dan Akulah yang akan memberinya pahala.' Dan puasa itu adalah perisai. Apabila kamu puasa, maka janganlah kamu merusak puasamu dengan rafats, dan jangan pula menghina orang. Apabila kamu dihina orang atau pun diserang, maka katakanlah, 'Sesungguhnya saya sedang berpuasa.' Demi Allah, yang jiwa Muhammad ada di tangan-Nya. Sesungguhnya bau mulut orang yang berpuasa lebih harum di sisi Allah pada hari kiamat kelak daripada wanginya kesturi. Dan bagi mereka yang berpuasa ada dua kebahagiaan. Ia merasa senang saat berbuka lantaran puasanya, dan senang pula saat berjumpa dengan Rabbnya juga karena puasanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2706</td></tr><tr><td>Arabic No</td><td>1151.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2706</td></tr><tr><td>Arabic No</td><td>1151.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 212</td></tr></tbody></table></div>
 

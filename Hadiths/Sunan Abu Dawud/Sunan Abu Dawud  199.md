@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepada saya [Nafi'] telah menceritakan kepada saya [Abdullah bin Umar] bahwasanya pada suatu malam Rasulullah shallallahu 'alaihi wasallam disibukkan dari Shalat Isya (karena persiapan perang), oleh karena itu beliau mengakhirkan pelaksanaannya, sehingga kami tidur di masjid, kemudian bangun, lalu tidur kembali, kemudian bangun, lalu tidur kembali, kemudian beliau keluar menemui kami seraya bersabda: "Tidak ada seorang pun yang menunggu shalat selain kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (570) Sahih Muslim (639)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>199</td></tr><tr><td>Arabic No</td><td>199</td></tr><tr><td>Reference</td><td>Book 1 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара о том, что однажды ночью Посланник Аллаха ﷺ был занят (какими-то делами) и отложил молитву настолько, что мы заснули в мечети. Затем мы проснулись и заснули опять, потом мы проснулись и снова заснули, а затем он вышел к нам и сказал: «Никто не дожидается молитвы, кроме вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (570) Sahih Muslim (639)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>199</td></tr><tr><td>Arabic No</td><td>199</td></tr><tr><td>Reference</td><td>Book 1 Hadith 199</td></tr></tbody></table></div>
 

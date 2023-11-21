@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "A man who never did any good
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7506</td></tr><tr><td>Arabic No</td><td>7506</td></tr><tr><td>Reference</td><td>Book 97 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Один человек, который не сделал ничего благого сказал: “Когда я умру, то сожгите моё тело, затем одну его половину развейте на суше, а другую — по морю. И, клянусь Аллахом, если Аллах сможет (собрать его), Он подвергнет его такому наказанию, которому не подвергал никого из миров”. И Аллах повелел морю и оно собрало то, что было в нём, и повелел суше, и она собрала то, что было на ней. Потом Он сказал: “Почему ты поступил так?” Он ответит: “Из-за страха перед тобой, хотя Ты знаешь (об этом) лучше!” И Аллах простил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7506</td></tr><tr><td>Arabic No</td><td>7506</td></tr><tr><td>Reference</td><td>Book 97 Hadith 131</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham reported on the authority of his father that Hassan b. Thabit talked much
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] bahwa Hassan bin Tsabit adalah termasuk orang yang sering memuji Aisyah, lalu aku mencelanya. Kemudian [Aisyah] berkata; 'Wahai kemenakanku, biarkan saja, sesungguhnya dulu dia telah membela Rasulullah shallallahu 'alaihi wasallam.' Telah menceritakannya kepada kami ['Utsman bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdah] dari [Hisyam] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6389</td></tr><tr><td>Arabic No</td><td>2487.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6389</td></tr><tr><td>Arabic No</td><td>2487.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 219</td></tr></tbody></table></div>
 

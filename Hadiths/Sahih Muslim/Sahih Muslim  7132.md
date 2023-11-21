@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Amru Al Asy'atsi] dan [Zuhair bin Harb], berkata [Zuhair]: Telah menceritakan kepada kami, sedangkan [Sa'id] berkata: Telah mengkhabarkan kepada kami [Sufyan] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Allah 'azza wajalla berfirman: 'Aku telah menyiapkan sesuatu yang belum pernah dilihat mata, belum pernah didengar telinga dan tidak pernah terlintas dibenak manusia untuk hamba-hambaKu yang shalih.' Pembenarnya ada didalam kitab Allah 'azza wajalla: "Tak seorangpun mengetahui berbagai nikmat yang menanti, yang indah dipandang sebagai balasan bagi mereka, atas apa yang mereka kerjakan." (As Sajdah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7132</td></tr><tr><td>Arabic No</td><td>2824.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7132</td></tr><tr><td>Arabic No</td><td>2824.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 3</td></tr></tbody></table></div>
 

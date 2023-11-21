@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "An animal should not be milked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah seseorang memeras susu ternak orang lain tanpa seizinnya. Apakah seorang dari kalian suka bila rumahnya didatangi lalu dirusak pintunya kemudian simpanan makanannya diambil. Karena sesungguhnya puting susu ternak mereka adalah makanan simpanan mereka, maka janganlah seseorang memeras susu ternak orang lain kecuali dengan izinnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2435</td></tr><tr><td>Arabic No</td><td>2435</td></tr><tr><td>Reference</td><td>Book 45 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Пусть никто из вас не доит скотину другого без разрешения (владельца). Разве кому-нибудь из вас понравится, если кто-то придёт в место, в котором он хранит свои запасы, сломает хранилище и унесёт оттуда его продукты? Вымя их животных хранит для них запасы еды, поэтому пусть никто из вас не доит скотину другого без разрешения (владельца)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2435</td></tr><tr><td>Arabic No</td><td>2435</td></tr><tr><td>Reference</td><td>Book 45 Hadith 10</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported Allah's Messenger (ﷺ) as saying:Food for one suffices two and f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Abu Bakr bin Abu Syaibah], [Abu Kuraib], dan [Ishaq bin Ibrahim]. [Abu Bakr] dan [Abu Kuraib] berkata; 'Telah menceritakan kepada kami.' Sedangkan yang lainnya berkata; 'Telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Al A'Masy] dari [Abu Sufyan] dari [Jabir] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Makanan untuk satu orang cukup untuk dimakan dua orang, dan makanan dua orang cukup dimakan untuk empat orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5370</td></tr><tr><td>Arabic No</td><td>2059.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5370</td></tr><tr><td>Arabic No</td><td>2059.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 244</td></tr></tbody></table></div>
 

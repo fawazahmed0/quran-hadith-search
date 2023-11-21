@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "He who cultivates land that does not be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Ubaidullah bin Abi Ja'far] dari [Muhammad bin 'Abdurrahman] dari ['Urwah] dari ['Aisyah radliallahu 'anha] dari Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang memanfaatkan tanah yang tidak ada pemiliknya (tanah tak bertuan), maka orang itu yang paling berhak atasnya". 'Urwah berkata: 'Umar radliallahu 'anhu menerapkannya dalam kekhilafahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2335</td></tr><tr><td>Arabic No</td><td>2335</td></tr><tr><td>Reference</td><td>Book 41 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Тот, кто занимается обработкой ничейной земли, имеет преимущественное право (на владение ею)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2335</td></tr><tr><td>Arabic No</td><td>2335</td></tr><tr><td>Reference</td><td>Book 41 Hadith 16</td></tr></tbody></table></div>
 

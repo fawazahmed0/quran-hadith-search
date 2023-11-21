@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) recited the supplicati
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Mu'awiyah Al Jumahi], telah menceritakan kepada Kami [Tsabit bin Yazid] dari dari [Hilal bin Khabbab] dari [Ikrimah] dari [Ibnu Abbas], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam melakukan qunut selama satu bulan berturut-turut ketika shalat Zhuhur, Ashar, Maghrib, Isya' dan Subuh di akhir setiap shalat, tatkala mengucapkan: "SAMI'ALLAAHU LIMAN HAMIDAH" pada raka'at terakhir. Beliau mendoakan atas beberapa perkampungan dari Bani Sulaim, yaitu Ri'l, Dzakwan, serta 'Ushayyah, dan orang-orang yang dibelakangnya mengamininya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1443</td></tr><tr><td>Arabic No</td><td>1443</td></tr><tr><td>Reference</td><td>Book 8 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды Посланник Аллаха ﷺ в течение целого месяца совершал кунут во время полуденной, послеполуденной, закатной, вечерней и утренней молитв. Он произносил эти слова, когда говорил в последнем рак‘ате: «Да услышит Аллах того, кто восхваляет Его /Сами‘а-Ллаху ли-ман хамидах/». Он просил Аллаха покарать некоторых из бану суляйм (кланы) ри‘ль, закван и ‘усайя, и стоящие позади него говорили: «Амин!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1443</td></tr><tr><td>Arabic No</td><td>1443</td></tr><tr><td>Reference</td><td>Book 8 Hadith 28</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whoever keeps a dog, one Qir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadhalah] telah menceritakan kepada kami [Hisyam] dari [Yahya bin Abi Katsir] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang menyentuh anjing berarti sepanjang hari itu dia telah menghapus amalnya sebanyak satu qirath kecuali menyentuh anjing ladang atau anjing jinak". Berkata, [Ibnu Sirin] dan [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam: "Kecuali anjing untuk mengembalakan kambing atau ladang atau anjing pemburu". Dan berkata, [Abu Hazim] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam: "Anjing pemburu atau anjing yang jinak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2322</td></tr><tr><td>Arabic No</td><td>2322</td></tr><tr><td>Reference</td><td>Book 41 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, (награда за) дела того, кто держит собаку, ежедневно уменьшается на карат, если только собаку (держат) не для (охраны) посевов или скота».\nВ другой версии (этого хадиса, также передаваемой со слов Абу Хурайры, да будет доволен им Аллах, сообщается, что Пророк ﷺ сказал): «…если только собаку не держат либо для (охраны) овец или посевов, либо для охоты».\nВ третьей версии (этого хадиса, также передаваемой со слов Абу Хурайры, да будет доволен им Аллах, сообщается, что Пророк ﷺ сказал): «…если только собаку не (держат) для охоты или (охраны) скота»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2322</td></tr><tr><td>Arabic No</td><td>2322</td></tr><tr><td>Reference</td><td>Book 41 Hadith 3</td></tr></tbody></table></div>
 

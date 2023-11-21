@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salman ibn Amir: The Prophet (ﷺ) said: When one of you is fasting, he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abdul Wahid bin Ziyad] dari ['Ashim Al Ahwal], dari [Hafshah binti Sirin] dari [Ar Rabab] dari [Salman bin 'Amir yang merupakan pamannya], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang diantara kalian sedang berpuasa, maka hendaknya ia berbuka dengan kurma, apabila ia tidak mendapatkan kurma hendaknya dengan air, karena sesungguhnya air dapat membersihkan (zhahir dan batin, atau menghilangkan rasa haus)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 14 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сальмана ибн ‘Амира, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если кто-то из вас постится, пусть он разговляется финиками, а если не найдёт фиников, тогда водой, ибо вода очищает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 14 Hadith 43</td></tr></tbody></table></div>
 

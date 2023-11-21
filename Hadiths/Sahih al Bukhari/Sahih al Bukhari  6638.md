@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:I reached him (the Prophet (ﷺ) ) while in the shade of the K
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Al A'masy] dari [Ma'rur] dari [Abu dzar] mengatakan, aku menemuinya saat ia dalam lindungan Ka'bah seraya mengatakan; 'Mereka adalah orang yang paling rugi, demi rabb ka'bah, mereka adalah orang yang paling rugi, demi rabb ka'bah.' Aku berkata dalam hati; 'Apa salahku, apakah ia melihat sesuatu beres padaku? apa salahku? ' lantas aku duduk kepadanya dan dia mengatakan; 'saya tak bisa diam! Lalu ia menutupiku sekehendak Allah. Maka aku berkata; 'Siapa mereka yang merugi? Demi menebusmu ayah dan ibuku sebagai tebusannya, ya Rasulullah? ' beliau menjawab; "yaitu mereka yang berbanyak-banyakan menumpuk kekayaan, kecuali yang mengatakan; yang seperti ini dan seperti ini dan seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6638</td></tr><tr><td>Arabic No</td><td>6638</td></tr><tr><td>Reference</td><td>Book 83 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зарр, да будет доволен им Аллах, сказал: «(Однажды) я подошёл к находившемуся в тени Каабы (Посланнику Аллаха ﷺ), и он говорил: “Они потерпят наибольший ущерб, клянусь Господом Каабы, они потерпят наибольший ущерб, клянусь Господом Каабы!” — и я сказал: “Что со мной? Неужели что-то не так во мне? Что со мной?” И я сел рядом с ним, а он всё продолжал повторять (эти слова). Я был не в силах молчать, ибо охватило меня то, что было угодно Аллаху, и я спросил: “Кто они, да станут отец мой и мать выкупом за тебя, о Посланник Аллаха?” Он ответил: “Обладающие большими богатствами, кроме тех (из них), кто станет поступать так, так и так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6638</td></tr><tr><td>Arabic No</td><td>6638</td></tr><tr><td>Reference</td><td>Book 83 Hadith 17</td></tr></tbody></table></div>
 

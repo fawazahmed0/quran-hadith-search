@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ma’qil bin Yasar said:I had a sister and I was asked to give her in marriage. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Al Mutsanna], telah menceritakan kepadaku [Abu 'Amir], telah menceritakan kepada kami ['Abbad bin Rasyid] dari [Al Hasan], telah menceritakan kepadaku [Ma'qil bin Yasar], ia berkata; dahulu aku memiliki seorang saudara wanita, kemudian anak pamanku datang kepadaku, lalu aku menikahkan saudara wanitaku dengannya. Kemudian ia mencerainya, dengan perceraian yang memiliki kemungkinan untuk kembali, kemudian ia membiarkannya hinga habis masa iddahnya. Kemudian tatkala saudariku tersebut dipinang ia datang kepadaku untuk meminangnya. Lalu aku katakan; tidak, demi Allah, aku tidak akan menikahkannya denganmu selamanya. Ma'qil berkata; kemudian turunlah ayat ini mengenai diriku: "Apabila kamu mentalak isteri-isterimu, lalu habis masa iddahnya, maka janganlah kamu (para wali) menghalangi mereka kawin lagi dengan bakal suaminya." Ma'qil berkata; kemudian aku membayar kafarah sumpahku, lalu menikahkan saudariku dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4529)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2087</td></tr><tr><td>Arabic No</td><td>2087</td></tr><tr><td>Reference</td><td>Book 12 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ма‘кыля ибн Ясара, да будет доволен им Аллах: «У меня была сестра, и у меня просили её руки. Ко мне пришёл мой двоюродный брат, и я выдал её замуж за него, а потом он дал ей развод, после которого он ещё мог вернуть её, но вместо этого он дождался окончания её ‘идды. А потом у меня опять начали просить её руки. Тогда он пришёл и снова посватался к ней. Я же сказал: “Клянусь Аллахом, я никогда не выдам её за тебя!” И именно обо мне был ниспослан этот аят: “Если вы развелись с вашими жёнами и они выждали положенный им срок, то не мешайте им выходить замуж за своих прежних мужей” (сура 2 «Корова», аят 233). Тогда я искупил свою клятву и выдал её за него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4529)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2087</td></tr><tr><td>Arabic No</td><td>2087</td></tr><tr><td>Reference</td><td>Book 12 Hadith 42</td></tr></tbody></table></div>
 

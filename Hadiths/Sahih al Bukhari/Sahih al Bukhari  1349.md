@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "Allah has made Mecca a sanctuary (s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Hawsyab] telah menceritakan kepada kami ['Abdul Wahhab] telah menceritakan kepada kami [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] dari Nabi Shallallahu'alaihiwasallam bersabda: "Allah telah mengharamkan kota Makkah, maka tidak dihalalkan buat seorangpun sebelum dan sesudahku melakukan pelanggaran disana, yang sebelumnya pernah dihalalkan buatku beberapa saat dalam suatu hari. Di Makkah tidak boleh diambil rumputnya dan tidak boleh ditebang pohonnya dan tidak boleh diburu hewan buruannya dan tidak ditemukan satupun barang temuan kecuali untuk diserahkan kepada juru pengumuman (agar dikembalikan kepada pemiliknya) ". Berkata, (Al 'Abbas radliallahu 'anhu) kecuali pohon idzkhir (pohon yang harum baunya) yang berguna untuk pengerjaan celup (pewarnaan pakaian) dan kubur-kubur kami. Maka Beliau bersabda: "Ya kecuali pohon idzkhir". Dan berkata, Abu Hurairah radliallahu 'anhu dari Nabi Shallallahu'alaihiwasallam: "Untuk kubur-kubur mereka dan rumah-rumah mereka". Dan berkata, [Aban bin Shalih] dari [Al Hasan bin Muslim] dari [Shafiyah binti Syaibah] bahwa dia mendengar Nabi Shallallahu'alaihiwasallam bersabda seperti ini. Dan berkata, [Mujahid] dari [Thawus] dari [Ibnu 'Abbas radliallahu 'anhu]: "Dan untuk alat berhias mereka (parfum) dan rumah-rumah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1349</td></tr><tr><td>Arabic No</td><td>1349</td></tr><tr><td>Reference</td><td>Book 23 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Аллах сделал Мекку запретной, и она не была разрешённой никому до меня и не будет разрешенной никому после меня. И для меня она стала дозволенной лишь на определённое время в течение дня. В Мекке нельзя срезать кустарники, вырубать деревья, вспугивать дичь и поднимать найденное, если только (человек не делает это) для того, чтобы объявить о своей находке (людям)». В это время аль-‘Аббас, да будет доволен им Аллах, сказал: «Кроме “изхира” (душистый тростник), который используют ювелиры, и мы используем его для наших могил?» Посланник Аллаха ﷺ сказал: «Кроме “изхира”». \nСообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Для наших могил и наших домов». Ибн ‘Аббас, да будет доволен им Аллах, сказал: «Для кузнецов и их домов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1349</td></tr><tr><td>Arabic No</td><td>1349</td></tr><tr><td>Reference</td><td>Book 23 Hadith 103</td></tr></tbody></table></div>
 

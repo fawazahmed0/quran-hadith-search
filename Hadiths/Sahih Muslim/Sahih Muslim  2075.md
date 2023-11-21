@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that the Messenger of Allah (ﷺ) prayed for rain pointin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abdu bin Humaid] telah menceritakan kepada kami [Al Hasan bin Musa] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam shalat Istisqa, lalu beliau memberi isyarat ke langit dengan punggung kedua telapak tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2075</td></tr><tr><td>Arabic No</td><td>895.02</td></tr><tr><td>Reference</td><td>Book 9 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что обращаясь (к Аллаху) с мольбой о ниспослании дождя, Пророк ﷺ обращал тыльную сторону ладоней к небу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2075</td></tr><tr><td>Arabic No</td><td>895.02</td></tr><tr><td>Reference</td><td>Book 9 Hadith 6</td></tr></tbody></table></div>
 

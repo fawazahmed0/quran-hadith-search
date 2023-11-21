@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uthman b. Abu'l-'As reported:The last thing which the Messenger of Allah (ﷺ) i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Amru bin Murrah] dia berkata, "Saya mendengar [Sa'id bin al-Musayyab] berkata, [Utsman bin Abi al-'Ash] telah bercerita, dia berkata, "Akhir dari sesuatu yang diperintahkan Rasulullah Shallallahu'alaihiwasallam kepadaku adalah, 'Apabila kamu mengimami suatu kaum, hendaklah kamu meringankan shalat berjama'ah bersama mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>468.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Усман ибн Аби аль-‘Ас сказал: «Последнее, что завещал мне Посланник Аллаха ﷺ (были слова): “Если ты руководишь людьми в групповой молитве, то облегчай её”».Глава: Облегчение молитвы, но при этом совершённой полноценно
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>468.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 213</td></tr></tbody></table></div>
 

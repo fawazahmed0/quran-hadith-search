@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to recite the Qur'an with his head in my 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibunya] dari ['Aisyah] berkata, "Pernah Nabi shallallahu 'alaihi wasallam membaca Al Qur'an sedang kepalanya di pahaku, padahal aku sedang dalam keadaan haid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7549</td></tr><tr><td>Arabic No</td><td>7549</td></tr><tr><td>Reference</td><td>Book 97 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, что он сказала: «Пророк ﷺ не раз читал Коран, положив свою голову на мои колени, когда у меня были месячные»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7549</td></tr><tr><td>Arabic No</td><td>7549</td></tr><tr><td>Reference</td><td>Book 97 Hadith 174</td></tr></tbody></table></div>
 

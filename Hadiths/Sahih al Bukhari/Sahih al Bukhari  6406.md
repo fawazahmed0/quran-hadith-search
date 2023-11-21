@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "There are two expressions which ar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ibnu Fudlail] dari ['Umarah] dari [Abu Zur'ah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Dua kalimat ringan dilisan, berat ditimbangan, dan disukai Ar Rahman yaitu Subhaanallahul'azhiim dan Subhanallah wabihamdihi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6406</td></tr><tr><td>Arabic No</td><td>6406</td></tr><tr><td>Reference</td><td>Book 80 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, сообщившего, что Пророк ﷺ сказал: «Есть две фразы, которые легки для языка, но тяжелы они будут на Весах, а Милосердный любит их, и это — “Слава Аллаху Великому, слава Аллаху и хвала Ему!” (Субхана-Ллахи аль-‘Азым, субхана-Ллахи уа би хамди-хи!)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6406</td></tr><tr><td>Arabic No</td><td>6406</td></tr><tr><td>Reference</td><td>Book 80 Hadith 101</td></tr></tbody></table></div>
 

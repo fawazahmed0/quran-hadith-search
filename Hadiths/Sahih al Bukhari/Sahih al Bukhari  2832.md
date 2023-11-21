@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd As-Sa'idi:I saw Marwan bin Al-Hakam sitting in the Mosque
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] telah bercerita kepada kami [Ibrahim bin Sa'ad Az Zuhriy] berkata telah bercerita kepadaku [Shalih bin Kaisan] dari [Ibnu Syihab] dari [Sahal bin Sa'ad As-Sa'idiy] bahwa dia berkata: "Aku melihat [Marwan bin Al Hakam] sedang duduk di masjid lalu aku menemuinya hingga aku duduk di sampingnya lalu dia mengabarkan kepada kami bahwa [Zaid bin Tsabit] mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam membacakan ayat 97 Surah an-Nisaa' kepadanya yang artinya ("Tidaklah sama orang-orang yang duduk-duduk saja (tidak ikut berperang) dari kalangan Kaum Mu'minin dengan orang-orang yang berjihad fii sabilillah…"), maka datang Ibnu Ummu Maktum kepada Beliau padahal Beliau sedang membacakan ayat itu kepadaku dengan berkata: "Wahai Rasulullah, seandainya aku mampu berjihad pasti aku akan berjihad". Dia adalah seorang yang buta. Maka Allah Tabaaraka Wa Ta'ala menurunkan ayat kepada Rosul-Nya pada saat paha Beliau sedang berada diatas pahaku dan aku merasa berat dengan paha Beliau tersebut (karena beratnya wahyu yang Beliau terima) hingga aku khawatir pahaku retak. Kemudian Beliau tenang kembali. Maka Allah 'AZZA WAJALLA menurunkan firman-Nya (kelanjutan ayat tersebut) yang artinya: ("Yang tanpa memiliki alasan…)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2832</td></tr><tr><td>Arabic No</td><td>2832</td></tr><tr><td>Reference</td><td>Book 56 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля бин Са‘да ас-Са‘иди, да будет доволен им Аллах, что Зейд бин Сабит, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ диктовал мне аят(, в котором сказано): “Не равны (друг другу) те из верующих, которые отсиживаются (дома), и те, что сражаются на пути Аллаха…”, к нему пришёл Ибн Умм Мактум и сказал: “О Посланник Аллаха, если бы я мог принять участие в джихаде, я бы (тоже) обязательно сражался!” а он был слепым. И после этого Всеблагой и Всевышний Аллах ниспослал (новое откровение) Своему Посланнику ﷺ, бедро которого было поверх моего бедра, и оно стало таким тяжёлым, что я побоялся, что (моё бедро) будет раздроблено. А когда (ниспослание откровения) ему закончилось, (оказалось, что) Всемогущий и Великий Аллах ниспослал следующее: “…за исключением имеющих повреждения…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2832</td></tr><tr><td>Arabic No</td><td>2832</td></tr><tr><td>Reference</td><td>Book 56 Hadith 48</td></tr></tbody></table></div>
 

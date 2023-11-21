@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said, "The blood of a Muslim who conf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh], telah menceritakan kepada kami [bapakku], telah menceritakan kepada kami [Al A'masy], dari ['Abdullah bin Murrah] dari [Masruq] dari [Abdullah] mengatakan Rasulullah shallallahu 'alaihi wasallam bersabda: "darah seorang muslim yang telah bersyahadat laa-ilaaha-illallah dan mengakui bahwa aku utusan Allah terlarang ditumpahkan selain karena alasan diantara tiga; membunuh, berzina dan dia telah menikah, dan meninggalkan agama, meninggalkan jamaah muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6878</td></tr><tr><td>Arabic No</td><td>6878</td></tr><tr><td>Reference</td><td>Book 87 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха (бин Мас‘уда), да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не позволяется (проливать) кровь мусульманина, свидетельствующего о том, что нет бога, достойного поклонения, кроме Аллаха, и что я — Посланник Аллаха, если не считать трёх (случаев: когда лишают) жизни за жизнь, (когда речь идёт о) женатом человеке, совершившем прелюбодеяние, и (когда) кто-нибудь отступается от своей религии и покидает общину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6878</td></tr><tr><td>Arabic No</td><td>6878</td></tr><tr><td>Reference</td><td>Book 87 Hadith 17</td></tr></tbody></table></div>
 

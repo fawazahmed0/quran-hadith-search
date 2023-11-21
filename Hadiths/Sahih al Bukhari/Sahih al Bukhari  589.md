@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I pray as I saw my companions praying. I do not forbid prayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Ibnu 'Umar] berkata, "Aku melaksanakan shalat sebagaimana aku melihat para sahabatku melaksanakannya. Aku tidak melarang seorangpun untuk melaksanakan shalat baik di malam hari maupun di siang hari, kecuali bila kalian sengaja mengerjakannya saat matahari sedang terbit atau ketika sedang terbenamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>589</td></tr><tr><td>Arabic No</td><td>589</td></tr><tr><td>Reference</td><td>Book 9 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Я совершаю молитву так, как видел, каким образом совершали её сподвижники. И я не запрещаю никому совершать по ночам и дням молитву, сколько он пожелает, если только он не стремится совершать её во время восхода и захода солнца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>589</td></tr><tr><td>Arabic No</td><td>589</td></tr><tr><td>Reference</td><td>Book 9 Hadith 64</td></tr></tbody></table></div>
 

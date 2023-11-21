@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali bin Al-Husain (from Safiya the Prophet's wife):The wives of the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, telah menceritakan kepada saya [Al Laits] berkata, telah menceritakan kepada saya ['Abdurrahman bin Khalid] dari [Ibnu Syihab] dari ['Ali bin Al Husain radliallahu 'anhuma] bahwa [Shafiyah] isteri Nabi shallallahu 'alaihi wasallam mengabarkan kepadanya. Dan diriwayatkan pula, telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam bin Yusuf] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari ['Ali bin Al Husain radliallahu 'anhuma]; Nabi shallallahu 'alaihi wasallam berada di dalam masjid sedangkan isteri-isteri Beliau bersama Beliau dalam keadaan bergembira. Beliau berkata kepada Shafiyah binti Huyyay: "Janganlah kamu tergesa-gesa hendak pulang, tunggulah hingga aku keluar bersamamu". Rumah Shafiyah berada di perkampungan Usamah. Maka Nabi shallallahu 'alaihi wasallam keluar bersama Shafiyah. Kemudian di jalan ada dua orang dari Kaum Anshar yang berjumpa dengan Beliau lalu keduanya memandang Nabi shallallahu 'alaihi wasallam sesaat lalu keduanya meneruskan perjalanannya. Nabi shallallahu 'alaihi wasallam berkata kepada keduanya: "Kemarilah kalian, ini adalah Shafiyah binti Huyay". Maka keduanya berkata: "Maha suci Allah, wahai Rasulullah". Lalu Beliau shallallahu 'alaihi wasallam berkata: "Sesungguhnya syetan berjalan pada diri manusia lewat aliran darah dan aku khawatir telah timbul suatu perasaan pada diri kalian berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2038</td></tr><tr><td>Arabic No</td><td>2038</td></tr><tr><td>Reference</td><td>Book 33 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сафия, жена Пророка ﷺ сказала: «Жёны Пророка ﷺ были с ним в мечети (когда он совершал и‘тикяф), и затем они ушли. Пророк ﷺ сказал Сафие бинт Хуей: “Не торопись, я провожу тебя”. Она жила в доме, (в котором потом жил) Усама. Пророк ﷺ вышел вместе с ней, и по дороге встретил двух мужчин из числа ансаров, они посмотрели на Пророка ﷺ и прошли мимо. Пророк ﷺ сказал (им): “Подойтите сюда! Это ведь Сафия бинт Хуей!” Они воскликнули: “Преславен Аллах /Субхана-Ллах/, о Посланник Аллаха!» (Тогда Пророк ﷺ) сказал: “Поистине, шайтан передвигается внутри человека подобно крови, и, поистине, я побоялся, что он сможет заронить в ваши сердца что-нибудь (дурное)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2038</td></tr><tr><td>Arabic No</td><td>2038</td></tr><tr><td>Reference</td><td>Book 33 Hadith 13</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Imran b. Hussain said:A man who had no other property emancipated six slaves of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Qilabah] dari [Abu Al Muhallab] dari [Imran bin Hushain], bahwa seorang laki-laki telah membebaskan enam orang budak dengan syarat ia telah meninggal, sedangkan ia tidak memiliki harta selain mereka. Kemudian hal tersebut sampai kepada Nabi shallallahu 'alaihi wasallam, hingga beliau pun marah. Kemudian beliau mengundang mereka dan membagi mereka menjadi tiga kelompok, beliau lalu mengundi mereka, kemudian membebaskan dua orang dan menyisakan empat orang (sebagai budak)." Telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Abdul Aziz bin Al Mukhtar] telah menceritakan kepada kami [Khalid] dari [Abu Qilabah] dengan sanad dan maknanya, namun ia tidak menyebutkan, 'kemudian beliau marah. ' Telah menceritakan kepada kami [Wahb bin Baqiyyah] telah menceritakan kepada kami [Khalid bin Abdullah Ath Thahhan] dari [Khalid] dari [Abu Qilabah] dari [Abu Zaid] bahwa seorang laki-laki anshar, seperti makna hadits tersebut. Nabi shallallahu 'alaihi wasallam lalu bersabda: "Seandainya aku menyaksikannya sebelum ia dikubur, maka ia tidak dikubur di pekuburan orang-orang Muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1668)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3958</td></tr><tr><td>Arabic No</td><td>3958</td></tr><tr><td>Reference</td><td>Book 31 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что один человек обещал свободу шести своим рабам после своей смерти, а другого имущества у него не было. Узнав о его поступке, Пророк ﷺ говорил с ним строго, а потом позвал рабов, разделил их на три трети и велел им бросить жребий, в результате которого двое получили свободу, а остальные четверо остались в рабстве
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1668)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3958</td></tr><tr><td>Arabic No</td><td>3958</td></tr><tr><td>Reference</td><td>Book 31 Hadith 33</td></tr></tbody></table></div>
 

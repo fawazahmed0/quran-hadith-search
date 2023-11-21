@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuRazin: A man of Banu Amir said: Messenger of Allah, my father is ver
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hafsh bin Umar] dan [Muslim bin Ibrahim] secara makna, mereka berkata; telah menceritakan kepada Kami [Syu'bah] dari [An Nu'man bin Salim] dari ['Amr bin Aus] dari [Abu Razin], Hafsh berkata; dalam haditsnya; terdapat seorang laki-laki dari Bani Amir berkata; wahai Rasulullah, sesungguhnya ayahku telah tua renta, ia tidak mampu untuk melakukan haji dan umrah serta bersafar. Beliau bersabda: "Berhaji dan berumrahlah untuk ayahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1810</td></tr><tr><td>Arabic No</td><td>1810</td></tr><tr><td>Reference</td><td>Book 11 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Разин, человек из бану ‘амир, сказал: «О Посланник Аллаха, поистине, мой отец очень стар и не может совершить хадж и ‘умру он не способен отправиться в путь». Он ответил: «Соверши хадж и ‘умру вместо отца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1810</td></tr><tr><td>Arabic No</td><td>1810</td></tr><tr><td>Reference</td><td>Book 11 Hadith 90</td></tr></tbody></table></div>
 

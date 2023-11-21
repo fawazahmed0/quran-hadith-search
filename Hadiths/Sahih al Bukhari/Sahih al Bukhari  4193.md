@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Raja:The freed slave of Abu Qilaba, who was with Abu Qilaba in Sham
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abdurrahim] telah menceritakan kepada kami [Hafsh bin Umar Abu 'Umar Al Hawdli] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub] dan [Al Hajjaj Ash Shawwaf] ia berkata; telah menceritakan kepadaku [Abu Raja'] mantan budak Abu Qilabah -dia pernah bersamanya di Syam- pada suatu hari Umar bin Abdul 'Aziz bermusyawarah dengan orang-orang. Katanya; "Apa pendapat kalian tentang pembagian ini?". Mereka menjawab; "Benar. Sebagaimana Rasulullah shallallahu 'alaihi wasallam telah menerapkannya begitu juga para khalifah sebelum anda". Abu Raja' berkata; Saat itu Abu Qilabah berada di tempat tidurnya, lalu 'Anbasah bin Sa'id berkata; "Mana hadits Anas tentang suku 'Urainah". Maka [Abu Qilabah] berkata dari [Anas bin Malik], berkata [Abdul Aziz bin Shubaih] dari [Anas];...dari suku Uraniyah. Dan berkata Abu Qilabah dari Anas;.....dari suku 'Ukul." Lalu dia menceritakan kisah tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4193</td></tr><tr><td>Arabic No</td><td>4193</td></tr><tr><td>Reference</td><td>Book 64 Hadith 233</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Раджа, освобожденный раб Абу Кылябы, который был с Абу Кылябой в Шаме, рассказал, что (однажды) ’Умар ибн ’Абдуль’азиз советовался с людьми, сказав: «Что вы думаете о “аль-касаме” (клятва, произносимая человеком, отрицающим убийство)?» Они ответили: «Это истина, в соответствие с ней выносил решения Посланник Аллаха ﷺ и халифы до тебя». В этот момент Абу Кыляба находился за троном ‘Умара. ‘Анбаса ибн Са‘ид сказал: «А как же хадис Анаса, про людей из племени ‘урайна?» Абу Кыляба сказал: «Мне он и рассказал этот хадис», а затем рассказал хадис о людях из племени ‘урайна полностью
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4193</td></tr><tr><td>Arabic No</td><td>4193</td></tr><tr><td>Reference</td><td>Book 64 Hadith 233</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas: That when the Prophet (ﷺ) was informed that the sister of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Ikrimah] dari [Ibnu Abbas], bahwa Nabi shallallahu 'alaihi wasallam tatkala telah sampai kepadanya bahwa saudari 'Uqbah bin 'Amir bernadzar untuk berhaji dengan berjalan kaki, maka beliau berkata: "Sesungguhnya Allah tidak butuh kepada nadzarnya. Perintahkan dia agar berkendaraan." Abu Daud berkata; hadits tersebut diriwayatkan oleh [Sa'id bin Abi 'Arubah] seperti itu. Dan oleh [Khalid] dari [Ikrimah], dari Nabi shallallahu 'alaihi wasallam seperti itu. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], telah menceritakan kepada kami [Ibnu Abu Adi], dari [Qatadah] dari [Ikrimah] bahwa saudari Uqbah bin Amir …… seperti makna hadits Hisyam tanpa menyebutkan kurban. Dan padanya beliau berkata: "Perintahkan saudarimu agar berkendaraan!" Abu Daud berkata; hadits tersebut diriwayatkan oleh Khalid dari Ikrimah sama dengan makna hadits Hisyam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 22 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что в день покорения Мекки один человек поднялся со своего места и сказал: «О Посланник Аллаха, поистине, я дал обет Аллаху совершить молитву в два рак‘ата в Иерусалиме (в мечети Аль-Акса), если Аллах дарует тебе победу в Мекке». (Посланник Аллаха ﷺ) сказал: «Молись вот здесь». Тот повторил свои слова, и (Посланник Аллаха ﷺ) снова сказал: «Молись вот здесь». Но тот снова повторил свои слова. (Посланник Аллаха ﷺ) сказал: «Что ж, дело твоё…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 22 Hadith 56</td></tr></tbody></table></div>
 

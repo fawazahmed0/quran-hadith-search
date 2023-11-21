@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : "La halte faite à Al-'Abtah n'est pas
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, Telah menceritakan kepada kami [Abdullah bin Numair] Telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Aisyah] ia berkata; Singgah di Abthah, bukanlah sunnah. Rasulullah shallallahu 'alaihi wasallam singgah di tempat itu, hanya karena memang beliau bersikap lebih murah hati apabila keluar. Dan Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Hafsh bin Ghiyats] -dalam riwayat lain- Dan telah menceritakan kepadaku [Abu Rabi' Az Zahrani] Telah menceritakan kepada kami [Hammad bin Zaid] -dalam riwayat lain- Dan Telah menceritakannya kepada kami [Abu Kamil] Telah menceritakan kepada kami [Yazid bin Zurai'] Telah menceritakan kepada kami [Habib Al Mu'allim] semuanya dari [Hisyam] dengan isnad ini, semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>1311.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 373</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>1311.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 373</td></tr></tbody></table></div>
 

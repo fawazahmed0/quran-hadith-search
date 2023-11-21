@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said “I came to Madeenah when the Abu Apostle of Allaah(ﷺ) was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamid bin Yahya Al Balkhi], ia berkata; telah menceritakan kepada kami [Sufyan], ia berkata; telah menceritakan kepada kami [Az Zuhri], dan ia ditanya Isma'il bin Umayyah kemudian Az Zuhri menceritakannya kepada kami, bahwa ia telah mendengar ['Anbasah bin Sa'id Al Qurasyi], ia menceritakan dari [Abu Hurairah], ia berkata; aku datang ke Madinah sementara Rasulullah shallallahu 'alaihi wasallam di Khaibar ketika beliau telah menaklukkannya. Kemudian aku meminta beliau untuk memberiku saham. Kemudian anak Sa'id bin Al 'Ash (Aban bin Al 'Ash) berkata; jangan engkau beri saham kepadanya wahai Rasulullah! Abu Hurairah berkata; kemudian aku katakan; ini adalah orang yang membunuh Ibnu Qauqal. Kemudian Sa'id bin Al 'Ash berkata; betapa aneh unta kecil, ia telah turun kepada kami dari Dhal dan mencelaku karena membunuh seorang muslim yang Allah ta'ala muliakan melalui diriku. Dan ia tidaklah menghinakanku di hadapannya. Abu Daud berkata; mereka berjumlah sekitar sepuluh orang, dan telah terbunuh enam orang dan kembali sisanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4237)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2724</td></tr><tr><td>Arabic No</td><td>2724</td></tr><tr><td>Reference</td><td>Book 15 Hadith 248</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4237)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2724</td></tr><tr><td>Arabic No</td><td>2724</td></tr><tr><td>Reference</td><td>Book 15 Hadith 248</td></tr></tbody></table></div>
 

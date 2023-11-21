@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Wabara reported:While I was sitting in the company of Ibn 'Umar, a person came t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami ['Abtsar] dari [Isma'il bin Abu Khalid] dari [Wabarah] ia berkata; Aku pernah duduk bersama [Ibnu Umar], tiba-tiba seorang lelaki datang kepadanya dan bertanya, "Apakah tindakanku bisa dibenarkan bila aku melaksanakan thawaf di Baitullah terlebih dahulu sebelum aku datang ke Arafah untuk melaksanakan wuquf?" Maka Ibnu Umar menjawab, "Ya, benar." Namun Ibnu Abbas berkata, "Janganlah kamu melaksanakan thawaf di Baitullah hingga kamu melaksanakan wuquf di Arafah." Ibnu Umar berkata, "Rasulullah shallallahu 'alaihi wasallam telah melaksanakan haji, dan beliau melaksanakan thawaf di Baitullah sebelum mendatangi Arafah untuk melaksanakan wuquf di sana. Maka jika kamu seorang yang benar, manakah yang lebih berhak kau ambil; perkataan Rasulullah shallallahu 'alaihi wasallam atau perkataan Ibnu Abbas?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2997</td></tr><tr><td>Arabic No</td><td>1233.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2997</td></tr><tr><td>Arabic No</td><td>1233.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 205</td></tr></tbody></table></div>
 

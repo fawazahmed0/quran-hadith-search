@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated (through a different chain of tmnamitters) on the authority
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Ghassan Al Misma'i] dan [Muhammad bin Basyar] semuanya dari [Mu'adz] sedangkan lafadznya dari Abu Ghassan, telah menceritakan kepada kami Mu'adz dan dia Ibnu Hisyam Ad Dastawa'i telah menceritakan kepadaku [Bapakku] dari [Qatadah] telah menceritakan kepada kami [Al Hasan] dari [Dlabbah bin Mihshan Al 'Anazi] dari [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam, dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda: "Kalian akan dipimpin oleh para penguasa, kalian mengenal mereka namun kalian mengingkari (perbuatan mereka), barangsiapa membenci kemungkarannya maka ia telah berlepas diri, dan barangsiapa mengingkari berarti ia telah selamat. Tetapi bagi orang yang ridla dan mengikuti, para sahabat langsung bertanya, "Wahai Rasulullah, tidakkah kita perangi saja?" beliau menjawab: "Tidak! Selama mereka masih melaksanakan shalat." -maksudnya barang siapa membenci dan mengingkari dengan hatinya- Dan telah menceritakan kepadaku [Abu Ar Rabi' Al 'Ataki] telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid- telah menceritakan kepada kami [Al Mu'alli bin Ziyad] dan [Hisyam] dari [Al Hasan] dari [Dlabbah bin Mihshan] dari [Ummu Salamah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda seperti hadits di atas, namun dia menyebutkan, "Barangsiapa mengingkarinya maka ia akan selamat, dan barangsiapa memebencinya maka ia akan selamat." Dan telah menceritakan kepada kami [Hasan bin Ar Rabi' Al Bajali] telah menceritakan kepada kami [Ibnu Al Mubarrak] dari [Hisyam] dari [Al Hasan] dari [Dlabbah bin Mihshan] dari [Ummu Salamah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda…kemudian dia menyebutkan hadits seperti di atas sampai perkataannya, 'Akan tetapi barangsiapa rela dan mengikutinya, ' namun dia tidak menyebutkan yang seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4801</td></tr><tr><td>Arabic No</td><td>1854.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4801</td></tr><tr><td>Arabic No</td><td>1854.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 98</td></tr></tbody></table></div>
 

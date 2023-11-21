@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuDharr: We fasted with the Messenger of Allah (ﷺ) during Ramadan, b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah mengabarkan kepada kami [Daud bin Abu Hind] dari [Al Walid bin Abdurrahman] dari [Jubair bin Nufair] dari [Abu Dzar] dia berkata; "Kami pernah berpuasa Ramadhan bersama Rasulullah shallallahu 'alaihi wasallam, dan beliau tidak pernah mengerjakan shalat malam bersama kami sedikitpun dalam sebulan sampai berlalu sepertiga malam, setelah malam ke enam (dari akhir bulan) beliau juga tidak mengerjakan shalat malam bersama kami, ketika di hari ke lima (dari akhir bulan), beliau mengerjakan shalat malam bersama kami hingga tengah malam pun berlalu. Maka kataku; "wahai Rasulullah, alangkah baiknya sekiranya anda memperbanyak shalat sunnah (qiyamullail) pada malam hari ini untuk kami!." Abu Dzar berkata; Maka beliau bersabda: "Sesungguhnya apabila seseorang shalat (malam) bersama imam hingga selesai, maka akan di catat baginya seperti bangun (untuk mengerjakan shalat malam) semalam suntuk." Kata Abu Dzar; "Ketika malam ke empat (dari akhir bulan) beliau tidak mengerjakan shalat malam (bersama kami), setelah malam ketiga (dari akhir bulan), beliu mengumpulkan keluarganya, isteri-isterinya dan orang-orang, lalu melakukan shalat malam bersama kami, sampai kami khawatir ketinggalah "Al falah." Jabir bertanya; "Apakah al falah itu?" jawabnya; "Waktu sahur, kemudian beliau tidak lagi melakukan shalat malam bersama kami di malam-malam berikutnya dari sebulan itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1375</td></tr><tr><td>Arabic No</td><td>1375</td></tr><tr><td>Reference</td><td>Book 6 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джубайра ибн Нуфайра: «Абу Зарр, да будет доволен им Аллах, сказал: “Однажды мы постились в рамадане вместе с посланником Аллаха ﷺ и он не совершал с нами дополнительных молитв до тех пор, пока до конца рамадана не осталось семь дней. Он молился с нами треть ночи. Назавтра, в шестую ночь с конца месяца, он не молился с нами. В пятую ночь он молился с нами половину ночи. Я сказал: “О Посланник Аллаха! Если бы мы простояли в молитве всю эту ночь!” Он сказал: “Поистине, если человек молился с имамом до самого его ухода, ему запишется простаивание всей ночи в молитве”. В четвёртую ночь Посланник Аллаха ﷺ не молился с нами, а в третью он собрал членов своей семьи, своих жён и остальных людей и молился с нами столько, что мы даже начали опасаться, что упустим фалях”. Я спросил: “А что такое фалях?” Он ответил: “Сухур… Оставшуюся часть месяца он не молился с нами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1375</td></tr><tr><td>Arabic No</td><td>1375</td></tr><tr><td>Reference</td><td>Book 6 Hadith 5</td></tr></tbody></table></div>
 

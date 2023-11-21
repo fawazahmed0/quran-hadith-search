@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:That during the battle with Bani Al-Mustaliq they (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Musa] -yaitu Ibn Uqbah- telah menceritakan kepadaku [Muhammad bin Yahya bin Hibban] dari [Ibn Muhairiz] dari [Abu Sa'id Al Khudzri] saat perang bani Musthaliq, bahwa para sahabat mendapatkan para tawanan wanita, dan mereka ingin menikmatinya (jimak) namun tidak menginginkan para tawanan wanita itu hamil. Maka mereka bertanya kepada nabi tentang 'azl (mengeluarkan sperma di luar kenaluan wanita), maka Nabi bertanya: 'Bukan sebaiknyakah kalian tidak melakukannya, sebab Allah telah menetapkan siapa saja yang hidup hingga hari kiamat tiba? ' Sedang [Mujahid] berkata dari [Qaza'ah] aku mendengar [Abu Sa'id] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: 'Tidaklah manusia yang dicipta melainkan Allah lah yang menciptanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7409</td></tr><tr><td>Arabic No</td><td>7409</td></tr><tr><td>Reference</td><td>Book 97 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт, что однажды в походе против бану аль-мусталик они захватили в плен женщин. И они возжелали вступить с ними в половую связь так, чтобы они не забеременели, и они спросили Пророка ﷺ об извержении семени вне лона, и он сказал: «Вам ничем не повредит, если вы не станете делать этого, ибо, поистине, Аллах уже предопределил кто будет сотворён до Судного Дня».\nМуджахид передаёт от Каза‘а, который слышал как Абу Са‘ид (аль-Худри), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Аллах непременно сотворит душу, которой предопределено быть сотворённой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7409</td></tr><tr><td>Arabic No</td><td>7409</td></tr><tr><td>Reference</td><td>Book 97 Hadith 38</td></tr></tbody></table></div>
 

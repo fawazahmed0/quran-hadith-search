@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:I heard the Prophet (ﷺ) reciting wa t-teeni wa z-zaitun" (95)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] berkata, telah menceritakan kepada kami [Mis'ar] berkata, telah menceritakan kepada kami ['Adi bin Tsabit] bahwa dia mendengan [Al Bara] berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam membaca 'WAT TIINI WAZ ZAITUUN' pada shalat 'Isya. Dan belum pernah aku mendengar seseorang yang suaranya atau bacaan lebih baik dari beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 10 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Ади ибн Сабита (да помилует его Аллах), что он слышал, как аль-Бараъ (ибн ‘Азиб), да будет доволен им Аллах, сказал: «Я слышал, как во время совершения вечернего намаза, Пророк ﷺ читал: “Клянусь смоковницей и оливой…”, и я не слышал более приятного голоса (или: чтения), чем его (голос)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 10 Hadith 163</td></tr></tbody></table></div>
 

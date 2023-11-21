@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ka'b ibn Malik: I said: Messenger of Allah, to make my repentance compl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud], dan [Ibnu As Sarh] mereka berdua berkata; telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Yunus] ia berkata; [Ibnu Syihab] berkata; telah mengabarkan kepadaku [Abdurrahman bin Abdullah bin Ka'b bin Malik] bahwa [Abdullah bin Ka'b] -dan ia adalah penuntun Ka'b ketika Ka'b mengalami buta mata. Dari [Ka'b] ia berkata; aku katakan; wahai Rasulullah, sesungguhnya diantara taubatku adalah melepaskan sebagian hartaku sebagai sedekah kepada Allah dan kepada rasulNya. Rasulullah shallallahu 'alaihi wasallam bersabda: "Tahanlah sebagian hartamu, hal itu lebih baik bagimu!" Maka aku katakan; sesungguhnya saya telah menahan saham saya yang ada di Khaibar. Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Abdullah bin Ka'b bin Malik], dari [ayahnya] bahwa ia berkata kepada Rasulullah shallallahu 'alaihi wasallam ketika diterima taubatnya; sesungguhnya saya melepaskan sebagian dari hartaku …… kemudian ia menyebutkan seperti hadits tersebut hingga kata; lebih baik bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3317</td></tr><tr><td>Arabic No</td><td>3317</td></tr><tr><td>Reference</td><td>Book 22 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абду-р-Рахмана ибн Абу Бакра, да будет доволен Аллах им и его отцом: «Однажды к нам пришли гости, а Абу Бакр беседовал с посланником Аллаха ﷺ вечерами. Он сказал: “Я не вернусь к вам, пока ты не закончишь оказывать им гостеприимство и угощать их”. Я подал им угощение, однако они сказали: “Мы не станем есть, пока не придёт Абу Бакр”. Потом он пришёл и спросил: “Ну, как ваши гости? Вы закончили угощать их?” Они сказали: “Нет”. Я сказал: “Я предложил им угощение, однако они сказали, что не станут есть, пока ты не придёшь”. Гости подтвердили это, сказав: “Он говорит правду. Он действительно принёс нам угощение, однако мы не стали есть, желая дождаться тебя”. Абу Бакр спросил: “Что же помешало вам поесть?” Они ответили: “Уважение к тебе”. Абу Бакр воскликнул: “Клянусь Аллахом, я не стану есть это сегодняшним вечером!” Они сказали: “Клянёмся Аллахом, мы не станем есть, пока не поешь ты!” Тогда Абу Бакр сказал: “Поистине, не видел я ещё столь скверного вечера!” И он сказал: “Пододвиньте вашу еду!” И когда еду пододвинули, он произнёс имя Аллаха и поел, и они поели вместе с ним». Передатчик хадиса сказал: «И мне также сообщили, что утром Абу Бакр отправился к Пророку ﷺ и рассказал ему о том, что сделал он и что сделали они, и (Посланник Аллаха ﷺ) сказал: “Ты наиболее благочестивый и правдивый из них”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3317</td></tr><tr><td>Arabic No</td><td>3317</td></tr><tr><td>Reference</td><td>Book 22 Hadith 76</td></tr></tbody></table></div>
 

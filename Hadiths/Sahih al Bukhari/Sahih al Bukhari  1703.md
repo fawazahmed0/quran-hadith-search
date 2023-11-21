@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:I used to twist the garlands for the sheep of the Prophet (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Manshur bin Al Mu'tamir]. Dan telah diriwayatkan pula, telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha] berkata: "Aku telah mengikatkan kalung (sebagai tanda) pada kambing (hewan qurban) milik Nabi Shallallahu'alaihiwasallam lalu Beliau mengirimnya kemudian Beliau tinggal (bersama keluarganya) secara halal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1703</td></tr><tr><td>Arabic No</td><td>1703</td></tr><tr><td>Reference</td><td>Book 25 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я плела повязки для жертвенного скота Пророка ﷺ и он посылал их (животных к Каабе), а сам оставался не в состоянии ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1703</td></tr><tr><td>Arabic No</td><td>1703</td></tr><tr><td>Reference</td><td>Book 25 Hadith 181</td></tr></tbody></table></div>
 

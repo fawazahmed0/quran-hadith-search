@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa’id bin Jubair said “We returned along with Ibn ‘Umar and when we reache
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ibnu Al 'Ala'], telah menceritakan kepada Kami [Abu Usamah], dari [Isma'il] dari [Abu Ishaq] dari [Sa'id bin Jubair], ia berkata; Kami bertolak bersama [Ibnu Umar], kemudian tatkala Kami telah sampai di Muzdalifah beliau melakukan Shalat Maghrib dan Isya' bersama Kami dengan satu iqamah sebanyak tiga dan dua raka'at. Kemudian tatkala telah selesai, Ibnu Umar berkata kepada Kami; demikianlah Rasulullah shallAllahu wa'alaihi wa sallam melakukan shalat bersama Kami di tempat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 11 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘ид ибн Джубайр передаёт: «Мы покинули ‘Арафат вместе с Ибн ‘Умаром, и, когда мы дошли до Муздалифы, он совершил с нами закатную /магриб/ и вечернюю /‘иша/ молитвы с одним икаматом в три и в два рак‘ата соответственно. После завершения молитвы Ибн ‘Умар сказал нам: “Так совершал с нами молитву Посланник Аллаха ﷺ в этом месте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 11 Hadith 211</td></tr></tbody></table></div>
 

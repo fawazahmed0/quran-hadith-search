@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa'id ibn al-Musayyab said:There were two brothers among the Ansar who shared an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Minhal], telah menceritakan kepada kami [Yazid? bin Zurai'], telah menceritakan kepada kami [Habib Al Mu'allim] dari ['Amr bin Syu'aib] dari [Sa'id bin Al Musayyab] bahwa dua orang bersaudara dari kalangan anshar, diantara mereka terdapat warisan. Kemudian salah seorang diantara mereka meminta pembagian kepada saudaranya tersebut. Kemudian ia berkata; apabila engkau kembali meminta pembagian kepadaku maka seluruh hartaku ada di pintu Ka'bah. Kemudian [Umar] berkata; kepadanya; sesungguhnya Ka'bah tidak butuh kepada hartamu. Bayarlah kafarah sumpahmu, dan berbicaralah dengan saudaramu. Aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak boleh ada sumpah atas dirimu, tidak boleh ada nadzardalam bermaksiat kepada Tuhan (Allah), dan dalam memutuskan hubungan kekerabatan, serta dalam perkara yang tidak engkau mampu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды два человека попросили Пророка ﷺ рассудить их и Пророк ﷺ попросил истца предоставить доказательства, однако у того не было доказательств. Тогда (Посланник Аллаха ﷺ) велел ответчику поклясться, и тот поклялся Аллахом, кроме Которого нет иного божества, и Посланник Аллаха ﷺ сказал: «Ты сделал это, однако тебе прощено за искренность, с которой ты свидетельствовал, что нет бога [заслуживающего поклонение], кроме Аллаха». Абу Дауд сказал: «Из этого хадиса следует, что он не велел ему искупать клятву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
 

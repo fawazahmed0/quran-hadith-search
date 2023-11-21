@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Qasim said:Aisha intended to set free two slaves of her who were spouses. She
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] serta [Nashr bin Ali], Zuhair berkata; telah menceritakan kepada kami ['Ubaidullah bin Abdurrahman bin Mauhib] dari [Al Qasim] dari [Aisyah] bahwa ia ingin untuk membebaskan dua dua orang budak yang memiliki suami. Al Qasim berkata; kemudian Aisyah bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai hal tersebut, lalu beliau memerintahkannya agar memulai dengan seorang laki-laki sebelum yang wanita. Nashr berkata; [Abu Ali Al Hanafi] telah menceritakannya dari ['Ubaidullah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2237</td></tr><tr><td>Arabic No</td><td>2237</td></tr><tr><td>Reference</td><td>Book 13 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что она хотела отпустить на волю двух невольников мужа с женой и спросила об этом Пророка ﷺ. Он велел ей освободить сначала мужа, а потом жену
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2237</td></tr><tr><td>Arabic No</td><td>2237</td></tr><tr><td>Reference</td><td>Book 13 Hadith 63</td></tr></tbody></table></div>
 

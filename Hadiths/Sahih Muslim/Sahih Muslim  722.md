@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Maymoûna (raa) a dit : "Un jour que j'apportai au Prophète (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ali bin Hujras-Sa'di] telah menceritakan kepadaku [Isa bin Yunus] telah menceritakan kepada kami [al-A'masy] dari [Salim bin Abi al-Ja'di] dari [Kuraib] dari [Ibnu Abbas] dia berkata, "Bibiku, [Maimunah] telah menceritakan kepadaku, dia berkata, 'Aku pernah membawa air mandi kepada Rasulullah Shallallahu'alaihiwasallam karena junub, Lalu beliau membasuh dua tapak tangan sebanyak dua atau tiga kali. Kemudian beliau memasukkan tangan ke dalam wadah berisi air, lalu menyiramkan air tersebut ke atas kemaluan serta membasuhnya dengan tangan kiri. Setelah itu, beliau menggosokkan tangan kiri ke tanah dengan pijatan yang kuat, lalu berwudhu sebagaimana yang biasa dilakukan untuk mendirikan shalat. Kemudian beliau menuangkan air yang diciduk dengan dua telapak tangan ke kepala sebanyak tiga kali sepenuh telapak tangan. Lalu beliau membasuh seluruh tubuh, lalu beralih dari tempat tersebut dan membasuh kedua kaki, kemudian aku mengambilkan handuk untuk beliau, tetapi beliau menolaknya." Dan telah menceritakan kepada kami [Muhammad bin ash-Shabbah], [Abu Bakar bin Abi Syaibah], [Abu Kuraib], [al-Asyajj], dan [Ishaq] semuanya dari [Waki'] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami tentangnya [Yahya bin Yahya] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Muawiyah] keduanya dari [al-A'masy] dengan sanad ini, dan tidaklah dalam hadits keduanya lafazh, "Menyiramkan air tiga kali sepenuh telapak tangan pada kepala." Dan dalam hadits Waki' terdapat gambaran wudhu seluruhnya. Dia menyebutkan berkumur-kumur dan memasukkan air ke hidung. Dan dalam hadits Abu Mu'awiyah tidak menyebutkan handuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>722</td></tr><tr><td>Arabic No</td><td>317.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Маймуна сказала: «Я принесла Посланнику Аллаха ﷺ воду для омовения после большого осквернения /джанаба/, и (сначала) он дважды (или: трижды) омыл кисти рук, потом погрузил руку в сосуд, (зачерпнул воду), стал сливать её на свои половые органы и омыл их левой рукой, а потом тщательно вытер левую руку о землю. Потом он совершил такое же омовение, какое обычно совершал перед молитвой, потом трижды зачёрпывал рукой воду и выливал её себе на голову, потом омыл (все прочие части) тела, а потом перешёл на другое место и омыл ноги, после чего я принесла ему платок, от (использования) которого он отказался»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>722</td></tr><tr><td>Arabic No</td><td>317.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 44</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd The Verse "And eat and drink until the white thread appea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Maryam] Telah menceritakan kepada kami [Abu Ghassan Muhammad bin Mutharrif] Telah menceritakan kepadaku [Abu Hazim] dari [Sahal bin Sa'ad] dia berkata; Ketika turun ayat; "dan makan minumlah kamu sehingga terang bagimu benang putih dari benang hitam. (Q.S.Al Baqarah: 187). Sedangkan ayat 'minal fajrinya' (di waktu fajar) belum turun. Orang-orangpun apabila mau berpuasa, salah seorang dari mereka mengikat kakinya dengan benang putih dan benang hitam, dan mereka terus makan hingga nampak bagi mereka kedua benang tersebut. Lalu Allah menurunkan ayat; 'Minal fajri.' (diwaktu fajar). Akhirnya mereka mengerti bahwa yang dimaksud adalah dari waktu malam ke siang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4511</td></tr><tr><td>Arabic No</td><td>4511</td></tr><tr><td>Reference</td><td>Book 65 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д сказал: «Когда были ниспосланы аяты: “Ешьте и пейте, пока вы не сможете отличить белую нитку от чёрной”, а слова “рассвета” ещё не были ниспосланы, люди, которые намеревались поститься, привязывали чёрные и белые нити к своим ногам и продолжали есть, пока не начинали различать их. Когда же Аллах ниспослал: “рассвета”, они поняли, что это означает ночь и день»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4511</td></tr><tr><td>Arabic No</td><td>4511</td></tr><tr><td>Reference</td><td>Book 65 Hadith 38</td></tr></tbody></table></div>
 

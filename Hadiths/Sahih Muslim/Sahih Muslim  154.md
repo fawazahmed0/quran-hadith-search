@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), le Prophète (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Amru an-Naqid] serta [Zuhair bin Harb] mereka berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Salim] dari [bapaknya], bahwa Nabi mendengar seorang laki-laki menasihati saudaranya karena malu, maka beliau pun bersabda: "Malu itu adalah sebagian dari iman." Telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] dengan sanad ini seraya berkata, "Beliau melewati seorang laki-laki dari kalangan Anshar yang sedang menasihati saudaranya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>154</td></tr><tr><td>Arabic No</td><td>36.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Салима, передавшего со слов своего отца, что, услышав, как один из ансаров даёт своему брату наставления относительно стыдливости, Пророк ﷺ сказал (ему): «Стыдливость от веры!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>154</td></tr><tr><td>Arabic No</td><td>36.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 61</td></tr></tbody></table></div>
 

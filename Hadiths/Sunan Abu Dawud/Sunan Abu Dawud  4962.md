@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuJubayrah ibn ad-Dahhak: This verse was revealed about us, the Banu S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Wuhaib] dari [Dawud] dari [Amir] ia berkata; telah menceritakan kepadaku [Abu Jabirah bin Adh Dhahhak] ia berkata, "Ayat ini turun kepada kami, bani Salamah: '(dan janganlah kamu panggil memanggil dengan gelar-gelar yang buruk. Seburuk-buruk panggilan adalah (panggilan) yang buruk sesudah iman) ' -Qs. Al Hujurat: 11-. Abu Jabirah berkata, "Saat Rasulullah shallallahu 'alaihi wasallam datang kepada kami, tidak ada seorang pun di antara kami melainkan ia mempunyai dua atau tiga nama. Sehingga Rasulullah shallallahu 'alaihi wasallam memanggil: "Wahai fulan." Orang-orang berkata, "Wahai Rasulullah, jangan! Dia akan marah jika dipanggil dengan nama tersebut." Lalu turunlah ayat ini: (dan janganlah kamu panggil memanggil dengan gelar-gelar yang buruk)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4962</td></tr><tr><td>Arabic No</td><td>4962</td></tr><tr><td>Reference</td><td>Book 43 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4962</td></tr><tr><td>Arabic No</td><td>4962</td></tr><tr><td>Reference</td><td>Book 43 Hadith 190</td></tr></tbody></table></div>
 

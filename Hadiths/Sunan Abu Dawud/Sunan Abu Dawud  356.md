@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Uthaim b. Kulaib reported from his father (Kuthair) on the authority of his gran
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makhlad bin Khalid] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ibnu Juraij] dia berkata; Telah [dikabarkan kepadaku] dari ['Utsaim bin Kulaib] dari [Ayahnya] dari [kakeknya] bahwasanya dia pernah datang kepada Nabi shallallahu 'alaihi wasallam seraya berkata; Saya masuk Islam. Maka Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Buanglah rambut kafirmu". Maksudnya beliau bersabda: "Cukurlah". Dan perawi lain telah mengabarkan kepadaku bahwasanya Nabi shallallahu 'alaihi wasallam bersabda kepada orang lain yang bersamanya: "Cukurlah rambut kafirmu dan berkhitanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>356</td></tr><tr><td>Arabic No</td><td>356</td></tr><tr><td>Reference</td><td>Book 1 Hadith 356</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Усайма ибн Кулайба о том, что его отец рассказывал, что однажды его дед пришел к Пророку ﷺ и сказал: «Я принял Ислам!» И Пророк ﷺ сказал ему: «Сбрось с себя волосы неверия», сказав: «Брейся».(Кулайб) сказал: «А другой сообщил мне о том, что Пророк ﷺ сказал тому, кто был с ним: “Сбрось с себя волосы неверия и сделай себе обрезание”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>356</td></tr><tr><td>Arabic No</td><td>356</td></tr><tr><td>Reference</td><td>Book 1 Hadith 356</td></tr></tbody></table></div>
 

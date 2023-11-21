@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:The Prophet (ﷺ) wrote the (marriage contract) with 'Aisha while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah bin Utbah] Telah menceritakan kepada kami [Sufyan] dari [Hisyam bin Urwah] dari [Urwah] bahwasnya; "Nabi shallallahu 'alaihi wasallam menikahi Aisyah saat ia berumur enam tahun, kemudian beliau hidup bersama dengannya (menggaulinya) saat berumur sembilan tahun. Dan Aisyah hidup bersama Rasulullah shallallahu 'alaihi wasallam juga selama sembilan tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5158</td></tr><tr><td>Arabic No</td><td>5158</td></tr><tr><td>Reference</td><td>Book 67 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва сказал: «Пророк ﷺ посватался к ‘Аише, когда ей было шесть лет, а женился, когда ей было девять, и она прожила с ним девять лет (пока он не умер)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5158</td></tr><tr><td>Arabic No</td><td>5158</td></tr><tr><td>Reference</td><td>Book 67 Hadith 93</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Fatima bint Abi Hubaish came to the Prophet (ﷺ) and said, "O A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] -yakni Ibnu Salam- berkata, telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] berkata, "Fatimah binti Abu Hubaiys datang menemui Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, aku adalah seorang wanita yang keluar darah istihadlah (darah penyakit) hingga aku tidak suci. Apakah aku boleh meninggalkan shalat?" Rasulullah shallallahu 'alaihi wasallam lalu menjawab: "Jangan, sebab itu hanyalah semisal keringat dan bukan darah haid. Jika datang haidmu maka tinggalkan shalat, dan jika telah terhenti maka bersihkanlah sisa darahnya lalu shalat." Hisyam berkata, "Bapakku (Urwah) menyebutkan, "Berwudlulah kamu setiap akan shalat hingga waktu itu tiba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>228</td></tr><tr><td>Arabic No</td><td>228</td></tr><tr><td>Reference</td><td>Book 4 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Фатима бинт Абу Хубайш пришла к Пророку ﷺ и сказала: “О Посланник Аллаха, истечение крови продолжается у меня постоянно, и я никак не могу очиститься, так не прекратить ли мне совершать молитвы?” Посланник Аллаха ﷺ сказал (ей в ответ): “Нет, поскольку это уже венозная кровь, а не менструальная. Прекращай молиться с наступлением (твоего обычного периода месячных), а когда (этот период) закончится, совершай полное омовение и (снова) молись”».\n(Хишам ибн ‘Урва) сказал:\n— Сказал мой отец (‘Урва ибн аз-Зубайр): «(Пророк ﷺ также сказал): “(Кроме того,) совершай омовение перед каждой молитвой, пока не наступит следующий период (месячных)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>228</td></tr><tr><td>Arabic No</td><td>228</td></tr><tr><td>Reference</td><td>Book 4 Hadith 94</td></tr></tbody></table></div>
 

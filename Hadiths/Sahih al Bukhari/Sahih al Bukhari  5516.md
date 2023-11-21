@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Yazid:The Prophet (ﷺ) forbade An-Nuhba and Al-Muthla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] ia berkata; telah mengabarkan kepadaku [Adi bin Tsabit] ia berkata; Aku mendengar [Abdullah bin Yazid] dari Nabi shallallahu 'alaihi wasallam, Bahwasanya beliau melarang dari perbuatan mutilasi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5516</td></tr><tr><td>Arabic No</td><td>5516</td></tr><tr><td>Reference</td><td>Book 72 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Язид, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил грабить и обезображивать трупы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5516</td></tr><tr><td>Arabic No</td><td>5516</td></tr><tr><td>Reference</td><td>Book 72 Hadith 42</td></tr></tbody></table></div>
 

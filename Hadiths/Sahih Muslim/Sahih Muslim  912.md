@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: He who blesses me once, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub], [Qutaibah] dan [Ibnu Hujr] mereka berkata, telah menceritakan kepada kami [Ismail, yaitu Ibnu Ja'far] dari [al-'Ala'] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Barangsiapa bershalawat kepadaku satu kali maka Allah akan bershalawat kepadanya sepuluh kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>912</td></tr><tr><td>Arabic No</td><td>408</td></tr><tr><td>Reference</td><td>Book 4 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Того, кто призовёт на меня благословение один (раз), Аллах благословит десять (раз)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>912</td></tr><tr><td>Arabic No</td><td>408</td></tr><tr><td>Reference</td><td>Book 4 Hadith 74</td></tr></tbody></table></div>
 

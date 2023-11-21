@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Alqamah b. Wa'il b. Hujr al-Hadrami:On the Authority of his father: A 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari], telah menceritakan kepada kami [Al Ahwash] dari [Simak] dari ['Alqamah bin Wail bin Hujr Al Hadhrami], dari [ayahnya], ia berkata; terdapat seorang laki-laki yang datang dari Hadhramaut dan seorang laki-laki dari Kindah kepada Rasulullah shallallahu 'alaihi wasallam, kemudain berkata; wahai Rasulullah, sesungguhnya orang ini telah menguasai tanah yang dahulu adalah milik ayahku. Kemudian orang Kindi tersebut berkata; tanah tersebut adalah tanahku dan ada ditanganku serta aku yang menanamnya, ia tidak memiliki hak pada tanah tersebut. 'Alqamah bin Wail berkata; kemudian Nabi shallallahu 'alaihi wasallam berkata orang Hadhrami; apakah engkau memiliki bukti? Orang Hadhrami berkata; tidak. Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Bagimu sumpahnya." Ia berkata; wahai Rasulullah, ia adalah orang yang suka berbuat dosa, ia tidak peduli apa yang sumpahi. Ia tidak menjaga diri dari sesuatupun. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Engkau hanya memiliki hal tersebut darinya." Kemudian orang tersebut hendak bersumpah, dan tatkala ia telah berpaling Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketahuilah, sesungguhnya apabila ia bersumpah untuk memakan harta secara zhalim niscaya ia akan bertemu dengan Allah 'azza wajalla dalam keadaan berpaling darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (139)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3245</td></tr><tr><td>Arabic No</td><td>3245</td></tr><tr><td>Reference</td><td>Book 22 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Алькама ибн Ваиль ибн Худжр аль-Хадрами передаёт от своего отца: «К Посланнику Аллаха ﷺ пришли два человека один из Хадрамаута, а второй из Кинды. Человек из Хадрамаута сказал: “О Посланник Аллаха! Этот человек отобрал у меня землю, которая принадлежала моему отцу”. Человек из Кинды сказал: “Это моя земля, она в моих руках, и я возделываю её, и он не имеет на неё никаких прав!” Пророк ﷺ сказал человеку из Хадрамаута: “Есть ли у тебя доказательства?” Он ответил: “Нет”. Он сказал: “Тогда он обязан перед тобой поклясться в том, что говорит правду”. Человек из Хадрамаута сказал: “Этот человек нечестив и даёт клятвы, не задумываясь, не проявляя благочестия ни в чём!” Пророк ﷺ сказал: “Ни на что иное у тебя нет права”. И он подошёл, чтобы поклясться. А когда потом он повернулся, чтобы уйти, Посланник Аллаха ﷺ сказал: “Если бы он поклялся, чтобы присвоить имущество, на которое у него нет права, то при встрече с ним Аллах отвернулся бы от него”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (139)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3245</td></tr><tr><td>Arabic No</td><td>3245</td></tr><tr><td>Reference</td><td>Book 22 Hadith 4</td></tr></tbody></table></div>
 

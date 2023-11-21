@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) as saying: If anyone buys a slave who posse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Sufyan], dari [Az Zuhri], dari [Salim], dari [ayahnya], dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang menjual budak dan budak tersebut memiliki harta, maka hartanya adalah milik penjual, kecuali pembeli mensyaratkannya, dan barangsiapa yang menjual pohon kurma yang telah dikawinkan maka buahnya adalah untuk pembeli, kecuali pembeli mensyaratkannya." Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Nafi'] dari [Ibnu Umar] dari [Umar] dari Rasulullah shallallahu 'alaihi wasallam dengan kisah seorang budak, dan dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dengan kisah pohon kurma. Abu Daud berkata; Az Zuhri dan Nafi' berselisih dalam empat hadits. Hadits ini adalah salah satunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2379) Sahih Muslim (1543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3433</td></tr><tr><td>Arabic No</td><td>3433</td></tr><tr><td>Reference</td><td>Book 24 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим передаёт от своего отца, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «При продаже раба, у которого было имущество, его имущество принадлежит продавцу, если только покупатель не поставил условие. А кто продал опылённые пальмы, тому и принадлежит урожай, если только покупатель не поставил соответствующее условие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2379) Sahih Muslim (1543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3433</td></tr><tr><td>Arabic No</td><td>3433</td></tr><tr><td>Reference</td><td>Book 24 Hadith 18</td></tr></tbody></table></div>
 

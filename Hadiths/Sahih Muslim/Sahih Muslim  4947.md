@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Uqba b. Amir who said:I heard the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Abu 'Ali] dari ['Uqbah bin 'Amir] dia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalian akan menaklukkan banyak negeri dan Allah akan menyempurnakan (janji-Nya) kepada kalian, karena itu janganlah kalian bosan berlatih memanah." Dan telah menceritakan kepada kami [Daud bin Rusyaid] telah menceritakan kepada kami [Al Walid] dari [Bakr bin Mudlar] dari [Amru bin Al Harits] dari [Abu Ali Al Hamdani] dia berkata; saya pernah mendengar ['Uqbah bin 'Amir] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4947</td></tr><tr><td>Arabic No</td><td>1918.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4947</td></tr><tr><td>Arabic No</td><td>1918.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 242</td></tr></tbody></table></div>
 

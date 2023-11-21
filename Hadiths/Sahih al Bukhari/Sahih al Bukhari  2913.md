@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:as above (Hadith No. 158). Narrated Jabir bin 'Abdullah: That he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku [Sinan bin Abi Sinan] dan [Abu Salamah] bahwa [Jabir] mengabarkan kepadanya. Dan diriwayatkan pula, telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Ibrahim bin Sa'ad] telah mengabarkan kepada kami [Ibnu Syihab] dari [Sinan bin Abi Sinan Ad-Du'aliy] bahwa [Jabir bin 'Abdullah radliallahu 'anhuma] mengabarkan kepadanya bawa dia pernah berperang bersama Nabi shallallahu 'alaihi wasallam. Kemudian mereka menjumpai sungai di bawah lembah yang banyak pepohonannya. Maka orang-orangpun berpencar mencari tempat berteduh di bawah pohon begitu juga Nabi shallallahu 'alaihi wasallam berteduh di bawah pohon lalu menggantungkan pedang Beliau pada pohon tersebut kemudian Beliau tidur sejenak. Ketika Beliau bangun dari tidur ternyata ada seorang laki-laki di hadapan Beliau dimana Beliau tidak menyadarinya sebelumnya. Kemudian Beliau berkata: "Orang ini telah mengambil pedangku lalu dia berkata: "Siapa yang dapat melindungimu dariku?" Aku jawab: "Allah". Maka orang itu memasukkan kembali pedang ke dalam sarungnya sedangkan di terduduk lemas dan tidak dapat berbuat apa-apa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2913</td></tr><tr><td>Arabic No</td><td>2913</td></tr><tr><td>Reference</td><td>Book 56 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и отцом, что (в своё время) он вместе с Пророком ﷺ участвовал в военном походе. Время полуденного отдыха застало их в какой-то долине, густо поросшей терновником, люди разошлись среди этого терновника в разные стороны, желая укрыться в тени деревьев, и Пророк ﷺ (также) расположился в тени акации, повесив на неё свой меч и уснул. Затем он проснулся и обнаружил рядом с собой человека, присутствия которого он не заметил. Пророк ﷺ сказал: «Этот (человек) вытащил из ножен мой меч и сказал: “Кто защитит тебя (от меня)?” а я ответил (ему): “Аллах!” И он положил меч обратно в ножны, и вот он сидит здесь». И после этого Посланник Аллаха ﷺ не стал наказывать его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2913</td></tr><tr><td>Arabic No</td><td>2913</td></tr><tr><td>Reference</td><td>Book 56 Hadith 126</td></tr></tbody></table></div>
 

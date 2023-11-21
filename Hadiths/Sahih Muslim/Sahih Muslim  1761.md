@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Sirin reported:I asked Ibn 'Umar to tell me about the practice of the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalaf bin Hisyam] dan [Abu Kamil] keduanya berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Anas bin Sirin] ia berkata; Saya bertanya kepada [Ibnu Umar], "Bagaimana menurutmu tentang shalat sunnah sebelum shalat Ghadat (Shubuh), apakah saya memanjangkan bacaannya?" Ibnu Umar menjawab, "Biasanya Rasulullah shallallahu 'alaihi wasallam shalat malam dua raka'at dua raka'at dan witir satu raka'at." Anas bin Sirin berkata; Saya berkata, "Bukan ini yang saya tanyakan padamu." Ibnu Umar berkata, "Kamu ini benar-bernar seorang yang besar tubuhnya, apakah kamu meninggalkanku membacakan hadits bahwasanya; Rasulullah shallallahu 'alaihi wasallam shalat malam dua raka'at dua raka'at dan shalat witir satu raka'at. Kemudian beliau shalat dua raka'at sebelum shalat Ghadat (Shubuh), dan sepertinya adzan telah berdengung di kedua telinganya." Khalaf berkata; "Bagaimana pendapat Anda mengenai dua raka'at sebelum Shubuh?" ia tidak menyebutkan kata Shalat. Dan Telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ibnu Basysyar] keduanya berkata, Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Anas bin Sirin] ia berkata; Saya bertanya kepada [Ibnu Umar] hadits yang semisal. Dan ia menambahkan; "Dan beliau shalat witir satu raka'at di akhir malam." Dan di dalamnya juga terdapat ungkapan; "Bah..bah.., kamu ini benar-benar seorang yang besar tubuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1761</td></tr><tr><td>Arabic No</td><td>749.07</td></tr><tr><td>Reference</td><td>Book 6 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Сирин сказал: «(Однажды) я спросил Ибн ‘Умара: “Скажи, следует ли мне долго читать (Коран), совершая два рак‘ата перед (обязательной) утренней молитвой?” Он сказал: “Обычно ночная молитва Посланника Аллаха ﷺ состояла из парных (рак‘атов, завершив же её), он совершал витр в один рак‘ат…”. Я (перебил его): “Я ведь спрашиваю тебя не об этом”, (на что) он сказал: “Поистине, ты плохо воспитан! Не дашь ли ты мне сказать тебе всё, что я хотел?! Обычно ночная молитва Посланника Аллаха ﷺ состояла из парных (рак‘атов, завершив же её), он совершал витр в один рак‘ат, а перед (обязательной) утренней молитвой он совершал (дополнительную) молитву в два рак‘ата (так быстро), будто уже слышал призыв”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1761</td></tr><tr><td>Arabic No</td><td>749.07</td></tr><tr><td>Reference</td><td>Book 6 Hadith 190</td></tr></tbody></table></div>
 

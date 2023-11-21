@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever Allah's Messenger (ﷺ) went to bed, he used to recite 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah Al Uwaisi] telah menceritakan kepada kami [Sulaiman] dari [Yunus] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah] radliallahu 'anha dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam hendak tidur, maka beliau akan meniupkan ke telapak tangannya sambil membaca QUL HUWALLAHU AHAD (QS Al Ikhlas 1-4) dan Mu'awidzatain (An Nas dan Al Falaq), kemudian beliau mengusapkan ke wajahnya dan seluruh tubuhnya. Aisyah berkata; Ketika beliau sakit, beliau menyuruhku melakukan hal itu." Yunus berkata; aku melihat Ibnu Syihab apabila hendak tidur, ia melakukan hal itu juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5748</td></tr><tr><td>Arabic No</td><td>5748</td></tr><tr><td>Reference</td><td>Book 76 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Посланник Аллаха ﷺ ложился спать, он дул в свои ладони после чтения “Скажи: Он — Аллах Единый…” и му‘аввизатан (суры “аль-Фаляк” и “ан-Нас”), затем протирал ими своё лицо и тело там, куда достигали его руки. А когда он заболевал, он велел мне делать это для него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5748</td></tr><tr><td>Arabic No</td><td>5748</td></tr><tr><td>Reference</td><td>Book 76 Hadith 63</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:That 'Abdullah bin 'Umar told him that he had divorced his wife w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] ia berkata, Telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] ia berkata, Telah mengabarkan kepadaku [Salim] bahwa [Abdullah bin Umar radliallahu 'anhuma] Telah mengabarkan kepadanya; Bahawasanya ia pernah mentalak isterinya dalam keadaan haidl. Maka Umar pun menyampaikan hal itu pada Rasulullah shallallahu 'alaihi wasallam. Maka Rasulullah shallallahu 'alaihi wasallam marah dan bersabda: "Hendaklah ia meruju'nya kembali, lalu menahannya hingga ia suci dan haidl hingga ia suci kembali. Bila ia (Ibnu Umar) mau menceraikannya, maka ia boleh mentalaknya dalam keadaan suci sebelum ia menggaulinya. Itulah Al 'Iddah sebagaimana yang telah diperintahkan Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>4908</td></tr><tr><td>Reference</td><td>Book 65 Hadith 428</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что однажды он дал своей жене развод в период менструации. ‘Умар рассказал об этом Посланнику Аллаха ﷺ. И Посланник Аллаха ﷺ разгневался на него, а потом сказал: «Пусть он вернёт её, затем пусть удержит её до тех пор, пока она не очистится (от этой менструации), потом (пусть подождёт, пока) у неё снова не начнутся месячные, и она снова не очистится. После этого, если ему покажется, что (будет лучше) дать ей развод, то пусть разведёт её в период чистоты (от менструации), не вступая с ней в половую близость: это и есть срок /‘идда/, согласно которому Великий и Могучий Аллах велел разводиться (с женщинами)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>4908</td></tr><tr><td>Reference</td><td>Book 65 Hadith 428</td></tr></tbody></table></div>
 

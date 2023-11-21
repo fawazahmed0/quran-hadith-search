@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "Five kinds of animals are mischief-doer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yazid bin Zurai'] telah bercerita kepada kami [Ma'mar] dari [Az Zuhriy] dari ['Urwah] dari ['Aisyah Radliallahu 'anha] dari Nabi shallallahu 'alaihi wasallam bersabda: "Ada lima jenis hewan fasiq (berbahaya) yang boleh dibunuh ketika sedang ihram, yaitu tikus, kalajengking, burung rajawali, burung gagak dan anjing galak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 59 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, рассказывала, что Пророк ﷺ сказал: «Среди живых существ есть пять видов, каждый из которых приносит вред, и посему их можно убивать на территории аль-харама. Это — мышь, скорпион, коршун, ворон и злобную (кусающую) собаку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 59 Hadith 120</td></tr></tbody></table></div>
 

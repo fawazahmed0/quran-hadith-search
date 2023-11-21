@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Le récit de Maymoûna, femme du Prophète (raa) : Ibn 'Abbâs a dit : "Maymoûn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>733</td></tr><tr><td>Arabic No</td><td>322</td></tr><tr><td>Reference</td><td>Book 3 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Маймуна рассказала о том, что она совершала полное омовение вместе с Пророком ﷺ, (черпая воду) из одного и того же сосуда.Глава: Совершение полного омовения водой, оставшейся после женщины
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>733</td></tr><tr><td>Arabic No</td><td>322</td></tr><tr><td>Reference</td><td>Book 3 Hadith 55</td></tr></tbody></table></div>
 

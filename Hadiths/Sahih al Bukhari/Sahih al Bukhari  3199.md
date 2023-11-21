@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:The Prophet (ﷺ) asked me at sunset, "Do you know where the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim at-Taymiy] dari [bapaknya] dari [Abu Dzar radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam berkata kepada Abu Dzar ketika matahari sedang terbenam: "Tahukah kamu kemana matahari itu pergi?". Aku jawab; "Allah dan Rasul-Nya yang lebih tahu". Beliau berkata: "Sesungguhnya dia akan terus pergi hingga bersujud di bawah al-'Arsy lalu dia minta izin kemudian diizinkan dan dia minta agar terus saja bersujud namun tidak diperkenankan dan minta izin namun tidak diizinkan dan dikatakan kepadanya: "Kembalilah ke tempat asal kamu datang". Maka matahari itu terbit (keluar) dari tempat terbenamnya tadi". Begitulah sebagaimana firman Allah QS Yasin ayat 38 yang artinya: (Dan matahari berjalan pada tempat peredarannya (orbitnya). Demikianlah itu ketetapan Allah Yang Maha Perkasa lagi Maha Mengetahui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3199</td></tr><tr><td>Arabic No</td><td>3199</td></tr><tr><td>Reference</td><td>Book 59 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «(Однажды, когда) солнце уже зашло, Пророк ﷺ спросил Абу Зарра: “Знаешь ли ты, куда оно уходит?” Я сказал: “Аллах и посланник Его знают об этом лучше”. (Тогда Пророк ﷺ) сказал: “Оно движется, пока не склоняется в земном поклоне под престолом (Аллаха), после чего испрашивает позволения (снова взойти) и получает его, но (настанет время, когда) оно будет готово склониться, но принято это от него не будет, и будет оно просить позволения (продолжить свой обычный ход), но не получит его, и ему будет сказано: “Вернись туда, откуда ты пришло!” — и оно взойдёт с запада, и об этом слова Всевышнего: “И солнце бежит к своему местопребыванию: так было определено Всемогущим, Знающим”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3199</td></tr><tr><td>Arabic No</td><td>3199</td></tr><tr><td>Reference</td><td>Book 59 Hadith 10</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated by 'Urwa b Zubair on the authority of 'A'isha, wife of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Zuhair bin Harb] dan [Al Hasan bin Ali Al Khulwani] keduanya berkata; telah menceritakan kepada kami [Ya'qub] -yaitu Ibnu Ibrahim- telah menceritakan kepada kami [ayahku] dari [Shalih] dari [Ibnu Syihab] telah mengabarkan kepadaku ['Urwah bin Zubair] bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam telah mengabarkan kepadanya bahwa Fatimah binti Rasulullah shallallahu 'alaihi wasallam pernah meminta bagian dari harta peninggalan ayahnya kepada [Abu Bakar], setelah wafat Rasulullah shallallahu 'alaihi wasallam. Abu Bakar lalu menjawab, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Harta warisan yang aku tinggalkan tidak dapat diwariskan, tetapi hanya merupakan sedekah." 'Urwah berkata, "Fatimah hidup selama enam bulan setelah wafatnya Rasulullah shallallahu 'alaihi wasallam, dia selalu meminta bagian harta peninggalan Rasulullah shallallahu 'alaihi wasallam kepada Abu Bakar dari rampasan perang yang masih tersisa di daerah Khaibar, yaitu fadak dan di kota Madinah. Namun Abu Bakar tetap menolaknya seraya berkata, "Aku tidak berani merubah sedikitpun apa yang telah ditetapkan Rasulullah shallallahu 'alaihi wasallam, dan aku tetap akan melakukan seperti apa yang telah beliau lakukan. Sungguh, aku khawatir jika aku menyalahi perintahnya, aku akan condong kepada kesesatan." Adapun sedekahnya di Madinah, maka Umar tetap mempertahankannya dari Ali dan Abbas, begitu juga tanah Fadak, dia berkata, "Keduanya adalah sedekah Rasulullah shallallahu 'alaihi wasallam yang harus ditunaikan hak-haknya, yaitu sedekah yang diberikan kepada orang-orang yang membutuhkan. Sedangkan keduanya berjalan seperti itu sampai hari ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4582</td></tr><tr><td>Arabic No</td><td>1759.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4582</td></tr><tr><td>Arabic No</td><td>1759.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 63</td></tr></tbody></table></div>
 

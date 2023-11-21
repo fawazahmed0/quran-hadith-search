@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) I bought a cushion having pictures on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Nafi'] dari [Al Qasim bin Muhammad] dari [Aisyah] radliallahu 'anha isteri Nabi shallallahu 'alaihi wasallam, bahwa dia mengabarkan kepadanya; bahwa dirinya pernah membeli numruqah (bantal yang digunakan untuk duduk) yang ada gambarnya. Nabi shallallahu 'alaihi wasallampun berdiri di depan pintu dan tidak masuk ke dalam rumah. Seolah-olah Aisyah melihat kemarahan di wajah beliau, maka dia bertanya; "Wahai Rasulullah, aku bertaubat kepada Allah dan kepada Rasul-Nya, sebenarnya dosa apa yang telah aku perbuat?" beliau bersabda: "Ada apa dengan bantal ini?" Dia menjawab; "Aku telah membelinya agar anda duduk di atasnya atau anda jadikan sebagai bantal." Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang yang menggambar gambar ini akan disiksa pada hari Kiamat. Dikatakan kepada mereka; 'Hidupkan yang telah kalian buat, ' kemudian beliau bersabda: "Sesungguhnya malaikat tidak akan masuk ke dalam rumah yang ada gambarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5961</td></tr><tr><td>Arabic No</td><td>5961</td></tr><tr><td>Reference</td><td>Book 77 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах, что однажды она купила себе небольшую подушечку /нумрука/, украшенную изображениями. Когда (эту подушечку) увидел Посланник Аллаха ﷺ, он остановился у дверей и не стал входить (в комнату). По его лицу она заметила, что он недоволен, и сказала: «О Посланник Аллаха, я раскаиваюсь перед Аллахом и Его посланником, но в чём моё прегрешение?» Посланник Аллаха ﷺ сказал: «Что это за подушечка?» Она ответила: «Я купила её для тебя, чтобы ты сидел на ней и подкладывал её себе под голову». Тогда Посланник Аллаха ﷺ сказал: «Поистине, создатели этих изображений в День воскресения будут подвергнуты мучениям, и им скажут: “Оживите то, что вы создали!”». \nИ (Пророк ﷺ) также сказал: «Поистине, в тот дом, где есть изображения, ангелы не заходят!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5961</td></tr><tr><td>Arabic No</td><td>5961</td></tr><tr><td>Reference</td><td>Book 77 Hadith 177</td></tr></tbody></table></div>
 

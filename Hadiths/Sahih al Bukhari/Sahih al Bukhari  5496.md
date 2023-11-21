@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Tha'laba Al-Khushani:I came to the Prophet (ﷺ) and said, "O Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ashim] dari [Haiwah bin Syuraih] ia berkata; telah menceritakan kepadaku [Rabi'ah bin Ad Dimasyqi] ia berkata; telah menceritakan kepadaku [Abu Idris Al Khaulani] ia berkata; telah menceritakan kepada kami [Abu Tsa'labah Al Khusya'i] ia berkata, "Aku mendatangi Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, kami berada negeri ahli kitab dan makan dengan bejana mereka. Dan kami juga berada di wilayah yang suka melakukan perburuan, aku lalu berburu dengan tombak dan anjing, baik yang terlatih maupun yang tidak terlatih?" Nabi shallallahu 'alaihi wasallam lalu bersabda: "Sebagaimana yang kamu sebutkan bahwa kamu berada di negeri ahli kitab, maka janganlah kalian makan dengan bejana mereka kecuali ada keharusan. Jika ada keharusan (karena tidak ada yang lain), maka cucilah lalu makan dengannya. Adapun bahwa kamu berada di wilayah yang suka melakukan perburuan, maka apa yang terkena oleh tombakmu, bacakanlah nama Allah lalu makanlah. Dan yang dihasilkan oleh anjingmu yang terlatih, maka sebutlah nama Allah lalu makanlah. Dan hasil buruan yang dihasilkan oleh anjingmu yang tidak terlatih, dan kamu masih sempat menyembelihnya, maka makanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5496</td></tr><tr><td>Arabic No</td><td>5496</td></tr><tr><td>Reference</td><td>Book 72 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ляба аль-Хушани, да будет доволен им Аллах, сказал: «Я пришёл к Посланнику Аллаха ﷺ и спросил: “О Посланник Аллаха ﷺ! Мы живём на земле(, которая подвластна) людям Писания, и мы пользуемся для еды их посудой. В (этой) земле (много) дичи, на которую я охочусь с помощью лука, а также с помощью своей необученной и обученной собаки. Сообщи мне, что же из этого нам дозволено?” (В ответ мне) он сказал: “Что касается твоего упоминания о людях Писания, то, если вы сможете найти что-то другое, не пользуйтесь их посудой, а если не сможете, то мойте их посуду и пользуйтесь ею. Ты (можешь) есть дичь, которую ты добыл с помощью своего лука, произнеся имя Аллаха, и ту дичь, которую ты добыл с помощью своей обученной собаки, произнеся имя Аллаха, и ту дичь, которую ты добыл с помощью своей необученной собаки, если успеешь добраться до неё, прежде чем (животное) испустит дух, и зарезать его, произнеся над ним имя Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5496</td></tr><tr><td>Arabic No</td><td>5496</td></tr><tr><td>Reference</td><td>Book 72 Hadith 22</td></tr></tbody></table></div>
 

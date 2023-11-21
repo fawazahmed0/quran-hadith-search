@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the apostle of Allah (May peace be upon him) as saying; Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Abu Rafi'] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang hamba akan senantiasa dihitung dalam keadaan shalat selama dia berada di tempat shalatnya menuggu shalat, malaikat berdoa, 'Ya Allah, ampunilah dia, ya Allah, rahmatilah dia', hingga dia pergi atau berhadats." Ada yang bertanya, Apa yang membuatnya berhadats? Beliau menjawab: "Dia kentut, mengeluarkan bunyi atau pun tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (649 After 661)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>471</td></tr><tr><td>Arabic No</td><td>471</td></tr><tr><td>Reference</td><td>Book 2 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «Не перестанет раб (Аллаха) находиться на молитве все то время, пока он ожидает (следующую) молитву на месте совершения молитвы, а ангелы говорят: “О Аллах, прости его (грехи), о Аллах, помилуй его”, до тех пор, пока он не покинет (место молитвы) или пока не осквернится». У него спросили: «А что значит осквернение?» Он ответил: «Тихое или громкое испускание кишечных газов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (649 After 661)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>471</td></tr><tr><td>Arabic No</td><td>471</td></tr><tr><td>Reference</td><td>Book 2 Hadith 81</td></tr></tbody></table></div>
 

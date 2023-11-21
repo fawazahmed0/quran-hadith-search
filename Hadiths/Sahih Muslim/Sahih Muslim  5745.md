@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that Allah's Messenger (ﷺ) sent a phystian to Ubayy b. Ka'b. He
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] serta [Abu Kuraib]. Berkata; [Yahya] dan lafazh ini miliknya; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengirim seorang tabib kepada Ubay bin Ka'ab. Kemudian tabib tersebut membedah uratnya dan menyundutnya dengan besi panas.' Dan telah menceritakan kepada kami ['Utsman bin Abu Syaibah]; Telah menceritakan kepada kami [Jarir]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Ishaq bin Manshur]; Telah mengabarkan kepada kami ['Abdur Rahman]; Telah mengabarkan kepada kami [Sufyan] keduanya dari [Al A'masy] melalui jalur ini, namun keduanya tidak menyebutkan; 'kemudian tabib tersebut membedah uratnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5745</td></tr><tr><td>Arabic No</td><td>2207.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5745</td></tr><tr><td>Arabic No</td><td>2207.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 99</td></tr></tbody></table></div>
 

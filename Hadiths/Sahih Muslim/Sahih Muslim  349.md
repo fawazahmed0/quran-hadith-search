@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said to me: they (the people) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abdullah bin ar-Rumi] telah menceritakan kepada kami [an-Nadlar bin Muhammad] telah menceritakan kepada kami [Ikrimah] -yaitu Ibnu Ammar- telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Abu Salamah] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam berkata kepadaku, "Wahai Abu Hurairah, mereka akan senantiasa bertanya kepadamu hingga mereka berkata, 'Ini Allah, lalu siapa yang menciptakan Allah'." Abu Hurairah berkata, "Ketika aku berada di masjid, tiba-tiba orang-orang dari kaum Baduwi mendantangiku seraya bertanya, 'Wahai Abu Hurairah, ini Allah, lalu siapakah yang menciptakan Allah'. Perawi berkata, 'Kemudian Abu Hurairah mengambil kerikil dengan telapan tangannya, lalu melempar mereka sambil berkata, 'Berdirilah, berdirilah, sungguh benar (perkataan) kekasihku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>349</td></tr><tr><td>Arabic No</td><td>135.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 256</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «Посланник Аллаха сказал мне: “(Стремясь к приобретению) знания, люди не перестанут расспрашивать тебя, о Абу Хурайра пока не скажут: “Это Аллах, а кто создал Аллаха?””. И однажды, когда я находился в мечети, ко мне неожиданно подошли люди из числа бедуинов и сказали: “О Абу Хурайра, Аллах создал нас, а кто создал Аллаха?”». (Передатчик этого хадиса) сказал: «Тогда он взял горсть мелких камешков, бросил в них ими и воскликнул: “Уходите, уходите! Правду сказал мой любимейший друг /халиль/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>349</td></tr><tr><td>Arabic No</td><td>135.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 256</td></tr></tbody></table></div>
 

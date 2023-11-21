@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud:When the verses of charity were revealed, we used to work as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Sa'id] telah menceritakan kepada kami [Abu An-Nu'man Al Hakam] dia adalah putra dari 'Abdullah Al Bashriy telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] dari [Abu Wa'il] dari [Abu Mas'ud radliallahu 'anhu] berkata; "Ketika ayat shadaqah turun, kami berlomba-lomba, lalu datanglah seseorang dengan membawa shadaqah yang banyak dan orang-orang berkata, ia orang yang pamer. Kemudian datanglah seseorang lalu ia bershadaqah dengan satu sha'. Orang-orang berkata; "Sesungguhnya Allah lebih kaya daripada satu sha' ini". Maka turunlah aya QS At-Taubah ayat: "Alladziina yalmizuunal muththawwi'iina minal mu'miniina fishshadaqati walladziina laa yajiduuna illa juhdahum". ("Orang-orang (munafik itu) yang mencela orang-orang beriman yang memberi sedekah dengan sukarela dan (mencela) orang-orang yang tidak memperoleh (untuk disedekahkan) selain sekedar kesanggupannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1415</td></tr><tr><td>Arabic No</td><td>1415</td></tr><tr><td>Reference</td><td>Book 24 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд, да будет доволен им Аллах, рассказывал: «Когда были ниспосланы аяты милостыни (садака), мы стали работать носильщиками (чтобы раздавать милостыню из заработанного). И однажды пришел человек и раздал много милостыни. Тогда люди сказали: “Он занимается показухой”. Пришел другой человек и дал са‘ (четыре пригоршни), тогда они сказали: “Аллах не нуждается в его са‘”. И тогда было ниспослано: “Те, которые высмеивают делающих добровольные пожертвования из числа верующих за милостыни и тех, кто с трудом находит средства для пожертвования” (сура “ат-Тауба”, аят 79)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1415</td></tr><tr><td>Arabic No</td><td>1415</td></tr><tr><td>Reference</td><td>Book 24 Hadith 19</td></tr></tbody></table></div>
 

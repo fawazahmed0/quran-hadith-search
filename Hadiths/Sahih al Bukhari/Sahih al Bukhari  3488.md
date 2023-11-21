@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Musaiyab:When Muawiya bin Abu Sufyan came to Medina for th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3488</td></tr><tr><td>Arabic No</td><td>3488</td></tr><tr><td>Reference</td><td>Book 60 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са’ид ибн Мусаййиб сказал: «Когда Му’авия прибыл в Медину, он обратился к нам с проповедью, вытащил прядь волос и сказал: “Я не думал, что хоть кто-то, кроме иудеев, делает подобное. И поистине Пророк ﷺ назвал это дело (т.е. наращивание волос) обманом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3488</td></tr><tr><td>Arabic No</td><td>3488</td></tr><tr><td>Reference</td><td>Book 60 Hadith 154</td></tr></tbody></table></div>
 

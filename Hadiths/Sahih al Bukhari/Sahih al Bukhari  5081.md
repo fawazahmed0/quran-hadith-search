@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:The Prophet (ﷺ) asked Abu Bakr for 'Aisha's hand in marriage. A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah menceritakan kepada kami [Al Laits] dari [Yazid] dari [Irak] dari [Urwah] bahwa Nabi shallallahu 'alaihi wasallam mengkhithbah (meminang) Aisyah kepada Abu Bakar. Maka Abu Bakar pun berkata pada beliau, "Sesungguhnya saya adalah saudara Anda." Beliau bersabda: "Yang kumaksudkan kamu adalah saudaraku di dalam Dinullah dan Kitab-Nya, maka Aisyah adalah halal bagiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5081</td></tr><tr><td>Arabic No</td><td>5081</td></tr><tr><td>Reference</td><td>Book 67 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Урвы, да помилует его Аллах Всевышний, что, когда Пророк ﷺ попросил у Абу Бакра руки ‘Аиши, Абу Бакр сказал ему: «Но я ведь твой брат!» (На это Пророк ﷺ) сказал: «Ты — мой брат по религии Аллаха и Его Книге(, что же касается ‘Аиши, то женитьба на) ней мне дозволена»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5081</td></tr><tr><td>Arabic No</td><td>5081</td></tr><tr><td>Reference</td><td>Book 67 Hadith 19</td></tr></tbody></table></div>
 

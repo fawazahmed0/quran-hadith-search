@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:While we were offering the prayer with the Prophet (ﷺ) a carava
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Tholq bin Ghonnam] telah menceritakan kepada kami [Za'idah] dari [Hushain] dari [Salim] berkata, telah menceritakan kepada saya [Jabir radliallahu 'anhu] berkata: "Ketika kami sedang shalat bersama Nabi shallallahu 'alaihi wasallam, tiba-tiba datang rombongan dagang dari negeri Syam yang membawa makanan. Maka orang-orang melirik (dan berhamburan pergi) mendatangi rambongan tersebut, hingga tidak ada orang yang tersisa bersama Nabi shallallahu 'alaihi wasallam kecuali hanya dua belas orang. Maka turunlah ayat ini (QS. Al Jumu'ah ayat 12) yang artinya.: ("Dan apabila mereka melihat perdagangan atau permainan, maka mereka bubar untuk menuju kepadanya dan mereka meninggalkan kamu ketika kamu sedang berdiri menyampaikan berkhuthbah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2058</td></tr><tr><td>Arabic No</td><td>2058</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(Однажды,) когда мы совершали молитву вместе с Пророком ﷺ, из Шама прибыл караван верблюдов со съестными припасами. (Почти все люди) повернулись в его сторону (и покинули мечеть), а с Пророком ﷺ осталось только двенадцать человек, и тогда был ниспослано: “Когда же они увидели торговлю или забаву, они разошлись, бросившись к ней” (сура “аль-Джуму‘а”, аят 11)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2058</td></tr><tr><td>Arabic No</td><td>2058</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
 

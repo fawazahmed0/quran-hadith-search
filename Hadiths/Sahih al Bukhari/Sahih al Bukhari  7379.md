@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "The keys of the unseen are five and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepada kami [Sulaiman bin Bilal] telah menceritakan kepadaku [Abdullah bin Dinar] dari [Ibn Umar] radliyallahu'anhuma dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Kunci keghaiban ada lima; tidak mengetahuinya selain Allah, tidak ada yang mengetahui kandungan yang mengempes (gugur, berkurang) selain Allah, tidak ada yang mengetahui apa yang terjadi esok hari selain Allah, tidak ada yang mengetahui kapan hujan datang selain Allah, dan tidak ada siapapun manusia yang tahu di bumi mana berada akan meninggal selain Allah, dan tidak ada yang mengetahui kapan kiamat terjadi selain Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7379</td></tr><tr><td>Arabic No</td><td>7379</td></tr><tr><td>Reference</td><td>Book 97 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «Ключей к сокровенному пять, и не знает их никто, кроме Аллаха: никто не знает, насколько сжимается каждая утроба, кроме Аллаха; никто не знает, что будет завтра, кроме Аллаха; никто не знает, когда пойдёт дождь, кроме Аллаха. Ни одна душа не знает, в какой земле она умрёт, кроме Аллаха; никто не знает, когда наступит Час, кроме Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7379</td></tr><tr><td>Arabic No</td><td>7379</td></tr><tr><td>Reference</td><td>Book 97 Hadith 9</td></tr></tbody></table></div>
 

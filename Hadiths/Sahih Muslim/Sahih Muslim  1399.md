@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported:This is what Abu Huraira narrated to us from the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibn Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; inilah yang diceritakan kepada kami oleh [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, -lalu Abu Hurairah menyebutkan beberapa hadis diantaranya- Rasulullah shallallahu 'alaihi wasallam bersabda: "Tangguhkankanlah shalat sampai suhu agak dingin, sebab panas yang menyengat berasal dari uap neraka jahannam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1399</td></tr><tr><td>Arabic No</td><td>615.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 233</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Откладывайте молитву во время (сильной) жары на более прохладное время, ибо, поистине, сильная жара от дыхания Ада»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1399</td></tr><tr><td>Arabic No</td><td>615.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 233</td></tr></tbody></table></div>
 

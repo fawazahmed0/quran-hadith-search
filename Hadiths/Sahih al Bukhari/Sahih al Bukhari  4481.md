@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:'Umar said, "Our best Qur'an reciter is Ubai and our best ju
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ali] Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Sufyan] dari [Habib] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] dia berkata; ['Umar radliallahu 'anhu] berkata; "Ubay adalah orang yang paling pandai dalam membaca Al Qur'an di antara kami, dan Ali adalah orang yang paling paham dengan hukum di antara kami. Sementara kami banyak meninggalkan qira'ah Ubay (dalam membaca Al Qur'an). Karena [Ubay] pernah berkata, "Aku tidak akan meninggalkan sesuatu yang telah aku dengar dari Rasulullah. Sementara Allah Tabaraka Wa Ta'ala berfirman: '(Ayat mana saja yang kami nasakhkan, atau kami jadikan (manusia) lupa kepadanya, kami datangkan yang lebih baik daripadanya atau yang sebanding dengannya) ' (QS. Al Baqarah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4481</td></tr><tr><td>Arabic No</td><td>4481</td></tr><tr><td>Reference</td><td>Book 65 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что ‘Умар, да будет доволен им Аллах, сказал: «Лучшим чтецом (Корана) среди нас является Убайй (бин Ка‘б), а лучшим судьёй — ‘Али (бин Абу Талиб), но тем не менее мы оставляем (без внимания некоторые) слова Убаййа, поскольку Убайй говорит: “Я не оставляю ничего из того, что слышал от Посланника Аллаха ﷺ”, а Аллах Всевышний сказал: “(Если) Мы отменяем или заставляем забыть какой-нибудь аят…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4481</td></tr><tr><td>Arabic No</td><td>4481</td></tr><tr><td>Reference</td><td>Book 65 Hadith 8</td></tr></tbody></table></div>
 

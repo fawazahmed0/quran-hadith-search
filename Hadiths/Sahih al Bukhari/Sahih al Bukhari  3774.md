@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:When Allah's Messenger (ﷺ) was in his fatal illness, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Ubaid bin Isma'il] telah bercerita kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam ketika menderita sakit, beliau bergilir tinggal di rumah istri-istri beliau dan berkata; "Besok aku tinggal dimana, besok aku tinggal dimana" (menunjukkan kegelisahan beliau) karena sangat ingin tinggal di rumah 'Aisyah radliallahu 'anha". ['Aisyah radliallahu 'anha] berkata; "Ketika giliran hariku, beliau menjadi tenang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3774</td></tr><tr><td>Arabic No</td><td>3774</td></tr><tr><td>Reference</td><td>Book 62 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хишам передал со слов своего отца, что когда, во время своей болезни Посланник Аллаха ﷺ обходил своих жён, он всё время спрашивал: «Где я буду завтра? Где я буду завтра?» — стремясь по скорее оказаться в доме ‘Аиши. ‘Аиша сказала: «А когда настал мой день, он умер»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3774</td></tr><tr><td>Arabic No</td><td>3774</td></tr><tr><td>Reference</td><td>Book 62 Hadith 119</td></tr></tbody></table></div>
 

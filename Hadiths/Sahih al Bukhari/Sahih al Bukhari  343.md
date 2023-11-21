@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ammar:The Prophet (ﷺ) stroked the earth with his hands and then pass
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] ia berkata; telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Dzarr] dari [Ibnu 'Abdurrahman bin Abza] dari [Bapaknya] ia berkata, " [Ammar] berkata, "Nabi shallallahu 'alaihi wasallam memukulkan telapak tangannya ke tanah lalu mengusapkan pada muka dan kedua telapak tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 7 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Абду-р-Рахман ибн Абза передал со слов своего отца (‘Абду-р-Рахмана) о том, что он сказал: «‘Аммар сказал: “И Пророк ﷺ (легко) ударил ладонью о землю и протёр себе лицо и кисти рук”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 7 Hadith 10</td></tr></tbody></table></div>
 

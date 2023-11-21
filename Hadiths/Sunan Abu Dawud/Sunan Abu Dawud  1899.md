@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr b. Shu'aib reported on the authority of his father:I went round the Ka'bah a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Isa bin Yunus], telah menceritakan kepada Kami [Al Mutsanna bin Ash Shabah] dar ['Amr bin Syu'aib] dari [ayahnya], ia berkata; aku melaksanakan thawaf bersama [Abdullah], ketika sampai dibelakang Ka'bah aku berkata: apakah kamu tidak meminta perlindungan? Dia berkata; Kami berlindung kepada Allah dari Neraka. kemudian dia pergi hingga mengusap hajar aswad dan berdiri diantara rukun dan pintu Ka'bah lalu dia meletakkan dadanya, wajahnya, lengan dan telapak tangannya dengan membentangkannya demikian, kemudian berkata; beginilah aku melihat Rasulullah shallla Allahu 'alaihi wa sallam melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1899</td></tr><tr><td>Arabic No</td><td>1899</td></tr><tr><td>Reference</td><td>Book 11 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца: «Я совершал таваф вместе с ‘Абдуллахом и, когда мы зашли за Каабу, я спросил: “Может, попросишь у Аллаха защиты?” Он сказал: “Прошу у Аллаха защиты от Огня”. Затем он подошёл и коснулся камня, а потом остановился между углом и дверью, прижавшись к Каабе грудью, лицом, предплечьями и ладонями, а затем сказал: “Я видел, как Посланник Аллаха ﷺ поступал так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1899</td></tr><tr><td>Arabic No</td><td>1899</td></tr><tr><td>Reference</td><td>Book 11 Hadith 179</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al-'As:I heard the Prophet (ﷺ) saying, "Whoeve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yazid] telah menceritakan kepada kami [Sa'id, dia adalah anak dari Abu Ayyub] berkata, telah menceritakan kepadaku [Abu Al Aswad] dari ['Ikrimah] dari ['Abdullah bin 'Amru radliallahu 'anhuma] berkata, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang terbunuh karena membela hartanya maka dia syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2480</td></tr><tr><td>Arabic No</td><td>2480</td></tr><tr><td>Reference</td><td>Book 46 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Амр, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Пророк ﷺ сказал: “Любой погибший при защите своего имущества (становится) шахидом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2480</td></tr><tr><td>Arabic No</td><td>2480</td></tr><tr><td>Reference</td><td>Book 46 Hadith 41</td></tr></tbody></table></div>
 

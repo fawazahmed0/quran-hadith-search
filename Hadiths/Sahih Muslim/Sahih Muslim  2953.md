@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) reported that when Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Yahya bin Adam] Telah menceritakan kepada kami [Sufyan] dari [Ja'far bin Muhammad] dari [bapaknya] dari [Jabir bin Abdullah] radliallahu 'anhuma, bahwa ketika Rasulullah shallallahu 'alaihi wasallam sampai di Makkah, beliau mendatangi hajar Aswad dan menciumnya, kemudian beliau berjalan ke sebelah kanannya. Beliau berlari-lari kecil tiga kali, dan berjalan biasa empat kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2953</td></tr><tr><td>Arabic No</td><td>1218.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2953</td></tr><tr><td>Arabic No</td><td>1218.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 162</td></tr></tbody></table></div>
 

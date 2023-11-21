@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrates 'Abdullah bin Shaddad:Maimuna said, "Allah's Messenger (ﷺ) was prayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dari [Khalid] berkata, telah menceritakan kepada kami [Sulaiman Asy Syaibani] dari ['Abdullah bin Syidad] dari [Maimunah] ia berkata, "Pernah Rasulullah shallallahu 'alaihi wasallam shalat sementara aku berada di sampingnya, dan saat itu aku sedang haid. Dan setiapkali beliau sujud, pakaian beliau mengenai aku. Dan beliau shalat di atas tikar kecil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>379</td></tr><tr><td>Arabic No</td><td>379</td></tr><tr><td>Reference</td><td>Book 8 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абдуллах ибн Шаддада от Маймуна (, что она) рассказывала: «Посланник Аллаха ﷺ совершал молитву рядом с тем местом, где сидела я, когда у меня были месячные, и быть может, что во время совершения земных поклонов (края) его одежды касались меня. Он же обычно молился на своей подстилке /хумра/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>379</td></tr><tr><td>Arabic No</td><td>379</td></tr><tr><td>Reference</td><td>Book 8 Hadith 31</td></tr></tbody></table></div>
 

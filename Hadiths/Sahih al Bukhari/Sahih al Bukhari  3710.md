@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Whenever there was drought, 'Umar bin Al-Khattab used to ask Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Hasan bin Muhammad] telah bercerita kepada kami [Muhammad bin 'Abdullah Al Anshariy] telah bercerita kepadaku [bapakku, 'Abdullah bin Al Mutsannaa] dari [Tsumamah bin 'Abdullah bin Anas] dari [Anas radliallahu 'anhu] bahwa 'Umar bin Al Khaththab ketika mereka ditimpa musibah kekeringan dia meminta hujan dengan berwasilah kepada 'Abbas bin 'Abdul Muththalib seraya berdo'a; "ALLOOHUMMA INNAA KUNNA NATAWASSALU ILAIKA BIN ABIYYINAA MUHAMMAD SHALLALLAHU'ALAIHIWASALLAM FATASQIINAA WA-INNAA NATAWASSALU ILAIKA BI'AMMI NABIYYINAA FASQINAA" Ya Allah, kami dahulu pernah meminta hujan kepada-Mu dengan perantaraan Nabi kami kemudian Engkau menurunkan hujan kepada kami. Maka sekarang kami memohon kepada-Mu dengan perantaraan paman Nabi kami, maka turunkanlah hujan untuk kami". Anas berkata; "Kemudian turunlah hujan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3710</td></tr><tr><td>Arabic No</td><td>3710</td></tr><tr><td>Reference</td><td>Book 62 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, да будет доволен им Аллах, что когда (мусульман) поражала засуха, ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, просил аль-‘Аббаса ибн ‘Абдульмутталиба обратиться к Аллаху с мольбой о ниспослании дождя, и он говорил: «О Аллах, мы искали близости к Тебе посредством нашего Пророка ﷺ, и Ты ниспосылал дождь. Теперь же мы ищем близости к Тебе посредством дяди нашего Пророка, так пошли же нам дождь!» — и дождь действительно ниспосылался им
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3710</td></tr><tr><td>Arabic No</td><td>3710</td></tr><tr><td>Reference</td><td>Book 62 Hadith 60</td></tr></tbody></table></div>
 

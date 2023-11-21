@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu 'Ali al-Hamdani: We were with Fudalah b. 'Ubaid at Rudis in the lan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Amru bin As Sarh] Telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku ['Amr Al Harits] bahwa [Abu Ali Al Hamdani] telah menceritakan kepadanya, ia berkata; kami pernah bersama [Fudhalah bin 'Ubaid] di Rudis yang merupakan bagian dari negeri Romawi, kemudian seorang sahabat kami meninggal. Kemudian Fadhalah memerintahkan agar mengkuburkannya dan diratakan kuburan tersebut. Kemudian ia berkata; aku telah mendengar Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk meratakannya. Abu Daud berkata; Rudis adalah sebuah teluk di laut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (969)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3219</td></tr><tr><td>Arabic No</td><td>3219</td></tr><tr><td>Reference</td><td>Book 21 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу ‘Али аль-Хамдани передаёт: «Мы были вместе с Фадалей ибн ‘Убайдом на Родосе, на византийской земле, и наш товарищ умер. Фадаля велел сровнять его могилу с землёй, что и было сделано, а потом сказал: “Я слышал, как Посланник Аллаха ﷺ велел сравнивать могилы с землёй”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (969)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3219</td></tr><tr><td>Arabic No</td><td>3219</td></tr><tr><td>Reference</td><td>Book 21 Hadith 131</td></tr></tbody></table></div>
 

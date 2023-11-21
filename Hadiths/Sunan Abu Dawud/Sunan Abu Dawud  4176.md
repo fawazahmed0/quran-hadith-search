@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ammar ibn Yasir: I came to my family at night (after a journey) with my
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah mengabarkan kepada kami [Atha Al Khurasani] dari [Yahya bin Ya'mar] dari [Ammar bin Yasir] ia berkata, "Aku kembali ke rumah di waktu yang sudah malam, dan tanganku terlihat pecah-pecah hingga mereka melumuri aku dengan Za'faran (yang berwarna kuning). Aku lalu mendatangi Nabi shallallahu 'alaihi wasallam di waktu pagi, aku mengucapkan salam namun beliau tidak menjawab salam atau menyambutku. Bahkan beliau bersabda: "Pergi dan bersihkanlah ini darimu." Aku lantas pergi dan membersihkan Za'faran tersebut. Kemudian aku mendatangi beliau meskipun masih ada sisa-sisa Za'faran. Aku mengucapkan salam namun beliau tidak menjawab atau menyambutku. Beliau bersabda: "Bersihkan ini darimu." Aku lalu pergi dan membersihkannya. Kemudian aku datang dan mengucapkan salam kepadanya, lalu beliau menjawab atau menyambutku. Beliau lantas bersabda: "Sesungguhnya malaikat tidak akan datang menghadiri jenazah orang kafir dengan kebaikan, dan pula orang yang melumuri dirinya dengan Za'faran dan orang yang junub." Ammar berkata, "Beliau memberi keringanan kepada orang yang junub jika ingin tidur, atau makan, atau minum cukup dengan berwudhu." Telah menceritakan kepada kami [Nashr bin Ali] berkata, telah menceritakan kepada kami [Muhammad bin Bakr] berkata, telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Umar bin Atha bin Abu Al Khuwar] Bahwasanya ia mendengar [Yahya bin Ya'mar] mengabarkan dari [seorang laki-laki] ia mengabarkan kepadanya dari [Ammar bin Yasir] berkata -Umar berkeyakinan bahwa Yahya menyebut nama laki-laki itu, namun Umar lupa namanya-, "Aku memakai wewangian…sama seperti hadits ini. namun yang pertama lebih lengkap dan sempurna, sebab disebutkan tentang mandi di dalamnya." Ia berkata, "Aku bertanya kepada Umar, "Apakah mereka sedang ihram?" Umar berkata, "Tidak, mereka sedang menetap di rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4176</td></tr><tr><td>Arabic No</td><td>4176</td></tr><tr><td>Reference</td><td>Book 35 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аммар ибн Ясир , да будет доволен Аллах им и его отцом, передаёт: «Я вернулся к своей семье из путешествия ночью, а кожа на моих руках потрескалась, и члены моей семьи покрыли мне руки шафраном. Я пришёл к Пророку ﷺ в таком виде. Я поприветствовал его, но он не ответил на моё приветствие и не выказал радушия, а только сказал: “Пойди и смой с себя это”. Я пошёл и вымыл руки, однако следы всё же остались. Я поприветствовал (Посланника Аллаха ﷺ), но он не ответил на моё приветствие и не выказал радушия, а только сказал: “Пойди и смой с себя это”. Я снова пошёл и вымыл руки, после чего вернулся (к Посланнику Аллаха ﷺ) и поприветствовал его. На этот раз он ответил мне и выказал радушие и сказал: “Поистине, ангелы не приходят с благом на похороны неверующего, и они не приходят к наносящему на тело шафран и находящемуся в состоянии большого осквернения”. Однако он разрешил осквернившемуся, который собрался поспать, поесть или попить, совершить малое омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4176</td></tr><tr><td>Arabic No</td><td>4176</td></tr><tr><td>Reference</td><td>Book 35 Hadith 18</td></tr></tbody></table></div>
 

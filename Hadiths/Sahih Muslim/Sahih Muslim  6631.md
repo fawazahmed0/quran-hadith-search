@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that he heard Allah's Messenger (ﷺ) as saying:The worst a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Rumh]; Telah mengabarkan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari ['Irak bin Malik] dari [Abu Hurairah] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sejelek-jelek manusia adalah orang yang bermuka dua, dia datang kesini dengan satu sikap dan bila datang ke yang lain dengan sikap yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6631</td></tr><tr><td>Arabic No</td><td>2526.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6631</td></tr><tr><td>Arabic No</td><td>2526.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 128</td></tr></tbody></table></div>
 

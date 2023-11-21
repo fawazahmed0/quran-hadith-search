@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Adi Bin Hatim:I asked Allah's Messenger (ﷺ), "We hunt with these houn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] berkata, telah mengabarkan kepadaku [Ibnu Fudlail] dari [Bayan] dari [Amir] dari [Adi bin Hatim] radliallahu 'anhu, ia berkata, "Aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam, kukatakan, "Kami adalah suatu kaum yang biasa berburu dengan anjing-anjing ini?" Beliau lalu menjawab: "Jika kamu lepas anjingmu yang telah terlatih dengan menyebut nama Allah, maka makanlah apa yang telah ia tangkap untukmu. Kecuali jika anjing tersebut memakannya, maka jangan kamu makan. Sebab aku kawatir jika anjing itu menangkap untuk dirinya sendiri, dan jika ada anjing lain bersamanya, maka jangan kamu makan juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5487</td></tr><tr><td>Arabic No</td><td>5487</td></tr><tr><td>Reference</td><td>Book 72 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим, да будет доволен им Аллах, сказал: «Я сказал Посланнику Аллаха ﷺ: “Мы охотимся с помощью этих (обученных) собак”. Он сказал: “Если ты посылаешь своих обученных собак за дичью, поминая над ними имя Аллаха, то ты можешь есть мясо дичи, которую они схватят для тебя, даже если при этом они убьют её, за исключением того случая, когда собака съела что-то из этой дичи. Если же собака ела, то не ешь, потому что я опасаюсь, что собака могла схватить эту дичь для себя. А если с твоими собаками была другая собака, то не ешь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5487</td></tr><tr><td>Arabic No</td><td>5487</td></tr><tr><td>Reference</td><td>Book 72 Hadith 13</td></tr></tbody></table></div>
 

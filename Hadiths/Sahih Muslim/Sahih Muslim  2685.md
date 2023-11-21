@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salama (que Dieu l'agrée) a dit : "Quand ce verset Mais pour ceux qui ne pourra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Bakr bin Manshur] dari [Amru bin Harits] dari [Bukair] dari [Yazid] Maula Salamah, dari [Salamah bin Al Akwa'] ia berkata; Ketika turun ayat; "…dan wajib bagi orang-orang yang berat menjalankannya (jika mereka tidak berpuasa) membayar fidyah, (yaitu): memberi makan seorang miskin…". (QS. Albaqarah 184), banyak orang yang menginginkan untuk tetap makan (tidak berpuasa) dan hanya membayar fidyah, sampai turun ayat setelahnya dan iapun saya me-nasakh-nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>1145.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Саляма ибн аль-Аква‘, да будет доволен им Аллах, сказал: «После того как был ниспослан аят, (в котором сказано) “Тем же, кто может(поститься, но с трудом), во искупление (следует) накормить (одного) неимущего” (аль-Бакъара, 2:184), (каждый), кто не хотел соблюдать пост и(намеревался) иску­пить (это, так и делал, что продолжалось) до тех пор, пока небыл нис­послан (следующий) аят, который отменил (это установление)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>1145.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 191</td></tr></tbody></table></div>
 

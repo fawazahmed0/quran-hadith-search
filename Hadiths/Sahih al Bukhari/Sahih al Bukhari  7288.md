@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Leave me as I leave you, for the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7288</td></tr><tr><td>Arabic No</td><td>7288</td></tr><tr><td>Reference</td><td>Book 96 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Оставьте меня в покое до тех пор, пока я оставляю в покое вас. Поистине, живших до вас погубило множество вопросов, которые они задавали своим пророкам, и их разногласия с ними. И избегайте того, что я запретил вам, а из того, что я вам повелел, делайте, что сможете»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7288</td></tr><tr><td>Arabic No</td><td>7288</td></tr><tr><td>Reference</td><td>Book 96 Hadith 19</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:On the Day of Nahr (10th of Dhul-Hijja, in the year prior t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] berkata, telah menceritakan kepada kami [Ya'qub bin Ibrahim] berkata, telah menceritakan kepada kami [anak saudara Ibnu Syihab] dari [Pamannya] berkata, telah mengabarkan kepadaku [Humaid bin 'Abdurrahman bin 'Auf] bahwa [Abu Hurairah] berkata, "Pada hari Nahr (Idul Adlha) Abu Bakar mengutusku kepada para pemberi pengumuman saat pelaksanaan haji, di Mina kami umumkan bahwa orang Musyrik tidak boleh berhaji setelah tahun ini dan tidak boleh thawaf dengan keadaan telanjang." Humaid bin 'Abdurrahman berkata, "Kemudian Rasulullah shallallahu 'alaihi wasallam membonceng Ali pada tunggangannya dan memerintahkannya untuk mengumumkan surat Al Bara'ah (At-Taubah)." Abu Hurairah berkata, "'Ali lalu mengumumkan bersama kami pada penduduk Mina di hari Nahar, bahwa orang Musyrik tidak boleh berhaji setelah tahun ini dan tidak boleh thawaf dengan keadaan telanjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>369</td></tr><tr><td>Arabic No</td><td>369</td></tr><tr><td>Reference</td><td>Book 8 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хумайда ибн ‘Абду-р-Рахмана ибн ‘Ауфа о том, что Абу Хурайра, да будет доволен им Аллах, сказал: «Во время того хаджжа в день жертвоприношения Абу Бакр послал меня в числе других муаззинов, чтобы мы возвестили (людям) о том, что, начиная со следующего года, ни один многобожник не совершит хаджж и ни один обнажённый не совершит обход Каабы».\nХумайд ибн ‘Абд ар-Рахман сказал: «А потом Посланник Аллаха ﷺ направил (к Абу Бакру) ‘Али и велел ему возвестить о ниспослании суры “Бараъат” (т.е. сура “ат-Тауба”)».\nАбу Хурайра сказал: «И в день жертвоприношения ‘Али вместе с нами стал возвещать собравшимся в Мине людям: “Начиная со следующего года, ни один многобожник не совершит хаджж и ни один обнажённый не совершит обход Каабы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>369</td></tr><tr><td>Arabic No</td><td>369</td></tr><tr><td>Reference</td><td>Book 8 Hadith 21</td></tr></tbody></table></div>
 

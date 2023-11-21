@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibrahim:'Alqama went to Sham and when he entered the mosque, he said, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Syu'bah] dari [Al Mughirah] dari [Ibrahim] berkata; ['Alqamah] berkunjung ke negeri Syam lalu dia memasuki masjid kemudian berdo'a; "ALLOOHUMMA YASSIR LII JALIISAN SHAALIHAN "Ya Allah, mudahkanlah aku untuk mendapat kawan yang shalih". Kemudian dia bermajelis bersama [Abu ad-Darda'] radliallahu 'anhu. Maka Abu Darda' bertanya; "Kamu berasal dari mana?". Dia menjawab; "Dari Kufah". Abu ad-Darda' berkata; "Bukankah bersama kalian atau di antara kalian disana ada orang yang mengetahui detail kehidupan Nabi shallallahu 'alaihi wasallam yang tidak ada orang lain yang mengetahuinya kecuali dia, yaitu Hudzaifah radliallahu 'anhu?". 'Alqamah berkata; Aku jawab; "Benar". Abu ad-Darda' bertanya lagi; "Bukankah bersama kalian atau di antara kalian disana juga ada orang yang telah Allah jauhkan dari setan yakni melalui lisan Nabi-Nya shallallahu 'alaihi wasallam, yaitu 'Ammar bin Yasir radliallahu 'anhu?". Aku jawab; "Benar". Abu ad-Darda'bertanya lagi; "Bukankah bersama kalian atau di antara kalian disana ada orang yang dikenal sebagai pemilik siwak, selembar tikar atau kasur?". Aku jawab; "Benar". Abu ad-Darda' bertanya lagi; "Bagaimana 'Abdullah (bin Mas'ud) membaca firman Allah: ("Wal laili idzaa yaghsyaa")?. Maka aku bacakan kepadanya; ('Wal laili idzaa yaghsyaa, wan nahaari idzaa tajallaa?". Aku jawab; ia membaca "wadz dzkari wal untsaa" (dengan harakat kasrah pada huruf ro, addzakari, bukan Adzdzakaro). Abu ad-Darda' berkata; "Ayat-ayat itu senantiasa aku hafal hingga hampir saja mereka memalingkan aku dari sesuatu yang pernah aku dengar dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3743</td></tr><tr><td>Arabic No</td><td>3743</td></tr><tr><td>Reference</td><td>Book 62 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькама, да помилует его Аллах Всевышний, сказал:\n— Прибыв в Шам, я совершил (в мечети) молитву в два рак‘ата, а потом сказал: «О Аллах, помоги мне (найти) праведного собеседника!» После этого я подошёл к каким-то людям и подсел к ним, а затем пришёл какой-то старец и сел рядом со мной. Я спросил: «Кто это?» (Мне) ответили: «Абу-д-Дарда». Тогда я сказал (ему): «Поистине, я молил Аллаха о том, чтобы Он помог мне (найти) праведного собеседника, и Он помог мне найти тебя!» Абу-д-Дарда, да будет доволен им Аллах, спросил: «Откуда ты?» Я сказал: «Из Куфы». Он спросил: «Так разве нет среди вас доверенного лица (Пророка ﷺ), которому известно то, чего никто больше не знает?» — имея в виду Хузейфу. Я сказал: «Есть». (Потом) он спросил: «А разве нет среди вас того, кого Аллах защитил (от шайтана) по просьбе Своего Пророка ﷺ?» — имея в виду ‘Аммара. Я сказал: «Есть». (Потом) он спросил: «А разве нет среди вас того, кто носил (за Пророком ﷺ) зубочистку (или: был его доверенным лицом)?» Я сказал: «Есть». (После этого Абу-д-Дарда) спросил: «Как ‘Абдуллах (бин Мас‘уд) читает (суру, в которой сказано): “Клянусь ночью, когда она (всё) покрывает (мраком), клянусь днём, когда предстаёт он в полном блеске...”?» Я ответил: «(Он читает): “Клянусь мужчиной и женщиной...”» (Тогда Абу-д-Дарда) воскликнул: «Эти (люди) не оставляют попыток увести меня от того, что я слышал от Посланника Аллаха ﷺ!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3743</td></tr><tr><td>Arabic No</td><td>3743</td></tr><tr><td>Reference</td><td>Book 62 Hadith 88</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Mulaika:When there happened the disagreement between Ibn Az-Zub
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] Telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Ibnu Juraij] dari [Ibnu Abu Mulaikah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwasanya dia berkata ketika terjadi perselisihan antara dia dengan Ibnu Jubair. Aku berkata; Bapaknya adalah Az Zubair, Ibunya adalah Asma' bibinya adalah Aisyah, kakeknya adalah Abu Bakr, sedangkan neneknya adalah Shafiyyah. Aku berkata kepada Sufyan mengenai sanadnya. Dia berkata; Ibnu Jubair telah menceritakan kepada kami, namun tiba-tiba dia di sibukkan oleh orang lain, dan dia tidak menyebutkan Ibnu Juraij
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4664</td></tr><tr><td>Arabic No</td><td>4664</td></tr><tr><td>Reference</td><td>Book 65 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Абу Мулейка сказал: «Когда между Ибн аз-Зубайром и Ибн ’Аббасом возникли разногласия, я сказал (Ибн ’Аббасу): “Его отец — аз-Зубайр, а его мать — Асма, его тетя — ‘Аиша, а его дедушка — Абу Бакр, а его бабушка — Сафия”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4664</td></tr><tr><td>Arabic No</td><td>4664</td></tr><tr><td>Reference</td><td>Book 65 Hadith 186</td></tr></tbody></table></div>
 

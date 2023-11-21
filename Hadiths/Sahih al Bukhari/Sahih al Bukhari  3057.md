@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Umar: (Later on) Allah's Messenger (ﷺ) (once again) went along wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Masih dari jalur periwayatan yang sama dengan hadits sebelumnya), [Ibnu 'Umar] radliallahu 'anhuma berkata; Rasulullah Shallallahu'alaiwasallam dan Ubay bin Ka'ab berangkat mendatangi pohon kurma tempat Ibnu Shayyad berada disana hingga ketika beliau memasuki kebun kurma itu, Nabi Shallallahu'alaihiwasallam mulai mendekati batang pohon kurma dengan sembunyi-sembunyi karena Beliau ingin mendengar sesuatu dari Ibnu Shayyad sebelum dia melihat Beliau. Saat itu Ibnu Shayyad sedang berbaring di atas tikarnya dengan mengenakan baju yang lebar dan terdengar suara yang tidak dapat dipahami. Ternyata ibu Ibnu Shayyad melihat Nabi Shallallahu'alaihiwasallam sedang bersembunyi di balik pohon, lalu dia (ibu Ibn Shayyad) memanggil Ibnu Shayyad; "Hai Shaf", ini adalah nama asli dari Ibnu Shayyad. Ibn Shoyyad pun beranjak. Spontan Nabi Shallallahu'alaihiwasallam berkata: "Seandainya dia membiarkannya pasti akan jelas terbukti". (maksudnya membiarkan Ibn Shayyad dalam tidurnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3057</td></tr><tr><td>Arabic No</td><td>3057</td></tr><tr><td>Reference</td><td>Book 56 Hadith 262</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ, находившийся среди людей, поднялся со своего места и должным образом воздал хвалу Аллаху, а потом упомянул об Антихристе /ад-Даджжаль/, сказав: “Поистине, я предостерегаю вас о нём, и не было ни одного пророка, который не предостерегал бы о нём свой народ, и Нух предостерегал о нём свой народ, однако я скажу вам о нём то, чего ни один пророк не говорил своему народу: вы (должны) знать, что он кривой, а Аллах кривым не является!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3057</td></tr><tr><td>Arabic No</td><td>3057</td></tr><tr><td>Reference</td><td>Book 56 Hadith 262</td></tr></tbody></table></div>
 

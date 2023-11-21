@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Khalid:(the daughter of Khalid bin Sa'id) I went to Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hibban bin Musa] telah mengabarkan kepada kami ['Abdullah] dari [Khalid bin Sa'id] dari [bapaknya] dari [Ummu Khalid binti Khalid bin Sa'id] berkata; Aku menemui Rasulullah Shallallahu'alaiwasallam bersama bapakku yang saat itu aku mengenakan baju berwarna kuning. Rasulullah Shallallahu'alaiwasallam berkata; "Bagus, bagus". 'Abdullah berkata; (Beliau mengucapkan) kata-kata yang berasal dari bahasa Habasyiah, yang maksudnya hasanah (bagus). Dia (Ummu Khalid) berkata; Maka aku pergi bermain khatam nubuwah (cincin yang bertanda kenabian) Kemudian bapakku membentakku namun Rasulullah Shallallahu'alaiwasallam berkata: "Biarkanlah dia". Rasulullah Shallallahu'alaiwasallam bersabda: "abliy wa akhlifiy tsumma abliy wa akhlifiy tsumma abliy wa akhlifiy tsumma abliy wa akhlifiy" ("Semoga sampai lusuh bajunya", ini adalah suatu do'a untuk mendo'akan seseorang agar panjang umur hingga bajunya lusuh). 'Abdullah berkata; Maka Ummu Khalid hidup lama sampai dia menceritakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 56 Hadith 276</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Халид бинт Халид ибн Са‘ид, да будет доволен ею Аллах, сказала: «(Однажды,) надев жёлтую рубаху, я пришла к Посланнику Аллаха ﷺ вместе со своим отцом, и Посланник Аллаха ﷺ воскликнул: “Санах, санах!” что на языке эфиопов означает “Прекрасно!” Потом я стала играть с печатью пророчества, а мой отец принялся отгонять меня криком, но Посланник Аллаха ﷺ сказал: “Оставь её!” А потом Посланник Аллаха ﷺ сказал (мне): “Используй и износи до предела, потом (ещё раз) используй и износи до предела, потом (ещё раз) используй и износи до предела! /Абли ва ахликы, сумма абли ва ахликы, сумма абли ва ахликы!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 56 Hadith 276</td></tr></tbody></table></div>
 

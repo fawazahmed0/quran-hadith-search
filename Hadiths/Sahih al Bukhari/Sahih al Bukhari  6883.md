@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The pagans were defeated on the day (of the battle) of Uhud. Sat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Farwah bin Abil Maghra'] telah menceritakan kepada kami ['Ali bin Mushir] dari [Hisyam] dari [Ayahnya] dari [Aisyah]; kaum musyrikin lari tunggang langgang dalam perang Uhud -lewat jalur periwayatan lain-- telah menceritakan kepadaku [Muhammad bin harb] telah menceritakan kepada kami [Abu marwan Yahya bin Abi Zakariya alias Al Wasthi] dari [Hisyam] dari ['Urwah] dari [Aisyah] radliallahu 'anhuma mengatakan; Pada hari Uhud Iblis berteriak ditengah-tengah pasukan musuh seraya mengatakan; 'wahai hanba-hamba Allah, awas barisan belakang kalian, ' sehingga pasukan depan berbalik ke belakang sehingga mereka membunuh Al Yaman, dan Khudzaifah berteriak-teriak; 'itu ayahku, itu ayahku! ' lantas Khudzaifah mengatakan; 'Kiranya Allah mengampuni kalian.' kaum musyrikin lari tunggang langgang hingga diantara mereka ada yang lari ke Thaif
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6883</td></tr><tr><td>Arabic No</td><td>6883</td></tr><tr><td>Reference</td><td>Book 87 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «В день (битвы) при Ухуде, когда многобожники были побеждены, Иблис воскликнул: “О рабы Аллаха! Защищайте ваши спины!” Тогда (мусульмане) из первых рядов обернулись и стали сражаться с мусульманами из задних рядов (думая, что это многобожники), и таким образом убили аль-Йамана. Хузейфа кричал: “Мой отец! Мой отец!” Но его всё равно убили. Тогда Хузейфа сказал: “Да простит вас Аллах!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6883</td></tr><tr><td>Arabic No</td><td>6883</td></tr><tr><td>Reference</td><td>Book 87 Hadith 22</td></tr></tbody></table></div>
 

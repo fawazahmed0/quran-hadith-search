@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) said, "The wala is for the one who gives 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Salam] telah mengabarkan kepada kami [Waki'] dari [Sufyan] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] mengatakan, Rasulullah Shallallahu'alaihiwasallam bersabda: "Wala' bagi yang menyerahkan perak (pembeli) dan menjamin kesenangan (mengurus hidupnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6760</td></tr><tr><td>Arabic No</td><td>6760</td></tr><tr><td>Reference</td><td>Book 85 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Посланник Аллаха ﷺ сказал: «Право наследовать вольноотпущенника /аль-уаля/ принадлежит только тому, кто отдал стоимость и освободил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6760</td></tr><tr><td>Arabic No</td><td>6760</td></tr><tr><td>Reference</td><td>Book 85 Hadith 37</td></tr></tbody></table></div>
 

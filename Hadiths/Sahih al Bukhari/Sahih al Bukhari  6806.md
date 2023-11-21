@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Seven (people) will be shaded by A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Abdullah] dari [Ubaidillah bin Umar] dari [Khubaib bin Abdurrahman] dari [Hafsh bin 'Ashim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda; "Ada tujuh golongan yang Allah melindungi mereka dalam lindungan-NYA pada hari kiamat, di hari ketika tiada perlindungan selain perlindungan-NYA, yaitu; imam yang adil, pemuda yang tumbuh dalam beribadah kepada Allah, seseorang yang senantiasa mengingat Allah saat sendiri sehingga matanya berlinang, seseorang yang hatinya selalu terkait dengan masjid, dua orang yang saling mencintai karena Allah, seseorang yang diajak berkencan oleh wanita bagsawan dan rupawan, namun ia menjawab; 'Saya takut kepada Allah', serta seseorang yang bersedekah secara sembunyi-sembunyi, sehingga tangan kirinya tidak tahu menahu terhadap amalan tangan kanannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6806</td></tr><tr><td>Arabic No</td><td>6806</td></tr><tr><td>Reference</td><td>Book 86 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Семерых укроет Аллах в День Суда в тени Своей, в тот День, когда не будет иной тени, кроме тени Его: справедливого правителя; юношу, росшего в поклонении своему Господу; того, чьи глаза наполняются слезами, когда он в одиночестве поминает Аллаха; человека, сердце которого подвешено в мечетях; тех двоих, которые любят друг друга ради Аллаха; мужчину, которого пожелала знатная и красивая женщина и который сказал: “Поистине, я боюсь Аллаха!”; и того, кто подаёт милостыню (настолько) тайно, что его левая рука не ведает, сколько тратит правая»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6806</td></tr><tr><td>Arabic No</td><td>6806</td></tr><tr><td>Reference</td><td>Book 86 Hadith 35</td></tr></tbody></table></div>
 

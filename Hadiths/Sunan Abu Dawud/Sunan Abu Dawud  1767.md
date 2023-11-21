@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd al Rahman bin Thabit said:The Prophet (SWAS) and his companions used to sacr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Abu Khalid Al Ahmar] dari [Ibnu Juraij] dari [Abu Az Zubair] dari [Jabir], dan telah mengabarkan kepadaku [Abdurrahman bin Sabith] bahwa Nabi shallallahu 'alaihi wasallam dan para sahabatnya menyembelih unta yang diikat kaki kirinya dalam keadaan berdiri dengan kakinya yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1767</td></tr><tr><td>Arabic No</td><td>1767</td></tr><tr><td>Reference</td><td>Book 11 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуррахмана ибн Сабита, да будет доволен им Аллах, что Пророк ﷺ и его сподвижники всегда резали жертвенных животных, подвязывая им левую ногу и оставляя их стоять на оставшихся трёх ногах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1767</td></tr><tr><td>Arabic No</td><td>1767</td></tr><tr><td>Reference</td><td>Book 11 Hadith 47</td></tr></tbody></table></div>
 

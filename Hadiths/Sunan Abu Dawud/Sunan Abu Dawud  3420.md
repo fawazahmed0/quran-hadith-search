@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Kharijah b. al-Salt quoted his paternal uncle as saying that he passed by a clan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz], telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah], dari [Abdullah bin Abu As Safar] dari [Asy Sya'bi], dari [Kharijah bin Ash Shalt], dari [pamannya] bahwa ia pernah melewati sebuah kaum, kemudian mereka mendatanginya dan berkata; engkau datang dari sisi orang ini (Rasulullah shallallahu 'alaihi wasallam) dengan membawa kebaikan, maka jampilah orang ini untuk kami! Kemudian mereka membawa orang yang hilang akalnya dalam keadaan terbaring. Lalu paman Kharijah menjampinya dengan Al Fatihah selama tiga hari pagi dan sore, setiap kali ia menyelesaikan membaca Al Fatihah mengumpulkan ludahnya kemudian meludah. Maka orang-orang tersebut seolah-olah telah terlepas dari belenggu. Lalu mereka memberinya sesuatu, kemudian ia datang kepada Nabi shallallahu 'alaihi wasallam dan menceritakan hal kepada beliau. Nabi shallallahu 'alaihi wasallam bersabda: "Makanlah, sungguh ada orang yang makan dengan jampi yang batil, sementara engkau makan dengan jampi yang benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3420</td></tr><tr><td>Arabic No</td><td>3420</td></tr><tr><td>Reference</td><td>Book 24 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хариджа ибн ас-Сальт передаёт от своего дяди по отцу, что однажды он проходил мимо каких-то людей и они подошли к нему и сказали: «Ты принёс от этого человека благо, прочитай же для нас рукъю этому человеку». И они привели к нему умалишённого (или слабоумного) в цепях, и он читал ему суру «Аль-Фатиха» в качестве рукъи в течение трёх дней по утрам и вечерам, и каждый раз, прочитывая суру до конца, он слегка сплёвывал. После этого больной как будто освободился от оков. Они что-то дали ему за это. Придя к Пророку ﷺ он всё рассказал ему, и Пророк ﷺ сказал: «Ешь это, ибо, клянусь, (ты не из тех), кто получает плату за запрещённые заклинания ты получил плату за истинную рукъю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3420</td></tr><tr><td>Arabic No</td><td>3420</td></tr><tr><td>Reference</td><td>Book 24 Hadith 5</td></tr></tbody></table></div>
 

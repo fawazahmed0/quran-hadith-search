@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Never did I feel jealous of any woman as I was jealous of Khadij
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad Al A'laa]; Telah menceritakan kepada kami [Abu Usamah]; Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; Saya tidak cemburu kepada seorang wanitapun, melebihi cemburuku kepada Khadijah, sungguh dia telah wafat tiga tahun sebelum beliau menikahiku. Menurut apa yang aku dengar ketika beliau menceritakannya. Sungguh, Allah Azza wa jalla telah memerintahkan kepada beliau agar memberi kabar gembira kepadanya dengan sebuah rumah dari permata di surga. Apabila beliau menyembelih seekor kambing, maka beliau suka menghadiahkannya kepada para sahabat-sahabat Khadijah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6277</td></tr><tr><td>Arabic No</td><td>2435.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6277</td></tr><tr><td>Arabic No</td><td>2435.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 107</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "I saw myself (in a d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Nafi'] dari ['Abdullah bin Umar] radliallahu 'anhuma, Rasulullah shallallahu 'alaihi wasallam bersabda: "tadi malam aku diperlihatkan di dekat Ka'bah, aku melihat seorang laki-laki yang kulitnya kemerah-merahan dengan postur manusia paling rupawan yang pernah kamu lihat, rambutnya memanjang hingga sebahu dengan penampilan paling mengesankan, ia tengah menyisiri rambutnya yang meneteskan air, ia bersandaran diatas kedua kakinya, atau diatas tengkuk kedua kakinya, ia thawaf di baitullah, maka aku bertanya; 'Siapakah orang ini? ' Ada jawaban; 'ia adalah Isa bin maryam.' Kemudian tiba-tiba aku bersama seseorang yang rambutnya sangat keriting, matanya buta sebelah kanan seolah-olah buah anggur yang menjorok, maka aku bertanya; 'Siapakah orang ini? ' Ada jawaban; '(dia) al masih ad dajjal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6999</td></tr><tr><td>Arabic No</td><td>6999</td></tr><tr><td>Reference</td><td>Book 91 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал: «Прошлой ночью я видел себя (во сне) у Ка‘бы, и увидел смуглого человека, который по виду являлся лучшим среди смуглых людей, из тех, что ты видел. У него были красивые и ухоженные локоны, которых ты только видел, и с них капала вода. Он совершал обход Дома (Аллаха), опираясь на двух мужчин (или: на плечи двух мужчин). Я спросил: “Кто это?” Мне сказали: “Это Мессия, сын Марьям”. А потом я оказался возле человека с короткими и курчавыми волосами, кривого на правый глаз, который был похож на выпуклую виноградину. Я спросил: “Кто это?”, — и (мне) ответили: “Масих Даджаль”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6999</td></tr><tr><td>Arabic No</td><td>6999</td></tr><tr><td>Reference</td><td>Book 91 Hadith 18</td></tr></tbody></table></div>
 

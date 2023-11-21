@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Aswad b. Qais who heard Jundub saying t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Sufyan] dari [Al Aswad bin Qais] bahwa dia mendengar [Jundub] berkata, "Jibril terlambat datang kepada Rasulullah shallallahu 'alaihi wasallam, lalu orang-orang Musyrik berkata, "Muhammad telah ditinggalkannya." Maka Allah Azza Wa Jalla menurunkan ayat: '(Demi waktu Dluha, dan demi malam apabila telah sunyi, Rabbmu tiada mennggalkanmu dan tiada benci terhadapmu) ' (Qs. Adl Dluha:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4656</td></tr><tr><td>Arabic No</td><td>1797.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов аль-Асвада ибн Къайса о том, что он слышал, как Джундуб говорил: «(Как-то) Джибриль стал задерживаться с приходом к Посланнику Аллаха ﷺ и тогда многобожники сказали: “Мухаммада оставили! И тогда Всемогущий и Великий Аллах ниспослал (аяты): “Клянусь утром! Клянусь ночью, когда она густеет! Не покинул тебя твой Господь и не возненавидел”» (ад-Духа, 93:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4656</td></tr><tr><td>Arabic No</td><td>1797.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 138</td></tr></tbody></table></div>
 

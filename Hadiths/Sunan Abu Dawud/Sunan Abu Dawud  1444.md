@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad reported:Anas b. Malik was asked whether the Messenger of Allah (ﷺ) h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Sulaiman bin Harb] serta [Musaddad] mereka berkata; telah menceritakan kepada Kami [Hammad] dari [Ayyub] dari [Muhammad] dari [Anas bin Malik] RhadhiyAllahu 'anhu bahwa ia ditanya; apakah Rasulullah shallAllahu wa'alaihi wa sallam melaksanakan qunut pada waktu shalat subuh? Beliau menjawab: "Ya." Lalu beliau ditanya lagi; sebelum atau sesudah ruku'? Beliau menjawab; "Setelah ruku'." Musaddad berkata; sebentar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1001) Sahih Muslim (677)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1444</td></tr><tr><td>Arabic No</td><td>1444</td></tr><tr><td>Reference</td><td>Book 8 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухаммад (ибн Сирин) передает от Анаса ибн Малика, что однажды его спросили о том, совершал ли Пророк ﷺ кунут в утренней молитве. Анас ответил: «Да». Его спросили: «Перед поясным поклоном или после?» Он ответил: «После поясного поклона». Мусаддад сказал: «Вскоре (после поясного поклона)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1001) Sahih Muslim (677)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1444</td></tr><tr><td>Arabic No</td><td>1444</td></tr><tr><td>Reference</td><td>Book 8 Hadith 29</td></tr></tbody></table></div>
 

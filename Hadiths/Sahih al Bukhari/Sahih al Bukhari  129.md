@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I was informed that the Prophet (ﷺ) had said to Mu'adh, "Whosoev
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Mu'tamir] berkata, aku mendengar [Bapakku] berkata, aku mendengar [Anas bin Malik] berkata, "Disebutkan kepadaku bahwa Nabi shallallahu 'alaihi wasallam pernah bersabda kepada Mu'adz bin Jabal: "Barangsiapa berjumpa Allah dengan tidak menyekutukan-Nya dengan sesuatu apapun, maka dia akan masuk surga." Mu'adz bertanya, "Bolehkan jika itu aku sampaikan kepada manusia?" Beliau menjawab: "Jangan, karena aku khawatir mereka akan jadi malas (untuk beramal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 3 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Мне рассказали о том, что Пророк ﷺ сказал Му‘азу: “Тот, кто встретит Аллаха не приобщая к Нему ничего, войдет в Рай”. (Му‘аз) сказал: “Не обрадовать ли мне (этим) людей?” (Пророк ﷺ) ответил: “Нет, ибо, поистине, я боюсь, что они (только на это) и будут надеяться”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 3 Hadith 71</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "No town-dweller should sell for a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yazid bin Zurai'] telah bercerita kepada kami [Ma'mar] dari [Az Zuhriy] dari [Sa'id] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah orang yang hadir (orang kota) membeli untuk yang tidak hadir (orang desa), dan janganlah seseorang menyewa malakukan najasy dan janganlah kalian melebihkan harga tawaran barang (yang sedang ditawar) saudaranya dan janganlah pula seseorang meminang (wanita) pinangan saudaranya dan janganlah seorang istri meminta suaminya menceraikan saudaranya (istri suaminya yang lain) demi untuk mencukupi periuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2723</td></tr><tr><td>Arabic No</td><td>2723</td></tr><tr><td>Reference</td><td>Book 54 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пусть оседлый житель не продаёт за бедуина, и не поднимайте цену на товар, (который вы не хотите покупать), и пусть никто из вас не перебивает торговлю своему брату (в исламе), и не сватается к женщине, к которой уже посватался его брат по вере, и не должна женщина просить развода для сестры своей, чтобы опустошить посуду её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2723</td></tr><tr><td>Arabic No</td><td>2723</td></tr><tr><td>Reference</td><td>Book 54 Hadith 12</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki'] dari [Al A'masy] Dan Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Al A'masy] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abu Sa'id Al Asyajj] -lafazh juga miliknya- Telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap amal anak Adam dilipatgandakan pahalanya. Satu macam kebaikan diberi pahala sepuluh hingga tujuh ratus kali. Allah 'azza wajalla berfirman; 'Selain puasa, karena puasa itu adalah bagi-Ku dan Akulah yang akan memberinya pahala. Sebab, ia telah meninggalkan nafsu syahwat dan nafsu makannya karena-Ku.' Dan bagi orang yang berpuasa ada dua kebahagiaan. Kebahagiaan ketika ia berbuka, dan kebahagiaan ketika ia bertemu dengan Rabb-Nya. Sesungguhnya bau mulut orang yang berpuasa lebih wangi di sisi Allah daripada wanginya kesturi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2707</td></tr><tr><td>Arabic No</td><td>1151.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2707</td></tr><tr><td>Arabic No</td><td>1151.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 213</td></tr></tbody></table></div>
 

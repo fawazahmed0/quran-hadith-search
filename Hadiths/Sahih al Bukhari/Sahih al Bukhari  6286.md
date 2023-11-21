@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Mother of the Believers: We, the wives of the Prophet (ﷺ) were
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] dari [Abu 'Awanah] telah menceritakan kepada kami [Firas] dari ['Amir] dari [Masruq] telah menceritakan kepadaku [Ummul Mukminin Aisyah] dia berkata; 'Suatu ketika kami para istri Nabi shallallahu 'alaihi wasallam sedang berkumpul dan berada di sisi beliau, dan tidak ada seorang pun yang tidak hadir saat itu. Lalu datanglah Fatimah 'alaihi salam dengan berjalan kaki. Demi Allah, cara berjalannya persis dengan cara jalannya Rasulullah shallallahu 'alaihi wasallam. Ketika melihatnya, beliau menyambutnya dengan mengucapkan: "Selamat datang hai puteriku!" Setelah itu beliau mempersilahkannya untuk duduk di sebelah kanan atau di sebelah kiri beliau. Lalu beliau bisikkan sesuatu kepadanya hingga ia (Fatimah) menangis tersedu-sedu. Ketika melihat kesedihan Fatimah, beliau sekali lagi membisikkan sesuatu kepadanya hingga ia tersenyum gembira. Lalu saya (Aisyah) bertanya kepadanya ketika aku masih berada di sekitar isteri-isteri beliau-; 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah memberikan keistimewaan kepadamu dengan membisikkan suatu rahasia di hadapan para istri beliau hingga kamu menangis sedih.' -Setelah Rasulullah berdiri dan berlalu dari tempat itu-, saya pun bertanya kepada Fatimah 'Sebenarnya apa yang dibisikkan Rasulullah kepadamu? ' Fatimah menjawab; 'Sungguh saya tidak ingin menyebarkan rahasia yang telah dibisikkan Rasulullah kepada saya.' 'Setelah Rasulullah shallallahu 'alaihi wasallam meninggal dunia, saya bertanya kepadanya; 'Saya hanya ingin menanyakan kepadamu tentang apa yang telah dibisikkan Rasulullah kepadamu yang dulu kamu tidak mau menjelaskannya kepadaku.' Fatimah menjawab; 'Sekarang, saya akan memberitahukan. Lalu Fatimah memberitahukan kepadaku, katanya; 'Dulu, ketika Rasulullah shallallahu 'alaihi wasallam membisikkan sesuatu kepadaku, untuk yang pertama kali, beliau memberitahukan bahwa Jibril biasanya bertadarus Al Qur'an satu atau dua kali dalam setiap tahun dan kini beliau bertadarus kepadanya sebanyak dua kali, maka aku tahu bahwa ajalku telah dekat. Oleh karena itu, bertakwalah kepada Allah dan bersabarlah. Sesungguhnya sebaik-baik pendahulumu adalah aku.' Fatimah berkata; 'Mendengar bisikan itu, maka saya pun menangis, seperti yang kamu lihat dulu. Ketika beliau melihat kesedihanku, maka beliau pun membisikkan yang kedua kalinya kepadaku, sabdanya: 'Hai Fatimah, tidak maukah kamu menjadi pemimpin para istri orang-orang mukmin atau menjadi sebaik-baik wanita umat ini?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6286</td></tr><tr><td>Arabic No</td><td>6286</td></tr><tr><td>Reference</td><td>Book 79 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6286</td></tr><tr><td>Arabic No</td><td>6286</td></tr><tr><td>Reference</td><td>Book 79 Hadith 58</td></tr></tbody></table></div>
 

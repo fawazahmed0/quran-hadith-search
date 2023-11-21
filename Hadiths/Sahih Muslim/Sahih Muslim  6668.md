@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported a hadith from Allah's Messenger (ﷺ) ; (one of them was th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; Inilah yang telah diceritakan [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam -lalu dia menyebutkan beberapa Hadits di antaranya; Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Janganlah kamu mengacungkan senjata kepada saudaramu karena seseorang di antara kamu tidak dapat mengetahui kemungkinan syetan akan melemparkan apa yang ada ditangannya sehingga ia terjerumus ke dalam jurang neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6668</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 45 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6668</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 45 Hadith 165</td></tr></tbody></table></div>
 

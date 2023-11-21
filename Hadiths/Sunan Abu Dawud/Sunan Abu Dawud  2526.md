@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: The warrior gets h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Hasan Al Mashishi], telah menceritakan kepada kami [Hajjaj bin Muhammad], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Abdul Malik bin Syu'aib], telah menceritakan kepada kami [Wahb] dari [Al Laits bin Sa'd] dari [Haiwah bin Syuraih] dari [Ibnu Syufai], dari [ayahnya] dari [Abdullah bin 'Amr] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang berperang baginya pahalanya, dan orang yang memberikan sayembara baginya pahalanya serta pahala orang yang berperang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2526</td></tr><tr><td>Arabic No</td><td>2526</td></tr><tr><td>Reference</td><td>Book 15 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2526</td></tr><tr><td>Arabic No</td><td>2526</td></tr><tr><td>Reference</td><td>Book 15 Hadith 50</td></tr></tbody></table></div>
 

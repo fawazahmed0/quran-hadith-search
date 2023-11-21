@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that the Messenger of Allah (ﷺ) had a mat and he used it for m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] yakni Ats Tsaqafi, telah menceritakan kepada kami [Ubaidullah] dari [Sa'id bin Abu Sa'id] dari [Abu Salamah] dari [Aisyah] bahwa ia berkata; "Rasulullah shallallahu 'alaihi wasallam mempunyai sehelai tikar yang dibentangkannya pada malam hari, sehingga merupakan tabir sebuah kamar tempat beliau shalat. Lalu orang-orang pun shalat pula bersama beliau. Dan dibentangkannya di siang hari. Pada suatu malam mereka kembali berkumpul mengikuti beliau. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: 'Wahai sekalian manusia, hendaklah kalian beramal menurut kemampuan kalian, sebab Allah tidak akan pernah bosan hingga kalian bosan sendiri. Sesungguhnya amalan yang paling disukai Allah, adalah amalan yang dikerjakan secara terus menerus meskipun sedikit. Dan bila keluarga Muhammad shallallahu 'alaihi wasallam melakukan suatu amalan, maka mereka akan menekuninya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1827</td></tr><tr><td>Arabic No</td><td>782.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 255</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «У Посланника Аллаха ﷺ была циновка, которую он подготавливал для себя ночью и совершал на ней молитву, а днём он расстилал её . (Через некоторое время) люди стали собираться возле Пророка ﷺ и совершать такую же молитву, как он. Тогда (Пророк ﷺ) сказал: “О люди! Совершайте из деяний те, что вы способны осилить, ибо Аллаху не наскучит, пока не наскучит вам! И поистине, наиболее любимым для Аллаха являются те деяния, что совершаются постоянно, даже если их мало!” И если члены семьи Мухаммада ﷺ начинали совершать какие-либо (благие) деяния, то делали это постоянно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1827</td></tr><tr><td>Arabic No</td><td>782.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 255</td></tr></tbody></table></div>
 

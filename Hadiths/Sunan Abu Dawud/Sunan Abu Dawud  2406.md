@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qaza'ah: I came to Abu Sa'id al-Khudri while he was giving his legal op
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], dan [Wahb bin Bayan] secara makna, mereka berkata; telah menceritakan kepada kami [Ibnu Wahb], telah menceritakan kepadaku [Mu'awiyah] dari [Rabi'ah bin Yazid] bahwa ia telah menceritakan kepadanya dari [Qaza'ah], ia berkata; aku datang kepada [Abu Sa'id Al Khudri] dan beliau sedang berfatwa kepada manusia sementara mereka berkumpul di hadapannya, maka aku menunggu kesendiriannya. Kemudian tatkala ia telah sendirian aku bertanya kepadanya mengenai puasa Ramadhan dalam perjalanan. Lalu ia berkata; kami pernah keluar bersama Nabi shallallahu 'alaihi wasallam pada Bulan Ramadhan pada tahun penaklukan Mekkah, dan Rasulullah shallallahu 'alaihi wasallam berpuasa dan kami pun berpuasa hingga beliau sampai sebuah tempat diantara tempat-tempat persinggahan. Kemudian beliau berkata; sesungguhnya kalian telah mendekati musuh dan berbuka adalah lebih kuat untuk kalian. Maka pada paginya diantara kami ada yang berpuasa dan diantara kami ada yang berbuka, peperangan tersebut merupakan tekad Rasulullah shallallahu wa'alaihi wa sallam. Abu Sa'id berkata; aku lihat diriku melakukan puasa bersama Nabi shallallahu 'alaihi wasallam sebelum itu dan setelah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1120)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2406</td></tr><tr><td>Arabic No</td><td>2406</td></tr><tr><td>Reference</td><td>Book 14 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Каза‘а сказал: «Я пришёл к дававшему фетвы Абу Са‘иду аль-Худри, вокруг которого было много людей. Дождавшись, когда он останется один, я спросил его о посте в рамадане в пути, и он сказал: “Однажды в рамадане мы отправились в путь вместе с Пророком ﷺ. Это было в год покорения Мекки. Посланник Аллаха ﷺ постился, и мы постились вместе с ним. Потом мы остановились на один из привалов, и Посланник Аллаха ﷺ сказал: “Вы приблизились к врагу, лучше вам будет не поститься”. Утром мы проснулись, и одни постились, а другие нет. Мы двигались какое-то время, а потом снова остановились на привал, и Посланник Аллаха ﷺ сказал: “Утром вы встретитесь с врагом. Поэтому вам лучше не поститься. Совершайте же разговение!” Это было уже веление Посланника Аллаха ﷺ”. Абу Са‘ид сказал: “Я постился в пути вместе с Пророком ﷺ и до этого, и после”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1120)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2406</td></tr><tr><td>Arabic No</td><td>2406</td></tr><tr><td>Reference</td><td>Book 14 Hadith 94</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The most beloved action to Allah's Messenger (ﷺ) was that whos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] dari [Malik] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] bahwa dia berkata; "Amalan yang paling dicintai oleh Rasulullah shallallahu 'alaihi wasallam adalah yang dikerjakan secara terus menerus oleh pelakunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6462</td></tr><tr><td>Arabic No</td><td>6462</td></tr><tr><td>Reference</td><td>Book 81 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Самым любимым для Посланника Аллаха ﷺ было то деяние, которое совершается с постоянством»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6462</td></tr><tr><td>Arabic No</td><td>6462</td></tr><tr><td>Reference</td><td>Book 81 Hadith 51</td></tr></tbody></table></div>
 

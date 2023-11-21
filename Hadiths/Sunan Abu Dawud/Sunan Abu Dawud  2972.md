@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn AbdulAziz: Al-Mughirah (ibn Shu'bah) said: Umar ibn AbdulAziz 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Al Jarrah], telah menceritakan kepada kami [Jarir], dari [Al Mughirah], ia berkata; [Umar bin Abdul Aziz] telah mengumpulkan anak-anak Marwan ketika ia ditunjuk sebagai khalifah, kemudian ia berkata; Sesungguhnya dahulu Fadak adalah untuk Rasulullah shallallahu 'alaihi wasallam, dahulu beliau memberikan nafkah dari harta tersebut dan kembali memberikan nafkah kepada anak-anak kecil Bani Hasyim, dan beliau menikahkan janda mereka dari harta tersebut. Dan sesungguhnya Fathimah meminta beliau agar memberikan bagian untuknya, kemudian beliau menolak. Maka demikianlah pada masa hidupnya Rasulullah shallallahu 'alaihi wasallam hingga beliau meninggal, kemudian tatkala Abu Bakr radliallahu 'anhu terpilih menjadi khalifah ia berbuat seperti yang diperbuat Nabi shallallahu 'alaihi wasallam pada masa hidupnya hingga meninggal, kemudian tatkala Umar terpilih menjadi khalifah ia berbuat seperti yang mereka perbuat hingga meninggal. Kemudian Marwan mengalokasikannya (untuk dirinya dan orang-orang yang mengikutinya), kemudian Lahan tersebut menjadi milik Umar bin Abdul 'Aziz, kemudian aku melihat suatu perkara yang tidak diberikan Rasulullah shallallahu 'alaihi wasallam kepada Fathimah bukanlah hak bagiku. Dan aku meminta persaksian kalian bahwa aku telah mengembalikannya kepada kondisinya terdahulu, yaitu pada masa Rasulullah shallallahu 'alaihi wasallam. Abu Daud berkata; Umar bin Abdul Aziz menjabat sebagai khalifah sementara penghasilannya adalah empat puluh ribu dinar, dan beliau meninggal sementara penghasilan beliau adalah empat ratus dinar, dan seandainya ada yang tersisa maka hal tersebut berjumlah lebih sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2972</td></tr><tr><td>Arabic No</td><td>2972</td></tr><tr><td>Reference</td><td>Book 20 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Мугира сказал: «Став халифом, ‘Умар ибн ‘Абду-ль-‘Азиз собрал сыновей Марвана и сказал: “Поистине, у Посланника Аллаха ﷺ был Фадак и он расходовал полученное с него, давал из этого младшим хашимитам и помогал жениться холостым из их числа. Когда Фатима попросила его отдать Фадак ей, он отказался. Так было при жизни Посланника Аллаха ﷺ. Потом его проводили в последний путь. А когда халифом стал ‘Абу Бакр, он поступил так же, как Пророк ﷺ. Потом его проводили в последний путь. А когда халифом стал ‘Умар, он поступил так же, как Пророк ﷺ и Абу Бакр. Потом и его проводили в последний путь. Потом Марван сделал эту землю собственностью. Потом она перешла к ‘Умару ибн ‘Абду-ль-‘Азизу, и я считаю, что я не вправе делать то, в чём Посланник Аллаха ﷺ отказал Фатиме, и я прошу вас засвидетельствовать, что я возвращаю эту землю в её прежнее состояние, в каком была она при посланнике Аллаха ﷺ”». Абу Дауд сказал: «Когда ‘Умар ибн ‘Абду-ль-‘Азиз только пришёл к власти, его доход составлял сорок тысяч динаров, а к моменту его смерти его доход составлял четыреста динаров, и если бы он прожил дольше, его доход сделался бы ещё меньше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2972</td></tr><tr><td>Arabic No</td><td>2972</td></tr><tr><td>Reference</td><td>Book 20 Hadith 45</td></tr></tbody></table></div>
 

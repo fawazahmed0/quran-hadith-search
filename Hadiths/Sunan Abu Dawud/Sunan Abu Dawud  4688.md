@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abdullah bin Numair] berkata, telah menceritakan kepada kami [Al A'masy] dari [Abdullah bin Murrah] dari [Masruq] dari [Abdullah bin Amru] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang pada dirinya ada empat hal, maka ia adalah seorang munafik tulen, namun jika hanya ada sebagian, maka pada dirinya ada sebagian sifat munafik hingga ia meninggalkannya; jika berbicara berdusta, jika berjanji mengingkari, jika diberi amanah khianat dan jika berselisih berlaku curang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (34) Sahih Muslim (58)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4688</td></tr><tr><td>Arabic No</td><td>4688</td></tr><tr><td>Reference</td><td>Book 42 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Истинным лицемером является тот, кому присущи четыре качества, а обладающий любым из них будет присуще одно из качеств лицемерия, пока он не избавится от него. Он лжёт, когда рассказывает о чём-нибудь, обещая, нарушает обещание, поступает вероломно, когда заключает договор, и поступает нечестиво, когда ведёт тяжбу с кем-либо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (34) Sahih Muslim (58)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4688</td></tr><tr><td>Arabic No</td><td>4688</td></tr><tr><td>Reference</td><td>Book 42 Hadith 93</td></tr></tbody></table></div>
 

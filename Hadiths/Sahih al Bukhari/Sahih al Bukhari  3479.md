@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rabi' bin Hirash:'Uqba said to Hudhaifa, "Won't you narrate to us what 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3479</td></tr><tr><td>Arabic No</td><td>3479</td></tr><tr><td>Reference</td><td>Book 60 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хузейфы, что Пророк ﷺ сказал: «Один человек, который находился при смерти и уже отчаялся выжить, завещал своей семье (следующее): “После того как я умру, соберите побольше дров и разожгите огонь(, чтобы сжечь меня). А когда огонь пожрёт мою плоть и дойдёт до костей, после чего и они сгорят, возьмите и истолките их в порошок, потом дождитесь такого дня, когда поднимется сильный ветер, а потом развейте (то, что останется,) над морем”. Они так и сделали, но Аллах собрал его воедино и спросил его: “Зачем ты сделал это?” Он ответил: “Из страха перед Тобой”, и Аллах простил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3479</td></tr><tr><td>Arabic No</td><td>3479</td></tr><tr><td>Reference</td><td>Book 60 Hadith 146</td></tr></tbody></table></div>
 

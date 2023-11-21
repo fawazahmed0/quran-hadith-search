@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shaqiq bin Salama:I was sitting with Abu Mas'ud and Abu Musa and 'Ammar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Syaqiq bin Salamah], aku pernah duduk bersama [Abu mas'ud] dan [Abu Musa] dan ['Ammar], Abu Mas'ud berkata; 'Tak ada seorangpun dari sahabatmu yang jika aku berkenan pasti aku berkomentar tentangnya kecuali kamu, dan belum pernah kulihat sesuatu darimu yang lebih tercela bagiku semenjak kamu bersahabat dengan Nabi shallallahu 'alaihi wasallam daripada kesegeraanmu ikut serta masalah ini.' Ammar menjawab; 'Wahai Abu mas'ud, dan aku tidak pernah melihat sesuatu darimu dan juga dari para sahabatmu sesuatu yang lebih tercela bagiku semenjak engkau bersahabat dengan Nabi shallallahu 'alaihi wasallam selain keterlambatanmu ikut serta dalam masalah ini.' Lantas Abu mas'ud mengatakan -yang ketika itu ia lapang rezekinya-; 'hai anak kecil, tolong ambilkan dua pakaian untuk kedua orang ini, ' satunya untuk Abu Musa, dan satunya untuk Ammar, lantas ia berujar; 'Berangkatlah kalian berdua untuk melaksanakan shalat jum'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7106</td></tr><tr><td>Arabic No</td><td>7106</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Шакик ибн Саляма сказал: «Однажды я сидел вместе с Абу Мас‘удом, Абу Мусой и ‘Аммаром, и Абу Мас‘уд сказал: “Если бы я захотел, я бы сказал нечто о любом из твоих соратников, кроме тебя. С тех самых пор, как ты стал сопровождать Пророка ﷺ я не видел от тебя ничего столь порицаемого для меня, чем твоя поспешность в этом деле!” ‘Аммар ответил: “О Абу Мас‘уд! С тех самых пор, как вы стали сопровождать Пророка ﷺ я не видел от тебя и от твоего товарища ничего столь порицаемого для меня, чем ваше неучастие в этом деле!” Абу Мас‘уд был богатым человеком, и сказал: “О слуга, дай мне два одеяния”, — и затем подарил одно Абу Мусе, а другое — ‘Аммару, и сказал: “Отправляйтесь в этих одеяниях на пятничную молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7106</td></tr><tr><td>Arabic No</td><td>7106</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

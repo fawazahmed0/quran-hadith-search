@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu-Wail:'Abdullah said, "One night I offered the Tahajjud prayer with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari [Al A'masy] dari [Abu Wa'il] dari ['Abdullah bin Mas'ud radliallahu 'anhu] berkata: Pada suatu malam aku pernah shalat malam bersama Nabi shallallahu 'alaihi wasallam. Saat shalat itu Beliau terus saja berdiri hingga aku terbetik perasaan yang jelek". Kami tanyakan: "Apa perasaan jelekmu itu?" Dia menjawab: "Aku berkeinginan untuk duduk dan meninggalkan Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 19 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что (однажды) Ибн Мас‘уд, да будет доволен им Аллах, сказал: «(Как-то раз, когда) я совершал ночную молитву вместе с Пророком ﷺ он стоял так долго, что мне даже захотелось сделать нечто дурное». Мы спросили: «Что же?» Он ответил: «Мне захотелось сесть, оставив Пророка ﷺ стоять (в одиночестве)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 19 Hadith 16</td></tr></tbody></table></div>
 

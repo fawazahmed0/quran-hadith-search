@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Bara was heard saying:We were forbidden (to eat) the flesh of the domestic asses
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib] dan [Ishaq bin Ibrahim], [Abu Kuraib] berkata; telah menceritakan kepada kami [Ibnu Bisyr] dari [Mis'ar] dari [Tsabit bin 'Ubaid] dia berkata; saya mendengar [Al Barra] berkata, "Kami telah dilarang makan daging keledai jinak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5014</td></tr><tr><td>Arabic No</td><td>1938.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5014</td></tr><tr><td>Arabic No</td><td>1938.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
 

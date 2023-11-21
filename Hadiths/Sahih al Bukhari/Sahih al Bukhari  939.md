@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:As above with the addition: We never had an afternoon nap nor meal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] berkata, telah menceritakan kepada kami [Ibnu Abu Hazim] dari [Bapaknya] dari [Sahl] dengan riwayat seperti di atas, lalu dia berkata, "Kami tidaklah beristirahat siang maupun makan siang kecuali setelah shalat Jum'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>939</td></tr><tr><td>Reference</td><td>Book 11 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Сахля, что он сказал в продолжении прошлого хадиса: «…Мы совершали полуденный отдых (кайлюля) и обедали только после пятничной молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>939</td></tr><tr><td>Reference</td><td>Book 11 Hadith 63</td></tr></tbody></table></div>
 

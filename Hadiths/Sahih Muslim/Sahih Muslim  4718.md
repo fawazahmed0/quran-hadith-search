@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Abu Musa who said:I went to the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidillah bin Sa'id] dan [Muhammad bin Hatim] dan ini adalah lafadz Ibnu Hatim, keduanya berkata, telah menceritakan kepada kami [Yahya bin Sa'id Al Qatthan] telah menceritakan kepada kami [Qurrah bin Khalid] telah menceritakan kepada kami [Humaid bin Hilal] telah menceritakan kepadaku [Abu Burdah] dia berkata, [Abu Musa] berkata, "Saya menemui Nabi shallallahu 'alaihi wasallam bersama dengan dua orang dari bani Al Asy'ariyin, seorang berada di sisi kananku dan seorang lagi di sisi kiriku. Keduanya meminta diberi jabatan, sementara saat itu beliau sedang bersiwak. Beliau lalu bersabda: "Wahai Abu Musa, atau Abdullah bin Qais, bagaimana menurutmu mengenai hal ini?" Abu Musa berkata, "Saya menjawab, "Demi dzat yang menutusmu dengan kebenaran, sungguh saya tidak tahu apa yang ada dalam hati mereka berdua, dan saya tidak menduga bahwa keduanya akan meminta jabatan dari anda wahai Rasulullah." Abu Musa berkata, "Seakan-akan saya melihat siwak beliau yang sudah usang berada di bawah bibirnya." Kemudian beliau bersabda: "Ketahuilah, sesungguhnya saya tidak akan memberikan jabatan kepada orang yang justru menginginkannya, sekarang pergilah kamu wahai Abu Musa atau Abdullah bin Qais!" Akhirnya beliau mengutusnya ke negeri Yaman diikuti oleh Mu'adz bin Jabal. Ketika Mu'adz menemui Abu Musa, maka -sambil memberikan bantal kepadanya- Abu Musa berkata, "Silahkan duduk!" Ketika hendak duduk, Mu'adz bin Jabal melihat seorang laki-laki yang terikat, lalu Mu'dz berkata, "Siapakah laki-laki ini?" Abu Musa menjawab, "Dulunya dia adalah seorang Yahudi yang telah masuk Islam, tetapi setelah itu ia kembali lagi kepada agamanya yang semula, agama Yahudi." Mu'adz langsung berkata, "Saya tidak akan duduk sebelum orang ini dibunuh sesuai dengan ketentuan hukum Allah dan rasul-Nya." Abu Musa berkata, "Duduklah dulu." Mu'az menjawab, "Saya tidak akan duduk sebelum orang ini dibunuh sesuai dengan ketentuan hukum Allah dan rasul-Nya." Abu Musa tetap berkata, "Duduklah terlebih dahulu." Mu'adz tetap bersikeras menjawab, "Saya tidak akan duduk sebelum orang ini dibunuh sesuai dengan ketentuan hukum Allah dan rasul-Nya." Hingga ia mengulanginya tiga kali. Akhirnya Abu Musa memerintahkan supaya laki-laki Yahudi itu dibunuh, kemudian keduanya saling mengingatkan untuk selalu melakukan shalat malam. Salah satu dari keduanya, yaitu Mu'adz berkata, "Kalau saya sendiri tetap akan tidur dan juga akan melaksanakan shalat, saya berharap bahwa dalam tidurku ini saya akan memperoleh pahala yang sama seperti saya melakukan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4718</td></tr><tr><td>Arabic No</td><td>1733.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4718</td></tr><tr><td>Arabic No</td><td>1733.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 18</td></tr></tbody></table></div>
 

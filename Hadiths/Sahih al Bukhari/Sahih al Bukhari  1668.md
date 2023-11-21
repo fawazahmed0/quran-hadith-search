@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':'Abdullah bin 'Umar used to offer the Maghrib and 'Isha' prayers 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] berkata: "Dahulu ['Abdullah bin 'Umar radliallahu 'anhua] biasa menjama' antara shalat Maghrib dan 'Isya' di daerah Jama' (Muzdalifah) padahal dia melewati bukit (Asy-Syi'ib) yang juga pernah dilewati poleh Rasulullah Shallallahu'alaihiwasallam. Maka dia mendatangi bukit itu lalu beristinja' dengan batu kemudian berwudhu dan tidak shalat hingga dia shalat di daerah Jama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1668</td></tr><tr><td>Arabic No</td><td>1668</td></tr><tr><td>Reference</td><td>Book 25 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ сказал: «‘Абдуллах Ибн ‘Умар, да будет доволен Аллах им и его отцом, объединял молитву магриб с ‘иша в Муздалифе. Однако проходя мимо ущелья, мимо которого проходил Посланник Аллаха ﷺ он заходил и справлял там нужду, совершал омовение, и не совершал никакой молитвы до тех пор, пока не совершал молитву в Муздалифе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1668</td></tr><tr><td>Arabic No</td><td>1668</td></tr><tr><td>Reference</td><td>Book 25 Hadith 149</td></tr></tbody></table></div>
 

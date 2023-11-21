@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said “The Jews Al Nadir and Quraizah fought with the Apostle of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ibnu Juraij] dari [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu Umar], bahwa orang-orang yahudi Bani Nadhir dan Quraizhah memerangi Rasulullah shallallahu 'alaihi wasallam, kemudian beliau mengusir Bani Nadhir dan membiarkan Quraizhah dan memberikan kebebasan kepada mereka hingga orang-orang Bani Quraizhah setelah itu memerangi beliau. Maka beliau membunuh laki-laki mereka dan membagikan para wanita dan anak-anak mereka serta harta mereka diantara orang-orang muslim, kecuali sebagiannya kembali kepada Rasulullah shallallahu 'alaihi wasallam. Kemudian beliau memberikan kebebasan kepada mereka hingga mereka masuk Islam. Dan Rasulullah shallallahu 'alaihi wasallam mengusir orang-orang seluruh orang yahudi Bani Qainuqa' dari Madinah. Mereka adalah kaumnya Abdullah bin Salam, dan yahudi Bani Haritsah serta seluruh orang yahudi di Manidah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4028) Sahih Muslim (1766)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3005</td></tr><tr><td>Arabic No</td><td>3005</td></tr><tr><td>Reference</td><td>Book 20 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что иудеи бану ан-надыр и бану курайза сражались с посланником Аллаха ﷺ он выселил бану ан-надыр и позволил бану курайза остаться, и они остались до той поры, когда выступили против Посланника Аллаха ﷺ снова. Когда же это произошло, Посланник Аллаха ﷺ велел казнить всех мужчин и разделить женщин, детей и имущество между мусульманами. Казни избежали только те немногие, кто пришёл к Посланнику Аллаха ﷺ который взял их под свою защиту, и они уверовали. Посланник Аллаха ﷺ выселил из Медины всех иудеев бану кайнука, которые были соплеменниками ‘Абдуллаха ибн Саляма, и иудеев бану хариса, и вообще каждого иудея, который жил в Медине
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4028) Sahih Muslim (1766)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3005</td></tr><tr><td>Arabic No</td><td>3005</td></tr><tr><td>Reference</td><td>Book 20 Hadith 78</td></tr></tbody></table></div>
 

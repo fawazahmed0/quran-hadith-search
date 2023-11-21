@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "Whoever eats garlic or oni
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] bahwa ['Atha] menyakini bahwa [Jabir bin 'Abdullah] meyakini bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa memakan bawang putih atau bawang merah hendaklah dia menjauhi kami." Atau beliau mengatakan: "Hendaklah dia menjauhi masjid kami dan hendaklah dia duduk berdiam di rumahnya." Dan bahwasanya Nabi shallallahu 'alaihi wasallam pernah diberikan periuk yang di dalamnya sayuran seperti kol. Kemudian beliau mencium arama sesuatu, beliau lalu menanyakannya dan beliau pun diberi kabar tentang beau tersebut. Maka beliau bersabda: "Sodorkanlah!" yakni kepada para sahabat yang bersamanya. Ketika beliau melihat mereka enggan memakannya, beliau pun bersabda: "Makanlah! Sesungghuhnya aku berbicara dengan orang yang bukan engkau ajak bicara." [Ahmad bin Shalih] menyebutkan dari [Ibnu Wahab], "Saat perang badar beliau diberi..". Ibnu menyebutkan, "Yakni mangkuk berisi sayuran." Namun [Al Laits] dan [Abu Shafwan] dari [Yunus] tidak menyebutkan perihal mangkuk tersebut, dan aku tidak tahu ucapan tadi perkataan Az Zuhri atau memang redaksi hadits begitu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>855</td></tr><tr><td>Reference</td><td>Book 10 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира бин ‘Абдуллаха, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Пусть удаляется от нас поевший чеснока или лука», или же он сказал: «…пусть удаляется от нашей мечети и сидит у себя дома».\nОн передал также, что однажды Пророку ﷺ принесли котёл с варёными овощами. Почувствовав исходящий от них (неприятный) запах, он спросил (о том, что находится в этом котле,) и ему перечислили названия овощей, которые там были. Тогда он велел одному из находившихся вместе с ним сподвижников: «Принесите (этот котёл)», увидев же, что (в нём находится), отказался есть это, а ему сказал: «Ешь, а я (не ем этого по той причине, что) веду тайные беседы с теми, с кем не можешь беседовать ты».\nВ другой версии этого хадиса говорится: «…принесли блюдо с овощами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>855</td></tr><tr><td>Reference</td><td>Book 10 Hadith 246</td></tr></tbody></table></div>
 

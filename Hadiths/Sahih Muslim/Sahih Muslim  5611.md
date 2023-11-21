@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported from Allah's Messenger (ﷺ) so many ahadith and one of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabih] ia berkata; Inilah yang telah di ceritakan oleh [Abu Hurairah] kepada kami, dari Rasulullah shallallahu 'alaihi wasallam -lalu dia menyebutkan beberapa Hadits- yang diantaranya, Rasulullah shallallahu 'alaihi wasallam bersabda: Sejelek-jelek dan seburuk-buruk laki-laki di sisi Allah adalah seseorang yang bernama Malikul Amlak (Raja Diraja), karena sesungguhnya tidak ada Raja selain Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5611</td></tr><tr><td>Arabic No</td><td>2143.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5611</td></tr><tr><td>Arabic No</td><td>2143.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 26</td></tr></tbody></table></div>
 

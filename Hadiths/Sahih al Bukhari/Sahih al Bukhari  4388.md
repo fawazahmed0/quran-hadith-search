@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The people of Yemen have come to y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] Telah menceritakan kepada kami [Ibnu Abu Adi] dari [Syu'bah] dari [Sulaiman] dari [Dakwan] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Telah datang penduduk Yaman, mereka adalah orang-orang yang perasaan (sensitive) dan hatinya paling lembut, keimanan dari Yaman, hikmah ada pada orang Yaman, angkuh dan sombong ada pada para penggembala unta, sedangkan ketenangan dan kewibawaan ada pada para penggembala kambing." [Gundar] berkata; dari [Syu'bah] dari [Sulaiman] Aku mendengar [Dakwan] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4388</td></tr><tr><td>Arabic No</td><td>4388</td></tr><tr><td>Reference</td><td>Book 64 Hadith 411</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пришли к вам люди из Йемена, сердца которых являются более тонкими и мягкими, (чем сердца других людей). Вера /иман/ — в Йемене, и йеменцам присуща мудрость. Гордость и высокомерие свойственны громко кричащим владельцам верблюдов (бедуинам-кочевникам), а спокойствием отличаются владельцы овец»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4388</td></tr><tr><td>Arabic No</td><td>4388</td></tr><tr><td>Reference</td><td>Book 64 Hadith 411</td></tr></tbody></table></div>
 

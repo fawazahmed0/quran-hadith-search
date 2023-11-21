@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Thabit said:The marriage of Zainab daughter of Jahsh was mentioned before Anas b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Qutaibah bin Sa'id] mereka berkata; telah menceritakan kepada kami [Hammad] dari [Tsabit] ia berkata, "Telah disebutkan pernikahan Zainab binti Jahsy di sisi [Anas bin Malik] maka Anas pun berkata, "Aku tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam merayakan pesta pernikahan dengan para isterinya, sebagaimana pesta pernikahan yang beliau rayakan bersama Zainab. Beliau merayakan hanya dengan satu kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5171) Sahih Muslim (1428)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3743</td></tr><tr><td>Arabic No</td><td>3743</td></tr><tr><td>Reference</td><td>Book 28 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сабит передаёт: «В присутствии Анаса ибн Малика, да будет доволен им Аллах, упомянули о том, как выходила замуж (за Пророка ﷺ) Зейнаб бинт Джахш, и он сказал: “Я никогда не видел, чтобы Посланник Аллаха ﷺ устроил по случаю бракосочетания с любой другой из своих жён такое же угощение, какое устроил он по случаю женитьбы на ней. Он приготовил угощение из одной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5171) Sahih Muslim (1428)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3743</td></tr><tr><td>Arabic No</td><td>3743</td></tr><tr><td>Reference</td><td>Book 28 Hadith 8</td></tr></tbody></table></div>
 

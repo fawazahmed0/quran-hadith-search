@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah has cursed those women who practise tattooing and those
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Alqamah], [Abdullah] mengatakan; "Allah melaknat orang yang mentato dan orang yang meminta ditato, orang yang mencukur habis alis dan merenggangkan gigi untuk kecantikan dengan merubah ciptaan Allah Ta'ala, kenapa saya tidak melaknat orang yang dilaknat Nabi shallallahu 'alaihi wasallam sementara dalam kitabullah telah termaktub Dan sesuatu yang datang dari rasul, maka ambillah (QS Al Hasyr;)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5931</td></tr><tr><td>Arabic No</td><td>5931</td></tr><tr><td>Reference</td><td>Book 77 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Алькамы, что ‘Абдуллах (ибн Мас‘уд) сказал: «Аллах проклял наносящую татуировку и ту, что просит сделать ей это, а также выщипывающую брови и подпиливающую зубы ради красоты и изменяющую тем самым творение Аллаха. А почему бы мне не проклинать их, если их проклял Пророк ﷺ, и об этом упоминается в Книге Аллаха: “Что принёс вам Посланник, то принимайте” (сура “аль-Хашр”, аят 7)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5931</td></tr><tr><td>Arabic No</td><td>5931</td></tr><tr><td>Reference</td><td>Book 77 Hadith 146</td></tr></tbody></table></div>
 

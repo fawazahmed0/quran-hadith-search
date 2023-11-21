@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] dia berkata; saya mendengar [Budail bin Maisarah] dan [Ayyub] keduanya menceritakan dari [Abdullah bin Syaqiq] dari [Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam biasa mengerjakan shalat beberapa malam dengan berdiri dan beberapa malam dengan duduk, apabila beliau mengerjakan shalat dengan berdiri, maka beliau ruku' dalam keadaan berdiri, dan apabila beliau mengerjakan shalat dengan duduk, maka beliau ruku' dengan posisi duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (730)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>955</td></tr><tr><td>Arabic No</td><td>955</td></tr><tr><td>Reference</td><td>Book 2 Hadith 566</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Ночная молитва Посланника Аллаха ﷺ была долгой и совершал он её стоя, а иногда сидя, но она всё равно была долгой. Если он читал аяты стоя, то и поясные поклоны совершал стоя, а если он читал аяты сидя, то и поясные поклоны он совершал сидя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (730)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>955</td></tr><tr><td>Arabic No</td><td>955</td></tr><tr><td>Reference</td><td>Book 2 Hadith 566</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda's father:Allah's Messenger (ﷺ) said, any man who has a slav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] Telah menceritakan kepada kami [Abdul Wahid] Telah menceritakan kepada kami [Shalih bin Shalih Al Hamdani] Telah menceritakan kepada kami [Asy Sya'bi] ia berkata; Telah menceritakan kepadaku [Abu Burdah] dari [bapaknya] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang laki-laki memiliki seorang budak wanita, lalu ia mengajarinya dengan sebaik-baiknya, dan mendidiknya dengan didikan yang terbaik, kemudian ia merdekakan dan menikahinya, maka baginya adalah dua pahala. Dan siapa pun dari kalangan ahli kitab yang beriman kepada nabinya dan beriman kepadaku, maka baginya adalah dua pahala. Dan siapa saja dari kalangan budak yang menunaikan hak tuannya dan juga hak Rabb-nya, maka baginya adalah dua pahala." [Abu Bakr] berkata; dari [Abu Al Hashin] dari [Abu Burdah] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam: "Ia membebaskan lalu memberinya mahar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5083</td></tr><tr><td>Arabic No</td><td>5083</td></tr><tr><td>Reference</td><td>Book 67 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бурда передал от своего отца, что Посланник Аллаха ﷺ сказал: «Любой мужчина, у которого была рабыня, которую он обучил и воспитал наилучшим образом, а потом освободил её и женился на ней, получит двойную награду. И любой человек, из числа обладателей Писания, который уверовал в своего пророка, а потом уверовал в меня, получит двойную награду. И любой подневольный раб, который выполнял свои обязанности по отношению к своим хозяевам и к своему Господу получит двойную награду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5083</td></tr><tr><td>Arabic No</td><td>5083</td></tr><tr><td>Reference</td><td>Book 67 Hadith 21</td></tr></tbody></table></div>
 

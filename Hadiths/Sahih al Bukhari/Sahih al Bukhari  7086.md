@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:Allah's Messenger (ﷺ) related to us, two prophetic narration
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] Telah mengabarkan kepada kami [Sufyan] telah menceritakan kepada kami [Al A'masy] dari [Zaid bin Wahb] telah menceritakan kepada kami [Khudzaifah] mengatakan, telah menceritakan kepada kami Rasulullah Shallallahu'alaihiwasallam dua Hadits, satunya sudah saya lihat sendiri dan satunya aku sedang menunggu-nunggu, beliau menceritakan kepada kami: "bahwa Amanat mula-mula turun pada relung hati orang-orang, lantas mereka paham terhadap alquran dan paham terhadap sunnah." Khudzaifah menceritakan kepada kami kemarfu'annya, Nabi bersabda; "seseorang tertidur nyenyak kemudian amanat dicerabut dari hatinya, dan masih ada bekasnya seperti bekas yang kecil, kemudian dia tidur lagi dan amanat dicerabut darinya sehingga bekasnya seperti kutu di tangan, sepeti bara yang kau gelindingkan di kakimu sehingga ia memar (beram-beram), maka engkau melihatnya beram-beram (memar) padahal sebenarnya tidak terjadi apa-apa, dan manusia secara beruntun melakukan baiat dan nyaris tak seorang pun menunaikan amanat dengan baik, dan ada berita bahwa di bani fulan ada seseorang yang dapat di percaya, kemudian dikatakan kepada tersebut; 'alangkah cerdasnya dia, alangkah bijaknya dia, alangkah pemberaninya dia, ' padahal tidak ada seberat biji gandum pun iman di dalam hatinya, pernah datang suatu masa kepadaku yang ketika itu aku tak peduli siapa diantara kalian yang aku baiat, kalaulah ia muslim, maka keIslamannya akan mengembalikannya kepadaku, dan kalaulah nasrani, penarik pajaknya akan mengembalikannya kepadaku, namun hari ini aku tidak membaiat selain fulan dan fulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7086</td></tr><tr><td>Arabic No</td><td>7086</td></tr><tr><td>Reference</td><td>Book 92 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа (ибн аль-Яман), да будет доволен им Аллах, рассказывал: «Посланник Аллаха ﷺ сообщил нам о двух (вещах), и первое (из того, о чём он говорил), я уже видел, а теперь ожидаю и второго. Он сообщил нам, что ответственность /амана/ была ниспослана в самую основу сердец людей, а потом они узнали об этом из Корана и узнали из Сунны. А потом он сообщил нам об удалении этой ответственности, сказав: “Заснёт человек ненадолго, и будет взята это ответственность из сердца его, и останется от неё только еле заметный след. Потом снова заснёт он ненадолго, и будет взята это ответственность из сердца его (полностью), после чего останется от неё только след наподобие волдыря. Это как если бы ты уронил на ногу раскалённый уголь и увидел, что место, на которое он упал, вздулось, но внутри него ничего нет”. А потом люди станут заключать друг с другом сделки, но никто из них не будет и собираться возвращать доверенное ему! (И дело дойдёт до того, что) будут говорить: “Есть среди (людей такого-то племени) надёжный человек”. И о человеке скажут: “Не найти более разумного, более сообразительного и более стойкого, чем он”, — хотя в сердце его не будет веры и на вес горчичного зерна!» \n(Хузайфа сказал): «И я дожил до такого времени, когда мне не приходилось задумываться о том, с кем из вас вести торговые дела, ибо если человек был мусульманином, то (доверенное) обязательно возвращала мне (его) Ислам, если же он был христианином, то это непременно возвращал мне его правитель. А сегодня я не могу заключить сделку ни с кем, кроме такого-то и такого-то!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7086</td></tr><tr><td>Arabic No</td><td>7086</td></tr><tr><td>Reference</td><td>Book 92 Hadith 37</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad:Um 'Atiyya said, "One of the daughters of the Prophet (ﷺ) di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamid bin 'Umar] telah menceritakan kepada saya [Hammad bin Zaid] dari [Ayyub] dari [Muhammad] dari [Ummu 'Athiyyah radliallahu 'anha] berkata: Ketika salah satu puteri Nabi shallallahu 'alaihi wasallam wafat, Nabi shallallahu 'alaihi wasallam keluar seraya berkata: "Mandikanlah dengan mengguyurkan air yang dicampur dengan daun bidara tiga kali, lima kali atau lebih dari itu jika kalian anggap perlu dan jadikanlah yang terakhirnya dengan kafur barus (wewangian) atau yang sejenis dari kapur barus (kamper). Dan bila kalian telah selesai beritahu aku". Berkata, Ummu 'Athiyyah radliallahu 'anha: "Ketika kami telah selesai, kami memberi tahu Beliau, kemudian Beliau memberikan kain, Beliau kepada kami seraya berkata: "Pakaikanlah ini kepadanya". Dan dari [Ayyub] dari [Hafshah] dari [Ummu 'Athiyyah radliallahu 'anha] dan dia berkata, bahwa Beliau bersabda: "Mandikanlah ia tiga kali, lima kali, tujuh kali atau lebih dari itu jika kalian anggap perlu ". Berkata, Hafshah telah berkata, Ummu 'Athiyyah radliallahu 'anha: "Kami kepang rambut kepala puteri Beliau dengan tiga kepang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1258</td></tr><tr><td>Arabic No</td><td>1258</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыйя, сказала: «Когда умерла одна из дочерей Пророка ﷺ он вышел и сказал: “Обмойте её трижды, или пять раз, или более того, если посчитаете нужным, отваром сидра, а в последний раз используйте камфару [или: немного камфары] и дайте мне знать, когда закончите”. Закончив обмывать её тело, мы сообщили ему об этом, а он дал нам свой изар и сказал: “Заверните её в это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1258</td></tr><tr><td>Arabic No</td><td>1258</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

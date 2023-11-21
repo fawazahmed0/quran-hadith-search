@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: Both parties in a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Al Laits] dari [Ibnu 'Ajlan] dari ['Amr bin Syu'aib] dari [ayahnya] dari [Abdullah bin 'Amr bin Al 'Ash] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dua orang yang saling berjual beli memiliki hak memilih selama mereka belum berpisah, kecuali jual beli tersebut adalah jual beli dengan syarat adanya hak memilih, dan tidak halal baginya untuk meninggalkan sahabatnya karena khawatir membatalkan jual beli
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>3456</td></tr><tr><td>Reference</td><td>Book 24 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра ибн аль-‘Ас, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Продавец и покупатель имеют право выбора, пока не разойдутся, если только речь не идёт о сделке, сопровождаемой предоставлением выбора, и участнику сделки не разрешается покидать своего товарища из опасения, что он выразит желание расторгнуть сделку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>3456</td></tr><tr><td>Reference</td><td>Book 24 Hadith 41</td></tr></tbody></table></div>
 

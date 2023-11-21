@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:Aisha the wife of the Prophet, said, "Allah's Messenger (ﷺ) use
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] Telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'dari] Telah menceritakan kepada kami [Anak saudaraku Ibnu Syihab] dari [pamannya] Telah mengabarkan kepadaku [Urwah] bahwanya [Aisyah radliallahu 'anha] Telah mengabarkan kepadanya, bahwasanya; Rasulullah shallallahu 'alaihi wasallam menguji kaum wanita yang berhijrah kepadanya dengan ayat ini: "Wahai sang Nabi, apabila wanita-wanita mukminat datang kepadaku hendak berbai'at -hingga firman-Nya- (Allah) Maha Pengampun dan juga Penyayang." (QS. Almumtahanah 2). Urwah berkata; Aisyah berkata; Wanita-wanita mukminat yang mengikrarkan syarat ini, maka Rasulullah shallallahu 'alaihi wasallam bersabda padanya: "Sesungguhnya aku telah membai'atmu." Yakni beliau membai'atnya hanya sebatas ungkapan. Dan demi Allah, tangan beliau tidak pernah menyentuh tangan seorang wanita pun dalam berbai'at. Beliau tidak pernah membaiat mereka kecuali dengan ungkapan: "Sungguh, aku telah membai'atmu atas perkataan itu." Hadits ini dikuatkan oleh [Yunus], [Ma'mar] dan [Abdurrahman bin Ishaq] dari [Az Zuhri]. Dan [Ishaq bin Rasyid] berkata; dari [Az Zuhri] dari [Urwah] dan ['Amrah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4891</td></tr><tr><td>Arabic No</td><td>4891</td></tr><tr><td>Reference</td><td>Book 65 Hadith 411</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ испытывал переселившихся к нему верующих женщин следующим аятом: “О те, кто уверовал! Когда к вам приходят переселяющиеся верующие женщины, подвергайте их испытанию…” до слов: “…Прощающий, Милосердный”».\n‘Урва сказал, что ‘Аиша сказала: «И той из них, кто соглашался с этим условием, Посланник Аллаха ﷺ говорил: “Я принял твою присягу”. Он говорил это словами, и клянусь Аллахом, его рука никогда не прикасалась к руке (чужой) женщины, он принимал их присягу только словами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4891</td></tr><tr><td>Arabic No</td><td>4891</td></tr><tr><td>Reference</td><td>Book 65 Hadith 411</td></tr></tbody></table></div>
 

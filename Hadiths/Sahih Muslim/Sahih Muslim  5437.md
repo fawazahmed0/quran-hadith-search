@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali b. Abu Talib reported that Allah's Messenger (ﷺ) forbade wearing of silk a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata; 'Aku membaca Hadits [Malik] dari [Nafi'] dari [Ibrahim bin 'Abdullah bin Hunain] dari [Bapaknya] dari ['Ali bin Abi Thalib]; "Bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang berpakaian yang dibordir (disulam) dengan sutera, memakai pakaian yang dicelup dengan warna kuning, memakai cincin emas, dan membaca Al Qur'an di saat ruku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5437</td></tr><tr><td>Arabic No</td><td>2078.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5437</td></tr><tr><td>Arabic No</td><td>2078.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 52</td></tr></tbody></table></div>
 

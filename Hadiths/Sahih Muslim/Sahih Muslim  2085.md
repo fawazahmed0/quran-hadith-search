@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ata' b. Rabah reported on the authority of 'A'isha, the wife of the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] ia berkata, saya mendengar [Ibnu Juraij] menceritakan dari [Atha' bin Abu Rabah] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa ia berkata; Apabila ada angin bertiup kencang sekali, maka Nabi shallallahu 'alaihi wasallam biasanya membaca: "ALLAHUMMA INNII ASALUKA KHAIRAHAA WA KHAIRA MAA FIIHAA WA KHAIRA MAA URSILAT BIHI WA A'UUDZU BIKA MIN SYARRIHAA WA SYARRI MAA FIIHAA WA SYARRI MAA URSILAT BIHI (Ya Allah, sungguh, aku memohon kepada-Mu kebaikan angin, kebaikan yang dikandungnya, dan kebaikan yang dibawanya. Dan aku berlindung kepada-Mu dari keburukannya, keburukan yang ada di dalamnya dan keburukan yang dibawanya)." Apabila langit gelap berawan, maka beliau akan kelihatan pucat, keluar masuk rumah, ke depan dan ke belakang. Dan jika hujan turun, beliau pun merasa lega, dan hal itu dapat diketahui dari raut wajahnya. Aisyah berkata; Saya menanyakan hal itu pada beliau, maka beliau berkata: "Wahai Aisyah, kalau cuaca seperti ini, saya khawatir jangan-jangan akan terjadi seperti apa yang diungkapkan oleh kaum 'Aad, 'Maka tatkala mereka melihat azab itu berupa awan yang menuju ke lembah-lembah mereka, berkatalah mereka: 'Inilah awan yang akan menurunkan hujan kepada kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2085</td></tr><tr><td>Arabic No</td><td>899.02</td></tr><tr><td>Reference</td><td>Book 9 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Когда начинал бушевать ветер, Пророк ﷺ обычно говорил: “О Аллах, я прошу Тебя о его благе, благе того, что он в себе несёт, и благе того, что с ним было послано, и прибегаю к Твоей защите от его зла, зла того, что он в себе несёт, и зла того, что с ним было послано!” /Аллахумма, инни асъалю-кя хайра-ха, ва хайра ма фи-ха, ва хайра ма урсилят би-хи, ва а’узу би-кя мин шарри-ха, ва шарри ма фи-ха, ва шарри ма урсилят би-хи!/ Когда небо покрывалось тучами, цвет (лица Пророка ﷺ) менялся, он выходил из дома и заходил обратно, ходил вперёд и назад, когда же начинался дождь, он успокаивался, о чём я узнавала по (выражению) его лица».(‘Аиша передала, что однажды) она спросила (Пророка ﷺ о причине этого), и он сказал: «О ‘Аиша, ведь, может быть, (это то, о чём) говорили ‘адиты! (Всевышний Аллах сказал): “Когда же они увидели его (наказание) в виде тучи, надвигающейся на их долины, они сказали: ‹Это туча, которая прольет на нас дождь›” (Сура «аль-Ахкаф», аят 24)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2085</td></tr><tr><td>Arabic No</td><td>899.02</td></tr><tr><td>Reference</td><td>Book 9 Hadith 16</td></tr></tbody></table></div>
 

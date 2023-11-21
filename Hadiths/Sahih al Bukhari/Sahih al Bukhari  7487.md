@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dharr:The Prophet (ﷺ) said, Gabriel came to me and gave me the gl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Washil] dari [Al Ma'rur] berkata, "Aku mendengar [Abu Dzar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jibril menemuiku dan memberiku kabar gembira, bahwasanya siapa saja yang meninggal dengan tidak menyekutukan Allah dengan sesuatu apapun, maka dia masuk surga." Maka saya bertanya, 'Meskipun dia mencuri dan berzina? ' Nabi menjawab: 'Meskipun dia mencuri dan juga berzina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7487</td></tr><tr><td>Arabic No</td><td>7487</td></tr><tr><td>Reference</td><td>Book 97 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зарр, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Ко мне явился Джибриль и обрадовал меня вестью о том, что тот, кто умрёт, не придавая в сотоварищи Аллаху ничего, войдет в Рай. Я спросил: “Даже если прелюбодействовал и воровал?” Он ответил: “Даже если прелюбодействовал и даже если воровал”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7487</td></tr><tr><td>Arabic No</td><td>7487</td></tr><tr><td>Reference</td><td>Book 97 Hadith 113</td></tr></tbody></table></div>
 

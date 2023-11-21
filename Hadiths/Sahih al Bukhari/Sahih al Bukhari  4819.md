@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ya'la:I heard the Prophet (ﷺ) reciting when on the pulpit: 'They will
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru] dari ['Atha] dari [Shafwan bin Ya'la] dari [Bapaknya] dia berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam di atas mimbar membaca ayat: Mereka berseru: "Hai Malik biarlah Tuhanmu membunuh kami saja." (Az Zukhruf: 77). Qatadah berkata; MATSALAN LIL AAKHARIIN; Yaitu pelajaran bagi orang-orang sesudah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4819</td></tr><tr><td>Arabic No</td><td>4819</td></tr><tr><td>Reference</td><td>Book 65 Hadith 341</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Я‘ля сказал: «Я слышал, как Пророк ﷺ, стоя на минбаре, читал аят :“Они воззовут: “О Малик (имя стража Ада)! Пусть твой Господь покончит с нами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4819</td></tr><tr><td>Arabic No</td><td>4819</td></tr><tr><td>Reference</td><td>Book 65 Hadith 341</td></tr></tbody></table></div>
 

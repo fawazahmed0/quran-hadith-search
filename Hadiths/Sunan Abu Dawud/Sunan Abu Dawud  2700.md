@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: Some slaves (of the unbelievers) went out to the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Yahya Al Harrani], telah menceritakan kepadaku [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Aban bin Shalih], dari [Manshur bin Al Mu'tamir], dari [Rib'I bin Hirasy] dari [Ali bin Abu Thalib], ia berkata; terdapat bebeorang orang budak keluar menemui Rasulullah shallallahu 'alaihi wasallam pada saat terjadinya perjanjian Hudaibiyah sebelum terjadinya perdamaian, kemudian tuan-tuan mereka menulis surat kepada beliau dan berkata; wahai Muhammad! Demi Allah, tidaklah mereka keluar kepadamu karena senang kepada agamu, melainkan mereka keluar karena kabur dari perbudakan. Kemudian orang-orang berkata; mereka benar wahai Rasulullah! Kembalikan budak-budak tersebut kepada mereka! Maka Rasulullah shallallahu 'alaihi wasallam marah dan berkata: "Aku melihat kalian tidak akan berhenti wahai orang-orang Quraisy hingga Allah mengutus orang yang akan memenggal leher kalian." Dan beliau menolak untuk mengembalikan mereka, dan beliau berkata: "Mereka adalah orang-orang telah Allah 'azza wajalla bebaskan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2700</td></tr><tr><td>Arabic No</td><td>2700</td></tr><tr><td>Reference</td><td>Book 15 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2700</td></tr><tr><td>Arabic No</td><td>2700</td></tr><tr><td>Reference</td><td>Book 15 Hadith 224</td></tr></tbody></table></div>
 

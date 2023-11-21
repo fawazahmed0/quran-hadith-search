@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: In the year of al-Hudaybiyyah, the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [An Nufaili], telah menceritakan kepada Kami [Muhammad bin Salamah] telah menceritakan kepada Kami [Muhammad bin Ishaq], dan telah diriwayatkan melalui jalur yang lain: Telah menceritakan kepada Kami [Muhammad bin Al Minhal], telah menceritakan kepada Kami [Yazid bin Zurai'] dari [Ibnu Ishaq] secara makna, ia berkata; [Abdullah yaitu Ibnu Abu Najih] berkata; telah menceritakan kepada Kami [Mujahid] dari [Ibnu Abbas] bahwa Rasulullah shallAllahu wa'alaihi wa sallam berkurban dengan unta yang dahulu adalah milik Abu Jahl pada tahun terjadinya perjanjian Al Hudaibiyah diantara hewan-hewan kurban beliau. Pada kepala unta tersebut terdapat perak sebesar satu biji gandum. Ibnu Minhal berkata; emas sebesar biji gandum. An Nufaili menambahkan; hal tersebut menyebabkan orang-orang musyrik marah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1749</td></tr><tr><td>Arabic No</td><td>1749</td></tr><tr><td>Reference</td><td>Book 11 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что в день Худайбии среди жертвенных верблюдов Посланника Аллаха ﷺ был верблюд, ранее принадлежавший Абу Джахлю, с серебряным [или: золотым] кольцом в носу его взяли, чтобы позлить язычников
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1749</td></tr><tr><td>Arabic No</td><td>1749</td></tr><tr><td>Reference</td><td>Book 11 Hadith 29</td></tr></tbody></table></div>
 

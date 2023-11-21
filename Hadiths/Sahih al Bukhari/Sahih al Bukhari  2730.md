@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When the people of Khaibar dislocated 'Abdullah bin 'Umar's h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Ahmad Marrar bin Hammuyah] telah bercerita kepada kami [Muhammad binYahya Abu Ghossan Al Kinaniy] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata: Ketika penduduk Khaibar membuat tangan 'Abdullah bin 'Umar radliallahu 'anhuma terkilir, ['Umar] berdiri menyampaikan khotbah lalu berkata: "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam dahulu membuat kesepakatan kerja dengan orang Yahudi Khaibar untuk mengerjakan harta mereka (lahan) dimana Beliau berkata: "Kami tetapkan sebagaimana Allah menetapkannya atas kalian". Dan bahwa pada suatu hari 'Abdullah bin 'Umar keluar untuk bekerja pada lahan miliknya disana lalu dia di malam hari diperlakukan secara kasar hingga tangan dan kakinya terkilir (bergeser dari sendinya) padahal disana kami tidak memiliki musuh selain mereka (penduduk Khaibar). Merekalah musuh kami dan pihak yang kami curigai dan aku sudah bertekad untuk mengusir mereka". Ketika 'Umar sudah membulatkan tekadnya ada seorang dari suku Banu Abi Al Huqoiq yang datang kepadanya lalu berkata: 'Wahai amirul mu'minin, apakah anda akan mengusir kami padahal Muhammad shallallahu 'alaihi wasallam telah membuat perjanjian kerja dengan kami atas harta-harta (kebun) dan juga membuat persyaratan (pembagian hasil) tentangnya". Maka 'Umar berkata: "Apakah kamu menduga bahwa aku telah lupa dengan sabda Rasulullah shallallahu 'alaihi wasallam itu? Yaitu; "Bagaimana kamu seandainya diusir dari Khaibar lalu unta betinamu membawamu lari malam demi malam?" Orang itu berkata: "Ini hanyalah gurauan dari Abu Al Qosim". 'Umar berkata: "Kamu berdusta wahai musuh Allah". Maka 'Umar mengusir mereka dan memberi ganti harga buah-buahan yang menjadi hak mereka dengan uang, unta, barang-barang, pelana, tali kekang dan lainnya. Dan diriwayakan oleh [Hammad bin Salamah] dari ['Ubaidullah]; Aku menduga dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] dari ['Umar] dari Nabi shallallahu 'alaihi wasallam yang diriwayatkannya secara singkat/ringkas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2730</td></tr><tr><td>Arabic No</td><td>2730</td></tr><tr><td>Reference</td><td>Book 54 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «После того как жители Хайбара вывихнули руки и ноги ‘Абдуллаху бин ‘Умару, ‘Умар обратился к людям с проповедью и сказал: “Поистине, Посланник Аллаха ﷺ заключил с иудеями Хайбара договор относительно их имущества, сказав (им): “Мы оставим вас (здесь), пока оставляет вас Аллах”. (Что же касается) ‘Абдуллаха бин Умара, то он поехал туда за своим имуществом, но на него напали ночью и вывихнули ему руки и ноги, а (поскольку) там у нас нет врагов, кроме них, и они являются нашими врагами и только их мы можем подозревать (в этом), я принял решение выселить их (оттуда)”».\nА после того как ‘Умар принял это решение, к нему пришёл один из сыновей Абу-ль-Хукайка и сказал: «О повелитель правоверных, неужели ты изгонишь нас (из Хайбара) после того, как Мухаммад ﷺ позволил нам остаться, и заключил с нами договор о нашем имуществе и поставил нам условия(, на которых мы могли оставаться здесь)?!» ‘Умар сказал: «Неужели ты думаешь, что я забыл слова Посланника Аллаха ﷺ (который сказал): “Как ты будешь чувствовать себя, если тебя изгонят из Хайбара и твоя верблюдица станет везти тебя ночь за ночью?”» (Иудей) сказал: «Это была (только) шутка Абуль-Касима». ‘Умар воскликнул: «Ты лжёшь, о враг Аллаха!» — после чего изгнал (из Хайбара иудеев), возместив им стоимость их фиников деньгами, верблюжьими сёдлами, верёвками и прочими вещами
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2730</td></tr><tr><td>Arabic No</td><td>2730</td></tr><tr><td>Reference</td><td>Book 54 Hadith 18</td></tr></tbody></table></div>
 

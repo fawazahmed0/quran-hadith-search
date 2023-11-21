@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Tawus reported:I was in the company of Ibn Abbas (Allah be pleased with them) wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepadaku [Yahya bin Sa'id] dari [Ibnu Juraij] telah mengabarkan kepadaku [Al Hasan bin Muslim] dari [Thawus] ia berkata; Aku pernah bersama-sama dengan [Ibnu Abbas], tiba-tiba Zaid bin Tsabit berakata, "Apakah Anda berfatwa bahwa seorang wanita yang sedang haid boleh pulang sebelum melakukan thawaf wada' di Baitullah?" Ibnu Abbas menjawab, "Kalau kamu tidak percaya, maka tanyakanlah kepada Si Fulanah Al Anshariyah. Apakah Rasulullah shallallahu 'alaihi wasallam menyuruhnya untuk berbuat seperti itu?" Maka Zaid bin Tsabit pun kembali kepada Ibnu Abbas seraya tertawa dan berkata, "Tidaklah aku melihatmu, kecuali pasti Anda telah berkata benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3221</td></tr><tr><td>Arabic No</td><td>1328.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 425</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3221</td></tr><tr><td>Arabic No</td><td>1328.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 425</td></tr></tbody></table></div>
 

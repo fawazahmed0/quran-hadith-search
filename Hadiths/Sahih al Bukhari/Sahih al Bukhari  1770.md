@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn ' 'Abbas:Dhul-Majaz and 'Ukaz were the markets of the people during
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Al Haitsam] telah mengabarkan kepada kami [Ibnu Juraij] telah berkata, ['Amru bin Dinar] berkata, [Ibnu 'Abbas radliallahu 'anhuma]: "Dzul Majaz dan Ukazh adalah tempat berdagang orang-orang pada masa jahiliyah. Ketika Islam datang seakan-akan mereka membenci tempat itu, hingga turunlah QS AL Baqarah ayat 195 yang artinya: ("Tidak ada dosa bagi kalian jika kalian mencari karunia(rezeqi hasil perniagaan) dari Rabb kalian"), yaitu pada musim haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1770</td></tr><tr><td>Arabic No</td><td>1770</td></tr><tr><td>Reference</td><td>Book 25 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Зуль-Маджаз и ‘Указ были рынками людей в доисламский период невежества /джахилии/. Когда же пришёл ислам, мусульмане стали считать греховным торговлю на этих рынках (во время хаджа) до тех пор, пока не был ниспослан (аят, в котором говорится): “На вас нет греха, если вы ищете милость от своего Господа” (сура “аль-Бакара”, аят 198), то есть в сезон хаджа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1770</td></tr><tr><td>Arabic No</td><td>1770</td></tr><tr><td>Reference</td><td>Book 25 Hadith 246</td></tr></tbody></table></div>
 

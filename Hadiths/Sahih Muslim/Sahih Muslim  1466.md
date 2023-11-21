@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:The Messenger of Allah (ﷺ) said to me: O Abu Dharr, you wou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], telah mengabarkan kepada kami [Ja'far bin Sulaiman] dari [Abu Imran Al Jauni] dari [Abdulah bin Shamit] dari [Abu Dzar] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Wahai Abu Dzar, sepeninggalku nanti, akan muncul para penguasa yang mengakhirkan shalat, maka tunaikanlah shalat tepat pada waktunya, jika kamu mendapati (mereka) shalat tepat pada waktunya, maka kamu mendapatkan pahala sunnah, kalaupun tidak, berarti kamu telah menjaga shalatmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1466</td></tr><tr><td>Arabic No</td><td>648.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 299</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ спросил меня: “О Абу Зарр, поистине, после меня будут правители, которые умертвят молитву, так совершай же (каждую обязательную) молитву в (лучшее для неё) время, и если ты совершишь молитву в (лучшее для неё) время, то (эта молитва зачтётся тебе как) дополнительная, в противном же случае, ты уже достиг (цели) своей молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1466</td></tr><tr><td>Arabic No</td><td>648.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 299</td></tr></tbody></table></div>
 

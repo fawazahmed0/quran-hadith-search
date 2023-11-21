@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uthman b. Abu al-'As reported that he came to Allah's Messenger (ﷺ) and said:A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Khalaf Al Bahili]; Telah menceritakan kepada kami ['Abdu A'la] dari [Sa'id Al Jurari] dari [Abu Al A'la] bahwa ['Utsman bin Abu Al 'Ash] datang kepada Nabi shallallahu 'alaihi wasallam lalu bertanya; "Ya, Rasulullah! Aku sering diganggu setan dalam shalat, sehingga bacaanku menjadi kacau karenanya. Bagaimana itu?" Maka bersabda Rasulullah shallallahu 'alaihi wasallam: 'Ya, yang demikian itu memang gangguan setan yang dinamakan Khanzab. Karena itu bila engkau diganggunya, maka segeralah mohon perlindungan kepada Allah dari godaannya, sesudah itu meludah ke sebelah kirimu tiga kali! ' Kata Usman; 'Setelah kulakukan yang demikian, maka dengan izin Allah godaan seperti itu hilang.' Telah menceritakannya kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Salim bin Nuh] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Abu Usamah] keduanya dari [Al Jurairi] dari [Abu Al A'la] dari ['Utsman bin Abu Al 'Ash] bahwa dia menemui Nabi shallallahu 'alaihi wasallam (kemudian dia menyebutkan Hadits yang serupa). Namun di dalam Hadits Salim bin Nuh dia tidak menyebutkan 'tiga kali.' Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Sufyan] dari [Sa'id Al Jurairi]; Telah menceritakan kepada kami [Yazid bin 'Abdullah bin Asy Syakhikhiri] dari ['Utsman bin Abu Al 'Ash Ats Tsaqafi] dia berkata; 'Aku berkata; 'Ya Rasulullah ……………(kemudian dia menyebutkan Hadits yang serupa dengan mereka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5738</td></tr><tr><td>Arabic No</td><td>2203.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5738</td></tr><tr><td>Arabic No</td><td>2203.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 92</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qatadah said “We went out with the Apostle of Allaah(ﷺ) in the year of H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi], dari [Malik] dari [Yahya bin Sa'id] dari [Umar bin Katsir bin Aflah], dari [Abu Muhammad], mantan budak Abu Qatadah, dari [Abu Qatadah], ia berkata; kami keluar bersama Rasulullah shallallahu 'alaihi wasallam pada tahun terjadinya perang Hunain. Kemudian tatkala kami bertemu, orang-orang muslim datang pergi. Ia berkata; kemudian saya melihat seorang laki-laki dari kalangan musyrikin telah mengalahkan seorang muslim. Ia berkata; kemudian aku mengitarinya hingga aku mendatanginya dari belakang. Kemudian aku menebasnya dengan pedang pada urat pundaknya. Kemudian ia menghadap kepadaku dan ia memelukku dan aku dapatkan darinya bau kematian. Kemudian ia mati dan melepaskanku. Lalu aku menyusul kepada Umar dan aku katakan kepadanya; bagaimana pendapat orang-orang? Ia berkata; terdapat perintah Allah. Kemudian orang-orang kembali dan Rasulullah shallallahu 'alaihi wasallam duduk. Beliau mengatakan: "Barangsiapa yang membunuh seseorang dengan memiliki bukti maka baginya salabnya (segala yang melekat pada tubuhnya)." Abu Qatadah berkata; lalu aku berdiri kemudian aku katakan; siapakah yang memberikan persaksian untukku? Kemudian aku duduk, lalu beliau mengatakan hal tersebut yang kedua kalinya: "Barangsiapa yang membunuh seseorang dengan memiliki bukti, maka baginya salabnya (segala yang melekat pada tubuhnya)." Abu Qatadah berkata; lalu aku berdiri kemudian aku katakan; siapakah yang memberikan persaksian untukku? Kemudian aku duduk, lalu beliau mengatakan hal tersebut yang ketiga kalinya. Lalu aku berdiri dan Rasulullah shallallahu 'alaihi wasallam berkata: "Ada apa denganmu wahai Abu Qatadah?" Abu Qatadah berkata; lalu aku ceritakan kisah tersebut kepada beliau. Lalu terdapat seseorang yang berkata; ia benar wahai Rasulullah, dan salab orang yang terbunuh tersebut ada padaku maka relakan kepadanya! Lalu Abu Bakr Ash Shiddiq berkata; tidak, demi Allah, hal tersebut tidak terjadi, jika demikian ia menjatuhkan gelar singa diantara singa Allah yang bertempur membela Allah dan RasulNya, kemudian memberimu salabnya? Maka Rasulullah shallallahu 'alaihi wasallam berkata: "Ia benar, berikan kepadanya salab tersebut." Abu Qatadah berkata; kemudian beliau memberiku salab tersebut, lalu aku menjual baju zirah dan aku belikan kebun di antara Bani Salamah. Sesungguhnya hal tersebut merupakan harta pertama yang aku kumpulkan di masa Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2100) Sahih Muslim (1751)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2717</td></tr><tr><td>Arabic No</td><td>2717</td></tr><tr><td>Reference</td><td>Book 15 Hadith 241</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2100) Sahih Muslim (1751)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2717</td></tr><tr><td>Arabic No</td><td>2717</td></tr><tr><td>Reference</td><td>Book 15 Hadith 241</td></tr></tbody></table></div>
 

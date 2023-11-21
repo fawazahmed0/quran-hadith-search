@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Sa'ib bin Yazid:I was standing in the mosque and somebody threw a gr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] berkata, telah menceritakan kepada kami [Al Ju'aid bin 'Abdurrahman] berkata, telah menceritakan kepadaku [Yazid bin Khushaifah] dari [As Sa'ib bin Yazid] berkata, "Ketika aku berdiri di dalam masjid tiba-tiba ada seseorang melempar aku dengan kerikil, dan ternyata setelah aku perhatikan orang itu adalah ' [Umar bin Al Khaththab]. Dia berkata, "Pergi dan bawalah dua orang ini kepadaku." Maka aku datang dengan membawa dua orang yang dimaksud, Umar lalu bertanya, "Siapa kalian berdua?" Atau "Dari mana asalnya kalian berdua?" Keduanya menjawab, "Kami berasal dari Tha'if" 'Umar bin Al Khaththab pun berkata, "Sekiranya kalian dari penduduk sini maka aku akan hukum kalian berdua! Sebab kalian telah meninggikan suara di Masjid Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>470</td></tr><tr><td>Arabic No</td><td>470</td></tr><tr><td>Reference</td><td>Book 8 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Саиб ибн Язид, да будет доволен им Аллах, сказал: «(Однажды когда) я находился в мечети, кто-то кинул в меня камешком. (Обернувшись,) я увидел, что это был ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, который сказал (мне): “Ступай и приведи ко мне тех двоих”, — и я привёл их к нему, а он спросил: “Кто вы?” или (он сказал): “Откуда вы?” Они ответили: “(Мы) из числа жителей Таифа”. Тогда (‘Умар, да будет доволен им Аллах,) сказал: “Будь вы жителями этого города, я бы обязательно (подверг вас наказанию за то, что) вы повышаете голоса в мечети Посланника Аллаха ﷺ!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>470</td></tr><tr><td>Arabic No</td><td>470</td></tr><tr><td>Reference</td><td>Book 8 Hadith 118</td></tr></tbody></table></div>
 

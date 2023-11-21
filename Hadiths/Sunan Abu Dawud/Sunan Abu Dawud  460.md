@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported (Abu Bakr said that in his opinion he narrated this tradit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ishaq Abu Bakar Ash Shaghani] telah menceritakan kepada kami [Abu Badr Syuja' bin Al Walid] telah menceritakan kepada kami [Syarik] telah menceritakan kepada kami [Abu Hushain] dari [Abu Shalih] dari [Abu Hurairah]. Abu Badr berkata; Saya mengira dia memarfu'kan hadits ini kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya kerikil-kerikil itu akan meminta (dengan Nama Allah) kepada orang yang mengeluarkannya dari Masjid (agar tidak dikeluarkan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>460</td></tr><tr><td>Arabic No</td><td>460</td></tr><tr><td>Reference</td><td>Book 2 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал (Абу Бадр сказал: «И я думаю, что он возвел (этот хадис) к Пророку ﷺ»): «Поистине, камешки заклинают (именем Аллаха не делать этого) того, кто выносит их из мечети»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>460</td></tr><tr><td>Arabic No</td><td>460</td></tr><tr><td>Reference</td><td>Book 2 Hadith 70</td></tr></tbody></table></div>
 

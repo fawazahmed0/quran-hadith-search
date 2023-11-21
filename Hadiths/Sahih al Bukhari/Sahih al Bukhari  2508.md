@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:No doubt, the Prophet (ﷺ) mortgaged his armor for barley grams. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Qatadah] dari [Anas radliallahu 'anhu] berkata; Sungguh Nabi shallallahu 'alaihi wasallam telah menggadaikan baju besi Beliau untuk mendapatkan gandum dan aku pernah di sore hari menenmui Nabi shallallahu 'alaihi wasallam dengan membawa rati terbuat gandum dengan sayur yang telah basi dan aku pernah mendengar Beliau bersabda: "Keluarga Muhammad tidak pernah menemui pagi dengan menyisakan makanan kecuali satu sha' begitu juga pada sore hari". Padahal mereka ada sembilan rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2508</td></tr><tr><td>Arabic No</td><td>2508</td></tr><tr><td>Reference</td><td>Book 48 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ отдал в залог свою кольчугу за ячмень. И я понёс Пророку ﷺ ячменный хлеб с прогорклым масло. Я слышал, как (Пророк ﷺ) сказал: “Не осталось у семейства Мухаммада ни одного са‘, хотя есть у него девять жён”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2508</td></tr><tr><td>Arabic No</td><td>2508</td></tr><tr><td>Reference</td><td>Book 48 Hadith 1</td></tr></tbody></table></div>
 

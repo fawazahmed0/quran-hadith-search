@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:When the time of the Battle of Uhud approached, my father called 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah mengabarkan kepada kami [Bisyir bin Al Mufadhdhal] telah menceritakan kepada kami [Husain AL Mu'alim] dari ['Atha'] dari [Jabir radliallahu 'anhu] berkata; Ketika terjadi perang Uhud, pada suatu malamnya bapakku memanggilku seraya berkata,: "Tidaklah aku melihat diriku (menduga) melainkan aku akan menjadi orang yang pertama-tama gugur diantara para sahabat Nabi Shallallahu'alaihiwasallam (dalam peperangan ini) dan aku tidak meninggalkan sesuatu yang berharga bagimu sepeninggalku melainkan diri Rasulullah Shallallahu'alaihiwasallam. Dan aku mempunyai hutang, maka lunasilah dan berilah nasehat yang baik kepada saudara-saudaramu yang perempuan". Pada pagi harinya kami dapati bapakku adalah orang yang pertama gugur dan dikuburkan bersama dengan yang lain dalam satu kubur. Setelah itu perasaanku tidak enak dengan membiarkan dia bersama yang lain, maka kemudian aku keluarkan setelah enam bulan lamanya dari hari pemakamannya dan aku dapati jenazah bapakku masih utuh sebagaimana hari dia dikebumikan dan tidak ada yang berubah padanya kecuali sedikit pada ujung bawah telinganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1351</td></tr><tr><td>Arabic No</td><td>1351</td></tr><tr><td>Reference</td><td>Book 23 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Когда приблизилось время битвы при Ухуде, мой отец позвал меня ночью и сказал: “Я думаю, что буду первым среди сподвижников Пророка ﷺ кто будет убит. И я не оставляю после себя никого более дорогого мне, чем ты, кроме Посланника Аллаха ﷺ. У меня есть долг, покрой его за меня. И относись хорошо к своим сестрам”. Итак, утром он был первым кто был убит. И с ним вместе, в одной могиле был похоронен другой человек. Я не хотел оставлять его с другим человеком, поэтому я выкопал его из могилы через шесть месяцев после его похорон, и он был в подобном состоянии, что и в день похорон, за исключением уха (оно изменилось)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1351</td></tr><tr><td>Arabic No</td><td>1351</td></tr><tr><td>Reference</td><td>Book 23 Hadith 105</td></tr></tbody></table></div>
 

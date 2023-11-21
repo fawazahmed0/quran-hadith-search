@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:We proceeded with the Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] Telah menceritakan kepada kami [Ishaq bin Sulaiman] dari [Aflah bin Humaid] dari [Al Qasim] dari [Aisyah] radliallahu 'anha, ia berkata; Kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam di bulan-bulan haji untuk menunaikan Ibadah haji, melewati hari dan malam-malam haji hingga kami singgah di Saraf. Kemudian beliau pun keluar menemui para sahabatnya dan bersabda: "Siapa yang tidak membawa Hadyu (hewan kurban) dan ia suka bila menjadikan (ihramnya) sebagai Umrah, maka hendaklah ia melakukannya. Sedangkan siapa yang mempunyai hadyu (hewan kurban) maka janganlah ia melakukannya." Maka sebagian sahabat pun ada yang melakukannya, dan sebagian yang lain ada juga yang tidak, yakni mereka yang tidak membawa hadyu. Adapun Rasulullah shallallahu 'alaihi wasallam, maka beliau membawa hadyu, demikian juga beberapa sahabatnya yang kuat. Kemudian Rasulullah shallallahu 'alaihi wasallam masuk menemuiku (ke dalam kemahku), sementara saat itu aku sedang menangis, maka beliau pun bertanya: "Apa yang menyebabkanmu menangis?" Aku menjawab, "Aku telah mendengar ungkapan Anda dengan para sahabat, maka aku pu mendengar ucapan umrah." Beliau bertanya lagi: "Ada apa denganmu?" Aku menjawab, "(Sekatang) aku tidak shalat (karena sedang haidl)." Akhirnya beliau bersabda: "Hal itu tidaklah merugikanmu, lakukanlah ibadah hajimu. Semoga Allah memberimu pahala umrah. Kamu hanyalah anak ketururan Adam yang Allah telah tetapkan sebagaimana apa yang ditetapkan pada kaum wanita." Lalu aku pun keluar untuk haji hingga kami singgah di Mina. Kemudian aku bersuci dan melakukan thawaf di Baitullah, dan Rasulullah Shallahu 'Alaihi wa Sallam singgah di Al Muhashshab. Lalu beliau memanggil Abdurrahman bin Abu Bakar dan bersabda: "Keluarlah bersama saudara perempuanmu dari Al Haram hingga ia dapat melakukan ihram untuk umrah dan thawaf di Baitullah, sedangkan aku menunggu kalian berdua di tempat ini." Akhirnya kami segera keluar, lalu aku berihram (untuk umrah) dan melakukan thawaf di Baitullah serta Sa'i antara Shafa dan Marwa. Sesudah itu, kami kembali menemui Rasulullah shallallahu 'alaihi wasallam di tempat persinggahannya yakni di malam hari. Lalu beliau bertanya: "Apakah kamu telah selesai (mengerjakan umrah)?" Aku menjawab, "Ya." Akhirnya beliau mengungumkan kepada para sahabatnya untuk melanjutkan perjalanan. Kemudian beliau melewati Baitulalh, maka beliau pun thawaf di Ka'bah sebelum shalat Shubuh dan barulah beliau keluar menuju Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2922</td></tr><tr><td>Arabic No</td><td>1211.13</td></tr><tr><td>Reference</td><td>Book 15 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2922</td></tr><tr><td>Arabic No</td><td>1211.13</td></tr><tr><td>Reference</td><td>Book 15 Hadith 131</td></tr></tbody></table></div>
 

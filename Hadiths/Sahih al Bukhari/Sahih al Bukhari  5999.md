@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:Some Sabi (i.e. war prisoners, children and woman 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Maryam] telah menceritakan kepada kami [Abu Ghassan] dia berkata; telah menceritakan kepadaku [Zaid bin Aslam] dari [Ayahnya] dari [Umar bin Al Khatthab] radliallahu 'anhu (katanya); "Rasulullah shallallahu 'alaihi wasallam pernah memperoleh beberapa orang tawanan perang. Ternyata dari tawanan tersebut ada seorang perempuan yang biasa menyusui anak kecil, apabila dia mendapatkan anak kecil dalam tawanan tersebut, maka ia akan mengambilnya dan menyusuinya, lalu Nabi shallallahu 'alaihi wasallam bersabda kepada kami: 'Menurut kalian, apakah perempuan itu tega melemparkan bayinya ke dalam api? ' Kami menjawab; 'Sesungguhnya ia tidak akan tega melemparkan anaknya ke dalam api selama ia masih sanggup menghindarkannya dari api tersebut.' Lalu beliau bersabda: 'Sungguh, kasih sayang Allah terhadap hamba-Nya melebihi kasih sayang perempuan itu terhadap anaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5999</td></tr><tr><td>Arabic No</td><td>5999</td></tr><tr><td>Reference</td><td>Book 78 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «(В своё время) к Пророку ﷺ привели пленных, среди которых была одна женщина, кормившая (детей) грудью, и когда она находила среди пленных какого-нибудь ребёнка, то брала его, прижимала к себе и кормила грудью. (Увидев это,) Пророк ﷺ спросил нас: “Как вы думаете, (способна ли) эта (женщина) бросить в огонь своего ребёнка?” Мы сказали: “Нет, если только будет в её силах (избежать этого)”. Тогда он ﷺ сказал: “А Аллах жалеет Своих рабов больше, чем эта (женщина жалеет) своего ребёнка”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5999</td></tr><tr><td>Arabic No</td><td>5999</td></tr><tr><td>Reference</td><td>Book 78 Hadith 30</td></tr></tbody></table></div>
 

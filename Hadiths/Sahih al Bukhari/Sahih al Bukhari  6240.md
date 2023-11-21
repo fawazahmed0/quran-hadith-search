@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) 'Umar bin Al-Khattab used to say to Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ayahku] dari [Shalih] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Urwah bin Az Zubair] bahwa [Aisyah] radliallahu 'anha isteri Nabi shallallahu 'alaihi wasallam berkata; "Umar bin Khatthab pernah berkata kepada Nabi shallallahu 'alaihi wasallam; "Tolong, perintahkanlah para isteri anda untuk berhijab." Aisyah melanjutkan; "Namun beliau tidak melakukannya, sedangkan isteri-isteri Nabi shallallahu 'alaihi wasallam juga biasa keluar pada malam hari ke tempat untuk buang hajat. Maka isteri beliau, Saudah binti Zam'ah keluar, ia adalah wanita yang berpostur tinggi, lalu 'Umar bin Khatthab melihatnya ketika ia berada di Majlis, katanya; 'Hai Saudah! Kami mengenalimu! ' 'Sesungguhnya 'Umar menegurnya hanya karena dia ingin semoga ayat hijab segera turun. Kata 'Aisyah; 'Memang, tidak lama kemudian Allah 'azza wajalla menurunkan ayat hijab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6240</td></tr><tr><td>Arabic No</td><td>6240</td></tr><tr><td>Reference</td><td>Book 79 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, жена Пророка ﷺ, сказала: «‘Умар ибн аль-Хаттаб говорил Посланнику Аллаха ﷺ: “Заставляй своих жён надевать покрывала”, но он этого не делал. Обычно (для удовлетворения большой нужды) жёны Пророка ﷺ выходили по ночам на аль-Манасы‘ (место близ кладбища аль-Бакы‘ в Медине). Сауда бинт Зам‘а была высокой женщиной, и когда она вышла (из дома), ‘Умар ибн аль-Хаттаб, который сидел вместе с людьми, увидел её и сказал: “Поистине, мы узнали тебя, о Сауда”. (Он сделал это,) желая, чтобы было ниспослано (откровение о необходимости ношения) покрывала, и Великий и Могучий Аллах (действительно) ниспослал аят (о ношении покрывала)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6240</td></tr><tr><td>Arabic No</td><td>6240</td></tr><tr><td>Reference</td><td>Book 79 Hadith 14</td></tr></tbody></table></div>
 

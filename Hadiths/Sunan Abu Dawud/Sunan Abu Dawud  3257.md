@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thabit bin Adh-Dahhak:That he took oath of allegiance to the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah Ar Rabi' bin Nafi'], telah menceritakan kepada kami [Mu'awiyah bin Salam], dari [Yahya bin Abu Katsir], ia berkata; telah mengabarkan kepadaku [Abu Qilabah] bahwa [Tsabit bin Adh Dhahhak] telah mengabarkan kepadanya bahwa ia telah membai'at Rasulullah shallallahu 'alaihi wasallam di bawah pohon, bahwa Rasulullah shallallahu 'alaihi wasallam berkata: "Barangsiapa yang bersumpah dengan agama selain agama Islam secara dusta maka ia sebagaima yang ia katakan. Barang siapa yang membunuh dirinya dengan sesuatu maka ia akan diadzab dengan sesuatu tersebut pada Hari Kiamat. Dan tidak ada nadzar bagi seseorang dalam perkara yang tidak ia mampu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4171) Sahih Muslim (110)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3257</td></tr><tr><td>Arabic No</td><td>3257</td></tr><tr><td>Reference</td><td>Book 22 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Бурайды, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если поклявшийся, что он не имеет отношения к исламу, лжёт, то он в действительности такой, как он о себе сказал. А если он сказал правду, то он никогда не вернётся в ислам здравым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4171) Sahih Muslim (110)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3257</td></tr><tr><td>Arabic No</td><td>3257</td></tr><tr><td>Reference</td><td>Book 22 Hadith 16</td></tr></tbody></table></div>
 

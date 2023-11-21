@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported:While the Messenger of Allah (ﷺ) was delivering (a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Isma'il bin Salim] telah mengabarkan kepada kami [Husyaim] telah mengabarkan kepada kami [Hushaim] dari [Abu Sufyan] dan [Salim bin Abul Ja'di] dari [Jabir bin Abdullah] ia berkata; Ketika Nabi shallallahu 'alaihi wasallam berdiri menyampaikan khutbah pada hari Jum'at, tiba-tiba datanglah suatu Kafilah dagang ke Madinah, maka para sahabat Rasulullah shallallahu 'alaihi wasallam bergegas mendatanginya hingga tidak tersisa lagi orang yang bersamanya kecuali dua belas orang. Di antara mereka ada Abu Bakar dan Umar. Maka turunlah ayat ini: "Dan apabila mereka melihat perniagaan atau permainan, mereka bubar untuk menuju kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2000</td></tr><tr><td>Arabic No</td><td>863.04</td></tr><tr><td>Reference</td><td>Book 7 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн ‘Абдуллах сказал: «(Однажды,) в пятницу, когда Пророк ﷺ стоял (произнося хутбу), в Медину прибыл караван. Сподвижники Посланника Аллаха ﷺ поспешно вышли к нему, и с ним осталось только двенадцать человек, среди которых был Абу Бакр и ‘Умар. Тогда был ниспослан этот аят: “Когда же они увидели торговлю или забаву, они разошлись, бросившись к ней, и оставили тебя стоять” ( Сура «аль-Джуму‘а», аят 11)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2000</td></tr><tr><td>Arabic No</td><td>863.04</td></tr><tr><td>Reference</td><td>Book 7 Hadith 50</td></tr></tbody></table></div>
 

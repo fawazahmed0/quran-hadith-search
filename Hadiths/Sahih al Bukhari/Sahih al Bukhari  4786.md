@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) when Allah's Messenger (ﷺ) was order
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4786</td></tr><tr><td>Arabic No</td><td>4786</td></tr><tr><td>Reference</td><td>Book 65 Hadith 308</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Посланнику Аллаха ﷺ было приказано предоставить выбор его жёнам, я была первая, с кого он начал, сказав: “Я хочу кое-что сказать тебе, но не торопись с ответом, пока не посоветуешься со своими родителями”. А он знал, что мои родители никогда не посоветуют мне оставить его. Затем Пророк ﷺ сказал: “Поистине, Великий Аллах сказал: “О Пророк! Скажи своим женам: “Если вы желаете мирской жизни и ее украшений…” до слов: “…великую награду”. Я сказала: “И о чём же мне нужно советоваться с родителями? Я выбираю Аллаха, Его посланника и Последнюю обитель”. Затем остальные жёны поступили так же, как я»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4786</td></tr><tr><td>Arabic No</td><td>4786</td></tr><tr><td>Reference</td><td>Book 65 Hadith 308</td></tr></tbody></table></div>
 

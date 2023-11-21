@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ And narrated Sad that the Prophet (ﷺ) said to 'Ali, "Will you not be pleased f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] dari [Sa'ad] berkata, aku mendengar [Ibrahim bin Sa'ad] dari [bapaknya] berkata, Nabi shallallahu 'alaihi wasallam kepada 'Ali: "Apakah kamu tidak ridla bila kedudukanmu terhadapku seperti kedudukan Harun terhadap Musa 'alaihimas salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3706</td></tr><tr><td>Arabic No</td><td>3706</td></tr><tr><td>Reference</td><td>Book 62 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Са‘да ибн Аби Ваккаса, что Пророк ﷺ сказал ‘Али: «Разве не согласен ты занять при мне такое же место, какое Харун занимал при Мусе?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3706</td></tr><tr><td>Arabic No</td><td>3706</td></tr><tr><td>Reference</td><td>Book 62 Hadith 56</td></tr></tbody></table></div>
 

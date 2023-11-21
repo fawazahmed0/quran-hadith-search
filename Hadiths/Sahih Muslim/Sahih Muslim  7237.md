@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Zaynab bint Jahch (que Dieu soit satisfait d'elle), Un jour, le Prophè
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengkhabarkan kepada kami [Ibnu Wahb] telah mengkhabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengkhabarkan kepadaku [Urwah bin Az Zubair] bahwa [Zainab binti Abu Salamah] telah mengkhabarkan kepadanya bahwa [Ummu Habibah binti Abu Sufyan] telah mengkhabarkan kepadanya bahwa [Zainab binti Jahsy], istri nabi Shallallahu 'alaihi wa Salam, telah mengkhabarkan kepadanya, ia berkata: Pada suatu hari Rasulullah Shallallahu 'alaihi wa Salam keluar dalam keadaan takut dan wajah beliau memerah, beliau mengucapkan: "LAA ILAAHA ILLALLAAH, celakalah bangsa arab dari keburukan yang mendekat, saat ini penghalang Ya'juj dan Ma'juj telah terbuka seperti ini -beliau melekatkan jari jempol dan jari telunjuk- ia (Zainab) bertanya: Wahai Rasulullah, apakah kita akan dibinasakan sementara ditengah-tengah kami ada orang-orang shalih? Beliau menjawab: "Ya, bila kekejian banyak (menyebar)." Telah menceritakan kepadaku [Abdulmalik bin Syu'aib bin Al Laits] telah menceritakan kepadaku [ayahku] dari [kakekku] telah menceritakan kepadaku [Uqail bin Khalid]. Telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'ad] telah menceritakan kepada kami [ayahku] dari [Shalih], keduanya dari [Ibnu Syihab] seperti hadits Yunus dari Az Zuhri dengan sanadnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7237</td></tr><tr><td>Arabic No</td><td>2880.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7237</td></tr><tr><td>Arabic No</td><td>2880.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 3</td></tr></tbody></table></div>
 

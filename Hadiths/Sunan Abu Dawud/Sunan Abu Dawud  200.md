@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas: The Companions during the lifetime of the messenger of Allah (May
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syadz bin Fayyadl] telah menceritakan kepada kami [Hisyam Ad-Dastuwa'i] dari [Qatadah] dari [Anas] dia berkata; Sahabat Rasululah shallallahu 'alaihi wasallam biasa menunggu akhir Shalat Isya sampai kepala mereka manggut-manggut (mengantuk), kemudian mereka mengerjakan shalat dan tidak berwudhu lagi. Abu Dawud berkata; [Syu'bah] menambahkan padanya dari [Qatadah], dia [Anas] berkata; Kami pernah mengantuk pada masa Rasulullah shallallahu 'alaihi wasallam. Dan diriwayatkan oleh [Ibnu Abi 'Arubah] dari [Qatadah] dengan lafadl yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (376)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>200</td></tr><tr><td>Reference</td><td>Book 1 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас (да будет доволен им Аллах) сказал: «Сподвижники Посланника Аллаха ﷺ часто (сидели) ожидая последнюю вечернюю молитву /‘ишаъ/ так, что их головы опускались (на грудь из-за сонливости,) после чего они совершали молитву, но не совершали омовение (заново)».Абу Дауд сказал: «(В версии этого хадиса,) которую передал Шу‘ба со слов Къатады, сказано: “При жизни Посланника Аллаха ﷺ …”».Абу Дауд сказал: «Также этот хадис с другим текстом со слов Къатады передал и Ибн Абу ‘Аруба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (376)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>200</td></tr><tr><td>Reference</td><td>Book 1 Hadith 200</td></tr></tbody></table></div>
 

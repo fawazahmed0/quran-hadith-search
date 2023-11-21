@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thauban, the freed slave of Allah's Messenger (ﷺ), reported Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] seluruhnya dari [Yazid] dan lafazh ini milik Zuhair; Telah menceritakan kepada kami [Yazid bin Harun]; Telah mengabarkan kepada kami ['Ashim Al Ahwal] dari ['Abdullah bin Zaid] yaitu Abu Qilabah dari [Abu Al Asy'ats Ash Shan'ani] dari [Abu Asma' Ar Rahabi] dari [Tsauban] -budak- Rasulullah shallallahu 'alaihi wasallam dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Apabila seorang muslim mengunjungi saudaranya sesama muslim, maka orang itu senantiasa berada dalam sebuah taman surga. Beliau ditanya; Bagaimana taman surga itu? Beliau menjawab: 'Taman yang penuh dengan buah-buahan yang dapat dipetiknya.' Telah menceritakan kepadaku [Suwaid bin Sa'id]; Telah menceritakan kepada kami [Marwan bin Mu'awiyah] dari ['Ashim Al Ahwal] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6554</td></tr><tr><td>Arabic No</td><td>2568.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Саубана, что Посланник Аллаха ﷺ сказал: «Навещающий больного будет пребывать среди хурфатуль-джанна». Кто-то спросил: «О Посланник Аллаха! А что такое хурфатуль-джанна?» Пророк ﷺ ответил: «Райские плоды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6554</td></tr><tr><td>Arabic No</td><td>2568.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 52</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) set out for Mecca in Ramadan and he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah bin 'Utbah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam pergi menuju Makkah dalam bulan Ramadhan dan Beliau berpuasa. Ketika sampai di daerah Kadid, Beliau berbuka yang kemudian orang-orang turut pula berbuka. Abu 'Abdullah Al Bukhariy berkata: "Kadid adalah tempat mata air yang terletak antara 'Usfan dan Qudaid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1944</td></tr><tr><td>Arabic No</td><td>1944</td></tr><tr><td>Reference</td><td>Book 30 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что, когда Посланник Аллаха ﷺ отправился в Мекку во время рамадана, он соблюдал пост (в течение определённого времени), но, достигнув аль-Кадида, (Пророк ﷺ) прервал пост, и люди перестали поститься (вместе с ним)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1944</td></tr><tr><td>Arabic No</td><td>1944</td></tr><tr><td>Reference</td><td>Book 30 Hadith 51</td></tr></tbody></table></div>
 

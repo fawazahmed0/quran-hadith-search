@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: The slave-mother of Ibrahim ibn AbdurRahma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Muhammad bin Umarah bin Amru bin Hazm] dari [Muhammad bin Ibrahim] dari [Ummu walad Ibrahim bin Abdirrahman bin Auf] bahwasanya dia pernah bertanya kepada [Ummu Salamah, istri Nabi shallallahu 'alaihi wasallam] seraya berkata; Sesungguhnya saya seorang wanita yang suka memanjangkan ujung (bagian bawah) pakaian dan berjalan di tempat yang kotor. Maka Ummu Salamah berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Ia (bagian bawah pakaian yang kotor) tersucikan oleh tempat setelahnya (yang dilewati)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>383</td></tr><tr><td>Arabic No</td><td>383</td></tr><tr><td>Reference</td><td>Book 1 Hadith 383</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов матери Ибрахима, сына ‘Абду-р-Рахмана ибн ‘Ауфа о том, что она спросила Умм Саламу, жену Пророка ﷺ: «Я женщина, у которой подол одежды волочится по земле, а я прохожу и по месту, где есть грязь». Умм Салама ответила: «Посланник Аллаха ﷺ сказал: “Очищает ее (одежду) то, что за ней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>383</td></tr><tr><td>Arabic No</td><td>383</td></tr><tr><td>Reference</td><td>Book 1 Hadith 383</td></tr></tbody></table></div>
 

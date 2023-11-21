@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim Abu-An-Nadr:'Abdullah bin Abi 'Aufa wrote and I read what he wrot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami [Mu'awiyah bin "Amru] telah bercerita kepada kami [Abu Ishaq] dari [Musa bin 'Uqbah] dari [Salim Abu An-Nadhar] bahwa ['Abdullah bin Abi Aufaa] menulis surat lalu aku membacakannya yang isinya berupa bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian berjumpa dengan mereka (musuh) maka bershabarlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2833</td></tr><tr><td>Arabic No</td><td>2833</td></tr><tr><td>Reference</td><td>Book 56 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Салима Абу Надр, что он прочитал то, что написал ‘Абдуллах бин Абу Ауфа о том, что Посланник Аллаха ﷺ сказал: «Если встретите их (на поле битвы), то терпите»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2833</td></tr><tr><td>Arabic No</td><td>2833</td></tr><tr><td>Reference</td><td>Book 56 Hadith 49</td></tr></tbody></table></div>
 

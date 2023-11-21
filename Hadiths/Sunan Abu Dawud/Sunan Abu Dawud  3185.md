@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Samurah: A man fell ill and a cry was raised (for his death).
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Nufail], telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Simak] telah menceritakan kepadaku [Jabir bin Samurah], ia berkata; ada seseorang yang mengalami sakit kemudian ia diteriaki (keluarganya menjerit karenanya). Lalu tetangganya datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata kepadanya; sesungguhnya ia telah meninggal. Beliau berkata: "Bagaimana engkau mengetahui?" ia berkata; saya melihatnya. Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya ia belum mati." Jabir berkata; kemudian orang itu kembali dan orang yang sakit tersebut diteriaki, lalu ia datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata; sesungguhnya ia telah meninggal. Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya ia belum mati." Kemudian orang itu kembali dan orang yang sakit tersebut diteriaki. Kemudian isterinya berkata; pergilah kepada Rasulullah shallallahu 'alaihi wasallam dan beritahukan kepada beliau! Lalu orang itu berkata; ya Allah laknatlah dia! Jabir bin Samurah berkata; kemudian orang itu pergi dan ia melihat orang yang sakit tersebut telah menyembelih dirinya menggunakan anak panah bermata lebar yang ia bawa. Orang itu pergi kepada Nabi shallallahu 'alaihi wasallam dan mengabarkan kepada beliau bahwa ia telah meninggal. Lalu beliau bersabda: "Bagaimana engkau mengetahui?" Ia berkata; saya melihatnya telah menyembelih dirinya menggunakan anak panah bermata lebar yang ia bawa. Beliau bertanya: "Apakah engkau melihatnya?" Ia berkata; Iya. Beliau bersabda: "Jika demikian maka aku tidak akan menshalatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (978)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3185</td></tr><tr><td>Arabic No</td><td>3185</td></tr><tr><td>Reference</td><td>Book 21 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн Самура, да будет доволен им Аллах, передаёт: «Однажды какой-то человек заболел и его родные заголосили, и его сосед пришёл к Посланнику Аллаха ﷺ и сказал, что он умер. (Посланник Аллаха ﷺ) спросил: “Откуда ты знаешь?” Он ответил: “Я видел его”. Посланник Аллаха ﷺ сказал: “Поистине, он не умер”. Тогда он пошёл назад, и родные больного опять заголосили. Вернувшись, он сказал Посланнику Аллаха ﷺ: “Он умер”. Пророк ﷺ сказал: “Поистине, он не умер”. Тогда он пошёл назад, и родные больного опять заголосили. Тогда его жена (рассказала ему, как было дело, и) сказала: “Иди и расскажи ему”. Человек сказал: “О Аллах, прокляни его!” Затем этот человек пошёл и увидел, что тот заколол себя стрелой с широким наконечником, которая была у него. Тогда он пошёл к Пророку ﷺ и сказал: “Он умер”. (Посланник Аллаха ﷺ) спросил: “Откуда ты знаешь?” Он ответил: “Я видел, как он заколол себя с помощью стрел с широким наконечником, которые были при нём!” Он спросил: “Ты видел его?” Тот ответил: “Да”. И тогда (Посланник Аллаха ﷺ) сказал: “Если так, я не стану совершать над ним погребальную молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (978)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3185</td></tr><tr><td>Arabic No</td><td>3185</td></tr><tr><td>Reference</td><td>Book 21 Hadith 97</td></tr></tbody></table></div>
 

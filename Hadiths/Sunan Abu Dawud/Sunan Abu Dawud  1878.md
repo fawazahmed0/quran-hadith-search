@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Safiyyah, daughter of Shaybah: When the Messenger of Allah (ﷺ) had so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musharrif bin 'Amr Al Yami], telah menceritakan kepada Kami [Yunus yaitu Ibnu Bukair], telah menceritakan kepada Kami [Ibnu Ishaq], telah menceritakan kepadaku [Muhammad bin Ja'far bin Az Zubair] dari ['Ubaidullah bin Abdullah bin Abu Tsaur], dari [Shafiyah binti Syaibah], ia berkata; tatkala Rasulullah shallAllahu wa'alaihi wa sallam tinggal di Mekkah pada saat penaklukan Mekkah, beliau berthawaf di atas unta dan menyentuh rukun menggunakan tongkat di tangannya. Shafiyah berkata; dan aku melihat beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>1878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сафийя бинт Шейба, да будет доволен ею Аллах, передаёт: «Когда Посланник Аллаха ﷺ остановился в Мекке в год её покорения, он совершил таваф верхом на верблюде, касаясь Чёрного камня изогнутой палкой, которая была в его руке». Она сказала: «И я в это время смотрела на него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>1878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 158</td></tr></tbody></table></div>
 

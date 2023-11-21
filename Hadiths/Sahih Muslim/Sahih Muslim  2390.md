@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mu'awiya reported Allah's Messenger (ﷺ) as saying:Do not press in a matter, fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Sufyan] dari [Amru] dari [Wahb bin Munabbih] dari [saudaranya Hammam] dari [Mu'awiyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian meminta-minta dengan mendesak. Demi Allah! Tidak seorang pun jua yang meminta kepadaku, yang tidak kupenuhi permintaannya. Tetapi seorang yang kuberi dengan hati enggan, maka ia tidak akan diberkahi dalam pemberian itu." Telah menceritakan kepada kami [Ibnu Abu Umar Al Makki] telah menceritakan kepada kami [Sufyan] dari [Amru bin Dinar] telah menceritakan kepadaku [Wahab bin Munabbih] -dan saya menemuinya dalam rumahnya di Shan'a'lalu ia memberiku makan yang diambilnya dari isterinya- dari [saudaranya] ia berkata, saya mendengar [Mu'awiyah bin Abu Sufyan] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda; maka ia pun menyebutkan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2390</td></tr><tr><td>Arabic No</td><td>1038.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Му‘авии, что Посланник Аллаха ﷺ сказал: «Не будьте (слишком) настойчивы в просьбах, ибо, клянусь Аллахом, если кто-нибудь из вас станет просить у меня что-либо и вынудит меня своими просьбами дать ему то, чего я давать не желаю, не будет для него благословенным то, что я ему дам!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2390</td></tr><tr><td>Arabic No</td><td>1038.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 127</td></tr></tbody></table></div>
 

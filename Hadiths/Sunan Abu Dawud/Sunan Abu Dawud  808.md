@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Abdullah ibn Ubaydullah said: I went to Ibn Abbas a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Warits] dari [Musa bin Salim] telah menceritakan kepada kami [Abdullah bin 'Ubaidullah] dia berkata; aku menemui Ibnu Abbas ketika dia berada di tengah-tengah pemuda Bani Hasyim, lalu kami berkata kepada seorang pemuda di antara kami; "Tanyakanlah kepada Ibnu Abbas, apakah Rasulullah shallallahu 'alaihi wasallam membaca (surat) dalam shalat Dluhur dan Ashar?" [Ibnu Abbas] menjawab; "Tidak, tidak membaca." Maka di katakan kepadanya lagi; "Barangkali dia membaca dalam hati." Maka Ibnu Abbas berkata; "Sungguh ini lebih jelek dari (dugaan) yang pertama, beliau adalah seorang hamba yang di perintahkan untuk menyampaikan apa yang di tugaskan kepada beliau, beliau tidak pernah mengistimewakan kami dengan sesuatu pun di banding orang lain, kecuali tiga perkara; beliau memerintahkan kami untuk menyempurnakan wudlu', kami tidak boleh makan uang zakat dan tidak boleh menjadikan keledai untuk menjantani kuda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>808</td></tr><tr><td>Arabic No</td><td>808</td></tr><tr><td>Reference</td><td>Book 2 Hadith 418</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Убайдуллах сказал: «Я зашёл к Ибн ‘Аббасу вместе с другими юношами из бану Хашим, и мы сказали одному из тех, кто был с нами: “Спроси его, читал ли Посланник Аллаха ﷺ суры во время полуденной и послеполуденной молитвы”. Он ответил: “Нет, нет”. Тот сказал: “Наверное, он читал про себя”. Он сказал: “Это ещё хуже первого! Он был рабом, делавшим всё, что ему велено, и он донёс до людей всё, с чем был послан, и он не давал нам никаких особых указаний по сравнению с другими, если не считать трёх велений. Он велел нам тщательно совершать малое омовение, не есть милостыню /закят/ и не скрещивать ослов с кобылами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>808</td></tr><tr><td>Arabic No</td><td>808</td></tr><tr><td>Reference</td><td>Book 2 Hadith 418</td></tr></tbody></table></div>
 

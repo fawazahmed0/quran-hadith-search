@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr b. al-'As said that Allah's Messenger (ﷺ) stopped during the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Ibnu Syihab] dari [Isa bin Thalhah bin Ubaidullah] dari [Amru bin Amru bin 'Ash] ia berkata; Ketika haji wada', Rasulullah shallallahu 'alaihi wasallam pernah berhenti di Mina untuk menunggu orang-orang banyak agar bertanya kepada beliau. Maka tampillah seorang laki-laki dan bertanya, "Wahai Rasulullah, aku sudah terlanjur bercukur sebelum menyembelih kurban, bagaimana itu?" beliau menjawab: "Sembelihlah, tidak mengapa." Kemudian datang pula laki-laki yang lain dan bertanya, "Ya Rasulullah, aku sudah terlanjur menyembelih terlebih dahulu sebelum melontar, bagaimana itu?" beliau menjawab: "Lontarlah. Tidak mengapa." Abdullah berkata; Segala sesuatu yang ditanyakan kepada beliau, ialah hal-hal yang urutannya tidak tertib karena terlanjur atau lupa. Dijawab oleh beliau, "Teruskanlah, kamu tidak berdosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3156</td></tr><tr><td>Arabic No</td><td>1306.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 360</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3156</td></tr><tr><td>Arabic No</td><td>1306.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 360</td></tr></tbody></table></div>
 

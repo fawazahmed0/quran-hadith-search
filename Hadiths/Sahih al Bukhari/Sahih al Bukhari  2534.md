@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:A man amongst us declared that his slave would be f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abi Iyas] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Amru bin DInar] aku mendengar [Jabir bin 'Abdullah radliallahu 'anhuma] berkata: "Ada seorang laki-laki membebaskan seorang budak dengan cara mudabbar, lalu Nabi shallallahu 'alaihi wasallam memmanggilnya kemudian membelinya. Jabir berkata: "Budak itu kemudian meningal dunia pada tahun itu juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 49 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Один человек обещал своему рабу свободу после его смерти. А Пророк ﷺ позвал этого раба и продал его». Джабир сказал: «Этот раб умер в том же году»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 49 Hadith 18</td></tr></tbody></table></div>
 

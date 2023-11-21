@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), l'Envoyé de Dieu (paix et 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengkabarkan kepada kami [Al Laits bin Sa'd] -dalam jalur lain- telah menceritakan kepada kami [Qutaibah bin Sa'id] dan kedua jalur tersebut sama dalam lafadznya, ia berkata; Telah menceritakan kepada kami [Laits] dari [Sa'id bin Abu Sa'id Al Maqbury] dari ['Iyadh bin Abdillah bin Sa'ad], bahwa ia mendengar [Abu Sa'id Al Khudhri] berkata: Suatu ketika Rasulullah shallallahu 'alaihi wasallam pernah berdiri dan menyampaikan khutbah di depan manusia. Beliau berkata: Tidak, Demi Allah, tidak ada sesuatu yang lebih aku khawatirkan menimpa kalian selain daripada kenikmatan dunia yang Allah lapangkan untuk kalian. Seorang sahabat bertanya: Wahai Rasulullah shallallahu 'alaihi wasallam, apakah harta yang didapat dari jalan yang baik juga bisa mendatangkan keburukan? Rasulullah shallallahu 'alaihi wasallam terdiam sesa'at, lalu beliau berkata: Apa yang engkau tanyakan? Dia berkata: akupun mengulangi pertanyaanku; Wahai Rasulullah shallallahu 'alaihi wasallam, apakah harta yang didapat dari jalan yang baik juga bisa mendatangkan keburukan? Beliau menjawab: Sesungguhnya kebaikan yang hakiki hanya akan membuahkan kebaikan, apapun kebaikan tersebut. Sesungguhnya semua tanaman yang tumbuh di musim semi hanya akan membinasakan hewan-hewan yang rakus yang melahap semua jenis tumbuhan atau minimal akan membuatnya sekarat, kecuali hewan yang hanya memakan sayur-sayuran saja. Ia makan, lalu jika kedua sisi perutnya telah penuh dengan makanan iapun menghadap matahari untuk buang air besar dan kecil, kemudian ia kembali mengunyah makanan lagi dan menelannya. Maka barangsiapa yang mengambil harta yang menjadi haknya maka akan diberikan keberkahan kepadanya, Dan barangsiapa yang mengambil harta yang bukan menjadi haknya maka ia adalah seperti hewan yang selalu makan dan tidak pernah merasa kenyang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2421</td></tr><tr><td>Arabic No</td><td>1052.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «(Однажды), Посланник Аллаха ﷺ обратился к людям с проповедью и сказал: “О люди, клянусь Аллахом, страх за вас мне внушает лишь краса мира дольнего, которую явит вам Аллах”. Один человек спросил: “О Посланник Аллаха, неужели благо (может) принести с собой зло?” Помолчав некоторое время, Посланник Аллаха ﷺ спросил: “Как ты сказал?” (Человек, задавший этот вопрос), сказал: “Я сказал: “О Посланник Аллаха, неужели благо (может) принести с собой зло?” Тогда Посланник Аллаха ﷺ сказал ему: “(Истинное) благо приносит с собой только благо”. Потом он сказал: “Но благо ли это? Поистине, всё, что (земля) порождает весной, убивает (или: почти губит) (животных, которые набили свои утробы, вызывая у них несварение желудка), кроме тех, что поедают зелень. (Такие животные) едят, пока бока их не раздуются, (после чего) поворачиваются к солнцу и испражняются (или: мочатся), потом пережёвывают то, что отрыгивают, и снова начинают есть. Для того, кто приобретает богатство законным путём, оно будет благословенным, а (человек), приобретающий его незаконно, подобен тому, кто ест, но не может насытиться”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2421</td></tr><tr><td>Arabic No</td><td>1052.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 158</td></tr></tbody></table></div>
 

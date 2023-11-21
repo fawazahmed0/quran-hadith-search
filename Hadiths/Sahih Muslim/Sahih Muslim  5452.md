@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that Allah's Messengor (ﷺ) said:There should be a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir Ahmad bin 'Amru bin Sarh]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah menceritakan kepadaku [Abu Hani]; Bahwasannya dia mendengar [Abu 'Abdurrahman] berkata; Dari [Jabir bin 'Abdullah]; Rasulullah shallallahu 'alaihi wasallam berkata kepadanya; "Satu kasur untuk seorang suami, satu kasur untuk istrinya, kasur ketiga untuk tamu, dan kasur keempat untuk syetan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5452</td></tr><tr><td>Arabic No</td><td>2084</td></tr><tr><td>Reference</td><td>Book 37 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5452</td></tr><tr><td>Arabic No</td><td>2084</td></tr><tr><td>Reference</td><td>Book 37 Hadith 67</td></tr></tbody></table></div>
 

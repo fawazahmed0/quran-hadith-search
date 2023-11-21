@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Tawus reported:I found some Companions of Allah's Messenger (ﷺ) as saying: Eve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Ziyad bin Isma'il] dari [Muhammad bin 'Abbad bin Ja'far Al Makhrumi] dari [Abu Hurairah] dia berkata; "Pada suatu hari, kaum musyrik Quraisy datang menemui Rasulullah shallallahu 'alaihi wasallam untuk memperdebatkan masalah qadar (takdir). Tak lama kemudian, turunlah ayat Al Qur'an yang berbunyi: 'Ingatlah pada hari di mana mereka diseret ke neraka pada muka mereka. Dikatakan kepada mereka; 'Rasakanlah sentuhan api neraka. Sesungguhnya Kami menciptakan segala sesuatu menurut qadarnya.'" (Al Qamar (54):
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6752</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 46 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6752</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 46 Hadith 30</td></tr></tbody></table></div>
 

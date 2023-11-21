@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that he visited Muqanna' and then said:I will not go away unless 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Abu Ath Thahir] keduanya berkata; Telah menceritakan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku ['Amru] bahwa [Bukair] Telah menceritakan kepadanya, ['Ashim bin 'Umar bin Qatadah] Telah menceritakan kepadanya; bahwa [Jabir bin 'Abdullah] pergi mengunjungi Al Muqanna' yang sedang sakit. Kemudian dia berkata; "Aku tidak meninggalkan tempat ini sehingga engkau berbekam. Karena aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya di dalam berbekam ada kesembuhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5742</td></tr><tr><td>Arabic No</td><td>2205.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5742</td></tr><tr><td>Arabic No</td><td>2205.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 96</td></tr></tbody></table></div>
 

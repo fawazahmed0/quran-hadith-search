@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The main source of disbelief
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Pusat kekufuran itu ada di arah Timur. Kebanggaan diri sendiri dan kesombongan terletak pada para pemilik kuda dan unta dan yang biasa bersuara keras adalah para pengembala unta yang berpindah-pindah (nomaden) sedangkan ketenangan ada pada para pemilik kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3301</td></tr><tr><td>Arabic No</td><td>3301</td></tr><tr><td>Reference</td><td>Book 59 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Главный источник неверия находится на востоке, гордость и высокомерие свойственны владельцам лошадей и верблюдов и бедуинам, а спокойствием отличаются владельцы овец»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3301</td></tr><tr><td>Arabic No</td><td>3301</td></tr><tr><td>Reference</td><td>Book 59 Hadith 109</td></tr></tbody></table></div>
 

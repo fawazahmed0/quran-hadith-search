@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wathilah ibn al-Asqa': I asked: Messenger of Allah! what is party spiri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid Ad Dimasyqi] berkata, telah menceritakan kepada kami [Al Firyabi] berkata, telah menceritakan kepada kami [Salamah bin Bisyr Ad Dimasyqi] dari [Bintu Watsilah Ibnul Asqa'] Bahwasanya ia pernah mendengar [Bapaknya] berkata, "Aku bertanya, "Wahai Rasulullah, Ashabiyah (fanatik kesukuan) itu apa?" beliau menjawab: "Engkau tolong kaummu dalam kezhaliman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5119</td></tr><tr><td>Arabic No</td><td>5119</td></tr><tr><td>Reference</td><td>Book 43 Hadith 347</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Махмуд ибн Халид ад-Димашкъи: Рассказал нам аль-Фирйаби: Рассказал нам Саляма ибн Бишр ад-Димашкъи, передавший от дочери Вàсиля ибн аль-Аскъа‘ о том, что она слышала, как её отец, да будет доволен им Аллах, говорил: «(Однажды) я спросил (Пророка ﷺ): “О Посланник Аллаха, что такое слепая приверженность (к своему племени)?” Он ответил: “Это, когда ты поддерживаешь свой народ в несправедливости”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5119</td></tr><tr><td>Arabic No</td><td>5119</td></tr><tr><td>Reference</td><td>Book 43 Hadith 347</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Suhaib reported the Apostle (ﷺ) saying:When those deserving of Paradise would 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Maisarah] dia berkata, telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit al-Bunani] dari [Abdurrahman bin Abu Laila] dari [Shuhaib] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Bila penduduk surga telah masuk ke surga, maka Allah berfirman: 'Apakah kalian ingin sesuatu yang perlu Aku tambahkan kepada kalian? ' Mereka menjawab, 'Bukankah Engkau telah membuat wajah-wajah kami putih? Bukankah Engkau telah memasukkan kami ke dalam surga dan menyelamatkan kami dari neraka? ' Beliau bersabda: "Lalu Allah membukakan hijab pembatas, lalu tidak ada satu pun yang dianugerahkan kepada mereka yang lebih dicintai daripada anugrah (dapat) memandang Rabb mereka." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yazid bin Harun] dari [Hammad bin Salamah] dengan sanad ini, dan dia menambahkan, 'Kemudian beliau membaca Firman Allah: '(Bagi orang-orang yang berbuat baik, ada pahala yang terbaik (surga) dan tambahannya) ' (Qs.Yunus:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>449</td></tr><tr><td>Arabic No</td><td>181.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 354</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сухайба, что Пророк ﷺ сказал: «Когда обитатели Рая войдут в Рай, Всеблагой и Всевышний Аллах спросит: “Хотите ли вы, чтобы Я (даровал) вам что-нибудь ещё?” Они скажут: “Разве Ты не сделал наши лица белыми? Разве Ты не ввёл нас в Рай и не спас нас от Огня?!” (после чего) Аллах уберёт преграду, и из всего дарованного им самым дорогим для них станет (возможность) взирать на их Великого и Могучего Господа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>449</td></tr><tr><td>Arabic No</td><td>181.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 354</td></tr></tbody></table></div>
 

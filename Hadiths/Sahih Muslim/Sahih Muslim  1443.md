@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha, la femme du Prophète (raa) a dit : Une nuit, l'Envoyé de Die
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Amru bin Sawwad Al 'Amiri] dan [Harmalah bin Yahya], keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus], bahwa [Ibn Syihab] telah mengabarkan kepadanya, dia berkata; telah mengabarkan kepadaku ['Urwah bin Zubair] bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam berkata; "Suatu malam Rasulullah shallallahu 'alaihi wasallam mendirikan shalat isya' yang sering diistilahkan dengan 'shalat atamah. Rupanya beliau tak kunjung datang hingga Umar bin Khattab berkata; "Anak-anak kecil dan kaum wanita telah telanjur tidur." Tidak lama kemudian Rasulullah shallallahu 'alaihi wasallam datang dan berkata kepada penghuni masjid, yaitu ketika beliau menemui mereka: "Tak seorang pun dari penduduk bumi yang menunggu shalat isya' selain kalian. Dan itu terjadi ketika Islam belum tersosialisasi ke tenghah-tengah masyaraakat." [Harmalah] menambahkan dalam periwayatannya, [Ibn Syihab] berkata; Dan disebutkan kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam bersabda; "Tidakkah kalian sebaiknya mengunjungi Rasulullah shallallahu 'alaihi wasallam untuk mengimami shalat? dan itu terjadi ketika Umar berteriak-teriak menyerukan panggilan shalat." Telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin Al Laits] telah menceritakan kepadaku [Ayahku] dari [Kakekku] dari ['Uqail] dari [Ibnu Syihab] dengan sanad seperti ini, namun ia tidak menyebutkan ucapan Az Zuhri, dan disebutkan kepadaku redaksi sesudahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1443</td></tr><tr><td>Arabic No</td><td>638.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 276</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Урвы ибн аз-Зубайра, что ‘Аиша, жена Пророка ﷺ, сказала: «(Однажды) Посланник Аллаха ﷺ откладывал вечернюю молитву /‘иша/, которую называют ‘атама, и не вышел до тех пор, пока ‘Умар ибн аль-Хаттаб не обратился к нему (со словами): “Женщины и дети уже заснули!” после чего Посланник Аллаха ﷺ вышел (к людям) и сказал: “Никто из живущих на земле, кроме вас, не дожидается этой молитвы!” Это было когда ислам ещё не получил распространения среди людей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1443</td></tr><tr><td>Arabic No</td><td>638.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 276</td></tr></tbody></table></div>
 

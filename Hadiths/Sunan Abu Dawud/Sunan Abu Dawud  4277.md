@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'id ibn Zayd: We were with the Prophet (ﷺ). He mentioned civil stri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Al Ahwash Salam bin Sulaim] dari [Manshur] dari [Hilal bin Yasaf] dari [Sa'id bin Zaid] ia berkata, "Saat kami berada di sisi Nabi shallallahu 'alaihi wasallam, beliau menyebutkan tentang fitnah dan memperbesar masalahnya, kami lalu berkata, atau mereka mengatakan, "Wahai Rasulullah, jika hal itu menimpa kami, maka hancurlah kami!" Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Tidak, itu bergantung kalian dalam menjaga dari pembunuhan." Sa'id berkata, "Aku melihat saudara-saudaraku terbunuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4277</td></tr><tr><td>Arabic No</td><td>4277</td></tr><tr><td>Reference</td><td>Book 37 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘ид ибн Зейд, да будет доволен им Аллах, передаёт: «Мы сидели у Пророка ﷺ и он рассказывал нам о смутах и разъяснил, насколько страшными они будут. Мы сказали (или: они сказали): “О Посланник Аллаха, если это постигнет нас, то непременно погубит нас (в этом мире и в мире вечном)!” Посланник Аллаха ﷺ сказал: “Нет… Достаточно вам убийства” И я видел, как были убиты мои братья»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4277</td></tr><tr><td>Arabic No</td><td>4277</td></tr><tr><td>Reference</td><td>Book 37 Hadith 38</td></tr></tbody></table></div>
 

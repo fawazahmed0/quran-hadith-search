@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dharr:I asked the Prophet (ﷺ) about the Statement of Allah:-- 'An
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Waki'] Telah menceritakan kepada kami [Al A'masy] dari [Ibrahim At Taimi] dari [Bapaknya] dari [Abu Dzar] dia berkata; Aku bertanya kepada Nabi shallallahu 'alaihi wasallam tentang firman Allah Ta'ala: "dan matahari berjalan ditempat peredarannya." Beliau bersabda: "Tempat peredarannya berada dibawah Arsy." (Yasiin:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4803</td></tr><tr><td>Arabic No</td><td>4803</td></tr><tr><td>Reference</td><td>Book 65 Hadith 325</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зарр, да будет доволен им Аллах, сказал: «Я спросил у Пророка ﷺ о значении слов Всевышнего Аллаха: “Солнце плывет к своему местопребыванию”. Он сказал: “Его местопребывание находится под Троном”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4803</td></tr><tr><td>Arabic No</td><td>4803</td></tr><tr><td>Reference</td><td>Book 65 Hadith 325</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:None of you should say to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Musa Al Anshari] telah menceritakan kepada kami [Anas bin 'Iyadh] telah menceritakan kepada kami [Al Harits bin 'Abdurrahman bin Abu Dzubab] dari ['Atha bin Mina] dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Janganlah sekali-kali seseorang dari kalian mengatakan; 'Ya Allah, ampunilah aku jika Engkau mau! Ya Allah, kasihanilah aku jika Engkau mau! ' Berdoalah kamu dengan sungguh-sungguh, karena Allah akan berbuat menurut kehendak-Nya tanpa ada yang dapat memaksa-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6813</td></tr><tr><td>Arabic No</td><td>2679.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6813</td></tr><tr><td>Arabic No</td><td>2679.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 9</td></tr></tbody></table></div>
 

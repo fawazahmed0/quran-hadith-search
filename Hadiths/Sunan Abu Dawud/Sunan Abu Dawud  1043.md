@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar reported the Messenger of Allah (ﷺ) as saying:Offer some of your p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jadikanlah rumah-rumah kalian sebagai tempat mengerjakan shalat (sunnah), dan janganlah kalian jadikan sebagai kuburan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (777)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 2 Hadith 654</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Совершайте часть молитв в своих домах и не превращайте их в могилы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (777)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 2 Hadith 654</td></tr></tbody></table></div>
 

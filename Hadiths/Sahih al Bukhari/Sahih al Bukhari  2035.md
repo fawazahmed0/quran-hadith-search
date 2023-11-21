@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali bin Al-Husain:Safiya, the wife of the Prophet (ﷺ) told me that s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya ['Ali bin a-Husain radliallahu 'anhuma] bahwa [Shafiyah] isteri Nabi shallallahu 'alaihi wasallam mengabarkan kepadanya bahwa dia datang mengunjungi Rasulullah shallallahu 'alaihi wasallam dalam masa-masa i'tikaf Beliau di masjid pada sepuluh hari terakhir dari bulan Ramadhan, dia berbicara sejenak dengan Beliau lalu dia berdiri untuk pulang. Maka Nabi shallallahu 'alaihi wasallam pun berdiri untuk mengantarnya hingga ketika sampai di pintu masjid yang berhadapan dengan pintu rumah Ummu Salamah, ada dua orang dari kaum Anshar yang lewat lalu keduanya memberi salam kepada Rasulullah shallallahu 'alaihi wasallam. Maka Nabi shallallahu 'alaihi wasallam berkata kepada keduanya: "Kalian tenang saja. Sungguh wanita ini adalah Shafiyah binti Huyay". Maka keduanya berkata: "Maha suci Allah, wahai Rasulullah". Kejadian ini menjadikan berat bagi keduanya. Lalu Nabi shallallahu 'alaihi wasallam berkata: "Sesungguhnya setan mendatangi manusia lewat aliran darah dan aku khawatir setan telah memasukkan sesuatu pada hati kalian berdua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>2035</td></tr><tr><td>Reference</td><td>Book 33 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов жены Пророка ﷺ Сафиййи, да будет доволен ею Аллах, что однажды она пришла навестить Посланника Аллаха ﷺ когда он неотлучно находился в мечети в последние десять (дней) рамадана. Поговорив с ним некоторое время, она поднялась, чтобы вернуться к себе, а Пророк ﷺ поднялся вместе с ней, чтобы проводить её. Когда она дошла до ворот мечети, находившихся у дверей Умм Саламы, оказалось, что мимо проходили двое ансаров, которые поприветствовали Посланника Аллаха ﷺ. Пророк ﷺ сказал им: «Не спешите! Это ведь Сафиййа бинт Хуйайй!» Они сказали: «Преславен Аллах /Субхана-Ллах/, о Посланник Аллаха!» — и им было тяжело (слышать его слова). Тогда Пророк ﷺ сказал: «Поистине, шайтан (проникает) в человека, распространяясь в нём повсюду подобно крови, и, поистине, я побоялся, что он сможет заронить в ваши сердца что-нибудь (дурное)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>2035</td></tr><tr><td>Reference</td><td>Book 33 Hadith 10</td></tr></tbody></table></div>
 

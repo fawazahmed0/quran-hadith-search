@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Arqam: Ilyas ibn AbuRamlah ash-Shami said: I witnessed Mu'awiy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin katsir] telah mengabarkan kepada kami [Isra'il] telah menceritakan kepada kami [Utsman bin Al Mughirah] dari [Iyas Ibnu Abu Ramlah As Syami] dia berkata; aku pernah melihat Mu'awiyah bin Abu Sufyan bertanya kepada Zaid bin Arqam, tanyanya; "Apakah kamu pernah melakukan dua hari raya bertepatan dalam satu hari ketika bersama Rasulullah shallallahu 'alaihi wasallam?" Jawabnya; "Ya. ' Mu'awiyah bertanya; "Bagaimana beliau mengerjakan shalat tersebut?" [Zaid bin Arqam] menjawab; "Beliau mengerjakan shalat ied dan memberi keringanan pada waktu shalat Jum'at, lalu beliau bersabda: "Barangsiapa ingin mengerjakan (shalat Jum'at), hendaknya mengerjakan shalat (Jum'at)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1070</td></tr><tr><td>Arabic No</td><td>1070</td></tr><tr><td>Reference</td><td>Book 2 Hadith 681</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ияса ибн Абу Рамля аш-Шами: «Я видел, как Му‘авия ибн Абу Суфьян спросил Зейда ибн Аркама: “Приходилось ли тебе быть рядом с посланником Аллаха ﷺ в праздник, который выпадал на пятницу?” Он ответил: “Да”. Он спросил: «И как он поступал?» Он ответил: «Совершал праздничную молитву, а относительно пятничной молитвы давал разрешение, говоря: “Кто желает совершить её, пусть совершает”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1070</td></tr><tr><td>Arabic No</td><td>1070</td></tr><tr><td>Reference</td><td>Book 2 Hadith 681</td></tr></tbody></table></div>
 

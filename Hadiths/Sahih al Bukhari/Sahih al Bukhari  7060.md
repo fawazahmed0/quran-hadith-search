@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:Once the Prophet (ﷺ) stood over one of the high buildi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Az Zuhri] -lewat jalur periwayatan lain-Dan telah menceritakan kepadaku [Mahmud] telah mengabarkan kepadaku ['Abdurrazzaq] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari [Usamah bin Zaid] radliallahu 'anhuma, mengatakan; Pernah Nabi shallallahu 'alaihi wasallam menaiki sebuah benteng Madinah lantas mengatakan; "apakah kalian melihat yang kulihat?" Mereka menjawab; 'Tidak.' Beliau bersabda: "Sungguh aku melihat fitnah telah terjadi ditengah-tengah rumah kalian sebagaimana hujan turun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7060</td></tr><tr><td>Arabic No</td><td>7060</td></tr><tr><td>Reference</td><td>Book 92 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Усама ибн Зейд, да будет доволен Аллах им и его отцом, сказал: «(Однажды) Пророк ﷺ поднялся на одну из башен Медины и сказал: “Видите ли вы то, что вижу я?” (Люди) сказали: “Нет”. Он сказал: “Поистине, я вижу, что смуты и бедствия среди ваших домов будут столь же (многочисленны), как и следы от капель (дождя)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7060</td></tr><tr><td>Arabic No</td><td>7060</td></tr><tr><td>Reference</td><td>Book 92 Hadith 12</td></tr></tbody></table></div>
 

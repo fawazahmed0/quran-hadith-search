@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "A believer to another believer is lik
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Abu Burdah Buraidah bin Abu Burdah] dia berkata; telah mengabarkan kepadaku kakekku [Abu Burdah] dari ayahnya [Abu Musa] dari nabi shallallahu 'alaihi wasallam beliau bersabda: "Seorang mukmin dengan mukmin yang lain ibarat bangunan yang saling menguatkan antara satu dengan yang lain." Kemudian beliau menganyam jari-jemarinya, setelah itu Nabi shallallahu 'alaihi wasallam duduk, jika ada seorang laki-laki memerlukan atau meminta suatu kebutuhan datang kepada beliau, maka beliau akan menghadapkan wajahnya kepada kami, lalu beliau bersabda: 'Berikanlah pertolongan agar kalian saling memperoleh pahala dan semoga Allah melaksanakan apa yang disenangi-Nya melalui ucapan nabi-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6027</td></tr><tr><td>Arabic No</td><td>6027</td></tr><tr><td>Reference</td><td>Book 78 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса, да будет доволен им Аллах, сказал: «(В это время) Пророк ﷺ сидел, и тут к нему подошёл какой-то человек (или: проситель), что же касается (Пророка ﷺ) то он повернулся к нам лицом и сказал: “Ходатайствуйте (за него), и вы получите награду (за это), а Аллах через Своего пророка примет угодное Ему решение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6027</td></tr><tr><td>Arabic No</td><td>6027</td></tr><tr><td>Reference</td><td>Book 78 Hadith 57</td></tr></tbody></table></div>
 

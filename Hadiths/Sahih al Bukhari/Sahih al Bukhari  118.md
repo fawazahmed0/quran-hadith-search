@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:People say that I have narrated many Hadiths (The Prophet's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari [Al A'raj] dari [Abu Hurairah] berkata, "Sesungguhnya orang-orang mengatakan, "Abu Hurairah adalah yang paling banyak (menyampaikan hadits dari Rasulullah shallallahu 'alaihi wasallam), kalau bukan karena dua ayat dalam Kitabullah aku tidak akan menyampaikannya." Lalu dia membaca ayat: '(Sesungguhnya orang-orang yang menyembunyikan apa yang telah Kami turunkan berupa penjelasan dan petunjuk) ' ……hingga akhir ayat.. '(Allah Maha Penyayang) ' (Qs. Al Baqarah: 159-160). Sesungguhnya saudara-saudara kita dari kalangan Muhajirin, mereka disibukkan dengan perdagangan di pasar-pasar, dan saudara-saudara kita dari kalangan Anshar, mereka disibukkan dengan pekerjaan mereka dalam mengurus harta mereka. sementara Abu Hurairah selalu menyertai Rasulullah shallallahu 'alaihi wasallam dalam keadaan lapar, ia selalu hadir saat orang-orang tidak bosa hadir, dan ia dapat menghafal saat orang-orang tidak bisa menghafalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>118</td></tr><tr><td>Arabic No</td><td>118</td></tr><tr><td>Reference</td><td>Book 3 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-А‘раджа, что Абу Хурайра, да будет доволен им Аллах, сказал: «Поистине, люди говорят, что Абу Хурайра (передал) много (хадисов), однако если бы не два аята из Книги Аллаха, то я не передал бы ни одного хадиса».\nЗатем он прочитал (следующие аяты): «Воистину, тех, которые скрывают ниспосланные Нами ясные знамения и верное руководство после того, как Мы разъяснили это людям в Писании, проклянет Аллах и проклянут проклинающие, за исключением тех, которые раскаялись, исправили содеянное и стали разъяснять истину. Я приму их покаяния, ибо Я – Принимающий покаяния, Милосердный»(, после чего сказал): «Поистине, наши братья из числа мухаджиров были заняты торговыми сделками, а наших братьев из числа ансаров занимали дела, связанные с их имуществом, тогда как Абу Хурайра, довольствовавшийся лишь тем, что могло насытить его живот, неотступно следовал за Посланником Аллаха ﷺ присутствуя там, где отсутствовали они, и запоминая то, чего не запомнили они»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>118</td></tr><tr><td>Arabic No</td><td>118</td></tr><tr><td>Reference</td><td>Book 3 Hadith 60</td></tr></tbody></table></div>
 

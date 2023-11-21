@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubaid bin Umair:Once 'Umar (bin Al-Khattab) said to the companions of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim] Telah mengabarkan kepada kami [Hisyam] dari [Ibnu Juraij] Aku mendengar [Abdullah bin Abu Mulaikah] bercerita dari [Ibnu Abbas] dia berkata; dan aku juga mendengar saudaranya yaitu [Abu Bakr bin Abu Mulaikah] bercerita dari [Ubaid bin Umair] dia berkata; Pada suatu hari [Umar radliallahu 'anhu] berkata kepada para sahabat Nabi shallallahu 'alaihi wasallam; Menurut kalian berkenaan dengan apakah ayat ini; "Adakah salah seorang dari kalian yang ingin memiliki kebun…. (al Baqarah; 266). Para sahabat menjawab; 'Allahu A'lam.' Maka Umar pun marah, seraya berkata; Katakan kami tahu atau kami tidak tahu. Kemudian Ibnu Abbas berkata; 'aku mengerti sedikit tentang ayat itu ya Amirul Mukminin. Umar berkata; Wahai anak saudaraku, katakanlah! Jangan kamu cela dirimu sendiri. Ibnu Abbas berkata; ayat itu membuat sebuah perumpamaan tentang suatu amalan. Umar berkata; Amalan apakah? Ibnu Abbas menjawab; tentang suatu amalan. Umar melanjutkan; yaitu tentang seorang laki-laki yang kaya, lalu dia beramal dengan menta'ati Allah Azza Wa Jalla. Kemudian Allah mengutus syetan kepadanya. Maka ia pun melakukan maksiat hingga ia tenggelamkan amalan kebaikan yang telah dilakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 65 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Убайда ибн ‘Умайра, что однажды ‘Умар, да будет доволен им Аллах, сказал сподвижникам Пророка ﷺ: «Как вы считаете, по поводу кого был ниспослан этот аят: “Разве хотел бы кто-нибудь из вас, чтобы был у него сад из пальм и виноградника?” (сура “аль-Бакара”, аят 266)?» Они ответили: «Аллах знает лучше». Тогда ‘Умар разгневался и сказал: «Скажите: “Мы знаем“ или “Мы не знаем”». Ибн ‘Аббас сказал: «О повелитель правоверных, у меня есть мнение на этот счёт». ‘Умар сказал: «О сын моего брата, скажи и не считай себя не достойным этого». Ибн ‘Аббас сказал: «Эта притча о деяниях». ‘Умар спросил: «О каких деяниях?» Ибн ‘Аббас ответил: «О деяниях». ‘Умар сказал: «Деяниях богатого человека, который подчинялся Великому и Могучему Аллаху, и Аллах отправил к нему шайтана так, что тот стал совершать грехи, в которых потонули его благие деяния»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 65 Hadith 61</td></tr></tbody></table></div>
 

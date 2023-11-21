@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:(One night) the Prophet (ﷺ) woke up and said, "Subhan Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah menceritakan kepadaku [Hindun binti Al Harits] bahwa [Ummu Salamah] radliallahu 'anha berkata; "Tiba-tiba Nabi shallallahu 'alaihi wasallam terbangun, lalu beliau mengucapkan: "Subhanallah, perbendaharaan apa lagi yang Allah turunkan? Dan fitnah apa lagi yang Allah turunkan? Siapa yang mau membangunkan penghuni kamar-kamar -maksudnya isterinya- untuk menegakkan shalat? Betapa banyak orang berpakaian di dunia namun di akherat telanjang." Ibnu Abu Tsaur berkata; dari Ibnu Abbas dari Umar dia berkata; saya bertanya kepada Nabi shallallahu 'alaihi wasallam; "Apakah anda mentalak isteri anda?" beliau menjawab: "Tidak." Maka saya berkata; "Allahu Akbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6218</td></tr><tr><td>Arabic No</td><td>6218</td></tr><tr><td>Reference</td><td>Book 78 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала: «Однажды (ночью) Пророк ﷺ проснулся и воскликнул: “Преславен Аллах! /Cубхана-Ллах!/ Какие сокровищницы были открыты (сегодня ночью) и какие смуты были ниспосланы! Кто разбудит обитательниц комнат (имея в виду его жён, чтобы они совершили молитву)?! Ведь может получиться так, что одетая в мире этом окажется обнажённой в мире ином!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6218</td></tr><tr><td>Arabic No</td><td>6218</td></tr><tr><td>Reference</td><td>Book 78 Hadith 242</td></tr></tbody></table></div>
 

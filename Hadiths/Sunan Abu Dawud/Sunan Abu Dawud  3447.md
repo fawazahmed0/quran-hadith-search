@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ma'mar b. Abi Ma'mar, one of the children of 'Adi b. Ka'b: The Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah], telah mengabarkan kepada kami [Khalid] dari ['Amr bin Yahya], dari [Muhammad bin 'Amr bin 'Atho'] dari [Sa'id bin Al Musayyab] dari [Ma'mar bin Abu Ma'mar] salah satu Bani Adi bin Ka'b, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang menimbun barang, kecuali tela berbuat salah." Kemudian aku katakan kepada Sa'id; sesungguhnya engkau menimbun. Ia berkata; dan Ma'mar pernah menimbun. Abu Daud berkata; dan aku bertanya kepada Ahmad; apakah hukrah itu? Ia berkata; sesuatu yang padanya terdapat kehidupan manusia. Abu Daud berkata; Al Auza'i berkata; muhtakir adalah orang yang datang ke pasar untuk membeli apa yang dibutuhkan orang-orang dan menyimpannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1605)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3447</td></tr><tr><td>Arabic No</td><td>3447</td></tr><tr><td>Reference</td><td>Book 24 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ма‘мар ибн Абу Ма‘мар, человек из бану ‘Ади ибн Ка‘б, передаёт: «Посланник Аллаха ﷺ сказал: “Скупает и удерживает (необходимый людям) товар только грешник”». Передатчик хадиса от Са‘ида ибн аль-Мусайяба сказал: «Я сказал Са‘иду (который передавал хадис от Ма‘мара): “Ты ведь сам ты удерживаешь (товар)”. Он ответил: “А сам Ма‘мар удерживал товар”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1605)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3447</td></tr><tr><td>Arabic No</td><td>3447</td></tr><tr><td>Reference</td><td>Book 24 Hadith 32</td></tr></tbody></table></div>
 

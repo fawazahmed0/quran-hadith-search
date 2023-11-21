@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) brought Fatimah a slave which he dona
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] berkata, telah menceritakan kepada kami [Abu Jumai' Salim bin Dinar] dari [Tsabit] dari [Anas] berkata, "Nabi shallallahu 'alaihi wasallam membawa seorang budak untuk Fatimah yang beliau hibahkan kepadanya." Anas berkata, "Fatimah radliallahu 'anha mempunyai kain yang jika ia tutupkan kepala maka kakinya terlihat, dan jika ia tutupkan kaki maka kepalanya terlihat. Ketika Nabi shallallahu 'alaihi wasallam melihat hal itu beliau bersabda: "Tidak ada masalah bagimu, sebab ini adalah bapak dan budakmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4106</td></tr><tr><td>Arabic No</td><td>4106</td></tr><tr><td>Reference</td><td>Book 34 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что Пророк ﷺ пришёл к Фатиме с рабом, которого он подарил ей, а на Фатиме, да будет доволен ею Аллах, была такая одежда, что, если она закрывала ею голову, оставались открытыми ноги, а если она прикрывала ею ноги, оставалась открытой голова. Увидев это, Пророк ﷺ сказал: «Ничего страшного. Ведь это только твой отец и твой слуга»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4106</td></tr><tr><td>Arabic No</td><td>4106</td></tr><tr><td>Reference</td><td>Book 34 Hadith 87</td></tr></tbody></table></div>
 

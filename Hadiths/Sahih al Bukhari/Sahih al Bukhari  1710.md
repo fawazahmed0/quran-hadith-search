@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':'Abdullah (bin 'Umar), used to slaughter (his sacrifice) at the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dia mendengar [Khalid bin Al Harits] telah menceritakan kepada kami ['Ubaidullah bin 'Umar] dari [Nafi'] bahwa ['Abdullah radliallahu 'anhu] menyembelih hewan qurban pada tempat penyembelihannya". Berkata, 'Ubaidullah: Yaitu tempat penyembelihan hewan qurban Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1710</td></tr><tr><td>Arabic No</td><td>1710</td></tr><tr><td>Reference</td><td>Book 25 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, всегда приносил жертву на месте жертвоприношения /манхар/. Имеется в виду то место, где совершил жертвоприношение Посланник Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1710</td></tr><tr><td>Arabic No</td><td>1710</td></tr><tr><td>Reference</td><td>Book 25 Hadith 188</td></tr></tbody></table></div>
 

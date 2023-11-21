@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "We (Muslims) are the last (t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepadaku [Ishaq bin Ibrahim Al Hanzhali], Telah menceritakan kepada kami [Abdur Razaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] mengatakan, inilah yang [Abu Hurairah] ceritakan kepada kami dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Kita adalah orang yang datang terkemudian, namun kita adalah orang yang pertama-tama masuk surga, " Lantas Rasulullah Shallallahu'alaihiwasallam bersabda lagi: "Ketika aku tidur, aku diberi perbendaharaan bumi, lantas diletakkan di tanganku dua gelang emas. Keduanya betul betul menjadikanku resah dan sedih, lantas aku memperoleh wahyu agar aku meniupnya, keduanya pun terbang. Maka kutakwilkan bahwa aka ada dua pendusta yang aku berada diantara keduanya, pertama orang Shan'a (al-Aswad al 'Ansi), orang kedua orang Yamamah (Musailamah alkadzdzab)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7037</td></tr><tr><td>Arabic No</td><td>7037</td></tr><tr><td>Reference</td><td>Book 91 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И Посланник Аллаха ﷺ сказал: «Когда я спал, я увидел во сне, что мне были дарованы сокровищницы земли, а на мои руки были надеты два золотых браслета, которые были тяжёлыми для меня, и в тоже время не давали мне покоя. А потом мне было внушено в откровении подуть на эти браслеты, и после того как я подул на них, они исчезли. Я истолковал эти браслеты как двух лжецов, между которыми я нахожусь: (один из них) — правитель Саны, а другой — правитель аль-Йамамы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7037</td></tr><tr><td>Arabic No</td><td>7037</td></tr><tr><td>Reference</td><td>Book 91 Hadith 51</td></tr></tbody></table></div>
 

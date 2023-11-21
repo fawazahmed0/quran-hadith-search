@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) A group of Jews entered upon the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] bahwa [Aisyah] radliallahu 'anha isteri Nabi shallallahu 'alaihi wasallam berkata; "Sekelompok orang Yahudi datang menemui Rasulullah shallaallahu 'alaihi wa sallam, mereka lalu berkata; "Assaamu 'alaikum (semoga kecelakaan atasmu). Aisyah berkata; "Saya memahaminya maka saya menjawab; 'wa'alaikum as saam wal la'nat (semoga kecelakaan dan laknat tertimpa atas kalian)." Aisyah berkata; "Lalu Rasulullah shallaallahu 'alaihi wa sallam bersabda: "Tenanglah wahai Aisyah, sesungguhnya Allah mencintai sikap lemah lembut pada setiap perkara." Saya berkata; "Wahai Rasulullah! Apakah engkau tidak mendengar apa yang telah mereka katakan?" Rasulullah shallaallahu 'alaihi wa sallam menjawab: "Saya telah menjawab, 'WA 'ALAIKUM (dan semoga atas kalian juga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6024</td></tr><tr><td>Arabic No</td><td>6024</td></tr><tr><td>Reference</td><td>Book 78 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды несколько иудеев пришли к Посланнику Аллаха ﷺ и сказали: “Ас-саму ‘алейкум (Смерть вам!)”. Я же, поняв их слова, сказала: “(Это) вам смерть, проклятие Аллаха”. Но Посланник Аллаха ﷺ сказал (мне): “Постой, о ‘Аиша, поистине, Аллах любит (проявления) доброты во всём”. Я сказала: “О Посланник Аллаха, разве ты не слышал, что они сказали?!” Тогда Посланник Аллаха ﷺ сказал: “А я сказал им (в ответ): “И вам (того же)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6024</td></tr><tr><td>Arabic No</td><td>6024</td></tr><tr><td>Reference</td><td>Book 78 Hadith 55</td></tr></tbody></table></div>
 

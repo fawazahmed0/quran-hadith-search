@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) came to a woman who had been
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Utsman bin Umar] telah mengabarkan kepada kami [Syu'bah] dari [Tsabit Al Bunani] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam mendatangi seorang wanita yang sedang menangisi bayinya yang telah meninggal. Lalu beliau bersabda kepadanya: "Bertakwalah kepada Allah dan bersabarlah." Wanita itu menjawab, "Anda tidak merasakan bagaimana pedihnya musibah yang aku derita ini." Setelah beliau berlalu, dikatakanlah kepada wanita itu bahwa yang berbicara kepadanya itu adalah Rasulullah shallallahu 'alaihi wasallam. Mendengar hal itu, wanita itu (setengah mati ketakutan), lalu dia pergi menemui Rasulullah shallallahu 'alaihi wasallam dan didapatinya rumah beliau tidak dikawal, lalu ia masuk dan berkata, "Tadi aku tidak mengenal Anda wahai Rasulullah, (maafkanlah aku)." Beliau bersabda: "Sesungguhnya kesabaran yang sebenarnya adalah pada goncangan yang pertama." Dan telah menceritakannya kepada kami [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid bin Harits] -dalam jalur lain- dan telah menceritakan kepada kami [Uqbah bin Mukram Al Ammi] telah menceritakan kepada kami [Abdul Malik bin Amru] -dalam jalur lain- Dan telah menceritakan kepadaku [Ahmad bin Ibrahim Ad Dauraqi] telah menceritakan kepada kami [Abdush Shamad] mereka berkata, telah menceritakan kepada kami [Syu'bah] dengan Isnad ini dan serupa dengan hadits Utsman bin Umar serta kisahnya. Dan dalam hadits Abdush Shamad; Nabi shallallahu 'alaihi wasallam melewati seorang wanita di sisi kuburan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2140</td></tr><tr><td>Arabic No</td><td>926.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «Однажды Посланник Аллаха ﷺ, проходивший мимо какой-то женщины, которая стояла (у могилы) ребёнка, (остановился) и сказал (ей): “Бойся Аллаха и проявляй терпение”. (Женщина, не знавшая его в лицо), воскликнула: “А что тебе до горя, которое постигло меня?!” Когда Пророк ﷺ ушёл, ей сказали: “Это же был Посланник Аллаха ﷺ”, и она сама чуть не умерла (от страха, услышав это). Спустя некоторое время (эта женщина) пришла к дверям (дома Пророка ﷺ) и не обнаружила там привратников. (Встретившись с Пророком ﷺ,) она сказала ему: “О Посланник Аллаха, я не знала тебя (в лицо)!”, он же сказал ей: “Поистине, терпение (больше всего необходимо) проявлять при первом потрясении”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2140</td></tr><tr><td>Arabic No</td><td>926.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
 

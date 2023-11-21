@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "May Allah bestow His Mercy o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Talid] Telah menceritakan kepada kami ['Abdur Rahman bin Al Qasim] dari [Bakr bin Mudlar] dari ['Amru bin Al Harits] dari [Yunus bin Yazid] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dan [Abu Salamah bin 'Abdur Rahman] dari [Abu Hurairah radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Rahmat Allah semoga terlimpah kepada Luth sungguh ia telah berlindung kepada keluarga yang kuat. Sekiranya aku masuk penjara dan mendekam selama mendekamnya Yusuf, tentu aku akan menuruti ajakan penggoda. Dan kita lebih berhak untuk meminta kemantapan dari pada Ibrahim 'Alaihis Salam ketika Allah berfirman kepadanya: "Apakah kamu tidak beriman?" Ibrahim berkata; "Tentu aku sebenarnya telah beriman, akan tetapi agar hatiku lebih mantap. (QS.Al Baqarah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4694</td></tr><tr><td>Arabic No</td><td>4694</td></tr><tr><td>Reference</td><td>Book 65 Hadith 216</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Да помилует Аллах Лута: поистине, он опирался на прочную основу! А если бы я провёл в темнице столько же времени, сколько и Йусуф, (а затем ко мне пришёл бы тот, кто предложил выйти из тюрьмы), то я ответил бы на его призыв. И мы имеем больше оснований для сомнений, чем Ибрахим, которому было сказано: “Разве ты не уверовал?” Он ответил: “Да, (уверовал,) но я хочу, чтобы успокоилось сердце моё!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4694</td></tr><tr><td>Arabic No</td><td>4694</td></tr><tr><td>Reference</td><td>Book 65 Hadith 216</td></tr></tbody></table></div>
 

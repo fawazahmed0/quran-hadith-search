@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said, "When night falls (or
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Rauh bin 'Ubadah] telah mengabarkan kepada kami [Ibnu Juraij] dia berkata; telah mengabarkan kepadaku ['Atha'] bahwa dia mendengar [Jabir bin Abdullah] radliallahu 'anhuma berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila hari mulai malam atau malam telah tiba, maka tahanlah anak-anak kalian, karena saat itu syetan berkeliaran, apabila malam sudah mulai larut maka lepaskanlah mereka dan tutuplah pintu-pintu rumah kalian dan sebutlah nama Allah, karena syetan tidak mampu membuka pintu yang tertutup, dan tutuplah tempat air minum kalian sambil menyebut nama Allah dan tutup pula wadah-wadah kalian sambil menyebut nama Allah walaupun hanya dengan sesuatu yang dapat menutupinya dan matikanlah lampu-lampu kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5623</td></tr><tr><td>Arabic No</td><td>5623</td></tr><tr><td>Reference</td><td>Book 74 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Держите ваших детей (дома) с наступлением ночи, ибо, поистине, в этот период (по земле) расходятся шайтаны, а по прошествии некоторого времени можете отпускать (детей). И закрывайте (ночью) двери (своего дома), поминая имя Аллаха, ибо, поистине, шайтан не может открыть закрытую дверь. И завязывайте бурдюки, поминая имя Аллаха, и прикрывайте сосуды, поминая имя Аллаха, положив что-нибудь поперёк них. И гасите светильники (перед сном)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5623</td></tr><tr><td>Arabic No</td><td>5623</td></tr><tr><td>Reference</td><td>Book 74 Hadith 49</td></tr></tbody></table></div>
 

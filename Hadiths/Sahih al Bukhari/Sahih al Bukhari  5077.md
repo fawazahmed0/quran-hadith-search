@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I said, "O Allah's Messenger (ﷺ)! Suppose you landed in a vall
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abdullah] ia berkata; Telah menceritakan kepadaku [saudaraku] dari [Sulaiman] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Aku pernah bertanya kepada, "Wahai Rasulullah, bagaimanakah sekiranya Anda singgah di suatu lembah, dan di dalam lembah itu terdapat pohon yang buahnya telah dimakan, lalu Anda mendapatkan satu pohon yang buahnya belum di makan, maka pada pohon manakah Anda akan menambatkan Unta Anda?" belia pun menjawab: "Pada pohon yang belum dijamah." Maksudnya, adalah bahwa Rasulullah shallallahu 'alaihi wasallam belum pernah menikahi gadis selainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 67 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) я спросила (Пророка ﷺ): “О Посланник Аллаха, скажи мне, если бы ты остановился в долине, где есть и уже объеденные, и нетронутые деревья, к каким из них ты пустил бы пастись своего верблюда?” — и он сказал: “К тем, с которых никто ничего не ел”».\n(Передатчик этого хадиса сказал: «Задавая этот вопрос,) ‘Аиша, да будет доволен ею Аллах, имела в виду, что кроме неё Посланник Аллаха ﷺ не брал в жёны девственниц»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5077</td></tr><tr><td>Arabic No</td><td>5077</td></tr><tr><td>Reference</td><td>Book 67 Hadith 15</td></tr></tbody></table></div>
 

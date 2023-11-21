@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bari' b. 'Azib reported that the Messenger of Allah (ﷺ) observed Qunut in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar], keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah], katanya; "Aku mendengar [Ibnu Abu Laila] berkata; telah menceritakan kepada kami [Al Barra' bin 'Azib], bahwa Rasulullah shallallahu 'alaihi wasallam pernah melakukan qunut ketika subuh dan maghrib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1555</td></tr><tr><td>Arabic No</td><td>678.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 388</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Бараъ ибн ‘Азиба, что Посланник Аллаха ﷺ часто обращался к Аллаху с мольбами /кунут/ во время утренних и закатных молитв
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1555</td></tr><tr><td>Arabic No</td><td>678.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 388</td></tr></tbody></table></div>
 

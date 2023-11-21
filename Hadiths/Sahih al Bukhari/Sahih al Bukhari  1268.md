@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A man fell from his Mount and died while he was with the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Amru] dan [Ayyub] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhu] berkata; "Ada seorang laki-laki ketika sedang wukuf bersama Nabi shallallahu 'alaihi wasallam di 'Arafah terjatuh dari hewan tunggangannya". Berkata, Ayyub: "Maka hewannya itu mematahkan lehernya". Dan berkata, 'Amru: "Maka hewannya itu menginjaknya". Lalu orang itu meninggal. Sehingga ia terinjak" atau dia Ibnu 'Abbas radliallahu 'anhuma berkata: "Hingga orang itu mati seketika". Maka Beliau shallallahu 'alaihi wasallam berkata: "Mandikanlah dia dengan air yang dicampur daun bidara dan kafanilah dengan dua helai kain dan janganlah diberi wewangian dan jangan pula diberi tutup kepala (serban) karena dia nanti akan dibangkitkan pada hari qiyamat…Menurut Ayyub berkata: "sedang membaca talbiyyah". Dan menurut 'Amru: "sebagai orang yang bertalbiyyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1268</td></tr><tr><td>Arabic No</td><td>1268</td></tr><tr><td>Reference</td><td>Book 23 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Один человек, находившийся вместе с Пророком ﷺ во время стояния на ‘Арафате, неожиданно упал со своей верблюдицы, сломал себе шею (и умер). Посланник Аллаха ﷺ сказал: “Обмойте его водой с отваром сидра и заверните (тело) в два куска ткани, но не умащайте его благовониями и не покрывайте ему голову, ибо, поистине, в День воскресения он будет воскрешён произносящим тальбийу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1268</td></tr><tr><td>Arabic No</td><td>1268</td></tr><tr><td>Reference</td><td>Book 23 Hadith 29</td></tr></tbody></table></div>
 

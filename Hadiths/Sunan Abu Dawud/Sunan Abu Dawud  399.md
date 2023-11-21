@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: I would offer my noon prayer with the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Musaddad] mereka berdua berkata; Telah menceritakan kepada kami ['Abbad bin 'Abbad] telah menceritakan kepada kami [Muhammad bin Amru] dari [Sa'id bin Al Harits Al Anshari] dari [Jabir bin Abdullah] dia berkata; Saya pernah shalat Zhuhur bersama Rasulullah shallallahu 'alaihi wasallam, tatkala itu saya mengambil segenggam kerikil agar menjadi dingin pada telapak tanganku kemudian saya letakkan di keningku dan saya sujud padanya karena panas yang sangat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>399</td></tr><tr><td>Arabic No</td><td>399</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «Когда я совершал полуденную молитву с посланником Аллаха ﷺ я набирал горсть камешек, чтобы остудить их в своей руке, которые я затем ложил в то место, куда я упирался лбом, и совершал на них земной поклон (и делал это) из-за сильной жары»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>399</td></tr><tr><td>Arabic No</td><td>399</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
 

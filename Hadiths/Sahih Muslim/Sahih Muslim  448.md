@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali al-Jahdlami] dan [Abu Ghassan al-Masma'i] dan [Ishaq bin Ibrahim] semuanya dari [Abdul Aziz bin Abd ash-Shamad] dan lafazh tersebut milik Ghassan. Dia berkata, telah menceritakan kepada kami Abu Abd ash-Shamad telah menceritakan kepada kami [Abu Imran al-Jauni] dari [Abu Bakar bin Abdullah bin Qais] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ada dua buah Surga yang terbuat dari perak beserta wadah dan segala isi kandungannya, dan dua buah Surga yang terbuat dari emas beserta wadah dan segala isi kandungannya. Penghalang ahli Surga untuk memandang Rabb mereka hanyalah hijab Keagungan pada Wajah-Nya di Surga Adn
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>448</td></tr><tr><td>Arabic No</td><td>180</td></tr><tr><td>Reference</td><td>Book 1 Hadith 353</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Кайс, что Посланник Аллаха ﷺ сказал: «(Есть) два сада, посуда и всё прочее, в которых (сделано) из серебра, и два (других) сада, посуда и всё прочее, в которых (сделано) из золота, и ничто не помешает людям смотреть на их Господа, кроме накидки величия на Его Лике в садах Эдема»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>448</td></tr><tr><td>Arabic No</td><td>180</td></tr><tr><td>Reference</td><td>Book 1 Hadith 353</td></tr></tbody></table></div>
 

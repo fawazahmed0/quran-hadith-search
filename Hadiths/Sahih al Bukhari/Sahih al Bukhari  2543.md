@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I have loved the people of the tribe of Bani Tamim ever sin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari ['Umarah bin Al Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] berkata: "Senantiasa aku mencintai Bani Tamim". Dan telah menceritakan kepadaku [Ibnu Salam] telah mengabarkan kepada kami [Jarir bin 'Abdul Hamid] dari [Al Mughirah] dari [Al Harits] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu]. Dan dari ['Umarah] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] berkata: "Senantiasa aku mencintai Bani Tamim sejak aku mendengar tiga perkara yang dikatakan oleh Rasulullah shallallahu 'alaihi wasallam dimana Beliau berkata, tentang mereka yang aku medengarnya, Beliau berkata: "Mereka adalah ummatku yang paling keras perlawanannya terhada Ad-Dajjal". Dia berkata: "Ketika datang zakat-zakat dari mereka, Rasulullah shallallahu 'alaihi wasallam bersabda: "Inilah zakatnya kaum kita". Dan ketika diantara tawanan mereka ada yang diambil oleh 'Aisyah, Beliau bersabda: "Bebaskanlah, karena dia dari keturunan Nabi Isma'il
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2543</td></tr><tr><td>Arabic No</td><td>2543</td></tr><tr><td>Reference</td><td>Book 49 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «С тех пор как я услышал, что Посланник Аллаха ﷺ сказал о (людях из племени) бану тамим три вещи, я всегда любил их. Он сказал: “(Из всех членов) моей общины они проявят наибольшую стойкость (в противодействии) Антихристу”. Когда от них доставили садаку, Посланник Аллаха ﷺ сказал: “Это — садака наших людей”. У ‘Аиши была рабыня из числа (этих людей, и Пророк ﷺ) сказал (‘Аише): “Освободи её, ибо она из потомков Исма‘ила”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2543</td></tr><tr><td>Arabic No</td><td>2543</td></tr><tr><td>Reference</td><td>Book 49 Hadith 26</td></tr></tbody></table></div>
 

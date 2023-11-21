@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman ibn Mu'adh at-Taymi: The Messenger of Allah (ﷺ) addressed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abdul Warits] dari [Humaid Al A'raj] dari [Muhammad bin Ibrahim At Taimi] dari [Abdurrahman bin Mu'dz At Taimi], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam berkhutbah kepada Kami sementara Kami berada di Mina. Pendengaran Kami terbuka hingga Kami mendengar apa yang beliau ucapkan sementara Kami berada di tempat singgah Kami. Beliau mengajarkan kepada mereka ibadah haji mereka hingga sampai melempar jumrah. Kemudian beliau meletakkan kedua jari telunjuknya kemudian mengatakan: "Dengan kerikil khadzaf (seukuran untuk ketapel)." Kemudian memerintahkan orang-orang muhajirin untuk singgah di depan masjid, dan memerintahkan orang-orang anshar untuk singgah di belakang masjid, kemudian orang-orang singgah setelah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 11 Hadith 237</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абду-р-Рахман ибн Му‘аз ат-Тейми, да будет доволен им Аллах, передаёт: «Посланник Аллаха ﷺ обратился к нам с проповедью в Мине, и слух наш вдруг обострился настолько, что мы слышали то, что он говорил, оставаясь на своих местах. Он стал обучать людей совершению обрядов хаджа и дошёл до бросания камешков. И он соединил указательные пальцы и сказал: “Маленькими камешками”. Затем он велел мухаджирам расположиться в передней части мечети, а ансарам в задней, а остальные люди расположились после них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 11 Hadith 237</td></tr></tbody></table></div>
 

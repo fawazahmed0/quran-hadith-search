@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When (the dead body of) 'Umar was put on his deathbed, the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] telah bercerita kepada kami ['Umar bin Sa'id] dari [Ibnu Abu Mulaikah] bahwa dia mendengar [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Setelah jasad 'Umar diletakkan di atas tempat tidurnya, orang-orang datang berkumpul lalu mendo'akan dan menshalatinya sebelum diusung. Saat itu aku ada bersama orang banyak, dan tidaklah aku terkaget melainkan setelah ada orang yang meletakkan siku lengannya pada bahuku, yang ternyata dia adalah ['Ali bin Abu Thalib]. Kemudian dia memohonkan rahmat bagi 'Umar dan berkata; "Sama sekali tidak engkau tinggalkan seorangpun yang lebih aku sukai agar Allah berikan pembalasan sesuai keistimewaan amalnya daripadamu." Dan demi Allah, sungguh aku yakin sekali bahwa Allah akan menjadikan kamu bersama kedua sahabatmu (Nabi shallallahu 'alaihi wasallam dan Abu Bakr) dikarenakan aku sering kali mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Aku berangkat (bepergian) bersama Abu Bakr dan 'Umar. Aku masuk bersama Abu Bakr dan 'Umar. Aku keluar bersama Abu Bakr dan 'Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3685</td></tr><tr><td>Arabic No</td><td>3685</td></tr><tr><td>Reference</td><td>Book 62 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Когда я находился среди людей, которые обращались к Аллаху с мольбами за лежавшего на своём смертном одре ‘Умара, какой-то человек, стоявший позади меня, взял меня за плечи, и оказалось, что это ‘Али ибн Аби Талиб. Он стал просить милости для ‘Умара, говоря: “Ты не оставил после себя человека, чьим деяниям я хотел бы подражать и встретить с ними Аллаха, подобного тебе. Клянусь Аллахом, я надеялся, что Аллах соединит тебя с двумя твоими товарищами, ибо я часто слышал, как Пророк ﷺ говорил: “Я отправился (туда-то) вместе с Абу Бакром и ‘Умаром; я вошёл (туда-то) вместе с Абу Бакром и ‘Умаром; я вышел (оттуда-то) вместе с Абу Бакром и ‘Умаром!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3685</td></tr><tr><td>Arabic No</td><td>3685</td></tr><tr><td>Reference</td><td>Book 62 Hadith 35</td></tr></tbody></table></div>
 

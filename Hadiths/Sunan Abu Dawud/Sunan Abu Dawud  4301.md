@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Awf ibn Malik: The Prophet (ﷺ) said: Allah will not gather two swords
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Najdah] berkata, telah menceritakan kepada kami [Isma'il]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Harun bin Abdullah] berkata, telah menceritakan kepada kami [Al Hasan bin Sawwar] berkata, telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada kami [Sulaiman bin Sulaim] dari [Yahya bin Jabir Ath Tha'i] berkata; Harun dalam haditsnya menyebutkan dari [Auf bin Malik] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekali-kali Allah tidak akan mengumpulkan dua pedang pada umat ini; satu pedang dari mereka dan satu pedang lagi dari musuh mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4301</td></tr><tr><td>Arabic No</td><td>4301</td></tr><tr><td>Reference</td><td>Book 39 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Ауфа ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Аллах сделает так, что в моей общине не поднимется одновременно два меча: меч изнутри её и меч внешнего врага»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4301</td></tr><tr><td>Arabic No</td><td>4301</td></tr><tr><td>Reference</td><td>Book 39 Hadith 11</td></tr></tbody></table></div>
 

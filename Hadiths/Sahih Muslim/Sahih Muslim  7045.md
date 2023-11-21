@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:A bulky person would be b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Bakr bin Ishaq] telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepadaku [Al Mughirah Al Hizami] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: Sungguh pada hari kiamat akan datang seseorang yang berbadan gemuk namun di sisi Allah timbangannya tidak dapat melebihi berat sayap seekor nyamuk. Bacalah ayat; …dan kami tidak memberikan penimbangan terhadap (amal) mereka pada hari kiamat (Al Kahfi:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7045</td></tr><tr><td>Arabic No</td><td>2785</td></tr><tr><td>Reference</td><td>Book 52 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7045</td></tr><tr><td>Arabic No</td><td>2785</td></tr><tr><td>Reference</td><td>Book 52 Hadith 1</td></tr></tbody></table></div>
 

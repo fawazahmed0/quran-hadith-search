@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported that Khawlah daughter of Yasar came to the Prophet (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ibnu Lahi'ah] dari [Yazid bin Abu Habib] dari [Isa bin Thalhah] dari [Abu Hurairah] bahwasanya Khaulah binti Yasar pernah mendatangi Nabi shallallahu 'alaihi wasallam, kemudian berkata; Wahai Rasulullah! Sesungguhnya saya hanya mempunyai satu baju, sementara saya memakainya untuk haidl. Apa yang saya lakukan? Beliau bersabda: "Apabila kamu telah suci, maka cucilah kain itu, kemudian shalatlah dengannya". Lalu dia berkata; Jika darah tersebut tidak luntur (tidak mau hilang)? Beliau bersabda: "Cukuplah kamu mencuci darah itu, dan bekas darah itu tidak memudlaratkanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>365</td></tr><tr><td>Arabic No</td><td>365</td></tr><tr><td>Reference</td><td>Book 1 Hadith 365</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Хауля бинт Йасар пришла к Пророку ﷺ и спросила: «О Посланник Аллаха, у меня нет одежды, кроме одной и у меня в ней проходит менструальный цикл, как мне быть с этим?» Он ответил: «Когда ты очистишься, постирай ее, а затем совершай в ней молитву». Она сказала: «А что если (следы) крови не сойдут?» Он ответил: «Тебе будет достаточно смыть кровь, а следы (крови) не причинят тебе вреда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>365</td></tr><tr><td>Arabic No</td><td>365</td></tr><tr><td>Reference</td><td>Book 1 Hadith 365</td></tr></tbody></table></div>
 

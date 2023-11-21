@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim:Sahl bin Sa'd said that a woman brought a Burda (sheet) to th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah menceritakan kepada kami [Abu Ghassan] dia berkata; telah menceritakan kepadaku [Abu Hazim] dari [Sahl bin Sa'd] dia berkata; "Seorang wanita datang kepada Nabi shallallahu 'alaihi wasallam dengan membawa selimut bersulam. Sahal bertanya: Apa kalian tahu selimut apakah itu? Mereka menjawab; "Ya, ia adalah mantel." Sahal berkata; Ia adalah mantel bersulam yang ada rendanya. Lalu wanita itu berkata; "Wahai Rasulullah! aku membawanya untuk mengenakannya pada anda." Lalu Nabi shallallahu 'alaihi wasallam mengambilnya karena beliau sangat memerlukannya. Kemudian beliau mengenakan mantel tersebut ternyata salah seorang dari sahabat melihat beliau mengenakan mantel itu lalu berkata; "Alangkah bagusnya selimut ini, kenakanlah untukku wahai Rasulullah!" Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya." Ketika Nabi shallallahu 'alaihi wasallam beranjak pergi, orang-orang pun mencela sahabat tersebut sambil berkata; "Demi Allah, kau berlaku kurang ajar. Kamu tahu, Rasulullah shallallahu 'alaihi wasallam diberi selimut itu saat beliau memerlukannya, malahan kau memintanya, padahal kau tahu beliau tidak pernah menolak seorang peminta pun." Sahabat itu berkata; "Aku hanya mengharap keberkahannya ketika Nabi shallallahu 'alaihi wasallam mengenakannya semoga kain itu menjadi kafanku pada saat aku meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6036</td></tr><tr><td>Arabic No</td><td>6036</td></tr><tr><td>Reference</td><td>Book 78 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль сказал: «(Как-то раз) одна женщина принесла (в подарок) Пророку ﷺ окантованный тканый плащ /бурда/».\n(Рассказывавший об этом Сахль спросил слушавших его людей): «Знаете ли вы, что такое плащ?» Они сказали: «Это накидка /шамля/». (Сахль) cказал: «(Да), это окантованная тканная накидка».\n(Далее Сахль сказал): «(Эта женщина сказала): “О Посланник Аллаха, (я соткала это и пришла сюда, чтобы) надеть его на тебя”, и Пророк ﷺ взял (этот плащ), поскольку нуждался в нём, а затем надел его на себя. Увидев его, один человек из числа сподвижников сказал: “О Посланник Аллах, как он красив! Надень его на меня”. Пророк ﷺ сказал: “Хорошо”. Когда Пророк ﷺ ушёл, товарищи этого человека стали осуждать его, сказав: “Нехорошо ты поступил, ведь Пророк ﷺ надел его, так как нуждался в плаще, а потом ты обратился к нему с этой просьбой, зная о том, что он никому не отказывает!” (Этот человек сказал): “Я желал получить его благословение /баракят/, (одев его после) Пророка ﷺ, и может быть я буду похоронен в нём!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6036</td></tr><tr><td>Arabic No</td><td>6036</td></tr><tr><td>Reference</td><td>Book 78 Hadith 66</td></tr></tbody></table></div>
 

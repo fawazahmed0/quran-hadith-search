@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. Shaqiq:I asked 'Aishah: Did the Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Al Jurairi] dari [Abdullah bin Syaqiq] dia berkata; aku pernah bertanya kepada [Aisyah]; "Apakah Rasulullah shallallahu 'alaihi wasallam biasa melaksanakan shalat Dhuha?" Aisyah menjawab; "tidak, kecuali jika beliau tiba dari suatu perjalanan." Tanyaku selanjutnya; "Apakah beliau juga sering menggabungkan antara dua surat?" Jawab Aisyah; "Ya, di surat-surat yang di baca pendek (yaitu dari surat Qaaf atau Al Hujurat sampai surat an nas -pent)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (717)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1292</td></tr><tr><td>Arabic No</td><td>1292</td></tr><tr><td>Reference</td><td>Book 5 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал ‘Абдуллах ибн Шакык: «Я спросил ‘Аишу: “Совершал ли Посланник Аллаха ﷺ молитву-духа?” Она ответила: “Нет, за исключением тех случаев, когда возвращался после долгого отсутствия”. Я спросил: “А читал ли он (в одном рак‘ате) по несколько сур сразу?” Она ответила: “Да, из коротких сур /муфассаль/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (717)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1292</td></tr><tr><td>Arabic No</td><td>1292</td></tr><tr><td>Reference</td><td>Book 5 Hadith 43</td></tr></tbody></table></div>
 

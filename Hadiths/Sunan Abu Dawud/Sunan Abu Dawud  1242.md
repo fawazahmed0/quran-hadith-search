@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dawud said:This tradition has been transmitted by 'Aishah through a differen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Daud berkata; telah menceritakan kepada kami ['Ubaidullah bin Sa'd] katanya; telah menceritakan kepadaku [pamanku] telah menceritakan kepada kami [ayahku] dari [Ibnu Ishaq] telah menceritakan kepada kami [Muhammad bin Ja'far bin Az Zubair] bahwa ['Urwah bin Zubair] telah menceritakan kepadanya, bahwa [Aisyah] pernah menceritakan kepadanya dengan kisah seperti ini, kata Asiyah; 'Rasulullah shallallahu 'alaihi wasallam bertakbir, begitu juga dengan kelompok yang shalat bersama beliau ikut bertakbir, kemudian beliau ruku, mereka juga ruku', lalu beliau sujud, mereka juga ikut sujud, lalu beliau mengangkat kepala (duduk di antara dua sujud), lalu mereka ikut bangkit, namun Rasulullah shallallahu 'alaihi wasallam masih tetap duduk, sementara mereka mengerjakan sujud kedua sendiri-sendiri. Kemudian mereka berdiri dan berjalan mundur pelan-pelan sehingga berdiri di belakang mereka (kelompok kedua), dan kelompok kedua datang, lalu mereka berdiri di belakang Rasulullah shallallahu 'alaihi wasallam, mereka bertakbir dan ruku' sendiri-sendiri, setelah ruku', Rasulullah shallallahu 'alaihi wasallam sujud, maka mereka juga sujud bersama beliau. kemudian Rasulullah shallallahu 'alaihi wasallam berdiri, sedangkan mereka mengerjakan sujud kedua sendiri-sendiri, setelah itu kedua kelompok tersebut berdiri semua, mengerjakan shalat bersama dengan Rasulullah shallallahu 'alaihi wasallam. beliau ruku', lalu mereka juga ikut ruku', beliau sujud mereka juga sujud. Lalu beliau kembali duduk, terus sujud lagi yang kedua, maka mereka juga ikut sujud bersama beliau secepatnya dan sangat cepat tanpa mengurangi kesempurnaan (sujud), setelah itu Rasulullah shallallahu 'alaihi wasallam salam dan mereka juga ikut salam bersama beliau." Rasulullah shallallahu 'alaihi wasallam berdiri dalam semua shalat yang di sertai oleh semua jama'ah shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1242</td></tr><tr><td>Arabic No</td><td>1242</td></tr><tr><td>Reference</td><td>Book 4 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах передаёт в этой истории: «Посланник Аллаха ﷺ произнёс такбир, и ряд стоявших за ним также произнёс такбир. Затем он совершил поясной поклон, и они вместе с ним. Затем он совершил земной поклон, и они вместе с ним. Затем он поднял голову (после земного поклона), и они вместе с ним. Затем он остался сидеть, а они совершили второй земной поклон самостоятельно. Затем они поднялись и отошли, пятясь задом, пока не оказались позади остальных. А те встали на их место, произнесли такбир и совершили поясной поклон самостоятельно. Затем Посланник Аллаха ﷺ совершил земной поклон, и они вместе с ним. Затем он встал, а они совершили второй земной поклон самостоятельно, затем обе группы встали и совершили молитву с посланником Аллаха ﷺ. Он совершил поясной поклон, и они вместе с ним. Затем он совершил земной поклон, и они вместе с ним. Затем он совершил второй земной поклон, и они быстро совершили его вместе с ним. Затем Посланник Аллаха ﷺ произнёс таслим, и они вместе с ним. Потом Посланник Аллаха ﷺ поднялся. Таким образом, все люди приняли участие в молитве вместе с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1242</td></tr><tr><td>Arabic No</td><td>1242</td></tr><tr><td>Reference</td><td>Book 4 Hadith 45</td></tr></tbody></table></div>
 

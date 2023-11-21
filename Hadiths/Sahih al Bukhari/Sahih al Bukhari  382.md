@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:'Aisha the wife of the Prophet (ﷺ) said, "I used to sleep 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Abu An Nadlr] mantan budak 'Umar bin 'Ubaidullah, dari [Abu Salamah bin 'Abdurrahman] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, ia berkata, "Aku pernah tidur di depan Rasulullah shallallahu 'alaihi wasallam sementara kedua kakiku di arah Qiblat (shalatnya). Jika sujud beliau menyentuh kakiku, maka aku tarik kedua kakiku. Dan jika berdiri aku kembali meluruskan kakiku." 'Aisyah berkata, "Pada saat itu di rumah-rumah belum ada lampu penerang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>382</td></tr><tr><td>Arabic No</td><td>382</td></tr><tr><td>Reference</td><td>Book 8 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, сказала: «Обычно я спала перед посланником Аллаха ﷺ (протягивая) ноги в направлении его киблы. Совершая земной поклон, он касался меня (рукой), и тогда я подбирала ноги, а когда он вставал, (снова) вытягивала их».\n(‘Аиша) сказала: «В то время в домах не было ламп»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>382</td></tr><tr><td>Arabic No</td><td>382</td></tr><tr><td>Reference</td><td>Book 8 Hadith 34</td></tr></tbody></table></div>
 

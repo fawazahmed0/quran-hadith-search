@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ja'far b. 'Amr b. Huraith reported his father as saying:As if I am seeing Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Al Hasan Al Hulwani] keduanya berkata, Telah menceritakan kepada kami [Abu Usamah] dari [Musawir Al Warraq] ia berkata, telah menceritakan kepadaku -sementara di dalam riwayat Al Hulwani ia berkata- saya mendengar [Ja'far bin Amru bin Huraits] dari [bapaknya] ia berkata; "Sepertinya aku melihat Rasulullah shallallahu 'alaihi wasallam di atas mimbar dengan mengenakan surban hitam yang kedua ujungnya telah beliau turunkan di antara kedua pundak." Sementara Abu Bakr tidak menyebutkan; "Di atas mimbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3312</td></tr><tr><td>Arabic No</td><td>1359.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 516</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3312</td></tr><tr><td>Arabic No</td><td>1359.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 516</td></tr></tbody></table></div>
 

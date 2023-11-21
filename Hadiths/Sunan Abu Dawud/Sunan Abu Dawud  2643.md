@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Usamah bin Zaid said “The Messenger of Allah (ﷺ) sent us with a detachment t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] dan [Utsman bin Abu Syaibah], secara makna, mereka berkata; telah menceritakan kepada kami [Ya'la bin 'Ubaid] dari [Al A'masy] dari [Abu Zhabyan], telah menceritakan kepada kami [Usamah bin Zaid], ia berkata; Rasulullah shallallahu 'alaihi wasallam mengutus kami dalam kesatuan militer menuju Al Huraqat. Kemudian mereka mengetahui kedatangan kami, lalu mereka melarikan diri. Kemudian kami mendapati seorang laki-laki, dan tatkala kami mengepungnya ia mengucapkan: LAA ILAAHA ILLALLAAH kemudian kami menebasnya hingga kami membunuhnya. Lalu hal tersebut aku ceritakan kepada Nabi shallallahu 'alaihi wasallam, lalu beliau berkata: "Siapakah yang akan menolongmu apabila LAA ILAAHA ILLALLAAH telah datang pada Hari Kiamat?" Lalu aku katakan; wahai Rasulullah, sesungguhnya ia mengucapkannya karena takut kepada senjata. Beliau berkata: "Apakah engkau telah membelah hatinya hingga engkau mengetahui apakah ia mengucapkannya atau tidak? Siapakah yang akan menolongmu apabila LAA ILAAHA ILLALLAAH telah datang pada Hari Kiamat?" Beliau terus mengucapkan hal tersebut hingga aku berharap bahwa aku belum masuk Islam kecuali pada saat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6872) Sahih Muslim (96)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2643</td></tr><tr><td>Arabic No</td><td>2643</td></tr><tr><td>Reference</td><td>Book 15 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6872) Sahih Muslim (96)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2643</td></tr><tr><td>Arabic No</td><td>2643</td></tr><tr><td>Reference</td><td>Book 15 Hadith 167</td></tr></tbody></table></div>
 

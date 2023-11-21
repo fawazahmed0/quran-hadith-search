@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:I saw a person praying at Muqam-Ibrahim (the place of Abraham b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Aun] berkata, telah menceritakan kepada kami [Husyaim] dari [Abu Bisyr] dari ['Ikrimah] berkata, "Aku melihat seseorang shalat di dekat Maqam (Masjidil Haram), lalu dia bertakbir pada setiap menurunkan tangan, setiap mengangkat tangan dan ketika berdiri dan turun." Aku lalu kabarkan hal itu kepada [Ibnu 'Abbas] radliallahu 'anhu, maka ia berkata, "Bagaimana kamu ini, bukankah memang begitu caranya Nabi shallallahu 'alaihi wasallam melaksanakan shalatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>787</td></tr><tr><td>Arabic No</td><td>787</td></tr><tr><td>Reference</td><td>Book 10 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Икримы, что он сказал: «Я видел человека около “макама”, который говорил: “Аллаху акбар” каждый раз, когда он опускался и поднимался, и когда вставал и садился. И рассказал об этом Ибн ‘Аббасу, да будет доволен им Аллах, на что он ответил: “Разве не такой была молитва Пророка ﷺ нет у тебя матери /выражение, означающее удивление или порицание/!?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>787</td></tr><tr><td>Arabic No</td><td>787</td></tr><tr><td>Reference</td><td>Book 10 Hadith 182</td></tr></tbody></table></div>
 

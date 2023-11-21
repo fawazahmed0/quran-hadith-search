@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Once in the middle of the night Allah's Messenger (ﷺ) (p.b.u.h)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah mengabarkan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepadaku ['Urwah] bahwa ['Aisyah] radliallahu 'anha mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam pada suatu malam keluar di tengah malam untuk melaksanakan shalat di masjid, orang-orang kemudian mengikuti beliau dan shalat dibelakangnya. Pada waktu paginya orang-orang membicarakan kejadian tersebut. Kemudian pada malam berikutnya orang-orang yang berkumpul bertambah banyak lalu ikut shalat dengan Beliau. Dan pada waktu paginya orang-orang kembali membicarakan kejadian tersebut. Kemudian pada malam yang ketiga orang-orang yang hadir di masjid semakin bertambah banyak lagi, lalu Rasulullah shallallahu 'alaihi wasallam keluar untuk shalat dan mereka shalat bersama beliau. Kemudian pada malam yang keempat, masjid sudah penuh dengan jama'ah hingga akhirnya beliau keluar hanya untuk shalat Shubuh. Setelah beliau selesai shalat Fajar, beliau menghadap kepada orang banyak membaca syahadat lalu bersabda: "Amma ba'du, sesungguhnya aku bukannya tidak tahu keberadaan kalian (semalam). Akan tetapi aku takut shalat tersebut akan diwajibkan atas kalian, sementara kalian tidak mampu." Abu 'Abdullah Al Bukhari berkata, "Hadits ini dikuatkan oleh [Yunus]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>924</td></tr><tr><td>Arabic No</td><td>924</td></tr><tr><td>Reference</td><td>Book 11 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщают со слов ‘Аиши, что однажды поздно ночью Посланник Аллаха ﷺ вышел (из дома) и стал совершать молитву в мечети, и некоторые люди совершили молитву вместе с ним, следуя ему. Наутро эти люди стали рассказывать (об этом другим). (На следующую ночь) их собралось больше, и они совершили молитву вместе с ним, а наутро рассказали (об этом другим). На третью ночь в мечети собралось уже много людей. Посланник Аллаха ﷺ вышел (из дома), и люди совершили молитву вместе с ним. На четвёртую ночь мечеть уже не смогла вместить людей. Наутро Пророк ﷺ вышел на утреннюю молитву, после того как он ее завершил, он повернулся к людям, произнёс слова свидетельства и сказал: «А затем, поистине, я знал (то, что вы) находились (здесь), но я побоялся, что (эта молитва) станет для вас обязательной, и вы не сможете ее совершать!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>924</td></tr><tr><td>Arabic No</td><td>924</td></tr><tr><td>Reference</td><td>Book 11 Hadith 48</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Wa'il reported:One day we went to 'Abdullah b. Mas'ud after we had observed 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Mahdi bin Maimun] telah menceritakan kepada kami [Washil Al Ahdab] dari [Abu Wa'il] ia berkata; Pada suatu hari setelah menunaikan shalat Shubuh, kami pergi menemui [Abdullah bin Mas'ud]. Kami mengucapkan salam di depan pintu, lalu ia pun mengizinkan kami, namun kami tetap berada di dekat pintu sejenak lalu keluarlah seorang budak wanita dan berkata, "Tidakkah kalian masuk?” Maka kami segera masuk, dan ternyata kami dapati Ibnu Mas'ud sedang duduk bertasbih. Ibnu Mas'ud bertanya, "Apa yang menghalangi kalian untuk masuk, padahal kalian telah diizinkan?” Kami menjawab, "Tidak ada, melainkan kami hanya menyangka bahwa sebagian penghuni rumah masih tidur." Ibnu Mas'ud berkata, "Kalian menyangka bahwa keluarga Ibnu Ummi Abdu adalah para pemalas?” Dia kemudian meneruskan bacaan tasbihnya hingga kami mengira bahwa matahari telah terbit. Lalu ia bertanya, "Wahai Jariyah (budak wanita), lihatlah apakah matahari telah terbit?” budak wanita itu pun melihat, ternyata matahari belum terbit. Maka Ibnu Mas'ud kembali bertasbih hingga ia merasa bahwa matahari telah terbit, lalu ia pun bertanya lagi, "Wahai Jariyah, apakah matahari telah terbit?” budak wanita itu pun melihatnya, dan ternyata matahari telah terbit. Maka Ibnu Mas'ud berkata, "Segala puji bagi Allah Yang telah membangkitkan kami di hari ini." Mahdi berkata; Aku menduga bahwa ia berkata, "Dan Dia tidak membinasakan kami lantaran dosa-dosa kami." Lalu berkatalah seorang laki-laki dari kaum itu, "Semalam, saya telah membaca Al Mufashshal seluruhnya." Maka Abdullah bin Mas'ud pun berkata, "Cepatnya beliau membaca adalah seperti cepatnya membaca sya'ir. Saya telah mengetahui An Nazha'ir (surat-surat yang hampir sama baik panjangnya atau pun maknanya), yang mana Rasulullah shallallahu 'alaihi wasallam membacanya yaitu delapan belas surat dari Al Mufashshal dan dua surat dari Alif Lamm Hammim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1911</td></tr><tr><td>Arabic No</td><td>822.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 339</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Ваиль сказал: «(Как-то раз) после совершения утренней молитвы мы пошли к ‘Абдуллаху ибн Мас‘уду. Мы поприветствовали его у дверей, и он разрешил нам войти». (Абу Ваиль) сказал: «(После этого) мы некоторое время продолжали стоять у двери, а потом (из дома) вышла рабыня и спросила: “Вы что, не войдёте?” Тогда мы вошли и увидели, что (‘Абдуллах) сидит (в комнате), поминая Аллаха. Он спросил: “Почему вы не входили, ведь я разрешил вам?” Мы стали говорить: “Мы просто подумали, что кто-то из твоих домочадцев ещё спит”. Он сказал: “(Может быть), вы сочли, что (кто-то из членов) семьи сына Умм ‘Абд проявляет беспечность?” После этого он снова стал поминать Аллаха, а когда решил, что солнце уже взошло, сказал: “О девушка, посмотри, взошло ли солнце”. Она посмотрела, и оказалось, что (солнце) ещё не взошло. Тогда он снова стал поминать Аллаха, а когда решил, что солнце уже взошло, сказал: “О девушка, посмотри, взошло ли солнце”, и она посмотрела. (На этот раз) оказалось, что солнце уже взошло, и тогда (‘Абдуллах) воскликнул: “Хвала Аллаху, Который сегодня простил нас”». Махди сказал: «И я считаю, что (‘Абдуллах ибн Мас‘уд также) сказал “и не погубил нас за наши грехи”».(Абу Ваиль) сказал: «После этого кто-то (из присутствовавших) сказал: “Вчера я прочёл (все суры) муфассаля”, на что ‘Абдуллах сказал: “(Значит), ты читал очень быстро, как читают стихи, что же касается нас, то мы слышали чтение Посланника Аллаха ﷺ, и я точно помню, что он читал по две близких друг к другу (по длине или смыслу) суры из числа восемнадцати сур муфассаля и какие-нибудь две суры из тех, что начинаются с «Ха. Мим»”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1911</td></tr><tr><td>Arabic No</td><td>822.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 339</td></tr></tbody></table></div>
 

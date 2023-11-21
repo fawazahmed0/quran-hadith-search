@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qatadah: Through the same chain of narrators as mentioned before, i.e. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali Ibnul Ja'd] berkata, telah menceritakan kepada kami [Syu'bah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Qatadah] dari [Al Hasan] dari [Samurah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa membunuh budaknya maka kami akan membunuhnya, dan barangsiapa memotong hidung budaknya maka kami akan memotong hidungnya." Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] berkata, telah menceritakan kepada kami [Mu'adz bin Hisyam] berkata, telah menceritakan kepadaku [Bapakku] dari [Qatadah] dengan sanadnya yang sama. Ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengebiri budaknya maka kami akan mengebirinya." Kemudian ia menyebutkan sebagaimana hadits Syu'bah dan Hamamd." Abu Dawud berkata, " [Abu Dawud Ath Thayalisi] meriwayatkannya dari [Hisyam] seperti hadits [Mu'adz]. Telah menceritakan kepada kami [Al Hasan bin Ali] berkata, telah menceritakan kepada kami [Sa'id bin Amir] dari [Ibnu Abu Arubah] dari [Qatadah] dengan sanad [Syu'bah] seperti hadits itu. Hanya saja ia menambahkan, bahwa Al Hasan melupakan hadits ini. Ia menyebutkan, "Orang merdeka tidak boleh dibunuh karena seorang budak (yakni qishas)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4516</td></tr><tr><td>Arabic No</td><td>4516</td></tr><tr><td>Reference</td><td>Book 41 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Катада передаёт сообщение с тем же иснадом, что Посланник Аллаха ﷺ сказал: «Кто оскопил своего раба, того мы оскопим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4516</td></tr><tr><td>Arabic No</td><td>4516</td></tr><tr><td>Reference</td><td>Book 41 Hadith 23</td></tr></tbody></table></div>
 

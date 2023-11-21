@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masriq:'Abdullah bin 'Amr mentioned 'Abdullah bin Masud and said, "I sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] Telah menceritakan kepada kami [Syu'bah] dari [Amru] dari [Ibrahim] dari [Masruq] bahwasanya; [Abdullah bin Amru] menyebut Abdullah bin Mas'ud seraya berkata, "Aku senantiasa mencintainya. Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: 'Ambillah Al Qur'an itu dari empat orang. Yaitu dari, Abdullah bin Mas'ud, Salim, Mu'adz bin Jabal dan Ubay bin Ka'ab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>4999</td></tr><tr><td>Reference</td><td>Book 66 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Абдуллах ибн ‘Амр однажды помянул 'Абдуллаха ибн Мас‘уда и сказал: «Я все так же люблю его. Я слышал, как Пророк ﷺ сказал: “Берите Коран от четырёх людей: ‘Абдуллаха ибн Мас‘уда, Салима, Му‘аза ибн Джабаля и Убаййа ибн Ка‘ба”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>4999</td></tr><tr><td>Reference</td><td>Book 66 Hadith 21</td></tr></tbody></table></div>
 

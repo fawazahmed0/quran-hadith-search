@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais bin Ubad:While I was sitting in the Mosque of Medina, there entere
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami [Azhar as-Samman] dari [Ibnu 'Aun] dari [Muhammad] dari [Qais bin 'Abbad] berkata; Aku pernah duduk di masjid Madinah lalu datang seorang laki-laki yang nampak pada wajahnya tanda-tanda kekhusyu'an. Orang-orang berkata; "Inilah seseorang diantara calon penghuni surga". Orang itu kemudian mengerjakan shalat dua raka'at dengan menyempurnakannya lalu keluar masjid. Aku mengikutinya lalu aku berkata; " ketika anda masuk masjid tadi orang-orang mengatakan bahwa anda termasuk calon penghumi surga". Orang itu berkata; "Demi Allah, sungguh tidak patut buat seorangpun mengatakan hal yang dia tidak mengetahuinya. Aku akan ceritakan kepadamu apa alasannya. Sungguh aku pernah bermimpi pada zaman Nabi shallallahu 'alaihi wasallam lalu aku ceritakan mimpiku kepada beliau. Dalam mimpiku itu seolah aku melihat taman yang luas, suasananya yang hijau nan asri, di tengahnya ada tiang-tiang dari besi. Bagian bawahnya adalah bumi sedang atasnya adalah langit. Pada bagian atasnya itu ada tali. Dikatakan kepadaku; "Mendakilah". Aku katakan; "Aku tak sanggup". Kemudian datang kepadaku orang yang membantuku, lalu dia mengangkat bajuku dari belakangku sehingga aku mampu mendakinya hingga ketika sudah berada di atas aku pegang tali tersebut. Dikatakan kepadaku; "Berpeganglah". Maka aku sanggup memegangnya dan sungguh tali itu berada pada genggamanku". Kemudian aku ceritakan mimpiku itu kepada Nabi shallallahu 'alaihi wasallam maka beliau berkata; "Yang dimaksud dengan taman itu adalah Islam sedangkan tiang-tang adalah tiangnya Islam dan tali itu adalah al-'urwatul wutsqa (kalimat tauhid). Dan kamu berada dalam Islam hingga meninggal dunia". Orang itu adalah ['Abdullah bin Salam]. Dan berkata kepadaku [Khalifah] telah bercerita kepada kami [Mu'adz] telah bercerita kepada kami [Ibnu 'Aun] dari [Muhammad] telah bercerita kepada kami [Qais bin 'Abbad] dari [Ibnu Salam] berkata; Kata Shiifu sebagai kata ganti dari minshaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3813</td></tr><tr><td>Arabic No</td><td>3813</td></tr><tr><td>Reference</td><td>Book 63 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Салям, да будет доволен им Аллах, сказал: «(Как-то раз) при жизни Пророка ﷺ я увидел сон, который я рассказал ему. Я увидел, что нахожусь в каком-то саду», после чего (‘Абдуллах бин Салям, да будет доволен им Аллах,) упомянул о том, какой он был большой и зелёный, (и сказал): «Посреди (этого сада) стояла железная колонна, нижний конец которой был в земле, а верхний достигал неба, и на верхнем её конце находилась ручка в виде кольца. Кто-то сказал мне: “Поднимись на неё”. Я сказал: “Я не могу”. Тогда ко мне явился слуга и приподнял сзади (полы) моей одежды, (после чего) я поднимался, пока не очутился на вершине (этой колонны). Там я взялся за эту ручку, и мне было сказано: “Держись (за неё) крепко!” — а потом я проснулся, и, поистине, оказалось, что (эта ручка осталась) у меня в руке. Я рассказал (обо всём этом) Пророку ﷺ, который сказал: “Сад — это ислам, колонна — столп ислама, а ручка — надежнейшая связь /аль-‘урват аль-вуска/, (и это значит, что) ты останешься мусульманином до самой своей смерти”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3813</td></tr><tr><td>Arabic No</td><td>3813</td></tr><tr><td>Reference</td><td>Book 63 Hadith 38</td></tr></tbody></table></div>
 

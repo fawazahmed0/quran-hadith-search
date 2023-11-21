@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ma'mar (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:He
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman] -yaitu Ibnu Bilal- dari [Yahya] -yaitu Ibnu Sa'id- dia berkata, " [Sa'id bin Musayyab] menceritakan bahwa [Ma'mar] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menimbun barang, maka dia berdosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4122</td></tr><tr><td>Arabic No</td><td>1605.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4122</td></tr><tr><td>Arabic No</td><td>1605.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 161</td></tr></tbody></table></div>
 

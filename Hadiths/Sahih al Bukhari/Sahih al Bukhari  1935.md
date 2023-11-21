@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A man came to the Prophet (ﷺ) and said that he had been burnt 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Munir] dia mendengar [Yazid bin Harun] (berkata,), telah menceritakan kepada kami [Yahya], dia adalah anaknya Sa'id bahwa ['Abdurrahman bin Al Qasim] mengabarkannya dari [Muhammad bin Ja'far bin Az Zubair bin Al 'Awam bin Khuwaylid] dari ['Abbad bin 'Abdullah bin Az Zubair] mengabarkan kepadanya bahwa dia mendengar ['Aisyah radliallahu 'anha] berkata: "Ada seorang laki-laki datang menemui Nabi shallallahu 'alaihi wasallam lalu berkata, "Wah aku terbakar!". Beliau bertanya: "Maksudmu, Ada apa denganmu?". Orang itu menjawab: "Aku telah berhubungan dengan isteriku pada siang hari di bulan Ramadhan". Kemudian Nabi shallallahu 'alaihi wasallam dibawakan sekeranjang kurma, maka Beliau berkata: "Mana orang yang celaka itu?". Orang itu menjawab: "Aku". Maka Beliau berkata: "Bershadaqahlah dengan kurma ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>1935</td></tr><tr><td>Reference</td><td>Book 30 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды к Пророку ﷺ пришёл какой-то человек и сказал, что он погиб. Пророк ﷺ спросил его: “Что случилось?” Тот человек ответил: “Я вступил в половую близость с женой (днём в рамадане)”. Затем Пророку ﷺ принесли корзину (с финиками), и он спросил: “Где тот погибший?” Тот человек сказал: “Я здесь”. Посланник Аллаха ﷺ сказал: “Раздай это в качестве милостыни”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>1935</td></tr><tr><td>Reference</td><td>Book 30 Hadith 42</td></tr></tbody></table></div>
 

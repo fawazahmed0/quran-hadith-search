@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Is-haq bin 'Abdullah bin Abu Talha:I heard Anas bin Malik saying, "A t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ishaq bin 'Abdullah bin Abu Tholhah] bahwa dia mendengar [Anas bin Malik radliallahu 'anhu] berkata: "Ada seorang tukang jahit yang mengundang makan Rasulullah shallallahu 'alaihi wasallam dengan makanan yang dibuatnya sendiri". Anas bin Malik berkata: "Maka aku ikut pergi bersama Rasulullah shallallahu 'alaihi wasallam menghadiri undangan jamuan makan tersebut. Maka disuguhkan kepada Rasulullah shallallahu 'alaihi wasallam roti, sayur sop berisi labu dan daging asin yang sudah dikeringkan. Aku melihat Nabi shallallahu 'alaihi wasallam mencari-cari labu tersebut dari pinggir-pinggir baskom. Beliau berkata: " Sejak hari itu aku selalu suka dengan labu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2092</td></tr><tr><td>Arabic No</td><td>2092</td></tr><tr><td>Reference</td><td>Book 34 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(В своё время один) портной пригласил Посланника Аллаха ﷺ отведать еды, которую он приготовил».\nАнас ибн Малик сказал: «И я пошёл на это угощение вместе с Посланником Аллаха ﷺ. (Портной) подал Посланнику Аллаха ﷺ хлеб и суп, в котором были ломтики тыквы и кусочки сушёного мяса, и я видел, как Пророк ﷺ брал (ломтики) этой тыквы со (своего) края блюда». (Анас) сказал: «И с того дня я полюбил тыкву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2092</td></tr><tr><td>Arabic No</td><td>2092</td></tr><tr><td>Reference</td><td>Book 34 Hadith 45</td></tr></tbody></table></div>
 

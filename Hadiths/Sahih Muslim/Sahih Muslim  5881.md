@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd Sa'id Khudri reported Allah's Apostle (ﷺ) as saying:There was a woman from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Abu Usamah] dari [Syu'bah]; Telah menceritakan kepadaku [Khulaid bin Ja'far] dari [Abu Nadhr] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Pada masa bani Isra'il ada seorang wanita yang pendek badannya berjalan bersama dua orang wanita yang tinggi badannya. lalu ia membuat kaki palsu dari kayu untuk kedua kakinya, dan memakai cincin emas yang dia buatnya. Lalu diberi minyak wangi kesturi, sebaik-baik minyak wangi. Kemudian dia berjalan di antara dua wanita tersebut hingga orang-orang pun tidak mengenalnya. Dia berkata sambil kedua tangannya seperti ini. Syu'bah sambil menggerak-gerakkan tangannya. Telah menceritakan kepada kami ['Amru An Naqid]; Telah menceritakan kepada kami [Yazid bin Harun] dari [Syu'bah] dari [Khulaid bin Ja'far] dan [Al Mustamir] keduanya berkata; Aku mendengar [Abu Nadhrah] bercerita dari [Abu Sa'id Al Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam menyebutkan tentang seorang wanita dari bani Israil yang memberi minyak kesturi pada cincinnya. Minyak kesturi adalah sebaik-baik minyak wangi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5881</td></tr><tr><td>Arabic No</td><td>2252.01</td></tr><tr><td>Reference</td><td>Book 40 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри о том, что Пророк ﷺ сказал: «Как-то шла с двумя женщинами высокого роста низкорослая женщина из числа израильтянок, которая сделала себе две деревянные ножки, и надела себе золотое кольцо полое изнутри, потом наполнила его мускусом а это из лучших благовоний. И когда прошла она между этими женщинами, (люди) не узнали её, и она сделала рукой вот так», и Шу‘ба стряхнул своей рукой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5881</td></tr><tr><td>Arabic No</td><td>2252.01</td></tr><tr><td>Reference</td><td>Book 40 Hadith 20</td></tr></tbody></table></div>
 

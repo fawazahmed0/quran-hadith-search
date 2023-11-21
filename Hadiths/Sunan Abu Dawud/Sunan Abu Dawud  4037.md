@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: When the Haruriyyah made a revolt, I came to Ali (m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Khalid Abu Tsaur Al Kalbi] berkata, telah menceritakan kepada kami [Umar bin Yunus bin Al Qasim Al Yamami] berkata, telah menceritakan kepada kami [Ikrimah bin Ammar] berkata, telah menceritakan kepada kami [Abu Zumail] berkata, telah menceritakan kepadaku [Abdullah bin Abbas] ia berkata, "Ketika orang-orang Haruri keluar, aku menemui Ali radliallahu 'anhu. Lalu ia berkata, 'Datangilah orang-orang (Haruri) itu. ' Maka aku mengenakan pakaian terbaik yang dimiliki bangsa Yaman." Abu Zumail berkata, "Ibnu Abbas adalah seorang laki-laki yang sangat tampan dan enak dipandang. Ibnu Abbas berkata, "Lantas aku mendatangi orang-orang itu, mereka berkata, "Selamat datang wahai Ibnu Abbas, ini pakaian apa!" Ibnu Abbas menjawab, "Kenapa kalian mencelaku! Sungguh, aku pernah melihat Rasulullah shallallahu 'alaihi wasallam mengenakan pakaian yang sangat bagus." Abu Dawud berkata, "Abu Zumail nama aslinya adalah Simak Ibnul Walid Al Hanafi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4037</td></tr><tr><td>Arabic No</td><td>4037</td></tr><tr><td>Reference</td><td>Book 34 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Когда харуриты отделились (от войска Али), я пришёл к ‘Али и сказал: “Я пойду к этим людям”. И я надел лучшую из одежд, которые изготавливают в Йемене». Абу Зумайль (Симак ибн аль-Валид аль-Ханафи, передатчик этого хадиса), сказал: «А Ибн ‘Аббас был человеком красивым и видным». Ибн ‘Аббас сказал: «Я пришёл к ним, и они сказали: “Добро пожаловать, о Ибн ‘Аббас. А что это за одежда?” Я сказал: “За что вы упрекаете меня? Я видел на посланнике Аллаха ﷺ лучшие одежды!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4037</td></tr><tr><td>Arabic No</td><td>4037</td></tr><tr><td>Reference</td><td>Book 34 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Umamah b. Sahl b. Hunaif quoted his father as saying :None of you must say K
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Umamah bin Sahl bin Hunaif] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan sekali-kali salah seorang dari kalian mengatakan khabutsat nafsi (diriku kotor), tetapi katakanlah laqisat nafsi (diriku jelek)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6180) Sahih Muslim (2251)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4978</td></tr><tr><td>Arabic No</td><td>4978</td></tr><tr><td>Reference</td><td>Book 43 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передает Абу Умама ибн Сахль ибн Хунейф от своего отцы, что Пророк ﷺ сказал: «Пусть никто из вас ни в коем случае не говорит: “Я плох” /Хабусат нафси/, но пусть говорит: “Я заслуживаю порицания”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6180) Sahih Muslim (2251)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4978</td></tr><tr><td>Arabic No</td><td>4978</td></tr><tr><td>Reference</td><td>Book 43 Hadith 206</td></tr></tbody></table></div>
 

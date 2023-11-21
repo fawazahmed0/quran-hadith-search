@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) saw a man performing Tawaf of the Ka'ba ti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari wa [Ibnu Juraij] dari [Sulaiman Al Ahwal] dari [Thowus] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Nabi Shallallahu'alaihiwasallam melihat seseorang thawaf di Ka'bah dengan mengikat (tangannya kepada orang lain) dengan tali kekang atau selainnya lalu Beliau memotongnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>1621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от (‘Абдуллаха) ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ увидел человека, совершающего обход вокруг Каабы, привязанного уздой или чем-то ещё (к другому человеку, который вёл его), и он разорвал её
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>1621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 106</td></tr></tbody></table></div>
 

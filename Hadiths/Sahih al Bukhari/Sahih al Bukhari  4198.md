@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:We reached Khaibar early in the morning and the inhabita
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Shadaqah bin Al Fadlal] telah mengabarkan kepada kami [Ibnu 'Uyainah] telah menceritakan kepada kami [Ayyub] dari [Muhammad bin Sirin] dari [Anas bin Malik radliallahu 'anhu] ia berkata; "Kami hendak menyerang Khaibar hingga awal pagi. Ketika penduduk Khaibar keluar dengan membawa keranjang-keranjang mereka, dan mereka melihat Nabi shallallahu 'alaihi wasallam, mereka berkata; "Muhammad, demi Allah Muhammad dan pasukannya." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Allahu Akbar. Hancurlah Khaibar. Sesungguhnya kami apabila mendatangi perkampungan suatu kaum, ("maka amat buruklah pagi hari yang dialami orang-orang yang diperingatkan tersebut"). QS Ash Shaffat; 177. Selanjutnya kami berhasil mendapatkan daging-daging keledai, tiba-tiba seorang penyeru Nabi shallallahu 'alaihi wasallam berseru; "Sesungguhnya Allah dan Rasul-Nya melarang kalian memakan daging keledai, karena dia najis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4198</td></tr><tr><td>Arabic No</td><td>4198</td></tr><tr><td>Reference</td><td>Book 64 Hadith 238</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Когда мы вошли в Хайбар рано утром, его жители стали выходить со своими лопатами, и, увидев Пророка ﷺ, сказали: “Это Мухаммад, клянёмся Аллахом! Мухаммад со (своей) пятёркой!” Тогда Пророк ﷺ сказал: “Велик Аллах /Аллаху акбар/, Хайбар разрушен! Поистине, когда мы появляемся у селений людей, (враждующих с нами), плохим становится утро для тех, кого предупреждали!” Затем мы закололи несколько ослов, однако глашатай Пророка ﷺ провозгласил: “Поистине, Аллах и Его Посланник запрещают вам есть мясо ослов, ведь поистине оно нечисто!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4198</td></tr><tr><td>Arabic No</td><td>4198</td></tr><tr><td>Reference</td><td>Book 64 Hadith 238</td></tr></tbody></table></div>
 

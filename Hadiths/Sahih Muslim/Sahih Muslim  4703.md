@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Jabir b. 'Abdullah that the Messenger o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Rauh] telah menceritakan kepada kami [Ibnu Juraij] telah menceritakan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin Abdullah] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Manusia itu mengikuti Quraisy dalam kebaikan dan keburukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4703</td></tr><tr><td>Arabic No</td><td>1819</td></tr><tr><td>Reference</td><td>Book 33 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4703</td></tr><tr><td>Arabic No</td><td>1819</td></tr><tr><td>Reference</td><td>Book 33 Hadith 3</td></tr></tbody></table></div>
 

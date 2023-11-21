@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali b. Abi Talib reported:The Messenger of Allah (ﷺ) forbade me to recite (the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-'Ala'] telah menceritakan kepada kami [Abu Usamah] dari [al-Walid, yaitu Ibnu Katsir] telah menceritakan kepadaku [Ibrahim bin Abdullah bin Hunain] dari [Bapaknya] bahwasanya dia mendengar [Ali bin Abi Thalib] berkata, "Rasulullah Shallallahu'alaihiwasallam melarangku dari membaca al-Qur'an ketika saya sedang rukuk atau sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1076</td></tr><tr><td>Arabic No</td><td>480.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 238</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али ибн Аби Талиб сказал: «Посланник Аллаха ﷺ запретил мне читать (Коран) во время совершения поясного или земного поклона»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1076</td></tr><tr><td>Arabic No</td><td>480.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 238</td></tr></tbody></table></div>
 

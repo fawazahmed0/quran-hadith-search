@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (may peace be upon him as saying that All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala]; telah menceritakan kepada kami [Waki'] dari [Ja'far bin Burqan] dari [Yazid bin Al Asham] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah 'azza wajalla berfirman: 'Aku sesuai dengan prasangka hamba-Ku terhadap-ku, Aku akan bersamanya jika ia berdoa kepada-Ku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6829</td></tr><tr><td>Arabic No</td><td>2675.04</td></tr><tr><td>Reference</td><td>Book 48 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6829</td></tr><tr><td>Arabic No</td><td>2675.04</td></tr><tr><td>Reference</td><td>Book 48 Hadith 25</td></tr></tbody></table></div>
 

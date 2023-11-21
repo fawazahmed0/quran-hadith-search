@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama bin 'Abdur-Rahman:That he asked 'Aisha "How was the prayer o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Sa'id Al Maqburiy] dari [Abu Salamah bin 'Abdur Rahman] bahwa dia bertanya kepada ['Aisyah radliallahu 'anhu]; "Bagaimana tata cara shalat Nabi shallallahu 'alaihi wasallam pada bulan Ramadlan?".. 'Aisyah radliallahu 'anhu menjawab; "Beliau shalat (sunnah qiyamul lail) pada bulan Ramadlan dan bulan-bulan lainnya tidak lebih dari sebelas rakaat. Beliau shalat empat raka'at, maka jangan kamu tanya tentang kualitas bagus dan panjangnya, kemudian beliau shalat lagi empat raka'at, maka jangan kamu tanya tentang kualitas bagus dan panjangnya kemudian beliau shalat tiga raka'at. Aku pernah bertanya; "Wahai Rasulullah, apakah baginda tidur sebelum melaksakan shalat witir? '. Beliau menjawab: "Mataku memang tidur tapi hatiku tidaklah tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3569</td></tr><tr><td>Arabic No</td><td>3569</td></tr><tr><td>Reference</td><td>Book 61 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Салямы ибн ‘Абдуррахмана о том, что однажды он спросил ‘Аишу: «Как Посланник Аллаха ﷺ совершал молитвы во время рамадана?» Она ответила: «Ни во время рамадана, ни в другие месяцы он не совершал (по ночам) молитву более чем в одиннадцать рак‘атов. (Сначала) он совершал четыре рак‘ата, и не спрашивай (меня) о том, сколь прекрасны и продолжительны они были, потом ещё четыре (рак‘ата), и не спрашивай (меня) о том, сколь прекрасны и продолжительны они были, после чего совершал ещё три». (Далее) ‘Аиша сказала: «(Однажды) я спросила: “О Посланник Аллаха, так разве ты спишь перед совершением витра?” Он ответил: “Мои глаза спят, но не спит сердце моё!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3569</td></tr><tr><td>Arabic No</td><td>3569</td></tr><tr><td>Reference</td><td>Book 61 Hadith 78</td></tr></tbody></table></div>
 

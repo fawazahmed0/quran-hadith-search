@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir b. 'Abd Allah :The Messenger of Allah (ﷺ) forbade muhaqalah, mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Isma'il], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Musaddad] bahwa [Hammad] dan [Abdul Warits], telah menceritakan kepada mereka, seluruh mereka dari [Ayyub], dari [Abu Az Zubair], ia berkata; dari [Hammad] dan [Sa'id bin Mina'], dari [Jabir bin Abdullah], ia berkata; Rasulullah shallallahu 'alaihi wasallam melarang muhaqalah (menjual gandum dalam bulirnya dengan gandum yang bersih), dan muzabanah (menjual kurma kering dengan ruthab, dan menjual anggur dengan kismis secara takaran), mukhabarah (menyewakan tanah kepada petani dengan upah sebagian hasil bumi seperti sepertiga atau seperempat), dan mu'awamah (menjual buah untuk beberapa tahun sebelum buah tersebut nampak). Sedang yang lainnya mengatakan; bai'us sinin. Kemudian lafazh mereka sama; dan dari tsunya (mengecualikan sesuatu yang tidak jelas dalam jual beli) dan memberikan keringanan dalam hal 'araya (menjual ruthab atau anggur di atas pohon dengan kurma atau kismis dengan menaksirnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1536 After 1543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3404</td></tr><tr><td>Arabic No</td><td>3404</td></tr><tr><td>Reference</td><td>Book 23 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ запретил обмен посевов в поле на уже собранное зерно /мухакаля/, обмен свежих фиников на сушёные /музабана/, возделывание земли в обмен на часть урожая /мухабара/, продажу плодов за несколько лет вперёд /му‘авама/, продажу с исключением из продаваемого неизвестного количества /сунйа/ и разрешил обмен (ограниченного количества) несобранного урожая (свежих фиников) на сушёные финики /‘арайа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1536 After 1543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3404</td></tr><tr><td>Arabic No</td><td>3404</td></tr><tr><td>Reference</td><td>Book 23 Hadith 79</td></tr></tbody></table></div>
 

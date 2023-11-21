@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: I used to sell camels at al-Baqi for dinars and take
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], serta [Muhammad bin Mahbub] dan maknanya satu, mereka berkata; telah menceritakan kepada kami [Hammad] dari [Simak bin Harb], dari [Sa'id bin Jubair], dari [Ibnu Umar] ia berkata; dahulu aku menjual unta di Baqi', aku menjual dengan dinar dan mengambil dirham, dan menjual dengan dirham dan mengambil dinar, aku mengambil ini sebagai ganti dari ini, dan memberikan ini sebagai ganti dari ini. Kemudian aku datang kepada Rasulullah shallallahu 'alaihi wasallam sementara beliau berada di rumah Hafshah. Lalu aku katakan; wahai Rasulullah, sebentar! Saya ingin bertanya. Saya menjual unta di Baqi' dengan dinar, dan mengambil dirham, menjual dengan dirham dan mengambil dinar. Saya mengambil ini sebagai ganti dari ini, dan memberi ini sebagai ganti dari ini. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak mengapa engkau mengambilnya dengan nilai harga pada hari itu selama kalian belum berpisah, sementara di antara kalian terdapat sesuatu (yang belum diserahkan)." Telah menceritakan kepada kami [Husain bin Al Aswad], telah menceritakan kepada kami ['Ubaidullah] telah mengabarkan kepada kami [Israil] dari [Simak] dengan sanad dan maknanya, -dan hadits yang pertama lebih sempurna-, ia tidak menyebutkan kata: "nilai harga pada hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3354</td></tr><tr><td>Arabic No</td><td>3354</td></tr><tr><td>Reference</td><td>Book 23 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Я продавал верблюдов в аль-Бакы‘ за динары, но впоследствии получал дирхемы и продавал за дирхемы, но впоследствии получал динары. То есть я брал одно вместо другого и отдавал одно вместо другого. Я пришёл к Посланнику Аллаха ﷺ когда он был в доме Хафсы, и сказал ему: “Подожди, я хочу спросить тебя… Я продаю верблюдов в аль-Бакы‘ за динары, но впоследствии получаю дирхемы и продаю за дирхемы, но впоследствии получаю динары. То есть я беру одно вместо другого и отдаю одно вместо другого”. И он сказал: “В этом нет ничего страшного, если только ты берёшь их по цене того дня, и когда вы разойдётесь, между вами не должно ничего оставаться”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3354</td></tr><tr><td>Arabic No</td><td>3354</td></tr><tr><td>Reference</td><td>Book 23 Hadith 29</td></tr></tbody></table></div>
 

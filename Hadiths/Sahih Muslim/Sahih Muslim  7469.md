@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) said:One who looks after the o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ishaq bin Isa] telah menceritakan kepada kami [Malik] dari [Tsaur bin Zaid Ad Dili] berkata: Aku mendengar [Abu Al Ghaits] menceritakan dari [Abu Hurariah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Orang yang menanggung anak yatim miliknya atau milik orang lain, aku dan dia seperti dua ini disurga." Malik mengisyaratkan jari telunjuk dan jari tengah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7469</td></tr><tr><td>Arabic No</td><td>2983</td></tr><tr><td>Reference</td><td>Book 55 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7469</td></tr><tr><td>Arabic No</td><td>2983</td></tr><tr><td>Reference</td><td>Book 55 Hadith 52</td></tr></tbody></table></div>
 

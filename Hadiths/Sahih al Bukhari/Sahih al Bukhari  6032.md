@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: A man asked permission to enter upon the Prophet. When the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Isa] telah menceritakan kepada kami [Muhammad bin Sawa'] telah menceritakan kepada kami [Rauh bin Al Qasim] dari [Muhammad bin Al Munkadir] dari ['Urwah] dari [Aisyah] Bahwa seorang laki-laki meminta izin kepada nabi Shallalahu 'alaihi wa sallam, ketika beliau melihat orang tersebut, beliau bersabda: "Amat buruklah saudara Kabilah ini atau seburuk-buruk saudara Kabilah ini." Saat orang itu duduk, beliau menampakkan wajahnya yang berseri-seri, setelah orang itu keluar 'A'isyah berkata; "Wahai Rasulullah, ketika anda melihat (kedatangan) orang tersebut, anda berkata seperti ini dan ini, namun setelah itu wajah anda nampak berseri-seri, Maka Rasulullah Shallalahu 'alaihi wa sallam bersabda: "Wahai 'A'isyah, kapankah kamu melihatku mengatakan perkataan keji? Sesungguhnya seburuk-buruk kedudukan manusia di sisi Allah pada hari kiamat adalah orang yang ditinggalkan oleh manusia karena takut akan kekejiannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6032</td></tr><tr><td>Arabic No</td><td>6032</td></tr><tr><td>Reference</td><td>Book 78 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша рассказывала о том, что (как-то раз) один человек попросил разрешения войти к Пророку ﷺ. Увидев его, Пророк ﷺ сказал: «Это — дурной брат и дурной сын своего рода!» Когда же он присел, Пророк ﷺ оживился и выказал ему свою радость. Затем, когда этот человек ушёл, ‘Аиша спросила у него: «О Посланник Аллаха! Когда ты увидел этого человека, то сказал так-то и так-то, а затем ты оживился и выказал ему свою радость?!» И Посланник Аллаха ﷺ ответил: «О ‘Аиша, когда ты видела, чтобы я вел себя грубо и непристойно? Поистине, самое худшее место перед Аллахом в День Воскресения займёт тот, кого люди избегают, опасаясь его зла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6032</td></tr><tr><td>Arabic No</td><td>6032</td></tr><tr><td>Reference</td><td>Book 78 Hadith 62</td></tr></tbody></table></div>
 

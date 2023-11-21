@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "There will be a tank (Lake-Fount) in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ubaidullah] telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar] radliyallahu'anhuma, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Di hadapan kalian ada telaga sebagaimana jarak antara Jarba' dan Adzruh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6577</td></tr><tr><td>Arabic No</td><td>6577</td></tr><tr><td>Reference</td><td>Book 81 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «(Окажется) перед вами Водоём, (размеры) которого сравнимы с расстоянием между Джарбой и Азрухом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6577</td></tr><tr><td>Arabic No</td><td>6577</td></tr><tr><td>Reference</td><td>Book 81 Hadith 165</td></tr></tbody></table></div>
 

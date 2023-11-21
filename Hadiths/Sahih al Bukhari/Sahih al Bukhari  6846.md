@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira:Sa'd bin Ubada said, "If I found a man with my wife, I would
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] Telah menceritakan kepada kami [Abu 'Awanah] Telah menceritakan kepada kami [Abdul Malik] dari [Warrad] juru tulis Almughirah, dari [Al Mughirah] mengatakan; Sa'd bin Ubadah mengatakan; 'Kalau kulihat ada seorang laki-laki bersama isteriku niscaya kusabet dengan pedang tepat dengan mata besinya. Berita ini sampai kepada Nabi shallallahu 'alaihi wasallam sehingga Nabi bertanya: "Apakah kalian merasa heran dari kecemburan Sa'd, sungguh aku lebih cemburu daripadanya, dan Allah lebih cemburu daripadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6846</td></tr><tr><td>Arabic No</td><td>6846</td></tr><tr><td>Reference</td><td>Book 86 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугыйра рассказывал: «(Однажды) Са‘д ибн ‘Убада воскликнул: “Если бы я увидел мужчину со своей женой, то ударил бы его мечом не плашмя, (а остриём)!” Когда это дошло до Пророка ﷺ, он сказал (своим сподвижникам): “Вас удивляет ревность Са‘да? Клянусь Аллахом, я более ревнив, чем он, а Аллах ещё более ревнив, чем я”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6846</td></tr><tr><td>Arabic No</td><td>6846</td></tr><tr><td>Reference</td><td>Book 86 Hadith 68</td></tr></tbody></table></div>
 

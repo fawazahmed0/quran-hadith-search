@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:A family which has dates will 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Daarimi], telah mengabarkan kepada kami [Yahya bin Hassan], Telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak akan lapar penghuni rumah yang memiliki kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5336</td></tr><tr><td>Arabic No</td><td>2046.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ сказал: “Не будут голодать обитатели дома, у которых есть финики”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5336</td></tr><tr><td>Arabic No</td><td>2046.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 210</td></tr></tbody></table></div>
 

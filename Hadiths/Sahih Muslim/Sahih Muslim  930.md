@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: The Imam is appointed, s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [al-Mughirah yaitu al-Hizami] dari [Abu az-Zinad] dari [al-A'raj] dari [Abu Hurairah ra] bahwa Rasulullah Shallallahu'alaihiwasallam bersabda, "Imam dijadikan untuk dijadikan panutan, maka janganlah kalian menyelisihinya. Apabila dia bertakbir, maka kalian bertakbirlah, apabila dia mengangkat kepala maka kalian mengangkat kepalalah. Apabila dia berkata, 'Samiallahu liman hamidahu', maka ucapkanlah, 'Allahumma Rabbana laka al-Hamdu'. Apabila dia bersujud maka kalian bersujudlah. Apabila dia shalat duduk, maka kalian semua shalat dengan duduk." Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah ra] dari Nabi shallallahu 'alaihi wasallam dengan yang semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>930</td></tr><tr><td>Arabic No</td><td>414.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Поистине, имам (назначен) для того, чтобы следовать за ним, поэтому не противоречьте ему! Когда он произнесёт (слова) такбира, вы тоже произносите их. Когда он совершит поясной поклон, то и вы совершайте его. Когда он скажет: “Да услышит Аллах того, кто Его восхваляет!” /Сами’а-Ллаху лиман хамидах/, говорите: “Господь наш! Хвала Тебе!” /Раббана лякаль-хамд!/ Когда он совершит земной поклон, то и вы совершайте его, а если он будет совершать молитву сидя, то и вы все молитесь сидя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>930</td></tr><tr><td>Arabic No</td><td>414.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 92</td></tr></tbody></table></div>
 

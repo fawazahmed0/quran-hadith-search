@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:'Umar bin Al-Khattab saw a silken cloak (being sold
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar], bahwa 'Umar bin Al Khaththab melihat pakaian sutera di depan pintu masjid, maka ia pun berkata, "Wahai Rasulullah, seandainya tuan beli pakaian ini lalu tuan kenakan pada hari Jum'at atau saat menyambut utusan (delegasi) bila datang menghadap tuan." Rasulullah shallallahu 'alaihi wasallam lalu menjawab: "Sesungguhnya orang yang memakai pakaian seperti ini tidak akan mendapat bagian di akhirat." Kemudian datang hadiah untuk Rasulullah shallallahu 'alaihi wasallam yang diantaranya ada pakain sutera. Beliau lalu memberikan pakaian sutera tersebut kepada 'Umar bin Al Khaththab? radliallahu 'anhu, maka berkatalah 'Umar, "Wahai Rasulullah, tuan telah memberikan pakaian ini untukku, padahal tuan telah menjelaskan konsekwensi orang yang memakainya!" Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku memberikannya kepadamu bukan untuk kamu pakai." Maka 'Umar bin Al Khaththab memberikan pakaian sutera tersebut kepada saudaranya yang musyrik di kota Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>886</td></tr><tr><td>Arabic No</td><td>886</td></tr><tr><td>Reference</td><td>Book 11 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал:«Однажды ‘Умар бин аль-Хаттаб, да будет доволен им Аллах, увидевший, что у ворот мечети (продают) шелковую одежду, сказал Посланнику Аллаха ﷺ: “О Посланник Аллаха, было бы хорошо, чтобы ты купил эту (одежду) и надевал ее по пятницам, а также в тех случаях, когда к тебе прибывают делегации”. (На это) Посланник Аллаха, да благословите го Аллах и приветствует, сказал: “Такую одежду носит лишь тот, у кого нет доли в мире вечном!” Некоторое время спустя Посланнику Аллаха ﷺ доставили много таких одежд, и он подарил одну из них ‘Умару бин аль-Хаттабу, да будет доволен им Аллах. ‘Умар сказал: “О Посланник Аллаха! Ты подарил мне эту одежду, хотя сам сказал об одеждах ‘Утарида то, что сказал!” (На это) Посланник Аллаха ﷺ сказал: “Поистине, я подарил тебе (эту одежду) не для того, чтобы ты носил ее, и тогда ‘Умар бин аль-Хаттаб, да будет доволен им Аллах, подарил ее своему брату, жившему в Мекке и остававшемуся многобожником»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>886</td></tr><tr><td>Arabic No</td><td>886</td></tr><tr><td>Reference</td><td>Book 11 Hadith 11</td></tr></tbody></table></div>
 

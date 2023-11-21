@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Abu Jahl said, "O Allah! If this (Qur'an) is indeed the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin An Nadlr] Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] Telah menceritakan kepada kami [Bapakku] Telah menceritakan kepada kami [Syu'bah] dari ['Abdul Hamid] sahabat Az Ziyadi, dia mendengar [Anas bin Malik radliallahu 'anhu] berkata; Abu Jahl berkata; "Ya Allah, jika betul (Al Quran) ini, dialah yang benar dari sisi Engkau, maka hujanilah kami dengan batu dari langit, atau datangkanlah kepada kami azab yang pedih." Maka turunlah ayat: Dan Allah sekali-kali tidak akan mengazab mereka, sedang kamu berada di antara mereka. Dan tidaklah (pula) Allah akan mengazab mereka, sedang mereka meminta ampun. Kenapa Allah tidak mengazab mereka padahal mereka menghalangi orang untuk (mendatangi) Masjidil Haram.. (An Anfal:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4649</td></tr><tr><td>Arabic No</td><td>4649</td></tr><tr><td>Reference</td><td>Book 65 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик рассказывал: «Однажды Абу Джахль сказал: “О Аллах, если это и есть истина от Тебя, то пролей на нас град камней с неба или же подвергни нас мучительному наказанию”. И тогда были ниспосланы аяты: “Аллах не стал подвергать их мучениям, пока ты находился среди них, и Аллах не стал подвергать их мучениям, пока они молили о прощении. Но как же Аллаху не подвергнуть их мучениям, если они не допускают мусульман к Заповедной мечети…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4649</td></tr><tr><td>Arabic No</td><td>4649</td></tr><tr><td>Reference</td><td>Book 65 Hadith 171</td></tr></tbody></table></div>
 

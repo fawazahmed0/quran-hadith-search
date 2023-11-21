@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) When the sickness of Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hibban bin Musa] dan [Muhammad] keduanya berkata telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ma'mar] dan [Yunus] dari [Az Zuhriy] berkata telah mengabarkan kepadaku ['Ubaidullah bin 'Abdullah bin 'Uqbah bin Mas'ud] bahwa ['Aisyah radliallahu 'anhu], istri Nabi Shallallahu'alaihiwasallam berkata; "Ketika sakit Rasulullah Shallallahu'alaiwasallam semakin parah, Beliau meminta izin kepada istri-istri Beliau agar dirawat di rumahku, maka Beliau diizinkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3099</td></tr><tr><td>Arabic No</td><td>3099</td></tr><tr><td>Reference</td><td>Book 57 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, жена Пророка ﷺ, сказала: «Когда Посланник Аллаха ﷺ тяжело заболел, он попросил своих жён, чтобы за ним ухаживали в моём доме, и они позволили ему это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3099</td></tr><tr><td>Arabic No</td><td>3099</td></tr><tr><td>Reference</td><td>Book 57 Hadith 8</td></tr></tbody></table></div>
 

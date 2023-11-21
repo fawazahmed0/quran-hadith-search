@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), A l'année de la Conquête, l'Envo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] dan [Yahya bin Yahya] dan [Qutaibah bin Sa'id] -Adapun Al Qa'nabi, maka ia berkata- saya telah membacakan kepada Malik bin Anas -Adapun Qutaibah, maka ia berkata- Telah menceritakan kepada kami [Malik] -dan [Yahya] berkata dan lafazh juga darinya- saya bertanya kepada Malik, "Apakah [Ibnu Syihab] telah menceritakan kepadamu dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam masuk ke dalam kota Makkah pada tahun Penaklukan kota Makkah sementara di atas kepada beliau terdapat getah pohon. Dan ketika beliau melepaskannya, tiba-tiba beliau didatangi seorang laki-laki -kata Ibnu Khathal- yang bergantung dengan satir (kelambu) Ka'bah, sehingga beliau pun bersabda: 'Bunuhlah ia.'" Maka Malik kemudian menjawab, "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>1357</td></tr><tr><td>Reference</td><td>Book 15 Hadith 512</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>1357</td></tr><tr><td>Reference</td><td>Book 15 Hadith 512</td></tr></tbody></table></div>
 

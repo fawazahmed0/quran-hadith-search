@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Abu Bakr:Abu Bakr came with a guest or some guests, b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Sulaiman] dari [Abu Utsman]. [Abdurrahman bin Abu Bakr] radliallahu 'anhu berkata; "Abu Bakr kedatangan tamu atau kedatangan para tamu, sementara dia bersama Nabi shallallahu 'alaihi wasallam hingga larut malam, ketika dia kembali pulang, ibuku berkata kepadanya; "Apa yang menghalangimu tidak menemui tamumu atau para tamumu semalam?" dia berkata; "Apakah kamu telah menjamu mereka?" ibuku menjawab; "Aku telah berusaha menjamunya atau menjamu mereka, namun mereka tetap menolaknya atau dia menolaknya." Abu Bakr pun marah, mencela dan mencaci serta bersumpah untuk tidak memberinya makan." Lalu aku pergi dan bersembunyi, dia berkata; "Wahai Ghuntsar!" maka isterinya pun bersumpah untuk tidak memakannya begitu juga dengan tamu atau para tamu yang bersumpah untuk tidak memakannya." Maka Abu Bakr berkata; "Seakan-akan hal ini dari syetan." Abu Bakr pun meminta diambilkan makanan, lalu dia memakannya dan mereka juga ikut menyantapnya, anehnya tidaklah mereka mengambil sesuap (makanan) melainkan dari bawah makanan tersebut bertambah semakin banyak, maka Abu Bakr berkata; "Wahai saudari Bani Firas, ada apa dengan ini?" isterinya menjawab; "Sungguh menjadi kesejukan pada hatiku, bahwa makanan tersebut sekarang lebih banyak sebelum kita memakannya." Maka para tamu pun ikut menyantapnya dan sebagiannya di kirimkan kepada Nabi shallallahu 'alaihi wasallam, dan Abdurrahman menyebutkan bahwa beliau juga ikut memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6141</td></tr><tr><td>Arabic No</td><td>6141</td></tr><tr><td>Reference</td><td>Book 78 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Аби Бакр, да будет доволен Аллах ими обоими, сказал: «Однажды Абу Бакр привёл домой одного или несколько гостей, а сам провёл вечер у Пророка ﷺ. Когда он вернулся, моя мать сказала ему: “Ты не пришёл к своим гостям этой ночью”. Он спросил: “А разве ты не накормила их ужином?” Она сказала: “Мы предложили им, но они отказались”. Тогда Абу Бакр разгневался, стал ругаться и поклялся, что не будет кушать этой еды, я же спрятался. Он воскликнул: “О невежда!” Жена Абу Бакра поклялась, что не будет есть и гости тоже поклялись, что не будут есть пока Абу Бакр не поест. Абу Бакр сказал: “Как будто это от шайтана”, после чего велел подать себе еду и поел, и поели (все остальные) и какой бы кусок они ни брали, снизу появлялось ещё больше. (Абу Бакр) спросил (свою жену): “О сестра бану фирас, что же это?!” Она воскликнула: “Какая радость, сейчас еды больше, чем было её, когда мы начали есть!” И они поели, а потом отослали (эту еду) Пророку ﷺ». И (‘Абдуррахман) упомянул, что (Пророк ﷺ) тоже ел её
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6141</td></tr><tr><td>Arabic No</td><td>6141</td></tr><tr><td>Reference</td><td>Book 78 Hadith 168</td></tr></tbody></table></div>
 

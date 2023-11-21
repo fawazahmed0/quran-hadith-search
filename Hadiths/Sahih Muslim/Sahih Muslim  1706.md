@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) used to recite in sitting position 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim]. [Abu Bakar] mengatakan; telah menceritakan kepada kami [Ismail bin 'Ulayyah] dari [Al Walid bin Abu Hisyam] dari [Abu Bakar bin Muhammad] dari ['Amrah] dari ['Aisyah] katanya; "Rasulullah shallallahu 'alaihi wasallam membaca (dalam shalat) dengan duduk, jika beliau hendak ruku', beliau berdiri seukuran seseorang membaca empat puluh ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>731.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ читал (аяты Корана) сидя, а если он хотел совершить поясной поклон, то вставал (и стоял столько,) сколько человеку необходимо для чтения сорока аятов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>731.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 136</td></tr></tbody></table></div>
 

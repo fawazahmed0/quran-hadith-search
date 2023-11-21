@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) forbade the sale of fruits till their 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ali bin Al Haitsam] telah menceritakan kepada kami [Mu'allaa bin Manshur Ar-Raziy] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Humaid] telah menceritakan kepada kami [Anas bin Malik radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bahwa Beliau melarang menjual buah-buahan hingga jelas kebaikan dan (melarang pula menjual) kurma hinga sempurna. Ada yang bertanya; "Apa tanda sempurnanya?" Beliau menjawab: "Ia menjadi merah atau kuning
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2197</td></tr><tr><td>Arabic No</td><td>2197</td></tr><tr><td>Reference</td><td>Book 34 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ запретил продавать плоды, до того, как станет ясно, что они годны к употреблению, и (продавать) финики пока они не созреют. Люди спросили: «Что значит созреют?» Он ответил: «Пока они не покраснеют или не пожелтеют»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2197</td></tr><tr><td>Arabic No</td><td>2197</td></tr><tr><td>Reference</td><td>Book 34 Hadith 144</td></tr></tbody></table></div>
 

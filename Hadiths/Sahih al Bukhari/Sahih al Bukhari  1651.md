@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) and his companions assumed Ihram 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin AL Mutsanna] telah menceritakan kepada kami ['Abdul Wahhab] berkata,. Dan diriwayatkan pula, telah berkata kepadaku [Khalifah] telah menceritakan kepada kami ['Abdul Wahhab] telah menceritakan kepada kami [Habib Al Mu'allim] dari ['Atho'] dari [Jabir bin 'Abdullah radliallahu 'anhua] berkata: "Nabi Shallallahu'alaihiwasallam dan para sahabatnya berihram untuk hajji dan tidak ada seorangpun dari mereka yang membawa Al Hadyu (hewan qurban) kecuali Nabi Shallallahu'alaihiwasallam dan Tholhah. Sementara itu 'Ali baru saja datang dari negeri Yaman dengan membawa Al Hadyu, dia berkata: Aku berihram (berniat hajji) sebagaimana Nabi Shallallahu'alaihiwasallam berihram. Maka Nabi Shallallahu'alaihiwasallam memerintahkan para sahabatnya agar menjadikan ihram mereka sebagai 'umrah lalu melaksanakan thawaf kemudian mencukur rambut lalu bertahallul kecuali mereka yang membawa Al Hadyu. Maka mereka berkata: "Maka kami berangkat menuju Mina lalu diantara kami ada yang menyebut bahwa dia menarik diri. Hal ini kemudian sampai kepada Nabi Shallallahu'alaihiwasallam, maka Beliau berkata: "Kalau aku bisa mengulang kembali apa yang telah lewat, aku tidak akan menyembelih, dan seandainya aku tidak membawa Al Hadyu, sudah pasti aku akan bertahallul". Kemudian 'Aisyah radliallahu 'anha mengalami haidh sedangkan dia telah menuntaskan seluruh manasik kecuali thawaf di Ka'bah Baitullah. Ketika dia sudah suci, dia melaksanakan thawaf di Ka'bah Baitullah. Dia berkata: 'Wahai Rasulullah, kalian berangkat dengan niat hajji dan 'umrah sedangkan aku dengan niat hajji saja". Maka Beliau perintahkan 'Abdurrahman bin Abu Bakar agar keluar bersama 'Aisyah radliallahu 'anha ke Tan'im. Maka 'Aisyah radliallahu 'anha melaksanakan 'umrah setelah melaksanakan manasik hajji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>1651</td></tr><tr><td>Reference</td><td>Book 25 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ и его сподвижники надели ихрамы для хаджа, и ни у кого из них, кроме Пророка ﷺ и Тальхи не было с собой жертвенного скота. А (потом) из Йемена прибыл ‘Али, у которого также был с собой жертвенный скот, и сказал: “Я надел ихрам с тем же намерением, что и Пророк ﷺ”. Затем Пророк ﷺ велел своим сподвижникам совершить ‘умру и обход в этих ихрамах, а потом укоротить волосы и полностью выйти из состояния ихрама, (что касалось всех) за исключением тех людей, которые гнали с собой жертвенный скот. (Люди стали) говорить: “(Как же можем) мы отправляться в Мину, едва успев покинуть постели своих жён?!” (Когда) это дошло до Пророка ﷺ он сказал: “Если бы я мог вернуться назад (и сделать всё заново), то не стал бы гнать с собой скот, а если бы со мной не было скота, я и сам вышел бы из состояния ихрама”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>1651</td></tr><tr><td>Reference</td><td>Book 25 Hadith 132</td></tr></tbody></table></div>
 

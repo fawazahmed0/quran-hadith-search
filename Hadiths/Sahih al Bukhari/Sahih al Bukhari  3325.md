@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sufyan bin Abi Zuhair Ash-Shani:That he heard Allah's Messenger (ﷺ) s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] telah bercerita kepada kami [Sulaiman] berkata telah mengabarkan kepadaku [Yazid bin Khushaifah] berkata telah mengabarkan kepadaku [as-Sa'ib bin Yazid] dia mendnegar [Sufyan bin Abi Zuhair asy-Syana'iy] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: ""Siapa yang memelihara anjing yang bukan digunakan untuk menjaga ladang atau mengembalakan ternak berarti sepanjang hari itu dia telah menghapus amalnya sebanyak satu qirath". as-Sa'ib bertanya; "Apakah benar kamu mendengar ini dari Rasulullah shallallahu 'alaihi wasallam?. Dia menjawab: "Benar, demi Rabb Ka'bah ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3325</td></tr><tr><td>Arabic No</td><td>3325</td></tr><tr><td>Reference</td><td>Book 59 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Суфьяна ибн Аби Зухейра, что Посланник Аллаха ﷺ сказал: «Награда того, кто держит собаку, которая не предназначена для охраны пашни или скота, уменьшается ежедневно на кырат». Саиб (Один из передатчиков) спросил: «Ты слышал это от Посланника Аллаха ﷺ?» Он ответил: «Да, клянусь Господом этой киблы!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3325</td></tr><tr><td>Arabic No</td><td>3325</td></tr><tr><td>Reference</td><td>Book 59 Hadith 131</td></tr></tbody></table></div>
 

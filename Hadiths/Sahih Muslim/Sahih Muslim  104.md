@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Ayyoûb Al-Ansâri (que Dieu l'agrée), un bédouin se présenta a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Amru bin Utsman] telah menceritakan kepada kami [Musa bin Thalhah] dia berkata, telah menceritakan kepadaku [Abu Ayyub], bahwa seorang Badui menghalangi Rasulullah shallallahu 'alaihi wasallam sedangkan beliau dalam suatu perjalanan, lalu dia mengambil tali kendali untanya atau tali kekangnya, kemudian dia berkata, 'Wahai Rasulullah, atau wahai Muhammad, kabarkanlah kepadaku tentang sesuatu yang mendekatkanku dari surga dan sesuatu yang menjauhkanku dari neraka? ' Perawi berkata, 'Lalu Nabi shallallahu 'alaihi wasallam berhenti kemudian melihat para sahabat-sahabatnya, kemudian bersabda: "Dia telah diberi taufik atau telah diberi hidayah.' Dia bertanya, 'Apa yang kamu katakan? ' Perawi berkata, 'Lalu dia mengulanginya'. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Kamu menyembah Allah, tidak mensyirikkan-Nya dengan sesuatu apa pun, mendirikan shalat, menunaikan zakat, dan menyambung tali silaturrahim, lalu tinggalkanlah unta tersebut'." Telah menceritakan kepada kami [Muhammad bin Hatim] dan [Abdurrahman bin Bisyr] keduanya berkata, telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Muhammad bin Utsman bin Abdullah bin Mauhab] dan bapaknya [Utsman] bahwa keduanya mendengar [Musa bin Thalhah] menceritakan dari [Abu Ayyub] dari Nabi shallallahu 'alaihi wasallam dengan semisal hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>104</td></tr><tr><td>Arabic No</td><td>13.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Аййуба о том, что (однажды), перед посланником Аллаха ﷺ который находился в поездке, предстал какой-то бедуин. Он взялся за поводок (или: неуздок) его верблюда а затем сказал: «О Посланник Аллаха, (или он сказал: О Мухаммад), укажи мне на такое дело, которое приблизит меня к Раю и удалит от Огня, если я буду его совершать». (Абу Аййуб) сказал: «И Пророк ﷺ остановился, посмотрел на своих сподвижников, и затем сказал: “Его слова совпали!” (Или он сказал): “Он был наставлен на верный путь!”, а потом спросил: “Как ты сказал?”» (Абу Аййуб) сказал: «И (когда) тот повторил, Пророк ﷺ сказал: “Поклоняйся Аллаху и не придавай ему ничего в сотоварищи, совершай молитву, выплачивай закят и поддерживай родственные связи, а верблюдицу отпусти”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>104</td></tr><tr><td>Arabic No</td><td>13.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 12</td></tr></tbody></table></div>
 

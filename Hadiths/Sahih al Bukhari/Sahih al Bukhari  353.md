@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Al Munkadir:I saw Jabir bin 'Abdullah praying in a single 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mutharrif Abu Mush'ab] berkata, telah menceritakan kepada kami ['Abdurrahman bin Abu Al Mawali] dari [Muhammad bin Al Munkadir] berkata, "Aku melihat [Jabir bin 'Abdullah] melaksanakan shalat dengan mengenakan satu pakaian. Lalu dia berkata, "Aku pernah melihat Nabi shallallahu 'alaihi wasallam shalat dengan mengenakan (satu) kain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>353</td></tr><tr><td>Arabic No</td><td>353</td></tr><tr><td>Reference</td><td>Book 8 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн аль-Мункадир сказал: «Я видел, как Джабир ибн ‘Абдуллах совершал молитву в одной одежде и он сказал: “Я видел, как (в одной) одежде совершал молитву Пророк ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>353</td></tr><tr><td>Arabic No</td><td>353</td></tr><tr><td>Reference</td><td>Book 8 Hadith 5</td></tr></tbody></table></div>
 

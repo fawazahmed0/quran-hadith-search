@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:A man peeped through a round hole into the dwelling place
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan], [Az Zuhri] berkata; "Aku telah menghafalnya sebagaimana dirimu di sini, dari [Sahl bin Sa'd] dia berkata; "Seorang laki-laki pernah melongokkan kepalanya ke salah satu kamar Nabi shallallahu 'alaihi wasallam, waktu itu Nabi shallallahu 'alaihi wasallam tengah membawa sisir untuk menyisir rambutnya, lalu beliau bersabda: "Sekiranya aku tahu kamu mengintip, sungguh aku akan mencolok kedua matamu, sesungguhnya meminta izin itu di berlakukan karena pandangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6241</td></tr><tr><td>Arabic No</td><td>6241</td></tr><tr><td>Reference</td><td>Book 79 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д, да будет доволен им Аллах, сказал: «Какой-то человек стал смотреть через круглое отверстие в одну из комнат Пророка ﷺ, державшего в руке железный гребень, которым он расчёсывал себе голову, а потом Пророк ﷺ сказал: “Если бы я знал, что ты подсматриваешь, то обязательно проткнул бы тебе (этим гребнем) глаз! Испрашивать разрешения и было велено из-за (таких) взоров!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6241</td></tr><tr><td>Arabic No</td><td>6241</td></tr><tr><td>Reference</td><td>Book 79 Hadith 15</td></tr></tbody></table></div>
 

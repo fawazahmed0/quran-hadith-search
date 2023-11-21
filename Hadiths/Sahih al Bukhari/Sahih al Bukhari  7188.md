@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, "The most hated person in the sigh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij], aku mendengar [Ibnu Abu Mulaikah] menceritakan dari [Aisyah] radliallahu 'anha, ia mengatakan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia yang paling dibenci Allah adalah yang keras kepala dan suka membantah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7188</td></tr><tr><td>Arabic No</td><td>7188</td></tr><tr><td>Reference</td><td>Book 93 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Поистине, самым ненавистным из людей для Аллаха является непримиримый в спорах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7188</td></tr><tr><td>Arabic No</td><td>7188</td></tr><tr><td>Reference</td><td>Book 93 Hadith 50</td></tr></tbody></table></div>
 

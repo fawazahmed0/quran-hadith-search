@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Not to wish to be the like e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ustman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak diperbolehkan dengki selain dalam dua hal, seseorang yang Allah beri al qur'an lantas ia baca sepanjang malam dan siang, sehingga ada orang lain berkata; 'Kalaulah aku diberi kurnia seperti orang itu, niscaya kulakukan sebagaimana yang dia lakukan.' Dan seseorang yang Allah beri harta, ia belanjakan menurut haknya sehingga orang mengatakan; 'Kalaulah aku diberi seperti yang dikaruniakan kepada dia, niscaya kulakukan sebagaimana yang dia lakukan.'" Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dengan hadist ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7232</td></tr><tr><td>Arabic No</td><td>7232</td></tr><tr><td>Reference</td><td>Book 94 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не следует завидовать никому, кроме двоих: человеку, которого Аллах научил Корану и который читает его ночью и днём, а его сосед слышит его и говорит: “О, если бы и мне было даровано то же, что было даровано такому-то, и делал бы я то же, что делает он!” — и человеку, которому Аллах даровал богатство и который расходует его должным образом, а (какой-нибудь) человек говорит: “О, если бы и мне было даровано то же, что было даровано такому-то, и делал бы я то же, что делает он!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7232</td></tr><tr><td>Arabic No</td><td>7232</td></tr><tr><td>Reference</td><td>Book 94 Hadith 7</td></tr></tbody></table></div>
 

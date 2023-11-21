@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada al-Ansari (Allah be pleased with him) reported he heard Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan [Ishaq bin Ibrahim], dan ini adalah lafadz Ibnu Abu Syaibah. Ishaq berkata; telah mengabarkan kepada kami, sedangkan yang dua berkata; telah menceritakan kepada kami [Abu Usamah] dari [Al Walid bin Katsir] dari [Ma'bad bin Ka'ab bin Malik] dari [Abu Qatadah Al Anshari], bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jauhilah oleh kalian banyak bersumpah dalam berdagang, karena ia dapat melariskan (dagangan) dan menghilangkan (keberkahan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4126</td></tr><tr><td>Arabic No</td><td>1607</td></tr><tr><td>Reference</td><td>Book 22 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Абу Къатады аль-Ансари, да будет доволен им Аллах, что он слышал, как Посланник Аллаха ﷺ сказал: «Ни в коем случае не давайте много клятв (, заключая) торговую сделку, ибо, поистине, (сначала) это будет способствовать сбыту (товара, но) потом уничтожит (прибыль)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4126</td></tr><tr><td>Arabic No</td><td>1607</td></tr><tr><td>Reference</td><td>Book 22 Hadith 165</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Bakra (que Dieu l'agrée) a dit : l'Envoyé de Dieu (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ar Rabi' Al 'Ataki] telah menceritakan kepada kami ['Abbad bin 'Awwam] telah mengabarkan kepada kami [Yahya bin Abu Ishaq] telah menceritakan kepada kami [Abdurrahman bin Abu Bakrah] dari [Ayahnya] dia berkata, "Rasulullah shallallahu 'alaihi wasallam telah melarang menukar perak dengan perak, emas dengan emas kecuali jika takarannya sama. Dan beliau memerintahkan kami untuk membeli perak dengan emas sekehendak kami, dan membeli emas dengan perak sekehendak kami." Seorang laki-laki bertanya kepadanya, "Apakah dengan serah terima secara tunai?" dia menjawab, "Seperti itulah saya mendengarnya." Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Yahya bin Shalih] telah menceritakan kepada kami [Mu'awiyah] dari [Yahya] -yaitu Ibnu Abu Katsir- dari [Yahya bin Abu Ishaq] bahwa [Abdurrahman bin Abu Bakrah] mengabarkan kepadanya, bahwa [Abu Bakrah] berkata, "Rasulullah shallallahu 'alaihi wasallam telah melarang kami seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4073</td></tr><tr><td>Arabic No</td><td>1590.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4073</td></tr><tr><td>Arabic No</td><td>1590.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 112</td></tr></tbody></table></div>
 

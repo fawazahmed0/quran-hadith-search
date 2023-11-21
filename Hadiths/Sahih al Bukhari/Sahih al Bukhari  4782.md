@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:We used not to call Zaid bin Haritha the freed slav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ala bin Asad] Telah menceritakan kepada kami [Abdul 'Aziz bin Al Mukhtar] Telah menceritakan kepada kami [Musa bin Uqbah] dia berkata; Telah menceritakan kepadaku [Salim] dari [Abdullah bin Umar radliallahu 'anhuma] bahwa Zaid bin Haritsah mantan budak Rasulullah shallallahu 'alaihi wasallam biasa kami panggil dengan Zaid bin Muhammad hingga Allah menurunkan ayat: "Panggillah dia dengan nama bapak-bapaknya, karena hal itu lebih adil di sisi Allah." (QS. Ahzab)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4782</td></tr><tr><td>Arabic No</td><td>4782</td></tr><tr><td>Reference</td><td>Book 65 Hadith 304</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «Раньше мы называли Зейда ибн Хариса, освобождённого раба (мауля) Посланника Аллаха ﷺ, Зейдом сыном Мухаммада. Так продолжалось до тех пор, пока не был ниспослан аят, в котором было сказано: “Зовите их (приемных детей) по именам их отцов. Это более справедливо перед Аллахом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4782</td></tr><tr><td>Arabic No</td><td>4782</td></tr><tr><td>Reference</td><td>Book 65 Hadith 304</td></tr></tbody></table></div>
 

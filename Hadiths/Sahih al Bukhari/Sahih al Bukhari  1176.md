@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur Rahman bin Abi Laila:Only Um Hani narrated to me that she had se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] Aku mendengar ['Abdurrahman bin Abu Laila] berkata: Tidak ada dari orang yang pernah menceritakan kepada kita bahwa dia melihat Nabi shallallahu 'alaihi wasallam melaksanakan shalat Dhuha kecuali [Ummu Hani'] yang dia menceritakan bahwa Nabi shallallahu 'alaihi wasallam pernah memasuki rumahnya pada saat penaklukan Makkah, kemudian Beliau shallallahu 'alaihi wasallam mandi lalu shalat delapan raka'at" seraya menjelaskan: "Aku belum pernah sekalipun melihat Beliau melaksanakan shalat yang lebih ringan dari pada saat itu, namun Beliau tetap menyempurnakan ruku' dan sujudnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1176</td></tr><tr><td>Arabic No</td><td>1176</td></tr><tr><td>Reference</td><td>Book 19 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Абу Лейля сказал: «Никто не передавал нам, что видел, как Пророк ﷺ совершал молитву “ад-духа”, кроме Умм Хани, которая рассказывала, что в День покорения Мекки Пророк ﷺ совершил полное омовение в её доме и молитву в восемь рак‘атов. И она сказала: “Я не видела, чтобы кто-нибудь совершал молитву легче этой, но при этом он завершал поясные и земные поклоны”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1176</td></tr><tr><td>Arabic No</td><td>1176</td></tr><tr><td>Reference</td><td>Book 19 Hadith 54</td></tr></tbody></table></div>
 

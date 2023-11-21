@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salih Az-Zaiyat:I heard Abu Sa'id Al-Khudri saying, "The selling of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Adh Dhahhak bin Makhlad] telah menceritakan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepada saya ['Amru bin Dinar] bahwa [Abu Shalih Az Zayyat] mengabarkan kelpadanya bahwa dia mendengar [Abu Sa'id Al Khudriy radliallahu 'anhu] berkata: "Dinar dengan dinar dan dirham dengan dirham". Aku berkata kepadanya bahwa [Ibnu 'Abbas radliallahu 'anhuma] tidak mengatakan seperti itu. Maka Abu Sa'id berkata: "Aku pernah bertanya kepadanya dimana aku katakan apakah kamu mendengarnya dari Nabi shallallahu 'alaihi wasallam atau kamu mendapatkan keterangannya dari Kitab Allah?. Maka dia menjawab: "Semuanya itu aku tidak pernah mengatakannya. Dan kalian lebih mengetahui Rasulullah shallallahu 'alaihi wasallam daripada aku namun [Usamah] mengabarkan kepadaku bahwa Nabi shallallahu 'alaihi wasallam berkata: "Tidak ada riba, kecuali riba' nasi'ah" (riba dalam urusan pinjam meminjam dengan ada tambahan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2179</td></tr><tr><td>Arabic No</td><td>2179</td></tr><tr><td>Reference</td><td>Book 34 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Салиха аз-Заййата, да помилует его Аллах Всевышний, что он слышал, как Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «(Дозволено продавать) динар за динар и дирхем за дирхем». (Абу Салих) сказал: «Я сказал ему: “А Ибн ‘Аббас говорит другое”». Абу Са‘ид сказал: «Я спросил его: “Ты слышал это от Пророка ﷺ или нашёл в Книге Аллаха?” (Ибн ‘Аббас) сказал: “Я ничего подобного не утверждаю, а (кроме того), вы знаете о посланнике Аллаха ﷺ больше, чем я, но Усама сообщил мне, что Пророк ﷺ сказал: “(Суть) ростовщичества только в отсрочке и состоит”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2179</td></tr><tr><td>Arabic No</td><td>2179</td></tr><tr><td>Reference</td><td>Book 34 Hadith 128</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd narrated it on the authority of his father (Abi Waqqas) that he observed:Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [az-Zuhri] dari [Amir bin Sa'ad] dari [bapaknya] dia berkata, "Rasulullah shallallahu 'alaihi wasallam membagikan sesuatu pembagian." Lalu aku berkata, "Wahai Rasulullah! Berilah kepada lelaki itu karena dia juga seorang mukmin." Beliau bertanya dengan bersabda: "(Atau bahkan) ia hanya seorang Muslim?" Aku menjawabnya sebanyak tiga kali tetapi beliau tetap juga meminta kepastian dariku sebanyak tiga kali dengan pertanyaan, "Betulkah dia juga Muslim?" Kemudian Beliau bersabda: "Aku sungguh akan memberikan (bagian) kepada orang tersebut, padahal ada orang lain (dari kalangan muallaf) yang lebih aku sukai daripadanya karena khawatir Allah akan menyungkurkannya ke dalam neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>378</td></tr><tr><td>Arabic No</td><td>150.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 285</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Аби Ваккас сказал: «(Однажды, когда) Посланник Аллаха ﷺ распределял (среди людей дары), я сказал (ему): “О Посланник Аллаха, дай (что-нибудь) такому-то, ибо, поистине, он верующий”. Пророк ﷺ сказал: “Или мусульманин?” Я трижды сказал (ему то, что сказал), он же трижды отвечал мне на это: “Или мусульманин?” а потом сказал: “Поистине, (иногда) я даю человеку что-то, опасаясь, что Аллах ввергнет его лицом в Огонь, хотя другого люблю больше, чем его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>378</td></tr><tr><td>Arabic No</td><td>150.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 285</td></tr></tbody></table></div>
 

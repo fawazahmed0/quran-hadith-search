@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: The Prophet (ﷺ) said: If anyone says in the mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Al Walid bin Tsa'labah Ath Tha'i] dari [Ibnu Buraidah] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa ketika waktu pagi dan sore membaca: ALLAHUMMA ANTA RABBII LAA ILAAHA ILLA ANTA KHALAQTANII WA ANA ABDUKA WA ANA 'ALAA 'AHDIKA WA WA'DIKA MASTATHA'TU A'UUDZU BIKA MIN SYARRI MAA SHANA'TU ABUU'U BINI'MATIKA WA ABUU'U BI DZANBII FAGHFIRLII INNAHU LAA YAGHFIRUDZ DZUNUUBA ILLA ANTA (Ya Allah, Engkau adalah Rabbku, tidak ada Tuhan selain Engkau. Engkau ciptakan aku dan aku adalah hamba-Mu. Aku berada dalam perjanjian-Mu dan aku akan menepati perjanjian-Mu semampuku. Aku berlindung kepada-Mu dari keburukan diriku, aku mengakui semua nikmat-Mu kepadaku dan dosaku kepada-Mu, maka ampunilah aku. Sebab tidak ada yang bisa mengampuni kecuali Engkau)." Lalu ia meninggal pada hari itu atau pada malam harinya, maka ia akan masuk ke dalam surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5070</td></tr><tr><td>Arabic No</td><td>5070</td></tr><tr><td>Reference</td><td>Book 43 Hadith 298</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Бурайды, передавшего со слов своего отца (Бурайды ибн Хусайба, да будет доволен им Аллах,) что Пророк ﷺ сказал: «Тот, кто скажет с наступлением утра или вечера: “О Аллах, Ты Господь мой, и нет бога, достойного поклонения, кроме Тебя; Ты создал меня, а я Твой раб, и я буду верен обещанному Тебе, пока у меня хватит сил. Прибегаю к Твоей защите от зла того, что я сделал, признаю милости, оказанные Тобой, и признаю грех свой, прости же меня, ибо, поистине, никто не прощает грехов, кроме Тебя!” /Аллахумма, Анта Рабби, ля иляха илля Анта, халякътани ва ана ‘абдука, ва ана ‘аля ‘ахдика ва ва‘дика ма-стата‘ту. А‘узу бика мин шарри ма сана‘ту, абуу би-ни‘мати-ка, ва абуу би-занби, фа-гъфир ли, фа-иннаху ля йагъфиру-з-зунуба илля Анта/, и умрёт в тот же день или ночью, войдёт в рай»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5070</td></tr><tr><td>Arabic No</td><td>5070</td></tr><tr><td>Reference</td><td>Book 43 Hadith 298</td></tr></tbody></table></div>
 

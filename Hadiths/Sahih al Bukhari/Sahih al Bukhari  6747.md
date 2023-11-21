@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Regarding the Holy Verse:--'And to everyone, We have appoint
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepadaku [Ishaq bin Ibrahim] mengatakan, aku berkata kepada [Abu Usamah], telah menceritakan kepadamu [Idris], telah menceritakan kepada kami [Thalhah] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas], mengenai ayat: "WALIKULLIN JA'ALNAA MAWAALIYA (bagi tiap-tiap harta peninggalan dari harta yang ditinggalkan ibu bapak dan karib kerabat, Kami jadikan pewaris-pewarisnya" (QS. ANnisa'; 33) "WALLADZIINA 'AAQADAT AIMAANAKUM (Dan jika ada orang-orang yang kamu telah bersumpah setia dengan mereka, maka berilah kepada mereka bagiannya" (QS. ANnisa; 33) dia berkata; 'Dahulu orang-orang muhajirin ketika datang ke Madinah, orang anshar mewarisi orang muhajirin yang bukan kerabatnya, dengan pertimbangan ukhuwah yang dibangun oleh Nabi shallallahu 'alaihi wasallam diantara mereka, maka tatkala turun ayat: "WALIKULLIN JA'ALNAA MAWAALIYA (bagi tiap-tiap harta peninggalan dari harta yang ditinggalkan ibu bapak dan karib kerabat, Kami jadikan pewaris-pewarisnya" (QS. Annisa'; 33), Allah menghapusnya dengan ayat: "WALLADZIINA 'AAQADAT AIMAANAKUM (Dan jika ada orang-orang yang kamu telah bersumpah setia dengan mereka" (QS. ANnisa;)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>6747</td></tr><tr><td>Reference</td><td>Book 85 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас (сказал о словах Всевышнего) «Каждому человеку Мы определили близких, которые наследуют из того, что оставили родители и ближайшие родственники. Отдавайте тем, с кем вы связаны клятвами, их долю» (сура «ан-Ниса», аят 33): «Когда мухаджиры прибыли в Медину, они с ансарами наследовали друг другу вместо кровных родственников из-за того, что Пророк ﷺ побратал их. И когда было ниспослано: “Каждому человеку Мы определили близких” (сура “ан-Ниса”, аят 33), то этот аят отменил такое наследство»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>6747</td></tr><tr><td>Reference</td><td>Book 85 Hadith 24</td></tr></tbody></table></div>
 

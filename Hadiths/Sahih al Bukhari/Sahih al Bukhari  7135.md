@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab bint Jahsh:That one day Allah's Messenger (ﷺ) entered upon her
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] -lewat jalur periwayatan lain-- telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Saudaraku] dari [Sulaiman] dari [Muhammad bin Abu 'Atiq] dari [Ibnu syihab] dari ['Urwah bin Zubair], bahwasanya [Zainab binti Abu Salamah] menceritakan kepadanya dari [Ummi habibah binti Sufyan], dari [Zainab binti Jahsy], Rasulullah Shallallahu'alaihiwasallam suatu hari menemuinya dengan gusar seraya mengatakan: "Celaka bangsa arab dari keburukan yang telah dekat, hari ini telah dibuka benteng ya'juj dan Ma'juj seperti ini, " seraya beliau melingkarkan kedua jarinya, telunjuk dan jempol. Zainab binti Jahsy mengatakan, maka aku bertanya; 'Apakah kita akan juga dibinasakan padahal ditengah-tengah kami masih ada orang-orang shalih? ' Nabi menjawab: "Iya, jika kejahatan telah merajalela
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7135</td></tr><tr><td>Arabic No</td><td>7135</td></tr><tr><td>Reference</td><td>Book 92 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Зайнаб бинт Джахш, да будет доволен ею Аллах, что однажды к ней зашёл охваченный страхом Пророк ﷺ который воскликнул: «Нет бога, достойного поклонения, кроме Аллаха! Горе арабам от зла, которое уже близко! Сегодня в стене Яджуджа и Маджуджа было проделано вот такое отверстие!» — и соединил большой и указательный пальцы в виде круга. Зайнаб бинт Джахш сказала: «Я спросила: “О Посланник Аллаха, так неужели погибнем и мы, несмотря на то, что среди нас будут праведники?” Он сказал: “Да, если пороки умножатся!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7135</td></tr><tr><td>Arabic No</td><td>7135</td></tr><tr><td>Reference</td><td>Book 92 Hadith 82</td></tr></tbody></table></div>
 

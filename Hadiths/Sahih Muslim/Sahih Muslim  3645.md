@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this is reported by another chain of narrators
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Musa Ar Razi] telah menceritakan kepada kami [Isa, yaitu Ibnu Yunus] telah menceritakan kepada kami [Abdul Hamid bin Ja'far] dari [Imran bin Abu Anas] dari [Umar bin Al Hakam] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah seorang Mukmin membenci wanita Mukminah, jika dia membenci salah satu perangainya, niscaya dia akan ridha dengan perangainya yang lain." Atau beliau bersabda: "Selainnya". Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abu 'Ashim] telah menceritakan kepada kami [Abdul Hamid bin Ja'far] telah menceritakan kepada kami [Imran bin Abu Anas] dari [Umar bin Al Hakam] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3645</td></tr><tr><td>Arabic No</td><td>1467.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3645</td></tr><tr><td>Arabic No</td><td>1467.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 78</td></tr></tbody></table></div>
 

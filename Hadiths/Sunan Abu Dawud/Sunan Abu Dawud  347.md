@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. 'Amr al-'As reported the Prophet (ﷺ) as saying:Whoever washed him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abi Aqil] dan [Muhamamd bin Salamah] keduanya dari Mesir, mereka berkata; Telah menceritakan kepada kami [Ibnu Wahb], berkata Ibnu Abu Aqil; Telah mengabarkan kepadaku [Usamah bin Zaid] dari [Amru bin Syu'aib] dari [Ayahnya] dari [Abdullah bin Amru bin Al-'Ash] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Barangsiapa yang mandi untuk melaksanakan shalat Jum'at dan mengenakan wewangian istrinya apabila dia mempunyai wewangian, serta memakai pakaian yang paling bagus, kemudian tidak melangkahi pundak-pundak orang lain dan tidak main-main dalam mendengarkan khutbah, maka dia akan mendapatkan penghapusan dosa di antara dua Jumat, dan barangsiapa yang main-main dalam mendengarkan khutbah maka baginya hanyalah pahala shalat Zhuhur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>347</td></tr><tr><td>Arabic No</td><td>347</td></tr><tr><td>Reference</td><td>Book 1 Hadith 347</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Ас о том, что Пророк ﷺ сказал: «Тот, кто искупается в пятницу, умастится благовониями своей жены, если они найдутся у нее, облачится в нарядные одежды, после чего (явившись на пятничную молитву) не будет перешагивать через шеи людей, и не будет вести пустые разговоры во время проповеди (имама), будет (даровано) ему искуплением между ними. Тот же, кто ведет пустые разговоры и перешагивает через шеи людей, то ему (от пятничной молитвы) достанется (лишь такое же вознаграждение, как от) полуденной молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>347</td></tr><tr><td>Arabic No</td><td>347</td></tr><tr><td>Reference</td><td>Book 1 Hadith 347</td></tr></tbody></table></div>
 

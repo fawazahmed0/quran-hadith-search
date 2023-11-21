@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi' bun Ujair bin Abd Yazid bin Ruknah reported Ruknah bin ‘Abd Yazid divorc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh] dan [Ibrahim bin Khalid Al Kalbi Abu Tsaur] diantara orang-orang yang lain, mereka mengatakan; telah menceritakan kepada kami [Muhammad bin Idris Asy Syafi'i], telah menceritakan kepadaku [pamanku yaitu Muhammad bin Ali bin syafi'] dari [Abdullah bin Ali bin As Saib] dari [Nafi' bin 'Ujair bin Abdu Yazid? bin Rukanah], bahwa [Rukanah bin Abdu Yazid] telah menceraikan isterinya yaitu Suhaimah sama sekali, kemudian ia mengabarkan kepada Nabi shallallahu 'alaihi wasallam dengan hal tersebut. Dan ia berkata; demi Allah aku tidak berniat kecuali satu kali. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Demi Allah, engkau tidak berniat kecuali satu kali." Kemudian Rukanah berkata; demi Allah, aku tidak berniat kecuali satu kali. Kemudian Rasulullah shallallahu 'alaihi wasallam mengembalikan isterinya kepadanya. Kemudian ia mencerainya kedua kali pada zaman Umar dan ketiga kali pada zaman Utsman. Abu Daud berkata; yang pertama adalah lafazh Ibrahim, dan yang lainnya adalah lafazh Ibnu As Sarh. Telah menceritakan kepada kami [Muhammad bin Yunus An Nasai], bahwa [Abdullah bin Az Zubair] telah menceritakan kepada mereka dari [Muhammad bin Idris] telah menceritakan kepadaku [pamanku yaitu Muhammad bin Ali] dari [Ibnu As Saib] dari [Nafi' bin 'Ujair] dari [Rukanah bin Abdu Yazid] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2206</td></tr><tr><td>Arabic No</td><td>2206</td></tr><tr><td>Reference</td><td>Book 13 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Нафи‘а ибн ‘Уджайра ибн ‘Абд Язида ибн Рукана, что Рукана ибн ‘Абд Язид дал окончательный развод своей жене Сухайме, а потом сообщил об этом Пророку ﷺ и сказал: «Клянусь Аллахом, я хотел дать ей только один развод!» Посланник Аллаха ﷺ спросил его: «Клянёшься Аллахом, что хотел дать ей только один развод?» Он сказал: «Клянусь Аллахом, я хотел дать ей только один развод!» И Посланник Аллаха ﷺ велел ему вернуть жену, и он дал ей второй развод во времена ‘Умара, а третий во времена ‘Усмана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2206</td></tr><tr><td>Arabic No</td><td>2206</td></tr><tr><td>Reference</td><td>Book 13 Hadith 32</td></tr></tbody></table></div>
 

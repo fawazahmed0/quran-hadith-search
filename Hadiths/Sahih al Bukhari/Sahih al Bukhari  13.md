@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas: The Prophet (ﷺ) said, "None of you will have faith till he wish
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Qotadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam Dan dari [Husain Al Mu'alim] berkata, telah menceritakan kepada kami [Qotadah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidaklah beriman seseorang dari kalian sehingga dia mencintai untuk saudaranya sebagaimana dia mencintai untuk dirinya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 2 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал Мусаддад, сказавший: Нам рассказал Яхья, от Шу‘бы, от Катады, от Анаса, да будет доволен им Аллах, от Пророка ﷺ о том что он сказал: «Не уверует никто из вас до тех пор, пока не станет желать своему брату (в Исламе) того же, чего желает самому себе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 2 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yazid bin Abi Ubaid:I saw the trace of a wound in Salama's leg. I said 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4206</td></tr><tr><td>Arabic No</td><td>4206</td></tr><tr><td>Reference</td><td>Book 64 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Йазид бин Абу Убайд, да помилует его Аллах Всевышний, сказал:\n— (Однажды) я увидел шрам на голени Салямы ибн аль-Аква‘, да будет доволен им Аллах, и спросил (его): «О Абу Муслим, что это за шрам?» Он сказал: «Этот удар я получил в день Хайбара. Тогда люди сказали: “Саляма ранен!” — а я пошёл к Пророку ﷺ, и он трижды сплюнул (мне на рану), которая не дает о себе знать с тех пор и до сего дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4206</td></tr><tr><td>Arabic No</td><td>4206</td></tr><tr><td>Reference</td><td>Book 64 Hadith 246</td></tr></tbody></table></div>
 

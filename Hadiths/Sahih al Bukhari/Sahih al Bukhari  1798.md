@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Prophet (ﷺ) arrived at Mecca, some boys of the tr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: Ketika Nabi shallallahu 'alaihi wasallam sampai di Makkah Beliau ditemui anak-anak kecil Suku Bani 'Abdul Muthalib lalu Beliau menggendong salah satu dari mereka di depan dan yang lainnya dibelakang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1798</td></tr><tr><td>Arabic No</td><td>1798</td></tr><tr><td>Reference</td><td>Book 26 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Когда Пророк ﷺ прибыл в Мекку, (среди прочих) его встречали и мальчики из племени бану ‘абд аль-мутталиб, и он посадил одного из них в седло перед собой, а другого — позади себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1798</td></tr><tr><td>Arabic No</td><td>1798</td></tr><tr><td>Reference</td><td>Book 26 Hadith 23</td></tr></tbody></table></div>
 

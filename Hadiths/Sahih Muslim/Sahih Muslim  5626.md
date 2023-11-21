@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Khudri reported:I was sitting in Medina in the company of the Ansar wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru bin Muhammad bin Bukair An Naqid]; Telah menceritakan kepada kami [Sufyan bin 'Uyainah]; Telah menceritakan kepada kami [Yazid bin Khushaifah] dari [Busr bin Sa'id] dia berkata; Aku mendengar [Abu Sa'id Al Khudri] berkata; "Ketika aku duduk di suatu majelis Anshar di Madinah, tiba-tiba Abu Musa datang tergopoh-gopoh dalam keadaan takut. Lalu kami tanyai dia, "Ada apa dengan anda?" jawab [Abu Musa]; "Umar (bin khaththab) memanggilku supaya aku datang menemuinya. Setelah aku tiba di muka pintu, aku memberi salam sampai tiga kali, tetapi tidak ada jawaban. Karena itu aku pulang lagi. Kemudian 'Umar menanyaiku; "Mengapa engkau tidak datang, apa yang menghalangimu?" jawabku; "Aku telah mendatangi anda dan memberi salam di muka pintu rumah Anda tiga kali, tetapi tidak ada jawaban. Karena itu aku pulang saja kembali. Karena Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Apabila kamu telah minta izin (memberi salam) tiga kali tetapi tidak dijawab, maka kembalilah!" 'Umar berkata; "Berikan aku saksi atas keteranganmu itu. Kalau tidak aku akan menghukumimu!" maka Ubay bin Ka'ab berkata; Hendaklah yang menjadi saksi baginya adalah orang yang paling muda. [Abu Sa'id] berkata; 'Akulah orang yang paling muda.' Ubay berkata; 'Berangkatlah bersamanya menemui Umar! ' Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ibnu Abu 'Umar] keduanya berkata; Telah menceritakan kepada kami [Sufyan] dari [Yazid bin Khushaifah] melalui jalur ini. Ibnu Abu 'Umar menambahkan dalam Haditsnya; 'Abu Sa'id berkata; 'Maka kemudian aku berdiri dan berangkat bersamanya menemui Umar untuk bersaksi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5626</td></tr><tr><td>Arabic No</td><td>2153.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5626</td></tr><tr><td>Arabic No</td><td>2153.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 41</td></tr></tbody></table></div>
 

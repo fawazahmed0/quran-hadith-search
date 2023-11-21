@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:I became sick so Allah's Messenger (ﷺ) and Abu Ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari [Muhammad bin Al Munkadir], ia mendengar [Jabir bin Abdullah] radliallahu 'anhuma mengatakan; aku pernah sakit, Rasulullah Shallallahu'alaihiwasallam dan Abu Bakar menjengukku dengan berjalan kaki. Keduanya mendatangiku ketika aku sedang pingsan, maka Rasulullah Shallallahu'alaihi wa sallam berwudhu', dan sisa wudhunya beliau guyurkan kepadaku sehingga aku siuman (sadar). Maka aku bertanya; 'Bagaimana yang harus aku lakukan terhadap hartaku?, bagaimana yang ahrus aku putuskan terhadap hartaku? ' Rasulullah Shallallahu'alaihiwasallam sama sekali tidak menjawab sepatah kata pun hingga turun ayat waris
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6723</td></tr><tr><td>Arabic No</td><td>6723</td></tr><tr><td>Reference</td><td>Book 85 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Однажды я заболел, и Посланник Аллаха ﷺ вместе с Абу Бакром пришли пешком, чтобы навестить меня. Когда они пришли ко мне, я лежал без сознания. Тогда Посланник Аллаха ﷺ совершил омовение и вылил на меня воду, оставшуюся после омовения, и я пришёл в себя и спросил: “О Посланник Аллаха, как мне поступить со своим имуществом? Как мне распорядиться своим имуществом?” Тогда он мне ничего не ответил, пока не был ниспослан аят о наследовании»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6723</td></tr><tr><td>Arabic No</td><td>6723</td></tr><tr><td>Reference</td><td>Book 85 Hadith 1</td></tr></tbody></table></div>
 

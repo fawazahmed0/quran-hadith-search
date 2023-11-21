@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hakim b. Hizam reported:I begged the Messenger of Allah (ﷺ), and he gave me. I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Amru An Naqid] keduanya berkata, Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Urwah bin Zubair] dan [Sa'id] dari [Hakim bin Hizam] ia berkata; Saya meminta sedekah kepada Nabi shallallahu 'alaihi wasallam, maka beliau pun memberikannya padaku, kemudian aku meminta lagi, maka diberikannya lagi, kemudian aku meminta lagi, maka beliau pun memberikannya lagi. Sesudah itu, beliau bersabda: "Sesungguhnya harta ini adalah lezat dan manis. Maka siapa yang menerimanya dengan hati yang baik, niscaya ia akan mendapat berkahnya. Namun, siapa yang menerimanya dengan nafsu serakah, maka dia tidak akan mendapat berkahnya, Dia akan seperti orang yang makan, namun tidak pernah merasa kenyang. Dan tangan di atas lebih baik daripada tangan di bawah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2387</td></tr><tr><td>Arabic No</td><td>1035</td></tr><tr><td>Reference</td><td>Book 12 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаким ибн Хизам сказал: «(Однажды) я попросил (что-то) у Пророка ﷺ, и он дал мне (это), потом я (снова) обратился к нему с просьбой и он дал мне (то, что я просил), потом я (снова) обратился к нему с просьбой, и он дал мне (то, что я просил), а потом сказал: “Поистине, это богатство (подобно) зелёному и сладкому (плоду) оно становится благословенным для того, кто получает его, (не прибегая к просьбам и не стремясь к нему) душой, а для того, кто (добивается) его, (подчиняясь желаниям) души, благословенным оно не станет, и уподобится он (человеку), который ест, но не насыщается. (Запомни, что) высшая рука лучше низшей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2387</td></tr><tr><td>Arabic No</td><td>1035</td></tr><tr><td>Reference</td><td>Book 12 Hadith 124</td></tr></tbody></table></div>
 

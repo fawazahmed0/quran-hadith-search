@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama said to 'A'isha (Allah be pleased with her):A young boy who is at the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Humaid bin Nafi'] dari [Zainab binti Ummu Salamah] dia berkata; Ummu Salamah berkata kepada [Aisyah]; Kenapa laki-laki yang sudah baligh itu bebas masuk ke rumahmu, yang saya tidak suka jika dia masuk ke rumahku? (Humaid) berkata; Maka Aisyah menjawab; Kenapa kamu tidak mengambil teladan dari diri Rasulullah shallallahu 'alaihi wasallam? Dia melanjutkan; Sesungguhnya istri Abu Hudzaifah berkata; Wahai Rasulullah, Sesungguhnya Salim sering masuk (kerumahku) padahal dia (telah baligh) layaknya seorang laki-laki? (saya khawatir) jika pada diri Abu Hudzaifah ada sesuatu? Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Susuilah, supaya dia boleh menemuimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3603</td></tr><tr><td>Arabic No</td><td>1453.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3603</td></tr><tr><td>Arabic No</td><td>1453.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 36</td></tr></tbody></table></div>
 

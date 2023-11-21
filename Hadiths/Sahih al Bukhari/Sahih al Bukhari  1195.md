@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zaid Al-Mazini:Allah's Messenger (ﷺ) said, "Between my 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Abdullah bin Abu Bakar] dari ['Abbad bin Tamim] dari ['Abdullah bin Zaid Al Maaziniy radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tempat yang ada diantara rumahku dan mimbarku adalah raudhah (taman) diantara taman-taman surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 20 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн Зейда аль-Мазини, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Между моим домом и моим минбаром находится один из райских садов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 20 Hadith 7</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: When we were sitting with the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Utsman bin Sa'id Al Himshi] berkata, telah menceritakan kepada kami [Abu Al Mughirah] berkata, telah menceritakan kepadaku [Abdullah bin Salim] berkata, telah menceritakan kepadaku [Al 'Ala bin Utbah] dari [Umair bin Hani Al 'Ansi] ia berkata; Aku mendengar [Abdullah bin Umar] berkata, "Saat kami duduk-duduk di sisi Rasulullah shallallahu 'alaihi wasallam, beliau bercerita tentang fitnah, panjang lebar beliau bercerita seputar fitnah itu hingga beliau menyebutkan tentang fitnah Al Ahlas. Seorang laki-laki lalu bertanya, "Wahai Rasulullah, apa itu fitnah Al Ahlas?" beliau menjawab: "Adanya permusuhan dan peperangan, kemudian fitnah kesenangan yang asapnya muncul dari bawah kedua kaki seorang laki-laki ahli baitku. Ia mengaku berasal dari keturunanku, padahal bukan. Wali-waliku hanya orang-orang yang bertakwa. Kemudian orang-orang akan berdamai pada seorang laki-laki layaknya pangkal paha yang bertumpuk di tulang rusuk (kesepakatan yang semu). Kemudian akan muncul fitnah seorang yang buta (dengan kekuasaan), tidak seorang pun dari umat ini kecuali ia akan mendapat satu tamparan di mukanya (bencana kerusakan darinya). Ketika fitnah itu telah dianggap usai, namun fitnah tersebut justru berkelanjutan. Seorang laki-laki yang paginya beriman menjadi kafir di waktu sore, sehingga manusia akan menjadi dua kelompok; sekelompok orang yang beriman dan tidak ada kemunafikan dalam keimanannya, dan sekelompok orang yang penuh kemunafikan dan tidak ada keimanan padanya. Jika kondisi kalian sudah begitu, maka tunggulah munculnya Dajjal pada hari itu atau keesokan harinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4242</td></tr><tr><td>Arabic No</td><td>4242</td></tr><tr><td>Reference</td><td>Book 37 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха (ибн Мас‘уда), да будет доволен им Аллах, что Пророк ﷺ сказал: «У этой общины будут четыре смуты, и в последней она погибнет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4242</td></tr><tr><td>Arabic No</td><td>4242</td></tr><tr><td>Reference</td><td>Book 37 Hadith 3</td></tr></tbody></table></div>
 

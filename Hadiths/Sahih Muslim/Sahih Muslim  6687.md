@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported Allah's Messenger (ﷺ) as saying:Gabriel impressed upon me (t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaidullah bin 'Umar Al Qawariri]; Telah menceritakan kepada kami [Yazid bin Zurai'] dari ['Umar bin Muhammad] dari [Bapaknya] dia berkata; Aku mendengar [Ibnu 'Umar] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya Jibril terus-menerus berpesan kepadaku tentang tetangga, hingga aku menduga bahwasanya ia akan memberikan hak waris kepada tetangga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6687</td></tr><tr><td>Arabic No</td><td>2625.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6687</td></tr><tr><td>Arabic No</td><td>2625.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 184</td></tr></tbody></table></div>
 

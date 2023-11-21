@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Fatima bint Abi Hubaish asked the Prophet, "I got persistent ble
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Raja'] berkata, telah menceritakan kepada kami [Abu Usamah] berkata, Aku mendengar [Hisyam bin 'Urwah] berkata, telah mengabarkan kepadaku [Bapakku] dari ['Aisyah] bahwa Fatimah binti Abu Hubaisy bertanya kepada Nabi shallallahu 'alaihi wasallam, katanya, "Aku mengeluarkan darah istihadlah (penyakit). Apakah aku tinggalkan shalat?" Beliau menjawab: "Jangan, karena itu hanyalah darah penyakit seperti keringat. Tinggalkanlah shalat selama masa haidmu, setelah itu mandi dan kerjakanlah shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>325</td></tr><tr><td>Arabic No</td><td>325</td></tr><tr><td>Reference</td><td>Book 6 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, о том, что (однажды) Фатима бинт Абу Хубайш спросила Пророка ﷺ: «Истечение крови продолжается у меня постоянно, и я никак не могу очиститься, так не прекратить ли мне совершать молитву?» (Посланник Аллаха ﷺ) сказал (ей в ответ): «Нет, поскольку это уже венозная кровь, (а не менструальная). Однако, прекращай молиться в те дни, когда (обычно) у тебя месячные, а когда (этот период закончится), совершай полное омовение и (снова) молись»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>325</td></tr><tr><td>Arabic No</td><td>325</td></tr><tr><td>Reference</td><td>Book 6 Hadith 30</td></tr></tbody></table></div>
 

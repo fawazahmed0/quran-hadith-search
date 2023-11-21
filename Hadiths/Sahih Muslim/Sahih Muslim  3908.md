@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) reported that Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Muhammad bin Abdullah bin Numair] serta [Zuhair bin Harb] mereka semua berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ibnu Juraij] dari ['Atha'] dari [Jabir bin Abdullah] dia berkata; Rasulullah Shallallu 'alaihi wa sallam melarang jual beli muhaqalah dan muzabanah serta mukhabarah, melarang jual beli buah hingga kelihatan jelas matangnya, melarang jual beli melainkan dengan dinar dan dirham (uang tunai) kecuali jual beli 'araya. Dan telah menceritakan kepada kami [Abdullah bin Humaid] telah mengabarkan kepada kami [Abu 'Ashim] telah mengabarkan kepada kami [Ibnu Juraij] dari ['Atha'] dan [Abu Zubair] bahwa keduanya pernah mendengar [Jabir bin Abdullah] berkata; "Rasulullah Shallallu 'alaihi wa sallam melarang…" kemudian dia menyebutkan hadits yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3908</td></tr><tr><td>Arabic No</td><td>1536.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3908</td></tr><tr><td>Arabic No</td><td>1536.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 107</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: A man was injured during the lifetime of the Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin 'Ahim Al-Anthaki] telah menceritakan kepada kami [Muhammad bin Syu'aib] telah mengabarkan kepadaku [Al-Auza'i] bahwa telah sampai kepadanya dari ['Atha' bin Abi Rabah] bahwasanya dia mendengar [Ibnu Abbas] berkata; Ada seseorang terluka pada masa Rasulullah Shallallahu alaihi wasallam, kemudian dia bermimpi junub, lalu dia diperintahkan untuk mandi, maka dia mandi dan meninggal. Kejadian ini kemudian sampai kepada Rasulullah Shallallahu alaihi wasallam, maka beliau bersabda: "Mereka telah membunuhnya semoga Allah membunuh mereka! Bukankah obat dari kebodohan adalah bertanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>337</td></tr><tr><td>Arabic No</td><td>337</td></tr><tr><td>Reference</td><td>Book 1 Hadith 337</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аты ибн Абу Рабаха о том, что он слышал, как ‘Абдуллах ибн ‘Аббас сказал: «При жизни Посланника Аллаха ﷺ один человек получил ранение. Затем у него произошла полюция, и ему велели искупаться, вследствие чего он умер. Когда это дошло до Посланника Аллаха ﷺ он сказал: “Они убили его! Да погубит их Аллах! Разве вопрос не является лекарством от невежества?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>337</td></tr><tr><td>Arabic No</td><td>337</td></tr><tr><td>Reference</td><td>Book 1 Hadith 337</td></tr></tbody></table></div>
 

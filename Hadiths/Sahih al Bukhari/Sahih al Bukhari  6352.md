@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sa'ib bin Yazid:My aunt took me to Allah's Messenger (ﷺ) and said,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hatim] dari [Al Ja'd bin Abdurrahman] dia berkata; saya mendengar [As Sa'ib bin Yazid] berkata; Aku bersama bibiku menemui Rasulullah Shallallahu 'alahi wasallam, lalu dia berkata; "Wahai Rasulullah, Sesungguhnya anak saudaraku ini sedang menderita sakit." Lalu beliau mengusap kepalaku dan mendo'akanku dengan keberkahan, setelah itu beliau berwudlu dan meminum sisa air wudlu, sementara aku berdiri di belakang beliau maka aku sempat melihat stempel (kenabian) antara kedua pundak beliau seperti biji kancing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6352</td></tr><tr><td>Arabic No</td><td>6352</td></tr><tr><td>Reference</td><td>Book 80 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ас-Саиб ибн Язид, да будет доволен им Аллах, сказал: «(Однажды) моя тётка со стороны матери привела меня к Посланнику Аллаха ﷺ и сказала: “О посланник Аллаха, сын моей сестры заболел!” — а он погладил меня по голове и призвал на меня благословение. Затем (Пророк ﷺ) совершил омовение, а я выпил остаток воды, которую он использовал, после чего встал у него за спиной и увидел у него между лопаток печать пророчества, по виду подобную яйцу куропатки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6352</td></tr><tr><td>Arabic No</td><td>6352</td></tr><tr><td>Reference</td><td>Book 80 Hadith 49</td></tr></tbody></table></div>
 

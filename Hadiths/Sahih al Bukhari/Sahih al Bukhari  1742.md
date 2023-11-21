@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:At Mina, the Prophet (p.b.u.h) said, "Do you know what is the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada saya [Yazid bin Harun] telah mengabarkan kepada kami ['Ashim bin Muhammad bin Zaid] dari [bapaknya] dari [Ibnu'Umar radliallahu 'anhuma] berkata: Nabi shallallahu 'alaihi wasallam bersabda ketika berada di Mina:: "Apakah kalian mengetahui, hari apakah ini?". Orang-orang menjawab: "Allah dan rasulNya yang lebih mengetahui". Beliau bersabda: "Ini adalah hari haram (suci) ". Beliau bertanya lagi: "Apakah kalian mengetahui, negeri apakah ini?". Mereka menjawab: "Allah dan rasulNya yang lebih mengetahui". Beliau berkata: "Ini adalah negeri haram". Beliau bertanya lagi: "Apakah kalian mengetahui, bulan apakah ini?". Mereka menjawab: "Allah dan rasulNya yang lebih mengetahui". Beliau berkata: "Ini adalah bulan haram. Sungguh Allah telah mengharamkan darah kalian, harta-harta kalian dan kehormatan kalian sebagaimana haramnya hari kalian ini, pada bulan kalian ini dan di negeri kalian ini". Berkata, [Hisyam bin Al Ghor] telah mengabarkan kepada saya [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma]: "Nabi wuquf pada hari Nahar diantara tempat-tempat melempar jumrah pada pelaksanaan haji yang Beliau laksanakan sebagaimana hadits ini. Maka Nabi shallallahu 'alaihi wasallam segera bersabda: "Ya Allah saksikanlah". Maka orang-orang menjadi tenang. Mereka berkata: "Ini adalah haji wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1742</td></tr><tr><td>Arabic No</td><td>1742</td></tr><tr><td>Reference</td><td>Book 25 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, рассказал: «Пророк ﷺ сказал в Мине: “Знаете ли вы, какой это день?” Люди ответили: “Аллах и Его посланник знают об этом лучше”. Он сказал: “Это запретный день. А знаете ли вы, что это за город?” Люди ответили: “Аллах и Его посланник знают об этом лучше”. Тогда он сказал: “Это запретный город. Знаете ли вы, какой это месяц?” Люди ответили: “Аллах и Его посланник знают об этом лучше”. Тогда он сказал: “Это запретный месяц. Поистине, Аллах сделал запретными для вас ваши жизни, ваше имущество и вашу честь так же, как запретными для вас является этот ваш день, в этом вашем месяце в этом вашем городе!”».\nСообщается от Нафи‘а, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «В День жертвоприношения Пророк ﷺ стоял между Джамаратами (столбами, в которые бросают камни) во время своего хаджа, который он совершил, и сказал: “Это день большого хаджа”. Пророк ﷺ начал повторять: “О Аллах! Засвидетельствуй!” Затем он попрощался с людьми. И люди сказали: “Это прощальный хадж”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1742</td></tr><tr><td>Arabic No</td><td>1742</td></tr><tr><td>Reference</td><td>Book 25 Hadith 220</td></tr></tbody></table></div>
 

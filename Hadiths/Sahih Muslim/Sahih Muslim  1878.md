@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Yazid reported:I met Abu Mas'ud near the House (Ka'ba) and said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Manshur] dari [Ibrahim] dari [Abdurrahman bin Yazid] ia berkata; Saya menjumpai [Abu Mas'ud] di Baitullah, maka saya pun berkata, "Ada satu hadits dari Anda yang telah sampai kepadaku tentang dua ayat yang terdapat di dalam surat Al Baqarah." Abu Mas'ud berkata; Ya, Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Siapa yang membaca kedua ayat itu, yakni akhir dari surat Al Baqarah, niscaya keduanya akan memeliharanya dari bencana." Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] keduanya dari [Manshur] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>807.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 306</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Со слов Абу Мас‘уда аль-­Бадри (да будет доволен им Аллах) сообщается, что Посланник Аллаха ﷺ сказал: «Тому, кто станет читать ночью два последних аята из суры “аль-Бакара”, этого будет достаточно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>807.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 306</td></tr></tbody></table></div>
 

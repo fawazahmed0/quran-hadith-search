@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Ta'us that a man said to 'Abdullah son of 'Um
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Hanzhalah] dia berkata, "Saya mendengar [Ikrimah bin Khalid] menceritakan hadits kepada Thawus bahwa seorang laki-laki berkata kepada [Abdullah bin Umar], 'Mengapa kamu tidak berperang? ' Dia menjawab, 'Sesungguhnya aku mendengar Rasulullah shallallahu 'alaihi wasallam berkata: 'Sesungguhnya Islam didirikan di atas lima dasar: Persaksian bahwa tidak ada tuhan (yang berhak disembah selain Allah, mendirikan shalat, menunaikan zakat, berpuasa Ramadlan, dan berhaji ke Baitullah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>16.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ханзаля сказал: «Я слышал, как ‘Икрима ибн Халид рассказывал Тавусу о том, что один человек сказал ‘Абдулле ибн ‘Умар: «Почему ты не выходишь на военный поход?» (‘Абдуллах ибн ‘Умар) сказал: «Поистине, я слышал как Посланник Аллаха ﷺ говорил: “Поистине, Ислам основывается на пяти (столпах): свидетельстве о том, что нет божества достойного поклонения, кроме Аллаха, выстаивании молитвы, выплате закята, соблюдении поста в Рамадане и совершении хаджа к Дому”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>16.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 22</td></tr></tbody></table></div>
 

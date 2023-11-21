@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amir:I heard An-Nu'man bin Bashir on the pulpit saying, "My father gav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamid bin 'Umar] telah menceritakan kepada kami [Abu 'Awanah] dari [Hushain] dari ['Amir] berkata; aku mendengar [An Nu'man bin Basyir radliallahu 'anhuma] berkhutbah diatas mimbar, katanya: "Bapakku memberiku sebuah hadiah (pemberian tanpa imbalan). Maka 'Amrah binti Rawahah berkata; "Aku tidak rela sampai kamu mempersaksikannya kepada Rasulullah shallallahu 'alaihi wasallam." Maka bapakku menemui Rasulullah shallallahu 'alaihi wasallam dan berkata: "Aku memberi anakku sebuah hadiah yang berasal dari 'Amrah binti Rawahah, namun dia memerintahkan aku agar aku mempersaksikannya kepada anda, wahai Rasulullah". Beliau bertanya: "Apakah semua anakmu kamu beri hadiah seperti ini?". Dia menjawab: "Tidak". Beliau bersabda: "Bertaqwalah kalian kepada Allah dan berbuat adillah diantara anak-anak kalian". An-Nu'man berkata: "Maka dia kembali dan Beliau menolak pemberian bapakku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2587</td></tr><tr><td>Arabic No</td><td>2587</td></tr><tr><td>Reference</td><td>Book 51 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Ну‘ман бин Башир, да будет доволен Аллах ими обоими, сказал: «(Однажды) мой отец сделал мне подарок, но ‘Амра бинт Раваха сказала: “Я не соглашусь (с этим), пока ты не попросишь Посланника Аллаха ﷺ засвидетельствовать (дарение)”. Тогда (мой отец) пришёл к Посланнику Аллаха ﷺ и сказал: “Я сделал подарок моему сыну от ‘Амры бинт Раваха, но она сказала мне, чтобы я призвал в свидетели тебя, о Посланник Аллаха!” (Пророк ﷺ) спросил: “А сделал ли ты такие же подарки и всем остальным своим детям?” (Мой отец) ответил: “Нет”. (Тогда Пророк ﷺ) сказал: “Побойтесь Аллаха и будьте (одинаково) справедливы ко (всем) вашим детям!” — после чего (мой отец) вернулся обратно и забрал свой подарок»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2587</td></tr><tr><td>Arabic No</td><td>2587</td></tr><tr><td>Reference</td><td>Book 51 Hadith 21</td></tr></tbody></table></div>
 

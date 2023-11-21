@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah is reported to have said:Keep refreshing your knowledge of the sacred b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] dan [Abu Mu'awiyah] -dalam jalur lain- Dan telah menceritakan kepada kami [Yahya bin Yahya] -lafazh adalah miliknya- ia berkata, telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] ia berkata, [Abdullah] berkata; "Sering-seringlah kalian membaca Mushhaf ini -sepertinya ia juga mengatakan- Al Qur'an, karena ia lebih cepat hilangnya dari dada para penghafalnya daripada unta dari ikatannya." Abdullah berkata; Dan Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Janganlah salah seorang dari kalian mengatakan, 'Saya telah lupa ayat ini dan itu.' akan tetapi ia telah dilupakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>790.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах сказал: «Читайте Коран постоянно, ибо он ускользает из сердец людей быстрее, чем верблюды высвобождаются из пут. Посланник Аллаха ﷺ сказал: “Пусть никто из вас не говорит: ‹Я забыл такой-то и такой-то аят› (ибо не сам он забыл), а заставил его забыть (Аллах)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>790.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 270</td></tr></tbody></table></div>
 

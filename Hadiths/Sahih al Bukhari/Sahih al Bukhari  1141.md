@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Sometimes Allah's Messenger (ﷺ) would not fast (for so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah menceritakan kepada saya [Muhammad bin Ja'far] dari [Humaid] bahwasanya dia mendengar [Anas bin Malik radliallahu 'anhu] berkata: "Rasulullah shallallahu 'alaihi wasallam biasa berbuka (tidak shaum sunnah) selama satu bulan hingga kami menduganya Beliau tidak pernah shaum selama itu, dan bila shaum seakan Beliau terus menerus shaum hingga kami menduganya Beliau tidak pernah berbuka sekalipun dalam bulan itu. Dan jika kamu hendak melihat Beliau pada suatu malam dalam keadaan shalat maka pasti kamu akan melihatnya dan tidak pula dalam posisi tertidur melainkan pasti kalian akan melihatnya pula dalam keadaan tertidur". Hadits ini diikuti pula oleh [Sulaiman] dan [Abu Khalid Al Ahmar] dari [Humaid]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1141</td></tr><tr><td>Arabic No</td><td>1141</td></tr><tr><td>Reference</td><td>Book 19 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Бывало так, что Посланник Аллаха ﷺ не постился в течение месяца (так много), что мы начинали думать, что в (этом месяце) он не постится вовсе, а иногда постился столько, что нам казалось, будто он совсем не прерывает поста. И бывало так, что, когда ты хотел увидеть его ночью на молитве, то обязательно заставал его за молитвой, а когда хотел увидеть его спящим, обязательно видел его (спящим)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1141</td></tr><tr><td>Arabic No</td><td>1141</td></tr><tr><td>Reference</td><td>Book 19 Hadith 22</td></tr></tbody></table></div>
 

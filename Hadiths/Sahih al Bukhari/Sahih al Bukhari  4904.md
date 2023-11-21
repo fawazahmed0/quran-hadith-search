@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Arqam:While I was with my uncle, I heard 'Abdullah bin Ubai bi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Isra'il] dari [Abu Ishaq] dari [Zaid bin Arqam] ia berkata; Suatu ketika, aku bersama pamanku, lalu aku mendengar Abdullah bin Ubbay bin Salul berkata, "Janganlah kalian memberikan perbekalan kepada orang-orang yang berada di sisi Rasulullah shallallahu 'alaihi wasallam hingga mereka lari daripadanya. Dan jika kita kembali ke Madinah, niscaya orang-orang mulia akan mengeluarkan orang-orang yang hina darinya." Maka aku pun menuturkan hal itu pada pamanku, dan pamanku menyampaikannya kepada Nabi shallallahu 'alaihi wasallam. Kemudian beliau memanggilku, maka aku pun menceritakannya. Lalu beliau mengirim utusan kepada Abdullah bin Ubbay dan para sahabatnya, namun mereka bersumpah bahwa mereka tidak mengatakannya. Akhirnya Nabi shallallahu 'alaihi wasallam mendustakanku dan membenarkan mereka. Sejak itu, aku pun tertimpa kesedihan yang belum pernah aku rasakan sebelumnya. Aku hanya duduk di dalam rumahku. Pamanku berkata, "Apa yang kamu inginkan hingga Rasulullah shallallahu 'alaihi wasallam mendustakan dan memarahimu?" Akhirnya Allah Ta'ala menurunkan: "IDZAA JAA'AKAL MUNAAFIQUUNA QAALUU NASYHADU INNAKA RASULULLAH (Ketika orang-orang munafik datang kepadamu, mereka berkata, 'Kami bersaksi bahwa Anda adalah Rasulullah)." Dan Nabi shallallahu 'alaihi wasallam mengutus seseorang padaku dan membacakannya kemudian berkata, "Sesungguhnya Allah telah membenarkanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4904</td></tr><tr><td>Arabic No</td><td>4904</td></tr><tr><td>Reference</td><td>Book 65 Hadith 424</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Аркъам, да будет доволен им Аллах, сказал: «(Однажды) я был со своим дядей, и услышал, как ‘Абдуллах ибн Убайй ибн Салюль сказал: “Ничего не расходуйте на тех, кто находится вместе с Посланником Аллаха, пока они не разбегутся от него. Поистине, когда мы вернёмся в Медину, могущественные обязательно выгонят (оттуда) презренных!” И я передал эти (слова) своему дяде, который, в свою очередь, передал их Пророку ﷺ. Он призвал меня к себе, и я рассказал ему (обо всём), после чего Посланник Аллаха ﷺ послал за ‘Абдуллахом ибн Убаййем и его товарищами, которые поклялись, что не говорили этого, и Посланник Аллаха ﷺ не поверил мне, поверив им. (Из-за) этого меня охватила такая печаль, которую я никогда раньше не испытывал. Я сидел у себя дома, а мой дядя говорил мне: “Ты хотел добиться того, чтобы Посланник Аллаха ﷺ посчитал тебя лжецом и возненавидел тебя?” — но потом Всевышний Аллах ниспослал: “Когда лицемеры приходят к тебе, они говорят: “Свидетельствуем, что ты — Посланник Аллаха””. Тогда Пророк ﷺ послал за мной, прочитал (эту суру), а потом сказал: “Поистине, Аллах подтвердил твою правоту!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4904</td></tr><tr><td>Arabic No</td><td>4904</td></tr><tr><td>Reference</td><td>Book 65 Hadith 424</td></tr></tbody></table></div>
 

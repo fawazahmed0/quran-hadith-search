@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A number of Companions of the Prophet: Safwan reported from a number of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah mengabarkan kepada kami [Ibnu Wahb], telah menceritakan kepadaku [Abu Shakhr Al Madini] bahwa [Shafwan bin Sulaim] telah mengabarkan kepadanya dari [beberapa anak para sahabat Rasulullah shallallahu 'alaihi wasallam], dari [bapak-bapak mereka] dari Rasulullah shallallahu 'alaihi wasallam, beliau berkata: "Ketahuilah bahwa orang yang menzhalimi orang kafir yang menjalin perjanjian dengan Islam atau mengurangi haknya atau membebaninya di atas kemampuannya atau mengambil darinya sesuatu yang ia relakan maka aku adalah orang yang akan membelanya pada Hari Kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3052</td></tr><tr><td>Arabic No</td><td>3052</td></tr><tr><td>Reference</td><td>Book 20 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сафван ибн Суляйм передаёт со слов нескольких сыновей сподвижников от их отцов, что Посланник Аллаха ﷺ сказал: «Если кто-то поступит несправедливо с человеком, который заключил договор с мусульманами /муахид/, или унизит его (, ущемляя его права), или возложит на него непосильное (в том, что касается выплаты джизьи и хараджа), или возьмёт у него что-то против его воли, я буду вести тяжбу с ним в Судный день»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3052</td></tr><tr><td>Arabic No</td><td>3052</td></tr><tr><td>Reference</td><td>Book 20 Hadith 125</td></tr></tbody></table></div>
 

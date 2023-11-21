@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nu'man bin Bashir:The Prophet (ﷺ) said, "The example of the person
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] berkata, telah menceritakan kepadaku [Asy Sya'biy] bahwa dia mendengar [An Nu'man bin Basyir radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam telah bersabda: "Perumpamaan orang yang menerjang hukum Allah dan orang berada padanya seperti sekelompok orang yang berlayar dengan sebuah kapal, lalu sebagian dari mereka ada yang mendapat tempat di bagian bawah dan sebagian lagi di atas perahu. Lalu orang yang berada di bawah perahu bila mereka mencari air untuk minum, mereka harus melewati orang-orang yang berada di atas sehingga mengganggu orang yang diatas. Lalu salah seorang yang dibawa mengambil kapak untuk membuat lubang di bawah kapal. Maka orang-orang yang di atas mendatanginya dan berkata: "Apa yang kamu lakukan?" Orang yang di bawah berkata: "Kalian telah terganggu karena aku sedangkan aku memerlukan air". Maka bila orang yang berada di atas mencegah dengan tangan mereka maka mereka telah menyelamatkan orang tadi dan menyelamatkan diri mereka sendiri, namun apabila mereka membiarkan saja apa berarti dia telah membinasakan orang itu dan diri mereka sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2686</td></tr><tr><td>Arabic No</td><td>2686</td></tr><tr><td>Reference</td><td>Book 52 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ан-Ну‘мана ибн Башира, да будет доволен Аллах им и его отцом, о том, что Пророк ﷺ сказал: «Пекущихся о нерушимости границ Аллаха и преступающих эти границы можно уподобить людям, тянувшим жребий по стрелам, (чтобы занять места) на корабле, в результате чего одни разместились в верхней части (корабля), а другие — в нижней. Когда оказавшиеся внизу хотели зачерпнуть воды, им (приходилось) проходить через разместившихся на палубе, и это мешало им. Тогда один из них (людей нижней части корабля) взял топор и начал делать дыру в днище корабля. Люди (с верхней части корабля) пришли и спросили его: “Что ты делаешь?” Он ответил: “Я мешаю вам (проходя мимо вас), а мне нужна вода”. И если они схватят его за руки, то спасут его и спасутся сами, а если же они оставят его (делать то, что он хочет), то погубят его и погибнут сами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2686</td></tr><tr><td>Arabic No</td><td>2686</td></tr><tr><td>Reference</td><td>Book 52 Hadith 47</td></tr></tbody></table></div>
 

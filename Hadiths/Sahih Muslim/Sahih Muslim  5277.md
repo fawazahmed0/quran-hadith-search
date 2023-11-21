@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Khudri reported that Allah's Messenger (ﷺ) warned against drinking w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid]; Telah menceritakan kepada kami [Hammam]; Telah menceritakan kepada kami [Qatadah] dari [Abu 'Isa Al Uswari] dari [Abu Sa'id Al Khudri] bahwa Nabi shallallahu 'alaihi wasallam melarang minum sambil berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5277</td></tr><tr><td>Arabic No</td><td>2025.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5277</td></tr><tr><td>Arabic No</td><td>2025.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 151</td></tr></tbody></table></div>
 

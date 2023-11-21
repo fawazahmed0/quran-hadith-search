@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b:The Prophet (ﷺ) said, "The example of a believer is that of a fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] dari [Sa'd] dari [Abdullah bin Ka'b] dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Permisalan seorang mukmin seperti dahan di suatu pohon, terkadang angin menjadikannya bengkok dan terkadang berdiri, lurus. Sebaliknya permisalan orang munafik seperti tanaman padi yang senantiasa berdiri, hingga sekali ia jatuh, ia akan langsung roboh." [Zakariya] mengatakan; telah menceritakan kepadaku [Sa'd] telah menceritakan kepada kami [Ibnu Ka'b] dari ayahnya [Ka'b] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5643</td></tr><tr><td>Arabic No</td><td>5643</td></tr><tr><td>Reference</td><td>Book 75 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ка‘ба ибн Малика, что Пророк ﷺ сказал: «Верующий подобен ростку, который ветер раскачивает (направо и налево), то валя его (на землю), то выпрямляя. Лицемер же подобен твёрдо стоящему на своих корнях кедру, которого ничто не может раскачать, пока он не будет вырван сразу с корнем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5643</td></tr><tr><td>Arabic No</td><td>5643</td></tr><tr><td>Reference</td><td>Book 75 Hadith 3</td></tr></tbody></table></div>
 

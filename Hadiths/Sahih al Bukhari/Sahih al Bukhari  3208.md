@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mus'ud:Allah's Messenger (ﷺ), the true and truly inspir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Hasan bin ar-Rabi'] telah bercerita kepada kami [Abu Al Ahwash] dari [Al A'masy] dari [Zaid bin Wahb] berkata ['Abdullah] telah bercerita kepada kami Rasulullah shallallahu 'alaihi wasallam, dia adalah orang yang jujur lagi dibenarkan, bersabda: "Sesungguhnya setiap orang dari kalian dikumpulkan dalam penciptaannya ketika berada di dalam perut ibunya selama empat puluh hari, kemudian menjadi 'alaqah (zigot) selama itu pula kemudian menjadi mudlghah (segumpal daging), selama itu pula kemudian Allah mengirim malaikat yang diperintahkan empat ketetapan dan dikatakan kepadanya, tulislah amalnya, rezekinya, ajalnya dan sengsara dan bahagianya lalu ditiupkan ruh kepadanya. Dan sungguh seseorang dari kalian akan ada yang beramal hingga dirinya berada dekat dengan surga kecuali sejengkal saja lalu dia didahului oleh catatan (ketetapan taqdir) hingga dia beramal dengan amalan penghuni neraka dan ada juga seseorang yang beramal hingga dirinya berada dekat dengan neraka kecuali sejengkal saja lalu dia didahului oleh catatan (ketetapan taqdir) hingga dia beramal dengan amalan penghuni surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3208</td></tr><tr><td>Arabic No</td><td>3208</td></tr><tr><td>Reference</td><td>Book 59 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал:\n— Правдивый и достойный доверия Посланник Аллаха ﷺ сказал нам: «Поистине, каждый из вас (сначала) формируется во чреве своей матери в течение сорока дней, затем он столько же пребывает (там) в виде сгустка крови и ещё столько же — в виде кусочка плоти, а затем Аллах направляет ангела, который получает веление записать четыре вещи. Ему говорится: “Запиши его дела, его удел, его срок, а также то, счастливым он будет или злосчастным”, после чего в него вдувается дух. И, поистине, любой из вас может совершать (благие) дела до тех пор, пока не окажется от Рая на расстоянии (всего лишь одного) локтя, и тогда сбудется записанное ему (на роду), и станет он совершать дела обитателей огня. И (точно так же любой из вас) может совершать (дурное), пока не окажется от огня на расстоянии (всего лишь одного) локтя, и тогда сбудется записанное ему (на роду), и станет он совершать дела обитателей Рая»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3208</td></tr><tr><td>Arabic No</td><td>3208</td></tr><tr><td>Reference</td><td>Book 59 Hadith 19</td></tr></tbody></table></div>
 

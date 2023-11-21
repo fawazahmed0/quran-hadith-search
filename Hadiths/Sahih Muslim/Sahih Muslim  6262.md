@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), Zayd Ibn Hâritha n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Ya'qub bin 'Abdur Rahman Al Qari] dari [Musa bin 'Uqbah] dari [Salim bin 'Abdullah] dari [Bapaknya] bahwa dia pernah berkata; "AKu tidak pernah memanggil Zaid bin Haritsah, kecuali dengan nama Zaid bin Muhammad hingga turun sebuah ayat al Qur'an berbunyi: "Panggillah mereka sesuai dengan bapak-bapak mereka, karena itulah yang paling adil di sisi Allah." Telah mengabarkan kepada kami Syaikh Abu Ahmad Muhammad bin Isa; Telah mengabarkan kepada kami Abu Al 'Abbas As Sarraj dan Muhammad bin 'Abdullah bin Yusuf Ad Duwairi keduanya berkata; Telah menceritakan kepada kami Qutaibah bin Sa'id dengan Hadits ini. Telah menceritakan kepadaku [Ahmad bin Sa'id Ad Darimi]; Telah menceritakan kepada kami [Habban]; Telah menceritakan kepada kami [Wuhaib]; Telah menceritakan kepada kami [Musa bin 'Uqbah]; Telah menceritakan kepadaku [Salim bin 'Abdillah] dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6262</td></tr><tr><td>Arabic No</td><td>2425.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6262</td></tr><tr><td>Arabic No</td><td>2425.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 92</td></tr></tbody></table></div>
 

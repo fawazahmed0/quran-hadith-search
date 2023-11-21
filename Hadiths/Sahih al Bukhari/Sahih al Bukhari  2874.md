@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:that a man asked him. "O Abu ''Umara! Did you flee on the day (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada kami [Yahya bin Sa'id] dari [Sufyan] berkata telah bercerita kepadaku [Abu Ishaq] dari [Al Bara' radliallahu 'anhu]; Ada seorang laki-laki yang berkata kepadanya: "Wahai Abu 'Umarah, apakah kalian kabur pada peperangan Hunain?" Dia berkata: "Tidak, demi Allah. Tidaklah Nabi shallallahu 'alaihi wasallam kabur dari perang akan tetapi yang kabur adalah orang-orang yang tergesa-gesa, dimana suku Hawazin menghadang mereka dengan panah-panah mereka sedangkan Nabi shallallahu 'alaihi wasallam tetap diatas baghol Beliau yang berwarna putih sementara Abu Sufyan menuntun baghol tersebut dan Nabi shallallahu 'alaihi wasallam bersya'ir: "Aku adalah seorang Nabi yang tidak berdusta dan aku adalah anak dari 'Abdul Muthallib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2874</td></tr><tr><td>Arabic No</td><td>2874</td></tr><tr><td>Reference</td><td>Book 56 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (как-то раз один) человек спросил аль-Бара, да будет доволен им Аллах: «О Абу ‘Умара! Правда ли, что в день (битвы при) Хунайне вы бежали?» Он сказал: «Нет, клянусь Аллахом! Пророк ﷺ не обратился в бегство. Однако побежали люди, которые поторопились, и лучники из племени хавазин встретили их стрелами. Что же касается Пророка ﷺ, то он сидел на своей белой мулице. (В это время) Абу Суфйан держал её под уздцы, а Пророк ﷺ произносил (такие слова): “Я пророк, и нет (в этом) лжи! Я Ибн ‘Абдульмутталиб!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2874</td></tr><tr><td>Arabic No</td><td>2874</td></tr><tr><td>Reference</td><td>Book 56 Hadith 90</td></tr></tbody></table></div>
 

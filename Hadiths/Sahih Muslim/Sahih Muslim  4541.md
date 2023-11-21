@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Huraira that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali Al Khulwani] dan [Abd bin Humaid] keduanya berkata; telah menceritakan kepada kami [Abu 'Amir Al 'Aqadi] dari [Mughirah] -yaitu Ibnu Abdurrahman Al Hizami- dari [Abu Az Zinnad] dari [Al A'raj] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mengharap bertemu musuh, namun jika kalian bertemu mereka maka bersabarlah (teguhkan hati kalian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4541</td></tr><tr><td>Arabic No</td><td>1741</td></tr><tr><td>Reference</td><td>Book 32 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4541</td></tr><tr><td>Arabic No</td><td>1741</td></tr><tr><td>Reference</td><td>Book 32 Hadith 22</td></tr></tbody></table></div>
 

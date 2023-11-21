@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMusa al-Ash'ari: The Messenger of Allah (ﷺ) said: Before the Last 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abdul Warits bin Sa'id] dari [Muhammad bin Juhadah] dari ['Abdurrahman bin Tsarwan] dari [Huzail] dari [Abu Musa Al Asy'ari] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Menjelang datangnya hari kiamat akan muncul fitnah seperti malam yang gelam gulita, seorang laki-laki beriman di pagi hari lalu kafir di sore hari, sore hari beriman lalu pagi hari kafir. Pada waktu itu orang yang duduk lebih baik dari orang yang berdiri, dan orang yang berjalan lebih baik dari orang yang berlari (jalan cepat). Patahkanlah anak panah kalian dan potonglah tali busur kalian, serta tancapkanlah pedang kalian di bebatuan. Jika ada seseorang yang masuk pada salah seorang dari kalian (untuk membunuh), maka berlakulah seperti sebaik-baik dari kedua anak Adam (Qabil dan Habil)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4259</td></tr><tr><td>Arabic No</td><td>4259</td></tr><tr><td>Reference</td><td>Book 37 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Мусы аль-Аш‘ари, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Незадолго до Часа будут искушения, подобные тёмной-тёмной ночи, и будет человек просыпаться утром верующим, а ложиться вечером уже неверующим, и будет человек ложиться вечером верующим, а просыпаться утром уже неверующим. Сидящий в те дни будет лучше стоящего, стоящий лучше идущего, а идущий лучше бегущего. Ломайте ваши луки, режьте тетивы и затупляйте ваши мечи о камни. Если же к одному из вас войдут, пусть ведёт себя, как лучший из двух сыновей Адама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4259</td></tr><tr><td>Arabic No</td><td>4259</td></tr><tr><td>Reference</td><td>Book 37 Hadith 20</td></tr></tbody></table></div>
 

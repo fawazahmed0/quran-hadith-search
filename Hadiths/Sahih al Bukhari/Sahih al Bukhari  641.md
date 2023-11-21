@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:On the day of Al-Khandaq (the trench), 'Umar bin Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya] berkata, Aku mendengar [Abu Salamah] berkata, telah mengabarkan kepada kami [Jabir bin 'Abdullah], bahwa Nabi shallallahu 'alaihi wasallam didatangi oleh 'Umar bin Al Khaththab saat terjadinya pernag Khandaq. Umar berkata, "Wahai Rasulullah! Demi Allah, aku belum melaksanakan shalat 'Ashar kecuali setelahg Matahari hampir tenggelam. Dan itu ketika orang-orang yang berpuasa telah berbuka!" Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Demi Allah, aku juga belum melakasanakannya." Kemudian beliau turun menuju aliran air (sungai), dan aku ikut bersama beliau. Belau lalu berwudlu dan shalat, yaitu shalat Ashar setelah matahari terbenam. Kemudian dilanjutkan dengan melaksanakan shalat Maghrib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>641</td></tr><tr><td>Arabic No</td><td>641</td></tr><tr><td>Reference</td><td>Book 10 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Абдуллах, да будет доволен Аллах ими обоими, о том, что в (один из) дней битвы у рва ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, пришёл к Пророку ﷺ и сказал: «О Посланник Аллаха, клянусь Аллахом, едва я успел закончить (послеполуденную) молитву, как солнце начало уходить за горизонт!», и это было после того, как постящиеся разговелись, Пророк же ﷺ воскликнул: «Клянусь Аллахом, а я (вообще) не совершил её!» Затем Пророк ﷺ направился в сторону Бутхана, а я был вместе с ним, и он совершил омовение, а когда солнце зашло, он (сначала) совершил послеполуденную молитву, а после этого — закатную
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>641</td></tr><tr><td>Arabic No</td><td>641</td></tr><tr><td>Reference</td><td>Book 10 Hadith 38</td></tr></tbody></table></div>
 

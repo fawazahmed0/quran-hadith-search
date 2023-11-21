@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:'A'isha a family which has no 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nabi], Telah menceritakan kepada kami [Ya'qub bin Muhammad bin Thahlaa'] dari [Abu Rijal Muhammad bin Abdurrahman] dari [Ibunya] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai 'Aisyah! Rumah yang di dalamnya tidak ada kurma, maka penghuninya akan lapar, Wahai 'Aisyah! Rumah yang di dalamnya tidak ada kurma, maka penghuninya akan lapar." Beliau mengucapkannya sebanyak dua atau tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5337</td></tr><tr><td>Arabic No</td><td>2046.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ сказал: “О ‘Аиша, голодными останутся (или: будут голодать) те люди, у которых дома нет фиников, о ‘Аиша, голодными останутся те люди, у которых дома нет фиников”, повторив это дважды или трижды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5337</td></tr><tr><td>Arabic No</td><td>2046.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 211</td></tr></tbody></table></div>
 

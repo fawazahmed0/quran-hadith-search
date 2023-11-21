@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) said, "Whoever observes fasts duri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan kepada kami [Muhammad bin Fudlail] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari [Abu Salamah] dari [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang berpuasa karena iman dan mengharap pahala, maka diampuni dosa-dosanya yang telah lalu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 2 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Тому, кто во время рамадана будет поститься с верой и надеждой на награду Аллаха, простятся его прежние грехи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 2 Hadith 31</td></tr></tbody></table></div>
 

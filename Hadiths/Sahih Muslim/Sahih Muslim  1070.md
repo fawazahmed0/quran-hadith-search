@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith with the same chain of transmitters has been narrated by Shu'ba, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1070</td></tr><tr><td>Arabic No</td><td>476.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса говорится: «…как очищают белую одежду от грязи» /кама йунаккъа-с-саубу-ль-абйаду мин ад-даран/, а в версии Язида: «…от грязи» /мин ад-данас
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1070</td></tr><tr><td>Arabic No</td><td>476.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 232</td></tr></tbody></table></div>
 

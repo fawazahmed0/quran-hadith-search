@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: Harithah ibn Mudarrib said that he came to Abdulla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari [Abu Ishaq] dari [Haritsah bin Mudharrib], bahwa ia datang kepada [Abdullah] dan berkata; tidak ada antara diriku dengan salah seorang Arab permusuhan, dan aku pernah melewati masjid Bani Hanifah, ternyata mereka adalah orang-orang yang beriman kepada Musailamah. Kemudian Abdullah mengutus utusan kepada mereka, kemudian mereka dihadapkan kepadanya. Lalu ia meminta mereka untuk bertaubat selain Ibnu An Nawwahah. Abdullah berkata kepadanya; saya mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Seandainya engkau bukanlah seorang utusan niscaya aku memenggal lehermu." Pada saat ini engkau bukanlah seorang utusan. Kemudian ia memerintahkan Qarazhah bin Ka'bin untuk memenggalnya, lalu ia memenggal lehernya di pasar. Kemudian ia berkata; siapa yang ingin melihat Ibnu An Nawwahah terbunuh di pasar?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2762</td></tr><tr><td>Arabic No</td><td>2762</td></tr><tr><td>Reference</td><td>Book 15 Hadith 286</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2762</td></tr><tr><td>Arabic No</td><td>2762</td></tr><tr><td>Reference</td><td>Book 15 Hadith 286</td></tr></tbody></table></div>
 

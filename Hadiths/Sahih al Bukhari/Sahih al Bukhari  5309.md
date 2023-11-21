@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Juraij:Ibn Shihab informed me of Lian and the tradition related to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah mengabarkan kepada kami [Abdurrazzaq] Telah mengabarkan kepada kami [Ibnu Juraij] ia berkata; Telah mengabarkan kepadaku [Ibnu Syihab] yakni tentang li'an dan tentang sunnah yang terkait dengannya, dari hadis [Sahl bin Sa'dari] saudara Bani Sa'adah bahwasanya; Seorang laki-laki dari Anshar datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, bagaimana pendapat Anda bilamana seorang laki-laki mendapati laki-laki lain bersama isterinya, bolehkah ia membunuhnya atau apa yang semestinya ia lakukan?" Maka Allah pun menurunkan ayat yang berkenaan dengan Mutala'inain (dua orang suami isteri yang saling meli'an). Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Sesungguhnya Allah telah memberi putusan denganmu terkait dengan isterimu." Lalu dua orang suami-isteri itu saling melaknat di dalam masjid, aku menyaksikannya sendiri. Setelah itu, laki-laki itu berkata, "Aku telah berdusta atasnya wahai Rasulullah bila aku tetap menahannya." Akhirnya laki-laki itu pun mentalaqnya dengan talak tiga sebelum Rasulullah shallallahu 'alaihi wasallam menyuruhnya. Maka orang itu pun berpisah dengannya di sisi Nabi shallallahu 'alaihi wasallam, dan beliau bersabda: "Itulah At Tafriq (pemisahan) bagi setiap dua orang suami-isteri yang saling melaknat." Ibnu Juraij berkata; Ibnu Syihab berkata; Maka sunnah setelah itu adalah memisahkan suami isteri yang saling meli'an. Wanita itu sedang hamil dan anaknya pun dipanggil dengan bersandarkan pada ibunya. Begitulah seterusnya. Sang ibu mewarisi anaknya dan anak pun mewarisi ibunya sebagaimana apa yang telah diwajibkan Allah. Ibnu Juraij berkata; Dari Ibnu Syihab dari Sahl bin Sa'd As Sa'idi di dalam hadits ini, Nabi shallallahu 'alaihi wasallam bersabda: "Jika ia melahirkan anak yang berkulit kemerah-merahan dan berpostur tubuh pendek menyerupai tokek, maka tidak ada dugaan lain, kecuali bahwa wanita itu telah berkata benar. Dan suaminya telah berdusta atasnya. Namun jika ia melahirkan anak yang kedua bola matanya hitam serta pantatnya besar, maka aku tidak pula menduga yang lain kecuali bahwa ia suaminya itu telah benar." Lalu wanita itu pun melahirkan anak yang membenarkan pengakuan 'Uwaimir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5309</td></tr><tr><td>Arabic No</td><td>5309</td></tr><tr><td>Reference</td><td>Book 68 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д, да будет доволен им Аллах, сказал: «(Однажды) один человек из ансаров пришёл к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха! Что ты скажешь о человеке, который застал свою жену с другим мужчиной? Следует ли (мужу) убить его? Или как (он должен) поступить?” Тогда Аллах ниспослал о них упомянутый в Коране аят о взаимном проклятии /ли‘ан/. И Пророк ﷺ сказал ему: “Пришло решение от Аллаха в отношении тебя и твоей жены”. Так они совершили взаимное проклятие в мечети, и я там присутствовал. Когда они закончили, мужчина сказал: “О Посланник Аллаха, если я оставлю её при себе, то получится, как будто я оклеветал её!” — а потом он развёл её трижды, прежде чем Посланник Аллаха ﷺ приказал ему сделать это».\nИбн Шихаб сказал: «И это расставание стало после них обычаем для тех супругов, которые проклинали друг друга»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5309</td></tr><tr><td>Arabic No</td><td>5309</td></tr><tr><td>Reference</td><td>Book 68 Hadith 58</td></tr></tbody></table></div>
 

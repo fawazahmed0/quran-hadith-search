@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "While a shepherd w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman bin 'Auf] bahwa [Abu Hurairah radliallahu 'anhu] berkata, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika seorang pengembala sedang bersama kambing-kambing gembalaannya tiba-tiba datang seekor serigala lalu menerkam satu ekor kambing tersebut. Kemudian pengembala mencarinya lalu dia dihampiri oleh serigala itu dan serigala itu berbicara; "Siapa yang menjaga kambing tersebut pada hari berburu, ketika tidak ada yang mengembalakannya kecuali aku?. Dan ada pula seseorang yang sedang menggiring sapi betina lalu ketika ditungganginya (membawa beban yang banyak) sapi tersebut menoleh dan berbicara kepadanya. Kata sapi itu; "Aku diciptakan bukan untuk ini, tapi aku diciptakan untuk membantu pengelolaan sawah ladang". Lalu orang-orang berkata; "Maha suci Allah". Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh, aku beriman tentang kejadian itu, begitu juga Abu Bakar dan 'Umar radliallahu 'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3663</td></tr><tr><td>Arabic No</td><td>3663</td></tr><tr><td>Reference</td><td>Book 62 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «(Однажды) когда пастух был со своим овцами, на них напал волк и схватил овцу. Человек погнался за ним, а волк повернулся к нему, и сказал: “Кто спасёт её в (тот) день (, когда появятся) дикие звери, и не будет для них иного пастуха, кроме меня?”. (Как-то раз,) когда (один) человек ехал верхом на корове, она повернула к нему (свою голову) и заговорила с ним, сказав: “Я была создана не для этого, однако я была создана для пахоты”». Тогда люди сказали (удивившись): «Пречист Аллах!» А Пророк ﷺ сказал: “Я верю в это. И Абу Бакр с ‘Умаром ибн аль-Хаттабом, да будет доволен Аллах ими обоими, тоже верят”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3663</td></tr><tr><td>Arabic No</td><td>3663</td></tr><tr><td>Reference</td><td>Book 62 Hadith 15</td></tr></tbody></table></div>
 

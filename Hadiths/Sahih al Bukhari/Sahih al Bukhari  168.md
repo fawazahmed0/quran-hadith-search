@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to like to start from the right side on w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepadaku [Asy'ats bin Sulaim] berkata, Aku mendengar [Bapakku] dari [Masruq] dari ['Aisyah] berkata, "Nabi shallallahu 'alaihi wasallam suka memulai dari sebelah kanan saat mengenakan sandal, menyisir rambut, bersuci dan selainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>168</td></tr><tr><td>Arabic No</td><td>168</td></tr><tr><td>Reference</td><td>Book 4 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророку ﷺ нравилось надевать обувь, начиная с правой ноги, расчёсывать и умащать благовониями волосы и бороду, начиная справа, и совершать омовение, начиная с правой стороны тела, и поступать так же во всех остальных своих делах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>168</td></tr><tr><td>Arabic No</td><td>168</td></tr><tr><td>Reference</td><td>Book 4 Hadith 34</td></tr></tbody></table></div>
 

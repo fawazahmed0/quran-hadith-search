@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Miswar b. Makhrama reported:I was carrying a heavy stone and my lower garment
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Yahya al-Umawi] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Utsman bin Hakim bin Abbad bin Hunaif al-Anshari] telah mengabarkan kepadaku [Abu Umamah bin Sahal bin Hunaif] dari [al-Miswar bin Makhramah] dia berkata, "Aku pernah menghadap batu yang sangat berat untuk membawanya sedang saat itu aku memakai sehelai sarung yang ringan dan tipis." Dia berkata lagi, "Lalu sarung yang aku pakai itu terlepas dariku tapi aku tidak bisa meletakkan batu itu dan harus terus membawanya sampai ke tempatnya.' Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda, 'Kembalilah ke pakaianmu (sarungmu), pakailah ia dan janganlah kamu berjalan sambil telanjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 3 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мисвара ибн Махрама сказал: «(Однажды) я был одет в лёгкий изар и нёс тяжёлый камень, (и когда я шёл), моя одежда упала с меня, а я не мог положить камень пока не дошёл до нужного места. Тогда Посланник Аллаха ﷺ сказал мне: “Вернись к своей одежде и подбери её, и не ходите голыми”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 3 Hadith 95</td></tr></tbody></table></div>
 

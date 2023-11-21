@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Bujayd: She took the oath of allegiance to the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Qutaibah bin Sa'id], telah menceritakan kepada Kami [Al Laits] dari [Sa'id bin Abu Sa'id] dari [Abdurrahman bin Bujaid] dari [neneknya yaitu Ummu Bujaid], dan ia adalah diantara orang yang membaiat Rasulullah shallAllahu wa'alaihi wa sallam, bahwa ia berkata kepada beliau; wahai Rasulullah, semoga Allah melimpahkan shalat kepada anda. Sesungguhnya terdapat seorang miskin yang berdiri di depan pintuku, dan aku tidak memiliki sesuatu yang dapat aku berikan kepadanya. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam berkata kepadanya: "Apabila engkau tidak mendapatkan sesuatu yang dapat engkau berikan kepadanya kecuali kaki kambing yang terbakar, maka berikan kepadanya di tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1667</td></tr><tr><td>Arabic No</td><td>1667</td></tr><tr><td>Reference</td><td>Book 9 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн Буджейд передал со слов своей бабушки Умм Буджейд, да будет доволен ею Аллах, которая присягнула на верность Посланнику Аллаха ﷺ сообщается, что она обратилась к нему: «О Посланник Аллаха, да благословит тебя Аллах, бывает, что бедняк приходит к моей двери, а мне нечего дать ему». Посланник Аллаха ﷺ сказал: «Если не найдёшь ничего, кроме обожжённого копыта, то отдай ему хотя бы это, вложив в его протянутую руку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1667</td></tr><tr><td>Arabic No</td><td>1667</td></tr><tr><td>Reference</td><td>Book 9 Hadith 112</td></tr></tbody></table></div>
 

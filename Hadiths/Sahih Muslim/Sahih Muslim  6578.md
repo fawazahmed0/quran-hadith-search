@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits] dari ['Uqail] dari [Az Zuhri] dari [Salim] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang muslim dengan muslim yang lain adalah bersaudara. Ia tidak boleh berbuat zhalim dan aniaya kepada saudaranya yang muslim. Barang siapa yang membantu kebutuhan saudaranya, maka Allah akan memenuhi kebutuhannya. Barang siapa membebaskan seorang muslim dari suatu kesulitan, maka Allah akan membebaskannya dari kesulitan pada hari kiamat. Dan barang siapa menutupi aib seorang muslim, maka Allah akan menutupi aibnya pada hari kiamat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6578</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 45 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара (да будет доволен Аллах ими обоими), что Посланник Аллаха ﷺ сказал: «Мусульманин мусульманину брат, и он (не должен) ни притеснять, ни предавать его. Тому, кто (поможет) своему брату в нужде его, Аллах (поможет) в его собственной нужде, того, кто избавит мусульманина от печали, Аллах избавит от одной из печалей Дня воскресения, а того, кто покроет мусульманина, Аллах покроет в День воскресения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6578</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 45 Hadith 76</td></tr></tbody></table></div>
 

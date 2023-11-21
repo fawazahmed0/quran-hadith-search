@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:"The Prophet (ﷺ) after finishing the prayer with Taslim use
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Ibrahim bin Sa'd] telah menceritakan kepada kami [Az Zuhri] dari [Hind binti Al Harits] dari [Ummu Salamah], bahwa Nabi shallallahu 'alaihi wasallam jika selesai salam, beliau tetap berdiam di tempatnya sejenak." Ibnu Syihab berkata, "Menurut kami -dan Allah yang lebih tahu, hal itu agar wanita yang akan pergi punya kesempatan." Dan [Ibnu Abu Maryam] berkata; telah mengabarkan kepada kami [Nafi' bin Yazid] berkata, telah mengabarkan kepadaku [Ja'far bin Rabi'ah] bahwa [Ibnu Syihab] menulis surat kepadanya; telah menceritakan kepadaku [Hind binti Al Harits Al Firasiyyah] dari [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam -dia adalah teman Ummu Salamah- ia berkata, "Ketika beliu salam, para wanita bergegas kembali ke rumah-rumah mereka masing-masing sebelum Rasulullah shallallahu 'alaihi wasallam beranjak pergi." [Ibnu Wahab] berkata; dari [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Hind Al Firasiyyah]. Dan ['Utsman bin 'Umar] berkata; telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] telah menceritakan kepadaku [Hind Al Firasiyyah]. Dan [Az Zubaidi] berkata; telah mengabarkan kepadaku [Az Zuhri] bahwa [Hind binti Al Harits Al Firasiyyah] mengabarkan kepadanya - saat itu wanita ini adalah isteri Ma'bad bin Al Miqdad, sekutunya Bani Zuhrah- Hind sering mengunjungi isteri-isrti Nabi shallallahu 'alaihi wasallam. Dan [Syu'aib] berkata; dari [Az Zuhri] telah menceritakan kepadaku [Hind Al Firasiyyah]. Dan [Ibnu Abu 'Atiq] berkata; dari [Az Zuhri] dari [Hind Al Firasiyyah]. Dan [Al Laits] berkata; telah menceritakan kepadaku [Yahya bin Sa'id] ia menceritakan kepadanya dari [Ibnu Syihab] dari [seorang wanita] suku Quraisy, ia menceritakan kepadanya dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>849</td></tr><tr><td>Arabic No</td><td>849</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Умм Салямы, что Пророк ﷺ произнеся слова таслима оставался на своем месте некоторое время. \nИбн Шихаб сказал: «Мы считаем, а Аллаху ведомо лучше, что это (делалось) для того, чтобы женщины могли выйти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>849</td></tr><tr><td>Arabic No</td><td>849</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

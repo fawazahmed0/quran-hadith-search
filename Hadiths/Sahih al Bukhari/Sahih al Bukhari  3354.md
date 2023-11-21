@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Samura:Allah's Messenger (ﷺ) said, "Two persons came to me at night (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Mu'ammal] telah bercerita kepada kami [Isma'il] telah bercerita kepada kami ['Auf] telah bercerita kepada kami [Abu Raja'] telah bercerita kepada kami [Samurah] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Tadi malam datang kepadaku dua orang (yang membawaku) lalu kami melihat seseorang yang tinggi hampir aku tidak dapat melihat kepalanya karena teramat tingginya. Dialah Nabi Ibrahim shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3354</td></tr><tr><td>Arabic No</td><td>3354</td></tr><tr><td>Reference</td><td>Book 60 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Самуры ибн Джундуба, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «(Сегодня) ночью ко мне явились двое(, увели меня с собой и вели до тех пор, пока) мы не пришли к (такому) высокому человеку, что из-за его роста, я не мог разглядеть его голову, и этим человеком был Ибрахим ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3354</td></tr><tr><td>Arabic No</td><td>3354</td></tr><tr><td>Reference</td><td>Book 60 Hadith 29</td></tr></tbody></table></div>
 

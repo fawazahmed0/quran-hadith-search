@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), l'Envoyé de Dieu (paix et 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca di hadapan [Malik] dari [Ibnu Syihab] dari [Atha' bin Yazid al-Laitsi] dari [Abu Sa'id al-Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Jika kalian mendengar seruan (adzan), maka katakanlah seperti yang dikatakan mu'adzdzin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>848</td></tr><tr><td>Arabic No</td><td>383</td></tr><tr><td>Reference</td><td>Book 4 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ид аль-Худри, что Посланник Аллаха ﷺ сказал: «Когда услышите призыв (к молитве), повторяйте то, что говорит муаззин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>848</td></tr><tr><td>Arabic No</td><td>383</td></tr><tr><td>Reference</td><td>Book 4 Hadith 12</td></tr></tbody></table></div>
 

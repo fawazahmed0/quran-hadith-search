@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: The Prophet (ﷺ) said, "A man saw a dog eating mud from (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami ['Abdush Shamad] telah menceritakan kepada kami ['Abdurrahman bin 'Abdullah bin Dinar] aku mendengar [Bapakku] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, bahwa ada seorang laki-laki melihat seekor anjing menjilat-jilat tanah karena kehausan, lalu orang itu mengambil sepatunya dan mengisinya air untuk kemudian diminumkan kepada anjing tersebut hingga kenyang. Allah lalu berterima kasih kepadanya dan memasukkannya ke dalam surga." [Ahmad bin Syabib] berkata, telah menceritakan kepada kami [Bapakku] dari [Yunus] dari [Ibnu Syihab] berkata, telah menceritakan kepadaku [Hamzah bin 'Abdullah] dari [Bapaknya], bahwa pada masa Rasulullah shallallahu 'alaihi wasallam ada beberapa anjing yang kencing dan membuang kotoran di dalam masjid, namun para sahabat tidak menyiramnya dengan sesuatu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>173</td></tr><tr><td>Arabic No</td><td>173</td></tr><tr><td>Reference</td><td>Book 4 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, передал от Пророка ﷺ: «Как-то раз один человек увидел собаку евшую от жажды влажную землю. Этот человек взял свой башмак и стал черпать для неё (воду) до тех пор, пока не напоил её, а Аллах отблагодарил его за это и завёл в рай»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>173</td></tr><tr><td>Arabic No</td><td>173</td></tr><tr><td>Reference</td><td>Book 4 Hadith 39</td></tr></tbody></table></div>
 

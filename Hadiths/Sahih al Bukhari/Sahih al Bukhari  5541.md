@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:that Ibn 'Umar disliked the branding of animals on the face. Ibn 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Handlalah] dari [Salim] dari [Ibnu Umar] bahwa dia tidak menyukai gambar (tato) pada wajah, Ibnu Umar juga berkata; Nabi shallallahu 'alaihi wasallam melarang memukul pada wajah." Hadits ini juga di perkuat oleh [Qutaibah]. Telah menceritakan kepada kami [Al Anqazi] dari [Handlalah], dia berkata; "Yaitu (melarang) memukul kepala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5541</td></tr><tr><td>Arabic No</td><td>5541</td></tr><tr><td>Reference</td><td>Book 72 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ запрещал бить животных по мордам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5541</td></tr><tr><td>Arabic No</td><td>5541</td></tr><tr><td>Reference</td><td>Book 72 Hadith 66</td></tr></tbody></table></div>
 

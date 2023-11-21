@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) and I used to take a bath from a single pot ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] berkata, "Aku pernah mandi bersama Nabi shallallahu 'alaihi wasallam dari satu ember terbuat dari tembikar yang disebut Al Faraq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>250</td></tr><tr><td>Arabic No</td><td>250</td></tr><tr><td>Reference</td><td>Book 5 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Обычно я совершала полное омовение вместе с Пророком ﷺ (и мы брали воду) из одного и того же сосуда, именуемого “фаракъ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>250</td></tr><tr><td>Arabic No</td><td>250</td></tr><tr><td>Reference</td><td>Book 5 Hadith 3</td></tr></tbody></table></div>
 

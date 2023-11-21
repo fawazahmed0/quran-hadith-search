@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mou'âdh Ibn Jabal (que Dieu l'agrée) a dit : Un jour que j'étais en croupe de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid al-Azdi] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Anas bin Malik] dari [Mu'adz bin Jabal] dia berkata, "Pernah aku dibonceng Nabi shallallahu 'alaihi wasallam dalam satu perjalanan, tidak ada pemisah antara aku dan beliau kecuali pelana hewan kendaraan. Beliau memanggil: "Wahai Mu'adz bin Jabal!" Aku terus menyahut, "Aku penuhi panggilanmu wahai Rasulullah." Kami meneruskan lagi perjalanan. Kemudian beliau memanggil lagi: "Wahai Mu'adz bin Jabal!" Aku menyahut, "Aku penuhi panggilanmu wahai Rasulullah." Kami meneruskan lagi perjalanan kemudian beliau memanggil lagi: "Wahai Mu'adz bin Jabal!" Aku menyahut lagi, "Telah kuterima panggilanmu itu wahai Rasulullah." Beliau bersabda: "Tahukah kamu Kewajiban manusia terhadap Allah?" Aku menjawab, "Allah dan Rasul-Nyalah yang lebih mengetahui." Beliau bersabda: "Yaitu menyembah-Nya dan tidak menyekutukan-Nya." Kami meneruskan lagi perjalanan beberapa waktu ketika kemudian beliau memanggil lagi: "Wahai Mu'adz bin Jabal!" Aku menyahut, "Aku penuhi panggilanmu wahai Rasulullah." Rasulullah shallallahu 'alaihi wasallam bersabda: "Tahukah kamu apakah Kewajiban Allah terhadap manusia apabila mereka melakukan perkara-perkara yang aku nyatakan tadi?" Aku menjawab, "Allah dan Rasul-Nyalah yang lebih mengetahui." Akhirnya beliau bersabda: "Allah tidak akan menyiksa mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>30.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘аз ибн Джабаль сказал: «(Однажды, когда) я сидел верхом позади Пророка ﷺ, и между мной и им не было ничего, кроме задней части седла, он сказал: “О Му‘аз ибн Джабаль!” Я ответил: “Я повинуюсь тебе, о Посланник Аллаха, и счастлив служить тебе!” Затем он продолжил путь какое-то время. Затем он сказал (мне): “О Му‘аз!” Я ответил: “Я повинуюсь тебе, о Посланник Аллаха, и счастлив служить тебе!” Затем он продолжил путь какое-то время. Затем он сказал (мне): “О Му‘аз!” Я ответил: “Я повинуюсь тебе, о Посланник Аллаха, и счастлив служить тебе!” Затем он сказал (мне): “Известно ли тебе, какое право Аллаха должны соблюдать рабы Его?” Я сказал: “Аллах и Его посланник знают об этом лучше”. (Тогда) он сказал: “Право Аллаха, которое обязаны соблюдать рабы Его, (состоит) в том, что им следует поклоняться Ему (одному), не придавая Ему в сотоварищи ничего”. Затем он продолжил путь какое-то время. Затем он сказал (мне): “О Му‘аз ибн Джабаль!” Я ответил: “Я повинуюсь тебе, о Посланник Аллаха, и счастлив служить тебе!” (Тогда) он сказал: “А известно ли тебе, что в праве ожидать рабы Аллаха, если они будут это совершать?” Я сказал: “Аллах и Его посланник знают об этом лучше”. И он сказал: “То, что Он не станет подвергать их мучениям (если они будут соблюдать Его право)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>30.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 50</td></tr></tbody></table></div>
 

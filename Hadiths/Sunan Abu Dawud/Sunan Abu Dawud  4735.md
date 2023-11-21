@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Dawud Al Mahri] berkata, telah mengabarkan kepada kami [Abdullah bin Wahb] ia berkata; telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] ia berkata; telah mengabarkan kepadaku [Urwah Ibnu Az Zubair] dan [Sa'id Ibnul Musayyab] dan [Alqamah bin Waqqash] dan [Ubaidullah bin Abdullah] tentang peristiwa (fitnah) yang menimpa ['Aisyah], setiap dari mereka menceritakan kepadaku sebagian tentang peristiwa 'Aisyah. 'Aisyah berkata, "Menurutku, perkara yang menimpaku itu lebih hina (tidak pantas) untuk Allah sebutkan pada sesuatu yang dibaca (Al-Qur'an)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 42 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Амира ибн Шахра: «Я был у негуса, и его сын прочитал стих из Евангелия, и я засмеялся, а он воскликнул: “Неужели ты смеёшься над речью Всеблагого и Всевышнего Аллаха?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 42 Hadith 140</td></tr></tbody></table></div>
 

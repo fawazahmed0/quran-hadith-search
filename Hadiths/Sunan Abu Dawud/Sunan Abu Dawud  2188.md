@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The aforesaid tradition (No. 2182) has also been transmitted by Ali (ibn al-Muba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb], telah menceritakan kepada kami [Yahya bin Sa'id], telah menceritakan kepada kami [Ali bin Al Mubarak], telah menceritakan kepadaku [Yahya bin Abu Katsir], bahwa [Umar bin Mu'attib] telah mengabarkan kepadanya bahwa [Abu Hasan] mantan budak Naufal telah mengabarkan kepadanya bahwa ia meminta fatwa kepada [Ibnu Abbas] mengenai seorang budak yang memiliki isteri seorang budak wanita, kemudian ia menceraikannya dua kali. Kemudian mereka berdua dibebaskan setelah itu. Apakah boleh baginya untuk meminangnya? Ia berkata; ya. Rasulullah shallallahu 'alaihi wasallam telah memutuskan dengan hal tersebut. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], telah menceritakan kepada kami [Utsman bin Umar], telah mengabarkan kepada kami [Ali] dengan sanad dan maknanya, tanpa pengabaran. Ibnu Abbas berkata; tinggal satu kali untukmu. Rasulullah shallallahu 'alaihi wasallam telah memutuskan dengan hal tersebut. Abu Daud berkata; aku mendengar Ahmad bin Hanbal berkata; Abdurrazzaq berkata; Ibnu Al Mubarak berkata kepada Ma'mar; siapakah Abu Al Hasan ini? Ia telah memikul batu yang besar. Abu Daud berkata; Abu Al Hasan ini adalah orang yang darinya Az Zuhri meriwayatkan hadits. Az Zuhri berkata; ia termasuk diantara ulama fiqih. Az Zuhri telah meriwayatkan dari Abu Al Hasan beberapa hadits. Abu Daud berkata; Abu Al Hasan adalah orang yang dikenal. Hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2188</td></tr><tr><td>Arabic No</td><td>2188</td></tr><tr><td>Reference</td><td>Book 13 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии Ибн ‘Аббас сказал: «У тебя остался один развод. Таково постановление Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2188</td></tr><tr><td>Arabic No</td><td>2188</td></tr><tr><td>Reference</td><td>Book 13 Hadith 14</td></tr></tbody></table></div>
 

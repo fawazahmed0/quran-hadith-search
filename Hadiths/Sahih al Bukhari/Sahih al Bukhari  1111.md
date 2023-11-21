@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Whenever the Prophet (ﷺ) started the journey before no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hassan Al Waasithiy] berkata, telah menceritakan kepada kami [Al Mufadhdhal bin Fadhalah] dari ['Uqail] dari [Ibnu Syihab] dari [Anas bin Malik radliallahu 'anhu] berkata; "Nabi shallallahu 'alaihi wasallam bila berangkat bepergian sebelum matahari condong, Beliau shallallahu 'alaihi wasallam mengakhirkan pelaksanaan shalat zhuhur hingga waktu shalat 'Ashar lalu menggabungkan (jama') keduanya. Dan bila berangkat setelah matahari condong, Beliau laksanakan shalat Zhuhur terlebih dahulu kemudian setelah itu berangkat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1111</td></tr><tr><td>Arabic No</td><td>1111</td></tr><tr><td>Reference</td><td>Book 18 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ отправлялся в путь до того, как солнце уклонялось от зенита, он (обычно) откладывал полуденную /зухр/ молитву до времени послеполуденной /‘аср/ и затем объединял их вместе; а если солнце склонялось (в полдень), он совершал полуденную молитву и затем отправлялся (в путь)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1111</td></tr><tr><td>Arabic No</td><td>1111</td></tr><tr><td>Reference</td><td>Book 18 Hadith 31</td></tr></tbody></table></div>
 

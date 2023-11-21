@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) used to say, "O Allah! I seek refuge w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepada kami [Sulaiman] dia berkata; telah menceritakan kepadaku ['Amru bin Abu 'Amru] dia berkata; saya mendengar [Anas bin Malik] dia berkata; Nabi shallallahu 'alaihi wasallam mengucapkan: "ALLAHUMMA INII A'UUDZUBIKA MINAL HAMMI WAL HAZANI WAL 'AJZI WAL KASALI WALJUBNI WALBUKHLI WADLALA'ID DAINI WAGHALABATIR RIJAALI (Ya Allah, aku berlindung kepada-Mu dari rasa sedih dan duka cita, lemah dan malas, pengecut dan kikir dan terlilit hutang serta dikuasai musuh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6369</td></tr><tr><td>Arabic No</td><td>6369</td></tr><tr><td>Reference</td><td>Book 80 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт, что Пророк ﷺ часто говорил: «О Аллах, я прошу у Тебя защиты от тревог и печалей, от слабости и лени, от трусости и скупости, бремени долга и от притеснения со стороны людей /Аллахумма инни а‘узу би-ка мина-ль-хамми ва-ль-‘аджзи ва-ль-касали, ва-ль-джубни ва-ль-бухли ва даля‘и-д-дайни ва галябати-р-риджали/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6369</td></tr><tr><td>Arabic No</td><td>6369</td></tr><tr><td>Reference</td><td>Book 80 Hadith 66</td></tr></tbody></table></div>
 

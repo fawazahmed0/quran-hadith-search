@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuTamimah al-Hujaymi: When we came to Medina accompanying the caravan,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Ash Shabah Al 'Aththar], telah menceritakan kepada Kami [Abu Bahr], telah menceritakan kepada Kami [Tsabit bin 'Umarah], telah menceritakan kepada Kami [Abu Tamimah Al Hujaimi], ia berkata; tatkala Kami mengutus seorang penunggang kuda... Abu Daud berkata; yaitu ia menuju ke Madinah ia berkata; saya membaca (ayat As Sajdah) setelah sholat Subuh, kemudian aku bersujud, lalu [Ibnu Umar] melarangku dan aku tidak berhenti hingga tiga kali. Kemudian ia kembali dan berkata; sesungguhnya aku pernah melakukan shalat di belakang Rasulullah shallAllahu wa'alaihi wa sallam bersama Abu Bakr, Umar dan Utsman radliallahu 'anhum dan mereka tidak bersujud hingga matahari terbit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1415</td></tr><tr><td>Arabic No</td><td>1415</td></tr><tr><td>Reference</td><td>Book 7 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Тамима аль-Худжайми рассказывает: «Когда мы отправились в Медину, после утренней молитвы я увещевал и наставлял людей и совершал земные поклоны, если (при чтении сур мне попадались соответствующие аяты), и Ибн ‘Умар запретил мне поступать так, однако я не послушал его. Это повторилось трижды, после чего он сказал: “Поистине, я совершал молитву под руководством Посланника Аллаха ﷺ, а также под руководством Абу Бакра и ‘Умара, и они не совершали земных поклонов в этом случае, пока солнце не всходило”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1415</td></tr><tr><td>Arabic No</td><td>1415</td></tr><tr><td>Reference</td><td>Book 7 Hadith 15</td></tr></tbody></table></div>
 

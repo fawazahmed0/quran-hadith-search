@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported from Allah's Messenger (ﷺ) a hadith like this through ano
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dia berkata; Saya membaca di hadapan [Malik] dari [Muhammad bin Yahya bin Habban] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam melarang jual beli Mulamasah (yaitu: jual beli dengan sistem menyentuh pakaian tanpa melihatnya) dan Munabadzah (yaitu: melemparkan pakaian dengan maksud menjualnya sebelum memeriksanya dan menjualnya). Dan telah menceritakan kepada kami [Abu Kuraib] dan [Ibnu Abi Umar] keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas. Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ibnu Numair] dan [Abu Usamah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] semuanya dari ['Ubaidillah bin Umar] dari [Khubaib bin Abdurrahman] dari [Hafsh bin 'Ashim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas. Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub] yaitu Ibnu Abdurrahman dari [Suhail bin Abi Shalih] dari [ayahnya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3803</td></tr><tr><td>Arabic No</td><td>1511.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3803</td></tr><tr><td>Arabic No</td><td>1511.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>
 

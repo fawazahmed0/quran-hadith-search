@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Salamah bin Kuhail said “I saw Sa’id bin Jubair he called the iqamah at Al M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Yahya] dari [Syu'bah], telah menceritakan kepadaku [Salamah bin Kuhail], ia berkata; aku melihat [Sa'id bin Jubair] tinggal di Muzdalifah dan melakukan shalat Maghrib tiga raka'at kemudian Shalat Isya' dua raka'at. Kemudian ia berkata; aku menyaksikan [Ibnu Umar] melakukan seperti ini di tempat ini. Dan ia berkata; aku menyaksikan Rasulullah shallAllahu wa'alaihi wa sallam melakukan seperti ini di tempat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1932</td></tr><tr><td>Arabic No</td><td>1932</td></tr><tr><td>Reference</td><td>Book 11 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Саляма ибн Кухайль передаёт: Я видел, как Са‘ид ибн Джубайр остановился в Муздалифе и совершил закатную молитву /магриб/ в три рак‘ата и вечернюю молитву /‘иша/ в два рак‘ата, а потом сказал: «Я видел, как Ибн ‘Умар делал то же самое в том же месте и говорил: “Я видел, как Посланник Аллаха ﷺ делал то же самое в том же месте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1932</td></tr><tr><td>Arabic No</td><td>1932</td></tr><tr><td>Reference</td><td>Book 11 Hadith 212</td></tr></tbody></table></div>
 

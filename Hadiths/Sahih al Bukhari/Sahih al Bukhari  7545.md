@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(when the slanderers said what they said about her): I went to m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Yunus] dari [Ibn Syihab] telah mengabarkan kepadaku ['Urwah bin Zubair] dan [Sa'id bin Musayyab] dan [Alqamah bin waqqash] dan ['Ubaidullah bin Abdullah] dari hadis ['Aisyah] ketika penyebar berita bohong mengisukan ia selingkuh, dan masing-masing menceritakan kepadaku sejumlah hadis. 'Aisyah berkata, "Aku berbaring di atas kasurku, dan ketika itu aku tahu bahwa aku bersih (dari tuduhan selingkuh), Allah telah membersihkan tuduhan tersebut. Namun demi Allah, aku tak punya prasangka jika Allah hingga menurunkan wahyu yang selalu dibaca tentang masalahku, padahal masalahku terhadap diriku lebih remeh daripada Allah berfirman tentangku dengan ayat yang selalu dibaca. Allah lalu menurunkan ayat: '(Sesungguhnya orang-orang yang membawa berita bohong adalah dari kalian sendiri) ', (Qs. An Nuur:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7545</td></tr><tr><td>Arabic No</td><td>7545</td></tr><tr><td>Reference</td><td>Book 97 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, что в рассказе, где люди (возвели на нее) навет(, обвинив ее в прелюбодеянии), она сказала: «Затем я (продолжила) лежать на своем ложе, зная о своей непричастности (к прелюбодеянию), и (зная), что Аллах оправдает меня, однако, клянусь Аллахом, не думала я, что Аллах ниспошлёт относительно меня откровение, которое будет читаться(, как часть Корана), ибо я считала себя слишком ничтожной, чтобы Аллах говорил обо мне через предписание, которое будет читаться(, в качестве Корана). И Аллах, Всемогущ Он и Велик, ниспослал (следующие) десять аятов, (начиная с аята): “Те, которые возвели навет” (сура «ан-Нур», аяты 11-20)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7545</td></tr><tr><td>Arabic No</td><td>7545</td></tr><tr><td>Reference</td><td>Book 97 Hadith 170</td></tr></tbody></table></div>
 

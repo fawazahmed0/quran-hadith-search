@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The Hour (Last Day) will not be es
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] berkata, telah mengabarkan kepada kami [Abu Az Zinad] dari ['Abdurrahman Al A'raj] dari [Abu Hurairah] ia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Tidak akan terjadi hari kiamat kecuali setelah hilangnya ilmu, banyak terjadi gempa, waktu seakan berjalan dengan cepat, timbul berbagai macam fitnah, Al haraj -yaitu pembunuhan- dan harta melimpah ruah kepada kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Пророк ﷺ сказал: «Не настанет Час до тех пор, пока не исчезнет знание, участятся землетрясения, и пока не ускорится течение времени, появятся смуты и будет много «хардж» — а это убийства, убийства, и пока не умножатся ваши богатства до такой степени, что вам некуда будет их девать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
 

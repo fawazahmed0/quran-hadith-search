@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that people sent their gifts when it was the turn of 'A'isha see
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] Telah menceritakan kepada kami [Abdah] dari [Hisyam] dari [Bapaknya] dari [Aisyah] bahwasanya orang-orang berlomba-lomba memberikan hadiah dan kado yang berharga pada hari pernikahan Aisyah karena mengharap keridhaan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6289</td></tr><tr><td>Arabic No</td><td>2441</td></tr><tr><td>Reference</td><td>Book 44 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что, стремясь угодить Посланнику Аллаха ﷺ люди (специально) дожидались дня ‘Аиши, (чтобы вручить ему) свои подарки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6289</td></tr><tr><td>Arabic No</td><td>2441</td></tr><tr><td>Reference</td><td>Book 44 Hadith 119</td></tr></tbody></table></div>
 

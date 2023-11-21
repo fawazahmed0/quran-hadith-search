@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as stating that Allah the Most High
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah menceritakan kepada kami [Rauh bin Al Qasim] dari [Al Ala' bin Abdurrahman bin Ya'qub] dari [ayahnya] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Allah Tabaraka wa Ta'ala berfirman: 'Aku adalah sekutu yang paling tidak memerlukan sekutu, barangsiapa melakukan suatu amalan dengan menyekutukanKu dengan selainKu, Aku meninggalkannya dan sekutunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7475</td></tr><tr><td>Arabic No</td><td>2985</td></tr><tr><td>Reference</td><td>Book 55 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: Посланник Аллаха ﷺ сказал: «Всеблагой и Всевышний Аллах сказал: “Я совершенно не нуждаюсь в том, чтобы Мне придавали сотоварищей, (если же) кто-нибудь совершит что-либо не только ради Меня, но и ради кого-то другого, Я откажусь и от него, и от его многобожия!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7475</td></tr><tr><td>Arabic No</td><td>2985</td></tr><tr><td>Reference</td><td>Book 55 Hadith 58</td></tr></tbody></table></div>
 

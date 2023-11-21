@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:Allah, the Exalted and Glor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Ibnul Musayyab] bahwasanya [Abu Hurairah] berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: 'Kelak di hari kiamat Allah Tabaraka wa Ta'ala akan menggenggam bumi dan menggulung langit dengan tangan kanan-Nya. Kemudian Dia berfirman: 'Akulah Raja (penguasa)! Mana yang mengaku raja-raja di bumi?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7050</td></tr><tr><td>Arabic No</td><td>2787</td></tr><tr><td>Reference</td><td>Book 52 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7050</td></tr><tr><td>Arabic No</td><td>2787</td></tr><tr><td>Reference</td><td>Book 52 Hadith 6</td></tr></tbody></table></div>
 

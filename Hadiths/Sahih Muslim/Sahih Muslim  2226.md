@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Le récit de Qays Ibn Sa'd et de Sahl Ibn Hunayf (رضي الله عنهما), d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] ia berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Amru bin Murrah] dari [Ibnu Abu Laila] bahwa [Qais bin Sa'd] dan [Sahl bin Hunaif] bahwa saat berada di Qadisiyyah, tiba-tiba di hadapan mereka berdua lewat jenazah, maka keduanya pun berdiri. Lalu dikatakanlah kepada mereka, "Bahwa jenazah itu adalah berasal dari penduduk negeri ini." keduanya menjawab, "Rasulullah shallallahu 'alaihi wasallam pernah berdiri karena ada jenazah yang lewat di hadapannya, lalu dikatakanlah kepada beliau, "Bahwa jenazah itu adalah seorang Yahudi." Maka beliau pun menjawab: "Bukankah seorang Yahudi juga memiliki nafas?" Dan telah menceritakannya kepadaku [Al Qasim bin Zakariya] Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Syaiban] dari [Al A'masy] dari [Amru bin Murrah] dengan isnad ini, dan di dalamnya; Maka keduanya menjawab, "Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba lewatlah dihadapan kami usungan jenazah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2226</td></tr><tr><td>Arabic No</td><td>961.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса с другим иснадом говорится, что они сказали: «(Однажды) когда мы были вместе с Посланником Аллаха ﷺ, мимо нас прошла похоронная процессия»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2226</td></tr><tr><td>Arabic No</td><td>961.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 103</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:My father said, "I heard Allah's Messenger (ﷺ) reci
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Muhammad bin Jubair bin Muth'im] dari [Bapaknya] berkata, "Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam dalam shalat Maghrib membaca "Ath-Thur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>765</td></tr><tr><td>Arabic No</td><td>765</td></tr><tr><td>Reference</td><td>Book 10 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мухаммада ибн Джубайра ибн Мут‘има о том, что его отец (Джубайр ибн Мут‘им) сказал: «Я слышал, как во время закатного намаза Посланник Аллаха ﷺ читал (суру) “ат-Тур”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>765</td></tr><tr><td>Arabic No</td><td>765</td></tr><tr><td>Reference</td><td>Book 10 Hadith 159</td></tr></tbody></table></div>
 

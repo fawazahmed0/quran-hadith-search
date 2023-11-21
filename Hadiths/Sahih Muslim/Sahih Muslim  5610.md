@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The vilest name in Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Amru Al Asy'atsi] dan [Ahmad bin Hanbal] serta [Abu Bakr bin Abu Syaibah]; Dan lafazh ini milik Ahmad. [Al Asy'atsi] berkata; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya nama yang terburuk di sisi Allah Ta'ala ialah nama "Malikul Amlak" (Maha Raja Diraja); Ibnu Abu Syaibah menambahkan dalam riwayatnya; Tidak ada Raja selain Allah Azza wa Jalla. Al Asy'atsi berkata; Sufyan berkata seperti 'Syahan Syah' (Raja Diraja, persia). Dan Ahmad bin Hanbal berkata; Aku bertanya kepada Abu Amru mengenai arti 'Akhna' dia menjawab; Artinya adalah 'Audha' (paling buruk, paling rendahan, paling jorok)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5610</td></tr><tr><td>Arabic No</td><td>2143.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5610</td></tr><tr><td>Arabic No</td><td>2143.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 25</td></tr></tbody></table></div>
 

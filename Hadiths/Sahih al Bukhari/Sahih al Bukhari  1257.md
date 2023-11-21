@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya:The daughter of the Prophet (ﷺ) expired, and he said to us
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdurrahman bin Hammad] telah mengabarkan kepada kami [Ibnu 'Aun] dari [Muhammad] dari [Ummu 'Athiyyah radliallahu 'anhu] berkata: Ketika puteri Nabi shallallahu 'alaihi wasallam wafat Beliau berkata, kepada kami: "Mandikanlah ia (dengan mengguyurkan air) tiga kali, lima kali atau lebih dari itu jika kalian anggap perlu dan bila kalian telah selesai beritahu aku". Ketika kami telah selesai kami memberi tahu Beliau. Maka kemudian Beliau memberikan kain Beliau kepada kami seraya berkata: "Pakaikanlah ini kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1257</td></tr><tr><td>Arabic No</td><td>1257</td></tr><tr><td>Reference</td><td>Book 23 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыйя, сказала: «Когда умерла дочь Пророка ﷺ он сказал: “Обмойте её трижды, или пять раз, или более того, если посчитаете нужным и дайте мне знать, когда закончите”. Закончив обмывать её тело, мы сообщили ему об этом, а он дал нам свой изар и сказал: “Заверните её в это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1257</td></tr><tr><td>Arabic No</td><td>1257</td></tr><tr><td>Reference</td><td>Book 23 Hadith 19</td></tr></tbody></table></div>
 

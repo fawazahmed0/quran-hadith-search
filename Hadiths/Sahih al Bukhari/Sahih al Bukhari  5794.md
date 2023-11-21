@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:A man asked, "O Allah s Apostle What kind of clothes should a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma bahwa seorang laki-laki bertanya; "Wahai Rasulullah, pakaian yang bagaimanakah yang tidak boleh dikenakan oleh orang yang berihram?" Nabi shallallahu 'alaihi wasallam menjawab: "Ia tidak boleh memakai jubah, celana panjang, baju panjang yang bertutup kepala, dan tidak memakai sepatu kecuali bagi orang yang tidak mendapatkan dua sandal, hendaknya ia memotongnya hingga dibawah kedua mata kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5794</td></tr><tr><td>Arabic No</td><td>5794</td></tr><tr><td>Reference</td><td>Book 77 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что один человек спросил: «О Посланник Аллаха! Какую одежду должен надевать на себя тот, кто вошёл в состояние ихрама?» Пророк ﷺ ответил: «Ему не следует надевать ни рубаху, ни брюки, ни бурнус, ни носки, если же он не найдёт сандалии, пусть оденет то, что ниже щиколоток»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5794</td></tr><tr><td>Arabic No</td><td>5794</td></tr><tr><td>Reference</td><td>Book 77 Hadith 12</td></tr></tbody></table></div>
 

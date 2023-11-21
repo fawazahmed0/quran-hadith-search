@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Marwan bin Al-Hakam:While I was with 'Uthman, a man came to him and sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Ubaid bin Isma'il] telah bercerita kepada kami [Abu Usamah] dari [Hisyam] telah mengabarkan kepadaku [bapakku]; aku mendengar [Marwan] berkata; "Aku berada dekat 'Utsman ketika ada seorang laki-laki datang kepadanya dan berkata; "Carilah pengganti". ['Utsman] bertanya; "Apakah dikatakan begitu?". Laki-laki itu menjawab;; "Ya, Az Zubair (orangnya). 'Utsman berkata; "Demi Allah, sungguh kalian mengetahui bahwa dia adalah orang terbaik diantara kalian". 'Utsman mengucapkannya tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3718</td></tr><tr><td>Arabic No</td><td>3718</td></tr><tr><td>Reference</td><td>Book 62 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Марван сказал: «В то время, когда я находился у ‘Усмана, к нему пришёл человек и сказал: “Назначь своего преемника”. ‘Усман спросил: “Люди назвали кого-то?” Он ответил: “Да, аз-Зубайра”. Тогда ‘Усман трижды сказал: “Клянусь Аллахом! Воистину, вы знаете, что он лучший из вас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3718</td></tr><tr><td>Arabic No</td><td>3718</td></tr><tr><td>Reference</td><td>Book 62 Hadith 66</td></tr></tbody></table></div>
 

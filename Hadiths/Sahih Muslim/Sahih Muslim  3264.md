@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qaza'ah reported:I heard Abu Sa'id al-Khudri (Allah be pleased with him) saying:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ghassan Al Misma'i] dan [Muhammad bin Basysyar] semuanya dari [Mu'adz bin Hisyam] - [Abu Ghassan] berkata- [Muadz] telah menceritakan kepadaku [bapakku] dari [Qatadah] dari [Qaza'ah] dari [Abu Sa'id Al Khudri] bahwa Nabi Allah shallallahu 'alaihi wasallam bersabda: "Seorang wanita tidak boleh mengadakan perjalanan di atas tiga malam, kecuali disertai mahramnya." Dan Telah menceritakannya kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] dari [Sa'id] dari [Qatadah] dengan isnad ini dan ia menyebutkan; "Lebih dari tiga hari, kecuali bersama mahramnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3264</td></tr><tr><td>Arabic No</td><td>827.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 466</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3264</td></tr><tr><td>Arabic No</td><td>827.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 466</td></tr></tbody></table></div>
 

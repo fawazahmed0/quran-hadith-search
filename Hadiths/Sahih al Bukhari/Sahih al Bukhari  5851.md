@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id Al-Maqburi:'Ubai bin Juraij said to 'Abdullah Ben 'Umar, "I see y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Sa'id Al Maqburi] dari ['Ubaid bin Juraij] bahwa dia berkata kepada [Abdullah bin Umar] radliallahu 'anhuma; "Aku melihatmu mengerjakan empat perkara yang belum pernah kulihat dari para sahabatmu melakukan hal itu." Ibnu Umar bertanya; 'Apa perkara itu wahai Ibnu Juraij? ' Ibnu Juraij menjawab; 'Aku melihatmu tidak menyentuh rukun kecuali dua rukun yamani, aku melihat engkau memakai sandal sibti (yang tidak berbulu), dan aku melihat engkau mencelup dengan shufrah (minyak yang terbuat dari campuran kunyit dan yang lainnya), dan aku melihat engkau apabila berada di Mekkah orang-orang bertalbiyah apabila melihat hilal sementara engkau tidak bertalbiyah hingga hari Tarwiyah (yaitu tanggal delapan Dzul Hijjah). Kemudian Abdullah bin Umar berkata kepadanya; 'Adapun rukun, maka sesungguhnya aku tidak melihat Rasulullah shallallahu 'alaihi wasallam menyentuh kecuali dua rukun Yamani, adapun sandal sibti (sandal yang tidak berbulu), maka sesungguhnya aku melihat Rasulullah shallallahu 'alaihi wasallam memakai sandal yang tidak berbulu, dan berwudlu dengan memakai sandal tersebut maka aku ingin memakainya, adapun shufrah, sesungguhnya aku telah melihat Rasulullah shallallahu 'alaihi wasallam mencelup rambut dengan shufrah, maka aku ingin mencelup dengannya, adapun talbiyah, sesungguhnya aku tidak melihat Rasulullah shallallahu 'alaihi wasallam bertalbiyah hingga kendaraan beliau berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5851</td></tr><tr><td>Arabic No</td><td>5851</td></tr><tr><td>Reference</td><td>Book 77 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды ‘Убайд ибн Джурайдж сказал ‘Абдуллаху ибн ‘Умару, да будет доволен Аллах ими обоими: «Я видел, что ты делаешь четыре (вещи), которых я не видел, чтобы их совершали твои товарищи». Он сказал: «А что это, о Ибн Джурайдж?» Он ответил: «Я видел, что ты касаешься только двух йеменских углов Каабы, и я видел, что ты носишь сандалии, сделанные из дублёной кожи, и я видел, что ты красишь волосы в жёлтый цвет, и я видел, что, когда ты был в Мекке, люди надели ихрамы, увидев молодой месяц, ты же надел его и стал произносить тальбийу только в восьмой день зуль-хиджжа /йаум ат-тарвия/». ‘Абдуллах ибн ‘Умар сказал (ему в ответ): «Что касается углов (Каабы), то я не видел, чтобы Посланник Аллаха ﷺ касался (каких-либо из них), кроме йеменских; что касается сандалий, сделанных из дублёной кожи, то, поистине, я видел, что Посланник Аллаха ﷺ носил только такие сандалии, на которых (после выделки кожи) не оставалось волос (животного), и совершал омовение, не снимая их, и поэтому я тоже люблю носить такую обувь; что касается жёлтого цвета, то, поистине, я видел, что так красит (волосы) Посланник Аллаха ﷺ, и поэтому я тоже люблю краситься так; что же касается ихрама, то, поистине, я не видел, чтобы Посланник Аллаха ﷺ надевал его, прежде чем его верблюдица трогалась в путь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5851</td></tr><tr><td>Arabic No</td><td>5851</td></tr><tr><td>Reference</td><td>Book 77 Hadith 68</td></tr></tbody></table></div>
 

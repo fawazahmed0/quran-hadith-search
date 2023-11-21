@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5806) Sahih Muslim (1177)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1823</td></tr><tr><td>Arabic No</td><td>1823</td></tr><tr><td>Reference</td><td>Book 11 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим передаёт от своего отца, да будет доволен Аллах им и его отцом, что один человек спросил Посланника Аллаха ﷺ о том, какую одежду не должен надевать паломник в состоянии ихрама, и он ответил: «Он не должен надевать рубаху, плащ с капюшоном, шаровары, чалму, одежду, окрашенную краской из жёлтого дерева или шафраном, и хуффы, за исключением тех случаев, когда человек не может найти сандалии. Кто не найдёт сандалии, пусть наденет хуффы (подобие носков из кожи), обрезав их так, чтобы они не доходили до щиколоток»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5806) Sahih Muslim (1177)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1823</td></tr><tr><td>Arabic No</td><td>1823</td></tr><tr><td>Reference</td><td>Book 11 Hadith 103</td></tr></tbody></table></div>
 

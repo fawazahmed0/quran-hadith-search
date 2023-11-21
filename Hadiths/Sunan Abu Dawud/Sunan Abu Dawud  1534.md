@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Al-Darda' said:I heard the Messenger of Allah (ﷺ) say: When a Muslim suppl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Raja' bin Al murajji] telah menceritakan kepada Kami [An Nadhr bin Syumail], telah mengabarkan kepada Kami [Musa bin Tsarwan] telah menceritakan kepadaku [Thalhah bin 'Ubaidullah bin Kariz], telah menceritakan kepadaku [Ummu Ad Darda'], ia berkata; telah menceritakan kepadaku suamiku [Abu Ad Darda'] bahwa ia mendengar Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Apabila seseorang mendoakan saudaranya secara sembunyi-sembunyi maka Malaikat akan berkata; aamiin, dan semoga engkau mendapatkan hal yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2732)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1534</td></tr><tr><td>Arabic No</td><td>1534</td></tr><tr><td>Reference</td><td>Book 8 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ад-Дардаъ (да помилует её Аллах) сказала: Рассказал мне мой господин Абу-д-Дардаъ (да будет доволен им Аллах) о том, что он слышал, как Посланник Аллаха ﷺ говорил: «Когда любой (верующий) человек (мусульманин) обращается к Аллаху с мольбой за своего отсутствующего брата, ангелы говорят: “Амин! И тебе (да будет) то же самое!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2732)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1534</td></tr><tr><td>Arabic No</td><td>1534</td></tr><tr><td>Reference</td><td>Book 8 Hadith 119</td></tr></tbody></table></div>
 

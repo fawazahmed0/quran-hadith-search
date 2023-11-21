@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq:I heard Al-Bara' narrating when a man came and said to him,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] Telah menceritakan kepada kami [Sufyan] dari [Abu Ishaq] katanya, pernah kudengar [Al Bara'] radliallahu 'anhu yang ketika itu ada seseorang yang datang lantas berujar; "Wahai Abu Umarah, apakah engkau melarikan diri pada perang Hunain? Jawabannya; "Adapun aku, dan aku bersaksi atas diri Nabi shallallahu 'alaihi wasallam bahwa beliau tidak melarikan diri, namun kemudian para sahabat sedemikian cepat dihujani anak panah oleh Bani Hawazin sedang Abu Sufyan bin Al Harits memegang kepala bighalnya yang putih dan Nabi berseru: ' Aku adalah seorang Nabi yang tak dusta # Aku anak Ibnul Abdul Muththalib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4315</td></tr><tr><td>Arabic No</td><td>4315</td></tr><tr><td>Reference</td><td>Book 64 Hadith 346</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (как-то раз один) человек спросил аль-Бара, да будет доволен им Аллах: «О Абу ‘Умара! Правда ли, что в день (битвы при) Хунайне вы бежали?» Он сказал: «Что касается меня, то я свидетельствую, что Пророк ﷺ не обратился в бегство. Однако побежали люди, которые поторопились, и лучники из племени хавазин встретили их стрелами. (Что же касается Пророка ﷺ, то он сидел на своей белой мулице,) в это время Абу Суфйан ибн аль-Харис держал её под уздцы, а Пророк ﷺ произносил (такие слова): “Я — пророк, и нет (в этом) лжи! Я — Ибн ‘Абдульмутталиб!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4315</td></tr><tr><td>Arabic No</td><td>4315</td></tr><tr><td>Reference</td><td>Book 64 Hadith 346</td></tr></tbody></table></div>
 

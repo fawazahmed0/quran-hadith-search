@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We poured medicine in one side of the Prophet's mouth during his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4458</td></tr><tr><td>Arabic No</td><td>4458</td></tr><tr><td>Reference</td><td>Book 64 Hadith 474</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Во время болезни (Пророка ﷺ) мы положили ему в рот лекарство, но он подал нам знак, (желая сказать,) что этого делать не следует. Мы сказали: “(Это потому что ни один) больной не хочет (принимать) лекарства”, но, очнувшись, (Пророк ﷺ) спросил: “Разве я не запретил вам давать мне лекарство?” Мы сказали: “(Мы думали, причина в том, что) больные не любят (принимать) лекарства”, а (Пророк ﷺ) сказал: “Пусть на моих глазах дадут лекарство каждому из присутствовавших в доме, кроме аль-‘Аббаса, ибо его среди вас не было!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4458</td></tr><tr><td>Arabic No</td><td>4458</td></tr><tr><td>Reference</td><td>Book 64 Hadith 474</td></tr></tbody></table></div>
 

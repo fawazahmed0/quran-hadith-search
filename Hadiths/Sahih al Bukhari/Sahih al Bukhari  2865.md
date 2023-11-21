@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn''Umar:When the Prophet (ﷺ) put his feet in the stirrup and the sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Ubaid bin Isma'il] dari [Abu Usamah] dari ['Ubaidillah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bahwa apabila Beliau memasukkan kakinya kedalam pijakan pelana sementara unta Beliau telah siap berdiri, maka Beliau bertalbiyah dari masjid Dzul Hulaifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2865</td></tr><tr><td>Arabic No</td><td>2865</td></tr><tr><td>Reference</td><td>Book 56 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Когда Пророк ﷺ вставлял ноги в стремя, и верблюдица поднималась на ноги вместе с ним, он начинал произносить тальбию у мечети Зуль-Хулейфы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2865</td></tr><tr><td>Arabic No</td><td>2865</td></tr><tr><td>Reference</td><td>Book 56 Hadith 81</td></tr></tbody></table></div>
 

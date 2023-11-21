@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Al-Hasan bin Muslim told me that Ibn 'Abbas had said, "I joined the Prophet, Abu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 [Ibnu Juraij] berkata; telah mengabarkan kepadaku [Al Hasan bin Muslim] dari [Thawus] dari [Ibnu 'Abbas] radliallahu 'anhuma, ia berkata, "Aku pernah menghadiri shalat 'Idul Fitri bersama Nabi shallallahu 'alaihi wasallam, Abu Bakar, 'Umar dan 'Utsman? radliallahu 'anhum. Mereka semua melaksanakan shalat sebelum khutbah, dan menyampaikan khutbah setelah shalat. Nabi shallallahu 'alaihi wasallam kemudian pergi dan aku melihat seakan beliau memberi isyarat dengan tangannya agar jama'ah tetap duduk di tempatnya. Kemudian beliau melewati dan membelah shaf-shaf mereka hingga sampai pada jama'ah para wanita, dan saat itu Bilal juga bersama beliau. Beliau kemudian membaca ayat: '(Hai Nabi, apabila datang kepadamu perempuan-perempuan yang beriman untuk mengadakan janji setia, …) ' (Qs. Al Mumtahanah: 12), selesai membaca ayat tersebut beliau mengatakan: "Apakah kalian siap untuk itu?" salah seorang wanita dari mereka -dan tidak ada yang berani menjawab selain dia- berkata, "Ya." -namun Hasan tidak tahu siapa wanita tersebut. Perawi berkata, "Kemudian mereka bersedekah dan Bilal membentangkan selembar kain, kemudian Bilal berkata, "Demi bapak dan ibuku, kemarilah! Sungguh, itu akan menjadi tebusan bagi kalian." Mereka kemudian melemparkan gelang (besar) dan cincin mereka ke dalam kain yang dibawa oleh Bilal." [Abdurrazaq] berkata, "Al Fatakh adalah cincin besar (gelang) yang bisa mereka pakai pada masa jahiliyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>979</td></tr><tr><td>Arabic No</td><td>979</td></tr><tr><td>Reference</td><td>Book 13 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Я присутствовал на праздничной молитве (‘Ид уль Фитр) вместе с Пророком ﷺ Абу Бакром, ‘Умаром и ‘Усманом, да будет доволен ими Аллах. (И все) они совершали молитву перед хутбой, а затем произносили хутбу после неё. Пророк ﷺ вышел, и как будто я смотрю на него (сейчас), как он подает знак рукой, чтобы люди сели. Затем он в сопровождении Биляля прошел через ряды, подошел к женщинам и прочитал: “О Пророк! Если к тебе придут верующие женщины, чтобы присягнуть тебе...” и до конца аята (сура “аль-Мумтахана”, аят 12). Закончив чтение, он сказал: “Вы придерживаетесь того, что в этом аяте?” Только одна женщина ответила: “Да”, — и никто, не ответил кроме нее. Пророк да благословит его Аллах и приветствует, сказал: “Тогда подавайте милостыню!” И Биляль расправил свою одежду и сказал: “Давайте, да будет мои отец и мать выкупом за вас!” И они начали кидать свои кольца /аль-фатах/ и перстни в одежду Биляля». \n‘Абдурразак сказал: «“аль-Фатах” — это большие кольца, которое носили в доисламский период невежества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>979</td></tr><tr><td>Arabic No</td><td>979</td></tr><tr><td>Reference</td><td>Book 13 Hadith 28</td></tr></tbody></table></div>
 

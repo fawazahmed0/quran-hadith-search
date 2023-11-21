@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Omar Ibn Al-Khattâb (que Dieu l'agrée) a dit : J'ai entendu Hichâm Ibn Hakîm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Ibnu Syihab] dari [Urwah bin Zubair] dari [Abdurrahman bin Abdul Qari] ia berkata, saya mendengar [Umar bin Al Khaththab] berkata; Aku mendengar Hisyam bin Hakim bin Hizam membaca surat Al Furqan, tidak seperti bacaan (qiraat) yang pernah beliau shallallahu 'alaihi wasallam bacakan kepadaku. Karena itu hampir saja aku bertindak kasar terhadapnya. Tetapi kubiarkan saja dia hingga pergi. Namun kupegang bajunya, lalu kubawa dia ke hadapan Rasulullah shallallahu 'alaihi wasallam. Ujarku, "Wahai Rasulullah, aku mendengar orang ini membaca surat Al Furqan tidak seperti yang Anda bacakan kepadaku, bagaimana ini?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Lepaskanlah ia, suruh ia membacanya kembali." Lalu Hisyam membacakan kembali seperti yang dibacanya tadi. Setelah itu, Nabi shallallahu 'alaihi wasallam bersabda: "Memang seperti inilah ia diturunkan." Kemudian Nabi shallallahu 'alaihi wasallam menyuruhku pula untuk membaca. Lalu kubaca seperti bacaan yang biasa kubaca. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Ya, ayat itu memang diturunkan seperti itu. Sesungguhnya Al Qur'an itu diturunkan dengan tujuh huruf (tujuh dialek bahasa). Karena itu, bacalah dengan huruf yang mudah bagi kalian." Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Urwah bin Zubair] bahwa [Miswar bin Makhramah] dan [Abdurrahman bin Abdul Qari] telah mengarbarkan kepadanya, bahwa keduanya telah mendengar [Umar bin Al Khaththab] berkata; Saya mendengar Hisyam bin Hakim membaca surat Al Furqan pada masa Rasulullah shallallahu 'alaihi wasallam. Ia pun menyebutkan hadits yang serupa. Dan ia menambahkan; "Dan aku hampir saja berbuat kasar terhadapnya di saat shalat. Namun aku berusaha bersabar hingga ia mengucapkan salam." Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abd bin Humaid] keduanya berkata, telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] sebagaimana riwayat Yunus dengan Isnadnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1899</td></tr><tr><td>Arabic No</td><td>818.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 327</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн аль-Хаттаб сказал: «(Однажды во время молитвы) я услышал, что Хишам ибн Хаким ибн Хизам читает суру “аль-Фуркан” не так, как читал её я, а читать (эту суру) учил меня сам Посланник Аллаха ﷺ. Я был готов вступить с ним в спор (из-за этого), но сдержался (и ждал), пока он не закончил, а потом схватил его за накидку, привёл к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха, поистине, я слышал, как этот (человек) читает суру “аль-Фуркан” не так, как учил меня читать её ты!” (На это) Посланник Аллаха ﷺ сказал: “Отпусти его, а ты читай”, и (Хишам) прочитал её (Пророку ﷺ точно) так же, как я уже слышал, (после чего) Посланник Аллаха ﷺ сказал: “Так она и была ниспослана (мне)”. Потом он сказал мне: “Читай”, и я прочёл её (так, как он меня учил, а Посланник Аллаха ﷺ) сказал: “Так она и была ниспослана (мне). Поистине, этот Коран был ниспослан так, что его можно читать семью способами /ахруф/, читайте же его так, как вам будет легче”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1899</td></tr><tr><td>Arabic No</td><td>818.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 327</td></tr></tbody></table></div>
 

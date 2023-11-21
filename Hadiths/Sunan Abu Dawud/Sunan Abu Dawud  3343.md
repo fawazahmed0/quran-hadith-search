@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) would not say funeral 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3343</td></tr><tr><td>Arabic No</td><td>3343</td></tr><tr><td>Reference</td><td>Book 23 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир, да будет доволен им Аллах, передаёт: «Посланник Аллаха ﷺ не совершал погребальную молитву по человеку, который умер, оставив долги. И однажды к нему принесли тело умершего, чтобы он совершил по нему молитву. Он спросил: “Не осталось ли у него долгов?” Ему сказали: “Остались. Два динара”. Тогда (Посланник Аллаха ﷺ) сказал: “Совершите молитву по вашему товарищу”. Абу Катада аль-Ансари сказал: “Я уплачу их, о Посланник Аллаха”. И Посланник Аллаха ﷺ совершил по нему молитву. А когда Аллах даровал Посланнику Аллаха ﷺ больше средств, (чем поступало к нему прежде), он сказал: “Я ближе к любому верующему, чем он сам, и если у кого-то остался долг, я уплачу его, а когда кто-то оставляет имущество, его следует отдавать наследникам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3343</td></tr><tr><td>Arabic No</td><td>3343</td></tr><tr><td>Reference</td><td>Book 23 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:Allah's Messenger (ﷺ) said, "There will be none among 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepadaku [Al A'masy] dari [Khaitsumah] dari ['Adi bin Hatim] berkata, 'Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah salah seorang diantara kalian kecuali ia akan diajak bicara oleh Rabbnya, antara dia dan Allah tidak ada seorang penerjemah, dan tidak pula hijab yang menghalanginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7443</td></tr><tr><td>Arabic No</td><td>7443</td></tr><tr><td>Reference</td><td>Book 97 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Нет среди вас такого, с кем не заговорит Аллах, и не будет меж ними ни толмача, ни преграды, которая бы прикрывала его (от лицезрения Господа)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7443</td></tr><tr><td>Arabic No</td><td>7443</td></tr><tr><td>Reference</td><td>Book 97 Hadith 69</td></tr></tbody></table></div>
 

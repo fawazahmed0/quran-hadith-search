@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hariz bin 'Uthman:That he asked 'Abdullah bin Busr (i.e. the companion 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Isham binKhalid] telah bercerita kepada kami [Jarir bin 'Utsman] bahwa dia bertanya kepada ['Abdullah bin Busr, shahabat Nabi shallallahu 'alaihi wasallam] katanya; "Apakah kamu pernah melihat Nabi shallallahu 'alaihi wasallam pada usia lanjut? '. Dia menjawab; "Ya, rambut yang sudah memutih pada dagu beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3546</td></tr><tr><td>Arabic No</td><td>3546</td></tr><tr><td>Reference</td><td>Book 61 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) сподвижника Пророка ﷺ ‘Абдуллаха ибн Бусра, да будет доволен им Аллах, спросили: «Видел ли ты Пророка ﷺ в старости?» (В ответ) он сказал: «На подбородке у него было несколько седых волос»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3546</td></tr><tr><td>Arabic No</td><td>3546</td></tr><tr><td>Reference</td><td>Book 61 Hadith 55</td></tr></tbody></table></div>
 

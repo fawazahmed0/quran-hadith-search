@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "At every womb Allah appoints an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad] dari ['Ubaidullah bin Abu Bakar] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya Allah Ta'ala menugaskan satu Malaikat dalam rahim seseorang. Malaikat itu berkata, 'Ya Rabb, (sekarang baru) sperma. Ya Rabb, segumpal darah!, Ya Rabb, segumpal daging! ' Maka apabila Allah berkehendak menetapkan ciptaan-Nya, Malaikat itu bertanya, 'Apakah laki-laki atau wanita, celaka atau bahagia, bagaimana dengan rizki dan ajalnya? ' Maka ditetapkanlah ketentuan takdirnya selagi berada dalam perut ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>318</td></tr><tr><td>Arabic No</td><td>318</td></tr><tr><td>Reference</td><td>Book 6 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика о том, что Пророк ﷺ сказал: «Поистине, Великий и Всемогущий Аллах приставляет к утробе ангела, который говорит: “О Господь, капля! О Господь, сгусток крови! О Господь, кусочек плоти!” Когда же (Аллах) желает завершить его сотворение, (ангел) говорит: “Мальчик или девочка? Несчастный или счастливый? Каков его удел и срок?” И (все это) записывается ещё в утробе его матери»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>318</td></tr><tr><td>Arabic No</td><td>318</td></tr><tr><td>Reference</td><td>Book 6 Hadith 23</td></tr></tbody></table></div>
 

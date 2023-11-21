@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Mulaika:'Uqba bin Al-Harith said that he had married 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqotil Abu Al Hasan] berkata, telah mengabarkan kepada kami [Abdullah] berkata, telah mengabarkan kepada kami [Umar bin Sa'id bin Abu Husain] berkata, telah menceritakan kepadaku [Abdullah bin Abu Mulaikah] dari ['Uqbah bin Al Harits]; bahwasanya dia menikahi seorang perempuan putri Ibnu Ihab bin 'Aziz. Lalu datanglah seorang perempuan dan berkata: "Aku pernah menyusui 'Uqbah dan wanita yang dinikahinya itu". Maka 'Uqbah berkata kepada perempuan itu: "Aku tidak tahu kalau kamu pernah menyusuiku dan kamu tidak memberitahu aku." Maka 'Uqbah mengendarai kendaraannya menemui Rasul shallallahu 'alaihi wasallam di Madinah dan menyampaikan masalahnya. Maka Rasul shallallahu 'alaihi wasallam bersabda: "harus bagaimana lagi, sedangkan dia sudah mengatakannya". Maka 'Uqbah menceraikannya dan menikah dengan wanita yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>88</td></tr><tr><td>Arabic No</td><td>88</td></tr><tr><td>Reference</td><td>Book 3 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Укъбы ибн аль-Хариса, да будет доволен им Аллах, что после его женитьбы на дочери Абу Ихаба ибн ‘Азиза к нему пришла одна женщина и сказала: «Поистине, я кормила грудью и ‘Укъбу, и ту, на ком он женился!» (В ответ) ей ‘Укъба сказал: «Я не знал, что ты вскормила меня, ведь (раньше) ты не говорила мне (об этом)!» А затем он верхом отправился к Посланнику Аллаха ﷺ в Медину и задал ему вопрос (относительно этого дела). Посланник Аллаха ﷺ сказал: «Как же (она может оставаться твоей женой), если было сказано (, что она − твоя молочная сестра)?!» − и (после этого) ‘Укъба расстался с ней, а она вышла замуж за другого человека
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>88</td></tr><tr><td>Arabic No</td><td>88</td></tr><tr><td>Reference</td><td>Book 3 Hadith 30</td></tr></tbody></table></div>
 

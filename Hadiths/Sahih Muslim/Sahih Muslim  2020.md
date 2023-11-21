@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah said that a person entered the Mosque while the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ishaq bin Ibrahim] -Qutaibah berkata- telah menceritakan kepada kami -dan Ishaq berkata- telah mengabarkan kepada kami [Sufyan] dari [Amru] ia mendengar [Jabir bin Abdullah] berkata; Seorang laki-laki masuk Masjid sementara Rasulullah shallallahu 'alaihi wasallam sedang menyampaikan khutbah Jum'at, maka beliau pun bertanya: "Apakah kamu telah shalat?" Laki-laki itu menjawab, "belum." Maka beliau bersabda: "Bangun dan shalatlah dua raka'at." dan dalam riwayat Qutaibah, "Shalatlah dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>875.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн ‘Абдуллах сказал: «(Как-то раз) в пятницу в мечеть вошёл один человек, когда Посланник Аллаха ﷺ произносил хутбу. (Пророк ﷺ) спросил (этого человека): “Совершил ли ты молитву?” (Вошедший) ответил: “Нет”. (Пророк ﷺ) сказал: “(Тогда) встань и соверши молитву в два рак‘ата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>875.03</td></tr><tr><td>Reference</td><td>Book 7 Hadith 70</td></tr></tbody></table></div>
 

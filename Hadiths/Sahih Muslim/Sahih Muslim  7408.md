@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported Allah's Messenger (ﷺ) as saying:I and the Last Hour have been se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Mu'tamir] dari [ayahnya] dari [Ma'bad] dari [Anas] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Aku diutus dan kiamat seperti dua (jari) ini." Anas berkata: Beliau melekatkan jari telunjuk dan jari tengah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7408</td></tr><tr><td>Arabic No</td><td>2951.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас (ибн Малик), да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Я был отправлен вместе с этим Часом, как эти два (пальца)”».(Передатчик этого хадиса) сказал: «При этом он соединил указательный и средний пальцы (своей руки)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7408</td></tr><tr><td>Arabic No</td><td>2951.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 169</td></tr></tbody></table></div>
 

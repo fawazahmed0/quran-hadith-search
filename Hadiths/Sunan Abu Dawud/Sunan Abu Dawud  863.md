@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amr al-Ansari: Salim al-Barrad said: We came to AbuMas'ud Uqb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari ['Atha' bin As Sa'ib] dari [Salim Al Barrad] dia berkata; aku menemui ['Uqbah bin 'Amru Al Anshari yaitu Abu Mas'ud] maka kau berkata kepadanya; "Jelaskanlah kepada kami tata cara shalat Rasulullah shallallahu 'alaihi wasallam!." maka dia berdiri di depan kami di masjid, lalu bertakbir. Ketika ruku', dia meletakkan kedua tangannya di atas kedua lututnya dan meletakkan jemarinya lebih rendah dari itu, sedangkan kedua sikunya di renggangkan, sehingga semua anggota tubuhnya tenang (thuma'ninah), kemudian bertakbir dan sujud, setelah itu ia meletakkan kedua telapak tangannya ke tanah, dan merenggangkan antara kedua sikunya sampai semua anggota tubuhnya tenang (thuma'ninah). Dia mengerjakan yang demikian itu, dan shalat empat raka'at sebagaimana raka'at ini, setelah mengerjakan shalatnya, dia berkata; "Demikianlah kami pernah melihat Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>863</td></tr><tr><td>Arabic No</td><td>863</td></tr><tr><td>Reference</td><td>Book 2 Hadith 473</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Салима аль-Баррада: «Мы пришли к ‘Укбе ибн ‘Амру аль-Ансари Абу Мас‘уду и сказали ему: “Расскажи нам о молитве Посланника Аллаха ﷺ”. Тогда он встал перед нами в мечети и произнёс такбир. Совершая поясной поклон, он возложил руки на колени, так что пальцы его оказались ниже колен, и развёл локти немного в стороны. В таком положении он застыл на некоторое время, так что все части его тела пребывали в покое. Затем он сказал: “Да услышит Аллах того, кто восхваляет Его”. С этими словами он выпрямился. В таком положении он застыл на некоторое время, так что все части его тела пребывали в покое. Потом он произнёс такбир и совершил земной поклон, возложив ладони на землю и разведя локти. В таком положении он застыл на некоторое время, так что все части его тела пребывали в покое. Затем он поднял голову и сел. В таком положении он застыл на некоторое время, чтобы все позвонки встали на свои места. Затем он проделал это ещё раз. Он совершил четыре таких рак‘ата и, завершив молитву, сказал: “Мы видели Посланника Аллаха ﷺ молящимся так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>863</td></tr><tr><td>Arabic No</td><td>863</td></tr><tr><td>Reference</td><td>Book 2 Hadith 473</td></tr></tbody></table></div>
 

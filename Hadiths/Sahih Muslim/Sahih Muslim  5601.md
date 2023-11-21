@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Samura b. Jundub reported:The Messenger of Allah (peace and blessings of Allah b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Abdullah bin Yunus]; Telah menceritakan kepada kami [Zuhair]; Telah menceritakan kepada kami [Manshur] dari [Hilal bin Yasaf] dari [Rabi' bin 'Umailah] dari [Samurah bin Jundab] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada empat ucapan yang paling di sukai Allah Subhanahu Wa Ta'ala; 1) Subhanallah, 2) Al Hamdulillah, 3) Laa ilaaha illallah, 3) Allahu Akbar. Tidak berdosa bagimu dengan mana saja kamu memulai. Selain itu, janganlah kamu memberi nama anakmu dengan nama; Yasar, Rabah, Najih, atau Aflah. Karena, jika kamu bertanya; 'Apakah memang demikian (keadaanmu sesuai dengan namamu) dan ternyata tidak seperti itu, maka ia akan menjawab; 'Tidak.' Hanya empat itulah kalimat yang saya dengar maka janganlah sekali-kali kamu menambahkannya atas namaku.' Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepadaku [Jarir]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Umayyah bin Bistham]; Telah menceritakan kepada kami [Yazid bin Zurai']; Telah menceritakan kepada kami [Rauh] yaitu Ibnu Al Qasim; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] seluruhnya dari [Manshur] dari jalur Zuhair. Adapun Hadits Jarir dan Rauh isinya sebagaimana Hadits Zuhair. Sedangkan Hadits Syu'bah isinya hanya menyebutkan empat nama yang dilarang, tanpa menyebutkan empat kalimat yang disukai Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5601</td></tr><tr><td>Arabic No</td><td>2137.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Самура ибн Джундаб, да будет доволен им Аллах, сказал: Посланник Аллаха ﷺ сказал: «Больше всего Аллах любит четыре слова: “Слава Аллаху /Субхана-Ллах/”, “Хвала Аллаху /Аль-хамду ли-Ллях/”, “Нет бога, достойного поклонения, кроме Аллаха /Ля иляха илля-Ллах/”и “Аллах велик /Аллаху акбар/”, и с какого бы ты ни начал, это не повредит тебе. И никогда не называй своего слугу ни Ясаром, ни Рабахом, ни Наджихом, ни Афляхом, ведь ты можешь спросить: “Он там?” и, (если) его не будет, (кто-нибудь тебе) ответит: “Нет”».(Передатчик этого хадиса сказал: «(Этих слов) только четыре, и ни в коем случае ничего не добавляй к (сказанному) мной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5601</td></tr><tr><td>Arabic No</td><td>2137.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 16</td></tr></tbody></table></div>
 

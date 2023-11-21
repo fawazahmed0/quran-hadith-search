@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. ‘Abd Allah said :Mu’adh b. Jabal would pray along with the Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Muhammad bin 'Ajlan] telah menceritakan kepada kami [Ubaidullah bin Miqsam] dari [Jabir bin Abdullah] bahwasanya Mu'adz bin Jabal pernah shalat Isya bersama Rasulullah shallallahu 'alaihi wasallam, kemudian dia pergi kepada kaumnya dan mengimami mereka shalat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 2 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира ибн ‘Абдуллаха: «Обычно, Му‘аз ибн Джабаль совершал вечернюю молитву (‘ишаъ) с посланником Аллаха ﷺ после чего он возвращался к своему племени и совершал с ними ту же молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 2 Hadith 209</td></tr></tbody></table></div>
 

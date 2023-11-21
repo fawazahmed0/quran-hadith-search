@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ash’ath bin Sulaim reported on the authority of his father “I proceeded alon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abu Al Ahwash], telah menceritakan kepada Kami [Asy'ats bin Sulaim], dari [ayahnya], ia berkata; aku datang bersama [Ibnu Umar] dari Arafah menuju Muzdalifah, dan ia tidak berhenti mengucapkan takbir serta tahlil hingga Kami sampai di Muzdalifah. Kemudian ia mengumandangkan adzan dan iqamah, atau memerintahkan orang untuk mengumandangkan adzan dan iqamah. Kemudian ia melakukan shalat Maghirb tiga raka'at bersama Kami. Kemudian ia berpaling kepada Kami. Ia berkata; Shalat. Kemudian ia melakukan shalat Isya' dua raka'at bersama Kami. Kemudian meminta makan malamnya. Abu Daud berkata; telah mengabarkan kepadaku ['Ilaj bin 'Amr] seperti hadits ayahku dari Ibnu Umar. Kemudian [Ibnu Umar] ditanya mengenai hal tersebut; kemudian ia berkata; aku pernah melakukan shalat seperti ini bersama Rasulullah shallAllahu wa'alaihi wa sallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1933</td></tr><tr><td>Arabic No</td><td>1933</td></tr><tr><td>Reference</td><td>Book 11 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аш‘ас ибн Суляйм передаёт: «Я отправился вместе с Ибн ‘Умаром с ‘Арафата в Муздалифу, и он не переставал возвеличивать Аллаха и свидетельствовать о Его единственности, пока мы не добрались до Муздалифы. Там он произнёс азан и икамат [или: велел кому-то произнести азан и икамат] и совершил с нами закатную молитву /магриб/ в три рак‘ата, а потом посмотрел на нас и сказал: “Молитва!” Затем он совершил с нами вечернюю молитву /‘иша/ в два рак‘ата, а потом велел принести ему его ужин»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1933</td></tr><tr><td>Arabic No</td><td>1933</td></tr><tr><td>Reference</td><td>Book 11 Hadith 213</td></tr></tbody></table></div>
 

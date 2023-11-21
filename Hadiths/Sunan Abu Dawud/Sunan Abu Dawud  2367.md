@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thawban: The Prophet (ﷺ) said: A man who cupped and a man who has him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya] dari [Hisyam], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Hasan bin Musa], telah menceritakan kepada kami [Syaiban], dari [Yahya] dari [Abu Qilabah], dari [Abu Asma' Ar Rahabi] dari [Tsauban] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Telah batal puasa orang yang berbekam dan orang yang dibekam." [Syaiban] berkata; telah mengabarkan kepadaku [Abu Qilabah] bahwa [Asma' Ar Rahabi] telah menceritakan kepadanya bahwa [Tsauban] mantan budak Rasulullah shallallahu 'alaihi wasallam telah mengabarkan kepadanya bahwa ia telah mendengar Nabi shallallahu 'alaihi wasallam. Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Hasan bin Musa], telah menceritakan kepada kami [Syaiban] dari [Yahya], ia berkata; telah menceritakan kepadaku [Abu Qilabah Al jarmi], bahwa ia telah mengabarkan kepadanya bahwa [Syaddad bin Aus] ketika berjalan bersama Nabi shallallahu 'alaihi wasallam ….. kemudian ia menyebutkan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2367</td></tr><tr><td>Arabic No</td><td>2367</td></tr><tr><td>Reference</td><td>Book 14 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Саубана, да будет доволен им Аллах, что Пророк ﷺ сказал: «И делающий кровопускание, и тот, кому делают кровопускание, разговелись»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2367</td></tr><tr><td>Arabic No</td><td>2367</td></tr><tr><td>Reference</td><td>Book 14 Hadith 55</td></tr></tbody></table></div>
 

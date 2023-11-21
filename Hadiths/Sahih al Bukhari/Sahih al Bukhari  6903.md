@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ash-Shu'bi:I heard Abu Juhaifa saying, "I asked 'Ali 'Have you got any 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Al Fadhl] Telah mengabarkan kepada kami [Ibnu 'Uyainah] telah menceritakan kepada kami [Mutharrif] mengatakan; aku mendengar [Asy Sya'bi], dia berkata; aku mendengar [Abu Juhaifah] mengatakan, aku bertanya kepada [Ali] radliallahu 'anhu; 'Apakah kalian mempunyai sesuatu yang tidak tersebut dalam alquran? ' kesempatan lain dia berkata; 'yang tidak ada pada orang-orang? ' ia menjawab; 'Demi Dzat yang membelah biji-bijian dan mencipta manusia, kami tidak mempunyai selain yag terdapat dalam al Qur'an, kecuali kepahaman yang diberikan kepada seseorang terhadap kitab-Nya dan yang terdapat dalam lembaran.' Saya bertanya; 'apa yang terdapat dalam lembaran? ' ia menjawab; 'yaitu membayar diyat, membebaskan tawanan, dan janganlah seorang muslim dibunuh karena orang kafir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6903</td></tr><tr><td>Arabic No</td><td>6903</td></tr><tr><td>Reference</td><td>Book 87 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джухайфа сказал: «(Однажды) я спросил ‘Али, да будет доволен им Аллах: “(Знаете ли) вы что-нибудь (об откровениях) помимо тех, что содержатся в Книге Аллаха? (А в другой раз он сказал: …то, чего нет у других людей)”. (‘Али) ответил: “Клянусь Тем, Кто расщепляет зёрна и создаёт души, нет у нас ничего, кроме того, что в Коране, и понимания Книги Аллаха, которым Он наделяет человека, (и есть у нас то, что написано) на этом листе”. Я спросил: “А что написано на этом листе?” Он ответил: “То, что следует выплачивать виру за кровь /‘акль/, освобождать пленных и не убивать мусульманина за неверного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6903</td></tr><tr><td>Arabic No</td><td>6903</td></tr><tr><td>Reference</td><td>Book 87 Hadith 42</td></tr></tbody></table></div>
 

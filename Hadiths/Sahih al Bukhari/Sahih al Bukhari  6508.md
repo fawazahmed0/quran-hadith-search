@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said: "Whoever loves to meet Allah, Allah lo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "barangsiapa yang mencintai berjumpa Allah, Allah mencintai berjumpa kepadanya, sebaliknya siapa yang membenci berjumpa dengan Allah, Allah pun membenci berjumpa dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6508</td></tr><tr><td>Arabic No</td><td>6508</td></tr><tr><td>Reference</td><td>Book 81 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы, что (однажды) Пророк ﷺ сказал: «Аллах желает встречи с тем, кто желает встретиться с Ним, что же касается не желающего встречи с Аллахом, то и Аллах не желает встречи с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6508</td></tr><tr><td>Arabic No</td><td>6508</td></tr><tr><td>Reference</td><td>Book 81 Hadith 97</td></tr></tbody></table></div>
 

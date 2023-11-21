@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Bashir b. Yasar:That a man of the Ansar called Sahl b. Abi Hathmah told
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Muhammad bin Ash Shabbah Az Za'farani] berkata, telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Sa'id bin Ubaid Ath Tha'i] dari [Busyair bin Yasar] ia berkeyakinan bahwa seorang laki-laki Anshar yang bernama [Sahl bin Abu Hatsmah] mengabarkan kepadanya, bahwa seorang laki-laki dari kaumnya berangkat menuju Khaibar. Lalu mereka mereka berpencar, hingga mereka mendapati salah seorang dari mereka telah terbunuh. Mereka pun berkata kepada orang-orang yang mereka temui, "Kalian telah membunuh saudara kami!" orang-orang itu menjawab, "Kami tidak membunuhnya, dan kami juga tidak melihat seorang pembunuh." Maka kami pun berangkat menuju Nabi shallallahu 'alaihi wasallam. Ia (perawi) berkata, "Beliau bertanya kepada mereka, "Apakah kalian datang kepadaku dengan membawa bukti, siapa yang membunuhnya (temanmu)?" mereka menjawab, "Kami tidak punya bukti." Beliau menimpali: "Mereka (orang-orang Yahudi) akan bersumpah atas kalian!" mereka berkata, "Kami tidak ridha dengan sumpahnya orang-orang yahudi." Nabi shallallahu 'alaihi wasallam tidak ingin kematiannya itu menjadi sia-sia, maka beliau pun membayar diyat tersebut dengan seratus ekor unta dari unta-unta sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6898) Sahih Muslim (1669)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4523</td></tr><tr><td>Arabic No</td><td>4523</td></tr><tr><td>Reference</td><td>Book 41 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Сахля ибн Абу Хасмы, да будет доволен им Аллах, что однажды группа его соплеменников отправилась в Хайбар. Там они разделились, а потом один из них был найден мёртвым. Его товарищи сказали людям, у которых они обнаружили его: «Это вы убили нашего товарища!» Они сказали: «Мы не убивали его и не знаем, кто его убийца». Тогда они пошли к пророку Аллаха ﷺ и он спросил их: «Можете ли вы представить доказательства, подтверждающие вину (предполагаемого) убийцы?» Они сказали: «У нас нет доказательств». (Посланник Аллаха ﷺ) спросил: «(Хотите ли вы, чтобы) они поклялись вам (в том, что не убивали его)?» Они ответили: «Мы не удовольствуемся клятвами иудеев». Пророк Аллаха ﷺ не захотел оставить убийство этого человека без воздаяния и сам выплатил компенсацию сто верблюдов из числа верблюдов, собранных в качестве закята
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6898) Sahih Muslim (1669)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4523</td></tr><tr><td>Arabic No</td><td>4523</td></tr><tr><td>Reference</td><td>Book 41 Hadith 30</td></tr></tbody></table></div>
 

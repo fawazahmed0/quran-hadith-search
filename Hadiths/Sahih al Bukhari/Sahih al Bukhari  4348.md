@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Maimuin:When Mu'adh arrived at Yemen, he led them (i.e. the pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Syu'bah] dari [Habib bin Abu Tsabit] dari [Sa'id bin Jubair] dari ['Amru bin Maimun] bahwa ketika [Mu'adz] sampai di Yaman, dia shalat shubuh bersama kaumnya dengan membaca ayat: "Allah telah menjadikan Ibrahim sebagai kekasihnya." Maka berkatalah salah seorang dari kaumnya; 'Mata ibu Ibrahim telah berbinar karena bahagia.' Sedangkan di dalam riwayat lain, [Mu'adz] menambahkan dari [Syu'bah] dari [Habib] dari [Sa'id] dari [Amru] bahwa Nabi shallallahu 'alaihi wasallam mengutus [Mu'adz bin Jabal] ke Yaman. Lalu pada waktu shalat shubuh Mu'adz bin Jabal membaca surat An Nisa, tatkala sampai ayat; Allah telah menjadikan Ibrahim sebagai kekasih-Nya." Seseorang di belakangnya berkata; 'Mata Ibu Ibrahim telah berbinar karena bahagia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4348</td></tr><tr><td>Arabic No</td><td>4348</td></tr><tr><td>Reference</td><td>Book 64 Hadith 375</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ’Амра ибн Маймуна, что, когда Му’аз, да будет доволен им Аллах, прибыл в Йемен, он совершил с ними утреннюю молитву, в которой он прочитал: «И Аллах сделал Ибрахима Своим возлюбленным» (сура «ан-Ниса», аят 125). Тогда один человек (, стоявший позади него,) сказал: «Мать Ибрахима была счастлива!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4348</td></tr><tr><td>Arabic No</td><td>4348</td></tr><tr><td>Reference</td><td>Book 64 Hadith 375</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi’ said “Ibn ‘Umar used to nap for a short while at Batha’ (i.e, Al M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa Abu Salamah], telah menceritakan kepada kami [Hammad] dari [Humaid], dari [Bakr bin Abdullah] serta [Ayyub] dari [Nafi'] bahwa [Ibnu Umar] tidur di Al Bathha', kemudian masuk ke Mekkah dan mengaku bahwa Rasulullah shallallahu 'alaihi wasallam melakukan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2012</td></tr><tr><td>Arabic No</td><td>2012</td></tr><tr><td>Reference</td><td>Book 11 Hadith 292</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах им и его отцом, спал немного в Батхе и только потом входил в Мекку, утверждая, что так поступал Посланник Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2012</td></tr><tr><td>Arabic No</td><td>2012</td></tr><tr><td>Reference</td><td>Book 11 Hadith 292</td></tr></tbody></table></div>
 

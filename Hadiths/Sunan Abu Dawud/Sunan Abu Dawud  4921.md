@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Kulthum, daughter of â€˜Uqbah, said:I did not hear the Messenger of Allah (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Sulaiman Al Jizi] berkata, telah menceritakan kepada kami [Abul Aswad] dari [nafi'] -maksudnya Nafi' bin Yazid- dari [Ibnul Hadi] bahwa [Abdul Wahhab bin Abu Bakr] menceritakan kepadanya, dari [Ibnu Syihab] dari [Humaid bin 'Abdurrahman] dari ibunya [Ummu Kultsum binti Uqbah] ia berkata, "Aku tidak pernah mendengar Rasulullah shallallahu 'alaihi wasallam memberi keringanan untuk berbohong kecuali pada tiga tempat. Rasulullah shallallahu 'alaihi wasallam mengatakan: "Aku tidak menganggapnya sebagai seorang pembohong; seorang laki-laki yang memperbaiki hubungan antara manusia. Ia mengatakan suatu perkataan (bohong), namun ia tidak bermaksud dengan perkataan itu kecuali untuk mendamaikan. Seorang laki-laki yang berbohong dalam peperangan. Dan seorang laki-laki yang berbohong kepada isteri atau isteri yang berbohong kepada suami (untuk kebaikan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4921</td></tr><tr><td>Arabic No</td><td>4921</td></tr><tr><td>Reference</td><td>Book 43 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4921</td></tr><tr><td>Arabic No</td><td>4921</td></tr><tr><td>Reference</td><td>Book 43 Hadith 149</td></tr></tbody></table></div>
 

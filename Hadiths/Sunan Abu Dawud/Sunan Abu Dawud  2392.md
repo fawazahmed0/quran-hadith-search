@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: (A man broke his fast intentionally) during Ramadan. The 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Humaid bin Abdurrahman] dari [Abu Hurairah] bahwa seorang laki-laki telah berbuka pada Bulan Ramadhan, kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkannya agar memerdekakan budak atau berpuasa dua bulan berturut-turut atau memberi makan enam puluh orang miskin. Ia berkata; aku tidak mendapatinya. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Duduklah!" Lalu Rasulullah shallallahu 'alaihi wasallam diberi keranjang yang berisi kurma, kemudian beliau berkata; ambillah ini. Dan bersedekahlah dengannya! Kemudian orang tersebut berkata; wahai Rasulullah, tidak ada seorang pun yang lebih membutuhkan daripada diriku. Maka Rasulullah shallallahu 'alaihi wasallam tertawa hingga nampak gigi-gigi taring beliau. Dan beliau berkata kepadanya; "Makanlah!" Abu Daud berkata; hadits tersebut diriwayatkan oleh [Ibnu Juraij] dari [Az Zuhri] seperti lafazh Malik; bahwa seorang laki-laki telah berbuka… dan padanya ia menyebutkan: "atau engkau membebaskan budak, atau berpuasa dua bulan berturut-turut atau memberi makan enam orang miskin." Telah menceritakan kepada kami [Ja'far bin Musafir], telah menceritakan kepada kami [Ibnu Abu Fudaik], telah menceritakan kepada kami [Hisyam bin Sa'd] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah], ia berkata; seorang laki-laki telah datang kepada Nabi shallallahu 'alaihi wasallam, ia telah berbuka pada Bulan Ramadhan dengan hadits ini. Ia berkata; kemudian Rasulullah shallallahu 'alaihi wasallam diberi kerangjang yang berisi kurma seukuran lima belas sha'. Dalam hadits tersebut beliau mengatakan; makanlah engkau dan penghuni rumahmu dan berpuasalah satu hari dan mintalah ampun kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1111)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 14 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что один мужчина прервал свой пост в один из дней рамадана и Посланник Аллаха ﷺ велел ему освободить раба, или соблюдать пост в течение двух месяцев без перерыва, или накормить шестьдесят бедняков. Однако тот сказал: «У меня (ничего) нет». Тогда Посланник Аллаха ﷺ сказал: «Сядь». Потом ему принесли корзину фиников и он сказал: «Возьми это и раздай в качестве милостыни». Тот человек спросил: «О Посланник Аллаха, нет никого, кто нуждался бы в этом больше меня!» Посланник Аллаха ﷺ улыбнулся так, что показались его зубы, и сказал ему: «Съешь это сам». Абу Дауд приводит версию Ибн Джурайджа от аз-Зухри. Это версия Малика, и в ней говорится, что некий человек разговелся (днём в рамадане), и в этой версии Посланник Аллаха ﷺ сказал: «Ты должен либо освободить раба, либо поститься два месяца, либо накормить шестьдесят бедняков»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1111)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 14 Hadith 80</td></tr></tbody></table></div>
 

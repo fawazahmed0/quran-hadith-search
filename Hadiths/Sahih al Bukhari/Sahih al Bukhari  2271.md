@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "The example of Muslims, Jews and Chri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Alaa'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Perumpamaan Kaum Muslimin dibandingkan orang-orang Yahudi dan Nashrani seperti seseorang yang memperkerjakan kaum yang bekerja untuknya pada suatu hari hingga malam dengan upah yang ditentukan. Maka diantara mereka ada yang melaksanakan pekerjaan hingga pertengahan siang lalu berkata: Kami tidak memerlukan upah darimu sebagaimana yang kamu persyaratkan kepada kami (bekerja hingga malam) dan apa yang telah kami kerjakan biarlah nggak apa-apa". Maka orang itu berkata: "Selesaikanlah sisa pekerjaan, nanti baru kalian boleh mengambil upahnya dengan penuh". Maka mereka tidak mau dan tidak melanjutkan pekerjaan mereka. Kemudian dia memperkerjakan dua orang pekerja setelah mereka untuk menuntaskan sisa pekerjaan dan berkata, kepada keduanya: "Selesaikanlah sisa waktu hari kalian ini dan bagi kalian berdua akan mendapatkan upah sebagaimana yang aku syaratkan kepada mereka. Maka mereka berdua mengerjakannya hingga ketika sampai saat shalat 'Ashar, keduanya berkata, " Tidaklah yang kami telah kerjakan sia-sia dan kamu wajib membayar upah seperti yang kamu janjikan kepada kami berdua". Maka orang itu berkata, kepada keduanya: "Selesaikanlah sisa pekerjaan kalian berdua yang tidak sampai separuh hari ini". Namun kedua orang itu enggan melanjutkannya. Lalu orang itu memperkerjakan suatu kaum yang mengerjakan sisa hari. Maka kaum itu mengerjakan sisa pekerjaan hingga terbenam matahari dan mereka mendapatkan upah secara penuh termasuk upah dari pekerjaan yang sudah dikerjakan oleh dua golongan orang sebelum mereka. Itulah perumpamaan mereka dan mereka ang menerima cahaya (Islam) ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2271</td></tr><tr><td>Arabic No</td><td>2271</td></tr><tr><td>Reference</td><td>Book 37 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Показать положение) мусульман, иудеев и христиан (можно) на примере человека, который нанял людей, чтобы они за определённую плату делали для него какую-то работу в течение дня до наступления ночи. И они работали на него до середины дня, а потом сказали: “Мы не нуждаемся в том вознаграждении, которое ты договорился (выплатить) нам, и (пусть) пропадёт (плата за) то, что мы уже сделали!” (На это) он сказал им: “Не делайте этого, а доведите вашу работу до конца и получите заработанное вами полностью!” — однако они отказались (сделать это) и покинули (его.) После них он нанял двух других, сказав им: “(Работайте) до конца этого дня, и вы получите то вознаграждение, которое я договорился (выплатить) им”. И (эти люди начали) работать, а когда настало время послеполуденной молитвы, они сказали: “(Пусть остаётся) тебе и то, что мы сделали, и та плата, которую ты нам назначил за это”. Он сказал этим двоим: “Доведите вашу работу до конца, ибо день уже скоро закончится”, но они отказались, и тогда он нанял (других) людей, чтобы они поработали для него остаток (этого) дня. И они работали остаток (этого) дня, пока не зашло солнце, полностью получив (за это) плату (и первых, и вторых. Вот с чем можно сравнить их положение и то, что им досталось из этого света»)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2271</td></tr><tr><td>Arabic No</td><td>2271</td></tr><tr><td>Reference</td><td>Book 37 Hadith 11</td></tr></tbody></table></div>
 

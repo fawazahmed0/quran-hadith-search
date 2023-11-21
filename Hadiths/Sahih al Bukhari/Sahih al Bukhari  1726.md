@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) (p.b.u.h) (got) his head shaved after
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib bin Abu Hamzah], [Nafi'] berkata; [Ibnu'Umar radliallahu 'anhuma] pernah berkata: "Rasulullah shallallahu 'alaihi wasallam mencukur rambut pada pelaksanaan haji Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1726</td></tr><tr><td>Arabic No</td><td>1726</td></tr><tr><td>Reference</td><td>Book 25 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Совершив свой хадж, Посланник Аллаха ﷺ обрил голову»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1726</td></tr><tr><td>Arabic No</td><td>1726</td></tr><tr><td>Reference</td><td>Book 25 Hadith 204</td></tr></tbody></table></div>
 

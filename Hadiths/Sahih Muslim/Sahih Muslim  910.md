@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this has been narrated by al-Hakam except that he said:" Bless Muh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>910</td></tr><tr><td>Arabic No</td><td>406.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса он сказал: «Пошли благословения Мухаммаду» /барик ‘аля Мухаммадин/, без слов: «О Аллах» /Аллахумма
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>910</td></tr><tr><td>Arabic No</td><td>406.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 72</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) had a mat which he used to spread during the d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah menceritakan kepada kami [Ibnu Abu Fudaik] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Al Maqburi] dari [Abu Salamah bin 'Abdurrahman] dari ['Aisyah], bahwa Nabi shallallahu 'alaihi wasallam memiliki tikar yang di waktu siang digelar, sedang pada waktu malam dijadikannya seperti dinding yang menutupi Beliau dari orang lain. Saat sedang shalat, orang-orang berkumpul ikut shalat di belakang Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>730</td></tr><tr><td>Arabic No</td><td>730</td></tr><tr><td>Reference</td><td>Book 10 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах: «У Пророка ﷺ была циновка, которую он расстилал днём и ограждался ею (от других) ночью, и люди стали стекаться к ней и молиться за нею»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>730</td></tr><tr><td>Arabic No</td><td>730</td></tr><tr><td>Reference</td><td>Book 10 Hadith 124</td></tr></tbody></table></div>
 

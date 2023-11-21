@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated through another chain of transmitters with a chang
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Ya'qub bin Abdurrahman Al Qari] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang bersedekah dengan sebutir kurma dari usaha yang halal, maka Allah akan menerimanya dengan tangan kanan-Nya, lalu diperlihara-Nya seperti kamu memelihara anak kambing atau anak unta, sehingga sedekahmu itu bertambah besar sebesar gunung atau lebih besar dari itu." Dan telah menceritakan kepadaku [Umayyah bin Bistham] Telah menceritakan kepada kami [Yazid] yakni Ibnu Zurai', Telah menceritakan kepada kami [Rauh bin Qasim] -dalam jalur lain- Dan telah menceritakannya kepadaku [Ahmad bin Utsman Al Audi] Telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepadaku [Sulaiman bin Bilal] keduanya dari [Suhail] dengan isnad ini, di dalam haditsnya Rauh disebutkan; Minal Kasbil Thayyib (dari penghasilan yang baik) lalu ia mengeluarkan haknya (zakatnya)." Sedangkan dalam hadits Sulaiman; "Lalu ia meletakkannya di tempatnya." Dan telah menceritakannya kepadaku [Abu Thahir] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Hisyam bin Sa'dari] dari [Zaid bin Aslam] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, sebagaimana hadits Ya'qub dari Suhail
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2344</td></tr><tr><td>Arabic No</td><td>1014.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис с другим иснадом подобен предыдущему, но с небольшими изменениями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2344</td></tr><tr><td>Arabic No</td><td>1014.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 81</td></tr></tbody></table></div>
 

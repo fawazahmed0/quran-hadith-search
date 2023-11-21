@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported Allah's Messenger (ﷺ) as saying that Allah, the Exalted and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dari [Al Ma'rur bin Suwaid] dari [Abu Dzar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Allah Azza wa Jalla berfirman: "Barang siapa berbuat kebaikan, maka baginya sepuluh kebaikan yang semisalnya dan terkadang Aku tambahkan lagi. Dan Barangsiapa yang berbuat keburukan, maka balasannya adalah keburukan yang serupa atau Aku mengampuninya. Barangsiapa mendekat kepada-Ku satu jengkal maka Aku akan mendekat kepada-Nya satu hasta, jika ia mendekat kepada-Ku satu hasta maka Aku akan mendekat kepadanya satu depa, dan jika ia mendatangi-Ku dengan berjalan maka Aku akan mendatanginya dengan berlari. Dan barangsiapa yang bertemu dengan-Ku dengan membawa kesalahan sebesar isi bumi tanpa menyekutukan-Ku dengan yang lainnya, maka Aku akan menemuinya dengan ampunan sebesar itu pula." Ibrahim berkata; telah menceritakan kepada kami Al Hasan bin Bisyr telah menceritakan kepada kami Waki' dengan hadits ini. Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dengan sanad ini dengan Hadits yang serupa. Hanya saja dia berkata dengan lafazh; 'maka baginya sepuluh kebaikan yang semisalnya bahkan lebih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6833</td></tr><tr><td>Arabic No</td><td>2687.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6833</td></tr><tr><td>Arabic No</td><td>2687.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 29</td></tr></tbody></table></div>
 

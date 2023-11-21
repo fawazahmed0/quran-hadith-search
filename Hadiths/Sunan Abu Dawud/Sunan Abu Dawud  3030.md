@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir bin ‘Abd Allah said that he was told by ‘Umar bin Al Khattab that he h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abu 'Ashim], dan [Abdurrazzaq], mereka berkata; telah mengabarkan kepada kami [Ibnu Juraij], telah mengabarkan kepadaku [Abu Az Zubair], bahwa ia mendengar [Jabir bin Abdullah] berkata; telah mengabarkan kepadaku [Umar bin Al Khathab] bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Sungguh aku akan mengeluarkan orang-orang yahudi dan nashrani dari Jazirah Arab. Dan tidak aku tinggalkan padanya kecuali orang muslim." Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abu Ahmad Muhammad bin Abdullah], telah menceritakan kepada kami [Sufyan], dari [Abu Az Zubair], dari [Jabir] dari [Umar], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ….. dengan makna yang sama dengannya, sedangkan hadits yang pertama lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim (1767)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>3030</td></tr><tr><td>Reference</td><td>Book 20 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, что он слышал, как Посланник Аллаха ﷺ сказал: «Я выселю из Аравии иудеев и христиан, и не оставлю в ней никого, кроме мусульман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim (1767)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>3030</td></tr><tr><td>Reference</td><td>Book 20 Hadith 103</td></tr></tbody></table></div>
 

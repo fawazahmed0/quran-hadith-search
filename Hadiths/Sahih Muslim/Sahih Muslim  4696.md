@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated by Buraida who heard it from his father that he joined the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ahmad bin Hanbal] telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dari [Kahmas] dari [Ibnu Buraidah] dari [ayahnya], bahwa dia berkata, bahwa dia pernah ikut berperang bersama Rasulullah shallallahu 'alaihi wasallam sebanyak enam belas kali peperangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4696</td></tr><tr><td>Arabic No</td><td>1814.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4696</td></tr><tr><td>Arabic No</td><td>1814.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 178</td></tr></tbody></table></div>
 

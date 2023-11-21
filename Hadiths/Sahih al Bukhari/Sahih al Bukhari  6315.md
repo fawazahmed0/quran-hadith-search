@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib:When Allah's Messenger (ﷺ) went to bed, he used to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] telah menceritakan kepada kami [Al 'Ala' bin Musayyib] dia berkata; telah menceritakan kepadaku [Ayahku] dari [Al Barra' bin Azib] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam hendak tidur, maka beliau berbaring ke sebelah kanan, kemudian beliau mengucapkan: 'ALLAHUMMA ASLAMTU NAFSI ILAIKA WAFAWADLTU AMRII ILAIKA WA ALJA'TU ZHAHRI ILAIKA RAHBATAN WA RAGHBATAN ILAIKA LAA MALJA'A WALAA MANJAA MINKA ILLA ILAIKA AMANTU BIKITAABIKA ALLADZII ANZALTA WA BINABIYYIKA ALLADZII ARSALTA (Ya AIlah ya Tuhanku, aku berserah diri kepada-Mu, aku serahkan urusanku kepada-Mu dan aku berlindung kepada-Mu dalam keadaan harap dan cemas, karena tidak ada tempat berlindung dan tempat yang aman dari adzab-Mu kecuali dengan berlindung kepada-Mu. Aku beriman kepada kitab-Mu yang telah Engkau turunkan dan aku beriman kepada Nabi-Mu yang telah Engkau utus).' Apabila kamu meninggal pada malam itu, maka kamu meninggal dalam keadaan fitrah (suci). -firman Allah "Istarhabuuhum" QS; Al A'raf; 116, diambil dari kata "rahbah (cemas) " seperti "malakuut" dari kata "mulk (kerajaan) " contoh "rahabuut (harap-harap cemas) " itu lebih baik dari "rahamuut (terlalu mengasihi) " kamu berkata; "Tarhabu" itu lebih baik dari "tarhamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6315</td></tr><tr><td>Arabic No</td><td>6315</td></tr><tr><td>Reference</td><td>Book 80 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ ибн ‘Азиб (да будет доволен Аллах ими обоими) сказал: «Когда Посланник Аллаха ﷺ отправлялся спать, он укладывался на правый бок, после чего говорил: “О Аллах, я предался Тебе, и обратил к Тебе лицо своё, и вручил Тебе дело своё, и на Тебя положился в стремлении к Тебе и из страха перед Тобой. Нет убежища и нет спасения от Тебя, кроме (обращения) к Тебе, уверовал я в Твоё Писание, которое Ты ниспослал, и вТвоего Пророка, которого Ты послал”.\n/Аллахумма, аслямту нафси илейка, ва ваджжахту ваджхи илейка, ва фаввадту амри илейка, ва альджаъту захри илейка, рагъбатан ва рахбатан илейка. Ля мальджаа ва ля манджа минка илля илейка, аманту би-китабика аллези анзальта ва набиййика аллези арсальта/ \nИ Посланник Аллаха ﷺ сказал: “Тот, кто произнесёт эти (слова), а потом умрёт в эту ночь, умрёт в своём естественном состоянии /фитра/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6315</td></tr><tr><td>Arabic No</td><td>6315</td></tr><tr><td>Reference</td><td>Book 80 Hadith 12</td></tr></tbody></table></div>
 

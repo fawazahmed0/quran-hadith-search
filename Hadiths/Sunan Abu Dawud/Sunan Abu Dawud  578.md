@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A man from Banu Asad b. Khuzaimah asked Abu Ayyub al-Ansari:if one of us prays i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] dia berkata; Saya telah membaca hadits pada [Ibnu Wahb] dia berkata; Telah mengabarkan kepadaku [Amru] dari [Bukair] bahwasanya dia telah mendengar [Afif bin Amru bin Al-Musayyib] dia berkata; Telah menceritakan kepada kami [Seorang lelaki dari Bani Asad bin Khuzaimah] bahwasanya dia pernah bertanya kepada [Abu Ayyub Al-Anshari], dia berkata; Seseorang di antara kami telah shalat di rumahnya, kemudian dia datang ke masjid dan iqamat shalat baru saja dikumandangkan, lalu saya shalat bersama mereka, tapi saya mendapatkan dalam diriku suatu ganjalan. Maka Abu Ayyub berkata; Kami pernah bertanya tentang itu kepada Nabi shallallahu 'alaihi wasallam, maka beliau menjawab: "Shalat itu baginya sebagai saham pahala berjama'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>578</td></tr><tr><td>Arabic No</td><td>578</td></tr><tr><td>Reference</td><td>Book 2 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Букайра о том, что он слышал как ‘Афиф ибн ‘Амр ибн аль-Мусаййиб говорил: "Мне сообщил один мужчина из племени Бану Асад ибн Хузайма о том, что однажды он обратился с вопросом к Абу Аййюбу аль-Ансари и сказал: «(Если) кто то из нас совершит у себя дома молитву, а затем придет в мечеть и там совершают (совместную) молитву, следует ли ему помолиться с ними? Я чувствую из-за этого в своей душе какое-то (сомнение)». И Абу Аййюб ответил: «Мы (тоже) спросили об этом у Пророка ﷺ и он сказал: “В этом для него объединятся (две) доли (вознаграждения)”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>578</td></tr><tr><td>Arabic No</td><td>578</td></tr><tr><td>Reference</td><td>Book 2 Hadith 188</td></tr></tbody></table></div>
 

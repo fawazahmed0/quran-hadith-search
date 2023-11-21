@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:A man asked the Prophet (ﷺ) "What deeds are the best?" The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Sulaiman] telah menceritakan kepada kami [Syu'bah] dari [Al Walid] (dalam jalur lain disebutkan) telah menceritakan kepadaku [Abbad bin Ya'qub Al Asadi] telah mengabarkan kepada kami [Abbad bin Al 'Awwam] dari [Asy Syaibani] dari [Al Walid bin 'Aizar] dari [Abu 'Amru dan Asy Syaibani] dari [Ibn Mas'ud] radliallahu 'anhu, bahwa seorang laki-laki pernah bertanya Nabi shallallahu 'alaihi wasallam, amalan apa yang paling utama? ' Nabi menjawab: "Shalat tepat pada waktunya, berbakti kepada kedua orang tua, dan jihad fi sabilillah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7534</td></tr><tr><td>Arabic No</td><td>7534</td></tr><tr><td>Reference</td><td>Book 97 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн Мас‘уда, да будет доволен им Аллах, что однажды некий мужчина спросил Пророка ﷺ: «Какие деяния являются наилучшими?» Он же ответил: «Совершенная вовремя молитва, проявление почтительности и доброты к обеим родителям, а затем борьба на пути Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7534</td></tr><tr><td>Arabic No</td><td>7534</td></tr><tr><td>Reference</td><td>Book 97 Hadith 159</td></tr></tbody></table></div>
 

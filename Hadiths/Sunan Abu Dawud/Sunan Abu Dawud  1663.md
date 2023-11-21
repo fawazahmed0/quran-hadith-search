@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’id al-Khudri said While we were traveling along with the Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Abdullah Al Khuza'i] dan [Musa bin Isma'il], mereka berkata; telah menceritakan kepada Kami [Abu Al Asyhab] dari [Abu Nadhrah] dari [Abu Sa'id Al Khudri], ia berkata; ketika Kami bersama Rasulullah shallAllahu wa'alaihi wa sallam dalam sebuah safar tiba-tiba terdapat seorang laki-laki yang datang menunggang untanya. Ia memalingkan unta tersebut ke kanan dan ke kiri, kemudian Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang memiliki kelebihan tunggangan maka hendaknya ia memberikan tunggangan kepada orang yang tidak memiliki tunggangan, dan barang siapa yang memiliki kelebihan perbekalan maka hendaknya ia memberikan perbekalan kepada orang yang tidak memiliki perbekalan." Hingga Kami menyangka bahwa tidak ada seorangpun diantara Kami terhadap sesuatu yang lebih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1728)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1663</td></tr><tr><td>Arabic No</td><td>1663</td></tr><tr><td>Reference</td><td>Book 9 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт: «Однажды, когда мы с Посланником Аллаха ﷺ были в пути, приехал один человек на своей верблюдице и стал поворачивать её направо и налево. Тогда Посланник Аллаха ﷺ сказал: “У кого есть лишнее верховое животное, пусть отдаст его тому, у кого нет верхового животного. И у кого есть излишек запасов, пусть отдаст их тому, у кого нет запасов”. И мы подумали, что никто из нас не имеет права оставлять у себя излишки чего-либо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1728)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1663</td></tr><tr><td>Arabic No</td><td>1663</td></tr><tr><td>Reference</td><td>Book 9 Hadith 108</td></tr></tbody></table></div>
 

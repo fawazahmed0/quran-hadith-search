@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:I applied the best perfume, which I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakannya kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Utsman bin Urwah] ia berkata, saya mendengar [Urwah] menceritakan dari [Aisyah] radliallahu 'anha, ia berkata; Aku memakaikan harum-haruman untuk Rasulullah shallallahu 'alaihi wasallam dengan harum-haruman terbaik yang aku dapatkan, yakni sebelum beliau Ihram. Setelah itu, baru beliau melakukan Ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2830</td></tr><tr><td>Arabic No</td><td>1189.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2830</td></tr><tr><td>Arabic No</td><td>1189.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 40</td></tr></tbody></table></div>
 

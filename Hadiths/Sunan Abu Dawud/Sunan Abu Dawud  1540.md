@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said:The Messenger of Allah (ﷺ) used to say: "O Allah, I seek re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2823) Sahih Muslim (2706)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1540</td></tr><tr><td>Arabic No</td><td>1540</td></tr><tr><td>Reference</td><td>Book 8 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ часто говорил: «О Аллах, поистине, я ищу у Тебя защиты от слабости, лени, трусости, скупости и старческой дряхлости, и я ищу у Тебя защиты от мучений могилы, и я ищу у Тебя защиты от испытаний жизни и смерти! /Аллахумма, инни а‘узу би-ка мин аль-‘аджзи, ва-ль-касали, ва-ль-джубни, ва-ль-бухли ва-ль-харами, ва а‘узу би-ка мин ‘азаби-ль-кабри, ва а‘узу би-ка мин фитнати-ль-махйа ва-ль-мамат/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2823) Sahih Muslim (2706)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1540</td></tr><tr><td>Arabic No</td><td>1540</td></tr><tr><td>Reference</td><td>Book 8 Hadith 125</td></tr></tbody></table></div>
 

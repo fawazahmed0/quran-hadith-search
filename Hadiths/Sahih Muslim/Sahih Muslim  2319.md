@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this has been narrated on the authority of Zainab the wife of 'Abd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2319</td></tr><tr><td>Arabic No</td><td>1000.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Зайнаб сказала: «(Однажды) я была в мечети, и меня увидел Пророк ﷺ, который сказал: “(О женщины,) подавайте милостыню, даже если вам (придётся пожертвовать для этого) своими украшениями”». Далее подобно предыдущему хадису
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2319</td></tr><tr><td>Arabic No</td><td>1000.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
 

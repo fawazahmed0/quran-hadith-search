@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I heard Allah's Messenger (ﷺ) on the pulpit sayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah bercerita kepadaku [Salim bin 'Abdullah] bahwa ['Abdullah bin 'Umar radliallahu 'anhuma] berkata, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda saat beliau berdiri di mimbar: "Ketahuilah, sesungguhnya fitnah akan timbul dari sana". Beliau memberi isyarat ke arah timur, tempat terbit tanduk setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3511</td></tr><tr><td>Arabic No</td><td>3511</td></tr><tr><td>Reference</td><td>Book 61 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды, стоя на минбаре, Пророк ﷺ сказал, указывая на восток: «Поистине, смута — вот здесь, откуда выходит рог шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3511</td></tr><tr><td>Arabic No</td><td>3511</td></tr><tr><td>Reference</td><td>Book 61 Hadith 21</td></tr></tbody></table></div>
 

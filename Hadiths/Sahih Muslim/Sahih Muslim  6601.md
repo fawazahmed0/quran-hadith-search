@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of Allah's Apostle (ﷺ), reported that Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya At Tujibi]; Telah mengabarkan kepada kami ['Abdullah bin Wahb]; Telah mengabarkan kepadaku [Haiwah]; Telah menceritakan kepadaku [Ibnu Al Had] dari [Abu Bakr bin Hazm] dari ['Amrah] yaitu putri 'Abdur Rahman dari ['Aisyah] istri Nabi shallallahu 'alaihi wasallam bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Hai Aisyah, sesungguhnya Allah itu Maha Lembut. Dia mencintai sikap lemah lembut. Allah akan memberikan pada sikap lemah lembut sesuatu yang tidak Dia berikan pada sikap yang keras dan juga akan memberikan apa-apa yang tidak diberikan pada sikap lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6601</td></tr><tr><td>Arabic No</td><td>2593</td></tr><tr><td>Reference</td><td>Book 45 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6601</td></tr><tr><td>Arabic No</td><td>2593</td></tr><tr><td>Reference</td><td>Book 45 Hadith 99</td></tr></tbody></table></div>
 

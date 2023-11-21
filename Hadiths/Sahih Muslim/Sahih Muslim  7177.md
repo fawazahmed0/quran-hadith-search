@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdu bin Humaid] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Syaiban] dari [Qatadah] telah menceritakan kepada kami [Anas bin Malik] nabi Allah Shallallahu 'alaihi wa Salam bersabda: "Neraka jahanam selalu berkata: 'Masih adakah tambahan? ' hingga Rabb pemilik keagungan Tabaraka wa Ta'ala meletakkan kakiNya lalu neraka berkata: 'Cukup, cukuip, demi keagunganMu.' Sebagaiannya dihimpun pada sebagaian yang lain." Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdushshamad bin Abdulwarits] telah menceritakan kepada kami [Aban bin Yazid Al Aththar] telah menceritakan kepada kami [Qatadah] dari [Anas] dari nabi Shallallahu 'alaihi wa Salam seperti makna hadits Syaiban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7177</td></tr><tr><td>Arabic No</td><td>2848.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7177</td></tr><tr><td>Arabic No</td><td>2848.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 46</td></tr></tbody></table></div>
 

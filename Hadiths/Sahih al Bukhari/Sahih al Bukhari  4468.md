@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father:The Prophet (ﷺ) appointed Usama as the commander of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim Adl Dlahak bin Makhlad] dari [Al Fudlail bin Sulaiman] Telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Salim] dari [Bapaknya]; Nabi shallallahu 'alaihi wasallam mengangkat Usamah sebagai komandan pasukan, maka para sahabat pun banyak yang tidak setuju. Lalu beliau bersabda: "Aku mendengar kalian mengatakan sesuatu yang tidak baik tentang Usamah, sesungguhnya dia adalah orang yang sangat aku cintai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4468</td></tr><tr><td>Arabic No</td><td>4468</td></tr><tr><td>Reference</td><td>Book 64 Hadith 483</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салим передал от своего отца, что когда Пророк ﷺ послал (в поход отряд), назначив командовать им Усаму, некоторые люди стали высказывать недовольство (в связи с таким назначением), и тогда Пророк ﷺ сказал: «До меня дошло, что говорите плохо о Усаме. Он является одним из самых любимых для меня людей!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4468</td></tr><tr><td>Arabic No</td><td>4468</td></tr><tr><td>Reference</td><td>Book 64 Hadith 483</td></tr></tbody></table></div>
 

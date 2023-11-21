@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The people of the Scripture (Jews) used to recite the Torah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami ['Utsman bin 'Umar] Telah mengabarkan kepada kami ['Ali Al Mubarak] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata; "Orang-orang ahlu kitab membaca Taurat dengan bahasa Ibrani dan menjelaskannya kepada orang-orang Islam dengan bahasa arab. Melihat hal itu Rasulullah shallallahu 'alaihi wasallam bersabda: Janganlah kalian mempercayai ahlu kitab dan jangan pula mendustakannya. Tetapi ucapkanlah; "Kami beriman kepada Allah dan kepada apa yang telah diturunkan kepada kami. (Al Baqarah;)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4485</td></tr><tr><td>Arabic No</td><td>4485</td></tr><tr><td>Reference</td><td>Book 65 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал:\n— Люди Писания читали Тору по-древнееврейски и толковали её по-арабски мусульманам, (в связи с чем) Посланник Аллаха ﷺ сказал: «Не верьте людям Писания и не обвиняйте их во лжи, а говорите: “Мы уверовали в Аллаха и в то, что Он ниспослал нам…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4485</td></tr><tr><td>Arabic No</td><td>4485</td></tr><tr><td>Reference</td><td>Book 65 Hadith 12</td></tr></tbody></table></div>
 

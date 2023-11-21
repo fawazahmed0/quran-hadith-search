@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported:This is what Abu Huraira reported to us from Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; ini adalah yang pernah diceritakan oleh [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, kemudian dia menyebutkan hadits yang di antaranya adalah, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Allah, sungguh, orang yang berkeras hati untuk tetap melaksanakan sumpahnya, padahal sumpah tersebut dapat membahayakan keluarganya, maka dosanya lebih besar di sisi Allah daripada dia membayar denda yang diwajibkan oleh Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4291</td></tr><tr><td>Arabic No</td><td>1655</td></tr><tr><td>Reference</td><td>Book 27 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4291</td></tr><tr><td>Arabic No</td><td>1655</td></tr><tr><td>Reference</td><td>Book 27 Hadith 38</td></tr></tbody></table></div>
 

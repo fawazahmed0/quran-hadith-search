@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Shu'ayb ibn Zurayq at-Ta'ifi said:I sat with a man who had been in the company o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'd bin Manshur] telah menceritakan kepada kami [Syihab bin Khirasy] telah menceritakan kepadaku [Syu'aib bin Zuraiq Ath Tha'ifi] dia berkata; "Aku duduk di samping seorang sahabat Rasulullah shallallahu 'alaihi wasallam yang bernama [Al Hakam bin Hazn Al Kulafi], lalu dia menceritakan kepada kami, katanya; "Aku pernah menemui Rasulullah shallallahu 'alaihi wasallam bersama dengan tujuh atau sembilan orang, setelah kami masuk menemui beliau, kami bertanya; "Wahai Rasulullah, kami mengunjungi anda, oleh karena itu, do'akanlah kebaikan untuk kami." Maka beliau memerintahkan supaya kami di suguhi kurma, pada waktu itu, kondisi dalam situasi lemah. Kami pun tinggal di Madinah beberapa hari, kami juga mengikuti pelaksanaan shalat Jum'at bersama Rasulullah shallallahu 'alaihi wasallam, saat itu beliau berdiri bertopang pada tongkat atau busur, lalu beliau memuji Allah dan menyanjung-Nya dengan beberapa patah kata ringan, baik lagi penuh berkah, beliau bersabda: "Wahai sekalian manusia, sesungguhnya kalian tidak akan mampu mengerjakan semua yang di perintahkan kalian, akan tetapi bertindaklah yang benar dan berilah kabar gembira." Abu Ali berkata; "Aku mendengar Abu Daud berkata; "Para sahabat kami telah meneguhkan sesuatu dari hadits tersebut, sebab kertas-kertas telah terputus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>1096</td></tr><tr><td>Reference</td><td>Book 2 Hadith 707</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Хакам ибн Хазн аль-Куляфи, да будет доволен им Аллах, один и сподвижников Посланника Аллаха ﷺ передаёт: «Я прибыл к Посланнику Аллаха ﷺ в составе делегации из семи или девяти человек. Мы вошли к нему и сказали: “О Посланник Аллаха! Мы пришли навестить тебя, так обратись же к Аллаху с благими мольбами за нас”. И он велел дать нам немного фиников, а положение тогда у всех было сложным. Мы прожили там несколько дней и совершили пятничную молитву вместе с посланником Аллаха ﷺ. Он встал, опираясь на палку или лук, и восхвалил Аллаха немногими, но благами и благодатными словами, после чего сказал: “О люди! Вы никогда не сможете делать всё, что вам велено, однако старайтесь и радуйтесь (благой вести)”». Абу ‘Али сказал: «Я слышал, как Абу Дауд говорил: “Один из наших товарищей утвердил меня в некой части этого хадиса, которая пропала из моих записей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>1096</td></tr><tr><td>Reference</td><td>Book 2 Hadith 707</td></tr></tbody></table></div>
 

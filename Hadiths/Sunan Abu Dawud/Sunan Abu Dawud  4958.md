@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Samurah b. Jundub reported the Messenger of Allah (May peace be upon him) as say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Manshur Ibnul Mu'tamir] dari [Hilal bin Yasaf] dari [Rabi' bin Umailah] dari [Samurah bin Jundub] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan sekali-kali engkau beri nama budakmu dengan nama Yasar (mudah), Rabah (beruntung), Najih (selamat), atau Aflah (beruntung). Sebab engkau akan bertanya apakah ada orang yang bernama demikian?" lalu ia menjawab, "Tidak." (Samurah berkata;) nama-nama itu (yang terlarang untuk budak) hanya empat, maka janganlah engkau tambahkan (kedustaan) atas namaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2137)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4958</td></tr><tr><td>Arabic No</td><td>4958</td></tr><tr><td>Reference</td><td>Book 43 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2137)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4958</td></tr><tr><td>Arabic No</td><td>4958</td></tr><tr><td>Reference</td><td>Book 43 Hadith 186</td></tr></tbody></table></div>
 

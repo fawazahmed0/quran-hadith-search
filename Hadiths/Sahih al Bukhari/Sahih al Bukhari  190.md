@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sa'ib bin Yazid:My aunt took me to the Prophet (ﷺ) and said, "O Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepada kami ['Abdurrahman bin Yunus] berkata, telah menceritakan kepada kami [Hatim bin Isma'il] dari [Al Ja'd] berkata, aku mendengar [As Sa'ib bin Yazid] berkata, "Bibiku pergi bersamaku menemui Nabi shallallahu 'alaihi wasallam, lalu ia berkata, "Wahai Rasulullah, sesungguhnya putra saudara perempuanku ini sedang sakit." Maka Nabi shallallahu 'alaihi wasallam mengusap kepalaku dan memohonkan keberkahan untukku. Kemudian beliau berwudlu, maka aku pun minum dari sisa air wudlunya, kemudian aku berdiri di belakangnya hingga aku melihat ada tanda kenabian sebesar telur burung di pundaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>190</td></tr><tr><td>Arabic No</td><td>190</td></tr><tr><td>Reference</td><td>Book 4 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Са‘иб бин Язид, да будет доволен им Аллах, сказал: «(Однажды) моя тётка со стороны матери привела меня к Пророку ﷺ которому сказала: “О Посланник Аллаха, сын моей сестры заболел!” − а он погладил меня по голове и призвал на меня благословение. Затем (Пророк ﷺ) совершил омовение, а я выпил остаток воды, которую он использовал, после чего встал у него за спиной и увидел у него между лопаток печать пророчества, по виду подобную яйцу куропатки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>190</td></tr><tr><td>Arabic No</td><td>190</td></tr><tr><td>Reference</td><td>Book 4 Hadith 56</td></tr></tbody></table></div>
 

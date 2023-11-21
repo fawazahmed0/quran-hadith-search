@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:The Messenger of Allah (ﷺ) used to observe prayers li
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1454</td></tr><tr><td>Arabic No</td><td>643.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 287</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн Самура сказал: «Посланник Аллаха ﷺ совершал молитвы подобно тому, как совершаете вы, но он откладывал вечернюю молитву на некоторое время после того, как вы её совершали, и он сокращал время молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1454</td></tr><tr><td>Arabic No</td><td>643.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 287</td></tr></tbody></table></div>
 

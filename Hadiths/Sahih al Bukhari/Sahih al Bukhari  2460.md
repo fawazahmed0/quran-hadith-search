@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Hind bint 'Utba (Abu Sufyan's wife) came and said, "O Allah's Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] telah menceritakan kepadaku ['Urwah] dari ['Aisyah radliallahu 'anha] berkata; Hindun binti 'Utbah datang menemui Rasulullah shallallahu 'alaihi wasallam lalu berkata: "Abu Sufyan adalah seorang yang kikir, apakah aku berdosa bila aku ambil dari hartanya untuk memberi makan keluarga kami? '. Maka Beliau bersabda: "Tidak dosa atasmu jika kamu beri makan mereka dengan cara yang ma'ruf (wajar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2460</td></tr><tr><td>Arabic No</td><td>2460</td></tr><tr><td>Reference</td><td>Book 46 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Как-то раз пришла Хинд бинт ‘Утба ибн Раби‘а и сказала: “О Посланник Аллаха! Поистине, Абу Суфйан — человек скупой, так будет ли грехом, если я стану кормить нашу семью из того, что принадлежит ему?” Он сказал ей: “Нет греха на тебе в том, что ты будешь кормить их сообразно обычаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2460</td></tr><tr><td>Arabic No</td><td>2460</td></tr><tr><td>Reference</td><td>Book 46 Hadith 21</td></tr></tbody></table></div>
 

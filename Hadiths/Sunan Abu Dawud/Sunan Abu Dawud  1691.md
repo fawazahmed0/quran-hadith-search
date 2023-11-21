@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurayrah: The Prophet (ﷺ) commanded to give sadaqah. A man said: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Katsir], telah mengabarkan kepada Kami [Sufyan] dari [Muhammad bin 'Ajlan] dari [Al Maqburi] dari [Abu Hurairah], ia berkata; Nabi shallallahu 'alaihi wasallam memerintahkan untuk bersedekah. Kemudian seorang laki-laki berkata; wahai Rasulullah, aku memiliki uang satu dinar. Kemudian beliau bersabda: "Sedekahkan kepada dirimu!" Ia berkata; aku memiliki yang lain. Beliau bersabda: "Sedekahkan kepada anakmu!" Ia berkata; aku memiliki yang lain. Beliau bersabda: "Sedekahkan kepada isterimu!" Ia berkata; aku memiliki yang lain. Beliau bersabda: "Sedekahkan kepada pembantumu!" Ia berkata; aku memiliki yang lain. Beliau bersabda: "Engkau lebih tahu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1691</td></tr><tr><td>Arabic No</td><td>1691</td></tr><tr><td>Reference</td><td>Book 9 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что однажды Пророк ﷺ велел людям подавать милостыню. Тогда один человек сказал: «У меня есть динар». Пророк ﷺ сказал ему: «Потрать его на себя». Этот человек сказал: «У меня есть ещё один». Он сказал: «Потрать его на своих детей». Он сказал: «У меня есть ещё один». Он сказал: «Потрать его на свою жену». Этот человек сказал: «У меня есть ещё один». Он сказал: «Потрать его на своего слугу». Этот человек сказал: «У меня есть ещё один». Пророк ﷺ сказал: «Ты лучше знаешь, куда его потратить*»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1691</td></tr><tr><td>Arabic No</td><td>1691</td></tr><tr><td>Reference</td><td>Book 9 Hadith 136</td></tr></tbody></table></div>
 

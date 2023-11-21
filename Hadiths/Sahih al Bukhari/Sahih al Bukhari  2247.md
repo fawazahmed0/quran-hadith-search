@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Al-Bakhtari:I asked Ibn 'Umar about Salam (the fruits of) date-palm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari ['Amru] dari [Abu Al Bakhtariy] berkata: "Aku bertanya kepada [Ibnu'Umar radliallahu 'anhuma] tentang As-Salam pada pohon kurma. Maka dia berkata: "Dilarang menjual pohon kurma hingga buahnya baik (bisa dimakan) dan dilarang pula menjual emas dengan cara tempo". Dan aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhu] tentang As-Salam pada pohon kurma. Maka dia menjawab: "Nabi shallallahu 'alaihi wasallam melarang jual beli pohon kurma hingga buahnya bisa dimakan atau dapat dimakan dan hingga ditimbang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2247</td></tr><tr><td>Arabic No</td><td>2247</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу аль-Бахтари сказал: «Я спросил Ибн ‘Умара, да будет доволен Аллах им и его отцом, о предварительной оплате (салям) за финики на пальмах, и он ответил: “Было запрещено продавать финики на пальмах до тех пор, пока они не станут пригодны для еды, а также продажу серебра (за золото) в рассрочку”. И я спросил Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, о предварительной оплате (салям) за финики на пальмах, и он ответил: “Пророк ﷺ запретил продавать финики на пальмах до тех пор, пока они не станут пригодны для еды и не будут взвешены”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2247</td></tr><tr><td>Arabic No</td><td>2247</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

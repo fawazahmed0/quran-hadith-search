@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah reported the Prophet (ﷺ) as saying:One who is skilled in the Qur'an is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muslim bin Ibrahim], telah menceritakan kepada Kami [Hisyam] dan [Hammam] dari [Qatadah] dari [Zurarah bin Aufa] dari [Sa'd bin Hisyam] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Orang yang membaca Al Qur'an dan ia pandai membacanya maka ia bersama para malaikat yang mulia, dan orang yang membaca Al Qur'an sedangkan ia mengalami kesulitan dalam membacanya maka baginya dua pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4937) Sahih Muslim (897)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1454</td></tr><tr><td>Arabic No</td><td>1454</td></tr><tr><td>Reference</td><td>Book 8 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Хорошо читающий Коран будет с благородными и покорными посланцами. А того, кто читает Коран, испытывая при этом затруднения, ожидает двойная награда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4937) Sahih Muslim (897)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1454</td></tr><tr><td>Arabic No</td><td>1454</td></tr><tr><td>Reference</td><td>Book 8 Hadith 39</td></tr></tbody></table></div>
 

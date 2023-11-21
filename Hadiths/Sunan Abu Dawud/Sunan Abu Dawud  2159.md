@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The aforesaid tradition has also been transmitted by Ibn Ishaq through a differe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili], telah menceritakan kepada kami [Muhammad bin Salamah], dari [Muhammad bin Ishaq], telah menceritakan kepadaku [Yazid bin Abu Habib] dari [Abu Marzuq] dari [Hanasy Ash Shan'ani], dari [Rufaifi' bin Tsabit Al Anshari], ia berkata ketika berkhutbah kepada kami; ketahuilah bahwa aku tidak berbicara kepada kalian kecuali apa yang aku dengar dari Rasulullah shallallahu 'alaihi wasallam. Pada saat perang Hunain beliau berkata: "Tidak halal bagi orang yang beriman kepada Allah dan Hari Akhir untuk menyiramkan airnya kepada tanaman orang lain -yaitu menggauli wanita-wanita yang sedang hamil", dan tidak halal bagi seseorang yang beriman kepada Allah dan Hari Akhir untuk menggauli wanita tawanan hingga ia membiarkannya mengalami haid, dan tidaklah halal bagi seseorang yang beriman kepada Allah dan Hari Akhir untuk menjual harta rampasan perang hingga harta tersebut telah dibagikan." Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Abu Mu'awiyah] dari [Ibnu Ishaq], dengan hadits ini. Ia berkata; hingga membiarkannya mengalami satu kali haid. Ia menambahkan kata; satu kali haid. Hal tersebut merupakan suatu kesalahan dari Abu Mu'awiyah, dan hal itu adalah benar dalam hadits Abu Sa'id, ia tambahkan kata: "Barangsiapa yang beriman kepada Allah dan Hari Akhir, maka janganlah ia mengendarai hewan yang berasal dari harta rampasan perang orang-orang muslim, dan ketika telah menjadi kurus dan lemah maka ia mengembalikannya kepada harta rampasan tersebut. Dan barangsiapa yang beriman kepada Allah dan Hari Akhir maka janganlah ia memakai pakaian yang berasal dari rampasan perang orang-orang muslim, dan ketika telah usang ia mengembalikannya ke dalam rampasan perang tersebut." Abu Daud berkata; kata satu kali haid bukanlah sesuatu yang dihafal, hal itu adalah kesalahan dari Abu Mu'awiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>2159</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Исхак передал этот хадис с добавлением: «Кто верует в Аллаха и в Последний день, пусть не ездит на верховом животном, которое является частью добычи мусульман. Он доводит его до изнеможения, а потом возвращает обратно в добычу! Кто верует в Аллаха и в Последний день, пусть не надевает одежду, которая является частью добычи мусульман. Он износит её, а потом возвращает в добычу мусульман!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>2159</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
 

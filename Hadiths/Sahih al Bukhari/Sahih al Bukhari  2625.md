@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) gave the verdict that 'Umra is for the one to w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari [Jabir radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam menetapkan bahwa 'umra adalah milik orang yang diberi hibah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2625</td></tr><tr><td>Arabic No</td><td>2625</td></tr><tr><td>Reference</td><td>Book 51 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Пророк ﷺ вынес решение о том, что (подаренное как) “‘умра” принадлежит тому, кто получил это в подарок»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2625</td></tr><tr><td>Arabic No</td><td>2625</td></tr><tr><td>Reference</td><td>Book 51 Hadith 57</td></tr></tbody></table></div>
 

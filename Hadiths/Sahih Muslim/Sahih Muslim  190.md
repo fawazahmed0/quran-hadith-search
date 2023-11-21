@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reporter on the authority of Abu Huraira that the Messenger of Allah (may 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [al-A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Telah datang penduduk Yaman kepada kalian, mereka adalah orang yang paling halus hatinya, dan paling lembut hatinya. Iman ada pada orang Yaman dan hikmah ada pada orang Yaman, sementara pokok kekufuran ada pada arah timur (kaum Majusi)." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Jarir] dari [al-A'masy] dengan sanad ini, dan dia tidak menyebutkan, 'Pokok kekufuran ada pada arah timur.' Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Bisyr bin Khalid] telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Ja'far- keduanya berkata, telah menceritakan kepada kami [Syu'bah] dari [al-A'masy] dengan sanad ini seperti hadits Jarir, dan dia menambahkan, 'Kebanggaan dan kesombongan ada pada penggembala unta, sedangkan ketenangan ada pada penggembala kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>190</td></tr><tr><td>Arabic No</td><td>52.09</td></tr><tr><td>Reference</td><td>Book 1 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Пришли к вам люди из Йемена, сердца которых являются более мягкими и тонкими, (чем сердца других людей). Вера /иман/ в Йемене, и йеменцам присуща мудрость. Вершина неверия же (находится) на востоке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>190</td></tr><tr><td>Arabic No</td><td>52.09</td></tr><tr><td>Reference</td><td>Book 1 Hadith 97</td></tr></tbody></table></div>
 

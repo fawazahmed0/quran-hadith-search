@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Samura b. Jundub reported Allah's Apostle (may peace -be upon him) as saying:The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Syaiban bin Abdurrahman] berkata: Berkata [Qatadah]: Aku mendengar [Abu An Nadhrah] menceritakan dari [Samurah], ia mendengar nabi Allah bersabda: "Sesungguhnya diantara mereka ada yang terkena api neraka hingga mata kakinya, ada yang terkena api neraka hingga tempat ikat pinggang dan ada yang terkena api neraka hingga leher
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7169</td></tr><tr><td>Arabic No</td><td>2845.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7169</td></tr><tr><td>Arabic No</td><td>2845.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 38</td></tr></tbody></table></div>
 

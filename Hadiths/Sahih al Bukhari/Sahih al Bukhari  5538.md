@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:A mouse fell into the butter-fat and died. The Prophet (ﷺ) wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Az Zuhri] dia berkata; telah mengabarkan kepadaku ['Ubaidullah bin Abdullah bin 'Utbah] bahwa dia mendengar [Ibnu Abbas] pernah menceritakan kepadanya dari [Maimunah] bahwa seekor tikus terjatuh di minyak samin dan mati, lantas Nabi shallallahu 'alaihi wasallam ditanya mengenai hal itu, beliau bersabda: "Buanglah tikus itu dan sesuatu yang ada di sekitarnya, lalu makanlah minyak samin tersebut." Dikatakan kepada Sufyan; "Sesungguhnya Ma'mar menceritakan hadits tersebut dari Az Zuhri dari Sa'id bin Musayyab dari Abu Hurairah, Sufyan menjawab; "Aku tidak pernah mendengar Az Zuhri meriwayatkan kecuali dari Ubaidullah dari Ibnu Abbas dari Maimunah dari Nabi shallallahu 'alaihi wasallam, sungguh aku telah berulang kali mendengar darinya seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5538</td></tr><tr><td>Arabic No</td><td>5538</td></tr><tr><td>Reference</td><td>Book 72 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Маймуна, да будет доволен ею Аллах, сказала: «Мышь упала в масло и умерла там. Об этом спросили Пророка ﷺ, на что он сказал: “Достаньте и выбросьте (мышь) со всем тем, что вокруг неё есть, и ешьте остальное (масло)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5538</td></tr><tr><td>Arabic No</td><td>5538</td></tr><tr><td>Reference</td><td>Book 72 Hadith 63</td></tr></tbody></table></div>
 

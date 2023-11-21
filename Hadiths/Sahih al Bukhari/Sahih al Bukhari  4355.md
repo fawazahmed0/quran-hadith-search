@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:In the Pre-lslamic Period of Ignorance there was a house called D
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Khalid] Telah menceritakan kepada kami [Bayan] dari [Qais] dari [Jarir] dia berkata; Pada masa Jahiliyah ada sebuah rumah yang diberi nama Dzul Khalshah, rumah itu biasa disebut dengan Al Ka'bah Al Yamaniyah dan Al Ka'bah As Sya'miyah. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Bisakah kamu menyenangkanku dengan menghancurkan Dzil Khalashah? Kata Jabir; lalu aku berangkat dengan seratus lima puluh pasukan berkuda yang tangguh. Kami hancurkan dan kami bunuh orang-orang yang berada di sekitarnya. Kemudian aku kembali mengabarkan keberhasilannya kepada Rasulullah shallallahu 'alaihi wasallam, dan Rasulullah pun mendo'akan kepada kami dan para penunggang kuda yang tangguh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4355</td></tr><tr><td>Arabic No</td><td>4355</td></tr><tr><td>Reference</td><td>Book 64 Hadith 381</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир сказал: «В доисламский период невежества был дом, называемый Зуль-Халяса, так же его называли Йеменской Каабой и Шамийской Каабой. (Однажды) Пророк ﷺ сказал мне: “Не избавишь ли ты меня от Зуль-Халясы?”».\n(Джарир) сказал: «И я отправился (туда с отрядом из) ста пятидесяти всадников (из племени ахмас). Мы разрушили её и убили тех, кого обнаружили около неё. Затем мы прибыли к Пророку ﷺ и сообщили об этом, а он призвал благословение на нас и на ахмаситов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4355</td></tr><tr><td>Arabic No</td><td>4355</td></tr><tr><td>Reference</td><td>Book 64 Hadith 381</td></tr></tbody></table></div>
 

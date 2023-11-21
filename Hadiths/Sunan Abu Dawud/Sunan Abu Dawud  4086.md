@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:A man was praying with his lower garment hanging down. The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Aban] berkata, telah menceritakan kepada kami [Yahya] dari [Abu Ja'far] dari [Atha bin Yasar] dari [Abu Hurairah] ia berkata, "Ketika ada seorang laki-laki yang shalat sambil menjulurkan kainnya, Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Pergi dan berwudhulah." Laki-laki itu lantas pergi berwudhu kemudian kembali lagi, namun beliau tetap bersabda: "Pergi dan berwudhulah." Lalu ada seorang laki-laki bertanya kepada beliau, "Wahai Rasulullah, ada apa denganmu, engkau suruh dia berwudhu kemudian engkau diamkan?" beliau menjawab, "Laki-laki itu shalat dengan menjulurkan kain sarungnya, padahal Allah tidak menerima shalat seseorang yang menjulurkan kain sarungnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4086</td></tr><tr><td>Arabic No</td><td>4086</td></tr><tr><td>Reference</td><td>Book 34 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах: «Когда один человек, изар которого был опущен ниже щиколоток, молился, Посланник Аллаха ﷺ сказал ему: “Пойди и соверши малое омовение”. Он пошёл и совершил малое омовение. Когда он вернулся, (Посланник Аллаха ﷺ снова) сказал ему: “Пойди и соверши малое омовение”. Другой человек спросил: “О Посланник Аллаха! Почему ты велел ему совершить малое омовение, а потом ничего не говоришь ему (о причине)?” (Посланник Аллаха ﷺ) сказал: “Он совершал молитву в опущенном (ниже щиколоток) изаре, а Аллах не принимает молитву того, кто опускает изар”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4086</td></tr><tr><td>Arabic No</td><td>4086</td></tr><tr><td>Reference</td><td>Book 34 Hadith 67</td></tr></tbody></table></div>
 

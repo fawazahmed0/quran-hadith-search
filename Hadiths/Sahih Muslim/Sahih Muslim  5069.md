@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Al Barâ' Ibn 'Azib (que Dieu l'agrée) : Mon oncle maternel Abou Burda
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Khalid bin Abdullah] dari [Mutharif] dari ['Amir] dari [Al Barra'] dia berkata, "Pamanku, Abu Burdah, pernah menyembelih sebelum melaksanakan shalat Iedul Adlha, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Itu adalah kambing yang disembelih untuk dagingnya." Pamanku berkata, "Ya Rasulullah, aku punya memiliki seekor kambing muda." Beliau bersabda: "Sembelihlah, dan ini hanya khusus kamu bukan untuk yang lain." Kemudian beliau melanjutkan sabdanya: "Barangsiapa berkurban sebelum shalat (Iedul Adlha), dia hanya menyembelih untuk dirinya sendiri, dan barangsiapa menyembelih setelah shalat (Iedul Adlha), maka sempurnalah ibadahnya dan dia telah melaksanakan sunnah kaum Muslimin dengan tepat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5069</td></tr><tr><td>Arabic No</td><td>1961.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5069</td></tr><tr><td>Arabic No</td><td>1961.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 6</td></tr></tbody></table></div>
 

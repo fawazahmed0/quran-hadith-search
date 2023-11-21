@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid:Ibn 'Abbas said, "Allah ordered His Prophet to celebrate Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Warqa] dari [Ibnu Abu Najih] dari [Mujahid] ia berkata; [Ibnu Abbas] menyuruhnya untuk bertashbih di akhir semua shalat sebagaimana maksud firman Allah: Dan bertasbihlah kamu kepada-Nya di malam hari dan setiap selesai sembahyang. (Qaaf:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4852</td></tr><tr><td>Arabic No</td><td>4852</td></tr><tr><td>Reference</td><td>Book 65 Hadith 373</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Муджахида, что Ибн ‘Аббас сказал: «Аллах приказал Пророку ﷺ прославлять Его после всех молитв». Имея ввиду Его слова: «…и после земных поклонов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4852</td></tr><tr><td>Arabic No</td><td>4852</td></tr><tr><td>Reference</td><td>Book 65 Hadith 373</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim bin Abi Aj-Jad:Jabir bin 'Abdullah said, "The people became very 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami ['Abdul 'Aziz bin Muslim] telah bercerita kepada kami [Hushain] dari [Salim bin Abu Al Ja'di] dari [Jabir bin Abdullah radliallahu 'anhu] berkata; "Pada saat peristiwa Hudaibiyah, orang-orang merasa kehausan sementara Nabi shallallahu 'alaihi wasallam di hadapan beliau ada sebuah bejana air terbuat dari kulit lalu beliau wudlu'. Maka orang-orang datang mengerumuni beliau untuk mengambil air. Beliau bertanya: "Ada apa dengan kalian?". Mereka menjawab; "Kami tidak memiliki air untuk berwudlu' dan minum kecuali air yang ada pada baginda". Maka beliau letakkan tangan beliau di atas bejana kulit tersebut, air pun memancar dari sela-sela jari beliau bagaikan mata air. Maka kami dapat minum dan berwudlu'. Aku (Salim) bertanya; "Berapa orang jumlah kalian saat itu?". Dia (Jabir) menjawab; "Seandainya jumlah kami saat itu seratus ribu pasti air itu mencukupi kami. Saat itu jumlah kami seribu lima ratus orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3576</td></tr><tr><td>Arabic No</td><td>3576</td></tr><tr><td>Reference</td><td>Book 61 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Салима ибн Абу аль-Джа’да, что Джабир ибн ‘Абдуллах сказал: «В день Худайбии люди очень хотели пить, а перед Пророком ﷺ стояла небольшая посуда с водой. Он совершил омовение, и люди бросились к нему (чтобы взять воды). Пророк ﷺ спросил их: “Что с вами?” Они ответили: “У нас нет воды, чтобы совершить омовение и для питья, кроме той, что находится перед тобой”. Тогда Пророк ﷺ опустил руку в посуду, и вода забила меж его пальцами ключом, подобно родникам. Мы попили и совершили омовение (этой водой)». Я спросил (Джабира): «Сколько вас было?» Он ответил: «Даже если бы нас было сто тысяч, нам всё равно хватило бы её, но нас было полторы тысячи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3576</td></tr><tr><td>Arabic No</td><td>3576</td></tr><tr><td>Reference</td><td>Book 61 Hadith 85</td></tr></tbody></table></div>
 

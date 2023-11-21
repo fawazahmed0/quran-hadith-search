@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uthman ibn Affan:: Yazid al-Farisi said: I heard Ibn Abbas say: I asked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami ['Amru bin 'Aun] telah mengabarkan kepada kami [Husyaim] dari ['Auf] dari [Yazid Al Farisi] dia berkata; saya mendengar [Ibnu Abbas] berkata; aku bertanya kepada Utsman bin 'Affan; "Apa yang menyebabkan kalian sengaja meletakkan surat surat Bara'ah (At Taubah) padahal dia termasuk dari mi'in (surat yang ayatnya sampai seratus) dan surat Al Anfal padahal dia termasuk dari al matsani (surat yang ayatnya kurang dari seratus) kemudian kalian menyatukan keduanya termasuk dari tujuh surat panjang, dan belum kalian tulis antara keduanya dengan batas "bismillaahir rahmaanir rahim?" [Utsman] berkata; "Ketika beberapa ayat turun kepada Nabi shallallahu 'alaihi wasallam, maka beliau memanggil beberapa orang yang akan menuliskan di sisinya, kemudian beliau bersabda kepadanya: "Letakkan ayat ini dalam surat yang disebutkan di dalamnya begini dan begini, " Ketika turun kepada beliau satu ayat atau dua ayat, maka beliau akan mengatakan seperti itu. Surat Al Anfal termasuk dari surat yang pertama diturunkan di Madinah, sedangkan Bara'ah (At Taubah) termasuk dari surat yang terakhir diturunkan di Madinah, sementara kandungannya mirip dengan kandungan yang ada dalam surat Al Anfal, maka perkiraanku, surat Al Bara'ah bagian dari surat Al Anfal, oleh karena itu aku meletakkan surat tersebut termasuk dari tujuh surat yang panjang, sehingga aku tidak menulis dengan batasan "Bismillahir rahmanir rahim." Telah menceritakan kepada kami [Ziyad bin Ayyub] telah menceritakan kepada kami [Marwan yaitu Ibnu Mu'awiyah] telah mengabarkan kepada kami ['Auf Al A'Rabi'ah] dari [Yazid Al Farisi] telah menceritakan kepada kami [Ibnu Abbas] semakna dengan hadits di atas, dalam hadits tersebut dia mengatakan; "Rasulullah shallallahu 'alaihi wasallam telah wafat, namun beliau belum menjelaskan kepada kami jika surat Al Anfal bagian dari surat Al Bara'ah." Abu Daud berkata; As Sya'bi, Abu Malik, Qatadah dan Tsabit bin 'Umarah mengatakan; "Sesungguhnya Nabi shallallahu 'alaihi wasallam tidak menulis "Bismillahir rahmaanir rahim" hingga turun surat An Naml, demikian makna dari hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>786</td></tr><tr><td>Arabic No</td><td>786</td></tr><tr><td>Reference</td><td>Book 2 Hadith 396</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что он спросил ‘Усмана ибн ‘Аффана: «Что подтолкнуло вас присоединить суру “ат-Тауба”, в которой около ста аятов, к суре “аль-Анфаль”, которая относится к числу первых семи длинных сур Корана, и не разделять их словами “С именем Аллаха, Всемилостивого, Милостивого”?» Он ответил: «Когда Посланнику Аллаха ﷺ ниспосылалось что-то из Корана, он звал кого-нибудь из тех, кто записывал для него, и говорил: “Запиши это в суру, в которой говорится о том-то и о том-то”. Ему ниспосылался и аят, и два, и он говорил то же самое, а сура “аль-Анфаль” была одним из первых Откровений, полученных им в Медине, а сура “ат-Тауба” была, напротив, ниспослана одной из последних. Истории этих двух сур были похожи, и я решил, что они одно целое, поэтому я включил их в число длинных сур и не стал писать между ними “С именем Аллаха, Всемилостивого, Милостивого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>786</td></tr><tr><td>Arabic No</td><td>786</td></tr><tr><td>Reference</td><td>Book 2 Hadith 396</td></tr></tbody></table></div>
 

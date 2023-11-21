@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:The Prophet (ﷺ) sent an army unit (for some campaign) and appoin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin hafs bin Ghiyats] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Sa'd bin Ubaidah] dari [Abu Abdurrahman] dari ['Ali] radliallahu 'anhu mengatakan, Nabi shallallahu 'alaihi wasallam mengutus sebuah ekspedisi dan mengangkat sahabat anshar sebagai pemimpin mereka, dan beliau perintahkan mereka untuk menaatinya. Selanjutnya sahabat anshar marah dan mengatakan; "Bukankah Rasulullah Shallallahu'alaihiwasallam telah memerintahkan kaian untuk mentaatiku?" 'Ya' Jawab mereka. Sahabat anshar meneruskan; "Karena itu, aku ingin jika kalian mengumpulkan kayu bakar dan menyalakan api, kemudian kalian masuk kedalamnya." Mereka pun mengumpulkan kayu bakar dan menyalakan api. Tatkala mereka ingin memasukinya, satu sama lain saling memandang. Sebagian mengatakan; 'bukankah kita ikut Nabi shallallahu 'alaihi wasallam untuk menjauhkan diri dari api, apakah (sekarang) kita ingin memasukinya? ' Tatkala mereka dalam keadaan seperti itu, tiba-tiba api padam dan kemarahannya mereda. Maka hal ini disampaikan kepada Nabi shallallahu 'alaihi wasallam lantas Nabi mengatakan; "Kalaulah mereka memasukinya, niscaya mereka tidak bisa keluar dari api tersebut selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7145</td></tr><tr><td>Arabic No</td><td>7145</td></tr><tr><td>Reference</td><td>Book 93 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али, да будет доволен им Аллах, сказал: «(Как-то раз) Пророк ﷺ послал в поход отряд, поставив во главе его одного человека из числа ансаров и велев людям повиноваться ему. (Во время похода этот человек за что-то) разгневался на них и сказал: “Разве Пророк ﷺ не велел вам повиноваться мне?!” Они ответили: “Конечно!” Он сказал: “Я решил, чтобы вы собрали дрова, разожгли огонь, а потом вошли в него!”. Люди собрали дрова и разожгли огонь. Когда же они собрались войти в него, то стали смотреть друг на друга, и одни из них начали говорить другим: “Мы последовали за Пророком ﷺ стремясь убежать от Огня, так неужели мы войдём в него?!” Пока они находились в таком состоянии, погас огонь, и утих гнев их руководителя. Потом об этом рассказали Пророку ﷺ и он сказал: “Если бы они вошли в этот огонь, то уже не вышли бы из него никогда! Поистине, повиноваться (следует) лишь в одобряемом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7145</td></tr><tr><td>Arabic No</td><td>7145</td></tr><tr><td>Reference</td><td>Book 93 Hadith 9</td></tr></tbody></table></div>
 

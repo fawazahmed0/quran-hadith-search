@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zaid:Once Allah's Messenger (ﷺ) came to us and we broug
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami ['Abdul 'Aziz bin Abu Salamah] berkata, telah menceritakan kepada kami ['Amru bin Yahya] dari [Bapaknya] dari ['Abdullah bin Zaid] berkata, "Rasulullah shallallahu 'alaihi wasallam datang, lalu kami menyiapkan air dalam sebuah bejana yang terbuat dari tembaga. Beliau lalu berwudlu; membasuh muka tiga kali, lalu membasuh tangan dua kali dua kali, lalu mengusap kepalanya dimulai dari depan ke belakang dan menariknya kembali ke depan. Kemudian membasuh kedua kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>197</td></tr><tr><td>Arabic No</td><td>197</td></tr><tr><td>Reference</td><td>Book 4 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Зейд, да будет доволен им Аллах, сказал: «(Однажды) к нам пришёл Посланник Аллаха ﷺ, а мы вынесли ему воду в медном сосуде и он совершил омовение. Он трижды омыл своё лицо, по два раза омыл руки, обтёр (руками) голову, проведя ими ото лба до затылка и обратно, (после чего) он омыл свои ноги»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>197</td></tr><tr><td>Arabic No</td><td>197</td></tr><tr><td>Reference</td><td>Book 4 Hadith 63</td></tr></tbody></table></div>
 

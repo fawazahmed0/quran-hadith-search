@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Aslam, Ghifar or some peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ya'qub Ad Dauraqi] keduanya berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu 'Ulayyah; Telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada hari kiamat Aslam, Ghifar, beberapa orang dari Muzainah dan Juhainah atau sebaliknya adalah lebih baik di sisi Allah. Abu Hurairah berkata; -Aku mengira beliau bersabda: - Pada hari kiamat nanti dari Asad, Ghathafan, Hawazin dan Tamim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6443</td></tr><tr><td>Arabic No</td><td>2521.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 272</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6443</td></tr><tr><td>Arabic No</td><td>2521.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 272</td></tr></tbody></table></div>
 

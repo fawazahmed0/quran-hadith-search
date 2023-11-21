@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Musa Ash'ari that a desert Arab cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan ini adalah lafadz Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dia berkata; saya pernah mendengar [Abu Wail] berkata; telah menceritakan kepada kami [Abu Musa Al Asy'ari], bahwa seorang laki-laki pedalaman datang kepada Nabi shallallahu 'alaihi wasallam seraya berkata, "Wahai Rasulullah, ada seorang laki-laki yang berperang demi mendapatkan ghanimah, ada seorang laki-laki yang berperang supaya dirinya dikenal sebagai pahlawan, ada pula seorang laki-laki yang berperang agar dirinya dihormati, maka siapakah yang disebut berjuang di jalan Allah?" maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berjuang untuk menegakkan kalimat Allah setinggi-tingginya, maka itulah yang disebut berjuang di jalan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4919</td></tr><tr><td>Arabic No</td><td>1904.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4919</td></tr><tr><td>Arabic No</td><td>1904.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 214</td></tr></tbody></table></div>
 

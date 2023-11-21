@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:We went to pay a visit to Khabbab bin Al-Art and he had got himsel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah menceritakan kepada kami ['Abdah] dari [Ibnu abi Khalid] dari [Qais] mengatakan; Pernah kami mendatangi [Khabbab bin Al Arat] untuk membesuknya, yang ketika itu ia telah berobat dengan kay (di temple dengan besi panas) sebanyak tujuh kali, dia mengatakan; 'Kalaulah Rasulullah Shallallahu'alaihiwasallam tidak melarang kami memohon kematian, niscaya aku memohonnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7234</td></tr><tr><td>Arabic No</td><td>7234</td></tr><tr><td>Reference</td><td>Book 94 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Кайс сказал: «Однажды мы пришли навестить (заболевшего) Хаббаба ибн аль-Аратта, да будет доволен им Аллах. Ему сделали прижигания тела в семи местах, и он сказал: «Если бы Посланник Аллаха ﷺ не запретил нам желать смерти, то, поистине, я пожелал бы её!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7234</td></tr><tr><td>Arabic No</td><td>7234</td></tr><tr><td>Reference</td><td>Book 94 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin Marzuq], telah mengabarkan kepada kami [Syu'bah] dari [Zubaid], dari [Sa'd bin 'Ubaidah], dari [Abu Abdurrahman As Sulami], dari [Ali] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam telah mengirim pasukan dan mengangkat seseorang sebagai pemimpin atas mereka, dan beliau memerintahkan mereka agar mendengar dan mentaati. Kemudian orang tersebut menyalakan api dan memerihtahkan mereka agar masuk dalam api tersebut. Kemudian mereka berkata; sesungguhnya kita lari darinya. Dan orang yang lainnya hendak memasukinya. Kemudian hal tersebut sampai kepada Nabi shallallahu 'alaihi wasallam, lalu beliau berkata: "Seandainya mereka memasukinya atau masuk padanya maka mereka akan tetap ada padanya." Kemudian beliau bersabda: "Tidak ada ketaatan dalam bermaksiat kepada Allah. Sesungguhnya ketaatan hanya ada dalam perkara yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7257) Sahih Muslim (1840)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2625</td></tr><tr><td>Arabic No</td><td>2625</td></tr><tr><td>Reference</td><td>Book 15 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7257) Sahih Muslim (1840)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2625</td></tr><tr><td>Arabic No</td><td>2625</td></tr><tr><td>Reference</td><td>Book 15 Hadith 149</td></tr></tbody></table></div>
 

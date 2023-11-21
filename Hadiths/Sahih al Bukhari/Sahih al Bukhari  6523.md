@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A man said, "O Allah's Prophet! Will a Kafir (disbelieve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Yunus bin Muhammad Al Baghdadi] telah menceritakan kepada kami [Syaiban] dari [Qatadah] telah menceritakan kepada kami [Anas bin malik] radhilayyahu'anhu, ada seseorang berujar; 'hai Nabiyullah, bagaimana orang kafir dikumpulkan dengan cara ditelungkupkan (dijungkirkan) diatas wajahnya? ' Nabi menjawab: "Bukankah Dzat yang menjadikannya bisa berjalan dengan kedua kakinya di dunia bisa menjadikannya berjalan diatas wajahnya pada hari kiamat?" 'Benar, demi kekuasaan Rabb kami, " Kata Qatadah mengiyakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6523</td></tr><tr><td>Arabic No</td><td>6523</td></tr><tr><td>Reference</td><td>Book 81 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что (как-то раз один) человек спросил: «Каким же образом неверный будет собран в День воскресения лицом вниз?» (В ответ ему Пророк ﷺ) сказал: «Разве Тот, по воле Которого он ходил в мире этом на двух ногах, не в силах заставить его влачиться лицом вниз в День воскресения?» \nКатада (один из передатчиков хадиса) сказал: «Конечно, клянусь Величием нашего Господа!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6523</td></tr><tr><td>Arabic No</td><td>6523</td></tr><tr><td>Reference</td><td>Book 81 Hadith 112</td></tr></tbody></table></div>
 

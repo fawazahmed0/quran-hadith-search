@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan], telah menceritakan kepadaku [Yahya bin Sa'id] dari [Muhammad bin Ibrahim At Taimi] dari ['Alqamah bin Waqqash Al Laitsi], ia berkata; aku mendengar [Umar bin Al Khathab] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya amalan itu tergantung kepada niatnya, dan bagi setiap orang akan mendapatkan sesuai apa yang telah ia niatkan. Barangsiapa yang hijrahnya kepada Allah dan RasulNya, maka hijrahnya adalah kepada Allah dan RasulullahNya, dan barangsiapa yang hijrahnya untuk dunia yang hendak ia dapatkan atau karena seorang wanita yang akan ia nikahi, maka hijrahnya akan mendapatkan sesuai apa yang ia maksudkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1) Sahih Muslim (1907)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2201</td></tr><tr><td>Arabic No</td><td>2201</td></tr><tr><td>Reference</td><td>Book 13 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, дела оцениваются по намерениям, и человеку запишется в соответствии с его намерением. Кто совершил переселение к Аллаху и Его Посланнику, переселение того будет переселением к Аллаху и Его Посланнику. А кто совершил переселение ради мирских благ или ради женщины, на которой он хотел жениться, тому запишется переселение к тому, к чему он переселялся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1) Sahih Muslim (1907)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2201</td></tr><tr><td>Arabic No</td><td>2201</td></tr><tr><td>Reference</td><td>Book 13 Hadith 27</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid:'Urwa and I entered the Mosque and found 'Abdullah bin 'Umar si
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ustman bin Abu Syaibah] Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Mujahid], katanya, aku dan Urwah bin Zubair memasuki sebuah masjid, ternyata [Abdullah bin Umar radliallahu 'anhuma] sedang duduk di sebelah kamar Aisyah, kemudian Urwah bin Zubair bertanya; "Berapa kali Nabi shallallahu 'alaihi wasallam berumrah? Ibnu Umar menjawab; "Empat kali." [Aisyah] terus berujar "Nabi shallallahu 'alaihi wasallam tak pernah berumrah kecuali Ibnu Umar turut menyertainya, dan beliau sama sekali tidak pernah berumrah pada bulan rajab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4253</td></tr><tr><td>Arabic No</td><td>4253</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджахид сказал: «(Однажды) мы вошли в мечеть вместе с ‘Урвой ибн аз-Зубайром и увидели ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, который сидел там, прислонившись к (стене) комнаты ‘Аиши. Затем (‘Урва) спросил его: “Сколько раз Пророк ﷺ совершил умру?” Он сказал: “Четырежды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4253</td></tr><tr><td>Arabic No</td><td>4253</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

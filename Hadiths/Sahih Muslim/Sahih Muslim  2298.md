@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:There came people from among the Bedouins to the Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Fudlail bin Husain Al Jahdari] Telah menceritakan kepada kami [Abdul Wahid bin Ziyad] Telah menceritakan kepada kami [Muhammad bin Abu Isma'il] Telah menceritakan kepada kami [Abdurrahman bin Hilal Al Absi] dari [Jarir bin Abdullah] ia berkata; Beberapa orang Arab dusun datang mengadu Rasulullah shallallahu 'alaihi wasallam. Mereka berkata, "Beberapa petugas zakat mendatangi kami, lalu mereka bertindak aniaya terhadap kami." Rasulullah shallallahu 'alaihi wasallam menjawab: "Layanilah para petugas zakat itu dengan baik." Jarir berkata, "Semenjak itu aku tidak pernah lagi mendengar para petugas zakat pulang melainkan dengan puas dan senang." Dan Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] Telah menceritakan kepada kami [Abdurrahim bin Sulaiman] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Yahya bin Sa'id] -dalam jalur lain- Dan telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Abu Usamah] semuanya dari [Muhammad bin Abu Isma'il] dengan isnad ini, hadits yang semisal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2298</td></tr><tr><td>Arabic No</td><td>989.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир ибн ‘Абдуллах сказал: «Однажды к Посланнику Аллаха ﷺ явились люди из числа бедуинов и сказали: “Поистине, (некоторые) люди из числа сборщиков закята приходят к нам и притесняют нас”, (на что) Посланник Аллаха ﷺ сказал: “Удовлетворяйте (требования тех, кто приходит) к вам собирать закят”».Джарир сказал: «И с тех пор, как я услышал это от Посланника Аллаха ﷺ, ни один сборщик не уходил от меня недовольным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2298</td></tr><tr><td>Arabic No</td><td>989.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 35</td></tr></tbody></table></div>
 

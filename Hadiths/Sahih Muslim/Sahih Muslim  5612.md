@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:I took 'Abdullah b. Abi Talha Ansari to Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul A'la bin Hammad]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit Al Bunani] dari [Anas bin Malik] ia berkata; "Saya pergi bersama Abdullah Bin Abu Thalhah al Anshari menemui Rasulullah shallallahu 'alaihi wasallam ketika dia baru dilahirkan. Aku mendatangi Nabi shallallahu 'alaihi wasallam, yang ketika itu beliau sedang di 'ab'ah (kandang unta) memberi minum untanya. Maka (Rasulullah shallallahu 'alaihi wasallam) bertanya padaku; "Apakah kamu membawa kurma?". Saya menjawab; ya. Beliau kemudian mengambil beberapa kurma lalu dimasukkan ke dalam mulut beliau dan melembutkannya. Setelah itu beliau membuka mulut bayi dan disuapkan padanya, bayi itu mulai menjilatinya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Kesukaan orang Anshar adalah kurma." kemudian (Rasulullah shallallahu 'alaihi wasallam) memberinya nama Abdullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5612</td></tr><tr><td>Arabic No</td><td>2144.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5612</td></tr><tr><td>Arabic No</td><td>2144.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 27</td></tr></tbody></table></div>
 

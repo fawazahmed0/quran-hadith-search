@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Messenger of Allah (ﷺ) led us in prayer in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1244</td></tr><tr><td>Arabic No</td><td>1244</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Мас‘уда, да будет доволен им Аллах: «Посланник Аллаха ﷺ совершил с нами молитву, совершаемую под воздействием страха /салят аль-хауф/. Люди выстроились в ряд позади Посланника Аллаха ﷺ, а второй ряд стоял напротив врага. Посланник Аллаха ﷺ совершил с ними один рак‘ат, потом на их место пришли другие, и он совершил с ними один рак‘ат, в то время как первая группа встала напротив врага. Затем Пророк ﷺ произнёс слова таслима, и та группа совершила самостоятельно второй рак‘ат и, произнеся слова таслима, встала на место стоявшей напротив врага, а та встала на её место и совершила самостоятельно ещё один рак‘ат и произнесла слова таслима»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1244</td></tr><tr><td>Arabic No</td><td>1244</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
 

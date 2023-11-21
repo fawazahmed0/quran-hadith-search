@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Abbas bin Al Walid bin Mazyad], telah mengabarkan kepadaku [ayahku], telah menceritakan kepada kami [Al Aza'i], telah menceritakan kepadaku [Hassan bin 'Athiyyah], dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya] bahwa Al 'Ash bin Wail telah memberikan wasiat dibebaskan untuknya seratus unta. Kemudian anaknya yaitu Hisyam membebaskan lima puluh budak, dan anaknya yang bernama 'Amr hendak membebaskan lima puluh yang lainnya. Kemudian ia berkata; tunggulah hingga aku bertanya kepada Rasulullah, kemudian ia datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; wahai Rasulullah, sesungguhnya ayahku telah berwasiat agar membebaskan seratus budak. Dan sesungguhnya Hisyam telah membebaskan lima puluh dan tersisa lima puluh budak, apakah saya boleh membebaskan untuknya? Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya apabila ia adalah seorang muslim kemudian kalian membebaskan budak untuknya atau bersedekah untuknya atau berhaji untuknya, maka hal tersebut sampai kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2883</td></tr><tr><td>Arabic No</td><td>2883</td></tr><tr><td>Reference</td><td>Book 18 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что аль-‘Ас ибн Ваиль завещал освободить от его имени сто рабов. Его сын Хишам освободил пятьдесят рабов, а его сын ‘Амр хотел освободить ещё пятьдесят, однако решил: мол, сначала спрошу Посланника Аллаха ﷺ. Придя к Пророку ﷺ он сказал: «О Посланник Аллаха, мой отец завещал освободить от его имени сто рабов, и Хишам освободил пятьдесят. Осталось ещё пятьдесят. Освободить ли мне их от его имени?» Посланник Аллаха ﷺ сказал: «Если бы он был мусульманином и вы освободили рабов, или подали милостыню, или совершили хадж за него, до него дошла бы награда за это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2883</td></tr><tr><td>Arabic No</td><td>2883</td></tr><tr><td>Reference</td><td>Book 18 Hadith 22</td></tr></tbody></table></div>
 

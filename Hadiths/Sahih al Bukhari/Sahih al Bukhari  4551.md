@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abu 'Aufa:A man displayed some merchandise in the market 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali yaitu Ibnu Abu Hasyim] dia mendengar [Husyaim], Telah mengabarkan kepada kami [Al 'Awwam bin Hausyab] dari [Ibrahim bin Abdurrahman] dari [Abdullah bin Abu Aufa radliallahu 'anhuma] bahwa seorang laki-laki menjual barang di pasar, lalu dia bersumpah bahwa di telah memberikan barangnya padahal belum dia berikan, hal itu dia lakukan untuk merayu seorang muslim agar membeli barangnya. Maka turunlah ayat; "Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit, mereka itu tidak mendapat bahagian (pahala) di akhirat, dan Allah tidak akan berkata-kata dengan mereka dan tidak akan melihat kepada mereka pada hari kiamat dan tidak (pula) akan mensucikan mereka. Bagi mereka azab yang pedih." (Ali Imran:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4551</td></tr><tr><td>Arabic No</td><td>4551</td></tr><tr><td>Reference</td><td>Book 65 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Аби Ауфа, да будет доволен Аллах им и его отцом, сказал: «Поистине, один человек, находившийся на рынке, назначил конкретную сумму за свой товар, принося клятву Аллахом, что он отдал за него цену, которую не давал, чтобы убедить в (покупке этого товара) человека из числа мусульман. И тогда был ниспослан (следующий аят из Корана): “Поистине, для тех, которые продают завет с Аллахом и свои клятвы задёшево, нет доли в последней жизни. Аллах не будет говорить с ними, не посмотрит на них в день воскресения и не очистит их. Им уготованы мучительные страдания” (сура «Али ‘Имран», аят 77)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4551</td></tr><tr><td>Arabic No</td><td>4551</td></tr><tr><td>Reference</td><td>Book 65 Hadith 73</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: When a mouse falls into clarified 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] dan [Al Hasan bin Ali] lafazh hadits ini adalah lafazh Al Hasan, mereka berkata; telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika ada tikus jatuh ke dalam mentega, jika mentega tersebut beku maka buanglah tikus tersebut dan yang ada di sekitarnya, namun jika mentega tersebut cair maka jangan engkau dekati (ambil)." [Al Hasan] berkata, " [Abdurrazzaq] berkata, "Terkadang [Ma'mar] meriwayatkan hadits tersebut dari [Az Zuhri] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] dari [Maimunah] dari Nabi shallallahu 'alaihi wasallam." Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Abdurrahman bin Budzawaih] dari [Ma'mar] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] dari [Maimunah] dari Nabi shallallahu 'alaihi wasallam dengan hadits seperti hadits Az Zuhri, dari Ibnu Al Musayyab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3842</td></tr><tr><td>Arabic No</td><td>3842</td></tr><tr><td>Reference</td><td>Book 28 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если мышь упала в масло, то если оно затвердевшее, то выбросьте мышь и масло, которое было вокруг неё, а если оно жидкое, то не приближайтесь к нему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3842</td></tr><tr><td>Arabic No</td><td>3842</td></tr><tr><td>Reference</td><td>Book 28 Hadith 107</td></tr></tbody></table></div>
 

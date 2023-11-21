@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I used to offer drinks prepared from infused dates to Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Qaza'ah] telah menceritakan kepadaku [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] ia berkata, "Pernah aku memberi minum Abu Thalhah Al Anshari, Abu Ubaidah bin Al Jarrah dan Ubbay bin Ka'b berupa minuman dari fadhih atau kurma. Lantas ada seorang utusan mendatangi mereka dan berkata, 'Hai..sungguh, khamer telah diharamkan! Secara spontan Abu Thalhah berkata, 'Wahai Anas, bangkit dan pecahkanlah kendi-kendi minuman itu! ' Anas berkata, "Maka aku pun ke arah gentong-gentong kami dan kubanting bagian bawahnya hingga remuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7253</td></tr><tr><td>Arabic No</td><td>7253</td></tr><tr><td>Reference</td><td>Book 95 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас [ибн Малик], да будет доволен им Аллах, передаёт: «Я поил Абу Тальху аль-Ансарий, Абу ‘Убайду ибн аль-Джарраха и Убай ибн Ка‘ба вином из недозрелых фиников. Тогда к ним пришёл какой-то человек и сказал: “Поистине, вино было запрещено!” И Абу Тальха сказал: «О Анас, подойди к этому кувшину и разбей его». Анас сказал: «Тогда я взял нашу ступку и ударил ею по нижней части кувшина, и таким образом он разбился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7253</td></tr><tr><td>Arabic No</td><td>7253</td></tr><tr><td>Reference</td><td>Book 95 Hadith 8</td></tr></tbody></table></div>
 

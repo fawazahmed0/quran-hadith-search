@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Talq: We came upon the Prophet of Allah (ﷺ). A man came to him: he se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mulazim bin Amru Al Hanafi] telah menceritakan kepada kami [Abdullah bin Badr] dari [Qais bin Thalq] dari [Ayahnya] dia berkata; Kami pernah datang menghadap Nabiyullah shallallahu 'alaihi wasallam, lalu datang seorang laki-laki yang sepertinya seorang pedalaman, lalu dia berkata; "Wahai Nabi Allah, bagaimana menurut anda tentang seseorang yang menyentuh kemaluannya setelah dia berwudhu? Maka beliau bersabda: "Bukankah kemaluannya itu hanya sekerat daging dari orang tersebut?" Abu Dawud berkata; Diriwayatkan oleh [Hisyam bin Hassan] dan [Sufyan Ats-Tsauri] dan [Syu'bah] dan [Ibnu 'Uyainah] dan [Jarir Ar-Razi] dari [Muhammad bin Jabir] dari [Qais bin Thalq]. telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Muhammad bin Jabir] dari [Qais bin Thalq] dari [Ayahnya] dengan sanadnya dan maknanya, dan dia menyebutkan; (menyentuh kemaluan) di dalam shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>182</td></tr><tr><td>Reference</td><td>Book 1 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Кайса ибн Талька о том, что его отец сказал: «Однажды мы пришли к Пророку ﷺ и (туда) пришел некий мужчина, который кажется, был бедуином и сказал: “О пророк Аллаха, что ты видишь в том, что человек прикасается к своему половому органу после того, как он совершил омовение?” И он сказал: “Разве это нечто иное, как часть его плоти/мудгъа/?” Или он сказал: “… бад‘а”».Абу Дауд сказал: «Этот хадис (также) передали Хишам ибн Хасан, Суфьян ас-Саури, Шу‘ба ибн ‘Уйейна, Джарир ар-Рази от Мухаммада ибн Джабира от Кайса ибн Талька»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>182</td></tr><tr><td>Arabic No</td><td>182</td></tr><tr><td>Reference</td><td>Book 1 Hadith 182</td></tr></tbody></table></div>
 

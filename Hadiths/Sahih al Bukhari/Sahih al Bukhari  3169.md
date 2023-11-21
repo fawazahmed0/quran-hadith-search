@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:When Khaibar was conquered, a roasted poisoned sheep was pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah bercerita kepada kami [Al Laits] berkata telah bercerita kepadaku [Sa'id bin Abu Sa'id Al Maqbariy] dari [Abu Hurairah radliallahu 'anhu] berkata; "Ketika Khaibar ditaklukan, Nabi shallallahu 'alaihi wasallam diberi hadiah seekor kambing yang didalamnya ditaruh racun. Maka Nabi shallallahu 'alaihi wasallam berkata: "Kumpulkan di hadapanku orang-orang yang ada disini dari kalangan Yahudi". Maka mereka berkumpul di hadapan Beliau lalu Beliau berkata: "Aku bertanya satu hal kepada kalian, apakah kalian akan membenarkan aku tentang suatu masalah?". Mereka menjawab; "Ya". Nabi shallallahu 'alaihi wasallam bertanya kepada mereka: "Siapa orang tua kalian". Mereka menjawab; "Si fulan". Beliau berkata: "Kalian berdusta. Yang sebenarnya orang tua kalian adalah si anu". Mereka berkata; "Anda benar". Lalu Beliau bertanya lagi: "Apakah kalian akan membenarkan aku tentang suatu masalah yang akan aku tanyakan?". Mereka menjawab; "Ya, wahai Abu Al Qasim. Seandainya kami berdusta, Anda pasti mengetahui kedustaan kami sebagaimana Anda mengetahui orangtua kami". Beliau bertanya: "Siapakah yang menjadi penduduk neraka?". Mereka menjawab; "Kami akan berada di dalamnya sebentar lalu kalian (kaum Muslimin) akan mengiringi masuk ke dalamnya". Nabi shallallahu 'alaihi wasallam berkata: "Tinggallah kalian dengan hina di dalamnya. Demi Allah, sungguh kami tidak akan mengikuti kalian ke dalamnya selama-lamanya". Kemudian Beliau bertanya lagi: "Apakah kalian akan membenarkan aku tentang suatu masalah yang akan aku tanyakan?". Mereka menjawab; "Ya, wahai Abu Al Qasim". Beliau bertanya: "Apakah kalian telah memasukkan racun ke dalam kambing ini?". Mereka menjawab; "Ya". Beliau bertanya lagi: "Apa yang mendorong lkalian berbuat begitu?". Mereka menjawab; "Kami hanya ingin menguji Seandainya anda berdusta (mengaku sebagai Nabi) kami dapat beristirahat dari anda. Dan seandainya anda benar seorang Nabi maka racun itu tidak akan dapat mendatangkan bahaya buat anda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>3169</td></tr><tr><td>Reference</td><td>Book 58 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда Хайбар был завоёван, (иудеи) преподнесли в подарок Пророку ﷺ (жареную) отравленную овцу, и Пророк ﷺ велел: “Соберите ко мне (всех) иудеев, которые здесь находятся”. Когда этих иудеев собрали у него, (Пророк ﷺ) сказал: “Я хочу задать вам один вопрос. Скажете ли вы мне правду?” Они сказали: “Да”. Тогда Пророк ﷺ спросил их: “Кто ваш отец?” Они сказали: “Такой-то”. (Пророк ﷺ) сказал: “Вы солгали, ибо вашим отцом является такой-то”. Они сказали: “Ты сказал правду”. (Потом Пророк ﷺ) спросил: “А скажете ли вы мне правду, если я спрошу вас о чём-то (ещё)?” Они ответили: “Да, о Абу-ль-Касим, ибо если мы и солжём, ты распознаешь нашу ложь, как это было с нашим отцом”. Тогда (Пророк ﷺ) спросил их: “Кто окажется в огне?” Они сказали: “Мы побудем там недолго, а потом нас замените собой вы”. (На это) Пророк ﷺ сказал: “Оставайтесь (униженными в аду)! Клянусь Аллахом, мы никогда не заменим вас собой в (огне)!” Потом он сказал: “А скажете ли вы мне правду, если я спрошу вас о чём-то (ещё)?” Они ответили: “Да, о Абу-ль-Касим”. (Тогда Пророк ﷺ) спросил: “Положили ли вы яд в эту овцу?” Они сказали: “Да”. (Пророк ﷺ) спросил: “Что заставило вас сделать это?” Они ответили: “Мы хотели избавиться от тебя, если ты лжец, если же ты (истинный) пророк, то (отрава) не повредила бы тебе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>3169</td></tr><tr><td>Reference</td><td>Book 58 Hadith 11</td></tr></tbody></table></div>
 

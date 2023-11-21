@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUmamah: I heard the Messenger of Allah (ﷺ) Said: Allah , Most Exal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Najdah Al Hauthi] telah menceritakan kepada kami [Ibnu 'Ayyasy] dari [Syurahbil bin Muslim] ia berkata; saya mendengar [Abu Umamah] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah Azza wa Jalla telah memberikan hak kepada setiap yang memiliki hak, maka tidak ada wasiat bagi pewaris. Dan tidak boleh seorang wanita menginfakkan sesuatu dari rumahnya kecuali dengan seizin suaminya." Kemudian beliau ditanya, "Wahai Rasulullah, tidak juga dengan makanan?" Beliau menjawab: "Itu adalah harta kita yang terbaik." Kemudian beliau mengatakan: "Pinjaman harus dikembalikan kepada pemiliknya, sesuatu yang diberikan agar diambil manfaatnya dikembalikan kepada pemiliknya, hutang harus dibayar, dan penanggung jawab adalah orang yang bertanggung jawab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3565</td></tr><tr><td>Arabic No</td><td>3565</td></tr><tr><td>Reference</td><td>Book 24 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Умама, да будет доволен им Аллах, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, Всемогущий и Великий Аллах наделил правом каждого обладающего правом… Не может быть завещания наследнику. И женщина не должна ничего отдавать из дома мужа, кроме как с его позволения”. Люди спросили: “О Посланник Аллаха! Даже еду?” Он сказал: “Это лучшее из нашего имущества”. После этого Посланник Аллаха ﷺ сказал: “Взятое в пользование следует возвращать, взятое на время следует отдавать обратно, долг следует уплачивать, а поручитель отвечает за того, за кого поручился”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3565</td></tr><tr><td>Arabic No</td><td>3565</td></tr><tr><td>Reference</td><td>Book 24 Hadith 150</td></tr></tbody></table></div>
 

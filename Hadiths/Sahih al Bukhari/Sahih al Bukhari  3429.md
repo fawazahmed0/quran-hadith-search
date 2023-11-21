@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When the Verse:-- 'Those who believe and mix not their belief
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ishaq] telah mengabarkan kepada kami ['Isa bin Yunus] telah bercerita kepada kami [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah] berkata; "Ketika turun firman Allah Ta'ala yang artinya: ("Orang-orang yang beriman dan tidak mencampur adukkan iman mereka dengan kezhaliman ….") (QS al-An'am ayat 82), membuat kaum muslimin menjadi ragu lalu mereka berkata: "Wahai Rasulullah shallallahu 'alaihi wasallam, adakah orang di antara kami yang tidak menzhalimi dirinya?". Maka beliau berkata: "Bukan itu maksudnya. Sesungguhnya yang dimaksud dengan kezhaliman pada ayat itu adalah syirik. Apakah kalian belum pernah mendengar apa yang diucapkan Luqman kepada anaknya saat dia memberi pelajaran: ("Wahai anakku, Janganlah kamu berbuat syirik (menyekutukan Allah), karena sesungguhnya syirik itu benar-benar kezhaliman yang besar"). (QS Luqman ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3429</td></tr><tr><td>Arabic No</td><td>3429</td></tr><tr><td>Reference</td><td>Book 60 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Когда был ниспослан (аят, в котором сказано): “Те, которые уверовали и не облекли свою веру в несправедливость…“ (сура “аль-Анам”, аят 82), мусульманам стало тяжело (по причине этих слов), и они сказали: “О Посланник Аллаха, а кто же из нас не поступал несправедливо по отношению к себе?“ Он ответил: “Это не то, о чём вы говорите, здесь говориться о многобожие. Разве вы не слышали слова Лукмана своему сыну, когда он его увещевал: “О сын мой! Не приобщай к Аллаху сотоварищей, ибо многобожие является великой несправедливостью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3429</td></tr><tr><td>Arabic No</td><td>3429</td></tr><tr><td>Reference</td><td>Book 60 Hadith 100</td></tr></tbody></table></div>
 

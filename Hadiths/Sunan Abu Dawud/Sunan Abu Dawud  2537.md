@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: Amr ibn Uqaysh had given usurious loans in pre-Islamic per
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], telah mengabarkan kepada kami [Muhammad bin 'Amr], dari [Abu Salamah], dari [Abu Hurairah], bahwa 'Amr bin Uqaisy dahulu memiliki harta riba pada masa jahiliyah dan ia tidak ingin masuk Islam hingga ia mengambil harta tersebut. Kemudian datang waktu perang Uhud, kemudian ia berkata; dimanakah anak-anak pamanku? Mereka berkata; di Uhud. Ia berkata; dimanakah Fulan? Mereka berkata; di Uhud. Ia berkata; dimanakah Fulan? Mereka berkata; di Uhud. Kemudian ia memakai baju zirahnya dan menaiki kudanya kemudian ia menuju ke arah mereka. Kemudian tatkala orang-orang muslim melihatnya mereka berkata; menjauhlah engkau dari kami wahai 'Amr! Ia berkata; aku telah beriman. Kemudian ia bertempur hingga terluka, kemudian ia dibawa kepada keluarganya dalam keadaan terluka. Lalu Sa'd bin Mu'adz datang kepadanya dan berkata kepada saudarinya; tanyakan kepadanya, apakah karena kesombongan untuk kaumnya atau karena kemarahan untuk karena mereka atau karena kemarahan karena Allah? Ia berkata; bahkan karena kemarahan karena Allah dan rasulNya. Kemudian ia meninggal dan masuk Surga sementera ia belum pernah melakukan satu shalatpun untuk Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>2537</td></tr><tr><td>Reference</td><td>Book 15 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>2537</td></tr><tr><td>Reference</td><td>Book 15 Hadith 61</td></tr></tbody></table></div>
 

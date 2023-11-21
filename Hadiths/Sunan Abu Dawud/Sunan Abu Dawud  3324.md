@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A similar tradition has also been transmitted by 'Uqbah b. 'Amir from the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 22 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто дал обет, не назвав его, тот должен искупить его, как искупается нарушенная клятва, и кто дал обет, предполагающий ослушание Аллаха, тот должен искупить его, как искупается клятва, и кто дал обет, который он не в состоянии выполнить, тот должен искупить его, как искупается клятва. А кто дал обет, который он в состоянии выполнить, тот обязан выполнить его». Абу Дауд сказал: «Этот хадис Ваки‘ и другие передавали от ‘Абдуллаха ибн Са‘ида ибн Абу аль-Хинда не как хадис, а как слова Ибн ‘Аббаса»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3324</td></tr><tr><td>Arabic No</td><td>3324</td></tr><tr><td>Reference</td><td>Book 22 Hadith 83</td></tr></tbody></table></div>
 

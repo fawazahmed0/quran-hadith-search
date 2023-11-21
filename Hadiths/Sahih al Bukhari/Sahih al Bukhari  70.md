@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:'Abdullah used to give a religious talk to the people on every
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] berkata; bahwa [Abdullah] memberi pelajaran kepada orang-orang setiap hari Kamis, kemudian seseorang berkata: "Wahai Abu Abdurrahman, sungguh aku ingin kalau anda memberi pelajaran kepada kami setiap hari" dia berkata: "Sungguh aku enggan melakukannya, karena aku takut membuat kalian bosan, dan aku ingin memberi pelajaran kepada kalian sebagaimana Nabi shallallahu 'alaihi wasallam memberi pelajaran kepada kami karena khawatir kebosanan akan menimpa kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>70</td></tr><tr><td>Arabic No</td><td>70</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Ваиль (Шакъикъ ибн Саляма) сказал: «Ибн Мас‘уд, да будет доволен им Аллах, имел обыкновение увещевать людей в каждый четверг, и (как-то раз) один человек сказал ему: “О Абу ‘Абду-р-Рахман, мне бы очень хотелось, чтобы ты наставлял нас ежедневно!”, — (на что Ибн Мас‘уд, да будет доволен им Аллах.) сказал: “Поистине, я не делаю этого только по той причине, что не желаю нагонять на вас скуку: (вот почему) я обращаюсь к вам с увещаниями (не каждый день, а лишь время от времени), как увещевал нас самих Пророк ﷺ опасавшийся, что (его слова могут) вызвать у нас скуку”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>70</td></tr><tr><td>Arabic No</td><td>70</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
 

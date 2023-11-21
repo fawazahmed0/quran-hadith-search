@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) ordered (the Muslims) to fast on the day
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya ['Urwah bin Az Zubair] bahwa ['Aisyah radliallahu 'anha] berkata: "Rasulullah shallallahu 'alaihi wasallam memerintahkan puasa pada hari 'Asyura' (10 Muharam). Setelah diwajibklan puasa Ramadhan, maka siapa yang mau silakan berpuasa dan siapa yang tidak mau silakan berbuka (tidak berpuasa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2001</td></tr><tr><td>Arabic No</td><td>2001</td></tr><tr><td>Reference</td><td>Book 30 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «В начале Пророк ﷺ приказал поститься в день ‘Ашура, когда же пост в месяц рамадан был вменён в обязанность, то кто хотел, постился (в этот день), а кто не хотел — нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2001</td></tr><tr><td>Arabic No</td><td>2001</td></tr><tr><td>Reference</td><td>Book 30 Hadith 106</td></tr></tbody></table></div>
 

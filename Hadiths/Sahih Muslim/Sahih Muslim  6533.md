@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of Zuhri with a slight variati
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Aku membaca Hadits [Malik] dari [Ibnu Syihab] dari ['Athaa bin Yazid Al Laitsi] dari [Abu Ayyub Al Anshari] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak halal bagi seorang muslim tidak bersapaan dengan saudaranya (sesama muslim) lebih dari tiga malam. Keduanya saling bertemu, tetapi mereka saling tak acuh satu sama lain. Yang paling baik di antara keduanya ialah yang lebih dahulu memberi salam." Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakr bin Abu Syaibah] serta [Zuhair bin Harb] mereka berkata; Telah menceritakan kepada kami [Sufyan]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Hajib bin Al Walid]; Telah menceritakan kepada kami [Muhammad bin Harb] dari [Az Zubaid]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] dan [Muhammad bin Rafi'] serta ['Abad bin Humaid] dari ['Abdur Razzaq] dari [Ma'mar] seluruhnya dari [Az Zuhri] dengan sanad Malik, dengan Hadits yang serupa. Kecuali Malik yang menggunakan lafazh: 'Fayashuddu Hadza wa yashuddu Hadza.' (keduanya saling berpaling)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6533</td></tr><tr><td>Arabic No</td><td>2560.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6533</td></tr><tr><td>Arabic No</td><td>2560.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 32</td></tr></tbody></table></div>
 

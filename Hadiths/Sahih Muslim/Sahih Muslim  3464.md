@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uqba b. 'Amir said on the pulpit that Allah's Messenger (ﷺ) said:A believer is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu At Thahir] telah mengabarkan kepada kami [Abdullah bin Wahb] dari [Al Laits] dan lainnya dari [Yazid bin Abi Habib] dari [Abdurrahman bin Syumasah] bahwa dia pernah mendengar [Uqbah bin Amir] di atas minbar berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang Mukmin adalah saudara Mukmin lainnya, maka tidak halal bagi seorang Mukmin membeli barang yang telah dibeli (dipesan) saudaranya, dan tidak halal meminang pinangan saudaranya sebelum ditinggalkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3464</td></tr><tr><td>Arabic No</td><td>1414</td></tr><tr><td>Reference</td><td>Book 16 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3464</td></tr><tr><td>Arabic No</td><td>1414</td></tr><tr><td>Reference</td><td>Book 16 Hadith 66</td></tr></tbody></table></div>
 

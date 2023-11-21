@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:Allah's Messenger (ﷺ) said, "The example of a good companion
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Musa bin Isma'il] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami [Abu Burdah bin 'Abdullah] berkata; Aku mendengar [Abu Burdah bin Abu Musa] dari [bapaknya radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaan orang yang bergaul dengan orang shalih dan orang yang bergaul dengan orang buruk seperti penjual minyak wangi dan tukang tempa besi, Pasti kau dapatkan dari pedagang minyak wangi apakah kamu membeli minyak wanginya atau sekedar mendapatkan bau wewangiannya, sedangkan dari tukang tempa besi akan membakar badanmu atau kainmu atau kamu akan mendapatkan bau yang tidak sedap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 34 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Мусы, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, праведный товарищ и дурной (товарищ) подобны продавцу мускуса и кузнецу, раздувающему кузнечные меха. Что касается продавца мускуса, то либо ты купишь у него что-то, либо ощутишь (исходящий) от него аромат. Что же касается мехов кузнеца, то он либо прожжёт твоё тело, либо твою одежду, либо ты ощутишь (исходящее) от него зловоние»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 34 Hadith 54</td></tr></tbody></table></div>
 

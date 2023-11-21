@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once the Prophet (ﷺ) embraced me and said, "O Allah! Besto
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada kami [Abdul Warits] berkata, telah menceritakan kepada kami [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas] berkata: Pada suatu hari Rasulullah shallallahu 'alaihi wasallam berada di sampingku lalu bersabda: "Ya Allah, ajarkanlah dia Kitab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>75</td></tr><tr><td>Arabic No</td><td>75</td></tr><tr><td>Reference</td><td>Book 3 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Икримы о том, что Ибн ‘Аббас, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ обнял меня и сказал: “О Аллах, научи его Книге!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>75</td></tr><tr><td>Arabic No</td><td>75</td></tr><tr><td>Reference</td><td>Book 3 Hadith 17</td></tr></tbody></table></div>
 

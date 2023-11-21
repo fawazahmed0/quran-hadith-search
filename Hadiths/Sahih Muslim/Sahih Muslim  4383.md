@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Bakra (que Dieu l'agrée), le Prophète (paix et bénédiction de 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Yahya bin Habib Al Haristi] sedangkan lafadznya saling berdekatan, keduanya berkata; telah menceritakan kepada kami [Abdul Wahab At Tsaqafi] dari [Ayyub] dari [Ibnu Sirin] dari [Ibnu Abu Bakrah] dari [Abu Bakrah] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Sesungguhnya zaman itu terus berputar sama seperti saat Allah menciptakan langit dan bumi, setahun ada dua belas bulan, dan empat di antaranya adalah bulan-bulan haram, dan tiga di antaranya adalah bulan-bulan yang berurutan yaitu; Dzul Qa'dah, Dzul Hijjah, Muharram dan Rajab. Sedangkan bulan Rajab adalah bulan Mudzar, yaitu bulan yang terletak antara Jumadil Akhir dan Sya'ban." Kemudian beliau bertanya: "Bulan apakah sekarang ini?" kami menjawab, "Allah dan Rasul-Nya yang lebih mengetahui." Beliau terdiam beberapa saat, hingga kami menduga bahwa beliau akan menyebutnya dengan nama yang lain, lalu beliau bersabda: "Bukankah sekarang bulan Dzul Hijjah?" kami menjawab, "Benar." Beliau bertanya lagi: "Negeri apakah ini?" kami menjawab, "Allah dan Rasul-Nya yang lebih mengetahui." Beliau terdiam bebrapa saat, hingga kami menduga beliau akan menyebutnya dengan nama yang lain, lalu beliau bersabda: "Bukankah sekarang kita berada di negeri Baldah?" kami menjawab, "Benar." Beliau kembali bertanya: "Hari apakah ini?" kami menjawab, "Allah dan Rasul-Nya yang lebih mengetahi." Beliau terdiam beberapa saat, hingga kami mengira beliau akan menyebutnya dengan nama yang lain. Kemudian beliau bersabda: "Bukankah sekarang adalah hari Nahr (kurban)?" kami menjawab, "Benar wahai Rasulullah." Beliau kemudian bersabda: "Wahai Kaum Muslimin sekalian, sesungguhnya darahmu, harta bendamu -Muhammad berkata; aku kira beliau juga bersabda: dan kehormatanmu- adalah haram atas dirimu, seperti haramnya harimu sekarang ini, di negrimu ini, dan di bulan ini. Sesungguhnya kalian pasti akan bertemu dengan Rabb kalian (di hari kiamat kelak), dan Dia akan menanyakan tentang semua amal perbuatanmu. Oleh karena itu, sepeninggalku nanti janganlah kalian kembali kepada kekufuran ataupun kesesatan -di mana sebagian dari kalian membunuh sebagian yang lain-, hendaknya orang yang hadir pada saat ini menyampaikan kepada orang yang tidak hadir, bisa jadi orang yang mendengar dari mulut kedua justru lebih menjaga apa-apa yang didengarnya daripada orang yang mendengarnya secara langsung." Setelah itu beliau bersabda: "Bukankah aku telah menyampaikan kepada kalian semua?" Ibnu Habib menyebutkan dalam riwayatnya, "Bulan rajab adalah mudlar." Sedangkan dalam riwayatnya Abu Bakr disebutkan, "Maka janganlah kalian kembali (kepada kekufuran) sepeninggalku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4383</td></tr><tr><td>Arabic No</td><td>1679.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4383</td></tr><tr><td>Arabic No</td><td>1679.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 42</td></tr></tbody></table></div>
 

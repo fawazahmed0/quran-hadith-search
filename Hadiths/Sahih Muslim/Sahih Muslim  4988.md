@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Tha'laba reported that Allah's Apostle (may peace be upon prohibited the eat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan [Ibnu Abu Umar], Ishaq berkata; telah mengabarkan kepada kami, sedangkan yang dua mengatakan; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Abu Idris] dari [Abu Tsa'labah] dia berkata, "Nabi shallallahu 'alaihi wasallam melarang memakan binatang buas yang bertaring." Ishaq dan Ibnu Abu Umar menambahkan dalam haditsnya, Az Zuhri berkata, "Kami tidak mendengar hadits ini hingga kami tiba di negeri Syam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4988</td></tr><tr><td>Arabic No</td><td>1932.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4988</td></tr><tr><td>Arabic No</td><td>1932.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 17</td></tr></tbody></table></div>
 

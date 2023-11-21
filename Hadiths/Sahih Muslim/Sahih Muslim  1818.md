@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Alî Ibn 'Abî Tâlib (que Dieu l'agrée), l'Envoyé de Dieu (paix et 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Uqail] dari [Az Zuhri] dari [Ali bin Husain] bahwa [Al Husain bin Ali] telah menceritakan kepadanya dari [Ali bin Abu Thalib] bahwa pada suatu malam tiba-tiba Nabi shallallahu 'alaihi wasallam mendatangi rumah kami -yakni rumahku bersama Fathimah- seraya berkata: "Apakah kalian tidak shalat?" jawabku, "Wahai Rasulullah, sesungguhnya jiwa kami berada di tangan Allah. Bila Dia menghendaki kami bangun, tentu kami bangun." Mendengar jawaban itu beliau pergi. Kemudian terdengarlah olehku beliau memukul pahanya sambil bersabda: "Memang, manusia itu suka membantah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1818</td></tr><tr><td>Arabic No</td><td>775</td></tr><tr><td>Reference</td><td>Book 6 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али ибн Аби Талиб рассказал, что однажды ночью Пророк ﷺ пришёл к нему и Фатыме и сказал им: «Разве вы не совершаете молитву?» И ‘Али сказал: «“О Посланник Аллаха, души наши в руках Аллаха, и если Он пожелает разбудить нас, то разбудит”. После того как я сказал это, Посланник Аллаха ﷺ ушёл, а потом я услышал, как, удаляясь и хлопая себя рукой по бедру, он говорил: “…но человек больше всего склонен спорить” (Сура «аль-Кяхф», аят 54)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1818</td></tr><tr><td>Arabic No</td><td>775</td></tr><tr><td>Reference</td><td>Book 6 Hadith 246</td></tr></tbody></table></div>
 

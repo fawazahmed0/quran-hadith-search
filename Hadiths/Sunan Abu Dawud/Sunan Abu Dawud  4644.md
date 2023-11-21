@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-A’mash said:These clients (i.e., non-Arabs) are to be struck and cut off. I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Ibnu Idris] dari [Al A'masy] ia berkata, "Aku mendengar [Al Hajjaj] berkata di atas mimbar, "Orang-orang Hamra (para badui) ini telah berhak untuk dipotong tangannya. Demi Allah, sekiranya aku menginginkan kebinasaan mereka, maka aku akan biarkan mereka seperti hari-hari kemarin." Maksudnya adalah orang-orang asing di luar Arab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4644</td></tr><tr><td>Arabic No</td><td>4644</td></tr><tr><td>Reference</td><td>Book 42 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-А‘маша, что он слышал, как аль-Хаджжадж говорил, стоя на минбаре: «Плохо придётся им! Если я ударю палкой о палку, то уничтожу их так, (что они исчезнут), как вчерашний день!» При этом он имел в виду неарабов-мавали
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4644</td></tr><tr><td>Arabic No</td><td>4644</td></tr><tr><td>Reference</td><td>Book 42 Hadith 49</td></tr></tbody></table></div>
 

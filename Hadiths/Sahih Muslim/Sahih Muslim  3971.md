@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) reported:Allah's Apostle (ﷺ) vi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3971</td></tr><tr><td>Arabic No</td><td>1552.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Амра ибн Динара о том ,что он слышал, как Джабир ибн ‘Абдуллах говорил: «(Однажды) Пророк ﷺ зашёл в сад принадлежавший Умм Ма‘бад и сказал: “О Умм Ма‘бад, кто посадил эти пальмы мусульманин или неверный?” Она ответила: “Нет, мусульманин!” Тогда он сказал: “Если мусульманин посадит дерево, а потом (выросшее) от него поест человек, животное или птица, это обязательно зачтётся ему как садакъа до Дня воскрешения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3971</td></tr><tr><td>Arabic No</td><td>1552.04</td></tr><tr><td>Reference</td><td>Book 22 Hadith 10</td></tr></tbody></table></div>
 

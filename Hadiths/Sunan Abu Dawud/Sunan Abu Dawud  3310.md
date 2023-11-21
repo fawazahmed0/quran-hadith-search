@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:A woman came to the Prophet (ﷺ) and said (to him) that one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] ia berkata; saya mendengar [Al A'masy].. dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Muhammad bin Al 'Ala'], telah menceritakan kepada kami [Abu Mu'awiyah] dan [Al A'masy] secara makna, dari [Muslim Al Bathin] dari [Sa'id bin Jubair], dari [Ibnu Abbas] bahwa seorang wanita telah datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; sesungguhnya ibuku memiliki tanggungan puasa satu bulan. Apakah boleh saya menunaikan puasa tersebut untuknya? Kemudian beliau berkata: "Seandainya ibumu memiliki tanggungan hutang apakah engkau akan menunaikannya?" Ia berkata; ya. Beliau berkata: "Maka hutang Allah lebih berhak untuk ditunaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1953) Sahih Muslim (1148)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3310</td></tr><tr><td>Arabic No</td><td>3310</td></tr><tr><td>Reference</td><td>Book 22 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ка‘ба ибн Малика, да будет доволен им Аллах, что когда Аллаха простил его, он сказал Посланнику Аллаха ﷺ: «Я хочу раздать всё своё имущество в качестве милостыни…» до слов: «…лучше для тебя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1953) Sahih Muslim (1148)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3310</td></tr><tr><td>Arabic No</td><td>3310</td></tr><tr><td>Reference</td><td>Book 22 Hadith 69</td></tr></tbody></table></div>
 

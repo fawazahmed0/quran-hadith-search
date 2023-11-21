@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar said, "When Allah's Messenger (ﷺ) performed the first
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid bin Maimun] telah menceritakan kepada kami ['Isa bin Yunus] dari ['Ubaidullah bin 'Umar] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata: "Rasulullah Shallallahu'alaihiwasallam bila melakukan thawaf yang pertamanya (qudum) di Ka'bah Baitullah Beliau berjalan cepat pada tiga putaran, dan berjalan biasa pada empat putaran lainnya dan melakukan berjalan di dasar aliran air bila melakukan sa'iy antara bukit Ash-Shafaa dan Al Marwah". Aku berkata, kepada Nafi': "Apakah 'Abdullah berjalan biasa bila telah sampai di Rukun Yamani?". Dia menjawab: "Tidak, kecuali bila sudah merapat dengan Ar-Rukun (Al Hajar Al Aswad), dia tidak akan meninggalkannya sebelum mengusapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1644</td></tr><tr><td>Arabic No</td><td>1644</td></tr><tr><td>Reference</td><td>Book 25 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Совершая первый обход, Посланник Аллаха ﷺ проходил первые три круга быстрым шагом, а (остальные) четыре — обычным, когда же он совершал ритуальный бег между (холмами) ас-Сафа и аль-Марва, то пробегал по руслу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1644</td></tr><tr><td>Arabic No</td><td>1644</td></tr><tr><td>Reference</td><td>Book 25 Hadith 126</td></tr></tbody></table></div>
 

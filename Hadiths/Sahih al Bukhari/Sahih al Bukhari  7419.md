@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The Right (Hand) of Allah Is full,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam] telah menceritakan kepada kami [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Tangan kanan Allah selalu penuh dan sama sekali tidak pernah kurang karena berderma (infak), Dia sangat dermawan baik malam maupun siang, tidakkah kalian tahu apa yang telah diinfakan-Nya semenjak Ia mencipta langit dan bumi dan itu semua tidak mengurangi apa yang berada di tangan kanan-Nya? Dan arsy-Nya berada diatas air, dan ditangan-Nya yang lain urusan menjulurkan atau menahan, karenanya Dia meninggikan atau merendahkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7419</td></tr><tr><td>Arabic No</td><td>7419</td></tr><tr><td>Reference</td><td>Book 97 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Поистине, правая рука Аллаха полна, и не опустошат её непрерывные траты ночью и днём. Разве вы не видите, сколько израсходовал Он с тех пор, как создал небеса и землю? Однако, поистине, это не уменьшило того, что есть в Его правой руке. Трон его на воде, а в другой руке Его — изобилие (или: сжатие), и Он возвышает и принижает (кого пожелает)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7419</td></tr><tr><td>Arabic No</td><td>7419</td></tr><tr><td>Reference</td><td>Book 97 Hadith 47</td></tr></tbody></table></div>
 

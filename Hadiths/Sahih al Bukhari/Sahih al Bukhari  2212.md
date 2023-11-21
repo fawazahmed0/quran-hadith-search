@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham bin 'Urwa from his father:who heard Aisha saying, "The Holy Vers
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Ishaq] telah menceritakan kepada kami [Ibnu Numair] telah mengabarkan kepada kami [Hisyam] dan diriwayatkan pula telah menceritakan kepada saya [Muhammad bin Salam] berkata; Aku mendengar ['Utsman bin Farqad] berkata; Aku mendengar [Hisyam bin 'Urwah] menceritakan dari [Bapaknya] bahwa dia mendengar ['Aisyah radliallahu 'anha] berkata, (tentang ayat QS. An-Nisaa' ayat 6 yang artinya (barangsiapa diantara pemelihara itu yang mampu maka hendaknya ia menehan diri dari memakan harta anak yatim itu, dan barangsiapa yang miskin maka ia boleh makan harta itu menurut yang patut), ayat ini turun pada wali anak yatim yang memelihara dan menjaga hartanya, dan jika ia seorang miskin maka ia boleh memakannya dengan cara ma'ruf (yang patut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2212</td></tr><tr><td>Arabic No</td><td>2212</td></tr><tr><td>Reference</td><td>Book 34 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «“Кто богат, пусть воздержится, а кто беден, пусть ест по справедливости” (сура “ан-Ниса”, аят 6) — (этот аят) был ниспослан в отношении опекунов сирот, которые присматривают за ними и заботятся об их имуществе. Если он (опекун) нуждается, то он может потреблять (из этого имущества) по мере нужды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2212</td></tr><tr><td>Arabic No</td><td>2212</td></tr><tr><td>Reference</td><td>Book 34 Hadith 158</td></tr></tbody></table></div>
 

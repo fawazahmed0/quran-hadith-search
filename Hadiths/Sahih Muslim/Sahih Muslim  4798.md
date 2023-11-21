@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated (through a still different chain of transmitters) on the Sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Yunus bin Abu Ya'fur] dari [ayahnya] dari ['Arfajah] dia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Bila datang kepadamu seseorang yang hendak mematahkan tongkatmu (memecah belah jama'ah) atau memecah belah persatuan kalian, maka bunuhlah dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4798</td></tr><tr><td>Arabic No</td><td>1852.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Арфаджа, что Посланник Аллаха ﷺ сказал: «Если кто-то пришёл к вам, когда вы единодушно подчиняетесь определённому человеку, и хочет внести раздор между вами и расколоть ваше единство, то убейте его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4798</td></tr><tr><td>Arabic No</td><td>1852.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 95</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said “Eighty Meccans came down from the mountain of Al Tan’im against t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], ia berkata; telah mengabarkan kepada kami [Tsabit] dari [Anas] bahwa delapan puluh orang penduduk Mekkah telah turun kepada Nabi shallallahu 'alaihi wasallam dan para sahabatnya dari gunung di Tan'im pada saat shalat Fajar untuk membunuh mereka. Kemudian Rasulullah shallallahu 'alaihi wasallam menangkap mereka dalam karena menyerahkan diri, kemudian Rasulullah shallallahu 'alaihi wasallam membebaskan mereka. Lalu Allah menurunkan ayat: "Dan Dia-lah yang menahan tangan mereka dari (membinasakan) kamu dan (menahan) tangan kamu dari (membinasakan) mereka di tengah kota Mekah sesudah Allah memenangkan kamu atas mereka, dan adalah Allah Maha Melihat apa yang kamu kerjakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1808)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2688</td></tr><tr><td>Arabic No</td><td>2688</td></tr><tr><td>Reference</td><td>Book 15 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1808)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2688</td></tr><tr><td>Arabic No</td><td>2688</td></tr><tr><td>Reference</td><td>Book 15 Hadith 212</td></tr></tbody></table></div>
 

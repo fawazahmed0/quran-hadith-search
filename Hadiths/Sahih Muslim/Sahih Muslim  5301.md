@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported Allah's Messenger (ﷺ) as saying:When any one of you drops a mou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Sufyan] dari [Abu Az Zubair] dari [Jabir] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila suapan makanan salah seorang diantara kalian jatuh, ambilah kembali lalu buang bagian yang kotor dan makanlah bagian yang bersih. Jangan dibiarkannya dimakan setan, dan janganlah dia sapu tangannya dengan serbet sebelum dia jilati jarinya. Karena dia tidak tahu makanan mana yang membawa berkah." Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Abu Dawud Al Hafari]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakannya kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razaq] keduanya dari [Sufyan] dengan sanad ini. Di dalam Hadits keduanya di sebutkan; 'Dan janganlah dia meyapu tangannya dengan serbet sebelum dia jilati jarinya atau di jilati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5301</td></tr><tr><td>Arabic No</td><td>2033.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Посланник Аллаха ﷺ сказал: “Если у кого-нибудь из вас упадёт кусок (еды), пусть он возьмёт его, уберёт то, что к нему пристанет и съест его, не оставляя его шайтану, и пусть не вытирает руку свою платком, пока не оближет пальцы, ибо, поистине, не знает он, в каком (куске) его пищи (скрыта) благодать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5301</td></tr><tr><td>Arabic No</td><td>2033.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 175</td></tr></tbody></table></div>
 

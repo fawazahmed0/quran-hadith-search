@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:One of the evil deeds with bad consequence from whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Ya'qub] telah menceritakan kepada kami [Ishaq bin Sa'id] aku mendengar [Ayahku] menceritakan dari [Abdullah bin Umar] mengatakan; 'diantara masalah membahayakan yang jika seseorang terlanjur melakukannya, jarang sekali bisa menyelamatkan diri adalah menumpahkan darah haram tanpa alasan yang dihalalkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6863</td></tr><tr><td>Arabic No</td><td>6863</td></tr><tr><td>Reference</td><td>Book 87 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Поистине, к числу неприятностей, из которых нет выхода для того, кто впутался в них, относится пролитие запретной крови без права на это!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6863</td></tr><tr><td>Arabic No</td><td>6863</td></tr><tr><td>Reference</td><td>Book 87 Hadith 3</td></tr></tbody></table></div>
 

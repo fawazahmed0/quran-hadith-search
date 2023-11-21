@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said (that Allah said), "Vowing does not 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyir bin Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengbarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, bersabda (Allah berfirman); "Nadzar tak akan mendatangkan sesuatu bagi anak Adam yang belum Aku takdirkan sebelumnya, namun takdir yang telah Kutetapkan baginyalah yang bakalan menjumpainya, dan Aku telah mentakdirkannya kepadanya untuk Aku keluarkan dari orang bakhil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6609</td></tr><tr><td>Arabic No</td><td>6609</td></tr><tr><td>Reference</td><td>Book 82 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Аллах Всевышний сказал): “Не принесёт обет сыну Адама ничего, кроме того, что Я предопределил ему, напротив, предопределённое Мною приводит его к (тому, ради чего он приносит обет), и таким путём Я заставляю скупого (тратить свои средства)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6609</td></tr><tr><td>Arabic No</td><td>6609</td></tr><tr><td>Reference</td><td>Book 82 Hadith 15</td></tr></tbody></table></div>
 

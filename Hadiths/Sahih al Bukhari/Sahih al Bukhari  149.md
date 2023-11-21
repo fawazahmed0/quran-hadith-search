@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Once I went up the roof of our house and saw Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah menceritakan kepada kami [Yahya] dari [Muhammad bin Yahya bin Hibban] bahwa pamannya [Wasi' bin Hibban] mengabarkan kepadanya bahwa ['Abdullah bin 'Umar] mengabarkan kepadanya, ia berkata, "Pada suatu hari aku pernah berada di atas rumah milik kami, saat itu aku melihat Rasulullah shallallahu 'alaihi wasallam duduk (buang hajat) di atas dua batu bata menghadap Baitul Maqdis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>149</td></tr><tr><td>Arabic No</td><td>149</td></tr><tr><td>Reference</td><td>Book 4 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Однажды я забрался на крышу нашего дома и увидел Посланника Аллаха ﷺ присевшего по своей нужде на два необожжённых кирпича и повернувшегося в сторону Иерусалима»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>149</td></tr><tr><td>Arabic No</td><td>149</td></tr><tr><td>Reference</td><td>Book 4 Hadith 15</td></tr></tbody></table></div>
 

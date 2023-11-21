@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ See translation for hadith 484 above
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>489</td></tr><tr><td>Arabic No</td><td>489</td></tr><tr><td>Reference</td><td>Book 8 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И ‘Абдуллах ибн ‘Умар рассказывал, что Посланник Аллаха ﷺ останавливался у деревьев слева от дороги внутри вади близ Харша. Это вади примыкает к подножию Харша, а расстояние между ним и дорогой примерно соответствует дальности полёта стрелы. ‘Абдуллах (ибн ‘Умар) всегда молился, обратившись лицом к дереву, которое росло ближе всего к дороге и было самым высоким изо всех деревьев
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>489</td></tr><tr><td>Arabic No</td><td>489</td></tr><tr><td>Reference</td><td>Book 8 Hadith 136</td></tr></tbody></table></div>
 

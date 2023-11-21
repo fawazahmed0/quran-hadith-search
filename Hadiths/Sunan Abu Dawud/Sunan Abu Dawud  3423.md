@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Messenger of Allah (ﷺ) got him self cupped and gave th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yazid? bin Zurai'], telah menceritakan kepada kami [Khalid], dari [Ikrimah] dari [Ibnu Abbas], ia berkata; Rasulullah shallallahu 'alaihi wasallam berbekam dan memberikan upah kepada tukang bekam. Seandainya beliau meyakininya sebagai sesuatu yang buruk, niscaya beliau tidak memberinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2279)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3423</td></tr><tr><td>Arabic No</td><td>3423</td></tr><tr><td>Reference</td><td>Book 24 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Посланнику Аллаха ﷺ по его просьбе сделали кровопускание /хиджама/, и он заплатил за это, а если бы этот заработок был скверным (запретным), Посланник Аллаха ﷺ не стал бы ничего давать тому человеку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2279)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3423</td></tr><tr><td>Arabic No</td><td>3423</td></tr><tr><td>Reference</td><td>Book 24 Hadith 8</td></tr></tbody></table></div>
 

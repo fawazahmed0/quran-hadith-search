@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Apostle (ﷺ) as having
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru An Naqid], [Zuhair bin Harb] dan [Ibnu Abi Umar]. [Zuhair] mengatakan; Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Sa'id] dari [Abu Hurairah] bahwasannya Nabi shallallahu 'alaihi wasallam melarang orang kota bertransaksi dengan orang badui atau transaksi Najasy (yaitu menambah nilai harga barang untuk menipu pembeli) atau meminang seorang wanita yang telah dipinang oleh saudaranya atau membeli barang yang telah ditawar saudaranya, dan janganlah seorang istri meminta suaminya supaya menceraikan madunya agar semua kebutuhannya terpenuhi. Amru di dalam riwayatnya menambahkan; Dan janganlah seseorang menawar harga yang telah ditawar oleh saudaranya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3458</td></tr><tr><td>Arabic No</td><td>1413.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3458</td></tr><tr><td>Arabic No</td><td>1413.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 61</td></tr></tbody></table></div>
 

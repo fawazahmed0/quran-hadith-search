@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) said, "Every prophet used to have a Hawari (i.e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Malik bin Isma'il] telah bercerita kepada kami ['Abdul 'Aziz, dia adalah putra Abu Salamah] dari [Muhammad bin Al Munkadir] dari [Jabir radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya setiap nabi memiliki hawariy (pengikut setia) dan hawariyku adalah Az Zubair bin Al 'Awwam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 62 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Поистине, у каждого пророка был свой апостол [или последователь; ученик], а моим апостолом является аз-Зубайр ибн аль-‘Аввам!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 62 Hadith 67</td></tr></tbody></table></div>
 

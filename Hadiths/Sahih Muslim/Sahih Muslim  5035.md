@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit de Khâlid Ibn Al-Walîd (que Dieu l'agrée), étant entré avec l'Envoy�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah] semuanya dari [Ibnu Wahb]. [Harmalah] mengatakan; telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu bin Syihab] dari [Abu Umamah bin Sahl bin Hunaif Al Anshari] bahwa [Abdullah bin Abbas] pernah mengabarkan kepadanya bahwa [Khalid bin Walid] yang di juluki dengan pedang Allah telah mengabarkan kepadanya; bahwa dia bersama dengan Rasulullah shallallahu 'alaihi wasallam pernah menemui Maimunah isteri Nabi shallallahu 'alaihi wasallam -dia adalah bibinya Khalid dan juga bibinya Ibnu Abbas- lantas dia mendapati daging biawak yang telah di bakar, kiriman dari saudara perempuanya yaitu Hufaidah binti Al Harits dari Najd, lantas daging Biawak tersebut disuguhkan kepada Rasulullah shallallahu 'alaihi wasallam. Sangat jarang beliau disuguhi makanan hingga beliau diberitahu nama makanan yang disuguhkan, ketika Rasulullah shallallahu 'alaihi wasallam hendak mengambil daging biawak tersebut, seorang wanita dari beberapa wanita yang ikut hadir berkata, "Beritahukanlah kepada Rasulullah shallallahu 'alaihi wasallam mengenai daging yang kalian suguhkan!" Kami lalu mengatakan, "Itu adalah daging biawak, wahai Rasulullah!" Seketika itu juga Rasulullah shallallahu 'alaihi wasallam mengangkat tangannya, Khalid bin Walid pun berkata, "Wahai Rasulullah, apakah daging biawak itu haram?" Beliau menjawab: "Tidak, namun di negeri kaumku tidak pernah aku jumpai daging tersebut, maka aku enggan (memakannya)." Khalid berkata, "Lantas aku mendekatkan daging tersebut dan memakannya, sementara Rasulullah melihatku dan tidak melarangnya." Telah menceritakan kepadaku [Abu Bakr bin An Nadlr] dan [Abdurrahman bin Humaid], Abd berkata; telah mengabarkan kepadaku, dan Abu Bakr berkata; telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [Ayahku] dari [Shalih bin Kaisan] dari [Ibnu Syihab] dari [Abu Umamah bin Sahl] dari [Ibnu Abbas] dia mengabarkan kepadanya, bahwa [Khalid bin Walid] mengabarkan kepadanya, bahwa ia pernah bersama Rasulullah shallallahu 'alaihi wasallam masuk ke rumah Maimunah binti Al Harits -Maimunah adalah bibinya Khalid-, lalu Rasulullah shallallahu 'alaihi wasallam disuguhi daging biawak, hasil pemberian Ummu Hufaidl dari Najd, sementara Ummu Hufaidl adalah isteri seorang laki-laki bani Ja'far. Sudah menjadi kebiasaan Rasulullah shallallahu 'alaihi wasallam, beliau tidak mau menyantap hidangan hingga beliau mengetahui hidangan tersebut…kemudian perawi menyebutkan sebagaimana haditsnya Yunus. Dan ia menambahkan di akhir hadits. Dan telah menceritakan kepadanya [Ibnu Al Asham] dari [Maimunah], sedangkan ia (Ibnu Al Asham) termasuk dari anak asuhnya." Dan telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Umamah bin Sahl bin Hunaif] dari [Ibnu Abbas] dia berkata, "Nabi shallallahu 'alaihi wasallam pernah disuguhi dua daging biawak panggang, ketika itu kami berada di rumah Maimunah…sebagaimana hadits mereka, namun ia tidak menyebutkan nama Yazid bin Al Asham dari Maimunah." Dan telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Al Laits] telah menceritakan kepada kami [Ayahku] dari [Kakekku] telah menceritakan kepadaku [Khalid bin Yazid] telah menceritakan kepadaku [Sa'id bin Abu Hilal] dari [Ibnu Al Munkadir] bahwa [Abu Umamah bin Sahl] telah mengabarkan kepadanya dari [Ibnu Abbas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah disuguhi daging biawak, ketika itu beliau tengah berada di rumah Maimunah, sedangkan di samping beliau ada Khalid bin Walid …lalu perawi menyebutkan hadits yang semakna dengan hadits Zuhri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5035</td></tr><tr><td>Arabic No</td><td>1946.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5035</td></tr><tr><td>Arabic No</td><td>1946.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 64</td></tr></tbody></table></div>
 

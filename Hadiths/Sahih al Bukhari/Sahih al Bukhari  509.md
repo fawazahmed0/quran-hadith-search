@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The Prophet (ﷺ) said, (what is ascribed to him in the follo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada kami ['Abdul Warits] berkata, telah menceritakan kepada kami [Yunus] dari [Humaid bin Hilal] dari [Abu Shalih] bahwa [Abu Sa'id] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan kepada kami [Sulaiman bin Al Mughirah] berkata, telah menceritakan kepada kami [Humaid bin Hilal Al 'Adawi] berkata, telah menceritakan kepada kami [Abu Shalih as Samman] berkata, "Pada hari jum'at aku melihat [Abu Sa'id Al Khudri] shalat menghadap sesuatu yang membatasinya dari orang-orang (yang lewat). Kemudian ada seorang pemuda dari Bani Abu Mu'aith hendak lewat di depannya. Maka Abu Sa'id menghalangi orang itu dengan menahan dadanya. Pemuda itu mencari jalan tapi tidak ada kecuali di depan Abu Sa'id. Maka pemuda itu mengulangi lagi untuk lewat. Abu Sa'id kembali menghadangnya dengan lebih keras dari yang pertama. Kemudian pemuda itu pergi meninggalkan Abu Sa'id dan menemui Marwan, ia lalu mengadukan peristiwa yang terjadai antara dirinya dengan Abu Sa'id. Setelah itu Abu Sa'id ikut menemui Marwan, Marwan pun berkata, "Apa yang kau lakukan terhadap anak saudaramu ini, wahai Abu Sa'id?" Abu Sa'id menjawab, "Aku pernah mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Jika seorang dari kalian shalat menghadap sesuatu yang membatasinya dari orang, kemudian ada seseorang yang hendak lewat dihadapannya maka hendaklah dicegah. Jika dia tidak mau maka perangilah dia, karena dia adalah setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>509</td></tr><tr><td>Arabic No</td><td>509</td></tr><tr><td>Reference</td><td>Book 8 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Салих ас-Самман сказал:\n— (Однажды) я видел, как Абу Са‘ид, да будет доволен им Аллах, совершал в пятницу молитву, отгородившись чем-то от людей, и какой-то юноша из племени бану абу му‘айт хотел пройти перед ним, однако Абу Са‘ид толкнул его в грудь. Этот юноша посмотрел (вокруг) и, не видя иной возможности, снова попытался пройти перед ним, но Абу Са‘ид толкнул его ещё сильнее. Тогда тот принялся поносить Абу Са‘ида, а потом явился к Марвану и пожаловался ему на то, как он с ним обошёлся. Что же касается Абу Са‘ида, то он пришёл к Марвану вслед за ним, и (Марван) спросил его: «Что произошло между тобой и сыном твоего брата, о Абу Са‘ид?» Он ответил: «Я слышал, как Пророк ﷺ сказал: “Если кто-нибудь из вас станет молиться(, обратившись лицом) к тому, что будет отделять его от людей, а кто-то захочет пройти перед ним (в это время), пусть (совершающий молитву) оттолкнёт его, и если тот откажется (подчиниться), пусть он сразится с ним, ибо это — шайтан!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>509</td></tr><tr><td>Arabic No</td><td>509</td></tr><tr><td>Reference</td><td>Book 8 Hadith 156</td></tr></tbody></table></div>
 

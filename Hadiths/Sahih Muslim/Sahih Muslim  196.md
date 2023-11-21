@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Tamim ad-Dari that the Prophet (ﷺ) said:"Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abbad al-Makki] telah menceritakan kepada kami [Sufyan] -dia berkata, saya berkata kepada Suhail- bahwa [Amru] menceritakan kepada kami dari [al-Qa'qa'] dari [bapakmu] dia berkata, dan aku berharap agar satu perawi jatuh dariku, Amru berkata, "Lalu al Qa'qa' berkata, "Saya mendengarnya dari orang yang yang bapakku pernah mendengar darinya -dia adalah temannya di Syam-. Kemudian telah menceritakan kepada kami [Sufyan] dari [Suhail] dari [Atha' bin Yazid] dari [Tamim ad-Dari] bahwa nabi shallallahu 'alaihi wasallam bersabda: "Agama itu adalah nasihat." Kami bertanya, "Nasihat untuk siapa?" Beliau menjawab, "Untuk Allah, kitab-Nya, Rasul-Nya, dan para pemimpin kaum muslimin, serta kaum awam mereka." Telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Ibnu Mahdi] telah menceritakan kepada kami [Sufyan] dari [Suhail bin Abu Shalih] dari [Atha' bin Yazid al-Laitsi] dari [Tamim ad-Dari] dari Nabi shallallahu 'alaihi wasallam dengan semisalnya, Dan telah menceritakan kepada kami [Umayyah bin Bistham] telah menceritakan kepada kami [Yazid] -yaitu Ibnu Zurai'- telah menceritakan kepada kami [Rauh] -yaitu Ibnu al-Qasim- telah menceritakan kepada kami [Suhail] dari [Atha' bin Yazid] dia mendengarnya -saat 'Atha menceritakan kepada Abu Shalih- dari [Tamim ad-Dari] dari Rasulullah shallallahu 'alaihi wasallam, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>55.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Тамим ад-Дари (да будет доволен им Аллах) о том, что Пророк ﷺ сказал: «Религия есть проявление искренности». Мы спросили: «По отношению к кому?» Он сказал: «(По отношению) к Аллаху, и к Его Книге, и к Его посланнику, и к руководителям мусульман и ко всем мусульманам вообще»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>55.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 103</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:that he entered upon Yahya bin Sa'id while one of Yahya's son
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ya'qub] berkata, telah mengabarkan kepada kami [Ishaq bin Sa'id bin Amru] dari [Bapaknya] Bahwasanya ia mendengar dia menceritakan dari [Ibnu Umar] radliallahu 'anhuma, bahwa ia pernah menemui Yahya bin Sa'id, sementara ada seorang anak laki-laki keturunan Yahya mengikat seekor ayam untuk dijadikan sebagai sasaran tembaknya, maka Ibnu Umar pun berjalan ke arahnya dan melepaskan ayam tersebut. kemudian ia kembali lagi bersama ayam dan anak laki-laki tersebut, setelah itu ia berkata, "Hardiklah anak laki-laki kalian dari menjadikan burung ini sebagai sasaran tembaknya, sesungguhnya aku mendengar Nabi shallallahu 'alaihi wasallam melarang untuk menjadikan binatang atau selainnya sebagai sasaran tembak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5514</td></tr><tr><td>Arabic No</td><td>5514</td></tr><tr><td>Reference</td><td>Book 72 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Умар, да будет доволен им Аллах, сказал, что он отправился к Яхье ибн Са‘иду, когда один из сыновей Яхьи связывал курицу для того, чтобы стрелять в нее. Ибн Умар подошел к ней и развязал ей. Потом он подошел с ней и мальчиком к нему и сказал: “Препятствуйте своим мальчикам привязывать птиц ради того, чтобы убить их (сделав мишенью), поистине, я слышал, как Пророк ﷺ запрещал держать животных (привязанными) для того, чтобы (потом) убивать (их, превращая в мишень для стрельбы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5514</td></tr><tr><td>Arabic No</td><td>5514</td></tr><tr><td>Reference</td><td>Book 72 Hadith 40</td></tr></tbody></table></div>
 

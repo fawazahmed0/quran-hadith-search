@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Ibn 'Umar (Allah be pleased wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Sulaiman bin Bilal] dari [Abdullah bin Dinar] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam melarang jual beli wala' dan menghibahkannya. Muslim berkata; "Manusia semuanya akan selalu membutuhkan Abdullah bin Dinar dalam permasalahan hadits ini." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb] keduanya berkata; Telah menceritakan kepada kami [Ibnu 'Uyainah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] mereka berkata; Telah menceritakan kepada kami [Isma'il bin Ja'far]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Sufyan bin Sa'id]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Al Mutsanna] dia berkata; Telah menceritakan kepada kami [Abdul Wahhab] telah menceritakan kepada kami ['Ubaidullah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Rafi'] telah menceritakan kepada kami [Abu Fudaik] telah mengabarkan kepada kami [Adl Dlahhak yaitu Ibnu Utsman] mereka semuanya dari [Abdullah bin Dinar] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas, hanya saja dalam hadits riwayat At Tsaqafi dari Ubaidillah tidak disebutkan kecuali tentang jual beli dan tidak menyebutkan hibah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3789</td></tr><tr><td>Arabic No</td><td>1506.02</td></tr><tr><td>Reference</td><td>Book 20 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3789</td></tr><tr><td>Arabic No</td><td>1506.02</td></tr><tr><td>Reference</td><td>Book 20 Hadith 20</td></tr></tbody></table></div>
 

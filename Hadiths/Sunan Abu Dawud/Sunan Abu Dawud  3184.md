@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: We asked the Prophet (ﷺ) about walking with the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], Telah menceritakan kepada kami [Abu 'Awanah], dan [Yahya Al Mujabbir], ia berkata; ia adalah Yahya bin Abdullah At Taimi, dari [Abu Majidah] dari [Ibnu Mas'ud] ia berkata; kami bertanya kepada Nabi kami shallallahu 'alaihi wasallam mengenai berjalan ketika menghantarkan jenazah. Kemudian beliau bersabda: "Tidak sampai berlari, apabila jenazah itu baik maka ia segera mendapatkan kebaikan (kenikmatan), dan apabila tidak demikian (jenazahnya buruk) maka jauhilah penghuni neraka. Jenazah itu diikuti dan bukan engkau yang diikuti, tidak boleh ada yang mendahuluinya." Abu Daud berkata; hadits tersebut adalah dha'if, ia adalah Yahya bin Abdullah, dan ia adalah Yahya Al Jabir. Abu Daud berkata; dan ini adalah orang Kufah, dan Abu Majidah adalah orang Bashrah. Abu Daud berkata; Abu Majidah ini tidak dikenal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3184</td></tr><tr><td>Arabic No</td><td>3184</td></tr><tr><td>Reference</td><td>Book 21 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Мас‘уд, да будет доволен им Аллах, передаёт: «Мы спросили нашего Пророка ﷺ о том, как следует идти за погребальными носилками, и он сказал: “Идите быстро, ибо, если человек был благим, это ускорит его прибытие, если же всё было иначе, то да сгинут обитатели Ада! Погребальные носилки провожают, а не идут перед ними”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3184</td></tr><tr><td>Arabic No</td><td>3184</td></tr><tr><td>Reference</td><td>Book 21 Hadith 96</td></tr></tbody></table></div>
 

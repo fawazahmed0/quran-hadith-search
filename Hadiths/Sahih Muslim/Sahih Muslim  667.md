@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubaidullah b. Abdullah b. 'Utba b. Mas'ud said:Umm Qais, daughter of Mihsan, was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] telah mengabarkan kepada kami [Yunus bin Yazid] bahwa [Ibnu Syihab] telah mengabarkan kepadanya, dia berkata, telah mengabarkan kepadaku [Ubaidullah bin Abdullah bin Utbah bin Mas'ud] bahwa [Ummu Qais binti Mihshan] -seorang wanitayang pernah hijrah pertama-tama dan berbaiat kepada Rasulullah shallallahu 'alaihi wasallam, dan dia adalah saudari Ukkasyah bin Mihshan, salah seorang dari bani Asad bin Khuzaimah-, Ubaidullah berkata, "Ummu Qais telah mengabarkan kepadaku bahwa dia pernah datang kepada Rasulullah shallallahu 'alaihi wasallam dengan membawa bayi laki-lakinya yang belum makan makanan." Ubaidullah melanjutkan ucapannya, "Ummu Qais kemudian mengabarkan kepadaku bahwa bayinya kencing pada pangkuan Rasulullah shallallahu 'alaihi wasallam, Rasulullah shallallahu 'alaihi wasallam lalu meminta air seraya memercikkannya pada bajunya, dan beliau tidak mencucinya dengan sebenar-benarnya mencuci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>667</td></tr><tr><td>Arabic No</td><td>287.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Убайдуллах ибн ‘Абдуллах ибн ‘Утба ибн Мас‘уд сказал: «Сестра одного из (членов племени) бану асад ибн хузайма ‘Уккаши ибн Михсана Умм Кайс бинт Михсан, одна из первых женщин, переселившихся (в Медину) и давших клятву Посланнику Аллаха ﷺ со своим сыном, который ещё не мог есть обычную пищу» . ‘Убайдуллах сказал: «(Умм Кайс) сообщила мне, что её сын помочился на колени Посланника Аллаха ﷺ, который велел принести воды и обрызгал ею свою одежду, но не стал застирывать её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>667</td></tr><tr><td>Arabic No</td><td>287.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 133</td></tr></tbody></table></div>
 

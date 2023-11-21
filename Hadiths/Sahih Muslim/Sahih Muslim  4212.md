@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mus'ab b. Sa'd reported on the authority of his father. I was ailing. I sent mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Al Hasan bin Musa] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Simak bin Harb] telah menceritakan kepadaku [Mush'ab bin Sa'd] dari [Ayahnya] dia berkata, "Ketika saya sakit, maka saya mengutus seseorang untuk menemui Nabi shallallahu 'alaihi wasallam. Saya berkata, "Biarkanlah saya membagi hartaku sekehendakku." Namun beliau tidak membolehkannya, saya berkata lagi, "Bagaimana jika setengahnya." Beliau pun tetap tidak membolehkannya, saya berkata lagi, "Bagaimana jika sepertiganya." Sa'd berkata, "Beliau diam setelah saya mengatakan sepertiganya." Dia melanjutkan, "Dan sepertinya beliau membolehkan sepertiganya." Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Simak] dengan sanad-sanad seperti ini, namun dia tidak menyebutkan, "Dan sepertinya beliau membolehkan sepertiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4212</td></tr><tr><td>Arabic No</td><td>1628.04</td></tr><tr><td>Reference</td><td>Book 25 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4212</td></tr><tr><td>Arabic No</td><td>1628.04</td></tr><tr><td>Reference</td><td>Book 25 Hadith 9</td></tr></tbody></table></div>
 

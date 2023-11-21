@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) stood up among us and addressed (saying) "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Mughirah bin Nu'man] dari [Sa'id bin Jubair] dari [Ibnu'Abbas] mengatakan, Nabi shallallahu 'alaihi wasallam pernah berdiri di tengah-tengah kami menyampaikan orasi, lantas bersabda: "Kalian dikumpulkan dengan keadaan tidak beralas kaki, telanjang dan tidak dikhitan, sambil beliau mengutip firman Allah 'Sebagaimana kami menciptakan awal mula, begitulah kami mengembalikannya' (QS. Anbiya' 104). Manusia pertama-tama yang diberi pakaian adalah Ibrahim 'alaihissalam, dan ia didatangkan dengan beberapa orang umatku, lantas mereka diseret ke sebelah kiri, sehingga aku mengiba-iba; 'Ya rabbi, tolong sahabatku, tolong sahabatku' Namun Allah hanya menjawab; 'engkau tidak tahu, apa yang mereka perbuat setelahnya'. Maka hanya kuutarakan sebagaimana ucapan seorang hamba yang shalih (maksudnya ucapan 'isa), 'Dan aku menjadi saksi mereka ketika aku berada ditengah-tengah mereka' hingga ayat 'sesungguhnya Engkau Maha Perkasa' (QS. Almaidah 118-119). Kata Ibnu 'Abbas, ada berita bahwa mereka murtad di kemudian hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6526</td></tr><tr><td>Arabic No</td><td>6526</td></tr><tr><td>Reference</td><td>Book 81 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «(Однажды) Пророк ﷺ обратился к нам, сказав: «Поистине, (в День суда) вы будете собраны пред Аллахом босыми, нагими и необрезанными». (Затем он прочитал аят, в котором сказано): «Так же, как Мы начали первое сотворение, Мы повторим его (снова)» (сура “аль-Анбия”, аят 104) (После чего сказал): «Первым, кого оденут в День воскресения, будет Ибрахим, затем (некоторых из) моих сподвижников отведут налево, а я воскликну: “О Господь! Это мои сподвижники!”, но мне ответят: “Ты не знаешь, что они сделали после тебя!” — и тогда я скажу то же, что сказал праведный раб: “Я был свидетелем о них, пока находился среди них. Когда же Ты упокоил меня, то уже только Ты наблюдал за ними. Воистину, Ты — Свидетель всякой вещи. Если Ты подвергнешь их мучениям, то ведь они — Твои рабы. Если же Ты простишь им, то ведь Ты — Могущественный, Мудрый” (сура “аль-Маида”, аят 118). И мне будет сказано: “Они не переставали отступать (от установлений ислама с тех самых пор, как ты покинул их)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6526</td></tr><tr><td>Arabic No</td><td>6526</td></tr><tr><td>Reference</td><td>Book 81 Hadith 115</td></tr></tbody></table></div>
 

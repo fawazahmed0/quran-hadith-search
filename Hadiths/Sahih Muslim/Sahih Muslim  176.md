@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Shuraih al-Khuzai' that the Prophet (may 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Abdullah bin Numair] semuanya dari [Ibnu Uyainah] berkata [Numair] telah menceritakan kepada kami [Sufyan] dari [Amru] bahwa dia mendengar [Nafi' bin Jubair] mengabarkan dari [Abu Syuraih al-Khuza'i] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa beriman kepada Allah dan hari akhir hendaklah dia berbuat baik kepada tetangganya. Barangsiapa beriman kepada Allah dan hari akhir hendaklah dia memuliakan tamunya. Dan barangsiapa beriman kepada Allah dan hari akhir hendaklah dia mengucapkan perkataan yang baik atau diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>176</td></tr><tr><td>Arabic No</td><td>48</td></tr><tr><td>Reference</td><td>Book 1 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Шурайха аль-Хуза’и, что Пророк ﷺ сказал: «Пусть тот, кто верует в Аллаха и в Последний день, делает добро своему соседу, и пусть тот, кто верует в Аллаха и в Последний день, оказывает уважение своему гостю, и пусть тот, кто верует в Аллаха и в Последний день, говорит благое или молчит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>176</td></tr><tr><td>Arabic No</td><td>48</td></tr><tr><td>Reference</td><td>Book 1 Hadith 83</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : Je jalousais les femmes qui s'offrent 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [ayahnya] dari [Aisyah] dia berkata; Saya selalu cemburu seorang wanita yang menyerahkan dirinya kepada Rasulullah shallallahu 'alaihi wasallam, saya berkata; Apakah seorang wanita menyerahkan dirinya? Maka ketika Allah Azza Wa Jalla menurunkan ayat: "Kamu boleh menangguhkan (menggauli) siapa yang kamu kehendaki di antara mereka (isteri-isterimu) dan (boleh pula) menggauli siapa yang kamu kehendaki. Dan siapa-siapa yang kamu ingini untuk menggaulinya kembali dari perempuan yang telah kamu cerai maka tidak ada dosa bagimu…." (Al Ahzab: 51). Saya (Aisyah) berkata; Demi Allah, saya tidak melihat Rabbmu kecuali sangat cepat memenuhi keinganan anda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3631</td></tr><tr><td>Arabic No</td><td>1464.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3631</td></tr><tr><td>Arabic No</td><td>1464.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 64</td></tr></tbody></table></div>
 

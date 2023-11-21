@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I found the Prophet (ﷺ) in the mosque along with some people. He
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ishaq bin 'Abdullah bin Abu Thalhah] bahwa dia mendengar [Anas] berkata, "Aku menemui Nabi shallallahu 'alaihi wasallam saat beliau sedang berada di Masjid bersama orang banyak. Maka aku menghadap kepada beliau, lalu beliau bertanya kepadaku: "Apakah kamu diutus oleh Abu Thalhah?" Aku menjawab, "Ya." Beliau bertanya lagi: "Untuk undangan makan?" Aku menjawab: "Benar." Kemudian beliau bersabda kepada orang-orang yang bersama beliau: "Mari berangkat!" Maka beliau pun berangkat dan aku juga berangkat bersama mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>422</td></tr><tr><td>Arabic No</td><td>422</td></tr><tr><td>Reference</td><td>Book 8 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Исхака ибн ‘Абдуллах о том, что он слышал, как Анас ибн Малик сказал: «(Однажды) я нашёл Пророка ﷺ в мечети и с ним были люди. Я подошёл (к ним), а он сказал мне: “Тебя прислал Абу Тальха?” Я ответил: “Да”. Он спросил: “Для (того, чтобы пригласить поесть) еды?” Я сказал: “Да”. Тогда он сказал тем, кто находился вокруг него: “Вставайте!” И он отправился (к Абу Тальхе), а я пошёл впереди них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>422</td></tr><tr><td>Arabic No</td><td>422</td></tr><tr><td>Reference</td><td>Book 8 Hadith 72</td></tr></tbody></table></div>
 

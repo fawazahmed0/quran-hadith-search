@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:When I came to Medina. I met 'Abdullah bin Salam. He said, "W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Syu'bah] dari [Sa'id bin Abu Burdah] dari [bapaknya]; "Aku mengunjungi Madinah lalu bertemu dengan ['Abdullah bin Salam radliallahu 'anhu]. Dia berkata; "Tidakkah sebaiknya kamu berkunjung ke rumahku, Nanti kusuguhi makanan terbuat dari tepung dan kurma dan kamu masuk ke dalam rumah. Kemudian dia berkata lagi; "Sungguh kamu sekarang berada di negeri praktek riba sudah merajalela. Jika kamu bersama seseorang yang benar akan kutunjukkan kepadamu orang yang memiliki buah tin dan gandum atau biji-bijian, tapi janganlah kamu mengambilnya karena itu barang hasil riba". [An-Nadlar], [Abu Daud] dan [Wahb] tidak menyebutkannya dari [Syu'bah] tentang "rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3814</td></tr><tr><td>Arabic No</td><td>3814</td></tr><tr><td>Reference</td><td>Book 63 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бурда, да будет доволен им Аллах, сказал: «Когда я приехал в Медину, меня встретил ‘Абдуллах ибн Салям, да будет доволен им Аллах, и сказал мне: “Идём ко мне домой, я напою тебя савиком, накормлю финиками”. Затем он сказал: “Ты живёшь на земле (он жил в Ираке), где распространено ростовщичество, поэтому если тот, кто должен тебе, дарит тебе охапку соломы или ячменя, или катта (один из видов корма для скота), то не принимай это, ведь это ростовщичество”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3814</td></tr><tr><td>Arabic No</td><td>3814</td></tr><tr><td>Reference</td><td>Book 63 Hadith 39</td></tr></tbody></table></div>
 

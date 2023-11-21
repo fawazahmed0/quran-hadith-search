@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Oum Sulaym (raa), J'interrogeai l'Envoyé de Dieu (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abbas bin al-Walid] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] bahwa [Anas bin Malik] telah menceritakan kepada mereka bahwa [Ummu Sulaim] pernah bercerita bahwa dia bertanya kepada Nabi Shallallahu'alaihiwasallam tentang wanita yang bermimpi (bersenggama) sebagaimana yang terjadi pada seorang lelaki. Maka Rasulullah Shallallahu'alaihiwasallam bersabda, "Apabila perempuan tersebut bermimpi keluar mani, maka dia wajib mandi hadas." Ummu Sulaim berkata, "Aku malu untuk bertanya perkara tersebut". Ummu Sulaim bertanya, "Apakah perkara ini berlaku pada perempuan?" Nabi Shallallahu'alaihiwasallam bersabda, "Ya (wanita juga keluar mani, kalau dia tidak keluar) maka dari mana terjadi kemiripan?. Ketahuilah bahwa mani lelaki itu kental dan berwarna putih, sedangkan mani perempuan itu encer dan berwarna kuning. Manapun mani dari salah seorang mereka yang lebih mendominasi atau menang, niscaya kemiripan terjadi karenanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>710</td></tr><tr><td>Arabic No</td><td>311</td></tr><tr><td>Reference</td><td>Book 3 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Катады, что Анас, да будет доволен им Аллах, передал им о том, что Умм Сулейм рассказывала, что она спросила Пророка ﷺ о женщине, которая видит во сне то же, что (видит во сне) мужчина и Посланник Аллаха ﷺ сказал: «Если женщин увидела это, пусть искупается».Умм Сулейм сказала: «Я покраснела из-за этого». И она спросила: «Разве такое бывает?» Пророк ﷺ сказал: «Конечно, иначе откуда же появляется сходство (матери и ребенка)? Поистине, жидкость мужчины густая и белая, а жидкость женщины прозрачная и желтоватая, и от той из них, которая превосходит (другую по силе) или опередит (во время полового акта) и появляется сходство»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>710</td></tr><tr><td>Arabic No</td><td>311</td></tr><tr><td>Reference</td><td>Book 3 Hadith 32</td></tr></tbody></table></div>
 

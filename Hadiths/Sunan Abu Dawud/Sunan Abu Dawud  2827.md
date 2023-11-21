@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: I asked the Messenger of Allah (ﷺ) about the embr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], telah menceritakan kepada kami [Ibnu Al Mubarak], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Husyaim] dari [Mujalid] dari [Abu Al Waddak] dari [Abu Sa'id], ia berkata; saya bertanya kepada Rasulullah shallallahu wa'alaihi wa sallam mengenai janin hewan, kemudian beliau berkata: "Makanlah apabila kalian menghendaki!" Musaddad berkata; maka kami katakan; wahai Rasulullah, kami menyembelih unta, sapi dan kambing, kemudian kami dapatkan janin dalam perutnya, apakah kami membuangnya atau kami boleh memakannya? Beliau berkata: "Makanlah apabila kalian menghendaki! Sesungguhnya penyembelihannya adalah dengan menyembelih induknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2827</td></tr><tr><td>Arabic No</td><td>2827</td></tr><tr><td>Reference</td><td>Book 16 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида, да будет доволен им Аллах: «Я спросил Посланника Аллаха ﷺ о плоде, и он сказал: “Можете употреблять его в пищу, если хотите”. Мы также спросили: “О Посланник Аллаха, иногда мы режем верблюдицу, корову или овцу и обнаруживаем в её утробе сформировавшийся плод. Что нам с ним делать бросить или употребить в пищу?” (Посланник Аллаха ﷺ) сказал: “Можете употреблять его в пищу, ибо его заклание это заклание его матери”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2827</td></tr><tr><td>Arabic No</td><td>2827</td></tr><tr><td>Reference</td><td>Book 16 Hadith 40</td></tr></tbody></table></div>
 

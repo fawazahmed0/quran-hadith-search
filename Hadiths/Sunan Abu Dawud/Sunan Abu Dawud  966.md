@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>966</td></tr><tr><td>Arabic No</td><td>966</td></tr><tr><td>Reference</td><td>Book 2 Hadith 577</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аббаса или ‘Айяша ибн Сахля ас-Са‘иди, да будет доволен им Аллах, что однажды он присутствовал на одном из собраний вместе со своим отцом, и тот сказал (о молитве Посланника Аллаха ﷺ): «И он совершил земной поклон, опираясь на ладони, колени и поставленные вертикально ступни. Сев, он простёр одну ступню и поставил вертикально вторую, затем произнёс такбир, совершил земной поклон, затем произнёс такбир и поднялся, и в этот раз уже не ставил ноги подобным образом. Затем он совершил ещё один рак‘ат, произнёс такбир, затем сел в промежутке между двумя рак‘атами, а когда собрался встать, произнёс такбир. Затем он совершил ещё два рак‘ата, после чего произнёс таслим, повернувшись сначала направо, потом налево». Абу Дауд сказал: «Он не упоминал в своей версии то, что упоминал ‘Абдульхамид о сидении-таваррук и о поднятии, когда ему предстояло встать после совершения двух рак‘атов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>966</td></tr><tr><td>Arabic No</td><td>966</td></tr><tr><td>Reference</td><td>Book 2 Hadith 577</td></tr></tbody></table></div>
 

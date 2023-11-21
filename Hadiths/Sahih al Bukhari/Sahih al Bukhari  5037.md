@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada kami [Rabi' bin Yahya] Telah menceritakan kepada kami 
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037.2</td></tr><tr><td>Arabic No</td><td>5037.2</td></tr><tr><td>Reference</td><td>Book 66 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала: «(Однажды) Пророк ﷺ, который услышал, как какой-то человек читает (Коран) в мечети, сказал: “Да помилует его Аллах! Он напомнил мне такие-то аяты из таких-то сур, которые я забыл”»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037</td></tr><tr><td>Arabic No</td><td>5037</td></tr><tr><td>Reference</td><td>Book 66 Hadith 60</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037.2</td></tr><tr><td>Arabic No</td><td>5037.2</td></tr><tr><td>Reference</td><td>Book 66 Hadith 61</td></tr></tbody></table></div>

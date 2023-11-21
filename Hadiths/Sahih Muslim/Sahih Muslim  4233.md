@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Jubair reported from Ibn Abbas that he said:Thursday, and what about Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Waki'] dari [Malik bin Mighwal] dari [Thalhah bin Musharif] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa dia pernah berseru, "Hari kamis, apakah hari kamis itu!?" kemudian dia meneteskan air mata hingga saya melihat di pipinya seakan-akan mengeluarkan butiran permata, dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Kesinilah dengan membawa tulang dan lembaran, saya akan menuliskan buat kalian suatu catatan yang kalian tidak akan tersesat sepeninggalku selamanya." Maka mereka berkata, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam sedang mengigau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>1637.02</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>1637.02</td></tr><tr><td>Reference</td><td>Book 25 Hadith 30</td></tr></tbody></table></div>
 

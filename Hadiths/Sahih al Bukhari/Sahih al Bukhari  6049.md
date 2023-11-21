@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:Allah's Messenger (ﷺ) went out to inform the peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyr bin Al Mufadlal] dari [Humaid] dia berkata; [Anas] berkata; telah menceritakan kepadaku ['Ubadah bin Ash Shamit] dia berkata; Rasulullah shallallahu 'alaihi wasallam keluar untuk mengabarkan lailatul qadar kepada orang-orang, kemudian terdapat dua orang dari kalangan muslimin yang saling berselisih. Lantas Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya aku keluar hendak mengabarkan lailatul qadar kepada kalian, namun aku mendapati perselisihan antara Fulan dan Fulan sehingga laitatul qadar diangkat kembali, bisa jadi hal itu adalah lebih baik buat kalian, maka carilah lailatul qadar pada hari kesembilan, ketujuh, dan kelima (sebelum Akhir)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>6049</td></tr><tr><td>Reference</td><td>Book 78 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убада ибн ас-Самит сказал: «(Однажды) Посланник Аллаха ﷺ вышел (из дома), чтобы поведать (людям) о Ночи Предопределения, но в это время двое мусульман вступили в перебранку друг с другом, и тогда Пророк ﷺ сказал: “Я вышел, чтобы поведать вам о (времени наступления Ночи Предопределения), но такой-то начал ссориться с таким-то, и (то, что я знал,) ушло (от меня). Возможно, это и лучше для вас, поэтому ищите её в девятую, седьмую и пятую (ночь)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>6049</td></tr><tr><td>Reference</td><td>Book 78 Hadith 79</td></tr></tbody></table></div>
 

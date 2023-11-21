@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Whenever we gave the Pledge of allegiance to Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] radliallahu 'anhuma mengatakan; kami ketika berbai'at kepada Rasulullah Shallallahu'alaihiwasallam untuk mendengar dan taat, beliau mengatakan kepada kami; "Semaksimal kemampuan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7202</td></tr><tr><td>Arabic No</td><td>7202</td></tr><tr><td>Reference</td><td>Book 93 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «Когда мы клялись Посланнику Аллаха ﷺ слушать и повиноваться, он обычно говорил нам: “В том, что будет вам по силам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7202</td></tr><tr><td>Arabic No</td><td>7202</td></tr><tr><td>Reference</td><td>Book 93 Hadith 62</td></tr></tbody></table></div>
 

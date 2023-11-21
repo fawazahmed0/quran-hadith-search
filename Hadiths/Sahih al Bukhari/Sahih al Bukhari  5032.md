@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] Telah menceritakan kepada
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5032.2</td></tr><tr><td>Arabic No</td><td>5032.2</td></tr><tr><td>Reference</td><td>Book 66 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин Мас‘уда, да будет доволен им Аллах, что Пророк ﷺ сказал: «Плохо будет, если кто-нибудь из вас станет говорить: “Я забыл такой-то и такой-то аят”, (ибо не сам он забыл,) а заставил его забыть (Аллах), так продолжайте же заучивать Коран наизусть, ибо он покидает сердца людей быстрее, чем верблюды(, освобождённые от пут)»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5032</td></tr><tr><td>Arabic No</td><td>5032</td></tr><tr><td>Reference</td><td>Book 66 Hadith 54</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5032.2</td></tr><tr><td>Arabic No</td><td>5032.2</td></tr><tr><td>Reference</td><td>Book 66 Hadith 55</td></tr></tbody></table></div>

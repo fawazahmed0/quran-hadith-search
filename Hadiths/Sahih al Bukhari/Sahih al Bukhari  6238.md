@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:that he was a boy of ten at the time when the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Anas bin Malik] bahwa ketika Rasulullah shallallahu 'alaihi wasallam tiba di Madinah ia masih berusia sepuluh tahun. (Ia mengkisahkan); Maka aku menjadi pelayan Rasulullah shallallahu 'alaihi wasallam selama sepuluh tahun semasa hayat beliau. Dan akulah orang yang paling mengerti tentang hijab ketika perintah itu diturunkan, Ubay bin Ka'b juga pernah bertanya kepadaku tentang hal itu. Perintah itu pertama kali turun di waktu pernikahan Rasulullah shallallahu 'alaihi wasallam dengan Zainab binti Jahsyi. Saat itu Rasulullah shallallahu 'alaihi wasallam tengah mengadakan pesta walimah, beliau mengundang orang-orang dan mereka pun menikmati makanan yang dihidangkan. Setelah itu, mereka pun keluar pergi, kecuali beberapa orang yang masih tetap berada di sisi Rasulullah shallallahu 'alaihi wasallam, mereka sengaja memperlama duduk di situ. Maka Rasulullah shallallahu 'alaihi wasallam pun beranjak dan keluar, lalu aku pun ikut keluar bersama beliau agar orang-orang itu juga ikut keluar. Kemudian Rasulullah shallallahu 'alaihi wasallam berjalan, dan aku juga ikut berjalan hingga sampai di ambang pintu rumah Aisyah. Lalu Rasulullah shallallahu 'alaihi wasallam mengira, bahwa mereka yang duduk tadi telah keluar, maka beliau kembali lagi dan aku juga ikut kembali hingga beliau sampai di tempat Zainab, ternyata orang-orang itu masih ada di tempat semula dan belum beranjak pergi. Akhirnya Rasulullah shallallahu 'alaihi wasallam pun kembali lagi dan aku juga ikut kembali bersamanya, ketika sampai di ambang pintu Aisyah, beliau menduga bahwa mereka pasti sudah pergi, maka beliau kembali lagi dan aku juga ikut kembali bersama beliau, ternyata orang-orang itu telah beranjak pergi, lalu turunlah ayat hijab hingga beliau meletakkan pembatas antara aku dan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6238</td></tr><tr><td>Arabic No</td><td>6238</td></tr><tr><td>Reference</td><td>Book 79 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик рассказывал: «Когда Посланник Аллаха ﷺ прибыл в Медину, мне было десять лет, и я служил ему в течение десяти лет. Я лучше всех (остальных) людей знал о занавесе, и когда был ниспослан (приказ его опускать), а Убай ибн Ка‘б спрашивал меня об этом. Впервые это было ниспослано, когда Посланник Аллаха ﷺ заключил свой брак с Зейнаб бинт Джахш, и наутро он пригласил людей на свадебное угощение. Они поели, а затем все ушли, но несколько человек осталось сидеть у Посланника Аллаха ﷺ, и они просидели так долгое время. Тогда Посланник Аллаха ﷺ встал и вышел, и я тоже вышел вместе с ним, чтобы эти люди ушли. Посланник Аллаха ﷺ шёл, и я тоже шёл, пока он не подошёл к порогу дома ‘Аиши. Затем Посланник Аллаха ﷺ, подумав, что те люди ушли, вернулся, и я вернулся вместе с ним, однако, зайдя к Зейнаб, он обнаружил, что они всё ещё сидели там и не ушли. Тогда Посланник Аллаха ﷺ снова ушёл, и я ушёл вместе с ним. Дойдя до порога дома ‘Аиши, он снова подумал, что они ушли и вернулся, а я вернулся вместе с ним, и оказалось, что они уже ушли, тогда был ниспослан аят о занавесе, и Пророк ﷺ опустил передо мной занавеску»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6238</td></tr><tr><td>Arabic No</td><td>6238</td></tr><tr><td>Reference</td><td>Book 79 Hadith 12</td></tr></tbody></table></div>
 

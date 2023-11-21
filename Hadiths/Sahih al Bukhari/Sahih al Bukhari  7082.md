@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "There will be afflictions (i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman], bahwasanya [Abu Hurairah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan terjadi fitnah, orang yang duduk pada saat itu lebih baik daripada orang yang berdiri, orang yang berdiri lebih baik daripada orang yang berjalan, orang yang berjalan lebih daripada yang berlari, barangsiapa berusaha menghadapi fitnah itu, justru fitnah itu akan mempengaruhinya, maka barangsiapa mendapat tempat berlindung atau base camp pertahanan, hendaklah ia berlindung diri di tempat itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7082</td></tr><tr><td>Arabic No</td><td>7082</td></tr><tr><td>Reference</td><td>Book 92 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Грядут искушения и смута, во время которой сидящий будет лучше стоящего, а стоящий — лучше идущего, а идущий — лучше бегущего, и того, кто устремится к (этим испытаниям), они погубят, так пусть же тот, кто сможет найти убежище от них, воспользуется им»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7082</td></tr><tr><td>Arabic No</td><td>7082</td></tr><tr><td>Reference</td><td>Book 92 Hadith 33</td></tr></tbody></table></div>
 

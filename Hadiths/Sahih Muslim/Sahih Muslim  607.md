@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salman said that (one among) the polytheists remarked:I see that your friend eve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [al-A'masy] dan [Manshur] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Salman] dia berkata, "Kaum musyrikin berkata kepada kami, 'Sungguh, aku melihat sahabat kalian (Rasulullah) mengajarkan kepada kalian hingga masalah adab beristinja', maka dia berkata, 'Ya. Beliau melarang kami dari beristinja' dengan tangan kanannya atau menghadap kiblat, dan beliau juga melarang dari beristinja' dengan kotoran hewan dan tulang.' Beliau bersabda: "Janganlah salah seorang dari kalian beristinja' kurang dari tiga batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>262.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Сальман рассказывал: «Однажды многобожники сказали нам: “Я вижу, что ваш друг учит вас (всему), и даже тому, как справлять нужду?” (Сальман) сказал: “Да. Он запретил нам подмываться правой рукой и обращаться в сторону киблы (во время справления нужды), и он запретил использовать для очищения навоз и кости, и он (Пророк ﷺ) сказал: “Пусть никто из вас не использует для очищения (после справления нужды) меньше трёх камней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>262.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 74</td></tr></tbody></table></div>
 

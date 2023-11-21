@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara bin Azib:Allah's Messenger (ﷺ) said, "When a Muslim is questi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] Telah menceritakan kepada kami [Syu'bah] dia berkata; Telah mengabarkan kepadaku ['Alqamah bin Martsad] dia berkata; 'Aku mendengar [Sa'ad bin 'Ubaidah] dari [Al Bara' bin 'Azib] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang muslim apabila ditanya di dalam kubur, maka akan bersaksi bahwa tidak ada Ilah yang berhak disembah kecuali Allah dan Muhammad utusan Allah. itulah firman Allah yang berbunyi: "Allah meneguhkan (iman) orang-orang yang beriman dengan Ucapan yang teguh itu dalam kehidupan di dunia dan di akhirat." (Ibrahiim:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4699</td></tr><tr><td>Arabic No</td><td>4699</td></tr><tr><td>Reference</td><td>Book 65 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Бары ибн ‘Азиба (да будет доволен им Аллах) о том, что Посланник Аллаха ﷺ сказал: «Когда мусульманину станут задавать вопросы в (его) могиле, он принесёт свидетельство о том, что нет божества достойного поклонения, кроме Аллаха, и что Мухаммад — Посланник Аллаха /Ля иляха илля-Ллах, Мухаммадун расулю-Ллах/, (на что и указывают) слова Всевышнего: “Аллах поддерживает верующих твердым словом в мирской жизни и Последней жизни”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4699</td></tr><tr><td>Arabic No</td><td>4699</td></tr><tr><td>Reference</td><td>Book 65 Hadith 221</td></tr></tbody></table></div>
 

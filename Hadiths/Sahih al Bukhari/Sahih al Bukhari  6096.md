@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Samura bin Jundub:The Prophet (ﷺ) said, "I saw (in a dream), two men 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Jarir] telah menceritakan kepada kami [Abu Raja'] dari [Samurah bin Jundab] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Aku tadi malam bermimpi ada dua orang yang membawaku, keduanya berkata; "Dan yang kamu lihat seseorang yang dirobek-robek mulutnya adalah seorang pendusta yang selalu berbicara dengan kedustaannya hingga dibawanya sampai ke ufuk (cakrawala) sana, dan ia selalu seperti itu hingga datang hari Kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6096</td></tr><tr><td>Arabic No</td><td>6096</td></tr><tr><td>Reference</td><td>Book 78 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Самура бин Джундуба, да будет доволен им Аллах, что Пророк ﷺ сказал: «Ночью ко мне пришли двое мужчин... Они сказали: “(Что касается того,) кому на твоих глазах, разрывали рот, то он — лжец, произносивший лживые слова, которые распространялись от него повсюду, а теперь с ним будут делать это до самого Дня воскресения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6096</td></tr><tr><td>Arabic No</td><td>6096</td></tr><tr><td>Reference</td><td>Book 78 Hadith 123</td></tr></tbody></table></div>
 

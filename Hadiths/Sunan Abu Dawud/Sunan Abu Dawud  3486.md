@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir bin ‘Abdullah :That he heard the Messenger of Allah (ﷺ) say i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari ['Atha bin Abu Rabah] dari [Jabir bin Abdullah] bahwa saat ia sedang berada di Makkah ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda pada saat penaklukan Makkah: "Sesungguhnya Allah telah mengharamkan penjualan arak, bangkai, babi, serta berhala." Kemudian beliau ditanya, "Wahai Rasulullah, bagaimana pendapat anda tentang lemak bangkai, sesungguhnya lemak biasa digunakan untuk mengecat perahu, meminyaki kulit dan menyalakan lampu?" Beliau bersabda: "Tidak boleh, karena ia adalah haram." Beliau menambahkan: "Semoga Allah memerangi orang-orang Yahudi, ketika Allah mengharamkan lemak, mereka mencairkannya kemudian menjualnya dan memakan hasil penjualannya." Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abu 'Ashim] dari [Abdul Hamid bin Ja'far] dari [Yazid bin Abu Habib] ia berkata, " ['Atha] menulis surat kepadaku dari [Jabir] seperti itu, namun ia tidak menyebutkan bahwa lemak adalah haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari (2236) Sahih Muslim (1581)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3486</td></tr><tr><td>Arabic No</td><td>3486</td></tr><tr><td>Reference</td><td>Book 24 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что он слышал, как Посланник Аллаха ﷺ сказал в год покорения Мекки, когда он находился в Мекке: «Поистине, Аллах запретил продавать вино, мертвечину, свинью и идолов». Люди спросили: «О Посланник Аллаха, а что ты скажешь о жире мёртвых животных, которым покрывают борта и днища кораблей и смазывают кожи и который используется для освещения?» Он сказал: «Нет, это запретно», а потом Посланник Аллаха ﷺ сказал: «Да поразит Аллах тех иудеев, которые стали перетапливать жир животных и продавать, проедая полученные за него деньги после того, как Аллах запретил им использовать его!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari (2236) Sahih Muslim (1581)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3486</td></tr><tr><td>Arabic No</td><td>3486</td></tr><tr><td>Reference</td><td>Book 24 Hadith 71</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Regarding the saying of Allah: 'And they will not disobey yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada kami [Wahb bin Jarir] ia berkata, Telah menceritakan kepada kami [bapakku] ia berkata, Aku mendengar [Az Zubair] dari [Ikrimah] dari [Ibnu Abbas] terkait dengan firman Allah Ta'ala: "Dan janganlah mereka mendurhakaimu dalam kebaikan." Ia berkata, "Sesungguhnya hal itu hanyalah syarat yang Allah persyaratkan untuk kaum wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>4893</td></tr><tr><td>Reference</td><td>Book 65 Hadith 413</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Аббас сказал о словах Всевышнего «…и не ослушаться тебя в благих делах»: «Это было одним из условий, которые Аллах узаконил для женщин (которые давали присягу Пророку ﷺ)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>4893</td></tr><tr><td>Reference</td><td>Book 65 Hadith 413</td></tr></tbody></table></div>
 

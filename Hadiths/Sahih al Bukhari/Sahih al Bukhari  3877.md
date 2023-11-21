@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:When Negus died, the Prophet (ﷺ) said, "Today a pious man has d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu ar Rabi'] telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Ibnu Juraij] dari ['Atha'] dari [Jabir] radliallahu 'anhu; Nabi shallallahu 'alaihi wasallam bersabda ketika meninggalnya an Najasyi: "Hari ini telah meninggal dunia seorang laki-laki shalih. Maka berdirilah kalian untuk mendirikan shalat (jenazah) untuk saudara kalian yang telah tiada itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3877</td></tr><tr><td>Arabic No</td><td>3877</td></tr><tr><td>Reference</td><td>Book 63 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен им Аллах, что когда умер ан-Наджаши (правитель Эфиопии), Пророк ﷺ сказал: «Сегодня умер праведный муж, так встаньте и помолитесь за вашего брата Асхама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3877</td></tr><tr><td>Arabic No</td><td>3877</td></tr><tr><td>Reference</td><td>Book 63 Hadith 102</td></tr></tbody></table></div>
 

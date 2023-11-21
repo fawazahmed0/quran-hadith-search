@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>112</td></tr><tr><td>Arabic No</td><td>112</td></tr><tr><td>Reference</td><td>Book 1 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абду Хайр сказал: «(Однажды) ‘Али, да будет доволен им Аллах, совершил утреннюю молитву и затем прибыл в Рахбу, где попросил воды. Один мальчик принёс для него сосуд с водой и тазик».(Передатчик этого хадиса) сказал: «Он взял этот сосуд правой рукой и слив из него (воду) на левую руку, трижды помыл кисти рук. Затем, погрузив правую руку в сосуд (и набрав воды,) он трижды прополоснул рот и трижды прополоснул нос».Затем он привёл (хадис) близкий (по смыслу) к хадису Абу ‘Аваны, сказав: «Затем он обтёр свою голову спереди и сзади один раз». Затем он (до конца) изложил похожий хадис
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>112</td></tr><tr><td>Arabic No</td><td>112</td></tr><tr><td>Reference</td><td>Book 1 Hadith 112</td></tr></tbody></table></div>
 

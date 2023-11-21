@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir:There was an eclipse of the sun in the time of the Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (904)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1179</td></tr><tr><td>Arabic No</td><td>1179</td></tr><tr><td>Reference</td><td>Book 3 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира, да будет доволен Аллах им и его отцом, что, когда при жизни Посланника Аллаха ﷺ произошло солнечное затмение в один из жарких дней, Посланник Аллаха ﷺ совершил молитву со своими сподвижниками. Он стоял так долго, что люди, не выдерживая, падали, а потом совершил поясной поклон и долго не поднимался. Затем он поднялся и долго стоял. Затем он совершил поясной поклон и долго не поднимался. Затем он совершил два земных поклона. Затем он поднялся и проделал всё то же самое. Таким образом, он совершил четыре поясных и четыре земных поклона. И он передал хадис полностью
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (904)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1179</td></tr><tr><td>Arabic No</td><td>1179</td></tr><tr><td>Reference</td><td>Book 3 Hadith 19</td></tr></tbody></table></div>
 

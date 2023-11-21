@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Zaid-he who was shown the call (for prayer in a dream) narrated it o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] dia berkata, saya membaca di hadapan [Malik] dari [Nu'aim bin Abdullah al-Mujmir] bahwa [Muhammad bin Abdullah bin Zaid al-Anshari] dan Abdullah bin Zaid yang dia adalah orang yang diberi petunjuk dalam hal panggilan untuk shalat (adzan), dia telah menceritakannya dari [Abu Mas'ud al-Anshari] dia berkata, "Rasulullah shallallahu 'alaihi wasallam mendatangi kami sedangkan kami berada dalam majlis Sa'd bin Ubadah, maka Basyir bin Sa'ad berkata kepadanya, 'Allah memerintahkan kami untuk mengucapkan shalawat atasmu wahai Rasulullah, lalu bagaimana cara bershalawat atasmu? ' Perawi berkata, "Lalu Rasulullah shallallahu 'alaihi wasallam diam hingga kami berangan-angan bahwa dia tidak menanyakannya kepada beliau. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda, "Katakanlah, 'ALLOOHUMMA SHOLLI 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD, KAMAA SHOLLAITA 'ALAA AALI IBROOHIIMA WABAARIK 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD KAMAA BAAROKTA 'ALAA AALI IBROOHIIMA FIL'AALAMIINA INNAKA HAMIIDUN MAJIID." Ya Allah, berilah shalawat atas Muhammad dan keluarga Muhammad sebagaimana Engkau memberi shalawat atas keluarga Ibrahim, dan berilah berkah atas Muhammad dan keluarga Muhammad sebagaimana Engkau memberi berkah kepada keluarga Ibrahim di dunia. Engkau Maha Terpuji dan Maha Mulia.' Dan salam sebagaimana yang telah kamu ketahui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>907</td></tr><tr><td>Arabic No</td><td>405</td></tr><tr><td>Reference</td><td>Book 4 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд аль-Ансари сказал: «(Однажды, когда) мы собрались у Са‘да ибн ‘Убады, к нам пришёл Посланник Аллаха ﷺ, и Башир ибн Са‘д сказал ему: “Всемогущий и Великий Аллах велел нам призывать на тебя благословения, о Посланник Аллаха, но как нам (делать это)?” И (после этого) Посланник Аллаха ﷺ хранил молчание (так долго), что мы уже (пожалели), что он задал ему этот вопрос, но потом Посланник Аллаха ﷺ сказал: “Говорите: ‹О Аллах, благослови Мухаммада и род Мухаммада, как благословил Ты род Ибрахима, и благословляй Мухаммада и род Мухаммада, как благословлял Ты род Ибрахима среди (обитателей) миров, поистине, Ты Достойный похвалы, Славный!› /Аллахумма, салли ‘аля Мухаммадин ва ‘аля али Мухаммадан ка-ма салляйта ‘аля али Ибрахима, ва барик ‘аля Мухаммадин ва ‘аля али Мухаммадин ка-ма баракта ‘аля али Ибрахима фи-ль-‘алямина, инна-ка Хамидун, Маджид/, (что же касается) приветствия, (то об этом) вы уже знаете”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>907</td></tr><tr><td>Arabic No</td><td>405</td></tr><tr><td>Reference</td><td>Book 4 Hadith 69</td></tr></tbody></table></div>
 

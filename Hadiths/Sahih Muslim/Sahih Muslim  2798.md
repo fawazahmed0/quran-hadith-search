@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ya'la b. Umayya reported on the authority of his father (Allah be pleased with t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Atha' bin Abu Rabah] dari [Shafwan bin Ya'la bin Umayyah] dari [bapaknya] radliallahu 'anhu, ia berkata; Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam saat beliau berada di Ji'ranah. Laki-laki tersebut mengenakan jubah yang ada bekas Khaluq (sejenis minyak wangi dari Za'faran). Kemudian laki-laki itu bertanya, "Apa yang mesti saya lakukan dalam Umrahku?" Shwan berkata; Ketika itu, turunlah wahyu kepada Nabi shallallahu 'alaihi wasallam, lalu beliau diselimuti dengan kain. Saat itu, Ya'la berkata, "Aku ingin melihat Nabi shallallahu 'alaihi wasallam ketika sedang menerima wahyu." Kemudian Umar pun bertanya, "Apkah kamu ingin melihat Nabi shallallahu 'alaihi wasallam ketika beliau sedang menerima wahyu." Ya'la berkata; Maka Umar pun menyingkap sedikit ujung kain (yang ditutupkan kepada Nabi shallallahu 'alaihi wasallam), sehingga aku pun melihat beliau bernafas keras terengah-engah seperti terengah-engahnya Unta. Setelah menerima wahyu, beliau bertanya: "Di mana orang yang tadi menanyakan tentang Umrah? Cucilah bekas khaluq di rambut dan jenggotmu, serta lepaskanlah jubahmu. Kemudian lakukanlah umrah sebagaimana kamu melakukan haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2798</td></tr><tr><td>Arabic No</td><td>1180.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2798</td></tr><tr><td>Arabic No</td><td>1180.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 8</td></tr></tbody></table></div>
 

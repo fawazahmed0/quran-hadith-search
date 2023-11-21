@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: When the Prophet of Allah (ﷺ) was lifted to the heave
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ashim bin An Nadhr] ia berkata; telah menceritakan kepada kami [Al Mu'tamir] ia berkata; aku mendengar [Bapakku] ia berkata; telah menceritakan kepada kami [Qatadah] dari [Anas bin Malik] ia berkata, "Ketika Nabi shallallahu 'alaihi wasallam dinaikkan ke surga, atau sebagaimana yang ia katakan, "diperlihatkan kepada beliau sebuah sungai yang dua tepinya dihiasi dengan permata. Kemudian malaikat yang bersamanya memukul tangannya hingga keluarlah minyak kesturi. Muhammad shallallahu 'alaihi wasallam lalu bertanya: "Apa ini?" malaikat itu menjawab, "Ini adalah Al kautsar yang Allah Azza Wa Jalla berikan kepadamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4964)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4748</td></tr><tr><td>Arabic No</td><td>4748</td></tr><tr><td>Reference</td><td>Book 42 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, что, когда пророк Аллаха ﷺ был вознесён в Рай, он увидел там реку, берега которой были выложены полыми рубинами. Сопровождавший его ангел ударил по руке и достал мускус. А Мухаммад ﷺ спросил ангела, который был с ним: «Что это?» Тот ответил: «Это Каусар, который подарил тебе Всемогущий и Великий Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4964)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4748</td></tr><tr><td>Arabic No</td><td>4748</td></tr><tr><td>Reference</td><td>Book 42 Hadith 153</td></tr></tbody></table></div>
 

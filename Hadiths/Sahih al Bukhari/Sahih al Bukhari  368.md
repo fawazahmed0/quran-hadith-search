@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) forbade two kinds of sales i.e. Al-Limais
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah bin 'Uqbah] berkata, telah menceritakan kepada kami [Sufyan] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] berkata, "Nabi shallallahu 'alaihi wasallam melarang dua macam jual beli; jual beli Al Limas dan An Nibadz. Dan melarang dari dua cara berpakaian; berpakaian shama' dan seorang laki-laki duduk ihtiba dengan mengenakan satu kain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>368</td></tr><tr><td>Arabic No</td><td>368</td></tr><tr><td>Reference</td><td>Book 8 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил два вида торговых сделок, а именно: сделки, совершаемые путём ощупывания, и сделки, совершаемые путём бросания. (И он запретил) закутываться в свою одежду наглухо и (запретил) мужчине, одетому только в одну одежду, сидеть на ягодицах, поднимая колени, которые он обхватывает руками, (и оставляя неприкрытыми свои срамные части)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>368</td></tr><tr><td>Arabic No</td><td>368</td></tr><tr><td>Reference</td><td>Book 8 Hadith 20</td></tr></tbody></table></div>
 

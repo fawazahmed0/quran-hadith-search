@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:A time limit has been prescribed for us for clipping the moustache
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Sa'id] keduanya dari [Ja'far], [Yahya] berkata, telah mengabarkan kepada kami [Ja'far bin Sulaiman] dari [Abu Imran al-Jauni] dari [Anas bin Malik] dia berkata, Anas berkata, "Waktu yang diberikan kepada kami untuk mencukur kumis, memotong kuku, mencabut bulu ketiak, memotong bulu kemaluan adalah tidak lebih dari empat puluh malam (sehingga tidak panjang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 2 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Нам было велено подстригать усы и ногти, удалять волосы под мышками и сбривать волосы на лобке хотя бы раз в сорок дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 2 Hadith 66</td></tr></tbody></table></div>
 

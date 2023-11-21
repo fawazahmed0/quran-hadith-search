@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asma' daughter of Abu Bakr reported:The sun eclipsed during the lifetime of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ahmad bin Sa'id Ad Darimi] telah menceritakan kepada kami [Habban] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Manshur] dari [Ibunya] dari [Asma' binti Abu Bakar] ia berkata; Pernah terjadi gerhana matahari pada masa Rasulullah shallallahu 'alaihi wasallam, maka beliau bergegas dan keliru mengambil baju besi hingga beliau ditunjukkan letak pakaiannya. Kemudian aku buang hajat, kemudian datang dan masuk masjid. Lalu aku melihat Rasulullah shallallahu 'alaihi wasallam sedang berdiri dan aku pun ikut berdiri (shalat) bersama beliau. Beliau memperpanjang berdirinya hingga aku ingin duduk, kemudian aku menoleh ke arah perempuan yang lemah, aku pun berkata, 'Perempuan ini adalah lebih lemah dariku.' Akhirnya aku pun berdiri. Kemudian beliau ruku' dan memperpanjang ruku'nya. Lalu beliau mengangkat kepalanya dan kembali memperpanjang berdirinya hingga sekiranya ada seorang laki-laki datang niscaya ia akan menyangka bahwa beliau tidak akan ruku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2108</td></tr><tr><td>Arabic No</td><td>906.03</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Асма бинт Абу Бакр сказала: «(Однажды) при жизни Пророка ﷺ произошло солнечное затмение, и (в спешке) он случайно схватил верхнюю одежду (одной из своих жён), но затем ему принесли его верхнюю накидку /рида/. Я же сделала свои дела и пришла в мечеть. Увидев Посланника Аллаха ﷺ, стоящего (в молитве), я встала вместе с ним. Он так долго стоял, что я почувствовала, что хочу сесть, но затем я посмотрела на слабую женщину (которая стояла), и сказала (в душе): “Эта (женщина) слабее меня, (но при этом она стоит)”, и продолжила стоять. Он совершил поясной поклон, и долго простоял в таком положении, затем он выпрямился и стоял так долго, что если бы (какой-нибудь) человек пришёл, то подумал бы, что Пророк ﷺ ещё не совершил (первый) поясной поклон»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2108</td></tr><tr><td>Arabic No</td><td>906.03</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
 

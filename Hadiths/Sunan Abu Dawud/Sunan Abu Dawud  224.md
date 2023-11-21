@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] bahwasanya Nabi shallallahu 'alaihi wasallam apabila hendak makan atau tidur, maka beliau berwudhu terlebih dahulu, yakni ketika beliau sedang dalam keadaan junub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (305)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>224</td></tr><tr><td>Arabic No</td><td>224</td></tr><tr><td>Reference</td><td>Book 1 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши: «Когда Пророк ﷺ хотел поесть или лечь спать, он совершал омовение. (‘Аиша) имела ввиду, (что так он поступал) будучи в состоянии большого осквернения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (305)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>224</td></tr><tr><td>Arabic No</td><td>224</td></tr><tr><td>Reference</td><td>Book 1 Hadith 224</td></tr></tbody></table></div>
 

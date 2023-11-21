@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muhammad b. 'Abbad b. Ja'far reported:I ordered Muslim b. Yasar, the freed slave
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] dan [Harun bin 'Abdullah] serta [Ibnu Abu Khalaf] -lafazh mereka bermacam-macam-. Telah menceritakan kepada kami [Rauh bin 'Ubadah]; Telah menceritakan kepada kami [Ibnu Juraij] ia berkata; aku telah mendengar [Muhammad bin 'Abbad bin Ja'far] berkata; 'Aku menyuruh Muslim bin Yasar -budak- Nafi bin Abdul Harits untuk bertanya kepada [Ibnu Umar]. Muhammad bin Abbad berkata; (waktu itu aku sedang duduk di antara mereka berdua). Muslim bin Yasar bertanya; 'Apakah anda mendengar sesuatu dari Nabi shallallahu 'alaihi wasallam mengenai orang yang memanjangkan kainnya karena sombong? Ibnu Umar menjawab; Aku mendengar beliau bersabda: 'Allah tidak akan melihatnya pada hari kiamat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5461</td></tr><tr><td>Arabic No</td><td>2085.09</td></tr><tr><td>Reference</td><td>Book 37 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5461</td></tr><tr><td>Arabic No</td><td>2085.09</td></tr><tr><td>Reference</td><td>Book 37 Hadith 76</td></tr></tbody></table></div>
 

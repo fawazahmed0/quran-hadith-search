@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "Who is ready to kill Ka'b 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Sufyan] dari ['Amru bin Dinar] dari [Jabir bin 'Abdullah radliallahu 'anhuma] bahwa Nabi Shallallahu'alaihiwasallam berkata "Siapa yang dapat menghadapi Ka'ab bin Al Asyrof karena dia telah menyakiti Allah dan Rosul-Nya?". Muhammad bin Maslamah berkata: "Apakah Baginda suka bila aku membunuhnya, wahai Rasulullah?". Beliau menjawab: "Ya". Dia berkata: "Maka aku mendatanginya lalu Ka'b berkata: "Orang ini, maksudnya Nabi Shallallahu'alaihiwasallam telah meminta tolong dan meminta shodaqoh kepada kita". Dia berkata: "Dan juga, demi Allah, pasti kamu akan meninggalkannya". Kata Muhammad,: "Sungguh kami telah mengikutinya dan kami tidak mau bila meninggalkannya hingga kami melihat apa yang akan terjadi dengan urusannya". Dia berkata: "Dia terus saja berkata-kata hingga setelah ada kesempatan Muhammad membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3031</td></tr><tr><td>Arabic No</td><td>3031</td></tr><tr><td>Reference</td><td>Book 56 Hadith 238</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Кому (можно поручить убить) Ка‘ба ибн аль-Ашрафа, который нанёс обиду Аллаху и Его Посланнику?» Мухаммад ибн Масляма сказал: «Ты хочешь, чтобы я убил его, о Посланник Аллаха?» Он ответил: «Да». Затем он пришёл к Ка‘бу и сказал: «Поистине, этот человек (то есть Пророк ﷺ) причиняет нам страдания и требует у нас милостыню». (На это Ка‘б) сказал: «Клянусь Аллахом, (уже скоро) он тебе надоест!» Мухаммад ибн Масляма сказал: «Но раз уж мы последовали за ним, то нам не хотелось бы бросать его, пока мы не увидим, чем все это закончится». Мухаммад ибн Масляма продолжал разговаривать с ним таким образом, а когда у него появилась возможность, он убил его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3031</td></tr><tr><td>Arabic No</td><td>3031</td></tr><tr><td>Reference</td><td>Book 56 Hadith 238</td></tr></tbody></table></div>
 

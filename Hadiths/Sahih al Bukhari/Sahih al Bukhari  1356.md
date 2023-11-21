@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A young Jewish boy used to serve the Prophet (ﷺ) and he became s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dia adalah Ibnu Zaid dari [Tsabit] dari [Anas radliallahu 'anhu] berkata,: "Ada seorang anak kecil Yahudi yang bekerja membantu Nabi Shallallahu'alaihiwasallam menderita sakit. Maka Nabi Shallallahu'alaihiwasallam menjenguknya dan Beliau duduk di sisi kepalanya lalu bersabda: "Masuklah Islam". Anak kecil itu memandang kepada bapaknya yang berada di dekatnya, lalu bapaknya berkata,: "Ta'atilah Abu Al Qasim Shallallahu'alaihiwasallam". Maka anak kecil itu masuk Islam. Kemudian Nabi Shallallahu'alaihiwasallam keluar sambil bersabda: "Segala puji bagi Allah yang telah menyelamatkan anak itu dari neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1356</td></tr><tr><td>Arabic No</td><td>1356</td></tr><tr><td>Reference</td><td>Book 23 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда один отрок из числа иудеев, прислуживавший Пророку ﷺ заболел, Пророк ﷺ пришёл навестить его. Он сел у его изголовья и сказал ему: “Прими ислам”. Тот посмотрел на своего отца, находившегося рядом, а он сказал ему: “Повинуйся Абу-ль-Касиму!”, и он принял ислам. А после этого Пророк ﷺ вышел (оттуда), говоря: “Хвала Аллаху, Который спас его от огня!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1356</td></tr><tr><td>Arabic No</td><td>1356</td></tr><tr><td>Reference</td><td>Book 23 Hadith 109</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:Allah's Messenger (ﷺ) said, "Whenever anyone of you drinks
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan kepada kami [Hisyam] -yaitu Al Dastawa'I- dari [Yahya bin Abu Katsir] dari ['Abdullah bin Abu Qatadah] dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Jika salah seorang dari kalian minum, maka janganlah ia bernafas dalam gelas. Dan jika masuk ke dalam WC janganlah dia menyentuh kemaluannya dengan tangan kanannya dan jangan membersihkan dengan tangan kanannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>153</td></tr><tr><td>Arabic No</td><td>153</td></tr><tr><td>Reference</td><td>Book 4 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Къатада, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Когда кто-нибудь из вас будет пить, пусть не дышит в сосуд, если же зайдёт в отхожее место, пусть не дотрагивается до своего полового органа правой рукой и не подмывается правой рукой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>153</td></tr><tr><td>Arabic No</td><td>153</td></tr><tr><td>Reference</td><td>Book 4 Hadith 19</td></tr></tbody></table></div>
 

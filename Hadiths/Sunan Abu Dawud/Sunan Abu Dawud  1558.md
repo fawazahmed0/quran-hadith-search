@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’id Al Khudri reported:That the Apostle of Allaah(ﷺ) as saying No sada
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah], ia berkata; saya membacakan riwayat kepada [Malik bin Anas] dari ['Amr bin Yahya Al Mazini] dari [ayahnya], ia berkata; saya mendengar [Abu Sa'id Al Khudri] berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Tidak ada zakat pada unta yang kurang dari lima dzaud (dzaud adalah antara tiga hingga sepuluh), tidak ada zakat pada perak yang kurang dari lima uqiyah, dan tidak ada zakat pada buah-buahan yang kurang dari lima wasaq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1447) Sahih Muslim (979)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1558</td></tr><tr><td>Arabic No</td><td>1558</td></tr><tr><td>Reference</td><td>Book 9 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Не следует выплачивать закят со стада, состоящего менее чем из пяти верблюдов, и не следует выплачивать закят с менее чем пяти окий серебра, и не следует выплачивать закят с урожая менее чем в пять васков»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1447) Sahih Muslim (979)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1558</td></tr><tr><td>Arabic No</td><td>1558</td></tr><tr><td>Reference</td><td>Book 9 Hadith 3</td></tr></tbody></table></div>
 

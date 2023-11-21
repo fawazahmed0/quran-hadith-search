@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that a group of Jews came to Allah's Messenger (ﷺ) and sought 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Amru An Naqid] dan [Zuhair bin Harb] dan lafazh ini miliknya Zuhair ia berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] ia berkata; "Serombongan orang-orang Yahudi minta izin untuk bertemu dengan Rasulullah shallallahu 'alaihi wasallam, lalu mereka mengucapkan: Assaamu 'alaikum (kematian bagimu)." 'Aisyah menjawab; 'Bal 'alaikumus saam wal la'nah.' Maka Rasulullah shallallahu 'alaihi wasallam bersabda: 'Ya, 'Aisyah! Sesungguhnya Allah Subhanahu Wa Ta'ala, senang keramah tamahan dalam segala urusan.' Kata 'Aisyah; 'Tidakkah Anda mendengar ucapan mereka? ' Jawab beliau: 'Ya, aku mendengarnya, bahkan telah ku jawab; wa'alaikum.' Dan telah menceritakannya kepada kami [Hasan bin 'Ali Al Hulwani] dan ['Abad bin Humaid] seluruhnya dari [Ya'qub bin Ibrahim bin Sa'd]; Telah menceritakan kepada kami [Bapakku] dari [Shalih]; Demikian juga diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Ma'mar] keduanya dari [Az Zuhri] melalui sanad ini. Dan di dalam hadits keduanya disebutkan, Rasulullah shallallahu 'alaihi wasallam tanpa menyebut huruf 'wau' (Alaikum)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5656</td></tr><tr><td>Arabic No</td><td>2165.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5656</td></tr><tr><td>Arabic No</td><td>2165.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 11</td></tr></tbody></table></div>
 

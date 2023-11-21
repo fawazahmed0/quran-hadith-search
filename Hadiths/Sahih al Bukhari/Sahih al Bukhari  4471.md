@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq:I asked Zaid bin Al-Arqam, "In how many Ghazawat did you ta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Raja'] Telah menceritakan kepada kami [Israil] dari [Abu Ishaq] dia berkata; Aku bertanya kepada [Zaid bin Arqam radliallahu 'anhu] berapa kali kamu berperang bersama Rasulullah shallallahu 'alaihi wasallam? Dia menjawab; 'Tujuh belas kali.' Aku bertanya lagi; 'Berapa kali beliau berperang? Dia menjawab; 'Sembilan belas kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4471</td></tr><tr><td>Arabic No</td><td>4471</td></tr><tr><td>Reference</td><td>Book 64 Hadith 486</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Зейда ибн Аркама, да будет доволен им Аллах, спросили: «Сколько военных походов ты совершил вместе с Посланником Аллаха ﷺ?» Он ответил: «Семнадцать». (Его) спросили: «А сколько походов совершил Пророк ﷺ?» — и он сказал: «Девятнадцать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4471</td></tr><tr><td>Arabic No</td><td>4471</td></tr><tr><td>Reference</td><td>Book 64 Hadith 486</td></tr></tbody></table></div>
 

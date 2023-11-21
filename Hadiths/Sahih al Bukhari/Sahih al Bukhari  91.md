@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid Al-Juhani:A man asked the Prophet (ﷺ) about the picki
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] berkata, Telah menceritakan kepada kami [Abdul Malik bin 'Amru Al 'Aqadi] berkata, Telah menceritakan kepada kami [Sulaiman bin Bilal Al Madini] dari [Rabi'ah bin Abu Abdurrahman] dari [Yazid] mantan budak Al Munba'its, dari [Zaid bin Khalid Al Juhani] bahwa Nabi shallallahu 'alaihi wasallam ditanya oleh seseorang tentang barang temuan, maka Nabi shallallahu 'alaihi wasallam bersabda: "Kenalilah tali pengikatnya, atau Beliau berkata; kantong dan tutupnya, kemudian umumkan selama satu tahun, setelah itu pergunakanlah. Jika datang pemiliknya maka berikanlah kepadanya". Orang itu bertanya: "Bagaimana dengan orang yang menemukan unta?" Maka Nabi shallallahu 'alaihi wasallam marah hingga nampak merah mukanya, lalu berkata: "apa urusanmu dengan unta itu, sedang dia selalu membawa air di perutnya, bersepatu sehingga dapat hilir mudik mencari minum dan makan rerumputan, maka biarkanlah dia hingga pemiliknya datang mengambilnya". Orang itu bertanya lagi tentang menemukan kambing, maka Beliau menjawab: "Itu untuk kamu atau saudaramu atau serigala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Arabic No</td><td>91</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Зейда ибн Халида аль-Джухани, да будет доволен им Аллах, что как-то раз один человек спросил Пророка ﷺ о (том, что следует делать с) найденным, и (Посланник Аллаха ﷺ) сказал: «(Сначала) узнай(, кому принадлежит) верёвка(, которой связано) найденное (или он сказал: сосуд, в котором находится найденное), а потом объявляй о находке (людям) в течение года, после чего можешь пользоваться этим, однако если (к тебе) придёт хозяин найденного, (тебе следует) отдать находку ему». (Этот человек) спросил: «А (что делать с) заблудившимися верблюдами?» И тогда (Пророк ﷺ) разгневался так, что щёки его покраснели (или он сказал: лицо его покраснело), и он сказал: «А что тебе до них, ведь на верблюдах будут бурдюки, и у них имеются копыта?! Они же сами приходят к воде и объедают (листья с) деревьев, так не трогай же этих верблюдов, чтобы хозяин смог сам найти их!» (Затем этот человек) спросил: «А (что делать с) заблудившимися овцами?» (Пророк ﷺ) ответил: «Они достанутся тебе, или твоему брату, или волку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Arabic No</td><td>91</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
 

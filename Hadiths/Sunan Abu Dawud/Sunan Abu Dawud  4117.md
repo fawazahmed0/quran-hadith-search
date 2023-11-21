@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Safiyyah, daughter of AbuUbayd, said:When the Messenger of Allah (ﷺ) mentioned
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abu Bakr bin Nafi'] dari [bapaknya] bahwasanya [Shafiyah binti Abu Ubaid] mengabarkan kepadanya, bahwa [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam berkata kepada Rasulullah shallallahu 'alaihi wasallam ketika beliau menyebutkan tentang kain sarung, "Wahai Rasulullah, bagaimana dengan wanita?" beliau menjawab: "Lebihkanlah satu jengkal." Ummu Salamah berkata lagi, "Bagaimana jika masih terlihat?" beliau menjawab: "Lebihkanlah satu hasta dan jangan lebih." Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah mengabarkan kepada kami [Isa] dari [Ubaidullah] dari [Nafi'] dari [Sulaiman bin Yasar] dari [Ummu Salamah] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini." Abu Dawud berkata, " [Ibnu Ishaq] dan [Ayyub bin Musa] juga menceritakan dari [Nafi'] dari [Shafiyah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4117</td></tr><tr><td>Arabic No</td><td>4117</td></tr><tr><td>Reference</td><td>Book 34 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Жена Пророка ﷺ Умм Саляма, да будет доволен ею Аллах, передаёт, что, когда Посланник Аллаха ﷺ заговорил о длине изара, она спросила его: «А женщина?» Он сказал: «Пусть опускает изар на пядь». Умм Саляма сказала: «Тогда (их ноги) будут раскрываться (во время ходьбы)». Он сказал: «В таком случае пусть (опускают подолы) на локоть, но не больше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4117</td></tr><tr><td>Arabic No</td><td>4117</td></tr><tr><td>Reference</td><td>Book 34 Hadith 98</td></tr></tbody></table></div>
 

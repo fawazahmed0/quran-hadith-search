@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Muhammad, the Messenger of Allah (ﷺ), said:When it o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hisyam bin Munabbih] dia berkata, "Inilah sesuatu yang diceritakan kepada kami oleh [Abu Hurairah] dari Muhammad, Rasulullah shallallahu 'alaihi wasallam. Lalu dia menyebutkan hadits-hadits darinya, dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah berfirman: 'Apabila hamba-Ku berkeinginan untuk mengerjakan kebaikan maka Aku menulisnya sebagai satu kebaikan selama dia belum melakukannya, maka jika dia melakukannya maka Aku menuliskannya sebagai sepuluh kebaikan. Dan apabila dia berkeinginan untuk kejelekan maka Aku akan mengampuninya selama dia belum melakukannya, namun jika dia mengamalkannya maka Aku menuliskannya sebagai satu kejelekan -dan Dia lebih mengetahuinya- seraya Dia berfirman, 'Kalian awasilah dia. Jika dia mengerjakan kejelekan maka kalian tulisnya dengan semisalnya, dan apabila dia meninggalkannya maka tulislah untuknya satu kebaikan. Karena dia meninggalkannya karena Aku'." Dan Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian memperbagus Islamnya maka setiap kebaikan yang dia kerjakan akan dicatat sepuluh semisalnya hingga tujuh ratus kali lipat. Dan setiap kejelekan yang dia kerjakan niscaya dicatat dengan semisalnya hingga dia menemui Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>336</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Великий и Могучий Аллах сказал: “Если раб Мой скажет, что совершит доброе дело, но не совершит его, Я запишу за ним совершение (одного) доброго дела, если же он совершит его, то Я запишу за ним совершение десяти (таких дел). Если он скажет, что совершит дурное дело, Я прощу ему это при условии, что он не совершит его, если же он совершит его, то Я запишу за ним совершение (только этого дела)”».И Посланник Аллаха ﷺ сказал: «Ангелы говорят: “Господь мой, этот Твой раб хочет совершить дурное дело”, о чём лучше всех знает (Аллах, Который) говорит: “Наблюдайте за ним. Если он совершит (нечто дурное), запишите за ним совершение (только этого дела), а если откажется от (совершения дурного), запишите за ним совершение доброго дела, ибо он отказался от этого ради Меня”».И Посланник Аллаха ﷺ сказал: «Если любой из вас, кто станет исповедовать ислам должным образом, за каждое доброе дело, которое он совершит, ему будет записываться (совершение) от десяти до семисот и более добрых дел, а за каждое дурное дело совершение (только этого дела), и так будет продолжаться, пока (человек) не встретит Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>336</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
 

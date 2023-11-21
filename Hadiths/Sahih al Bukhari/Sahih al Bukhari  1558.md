@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:'Ali came to the Prophet (p.b.u.h) from Yemen (to Mecca)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin'Ali Al Khallal Al Hudzliy] telah menceritakan kepada kami ['Adush Shamad] telah menceritakan kepada kami [Salim bin Hayan] berkata; Aku mendengar [Marwan Al Ashfar] dari [Anas bin Malik radliallahu 'anhu] berkata: "Ali radliallahu 'anhu tiba di Makkah dari Yaman mendahului Nabi Shallallahu'alaihiwasallam. Beliau bertanya kepadanya: "Bagaimana cara kamu berihram (memulai hajji)?". Dia menjawab: "Aku berihram sebagaimana Nabi shallallahu 'alaihi wasallam berihram". Maka Beliau bersabda: "Seandainya aku tidak membawa hewan qurban pasti aku sudah bertahallul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1558</td></tr><tr><td>Arabic No</td><td>1558</td></tr><tr><td>Reference</td><td>Book 25 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Когда ‘Али, да будет доволен им Аллах, прибыл из Йемена, Пророк ﷺ спросил его: «С каким намерением ты вошёл в состояние ихрама?» Он ответил: «С тем же, что и Пророк ﷺ». Пророк ﷺ сказал: «Если бы я не пригнал жертвенное животное, то я вышел бы из ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1558</td></tr><tr><td>Arabic No</td><td>1558</td></tr><tr><td>Reference</td><td>Book 25 Hadith 44</td></tr></tbody></table></div>
 

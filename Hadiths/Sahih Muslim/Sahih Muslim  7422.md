@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:A servant says, My wealth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Suwaid bin Sa'id] telah menceritakan kepadaku [Hafsh bin Maisarah] dari [Al Ala'] dari [ayahnya] dari [Abu Hurairah] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Manusia berkata, 'Hartaku, hartaku, ' sesungguhnya hartanya ada tiga: yang ia makan lalu ia habiskan, yang ia kenakan lalu ia usangkan atau yang ia berikan (sedekahkan) lalu ia miliki, selain itu akan lenyap dan akan ia tinggalkan untuk manusia'." Telah menceritakannya kepadaku [Abu Bakar bin Ishaq] telah mengkhabarkan kepada kami [Ibnu Abi Maryam] telah mengkhabarkan kepada kami [Muhammad bin Ja'far] telah mengkhabarkan kepadaku [Al Ala' bin Abdurrahman] dengan sanad ini dengan matan yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7422</td></tr><tr><td>Arabic No</td><td>2959.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7422</td></tr><tr><td>Arabic No</td><td>2959.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 6</td></tr></tbody></table></div>
 

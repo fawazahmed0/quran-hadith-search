@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya:At the time of giving the pledge of allegiance to the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Ummu 'Athiyyah radliallahu 'anha] berkata,: "Nabi Shallallahu'alaihiwasallam mengambil sumpah setia dari kami ketika kami berbai'at yaitu kami dilarang meratap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1306</td></tr><tr><td>Arabic No</td><td>1306</td></tr><tr><td>Reference</td><td>Book 23 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа, да будет доволен ею Аллах, сказала: «Принимая от нас клятву (на верность исламу), Пророк ﷺ взял с нас обещание не причитать по покойным, но никто из нас не выполнил его, кроме пяти (женщин, а именно): Умм Суляйм, Умм аль-‘Аля, дочери Абу Сабры, которая была женой Му‘аза, и ещё двоих женщин (или: дочери Абу Сабры, жены Му‘аза, и ещё одной женщины)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1306</td></tr><tr><td>Arabic No</td><td>1306</td></tr><tr><td>Reference</td><td>Book 23 Hadith 64</td></tr></tbody></table></div>
 

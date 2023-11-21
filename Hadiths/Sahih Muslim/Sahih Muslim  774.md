@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Ja'far reported:The Messenger of Allah (ﷺ) one day made me mount b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] dan [Abdullah bin Muhammad bin Asma adh-Dhuba'i] keduanya berkata, "Telah menceritakan kepada kami [Mahdi] dan dia adalah Ibnu Maimun telah menceritakan kepada kami [Muhammad bin Abdullah bin Abi Ya'qub] dari [al-Hasan bin Sa'd budak al-Hasan bin Ali] dari [Abdullah bin Ja'far] dia berkata, "Rasulullah shallallahu 'alaihi wasallam memboncengku di belakangnya pada suatu hari, lalu beliau membisikkan suatu hadis yang tidak aku ceritakan kepada seorang pun manusia, 'Sesuatu yang paling disukai Rasulullah shallallahu 'alaihi wasallam untuk dijadikan alat bersembunyi untuk menunaikan hajatnya adalah bangunan WC dan kebun pohon kurma.' Ibnu Asma' berkata dalam haditsnya, 'Yaitu Kebun kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>342</td></tr><tr><td>Reference</td><td>Book 3 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Джа‘фар сказал: «Однажды Посланник Аллаха ﷺ посадил меня в седло позади себя и по секрету сказал мне то, о чём я не расскажу никому из людей. Когда Посланнику Аллаха ﷺ было необходимо удовлетворить свои естественные потребности, он чаще всего выбирал какую-нибудь возвышенность или стену вокруг пальмовой рощи, (чтобы укрыться от чужих глаз)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>342</td></tr><tr><td>Reference</td><td>Book 3 Hadith 96</td></tr></tbody></table></div>
 

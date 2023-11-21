@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: Every important matter which is no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah] ia berkata; [Al Walid] menceritakan dengan yakin dari [Al Auza'i] dari [Qurrah] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap ucapan yang tidak dimulai dengan memuji kepada Allah, maka ia akan terputus (dari kebaikan)." Abu Dawud berkata, " [Yunus] meriwayatkan hadits ini begitu juga [Aqil], dan [Syu'aib], dan [Sa'id bin Abdul Aziz], dari [Az Zuhri], dari Nabi shallallahu 'alaihi wasallam secara mursal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4840</td></tr><tr><td>Arabic No</td><td>4840</td></tr><tr><td>Reference</td><td>Book 43 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4840</td></tr><tr><td>Arabic No</td><td>4840</td></tr><tr><td>Reference</td><td>Book 43 Hadith 68</td></tr></tbody></table></div>
 

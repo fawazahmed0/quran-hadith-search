@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) offered a two-rak'at prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada saya [Yunus] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya ['Ubaidullah bin 'Abdullah bin 'Umar] dari [bapaknya] berkata; Nabi Shallallahu'alaihiwasallam shalat dua raka'at di Mina. Begitiu pula Abu Bakar, 'Umar dan 'Utsman pada awal kekhilafahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1655</td></tr><tr><td>Arabic No</td><td>1655</td></tr><tr><td>Reference</td><td>Book 25 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, сказал: «Находясь в Мине, Посланник Аллаха ﷺ совершал молитвы (сокращая) в два рак‘ата, так же поступал Абу Бакр и ‘Умар, а также ‘Усман в начале своего правления»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1655</td></tr><tr><td>Arabic No</td><td>1655</td></tr><tr><td>Reference</td><td>Book 25 Hadith 136</td></tr></tbody></table></div>
 

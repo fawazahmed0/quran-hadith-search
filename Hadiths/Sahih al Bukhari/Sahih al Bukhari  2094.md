@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim:Some men came to Sahl bin Sa'd to ask him about the pulpit. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami ['Abdul 'Aziz] dari [Abu Hazim] berkata, bahwa ada orang-orang mendatangi [Sahal bin Sa'ad] lalu bertanya tentang mimbar? Maka dia (Sahal) berkata: "Rasulullah shallallahu 'alaihi wasallam mengutus orang untuk menemui seorang wanita yang namanya sudah disebutkan oleh Sahal, lalu berkata: "Perintahkanlah anakmu yang tukang kayu itu untuk membuat mimbar bertangga yang aku jadikan tempat duduk saat aku berbicara dengan orang banyak". Kemudian wanita itu memerintahkan anaknya membuat mimbar yang terbuat dari batang kayu pohon hutan. Setelah minbar itu jadi, diberikan kepada wanita tersebut. Lalu wanita tersebut mengirimnya untuk Rasulullah shallallahu 'alaihi wasallam, Maka beliau perintahkan orang untuk meletakkan mimbar tersebut dan beliau pergunakan untuk duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2094</td></tr><tr><td>Arabic No</td><td>2094</td></tr><tr><td>Reference</td><td>Book 34 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хазим сказал: «Как-то раз люди пришли к Сахлю бин Са‘ду, чтобы спросить его о минбаре (Пророка ﷺ), и он сказал: “Посланник Аллаха ﷺ послал (человека) к такой-то женщине”, — и Сахль назвал её имя, — “(чтобы ей передали): “Вели своему рабу-плотнику, чтобы он сделал для меня (возвышение) из дерева, на котором я буду сидеть, когда стану обращаться к людям”. И она отдала распоряжение (своему рабу), который сделал (этот минбар) из лесного тамариска, а потом доставил его (к ней). Она отослала (его) к Посланнику Аллаха ﷺ, он приказал установить его, а затем он сел на него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2094</td></tr><tr><td>Arabic No</td><td>2094</td></tr><tr><td>Reference</td><td>Book 34 Hadith 47</td></tr></tbody></table></div>
 

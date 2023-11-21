@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) mentioned Ramadan and said,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam menceritakan tentang bulan Ramadhan lalu Beliau bersabda: "Janganlah kalian berpuasa hingga kalian melihat hilal dan jangan pula kalian berbuka hingga kalian melihatnya. Apabila kalian terhalang oleh awan maka perkirakanlah jumlahnya (jumlah hari disempurnakan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>1906</td></tr><tr><td>Reference</td><td>Book 30 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Посланник Аллаха ﷺ упомянул о рамадане и сказал: «Не поститесь, пока не увидите молодой месяц (в начале рамадана), (начинайте) поститься, и не разговляйтесь, пока не увидите его, а если будет облачно и вы (его не увидите), тогда определяйте по нему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>1906</td></tr><tr><td>Reference</td><td>Book 30 Hadith 16</td></tr></tbody></table></div>
 

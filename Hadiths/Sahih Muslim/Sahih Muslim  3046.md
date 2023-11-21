@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. 'Umar) reported that whenever Allah's Messenger (ﷺ) entered Mecca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Ishaq Al Musayyabi] telah menceritakan kepadaku [Anas] yakni Ibnu Iyadl, dari [Musa bin Uqbah] dari [Nafi'] bahwa [Abdullah] telah menceritakan kepadanya bahwasanya; "Rasulullah shallallahu 'alaihi wasallam berhenti dan bermalam di Dzi Thuwa, sehingga beliau shalat Shubuh terlebih dahulu di situ sebelum masuk kota Makkah. Tempat beliau shalat di situ bukanlah masjid yang telah dibangun kemudian, tetapi agak ke bawah sedikit, di sebuah bukit kecil yang lumayan tinggi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3046</td></tr><tr><td>Arabic No</td><td>1259.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 252</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3046</td></tr><tr><td>Arabic No</td><td>1259.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 252</td></tr></tbody></table></div>
 

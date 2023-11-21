@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:We were one-thousand-and-four-hundred persons on the day of Al-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Malik bin Isma'il] telah bercerita kepada kami [Isra'il] dari [Abu Ishaq] dari [Al Bara' radliallahu 'anhu] berkata; "Pada peristiwa Hudaibiyah jumlah kami seribu empat ratus orang sedangkan di Hudaibiah ada sebuah sumur, kami pun mengambil airnya hingga tak bersisa setetespun". Kemudian Nabi shallallahu 'alaihi wasallam duduk di tepi sumur dan berdo'a meminta air. Beliau berkumur-kumur lalu memuntahkannya ke dalam sumur. Setelah kami terdiam sejenak, akhirnya kami dapat minum hingga puas dan begitu juga hewan-hewan tunggangan kami minum sepuasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3577</td></tr><tr><td>Arabic No</td><td>3577</td></tr><tr><td>Reference</td><td>Book 61 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) аль-Бара, да будет доволен им Аллах, сказал: «В день Худайбии нас было тысяча четыреста человек, что же касается (слова) “Худайбия”, то это — название колодца, воду которого мы вычерпали, не оставив там ни единой капли. (Когда об этом стало известно Пророку ﷺ, он пришёл к этому колодцу и сел на его край. Потом он велел принести себе сосуд с водой, которой он прополоскал рот и сплюнул в колодец. Мы подождали совсем немного, а затем набрали воды из этого колодца, утолили жажду и напоили наших верховых животных»)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3577</td></tr><tr><td>Arabic No</td><td>3577</td></tr><tr><td>Reference</td><td>Book 61 Hadith 86</td></tr></tbody></table></div>
 

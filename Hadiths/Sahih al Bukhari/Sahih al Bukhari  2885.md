@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) was vigilant one night and when he reached Med
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il bin Khalil] telah mengabarkan kepada kami ['Ali bin Mushir] telah mengabarkan kepada kami [Yahya bin Sa'id] telah mengabarkan kepada kami ['Abdullah bin 'Amir bin Rabi'ah] berkata aku mendengar ['Aisyah radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam pernah berjaga-jaga (tidak tidur) di malam hari. Ketika sampai di Madinah, Beliau bersabda: "Seandainya ada seorang sholih yang randa menjagaku di waktu malam". Ketika kami mendengar suara senjata, Beliau bertanya: "Siapakah itu". Orang itu menjawab: "Saya Sa'ad bin Abu Waqosh datang untuk menjaga Tuan". Maka kemudian Nabi shallallahu 'alaihi wasallam tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2885</td></tr><tr><td>Arabic No</td><td>2885</td></tr><tr><td>Reference</td><td>Book 56 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Пророк ﷺ бодрствовал (всю ночь), а, вернувшись в Медину, он сказал: “О, если бы охранял меня этой ночью праведный человек из числа моих сподвижников!” Тут мы (неожиданно) услышали бряцание оружия, и он спросил: “Кто это?” (Подошедший к нам человек) ответил: “Я Са‘д ибн Абу Ваккъас, пришедший, чтобы охранять тебя”, и Пророк ﷺ поспал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2885</td></tr><tr><td>Arabic No</td><td>2885</td></tr><tr><td>Reference</td><td>Book 56 Hadith 100</td></tr></tbody></table></div>
 

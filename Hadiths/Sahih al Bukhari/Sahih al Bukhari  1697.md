@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hafsa:I said, "O Allah's Messenger (ﷺ)! What is wrong with the people
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] berkata, telah mengabarkan kepada saya [Nafi'] dari [Ibnu 'Umar] dari [Hafshoh radliallahu 'anhu] berkata; Aku berkata: "Wahai Rasulullah, apa yang telah diperbuat oleh orang-orang itu mereka bertahallul sedangkan anda tidak?". Beliau berkata: "Aku telah mengikat rambutku, telah aku tandai hewan qurbanku, maka tidak halal bagiku segala sesuatu hingga aku menyelesaikan seluruh manasik hajji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>1697</td></tr><tr><td>Reference</td><td>Book 25 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, от Хафсы, да будет доволен ею Аллах, что она спросила: «О Посланник Аллаха! Почему люди вышли из состояния ихрама, а ты нет?» Посланник Аллаха ﷺ сказал: «Я склеил волосы и пометил жертвенный скот, и я не выйду из состояния ихрама, пока не совершу хадж»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>1697</td></tr><tr><td>Reference</td><td>Book 25 Hadith 175</td></tr></tbody></table></div>
 

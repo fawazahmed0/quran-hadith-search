@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported that the Messenger of Allah (ﷺ) was one night occup
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibn Juraij] telah mengabarkan kepadaku [Nafi'] telah menceritakan kepada kami [Abdullah bin Umar] bahwa suatu malam Rasulullah shallallahu 'alaihi wasallam disibukkan oleh suatu urusan, sehingga beliau tangguhkan shalat isya' hingga kami ketiduran di masjid, kami lalu bangun, kemudian tidur lagi, dan bangun lagi, setelah itu Rasululah shallallahu 'alaihi wasallam menemui kami dan bersabda: "Tidak ada seorang pun penghuni bumi malam ini yang menunggu-nunggu waktu shalat selain kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1447</td></tr><tr><td>Arabic No</td><td>639.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 280</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Нафи’а, что ‘Абдуллах ибн ‘Умар сказал: «Однажды ночью Посланник Аллаха ﷺ был занят (какими-то делами) и отложил (вечернюю) молитву настолько, что мы заснули в мечети. Затем мы проснулись и заснули опять. Затем, когда мы проснулись, Посланник Аллаха ﷺ вышел к нам и сказал: “Никто из живущих на земле этой ночью не дожидается этой молитвы, кроме вас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1447</td></tr><tr><td>Arabic No</td><td>639.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 280</td></tr></tbody></table></div>
 

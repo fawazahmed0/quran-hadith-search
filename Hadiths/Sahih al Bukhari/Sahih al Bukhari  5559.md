@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) entered upon me at Sarif while I was wee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Sufyan] dari [Abdurrahman bin Al Qasim] dari [Ayahnya] dari [Aisyah] radliallahu 'anha dia berkata; Rasulullah shallallahu 'alaihi wasallam menemuiku ketika berada di Sarif, sementara aku sedang menangis, lalu beliau bertanya: "Kenapa denganmu? Apakah kamu haidl?" Jawabku; "Ya" beliau bersabda: "Ini adalah suatu perkara yang telah ditetapkan Allah atas para wanita anak Adam, lakukanlah sebagaimana yang di lakukan oleh orang-orang yang berhaji, namun kamu jangan melakukan thawaf di Ka'bah." Setelah itu Rasulullah shallallahu 'alaihi wasallam berkurban untuk para isterinya dengan seekor sapi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5559</td></tr><tr><td>Arabic No</td><td>5559</td></tr><tr><td>Reference</td><td>Book 73 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «В Сарифе Пророк ﷺ вошёл ко мне, и увидев, что я плачу, спросил: “Что с тобой? У тебя начались месячные?” Я ответила: “Да”. Тогда он сказал: “Поистине, это предопределено Аллахом дочерям Адама. Совершай же всё, что совершает паломник, но только не обходи Дом (Каабу)!” И Посланник Аллаха ﷺ принёс в жертву корову за своих жён»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5559</td></tr><tr><td>Arabic No</td><td>5559</td></tr><tr><td>Reference</td><td>Book 73 Hadith 15</td></tr></tbody></table></div>
 

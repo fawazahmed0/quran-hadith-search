@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:I said to Ibn 'Abbas, "During the battle of Khaibar the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] Telah menceritakan kepada kami [Ibnu Uyainah] bahwa ia mendengar [Az Zuhri] berkata; Telah mengabarkan kepadaku [Al Hasan bin Muhammad bin Ali] dan saudaranya [Abdullah bin Muhammad] dari [bapak keduanya] bahwasanya; [Ali] radliallahu 'anhu berkata kepada Ibnu Abbas, "Sesungguhnya Nabi shallallahu 'alaihi wasallam telah melarang nikat Mut'ah dan memakan daging himar yang jinak pada zaman Khaibar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>5115</td></tr><tr><td>Reference</td><td>Book 67 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ’Али, да будет доволен им Аллах, сказал Ибн ’Аббасу: «Поистине, в день Хайбара Пророк ﷺ запретил заключать временные браки /мут‘а/ и употреблять в пищу мясо домашних ослов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>5115</td></tr><tr><td>Reference</td><td>Book 67 Hadith 52</td></tr></tbody></table></div>
 

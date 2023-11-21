@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abd al-Rahman b. Abza reported on the authority of his father this incident
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (338) Sahih Muslim (368)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>324</td></tr><tr><td>Arabic No</td><td>324</td></tr><tr><td>Reference</td><td>Book 1 Hadith 324</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Абду-р-Рахмана ибн Абзы, который передал со слов своего отца, передавшего от ‘Аммара этот же хадис, (где сообщается, что Пророк ﷺ) сказал: «Поистине, тебе было достаточно». И Пророк ﷺ ударил рукой о землю, затем подул на нее и обтер ею свое лицо и кисти рук. Здесь Салама засомневался и сказал: «И я не знаю, до локтей или до кистей рук»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (338) Sahih Muslim (368)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>324</td></tr><tr><td>Arabic No</td><td>324</td></tr><tr><td>Reference</td><td>Book 1 Hadith 324</td></tr></tbody></table></div>
 

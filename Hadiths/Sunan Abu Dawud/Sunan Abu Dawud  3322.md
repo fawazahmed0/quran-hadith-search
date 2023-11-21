@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: If anyone takes a vow but d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ja'far bin Musafir At Tinnisi] dari [Ibnu Abu Fudaik], ia berkata; telah menceritakan kepadaku [Thalhah bin Yahya Al Anshari] dari [Abdullah bin Sa'id bin Abu Hindun], dari [Bukair bin Abdullah bin Al Asyajj] dari [Kuraib], dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang bernadzar dengan tidak menyebutkannya, maka kafarahnya adalah kafarah sumpah. Dan barangsiapa yang bernadzar dalam kemaksiatan maka kafarahnya adalah kafarah bersumpah, dan barangsiapa yang bernadzar sesuatu yang tidak ia mampu maka kafarahnya adalah kafarah puasa. Dan barangsiapa yang bernadzar sesuatu yang ia mampu; maka hendaknya ia memenuhinya." Abu Daud berkata; hadits ini diriwayatkan Waki' dan yang lainnya dari Abdullah bin Sa'id bin Abu Al Hind, mereka telah menganggapnya muquf pada Ibnu Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3322</td></tr><tr><td>Arabic No</td><td>3322</td></tr><tr><td>Reference</td><td>Book 22 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Икримы, что Посланник Аллаха ﷺ сказал: «Клянусь Аллахом, я пойду войной на курайшитов! Клянусь Аллахом, я пойду войной на курайшитов! Клянусь Аллахом, я пойду войной на курайшитов!» После чего он добавил: «Если пожелает Аллах». Аль-Валид ибн Муслим передал от Шарика: «А потом он не пошёл на них войной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3322</td></tr><tr><td>Arabic No</td><td>3322</td></tr><tr><td>Reference</td><td>Book 22 Hadith 81</td></tr></tbody></table></div>
 

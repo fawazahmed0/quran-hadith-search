@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salih b. Khawwat: On the authority of a person who offered the prayer i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Yazid bin Ruman] dari [Shalih bin Khuwwat] dari [orang] yang pernah mengerjakan shalat khauf bersama Rasulullah shallallahu 'alaihi wasallam pada waktu Perang Dzatur Riqa', yaitu; bahwa satu shaf berbaris bersama beliau, sedangkan shaf yang lain (berjaga-jaga) menghadapi musuh, kemudian orang-orang yang bersama beliau shalat satu raka'at, kemudian beliau tetap dalam kondisi berdiri, sedangkan mereka menyempurnakan satu raka'at sendiri-sendiri, setelah itu mereka beranjak pergi dan berbaris (berjaga-jaga) menghadapi musuh. Setelah itu, kelompok yang lain datang dan shalat bersama beliau satu raka'at dari sisa satu raka'at beliau, kemudian beliau tetap dalam duduk (menunggu), sedangkan mereka menyempurnakan shalat (satu raka'at) sendiri-sendiri, lalu beliau salam bersama mereka." Malik berkata; sedangkan haditsnya Yazid bin Ruman lebih aku sukai dari apa yang pernah aku dengar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4129) Sahih Muslim (842)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1238</td></tr><tr><td>Arabic No</td><td>1238</td></tr><tr><td>Reference</td><td>Book 4 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салих ибн Хавват передаёт от того, кто совершал молитву под воздействием страха /салят аль-хауф/ вместе с посланником Аллаха ﷺ в день Зат-ар-Рика‘, что одна группа построилась рядами позади Посланника Аллаха ﷺ чтобы совершить молитву, а вторая стояла напротив врага. Посланник Аллаха ﷺ совершил с первой группой один рак‘ат и остался стоять, а оставшуюся часть молитвы они совершили самостоятельно. Затем они ушли и встали напротив врага, а группа, которая до этого стояла на страже, пришла к Посланнику Аллаха ﷺ и он совершил с ними рак‘ат, оставшийся от его молитвы, после чего сел. Они совершили оставшийся рак‘ат своей молитвы самостоятельно, после чего он произнёс таслим вместе с ними. Малик сказал: «Из того, что я слышал, (этот) хадис Язида ибн Румана нравится мне больше всего»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4129) Sahih Muslim (842)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1238</td></tr><tr><td>Arabic No</td><td>1238</td></tr><tr><td>Reference</td><td>Book 4 Hadith 41</td></tr></tbody></table></div>
 

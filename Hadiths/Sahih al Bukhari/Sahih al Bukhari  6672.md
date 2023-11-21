@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubai bin Ka'b: that he heard Allah's Messenger (ﷺ) saying, "(Moses) s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Amru bin Dinar] telah menceritakan kepadaku [Said bin Jubair] menuturkan; saya bertanya kepada [Ibnu 'Abbas], maka ia menjawab; telah menceritakan kepada kami [Ubai bin Ka'b], bahwasanya ia mendengar Rasulullah Shallallahu'alaihi wa sallam bersabda (mengenai firman Allah); 'Janganlah engkau menghukumku karena aku lupa dan janganlah engkau memaksa urusanku yang bagiku terasa sukar' (Alkahfi 73), beliau menafsiri dengan: "Itulah lupa pertama-tama yang dilakukan Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6672</td></tr><tr><td>Arabic No</td><td>6672</td></tr><tr><td>Reference</td><td>Book 83 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Убая ибн Ка‘ба, что он слышал, как Посланник Аллаха ﷺ сказал (в отношение слов Аллаха) «(Муса) сказал: “Не наказывай меня за то, что я позабыл, и не делай мою задачу обременительной”» (Сура «аль-Кяхф», аят 73): «В первый раз от Мусы это было по забывчивости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6672</td></tr><tr><td>Arabic No</td><td>6672</td></tr><tr><td>Reference</td><td>Book 83 Hadith 50</td></tr></tbody></table></div>
 

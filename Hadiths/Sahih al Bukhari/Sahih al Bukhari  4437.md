@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:When Allah 's Apostle was in good health, he used to say, "Never 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; Telah mengabarkan kepadaku [Urwah bin Zubair] bahwa [Aisyah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda ketika beliau masih sehat: "Tidaklah seorang nabi diambil nyawanya, hingga di perlihatkan terlebih dahulu tempat duduknya di surga. Lalu di suruh memilihnya." Tatkala beliau sakit dan ajal menjemputnya, yang pada waktu itu kepala beliau berada di paha Aisyah, beliau pingsan. Setelah beliau sadar, beliau mengalihkan pandangannya ke atap rumah kemudian bersabda: "Ya Allah, sekarang aku memilih kekasihku yang tertinggi." Aku berkata; 'kalau begitu beliau tidak akan bersama kita. Maka aku pun mengerti bahwa ucapanya itu adalah perkataan yang pernah beliau sampaikan kepada kami ketika beliau masih sehat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4437</td></tr><tr><td>Arabic No</td><td>4437</td></tr><tr><td>Reference</td><td>Book 64 Hadith 458</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Посланник Аллаха ﷺ был здоров, он часто говорил: “Поистине, ни один пророк никогда не умирал, пока не (предоставлялась ему возможность) увидеть его место в раю, а потом к нему либо обращались с приветствием, либо предоставлялся выбор”».\n(Передатчик этого хадиса сказал): «А когда он заболел, и смерть его была уже близка, и голова его лежала на ноге ‘Аиши, он потерял сознание; очнувшись же, он стал смотреть в потолок, а потом сказал: “О Аллах, (позволь мне оказаться) в высшем обществе! /Аллахумма, фир-р-рафики-ль-а‘ля!/” Тогда я сказала: “Значит, он не останется с нами!” — а потом поняла, что эти его слова (подтверждают) то, что он говорил нам, когда был здоров»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4437</td></tr><tr><td>Arabic No</td><td>4437</td></tr><tr><td>Reference</td><td>Book 64 Hadith 458</td></tr></tbody></table></div>
 

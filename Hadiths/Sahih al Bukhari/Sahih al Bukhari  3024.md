@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim Abu An-Nadr: (the freed slave of 'Umar bin 'Ubaidullah) I was Uma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3024</td></tr><tr><td>Arabic No</td><td>3024</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Аби Ауфа написал письмо (‘Умару ибн ‘Убайдуллах), в котором было сказано следующее: «Когда в один из дней Посланник Аллаха ﷺ повстречал врагов, он ждал, пока солнце не стало клониться к закату, а потом встал среди людей и обратился (к ним с такими словами): “О люди, не желайте встречи с врагами и просите Аллаха об избавлении, но если уж вы встретились с ними, то проявляйте терпение и знайте, что Рай находится в тени (ваших) мечей!” Затем (Пророк ﷺ) сказал: “О Аллах, ниспосылающий Книгу, приводящий в движение облака, победивший союзные племена, разбей их и приведи нас к победе над ними! /Аллахумма, мунзиля-ль-китаби, ва муджрийа-с-сахаби ва хазима-ль-ахзаби-хзим-хум ва-нсур-на ‘аляй-хим!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3024</td></tr><tr><td>Arabic No</td><td>3024</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

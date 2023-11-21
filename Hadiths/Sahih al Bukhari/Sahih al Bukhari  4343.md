@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abi Burda:That Abu Musa Al-Ash'ari said that the Prophet (ﷺ) had sent
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] Telah menceritakan kepada kami [Khalid] dari [Asysyaibani] dari [Said bin Abu Burdah] dari [ayahnya] dari [Abu Musa Al'Asy'ari] radliallahu 'anhu, adalah Nabi shallallahu 'alaihi wasallam pernah mengutusnya ke negeri Yaman, selanjutnya beliau bertanya minuman yang biasa diminum disana. Tanya Nabi; "Minuman apa yang biasa disana? ia menjawab; kebiasaan minuman disana adalah "Albit'u" dan "Al Mizru", aku mencoba bertanya kepada Abu Burdah? apa maksud minuman Albit'u? Jawabnya, ia adalah rendaman kurma, sedang almizru ialah sebutan untuk minuman dari rendaman tepung. Lantas Rasulullah berujar: "Setiap yang memabukkan adalah haram." [Jarir] dan [Abdul Wahid] meriwayatkan hadits ini dari [Abu Burdah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>4343</td></tr><tr><td>Reference</td><td>Book 64 Hadith 371</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы аль-Аш‘ари, да будет доволен им Аллах, что, посылая его в Йемен, Пророк ﷺ спросил его об (алкогольных) напитках, которые там делают: «Что это (за напитки)?» (Абу Муса) ответил: «(Это —) бит‘ и мизр», и тогда (Пророк ﷺ) сказал: «Всё опьяняющее запретно». \nПередатчик (этого хадиса) сказал: «“Бит‘” — это вино из мёда, а “мизр” — вино из ячменя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>4343</td></tr><tr><td>Reference</td><td>Book 64 Hadith 371</td></tr></tbody></table></div>
 

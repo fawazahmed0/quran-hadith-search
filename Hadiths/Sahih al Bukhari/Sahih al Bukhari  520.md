@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Maimun [??]:'Abdullah bin Mas'ud said, "While Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ishaq As Suramari] berkata, telah menceritakan kepada kami [Ubaidullah bin Musa] berkata, telah menceritakan kepada kami [Isra'il] dari [Abu Ishaq] dari ['Amru bin Maimun] dari ['Abdullah] berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam shalat di dekat Ka'bah, ada orang-orang Quraisy yang sedang duduk-duduk di majelis mereka. Ketika itu ada seorang laki-laki dari mereka yang berkata, 'Tidakkah kalian melihat kepada orang yang riya' ini? Siapa dari kalian yang dapat mengambilkan buatku sisa unta yang baru disembelih milik fulan, lalu dia kumpulkan kotorannya, darah dan plasenta (ari-ari) nya! ' Maka ada seorang laki-laki datang dengan membawa kotoran tersebut, ia menunggu sampai beliau sujud. Sehingga ketika beliau sujud, ia ia bisa meletakkan kotoran tersebut di antara bahu beliau. Maka ketika Rasulullah shallallahu 'alaihi wasallam sujud, orang itu meletakkan kotoran-kotoran unta itu di antara dua bahu beliau. Dan Nabi shallallahu 'alaihi wasallam tetap dalam keadaan sujud, mereka pun tertawa hingga sebagian condong kepada sebagian yang lain. Lalu ada seseorang menemui Fatimah? radliallahu 'anha, dan orang itu adalah Juwairiyah. Maka Fatimah bergegas mendatangi Nabi shallallahu 'alaihi wasallam yang saat itu masih dalam keadaan sujud. Kemudian Fatimah membersihkan kotoran-kotoran unta tersebut dari beliau. Kemudian Fatimah menghadap ke arah mereka dan mengumpat orang-orang Quraisy tersebut. Setelah Rasulullah shallallahu 'alaihi wasallam menyelesaikan shalat dan berdo'a: "Ya Allah kuserahkan (urusan) Quraisy kepada-Mu, Ya Allah kuserahkan Quraisy kepada-Mu, Ya Allah kuserahkan Quraisy kepada-Mu." Kemudian Nabi shallallahu 'alaihi wasallam menyebut satu persatu nama-nama mereka: "Ya Allah kuserahkan (urusan) 'Amru bin Hisyam kepada-Mu, 'Utbah bin Rabi'ah, Syaibah bin Rabi'ah, Al Walid bin 'Utbah, Umayyah bin Khalaf, 'Uqbah bin Abu Mu'aith dan 'Umarah bin Al Walid." 'Abdullah bin Mas'ud berkata, "Demi Allah, aku melihat orang-orang yang disebut Nabi shallallahu 'alaihi wasallam tersebut terbantai pada perang Badar, kemudian mereka dibunag ke lembah Badar." Lalu Nabi shallallahu 'alaihi wasallam bersabda: "Jadilah para penghuni lembah ini diiringi dengan kutukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>520</td></tr><tr><td>Arabic No</td><td>520</td></tr><tr><td>Reference</td><td>Book 8 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Однажды, когда Посланник Аллаха ﷺ молился рядом с Каабой, а группа курайшитов сидела (неподалёку), один из них сказал: “Посмотрите на этого лицемера /мура‘и/! Кто из вас сходит к (тому месту, где лежит) верблюд(, забитый людьми из) такого-то рода, возьмёт содержимое его желудка вместе с кровью и рубашкой плода, подождёт, пока он не склонится в земном поклоне, и положит это ему на спину?” И туда отправился самый злосчастный из них, а когда Посланник Аллаха ﷺ склонился в земном поклоне, он положил всё это ему на спину. Что касается Пророка ﷺ то он продолжал оставаться в том же положении, а курайшитов разобрал такой сильный смех, что они стали валиться друг на друга. Тогда один человек отправился к Фатиме, мир ей, которая в то время была ещё девочкой, и она прибежала туда. Между тем Пророк ﷺ всё ещё стоял на коленях, склонившись до земли. (Фатима) сбросила это с его (спины), после чего подошла к курайшитам и стала ругать их, а когда Посланник Аллаха ﷺ закончил молиться, он трижды воскликнул: “О Аллах, покарай курайшитов!” — и перечислил их поимённо, сказав: “О Аллах, покарай ‘Амра ибн Хишама, и ‘Утбу ибн Раби‘а, и Шайбу ибн Раби‘а, и аль-Валида ибн ‘Утбу, и Умаййу ибн Халафа, и ‘Укъбу ибн Абу Му‘айта, и ‘Умару ибн аль-Валида!”»\n‘Абдуллах сказал: «И, клянусь Аллахом, я видел всех их бездыханными в день Бадра, а потом их оттащили к старому колодцу, и Посланник Аллаха ﷺ сказал: “Проклятие настигло лежащих у колодца!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>520</td></tr><tr><td>Arabic No</td><td>520</td></tr><tr><td>Reference</td><td>Book 8 Hadith 167</td></tr></tbody></table></div>
 

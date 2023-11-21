@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Humaid:We came with the Prophet (ﷺ) from Tabuk, and when we reach
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Mukhallad] telah menceritakan kepada kami [Sulaiman] berkata, telah menceritakan kepada saya ['Amru bin Yahya] dari ['Abbas bin Sahal bin Sa'ad] dari [Abu Humaid radliallahu 'anhu]: Kami berjumpa dengan Nabi shallallahu 'alaihi wasallam di Tabuk hingga kami kembali ke Madinah dimana kemudian Beliau berkata: 'Ini adalah Thobah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1872</td></tr><tr><td>Arabic No</td><td>1872</td></tr><tr><td>Reference</td><td>Book 29 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хумайд, да будет доволен им Аллах, сказал: «Мы возвращались из Табука вместе с Пророком ﷺ, а когда уже приблизились к Медине, он сказал: “Вот и Таба”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1872</td></tr><tr><td>Arabic No</td><td>1872</td></tr><tr><td>Reference</td><td>Book 29 Hadith 6</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما) : Lorsque fut révélé ce ver
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-'Ala] telah menceritakan kepada kami [Abu Usamah] dari [al-A'masy] dari [Amru bin Murrah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata, "Tatakala turun ayat: '(Berilah peringatan kepada kaum kerabatmu yang terdekat yaitu kaum kerabatmu yang benar-benar ikhlas) ' (Qs. Asy Syu'ara': 214). Maka Rasulullah shallallahu 'alaihi wasallam keluar dan menaiki Bukit Soffa lalu berteriak seolah-olah memanggil: 'Wahai para sahabatku'. Sebagian mereka tertanya-tanya siapakah yang berteriak. Sebagian mereka menjawab, 'Muhammad'. Maka mereka pun mulai berkumpul ke arah beliau. Lalu Beliau pun bersabda: "Wahai Bani Fulan! Bani Fulan! Bani Fulan! Wahai Bani Abdul Manaf! Wahai Bani Abdul Muththalib! ' Maka mereka semua pun menghampiri beliau. Rasulullah shallallahu 'alaihi wasallam kemudan bersabda: "Apakah pendapat kamu seandainya aku kabarkan kepada kamu bahwa satu pasukan tentera berkuda akan keluar melalui kaki bukit ini untuk menyerang kamu. Apakah kamu akan mempercayaiku? ' Mereka menjawab, 'Kami tidak pernah mendapati kamu berdusta'. Rasulullah shallallahu 'alaihi wasallam bersabda lagi: 'Sesungguhnya aku membawa berita ancaman kepadamu tentang azab yang pedih'." Ibnu Abbas berkata, "Abu Lahab mencela, 'Celaka kamu! Apakah kamu minta kami berkumpul hanya untuk mendengar perkara ini (yaitu memberitahu berita ancaman azab).' Lantas Abu Lahab berlalu pergi. Maka turunlah surat: '(Binasalah kedua tangan Abu Lahab, dan sesungguhnya dia akan celaka) ' Demikianlah al-A'masy membaca hingga akhir surat." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dia berkata, telah menceritakan kepada kami [Abu Muawiyah] dari [al-A'masy] dengan sanad ini. Dia berkata, "Rasulullah shallallahu 'alaihi wasallam naik ke atas Shafa pada suatu hari seraya berkata, 'Wahai sahabat-sahabatku', sebagaimana hadits Abu Usamah, dan dia tidak menyebutkan turunya ayat, '(Berilah peringatan kepada kaum kerabatmu yang terdekat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>508</td></tr><tr><td>Arabic No</td><td>208.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 414</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «После того, как был ниспослан аят “И увещевай своих ближайших родственников” (Сура «аш-Шу‘ара», аят 214), Посланник Аллаха ﷺ вышел, поднялся на (холм) ас-Сафа и принялся возглашать: “Йа сабаха-ху!” (фраза, которая говорится, когда предупреждают о приближении врагов). Люди спросили: “Кто это возглашает?” Им ответили: “Мухаммад”. Затем они собрались вокруг него, и он сказал: “О сыны такого-то племени, о сыны такого-то племени, о сыны такого-то племени, о бану ‘абд манаф, о бану ‘абд аль-мутталиб соберитесь около меня!” Затем он сказал: “(Скажите,) если бы я сказал вам, что (вражеская) конница (собралась) за этой горой и (вот-вот) нападут на вас, вы бы поверили мне?” Они ответили: “Мы не слышали, чтобы ты лгал”. Тогда он сказал: “Поистине, я увещеватель, направленный к вам, чтобы предостеречь вас от сурового наказания!” (Услышав его слова,) Абу Ляхаб воскликнул: “Чтоб ты пропал! И ради этого ты нас собрал?!” После чего он ушёл, и было ниспослано: “Да пропадут пропадом руки Абу Ляхаба, и сам он пропал!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>508</td></tr><tr><td>Arabic No</td><td>208.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 414</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa (que Dieu l'agrée) a dit : Le Prophète (paix et bénédiction de D
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ja'far Muhammad bin Ash Shabbah] telah menceritakan kepada kami [Isma'il bin Zakariya] dari [Buraid bin Abdullah] dari [Abu Burdah] dari [Abu Musa] berkata: Nabi Shallallahu 'alaihi wa Salam mendengar seseorang memuji seseorang lainnya secara berlebihan lalu beliau bersabda: "Kalian telah binasa -atau: Kalian telah memutuskan punggung seseorang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7504</td></tr><tr><td>Arabic No</td><td>3001</td></tr><tr><td>Reference</td><td>Book 55 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7504</td></tr><tr><td>Arabic No</td><td>3001</td></tr><tr><td>Reference</td><td>Book 55 Hadith 86</td></tr></tbody></table></div>
 

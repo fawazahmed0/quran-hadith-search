@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Humaid said:Al-Hasan came to us. The jurists of Mecca told me that I should spea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] ia berkata; telah menceritakan kepada kami [Hammad] berkata, telah menceritakan kepada kami [Humaid] ia berkata, " [Al Hasan] mendatangi kami di Makkah, lalu para ulama Makkah berbicara kepadaku agar aku menyampaikan kepadanya permohonan mereka supaya Al Hasan bersedia meluangkan waktu untuk memberikan nasihat kepada mereka. Al Hasan lalu menjawab, "Ya." Orang-orang lantas berkumpul dan Al Hasan berkhutbah di hadapan mereka, dan aku tidak pernah melihat seseorang berkhuthbah sebaik dirinya. kemudian ada seorang laki-laki berkata, "Wahai Abu Sa'id, siapakah yang menciptakan setan?" Al Hasan menjawab, "Maha Suci Allah! Adakah pencipta selain Allah? Allah-lah yang menciptakan setan, kebaikan dan keburukkan." Laki-laki itu berkata lagi, "Semoga Allah melaknat mereka semua, bagaimana mungkin mereka mendustai penjelasan syaikh ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4618</td></tr><tr><td>Arabic No</td><td>4618</td></tr><tr><td>Reference</td><td>Book 42 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Хумайда: «К нам в Мекку приехал аль-Хасан, и факыхи Мекки попросили меня обратиться к нему с просьбой уделить им день и дать им наставления. Тот сказал: “Хорошо”. Они собрались, и он обратился к ним с проповедью, и я никогда не видел человека, который произносил бы более поучительные и проникновенные проповеди. Один человек спросил: “О Абу Са‘ид! Кто сотворил шайтана?” Он воскликнул: “Преславен Аллах! Есть ли иной творец, кроме Аллаха? Аллах сотворил шайтана, и Он сотворил добро и зло”. Этот человек сказал: “Да погубит их Аллах! Как могут они возводить ложь на этого шейха?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4618</td></tr><tr><td>Arabic No</td><td>4618</td></tr><tr><td>Reference</td><td>Book 42 Hadith 23</td></tr></tbody></table></div>
 

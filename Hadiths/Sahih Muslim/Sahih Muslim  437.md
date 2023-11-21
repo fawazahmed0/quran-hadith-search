@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Ibn Abbas that the words:" The heart belied n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Sa'id al-Asyajj] semuanya dari [Waki'], [al-Asyajj] berkata, telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [al-A'masy] dari [Ziyad bin al-Hushain Abu Jahmah] dari [Abu al-Aliyah] dari [Ibnu Abbas] dia berkata, "Hatinya tidak mendustakan sesuatu yang telah dia lihat. Dan sungguh Muhammad telah melihat Jibril itu (dalam rupanya yang asli) pada waktu yang lain." Ibnu Abbas berkata, "Beliau telah melihat Jibril dengan hatinya dua kali." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [al-A'masy] telah menceritakan kepada kami [Abu Jahmah] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал об аяте «И сердце не солгало о том, что он увидел» (сура «ан-Наджм», аят 11), а также «Он уже видел его другое нисхождение» (сура «ан-Наджм», аят 13): «(Это значит), что он (Пророк ﷺ) дважды видел (Джибриля) сердцем своим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
 

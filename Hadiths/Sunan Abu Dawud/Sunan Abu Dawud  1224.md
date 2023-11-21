@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar:While travelling the Messenger of Allah (ﷺ) would pray volu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Salim] dari [ayahnya] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah mengerjakan shalat sunnah di atas kendaraannya ke arah mana saja kendaraannya menghadap, dan pernah juga mengerjakan shalat witir di atas kendaraan, namun beliau tidak pernah mengerjakan shalat wajib di atas kendaraan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1098) Sahih Muslim (700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1224</td></tr><tr><td>Arabic No</td><td>1224</td></tr><tr><td>Reference</td><td>Book 4 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим передаёт от своего отца, что Посланник Аллаха ﷺ совершал дополнительные молитвы, сидя верхом на своей верблюдице, в какую бы сторону она ни направлялась, и совершал на ней витр, однако он никогда не совершал верхом обязательную молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1098) Sahih Muslim (700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1224</td></tr><tr><td>Arabic No</td><td>1224</td></tr><tr><td>Reference</td><td>Book 4 Hadith 27</td></tr></tbody></table></div>
 

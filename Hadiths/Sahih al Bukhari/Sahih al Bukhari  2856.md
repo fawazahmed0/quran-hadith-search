@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'adh:I was a companion rider of the Prophet (ﷺ) on a donkey called 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ishaq bin Ibrahim] dia mendengar [Yahya bin Adam] telah bercerita kepada kami [Abu Al Ahwash] dari [Abu Ishaq] dari ['Amru bin Maimun] dari [Mu'adz radliallahu 'anhu] berkata: "Aku pernah membonceng di belakang Nabi shallallahu 'alaihi wasallam diatas seekor keledai yang diberi nama 'Uqoir lalu Beliau bertanya: "Wahai Mu'adz, tahukah kamu apa hak Allah atas para hamba-Nya dan apa hak para hamba atas Allah?" Aku jawab: "Allah dan Rosul-Nya yang lebih tahu". Beliau bersabda: "Sesungguhnya hak Allah atas para hamba-Nya adalah hendankah beribadah kepada-Nya dan tidak menyekutukan-Nya dengan sesuatu apapun dan hak para hamba-Nya atas Allah adalah seorang hamba tidak akan disiksa selama dia tidak menyekutukan-Nya dengan sesuatu apapun". Lalu aku berkata: "Wahai Rasulullah, apakah boleh aku menyampaikan kabar gembira ini kepada manusia?" Beliau menjawab: "Jangan kamu beritahukan mereka sebab nanti mereka akan berpasrah saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2856</td></tr><tr><td>Arabic No</td><td>2856</td></tr><tr><td>Reference</td><td>Book 56 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘аз ибн Джабаль, да будет доволен им Аллах, сказал: «(Однажды, когда) я сидел верхом на осле по кличке ‘Уфайр позади Пророка ﷺ, он спросил (меня): “О Му‘аз, известно ли тебе, какое право Аллаха должны соблюдать рабы Его и чего они вправе (ожидать) от Аллаха?” Я сказал: “Аллах и Его посланник знают об этом лучше”. (Тогда) он сказал: “Поистине, право Аллаха, которое обязаны соблюдать рабы Его, состоит в том, что им следует поклоняться одному только Аллаху, рабы же вправе ожидать, что Аллах не станет подвергать мучениям того, кто не поклоняется ничему, кроме Него”. Я спросил: “О Посланник Аллаха, так не порадовать ли мне этой вестью людей?” В ответ он сказал: “(Нет), ибо тогда они только на это и будут полагаться!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2856</td></tr><tr><td>Arabic No</td><td>2856</td></tr><tr><td>Reference</td><td>Book 56 Hadith 72</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thawban: An animal was brought to the Messenger of Allah (ﷺ) while he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa Al Balkhi], telah mengabarkan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Yahya bin Abu Katsir] dari [Abu Salamah bin Abdurrahman bin 'Auf] dari [Tsauban], bahwa Rasulullah shallallahu 'alaihi wasallam telah diberi seekor unta sementara beliau sedang berada bersama jenazah, kemudian beliau menolak untuk menaikinya. Kemudian tatkala beliau telah pergi, beliau diberi unta lalu menaikinya. Kemudian beliau ditanya; lalu beliau berkata; sesungguhnya malaikat berjalan maka aku tidak akan naik kendaraan sementara mereka berjalan kaki. Kemudian tatkala mereka pergi, maka aku naik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3177</td></tr><tr><td>Arabic No</td><td>3177</td></tr><tr><td>Reference</td><td>Book 21 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Саубана, да будет доволен им Аллах, что однажды, когда Посланник Аллаха ﷺ провожал погребальные носилки, ему предложили верховое животное, однако он отказался ехать верхом, а когда он возвращался назад, ему снова предложили верховое животное и на этот раз он поехал верхом. Его спросили об этом, и он сказал: «Поистине, ангелы шли пешком, и не пристало мне ехать верхом, пока они шли, а когда они удалились, я поехал верхом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3177</td></tr><tr><td>Arabic No</td><td>3177</td></tr><tr><td>Reference</td><td>Book 21 Hadith 89</td></tr></tbody></table></div>
 

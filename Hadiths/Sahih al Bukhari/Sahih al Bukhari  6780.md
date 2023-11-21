@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:During the lifetime of the Prophet (ﷺ) there was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepadaku [Al Laits] mengatakan, telah menceritakan kepadaku [Khalid bin Yazid] dari [Sa'id bin Abi Hilal] dari [Zaid bin Aslam] dari [ayahnya] dari [Umar bin khattab], ada seorang laki-laki dimasa Nabi shallallahu 'alaihi wasallam Shallallahu'alaihiwasallam namanya Abdullah, dia dijuluki keledai, ia suka membuat Rasulullah shallallahu 'alaihi wasallam tertawa, dan Nabi shallallahu 'alaihi wasallam telah mencambuknya karena ia mabuk. Suatu hari ia ditangkap lagi dan Nabi memerintahkan agar dia dicambuk. Lantas salah seorang sahabat berujar; 'Ya Allah, laknatilah dia, betapa sering ia ketangkap, ' Maka Nabi shallallahu 'alaihi wasallam bersabda: "janganlah kalian melaknat dia, demi Allah, setahuku dia mencintai Allah dan rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6780</td></tr><tr><td>Arabic No</td><td>6780</td></tr><tr><td>Reference</td><td>Book 86 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара бин аль-Хаттаба, да будет доволен им Аллах, что при жизни Пророка ﷺ был один человек, которого звали ‘Абдуллах по прозвищу Осёл. Он смешил Посланника Аллаха ﷺ, что же касается Пророка ﷺ, то ему случалось приказывать бить его за употребление вина. Однажды его привели к Пророку ﷺ, и стали бить его по его приказанию, а один человек воскликнул: «О Аллах, прокляни его! Как часто его приводили!» — (на что) Пророк ﷺ сказал: «Не проклинайте его, ибо клянусь Аллахом, я знаю, что он любит Аллаха и Его посланника!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6780</td></tr><tr><td>Arabic No</td><td>6780</td></tr><tr><td>Reference</td><td>Book 86 Hadith 9</td></tr></tbody></table></div>
 

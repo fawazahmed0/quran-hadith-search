@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: A man came to the Prophet (ﷺ) and said: Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah] berkata, telah mengabarkan kepada kami [Khalid] dari [Humaid] dari [Anas] berkata, "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, berilah aku anak unta yang aku kendarai." Nabi shallallahu 'alaihi wasallam bersabda: "Kami akan memberimu anak unta." Laki-laki itu bertanya, "Apa yang bisa aku lakukan dengan anak unta?" Nabi shallallahu 'alaihi wasallam menjawab: "Bukankah unta dewasa juga dilahirkan oleh seekor unta yang pernah kecil?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4998</td></tr><tr><td>Arabic No</td><td>4998</td></tr><tr><td>Reference</td><td>Book 43 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4998</td></tr><tr><td>Arabic No</td><td>4998</td></tr><tr><td>Reference</td><td>Book 43 Hadith 226</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ata:I heard Ibn 'Abbas saying, "Allah's Messenger (ﷺ) asked an Ansari
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij] dari ['Atho'] berkata; Aku mendengar [Ibnu 'Abbas radliallahu 'anhuma] mengabarkan kepada kami, katanya: Rasulullah Shallallahu 'alaihiwasallam berkata kepada seorang wanita dari Kaum Anshar yang disebut namanya oleh Ibnu 'Abbas radliallahu 'anhuma namun kami lupa siapa namanya: "Apa yang menghalangimu untuk menunaikan haji bersama kami?". Wanita itu berkata: "Dahulu kami memiliki seekor unta yang selalu digunakan oleh ayah fulan dan anaknya, maksudnya adalah suami dan anak dari perempuan itu, kemudian dia membiarkan unta tersebut untuk mengangkut air. Beliau shallallahu 'alaihi wasallamberkata: "Apabila datang bulan Ramadhan, laksanakanlah 'umrah karena 'umrah pada bulan Ramadhan seperti 'ibadah haji" atau seperti itu (haji) sebagaimana Beliau sabdakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ата сказал: «Я слышал, как Ибн ‘Аббас, да будет доволен Аллах им и его отцом, рассказывал: “Посланник Аллаха ﷺ спросил женщину из числа ансаров (Ибн ‘Аббас назвал её имя, но я забыл его): “Что помешало тебе совершить хадж с нами?” Она ответила: “У нас был верблюд, и отец такого-то и его сын (то есть её муж и её сын) отправились на нём (в хадж), и оставили другого верблюда для орошения нашей земли”. Тогда он сказал (ей): “Когда настанет месяц рамадан, соверши ‘умру, ибо ‘умра в рамадан равнозначна хаджу”, — или сказал что-то подобное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
 

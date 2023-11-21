@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Zainab further said:I want to Zainab bint Jahsh when her brother died. She asked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Masih dari jalur periwayatan yang sama dengan hadits sebelumnya) [Zainab] berkata; Aku pernah menemui [Zainab binti Jahsy] ketika saudaranya mati. Lalu ia pun megambil wewangian dan memegangnya seraya berkata; Demi Allah, tidaklah aku berhajat sedikitpun terhadap wewangian ini. Selain aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda di atas mimbar: "Tidak halal bagi seorang wanita yang beriman kepada Allah dan hari akhir untuk berkabung terhadap mayit lebih dari tiga malam, kecuali atas suaminya, yakni selama empat bulan sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5335</td></tr><tr><td>Arabic No</td><td>5335</td></tr><tr><td>Reference</td><td>Book 68 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейнаб сказала: «А потом я зашла к Зейнаб бинт Джахш когда умер её брат, и она тоже велела принести себе благовония, умастилась ими, а потом сказала: “Клянусь Аллахом, нет мне нужды в этих благовониях, однако я слышала, как Посланник Аллаха ﷺ сказал, стоя на минбаре: “Не дозволено женщине, верующей в Аллаха и в Последний день, соблюдать траур по покойному свыше трёх дней, и только по мужу она должна соблюдать траур четыре месяца и десять дней””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5335</td></tr><tr><td>Arabic No</td><td>5335</td></tr><tr><td>Reference</td><td>Book 68 Hadith 80</td></tr></tbody></table></div>
 

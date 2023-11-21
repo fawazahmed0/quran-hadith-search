@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: Sa'id said: Umar ibn al-Khattab said: Blood-money 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id] ia berkata; dahulu Umar bin Al Khathab berkata; diyat adalah untuk 'aqilah ('ashabah serta kerabat dari pihak ayah), dan wanita tidak mewarisi sedikitpun dari diyat suaminya, hingga [Adh Dhahhak bin Sufyan] berkata kepadanya, Rasulullah shallallahu 'alaihi wasallam telah menulis surat kepadaku agar aku memberikan warisan kepada isteri Asyyam Adhdhabbi dari diyat suaminya. Kemudian Umar kembali, Ahmad bin Shalih berkata; telah menceritakan kepada kami [Abdurrazzaq] dengan hadits ini dari [Ma'mar] dari [Az Zuhri] dari [Sa'id], ia berkata; padanya. Dan Nabi shallallahu 'alaihi wasallam mengangkatnya untuk mengurusi orang-orang badui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2927</td></tr><tr><td>Arabic No</td><td>2927</td></tr><tr><td>Reference</td><td>Book 19 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, говорил: «Компенсация за убитого /дийа/ достаётся его родственникам со стороны отца, и женщина не наследует ничего из компенсации, заплаченной за её мужа». Но однажды ад-Даххак ибн Суфьян сказал: «В своё время Посланник Аллаха ﷺ написал мне, чтобы я отдал жене Ашьяма ад-Дыбаби полагающуюся ей долю наследства из компенсации, заплаченной за её мужа». После этого ‘Умар изменил своё мнение
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2927</td></tr><tr><td>Arabic No</td><td>2927</td></tr><tr><td>Reference</td><td>Book 19 Hadith 43</td></tr></tbody></table></div>
 

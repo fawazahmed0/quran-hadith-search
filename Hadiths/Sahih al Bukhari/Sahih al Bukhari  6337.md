@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:Ibn 'Abbas said, "Preach to the people once a week, and if you 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Muhammad bin As Sakan] telah menceritakan kepada kami [Habban bin Hilal Abu Habib] telah menceritakan kepada kami [Harun Al Muqri'i] telah menceritakan kepada kami [Az Zubair bin Al Khirrit] dari [Ikrimah] dari [Ibnu Abbas] dia berkata; "Berbicaralah kepada orang-orang setiap Jum'at sekali, jika kamu enggan, maka dua kali, dan apabila kamu ingin lebih banyak lagi, hendaknya hanya tiga kali (setiap Jum'at). Janganlah membuat orang-orang bosan dengan Al Qur'an ini. Jangan sekali-kali aku dapatkan kamu mendatangi sebuah kaum ketika mereka berbincang-bincang, tiba-tiba kamu menyampaikan kisah dan memotong pembicaraan mereka hingga mereka bosan. Akan tetapi diamlah terlebih dahulu. Jika mereka telah mempersilahkanmu, silahkan kamu bicara, sehingga mereka antusias (semangat) mendengarkan tutur bicaramu. Dan tolong cermatilah sajak puitis (yang sulit dimengerti) dan jauhilah yang seperti itu, sebab telah kutemui Rasulullah dan para sahabatnya tak melakukan yang demikian. Yaitu tidak melakukan hal itu selain mereka selalu menjauhi semacam itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6337</td></tr><tr><td>Arabic No</td><td>6337</td></tr><tr><td>Reference</td><td>Book 80 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Икрима передал, что Ибн ‘Аббас (да будет доволен им Аллах) сказал: «Обращайся к людям (с увещеванием) раз в пятницу. Если пожелаешь больше, то дважды, а если ещё больше, то три раза, и (старайся) не наскучить людям посредством этого Корана. И не являйся к людям, которые беседуют о чем-то, прерывая их слова, чтобы рассказать им рассказы и вызвать у них скуку, однако молчи, а когда они потребуют от тебя, то рассказывай им, когда они желают этого. Смотри, при обращении с мольбой, сторонись рифма, ибо, я застал время Посланника Аллаха и его сподвижников, и они делали только это», имея в виду, что они сторонились этого
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6337</td></tr><tr><td>Arabic No</td><td>6337</td></tr><tr><td>Reference</td><td>Book 80 Hadith 34</td></tr></tbody></table></div>
 

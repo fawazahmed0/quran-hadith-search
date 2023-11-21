@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:While the Prophet (ﷺ) was on a journey, he recited Surat at-T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] Telah menceritakan kepada kami [Syu'bah] ia berkata; Telah mengabarkan kepadaku [Adi] ia berkata; Aku telah mendengar [Al Baraa'] radliallahu 'anhu, bahwasanya; Nabi shallallahu 'alaihi wasallam berada dalam suatu perjalanan, lalu pada saat shalat Isya' yakni pada salah satu raka'atnya beliau membaca, "AT TIINI WAZ ZAITUUN." Dan maksud istilah taqwiim adalah alkhalq, atau penciptaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4952</td></tr><tr><td>Arabic No</td><td>4952</td></tr><tr><td>Reference</td><td>Book 65 Hadith 474</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Адий сказал: «Я слышал, (как) аль-Бараъ, да будет доволен им Аллах, рассказывал, что (однажды), находясь в пути, Пророк ﷺ прочёл во время совершения одного из двух рак‘атов вечерней молитвы /‘иша/: “Клянусь смоковницей и оливой…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4952</td></tr><tr><td>Arabic No</td><td>4952</td></tr><tr><td>Reference</td><td>Book 65 Hadith 474</td></tr></tbody></table></div>
 

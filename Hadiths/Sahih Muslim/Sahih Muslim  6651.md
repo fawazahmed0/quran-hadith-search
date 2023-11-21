@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:When any one of you fight
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab]; Telah menceritakan kepada kami [Al Mughirah] yaitu Al Hizami dari [Abu Al Zinad] dari [Al A'raj] dari [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian berkelahi dengan saudaranya maka hindarilah memukul bagian muka." Telah menceritakannya kepada kami ['Amru An Naqid] dan [Zuhair bin Harb] keduanya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Abu Az Zinad] melalui jalur ini dengan lafazh; Apabila dharaba (memukul) salah seorang dari kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6651</td></tr><tr><td>Arabic No</td><td>2612.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Если кто-нибудь из вас подерётся со своим братом (по вере), пусть ни в коем случае не бьёт его по лицу!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6651</td></tr><tr><td>Arabic No</td><td>2612.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 148</td></tr></tbody></table></div>
 

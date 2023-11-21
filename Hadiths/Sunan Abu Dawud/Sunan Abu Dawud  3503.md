@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hakim ibn Hizam: Hakim asked (the Prophet): Messenger of Allah, a man c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Yusuf bin Mahik] dari [Hakim bin Hizam] ia berkata, "Wahai Rasulullah, seorang laki-laki datang kepadaku ingin membeli sesuatu yang tidak aku miliki, apakah boleh aku membelikan untuknya dari pasar? Beliau bersabda: "Janganlah engkau menjual apa yang tidak engkau miliki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3503</td></tr><tr><td>Arabic No</td><td>3503</td></tr><tr><td>Reference</td><td>Book 24 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Хакима ибн Хизама, да будет доволен им Аллах, что он сказал: «О Посланник Аллаха, иногда ко мне приходит человек, который желает купить у меня нечто такое, чего у меня нет, так могу ли я (заключив с ним сделку) купить это для него на рынке?» Посланник Аллаха ﷺ сказал: «Не продавай то, чего у тебя нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3503</td></tr><tr><td>Arabic No</td><td>3503</td></tr><tr><td>Reference</td><td>Book 24 Hadith 88</td></tr></tbody></table></div>
 

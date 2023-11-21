@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa’d b. Abi Waqqas reported the Messenger of Allah (May peace be upon him) as 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al-Laits] dari [Al-Hukaim bin Abdillah bin Qais] dari [Amir bin Sa'd bin Abi Waqqash] dari [Sa'd bin Abi Waqqash] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa ketika mendengar Adzan mengucapkan, "Wa ana asyhadu an laa ilaaha illallaahu wahdahuu laa syariika lahuu, wa asyhadu anna Muhammadan 'abduhuu wa rasuuluh. Radhiitu billaahi Rabba wa bimuhammadir Rasuulaa, wa bilislaami diinaa (Aku bersaksi bahwa tidak ada tuhan yang berhak disembah selain Allah sematra, tidak ada sekutu bagiNya. Dan aku bersaksi bahwa Muhammad adalah hamba dan UtusanNya. Aku rela Allah sebagai Rabb, Muhammad sebagai Rasul, dan Islam sebagai agama), maka diampunilah dosanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (386)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>525</td></tr><tr><td>Arabic No</td><td>525</td></tr><tr><td>Reference</td><td>Book 2 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘да ибн Абу Ваккъаса о том, что Посланник Аллаха ﷺ сказал: «Тому, кто скажет в то время, когда услышит призыв муаззина (к молитве): “И я свидетельствую о том, что нет божества, (достойного поклонения) кроме Аллаха, у которого нет сотоварища, и свидетельствую, что Мухаммад Его раб и посланник! Доволен я Аллахом как Господом, Мухаммадом как посланником и Исламом как религией”, простятся его грехи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (386)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>525</td></tr><tr><td>Arabic No</td><td>525</td></tr><tr><td>Reference</td><td>Book 2 Hadith 135</td></tr></tbody></table></div>
 

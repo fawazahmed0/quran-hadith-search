@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Malik ibn Hubayrah: The Prophet (ﷺ) said: If any Muslim dies and thre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid] telah menceritakan kepada kami [Hammad] dari [Muhammad bin Ishaq], dari [Yazid? bin Abu Habib] dari [Martsad Al Bazini], dari [Malik bin Hubairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang muslim meninggal kemudian terdapat tiga shaf orang-orang muslim yang menshalatkannya kecuali Allah mewajibkan ia masuk surga." Martsad berkata; Malik apabila menganggap orang-orang yang akan menshalatkan jenazah sedikit, maka ia membaginya menjadi tiga barisan berdasarkan hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3166</td></tr><tr><td>Arabic No</td><td>3166</td></tr><tr><td>Reference</td><td>Book 21 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Малика ибн Хубайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Каждый мусульманин, по которому после смерти будут совершать погребальную молитву три ряда мусульман, непременно войдёт в Рай». Передают, что сам Малик выстраивал присутствовавших на погребальной молитве в три ряда, если их было мало, основываясь на этом хадисе
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3166</td></tr><tr><td>Arabic No</td><td>3166</td></tr><tr><td>Reference</td><td>Book 21 Hadith 78</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: We went out with the Messenger of Allah (ﷺ) to the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?] telah menceritakan kepada kami [jarir] dari [Al A'masy] dari [Al Minhal bin 'Amr] dari [Zadzan] dari [Al Bara' bin 'Azib] ia berkata; kami keluar bersama Rasulullah shallallahu 'alaihi wasallam mengantarkan sebuah jenazah seseorang dari kalangan anshar. Kemudin kami sampai di kuburan, dan belum selesai penggalian lahad, kemudian Nabi shallallahu 'alaihi wasallam duduk menghadap kiblat dan kami duduk bersama beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3212</td></tr><tr><td>Arabic No</td><td>3212</td></tr><tr><td>Reference</td><td>Book 21 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Бара ибн ‘Азиб, да будет доволен им Аллах, передаёт: «Мы вышли вместе с Посланником Аллаха ﷺ для участия в погребении одного ансара. Когда мы подошли к могиле, нишу ещё не сделали, и Пророк ﷺ сел, повернувшись в сторону киблы, и мы сели вместе с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3212</td></tr><tr><td>Arabic No</td><td>3212</td></tr><tr><td>Reference</td><td>Book 21 Hadith 124</td></tr></tbody></table></div>
 

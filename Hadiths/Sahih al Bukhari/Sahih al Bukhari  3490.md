@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Once Allah's Messenger (ﷺ) was asked, "Who is the most ho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Basysyar] telah bercerita kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] berkata, telah bercerita kepadaku [Sa'id bin Abu Sa'id] dari [bapaknya] dari [Abu Hurairah radliallahu 'anhu] berkata; "Ditanyakan kepada Rasulullah Shallallhu 'alaihi wa salam: "Wahai Rasulullah, siapakah manusia yang paling mulia?". Beliau Shallallhu 'alaihi wa salam menjawab: "Yang paling taqwa di antara mereka". Mereka berkata; "Bukan itu yang kami maksud". Beliau menjawab: "Kalau begitu, Yusuf, Nabiyullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3490</td></tr><tr><td>Arabic No</td><td>3490</td></tr><tr><td>Reference</td><td>Book 61 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды Пророка ﷺ) спросили: “О Посланник Аллаха, кто является самым благородным из людей?” Он сказал: “Самый богобоязненный из них”. (Люди) сказали: “Мы спрашиваем тебя не об этом”. Он сказал: “Тогда — Йусуф, пророк Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3490</td></tr><tr><td>Arabic No</td><td>3490</td></tr><tr><td>Reference</td><td>Book 61 Hadith 2</td></tr></tbody></table></div>
 

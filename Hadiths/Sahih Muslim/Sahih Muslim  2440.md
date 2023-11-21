@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:When Mecca was conquered, he (the Holy Prophet) distribut
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Walid] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Tayyah] ia berkata; Saya mendengar [Anas bin Malik] berkata; Ketika Makkah telah ditaklukkan, Rasulullah shallallahu 'alaihi wasallam membagi-bagikan harta rampasan kepada orang-orang Quraisy. Maka orang-orang Anshar pun berujar, "Ini sungguh-sungguh mengherankan. Pedang kita masih basah oleh darah musuh, tetapi harta rampasan kita diberikan kepada mereka (orang-orang Quraisy)." Lalu ungkapan itu sampai kepada Rasulullah shallallahu 'alaihi wasallam, Akhirnya beliau pun mengumpulkan mereka. Beliau bertanya: "Benarkah berita yang sampai padaku tentang ucapan kalian?" Mereka menjawab: "Apa yang mereka sampaikan itu benar ya Rasulullah! Mereka tidak berdusta." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Apakah kalian tidak rela kalau mereka pulang dengan membawa harta benda dunia, sedangkan kalian semua pulang ke rumah masing-masing bersama dengan Rasulullah? Seandainya manusia berjalan di suatu lembah dan bukit, sedangkan orang-orang Anshar melewati lembah dan bukit yang lain, niscaya saya akan mengikuti lembah dan bukit yang ditempuh kaum Anshar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2440</td></tr><tr><td>Arabic No</td><td>1059.05</td></tr><tr><td>Reference</td><td>Book 12 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «В день покорения Мекки, (Посланник Аллаха ﷺ) разделил добычу среди курайшитов, и ансары сказали: “Это удивительно! С наших мечей всё ещё капает кровь курайшитов, а наша добыча отдаётся им!” Когда Посланнику Аллаха ﷺ стало известно об их словах, он собрал ансаров и спросил их: “Что это за слова, которые дошли до меня от вас?” Они не лгали и ответили: “Всё так, как тебе передали”. Тогда Посланник Аллаха ﷺ сказал: “Разве не довольны вы тем, что люди вернутся в свои дома с (благами) этого мира, а вы вернётесь в свои дома с Посланником Аллаха? Если бы люди пошли долиной или ущельем, а ансары пошли бы другой долиной или ущельем, я пошёл бы долиной и ущельем ансаров”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2440</td></tr><tr><td>Arabic No</td><td>1059.05</td></tr><tr><td>Reference</td><td>Book 12 Hadith 177</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr (Allah be pleased with him) reported:Tamattu' in Hajj was a special co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Sufyan] dari [Ayyas Al Amiri] dari [Ibrahim At Taimi] dari [bapaknya] dari [Abu Dzar] radliallahu 'anhu, ia berkata; "Dulu haji tamattu' itu adalah rukhshah (keringanan) bagi kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2966</td></tr><tr><td>Arabic No</td><td>1224.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2966</td></tr><tr><td>Arabic No</td><td>1224.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 175</td></tr></tbody></table></div>
 

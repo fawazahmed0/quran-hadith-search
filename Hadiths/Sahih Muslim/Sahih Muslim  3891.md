@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl b. Abu Hathma reported Allah's Messenger (ﷺ) having forbidden Muzabana, i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Hasan Al Khulwani] keduanya berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Al Walid bin Katsir] telah menceritakan kepadaku [Busyair bin Yasar] bekas budak Bani Haritsah, bahwa [Rafi' bin Khudaij] dan [Sahl bin Abu Khaitsamah] telah menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam melarang jual beli dengan praktek Muzabanah, yaitu menjual buaj dengan kurma kering kecuali jual beli dengan sistem 'Ariyyah, karena mereka telah diizinkan untuk melakukan jual beli seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3891</td></tr><tr><td>Arabic No</td><td>1540.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3891</td></tr><tr><td>Arabic No</td><td>1540.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 90</td></tr></tbody></table></div>
 

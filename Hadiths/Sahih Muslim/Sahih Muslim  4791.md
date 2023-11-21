@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated (through a different chain of transmitters) on the authorit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Al Ja'd] telah menceritakan kepada kami [Abu Raja Al 'Utharidi] dari [Ibnu Abbas] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa membenci sesuatu pada diri pemimpinnya, hendaknya ia bersabar sebab tidaklah seseorang keluar dari kepemimpinan (kaum Muslimin) walau sejengkal, kemudian mati kecuali ia mati seperti mati jahiliyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>1849.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>1849.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 88</td></tr></tbody></table></div>
 

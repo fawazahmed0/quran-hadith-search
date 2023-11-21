@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Suwaid b. Ghafala reported:I saw Umar (Allah be pleased with him) kissing the St
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] semuanya dari [Waki'] - [Abu Bakr] berkata- Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Ibrahim bin Abdul A'la] dari [Suwaid bin Ghafalah] ia berkata; Aku melihat [Umar] mencium Hajar dan berdiri sejenak seraya berkata, "Saya telah melihat Rasulullah shallallahu 'alaihi wasallam menghormatimu." Dan telah menceritakannya kepadaku [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Abdurrahman] dari [Sufyan] dengan isnad ini, ia berkata; "Akan tetapi aku telah melihat Abul Qasim bersikap hormat padamu." Dan ia tidak menyebutkan; "iltazamahu (berhenti sejenak di situ)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>1271.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 277</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>1271.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 277</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Apostle of Allah (ﷺ) fell down from a horse and his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Qutaibah bin Sa'id], [Abu Bakar bin Abi Syaibah], [Amru an-Naqid], [Zuhair bin Harb] dan [Abu Kuraib] semuanya meriwayatkan dari [Sufyan] [Abu Bakar] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dia berkata, "Saya mendengar [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam terjatuh dari kuda lalu terkelupaslah kulit bagian kanannya, lalu kami mampir mengunjunginya, lalu hadirlah waktu shalat. Maka beliau shalat mengimami kami dengan duduk, lalu kami shalat di belakangnya dalam keadaan duduk juga. Ketika shalat telah selesai, maka beliau bersabda, " imam dijadikan sebagai pemimpin untuk diikuti. Apabila dia bertakbir maka bertakbirlah, dan apabila dia sujud maka bersujudlah, apabila dia mengangkat maka angkatlah. Apabila dia mengucapkan, 'Samiallahu liman hamidahu (semoga Allah mendengar orang yang memujinya) ' maka kalian ucapkanlah, 'Rabbana wa laka al-Hamdu (Rabb kami dan Engkau memiliki segala puji) ', dan apabila dia shalat duduk maka shalat duduklah kalian semuanya." Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [al-Laits] dari [Ibnu Syihab] dari [Anas bin Malik] dia berkata, "Rasulullah shallallahu 'alaihi wasallam jatuh menyungkur dari kudanya, lalu terkelupaslah kuitnya, lalu beliau shalat mengimami kami kemudian menyebutkan hadits semisalnya. Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam jatuh menyungkur dari kuda, lalu terkelupaslah kulit bagian kanannya" sebagaimana hadits keduanya, dan dia menambahkan, "Apabila dia shalat berdiri maka shalatlah berdiri." Telah menceritakan kepada kami [Ibnu Abi Umar] telah menceritakan kepada kami [Ma'n bin Isa] dari [Malik bin Anas] dari [az-Zuhri] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam mengendarai kuda, lalu beliau jatuh menyungkur darinya, lalu terkelupaslah kulit bagian kanannya' dengan semisal hadits mereka. Dan di dalamnya, 'Apabila dia shalat berdiri, maka kalian shalat berdirilah." Telah menceritakan kepada kami ['Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] telah mengabarkan kepadaku [Anas] bahwa Nabi shallallahu 'alaihi wasallam jatuh dari kudanya lalu terkelupaslah kulit bagian kanannya." Lalu dia membawakan hadits tersebut, dan di dalamnya tidak ada tambahan Yunus dan Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>921</td></tr><tr><td>Arabic No</td><td>411.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Однажды Пророк ﷺ упал с лошади и оцарапал правый бок. Когда мы пришли навестить его, настало время молитвы, и он стал молиться с нами сидя. Мы тоже молились позади него сидя, закончив же молиться, он сказал: “Поистине, имам назначается для того, чтобы (во время молитвы люди) следовали его примеру, и, если он произнесёт слова “Аллаху акбар”, произносите их и вы, если он совершит земной поклон, совершайте земной поклон и вы, если он поднимется, поднимайтесь и вы, если он скажет: “Да услышит Аллах тех, кто воздал Ему хвалу” /Сами‘а Ллаху ли-ман хамида-ху /, говорите: “Господь наш, а Тебе хвала” /Рабба-на, ва ля-ка-ль -хамд/, а если он молится сидя, то и вы все молитесь сидя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>921</td></tr><tr><td>Arabic No</td><td>411.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 83</td></tr></tbody></table></div>
 

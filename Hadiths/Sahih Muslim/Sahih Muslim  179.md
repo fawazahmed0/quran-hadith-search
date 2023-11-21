@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority 'Abdullah b. Mas'ud that the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru an-Naqid] dan [Abu Bakar bin an-Nadlr] serta [Abd bin Humaid] dan lafazh tersebut milik Abd. Mereka berkata, telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] dia berkata, telah menceritakan kepada kami [bapakku] dari [Shalih bin Kaisan] dari [al-Harits] dari [Ja'far bin Abdullah bin al-Hakam] dari [Abdurrahman bin al-Miswar] dari [Abu Rafi'] dari [Abdullah bin Mas'ud] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang nabi yang diutus oleh Allah pada suatu umat sebelumnya melainkan dia memiliki pembela dan sahabat yang memegang teguh sunah-sunnah dan mengikuti perintah-perintahnya, kemudian datanglah setelah mereka suatu kaum yang mengatakan sesuatu yang tidak mereka lakukan, dan melakukan sesuatu yang tidak diperintahkan. Barangsiapa yang berjihad dengan tangan melawan mereka maka dia seorang mukmin, barangsiapa yang berjihad dengan lisan melawan mereka maka dia seorang mukmin, barangsiapa yang berjihad dengan hati melawan mereka maka dia seorang mukmin, dan setelah itu tidak ada keimanan sebiji sawi." Abu Rafi' berkata, "Lalu aku menceritakan kepada Abdullah bin Umar, namun ia mengingkariku. Ketika Ibnu Mas'ud datang dan singgah pada Qanah, Abdullah bin Umar mengikutiku mengajakku untuk mengikuti Ibnu Mas'ud, maka ketika kami duduk, aku bertanya kepada Ibnu Mas'ud tentang hadits ini, maka dia menceritakannya hadits tersebut kepadaku sebagaimana aku menceritakannya kepada Ibnu Umar." Shalih berkata, "Sungguh telah diceritakan seperti itu dari Abu Rafi'." Dan telah menceritakan kepada kami [Abu Bakar bin Ishaq bin Muhammad] telah mengabarkan kepada kami [Ibnu Abu Maryam] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dia berkata, telah mengabarkan kepadaku [al-Harits bin al-Fudlail al-Hathmi] dari [Ja'far bin Abdullah bin al-Hakam] dari [Abdurrahman bin Miswar bin Makhramah] dari [Abu Rafi'] mantan budak Nabi shallallahu 'alaihi wasallam, dari [Abdullah bin Mas'ud] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah ada Nabi melainkan dia memiliki pembela yang meminta petunjuk dengan petunjuknya, dan mengambil sunnah dengan sunnahnya, " seperti hadits Shalih, namun ia tidak menyebutkan kedatangan Ibnu Mas'ud dan berkumpulnya Ibnu Umar bersamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>179</td></tr><tr><td>Arabic No</td><td>50.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Мас‘уда (да будет доволен им Аллах), что Посланник Аллаха ﷺ сказал: «Какого бы Пророка ни направлял Аллах до меня к тому или иному народу, у него обязательно были апостолы и сподвижники из народа его, следовавшие его сунне и выполнявшие его веления, а на смену им приходили говорившие то, чего они не делали, и делавшие то, чего им (делать было) не велено. Борющийся с такими собственноручно является верующим, и борющийся с ними своим языком является верующим и борющийся с ними своим сердцем является верующим, а за этим нет веры и с горчичное зерно!»Абу Рафи‘ сказал: «Я рассказал (этот хадис) ‘Абдулле ибн ‘Умару, но он не принял его от меня. Прибывший Ибн Мас‘уд остановился в Къане и ‘Абдуллах ибн ‘Умар повлёк меня за собой к нему, чтобы навестить его и я отправился вместе с ним. Когда мы сели, я спросил Ибн Мас‘уда об этом хадисе и он пересказал его мне таким, как я его рассказывал Ибн ‘Умару»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>179</td></tr><tr><td>Arabic No</td><td>50.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 86</td></tr></tbody></table></div>
 

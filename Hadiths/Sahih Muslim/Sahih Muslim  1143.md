@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Masruq reported:It was mentioned before'A'isha that prayer is invalidated (in ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru an-Naqid] dan [Abu Sa'id al-Asyajj] keduanya berkata, telah menceritakan kepada kami [Hafsh bin Ghiyats] berkata, dan telah memberitakan kepada kami [Umar bin Hafs bin Ghiyats] dan lafazh tersebut adalah miliknya. Telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [al-A'masy] telah menceritakan kepadaku [Ibrahim] dari [al-Aswad] dari [Aisyah ra] --Lewat jalur periwayatan lain--. [Al-A'masy] berkata, dan telah menceritakan kepadaku [Muslim] dari [Masruq] dari [Aisyah Radhiyallahu'anhu], "Dan disebutkan di sisinya sesuatu yang memutuskan shalat adalah anjing, keledai, dan wanita. Maka Aisyah berkata, "Sungguh kalian telah menyerupakan kami dengan keledai dan anjing. Demi Allah, sungguh aku telah melihat Rasulullah Shallallahu'alaihiwasallam melakukan shalat, sedangkan aku tidur terlentang di atas kasur di antara beliau dan kiblat, lalu tampaklah suatu keperluan bagiku (untuk menyingkir), lalu aku tidak bersedia untuk duduk (karena malas) sehingga Rasulullah Shallallahu'alaihiwasallam tersakiti, lalu aku menyingkir dari sisi kedua kaki beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1143</td></tr><tr><td>Arabic No</td><td>512.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 305</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Масрука, что однажды, когда в присутствии ‘Аиши речь зашла о том, что молитву могут прервать (проходящие перед молящимся) собака, осёл или женщина, и ‘Аиша сказала: «Вы сравнили нас с ослами и собаками, но, клянусь Аллахом, я видела, как Посланник Аллаха ﷺ молился, а я в это самое время лежала на кровати между ним и киблой. Иногда, предо мной возникала какая-то нужда, но подняться и сесть я не хотела, потому что могла тем самым доставить неудобство Посланнику Аллаха ﷺ, и поэтому я просто проскальзывала возле его ног»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1143</td></tr><tr><td>Arabic No</td><td>512.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 305</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sufyan:I said to 'Amr, "O Abu Muhammad! Did you hear Jabir bin 'Abdulla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] mengatakan, aku bertanya kepada [Amru]; hai Abu Muhammad apakah engkau mendengar [Jabir bin Abdullah] mengatakan; 'Ada seorang laki-laki lewat dengan membawa anak panah di masjid, lantas Rasulullah Shallallahu'alaihiwasallam menegur orang itu: "Tutuplah mata anak panahnya!" Lantas Amru menjawab; 'Iya, benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7073</td></tr><tr><td>Arabic No</td><td>7073</td></tr><tr><td>Reference</td><td>Book 92 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Суфйан (ибн ‘Уйейна) сказал: «(Однажды) я сказал ‘Амру (ибн Динару):\n— О Абу Мухаммад, слышал ли ты, как Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, говорил: «(Как-то раз, когда) один человек, нёсший с собой стрелы, проходил по мечети, и Посланник Аллаха ﷺ сказал ему: “Возьмись за их острия!”?» ‘Амр ибн Динар ответил: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7073</td></tr><tr><td>Arabic No</td><td>7073</td></tr><tr><td>Reference</td><td>Book 92 Hadith 24</td></tr></tbody></table></div>
 

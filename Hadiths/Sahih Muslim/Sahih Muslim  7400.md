@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ma'qil b. Yasar reported Allah's Apostle (ﷺ) as saying:Worshiping during the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengkhabarkan kepada kami [Hammad bin Zaid] dari [Mu'alla bin Ziyad] dari [Mu'awiyah bin Qurrah] dari [Ma'qal bin Yasar] bahwa Rasulullah Shallallahu 'alaihi wa Salam. Telah menceritakannya kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hammad] dari [Al Mu'alla bin Ziyad] ia mengembalikannya ke [Mu'awiyah bin Qurrah] ia mengembalikannya ke [Ma'qal bin Yasar] ia mengembalikannya ke nabi Shallallahu 'alaihi wa Salam bersabda: "Ibadah saat terjadi pembunuhan seperti hijrah menujuku." Telah menceritakannya kepadaku [Abu Kamil] telah menceritakan kepada kami [Hammad] dengan sanad ini dengan matan serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7400</td></tr><tr><td>Arabic No</td><td>2948.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7400</td></tr><tr><td>Arabic No</td><td>2948.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 161</td></tr></tbody></table></div>
 

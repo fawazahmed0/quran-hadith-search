@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "Whoever swears falsely in order to g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ibnu Abi 'Adi] dari [Syu'bah] dari [Sulaiman] dan [Manshur] dari [Abu Wa'il] dari [Abdullah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah dengan sumpah dusta untuk menguasai harta seorang muslim -atau ia katakan dengan redaksi untuk menguasai harta saudaranya-- ia bertemu Allah sedang Allah dalam keadaan murka kepadanya." Kemudian Allah menurunkan ayat yang membenarkannya; 'Sesungguhnya orang-orang yang menukar janji Allah,,, dst (QS. Ali'Imran 77), [Sulaiman] berkata dalam haditsnya; kemudian Al Asy'ats bin Qais lewat dan berujar; 'Apa yang diceritakan Abdullah kepada kalian? ' Mereka pun menjawabnya dengan suatu jawaban sebagaimana diutarakan Abdullah. Lantas [Asy'ats] menerangkan; 'Sesungguhnya ayat diatas diturunkan tentang saya dan kawan saya karena suatu sumur yang ada diantara kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6660</td></tr><tr><td>Arabic No</td><td>6660</td></tr><tr><td>Reference</td><td>Book 83 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(В этот момент) проходил Аль-Аш‘ас ибн Кайс, да будет доволен им Аллах, и сказал: «Что рассказал вам Абу ‘Абдуррахман?» Они сказали ему (о том, о чём рассказывал ‘Абдуллах ибн Мас‘уд), и Аль-Аш‘ас сказал: «(Этот аят) был ниспослан в отношении меня и моего партнёра, с которым у нас была тяжба из-за колодца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6660</td></tr><tr><td>Arabic No</td><td>6660</td></tr><tr><td>Reference</td><td>Book 83 Hadith 38</td></tr></tbody></table></div>
 

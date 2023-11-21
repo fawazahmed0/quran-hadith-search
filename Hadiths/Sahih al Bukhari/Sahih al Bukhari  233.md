@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qilaba:Anas said, "Some people of 'Ukl or 'Uraina tribe came to Med
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Qilabah] dari [Anas bin Malik] berkata, "Beberapa orang dari 'Ukl atau 'Urainah datang ke Madinah, namun mereka tidak tahan dengan iklim Madinah hingga mereka pun sakit. Beliau lalu memerintahkan mereka untuk mendatangi unta dan meminum air seni dan susunya. Maka mereka pun berangkat menuju kandang unta (zakat), ketika telah sembuh, mereka membunuh pengembala unta Nabi shallallahu 'alaihi wasallam dan membawa unta-untanya. Kemudian berita itu pun sampai kepada Nabi shallallahu 'alaihi wasallam menjelang siang. Maka beliau mengutus rombongan untuk mengikuti jejak mereka, ketika matahari telah tinggi, utusan beliau datang dengan membawa mereka. Beliau lalu memerintahkan agar mereka dihukum, maka tangan dan kaki mereka dipotong, mata mereka dicongkel, lalu mereka dibuang ke pada pasir yang panas. Mereka minta minum namun tidak diberi." Abu Qilabah mengatakan, "Mereka semua telah mencuri, membunuh, murtad setelah keimanan dan memerangi Allah dan rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>233</td></tr><tr><td>Arabic No</td><td>233</td></tr><tr><td>Reference</td><td>Book 4 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(В своё время) люди из племени ‘укль (или: ‘урайна) приехали в Медину, где почувствовали недомогание из-за её климата. Пророк ﷺ велел им (в течение какого-то времени) пить мочу и молоко (дойных верблюдиц). Они отправились, (куда им было сказано,) а когда выздоровели, убили пастуха Пророка ﷺ и угнали (весь) скот(, который он пас. В Медине) об этом узнали в начале дня, и (Пророк ﷺ) отправил за ними (погоню). К полудню их уже привели (в Медину, и Пророк ﷺ) велел отрубить им руки и ноги, ( а кроме того,) им выжгли глаза (калёным железом) и бросили на Харре, где они просили напоить их, но никто не дал им воды».\nАбу Къиляба, (который передал этот хадис со слов Анаса,) сказал: «Эти (люди) своровали, убили и проявили неверие после того, как уверовали, и стали воевать с Аллахом и Его посланником»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>233</td></tr><tr><td>Arabic No</td><td>233</td></tr><tr><td>Reference</td><td>Book 4 Hadith 99</td></tr></tbody></table></div>
 

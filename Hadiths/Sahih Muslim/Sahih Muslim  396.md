@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] serta [Ali bin Hujr] mereka berkata, telah menceritakan kepada kami [Ismail bin Ya'nun] -yaitu Ibnu Ja'far- dari [al-Ala'] -yaitu Ibnu Abdurrahman- dari [bapaknya] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Hari Kiamat tidak akan tegak sehingga matahari terbit dari arah barat. Ketika matahari terbit dari arah barat maka seluruh manusia beriman kepada Allah, sehingga saat itu; '(Tidak berfaidah lagi iman seseorang yang tidak beriman sebelumnya atau tidak berusaha mengerjakan kebaikan dalam keimanannya) ' (Q. Al An'aam: 158). Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Numair] serta [Abu Kuraib] mereka berkata, telah menceritakan kepada kami [Ibnu Fudlail]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] keduanya dari [Umarah bin al-Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Zaidah] dari [Abdullah bin Dzakwan] dari [Abdurrahman al-A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>396</td></tr><tr><td>Arabic No</td><td>157.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайра, что Посланник Аллаха ﷺ сказал: «Не наступит Час, пока не взойдёт солнце на западе, а когда оно взойдёт на западе (и люди увидят это), все они уверуют, однако это будет то самое время, в которое “…вера не принесёт пользы душе, если та не уверовала прежде или не приобрела благодаря своей вере добро” (сура “аль-Ан’ам”, аят 158)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>396</td></tr><tr><td>Arabic No</td><td>157.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
 

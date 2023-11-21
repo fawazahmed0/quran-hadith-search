@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Asim reported from Abu Razin on the authority of Ibn 'Abbas saying:There is no p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] bahwa [Syarik] dan [Abu Al Ahwash] dan [Abu bakr bin Ayyasy] menceritakan kepada mereka dari [Ashim] dari [Abu Razin] dari [Ibnu Abbas] ia berkata, "Orang yang mensetubuhi binatang tidak ada hukuman hadnya." Abu Dawud berkata, "Atha juga mengatakan begitu." Al hakam berkata, "Menurutku ia harus didera, meskipun jumlahnya tidak melebihi hukuman had." Al Hasan berkata, "Hukumannya sama dengan hukukan pezina." Abu Dawud berkata, "Hadits Ashim ini melemahkan hadits Amru bin Abu Amru
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4465</td></tr><tr><td>Arabic No</td><td>4465</td></tr><tr><td>Reference</td><td>Book 40 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Тот, кто занимается скотоложством, не подвергается установленному Шариатом наказанию (также, как за прелюбодеяние)». Абу Дауд сказал: «Так сказал ‘Ата, а аль-Хакам сказал, что его следует подвергнуть бичеванию, но не доводить число ударов до установленного Шариатом наказания. А аль-Хасан сказал, что такой человек приравнивается к совершившему прелюбодеянию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4465</td></tr><tr><td>Arabic No</td><td>4465</td></tr><tr><td>Reference</td><td>Book 40 Hadith 115</td></tr></tbody></table></div>
 

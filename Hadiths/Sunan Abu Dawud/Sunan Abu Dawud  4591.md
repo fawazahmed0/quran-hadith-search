@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: If anyone is killed blindly
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Dawud berkata, "Aku mendapat cerita dari [Sa'id bin Sulaiman] dari [Sulaiman bin Katsir] berkata, telah menceritakan kepada kami [Amru bin Dinar] dari [Thawus] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa membunuh dalam keadaan gelap (tidak jelas siapa pembunuh dan bagaimana caranya), atau ketika terjadi saling lempar antara mereka baik dengan batu, cambuk, maka tebusannya adalah tebusan (pembunuhan) karena salah. Dan barangsiapa membunuh dengan sengaja, hukumannya adalah qishas. Barangsiapa menghalangi terlaksananya qishas, maka ia akan mendapat laknat Allah, para malaikat dan manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4591</td></tr><tr><td>Arabic No</td><td>4591</td></tr><tr><td>Reference</td><td>Book 41 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «За удар ногой не выплачивается компенсация». Абу Дауд сказал: «Речь о животном, которое ударяет ногой, когда на нём едут»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4591</td></tr><tr><td>Arabic No</td><td>4591</td></tr><tr><td>Reference</td><td>Book 41 Hadith 98</td></tr></tbody></table></div>
 

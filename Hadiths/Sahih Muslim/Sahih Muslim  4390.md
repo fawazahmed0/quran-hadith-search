@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) gave judgment in case of the a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Ibnu Musayyab] dari [Abu Hurairah] bahwa dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah memberi putusan tentang janin seorang wanita bani Lahyan yang gugur (karena dicelakai), dengan denda membebaskan seorang budak yang mahal, baik budak laki-laki atau perempuan. Selang beberapa saat perempuan yang dijatuhi hukuman denda itu tiba-tiba meninggal dunia, maka Rasulullah shallallahu 'alaihi wasallam memutuskan bahwa harta warisan perempuan itu supaya dibagikan kepada ahli warisnya, yaitu anaknya dan suaminya. Sedangkan pembayaran denda dibebankan kepada famili terdekatnya si pembunuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>1681.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>1681.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 49</td></tr></tbody></table></div>
 

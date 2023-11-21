@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd ibn Abi Waqqas: The Messenger of Allah (ﷺ) forbade to sell fresh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Nafi' Abu Taubah], telah menceritakan kepada kami [Mu'awiyah bin Sallam], dari [Yahya bin Abu Katsir], telah mengabarkan kepada kami [Abdullah] bahwa [Abu 'Ayyasy] telah mengabarkan kepadanya bahwa ia mendengar [Sa'd bin Abu Waqqash] berkata; Rasulullah shallallahu 'alaihi wasallam melarang dari menjual ruthab dengan kurma secara dengan penundaan. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Imran bin Abu Anas] dari [mantan budak Bani Makhzum], dari [Sa'd] dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>3360</td></tr><tr><td>Reference</td><td>Book 23 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Са‘да ибн Абу Ваккаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил менять свежие финики на сушёные с отсрочкой. Са‘д, да будет доволен им Аллах, передаёт от Пророка ﷺ похожий хадис
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>3360</td></tr><tr><td>Reference</td><td>Book 23 Hadith 35</td></tr></tbody></table></div>
 

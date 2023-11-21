@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:The Prophet (ﷺ) recited Surat-an-Najm (53) and p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] dari ['Abdullah radliallahu 'anhu] berkata: "Bahwa Nabi shallallahu 'alaihi wasallam membaca surah An-Najm lalu Beliau sujud dan tidak ada seorang pun dari kaum saat itu melainkan mengikuti beliau untuk sujud. Kecuali ada seseorang dari mereka yang ia hanya mengambil segenggam kerikil atau tanah lalu menempelkannya pada mukanya seraya berkata; "bagiku cukup begini". Berkata, 'Abdullah: Di kemudian hari aku melihat orang itu terbunuh dalam kekafiran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1070</td></tr><tr><td>Arabic No</td><td>1070</td></tr><tr><td>Reference</td><td>Book 17 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, да будет доволен им Аллах, что (как-то раз, когда) Пророк ﷺ прочитал суру «ан-Наджм», он совершил земной поклон, и ни один из людей не остался, не поклонившись, а один человек из числа (присутствовавших там) людей поднял горсть мелких камешков (или: земли), поднёс их к лицу и сказал: «Довольно с меня и этого».\n‘Абдуллах, да будет доволен им Аллах, сказал: «А потом я видел, что его убили как неверного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1070</td></tr><tr><td>Arabic No</td><td>1070</td></tr><tr><td>Reference</td><td>Book 17 Hadith 4</td></tr></tbody></table></div>
 

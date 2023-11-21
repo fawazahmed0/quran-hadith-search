@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When the Prophet (ﷺ) returned (from Jihad), he would say Ta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] berkata telah bercerita kepada kami [Juwairiyah] dari [Nafi'] dari ['Abdullah radliallahu 'anhu] berkata: "Adalah Nabi Shallallahu'alaihiwasallam apabila kembali dari (bepergian) Beliau bertakbir tiga kali lalu bedo'a: Aayibuuna insya Allah taai'buuna 'aabiduuna haamiduuna li robbinaa saajiduuna. Shodaqollahu wa'dahu wa nashoro 'abdahu wa hazamal ahzaaba wahdah". (Kita kembali, insya Allah sebagai hamba yang bertaubat, ber'ibadah, memuji-Nya dan yang sujud untuk Robb kita. Alloh Maha Benar dengan janji-Nya, menolong hamba-Nya dan menghancurkan musuh-musuh-Nya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>3084</td></tr><tr><td>Reference</td><td>Book 56 Hadith 288</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха, да будет доволен им Аллах, что, когда Пророк ﷺ возвращался (в Медину), он по три раза произносил слова «Аллаху Акбар» (Аллах велик), после чего говорил: «Мы возвращаемся, если пожелает Аллах, каемся, Господу нашему поклоняемся, совершаем земной поклон, и (Его) восхваляем! Аллах сдержал Своё обещание и помог Своему рабу, и Он один разбил племена /Айибуна, ин ша Аллаху таъибуна, ‘абидуна, саджидуна! Садака-Ллаху ва‘да-ху, ва насара ‘абда-ху ва хазама-ль-ахзаба вахда-ху/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>3084</td></tr><tr><td>Reference</td><td>Book 56 Hadith 288</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah, be pleased, with her) reported:I often wove garlands for the sacr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] -Yahya berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] ia berkata; "Aku mengalungkan tanda untuk hadya (hewan kurban) Rasulullah shallallahu 'alaihi wasallam, lalu beliau mengirimkannaya (ke tanah haram) dan bermukim dengan tidak lagi menjauhkan diri dari hal-hal yang biasanya dijauhi oleh seorang yang sedang ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3202</td></tr><tr><td>Arabic No</td><td>1321.09</td></tr><tr><td>Reference</td><td>Book 15 Hadith 406</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3202</td></tr><tr><td>Arabic No</td><td>1321.09</td></tr><tr><td>Reference</td><td>Book 15 Hadith 406</td></tr></tbody></table></div>
 

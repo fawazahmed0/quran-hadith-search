@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:I saw the Messenger of Allah (ﷺ) praying (Nafl prayer) on a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] katanya; "Aku pernah menyetorkan hapalan di hadapan [Malik] dari ['Amru bin Yahya Al Mazini] dari [Said bin Yasar] dari [Ibnu Umar], katanya; "Aku pernah menemui Rasulullah shallallahu 'alaihi wasallam ketika beliau tengah shalat diatas keledai dan menghadap ke Khaibar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1614</td></tr><tr><td>Arabic No</td><td>700.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «Я видел, как Посланник Аллаха ﷺ совершал молитву, сидя верхом на осле, а лицо его было обращено в сторону Хайбара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1614</td></tr><tr><td>Arabic No</td><td>700.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 45</td></tr></tbody></table></div>
 

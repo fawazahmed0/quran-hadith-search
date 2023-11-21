@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "Spitting in the mosque is a sin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Qatadah] berkata, aku mendengar [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Meludah di dalam Masjid adalah suatu dosa. Maka kafarahnya (tebusannya) adalah menguburnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 8 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Катада сказал:\n— Я слышал, как Анас ибн Малик сказал: «Пророк ﷺ сказал: “Плевать в мечети грешно, а искупление этого прегрешения состоит в том, чтобы закопать плевок”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 8 Hadith 65</td></tr></tbody></table></div>
 

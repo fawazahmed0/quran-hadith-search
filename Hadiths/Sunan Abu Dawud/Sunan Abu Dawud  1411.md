@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: In the year of Conquest the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Utsman Ad Dimasyqi Abu Al Jamahir], telah menceritakan kepada Kami [Abdul Aziz yaitu Ibnu Muhammad] dari [Mush'ab bin Tsabit bin Abdullah bin Az Zubair] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam pada saat penaklukan Mekkah membaca ayat Sajdah, kemudian seluruh manusia bersujud, diantara mereka ada yang berkendaraan dan ada yang bersujud di tanah hingga orang yang berkendaraan bersujud di atas tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1411</td></tr><tr><td>Arabic No</td><td>1411</td></tr><tr><td>Reference</td><td>Book 7 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что в год покорения Мекки Посланник Аллаха ﷺ прочитал один из тех аятов, при чтении которых следует совершать земной поклон, и все люди совершили земной поклон. Причём некоторые из них сидели в седле, а другие совершили земной поклон на земле. Что же касается сидевших в седле, то они совершили земной поклон, опуская головы на руки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1411</td></tr><tr><td>Arabic No</td><td>1411</td></tr><tr><td>Reference</td><td>Book 7 Hadith 11</td></tr></tbody></table></div>
 

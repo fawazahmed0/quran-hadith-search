@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Messenger of Allah (ﷺ) said: I would be the first a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ishaq bin Ibrahim] berkata [Qutaibah] telah menceritakan kepada kami [Jarir] dari [al-Mukhtar bin Fulful] dari [Anas bin Malik] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku adalah manusia pertama yang memberi syafa'at di surga, dan aku adalah nabi yang paling banyak pengikutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>483</td></tr><tr><td>Arabic No</td><td>196.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 389</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «Я первым из людей стану ходатайствовать о Рае, и за мной последует больше людей, чем за любым другим пророком»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>483</td></tr><tr><td>Arabic No</td><td>196.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 389</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) used to say on the day o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah Ar Rabi' bin Nafi'] telah menceritakan kepada kami [Sulaiman yaitu Ibnu Hayyan] dari [Abu Ya'la Ath Tha'ifi] dari ['Amru bin Syu'aib] dari [ayahnya] dari [kakeknya] bahwa Nabi shallallahu 'alaihi wasallam dalam shalat Iedul Fithri bertakbir tujuh kali pada raka'at pertama kemudian membaca (Fatihah dan surat Al Qur'an), kemudian beliau berdiri dan bertakbir empat kali lalu membaca (Fatihah dan surat Al Qur'an) setelah itu beliau ruku'." Abu Daud mengatakan; "di riwayatkan pula oleh [Waki'] dan [Ibnu Mubarrak], keduanya berkata; "(bertakbir) tujuh kali dan lima kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1152</td></tr><tr><td>Arabic No</td><td>1152</td></tr><tr><td>Reference</td><td>Book 2 Hadith 763</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Пророк ﷺ совершая праздничную молитву в праздник разговения, совершал семь такбиров в первом рак‘ате, затем читал аяты, затем произносил такбир, потом вставал (для совершения второго рак‘ата) и произносил четыре такбира, после чего читал аяты и совершал поясной поклон. Абу Дауд сказал: «Ваки‘ и Ибн аль-Мубарак передавали этот хадис, упоминая, соответственно, семь и пять такбиров»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1152</td></tr><tr><td>Arabic No</td><td>1152</td></tr><tr><td>Reference</td><td>Book 2 Hadith 763</td></tr></tbody></table></div>
 

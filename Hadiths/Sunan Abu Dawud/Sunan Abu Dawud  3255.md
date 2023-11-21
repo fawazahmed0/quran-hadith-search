@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: The Messenger of Allah (ﷺ) as saying: Your oath should 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin 'Aun], ia berkata; telah mengabarkan kepada kami [Husyaim], dan telah diriwayatkan dari jalur yang lain: telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Husyaim] dari ['Abbad bin Abu Shalih], dari [ayahnya], dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sumpahmu atas apa yang dibenarkan lawanmu." Musaddad berkata; telah mengabarkan kepadaku Abdullah bin Abu Shalih, Abu Daud berkata; keduanya adalah satu, yaitu Abdullah bin Abu Shalih serta 'Abbad bin Abu Shalih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1653)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3255</td></tr><tr><td>Arabic No</td><td>3255</td></tr><tr><td>Reference</td><td>Book 22 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сувайда ибн Ханзаля: «Однажды мы отправились к Посланнику Аллаха ﷺ и с нами был Ваиль ибн Худжр, и его захватил его враг. Люди не захотели клясться, считая это зазорным, а я поклялся, что он мой брат, и он отпустил его. Когда мы пришли к Посланнику Аллаха ﷺ я сообщил ему о том, как люди не стали клясться, считая это зазорным, а я поклялся, что он мой брат. (Посланник Аллаха ﷺ) сказал: “Ты сказал правду, ибо мусульманин мусульманину брат”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1653)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3255</td></tr><tr><td>Arabic No</td><td>3255</td></tr><tr><td>Reference</td><td>Book 22 Hadith 14</td></tr></tbody></table></div>
 

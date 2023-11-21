@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin Al-Harith:Once the Prophet (ﷺ) offered the 'Asr prayer and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari ['Umar bin Said] dari [Ibnu Abu Mulaikah] bahwa ['Uqbah bin Al Harits] radliallahu 'anhu menceritakan kepadanya, katanya: "Nabi Shallallahu'alaihiwasallam shalat 'Ashar berjama'ah bersama kami. Tiba-tiba Beliau dengan tergesa-gesa memasuki rumah. Tidak lama kemudian Beliau keluar, dan aku bertanya atau dikatakan kepada Beliau tentang ketergesaannya itu. Maka Beliau berkata,: "Aku tinggalkan dalam rumah sebatang emas dari harta shadaqah. Aku tidak mau bila sampai bermalam, maka aku bagi-bagikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1430</td></tr><tr><td>Arabic No</td><td>1430</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба ибн Харис, да будет доволен им Аллах, сказал: «(Однажды) после того, как Пророк ﷺ совершил с нами послеполуденную молитву, он быстро поднялся и зашел домой и через некоторое время вышел. Когда люди стали спрашивать его (о подобной поспешности), он сказал: “Я (вспомнил о том, что) оставил дома золото, и я не хотел, чтобы оно оставалось у нас на ночь и разделил его (чтобы раздать)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1430</td></tr><tr><td>Arabic No</td><td>1430</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
 

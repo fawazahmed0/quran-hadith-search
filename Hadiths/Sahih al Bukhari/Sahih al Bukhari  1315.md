@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Hurry up with the dead body for if
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] berkata, kami menghafalnya dari [Az Zuhriy] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: "Bercepat-cepatlah membawa jenazah, karena bila jenazah itu dari orang shalih berarti kalian telah mempercepat kebaikan untuknya dan jika tidak, berarti kalian telah menyingkirkan kejelekan dari pundak kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1315</td></tr><tr><td>Arabic No</td><td>1315</td></tr><tr><td>Reference</td><td>Book 23 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал:«Несите покойного побыстрее, ибо если он был праведным, то вы приближаете его к благу, если же он таковым не был, вы (сможете побыстрее) убрать зло с шей своих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1315</td></tr><tr><td>Arabic No</td><td>1315</td></tr><tr><td>Reference</td><td>Book 23 Hadith 72</td></tr></tbody></table></div>
 

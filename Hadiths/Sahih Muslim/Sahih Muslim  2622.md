@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (que Dieu l'agrée) a dit : Nous étions en voyage avec le Prophète (paix 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Ashim] dari [Muwarriq] dari [Anas] radliallahu 'anhu, ia berkata; Dulu kami pernah bepergian bersama Nabi shallallahu 'alaihi wasallam, dan di antara kami ada yang melaksanakan puasa dan ada pula yang tidak berpuasa. Kemudian di hari yang sangat terik itu kami berhenti di suatu tempat dan orang yang bisa berteduh hanyalah orang yang mempunyai pakaian, bahkan di antara kami ada orang berlindung dari sinar matahari hanya dengan tangannya saja. Maka orang-orang yang berpuasa pun berjatuhan, dan sebaliknya orang yang tidak berpuasa masih tetap tegar, masih mampu menghancurkan bangunan dan masih kuat memberi minum hewan tunggangan mereka. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Hari ini mereka yang berbuka telah menuai pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2622</td></tr><tr><td>Arabic No</td><td>1119.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2622</td></tr><tr><td>Arabic No</td><td>1119.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 128</td></tr></tbody></table></div>
 

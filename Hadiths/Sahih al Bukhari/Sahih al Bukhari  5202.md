@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:The Prophet (ﷺ) took an oath that he would not enter upon s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] -dalam riwayat lain- Dan Telah menceritakan kepadaku [Muhammad bin Muqatil] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Ibnu Juraij] ia berkata; Telah mengabarkan kepadaku [Yahya bin Abdullah bin Shaifi] bahwa [Ikrimah bin Abdurrahman bin Al Harits] Telah mengabarkan kepada mereka, bahwa [Ummu Salamah] telah mengabarkan mereka, bahwa Nabi shallallahu 'alaihi wasallam pernah bersumpah untuk tidak menemui sebagian keluarganya (isteri-isterinya). Maka dua puluh sembilan hari berlalu, di waktu pagi ternyata beliau menemui mereka, maka dikatakanlah pada beliau, "Wahai Nabiyullah, Anda telah bersumpah untuk tidak masuk menemui mereka selama satu bulan." Akhirnya beliau bersabda: "Sesungguhnya bilangan bulan itu adalah dua puluh sembilan hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>5202</td></tr><tr><td>Reference</td><td>Book 67 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Умм Салямы, да будет доволен ею Аллах, что однажды Пророк ﷺ поклялся не приближаться к своим жёнам (целый) месяц, а по истечении двадцати девяти дней он пришёл (к ним) утром или вечером. Тогда ему было сказано: «О Пророк Аллаха, ты же поклялся не входить (к ним целый) месяц!» — на что он сказал: «Поистине, месяц (может) состоять и из двадцати девяти дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>5202</td></tr><tr><td>Reference</td><td>Book 67 Hadith 136</td></tr></tbody></table></div>
 

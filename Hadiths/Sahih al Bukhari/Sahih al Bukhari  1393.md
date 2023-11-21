@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (p.b.u.h) said, "Don't abuse the dead, because they 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Al A'masy] dari [Mujahid] dari ['Aisyah radliallahu 'anha] berkata; Nabi Shallallahu'alaihiwasallam telah bersabda: "Janganlah kalian mencela mayat karena mereka telah sampai (mendapatkan) apa yang telah mereka kerjakan". Dan diriwayatkan oleh ['Abdullah bin 'Abdul Quddus] dari [Al A'masy] dan [Muhammad bin Anas] dari [Al A'masy] yang dikuatkan oleh ['Ali bin Al Ja'di] dari [Ibnu'Ar'arah] dari [Ibnu 'Adiy] dari [Syu'bah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 23 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ сказал: “Не подвергайте поношению покойных, ибо они уже пришли к тому, что творили прежде”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 23 Hadith 147</td></tr></tbody></table></div>
 

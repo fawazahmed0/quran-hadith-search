@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Humayd Ibn Abdourrahmân Ibn 'Awf, Marwân dit à son portier : "Ô Râ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Harun bin 'Abdullah] -dan lafadh ini milik Zuhair- mereka berdua berkata; telah menceritakan kepada kami [Hajjaj bin Muhammad] dari [Ibnu Juraij]; telah mengabarkan kepadaku [Ibnu Abu Malikah] bahwasanya [Humaid bin 'Abdurrahman bin 'Auf] mengabarkan kepadanya bahwasanya Marwan berkata; "Wahai Abu Rafi', katakan kepada kepada penjaga pintu agar dia pergi menemui Ibnu Abbas, tanyakan kepadanya; 'Apabila setiap orang dari kita yang merasa senang dengan apa yang dia kerjakan dan yang menyukai untuk dipuji terhadap apa yang belum dia kerjakan akan di adzab, dengan demikian berarti kita semua akan di adzab? [Ibnu Abbas] berkata; 'Apa hubungannya kalian dengan ayat ini? ' Ayat ini hanya di turunkan mengenai Ahlu kitab. Lalu Ibnu Abbas membaca ayat; "Dan (ingatlah), ketika Allah mengambil janji dari orang-orang yang telah diberi (yaitu), "Hendaklah kamu benar-benar menerangkannya (isi kitab itu) kepada manusia dan janganlah kamu menyembunyikannya. (QS. Ali Imran 187) " Dan Ibnu Abbas membaca ayat; "Dan janganlah sekali-kali kamu mengira bahwa orang yang gembira dengan apa yang telah mereka kerjakan dan mereka suka dipuji atas perbuatan yang tidak mereka lakukan. (QS. Ali'Imran 188) " Ibnu Abbas berkata; Yaitu ketika nabi shallallahu 'alaihi wasallam menanyakan kepada mereka tentang sesuatu, namun mereka menyembunyikannya dan mengabarkan hal yang lain. Lalu mereka keluar. Sungguh aku melihat beliau diberitahu tentang yang beliau tanyakan kepada mereka hingga mereka ingin dipuji dengan apa yang telah mereka kabarkan itu dan mereka senang dengan apa yang telah mereka kerjakan dari menyembunyikan sesuatu yang beliau tanyakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7034</td></tr><tr><td>Arabic No</td><td>2778</td></tr><tr><td>Reference</td><td>Book 51 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7034</td></tr><tr><td>Arabic No</td><td>2778</td></tr><tr><td>Reference</td><td>Book 51 Hadith 11</td></tr></tbody></table></div>
 

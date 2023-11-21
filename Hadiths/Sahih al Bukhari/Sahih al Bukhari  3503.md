@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair: 'Abdullah bin Az-Zubair went with some women of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3503</td></tr><tr><td>Arabic No</td><td>3503</td></tr><tr><td>Reference</td><td>Book 61 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва ибн аз-Зубайр сказал: «(Однажды) ‘Абдуллах ибн аз-Зубайр отправился с несколькими людьми из племени бану зухра к ‘Аише, которая хорошо обращалась с ними по причине их родства с Посланником Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3503</td></tr><tr><td>Arabic No</td><td>3503</td></tr><tr><td>Reference</td><td>Book 61 Hadith 13</td></tr></tbody></table></div>
 

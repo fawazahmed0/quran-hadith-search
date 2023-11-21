@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Harith ibn Qays al-Asadi: I embraced Islam while I had eight wives. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Husyaim], telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Wahb bin Baqiyyah], telah mengabarkan kepada kami [Husyaim] dari [Ibnu Abu Laila] dari [Humaidhah bin Asy Syamardal], dari [Al Harits bin Qais], ia berkata; Musaddad bin 'Umairah, dan telah berkata Wahb Al Asadi; aku masuk Islam delapan, kemudian aku menceritakannya kepada Nabi shallallahu 'alaihi wasallam. Nabi shallallahu 'alaihi wasallam bersabda: "Pilihlah empat orang diantara mereka." Abu Daud berkata; dan [Ahmad bin Ibrahim] telah menceritakannya kepada kami, telah menceritakan kepada kami [Husyaim] dengan hadits ini, telah berkata [Qais bin Al Harits] -sebagai ganti Al Harits bin Qais, Ahmad bin Ibrahim berkata; inilah yang benar, yaitu bernama Qais bin Al Harits, telah menceritakan kepada kami [Ahmad bin Ibrahim], telah menceritakan kepada kami [Bakr bin Abdurrahman] seorang hakim di Kufah, dari [Isa bin Al Mukhtar] dari [Ibnu Abu Laila], dari [Humaishah bin Aisyah Syamardal] dari [Qais bin Al Harits] dengan maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 13 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Хариса аль-Асади: «Когда я принял ислам, у меня было восемь жён. Я рассказал об этом Пророку ﷺ и Пророк ﷺ сказал: “Выбери четырёх из них”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 13 Hadith 67</td></tr></tbody></table></div>
 

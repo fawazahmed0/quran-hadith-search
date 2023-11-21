@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: Two men reviled each other in the presence of the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Musa] berkata, telah menceritakan kepada kami [Jarir bin Abdul Hamid] dari [Abdul Malik bin Umair] dari ['Abdurrahman bin Abu Laila] dari [Mu'adz bin Jabal] ia berkata, "Ada dua orang laki-laki saling mencela di sisi Nabi shallallahu 'alaihi wasallam, salah seorang dari mereka sangat marah hingga aku berfikir seolah olah hidungnya pecah karena marah yang memuncak. Nabi shallallahu 'alaihi wasallam lalu bersabda: "Sungguh, aku benar-benar tahu sebuah kalimat yang jika dibaca oleh seseorang maka akan hilang kemarahan yang ia rasakan." Seseorang lalu bertanya, "Wahai Rasulullah, apa itu?" beliau bersabda: "ALLAHUMMA INNI A'UUDZU BIKA MINASYSYAITHAANIRRAJIIM (Ya Allah, aku berlindung kepadamu dari setan yang terkutuk)." Perawi berkata, "Mu'adz lantas menyuruh laki-laki itu untuk mengucapkannya, tetapi ia enggan dan justru bertambah amarahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4780</td></tr><tr><td>Arabic No</td><td>4780</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абду-р-Рахмана ибн Абу Ляйля, что Му‘аз ибн Джабаль, да будет доволен им Аллах, сказал: (Однажды) двое мужчин разругались друг с другом в присутствии Пророка ﷺ и один из них так сильно разгневался, что мне показалось, что его нос вот вот разорвётся из-за его сильного гнева, и тогда Пророк ﷺ сказал: «Поистине, я знаю слова, произнося которые у него (обязательно) прошёл бы гнев». (Му‘аз) спросил: «А что это (за слова), о Посланник Аллаха?» (Пророк ﷺ) сказал: «(Если) он скажет: “О Аллах, я прибегаю к Твоей защите от проклятого шайтана”».(Передатчик этого хадиса) сказал: «И Му‘аз стал повелевать ему (произнести эти слова,) но тот отказался и стал проявлять настойчивость, (в результате чего) гнев его ещё усилился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4780</td></tr><tr><td>Arabic No</td><td>4780</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) led us and offered a two rak'at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ishaq bin 'Abdullah bin Abu Tholhah] dari [Anas bin Malik radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam memimpin shalat bersama kami dua raka'at lalu pergi berlalu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1168</td></tr><tr><td>Arabic No</td><td>1168</td></tr><tr><td>Reference</td><td>Book 19 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что после того, как Пророк ﷺ совершал два рак‘ата, он смотрел, (сплю ли я), и если я не спала, то мы разговаривали, если же я спала, то он ложился
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1168</td></tr><tr><td>Arabic No</td><td>1168</td></tr><tr><td>Reference</td><td>Book 19 Hadith 47</td></tr></tbody></table></div>
 

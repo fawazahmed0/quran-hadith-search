@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by ibn Shihab through a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] serta [Utsman bin Abu Syaibah] secara makna, serta [Ibnu As Sarj], mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Urwah] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam menemuiku. Musaddad dan Ibnu As Sarh mengatakan; pada suatu hari dalam keadaan senang. Utsman berkata; diketahui keceriaan wajah beliau. Beliau berkata: "Wahai Aisyah, tidakkah engkau melihat bahwa Muhazziz Al Mudliji melihat Zaid dan Usamah, mereka berdua telah menutup kepala mereka berdua menggunakan selimut, dan nampak telapak kaki mereka berdua." Kemudian Muhazziz berkata; sesungguhnya telapak kaki ini sebagiannya berasal dari sebagian yang lainnya. Abu Daud berkata; Usamah adalah orang yang berkulit hitam sedangkan Zaid adalah orang yang berkulit putih. Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dengan sanad dan maknanya. Ia berkata; Aisyah berkata; beliau menemuiku dalam keadaan senang, rasa senang pada wajahnya bersinar. Abu Daud berkata; rasa senang pada wajahnya tidak dihafal oleh Ibnu 'Uyainah. Abu Daud berkata; kata rasa senang pada wajahnya adalah tadlis dari Ibnu 'Uyainah, ia tidak mendengarnya dari Az Zuhri, melainkan ia mendengar kata rasa senang dari selainnya. Ia berkata; dan kata rasa senang ada dalam hadits Al Laits dan yang lainnya. Abu Daud berkata; dan saya mendengar Ahmad bin Shalih berkata; Usamah adalah orang yang berkulit hitam seperti ter, sedangkan Zaid adalah orang yang putih seperti kapas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6771) Sahih Muslim (1459)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2268</td></tr><tr><td>Arabic No</td><td>2268</td></tr><tr><td>Reference</td><td>Book 13 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В версии Ибн Шихаба упоминается, что ‘Аиша, да будет доволен ею Аллах, передавая этот хадис, сказала: «И он зашёл ко мне радостный, и лицо его светилось от радости». Абу Дауд сказал: «Я слышал от Ахмада ибн Салиха такие слова: “Усама был тёмным, как смола, а сам Зейд светлым, как хлопок”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6771) Sahih Muslim (1459)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2268</td></tr><tr><td>Arabic No</td><td>2268</td></tr><tr><td>Reference</td><td>Book 13 Hadith 94</td></tr></tbody></table></div>
 

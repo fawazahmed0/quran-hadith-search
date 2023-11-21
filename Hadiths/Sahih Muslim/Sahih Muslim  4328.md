@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated through another chain of transmitters with a sligh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Jarir bin Hazim] dari [Nafi'] bekas budak Abdullah bin Umar, dari [Abdullah bin Umar] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersbda: "Barangsiapa membebaskan bagian kepemilikan dari seorang budak, dan apabila dia memiliki cukup harta untuk membayar sisanya, maka hendaknya ia membebaskan dengan membayar sisa dari harga budak tersebut, jika tidak maka sungguh ia telah membebaskan apa yang menjadi miliknya." Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin Rumh] dari [Al Laits bin Sa'd]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahab] aku telah mendengar [Yahya bin Sa'id]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abu Ar Rabi'] dan [Abu Kamil] keduanya berkata; telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid-. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] -yaitu Ibnu 'Ulayyah- keduanya dari [Ayyub]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Abdurrazaq] dari [Ibnu Juraij] telah mengabarkan kepadau [Isma'il bin Umayah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Ibnu Abu fudaik] dari [Ibnu Abu Dzi'b]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] telah mengabarkan kepada kami [Ibnu Wahb] dia berkata, telah mengabarkan kepadaku [Usamah] -yaitu Ibnu Zaid- mereka semua dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini, namun dalam hadits mereka tidak disebutkan, "Jika dia tidak memiliki harta, maka dia telah membebaskan bagiannya saja." Kecuali dalam hadits Ayyub dan Yahya bin Sa'id, karena keduanya menyebutkan kalimat tersebut dalam hadits. Keduanya berkata, "Kami tidak tahu, apakah kalimat tersebut termasuk dalam hadits atau hanya sekedar perkataannya Nafi'." Dan dalam riwayatnya mereka semua juga tidak disebutkan, 'Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam …", kecuali dalam hadits Laits bin Sa'ad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4328</td></tr><tr><td>Arabic No</td><td>1501.06</td></tr><tr><td>Reference</td><td>Book 27 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4328</td></tr><tr><td>Arabic No</td><td>1501.06</td></tr><tr><td>Reference</td><td>Book 27 Hadith 75</td></tr></tbody></table></div>
 

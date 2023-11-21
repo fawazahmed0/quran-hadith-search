@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The above hadith has been narrated likewise through another chain of transmitter
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Sa'id bin 'Amru Al Asy'atsi] telah mengabarkan kepada kami ['Abtsar] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah], bahwa Nabi shallallahu 'alaihi wasallam melarang Ad Dubba dan Al Muzaffat." Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya yaitu Al Qathan] telah menceritakan kepada kami [Sufyan] dan [Syu'bah] keduanya berkata; telah menceritakan kepada kami [Manshur] dan [Sulaiman] dan [Hammad] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5174</td></tr><tr><td>Arabic No</td><td>1995.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5174</td></tr><tr><td>Arabic No</td><td>1995.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 48</td></tr></tbody></table></div>
 

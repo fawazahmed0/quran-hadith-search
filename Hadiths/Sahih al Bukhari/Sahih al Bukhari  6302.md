@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:During the life-time of the Prophet (ﷺ) I built a house wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Ishaq yaitu Ibnu Sa'id] dari [Sa'id] dari [Ibnu Umar] radliallahu 'anhuma dia berkata; "Aku pernah bermimpi membangun suatu bangunan bersama Nabi shallallahu 'alaihi wasallam yang dapat melindungiku dari hujan dan terik Matahari, dan tidak ada satupun dari Makhluk Allah yang membantuku (selain beliau shallallahu 'alaihi wasallam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6302</td></tr><tr><td>Arabic No</td><td>6302</td></tr><tr><td>Reference</td><td>Book 79 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «При жизни Пророка ﷺ я своими руками построил себе дом, чтобы он защищал меня от дождя и солнца, и никто из созданий Аллаха не помогал мне (в этом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6302</td></tr><tr><td>Arabic No</td><td>6302</td></tr><tr><td>Reference</td><td>Book 79 Hadith 74</td></tr></tbody></table></div>
 

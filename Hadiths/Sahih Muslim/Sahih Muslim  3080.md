@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham b. 'Urwa narrated on the authority of his father who reported:I said to '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Hisyam bin Urwah] telah mengabarkan kepadaku [bapakku] ia berkata, saya pernah berkata kepada [Aisyah], "Menurutku, aku tidak berdosa bila tidak melakukan Sa'i antara Shafa dan Marwa." Aisyah bertanya, "Kenapa?" Aku menjawab, "Sebab Allah 'azza wajalla telah berfirman: 'Sesungguhnya Shafa dan Marwa adalah sebagian dari syi'ar agama Allah….'" (Al Baqarah: 158) Aisyah berkata, "Sekiranya benar apa yang kamu katakan, maka seharus ayat itu berbunyi: 'Tidaklah berdosa orang yang tidak sa'i antara keduanya.'" Aisyah melanjutkan, "Sesungguhnya ayat ini diturunkan berkenaan dengan orang-orang Anshar. Dulu ketika ihram, mereka ihram untuk Manat (sebuah batu besar berada di Qadid pada masa jahiliyah), dan mereka tidak tahallul, hingga mereka Sa'i antara Shafa dan Marwah. Maka ketika mereka datang untuk menunaikan haji bersama Rasulullah shallallahu 'alaihi wasallam, mereka pun teringat akan masa lalu, sehingga Allah pun menurunkan ayat ini. Karena itu, Allah tidak akan menyempurnakan haji seseorang yang tidak Sa'i antara Shafa dan Marwa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3080</td></tr><tr><td>Arabic No</td><td>1277.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 286</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3080</td></tr><tr><td>Arabic No</td><td>1277.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 286</td></tr></tbody></table></div>
 

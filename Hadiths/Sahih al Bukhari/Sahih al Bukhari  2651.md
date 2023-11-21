@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zahdam bin Mudrab:I heard 'Imran bin Husain saying, "The Prophet (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abu Jamrah] berkata,, aku mendengar [Zahdam bin Mudharrib] berkata; aku mendengar ['Imran bin Hushain radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sebaik-baik kalian adalah yang hidup pada zamanku (generasiku) kemudian orang-orang yang datang setelah mereka kemudian orang-orang yang datang setelah mereka". 'Imran berkata: "Aku tidak tahu apakah Nabi shallallahu 'alaihi wasallam menyebutkan lagi setelah (generasi beliau) dua atau tiga generasi setelahnya". Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya setelah kalian akan ada kaum yang suka berkhianat (sehingga) mereka tidak dipercaya, mereka suka bersaksi padahal tidak diminta persaksian mereka, mereka juga suka memberi peringatan padahal tidak diminta berfatwa dan nampak dari ciri mereka orangnya berbadan gemuk-gemuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2651</td></tr><tr><td>Arabic No</td><td>2651</td></tr><tr><td>Reference</td><td>Book 52 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран ибн Хусайн, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ сказал: “Лучшими из вас будут мои современники, затем — следующие за ними, а затем — следующие за ними”».\n‘Имран сказал: «И я (точно) не знаю, упомянул ли Пророк ﷺ после этого два или три поколения. (Потом Пророк ﷺ сказал): “Поистине, после вас будут люди, которые будут поступать вероломно и будут недостойны доверия. Они будут свидетельствовать до того, как их будут просить об этом, и они станут давать обеты, но не будут выполнять (их), и будет среди них (множество) тучных”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2651</td></tr><tr><td>Arabic No</td><td>2651</td></tr><tr><td>Reference</td><td>Book 52 Hadith 15</td></tr></tbody></table></div>
 

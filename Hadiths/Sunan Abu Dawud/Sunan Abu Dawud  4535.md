@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas:A girl was found with her head crushed between two stoned. She was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas] berkata, "Seorang budak wanita ditemukan dalam keadaan kepalanya terhimpit antara dua batu, maka ditanyakan kepadanya, "Siapa yang melakukan ini kepadamu? Apakah si fulan yang melakukannya?" Hingga ketika nama seorang Yahudi disebut, dengan kepalanya ia menjawab, "Ya." Yahudi itu kemudian dijemput dan ia mengakuinya. Maka Nabi shallallahu 'alaihi wasallam memerintakah agar kepala yahudi itu juga dipecahkan dengan dihipit antara dua batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2746) Sahih Muslim (1672)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4535</td></tr><tr><td>Arabic No</td><td>4535</td></tr><tr><td>Reference</td><td>Book 41 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что одну девочку нашли после того, как кто-то разбил ей голову двумя камнями. Её стали спрашивать: «Кто сделал это с тобой? Такой-то? Такой-то?» И когда они назвали одного иудея, она кивнула головой. Этого иудея схватили, и он признался (в своём преступлении), и Пророк ﷺ велел разбить ему голову камнями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2746) Sahih Muslim (1672)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4535</td></tr><tr><td>Arabic No</td><td>4535</td></tr><tr><td>Reference</td><td>Book 41 Hadith 42</td></tr></tbody></table></div>
 

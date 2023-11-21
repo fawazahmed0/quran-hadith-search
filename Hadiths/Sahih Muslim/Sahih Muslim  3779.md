@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:Barira came to me and said: My famil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala' Al Hamdani] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Hisyam bin Urwah] telah mengabarkan kepadaku [ayahku] dari ['Aisyah] dia berkata; Suatu ketika Barirah menemuiku dan berkata; "Sesungguhnya keluargaku (tuanku) berjanji akan membebaskanku jika saya mampu menebus diriku dengan sembilan uqiyah selama sembilan tahun, dan saya harus membayar satu uqiyah setiap setahun, oleh karena itu bantulah saya." Maka saya berkata kepadanya; "Jika keluargamu (tuanmu) rela maka saya akan menebusmu secara kontan (yaitu sembilan uqiyah sekaligus), saya akan membebaskanmu, dan hak perwalianmu padaku." Setelah itu dia menyampaikan hal itu kepada keluarganya (tuannya), namun mereka menolak kecuali jika hak perwaliannya tetap pada mereka. Kemudian dia menemuiku dan menyampaikan hal itu kepadaku, lalu saya meghardiknya dan berkata; "Demi Allah, tidak seperti itu aturannya." Aisyah melanjutkan; Ternyata Rasulullah shallallahu 'alaihi wasallam mendengar hal ini, maka beliau bertanya kepadaku, lalu saya memberitahukan kepada beliau apa yang terjadi. Lantas beliau bersabda: "Belilah dia dan bebaskanlah dia serta mintalah syarat supaya perwalian ada padamu, sebab perwalian itu bagi orang yang memerdekakan." Akhirnya saya malakukannya. Tidak lama setelah itu, Rasulullah shallallahu 'alaihi wasallam berkhutbah di waktu Isya', setelah beliau memuji Allah dengan puji-pujian yang pantas bagi-Nya, beliau lalu bersabda: "Amma Ba'du, apa urusannya orang-orang memberikan persyaratan? Persyaratan apa saja yang tidak pernah ada pada Kitabullah Azza Wa Jalla, maka persyaratannya bathil walaupun dia mensyaratkan seratus kali, sebab Kitabullah lebih berhak untuk ditunaikan dan syarat Allah lebih kuat. Lantas apa urusannya salah seorang dari kalian yang mengatakan; 'Merdekakanlah fulan dengan syarat perwaliannya masih padaku, " sesungguhnya perwalian itu bagi orang yang memerdekakan." Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Numair]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki']. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] semuanya dari [Jarir] semuanya dari [Hisyam bin Urwah] dengan isnad ini, seperti hadits riwayat Abu Usamah, hanya saja dia dalam hadits Jabir disebutkan; Bahwa suaminya (Barirah) statusnya masih budak, lalu Rasulullah shallallahu 'alaihi wasallam memberikan pilihan, maka dia memilih dirinya, seandainya suaminya medeka niscaya beliau tidak memberinya pilihan. Dan dalam hadits mereka tidak disebutkan; "Amma ba'du
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3779</td></tr><tr><td>Arabic No</td><td>1504.04</td></tr><tr><td>Reference</td><td>Book 20 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3779</td></tr><tr><td>Arabic No</td><td>1504.04</td></tr><tr><td>Reference</td><td>Book 20 Hadith 10</td></tr></tbody></table></div>
 

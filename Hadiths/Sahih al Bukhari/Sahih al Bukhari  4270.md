@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Akwa':I fought in seven Ghazwat (i.e. battles) along with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Hatim] dari [Yazid bin Abu Ubaid] katanya, aku mendengar [Salamah bin Al Akwa'] mengatakan, aku berperang (ghazawah) bersama Nabi shallallahu 'alaihi wasallam sebanyak tujuh kali, dan aku berangkat dalam sebuah ekspedisi militer (Sariyah) yang beliau lakukan sebanyak Sembilan kali. Adakalanya kami dipimpin oleh Abu bakar dan ada kalanya kami dipimpin oleh Usamah. Sedang [Umar bin Hafs bin Ghiyats] mengatakan, Telah menceritakan kepada kami [Ayahku] dari [Yazid bin Abu Ubaid] katanya, aku mendengar [Salamah] mengatakan, aku berperang (ghazawah) bersama Nabi shallallahu 'alaihi wasallam sebanyak tujuh kali, dan aku pernah berangkat pada sebuah ekspedisi militer (sariyah) yang beliau lakukan sebanyak sembilan kali, terkadang kami dikomandani oleh Abu bakar, namun terkadang dikomandani Usamah bin Zaid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4270</td></tr><tr><td>Arabic No</td><td>4270</td></tr><tr><td>Reference</td><td>Book 64 Hadith 304</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма ибн аль-Аква‘, да будет доволен им Аллах, сказал: «Я принимал участие в семи военных походах вместе с Пророком ﷺ, а также в девяти других военных походах (в составе) направлявшихся (Пророком ﷺ) отрядов, которыми попеременно командовали Абу Бакр и Усама (ибн Зейд), да будет доволен Аллах ими обоими»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4270</td></tr><tr><td>Arabic No</td><td>4270</td></tr><tr><td>Reference</td><td>Book 64 Hadith 304</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:Az-Zubair said, "I met Ubaida bin Sa'id bin Al-As on the day (of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaid bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin "urwah] dari [bapaknya] berkata, [Az Zubair] berkata; "Pada peperangan Badar aku berhadapan dengan 'Ubaidah bin Sa'id bin Al 'Ash yang saat itu tubuhnya ditutupi dengan perlengkapan perang sehingga tidak terlihat dari tubuhnya melainkan kedua matanya. Dia biasa dipanggil dengan Abu Dzat Al Karisy. Aku menyerangnya dengan tombak lalu aku tusuk salah satu matanya hingga tewas. Hisyam berkata, aku pernah dikabarkan bahwa Az Zubair berkata; "Aku meletakkan kakiku pada badannya kemudian aku bentangkan. Sungguh sulit baginya untuk mencabut tombak itu karena ujungnya sudah bengkok". 'Urwah berkata; "Kemudian Rasulullah shallallahu 'alaihi wasallam meminta tombak itu darinya lalu dia memberikannya. Setelah Rasulullah shallallahu 'alaihi wasallam meninggal dunia tombak itu diambilnya kembali. Kemudian Abu Bakr mencarinya dan dia memberikan kepadanya. Tatkala Abu Bakr telah meninggal dunia, 'Umar meminta kepadanya lalu dia memberikannya kepada 'Umar. Dan setelah 'Umar meninggal dunia, tombak itu kembali diambilnya. Kemudian 'Utsman mencarinya darinya lalu dia memberikannya kepada 'Utsman. Setelah 'utsman terbunuh, tombak itu tersimpan pada keluarga 'Ali lalu Abdullah bin Az Zubair mengambilnya. Dan tombak itu terus bersamanya hingga Abdullah bin Az Zubair terbunuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3998</td></tr><tr><td>Arabic No</td><td>3998</td></tr><tr><td>Reference</td><td>Book 64 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хишама ибн ‘Урвы, что его отец ‘Урва ибн аз-Зубайр, да помилует его Аллах Всевышний, передал, что аз-Зубайр, да будет доволен им Аллах, сказал: «В день битвы при Бадре я встретился (на поле боя) с ‘Убайдой ибн Са‘идом ибн аль-‘Асом по прозвищу Абу Зат аль-Кариш, у которого были видны одни глаза, так как он был полностью закован в доспехи. Он сказал: “Я — Абу Зат аль-Кариш”, после чего я напал на него с дротиком, поразил его в глаз и он умер». Хишам передал, что ему сообщили, что аз-Зубайр сказал: «Я уперся ногой о его (тело) и стал вытаскивать (дротик), но и после этого мне пришлось приложить немало усилий, чтобы вытащить его, так как оба конца (этого дротика) были изогнуты».\n‘Урва сказал: «А потом (этот дротик) попросил у него Посланник Аллаха ﷺ, и он отдал его ему, когда же Посланник Аллаха ﷺ умер, (аз-Зубайр) взял его себе. Потом (этот дротик) попросил Абу Бакр, и он отдал его ему, когда же умер Абу Бакр, его попросил ‘Умар, и он отдал его ему, а после смерти ‘Умара (аз-Зубайр снова) взял его себе. Потом его попросил у него ‘Усман, и он отдал его ему, а после того как ‘Усмана убили, (этот дротик) оказался в семье ‘Али, и его попросил ‘Абдуллах ибн аз-Зубайр, у которого он и оставался, пока его не убили»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3998</td></tr><tr><td>Arabic No</td><td>3998</td></tr><tr><td>Reference</td><td>Book 64 Hadith 49</td></tr></tbody></table></div>
 

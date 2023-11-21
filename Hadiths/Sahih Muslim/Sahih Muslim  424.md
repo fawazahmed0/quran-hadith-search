@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rafi'] dan [Abd bin Humaid] keduanya saling mendekati dalam lafazh, Ibnu Rafi' berkata, telah menceritakan kepada kami, sedangkan Abd berkata, telah mengabarkan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] dia berkata, telah mengabarkan kepadaku [Sa'id bin al-Musayyab] dari [Abu Hurairah] dia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Semasa aku dibawa berjalan dalam peristiwa Isra', aku telah bertemu dengan Musa." Lalu Nabi memberikan gambaran mengenainya, 'Maka ternyata dia seorang lelaki -aku mengira beliau bersabda- yang tinggi sedang dan berambut ikal, seolah-olah dia seorang lelaki dari Kabilah Syanu'ah.' Beliau bersabda lagi: 'Dan aku telah berjumpa dengan Nabi Isa Alaihissalam.' Lalu beliau memberi gambaran mengenainya: 'Ternyata dia berwajah dan berperawakan sedang, berkulit merah, seakan-akan baru keluar dari bilik mandi.' Beliau bersabda lagi: 'Kemudian aku melihat Nabi Ibrahim Alaihissalam. Dan akulah keturunannya yang paling mirip dengannya. Lalu dibawa kepadaku dua bekas, salah satunya berisi susu dan satu lagi berisi arak. Dikatakan kepadaku, 'Ambillah mana saja yang kamu suka', lalu aku mengambil bekas yang berisi susu dan meminumnya. Kemudian Jibril berkata kepadaku, 'Kamu memang telah diberi petunjuk dengan fitrah atau kamu menepati fitrah, seandainya kamu mengambil arak, niscaya sesatlah umatmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>424</td></tr><tr><td>Arabic No</td><td>168</td></tr><tr><td>Reference</td><td>Book 1 Hadith 329</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда меня перенесли ночью (в Иерусалим), я встретил Мусу». (Абу Хурайра сказал): «И Пророк ﷺ описал его (так): “(Муса) был не тучен и не (слишком) худ, и у него были волнистые волосы, будто он являлся одним из членов [племени] шану‘а”. Пророк ﷺ (также) сказал: “И я встретил ‘Ису”, после чего описал его (так): “Он был (человеком) среднего роста с красной кожей будто (только что) вышел из бани”. (Пророк ﷺ также) сказал: “И я видел Ибрахима, на которого я похож больше любого другого из его потомков”. (Пророк ﷺ также) сказал: “И мне принесли два сосуда, в одном из которых было молоко, а в другом вино, и сказали: “Возьми, что хочешь!” Я взял молоко и выпил его, после чего (Джибриль) сказал (мне): “Ты был направлен к (тому, что соответствует) естеству (или: ты выбрал то, что соответствует естеству), а если бы ты взял вино, твоя община сбилась бы с пути”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>424</td></tr><tr><td>Arabic No</td><td>168</td></tr><tr><td>Reference</td><td>Book 1 Hadith 329</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Bisyr bin al-Hakam al-Abdi] telah menceritakan kepada kami [Abdul Aziz] -yakni ad-Darawardi- dari [Ibnu al-Had] dari [Muhammad bin Ibrahim] dari [Isa bin Thalhah] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian bangun dari tidurnya maka hendaklah dia beristintsar (mengeluarkan air dari hidung) tiga kali, karena setan bermalam pada batang hidungnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>564</td></tr><tr><td>Arabic No</td><td>238</td></tr><tr><td>Reference</td><td>Book 2 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Пусть каждый из вас трижды промывает нос после пробуждения ото сна, ибо, поистине, в ноздрях его ночует шайтан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>564</td></tr><tr><td>Arabic No</td><td>238</td></tr><tr><td>Reference</td><td>Book 2 Hadith 31</td></tr></tbody></table></div>
 

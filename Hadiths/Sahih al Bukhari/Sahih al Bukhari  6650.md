@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever swears saying in his oath.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam bin Yusuf] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Humaid bin 'Abdurrahman] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah dan dalam sumpahnya menyebut nama berhala Latta, atau Uzza, hendaklah ia ucapkan laa-ilaaha-illallah, dan barangsiapa mengatakan kepada kawannya 'Mari kita berjudi', hendaklah ia bersedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6650</td></tr><tr><td>Arabic No</td><td>6650</td></tr><tr><td>Reference</td><td>Book 83 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кто поклялся, сказав в своей клятве: “Клянусь (идолом) аль-Лят и аль-‘Уззой”, пусть скажет: “Нет бога, достойного поклонения, кроме Аллаха”, а кто сказал своему товарищу: “Давай сыграем в азартную игру”, пусть подаст милостыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6650</td></tr><tr><td>Arabic No</td><td>6650</td></tr><tr><td>Reference</td><td>Book 83 Hadith 29</td></tr></tbody></table></div>
 

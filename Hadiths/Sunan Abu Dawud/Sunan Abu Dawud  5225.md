@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated al-Wazi' ibn Zari': Umm Aban, daughter of al-Wazi' ibn Zari', quoting h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa bin Ath Thabba'] berkata, telah menceritakan kepada kami [Mathar bin 'Abdurrahman Al A'naq] berkata, telah menceritakan kepadaku [Ummu Aban bintil Wazi' bin Zari'] dari kakeknya [Zari'] saat itu ia sedang bersama rombongan utusan Abdu Qais, ia berkata, "Ketika kami tiba di Madinah, kami saling berlomba memacu kendaraan kami, lalu kami mencium tangan dan kaki beliau." Ia (perawi) berkata, "Al Mundzir Al Asyaj masih menunggu hingga tempat pakaiannya tiba, lalu ia kenakan pakaiannya tersebut. Setelah itu ia datang menemui Nabi shallallahu 'alaihi wasallam. Beliau lantas bersabda kepada Al Mundzir: "Sesungguhnya engkau mempunyai dua tabiat yang disukai oleh Allah dan rasul-Nya; santun dan sabar." Al Mundir bertanya, "Wahai Rasulullah, memang aku berakhlak demikian atau Allah yang memberikan itu kepadaku?" beliau menjawab: "Allah yang memberikan itu kepadamu." Al Mundzir berkata, "Segala puji milik Allah yang telah memberiku dua tabiat yang disukai oleh Allah dan rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5225</td></tr><tr><td>Arabic No</td><td>5225</td></tr><tr><td>Reference</td><td>Book 43 Hadith 453</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5225</td></tr><tr><td>Arabic No</td><td>5225</td></tr><tr><td>Reference</td><td>Book 43 Hadith 453</td></tr></tbody></table></div>
 

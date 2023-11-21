@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdourrahmân Ibn 'Abî Bakr (que Dieu soit satisfait Des deux), (Ceux
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbiri] dan [Hamid bin 'Umar Al Bakrawi] dan [Muhammad bin Abdul A'la Al Qaisi] seluruhnya dari [Al Mu'tamir] dan lafazh ini miliknya Ibnu Mu'adz; Telah menceritakan kepada kami [Al Mu'tamar bin Sulaiman] ia berkata; Berkata [Bapakku]; Telah menceritakan kepada kami [Abu 'Utsman]; telah menceritakan kepadanya ['Abdurrahman bin Abu Bakr] bahwasanya kaum Shuffah, (orang-orang yang tinggal di emperan masjid Nabawi), adalah orang-orang yang fakir. Pada suatu hari, Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa memiliki makanan untuk dua orang, maka makanlah dengan tiga orang. Barang siapa yang memiliki makanan untuk empat orang, maka makanlah oleh lima atau enam orang." Atau kira-kira demikianlah yang beliau sabdakan. Abu Bakar pernah datang bersama tiga orang, sedangkan Nabi Muhammad shallallahu 'alaihi wasallam datang bersama sepuluh orang. Sementara itu, tiga orang yang bersama Abu Bakar adalah saya, ayah saya dan ibu saya. (saya tidak tahu apakah ia menuturkan; istri saya dan pelayan di rumah kami dan rumah Abu Bakar). Abdurrahman berkata; 'Abu Bakar radliallahu 'anhu makan malam di tempat Rasulullah shallallahu 'alaihi wasallam dan ia pun belum pulang hingga usai shalat Isya. Sepertinya Rasulullah sudah mengantuk, lalu Abu Bakar pulang dan tiba di rumah setelah sebagian malam telah berlalu. Kemudian Abu Bakar ditanya istrinya; 'Wahai suamiku, mengapa kamu biarkan saja tamu-tamumu? ' Abu Bakar malah balik bertanya kepada istrinya; 'Apakah kamu belum memberi mereka makan malam? ' Istrinya menjawab; 'Mereka tidak mau makan sebelum kamu datang. Sebenarnya makanan itu telah dihidangkan, tetapi mereka tetap tidak mau makan juga.' Abdurrahman berkata; 'Lalu saya keluar untuk menyelinap.' Abu Bakar berkata; 'Hai Ghuntsar! ' Rupanya Abu Bakar berkata tidak enak (karena mencari saya) dan mempersilahkan para tamunya; 'Silahkan menikmati hidangan kami seadanya ini! ' Abu Bakar berkata; 'Demi Allah, saya tidak turut mencicipinya.' Abdurrahman berkata; 'Demi Allah, setiap kami mengambil sesuap dari makanan itu, maka makanan tersebut selalu bertambah banyak, hingga kami merasa kenyang dan makanan itu menjadi lebih banyak dari sebelumnya.' Melihat makanan yang tidak berkurang sama sekali atau bahkan bertambah banyak, maka Abu Bakar pun berkata kepada istrinya; 'Hai saudara perempuan Bani Firas, keajaiban apa ini? ' Istrinya menjawab; 'Demi buah hatiku, sungguh makanan itu bertambah banyak tiga kali lipat dari sebelumnya.' Abdurrahman berkata; "Abu Bakar hanya mencicipi sebagian makanan itu seraya mengatakan sesuatu kepada istrinya, 'Hai istriku, sesungguhnya sumpahmu itu dari syetan.' Ternyata Abu Bakar hanya mencicipi sesuap saja dari makanan tersebut. Setelah itu, dibawanya makanan itu kepada Rasulullah shallallahu 'alaihi wasallam, hingga ia berada di sisi beliau. Abdurrahman berkata; "Kami mempunyai perjanjian dengan suatu kaum sedangkan batas waktunya telah berlalu. Kemudian kami mempersilahkan dua belas orang untuk makan yang masing-masing disertai anak buah beberapa orang. Hanya Allahlah Yang Maha mengetahui berapa jumlah anak buah masing-masing dari dua belas orang tersebut. 'Abdurrahman berkata; "Yang jelas, masing-masing orang disertai beberapa anak buah. Mereka kemudian makan semuanya." (Kira-kira demikianlah yang dia sampaikan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5365</td></tr><tr><td>Arabic No</td><td>2057.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5365</td></tr><tr><td>Arabic No</td><td>2057.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 239</td></tr></tbody></table></div>
 

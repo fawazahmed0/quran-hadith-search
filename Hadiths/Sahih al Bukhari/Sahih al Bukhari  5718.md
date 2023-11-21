@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Oais:that she took to Allah's Messenger (ﷺ) one of her sons whose 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] telah mengabarkan kepada kami ['Attab bin Basyir] dari [Ishaq] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku ['Ubaidullah bin Abdullah] bahwa [Ummu Qais binti Mihshan] -dia termasuk dari wanita yang ikut hijrah pertama kali dan yang pernah berbai'at kepada Rasulullah shallallahu 'alaihi wasallam, dia juga termasuk saudara perempuannya 'Ukasah bin Mihshan- telah mengabarkan kepadanya, bahwa dirinya pernah mengunjungi Rasulullah shallallahu 'alaihi wasallam bersama anaknya yang baru saja diobati dengan cara memasukkan jari-jari ke kerongkongannya, lalu beliau bersabda: "Bertaqwalah kepada Allah, dengan maksud apa kamu mengobati penyakit tenggorokan anakmu dengan memasukkan jemari tangan? Gunakanlah kayu India ini, karena padanya terdapat tujuh ragam penyembuhan, di antaranya adalah penyembuh penyakit radang selaput dada." Yang dimaksud adalah Al Kust (dahan) atau Al Kusth (dahan), yaitu secara bahasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5718</td></tr><tr><td>Arabic No</td><td>5718</td></tr><tr><td>Reference</td><td>Book 76 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Кайс бинт Михсан рассказала, что (как-то раз) она привела к Посланнику Аллаха ﷺ своего сына, сжимая пальцами припухлость на воспалённом горле младенца, (надеясь, что нарыв прорвётся и ему станет легче). (Пророк ﷺ) сказал: «Побойтесь Аллаха, зачем вы (мучаете) своих детей этим надавливанием? Вам следует использовать этот индийский ладан, ибо оно исцеляет от семи недугов, один из которых — плеврит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5718</td></tr><tr><td>Arabic No</td><td>5718</td></tr><tr><td>Reference</td><td>Book 76 Hadith 35</td></tr></tbody></table></div>
 

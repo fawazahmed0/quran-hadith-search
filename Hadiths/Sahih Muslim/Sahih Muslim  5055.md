@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Shaddid b. Aus said:Two are the things which I remember Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Isma'il bin 'Ulayyah] dari [Khalid Al Khaddza'] dari [Abu Qilabah] dari [Abu Al Asy'ats] dari [Syaddad bin Aus] dia berkata, "Dua perkara yang selalu saya ingat dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya Allah telah mewajibkan supaya selalu bersikap baik terhadap setiap sesuatu, jika kamu membunuh maka bunuhlah dengan cara yang baik, jika kamu menyembelih maka sembelihlah dengan cara yang baik, tajamkan pisaumu dan senangkanlah hewan sembelihanmu." Dan telah menceritakan kepada kami [Yahya bin Yahya] telah menceritakan kepada kami [Husyaim]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abdul Wahhab At Tsaqafi]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Nafi'] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Muhammad bin Yusuf] dari [Sufyan]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Manshur] mereka semua dari [Khalid Al Khaddza'] dengan sanad dan makna yang sama dengan hadits Ibnu 'Ulayyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5055</td></tr><tr><td>Arabic No</td><td>1955.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5055</td></tr><tr><td>Arabic No</td><td>1955.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 84</td></tr></tbody></table></div>
 

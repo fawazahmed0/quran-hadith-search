@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "I have been made victorious with th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Adam] telah bercerita kepada kami [Syu'bah] dari [Al Hakam] dari [Mujahid] dari [Ibnu 'Abbas radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Aku ditolong dengan perantaraan angin yang berhembus dari timur (belakang pintu Ka'bah) sedangkan kaum 'Aad dibinasakan dengan angin yang berhembus dari barat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3205</td></tr><tr><td>Arabic No</td><td>3205</td></tr><tr><td>Reference</td><td>Book 59 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Победа была дарована мне посредством (ветра) ас-Саба, а (племя) ‘ад было погублено (ветром) ад-Дабур»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3205</td></tr><tr><td>Arabic No</td><td>3205</td></tr><tr><td>Reference</td><td>Book 59 Hadith 16</td></tr></tbody></table></div>
 

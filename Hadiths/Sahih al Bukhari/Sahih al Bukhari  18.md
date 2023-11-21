@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit: who took part in the battle of Badr and was a Naqi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepada kami [Abu Idris 'Aidzullah bin Abdullah], bahwa ['Ubadah bin Ash Shamit] adalah sahabat yang ikut perang Badar dan juga salah seorang yang ikut bersumpah pada malam Aqobah, dia berkata; bahwa Rasulullah shallallahu 'alaihi wasallam bersabda ketika berada ditengah-tengah sebagian sahabat: "Berbai'atlah kalian kepadaku untuk tidak menyekutukan Allah dengan sesuatu apapun, tidak mencuri, tidak berzina, tidak membunuh anak-anak kalian, tidak membuat kebohongan yang kalian ada-adakan antara tangan dan kaki kalian, tidak bermaksiat dalam perkara yang ma'ruf. Barangsiapa diantara kalian yang memenuhinya maka pahalanya ada pada Allah dan barangsiapa yang melanggar dari hal tersebut lalu Allah menghukumnya di dunia maka itu adalah kafarat baginya, dan barangsiapa yang melanggar dari hal-hal tersebut kemudian Allah menutupinya (tidak menghukumnya di dunia) maka urusannya kembali kepada Allah, jika Dia mau, dimaafkannya atau disiksanya". Maka kami membai'at Beliau untuk perkara-perkara tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>18</td></tr><tr><td>Arabic No</td><td>18</td></tr><tr><td>Reference</td><td>Book 2 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал:\n— Мне сообщил Абу Идрис ‘АизуЛлах ибн ‘Абдуллах о том, что ‘Убада ибн ас-Самит, да будет доволен им Аллах, который участвовал в битве при Бадре и являвшегося одним из старшин в ночь ‘Акъабы, сказал:\n«Однажды, когда вокруг Посланника Аллаха ﷺ собралась группа его сподвижников, он сказал им: “Поклянитесь мне в том, что не станете поклоняться наряду с Аллахом ничему, не станете воровать, прелюбодействовать, убивать своих детей, распространять ложь, измышленную вашими сердцами, и отказываться от повиновения(, когда вам будут приказывать совершать) одобряемое (шариатом). Аллах наградит тех из вас, кто будет верен этой клятве, а для того, кто совершит какой-либо из этих (грехов) и будет наказан в мире этом, наказание послужит искуплением. Если же кто-то совершит какой-либо из этих (грехов), а Аллах покроет его (грех), то Аллах и будет решать, и если пожелает, то простит его, а если пожелает, накажет его”».(‘Убада сказал): «И мы поклялись ему в этом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>18</td></tr><tr><td>Arabic No</td><td>18</td></tr><tr><td>Reference</td><td>Book 2 Hadith 11</td></tr></tbody></table></div>
 

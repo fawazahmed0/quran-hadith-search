@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Um Al-'Ala:An Ansari woman who gave the pledge of allegiance to the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Ibrahim bin Sa'ad] telah mengabarkan kepada kami [Ibnu Syihab] dari [Kharijah bin Zaid bin Tsabit] bahwa [Ummu Al 'Ala'] seorang wanita dari mereka yang telah berba'iat kepada Nabi shallallahu 'alaihi wasallam mengabarkan kepadanya, bahwa 'Utsman bin Madz'un keluar menemui mereka ketika orang-orang Anshar tengah mengadakan undian tentang tempat tinggal orang-orang Muhajirin." Ummul 'Ala' berkata, "Selanjutnya Utsman bin Madz'un mengeluhkan sakitnya di sisi kami kemudian kami merawatnya sampai ketika dia meninggal kami menyelimutinya dengan bajunya, kemudian datanglah Rasulullah shallallahu 'alaihi wasallam kepada kami, dan akupun berkata, "Semoga rahmat Allah senantiasa di curahkan kepadamu wahai Abu As Sa'ib. Aku bersaksi atas kamu. Sungguh, Allah telah memuliakanmu." Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Dari mana kamu tahu bahwa Allah telah memuliakannya?" Ummul 'Ala' berkata, "Maka aku menjawab, "Bapak dan ibuku sebagai tebusanmu wahai Rasulullah, Aku tidak tahu." Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Kematian dari Rabbnya telah datang kepadanya, aku berharap dia mendapatkan kebaikan. Demi Allah, meskipun aku seorang Nabi, aku tidak tahu apa yang akan aku dapatkan." Ummu 'Ala' lalu berkata, "Demi Allah, aku tidak akan lagi memuji seseorang setelahnya, sehingga hal itu membuat aku sedih. Kemudian aku tidur dan diperlihatkan kepadaku dalam mimpi bahwa 'Utsman mendapatkan mata air yang mengalir, aku lalu bergegas mendatangi Rasulullah shallallahu 'alaihi wasallam dan menceritakan hal itu kepadanya, beliau bersabda: "Itu adalah amalan Utsman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3929</td></tr><tr><td>Arabic No</td><td>3929</td></tr><tr><td>Reference</td><td>Book 63 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Хариджа ибн Зейд ибн Сабит передаёт, что однажды Умм аль-‘Аля, женщина из числа ансаров, которая дала Пророку ﷺ клятву на верность исламу, сказала, что когда ансары распределили мухаджиров на постой по жребию, им достался ‘Усман ибн Маз‘ун. Она сказала: «Через некоторое время он заболел, и я ухаживала за ним до тех пор, пока он не умер. После (того как он умер), мы завернули его в его же одежду, и к нам пришёл Пророк ﷺ, а я сказала: “Да помилует тебя Аллах, о Абу-с-Са‘иб! Свидетельствую, что Аллах почтил тебя!” (Услышав эти слова,) Пророк ﷺ спросил: “Откуда тебе знать, (что Аллах почтил его)?” Я сказала: “Я не знаю, да станет мой отец выкупом за тебя, о Посланник Аллаха, а кому же ещё (Аллах окажет почёт)?!” Тогда Посланник Аллаха ﷺ сказал: “Что касается ‘Усмана, то, клянусь Аллахом, он скончался, и, поистине, я желаю ему блага, однако клянусь Аллахом и в том, что не знаю, что будет сделано с ним, хотя я и посланник Аллаха!”». \nУмм аль-‘Аля сказала: «И, клянусь Аллахом, с тех пор я больше ни о ком не говорю так». (Умм аль-‘Аля) сказала: «Меня это расстроило, и (во сне) я увидела текущий родник, принадлежавший ‘Усману (ибн Маз‘уну). И я пришла к Посланнику Аллаха ﷺ и сообщила ему об этом, и он сказал: “Это его деяния, (которые непрерывно текут к нему)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3929</td></tr><tr><td>Arabic No</td><td>3929</td></tr><tr><td>Reference</td><td>Book 63 Hadith 154</td></tr></tbody></table></div>
 

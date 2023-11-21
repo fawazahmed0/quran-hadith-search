@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qabisa b. al-Mukhariq and Zuhair b. 'Amr reported:When this verse was revealed:"
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil al-Jahdari] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [at-Taimi] dari [Abu Utsman] dari [Qabishah bin al-Mukhariq] dan [Zuhair bin Amru] keduanya berkata, "Ketika turun ayat: '(Dan berilah peringatan kepada keluargamu yang dekat) ' (Qs. Asy Syu'ara': 214). Dia berkata, 'Nabi shallallahu 'alaihi wasallam bertolak ke bebatuan di gunung, lalu menaiki batu yang paling tinggi, kemudian berseru: 'Wahai bani Abd Manaf, sesungguhnya aku pemberi peringatan, sesungguhnya perumpamaanku dan kalian adalah seperti perumpamaan seorang laki-laki melihat musuh, lalu beranjak menjaga keluarganya, lalu dia khawatir musuhnya mendahuluinya, lalu dia mulai berteriak, 'Wahai sahabat-sahabatku'." Dan telah menceritakan kepadaku [Muhammad bin Abd al-A'la] telah menceritakan kepadaku [al-Mu'tamir] dari [bapaknya] telah menceritakan kepadaku [Abu Utsman] dari [Zuhair bin Amru] dan [Qabishah bin Mukhariq] dari Nabi shallallahu 'alaihi wasallam dengan semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>506</td></tr><tr><td>Arabic No</td><td>207.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 412</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Кабиса ибн аль-Мухарик и Зухайр ибн ‘Амр рассказали: «Когда был ниспослан (аят, в котором сказано): “И увещевай своих ближайших родственников” (Сура «аш-Шу‘ара», аят 214), Пророк Аллаха ﷺ отправился к груде скал, поднялся на самый высокий камень и воззвал: “О бану ‘абд манаф, поистине, я увещеватель! Я с вами подобен человеку, который увидел врага и пошёл высматривать врага, чтобы уберечь свою семью, испугался, что враг опередит его, (напав на них) и стал взывать: “Йа сабаха-ху!” (фраза, которая говорится, когда предупреждают о приближении врагов)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>506</td></tr><tr><td>Arabic No</td><td>207.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 412</td></tr></tbody></table></div>
 

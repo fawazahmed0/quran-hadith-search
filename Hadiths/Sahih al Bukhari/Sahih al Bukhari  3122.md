@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said, "Booty has been made 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Sinan] telah bercerita kepada kami [Husyaim] telah mengabarkan kepada kami [Sayyar] telah bercerita kepada kami [Yazid Al Faqir] telah bercerita kepada kami [Jabir bin 'Abdullah radliallahu 'anhuma] berkata; Rasulullah Shallallahu'alaiwasallam bersabda: "Dihalalkan untukku ghanimah (harta Rampasan perang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3122</td></tr><tr><td>Arabic No</td><td>3122</td></tr><tr><td>Reference</td><td>Book 57 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ сказал: “Мне была дозволена военная добыча”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3122</td></tr><tr><td>Arabic No</td><td>3122</td></tr><tr><td>Reference</td><td>Book 57 Hadith 31</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "Your life in comparison to the lifet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Sufyan] Telah menceritakan kepadaku [Abdullah bin Dinar] ia berkata, Aku mendengar [Ibnu Umar] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya perumpamaan jaman kalian dan jaman umat-umat sebelum kalian, hanyalah bagaikan jarak atara shalat Ashar dan terbenamnya matahari. Sedang perumpamaan kalian dengan ummat Yahudi dan Nashrani, adalah seperti seorang yang memperkerjakan beberapa orang pekerja seraya berkata, 'Siapa yang berkerja untukku hingga pertengahan hari, maka baginya adalah satu Qirath.' Maka kaum Yahudi pun beramal. Kemudian sang juragan itu pun berkata lagi, 'Siapa yang bekerja untukku dan sejak pertengahan hari hingga Ashar, maka baginya satu Qirath.' Maka orang-orang Nashrani pun bekerja. Lalu kalian bekerja dari sejak Ashar hingga Maghrib tiba dengan ganjaran dua Qirath. Maka mereka pun protes, 'Kamilah yang paling banyak bekerja, akan tetapi ganjaran kami paling sedikit.' Sang juragan pun berkata, 'Apakah aku menzhalimi hak kalian barang sedikit pun? ' mereka menjawab, 'Tidak.' Ia berkata, 'Itulah kelebihan-Ku, yang Aku berikan kepada siapa saja yang Aku maui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5021</td></tr><tr><td>Arabic No</td><td>5021</td></tr><tr><td>Reference</td><td>Book 66 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Поистине, время вашего существования по сравнению с теми общинами, которые были до вас, подобно промежутку между послеполуденной молитвой /‘аср/ и закатом солнца. Вас, иудеев и христиан можно сравнить с работниками, которых нанял человек и сказал: “Кто поработает на меня с утра до полудня за один кырат (награды)?” И за работу взялись иудеи. Затем он сказал: “Кто поработает на меня с полудня до молитвы ‘аср за один кырат?” И за работу взялись христиане. Затем вы стали работать с молитвы ‘аср до захода солнца за два кырата. (Иудеи и христиане) сказали: “Мы работали больше, но получили плату меньше?” И Аллах сказал: “А разве Я обделил вас как-то в вашем праве?” Они ответили: “Нет”. Он сказал: “Это — милость Моя, даю её тому, кому пожелаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5021</td></tr><tr><td>Arabic No</td><td>5021</td></tr><tr><td>Reference</td><td>Book 66 Hadith 43</td></tr></tbody></table></div>
 

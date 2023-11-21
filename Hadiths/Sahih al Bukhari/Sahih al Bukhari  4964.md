@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When the Prophet (ﷺ) was made to ascend to the Heavens, he said 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syaiban] Telah menceritakan kepada kami [Qatadah] dari [Anas] radliallahu 'anhu, Ia berkata; Ketika Nabi shallallahu 'alaihi wasallam mengalami peristiwa Mi'raj ke langit, beliau pun bersabda: "Aku mendatangi telaga, pada kedua tepinya terdapat Qubah berongga yang terbuat dari mutiara. Maka aku pun bertanya, 'Apa ini wahai Jibril? ' Ia menjawab, 'Ini adalah Al Kautsar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4964</td></tr><tr><td>Arabic No</td><td>4964</td></tr><tr><td>Reference</td><td>Book 65 Hadith 486</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «После того как Пророк ﷺ был вознесён на небо (и вернулся,) он сказал: “(Там) я пришёл к реке, на берегах которой находились шатры из полого жемчуга, и спросил: “Что это, о Джибрил?” Он сказал: “Это — Каусар”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4964</td></tr><tr><td>Arabic No</td><td>4964</td></tr><tr><td>Reference</td><td>Book 65 Hadith 486</td></tr></tbody></table></div>
 

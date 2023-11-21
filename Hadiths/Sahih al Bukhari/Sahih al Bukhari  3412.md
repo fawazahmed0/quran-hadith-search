@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "None of you should say that I am bet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Sufyan] berkata telah bercerita kepadaku [Al A'masy]. Dan diriwayatkan pula, telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Sufyan] dari [Al A'masy] dari [Abu Wa'il] dari ['Abdullah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Jangan sekali-kali seseorang dari kalian berkata bahwa aku (Muhammad shallallahu 'alaihi wasallam) lebih baik dari Nabi Yunus 'alaihi salam". Musaddad menambahkan; "Yunus bin Matta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3412</td></tr><tr><td>Arabic No</td><td>3412</td></tr><tr><td>Reference</td><td>Book 60 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Пусть никто из вас не говорит, что я лучше Йунуса». Мусаддад добавил: «Йунуса сына Матты»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3412</td></tr><tr><td>Arabic No</td><td>3412</td></tr><tr><td>Reference</td><td>Book 60 Hadith 85</td></tr></tbody></table></div>
 

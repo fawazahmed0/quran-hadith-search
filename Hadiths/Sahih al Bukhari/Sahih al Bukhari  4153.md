@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:I said to Sa'id bin Al-Musaiyab, "I have been informed that Jabi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ash Shalt bin Muhammad] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Sa'id] dari [Qatadah]; "Aku berkata kepada [Sa'id bin Al Musayyab]; "Telah sampai kepadaku berita bahwa [Jabir bin Abdullah] berkata, bahwa saat itu (peristiwa Hudaibiyyah) mereka berjumlah seribu empat ratus orang." Lantas Sa'id berkata kepadaku; telah menceritakan kepadaku Jabir bahwa jumlah mereka seribu lima ratus orang, yaitu mereka yang berbai'at kepada Nabi shallallahu 'alaihi wasallam pada peristiwa Hudaibiyyah." Hadits ini juga diperkuat oleh [Abu Daud] telah menceritakan kepada kami [Qurrah] dari [Qatadah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4153</td></tr><tr><td>Arabic No</td><td>4153</td></tr><tr><td>Reference</td><td>Book 64 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Катада сказал: «Я сказал Са’иду ибн аль-Мусаййибу: “Мне сообщили, что Джабир ибн ‘Абдуллах сказал, что (в день Худайбиййи) их было тысяча четыреста человек”. Са’ид ответил мне: “Джабир рассказал мне, что тех, кто присягнул Пророку ﷺ в день Худайбиййи было полторы тысячи”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4153</td></tr><tr><td>Arabic No</td><td>4153</td></tr><tr><td>Reference</td><td>Book 64 Hadith 197</td></tr></tbody></table></div>
 

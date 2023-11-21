@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Wa'il reported:A person came to 'Abdullah b. Mas'ud and said: I recited all 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] -[Ibnul Mutsanna]- berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Amru bin Murrah] bahwa ia mendengar [Abu wa'il] menceritakan; bahwa seorang laki-laki menemui [Ibnu Mas'ud] seraya berkata, "Tadi malam saya membaca Al Mufashshal (surat-surat yang berada di antara surat Qaaf -atau Hujurat- hingga akhir mushhaf) seluruhnya dalam satu raka'at." Maka Abdullah pun berkata, "Cepatnya beliau membaca adalah seperti pembacaan sya'ir yang jauh dari ketergesa-gesaan." Abdullah berkata; "Saya telah mengetahui An Nazha'ir (surat-surat yang hampir sama baik panjangnya atau pun maknanya), yang mana Rasulullah shallallahu 'alaihi wasallam membacanya." Lalu ia pun menyebutkan dua puluh surat dari Al Mufashshal. Yakni dua surat dua surat pada setiap raka'atnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1913</td></tr><tr><td>Arabic No</td><td>822.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 341</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис с другим иснадом подобен предыдущему, но с небольшими изменениями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1913</td></tr><tr><td>Arabic No</td><td>822.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 341</td></tr></tbody></table></div>
 

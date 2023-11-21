@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The son of Abu Said al-Khudri reported on the authority of his father that Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ghassan Al Misma'I Malik bin Abdulwahid] telah menceritakan kepada kami [Bisyr bin Al Mufadhdhal] telah menceritakan kepada kami [Suhail bin Abu Shalih] berkata: Aku mendengar seorang [anak Abu Sa'id Al Khudri] menceritakan dari [ayahnya] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Bila salah seorang dari kalian menguap hendaklah ditutupi dengan tangannya karena sesungguhnya setan masuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7491</td></tr><tr><td>Arabic No</td><td>2995.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7491</td></tr><tr><td>Arabic No</td><td>2995.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 74</td></tr></tbody></table></div>
 

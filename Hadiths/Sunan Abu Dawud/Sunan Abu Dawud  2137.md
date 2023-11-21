@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah said The Apostle of Allaah(ﷺ) sent for his wives during his illness.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Marhum bin Abdul Aziz Al 'Aththar], telah menceritakan kepadaku [Abu Imran Al Jauni] dari [Yazid bin Babanus] dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam mengirimkan utusan kepada para isterinya ketika beliau sedang sakit, kemudian mereka berkumpul, lalu beliau berkata: "Sesungguhnya aku tidak mampu untuk berkeliling diantara kalian, maka apabila kalian mengizinkan aku untuk berada di sisi Aisyah, maka lakukanlah." Kemudian mereka mengizinkan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2137</td></tr><tr><td>Arabic No</td><td>2137</td></tr><tr><td>Reference</td><td>Book 12 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ во время своей предсмертной болезни послал за своими жёнами и, когда они собрались, он сказал им: «Поистине, я не могу обходить вас, и, если вы разрешите, я останусь у ‘Аиши». И они разрешили ему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2137</td></tr><tr><td>Arabic No</td><td>2137</td></tr><tr><td>Reference</td><td>Book 12 Hadith 92</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "When the (upper) edge of the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad] telah mengabarkan kepada kami ['Abdah] dari [Hisyam bin 'Urwah] dari [bapaknya] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika alis (bagian lingkar luar) matahari mulai terbit janganlah kalian shalat hingga terang (selesai masa terbitnya), dan jika alis matahari mulai terbenam janganlah kalian shalat hingga benar-benar telah hilang (terbenam), dan janganlah kalian menunggu untuk shalat saat terbitnya matahari atau saat terbenamnya, karena saat seperti itu dia terbit pada dua tanduk syaitan", ('Abdah bin Sulaiman) berkata; "atau asy-syaitan (definitive), aku tidak tahu mana yang dikatakan oleh Hisyam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3273</td></tr><tr><td>Arabic No</td><td>3273</td></tr><tr><td>Reference</td><td>Book 59 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И не стремитесь молиться во время восхода солнца и во время его захода, потому что оно восходит меж двух рогов шайтана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3273</td></tr><tr><td>Arabic No</td><td>3273</td></tr><tr><td>Reference</td><td>Book 59 Hadith 82</td></tr></tbody></table></div>
 

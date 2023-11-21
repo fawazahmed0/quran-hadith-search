@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -49,6 +51,20 @@ Narrated 'Ali:The Prophet (ﷺ) sent me to supervise the (slaughtering of) Budn 
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] berkata, telah mengabarkan kepada saya [Ibnu Abu Najih] dari [Mujahid] dari ['Abdurrahman bin Abu Laila] dari ['Ali radliallahu 'anhu] berkata: "Rasulullah shallallahu 'alaihi wasallam mengutusku, lalu aku sampai pada hewan qurbanku, maka beliau memerintahkan aku, kemudian aku membagi-bagikan daging qurban tersebut. Kemudian Beliau memerintahkanku pula agar membagikan pelana unta qurban dan juga kulitnya". [Sufyan] berkata; dan telah menceritakan kepada saya ['Abdul Karim] dari [Mujahid] dari ['Abdurrahman bin Abu Laila] dari ['Ali radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam memerintahkanku agar aku berada (menyaksikan hewan qurbannya) dan membagi-bagikan qurban namun aku tidak boleh memberikan apapun dari hewan qurban itu kepada tukang jagalnya
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716</td></tr><tr><td>Arabic No</td><td>1716</td></tr><tr><td>Reference</td><td>Book 25 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Пророк ﷺ отправил меня заниматься его жертвенными животными и приказал мне раздать их мясо, а затем он приказал мне раздать их попоны и шкуры»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716</td></tr><tr><td>Arabic No</td><td>1716</td></tr><tr><td>Reference</td><td>Book 25 Hadith 194</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Пророк ﷺ велел мне следить за жертвенными животными и ничего не давать мясникам за убой скота»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716.2</td></tr><tr><td>Arabic No</td><td>1716.2</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
 ## Tamil
 

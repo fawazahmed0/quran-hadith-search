@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:'Umar used to make me sit with the elderly men who had fough
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] Telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata; Suatu ketika Umar mengajakku masuk berkumpul bersama para syaikh pemuka-pemuka Badar, dan sepertinya, sebagian dari mereka memendam sesuatu pada dirinya. Maka salah seorang dari mereka pun bertanya, "Kenapa Anda mengikutsertakan anak ini bersama kami, padahal kami juga memiliki anak-anak yang sebaya dengannya?" Maka Umar pun berkata, "Sesungguhnya anak itu mempunyai kecerdasan tersendiri seperti yang telah kalian kenal." Kemudian pada suatu hari, Umar memangilnya dan mengingutsertakannya bersama mereka. Ibnu Abbas berkata; Aku tahu, bahwa tidak ada maksud lain Umar memanggilku, kecuali untuk memperlihatkan aku pada mereka. Umar berkata, "Bagaimanakah pendapat kalian berkenaan dengan ayat ini: 'IDZAA JAA'A NASHRULLAHI WAL FATH.'" Maka sebagian dari mereka berkata, "Kita diperintahkan untuk memuji Allah dan meminta maghfirah-Nya, yakni ketika kita diberi pertolongan dan kekuatan untuk menaklukkan suatu negeri." Lalu sebagian yang lain diam tak berkata sepatah kata pun. Setelah itu, Umar bertanya padaku, "Apakah seperti itu juga pendapatmu wahai Ibnu Abbas?" Aku menjawab, "Tidak." Umar bertanya lagi, "Lalu bagaimanakah pendapatmu?" Aku menjawab, "Hal itu terkait dengan ajal Rasulullah shallallahu 'alaihi wasallam, Allah telah memberitahukan padanya. Firman Allah: 'IDZAA JAA'A NASHRULLAHI WAL FATH.' Itu adalah alamat akan ajalmu. 'FASABBIH BIHAMDI RABBIKA WAS TAGHFIRHU INNAHU KAANA TAWWAABAA (Karena itu, sucikanlah Rabbu dengan memuji-Nya. Dan mintalah ampunan dari-Nya, sesungguhnya Dia Maha Menerima taubat).'" Umar berkata, "Tidak ada jawaban yang lebih tepat, kecuali apa yang telah kamu katakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4970</td></tr><tr><td>Arabic No</td><td>4970</td></tr><tr><td>Reference</td><td>Book 65 Hadith 492</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «‘Умар приглашал меня к себе вместе со старцами, принимавшими участие в битве при Бадре. (В конце концов) это, похоже, вызвало гнев одного из них, и он спросил ‘Умара: “Почему он входит (к тебе) вместе с нами, ведь он не старше наших сыновей?!” (В ответ им) ‘Умар сказал: “Вы же знаете о его положении!” И однажды он позвал меня вместе с ними, и я думаю, что в тот день он сделал это лишь для того, чтобы показать им. ‘Умар спросил: “Что вы можете сказать о словах Аллаха “Когда придёт помощь Аллаха и победа…”?” Один из (присутствовавших) ответил: “Нам было велено воздавать хвалу Аллаху и просить Его о прощении, когда нам будет оказана помощь и дарована победа”, — другие же промолчали, не сказав ничего. Тогда он обратился (с вопросом) ко мне: “И ты скажешь то же самое, о Ибн ‘Аббас?” Я ответил: ”Нет”. Он спросил: “Что же ты скажешь?” Я ответил: “Здесь (имеется в виду) срок (жизни) Посланника Аллаха ﷺ, о (близости завершения которого) сообщил Аллах. (Аллах) сказал, что “Когда придёт помощь Аллаха и победа“, это будет признаком (близости) твоего срока, и тогда “… прославляй Господа твоего хвалою и проси у Него прощения, ведь Он — Приемлющий покаяние””. (Выслушав мой ответ,) ‘Умар сказал: “Я (тоже) ничего не знаю об этой суре, кроме того, что говоришь ты”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4970</td></tr><tr><td>Arabic No</td><td>4970</td></tr><tr><td>Reference</td><td>Book 65 Hadith 492</td></tr></tbody></table></div>
 

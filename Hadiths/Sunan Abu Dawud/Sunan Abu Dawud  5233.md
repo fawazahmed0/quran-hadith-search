@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuAbdurRahman al-Fihri: I was present with the Messenger of Allah at t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah mengabarkan kepada kami [Ya'la bin Atha] dari [Abu Hammam Abdullah bin Yasar] bahwa [Abu 'Abdurrahman Al Fihri] berkata, "Aku pernah mengikuti perang Hunanin bersama Rasulullah shallallahu 'alaihi wasallam, lalu kami berjalan di hari yang sangat panas. Kemudian kami singgah di bawah pohon yang ridang, saat matahari telah condong ke arah barat aku segera mengenakan peralatan perangku dan naik ke atas kuda. Setelah itu aku mendatangi Rasulullah shallallahu 'alaihi wasallam di dalam kemahnya. Aku katakan kepada beliau, "Wahai Rasulullah, Assalamu Alaika wa rahmatullahi wa Barakatuh. Sesungguhnya waktu berangkat telah tiba." Beliau menjawab, "Benar." Setelah itu beliau berkata kepada Bilal: "Wahai Bilal, segeralah bangun." Maka Bilal pun bangun dari bawah pohon Samurah, seakan-akan bayangannya seperti bayangan burung. Bilal menjawab, "Aku penuhi panggilanmu dengan senang hati, dan aku sebagai tebusanmu." Rasulullah kemudian bersabda: "Pasanglah pelana kudaku." Bilal lalu mengeluarkan mngeluarkan pelana yang terbuat dari tumpukan rerumputan yang tidak ada bekas keburukan dan kesombongan. Beliau kemudian menaiki tungganyanya dan kami mengikutinya…. lalu ia menyebutkan hadits selengkapnya." Abu Dawud berkata, "Abu 'Abdurrahman Al Fihri tidak mempunyai hadits kecuali hanya ini, dan ini adalah hadits yang bagus; diriwayatkan oleh Hammad bin Salamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5233</td></tr><tr><td>Arabic No</td><td>5233</td></tr><tr><td>Reference</td><td>Book 43 Hadith 461</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5233</td></tr><tr><td>Arabic No</td><td>5233</td></tr><tr><td>Reference</td><td>Book 43 Hadith 461</td></tr></tbody></table></div>
 

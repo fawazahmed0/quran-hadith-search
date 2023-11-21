@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), Gabriel vint trouver l'Envoyé de Di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] dan [Ibnu Numair] mereka berkata; Telah menceritakan kepada kami [Ibnu Fudhail] dari ['Umarah] dari [Abu Zur'ah] dia berkata; Aku mendengar [Abu Hurairah] berkata; "Pada suatu ketika Jibril pernah datang kepada Rasulullah shallallahu 'alaihi wasallam sambil berkata; Ya Rasulullah ini dia Khadijah. Ia datang kepada engkau dengan membawa wadah berisi lauk pauk (baik itu makanan ataupun minuman). Oleh karena itu, apabila ia datang kepada engkau, maka sampaikanlah salam dari Allah Subhanahu wa Ta'ala dan dariku kepadanya. Selain itu, beritahukan pula kepadanya bahwa rumahnya di surga terbuat dari emas dan perak, yang disana tidak ada kebisingan dan kepayahan di dalamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6273</td></tr><tr><td>Arabic No</td><td>2432</td></tr><tr><td>Reference</td><td>Book 44 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6273</td></tr><tr><td>Arabic No</td><td>2432</td></tr><tr><td>Reference</td><td>Book 44 Hadith 103</td></tr></tbody></table></div>
 

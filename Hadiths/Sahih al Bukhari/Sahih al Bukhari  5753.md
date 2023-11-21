@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "There is neither 'Ad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Utsman bin Umar] telah menceritakan kepada kami [Yunus] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada 'adwa (keyakinan adanya penularan penyakit) tidak ada thiyarah (menganggap sial sesuatu hingga tidak jadi beramal), dan adakalanya kesialan itu terdapat pada tiga hal, yaitu; isteri, tempat tinggal dan kendaraan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5753</td></tr><tr><td>Arabic No</td><td>5753</td></tr><tr><td>Reference</td><td>Book 76 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Не (передаётся) зараза (иначе как по воле Аллаха), и не (является дурным предзнаменованием полёт) птиц, а злополучие (может быть связано) лишь с тремя вещами: женщиной, домом и верховым животным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5753</td></tr><tr><td>Arabic No</td><td>5753</td></tr><tr><td>Reference</td><td>Book 76 Hadith 68</td></tr></tbody></table></div>
 

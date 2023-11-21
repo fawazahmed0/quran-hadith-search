@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) bought some foodstuff from a Jew on credit and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Al A'masy] berkata; "Kami pernah menceritakan dihadapan [Ibrahim] tentang menggadai sesuatu untuk pembayaran barang pada waktu yang akan datang, maka dia berkata: "Tidak ada dosa padanya". Kemudian dia menceritakan kepada kami dari [Al Aswad] dari ['Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam pernah membeli makanan dari orang Yahudi untuk masa yang akan datang, lalu Beliau menggadaikan baju besi Beliau (sebagai jaminan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2200</td></tr><tr><td>Arabic No</td><td>2200</td></tr><tr><td>Reference</td><td>Book 34 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ купил у иудея зерно в рассрочку, а в залог он оставил ему свою железную кольчугу
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2200</td></tr><tr><td>Arabic No</td><td>2200</td></tr><tr><td>Reference</td><td>Book 34 Hadith 147</td></tr></tbody></table></div>
 

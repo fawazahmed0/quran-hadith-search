@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abbas: Sa'd bin 'Ubada Al-Ansari sought the verdict of Allah's Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah] dari [Ibnu Abbas] bahwasanya ia mengatakan, Sa'ad bin Ubadah Al Anshari pernah meminta fatwa Rasulullah Shallallahu'alaihiwasallam tentang nadzar ibunya yang meninggal sebelum menunaikan nadzarnya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Penuhilah nadzarnya". Sebagian orang mengatakan bahwa jika unta mencapai dua puluh ekor sehingga ia berkewajiban membayar zakat empat ekor kambing, lalu dia menghibahkan unta itu sebelum haul, atau menjualnya dengan niat atau siasat agar tidak terkena wajib zakat, maka tidak ada denda atasnya, demikian pula jika ia menyembunyikannya terus meninggal, maka tidak ada denda dalam hartanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6959</td></tr><tr><td>Arabic No</td><td>6959</td></tr><tr><td>Reference</td><td>Book 90 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, что когда Са‘д ибн ‘Убада аль-Ансари обратился к Посланнику Аллаха ﷺ с вопросом относительно обета его матери, которая скончалась, не успев выполнить его, Посланник Аллаха ﷺ сказал: «Выполни этот обет за неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6959</td></tr><tr><td>Arabic No</td><td>6959</td></tr><tr><td>Reference</td><td>Book 90 Hadith 6</td></tr></tbody></table></div>
 

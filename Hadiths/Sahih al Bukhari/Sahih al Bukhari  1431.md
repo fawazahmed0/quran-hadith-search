@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) went out for the 'Id prayer on the 'Id day
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Adiy] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Nabi Shallallahu'alaihiwasallam keluar pada hari 'Ied lalu shalat dua raka'at dan Beliau tidak shalat lain sebelum maupun sesudahnya, kemudian Beliau mendatangi jama'ah wanita bersama Bilal, lalu Beliau memberikan nasehat dan memerintahkan mereka untuk bershadaqah. Maka diantara mereka ada yang memberikan gelang dan antingnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1431</td></tr><tr><td>Arabic No</td><td>1431</td></tr><tr><td>Reference</td><td>Book 24 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ вышел в день праздника разговения и совершил молитву в два рак‘ата, и он не совершал молитву ни до неё, ни после неё. Затем он отправился к женщинам вместе с Билялем, обратился к ним с проповедью, в которой приказал им давать милостыню. И женщины начали бросать браслеты и кольца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1431</td></tr><tr><td>Arabic No</td><td>1431</td></tr><tr><td>Reference</td><td>Book 24 Hadith 34</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that 'Abdullah b. Ubayy b. Salul had two slave-girls; one was cal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Abu Awanah] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir], budak wanita milik Abdullah bin Ubai bin Salul bernama Musaikah, ada juga yang menyebut Umaimah, dipaksa berzina lalu ia melaporkan hal itu kepada nabi Shallallahu 'alaihi wa Salam kemudian Allah menurunkan: "Dan janganlah kamu paksa budak-budak wanitamu untuk melakukan pelacuran" sampai "Maha Pengampun lagi Maha Penyayang (kepada mereka) sesudah mereka dipaksa itu." (An Nuur:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7553</td></tr><tr><td>Arabic No</td><td>3029.02</td></tr><tr><td>Reference</td><td>Book 56 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7553</td></tr><tr><td>Arabic No</td><td>3029.02</td></tr><tr><td>Reference</td><td>Book 56 Hadith 31</td></tr></tbody></table></div>
 

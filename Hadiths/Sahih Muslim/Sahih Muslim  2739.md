@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr (Allah be pleased with both of them) reported Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] -Zuhair berkata- Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Amru bin Dinar] dari [Amru bin Aus] dan [Abdullah bin Amru] radliallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Puasa yang paling dicintai Allah adalah puasa Dawud, sedangkan shalat yang paling disukai Allah adalah juga shalat Nabi Dawud 'Alaihis Salam, ia tidur hingga pertengahan malam, kemudian bangun (shalat lail) pada waktu seperti malam, lalu ia tidur pada seperenamnya. Kemudian ia berpuasa sehari dan berbuka sehari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2739</td></tr><tr><td>Arabic No</td><td>1159.11</td></tr><tr><td>Reference</td><td>Book 13 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2739</td></tr><tr><td>Arabic No</td><td>1159.11</td></tr><tr><td>Reference</td><td>Book 13 Hadith 245</td></tr></tbody></table></div>
 

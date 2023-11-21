@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) Three traditions were established conc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abdullah] ia berkata; Telah menceritakan kepadaku [Malik] dari [Rabi'ah bin Abdu Abdurrahman] dari [Al Qasim bin Muhammad] dari [Aisyah] radliallahu 'anha isteri Nabi shallallahu 'alaihi wasallam, ia berkata; Sesungguhnya pada diri Barirah terdapat tiga sunnah. Yang pertama; Bahwa ia telah dimerdekakan dan diberi tawaran untuk memilih terhadap suaminya. Kemudian kedua; Rasulullah shallallahu 'alaihi wasallam pernah bersabda terkait dengannya: "Sesungguhnya Al Wala' (hak waris budak dan nasab) itu adalah bagi yang telah memerdedakakan." Yang ketiga; Suatu ketika Rasulullah shallallahu 'alaihi wasallam masuk, sementara periuk sedang direbus dengan daging. Namun yang disuguhkan kepada beliau saat itu adalah roti dan lauk dari rumah. Maka beliau pun bertanya: "Bukankah tadi aku melihat periuk yang berisikan daging." Maka mereka menjawab, "Ya, benar, akan tetapi daging itu adalah daging yang disedekahkan kepada Barirah, sementara Anda tidak makan harta sedekah." Akhirnya beliau pun bersabda: "Bagi Barirah adalah sedekah, sementara untukku adalah hadiah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5279</td></tr><tr><td>Arabic No</td><td>5279</td></tr><tr><td>Reference</td><td>Book 68 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, жена Пророка ﷺ сказала: «С Барирой связаны три сунны (предписания шариата). (Во-первых), после освобождения ей был предоставлен выбор (остаться с мужем или расстаться с ним). (Во-вторых), Посланник Аллаха ﷺ сказал (в отношении неё): “Право наследовать вольноотпущенника /аль-уаля/ принадлежит тому, кто освободил его”. (В-третьих), однажды, когда Посланник Аллаха ﷺ вошёл домой, на огне кипел котёл с мясом, ему же принесли хлеб с домашней приправой. Он спросил: “Разве я не видел (на огне) котёл (с мясом)?” Ему ответили: “Да, но это мясо было дано Барире в качестве милостыни, а ты ведь не ешь то, что было дано в качестве милостыни”. Тогда он сказал: “Для неё это милостыня, а для нас подарок”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5279</td></tr><tr><td>Arabic No</td><td>5279</td></tr><tr><td>Reference</td><td>Book 68 Hadith 28</td></tr></tbody></table></div>
 

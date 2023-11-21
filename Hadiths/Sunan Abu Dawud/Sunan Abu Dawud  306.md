@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Rabi'ah said:Umm Habibah daughter of Jahsh had a prolonged flow of blood. The Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'bah] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepada kami [Al-Laits] dari [Rabi'ah] bahwasanya dia tidak berpendapat bahwa wanita mustahadlah harus berwudlu pada setiap kali shalat kecuali apabila dia berhadats selain darah, maka dia harus berwudhu. Abu Dawud berkata; Ini perkataan Malik bin Anas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>306</td></tr><tr><td>Arabic No</td><td>306</td></tr><tr><td>Reference</td><td>Book 1 Hadith 306</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают от Раби‘а о том, что он считал, что женщина с хроническим кровотечением не обязана совершать омовение /вудуъ/ для каждой молитвы, если у нее не нарушилось омовение, не считая появление крови, после которого она должна совершить омовение.Абу Дауд сказал: «Это высказывание принадлежит Малику, то есть Ибн Анасу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>306</td></tr><tr><td>Arabic No</td><td>306</td></tr><tr><td>Reference</td><td>Book 1 Hadith 306</td></tr></tbody></table></div>
 

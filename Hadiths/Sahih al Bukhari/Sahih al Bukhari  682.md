@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hamza bin 'Abdullah:My father said, "When Allah's Messenger (ﷺ) becam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] dari [Hamzah bin 'Abdullah] ia mengabarkan kepadanya dari [Bapaknya] ia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam semakin parah sakitnya, dan disampaikan kepadanya tentang shalat berjama'ah. Maka beliau berkata, "Suruhlah Abu Bakar untuk memimpin shalat orang-orang." 'Aisyah berkata, "Abu Bakar itu hatinya sangat lembut, jika membaca Al Qur'an maka ia akan menangis." Beliau berkata lagi: "Suruhlah dia untuk memimpin shalat." Lalu 'Aisyah kembali mengulanggi jawabannya. Maka beliau pun bersabda: "Suruhlah dia untuk memimpin shalat. Kalian ini seperti isteri-isteri Yusuf!" Hadits ini dikuatkan oleh [Az Zubaidi], [Ibnu Akhi Az Zuhri] dan [Ishaq bin Yahya Al Kalbi] dari [Az Zuhri]. ['Uqail] dan [Ma'mar] menyebutkan dari [Az Zuhri] dari [Hamzah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>682</td></tr><tr><td>Arabic No</td><td>682</td></tr><tr><td>Reference</td><td>Book 10 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хамзы ибн ‘Абдуллах о том, что его отец (‘Абдуллах ибн ‘Умар ибн аль-Хаттаб, да будет доволен Аллах ими обоими,) сказал: «Когда болезнь Посланника Аллаха ﷺ усилилась, его спросили о намазе и он сказал: “Велите Абу Бакру, чтобы он проводил намазы с людьми”. (Услышав это,) ‘Аиша, да будет доволен ею Аллах, сказала: “Поистине, Абу Бакр — человек мягкосердечный, и он не в силах сдерживать слёзы, когда читает Коран!”, — (однако) он (снова) сказал: “Велите ему, чтобы он проводил намазы!” Но ‘Аиша повторила (то, что сказала и тогда) он сказал: “Велите ему, чтобы он проводил намазы! Поистине, вы (подобны) увидевшим Юсуфа!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>682</td></tr><tr><td>Arabic No</td><td>682</td></tr><tr><td>Reference</td><td>Book 10 Hadith 76</td></tr></tbody></table></div>
 

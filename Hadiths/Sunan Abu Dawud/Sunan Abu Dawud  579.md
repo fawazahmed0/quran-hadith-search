@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Sulayman, the freed slave of Maymunah, said: I came 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Husain] dari [Amru bin Syu'aib] dari [Sulaiman bin Yasar, mantan sahaya Maimunah] dia berkata; Saya pernah datang kepada [lbnu Umar] sewaktu dia sedang duduk di atas lantai, sementara keluarganya tengah mengerjakan shalat (berjama'ah). Saya berkata; Kenapa kamu tidak ikut shalat bersama mereka? Ibnu Umar mejawab; Saya telah mengerjakan shalat, saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mengerjakan satu shalat itu dua kali dalam sehari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>579</td></tr><tr><td>Arabic No</td><td>579</td></tr><tr><td>Reference</td><td>Book 2 Hadith 189</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сулейман ибн Ясар, вольноотпущенник (жены Пророка ﷺ) Маймуны, сказал: «(Однажды) я пришёл к Ибн ‘Умару в Балат в то время, когда они совершали молитву и сказал: "А почему ты не молишься с ними?". (Ибн ‘Умар) ответил: “Я уже совершил молитву, и, поистине, я слышал, как Посланник Аллаха ﷺ говорил: “Не совершайте (одну и ту же) молитву два раза в день”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>579</td></tr><tr><td>Arabic No</td><td>579</td></tr><tr><td>Reference</td><td>Book 2 Hadith 189</td></tr></tbody></table></div>
 

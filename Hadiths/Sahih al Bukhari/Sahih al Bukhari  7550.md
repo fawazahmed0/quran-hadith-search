@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:I heard Hisham bin Hakim reciting Surat-al-Furqan 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibn Syihab] telah menceritakan kepadaku ['Urwah] bahwa [Miswar bin Makhramah] dan [Abdurrahman bin Abdul Qari] keduanya menceritakan kepadanya, bahwa ia mendengar [Umar bin Khattab] berkata, "Aku mendengar Hisyam bin Hakim membaca surat al Furqaan semasa Rasulullah shallallahu 'alaihi wasallam masih hidup, dan aku menikmati bacaannya. Ternyata dia membaca dengan dialek yang berbeda-beda yang Rasulullah shallallahu 'alaihi wasallam belum pernah membacakannya kepadaku sehingga hampir saja aku menarik kepalanya ketika shalat. Namun aku berusaha menahan kesabaranku hingga ia mengucapkan salam, lantas aku mengikatnya dengan pakaiannya dan aku tanyakan, 'Siapa yang mula-mula membacakan surat Al Qur'an kepadamu yang aku dengar engkau membacanya? ' Ia menjawab, 'Rasulullah shallallahu 'alaihi wasallam yang membacakannya kepadaku! Aku lalu berkata, 'Engkau dusta, sebab rasul membacakan kepadaku tidak seperti yang engkau baca.' Maka aku bawa Hisyam bin hakim kepada Rasulullah shallallahu 'alaihi wasallam dan aku laporkan, 'Aku telah mendengar orang ini membaca surat Al Qur'an tidak dengan dialek seperti yang engkau bacakan kepadaku.' Kemudian Rasulullah berkata: 'Lepaskan dia, bacalah ya Hisyam! ' Lantas Hisyam membaca bacaan yang sebelumnya aku mendengarnya, kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: 'Begitulah surat itu diturunkan! ' Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: 'Bacalah wahai Umar! ' Aku pun membaca sebagaimana yang beliau bacakan kepadaku, dan beliau juga berkomentar 'Begitulah surat Al Qur'an diturunkan, sesungguhnya surat Al Qur'an ini diturunkan dengan tujuh dialek, maka bacalah apa yang mudah bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7550</td></tr><tr><td>Arabic No</td><td>7550</td></tr><tr><td>Reference</td><td>Book 97 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Умара ибн аль-Хаттаба, что он сказал: «(Как-то раз) при жизни Посланника Аллаха ﷺ я проходил мимо Хишама ибн Хакима ибн Хизама, когда он читал суру “аль-Фуркъан”, и прислушавшись к его чтению (повнимательнее), оказалось, что он читает её многими такими способами, которым Посланник Аллаха ﷺ меня не учил. Я был готов наброситься на него (за это) во время намаза, однако сдержался (и подождал,) пока он не произнёс слова приветствия (в конце намаза), когда же он произнёс их, я схватил его за накидку и спросил: “Кто научил тебя читать ту суру, чтение которой я от тебя слышал?” Он сказал: “Читать её научил меня Посланник Аллаха ﷺ”. Я воскликнул: “Ты лжёшь, клянусь Аллахом, ибо это Посланник Аллаха ﷺ научил меня читать эту суру, которую читал ты!”. А потом я привёл его к Пророку ﷺ и сказал: “О Посланник Аллаха, поистине, я слышал, как этот (человек) читает суру “аль-Фуркъан” таким способом, каким ты меня не учил читать, а читать суру “аль-Фуркъан” учил меня ты”. (На это) Пророк ﷺ сказал: “Отпусти его, о ‘Умар, а ты читай, о Хишам!” — и он прочитал её (Пророку ﷺ точно) так же, как я (уже) слышал, после чего Пророк ﷺ сказал: “Так она и была ниспослана (мне)”. Потом Пророк ﷺ сказал мне: “(Теперь) читай ты, о ‘Умар!” — и я прочёл её так, как учил меня Пророк ﷺ, а Пророк ﷺ сказал: “Так она и была ниспослана (мне)”. Затем, Пророк ﷺ сказал: “Поистине, этот Коран был ниспослан (так, что его можно читать) семью способами, читайте же его так, как вам будет легче”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7550</td></tr><tr><td>Arabic No</td><td>7550</td></tr><tr><td>Reference</td><td>Book 97 Hadith 175</td></tr></tbody></table></div>
 

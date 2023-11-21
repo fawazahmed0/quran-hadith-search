@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported the Messenger of Allah (ﷺ) as saying:No owner of ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Abdul Malik] dari [Abu Zubair] dari [Jabir bin Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidaklah seorang yang mempunyai unta, sapi atau pun kambing lalu ia tidak menunaikan haknya, melainkan nanti pada hari kiamat akan didudukkan di suatu tanah datar, lalu akan diinjak-injak oleh ternak-ternak yang memiliki kuku dengan kukunya dan ditanduk dengan tanduknya. Pada hari itu tidak ada hewan yang tidak bertanduk, dan tidak ada pula yang patah tanduknya." Kami pun bertanya, "Ya Rasulullah, apakah haknya?" beliau menjawab: "Membibitkan jantannya, menternakkan betinanya, memerah susunya, membawanya ke air, dan mempergunakannya di jalan Allah. Tidak seorang pun pemilik harta yang tidak membayar zakatnya, melainkan hartanya itu berubah menjadi ular besar yang botak, yang mengikuti pemiliknya ke mana saja ia pergi, sedangkan dia sendiri selalu lari dari ular itu. lalu dikatakanlah kepadanya: 'Inilah hartamu yang kamu bakhil dengannya.' Setelah dia tahu bahwa dia tidak dapat lari dari ular itu, maka dimasukkannya tangannya ke mulut ular itu, lalu ular itu menggigitnya seperti hewan jantan menggigit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2297</td></tr><tr><td>Arabic No</td><td>988.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Джабира ибн ‘Абдуллаха, что Пророк ﷺ сказал: «Каждого владельца верблюдов, коров и овец, не выполняющего их права, посадят перед ними на широкой равнине, и они начнут топтать его своими копытами и бодать рогами, и в этот день среди них не будет безрогих и имеющих сломанные рога». Мы спросили: «О Посланник Аллаха, а какого их право?». Он ответил: «Предоставлять самца (для покрытия самки), отдавать ведро их в бесплатное пользование, давать напрокат скотину, дающую много молока, поить молоком (людей проходящих) мимо водопоя и давать их в пользование (для езды) на пути Аллаха. И для каждого владельца имущества, не выплачивавшему с него закят, оно предстанет в День Воскресения в образе плешивой змеи, которая будет везде следовать за ним, а он будет убегать от неё. Ему будет сказано: “Это твоё имущество, в отношении которого ты проявлял скупость”. Когда же человек поймёт, что ему не спастись (от этой змеи), он засунет свою руку ей в рот и она станет кусать её так, как кусает верблюд»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2297</td></tr><tr><td>Arabic No</td><td>988.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 34</td></tr></tbody></table></div>
 

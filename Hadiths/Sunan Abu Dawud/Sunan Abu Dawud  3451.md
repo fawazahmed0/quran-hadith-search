@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The people said: Messenger of Allah , prices have shot 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami ['Affan], telah menceritakan kepada kami [Hammad bin Maslamah], telah mengabarkan kepada kami [Tsabit] dari [Anas bin Malik] dan [Qatadah], serta [Humaid] dari [Anas], orang-orang berkata; wahai Rasulullah, harta telah melonjang, maka tetapkanlah harga untuk kami! Maka beliau berkata: "Sesungguhnya Allahlah yang menentukan harga, Yang menggenggam dan Yang menghamparkan, dan Pemberi rizqi. Dan sungguh aku berharap berjumpa dengan Allah sementara tidak ada seorang pun dari kalian yang menuntutku karena suatu kezhaliman dalam hal darah, dan harta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3451</td></tr><tr><td>Arabic No</td><td>3451</td></tr><tr><td>Reference</td><td>Book 24 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса, да будет доволен им Аллах, что люди сказали: «О Посланник Аллаха, цены повышаются, установи же ты цены для нас!» Однако Посланник Аллаха ﷺ сказал: «Поистине, Аллах Устанавливающий цены, и Он Удерживающий и Простирающий, и Он Дарующий пропитание. И, поистине, я надеюсь встретить Аллаха без того, чтобы кто-нибудь из вас вёл со мной тяжбу, связанную с кровью или имуществом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3451</td></tr><tr><td>Arabic No</td><td>3451</td></tr><tr><td>Reference</td><td>Book 24 Hadith 36</td></tr></tbody></table></div>
 

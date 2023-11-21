@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Hurmuz:Abu Hurairah (ra) said, "Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2430</td></tr><tr><td>Arabic No</td><td>2430</td></tr><tr><td>Reference</td><td>Book 45 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ упомянул (историю о) человеке из числа израильтян. Затем он рассказал хадис, в конце которого было: «Тем временем тот человек, который дал ему в долг вышел посмотреть: не прибыл ли корабль с его деньгами — вдруг он увидел доску, в которой были деньги. Он подобрал её, чтобы использовать в качестве дров. Распилив её, он обнаружил деньги с запиской»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2430</td></tr><tr><td>Arabic No</td><td>2430</td></tr><tr><td>Reference</td><td>Book 45 Hadith 5</td></tr></tbody></table></div>
 

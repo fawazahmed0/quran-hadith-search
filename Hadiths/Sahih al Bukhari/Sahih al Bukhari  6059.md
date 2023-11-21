@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:Once Allah's Messenger (ﷺ) divided and distributed (the wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Abu Wa'il] dari [Ibnu Mas'ud] radliallahu 'anhu dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah membagikan suatu bagian, lantas seorang laki-laki dari Anshar berkata; "Demi Allah, dalam hal ini Muhammad tidak mengharapkan wajah Allah." Lalu saya langsung mendatangi Rasulullah shallallahu 'alaihi wasallam dan mengabarkan kepada beliau, tiba-tiba wajah beliau berubah menjadi merah dan bersabda: "Semoga Allah merahmati Musa, sungguh dia lebih banyak disakiti daripada ini lalu dia bersabar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6059</td></tr><tr><td>Arabic No</td><td>6059</td></tr><tr><td>Reference</td><td>Book 78 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ разделил (между людьми военную добычу, и увидев это,) один человек воскликнул: “Поистине, такой раздел (был сделан) не ради Аллаха!” Тогда я пришёл к Пророку ﷺ и передал (ему слова этого человека. Выслушав меня, он) разгневался так, что я увидел этот гнев у него на лице, после чего он сказал: “Да помилует Аллах Мусу! Он подвергался ещё большим обидам, чем этим, но он терпел!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6059</td></tr><tr><td>Arabic No</td><td>6059</td></tr><tr><td>Reference</td><td>Book 78 Hadith 89</td></tr></tbody></table></div>
 

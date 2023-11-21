@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: A man came to the Prophet (ﷺ), and said: My wife 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Daud berkata; [Husain bin Huraits Al Marwazi] menulis surat kepadaku; telah menceritakan kepada kami [Al Fadhl bin Musa] dari [Al Husain bin Waqid] dari ['Umarah bin Abu Hafsh] dari [Ikrimah] dari [Ibnu Abbas], ia berkata; seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; istriku tidak menolak tangan orang yang menyentuhnya. Beliau menjawab: Ceraikanlah dia! Dia berkata lagi; aku khawatir diriku sangat berhasrat kepadanya (sangat mencintainya). Beliau berkata: "Kalau begitu, bersenang-senanglah dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2049</td></tr><tr><td>Arabic No</td><td>2049</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что один человек пришёл к Пророку ﷺ и сказал: «Поистине, моя жена не отстраняет руку прикасающегося!» Он сказал: «Отдали её». Этот человек сказал: «Я боюсь, что после этого меня будет тянуть к ней». (Пророк ﷺ) сказал: «Тогда наслаждайся ею (ещё некоторое время)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2049</td></tr><tr><td>Arabic No</td><td>2049</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada saya ['Abdan] berkata, telah mengabarkan kepada saya [
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1132.2</td></tr><tr><td>Arabic No</td><td>1132.2</td></tr><tr><td>Reference</td><td>Book 19 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрукъ сказал: «(Однажды) я спросил ‘Аишу, да будет доволен ею Аллах: “Какие (дела поклонения) Пророк ﷺ любил больше всего?” Она сказала: “(Те, которые совершались) постоянно”. Я спросил: “А когда он вставал?” Она ответила: “Обычно он вставал, услышав крик петуха”».\n(Имам аль-Бухари сказал):\n— Рассказал нам Мухаммад ибн Салям, который сказал: «Сообщил нам Абуль-Ахвас от аль-Аш‘аса, который сказал: “Услышав крик петуха, он вставал и начинал совершать молитву”»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1132</td></tr><tr><td>Arabic No</td><td>1132</td></tr><tr><td>Reference</td><td>Book 19 Hadith 12</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1132.2</td></tr><tr><td>Arabic No</td><td>1132.2</td></tr><tr><td>Reference</td><td>Book 19 Hadith 13</td></tr></tbody></table></div>

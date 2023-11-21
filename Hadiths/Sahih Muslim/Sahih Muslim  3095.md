@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported on the authority of his father (Allah be pleased with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Muhammad bin Al Mutsanna] keduanya berkata, Telah menceritakan kepada kami [Abdullah bin Numair] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Sa'id bin Yahya Al Umawi] telah menceritakan kepadaku [bapakku] semuanya berkata, Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Abdullah bin Abu Salamah] dari [Abdullah bin Abdullah bin Umar] dari [bapaknya] ia berkata; "Kami berangkat pagi-pagi bersama Rasulullah shallallahu 'alaihi wasallam dari Mina ke Arafah. Dalam rombongan kami, ada yang membaca talbiyah, dan ada pula yang membaca takbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3095</td></tr><tr><td>Arabic No</td><td>1284.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 300</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3095</td></tr><tr><td>Arabic No</td><td>1284.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 300</td></tr></tbody></table></div>
 

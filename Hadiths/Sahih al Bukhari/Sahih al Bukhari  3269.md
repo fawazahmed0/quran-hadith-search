@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "During your sleep, Satan kno
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il bin Abu Uwais] berkata telah bercerita kepadaku [saudaraku] dari [Sulaiman bin Bilal] dari [Yahya bin Sa'id] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Syaitan mengikat tengkuk kepala seseorang dari kalian saat dia tidur dengan tiga tali ikatan, syaitan mengikatnya sedemikian rupa sehingga setiap ikatan diletakkan pada tempatnya lalu (dikatakan) 'Kamu akan melewati malam yang sangat panjang maka tidurlah dengan nyenyak.' Jika dia bangun dan mengingat Allah maka lepaslah satu tali ikatan. Jika kemudian dia berwudlu' maka lepaslah tali yang lainnya dan bila ia mendirikan shalat lepaslah seluruh tali ikatan dan pada pagi harinya ia akan merasakan semangat dan kesegaran yang menenteramkan jiwa. Namun bila dia tidak melakukan seperti itu, maka pagi harinya jiwanya merasa tidak segar dan menjadi malas beraktifitas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3269</td></tr><tr><td>Arabic No</td><td>3269</td></tr><tr><td>Reference</td><td>Book 59 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда любой из вас засыпает, шайтан завязывает у него на затылке три узла, ударяя по каждому из них (и говоря): “Ночь твоя будет долгой, спи же!” И если (человек) проснётся и помянет Аллаха, то один узел развяжется, если он совершит омовение, развяжется (второй) узел, а если совершит молитву, развяжется (и третий), и человек проснётся утром бодрым и довольным, в противном же случае он встанет ото сна в дурном расположении духа и будет вялым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3269</td></tr><tr><td>Arabic No</td><td>3269</td></tr><tr><td>Reference</td><td>Book 59 Hadith 79</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:Allah's Messenger (ﷺ) gave us the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Abdurrahman] dari [Sufyan] dari [Ashim Al Ahwal] dan [Isma'il bin Abu Khalid] dari [As Sya'bi] dari [Masruq] dari ['Aisyah] dia berkata; Bahwa Rasulullah shallallahu 'alaihi wasallam pernah memberi pilihan (cerai atau tetap bersama), namun kami tetap memilih (menjadi istrinya), dan hal itu tidak dihitung sebagai talak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3687</td></tr><tr><td>Arabic No</td><td>1477.04</td></tr><tr><td>Reference</td><td>Book 18 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3687</td></tr><tr><td>Arabic No</td><td>1477.04</td></tr><tr><td>Reference</td><td>Book 18 Hadith 36</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) forbade two ways of wearing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [AL Laits] dari [Yunus] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku ['Amir bin Sa'd] bahwa [Abu Sa'id Al khudri] berkata; Rasulullah shallallahu 'alaihi wasallam melarang mengenakan dua pakaian dan dua transaksi jual beli, melarang mulamasah dan munabadzah dalam jual beli, sedangkan mulamasah adalah seseorang yang memegang pakaian orang lain pada malam hari atau siang hari dan tidak membalikkannya (memeriksanya) kecuali dengan itu, dan Munabadzah ialah seseorang melempar pakaiannya ke orang lain dan sebaliknya, lalu terjadilah transaksi jual beli tanpa boleh memeriksa dan juga kerelaan dari dua belah ihak. dan melarang mengenakan dua pakaian yaitu isytimalus shama', shama' ialah meletakkan (menggantungkan) pakaiannya disalah satu pundaknya dan membuka salah satu betisnya tanpa mengenakan pakaian (dalam) lainnya, dan yang lain adalah menutup (seluruh badannya) dengan kainnya sambil duduk, sementara kemaluannya tidak mengenakan apa-apa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5820</td></tr><tr><td>Arabic No</td><td>5820</td></tr><tr><td>Reference</td><td>Book 77 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил два способа ношения одежды и два вида продаж. В торговле он запретил такие её виды, как “аль-мулямаса” и “аль-мунабаза”. “Аль-мулямаса” — это когда человек дотрагивается до одежды, принадлежащей другому, будь то ночью или днём, без того чтобы рассматривать её. А “аль-мунабаза” – это когда два человека бросают одежду друг другу без возможности разглядеть её и без взаимного согласия. Что же касается двух способов ношения одежды, то это закутываться в свою одежду наглухо, когда человек заворачивается в одежду, закрепляя концы одежды на одном плече и оставляя открытым другой бок. А другой способ ношения одежды — это когда человек, сидя заворачивается в одежду, не прикрыв половые органы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5820</td></tr><tr><td>Arabic No</td><td>5820</td></tr><tr><td>Reference</td><td>Book 77 Hadith 37</td></tr></tbody></table></div>
 

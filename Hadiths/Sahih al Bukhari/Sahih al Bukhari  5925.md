@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I used to comb the hair of Allah's Messenger (ﷺ) during my per
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Urwah bin Zubair] dari [Aisyah] radliallahu 'anha dia berkata; "Saya pernah menyisir rambut Rasulullah shallallahu 'alaihi wasallam sementara diriku sedang haidl." Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Hisyam] dari [Ayahnya] dari [Aisyah] seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5925</td></tr><tr><td>Arabic No</td><td>5925</td></tr><tr><td>Reference</td><td>Book 77 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Не раз случалось так, что, когда у меня были месячные, я причёсывала Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5925</td></tr><tr><td>Arabic No</td><td>5925</td></tr><tr><td>Reference</td><td>Book 77 Hadith 140</td></tr></tbody></table></div>
 

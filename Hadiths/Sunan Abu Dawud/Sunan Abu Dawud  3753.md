@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah Ibn Abbas: When the verse: "O ye who believe! eat not up your 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi] telah menceritakan kepadaku [Ali bin Al Husain bin Waqid] dari [Ayahnya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Firman Allah: '(Janganlah kamu saling memakan harta sesamamu dengan jalan yang batil, kecuali dengan jalan perniagaan yang berlaku dengan suka sama-suka di antara kamu) ' (Qs. An Nisaa: 29), maka setelah ayat tersebut turun, seseorang merasa tidak enak untuk makan di rumah orang lain, kemudian hal tersebut dihapuskan oleh ayat yang ada dalam Surat An Nuur: '(dan tidak (pula) ada halangan bagi dirimu sendiri untuk makan (bersama-sama mereka) di rumah kamu sendiri atau di rumah bapak-bapakmu, di rumah ibu-ibumu, di rumah saudara- saudaramu yang laki-laki, di rumah saudaramu yang perempuan, di rumah saudara bapakmu yang laki-laki, di rumah saudara bapakmu yang perempuan, di rumah saudara ibumu yang laki-laki, di rumah saudara ibumu yang perempuan, di rumah yang kamu miliki kuncinya atau di rumah kawan-kawanmu. Tidak ada halangan bagi kamu makan bersama-sama mereka atau sendirian) '. Maka orang yang kaya mengundang seseorang dari keluarganya untuk makan. Ia berkata, "Sungguh aku merasa ada ganjalan untuk makan darinya." Tajannuh adalah perasaan mengganjal dalam hati. Ia berkata; orang miskin lebih berhak daripada diriku. Kemudian dihalalkan dalam hal tersebut untuk maka apa yang disebutkan padanya nama Allah, dan telah dihalalkan makanan ahli kitab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>3753</td></tr><tr><td>Reference</td><td>Book 28 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего «О те, которые уверовали! Не поедайте своего имущества между собой незаконно, а только путём торговли по обоюдному вашему согласию»: «После ниспослания этого аята люди не позволяли себе есть друг у друга. Тогда это предписание было отменено аятом из суры “ан-Нур”: “Не будет грехом для слепого, не будет грехом для хромого, не будет грехом для больного и для вас самих, если вы будете есть в ваших домах, или в домах ваших отцов, или в домах ваших матерей, или в домах ваших братьев, или в домах ваших сестёр, или в домах ваших дядей по отцу, или в домах ваших тёток по отцу, или в домах ваших дядей по матери, или в домах ваших тёток по матери, или в тех домах, ключи которых в вашем распоряжении, или в доме вашего друга. Не будет грехом для вас, если вы будете есть вместе или в отдельности”. Случалось, что состоятельный человек приглашал на угощение человека из числа своих родственников, а тот отказывался от приглашения, считая это неподобающим действием и думая, что бедняк имеет больше прав на это. Тогда было разрешено есть всё, над чем упомянуто имя Аллаха, а также еду людей Писания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>3753</td></tr><tr><td>Reference</td><td>Book 28 Hadith 18</td></tr></tbody></table></div>
 

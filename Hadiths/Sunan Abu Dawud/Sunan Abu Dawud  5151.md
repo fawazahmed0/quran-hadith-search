@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad] dari [Yahya bin Sa'id] dari [Abu Bakar bin Muhammad] dari [Amrah] dari ['Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jibril selalu memberiku nasihat agar aku berbuat baik kepada tetangga hingga aku berkata 'sungguh ia akan ikut mewarisi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6014) Sahih Muslim (2624)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5151</td></tr><tr><td>Arabic No</td><td>5151</td></tr><tr><td>Reference</td><td>Book 43 Hadith 379</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен Аллах ею обоими, что Посланник Аллаха ﷺ сказал: «Джибрил не прекращал давать мне наставления о необходимости хорошего отношения к соседу (так долго), что я даже подумал, что он включит его и в число наследников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6014) Sahih Muslim (2624)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5151</td></tr><tr><td>Arabic No</td><td>5151</td></tr><tr><td>Reference</td><td>Book 43 Hadith 379</td></tr></tbody></table></div>
 

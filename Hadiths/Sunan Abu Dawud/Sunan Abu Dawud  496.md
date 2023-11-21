@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has been narrated by Dawud b. Sawar al-Muzani through a different
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ammal bin Hisyam Al-Yasykuri] telah menceritakan kepada kami [Isma'il] dari [Sawwar Abu Hamzah] berkata Abu Dawud; Dia adalah Sawwar bin Dawud Abu Hamzah Al-Muzani Ash-Shairafi dari [Amru bin Syu'aib] dari [Ayahnya] dari [Kakeknya] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Perintahkanlah anak-anak kalian untuk melaksanakan shalat apabila sudah mencapai umur tujuh tahun, dan apabila sudah mencapai umur sepuluh tahun maka pukullah dia apabila tidak melaksanakannya, dan pisahkanlah mereka dalam tempat tidurnya." Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Waki'] telah menceritakan kepadaku [Dawud bin Sawwar Al-Muzani] dengan isnadnya dan maknanya dan dia menambahkan; (sabda beliau): "Dan apabila salah seorang di antara kalian menikahkan sahaya perempuannya dengan sahaya laki-lakinya atau pembantunya, maka janganlah dia melihat apa yang berada di bawah pusar dan di atas paha." Abu Dawud berkata; Waki' wahm dalam hal nama Sawwar bin Dawud. Dan hadits ini telah diriwayatkan oleh [Abu Dawud Ath-Thayalisi], dia berkata; Telah menceritakan kepada kami [Abu Hamzah Sawwar Ash-Shairafi]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ваки‘а о том, что Дауд ибн Саввар аль-Музани рассказывал ему хадис со смыслом и иснадом (предыдущего) с дополнением: «И если кто то из вас станет женить своего слугу или выдавать замуж свою служанку-рабыню, то пусть он (или она) не смотрит на то, что ниже пупка и выше колен (своего господина)».Абу Дауд сказал: «Ваки‘ ошибся в его имени и от него этот хадис передал Абу Дауд ат-Таялиси, который сказал: “Нам рассказал Абу Хамза Саввар ас-Сайрафи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
 

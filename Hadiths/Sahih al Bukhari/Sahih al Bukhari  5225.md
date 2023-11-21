@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:While the Prophet (ﷺ) was in the house of one of his wives, one 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Ibnu Ulayyah] dari [Humaid] dari [Anas] ia berkata; Suatu ketika Nabi shallallahu 'alaihi wasallam berada di tempat isterinya. Lalu salah seorang Ummahatul Mukminin mengirimkan hidangan berisi makanan. Maka isteri Nabi yang beliau saat itu sedang berada dirumahnya memukul piring yang berisi makanan, maka beliau pun segera mengumpulkan makanan yang tercecer ke dalam piring, lalu beliau bersabda: "Ibu kalian rupanya sedang terbakar cemburu." Kemudian beliau menahan sang Khadim (pembantu) hingga didatangkan piring yang berasal dari rumah isteri yang beliau pergunakan untuk bermukim. Lalu beliau menyerahkan piring yang bagus kepada isteri yang piringnya pecah, dan membiarkan piring yang pecah di rumah isteri yang telah memecahkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5225</td></tr><tr><td>Arabic No</td><td>5225</td></tr><tr><td>Reference</td><td>Book 67 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(Однажды, когда) Пророк ﷺ находился у одной из своих жён, одна из матерей правоверных послала (ему) блюдо с едой. И та жена, у которой находился Пророк ﷺ, ударила руку слуги так, что блюдо упало с его рук и раскололось. (Пророк же ﷺ) собрал осколки блюда и стал собирать в них еду, которая находилась в этой посуде, говоря при этом: “Приревновала ваша мать”. Затем он задержал посланца, пока та жена, в доме которой он был не принесла ему целое блюдо, и он передал его той, чьё блюдо было разбито, а разбитое оставил в доме, где оно было разбито»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5225</td></tr><tr><td>Arabic No</td><td>5225</td></tr><tr><td>Reference</td><td>Book 67 Hadith 158</td></tr></tbody></table></div>
 

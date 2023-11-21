@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama:When the Divine Revelation: "For those who can fast, they had a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Bakr bin Mudlar] dari [Amru bin Al Harits] dari [Bukair bin Abdullah] dari [Yazid] budak yang dimerdekakan Salamah bin Al Akwa' dari [Salamah] dia berkata; "Tatkala turun ayat; "Dan bagi orang-orang yang berat menjalankannya maka wajib membayar fidya yaitu memberi makan orang miskin, " adalah barang siapa yang ingin berbuka maka hendaklah membayar fidyah, hingga turunlah ayat setelahnya yang menasakh (menghapus) ayat tersebut. Abu Abdullah berkata; Bukair meninggal sebelum Yazid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4507</td></tr><tr><td>Arabic No</td><td>4507</td></tr><tr><td>Reference</td><td>Book 65 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма сказал: «После того как был ниспослан аят “А тем, которые способны поститься с трудом, следует в искупление накормить бедняка” (сура «аль-Бакара», аят 184) каждый из нас, кто не хотел соблюдать пост и намеревался искупить это, так и делал, и это продолжалось до тех пор, пока не был ниспослан следующий аят, который отменил это постановление»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4507</td></tr><tr><td>Arabic No</td><td>4507</td></tr><tr><td>Reference</td><td>Book 65 Hadith 34</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who called (people) to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ibnu Hujr], mereka berkata; telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far dari [Al 'Ala] dari [bapaknya] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Barang siapa mengajak kepada kebaikan, maka ia akan mendapat pahala sebanyak pahala yang diperoleh orang-orang yang mengikutinya tanpa mengurangi pahala mereka sedikitpun. Sebaliknya, barang siapa mengajak kepada kesesatan, maka ia akan mendapat dosa sebanyak yang diperoleh orang-orang yang mengikutinya tanpa mengurangi dosa mereka sedikitpun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6804</td></tr><tr><td>Arabic No</td><td>2674</td></tr><tr><td>Reference</td><td>Book 47 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Призывавший к правильному пути получит награду, равную наградам (всех) тех, кто последует за ним, что не уменьшит их собственных наград ни на йоту, а тот, кто призывал (других) к заблуждению, понесёт на себе (бремя) греха, равное (по тяжести бремени) грехов тех, кто последует за ним, что никак не облегчит (тяжести) их собственных грехов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6804</td></tr><tr><td>Arabic No</td><td>2674</td></tr><tr><td>Reference</td><td>Book 47 Hadith 30</td></tr></tbody></table></div>
 

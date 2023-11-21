@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara bin 'Azib:When Allah's Messenger (ﷺ) concluded a peace treaty
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] berkata, aku mendengar [Al Bara' bin 'azib radliallahu 'anhuma] berkata; Ketika Rasulullah shallallahu 'alaihi wasallam mengadakan perjanjian damai dengan penduduk Hudaibiyah, 'Ali bin Abu Thalib adalah juru tulis (sekretaris) yang menulis surat perjanjian yang dibuat diantara mereka, dalam ikrar itu dia menulis "Muhammad Rasulullah", maka kaum Musyrikin berkata: "Jangan kamu tulis "Muhammad Rasulullah", sebab seandainya kamu seorang rasul tentu kami tidak akan memerangimu". Maka Beliau berkata, kepada 'Ali: "Hapuslah". Maka 'Ali berkata: "Aku tidak mau menjadi orang yang menghapusnya". Maka Rasulullah shallallahu 'alaihi wasallam menghapusnya dengan tangan Beliau. Lalu Beliau membuat perjanjian dengan mereka, yang isinya Beliau dan para sahabat boleh memasuki kota selama tiga hari dan mereka tidak memasukinya kecuali dalam keadaan pedang-pedang mereka ditutupi (dalam sarung) ". Mereka bertanya kepada Beliau: Apa maksudnya menutupi senjata?" Maka Beliau menjawab: "Dimasukkan kedalam sarungnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2698</td></tr><tr><td>Arabic No</td><td>2698</td></tr><tr><td>Reference</td><td>Book 53 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: \n— Когда Посланник Аллаха ﷺ заключил мирное соглашение с жителями Худайбии, ‘Али ибн Абу Талиб написал в соглашение между ними: «Мухаммад — Посланник Аллаха». Многобожники сказали: «Не пиши: “Мухаммад — Посланник Аллаха”, ведь если ты был посланником, мы не сражались бы с тобой». Пророк ﷺ сказал ‘Али: «Сотри». ‘Али ответил: «Я не буду тем, кто будет это стирать». Тогда Посланник Аллаха ﷺ стёр её своей рукой и заключил с ними мирное соглашение с условием, что Пророк ﷺ и его сподвижники войдут в Мекку и пробудут там три дня, что они не войдут туда иначе как с ножнами». Люди спросили: «А что значит “с ножнами”?» Он (передатчик) ответил: «Оружие (должно было быть убрано) в ножны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2698</td></tr><tr><td>Arabic No</td><td>2698</td></tr><tr><td>Reference</td><td>Book 53 Hadith 8</td></tr></tbody></table></div>
 

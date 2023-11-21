@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I went up to the roof of Hafsa's house for some job
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah menceritakan kepada kami [Anas bin 'Iyadl] dari ['Ubaidullah] dari [Muhammad bin Yahya bin Hibban] dari [Wasi' bin Hibban] dari ['Abdullah bin 'Umar] berkata, "Aku pernah naik di rumah Hafshah karena suatu urusanku. Maka aku melihat Rasulullah shallallahu 'alaihi wasallam buang hajat membelakangi kiblat menghadap Syam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>148</td></tr><tr><td>Arabic No</td><td>148</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «(Однажды) я поднялся на крышу дома Хафсы по какому-то своему делу и увидел, как Посланник Аллаха ﷺ справлял нужду, повернувшись спиной в сторону киблы и лицом в сторону Шама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>148</td></tr><tr><td>Arabic No</td><td>148</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
 

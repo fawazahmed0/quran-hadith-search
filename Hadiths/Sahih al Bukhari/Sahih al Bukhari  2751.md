@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I heard Allah's Messenger (ﷺ) saying, "All of you are guard
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Bisyir bin Muhammad As-Sakhtiyaaniy] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhriy] berkata telah bercerita kepadaku [Salim] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap kalian adalah pemimpin dan akan diminta pertanggung jawaban atas yang dipimpinnya. Imam (kepala negara) adalah pemimpin yang akan diminta pertanggung jawaban atas rakyatnya. Seorang suami dalam keluarganya adalah pemimpin dan akan diminta pertanggung jawaban atas keluarganya. Seorang istri adalah pemimpin di dalam urusan rumah tangga suaminya dan akan diminta pertanggung jawaban atas urusan rumah tangga tersebut. Seorang pembantu dalam urusan harta tuannya adalah pemimpin dan akan diminta pertanggung jawaban atas urusan tanggung jawabnya tersebut". Dia (Ibnu 'Umar radliallahu 'anhuma) berkata: "Aku menduga Beliau juga bersabda: "Dan seorang anak laki-laki adalah pemimpin dalam uruan harta bapaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2751</td></tr><tr><td>Arabic No</td><td>2751</td></tr><tr><td>Reference</td><td>Book 55 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Каждый из вас является пастырем, и каждый из вас несёт ответственность за свою паству. Правитель является пастырем (для своих подданных) и несёт ответственность за свою паству, мужчина является пастырем для своей семьи и несёт ответственность за свою паству, женщина является пастырем в доме своего мужа и несёт ответственность за свою паству, слуга является пастырем для имущества своего хозяина и несет ответственность за свою паству”». (Передатчик этого хадиса) сказал: «И я считаю, что (Ибн ‘Умар, да будет доволен Аллах ими обоими, также) сказал: “…и мужчина является пастырем для имущества своего отца”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2751</td></tr><tr><td>Arabic No</td><td>2751</td></tr><tr><td>Reference</td><td>Book 55 Hadith 14</td></tr></tbody></table></div>
 

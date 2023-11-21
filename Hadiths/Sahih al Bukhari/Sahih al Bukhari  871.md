@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) prayed in the house of Um Sulaim; and I, along w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Ishaq bin 'Abdullah] dari [Anas bin Malik] radliallahu 'anhu, ia berkata, "Nabi shallallahu 'alaihi wasallam pernah melaksanakan shalat di rumah Ummu Sulaim, maka aku dan anak yatim ikut di belakang beliau sedangkan Ummu Sulaim berdiri di belakang kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>871</td></tr><tr><td>Arabic No</td><td>871</td></tr><tr><td>Reference</td><td>Book 10 Hadith 262</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах сказал: «Пророк ﷺ совершил молитву в доме Умм Сулейм, и я встал вместе с сиротой позади него, а Умм Сулейм встала позади нас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>871</td></tr><tr><td>Arabic No</td><td>871</td></tr><tr><td>Reference</td><td>Book 10 Hadith 262</td></tr></tbody></table></div>
 

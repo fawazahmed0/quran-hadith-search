@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) said, "The biggest sins are: To jo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] Telah mengabarkan kepada kami [An Nadhr] telah mengabarkan kepada kami [Syu'bah] telah menceritakan kepada kami [Firas] menuturkan; aku mendengar [Asy Sya'bi] dari [Abdullah bin Amru] dari Nabi shallallahu 'alaihi wasallam bersabda: "Dosa besar ialah menyekutukan Allah, durhaka kepada orangtua, membunuh, dan bersumpah palsu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6675</td></tr><tr><td>Arabic No</td><td>6675</td></tr><tr><td>Reference</td><td>Book 83 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Амра, да будет доволен им Аллах, что Пророк ﷺ сказал: «К числу тяжких грехов относятся придавание Аллаху сотоварища, проявление непочтительности по отношению к родителям, убийство человека и ложная клятва»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6675</td></tr><tr><td>Arabic No</td><td>6675</td></tr><tr><td>Reference</td><td>Book 83 Hadith 53</td></tr></tbody></table></div>
 

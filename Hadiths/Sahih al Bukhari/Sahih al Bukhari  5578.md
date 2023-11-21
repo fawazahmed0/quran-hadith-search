@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "An adulterer, at the time he is co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] dia berkata; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata; saya mendengar [Abu Salamah bin Abdurrahman] dan [Ibnu Musayyab] keduanya berkata, [Abu Hurairah] radliallahu 'anhu berkata; sesungguhnya Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang itu berzina, ketika sedang berzina dia dalam keadaan mukmin. Tidak pula seseorang itu minum khamer ketika sedang minum khamer ia dalam keadaan mukmin. Dan tidak pula seseorang itu mencuri ketika sedang mencuri ia dalam keadaan mukmin." [Ibnu Syihab] berkata; telah mengabarkan kepadaku pula [Abdul Malik bin Abu Bakr bin Abdurrahman bin Al Harits bin Hisyam] bahwa [Abu Bakr] pernah menceritakan kepadanya dari [Abu Hurairah], lalu dia berkata; "Abu Bakar menambahkan dalam hadits tersebut dengan redaksi; "Dan tidaklah seseorang merampas harta orang lain yang karenanya orang-orang memandangnya sebagai orang yang terpandang, ketika dia merampas harta tersebut dalam keadaan mukmin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5578</td></tr><tr><td>Arabic No</td><td>5578</td></tr><tr><td>Reference</td><td>Book 74 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда прелюбодей прелюбодействует, верующим он не является, и когда (кто-нибудь) пьёт вино, верующим он не является, и когда вор совершает кражу, верующим он не является».\nВ другой версии (этого хадиса, также передаваемой со слов Абу Хурайры, да будет доволен им Аллах, сообщается, что Пророк ﷺ сказал): «…и тот, кто на глазах у людей отнимает у других что-нибудь ценное, не является верующим, когда делает это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5578</td></tr><tr><td>Arabic No</td><td>5578</td></tr><tr><td>Reference</td><td>Book 74 Hadith 4</td></tr></tbody></table></div>
 

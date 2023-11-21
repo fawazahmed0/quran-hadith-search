@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Le Prophète arriva à Médine et s'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Syaiban bin Farrukh] keduanya meriwayatkan dari [Abdul Warits] berkata [Yahya], telah mengabarkan kepada kami [Abdul Warits bin Sa'id] dari [Abu at-Tayyah adh-Dhuba'i] telah menceritakan kepada kami [Anas bin Malik] "Bahwa Rasulullah shallallahu'alaihiwasallam tiba di dataran tinggi Madinah pada perkampungan Bani 'Amr bin 'Auf. Beliau tinggal di sana empat belas malam. Kemudian beliau mengirim utusan kepada pemimpin-pemimpin Bani Najjar, maka mereka datang dengan menyandang pedang." Kata Anas, "Seolah-olah aku melihat Rasulullah shallallahu'alaihiwasallam di atas kendaraannya sedangkan Abu Bakar berada di boncengannya, sedang para pemimpin Bani Najjar mengelilinginya di halaman Abu Ayyub." Pada masa itu Rasulullah shallallahu'alaihiwasallam shalat karena waktu shalat telah tiba, dan beliau shalat di tempat peristirahatan kambing. Kemudian beliau memerintahkan membangun masjid. Untuk itulah beliau mengundang para pemimpin Bani an-Najjar, sehingga mereka datang. Lalu Rasulullah shallallahu'alaihiwasallam bersabda, "Hai, Bani Najjar! Juallah kepadaku kebun Anda ini!" Mereka menjawab, "Tidak! Demi Allah! Kami tidak akan meminta harga ganti rugi, melainkan hanya kepada Allah." Anas berkata, "Di kebun itu ada pohon-pohon kurma, kuburan orang-orang musyrik, dan runtuhan bangun-bangunan. Karena itu Rasululah memerintahkan supaya menebang pohon-pohon kurma, membongkar kuburan, dan meratakan runtuhan bangunan-bangunan itu." Dia berkata lagi, "Sesudah itu mereka susun pohon-pohon kurma (menjadi bangunan) menurut arah kiblat, dan pinggiran pintunya dibuat dari batu." Kata Anas selanjutnya, "Mereka melantunkan syair sedangkan Rasulullah bersama mereka, "Ya Allah! Tidak ada kebaikan melainkan kebaikan di akhirat. Karena itu tolonglah kaum Anshar dan kaum Muhajirin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1173</td></tr><tr><td>Arabic No</td><td>524.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Прибыв в Медину, Посланник Аллаха ﷺ (сначала) остановился в верхней части города в квартале, где жили люди из рода бану ‘амр ибн ‘ауф. Среди них он прожил четырнадцать дней, после чего послал за старейшинами из рода бану ан-наджжар, которые явились к нему, опоясавшись мечами». (Анас) сказал: «Я будто и сейчас вижу Посланника Аллаха ﷺ, который сидел верхом на своей верблюдице, сидевшего в седле позади него Абу Бакра и старейшин бану ан-наджжар, окружавших (Пророка ﷺ), пока он не спешился во дворе дома Абу Айюба».(Анас) сказал: «Обычно Посланник Аллаха ﷺ молился там, где его заставало время молитвы, и (в такие моменты он делал это даже) в загонах для овец. А через некоторое время он велел построить мечеть и послал за старейшинами бану ан-наджжар. Когда те явились (к нему), он сказал: “О (предводители) бану ан-наджжар, назначьте мне цену за эту вашу стену”. Они ответили: “Нет, клянёмся Аллахом, мы потребуем плату за неё только от Аллаха!”».Анас сказал: «А на (том месте), о котором я говорю, находились пальмы, могилы многобожников и развалины. И Посланник Аллаха ﷺ велел вырубить пальмы и срыть могилы, а развалины сровнять с землёй».(Анас) сказал: «Потом (стволы срубленных) пальм поставили рядами (в направлении) кыйблы, а боковые подстенки выложили из камня».(Анас) сказал: «(Во время строительства люди), в том числе и Посланник Аллаха ﷺ, декламировали стихи стихи в размере раджаз, говоря: “О Аллах, нет блага, кроме блага мира вечного, помоги же ансарам и мухаджирам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1173</td></tr><tr><td>Arabic No</td><td>524.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 13</td></tr></tbody></table></div>
 

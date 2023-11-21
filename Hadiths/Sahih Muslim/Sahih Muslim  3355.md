@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir Ibn 'Abdoullâh (رضي الله عنهما), un bédouin prêta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Muhammad bin Al Munkadir] dari [Jabir bin Abdullah] bahwasanya; Ada seorang A'rabi (Arab dusun) yang berbai'at kepada Rasulullah shallallahu 'alaihi wasallam, lalu ia tertimpa sakit Wa'kun (demam yang sangat panas). Maka ia pun mendatangi Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Muhammad, terimalah pembatalan bai'atku." Namun Rasulullah shallallahu 'alaihi wasallam menolak. Kemudian Al A'rabi (arab badwi) itu datang lagi dan berkata, "Wahai Muhammad, terimalah pembatalan bai'atku." Tapi beliau tetap menolak. Di lain waktu, ia datang lagi dan berkata, "Wahai Muhammad, terimalah pembatalan bai'atku." Namun Nabi tetap tidak mau. Maka seorang A'rabi (arab badwi) itu pun keluar dari kota Madinah, dan Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaan kota Madinah adalah seperti tukang pandai besi, ia menghilangkan kotorannya dan membiarkan yang baik-baik saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3355</td></tr><tr><td>Arabic No</td><td>1383</td></tr><tr><td>Reference</td><td>Book 15 Hadith 559</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3355</td></tr><tr><td>Arabic No</td><td>1383</td></tr><tr><td>Reference</td><td>Book 15 Hadith 559</td></tr></tbody></table></div>
 

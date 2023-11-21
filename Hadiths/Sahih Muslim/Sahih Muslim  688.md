@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Aswad narrated it from 'A'isha that she observed:I used to wash the head of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Zaidah] dari [Manshur] dari [Ibrahim] dari [al-Aswad] dari [Aisyah] dia berkata, "Saya mencuci kepala Rasulullah shallallahu 'alaihi wasallam, sedangkan aku dalam keadaan haid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>688</td></tr><tr><td>Arabic No</td><td>297.05</td></tr><tr><td>Reference</td><td>Book 3 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Не раз случалось так, что, когда у меня были месячные, я мыла волосы Посланника Аллаха ﷺ».Глава: Женщина, у которой месячные берёт что-то из мечети
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>688</td></tr><tr><td>Arabic No</td><td>297.05</td></tr><tr><td>Reference</td><td>Book 3 Hadith 10</td></tr></tbody></table></div>
 

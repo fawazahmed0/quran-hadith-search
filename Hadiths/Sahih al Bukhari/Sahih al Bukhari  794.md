@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to say in his bowing and prostrations, "S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Abu Adl Dluha] dari [Masruq] dari ['Aisyah] ia berkata, "Nabi shallallahu 'alaihi wasallam membaca do'a dalam rukuk dan sujudnya dengan bacaan: "SUBHAANAKALLAHUMMA RABBANAA WA BIHAMDIKA ALLAHUMMAGHFIRLII (Maha suci Engkau wahai Tuhan kami, segala pujian bagi-Mu. Ya Allah, ampunilah aku)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>794</td></tr><tr><td>Arabic No</td><td>794</td></tr><tr><td>Reference</td><td>Book 10 Hadith 189</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Масрука, что ‘Аиша сказала: «Пророк ﷺ говорил, находясь в поясном и земном поклонах: “Субханакя-Ллахумма Рабанна уа бихамдик. Аллахумма-гфирли (Безупречен Ты, о Аллах, Господь наш, и хвала Тебе, о Аллах, прости меня)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>794</td></tr><tr><td>Arabic No</td><td>794</td></tr><tr><td>Reference</td><td>Book 10 Hadith 189</td></tr></tbody></table></div>
 

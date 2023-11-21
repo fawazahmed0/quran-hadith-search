@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Tamimah reported from a man of his tribe “The Prophet (ﷺ) heard a man sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ibrahim Al Bazzar], telah menceritakan kepada kami [Abu Nu'aim], telah menceritakan kepada kami [Abdussalam] yaitu Ibnu Harb, dari [Khalid Al Hadzdza'] dari [Abu Tamimah] dari [seorang laki-laki dari kaumnya] bahwa ia mendengar Nabi shallallahu 'alaihi wasallam beliau mendengar seorang laki-laki berkata kepada isterinya; wahai saudariku. Kemudian beliau melarangnya. Abu Daud berkata; dan hadits tersebut diriwayatkan oleh [Abdul Aziz bin Al Mukhtar] dari [Khalid] dari [Abu Utsman] dari [Abu Tamimah] dari Nabi shallallahu 'alaihi wasallam. Dan telah diriwayatkan oleh [Syu'bah] dari [Khalid] dari [seseorang] dari [Abu Tamimah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2211</td></tr><tr><td>Arabic No</td><td>2211</td></tr><tr><td>Reference</td><td>Book 13 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Тамима передаёт от одного своего соплеменника, что Пророк ﷺ услышал, как один человек сказал своей жене: «Сестрица!» и запретил ему говорить так
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2211</td></tr><tr><td>Arabic No</td><td>2211</td></tr><tr><td>Reference</td><td>Book 13 Hadith 37</td></tr></tbody></table></div>
 

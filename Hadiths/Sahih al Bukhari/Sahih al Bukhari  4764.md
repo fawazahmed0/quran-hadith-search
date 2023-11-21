@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:I asked Ibn 'Abbas about Allah's saying:-- '.. this re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepada kami [Manshur] dari [Sa'id bin Jubair] dia berkata; Aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhuma] tentang firman Allah: Maka balasannya adalah nerakan Jahannam. Ibnu Abbas berkata; 'Tidak ada taubat baginya.' Dan mengenai firman Allah: Dan orang-orang yang tidak menyembah tuhan yang lain beserta Allah. (Al Furqan: 68). Ibnu Abbas berkata; 'Ayat ini turun pada masa Jahiliyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4764</td></tr><tr><td>Arabic No</td><td>4764</td></tr><tr><td>Reference</td><td>Book 65 Hadith 286</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Джубейр сказал: «Однажды я спросил Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, о словах Всевышнего: “…его воздаянием будет Геенна”, и он ответил: “Нет ему покаяния”. Так же я спросил его о словах Аллаха: “…Они не взывают помимо Аллаха к другим богам…”, он ответил: “Этот аят был ниспослан относительно доисламского невежества”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4764</td></tr><tr><td>Arabic No</td><td>4764</td></tr><tr><td>Reference</td><td>Book 65 Hadith 286</td></tr></tbody></table></div>
 

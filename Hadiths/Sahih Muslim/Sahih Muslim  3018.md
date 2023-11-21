@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Hassan al-A'raj reported that a person from Bani Hujaim said to Ibn 'Abbas (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] - [Ibnul Mutsanna] berkata- Telah menceritakan kepada kami [Muhammad bin Ja'far] ia berkata, Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] ia berkata, saya mendengar [Abu Hassan Al A'raj] berkata; Seorang laki-laki dari Bani Al Hujam bertanya kepada [Ibnu Abbas], "Bagaimana dengan fatwa yang telah menyatu dengan hati banyak orang, bahwa siapa yang thawaf di Baitullah, maka ia telah tahallul." Ibnu Abbas berkata, "Sunnah Nabi kalian shallallahu 'alaihi wasallam, meskipun kalian tidak menyukainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3018</td></tr><tr><td>Arabic No</td><td>1244.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3018</td></tr><tr><td>Arabic No</td><td>1244.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 226</td></tr></tbody></table></div>
 

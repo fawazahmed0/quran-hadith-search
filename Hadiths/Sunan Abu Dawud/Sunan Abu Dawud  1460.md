@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ubayy b. Ka'b said:The Messenger of Allah (ﷺ) said: Abu al-Mundhir, which vers
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Al Mutsanna], telah menceritakan kepada Kami [Abdul A'la] telah menceritakan kepada Kami [Sa'id? bin Iyas] dari [Abu As Salil] dari [Abdullah bin Rabah Al Anshari] dari [Ubai bin Ka'b], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam: "Wahai Abu Al Mundzir, ayat apakah dari Kitab Allah paling besar menurutmu?" Saya katakan; Allah dan RasulNya yang lebih mengetahui. Beliau bertanya lagi: "Wahai Abul Mundzir ayat manakah yang kamu hafal dari Kitab Allah yang lebih besar menurutmu?" Aku menjawab; ALLAAHU LAA ILAAHA ILLAA HUWAL HAYYUL QAYYUUM" (ayat Kursi). Kemudian Rasulullah shallAllahu wa'alaihi wa sallam menepuk dadaku dan berkata: "Wahai Abu Al Mundzir, sungguh engkau adalah orang yang berilmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (810)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1460</td></tr><tr><td>Arabic No</td><td>1460</td></tr><tr><td>Reference</td><td>Book 8 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Убаййа ибн Ка‘ба, да будет доволен им Аллах: «Однажды Посланник Аллаха ﷺ спросил меня: “О Абу аль-Мунзир, какой аят из Книги Аллаха, который ты помнишь, является величайшим?” Я сказал: “Аллаху и Его посланнику известно об этом лучше”. Он снова спросил: “О Абу аль-Мунзир, какой аят из Книги Аллаха, который ты помнишь, является величайшим?” Тогда я ответил: ““Аллах нет божества, кроме Него, Живого, Вседержителя…””, после чего Посланник Аллаха ﷺ хлопнул меня рукой по груди и сказал: “Да будешь ты счастлив в знании, о Абу аль-Мунзир!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (810)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1460</td></tr><tr><td>Arabic No</td><td>1460</td></tr><tr><td>Reference</td><td>Book 8 Hadith 45</td></tr></tbody></table></div>
 

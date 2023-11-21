@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) recited:-- 'Hal-min-Muddakir' (54.15) (Is t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Mahmud] telah bercerita kepada kami [Abu Ahmad] telah bercerita kepada kami [Sufyan] dari [Abu Ishaq] dari [Al Aswad] dari ['Abdullah radliallahu 'anhu] berkata; "Nabi shallallahu 'alaihi wasallam memaca ayat fahal min muddakir" ("apakah ada yang mengambil pelajaran) " (QS. Alqomar;)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3376</td></tr><tr><td>Arabic No</td><td>3376</td></tr><tr><td>Reference</td><td>Book 60 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ читал “Найдётся ли поминающий?” (сура “аль-Камар”, аят 15)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3376</td></tr><tr><td>Arabic No</td><td>3376</td></tr><tr><td>Reference</td><td>Book 60 Hadith 50</td></tr></tbody></table></div>
 

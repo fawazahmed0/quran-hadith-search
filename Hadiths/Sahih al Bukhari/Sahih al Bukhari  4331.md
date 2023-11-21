@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas Bin Malik:When Allah gave Allah's Messenger (ﷺ) what he gave of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] Telah menceritakan kepada kami [Hisyam] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] katanya, telah mengabarkan kepadaku [Anas bin Malik] radliallahu 'anhu, katanya, sejumlah anshar mengatakan; ketika Allah memberi rampasan fai kepada Nabi shallallahu 'alaihi wasallam Shallallahu'alaihiwasallam, beliau memberi bagian kepada Quraisy dan membiarkan kami-kami, Anshar. Padahal pedang kami masih meneteskan darah mereka. Kata Anas, maka hal itu disampaikan kepada Rasulullah shallallahu 'alaihi wasallam. Seketika itu pula Rasulullah langsung mengutus utusan ke Anshar dan mengumpulkan mereka dalam sebuah kubah yang terbuat dari tanah liat dan tidak beliau undang selain mereka, Anshar. Setelah semua Anshar berkumpul, Rasulullah shallallahu 'alaihi wasallam berdiri dan bersabda: "Apa maksud protes yang telah kudengar dari kalian? Para pemuka Anshar menjawab; "Adapun para pemimpin-pemimpin kami wahai rasulullah, mereka sama sekali tak menyampaikan protes sepatah katapun, adapun generasi muda kami, memang mereka katakana; "Kiranya Allah mengampuni Rasulullah Shallallahu'alaihiwasallam, sebab ia beri Quraisy namun membiarkan kami-kami ini, padahal pedang kami masih meneteskan darah mereka (musuh Quraisy musyrik). Maka Nabi shallallahu 'alaihi wasallam memberi jawaban "Sungguh aku memberi beberapa orang yang baru saja terentaskan dari kekufuran (baru masuk Islam) dengan maksud aku menjinakkan hati mereka, apakah kalian tidak puas sekiranya manusia membawa harta sedang kalian membawa Nabi shallallahu 'alaihi wasallam ke perumahan kalian? Demi Allah, apa yang kalian bawa pulang, "Jauh lebih istimewa" daripada yang mereka bawa pulang. Mereka lantas berujar; "Wahai Rasulullah, kami semua sekarang telah ridha." "Kalian, kata Nabi selanjutnya, akan menemui sifat-sifat super egoisme, maka bersabarlah kalian hingga kalian temui Allah dan Rasul-Nya Shallallahu'alaihiwasallam, karena aku berada di telaga. Kata Anas, namun mereka tidak bersabar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4331</td></tr><tr><td>Arabic No</td><td>4331</td></tr><tr><td>Reference</td><td>Book 64 Hadith 360</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «После того как Аллах даровал Своему посланнику ﷺ из имущества (людей племени) хавазин то, что даровал, и он принялся раздавать курайшитам подарки, дав некоторым из них по сто верблюдов, некоторые ансары стали говорить о Посланнике Аллаха ﷺ: «Да помилует Аллах Посланника Аллаха ﷺ! Он делает подарки курайшитам(, забывая о) нас, а ведь кровь их ещё капает с наших мечей!» Когда Посланнику Аллаха ﷺ передали их слова, он послал за ансарами и собрал их в кожаном шатре, не пригласив к себе больше никого, а потом Посланник Аллаха ﷺ пришёл к собравшимся (ансарам) и спросил: “Что это за разговоры, которые, как я узнал, вы ведёте?” (На это) те из них, которые постигли установления религии, сказали: “Что касается мудрых из нас, о Посланник Аллаха, то они не говорили ничего, а молодые сказали: “Да помилует Аллах Посланника Аллаха ﷺ! Он делает подарки курайшитам(, забывая об) ансарах, а ведь кровь (курайшитов) ещё капает с наших мечей!””. Тогда Пророк ﷺ сказал: “Поистине, я одариваю людей, которые совсем недавно были неверными, чтобы склонить их сердца к исламу, так разве не останетесь вы довольны тем, что эти люди уйдут (отсюда) с этим имуществом, а вы вернётесь к себе домой с Пророком?! Клянусь Аллахом, то, с чем уйдёте вы, лучше того, с чем уйдут они!” — и ансары (в один голос) сказали: “Конечно, о Посланник Аллаха, мы будем довольны (этим)!” А после этого Пророк ﷺ сказал им: “Поистине, после моей смерти вас часто будут обделять, проявляйте же терпение, пока не встретите Аллаха Всевышнего и Его посланника у водоёма!”».\nАнас сказал: «Однако они не проявили терпение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4331</td></tr><tr><td>Arabic No</td><td>4331</td></tr><tr><td>Reference</td><td>Book 64 Hadith 360</td></tr></tbody></table></div>
 

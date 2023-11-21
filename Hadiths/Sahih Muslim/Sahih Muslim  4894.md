@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Abu Huraira that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; ini sebagaimana yang pernah diceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, lalu dia menyebutkan beberapa hadits yang di antaranya adalah, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah tertawa terhadap dua orang yang saling membunuh, namun keduanya masuk surga." Para sahabat bertanya, "Bagaimana hal itu bisa terjadi wahai Rasulullah?" beliau menjawab: "Seseorang terbunuh kemudian dia masuk surga, kemudian Allah menerima taubatnya si pembunuh dan menunjukinya untuk masuk Islam, setelah itu dia berjihad di jalan Allah dan akhirnya mati syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4894</td></tr><tr><td>Arabic No</td><td>1890.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4894</td></tr><tr><td>Arabic No</td><td>1890.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 190</td></tr></tbody></table></div>
 

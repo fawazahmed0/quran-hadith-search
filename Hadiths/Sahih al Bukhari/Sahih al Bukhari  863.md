@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur Rahman bin 'Abis:A person asked Ibn 'Abbas, "Have you ever prese
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ali] berkata, telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku ['Abdurrahman bin 'Abis] berkata, Aku mendengar ada seseorang bertanya kepada [Ibnu 'Abbas] radliallahu 'anhuma, "Apakah engkau pernah ikut keluar (shalat) bersama Rasulullah shallallahu 'alaihi wasallam?" Dia menjawab, "Ya. Sekiranya bukan karena kedudukanku di sisi Beliau, niscaya aku tidak mungkin (bisa) ikut -karena umurnya masih kecil-. Beliau mendatangi tempat yang agak tinggi dekat rumah Katsir bin Ash Shalt lalu memberikan ceramah, kemudian mendatangi para wanita. Beliau lantas memberi nasihat kepada mereka, mengingatkan dan memerintahkan mereka agar bersedekah. Maka para wanita tersebut memberikan apa yang ada pada tangan dan leher mereka (emas perhiasan) lalu dimasukkan ke dalam kain Bilal, setelah itu beliau dan Bilal menuju Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>863</td></tr><tr><td>Arabic No</td><td>863</td></tr><tr><td>Reference</td><td>Book 10 Hadith 254</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что один человек спросил его: «Находился ли ты когда-нибудь вместе с Пророком ﷺ во время праздничного намаза?» Он ответил: «Да, и если бы не моя близость к нему, то этого бы не было», имея в виду, что тогда он был ещё мал. (Затем он сказал): «(Пророк ﷺ) приблизился к знаку, установленному у дома Кaсира бин ас-Сальта, потом произнёс проповедь, а потом подошёл к женщинам и принялся увещевать их, напоминать им и побуждать их подавать милостыню, и (каждая) женщина стала протягивать руку к своей шее(, чтобы снять ожерелье) и положить его в (полу) одежды Биляла, после чего (Пророк ﷺ) вместе с Билялом зашёл в дом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>863</td></tr><tr><td>Arabic No</td><td>863</td></tr><tr><td>Reference</td><td>Book 10 Hadith 254</td></tr></tbody></table></div>
 

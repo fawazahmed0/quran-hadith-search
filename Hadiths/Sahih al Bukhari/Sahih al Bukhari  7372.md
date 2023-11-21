@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Prophet (ﷺ) sent Mu'adh to Yemen, he said to him,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Abu Al Aswad] telah menceritakan kepada kami [Al Fadll bin Al 'Ala] telah menceritakan kepada kami [Ismail bin Umayyah] dari [Yahya bin Muhmmad bin Abdullah bin Shaifi] ia mendengar [Abu Ma'bad] mantan budak Ibn Abbas, berkata, aku mendengar [Ibn Abbas] berkata, "Dikala Nabi shallallahu 'alaihi wasallam mengutus Mu'adz ke negeri Yaman, Nabi berpesan: "Wahai Mu'adz, engkau mendatangi kaum ahli kitab, maka jadikanlah materi dakwah pertama-tama yang engkau sampaikan adalah agar mereka mentauhidkan Allah ta'ala. Jika mereka telah sadar terhadap hal ini, beritahulah mereka bahwa Allah mewajibkan lima shalat kepada mereka dalam sehari semalam. Jika mereka telah shalat, beritahulah mereka bahwa Allah mewajibkan zakat harta mereka, yang diambil dari yang kaya, dan diberikan kepada yang miskin, dan jika mereka telah mengikrarkan yang demikian, ambilah harta mereka dan jagalah harta mereka yang kesemuanya harus dijaga kehormatannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7372</td></tr><tr><td>Arabic No</td><td>7372</td></tr><tr><td>Reference</td><td>Book 97 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен им Аллах сказал: «Посылая Му‘аза, да будет доволен им Аллах, в сторону жителей Йемена, Пророк ﷺ сказал ему: “Поистине, ты придёшь к людям из числа обладателей Писания, и пусть первое, к чему ты будешь их призывать, будет единственность Всевышнего Аллаха (в поклонении). Если они познают это, то сообщи (этим людям), что Аллах вменил им в обязанность (совершение) пяти молитв днём и ночью. Если они начнут молиться, сообщи им, что Аллах обязал их (выплачивать) закят с их имущества, которую следует брать с богатых среди них и отдавать бедным из их числа. Если же они признают это, бери его с них и ни в коем случае не бери из имущества людей того, что (наиболее) дорого им”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7372</td></tr><tr><td>Arabic No</td><td>7372</td></tr><tr><td>Reference</td><td>Book 97 Hadith 2</td></tr></tbody></table></div>
 

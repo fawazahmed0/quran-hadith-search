@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:I heard a person reciting a (Qur'anic) Verse in a certain wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3476</td></tr><tr><td>Arabic No</td><td>3476</td></tr><tr><td>Reference</td><td>Book 60 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд, да будет доволен им Аллах, сказал: «(Как-то раз) я услышал, как один человек прочитал аят Корана, (а раньше) я слышал, как Пророк ﷺ (читал этот же аят) по-другому. Тогда я привёл его к Пророку ﷺ. Рассказав ему об этом, я увидел в его лице недовольство. Затем он сказал: “Каждый из вас (читает) правильно. Не впадайте в разногласия, ибо, поистине, жившие до вас стали разногласить и погибли (из-за этого)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3476</td></tr><tr><td>Arabic No</td><td>3476</td></tr><tr><td>Reference</td><td>Book 60 Hadith 143</td></tr></tbody></table></div>
 

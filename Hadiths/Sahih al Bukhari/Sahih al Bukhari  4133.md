@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) led the Fear-prayer with on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim bin Abdullah bin Umar] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam shalat bersama salah satu kelompok, sementara kelompok yang lain (berjaga-jaga) menghadapi musuh. Kemudian kelompok yang shalat bersama beliau beranjak dan menempati posisi kelompok yang semula menghadap musuh, lalu kelompok yang semula berjaga-jaga (menghadapi musuh) datang, kemudian beliau shalat bersama mereka satu raka'at lalu salam. Selanjutnya satu kelompok menyelesaikan raka'at mereka begitu juga kelompok yang satu lagi menyelesaikan raka'at mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4133</td></tr><tr><td>Arabic No</td><td>4133</td></tr><tr><td>Reference</td><td>Book 64 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ совершил молитву, (совершаемую под воздействием страха /салят аль-хауф/) с одной из двух групп людей, тогда как другая группа противостояла неприятелю. Затем эти люди ушли (и заняли) места тех, кто не совершил молитву, а (не совершившие молитву) подошли к Посланнику Аллаха ﷺ, и он совершил с ними один рак‘ат, после чего произнёс таслим, а затем каждая из двух групп встала и самостоятельно совершила оставшийся один рак’ат»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4133</td></tr><tr><td>Arabic No</td><td>4133</td></tr><tr><td>Reference</td><td>Book 64 Hadith 177</td></tr></tbody></table></div>
 

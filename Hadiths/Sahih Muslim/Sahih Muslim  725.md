@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:When the Messenger of Allah (ﷺ) took a bath because of sexual 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna al-Anazi] telah menceritakan kepada kami [Abu Ashim] dari [Hanzhalah bin Abi Sufyan] dari [al-Qasim] dari [Aisyah] dia berkata, "Rasulullah apabila mandi karena junub, maka beliau meminta air pada bejana, lalu beliau mengambil air dengan telapak tangannya, beliau memulainya dengan sebelah bagian kepalanya yang sebelah kanan, kemudian kiri, kemudian mengambil air dengan kedua telapan tangannya, lalu Aisyah berkata, 'Dengan (siraman) keduanya pada kepalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>725</td></tr><tr><td>Arabic No</td><td>318</td></tr><tr><td>Reference</td><td>Book 3 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда Посланник Аллаха ﷺ (хотел) совершить большое омовение после осквернения, он повелевал принести какой-нибудь (сосуд объёмом) с подойник, после чего зачерпывал (воду) рукой и начинал (омовение) с правой стороны головы, потом (переходил) к левой (части), а потом зачерпывал воду обеими руками и лил её на голову (сверху)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>725</td></tr><tr><td>Arabic No</td><td>318</td></tr><tr><td>Reference</td><td>Book 3 Hadith 47</td></tr></tbody></table></div>
 

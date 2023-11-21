@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) commanded him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar], telah menceritakan kepada kami [Hammad bin Salamah], dari [Muhammad bin Ishaq], dari [Yazid? bin Abu Habib], dari [Muslim bin Jubair], dari [Abu Sufyan], dari ['Amr bin Harisy] dari [Abdullah bin 'Amr], bahwa Rasulullah shallallahu 'alaihi wasallam telah memerintahkannya agar mempersiapkan tentara, hingga habis unta beliau, lalu beliau memerintahkan agar mengambil dari unta zakat. Beliau mengambil satu ekor dengan mengembalikan dua ekor unta hingga waktu diperoleh unta untuk zakat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3357</td></tr><tr><td>Arabic No</td><td>3357</td></tr><tr><td>Reference</td><td>Book 23 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ велел ему собрать войско, а когда оказалось, что верблюдов не хватает, он велел ему брать верблюдиц из закята с условием, что, потом, когда будет собран закят, он отдаст за каждого верблюда двоих
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3357</td></tr><tr><td>Arabic No</td><td>3357</td></tr><tr><td>Reference</td><td>Book 23 Hadith 32</td></tr></tbody></table></div>
 

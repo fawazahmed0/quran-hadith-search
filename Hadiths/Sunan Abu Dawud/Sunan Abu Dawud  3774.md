@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) forbade two kinds of fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Katsir bin Hisyam] dari [Ja'far bin Burqan] dari [Zuhri] dari [Salim] dari [Ayahnya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam telah melarang dari dua tempat makan; duduk menghadap hidangan yang padanya diminum khamer dan serta seseorang makan dalam keadaan tengkurap." Abu Daud berkata, "Hadits ini adalah hadits yang tidak didengar oleh Ja'far dari Az Zuhri, dan hadits tersebut adalah hadits mungkar." Telah menceritakan kepada kami [Harun bin Zaid bin Abu Az Zarqa'] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Ja'far] bahwa hadits ini telah sampai kepadanya dari [Az Zuhri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3774</td></tr><tr><td>Arabic No</td><td>3774</td></tr><tr><td>Reference</td><td>Book 28 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим передаёт от своего отца, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ запретил два действия, связанные с едой: сидеть за столом, с которого пьют вино, а также когда человек ест лёжа на животе
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3774</td></tr><tr><td>Arabic No</td><td>3774</td></tr><tr><td>Reference</td><td>Book 28 Hadith 39</td></tr></tbody></table></div>
 

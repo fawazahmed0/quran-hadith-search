@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yali:I heard the Prophet (ﷺ) reciting the following Verse on the pulp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3230</td></tr><tr><td>Arabic No</td><td>3230</td></tr><tr><td>Reference</td><td>Book 59 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Йа‘ля, да будет доволен им Аллах, сказал:\n— Я слышал, как (стоявший) на минбаре Пророк ﷺ читал (аят, в котором сказано): «И они воззовут: “О Малик…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3230</td></tr><tr><td>Arabic No</td><td>3230</td></tr><tr><td>Reference</td><td>Book 59 Hadith 41</td></tr></tbody></table></div>
 

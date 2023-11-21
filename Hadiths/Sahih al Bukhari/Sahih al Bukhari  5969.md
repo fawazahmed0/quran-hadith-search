@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abbad bin Tamim's uncle:I saw the Prophet (ﷺ) lying-down in the mosq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ibrahim bin Sa'd] telah menceritakan kepada kami [Ibnu Syihab] dari ['Abbad bin Tamim] dari [Pamannya] bahwa dia pernah melihat Nabi shallallahu 'alaihi wasallam tengah terlentang di masjid sambil meletakkan salah satu kakinya di atas kaki yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5969</td></tr><tr><td>Arabic No</td><td>5969</td></tr><tr><td>Reference</td><td>Book 77 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аббад ибн Тамим рассказал, что его дядя видел, как Пророк ﷺ лежал в мечети на спине, подняв одну ногу на другую
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5969</td></tr><tr><td>Arabic No</td><td>5969</td></tr><tr><td>Reference</td><td>Book 77 Hadith 185</td></tr></tbody></table></div>
 

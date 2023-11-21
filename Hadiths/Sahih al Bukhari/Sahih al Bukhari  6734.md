@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad bin Yazid:Mu'adh bin Jabal came to us in Yemen as a tutor and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Ghailan] telah menceritakan kepada kami [Abu An Nadhr] telah menceritakan kepada kami [Abu Mu'awiyah Syaiban] dari [Asy'ats] dari [Al Aswad bin Yazid] mengatakan; [Muadz bin Jabal] datang kepada kami di Yaman sebagai pengajar dan pemimpin, kemudian kami bertanya kepadanya mengenai seseorang yang wafat dan meninggalkan anak perempuan dan saudara perempuannya. maka dia memberi anak perempuannya separoh dan saudara perempuannya separoh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6734</td></tr><tr><td>Arabic No</td><td>6734</td></tr><tr><td>Reference</td><td>Book 85 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Асвад ибн Язид рассказывал: «Когда Му‘аз ибн Джабаль приехал к нам в Йемен в качестве учителя и правителя, мы спросили его о (распределении имущества) человека, который умер, оставив дочь и сестру, и он отдал дочери половину имущества, а сестре — другую половину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6734</td></tr><tr><td>Arabic No</td><td>6734</td></tr><tr><td>Reference</td><td>Book 85 Hadith 11</td></tr></tbody></table></div>
 

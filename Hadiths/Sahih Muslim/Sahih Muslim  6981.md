@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying that a person committed s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6981</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры (да будет доволен им Аллах), что Пророк ﷺ сказал: «Один человек (при жизни) поступал несправедливо по отношению к себе (совершая грехи), и когда смерть явилась к нему, он, завещая своим сыновьям, сказал: “Когда я умру, сожгите меня, затем сотрите меня в прах, а потом развейте его по ветру на море. И клянусь Аллахом, если мой Господь сумеет воскресить меня, то Он накажет меня таким наказанием, каким не наказывал никого!” (Когда он умер), с ним так и поступили. Затем (Аллах) сказал земле: “Отдай то, что ты взяла (из его останков)!”, и он предстал (перед своим Господом). Тогда (Аллах) спросил его: “Что заставило тебя поступить так?” Он ответил: “О, Господь, страх перед Тобой”, и Он простил его за это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6981</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

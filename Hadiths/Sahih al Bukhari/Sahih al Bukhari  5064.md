@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:that he asked 'Aisha about the Statement of Allah: 'If you fear t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] Ia telah mendengar [Hassan bin Ibrahim] dari [Yunus bin Yazid] dari [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [Urwah] bahwa ia bertanya kepada [Aisyah] tentang firman Allah Ta'ala: "Dan jika kalian khawatir tidak bisa berlaku adil terhadap anak yatim, maka nikahilah wanita yang baik-baik, dua, tiga, atau empat, jika kalian tidak bisa berlaku adil, maka kawinilah satu saja, atau hamba sahaya kalian, itu lebih dekat agar kalian tidak melanggar batas (QS. Annisa' 3). Maka Aisyah menjelaskan, "Wahai anak saudaraku, maksudnya adalah seorang anak perempuan yatim bertempat tinggal di rumah walinya. Lalu ia pun menginginkan harta dan juga kecantikannya. Ia ingin menikahinya dengan mahar yang sedikit, maka mereka dilarang untuk menikahinya kecuali mereka dapat berbuat adil terhadap mereka dan menyempurnakan mahar. Karena itu, mereka diperintahkan untuk menikahi wanita-wanita selain mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5064</td></tr><tr><td>Arabic No</td><td>5064</td></tr><tr><td>Reference</td><td>Book 67 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва спросил ‘Аишу о словах Всевышнего «Если вы боитесь, что не будете справедливы к сиротам, то женитесь на других женщинах, которые нравятся вам: на двух, трёх, четырёх. Если же вы боитесь, что не будете одинаково справедливы к ним, то довольствуйтесь одной или невольницами, которыми овладели ваши десницы» (сура «ан-Ниса», аят 3). Она сказала: «О сын моей сестры, речь идёт о сироте, которую воспитывает её опекун, а его привлекает её красота и богатство, и он желает жениться на ней, дав ей меньше махра (брачного дара), чем обычно дают подобным женщинам другие. Им было запрещено жениться на них, если только они не станут соблюдать справедливость в том, что касается брачного дара и не дадут им предельно высокий для им подобных брачный дар. И им было велено жениться на других женщинах вместо них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5064</td></tr><tr><td>Arabic No</td><td>5064</td></tr><tr><td>Reference</td><td>Book 67 Hadith 2</td></tr></tbody></table></div>
 

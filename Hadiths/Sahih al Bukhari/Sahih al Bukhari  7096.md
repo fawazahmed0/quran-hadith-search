@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shaqiq:I heard Hudhaifa saying, "While we were sitting with 'Umar, he s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyats] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Syaqiq] Aku mendengar [Khudzaifah] menuturkan; ketika kami duduk-duduk bersama Umar, tiba-tiba ia bertanya; 'Siapa diantara kalian yang menghapal sabda Nabi shallallahu 'alaihi wasallam tentang fitnah? ' maka Khudzaifah menjawab; 'Fitnah seseorang di keluarganya, hartanya dan anaknya serta tetangganya bisa terhapus oleh shalat, sedekah, dan amar ma'ruf nahyi mungkar.' Umar berkata; 'Bukan tentang ini yang aku tanyakan kepadamuakan tetapi tentang (fitnah) yang bergelombang seperti gelombang lautan.' Khudzaifah berkata; 'kamu tidak terkena dampaknya dari fitnah itu ya amirul mukminin, sebab antara kamu dan fitnah itu terdapat pintu tertutup.' Umar bertanya; 'Apakah pintunya dipecahkan atau dibuka? ' Khudzaifah menjawab; 'bahkan di pecahkan.' Maka Umar berkata; 'kalau begitu tidak ditutup selama-lamanya.' aku menjawab; 'Betul.' Saya bertanya kepada Khudzaifah; 'Apakah Umar mengetahui pintu itu? ' Khudzaifah menjawab; 'Ya, sebagaimana ia mengetahui bahwa setelah esok ada malam, yang demikian itu karena aku menceritakan Hadits kepadanya dengan tanpa kekeliruan, maka kami khawatir untuk menanyakan kepada Umar siapa pintu sebenarnya.' lalu kami perintahkan kepada Masruq untuk bertanya kepada Khudzaifah; (siapakah pintu itu), Khudzaifah menjawab; 'Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7096</td></tr><tr><td>Arabic No</td><td>7096</td></tr><tr><td>Reference</td><td>Book 92 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа (ибн аль-Яман), да будет доволен им Аллах, сказал: «Однажды, когда мы сидели у ‘Умара, он спросил: “Кто из вас помнит слова Пророка ﷺ об смутах и искушениях?” Хузайфа сказал: “Искушение человека, связанное с его женой, имуществом, детьми и соседями, искупается молитвой, милостыней, побуждением (людей) к совершению одобряемого и удержанием от порицаемого”. ‘Умар сказал: “Я не об этом тебя спрашиваю, однако (я имею в виду смуту), которая будет подобна бушующему морю”. Хузайфа сказал: “Она не повредит тебе, о, повелитель верующих, ибо, поистине, ты отделён от неё запертой дверью”. ‘Умар сказал: “Эта дверь будет сломана или открыта?” Хузайфа ответил: “Она будет сломана”. ‘Умар сказал: “Значит, после этого её уже никогда не закроют!” Я же сказал: “Да!”».\n(Шакик ибн Саляма сказал:) «Мы спросили Хузайфу: “Знал ли ‘Умар, о какой двери идёт речь?” Он ответил: “Он знал это так же хорошо, как и то, что ночь предшествует утру, потому что хадис этот я пересказал ему в точности, без ошибок”. И мы побоялись спросить Хузайфу о том, что же это за дверь, и попросили Масрука спросить Хузайфу. Он спросил: “Кто же является этой дверью?” Хузайфа ответил: “(Эта дверь — сам) ‘Умар”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7096</td></tr><tr><td>Arabic No</td><td>7096</td></tr><tr><td>Reference</td><td>Book 92 Hadith 47</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon 'Aïcha (raa), une femme lui demanda : "Quand l'une de nous est purifiée 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu ar-Rabi' az-Zahrani] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Abu Qilabah] dari [Mu'adzah] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami [Hammad] dari [Yazid ar-Rasyk] dari [Mu'adzah] bahwa seorang perempuan bertanya kepada [Aisyah] seraya berkata, "Apakah salah seorang di antara kami harus mengqadha' shalat semasa didatangi haid kami?" Aisyah menjawab, "Apakah kamu dari golongan Haruriyyah? Suatu ketika dulu ada di antara kami yang didatangi haid pada masa Rasulullah Shallallahu'alaihiwasallam tetapi kami tidak diperintahkan mengqadha shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>761</td></tr><tr><td>Arabic No</td><td>335.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Му‘азы о том, что одна женщина спросила ‘Аишу: «Должна ли женщина восполнять молитвы (пропущенные) в дни, когда у неё были менструации?» ‘Аиша сказала: «Ты что, из Харуры!? При жизни Посланника Аллаха ﷺ у нас тоже бывали менструации, но нам не повелевали восполнять (молитвы, пропущенные в эти дни)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>761</td></tr><tr><td>Arabic No</td><td>335.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 83</td></tr></tbody></table></div>
 

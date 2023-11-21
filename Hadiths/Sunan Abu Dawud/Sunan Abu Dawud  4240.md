@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hudhaifa:The Messenger of Allah (ﷺ) stood among us (to give us an add
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wail] dari [Hudzaifah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah berdiri di hadapan kami (khutbah), tidak ada sesuatu pun yang bakal terjadi hingga datang hari kiamat kecuali beliau jelaskan saat itu (berdiri). Maka hafallah orang yang hafal dan lupalah orang yang lupa, dan para sahabatnya telah mengetahui hal itu. Sungguh, aku dapat mengingat apa yang disampaikan saat itu, sebagaimana seorang laki-laki yang mengingat wajah orang yang pergi kemudian bertemu lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6604) Sahih Muslim (2891)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4240</td></tr><tr><td>Arabic No</td><td>4240</td></tr><tr><td>Reference</td><td>Book 37 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа (ибн аль-Яман), да будет доволен Аллах им и его отцом, передаёт: «Однажды Посланник Аллаха ﷺ обратился к нам с речью и рассказал нам, не сходя с места, обо всём, что будет происходить до самого Судного дня. Кто запомнил сказанное им, тот запомнил, а кто забыл, тот забыл. Вот эти его сподвижники знают это (в общем). И, поистине, видя что-то из предсказанного им, я вспоминаю само предсказание подобно тому, как вспоминает человек лицо знакомого человека, которого он встретил после долгой разлуки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6604) Sahih Muslim (2891)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4240</td></tr><tr><td>Arabic No</td><td>4240</td></tr><tr><td>Reference</td><td>Book 37 Hadith 1</td></tr></tbody></table></div>
 

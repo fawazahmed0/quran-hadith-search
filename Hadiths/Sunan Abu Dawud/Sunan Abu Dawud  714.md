@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: I used to sleep lying between the Messenger of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisysr] dan telah di riwayatkan dari jalur lain, Abu Daud mengatakan; dan telah menceritakan kepada kami [Al Qa'nabi] telah menceritakan kepada kami [Abdul Aziz] yaitu Ibnu Muhammad, dan ini adalah lafadznya dari [Muhammad bin 'Amru] dari [Abu Salamah] dari [Aisyah] bahwa dia berkata; "Aku tidur melintang di antara kiblat Rasulullah shallallahu 'alaihi wasallam, kemudian Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat sementara aku berada di hadapan beliau, apabila beliau hendak mengerjakan witir -Utsman menambahkan; "beliau meraba (kakiku) " -lalu riwayatnya Utsman dengan Al Qa'nabi menyatu lagi- Lalu beliau bersabda: "Pindahlah! (wahai Aisyah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>714</td></tr><tr><td>Arabic No</td><td>714</td></tr><tr><td>Reference</td><td>Book 2 Hadith 324</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Обычно) я спала, находясь между посланником Аллаха ﷺ и киблой. И (как-то) Посланник Аллаха ﷺ совершал молитву, когда я находилась перед ним. Когда же он захотел совершить уитр ...»(Один из передатчиков этого хадиса по имени) ‘Усман добавил: «... он коснулся меня».Далее (передатчики этого хадиса) сошлись на том, что (Посланник Аллаха ﷺ) сказал: «Отойди в сторону»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>714</td></tr><tr><td>Arabic No</td><td>714</td></tr><tr><td>Reference</td><td>Book 2 Hadith 324</td></tr></tbody></table></div>
 

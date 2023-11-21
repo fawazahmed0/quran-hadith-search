@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Bahiyyah said: I heard a woman asking Aisha abou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu Aqil] dari [Buhayyah] dia berkata; Saya mendengar seorang wanita bertanya kepada [Aisyah] tentang wanita yang haidlnya berlalu, sementara darah tetap mengalir? Maka Rasulullah Shallallahu alaihi wasallam memerintahkanku untuk memerintahkannya menunggu sebatas (tanggal) kebiasaannya haidl pada setiap bulan, dan dia menghitung haidlnya sesuai dengan (tanggal) kebiasaannya serta meninggalkan shalat sesuai dengan hari haidlnya yang biasa, kemudian dia mandi dan hendaklah menutup kemaluannya dengan kain lalu shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>284</td></tr><tr><td>Arabic No</td><td>284</td></tr><tr><td>Reference</td><td>Book 1 Hadith 284</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Бухаййа сказала: «Я слышала, как одна женщина спросила ‘Аишу о женщине, у которой было расстройство менструального цикла, и у нее было хроническое кровотечение. И Посланник Аллаха ﷺ велел мне посоветовать ей, чтобы она посмотрела, какое количество дней у нее бывали менструации, и когда у нее были нормальные менструации. Затем она должна сосчитать дни равные отрезку времени, в которые у нее протекают менструации, после чего оставить молитву в течение этого времени. Затем она должна искупаться, обвязать половые органы материей и затем совершать молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>284</td></tr><tr><td>Arabic No</td><td>284</td></tr><tr><td>Reference</td><td>Book 1 Hadith 284</td></tr></tbody></table></div>
 

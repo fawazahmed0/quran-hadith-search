@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "Give the Fara'id (the shares of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ibnu Thawus] dari [ayahnya] dari [Ibnu 'Abbas] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam bersabda: "Berikanlah bagian fara'idh (warisan yang telah ditetapkan) kepada yang berhak, maka bagian yang tersisa bagi pewaris lelaki yang paling dekat (nasabnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6732</td></tr><tr><td>Arabic No</td><td>6732</td></tr><tr><td>Reference</td><td>Book 85 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Выделяйте (соответствующие) доли наследства тем, кто имеет на них право, а то, что останется, (должно быть отдано) мужчине, являющемуся ближайшим родственником (покойного)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6732</td></tr><tr><td>Arabic No</td><td>6732</td></tr><tr><td>Reference</td><td>Book 85 Hadith 9</td></tr></tbody></table></div>
 

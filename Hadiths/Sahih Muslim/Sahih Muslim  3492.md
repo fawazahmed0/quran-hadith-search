@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik (Allah be pleased with him) reported that 'Abd al-Rahman b. 'Auf (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Waki'] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dan [Humaid] dari [Anas] bahwa Abdurrahman bin 'Auf menikahi seorang wanita dengan maskawin emas seberat biji kurma, dan Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Adakanlah walimah walaupun hanya dengan seekor kambing." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abu Daud]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Rafi'] dan [Harun bin Abdullah] keduanya berkata; Telah menceritakan kepada kami [Wahb bin Jarir]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ahmad bin Khirasy] telah menceritakan kepada kami [Syababah] semuanya dari [Syu'bah] dari [Humaid] dengan isnad seperti ini, namun dalam hadits Wahb, dia menyebutkan; Abdurrahman berkata; "Saya telah menikahi seorang wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3492</td></tr><tr><td>Arabic No</td><td>1427.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3492</td></tr><tr><td>Arabic No</td><td>1427.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 94</td></tr></tbody></table></div>
 

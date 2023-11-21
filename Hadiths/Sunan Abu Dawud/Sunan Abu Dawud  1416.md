@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Prophet (ﷺ) said: Allah is single (witr) and lo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada [Ibrahim bin Musa] telah mengabarkan kepada Kami [Isa] dari [Zakaria] dari [Abu Ishaq] dari ['Ashim] dari [Ali] radliallahu 'anhu ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam berkata; wahai ahli Al Qur'an, shalat witirlah kalian karena Allah adalah Dzat yang Maha Tunggal dan menyukai sesuatu yang ganjil. Telah berkata kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Abu Hafsh Al Abbar] dari [Al A'masy] dari ['Amr bin Murrah] dari [Abu Ubaidah] dari [Abdullah] dari Nabi Shalla Allahu 'alaihi wa sallam dengan makna yang sama namun ia menambahkan; kemudian terdapat seorang badui berkata; apa yang kamu katakan? Dia menjawab; bukan urusanmu dan bukan urusan para sahabatmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>1416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Али, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «О приверженцы Корана! Совершайте витр, ибо, поистине, Аллах Один, и Он любит нечётное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>1416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
 

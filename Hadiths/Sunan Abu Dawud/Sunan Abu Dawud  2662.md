@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al bara’ bin Azib said “On the day of the battle of Uhud the Apostle of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Abu Ishaq], ia berkata; saya mendengar [Al Bara'] bercerita; ia berkata; Rasulullah shallallahu 'alaihi wasallam menunjuk Abdullah bin Jubair sebagai pemimpin para pemanah pada saat perang Uhud, dan jumlah mereka adalah lima puluh orang. Beliau bersabda: "Apabila kalian melihat kami disambar burung, maka janganlah kalian meninggalkan tempat kalian ini hingga aku mengirimkan utusan kepada kalian. Dan apabila kalian melihat kami telah mengalahkan musuh dan kami memukul mereka, maka janganlah kalian meninggalkan tempat hingga aku mengirim utusan kepada kalian." Kemudian Allah mengalahkan mereka. Al Bara' berkata; demi Allah aku melihat para wanita menaiki gunung. Kemudian para sahabat Abdullah bin Jubair berkata; rampasan perang wahai kaum! Para sahabat kalian telah mendapat kemenangan, maka apa yang kalian tunggu? Kemudian Abdullah bin Jubair berkata; apakah kalian lupa apa yang dikatakan Rasulullah shallallahu 'alaihi wasallam kepada kalian? Kemudian mereka berkata; demi Allah, kami akan datang kepada orang-orang tersebut dan mendapatkan sebagian harta rampasan. Lalu mereka datang dengan wajah-wajah mereka dipalingkan (langkah tak menetu) dan dalam keadaan kalah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3039)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2662</td></tr><tr><td>Arabic No</td><td>2662</td></tr><tr><td>Reference</td><td>Book 15 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3039)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2662</td></tr><tr><td>Arabic No</td><td>2662</td></tr><tr><td>Reference</td><td>Book 15 Hadith 186</td></tr></tbody></table></div>
 

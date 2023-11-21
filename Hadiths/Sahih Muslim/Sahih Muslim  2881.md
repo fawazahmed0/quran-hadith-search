@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ka'b b. 'Ujra (Allah be pleased with him) reported that the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dan [Ayyub] dan [Humaid] dan [Abdul Karim] dari [Mujahid] dari [Ibnu Abu Laila] dari [Ka'b bin Ujrah] radliallahu 'anhu, bahwa ia bertemu dengan Nabi shallallahu 'alaihi wasallam pada masa berlangsungnya perjanjian Hudaibiyah sebelum masuk Makkah, dan ia sedang Ihram lagi menyalan api di bawah periuk, sementara kutu telah berjatuhan ke wajahnya. Mak beliau pun bertanya: "Apakah kutumu ini mengganggumu?" Ia menjawab, "Ya." Beliau bersabda: "Cukurlah rambutmu dan berilah makan sebanyak satu Faraq (tiga Sha') kepada enam orang miskin, atau berpuasalah tiga hari, atau berkorbanlah." Ibnu Abu Najih berkata; "Atau sembelihlah seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2881</td></tr><tr><td>Arabic No</td><td>1201.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2881</td></tr><tr><td>Arabic No</td><td>1201.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 91</td></tr></tbody></table></div>
 

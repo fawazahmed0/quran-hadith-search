@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) forbade Al-Muzabana, i.e. to sell ung
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam melarang Al Muzaabanah (jual beli secara borongan tanpa diketahui takaran atau timbangannya), yaitu seseorang menjual buah kebunnya dengan ketentuan apabila pohon kurma dijual dengan buah kurma masak sebagai barter takarannya, apabila pohon anggur dijual dengan anggur kering sebagai barter takarannya, apabila benih dijual dengan makanan sebagai barter takarannya, dan Beliau melarang praktek semacam itu seluruhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2205</td></tr><tr><td>Arabic No</td><td>2205</td></tr><tr><td>Reference</td><td>Book 34 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ запретил (то, что именуется) “музабана”. То есть продавать несобранные финики за сухие, отмеряемые мерами; а если это несобранный виноград, то за изюм, отмеряемый мерами; или если это пшеница в поле, то за уже собранную и отмериваемую мерами пшеницу. Всё это он запретил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2205</td></tr><tr><td>Arabic No</td><td>2205</td></tr><tr><td>Reference</td><td>Book 34 Hadith 151</td></tr></tbody></table></div>
 

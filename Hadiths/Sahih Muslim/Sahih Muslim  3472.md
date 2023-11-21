@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Uqba Ibn 'Amir (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Husyaim]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Waki']. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abu Khalid Al Ahmar]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya yaitu Al Qaththan] dari [Abdul Hamid bin Ja'far] dari [Yazid bin Abi Habib] dari [Martsad bin Abdillah Al Yazani] dari ['Uqbah bin Amir] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya syarat yang paling layak untuk dipenuhi adalah syarat untuk menghalalkan kemaluan (untuk bersenggama)." Ini adalah lafazh hadits Abu Bakar dan Ibnu Al Mutsanna namun Ibnu Al Mutsanna menyebutkan; "syarat-syarat" (dalam bentuk jamak)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3472</td></tr><tr><td>Arabic No</td><td>1418</td></tr><tr><td>Reference</td><td>Book 16 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3472</td></tr><tr><td>Arabic No</td><td>1418</td></tr><tr><td>Reference</td><td>Book 16 Hadith 74</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr: (Musaddad's version has): The Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Musaddad] secara makna, keduanya berkata; telah menceritakan kepada kami [Hammad] dari [Khalid] dari [Al Qasim bin Rabi'ah] dari [Uqbah bin Aus] dari [Abdullah bin Amru] bahwa Rasulullah shallallahu 'alaihi wasallam -Musaddad menyebutkan- berkhutbah pada hari penaklukan kota Makkah. Beliau bertakbir sebanyak tiga kali kemudian mengatakan: "Tidak ada Tuhan selain Allah Yang Maha Esa, Maha Benar janji-Nya, dan menolong hamba-Nya, serta satu-satunya yang mengalahkan golongan musuh yang bersekutu -sampai kalimat ini aku menghafalnya dari Musaddad, kemudian keduanya sepakat pada lafadz- Ketahuilah, semua peninggalan masa Jahilliyah baik itu yang diperoleh karena diyat pembunuhan atau pencurian, maka semua itu ada di bawah telapak kakiku (yakni bathil), kecuali apa-apa yang dihasilkan dari usaha memberi minum jamaah haji dan pengabdian kepada ka'bah." Kemudian beliau bersabda: "Ketahuilah, diyat untuk pembunuhan yang tidak sengaja (yang menyerupai sengaja), seperti memukul dengan cambuk atau tongkat adalah seratus ekor unta, yang di antaranya adalah empat puluh ekor yang sedang hamil." Hadits Musaddad ini lebih sempurna. Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Wuhaib] dari [Khalid] dengan sanad ini, seperti makna hadits tersebut. Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abdul Warits] dari [Ali bin Zaid] dari [Al Qasim bin Rabi'ah] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dengan makna yang sama. Ia (perawi) berkata, "Pada hari penaklukan kota Makkah Rasulullah shallallahu 'alaihi wasallam berkhutbah di atas undakan rumah atau ka'bah." Abu Dawud berkata, "Seperti ini pula [Ibnu Uyainah] meriwayatkan dari [Ali bin Zaid], dari [Al Qasim bin Rabi'ah], dari [Ibnu Umar] dari nabi shallallahu 'alaihi wasallam." [Ayyub As Sakhtiyani] juga meriwayatkan dari [Al Qasim bin Rabi'ah], dari [Abdullah bin Amru] sebagaimana hadits Khalid, dan [Hammad bin Salamah] juga meriwayatkannya dari [Ali bin Zaid] dari dari [Ya'qub As Sadusi], dari [Abdullah bin Amru], dari Nabi shallallahu 'alaihi wasallam." Dan perkataan Zaid dan Abu Musa seperti hadits Nabi shallallahu 'alaihi wasallam dan hadits Umar radliallahu 'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4547</td></tr><tr><td>Arabic No</td><td>4547</td></tr><tr><td>Reference</td><td>Book 41 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что в день покорения Мекки Посланник Аллаха ﷺ обратился (к людям( с речью. Он трижды произнёс: «Аллах Велик!» после чего сказал: «Нет божества, кроме одного лишь Аллаха, Который выполнил Своё обещание, помог Своему рабу и один разбил союзные племена». (Потом Посланник Аллаха ﷺ сказал): «Поистине, всё, что служило предметом хвастовства и поводом для высокомерия во времена невежества, будь то пролитая кровь или имущество, у меня под ногами, за исключением поения паломников и служения Дому». Далее (Посланник Аллаха ﷺ) сказал: «Поистине, компенсация за неумышленное убийство, похожее на умышленное, совершённое плетью или палкой, сто верблюдов, причём сорок верблюдиц должны быть беременными»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4547</td></tr><tr><td>Arabic No</td><td>4547</td></tr><tr><td>Reference</td><td>Book 41 Hadith 54</td></tr></tbody></table></div>
 

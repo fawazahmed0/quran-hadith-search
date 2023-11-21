@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mu'awiyah b. Qurrah quoted his father as saying:I came to the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufail] dan [Ahmad bin Yunus] keduanya berkata; telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Urwah bin Abdullah]. Ibnu An Nufail bin Qusyair Abu Mahl Al Ju'fi berkata, telah menceritakan kepada kami [Mu'awiyah bin Qurrah] berkata, telah menceritakan kepadaku [Bapakku] ia berkata, "Aku mendatangi Rasulullah shallallahu 'alaihi wasallam di antara kumpulan orang-orang Muzainah, lalu kami berbaiat kepadanya. Dan baju beliau tidak berkancing. Perawi berkata, "Aku berbaiat kepada beliau beliau, lalu aku masukkan tanganku ke dalam saku baju beliau hingga aku dapat menyentuh setempel (tanda kenabian)." Urwah berkata, "Aku tidak pernah melihat Mu'awiyah dan anaknya kecuali membiarkan kancing bajunya terbuka, mereka tidak pernah menutup kancing bajunya, baik saat musim dingin atau musim panas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4082</td></tr><tr><td>Arabic No</td><td>4082</td></tr><tr><td>Reference</td><td>Book 34 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Му‘авии ибн Курры: «Мой отец рассказывал мне: “Я пришёл к Посланнику Аллаха ﷺ с несколькими товарищами из племени музайна и присягнул ему. А пуговицы его рубашки были расстёгнуты. Присягнув ему, я протянул руку и, просунув её в ворот его рубахи, коснулся печати пророчества (, которая была у Посланника Аллаха ﷺ между лопаток)”». (Передатчик этого хадиса) ‘Урва сказал: «И я никогда не видел, чтобы Му‘авия или его сын застёгивали пуговицы на своих рубашках. Они ходили так зимой и летом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4082</td></tr><tr><td>Arabic No</td><td>4082</td></tr><tr><td>Reference</td><td>Book 34 Hadith 63</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Imran ibn Husayn: A servant of some poor people cut off the ear of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Mu'adz bin Hisyam] berkata, telah menceritakan kepadaku [Bapakku] dari [Qatadah] dari [Abu Nadhrah] dari [Imran bin Hushain] berkata, "Bahwasanya ada budak laki-laki milik orang miskin memotong telinga budak laki-laki milik orang kaya. Lalu keluarga budak (milik orang miskin) tersebut mendatangi Nabi shallallahu 'alaihi wasallam dan berkata, 'Wahai Rasulullah, kami ini adalah orang-orang yang miskin! ' Beliau akhirnya tidak memberikan hukuman apapun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 41 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 41 Hadith 97</td></tr></tbody></table></div>
 

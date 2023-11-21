@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] berkata [Ibnu al-Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata, Saya mendengar [Qatadah] telah bercerita dari [Anas bin Malik] dia berkata, "Rasulullah Shallallahu'alaihiwasallam bersabda, 'Apabila salah seorang dari kalian di dalam shalat maka dia sedang bermunajat kepada Rabbnya, janganlah dia meludah di hadapannya, dan jangan pula di samping kanannya, akan tetapi hendaklah di sebelah kirinya di bawah kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1230</td></tr><tr><td>Arabic No</td><td>551</td></tr><tr><td>Reference</td><td>Book 5 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «Человек во время совершения молитвы ведет тайную беседу со своим Господом, так пусть же никто из вас не плюет перед собой и справа от себя, однако (если ему захочется сплюнуть,) пусть сплюнет налево себе под ноги!»Глава: О том, что плевать в мечети грешно
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1230</td></tr><tr><td>Arabic No</td><td>551</td></tr><tr><td>Reference</td><td>Book 5 Hadith 68</td></tr></tbody></table></div>
 

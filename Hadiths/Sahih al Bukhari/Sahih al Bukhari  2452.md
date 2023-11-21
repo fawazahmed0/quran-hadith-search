@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Zaid:Allah's Messenger (ﷺ) said, "Whoever usurps the land o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah menceritakan kepadaku [Tholhah bin 'Abdullah] bahwa ['Abdurrahman bin 'Amru bin Sahal] mengabarkan kepadanya bahwa [Sa'id bin Zaid radliallahu 'anhu] berkata, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang pernah berbuat aniaya terhadap sebidang tanah (di muka bumi ini) maka nanti dia akan dibebani (dikalungkan pada lehernya) tanah dari tujuh bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2452</td></tr><tr><td>Arabic No</td><td>2452</td></tr><tr><td>Reference</td><td>Book 46 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид бин Зейд, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “(В День воскресения) вокруг шеи присвоившего себе часть (чужой) земли обовьётся (собранное) с семи земель”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2452</td></tr><tr><td>Arabic No</td><td>2452</td></tr><tr><td>Reference</td><td>Book 46 Hadith 13</td></tr></tbody></table></div>
 

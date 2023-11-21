@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Humaid Al-Sa'idi:The Prophet (ﷺ) appointed a man from the tribe o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri], ia mendengar ['Urwah] telah mengabarkan kepada kami, [Abu Humaid assa'idi] mengtakan, Pernah Nabi shallallahu 'alaihi wasallam mempekerjakan seseorang dari bani Asad yang namanya Ibnul Utbiyah untuk menggalang dana sedekah. Orang itu datang sambil mengatakan; "Ini bagimu, dan ini hadiah bagiku." Secara spontan Nabi shallallahu 'alaihi wasallam berdiri diatas minbar -sedang Sufyan mengatakan dengan redaksi; 'naik minbar-, beliau memuja dan memuji Allah kemudian bersabda; "ada apa dengan seorang amil zakat yang kami utus, lalu ia datang dengan mengatakan; ini untukmu dan ini hadiah untukku! Cabalah ia duduk saja di rumah ayahnya atau rumah ibunya, dan cermatilah, apakah ia menerima hadiah ataukah tidak? Demi Dzat yang jiwaku berada di tangan-NYA, tidaklah seorang amil zakat membawa sesuatu dari harta zakat, selain ia memikulnya pada hari kiamat diatas tengkuknya, jikalau unta, maka unta itu mendengus, dan jika sapi, ia melenguh, dan jika kambing, ia mengembik, " kemudian beliau mengangkat kedua tangannya sehingga kami melihat putih kedua ketiaknya seraya mengatakan: " ketahuilah, bukankah telah kusampaikan?" (beliau mengulang-ulanginya tiga kali). Sedang [Sufyan] mengatakan; [Az Zuhri] telah mengisahkannya kepada kami, dan [Hisyam] menambahkan dari [ayahnya] dari [Abu Humaid] mengatakan; 'kedua telingaku mendengar dan mataku melihatnya, ' dan mereka menanyakan kepada Zaid bin Tsabit bahwasanya ia mendengarnya bersamaku, sedang Az Zuhri tidak mengatakan; 'telingaku mendengar lenguh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7174</td></tr><tr><td>Arabic No</td><td>7174</td></tr><tr><td>Reference</td><td>Book 93 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хумайд ас-Са‘иди, да будет доволен им Аллах, передаёт: «В своё время Пророк ﷺ поручил одному человеку из [племени] бану асд по имени Ибн аль-Утбийя заниматься сбором закята. Вернувшись, он сказал: “Это — вам, а это было подарено мне”. Тогда Пророк ﷺ встал на минбар, (Также Суфьян сказал: “...поднялся на минбар”) воздал хвалу Аллаху, восславил Его, а потом сказал: “Что такое, мы посылаем работника, а он приходит и говорит: ‹Это — вам, а это — мне›! Почему не остался он в доме своего отца и своей матери, чтобы посмотреть, подарят ему это или нет?! Клянусь Тем, в Чьей руке душа моя, кто придёт с чем-то из этого, тот в День воскресения обязательно придёт, таща это на себе. Если это был верблюд, то [он явится] с ревущим верблюдом, [и это может быть] мычащая корова или блеющая овца!” После чего [Пророк ﷺ] воздел руки к небу так, что мы увидели белизну его подмышек, и сказал: “Довёл ли я?” — повторив эти слова трижды». \nСуфьян (ибн ‘Уейна) сказал: «Нам рассказал этот (хадис) аз-Зухри. Хишам добавил от своего отца от Абу Хумейда, который сказал: “Уши мои слышали, глаз мой видел это и спросите Зейд ибн Сабита, ибо, он слышал об этом вместе со мной”. А аз-Зухри не сказал: “Ухо моё слышало”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7174</td></tr><tr><td>Arabic No</td><td>7174</td></tr><tr><td>Reference</td><td>Book 93 Hadith 38</td></tr></tbody></table></div>
 

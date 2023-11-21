@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported Allah's Messenger (ﷺ) as saying:I saw (in a dream) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin 'Abdullah bin Numair] dan lafazh ini milik Abu Bakr dia berkata; Telah menceritakan kepada kami [Muhammad bin Bisyr]; Telah menceritakan kepada kami ['Ubaidullah bin 'Umar]; Telah menceritakan kepadaku [Abu Bakr bin Salim] dari [Salim bin 'Abdullah] dari ['Abdullah bin 'Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku bermimpi seakan-akan aku menimba air dengan timba di sebuah sumur Bakrah, sumur tua. Lalu Abu bakar datang dan dia juga menimba satu atau dua ember dalam keadaan susah payah -semoga Allah mengampuninya-. Kemudian Umar datang, dia meminta ember yang lebih besar. Maka ketika itu aku tidak pernah melihat orang yang lebih kuat darinya, hingga orang-orangpun berkumpul dapat minum sambil memberi minum hewan ternak mereka. Telah menceritakan kepada kami [Ahmad bin 'Abdullah bin Yunus]; Telah menceritakan kepada kami [Zuhair]; Telah menceritakan kepadaku [Musa bin 'Uqbah] dari [Salim bin 'Abdullah] dari [Bapaknya] dari mengenai mimpi Rasulullah shallallahu 'alaihi wasallam tentang Abu Bakr dan 'Umar bin Al Khaththab dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6196</td></tr><tr><td>Arabic No</td><td>2393.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6196</td></tr><tr><td>Arabic No</td><td>2393.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 27</td></tr></tbody></table></div>
 

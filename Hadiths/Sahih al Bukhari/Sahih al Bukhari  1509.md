@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) ordered the people to pay Zakat-ul-Fitr bef
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Hafsh bin Maisarah] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam memerintahkan (untuk menunaikan) zakat fithri sebelum orang-orang keluar untuk shalat ('Ied)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1509</td></tr><tr><td>Arabic No</td><td>1509</td></tr><tr><td>Reference</td><td>Book 24 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ приказал раздавать закят аль-Фитр до выхода людей на молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1509</td></tr><tr><td>Arabic No</td><td>1509</td></tr><tr><td>Reference</td><td>Book 24 Hadith 109</td></tr></tbody></table></div>
 

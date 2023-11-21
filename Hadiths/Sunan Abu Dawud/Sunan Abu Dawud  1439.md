@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Talq ibn Ali: Qays ibn Talq said: Talq ibn Ali visited us on a certain 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Mulazim bin 'Amr], telah menceritakan kepada Kami [Abdullah bin Badr] dari [Qais bin Thalq], ia berkata; [Thalq bin Ali] telah mengunjungi Kami pada Bulan Ramadhan hingga sore dan berbuka bersama Kami, kemudian dia melakukan shalat sebagai Imam bagi Kami pada malam itu, dan melakukan witir, kemudian dia turun kemasjidnya dan melaksanakan shalat menjadi imam bagi sahabat-sahabatnya hingga tatkala tinggal shalat witir, ia mempersilahkan seseorang kedepan dan mengatakan kepadanya: shalat witirlah kamu sebagai imam bagi sahabat-sahabatmu, karena aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada dua witir dalam semalam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1439</td></tr><tr><td>Arabic No</td><td>1439</td></tr><tr><td>Reference</td><td>Book 8 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Кайса ибн Талька: «Однажды Тальк ибн ‘Али навестил нас в рамадане. Вечер он провёл у нас, у нас же разговелся и совершил молитву-таравих и витр вместе с нами. После этого он пошёл в мечеть и совершил молитву со своими товарищами. А когда остался только витр, он велел одному из них выйти вперёд и сказал: “Соверши с ними витр, ибо я слышал, как Посланник Аллаха ﷺ сказал: “Не следует совершать два витра в одну ночь””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1439</td></tr><tr><td>Arabic No</td><td>1439</td></tr><tr><td>Reference</td><td>Book 8 Hadith 24</td></tr></tbody></table></div>
 

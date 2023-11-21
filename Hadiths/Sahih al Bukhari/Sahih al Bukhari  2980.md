@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:During the life-time of the Prophet (ﷺ) we used t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah mengabarkan kepada kami [Sufyan] dari ['Amru] berkata telah bercerita kepadaku ['Atha'] dia mendengar [Jabir bin 'Abdullah radliallahu 'anhuma] berkata: "Kami membawa bekal berupa daging-daging hewan qurban pada zaman Nabi shallallahu 'alaihi wasallam (ketika berhijrah) ke Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2980</td></tr><tr><td>Arabic No</td><td>2980</td></tr><tr><td>Reference</td><td>Book 56 Hadith 189</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Во время Пророка ﷺ мы запасались мясом жертвенных животных и отправлялись с ним в Медину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2980</td></tr><tr><td>Arabic No</td><td>2980</td></tr><tr><td>Reference</td><td>Book 56 Hadith 189</td></tr></tbody></table></div>
 

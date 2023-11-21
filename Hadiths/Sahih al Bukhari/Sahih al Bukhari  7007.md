@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "While I was sleeping
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ayahku] dari [Abu Shalih] dari [Ibnu Syihab] telah menceritakan kepadaku [Hamzah bin Abdullah bin Umar], bahwasanya ia mendengar [Abdullah bin Umar] radliallahu 'anhuma mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku tidur, aku diberi segelas susu, lantas aku meminumnya hingga aku betul-betul melihat sungai dari ujung-ujung jari jemariku, lantas kuberikan kelebihannya kepada Umar bin Khattab." Maka para sahabat yang di sekitarnya berujar; 'bagaimana engkau takwilkan Ya Rasulullah? ' Beliau menjawab; "seperti itulah ilmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7007</td></tr><tr><td>Arabic No</td><td>7007</td></tr><tr><td>Reference</td><td>Book 91 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал: «Однажды во сне я увидел, что мне поднесли чашу молока, и я пил его, пока не заметил, что влага выходит у меня из-под конечностей, после чего отдал оставшееся ‘Умару ибн аль-Хаттабу». Те, кто были вокруг (Пророка ﷺ) сказали: «И как же ты истолковал это, о Посланник Аллаха?» — и он сказал: «(Это —) знание»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7007</td></tr><tr><td>Arabic No</td><td>7007</td></tr><tr><td>Reference</td><td>Book 91 Hadith 25</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:When 'Abdullah bin Ubai bin Salul died, Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] dari ['Uqail]. -dan yang lainnya berkata- Telah menceritakan kepadaku Al Laits Telah menceritakan kepadaku Uqail dari [Ibnu Syihab] dia berkata; Telah mengabarkan kepadaku ['Ubaidullah bin 'Abdullah] dari [Ibnu 'Abbas] dari ['Umar bin Al Khaththab radliallahu 'anhu] Tatkala Abdullah bin Ubai bin Salul meninggal dunia, Rasulullah shallallahu 'alaihi wasallam diundang untuk menshalatinya. Setelah Rasulullah shallallahu 'alaihi wasallam berdiri untuk melaksanakan Shalat, aku meloncat ke arah beliau, lalu aku berkata, "Wahai Rasulullah shallallahu 'alaihi wasallam, kenapa engkau menshalati Ibnu Ubay, padahal ia telah mengatakan di hari ini-itu begini dan begitu?! Aku hitung-hitung kejelekannya, Rasulullah shallallahu 'alaihi wasallam tersenyum seraya bersabda: "Tundalah -perkataanmu- dariku wahai Umar!" setelah aku mengulang menyebut-nyebut kejelekannya, beliau bersabda: " Aku telah diberikan pilihan, aku memilih. Andaikata aku tahu kalau aku menambahnya lebih dari tujuh puluh ia akan diampuni, niscaya aku menambahnya!."Lalu Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat atasnya, kemudian beliau pergi dan tidak berada di tempat itu kecuali hanya sejenak, hingga turun dua ayat dari surah Bara'ah, "(Dan janganlah kamu sekali-kali menshalatkan (jenazah) seorang yang mati di antara mereka, dan janganlah kamu berdiri (mendo'akan) di kuburnya. mereka telah kafir kepada Allah dan RasulNya dan mereka mati dalam keadaan fasik." (Qs. At-Taubah: 84). Setelah itu aku heran atas keberanianku terhadap Rasulullah shallallahu 'alaihi wasallam ketika itu. Dan hanya Allah dan Rasul-Nya yang lebih mengatahui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4671</td></tr><tr><td>Arabic No</td><td>4671</td></tr><tr><td>Reference</td><td>Book 65 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «Когда умер ‘Абдуллах ибн Убай ибн Салюль, люди позвали Посланника Аллаха ﷺ совершить за него заупокойную молитву. Когда Посланник Аллаха ﷺ встал, чтобы совершить молитву, я подскочил к нему и сказал: “О Посланник Аллаха! Ты будешь совершать молитву за Ибн Убаййа, ведь в такой-то день он говорил то-то?” — и начал перечислять все, что он сказал. Посланник Аллаха ﷺ улыбнулся и сказал: “Отойди от меня, о ‘Умар!” Когда я начал говорить ещё, он сказал: “Поистине, мне был дан выбор, и я выбрал. Если бы я знал, что он будет прощен, если я попрошу за него прощения (у Аллаха) более семидесяти раз, я бы так и сделал”. Посланник Аллаха ﷺ совершил за него заупокойную молитву, затем ушел. Через некоторое время, снизошли два аята из суры “аль-Бара” — “Никогда не совершай молитву за кого-либо из них и не стой над его могилой, ведь они не уверовали в Аллаха и Его Посланника и умерли нечестивцами” (сура “ат-Тауба”, аят 84). ‘Умар сказал: “Позже я удивился своей смелости перед Посланником Аллаха ﷺ в тот день. А Аллах и Его Посланник знают лучше”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4671</td></tr><tr><td>Arabic No</td><td>4671</td></tr><tr><td>Reference</td><td>Book 65 Hadith 193</td></tr></tbody></table></div>
 

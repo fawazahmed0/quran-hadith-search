@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama said:I asked 'A'isha with how many garments the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibnu Abu Umar] telah menceritakan kepada kami [Abdul Aziz] dari [Yazid] dari [Muhammad bin Ibrahim] dari [Abu Salamah] bahwa ia berkata; Saya bertanya kepada [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, saya berkata kepadanya, "Rasulullah shallallahu 'alaihi wasallam dikafani dengan berapa helai kain?" Aisyah menjawab, "(Beliau dikafani) dengan tiga helai kain putih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2182</td></tr><tr><td>Arabic No</td><td>941.04</td></tr><tr><td>Reference</td><td>Book 11 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Саляма сказал: «Я спросил ‘Аишу, жену Пророка ﷺ: “Во сколько кусков ткани было завёрнуто тело Посланника Аллаха ﷺ?”, и она сказала: “В три куска йеменской ткани из Сахуля”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2182</td></tr><tr><td>Arabic No</td><td>941.04</td></tr><tr><td>Reference</td><td>Book 11 Hadith 60</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported:I went to Allah's Messenger (ﷺ) in the morning and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Fudhail bin Husain Al Jahdari] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Abu 'Imran Al Jauni] dia berkata; ['Abdullah bin Rabbah Al Anshari] menulis kepadaku bahwa [Abdullah bin 'Amru] berkata; dipagi hari aku pergi menemui Rasulullah shallallahu 'alaihi wasallam, lalu terdengar ada dua orang sahabat yang berselisih tentang ayat Allah, Maka Rasulullah shallallahu 'alaihi wasallam menemui kami dalam keadaan marah seraya bersabda: "Sesungguhnya umat-umat sebelum kalian dahulu celaka karena mereka berselisih tentang isi kitab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6776</td></tr><tr><td>Arabic No</td><td>2666</td></tr><tr><td>Reference</td><td>Book 47 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6776</td></tr><tr><td>Arabic No</td><td>2666</td></tr><tr><td>Reference</td><td>Book 47 Hadith 2</td></tr></tbody></table></div>
 

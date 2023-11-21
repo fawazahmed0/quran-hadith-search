@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Uqbah bin 'Amir:There were three times at which the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Waki'], telah menceritakan kepada kami [Musa bin Ali bin Rabah], ia berkata; saya mendengar [ayahku] menceritakan bahwa ia mendengar ['Uqbah bin 'Amir] berkata; ada tiga waktu dimana Rasulullah shallallahu 'alaihi wasallam melarang kami untuk melakukan shalat atau mengkuburkan jenazah, yaitu; ketika matahari terbit hingga meninggi, ketika matahari tepat di atas kepala hingga bergeser (bergelincir), dan ketika matahari condong untuk tenggelam hingga matahari tenggelam. Atau sebagaimana yang beliau sabdakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (831)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3192</td></tr><tr><td>Arabic No</td><td>3192</td></tr><tr><td>Reference</td><td>Book 21 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Укба ибн ‘Амир, да будет доволен им Аллах, сказал: «Есть три промежутка времени, в которые Посланник Аллаха ﷺ запрещал нам совершать молитву и хоронить наших умерших: с восхода солнца до того времени, когда оно поднимется над горизонтом; когда солнце в зените, пока оно не отклонится от точки зенита; и перед самым заходом солнца, пока оно не зайдёт»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (831)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3192</td></tr><tr><td>Arabic No</td><td>3192</td></tr><tr><td>Reference</td><td>Book 21 Hadith 104</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Barirah came (to 'Aisha) and said, "I have made a contract of ema
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata; "Barirah datang seraya berkata: "Aku tengah berusaha membebaskan diriku kepada tuanku dengan pembayaran sembilan waq, yang setiap tahunnya aku bayar satu waq, karenanya bantulah aku." Maka 'Aisyah radliallahu 'anha berkata: "Jika tuanmu berkenan, aku bayar kepada mereka dengan satu pembayaran (cash, tunai) lalu aku bebaskan kamu dan perwalianmu menjadi milikku". Maka Barirah pergi menemui tuannya namun mereka menolak ketentuan tersebut. Kemudian 'Aisyah radliallahu 'anha berkata: "Sungguh aku telah menawarkan kepada mereka namun mereka menolaknya kecuali bila perwaliannya tetap menjadi milik mereka". Hal ini didengar oleh Rasulullah shallallahu 'alaihi wasallam lalu Beliau menanyakannya kepadaku, lalu aku beri tahu Beliau maka Beliau bersabda: "Ambillah dia lalu bebaskanlah dan ajukanlah persyaratan wala' kepada mereka karena wala' menjadi milik orang yang membebaskannya". 'Aisyah radliallahu 'anha berkata: "Maka kemudian Rasulullah shallallahu 'alaihi wasallam berdiri di hadapan manusia lalu memuji Allah dan mengangungkan-Nya kemudian bersabda: "Kemudian dari pada itu, mengapakah ada orang-orang diantara kalian mereka membuat persyaratan dengan syarat-syarat yang tidak ada pada Kitabulloh. Maka syarat apa saja yang tidak ada pada Kitab Allah maka dia bathil sekalipun dengan seratus persyaratan. Ketetapan Allah dan syarat dari Allah lebih kuat. Dan apa alasannya orang-orang diantara kalian berkata: "Bebaslah dia wahai fulan namun perwaliannya tetap milikku. Sesungguhnya perwalian menjadi milik orang yang membebaskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2563</td></tr><tr><td>Arabic No</td><td>2563</td></tr><tr><td>Reference</td><td>Book 50 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды ко мне пришла Барира и сказала: “Я заключила договор о самовыкупе со своими хозяевами за девять окий (серебра) сроком на девять лет, при условии, что я ежегодно буду выплачивать им по одной окий, помоги же мне (расплатиться)”. Я сказала: “Если твои хозяева согласятся, чтобы я выплатила за тебя сразу всю необходимую сумму и освободила тебя, и уаля (право наследования имущества освобождённого) будет принадлежать мне, то я сделаю это”. Тогда Барира пошла к своим хозяевам, (и передала им её слова,) но они отказались. Когда она вернулась, Посланник Аллаха ﷺ сидел (в доме ‘Аиши). Она сказала: “Я предложила им, но они настояли, что покровительство останется за ними”. Когда Пророк ﷺ услышал её, и я рассказала ему (всё в подробностях), он сказал: “Купи её и освободи, и поставь им условие, что покровительство останется за тобой, ведь покровителем может быть только тот, кто освободил раба”. Затем Посланник Аллаха ﷺ встал перед людьми, прославил и восхвалил Аллаха, и сказал: “А затем. Почему некоторые из вас выдвигают условия, которых нет в Книге Аллаха? Условия, которых нет в Книге Аллаха, являются недействительными, даже если это будет сто условий! Решения Аллаха являются самыми истинными, а условия Аллаха самыми надёжными. Почему некоторые из вас говорят: “О такой-то, освободи раба, а покровительство останется за мной”? Право на покровительство принадлежит только тому, кто освободил раба”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2563</td></tr><tr><td>Arabic No</td><td>2563</td></tr><tr><td>Reference</td><td>Book 50 Hadith 4</td></tr></tbody></table></div>
 

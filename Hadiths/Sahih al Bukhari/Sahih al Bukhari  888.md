@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) said, "I have told you repeatedly to use t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada kami ['Abdul Warits] berkata, telah menceritakan kepada kami [Syu'aib bn Al Habhab] telah menceritakan kepada kami [Anas] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku telah terlalu sering memperingatkan kalian untuk selalu bersiwak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>888</td></tr><tr><td>Arabic No</td><td>888</td></tr><tr><td>Reference</td><td>Book 11 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Я много раз (говорил) вам (, что следует пользоваться) зубочисткой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>888</td></tr><tr><td>Arabic No</td><td>888</td></tr><tr><td>Reference</td><td>Book 11 Hadith 13</td></tr></tbody></table></div>
 

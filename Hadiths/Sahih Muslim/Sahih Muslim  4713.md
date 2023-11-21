@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après (que Dieu l'agrée), 'Abdoullâh Ibn 'Omar rapporte qu'on demanda à "P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Ibnu Umar] dia berkata, "Aku ikut hadir ketika ayahku kena musibah (ditikam oleh seseorang). Para sahabat beliau yang hadir ketika itu turut menghiburnya, kata mereka, "Semoga Allah membalas anda dengan kebaikan." Umar menjawab, "Aku penuh harap dan juga merasa cemas." Mereka berkata, "Tunjukkanlah pengganti anda (sebagai Khalifah)!" Umar menjawab, "Apakah aku juga harus memikul urusan pemerintahanmu waktu hidup dan metiku? Aku ingin tugasku sudah selesai, tidak kurang dan tidak lebih. Jika aku menunjuk penggantiku, maka itu pernah dilakukan oleh orang yang lebih baik daripadaku, yaitu Abu Bakar As Shidiq. Dan jika pengankatan itu aku serahkan kepada kalian, maka itu pun pernah dilakukan oleh orang yang lebih baik dari aku, yaitu Rasulullah shallallahu 'alaihi wasallam." Abdullah berkata, "Dari penuturannya itu, tahulah aku bahwa dia tidak akan menunjuk penggantinya untuk menjadi Khalifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4713</td></tr><tr><td>Arabic No</td><td>1823.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4713</td></tr><tr><td>Arabic No</td><td>1823.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 13</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) said: Our Lord Most High is plea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], telah mengabarkan kepada kami ['Atha' bin As Sa'ib], dari [Murrah Al Hamdani], dari [Abdullah bin Mas'ud], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkata: "Tuhan kalian 'azza wajalla merasa kagum kepada seorang laki-laki yang berperang di jalan Allah. Kemudian para sahabatkan kalah dan ia mengetahui kewajibannya, kemudian ia kembali hingga telah bercucuran darahnya. Kemudian Allah ta'la berfirman kepada para malaikatNya: "Lihatlah kepada hambaKu, ia kembali karena menginginkan apa yang ada di sisiKu, dan rindu kepada apa yang ada di sisiKu hingga bercucuran darahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2536</td></tr><tr><td>Arabic No</td><td>2536</td></tr><tr><td>Reference</td><td>Book 15 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2536</td></tr><tr><td>Arabic No</td><td>2536</td></tr><tr><td>Reference</td><td>Book 15 Hadith 60</td></tr></tbody></table></div>
 

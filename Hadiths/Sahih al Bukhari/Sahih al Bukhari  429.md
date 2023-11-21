@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Al-Taiyah [??]:Anas said, "The Prophet (ﷺ) prayed in the sheep fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu At Tayyah] dari [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam pernah shalat di kandang kambing." Setelah itu aku mendengar Anas mengatakan, "Beliau shalat di kandang kambing sebelum masjid di bangun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>429</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 8 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу ат-Таяха о том, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ часто молился в загонах для овец». \n(Абу ат-Таях сказал:) «Затем я слышал, как после этого он говорил: “Он молился в загонах для овец до того, как построили мечеть”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>429</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 8 Hadith 79</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the last verses of Surat-al-Baqara were revealed, the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Syu'bah] dari [Al A'masy] dari [Abu Adh-Dhuhaa] dari [Masruq] dari ['Aisyah radliallahu 'anha]; Ketika turun ayat-ayat akhir dari Surah Al Baqarah, Nabi shallallahu 'alaihi wasallam keluar lalu bersabda: "Telah diharamkan perdagangan khamar (minuman keras)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2226</td></tr><tr><td>Arabic No</td><td>2226</td></tr><tr><td>Reference</td><td>Book 34 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда были ниспосланы последние аяты из суры “аль-Бакара”, Пророк ﷺ вышел и сказал: “Запрещено торговать алкоголем”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2226</td></tr><tr><td>Arabic No</td><td>2226</td></tr><tr><td>Reference</td><td>Book 34 Hadith 173</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thumama:Anas said, "Um Sulaim used to spread a leather sheet for the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'd] telah menceritakan kepada kami [Muhammad bin Abdullah Al Anshari] dia berkata; telah menceritakan kepadaku [Ayahku] dari [Tsumamah] dari [Anas] bahwa Ummu Sulaim, bahwa dia biasa membentangkan tikar dari kulit untuk Nabi shallallahu 'alaihi wasallam, lalu beliau istirahat siang di atas tikar tersebut, Anas melanjutkan; "Apabila Nabi shallallahu 'alaihi wasallam telah tidur, maka Ummu Sulaim mengambil keringat dan rambutnya yang terjatuh dan meletakkannya di wadah kaca, setelah itu ia mengumpulkannya di sukk (ramuan minyak wangi), Tsumamah berkata; 'Ketika Anas bin Malik hendak meninggal dunia, maka dia berwasiat supaya ramuan tersebut dicampurkan ke dalam hanuth (ramuan yang digunakan untuk meminyaki mayyit), akhirnya ramuan tersebut diletakkan di hanuth (ramuan yang digunakan untuk meminyaki mayyit)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6281</td></tr><tr><td>Arabic No</td><td>6281</td></tr><tr><td>Reference</td><td>Book 79 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, что Умм Сулейм расстилала для Пророка ﷺ кожаную подстилку, на которой он спал днём. Анас сказал: «Пока Пророк ﷺ спал, она собирала его пот и волосы, помещала их в стеклянную бутылку и смешивала с благовониями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6281</td></tr><tr><td>Arabic No</td><td>6281</td></tr><tr><td>Reference</td><td>Book 79 Hadith 55</td></tr></tbody></table></div>
 

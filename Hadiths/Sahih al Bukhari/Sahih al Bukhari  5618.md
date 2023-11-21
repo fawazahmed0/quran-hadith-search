@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Al-Fadl:(daughter of Al-Harith) that she sent a bowl of milk to the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kami [Abdul Aziz bin Salamah] telah mengabarkan kepada kami [Abu An Nadlr] dari ['Umair] bekas budak Ibnu Abbas, dari [Ummu Fadl binti Al Harits] bahwa dia pernah mengirim semangkuk susu kepada Nabi shallallahu 'alaihi wasallam ketika beliau sedang berhenti di 'Arafah, lalu beliau mengambilnya dan meminumnya." [Malik] menambahkan dari [Abu An Nadlar] " di atas untanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5618</td></tr><tr><td>Arabic No</td><td>5618</td></tr><tr><td>Reference</td><td>Book 74 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Умайра, вольноотпущенника Ибн ‘Аббаса, что Умм аль-Фадль бинт аль-Харис, послала Пророку ﷺ кувшин молока, когда он стоял утром в день ‘Арафата, и он взял его в руки и выпил.\nМалик добавил со слов Абу ан-Надра: «Верхом на своем верблюде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5618</td></tr><tr><td>Arabic No</td><td>5618</td></tr><tr><td>Reference</td><td>Book 74 Hadith 44</td></tr></tbody></table></div>
 

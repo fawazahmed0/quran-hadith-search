@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Muharrish al-Ka'bi: The Prophet (ﷺ) entered al-Ji'ranah. He came to t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Sa'id bin Muzahim bin Abu Muzahim], telah menceritakan kepadaku [Abu Muzahim] dari [Abdul 'Aziz bin Abdullah bin Usaid] dari [Muharrisy Al Ka'bi], ia berkata; Nabi shallallahu 'alaihi wasallam memasuki Al Ji'ranah, kemudian beliau datang ke masjid dan melakukan shalat sebanyak yang Allah kehendaki, kemudian beliau berada di atas kendaraannya dan menghadap ke arah Sarif, hingga beliau bertemu dengan jalan menuju Madinah, dan pada pagi hari beliau seperti orang yang bermalam di Mekkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1996</td></tr><tr><td>Arabic No</td><td>1996</td></tr><tr><td>Reference</td><td>Book 11 Hadith 276</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухарриш аль-Ка‘би сказал: «Пророк ﷺ прибыл в Джи‘рану, вошёл в мечеть, совершил молитву в столько рак‘атов, сколько пожелал Аллах, потом вошёл в состояние ихрама. Потом он сел на свою верблюдицу и поехал в сторону Сарифа, пока не доехал до дороги, ведущей в Медину, и утро застало его в Мекке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1996</td></tr><tr><td>Arabic No</td><td>1996</td></tr><tr><td>Reference</td><td>Book 11 Hadith 276</td></tr></tbody></table></div>
 

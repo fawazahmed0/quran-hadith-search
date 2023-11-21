@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd Sa'id Khudri reported:We were in the company of Ubayy b. Ka'b that Abu Musa 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepadaku ['Abdullah bin Wahb]; Telah menceritakan kepadaku ['Amru bin Al Harits] dari [Bukair bin Al Asyaj] bahwa [Busr bin Sa'id]; Telah menceritakan kepadanya, dia mendengar [Abu Sa'id Al Khudri] berkata; Suatu ketika kami sedang berada di Majlis Ubay bin Ka'ab, tiba-tiba Abu Musa Al Asy'ari datang dalam keadaan marah, lalu beliau berdiri seraya berkata; Demi Allah, apakah di antara kalian ada yang pernah mendengar sabda Rasulullah shallallahu 'alaihi wasallam yang berbunyi: "Meminta izin itu hanya tiga kali, apabila di izinkan, kalian boleh masuk, jika setelah tiga kali tidak ada jawaban, maka pulanglah." Ubay berkata; memang ada apa dengan Hadits tersebut? [Abu Musa] menjawab; 'Kemarin aku telah meminta izin kepada Umar sebanyak tiga kali, namun tidak ada jawaban, maka akupun pulang kembali. Lalu pada hari ini aku mendatanginya lagi dan aku kabarkan kepadanya bahwa aku telah menemuinya kemarin dan sudah aku ucapkan salam sebanyak tiga kali, namun tidak ada jawaban akhirnya aku pulang kembali. Dan Umar menjawab; kami telah mendengarmu, yang pada waktu itu kami memang sedang sibuk hingga tidak sempat mengizinkanmu, tetapi kenapa kamu tidak menungguku sampai aku mengizinkanmu? Abu Musa menjawab; Aku meminta izin sebagaimana yang telah aku dengar dari Rasulullah shallallahu 'alaihi wasallam. Lalu Umar berkata; Demi Allah, aku akan menghukum kamu hingga kamu mendatangkan saksi ke hadapanku mengenai hadits itu. Kemudian Ubay bin Ka'ab berkata; Demi Allah, tidak akan ada yang menjadi saksi atasmu kecuali orang yang paling muda di antara kami. Berdirilah wahai [Abu Sa'id]! lalu akupun berdiri hingga aku menemui Umar, dan aku katakan kepadanya; Aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda mengenai Hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5628</td></tr><tr><td>Arabic No</td><td>2153.03</td></tr><tr><td>Reference</td><td>Book 38 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5628</td></tr><tr><td>Arabic No</td><td>2153.03</td></tr><tr><td>Reference</td><td>Book 38 Hadith 43</td></tr></tbody></table></div>
 

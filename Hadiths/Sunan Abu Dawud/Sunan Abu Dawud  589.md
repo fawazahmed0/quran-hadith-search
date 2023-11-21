@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Malik b. al-Huwairith said that the Prophet( may peace be upon him) told him or 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'il] Al-Hadits. Dan telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Maslamah bin Muhammad] dengan makna yang sama, dari [Khalid] dari [Abu Qilabah] dari [Malik bin Al-Huwairits] bahwasanya Nabi shallallahu 'alaihi wasallam pernah bersabda kepadanya atau kepada temannya: "Apabila waktu shalat telah tiba, maka adzanlah, kemudian kumandangkanlah iqamah, lalu hendaklah yang lebih tua dari kalian berdua yang menjadi imam." Dan di dalam hadits Maslamah disebutkan, dia berkata; Dan ketika itu kami memiliki ilmu yang tidak jauh berbeda. Dia berkata di dalam hadits Isma'il berkata Khalid Saya bertanya kepada Abu Qi1abah; Lalu siapakah (yang lebih ahli) Al Quran? Dia menjawab; Sesungguhnya keduanya itu hampir sama dalam i1mu pegetahuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (630) Sahih Muslim (674)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>589</td></tr><tr><td>Arabic No</td><td>589</td></tr><tr><td>Reference</td><td>Book 2 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Малика ибн аль-Хууайриса о том, что Пророк ﷺ сказал ему или его товарищу: «Когда подойдет (время) молитвы, пусть (один из вас) возвестит азан, затем икаму, и пусть старший из вас возглавит (молитву)».В хадисе, который передал Масляма (Малик ибн аль-Хууайрис) он сказал: «И были мы на тот день одинаковы по уровню знаний».А в хадисе, который передал Исма‘иль, он сказал: «Халид (ибн Михран аль-Хуза‘и)». Он сказал: «Я спросил у Абу Къилябы (‘Абдуллаха ибн Зейда): “А где же (чтение) Корана?”. Он ответил: “Они (по уровню знания Корана) были одинаковы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (630) Sahih Muslim (674)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>589</td></tr><tr><td>Arabic No</td><td>589</td></tr><tr><td>Reference</td><td>Book 2 Hadith 199</td></tr></tbody></table></div>
 

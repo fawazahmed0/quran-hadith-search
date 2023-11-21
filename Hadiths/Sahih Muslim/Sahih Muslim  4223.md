@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] -yaitu Ibnu Sa'id- dan [Ibnu Hujr] mereka berkata; telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Ja'far- dari [Al 'Ala'] dari [Ayahnya] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang manusia meninggal dunia, maka terputuslah segala amalannya kecuali tiga perkara; sedekah jariyah, ilmu yang bermanfa'at baginya dan anak shalih yang selalu mendoakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4223</td></tr><tr><td>Arabic No</td><td>1631</td></tr><tr><td>Reference</td><td>Book 25 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4223</td></tr><tr><td>Arabic No</td><td>1631</td></tr><tr><td>Reference</td><td>Book 25 Hadith 20</td></tr></tbody></table></div>
 

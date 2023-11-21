@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:My father was martyred on the day (of the battle) o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhriy] berkata, telah menceritakan kepadaku [Ibnu Kaab bin Malik] bahwa [Jabir bin 'Abdullah radliallahu 'anhuma] mengabarkan kepadanya bahwa bapaknya terbunuh dalam perang Uhud sebagai syahid sementara dia meninggalkan hutang, lalu para pemilik piutang mendesak agar hak-hak mereka ditunaikan, maka aku datang menemui Nabi shallallahu 'alaihi wasallam, Beliau meminta agar para pemilik piutang mau menerima kebunku sebagai pembayaran dan pelunasan hutang bapakku namun mereka menolaknya sehingga Nabi shallallahu 'alaihi wasallam berkata: "Tunggu sampai besok". Akhirnya besok paginya Beliau mengelilingi pohon-pohon kurma lalu berdoa minta keberkahan pada buah-buahannya. Maka aku dapatkan buah-buha kurma itu tumbuh banyak lalu aku berikan untuk membayar hutang kepada mereka dan buahnya masih tersisa untuk kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2395</td></tr><tr><td>Arabic No</td><td>2395</td></tr><tr><td>Reference</td><td>Book 43 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Мой отец был убит в день битвы при Ухуде, оставив долги. И когда его заимодавцы стали настойчиво требовать то, что им положено, я пошёл к Пророку ﷺ (и сообщил ему об этом). Он попросил их взять плоды моего сада и освободить моего отца от долгов, но они отказались. Таким образом, Пророк ﷺ не дал им плоды моего сада и сказал мне: “Я приду к тебе утром”. Утром он пришёл ко мне, прошёлся между пальм и попросил (у Аллаха) благословить их плоды. Затем я собрал финики и полностью расплатился с заимодавцами, и (даже после этого) часть фиников осталась у нас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2395</td></tr><tr><td>Arabic No</td><td>2395</td></tr><tr><td>Reference</td><td>Book 43 Hadith 11</td></tr></tbody></table></div>
 

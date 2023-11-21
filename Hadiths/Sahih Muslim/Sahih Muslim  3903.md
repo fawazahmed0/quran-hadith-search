@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported Allah's Apostle (ﷺ) as saying:W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Rumh] telah mengabarkan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu Umar] bahwa Nabi Shallallu 'alaihi wa sallam bersabda: "Barangsiapa mengawinkan pohon kurma kemudian dia menjual pohonnya, maka buahnya bagi orang yang mengawinkan kecuali jika pembeli memberikan syarat buah itu untuknya." Dan telah menceritakan kepada kami [Abu Ar Rabi'] dan [Abu Kamil] keduanya berkata; Telah menceritakan kepada kami [Hammad]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] keduanya dari [Ayyub] dari [Nafi'] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3903</td></tr><tr><td>Arabic No</td><td>1543.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3903</td></tr><tr><td>Arabic No</td><td>1543.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 102</td></tr></tbody></table></div>
 

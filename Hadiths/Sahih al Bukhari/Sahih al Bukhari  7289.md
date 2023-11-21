@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Abi Waqqas:The Prophet (ﷺ) said, "The most sinful person amo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yazid Al Muqri'] Telah menceritakan kepadaku [Said] telah menceritakan kepadaku [Uqail] dari [Ibnu Syihab] dari ['Amir bin Sa'id bin Abu Waqash] dari [Bapaknya] bahwa Nabi shallallahu 'alaihi wasallam, beliau berkata: "Kaum muslimin yang paling besar dosanya adalah yang bertanya tentang sesuatu, lantas sesuatu tersebut diharamkan karena pertanyaannya, padahal sebelumnya tidak diharamkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7289</td></tr><tr><td>Arabic No</td><td>7289</td></tr><tr><td>Reference</td><td>Book 96 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амир ибн Са‘д ибн Абу Ваккас передаёт от своего отца, что Пророк ﷺ сказал: «Самое большое преступление из мусульман совершает тот, кто [без всякой нужды] спрашивает о чём-нибудь из того, что не было запрещено людям, а потом это становится запретным для них из-за его вопроса»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7289</td></tr><tr><td>Arabic No</td><td>7289</td></tr><tr><td>Reference</td><td>Book 96 Hadith 20</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) used to mix with us to the extent that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abu At Tayyah] dia berkata; saya mendengar [Anas bin Malik] radliallahu 'anhu berkata; "Nabi shallallahu 'alaihi wasallam biasa bergaul dengan kami, hingga beliau bersabda kepada saudaraku yang kecil: "Wahai Abu Umair, apa yang dilakukan oleh Nughair (nama burung)?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6129</td></tr><tr><td>Arabic No</td><td>6129</td></tr><tr><td>Reference</td><td>Book 78 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Поистине, Пророк ﷺ общался с нами (так часто), что даже говорил моему маленькому брату: “О Абу Умайр, что делает птичка?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6129</td></tr><tr><td>Arabic No</td><td>6129</td></tr><tr><td>Reference</td><td>Book 78 Hadith 156</td></tr></tbody></table></div>
 

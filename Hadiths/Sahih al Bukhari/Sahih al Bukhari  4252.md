@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) set out with the intention of perform
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] Telah menceritakan kepada kami [Suraij] Telah menceritakan kepada kami [Fulaih] -lewat jalur periwayatan lain- telah menceritakan kepadaku [Muhammad bin Husain bin Ibrahim] katanya, telah menceritakan kepadaku [ayahku] Telah menceritakan kepada kami [Fulaih bin Sulaiman] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, bahwasanya Rasulullah shallallahu 'alaihi wasallam berangkat umrah, kemudian orang kafir quraisy menghalangi antara beliau dan Baitullah, lantas beliau sembelih sembelihannya, beliau cukur kepalanya di Hudaibiyah, dan beliau putuskan kepada mereka agar beliau berumrah tahun berikutnya, dan tidak membawa senjata selain pedang dan tidak berdiam di Makkah selain yang Quraisy inginkan. Tahun selanjutnya beliau melakukan umrah, dan beliau memasuki Makkah sebagaimana perdamaian yang beliau janjikan, setelah beliau bermukim disana selama tiga hari, orang-orang Quraisy menyuruhnya agar beliau keluar. Beliaupun keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Arabic No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 64 Hadith 287</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Когда Посланник Аллаха ﷺ отправился совершать умру, а неверующие курайшиты преградили ему дорогу к Каабе, он зарезал жертвенный скот и обрил голову в Худайбийе. Тогда он заключил с ними договор о том, что он приедет совершать умру на следующий год, и что мусульмане не будут заносить в Мекку никого оружия, кроме мечей, и что они будут находиться там столько, сколько они (курайшиты) захотят. Таким образом он совершил умру на следующий год, войдя в неё, как и договорились. И когда он пробыл там три дня, они (курайшиты) велели ему покинуть её, и он покинул её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Arabic No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 64 Hadith 287</td></tr></tbody></table></div>
 

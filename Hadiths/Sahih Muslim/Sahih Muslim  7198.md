@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu soit satisfait d'elle) a dit : J'ai entendu l'Envoyé de Dieu (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hatim bin Abu Shaghirah] telah menceritakan kepadaku [Ibnu Abi Malikah] dari [Al Qasim bin Muhammad] dari [Aisyah] berkata: Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Manusia dikumpulkan pada hari kiamat dalam keadaan tidak beralas kaki, telanjang dan kulup." Aku bertanya: Wahai Rasulullah, wanita-wanita dan lelaki-lelaki semua saling melihat satu sama lain? Beliau menjawab: "Wahai Aisyah, permasalahnnya lebih sulit dari saling melihat satu sama lain." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata: Telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Hatim bin Abu Shaghirah] dengan sanad ini dan ia tidak menyebutkan dalam haditsnya: Kulup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7198</td></tr><tr><td>Arabic No</td><td>2859.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7198</td></tr><tr><td>Arabic No</td><td>2859.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 67</td></tr></tbody></table></div>
 

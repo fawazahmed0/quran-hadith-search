@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuBakrah: The Messenger of Allah (ﷺ) said to al-Hasan ibn Ali. This 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Muslim bin Ibrahim] ia berkata; telah menceritakan kepada kami [Hammad] dari [Ali bin Zaid] dari [Al Hasan] dari [Abu Bakrah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] dari [Muhammad bin Abdullah Al Anshari] ia berkata; telah menceritakan kepadaku [Al Asy'ats] dari [Al Hasan] dari [Abu Bakrah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda untuk Al Hasan bin Ali: "Sesungguhnya putraku ini adalah seorang pemimpin, aku berharap ia akan mendamaikan antara dua kelompok dari umatku yang bertikai." Dan dalam hadits Hammad, beliau mengatakan: "Semoga dengan perantara anak ini Allah akan mendamaikan antara dua kelompok besar dari umatku yang bertikai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4662</td></tr><tr><td>Arabic No</td><td>4662</td></tr><tr><td>Reference</td><td>Book 42 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Бакры, что Посланник Аллаха ﷺ сказал об аль-Хасане ибн ‘Али: «Поистине, этот мой сын господин, и я надеюсь, что через него Аллах примирит две группы из моей общины». А в версии Хаммада говорится: «Быть может, Аллах примирит через него две большие группы мусульман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4662</td></tr><tr><td>Arabic No</td><td>4662</td></tr><tr><td>Reference</td><td>Book 42 Hadith 67</td></tr></tbody></table></div>
 

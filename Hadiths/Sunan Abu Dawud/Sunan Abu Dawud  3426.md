@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Tariq ibn AbdurRahman al-Qarash: Rafi' ibn Rifa'ah came to a meeting of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah], telah menceritakan kepada kami [Hasyim bin Al Qasim], telah menceritakan kepada kami [Ikrimah], telah menceritakan kepadaku [Thariq bin Abdurrahman Al Qurasyi], ia berkata; [Rafi' bin Rifa'ah] telah datang ke majelis orang-orang anshar dan berkata; sungguh Nabi shallallahu 'alaihi wasallam telah melarang kami pada hari ini. Kemudian ia menyebutkan beberapa hal. Dan beliau melarang dari hasil kerja budak yang berzina kecuali apa yang ia lakukan dengan tangannya. Dan ia mengucapkannya denangan jari-jarinya seperti membuat roti, memintal dan mengurai wol
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3426</td></tr><tr><td>Arabic No</td><td>3426</td></tr><tr><td>Reference</td><td>Book 24 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Тарик ибн ‘Абдуррахман аль-Кураши передаёт, что Рафи‘ ибн Рифа‘а, придя однажды на собрание ансаров, сказал: «Пророк Аллаха ﷺ запретил нам…» И в числе прочего он упомянул: «И он наложил запрет на заработок рабынь, если только речь не идёт о работе, которую она делает своими руками». Сказав это, он указал на хлеб, пряжу и шерсть
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3426</td></tr><tr><td>Arabic No</td><td>3426</td></tr><tr><td>Reference</td><td>Book 24 Hadith 11</td></tr></tbody></table></div>
 

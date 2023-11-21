@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:That he had heard the Prophet (ﷺ) saying, "Do not fast cont
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah menceritakan kepada saya [Al Laits] telah menceritakan kepada saya [Ibnu Al Hadi] dari ['Abdullah bin Khabbab] dari [Abu Sa'id radliallahu 'anhu] bahwa dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian melaksanakan puasa wishal, maka siapa dari kalian yang mau melakukan puasa wishal hendaklah dia melakukannya hingga (makan) sahur". Orang-orang berkata: "Bukankah anda sendiri melakukan puasa wishal, wahai Rasulullah?" Beliau bersabda: "Aku tidak sama dengan keadaan seorang kalian karena saat aku tidur akan ada pemberi makan yang datang kepadaku lalu memberi aku makan dan datang pemberi minum lalu memberi aku minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1963</td></tr><tr><td>Arabic No</td><td>1963</td></tr><tr><td>Reference</td><td>Book 30 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «Не поститесь непрерывно, а тот из вас, кто захочет сделать это, пусть разговеется перед рассветом (следующего дня)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1963</td></tr><tr><td>Arabic No</td><td>1963</td></tr><tr><td>Reference</td><td>Book 30 Hadith 70</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Zuhri with the same chain of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata; Aku membaca Hadits [Malik] dari [Ibnu Syihab] dari ['Abbad bin Tamim] dari [pamannya] bahwa dia pernah melihat Rasulullah shallallahu 'alaihi wasallam tidur terlentang di masjid dengan meletakan kaki sebelah di atas yang satunya lagi. Telah menceritakan kepada kami [Yahya bin Yahya], [Abu Bakr bin Abu Syaibah], [Ibnu Numair], [Zuhair bin Harb] dan [Ishaq bin Ibrahim] seluruhnya dari [Ibnu 'Uyainah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah] keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abad bin Humaid] keduanya berkata; Telah mengabarkan kepada kami ['Abdurrazaq]; Telah mengabarkan kepada kami [Ma'mar] seluruhnya dari [Az Zuhri] melalui sanad ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5505</td></tr><tr><td>Arabic No</td><td>2100.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5505</td></tr><tr><td>Arabic No</td><td>2100.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 120</td></tr></tbody></table></div>
 

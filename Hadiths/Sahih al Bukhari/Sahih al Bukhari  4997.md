@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) was the most generous person, and he used 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] Telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Az Zuhri] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Nabi shallallahu 'alaihi wasallam adalah seorang yang paling ringan untuk berbuat kebaikan. Dan paling dermawan lagi pada bulan Ramadlan. Sebab, Jibril menemuinya pada setiap malam dalam bulan Ramadlan hingga ia berbaring sementara Rasulullah shallallahu 'alaihi wasallam memperdengarkan bacaan Al Qur'annya. Maka di saat Jibril menemuinya, pada saat itu pulalah beliau menjadi orang yang lebih cepat berbuat kebaikan bahkan melebihi cepatnya angin yang berhembus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4997</td></tr><tr><td>Arabic No</td><td>4997</td></tr><tr><td>Reference</td><td>Book 66 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ был щедрейшим из людей, а наибольшую щедрость он проявлял в рамадан, потому что Джибриль встречался с ним каждую ночь рамадана. Посланник Аллах ﷺ читал ему Коран. И когда он встречал Джибриля, он был более щедрым на всё благое, чем вольный ветер»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4997</td></tr><tr><td>Arabic No</td><td>4997</td></tr><tr><td>Reference</td><td>Book 66 Hadith 19</td></tr></tbody></table></div>
 

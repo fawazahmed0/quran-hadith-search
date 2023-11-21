@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The news of my daily fasting and praying every night
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ali] telah mengabarkan kepada kami [Abu 'Ashim] dari [Abu Juraij] aku mendengar ['Atho'] bahwa [Abu Al 'Abbas Asy-Sya'ir] mengabarkan kepadanya bahwa dia mendengar ['Abdullah bin 'Amru radliallahu 'anhuma] (berkata,); Telah sampai kepada Nabi shallallahu 'alaihi wasallam berita tentang aku bahwa aku akan terus berpuasa dan shalat malam. Aku tak ingat lagi, apakah kemudian beliau mengutus utusan atau aku menemui beliau, dan Beliau berkata: "Apakah benar kabar bahwa kamu akan berpuasa tidak akan berbuka dan shalat malam (tanpa tidur)? Puasa dan berbukalah, shalat dan juga tidurlah. Karena bagi matamu ada bagian hak atasmu dan bagi dirimu dan keluargamu ada bagian hak atasmu". 'Abdullah bin 'Amru radliallahu 'anhuma berkata: "Sungguh aku lebih kuat dari (amal amal) itu". Beliau berkata: "Kalau begitu puasalah dengan puasanya Nabi Daud Alaihissalam". Dia bertanya: "Bagaimana caranya". Beliau shallallahu 'alaihi wasallam menawab: "Nabi Daud 'Alaihissalam berpuasa sehari dan berbuka sehari sehingga dia tidak akan kabur ketika berjumpa dengan musuh". Dia berkata: "Lalu Siapa teladan bagi diriku dalam masalah puasa sepanjang jaman ini wahai Nabi shallallahu 'alaihi wasallam Allah? 'Atho' berkata: "Aku tidak tahu bagaimana dia menyebutkan puasa abadi (sepanjang hidup), karena Nabi shallallahu 'alaihi wasallam bersabda: "Tidak dianggap puasa bagi siapa yang puasa abadi". Beliau mengucapkannya dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1977</td></tr><tr><td>Arabic No</td><td>1977</td></tr><tr><td>Reference</td><td>Book 30 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса) сообщается, что ‘Абдуллах бин ‘Амр бин аль-‘Ас, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ сказал: “Тогда постись, как постился Дауд, мир ему, который всегда постился через день и не обращался в бегство, когда встречал (врага)”».\n(‘Абдуллах) воскликнул: «Мне далеко до этого, о пророк Аллаха!» — (на что) Пророк ﷺ дважды сказал: «Вообще не постится тот, кто постится постоянно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1977</td></tr><tr><td>Arabic No</td><td>1977</td></tr><tr><td>Reference</td><td>Book 30 Hadith 84</td></tr></tbody></table></div>
 

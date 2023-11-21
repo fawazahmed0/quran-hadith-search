@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:On the day of the Conquest, the Prophet (ﷺ) entered Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] Telah menceritakan kepada kami [Malik] Telah mengabarkan kepada kami [Ibnu Syihab] dari [Anas bin Malik] radliallahu 'anhu, katanya Nabi shallallahu 'alaihi wasallam memasuki Makkah pada hari penaklukan Makkah dengan memakai topi besi diatas kepalanya, ketika beliau melepasnya, seorang laki-laki datang dan berujar; "Itu, si Ibnu Khathal bersembunyi dibalik tirai Ka'bah." Spontan Rasulullah shallallahu 'alaihi wasallam berujar "Bunuhlah dia." Kata Malik, setahu kami, Nabi shallallahu 'alaihi wasallam ketika itu tidak dalam keadan ihram, wallahu A'lam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4286</td></tr><tr><td>Arabic No</td><td>4286</td></tr><tr><td>Reference</td><td>Book 64 Hadith 319</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что когда в год завоевания (Мекки) Пророк ﷺ вступил (в город), на голове его был шлем, а когда он снял его, (к нему) подошёл один человек и сказал: «Поистине, Ибн Хаталь держится за покровы Каабы!» — и (Пророк ﷺ) велел: «Убей его!»\nМалик сказал: «Мы считаем, что в этот день Пророк ﷺ не был в состоянии ихрама, а Аллаху известно лучше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4286</td></tr><tr><td>Arabic No</td><td>4286</td></tr><tr><td>Reference</td><td>Book 64 Hadith 319</td></tr></tbody></table></div>
 

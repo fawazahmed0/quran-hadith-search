@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) said: The cattle (sheep, cows, cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam bin Yusuf] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada 'adwa (keyakinan adanya penularan penyakit) tidak ada shafar (menganggap bulan shafar sebagai bulan haram atau keramat) dan tidak pula hammah (keyakinan jahiliyah tentang rengkarnasi)." Lalu seorang Arab badui berkata; "Wahai Rasulullah, lalu bagimana dengan unta yang ada di padang pasir, seakan-akan (bersih) bagaikan gerombolan kijang lalu datang padanya unta berkudis dan bercampur baur dengannya sehingga ia menularinya?" Maka Nabi shallallahu 'alaihi wasallam bersabda: "Lalu siapakah yang menulari yang pertama?" Setelah itu Abu Salamah mendengar Abu Hurairah mengatakan; Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah (unta) yang sakit dicampurbaurkan dengan yang sehat." -sepertinya Abu Hurairah mengingkari hadits yang pertama- maka kami bertanya; "Tidakkah anda pernah menceritakan bahwa tidak ada 'adwa (keyakinan adanya penularan penyakit)." Lalu dia bicara dengan bahasa Habasyah, maka aku tidak pernah melihatnya lupa terhadap hadits selain hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5771</td></tr><tr><td>Arabic No</td><td>5771</td></tr><tr><td>Reference</td><td>Book 76 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Саляма сообщил, что Абу Хурайра так же передал, что Пророк ﷺ сказал: «Не заводите больную верблюдицу к здоровой». Абу Хурайра стал отрицать, что передавал вышеупомянутый хадис, и мы сказали: «Разве ты не рассказывал, что заразы нет». И он сказал (что-то) по-эфиопски. Абу Саляма сказал: «Я никогда не видел, чтобы Абу Хурайра забыл какой-то хадис, кроме этого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5771</td></tr><tr><td>Arabic No</td><td>5771</td></tr><tr><td>Reference</td><td>Book 76 Hadith 85</td></tr></tbody></table></div>
 

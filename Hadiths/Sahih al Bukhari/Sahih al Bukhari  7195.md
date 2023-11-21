@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Kharija bin Zaid bin Thabit said that Zaid bin Thabit said, "The Prophet (ﷺ) o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7195</td></tr><tr><td>Arabic No</td><td>7195</td></tr><tr><td>Reference</td><td>Book 93 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейд ибн Сабит, да будет доволен им Аллах, рассказывал, что однажды Пророк ﷺ велел ему обучиться письму иудеев, так, что я писал для Пророка ﷺ письма (к иудеям) и читал ему их письма, которые писали ему они.\n‘Умар (ибн аль-Хаттаб) в присутствии ‘Али (ибн Абу Талиба), ‘Абдуррахман (ибн ‘Ауфа) и ‘Усман (ибн ‘Аффана) сказал: «Что говорит эта (женщина)?» ‘Абдуррахман ибн Хатыб сказал: «И я ответил: “Она сообщает тебе о человеке, который совершил с ней (прелюбодеяние, этим самым забеременев от него)”».\nАбу Джамра сказал: «Я переводил, находясь между Ибн ‘Аббасом и людьми».\nНекоторые люди сказали: «Непременно у судьи должен быть переводчик»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7195</td></tr><tr><td>Arabic No</td><td>7195</td></tr><tr><td>Reference</td><td>Book 93 Hadith 56</td></tr></tbody></table></div>
 

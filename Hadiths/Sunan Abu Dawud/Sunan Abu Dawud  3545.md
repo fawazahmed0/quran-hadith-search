@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir:Bashir's wife said (to her husband): Give my son your slave, and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Zuhair] dari [Abu Az Zubair] dari [Jabir] ia berkata, "Isteri Basyir berkata, 'Berilah anakku seorang pembantu dari budak milikmu, dan mintalah persaksian untukku kepada Rasulullah shallallahu 'alaihi wasallam! ' Kemudian Basyir datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Sesungguhnya puteri Fulan meminta agar aku memberikan seorang budak kepada anak laki-lakinya, dan ia berkata kepadaku, 'Mintalah persaksian Rasulullah shallallahu 'alaihi wasallam! ' Kemudian beliau bertanya: "Apakah ia memiliki saudara?" Basyir menjawab, "Ya." Beliau bertanya lagi: "Apakah engkau memberikan kepada seluruh mereka seperti yang engkau berikan kepadanya?" Basyir menjawab, "Tidak." Beliau pun bersabda: "Ini tidak baik, aku tidak akan bersaksi kecuali terhadap sesuatu yang hak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1624)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3545</td></tr><tr><td>Arabic No</td><td>3545</td></tr><tr><td>Reference</td><td>Book 24 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира, да будет доволен Аллах им и его отцом, что жена Башира сказала: «Подари моему сыну слугу и возьми в свидетели Посланника Аллаха ﷺ». Он отправился к Посланнику Аллаха ﷺ и сказал: «Поистине, дочь такого-то попросила меня подарить её сыну слугу и сказала мне: мол, возьми в свидетели Посланника Аллаха ﷺ». Он спросил: «Есть ли у него братья?» Он ответил: «Да». Тогда он спросил: «И ты дал каждому из них то же, что дал ему?» Он ответил: «Нет». Тогда он сказал: «Так не пойдёт… Поистине, я свидетельствую только о правильном».‘Абдуллах ибн Бурайда передаёт от своего отца Бурайды, да будет доволен им Аллах, что одна женщина пришла к Посланнику Аллаха ﷺ и сказала: «Я отдала своей матери в качестве милостыни девочку-рабыню, а потом она умерла, оставив после себя эту девочку…» И он привёл хадис
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1624)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3545</td></tr><tr><td>Arabic No</td><td>3545</td></tr><tr><td>Reference</td><td>Book 24 Hadith 130</td></tr></tbody></table></div>
 

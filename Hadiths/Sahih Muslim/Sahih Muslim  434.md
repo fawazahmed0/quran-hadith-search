@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zirr b. Hubaish narrated it on the authority of 'Abdullah (that the words of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz al-Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Sulaiman asy-Syaibani] dia mendengar [Zirr bin Hubaisy] dari [Abdullah] dia berkata tentang firman-Nya: '(Sungguh dia telah melihat ayat-ayat Rabbnya yang agung) ' (Qs. An Najm: 13). Ibnu Mas'ud berkata, "Nabi shallallahu 'alaihi wasallam telah melihat Jibril dalam bentuk (asli) nya, dia mempunyai enam ratus sayap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>434</td></tr><tr><td>Arabic No</td><td>174.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 339</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах сказал о аяте «И он увидел величайшие из знамений своего Господа» (сура «ан-Наджм», аят 18): «Он (Пророк ﷺ) видел Джибриля в его (истинном) образе, у которого было шестьсот крыльев»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>434</td></tr><tr><td>Arabic No</td><td>174.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 339</td></tr></tbody></table></div>
 

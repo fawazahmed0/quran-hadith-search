@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin Laits] telah menceritakan kepadaku [bapakku] dari [kakekku] telah menceritakan kepadaku [Uqail bin Khalid] dari [Ibnu Syihab] ia berkata, telah mengabarkan kepadaku [Sa'id bin Al Musayyab] bahwa [Abu Hurairah] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Nanti mereka bakal meninggalkan Madinah dalam keadaan baik sebagaimana dahulu apa adanya. Kemudian kota itu akan penuh dengan binatang-binatang dan burung-burung pemangsa daging (bangkai). Kemudian datang ke Madinah dua orang gembala dari Muzainah mencari kambingnya yang hilang. Didapatinya Madinah telah menjadi kota liar. Ketika kedua gembala itu sampai di Tsaniyatul Wada', keduanya jatuh tersungkur di muka mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3367</td></tr><tr><td>Arabic No</td><td>1389.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 571</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3367</td></tr><tr><td>Arabic No</td><td>1389.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 571</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "After me (i.e. after my de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] telah menceritakan kepada kami [Syu'bah] dengan mengatakan; telah mengabarkan kepadaku [Waqid bin Abdullah] dari [ayahnya], ia mendengar [Abdullah bin Umar] dari Nabi Shallallahu'alaihi Wasallam, beliau bersabda: "Janganlah kalian kembali kafir sepeninggalkau, sebagian kalian memenggal sebagian lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6868</td></tr><tr><td>Arabic No</td><td>6868</td></tr><tr><td>Reference</td><td>Book 87 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «Не становитесь после меня неверными, которые рубят друг другу головы!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6868</td></tr><tr><td>Arabic No</td><td>6868</td></tr><tr><td>Reference</td><td>Book 87 Hadith 7</td></tr></tbody></table></div>
 

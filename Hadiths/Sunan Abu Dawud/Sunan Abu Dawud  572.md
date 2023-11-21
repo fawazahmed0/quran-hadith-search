@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:I heard the Messenger of Allah( may peace be upon him) say: Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami ['Anbasah] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Sa'id bin Al-Musayyib] dan [Abu Salamah bin Abdurrahman] bahwasanya [Abu Hurairah] berkata; Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila shalat telah dibacakan iqamah, maka janganlah kalian mendatanginya dengan berlari, akan tetapi datangilah dalam keadaan berjalan biasa, dan hendaklah kalian tenang. Apa pun yang kalian dapatkan dengan jama'ah maka lakukanlah, dan apa yang tertinggal maka sempurnakanlah." Abu Dawud berkata; Demikian yang dikatakan oleh [Az-Zubaidi] dan [Ibnu Abi Dzi'b] dan [Ibrahim bin Sa'd] dan [Ma'mar] dan [Syu'aib bin Abu Hamzah] dari [Az-Zuhri]; Dan apa yang tertinggal maka sempurnakanlah. Dan [Ibnu Uyainah] menyebutkan dari [Zuhri] sendirian (dengan lafazh); Maka selesaikanlah. Dan berkata [Muhammad bin Amru] dari [Abu Salamah] dari [Abu Hurairah], dan [Ja'far bin Rabi'ah] dari [Al-A'raj] dari [Abu Hurairah] dengan lafazh; maka sempurnakanlah. Dan riwayat Ibnu Mas'ud dari Nabi shallallahu 'alaihi wasallam dan Abu Qatadah dan Anas dari Nabi shallallahu 'alaihi wasallam, semuanya menyebutkan dengan lafazh; maka sempurnakanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (636) Sahih Muslim (602)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>572</td></tr><tr><td>Arabic No</td><td>572</td></tr><tr><td>Reference</td><td>Book 2 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Шихаба о том, что Са‘ид ибн аль-Мусаййиб и Абу Саляма ибн ‘Абду-р-Рахман сообщили ему, что Абу Хурайра сказал: «Я слышал как Посланник Аллаха ﷺ говорил: “После того, как будет объявлено о начале молитвы, не являйтесь на неё в спешке, однако, приходите на неё (обычным) шагом, и сохраняйте (при этом) спокойствие. Молитесь, (начиная с того рак‘ата, который) вы застанете, а то, что вы пропустите восполняйте»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (636) Sahih Muslim (602)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>572</td></tr><tr><td>Arabic No</td><td>572</td></tr><tr><td>Reference</td><td>Book 2 Hadith 182</td></tr></tbody></table></div>
 

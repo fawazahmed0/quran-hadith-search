@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. al-Harith reported:I heard Abbas say: I said: Messenger of Allah, ve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Abdul Malik bin Umair] dari [Abdullah bin al-Harits] dia berkata, "Saya mendengar [al-Abbas] berkata, 'Saya berkata, 'Wahai Rasulullah, dahulu Abu Thalib melindungimu dan menolongmu, apakah hal tersebut memberikan kemanfaatan kepanya? ' Beliau menjawab: 'Ya. Aku mendapatinya dalam kobaran neraka lalu aku mengeluarkannya ke dalam neraka yang paling landai'." Dan telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Sufyan] dia berkata, telah menceritakan kepada kami [Abdul Malik bin Umair] dia berkata, telah menceritakan kepada kami [Abdullah bin al-Harits] dia berkata, telah mengabarkan kepadaku [al-Abbas bin Abdul Muththalib]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan] dengan sanad ini, dari Nabi shallallahu 'alaihi wasallam dengan semisal hadits Abu Awanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>511</td></tr><tr><td>Arabic No</td><td>209.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 417</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Абдуллаха ибн аль-Хариса, что аль-‘Аббас сказал: «(Однажды) я сказал (Пророку ﷺ): “О Посланник Аллаха, поистине, Абу Талиб оберегал тебя и поддерживал, помогло ли ему это?” Пророк ﷺ ответил: “Да, я нашёл его в пучинах (Адского) Огня и вывел его в неглубокое место”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>511</td></tr><tr><td>Arabic No</td><td>209.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 417</td></tr></tbody></table></div>
 

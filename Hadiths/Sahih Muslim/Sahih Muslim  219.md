@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd Ibn Abi Waqqâs (que Dieu l'agrée) a entendu le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru an-Naqid] telah menceritakan kepada kami [Husyaim bin Basyir] telah mengabarkan kepada kami [Khalid] dari [Abu Utsman] dia berkata, "Ketika Ziyad diklaim (sebagai bapak) maka aku bertemu Abu Bakarah, lalu aku berkata kepadanya, 'Apa yang kamu perbuat! Sesungguhnya aku mendengar [Sa'd bin Abu Waqqash] berkata, 'Kedua telingaku mendengar dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: 'Barangsiapa dalam Islam mengklaim orang lain sebagai bapaknya padahal dia bukan bapaknya, dan dia juga mengetahui bahwa dia bukan bapaknya, maka surga haram atasnya.' Maka [Abu Bakrah] berkata, 'Dan saya juga mendengarnya dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>219</td></tr><tr><td>Arabic No</td><td>63.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ‘Усман сказал: «Когда Зияд стал утверждать, что (его отцом был не тот, кто являлся им на самом деле), я встретился с Абу Бакрой и сказал ему: “Что это вы сделали?! Поистине, я слышал, как Са‘д ибн Аби Ваккас сказал, что он собственными ушами слышал, как Посланник Аллаха ﷺ сказал: “Рай (станет) запретным для того, кто, приняв ислам, будет объявлять себя сыном не своего отца, зная о том, что (этот человек) его отцом не является”. Абу Бакра сказал: “И я слышал это от посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>219</td></tr><tr><td>Arabic No</td><td>63.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 125</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) kissed Al-Hasan bin 'Ali while Al-A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah menceritakan kepada kami [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] radliallahu 'anhu berkata; "Rasulullah shallallahu 'alaihi wasallam pernah mencium Al Hasan bin Ali sedangkan disamping beliau ada Al Aqra' bin Habis At Tamimi sedang duduk, lalu Aqra' berkata; "Sesungguhnya aku memiliki sepuluh orang anak, namun aku tidak pernah mencium mereka sekali pun, maka Rasulullah shallallahu 'alaihi wasallam memandangnya dan bersabda: "Barangsiapa tidak mengasihi maka ia tidak akan dikasihi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5997</td></tr><tr><td>Arabic No</td><td>5997</td></tr><tr><td>Reference</td><td>Book 78 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ поцеловал аль-Хасана ибн ‘Али, да будет доволен Аллах ими обоими, в то время, когда у него находился аль-Акра‘ ибн Хабис ат-Тамими, и аль-Акра‘ сказал: “Поистине, у меня есть десять детей, но я (ни разу) не поцеловал никого из них”. Тогда Посланник Аллаха ﷺ посмотрел на него и сказал: “Не помилуют того, кто сам не проявляет милосердия (по отношению к другим)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5997</td></tr><tr><td>Arabic No</td><td>5997</td></tr><tr><td>Reference</td><td>Book 78 Hadith 28</td></tr></tbody></table></div>
 

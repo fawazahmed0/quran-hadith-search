@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Quraish people and those who embraced their religion, used t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Muhammad bin Hazim] Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari [Aisyah radliallahu 'anha], Suku Quraisy dan orang-orang yang memeluk agama mereka, biasa tinggal di Muzdalifah dan memanggil diri mereka sendiri dengan Al Hums, sementara orang-orang Arab lainnya biasa tinggal di Arafah. Ketika Islam datang, Allah memerintahkan Nabi shallallahu 'alaihi wasallam untuk tinggal di sana (dengan waktu yang telah ditentukan) dan kemudian berangkat dari sana. Itulah yang dimaksud firman Allah; "Kemudian berangkatlah beramai-ramai dari tempat bertolaknya orang banyak". (QS. Albaqarah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4520</td></tr><tr><td>Arabic No</td><td>4520</td></tr><tr><td>Reference</td><td>Book 65 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (раньше) курайшиты и те, кто исповедовал их религию и кого называли истовыми, (во время хаджа) оставались в Муздалифе, тогда как все остальные арабы стояли на ‘Арафате, однако с возникновением ислама Аллах велел Своему Пророку ﷺ приходить к ‘Арафату и стоять там, а потом уходить оттуда, и на это (указывают) слова Всевышнего: «Потом уходите оттуда, откуда ушли (другие) люди…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4520</td></tr><tr><td>Arabic No</td><td>4520</td></tr><tr><td>Reference</td><td>Book 65 Hadith 45</td></tr></tbody></table></div>
 

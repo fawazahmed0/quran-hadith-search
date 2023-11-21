@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Harmala, the freed slave of Usama bin Zaid said that while he was in the company
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Berkata Abu 'Abdullah Al Bukhariy; "Dan telah bercerita kepadaku [Sulaiman bin 'Abdur Rahman] telah bercerita kepada kami [Al Walid bin Muslim] telah bercerita kepada kami ['Abdur Rahman bin Namir] dari [Az Zuhriy] telah bercerita kepadaku [Harmalah maula Usamah bin Zaid] bahwa dia ketika sedang bersama dengan ['Abdullah bin 'Umar] tiba-tiba masuk Al Hajjajj bin Ayman (untuk shalat) lalu tidak menyempurnakan ruku' dan sujudnya, maka dia (Ibnu 'Umar) berkata; "Ulangilah". Ketika Al Hajjaj enggan mengulanginya, Ibnu 'Umar bertanya kepadaku; "Siapakah orang ini?. Aku jawab; "Al Hajjaj bin Ayman bin Ummu Ayman". Maka Ibnu 'Umar berkata; "Seandainya Rasulullah melihatnya tentu beliau akan mencintainya". Lalu Ibnu 'Umar menceritakan tentang kecintaan belau kepadanya dan anak-anak yang dilahirkan oleh Ummu Ayman". Berkata (Abu 'Abdullah Al Bukhariy); Dan telah bercerita kepadaku sebagian shahabat-shahabatku dari Sulaiman; "Ummu Ayman adalah pengasuh Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3737</td></tr><tr><td>Arabic No</td><td>3737</td></tr><tr><td>Reference</td><td>Book 62 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хармаля, вольноотпущенник Усамы ибн Зейда, сказал, что, однажды, когда он был вместе с ‘Абдуллахом ибн ‘Умаром, вошёл аль-Хаджадж ибн Айман, и (во время молитвы) не совершил поясные и земные поклоны должным образом. Ибн 'Умар сказал ему: “Соверши молитву заново”. Когда он ушёл, Ибн 'Умар спросил меня: “Кто он?” Я сказал: “Это аль-Хаджадж ибн Умм Айман”. Ибн ‘Умар сказал: “Если бы Посланник Аллаха ﷺ увидел его, он непременно полюбил бы его”. Затем Ибн ‘Умар упомянул о любви Пророка ﷺ к детям Умм Айман
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3737</td></tr><tr><td>Arabic No</td><td>3737</td></tr><tr><td>Reference</td><td>Book 62 Hadith 84</td></tr></tbody></table></div>
 

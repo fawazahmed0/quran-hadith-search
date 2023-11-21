@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the Prophet (ﷺ) became ill, some of his wives talked abou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah mengabarkan kepada saya [Malik] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anhu] berkata; Ketika Nabi Shallallahu'alaihiwasallam sedang berbaring sakit sebagian isteri-isteri Beliau menceritakan tentang suatu gereja yang mereka lihat di negeri Habasyah (Etithapia) yang disebut dengan Mariyah. Sebelumnya Ummu Salamah dan Ummu Habibah radliallahu 'anhuma pernah berhijrah ke negeri Habasyah, sehingga keduanya dapat menceritakan tentang keindahan gereja tersebut dan adanya gambar (patung-patung) didalamnya. Maka Beliau Shallallahu'alaihiwasallam mengangkat kepalanya lalu bersabda: "Mereka itulah, yang apabila ada hamba shalih atau laki-laki shalih diantara mereka yang meninggal dunia, mereka bangun masjid di atas kuburannya itu dan membuatkan patung dari orang yang meninggal itu di dalamnya. Mereka itulah seburuk-buruk makhluq disisi Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1341</td></tr><tr><td>Arabic No</td><td>1341</td></tr><tr><td>Reference</td><td>Book 23 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Пророк ﷺ болел, некоторые его жены упомянули о церкви, которую они видели в Эфиопии и которая называлась Мария. Умм Саляма и Умм Хабиба, да будет доволен ими обеими Аллах, были в Эфиопии, и они упомянули, как там было красиво и что там были изображения. Тогда Пророк ﷺ поднял голову и сказал: “Это люди, которые, когда умирает праведный человек из их числа, возводят над его могилой храм (для поклонения) и расписывают его подобными изображениями. Такие люди являются наихудшими созданиями пред Аллахом!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1341</td></tr><tr><td>Arabic No</td><td>1341</td></tr><tr><td>Reference</td><td>Book 23 Hadith 96</td></tr></tbody></table></div>
 

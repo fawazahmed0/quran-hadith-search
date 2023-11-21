@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:That she borrowed a necklace from Asma' and then it got lost. So
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ubaid bin Isma'il] Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha, bahwa ia pernah meminjam kalung dari Asma', lalu kalung itu pun hilang. Maka Rasulullah shallallahu 'alaihi wasallam mengutus beberapa orang dari sahabatnya untuk mencari kalung tersebut. Lalu waktu shalat pun tiba, akhirnya mereka shalat tanpa berwudlu terlebih dahulu. Ketika mereka menemui Nabi shallallahu 'alaihi wasallam, mereka pun mengadukannya. Maka turunlah ayat Tayammum. Karena itu, Usaid bin Hudlair berkata kepada Aisyah, "Semoga Allah membalasmu dengan kebaikan. Demi Allah, tidak ada suatu perkara pun yang menimpa Anda, kecuali Allah menciptakan jalan keluar pula bagi Anda, lalu kaum muslimin pun mendapat barakah dari perkara itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 67 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша рассказывала о том, что (однажды) она позаимствовала у Асмы ожерелье, которое (затем) пропало. Посланник Аллаха ﷺ послал (несколько) своих сподвижников на его поиски, в ходе которых их застало время молитвы, и им пришлось совершить молитву без омовения. Вернувшись к Пророку ﷺ, они пожаловались ему на это, после чего был ниспослан аят о (допустимости) очищения песком /ат-таяммум/, и (тогда) Усайд ибн Худайр сказал (‘Аише): «Да воздаст тебе Аллах благом! Клянусь Аллахом, когда бы ни попадала ты в (трудное положение), Аллах всегда не только указывал тебе выход из него, но и делал это благословенным для (всех) мусульман!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 67 Hadith 99</td></tr></tbody></table></div>
 

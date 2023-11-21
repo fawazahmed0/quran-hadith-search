@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the mother of the faithful believers) Allah's Messenger (ﷺ) (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari ['Abdullah bin Yazid] dan [Abu An-Nadhir] sahaya 'Umar bin 'Ubaidullah dari [Abu Salamah bin 'Abdurrahman] dari ['Aisyah Ummul Mukminin radliallahu 'anha] bahwa Rasulullah shallallahu 'alaihi wasallam pernah melaksanakan shalat dengan duduk dan Beliau membaca surat sambil duduk. Bila sedikit tersisa dari bacaannya sekitar tiga puluh atau empat puluh ayat, maka Beliau berdiri dan melanjutkan bacaannya itu dengan berdiri. Kemudian Beliau ruku' lalu sujud', Kemudian Beliau melakukan seperti itu pada raka'at kedua. Bila Beliau telah menyelesaikan shalatnya, Beliau melihat (kepadaku). Bila aku telah bangun maka Beliau mengajak aku berbincang dan bila aku masih tidur, maka Beliau berbaring
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1119</td></tr><tr><td>Arabic No</td><td>1119</td></tr><tr><td>Reference</td><td>Book 18 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии этого хадиса сообщается, что ‘Аиша, да будет доволен ею Аллах, (также) сказала: «Потом он делал то же самое во время совершения второго рак‘ата, а когда завершал свой намаз, смотрел (на меня), и, если я бодрствовала, разговаривал со мной, а если спала, то Пророк ﷺ ложился (отдыхать)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1119</td></tr><tr><td>Arabic No</td><td>1119</td></tr><tr><td>Reference</td><td>Book 18 Hadith 39</td></tr></tbody></table></div>
 

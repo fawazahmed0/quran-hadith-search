@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Oum Hâni' bint 'Abî Tâlib (raa) a dit : "L'année de la conquête (de La Mecq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca di hadapan [Malik] dari [Abu an-Nadhar] bahwa [Abu Murrah, maula Ummu Hani' bintu Abi Thalib] telah mengabarkan kepadanya bahwa dia mendengar [Ummu Hani' bintu Abi Thalib] berkata, "Aku pergi menuju Rasulullah shallallahu 'alaihi wasallam pada tahun Fath al-Makkah, maka aku mendapatkannya sedang mandi, sedangkan Fathimah, putrinya menutupinya dengan baju
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>336.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Хани бинт Аби Талиб сказала: «В год завоевания Мекки я пришла к Посланнику Аллаха ﷺ и обнаружила его совершающим полное омовение, а его дочь Фатыма прикрывала его одеждой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>336.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 86</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) said: When I was taken up to heaven I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnul Mushaffa] berkata, telah menceritakan kepada kami [Baqiyyah] dan [Abul Mughirah] keduanya berkata; telah menceritakan kepada kami [Shafwan] ia berkata; telah menceritakan kepadaku [Rasyid bin Sa'd] dan ['Abdurrahman bin Jubair] dari [Anas bin Malik] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku dinaikkan ke lagit (dimi'rajkan), aku melewati suatu kaum yang kuku mereka terbuat dari tembaga, kuku itu mereka gunakan untuk mencakar muka dan dada mereka. Aku lalu bertanya, "Wahai Jibril, siapa mereka itu?" Jibril menjawab, "Mereka itu adalah orang-orang yang memakan daging manusia (ghibah) dan merusak kehormatan mereka." Abu Dawud berkata, " [Yahya bin Utsman] menceritakannya kepada kami dari [Baqiyyah], tetapi tidak disebutkan di dalamnya nama Anas. Telah menceritakan kepada kami [Isa bin Abu Isa As Sailahini] dari [Al Mughirah] sebagaimana yang dikatakan oleh Ibnul Mushaffa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4878</td></tr><tr><td>Arabic No</td><td>4878</td></tr><tr><td>Reference</td><td>Book 43 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4878</td></tr><tr><td>Arabic No</td><td>4878</td></tr><tr><td>Reference</td><td>Book 43 Hadith 106</td></tr></tbody></table></div>
 

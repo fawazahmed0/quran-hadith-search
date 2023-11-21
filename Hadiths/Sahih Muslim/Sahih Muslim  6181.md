@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu soit satisfait d'elle) a dit : l'Envoyé de Dieu (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Sa'id] Telah menceritakan kepada kami [Yazid bin Harun] Telah mengabarkan kepada kami [Ibrahim bin Sa'ad] Telah menceritakan kepada kami [Shalih bin Kaisan] dari [Az Zuhri] dari [Urwah] dari [Aisyah] dia berkata; Pada suatu hari, ketika Rasulullah shallallahu 'alaihi wasallam sakit, beliau berkata kepada saya: Panggillah Ayahmu Abu Bakr dan saudara laki-lakimu ke sini, agar aku buatkan sebuah surat (keputusan khalifah). Karena aku khawatir jika kelak ada orang yang ambisius dan berkata; Akulah yang lebih berhak menjadi khalifah. Sementara Allah dan kaum muslimin tidak menyetujuinya selain Abu Bakr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6181</td></tr><tr><td>Arabic No</td><td>2387</td></tr><tr><td>Reference</td><td>Book 44 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Во время своей болезни, (от которой он впоследствии и умер), Посланник Аллаха ﷺ сказал мне: “Позови мне Абу Бакра и своего брата, чтобы я записал послание, потому что я боюсь, что жаждущий возжелает, и кто-то скажет: “Я более достоин”, хотя Аллах и правоверные не примут никого, кроме Абу Бакра”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6181</td></tr><tr><td>Arabic No</td><td>2387</td></tr><tr><td>Reference</td><td>Book 44 Hadith 12</td></tr></tbody></table></div>
 

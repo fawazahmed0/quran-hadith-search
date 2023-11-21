@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:'Umar bin Al-Khattab expelled all the Jews and Christians fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ahmad bin Al miqdam] telah bercerita kepada kami [Al Fudlail bin Sulaiman] telah bercerita kepada kami [Musa bin 'Uqbah] berkata telah mengabarkan kepadaku [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa 'Umar bin Al Khaththab mengusir Yahudi dan Nashara dari bumi Hijaz (Arab) dan Rasulullah Shallallahu'alaihiwasallam ketika menaklukan penduduk Khaibar juga berniat akan mengusir Yahudi dari wilayah itu. Dan wilayah itu ketika dahulu ditaklukan menjadi milik Yahudi, Rasulullah dan Kaum Muslimin. Lalu orang-orang Yahudi meminta kepada Rasulullah Shallallahu'alaihiwasallam agar memperkenankan mereka menggarapnya dengan imbalan mereka mendapat setengah dari hasil buahnya, maka Rasulullah Shallallahu'alaihiwasallam bersabda: "Kami sepakat kalian menggarapnya namun terserah kami" (batas waktunya). Akhirnya mereka setuju hingga kemudian pada masa kekuasaan 'Umar, beliau mengusir mereka ke wilayah Tayma' dan Ariha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3152</td></tr><tr><td>Arabic No</td><td>3152</td></tr><tr><td>Reference</td><td>Book 57 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «‘Умар ибн аль-Хаттаб изгнал иудеев и христиан с земли Хиджаза. Что же касается Посланника Аллаха ﷺ, то после завоевания Хайбара он хотел выселить оттуда иудеев, так как, когда он завоевал (Хайбар, эта земля) стала принадлежать Аллаху, Его Посланнику ﷺ и мусульманам. И он захотел выселить оттуда иудеев, но они попросили Посланника Аллаха ﷺ (позволить им) остаться там при условии, что они будут (обрабатывать землю) за половину урожая фиников, и Посланник Аллаха ﷺ сказал им: “Мы оставим вас здесь (на этих условиях), насколько пожелаем”. И они оставались (там) до тех пор, пока ‘Умар не выселил их в Тайму и Ариху»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3152</td></tr><tr><td>Arabic No</td><td>3152</td></tr><tr><td>Reference</td><td>Book 57 Hadith 60</td></tr></tbody></table></div>
 

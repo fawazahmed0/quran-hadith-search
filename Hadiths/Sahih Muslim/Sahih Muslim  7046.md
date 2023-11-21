@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Mas'ud reported that a Jewish scholar came to Allah's Apostle (may p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Abdullah bin Yunus] telah menceritakan kepada kami [Fudhail bin 'Iyadl] dari [Manshur] dari [Ibrahim] dari ['Ubaidah As Salmani] dari ['Abdullah bin Mas'ud] dia berkata; "Seorang pendeta datang kepada Nabi shallallahu 'alaihi wasallam lalu dia berkata; 'Wahai Muhammad, atau wahai Abu Qasim! Kelak di hari kiamat Allah Ta'ala memegang langit, bumi, gunung-gunung, pohon-pohon, air, binatang-binatang, dan seluruh makhluk dengan jari-Nya. Kemudian Dia goncangkan seluruhnya sambil berkata; 'Akulah Raja (Penguasa)! Akulah Raja! ' Rasulullah shallallahu 'alaihi wasallam pun tertawa mendengar pendeta itu dan membenarkannya. Kemudian beliau membaca ayat: 'Dan mereka tidak mengagungkan Allah dengan pengagungan yang semestinya, padahal bumi seluruhnya dalam genggaman-Nya pada hari kiamat dan langit digulung-Nya dengan tangan kanan-Nya; Maha Suci Allah dan Maha Tinggi Dia dari apa yang mereka persekutukan.' (Az Zumar (39): 67). Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] keduanya dari [Jarir] dari [Manshur] dengan sanad ini, dia berkata; 'Seorang pendeta dari Yahudi datang kepada Nabi shallallahu 'alaihi wasallam -yang serupa dengan Hadits Fudlail namun dia tidak menyebutkan kalimat; 'kemudian Dia mengguncangkan seluruhnya.' Dan dia juga berkata; 'Sungguh aku melihat Rasulullah shallallahu 'alaihi wasallam tertawa hingga terlihat gigi seri beliau sebagai rasa takjub sekaligus membenarkannya. Kemudian Rasulullah shallallahu 'alaihi wasallam membaca ayat; 'Dan mereka tidak mengagungkan Allah dengan pengagungan yang semestinya (QS. Azzumar 67) ….dan seterusnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7046</td></tr><tr><td>Arabic No</td><td>2786.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7046</td></tr><tr><td>Arabic No</td><td>2786.01</td></tr><tr><td>Reference</td><td>Book 52 Hadith 2</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amra daughter of Abd al-Rahman reported that Ibn Ziyad had written to 'A'isha (A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Abdullah bin Abu Bakr] dari [Amrah binti Abdurrahman] bahwa ia telah mengabarkan kepadanya, bahwasanya; Ibnu Zaid menulis surat kepada [Aisyah] bahwa Abdullah bin Abbas telah mengatakan; Bahwa barangsiapa yang telah menyerahkan hewan kurbannya, maka telah haram baginya apa-apa yang haram bagi seorang yang melaksanakan haji sampai hewan kurban itu disembelih. Sementara aku sendiri telah mengirim hewan kurbanku. Karena itu, tuliskanlah padaku apa yang menjadi pendapat Anda. Amrah berkata; Aisyah berkata, "Yang benar, tidak sebagaimana apa yang dikatakan Ibnu Abbas. Aku sendiri pernah mengalungkan tanda hewan kurban pada hadya milik Rasulullah shallallahu 'alaihi wasallam, lalu beliau menuntunnya dengan tangannya sendiri kemudian mengirimkannya bersama bapakku (ke tanah haram). Dan sesudah itu, tidak ada sesuatu lagi yang haram atas Rasulullah shallallahu 'alaihi wasallam, yang sebelumnya Allah halalkan hingga hewan kurbannya disembelih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3205</td></tr><tr><td>Arabic No</td><td>1321.12</td></tr><tr><td>Reference</td><td>Book 15 Hadith 409</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3205</td></tr><tr><td>Arabic No</td><td>1321.12</td></tr><tr><td>Reference</td><td>Book 15 Hadith 409</td></tr></tbody></table></div>
 

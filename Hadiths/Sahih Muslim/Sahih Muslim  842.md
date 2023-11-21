@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Mahdhura said that the Messenger of Allah (ﷺ) taught him Adhan like this:A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ghassan al-Misma'i Malik bin Abdul Wahid] dan [Ishaq bin Ibrahim] berkata [Abu Ghassan] telah menceritakan kepada kami [Mu'adz] dan berkata [Ishaq] telah mengabarkan kepada kami [Mu'adz bin Hisyam, sahabat ad-Dastawa'i] dan telah menceritakan kepada kami [bapakku] dari [Amir al-Ahwal] dari [Makhul] dari [Abdullah bin Muhairiz] dari [Abu Mahdzurah] bahwa Nabi shallallahu 'alaihi wasallam mengajarkan kepada bapaknya adzan ini, "Allah Mahabesar, Allah Mahabesar, saya bersaksi bahwa tidak ada tuhan (yang berhak disembah) selain Allah, saya bersaksi bahwa tidak ada tuhan (yang berhak disembah) selain Allah, saya bersaksi bahwa Muhammad utusan Allah, saya bersaksi bahwa Muhammad utusan Allah, kemudian dia mengulanginya lagi seraya berkata, saya bersaksi bahwa tidak ada tuhan (yang berhak disembah) selain Allah, saya bersaksi bahwa tidak ada tuhan (yang berhak disembah) selain Allah, saya bersaksi bahwa Muhammad utusan Allah, saya bersaksi bahwa Muhammad utusan Allah, marilah kita mendirikan shalat dua kali, marilah menuju kebahagiaan dua kali." Ishaq menambahkan, "Allah Mahabesar, Allah Mahabesar, tidak ada tuhan (yang berhak disembah) selain Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>842</td></tr><tr><td>Arabic No</td><td>379</td></tr><tr><td>Reference</td><td>Book 4 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Махзура передал, что Пророк Аллаха ﷺ научил его произносить азан (следующим образом): «Аллах превелик, Аллах превелик! Свидетельствую, что нет божества (достойного поклонения), кроме Аллаха, свидетельствую, что нет божества (достойного поклонения), кроме Аллаха! Свидетельствую, что Мухаммад Посланник Аллаха, свидетельствую, что Мухаммад Посланник Аллаха» /Аллаху акбар, Аллаху акбар, ашхаду алля иляха илля Ллах, ашхаду алля иляха илля-Ллах, ашхаду анна Мухаммадан расулю-Ллах, ашхаду анна Мухаммадан расулю Ллах/». (Абу Махзура сказал): «(И он учил), что потом следует ещё дважды сказать: “Ашхаду алля иляха илля-Ллах”, и дважды сказать: “Ашхаду анна Мухаммадан расулю-Ллах”, и дважды сказать: “Спешите на молитву!” /Хаййа ‘аля-с-салят/, и дважды сказать: “Спешите к спасению!” /Хаййа ‘аля-ль-фалях/».Исхак добавлял, (что после этого необходимо также произнести слова): «Аллах превелик, Аллах превелик, нет божества (достойного поклонения), кроме Аллаха! /Аллаху акбар, Аллаху акбар, ля иляха илля Ллах/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>842</td></tr><tr><td>Arabic No</td><td>379</td></tr><tr><td>Reference</td><td>Book 4 Hadith 6</td></tr></tbody></table></div>
 

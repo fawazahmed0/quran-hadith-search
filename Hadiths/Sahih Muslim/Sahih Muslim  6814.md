@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin 'Ulayyah] dari ['Abdul 'Aziz] dari [Anas] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Janganlah ada seseorang di antara kalian yang mengharapkan kematian karena tertimpa kesengsaraan. Kalau terpaksa ia harus berdoa, maka ucapkanlah; 'Ya Allah, berilah aku kehidupan apabila kehidupan tersebut memang lebih baik bagiku dan matikanlah aku apabila kematian tersebut memang lebih baik untukku.'" Telah menceritakan kepada kami [Ibnu Abu Khalaf] telah menceritakan kepada kami [Rauh] telah menceritakan kepada kami [Syu'bah] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad bin Salamah], keduanya dari [Tsabit] dari [Anas] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang sama. Hanya saja dia berkata dengan kalimat; 'min dlurrin ashabahu' (dari bahaya yang menimpanya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6814</td></tr><tr><td>Arabic No</td><td>2680.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6814</td></tr><tr><td>Arabic No</td><td>2680.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 10</td></tr></tbody></table></div>
 

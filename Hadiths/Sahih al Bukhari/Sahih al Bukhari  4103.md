@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:As regards the following Qur'anic Verse:-- "When they came on yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Utsman bin Abu Syaibah] telah menceritakan kepada kami ['Abdah] dari [Hisyam] dari [Ayahnya] dari ['Aisyah] radliallahu 'anha mengenai ayat: '(ketika mereka datang kepadamu dari atas dan dari bawahmu, dan ketika tidak tetap lagi penglihatan(mu) dan hatimu naik menyesak sampai ke tenggorokan dan kamu menyangka terhadap Allah dengan bermacam-macam purbasangka) ' (Qs. Al Ahzab: 10), dia berkata, "Hal itu terjadi ketika perang Khandaq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4103</td></tr><tr><td>Arabic No</td><td>4103</td></tr><tr><td>Reference</td><td>Book 64 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала относительно аята «Вот они напали на вас сверху и снизу, и тогда взоры замерли, сердца достигли горла»: «Это было в день битвы у рва»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4103</td></tr><tr><td>Arabic No</td><td>4103</td></tr><tr><td>Reference</td><td>Book 64 Hadith 147</td></tr></tbody></table></div>
 

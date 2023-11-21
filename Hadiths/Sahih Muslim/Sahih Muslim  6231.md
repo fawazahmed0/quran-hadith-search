@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (may peace he upon him) laid down on bed 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Rumh]; Telah mengabarkan kepada kami [Al Laits] dari [Yahya bin Sa'id] dari ['Abdillah bin 'Amir bin Rabi'ah] bahwa ['Aisyah] dia berkata; "Pada malam pertama setibanya di Madinah, RasululIah shallallahu 'alaihi wasallam selalu jaga dan tidak pernah tidur. Setelah itu beliau pun berkata; 'Semoga ada seorang laki-laki yang shalih dari para sahabatku ini yang akan menjagaku pada malam ini. Aisyah berkata; "Ketika kami dalam keadaan seperti itu, tiba-tiba kami mendengar suara senjata. Kemudian Rasulullah bertanya, Siapa kamu? Orang itu menjawab, "Sa'ad bin Abi Waqqash." Rasulullah bertanya lagi, "Mengapa kamu datang kemari ya Sa'ad?" Sa'ad bin Abi Waqqash menjawab; "Di dalam benak saya kekhawatiran terhadap diri Rasulullah shallallahu 'alaihi wasallam. OIeh karena itu, saya datang ke sini untuk menjaganya." Kemudian Rasulullah pun mendoakan kebaikan bagi Sa'ad dan setelah itu beliau tidur. Dan di dalam riwayat Ibnu Rumh di sebutkan; 'Lalu kami bertanya, 'Siapa ini? ' Dan telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Abdul Wahab] Aku mendengar [Yahya bin Sa'id] dia berkata; Aku mendengar [Abdullah bin Amir bin Rabi'ah] dia berkata; [Aisyah] berkata; 'Pada suatu malam, Rasulullah shallallahu 'alaihi wasallam tidak bisa tidur…….(sebagaimana Hadits Sulaiman bin Bilal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6231</td></tr><tr><td>Arabic No</td><td>2410.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6231</td></tr><tr><td>Arabic No</td><td>2410.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 61</td></tr></tbody></table></div>
 

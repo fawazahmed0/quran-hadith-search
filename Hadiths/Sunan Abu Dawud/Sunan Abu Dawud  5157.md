@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ma’rur b. Suwaid said :I saw Abu Dharr at Rabadhah. He was wearing a thick clo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Al Ma'rur bin Suwaid] ia berkata; Aku melihat [Abu Dzar] di Rabadzah mengenakan kain beludru tebal, sementara budaknya juga mengenakan kain yang sama. Orang-orang pun berkata, "Wahai Abu Dzar, sekiranya engkau ambil kain yang dikenakan oleh budakmu lalu kamu pakai tentu itu akan manjadi perhiasan, lantas engkau beri budakmu itu dengan pakaian yang lain." Abu Dzar berkata, "Aku pernah menawan seorang laki-laki, sementara ibunya adalah seorang wanita 'Ajam (non Arab). Lalu laki-laki itu aku tukar dengan ibunya. Orang itu kemudian mengadukan aku kepada Rasulullah shallallahu 'alaihi wasallam, beliau pun bersabda: "Wahai Abu Dzar, engkau ini laki-laki yang masih ada sisa-sisa sifat jahilliyah." Beliau melanjutkan lagi: "Mereka itu adalah saudara-saudara kalian, Allah melebihkan kalian atas mereka. maka siapa saja dari mereka yang tidak berbuat baik kepada kalian hendaklah kalian jual, dan jangan kalian siksa makhluk Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5157</td></tr><tr><td>Arabic No</td><td>5157</td></tr><tr><td>Reference</td><td>Book 43 Hadith 385</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5157</td></tr><tr><td>Arabic No</td><td>5157</td></tr><tr><td>Reference</td><td>Book 43 Hadith 385</td></tr></tbody></table></div>
 

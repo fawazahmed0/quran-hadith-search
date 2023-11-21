@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jundab b. 'Abdullah reported Allah's Messenger (ﷺ) as saying:He who prayed the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Nashr bin Ali Al Juhdlami] telah menceritakan kepada kami [Bisyr yaitu Ibn Al Mufadlal] dari [Khalid] dari [Anas bin Sirin] katanya; aku mendengar [Jundab bin Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa shalat subuh, maka ia berada dalam jaminan Allah, oleh karena itu jangan sampai Allah menuntut sesuatu dari kalian sebagai imbalan jaminan-Nya, sehingga Allah menangkapnya dan menyungkurkannya ke dalam neraka jahannam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1493</td></tr><tr><td>Arabic No</td><td>657.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 326</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Сирин сказал: Я слышал, как Джундуб ибн ‘Абдуллах, да будет доволен им Аллах, говорил: «Посланник Аллаха ﷺ сказал: “Тот, кто совершил утреннюю молитву, находится под защитой Аллаха, и Аллах ничего не потребует от вас за Свою защиту, ибо, поистине, любого, у кого Он потребует за Свою защиту хоть что-то, Он настигнет, а потом ввергнет лицом в пламя Ада”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1493</td></tr><tr><td>Arabic No</td><td>657.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 326</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir. b. Abdullah reported Allah's Messenger (ﷺ) as saying:Do not walk in one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Hatim] ia berkata; [Ishaq] Telah mengabarkan kepada kami dan berkata [Ibnu Hatim]; Telah menceritakan kepada kami [Muhammad bin Bakr]; Telah mengabarkan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Az Zubair] bahwasanya ia mendengar [Jabir bin 'Abdullah] berkata; bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kamu berjalan dengan menggunakan sandal sebelah, duduk (dengan meninggikan lutut ke dada) dengan memakai satu kain, makan dengan tangan kiri, menyelimuti seluruh tubuh dengan satu kain, dan meletakan sebelah kakimu pada kakimu yang lain ketika kamu tidur terlentang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5502</td></tr><tr><td>Arabic No</td><td>2099.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5502</td></tr><tr><td>Arabic No</td><td>2099.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 117</td></tr></tbody></table></div>
 

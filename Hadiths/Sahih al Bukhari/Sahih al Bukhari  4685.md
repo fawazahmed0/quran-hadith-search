@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safwan bin Muhriz:While Ibn 'Umar was performing the Tawaf (around the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yazid bin Zura'i] Telah menceritakan kepada kami [Sa'id] dan [Hisyam] keduanya berkata; Telah menceritakan kepada kami [Qatadah] dari [Shafwan bin Muhriz] dia berkata; ketika Ibnu 'Umar sedang thawaf, tiba-tiba seseorang menghadangnya seraya berkata; wahai Abu 'Abdur Rahman, atau wahai Ibnu 'Umar apa kamu mendengar dari Nabi shallallahu 'alaihi wasallam mengenai An-Najwa (bisikan dihari kiamat)? [Ibnu Umar] menjawab: "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: Nanti di hari kiamat, seorang mukmin mendekat kepada Rabb-nya. Hisyam berkata; 'Seorang mukmin mendekat hingga Dia meletakkan naungan-Nya ke atasnya, yaitu menutupi (dosa-dosa) -nya kemudian Dia berkata, "Apakah kamu mengakui dosa ini?" dia menjawab, "Wahai Rabb-ku, saya mengetahuinya." -sebanyak dua kali- Allah berfirman kepadanya: "Saya telah menutupinya (merahasiakannya) di dunia dan pada hari ini aku telah mengampuninya bagimu." Kemudian diberikanlah kepadanya catatan kebaikan-kebaikannya. Adapun yang lainnya atau orang-orang kafir, maka mereka dipanggil dihadapan semua manusia dan dikatakan: "Inilah mereka yang telah mendustakan Rabb mereka, ketahuilah bahwa laknat Allah berlaku atas orang-orang yang zalim." (Hud: 18). Dan [Syaiban] berkata; Dari [Qatadah] Telah menceritakan kepada kami [Shafwan]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4685</td></tr><tr><td>Arabic No</td><td>4685</td></tr><tr><td>Reference</td><td>Book 65 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сафуан ибн Мухриз сказал: «В то время как Ибн ’Умар совершал таваф (вокруг Каабы), к нему подошёл человек и сказал: “О Абу ‘Абдуррахман, (или: о Ибн ‘Умар), что ты слышал от Пророка ﷺ о тайной беседе?” Он ответил: “Я слышал, как Пророк, сказал: “Верующий будет приближен (или: приблизится) к своему Господу так, что Он покроет его (скрывая от творений) и заставит его признаться в грехах, говоря: “Признаёшь ли ты (, что совершил) такой-то грех?” Он дважды ответит: “О Господь, признаюсь!” Тогда Он скажет: “Я покрыл (твои грехи) в земной жизни и Я прощу их тебе сегодня!” Затем свиток (с записями) его добрых дел будет свёрнут. Что же касается остальных (или: неверных), то будет провозглашено так, что все услышат это: “Это они оболгали своего Господа”. Да будет проклятие Аллаха над беззаконниками”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4685</td></tr><tr><td>Arabic No</td><td>4685</td></tr><tr><td>Reference</td><td>Book 65 Hadith 207</td></tr></tbody></table></div>
 

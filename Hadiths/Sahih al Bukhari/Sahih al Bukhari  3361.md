@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:One day some meat was given to the Prophet (ﷺ) and he sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3361</td></tr><tr><td>Arabic No</td><td>3361</td></tr><tr><td>Reference</td><td>Book 60 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Пророку ﷺ принесли мясо, и он сказал: “В День воскрешения Аллах соберёт первых и последних на одной обширной равнине так, что глашатай сможет обратиться ко всем им и всех их можно будет охватить взором. И солнце приблизится к ним”, — затем он рассказал хадис о заступничестве, где также было — “(После этого) они придут к Ибрахиму и скажут (ему): “Ты — пророк Аллаха и Его возлюбленный /халиль/ из числа живших на земле, заступись же за нас перед твоим Господом!” (На это) он скажет им: “Что же касается меня, то я ведь трижды солгал! Сам я, сам я, сам я (нуждаюсь в защите), а вы ступайте к Мусе!””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3361</td></tr><tr><td>Arabic No</td><td>3361</td></tr><tr><td>Reference</td><td>Book 60 Hadith 36</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mujammi' ibn Jariyah al-Ansari: Mujammi' was one of the Qur'an-reciters
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Mujammi' bin Ya'qub bin Yazid Al Anshari], ia berkata; saya mendengar ayahku [Ya'qub bin Mujammi'] ia menyebutkan dari [pamannya yaitu Abdurrahman bin Yazid Al Anshari], dari [pamannya yaitu Mujammi' bin Jariyah Al Anshari], dan ia adalah salah seorang ahli Al Qur'an. Ia berkata; kami pernah menghadiri perdamaian Hudaibiyah bersama Rasulullah shallallahu 'alaihi wasallam. Kemudian tatkala kami telah pergi dari Hudaibiyah, ternyata terdapat orang-orang yang menggerakkan beberapa unta. Kemudian sebagian orang berkata kepada sebagian yang lain; ada apa dengan orang-orang? Mereka berkata; Rasulullah shallallahu 'alaihi wasallam telah diberi wahyu. Kemudian kami keluar bersama orang-orang, kami mempercepat kendaraan kami, kemudian kami dapati Nabi shallallahu 'alaihi wasallam berdiri di atas kendaraannya di Kura' Al Ghamim. Kemudian tatkala orang-orang telah berkumpul beliau membacakan kepada mereka ayat: "Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata." Kemudian terdapat seseorang yang berkata; apakah ini adalah sebuah penaklukan? Beliau berkata: "Ya, demi Dzat yang jiwa Muhammad ada di tangannya, sesungguhnya itu adalah sebuah penaklukan." Kemudian Khaibar dibagikan kepada orang-orang yang menghadiri perdamaian Hudaibiyah. Rasulullah shallallahu wa'alaihi wa sallam membaginya menjadi delapan belas saham. Dan jumlah pasukan adalah seribu lima ratus, diantara mereka terdapat tiga ratus penunggang kuda. Beliau memberi dua saham kepada penunggang kuda dan satu saham kepada orang yang berjalan kaki. Abu Daud berkata; hadits Abu Mu'awiyah lebih shahih, dan menjadi dasar untuk beramal. Dan aku melihat kesalahan ada dalam hadits Mujammi', bahwa ia berkata; tiga ratus penunggang kuda, padahal mereka berjumlah dua ratus penunggang kuda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2736</td></tr><tr><td>Arabic No</td><td>2736</td></tr><tr><td>Reference</td><td>Book 15 Hadith 260</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2736</td></tr><tr><td>Arabic No</td><td>2736</td></tr><tr><td>Reference</td><td>Book 15 Hadith 260</td></tr></tbody></table></div>
 

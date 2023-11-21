@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Jubair reported on the authority of Ibn 'Abbas (Allah be pleased with t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Al Aswad bin Amir] dari [Zuhair] dari [Abu Az Zubair] ia berkata, saya mendengar [Sa'id bin Jubair] berkata, [Ibnu Abbas] radliallahu 'anhuma berkata; Seorang laki-laki terjatuh dari Untanya hingga lehernya patah (dan menigggal), dan saat itu ia sedang bersama Rasulullah shallallahu 'alaihi wasallam. Lalu beliau memerintahkan agar para sahabat memandikannya dengan air dan daun bidara serta menyingkap wajahnya. Abu Zubari berkata; Dan saya menduga ia menyebutkan; (agar mereka menyingkap) kepalanya, sebab ia akan dibangkitkan kelak pada hari kiamat dalam keadaan membaca Talbiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>1206.10</td></tr><tr><td>Reference</td><td>Book 15 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>1206.10</td></tr><tr><td>Reference</td><td>Book 15 Hadith 109</td></tr></tbody></table></div>
 

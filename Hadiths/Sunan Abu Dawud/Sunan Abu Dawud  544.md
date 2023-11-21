@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas reported :the Iqamah was pronounced (for the night prayer) and the Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz bin Shuhaib] dari [Anas] dia berkata; Iqamat shalat telah dikumandangkan, sementara Rasulullah Shallallahu alaihi wasallam sedang berbiisik-bisik dengan seseorang, beliau tidak beranjak untuk melaksanakan shalat hingga orang-orang tertidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (642) Sahih Muslim (376)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>544</td></tr><tr><td>Arabic No</td><td>544</td></tr><tr><td>Reference</td><td>Book 2 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(Однажды,) когда уже было объявлено о начале молитвы, Посланник Аллаха ﷺ всё ещё продолжал беседовать (с каким-то человеком) в углу мечети и встал на молитву только после того, как (некоторые) люди уже заснули»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (642) Sahih Muslim (376)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>544</td></tr><tr><td>Arabic No</td><td>544</td></tr><tr><td>Reference</td><td>Book 2 Hadith 154</td></tr></tbody></table></div>
 

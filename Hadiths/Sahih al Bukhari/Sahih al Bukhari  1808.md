@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Some of the sons of 'Abdullah told him (i.e. 'Abdullah) if he had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1808</td></tr><tr><td>Arabic No</td><td>1808</td></tr><tr><td>Reference</td><td>Book 27 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что кто-то из сыновей ‘Абдуллаха (ибн ‘Умара) сказали: «Лучше бы ты остался с нами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1808</td></tr><tr><td>Arabic No</td><td>1808</td></tr><tr><td>Reference</td><td>Book 27 Hadith 3</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Sa'd b. Abu Waqqas told that Sa'd b. Abu Waqqas said during his illness 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abdullah bin Ja'far Al Miswari] dari [Isma'il bin Muhammad bin Sa'd] dari [Amir bin Sa'd bin Abu Waqash] bahwa [Sa'd bin Abu Waqash] berkata di waktu sakit yang menyebabkan kematiannya, "Buatkan bagiku lahad dan susunkan batu-batu di atas kuburanku sebagaimana yang diperbuat pada kuburan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2240</td></tr><tr><td>Arabic No</td><td>966</td></tr><tr><td>Reference</td><td>Book 11 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Амира ибн Са‘да ибн Аби Ваккаса, что, заболев и находясь при смерти, Са‘д ибн Аби Ваккас велел: «Выройте для меня могильную нишу /ляхд/ и отделите её от ямы поставленными вертикально кирпичами из необожжённой глины так же, как это было сделано для Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2240</td></tr><tr><td>Arabic No</td><td>966</td></tr><tr><td>Reference</td><td>Book 11 Hadith 117</td></tr></tbody></table></div>
 

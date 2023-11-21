@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by Jabir through a diffe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dengan sanad ini pula ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Penghianat tidak mendapat hukuman potong tangan." Telah menceritakan kepada kami [Nashr bin Ali] berkata, telah mengabarkan kepada kami [Isa bin Yunus] dari [ibnu Juraij] dari [Abu Az Zubair] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam seperti dalam hadits tersebut. Namun ia menambahkan, "Dan bagi orang yang mencopet (korupsi) juga tidak ada hukuman potong tangan." Abu Dawud berkata, "Dua hadits ini belum pernah didengar oleh Ibnu Juraij dari Abu Az Zubair. Telah sampai kepadaku dari jalur Ahmad, bahwa ia berkata, "Ibnu Juraij mendengar kedua hadits tersebut justru dari Yasin bin Az Zayyat." Abu Dawud melanjutkan, " [Al Mughirah bin Muslim] juga telah meriwayatkannya dari [Abu Az Zubair], dari [Jabir], dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 40 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аз-Зубайр передаёт от Джабира, да будет доволен Аллах им и его отцом, от Пророка ﷺ подобный хадис с добавлением: «Укравшему (тому, кто быстро хватает) что-то лежащее открыто не отрубают руку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 40 Hadith 43</td></tr></tbody></table></div>
 

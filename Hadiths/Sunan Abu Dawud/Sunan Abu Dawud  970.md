@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: Alqamah said that Abdullah ibn Mas'ud caught hold 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>970</td></tr><tr><td>Arabic No</td><td>970</td></tr><tr><td>Reference</td><td>Book 2 Hadith 581</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах, да будет доволен им Аллах, передаёт такой же хадис и сказал: «Посланник Аллаха ﷺ научил нас следующим словам, но не учил нас им так, как учил нас ташаххуду: “О Аллах, соедини сердца наши и уладь ссоры наши, и веди нас путями мира, и выведи нас из мрака к свету, и убереги нас от мерзостей тайных и явных, и сделай благословенными для нас наш слух, наше зрение, наши сердца, наших супруг и наших потомков, и прими наше покаяние. Поистине, Ты Принимающий покаяние, Милостивый. И сделай нас благодарными Тебе за Твою милость, признательными за неё, и принимающими её, и даруй нам её сполна”».Аль-Касим ибн Мухаймира сказал: «‘Алькама взял меня за руку и рассказал мне, что ‘Абдуллах ибн Мас‘уд взял его за руку и что Посланник Аллаха ﷺ взял за руку ‘Абдуллаха и научил его ташаххуду в молитве…» И он передал хадис, подобный хадису аль-А‘маша: «Если ты сделаешь это, ты завершишь свою молитву, и если хочешь встать, то вставай, а если хочешь сидеть, то сиди»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>970</td></tr><tr><td>Arabic No</td><td>970</td></tr><tr><td>Reference</td><td>Book 2 Hadith 581</td></tr></tbody></table></div>
 

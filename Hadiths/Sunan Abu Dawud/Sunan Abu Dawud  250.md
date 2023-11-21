@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) took a bath and off
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An-Nufaili] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] dari [Al-Aswad] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam biasa mandi, lalu mengerjakan shalat (Sunnah Qabliyah subuh) dua rakaat dan shalat subuh. Dan saya tidak melihat beliau memperbaharui wudhu setelah beliau mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>250</td></tr><tr><td>Arabic No</td><td>250</td></tr><tr><td>Reference</td><td>Book 1 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ купался (из-за осквернения) и совершал молитву в два рак‘ата (перед утренней молитвой) а (также) утреннюю молитву. И я не видела, чтобы он обновлял омовение после того, как искупается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>250</td></tr><tr><td>Arabic No</td><td>250</td></tr><tr><td>Reference</td><td>Book 1 Hadith 250</td></tr></tbody></table></div>
 

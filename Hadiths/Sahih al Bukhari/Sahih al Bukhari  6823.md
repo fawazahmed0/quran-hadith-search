@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:While I was with the Prophet (ﷺ) a man came and said, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul Quddus bin Muhammad] telah menceritakan kepadaku ['Amru bin 'Ashim Al Kalbi] telah menceritakan kepada kami [Hamam bin Yahya] telah menceritakan kepada kami [Ishaq bin Abdullah bin Abi Thalhah] dari [Anas bin Malik] radliallahu 'anhu, mengatakan; aku berada di dekat Nabi shallallahu 'alaihi wasallam, seorang laki-laki mendatangi beliau dan berujar: 'ya Rasulullah, Saya telah melanggar hukum had, maka tegakkanlah atasku! ' Nabi tidak menanyainya. Ketika tiba waktu shalat pun, ia pun ikut shalat bersama Nabi shallallahu 'alaihi wasallam. Selesai Nabi shallallahu 'alaihi wasallam mendirikan shalat, laki-laki itu menemuinya dan berkata; 'ya Rasulullah, aku telah melanggar had, maka tegakkanlah atasku sesuai kitabullah.' Nabi bersabda: "Bukankah engkau shalat bersama kami?" 'Benar' Jawabnya. Nabi bersabda: "Allah telah mengampuni dosamu -atau dengan redaksi-mengampuni hukuman had (yang menimpa) mu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6823</td></tr><tr><td>Arabic No</td><td>6823</td></tr><tr><td>Reference</td><td>Book 86 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что он сказал: «Однажды, когда я находился вместе с посланником Аллаха ﷺ (в мечети), пришёл какой-то человек и сказал: “О Посланник Аллаха, я совершил грех, за который предусмотрено наказание, так подвергни же меня ему!” Посланник Аллаха ﷺ (промолчал и) не спросил его о том, что он совершил. Между тем подошло время молитвы, и он совершил молитву с Пророком ﷺ, и когда Пророк ﷺ завершил её, этот человек встал и сказал: “О Посланник Аллаха, я совершил грех, за который предусмотрено наказание, так подвергни же меня предписанию Аллаха!” Тогда (Посланник Аллаха ﷺ) спросил его: “Разве ты не помолился вместе с нами?” Он сказал: “Да, о Посланник Аллаха”. Тогда (Посланник Аллаха ﷺ) сказал ему: “Поистине, Аллах простил тебе твой грех”, — или сказал: “твоё наказание”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6823</td></tr><tr><td>Arabic No</td><td>6823</td></tr><tr><td>Reference</td><td>Book 86 Hadith 51</td></tr></tbody></table></div>
 

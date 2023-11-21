@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:(One day) I sat along with Shaiba on the chair inside the Ka'b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Washil Al Ahdab] dari [Abu Wa'il] berkata; "Aku menemui [Syaibah] ". Dan diriwayatkan pula, telah menceritakan kepada kami [Qabishah] telah menceritakan kepada kami [Sufyan] dari [Washil] dari [Abu Wa'il] berkata: "Aku duduk bersama [Syaibah] diatas sebuah kursi di dalam Ka'bah, lalu dia berkata: "Ini adalah tempat duduknya ['Umar] radliallahu 'anhu yang dia berkata: "Sungguh aku berusaha keras untuk tidak meninggalkan benda kuning (emas) ataupun benda putih (perak) kecuali aku akan membagikannya". Aku katakan: "Kedua sahabatmu (Abu Bakar Ash-Shidiq radliallahu 'anhu dan Nabi Shallallahu'alaihiwasallam) tidak pernah melakukan hal itu!". 'Umar radliallahu 'anhu berkata: "Mereka berdua adalah dua orang yang aku ikuti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1594</td></tr><tr><td>Arabic No</td><td>1594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Уаиль рассказывал: \n— (Однажды) Я сел вместе с Шейбой на стул внутри Каабы. Шейба сказал: «На этом месте однажды сидел ‘Умар, да будет доволен им Аллах, и он сказал: “Я хотел бы раздать всё золото и серебро, которое находится внутри Каабы”. Я сказал ему: “Но два твоих предшественников не сделали этого”. ‘Умар ответил: “Это те два человека, за которыми я всегда следую”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1594</td></tr><tr><td>Arabic No</td><td>1594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 80</td></tr></tbody></table></div>
 

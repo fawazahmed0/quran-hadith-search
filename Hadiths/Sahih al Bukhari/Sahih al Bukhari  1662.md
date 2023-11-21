@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ibn Shihab said:Salim said, "In the year when Al-Hajjaj bin Yusuf attacked Ibn A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1662</td></tr><tr><td>Arabic No</td><td>1662</td></tr><tr><td>Reference</td><td>Book 25 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Шихаб сказал: «Салим рассказал мне, что в год, когда Хаджадж Ибн Юсуф приехал к Ибн Зубейру, он спросил ‘Абдуллаха, да будет доволен им Аллах: “В какое время ты стоишь на ‘Арафате?” Салим ответил: “Если хочешь (следовать) сунне, то соверши молитву сразу после полудня в день ‘Арафата”. ‘Абдуллах ибн ‘Умар сказал: “Он сказал правду. Сподвижники объединяли молитвы зухр и ‘аср в соответствии с сунной”. Тогда я (Ибн Шихаб) спросил Салима: “Делал ли так Посланник Аллаха ﷺ?” Салим ответил: “А разве вы следуете в этом чему-то кроме его сунны!?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1662</td></tr><tr><td>Arabic No</td><td>1662</td></tr><tr><td>Reference</td><td>Book 25 Hadith 143</td></tr></tbody></table></div>
 

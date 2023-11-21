@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:On the day of (the battle) of Al-Yarmuk, the companions of Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3975</td></tr><tr><td>Arabic No</td><td>3975</td></tr><tr><td>Reference</td><td>Book 64 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Урвы, что в день битвы при аль-Ярмуке сподвижники Посланника Аллаха ﷺ сказали аз-Зубайру: «Почему бы тебе не начать атаку, а мы будем атаковать вместе с тобой?» Аз-Зубайр сказал: «Если я нападу на них, вы не поддержите меня». Они сказали: «Нет, мы поддержим». Тогда аз-Зубайр начал атаковать их, прорвался сквозь их ряды, но с ним никого не было, и он стал возвращаться, но его (коня) схватили за узду и нанесли ему два удара (мечом), ранив плечо. Между этими двумя ранами был старый шрам, который он получил в день битвы при Бадре. ‘Урва также сказал: «Когда я был ребёнком, я обычно вставлял пальцы в эти шрамы во время игры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3975</td></tr><tr><td>Arabic No</td><td>3975</td></tr><tr><td>Reference</td><td>Book 64 Hadith 28</td></tr></tbody></table></div>
 

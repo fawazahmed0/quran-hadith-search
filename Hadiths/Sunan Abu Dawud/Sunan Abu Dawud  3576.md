@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said:"If any do fail to judge (by the light of) what Allah has reveal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Hamzah bin Abu Yahya Ar Ramli] telah menceritakan kepada kami [Zaid bin Abu Az Zarqa'] telah menceritakan kepada kami [Ibnu Az Zinad] dari [Ayahnya] dari ['Ubaidullah bin Abdullah bin 'Utbah] dari [Ibnu Abbas] ia membaca ayat: '(Barangsiapa yang tidak memutuskan menurut apa yang diturunkan Allah, maka mereka itu adalah orang-orang yang kafir) ' hingga firman Allah: '(…… orang-orang yang fasik) ' (Qs. Al Maidah: 44-47). ketiga ayat tersebut turun mengenai orang-orang Yahudi, khususnya orang-orang Bani Quraizhah dan An Nazlir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3576</td></tr><tr><td>Arabic No</td><td>3576</td></tr><tr><td>Reference</td><td>Book 25 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что три аята «Те же, которые не принимают решений в соответствии с тем, что ниспослал Аллах, являются неверующими. Мы предписали им в нём: душа за душу, глаз за глаз, нос за нос, ухо за ухо, зуб за зуб, а за раны возмездие. Но если кто-нибудь пожертвует этим, то это станет для него искуплением. Те же, которые не принимают решений в соответствии с тем, что ниспослал Аллах, являются несправедливыми. Вслед за ними Мы отправили ‘Ису (Иисуса), сына Марьям (Марии), с подтверждением истинности того, что было прежде ниспослано в Таурате (Торе). Мы даровали ему Инджиль (Евангелие), в котором было верное руководство и свет, которое подтверждало то, что было прежде ниспослано в Таурате (Торе). Оно было верным руководством и назиданием для богобоязненных. Пусть люди Инджиля (Евангелия) судят согласно тому, что Аллах ниспослал в нём. Те же, которые не принимают решений в соответствии с тем, что ниспослал Аллах, являются нечестивцами» (сура “аль-Маида”, аяты)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3576</td></tr><tr><td>Arabic No</td><td>3576</td></tr><tr><td>Reference</td><td>Book 25 Hadith 6</td></tr></tbody></table></div>
 

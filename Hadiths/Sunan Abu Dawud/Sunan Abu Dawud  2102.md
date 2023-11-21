@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: AbuHind cupped the Prophet (ﷺ) in the middle of his head
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahid bin Ghiyats], telah menceritakan kepada kami [Hammad], telah menceritakan kepada kami [Muhammad bin 'Amr], dari [Abu Salamah] dari [Abu Hurairah], bahwa Abu Hindun telah membekam Nabi shallallahu 'alaihi wasallam pada bagian ubun-ubun, kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Bani Bayadhah, nikahkanlah Abu Hindun, dan nikahkanlah anak-anak wanitanya." Dan beliau bersabda: "Seandainya ada sesuatu yang lebih baik yang kalian gunakan untuk berobat, maka sesuatu tersebut adalah berbekam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2102</td></tr><tr><td>Arabic No</td><td>2102</td></tr><tr><td>Reference</td><td>Book 12 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Абу Хинд сделал Пророку ﷺ кровопускание на макушке и Пророк ﷺ сказал: «О бану Баяда! Выдавайте (ваших женщин) за Абу Хинда и роднитесь с ним». А потом он сказал: «Если и есть в чём-то из того, чем вы лечитесь, благо, то это кровопускание /хиджама/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2102</td></tr><tr><td>Arabic No</td><td>2102</td></tr><tr><td>Reference</td><td>Book 12 Hadith 57</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I heard that never a prophet dies until he is given an option to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan lafazh ini milik Ibnu Al Mutsanna dia berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim] dari ['Urwah] dari ['Aisyah] dia berkata; Aku pernah mendengar bahwa seorang nabi tidak akan meninggal hingga dia di suruh memilih antara dunia dan akhirat. Aisyah berkata; Kemudian ketika Nabi shallallahu 'alaihi wasallam sakit yang menyebabkan kematiannya, aku mendengar beliau menuturkan dengan terputus-putus, beliau bersabda: "Bersama orang-orang yang telah Allah beri nikmat kepada mereka, baik dari para nabi, orang-orang yang jujur, orang-orang yang mati syahid, dan orang-orang yang shalih dan mereka itulah sebaik-baik teman." Aisyah berkata; "Aku mengira pada waktu itulah beliau diberi pilihan." Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Waki']; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku] dia berkata; Telah menceritakan kepada kami [Syu'bah] dari [Sa'ad] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6295</td></tr><tr><td>Arabic No</td><td>2444.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6295</td></tr><tr><td>Arabic No</td><td>2444.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 125</td></tr></tbody></table></div>
 

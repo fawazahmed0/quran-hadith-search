@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported that Sa'd b. Ubada (Allah be pl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ishaq bin Isa] telah menceritakan kepada kami [Malik] dari [Suhail] dari [ayahnya] dari [Abu Hurairah] bahwa Sa'ad bin Ubadah bertanya; "Wahai Rasulullah, jika saya mendapati istriku bersama dengan lelaki lain, apakah saya membiarkannya sampai saya mendatangkan empat orang saksi?" Beliau menjawab; "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3762</td></tr><tr><td>Arabic No</td><td>1498.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что (однажды) Са‘д ибн ‘Убада, да будет доволен им Аллах, спросил: «О Посланник Аллаха, если я застану со своей женой постороннего мужчину, я не должен спешить, пока не приведу четырёх свидетелей?» (Посланник Аллаха ﷺ) сказал: «Да!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3762</td></tr><tr><td>Arabic No</td><td>1498.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 20</td></tr></tbody></table></div>
 

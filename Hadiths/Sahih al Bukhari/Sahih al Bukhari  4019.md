@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubaidullah bin 'Adi bin Al-Khiyar:That Al-Miqdad bin 'Amr Al-Kindi, wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4019</td></tr><tr><td>Arabic No</td><td>4019</td></tr><tr><td>Reference</td><td>Book 64 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) аль-Микдад ибн ‘Амр аль-Кинди, да будет доволен им Аллах, союзник племени бану зухра и один из тех, кто вместе с посланником Аллаха ﷺ участвовал в битве при Бадре, сказал Посланнику Аллаха ﷺ: «Скажи мне, если я встречу кого-нибудь из неверных, и мы сразимся с ним, и он отрубит мне руку мечом, а потом (попытается) спастись от меня, заберётся на дерево и скажет: “Я покорился Аллаху!” — то могу ли я убить его, о Посланник Аллаха, после того, как он скажет это?» Посланник Аллаха ﷺ сказал: «Тебе не следует убивать его». (Аль-Микдад) воскликнул: «О Посланник Аллаха, но ведь он отрубил мне руку и произнёс эти слова только после того, как сделал это!» (На это) Посланник Аллаха ﷺ сказал: «Тебе не следует убивать его, ибо если ты убьёшь его, он станет таким же, каким был ты до его убийства, а ты станешь таким же, каким был он до того, как произнёс эти слова!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4019</td></tr><tr><td>Arabic No</td><td>4019</td></tr><tr><td>Reference</td><td>Book 64 Hadith 68</td></tr></tbody></table></div>
 

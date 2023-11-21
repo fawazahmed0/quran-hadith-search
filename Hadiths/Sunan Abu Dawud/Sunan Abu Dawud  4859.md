@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuBarzah al-Aslami: When the Messenger of Allah (ﷺ) intended to get 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim Al Jarjara'i] dan [Utsman bin Abu Syaibah] secara makna, bahwa [Abdah bin Sulaiman] mengabarkan kepada mereka dari [Al Hajjaj bin Dinar] dari [Abu Hasyim] dari [Abul Aliyah] dari [Abu Barzah Al Aslami] ia berkata, "Ketika akan mengakhiri majlis Rasulullah shallallahu 'alaihi wasallam mengucapkan: "'ALLAHUMMA WA BIHAMDIKA LAA ILAAHA ILLA ANTA ASTAGHFIRUKA WA ATUUBU ILAIKA (Maha Suci Engkau Ya Allah, tidak ada Tuhan yang berhak disembah selain Engkau. Aku memohon ampunan dan taubat kepada-Mu)." Seorang laki-laki lalu bertanya, "Wahai Rasulullah, sungguh engkau mengucapkan suatu bacaan yang tidak pernah engkau ucapkan sebelumnya!" Beliau bersabda: "Itu sebagai penebus dosa yang terjadi selama dalam majlis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4859</td></tr><tr><td>Arabic No</td><td>4859</td></tr><tr><td>Reference</td><td>Book 43 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Барза, да будет доволен им Аллах, сказал: «Желая покинуть своё место (в собрании), Посланник Аллаха ﷺ стал говорить в конце: “Слава Тебе, о Аллах, и хвала Тебе, свидетельствую, что нет истинного бога, кроме Тебя, прошу у Тебя прощения и приношу Тебе своё покаяние!” Один человек сказал: «О Посланник Аллаха, поистине, ты говоришь что-то новое, чего не говорил прежде». (В ответ ему Пророк ﷺ) сказал: «Это искупление за то, что бывает в собрании»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4859</td></tr><tr><td>Arabic No</td><td>4859</td></tr><tr><td>Reference</td><td>Book 43 Hadith 87</td></tr></tbody></table></div>
 

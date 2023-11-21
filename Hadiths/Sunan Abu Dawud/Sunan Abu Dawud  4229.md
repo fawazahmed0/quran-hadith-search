@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad ibn Ishaq said:I saw as-Salt ibn Abdullah ibn Nawfal ibn AbdulMuttalib 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Sa'id] berkata, telah menceritakan kepada kami [Yunus bin Bukair] dari [Muhammad bin Ishaq] ia berkata, "Aku melihat [Ash Shalt bin Abdullah bin Naufal bin Abdul Muthallib] mengenakan cincin pada jari kelingking sebelah kanan. Aku lalu bertanya, "Apa ini?" ia menjawab, "Aku melihat [Ibnu Abbas] mengenakan cincinnya seperti ini, ia menghadapkan mata cincinnya ke punggung telapak tangannya." Ia (Muhammad bin Ishaq) berkata, "dia tidak berpendapat kecuali Ibnu Abbas sendiri yang menyebutkan bahwa Rasulullah shallallahu 'alaihi wasallam mengenakan cincinnya seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4229</td></tr><tr><td>Arabic No</td><td>4229</td></tr><tr><td>Reference</td><td>Book 36 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухаммад ибн Исхак передаёт: «Я увидел, что ас-Сальт ибн ‘Абдуллах ибн Науфаль ибн аль-Харис ибн ‘Абду-ль-Мутталиб носит перстень на мизинце правой руки, и спросил: “Что это?” Он ответил: “Я видел, что Ибн ‘Аббас носил перстень именно так, причём широкая его сторона была на внешней стороне кисти, и он упоминал о том, что Посланник Аллаха ﷺ, носил перстень именно так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4229</td></tr><tr><td>Arabic No</td><td>4229</td></tr><tr><td>Reference</td><td>Book 36 Hadith 16</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] ia berkata; ini adalah hadits yang telah diceritakan oleh [Abu Hurairah] kepada kami, dari Muhammad Rasulullah shallallahu 'alaihi wasallam -ia pun menyebutkan beberapa hadits, di antaranya adalah- Dan Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang wanita janganlah berpuasa (sunnah) ketika suaminya ada, kecuali dengan seizinnya. Dan jangan pula ia membolehkan orang lain masuk ke rumahnya melainkan dengan izin suaminya. Dan sesuatu yang disedekahkan oleh sang isteri dari usaha suaminya tanpa perintah suami, maka setengah dari pahala sedekah itu bagi suaminya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2370</td></tr><tr><td>Arabic No</td><td>1026</td></tr><tr><td>Reference</td><td>Book 12 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Женщина может поститься в присутствии своего мужа только с его позволения и может пускать в дом своего мужа в его присутствии (кого бы то ни было) только с его позволения, если же она израсходует что-то (на милостыню) без его разрешения, половина награды за это достанется ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2370</td></tr><tr><td>Arabic No</td><td>1026</td></tr><tr><td>Reference</td><td>Book 12 Hadith 107</td></tr></tbody></table></div>
 

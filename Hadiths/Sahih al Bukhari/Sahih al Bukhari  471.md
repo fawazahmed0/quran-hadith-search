@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin Malik:During the lifetime of Allah's Messenger (ﷺ) I asked I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] telah menceritakan kepadaku ['Abdullah bin Ka'b bin Malik] bahwa [Ka'b bin Malik] mengabarkan kepadanya, bahwa ia menagih hutang kepada Ibnu Abu Hadrad pada masa Rasulullah shallallahu 'alaihi wasallam dalam masjid hingga suara keduanya meninggi dan didengar oleh Rasulullah shallallahu 'alaihi wasallam yang sedang berada di rumah. Maka Rasulullah shallallahu 'alaihi wasallam kemudian keluar menemui keduanya sambil menyingkap kain gorden kamar. Beliau memanggil Ka'b bin Malik: "Wahai Ka'b!" Ka'b bin Malik menjawab, "Wahai Rasulullah, aku penuhi panggilanmu." Beliau memberi isyarat dengan tangannya agar ia membebaskan setengah dari hutangnya. Ka'b bin Malik berkata, "Wahai Rasulullah, aku sudah lakukan." Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Sekarang bayarlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>471</td></tr><tr><td>Arabic No</td><td>471</td></tr><tr><td>Reference</td><td>Book 8 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Шихаба (аз-Зухри): «Рассказал мне ‘Абдуллах ибн Ка‘б ибн Малик о том, что Ка‘б ибн Малик, да будет доволен им Аллах, сообщил ему о том, что (однажды) при жизни Посланника Аллаха ﷺ находясь в мечети, он принялся требовать у Ибн Абу Хадрада вернуть ему то, что тот был ему должен, и голоса их стали звучать так громко, что их услышал Посланник Аллаха ﷺ который находился у себя дома и вышел к ним (столь поспешно), что (даже) не задёрнул занавеску своей комнаты, и он стал звать: “О Ка‘б ибн Малик! О Ка‘б!” (Ка‘б) сказал: “Я перед тобой, о Посланник Аллаха!” (Тогда) он сделал рукой знак, означавший: “Уменьши свой долг наполовину”. (Ка‘б) сказал: “Я уже сделал это, о Посланник Аллаха!” — (после чего) Посланник Аллаха ﷺ сказал (Ибн Абу Хадраду): “А ты поднимись и уплати ему (остальное)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>471</td></tr><tr><td>Arabic No</td><td>471</td></tr><tr><td>Reference</td><td>Book 8 Hadith 119</td></tr></tbody></table></div>
 

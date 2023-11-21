@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yazid bin Ubaid:Salama said, "I gave the Pledge of allegiance (Al-Ridwa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Makkiy bin Ibrahim] telah bercerita kepada kami [Yazid bin Abi 'Ubaid] dari [Salamah radliallahu 'anhu] berkata; "Aku berbai'at kepada Nabi shallallahu 'alaihi wasallam (pada peristiwa Hudaibiyah) kemudian aku berpindah kepada naungan pohon. Ketika orang-orang sudah agak longgar, Beliau berkata: "Wahai Ibnu Al Akwa' (Salamah), tidakkah kamu berbai'at?" Aku berkata: "Aku sudah berbai'at, wahai Rasulullah". Beliau berkata: "Bai'at lagi". Maka kemudian aku berbai'at untuk kali kedua. Lalu aku (Yazid) bertanya kepadanya: "Wahai Abu Muslim, untuk apakah kalian berbai'at pada saat itu?" Dia berkata: "Untuk mati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2960</td></tr><tr><td>Arabic No</td><td>2960</td></tr><tr><td>Reference</td><td>Book 56 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма (ибн аль-Аква‘), да будет доволен им Аллах, сказал: «Я принёс Пророку ﷺ клятву, (угодную Аллаху,) а потом укрылся в тени дерева, когда же количество людей(, находившихся вокруг него,) уменьшилось, (Пророк ﷺ) спросил: “О Ибн аль-Аква‘, а разве ты не поклянёшься (мне)?” Я сказал: “Я ведь уже поклялся, о Посланник Аллаха!” Он сказал: “(Поклянись) ещё!” и я снова поклялся (ему)».Люди спросили (Саляму): «О Абу Муслим, в чём же вы клялись ему в тот день?» Он ответил: « (В том, что будем стоять) насмерть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2960</td></tr><tr><td>Arabic No</td><td>2960</td></tr><tr><td>Reference</td><td>Book 56 Hadith 171</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu Al Ahwash] dari [Al Asy'ats yaitu Ibnu Sulaim] dari [ayahnya] dari [Masruq] dari [Aisyah radliallahu 'anha] dia berkata; aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam perihal menolehnya seseorang dalam shalatnya, beliau menjawab: "Itu merupakan suatu bentuk perampasaan yang di kerjakan syetan terhadap shalat seorang hamba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (751)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>910</td></tr><tr><td>Arabic No</td><td>910</td></tr><tr><td>Reference</td><td>Book 2 Hadith 521</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Я спросила Посланника Аллаха ﷺ о человеке, который смотрит по сторонам во время молитвы, и он сказал: “Это то, что крадёт шайтан из молитвы раба Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (751)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>910</td></tr><tr><td>Arabic No</td><td>910</td></tr><tr><td>Reference</td><td>Book 2 Hadith 521</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Anas (que Dieu l'agrée), Barîra offrit comme cadeau au Prophète (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, Telah menceritakan kepada kami [Waki'] -dalam jalur lain- Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata, Telah menceritakan kepada kami [Muhammad bin Ja'far] keduanya dari [Syu'bah] dari [Qatadah] dari [Anas] -dalam jalur lain- Dan Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] -lafazh juga miliknya- Telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] ia mendengar [Anas bin Malik] ia berkata; Barirah memberi hadiah kepada Nabi shallallahu 'alaihi wasallam berupa daging yang telah disedekahkan kepadanya, maka beliau pun bersabda: "Daging itu baginya adalah sedekah, tetapi bagi kita adalah hadiah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2485</td></tr><tr><td>Arabic No</td><td>1074.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 222</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) Барира подарила Пророку ﷺ мясо, которое она получила в качестве милостыни, (на что) он сказал: “Для (Бариры) оно является милостыней, а для нас подарком”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2485</td></tr><tr><td>Arabic No</td><td>1074.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 222</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd b. Abu Waqqas reported:The Messenger of Allah (ﷺ) said: If anyone says on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [al-Laits] dari [al-Hukaim bin Abdullah bin Qais al-Qurasyi] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [al-Hukaim bin Abdullah] dari [Amir bin Sa'ad bin Abi Waqqash] dari [Sa'ad bin Abi Waqqash] dari Rasulullah shallallahu 'alaihi wasallam bahwa beliau bersabda, "Barangsiapa membaca ketika mendengar muadzdzin, 'Saya bersaksi bahwa tidak ada tuhan (yang berhak disembah) selain Allah semata, tidak ada sekutu bagiNya, dan bahwa Muhammad adalah hamba dan RasulNya, saya ridha Allah sebagai Rabb, dan Muhammad sebagai rasul, serta Islam sebagai agama, ' niscaya dosanya akan diampuni." Ibnu Rumh berkata dalam riwayatnya, "Barangsiapa membaca ketika mendengar muadzdzin, 'Dan saya bersaksi, ' sedangkan Qutaibah tidak menyebutkan ungkapan, 'Saya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>851</td></tr><tr><td>Arabic No</td><td>386</td></tr><tr><td>Reference</td><td>Book 4 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘да ибн Абу Ваккаса, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Простится грех его тому, кто, услышав (голос) муаззина, скажет: “Свидетельствую, что нет бога, достойного поклонения, кроме одного лишь Аллаха, у Которого нет сотоварища, и что Мухаммад Его раб и Его посланник; доволен я Аллахом как Господом, Мухаммадом как посланником и исламом как религией /Ашхаду алля иляха илля-Ллаху вахда-ху ля шарикя ля-ху ва анна Мухаммадан ‘абду-ху ва расулю-ху; радыйту би-Лляхи Раббан, ва би-Мухаммадин расулян, ва би-ль-ислами динан/”».В своей версии Ибн Румх сказал: «…тому, кто, услышав (голос) муаззина, скажет: “И я свидетельствую”».А Кутайба не упомянул его слова «И я»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>851</td></tr><tr><td>Arabic No</td><td>386</td></tr><tr><td>Reference</td><td>Book 4 Hadith 15</td></tr></tbody></table></div>
 

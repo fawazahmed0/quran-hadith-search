@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (p.b.u.h) recited (the Qur'an) aloud during the ecli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah mengabarkan kepada kami [Ibnu Namir], dia mendengar [Ibnu Syihab] dari ['Urwah] dari ['Aisyah radliallahu 'anha]: "Nabi shallallahu 'alaihi wasallam mengeraskan bacaan dalam shalat gerhana. Jika selesai dari bacaan Beliau membaca takbir kemudian ruku'. Jika mengangkat kepalanya dari ruku' Beliau membaca "sami'allahu liman hamidah Rabbanaa lakal hamd". Kemudian Beliau mengulang bacaannya dalam shalat gerhana dengan empat kali ruku' dalam dua raka'at dan empat kali sujud". Berkata, [Al Awza'iy] dan selainnya aku mendengar [Az Zuhriy] dari ['Urwah] dari ['Aisyah radliallahu 'anha] bahwa pernah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam, maka Beliau mengutus seorang mu'adzin untuk menyerukan "Ashalaatul Jaami'ah". Maka kemudian Beliau maju dan shalat dengan empat kali ruku' dalam dua raka'at dan empat kali sujud". Dan telah mengabarkan kepada saya ['Abdurrahman bin Namir] bahwasanya dia mendengar [Ibnu Syihab] seperti ini. Berkata, [Az Zuhriy]; Aku bertanya: "Apa alasan saudaramu 'Abdullah bin Az Zubair yang tidak melaksanakan shalat (gerhana) kecuali dengan dua raka'at seperti shalat Shubuh ketika shalat di Madinah?" Dia menjawab: "Benar begitu adanya dan itu adalah menyalahi sunnah". Riwayat ini juga diikuti oleh [Sufyan bin Husain], [Sulaiman bin Katsir] dari [Az Zuhri] dalam (shalat) jahar (shalat yang bacaan alfatihah dan surat sesudahnya dibaca terang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1066</td></tr><tr><td>Arabic No</td><td>1066</td></tr><tr><td>Reference</td><td>Book 16 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что (когда) при жизни Посланника Аллаха ﷺ произошло солнечное затмение, он отправил глашатая, который провозгласил: «Общая молитва!» Пророк ﷺ вышел вперед и совершил четыре поясных поклона в двух рак‘атах, и четыре земных поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1066</td></tr><tr><td>Arabic No</td><td>1066</td></tr><tr><td>Reference</td><td>Book 16 Hadith 24</td></tr></tbody></table></div>
 

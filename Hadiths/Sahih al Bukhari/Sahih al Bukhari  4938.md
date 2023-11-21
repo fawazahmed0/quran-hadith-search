@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "On the Day when all mankin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] Telah menceritakan kepada kami [Ma'n] ia berkata; Telah menceritakan kepadaku [Malik] dari [Nafi'] dari [Abdulah bin Umar radliallahu 'anhuma] bahwasanya; Nabi shallallahu 'alaihi wasallam bersabda: "Pada hari ketika seluruh manusia bangkit kepada Rabb semesta alam, salah seorang dari mereka tenggelam dengan keringatnya sendiri bahkan genangan keringatnya mencapai pertengahan kedua telinganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4938</td></tr><tr><td>Arabic No</td><td>4938</td></tr><tr><td>Reference</td><td>Book 65 Hadith 459</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что о словах Всевышнего “(того) Дня, когда предстанут люди пред Господом миров” Посланник Аллаха ﷺ сказал: «И некоторые из них погрузятся в собственный пот до середины своих ушей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4938</td></tr><tr><td>Arabic No</td><td>4938</td></tr><tr><td>Reference</td><td>Book 65 Hadith 459</td></tr></tbody></table></div>
 

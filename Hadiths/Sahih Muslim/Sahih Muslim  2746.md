@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada reported that a person came to the Messenger of Allah (ﷺ) and said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Qutaibah bin Sa'id] semuanya dari [Hammad] - [Yahya] berkata- telah mengabarkan kepada kami [Hammad bin Zaid] dari [Ghailan] dari [Abdullah bin Ma'bad Az Zimani] dari [Abu Qatadah] bahwa seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan bertanya, "Bagaimanakah Anda berpuasa?" Mendengar pertanyaan itu, Rasulullah shallallahu 'alaihi wasallam marah. Dan ketika Umar menyaksikan Rasulullah shallallahu 'alaihi wasallam marah, ia berkata, "Kami rela Allah sebagai Tuhan, Islam sebagai agama dan Muhammad sebagai Rasul. Kami berlindung kepada Allah, dari murka Allah dan Rasul-Nya." Umar mengulang ucapan tersebut hingga kemarahan Rasulullah shallallahu 'alaihi wasallam reda. Kemudian ia bertanya, "Wahai Rasulullah, bagaimana dengan orang yang berpuasa sepanjang tahun?" Beliau menjawab: "Dia tidak berpuasa dan tidak juga berbuka." -atau beliau katakan dengan redaksi 'Selamanya ia tak dianggap berpuasa dan tidak pula dianggap berbuka-- Umar bertanya lagi, "Bagaimana dengan orang yang berpuasa sehari dan berbuka sehari?" beliau menjawab: "Itu adalah puasa Dawud 'Alaihis Salam." Umar bertanya lagi, "Bagaimana dengan orang yang berpuasa sehari dan berbuka dua hari?" beliau menjawab: "Aku senang, jika diberi kekuatan untuk itu." kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Puasa tiga hari setiap bulan, puasa dari Ramadlan ke Ramadlan sama dengan puasa setahun penuh. Sedangkan puasa pada hari Arafah, aku memohon pula kepada Allah, agar puasa itu bisa menghapus dosa setahun setahun penuh sebelumnya dan setahun sesudahnya. Adapun puasa pada hari 'Asyura', aku memohon kepada Allah agar puasa tersebut bisa menghapus dosa setahun sebelumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2746</td></tr><tr><td>Arabic No</td><td>1162.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 252</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2746</td></tr><tr><td>Arabic No</td><td>1162.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 252</td></tr></tbody></table></div>
 

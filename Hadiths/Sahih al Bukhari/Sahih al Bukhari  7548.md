@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abdur-Rahman:that Abu Sa'id Al-Khudri said to him, "I se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari ['Abdurrahman bin Abdullah bin Abdurrahman bin Abu Sha'sha'ah] dari [ayahnya] bahwa ia mengabarkan kepadanya, bahwa [Abu Sa'id Al Khudzri] radliyallahu'anhu berkata kepadanya, "Aku lihat kamu hobi menggembala kambing dan alam pedusunan, jika engkau berada di tengah-tengah kambing gembalaanmu, lalu engkau mengumandangkan adzan (shalat), maka keraskanlah suaramu. Sebab tidaklah jin, manusia, atau sesuatu yang mendengar suara mu'adzin kecuali mereka akan menjadi saksi baginya pada hari kiamat." Abu Sa'id berkata, "Aku mendengarnya dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7548</td></tr><tr><td>Arabic No</td><td>7548</td></tr><tr><td>Reference</td><td>Book 97 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Абдуррахмана, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал ему: «Поистине, я вижу, что ты любишь овец и пустыню. Когда ты будешь со своими овцами (или: в своей пустыне) и станешь произносить призыв к намазу, повышай свой голос при его возвещении, ибо, поистине, кто бы ни услышал (голос) муаззина, будь то джинн, человек или любое иное (создание), они обязательно будут свидетельствовать об этом в День Воскрешения». Абу Са‘ид сказал: «Я слышал это от Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7548</td></tr><tr><td>Arabic No</td><td>7548</td></tr><tr><td>Reference</td><td>Book 97 Hadith 173</td></tr></tbody></table></div>
 

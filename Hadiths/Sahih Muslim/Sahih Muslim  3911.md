@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah (Allah be pleased with them) reported Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Ahmad bin Abi Khalf] keduanya dari [Zakariyya' bin Adi] telah mengabarkan kepada kami ['Ubaidullah] dari [Zaid bin Abi Unaisah] telah menceritakan kepada kami [Abu Al Walid Al Makki] saat itu dia duduk di samping ['Atha' bin Abi Rabah] dari [Jabir bin Abdullah] bahwa Rasulullah Shallallu 'alaihi wa sallam melarang jual beli Muhaqalah, Muzabanah dan Mukhabarah, dan menjual buah kurma sampai terlihat matang, dan matangnya adalah jika telah memerah atau menguning atau sudah layak untuk dimakan. Muhaqalah ialah menjual hasil tanaman yang dibayar dengan makanan pokok dengan takaran yang jelas, muzabanah ialah menjual kurma basah yang masih di pohon dengan beberapa wasaq kurma kering, mukhabarah ialah membagi hasil ladang menjadi sepertiga, seperempat atau yang serupa dengan itu (sementara benihnya dari yang mempunyai ladang). Zaid berkata; Saya bertanya kepada 'Atha' bin Abi Rabah; "Apakah kamu mendengarnya Jabir bin Abdullah menyebutkan ini dari Rasulullah Shallallu 'alaihi wa sallam?" Dia menjawab; "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3911</td></tr><tr><td>Arabic No</td><td>1536.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3911</td></tr><tr><td>Arabic No</td><td>1536.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 110</td></tr></tbody></table></div>
 

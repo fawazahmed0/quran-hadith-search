@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Fatimah daughter of AbuHubaysh came to the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Waki'] dari [Al-A'masy] dari [Habib bin Abi Tsabit] dari [Urwah] dari [Aisyah] dia berkata; Fathimah binti Abu Hubaisy datang menghadap Nabi shallallahu 'alaihi wasallam, kemudian dia mengutarakan permasalahannya, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Kemudian mandilah, lalu berwudhulah untuk setiap shalat dan kerjakanlah shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>298</td></tr><tr><td>Arabic No</td><td>298</td></tr><tr><td>Reference</td><td>Book 1 Hadith 298</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) Фатима бинт Абу Хубайш пришла к Пророку ﷺ», и он упомянул рассказ о ней, (в котором сообщается, что Пророк ﷺ), сказал: «Затем искупайся, после чего совершай омовение для каждой молитвы и молись»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>298</td></tr><tr><td>Arabic No</td><td>298</td></tr><tr><td>Reference</td><td>Book 1 Hadith 298</td></tr></tbody></table></div>
 

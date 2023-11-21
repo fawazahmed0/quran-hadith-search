@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The same hadith is transmitted from Zuhri with the same chain of transmission. B
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam jalur lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [al-Laits] dari [Ibnu Syihab] dari [Ibnu al-Musayyab] bahwa dia mendengar [Abu Hurairah] mengatakan, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada di tangan-Nya! Sungguh, kedatangan Isa bin Mariam kepada kalian untuk menjadi hakim secara adil akan segera tiba. Dia akan mematahkan salib, membunuh babi serta menghapuskan jizyah (dari orang kafir). Harta akan melimpah ruah, sehingga tidak ada seorang pun yang ingin menerimanya." Dan telah menceritakannya kepada kami [Abdul A'la bin Hammad] dan [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] mereka berkata; telah menceritakan kepada kami [Sufyan bin Uyainah]. (dalam riwayat lain disebutkan) Dan telah menceritakannya kepadaku tentangnya [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahab] dia berkata, telah menceritakan kepadaku [Yunus]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Hasan al-Hulwani] dan ['Abd bin Humaid] dari [Ya'qub bin Ibrahim bin Sa'id] telah menceritakan kepada kami [ayahku] dari [Shalih] seluruhnya dari [Az-Zuhri] dengan isnad ini. Dan dalam riwayat Ibnu Uyainah disebutkan, "Sebagai imam yang adil dan hakim yang adil." Sedangkan dalam riwayat Yunus, "Sebagai hakim yang adil, " dan tidak menyebutkan, "imam yang adil." Sedangkan dalam riwayat Shalih, "Hakim yang adil." Sebagaimana dikatakan al-Laits, dan dalam haditsnya terdapat tambahan, "hingga satu sujud lebih baik daripada dunia dan seisinya." Kemudian Abu Hurairah berkata, "Bacalah jika kalian berkehendak: '(Tidak ada seorang pun dari Ahli Kitab, kecuali akan beriman kepadanya (Isa) sebelum kematiannya) ' (Qs. an-Nisaa':)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>390</td></tr><tr><td>Arabic No</td><td>155.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 295</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В версии Ибн ‘Уейны он сказал: «…Справедливый предводитель и судья». В версии Юнуса он сказал: «…Справедливый судья», и не упомянул «справедливого предводителя». В версии Салиха он сказал: «Беспристрастный судья». А в версии, которую передал аль-Лейс, он также добавил: «…И один земной поклон будет лучше этой жизни и всего, что в ней есть». Затем Абу Хурайра сказал: «Если хотите читайте: “Среди людей Писания не останется такого, который не уверует в него до его смерти, а в День воскресения он будет свидетелем против них” (сура “ан-Ниса”, аят 159)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>390</td></tr><tr><td>Arabic No</td><td>155.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 295</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbuUbaydah reported, on the authority of his father Abdullah (ibn Mas'ud), the M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] telah menceritakan kepada kami [Muhammad bin Salamah] dari [Khushaif] dari [Abu 'Ubaidah bin Abdullah] dari [ayahnya] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Apabila kamu sedang shalat, kemudian ragu apakah tiga ataukah empat raka'at (yang telah di kerjakan), sedangkan berat prasangka kamu telah mengerjakan empat raka'at, maka tasyahudlah kamu kemudian sujud dua kali ketika masih duduk (tasyahud) sebelum salam, kemudian tasyahud lagi lalu salam." Abu Daud berkata; "Telah di riwayatkan pula oleh [Abdul Wahid] dari [Khushaif] namun dia tidak merafa'kan, hadits Abdul Wahid juga di sepakati oleh [Sufyan], [Syarik] dan [Isra'il] dan mereka berbeda mengenai redaksi hadits yaitu dalam matannya, dan mereka tidak menyandarkan kepada seorang Perawi pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1028</td></tr><tr><td>Arabic No</td><td>1028</td></tr><tr><td>Reference</td><td>Book 2 Hadith 639</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу ‘Убайда ибн ‘Абдуллах передаёт от своего отца, что Посланник Аллаха ﷺ сказал: «Если ты совершаешь молитву и у тебя возникли сомнения относительно того, три или четыре рак‘ата ты совершил, однако при этом ты почти уверен, что совершил четыре рак‘ата, ты должен прочитать ташаххуд, а потом сидя совершить два земных поклона перед таслимом, затем снова прочитать ташаххуд, а потом произнести слова таслима»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1028</td></tr><tr><td>Arabic No</td><td>1028</td></tr><tr><td>Reference</td><td>Book 2 Hadith 639</td></tr></tbody></table></div>
 

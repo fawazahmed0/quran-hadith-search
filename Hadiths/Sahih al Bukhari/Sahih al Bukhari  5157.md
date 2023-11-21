@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "A prophet among the prophets went 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] Telah menceritakan kepada kami [Abdullah bin Mubarak] dari [Ma'mar] dari [Hammam] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ada seorang Nabi berperang, lalu ia berkata pada kaumnya, 'Jangan mengikutiku seorang laki-laki yang telah memiliki kesempatan untuk berhubungan dengan isterinya, yang ia telah ingin mengajaknya berumah tangga namun belum kesampaian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5157</td></tr><tr><td>Arabic No</td><td>5157</td></tr><tr><td>Reference</td><td>Book 67 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Отправляясь в военный поход, один из пророков сказал своим соплеменникам: “Пусть не следует за мной тот, кто женился на женщине и желает войти к ней, но ещё не вошёл”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5157</td></tr><tr><td>Arabic No</td><td>5157</td></tr><tr><td>Reference</td><td>Book 67 Hadith 92</td></tr></tbody></table></div>
 

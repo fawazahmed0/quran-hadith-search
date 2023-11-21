@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid:Someone came to Ibn 'Umar and said, "Here is Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Saif] -Ibnu Sulaiman- berkata, aku mendengar [Mujahid] berkata, " [Ibnu 'Umar] pernah di datangi dan ditanya, "Rasulullah shallallahu 'alaihi wasallam masuk ke dalam Ka'bah. Maka Ibnu 'Umar berkata, "Aku lalu mendatangi Nabi shallallahu 'alaihi wasallam, namun beliau telah keluar, dan aku mendapati Bilal sedang berdiri di antara dua pintu. Aku lalu bertanya kepada Bilal, "Apakah Nabi shallallahu 'alaihi wasallam shalat di dalam Ka'bah? [Bilal] menjawab, "Ya, dua rakaat antara dua sisi dua tiang sebelah kiri dari arah kamu masuk, lalu beliau keluar dan shalat menghadap Ka'bah dua rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>397</td></tr><tr><td>Arabic No</td><td>397</td></tr><tr><td>Reference</td><td>Book 8 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Не переведен
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>397</td></tr><tr><td>Arabic No</td><td>397</td></tr><tr><td>Reference</td><td>Book 8 Hadith 48</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Haraira (Allah be pleased with him) reported Allah's Messenger (way peace be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Abdul Hamid bin Ja'far] bahwa [Imran bin Abu Anas] telah menceritakan kepadanya bahwa [Salman Al Agharr] telah menceritakan kepadanya, bahwa ia mendengar [Abu Hurairah] mengabarkan bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tempat yang layak dijadikan tujuan safar hanyalah tiga masjid. Yaitu; Masjid Ka'bah, Masjidku (masjid Nabawi) dan Masjid Iliya (masjidil Aqsha)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3386</td></tr><tr><td>Arabic No</td><td>1397.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 590</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3386</td></tr><tr><td>Arabic No</td><td>1397.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 590</td></tr></tbody></table></div>
 

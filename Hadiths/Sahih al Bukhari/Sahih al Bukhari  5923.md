@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I used to perfume Allah's Messenger (ﷺ) with the best scent av
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Isra'il] dari [Abu Ishaq] dari [Abdurrahman bin Al Aswad] dari [Ayahnya] dari [Aisyah] dia berkata; "Saya pernah memberi minyak wangi kepada Nabi shallallahu 'alaihi wasallam dengan minyak wangi yang terbaik yang saya dapatkan sehingga saya dapati kilauan minyak wangi tersebut di kepala beliau dan jenggot beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5923</td></tr><tr><td>Arabic No</td><td>5923</td></tr><tr><td>Reference</td><td>Book 77 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я умащала Пророка ﷺ лучшими благовониями, какие только он мог найти, пока не видела, что от этих благовоний его волосы и борода начинали блестеть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5923</td></tr><tr><td>Arabic No</td><td>5923</td></tr><tr><td>Reference</td><td>Book 77 Hadith 138</td></tr></tbody></table></div>
 

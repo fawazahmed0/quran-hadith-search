@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Umama reported Allah's Messenger (ﷺ) as saying:O son of Adam, it is better
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashru bin Ali Al Jahdlami] dan [Zuhair bin Harb] dan [Abdu bin Humaid] mereka berkata, Telah menceritakan kepada kami [Umar bin Yunus] telah menceritakan kepada kami [Ikrimah bin Ammar] telah menceritakan kepada kami [Syaddad] ia berkata, saya mendengar [Abu Umamah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai anak Adam! Sesungguhnya jika kamu mensedekahkan kelebihan hartamu, itu lebih baik bagimu daripada kamu simpan, karena hal itu akan lebih berbahaya bagimu. Dan kamu tidak akan dicela jika menyimpan sekedar untuk keperluan. Dahulukanlah memberi nafkah kepada orang yang menjadi tanggunganmu. Tangan yang di atas adalah lebih baik, daripada tangan yang di bawah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2388</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 12 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Умамы, что Посланник Аллаха ﷺ сказал: «О сын Адама! Если ты будешь расходовать излишек (своего имущества), это будет лучше для тебя. А если ты станешь удерживать его (возле себя), это (обернётся) для тебя злом, однако ты не заслуживаешь упрёка за пропитание, необходимое для (поддержания) жизни. Начинай (с расходования) на тех, кого ты обязан содержать, и (знай, что) высшая рука лучше низшей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2388</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 12 Hadith 125</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Haritha bin Wahb: Al-Khuzai: The Prophet (ﷺ) said, "Shall I inform yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] telah menceritakan kepada kami [Ma'bad bin Khalid Al Qaisi] dari [Haritsah bin Wahb Al Khuza'i] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Maukah kalian aku beritahu penduduk surga? Yaitu setiap orang yang lemah dan diperlemah. Sekiranya ia bersumpah atas nama Allah pasti Allah akan mengabulkannya, Maukah kalian aku beritahu penghuni neraka? Yaitu Setiap orang yang keras (hati), congkak dan sombong." [Muhammad bin Isa] berkata; telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Humaid At Thawil] telah menceritakan kepada kami [Anas bin Malik] dia berkata; "Sekiranya ada seorang budak dari budak penduduk Madinah menggandeng tangan Rasulullah shallallahu 'alaihi wasallam, sungguh beliau akan beranjak bersamanya kemana budak itu pergi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6071</td></tr><tr><td>Arabic No</td><td>6071</td></tr><tr><td>Reference</td><td>Book 78 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хариса ибн Вахб аль-Хуза’и сказал: «(Однажды) Пророк ﷺ сказал (людям): “Не сообщить ли вам об обитателях Рая?! (Это —) каждый слабый и притесняемый (людьми), (однако,) когда он клянётся Аллахом, (Аллах) обязательно осуществляет его клятву. Не сообщить ли вам об обитателях Огня?! (Это —) каждый грубый, жадный и высокомерный”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6071</td></tr><tr><td>Arabic No</td><td>6071</td></tr><tr><td>Reference</td><td>Book 78 Hadith 101</td></tr></tbody></table></div>
 

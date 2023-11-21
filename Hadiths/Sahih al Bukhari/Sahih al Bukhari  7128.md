@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said. "While I was sleeping
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Salim] dari ['Abdullah bin Umar], bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku tidur, aku bermimpi thawaf di ka'bah, tak tahunya ada seseorang yang rambutnya lurus, kepalanya meneteskan atau mengalirkan air. Maka saya bertanya; 'siapakah ini? ' Mereka mengatakan; 'Ini Isa bin maryam'. Kemudian aku menoleh, tak tahunya ada seseorang yang berbadan besar, warnanya kemerah-merahan, rambutnya keriting, matanya buta sebelah kanan, seolah-olah matanya anggur yang menjorok. Mereka menjelaskan; 'Sedang ini adalah dajjal, manusia yang paling mirip dengannya adalah Ibnu Qaththan, laki-laki dari bani Khuza'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7128</td></tr><tr><td>Arabic No</td><td>7128</td></tr><tr><td>Reference</td><td>Book 92 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал: «Однажды я увидел во сне, что обхожу Каабу, как вдруг передо мной показался смуглый человек с прямыми волосами, с головы же его капала вода. Я спросил: “Кто это?“ (Люди) сказали: “Сын Марьям“. Затем я повернулся, как вдруг увидел дородного, румяного человека с кудрявыми волосами, кривой на один глаз. Глаз его был похож на выпуклую виноградину. (Люди) сказали: “Это Даджаль“. Больше всего из людей походил на него (‘Абд-аль-‘Узза) ибн Катан». (Ибн Катан был) человеком из племени хуза‘а
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7128</td></tr><tr><td>Arabic No</td><td>7128</td></tr><tr><td>Reference</td><td>Book 92 Hadith 75</td></tr></tbody></table></div>
 

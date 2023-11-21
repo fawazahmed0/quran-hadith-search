@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated through another chain of transmitters
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ubaidullah bin umar bin Maisarah Al Qawariri] telah menceritakan kepada kami [Khalid bin Harits] telah menceritakan kepada kami [Hisyam] dari [Yahya bin Abi Katsir] telah menceritakan kepada kami [Abu Salamah] telah menceritakan kepada kami [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah menikahkan seorang janda sebelum meminta persetujuannya, dan janganlah menikahkan anak gadis sebelum meminta izin darinya." Mereka bertanya; "Wahai Rasulullah, bagaimana mengetahui izinnya?" Beliau menjawab: "Dia diam." Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah menceritakan kepada kami [Hajjaj bin Abi Utsman]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Ibrahim bin Musa] telah mengabarkan kepada kami [Isa yaitu Ibnu Yunus] dari [Al Auza'i]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Husain bin Muhammad] telah menceritakan kepada kami [Syaiban]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Amru An Naqid] dan [Muhammad bin Rafi'] keduanya berkata; Telah menceritakan kepada kami [Abdur Razzaq] dari [Ma'mar] Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Yahya bin Hasan] telah menceritakan kepada kami [Mu'awiyah] semuanya dari [Yahya bin Abi Katsir] seperti makna hadits Hisyam beserta isnadnya. Lafazh hadits ini juga sesuai dengan hadits Hisyam, Syaiban dan Mu'awiyah bin Salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3474</td></tr><tr><td>Arabic No</td><td>1419.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3474</td></tr><tr><td>Arabic No</td><td>1419.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 76</td></tr></tbody></table></div>
 

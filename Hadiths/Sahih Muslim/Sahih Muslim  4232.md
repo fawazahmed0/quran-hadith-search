@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sa'îd Ibn Jubayr, Ibn 'Abbâs dit : "Le jeudi, ah! ce qu'est le jeudi!
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Qutaibah bin Sa'id] dan [Abu Bakar bin Abu Syaibah] dan ['Amru An Naqid] dan ini lafadz Sa'id, mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Sulaiman Al Ahwal] dari [Sa'id bin Jubair] dia berkata, " [Ibnu Abbas] berkata, "Hari kamis, apakah hari kamis itu?! Kemudian dia menangis sampai air matanya membasahi batu kerikil, lalu saya bertanya kepadanya, "Wahai Ibnu Abbas, memangnya ada apa dengan hari kamis?" dia menjawab, "Pada hari kamis, sakit yang diderita Rasulullah shallallahu 'alaihi wasallam semakin parah, kemudian beliau bersabda: "Kemarilah, saya akan menuliskan untukmu suatu catatan yang membuatmu tidak akan tersesat sepeninggalku nanti." Lalu para sahabat saling berbantahan, padahal tidak pantas dan tidak layak hal itu terjadi di hadapan beliau." Kemudian mereka bertanya, "Ada apa dengan beliau? Tanyakanlah langsung kepada beliau!" Lalu Rasulullah shallallahu 'alaihi wasallam menjawab: 'Biarkanlah saya, apa yang saya alami sekarang ini lebih baik. Sesungguhnya saya mewasiatkan kepada kalian tiga perkara; usirlah orang-orang musyrik dari jazirah Arab, berikanlah kepada para utusan (delegasi) sesuatu yang sama dengan apa yang pernah saya berikan kepada mereka (yaitu menghormati dan melayaninya).' Setelah itu beliau diam, tidak menyebutkan perkara yang ketiga, atau menyebutkannya namun saya lupa." Abu Ishaq Ibrahim berkata; telah menceritakan kepada kami Al Hasan bin Bisyr dia berkata; telah menceritakan kepada kami Sufyan dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>1637.01</td></tr><tr><td>Reference</td><td>Book 25 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают, что Са‘ид ибн Джубайр сказал: (Однажды) Ибн ‘Аббас, да будет доволен Аллах ими обоими, воскликнул: «Четверг! Что за день четверг!» а потом заплакал (так сильно), что оросил слёзами мелкие камешки (на земле). Я спросил: «О Ибн ‘Аббас, что это за четверг?» Он сказал: «Когда (состояние) Посланника Аллаха ﷺ (ухудшилось), он сказал: “Принесите мне (при­надлежности для) письма, и я напишу для вас то, благодаря чему вы не собьётесь с правильного пути после моей (смерти)”. После этого они принялись спорить друг с другом, чего в присутствии Пророка ﷺ (делать) не подобало. (Люди стали) говорить: “Что с ним? (Может быть), он (бредит)? Спросите его”. (Тогда Пророк ﷺ) сказал: “Оставьте меня, ибо со мной всё в порядке! Я поручаю вам три (вещи): изгоните многобож­ников с Аравийского полуострова и оказывайте (членам каждой) деле­гации такой же приём, какой оказывал им я”».(Са‘ид ибн Джубайр) сказал: «И он умолчал о третьем (наставле­нии Пророка ﷺ) (или: упомянул о нём, но я забыл его)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>1637.01</td></tr><tr><td>Reference</td><td>Book 25 Hadith 29</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:That he heard the Prophet (ﷺ) on the day (of the battle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah Al Qo'nabiy] telah bercerita kepada kami ['Abdul 'Aziz bin Abi Hazim] dari [bapaknya] dari [Sahal bin Sa'ad radliallahu 'anhu] dia mendengar Nabi shallallahu 'alaihi wasallam bersabda pada saat perang Khaibar: "Sungguh bendera perang ini akan aku berikan kepada seseorang yang Allah akan memenangkan peperangan ini lewat tangannya". Maka orang-orang berdiri sambil berharap siapa di antara mereka yang akan diberikan. Keesokan harinya setiap orang dari mereka berharap diberikan kepercayaan itu. Kemudian Beliau berkata: "Mana 'Ali?" Dijawab: "Dia sedang sakit kedua matanya". Maka Beliau memerintahkan agar memanggilnya. (Setelah 'Ali datang) Beliau meludahi kedua matanya hingga sembuh seakan-akan belum pernah terkena penyakit sedikitpun. Lalu Beliau bersabda: "Kita perangi mereka hingga mereka menjadi seperti kita (Muslim) ". Beliau melanjutkan: "Melangkahlah ke depan hingga kamu memasuki tempat tinggal mereka lalu serulah mereka ke dalam Islam dan beritahu kepada mereka tentang apa yang diwajibkan atas mereka. Demi Allah, bila ada satu orang saja yang mendapat petunjuk melalui dirimu maka itu lebih baik bagimu dari pada unta-unta merah (yang paling bagus)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2942</td></tr><tr><td>Arabic No</td><td>2942</td></tr><tr><td>Reference</td><td>Book 56 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля ибн Са‘да, да будет доволен им Аллах, что в день Хайбара он слышал, как Пророк ﷺ сказал: «Я непременно вручу это знамя тому человеку, через которого Аллах дарует (нам) победу». (Сахль, да будет доволен им Аллах, сказал): «(Услышав это, сподвижники Пророка ﷺ) поднялись (со своих мест и разошлись, и каждый) надеялся на то, что (знамя вручат) ему, а наутро они направились (к Пророку ﷺ) и каждый из них хотел, чтобы (знамя) вручили ему, однако он спросил: “Где ‘Али?” Ему сказали, что у него болят глаза, и он велел позвать ‘Али к себе. (Когда он явился, Пророк ﷺ) поплевал ему на глаза, и он сразу же выздоровел, будто с ним ничего и не было, после чего спросил: “Следует ли нам сражаться с ними, пока они не станут такими же, как мы?” Тогда (Пророк ﷺ) сказал: “Не спеши, пока не встретишься с ними, а потом призови их к исламу и сообщи им о том, что является для них обязательным. И клянусь Аллахом, если Аллах через тебя выведет на прямой путь (хотя бы) одного человека, это будет для тебя лучше (обладания) красными верблюдами!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2942</td></tr><tr><td>Arabic No</td><td>2942</td></tr><tr><td>Reference</td><td>Book 56 Hadith 154</td></tr></tbody></table></div>
 

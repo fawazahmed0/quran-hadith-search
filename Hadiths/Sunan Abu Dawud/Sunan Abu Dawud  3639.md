@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr bin Shu'aib on his father's authority said that his grandfather told that th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Abdah] telah menceritakan kepada kami [Al Mughirah bin Abdurrahman] telah menceritakan kepadaku ayahku [Abdurrahman bin Al Harits] dari ['Amru bin Syu'aib] dari [Ayahnya] dari [Kakeknya] bahwa Rasulullah shallallahu 'alaihi wasallam memberi putusan dalampembagian air, bahwa batas genangan air (pada tanaman) adalah setinggi mata kaki. Setelah itu orang yang lahannya di bagian atas memberikannya kepada orang yang lahannya di bawah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3639</td></tr><tr><td>Arabic No</td><td>3639</td></tr><tr><td>Reference</td><td>Book 25 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ своего деда о том, что Посланник Аллаха ﷺ постановил, что поток воды можно удерживать до тех пор, пока уровень воды в нём не дойдёт до щиколоток, после чего живущий выше обязан освободить её, чтобы она текла к живущему ниже
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3639</td></tr><tr><td>Arabic No</td><td>3639</td></tr><tr><td>Reference</td><td>Book 25 Hadith 69</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] berkata, telah menceritakan kepada kami [Yazid bin Ibrahim At Tastutri] dari [Abdullah bin Abu Bulaikah] dari [Al Qasim bin Muhammad bin Muhammad] dari ['Aisyah radliallahu 'anha] ia berkata, "Rasulullah shallallahu 'alaihi wasallam membaca ayat: '(Dia-lah yang menurunkan Al Kitab (Al-Qur'an) kepada kamu. Di antara isinya ada ayat-ayat yang muhkamat..) hingga ayat '(orang-orang yang berakal)." 'Aisyah berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kamu melihat orang-orang yang mengikuti ayat-ayat mutasyabihat dari Al-Qur'an, maka mereka itulah orang-orang yang Allah maksud, maka berhati-hatilah terhadap mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4547) Sahih Muslim (2665)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4598</td></tr><tr><td>Arabic No</td><td>4598</td></tr><tr><td>Reference</td><td>Book 42 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, что Посланник Аллаха ﷺ прочитал следующий аят: «Он Тот, Кто ниспослал тебе Писание, в котором есть ясно изложенные аяты /мухкам/, составляющие мать (основу) Писания, а также другие, не вполне ясные /муташабих/. Те, чьи сердца уклоняются в сторону, следуют за не вполне ясными аятами, желая посеять смуту и добиться толкования, хотя толкования этого не знает никто, кроме Аллаха. А обладающие основательными знаниями говорят: “Мы уверовали в него. Всё это от нашего Господа”. Но поминают назидание только обладающие разумом». Она сказала: «И Посланник Аллаха ﷺ сказал: “И когда увидите людей, которые следуют не вполне ясному в Коране, знайте, что это и есть те, о которых говорил Аллах. Остерегайтесь же их!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4547) Sahih Muslim (2665)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4598</td></tr><tr><td>Arabic No</td><td>4598</td></tr><tr><td>Reference</td><td>Book 42 Hadith 3</td></tr></tbody></table></div>
 

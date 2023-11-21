@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Musa said “A beduoin came to the Apostle of Allaah(ﷺ) and said “One ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar], telah menceritakan kepada kami [Syu'bah bin Murrah], dari [Amr bin Murrah] dari [Abu Wail] dari [Abu Musa] bahwa seorang badui datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata; sesungguhnya terdapat seorang laki-laki yang berperang agar disebut-sebut, dan berperang agar dipuji dan berperang agar mendapatkan rampasan perang dan berperang agar dilihat kedudukannya. Maka Rasulullah shallallahu 'alaihi wasallam berkata: "Barangsiapa yang berperang agar kalimat Allah menjadi yang paling tinggi maka ia berada di jalan Allah 'azza wajalla." Telah menceritakan kepada kami [Ali bin Muslim], telah menceritakan kepada kami [Abu Daud], dari [Syu'bah] dari ['Amr], ia berkata; saya telah mendengar dari [Abu Wa'il] sebuah hadits yang mengagumkanku. Kemudian ia menyebutkan hadits tersebut secara makna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2810) Sahih Muslim (1904)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2517</td></tr><tr><td>Arabic No</td><td>2517</td></tr><tr><td>Reference</td><td>Book 15 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Мусы, да будет доволен им Аллах, что (однажды) к Пророку ﷺ пришёл какой-то человек и сказал: «(Один) человек сражается ради славы, (другой) ради похвалы, (третий) же сражается ради военной добычи, (четвертый) же напоказ, (так кто из них сражается на пути Аллаха?)» (Посланник Аллаха ﷺ) сказал: «На пути Аллаха (сражается человек,) сражающийся ради того, чтобы превыше всего было слово Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2810) Sahih Muslim (1904)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2517</td></tr><tr><td>Arabic No</td><td>2517</td></tr><tr><td>Reference</td><td>Book 15 Hadith 41</td></tr></tbody></table></div>
 

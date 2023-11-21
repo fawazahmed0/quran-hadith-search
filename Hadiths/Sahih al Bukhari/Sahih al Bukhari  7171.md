@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali bin Husain:Safiya bint (daughter of) Huyai came to the Prophet (in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul 'Aziz bin Abdullah Al Uwaisi] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Ibnu Syihab] dari ['Ali bin Husain], Nabi shallallahu 'alaihi wasallam kedatangan Shafiyyah bin Huyyai, tatkala Shafiyyah pulang, Beliau pulang bersamanya, lantas ada dua laki-laki Anshar melewati beliau, maka beliau panggil dua laki-laki itu dan mengatakan: "Hanyasanya ia Shafiyyah binti Huyyai." Maka kedua laki-laki tadi mengucapkan "SUBHANAALLAH". Nabi mengatakan 'sesungguhnya setan mengalir dalam anak adam dalam aliran darahnya. hadist ini diriwayatkan oleh [Syu'aib], [Ibnu Musafir], [Ibnu 'Atiq], dan [Ishaq bin Yahya] dari [Az Zuhri] dari [Ali maksudnya Ali bin Husain] dari [Shafiyyah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7171</td></tr><tr><td>Arabic No</td><td>7171</td></tr><tr><td>Reference</td><td>Book 93 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али ибн Хусейн передаёт, что однажды к Пророку ﷺ пришла Сафийя бинт Хуяйй, и когда она (поднялась, чтобы) вернуться (к себе домой), Пророк ﷺ отправился вместе с ней, (чтобы проводить её). (В это время) мимо проходили двое из числа ансаров, и (Пророк ﷺ) позвал их и сказал: «Это ведь Сафийя!» Они воскликнули: «Пречист Аллах!» Он сказал: «Поистине, шайтан течёт в человеке с током крови»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7171</td></tr><tr><td>Arabic No</td><td>7171</td></tr><tr><td>Reference</td><td>Book 93 Hadith 35</td></tr></tbody></table></div>
 

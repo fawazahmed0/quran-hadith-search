@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Prophet (ﷺ) used to wear the signet-ring on his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Sulaiman bin Bilal] dari [Syarik bin Abu Namirah] dari [Ibrahim bin Abdullah bin Hunain] dari [Bapaknya] dari [Ali radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam, [Syarik] berkata, "Telah mengabarkan kepadaku [Abu Salamah bin 'Abdurrahman], bahwa Nabi shallallahu 'alaihi wasallam mengenakan cincin pada tangan kanannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4226</td></tr><tr><td>Arabic No</td><td>4226</td></tr><tr><td>Reference</td><td>Book 36 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Али (ибн Абу Талиб), да будет доволен им Аллах, что Пророк ﷺ, носил перстень на правой руке
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4226</td></tr><tr><td>Arabic No</td><td>4226</td></tr><tr><td>Reference</td><td>Book 36 Hadith 13</td></tr></tbody></table></div>
 

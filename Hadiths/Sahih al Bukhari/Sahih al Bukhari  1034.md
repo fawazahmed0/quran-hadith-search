@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Whenever a strong wind blew, anxiety appeared on the face of the P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] berkata, telah mengabarkan kepada kami [Muhammad bin Ja'far] berkata, telah mengabarkan kepadaku [Humaid] bahwa dia mendengar [Anas bin Malik] berkata, "Jika akan terjadi angin yang berhembus kencang, maka hal itu dapat diketahui pada wajah Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1034</td></tr><tr><td>Arabic No</td><td>1034</td></tr><tr><td>Reference</td><td>Book 15 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда начинал дуть сильный ветер, по лицу Пророка ﷺ было заметно(, что он испытывает беспокойство)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1034</td></tr><tr><td>Arabic No</td><td>1034</td></tr><tr><td>Reference</td><td>Book 15 Hadith 29</td></tr></tbody></table></div>
 

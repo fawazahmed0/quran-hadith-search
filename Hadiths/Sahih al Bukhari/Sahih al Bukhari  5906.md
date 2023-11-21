@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) had big hands, and I have never seen anybody lik
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Jarir] dari [Qatadah] dari [Anas] dia berkata; "Nabi shallallahu 'alaihi wasallam adalah seseorang yang berlengan kekar, aku tidak pernah melihat orang yang menyerupainya, sedangkan rambut Nabi shallallahu 'alaihi wasallam ikal, tidak terlalu lurus dan tidak pula keriting
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5906</td></tr><tr><td>Arabic No</td><td>5906</td></tr><tr><td>Reference</td><td>Book 77 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «У Пророка ﷺ были крупные кисти рук, и не видел я после него никого подобного ему. Волосы Пророка ﷺ были волнистыми, не курчавыми и не гладкими»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5906</td></tr><tr><td>Arabic No</td><td>5906</td></tr><tr><td>Reference</td><td>Book 77 Hadith 123</td></tr></tbody></table></div>
 

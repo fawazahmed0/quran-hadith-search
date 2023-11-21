@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Babz reported:This hadith has been narrated by Wuwb on the authority of 'Amr b. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>558</td></tr><tr><td>Arabic No</td><td>235.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса он сказал: «…он трижды прополоснул рот и высморкался». А также: «...затем он протёр голову, проведя руками ото лба до затылка один раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>558</td></tr><tr><td>Arabic No</td><td>235.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
 

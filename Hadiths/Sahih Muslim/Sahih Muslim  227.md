@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (may 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu Numair] dan lafazh tersebut miliknya. Dan telah menceritakan kepada kami [bapakku] dan [Muhammad bin Ubaid] semuanya dari [al-A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada manusia ada dua hal yang menjadikan mereka kafir; mencela nasab dan meratapi mayit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>227</td></tr><tr><td>Arabic No</td><td>67</td></tr><tr><td>Reference</td><td>Book 1 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Два (дела, совершаемые) людьми, (указывают на) их неверие: (обыкновение) порочить происхождение (других) и громкие причитания по умершим /нияха/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>227</td></tr><tr><td>Arabic No</td><td>67</td></tr><tr><td>Reference</td><td>Book 1 Hadith 133</td></tr></tbody></table></div>
 

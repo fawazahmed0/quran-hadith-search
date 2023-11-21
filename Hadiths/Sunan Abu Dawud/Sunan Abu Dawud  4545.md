@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) said: The blood-wit for accident
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abdul Wahid] berkata, telah menceritakan kepada kami [Al Hajjaj] dari [Zaid bin Jubair] dari [Khisyf bin Malik Ath Tha'i] dari [Abdullah bin Mas'ud] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda tentang pembunuhan yang tidak sengaja; dua puluh hiqqah, ditambah dua puluh jadz'ah, ditambah dua puluh anak unta betina makhadh, ditambah dua puluh anak unta betina labun, dan dua puluh anak unta jantan makhadh. ' Ini adalah perkataan Abdullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4545</td></tr><tr><td>Arabic No</td><td>4545</td></tr><tr><td>Reference</td><td>Book 41 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Мас‘уда, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «За неумышленное убийство выплачивается компенсация /дийа/: двадцать трёхлетних верблюдиц, двадцать четырёхлетних, двадцать годовалых и двадцать двухлетних, а также двадцать годовалых самцов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4545</td></tr><tr><td>Arabic No</td><td>4545</td></tr><tr><td>Reference</td><td>Book 41 Hadith 52</td></tr></tbody></table></div>
 

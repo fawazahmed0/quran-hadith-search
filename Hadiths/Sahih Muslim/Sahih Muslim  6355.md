@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:My father fell as a martyr on the Day of Uhud and I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Wahb bin Jarir]; Telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdillah] dia berkata; "Ayahku terbunuh disaat perang Uhud, maka aku menyingkap pakaian yang menutupi wajahnya dan menangis. Para sahabat melarangku untuk menangis, tetapi Rasulullah shallallahu 'alaihi wasallam tidak melarangku. Jabir berkata; "Fatimah binti Amr menangisinya. maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Para malaikat akan terus menaungi dengan sayapnya sampai kalian mengangkatnya, meskipun kalian menangisinya atau tidak menangisinya." Telah menceritakan kepada kami ['Abad bin Humaid]; Telah menceritakan kepada kami [Rauh bin 'Ubadah]; Telah menceritakan kepada kami [Ibnu Juraij]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah menceritakan kepada kami [Ma'mar] keduanya dari [Muhammad bin Al Munkadir] dari [Jabir] dengan Hadits ini. Namun Ibnu Juraij di dalam Haditsnya tidak menyebutkan para malaikat dan orang-orang yang menangisinya. Telah menceritakan kepada kami [Muhammad bin Ahmad bin Abu Khalaf]; Telah menceritakan kepada kami [Zakaria bin 'Adi]; Telah mengabarkan kepada kami ['Ubaidullah bin 'Amru] dan ['Abdul karim] dari [Muhammad bin Al Munkadir] dari [Jabir] dia berkata; Pada waktu perang Uhud, bapakku di bawa dalam keadaan sudah terputus-putus anggota tubuhnya, lalu di letakkan di hadapan Nabi shallallahu 'alaihi wasallam -dan seterusnya dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6355</td></tr><tr><td>Arabic No</td><td>2471.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6355</td></tr><tr><td>Arabic No</td><td>2471.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 185</td></tr></tbody></table></div>
 

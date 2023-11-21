@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Hasan:The sister of Ma'qil bin Yasar was married to a man and then t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Abdul A'la] Telah menceritakan kepada kami [Sa'id] dari [Qatadah] Telah menceritakan kepada kami [Al Hasan] bahwa saudara perempuan Ma'qil bin Yasar berada di bawah seorang laki-laki, lalu laki-laki itu pun menceraikannya dan berpisah dengannya hingga masa iddahnya habis. Kemudian laki-laki itu meminangnya kembali. Maka Ma'qil pun marah dan menolak pinangan itu dan berkata, "Ia menceraikannya padahal ia mampu. Lalu ia mengkhithbahnya kembali." Akhirnya ia menghalangi ruju' antara keduanya. Maka Allah menurunkan ayat: "WA IDZAA THALLAQTUMUN NISAA' FABALAGHNA AJALAHUNNA FALAA TA'DLULUUHUNNA.." (QS. Albaqarah 232), hingga akhir ayat. Lalu Rasulullah shallallahu 'alaihi wasallam pun memanggilnya dan membacakan ayat itu kepadanya. Akhirnya ia pun meninggalkan keangkuhannya dan meneriman ketentuan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5331</td></tr><tr><td>Arabic No</td><td>5331</td></tr><tr><td>Reference</td><td>Book 68 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Хасана, что муж сестры Ма‘кыля ибн Ясара развёл её и оставил до тех пор, пока не закончилась её ‘идда. А потом он пришёл снова свататься к ней, но Ма‘кыль отказал ему, сказав: «Он избавился от неё, когда она была с ним, а теперь сватается». И так он воспрепятствовал этому браку. Тогда Аллах ниспослал (этот аят): «Если вы развелись с вашими женами, и они выждали положенный им срок, то не мешайте им выходить замуж…» (сура «аль-Бакара», аят 232). Посланник Аллаха ﷺ позвал его и прочитал ему этот аят, и он оставил гордыню, и подчинился приказу Аллаха
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5331</td></tr><tr><td>Arabic No</td><td>5331</td></tr><tr><td>Reference</td><td>Book 68 Hadith 76</td></tr></tbody></table></div>
 

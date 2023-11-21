@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:Once, while I was in the company of the Prophet, he saw the mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Abu Syihab] dari [Al A'masy] dari [Zaid bin Wahb] dari [Abu Dzar radliallahu 'anhu] berkata; "Aku duduk-duduk bersama Nabi shallallahu 'alaihi wasallam dan ketika Beliau melihat bukit Uhud, Beliau bersabda: "Aku tidak menyukainya seandainya bukit itu dirubah untukku menjadi emas dalam bentuk dinar lalu berada padaku melebihi tiga hari kecuali satu dinar saja yang aku siapkan untuk membayar hutang". Kemudian Beliau melanjutkan: "Sesungguhnya kebanyakan orang dalam masalah harta, hanya sedikit saja dari mereka (yang selamat) kecuali orang yang berkata tentang harta begini begini." Abu Syihab memberi isyarat dengan tangannya ke arah kanan dan kiri: "Dan sedikit sekali mereka yang selamat". Beliau shallallahu 'alaihi wasallam berkata: "Tetaplah kamu pada tempatmu". Lalu Beliau melangkah tidak terlalu jauh lalu aku mendengar suara. Semula aku hendak mendatangi Beliau namun aku teringat perintah Beliau; "Tetaplah kamu pada tempatmu hingga aku datang". Ketika Beliau sudah datang aku bertanya: "Wahai Rasulullah, apa yang aku dengar tadi atau suara apakah yang aku dengar tadi?" Beliau menjawab: "Apakah kamu mendengar sesuatu". Aku jawab: "Ya". Beliau menjelaskan: "Tadi Jibril 'alaihissalam datang kepadaku seraya berkata: "Siapa saja yang mati dari ummatmu dan dia tidak menyekutukan Allah dengan sesuatu apapun pasti akan masuk surga". Aku bertanya: "Sekalipun dia berbuat begini begini?" Jibril menjawab: "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2388</td></tr><tr><td>Arabic No</td><td>2388</td></tr><tr><td>Reference</td><td>Book 43 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал:\n— (Однажды), когда я находился в обществе Пророка ﷺ, он увидел (гору Ухуд) и сказал: «Не хотел бы я, чтобы (эта гора) превратилась для меня в золото, а через три (дня) остался у меня от (этого золота хотя бы один) динар, кроме того динара, который я приберегу для (уплаты) долга». Потом (Пророк ﷺ) сказал: «Поистине, богатые окажутся бедными (в День воскресения) за исключением тех, кто велит (раздавать свои) богатства так и так, — (и Пророк ﷺ указал рукой направо, налево и перед собой), — (однако) таких будет мало!» А (потом) он сказал (мне): «Оставайся на своём месте», сам же прошёл немного дальше. А (через некоторое время) я услыхал (громкий) звук и решил пойти к (Пророку ﷺ), но потом вспомнил его слова: «Оставайся на своём месте, пока я не приду к тебе!» — (и остался), а когда он вернулся (ко мне), я спросил: «О Посланник Аллаха, (что это) я слышал? (или: Что это за звук, который я слышал?)» Он спросил: «Ты (и в самом деле) слышал (его)?» Я сказал: «Да». (Тогда) он сказал: «(Это был) Джибриль, (который) пришёл ко мне и сказал: “(Любой из членов) общины твоей, который умрёт, ничему не поклоняясь наряду с Аллахом, войдёт в рай”». Я спросил: «Даже если он делал то-то и то-то?!» — (и Пророк ﷺ) сказал: «Да!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2388</td></tr><tr><td>Arabic No</td><td>2388</td></tr><tr><td>Reference</td><td>Book 43 Hadith 4</td></tr></tbody></table></div>
 

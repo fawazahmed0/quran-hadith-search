@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that a woman came to Allah's Apostle (ﷺ) with her child a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Zuhair bin Harb] keduanya berkata; Telah menceritakan kepada kami [Jarir] dari [Thalq bin Mu'awiyah An Nakha'i Abu Ghiyats] dari [Abu Zur'ah bin 'Amru bin Jarir] dari [Abu Hurairah] dia berkata; "Seorang wanita datang menemui Rasulullah shallallahu 'alaihi wasallam dengan membawa anaknya yang sedang sakit dan mengeluh seraya berkata; 'Wahai Rasulullah shallallahu 'alaihi wasallam, aku khawatir terhadapnya, dan sungguh aku telah mempersembahkan (mengubur) tiga anak'. maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh engkau telah terhalang dengan tabir yang kuat dari api neraka'." Zuhair berkata; dari Thalq -tanpa menyebutkan nama julukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6704</td></tr><tr><td>Arabic No</td><td>2636.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6704</td></tr><tr><td>Arabic No</td><td>2636.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 200</td></tr></tbody></table></div>
 

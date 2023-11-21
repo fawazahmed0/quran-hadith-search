@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:that his father said. "I saw those, who used to buy foodstuff wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Al Walid bin Muslim] dari [Al Awza'iy] dari [Az Zuhriy] dari [Salim] dari [bapaknya radliallahu 'anhu] berkata; "Aku melihat orang-orang yang membeli makanan yang tanpa ditimbang di zaman Rasulullah shallallahu 'alaihi wasallam akan dipukul bila menjualnya kembali, hingga mereka mengangkutnya kepada kendaraan angkut mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2131</td></tr><tr><td>Arabic No</td><td>2131</td></tr><tr><td>Reference</td><td>Book 34 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я видел, как при жизни Пророка ﷺ били тех, кто покупал продукты питания, не отмеряя их, если они продавали (купленную еду там же), не доставив её (сначала для продажи в другое место)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2131</td></tr><tr><td>Arabic No</td><td>2131</td></tr><tr><td>Reference</td><td>Book 34 Hadith 83</td></tr></tbody></table></div>
 

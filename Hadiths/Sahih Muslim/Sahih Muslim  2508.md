@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar (Allah be pleased with both of them) reported Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sahl bin Utsman] telah menceritakan kepada kami [Ziyad bin Abdullah Al Bakka'i] dari [Abdul Malik bin Umair] dari [Musa bin Thalhah] dari [Abdullah bin Umar] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jumlah dari dalam satu bulan itu adalah begini, begini dan begini (yaitu, sepuluh, sepuluh dan sembilan hari)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2508</td></tr><tr><td>Arabic No</td><td>1080.11</td></tr><tr><td>Reference</td><td>Book 13 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2508</td></tr><tr><td>Arabic No</td><td>1080.11</td></tr><tr><td>Reference</td><td>Book 13 Hadith 14</td></tr></tbody></table></div>
 

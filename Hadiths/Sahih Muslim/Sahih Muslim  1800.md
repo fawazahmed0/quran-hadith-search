@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:I spent a night in the house of my mother's sister Maimuna. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1800</td></tr><tr><td>Arabic No</td><td>763.13</td></tr><tr><td>Reference</td><td>Book 6 Hadith 228</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «Однажды я заночевал у своей тётки со стороны матери Маймуны. Ночью Пророк ﷺ встал, чтобы совершить добровольную молитву. Он встал у бурдюка, совершил омовение и стал молится. Увидев, что он делает, я встал и совершил омовение (водой) из бурдюка, после чего встал слева от него. Он же взял меня за руку у себя за спиной, и поставил меня справа от себя».Я (‘Атаъ, один из передатчиков) спросил: «Это произошло во время совершения добровольной молитвы?» Он (Ибн ‘Аббас) ответил: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1800</td></tr><tr><td>Arabic No</td><td>763.13</td></tr><tr><td>Reference</td><td>Book 6 Hadith 228</td></tr></tbody></table></div>
 

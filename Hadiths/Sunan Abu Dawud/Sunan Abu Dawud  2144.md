@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah al-Qushayri: I went to the Messenger of Allah (ﷺ) and asked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Ahmad bin Yusuf Al Muhalli An Naisaburi], telah menceritakan kepada kami [Umar bin Abdullah bin Razin], telah menceritakan kepada kami [Sufyan bin Husain] dari [Daud Al Warraq], dari [Sa'id bin Hakim bin Mu'awiyah], dari [ayahnya] dari [kakeknya yaitu Mu'awiyah Al Qusyairi], ia berkata; aku datang kepada Rasulullah shallallahu 'alaihi wasallam. Mu'awiyah berkata; kemudian aku katakan; bagaimana pendapat engkau mengenai isteri-isteri kami? Beliau bersabda: "Berilah mereka makan dari apa yang kalian makan, dan berilah mereka pakaian dari apa yang kalian pakai, dan janganlah kalian memukul mereka serta menjelek-jelekkan mereka (dengan perkataan dan cacian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2144</td></tr><tr><td>Arabic No</td><td>2144</td></tr><tr><td>Reference</td><td>Book 12 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Му‘авии аль-Кушайри, да будет доволен им Аллах: «Я пришёл к Посланнику Аллаха ﷺ и спросил его: “Что ты скажешь о наших жёнах?” Посланник Аллаха ﷺ ответил: “Кормите их из того, что едите сами, одевайте их из того, что носите сами, и не бейте их и не оскорбляйте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2144</td></tr><tr><td>Arabic No</td><td>2144</td></tr><tr><td>Reference</td><td>Book 12 Hadith 99</td></tr></tbody></table></div>
 

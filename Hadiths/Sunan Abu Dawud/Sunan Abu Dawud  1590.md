@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated ‘Abdallah bin Abi Awfa :My father was one of those Companions who too
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hafsh bin Umar An Namari] dan [Abu Al Walid Ath Thayalisi] secara makna, mereka berkata; telah menceritakan kepada Kami [Syu'bah] dari ['Amr bin Murrah] dari [Abdullah bin Abu Aufa], ia berkata; ayahku termasuk orang-orang yang melakukan bai'at Ridhwan di bawah pohon, dan Nabi shallallahu 'alaihi wasallam apabila terdapat beberapa orang yang datang kepada beliau membawa zakat mereka maka beliau mengucapkan; ya Allah, sampaikan shalawat kepada keluarga fulan. Abdullah bin Abu Aufa berkata; kemudian ayahku datang kepada beliau dengan membawa zakatnya. Kemudian beliau berdoa: "Ya Allah, sampaikan shalawat kepada keluarta Abu Aufa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1497) Sahih Muslim (1078)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1590</td></tr><tr><td>Arabic No</td><td>1590</td></tr><tr><td>Reference</td><td>Book 9 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Абу Ауфа рассказывает: «Мой отец был одним из тех, кто приносил присягу под деревом. Когда люди приносили Пророку ﷺ закят, он говорил: “О Аллах, благослови* семейство такого-то!” И когда мой отец принёс ему свой закят, он сказал: “О Аллах, благослови семейство Абу Ауфа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1497) Sahih Muslim (1078)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1590</td></tr><tr><td>Arabic No</td><td>1590</td></tr><tr><td>Reference</td><td>Book 9 Hadith 35</td></tr></tbody></table></div>
 

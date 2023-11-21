@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying that he saw a person enjo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Ubaidullah]; Telah menceritakan kepada kami [Syaiban] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sungguh aku melihat seseorang sedang berbahagia di surga dikarenakan ia telah memotong batang pohon yang menjuntai ke jalan yang mengganggu orang lewat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6671</td></tr><tr><td>Arabic No</td><td>1914.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6671</td></tr><tr><td>Arabic No</td><td>1914.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 168</td></tr></tbody></table></div>
 

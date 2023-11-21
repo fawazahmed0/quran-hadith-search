@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) prohibited bu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ibnu 'Ajlan] dari ['Amru bin Syu'aib] dari [ayahnya] dari [kakeknya] bahwa Rasulullah shallallahu 'alaihi wasallam melarang berjual beli di masjid, mencari sesuatu yang hilang, mendendangkan syair dan mengadakan mengadakan pertemuan (di masjid) sebelum shalat Jum'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 2 Hadith 690</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт со слов своего отца рассказ его деда, да будет доволен Аллах им и его отцом, о том, что Посланник Аллаха ﷺ запретил покупать и продавать в мечети, расспрашивать там о пропавшей вещи, декламировать стихи и собираться в кружки перед пятничной молитвой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 2 Hadith 690</td></tr></tbody></table></div>
 

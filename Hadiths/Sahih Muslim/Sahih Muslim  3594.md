@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ In the narration transmitted on the authority of Ibn Bishr there is a mention of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Sa'id bin Abu 'Arubah] dari [Qatadah] dari [Abu Al Khalil] dari [Abdullah Al Harits] bahwa [Ummu Al Fadll] telah bercerita bahwa Nabiyullah shallallahu 'alaihi wasallam pernah bersabda: "Tidak menjadikan seorang itu mahram, jika hanya satu kali atau dua kali hisapan, atau satu kali atau dua kali sedotan." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] semuanya dari ['Abdah bin Sulaiman] dari [Ibnu Abi 'Arubah] dengan isnad ini, adapun Ishaq maka dia mengatakan sebagaimana riwayatnya Ibnu Bisyr yaitu; "Atau dua kali sedotan atau dua kali hisapan." Sedangkan Ibnu Abu Syaibah mengatakan; "Atau dua kali hisapan atau dua kali sedotan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>1451.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>1451.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 27</td></tr></tbody></table></div>
 

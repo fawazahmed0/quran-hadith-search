@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asma bint Abu Bakr (Allah be pleased with both of them) reported:We set out (to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] -dalam riwayat lain- Dan telah menceritakan kepadaku [Zuhair bin Harb] -lafazh juga miliknya- Telah menceritakan kepada kami [Rauh bin Ubadah] Telah menceritakan kepada kami [Ibnu Juraij] telah menceritakan kepadaku [Manshur bin Abdurrahman] dari [ibunya] Shafiyyah binti Syaibah, dari [Asma' binti Abu Bakr] radliallahu 'anhuma, ia berkata; Ketika kami ihram, Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang membawa hadya (hewan kurban), hendaklah ia tetap dalam keadaan ihram. Dan siapa yang tidak membawa hadya, dia boleh bertahallul (berhenti ihram)." Ketika itu, Zubair (suami Asma') membawa hadya. Karena itu, dia tidak tahallul. Tetapi aku memakai pakaianku, lalu keluar dan duduk dekat Zubair. Maka Zubair berkata, "Beranjaklah dariku." Aku pun berkata, "Apakah kamu khawatir akan batal karena aku?" Dan telah menceritakannya kepadaku [Abbas bin Abdul Azhim Al Anbari] Telah menceritakan kepada kami [Abu Hisyam Al Mughirah bin Salamah Al Makhzumi] Telah menceritakan kepada kami [Wuhaib] Telah menceritakan kepada kami [Manshur bin Abdurrahman] dari [ibunya] dari [Asma' binti Abu Bakar] radliallahu 'anhuma, ia berkata; Kami datang bersama Rasulullah shallallahu 'alaihi wasallam dalam keadaan ihram untuk haji. Kemudian ia pun menyebutkan seperti hadits Ibnu Juraij, hanya saja ia menyebutkan; (Zubair berkata), "ISTARKHII 'ANNII, ISTARKHII 'ANNII (menjauhlah dariku, menjauhla dariku)." Saya berkata, "Apakah kamu khawatir akan batal karena aku?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3002</td></tr><tr><td>Arabic No</td><td>1236.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3002</td></tr><tr><td>Arabic No</td><td>1236.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 210</td></tr></tbody></table></div>
 

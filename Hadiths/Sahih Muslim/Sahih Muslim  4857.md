@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This tradition has been narrated on the authority of Sufyan with the addition fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] dan [Abu Kuraib], Yahya berkata; telah mengabarkan kepada kami, dan yang lain mengatakan; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Salm bin 'Abdurrahman] dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam tidak menyukai belang putih pada kaki kuda." Dan telah menceritakan kepada kami [Muhammad bin Numair] telah menceritakan kepada kami [ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku ['Abdurrahman bin Bisyr] telah menceritakan kepada kami ['Abdurrazaq] semuanya dari [Sufyan] dengan isnad seperti ini, dan di dalam hadits Abdurrazaq ditambahkan, "Syikal adalah seekor kuda yang di kaki kanannya dan tangan kirinya terdapat belang putih, atau pada tangan kanan dan kaki kirinya." Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad yaitu Ibnu Ja'far]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Mutsanna] telah menceritakan kepadaku [Wahb bin Jarir] semuanya dari [Syu'bah] dari ['Abdullah bin Yazid An Nakha'i] dari [Abu Zur'ah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti hadits Waki'. Dan dalam riwayat Wahb dari 'Abdullah bin Yazid tidak disebutkan An Nakha'i
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4857</td></tr><tr><td>Arabic No</td><td>1875.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4857</td></tr><tr><td>Arabic No</td><td>1875.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 153</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah Al Qa'nabi] dari [Malik] dari [Yazid bin Khushaifah] bahwa ['Amru bin Abdullah bin Ka'b As Sulami] telah mengabarkan kepadanya, bahwa [Nafi' bin Jubair] mengabarkan kepadanya dari [Utsman bin Abu Al 'Ash] bahwa ia telah datang kepada Nabi shallallahu 'alaihi wasallam -Utsman berkata; sementara aku sedang sakit yang hampir membinasakanku- Utsman berkata, "Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Usaplah menggunakan tangan kananmu sebanyak tujuh kali, lalu ucapkanlah: A'UUDZU BI'IZZATILLAAHI WA QUDRATIHI MIN SYARRI MAA AJIDU (aku berlindung kepada kemuliaan Allah dan kemampuan-Nya dari keburukan yang aku temui) '." Utsman berkata, "Lalu aku melakukan hal tersebut, maka Allah 'azza wajalla menghilangkan apa yang ada padaku, dan aku selalu memerintahkan keluargaku dan yang lainnya untuk mengucapkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3891</td></tr><tr><td>Arabic No</td><td>3891</td></tr><tr><td>Reference</td><td>Book 29 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Усмана ибн Абу аль-‘Аса, да будет доволен им Аллах, что он пришёл к Пророку ﷺ. ‘Усман сказал: «А я тогда страдал от болезни, которая чуть не погубила меня». Он сказал: «И Посланник Аллаха ﷺ сказал: “Семь раз проведи рукой по больному месту со словами: “Прибегаю к защите всемогущества Аллаха и Его мощи от зла того, что я ощущаю!” /‘Аузу би-‘иззати-Лляхи ва кудрати-хи мин шарри ма аджиду/» Он сказал: «И я так и поступил, и Всемогущий и Великий Аллах избавил меня от того, что постигло меня, и с тех пор я всё время велю своим домочадцам и другим людям (прибегать к этим словам)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3891</td></tr><tr><td>Arabic No</td><td>3891</td></tr><tr><td>Reference</td><td>Book 29 Hadith 37</td></tr></tbody></table></div>
 

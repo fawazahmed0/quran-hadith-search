@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Bakra reported Allah's Messenger (ﷺ) as saying:When two Muslims (confront 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaiba] telah menceritakan kepada kami [Ghundar] dari [Syu'bah]. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata: telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Rib'I bin Hirasy] dari [Abu Bakrah] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Bila ada dua orang muslim yang salah satunya membawa pedang (untuk menyerang) saudaranya, keduanya berada ditepi neraka jahanam, bila salah satunya membunuh kawannya, kedua-duanya masuk neraka jahanam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7255</td></tr><tr><td>Arabic No</td><td>2888.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7255</td></tr><tr><td>Arabic No</td><td>2888.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 21</td></tr></tbody></table></div>
 

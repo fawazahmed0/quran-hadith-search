@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:That 'Aisha told him that Barirah came to seek her help in her wr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Urwah] bahwa ['Aisyah radliallahu 'anha] bahwa dia mengabarkan bahwa Barirah datang meminta tolong kepadaku tentang ketetapan dirinya (untuk dibebaskan) sedang dia belum menerima ketetapan tersebut. Maka 'Aisyah radliallahu 'anha berkata, kepadanya: "Kembalilah kamu kepada tuanmu. Jika mereka suka aku akan penuhi ketetapanmu dan perwalian kamu ada padaku, maka aku penuhi. Kemudian Barirah menceritakan hal itu kepada tuannya namun mereka menolak dan berkata: "Jika dia mau silahkan dia berharap untuk memperolehmu, namun perwalian kamu tetap ada pada kami". Kemudian 'Aisyah radliallahu 'anha menceritakan hali ini kepada Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Belilah dan bebaskanlah karena perwalian menjadi milik orang yang membebaskannya". Dia 'Urwah) berkata: Kemudian Rasulullah shallallahu 'alaihi wasallam berdiri dan bersabda: "Mengapa ada diantara kalian membuat persyaratan dengan syarat-syarat yang tidak ada pada Kitabulloh. Barangsiapa yang membuat persyaratan yang tidak ada pada Kitab Allah maka tidakberlaku baginya sekalipun dia membuat seratus kali persyaratan. Syarat dari Allah lebih berhak dan lebih kokoh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2561</td></tr><tr><td>Arabic No</td><td>2561</td></tr><tr><td>Reference</td><td>Book 50 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Барира, да будет доволен ею Аллах, пришла к ней с просьбой о помощи в заключении договора о самовыкупе, но к тому времени она ещё ничего не выплатила. ‘Аиша сказала ей: «Возвращайся к своим хозяевам, и если они согласятся, чтобы я выплатила за тебя необходимую сумму и стала твоей покровительницей /маулят/, то я сделаю это». Барира передала (её слова) своим хозяевам, но они отказались и сказали: «Если она хочет (сделать это) для тебя в надежде на награду Аллаха, пусть делает, но ты останешься под нашим покровительством». (‘Аиша, да будет доволен ею Аллах,) рассказала об этом Посланнику Аллаха ﷺ, и Посланник Аллаха ﷺ сказал ей: «Купи (её) и освободи, что же касается покровительства, то (покровителем) может быть только тот, кто освободил (раба)». А затем Посланник Аллаха ﷺ встал и сказал: «Почему люди выдвигают такие условия, о которых (ничего не говорится) в Книге Аллаха? Человек, выдвигающий условия, о которых (ничего не говорится) в Книге Аллаха, (выдвигает недействительные условия,) даже если он сделает это сто раз, а условия Аллаха являются самыми истинными и надёжными»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2561</td></tr><tr><td>Arabic No</td><td>2561</td></tr><tr><td>Reference</td><td>Book 50 Hadith 2</td></tr></tbody></table></div>
 

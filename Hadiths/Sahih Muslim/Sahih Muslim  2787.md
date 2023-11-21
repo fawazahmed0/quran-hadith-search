@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that when the last ten nights began 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] dan [Ibnu Abu Umar] semuanya dari [Ibnu Uyainah] - [Ishaq] berkata- telah mengabarkan kepada kami [Sufyan bin Uyainah] dari [Abu Ya'fur] dari [Muslim bin Shubaih] dari [Masruq] dari [Aisyah] radliallahu 'anha, ia berkata; Ketika Rasulullah shallallahu 'alaihi wasallam memasuki sepuluh terakhir (Ramadlan), maka beliau menghidupkan malam-malamnya (dengan qiyamullail) dan membangunkan keluarganya serta mengencangkan ikatan kainnya (menjauhi isterinya untuk lebih konsentrasi beribadah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2787</td></tr><tr><td>Arabic No</td><td>1174</td></tr><tr><td>Reference</td><td>Book 14 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «С наступлением последней декады Посланник Аллаха ﷺ всегда бодрствовал ночью сам, будил своих домочадцев, проявлял (особое) усердие и накрепко затягивал свой изар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2787</td></tr><tr><td>Arabic No</td><td>1174</td></tr><tr><td>Reference</td><td>Book 14 Hadith 8</td></tr></tbody></table></div>
 

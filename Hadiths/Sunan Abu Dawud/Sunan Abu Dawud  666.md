@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Prophet (ﷺ) said: Set the rows in order, stand
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Ibrahim Al-Ghafiqi] telah menceritakan kepada kami [Ibnu Wahb] -dari jalur lain- Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al-Laits] dan hadits riwayat Ibnu Wahb lebih sempurna, dari [Mu'awiyah bin Shalih] dari [Abu Az-Zahiriyyah] dari [Katsir bin Murrah] dari [Abdullah bin Umar], Qutaibah berkata; dari Az-Zahiriyah dari Abi Syajarah tanpa menyebutkan Ibnu Umar bahwasanya Rasulullah Shallallahu alaihi wasallam bersabda: "Tegakkanlah shaf-shaf, sejajarkanlah antara pundak-pundak, tutuplah celah-celah dan lemah lembutlah terhadap kedua tangan saudara kalian, -[Isa] tidak menyebutkan; tangan saudara kalian- dan janganlah kalian membiarkan celah-celah itu untuk setan, barangsiapa yang menyambung shaf maka Allah akan menyambungnya dan barang siapa yang memutusnya maka Allah Allah akan memutusnya." Abu Dawud berkata; Abu Syajarah adalah Katsir bin Murrah. Abu Dawud berkata; Makna dari kalimat lemah lembutlah kalian terhadap tangan saudara kalian adalah, apabila ada seseorang yang baru datang dan masuk ke dalam shaf, maka yang lain hendaknya melemaskan pundaknya hingga dia dapat masuk ke dalam shaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>666</td></tr><tr><td>Arabic No</td><td>666</td></tr><tr><td>Reference</td><td>Book 2 Hadith 276</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара о том, что Посланник Аллаха ﷺ сказал: «Выстраивайте ряды, стойте плечом к плечу, заполняйте пустоты, уступайте рукам ваших братьев, и не оставляйте промежутков для шайтана. Того, кто соединит ряд, Аллах наградит, а с тем, кто разорвёт ряд, Аллах порвёт».Абу Дауд сказал: «Слова “уступайте рукам ваших братьев” означают то, что когда человек подходит к ряду и желает стать в него, то каждому человеку следует расступить ему свои плечи, чтобы он смог встать в этот ряд»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>666</td></tr><tr><td>Arabic No</td><td>666</td></tr><tr><td>Reference</td><td>Book 2 Hadith 276</td></tr></tbody></table></div>
 

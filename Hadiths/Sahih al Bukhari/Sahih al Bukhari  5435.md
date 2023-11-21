@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I was a young boy when I once was walking with Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Munir]; ia mendengar [An Nadlr]; telah mengabarkan kepada kami [Ibnu Aun] ia berkata; telah mengabarkan kepadaku [Tsumamah bin Abdullah bin Anas] dari [Anas] radliallahu 'anhu, ia berkata; "Aku berjalan bersama Rasulullah shallallahu 'alaihi wasallam, padahal aku masih seorang bocah. Beliau lalu menemui budaknya yang tukang jahit, budak itu kemudian menghidangkan kepada beliau makanan dalam sebuah bejana yang di antaranya adalah buah labu. Beliau lalu memilih-milih buah tersebut (untuk dimakan)." Anas berkata, "Ketika aku melihat beliau seperti itu, maka aku pun mengambil dan meletakkannya di hadapannya. Sementara budak tersebut kembali mengerjakan pekerjaannya." Anas berkata, "Maka aku sangat menyukai buah labu semenjak aku melihat Rasulullah shallallahu 'alaihi wasallam melakukan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5435</td></tr><tr><td>Arabic No</td><td>5435</td></tr><tr><td>Reference</td><td>Book 70 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Я шёл вместе с Посланником Аллаха ﷺ, когда был ещё юношей, и он зашёл к своему рабу-портному, который принёс ему блюдо с едой, в которой была тыква. Посланник Аллаха ﷺ стал выискивать (и брать ломтики) тыквы. Увидев это, я стал собирать тыкву перед ним. И с тех пор, как я увидел, что Посланник Аллаха ﷺ делает это, я стал любить тыкву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5435</td></tr><tr><td>Arabic No</td><td>5435</td></tr><tr><td>Reference</td><td>Book 70 Hadith 63</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubaid Ibn Juraij:I asked 'Abdullah bin 'Umar, "O Abu 'Abdur-Rahman! I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Sa'id Al Maqbari] dari ['Ubaid bin Juraij] bahwa dia berkata kepada ['Abdullah bin 'Umar], "Wahai Abu 'Abdurrahman, aku melihat anda mengerjakan empat hal yang tidak aku lihat seorangpun dari sahabatmu melakukannya!" 'Abdullah bin 'Umar berkata, "Apa sajakah itu wahai Ibnu Juraij?" Ibnu Juraij berkata, "Aku melihat anda tidak menyentuh rukun-rukun (Ka'bah) kecuali rukun Yamani, aku melihat anda mengenakan sandal terbuat dari kulit, aku melihat anda mengecat (rambut) dengan berwarna kuning, dan saat manusia di Makkah melakukan talbiyah setelah melihat hilal aku melihat anda tidak melakukannya kecuali pada hari tarwiyah?" 'Abdullah bin 'Umar pun berkata, "Adapun tentang rukun Ka'bah, sungguh aku tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam mengusapnya kecuali rukun Yamani. Sedangkan mengenai sandal dari kulit, sungguh aku melihat Rasulullah shallallahu 'alaihi wasallam juga mengenakan sandal kulit yang tidak berbulu, dan berwudlu dengan tetap mengenakannya, dan aku suka bila tetap mengenakannya. Adapun tentang warna kuning, sungguh aku melihat Rasulullah shallallahu 'alaihi wasallam mencelup dengan warna tersebut dan aku juga suka melakukannya. Dan tentang talbiyah, sungguh belum pernah aku melihat Rasulullah shallallahu 'alaihi wasallam bertalbiyah kecuali setelah kendaraannya melaju (menuju Mina)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>166</td></tr><tr><td>Arabic No</td><td>166</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды ‘Убайд ибн Джурайдж сказал ‘Абдулле ибн ‘Умару, да будет доволен Аллах ими обоими: «О Абу ‘Абду-р-Рахман, я видел, что ты делаешь четыре (вещи), которых я не видел, чтобы их совершали твои товарищи». Он сказал: «А что это о Ибн Джурайдж?» Он ответил: «Я видел, что ты касаешься только двух йеменских углов Каабы, и я видел, что ты носишь сандалии, сделанные из дублёной кожи, и я видел, что ты красишь волосы в жёлтый цвет, и я видел, что, когда ты был в Мекке, люди надели ихрамы, увидев молодой месяц, ты же надел его и стал произносить тальбийу только в восьмой день зуль-хиджжа /йаум ат-тарвия/». ‘Абдуллах (ибн ‘Умар, да будет доволен Аллах ими обоими,) сказал (ему в ответ): «Что касается углов (Каабы), то я не видел, чтобы Посланник Аллаха ﷺ касался (каких-либо из них), кроме йеменских; что касается сандалий, сделанных из дублёной кожи, то, поистине, я видел, что Посланник Аллаха ﷺ, носил только такие сандалии, на которых (после выделки кожи) не оставалось волос (животного), и совершал омовение, не снимая их, и поэтому я тоже люблю носить такую обувь; что касается жёлтого цвета, то, поистине, я видел, что так красит (волосы) Посланник Аллаха ﷺ и поэтому я тоже люблю краситься так; что же касается ихрама, то, поистине, я не видел, чтобы Посланник Аллаха ﷺ надевал его, прежде чем его верблюдица трогалась в путь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>166</td></tr><tr><td>Arabic No</td><td>166</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'id: and the narrator Musa said: As far as Amr thinks, the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] -dari jalun lainnya- Dan telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Wahid] dari [Amru bin Yahya] dari [Ayahnya] dari [Abu Sa'id] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda. Dan Musa berkata di dalam hadits riwayatnya, yang ia taksir hadis Amru bahwasanya Nabi shallallahu 'alaihi wasallam bersabda: "Semua tempat di bumi ini adalah Masjid (dapat digunakan untuk shalat atau bersujud) kecuali kamar mandi dan kuburan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>492</td></tr><tr><td>Arabic No</td><td>492</td></tr><tr><td>Reference</td><td>Book 2 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид (аль-Худри) сказал: «Посланник Аллаха ﷺ сказал: “Вся земля является мечетью, кроме бань и кладбищ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>492</td></tr><tr><td>Arabic No</td><td>492</td></tr><tr><td>Reference</td><td>Book 2 Hadith 102</td></tr></tbody></table></div>
 

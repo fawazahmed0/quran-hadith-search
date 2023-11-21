@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhaar:I said, "O Allah's Messenger (ﷺ)! Which mosque was built fi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Umar binHafsh] telah bercerita kepada kami [bapakku] telah bercerita kepada kami [Al A'masy] telah bercerita kepada kami [Ibrahim at-Taymiy] dari [bapaknya] dari [Abu Dzarr radliallahu 'anhu] berkata; "Aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam, masjid apakah yang pertama di bangun di muka bumi ini?". Beliau menjawab: "al-Masjidil Haram". Aku bertanya lagi; "Kemudian apa?". Beliau menjawab: "al-Masjidil Aqshaa". Aku bertanya lagi; "Berapa lama selang waktu antara keduanya?". Beliau menjawab: "Empat puluh. Kemudian Beliau bersabda: "Dimana saja kamu berada dan waktu shalat sudah datang, maka shalatlah, karena bumi bagimu adalah masjid" (boleh sebagai tempat shalat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3425</td></tr><tr><td>Arabic No</td><td>3425</td></tr><tr><td>Reference</td><td>Book 60 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «(Однажды) я спросил: “О Посланник Аллаха, какая мечеть была построена на земле первой?” Он ответил: “Запретная мечеть /Аль-масджид aль-харам/”. Я спросил: “А после неё?” Он ответил: “Отдалённейшая мечеть /Аль-масджид aль-акса/”. Я спросил: “А сколько (лет прошло) между (построением) одной и другой?” Он ответил: “Сорок лет”, (после чего добавил): “Где бы ни застало тебя (время) молитвы, совершай её, ибо вся земля является мечетью (местом поклонения) для тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3425</td></tr><tr><td>Arabic No</td><td>3425</td></tr><tr><td>Reference</td><td>Book 60 Hadith 97</td></tr></tbody></table></div>
 

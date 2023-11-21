@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi reported on the authority of Ibn Umar (Allah be pleased with them) that the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] semuanya dari ['Ubaidillah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan lafazhnya dari dia, telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah Shallallu 'alaihi wa sallam bersabda: "pohon kurma mana saja yang telah dikawinkan dan dibeli, maka buahnya bagi orang yang mengawinkannya kecuali jika pembelinya memberikan syarat (bahwa buahnya untuknya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3902</td></tr><tr><td>Arabic No</td><td>1543.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3902</td></tr><tr><td>Arabic No</td><td>1543.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 101</td></tr></tbody></table></div>
 

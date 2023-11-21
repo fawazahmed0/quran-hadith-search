@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) granted concession, or Zubair b. Awwa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Waki'] dari [Syu'bah] dari [Qatadah] dari [Anas] dia berkata; "Rasulullah shallallahu 'alaihi wasallam membolehkan Zubair bin 'Awwam dan 'Abdurrahman bin 'Auf memakai sutera karena keduanya menderita penyakit kulit." Dan telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5431</td></tr><tr><td>Arabic No</td><td>2076.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5431</td></tr><tr><td>Arabic No</td><td>2076.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 46</td></tr></tbody></table></div>
 

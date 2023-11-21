@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abdullah b. Mas'ud that Waki told (him) that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku], dan [Waki'] dari [al-A'masy] dari [Syaqiq] dari [Abdullah], Waki' berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, sedangkan Ibnu Numair berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa meninggal dalam keadaan menyekutukan Allah dengan sesuatu, maka ia masuk neraka." Dan aku berkata, "Saya dan orang yang meninggal dengan tidak menyekutukan Allah dengan sesuatu pun (niscaya) masuk surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>268</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд, да будет доволен им Аллах,) сказал: «(Однажды) Посланник Аллаха ﷺ сказал: “Войдёт в огонь тот, кто умер, поклонявшись чему бы то ни было наряду с Аллахом”, а я сказал: “Войдёт в Рай тот, кто умер, ничему не поклонявшись наряду с Аллахом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>268</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 174</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "Facilitate things to people (co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] berkata, telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepadaku [Abu At Tayyah] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "permudahlah dan jangan persulit, berilah kabar gembira dan jangan membuat orang lari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 3 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «Облегчайте, а не создавайте затруднения, радуйте (людей) добрыми вестями, а не внушайте отвращение (к Исламу)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 3 Hadith 11</td></tr></tbody></table></div>
 

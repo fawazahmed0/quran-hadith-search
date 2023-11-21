@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik (Allah be pleased with him) reported that Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ibnu Hujr] semuanya dari [Isma'il] - [Ibnu Ayyub] berkata- Telah menceritakan kepada kami [Isma'il bin Ja'far] telah mengabarkan kepadaku [Amru bin Abu Amru] Maula Al Muthallib bin Abdullah bin Hanthab, bahwa ia mendengar [Anas bin Malik] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada Abu Thalhah: "Wahai Abu Thalhah, beri aku seorang pemuda dari pemuda-pemudamu untuk melayaniku." Akulah yang beruntung dibawanya kepada Rasulullah shallallahu 'alaihi wasallam dengan membonceng di belakang Abu Thalhah, untuk melayani beliau. Demikianlah setiap kali beliau turun dari kendaraan aku segera datang melayani. Kemudian tatkala kami sampai ke bukit Uhud beliau bersabda: "Bukit ini mencintai kita dan kita pun mencintainya." Tatkala sudah dekat akan sampai ke kota Madinah beliau berdo'a: "Ya Allah! Kujadikan negeri ini, yaitu antara kedua bukitnya yang berbatu-batu hitam sebagai tanah haram, seperti Ibrahim menjadikan Makkah sebagai tanah haram. Ya Allah, berikanlah kemakmuran bagi penduduknya dalam takaran sha' dan mud mereka." Dan Telah menceritakannya kepada kami [Sa'id bin Manshur] dan [Qutaibah bin Sa'id] keduanya berkata, Telah menceritakan kepada kami [Ya'qub bin Abdurrahman Al Qari] dari [Amru bin Abu Amru] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam semisalnya, hanya saja, ia menyebutkan; "Aku juga menjadikan antara kedua bukitnya yang berbatu-batu hitam sebagai tanah haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3321</td></tr><tr><td>Arabic No</td><td>1365.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 525</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3321</td></tr><tr><td>Arabic No</td><td>1365.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 525</td></tr></tbody></table></div>
 

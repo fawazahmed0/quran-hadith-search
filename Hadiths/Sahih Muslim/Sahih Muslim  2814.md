@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar (Allah be pleased with them) reported:I heard the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata, bahwa [Salim bin Abdullah bin Umar] telah mengabarkan kepadaku dari [bapaknya] radliallahu 'anhu, ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam membaca Talbiyah dengan kain penutup kepala: "LABBAIKA ALLAHUMMA LABBAIKA LAA SYARIIKA LAKA LABBAIKA INNAL HAMDA WAN NI'MATA LAKA WAL MULKA LAA SYARIIKA LAKA (Kupatuhi perintah-Mu ya Allah, kupatuhi Engkau. Kupatuhi Engkau, Kupatuhi Engkau, tiada sekutu bagi-Mu. Kupatuhi Engkau, sesungguhnya segala pujian dan kenikmatakan adalah milik-Mu, begitu pula kekuasaan, tiada sekutu bagi-Mu)." Beliau tidak menambahkan lagi pada bacaan tersebut. Dan Abdullah bin Umar radliallahu 'anhum berkata; "Rasulullah shallallahu 'alaihi wasallam shalat dua raka'at di Dzulhulaifah dan ketika beliau telah siap di atas kendaraannya yang berdiri di samping Masjid Dzulhulaifah, beliau membaca Talbiyah seperti kalimat di atas." Abdullah bin Umar radliallahu 'anhuma berkata; Umar bin Al Khaththab radliallahu 'anhu membaca Talbiyah dengan bacaan Talbiyah-nya Rasulullah shallallahu 'alaihi wasallam dan ia menambahkan: "LABBAIKA LABBAIKA WA SA'DAIKA WAL KHAIRU BIYADIKA LABBAIKA WARRAGHBAA'U ILAIKA WAL'AMAL (Aku penuhi panggilan-Mu, ya Allah untuk mencari ridla-Mu. Kebaikan ada dalam kekuasaan-Mu. Aku penuhi panggilan-Mu, ya Allah, sebagai amal ibadah untuk mencari ridla-Mu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2814</td></tr><tr><td>Arabic No</td><td>1184.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2814</td></tr><tr><td>Arabic No</td><td>1184.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 24</td></tr></tbody></table></div>
 

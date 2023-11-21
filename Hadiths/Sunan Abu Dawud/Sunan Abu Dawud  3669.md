@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah menceritakan kepada kami [Abu Hayyan] telah menceritakan kepadaku [Asy Sya'bi] dari [Ibnu Umar] dari [Umar] ia berkata, "Ketika pengharaman arak turun di hari pengharamannya, arak saat itu terbuat dari lima hal; anggur, kurma, madu, gandum, serta jewawut. Dan arak adalah sesuatu yang menutupi akal, dan ada tiga perkara yang aku inginkan Rasulullah shallallahu 'alaihi wasallam tidak meninggalkan kami hingga menjelaskan kepada kami mengenai ketiga perkara tersebut hingga kami memahaminya; (warisan) seorang kakek, orang yang tidak memiliki anak dan orang tua, serta beberapa bab mengenai riba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4619) Sahih Muslim (3032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что ‘Умар сказал: «Поистине, запрет вина был ниспослан в то время, когда его делали из пяти вещей: из винограда, фиников, мёда, пшеницы и ячменя, вином же /хамр/ является то, что окутывает разум. И я хотел бы, чтобы Посланник Аллаха ﷺ не расставался с нами, не оставив нам предельно ясного указания, которым бы мы руководствовались, относительно трёх вещей: о доле наследства деда, о каляле и о разных видах ростовщичества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4619) Sahih Muslim (3032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
 

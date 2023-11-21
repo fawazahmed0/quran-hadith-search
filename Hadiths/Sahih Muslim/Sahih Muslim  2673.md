@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qaza'a related from Abu Sa'id. He said:I heard from him (Abu Sa'id) a hadith whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Abdul Malik] ia adalah Ibnu Umair, dari [Qaza'ah] dari [Abu Sa'id] radliallahu 'anhu, ia berkata, saya mendengar satu hadits darinya, lalu kutanyakan padanya, "Apakah Anda mendengar ini langsung dari Rasulullah shallallahu 'alaihi wasallam?" ia menjawab, "Apakah aku akan berkata atas nama Rasulullah shallallahu 'alaihi wasallam sesuatu yang belum pernah aku dengar?" Ia melanjutkan berkata; Saya telah mendengar beliau bersabda: "Tidak boleh berpuasa pada dua hari; yaitu Iedul Adlha dan Iedul fithri dari bulan Ramadlan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2673</td></tr><tr><td>Arabic No</td><td>827.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2673</td></tr><tr><td>Arabic No</td><td>827.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 179</td></tr></tbody></table></div>
 

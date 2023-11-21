@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that Allah's Messenger (ﷺ) came out from the house of 'Aisha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Ikrimah bin Ammar] dari [Salim] dari [Ibnu Umar] berkata: Rasulullah Shallallahu 'alaihi wa Salam keluar dari rumah Aisyah lalu bersabda: "Induk kekufuran dari sini, tempat terbitnya tandu setan." Maksud beliau dari arah timur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7295</td></tr><tr><td>Arabic No</td><td>2905.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7295</td></tr><tr><td>Arabic No</td><td>2905.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 61</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: Musaykah, a slave-girl of some Ansari, came and sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ibrahim] dari [Hajjaj] dari [Ibnu Juraij], ia berkata; dan telah mengabarkan kepadaku [Abu Az Zubairi] bahwa ia telah mendengar [Jabir bin Abdullah] berkata; seorang wanita miskin milik sebagian orang anshar datang dan berkata; sesungguhnya tuanku telah memaksaku untuk melacur. Kemudian turunlah mengenai hal tersebut, ayat: "Dan janganlah kalian memaksakan budak-budak wanita kalian untuk melacur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2311</td></tr><tr><td>Arabic No</td><td>2311</td></tr><tr><td>Reference</td><td>Book 13 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что как-то пришла рабыня, принадлежавшая кому-то из ансаров, и сказала: «Поистине, мой господин принуждает меня к блуду!» И было ниспослано: «И не принуждайте ваших невольниц к блуду…» (сура 24 «ан-Нур», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2311</td></tr><tr><td>Arabic No</td><td>2311</td></tr><tr><td>Reference</td><td>Book 13 Hadith 137</td></tr></tbody></table></div>
 

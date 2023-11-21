@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Tha'laba Al-Khushani:I said, "O Allah's Prophet! We are living in a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yazid] berkata, telah menceritakan kepada kami [Haiwah] ia berkata; telah mengabarkan kepadaku [Rabi'ah bin Yazid Ad Dimasyqi] dari [Abu Idris] dari [Tsa'labah Al Khusyani] ia berkata, "Aku bertanya, "Wahai Rasulullah, kami tinggal di daerah ahli kitab, apakah kami boleh makan dengan bejana mereka? kami juga tinggal di daerah yang suka berburu; kami berburu dengan tombak dan dengan anjing yang terlatih atau anjing yang belum terlatih. Maka apa yang harus kami lakukan?" Beliau menjawab: "Berkenaan dengan ahli kitab sebagaimana yang kamu sebutkan, jika kamu bisa mendapatkan bejana yang lain maka jangan kamu gunakan bejana mereka. Namun jika kamu tidak mendapatkan yang lainnya, maka cuci dan makanlah dengannya. Buruan yang kamu dapat dengan tombakmu, setelah menyebut nama Allah, maka makanlah, buruan yang didapat oleh anjingmu yang terlatih, setelah menyebut nama Allah saat melepasnya maka makanlah, dan buruan yang didapat oleh anjingmu yang tidak terlatih, jika kamu sempat menyembelihnya maka makanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5478</td></tr><tr><td>Arabic No</td><td>5478</td></tr><tr><td>Reference</td><td>Book 72 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ляба аль-Хушани, да будет доволен им Аллах, сказал: «(Однажды) я сказал: “О пророк Аллаха! Мы живём на земле, которая подвластна людям Писания, так можем ли мы пользоваться для еды их посудой? В (этой) земле (много) дичи, на которую я охочусь с помощью лука, а также с помощью своей необученной и обученной собаки, так что же (из этого) мне можно (есть)?” (В ответ мне) он сказал: “Что касается твоего упоминания о людях Писания, то, если вы сможете найти что-то другое, не пользуйтесь их посудой, а если не сможете, то мойте их посуду и пользуйтесь ею. Ты (можешь) есть дичь, которую ты добыл с помощью своего лука, произнеся имя Аллаха, и ту дичь, которую ты добыл с помощью своей обученной собаки, произнеся имя Аллаха, и ту дичь, которую ты добыл с помощью своей необученной собаки, если успеешь добраться до неё, прежде чем (животное) испустит дух, и зарезать его, произнеся над ним имя Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5478</td></tr><tr><td>Arabic No</td><td>5478</td></tr><tr><td>Reference</td><td>Book 72 Hadith 4</td></tr></tbody></table></div>
 

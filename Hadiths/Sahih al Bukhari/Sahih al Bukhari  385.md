@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:We used to pray with the Prophet (ﷺ) and some of us us
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Hisyam bin 'Abdul Malik] berkata, telah menceritakan kepada kami [Bisyir bin Al Mufadlal] berkata, telah menceritakan kepadaku [Ghalib Al Qaththan] dari [Bakar bin 'Abdullah] dari [Anas bin Malik] berkata, "Kami shalat bersama Nabi shallallahu 'alaihi wasallam, lalu salah seorang dari kami meletakkan salah satu dari ujung bajunya di tempat sujudnya karena panasnya tempat sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>385</td></tr><tr><td>Arabic No</td><td>385</td></tr><tr><td>Reference</td><td>Book 8 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Обычно, когда мы молились вместе с Пророком ﷺ некоторые из нас из-за сильной жары расстилали края своей одежды на месте совершения земных поклонов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>385</td></tr><tr><td>Arabic No</td><td>385</td></tr><tr><td>Reference</td><td>Book 8 Hadith 37</td></tr></tbody></table></div>
 

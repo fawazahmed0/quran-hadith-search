@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:A Jewish boy used to serve the Prophet (ﷺ) and became ill. The P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas] radliallahu 'anhu bahwa seorang budak milik orang Yahudi pernah menjadi pelayannya Nabi shallallahu 'alaihi wasallam, lalu dia jatuh sakit, maka Nabi shallallahu 'alaihi wasallam pergi menjenguknya sambil bersabda: "Masuk Islamlah kamu." Lalu dia masuk Islam." Sa'id bin Musayyib berkata; dari Ayahnya "Ketika Abu Thalib hendak meninggal, Nabi shallallahu 'alaihi wasallam datang menjenguknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5657</td></tr><tr><td>Arabic No</td><td>5657</td></tr><tr><td>Reference</td><td>Book 75 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда один отрок из числа иудеев, прислуживавший Пророку ﷺ, заболел, Пророк ﷺ пришёл навестить его и сказал: “Прими ислам”, и он принял ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5657</td></tr><tr><td>Arabic No</td><td>5657</td></tr><tr><td>Reference</td><td>Book 75 Hadith 17</td></tr></tbody></table></div>
 

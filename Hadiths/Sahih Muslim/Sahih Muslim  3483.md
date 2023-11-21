@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:Allah's Messenger (ﷺ) contracted m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Zuhair bin Harb] sedangkan lafazhnya dari Zuhair keduanya berkata; Telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Sufyan] dari [Isma'il bin Umayah] dari [Abdullah bin Urwah] dari [Urwah] dari ['Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam menikahiku pada bulan Syawal, dan mulai berumah tangga bersamaku pada bulan Syawal, maka tidak ada di antara istri-istri Rasulullah shallallahu 'alaihi wasallam yang lebih mendapatkan keberuntungan daripadaku." Perawi berkata; "Oleh karena itu, 'Aisyah sangat senang menikahkan para wanita di bulan Syawal." Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Sufyan] dengan isnad seperti ini, namun dia tidak menyebutkan perbuatan 'Aisyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3483</td></tr><tr><td>Arabic No</td><td>1423.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3483</td></tr><tr><td>Arabic No</td><td>1423.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 85</td></tr></tbody></table></div>
 

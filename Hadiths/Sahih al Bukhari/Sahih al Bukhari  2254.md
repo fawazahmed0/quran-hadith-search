@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Abi Al-Mujalid:Abu Burda and 'Abdullah bin Shaddad sent me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Sufyan] dari [Sulaiman Asy-Syaibaniy] dari [Muhammad bin Abi Al Mujalid] berkata; 'Abdullah bin Syaddad dan Abu Burdah mengutusku untuk menemui ['Abdurrahman bin Abzaa] dan ['Abdullah bin Abi Aufaa] lalu aku menanyakan keduanya tentang jual beli As-Salaf. Keduanya berkata: "Kami pernah mendapatkan ghanimah (harta rampasan perang) bersama Rasulullah shallallahu 'alaihi wasallam lalu datang kepada kami bangsa blasteran dari penduduk negeri Syam, kemudian kami berjual beli dengan cara As-Salaf pada biji gandum, padi dan kismis untuk jangka waktu tertentu". Dia berkata; Aku tanyakan: "Apakah saat itu mereka memiliki pertanian atau tidak?" Keduanya menjawab: "Kami tidak pernah menanyakan hal itu kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2254</td></tr><tr><td>Arabic No</td><td>2254</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн абу Муджалид сказал: «Абу Бурда и Абдуллах ибн Шаддад отправили меня к Абдуррахману ибн Абзе и Абдуллаху ибн Аби Ауфе спросить их о “саляфе”, и они ответили: “Нам доставалась военная добыча, когда мы были вместе с Посланником Аллаха ﷺ, и когда к нам приезжали крестьяне из Шама, мы заранее расплачивались с ними за пшеницу, ячмень и изюм, договариваясь (с ними о поставках) на определённый срок”. Я спросил: “А они владели посевами или нет?” Они ответили: “Мы их об этом не спрашивали”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2254</td></tr><tr><td>Arabic No</td><td>2254</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

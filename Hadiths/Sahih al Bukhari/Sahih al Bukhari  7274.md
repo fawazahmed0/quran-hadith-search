@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "There was no prophet among the pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin Abdullah] telah menceritakan kepada kami [Al Laits] dari [Sa'id] dari [ayahnya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak seorang nabi pun kecuali ia diberi beberapa mukjizat yang tak bisa diserupai oleh apapun sehingga manusia mengimaninya -atau dengan redaksi 'sehingga manusia dijadikan beriman'-, namun yang diberikan kepadaku hanyalah berupa wahyu yang Allah wahyukan kepadaku, maka aku berharap menjadi manusia yang paling banyak pengikutnya di hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7274</td></tr><tr><td>Arabic No</td><td>7274</td></tr><tr><td>Reference</td><td>Book 96 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры (да будет доволен им Аллах), что Пророк ﷺ сказал: «Каждому пророку даровалось из знамений то, благодаря чему люди начинали верить в него, что же касается меня, то мне были дарованы откровения, которые Аллах внушал мне, и я надеюсь, что в День воскресения у меня окажется больше последователей, чем у любого из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7274</td></tr><tr><td>Arabic No</td><td>7274</td></tr><tr><td>Reference</td><td>Book 96 Hadith 7</td></tr></tbody></table></div>
 

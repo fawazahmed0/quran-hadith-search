@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dharr:Once I was with the Prophet (ﷺ) in the mosque at the time o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Al A'masy] dari [Ibrahim At Taimi] dari [Bapaknya] dari [Abu Dzar radliallahu 'anhu] dia berkata; Aku pernah bersama Nabi shallallahu 'alaihi wasallam di masjid pada saat matahari mulai terbenam. Lalu beliau bertanya; Wahai Abu Dzar, tahukah kamu dimana matahari terbenam? Aku menjawab; Allah dan Rasul-Nya yang lebih tahu. Beliau bersabda: "Sesungguhnya matahari itu pergi hingga ia bersujud di bawah Arsy. Itulah yang dimaksud firman Allah Ta'ala: "dan matahari berjalan ditempat peredarannya." Beliau bersabda: "Tempat peredarannya berada dibawah Arsy, " (Yasiin:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4802</td></tr><tr><td>Arabic No</td><td>4802</td></tr><tr><td>Reference</td><td>Book 65 Hadith 324</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «(Однажды, когда) я был с Пророком ﷺ в мечети во время заката солнца, он спросил: “О Абу Зарр! Знаешь ли ты, куда заходит солнце?” Я сказал: “Аллах и посланник Его знают об этом лучше”. (Тогда Пророк ﷺ) сказал: “Оно движется, пока не склоняется в земном поклоне под престолом (Аллаха), и об этом слова Всевышнего: “Солнце плывет к своему местопребыванию. Так предопределил Могущественный, Знающий”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4802</td></tr><tr><td>Arabic No</td><td>4802</td></tr><tr><td>Reference</td><td>Book 65 Hadith 324</td></tr></tbody></table></div>
 

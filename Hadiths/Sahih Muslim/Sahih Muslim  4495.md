@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepadaku [Syababah] telah menceritakan kepadaku [Warqa'] dari [Abu Az Zinnad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Dahulu ada dua orang wanita yang sedang bermain bersama anak mereka masing-masing. Tiba-tiba datang seekor serigala yang menerkam dan membawa anak salah seorang dari mereka berdua. Seorang dari mereka berkata kepada yang lain, 'sebenarnya yang dimangsa serigala tadi adalah anakmu'. Rupanya wanita yang satunya menyangkal seraya berkata, 'Tidak, yang dimangsa oleh serigala tersebut adalah anakmu'. Akhirnya kedua wanita meminta keputusan dari Daud, namun Daud menetapkan bahwa anak yang masih hidup itu milik wanita yang usianya lebih tua. Kemudian keduanya pergi menemui Sulaiman bin Daud 'alaihima salam, lantas kedua wanita tersebut menceritakan apa yang sebenarnya terjadi, setelah mendengar ceritanya, Sulaiman berkata, 'Baiklah, sekarang tolong ambilkan aku pisau, aku akan membelah dan membagi dua anak ini untuk kalian berdua'. Tiba-tiba wanita yang lebih muda berkata, 'Tidak, semoga Allah merahmati anda, berikanlah anak tersebut untuknya'. Maka Sulaiman pun menetapkan anak itu untuk wanita yang lebih muda umurnya." Al A'raj melanjutkan, "Lalu Abu Hurairah memberi komentar terhadap hadits ini, 'Sungguh, baru kali ini aku mendengar kata sikkin (pisau) dari cerita hadits ini, karena biasanya kami menyebutnya dengan mudyah (pisau)." Dan telah menceritakan kepada kami [Suwaid bin Sa'id] telah menceritakan kepadaku [Hafsh] -yaitu Ibnu Maisarah Ash Shan'ani- dari [Musa bin 'Uqbah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Umayyah bin Bistham] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Rauh] -yaitu Ibnu Al Qasim- dari [Muhammad bin 'Ajlan] semuanya dari [Abu Zinnad] dengan isnad ini, dan semakna dengan haditsnya Warqa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4495</td></tr><tr><td>Arabic No</td><td>1720.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4495</td></tr><tr><td>Arabic No</td><td>1720.01</td></tr><tr><td>Reference</td><td>Book 30 Hadith 26</td></tr></tbody></table></div>
 

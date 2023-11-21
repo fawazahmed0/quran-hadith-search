@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) (p.b.u.h) said, "Our Lord, the Bles
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Abu Salamah] dan [Abu 'Abdullah Al Aghor] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Rabb Tabaaraka wa Ta'ala kita turun di setiap malam ke langit dunia pada sepertiga malam terakhir dan berfirman: "Siapa yang berdo'a kepadaKu pasti Aku kabulkan dan siapa yang meminta kepadaKu pasti Aku penuhi dan siapa yang memohon ampun kepadaKu pasti Aku ampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1145</td></tr><tr><td>Arabic No</td><td>1145</td></tr><tr><td>Reference</td><td>Book 19 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «С наступлением последней трети каждой ночи Всеблагой и Всевышний Господь наш нисходит к нижнему небу, говоря: “Кто станет обращаться ко Мне с мольбами, чтобы Я ответил ему? Кто станет просить Меня (о чём-нибудь), чтобы Я даровал ему (это)? Кто станет молить Меня о прощении, чтобы Я простил его?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1145</td></tr><tr><td>Arabic No</td><td>1145</td></tr><tr><td>Reference</td><td>Book 19 Hadith 26</td></tr></tbody></table></div>
 

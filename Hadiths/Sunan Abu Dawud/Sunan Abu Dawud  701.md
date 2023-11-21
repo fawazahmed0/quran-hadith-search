@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Juhaim : The Messenger of Allah(ﷺ) as saying: "If one who passes 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Abu Nadlr bekas budak Umar bin Ubaidillah] dari [Busr bin Sa'id] bahwa Zaid bin Khalid Al Juhani mengirinya menemui Abu Juhaim untuk menanyakan sesuatu yang pernah dia dengar dari Rasulullah shallallahu 'alaihi wasallam mengenai seseorang yang lewat di depan orang yang shalat, maka [Abu Juhaim] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya orang yang lewat di depan orang yang shalat mengetahui (dosa) yang akan di pikulnya, niscaya lebih baik baginya berdiri yang lamanya selama empat puluh, daripada lewat di depan orang yang shalat." Abu Nadlr berkata; "Aku tidak tahu apakah yang di maksud empat puluh hari atau empat puluh bulan atau empat puluh tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (510) Sahih Muslim (507)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>701</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 2 Hadith 311</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Бусра ибн Са‘ида о том, что (однажды) Зейд ибн Халид аль-Джухани отправил его к Абу Джухайму спросить его о том, что он слышал от Посланника Аллаха ﷺ о прохождении перед молящимся и Абу Джухайма сказал: «Посланник Аллаха ﷺ сказал: “Если бы тот, кто проходит перед молящимся, знал, какой (грех) он берёт на себя, то (понял) бы, что простоять на месте сорок ... было бы для него лучше, чем пройти перед ним!”».Абу Надр сказал: «И я не знаю, (что именно) он сказал: сорок дней, сорок месяцев или сорок лет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (510) Sahih Muslim (507)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>701</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 2 Hadith 311</td></tr></tbody></table></div>
 

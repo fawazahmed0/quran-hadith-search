@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:I asked Anas bin Malik: "Who collected the Qur'an at the time of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] Telah menceritakan kepada kami [Hammam] Telah menceritakan kepada kami [Qatadah] ia berkata; Aku bertanya kepada [Anas bin Malik] radliallahu 'anhu, "Siapakah yang mengumpulkan Al Qur'an pada masa Nabi shallallahu 'alaihi wasallam?" ia menjawab, "Ada empat orang dan semuanya dari kaum Anshar. Yaitu, Ubay bin Ka'ab, Mu'adz bin Jabal, Zaid bin Tsabit dan Abu Zaid." Hadits ini diperkuat oleh [Al Fadllu] dari [Husain bin Waqid] dari [Tsumamah] dari [Anas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5003</td></tr><tr><td>Arabic No</td><td>5003</td></tr><tr><td>Reference</td><td>Book 66 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Катада сказал: «Я спросил Анаса ибн Малика, да будет доволен им Аллах: “Кто собрал (то есть выучил) Коран при жизни Пророка ﷺ?” И он ответил: “Четверо (человек), и все они были из числа ансаров. (Ими были) Убайй ибн Ка‘б, Му‘аз ибн Джабаль, Зейд ибн Сабит и Абу Зейд”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5003</td></tr><tr><td>Arabic No</td><td>5003</td></tr><tr><td>Reference</td><td>Book 66 Hadith 25</td></tr></tbody></table></div>
 

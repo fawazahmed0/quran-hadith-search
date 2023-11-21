@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:A tumbler (full of milk or water) was brought to the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abi Maryam] telah menceritakan kepada kami [Abu Ghassan] berkata, telah menceritakan kepadaku [Abu Hazim] dari [Sahal bin Sa'ad radliallahu 'anhu] berkata; Kepada Nabi shallallahu 'alaihi wasallam disodorkan segelas minuman lalu Beliau meminumnya sementara disamping kanan Beliau ada seorang anak kecil yang paling muda diantara kaum yang hadir sedangkan para orang-orang tua ada di sebelah kiri Beliau. Beliau berkata: "Wahai anak kecil, apakah kamu mengizinkan aku untuk memberi minuman ini kepada para orang tua?" Anak kecil itu berkata: " aku tidak akan mendahulukan seorangpun daripada diriku karena keutamaanku selain anda wahai Rasulullah". Maka Beliau memberikan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2351</td></tr><tr><td>Arabic No</td><td>2351</td></tr><tr><td>Reference</td><td>Book 42 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль бин Са‘д, да будет доволен им Аллах, сказал: «(Однажды) Пророку ﷺ принесли чашу, и он отпил из неё. (В это время) справа от него сидел отрок, который был самым младшим (из присутствующих), а слева от него (сидели) старцы, и (Пророк ﷺ) сказал (этому отроку): “Позволишь ли ты мне передать это старцам?” (В ответ ему отрок) сказал: “Я никому не уступлю того, что досталось мне от тебя!” — и (Пророк ﷺ) передал (чашу) ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2351</td></tr><tr><td>Arabic No</td><td>2351</td></tr><tr><td>Reference</td><td>Book 42 Hadith 1</td></tr></tbody></table></div>
 

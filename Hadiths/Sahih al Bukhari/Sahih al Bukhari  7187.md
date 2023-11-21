@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) sent an army unit headed by Usama bin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin ismail] telah menceritakan kepada kami [Abdul Aziz bin Muslim] telah menceritakan kepada kami [Abdullah bin dinar] mengatakan, aku mendengar [Ibnu Umar] radliallahu 'anhuma mengatakan; Rasulullah Shallallahu'alaihiwasallam mengutus sebuah ekspedisi dan mengangkat Usamah bin Zaid sebagai panglimanya, kemudian kepemimpinannya dicela habis-habisan oleh para sahabat ketika itu, maka Nabi langsung menegur; "Jikalau kalian mencela kepemimpinanya, dahulu kalian juga mencela kepemimpinan bapaknya, demi Allah, dia sangat ideal memegang kepemimpinan, dan sungguh ayahnya (Zaid bin haritsah) termasuk manusia yang paling kucintai, dan dia (Usamah bin Zaid) termasuk manusia yang paling kucintai sepeninggalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7187</td></tr><tr><td>Arabic No</td><td>7187</td></tr><tr><td>Reference</td><td>Book 93 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ послал (в поход) отряд, назначив командовать им Усаму бин Зейда. Некоторые люди стали высказывать недовольство в связи с таким назначением, и тогда Пророк ﷺ сказал: “Если вы порицаете его как командира, это (неудивительно, ибо прежде) вы порицали как командира и его отца, но, клянусь Аллахом, он был достоин командования и относился к числу наиболее дорогих для меня людей. Что же касается этого, то, поистине, после него он является одним из самых дорогих для меня людей!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7187</td></tr><tr><td>Arabic No</td><td>7187</td></tr><tr><td>Reference</td><td>Book 93 Hadith 49</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : Quand Dieu le Tout-Puissant accorda à
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Ubaidullah bin Musa] dari [Syaiban] dari [Yahya] telah mengabarkan kepadaku [Abu Salamah] bahwa ia mendengar [Abu Hurairah] berkata; Khuza'ah membunuh seorang laki-laki dari Bani Laits pada saat Fathu Makkah karena terbunuhnya seorang laki-laki dari mereka oleh Bani Laits. Maka peristiwa itu pun dikabarkan kepada Rasulullah shallallahu 'alaihi wasallam. beliau bergegas menaiki kendaraannya, kemudian menyampaikan khutbah seraya bersabda: " Allah telah melindungi kota Makkah dari serangan tentara gajah serta memberi kekuatan kepada Rasul-Nya dan orang-orang beriman untuk mempertahankannya. Tidak seorang pun yang boleh berperang di negeri ini. Larangan itu telah ada sejak dahulu. Dan juga tidak dibolehkan bagi orang-orang yang sesudahku. Namun, hanya dikecualikan kepadaku untuk sesaat di siang hari. Dan pada waktu ini telah kembali menjadi haram. Tidak boleh dipotong pohon berdurinya, tidak boleh ditebang pepohonannya, dan jangan dipungut barang-barang yang hilang tercecer kecuali untuk diumumkan. Siapa yang anggota keluarganya terbunuh, dia mempunyai dua pilihan yang baik, yaitu; Menerima uang tebusan (diyat) atau atau meminta agar si pembunuh dibunuh." Kemudian datanglah seorang laki-laki dari penduduk Yaman yang namanya Abu Syahin, ia berkata, "Tuliskanlah untukku ya Rasulullah." Maka beliau pun bersabda: "Tuliskanlah untuk Abu Syahin." Lalu seorang laki-laki dari Quraisy berkata, "Kecuali Al Idzkhir, karena kami menggunakannya di rumah dan kuburan kami." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Melainkan Al Idzkhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3306</td></tr><tr><td>Arabic No</td><td>1355.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 510</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3306</td></tr><tr><td>Arabic No</td><td>1355.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 510</td></tr></tbody></table></div>
 

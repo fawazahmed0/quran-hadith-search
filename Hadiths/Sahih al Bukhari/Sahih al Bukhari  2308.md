@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Marwan bin Al-Hakam and Al-Miswar bin Makhrama:When the delegates of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, telah menceritakan kepada saya [Al Laits] berkata, telah menceritakan kepada saya ['Uqail] dari [Ibnu Syihab] berkata; dan ['Urwah] menduga bahwa [Marwan bin Al Hakam] dan [Al Miswar bin Makhramah] keduanya mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam berdiri ketika datang kepada Beliau suku Hawazin yang telah ditundukkan lalu mereka meminta kepada Beliau agar mengembalikan harta dan para tawanan mereka. Maka Rasulullah shallallahu 'alaihi wasallam berkata, kepada mereka: "Ucapan yang paling aku sukai adalah yang paling benar. Maka pilihlah salah satu dari dua hal apakah tawanan atau harta dan sungguh aku akan memberi kesempatan terhadap mereka". Rasulullah shallallahu 'alaihi wasallam telah menanti mereka sekitar sepuluh malam ketika akhirnya mereka kembali dari Tho'if. Setelah jelas bagi mereka bahwa Rasulullah shallallahu 'alaihi wasallam tidak akan mengembalikan kepada mereka kecuali salah satu dari dua pilihan, mereka berkata; "Kami memilih tawanan". Maka Rasulullah shallallahu 'alaihi wasallam berdiri di hadapan Kaum Muslimin kemudian memuji Allah yang memang Dia paling berhak untuk dipuji lalu bersabda: "Kemudian dari pada itu, sesungguhnya saudara-saudara kalian ini telah datang kepada kita dengan bertobat dan sungguh aku berpikir akan mengembalikan para tawanan. Maka siapa diantara kalian yang suka berbuat baik (dengan membebaskan tawanan) dalam masalah ini maka lakukanlah dan siapa diantara kalian yang ingin tetap menjadikannya sebagai haknya hingga kami berikan kepadanya harta fa'i yang Allah karuniakan kepada kita, lakukanlah". Maka orang-orang berkata: "Kami serahkan mereka untuk Rasulullah shallallahu 'alaihi wasallam ". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Kami tidak tahu siapa diantara kalian yang berhak memberi izin dan siapa yang bukan, maka itu kembalilah hingga kalian bawa para pimpinan yang mengurusi urusan kalian". Akhirnya mereka pulang dan berbicara dengan para pimpinan mereka lalu kembali menghadap Rasulullah shallallahu 'alaihi wasallam dan mereka mengabarkan bahwa mereka telah menyetujui dan memberi izin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2308</td></tr><tr><td>Arabic No</td><td>2308</td></tr><tr><td>Reference</td><td>Book 40 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мисвар бин Махрама, да будет доволен Аллах ими обоими, сказал: «Когда к Посланнику Аллаха ﷺ прибыла делегация (племени) хавазин(, люди которого) приняли ислам, он поднялся со своего места. Они попросили его вернуть им их имущество и их пленных(, на что) Посланник Аллаха ﷺ сказал: “Больше всего я люблю наиболее правдивые речи, выбирайте же одно из двух: либо пленных, либо имущество, так как я (и без того) отложил их (раздел)”, а (надо сказать, что) Посланник Аллаха ﷺ ждал их более десяти дней после своего возвращения из Таифа. Когда им стало ясно, что Посланник Аллаха ﷺ вернёт только одно из двух, они сказали: “Мы выбираем наших пленных”. Тогда Посланник Аллаха ﷺ встал среди (собравшихся) мусульман, должным образом воздал хвалу Аллаху Всевышнему, а потом сказал: “А затем, поистине, эти ваши братья пришли к нам с покаянием, и я посчитал нужным вернуть им их пленных, так пусть же тот из вас, кто захочет сделать доброе дело, так и поступит, а кто хочет подождать (получения) своей доли до тех пор, пока мы не выделим её ему из первой же военной добычи, которую дарует нам Аллах, пусть сделает (так)”. Люди сказали: “Мы (по своей воле) отдадим им (пленных) ради Посланника Аллаха ﷺ ”. Тогда Посланник Аллаха ﷺ сказал: “Поистине, мы не знаем, кто из вас согласен на это, а кто нет, возвращайтесь же, и пусть ваши старшины сообщат нам (о вашем решении)”. После этого (все) люди вернулись к себе и их старшины поговорили с ними, а затем они пришли к Посланнику Аллаха ﷺ и сказали ему, что они по своей воле согласны (отпустить пленных)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2308</td></tr><tr><td>Arabic No</td><td>2308</td></tr><tr><td>Reference</td><td>Book 40 Hadith 8</td></tr></tbody></table></div>
 

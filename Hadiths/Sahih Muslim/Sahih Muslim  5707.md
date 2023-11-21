@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), Lorsque l'un de nous éprouve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] Berkata [Ishaq]; Telah mengabarkan kepada kami dan berkata [Zuhair] dan lafazh ini miliknya; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Adh Dhuha] dari [Masruq] dari ['Aisyah] dia berkata; "Apabila salah seorang di antara kami sakit, Rasulullah shallallahu 'alaihi wasallam mengusapnya dengan tangan kanan, lalu beliau mengucapkan: 'Adzhabil ba'sa rabban naas, wasyfi, Anta Syaafi walaa syifaa illa syifaauka, syifaa-an laa yughaadiru saqaman.' ('Wahai Rabb manusia, singkirkanlah penyakit ini dan sembuhkanlah ia Karena hanya Engkaulah yang bisa menyembuhkannya, tiada kesembuhan kecuali dari-Mu, kesembuhan yang tidak akan menyebabkan penyakit lagi). Maka tatkala beliau sakit dan sakitnya bertambah berat, kupegang tangan beliau aku hendak membacakan mantera seperti yang pernah beliau lakukan kepada kami. Tetapi beliau menarik tangannya dari tanganku, kemudian beliau mengucapkan.: 'Allahummaghfirli, waj'alni ma'arrafiqil a'la (Ya Allah, ampunilah aku, dan jadikanlah aku bersama kekasihku yang tertinggi).' Lalu kutengok beliau, ternyata beliau telah meninggal.' Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Husyaim]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] mereka berkata; Telah menceritakan kepada kami [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Bisyr bin Khalid]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Bisyr]; Telah menceritakan kepada kami [Ibnu Abu 'Adi] keduanya dari [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Bakr bin Khalid] mereka berkata; Telah menceritakan kepada kami [Yahya] yaitu Al Qaththan dari [Sufyan] mereka semua dari [Al A'masy] melalui jalur Jarir di dalam Hadits Husyaim dan Syu'bah dengan lafazh; 'beliau mengusap dengan tangannya.' Sedangkan di dalam Hadits Ats Tsauri dengan lafazh; 'beliau mengusap dengan tangan kanannya. Dan di akhir Hadits Yahya dari Sufyan dari Al A'masy dia berkata; lalu Aku menanyakannya kepada [Manshur] lalu dia menceritakan kepadaku dari [Ibrahim] dari Masruq dari Aisyah dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5707</td></tr><tr><td>Arabic No</td><td>2191.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5707</td></tr><tr><td>Arabic No</td><td>2191.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 61</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Jabir b. 'Abdullah who said:I heard the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Abdullah] dan [Hajjaj bin As Sya'ir] keduanya berkata; telah menceritakan kepada kami [Hajjaj bin Muhammad] dia berkata; [Ibnu Juraij] berkata; telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia pernah mendengar [Jabir bin Abdullah] berkata, "Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Senantiasa ada sekelompok dari ummatku yang selalu menang memperjuangkan kebenaran sampai hari Kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4954</td></tr><tr><td>Arabic No</td><td>1923</td></tr><tr><td>Reference</td><td>Book 33 Hadith 249</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4954</td></tr><tr><td>Arabic No</td><td>1923</td></tr><tr><td>Reference</td><td>Book 33 Hadith 249</td></tr></tbody></table></div>
 

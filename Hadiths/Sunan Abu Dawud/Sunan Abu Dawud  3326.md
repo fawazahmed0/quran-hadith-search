@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qays ibn AbuGharazah: In the time of the Messenger of Allah (ﷺ) we us
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Wail] dari [Qais bin Abu Gharazah], ia berkata; kami pada zaman Rasulullah shallallahu 'alaihi wasallam diberi nama para calo, kemudian Rasulullah shallallahu 'alaihi wasallam lewat di hadapan kami, dan menamai kami dengan nama yang lebih baik darinya. Beliau mengatakan: "Wahai para pedagang, sesungguhnya dalam transksi jual beli itu diwarnai tindakan sia-sia dan pengucapan sumpah, maka bersihkanlah jual beli tersebut dengan bersedekah!" telah menceritakan kepada kami [Al Husain bin Isa Al Bisthami], dan [Hamid bin Yahya], serta [Abdullah bin Muhammad Az Zuhri], mereka mengatakan; telah menceritakan kepada kami [Sufyan], dari [Jami' bin Abu Rasyid], [Abdul Malik bin A'yan] dan ['Ashim] dari [Abu Wail] dari [Qais bin Abu Gharazah] dengan makna hadits tersebut, ia berkata; dihadiri ucapan dusta dan sumpah. Abdullah Az Zuhri mengatakan; perbuatan sia-sia dan ucapan dusta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3326</td></tr><tr><td>Arabic No</td><td>3326</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Къайс ибн Абу Гъараза, да будет доволен им Аллах, сказал: «При жизни Посланника Аллаха, нас называли посредниками в торговле /ас-самасира/, и (однажды) Посланник Аллаха ﷺ проходил мимо нас и назвал нас более лучшим именем, чем это, сказав: “О торговцы, поистине, торговля сопровождается пустословием и клятвами, так смешайте же её с садакой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3326</td></tr><tr><td>Arabic No</td><td>3326</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
 

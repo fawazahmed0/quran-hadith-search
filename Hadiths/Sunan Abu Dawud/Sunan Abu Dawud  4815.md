@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa'id al-Khudri reported the Messenger of Allah (ﷺ) as saying :Avoid sitti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] berkata, telah menceritakan kepada kami [Abdul Aziz] -maksudnya Abdul Aziz bin Muhammad- dari [Zaid] -maksudnya Zaid bin Aslam dari [Atha bin Yasar] dari [Abu Sa'id Al Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jauhilah oleh kalian duduk-duduk di pinggir jalan." Para sahabat bertanya, "Wahai Rasulullah, kami duduk di sana hanya untuk berbincang-bincang?" Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Jika kalian enggan meninggalkan tempat itu, maka berilah haknya." Para sahabat bertanya, "Wahai Rasulullah, apa haknya jalan?" beliau menjawab: "Menundukkan pandangan, tidak menyakiti orang lain, menjawab salam, dan melaksanakan amar ma'ruf dan nahi munkar." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Bisyr] -maksudnya Bisyr bin Al Mufadhdhal- berkata, telah menceritakan kepada kami ['Abdurrahman bin Ishaq] dari [Sa'id Al maqburi] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam tentang kisah tersebut. Beliau bersabda: "Memberi petunjuk orang yang tersesat." Telah menceritakan kepada kami [Al Hasan bin Isa An Naisaburi] berkata, telah mengabarkan kepada kami [Ibnul Mubarak] berkata, telah mengabarkan kepada kami [Jarir bin Hazim] dari [Ishaq bin Suwaid] dari [Ibnu Hujair Al Adawi] ia berkata, "Aku mendengar [Umar Ibnul Khaththab], dari Nabi shallallahu 'alaihi wasallam tentang kisah tersebut. Beliau bersabda: "Memberi pertolongan orang yang teraniaya dan memberi petunjuk orang yang tersesat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2465) Sahih Muslim (2121)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4815</td></tr><tr><td>Arabic No</td><td>4815</td></tr><tr><td>Reference</td><td>Book 43 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри что (однажды) Пророк ﷺ сказал: «Ни в коем случае не следует вам сидеть на дорогах!» (Люди) сказали: «Но мы обязательно должны (делать это), ведь там мы (собираемся и) беседуем (друг с другом)!» Тогда Посланник Аллаха ﷺ сказал: «Если уж вам непременно нужно (собираться там, то по крайней мере) воздавайте дороге должное!» (Люди) спросили: «А что значит воздавать должное дороге?» Он ответил: «(Это значит) потуплять взоры, (никому) не причинять вреда, отвечать на приветствия, побуждать к одобряемому и удерживать от порицаемого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2465) Sahih Muslim (2121)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4815</td></tr><tr><td>Arabic No</td><td>4815</td></tr><tr><td>Reference</td><td>Book 43 Hadith 43</td></tr></tbody></table></div>
 

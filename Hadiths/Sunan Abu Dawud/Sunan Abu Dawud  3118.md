@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah: When the Messenger of Allah (ﷺ) entered upon Abu Salamah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Habib Abu Marwan], telah menceritakan kepada kami [Abu Ishaq Al Al Fazari], dari [Khalid Al Hadzdza'] dari [Abu Qilabah] dari [Qabishah bin Dzuaib] dari [Ummu Salamah] ia berkata; Rasulullah shallallahu 'alaihi wasallam menemui Abu Salamah sementara ia telah mengangkat matanya, kemudian memejamkannya, dan orang-orang dari keluarganya meneriakinya (menjerit atas kematiannya). Kemudian beliau berkata: "Janganlah kalian mendoakan atas diri kalian kecuali dengan kebaikan. Sesungguhnya para malaikat mengamini apa yang kalian ucapkan." Kemudian beliau berkata: "Ya Allah, ampunilah Abu Salamah, dan angkatlah derajatnya diantara orang-orang yang mendapatkan petunjuk, dan berilah ganti pada keluarganya diantara yang tersisa, dan ampunilah kami dan dirinya wahai Tuhan semesta alam. Ya Allah, lapangkanlah kuburnya dan terangilah dia di dalamnya." Abu Daud berkata; memejamkan mata orang yang meninggal adalah setelah nyawanya keluar. Aku mendengar Muhammad bin Muhammad bin An Nu'man Al Muqri berkata; aku mendengar Abu Maisarah yaitu orang yang ahli ibadah berkata; aku pejamkan mata Ja'far Al Mu'allim, dan ia adalah orang yang ahli ibadah tatkala ia meninggal, lalu aku melihatnya dalam tidurku pada malam ketika meninggal, ia berkata; sesungguhnya sesuatu yang paling berat bagiku adalah engkau memejamkan mataku sebelum aku meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (920)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3118</td></tr><tr><td>Arabic No</td><td>3118</td></tr><tr><td>Reference</td><td>Book 21 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Умм Салямы, да будет доволен ею Аллах, что Посланник Аллаха ﷺ вошёл к Абу Саляме, когда взор того уже угас. Он закрыл ему глаза (,чтобы вид его с застывшим взором не внушал людям отвращения и не производил на них неприятного впечатления). Близкие покойного стали громко причитать, и тогда (Посланник Аллаха ﷺ) сказал: «Не призывайте на себя ничего, кроме блага, ибо, поистине, после любых ваших слов ангелы станут говорить “Амин”». А потом он сказал: «О Аллах, прости Абу Саляме, и возвысь степень его среди ведомых правильным путём, и стань его преемником для тех, кто останется после него, и прости нас и его, о Господь миров, и сделай просторной для него его могилу, и освети её для него!» /Аллахумма-гфир ли-Аби Саляма, ва-рфа‘ дараджата-ху фи-ль-махдиййина, ва-хлюф-ху фи ‘акыби-хи фи-ль-габирина, ва-гфир ля-на ва ля-ху, йа Рабба-ль-‘алямина, ва-фсах ля-ху фи кабри-хи, ва наввир ля-ху фи-хи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (920)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3118</td></tr><tr><td>Arabic No</td><td>3118</td></tr><tr><td>Reference</td><td>Book 21 Hadith 30</td></tr></tbody></table></div>
 

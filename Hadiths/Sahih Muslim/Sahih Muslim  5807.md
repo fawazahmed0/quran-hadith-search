@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar b. Muhammad b. Zaid reported that he heard his father narrating from Ibn 'U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ahmad bin 'Abdullah bin Al Hakam]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari ['Umar bin Muhammad bin Zaid] bahwa dia mendengar [Bapaknya] bercerita; dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Kalau memang pengaruh jahat (kecelakaan atau kesialan) benar maka yang pasti hal itu kadang terjadi pada pada kuda, dalam diri wanita dan dalam rumah tangga." Dan Telah menceritakan kepadaku [Harun bin Abdullah] Telah menceritakan kepada kami [Rauh bin Ubadah] Telah menceritakan kepada kami [Syu'bah] melalui jalur ini dengan Hadits yang serupa. Namun dia tidak menyebutkan lafazh 'Haqqun' (benar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5807</td></tr><tr><td>Arabic No</td><td>2225.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5807</td></tr><tr><td>Arabic No</td><td>2225.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 159</td></tr></tbody></table></div>
 

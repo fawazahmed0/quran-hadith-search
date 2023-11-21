@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: The family of Muhammad did not eat their fill for three su
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Isa] Telah menceritakan kepada kami [Muhamamd bin Fudlail] dari [bapaknya] dari [Abu Hazim] dari [Abu Hurairah] ia berkata; "Keluarga Nabi Muhammad shallallahu 'alaihi wasallam tidak pernah kenyang dengan makanan selama tiga hari, hingga beliau wafat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5374</td></tr><tr><td>Arabic No</td><td>5374</td></tr><tr><td>Reference</td><td>Book 70 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Семья Мухаммада ﷺ не ела досыта три дня (подряд) до самой его смерти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5374</td></tr><tr><td>Arabic No</td><td>5374</td></tr><tr><td>Reference</td><td>Book 70 Hadith 2</td></tr></tbody></table></div>
 

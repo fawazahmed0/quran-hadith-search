@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A bedouin came to the Prophet (ﷺ) and said, "You (people) kiss
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Hisyam] dari ['Urwah] dari ['Aisyah] radliallahu 'anha dia berkata; "Seorang Arab Badui datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; "Kalian menciumi anak-anak kalian, padahal kami tidak pernah menciumi anak-anak kami." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Apakah aku memiliki apa yang telah Allah hilangkan dari hatimu berupa sikap kasih sayang?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5998</td></tr><tr><td>Arabic No</td><td>5998</td></tr><tr><td>Reference</td><td>Book 78 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) к Пророку ﷺ явился какой-то бедуин, который сказал: “Так вы целуете своих сыновей? А мы не целуем их”. (На это) Пророк ﷺ сказал: “Что же я могу сделать, если Аллах лишил твоё сердце милосердия?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5998</td></tr><tr><td>Arabic No</td><td>5998</td></tr><tr><td>Reference</td><td>Book 78 Hadith 29</td></tr></tbody></table></div>
 

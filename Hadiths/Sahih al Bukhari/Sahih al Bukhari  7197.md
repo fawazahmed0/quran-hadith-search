@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Humaid As-Sa'idi:The Prophet (ﷺ) employed Ibn Al-Utbiyya to colle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] Telah mengabarkan kepada kami ['Abdah] telah menceritakan kepada kami [Hisyam bin Urwah] dari [ayahnya] dari [Abu humaid as Sa'idi], bahwa Nabi shallallahu 'alaihi wasallam pernah mempekerjakan Ibnul Atabiyah untuk menghimpun sedekah bani Sulaim. Tatkala ia mendatangi Rasulullah shallallahu 'alaihi wasallam dan Rasulullah mengevaluasinya, ia mengatakan; 'Ini bagian untukmu dan ini hadiah untukku.' Spontan Rasulullah Shallallahu'alaihiwasallam bersabda: "tidakkah jika engkau duduk saja di rumah ayahmu dan rumah ibumu, maka apakah akan datang hadiahmu kepadamu jika memang engkau jujur." kemudian Rasulullah Shallallahu'alaihiwasallam berdiri dan berpidato kepada manusia, beliau memuja dan memuji Allah, kemudian mengatakan: 'Amma ba'du. Sesungguhnya saya mempekerjakan beberapa orang diantara kalian untuk urusan yang Allah menguasakannya kepada saya, lantas salah seorang diantara kalian mengatakan ini bagian untukmu dan ini hadiah untukku. tidakkah jika dia duduk saja di rumah ayahnya dan rumah ibunya, maka apakah akan datang hadiahnya kepadanya jika memang dia juju… Demi Allah, tidaklah salah seorang diantara kalian mengambil sesuatu yang bukan haknya, melainkan ia menghadap Allah dengan memikul barang yang diambilnya, ketahuilah, aku tahu ada seseorang yang menghadap Allah dengan memikul untanya yang mendengus, ada yang memikul sapinya yang melenguh, ada yang memikul kambingnya yang mengembik." kemudian beliau mengangkat kedua tangannya sehingga terlihat putih kedua ketiaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7197</td></tr><tr><td>Arabic No</td><td>7197</td></tr><tr><td>Reference</td><td>Book 93 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хумайд ас-Са‘иди, да будет доволен им Аллах, передаёт, что Пророк ﷺ поручил Ибн аль-Утбийе заняться сбором закята (в племени) бану сулайм. Вернувшись к Посланнику Аллаха ﷺ он требовал с него отчёта. (Абу Хумайд) сказал: “Это — вам, а это — подарок, который был подарен мне”. [Услышав это], Посланник Аллаха ﷺ сказал: «Почему же ты не остался сидеть в доме своего отца и своей матери, [дожидаясь], пока тебе не принесут этот подарок, если ты говоришь правду?» Потом Посланник Аллаха ﷺ встал, обратился к людям с проповедью. Он воздал хвалу Аллаху, восславил его, а потом сказал: «А затем, поистине, я назначаю некоторых из вас заниматься тем делом, которое поручил мне Аллах, а потом один из вас приходит и говорит: «Это — вам, а это — подарок, который мне преподнесли». Почему же он не остался сидеть в доме своего отца и своей матери, [дожидаясь], пока ему не принесут этот подарок, если он говорит правду? Клянусь Аллахом, если кто-нибудь из вас возьмёт себе хоть что-то из этого (Хишам сказал: “...без права”), в День воскресения он непременно встретит Аллаха, таща это (на себе)! Поистине, ни за что не признаю я того человека, который явится к Аллаху с ревущим верблюдом или с мычащей коровой или с блеющей овцой!» После этого (Пророк ﷺ) воздел руки (к небу, подняв их так высоко), что я увидел белизну его подмышек, (и сказал:) “Довёл ли я?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7197</td></tr><tr><td>Arabic No</td><td>7197</td></tr><tr><td>Reference</td><td>Book 93 Hadith 58</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah be pleased with him) reported:Mention was made about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar Al Qawariri] dan [Ahmad bin 'Abdah] -Ibnu Abdah berkata; Telah mengkhabarkan kepada kami, sedangkan [Ubaidullah] berkata; Telah menceritakan kepada kami [Sufyan bin Uyainah] - dari [Ibnu Abi Najih] dari [Mujahid] dari [Qaza'ah] dari [Abu Sa'id Al Khudri] dia berkata; Masalah Azl pernah dibicarakan di hadapan Rasulullah shallallahu 'alaihi wasallam, lantas beliau bersabda: "Kenapa salah seorang dari kalian melakukan hal itu?" -beliau tidak bersabda: "Janganlah salah seorang dari kalian melakukan hal itu"- sesungguhnya tidak ada jiwa yang telah diciptakan melainkan Allah Azza wa Jalla-lah Penciptanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3553</td></tr><tr><td>Arabic No</td><td>1438.10</td></tr><tr><td>Reference</td><td>Book 16 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3553</td></tr><tr><td>Arabic No</td><td>1438.10</td></tr><tr><td>Reference</td><td>Book 16 Hadith 155</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The people used to trade, in the beginning, at Mina
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Basysyar] telah menceritakan kepada Kami [Hammad bin Mas'adah], telah menceritakan kepada Kami [Ibnu Abu Dzi'bin] dari ['Atha' bin Abu Rabah] dari ['Ubaid bin 'Umair] dari [Abdullah bin Abbas] bahwa orang-orang ketika perkatama kali melakukan haji mereka tidak berjual beli di Mina serta 'Arafah dan pasar Dzul Majaz, serta pada musim-musim haji. Mereka khawatir berjual beli sementara mereka sedang berihram. Kemudian Allah menurunkan ayat: "Tidak ada dosa bagimu untuk mencari karunia (rezki hasil perniagaan) dari Tuhanmu, " Pada Musim-musim haji. Ia berkata; telah menceritakan kepadaku 'Ubaid bin 'Umair bahwa ia membaca ayat tersebut di dalam mushhaf. Telah menceritakan kepada Kami [Ahmad bin Shalih], telah menceritakan kepada Kami [Ibnu Abu Fudaik], telah mengabarkan kepada Kami [Ibnu Abu Dzi'b] dari ['Ubaid bin 'Umair]. Ahmad bin Shalih mengatakan sebuah perkataan yang maknanya bahwa ia adalah mantan budak Ibnu Abbas dari [Abdullah bin Abbas] bahwa pertama kali haji mereka berjual beli, …… -kemudian ia menyebutkan secara makna hingga perkataannya; dan musim-musim haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1734</td></tr><tr><td>Arabic No</td><td>1734</td></tr><tr><td>Reference</td><td>Book 11 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что вначале люди во время хаджа занимались торговлей в Мине и на Арафате, устраивали ярмарку в Зу-ль-Маджазе (место близ Арафата). Сначала они торговали в сезон хаджа, а потом стали опасаться, что ихрам и торговля несовместимы. Тогда Всевышний Аллах ниспослал: «На вас нет греха, если вы ищете добавление от своего Господа» (сура «аль-Бакара», аят 198), то есть в сезон хаджа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1734</td></tr><tr><td>Arabic No</td><td>1734</td></tr><tr><td>Reference</td><td>Book 11 Hadith 14</td></tr></tbody></table></div>
 

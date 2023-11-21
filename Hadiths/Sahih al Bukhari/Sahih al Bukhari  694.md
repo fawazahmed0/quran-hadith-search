@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If the Imam leads the prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Fadll bin Sahal] berkata, telah menceritakan kepada kami [Al Hasan bin Musa Al Asyyab] berkata, telah menceritakan kepada kami ['Abdurrahman bin 'Abdullah bin Dinar] dari [Zaid bin Aslam] dari ['Atha bin Yasar] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Para imam shalat memimpin kalian. Maka jika dia benar, mereka mendapat pahala dan kalian juga mendapatkan bagian pahalanya. Namun bila dia salah kalian tetap mendapatkan pahala dan mereka mendapatkan dosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>694</td></tr><tr><td>Arabic No</td><td>694</td></tr><tr><td>Reference</td><td>Book 10 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «(Ваши имамы) совершают намазы для вас, и если они (всё) делают правильно, вам (достаётся награда), если же они ошибаются, то вам (всё равно достаётся награда), но (это оборачивается) против них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>694</td></tr><tr><td>Arabic No</td><td>694</td></tr><tr><td>Reference</td><td>Book 10 Hadith 89</td></tr></tbody></table></div>
 

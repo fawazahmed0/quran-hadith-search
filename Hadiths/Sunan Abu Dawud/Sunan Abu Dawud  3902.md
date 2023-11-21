@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A'ishah:the wife of Prophet (ﷺ) said: When the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari ['Urwah] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, bahwa Rasulullah shallallahu 'alaihi wasallam apabila sakit maka beliau membacakan surat-surat mu'awwidzat (minta perlindungan) dan meniupkannya. Ketika sakit beliau semakin keras, maka aku yang membacakan kepada beliau dan aku usapkan kepadanya dengan tangan beliau, dengan harapan mendapatkan berkahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5016) Sahih Muslim (2192)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3902</td></tr><tr><td>Arabic No</td><td>3902</td></tr><tr><td>Reference</td><td>Book 29 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, передаёт: «Когда Посланник Аллаха ﷺ заболевал, он читал для себя защитные суры, поплёвывая, а когда его болезнь усилилась, я читала для него эти суры и протирала его тело его же рукой, надеясь на её благодать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5016) Sahih Muslim (2192)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3902</td></tr><tr><td>Arabic No</td><td>3902</td></tr><tr><td>Reference</td><td>Book 29 Hadith 48</td></tr></tbody></table></div>
 

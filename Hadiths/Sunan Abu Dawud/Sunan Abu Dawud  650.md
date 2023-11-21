@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: While the Messenger of Allah (ﷺ) was leading his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad bin Salamah] dari [Abu Na'amah As-Sa'di] dari [Abu Nadlrah] dari [Abu Sa'id Al-Khudri] dia berkata; Tatkala Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat bersama para sahabatnya, tiba tiba beliau melepaskan kedua sandalnya lalu meletakkannya di sebelah kirinya. Sewaktu para sahabat melihat tindakan beliau tersebut, mereka ikut pula melepas sandal mereka. Maka tatkala Rasulullah shallallahu 'alaihi wasallam selesai shalat, beliau bersabda: "Apa gerangan yang membuat kalian melepas sandal sandal kalian?" Mereka menjawab; Kami melihat engkau melepas sandal, sehingga kami pun melepaskan sandal sandal kami. Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Malaikat Jibril 'Alaihis Salam telah datang kepadaku, lalu memberitahukan kepadaku bahwa di sepasang sandal itu ada najisnya." Selanjutnya beliau bersabda: "Apabila salah seorang di antara kalian datang ke masjid, maka perhatikanlah, jika dia melihat di sepasang sandalnya terdapat najis atau kotoran maka bersihkan, dan shalatlah dengan sepasang sandalnya itu." Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Aban] telah menceritakan kepada kami [Qatadah] telah menceritakan kepadaku [Bakr bin Abdullah] dari Nabi shallallahu 'alaihi wasallam seperti Hadits ini, beliau bersabda: "Pada keduanya terdapat kotoran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>650</td></tr><tr><td>Arabic No</td><td>650</td></tr><tr><td>Reference</td><td>Book 2 Hadith 260</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «Однажды, когда Посланник Аллаха ﷺ совершал молитву со своими сподвижниками, он снял свои сандалии и поставил их слева от себя. Когда это увидели люди (стоявшие за ним), они также сняли свои сандалии. Закончив молитву, Посланник Аллаха ﷺ спросил: “Почему вы сняли свои сандалии?”. Они сказали: “Мы увидели, что ты снял свои сандалии и поэтому мы сняли свои”.Посланник Аллаха ﷺ сказал: “Поистине, ко мне явился Джибриль ﷺ и сообщил, что на них были нечистоты”. (Также) он сказал: “Когда кто-нибудь из вас придёт в мечеть, пусть осмотрит (подошвы) своих сандалий, а если найдёт на них какую-то нечистоту или грязь, пусть вытирает их (о землю) и затем помолится в них”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>650</td></tr><tr><td>Arabic No</td><td>650</td></tr><tr><td>Reference</td><td>Book 2 Hadith 260</td></tr></tbody></table></div>
 

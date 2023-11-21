@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Ibn 'Amr who said:The Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] serta [Ibnu Numair] semuanya dari [Sufyan], [Zuhair] berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru] dari [Abu Al Abbas Asy Sya'ir Al A'ma] dari [Abdullah bin 'Amru] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mengepung penduduk Tha'if, namun beliau tidak mendapatkan sesuatupun dari mereka." Lalu beliau bersabda: "Insya Allah besok kita akan kembali pulang." Para sahabat bertanya, "Apakah kita akan kembali padahal kita belum menaklukkan sesuatu pun?" Rasulullah shallallahu 'alaihi wasallam bersabda kepada mereka: "Kalau begitu, pergilah kalian besok pagi untuk memerangi mereka." Keesokan harinya mereka berangkat perang sehingga mereka banyak yang terluka. Lantas Rasulullah shallallahu 'alaihi wasallam bersabda kepada mereka: "Besok kita akan kembali pulang." Abdullah bin 'Amru berkata, "Merekapun merasa heran dengan hal itu. Kemudian Rasulullah shallallahu 'alaihi wasallam tertawa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>1778</td></tr><tr><td>Reference</td><td>Book 32 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>1778</td></tr><tr><td>Reference</td><td>Book 32 Hadith 102</td></tr></tbody></table></div>
 

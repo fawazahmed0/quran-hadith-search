@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:That his father said, "When 'Umar was stabbed, Suhaib started
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Khalil] telah menceritakan kepada kami ['Ali bin Mushir] telah menceritakan kepada kami [Abu Ishaq] dia adalah dari suku Asy-Syaibaniy dari [Abu Burdah] dari [bapaknya] berkata; Ketika 'Umar radliallahu 'anhu terbunuh Shuhaib berkata, sambil menangis: "Wahai saudaraku". Maka ['Umar radliallahu 'anhu] berkata,: Bukankah kamu mengetahui bahwa Nabi Shallallahu'alaihiwasallam telah bersabda "Sesungguhnya mayat pasti akan disiksa disebabkan tangisan orang yang masih hidup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1290</td></tr><tr><td>Arabic No</td><td>1290</td></tr><tr><td>Reference</td><td>Book 23 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бурда передал, что его отец сказал: «Когда ‘Умар был ранен, Сухайб начал говорить: “О, мой брат!” Тогда ‘Умар сказал: “Разве ты не знаешь, что Пророк да благословит его Аллах и приветствует, сказал: “Поистине, умершего подвергают мучениям за плач живых“?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1290</td></tr><tr><td>Arabic No</td><td>1290</td></tr><tr><td>Reference</td><td>Book 23 Hadith 48</td></tr></tbody></table></div>
 

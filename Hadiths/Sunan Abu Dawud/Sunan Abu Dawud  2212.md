@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet(ﷺ) as saying Abraham(peace be upon him) neve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], telah menceritakan kepada kami [Abdul Wahhab], telah menceritakan kepada kami [Hisyam] dari [Muhammad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bahwa Ibrahim shallallahu 'alaihi wasallam tidak berdusta kecuali tiga hal, dua hal mengenai Dzat Allah ta'ala, perkataannya; sesungguhnya kau sakit, dan perkataannya; melainkan yang melakukannya adalah berhala yang besar diantara mereka, dan ketika ia berjalan di Negeri yang dipimpin oleh orang yang otoriter ketika ia singgah di suatu tempat kemudian ia dihadapkan kepada penguasa yang otoriter tersebut dan dikatakan kepada penguasa tersebut; sesungguhnya telah singgah di sini seorang laki-laki bersama seorang wanita yang paling cantik. Beliau bersabda: "Kemudian penguasa tersebut mengirim utusan kepadanya dan bertanya mengenai wanita tersebut. Lalu Ibrahim berkata; sesungguhnya ia adalah saudariku. Kemudian tatkala Ibrahim kembali kepada isterinya ia berkata; sesungguhnya penguasa ini bertanya kepadaku mengenai dirimu, kemudian aku beritahukan kepada mereka bahwa engkau adalah saudariku. Sesungguhnya pada hari ini tidak ada seorang muslim pun kecuali aku dan engkau, dan engkau adalah saudariku dalam kitab Allah, maka janganlah engkau dustakan aku di hadapannya!" kemudian Muhammad bin Al Mutsanna menyebutkan hadits tersebut. Abu Daud berkata; khabar ini diriwayatkan oleh [Syu'aib bin Abu Hamzah] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2212</td></tr><tr><td>Arabic No</td><td>2212</td></tr><tr><td>Reference</td><td>Book 13 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Ибрахим, мир ему, никогда не лгал, за исключением трёх случаев, причём в двух случаях он делал это ради Всевышнего Аллаха. В первый раз он сказал: “Поистине, я болен” (сура 37 «ас-Саффат», аят 89), а во второй раз сказал: “Нет, сделал это старший из них, вот этот…” (сура 21 «аль-Анбийа‘», аят 63). А когда Ибрахим с Сарой переселялись, он пришёл в землю одного из тиранов и остановился там. Этому тирану сказали: “Здесь находится какой-то человек с одной из прекраснейших женщин”. Тогда он послал к Ибрахиму человека, чтобы спросить о Саре: “Кто она?” Он ответил: “Это моя сестра”, а потом пришёл к Саре и сказал: “Этот царь спрашивал меня о тебе, и я сказал ему, что ты моя сестра. Нет сейчас иных покорных Господу, кроме меня и тебя, и ты моя сестра в Писании Аллаха, не опровергай же перед ним сказанного мною!”» И он привёл хадис полностью
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2212</td></tr><tr><td>Arabic No</td><td>2212</td></tr><tr><td>Reference</td><td>Book 13 Hadith 38</td></tr></tbody></table></div>
 

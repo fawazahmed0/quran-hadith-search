@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Husain:I offered the prayer with 'Ali in Basra and he made u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq Al Wasithi] berkata, telah menceritakan kepada kami [Khalid] dari [Al Jurairi] dari [Abu Al A'la] dari [Mutharrif] dari ['Imran bin Hushain] berkata, "Dia shalat bersama 'Ali? radliallahu 'anhu di Bashrah. Lalu ia berkata, "Orang ini mengingatkan kami tentang shalat yang kami lakukan bersama Rasulullah shallallahu 'alaihi wasallam. Dia menyebutkan bahwa Beliau bertakbir setiap mengangkat tangan dan setiap menurunkan tangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>784</td></tr><tr><td>Arabic No</td><td>784</td></tr><tr><td>Reference</td><td>Book 10 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Имрана ибн Хусайна, что он совершил молитву в Басре вместе с ‘Али, да будет доволен им Аллах, затем сказал: «Этот человек напомнил нам молитву, которую мы совершали вместе с посланником Аллаха ﷺ». И он (‘Имран ибн Хусайн) упомянул, что он говорил: «Аллаху акбар» каждый раз, когда поднимался и опускался
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>784</td></tr><tr><td>Arabic No</td><td>784</td></tr><tr><td>Reference</td><td>Book 10 Hadith 179</td></tr></tbody></table></div>
 

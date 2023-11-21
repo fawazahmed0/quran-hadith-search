@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet; said, "The people of Paradise will enter Paradis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ayahku] dari [Shalih] telah menceritakan kepada kami [Nafi'] dari [Ibnu 'Umar] radliallahu 'anhuma, dari Nabi Shallallahu'alaihiwasallam, beliau bersabda: "Ketika penghuni surga telah memasuki surga, dan penghuni neraka telah memasuki neraka, seorang juru seru menyampaikan pengumuman; 'Hai penghuni neraka, sekarang tak ada lagi kematian, wahai penghuni surga, sekarang tak ada lagi kematian, yang ada hanyalah kehidupan abadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6544</td></tr><tr><td>Arabic No</td><td>6544</td></tr><tr><td>Reference</td><td>Book 81 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «После того как обитатели Рая окажутся в Раю, а обитатели Огня — в Огне, глашатай встанет между ними и возгласит: “О обитатели Огня, смерти (больше) нет! О обитатели Рая, смерти (больше) нет, только вечность!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6544</td></tr><tr><td>Arabic No</td><td>6544</td></tr><tr><td>Reference</td><td>Book 81 Hadith 133</td></tr></tbody></table></div>
 

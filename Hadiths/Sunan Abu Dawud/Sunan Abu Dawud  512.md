@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Zayd: The Prophet (ﷺ) intended to do many things for cal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Hammad bin Khalid] telah menceritakan kepada kami [Muhammad bin Amru] dari [Muhammad bin Abdullah] dari [Pamannya, Abdullah bin Zaid] dia berkata; Nabi shallallahu 'alaihi wasallam hendak menentukan kalimat adzan dengan beberapa alternatif, yang akhirnya beliau tidak melakukan sesuatu pun. Dia (Muhammad bin Abdullah) berkata; Lalu Abdullah bin Zaid diperlihatkan tentang kalimat-kalimat adzan dalam mimpi, kemudian dia mendatangi Nabi shallallahu 'alaihi wasallam dan mengabarkan kepada beliau tentang mimpinya tersebut. Maka beliau bersabda: "Ajarkanlah kepada Bilal." Maka Dia pun mengajarkannya dan Bilal pun mengumandangkan adzan dengannya. Kemudian Abdullah berkata; Saya yang melihatnya dalam mimpi, dan saya ingin mengumandangkannya. Maka beliau bersabda: "Kalau begitu kumandangkanlah iqamat." Telah menceritakan kepada kami [Ubaidullah bin Umar Al-Qawariri] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Muhammad bin Amru] seorang syaikh dari penduduk Madinah dari kalangan Anshar, dia berkata; Saya telah mendengar [Abdullah bin Muhammad] berkata; [Kakekku, Abdullah bin Zaid] menceritakan hadits dengan lafazh ini. Dia berkata; Maka kakekku mengumandangkan adzan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>512</td></tr><tr><td>Arabic No</td><td>512</td></tr><tr><td>Reference</td><td>Book 2 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мухаммада ибн ‘Абдуллаха о том, что его дядя со стороны отца, ‘Абдуллах ибн Зейд, сказал: «Пророк ﷺ намеревался использовать для призыва людей на молитву разные вещи, однако не использовал ни одну из них».(Мухаммад ибн ‘Абдуллах) сказал: «И азан был показан ‘Абдуллаху ибн Зейду во сне и он явившись к Пророку ﷺ поведал ему об этом, и он сказал: “Научи этому Биляля”. И он научил этому Биляля и Билял возвестил азан. ‘Абдуллах же сказал: “Я увидел его и я бы хотел его возвещать”. (Но) он сказал: “А ты произноси икаму”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>512</td></tr><tr><td>Arabic No</td><td>512</td></tr><tr><td>Reference</td><td>Book 2 Hadith 122</td></tr></tbody></table></div>
 

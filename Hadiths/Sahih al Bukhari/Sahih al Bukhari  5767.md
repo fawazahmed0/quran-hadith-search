@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Two men came from the East and addressed the people
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Zaid bin Aslam] dari [Abdullah bin Umar] radliallahu 'anhuma bahwa dua orang dari penduduk Masyriq datang kepadanya, lalu keduanya berkhutbah hingga orang-orang heran dengan penjelasannya, lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya dalam penjelasan (bayan) itu mengandung sihir, atau sesungguhnya sebagian bayan (penjelasan) itu mengandung sihir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5767</td></tr><tr><td>Arabic No</td><td>5767</td></tr><tr><td>Reference</td><td>Book 76 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что (как-то раз) с востока пришли два человека, обратившиеся со своими речами к людям, которым понравилась красота этих речей, и тогда Посланник Аллаха ﷺ сказал: «Поистине, красноречие может оказывать такое же воздействие, как и колдовство! (или: В чём-то красноречие является не чем иным, как колдовством!)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5767</td></tr><tr><td>Arabic No</td><td>5767</td></tr><tr><td>Reference</td><td>Book 76 Hadith 81</td></tr></tbody></table></div>
 

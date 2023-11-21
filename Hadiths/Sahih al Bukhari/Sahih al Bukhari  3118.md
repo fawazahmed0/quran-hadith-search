@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khaula Al-Ansariya:I heard Allah's Messenger (ﷺ) saying, "Some people
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yazid] telah bercerita kepada kami telah bercerita kepada kami [Sa'id bin Abi Ayyub] berkata telah bercerita kepadaku [Abu Al Aswad] dari [Ibnu Abi 'Ayyasy, yang namanya Nu'man] dari [Khaulah Al Anshariyyah radliallahu 'anhu] berkata; "Aku mendengar Nabi Shallallahu'alaihiwasallam bersabda: "Sesungguhnya ada orang-orang yang mendistribusikan harta Allah dengan jalan yang tidak benar, maka bagi mereka neraka pada hari qiyamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3118</td></tr><tr><td>Arabic No</td><td>3118</td></tr><tr><td>Reference</td><td>Book 57 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хауля (бинт Самир) аль-Ансарийа, да будет доволен ею Аллах, сказала: «Я слышала, как Посланник Аллаха ﷺ говорил: “Поистине, есть люди, которые распоряжаются имуществом Аллаха неподобающим образом, но в День воскрешения им (достанется адский) Огонь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3118</td></tr><tr><td>Arabic No</td><td>3118</td></tr><tr><td>Reference</td><td>Book 57 Hadith 27</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar said, "While the Prophet (ﷺ) was on the pulpit, a man
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Bisyr bin Al Mufadldlal] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari ['Abdullah bin 'Umar] berkata, "Seorang laki-laki bertanya kepada Nabi shallallahu 'alaihi wasallam yang pada saat itu sedang di atas mimbar, "Bagaimana cara shalat malam?" Beliau menjawab: "Dua rakaat dua rakaat. Apabila dikhawatirkan masuk shubuh, maka shalatlah satu rakaat sebagai witir (penutup) bagi shalatnya sebelumnya." Ibnu 'Umar berkata, "Jadikanlah witir sebagai shalat terakhir kalian, karena Nabi shallallahu 'alaihi wasallam memerintahkan hal yang demikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>472</td></tr><tr><td>Arabic No</td><td>472</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Как-то раз) один человек спросил находившегося на минбаре Пророка ﷺ: “Что ты можешь сказать о ночной молитве?” Он ответил: “(Человеку, занятому такой молитвой,) следует совершать по два (рак‘ата), если же он станет опасаться, что скоро наступит утро, пусть совершит ещё один (рак‘ат), чтобы общее их количество стало нечётным”». (Сообщается также, что Ибн ‘Умар, да будет доволен им Аллах,) часто говорил: «Завершайте вашу ночную молитву одним рак‘атом, ибо, поистине, так велел поступать Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>472</td></tr><tr><td>Arabic No</td><td>472</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
 

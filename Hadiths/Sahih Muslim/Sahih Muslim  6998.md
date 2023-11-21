@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asma' reported that Allah's Apostle (ﷺ) said:There is none more self-respectin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] telah menceritakan kepada kami [Bisyr bin Al Mufadhdhal] dari [Hisyam] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari ['Urwah] dari [Asma'] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidak ada sesuatu yang lebih cemburu selain Allah Azza Wa Jalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6998</td></tr><tr><td>Arabic No</td><td>2762.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6998</td></tr><tr><td>Arabic No</td><td>2762.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 44</td></tr></tbody></table></div>
 

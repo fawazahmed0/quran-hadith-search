@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. al-Qasim reported on the authority of his father that he heard 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Sa'id bin Manshur] Telah menceritakan kepada kami [Sufyan] dari [Abdurrahman bin Al Qasim] dari [bapaknya] ia berkata, saya mendengar [Aisyah] berkata; "Dulu akulah yang mengalungkan tanda pada hewan kurban Rasulullah shallallahu 'alaihi wasallam dengan kedua tanganku ini. Sesudah itu, tidak lagi menjauhkan diri dari sesuatu (yang sebelumnya dilarang), dan tidak pula meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3197</td></tr><tr><td>Arabic No</td><td>1321.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 401</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3197</td></tr><tr><td>Arabic No</td><td>1321.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 401</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:During Hajjat-al-Wada', I perfumed Allah's Messenger (ﷺ) with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Haitsam] atau [Muhammad] dari [Ibnu Juraij] telah menceritakan kepadaku [Umar bin Abdullah bin Urwah] dia mendengar [Urwah] dan [Al Qasim] keduanya mengabarkan dari [Aisyah] dia berkata; "Saya pernah memberi minyak wangi dzarirah (sejenis minyak wangi) kepada Rasulullah shallallahu 'alaihi wasallam untuk tahallul dan ihramnya ketika haji wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5930</td></tr><tr><td>Arabic No</td><td>5930</td></tr><tr><td>Reference</td><td>Book 77 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Во время прощального паломничества я собственноручно умащала Посланника Аллаха ﷺ зарирой после того, как он выходил из состояния ихрама, и перед тем, как он надевал его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5930</td></tr><tr><td>Arabic No</td><td>5930</td></tr><tr><td>Reference</td><td>Book 77 Hadith 145</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Aiyub Al-Ansari:Allah's Messenger (ﷺ) said, "If anyone of you goe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] berkata, telah menceritakan kepada kami [Az Zuhri] dari ['Atha' bin Yazid Al Laitsi] dari [Abu Ayyub Al Anshari] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian masuk ke dalam WC untuk buang hajat, maka janganlah menghadap ke arah kiblat membelakanginya. Hendaklah ia menghadap ke arah timurnya atau baratnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Аййюб аль-Ансари, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Если кто-нибудь из вас станет справлять большую нужду (на открытом пространстве), пусть не обращается к кибле лицом и не поворачивается к ней спиной. Поворачивайтесь (лицом) к востоку или к западу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
 

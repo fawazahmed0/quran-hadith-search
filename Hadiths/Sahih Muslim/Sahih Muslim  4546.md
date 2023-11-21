@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Anas that the Messenger of Allah (ﷺ) said o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Hajjaj bin Sya'ir] telah menceritakan kepada kami [Abdush Shamad] telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Anas], bahwa Rasulullah shallallahu 'alaihi wasallam pernah berdoa saat terjadinya perang uhud: "Ya Allah, jika Engkau menghendaki (kemenangan atas orang kafir dan mengalahkan pasukan Islam) niscaya Engkau tidak di sembah di muka bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 32 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 32 Hadith 27</td></tr></tbody></table></div>
 

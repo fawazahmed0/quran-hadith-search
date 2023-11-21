@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba:The Prophet (ﷺ) said: "The stipulations most entitled to be abi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid Hisyam bin Abdul Malik] Telah menceritakan kepada kami [Laits] dari [Yazid bin Abu Habib] dari [Abul Khair] dari [Uqbah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Syarat yang paling berhak untuk kalian penuhi adalah, syarat yang dengannya farji dihalalkan (menikah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5151</td></tr><tr><td>Arabic No</td><td>5151</td></tr><tr><td>Reference</td><td>Book 67 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Укъбы, что Пророк ﷺ сказал: «Больше всего заслуживают соблюдения те условия, посредством которых вы делаете дозволенными для себя лона (половую близость)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5151</td></tr><tr><td>Arabic No</td><td>5151</td></tr><tr><td>Reference</td><td>Book 67 Hadith 86</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abi Qatada:My father said, "One night we were traveling w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Imran bin Maisarah] berkata, telah menceritakan kepada kami [Muhammad bin Fudlail] berkata, telah menceritakan kepada kami [Hushain] dari ['Abdullah bin Abu Qatadah] dari [Bapaknya] berkata, "Kami pernah berjalan bersama Nabi shallallahu 'alaihi wasallam pada suatu malam. Sebagian kaum lalu berkata, "Wahai Rasulullah, sekiranya Tuan mau istirahat sebentar bersama kami?" Beliau menjawab: "Aku khawatir kalian tertidur sehingga terlewatkan shalat." Bilal berkata, "Aku akan membangunkan kalian." Maka merekapun berbaring, sedangkan Bilal bersandar pada hewan tunggannganya, tapi rasa kantuknya mengalahkannya dan akhirnya iapun tertidur. Ketika Nabi shallallahu 'alaihi wasallam terbangun ternyata matahari sudah terbit, maka beliau pun bersabda: "Wahai Bilal, mana bukti yang kau ucapkan!" Bilal menjawab: "Aku belum pernah sekalipun merasakan kantuk seperti ini sebelumnya." Beliau lalu bersabda: "Sesungguhnya Allah Azza Wa Jalla memegang ruh-ruh kalian sesuai kehendak-Nya dan mengembalikannya kepada kalian sekehendak-Nya pula. Wahai Bilal, berdiri dan adzanlah (umumkan) kepada orang-orang untuk shalat!" kemudian beliau berwudlu, ketika matahari meninggi dan tampak sinar putihnya, beliau pun berdiri melaksanakan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>595</td></tr><tr><td>Arabic No</td><td>595</td></tr><tr><td>Reference</td><td>Book 9 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Абу Къатады о том, что его отец (Абу Катада), да будет доволен им Аллах, сказал: «Однажды ночью, когда мы находились в пути вместе с Пророком ﷺ некоторые люди стали говорить: “О Посланник Аллаха, может быть, ты отдохнёшь вместе с нами остаток ночи?” (В ответ им) он сказал: “Я боюсь, что вы проспите молитву”. Тогда Биляль пообещал: “Я разбужу вас”, после чего все улеглись, а Биляль прислонился спиной к своей верблюдице, однако его сморил сон. (Утром) Пророк ﷺ проснувшийся, когда край солнца уже показался над горизонтом, воскликнул: “О Биляль, где же обещанное тобой?!” Тот сказал: “Никогда ещё я не спал так (крепко)!” (Тогда Пророк ﷺ) сказал: “Поистине, Аллах забирает ваши души, когда пожелает, и возвращает их вам, когда пожелает! О Биляль, встань и призови людей к молитве!” — после чего он совершил омовение, а когда солнце уже полностью поднялось над горизонтом и засияло ярко, встал и совершил молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>595</td></tr><tr><td>Arabic No</td><td>595</td></tr><tr><td>Reference</td><td>Book 9 Hadith 70</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (p.b.u.h) used to teach us the way of d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami ['Abdurrahman bin Abu Al Mawaliy] dari [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdullah radliallahu 'anhua] berkata: "Rasulullah shallallahu 'alaihi wasallam mengajari kami shalat istikharah dalam setiap urusan yan kami hadapi sebagaimana Beliau mengajarkan kami AL Qur'an, yang Beliau shallallahu 'alaihi wasallam bersabda: "Jika seorang dari kalian menghadapi masalah maka ruku'lah (shalat) dua raka'at yang bukan shalat wajib kemudian berdo'alah: "Allahumma inniy astakhiiruka bi 'ilmika wa astaqdiruka biqudratika wa as-aluka min fadhlikal 'azhim, fainnaka taqdiru wa laa aqdiru wa ta'lamu wa laa 'Abdullah'lamu wa anta 'allaamul ghuyuub. Allahumma in kunta ta'lamu anna haadzal amru khairul liy fiy diiniy wa aku ma'aasyiy wa 'aafiyati amriy" atau; 'Aajili amriy wa aajilihi faqdurhu liy wa yassirhu liy tsumma baarik liy fiihi. Wa in kunta ta'lamu anna haadzal amru syarrul liy fiy diiniy wa ma'aasyiy wa 'aafiyati amriy" aw qaola; fiy 'aajili amriy wa aajilihi fashrifhu 'anniy washrifniy 'anhu waqdurliyl khaira haitsu kaana tsummar dhiniy". Beliau bersabda: Dan sebutlah keperluannya" (Ya Allah aku memohon pilihan kepadaMu dengan ilmuMu dan memohon kemampuan dengan kekuasaanMu dan memohon kepadaMu dengan karuniaMu yang Agung, karena Engkau Maha berkuasa sedang aku tidak berkuasa, Engkau Maha Mengetahui sedang aku tidak mengetahui karena Engkaulah yang Maha Mengetahui perkara yang ghoib. Ya Allah bila Engkau mengetahui bahwa urusan ini baik untukku, bagi agamaku, kehidupanku dan kesudahan urusanku ini atau Beliau bersabda; di waktu dekat atau di masa nanti maka takdirkanlah buatku dan mudahkanlah kemudian berikanlah berkah padanya. Namun sebaliknya, ya Allah bila Engkau mengetahui bahwa urusan ini buruk untukku, bagi agamaku, kehidupanku dan kesudahan urusanku ini atau Beliau bersabda; di waktu dekat atau di maa nanti maka jauhkanlah urusan dariku dan jauhkanlah aku darinya dan tetapkanlah buatku urusn yang baik saja dimanapun adanya kemudian paskanlah hatiku dengan ketepanMu itu". Beliau bersabda: "Dia sebutkan urusan yang sedang diminta pilihannya itu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1166</td></tr><tr><td>Arabic No</td><td>1166</td></tr><tr><td>Reference</td><td>Book 19 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «(Однажды) во время проповеди, Посланник Аллаха ﷺ сказал: “Если кто-нибудь из вас придет, когда имам произносит проповедь (или вышел, чтобы подняться на минбар), то пусть совершит два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1166</td></tr><tr><td>Arabic No</td><td>1166</td></tr><tr><td>Reference</td><td>Book 19 Hadith 45</td></tr></tbody></table></div>
 

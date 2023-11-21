@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir: The Prophet (ﷺ) said: The day of Arafah, the day of s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], Telah menceritakan kepada kami [Wahb] telah menceritakan kepada kami [Musa bin Ali], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Waki'] dari [Musa bin Ali], dan bentuk pengabaran ada dalam hadits Wahb, ia berkata; saya mendengar [ayahku] bahwa ia mendengar [Uqbah bin 'Amir] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Hari 'Arafah dan Hari Kurban, serta hari-hari Tasyriq adalah hari raya kita, orang-orang Islam. Hari-hari tersebut adalah hari-hari makan dan minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2419</td></tr><tr><td>Arabic No</td><td>2419</td></tr><tr><td>Reference</td><td>Book 14 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Укбы ибн ‘Амира, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «День ‘Арафата, день жертвоприношения и дни ташрика праздники для нас, мусульман, и это дни еды и питья»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2419</td></tr><tr><td>Arabic No</td><td>2419</td></tr><tr><td>Reference</td><td>Book 14 Hadith 107</td></tr></tbody></table></div>
 

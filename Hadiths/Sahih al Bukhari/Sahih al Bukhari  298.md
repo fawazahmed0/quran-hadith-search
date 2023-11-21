@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:While I was laying with the Prophet (ﷺ) under a single wool
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makki bin Ibrahim] berkata, telah menceritakan kepadaku [Hisyam] dari [Yahya bin Abu Katsir] dari [Abu Salamah] bahwa [Zainab binti Ummu Salamah] menceritakan kepadanya, bahwa [Ummu Salamah] berkata, "Aku dan Nabi shallallahu 'alaihi wasallam berbaring dalam selimut, kemudian aku mengeluarkan darah haid hingga aku pun berlalu dengan diam-diam seraya membawa kain yang terkena darah haidku. Beliau bertanya: "Apakah kamu sedang haid?" Aku jawab, "Ya." Beliau lalu memanggilku, maka aku pun berbaring bersama beliau dalam kain tebal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>298</td></tr><tr><td>Arabic No</td><td>298</td></tr><tr><td>Reference</td><td>Book 6 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала:«(Однажды,) когда мы лежали вместе с Пророком ﷺ накрывшись куском плотной ткани, у меня начались месячные. Я потихоньку покинула (его), взяв с собой одежду, предназначенную для подобных случаев, (а когда вернулась,) он спросил: “У тебя начались месячные?” Я ответила: “Да”. Тогда он подозвал меня, и я (снова) легла с ним(, укрывшись) той же тканью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>298</td></tr><tr><td>Arabic No</td><td>298</td></tr><tr><td>Reference</td><td>Book 6 Hadith 5</td></tr></tbody></table></div>
 

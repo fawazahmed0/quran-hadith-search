@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A similar tradition has been transmitted by 'Abd al-Rahman b. Samurah through a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabah Al Bazzaz], telah menceritakan kepada kami [Husyaim], telah mengabarkan kepada kami [Yunus], dan [Manshur bin Zadzan] dari [Al Hasan] dari [Abdurrahman bin Samurah] ia berkata; Nabi shallallahu 'alaihi wasallam berkata kepadaku: "Wahai Abdurrahman bin Samurah, apabila engkau bersumpah kemudian engkau melihat selainnya lebih baik maka lakukan yang lebih baik dan bayarlah kafarah sumpahmu." Abu Daud berkata; aku mendengar Ahmad memberikan keringanan untuk membayar kafarah sebelum membatalkan sumpah. Telah menceritakan kepada kami [Yahya bin Khalaf], telah menceritakan kepada kami [Abdul A'la], telah menceritakan kepada kami [Sa'id] dari [Qatadah], dari [Al Hasan] dari [Abdurrahman bin Samurah] seperti itu. Ia berkata; bayarlah kafarah sumpahmu kemudian lakukan sesuatu yang lebih baik. Abu Daud berkata; hadits-hadits Abu Musa Al Asy'ari dan 'Adi bin Hatim serta Abu Hurairah dalam hadits ini diriwayatkan dari setiap mereka dalam sebagian riwayat: membatalkan sumpah sebelum kafarah, dan dalam sebagian riwayat kafarah sebelum membatalkan sumpah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1652)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что один человек пришёл к Пророку ﷺ с чернокожей рабыней и сказал: «О Посланник Аллаха! Я должен освободить верующего раба». (Посланник Аллаха ﷺ) спросил рабыню: «Где Аллах?» Она указала пальцем на небо. Тогда (Посланник Аллаха ﷺ) спросил её: «А кто я?» Она указала на него и на небеса, имея в виду, что он Посланник Аллаха. Тогда он сказал: «Освободи её, ибо она верующая»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1652)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 37</td></tr></tbody></table></div>
 

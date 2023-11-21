@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Al-Mughîra Ibn Chu'ba (que Dieu l'agrée), Une femme frappa sa co-épo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari ['Ubaid bin Nudlailah Al Khuza'i] dari [Mughirah bin Syu'bah] dia berkata, "Seorang wanita memukul madu suaminya yang sedang hamil dengan tiang tenda hingga meninggal -Syu'bah berkata; salah satu dari keduanya berasal dari Bani Lihyan-. Syu'bah berkata, "Maka Rasulullah shallallahu 'alaihi wasallam memberi putusan bahwa 'ashabah wanita yang membunuh itulah yang harus membayar diyah, dan tebusan bagi bayi yang mati dalam perut adalah dengan memerdekakan seorang budak mahal, baik laki-laki atau perempuan." Maka seorang laki-laki dari 'ashabah wanita yang membunuh berkata, "Apakah kami harus membayar diyat orang yang tidak makan dan tidak minum serta tidak menangis? Itu adalah suatu kesia-siaan!" Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah kamu hendak bersajak sebagaimana sajaknya orang-orang badui?" Syu'bah berkata, "Akhirnya beliau tetap memutuskan atas mereka untuk membayar diyatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>1682.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>1682.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 52</td></tr></tbody></table></div>
 

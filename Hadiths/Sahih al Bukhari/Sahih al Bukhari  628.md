@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Malik bin Huwairith:I came to the Prophet (ﷺ) with some men from my t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'allaa bin Asad] berkata, telah menceritakan kepada kami [Wuhaib] dari [Ayyub] dari [Abu Qilabah] dari [Malik bin Al Huwairits], "Aku mendatangi Nabi shallallahu 'alaihi wasallam dalam rombongan kaumku, kami lalu tinggal di sisi beliau selama dua puluh hari. Beliau adalah seorang yang sangat penuh kasih dan sayang. Ketika beliau melihat ada kerinduan kami kepada keluarga kami, beliau bersabda: "Kembalilah kalian kepada mereka, bergabunglah bersama mereka, ajari mereka dan shalat bersama mereka. Jika waktu shalat telah tiba, maka hendaklah salah seorang dari kalian mengumandangkan adzan dan hendaklah yang mengimami shalat kalian adalah yang paling tua di antara kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>628</td></tr><tr><td>Arabic No</td><td>628</td></tr><tr><td>Reference</td><td>Book 10 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Малик ибн аль-Хувайрис, да будет доволен им Аллах, сказал: «(В своё время) я пришёл к Пророку ﷺ с несколькими другими людьми (из нашего племени), и мы прожили у него двадцать дней. Он был добр и мягок с нами, и когда он увидел, что мы стали тосковать по своим семьям, он сказал: “Возвращайтесь и живите с ними, учите их (религии) и молитесь, а когда (в пути) настанет время молитвы, пусть один из вас призовёт вас к молитве, и пусть старший из вас руководит вашей молитвой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>628</td></tr><tr><td>Arabic No</td><td>628</td></tr><tr><td>Reference</td><td>Book 10 Hadith 25</td></tr></tbody></table></div>
 

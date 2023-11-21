@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Abdullah bin Wahb], telah mengabarkan kepadaku ['Amr bin Al Harits] dari [Abu Ali Tsumamah bin Syufi Al Hamdani], bahwa ia mendengar ['Uqbah bin 'Amir Al Juhani], berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam berada di atas mimbar berkata: "Dan persiapkan untuk mereka apa yang kalian mampu berupa kekuatan. Ketahuilah bahwa kekuatan itu adalah memanah, ketahuilah bahwa kekuatan itu adalah memanah, ketahuilah bahwa kekuatan itu adalah memanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1917)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2514</td></tr><tr><td>Arabic No</td><td>2514</td></tr><tr><td>Reference</td><td>Book 15 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Укба бин ‘Амир аль-Джухани, да будет доволен им Аллах, сказал: Я слышал, как Посланник Аллаха ﷺ стоявший на минбаре, сказал: «И приготовьте для них столько силы, сколько сможете, (что же касается) силы, то, поистине, она в стрельбе, поистине, она в стрельбе, поистине, она в стрельбе!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1917)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2514</td></tr><tr><td>Arabic No</td><td>2514</td></tr><tr><td>Reference</td><td>Book 15 Hadith 38</td></tr></tbody></table></div>
 

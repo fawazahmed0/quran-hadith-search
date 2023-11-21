@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that Umar saw Utarid al-Tamimi standing in the market (and sel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami [Jarir bin Hazim]; Telah menceritakan kepada kami [Nafi'] dari [Ibnu 'Umar] ia berkata; "Umar bin Khattab melihat 'Utharid At Tamimi berdiri di pasar memamerkan sebuah baju sutera. 'Uthraid adalah seorang laki-laki yang berdekatan dengan para raja dan memperoleh baju itu dari mereka. Kata 'Umar: "Wahai Rasulullah shallallahu 'alaihi wasallam aku melihat si 'Utharid berdiri di pasar memamerkan sebuah baju sutera. Alangkah bagusnya seandainya Anda beli untuk memakainya di saat menerima para utusan 'Arab yang datang menghadap Anda, -sepertinya dia mengatakan pula; 'dan untuk Anda pakai berkhutbah pada hari jum'at'.- Rasulullah shallallahu 'alaihi wasallam menjawab: "Yang memakai sutera di dunia hanyalah orang yang tidak dapat bagian di akhirat." Tidak berapa lama sesudah itu Rasulullah shallallahu 'alaihi wasallam diberi orang beberapa helai pakaian sutera. Lalu beliau kirimkan kepada 'Umar sehelai, juga beliau berikan kepada Usamah bin Zaid sehelai, dan beliau berikan kepada 'Ali bin Abi Thalib sehelai, seraya beliau berkata kepada 'Ali: "Potong baju itu untuk selendang isterimu!" Umar datang kepada beliau membawa baju sutera yang dikirimkan Nabi shallallahu 'alaihi wasallam untuknya. Kata 'Umar; "Ya Rasulullah! untuk apa anda kirimi aku baju sutera ini? Bukankah kemarin Anda telah berkata kepadaku tentang baju yang dipamerkan 'Utharid?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Aku tidak mengirimkannya kepadamu untuk kamu pakai, tetapi kukirimkan supaya engkau manfaatkan dalam memenuhi kebutuhanmu." Adapun Usamah, dengan gembira dipakainya baju itu. Karena itu Rasulullah shallallahu 'alaihi wasallam memandang kepadanya dengan pandangan yang menunjukkan beliau tidak setuju degan perbuatan Usamah itu. Kata Usamah; "Ya Rasulullah! mengapa Anda memandangku seperti itu, bukankah Anda yang mengirimiku baju ini?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Aku tidak mengirimkannya untuk kamu pakai sendiri, tetapi supaya engkau potong kembali menjadi selendang isterimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5403</td></tr><tr><td>Arabic No</td><td>2068.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5403</td></tr><tr><td>Arabic No</td><td>2068.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 18</td></tr></tbody></table></div>
 

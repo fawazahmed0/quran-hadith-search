@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said :The deputation of ‘Abd al-Qais asked (the prophet):From whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abu Ahmad] telah menceritakan kepada kami [Sufyan] dari [Ali bin Badzimah] telah menceritakan kepadaku [Qais bin Habtar An Nahsyali] dari [Ibnu Abbas] bahwa delegasi Abdul Qais berkata, "Wahai Rasulullah, pada apakah kami boleh minum?" Beliau menjawab: "Janganlah kalian minum pada Ad dubba, Al muzaffat, An naqir, dan buatlah minuman perasan dalam tempat-tempat minum!" Mereka bertanya lagi, "Wahai Rasulullah, apabila telah mengeras dalam kantung-kantung minuman?" Beliau menjawab: "Tuangkan air padanya!" Mereka bertanya lagi, "Wahai Rasulullah! Kemudian beliau berkata kepada mereka pada kali ketiga atau keempat: "Tumpahkan!" Setelah itu beliau bersabda: "Sesungguhnya Allah telah mengharamkan bagiku…." Atau, "Telah diharamkan bagiku khamer, judi dan kendang." Beliau bersabda: "Dan segala sesuatu yang memabukkan adalah haram." [Sufyan] berkata, "Aku bertanya Ali bin Badzimah bin Badzimah tentang Al Kubah?" Ia lalu menjawab, "Yaitu kendang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3696</td></tr><tr><td>Arabic No</td><td>3696</td></tr><tr><td>Reference</td><td>Book 27 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что члены делегации племени ‘абдулькайс спросили: «О Посланник Аллаха! Из чего нам пить?» Он ответил: «Не пейте из (таких сосудов, как) дубба, музаффат и накыр, а набиз делайте в кожаных бурдюках». Они спросили: «О Посланник Аллаха, а если он уже начнёт киснуть в бурдюках?» Он сказал: «Добавьте в него воды». Они сказали: «О Посланник Аллаха!» А на третий или четвёртый раз он сказал: «Вылейте его». Потом он сказал: «Поистине, Аллах запретил мне (или: были запрещены) опьяняющие напитки, азартные игры и куба». Он также сказал: «Всё опьяняющее запретно». Суфьян сказал: «Я спросил ‘Али ибн Базиму о кубе, и он сказал, что это барабаны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3696</td></tr><tr><td>Arabic No</td><td>3696</td></tr><tr><td>Reference</td><td>Book 27 Hadith 28</td></tr></tbody></table></div>
 

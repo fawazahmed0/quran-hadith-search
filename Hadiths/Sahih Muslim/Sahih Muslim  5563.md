@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Al-Khudri reported Allah's Apostle (ﷺ) as saying:Avoid sitting on th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Suwaid bin Sa'id]; Telah menceritakan kepadaku [Hafsh bin Maisarah] dari [Zaid bin Aslam] dari ['Atha bin Yasar] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Hindarilah olehmu duduk-duduk di pinggir jalan!" Para sahabat bertanya; 'Ya Rasulullah bagaimana kalau kami butuh untuk duduk-duduk di situ memperbincangkan hal yang memang perlu?.' Rasulullah shallallahu 'alaihi wasallam menjawab: 'Jika memang perlu kalian duduk-duduk di situ, berikanlah hak jalanan.' Mereka bertanya; 'Apa haknya ya Rasulullah? ' beliau menjawab: 'Tundukkan pandangan, jangan mengganggu, menjawab salam (orang lewat), menganjurkan kebaikan, dan mencegah yang mungkar.' Dan telah menceritakannya kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami ['Abdul' Aziz bin Muhammad Al Madani]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakannya kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami [Ibnu Abu Fudaik]; Telah mengabarkan kepada kami [Hisyam] yaitu Ibnu Sa'ad seluruhnya dari [Zaid bin Aslam] melalui sanad ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5563</td></tr><tr><td>Arabic No</td><td>2121.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5563</td></tr><tr><td>Arabic No</td><td>2121.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 173</td></tr></tbody></table></div>
 

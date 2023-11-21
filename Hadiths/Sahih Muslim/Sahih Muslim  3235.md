@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim narrated on the authority of his father (Allah be pleased with him) that A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Laits] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Rumh] telah mengabarkan kepada kami [Laits] dari [Ibnu Syihab] dari [Salim] dari [bapaknya] ia berkata; Rasulullah shallallahu 'alaihi wasallam masuk ke dalam Baitullah beserta Usamah bin Zaid, Bilal dan Utsman bin Thalhah, lalu mereka menutup pintunya. Ketika mereka membukanya kembali, maka akulah yang pertama kali menemui mereka. Kutemui [Bilal] dan bertanya padanya, "Apakah Rasulullah shallallahu 'alaihi wasallam shalat di dalamnya?" Bilal menjawab, "Ya. Beliau shalat di antara dua tiang Yamani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3235</td></tr><tr><td>Arabic No</td><td>1329.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 439</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3235</td></tr><tr><td>Arabic No</td><td>1329.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 439</td></tr></tbody></table></div>
 

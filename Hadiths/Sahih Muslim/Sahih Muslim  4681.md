@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Anas that, on the Day of Hunain. Umm Su
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas], bahwa Ummu Sulaim selalu membawa parang ketika perang Hunain, lalu Abu Thalhah melihatnya sehingga ia pun mengadu, "Wahai Rasulullah, Ummu Sulaim selalu membawa parang." Beliau lalu bertanya kepada Ummu Sulaim: "Untuk apakah kamu selalu membawa parang?" Ummu Sulaim membawa, "Jika ada orang Musyrik mendekatiku, maka aku akan membelah perutnya." Rasulullah shallallahu 'alaihi wasallam tertawa mendengarnya. Ummu Sulaim berkata, "Wahai Rasulullah, bunuhlah orang-orang yang anda bebaskan di hari penaklukan kota Makkah, sekarang mereka telah lari dari Anda." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Ummu Sulaim, sesungguhnya Allah telah mencukupi dan memperbaiki." Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Hammad bin Salamah] telah mengabarkan kepada kami [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] tentang kisah Ummu Sulaim, dari Nabi shallallahu 'alaihi wasallam seperti haditsnya Tsabit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4681</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4681</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

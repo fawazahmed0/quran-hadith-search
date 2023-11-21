@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn al-Dailami said :I went to Ubayy b. Ka’b and said him : I am confused abou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Abu Sinan] dari [Wahb bin Khalid Al Himshi] dari [Ibnu Ad Dailami] ia berkata, "Aku mendatangi [Ubay bin Ka'b], lalu aku katakan kepadanya, "Ada sesuatu yang mengganjal dalam hatiku tentang perkara takdir, maka ceritakanlah kepadaku tentang sesuatu semoga Allah menghilangkan keresahan itu dari dalam hatiku." Ia menjawab, "Jika Allah menyiksa semua makluk yang ada di langit dan di bumi, maka itu bukanlah suatu kezhaliman yang Dia lakukan atas mereka, dan sekiranya Dia memberikan rahmat kepada mereka, sesungguhnya rahmat-Nya adalah lebih baik dari amalan yang telah mereka lakukan. Jika engkau bersedekah dengan emas sebesar gunung uhud di jalan Allah, maka Allah tidak akan menerimanya hingga engkau beriman dengan takdir. Dan engkau mengetahui bahwa apa saja yang ditakdirkan menjadi bagianmu tidak akan meleset darimu, dan apa yang tidak ditakdirkan untuk menjadi bagianmu tidak akan engkau dapatkan. Jika engkau meninggal bukan di atas keyakinan yang demikian ini, maka engkau akan masuk neraka." Abu Ad Dailami berkata, "Kemudian aku mendatangi [Abdullah bin Mas'ud], lalu ia mengatakan seperti itu pula. Aku lalu mendatangi [Hudzaifah Ibnul Yaman], lalu ia mengatakan seperti itu pula. Kemudian aku mendatangi [Zaid bin Tsabit], lalu ia menceritakan kepadaku sebuah hadits Nabi shallallahu 'alaihi wasallam seperti itu pula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4699</td></tr><tr><td>Arabic No</td><td>4699</td></tr><tr><td>Reference</td><td>Book 42 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ад-Дейлями рассказывает: «Я пришёл к Убайю ибн Ка‘бу и сказал ему: “Душа моя что-то неспокойна в отношении предопределения… Скажи мне что-нибудь может, Аллах изгонит это из моего сердца”. Он сказал: “Если бы Аллах подверг мучениям обитателей небес и земли, это не было бы несправедливостью и притеснением с Его стороны, и если бы Он помиловал их, Его милость превзошла бы дела их, и если бы ты потратил на пути Аллаха золото размером с гору Ухуд, Аллах не принял бы его от тебя до тех пор, пока ты не уверуешь в предопределение. И знай, что постигшее тебя не могло обойти тебя стороной, а то, что обошло тебя стороной, не могло тебя постигнуть. Если ты умрёшь, не веруя в это, ты попадёшь в Огонь”. Потом я пришёл к ‘Абдуллаху ибн Мас‘уду, и он сказал мне нечто подобное. Потом я пришёл к Хузайфе ибн аль-Яману, и он сказал мне нечто подобное. А потом я пришёл к Зейду ибн Сабиту, и он передал мне от Пророка ﷺ нечто подобное…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4699</td></tr><tr><td>Arabic No</td><td>4699</td></tr><tr><td>Reference</td><td>Book 42 Hadith 104</td></tr></tbody></table></div>
 

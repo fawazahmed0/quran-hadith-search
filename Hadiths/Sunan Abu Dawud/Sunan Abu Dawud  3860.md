@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Prophet (ﷺ) had himself cupped three times in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Jarir bin Hazim] telah menceritakan kepada kami [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam pernah berbekam pada tiga tempat; pada kedua urat leher dan kahil (bagian punggung antara dua pundak)." Mu'ammar berkata, "Ketika aku berbekam, akalku kemudian hilang hingga aku dibacakan Surat Al Fatihah dalam shalatku." Mu'ammar berbekam pada kepalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3860</td></tr><tr><td>Arabic No</td><td>3860</td></tr><tr><td>Reference</td><td>Book 29 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса, да будет доволен им Аллах, что Пророк ﷺ делал себе кровопускание три раза на сосудах на шее, а также на плече. Ма‘мар сказал: «Мне сделали кровопускание, и разум мой помутился так, что мне подсказывали даже “Аль-Фатиху”, когда я совершал молитву». А ему сделали кровопускание на макушке
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3860</td></tr><tr><td>Arabic No</td><td>3860</td></tr><tr><td>Reference</td><td>Book 29 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:We were with 'Abdullah and he said, "When the Prophet (ﷺ) saw 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Adl Dluha] dari [Masyruq] berkata, "Kami pernah bersama ['Abdullah] ketika dia berkata, "Nabi shallallahu 'alaihi wasallam bersabda ketika melihat orang-orang berpaling (dari Islam): "Ya Allah, timpakanlah kepada mereka masa paceklik tujuh tahun seperti kejadian zaman Yusuf." Maka terjadilah masa paceklik tersebut dimana tidak ada tunbuhan-tunbuhan yang tumbuh sehingga mereka memakan kulit, bangkai dan barang-barang busuk. Kemudian ada seorang dari mereka yang memandang ke langit melihat awan lantaran lapar. Lalu Abu Sufyan menemui beliau seraya berkata, "Ya Muhammad, kamu adalah orang yang memerintahkan untuk taat kepada Allah dan menyambung silaturrahim, kaummu telah binasa, maka mintalah kepada Allah untuk mereka." Allah lalu berfirman: '(Maka tunggulah hari ketika langit membawa kabut yang nyata) hingga firman-Nya: '(Sesungguhnya kamu akan kembali (ingkar). (Ingatlah) hari (ketika) kami menghantam mereka dengan hantaman yang keras. Sesungguhnya kami adalah pemberi balasan) ' (Qs. Ad Dukhaan: 10-16). Siksaan (hantaman yang keras) adalah saat mereka terbunuh dalam perang Badar. Dan saat awan gelap sudah berlalu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1007</td></tr><tr><td>Arabic No</td><td>1007</td></tr><tr><td>Reference</td><td>Book 15 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Мас‘уд, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ увидел, что эти люди отказываются (принимать Ислам), он сказал: “О Аллах(, пошли им) семь (лет засухи), подобных семи (годам её во времена) Йусуфа!” И после этого у них выдался такой (засушливый) год, что все (растения) пропали (и дело дошло до того), что люди стали есть шкуры животных и питаться падалью, а когда кто-нибудь из них поднимал глаза к небу, то (от голода) ему казалось, что он видит там дым. Тогда к (Пророку ﷺ) явился Абу Суфйан и сказал: “О Мухаммад! Поистине, ты велишь людям повиноваться Аллаху и поддерживать родственные связи, и, поистине, народ твой погибает, так обратись же к Аллаху с мольбой за них!” И Аллах Всевышний ниспослал аяты, начиная со слов: “Так жди же того дня, когда небо принесёт очевидный дым…”, и до слов: “Поистине, вы вернётесь. В тот день Мы нанесём сильнейший удар…”»\n(Ибн Мас‘уд сказал): «Этим ударом (стал) день Бадра, и сбылось (сказанное) о дыме, и об ударе, и о необходимости, а также то, о чём идёт речь в аяте о византийцах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1007</td></tr><tr><td>Arabic No</td><td>1007</td></tr><tr><td>Reference</td><td>Book 15 Hadith 3</td></tr></tbody></table></div>
 

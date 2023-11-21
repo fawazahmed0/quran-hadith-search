@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Masroûq a dit : Nous avions l'habitude de se rendre chez 'Abdoullâh Ibn 'Amr p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin 'Abdullah bin Numair] keduanya berkata; Telah menceritakan kepada kami [Waki']; Telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari [Masruq] dia berkata; "Kami mendatangi [Abdullah bin Amru], lalu kami berbincang-bincang dengannya. Ibnu Numair berkata; Lalu pada hari itu kami menyebut nama Abdullah bin Mas'ud. Maka Abdullah bin Amr berkata; "Kalian telah menyebutkan seseorang yang hingga kini aku selalu mencintainya setelah aku mendengar tentangnya dari Rasulullah shallallahu 'alaihi wasallam. Beliau bersabda: "Ambillah oleh kalian Al Qur'an dari empat orang, Yaitu; dari Abdullah bin Mas'ud (beliau memulai darinya), kemudian dari Mu'adz bin Jabal, dari Ubay bin Ka'ab dan dari Salim maula Abu Hudzaifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6334</td></tr><tr><td>Arabic No</td><td>2464.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6334</td></tr><tr><td>Arabic No</td><td>2464.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 164</td></tr></tbody></table></div>
 

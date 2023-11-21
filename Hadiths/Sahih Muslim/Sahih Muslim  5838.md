@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported:While we were with the Messenger of Allah (ﷺ) in the cave, t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Hafsh] yaitu Ibnu Ghiyats; Telah menceritakan kepada kami [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Abdillah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah menyuruh orang yang sedang ihram membunuh seekor ular ketika di Mina." Dan telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Al A'masy]; Telah menceritakan kepadaku [Ibrahim] dari [Al Aswad] dari ['Abdullah] dia berkata; 'Ketika kami bersama Rasulullah shallallahu 'alaihi wasallam di sebuah gua….-dan seterusnya yang serupa dengan Hadits Jarir dan Abu Mu'awiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5838</td></tr><tr><td>Arabic No</td><td>2234.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 189</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5838</td></tr><tr><td>Arabic No</td><td>2234.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 189</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: There is no zakat payable (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ayyub bin Muhammad Ar Raqi], telah menceritakan kepada Kami [Muhammad bin 'Ubaid], telah menceritakan kepada Kami [Idris bin Yazid Al Audi] dari ['Amr bin Murrah Al Hamali] dari [Abu Al Bakhtari Ath Thai] dari [Abu Sa'id Al Khudri] dan ia mengangkat hadits tersebut hingga sampai kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak ada zakat pada buah-buahan yang kurang dari lima wasaq, dan satu wasaq adalah enam puluh sha'." Abu Daud berkata; Abu Al Bakhtari tidak mendengar dari Abu Sa'id. Telah menceritakan kepada Kami Muhammad bin Qudamah bin A'yan, telah menceritakan kepada Kami Jarir dari Al Mughirah dari Ibrahim, ia berkata; satu wasaq adalah enam puluh sha' yang distempel dengan tanda Al Hajjaj
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1559</td></tr><tr><td>Arabic No</td><td>1559</td></tr><tr><td>Reference</td><td>Book 9 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Закят не берётся с менее чем пятидесяти васков. А васк это шестьдесят махтумов (са‘)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1559</td></tr><tr><td>Arabic No</td><td>1559</td></tr><tr><td>Reference</td><td>Book 9 Hadith 4</td></tr></tbody></table></div>
 

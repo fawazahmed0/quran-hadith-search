@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Hour will not be establi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah], telah menceritakan kepadaku [Sulaiman] dari [Tsaur] dari [Abul Ghaits] dari [Abu Hurairah], bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Hari kiamat tidak akan tiba hingga seseorang dari kabilah Qahthan menggiring manusia dengan tongkatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7117</td></tr><tr><td>Arabic No</td><td>7117</td></tr><tr><td>Reference</td><td>Book 92 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Не наступит Час, пока не появится человек из потомство Кахтана, который будет руководить людьми с помощью своей палки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7117</td></tr><tr><td>Arabic No</td><td>7117</td></tr><tr><td>Reference</td><td>Book 92 Hadith 64</td></tr></tbody></table></div>
 

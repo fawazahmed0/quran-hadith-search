@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that a person asked Allah's Messenger (ﷺ) as to when the Last Ho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yunus bin Muhammad] dari [Hammad bin Salamah] dari [Tsabit] dari [Anas] seseorang bertanya kepada Rasulullah Shallallahu 'alaihi wa Salam kapan terjadinya kiamat dan didekatnya ada anak kecil dari Anshar bernama Muhammad, beliau menjawab: "Bila anak ini masih hidup, mungkin ia tidak sampai tua hingga kiamat terjadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7410</td></tr><tr><td>Arabic No</td><td>2953.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7410</td></tr><tr><td>Arabic No</td><td>2953.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 171</td></tr></tbody></table></div>
 

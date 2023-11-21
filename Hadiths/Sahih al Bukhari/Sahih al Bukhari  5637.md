@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:An Arab lady was mentioned to the Prophet (ﷺ) so he ask
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah menceritakan kepada kami [Abu Ghassan] dia berkata; telah menceritakan kepadaku [Abu Hazim] dari [Sahl bin Sa'd] radliallahu 'anhu dia berkata; "Ketika dituturkan kepada Rasulullah shallallahu 'alaihi wasallam tentang cerita seorang wanita Arab, maka beliau pun memerintahkan Abu Usaid untuk memanggilnya. Tidak lama kemudian wanita itu datang dan tinggal di tempat yang bagus milik Bani Sa'idah. Lalu Rasulullah shallallahu 'alaihi wasallam keluar hingga menemui wanita tersebut, beliau masuk ke rumah tersebut, dan ternyata wanita itu selalu menundukkan kepalanya. Pada saat Rasulullah shallallahu 'alaihi wasallam mengajaknya bicara, wanita itu justru berkata; "Saya berlindung kepada Allah darimu." Beliau menjawab: "Baiklah, saya juga melindungimu dariku." Setelah itu para sahabat berkata kepadanya; "Tahukah kamu siapakah orang ini?" wanita itu menjawab; "Tidak." Para sahabat berkata; "Orang itu adalah Rasulullah shallallahu 'alaihi wasallam, beliau datang untuk melamarmu." Wanita itu berkata; "Kalau begitu, saya termasuk orang yang tidak beruntung." Lalu Nabi shallallahu 'alaihi wasallam kembali dan duduk di bangsa Bani Sa'idah bersama dengan para sahabatnya. Kemudian beliau bersabda: "Tuangkanlah kepada kami minuman wahai Sahal." Lalu saya mengeluarkan mangkuk ini untuk mereka dan memberikan minuman kepada mereka dengan menggunakan mangkuk tersebut." -Setelah itu Sahl mengeluarkan mangkuk tersebut untuk kami dan kami pun meminum air darinya." Abu Hazim berkata; "Selang beberapa tahun kemudian, Umar bin Abdul Aziz meminta mangkuk itu, maka mangkuk tersebut di berikan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5637</td></tr><tr><td>Arabic No</td><td>5637</td></tr><tr><td>Reference</td><td>Book 74 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль бин Са‘д, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ подошёл к навесу (рода) бану Са‘ида и сказал: “Дай нам воды, о Сахль!” — и я вынес им эту самую чашу и напоил их из неё».\nПередатчик (этого хадиса) сказал: «Затем Сахль вынес нам ту самую чашу, и мы напились из неё. А потом ‘Умар бин ‘Абд аль-‘Азиз попросил (Сахля) подарить ему (эту чашу), и он подарил её ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5637</td></tr><tr><td>Arabic No</td><td>5637</td></tr><tr><td>Reference</td><td>Book 74 Hadith 63</td></tr></tbody></table></div>
 

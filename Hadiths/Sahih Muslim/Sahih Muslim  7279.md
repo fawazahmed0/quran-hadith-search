@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mustaurid al-Qurashi reported:I heard Allah's Messenger (ﷺ) as saying: The Las
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdulmalik bin Syu'aib bin Al Laits] telah menceritakan kepadaku [Abdullah bin Wahab] telah mengkhabarkan kepadaku [Al Laits bin Sa'ad] telah menceritakan kepadaku [Musa bin Ali] dar [ayahnya] berkata: [Al Mustaudir Al Qurasy] berkata didekat Amru bin Al Ash: Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Kiamat terjadi dan Romawi adalah manusia yang paling banyak." Amru berkata: Perhatikan ucapanmu. Ia berkata: Aku mengatakan yang aku dengar dari Rasulullah Shallallahu 'alaihi wa Salam. Ia berkata: Bila kau katakan demikian, pada diri mereka terdapat empat hal; mereka adalah orang-orang yang paling sabar saat terjadi fitnah, paling cepat miskin saat terjadi musibah, paling cepat menyerang setelah mundur, dan yang terbaik dari mereka terhadap orang miskin, anak yatim dan orang lemah. Yang kelima adalah yang menawan dan cantik serta paling tahan terhadap kelaliman para raja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7279</td></tr><tr><td>Arabic No</td><td>2898.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Муса ибн ‘Улейя передал, что его отец сказал: (Как-то раз) аль-Мустаурид (ибн Шаддад) аль-Къураши сказал в присутствии ‘Амра ибн аль-‘Аса: «Я слышал, как Посланник Аллаха ﷺ сказал: “Час этот настанет тогда, когда румы будут среди людей в большинстве”». ‘Амр сказал ему: «Думай, что говоришь!» (Аль-Мус­таурид) сказал: «Я (лишь повторяю) то, что слышал от Посланника Аллаха ﷺ». (‘Амр) сказал: «Если ты это говоришь, то (знай, что) их отличают четыре качества: из всех людей они (определённо будут способны) проявлять наибольшую рассудительность во время испы­тания, быстрее (других) оправляться после бедствия, быстрее (других) переходить в наступление после бегства и лучше (других) относиться к неимущим, сиротам и слабым. (Кроме того, их будет отличать) и пятая прекрасная (особенность): они (окажутся) наиболее защищенными от несправедливости (своих) царей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7279</td></tr><tr><td>Arabic No</td><td>2898.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 45</td></tr></tbody></table></div>
 

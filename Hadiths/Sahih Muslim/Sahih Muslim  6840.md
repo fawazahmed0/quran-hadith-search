@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qatada asked Anas which Supplication Allah's Apostle (ﷺ) frequently made. He s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin 'Ulayyah] dari [Abdul Aziz] yaitu lbnu Shuhaib dia berkata; "Pada suatu ketika, Qatadah pernah bertanya kepada Anas; 'Hai Anas, doa apa yang sering diucapkan Rasulullah? ' [Anas] menjawab; 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam sering membaca doa yang berbunyi: 'Ya Allah, berilah kami kebaikan di dunia dan kebaikan di akhirat, serta peliharalah kami dari siksa api neraka.' Perawi hadits ini berkata; 'Ketika Anas hendak berdoa, maka ia senantiasa membaca doa tersebut. Dan ketika ia hendak membaca doa yang lain, maka ia selalu menyertakan doa tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6840</td></tr><tr><td>Arabic No</td><td>2690.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6840</td></tr><tr><td>Arabic No</td><td>2690.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 36</td></tr></tbody></table></div>
 

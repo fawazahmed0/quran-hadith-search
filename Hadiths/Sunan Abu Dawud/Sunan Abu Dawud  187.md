@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said:The Messenger of Allah (ﷺ) took (the meat of) a (goat's) shoul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Malik] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Ibnu Abbas] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah makan daging paha kambing, kemudian beliau mengerjakan shalat dan tidak berwudhu kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (207) Sahih Muslim (354)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>187</td></tr><tr><td>Reference</td><td>Book 1 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса: «Посланник Аллаха ﷺ поел (мясо) от овечьей лопатки, а затем совершил молитву, не совершая омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (207) Sahih Muslim (354)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>187</td></tr><tr><td>Arabic No</td><td>187</td></tr><tr><td>Reference</td><td>Book 1 Hadith 187</td></tr></tbody></table></div>
 

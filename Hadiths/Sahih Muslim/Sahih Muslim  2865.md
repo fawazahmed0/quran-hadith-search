@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Mdssenger (ﷺ) having said this:Five are the vicious an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Urwah] dari [Aisyah] radliallahu 'anha, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada lima macam binatang berbahaya yang boleh dibunuh di tanah haram, yaitu; Tikus, kala jengking, ular, elang dan anjing gila." Dan Telah menceritakannya kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dengan isnad ini. Ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk membunuh lima macam binatang berbahaya baik di luar tanah haram, atau di dalam tanah haram. Kemudian ia pun menyebutkan sebagaiaman yang terdapat dalam haditsnya Yazid bin Zurai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2865</td></tr><tr><td>Arabic No</td><td>1198.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2865</td></tr><tr><td>Arabic No</td><td>1198.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 75</td></tr></tbody></table></div>
 

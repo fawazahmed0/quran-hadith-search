@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Malik b Huwairith reported:I came to the Messenger of Allah (ﷺ) along with a c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan kepada kami [Abdul Wahhab Ats Tsaqafi] dari [Khalid Al Khadza'] dari [Abu Qilabah] dari [Malik bin Huwairits] katanya; aku menemui Nabi shallallahu 'alaihi wasallam bersama seorang kawanku. Ketika kami hendak kembali pulang, beliau berpesan: "Jika waktu shalat telah tiba, maka kumandangkanlah adzan, dan dirikanlah shalat, hendaknya yang berhak menjadi iamam adalah yang paling dewasa diantara kalian." Dan telah menceritakan kepada kami [Abu Said Al Asyajj] telah menceritakan kepada kami [Hafs yaitu Ibnu Ghiyats] telah menceritakan kepada kami [Khalid Al Khadza'] dengan sanad ini, dia sedikit menambahkan, Al Khadza' mengatakan; keduanya (yaitu Malik bin Huwairits dan kawannya) dalam bacaan hampir sama (selevel)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1538</td></tr><tr><td>Arabic No</td><td>674.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 371</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Малик ибн аль-Хувайрис сказал: «Я пришёл к Пророку ﷺ со своим товарищем, и когда мы собрались от него уйти, он сказал нам: “Когда настанет время молитвы, произнесите азан и икаму, и пусть старший из вас будет для вас имамом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1538</td></tr><tr><td>Arabic No</td><td>674.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 371</td></tr></tbody></table></div>
 

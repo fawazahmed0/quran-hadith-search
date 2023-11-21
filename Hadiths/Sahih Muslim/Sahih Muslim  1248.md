@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), le Prophète (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Yahya, dan dia adalah al-Qaththan] dari [Ubaidullah] dia berkata, telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] bahwa Rasulullah Shallallahu'alaihiwasallam bersabda dalam perang Khaibar, "Barangsiapa yang makan pohon ini, maksudnya bawang putih, maka janganlah dia mendatangi masjid." Zuhair berkata, "Dalam suatu perang." Dan dia tidak menyebutkan Khaibar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1248</td></tr><tr><td>Arabic No</td><td>561.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что во время похода на Хайбар Посланник Аллаха ﷺ сказал: «Пусть тот, кто поест (плодов) этого растения, Пророк ﷺ имел в виду (сырой) чеснок, ни в коем случае не является в мечети!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1248</td></tr><tr><td>Arabic No</td><td>561.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 86</td></tr></tbody></table></div>
 

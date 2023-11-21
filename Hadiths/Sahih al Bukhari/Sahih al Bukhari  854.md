@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ata':I heard Jabir bin 'Abdullah saying, "The Prophet (ﷺ) said, 'Who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Abu 'Ashim] berkata, telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepadaku ['Atha] berkata, "Aku mendengar [Jabir bin 'Abdullah] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa memakan dari pohon ini, - maksudnya bawang putih-, maka hendaklah dia tidak mendatangi kami di masjid-masjid kami." Aku bertanya, "Apa yang beliau maksudkan itu?" Maka Jabir menjawab, "Aku tidak melihat maksud beliau yang lain kecuali yang mentah (belum dimasak)." [Makhallad bin Yazid] menyebutkan dari [Ibnu Juraij], "Kecuali yang mentah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>854</td></tr><tr><td>Arabic No</td><td>854</td></tr><tr><td>Reference</td><td>Book 10 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ сказал: “Пусть отведавший (плодов) этого растения (он имел в виду чеснок) не приходит к нам в наши мечети”».\nПередатчик (этого хадиса) сказал: «Я спросил Джабира: “Что именно он имел в виду?” Он сказал: “Я думаю, что он имел в виду только сырой чеснок”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>854</td></tr><tr><td>Arabic No</td><td>854</td></tr><tr><td>Reference</td><td>Book 10 Hadith 245</td></tr></tbody></table></div>
 

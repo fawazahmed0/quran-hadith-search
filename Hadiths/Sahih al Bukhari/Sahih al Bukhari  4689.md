@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) was asked, "Who are the most honora
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] Telah mengabarkan kepada kami ['Abdah] dari ['Ubaidillah] dari [Sa'id bin Abu Sa'id] dari [Abu Hurairah radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam ditanya; "Siapakah menusia yang paling mulia?" Beliau bersabda: "Orang yang paling bertaqwa dari mereka." para sahabat berkata; "Bukan itu yang kami tanyakan?" beliau bersabda: "Jika bukan, berarti Yusuf Nabi Allah putra Nabi Allah (Ya'qub) putra Nabi Allah (Ishaq) putra Ibrahim kekasih Allah, " para sahabat berkata; "Bukan itu yang kami tanyakan, " beliau bersabda: "Apakah tentang bangsa Arab yang kalian tanyakan?, mereka menjawab; 'Ya.' Rasulullah shallallahu 'alaihi wasallam bersabda: orang yang paling baik dari mereka dimasa jahiliyyah adalah orang yang paling baik dimasa Islam, jika mereka paham Islam." Demikian juga diriwayatkan oleh [Abu Usamah] dari [Ubaidullah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4689</td></tr><tr><td>Arabic No</td><td>4689</td></tr><tr><td>Reference</td><td>Book 65 Hadith 211</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Посланника Аллаха ﷺ спросили: “Кто является самым благородным из людей?” Он сказал: “Самым благородным у Аллаха является самый богобоязненный из них”. (Люди) сказали: “Мы спрашиваем тебя не об этом”. Он сказал: “Самым благородным из людей является Йусуф, пророк Аллаха, сын пророка Аллаха, сына пророка Аллаха, сына возлюбленного Аллаха”. (Люди снова) сказали: “Мы спрашиваем тебя не об этом”. Он сказал: “Значит, вы спрашиваете меня о предках арабов? Они ответили: “Да”. Тогда он сказал: “Те из них, кто были лучшими во времена джахилиййи, останутся лучшими и в исламе, если усвоят (установления шариата)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4689</td></tr><tr><td>Arabic No</td><td>4689</td></tr><tr><td>Reference</td><td>Book 65 Hadith 211</td></tr></tbody></table></div>
 

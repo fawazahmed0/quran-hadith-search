@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Some Ansari persons asked for (something) from Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Atha' bin Yazid Al Laitsiy] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] bahwa ada beberapa orang dari kalangan Anshar meminta (pemberian shodaqah) kepada Rasulullah Shallallahu'alaihiwasallam, maka Beliau memberi. Kemudian mereka meminta kembali, lalu Beliau memberi. Kemudian mereka meminta kembali lalu Beliau memberi lagi hingga habis apa yang ada pada Beliau. Kemudian Beliau bersabda: "Apa-apa yang ada padaku dari kebaikan (harta) sekali-kali tidaklah aku akan meyembunyikannya dari kalian semua. Namun barangsiapa yang menahan (menjaga diri dari meminta-minta), maka Allah akan menjaganya dan barangsiapa yang meminta kecukupan maka Allah akan mencukupkannya dan barangsiapa yang mensabar-sabarkan dirinya maka Allah akan memberinya kesabaran. Dan tidak ada suatu pemberian yang diberikan kepada seseorang yang lebih baik dan lebih luas daripada (diberikan) kesabaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1469</td></tr><tr><td>Arabic No</td><td>1469</td></tr><tr><td>Reference</td><td>Book 24 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что (однажды) какие-то люди из числа ансаров попросили (что-то) у Посланника Аллаха ﷺ и он дал им (это), потом они (снова) попросили у него (что-то), и он дал им, в конце концов отдав (им) всё(, что у него было). Тогда он сказал: «Что бы ни оказалось в моих руках, я никогда не стану утаивать от вас этого, (однако запомните, что) того, кто станет стремиться к воздержанности, Аллах приведёт к воздержанности; того, кто станет пытаться обходиться своими силами, Аллах избавит (от необходимости обращаться к другим), а тому, кто станет проявлять терпение, Аллах внушит терпение, и никто ещё не получал лучшего и более щедрого дара, чем терпение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1469</td></tr><tr><td>Arabic No</td><td>1469</td></tr><tr><td>Reference</td><td>Book 24 Hadith 71</td></tr></tbody></table></div>
 

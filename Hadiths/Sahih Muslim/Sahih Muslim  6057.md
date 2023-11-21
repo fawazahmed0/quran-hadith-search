@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Sulaim reported that Allah's Apostle (ﷺ) visited her house and (took rest)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Affan bin Muslim]; Telah menceritakan kepada kami [Wuhaib]; Telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Anas] dari [Ummu Sulaim] bahwa Nabi shallallahu 'alaihi wasallam pernah mendatangi Ummu Sulaim, dan tidur siang di rumahnya. Maka Ummu Sulaim menghamparkan karpet kulit untuk beliau dan beliau pun tidur di atasnya. Ternyata beliau mengeluarkan keringat yang banyak. Akhirnya Ummu Sulaim mengumpulkan keringat beliau dan memasukkannya ke dalam tempat minyak wangi dan botol-botol. Lalu Nabi shallallahu 'alaihi wasallam bertanya: 'Wahai Ummu Sulaim, Apa ini? Dia menjawab; 'Ini adalah keringatmu yang aku campur dengan minyak wangiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6057</td></tr><tr><td>Arabic No</td><td>2332</td></tr><tr><td>Reference</td><td>Book 43 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6057</td></tr><tr><td>Arabic No</td><td>2332</td></tr><tr><td>Reference</td><td>Book 43 Hadith 115</td></tr></tbody></table></div>
 

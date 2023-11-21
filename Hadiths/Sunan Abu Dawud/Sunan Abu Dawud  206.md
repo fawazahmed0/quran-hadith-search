@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami ['Abidah bin Humaid Al Hadzdza'] dari [Ar-Rakin bin Ar-Rabi'] dari [Hushain bin Qabishah] dari [Ali radliallahu 'anhu] dia berkata; Saya adalah seorang yang sering keluar madzi, maka aku selalu mandi, sehingga punggungku terasa mau pecah. Karena itu saya sampaikan hal tersebut kepada Nabi shallallahu 'alaihi wasallam atau disampaikan kepada beliau. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan kamu lakukan hal itu, apabila kamu melihat madzi, maka basuhlah kemaluanmu, kemudian berwudhulah seperti kamu berwudhu untuk mengerjakan shalat. Apabila kamu mengeluarkan air mani, maka mandilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>206</td></tr><tr><td>Arabic No</td><td>206</td></tr><tr><td>Reference</td><td>Book 1 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али да будет доволен им Аллах, сказал: «Я был (из числа тех) мужчин, у которых выделялась жидкость, (именуемая) мазью, и купался столько, что от этого у меня заболела спина. Я рассказал об этом Пророку ﷺ или ему рассказали об этом и Посланник Аллаха ﷺ: “Не делай так. Если увидишь (следы) мазьи, то помой свои половые органы и соверши омовение /вудуъ/, которое совершаешь для молитвы. Ну а если у тебя потекла вода, тогда искупайся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>206</td></tr><tr><td>Arabic No</td><td>206</td></tr><tr><td>Reference</td><td>Book 1 Hadith 206</td></tr></tbody></table></div>
 

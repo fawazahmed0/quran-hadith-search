@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) sent us along with an a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Najdah], telah menceritakan kepada kami [Al Walid bin Muslim], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Musa bin Abdurrahman Al Anthaki], ia berkata; telah menceritakan kepada kami [Mubasysyar], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Muhammad bin 'Auf Ath Tha'i], bahwa [Al Hakam bin Nafi'], telah menceritakan kepada mereka secara makna, seluruh mereka berasal dari [Syu'aib bin Abu Hamzah], dari [Nafi'], dari [Ibnu Umar], ia berkata; Rasulullah shallallahu 'alaihi wasallam mengutus kami dalam sebuah pasukan menuju Najd, kemudian diutuslah satu kesatuan militer dari pasukan tersebut, saham pasukan tersebut adalah dua belas unta, dua belas unta. Dan beliau memberikan tambahan kepada kesatuan militer satu unta, satu unta. Sehingga saham mereka adalah tiga belas. Telah menceritakan kepada kami [Al Walid bin 'Utbah Ad Dimasyqi], ia berkata; [Al Walid bin Muslim] berkata; aku menceritakan kepada Ibnu Al Mubarak dengan hadits ini. Aku katakan; demikianlah [Ibnu Abu Farwah] menceritakan kepada kami dari [Nafi'], ia berkata; orang yang telah engkau sebutkan tidak sama dengan seorang Malik, yaitu Malik bin Anas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2741</td></tr><tr><td>Arabic No</td><td>2741</td></tr><tr><td>Reference</td><td>Book 15 Hadith 265</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2741</td></tr><tr><td>Arabic No</td><td>2741</td></tr><tr><td>Reference</td><td>Book 15 Hadith 265</td></tr></tbody></table></div>
 

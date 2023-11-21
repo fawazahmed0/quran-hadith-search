@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn Samura (que Dieu l'agrée) a dit : Un jour que je suis entré avec mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Hushain] dari [Jabir bin Samurah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Rifa'ah bin Al haitsam Al Wasithi] sedangkan lafadznya dari dia, telah menceritakan kepada kami [Khalid] -yaitu Ibnu Abdullah At Thahan- dari [Hushain] dari [Jabir bin Samurah] dia berkata, "Aku pernah menemui Nabi shallallahu 'alaihi wasallam bersama dengan ayahku, maka aku mendengar beliau bersabda: "Sesungguhnya pemerintahan ini tidak akan runtuh hingga kedua belas orang khalifah memerintah." Kemudian beliau mengucapkan kata-kata yang kurang jelas bagiku, Jabir berkata, "Lalu aku bertanya kepada ayahku, 'Apa yang dikatakan beliau?" [ayahku] menjawab, "(beliau mengatakan) Semuanya dari bangsa Quraisy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>1821.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>1821.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 5</td></tr></tbody></table></div>
 

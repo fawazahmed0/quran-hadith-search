@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Ma'mar:I asked Khabbab bin Al-Art whether the Prophet (ﷺ) used to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari ['Umarah] dari [Abu Ma'mar] berkata, "Aku bertanya kepada [Khabbab bin Al Arat], 'Apakah Rasulullah shallallahu 'alaihi wasallam membaca surah dalam shalat Zhuhur dan 'Ashar? ' Dia menjawab, "Ya." Kami tanyakan lagi, "Bagaimana kalian bisa mengetahui bacaan Beliau?" Dia menjawab, "Dari gerakan jenggot Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>761</td></tr><tr><td>Arabic No</td><td>761</td></tr><tr><td>Reference</td><td>Book 10 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Ма‘мар сказал: «(Однажды) я сказал Хаббабу ибн аль-Аратт: “Читал ли Пророк ﷺ (Коран) во время полуденных и послеполуденных намазов?” Он ответил: “Да”. Я спросили: “А как вы узнавали про его чтение?” Он ответил: “По движению его бороды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>761</td></tr><tr><td>Arabic No</td><td>761</td></tr><tr><td>Reference</td><td>Book 10 Hadith 155</td></tr></tbody></table></div>
 

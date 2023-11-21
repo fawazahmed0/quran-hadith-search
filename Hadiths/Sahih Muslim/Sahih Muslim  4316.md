@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:It is essential to feed t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir Ahmad bin 'Amru bin Sarh] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami ['Amru bin Al Harits] bahwa [Bukair bin Al Asyaj] telah menceritakan kepadanya dari [Al 'Ajlan] bekas budak Fatimah, dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Seorang budak itu berhak mendapatkan makan dan sandang (dari tuannya) dan janganlah dia dibebani atas suatu pekerjaan melainkan sesuai dengan kemampuannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4316</td></tr><tr><td>Arabic No</td><td>1662</td></tr><tr><td>Reference</td><td>Book 27 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4316</td></tr><tr><td>Arabic No</td><td>1662</td></tr><tr><td>Reference</td><td>Book 27 Hadith 63</td></tr></tbody></table></div>
 

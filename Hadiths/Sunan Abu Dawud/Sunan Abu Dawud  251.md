@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Salamah said:one of the Muslims asked, and Zubair reported: Umm Salamah (her
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ibnu As-Sarh] mereka berdua berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ayyub bin Musa] dari [Sa'id bin Abu Sa'id] dari [Abdullah bin Rafi', mantan sahaya Ummu Salamah] dari [Ummu Salamah] bahwasanya ada seorang wanita dari kaum Muslimin, [Zuhair] berkata; bahwasanya dia bertanya; Wahai Rasulullah, sesungguhnya saya adalah seorang wanita yang mengikat sanggul rambut kepala. Apakah saya harus melepasnya ketika mandi junub? Beliau menjawab, Cukup bagimu menuangkan air tiga kali ke atasnya, kemudian menuangkannya ke seluruh tubuhmu, maka dengan demikian berarti kamu telah suci. Telah menceritakan kepada kami [Ahmad bin Amru bin As-Sarh] telah menceritakan kepada kami [Ibnu Nafi' Ash-Sha'igh] dari [Usamah] dari [Al-Maqburi] dari [Ummu Salamah] bahwasanya ada seorang wanita datang kepada Ummu Salamah dengan hadits ini. Dia berkata; Maka aku pun bertanya kepada Nabi shallallahu 'alaihi wasallam untuk wanita tersebut, dengan maknanya, dia menyebutkan padanya; "Dan peraslah sanggul-sanggul kamu setiap tuangan (air)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (330)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>251</td></tr><tr><td>Arabic No</td><td>251</td></tr><tr><td>Reference</td><td>Book 1 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передеают со слов Умм Саламы о том, что однажды одна из женщин-мусульманок, - а в риваяте переданном со слов Зухайра сообщается, что она сказала: «О Посланник Аллаха, я женщина, которая заплетает волосы в косы, так следует ли мне распускать их для купания от осквернения?» Он ответил: «Тебе будет достаточно налить на нее три пригоршни (воды)».Зухайр также сказал: «Налей на голову три пригоршни воды, а затем налей на остальное тело и ты очистишься»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (330)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>251</td></tr><tr><td>Arabic No</td><td>251</td></tr><tr><td>Reference</td><td>Book 1 Hadith 251</td></tr></tbody></table></div>
 

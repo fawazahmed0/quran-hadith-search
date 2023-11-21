@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Jubair reported on the authority of Ibn 'Abbas (Allah be pleased with t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Kamil Fudlail bin Husain Al Jahdari] telah menceritakan kepada kami [Abu Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, bahwasanya; "Seroang laki-laki patah lehernya karena terjatuh dari Untanya ketika Ihram bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam. lalu beliau memerintahkan agar jenazahnya dimandikan dengan air campuran daun bidara, jangan pakai harum-haruman dan jangan ditutup kepalanya, karena dia akan dibangkitkan kelak pada hari kiamat dalam keadaan ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2898</td></tr><tr><td>Arabic No</td><td>1206.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2898</td></tr><tr><td>Arabic No</td><td>1206.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 107</td></tr></tbody></table></div>
 

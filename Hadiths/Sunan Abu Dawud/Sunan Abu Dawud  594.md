@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah(ﷺ) as saying:The obligatory praye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepada saya [Mu'awiyah bin Shalih] dari [Al-'Ala' bin Al-Harits] dari [Makhul] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat yang telah ditetapkan (shalat farlu) wajib dilakukan di belakang setiap Muslim, baik dia orang baik ataupun orang jahat, meskipun dia melakukan dosa besar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>594</td></tr><tr><td>Arabic No</td><td>594</td></tr><tr><td>Reference</td><td>Book 2 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: "Предписанные (обязательные) молитвы нужно совершать за каждым мусульманином, будь он благочестивым или грешником, и даже если он совершает большие грехи"».Также этот хадис передали аль-Байхакъи 3/121, ад-Даракъутни 1785, Ибн ‘Асакир
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>594</td></tr><tr><td>Arabic No</td><td>594</td></tr><tr><td>Reference</td><td>Book 2 Hadith 204</td></tr></tbody></table></div>
 

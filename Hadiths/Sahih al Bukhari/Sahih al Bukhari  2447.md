@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "Oppression will be a darkness on the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad binYunus] telah menceritakan kepada kami ['Abdul 'Aziz Al Majisyun] telah mengabarkan kepada kami ['Abdullah bin DInar] dari ['Abdullah bin 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam: "Kezhaliman adalah mendatangkan kegelapan hari qiyamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2447</td></tr><tr><td>Arabic No</td><td>2447</td></tr><tr><td>Reference</td><td>Book 46 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «В День воскресения притеснение (обернётся густым) мраком»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2447</td></tr><tr><td>Arabic No</td><td>2447</td></tr><tr><td>Reference</td><td>Book 46 Hadith 8</td></tr></tbody></table></div>
 

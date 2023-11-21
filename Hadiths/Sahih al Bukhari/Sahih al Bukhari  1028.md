@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zaid Al-Ansari:The Prophet (ﷺ) went out towards the Mus
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] berkata, telah mengabarkan kepada kami ['Abdul Wahhab] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] berkata, telah mengabarkan kepadaku [Abu Bakar bin Muhammad] bahwa ['Abbad bin Tamim] mengabarkan kepadanya bahwa ['Abdullah bin Zaid Al Anshari] mengabarkan kepadanya, bahwa Nabi shallallahu 'alaihi wasallam pernah keluar menuju tempat shalat untuk melaksanakan shalat (istisqa'). Ketika beliau berdoa, atau akan berdoa, beliau menghadap ke arah kiblat dan membalik selendangnya." Abu 'Abdullah berkata, "'Abdullah bin Zaid ini adalah dari suku Al Maazini. Sedangkan yang pertama (rawi pada hadits ke 966) adalah dari Kufah, yaitu Ibnu Yazid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1028</td></tr><tr><td>Arabic No</td><td>1028</td></tr><tr><td>Reference</td><td>Book 15 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн Зейда аль-Ансари, что однажды Пророк ﷺ отправился к месту совершения молитвы, чтобы совершить ее. И когда он обратился к Аллаху с мольбой (или хотел обратиться), он повернулся лицом к кибле и надел свою накидку наизнанку
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1028</td></tr><tr><td>Arabic No</td><td>1028</td></tr><tr><td>Reference</td><td>Book 15 Hadith 23</td></tr></tbody></table></div>
 

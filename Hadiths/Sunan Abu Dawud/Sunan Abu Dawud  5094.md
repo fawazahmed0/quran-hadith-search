@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: The Messenger of Allah (ﷺ) never went ou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Asy Sya'bi] dari [Ummu Salamah] ia berkata, "Nabi shallallahu 'alaihi wasallam tidak pernah keluar dari rumah kecuali beliau melihat ke langit seraya berdoa: "ALLAHUMMA A'UUDZU BIKA AN ADLILLA AU UDLALLA AU AZILLA AU UZALLA IA AZHLIMA AU UZHLAMA AU AJHALA AU UJHALA 'ALAYYA (Ya Alla ya Tuhanku, aku berlindung kepada-Mu dari ketersesatan atau disesatkan, tergelincir atau digelincirkan, menzhalimi atau dizhalimi dan membodohi atau dibodohi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 43 Hadith 322</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов матери правоверных Умм Саламы, да будет доволен ею Аллах, что когда Пророк ﷺ выходил из ее дома, то всегда говорил, подняв взор к небу: «О Аллах, поистине, я прибегаю к Тебе от того, чтобы впасть в заблуждение или быть введённым в заблуждение, от того, чтобы самому допустить ошибку, и от того, чтобы меня заставили ошибиться, от того, чтобы самому допустить несправедливость, и от того, чтобы со мной поступили несправедливо, от того, чтобы пребывать в невежестве, и от того, чтобы меня держали в невежестве»./Аллахумма, инни а‘узу би-кя ан адылля ау удалля, ау азилля ау узалля ау азлима ау узлима, ау аджхаля ау йуджхаля ‘аляййа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 43 Hadith 322</td></tr></tbody></table></div>
 

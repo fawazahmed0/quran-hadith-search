@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al--A'mash:Abu Huraira said, "Allah's Messenger (ﷺ) said, 'Between th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] Telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jarak antara dua tiupan (sangkakala) adalah empat puluh." Ibnu Abbas bertanya, "Empat puluh hari?" beliau menjawab: "Tidak." Ia bertanya lagi, "Empat puluh bulan?" beliau menjwab: "Tidak." Ia bertanya lagi, "Empat puluh tahun?" Beliau menjawab: "Tidak." Beliau kemudian bersabda: "Setelah itu, Allah menurunkan air dari langit, maka mereka pun hidup kembali sebagaimana tumbuhnya sayur-sayuran. Tidak ada tersisa seorang pun kecuali ia akan binasa, kecuali satu tulang yakni tulang ekor. Dari tulang itulah, manusia dibangkitkan kembali pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4935</td></tr><tr><td>Arabic No</td><td>4935</td></tr><tr><td>Reference</td><td>Book 65 Hadith 456</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Абу Хурайра, да будет доволен им Аллах, рассказывал (людям, что) Посланник Аллаха ﷺ сказал: «Между (первым и вторым) трубными гласами (пройдёт) сорок». (Абу Хурайра сказал): «Они спросили: “Сорок дней?”, но я отказался (отвечать). Они (снова) спросили: “Сорок месяцев?”, но я отказался (отвечать). Они (снова) спросили: “Сорок лет?”» (Абу Хурайра, да будет доволен им Аллах,) сказал: «И я отказался (отвечать», а потом добавил, что Пророк ﷺ сказал): «Затем Аллах ниспошлёт с неба воду, и они (люди) вырастут подобно растениям. И истлеют все (части тела) человека, кроме копчика, с которого (Аллах) создаст его (заново) в День Воскресения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4935</td></tr><tr><td>Arabic No</td><td>4935</td></tr><tr><td>Reference</td><td>Book 65 Hadith 456</td></tr></tbody></table></div>
 

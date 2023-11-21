@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar b. Muhammad b. Zaid b. 'Abdullah b. 'Umar b. al-Khattab reported on the aut
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] dan [Harmalah bin Yahya] keduanya berkata: Telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Umar bin Muhammad bin Zaid bin Abdullah bin Umar bin Al Khathtahab] bahwa [bapaknya] telah menceritakan kepadanya dari [Abdullah bin Umar] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Bila penghuni surga menempati surga dan penghuni neraka menempati neraka, kematian didatangkan hingga diletakkan diantara surga dan neraka, setelah itu disembelih lalu penyeru menyerukan: 'Wahai penghuni surga, tidak ada kematian dan wahai penghuni neraka, tidak ada kematian.' Penghuni surga semakin senang dan penghuni neraka semakin sedih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7184</td></tr><tr><td>Arabic No</td><td>2850.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7184</td></tr><tr><td>Arabic No</td><td>2850.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 53</td></tr></tbody></table></div>
 

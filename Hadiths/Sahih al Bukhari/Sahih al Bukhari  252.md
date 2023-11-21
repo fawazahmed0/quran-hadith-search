@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Ja'far:While I and my father were with Jabir bin 'Abdullah, some pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Yahya bin Adam] berkata, telah menceritakan kepada kami [Zuhair] dari [Abu Ishaq] berkata, telah menceritakan kepada kami [Abu Ja'far] bahwasanya ia berada di sisi [Jabir bin 'Abdullah] -dia dan ayahnya (Ali bin Al Hasan) -, dan di dekat Jabir juga ada sekelompok orang yang bertanya kepadanya tentang cara mandi. Jabir bin Abdullah lalu menjawab, "Cukup bagimu dengan satu sha' air." Tiba-tiba ada seorang yang berkata, "Bagiku tidak cukup!" Maka Jabir pun berkata, "Seukuran itu cukup buat orang yang lebih lebat rambutnya darimu, dan yang lebih baik darimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>252</td></tr><tr><td>Arabic No</td><td>252</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Исхакъ, да помилует его Аллах Всевышний, сказал: «Рассказывал нам Абу Джа‘фар, что как-то раз, когда он вместе со своим отцом и с другими людьми находился у Джабира бин ‘Абдуллаха, да будет доволен им Аллах, эти люди стали спрашивать его о (том, как следует совершать) большое омовение. Он сказал: “(Для этого) тебе достаточно одного са‘ воды”. Один человек сказал: “Этого мне не хватит”. Джабир сказал: “(Однако) этого хватало тому, у кого было больше волос, чем у тебя, и кто был лучше тебя!” − после чего он возглавил нашу общую молитву, встав на место имама в одной одежде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>252</td></tr><tr><td>Arabic No</td><td>252</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
 

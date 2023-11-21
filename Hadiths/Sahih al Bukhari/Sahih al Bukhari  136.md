@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nu'am Al-Mujmir:Once I went up the roof of the mosque, along with Abu H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari [Khalid] dari [Sa'id bin Abu Hilal] dari [Nu'aim bin Al Mujmir] berkata, "Aku mendaki masjid bersama [Abu Hurairah], lalu dia berwudlu' dan berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya umatku akan dihadirkan pada hari kiamat dengan wajah berseri-seri karena sisa air wudlu, barangsiapa di antara kalian bisa memperpanjang cahayanya hendaklah ia lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>136</td></tr><tr><td>Arabic No</td><td>136</td></tr><tr><td>Reference</td><td>Book 4 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ну‘айм аль-Муджмир сказал: «(Однажды) я поднялся с Абу Хурайрой, да будет доволен им Аллах, на тыльную часть мечети, где он совершил омовение и сказал:\n— Я слышал, как Пророк ﷺ говорил: «Поистине, в День воскресения к членам моей общины будут обращаться, называя их “гъурран мухаджжалина” из-за следов омовения, так пусть же тот, кто сможет увеличить свою “гъурра”, сделает это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>136</td></tr><tr><td>Arabic No</td><td>136</td></tr><tr><td>Reference</td><td>Book 4 Hadith 2</td></tr></tbody></table></div>
 

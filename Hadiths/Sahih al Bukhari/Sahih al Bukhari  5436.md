@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A tailor invited the Prophet (ﷺ) to a meal which he ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Salamah] dari [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] Bahwasanya ia mendengar [Anas bin Malik] berkata, "Seorang tukang jahit mengundang Nabi shallallahu 'alaihi wasallam untuk menghadiri jamuan yang ia masak. Aku lalu pergi bersama Nabi shallallahu 'alaihi wasallam memenuhi undangan tersebut, penjahit itu lalu menyodorkan roti gandum dan kuah yang di dalamnya ada labu dan daging yang telah dikeringkan. Aku melihat Nabi shallallahu 'alaihi wasallam memilih-milih buah labu di dalam bejana tersebut, maka setelah hari itu aku sangat menyukai buah labu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5436</td></tr><tr><td>Arabic No</td><td>5436</td></tr><tr><td>Reference</td><td>Book 70 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(В своё время один) портной пригласил Пророка ﷺ отведать еды, которую он приготовил. И я пошёл на это угощение вместе с Пророком ﷺ. (Портной) подал ячменный хлеб и суп, в котором были ломтики тыквы и кусочки сушёного мяса, и я видел, как Пророк ﷺ выискивал и брал (ломтики) этой тыквы со всех сторон блюда». (Анас) сказал: «И с того дня я полюбил тыкву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5436</td></tr><tr><td>Arabic No</td><td>5436</td></tr><tr><td>Reference</td><td>Book 70 Hadith 64</td></tr></tbody></table></div>
 

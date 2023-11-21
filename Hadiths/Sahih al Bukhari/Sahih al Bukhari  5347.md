@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:The Prophet (ﷺ) cursed the lady who practices tattooing a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Su'bah] Telah menceritakan kepada kami ['Aun bin Juhaifah] dari [bapaknya] ia berkata; "Nabi shallallahu 'alaihi wasallam telah melaknat Al Wasyimah (wanita yang mentato) dan Al Mustausyimah (wanita yang meminta untuk ditato), orang yang memakan riba, dan orang yang memberi dari hasil riba. Dan beliau juga melarang untuk memakan hasil keuntungan dari anjing, dan pelacur. Kemudian beliau juga melaknat para tukang gambar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5347</td></tr><tr><td>Arabic No</td><td>5347</td></tr><tr><td>Reference</td><td>Book 68 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Ауна ибн Абу Джухайфа, что его отец сказал: «Пророк ﷺ проклял женщин, которые заниматься нанесением татуировок (другим), и тех, кому их делают, и пожирающего лихву (риба), и дающего её, запретил брать деньги за собаку и заработок блудницы, и он проклял создающих изображения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5347</td></tr><tr><td>Arabic No</td><td>5347</td></tr><tr><td>Reference</td><td>Book 68 Hadith 92</td></tr></tbody></table></div>
 

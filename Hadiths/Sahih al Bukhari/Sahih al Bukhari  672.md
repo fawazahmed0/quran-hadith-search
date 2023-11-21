@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "If the supper is served s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Anas bin Malik radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam: "Apabila makan malam sudah dihidangkan, maka makanlah terlebih dahulu sebelum kalian melaksankan shalat Maghrib. Dan janganlah kalian tergesa-gesa dalam menyelesaikan makan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 10 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал:«Если будет подан ужин, то начинайте (ужинать), прежде чем совершать закатный /магъриб/ намаз, и не торопитесь во время еды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 10 Hadith 66</td></tr></tbody></table></div>
 

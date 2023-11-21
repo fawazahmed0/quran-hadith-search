@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A man said to the Prophet (while he was delivering a sermon 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Abu Bakar bin 'Iyyasy] dari ['Abdul Aziz bin Rufai'] dari ['Atho'] dari [Ibnu 'Abbas] radliallahu 'anhuma menuturkan; seorang laki-laki berkata kepada Nabi shallallahu 'alaihi wasallam; 'Saya berziarah sebelum melempar jumrah? ' Nabi menjawab: "Nggak masalah", laki-laki lain mengatakan; 'Saya mencukur sebelum melempar jamarat? ' Nabi menjawab: "Nggak masalah!" Yang lain mengatakan; 'Saya mencukur sebelum menyembelih? ' Nabi menjawab: "Nggak masalah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6666</td></tr><tr><td>Arabic No</td><td>6666</td></tr><tr><td>Reference</td><td>Book 83 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Однажды, один человек сказал Пророку ﷺ: “Я совершил обход вокруг Каабы /таваф/ до того, как бросил камешки”. (Пророк ﷺ) ответил: “Ничего страшного”. Другой сказал: “Я обрил голову до того, как зарезал жертвенное животное”. (Пророк ﷺ) ответил: “Ничего страшного”. Другой сказал: “Я зарезал жертвенное животное до того, как бросил камешки”. (Пророк ﷺ) ответил: “Ничего страшного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6666</td></tr><tr><td>Arabic No</td><td>6666</td></tr><tr><td>Reference</td><td>Book 83 Hadith 44</td></tr></tbody></table></div>
 

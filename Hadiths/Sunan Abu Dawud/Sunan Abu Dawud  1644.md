@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Said al-Khudri said :Some of the Ansar begged from the Messenger of Allah (M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari ['Atho' bin Yazid Al Laitsi] dari [Abu Sa'id Al Khudri] bahwa beberapa orang Anshar meminta kepada Rasulullah, lalu beliau memberi mereka. Kemudian mereka meminta lagi kepadanya, lalu beliau beliau memberi mereka hingga habis apa yang beliau miliki. Beliau bersabda: "Kebaikan (harta) yang ada padaku tidak akan aku simpan dari kalian. Dan barang siapa yang menjaga kehormatan dirinya maka Allah Azza wa Jalla akan menjaga kehormatannya, dan barang siapa yang bersabar maka Allah akan menjadikannya bersabar. Tidaklah seseorang diberi suatu pemberian yang lebih baik dan lebih luas daripada kesabaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1469) Sahih Muslim (1053)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1644</td></tr><tr><td>Arabic No</td><td>1644</td></tr><tr><td>Reference</td><td>Book 9 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри о том, что (однажды) какие-то люди из числа ансаров попросили (что-то) у Посланника Аллаха ﷺ и он дал им (это), потом они (снова) попросили у него (что-то), и он дал им, и в конце концов раздав всё, что у него было, он сказал: «Что бы ни оказалось в моих руках, я никогда не стану утаивать от вас этого,(однако запомните, что) того, кто станет стремиться к воздержанности, Аллах приведёт к воздержанности, того, кто станет пытаться обходиться своими силами, Аллах избавит (от необходимости обращаться к другим), а тому, кто станет проявлять терпение, Аллах внушит терпение, и никто ещё не получал более щедрого дара от Аллаха, чем терпение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1469) Sahih Muslim (1053)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1644</td></tr><tr><td>Arabic No</td><td>1644</td></tr><tr><td>Reference</td><td>Book 9 Hadith 89</td></tr></tbody></table></div>
 

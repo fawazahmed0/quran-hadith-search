@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Juraij reported:I asked 'Ata': What do you recite when you are in a state of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Hasan bin Ali al-Hulwani] dan [Muhammad bin Rafi'] keduanya berkata, telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ibnu Juraij] dia berkata, "Aku pernah bertanya kepada [Atha'], 'Apa yang kamu baca ketika sedang rukuk? ' Dia menjawab, "Subhaanaka Wa Bihamdika La Ilaha Illa Anta (Mahasuci Engkau dan dengan memujiMu, tidak ada tuhan (yang berhak disembah) selain Engkau)." Lalu [Ibnu Abi Mulaikah] juga mengkabarkan kepadaku dari ['Aisyah], dia berkata, "Suatu malam aku pernah kehilangan Nabi Shallallahu'alaihiwasallam, dan aku mengira bahwa beliau pergi kepada beberapa isteri beliau yang lain, aku pun mencari-cari beliau, dan ketika kembali ternyata beliau sedang rukuk atau sujud dan membaca, "Subhaanaka Wa Bihamdika Laa Ilaaha Illaa Anta". Maka akupun berkata, "Ayah dan ibuku sebagai tebusanmu, sungguh aku berada pada satu perkara, sedangkan kamu berada pada perkara yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>485</td></tr><tr><td>Reference</td><td>Book 4 Hadith 251</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Джурайдж сказал: «Я спросил ‘Ату: “Что ты говоришь во время поясного поклона?”, и он ответил: “Что касается слов: “Слава Тебе и хвала Тебе, нет бога, кроме Тебя!” /Субхана-кя, ва би-хамди-кя, ля иляха илля Анта!/, то Ибн Абу Муляйка передал мне, что ‘Аиша сказала: “(Проснувшись) однажды ночью, я не нашла (рядом с собой) Пророка ﷺ, и подумала, что отправился к одной из своих жён. Я стала искать его, а затем вернулась и обнаружила его совершающим поясной или земной поклон и говорящим: “Слава Тебе и хвала Тебе, нет бога, кроме Тебя!” /Субхана-кя, ва би-хамди-кя, ля иляха илля Анта!/ И тогда я сказала: “Да станут мои родители выкупом за тебя! Я (думала что занимаешься) одним делом, а (оказывается) ты занят совсем другим”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>485</td></tr><tr><td>Reference</td><td>Book 4 Hadith 251</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim bin 'Abdullah bin 'Umar:'Abdul-Malik bin Marwan wrote to Al-Hajja
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Salim bin 'Abdullah] berkata; "'Abdul Malik menulis surat kepada Al Hajjaj agar mengikuti ['Abdullah bin 'Umar] tentang pelaksanaan manasik hajji. Ketika hari 'Arafah, Ibnu'Umar radliallahu 'anhuma datang saat aku bersamanya setelah matahari condong atau siang hari, lalu dia berteriak di depan kemahnya: "Mana dia?". Lantas ia (Al Hajjaj) keluar menemuinya. Ibnu 'Umar radliallahu 'anhuma: "Pergilah diakhir siang". Ia bertanya: "Apakah sekarang?". Ia menjawab: "Ya, benar". Dia berkata: "Tunggulah aku hingga aku membasahi kepalaku". Lalu ia ('Abdullah) berhenti hingga Al Hajjaj keluar, kemudian ia berjalan diantara aku dan bapakku. Aku berkata, kepadanya (Al Hajjaj): "Jika kamu ingin mendapatkan sunah hari ini maka pendekkanlah khutbah, dan percepatlah wukuf". Kemudian Ibnu'Umar radliallahu 'anhuma berkata: "Dia benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1663</td></tr><tr><td>Arabic No</td><td>1663</td></tr><tr><td>Reference</td><td>Book 25 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Салима ибн ‘Абдуллаха: «‘Абдульмалик ибн Маруан написал аль-Хаджаджу, чтобы он следовал за ‘Абдуллахом ибн ‘Умаром в выполнении обрядов хаджа. Когда настал день ‘Арафата, и солнце начало отклонятся от зенита, я пришёл с Ибн ‘Умаром, да будет доволен Аллах им и его отцом, к палатке аль-Хаджаджа и он (Ибн ‘Умар) крикнул: “Где он?” Тогда аль-Хаджадж вышел к нему, и Ибн ‘Умар сказал: “Поторопись, пора отправляться (на ‘Арафат)!” Аль-Хаджадж спросил: “Сейчас!?” Ибн ‘Умар ответил: “Да”. Аль-Хаджадж сказал: “Подожди меня, я полью голову водой (и выйду)”. Ибн ‘Умар, да будет доволен Аллах им и его отцом, слез (со своего верхового животного и начал его ждать). Когда он вышел и прошёл между мной и моим отцом, я сказал: “Если хочешь поступить в соответствие с сунной, произнеси короткую проповедь и поспеши к стоянию (на ‘Арафат)”. Ибн ‘Умар сказал: “Он сказал правду”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1663</td></tr><tr><td>Arabic No</td><td>1663</td></tr><tr><td>Reference</td><td>Book 25 Hadith 144</td></tr></tbody></table></div>
 

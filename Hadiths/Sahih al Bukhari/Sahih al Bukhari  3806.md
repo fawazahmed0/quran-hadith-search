@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:I heard the Prophet (ﷺ) saying, "Learn the recitat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] dari ['Amru] dari [Ibrahim] dari [Masruq] dari ['Abdullah bin 'Amru radliallahu 'anhuma], aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Ambillah bacaan al-Qur'an dari empat orang. Yaitu dari Ibnu Mas'ud, Salim, maula Abu Hudzaifah, Ubay bin Ka'ab dan Mu'adz bin Jabal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3806</td></tr><tr><td>Arabic No</td><td>3806</td></tr><tr><td>Reference</td><td>Book 63 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Амра, да будет доволен Аллах ими обоими, что он слышал, как Посланник Аллаха ﷺ сказал: «Учитесь чтению Корана у четверых: у ‘Абдуллаха бин Мас‘уда, у Салима, вольноотпущенника Абу Хузайфы, у Убаййа бин Ка‘ба и у Му‘аза бин Джабаля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3806</td></tr><tr><td>Arabic No</td><td>3806</td></tr><tr><td>Reference</td><td>Book 63 Hadith 31</td></tr></tbody></table></div>
 

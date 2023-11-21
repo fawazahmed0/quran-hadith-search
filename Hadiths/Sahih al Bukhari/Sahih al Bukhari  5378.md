@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Wahb bin Kaisan Abi Nu'aim:A meal was brought to Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Wahb bin Kaisan Abu Nu'aim] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah diberi makanan, dan saat itu beliau bersama anak tirinya Umar bin Abu Salamah, maka beliau pun bersabda: "Bacalah Basmalah dan ambillah makanan yang ada didekatmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5378</td></tr><tr><td>Arabic No</td><td>5378</td></tr><tr><td>Reference</td><td>Book 70 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Вахб ибн Кейсан Абу Ну‘айм сказал: «Посланнику Аллаха ﷺ принесли еду, когда с ним был его пасынок ’Умар ибн Аби Саляма, и Посланник Аллаха ﷺ сказал ему: “Скажи: “С именем Аллаха» /Би-сми-Лляхи! /, и бери то, что находится рядом с тобой!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5378</td></tr><tr><td>Arabic No</td><td>5378</td></tr><tr><td>Reference</td><td>Book 70 Hadith 6</td></tr></tbody></table></div>
 

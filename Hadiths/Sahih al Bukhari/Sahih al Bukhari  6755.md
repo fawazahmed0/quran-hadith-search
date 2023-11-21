@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:We have no Book to recite except the Book of Allah (Qur'an) and th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Ibrahim At Taimi] dari [ayahnya] mengatakan, [Ali] radliallahu 'anhu menuturkan; 'Kami tidak mempunyai kitab yang kami baca kecuali kitabullah dan lembaran ini.' ayah At Taimi menerangkan; kemudian Ali mengeluarkannya, yang isinya adalah beberapa benda dari batuan dan gigi unta, yang tertulis: "Kota Madinah adalah haram (suci), yakni daerah antara 'Air dan Tsaur. Maka barangsiapa yang berbuat kejahatan di dalamnya, atau berniat hendak melakukan kejahatan di dalamnya, niscaya laknat Allah, para Malaikat dan laknat seluruh manusia akan tertimpa kepadanya. Allah tidak akan menerima darinya pada hari kiamat amalan wajib atau pun amalan sunnahnya. Dan barangisapa yang berwali kepada tanpa izin walinya, maka laknat Allah, para Malaikat dan laknat seluruh manusia akan tertimpa kepadanya, tidak akan diterima darinya pada hari kiamat amalan wajib atau pun amalan sunnahnya. Dzimmah kaum muslimin adalah satu, yang mana dzimmah tersebut berlaku bagi orang yang paling rendah diantara mereka. Barangsiapa merusak janji seorang muslim, maka laknat Allah, para Malaikat dan laknat seluruh manusia akan tertimpa kepadanya, tidak akan diterima darinya pada hari kiamat amalan wajib atau pun amalan sunnahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6755</td></tr><tr><td>Arabic No</td><td>6755</td></tr><tr><td>Reference</td><td>Book 85 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибрахим ат-Тайми рассказал со слов своего отца: «Однажды ‘Али сказал: “Нет у нас никакой книги, которую бы мы читали, кроме Книги Аллаха и того, что написано в этом свитке”. После чего он развернул этот свиток, и оказалось, что там (говорилось) о вещах, имеющих отношение к (компенсации за нанесение) ранений и возрасте верблюдов, и (ещё) там (было написано, что Посланник Аллаха ﷺ) сказал: “Медина является заповедной от ‘Аира до Саура, и тот, кто совершит в ней преступление (или: тот, кто станет вводить в ней новшества) или предоставит убежище совершившему преступление (или: тому, кто вводит новшества), будет проклят Аллахом, ангелами и всеми людьми, а в День воскресения Аллах не примет от него ни ни дополнительное (или: ни покаяния) /сарф/, ни обязательное (или: ни искупления) /‘адль/. И (если любой вольноотпущенник) перейдёт под покровительство кого бы то ни было без разрешения тех, кто дал ему свободу, его постигнет проклятие Аллаха, ангелов и всех людей, а в День воскресения Аллах не примет от него ни ни дополнительное (или: ни покаяния), ни обязательное (или: ни искупления). Защита (предоставляемая) мусульманами, едина, (даже если) предоставляет её нижайший из них, а тот, кто нарушит (защиту, предоставленную) мусульманином, будет проклят Аллахом, ангелами и всеми людьми, а в День воскресения Аллах не примет от него ни ни дополнительное (или: ни покаяния), ни обязательное (или: ни искупления)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6755</td></tr><tr><td>Arabic No</td><td>6755</td></tr><tr><td>Reference</td><td>Book 85 Hadith 32</td></tr></tbody></table></div>
 

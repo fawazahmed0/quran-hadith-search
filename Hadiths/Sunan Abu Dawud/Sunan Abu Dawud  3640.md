@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: Two men brought their dispute about the precincts o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] bahwa [Muhammad bin Utsman] menceritakan kepada mereka, ia berkata; telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Abu Thuwalah] dan ['Amru bin Yahya] dari [Ayahnya] dari [Abu Sa'id Al Khudri] ia berkata, "Dua orang laki-laki mengadukan kepada Rasulullah shallallahu 'alaihi wasallam tentang batas kebun kurma mereka. Kemudian beliau memerintahkan agar mengukurnya, lalu batasan tersebut diukur dan didapati ukurannya adalah tujuh hasta. Dan dalam hadits yang lain, maka di dapati ukurannya adalah lima hasta, lalu beliau memutuskan dengan hal tersebut." Abdul Aziz berkata, "Kemudian beliau memerintakan agar diambilkan salah satu dahan pohon kurma tersebut, kemudian batasan tersebut diukur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3640</td></tr><tr><td>Arabic No</td><td>3640</td></tr><tr><td>Reference</td><td>Book 25 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах: «Однажды к Посланнику Аллаха ﷺ пришли два человека, которые вели тяжбу из-за пространства вокруг пальмы. (Посланник Аллаха ﷺ) велел измерить эту пальму, и оказалось, что её длина составляет семь локтей (или: пять локтей). И он вынес решение, что пространство вокруг пальмы должно быть такой же ширины». (Передатчик) ‘Абду-ль-‘Азиз сказал: «И он велел взять одну из голых пальмовых ветвей, и она была измерена»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3640</td></tr><tr><td>Arabic No</td><td>3640</td></tr><tr><td>Reference</td><td>Book 25 Hadith 70</td></tr></tbody></table></div>
 

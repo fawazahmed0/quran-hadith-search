@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Kharija bin Zaid bin Thabit:Um Al-'Ala an Ansari woman who had given a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] telah menceritakan kepadaku [Al Laits] telah menceritakan kepada kami [Uqail] dari [Ibnu Syihab] telah mengabarkan kepadaku [Kharijah bin Zaid bin Tsabit], bahwa [Ummul 'Ala] seorang wanita anshar yang pernah berbai'at kepada Rasulullah Shallallahu'alaihiwasallam mengabarinya; bahwasanya para sahabat membagi-bagi kantong kulit kepada kaum muhajirin, tiba-tiba Utsman bin mazh'un bergegas menemui kami, dan kami tempatkan didalam rumah kami, kemudian ia sakit yang menyebabkan kematiannya. Tatkala ia meninggal, dia dimandikan dan dikafankan dalam kainnya, Rasulullah Shallallahu'alaihiwasallam masuk. Lantas saya bergumam; 'Kiranya rahmat Alalh terlimpah kepadamu hai Abu Saib, dan persaksianku terhadap dirimu, sungguh Allah telah memuliakanmu.' Rasulullah Shallallahu'alaihiwasallam bertanya: "dari mana kamu tahu bahwa Allah telah memuliakannya?" Saya menjawab; 'Dengan ayahku sebagai tebusanmu ya Rasulullah, siapakah yang dimuliakan Allah? ' Rasulullah bersabda; "Adapun dia, demi Allah, kematian telah merenggutnya, demi Allah, sungguh aku berharap ia memperoleh kebaikan, dan demi Allah, saya tidak tahu bagaimana aku diperlakukan nanti sedang aku Rasulullah." Kata Ummul 'Ala; Demi Allah, saya sama sekali tidak akan mensucikan seseorang setelahnya selamanya.' Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dengan isnad ini, dan ia mengatakan; "Saya tidak tahu, bagaimana aku diperlakukan!" kata Ummul 'Ala; hal itu menjadikanku sedih sehingga aku tidur dan aku bermimpi melihat 'Utsman mempunyai mata air yang mengalir, dan aku kabarkan kepada Rasulullah Shallallahu'alaihiwasallam, dan beliau bersabda: "Itulah amalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7003</td></tr><tr><td>Arabic No</td><td>7003</td></tr><tr><td>Reference</td><td>Book 91 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хариджа ибн Зейд ибн Сабит передаёт, что однажды Умм аль-‘Аля, да будет доволен ею Аллах, женщина из числа ансаров, которая дала Посланнику Аллаха ﷺ клятву на верность исламу, сказала ему: «(Ансары) распределили мухаджиров по жребию, и нам достался ‘Усман бин Маз‘ун, которого мы поселили в нашем доме, а (через некоторое время) он заболел и умер. После того как он умер, был обмыт и завёрнут в свою одежду, (к нам) пришёл Посланник Аллаха ﷺ, а я сказала: “Да помилует тебя Аллах, Абу-с-Са‘иб, свидетельствую, что Аллах почтил тебя!” (Услышав эти слова,) Посланник Аллаха ﷺ спросил: “Откуда тебе знать, что Аллах почтил его?” Я сказала: “Да станет мой отец выкупом за тебя, о Посланник Аллаха, а кому же ещё Аллах окажет почёт?!” Тогда Посланник Аллаха ﷺ сказал: “Что касается его, то, клянусь Аллахом, он скончался, и, клянусь Аллахом, поистине, я желаю ему блага, однако клянусь Аллахом и в том, что не знаю, что будет сделано даже со мной, хотя я и Посланник Аллаха!”».\n(Умм аль-‘Аля) сказала: «И, клянусь Аллахом, с тех пор я больше ни о ком не говорю так»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7003</td></tr><tr><td>Arabic No</td><td>7003</td></tr><tr><td>Reference</td><td>Book 91 Hadith 21</td></tr></tbody></table></div>
 

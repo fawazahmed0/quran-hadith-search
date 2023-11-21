@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr:Here (i.e. in Mecca) there was a man called Nawwas and he had came
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] berkata, ['Amru] berkata: "Dahulu disini ada seseorang yang bernama Nawas, ia memiliki unta yang sakit. Lalu [Ibnu 'Umar radliallahu 'anhuma] datang untuk membeli unta tersebut melalui seorang temannya, lalu temannya itu berkata: "Kami telah menjual unta itu". Ia (Nawas) bertanya: "Kepada siapa kamu menjualnya?. Ia menjawab: "Kepada seorang syeikh begini dan begitu". Ia (Ibnu 'Umar) berkata: "Celaka engkau, demi Allah orang itu adalah Ibnu 'Umar". Lalu iapun menemuinya dan berkata: "Sesungguhnya temanku telah menjual kepadamu unta yang sakit sedangkan ia tidak menjelaskannya kepadamu". Kata (Ibnu 'Umar): "Kalau begitu, ambil saja untamu". Ketika Nawas akan mengambilnya, Ibnu 'Umar berkata: "Biarkanlah, kami ridha dengan keputusan Rasulullah shallallahu 'alaihi wasallam yang beliau bersabda 'Sesungguhnya tidak penyakit yang menular dengan sendiri ". Sufyan mendengar ini dari 'Amru
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2099</td></tr><tr><td>Arabic No</td><td>2099</td></tr><tr><td>Reference</td><td>Book 34 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара бин аль-Хаттаба, да будет доволен Аллах ими обоими, что у одного человека по имени Наввас были больные верблюды, и Ибн ‘Умар, да будет доволен Аллах ими обоими, пошёл и купил таких верблюдов у его совладельца. А потом этот совладелец пришёл к (Наввасу) и сказал:\n«Мы продали этих верблюдов». (Наввас) спросил: «Кому ты их продал?» Тот сказал: “Такому-то старцу». (Наввас) воскликнул: «Горе тебе, клянусь Аллахом, это же Ибн ‘Умар!» После этого он пришёл к (Ибн ‘Умару) и сказал: «Мой товарищ продал тебе больных верблюдов, но он не знал тебя!» (Ибн ‘Умар) сказал: «Уведи их», но когда тот пошёл, чтобы угнать (верблюдов, Ибн ‘Умар) сказал: «Оставь их! Мы довольствуемся суждением Посланника Аллаха ﷺ (который сказал): “(Сама по себе) зараза не пристаёт”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2099</td></tr><tr><td>Arabic No</td><td>2099</td></tr><tr><td>Reference</td><td>Book 34 Hadith 52</td></tr></tbody></table></div>
 

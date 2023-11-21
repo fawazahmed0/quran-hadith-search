@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Staying at Al-Mahassab is not one of the ceremonies (of Hajj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah berkata, ['Amru] dari ['Atho'] dari [Ibnu 'Abbas radliallahu 'anhuma]: At-Tahshib (tempat singgah menjelang jumrah) bukanlah sesuatu bagian dari manasik, tapi dia hanyalah tempat yang pernah digunakan Rasulullah shallallahu 'alaihi wasallam untuk singgah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1766</td></tr><tr><td>Arabic No</td><td>1766</td></tr><tr><td>Reference</td><td>Book 25 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Остановка в Мухассабе не является (обрядом хаджа), это — только место, где Посланник Аллаха ﷺ остановился (во время прощального паломничества)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1766</td></tr><tr><td>Arabic No</td><td>1766</td></tr><tr><td>Reference</td><td>Book 25 Hadith 242</td></tr></tbody></table></div>
 

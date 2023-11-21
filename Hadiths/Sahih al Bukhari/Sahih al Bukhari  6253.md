@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:That the Prophet (ﷺ) said to her, "Gabriel sends Salam (greeti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zakariya'] dia berkata; saya mendengar ['Amir] berkata; telah menceritakan kepadaku [Abu Salamah bin Abdurrahman] bahwa [Aisyah] radliallahu 'anha pernah menceritakan kepadanya bahwa Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Sesungguhnya Jibril menyampaikan salam kepadamu." Aisyah menjawab; "Wa'alaihis salam warahmatullahi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6253</td></tr><tr><td>Arabic No</td><td>6253</td></tr><tr><td>Reference</td><td>Book 79 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) Пророк ﷺ сказал ей: «Вот Джибрил приветствует тебя», (на что) она сказала: «И ему мир и милость Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6253</td></tr><tr><td>Arabic No</td><td>6253</td></tr><tr><td>Reference</td><td>Book 79 Hadith 27</td></tr></tbody></table></div>
 

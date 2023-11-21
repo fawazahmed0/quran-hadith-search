@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] berkata, telah menceritakan kepada kami [Abul Ahwash] berkata, telah menceritakan kepada kami [Simak] dari [Ibrahim] dari [Alqamah] dan [Al Aswad] keduanya berkata, " [Abdullah] berkata, "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Aku telah mencumbui seorang wanita dari pinggiran kota, aku telah melakukan semuanya kecuali persetubuhan. Dan sekarang aku ada dihadapanmu, maka hukumlah aku sekehendakmu." Umar menimpali, "Allah telah menutupimu sekirannya kamu menutupi dirimu sendiri." Nabi shallallahu 'alaihi wasallam tidak memberi komentar apapun juga. Laki-laki itu lalu pergi dan Nabi shallallahu 'alaihi wasallam menyuruh orang mengikutinya dari belakang, beliau lantas memanggil laki-laki tersebut seraya membaca ayat: '(Dan dirikanlah sembahyang itu pada kedua tepi siang (pagi dan petang) dan pada bahagian permulaan daripada malam Sesungguhnya perbuatan-perbuatan yang baik itu menghapuskan (dosa) perbuatan-perbuatan yang buruk. Itulah peringatan bagi orang-orang yang ingat) '. Lalu ada seorang laki-laki dari kaum muslimin yang bertanya, "Wahai Rasulullah, ayat itu khusus untuknya atau berlaku untuk semua orang?" beliau menjawab: "Berlaku untuk semua orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (526) Sahih Muslim (2763)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4468</td></tr><tr><td>Arabic No</td><td>4468</td></tr><tr><td>Reference</td><td>Book 40 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха, что один человек пришёл к Пророку ﷺ и сказал: «Я был с женщиной на окраине Медины и прикасался к ней, но дело не дошло до полового сношения. Вот я, накажи же меня, как пожелаешь!» (указывая на готовность понести заслуженное наказание) ‘Умар сказал: «Аллах покрыл тебя, и было бы лучше, если бы ты воспользовался этим». А Пророк ﷺ ничего не ответил ему. Тогда этот человек ушёл, а потом Пророк ﷺ отправил за ним человека, и тот позвал его, и (Пророк ﷺ) прочитал ему: «Совершай молитву в начале и конце дня и в некоторые часы ночи. Воистину, добрые деяния удаляют злодеяния. Это напоминание для поминающих» (сура “Худ”, аят 114). Один человек спросил: «О Посланник Аллаха! Это только для него или это для всех?» (Посланник Аллаха ﷺ) сказал: «Это для всех людей (кто оказался в таком же положении)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (526) Sahih Muslim (2763)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4468</td></tr><tr><td>Arabic No</td><td>4468</td></tr><tr><td>Reference</td><td>Book 40 Hadith 118</td></tr></tbody></table></div>
 

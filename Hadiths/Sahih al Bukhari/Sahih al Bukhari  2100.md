@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:We set out with Allah's Messenger (ﷺ) in the year of Hunai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Yahya bin Sa'id] dari ['Umar bin Katsir bin Aflah] dari [Abu Muhammad] sahayanya Abu Qatadah dari [Abu Qatadah radliallahu 'anhu] berkata: "Kami pergi bersama Rasulullah shallallahu 'alaihi wasallam pada tahun perang Hunain, lalu Beliau memberiku baju besi. Kemudian baju besi itu aku jual lalu uangnya aku gunakan untuk membeli sebuah kebun di kampung Bani Salamah. Maka kebun itulah yang kemudian menjadi harta pertamaku (modal awal) dalam Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2100</td></tr><tr><td>Arabic No</td><td>2100</td></tr><tr><td>Reference</td><td>Book 34 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада, да будет доволен им Аллах, сказал: «В год Хунайна мы отправились вместе с Посланником Аллаха ﷺ. Он дал мне доспехи, я продал их и купил сад в районе бану саляма. Это было моё первое имущество, приобретённое после принятия ислама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2100</td></tr><tr><td>Arabic No</td><td>2100</td></tr><tr><td>Reference</td><td>Book 34 Hadith 53</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu 'Atiyya reported:I and Masruq went to 'A'isha and said to her: Mother of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Kuraib Muhammad bin Ala'] keduanya berkata, telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Umarah bin Umair] dari [Abu 'Athiyyah] ia berkata; Saya dan Masruq menemui [Aisyah] radliallahu 'anha, kemudian kami pun berkata; Wahai Ummul Mukminin, ada dua sahabat Muhammad shallallahu 'alaihi wasallam, yang satu menyegerakan berbuka dan shalat, sementara yang lain mengakhirkan berbuka dan shalat." Maka Aisyah pun bertanya, "Siapa yang menyegerakan berbuka dan shalat?" Kami menjawab, "Abdullah, yakni Ibnu Mas'ud." Ia berkata, "Seperti itulah yang diperbuat oleh Rasulullah shallallahu 'alaihi wasallam." Abu Kuraib menambahkan; Kemudian yang lain adalah Abu Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2556</td></tr><tr><td>Arabic No</td><td>1099.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2556</td></tr><tr><td>Arabic No</td><td>1099.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 62</td></tr></tbody></table></div>
 

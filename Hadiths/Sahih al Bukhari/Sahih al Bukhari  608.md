@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "When the Adhan is pronounced
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika panggilan shalat (adzan) dikumandangkan maka setan akan lari sambil mengeluarkan kentut hingga ia tidak mendengar suara adzan. Apabila panggilan adzan telah selesai maka setan akan kembali. Dan bila iqamat dikumandangkan setan kembali berlari dan jika iqamat telah selesai dikumandangkan dia kembali lagi, lalu menyelinap masuk kepada hati seseorang seraya berkata, 'Ingatlah ini dan itu'. Dan terus saja dia melakukan godaan ini hingga seseorang tidak menyadari berapa rakaat yang sudah dia laksanakan dalam shalatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>608</td></tr><tr><td>Arabic No</td><td>608</td></tr><tr><td>Reference</td><td>Book 10 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда произносится призыв к молитве, шайтан отступает, с шумом испуская ветры, чтобы не слышать этого призыва, а когда призыв завершается, он (снова) подступает. И он отступает во время икамы, а когда объявление о начале молитвы завершается, он (снова) подступает, чтобы встать меж человеком и сердцем его и внушать ему: “Вспомни о том-то и том-то”, о чём тот и не помышлял (до молитвы, и он делает это) для того, чтобы человек оставался (в подобном) положении, не ведая, сколько (рак‘атов) молитвы он совершил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>608</td></tr><tr><td>Arabic No</td><td>608</td></tr><tr><td>Reference</td><td>Book 10 Hadith 6</td></tr></tbody></table></div>
 

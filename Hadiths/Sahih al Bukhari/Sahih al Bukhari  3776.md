@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ghailan bin Jarir:I asked Anas, "Tell me about the name 'Al-Ansar.; Did
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Mahdiy bin Maimun] telah bercerita kepada kami [Ghaylan bin Jarir] berkata; Aku pernah bertanya kepada Anas radliallahu 'anhu; "Bagaimana menurutmu tentang penamaan Anshar, apakah kalian yang menamakanya atau Allah yang memberi nama itu kepada kalian?". Anas menjawab; "Bahkan Allah 'azza wajalla-lah yang memberi nama kepada kami". Kami pernah mendatangi [Anas radliallahu 'anhu] lalu dia bercerita kepada kami tentang budi pekerti para shahabat Anshar dan tempat-tempat pertemuan mereka. Ia menghadap kepadaku atau kepada seorang laki-laki dari suku Al 'Azdi seraya berkata; "Kaummu hari ini telah berbuat begini begini, begini dan begini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3776</td></tr><tr><td>Arabic No</td><td>3776</td></tr><tr><td>Reference</td><td>Book 63 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Гайлян ибн Джарир сказал: «Я спросил Анаса: “Скажи, вы сами называли себя ансарами или так вас назвал Аллах?” Он ответил: “Так нас назвал Великий и Могучий Аллах”. Мы приходили к Анасу, а он рассказывал нам о достоинствах и подвигах ансаров, и он обращался ко мне или к человеку из племени аль-азд и говорил: “Твоё племя сделало то-то и то-то в такой-то день”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3776</td></tr><tr><td>Arabic No</td><td>3776</td></tr><tr><td>Reference</td><td>Book 63 Hadith 1</td></tr></tbody></table></div>
 

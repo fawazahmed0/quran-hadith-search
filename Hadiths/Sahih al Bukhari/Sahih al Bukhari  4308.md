@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujashi bin Masud:I took Abu Mabad to the Prophet (ﷺ) in order that h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar] Telah menceritakan kepada kami [Fudhail bin Sulaiman] Telah menceritakan kepada kami ['Ashim] dari [Abu Utsman An Nahdi] dari [Mujasyi' bin Mas'ud] aku berangkat bersama Abu Ma'bad menemui Nabi shallallahu 'alaihi wasallam dengan niat agar beliau membai'atnya untuk hijrah. Kata Nabi; "Hijrah telah berlalu bagi pelaku-pelakunya, saya memba'iatnya untuk Islam dan jihad." diKemudian hari kutemui [Abu Ma'bad] dan aku menanyainya, lantas ia berujar " [Mujasyi'] benar." Sedang [Khalid] mengatakan dari [Abu Utsman] dari [Mujasyi'], bahwa ia datang bersama saudaranya, Mujalid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4308</td></tr><tr><td>Arabic No</td><td>4308</td></tr><tr><td>Reference</td><td>Book 64 Hadith 339</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджаши‘ ибн Мас‘уд сказал: «Я отправился вместе с Абу Ма‘бадом к Пророку ﷺ, чтобы он принёс клятву в том, что совершит хиджру. (Пророк ﷺ) сказал: “(Время) совершения хиджры прошло, но я принимаю его клятву в том, что он будет исповедовать ислам и (принимать участие в) сражениях”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4308</td></tr><tr><td>Arabic No</td><td>4308</td></tr><tr><td>Reference</td><td>Book 64 Hadith 339</td></tr></tbody></table></div>
 

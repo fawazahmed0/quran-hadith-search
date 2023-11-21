@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] (Dan diriwayatkan dari jalan lain) telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] sedangkan lafadz hadits darinya, keduanya berkata; telah menceritakan kepada kami [Abu Muawiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat yang dirasakan berat bagi orang-orang munafik adalah shalat isya' dan shalat subuh, sekiranya mereka mengetahui keutamaannya, niscaya mereka akan mendatanginya sekalipun dengan merangkak. Sungguh aku berkeinginan untuk menyuruh seseorang sehingga shalat didirikan, kemudian kusuruh seseorang dan ia mengimami manusia, lalu aku bersama beberapa orang membawa kayu bakar untuk menjumpai suatu kaum yang tidak menghadiri shalat, lantas aku baker rumah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1482</td></tr><tr><td>Arabic No</td><td>651.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 315</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Для лицемеров нет молитв более тяжких, чем утренняя и вечерняя, но если бы они знали, (какая награда ждёт людей за совершение) двух этих (молитв), то обязательно являлись бы на них (в мечеть) даже ползком! (Бывало так, что) я хотел велеть объявить о начале молитвы, потом (поручить) кому-нибудь провести её с людьми, а потом отправиться вместе с (другими) людьми, у которых будут вязанки дров, к тем, кто не приходит на молитву, и сжечь их дома дотла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1482</td></tr><tr><td>Arabic No</td><td>651.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 315</td></tr></tbody></table></div>
 

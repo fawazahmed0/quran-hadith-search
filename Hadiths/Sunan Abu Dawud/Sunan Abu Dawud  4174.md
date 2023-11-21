@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: A woman met him and he found the odour of perfume in her. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah menceritakan kepada kami [Sufyan] dari [Ashim bin Ubaidullah] dari [Ubaid] mantan budak Abu Ruhm, dari [Abu Hurairah] ia berkata, "Ia bertemu seorang wanita dan mencium bau harum darinya, dan ujung pakaiannya menjuntai (menyapu tanah). Ia lalu berkata, "Wahai Budak Al Jabbar, apakah engkau datang dari masjid?" wanita itu menjawab, "Ya." Abu Hurairah bertanya lagi, "Karena ingin ke masjidkah kamu memakai wewangian?" wanita itu menjawab, "Ya." Abu Hurairah lalu berkata, "Sesungguhnya aku mendengar kekasihku, Abu Al Qasim shallallahu 'alaihi wasallam bersabda: "Tidak akan diterima shalat seorang wanita yang memakai wewangian karena ingin pergi ke masjid ini, sehingga ia kembali dan mandi sebagaimana ia mandi dari junub." Abu Dawud berkata, "Al I'shar maksudnya adalah debu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4174</td></tr><tr><td>Arabic No</td><td>4174</td></tr><tr><td>Reference</td><td>Book 35 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Об Абу Хурайре, да будет доволен им Аллах, передаётся, что однажды ему встретилась женщина, от которой исходил сильный запах благовоний, а подол её одежды был в пыли. Он сказал ей: «О раба Могущественного! Ты идёшь из мечети?» Она ответила: «Да». Он спросил: «И ты ради похода в мечеть умастилась благовониями?» Она ответила: «Да». Он сказал: «Я слышал, как мой любимый Абу аль-Касим ﷺ говорил: “Не примется молитва женщины, которая умащает себя благовониями для похода в мечеть, пока она не вернётся назад и не совершит омовение, подобное тому, какое совершает она после большого осквернения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4174</td></tr><tr><td>Arabic No</td><td>4174</td></tr><tr><td>Reference</td><td>Book 35 Hadith 16</td></tr></tbody></table></div>
 

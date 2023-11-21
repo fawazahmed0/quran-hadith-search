@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "No good deeds done on other days ar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] berkata, telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] dari [Muslim Al Bathin] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak ada amal yang lebih utama pada hari-hari (tasyriq) ini selian berkurban." Para sahabat berkata, "Tidak juga jihad?" Beliau menjawab: "Tidak juga jihad. Kecuali seseorang yang keluar dari rumahnya dengan mengorbankan diri dan hartanya (di jalan Allah), lalu dia tidak kembali lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>969</td></tr><tr><td>Arabic No</td><td>969</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что (однажды) Пророк ﷺ сказал: «Дела(, совершаемые) в течение этих десяти дней, не лучше дел(, совершаемых) в течение этих (трёх)». (Люди) спросили: «И даже джихад (не является более достойным)?» (Пророк ﷺ) сказал: «И даже джихад, если только (в нём не участвовал) человек, рисковавший (ради Аллаха) и собой, и своим имуществом и не принёсший назад, ни того, ни другого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>969</td></tr><tr><td>Arabic No</td><td>969</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
 

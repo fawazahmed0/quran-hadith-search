@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid] dan [Muhammad bin Isa] secara makna, keduanya berkata; telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Muhammad] dari [Abidah] berkata, " [Ali] menyebut-nyebut tentang penduduk Nahrawan. Ia mengatakan, "Di antara mereka ada seorang laki-laki yang tangannya kecil atau pendek, sekiranya aku tidak kawatir kalian akan terlalu bergembira, maka aku akan kabarkan kepada kalian tentang apa yang telah Allah janjikan bagi orang-orang yang akan membunuh mereka, melalui lisan Muhammad shallallahu 'alaihi wasallam." Abidah berkata, "Aku bertanya, "Apakah engkau benar-benar mendengarnya dari beliau?" Ali menjawab, "Ya. Demi Dzat pemilik Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1066)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4763</td></tr><tr><td>Arabic No</td><td>4763</td></tr><tr><td>Reference</td><td>Book 42 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Мухаммада ибн ‘Абиды: «‘Али упомянул о (хариджитах) участниках битвы при Нахраване: “Среди них человек с изуродованной или короткой рукой. Если бы я не боялся, что вы возгордитесь, я бы рассказал вам о том, что обещал Аллах устами Мухаммада ﷺ тому, кто станет убивать их”». (‘Абида) сказал: «Я спросил: “Ты действительно слышал от него эти слова?” (‘Али) ответил: “Да, клянусь Господом Каабы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1066)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4763</td></tr><tr><td>Arabic No</td><td>4763</td></tr><tr><td>Reference</td><td>Book 42 Hadith 168</td></tr></tbody></table></div>
 

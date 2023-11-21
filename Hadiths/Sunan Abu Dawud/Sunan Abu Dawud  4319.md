@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Imran ibn Husayn: The Prophet (ﷺ) said: Let him who hears of the Dajj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Jarir] berkata, telah menceritakan kepada kami [Humaid bin Hilal] dari [Abu Ad Dahma] ia berkata; aku mendengar [Imran bin Hushain] menceritakan, ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang mendengar (kedatangan) Dajjal hendaklah menjauhinya. Demi Allah, seorang laki-laki benar-benar akan mendatangi Dajjal dan mengira bahwa ia adalah seorang mukmin, lalu ia akan mengikuti setiap subhat yang ditebarkannya." Demikian beliau mengatakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4319</td></tr><tr><td>Arabic No</td><td>4319</td></tr><tr><td>Reference</td><td>Book 39 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Имран ибн Хусайн (да будет доволен Аллах им и его отцом) передаёт, что Посланник Аллаха ﷺ сказал: «Кто услышит о приближении Даджжаля, пусть держится от него подальше, ибо, клянусь Аллахом, поистине, будет приходить к нему человек, считающий себя верующим, а потом следовать за ним из-за тех сомнений, которые он будет распространять»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4319</td></tr><tr><td>Arabic No</td><td>4319</td></tr><tr><td>Reference</td><td>Book 39 Hadith 29</td></tr></tbody></table></div>
 

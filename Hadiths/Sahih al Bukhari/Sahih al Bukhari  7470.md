@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) entered upon a sick bedouin in whom 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah menceritakan kepada kami ['Abdul Wahhab Ats Tsaqafi] telah menceritakan kepada kami [Khalid Al Hadzdza'] dari ['Ikrimah] dari [Ibn Abbas] radliyallahu'anhuma, bahwa Rasulullah shallallahu 'alaihi wasallam pernah menjenguk seorang arab badui yang sedang sakit. Beliau katakan: "Tidak apa-apa kamu, insya Allah nggak masalah." Lantas si arab badui menjawab, "Apa, nggak apa-apa? Bahkan itu adalah demam yang menggelegak atas orang yang sudah tua renta yang menghantarkannya kepada kuburan." Maka Nabi shallallahu 'alaihi wasallam berkata: "Semoga iya, kalau begitu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7470</td></tr><tr><td>Arabic No</td><td>7470</td></tr><tr><td>Reference</td><td>Book 97 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что однажды Посланник Аллаха ﷺ вошёл навестить одного заболевшего бедуина и сказал: «Не беда, это будет для тебя очищением, если пожелает Аллах! /Ля ба‘са ‘алэйка тахурун ин шаа-Ллах/».\n(Ибн ‘Аббас) сказал: «Бедуин сказал: “Очистишься? Вовсе нет, это же лихорадка, которая кипит и может свести старого человека в могилу!” Тогда Пророк ﷺ сказал: “Что ж, пусть будет так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7470</td></tr><tr><td>Arabic No</td><td>7470</td></tr><tr><td>Reference</td><td>Book 97 Hadith 96</td></tr></tbody></table></div>
 

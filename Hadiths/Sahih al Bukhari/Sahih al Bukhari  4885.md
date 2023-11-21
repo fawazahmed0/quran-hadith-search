@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:The properties of Bam An-Nadir were among the booty that Allah ga
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] lebih dari sekali dari [Amru] dari [Az Zuhri] dari [Malik bin Aus bin Al Hadatsan] dari [Umar radliallahu 'anhu] ia berkata: "Harta kekayaan Bani Nadlir yang telah dijadikan Fai' oleh Allah atas Rasul-Nya shallallahu 'alaihi wasallam adalah termasuk harta yang diperoleh tanpa campur tangan sedikit pun dari kaum muslimin, baik itu dengan kuda perang atau yang lainnya. Sesungguhnya harta itu adalah milik Rasulullah shallallahu 'alaihi wasallam secara khusus dan sebagai nafkah bagi keluarganya. Sedangkan sisanya untuk perlengkapan persenjataan perang dan sejumlah kuda perang fi Sabilillah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>4885</td></tr><tr><td>Reference</td><td>Book 65 Hadith 405</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар, да будет доволен им Аллах, сказал: «Имущество (племени) бану ан-надыр было даровано Аллахом Его посланнику ﷺ, так как мусульманам не пришлось из-за этого бросать в бой лошадей и верблюдов. (Это имущество) принадлежало только Посланнику Аллаха ﷺ, который расходовал из него что-то на ежегодное содержание своих жён, а оставшееся тратил на оружие и лошадей(, готовясь к сражениям) на пути Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>4885</td></tr><tr><td>Reference</td><td>Book 65 Hadith 405</td></tr></tbody></table></div>
 

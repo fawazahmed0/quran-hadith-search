@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar : A man passed by the Prophet (sal Allaahu alayhi wa sallam )
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman] dan [Abu Bakar] keduanya putra Abu Syaibah, mereka berkata; Telah menceritakan kepada kami [Umar bin Sa'd] dari [Sufyan] dari [Adh Dhahhak bin Utsman] dari [Nafi'] dari [Ibnu Umar] dia berkata; Pernah ada seorang laki-laki melewati Nabi shallallahu 'alaihi wasallam ketika beliau sedang buang air kecil, lalu laki-laki itu mengucapkan salam kepada beliau, namun beliau tidak menjawab salamnya. Abu Dawud mengatakan; Telah diriwayatkan dari Ibnu Umar dan selainnya, bahwasanya Nabi shallallahu 'alaihi wasallam bertayammum, kemudian beliau menjawab salam laki-laki tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (370)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>16</td></tr><tr><td>Arabic No</td><td>16</td></tr><tr><td>Reference</td><td>Book 1 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Нафи‘а о том, что Ибн ‘Умар, да будет доволен ими обоими Аллах, сказал: «Однажды, когда Посланник Аллаха ﷺ справлял малую нужду, мимо него прошёл один человек, который обратился к нему со словами приветствия, но он не ответил (на его приветствие)».Абу Дауд сказал: «Передаётся от Ибн ‘Умара и других о том, что Пророк ﷺ совершил таяммум, а затем ответил этому человеку на его приветствие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (370)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>16</td></tr><tr><td>Arabic No</td><td>16</td></tr><tr><td>Reference</td><td>Book 1 Hadith 16</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham narrated on the authority of his father that it was mentioned to 'A'isha 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2154</td></tr><tr><td>Arabic No</td><td>932.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что отец Хишама сказал: «Однажды в присутствие ‘Аиши было упомянуто, что Ибн ‘Умар передал, что Пророк ﷺ сказал: “Поистине, умершего подвергают мучениям за то, что родные оплакивают его”. Она сказала: “Он ошибся. Посланник Аллаха ﷺ только сказал: ‹Человек подвергается мучениям за свои прегрешения и грехи, в то время как его семья оплакивает его›. Это подобно его (Ибн ‘Умара) словам, что Посланник Аллаха ﷺ встал над колодцем, в котором были тела убитых в битве при Бадре многобожников, и сказал то, что сказал, а затем добавил: ‹Поистине, они слышат то, что я им говорю›. Но он (Ибн ‘Умар) ошибся. (Посланник Аллаха ﷺ) только сказал: ‹Поистине, теперь они уже убедились в истинности того, что я говорил›”, затем она прочитала: “Воистину, ты не заставишь слышать мертвецов…” (сура “ан-Намль”, аят 80) и “…и ты не можешь заставить слышать тех, кто в могиле” (сура “Фатыр”, аят 22)». (‘Урва) сказал: «То есть когда они заняли свои места в Огне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2154</td></tr><tr><td>Arabic No</td><td>932.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 32</td></tr></tbody></table></div>
 

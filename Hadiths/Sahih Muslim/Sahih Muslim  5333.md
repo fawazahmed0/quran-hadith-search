@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), Jabala Ibn Suhaym a dit : Ibn A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dia berkata; Aku mendengar [Jabalah bin Suhaim] berkata; 'Ibnu Jubair memberi kami kurma.' Jabalah berkata; "Sementara orang-orang sedang ditimpa kesulitan, maka kami makan. Kemudian [Ibnu Umar] melewati kami yang sedang makan dan menegur; "Jangan kalian berbuat Iqraan, karena Rasulullah Shallallahu'alaihi wasallam melarang Iqraan kecuali dengan meminta izin saudaranya." Syu'bah berkata: "Tidak ada pendapatku dalam masalah idzin ini, selain itu hanyalah perkataan Ibnu Umar." Dan telah menceritakannya pula kepada kami ['Ubaidullah bin Mu'adz], Telah menceritakan kepada kami [Bapakku]. Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Muhammad bin Basyar], Telah menceritakan kepada kami [Abdurrahman bin Mahdi] keduanya dari [Syu'bah] -dengan sanad ini-, namun di dalam Hadits keduanya tidak disebutkan perkataan Syu'bah dan tidak pula perkataanya; 'Sementara orang-orang sedang ditimpa kepayahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5333</td></tr><tr><td>Arabic No</td><td>2045.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5333</td></tr><tr><td>Arabic No</td><td>2045.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 207</td></tr></tbody></table></div>
 

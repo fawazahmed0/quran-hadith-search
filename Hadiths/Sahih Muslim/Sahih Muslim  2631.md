@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Darda' reported:We were with the Messenger of Allah (ﷺ) on some of his jou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] telah menceritakan kepada kami [Hisyam bin Sa'd] dari [Utsman bin Hayyan Ad Dimasyqi] dari [Ummu Darda'] ia berkata, [Abu Darda'] berkata; "Kami telah ikut serta bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalan yang beliau lakukan. Saat itu, panas terik matahari begitu menyengat hingga seseorang meletakkan tangannya di atas kepala karena begitu panasnya. Dan di antara kami tidak ada yang berpuasa kecuali Rasulullah shallallahu 'alaihi wasallam dan Abdullah bin Rawahah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2631</td></tr><tr><td>Arabic No</td><td>1122.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2631</td></tr><tr><td>Arabic No</td><td>1122.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 137</td></tr></tbody></table></div>
 

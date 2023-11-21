@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira:One night I was with the Prophet (ﷺ) on a journey. He aske
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zakariya] dari ['Amir] dari ['Urwah bin Al Mughirah] dari [Ayahnya] radliallahu 'anhu dia berkata; "Pada suatu malam saya bersama Nabi shallallahu 'alaihi wasallam mengadakan suatu perjalanan, lalu beliau bersabda: "Apakah kamu membawa air?" jawabku; "Ya." Kemudian beliau turun dari kendaraannya dan berjalan hingga menjauh dariku di gelapnya malam, setelah itu beliau kembali dan akupun menuangkan air dari wadah, kemudian beliau membasuh wajahnya dan tangannya, karena beliau mengenakan jubah dari shuf (bulu domba) beliau tidak dapat mengeluarkan kedua tangan beliau, akhirnya beliau mengeluarkannya dari bawah jubahnya, kemudian beliau membasuh kedua lengannya dan mengusap kepalanya, lalu aku jongkok hendak melepas sepatunya, namun beliau bersabda: "Biarkanlah, karena aku mengenakan sepatu tersebut dalam kedaan suci." Lalu beliau sekedar mengusapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5799</td></tr><tr><td>Arabic No</td><td>5799</td></tr><tr><td>Reference</td><td>Book 77 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугъира бин Шу‘ба, да будет доволен им Аллах, сказал: «(Однажды, когда) я сопровождал Пророка ﷺ в пути, он спросил меня: “Есть ли у тебя вода?” Я сказал: “Да”. После этого он слез со своей верблюдицы, пошёл (вперёд) и скрылся из виду в ночной тьме. Потом он вернулся, я стал лить для него воду из сосуда, а он омыл лицо и руки. В это время на нём была шерстяная джубба, и (поскольку Пророк ﷺ) не смог обнажить руки до локтей, ему пришлось продеть руки снизу. Потом он омыл руки до локтей и провёл (влажными) руками по голове, а потом я нагнулся, чтобы снять с него кожаные носки /хуффейн/, но он сказал: “Оставь их, ибо я надел их на чистые ноги”, — после чего он протёр их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5799</td></tr><tr><td>Arabic No</td><td>5799</td></tr><tr><td>Reference</td><td>Book 77 Hadith 17</td></tr></tbody></table></div>
 

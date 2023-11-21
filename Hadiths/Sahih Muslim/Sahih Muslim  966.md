@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:The Messenger of Allah (ﷺ) said: The people who lift 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Muawiyah] dari [al-A'masy] dari [al-Musayyab] dari [Tamim bin Tharafah] dari [Jabir bin Samurah] dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda, "Hendaklah suatu kaum menghentikan untuk mengangkat pandangan mereka ke langit dalam shalat atau (kalau tidak), niscaya pandangan tersebut tidak kembali kepada mereka (buta)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>966</td></tr><tr><td>Arabic No</td><td>428</td></tr><tr><td>Reference</td><td>Book 4 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн Самуры, что Посланник Аллаха ﷺ сказал: «Пусть люди прекратят поднимать взор к небу во время молитвы, а иначе они могут лишиться зрения!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>966</td></tr><tr><td>Arabic No</td><td>428</td></tr><tr><td>Reference</td><td>Book 4 Hadith 128</td></tr></tbody></table></div>
 

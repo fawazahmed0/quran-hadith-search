@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:that Allah's Messenger (ﷺ) started saying, "Labba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Al Walid] telah menceritakan kepada kami [Al Awza'iy] bahwa dia mendengar ['Atho'] menceritakan dari [Jabir bin 'Abdullah radliallahu 'anhua]: "Sesungguhnya awal dimulainya hajji (dengan niat dan bertalbiyah) Rasulullah shallallahu 'alaihi wasallam dimulai dari Dzul Hulaifah ketika tunggangannya itu sudah berdiri tegak". Hadits ini diriwayatkan oleh Anas dan Ibnu 'Abbas radliallahu 'anhum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>1515</td></tr><tr><td>Reference</td><td>Book 25 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ начал произносить тальбию с Зуль-Хулейфы после того, как его верблюдица поднялась вместе с ним на ноги»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>1515</td></tr><tr><td>Reference</td><td>Book 25 Hadith 3</td></tr></tbody></table></div>
 

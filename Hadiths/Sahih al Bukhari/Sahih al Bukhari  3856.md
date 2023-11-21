@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:I asked Ibn 'Amr bin Al-As, "Tell me of the worst t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepadaku [Al Awza'i] telah menceritakan kepadaku [Yahya bin Abu Katsir] dari [Muhammad bin Ibrahim at Taymi] berkata, telah menceritakan kepadaku ['Urwah bin Az Zubair] berkata; Aku berkata kepada [Ibnu 'Amru bin Al 'Ash]; beritahukan kepadaku perlakuan yang paling keras yang dilakukan kaum Musyrikin terhadap Nabi shallallahu 'alaihi wasallam. Dia berkata; Ketika Nabi shallallahu 'alaihi wasallam sedang shalat di Hijir Ka'bah, tiba-tiba datang 'Uqbah bin Mu'aith lalu dia melilitkan kainnya di leher beliau dan mencekik beliau (dengan kain itu) dengan keras sekali. Kemudian datang Abu Bakar dan menarik bahu 'Uqbah lalu mendorongnya menjauhkan dari Nabi shallallahu 'alaihi wasallam, kemudian Abu Bakar berkata; "Apakah kalian hendak membunuh orang yang mengatakan Rabbku Allah...." (QS. Ghafir ayat 28). Hadits ini di perkuat juga oleh [Ibnu Ishaq], telah menceritakan kepadaku [Yahya bin 'Urwah] dari ['Urwah]; "Aku berkata kepada [Abdullah bin 'Amru]. Dan berkata ['Abdah] dari [Hisyam] dari [bapaknya]; "Dikatakan kepada ['Amru bin Al 'Ash]. Dan [Muhammad bin 'Amru] berkata dari [Abu Salamah] telah menceritakan kepadaku ['Amru bin Al 'Ash]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3856</td></tr><tr><td>Arabic No</td><td>3856</td></tr><tr><td>Reference</td><td>Book 63 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва ибн аз-Зубайр, да помилует его Аллах Всевышний, сказал: «(Однажды) я попросил ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах ими обоими: “Расскажи мне о наихудшем из того, что сделали многобожники с Пророком ﷺ”». Он сказал:\n— (Как-то раз, когда) Пророк ﷺ молился в Хиджре Ка‘бы, ‘Укба бин Абу Му‘айт подошёл (к нему сзади), накинул ему на шею свою одежду и сильно сдавил. (Увидев это,) к нему бросился Абу Бакр, который схватил его за плечи, отбросил от Пророка ﷺ и воскликнул: «Неужели вы убьёте человека за то, что он говорит: “Мой Господь — Аллах”?!» (сура «Гафир», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3856</td></tr><tr><td>Arabic No</td><td>3856</td></tr><tr><td>Reference</td><td>Book 63 Hadith 81</td></tr></tbody></table></div>
 

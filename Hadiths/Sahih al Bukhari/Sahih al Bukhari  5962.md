@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:that he had bought a slave whose profession was cupping. Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dia berkata; telah menceritakan kepadaku [Ghundar] telah menceritakan kepada kami [Syu'bah] dari ['Aun bin Abu Juhaifah] dari [Ayahnya] bahwa dia pernah membeli seorang budak tukang bekam, lalu dia berkata; "Sesungguhnya Nabi shallallahu 'alaihi wasallam melarang hasil penjualan darah, hasil penjualan anjing dan hasil pelacuran, beliau juga melaknat pemakan riba dan yang memberi makan, orang yang mentato dan yang minta ditato serta melaknat penggambar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5962</td></tr><tr><td>Arabic No</td><td>5962</td></tr><tr><td>Reference</td><td>Book 77 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аун ибн Аби Джухайфа рассказал, что его отец, (однажды) купил раба, умевшего делать кровопускание /хиджаму/, и сказал: «Поистине, Пророк ﷺ запретил брать деньги за кровь и за собаку, и заработок блудницы, и проклял пожирающего лихву (риба) и дающего её, и женщин, которые заниматься нанесением татуировок (другим), и тех, кому их делают, и создающих изображения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5962</td></tr><tr><td>Arabic No</td><td>5962</td></tr><tr><td>Reference</td><td>Book 77 Hadith 178</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: He who put the necklace of jizyah in his neck abandon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Muhammad bin Bakkar bin Bilal], telah mengabarkan kepada kami [Muhammad bin Isa bin Sumai'], telah menceritakan kepada kami [Zaid bin Waqid], telah menceritakan kepadaku [Abu Abdullah], dari [Mu'adz] bahwa ia berkata; barangsiapa yang mengikatkan jizyah pada lehernya maka ia telah berlepas diri dari jalan yang dilalui Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3081</td></tr><tr><td>Arabic No</td><td>3081</td></tr><tr><td>Reference</td><td>Book 20 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Му‘аз ﷺ сказал: «Кто взял на себя джизью, тот не имеет отношения к тому, чего придерживался Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3081</td></tr><tr><td>Arabic No</td><td>3081</td></tr><tr><td>Reference</td><td>Book 20 Hadith 154</td></tr></tbody></table></div>
 

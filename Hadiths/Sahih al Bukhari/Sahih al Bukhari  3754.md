@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:'Umar used to say, "Abu Bakr is our chief, and he m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Nu'im] telah bercerita kepada kami ['Abdul 'Aziz bin Abu Salamah] dari [Muhammad bin Al Munkadir] telah mengabarkan kepada kami [Jabir bin 'Abdullah radliallahu 'anhuma] berkata; "'Umar bin Al Khaththab radliallahu 'anhu pernah berkata; "Abu Bakr adalah penghulu kita dan telah membebaskan penghulu kita pula yaitu Bilal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3754</td></tr><tr><td>Arabic No</td><td>3754</td></tr><tr><td>Reference</td><td>Book 62 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «‘Умар обычно говорил: “Абу Бакр — наш господин /саййид/, который освободил нашего господина”, имея в виду Биляля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3754</td></tr><tr><td>Arabic No</td><td>3754</td></tr><tr><td>Reference</td><td>Book 62 Hadith 99</td></tr></tbody></table></div>
 

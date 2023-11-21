@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The boy is for (the owner of) the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Muhammad bin Ziyad], dia berkata; aku mendengar [Abu Hurairah] menuturkan; Nabi shallallahu 'alaihi wasallam bersabda: "anak bagi pemilik kasur dan bagi pezina adalah batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6818</td></tr><tr><td>Arabic No</td><td>6818</td></tr><tr><td>Reference</td><td>Book 86 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра передаёт, что Пророк ﷺ сказал: «Ребёнок принадлежит постели, а прелюбодею — позор и лишения [прав на ребёнка]»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6818</td></tr><tr><td>Arabic No</td><td>6818</td></tr><tr><td>Reference</td><td>Book 86 Hadith 46</td></tr></tbody></table></div>
 

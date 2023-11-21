@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Suwaid bin Sa'id] dan [Ibnu Abu Umar] semuanya meriwayatkan dari [Marwan al-Fazari], [Ibnu Abu Umar] berkata, telah menceritakan kepada kami [Marwan] dari [Abu Malik al-Asyja'i Sa'd bin Thariq] dari [Abu Hazm] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhya telagaku lebih jauh daripada jarak Ailah dengan Adn. Sungguh ia lebih putih daripada salju, dan lebih manis daripada madu yang dicampur susu. Dan sungguh, wadahnya lebih banyak daripada jumlah bintang. Dan sungguh, aku menghalangi manusia darinya sebagaimana seorang laki-laki menghalau unta manusia dari telaganya." Mereka bertanya, 'Wahai Rasulullah, apakah tuan mengenal kami pada waktu itu? ' Beliau menjawab: 'Ya. Aku mengenal. Kalian memiliki tanda yang tidak dimiliki oleh umat-umat selainnya. Kalian muncul padaku dalam keadaan putih bersinar disebabkan bekas air wudlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>581</td></tr><tr><td>Arabic No</td><td>247.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Поистине, (расстояние между берегами) моего водоёма больше, чем (расстояние) между Айлой и Аденом. Вода его белее снега и слаще молока, смешанного с мёдом, а сосудов возле него столько же, сколько звёзд на небе. И, поистине, я буду отгонять от него людей подобно тому, как человек отгоняет чужих верблюдов от своего водоёма». (Люди) спросили: «О Посланник Аллаха! А узнаешь ли ты нас в этот День?» Он ответил: «Да, у вас будет особая примета, которой не будет ни у одной общины, вы придёте ко мне с белыми пятнами на лбу и белыми кольцами на руках и ногах, (сияющими) от следов от омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>581</td></tr><tr><td>Arabic No</td><td>247.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
 

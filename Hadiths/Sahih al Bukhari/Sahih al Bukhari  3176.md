@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Auf bin Mali:I went to the Prophet (ﷺ) during the Ghazwa of Tabuk wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Al Walid bin Muslim] telah bercerita kepada kami ['Abdullah bin Al 'Alaa' bin Zabr] berkata aku mendengar [Busr bin 'Ubaidullah] bahwa dia mendengar [Abu Idris] berkata aku mendengar ['Auf bin Malik] berkata; "Aku menemui Nabi shallallahu 'alaihi wasallam ketika terjadi perang Tabuk saat Beliau sedang berada di tenda terbuat dari kulit yang disamak. Beliau bersabda: "Hitunglah enam perkara yang akan timbul menjelang hari qiyamat. Kematianku, dibebaskannya Baitul Maqdis, kematian yang menyerang kalian bagaikan penyakit yang menyerang kambing sehingga mati seketika, melimpahnya harta hingga ada seseorang yang diberi seratus dinar namun masih marah (merasa kurang), timbulnya fitnah sehingga tidak ada satupun rumah orang Arab melainkan akan dimasukinya dan perjanjian antara kalian dan bangsa Bani Al Ashfar (Eropa) lalu mereka mengkhiyanati perjanjian kemudian mereka mengepung kalian dibawah delapan bendera (panji-panji) perang yang pada setiap bendera terdiri dari dua belas ribu personil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3176</td></tr><tr><td>Arabic No</td><td>3176</td></tr><tr><td>Reference</td><td>Book 58 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ауф ибн Малик, да будет доволен им Аллах, сказал: «Во время похода на Табук я пришёл к Пророку ﷺ находившемуся в кожаном шатре, и он сказал (мне): “Сочти шесть (предзнаменований приближения) Часа этого: (ими станут) моя кончина, потом завоевание Иерусалима, потом мор, который будет косить вас, как (косит) овец падёж скота, потом увеличение богатства до такой степени, что, если дадут кому-нибудь сто динаров, он останется недовольным, потом смута, которая не обойдёт стороной ни одного дома арабов, а потом перемирие между вами и бану аль-асфар, которые проявят вероломство и явятся к вам с восьмьюдесятью знамёнами, под каждым из которых будет находиться двенадцать тысяч (воинов)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3176</td></tr><tr><td>Arabic No</td><td>3176</td></tr><tr><td>Reference</td><td>Book 58 Hadith 18</td></tr></tbody></table></div>
 

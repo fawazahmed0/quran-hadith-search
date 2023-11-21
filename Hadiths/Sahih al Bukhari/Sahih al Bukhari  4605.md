@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The last Sura that was revealed was Bara'a, and the last Verse 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] Aku mendengar [Al Bara' radliallahu 'anhu] berkata; surat yang terakhir kali turun adalah surat Bara'ah sedangkan ayat yang terakhir kali turun adalah ayat: Mereka meminta fatwa kepadamu (tentang kalalah). Katakanlah: "Allah memberi fatwa kepadamu tentang kalalah. (An Nisa:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4605</td></tr><tr><td>Arabic No</td><td>4605</td></tr><tr><td>Reference</td><td>Book 65 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Последней ниспосланной сурой была сура “Бараа”, а последним ниспосланным аятом был аят: “Они просят тебя вынести решение. Скажи: “Аллах вынесет для вас решение относительно тех, кто не оставляет после себя родителей или детей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4605</td></tr><tr><td>Arabic No</td><td>4605</td></tr><tr><td>Reference</td><td>Book 65 Hadith 127</td></tr></tbody></table></div>
 

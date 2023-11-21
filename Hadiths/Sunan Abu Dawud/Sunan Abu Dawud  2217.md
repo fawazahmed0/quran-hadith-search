@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has been transmitted by Sulaiman bin Yasar. This v
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh], telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Ibnu Luhai'ah] dan ['Amr bin Al Harits] dari [Bukair bin Al Asyajj] dari [Sulaiman bin Yasar] dengan khabar ini. Ia berkata; kemudian Rasulullah shallallahu 'alaihi wasallam diberi kurma lalu beliau memberikan kurma tersebut kepadanya, dan kurma tersebut sekitar lima belas sha'. Beliau berkata: "Bersedekahlah dengan kurma ini." Ia berkata; wahai Rasulullah, apakah aku harus bersedekah kepada orang yang lebih fakir daripadaku dan daripada keluargaku? Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Makanlah bersama keluargamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2217</td></tr><tr><td>Arabic No</td><td>2217</td></tr><tr><td>Reference</td><td>Book 13 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сулейман ибн Ясар привёл этот хадис и сказал: «Посланнику Аллаха ﷺ принесли финики, и он отдал их ему, а их было около пятнадцати са‘. Он сказал: “Раздай их в качестве милостыни”. Тот спросил: “О Посланник Аллаха! Должен ли я отдать их тем, кто беднее меня и моей семьи?” Тогда Посланник Аллаха ﷺ сказал: “Ешь их сам и корми свою семью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2217</td></tr><tr><td>Arabic No</td><td>2217</td></tr><tr><td>Reference</td><td>Book 13 Hadith 43</td></tr></tbody></table></div>
 

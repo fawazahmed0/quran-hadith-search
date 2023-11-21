@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' bin Khadij:The Prophet (ﷺ) said, "Eat what is slaughtered (with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kami [Sufyan] dari [Bapaknya] dari [Abayah bin Rifa'ah] dari [Rafi' bin Khadij] ia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Makanlah -yakni apa-apa yang mengalirkan darah- kecuali tulang dan kuku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5506</td></tr><tr><td>Arabic No</td><td>5506</td></tr><tr><td>Reference</td><td>Book 72 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ ибн Хадидж, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: "Ешьте все то, что было заколото, выпустив кровь, но не (закалывайте животных) клыками и когтями”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5506</td></tr><tr><td>Arabic No</td><td>5506</td></tr><tr><td>Reference</td><td>Book 72 Hadith 32</td></tr></tbody></table></div>
 

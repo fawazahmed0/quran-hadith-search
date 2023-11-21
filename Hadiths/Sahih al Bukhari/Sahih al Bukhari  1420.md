@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Some of the wives of the Prophet (ﷺ) asked him, "Who amongst u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Firas] dari [As-Sya'biy] dari [Masruq] dari ['Aisyah radliallahu 'anha]; Sebagian isteri-isteri Nabi Shallallahu'alaihiwasallam berkata kepada Nabi Shallallahu'alaihiwasallam: "Siapakan diantara kami yang segera menyusul anda (setelah kematian)?". Beliau bersabda: "Siapa yang paling panjang lengannya diantara kalian". Maka mereka segera mengambil tongkat untuk mengukur panjang lengan mereka. Ternyata Saudah radliallahu 'anha yang paling panjang tangannya diantara mereka. Setelah itu kami mengetahui bahwa yang dimaksud dengan panjang lengan adalah yang paling gemar bershadaqah, dan ternyata Saudah radliallahu 'anha yang lebih dahulu menyusul kematian Beliau, dan dia juga paling gemar bershedeqah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1420</td></tr><tr><td>Arabic No</td><td>1420</td></tr><tr><td>Reference</td><td>Book 24 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что однажды некоторые из жён Пророка ﷺ спросили его: «Кто из нас первой присоединится к тебе?» Он ответил: «Та, у которой самые длинные руки». Тогда они стали измерять длину своих рук с помощью тростинки, и оказалось, что самые длинные руки у Сауды. (‘Аиша, да будет доволен ею Аллах, сказала: «И только потом мы поняли, что под длиной рук подразумевалась милостыня, так как она первой присоединилась к нему и она (действительно) любила раздавать милостыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1420</td></tr><tr><td>Arabic No</td><td>1420</td></tr><tr><td>Reference</td><td>Book 24 Hadith 24</td></tr></tbody></table></div>
 

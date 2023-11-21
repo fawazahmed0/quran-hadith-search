@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:The Prophet (ﷺ) said, "Gabriel said to me, 'Whoever amongst 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3222</td></tr><tr><td>Arabic No</td><td>3222</td></tr><tr><td>Reference</td><td>Book 59 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Зарра, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Джибриль сказал мне: “Тот, из членов твоей общины, кто умрёт, не придавая ничего в сотоварищи Аллаху, войдет в Рай (или не войдёт в Огонь)”». Абу Зарр спросил: «Даже если прелюбодействовал и воровал?» Пророк ﷺ ответил: «Даже если прелюбодействовал и даже если воровал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3222</td></tr><tr><td>Arabic No</td><td>3222</td></tr><tr><td>Reference</td><td>Book 59 Hadith 33</td></tr></tbody></table></div>
 

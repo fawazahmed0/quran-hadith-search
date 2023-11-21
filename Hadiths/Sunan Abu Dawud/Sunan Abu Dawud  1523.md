@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir: The Messenger of Allah (ﷺ) commanded me to recite Mu'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Salamah Al Muradi], telah menceritakan kepada Kami [Ibnu Wahb] dari [Al Laits bin Sa'd] bahwa [Hunain bin Abu Hakim] telah menceritakan kepadanya dari [Ali bin Rabah Al Lakhmi] dari ['Uqbah bin 'Amir], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam telah memerintahkan Kami untuk membaca surat-surat mu'awwidzât (surat yang berisi permintaan perlindungan kepada Allah, seperti Al Falaq, dan An Nâs) setiap selesai shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1523</td></tr><tr><td>Arabic No</td><td>1523</td></tr><tr><td>Reference</td><td>Book 8 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Укбы ибн ‘Амира, да будет доволен им Аллах: «Посланник Аллаха ﷺ велел мне читать три защитные суры /аль-му‘аввизат/* после каждой молитвы».Шейх аль-Албани сказал: «Достоверный хадис /сахих/».* Когда говорится «аль-му’аввизат», то речь идет о трёх последних сурах Корана: «аль-Ихляс», «аль-Фалякъ» и «ан-Нас». Когда же говорится «аль-му’аввизатан», то речь идет именно о двух последних сурах: «аль-Фалякъ» и «ан-Нас». Доводом этому является то, что привёл имам аль-Бухари в своём Сахихе, назвав главу так: «Глава о достоинстве “аль-му’аввизат”».Хафиз Ибн Хаджар об этой главе сказал: «Т.е. “аль-Ихляс”, “аль-Фалякъ” и “ан-Нас”». См. «Фатхуль-Бари»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1523</td></tr><tr><td>Arabic No</td><td>1523</td></tr><tr><td>Reference</td><td>Book 8 Hadith 108</td></tr></tbody></table></div>
 

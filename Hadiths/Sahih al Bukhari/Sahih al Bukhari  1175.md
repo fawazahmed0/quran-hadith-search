@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muwarriq:I asked Ibn 'Umar "Do you offer the Duha prayer?" He replied i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Taubah] dari [Muwarriq] berkata; Aku bertanya kepada [Ibnu'Umar radliallahu 'anhuma]: "Apakah anda melaksanakan shalat Dhuha?" Dia menjawab: "Tidak!". Aku tanyakan lagi: "Bagaimana dengan 'Umar?" Dia menjawab: Tidak!"."Bagaimana dengan Abu Bakar?" Dia menjawab: Tidak!"."Bagaimana dengan Nabi shallallahu 'alaihi wasallam?" Dia menjawab: "Juga tidak, menurut dugaanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1175</td></tr><tr><td>Arabic No</td><td>1175</td></tr><tr><td>Reference</td><td>Book 19 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муаррикъ сказал: «Однажды я спросил Ибн ‘Умара, да будет доволен Аллах им и его отцом: “Совершаешь ли ты молитву ад-духа?” Он ответил: “Нет”. Я спросил: “А ‘Умар (совершал)?” Он ответил: “Нет”. Я спросил: “А Абу Бакр?” Он ответил: “Нет”. Я спросил: “А Пророк ﷺ?” Он ответил: “Не думаю, (что он совершал ее)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1175</td></tr><tr><td>Arabic No</td><td>1175</td></tr><tr><td>Reference</td><td>Book 19 Hadith 53</td></tr></tbody></table></div>
 

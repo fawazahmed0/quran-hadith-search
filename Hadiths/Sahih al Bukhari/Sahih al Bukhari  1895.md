@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail from Hudhaifa:'Umar asked the people, "Who remembers the narra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Jami'] dari [Abu Wa'il] dari [Hudzaifah radliallahu 'anhu] berkata; "Pada suatu hari 'Umar radliallahu 'anhu berkata: "Siapa yang masih hafal hadits dari Nabi shallallahu 'alaihi wasallam tentang masalah fitnah? Hudzaifah berkata: "Aku mendengarnya saat Beliau bersabda: "Yaitu suatu fitnah seseorang dalam keluarganya, harta, anak dan tetangganya. Namun fitnah itu akan terhapus oleh shalat, shaum. shadaqah". 'Umar berkata: "Aku bertanya bukan masalah itu. Tapi aku bertanya tentang fitnah yang meluas seperti melubernya air lautan. Hudzaifah berkata: "Sesungguhnya selain itu ada satu pintu". 'Umar bertanya: "Pintu itu terbuka atau sudah rusak?". Hudzaifah berkata: "Pintu yang rusak". 'Umar berkata: "Kalau begitu pintu itu tidak akan bisa ditutup hingga hari qiyamat". Maka kami berkata, kepada Masruq: "Tanyakanlah kepadanya apakah 'Umar mengerti siapa yang dimaksud dengan pintu itu". Hudzaifah berkata: "Ya, dia mengerti. Sebagaimana mengertinya dia bahwa setelah besok pasti malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1895</td></tr><tr><td>Arabic No</td><td>1895</td></tr><tr><td>Reference</td><td>Book 30 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа (да будет доволен им Аллах) сказал: «(Однажды) ‘Умар, да будет доволен им Аллах, спросил: “Кто из вас помнит хадис Пророка ﷺ об испытании /фитна/?” Хузайфа сказал: “Я слышал, как он говорил: “Испытание человека, связанное с его женой, имуществом и соседом, искупается молитвой, постом и милостыней /садака/”. (‘Умар) сказал: “Я спрашиваю не об этом, а спрашиваю о такой (фитне), которая станет бушевать подобно бушующему морю”. (Хузайфа) сказал: “А перед ней, поистине, запертая дверь!” (‘Умар) спросил: “(Эта дверь) будет открыта или сломана?” (Хузайфа) ответил: “(Она будет) сломана!” (‘Умар) сказал: “Значит, она достойна того, чтобы её не закрыли до Дня воскрешения!”»\n(Один из передатчиков этого хадиса сказал): «Мы сказали Масруку: “Спроси его, а ‘Умар знал кто являлся (этой) дверью?” И он спросил его и (Хузайфа) сказал: “Да, (он знал об этом также хорошо), как знал, что за днём наступает ночь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1895</td></tr><tr><td>Arabic No</td><td>1895</td></tr><tr><td>Reference</td><td>Book 30 Hadith 5</td></tr></tbody></table></div>
 

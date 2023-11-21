@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Describing the conquest of Khaybar Aisha said: T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Yahya bin Ma'in] telah menceritakan kepada Kami [Hajjaj] dari [Ibnu Juraij], ia berkata; aku diberi kabar dari [Ibnu Syihab] dari ['Urwah] dari [Aisyah] radliallahu 'anha bahwa ia menyebutkan perkara Khaibar dan berkata; Nabi shallallahu 'alaihi wasallam mengutus Abdullah bin Rawahah kepada orang-orang Yahudi, kemudian ia memperkirakan kurma yang ada dipohon, ketika telah matang sebelum dimakan sebagian darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>1606</td></tr><tr><td>Reference</td><td>Book 9 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, упоминая о Хайбаре: «Пророк ﷺ обычно посылал ‘Абдуллаха ибн Раваху к иудеям Хайбара, и он оценивал количество плодов на пальмах, когда их годность была уже очевидна, но их ещё не употребляли в пищу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>1606</td></tr><tr><td>Reference</td><td>Book 9 Hadith 51</td></tr></tbody></table></div>
 

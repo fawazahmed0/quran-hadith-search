@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said “ The Apostle of Allaah(ﷺ) sent some horsemen to Najd and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Hammad Al Mishri], dan [Qutaibah], Qutaibah berkata; telah menceritakan kepada kami [Al Laits bin Sa'd] dari [Sa'id bin Abu Sa'id] bahwa ia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam mengirimkan pasukan penunggang kuda menuju Najd, kemudian pasukan tersebut membawa seorang laki-laki dari Bani Hanifah yang bernama Tsumamah bin Utsal pemimpin penduduk Yamamah. Kemudian mereka mengikatnya pada sebuah tiang masjid, kemudian Rasulullah shallallahu 'alaihi wasallam keluar kepadanya. Lalu beliau berkata: "Bagaimana keadaanmu wahai Tsumamah?" Ia berkata; keadaanku baik wahai Muhammad. Apabila engkau membunuh maka engkau membunuh orang yang memiliki darah, dan apabila engkau memberi kenikmatan maka engkau memberi kenikmatan kepada orang yang akan berterima kasih. Dan apabila engkau menghendaki harta, mintalah maka engkau akan diber apa yang engkau kehendaki. Kemudian Rasulullah shallallahu 'alaihi wasallam meninggalkannya. Kemudian keesokan harinya beliau berkata: "Bagaimana keadaanmu wahai Tsumamah?" kemudian ia mengulangi seperti perkataan ini. Lalu beliau meninggalkannya. Kemudian keesokan harinya, lalu beliau menyebutkan seperti ini. Lalu beliau berkata: "Lepaskan Tsumamah!" Kemudian ia pergi ke sebuah pohon kurma dekat masjid, lalu ia mandi padanya kemudian memasuki masjid dan berkata; aku bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Allah dan aku bersaksi bahwa Muhammad adalah hamba dan utusanNya. Dan Abu Hurairah menyebutkan hadits tersebut. Isa berkata; telah mengabarkan kepada kami [Al Laits] dan ia mengatakan; orang yang memiliki celaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (469) Sahih Muslim (1764)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 15 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (469) Sahih Muslim (1764)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 15 Hadith 203</td></tr></tbody></table></div>
 

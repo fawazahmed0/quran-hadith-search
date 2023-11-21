@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubadah ibn as-Samit: The Prophet (ﷺ) said: The best shroud is a lower
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepadaku [Ibnu Wahb], telah menceritakan kepadaku [Hisyam bin Sa'dan] dari [Hatim bin Abu Nashr] dari ['Ubadah bin Nusai] dari [ayahnya] dari ['Ubadah bin Ash Shamit] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Sebaik-baik kafan adalah hullah (pakaian yang terdiri dari jubah, sarung dan serempang), dan sebaik-baik kurban adalah domba yang bertanduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3156</td></tr><tr><td>Arabic No</td><td>3156</td></tr><tr><td>Reference</td><td>Book 21 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Убады ибн ас-Самита, да будет доволен им Аллах, что Посланник Аллаха, дабип, сказал: «Лучший саван костюм из накидки и изара, а лучшее жертвенное животное рогатый баран»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3156</td></tr><tr><td>Arabic No</td><td>3156</td></tr><tr><td>Reference</td><td>Book 21 Hadith 68</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Prophet used to say, "A disbeliever will be brou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] Telah menceritakan kepada kami [Mu'adz bin Hisyam] dia berkata; telah menceritakan kepadaku [ayahku] dari [Qotadah] dari [Anas bin malik] radhilayyahu'anhu, bahwasanya Nabiyullah Shallallahu'alaihiwasallam, -lewat jalur periwayatan lain- dan telah menceritakan kepadaku [Muhammad bin Ma'mar] telah menceritakan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Sa'id] dari [Qatadah] telah menceritakan kepada kami [Anas bin malik] radhilayyahu'anhu, bahwasanya Nabiyullah bersabda: "Pada hari kiamat orang kafir didatangkan dan ditanya; 'Bagaimana tanggapanmu sekiranya engkau mempunyai sepenuh bumi emas, apakah akan kau pergunakan untuk menebus dirimu? ' 'Iya, ' Jawabnya. Maka kepadanya dikatakan; 'Dahulu kamu hanya diminta sesuatu yang lebih sepele dari itu, (namun tak juga kamu kerjakan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6538</td></tr><tr><td>Arabic No</td><td>6538</td></tr><tr><td>Reference</td><td>Book 81 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что Пророк Аллаха ﷺ сказал: «В День воскресения приведут неверующего и спросят: “Если бы у тебя было золото размером с землю, заплатил бы ты его, чтобы откупиться?” Он ответит: “Да”. Тогда ему будет сказано: “(А ведь) от тебя требовалось то, что меньше этого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6538</td></tr><tr><td>Arabic No</td><td>6538</td></tr><tr><td>Reference</td><td>Book 81 Hadith 127</td></tr></tbody></table></div>
 

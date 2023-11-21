@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amir ibn Shahr: When the Messenger of Allah (ﷺ) appeared as a prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari], dari [Abu Usamah] dari [Mujalid] dari [Asy Sya'bi] dari ['Amir bin Syahr], ia berkata; Rasulullah shallallahu 'alaihi wasallam keluar, orang-orang Hamdan berkata kepadaku; apakah engkau mau pergi kepada orang ini, dan mencari untuk kami? Apabila engkau merelakan sesuatu untuk kami maka kami akan menerima dan apabila engkau tidak menyukai sesuatu maka kami pun tidak menyukainya. Aku katakan; ya. Kemudian aku datang kepada Rasulullah shallallahu 'alaihi wasallam kemudian aku menyukai urusan beliau dan kaumku pun masuk Islam. Rasulullah shallallahu 'alaihi wasallam menulis surat ini kepada 'Umair Dzi Marran. Dan beliau mengutus Malik bin Mirarah Ar Rahawi ke seluruh Yaman. Kemudian 'Akku Dzu Khaiwan masuk Islam, lalu dikatakan kepada 'Akku; pergilah kepada Rasulullah shallallahu 'alaihi wasallam dan ambillah keamanan untuk kampong dan hartamu! Kemudian ia datang dan Rasulullah shallallahu 'alaihi wasallam menuliskan surat untuknya: "Bismillahirrahmanirrahim, dari Muhammad Rasulullah, untuk 'Akku Dzu Khaiwan: Apabila ia jujur untuk negeri, harta, dan budaknya maka baginya keamanan dan jaminan Allah dan jaminan Muhammad Rasulullah." Dan Khalid bin Sa'id bin Al 'Ash menulis hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 20 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Амира ибн Шахра, да будет доволен им Аллах: «Появился Посланник Аллаха ﷺ и хамданиты сказали мне: “Может, ты сходишь к этому человеку, чтобы узнать о нём побольше? И если тебе понравится то, что ты увидишь, мы также будем довольны, а если тебе не понравится, мы тоже будем питать к этому отвращение”. Я сказал: “Хорошо”. И я отправился к Посланнику Аллаха ﷺ. Когда я прибыл к нему, я остался доволен тем, к чему он призывал, и мои соплеменники приняли ислам, и Посланник Аллаха ﷺ написал это послание ‘Умайру Зу Маррану. И он послал Малика ибн Мирару ар-Рахави в Йемен, и Акк Зу Хайван принял ислам. Акку сказали: “Иди к Посланнику Аллаха ﷺ и попроси его гарантировать неприкосновенность твоему селению и твоему имуществу”. Он так и сделал, и Посланник Аллаха ﷺ написал ему: “С именем Аллаха Всемилостивого, Милостивого! От Мухаммада, Посланника Аллаха ﷺ Акку Зу Хайвану. Если он искренен и правдив, то его земля, его имущество и его невольники неприкосновенны: они под покровительством Аллаха и под покровительством Мухаммада Посланника Аллаха”. Это записал Халид ибн Са‘ид ибн аль-‘Ас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 20 Hadith 100</td></tr></tbody></table></div>
 

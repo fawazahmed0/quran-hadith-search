@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id Khudri reported Allah's Apostle (ﷺ) as saying:Avoid sitting on the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Suwaid bin Sa'id]; Telah menceritakan kepada kami [Hafsh bin Maisarah] dari [Zaid bin Aslam] dari ['Atha bin Yasar] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Jauhilah duduk-duduk di jalanan!" Para sahabat menjawab; 'Kami sangat butuh untuk duduk dan berbincang-bincang ya Rasulullah. Rasulullah shallallahu 'alaihi wasallam bersabda: 'Jika kalian keberatan meninggalkan majelis jalanan itu, maka penuhilah hak jalanan! ' para sahabat menjawab; 'Apakah hak jalanan itu? ' Sabda beliau: 'menjaga pandangan, menyingkirkan sesuatu yang berbahaya, menjawab salam (orang yang lewat), mengerjakan yang ma'ruf dan mencegah yang mungkar.' Telah menceritakan kepada kami [Yahya bin Yahya]; Telah menceritakan kepada kami ['Abdul 'Aziz bin Muhammad Al Madani]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami [Ibnu Abu Fudaik] dari [Hisyam] yaitu Ibnu Sa'd keduanya dari [Zaid bin Aslam] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5648</td></tr><tr><td>Arabic No</td><td>2121.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5648</td></tr><tr><td>Arabic No</td><td>2121.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 3</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), le Prophète (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdul A'la] dari [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu 'Umar] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang di antara kalian membangunkan temannya dari tempat duduknya kemudian dia duduki tempatnya itu." 'Karena itu apabila seseorang berdiri untuk memberikan tempat duduknya kepada Ibnu 'Umar, dia tidak mau menempatinya.' Dan telah menceritakannya kepada kami [Abad bin Humaid] Telah mengabarkan kepada kami [Abdur razak] Telah mengabarkan kepada kami [Ma'mar] melalui sanad ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5686</td></tr><tr><td>Arabic No</td><td>2177.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5686</td></tr><tr><td>Arabic No</td><td>2177.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 40</td></tr></tbody></table></div>
 

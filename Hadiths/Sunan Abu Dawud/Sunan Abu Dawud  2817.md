@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The verse: "So eat of (meats) on which Allah's name hath bee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit Al Marwazi], telah menceritakan kepadaku [Ali bin Husain] dari [ayahnya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas], ia berkata; ayat "Makanlah apa yang telah disebutkan nama Allah padanya, " "Dan jangan kalian makan apa yang yang belum disebutkan nama Allah padanya." Kemudian hal tersebut dihapuskan dan Allah mengecualihan dari hal tersebut, Allah berfirman: "Dan makanan orang-orang ahli kitab adalah halal bagimu dan makananmu adalah halal bagi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2817</td></tr><tr><td>Arabic No</td><td>2817</td></tr><tr><td>Reference</td><td>Book 16 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что сначала Всевышний Аллах ниспослал: «Так ешьте же из того, над чем поминалось имя Аллаха» (сура 6 «аль-Ан‘ам», аят 118) и «И не ешьте из того, над чем не было помянуто имя Аллаха» (сура 6 «аль-Ан‘ам», аят 121), а потом этот аят был отменён и было сделано исключение: «И еда тех, кому даровано Писание, дозволена для вас, и ваша еда дозволена для них» (сура 5 «аль-Маида», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2817</td></tr><tr><td>Arabic No</td><td>2817</td></tr><tr><td>Reference</td><td>Book 16 Hadith 30</td></tr></tbody></table></div>
 

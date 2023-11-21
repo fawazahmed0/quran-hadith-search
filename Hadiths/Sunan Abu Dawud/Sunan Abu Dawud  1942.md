@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) sent Umm Salamah on the night 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Harun bin Abdullah], telah menceritakan kepada Kami [Ibnu Abu Fudaik], dari [Adh Dhahhak yaitu Ibnu Utsman] dari [Hisyam bin 'Urwah] dari [ayahanya] dari [Aisyah] bahwa ia berkata; Nabi shallallahu 'alaihi wasallam mengutus seseorang untuk menemani Ummu Salamah pada malam Hari Nahr untuk melontar jumrah, maka dia melontar jumrah sebelum fajar kemudian berlalu dan pergi. Dan hari itu adalah hari dimana Rasulullah shallla Allahu 'alaihi wa sallam menggilirnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1942</td></tr><tr><td>Arabic No</td><td>1942</td></tr><tr><td>Reference</td><td>Book 11 Hadith 222</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «В ночь перед днём жертвоприношения Посланник Аллаха ﷺ отправил Умм Саляму бросать камешки, и она бросила их ещё до рассвета, после чего уехала. Это был день, когда Посланник Аллаха ﷺ был у неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1942</td></tr><tr><td>Arabic No</td><td>1942</td></tr><tr><td>Reference</td><td>Book 11 Hadith 222</td></tr></tbody></table></div>
 

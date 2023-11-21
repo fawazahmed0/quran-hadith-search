@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbdurRahman ibn Tarafah said that his grandfather Arfajah ibn As'ad who had his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] dan [Muhammad bin Abdullah Al Khuza'i] keduanya berkata; telah menceritakan kepada kami [Abu Al Asyhab] dari ['Abdurrahman bin Tharafah] bahwa kakeknya [Arfajah bin As'ad], hidungnya terpotong saat perang Al Kilab. Lalu ia membuat hidung palsu dari perak, tetapi justru hidungnya menjadi busuk. Nabi shallallahu 'alaihi wasallam lalu memerintahkan kepadanya (untuk membuat hidung dari emas), hingga ia pun membuat hidung dari emas." Telah menceritakan kepada kami [Al Hasan bin Ali] berkata, telah menceritakan kepada kami [Yazid bin Harun] dan [Abu Ashim] keduanya berkata; telah menceritakan kepada kami [Abu Al Asyhab] dari ['Abdurrahman bin Tharafah] dari [Arfajah bin As'ad] dengan makna yang sama. Yazid berkata, "Aku berkata kepada Abu Al Asyhab, "Apakah 'Abdurrahman bin Tharafah mendapati kakeknya, Arfajah?" Ia menjawab, "Ya." Telah menceritakan kepada kami [Muammal bin Hisyam] berkata, telah menceritakan kepada kami [Isma'il] dari [Abu Al Asyhab] dari ['Abdurrahman bin Tharafah] dari Arfajah bin As'ad dari [Bapaknya] bahwa [Arfajah] …. dengan makna yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>4232</td></tr><tr><td>Reference</td><td>Book 36 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн Тарафа передаёт, что его деду ‘Арфадже ибн Ас‘аду отрубили нос в день битвы при Кулябе и он сделал себе нос из серебра, однако у него началось воспаление, и тогда Пророк ﷺ велел ему сделать нос из золота
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>4232</td></tr><tr><td>Reference</td><td>Book 36 Hadith 19</td></tr></tbody></table></div>
 

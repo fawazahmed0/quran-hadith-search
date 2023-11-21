@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas reported:A person came to the Messenger of Allah (ﷺ). He performed abluti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] telah menceritakan kepada kami [Ibnu Wahb] dari [Jarir bin Hazim] bahwa dia mendengar [Qatadah bin Di'amah] telah menceritakan kepada kami [Anas bin Malik] bahwasanya ada seorang laki-laki yang datang kepada Nabi shallallahu 'alaihi wasallam, sedangkan dia telah berwudhu, namun dia meninggalkan bagian di kakinya seperti tempat kuku (yang masih basah), maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Kembali dan baguskanlah wudhumu." Abu Dawud berkata; Hadits ini tidak diketahui dari Jarir bin Hazim, dan tidak meriwayatkannya kecuali Ibnu Wahb sendirian. Hadits ini telah diriwayatkan dari [Ma'qil bin Ubaidullah Al-Jazari] dari [Abu Az-Zubair] dari [Jabir] dari [Umar] dari Nabi shallallahu 'alaihi wasallam, semisal dengannya, beliau bersabda: "Kembali dan baguskanlah wudhumu." Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Yunus] dan [Humaid] dari [Al Hasan] dari Nabi shallallahu 'alaihi wasallam, dengan makna hadits Qatadah (dari Anas)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>173</td></tr><tr><td>Arabic No</td><td>173</td></tr><tr><td>Reference</td><td>Book 1 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джарира ибн Хазима о том, что он слышал, как Катада ибн Ди‘ама рассказывал со слов Анаса ибн Малика о том, что однажды к Пророку ﷺ пришел некий мужчина, совершив омовение, и он оставил у себя на ногах (не помытое) место величиной с ноготь. И Посланник Аллаха ﷺ сказал ему: «Вернись и соверши омовение, как следует».Абу Дауд сказал: «Этот хадис не известен со слов Джарира ибн Хазима и его не передавал никто, кроме одного Ибн Вахба. Также передается от Ма‘киля ибн ‘Абдуллаха аль-Джазарийа, от Абу Зубайра, от Джабира, от ‘Умара, от Пророка ﷺ похожий (хадис, в котором сообщается, что) он сказал: “Вернись и соверши омовение, как следует“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>173</td></tr><tr><td>Arabic No</td><td>173</td></tr><tr><td>Reference</td><td>Book 1 Hadith 173</td></tr></tbody></table></div>
 

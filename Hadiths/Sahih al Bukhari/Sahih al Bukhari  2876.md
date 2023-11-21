@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:the mother of the faithful believers: The Prophet (ﷺ) was aske
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qabishah] telah bercerita kepada kami [Sufyan] dari [Mu'awiyah] dengan hadits seperti ini. Dan dari [Habib bin Abi 'Amrah] dari ['Aisyah binti Thalhah] dari ['Aisyah, ummul mu'minin radliallahu 'anha] dari Nabi shallallahu 'alaihi wasallam bahwa para istri Beliau bertanya kepada Beliau tentang jihad, maka Beliau bersabda: "sebaik-baik jihad (bagi kaum wanita) adalah hajii
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2876</td></tr><tr><td>Arabic No</td><td>2876</td></tr><tr><td>Reference</td><td>Book 56 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, мать правоверных, сказала: «Жёны Пророка ﷺ спросили его о джихаде, и он ответил: “Лучший джихад (для вас) это (совершение) хаджа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2876</td></tr><tr><td>Arabic No</td><td>2876</td></tr><tr><td>Reference</td><td>Book 56 Hadith 92</td></tr></tbody></table></div>
 

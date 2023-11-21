@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Yahya b. Ayyub: When Abu Zur'ah made a business transaction with a man,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim Al Jarjarai], ia berkata; [Marwan Al Fazari] telah mengabarkan kepada kami, dari [Yahya bin Ayyub], ia berkata; [Abu Zur'ah] apabila melakukan jual beli dengan seseorang maka ia memberinya kebebasan memilih. Kemudian ia berkata; berilah aku kebebasan memilih! Dan ia berkata; aku mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah dua orang berpisah kecuali dengan saling rela
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3458</td></tr><tr><td>Arabic No</td><td>3458</td></tr><tr><td>Reference</td><td>Book 24 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Яхья ибн Айюб передаёт, что Абу Зур‘а, заключая с каким-либо человеком торговую сделку, предоставлял ему выбор и потом говорил ему: «Предоставь мне выбор», и говорил: «Я слышал, как Абу Хурайра, да будет доволен им Аллах, передавал от Посланника Аллаха ﷺ: “Участники сделки должны расходиться не иначе как довольными сделкой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3458</td></tr><tr><td>Arabic No</td><td>3458</td></tr><tr><td>Reference</td><td>Book 24 Hadith 43</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When Ma'iz bin Malik came to the Prophet (in order to confes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad Al Ju'fi] Telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [Ayahku] ia mengatakan; aku mendengar [Ya'la bin Hakim] dari ['Ikrimah] dari [Ibnu 'Abbas] radliallahu 'anhuma mengatakan; 'Ketika Ma'iz bin Malik menemui Nabi shallallahu 'alaihi wasallam, Nabi bertanya: "bisa jadi kamu hanya sekedar mencium, meremas, atau memandang!" Ma'iz menjawab; 'Tidak ya Rasulullah! ' -beliau bertanya lagi; "apakah kamu benar-benar menyetubuhinya?" -beliau tidak menggunakan bahasa kiasan.- maka pada saat itu dia pun dirajam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6824</td></tr><tr><td>Arabic No</td><td>6824</td></tr><tr><td>Reference</td><td>Book 86 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, рассказывал: «Когда Ма‘из ибн Малик явился к Пророку ﷺ , тот спросил: “Быть может, ты только целовал, ласкал или глядел?” Он ответил: “Нет, о Посланник Аллаха!” Тогда он спросил напрямую, без намёков: “Ты вступил с ней в половую близость?” (После того, как тот ответил утвердительно,) Пророк ﷺ велел подвергнуть его побиванию камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6824</td></tr><tr><td>Arabic No</td><td>6824</td></tr><tr><td>Reference</td><td>Book 86 Hadith 52</td></tr></tbody></table></div>
 

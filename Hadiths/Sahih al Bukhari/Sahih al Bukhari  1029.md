@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A bedouin came to Allah's Messenger (ﷺ) on a Friday an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>1029</td></tr><tr><td>Reference</td><td>Book 15 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) в пятницу к Посланнику Аллаха ﷺ пришел мужчина из числа бедуинов и сказал: “О, Посланник Аллаха, наш скот погиб, дети погибли и люди погибли”. Тогда Посланник Аллаха ﷺ поднял руки и обратился к Аллаху, и люди тоже подняли руки и обратились к Аллаху. Не успели мы выйти из мечети, как начался дождь. Дождь шел до следующей пятницы, когда тот же самый человек пришел к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха! Путешественники вынуждены откладывать свои путешествия (из-за чрезмерного дождя), и дороги испортились”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>1029</td></tr><tr><td>Reference</td><td>Book 15 Hadith 24</td></tr></tbody></table></div>
 

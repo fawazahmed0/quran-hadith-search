@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Rifa'a reported:I came to the Prophet (ﷺ) when he was delivering the sermo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Sulaiman bin Al Mughirah] telah menceritakan kepada kami [Humaid bin Hilal] ia berkata, [Abu Rifa'ah] berkata; "Aku tiba di tempat Rasulullah shallallahu 'alaihi wasallam saat beliau sedang berkhutbah. Lalu aku berkata kepada beliau, "Wahai Rasulullah, ada orang asing yang sengaja datang kepada Anda untuk bertanya tentang agama, ia tidak tahu apa agamanya." Maka Rasulullah shallallahu 'alaihi wasallam pun mendatangiku dan memutuskan khutbahnya. Ketika beliau sampai di dekatku, diberikanlah sebuah kursi -aku memperkirakan kaki-kakinya terbuat dari besi- untuk beliau duduki. Selanjutnya Rasulullah shallallahu 'alaihi wasallam duduk di kursi tersebut dan mengajarkan kepadaku perihal agama yang telah diajarkan Allah kepada beliau. Setelah itu, beliau meneruskan khutbahnya hingga selesai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2025</td></tr><tr><td>Arabic No</td><td>876</td></tr><tr><td>Reference</td><td>Book 7 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Рифа‘а сказал: «(Однажды) я подошёл к Пророку ﷺ, произносившему проповедь, и сказал: “О Посланник Аллаха, явился чужеземец (имея в виду себя), который спрашивает о своей религии, ибо не знает, в чём состоит её (суть)”. (Услышав это), Посланник Аллаха ﷺ повернулся ко мне, прервал хутбу и подошёл ко мне. После этого ему принесли стул, ножки которого, как мне показалось, были сделаны из железа. Посланник Аллаха ﷺ сел на него и принялся обучать меня тому, чему научил его Аллах, а потом (продолжил) свою хутбу и довёл её до конца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2025</td></tr><tr><td>Arabic No</td><td>876</td></tr><tr><td>Reference</td><td>Book 7 Hadith 75</td></tr></tbody></table></div>
 

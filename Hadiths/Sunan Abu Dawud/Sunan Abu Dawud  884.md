@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Musa b. Abi ‘A'ishah said:A man used to pray on the roof of his house. When he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Musa bin Abu Aisyah] dia berkata; " [Seseorang] shalat diatas rumahnya, apabila ia selesai membaca ayat "alaisa dzaalika bi qaadirin 'ala an yuhyiyal mauta" (Bukankah Dzat yang demikian itu lebih mampu untuk menghidupkan yang mati)?" maka dia mengucapkan "subhanaka" lalu menangis. Mereka bertanya kepada laki-laki tersebut tentang perbuatannya itu, dia menjawab bahwa dirinya pernah mendengarnya dari Rasulullah shallallahu 'alaihi wasallam." Abu Daud berkata: Ahmad berkata: "Aku lebih suka dalam shalat wajib membaca do'a-do'a yang ada dalam Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>884</td></tr><tr><td>Arabic No</td><td>884</td></tr><tr><td>Reference</td><td>Book 2 Hadith 494</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Мусы ибн Абу ‘Аиша, что один человек молился на крыше своего дома и, когда читал аят «Разве Он не способен оживлять мёртвых?» (сура «аль-Кыйама» аят 40), восклицал: «Слава Тебе, конечно (да) (Субхана-ка фа-баля)!», а когда его спросили об этом, он сказал: «Я слышал это от Посланника Аллаха».Абу Дауд передаёт, что Ахмад говорит: «Мне нравится обращение к Аллаху с мольбами из Корана в обязательных молитвах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>884</td></tr><tr><td>Arabic No</td><td>884</td></tr><tr><td>Reference</td><td>Book 2 Hadith 494</td></tr></tbody></table></div>
 

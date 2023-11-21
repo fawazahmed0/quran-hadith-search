@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Mughirah b. Shu’bah said:The Messenger of Allah (ﷺ) wiped over the socks 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ibnu Hayy, yaitu Al Hasan bin Shalih] dari [Bukair bin 'Amir Al-Bajali] dari [Abdurrahman bin Abu Nu'm] dari [Al-Mughirah bin Syu'bah] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah mengusap di bagian atas khuf (tatkala berwudhu), maka aku berkata; Wahai Rasulullah, apakah engkau lupa? Beliau menjawab: "Bahkan kamu yang lupa, dengan inilah Rabbku Azza wa Jalla memerintahkanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>156</td></tr><tr><td>Arabic No</td><td>156</td></tr><tr><td>Reference</td><td>Book 1 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Аль-Мугъиры ибн Шу‘ба о том, что однажды Посланник Аллаха ﷺ обтер свои кожаные носки /хуффайн/, и я спросил: «О Посланник Аллаха, ты забыл (помыть ноги)?» Он ответил: «Нет, это ты забыл! Поступать так велел мне мой Господь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>156</td></tr><tr><td>Arabic No</td><td>156</td></tr><tr><td>Reference</td><td>Book 1 Hadith 156</td></tr></tbody></table></div>
 

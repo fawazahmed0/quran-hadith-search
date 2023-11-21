@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dhar:That he heard the Prophet (ﷺ) saying, "If somebody accuses a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] dari [Al Husain] dari [Abdullah bin Buraidah] telah menceritakan kepadaku [Yahya bin Ya'mar] bahwa [Abu Aswad Ad Diili] menceritakan kepadanya dari [Abu Dzar] radliallahu 'anhu bahwa dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang melempar tuduhan kepada orang lain dengan kefasikan, dan tidak pula menuduh dengan kekufuran melainkan (tuduhan itu) akan kembali kepadanya, jika saudaranya tidak seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6045</td></tr><tr><td>Arabic No</td><td>6045</td></tr><tr><td>Reference</td><td>Book 78 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Зарра, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «Когда один человек обвиняет другого в нечестии или неверии, (обвинение) обязательно возвращается к нему самому, если (тот, кого он обвиняет, на самом деле) таковым не является»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6045</td></tr><tr><td>Arabic No</td><td>6045</td></tr><tr><td>Reference</td><td>Book 78 Hadith 75</td></tr></tbody></table></div>
 

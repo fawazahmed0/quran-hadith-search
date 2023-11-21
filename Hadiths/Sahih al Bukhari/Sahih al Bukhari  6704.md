@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:While the Prophet (ﷺ) was delivering a sermon, he saw a ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ayyub] dari [Ikrimah] dari [Ibnu 'Abbas] mengatakan, ketika Nabi shallallahu 'alaihi wasallam menyampaikan khutbah, tiba-tiba ada seseorang yang berdiri terus, beliau pun bertanya tentang perbuatannya, maka para sahabat menjawab; 'Itu Abu isra'il, telah bernadzar untuk berdiri dan tidak akan duduk, tidak akan berteduh, tidak akan berbicara dan terus berpuasa.' Nabi shallallahu 'alaihi wasallam bersabda: "Suruhlah dia untuk bicara, berteduh, duduk, dan menyempurnakan puasanya." [Abdul Wahhab] mengatakan, telah menceritakan kepada kami [Ayyub] dari [Ikrimah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6704</td></tr><tr><td>Arabic No</td><td>6704</td></tr><tr><td>Reference</td><td>Book 83 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Однажды Пророк ﷺ, произносивший проповедь, неожиданно увидел стоящего человека и спросил о нём. Люди сказали: “Это Абу Исраиль, который дал обет (в этот день) стоять и не садиться, не укрываться в тени, не разговаривать и поститься”. Тогда Пророк ﷺ сказал: “Велите ему, чтобы он говорил, укрывался в тени и садился, а пост свой пусть доведёт до конца”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6704</td></tr><tr><td>Arabic No</td><td>6704</td></tr><tr><td>Reference</td><td>Book 83 Hadith 81</td></tr></tbody></table></div>
 

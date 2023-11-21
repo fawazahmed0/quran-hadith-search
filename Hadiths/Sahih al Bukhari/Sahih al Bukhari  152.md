@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Whenever Allah's Messenger (ﷺ) went to answer the call
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] berkata, telah menceritakan kepada kami [Syu'bah] dari ['Atha' bin Abu Maimunah] ia mendengar [Anas bin Malik] berkata, "Rasulullah shallallahu 'alaihi wasallam masuk ke dalam WC untuk buang hajat, lalu aku dan seorang temanku membawa bejana berisi air dan sebatang kayu (tongkat) untuk beliau gunakan beristinja'. Hadits ini kuatkan oleh [An-Nadlr] dan [Syadzan] dari [Syu'bah], "Al Anazah adalah tongkat yang ujungnya ada besi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>152</td></tr><tr><td>Arabic No</td><td>152</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аты ибн Абу Маймуны о том, что он слышал, как Анас ибн Малик, да будет доволен им Аллах, говорил: «Когда Посланник Аллаха ﷺ заходил в отхожее место, мы вместе с одним мальчиком несли с собой маленький кожаный бурдюк с водой и палку с наконечником, и он использовал воду для подмывания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>152</td></tr><tr><td>Arabic No</td><td>152</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
 

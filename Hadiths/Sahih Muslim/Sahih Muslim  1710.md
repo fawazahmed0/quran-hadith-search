@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that the Messenger of Allah (ﷺ) died (in this very state) that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Harun bin Abdullah], keduanya berkata; telah menceritakan kepada kami [Hajjaj bin Muhammad] katanya; [Ibn Juraij] berkata; telah mengabarkan kepadaku [Utsman bin Abu Sulaiman], bahwa [Abu Salamah bin Abdurrahman] mengabarinya, bahwa ['Aisyah] pernah mengabarinya, bahwa Nabi shallallahu 'alaihi wasallam tidak meninggal, hingga sekian banyak shalatnya beliau lakukan dengan duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1710</td></tr><tr><td>Arabic No</td><td>732.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что перед смертью Пророк ﷺ совершал молитвы сидя
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1710</td></tr><tr><td>Arabic No</td><td>732.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 140</td></tr></tbody></table></div>
 

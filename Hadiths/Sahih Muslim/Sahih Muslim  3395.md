@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar used to come to Quba' on every Saturday and he said:I saw Allah's Apost
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakannya kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abdullah bin Dinar] bahwasanya; [Ibnu Umar] mendatangi Masjid Quba' pada setiap hari Sabtu. Dan ia berkata, "Saya telah melihat Rasulullah shallallahu 'alaihi wasallam mendatanginya pada setiap hari Sabtu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3395</td></tr><tr><td>Arabic No</td><td>1399.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 599</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3395</td></tr><tr><td>Arabic No</td><td>1399.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 599</td></tr></tbody></table></div>
 

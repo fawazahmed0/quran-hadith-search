@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that when the Messenger of Allah (ﷺ) stood up for the sec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kata Muslim, Dan aku diberi cerita dari [Yahya bin Hassan] dan [Yunus Al Mu'addib] dan yang lain, mereka berkata; telah menceritakan kepada kami [Abdul Wahid bin Ziyad] dia berkata, telah menceritakan kepadaku ['Umarahj bin Qa'qa'] telah menceritakan kepada kami [Abu Zur'ah] katanya; "Aku mendengar [Abu Hurairah] mengatakan; "Apabila Rasulullah shallallahu 'alaihi wasallam bangkit dari ruku' kedua, beliau membuka bacaannya dengan "Alhamdu lillahi rabbil'alamin", dan tidak diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1356</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 5 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах: «Когда Посланник Аллаха ﷺ вставал для совершения второго рак‘ата, то начинал (его) со слов: “Аль-хамду ли-Лляхи рабби-ль-‘алямин (Хвала Аллаху, Господу миров)” (сура “аль-Фатиха”, аят 1), не делая (при этом) паузы».Глава: О достоиностве слов “Хвала Аллаху, хвала многая, благая и благословенная” /Аль-хамду ли-Лляхи хамдан касиран, таййибан, мубаракан фи-хи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1356</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 5 Hadith 191</td></tr></tbody></table></div>
 

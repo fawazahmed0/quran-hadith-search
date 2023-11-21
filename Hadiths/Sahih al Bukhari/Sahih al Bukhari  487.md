@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ See translation for hadith 484 above
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>487</td></tr><tr><td>Arabic No</td><td>487</td></tr><tr><td>Reference</td><td>Book 8 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И ‘Абдуллах рассказывал, что Пророк ﷺ обычно останавливался под большим деревом, росшим справа от дороги на ровном каменистом месте перед ар-Рувайсой. Оно росло за холмом, расположенным примерно за две мили до того места, где в ар-Рувайсе останавливались гонцы. Крона этого дерева надломилась и оказалась среди (других его ветвей), а у подножия его было множество песчаных дюн
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>487</td></tr><tr><td>Arabic No</td><td>487</td></tr><tr><td>Reference</td><td>Book 8 Hadith 134</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) used to visit Umm Haram bint Mil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] dari [Malik] dari [Ishaq bin 'Abdullah bin Abi Thalhah] dari [Anas bin Malik radliallahu 'anhu] bahwa dia mendengarnya berkata: "Rasulullah shallallahu 'alaihi wasallam pernah datang kepada Ummu Haram binti Milhan lalu dia memberi makan Beliau. Dimana saat itu Ummu Haram berada pada tangung jawab (istri) 'Ubadah bin ash-Shomit lalu Rasulullah shallallahu 'alaihi wasallam mendatanginya kemudian dia memberi makan Baliau dan Ummu Haram kemudian menyisir rambut kepala Beliau hingga Rasulullah shallallahu 'alaihi wasallam tertidur. Kemudian Beliau terbangun sambil tertawa. Ummu Haram berkata; Aku tanyakan: "Apa yang membuat Tuan tertawa wahai Rasulullah". Beliau menjawab: "Ada orang-orang dari ummatku yang diperlihatkan kepadaku sebagai pasukan perang di jalan Allah dimana mereka mengarungi lautan sebagai raja-raja di atas singgasana atau seperti bagaikan raja-raja di atas singgasana". Ishaq ragu dalam kalimat ini. Ummu Haram berkata; Aku katakan: "Wahai Rasulullah, do'akanlah agar Allah menjadikan aku salah seorang dari mereka". Maka Rasulullah shallallahu 'alaihi wasallam berdo'a untuknya. Kemudian Beliau meletakkan kepalanya (tertidur) lalu terbangun sambil tertawa. Ummu Haram berkata; Aku tanyakan: "Apa yang membuat Tuan tertawa wahai Rasulullah". Beliau menjawab: "Ada orang-orang dari ummatku yang diperlihatkan kepadaku sebagai pasukan perang di jalan Allah". Sebagaimana ucapan Beliau yang pertama tadi. Ummu Haram berkata; Aku katakan: "Wahai Rasulullah, do'akanlah kepada Allah agar Dia menjadikan aku salah seorang dari mereka". Beliau berkata: "Kamu akan menjadi diantara orang-orang yang pertama kali". Maka Ummu Haram mengarungi lautan pada zaman Mu'awiyah bin Abi Sufan. Setelah keluar dari (mengarungi) lautan dia dilempar oleh hewan tunggangannya hingga menewaskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2789</td></tr><tr><td>Arabic No</td><td>2789</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ нередко заходил к Умм Харам бинт Мильхан, да будет доволен ею Аллах, которая была женой ‘Убады ибн ас-Самита. Однажды Посланник Аллаха ﷺ зашёл к ней, и она накормила его, а потом начала искать вшей у него в голове. Потом Посланник Аллаха ﷺ заснул, а потом проснулся, смеясь, и она спросила: “Почему ты смеёшься, о Посланник Аллаха?” (В ответ ей Пророк ﷺ) сказал: “Во сне некоторые люди из (числа членов) моей общины были показаны мне как участники военного похода на пути Аллаха, которые сидели посреди этого моря как цари, сидящие на тронах (или: подобно царям, сидящим на тронах)”». (Умм Харам) сказала: «Я попросила: “О Посланник Аллаха, обратись к Аллаху с мольбой, чтобы Он причислил к ним и меня!”» (Передатчик этого хадиса сказал): «И Посланник Аллаха ﷺ обратился к Аллаху с такой мольбой за неё и сказал: “Ты — из числа первых”». А когда халифом стал Му‘авийа ибн Абу Суфйан, Умм Харам приняла участие в морском (военном походе), сойдя же на берег, она упала со своего верхового животного и разбилась насмерть
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2789</td></tr><tr><td>Arabic No</td><td>2789</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

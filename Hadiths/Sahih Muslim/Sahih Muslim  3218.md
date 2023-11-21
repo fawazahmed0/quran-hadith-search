@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported that Dhuwaib, father of Qabisa (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ghassan Al Misma'i] Telah menceritakan kepada kami [Abdul A'la] Telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Sinan bin Salamah] dari [Ibnu Abbas] bahwa [Dzuaiba Abu Qabishah] telah menceritakan keapdanya bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengirimkan hewan kurban kepadanya, lalu berliau bersabda: "Jika ada di antara hewan-hewan kurban itu sakit, yang kamu khawatirkan akan mati, sembelihlah. Kemudian redamkan terompahnya ke darahnya lalu sapukan ke badannya. Kamu atau siapa pun yang menyertaimu tidak boleh memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3218</td></tr><tr><td>Arabic No</td><td>1326</td></tr><tr><td>Reference</td><td>Book 15 Hadith 422</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3218</td></tr><tr><td>Arabic No</td><td>1326</td></tr><tr><td>Reference</td><td>Book 15 Hadith 422</td></tr></tbody></table></div>
 

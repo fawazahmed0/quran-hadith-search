@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:They (the Companions) discussed that they should know the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim al-Hanzhali] telah mengabarkan kepada kami [Abdul Wahab ats-Tsaqafi] telah menceritakan kepada kami [Khalid al-Hadzdza'] dari [Abu Qilabah] dari [Anas bin Malik] dia berkata, "Orang-orang ramai membicarakan untuk mengumumkan waktu shalat dengan sesuatu yang mereka kenal, lalu mereka ungkapkan, 'Membuat cahaya api saja, atau memukul lonceng.' Lalu Bilal diperintahkan untuk menggenapkan adzan dan mengganjilkan iqamah." Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Khalid al-Hadzdza'] dengan isnad ini, "Ketika orang-orang telah berjumlah banyak, maka mereka menyebutkan agar mengumumkan (shalat) seperti hadits ats-Tsaqafi, hanya saja dia berkata, "Agar mereka memberikan cahaya api
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>839</td></tr><tr><td>Arabic No</td><td>378.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «(Когда количество людей увеличилось,) они стали обсуждать, что им следует делать, чтобы узнавать о наступлении времени молитвы. Некоторые предложили разжигать огонь или бить в колокол, и тогда Билялю было велено повторять слова азана чётное число раз, а слова икамы нечётное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>839</td></tr><tr><td>Arabic No</td><td>378.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 3</td></tr></tbody></table></div>
 

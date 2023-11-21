@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ishaq b. Ibrahim narrates this hadith of the Prophet on the authority of Imran b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib al-Haritsi] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ishaq] -yaitu Ibnu Suwaid- bahwa [Abu Qatadah] menceritakan hadits, dia berkata, "Kami berada di sisi Imran bin Hushain dalam sebuah rombongan, dan di antara kami ada Busyair bin Ka'ab, maka [Imran bin Hushain], saat itu, menceritakan kepada kami, dia katakan, 'Rasulullah shallallahu 'alaihi wasallam bersabda: "Malu itu adalah baik semuanya." Atau dia berkata, "Malu itu semuanya adalah baik." Maka Busyair bin Ka'ab berkata, "Sungguh, dalam sebagian kitab atau hikmah kami mendapatkan bahwa dari rasa malu itu akan muncul ketenangan dan kewibawaan kepada Allah, dan dari malu itu ada kelemahan." Maka Imran marah hingga kedua matanya merah seraya berkata, "Kenapa kulihat aku ceritakan kepadamu dari Rasulullah naun kamu justru menentang!" Abu Qatadah berkata, "Maka Imran mengulangi hadits tersebut." Abu Qatadah berkata, "Dan Busyair juga mengulanginya lagi, sehingga Imran marah." Abu Qatdah melanjutkan, "Maka kita tetap mengatakan tentangnya, karena kata-kata tersebut berasal dari kita wahai Abu Nujaid. Itu tidak apa-apa." Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [an-Nadlr] telah menceritakan kepada kami [Abu Na'amah al-Adawi] dia berkata, aku telah mendengar [Hujair bin ar-Rabi' al-Adawi] berkata dari [Imran bin Hushain] dari Nabi shallallahu 'alaihi wasallam dengan semisal hadits Hammad bin Zaid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>157</td></tr><tr><td>Arabic No</td><td>37.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Катада сказал: «Однажды, когда мы с несколькими людьми, среди которых был и Бушайр Ибн Ка’б, находились у ‘Имрана ибн Хусайна, ‘Имран передал нам, что Посланник Аллаха ﷺ сказал: “В стыдливости нет ничего, кроме блага”. (Услышав это), Бушайр ибн Ка’б сказал: “А мы видим, что в некоторых книгах (или: мудрых книгах) сказано, что (стыдливость) способствует проявлению спокойствия и достоинства пред Аллахом и что (иногда она является проявлением) слабости”. Тут ‘Имран разгневался так, что глаза его налились кровью, и воскликнул: “Я передаю тебе слова Посланника Аллаха ﷺ, а ты не соглашаешься с ними!” После этого ‘Имран передал тот же хадис ещё раз, и Бушайр опять сказал то, что сказал. ‘Имран снова разгневался, и мы ещё долго говорили (‘Имрану о Бушайре): “Поистине, он (один) из нас, о Абу Нуджайд, поистине, нет в нём ничего дурного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>157</td></tr><tr><td>Arabic No</td><td>37.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 65</td></tr></tbody></table></div>
 

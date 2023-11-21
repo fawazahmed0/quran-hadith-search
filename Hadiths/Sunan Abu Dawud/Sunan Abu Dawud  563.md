@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A person from the Ansar: Sa'id ibn al-Musayyab said: An Ansari was brea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mu'adz bin 'Abbad Al-Anbari] telah menceritakan kepada kami [Abu 'Awanah] dari [Ya'la bin 'Atha'] dari [Ma'bad bin Hurmuz] dari [Sa'id bin Al-Musayyib] dia berkata; Ada [seorang dari sahabat Anshar] sedang menghadapi sakaratul maut dan dia berkata; Sesungguhnya saya akan menceritakan kepada kalian (suatu hadits) yang saya tidak mengharapkan apa-apa kecuali pahala. Saya mendengar Rasulullah Shallallahu alaihi wasallam bersabda: "Apabila salah seorang di antara kalian berwudlu dan dia membaguskan wudlunya, kemudian keluar untuk melaksanakan shalat, maka tidaklah dia mengangkat kaki kanannya kecuali Allah Azza wa Jalla menulis baginya suatu kebajikan, dan tidaklah dia mengangkat kaki kirinya kecuali Allah Azza wa Jalla menghapus satu kesalahannya darinya. Maka silahkanlah kalian mendekatkan langkah atau menjauhkannya. Dan apabila dia datang ke masjid lalu shalat dengan berjama'ah, maka dosanya akan diampuni, jika dia sampai di masjid sementara jama'ah bersama imam telah mengerjakan sebagian shalat dan tinggal sebagian, maka hendaklah dia melaksanakan yang tersisa dan menyempurnakan yang lainnya, maka dia pun akan diampuni, dan begitu juga jika dia sampai di masjid dan dia mendapatkan shalat telah dilaksanakan semuanya, maka baginya juga akan diampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>563</td></tr><tr><td>Arabic No</td><td>563</td></tr><tr><td>Reference</td><td>Book 2 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Мусаййиб сказал: Однажды, когда один мужчина из числа ансаров был при смерти, он сказал: «Поистине, я расскажу вам хадис, и не расскажу его вам кроме, как надеясь на награду (от Аллаха). Я слышал, как Посланник Аллаха ﷺ говорил: “Если один из вас совершит омовение и сделает это должным образом, а затем отправится на молитву, то не поднимет он правую ногу без того, чтобы Великий и Всемогущий Аллах не записал для него за это одно доброе дело, и не ступит он левой ногой без того, чтобы Великий и Всемогущий Аллах не стёр одно из его прегрешений. Пусть каждый из вас приблизится (к мечети) или отдалится (от неё)! И если он придёт в мечеть и совершит коллективную молитву, ему простятся его грехи. А если он придёт в мечеть и там уже совершили часть молитвы, а часть осталась и он восполнит то, что пропустил, то будут (ему) также (прощены его грехи). А если он придёт в мечеть и там уже совершили молитву и он (в одиночку) совершит молитву, то будут (ему) также (прощены его грехи)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>563</td></tr><tr><td>Arabic No</td><td>563</td></tr><tr><td>Reference</td><td>Book 2 Hadith 173</td></tr></tbody></table></div>
 

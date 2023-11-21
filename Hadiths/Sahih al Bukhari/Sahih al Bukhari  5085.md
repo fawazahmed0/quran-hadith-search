@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) stayed for three days between Khaibar and Medina
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Humaid] dari [Anas] radliallahu 'anhu, ia berkata; Nabi shallallahu 'alaihi wasallam bermukim tiga hari di daerah antara Khaibar dan Madinah, beliau menikahi Shafiyyah binti Huyay. Maka aku pun mengundang kaum muslimin untuk menghadiri walimahnya. Dan di dalam walimahan itu tidak ada roti dan tidak pula daging. Beliau menyuruh agar dibuatkan hamparan kulit lalu di dalamnya diberi kurma, keju dan samin. Seperti itulah acara walimah beliau. Maka kaum muslimin pun berkata, "Ia adalah salah seorang dari Ummahatil Muslimin ataukah sekedar hamba sahayanya." Mereka katakan, "Jika beliau menghijabinya, maka ia adalah termasuk Ummahat Muslimin, namun jika tidak, maka ia adalah hamba sahayanya." Maka ketika berangkat, beliau meletakkannya agak rendah di belakang, lalu beliau membentangkan hijab yang menutupi antara ia dan orang banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5085</td></tr><tr><td>Arabic No</td><td>5085</td></tr><tr><td>Reference</td><td>Book 67 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ остановился между Хайбаром и Мединой на три дня, чтобы жениться на Сафие бинт Хуей, и я приглашал мусульман на его свадебное торжество /уалима/, во время которого не было (подано) ни хлеба, ни мяса. (Пророк ﷺ) велел расстелить кожаные подстилки, на которые положили финики, сухой творог и масло, и таким было свадебное угощение. Мусульмане спрашивали (друг друга: “Станет ли она) одной из матерей правоверных или останется его невольницей?” И они говорили: “Если он (велит ей носить) покрывало, значит, она станет одной из матерей правоверных, а если нет, то останется невольницей”. И перед тем как двинуться в путь, (Пророк ﷺ) приготовил для неё место (на своей верблюдице) позади себя и закрыл (её от людей)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5085</td></tr><tr><td>Arabic No</td><td>5085</td></tr><tr><td>Reference</td><td>Book 67 Hadith 23</td></tr></tbody></table></div>
 

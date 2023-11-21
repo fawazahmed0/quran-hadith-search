@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm 'Atiyyah said:When the Messenger of Allah (ﷺ) came to Medina, he gathered 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid yaitu Ath Thayalisi] dan [Muslim] keduanya berkata; telah menceritakan kepada kami [Ishaq bin 'Utsman] telah menceritakan kepadaku [Isma'il bin Abdurrahman bin 'Athiyah] dari [neneknya yaitu Ummu 'Athiyah] bahwa ketika Rasulullah shallallahu 'alaihi wasallam tiba di Madinah, beliau mengumpulkan para wanita Anshar di suatu rumah, beliau mengutus Umar bin Khattab untuk menemui kami, lalu Umar berdiri di depan pintu, dia memberi salam kepada kami dan kami pun menjawab salamnya, lalu dia berkata; "Aku adalah utusan Rasulullah shallallahu 'alaihi wasallam kepada kalian, beliau memerintahkan kami untuk menyuruh keluar wanita haidh dan para hamba sahaya pada dua hari raya, tidak mewajibkan shalat jum'at atas kami dan beliau melarang kami ikut mengantar jenazah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1139</td></tr><tr><td>Arabic No</td><td>1139</td></tr><tr><td>Reference</td><td>Book 2 Hadith 750</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Умм ‘Атыйи, да будет доволен ею Аллах: «Прибыв в Медину, Посланник Аллаха ﷺ собрал всех женщин ансаров в одном доме и послал к нам ‘Умара ибн аль-Хаттаба, да будет доволен им Алллах. Он пришёл, остановился в дверях, поприветствовал нас, и мы ответили на его приветствие. Затем он сказал: “Я посланец Посланника Аллаха ﷺ к вам”. Он велел нам совершать праздничную молитву в дни двух праздников и выходить в эти дни даже тем, у кого менструация, и девушкам, сообщил нам, что мы не обязаны совершать пятничную молитву, и запретил нам провожать погребальные носилки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1139</td></tr><tr><td>Arabic No</td><td>1139</td></tr><tr><td>Reference</td><td>Book 2 Hadith 750</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qabisah ibn Halb: A man asked the Messenger of Allah (ﷺ): Is there an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Simak bin Harb] telah menceritakan kepadaku [Qabishah bin Hulb] dari [Ayahnya] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam ditanya seorang laki-laki, "Di antara makanan ada makanan yang aku merasa ragu untuk memakannya." Beliau bersabda: "Janganlah ada keraguan ada dalam hatimu (akan kehalalannya) sehingga engkau menyerupai orang-orang Nashrani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>3784</td></tr><tr><td>Reference</td><td>Book 28 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Кабиса ибн Хульб передаёт от своего отца: «Я слышал, как один человек сказал Посланнику Аллаха ﷺ: “Поистине, среди еды есть такая, чистота которой вызывает у меня сомнения”. Он сказал: “Не поддавайся сомнениям, потому что иначе ты уподобишься христианским монахам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>3784</td></tr><tr><td>Reference</td><td>Book 28 Hadith 49</td></tr></tbody></table></div>
 

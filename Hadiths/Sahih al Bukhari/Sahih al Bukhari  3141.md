@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin 'Auf:While I was standing in the row on the day (of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yusuf bin Al Majisyun] dari [Shalih bin Ibrahim bin 'Abdur Rahman bin 'Auf] dari [bapaknya] dari [kakeknya] berkata; "Ketika aku berada di barisan pasukan pada perang Badar, aku melihat ke kanan dan kiriku ternyata nampak ada dua orang anak dari Kaum Anshar yang masih sangat muda dan aku berharap berada di antara tulang rusuk keduanya. Salah seorang darinya mengerdipkan matanya kepadaku seraya berkata; "Wahai paman, apakah paman mengenal Abu Jahal?". Aku jawab; "Ya. Tapi apa kepentinganmu dengannya wahai anak saudaraku?". Dia berkata; "Aku mendapat kabar bahwa dia menghina Rasulullah Shallallahu'alaihiwasallam. Dan demi Dzat yang jiwaku berada di tangan-Nya, seandainya aku melihatnya pasti tidak akan berpisah jasadku dengan jasadnya sampai siapa diantara kami yang menemui ajalnya lebih dahulu ". Aku menjadi kagum dengan keberaniannya. Lalu anak yang satunya lagi mengerdipkan matanya kepadaku lalu berkata kepadaku seperti yang dikatakan saudaranya tadi. Tidak lama kemudian aku melihat Abu Jahal bolak-balik di tengah-tengan pasukan, lalu kukatakan kepada kedua anak tadi; "Itu dia orang yang tadi kalian tanyakan kepadaku?". Maka keduanya bersigap menyerbu dengan menghunus pedang masing-masing lalu keduanya menebas Abu Jahal hingga tewas. Kemudian keduanya mendatangi Rasulullah Shallallahu'alaihiwasallam dan mengabarkannya, maka Beliau bertanya; "Siapa diantara kalian berdua yang membunuhnya?". Maka masing-masing dari keduanya menjawab; "Akulah yang membunuhnya". Beliau bertanya lagi; "Apakah kalian sudah membersihkan pedang kalian?". Keduanya menjawab; "Belum". Maka Beliau melihat pedang keduanya lalu berkata: "Kalau begitu, kalian berdua yang telah membunuhnya dan salabnya (harta benda yang melekat pada tubuh musuh saat dibunuh) untuk Mu'adz bin 'Amru bin Al Jamuh". Kedua anak itu namanya Mu'adz bin 'Afra' dan Mu'adz bin 'Amru bin Al Jamuh". Muhammad berkata, Yusuf mendengar Shalih dan Ibrahim, bapaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3141</td></tr><tr><td>Arabic No</td><td>3141</td></tr><tr><td>Reference</td><td>Book 57 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн ‘Ауф, да будет доволен им Аллах, сказал: «Находясь в ряду (бойцов) в день (битвы при) Бадре, я посмотрел направо и налево от себя, и оказалось, что с каждой стороны стоит совсем молодой ансар, так что я даже захотел, чтобы рядом со мной был кто-нибудь посильнее. Один из них сделал мне знак глазами и спросил: “О дядя, знаешь ли ты Абу Джахля?” Я ответил: “Да, а зачем он тебе, о племянник?” Он сказал: “Мне сказали, что он оскорбляет Посланника Аллаха ﷺ, и клянусь Тем, в Чьей длани душа моя, поистине, если я его увижу, то уже не расстанусь с ним, пока тот из нас, кому суждено умереть первым, не умрёт!” И я подивился этому, а потом мне подал знак другой (юноша), который сказал нечто подобное. После этого прошло совсем немного времени, и, увидев ходившего среди людей Абу Джахля, я сказал (им): “Вот тот, о ком вы меня спрашивали”. Тогда они бросились на (Абу Джахля) и зарубили его своими мечами, а потом явились к Посланнику Аллаха ﷺ и сообщили ему (об этом). Он спросил: “Кто из вас убил его?” — и каждый из них сказал: “Его убил я!” (Пророк ﷺ) спросил: “А вытерли ли вы свои мечи?” Они сказали: “Нет”. Тогда он посмотрел на их мечи и сказал: “Вы оба убили (Абу Джахля), но его имущество достанется Му‘азу ибн ‘Амру аль-Джамуху”. (Что же касается имён этих юношей, то их звали) Му‘аз ибн ‘Афра и Му‘аз ибн ‘Амр аль-Джамух»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3141</td></tr><tr><td>Arabic No</td><td>3141</td></tr><tr><td>Reference</td><td>Book 57 Hadith 49</td></tr></tbody></table></div>
 

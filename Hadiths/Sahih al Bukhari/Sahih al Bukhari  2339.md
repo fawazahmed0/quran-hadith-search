@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' bin Khadij:My uncle Zuhair said, "Allah's Messenger (ﷺ) forbade
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Al Awza'iy] dari [Abu An-Nahasyiy], maula Rafi' bin Khudaij aku mendengar [Rafi' bin Khudaij bin Rafi'] dari pamannya,, [Zhuhjair bin Rafi'] berkata, Zhuhair: "Rasulullah shallallahu 'alaihi wasallam telah melarang kami dari suatu urusan yang kami dapat mengambil manfaat darinya". Aku bertanya: "Apa yang dikatakan oleh Rasulullah shallallahu 'alaihi wasallam yang sudah pasti suatu kebenaran?" Dia berkata: "Rasulullah shallallahu 'alaihi wasallam memanggil aku seraya bertanya: "Apa yang kalian kerjakan dengan tanah ladang kalian?" Aku jawab: "Kami memberi upah untuk pekerja dengan pembayaran seperempat bagian' atau sewasaq dari kurma atau gandum". Beliau bersabda: "Janganlah kalian kerjakan tapi tanamilah oleh kalian sendiri atau pekerjakan orang tanpa bayaran atau kalian biarkan tanah kalian". Rafi' berkata; Aku katakan: "Kami mendengar dan kami taati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2339</td></tr><tr><td>Arabic No</td><td>2339</td></tr><tr><td>Reference</td><td>Book 41 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Рафи‘а бин Хадиджа бин Рафи‘а, да будет доволен им Аллах, что (однажды) его дядя Зухайр бин Рафи‘, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запретил нам делать то, что приносило нам выгоду».\n(Рафи‘ бин Хадидж, да будет доволен им Аллах, сказал):\n— (На это) я сказал: «Всё, что говорил Посланник Аллаха ﷺ было правильно». (Тогда Зухайр бин бин Рафи‘, да будет доволен им Аллах, сказал: «Однажды) Посланник Аллаха ﷺ позвал меня к себе и спросил: “Что вы делаете со своими полями?” Я ответил: “Мы отдаём их в аренду за (урожай с того, что растёт возле) потоков, или за (определённое количество) васков фиников и ячменя”. (Выслушав меня Пророк ﷺ) сказал: “Не делайте этого, а обрабатывайте (землю) сами, или давайте обрабатывать её (другим бесплатно), или оставляйте её (необработанной)”».\nРафи‘ сказал: «И я сказал: “Слушаю и повинуюсь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2339</td></tr><tr><td>Arabic No</td><td>2339</td></tr><tr><td>Reference</td><td>Book 41 Hadith 20</td></tr></tbody></table></div>
 

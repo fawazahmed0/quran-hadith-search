@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If one give in charity what 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Munir] dia mendengar dari [Abu An-Nadhir]. Telah menceritakan kepada kami ['Abdurrahman] dia adalah putra dari 'Abdullah bin Dinar dari [bapaknya] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] berkata,: Rasulullah Shallallahu'alaihiwasallam telah bersabda: "Barangsiapa yang bershadaqah dengan sebutir kurma hasil dari usahanya sendiri yang baik (halal), sedangkan Allah tidak menerima kecuali yang baik saja, maka sungguh Allah akan menerimanya dengan tangan kananNya lalu mengasuhnya untuk pemiliknya sebagaimana jika seorang dari kalian mengasuh anak kudanya hingga membesar seperti gunung". Hadits ini juga dikuatkan oleh [Sulaiman] dari [Ibnu Dinar] dan berkata, [Warqa'] dari [Ibnu Dinar] dari [Sa'id bin Yasar] dari [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam. Dan diriwayatkanoleh [Muslim bin Abu Maryam] dan [Zaid bin Aslam] dan [Suhail] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1410</td></tr><tr><td>Arabic No</td><td>1410</td></tr><tr><td>Reference</td><td>Book 24 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «У того, кто подаст милостыню, равную (цене) половины финика из (своего) благоприобретённого достояния — а Аллах не принимает ничего, кроме благого! — Аллах примет её Своей правой рукой и станет выращивать (эту милостыню) для подавшего её подобно тому, как любой из вас выращивает своего жеребёнка, пока не достигнет она размеров горы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1410</td></tr><tr><td>Arabic No</td><td>1410</td></tr><tr><td>Reference</td><td>Book 24 Hadith 14</td></tr></tbody></table></div>
 

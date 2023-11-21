@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:It is better that one of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Jarir] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian duduk di atas bara api, lalu terbakar baju dan kulitnya adalah lebih baik baginya daripada ia harus duduk di atas kuburan." Dan telah menceritakannya kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz Ad Darawardi] -dalam jalur lain- Dan telah menceritakannya kepadaku [Amru An Naqid] Telah menceritakan kepada kami [Abu Ahmad Az Zubaidi] Telah menceritakan kepada kami [Sufyan] keduanya dari [Suhail] dengan isnad ini, hadits yang semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>971.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Поистине, любому из вас лучше сесть на горящие угли, которые прожгут его одежду и доберутся до кожи, чем сесть на могилу!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>971.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 124</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Masruq reported:I heard 'A'isha (Allah be pleased with her) clapping her hands b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Sa'id bin Manshur] Telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Isma'il bin Abu Khalid] dari [Asy Sya'bi] dari [Masruq] ia berkata; Dari balik tabir, aku mendengar [Aisyah] menetuk tangannya lalu berkata; "Aku pernah mengalungkan tanda hewan kurban Rasulullah shallallahu 'alaihi wasallam, lalu beliau mengirimnya (ke tanah haram). Sesudah itu, beliau tidak lagi menahan diri dari sesuatu, sebagaimana seorang muhrim (sedang ihram) menjauhkan diri daripadanya. Demikianlah hingga beliau menyembelih hewan kurbannya." Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Abdul Wahhab] Telah menceritakan kepada kami [Dawud] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Numair] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Zakariya'] keduanya dari [Asy Sya'bi] dari [Masruq] dari [Aisyah] semisalnya, dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3206</td></tr><tr><td>Arabic No</td><td>1321.13</td></tr><tr><td>Reference</td><td>Book 15 Hadith 410</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3206</td></tr><tr><td>Arabic No</td><td>1321.13</td></tr><tr><td>Reference</td><td>Book 15 Hadith 410</td></tr></tbody></table></div>
 

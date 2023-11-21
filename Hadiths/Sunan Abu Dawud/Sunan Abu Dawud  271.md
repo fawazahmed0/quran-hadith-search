@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: When I menstruated, I left the bed and lay on th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abdul Jabbar] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Abu Al-Aiman] dari [Ummu Dzarrah] dari [Aisyah] bahwasanya dia berkata; Apabila aku haidl maka aku turun dari kasur dan tidur di atas tikar, dan kami tidak mendekati Rasulullah Shallallahu alaihi wasallam hingga kami suci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 1 Hadith 271</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда у меня начинались менструации, я оставляла ложе и ложилась на циновку. И мы не приближались или не подходили к Посланнику Аллаха ﷺ пока мы не очистимся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 1 Hadith 271</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Buraidah on the authority of his father reported:The Messenger of Allah (ﷺ) pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah mengabarkan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepada saya [Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [Ayahnya] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengerjakan lima kali shalat pada peristiwa Fathu Makkah dengan sekali wudhu, dan beliau mengusap bagian atas kedua khufnya. Kemudian Umar berkata kepada beliau, Sesungguhnya saya melihat engkau pada hari ini melakukan sesuatu yang belum pernah engkau lakukan sebelumnya. Beliau shallallahu 'alaihi wasallam menjawab, "Sengaja aku melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (277)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>172</td></tr><tr><td>Arabic No</td><td>172</td></tr><tr><td>Reference</td><td>Book 1 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сулеймана ибн Бурайды о том, что его отец сказал: «В день покорения Мекки, Посланник Аллаха ﷺ совершил пять молитв с одним омовением и обтер свои кожаные носки. ‘Умар сказал ему: “Поистине, сегодня я увидел, что ты сделал нечто, чего не делал раньше!”. Он ответил: “Я сделал это намеренно”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (277)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>172</td></tr><tr><td>Arabic No</td><td>172</td></tr><tr><td>Reference</td><td>Book 1 Hadith 172</td></tr></tbody></table></div>
 

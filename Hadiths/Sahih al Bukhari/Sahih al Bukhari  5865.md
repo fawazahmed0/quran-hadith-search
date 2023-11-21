@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) wore a gold or silver .. ring and pla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] dia berkata; telah menceritakan kepadaku [Nafi'] dari [Abdullah] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam pernah membuat cincin dari emas dan menghadapkan mata cincinnya ke arah telapak tangan, orang-orang lalu ikut memakai cincin hingga Nabi shallallahu 'alaihi wasallam membuang cincin tersebut dan membuat dari perak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5865</td></tr><tr><td>Arabic No</td><td>5865</td></tr><tr><td>Reference</td><td>Book 77 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллы, да будет доволен им Аллах, что Посланник Аллаха ﷺ подобрал для себя перстень из золота, и он носил его широкой (верхней) частью к ладони, и люди подобрали (для себя) такие же (перстни). Затем он выбросил его, после чего взял себе перстень из серебра
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5865</td></tr><tr><td>Arabic No</td><td>5865</td></tr><tr><td>Reference</td><td>Book 77 Hadith 82</td></tr></tbody></table></div>
 

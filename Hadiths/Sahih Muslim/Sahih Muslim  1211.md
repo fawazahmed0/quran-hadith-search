@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Darda' reported:Allah's Messenger (ﷺ) stood up (to pray) and we heard him 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salamah al-Muradi] telah menceritakan kepada kami [Abdullah bin Wahb] dari [Muawiyah bin Shalih] dia berkata, telah menceritakan kepadaku [Rabi'ah bin Yazid] dari [Abu Idris al-Khaulani] dari [Abu ad-Darda'] dia berkata, "Rasulullah Shallallahu'alaihiwasallam berdiri, lalu kami mendengarnya berkata, 'Aku berlindung kepada Allah dari kejahatanmu', lalu beliau juga mengucap ucapan ini sebanyak tiga kali, 'Aku melaknatmu dengan laknat Allah', dan beliau membentangkan tangannya seakan sedang menerima sesuatu. Manakala beliau telah selesai melaksanakan shalat, kami pun bertanya, 'Wahai Rasulullah, kami telah mendengarmu mengucapkan sesuatu di dalam shalat yang sebelumnya kami belum pernah mendengarmu mengucapkannya, dan kami juga melihatmu membentangkan tanganmu padanya.' Beliau menjawab, 'Sesungguhnya musuh Allah, iblis datang dengan membawa api untuk diletakkan di wajahku maka aku pun berdoa, A'uudzu billaahi minka ('Aku berlindung kepada Allah dari kejahatanmu'), sebanyak tiga kali. Kemudian aku berkata, Al'anauka bila'natillaahit taammati ('Aku melaknatmu dengan laknat Allah'), sebanyak tiga kali, namun dia tidak juga mundur. Lalu aku ingin membinasakannya. Dan demi Allah, kalaulah bukan karena doa saudara kita, Nabi Sulaiman, niscaya setan itu sudah terikat di amsjid dan dipermainkan oleh anak-anak penduduk Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1211</td></tr><tr><td>Arabic No</td><td>542</td></tr><tr><td>Reference</td><td>Book 5 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ад-Дарда сказал: «(Однажды) Посланник Аллаха ﷺ встал на молитву, и мы услышали, как он говорит: “Прибегаю к защите Аллаха от тебя!” /А‘узу би-Лляхи мин-кя/. Потом он трижды воскликнул: “Проклинаю тебя проклятием Аллаха!” /Аль‘ану-кя би-ля‘нати-Ллях/ после чего протянул руку, будто (хотел) взять что-то, а когда он закончил молиться, мы сказали ему: “О Посланник Аллаха, мы услышали, как во время молитвы ты говоришь то, чего прежде мы не слыхали, и увидели, как ты протянул руку”. (В ответ на это Пророк ﷺ) сказал: “Поистине, враг Аллаха Иблис явился (ко мне) с огнём, чтобы метнуть мне его в лицо, и я трижды сказал: “Прибегаю к защите Аллаха от тебя!” Потом я сказал: “Проклинаю тебя полным проклятием Аллаха!” /Аль‘ану-кя би-ля‘нати-Лляхи-т-таммати/ однако он не отступил, (хотя я проклял его) трижды, а потом я хотел схватить его, и, клянусь Аллахом, если бы не мольба нашего брата Сулеймана, он был бы связан и стал бы игрушкой для детей жителей Медины!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1211</td></tr><tr><td>Arabic No</td><td>542</td></tr><tr><td>Reference</td><td>Book 5 Hadith 51</td></tr></tbody></table></div>
 

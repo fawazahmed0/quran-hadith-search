@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Akwa':Once the Prophet (ﷺ) ordered a person on 'Ashura'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Yazid bin Abu 'Ubaid] dari [Salamah bin Al Akwa' radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam mengutus seseorang untuk menyeru manusia pada (waktu sahur) hari 'Asyura', bila ada seseorang yang sudah makan maka hendaklah ia meneruskan makannya atau hendaklah shaum dan barangsiapa yang belum makan maka hendaklah ia tidak makan (maksudnya teruskan berpuasa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1924</td></tr><tr><td>Arabic No</td><td>1924</td></tr><tr><td>Reference</td><td>Book 30 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Саламы бин аль-Аква‘, да будет доволен им Аллах, что (в своё время) Пророк ﷺ послал одного человека возвестить среди людей в день ашуры: «Пусть поевший больше не ест (или: постится), а кто не ел, пусть и не ест (до конца этого дня)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1924</td></tr><tr><td>Arabic No</td><td>1924</td></tr><tr><td>Reference</td><td>Book 30 Hadith 33</td></tr></tbody></table></div>
 

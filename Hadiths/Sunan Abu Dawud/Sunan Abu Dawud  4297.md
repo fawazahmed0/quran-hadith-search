@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thawban: The Prophet (ﷺ) said: The people will soon summon one anothe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdurrahman bin Ibrahim bin Ad Dimasyqi] berkata, telah menceritakan kepada kami [Bisyr bin Bakr] berkata, telah menceritakan kepada kami [Ibnu Jabir] berkata, telah menceritakan kepadaku [Abu Abdus Salam] dari [Tsauban] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Hampir-hampir bangsa-bangsa memperebutkan kalian (umat Islam), layaknya memperebutkan makanan yang berada di mangkuk." Seorang laki-laki berkata, "Apakah kami waktu itu berjumlah sedikit?" beliau menjawab: "Bahkan jumlah kalian pada waktu itu sangat banyak, namun kalian seperti buih di genangan air. Sungguh Allah akan mencabut rasa takut kepada kalian, dan akan menanamkan ke dalam hati kalian Al wahn." Seseorang lalu berkata, "Wahai Rasulullah, apa itu Al wahn?" beliau menjawab: "Cinta dunia dan takut mati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4297</td></tr><tr><td>Arabic No</td><td>4297</td></tr><tr><td>Reference</td><td>Book 39 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Саубана, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Приближается такое время, когда другие общины будут звать друг друга (выступить) против вас (и заполучить принадлежащее вам) подобно тому, как приглашают друг друга поесть люди, которые собрались вокруг блюда (с едой и которым ничто не мешает эту еду брать)». Кто-то спросил: «Это потому, что в те времена нас будет мало?» Он ответил: «Нет, напротив, вас будет много, однако вы будете подобны сору, который несёт поток. Аллах заберёт из груди ваших врагов страх перед вами, а в ваши сердца поместит слабость». Кто-то спросил: «О Посланник Аллаха, что же это будет за слабость?» Он ответил: «Любовь к миру этому и отвращение к смерти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4297</td></tr><tr><td>Arabic No</td><td>4297</td></tr><tr><td>Reference</td><td>Book 39 Hadith 7</td></tr></tbody></table></div>
 

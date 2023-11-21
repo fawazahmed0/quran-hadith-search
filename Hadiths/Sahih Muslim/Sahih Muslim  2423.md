@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Said al-Khudri reported:The Messenger of Allah (ﷺ) was sitting on the pulp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ali bin Hujr] telah mengabarkan kepada kami [Isma'il bin Ibrahim] dari [Hisyam, saudaranya Dastawa'i] dari [Yahya bin Abu Katsir] dari [Hilal bin Abu Maimunah] dari [Atha' bin Yasar] dari [Abu Sa'id Al Khudri] ia berkata; Suatu ketika Rasulullah shallallahu 'alaihi wasallam duduk di atas mimbar, sedangkan kami duduk di sekeliling beliau. Kemudian beliau bersabda: "Yang aku khawatirkan terhadap kamu semua sepeninggalku kelak, ialah karunia Allah terhadap kalian berupa harta benda perhiasan dunia." Lalu seorang laki-laki bertanya, "Mungkinkah sesuatu yang baik mendatangkan keburukan, wahai Rasulullah?" Mendengar pertanyaan itu Rasulullah shallallahu 'alaihi wasallam terdiam. Kemudian dikatakanlah kepada sahabat yang bertanya tadi, "Bagaimana pendapatmu, kamu bertanya kepada Rasulullah shallallahu 'alaihi wasallam, namun beliau tidak menjawab pertanyaanmu?" Laki-laki itu menjawab, "Aku mengira, mungkin wahyu sedang diturunkan kepada beliau." Setelah sadar kembali, beliau menghapus keringat beliau, lalu bersabda: "Sesungguhnya penanya ini (adalah penanya yang cerdas) " -beliau mengucapkannya dengan sikap seperti memuji-. Kemudian beliau bersabda: "Sesungguhnya kebaikan itu tidak akan mendatangkan keburukan. Tetapi apa yang ditumbuhkan di musim hujan, kadang-kadang dapat membunuh atau menyakitkan. Kecuali bagi pemakan sayur-sayuran yang memakan hanya sampai kenyang, kemudian dia menghadap ke matahari, lalu buang air besar atau kecil, sesudah itu barulah ia makan kembali. Sesungguhnya harta benda dunia itu kelihatannya hijau dan manis. Tetapi sebaik-baik harta seorang muslim, ialah yang disedekahkannya kepada orang miskin atau kepada anak yatim atau ibnu sabil (seorang yang sedang melakukan perjalanan)." Atau seperti yang disabdakan oleh Rasulullah shallallahu 'alaihi wasallam, "Siapa yang memperoleh harta dengan tidak halal, maka ia seperti seorang yang makan namun tidak pernah merasa kenyang (puas). Sedangkan harta itu akan menjadi saksi bagi keserakahannya kelak di hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>1052.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Са‘ид аль-Худри рассказывал: «Однажды, после того как Посланник Аллаха ﷺ сел на минбаре, а мы уселись вокруг него, он сказал: “Поистине, чего я боюсь для вас после моей смерти, так это красоты и украшений мира дольнего, которые будут вам дарованы!” Один человек спросил: “О Посланник Аллаха, а разве благо приносит с собой и зло?” (однако) Посланник Аллаха ﷺ хранил молчание, и этого человека стали спрашивать: “Что случилось (и почему) ты обращаешься к Посланнику Аллаха ﷺ, а он не разговаривает с тобой?” но потом мы заметили, что ему ниспосылается откровение. А (через некоторое время) Пророк ﷺ очнулся, отёр (с лица) обильный пот и спросил: “Где тот, кто задал вопрос?” и нам показалось, что он (говорит эти слова с одобрением). Потом он сказал: “Поистине, благо не приносит с собой зла. И поистине, из того, что (земля) порождает весной, есть то, что убивает (или: почти губит) (животных, которые набили свои утробы, вызывая у них несварение желудка), кроме тех, что поедают зелень. (Такие животные) едят, пока бока их не раздуются, (после чего) поворачиваются к солнцу и испражняются и мочатся, и снова начинают есть. Поистине, это богатство привлекательно и приятно на вкус, и прекрасно поступит обладающий богатством мусульманин, если станет тратить часть его на неимущих, сирот и путников. (Или же Посланник Аллаха ﷺ сказал нечто подобное.) Что же касается приобретающего богатство незаконно, то он подобен тому, кто ест, но не может насытиться, и (такое богатство) будет свидетельствовать против него в День воскрешения!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>1052.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 160</td></tr></tbody></table></div>
 

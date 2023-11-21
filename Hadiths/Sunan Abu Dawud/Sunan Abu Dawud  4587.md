@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdulAziz ibn Umar ibn AbdulAziz: Some people of the deputation which c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] berkata, telah menceritakan kepada kami [Hafsh] berkata, telah menceritakan kepada kami [Abdul Aziz bin Umar bin Abdul Aziz] berkata, telah menceritakan kepadaku [beberapa utusan] yang datang kepada bapakku, ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Dokter mana saja yang mengobati suatu kaum, padahal sebelum itu ia tidak dikenal sebagai dokter, kemudian memberi kecelakaan maka ia bertanggung jawab." Abdul Aziz berkata, "Ketahuilah bukanlah maksud mengobati di sini secara umum, tetapi khusus dalam memotong urat, membelah perut atau mengobati dengan menempelkan besi yang dibakar pada luka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4587</td></tr><tr><td>Arabic No</td><td>4587</td></tr><tr><td>Reference</td><td>Book 41 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Один из тех, кто прибывал к Посланнику Аллаха ﷺ в составе делегаций, передаёт, что Посланник Аллаха ﷺ сказал: «Если человек взялся врачевать для каких-то людей, а раньше за ним не замечали ничего подобного, и допустил ошибку, он обязан возместить нанесённый ущерб». ‘Абдульазиз сказал: «Речь идёт не о лекаре вообще, а о том, кто режет сосуды, (делая кровопускание), и делает прижигания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4587</td></tr><tr><td>Arabic No</td><td>4587</td></tr><tr><td>Reference</td><td>Book 41 Hadith 94</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The aforesaid tradition has also been transmitted through a different chain of n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil], telah menceritakan kepada kami [Yazid bin Zurai'], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepadaku [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] secara makna. Telah menceritakan kepadaku [Muhammad bin 'Amr], telah menceritakan kepada kami [Abu Salamah] dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang wanita yatim dimintai pertimbangan terhadap dirinya, apabila ia diam maka hal itu adalah izinnya, dan apabila ia menolak maka tidak boleh memaksakannya." Hadits Yazid dengan menggunakan bentuk pengabaran. Abu Daud berkata; begitu juga hadits tersebut diriwayatkan oleh [Abu Khalid Sulaiman bin Hayyan], serta [Mu'adz bin Mu'adz] dari [Muhammad bin 'Amr] telah menceritakan kepada kami [Muhammad bin Al 'Ala'], telah menceritakan kepada kami [Ibnu Idris], dari [Muhammad bin 'Amr] dengan hadits ini dengan sanadnya, dalam hadits tersebut ia menambahkan; beliau berkata: "Apabila ia menangis atau diam, " ia menambahkan kata "menangis." Abu Daud berkata; kata "menangis" bukanlah sesuatu yang terhafalkan (terjaga), hal itu adalah sebuah kesalahan. Dalam hadits tersebut terdapat kesalahan dari Ibnu Idris, atau dari Muhammad bin Al 'Ala'. Abu Daud berkata; dan hadits tersebut diriwayatkan oleh [Abu 'Amr Dzakwan] dari [Aisyah], ia berkata; wahai Rasulullah, sesungguhnya seorang gadis akan merasa malu untuk berbicara. Beliau berkata; diamnya adalah persetujuannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2094</td></tr><tr><td>Arabic No</td><td>2094</td></tr><tr><td>Reference</td><td>Book 12 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В версии Мухаммада ибн ‘Амра имеется добавление: «И если она заплачет или промолчит…»Абу Дауд сказал, что слово «заплачет» ошибка, допущенная либо Ибн Идрисом, либо Мухаммадом ибн аль-Аля, и в действительности его нет в хадисе. Этот хадис передаёт Абу ‘Амр Закван от ‘Аиши, да будет доволен ею Аллах, которая сказала: «О Посланник Аллаха, но ведь девственница стесняется говорить!» (Посланник Аллаха ﷺ) сказал: «Её молчание и есть её согласие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2094</td></tr><tr><td>Arabic No</td><td>2094</td></tr><tr><td>Reference</td><td>Book 12 Hadith 49</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:regarding Allah's Statement: "Verily! We have granted yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4172</td></tr><tr><td>Arabic No</td><td>4172</td></tr><tr><td>Reference</td><td>Book 64 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал относительно аята «Воистину, Мы даровали тебе явную победу» (сура «аль-Фатх», аят 1): «Речь идёт о Худейбийском перемирии. Сподвижники сказали (Пророку ﷺ): “Поздравляем тебя, но какую награду получим мы?” Тогда Аллах ниспослал: “И чтобы ввести верующих мужчин и верующих женщин в райские сады, в которых текут реки” (сура “аль-Фатх”, аят 5)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4172</td></tr><tr><td>Arabic No</td><td>4172</td></tr><tr><td>Reference</td><td>Book 64 Hadith 214</td></tr></tbody></table></div>
 

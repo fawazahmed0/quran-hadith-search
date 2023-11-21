@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah (b. Mas'ud) (Allah be pleased with him) said that Allah's Messenger (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan ini adalah lafadz Utsman. Ishaq berkata; telah mengabarkan kepada kami, dan Utsman berkata; telah menceritakan kepada kami [Jarir] dari [Mughirah] dia berkata, "Syibak bertanya kepada [Ibrahim], lalu ia menceritakan kepada kami dari ['Alqamah] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melaknat orang yang memakan hasil riba dan yang menyuruh memakannya." 'Alqamah berkata, "Saya bertanya, "(Bagaimana dengan) sekretaris pembuat akte riba dan saksi-saksinya?" dia menjawab, "Kami hanya menceritakan dari sesuatu yang kami dengar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4092</td></tr><tr><td>Arabic No</td><td>1597</td></tr><tr><td>Reference</td><td>Book 22 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4092</td></tr><tr><td>Arabic No</td><td>1597</td></tr><tr><td>Reference</td><td>Book 22 Hadith 131</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The day of Bu'ath (i.e. Day of fighting between the two tribes o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Ubaid bin ISma'il] telah bercerita kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata; "Hari Bu'ats adalah hari yang dipersembahkan Allah kepada Rasul-Nya shallallahu 'alaihi wasallam. Ketika Rasulullah shallallahu 'alaihi wasallam tiba di Madinah, para pemimpin mereka dalam kondisi terpecah belah sedangkan para tokoh mereka dibunuh dan dilukai. Kemudian Allah mempersembahkan kepada Rasul-Nya shallallahu 'alaihi wasallam berupa masuknya mereka ke dalam Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3777</td></tr><tr><td>Arabic No</td><td>3777</td></tr><tr><td>Reference</td><td>Book 63 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «День (битвы при) Бу‘асе Аллах (обратил во благо) Своему посланнику ﷺ ибо, когда Посланник Аллаха ﷺ прибыл (в Медину, населяющие её племена) уже не были едины, а их вожди были либо убиты, либо ранены. Таким образом, Аллах (обратил этот день во благо) Своему посланнику ﷺ (в том смысле, что все это способствовало) тому, что они приняли ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3777</td></tr><tr><td>Arabic No</td><td>3777</td></tr><tr><td>Reference</td><td>Book 63 Hadith 2</td></tr></tbody></table></div>
 

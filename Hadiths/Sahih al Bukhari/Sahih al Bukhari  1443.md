@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The example of a miser and an alms
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ibnu Thawus] dari [bapaknya] dari [Abu Hurairah radliallahu 'anhu] berkata; Nabi Shallallahu'alaihiwasallam bersabda: "Perumpamaan orang bakhil dengan orang yang bershadaqah seperti dua orang yang masing-masing mengenakan baju jubah terbuat dari besi". Dan telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] bahwa ['Abdurrahman] menceritakan kepadanya bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] bahwa dia mendengar Rasulullah Shallallahu'alaihiwasallam bersabda: "Perumpamaan bakhil (orang pelit bershadaqah) dengan munfiq (orang yang suka berinfaq) seperti dua orang yang masing-masing mengenakan baju jubah terbuat dari besi yang hanya menutupi buah dada hingga tulang selangka keduanya. Adapun orang yang suka berinfaq, tidaklah dia berinfaq melainkan bajunya akan melonggar atau menjauh dari kulitnya hingga akhirnya menutupi seluruh badannya sampai kepada ujung kakinya. Sedangkan orang yang bakhil, setiap kali dia tidak mau berinfaq dengan suatu apapun maka baju besinya akan menyempit sehingga menempel ketat pada setiap kulitnya dan ketika dia mencoba untuk melonggarkannya maka dia tidak dapat melonggarkannya". Hadits ini dikuatkan pula oleh [Al Hasan bin Muslim] dari [Thawus] (dengan redaksi): "… pada dua baju". Dan berkata, [Hanzhalah] dari [Thawus]: "…… mengenakan jubah". Dan berkata, [Al Laits] telah menceritakan kepada saya [Ja'far] dari [Ibnu Hurmuz]; Aku mendengar [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam: "…… mengenakan jubah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1443</td></tr><tr><td>Arabic No</td><td>1443</td></tr><tr><td>Reference</td><td>Book 24 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что он слышал, как Посланник Аллаха ﷺ сказал: «Скупой и расходующий подобны двум людям в джуббах из железа(, покрывающих их тела) от сосков до ключиц. Каждый раз, как расходующий тратит что-нибудь, (его джубба) обязательно становится более обширной /или: увеличивается/ (и так продолжается) до тех пор, пока она не начинает покрывать кончики его пальцев и стирать его следы. Что же касается скупого, то, когда бы он ни захотел потратить что-нибудь, каждое кольцо (его железной джуббы) обязательно прилипает к своему месту и не расширяется(, несмотря на то, что он старается) расширить его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1443</td></tr><tr><td>Arabic No</td><td>1443</td></tr><tr><td>Reference</td><td>Book 24 Hadith 46</td></tr></tbody></table></div>
 

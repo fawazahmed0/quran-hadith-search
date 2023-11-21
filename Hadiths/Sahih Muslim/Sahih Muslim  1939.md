@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : "Lorsqu'on était à Médine, et dè
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz] dan ia adalah Ibnu Shuhaib dari [Anas bin Malik] ia berkata; "Dulu, ketika kami di Madinah, bila sang muadzin telah mengumandangkan adzan Maghrib, maka para sahabat segera mendekati tiang-tiang masjid lalu mereka melaksanakan shalat dua rakaat-dua rakaat, sampai sekiranya ada orang asing masuk masjid, niscaya akan menyangka bahwa shalat telah ditunaikan karena banyaknya orang yang melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1939</td></tr><tr><td>Arabic No</td><td>837</td></tr><tr><td>Reference</td><td>Book 6 Hadith 367</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Когда во время нашего пребывания в Медине муаззин возглашал призыв к закатной молитве /магъриб/, (люди) спешили к столбам (мечети), опережая друга, и совершали (добровольную молитву в) два рак‘ата, что же касается приезжего, то войдя в мечеть (в это время), он думал, что уже началась (обязательная) молитва, поскольку многие совершали эти два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1939</td></tr><tr><td>Arabic No</td><td>837</td></tr><tr><td>Reference</td><td>Book 6 Hadith 367</td></tr></tbody></table></div>
 

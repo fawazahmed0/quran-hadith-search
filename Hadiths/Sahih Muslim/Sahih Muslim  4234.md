@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported:When Allah's Messenger (ﷺ) was about to leave this world, t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Abd bin Humaid], [Abd] berkata; telah mengabarkan kepada kami, dan [Ibnu Rafi'] berkata; telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah bin 'Utbah] dari [Ibnu Abbas] dia berkata, "Tatkala Rasulullah shallallahu 'alaihi wasallam mendekati ajalnya, sedangkan di rumah beliau telah hadir beberapa orang yang di antaranya adalah Umar bin Khattab. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Kemarilah, saya akan menulis suatu catatan yang kalian tidak akan tersesat sepeninggalku." Lalu Umar berkata, "Tampaknya sakit beliau bertambah parah, bukankah Al Qur'an telah berada pada diri kalian? Cukuplah bagi kita Kitabullah." Orang-orang yang berada di sekitar beliau ketika itu berbeda pendapat, lalu mereka saling berbantah-bantahan. Ada yang mengatakan, "Mendekatlah kepada beliau, supaya Rasulullah shallallahu 'alaihi wasallam dapat menuliskan suatu wasiat buat kalian, agar kalian tidak tersesat sepeninggalnya." Dan yang lain berpendapat seperti perkataan Umar, sehingga mereka menjadi ribut di sekitar Rasulullah shallallahu 'alaihi wasallam. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Berdirilah kalian semua (maksudnya pergi dari sisi beliau)." Ubaidullah berkata; Ibnu Abbas berkata, "Kerugian besar (bagi kaum Muslimin), mereka gagal menuliskan pesan terakhir Rasulullah shallallahu 'alaihi wasallam karena mereka saling berbantah-bantahan di sekitar Rasulullah shallallahu 'alaihi wasallam yang sedang sakit keras
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4234</td></tr><tr><td>Arabic No</td><td>1637.03</td></tr><tr><td>Reference</td><td>Book 25 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4234</td></tr><tr><td>Arabic No</td><td>1637.03</td></tr><tr><td>Reference</td><td>Book 25 Hadith 31</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Shaddad b. Aws: The Messenger of Allah (ﷺ) came to a man at al-Baqi' 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Wuhaib], telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Abu Al Asy'ats] dari [Syaddad bin Aus] bahwa Rasulullah shallallahu 'alaihi wasallam datang kepada seseorang di Baqi' sementara orang tersebut sedang berbekam, sementara beliau menggandeng tanganku- selama delapan belas hari yang telah berlalu pada Bulan Ramadhan. Kemudian beliau berkata: "Telah batal puasa orang yang membekam dan yang dibekam." Abu Daud berkata; dan [Khalid Al Hadzdza'] telah meriwayatkan dari [Abu Qilabah] dengan sanad Ayyub seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2369</td></tr><tr><td>Arabic No</td><td>2369</td></tr><tr><td>Reference</td><td>Book 14 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Шаддада ибн Ауса, да будет доволен им Аллах: «Однажды Посланник Аллаха ﷺ подошёл к человеку, которому делали кровопускание в Аль-Бакы‘. При этом он держал меня за руку. А тогда прошло восемнадцать дней с начала рамадана. (Посланник Аллаха ﷺ) сказал: “И делающий кровопускание, и тот, кому делают кровопускание, разговелись”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2369</td></tr><tr><td>Arabic No</td><td>2369</td></tr><tr><td>Reference</td><td>Book 14 Hadith 57</td></tr></tbody></table></div>
 

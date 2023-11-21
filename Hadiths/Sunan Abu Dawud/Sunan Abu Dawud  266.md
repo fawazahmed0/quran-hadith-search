@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas reported the Prophet (May peace be upon him) as saying; when a man 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash-Shabbah Al-Bazzaz] telah menceritakan kepada kami [Syarik] dari [Khushaif] dari [Miqsam] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila seorang suami menggauli istrinya dalam keadaan haidl, maka dia harus bersedekah setengah dinar". Abu Dawud berkata; Demikian pula dikatakan oleh [Ali bin Budzaimah] dari [Miqsam] dari Nabi shallallahu 'alaihi wasallam secara mursal. Dan diriwayatkan oleh [Al-Auza'i] dari [Yazid bin Abu Malik] dari [Abdul Hamid bin Abdurrahman] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Saya perintahkan dia untuk bersedekah dengan dua perlima dinar". Dan ini adalah hadits mu'dlal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>266</td></tr><tr><td>Arabic No</td><td>266</td></tr><tr><td>Reference</td><td>Book 1 Hadith 266</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса о том, что Пророк ﷺ сказал: «Если мужчина вступит половую связь со своей женой в то время, когда у нее менструации, пусть раздаст в качестве милостыни /садакъа/ полдинара».Абу Дауд сказал: «Такой же хадис в форме “мурсаль” передал и ‘Али ибн Базима со слов Микъсама, который сообщил его от Пророка ﷺ. Также аль-Ауза‘и передал от Йазида ибн Абу Малика, со слов ‘Абд-аль-Хамида ибн ‘Абду-р-Рахмана, что Пророк ﷺ сказал: “Повелеваю ему раздать в качестве милостыни пятую часть динара”. Этот (хадис относится к категории) му‘даль»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>266</td></tr><tr><td>Arabic No</td><td>266</td></tr><tr><td>Reference</td><td>Book 1 Hadith 266</td></tr></tbody></table></div>
 

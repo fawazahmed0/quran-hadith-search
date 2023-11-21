@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aishah:I used to wash the semen off the clothes of the Prophet (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Khalid] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami ['Amru bin Maimun bin Mihran] dari [Sulaiman bin Yasar] dari ['Aisyah], bahwa ia pernah mencuci air mani dari pakaian Nabi shallallahu 'alaihi wasallam, kemudian aku masih melihat bekas sisa cucian itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>232</td></tr><tr><td>Arabic No</td><td>232</td></tr><tr><td>Reference</td><td>Book 4 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши о том, что (обычно) она смывала семя с одежды Пророка ﷺ после чего она видела на ней пятно
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>232</td></tr><tr><td>Arabic No</td><td>232</td></tr><tr><td>Reference</td><td>Book 4 Hadith 98</td></tr></tbody></table></div>
 

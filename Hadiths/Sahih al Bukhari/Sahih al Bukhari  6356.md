@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Tha'laba bin Su'air:whose eye Allah's Messenger (ﷺ) had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Abdullah bin Tsa'labah bin Shu'air] -Dan Nabi Shallallahu 'alahi wasallam pernah mengusapnya- bahwa dia pernah melihat Sa'd bin Abu Waqash shalat witir satu raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6356</td></tr><tr><td>Arabic No</td><td>6356</td></tr><tr><td>Reference</td><td>Book 80 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Са’ляба ибн Су’айр рассказывал, что Посланник Аллаха ﷺ погладил его. И он видел, как Са’д ибн Абу Ваккас совершил один рак‘ат витра
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6356</td></tr><tr><td>Arabic No</td><td>6356</td></tr><tr><td>Reference</td><td>Book 80 Hadith 53</td></tr></tbody></table></div>
 

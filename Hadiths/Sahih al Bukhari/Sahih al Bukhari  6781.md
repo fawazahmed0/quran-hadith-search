@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A drunk was brought to the Prophet (ﷺ) and he ordered him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah bin Ja'far] telah menceritakan kepada kami [Anas bin 'Iyadh] telah menceritakan kepada kami [Ibnu Al Had] dari [Muhammad bin Ibrahim] dari [Abu Salamah] dari [Abu Hurairah], mengatakan; seorang pemabuk dihadapkan kepada Nabi shallallahu 'alaihi wasallam, Nabi menyuruhnya untuk dicambuk. Diantara kami ada yang memukulnya dengan tangan, diantara kami ada yang memukulnya dengan sandal, dan diantara kami ada yang memukulnya dengan pakaiannya. Tatkala selesai, ada seorang sahabat mengatakan; 'sekiranya Allah menghinakan dia! ' Kontan Rasulullah Shallallahu'alaihiwasallam bersabda: "Janganlah kalian menjadi penolong setan untuk menjerumuskan kawan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6781</td></tr><tr><td>Arabic No</td><td>6781</td></tr><tr><td>Reference</td><td>Book 86 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «[Однажды] к Пророку ﷺ привели пьяного человека, и он велел побить его. И некоторые из нас стали бить его своими руками, некоторые — своими сандалиями, а некоторые — своей одеждой. Когда же [мы] перестали [бить его], кто-то сказал: “Да посрамит его Аллах!” Тогда Посланник Аллаха ﷺ сказал: “Не становитесь помощниками шайтана против вашего брата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6781</td></tr><tr><td>Arabic No</td><td>6781</td></tr><tr><td>Reference</td><td>Book 86 Hadith 10</td></tr></tbody></table></div>
 

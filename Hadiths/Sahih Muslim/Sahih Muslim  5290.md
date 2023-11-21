@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:The Apostle of Allah (may peace he upon him) came to Medina when I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid] dan [Zuhair bin Harb] dan [Muhammad bin 'Abdillah bin Numair]; Dan lafazh ini milik [Zuhair] ia berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Anas] ia berkata; Nabi shallallahu 'alaihi wasallam datang ke Madinah, waktu itu aku berumur sepuluh tahun. Beliau Shallallah 'Alaihi Wa Sallam wafat ketika aku berumur dua puluh tahun. Istri-istri beliau adalah ibu-ibuku, mereka selalu menganjurkanku untuk membantu beliau. Suatu hari beliau masuk ke rumah kami, lalu kami memeras susu untuk beliau dari seekor kambing ternak, dan aku campur dengan air sumur di rumah. Kemudian Rasulullah Shallallah 'Alaihi Wa Sallam meminumnya. Setelah selesai, Umar bertanya kepada beliau; 'Apakah aku berikan kepada Abu Bakar dahulu? ' (waktu itu Abu Bakr berada di sebelah kiri beliau). Namun Rasulullah Shallallah 'Alaihi Wa Sallam memberikan sisa minumnya kepada orang badui (yang berada di sebelah kanan beliau) seraya bersabda: "Hendaknya dimulai dari sebelah kanan dan seterusnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5290</td></tr><tr><td>Arabic No</td><td>2029.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5290</td></tr><tr><td>Arabic No</td><td>2029.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 164</td></tr></tbody></table></div>
 

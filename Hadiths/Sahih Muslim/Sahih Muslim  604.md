@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) said: Ten are the acts according to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakar bin Abu Syaibah] serta [Zuhair bin Harb] mereka berkata, "Telah menceritakan kepada kami [Waki'] dari [Zakariya bin Abu Zaidah] dari [Mush'ab bin syaibah] dari [Thalq bin habib] dari [Abdullah bin az-zubair] dari [Aisyah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada sepuluh perkara dari fitrah; mencukur kumis, memanjangkan jenggot, bersiwak, beristinsyaq (memasukkan air ke dalam hidung), memotong kuku, bersuci dengan air, mencabut bulu ketiak, mencukur bulu kemaluan dan beristinja' dengan air." [Zakariya] berkata, [Mush'ab] berkata, "Dan aku lupa yang kesepuluh, kecuali ia adalah berkumur-kumur." [Qutaibah] menambahkan, " [Waki'] berkata, 'Bersuci dengan air maksudnya beristinja'." Dan telah menceritakannya kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnu Abu Zaidah] dari [bapaknya] dari [Mush'ab bin Syaibah] dengan sanad ini, seperti hadits tersebut, hanya saja dia menyebutkan, "Bapaknya berkata, 'Dan saya lupa yang kesepuluh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>604</td></tr><tr><td>Arabic No</td><td>261.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Посланник Аллаха ﷺ сказал: «Десять (вещей) являются естественными: подстригание усов, отращивание бороды, (использование) зубочистки /сивак/, промывание носа водой, подстригание ногтей, промывание суставов пальцев, выщипывание волос под мышками, сбривание волос с лобка и (использование) воды для подмывания».Закария передал, что Мус‘аб (один из передатчиков) сказал: «И я забыл о десятой (вещи), но, возможно, речь шла о полоскании рта»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>604</td></tr><tr><td>Arabic No</td><td>261.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 71</td></tr></tbody></table></div>
 

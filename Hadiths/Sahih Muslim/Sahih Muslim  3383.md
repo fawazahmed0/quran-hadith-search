@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported that a woman fell ill and she sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin Rumh] semuanya dari [Laits bin Sa'd] - [Qutaibah] berkata- Telah menceritakan kepada kami [Laits] dari [Nafi'] dari [Ibrahim bin Abdullah bin Ma'bad] dari [Ibnu Abbas] bahwa ia berkata; Ada seorang wanita menderita sakit, lalu ia berkata, "Kalau Allah memberikan kesembuhan padaku, aku benar-benar akan keluar menuju Baitul Maqdis dan shalat di sana." Lalu wanita itu pun sembuh dari penyakitnya, maka ia pun segera mempersiapkan perjalanan. Kemudian ia mendatangi [Maimunah] isteri Nabi shallallahu 'alaihi wasallam, ia mengucapkan salam atasnya dan mengabarkan tentang perjalanan yang akan ia lakukan. Maka Maimunah pun berkata, "Duduk dan makanlah apa yang kamu inginkan. Lalu shalatlah di Masjid Rasulullah shallallahu 'alaihi wasallam, karena saya telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Satu Shalat di dalamnya lebih utama daripada seribu shalat di masjid lain selain Masjid Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3383</td></tr><tr><td>Arabic No</td><td>1396</td></tr><tr><td>Reference</td><td>Book 15 Hadith 587</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3383</td></tr><tr><td>Arabic No</td><td>1396</td></tr><tr><td>Reference</td><td>Book 15 Hadith 587</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "A group of Israelites were lost. N
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Wuhaib] dari [Khalid] dari [Muhammad] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Satu ummat dari Bani Isra'il telah hilang dan tidak diketahui lagi apa yang telah dilakukan oleh ummat tersebut. Aku tidak mengira selain ummat itu telah dijelmakan dalam bentuk tikus, yang apabila mereka disuguhi susu unta, mereka tidak meminumnya, dan bila diberi susu kambing, mereka meminumnya". Kemudian aku ceritakan hal ini kepada Ka'ab maka dia berkata; "Apakah kamu mendengar Nabi shallallahu 'alaihi wasallam bersabda seperti itu?". Aku jawab; 'Ya". Dia bertanya kepadaku berkali-kali hingga akhirnya aku katakan; "Apakah perlu aku bacakan kitab Taurat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3305</td></tr><tr><td>Arabic No</td><td>3305</td></tr><tr><td>Reference</td><td>Book 59 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Некогда) пропала община израильтян, и никто не знает, что с ней стало; что же касается меня, то я считаю, что они (были прокляты и превращены в) мышей, ибо, когда перед ними ставят верблюжье молоко, они не пьют (его), если же поставить перед ними овечье молоко, они будут пить».\n(Абу Хурайра, да будет доволен им Аллах, сказал): «Я передал эти слова (Пророка ﷺ) Ка‘бу, который спросил: “Ты слышал, как Пророк ﷺ говорил это?” Я ответил: “Да”, когда же он повторил этот вопрос много раз, я воскликнул: “Разве я читаю Тору?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3305</td></tr><tr><td>Arabic No</td><td>3305</td></tr><tr><td>Reference</td><td>Book 59 Hadith 113</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger as saying:Hasten at a funeral, for if (th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] dan [Harmalah bin Yahya] dan [Harun bin Sa'id Al Aili] -Harun berkata- telah menceritakan kepada kami -sementara dua orang yang lain berkata- telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] ia berkata, telah menceritakan kepadaku [Abu Umamah bin Sahl bin Hunaif] dari [Abu Hurairah] ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Segerakanlah penguburan jenazah, karena jika ia adalah seorang yang shalih, maka kalian telah mendekatkannya pada kebaikan. Tetapi, jika ia tidak termasuk orang yang shalih, maka berarti kalian mempercepat meletakkan keburukan dari pundak-pundak kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2188</td></tr><tr><td>Arabic No</td><td>944.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Несите покойного побыстрее, ибо если он был праведным, то вы приближаете его к благу, если же он таковым не был, вы (сможете побыстрее) убрать зло с шей своих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2188</td></tr><tr><td>Arabic No</td><td>944.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 66</td></tr></tbody></table></div>
 

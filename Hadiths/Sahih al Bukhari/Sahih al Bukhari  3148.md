@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:That while he was with Allah's Messenger (ﷺ) who wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah Al Uwaisiy] telah bercerita kepada kami [Ibrahim bin Sa'ad] dari [Shalih] dari [Ibnu Syihab] mengatakan, telah menceritakan kepadaku ['Umar bin Muhammad bin Jubair bin Muth'im] bahwa [Muhammad bin Jubair] berkata telah mengabarkan kepadaku [Jubair bin Muth'im] bahwa ketika dia bersama Rasulullah Shallallahu'alaihiwasallam beserta orang-orang yang baru kembali dari perang Hunain, Beliau dihampiri oleh orang-orang Arab Baduy yang meminta bagian dan mendesak Beliau hingga menyudutkan Beliau ke pohon berduri sementara rida' (selendang) Beliau raib (ada yang ambil). Maka Rasulullah Shallallahu'alaihiwasallam tertahan lalu bersabda: "Berikan rida'ku. Seandainya aku memiliki banyak pohon berduri ini sebagai harta maka aku bagikan kepada kalian, lalu kalian tidak akan mendapati aku sebagai orang yang pelit, dusta atau pengecut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3148</td></tr><tr><td>Arabic No</td><td>3148</td></tr><tr><td>Reference</td><td>Book 57 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джубайра ибн Мут‘има, да будет доволен им Аллах, что, когда он вместе с Посланником Аллаха ﷺ и другими людьми возвращался из Хунайна, бедуины стали приставать к Посланнику Аллаха ﷺ со своими просьбами (так настойчиво, что в конце концов) оттеснили его к акации, за ветви которой зацепилась его накидка. И тогда Посланник Аллаха ﷺ остановился и воскликнул: «Отдайте мне мою накидку! Если бы у меня было столько скота, сколько здесь кустов терновника, я бы обязательно разделил его меж вами, и тогда не считали бы вы меня ни скупцом, ни лжецом, ни трусом!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3148</td></tr><tr><td>Arabic No</td><td>3148</td></tr><tr><td>Reference</td><td>Book 57 Hadith 56</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When it was the day of Hunain, Prophet favored some people ov
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4336</td></tr><tr><td>Arabic No</td><td>4336</td></tr><tr><td>Reference</td><td>Book 64 Hadith 365</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «В день (битвы при) Хунайне при разделе (военной добычи) Пророк ﷺ отдал предпочтение некоторым людям. Так, он дал аль-Акра‘у сто верблюдов, и столько же дал ‘Уйейне (, и щедро) оделил некоторых других людей. (Увидев это,) один человек воскликнул: “Такой раздел (был сделан) не ради Аллаха!” Тогда я сказал: “Я обязательно сообщу об этом Пророку ﷺ!” (Выслушав меня, Пророк ﷺ) сказал: “Да помилует Аллах (пророка) Мусу, который подвергался ещё большим обидам, но терпел!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4336</td></tr><tr><td>Arabic No</td><td>4336</td></tr><tr><td>Reference</td><td>Book 64 Hadith 365</td></tr></tbody></table></div>
 

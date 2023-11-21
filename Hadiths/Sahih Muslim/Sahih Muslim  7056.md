@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:I asked Allah's Messenger (ﷺ) about the words of Allah, the Ex
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami ['Ali bin Mushir] dari [Dawud] dari [Asy Sya'bi] dari [Masruq] dari ['Aisyah] dia berkata; Aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang firman Allah Azza Wa Jalla: 'Pada hari (ketika) bumi diganti dengan bumi yang lain dan begitu pula langit……' (QS. Ibrahim (14): 48), maka dimanakah umat manusia ketika itu, ya Rasulullah?" Jawab beliau: 'Di Titian (shirath)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7056</td></tr><tr><td>Arabic No</td><td>2791</td></tr><tr><td>Reference</td><td>Book 52 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7056</td></tr><tr><td>Arabic No</td><td>2791</td></tr><tr><td>Reference</td><td>Book 52 Hadith 12</td></tr></tbody></table></div>
 

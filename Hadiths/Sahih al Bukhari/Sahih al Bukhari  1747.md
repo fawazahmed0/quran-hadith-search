@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Yazid:'Abdullah, did the Rami from the middle of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari ['Abdurrahman bin Yazid] berkata: " ['Abdullah] melempar jumrah dari dasar lembah, lalu aku bertanya: "Wahai 'Abdurrahman, orang-orang melempar dari atas (lembah)?". Maka dia berkata: "Demi Dzat yang tidak ada ilah selain Dia, tempat ini adalah tempat seseorang yang diturunkan kepadanya surah Al Baqarah, yaitu Muhammad shallallahu 'alaihi wasallam". Dan berkata, ['Abdullah bin Al Walid] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Al A'masy] sepeti hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1747</td></tr><tr><td>Arabic No</td><td>1747</td></tr><tr><td>Reference</td><td>Book 25 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха Ибн Мас‘уда, да будет доволен им Аллах, что после того как он бросил камешки в столбы из внутренней части вади, кто-то сказал ему: «Поистине, люди бросают в них (камешки) сверху». Тогда он сказал: «Клянусь Тем, помимо Которого нет иного бога, это — место(, на котором стоял) тот, кому была ниспослана сура “Корова” ﷺ!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1747</td></tr><tr><td>Arabic No</td><td>1747</td></tr><tr><td>Reference</td><td>Book 25 Hadith 225</td></tr></tbody></table></div>
 

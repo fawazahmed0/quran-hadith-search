@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Laila:While Hudhaifa was at Al-Madain, he asked for water where
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibnu Abu Laila] dia berkata; "Ketika [Hudzaifah] berada di negeri Mada'in, dia meminta air minum, lalu Dihqan (kepala suku) memberinya air dari tempat yang terbuat dari perak, maka Hudzaifah langsung melemparnya sambil berkata; "Sesungguhnya aku tidak melemparnya melainkan aku telah melarangnya, namun ia tidak juga jera (menggunakan tempat minum dari perak) padahal Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Emas, perak, kain sutera dan dibaj (campuran kain sutera) adalah milik mereka (orang-orang kafir) semasa di dunia, dan untuk kalian di Akhirat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5831</td></tr><tr><td>Arabic No</td><td>5831</td></tr><tr><td>Reference</td><td>Book 77 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн Аби Лейлы, что, когда Хузейфа был в Мадаине и попросил воды, деревенский староста /дехкан/ принёс ему серебряную чашу, и Хузейфа бросил её в него со словами: «Поистине, я бросил её в него только потому, что я запретил ему, а он не прекратил… Посланник Аллаха ﷺ сказал: “Золото и серебро, шёлк и парча предназначены для них в этом мире, а для вас — в мире вечном”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5831</td></tr><tr><td>Arabic No</td><td>5831</td></tr><tr><td>Reference</td><td>Book 77 Hadith 48</td></tr></tbody></table></div>
 

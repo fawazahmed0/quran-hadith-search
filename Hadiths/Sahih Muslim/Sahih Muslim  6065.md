@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' reported:Never did I see anyone more handsome than Allah's Apostle (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abu Ishaq] dari [Al Barra'] dia berkata; "Aku tidak pernah melihat orang yang lebih tampan berpakaian merah dari pada Rasulullah shallallahu 'alaihi wasallam. Rambut beliau terurai ke bahunya yang bidang, perawakannya tidak tinggi kurus dan tidak pula pendek." Abu Kuraib berkata dengan lafazh; 'Lahu Sya'arun.' (beliau mempunyai rambut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6065</td></tr><tr><td>Arabic No</td><td>2337.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6065</td></tr><tr><td>Arabic No</td><td>2337.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 123</td></tr></tbody></table></div>
 

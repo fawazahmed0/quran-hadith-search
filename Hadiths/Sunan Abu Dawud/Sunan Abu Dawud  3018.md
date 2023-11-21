@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Shihab said “It has reached me that the Apostle of Allaah(ﷺ) conquered K
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh], telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Yunus bin Yazid?] dari [Ibnu Syihab], ia berkata; telah sampai kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam telah menaklukkan Khaibar dengan paksaan setelah terjadi peperangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3018</td></tr><tr><td>Arabic No</td><td>3018</td></tr><tr><td>Reference</td><td>Book 20 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Шихаб сказал: «До меня дошло известие о том, что Посланник Аллаха ﷺ завоевал Хайбар, то есть взял его с боем, и те его жители, которые сдались, согласились на выселение после боя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3018</td></tr><tr><td>Arabic No</td><td>3018</td></tr><tr><td>Reference</td><td>Book 20 Hadith 91</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Omar (رضي الله عنهما) a dit : A l'époque antéislam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnu Rumh] telah mengabarkan kepada kami [Laits] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma bahwa suatu ketika disebutkanlah hari 'Asyura' di sisi Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Itu adalah hari yang dijadikan orang-orang Jahiliyah untuk berpuasa, maka siapa di antara kalian yang suka berpuasa di hari itu silahkan, dan siapa yang tidak suka, maka tidaklah mengapa ia meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2644</td></tr><tr><td>Arabic No</td><td>1126.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2644</td></tr><tr><td>Arabic No</td><td>1126.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 150</td></tr></tbody></table></div>
 

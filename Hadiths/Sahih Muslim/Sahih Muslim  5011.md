@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sulaiman Shaibini reported:I heard Abdullah b. Abu Aufa say: We were smitten wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kamil Fudlail bin Husain] telah menceritakan kepada kami [Abdul Wahid yaitu Ibnu Ziyad] telah menceritakan kepada kami [Sulaiman As Syaibani] dia berkata; saya mendengar [Abdullah bin Abu Aufa] berkata, "Ketika beberapa malam kami berada di Khaibar, kami pernah merasa sangat lapar, kemudian kami menangkap seekor keledai jinak dan menyembelihnya. Tatkala periuk kami telah mendidih, tiba-tiba seorang penyeru yang ternyata adalah utusan Rasulullah shallallahu 'alaihi wasallam berseru, katanya, "Tumpahkanlah periuk kalian, dan janganlah kalian makan daging keledai sedikit pun." Abdullah bin Abu Aufa berkata, "Kemudian orang-orang mengatakan bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang makan daging keledai sebab ia sangat langka. Sedangkan yang lain mengatakan bahwa beliau melarangnya secara qath'I (benar-benar dilarang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5011</td></tr><tr><td>Arabic No</td><td>1937.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5011</td></tr><tr><td>Arabic No</td><td>1937.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 40</td></tr></tbody></table></div>
 

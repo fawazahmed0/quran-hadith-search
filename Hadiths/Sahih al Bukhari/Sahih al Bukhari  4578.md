@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(In the Pre-Islamic Period ) the children used to inherit al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] dari [Warqa] dari [Ibnu Abu Najih] dari ['Atha] dari [Ibnu 'Abbas radliallahu 'anhuma] dia berkata; "Bahwasanya dahulu harta untuk anak dan wasiat untuk orang tua. Lalu Allah menghapus hal itu sesuai apa yang Ia kehendaki dan mengganti dengan bagian laki-laki seperti bagian dua perempuan, bagian untuk kedua orang tua masing-masing mendapatkan seperenam dan sepertiga, menjadikan untuk isteri seperdelapan dan seperempat, dan untuk suami setengah dan seperempat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4578</td></tr><tr><td>Arabic No</td><td>4578</td></tr><tr><td>Reference</td><td>Book 65 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Раньше имущество умершего переходило по наследству его ребёнку, а завещание должно было быть его родителям. И Аллах отменил из этого то, что захотел, установив для мужчины долю двух женщин, для каждого из родителей шестую часть, для женщины восьмую или четвёртую часть, а для мужа половину или четвёртую часть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4578</td></tr><tr><td>Arabic No</td><td>4578</td></tr><tr><td>Reference</td><td>Book 65 Hadith 100</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been reported by Abu Sa'id al-Khudri from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ahmad bin 'Amr bin As Sarh], dan ini adalah lafazhnya. Mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Atha' bin Yazid? Al Laitsi] dari [Abu Sa'id Al Khudri] bahwa Nabi shallallahu 'alaihi wasallam melarang dari dua macam jual beli dan dua pakaian. Adapun dua macam jual beli yaitu mulamasah (jual beli pakaian yang dilakukan oleh dua orang dengan cara menyentuhnya (lams) dari luar tanpa membukanya dan tidak mengetahui apa yang ada di dalamnya) dan munabadzah (seseorang berkata; lemparkan kepadaku apa yang ada padamu dan aku akan melemparkan sesuatu yang ada padaku, dan hal tersebut dianggap sebagai proses jual beli). Adapun dua pakaian adalah isytimal shamma' (melilitkan pakaian yang tidak ada tempat keluar untuk tangan) dan seseorang membungkus dirinya dengan satu kain dan membuka kemaluannya atau tidak ada sesuatupun kain yang menutupi kemaluannya. Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri], dari ['Atha' bin Yazid? Al Laitsi] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini. Ia menambahkan; dan isytimal shama' adalah berselimut dalam satu kain, meletakkan dua ujung kain pada pundaknya sebelah kiri, dan membuka sebelah kanan. Sedangkan munabadzah adalah dengan mengatakan; apabila aku lemparkan kepadamu pakaian ini maka telah sah jual beli. Dan mulamasah adalah menyentuh kain dengan tangannya dan tidak membukanya serta membalikkannya. Apabila ia menyentuhnya maka telah sah jual beli. Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami ['Anbasah bin Khalid], telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab], ia berkata; telah mengabarkan kepadaku ['Amir bin Sa'dan bin Abu Waqqash] bahwa [Abu Sa'id Al Khudri] berkata; Rasulullah shallallahu 'alaihi wasallam telah melarang dengan makna hadits Sufyan dan Abdurrazzaq seluruhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3378</td></tr><tr><td>Arabic No</td><td>3378</td></tr><tr><td>Reference</td><td>Book 23 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От Абу Са‘ида аль-Худри, да будет доволен им Аллах, передаётся этот же хадис другим путём. В этой версии имеются добавления: «Что же касается заворачивания в одежду, то речь идёт о том случае, когда человек заворачивается в одежду, открывая правый бок и закрепляя концы одежды на левом плече. Мунабаза это когда человек говорит: “Если я брошу тебе какую-то одежду, её продажа становится обязательной”. Мулямаса это такой вид продажи, при котором человек, желающий купить одежду, ощупывает её перед покупкой, но не разворачивает и не рассматривает. Покупка становится обязательной, как только покупатель ощупал одежду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3378</td></tr><tr><td>Arabic No</td><td>3378</td></tr><tr><td>Reference</td><td>Book 23 Hadith 53</td></tr></tbody></table></div>
 

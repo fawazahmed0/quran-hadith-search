@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying:He who saw me in a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami [Rauh]; Telah menceritakan kepada kami [Zakaria bin Ishaq]; Telah menceritakan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin 'Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa bermimpi melihatku dalam tidurnya, maka sesungguhnya dia benar-benar melihatku; karena setan itu tidak dapat menyerupai bentukku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5924</td></tr><tr><td>Arabic No</td><td>2268.02</td></tr><tr><td>Reference</td><td>Book 42 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5924</td></tr><tr><td>Arabic No</td><td>2268.02</td></tr><tr><td>Reference</td><td>Book 42 Hadith 28</td></tr></tbody></table></div>
 

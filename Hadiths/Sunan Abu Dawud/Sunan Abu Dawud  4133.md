@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir:We were with the Prophet (ﷺ) on a journey. He said: Make a gene
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabbah Al Bazzaz] berkata, telah menceritakan kepada kami [Ibnu Abu Az Zinad] dari [Musa bin Uqbah] dari [Abu Az Zubair] dari [Jabir] ia berkata, "Kami pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, beliau lalu bersabda: "Perbanyaklah mengenakan sandal, karena seseorang masih disebut pengendara selama ia mengenakan sandal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2096)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4133</td></tr><tr><td>Arabic No</td><td>4133</td></tr><tr><td>Reference</td><td>Book 34 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира, да будет доволен Аллах им и его отцом: «Мы были вместе с Пророком ﷺ в путешествии, и он сказал: “Побольше пользуйтесь сандалиями, потому что человек в сандалиях подобен тому, кто едет верхом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2096)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4133</td></tr><tr><td>Arabic No</td><td>4133</td></tr><tr><td>Reference</td><td>Book 34 Hadith 114</td></tr></tbody></table></div>
 

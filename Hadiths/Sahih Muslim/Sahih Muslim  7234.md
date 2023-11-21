@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Omar (رضي الله عنهما) a dit : J'ai entendu l'Envoyé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya At Tujini] telah mengkhabarkan kepada kami [Ibnu Wahb] telah mengkhabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengkhabarkan kepadaku [Hamzah bin Abdullah bin Umar] bahwa [Abdullah bin Umar] berkata: Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Bila Allah hendak mengadzab suatu kaum, adzab menimpa orang yang ada ditengah-tengah mereka lalu mereka dibangkitkan berdasarkan amal-amal mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7234</td></tr><tr><td>Arabic No</td><td>2879</td></tr><tr><td>Reference</td><td>Book 53 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7234</td></tr><tr><td>Arabic No</td><td>2879</td></tr><tr><td>Reference</td><td>Book 53 Hadith 103</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim:(Abdullah) bin 'Umar used to say, "Is not (the following of) the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Salim] berkata; [Ibnu'Umar radliallahu 'anhuma] berkata: "Tidak cukupkah bagi kalian sunnah Rasulullah shallallahu 'alaihi wasallam apabila seorang dari kalian terhalang melaksanakan haji, maka hendaklah dia thawaf di Ka'bah Baitullah lalu sa'iy antara bukit Shafaa dan Marwah kemudian bertahallul dari segala sesuatu hingga dia melaksanakan hajinya pada tahun berikutnya, dan dia menyembelih hewan qurban atau shaum jika tidak membawa hewan qurban?". Dan dari ['Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] berkata, telah menceritakan kepada saya [Salim] dari [Ibnu'Umar radliallahu 'anhuma] seperti hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1810</td></tr><tr><td>Arabic No</td><td>1810</td></tr><tr><td>Reference</td><td>Book 27 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, часто говорил: «Разве недостаточно вам (следования) сунне Посланника Аллаха ﷺ ? Если кому-нибудь из вас помешают совершить хадж, пусть совершит обход Каабы и (бег между холмами) ас-Сафа и аль-Марва, а потом полностью выйдет из состояния ихрама и совершит хадж на следующий год, и пусть он принесёт в жертву скот или постится, если не найдёт скота для жертвоприношения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1810</td></tr><tr><td>Arabic No</td><td>1810</td></tr><tr><td>Reference</td><td>Book 27 Hadith 5</td></tr></tbody></table></div>
 

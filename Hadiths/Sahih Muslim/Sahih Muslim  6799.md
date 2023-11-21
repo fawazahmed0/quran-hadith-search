@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Urwa b. Zubair reported that 'A'isha said to him:This news has reached me that '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya At Tujibi]; telah mengabarkan kepada kami ['Abdullah bin Wahb] telah menceritakan kepadaku [Abu Syuraih] bahwasanya [Abul Aswad] bercerita kepadanya dari ['Urwah bin Az Zubair] dia berkata; 'Aisyah berkata kepadaku; wahai anak saudariku, telah sampai kepadaku bahwasanya ['Abdullah bin 'Amr] akan melewati kita untuk berhaji, maka temuilah ia dan bertanyalah kepadanya, karena dia membawa ilmu yang banyak dari Nabi shallallahu 'alaihi wasallam. 'Urwah berkata; kemudian aku menemuinya dan bertanya kepadanya mengenai beberapa perkara yang dia menyebutkannya dari Rasulullah shallallahu 'alaihi wasallam. Urwah berkata; di antara yang dia sebutkan; bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah tidak akan mengangkat ilmu dari manusia setelah Ia berikan kepada mereka. Akan tetapi Allah akan mengambil (mewafatkan) para ulama', hingga jika setiap seorang Alim pergi, akan pergi pula ilmu yang ia miliki. Sehingga di dunia ini hanya tersisa orang-orang bodoh, mereka memberi fatwa tanpa tanpa landasan ilmu, hingga mereka sesat dan menyesatkan." Urwah berkata; ketika aku menceritakan Hadits tersebut kepada Aisyah, tiba-tiba Aisyah mengingkarinya dan berkata; Apakah benar dia mendengar Hadits ini dari Nabi shallallahu 'alaihi wasallam? Urwah menjawab; iya, sampai dia datang kembali, kita tanyakan lagi. Kemudian tak lama Aisyah berkata lagi kepada Urwah; Ibnu Amru telah datang, maka temuilah dia, dan sambutlah dia hingga kamu dapat menanyakannya Hadits tentang ilmu yang telah disebutkannya kepadamu. Lalu aku menemuinya dan menanyakannya, dan diapun menyebutkan apa yang telah diceritakannya kepadaku pada waktu lalu. Urwah berkata; tatkala aku kabarkan Hal itu kepada Aisyah, dia berkata; aku tidak mengiranya kecuali dia telah jujur meriwayatkan Hadits itu yang tidak tambahnya, dan tidak pula dikurangi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6799</td></tr><tr><td>Arabic No</td><td>2673.04</td></tr><tr><td>Reference</td><td>Book 47 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6799</td></tr><tr><td>Arabic No</td><td>2673.04</td></tr><tr><td>Reference</td><td>Book 47 Hadith 25</td></tr></tbody></table></div>
 

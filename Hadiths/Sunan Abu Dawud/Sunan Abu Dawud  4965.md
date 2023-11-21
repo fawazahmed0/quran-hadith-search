@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying:C
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Abu Bakar bin Abu Syaibah] keduanya berkata; telah menceritakan kepada kami [Sufyan] dari [Ayyub As Sakhtiyani] dari [Muhammad bin Sirin] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Buatlah nama seperti namaku dan jangan membuat julukan seperti julukanku." Abu Dawud berkata, " [Abu Shalih] juga meriwayatkannya dari [Abu Hurairah] sepertiitu. Demikian juga riwayat [Abu Sufyan] dari [Jabir] dan [Salim bin Abu Al Ja'd] dari [Jabir], dan [Sulaiman Al Yasykuri] dari [Jabir], dan [Ibnul Munkadir] dari [Jabir] seperti mereka, dan [Anas bin Malik]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6188) Sahih Muslim (2134)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4965</td></tr><tr><td>Arabic No</td><td>4965</td></tr><tr><td>Reference</td><td>Book 43 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «(Вы можете) называть себя моим именем, но не используйте мою кунью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6188) Sahih Muslim (2134)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4965</td></tr><tr><td>Arabic No</td><td>4965</td></tr><tr><td>Reference</td><td>Book 43 Hadith 193</td></tr></tbody></table></div>
 

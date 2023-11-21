@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "If anybody has to take an oath, he s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Abdullah bin Dinar] dari [Ibnu 'Umar] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam bersabda: "Ketahuilah, barangsiapa yang bersumpah janganlah bersumpah kecuali atas nama Allah". Dahulu orang-orang Quraisy bila bersumpah menggunakan bapak-bapak mereka lalu beliau bersabda: "Janganlah kalian bersumpah atas nama bapak-bapak kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3836</td></tr><tr><td>Arabic No</td><td>3836</td></tr><tr><td>Reference</td><td>Book 63 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Пусть тот, кто захочет поклясться, клянется только Аллахом».\nЧто касается курайшитов, то они клялись своими отцами, а (Пророк ﷺ) сказал: «Не клянитесь своими отцами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3836</td></tr><tr><td>Arabic No</td><td>3836</td></tr><tr><td>Reference</td><td>Book 63 Hadith 61</td></tr></tbody></table></div>
 

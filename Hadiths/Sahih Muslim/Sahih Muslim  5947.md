@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mu'adh b. Jabal reported that he went along with Allah's Apostle (ﷺ) in the ex
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Darimi] Telah menceritakan kepada kami [Abu Ali Al Hanafi] Telah menceritakan kepada kami [Malik] yaitu Ibnu Anas dari [Abu Zubair Al Makki] bahwa [Abu Thufail Amir bin Watsilah] Telah mengabarkan kepadanya [Mu'adz bin Jabal] mengabarkan kepadanya; dia berkata; "Kami bepergian bersama Rasulullah shallallahu 'alaihi wasallam pada tahun perang Tabuk. Dalam perjalanan itu beliau menjama' shalat Zhuhur dengan 'Ashar dan Maghrib dengan 'Isya, sehingga pada suatu hari beliau menjama' ta'khir. Beliau pergi untuk shalat jama' Zhuhur dengan 'Ashar. Kemudian beliau kembali. Lalu beliau keluar lagi untuk menjama' shalat Maghrib dengan Isya. Setelah itu beliau bersabda: "Insya' Allah besok kalian akan sampai ke sebuah mata air di Tabuk. Dan kalian tidak akan sampai ke sana sebelum tengah hari. Maka siapa yang sampai ke sana lebih dahulu, sekali-kali jangan menyentuh airnya sebelum aku tiba di sana. Akhirnya kami sampai di mata air tersebut, tetapi sebelumnya telah ada dua orang laki-laki mendahului kami, dan didapatinya mata air itu mengeluarkan air sedikit sekali, kira-kira sebesar tali terompah. Mu'adz berkata; kemudian Rasulullah shallallahu 'alaihi wasallam bertanya kepada kedua orang itu: "Apakah kalian telah menyentuh air itu?" jawab mereka; "Ya sudah!" Rasulullah shallallahu 'alaihi wasallam memarahi dan mencela perbuatan mereka serta berkata apa yang seharusnya dikatakan kepada kedua orang itu atas kehendak Allah. Mu'adz berkata; Kemudian para sahabat menciduk air sedikit demi sedikit dari mata air tersebut dengan tangan mereka, sehingga terkumpul pada suatu bejana. Rasulullah membasuh muka dan tangannya dengan air itu, kemudian mengembalikannya ke mata air. Maka terpancarlah di sana mata air yang deras Abu Ali ragu-ragu apakah digunakan kata 'Munhamir' atau 'ghazir' untuk (arti deras). sehingga semua orang di sana dapat minum. Kemudian beliau bersabda: "Hai, Mu'adz! Tidak lama, jika umurmu panjang, nanti kamu akan melihat tempat ini penuh dengan taman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5947</td></tr><tr><td>Arabic No</td><td>706.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу аз-Зубайра аль-Макки о том, что Абу ат-Туфайль ‘Амир ибн Василя сообщил ему о том, что Му‘аз ибн Джабаль рассказывал ему: «В год (похода на) Табук мы выступили (из Медины) вместе с посланником Аллаха ﷺ который объ­единял молитвы (в пути) и совершал полуденную молитву вместе с послеполуденной, а закатную с вечерней. Однажды он отложил молитву, потом вышел (из своего шатра) и совершил полуденную молитву вместе с послеполуденной, а потом вошёл (в шатёр). Потом он (снова) вышел, совершил закатную молитву вместе с вечерней, а потом сказал: “Если захочет Аллах Всевышний, вы достигнете (находящегося в) Табуке источ­ника завтра, но не раньше того времени, когда будет уже светло, так пусть же тот из вас, кто подойдёт к этому источнику (первым), не прикасается к воде, пока (туда) не приду я!” Когда мы подошли к этому источнику, ока­залось, что нас опередили два человека, а из источника текло очень мало воды. Посланник Аллаха ﷺ спросил их: “Прикасались ли вы к этой воде?” Они сказали: “Да” и Пророк ﷺ отчитал их, сказав им то, что было угодно Аллаху. Потом (люди) стали понемногу зачёрпывать (оттуда воду) руками, пока (какое-то количество её) не набралось (в сосуде). Посланник Аллаха ﷺ омыл (этой водой) руки и лицо и вылил её в источник, из которого стало течь много воды (или:вода из него стала течь в изобилии), и (все) люди смогли напиться, после чего (Посланник Аллаха ﷺ) сказал: “О Му‘аз, если проживёшь ты достаточно долго, то увидишь здесь множество садов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5947</td></tr><tr><td>Arabic No</td><td>706.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 10</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:The Prophet (ﷺ) prayed while 'Aisha was lying between him and h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah menceritakan kepada kami [Al Laits] dari [Yazid] dari ['Irak] dari ['Urwah], bahwa ketika Nabi shallallahu 'alaihi wasallam sedang shalat, 'Aisyah berbaring antara beliau dengan arah kiblatnya, di atas tempat tidur yang digunakan untuk tidur keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>384</td></tr><tr><td>Reference</td><td>Book 8 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Урвы о том, что Пророк ﷺ молился, а ‘Аиша, да будет доволен ею Аллах, нередко лежала меж ним и киблой, на постели, на которой они спали
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>384</td></tr><tr><td>Reference</td><td>Book 8 Hadith 36</td></tr></tbody></table></div>
 

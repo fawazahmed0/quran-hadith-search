@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) was asked abo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Al Laits] dari [Ibnu 'Ajlan] dari [Amru bin Syu'aib] dari [Bapaknya] dari kakeknya [Abdullah bin Amru bin Al Ash] dari Rasulullah shallallahu 'alaihi wasallam, bahwasanya beliau pernah ditanya tentang kurma yang masih menggantung di pohon? Maka beliau menjawab: "Barangsiapa makan darinya karena kebutuhan, tidak menyembunyikan (buah yang lain), maka ia tidak berdosa. Barangsiapa keluar dari (kebun) tersebut dengan mengambil sesuatu darinya, maka ia harus mengganti dua kali lipat beserta hukuman tambahan. Barangsiapa mencuri sesuatu darinya setelah dikumpulkan dalam keranjang dan senilai tameng, maka baginya hukuman potong tangan. Dan barangsiapa mencuri sesuatu yang kurang dari nilai tersebut, maka harus mengganti dua kali lipat beserta hukuman tambahan." Abu Dawud berkata, "Al Jarin adalah keranjang kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 40 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах им и его отцом, что Посланника Аллаха ﷺ спросили о плодах, которые ещё на деревьях, и он сказал: «Кто съел нечто, потому что нуждался, но не набирал в одежду, того не подвергают никакому наказанию. А кто набрал в одежду, с того взимается штраф в размере удвоенной стоимости плодов, и его подвергают наказанию (бичеванию). Если же человек украл их после того, как они были положены в хранилище /джарин/, и стоимость этих плодов достигла стоимости щита, (преступнику) отрубают руку. А кто украл меньше, с того взимается штраф в размере удвоенной стоимости плодов, и его подвергают наказанию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 40 Hadith 40</td></tr></tbody></table></div>
 

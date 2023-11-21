@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Ibn Awn said: I asked about the meaning of intis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] berkata, telah menceritakan kepada kami [Bapakku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah] berkata, telah menceritakan kepada kami [Mu'adz bin Mu'adz] dengan makna yang sama. Ia berkata; telah menceritakan kepada kami [Ibnu Aun] ia berkata, "Aku pernah bertanya tentang pembelaan diri sebagaimana dalam firman Allah: '(Dan sesungguhnya orang-orang yang membela diri sesudah teraniaya, tidak ada satu dosapun terhadap mereka) ' -Qs. Asy Syura: 41-. Lalu [Ali bin Zaid bin Jud'an] menceritakan kepadaku dari [Ummu Muhammad], isteri bapaknya. Ibnu Aun berkata, "Orang-orang menyakini bahwa Ummu Muhammad pernah menemui [Ummul Mukminin] ('Aisyah), ia berkata, "Ummul Mukminin menerangkan, "Rasulullah shallallahu 'alaihi wasallam pernah masuk menemui kami, sementara di sisi kami ada Zainab binti Jahsy. Beliau melakukan sesuatu dengan tangannya (memegang atau lainnya, mencumbu). Tetapi aku langsung memberi isyarat bahwa di sisi kami ada Zainab hingga beliau pun berhenti. Lalu Zainab masuk dan melabrak 'Aisyah dengan celaan, beliau lantas melerainya namun Zainab menolak. Rasulullah lantas berkata kepada 'Aisyah: "Silahkan engkau ganti mencelanya." 'Aisyah pun ganti mencelanya hingga membuat Zainab diam. Zainab kemudian pergi menemui Ali radliallahu 'anhu. Ia mengatakan, "Sesungguhnya 'Aisyah telah mencela kalian (bani Hasyim) -dan Zainab juga dari bani Hasyim-." Fatimah lalu mendatangi Nabi shallallahu 'alaihi wasallam untuk menyampaikan pesan Zainab, beliau pun berkata kepadanya: "Demi Rabb pemilik Ka'bah, sesungguhnya 'Aisyah itu adalah kekasih bapakmu." Fatimah lalu pergi menemui bani Hasyim dan berkata, "Aku telah menyampaikan kepada bapakku begini dan begini, lalu beliau berkata kepadaku begini dan begini." Perawi berkata, "Ali radliallahu 'anhu kemudian mendatangi Nabi shallallahu 'alaihi wasallam membicarakan persoalan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4898</td></tr><tr><td>Arabic No</td><td>4898</td></tr><tr><td>Reference</td><td>Book 43 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4898</td></tr><tr><td>Arabic No</td><td>4898</td></tr><tr><td>Reference</td><td>Book 43 Hadith 126</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), l'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Abdul Malik bin Abu Sulaiman] dari [Atha'] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam berangkat dari Arafah, sementara Usamah membonceng di belakangnya. Usamah berkata, "Beliau terus melanjutkan perjalanan hingga sampai di Jam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3105</td></tr><tr><td>Arabic No</td><td>1286.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 310</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3105</td></tr><tr><td>Arabic No</td><td>1286.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 310</td></tr></tbody></table></div>
 

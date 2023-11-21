@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar said that the Messenger of Allah (ﷺ) used to deliver the sermon on F
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ubaidullah bin Umar Al Qawariri] dan [Abu Kamil Al Jahdari] semuanya dari [Khalid] - [Abu Kamil] berkata- telah menceritakan kepada kami [Khalid bin Harits] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] ia berkata; "Adalah Rasulullah shallallahu 'alaihi wasallam berkhutbah pada hari Jum'at dengan berdiri kemudian beliau duduk dan berdiri lagi." Ibnu Umar berkata; "Persis seperti yang dilakukan orang-orang pada hari ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1994</td></tr><tr><td>Arabic No</td><td>861</td></tr><tr><td>Reference</td><td>Book 7 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «(Сначала) Посланник Аллаха ﷺ читал хутбу стоя, потом присаживался, а потом (снова) вставал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1994</td></tr><tr><td>Arabic No</td><td>861</td></tr><tr><td>Reference</td><td>Book 7 Hadith 44</td></tr></tbody></table></div>
 

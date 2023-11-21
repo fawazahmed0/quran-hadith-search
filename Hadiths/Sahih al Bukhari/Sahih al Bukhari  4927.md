@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) used to move his tongue when the divine In
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Musa bin Abu Aisyah] -ia adalah seorang yang Tsiqqah- dari [Sa'id bin Jubair] dari [Ibnu Abbas radliallahu 'anhuma] ia berkata; Apabila turun wahyu, biasanya Nabi shallallahu 'alaihi wasallam menggerak-gerakkan lisannya. Sufyan menafsirkannya; Bahwa maksud beliau menggerak-gerakkan bibirnya adalah untuk menghafalnya. Maka Allah menurunkan firman-Nya, "LAA TUHARRIK BIHI LISAANAKA LITA'JALA BIHI (Janganlah kamu menggerak-gerakkkan lisanmu untuk segera menyudahinya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 65 Hadith 447</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Са‘ида ибн Джубейра от Ибн ‘Аббаса, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ двигал языком (и Суфьян продемонстрировал это), когда ему ниспосылалось откровение, желая запомнить его. И Аллах ниспослал: “Не шевели своим языком, повторяя его (Коран), чтобы поскорее запомнить”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 65 Hadith 447</td></tr></tbody></table></div>
 

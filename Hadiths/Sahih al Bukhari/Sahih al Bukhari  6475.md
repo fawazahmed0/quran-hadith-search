@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whoever believes in Allah an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Ibnu Syihab] dari [Abu Salamah] dari [Abu Hurairah] radliallahu 'anhu dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa beriman kepada Allah dan hari akhir hendaknya ia berkata baik atau diam, dan barangsiapa beriman kepada Allah dan hari Akhir, janganlah ia menyakiti tetangganya, dan barang siapa beriaman kepada Allah dan hari Akhir, hendaknya ia memuliakan tamunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6475</td></tr><tr><td>Arabic No</td><td>6475</td></tr><tr><td>Reference</td><td>Book 81 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра (да будет доволен им Аллах) передал, что Посланник Аллаха ﷺ сказал: «Тот, кто верует в Аллаха и в Последний день, пусть говорит благое или молчит! Тот, кто верует в Аллаха и в Последний день, пусть не причиняет вред своему соседу! Тот, кто верует в Аллаха и в Последний день, пусть проявляет почтение к своему гостю!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6475</td></tr><tr><td>Arabic No</td><td>6475</td></tr><tr><td>Reference</td><td>Book 81 Hadith 64</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar b Abu Salama reported that he asked the Messenger of Allah (ﷺ):Should one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al 'Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru, anak Al Harits] dari [Abdu Rabbihi bin Sa'id] dari [Abdullah bin Ka'b Al Himyari] dari [Umar bin Abu Salamah] bahwa ia pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam, bahwa apakah beliau pernah mencium isterinya saat berpuasa. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Tanyakanlah perkara ini kepada Ummu Salamah." Maka Ummu Salamah pun mengabarkan kepadanya bahwasanya Rasulullah shallallahu 'alaihi wasallam melakukan hal itu. Kemudian Umar bertanya lagi, "Wahai Rasulullah, Allah telah mengampuni dosa-dosamu yang telah lalu dan juga yang akan datang." Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Demi Allah, aku adalah orang yang paling bertakwa dan paling takut kepada Allah di antara kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2588</td></tr><tr><td>Arabic No</td><td>1108</td></tr><tr><td>Reference</td><td>Book 13 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2588</td></tr><tr><td>Arabic No</td><td>1108</td></tr><tr><td>Reference</td><td>Book 13 Hadith 94</td></tr></tbody></table></div>
 

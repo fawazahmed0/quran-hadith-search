@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Malik:The statement of Umar bin Al Khattab “Those which are in separa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Maslamah], ia berkata; [Malik] berkata; dan perkataan Umar bin Al Khathab radliallahu 'anhu; tidak digabungkan antara kambing yang terpisah, dan tidak dipisahkan antara kambing yang digabungkan, artinya bahwa setiap orang memiliki empat puluh kambing, kemudian apabila petugas zakat telah datang kepada mereka maka mereka menggabungkankannya agar mereka hanya mengeluarkan zakat satu ekor kambing. Dan tidak dipisahkan antara kambing yang digabungkan, bahwa dua orang yang menggabungkan kambing milik mereka apabila setiap mereka memiliki seratus satu ekor kambing maka kewajiban mereka berdua adalah zakat tiga ekor kambing. Kemudian apabila petugas zakat telah datang kepada mereka maka mereka memisahkan kambing mereka sehingga setiap orang hanya berkewajiban membayar zakat satu ekor kambing. Inilah yang aku dengar mengenai hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 9 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Малик (ибн Анас) сказал о словах ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, из которых следует, что нельзя объединять раздельное имущество и разделять объединённое: «Это когда у каждого человека есть по сорок овец и перед приходом сборщика закята они объединяют свои стада, чтобы отдать в качестве закята только одну овцу. Что же касается разделения, то это когда у двух человек есть объединённое стадо из двухсот овец, причём каждому из них принадлежит по сто овец. С этого стада они должны отдать трёх овец. Но перед приходом сборщика закята они разделяют свои стада, и получается, что каждый из них должен отдать по одной овце. Вот что я слышал об этом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 9 Hadith 16</td></tr></tbody></table></div>
 

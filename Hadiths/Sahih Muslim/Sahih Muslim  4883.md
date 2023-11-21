@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of 'Amr b. al-'As that the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zakaria bin Yahya bin Shalih Al Mishri] telah menceritakan kepada kami [Al Mufadlal] -yaitu Ibnu Fadlalah- dari ['Ayyasy] -yaitu Ibnu 'Ayyasy Al Qitbani- dari [Abdullah bin Yazid Abu Abdurrahman Al Hubuli] dari [Abdullah bin 'Amru bin 'Ash], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang yang mati syahid akan diampuni segala dosa-dosanya kecuali hutang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4883</td></tr><tr><td>Arabic No</td><td>1886.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4883</td></tr><tr><td>Arabic No</td><td>1886.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 179</td></tr></tbody></table></div>
 

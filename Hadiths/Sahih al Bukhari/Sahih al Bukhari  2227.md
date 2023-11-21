@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah says, 'I will be against thr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Bisyir bin Marhum] telah menceritakan kepada kami [Yahya bin Sulaim] dari [Isma'il bin Umayyah] dari [Sa'id bin Abi Sa'id] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Allah Ta'ala berfirman: Ada tiga jenis orang yang Aku menjadi musuh mereka pada hari qiyamat, seseorang yang bersumpah atas namaku lalu mengingkarinya, seseorang yang menjual orang yang telah merdeka lalu memakan (uang dari) harganya dan seseorang yang memperkerjakan pekerja kemudian pekerja itu menyelesaikan pekerjaannya namun tidak dibayar upahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2227</td></tr><tr><td>Arabic No</td><td>2227</td></tr><tr><td>Reference</td><td>Book 34 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Аллах сказал: “В День воскресения Я буду противником троим: человеку, (пообещавшему) Моим (именем), а потом поступившему вероломно, и человеку, продавшему (в рабство) свободного и проевшему (полученные) за него деньги, и человеку, нанявшему работника, потребовавшему от него выполнения всего сполна, но не заплатившему ему того, что он заработал”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2227</td></tr><tr><td>Arabic No</td><td>2227</td></tr><tr><td>Reference</td><td>Book 34 Hadith 174</td></tr></tbody></table></div>
 

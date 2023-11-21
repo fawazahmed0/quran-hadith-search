@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu al-Waddak said:A youth from the Quraish passed in front of Abu Sa’id al-Kh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] telah menceritakan kepada kami [Mujalid] telah menceritakan kepada kami [Abu Al Waddak] dia berkata; "Seorang pemuda Quraisy lewat di hadapan Abu Sa'id Al Khudri yang sedang melaksanakan shalat, kemudian Abu Sa'id mencegahnya (supaya tidak lewat di hadapannya), namun pemuda tersebut mengulanginya lagi, Abu Sa'id tetap mencegahnya dan peristiwa itu berulang-ulang hingga tiga kali, ketika [Abu Sa'id] telah selesai dia berkata; "Sesungguhnya tidak ada sesuatu yang dapat memutuskan shalat, akan tetapi Rasulullah shallallahu 'alaihi wasallam bersabda: "Cegahlah semampu kalian, karena ia adalah syetan." Abu Daud mengatakan; "Apabila ada dua hadits dari Rasulullah shallallahu 'alaihi wasallam yang bertentangan, maka di lihat hadits yang di amalkan oleh sahabat setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 2 Hadith 330</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абуль-Уаддак сказал: «Один юноша из числа курайшитов (постарался) пройти перед Абу Са‘идом аль-Худри, когда тот совершал молитву, но он оттолкнул его. Затем он попытался снова пройти, но он опять оттолкнул его и (так повторилось) три раза. Закончив молитву (Абу Са‘ид) сказал: “Поистине, ничто не может прервать молитву, однако Посланник Аллаха ﷺ сказал: “Оттолкните (того, кто проходит перед вами) как сможете, ибо это шайтан”».Абу Дауд сказал: «Если от Посланника Аллаха ﷺ передаётся два сообщения противоречащих друг другу, то следует посмотреть, как поступали его сподвижники после него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 2 Hadith 330</td></tr></tbody></table></div>
 

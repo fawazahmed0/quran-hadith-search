@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd ibn AbuWaqqas: (The narrator Qutaibah said: This tradition has bee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Al Walid Ath Thayalisi], serta [Qutaibah bin Sa'id] serta [Yazid bin Khalid bin Mauhib Ar Ramli] secara makna bahwa [Al Laits] telah menceritakan kepada mereka dari [Abdullah bin Abu Mulaikah] dari [Abdullah bin Abu Nuhaik] dari [Sa'd bin Abu Waqqash]. [Yazid] berkata dari [Ibnu Mulaikah] dari [Sa'id? bin Abu Sa'id], Qutaibah berkata; dalam catatanku adalah dari Sa'id? bin Abu Sa'id, ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Bukan dari golongan Kami orang yang tidak memperindah bacaan Al Qur'an." Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Sufyan bin 'Uyainah] dari ['Amr] dari [Ibnu Abu Mulaikah] dari ['Ubaidullah bin Abu Nuhaik] dari [Sa'd], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam berkata seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1469</td></tr><tr><td>Arabic No</td><td>1469</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Са‘да ибн Абу Ваккаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не относится к нам тот, кто не читает Коран нараспев»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1469</td></tr><tr><td>Arabic No</td><td>1469</td></tr><tr><td>Reference</td><td>Book 8 Hadith 54</td></tr></tbody></table></div>
 

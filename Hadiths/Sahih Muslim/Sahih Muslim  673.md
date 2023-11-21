@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Kuraib, Ibn al-Mubarak, Ibn Abu Za'ida all of them narrated from Amr b. Maim
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>289.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В некоторых версиях этого хадиса говорится, что Посланник Аллаха ﷺ (сам) стирал следы спермы, а других версиях говорится, что ‘Аиша сказал: «Я стирала (следы спермы) с одежды Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>289.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 139</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibrahim b. Suwaid-reported:'Alqama led us in the noon prayer and be offered five
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ibnu Idris] dari [al-Hasan bin Ubaidullah] dari [Ibrahim] dari [Alqamah] bahwasanya dia shalat mengimami mereka lima rakaat. --Lewat jalur periwayatan lain-- telah menceritakan kepada kami [Utsman bin Abi Syaibah] dan lafazh tersebut adalah miliknya, telah menceritakan kepada kami [Jarir] dari [al-Hasan bin Ubaidullah] dari [Ibrahim bin Suwaid] dia berkata, "[Alqamah] shalat Zhuhur mengimami kami lima rakaat, ketika dia mengucapkan salam, maka suatu kaum berkata, 'Wahai Abu Syibl, kamu telah melakukan shalat lima rakaat!.' Dia menjawab, 'Tidak demikian, aku tidak melakukannya.' Mereka berkata, 'Ya, kamu telah melakukannya.' Perawi berkata, 'Aku berada di sujud suatu kaum, dan aku ketika itu masih kecil. Aku berkata, 'Ya kamu telah shalat lima rakaat.' Dia berkata kepadaku, 'Dan kamu juga mengatakan demikian wahai A'war? ' Aku menjawab, 'Ya.' Lalu dia berpaling, lalu bersujud dua kali, kemudian mengucapkan salam. Kemudian dia berkata, ['Abdullah] berkata, 'Rasulullah Shallallahu'alaihiwasallam shalat mengimami kami lima rakaat. Ketika beliau berpaling maka kaum tersebut menggumam di antara mereka, maka beliau bertanya, 'Ada apa dengan kalian? ' Mereka menjawab, 'Wahai Rasulullah, apakah rakaat dalam shalat ditambahkan? ' Beliau menjawab, 'Tidak.' Mereka berkata, 'Sesungguhnya kamu telah melakukan shalat lima rakaat.' Lalu beliau berpaling kemudian sujud dua kali, kemudian mengucapkan salam. Kemudian beliau bersabda, 'Aku hanyalah manusia biasa yang bisa lupa sebagaimana kalian juga bisa lupa.' Ibnu Numair menambahkan dalam hadisnya, 'Apabila salah seorang dari kalian lupa, hendaklah dia bersujud dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1283</td></tr><tr><td>Arabic No</td><td>572.10</td></tr><tr><td>Reference</td><td>Book 5 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибрахим ибн Сувайд сказал: «(Однажды) во время полуденной молитвы /зухр/ ‘Алькама совершил с нами пять рак‘атов. Когда он произнёс слова таслима, люди сказали: “О Абу Шибль! Ты совершил пять рак‘атов”. Он ответил: “Нет, я этого не делал”. Они сказали: “Да, (ты сделал это)”. Я же тогда был ещё мальчиком и сидел в углу с людьми. Я сказал: “Да, ты (действительно) совершил пять (рак‘атов)”. Он сказал: “О одноглазый, ты говоришь то же самое?” Я ответил: “Да”. Тогда он повернулся (в сторону киблы), совершил два земных поклона и произнёс слова таслима, после чего сказал: “‘Абдуллах сказал: ⟨Однажды Посланник Аллаха ﷺ совершил с нами пять рак‘атов (вместо четырёх), а после того, как он закончил молитву, люди начали перешёптываться. (Заметив это,) Посланник Аллаха ﷺ, спросил: ‹Что с вами случилось?› Они сказали: ‹О Посланник Аллаха, молитва стала длиннее?› Он ответил: ‹Нет›. Они сказали: ‹Но ведь ты совершил пять рак‘атов›. Тогда (Посланник Аллаха ﷺ) повернулся (в сторону киблы), совершил два земных поклона и произнёс слова таслима, после чего сказал: ‹Поистине, я тоже человек и забываю подобно вам›⟩”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1283</td></tr><tr><td>Arabic No</td><td>572.10</td></tr><tr><td>Reference</td><td>Book 5 Hadith 121</td></tr></tbody></table></div>
 

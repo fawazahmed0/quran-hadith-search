@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) used to go to the Mosque of Quba (sometimes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] berkata, telah menceritakan kepada saya [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata: "Rasulullah shallallahu 'alaihi wasallam pernah mengunjungi masjid Quba' dengan berkendaraan ataupun berjalan kaki". Dan [Ibnu Numair] menambahkan, telah menceritakan kepada kami ['Ubaidullah] dari [Nafi']: "Maka Beliau mengerjakan shalat dua raka'at didalamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1194</td></tr><tr><td>Arabic No</td><td>1194</td></tr><tr><td>Reference</td><td>Book 20 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ ходил в мечеть “Куба” (иногда) верхом, (иногда) пешком». Нафи‘ добавил: «И совершал там два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1194</td></tr><tr><td>Arabic No</td><td>1194</td></tr><tr><td>Reference</td><td>Book 20 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas: The Prophet (ﷺ) said: "I was shown the Hell-fire and that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Zaid bin Aslam] dari ['Atho' bin Yasar] dari [Ibnu 'Abbas] berkata, Nabi shallallahu 'alaihi wasallam bersabda: "Aku diperlihatkan neraka, ternyata kebanyakan penghuninya adalah wanita. Karena mereka sering mengingkari". Ditanyakan: "Apakah mereka mengingkari Allah?" Beliau bersabda: "Mereka mengingkari pemberian suami, mengingkari kebaikan. Seandainya kamu berbuat baik terhadap seseorang dari mereka sepanjang masa, lalu dia melihat satu saja kejelekan darimu maka dia akan berkata: 'aku belum pernah melihat kebaikan sedikitpun darimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 2 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Однажды Пророк ﷺ сказал: “Мне был показан ад, и оказалось, что большинство из его обитателей — женщины, проявлявшие неблагодарность”. Его спросили: “Они не веровали в Аллаха?” Он ответил: “Они проявляли неблагодарность по отношению к своим мужьям и не благодарили за благодеяния (, которые им оказывали). Если ты долго будешь делать добро какой-нибудь (из таких женщин), а потом она увидит от тебя нечто (такое, что ей не понравится), то (обязательно) скажет: “Я никогда не видела от тебя ничего хорошего!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 2 Hadith 22</td></tr></tbody></table></div>
 

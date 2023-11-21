@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mughira b. Shu'ba wrote to Mu'awiya:When the Messenger of Allah (ﷺ) finished t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Musayyab bin Rafi'] dari [Warrad] mantan budak Mughirah bin Syu'bah, dia berkata; [Mughirah bin Syu'bah] pernah berkirim surat kepada Muawiyah, bahwa apabila Rasulullah shallallahu 'alaihi wasallam selesai shalat dan mengucapkan salam, beliau memanjatkan doa: "LAA ILAAHA ILLALLAAH WAHDAHU LAA SYARIIKA LAH, LAHUL MULKU WALAHUL HAMDU WAHUWA 'ALAA KULLI SYAI'IN QADIIR, ALLAAHUMMA LAA MAANI'A LIMAA A'THAITA WALAA MU'THIYA LIMAA MANA'TA WALAA YANFA'U DZAL JADDI MINKAL JADD (Tiada sesembahan selain Allah semata yang tiada sekutu bagi-Nya, milik-Nyalah segala kerajaan dan milik-Nyalah segala pujian, dan Dia Maha kuasa atas segala sesuatu. Ya Allah, tiada yang bisa menghalangi apa yang Engkau berikan, dan tidak ada yang bisa memberi apa yang Engkau cegah, dan tidak bermanfaat pemilik kekayaan, dan dari-Mulah segala kekayaan)." Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] dan [Ahmad bin Sinan] mereka berkata; telah menceritakan kepada kami [Abu Muawiyah] dari [Al A'masy] dari [Musayyab bin Rafi'] dari [Warrad] mantan budak Mughirah bin Syu'bah dari [Al Mughirah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas. Abu Bakr dan Abu Kuraib berkata dalam riwayatnya; "Lalu Mughirah mendiktekannya kepadaku dan aku tulis untuk Muawiyah." Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibn Juraij] telah mengabarkan kepadaku [Abdah bin Abu Lubabah], bahwa [Warrad] mantan budak Mughirah bin Syu'bah mengatakan; [Mughirah bin Syu'bah] berkirim surat kepada Mu'awiyah. Yang menulis surat tersebut adalah Warrad, (bunyinya) aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam seusai mengucapkan salam mengucapkan… seperti hadis keduanya, hanya ia tidak menyebutkan sabdanya "WAHUWA 'ALAA KULLI SYAI'IN QADIIR. Dan telah menceritakan kepada kami [Hamid bin Umar Al Bakrawi] telah menceritakan kepada kami [Bisyr yaitu Ibnu Mufadldlal] katanya, (Diriwayatkan dari jalur lain) telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Azhar], semuanya dari [Ibnu 'Aun] dari [Abu Sa'id] dari [Warrad] sekretaris Mughirah bin Syu'bah, katanya; Muawiyah berkirim surat kepada [Mughirah] … seperti hadis Manshur dan Al A'masy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1338</td></tr><tr><td>Arabic No</td><td>593.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Варрад, вольноотпущенник аль-Мугыры ибн Шу‘бы, сказал: «(В своё время) аль-Мугыра ибн Шу‘ба написал Му‘авие письмо, (в котором сообщалось, что) после завершения (обязательной) молитвы и произнесения слов таслима, Посланник Аллаха ﷺ обычно говорил: “Нет божества, достойного поклонения, кроме Аллаха, у Которого нет сотоварища. Ему принадлежит владычество, Ему хвала, и Он всё может! О Аллах, никто не лишит того, что Ты даровал, и никто не дарует того, чего Ты лишил, и бесполезным перед Тобой окажется богатство обладающего богатством” /Ля иляха илля Ллаху вахдаху ля шарикя ля-ху, ля-ху ль-мульку, ва ля-ху ль-хамду ва хува ‘аля кулли шайъин кадир! Аллахумма, ля мани’а ли-ма а’тайта, ва ля му’тыйа лима мана’та ва ля йанфа’у за-ль-джадди мин-кя ль-джадд/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1338</td></tr><tr><td>Arabic No</td><td>593.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 175</td></tr></tbody></table></div>
 

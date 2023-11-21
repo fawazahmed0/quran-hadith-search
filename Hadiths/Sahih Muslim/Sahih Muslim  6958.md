@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir reported:Allah is more pleased with the repentance of a believi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Abu Yunus] dari [Simak] dia berkata; [An Nu'man bin Basyir] berkhuthbah, maka dia berkata; Sungguh kegembiraan Allah karena taubatnya hamba-Nya melebihi kegembiraan salah seorang dari kalian yang pada suatu ketika dia membawa perbekalan dan minumannya di atas unta lalu dia berjalan di padang pasir yang luas. kemudian dia beristirahat sejenak dan tidur di bawah pohon. Tiba-tiba untanya lepas, dia pun mencarinya ke perbukitan, namun dia tidak melihat sesuatu sama sekali, kemudian ia mencari lagi di perbukitan yang lain, namun juga tidak melihatnya, ia pun naik lagi keperbukitan yang lain, tapi tetap tidak menemukan sesuatupun. Akhirnya dia kembali ke tempat istirahatnya. Tatkala dia sedang duduk, tiba-tiba untanya datang kepadanya seraya menyerahkan tali kekangnya ke tangannya. Maka sungguh kegembiraan Allah dengan taubatnya seorang hambanya melebihi kegembiraan orang ini ketika dia mendapatkan untanya kembali dalam keadaan seperti semula. [Simak] berkata; [Sya'bi] mengira bahwa Nu'man telah menyandarkan Hadits ini kepada Nabi shallallahu 'alaihi wasallam, adapun saya belum pernah mendengarnya demikian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6958</td></tr><tr><td>Arabic No</td><td>2745</td></tr><tr><td>Reference</td><td>Book 50 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6958</td></tr><tr><td>Arabic No</td><td>2745</td></tr><tr><td>Reference</td><td>Book 50 Hadith 7</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported:On the day of Hunain, the Messenger of Allah (ﷺ) showed pref
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] -Ishaq berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari [Abdullah] ia berkata; Pada perang Hunain, Rasulullah shallallahu 'alaihi wasallam lebih berpihak kepada sebagian orang dalam pembagiannya. Beliau memberikan Al Aqra' bin Habis sebanyak seratus ekor unta, dan memberikan Uyainah juga sebanyak itu. Lalu beliau membagikan kepada para pembesar Arab dan melebihkan bagian mereka. Maka berkatalah seorang laki-laki, "Demi Allah, ini adalah pembagian yang tidak adil dan tidak mengharapkan wajah Allah." Maka aku pun berkata, "Demi Allah, aku benar-benar akan menyampaikannya kepada Rasulullah shallallahu 'alaihi wasallam." Kemudian aku segera mendatangi beliau dan mengabarkan apa yang telah dikatakan orang itu, maka berubahlah raut wajah beliau hingga seperti cat merah. Setelah itu, beliau bersabda: "Kalau begitu, lantas siapa lagi yang akan berlaku adil, jika Allah dan Rasul-Nya saja (dikatakan) tidak berlaku adil?" Kemudian beliau bersabda lagi: "Semoga Allah merahmati Musa, sungguh, ia telah disakiti lebih dari ini lalu ia bersabar." Aku berkata; "Tidak ada dosa, jika setelahnya aku tidak lagi memberitakan sesuatu (yang membuatnya) marah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2447</td></tr><tr><td>Arabic No</td><td>1062.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «В день (битвы при) Хунайне при разделе (военной добычи), Посланник Аллаха ﷺ отдал предпочтение некоторым людям. Так, он дал аль-Акра‘у ибн Хабису сто верблюдов, и столько же дал ‘Уйейне, (и щедро) оделил некоторых знатных арабов, отдав им в тот день предпочтение (перед другими. Увидев это,) один человек воскликнул: “Клянусь Аллахом, нет справедливости в таком разделе и не ради Аллаха это было сделано!” Тогда я сказал: “Клянусь Аллахом, я обязательно сообщу об этом Посланнику Аллаху ﷺ!” после чего пришёл к нему и передал (ему слова этого человека. (Выслушав меня, он разгневался так, что) его лицо изменилось, после чего он воскликнул: “А кто же тогда справедлив, если несправедливы Аллах и посланник Его?! Да помилует Аллах (пророка) Мусу, который подвергался ещё большим обидам, но терпел!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2447</td></tr><tr><td>Arabic No</td><td>1062.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 184</td></tr></tbody></table></div>
 

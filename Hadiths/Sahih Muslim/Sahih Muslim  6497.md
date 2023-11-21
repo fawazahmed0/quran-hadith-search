@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:If the din were at the Pl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] dan ['Abad bin Humaid] keduanya berkata; ['Abad] Telah mengabarkan kepada kami dan berkata [Ibnu Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Ja'far Al Jazari] dari [Yazid bin Al Asham] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Seandainya agama ini berada di tempat bintang-bintang di langit, tentu seorang laki-laki dari Persia -atau beliau bersabda: 'dari generasi Persia, - akan menuju ketempat bintang-bintang itu hingga ia mencapainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6497</td></tr><tr><td>Arabic No</td><td>2546.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 326</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6497</td></tr><tr><td>Arabic No</td><td>2546.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 326</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muhammad bin Abd Allah bin Numayr and Zuhayr bin Harb narrated to me, they said 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Abdullah bin Yazid] dia berkata, telah menceritakan kepadaku [Sa'id bin Abu Ayyub] dia berkata, telah menceritakan kepadaku [Abu Hani'] dari [Abu Utsman Muslim bin Yasar] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, bahwasanya beliau bersabda: "Akan ada orang-orang pada akhir umatku menceritakan sebuah hadits kepada kalian yang mana kalian belum pernah mendengarnya dan tidak pula bapak kalian. Maka kalian jauhilah dan mereka jauhilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>15</td></tr><tr><td>Reference</td><td>Book 0 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «В последние времена в моей общине появятся люди, которые будут рассказывать вам то, чего прежде не слышали ни вы, ни ваши отцы. Остерегайтесь же их!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>15</td></tr><tr><td>Reference</td><td>Book 0 Hadith 15</td></tr></tbody></table></div>
 

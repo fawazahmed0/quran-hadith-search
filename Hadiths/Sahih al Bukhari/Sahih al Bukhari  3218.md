@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) asked Gabriel, "Why don't you visit 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3218</td></tr><tr><td>Arabic No</td><td>3218</td></tr><tr><td>Reference</td><td>Book 59 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал:\n— (Однажды) Посланник Аллаха ﷺ спросил Джибрила: «Почему бы тебе не посещать нас чаще, чем ты делаешь это (сейчас)?» — после чего был ниспослан (аят, в котором говорится): «Скажи: “Мы нисходим только по велению Господа твоего. Ему принадлежит и то, что перед нами, и то, что позади нас, и то, что между этим, и (ничего) не забывает Господь твой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3218</td></tr><tr><td>Arabic No</td><td>3218</td></tr><tr><td>Reference</td><td>Book 59 Hadith 29</td></tr></tbody></table></div>
 

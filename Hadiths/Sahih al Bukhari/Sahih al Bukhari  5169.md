@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) manumitted Safiyya and then married her, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Abdul Warits] dari [Syu'aib] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam membebaskan Shafiyya lalu beliau menikahinya, dan beliau menjadikan pembebasannya itu sebagai maharnya. Kemudian beliau mengadakan walimah dengan Hais (sejenis makanan dengan bahan kurma, tepung dan samin)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5169</td></tr><tr><td>Arabic No</td><td>5169</td></tr><tr><td>Reference</td><td>Book 67 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал, что Пророк ﷺ освободил Сафию и женился на ней, и сделал освобождение её брачным даром, а свадебным угощением /валима/ был «хайс»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5169</td></tr><tr><td>Arabic No</td><td>5169</td></tr><tr><td>Reference</td><td>Book 67 Hadith 104</td></tr></tbody></table></div>
 

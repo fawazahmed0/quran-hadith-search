@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit bin Ad-Dahhak:The Prophet (ﷺ) said, "Whoever swears by a relig
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Tsabit bin Adl Dlahak] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa bersumpah dengan selain agama Islam secara dusta, maka dia seperti apa yang dia katakan, barangsiapa bunuh diri dengan sesuatu di dunia, maka dia akan disiksa di neraka Jahannam dengan sesuatu yang ia pergunakan untuk bunuh diri, barangsiapa melaknat seorang muslim maka ia seperti membunuhnya dan barangsiapa menuduh seorang muslim dengan kekafiran maka ia seperti membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6105</td></tr><tr><td>Arabic No</td><td>6105</td></tr><tr><td>Reference</td><td>Book 78 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сабита ибн ад-Даххака, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если кто-нибудь намеренно даст ложную клятву, поклявшись не исламом, а какой-нибудь другой религией, значит, он и (в самом деле) является таким, как (он сам себя) назвал, а если кто-нибудь лишит себя жизни с помощью чего-нибудь, то его будут мучить этим в пламени геенны, проклинание верующего подобно его убийству, и кто обвинил верующего в неверии, то он как-будто его убил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6105</td></tr><tr><td>Arabic No</td><td>6105</td></tr><tr><td>Reference</td><td>Book 78 Hadith 132</td></tr></tbody></table></div>
 

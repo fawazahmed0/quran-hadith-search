@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:Allah's Messenger (ﷺ) said, "Plague was a means of tor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah bercerita kepadaku [Malik] dari [Muhammad bin Al Munkadir] dan dari [Abu an-Nadlar, maula 'Umar bin 'Ubaidullah] dari ['Amir bin Sa'ad bin Abu Waqash] dari bapaknya bahwa dia ('Amir) mendengar bapaknya bertanya kepada Usamah binZaid; "Apa yag pernah kamu dengar dari Rasulullah shallallahu 'alaihi wasallam tentang masalah tha'un (wabah penyakit sampar, pes, lepra)?". Maka [Usamah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tha'un adalah sejenis kotoran (siksa) yang dikirim kepada satu golongan dari Bani Isra'il atau kepada umat sebelum kalian. Maka itu jika kalian mendengar ada wabah tersebut di suatu wilayah janganlah kalian memasuki wilayah tersebut dan jika kalian sedang berada di wilayah yang terkena wabah tersebut janganlah kalian mengungsi darinya". Abu an-Nadlar berkata; "Janganlah kalian mengungsi darinya kecuali untuk menyelematkan diri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3473</td></tr><tr><td>Arabic No</td><td>3473</td></tr><tr><td>Reference</td><td>Book 60 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Усаму ибн Зейда, да будет доволен Аллах ими обоими, спросили: «Что ты слышал от Посланника Аллаха ﷺ о чуме?» Усама ответил: «Посланник Аллаха ﷺ сказал: “Чума есть скверна, и она была послана (как наказание) группе (людей из числа) израильтян (или: жившим до вас), и если вы услышите, что она разразилась в какой-нибудь земле, не ездите туда, если же она начнётся там, где вы будете находиться, не покидайте (эту землю в попытке) убежать от неё”».\n(В той версии этого хадиса, которую приводит) Абу-н-Надр (сообщается, что Пророк ﷺ) сказал: «И пусть не заставляет вас (покидать эту землю стремление) убежать от (болезни)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3473</td></tr><tr><td>Arabic No</td><td>3473</td></tr><tr><td>Reference</td><td>Book 60 Hadith 140</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "The month is like this and this," (a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari [Jabalah bin Sujaim] berkata, aku mendengar [Ibnu'Umar radliallahu 'anhuma] berkata,, Nabi shallallahu 'alaihi wasallam bersabda: "Bulan itu begini begini". Lalu Beliau mengepalkan ibu jari tangannya saat menyebutkan hitungan yang ketiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1908</td></tr><tr><td>Arabic No</td><td>1908</td></tr><tr><td>Reference</td><td>Book 30 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Месяц может быть и таким, и таким», — (при этом он трижды показал пальцы обеих рук) и в третий раз согнул большой палец, (имея в виду, что иногда он состоит из двадцати девяти, а иногда — из тридцати дней)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1908</td></tr><tr><td>Arabic No</td><td>1908</td></tr><tr><td>Reference</td><td>Book 30 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:While we were in the company of the Ibn Al-Musaiyab, Sunain Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam] dari [Ma'mar] dari [Az Zuhri] dari [Sunain Abu Jamilah] katanya, Telah mengabarkan kepada kami yang ketika itu kami bersama Ibnul Musayyab, kata Sunain, dan Abu Jamilah berpendapat bahwa ia temui Nabi shallallahu 'alaihi wasallam dan ia berangkat bersama beliau ketika tahun penaklukan Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4301</td></tr><tr><td>Arabic No</td><td>4301</td></tr><tr><td>Reference</td><td>Book 64 Hadith 334</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал: «Когда мы были вместе с Ибн аль-Мусаййибом, Сунейн Абу Джамиля сообщил нам, что он застал живым Пророка ﷺ и отправился вместе с ним в год завоевания (Мекки)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4301</td></tr><tr><td>Arabic No</td><td>4301</td></tr><tr><td>Reference</td><td>Book 64 Hadith 334</td></tr></tbody></table></div>
 

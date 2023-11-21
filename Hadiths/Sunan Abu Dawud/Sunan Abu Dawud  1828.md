@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi' said Ibn ‘Umar felt cold and said Throw a garment over me, ‘Nafi. I th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musa bin Isma'il], telah menceritakan kepada Kami [Hammad] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] bahwa ia merasakan dingin, kemudian ia berkata; lemparkan kepadaku satu pakaian wahai Nafi'. Kemudian aku melemparkan kepadanya pakaian yang bertutup kepala. Lalu ia berkata; apakah engkau pakaian ini kepadaku? Sungguh Rasulullah shallAllahu wa'alaihi wa sallam telah melarang orang yang bermuhrim memakai pakaian tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1828</td></tr><tr><td>Arabic No</td><td>1828</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нафи‘ передаёт, что однажды Ибн ‘Умар, озябнув, сказал ему: «Нафи‘, набрось на меня какую-нибудь одежду». И тот набросил на него плащ-бурнус. Он же воскликнул: «Ты набрасываешь на меня это при том, что Посланник Аллаха ﷺ запретил надевать это паломнику, облачённому в ихрам?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1828</td></tr><tr><td>Arabic No</td><td>1828</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
 

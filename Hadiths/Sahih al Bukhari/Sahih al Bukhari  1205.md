@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik: While Abu Bakr was leading the people in the morning pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyir bin Muhammad] telah mengabarkan kepada kami ['Abdullah] berkata, [Yunus] berkata, [Az Zuhriy] telah mengabarkan kepada saya [Anas bin Malik Al Anshariy radliallahu 'anhu] bahwa; Ketika Kaum Muslimin sedang melaksanakan shalat Shubuh pada hari Senin yang dipimpin Abu Bakar radliallahu 'anhu, mereka dikejutkan oleh Nabi shallallahu 'alaihi wasallam yang menyingkap tabir kamar 'Aisyah radliallahu 'anha. Dari balik kamar itu Nabi shallallahu 'alaihi wasallam memandang mereka saat mereka berada dalam barisan shaf. Beliau tersenyum dan tertawa. Maka Abu Bakar berbalik untuk masuk kedalam barisan shaf karena menduga Nabi shallallahu 'alaihi wasallam akan keluar untuk shalat. Kaum Muslimin merasa terganggu dalam shalat mereka karena sangat gembiranya dapat melihat Nabi shallallahu 'alaihi wasallam. Ternyata Beliau shallallahu 'alaihi wasallam memberi isyarat dengan tangan Beliau agar mereka melanjutkan shalat. Kemudian Beliau masuk ke kamarnya dengan menutup tabir. Beliau shallallahu 'alaihi wasallam akhirnya wafat pada hari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 21 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, что однажды, когда Абу Бакр совершал с людьми утреннюю молитву в понедельник, неожиданно появился Пророк ﷺ он поднял занавеску с комнаты ‘Аиши, да будет доволен ею Аллах, посмотрел на них, когда они выстроились рядами и улыбнулся. Тогда Абу Бакр, да будет доволен им Аллах, стал отходить назад, чтобы встать в ряд, решив, что Пророк ﷺ хочет выйти на молитву. Мусульмане, увидев Пророка ﷺ были готовы прервать молитву, обрадовавшись ему. Однако он сделал им знак (означавший, что они должны) закончить молитву, после чего он зашел в комнату и опустил занавеску, и в тот же день он скончался
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 21 Hadith 9</td></tr></tbody></table></div>
 

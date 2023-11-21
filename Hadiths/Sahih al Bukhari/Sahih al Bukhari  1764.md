@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) offered the Zuhr, 'Asr, Maghrib and 'I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul Muta'al bin Tholib] telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepada saya ['Amru bin Al Harits] bahwa [Qatadah] menceritakan kepadanya bahwa [Anas bin Malik radliallahu 'anhu] menceritakan kepadanya bahwa Nabi shallallahu 'alaihi wasallam melaksanakan shalat Zhuhur, 'Ashar, Maghrib dan 'Isya' kemudian Beliau tidur sejenak di Al Muhashib (tempat melempar jumrah di Mina), lalu Beliau menunggang tunggangannya menuju ke Ka'bah Baitullah lalu thawaf disana
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1764</td></tr><tr><td>Arabic No</td><td>1764</td></tr><tr><td>Reference</td><td>Book 25 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса бин Малика, да будет доволен им Аллах, что Пророк ﷺ совершил полуденную /зухр/, послеполуденную /‘аср/, закатную /магъриб/ и вечернюю /‘иша/ молитвы, потом поспал некоторое время в Мухассабе, а потом верхом отправился к Каабе и совершил обход вокруг неё
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1764</td></tr><tr><td>Arabic No</td><td>1764</td></tr><tr><td>Reference</td><td>Book 25 Hadith 240</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Abu Bakr, on the day of Nahr (i.e. slaughtering of animals 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] telah mengabarkan kepada kami [Humaid bin 'Abdur Rahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata; "Abu Bakr mengutusku sebagai orang diantara orang-orang yang menyampaikan pengumuman pada hari Nahar (tanggal sepuluh Dzul Hijjah) di Mina, yang isinya; "Tidak boleh bagi orang musyrik melaksanakan hajji setelah tahun ini, tidak boleh mereka melakukan thawaf di Baitullah dalam keadaan telanjang dan hajji akbar adalah hari Nahar". Dan sesungguhnya disebut haji akbar karena adanya pernyataan orang-orang tentang hajji ashghar (kecil) maka Abu Bakr mengumumkan kepada manusia pada musim hajji tahun itu bahwa (hajji akbar) adalah saat orang-orang musyrik tidak berhaji pada haji wada' yang ketika itu Nabi shallallahu 'alaihi wasallam melaksanakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3177</td></tr><tr><td>Arabic No</td><td>3177</td></tr><tr><td>Reference</td><td>Book 58 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «В день жертвоприношения (йауму-н-нахр), когда мы были в Мине, Абу Бакр, да будет доволен им Аллах, отправил меня в числе других возвестить людям следующее: “Со следующего года многобожникам не будет дозволено совершать хадж, и никто не будет совершать обход Каабы обнажённым”. День великого хаджа (аль-хадж-уль-акбар) — это день жертвоприношения, он называется “великий”, потому что люди называют умру малым хаджем (аль-хадж-уль-асгар). Абу Бакр отменил (договор) с многобожниками в тот год, поэтому в год прощального хаджа Пророка ﷺ ни один многобожник не совершал хадж»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3177</td></tr><tr><td>Arabic No</td><td>3177</td></tr><tr><td>Reference</td><td>Book 58 Hadith 19</td></tr></tbody></table></div>
 

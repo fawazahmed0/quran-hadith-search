@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir bin ‘Abdullah :I sold it, that is, camel, to the Prophet (ﷺ),
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Zakaria] telah menceritakan kepada kami [Amir] dari [Jabir bin Abdullah] ia berkata, "Aku menjualnya -yaitu untanya- kepada Nabi shallallahu 'alaihi wasallam dan aku mensyaratkan untuk aku naiki hingga sampai kepada keluargaku. Pada akhirnya beliau bersabda: "Apakah kamu mengira aku menawarmu untuk membawa pergi untamu? Ambillah untamu dan uang penjualannya, keduanya untukmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2718) Sahih Muslim (715 After 1599)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3505</td></tr><tr><td>Arabic No</td><td>3505</td></tr><tr><td>Reference</td><td>Book 24 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, передаёт: «Я продал Пророку ﷺ верблюда с условием, что я доеду на нём до дома, а потом (по возвращении домой) Пророк ﷺ сказал: “Ты думаешь, я предоставил тебе отсрочку для того, чтобы потом забрать у тебя верблюда? Нет… Возьми своего верблюда и его цену всё это принадлежит тебе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2718) Sahih Muslim (715 After 1599)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3505</td></tr><tr><td>Arabic No</td><td>3505</td></tr><tr><td>Reference</td><td>Book 24 Hadith 90</td></tr></tbody></table></div>
 

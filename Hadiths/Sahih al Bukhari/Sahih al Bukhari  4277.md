@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) set out towards Hunain in the month 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ayyats bin Al Walid] Telah menceritakan kepada kami [Abdul A'la] Telah menceritakan kepada kami [Khalid] dari [Ikrimah] dari [Ibnu Abbas] katanya, Nabi shallallahu 'alaihi wasallam berangkat pada bulan Ramadhan menuju Hunain sedang para sahabat ketika itu terpecah menjadi dua kubu, kubu pertama berpuasa sedang kubu kedua tidak puasa. Ketika beliau sudah siap diatas hewan tunggangannya, beliau meminta sebaskom air dan beliau letakkan diatas untanya atau tempat peristirahatannya, kemudian beliau mencermati pasukannya, lalu para sahabat yang tidak puasa berkata kepada para sahabat yang puasa; "Batalkanlah puasa kalian! [Abdurrazaq] mengatakan, Telah mengabarkan kepada kami [Ma'mar] dari [Ayyub] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma, Nabi shallallahu 'alaihi wasallam berangkat di tahun penaklukan Makkah, sedang [Hammad bin Zaid] mengatakan dari [Ayyub] dari [Ikrimah] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4277</td></tr><tr><td>Arabic No</td><td>4277</td></tr><tr><td>Reference</td><td>Book 64 Hadith 311</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ выступил (из Мекки по направлению) к Хунайну в рамадане; что же касается людей, (которые шли вместе с ним,) то некоторые из них соблюдали пост, а некоторые не постились. Сев на свою верблюдицу, (Пророк ﷺ) велел принести себе сосуд с молоком (или: водой), который он поставил на ладонь (или: на свою верблюдицу), после чего посмотрел на людей, и тогда несоблюдавшие пост сказали постившимся: “Прекращайте поститься”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4277</td></tr><tr><td>Arabic No</td><td>4277</td></tr><tr><td>Reference</td><td>Book 64 Hadith 311</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported that the Messenger of Allah (ﷺ) used to observe Wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Isa bin Hammad Al Mishri] telah mengabarkan kepada kami [Al Laits] telah menceritakan kepadaku [Ibnu Al Had] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] bahwa ia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah melakukan witir diatas hewan tunggangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1617</td></tr><tr><td>Arabic No</td><td>700.08</td></tr><tr><td>Reference</td><td>Book 6 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «(Находясь в пути,) Посланник Аллаха ﷺ совершал витр сидя верхом на верблюде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1617</td></tr><tr><td>Arabic No</td><td>700.08</td></tr><tr><td>Reference</td><td>Book 6 Hadith 48</td></tr></tbody></table></div>
 

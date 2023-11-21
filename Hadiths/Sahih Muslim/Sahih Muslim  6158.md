@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported Allah's Messenger (ﷺ) as saying:I happened to pass by Moses as h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Ali bin Khasyram]; Telah mengabarkan kepada kami ['Isa] yaitu Ibnu Yunus; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Utsman bin Abu Syaibah]; Telah menceritakan kepada kami [Jarir] seluruhnya dari [Sulaiman At Taimi] dari [Anas]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdah bin Sulaiman] dari [Sufyan] dari [Sulaiman At Taimi] Aku mendengar [Anas] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku melawati Musa yang sedang shalat di dalam kuburannya. Sedangkan di dalam Hadits 'Isa dengan lafazh; 'Pada malam aku diisra'kan aku melewati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6158</td></tr><tr><td>Arabic No</td><td>2375.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 216</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6158</td></tr><tr><td>Arabic No</td><td>2375.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 216</td></tr></tbody></table></div>
 

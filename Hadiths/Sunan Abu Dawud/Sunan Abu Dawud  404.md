@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said the Messenger of Allah (ﷺ) used to say the 'Asr prayer when
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Anas bin Malik] dia memberitahukannya bahwa Rasulullah Shallallahu alaihi wasallam pernah melaksanakan shalat Ashar ketika matahari masih cerah dan tinggi serta belum berubah dari kecerahannya, setelah itu seseorang dapat pergi ke Awali dan balik lagi sementara matahari tetap masih di atas. Telah menceritakan kepada kami Al Hasan bin Ali telah menceritakan kepada kami Abdur Razzaq telah mengabarkan kepada kami Ma'mar dari Az Zuhri dia berkata; Awali jaraknya dari Madinah sekitar dua sampai tiga mil, -dia berkata- aku mengira dia juga mengatakan; Bahkan hingga empat mil. Telah menceritakan kepada kami Yusuf bin Musa telah menceritakan kepada kami Jarir, dari Manshur, dari Khaitsamah dia berkata; hayyaatuhaa maksudnya adalah masih dapat dirasakan panasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (621)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>404</td></tr><tr><td>Arabic No</td><td>404</td></tr><tr><td>Reference</td><td>Book 2 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Шихаба о том, что Анас ибн Малик рассказывал ему: «Посланник Аллаха ﷺ совершал послеполуденную молитву, когда солнце было белым, стояло высоко и было ещё ярким. И (если после этого) кто-нибудь отправлялся в ‘Авали, то он добирался до места, когда солнце всё ещё стояло высоко»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (621)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>404</td></tr><tr><td>Arabic No</td><td>404</td></tr><tr><td>Reference</td><td>Book 2 Hadith 14</td></tr></tbody></table></div>
 

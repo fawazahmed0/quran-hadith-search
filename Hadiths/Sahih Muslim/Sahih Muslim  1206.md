@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:The Messenger of Allah (ﷺ) sent me (on an errand) while he was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepadaku [Abu az-Zubair] dari [Jabir] dia berkata, "Rasulullah Shallallahu'alaihiwasallam mengutusku dalam keadaan beliau bertolak pergi ke bani al-Mushthaliq, lalu aku mendatanginya dalam keadaan beliau shalat di atas untanya. Lalu aku mengajaknya berbicara, lalu beliau berkata dengan memberikan isyarat tangannya demikian.' Dan Zuhair memberikan isyarat dengan tangannya, 'Kemudian aku mengajaknya berbicara, maka beliau berkata kepadaku demikian.' Zuhair juga memberikan isyarat dengan tangannya menunjuk bumi, 'Dan saya mendengarkannya membaca memberikan isyarat dengan kepalanya. Ketika beliau selesai, maka beliau bersabda, 'Apa yang telah kamu lakukan dalam misi yang karenanya aku mengutusmu? Karena tidak ada yang menghalangiku untuk mengajakmu bicara melainkan karena aku dalam keadaan shalat'." Zuhair dan Abu az-Zubair berkata, "Beliau duduk menghadap kiblat." Lalu Abu az-Zubair berkata dengan memberikan isyarat tangan, "Kepada Bani al-Mushthaliq", seraya dia berkata dengan isyarat tangannya, "Kepada selain ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1206</td></tr><tr><td>Arabic No</td><td>540.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир сказал: «Однажды Посланник Аллаха ﷺ послал меня с каким-то поручением, а сам отправился к бану аль-мусталяк. Когда я вернулся к нему, он молился, сидя верхом на своём верблюде, я заговорил с ним, и он сделал жест рукой, потом я снова заговорил с ним, и он ответил мне жестом, и при этом я слышал, как он читал и видел, как он кивает головой. Завершив молитву, (Посланник Аллаха ﷺ) сказал: “Сделал ли ты то, для чего я послал тебя? Мне помешало поговорить с тобой только то, что я совершал молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1206</td></tr><tr><td>Arabic No</td><td>540.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 46</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:that Allah's Messenger (ﷺ) informed them (i.e. his compan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [bapakku] dari [Shalih] dari [Ibnu Syihab] berkata, telah menceritakan kepadaku [Abu Salamah bin 'Abdurrahman] dan [Ibnu Al Musayyab] bahwa [Abu Hurairah] radliallahu 'anhu mengabarkan keduanya, bahwa Rasulullah shallallahu 'alaihi wasallam mengumumkan meninggalnya an Najasyi raja Habasyah pada hari meninggalnya dan bersabda: "Mohonkanlah ampunan untuk saudara kalian ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3880</td></tr><tr><td>Arabic No</td><td>3880</td></tr><tr><td>Reference</td><td>Book 63 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сообщил нам о кончине ан-Наджаши, царя Эфиопии, в день его смерти, и сказал: “Просите прощения для вашего брата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3880</td></tr><tr><td>Arabic No</td><td>3880</td></tr><tr><td>Reference</td><td>Book 63 Hadith 105</td></tr></tbody></table></div>
 

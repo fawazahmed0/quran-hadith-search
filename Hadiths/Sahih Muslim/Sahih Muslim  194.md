@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (may peace and blessing be upon him)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki'] dari [al-A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalian tidak akan masuk surga hingga kalian beriman, dan tidaklah kalian beriman hingga kalian saling menyayangi. Maukan kalian aku tunjukkan atas sesuatu yang mana apabila kalian mengerjakannya niscaya kalian akan saling menyayangi. Sebarkanlah salam di antara kalian." Dan telah menceritakan kepadaku [Zuhair bin Harb] telah memberitakan kepada kami [Jarir] dari [al-A'masy] dengan sanad ini. Dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada di tangan-Nya, kalian tidak akan masuk surga hingga kalian beriman, " sebagaimana hadits Abu Mu'awiyah dan Waki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>194</td></tr><tr><td>Arabic No</td><td>54.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Вы не войдёте в Рай, пока не уверуете, а не уверуете вы до тех пор, пока не станете любить друг друга, так не указать ли мне вам на то, что приведёт вас к взаимной любви, если вы будете делать это? Распространяйте между собой приветствие /салям/!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>194</td></tr><tr><td>Arabic No</td><td>54.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 101</td></tr></tbody></table></div>
 

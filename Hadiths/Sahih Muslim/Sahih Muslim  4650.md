@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated by Abdullah (b. Mas'ud) who said:When the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar] sedangkan lafadznya dari Ibnu Mutsanna keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata; aku mendengar [Abu Ishaq] menceritakan dari ['Amru bin Maimun] dari [Abdullah] dia berkata, "Pada suatu ketika Rasulullah shallallahu 'alaihi wasallam sedang sujud, sementara di sekitar beliau ada beberapa orang Quraisy, tiba-tiba 'Uqbah bin Abu Mu'th datang dengan membawa sekarung bekas sembilhan anak unta yang telah membusuk, lalu ia melemparnya tepat mengenai punggung Rasulullah shallallahu 'alaihi wasallam, karena itu beliau tidak mau mengangkat kepalanya. Setelah Fatimah datang, maka dia mengambil karung tersebut dari punggung beliau. Lantas beliau mendo'akan kebinasaan terhadap orang-orang yang telah melakukan perbuatan tersebut, beliau bersabda: "Ya Allah, binasakanlah orang-orang Quraisy; Abu Jahal bin Hisyam, 'Utbah bin Rabi'ah, 'Uqbah bin Abu Mu'ith, Syaibah bin Rabi'ah, Umayyah bin Khalaf dan Ubay bin Khalaf." Sungguh aku telah melihat dalam perang Badar, mereka semua binasa, lalu jasad mereka dilemparkan ke dalam sumur selain Umayah atau mungkin Ubay, karena persendiannya banyak yang putus, maka ia tidak dilemparkan ke dalam sumur." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ja'far bin 'Aun] telah mengabarkan kepada kami [Sufyan] dari [Abu Ishaq] dengan isnad seperti ini, dengan sedikit tambahan, "Apabila beliau berdo'a, beliau lebih suka mengulanginya sampai tiga kali, beliau bersabda: "Ya Allah, binasakanlah orang-orang Quraisy, Ya Allah, binasakanlah orang-orang Quraisy, Ya Allah, binasakanlah orang-orang Quraisy -hingga tiga kali-." Dan dia menyebutkan dalam hadits tersebut nama 'Al Walid bin 'Utbah dan Umayyah bin Khalaf - tanpa ada keragu-raguan-, Abu Ishaq berkata, "Dan aku lupa yang ketujuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4650</td></tr><tr><td>Arabic No</td><td>1794.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4650</td></tr><tr><td>Arabic No</td><td>1794.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 132</td></tr></tbody></table></div>
 

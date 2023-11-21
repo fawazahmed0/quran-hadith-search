@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that he heard the Messenger of Allah (ﷺ) saying:There will b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Hamzah] dan [Salim] yang keduanya adalah anak Abdullah, bahwa [Abdullah bin Umar] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap pengkhianat akan membawa benderanya masing-masing di hari Kiamat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4532</td></tr><tr><td>Arabic No</td><td>1735.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4532</td></tr><tr><td>Arabic No</td><td>1735.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 13</td></tr></tbody></table></div>
 

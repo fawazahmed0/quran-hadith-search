@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) Said: The disputants should re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Dawud bin Rusyaid] berkata, telah menceritakan kepada kami [Al Walid] dari [Al Auza'i] Bahwasanya ia mendengar [Hishn] bahwa ia mendengar [Abu Salamah] mengabarkan dari ['Aisyah radliallahu 'anha] dari Rasulullah shallallahu 'alaihi wasallam, Bahwasanya beliau bersabda tentang orang-orang yang saling bunuh: "Hendaklah mereka menahan dari meminta qishas dari orang yang lebih dekat, meskipun itu seorang wanita." Abu Dawud berkata, "Telah sampai kabar kepadaku bahwa memaafkan wanita dalam perkara qishas itu di bolehkan jika ia termasuk salah satu dari sekian wali yang ada. Dan telah sampai kabar kepadaku tentang sabda Nabi 'hendaklah mereka meminta mundur dari qishash', artinya menahan diri dari meminta qihsas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 41 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Сражающиеся должны воздержаться (от воздаяния равным за убийство), один за другим, начиная с ближайших, даже если это женщины». Абу Дауд сказал: «Как мне передали, прощение женщиной пролитой крови принимается лишь в том случае, если она входит в число покровителей того, чья кровь пролита»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 41 Hadith 45</td></tr></tbody></table></div>
 

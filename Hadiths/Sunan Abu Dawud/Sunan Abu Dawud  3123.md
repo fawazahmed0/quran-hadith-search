@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: We buried a deceased person in the company
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid bin Khalid bin Abdullah bin Mauhib Al Hamdani], telah menceritakan kepada kami [Al Mufadhdhal] dari [Rabi'ah bin Saif Al Ma'afiri], dari [Abu Abdurrahman Al Hubuli], dari [Abdullah bin 'Amr Al 'Ash], ia berkata; kami menguburkan jenazah bersama Rasulullah shallallahu 'alaihi wasallam, kemudian tatkala kami telah selesai Rasulullah shallallahu 'alaihi wasallam pergi dan kami pergi bersamanya. Kemudian tatkala beliau telah menghadap pintu, beliau berdiri. Ternyata kami di hadapan seorang wanita yang datang menghadap. Abdullah bin 'Amr bin Al 'Ash berkata; aku mengira beliau mengenalnya, kemudian tatkala wanita tersebut pergi ternyata ia adalah Fathimah 'alaihassalam. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepadanya: "Apa yang menyebabkanmu keluar dari rumahmu wahai Fathimah?" Ia berkata; wahai Rasulullah, aku mendatangi penghuni rumah ini, dan menghibur mereka karena salah seorang diantara mereka meninggal. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Kemungkinan engkau telah sampai ke Al Kuda (kuburan) bersama mereka." Ia berkata; aku berlindung kepada Allah, sungguh aku telah mendengar engkau mengatakan apa yang telah engkau katakan. Abdullah bin 'Amr bin Al 'Ash berkata; aku kira hal tersebut adalah kuburan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3123</td></tr><tr><td>Arabic No</td><td>3123</td></tr><tr><td>Reference</td><td>Book 21 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Амр ибн аль-‘Ас, да будет доволен Аллах им и его отцом, передаёт: «Однажды мы вместе с Посланником Аллаха ﷺ хоронили одного человека. Закончив, Посланник Аллаха ﷺ покинул место похорон, и мы последовали за ним. Он уже подходил к своей двери и вдруг остановился. Мы увидели идущую нам навстречу женщину, и мне показалось, что он узнал её. Когда она проходила, оказалось, что это Фатима, и Посланник Аллаха ﷺ сказал ей: “Что заставило тебя выйти из дома, о Фатима?” Она сказала: “О Посланник Аллаха, я зашла к обитателям этого дома, чтобы принести им соболезнования из-за их умершего”. Посланник Аллаха ﷺ сказал: “Наверное, ты дошла с ними до могил”. Она сказала: “Упаси Аллах! Ведь я слышала, как ты упоминал о них”. Он сказал: “Если бы ты дошла с ними до могил…” (и он упомянул о тяжких последствиях этого поступка и подтвердил его запретность)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3123</td></tr><tr><td>Arabic No</td><td>3123</td></tr><tr><td>Reference</td><td>Book 21 Hadith 35</td></tr></tbody></table></div>
 

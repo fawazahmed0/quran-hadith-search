@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas: (regarding) the explanation of "... It throws sparks as Al-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Ali] Telah menceritakan kepada kami [Yahya] Telah mengabarkan kepada kami [Sufyan] Telah menceritakan kepadaku [Abdurrahman bin Abis] Aku mendengar [Ibnu Abbas radliallahu 'anhuma] berkata terkait dengan firman-Nya: "TARMI BISYARARIN KAL QASHR." Ia menjelaskan, "Kami biasanya bersandar pada kayu yang tingginya tiga hasta atau lebih tinggi dari itu. Kami mengangkatnya ketika memasuki musim dingin dan kami pun menamakannyha Al Qashr." Kemudian firman-Nya: "KA'ANNAHU JIMAALAATUN SHUFR." Ia menjelaskan, "Tali-tali bahtera yang dikumpulkan hingga menyerupai cambuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4933</td></tr><tr><td>Arabic No</td><td>4933</td></tr><tr><td>Reference</td><td>Book 65 Hadith 454</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн ‘Абис сказал: «Я слышал, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал об этом аяте “Он бросает искры, подобные замку (аль-каср)”: “Мы собирали на зиму брёвна, длиной в три локтя, или длиннее. Такие куски мы называли “аль-каср”. А об аяте “Который выглядит словно желтые верблюды” он сказал: “Это корабельные канаты, которые переплетают друг с другом так, что они достигают толщины человеческого пояса”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4933</td></tr><tr><td>Arabic No</td><td>4933</td></tr><tr><td>Reference</td><td>Book 65 Hadith 454</td></tr></tbody></table></div>
 

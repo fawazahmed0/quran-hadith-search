@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] ia berkata; telah menceritakan kepada kami [Muhammad bin rasyid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Harun bin Zaid bin Abu Az Zaqa] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Muhammad bin rasyid] dari [Sulaiman bin Musa] dari [Amru bin Syu'aib] dari [bapaknya] dari [kakeknya] berkata, "Rasulullah shallallahu 'alaihi wasallam memberi putusan bahwa orang yang membunuh karena salah maka diyatnya (tebusannya) adalah seratus ekor unta; tiga puluh anak unta makhadh, tiga puluh anak unta betina labun, tiga puluh hiqqah dan sepuluh anak unta jantan labun laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4541</td></tr><tr><td>Arabic No</td><td>4541</td></tr><tr><td>Reference</td><td>Book 41 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, как Посланник Аллаха ﷺ постановил, что компенсацией /дийа/ за того, кто был убит по ошибке, должны стать сто верблюдов: тридцать годовалых верблюдиц, тридцать двухлетних верблюдиц, тридцать трёхлетних верблюдиц и десять двухлетних самцов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4541</td></tr><tr><td>Arabic No</td><td>4541</td></tr><tr><td>Reference</td><td>Book 41 Hadith 48</td></tr></tbody></table></div>
 

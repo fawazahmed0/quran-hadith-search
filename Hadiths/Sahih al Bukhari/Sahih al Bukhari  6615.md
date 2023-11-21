@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Warrad:(the freed slave of Al-Mughira bin Shu'ba) Muawiya wrote to Mugh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] telah menceritakan kepada kami [Fulaih] telah menceritakan kepada kami [Abdah bin Abi Lubabah] dari [Warrad maula Almughirah bin Syu'bah] mengatakan, Mu'awiyah berkirim surat kepada Mughirah; 'Tulislah untukku apa yang kau dengar dari Nabi shallallahu 'alaihi wasallam! ' Warrad menuturkan; maksudnya sehabis shalat. [Mughirah] lantas mendiktekan kepadaku dengan menuturkan; aku mendengar Nabi shallallahu 'alaihi wasallam sehabis shalat mengucapkan: "LAA-ILAAHA-ILLALLAH WAHDAHU LAA SYARIIKA LAHU, ALLAAHUMMA LAA MAANI'A LIMAA A'THAITA WALAA MU'THIYA LIMAA MANA'TA WALAA YANFA'U DZAL JADDI MINKAL JADD (tiada sesembahan yang hak selain Allah semata yang tiada sekutu bagi-Nya, Ya Allah, tiada yang bisa menghalangi apa yang Engkau berikan, dan tidak ada yang bisa memberi apa yang Engkau cegah, dan tidak memberi faidah orang yang memiliki kekayaan, dari-Mu lah kekayaan itu." Kata [Ibnu Juraij], dan telah mengabarkan kepadaku [Abdah] bahwasanya [Warrad] mengabarinya dengan hadits ini, selanjutnya dikemudian hari kami mengutusnya ke Mu'awiyah dan aku mendengarnya ia memerintahkan manusia dengan bacaan itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6615</td></tr><tr><td>Arabic No</td><td>6615</td></tr><tr><td>Reference</td><td>Book 82 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Варрада, вольноотпущенник аль-Мугиры ибн Шу‘бы сказал:\n— Му‘авия написал аль-Мугире ибн Шу‘бе: «Напиши мне из того, что ты слышал от Пророка ﷺ после обязательной молитвы». И аль-Мугира продиктовал мне письмо, сказав: «Я слышал, как Пророк ﷺ говорил после молитвы: “Нет божества достойного поклонения, кроме одного лишь Аллаха, у Которого нет сотоварища. О Аллах, никто не лишит того, что Ты даровал, и никто не дарует того, чего Ты лишил, и бесполезным перед Тобой окажется могущество обладающего могуществом /Ля иляха илля-Ллаху вахда-ху ля шарика ля-ху. Аллахумма, ля мани‘а ли-ма а‘тайта, ва ля му‘тыйа ли-ма мана‘та ва ля йанфа‘у за-ль-джадди мин-ка-ль-джадд/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6615</td></tr><tr><td>Arabic No</td><td>6615</td></tr><tr><td>Reference</td><td>Book 82 Hadith 21</td></tr></tbody></table></div>
 

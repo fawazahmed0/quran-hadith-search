@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said “A beautiful slave girl fell to Dihyah”. The Apostle of Allaah(ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Khallad Al Bahili], telah menceritakan kepada kami [Bahz bin Asad], telah menceritakan kepada kami [Hammad], telah mengabarkan kepada kami [Tsabit], dari [Anas], ia berkata; telah jatuh di saham Dihyah seorang budak cantik, kemudian Rasulullah shallallahu 'alaihi wasallam membelinya dengan tujuh ar-us, kemudian beliau menyerahkannya kepada Ummu Sulaim, agar ia mempersiapkannya. Hammad berkata; dan aku yakin Anas berkata; dan Shafiyyah binti Huyai ber'iddah di rumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2997</td></tr><tr><td>Arabic No</td><td>2997</td></tr><tr><td>Reference</td><td>Book 20 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса, да будет доволен им Аллах, что по разделу Дихйе досталась красивая девушка и Посланник Аллаха ﷺ отдал ему взамен неё семь других пленников, а потом передал её Умм Суляйм, чтобы она украсила её и приготовила. Хаммад сказал: «И, по-моему, он сказал, что она Сафийя бинт Хуяйй дожидалась очищения от очередной менструации в её доме»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2997</td></tr><tr><td>Arabic No</td><td>2997</td></tr><tr><td>Reference</td><td>Book 20 Hadith 70</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "When the people of P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6560</td></tr><tr><td>Arabic No</td><td>6560</td></tr><tr><td>Reference</td><td>Book 81 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «(После того как) обитатели Рая войдут в Рай, а обитатели Огня отправятся в Огонь, Аллах скажет: “Выведите тех, у кого в сердце было веры хоть на вес горчичного зерна”, и их выведут оттуда обожжёнными и превратившимся в угли, а потом бросят в реку жизни, и они станут расти подобно тому, как прорастает семя, принесённое потоком (или: сильным потоком). Разве не видел ты, как прорастают (из-под земли) жёлтые и искривленные (ростки)?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6560</td></tr><tr><td>Arabic No</td><td>6560</td></tr><tr><td>Reference</td><td>Book 81 Hadith 149</td></tr></tbody></table></div>
 

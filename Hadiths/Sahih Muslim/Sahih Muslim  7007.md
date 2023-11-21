@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Umama reported:We were sitting in the mosque in the company of Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin 'Ali Al Jahdhami] dan [Zuhair bin Harb] -dan lafadh ini milik Zuhair- mereka berdua berkata; telah menceritakan kepada kami ['Umar bin Yunus] telah menceritakan kepada kami ['Ikrimah bin 'Ammar] telah menceritakan kepada kami [Syaddad] telah menceritakan kepada kami [Abu Umamah] dia berkata; "Ketika Rasulullah shallallahu 'alaihi wasallam berada di masjid, sedangkan kami tengah duduk-duduk dan bercengkrama dengan beliau, tiba-tiba ada seorang laki-laki yang datang dan berkata; 'Ya Rasulullah, saya telah berbuat dosa. Oleh karena itu, berilah saya hukuman! ' Tetapi Rasulullah hanya terdiam saja. Setelah itu, orang tersebut mengulangi lagi ucapannya; 'Ya Rasulullah, saya telah berbuat dosa. Oleh karena itu, berilah saya hukuman.' Namun Rasulullah hanya terdiam saja. Tak lama kemudian, dilaksanakan shalat berjama'ah. Abu Umamah berkata; 'Ketika Rasulullah shallallahu 'alaihi wasallam pulang ke rumah, orang tersebut tetap mengikutinya untuk mengetahui jawaban kepada orang laki-laki tersebut. Rasulullah shallallahu 'alaihi wasallam menjawab pertanyaan orang tersebut: 'Tahukah kamu bahwasanya kamu keluar dari rumah, bukankah kamu telah berwudlu dengan sebaik-baiknya? ' Laki-laki itu menjawab; 'Benar ya Rasulullah.' Kemudian Rasulullah melanjutkan sabdanya: 'Setelah itu, bukankah kamu telah mengikuti shalat berjamaah bersama kami? ' Laki-laki itu menjawab; 'Benar ya Rasulullah.' Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya Allah telah mengampuni hukuman bagimu, atau dia berkata, dosamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7007</td></tr><tr><td>Arabic No</td><td>2765</td></tr><tr><td>Reference</td><td>Book 50 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7007</td></tr><tr><td>Arabic No</td><td>2765</td></tr><tr><td>Reference</td><td>Book 50 Hadith 53</td></tr></tbody></table></div>
 

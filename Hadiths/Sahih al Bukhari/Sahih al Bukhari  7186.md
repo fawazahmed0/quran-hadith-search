@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) came to know that one of his companions had giv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Ismail] telah menceritakan kepada kami [Salamah bin Kuhail] dari ['Atho'] dari [Jabir bin Abdullah] mengatakan, Nabi Shallallahu'alaihiwasallam mendengar informasi ada seorang sahabat membebaskan budaknya dengan cara mudabbar, padahal ia tidak punya harta selainnya, lantas Nabi membelinya seharga delapan ratus dirham, kemudian beliau kirimkan hasilnya kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7186</td></tr><tr><td>Arabic No</td><td>7186</td></tr><tr><td>Reference</td><td>Book 93 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира бин ‘Абдуллаха, да будет доволен Аллах им и его отцом, что дошла (весть) до Пророка ﷺ что один из его сподвижников решил, что после его смерти его невольник получит свободу, и не было у него иного имущества помимо этого невольника, и (Пророк ﷺ) продал (этого невольника) за восемьсот дирхамов, а потом отослал (вырученные) деньги ему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7186</td></tr><tr><td>Arabic No</td><td>7186</td></tr><tr><td>Reference</td><td>Book 93 Hadith 48</td></tr></tbody></table></div>
 

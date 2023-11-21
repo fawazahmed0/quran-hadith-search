@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I heard Allah's Messenger (ﷺ) saying, "When you see the cre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada saya [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya [Salim bin 'Abdullah bin 'Umar] bahwa [Ibnu'Umar radliallahu 'anhuma] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kamu melihatnya maka berpuasalah dan jika kamu melihatnya lagi maka berbukalah. Apabila kalian terhalang oleh awan maka perkirakanlah jumlahnya (jumlah hari disempurnakan) ". Dan berkata, [selainnya] dari [Al Laits] telah menceritakan kepada saya ['Uqail] dan [Yunus]: "Ini maksudnya untuk hilal bulan Ramadhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1900</td></tr><tr><td>Arabic No</td><td>1900</td></tr><tr><td>Reference</td><td>Book 30 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Когда увидите его, (начинайте) поститься, и когда увидите его, прекращайте поститься, а если будет облачно и вы (его не увидите), тогда определяйте по нему”». \nДругие (передатчики передали) от аль-Лейса, (который сказал): «Рассказали мне ‘Укъайль и Юнус: “(Когда увидите) молодой месяц”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1900</td></tr><tr><td>Arabic No</td><td>1900</td></tr><tr><td>Reference</td><td>Book 30 Hadith 10</td></tr></tbody></table></div>
 

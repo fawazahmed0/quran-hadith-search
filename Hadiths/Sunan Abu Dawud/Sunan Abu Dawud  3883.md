@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: Zaynab, the wife of Abdullah ibn Mas'ud, told that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari ['Amru bin Murrah] dari [Yahya bin Al Jazzar] dari [anak saudara Zainab] isteri Abdullah, dari [Zainab] dari [Abdullah] ia berkata, "Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya jampi-jampi, jimat dan tiwalah (menjadikan seorang wanita mencintai suaminya) adalah bentuk kesyirikan." Zainab berkata, "Aku katakan, 'Kenapa engkau mengucapkan hal ini? Demi Allah! Sungguh, mataku telah mengeluarkan air mata dan kotoran. Dan aku bolak-balik datang kepada Fulan seorang Yahudi yang menjampiku, apabila ia menjampiku maka mataku menjadi tenang?" Kemudian Abdullah menjawab, 'Sesungguhnya hal tersebut adalah perbuatan setan. Setan telah menusuk matanya menggunakan tangannya, kemudian apabila orang yahudi tersebut menjampinya maka setan menahan tusukannya. Sebenarnya cukup bagimu mengucapkan sebagaimana yang diucapkan Rasulullah shallallahu 'alaihi wasallam: 'ADZHIBIL BA'SA RABBAN NAASA ISYFI ANTA ASY SYAAFII LAA SYIFAA A ILLAA SYIFAA'UKA SYIFAA'AN LAA YUGHAADIRU SAQAMAN (Wahai Tuhan manusia, hilangkanlah penyakit, sesungguhnya Engkau Pemberi kesembuhan, tidak ada kesembuhan kecuali kesembuhan dari-Mu, kesembuhan yang tidak meninggalkan efek penyakit)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3883</td></tr><tr><td>Arabic No</td><td>3883</td></tr><tr><td>Reference</td><td>Book 29 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейнаб, жены ‘Абдуллаха, да будет доволен им Аллах, что ‘Абдуллах сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: «Заклинания (на непонятном языке, которые могут содержать колдовство или неверие), талисманы (, которые вешали на детей, считая, что они защищают их от сглаза,) и тиваля (, ибо это вид колдовства, приворот,) придавание Аллаху сотоварищей (ширк)». Она передаёт: «Я спросила: “Почему ты говоришь так? Клянусь Аллахом, когда у меня болел глаз, я ходила к одному иудею, который читал мне заклинания, и это помогало мне!” ‘Абдуллах сказал: “Это деяние шайтана. Он тыкал в него пальцем, а когда иудей читал своё заклинание, он отступал ненадолго. А тебе достаточно было сказать то, что говорил Посланник Аллаха ﷺ: “Удали болезнь, Господь людей, исцели, ибо Ты Исцеляющий, нет исцеления, кроме Твоего исцеления, исцели таким исцелением, чтобы болезнь не вернулась”” /Азхиби-ль-баса рабба-н-наси-шфи анта-ш-шафи ля шифа илля шифаука шифаан ля йугадиру сакаман/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3883</td></tr><tr><td>Arabic No</td><td>3883</td></tr><tr><td>Reference</td><td>Book 29 Hadith 29</td></tr></tbody></table></div>
 

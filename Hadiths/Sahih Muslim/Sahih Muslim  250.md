@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Dharr (que Dieu l'agrée) a dit : Je demandai au Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu ar-Rabi' az-Zahrani] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Hisyam bin Urwah]. (dalam riwayat lain disebutkan) telah menceritakan kepada kami [Khalaf bin Hisyam] dan lafazh tersebut miliknya, telah menceritakan kepada kami [Hammad bin Zaid] dari [Hisyam bin Arubah] dari [bapaknya] dari [Abu Murawih al-Laitsi] dari [Abu Dzar] dia berkata, "Aku pernah bertanya Rasulullah shallallahu 'alaihi wasallam, 'Wahai Rasulullah! Amalan apakah yang paling utama? ' Rasulullah shallallahu 'alaihi wasallam menjawab: "Beriman kepada Allah dan berjihad pada jalan-Nya." Aku bertanya, "Hamba sahaya yang bagaimanakah yang paling utama?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Hamba sahaya yang paling baik menurut pemiliknya dan paling mahal harganya." Aku bertanya lagi, "Bagaimana jika aku tidak bisamengerjakannya?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Kamu bisa membantu orang yang bekerja atau berkerja untuk orang yang tidak memiliki pekerjaan." Aku bertanya lagi, 'Wahai Rasulullah! Apa pendapatmu jika aku tidak mampu melakukan sebagian dari amalan? ' Rasulullah shallallahu 'alaihi wasallam menjawab: "Kamu hendaklah menghentikan kejahatanmu terhadap orang lain karena hal itu merupakan sedekah darimu kepada dirimu." Telah menceritakan kepada kami [Muhammad bin Rafi'] dan [Abd bin Humaid], [Abd] berkata, telah mengabarkan kepada kami, dan [Ibnu Rafi'] berkata, telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [az-Zuhri] dari [Habib] mantan budak Urwah bin az-Zubair, dari [Urwah bin az-Zubair] dari [Abu Murawih] dari [Abu Dzar] dari Nabi shallallahu 'alaihi wasallam dengan hadits yang semisalnya, hanya saja dia menyebutkan, "Kamu membantu orang yang bekerja atau menciptakan pekerjaan untuk orang yang tidak bekerja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>250</td></tr><tr><td>Arabic No</td><td>84.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр сказал: «(Однажды) я спросил: “О посланник Аллаха, какие дела являются наиболее достойными?” Он ответил: “Вера в Аллаха и борьба на пути Его”. Я спросил: “А какие рабы лучше всех?” Он ответил: “Те, которых их хозяева ценят больше всего и которые обошлись (им) дороже всего”. Я спросил: “А если я не (смогу) сделать это?” Он сказал: “Помоги человеку, занятому каким-либо делом, или сделай что-нибудь вместо неумелого”. Я спросил: “О посланник Аллаха, а если я не (смогу) сделать ничего (из этого)?” Он сказал: “Тогда не причиняй зло людям, и это станет милостыней /садака/ от тебя тебе же”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>250</td></tr><tr><td>Arabic No</td><td>84.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 156</td></tr></tbody></table></div>
 

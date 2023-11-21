@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibrahim at-Tamimi's father:'Ali delivered a sermon saying, "We have no 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad] telah mengabarkan kepada kami [Waki'] dari [Al A'masy] dari [Ibrahim at-Taymiy] dari [bapaknya] berkata; " ['Ali] menyampaikan khathbah kepada kami, katanya; "Tidak ada kitab yang kita baca selain Kitab Allah Ta'ala ini dan apa yang ada pada ash-shahifah (lembaran-lembaran hadits) ini", yang Beliau Shallallahu'alaihiwasallam bersabda, isinya: "Disana disebutkan penjelasan hukum luka-luka sekaligus masa berlakunya dan Madinah adalah tanah suci yang wilayahnya antara sumber air hingga wilayah anu. Maka barangsiapa yang berbuat kemungkaran (bid'ah) yang dilarang agama didalamnya atau membantu orang berbuat bid'ah maka orang itu akan mendapat laknat dari Allah, para malaikat dan seluruh manusia dan tidak akan diterima darinya amalan 'ibadah wajib dan sunnahnya" (atau taubat dan tebusannya). Dan siappaun budak yang berwala' bukan kepada majikannya, maka dia akan mendapat hukuman seperti itu juga, dan perlindungan Kaum Muslimin adalah satu, maka barangsiapa melepas ikatan perjanjian dengan seorang muslim maka orang itu akan mendapat hukuman seperti itu juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3172</td></tr><tr><td>Arabic No</td><td>3172</td></tr><tr><td>Reference</td><td>Book 58 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибрахим ат-Тейми рассказал со слов своего отца: «Однажды ‘Али обратился к нам с проповедью, сказав: “Нет у нас никакой книги, которую бы мы читали, кроме Книги Аллаха и того, что написано в этом свитке”. После чего он развернул этот свиток, и оказалось, что там (говорилось) о вещах, имеющих отношение к (компенсации за нанесение) ранений и возрасте верблюдов, и (ещё) там (было написано, что Посланник Аллаха ﷺ) сказал: “Медина является заповедной от (горы) ‘Айр до такого-то (места), и тот, кто совершит в ней преступление или предоставит убежище совершившему преступление, будет проклят Аллахом, ангелами и всеми людьми, и не будет принято от него ни обязательное, ни дополнительное. И (если любой вольноотпущенник) перейдёт под покровительство кого бы то ни было без разрешения тех, кто дал ему свободу, его постигнет такое же (наказание). Защита (, предоставляемая) мусульманами, едина, того же, кто нарушит (защиту, предоставленную) мусульманином, постигнет такое же наказание”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3172</td></tr><tr><td>Arabic No</td><td>3172</td></tr><tr><td>Reference</td><td>Book 58 Hadith 14</td></tr></tbody></table></div>
 

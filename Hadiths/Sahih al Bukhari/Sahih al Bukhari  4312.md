@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ata' bin Abi Rabah:'Ubaid bin 'Umar and I visited 'Aisha, and he asked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Yazid] Telah menceritakan kepada kami [Yahya bin Hamzah], katanya, Telah menceritakan kepadaku [Auza'i] dari [Atha" bin Abu Rabah] katanya, aku menemui [Aisyah] bersama Ubaid bin Umair, ia pun bertanya kepada Aisyah tentang hijrah, kata Aisyah; "Tak ada lagi hijrah hari ini, dahulu seorang mukmin lari menyelamatkan agamanya menuju Allah dan Rasul-Nya Shallallahu'alaihiwasallam, karena khawatir terkena fitnah. Adapun hari ini Allah telah memenangkan Islam sehingga setiap mukmin bisa beribadah kepada Rabbnya sekehendaknya sehingga yang ada adalah jihad dan niyat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4312</td></tr><tr><td>Arabic No</td><td>4312</td></tr><tr><td>Reference</td><td>Book 64 Hadith 343</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ата ибн Аби Рабах сказал: «Однажды, когда я вместе с ‘Убайдем ибн ‘Умайром посетил ‘Аишу, он спросил её о переселении. Она сказала: “Сегодня нет (необходимости в) переселении. Верующие бежали к Аллаху и Его Посланнику ﷺ, спасая свою религию и боясь подвергнуться испытанию. Сегодня же Аллах дал победу исламу, и (верующий) сегодня может поклоняться своему Господу, где захочет. Но (осталась необходимость участия в) сражениях и (благом) намерении”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4312</td></tr><tr><td>Arabic No</td><td>4312</td></tr><tr><td>Reference</td><td>Book 64 Hadith 343</td></tr></tbody></table></div>
 

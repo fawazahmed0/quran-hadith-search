@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: A man was with the Prophet (ﷺ) and a man passed by hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Al Mubarak bin Fadhalah] berkata, telah menceritakan kepada kami [Tsabit Al Bunani] dari [Anas bin Malik] berkata, "seorang laki-laki berada di sisi Nabi shallallahu 'alaihi wasallam, lalu ada seseorang lagi lewat di depannya. Laki-laki itu lalu berkata, "Wahai Rasulullah, sesungguhnya aku menyukai orang ini." Nabi shallallahu 'alaihi wasallam lalu bersabda kepadanya: "Apakah kamu telah memberitahunya." Ia menjawab, "belum." Beliau bersabda: "Beritahukanlah ia." Anas berkata, "Laki-laki itu kemudian menyusulnya dan berkata, "Sesungguhnya aku suka kepadamu karena Allah." Orang itu balik berkata, "Engkau akan dicintai oleh Dzat yang kamu menyukai aku karena-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5125</td></tr><tr><td>Arabic No</td><td>5125</td></tr><tr><td>Reference</td><td>Book 43 Hadith 353</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5125</td></tr><tr><td>Arabic No</td><td>5125</td></tr><tr><td>Reference</td><td>Book 43 Hadith 353</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'adh bin Jabal:The Prophet (ﷺ) said, "O Mu'adh! Do you know what Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abu Hushain] dan [Al Asy'ats bin Sulaim] keduanya mendengar [Al Aswad bin Hilal] dari [Mu'adz bin Jabal] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Mu'adz, tahukah kamu hak Allah atas hamba?" "Allah dan rasul-Nya yang lebih tahu, " Jawab Mu'adz. Nabi bersabda lagi: "Yaitu agar mereka beribadah kepada-Nya dengan tidak menyekutukan-Nya dengan sesuatu apapun. Tahukah engkau apa hak mereka atas Allah?" tanya Nabi selanjutnya."Allah dan Rasul-Nya yang lebih lebih tahu." Jawab Mu'adz. Nabi bersabda: "Yaitu agar Dia tidak menyiksa mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7373</td></tr><tr><td>Arabic No</td><td>7373</td></tr><tr><td>Reference</td><td>Book 97 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘аз ибн Джабаль, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал (мне): “О Му‘аз, известно ли тебе, какое право Аллаха должны соблюдать рабы Его?” (Му‘аз) сказал: “Аллах и Его посланник знают об этом лучше”. (Тогда) он сказал: “(Право Аллаха, которое обязаны соблюдать рабы Его, состоит) в том, что им следует поклоняться Ему (одному), не придавая Ему в сотоварищи ничего. А известно ли тебе что в праве они ожидать от Него?” (Му‘аз) сказал: “Аллах и Его посланник знают об этом лучше”. И он сказал: “Что Он не станет подвергать их мучениям”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7373</td></tr><tr><td>Arabic No</td><td>7373</td></tr><tr><td>Reference</td><td>Book 97 Hadith 3</td></tr></tbody></table></div>
 

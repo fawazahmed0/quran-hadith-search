@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Usaid al-Ansari reported the Messenger of Allah (May peace be upon him) as s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Utsman Ad Dimasyqi] telah menceritakan kepada kami [Abdul Aziz Ad Darawardi] dari [Rabi'ah bin Abu Abdirrahman] dari [Abdul Malik bin Sa'id bin Suwaid] dia berkata; Saya telah mendengar [Abu Humaid] atau [Abu Usaid Al Anshari] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian masuk Masjid, maka bershalawatlah untuk Nabi shallallahu 'alaihi wasallam, kemudian ucapkanlah: 'Allahummaftahli Abwaba Rahmatika (Ya Allah, bukakanlah untukku pintu-pintu rahmat-Mu) ', dan apabila keluar maka ucapkanlah: 'Alahumma Inni As'aluka min Fadllika (Ya Allah, sesungguhnya saya memohon karunia kepada-Mu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (713)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>465</td></tr><tr><td>Arabic No</td><td>465</td></tr><tr><td>Reference</td><td>Book 2 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуль-Малик ибн Са‘ид ибн Сувайд сказал: «Я слышал, как Абу Хумайд или Абу Усайд аль-Ансари говорил: “Посланник Аллаха ﷺ сказал: “Когда кто-то из вас будет входить в мечеть, пусть поприветствует Пророка ﷺ, а потом скажет: “Аллахумма-фтах ли абваба рахматика! /О Аллах, открой для меня врата Твоего милосердия/”. Когда же он будет выходить (из мечети,) пусть скажет: “Аллахумма инни асъалюка мин фадлика /О Аллах, поистине, я прошу Тебя о милости Твоей!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (713)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>465</td></tr><tr><td>Arabic No</td><td>465</td></tr><tr><td>Reference</td><td>Book 2 Hadith 75</td></tr></tbody></table></div>
 

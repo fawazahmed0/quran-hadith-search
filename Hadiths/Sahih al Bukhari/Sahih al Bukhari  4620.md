@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The alcoholic drink which was spilled was Al-Fadikh. I used to off
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] Telah menceritakan kepada kami [Hammad bin Zaid] Telah menceritakan kepada kami [Tsabit] dari [Anas radliallahu 'anhu] bahwa Khamr adalah yang dihasilkan dengan membakar buah kurma. [Muhammad Al Bikandi] menambahkan dari [Abu Nu'man] dia berkata; Aku adalah orang yang member minum di rumah Abu Thalhah. Lalu turunlah ayat yang mengharamkan Khamr, kemudian disuruhlah seseorang mengumumkannya. Abu Thalhah berkata; keluarlah dan dengarkanlah suara itu. Abu Nu'man berkata; Aku pun keluar lalu ku katakana; 'Orang itu menyerukan bahwa Khamr telah diharamkan. Abu Thalhah berkata kepadaku; pergilah dan bakarlah khamrnya. Anas berkata; Maka kabar ini menyebar hingga ke gang-gang Madinah. Anas bin Malik Radliyalalhu'anhu berkata; arak mereka pada waktu itu adalah terbuat dari fadlikh (minuman yang terbuat dari busr), busr (kurma yang masih muda). Sebagian kaum berkata; sebagian kaum telah telah meninggal sedang arak telah telanjur masuk perut mereka. Anas bin Malik Radliyalalhu'anhu berkata; maka Allah 'azza wajalla menurunkan "Tidak ada dosa bagi orang-orang yang beriman dan mengerjakan amalan yang saleh karena memakan makanan yang telah mereka makan dahulu... (Al Maidah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 65 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Я поил людей (вином) в доме Абу Тальхи. Когда был ниспослан запрет на употребление вина, Посланник Аллаха ﷺ приказал глашатаю провозгласить об этом. Абу Тальха сказал мне: “Иди узнай, что там случилось!” Я вышел, а затем сказал: “Это глашатай провозгласил, что вино было запрещено!” Он сказал мне: “Выйди и вылей его!” Тогда оно потекло по улочкам Медины. В то время их вином был “аль-фадых” (вино из недозрелых фиников). Некоторые люди сказали: “А ведь были люди, которые были убиты, когда оно находилось в их животах”. Тогда Аллах ниспослал аят: “На тех, которые уверовали и совершают праведные деяния, нет греха за то, чем они питались…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 65 Hadith 142</td></tr></tbody></table></div>
 

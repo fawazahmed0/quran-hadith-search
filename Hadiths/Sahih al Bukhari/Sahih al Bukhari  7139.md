@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Jubair bin Mut'im:That while he was included in a delegati
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] mengatakan, [Muhammad bin Jubair] menceritakan, [Mu'awiyah] mendapat informasi -ketika itu Jubair berada disampingnya-saat berada dalam rombongan quraisy, bahwa Abdullah bin Amru menceritakan, bahwa dirinya akan menjadi raja Qahthan. Spontan Mu'awiyah murka, ia berdiri dan memanjatkan puji-pujian kepada Allah dengan pujian semestinya, kemudian mengatakan; 'Amma ba'd. Telah sampai berita kepadaku bahwa beberapa orang diantara kalian menceritakan hadist yang tidak terdapat dalam kitabullah dan tidak pula berasal dari Rasulullah Shallallahu'alaihiwasallam, mereka itu adalah orang-orang jahil kalian, jauhilah olehmu angan-angan yang menyesatkan pemiliknya, sebab aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "'Kepemimpinan ini tetap berada di quraisy, tidaklah seseorang memusuhi mereka, selain Allah menelungkupkannya dalam neraka diatas wajahnya, selama mereka menegakkan agama." hadist ini dikuatkan oleh [Nu'aim] dari [Ibnul Mubarak] dari [Ma'mar] dari [Az Zuhri] dari [Muhammad Ibnu Jubair]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7139</td></tr><tr><td>Arabic No</td><td>7139</td></tr><tr><td>Reference</td><td>Book 93 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (Мухаммад ибн Шихаб) аз-Зухри, да помилует его Аллах, сказал:\n— Мухаммад ибн Джубайр ибн Мут‘им рассказывал о том, что (в своё время) Му‘авию, да будет доволен им Аллах, у которого находилась делегация курайшитов, уведомили о том, что ‘Абдуллах ибн ‘Амр ибн аль-‘Ас, да будет доволен Аллах им и его отцом, говорит, что правителем (станет человек из племени) кахтан. (Услышав это, Му‘авия) разгневался, поднялся (со своего места), должным образом восславил Аллаха, а потом сказал: «А затем, поистине, дошло до меня, что некоторые из вас говорят то, чего нет в Книге Аллаха и что не передаётся со слов Посланника Аллаха ﷺ! Такие (относятся к числу) невежественных среди вас, так не тешьте себя надеждами, которые сбивают людей с пути, ибо, поистине, я слышал, как Посланник Аллаха ﷺ говорил: “Поистине, это дело останется за курайшитами, а любого из тех, кто станет враждовать с ними, того Аллах обязательно опрокинет лицом в Огонь. И так будет до тех пор, пока (курайшиты) будут придерживаться (установлений) религии!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7139</td></tr><tr><td>Arabic No</td><td>7139</td></tr><tr><td>Reference</td><td>Book 93 Hadith 3</td></tr></tbody></table></div>
 

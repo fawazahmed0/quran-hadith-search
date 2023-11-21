@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that Asma' bint 'Umais gave birth to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sariya] dan [Zuhair bin Harb] dan [Utsman bin Abu Syaibah] semuanya dari [Abdah] - [Zuhair] berkata- Telah menceritakan kepada kami [Abdah bin Sulaiman] dari [Ubaidullah bin Umar] dari [Abdurrahman bin Al Qasim] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; "Asma' binti 'Umais melahirkan Muhammad bin Abu Bakar di sebuah pohon di Dzulhulaifah, maka Rasulullah shallallahu 'alaihi wasallam pun memerintahkan kepada Abu Bakar untuk menyuruhnya mandi (janabat) lalu memulai ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2908</td></tr><tr><td>Arabic No</td><td>1209</td></tr><tr><td>Reference</td><td>Book 15 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2908</td></tr><tr><td>Arabic No</td><td>1209</td></tr><tr><td>Reference</td><td>Book 15 Hadith 117</td></tr></tbody></table></div>
 

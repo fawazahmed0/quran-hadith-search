@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Some meat was brought to the Prophet (ﷺ) and it was sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas bin Malik radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam pernah diberikan daging lalu dikatakan bahwa daging itu adalah shadaqah yang diterima Barirah. Maka Beliau berkata: "Daging ini baginya shadaqah (zakat) dan bagi kita ini sebagai hadiah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2577</td></tr><tr><td>Arabic No</td><td>2577</td></tr><tr><td>Reference</td><td>Book 51 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) Пророку ﷺ принесли мясо и сказали: “Его получила Барира в качестве садаки”, (на что) он сказал: “Для (Бариры) оно является садакой, а для нас — подарком”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2577</td></tr><tr><td>Arabic No</td><td>2577</td></tr><tr><td>Reference</td><td>Book 51 Hadith 12</td></tr></tbody></table></div>
 

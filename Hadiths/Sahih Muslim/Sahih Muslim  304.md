@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Thabit b. Dahhak that the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ishaq bin Manshur] serta [Abd al-Warits bin Abd ash-Shamad] semuanya dari [Abd ash-Shamad bin Abd al-Warits] dari [Syu'bah] dari [Ayyub] dari [Abu Qilabah] dari [Tsabit bin adl-Dlahhak al-Anshari]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Rafi'] dari [Abdurrazzaq] dari [ats-Tsauri] dari [Khalid al-Hadzdza'] dari [Abu Qilabah] dari [Tsabit bin adl-Dlahhak] dia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah dengan suatu agama selain Islam secara bohong lagi sengaja, maka dia sebagaimana yang dia katakana. Barangsiapa membunuh dirinya dengan suatu (alat) maka Allah akan mengsiksanya dengan alat tersebut di neraka Jahannam." Ini hadits [Sufyan] Adapun hadits [Syu'bah], maka disebutkan bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah dengan agama selain Islam secara bohong, maka dia sebagaimana yang dia katakana. Dan barangsiapa menyembelih dirinya dengan suatu (alat), maka dia akan disembelih pada hari kiamat dengan alat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>304</td></tr><tr><td>Arabic No</td><td>110.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Сабита ибн ад-Даххака, что Пророк ﷺ сказал: «Тот, кто намеренно дал ложную клятву, поклявшись не исламом, а иной религией, является таким, как он (сам себя назвал); и лишившего себя жизни каким-либо предметом (в этом мире), Аллах подвергнет мучениям (этим же предметом) в пламени Ада»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>304</td></tr><tr><td>Arabic No</td><td>110.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 210</td></tr></tbody></table></div>
 

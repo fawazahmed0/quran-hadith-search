@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Al-Munkadir:I saw Jabir bin 'Abdullah swearing by Allah th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hammad bin Humaid] telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Sa'd bin Ibrahim] dari [Muhammad bin Al Munkadir] berkata, 'Pernah aku melihat [Jabir bin Abdullah] bersumpah dengan nama Allah bahwa Ibnu Shaid adalah dajjal. Maka saya katakan, 'Engkau bersumpah atas nama Allah? ' ia jawab, 'Saya mendengar Umar bersumpah atas yang demikian disisi Nabi shallallahu 'alaihi wasallam, dan beliau Shallallahu'alaihiwasallam tidak memungkirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7355</td></tr><tr><td>Arabic No</td><td>7355</td></tr><tr><td>Reference</td><td>Book 96 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад бин аль-Мункадир, да помилует его Аллах Всевышний, сказал: «Я услышал, как Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, поклялся Аллахом, что Ибн ас-Саййад был Антихристом, и спросил его: “Как можешь ты клясться Аллахом?” Он сказал: “Поистине, я слышал, как в этом в присутствии Пророка ﷺ поклялся ‘Умар, да будет доволен им Аллах, и Пророк ﷺ не выразил ему своего неодобрения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7355</td></tr><tr><td>Arabic No</td><td>7355</td></tr><tr><td>Reference</td><td>Book 96 Hadith 82</td></tr></tbody></table></div>
 

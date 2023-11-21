@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:I heard the Prophet (ﷺ) saying, "Some people fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syihab bin Ibad] telah menceritakan kepada kami [Ibrahim bin Humaid] dari [Ismail] dari [Qais] dari [Mughirah bin Syu'bah] berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Akan senantiasa ada dari umatku sekelompok orang (kaum) yang menang mengalahkan manusia, hingga keputusan Allah mendatangi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7459</td></tr><tr><td>Arabic No</td><td>7459</td></tr><tr><td>Reference</td><td>Book 97 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Мугъира ибн Шу‘ба, да будет доволен им Аллах, сказал: «Я слышал как Пророк ﷺ сказал: “Не перестанет группа людей из моей общины одерживать верх над людьми, пока не придёт к ним повеление Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7459</td></tr><tr><td>Arabic No</td><td>7459</td></tr><tr><td>Reference</td><td>Book 97 Hadith 85</td></tr></tbody></table></div>
 

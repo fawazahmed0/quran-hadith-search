@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:I heard Hisham bin Hakim reciting Surat Al-Furqan 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ufair] ia berkata, Telah menceritakan kepadaku [Al Laits] ia berkata; Telah menceritakan kepadaku [Uqail] dari [Ibnu Syihab] ia berkata; Telah menceritakan kepadaku [Urwah bin Zubair] bahwa [Al Miswar bin Makhzamah] dan [Abdurrahman bin Abd Al Qari'] keduanya menceritakan kepadanya bahwa keduanya mendengar [Umar bin Al Khaththab] berkata, "Aku pernah mendengar Hisyam bin Hakim bin Hizam sedang membaca surat Al Furqan di masa Rasulullah shallallahu 'alaihi wasallam, aku pun mendengarkan bacaannya dengan seksama. Maka, ternyata ia membacakan dengan huruf yang banyak yang Rasulullah shallallahu 'alaihi wasallam belum pernah membacakannya seperti itu padaku. Maka aku hampir saja mencekiknya saat shalat, namun aku pun bersabar menunggu sampai ia selesai salam. Setelah itu, aku langsung meninting lengan bajunya seraya bertanya, "Siapa yang membacakan surat ini yang telah aku dengan ini kepadamu?" Ia menjawab, "Rasulullah shallallahu 'alaihi wasallam yang telah membacakannya padaku." Aku katakan, "Kamu telah berdusta. Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah membacakannya padaku, namun tidak sebagaimana apa yang engkau baca." Maka aku pun segera menuntunnya untuk menemui Rasulullah shallallahu 'alaihi wasallam. Selanjutnya, kukatakan kepada beliau, "Sesungguhnya aku mendengar orang ini membaca surat Al Furqan dengan huruf (dialek bacaan) yang belum pernah Anda bacakan kepadaku." Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Bacalah wahai Hisyam." Lalu ia pun membaca dengan bacaan yang telah aku dengar sebelumnya. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Begitulah ia diturunkan." Kemudian beliau bersabda: "Bacalah wahai Umar." Maka aku pun membaca dengan bacaan sebagaimana yang dibacakan oleh Rasulullah shallallahu 'alaihi wasallam kepadaku. Setelah itu, beliau bersabda: "Seperti itulah surat itu diturunkan. Sesungguhnya Al Qur'an ini diturunkan dengan tujuh huruf (tujuh dialek bacaan). Maka bacalah ia, sesuai dengan dialek bacaan yang kalian bisa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4992</td></tr><tr><td>Arabic No</td><td>4992</td></tr><tr><td>Reference</td><td>Book 66 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар бин аль-Хаттаб, да будет доволен им Аллах, сказал: «Как-то раз при жизни Посланника Аллаха ﷺ я услышал, как Хишам бин Хаким читает суру “Различение”, прислушался к его чтению (повнимательнее), и оказалось, что он читает её многими такими способами, которым Посланник Аллаха ﷺ меня не учил. Я был готов наброситься на него (за это) во время молитвы, однако сдержался, когда же он произнёс слова таслима, я схватил его за накидку и спросил: “Кто научил тебя читать ту суру, чтение которой я от тебя слышал?” Он сказал: “Читать её научил меня Посланник Аллаха ﷺ”. Я воскликнул: “Ты лжёшь, ибо Посланник Аллаха ﷺ научил меня читать её не так, как читал ты!” А потом я привёл его к Посланнику Аллаха ﷺ и сказал: “Поистине, я слышал, как этот (человек) читает суру “Различение” не так, как учил меня читать её ты!” (На это) Посланник Аллаха ﷺ сказал: “Отпусти его, а ты читай, о Хишам!” — и он прочитал её (Пророку ﷺ точно) так же, как я уже слышал, после чего Посланник Аллаха ﷺ сказал: “Так она и была ниспослана (мне)!” Потом он сказал: “(Теперь) читай ты, о ‘Умар!” — и я прочёл её так, как учил меня (Пророк ﷺ) а Посланник Аллаха ﷺ: “Так она и была ниспослана (мне)! Поистине, этот Коран был ниспослан так, что его можно читать семью способами, читайте же его так, как вам будет легче”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4992</td></tr><tr><td>Arabic No</td><td>4992</td></tr><tr><td>Reference</td><td>Book 66 Hadith 14</td></tr></tbody></table></div>
 

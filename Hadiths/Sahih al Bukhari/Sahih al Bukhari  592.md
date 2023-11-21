@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) never missed two rak'at before the Fajr 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami ['Abdul Wahid] berkata, telah menceritakan kepada kami [Asy Syaibani] berkata, telah menceritakan kepada kami ['Abdurrahman bin Al Aswad] dari [Bapaknya] dari ['Aisyah] berkata, "Dua rakaat yang tidak pernah Rasulullah shallallahu 'alaihi wasallam tinggalkan baik secara sembunyi-sembunyi maupun terang-terangan adalah dua rakaat sebelum Shubuh dan dua rakaat setelah 'Ashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>592</td></tr><tr><td>Arabic No</td><td>592</td></tr><tr><td>Reference</td><td>Book 9 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ никогда не забывал совершать два рак‘ата ни тайно, ни открыто: два рак‘ата перед утренней молитвой и два рак‘ата после послеполуденной молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>592</td></tr><tr><td>Arabic No</td><td>592</td></tr><tr><td>Reference</td><td>Book 9 Hadith 67</td></tr></tbody></table></div>
 

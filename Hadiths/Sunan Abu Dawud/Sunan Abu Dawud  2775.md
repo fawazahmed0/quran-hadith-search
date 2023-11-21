@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd ibn AbuWaqqas: We went out with the Messenger of Allah (ﷺ) from 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Ibnu Abu Fudaik], telah menceritakan kepadaku [Musa bin Ya'qub] dari [Ibnu Utsman]. Abu Daud berkata; ia adalah Yahya bin Al Hasan bin Utsman dari [Al Asy'ats bin Ishaq bin Sa'd] dari ['Amir bin Sa'd] dari [ayahnya], ia berkata; kami keluar besama Rasulullah shallallahu 'alaihi wasallam dari Mekkah henda menuju Madinah. Kemudian tatkala kami telah mendeati 'Azwara, beliau turun kemudian mengangkat kedua tangannyaa dan berdoa kepada Allah sesaat, kemudian beliau bersujud. Beliau lama berada dalam keadaan demikian kemudian bangkit dan mengangkat kedua tangannya, dan berdoa kepada Allah sesaat, kemudian beliau bersujud. Beliau lama berada dalam keadaan demikian kemudian bangkit dan mengangkat kedua tangannya, dan berdoa kepada Allah sesaat, kemudian beliau bersujud. Ahmad menyebutkan hal tersebut sebanyak tiga kali. Beliau berkata: "Aku memohon kepada Tuhanku dan memintakan syafa'at untuk umatku. Kemudian Allah memberiku sepertiga umatku, lalu aku bersujud sebagai rasa syukur kepada Tuhanku. Kemudian aku mengangkat kepalaku dan memohonkan untuk umatku. Kemudian Allah memberiku sepertiga umatku, lalu aku bersujud sebagai rasa syukur kepada Tuhanku. Kemudian aku mengangkat kepalaku dan memohonkan untuk umatku. Kemudian Allah memberiku sepertiga yang lainnya, lalu aku bersujud untuk Tuhanku." Abu Daud berkata; Asy'ats bin Ishaq telah digugurkan oleh Ahmad bin Shalih, ketika ia menceritakan hadits tersebut. Musa bin Sahl Ar Ramli menceritakan hadits tersebut darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2775</td></tr><tr><td>Arabic No</td><td>2775</td></tr><tr><td>Reference</td><td>Book 15 Hadith 299</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2775</td></tr><tr><td>Arabic No</td><td>2775</td></tr><tr><td>Reference</td><td>Book 15 Hadith 299</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Husain:That 'Ikrima said, "Kasan Dihaqa means glass full (of something)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Ibrahim] berkata, aku berkata kepada [Abu Usamah], apakah [Yahya bin Al Muhallab] telah menceritakan kepada kalian, telah menceritakan kepada kami [Hushain] dari ['Ikrimah] tentang firma Allah: Wa ka'san dihaaqan. Dia berkata; itu artinya gelas yang penuh dengan minuman". Dia ('Ikrimah) berkata, dan berkata [Ibnu 'Abbas]; aku mendengar bapakku berkata pada zaman jahiliyyah; "Berilah kami minum dengan gelas-gelas yang berisi minuman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3839</td></tr><tr><td>Arabic No</td><td>3839</td></tr><tr><td>Reference</td><td>Book 63 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хусайна, что ‘Икрима сказал об аяте: «“И полные чаши” (сура “ан-Наба”, аят 34): то есть непрерывно наполняемые»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3839</td></tr><tr><td>Arabic No</td><td>3839</td></tr><tr><td>Reference</td><td>Book 63 Hadith 64</td></tr></tbody></table></div>
 

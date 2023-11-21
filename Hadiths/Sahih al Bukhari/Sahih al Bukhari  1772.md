@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Safiya got her menses on the night of Nafr (departure from Hajj)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada saya [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha] berkata; "Shafiyyah mengalami haidh pada hari Nafar, lalu dia berkata: "Tidaklah aku memandang diriku melainkan aku telah menyusahkan kalian". Nabi shallallahu 'alaihi wasallam berkata: "Celaka, apakah kamu sudah melaksanakan thawaf pada hari Nahar". Dikatakannya: "Ya, sudah". Maka Beliau berkata: "Pulanglah". Abu 'Abdullah Al Bukhariy berkata: "Dan [Muhammad] menambahkan kepadaku, telah menceritakan kepada kami [Muhadhir] telah menceritakan kepada kami [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha] berkata; "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam dan tidaklah kami menyebutnya melainkan untuk melaksanakan haji. Ketika kami tiba (di Makkah), Beliau memerintahkan kami agar kami bertahallul. Ketika masuk malam Nafar, Shafiyyah binti Huyay mengalami haidh, maka Nabi shallallahu 'alaihi wasallam berkata: "Celaka, tidaklah kami melihat melainkan kamu telah menyusahkan kami". Kemudian Beliau bertanya: "Apakah kamu sudah melaksanakan thawaf pada hari Nahar". Dia menjawab: "Ya, benar". Maka Beliau berkata: "Kalau begitu, pulanglah". Kemudian 'Aisyah radliallahu 'anha berkata: "Wahai Rasulullah, aku belum bertahallul". Beliau berkata: "Laksanakanlah 'umrah dari At-Tan'im". Lalu berangkatlah saudaranya bersamanya kemudian setelah itu kami menemui Beliau dalam keadaan siap berangkat di akhir malam dan berkata: "Bagian tempat kamu begini begini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1772</td></tr><tr><td>Arabic No</td><td>1772</td></tr><tr><td>Reference</td><td>Book 25 Hadith 247</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Мы отправились совершать хадж вместе с посланником Аллаха ﷺ намереваясь совершить только хадж. Достигнув (Мекки), он приказал нам выйти из ихрама. В ночь отъезда (из Мекки) у Сафии бинт Хуей начались месячные, и Пророк ﷺ сказал: «Да сделает её Аллах безродной (или: «Да сделает Аллах её народ без потомства»)! Да лишит Аллах её волос (или: «Да погубит Аллах её народ»)! Думаю, что она вас задержит». Затем он спросил: «Совершила ли ты таваф в День жертвоприношения?» Она ответила: «Да». Он сказал: «Тогда отправляйся». Я (‘Аиша) сказала: «О Посланник Аллаха, я не вышла из ихрама (то есть совершила только хадж без умры)». Он ответил: «Соверши умру из Тан‘има». Со мной отправился мой брат, и мы встретили Пророка ﷺ в конце ночи. Он сказал: «Встретимся в таком-то месте»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1772</td></tr><tr><td>Arabic No</td><td>1772</td></tr><tr><td>Reference</td><td>Book 25 Hadith 247</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jundub: A desert Arab came and making his camel kneel and tethering it,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Nashr] berkata, telah mengabarkan kepada kami [Abdu Ash Shammad bin Abdul Warits] dalam bukunya, ia berkata; telah menceritakan kepadaku [Bapakku] berkata, telah menceritakan kepada kami [Al Jurairi] dari [Abu Abdullah Al Jusyami] ia berkata; telah menceritakan kepada kami [Jundub] ia berkata, "Ada seorang Arab badui datang seraya menderumkan untanya, lalu ia mengikat untanya dan masuk ke dalam masjid shalat di belakang Rasulullah shallallahu 'alaihi wasallam. Ketika Rasulullah shallallahu 'alaihi wasallam selasai salam, badui itu mendatangi untanya, ia lepaskan tali pengikatnya lalu menaikinya. Setelah itu ia berkata, "Ya Allah, rahmatilah aku dan Muhammad, dan jangan Engkau sertakan seorang pun bersama kami untuk mendapatkan rahnmat-Mu." Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Apakah kalian mengatakan bahwa ia sesat, atau untanya yang sesat? Tidakkah kalian dengar apa yang ia ucapkan?" para sahabat, "Tentu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>4885</td></tr><tr><td>Reference</td><td>Book 43 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>4885</td></tr><tr><td>Reference</td><td>Book 43 Hadith 113</td></tr></tbody></table></div>
 

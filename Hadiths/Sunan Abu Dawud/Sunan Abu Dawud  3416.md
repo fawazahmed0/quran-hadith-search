@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubaydah ibn as-Samit: I taught some persons of the people of Suffah wri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah?], telah menceritakan kepada kami [Waki'] dan [Humaid bin Abdurrahman Ar Ruwasi], dari [Al Mughirah bin Ziyad] dari ['Ubadah bin Nusai] dari [Al Aswad bin Tsa'labah] dari ['Ubadah bin Ash Shamit] ia berkata; aku mengajari orang-orang ahli Shuffah menulis dan membaca, kemudian terdapat seseorang di antara yang memberiku hadiah sebuah busur panah. Kemudian aku katakan; busur bukanlah sebuah harta, dan aku akan menggunakannya untuk memanah di jalan Allah 'azza wajalla. Sungguh aku akan datang kepada Rasulullah shallallahu 'alaihi wasallam dan bertanya kepada beliau. Kemudian aku datang kepada beliau dan aku katakan; wahai Rasulullah, seorang laki-laki di antara orang-orang yang aku ajari menulis dan membaca telah memberiku hadiah sebuah busur panah, dan busur bukanlah merupakan harta dan aku akan menggunakannya untuk memanah di jalan Allah. Beliau berkata: "Apabila engkau ingin dikalungi dengan kalung dari api maka terimalah!" telah menceritakan kepada kami ['Amr bin Utsman] dan [Katsir bin 'Ubaid], mereka berkata; telah menceritakan kepada kami [Baqiyyah], telah menceritakan kepadaku [Bisyr bin Abdullah bin Yasar]. ['Amr] berkata; dan telah menceritakan kepadaku ['Ubadah bin Nusai], dari [Junadah bin Abu Umayyah], dari ['Ubadah bin Ash Shamit], seperti hadits ini. Dan hadits yang pertama lebih sempurna. Kemudian aku katakan; bagaimana pendapat engkau, wahai Rasulullah? Kemudian beliau bersabda: "Itu adalah bara di antara dua pundakmu, engkau memakainya sebagai kalung atau menggantungkanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3416</td></tr><tr><td>Arabic No</td><td>3416</td></tr><tr><td>Reference</td><td>Book 24 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Убада ибн ас-Самит, да будет доволен им Аллах, передаёт: «Я обучил некоторых людей из числа живших под навесом письму и Корану, и один из них подарил мне лук. Я сказал себе: “Это ведь не деньги, и я буду стрелять из него на пути Всемогущего и Великого Аллаха. Но всё же пойду к Посланнику Аллаха ﷺ и спрошу его об этом”. Я пришёл к нему и сказал: “О Посланник Аллаха! Один из тех, кого я обучил письму и Корану, подарил мне лук. Это ведь не деньги, и я буду стрелять из него на пути Аллаха”. (Посланник Аллаха ﷺ) сказал: “Если хочешь надеть на себя ошейник из Огня, прими этот подарок!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3416</td></tr><tr><td>Arabic No</td><td>3416</td></tr><tr><td>Reference</td><td>Book 24 Hadith 1</td></tr></tbody></table></div>
 

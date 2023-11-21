@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mahmud bin Rabi' Al-Ansari:'Itban bin Malik used to lead his people (tr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari [Mahmud bin Ar Rabi' Al Anshari] bahwa ['Itban bin Malik] selalu menjadi imam shalat bagi kaumnya. Dan pada suatu hari dia berkata kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai Rasulullah, sering terjadi malam yang gelap gulita dan jalanan becek sedangkan aku orang yang sudah lemah penglihatan. Untuk itu aku mohon shalatlah Tuan pada suatu tempat di rumahku yang akan aku jadikan tempat shalat. Maka Rasulullah shallallahu 'alaihi wasallam mendatanginya di rumahnya. Beliau lalu berkata: "Mana tempat yang kau sukai untuk aku shalat padanya." Maka dia menunjuk suatu tempat di rumahnya, Rasulullah shallallahu 'alaihi wasallam kemudian shalat pada tempat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>667</td></tr><tr><td>Arabic No</td><td>667</td></tr><tr><td>Reference</td><td>Book 10 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Махмуда ибн ар-Раби‘ аль-Ансари о том, что (сподвижник Посланника Аллаха ﷺ и участник битвы при Бадре из числа ансаров по имени) ‘Итбан ибн Малик возглавлял людей своего племени в намазе будучи слепым, и (однажды) он сказал Посланнику Аллаха ﷺ: «О Посланник Аллаха, (иногда на улице) бывает темно и потоки (воды из-за дождя), а я человек со слабым зрением, так помолись, о Посланник Аллаха, в каком-то месте у меня дома, чтобы я потом устроил там место для своих намазов». И Посланник Аллаха ﷺ пришёл к нему и спросил: «Где ты хочешь, чтобы я помолился?» И он показал ему одно место в (своём) доме, после чего Посланник Аллаха ﷺ совершил там намаз
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>667</td></tr><tr><td>Arabic No</td><td>667</td></tr><tr><td>Reference</td><td>Book 10 Hadith 61</td></tr></tbody></table></div>
 

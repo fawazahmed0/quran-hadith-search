@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salman reported:In case it lies in your power don't be one to enter the bazar fi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdul A'laa bin Hammad] dan [Muhammad bin 'Abdul A'laa Al Qaisi] keduanya dari [Al Mu'tamir]. Berkata [Ibnu Hammad]; Telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dia berkata; aku mendengar [Bapakku]; Telah menceritakan kepada kami [Abu 'Utsman] dari [Salman] dia berkata; "Jika bisa, janganlah kamu menjadi orang yang pertama kali masuk ke dalam pasar dan orang terakhir kali keluar darinya. Karena, bagaimanapun, pasar itu adalah sasaran utama syetan dan di situlah syetan mengibarkan benderanya." Salman berkata; "Saya pernah diberitahu bahwasanya Jibril Alaihi Salam datang kepada Rasulullah shallallahu 'alaihi wasallam, yang pada saat itu Ummu Salamah ada di samping beliau. Setelah itu beliau mulai berbicara, lalu berdiri, dan akhirnya bertanya Kepada Ummu Salamah. 'Siapa ini? ' (atau sebagaimana yang beliau katakan kepadanya). Ummu Salamah menjawab; "Ini Dihyah Al Kalbi." Salman berkata; "Ummu Salamah pernah berkata; 'Demi Allah, saya tidak pernah berprasangka buruk kepadanya hingga saya mendengar Rasulullah shallallahu 'alaihi wasallam yang menuturkan berita tentang kami (atau sebagaimana yang beliau sabdakan).' Saya bertanya kepada [Abu Utsman], "Dari siapa kamu mendengar ini?" Abu Utsman menjawab; "Dari [Usamah bin Zaid]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6315</td></tr><tr><td>Arabic No</td><td>2451</td></tr><tr><td>Reference</td><td>Book 44 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салман аль-Фариси, да будет доволен им Аллах, сказал: «Если сможешь, ни в коем случае не становись ни первым из тех, кто входит на рынок, ни последним из тех, кто покидает его, ибо (на рынке ведёт) свои сражения шайтан и там он водружает своё знамя».(Абу ‘Усман) сказал: «Мне передали, что (однажды) Джибриль явился к Про­року Аллаха ﷺ, когда у него находилась Умм Саляма, и стал говорить (с ним). Потом он встал (и ушёл), а Пророк ﷺ спросил Умм Саляму: “Кто это?” (или же сказал [нечто подобное]). Она ответила: “Это Дихья (аль-Кальби)”. Потом Умм Саляма говорила: “Клянусь Аллахом, я счи­тала, что это не кто иной, как (Дихья), пока не услышала, как во время одной хутбы Пророк Аллаха ﷺ говорит (о том, что с нами было)”» (или же он сказал (нечто подобное)).(Передатчик этого хадиса) сказал: «Я спросил Абу ‘Усмана: “От кого ты слышал это?” и он сказал: “От Усамы ибн Зейда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6315</td></tr><tr><td>Arabic No</td><td>2451</td></tr><tr><td>Reference</td><td>Book 44 Hadith 145</td></tr></tbody></table></div>
 

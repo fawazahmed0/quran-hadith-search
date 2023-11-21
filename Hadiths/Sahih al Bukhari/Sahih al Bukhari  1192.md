@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar never offered the Duha prayer except on two occasions: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] dia adalah Ad-Dawraqiy telah menceritakan kepada kami [Ibnu 'Ulayyah] telah mengabarkan kepada kami [Ayyub] dari [Nafi'] bahwa [Ibnu 'Umar radliallahu 'anhumaa] tidak pernah mengerjakan shalat Dhuha kecuali pada dua kali kesempatan (hari) yaitu hari ketika dia mengunjungi Makkah saat dia memasuki kota Makkah di waktu Dhuha lalu dia melakukan thawaf di Al Bait (Ka'bah) kemudian shalat dua raka'at di belakang Maqam (Ibrahim) dan satunya lagi saat dia mengunjungi masjid Quba', yang dia mendatanginya pada hari Sabtu. Bila dia sudah memasukinya, maka dia enggan untuk keluar darinya hingga dia shalat terlebih dahulu di dalamnya. Berkata, Nafi'; "Dan Ibnu'Umar radliallahu 'anhuma menceritakan bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengunjungi (masjid Quba') baik dengan berkendaraan ataupun berjalan kaki". Berkata, Nafi'; "Dan Ibnu'Umar radliallahu 'anhuma berkata: "Sesungguhnya aku mengerjakan yang demikian seperti aku melihat para sahabatku melakukannya, namun aku tidak melarang seseorangpun untuk mengerjakan shalat pada waktu kapanpun yang dia suka baik di waktu malam maupun siang hari, asalkan tidak bersamaan waktunya saat terbitnya matahari atau saat tenggelam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1192</td></tr><tr><td>Arabic No</td><td>1192</td></tr><tr><td>Reference</td><td>Book 20 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И (Ибн ‘Умар, да будет доволен Аллах ими обоими,) часто говорил: «Я всего лишь поступаю так же, как поступали мои товарищи, чему я был свидетелем, и я никому не запрещаю совершать намаз в любое время дня и ночи, когда он пожелает, если только (человек) не будет стремиться (делать это) на восходе или закате солнца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1192</td></tr><tr><td>Arabic No</td><td>1192</td></tr><tr><td>Reference</td><td>Book 20 Hadith 4</td></tr></tbody></table></div>
 

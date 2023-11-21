@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Barza reported:The Messenger of Allah (ﷺ) used to recite in the morning pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1031</td></tr><tr><td>Arabic No</td><td>461.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Барзы, что во время утренней молитвы Посланник Аллаха ﷺ прочитывал от шестидесяти до ста аятов
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1031</td></tr><tr><td>Arabic No</td><td>461.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 193</td></tr></tbody></table></div>
 

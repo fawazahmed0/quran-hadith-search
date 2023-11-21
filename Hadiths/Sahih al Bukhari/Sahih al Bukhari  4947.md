@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:We were in the company of the Prophet (ﷺ) and he said, "There is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Sa'd bin Ubaidah] dari [Abu Abdurrahman] dari [Ali] ia berkata; Suatu ketika, kami duduk-duduk di sisi Nabi shallallahu 'alaihi wasallam, maka beliau pun bersabda: "Tidak ada seorang pun dari kalian, kecuali tempat duduknya dari surga dan dari neraka telah ditulis." Maka kami pun bertanya, "Wahai Rasulullah, bagaimana bila kita sebaiknya hanya bertawakkal saja?" beliau menjawab: "Tidak! Tetapi beramallah kalian, sebab setiap orang akan dimudahkah." Kemudian beliau membacakan ayat: "FA'AMMAA MAN 'A'THAA WAT TAQAA WA SHADDAQA BIL HUSNAA FASANUYASSIRUHU LILYUSRAA (Dan barangsiapa yang memberi, dan bertakwa serta membenarkan kebaikan).." hingga firman-Nya, "FASANUYASSIRUHU LIL'USRAA
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4947</td></tr><tr><td>Arabic No</td><td>4947</td></tr><tr><td>Reference</td><td>Book 65 Hadith 469</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али передаёт: «Мы сидели вместе с Пророком ﷺ и он сказал: “Нет никого среди вас, место которого в Аду или в Раю уже не было бы определено”. Мы спросили: «О Посланник Аллаха, так не стоит ли нам (просто) положиться (на это)?» (Пророк ﷺ) сказал: “Нет! Трудитесь, ибо каждому будет облегчено [то, для чего он был создан]”. Затем Пророк Аллаха ﷺ прочитал: “Что касается того, кто отдавал, и был богобоязненным, и признавал наилучшее, то Мы облегчим ему путь к легчайшему. А тому, кто был скуп и полагал, что ни в чём не нуждается, и кто счёл ложью наилучшее, то Мы облегчим путь к тягчайшему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4947</td></tr><tr><td>Arabic No</td><td>4947</td></tr><tr><td>Reference</td><td>Book 65 Hadith 469</td></tr></tbody></table></div>
 

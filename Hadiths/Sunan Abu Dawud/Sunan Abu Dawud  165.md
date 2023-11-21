@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Mughirah ibn Shu'bah: I poured water while the Prophet (ﷺ) perform
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Marwan] dan [Mahmud bin Khalid Ad-Dimasyqi] secara makna, telah menceritakan kepada kami [Al-Walid] berkata Mahmud telah mengabarkan kepada kami [Tsaur bin Yazid] dari [Raja' bin Haiwah] dari [Sekretatis Al-Mughirah bin Syu'bah] dari [Mughirah bin Syu'bah] dia berkata; Saya pernah menuangkan air wudhu Nabi shallallahu 'alaihi wasallam pada saat perang Tabuk, beliau mengusap bagian atas dan bagian bawah kedua khufnya. Abu Dawud berkata; Telah sampai kepadaku bahwa Tsaur tidak mendengar hadits ini dari Raja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>165</td></tr><tr><td>Arabic No</td><td>165</td></tr><tr><td>Reference</td><td>Book 1 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугъира ибн Шу‘ба сказал: «Во время похода на Табук, я наливал воды Пророку ﷺ когда он совершал омовение, и он обтер кожаные носки /хуффайн/ как сверху, так и снизу».Абу Дауд сказал: «Дошло до меня то, что Саур (ибн Йазид) не слышал этот хадис от Раджаа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>165</td></tr><tr><td>Arabic No</td><td>165</td></tr><tr><td>Reference</td><td>Book 1 Hadith 165</td></tr></tbody></table></div>
 

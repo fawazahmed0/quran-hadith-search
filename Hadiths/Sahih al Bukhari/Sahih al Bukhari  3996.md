@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Abu Zaid died and did not leave any offspring, and he was one of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepadaku [Khalifah] telah menceritakan kepada kami [Muhammad bin Abdullah Al Anshariy] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas] radliallahu 'anhu berkata; "Abu Zaid meninggal dunia dan tidak meninggalkan apapun. Dan dia termasuk orang yang ikut perang Badar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>3996</td></tr><tr><td>Reference</td><td>Book 64 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Абу Зейд умер, не оставив потомства. И он был одним из участников битвы при Бадре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>3996</td></tr><tr><td>Reference</td><td>Book 64 Hadith 47</td></tr></tbody></table></div>
 

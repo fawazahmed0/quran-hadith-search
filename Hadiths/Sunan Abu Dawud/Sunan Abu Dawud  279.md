@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah reported :Umm Habibah asked the prophet (ﷺ) about the blood (which flow
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'd] telah menceritakan kepada kami [Al-Laits] dari [Yazid bin Abi Habib] dari [Ja'far] dari ['Irak] dari [Urwah] dari [Aisyah] Sesungguhnya Ummu Habibah bertanya kepada Nabi shallallahu 'alaihi wasallam tentang darah. Aisyah berkata; Saya melihat bak (tempat mencuci) miliknya penuh dengan darah. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Diamlah (tunggulah masa suci dan tinggalkanlah shalat) selama waktu kamu biasa mengalami haidl, kemudian mandilah (sesudah masa itu habis) " Abu Dawud berkata; Dan diriwayatkan oleh Qutaibah di antara sekian banyak hadits Ja'far bin Rabi'ah di akhirnya, dan diriwayatkan oleh [Ali bin Ayyasy] dan [Yunus bin Muhammad] dari [Al-Laits] mereka berdua menyebutkan; [Ja'far bin Rabi'ah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>279</td></tr><tr><td>Arabic No</td><td>279</td></tr><tr><td>Reference</td><td>Book 1 Hadith 279</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) Умм Хабиба спросила Пророка ﷺ о (менструальной) крови. И ‘Аиша сказала: “И я видела ее тазик наполненный кровью и Посланник Аллаха ﷺ сказал ей: “Жди столько, сколько тебя удерживали (от молитвы) твои менструации, а затем искупайся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>279</td></tr><tr><td>Arabic No</td><td>279</td></tr><tr><td>Reference</td><td>Book 1 Hadith 279</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Sa'id bin Abu Sa'id Al Maburi] dari [ayahnya] dari [Abu Hurairah] dari Rasulullah Shallallahu 'alaihi wa Salam, beliau bersabda: "Sesungguhnya di surga ada pohon, seorang pengendara berjalan di bawah naungannya selama seratus tahun." Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Mughirah bin Abdurrahman Al Hizami] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam sepertinya, ia menambahkan: "Ia tidak juga sampai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7136</td></tr><tr><td>Arabic No</td><td>2826.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7136</td></tr><tr><td>Arabic No</td><td>2826.01</td></tr><tr><td>Reference</td><td>Book 53 Hadith 7</td></tr></tbody></table></div>
 

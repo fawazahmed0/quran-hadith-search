@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir bin ‘Abd Allah said “The Apostle of Allaah(ﷺ) said to me “Did you 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abu Mu'awiyah], telah mengabarkan kepada kami [Al A'masy] dari [Salim bin Abu Al Ja'd] dari [Jabir bin Abdullah], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Apakah engkau telah menikah?" Aku katakan; Iya. Beliau bertanya: "Gadis atau janda?" Aku katakan; janda. Beliau berkata: "Mengapa engkau tidak menikah dengan seorang gadis, sehingga engkau dapat bercanda dengannya dan dia bercanda denganmu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2048</td></tr><tr><td>Arabic No</td><td>2048</td></tr><tr><td>Reference</td><td>Book 12 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ спросил меня: “Ты женился?” Я ответил: “Да”. Он спросил: “На девственнице или побывавшей замужем?” Я ответил: “На побывавшей замужем”. Он спросил: “Почему же не на девственнице, с которой бы ты играл и которая играла бы с тобой?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2048</td></tr><tr><td>Arabic No</td><td>2048</td></tr><tr><td>Reference</td><td>Book 12 Hadith 3</td></tr></tbody></table></div>
 

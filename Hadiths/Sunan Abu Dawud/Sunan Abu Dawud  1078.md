@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Muhammad ibn Yahya ibn Habban: The Messenger of Allah (ﷺ) said: What 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dan ['Amru] bahwa [Yahya bin Sa'id Al Anshari] telah menceritakan kepadanya, bahwa [Muhammad bin Yahya bin Habban] telah menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah tidak semestinya salah seorang dari kalian memiliki dua pakaian atau jika salah seorang punya kemampuan mempunyai dua pakaian untuk melaksanakan shalat jum'at selain pakaian untuk bekerja sehari-hari?." 'Amru berkata; telah mengabarkan kepadaku [Ibnu Abu Habib] dari [Musa bin Sa'd] dari [Ibnu Habban] dari [Ibnu Salam] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda demikian diatas mimbar." Abu Daud berkata; "Dan hadits ini di riwayatkan oleh [Wahb bin Jarir] dari [ayahnya] dari [Yahya bin Ayyub] dari [Yazid bin Abu Habib] dari [Musa bin Sa'd] dari [Yusuf bin Abdullah bin Salam] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1078</td></tr><tr><td>Arabic No</td><td>1078</td></tr><tr><td>Reference</td><td>Book 2 Hadith 689</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Мухаммада ибн Яхья ибн Хаббана, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот из вас, у кого есть такая возможность, может иметь две одежды для пятницы помимо двух одежд, в которых он трудится». ‘Амр сказал: «Мне передал Ибн Абу Хабиб от Мусы ибн Са‘да от Ибн Хаббана от Ибн Саляма, что он слышал, как Посланник Аллаха ﷺ говорил это на минбаре». Абу Дауд сказал: «И его передал Вахб ибн Джарир от своего отца от Яхьи ибн Айюба от Язида ибн Абу Хабиба от Мусы ибн Са‘да от Юсуфа ибн ‘Абдуллаха ибн Саляма от Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1078</td></tr><tr><td>Arabic No</td><td>1078</td></tr><tr><td>Reference</td><td>Book 2 Hadith 689</td></tr></tbody></table></div>
 

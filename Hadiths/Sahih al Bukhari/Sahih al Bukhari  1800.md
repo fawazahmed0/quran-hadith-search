@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) never returned to his family from a journey at n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammam] dari [Ishaq bin 'Abdullah bin Abu Tholhah] dari [Anas radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam tidak pernah pulang kepada keluarganya secara mendadak di malam hari dan tidak memasuki rumah kecuali pada pagi atau siang hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1800</td></tr><tr><td>Arabic No</td><td>1800</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ никогда не возвращался к своей семье ночью. Обычно он возвращался утром или вечером»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1800</td></tr><tr><td>Arabic No</td><td>1800</td></tr><tr><td>Reference</td><td>Book 26 Hadith 25</td></tr></tbody></table></div>
 

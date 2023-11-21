@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aishah:There was an eclipse of the sun in the time of the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Sa'd] telah menceritakan kepada kami [pamanku] telah menceritakan kepada kami [ayahku] dari [Muhammad bin Ishaq] telah menceritakan kepadaku [Hisyam bin 'Urwah] dan [Abdullah bin Abu Salamah] dari [Sulaiman bin Yasar], semuanya telah menceritakan kepadaku, dari ['Urwah] dari [Aisyah] dia berkata; "Terjadi gerhana Matahari pada masa Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam keluar untuk mengerjakan shalat bersama orang-orang, setelah itu beliau berdiri. Maka aku memperkirakan bacaan beliau, bahwa beliau membaca surat Al Baqarah …" kemudian dia melanjutkan hadits tersebut -"lalu beliau sujud dua kali, kemudian beliau berdiri dan memanjangkan bacaannya, maka aku memperkirakan bacaan beliau, bahwa beliau membaca surat Ali Imran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1187</td></tr><tr><td>Arabic No</td><td>1187</td></tr><tr><td>Reference</td><td>Book 3 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказывается от ‘Аиши, да будет доволен ею Аллах: «Когда при жизни Посланника Аллаха ﷺ произошло солнечное затмение, он вышел и начал молиться с людьми. Когда он стоял, я оценила его чтение и решила, что он, наверное, прочитал суру “аль-Бакара”». Передатчик привёл хадис, и в нём говорилось: «…потом он совершил два земных поклона, потом встал и долго читал (аяты), и я оценила его чтение и решила, что он, наверное, прочитал суру “аль-‘Имран”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1187</td></tr><tr><td>Arabic No</td><td>1187</td></tr><tr><td>Reference</td><td>Book 3 Hadith 27</td></tr></tbody></table></div>
 

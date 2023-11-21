@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:While the Prophet (ﷺ) was in a funeral procession, he took a sma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bisyr bin Khalid] Telah mengabarkan kepada kami [Muhamad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] dari [Sa'd bin Ubaidah] dari [Abu Abdurrahman As Sulami] dari [Ali radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam, bahwasanya; Suatu ketika beliau berada dalam rombongan pelayat jenazah, lalu beliau mengambil tongkat dan menancapkannya di tanah. Kemudian beliau bersabda: "Tidak ada seorang pun dari kalian kecuali tempat duduknya dari surga atau dari neraka telah ditulis." Para sahabat pun bertanya, "Wahai Rasulullah, bagaimana kalau sebaiknya kita hanya bertawakkal saja?" beliau menjawab: "Beramallah kalian, sebab setiap orang akan dimudahkan." Kemudian beliau bersabda: "FA'AMMAA MAN 'A'THAA WAT TAQAA WA SHADDAQA BIL HUSNAA (Dan barangsiapa yang memberi, dan bertakwa serta membenarkan kebaikan).." Syu'bah berkata; [Manshur] telah menceritakan hadits ini kepadaku, namun aku tidak mengingkarinya bahwa itu adalah dari haditsnya Sulaiman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4946</td></tr><tr><td>Arabic No</td><td>4946</td></tr><tr><td>Reference</td><td>Book 65 Hadith 468</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али передал, что однажды Пророк ﷺ участвовал в похоронной процессии. И он взял небольшую палку, которой он ковырял землю и сказал: “Нет никого среди вас, место которого в Аду или в Раю уже не было бы определено”. (Люди) спросили: “О, Посланник Аллаха, так не стоит ли нам (просто) положиться (на это)?” (Пророк ﷺ) сказал: “Трудитесь, ибо каждому будет облегчено [то, для чего он был создан]”. (А затем он прочитал аят:) “Что касается того, кто отдавал, и был богобоязненным, и признавал наилучшее”».\nСказал Шу‘ба: «Рассказал мне упомянутый хадис Мансур (ибн аль-Му‘тамир), и он не упрекнул меня за то, что я рассказал от Сулеймана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4946</td></tr><tr><td>Arabic No</td><td>4946</td></tr><tr><td>Reference</td><td>Book 65 Hadith 468</td></tr></tbody></table></div>
 

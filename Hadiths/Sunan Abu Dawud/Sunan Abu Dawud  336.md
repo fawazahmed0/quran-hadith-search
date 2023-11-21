@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir said:We set out on a journey. One of our people was hurt by a stone, that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Abdurrahman Al-Anthaki] telah menceritakan kepada kami [Muhammad bin Salamah] dari [Az-Zubair bin Khuraiq] dari ['Atha'] dan [Jabir] dia berkata; Kami pernah keluar dalam sebuah perjalanan, lalu salah seorang di antara kami terkena batu pada kepalanya yang membuatnya terluka serius. Kemudian dia bermimpi junub, maka dia bertanya kepada para sahabatnya; Apakah ada keringanan untukku agar saya bertayammum saja? Mereka menjawab; Kami tidak mendapatkan keringanan untukmu sementara kamu mampu untuk menggunakan air, maka orang tersebut mandi dan langsung meninggal. Ketika kami sampai kepada Nabi shallallahu 'alaihi wasallam, beliau diberitahukan tentang kejadian tersebut, maka beliau bersabda: "Mereka telah membunuhnya, semoga Allah membunuh mereka! Tidakkah mereka bertanya apabila mereka tidak mengetahui, karena obat dari kebodohan adalah bertanya! Sesungguhnya cukuplah baginya untuk bertayammum dan meneteskan air pada lukanya -atau- mengikat lukanya- Musa ragu- kemudian mengusapnya saja dan mandi untuk selain itu pada seluruh tubuhnya yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>336</td></tr><tr><td>Arabic No</td><td>336</td></tr><tr><td>Reference</td><td>Book 1 Hadith 336</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Однажды, когда мы были в поездке, один мужчина из нашего числа ударился головой об камень и разбил себе голову. Во сне у него произошла поллюция, и он спросил у своих спутников: “Могу ли я очиститься песком?” Они сказали: “Мы думаем, что ты не должен очищаться песком, если можешь искупаться водой”. Он искупался и умер. Когда они вернулись, то рассказали об этом Пророку ﷺ и он сказал: “Они убили его! Да погубит их Аллах! Почему же они не спросили о том, чего не знали?! Поистине, лекарство от невежества это вопрос. Ему было достаточно очиститься песком, и, обтереть (повязку)” или (он сказал): “перевязать (рану) (здесь) Муса сомневался, перевязать рану, после чего обтереть ее и помыть все остальное тело”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>336</td></tr><tr><td>Arabic No</td><td>336</td></tr><tr><td>Reference</td><td>Book 1 Hadith 336</td></tr></tbody></table></div>
 

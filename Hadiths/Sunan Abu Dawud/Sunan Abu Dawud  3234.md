@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:The Messenger of Allah (ﷺ) visited his mother's grave an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari], telah menceritakan kepada kami [Muhammad bin 'Ubaid] dari [Yazid? bin Kaisan] dari [Abu Hazim] dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam datang ke kuburan ibunya, kemudian beliau menangi, dan orang-orang yang ada di sekitarnya menangis. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya aku telah meminta izin kepada Tuhanku ta'ala untuk memintakan ampunan baginya, namun aku tidak diperkenankan. Lalu aku meminta izin untuk mengunjungi kuburannya, lalu aku Dia memberiku izin. Maka ziarahilah kubur, karena sesungguhnya kuburan tersebut akan mengingatkanmu kepada kematian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (976)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3234</td></tr><tr><td>Arabic No</td><td>3234</td></tr><tr><td>Reference</td><td>Book 21 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ пришёл на могилу своей матери и плакал там, и, глядя на него, плакали присутствующие, и Посланник Аллаха ﷺ сказал: «Я попросил у моего Всевышнего Господа разрешения просить для неё прощения, однако мне не было разрешено это, и я попросил разрешения навестить её могилу, и мне было разрешено это. Посещайте же могилы, ибо, поистине, они напоминают о смерти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (976)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3234</td></tr><tr><td>Arabic No</td><td>3234</td></tr><tr><td>Reference</td><td>Book 21 Hadith 146</td></tr></tbody></table></div>
 

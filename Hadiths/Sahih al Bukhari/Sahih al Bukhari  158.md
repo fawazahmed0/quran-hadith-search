@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zaid:The Prophet (ﷺ) performed ablution by washing the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Husain bin 'Isa] berkata, telah menceritakan kepada kami [Yunus bin Muhammad] berkata, telah menceritakan kepada kami [Fulaih bin Sulaiman] dari ['Abdullah bin Abu Bakar bin 'Amru bin Hazm] dari ['Abbad bin Tamim] dari ['Abdullah bin Zaid], bahwa Nabi shallallahu 'alaihi wasallam berwudlu dua kali dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>158</td></tr><tr><td>Arabic No</td><td>158</td></tr><tr><td>Reference</td><td>Book 4 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Зейда аль-Ансари, да будет доволен им Аллах, о том, что Пророк ﷺ омывал (каждую часть своего тела) по два раза
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>158</td></tr><tr><td>Arabic No</td><td>158</td></tr><tr><td>Reference</td><td>Book 4 Hadith 24</td></tr></tbody></table></div>
 

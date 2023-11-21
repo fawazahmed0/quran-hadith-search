@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thawban:The Messenger of Allah (ﷺ) sacrificed during a journey and th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Hammad bin Khalid Al Khayyath], ia berkata; telah menceritakan kepada kami [Mu'awiyah bin Shalih] dari [Abu Az Zahiriyyah], dari [Jubair bin Nufair], dari [Tsauban], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkurban kemudian berkata: "Wahai Tsauban, persiapkan daging kambing ini untuk kami!" Aku terus memberi beliau makan dari daging tersebut hingga kami datang ke Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1975)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2814</td></tr><tr><td>Arabic No</td><td>2814</td></tr><tr><td>Reference</td><td>Book 16 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Шаддада ибн Ауса, да будет доволен им Аллах: «Я слышал от Посланника Аллаха ﷺ два предписания: “Поистине, Аллах предписал всё делать наилучшим образом, и если вам придётся убивать, делайте это хорошим способом, и если вам придётся резать животное, делайте это хорошим способом, и пусть любой из вас хорошо точит нож и избавляет животное от мучений”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1975)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2814</td></tr><tr><td>Arabic No</td><td>2814</td></tr><tr><td>Reference</td><td>Book 16 Hadith 27</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim bin Dinar:Some people went to Sahl bin Sa'd As-Sa'idi and tol
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Ya'qub bin 'Abdurrahman bin Muhammad bin 'Abdullah bin 'Abdul Qari Al Qurasyi Al Iskandarani] berkata, telah menceritakan kepada kami [Abu Hazim bin Dinar] bahwa ada orang-orang mendatangi [Sahl bin Sa'd As Sa'idi] yang berdebat tentang mimbar dan bahan membuatnya? Mereka menanyakan hal itu kepadanya. Sahl lalu berkata, "Demi Allah, akulah orang yang paling mengerti tentang masalah ini. Sungguh aku telah melihat hari pertama mimbar tersebut dipasang dan hari saat Rasulullah shallallahu 'alaihi wasallam duduk di atasnya. Rasulullah shallallahu 'alaihi wasallam mengutus orang untuk menemui seorang wanita Anshar, yang namanya sudah disebutkan oleh Sahl, Sahl lalu berkata, "Perintahkanlah budak lelakimu yang tukang kayu itu untuk membuat mimbar bertangga, sehingga saat berbicara dengan orang banyak aku bisa duduk di atasnya." Maka kemudian wanita itu memerintahkan budak lelakinya membuat mimbar yang terbuat dari batang kayu hutan. Setelah diberikan kepada wanita itu, lalu itu mengirimnya untuk Rasulullah shallallahu 'alaihi wasallam. Maka Beliau memerintahkan orang untuk meletakkan mimbar tersebut di sini. Lalu aku melihat Rasulullah shallallahu 'alaihi wasallam shalat diatasnya. Beliau bertakbir dalam posisi di atas mimbar lalu rukuk dalam posisi masih di atas mimbar. Kemudian Beliau turun dengan mundur ke belakang, lalu sujud di dasar mimbar, kemudian Beliau mengulangi lagi (hingga shalat selesai). Setelah selesai, beliau menghadap kepada orang banyak lalu bersabda: "Wahai sekalian manusia, sesungguhnya aku berbuat seperti tadi agar kalian mengikuti dan agar kalian dapat mengambil pelajaran tentang tata cara shalatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 11 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что как-то раз люди, у которых возник спор относительно того, из какого дерева был сделан минбар (Пророка ﷺ) спросили об этом Сахля бин Са‘да ас-Са‘иди, да будет доволен им Аллах, и он сказал: «Поистине, я хорошо знаю, из чего он был (сделан), и я видел его в тот день, когда он был установлен, и в тот день, когда на него впервые сел Посланник Аллаха ﷺ. (Но сначала) Посланник Аллаха ﷺ послал (человека) к такой-то женщине, — и Сахль назвал ее имя — (чтобы ей передали): “Вели своему рабу-плотнику, чтобы он сделал для меня (возвышение) из дерева, на котором я буду сидеть, когда стану обращаться к людям”. И она отдала распоряжение (своему рабу), который сделал (этот минбар) из тамариска, а потом доставил его (к ней). Она отослала (его) к Посланнику Аллаха ﷺ по велению которого он был установлен здесь. А потом я видел, как Посланник Аллаха ﷺ совершил на этом минбаре молитву, (начав) с произнесения слов “Аллах велик” и совершения поясного поклона. Затем он сошел вниз, пятясь назад, и совершил у подножия минбара земной поклон, а затем (снова поднялся на минбар). Когда же он закончил (молитву), то повернулся к людям и сказал: “О люди, поистине, я сделал это, чтобы вы следовали за мной и учились тому, как я совершаю свою молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 11 Hadith 41</td></tr></tbody></table></div>
 

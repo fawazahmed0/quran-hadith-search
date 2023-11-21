@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abu Bakr:I came to 'Aisha the wife of the Prophet (ﷺ) duri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Hisyam bin 'Urwah] dari isterinya [Fatimah] dari neneknya [Asma' binti Abu Bakar] bahwa ia berkata, "Aku pernah menemui 'Aisyah, isteri Nabi shallallahu 'alaihi wasallam, ketika terjadi gerhana matahari. Saat itu orang-orang sedang melaksanakan shalat dan saat itu iapun berdiri shalat. Setelah itu aku katakan kepadanya, "Apa yang dilakukan orang-orang?" Aisyah lalu memberi isyarat dengan tangannya ke arah langit seraya berkata, "Maha suci Allah." Aku lalu berkata, "Satu tanda kekuasaan Allah." Lalu dia mengiyakan dengan memberi isyarat. Maka akupun ikut shalat sementara timbul perkara yang membingungkanku, hingga aku siram kepalaku dengan air. Selesai shalat Rasulullah shallallahu 'alaihi wasallam mengucapkan puja dan puji kepada Allah, kemudian beliau bersabda: "Tidak ada sesuatu yang belum diperlihatkan kepadaku, kecuali aku sudah melihatnya dari tempatku ini hingga surga dan neraka. Dan telah diwahyukan kepadaku bahwa kalian akan terkena fitnah dalam qubur kalian seperti, atau hampir serupa dengan fitnah Dajjal yang aku sendiri tidak tahu fitnah apakah itu." Asma' berkata, "Setiap salah seorang dari kalian akan didatangkan (dalam sidang), lalu dikatakan kepadanya, 'Apa yang kamu ketahui tentang laki-laki ini (Rasulullah)? ' Adapun orang beriman atau orang yang yakin -aku tidak tahu mana yang Asma' ucapkan-, lalu orang tersebut akan menjawab, 'Dia adalah Muhammad utusan Allah. Ia datang kepada kami membawa penjelasan dan petunjuk. Kami lalu menyambutnya, beriman dan mengikuti seruannya.' Maka kepada orang itu dikatakan, 'Tidurlah kamu dengan baik, sungguh kami telah mengetahui bahwa kamu adalah orang beriman.' Adapun Munafik atau pelaku dosa besar -Aku tidak tahu mana yang diucapkan Asma'- akan menjawab, 'Aku tidak tahu siapa dia, aku mendengar orang-orang mengatakan sesuatu maka aku pun mengikuti ucapan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>184</td></tr><tr><td>Arabic No</td><td>184</td></tr><tr><td>Reference</td><td>Book 4 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хишам ибн ‘Урва передал со слов своей жены Фатимы, передавшей со слов матери его отца Асмаъ бинт Абу Бакр, да будет доволен ею Аллах, которая сказала: «(Однажды) во время затмения солнца я зашла к жене пророка ‘Аише, да будет доволен ею Аллах, и в это время люди совершали молитву. Она также стояла и совершала молитву и спросила (её): “Что происходит с людьми?” (В ответ) она указала (рукой) на небо и воскликнула: “Преславен Аллах! /Субхана-Ллах!/” Я спросила: “(Это) знамение?” — и она утвердительно кивнула головой. Тогда я тоже приступила к молитве и молилась, пока не начала терять сознание, из-за чего мне пришлось полить себе голову водой. Завершив молитву, Посланник Аллаха ﷺ воздал хвалу Аллаху, восславил Его и сказал: “На этом месте я (только что) увидел всё, что мне не было показано раньше, в том числе — рай и ад. И мне было ниспослано откровение о том, что в могилах своих вы подвергнетесь такому же (или: близкому к этому) испытанию и будет им испытание, связанное с Антихристом. Приведут одного из вас и спросят: “Что ты знаешь об этом человеке?” — и верующий (или: убеждённый) ответит: “Это — Мухаммад, Посланник Аллаха, который пришёл к нам с явными доказательствами и руководством, а мы ответили (ему), уверовали (в него) и последовали (за ним)”, после чего (ангелы) скажут ему: “Спи во благе, ибо мы убедились, что ты веровал в него!” Что же касается лицемера (или: сомневающегося), то он скажет: “Я не знаю, я только слышал, как люди говорили что-то, и говорил то же самое”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>184</td></tr><tr><td>Arabic No</td><td>184</td></tr><tr><td>Reference</td><td>Book 4 Hadith 50</td></tr></tbody></table></div>
 

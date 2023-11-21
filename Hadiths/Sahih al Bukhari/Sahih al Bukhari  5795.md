@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) came to visit 'Abdullah bin Ubai 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Utsman] telah mengabarkan kepada kami [Ibnu 'Uyainah] dari ['Amru] dia mendengar [Jabir bin Abdullah] radliallahu 'anhuma berkata; "Nabi shallallahu 'alaihi wasallam pernah mendatangi kuburan Abdullah bin Ubay setelah ia dikuburkan, beliau kemudian menyuruh untuk mengeluarkannya, lalu diletakkan di atas lututnya, beliau kemudian meniup sedikit air liurnya dan memakaikan bajunya." Wallahhu Ta'ala A'lam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>5795</td></tr><tr><td>Reference</td><td>Book 77 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ пришёл к (могиле) ‘Абдуллаха ибн Убаййа уже после того, как (тело) было опущено в могилу, и приказал вытащить его оттуда. После того как его вынули, он положил его тело на свои колени, поплевал на него небольшим количеством слюны и одел на него свою рубаху, а Аллах знает лучше (почему он так поступил)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>5795</td></tr><tr><td>Reference</td><td>Book 77 Hadith 13</td></tr></tbody></table></div>
 

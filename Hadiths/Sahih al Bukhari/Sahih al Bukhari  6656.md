@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Any Muslim who has lost thre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] menuturkan; telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari [Ibnul Musayyab] dari [Abu Hurairah], bahwasanya Rasulullah Shallallahu'alaihiwasallam bersabda: "Seorang muslim yang mendapat kematian ketiga anaknya, tidak akan tersentuh api neraka kecuali sebatas pelaksanaan sumpah Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6656</td></tr><tr><td>Arabic No</td><td>6656</td></tr><tr><td>Reference</td><td>Book 83 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Любого мусульманина, у которого умрут трое детей, огонь коснётся только во исполнение клятвы Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6656</td></tr><tr><td>Arabic No</td><td>6656</td></tr><tr><td>Reference</td><td>Book 83 Hadith 35</td></tr></tbody></table></div>
 

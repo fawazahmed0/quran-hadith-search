@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever does not give up forged sp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] telah menceritakan kepada kami [Ibnu Abu Dza'bi] telah menceritakan kepada kami [Sa'id Al Maqbariy] dari [bapaknya] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang tidak meninggalkan ucapan keji dan berbuat keji, Allah tidak butuh orang itu meninggalkan makan dan minumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1903</td></tr><tr><td>Arabic No</td><td>1903</td></tr><tr><td>Reference</td><td>Book 30 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если (человек) не прекратит лгать и поступать по лжи, Аллаху не нужно будет, чтобы он отказывался от своей еды и питья»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1903</td></tr><tr><td>Arabic No</td><td>1903</td></tr><tr><td>Reference</td><td>Book 30 Hadith 13</td></tr></tbody></table></div>
 

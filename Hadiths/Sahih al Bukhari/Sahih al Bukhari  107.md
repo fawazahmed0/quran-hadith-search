@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Az-Zubair:I said to my father, 'I do not hear from you an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Jami' bin Syaddad] dari ['Amir bin 'Abdullah bin Az Zubair] dari [Bapaknya] berkata, "Aku berkata kepada [Az Zubair], "Aku belum pernah mendengar kamu membicarakan sesuatu dari Rasulullah shallallahu 'alaihi wasallam sebagaimana orang-orang lain membicarakannya?" Az Zubair menjawab, "Aku tidak pernah berpisah dengan beliau, aku mendengar beliau mengatakan: "Barangsiapa berdusta terhadapku maka hendaklah ia persiapkan tempat duduknya di neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>107</td></tr><tr><td>Arabic No</td><td>107</td></tr><tr><td>Reference</td><td>Book 3 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн аз-Зубайр, да будет доволен ими обоими Аллах, сказал:\n— (Однажды) я сказал (своему отцу) аз-Зубайру: «Поистине, я не слышу, чтобы ты рассказывал (хадисы) от Посланника Аллаха, как такой-то и такой-то?!» Он ответил: «Я же не расставался с ним, однако, я слышал, как он говорил: “Тот, кто возведёт на меня ложь, пусть займёт своё место в Огне!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>107</td></tr><tr><td>Arabic No</td><td>107</td></tr><tr><td>Reference</td><td>Book 3 Hadith 49</td></tr></tbody></table></div>
 

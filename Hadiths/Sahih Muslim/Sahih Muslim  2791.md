@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported that a person asked the Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, bahwa seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam perihal pakaian Ihram. Maka Rasulullah shallallahu 'alaihi wasallam pun menjawab: "Tidak boleh pakai kemeja, serban, celana, peci dan sepatu. Kecuali bagi seorang yang tidak mempunyai terompah, dia boleh memakai sepatu pendek yang tidak menutupi kedua mata kaki. Dan tidak boleh memakai pakaian yang dicelup dengan Za'faran dan Wars
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2791</td></tr><tr><td>Arabic No</td><td>1177.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара, да будет доволен им Аллах, о том, что один человек спросил Посланника Аллаха ﷺ: «Какую одежду должен надевать (паломник, желающий войти) в состояние ихрама?» Посланник Аллаха ﷺ сказал: «Не надевайте ни рубахи, ни чалмы, ни шаровары, ни бурнусы, ни кожаные носки, (которые не следует носить) никому, кроме тех, кто не (сможет) найти сандалии. Пусть (такой чело­век) носит кожаные носки, обрезав их так, чтобы (верхние края не до­ходили) до лодыжек. И не носите одежд, (окрашенных) шафраном или жёлтым деревом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2791</td></tr><tr><td>Arabic No</td><td>1177.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 1</td></tr></tbody></table></div>
 

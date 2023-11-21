@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that a person came to Allah's Apostle (ﷺ) and said:Allah's Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Sa'id Al Asyaj] keduanya berkata; Telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] dia berkata; Seseorang datang kepada Nabi shallallahu 'alaihi wasallam seraya berkata; "Ya Rasulullah! Aku bermimpi dalam tidurku, kepalaku di penggal, bagaimana itu?" Maka Rasulullah shallallahu 'alaihi wasallam pun tertawa, beliau bersabda: 'Apabila setan mempermainkan salah seorang dari kalian di dalam tidurnya, maka janganlah dia menceritakannya kepada orang lain. Dan di dalam riwayat Abu Bakr; 'Apabila seseorang dari kalian dipermainkan…) -tanpa menyebutkan lafazh syetan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5927</td></tr><tr><td>Arabic No</td><td>2268.05</td></tr><tr><td>Reference</td><td>Book 42 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5927</td></tr><tr><td>Arabic No</td><td>2268.05</td></tr><tr><td>Reference</td><td>Book 42 Hadith 31</td></tr></tbody></table></div>
 

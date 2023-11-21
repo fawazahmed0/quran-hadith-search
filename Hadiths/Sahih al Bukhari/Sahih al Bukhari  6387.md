@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:My father died and left behind seven or nine daughters, and I mar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Amru] dari [Jabir] radliallahu 'anhu dia berkata; "Ayahku telah meninggal dan meninggalkan tujuh atau sembilan anak perempuan, oleh karena itu aku menikahi wanita." Maka Nabi shallallahu 'alaihi wasallam bersabda: 'Apakah kamu sudah nikah wahai Jabir? ' Jawabku; 'Ya, sudah.' Beliau bersabda: 'Gadis atau janda? ' Aku menjawab; 'Janda.' Beliau bersabda: 'Tidakkah kamu pilih gadis, hingga kamu bisa bercumbu dengannya dan dia bisa bercumbu denganmu, atau kamu dapat bergurau dengannya dan dia dapat bergurau denganmu? ' Aku menjawab; 'Ayahku telah meninggal dunia dengan meninggalkan tujuh atau sembilan anak perempuan, dan aku tidak suka jika aku menikah dengan wanita yang seumur dengan mereka. Oleh karena itu, aku menikahi wanita yang dapat mengurusi mereka.' Beliau bersabda: 'Semoga Allah memberkahimu.' Namun [Ibnu Uyainah] dan [Muhammad bin Muslim] dari ['Amru] tidak mengatakan; 'Semoga Allah memberkahimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6387</td></tr><tr><td>Arabic No</td><td>6387</td></tr><tr><td>Reference</td><td>Book 80 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен им Аллах, рассказывал: «Когда мой отец умер, оставив семь (или: девять) дочерей, я женился. И как-то Пророк ﷺ спросил (меня): “О Джабир, ты женился?” Я сказал: “Да”. Он спросил: “На девственнице или на той, что уже была замужем?” Я сказал: “На той, что была замужем”. Он спросил: “Почему же не женился на молоденькой девушке, с которой ты мог бы играть и которая играла бы с тобой, или с которой бы ты смеялся и которая смеялась бы вместе с тобой?” Я ответил (ему): “Отец ведь умер, оставив семь (или: девять) дочерей, и я не желал приводить к ним ту, что была бы подобна им, но хотел привести женщину, которая присматривала бы за ними и воспитывала бы их”. Тогда (Пророк ﷺ) сказал: “Да ниспошлёт Аллах тебе Свои благословения /Барака-Ллаху ‘аляйка/”». \n(Суфьян) ибн ‘Уейна и Мухамммад ибн Муслим не передали от ‘Амр (ибн Динара) слова: «Да ниспошлёт Аллах тебе Свои благословения /Барака-Ллаху ‘аляйка»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6387</td></tr><tr><td>Arabic No</td><td>6387</td></tr><tr><td>Reference</td><td>Book 80 Hadith 82</td></tr></tbody></table></div>
 

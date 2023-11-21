@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Busr ibn Artat: Junadah ibn AbuUmayyah said: We were with Busr ibn Arta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Haiwah bin Syuraih] dari [Ayyasy bin Ayyasy Al Qitbani] dari [Syiyaim bin Baitan] dan [Yazid bin Shubh Al Ashbahi] dari [Junadah bin Abu Umayyah] ia berkata, "Ketika aku dan [Busr bin Arthah] berlayar di lautan, seorang pencuri yang bernama mishdar dihadapkan kepada kami. Ia telah mencuri unta yang berleher panjang. Busr bin Arthah berkata, "Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tangan (pencuri) tidak boleh dipotong dalam perjalanan, " kalaulah bukan karena hal itu, tentu aku sudah memotongnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4408</td></tr><tr><td>Arabic No</td><td>4408</td></tr><tr><td>Reference</td><td>Book 40 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джунады ибн Абу Умайя: «Мы были вместе с Бусром ибн Арта в море, и к нему привели вора по имени Мисдар, который украл верблюдицу. Он сказал: “Я слышал, как Посланник Аллаха ﷺ сказал: “Не следует отрубать руку в походе”. А иначе я бы непременно отрубил ему руку”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4408</td></tr><tr><td>Arabic No</td><td>4408</td></tr><tr><td>Reference</td><td>Book 40 Hadith 58</td></tr></tbody></table></div>
 

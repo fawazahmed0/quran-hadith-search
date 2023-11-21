@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:The Messenger of Allah (ﷺ) said: When the supper is served 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Bapakku] --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan lafazh tersebut adalah miliknya, telah menceritakan kepada kami [Abu Usamah] keduanya berkata, telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dia berkata, "Rasulullah Shallallahu'alaihiwasallam bersabda, 'Apabila makan malam salah seorang dari kalian sudah terhidang, sedangkan shalat sudah diiqamatkan, maka dahulukanlah makan malam, dan jangan tergesa-gesa sampai makan malam itu selesai'." Dan telah menceritakan kepada kami [Muhammad bin Ishaq al-Musayyabi] telah menceritakan kepadaku [Anas, yaitu Ibnu Iyadh] dari [Musa bin Uqbah] --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Hammad bin Mas'adah] dari [Ibnu Juraij] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [ash-Shalt bin Mas'ud] telah menceritakan kepada kami [Sufyan bin Musa] dari [Ayyub] semuanya meriwayatkan dari [Nafi'] dari [Ibnu Umar] dari Nabi Shallallahu'alaihiwasallam dengan hadits yang semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1244</td></tr><tr><td>Arabic No</td><td>559.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Посланник Аллаха ﷺ сказал: «Если кому-либо из вас подадут ужин, и в это время будет объявлено о начале молитвы, начинайте с ужина, и никому не следует торопиться, пока он не закончит есть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1244</td></tr><tr><td>Arabic No</td><td>559.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 82</td></tr></tbody></table></div>
 

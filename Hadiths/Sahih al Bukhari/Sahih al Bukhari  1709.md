@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amra bint 'Abdur-Rahman:I heard 'Aisha saying, "Five days before the e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti 'Abdurrahman] berkata; Aku mendengar ['Aisyah radliallahu 'anha] berkata: "Kami keluar bersama Rasulullah Shallallahu'alaihiwasallam pada lima hari terakhir bulan Dzul Qa'dah yang tujuan kami tidak lain kecuali untuk menunaikan hajji. Ketika kami sudah dekat dengan kota Makkah, Rasulullah Shallallahu'alaihiwasallam memerintahkan: "Barangsiapa yang tidak membawa Hadyu (hewan qurban) apabila telah thawaf di Ka'bah Baitullah dan sa'iy di bukit Shafaa dan Marwah hendaklah dia bertahallul". 'Aisyah radliallahu 'anha berkata: "Ketika hari Nahar kami dikirimi daging sapi lalu aku bertanya; "Apa ini?. Dia menjawab: "Ini kurban Rasulullah Shallallahu'alaihiwasallam atas nama isteri-isteri Beliau". Yahya berkata; Lalu aku ceritakan kepada Al Qasim, maka dia berkata: "Dia menyampaikan hadis kepadamu secara langsung?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1709</td></tr><tr><td>Arabic No</td><td>1709</td></tr><tr><td>Reference</td><td>Book 25 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Мы выехали (из Медины) вместе с посланником Аллаха ﷺ за пять дней до конца (месяца) зу-ль-ка‘да с единственной целью совершить хадж, а когда мы приблизились к Мекке, Посланник Аллаха ﷺ велел тем, у кого не было с собой жертвенного скота, выйти из состояния ихрама после обхода Каабы и бега между (холмами) ас-Сафа и аль-Марва».\n(‘Аиша) сказала: «А в день жертвоприношения нам принесли мясо коровы. Я спросила: “Что это?” (Мне) ответили: “Посланник Аллаха ﷺ принёс жертву за своих жён”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1709</td></tr><tr><td>Arabic No</td><td>1709</td></tr><tr><td>Reference</td><td>Book 25 Hadith 187</td></tr></tbody></table></div>
 

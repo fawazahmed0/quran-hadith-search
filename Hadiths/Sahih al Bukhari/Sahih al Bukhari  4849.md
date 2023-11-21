@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:(that the Prophet (ﷺ) said) "It will be said to the Hell,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Musa Al Qaththan] Telah menceritakan kepada kami [Abu Sufyan Al Himyari Sa'id bin Yahya bin Mahdi] Telah menceritakan kepada kami ['Auf] dari [Muhammad] dari [Abu Hurairah] secara marfu, namun Abu Sufyan mendapatkan Hadits ini kebanyakan bersifat mauquf. dikatakan kepada neraka Jahannam; Apakah sudah penuh? Neraka Jahannam bertanya; Apakah ada tambahan lagi? Maka Allah Tabaraka wa Ta'ala meletakan kakinya di atasnya, kemudian neraka itu berkata; 'Cukup, cukup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>4849</td></tr><tr><td>Reference</td><td>Book 65 Hadith 370</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>4849</td></tr><tr><td>Reference</td><td>Book 65 Hadith 370</td></tr></tbody></table></div>
 

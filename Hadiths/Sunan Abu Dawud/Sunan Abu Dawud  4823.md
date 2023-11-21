@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. Samurah said:the Messenger of Allah (ﷺ) entered the mosque, and saw t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Al A'masy] ia berkata; telah menceritakan kepadaku [Al Musayyab bin Rafi'] dari [Tamim bin Tharafah] dari [Jabir bin Samurah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam masuk ke dalam masjid saat para sahabat dalam sebuah lingkaran majlis, beliau lalu bersabda: "Kenapa aku melihat kalian berpencar-pencar (dalam lingkaran majlis)?" Telah menceritakan kepada kami [Wasil bin Abdul A'la] dari [Ibnu Fudhail] dari [Al A'masy] seperti ini, ia berkata, "sepertinya beliau suka mereka berkumpul (tidak berpencar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 43 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 43 Hadith 51</td></tr></tbody></table></div>
 

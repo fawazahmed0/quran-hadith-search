@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jubair b. Mut'im:That he and 'Uthman b. 'Affan went to the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar bin Maisarah], telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Abdullah bin Al Mubarak] dari [Yunus bin Yazid?] dari [Az Zuhri], telah mengabarkan kepadaku [Sa'id bin Al Musayyab], telah mengabarkan kepadaku [Jubair bin Muth'im] bahwa ia bersama Utsman bin 'Affan datang untuk berbicara kepada Rasulullah shallallahu 'alaihi wasallam mengenai seperlima bagian yang beliau bagikan diantara Bani Hasyim dan Bani Al Muththalib. Kemudian aku katakan; wahai Rasulullah, anda telah membagi untuk saudara-saudara kami Bani Al Muththalib, dan anda tidak memberikan sesuatupun kepada kami, padahal kerabat kami dan kerabat mereka bagi anda adalah satu. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Bani Hasyim dan Bani Abdul Muththalib adalah sesuatu yang satu." Jubair berkata; beliau tidak membagikan kepada Bani Abdusy Syams dan Bani Naufal dari seperlima tersebut sebagaimana beliau membagikan kepada Bani Hasyim dan Bani Al Muththalib. Ia berkata; dan Abu Bakr membagikan seperti pembagian Rasulullah shallallahu 'alaihi wasallam hanya saja ia tidak memberikan kepada kaum kerabat Rasulullah shallallahu 'alaihi wasallam, sebagaimana Rasulullah shallallahu 'alaihi wasallam memberikan kepada mereka. Ia berkata; dan Umar bin Al Khaththab memberikan kepada mereka dari bagian tersebut begitu juga Utsman setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4229)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2978</td></tr><tr><td>Arabic No</td><td>2978</td></tr><tr><td>Reference</td><td>Book 20 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джубайра ибн Мут‘има, да будет доволен им Аллах, что он вместе с ‘Усманом ибн ‘Аффаном пришёл к Посланнику Аллаха ﷺ чтобы поговорить о выделенной из хумуса доле бану хашим и бану аль-мутталиб: «И я сказал: “О Посланник Аллаха! Ты наделил наших братьев бану аль-Мутталиб, но ничего не дал нам, (бану ‘абд шамс и бану науфаль), а ведь мы состоим с тобой в родстве такой же степени, как и они”. Пророк ﷺ сказал: “Бану Хашим и бану аль-Мутталиб одно”». Джубайр сказал: «И он ничего не дал из этого хумуса ни бану ‘абд шамс, ни бану науфаль, а бану хашим и бану аль-мутталиб наделил». Он сказал: «Абу Бакр делил хумус так же, как Посланник Аллаха ﷺ, однако он не давал родственникам Посланника Аллаха ﷺ того, что давал им сам Пророк ﷺ». Он сказал: «А ‘Умар ибн аль-Хаттаб наделял их из этих средств, и так же поступал ‘Усман после него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4229)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2978</td></tr><tr><td>Arabic No</td><td>2978</td></tr><tr><td>Reference</td><td>Book 20 Hadith 51</td></tr></tbody></table></div>
 

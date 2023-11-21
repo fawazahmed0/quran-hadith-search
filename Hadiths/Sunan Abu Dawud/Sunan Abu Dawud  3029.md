@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said that the Prophet (ﷺ) gave three instructions saying “Expel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Sufyan bin 'Uyainah], dari [Sulaiman Al Ahwal], dari [Sa'id bin Jubair], dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam telah berwasiat dengan tiga perkara. Beliau berkata: "Keluarkan orang-orang musyrik dari Jazirah Arab, berikanlah hadiah kepada para utusan sebagaimana dahulu aku memberikan hadiah kepada mereka." Ibnu Abbas berkata; -dan ia tidak menyebutkan yang ketiga, atau dia mengatakan; aku lupa yang ketiga. [Al Humaidi] berkata; dari [Sufyan]; [Sulaiman] berkata; aku tidak mengetahui apakah Sa'id mengatakan yang ketiga; aku lupa yang ketiga atau ia tidak menyebutkan yang ketiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3053) Sahih Muslim (1637)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3029</td></tr><tr><td>Arabic No</td><td>3029</td></tr><tr><td>Reference</td><td>Book 20 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ наказал мусульманам сделать три вещи, сказав: «Выселите многобожников из Аравии и разрешите делегациям прибывать в Аравию, как разрешал я». Ибн ‘Аббас сказал: «И он умолчал о третьем деле». Или же он сказал: «Я забыл о третьем». Аль-Хумайди сказал, передавая от Суфьяна, что Сулейман сказал: «И я не знаю, назвал ли Са‘ид третье дело, а я забыл о нём, или же он умолчал о нём»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3053) Sahih Muslim (1637)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3029</td></tr><tr><td>Arabic No</td><td>3029</td></tr><tr><td>Reference</td><td>Book 20 Hadith 102</td></tr></tbody></table></div>
 

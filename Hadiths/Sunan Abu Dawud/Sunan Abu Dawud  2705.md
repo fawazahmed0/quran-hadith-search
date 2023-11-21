@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A man of the Ansar: Kulayb reported from a man of the Ansar. He said: W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sarri], telah menceritakan kepada kami [Abu Al Ahwash] dari ['Ashim bin Kulaib], dari [ayahnya] dari [seorang anshar], ia berkata; kami keluar bersama Rasulullah shallallahu 'alaihi wasallam dalam sebuah perjalanan, kemudian orang-orang memiliki kebutuhan dan kesusahan yang sangat, kemudian mereka memperoleh kambing dan mereka mengambilnya sebelum dibagi. Dan periuk-periuk kami mendidih, tiba-tiba Rasulullah shallallahu 'alaihi wasallam datang, beliau berjalan dengan membawa busurnya, lalu beliau menggulingkan periuk-periuk kami dengan busur beliau dan memasukkan ke dalam daging yang dimasak tersebut dengan tanah seraya bersabda: "Sesungguhnya mengambil bagian dari rampasan perang sebelum dibagi tidaklah lebih halal daripada bangkai atau tidaklah bangkai lebih halal daripada mengambil rampasan perang sebelum dibagi." Terdapat keraguan dari Hannad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2705</td></tr><tr><td>Arabic No</td><td>2705</td></tr><tr><td>Reference</td><td>Book 15 Hadith 229</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Асым ибн Кулейб передал со слов своего отца о том, что один мужчина из числа ансаров сказал: «(Как-то, когда) мы выступили вместе с Посланником Аллаха ﷺ в путь, людей постигли сильная нужда и трудности. Когда же они захватили добычу, то стали её разворовывать и котлы наши (с мясом) закипели. А потом пришёл Посланник Аллаха ﷺ, шедший (опираясь) на свой лук, и стал опрокидывать наши котлы своим луком и сыпать песок на мясо, после чего сказал: “Поистине, награбленное /нухба/ не более дозволено, чем мертвечина!” или он сказал: “Поистине, мертвечина не более дозволена, чем награбленное!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2705</td></tr><tr><td>Arabic No</td><td>2705</td></tr><tr><td>Reference</td><td>Book 15 Hadith 229</td></tr></tbody></table></div>
 

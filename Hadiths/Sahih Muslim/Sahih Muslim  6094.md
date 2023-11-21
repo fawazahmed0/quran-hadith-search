@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr reported:I said to 'Urwa: How long did Allah's Apostle - (ﷺ) stay in Mecca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar Isma'il bin Ibrahim Al Hudzali]; Telah menceritakan kepada kami [Sufyan] dari ['Amru] ia berkata: aku pernah bertanya kepada [Urwah]: Berapa tahun Rasulullah shallallahu 'alaihi wasallam tinggal di kota Mekkah? Ia menjawab: "Sepuluh tahun." Amru berkata: Aku berkata; 'sesungguhnya [Ibnu Abbas] mengatakan bahwa beliau tinggal di sana selama tiga belas tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6094</td></tr><tr><td>Arabic No</td><td>2350.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6094</td></tr><tr><td>Arabic No</td><td>2350.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 152</td></tr></tbody></table></div>
 

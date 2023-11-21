@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab: Once a Jew said to me, "O the chief of believers!
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ash Shabbah] bahwa dia mendengar [Ja'far bin 'Aun] berkata; Telah menceritakan kepada kami [Abu Al 'Umais], telah mengabarkan kepada kami [Qais bin Muslim] dari [Thariq bin Syihab] dari [Umar bin Al Khaththab]; Ada seorang laki-laki Yahudi berkata: "Wahai Amirul Mu'minin, ada satu ayat dalam kitab kalian yang kalian baca, seandainya ayat itu diturunkan kepada kami Kaum Yahudi, tentulah kami jadikan (hari diturunkannya ayat itu) sebagai hari raya ('ied). Maka Umar bin Al Khaththab berkata: "Ayat apakah itu?" (Orang Yahudi itu) berkata: "Pada hari ini telah Kusempurnakan untuk kalian agama kalian, dan telah Ku-cukupkan kepada kalian nikmat-Ku, dan telah Ku-ridhai Islam itu jadi agama bagi kalian". (QS. Al Maidah ayat 3). Maka Umar bin Al Khaththab menjawab: "Kami tahu hari tersebut dan dimana tempat diturunkannya ayat tersebut kepada Nabi shallallahu 'alaihi wasallam, yaitu pada hari Jum'at ketika Beliau shallallahu 'alaihi wasallam berada di 'Arafah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>45</td></tr><tr><td>Arabic No</td><td>45</td></tr><tr><td>Reference</td><td>Book 2 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, что (как-то раз) один иудей сказал ему: «О повелитель правоверных! Есть в вашем Писании один айат, который вы читаете, (и я думаю, что) если бы он был ниспослан иудеям, то мы обязательно отмечали бы день (его ниспослания) как праздник». (‘Умар) спросил: «И какой же это айат?» Тот сказал: «Сегодня Я довёл до совершенства для вас вашу религию, и довёл до конца Свою милость вам, и одобрил для вас Ислам в качестве религии». ‘Умар сказал: «Нам известен этот день и то место, где (этот айат) был ниспослан Пророку ﷺ. Это была пятница, когда он стоял на ‘Арафате»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>45</td></tr><tr><td>Arabic No</td><td>45</td></tr><tr><td>Reference</td><td>Book 2 Hadith 38</td></tr></tbody></table></div>
 

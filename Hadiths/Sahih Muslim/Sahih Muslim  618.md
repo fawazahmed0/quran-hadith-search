@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: Be on your guard against
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] semuanya dari [Ismail bin Ja'far], [Ibnu Ayyub] berkata, telah menceritakan kepada kami [Ismail] telah mengabarkan kepadaku [al-Ala'] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jauhilah kalian dari La'anaini." Para sahabat bertanya, "Wahai Rasulullah, siapa La'anini itu?" Beliau menjawab: "Orang yang buang hajat di jalan manusia atau di tempat berteduhnya mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>618</td></tr><tr><td>Arabic No</td><td>269</td></tr><tr><td>Reference</td><td>Book 2 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ сказал: «Бойтесь двух (дел, навлекающих проклятия) проклинающих!» (Люди) спросили: «А что это за два (дела), о посланник Аллаха» (и Пророк ﷺ) сказал: «(Это дела) того, кто удовлетворяет (большую) нужду на дороге, (по которой ходят) люди, и в тени, (где они останавливаются)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>618</td></tr><tr><td>Arabic No</td><td>269</td></tr><tr><td>Reference</td><td>Book 2 Hadith 85</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thabit ibn ad-Dahhak: In the time of the Prophet (ﷺ) a man took a vow
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Daud bin Rusyid] telah menceritakan kepada kami [Syu'aib bin Ishaq] dari [Al Auza'i] dari [Yahya bin Abu Katsir] ia berkata; [Abu Qilabah] ia berkata; telah menceritakan kepadaku [Tsabit bin Adh Dhahhak] ia berkata; seorang laki-laki bernadzar pada zaman Rasulullah shallallahu 'alaihi wasallam untuk menyembelih unta di Buwanah. Kemudian ia datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; sesungguhnya saya telah bernadzar untuk menyembelih unta di Buwanah. Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Apakah padanya terdapat berhala diantara berhala-berhala jahiliyah yang disembah?" Mereka berkata; tidak. Beliau berkata: "Apakah padanya terdapat hari besar diantara hari-hari besar mereka?" Mereka berkata; tidak. Rasulullah shallallahu 'alaihi wasallam bersabda: "Penuhi nadzarmu, sesungguhnya tidak boleh memenuhi nadzar dalam bermaksiat kepada Allah, dalam perkara yang tidak dimiliki anak Adam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3313</td></tr><tr><td>Arabic No</td><td>3313</td></tr><tr><td>Reference</td><td>Book 22 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абду-р-Рахман ибн ‘Абдуллах ибн Малик передаёт от своего отца от своего деда, что, рассказывая историю своего уклонения от участия в походе на Табук, он сказал: «Я сказал: “О Посланник Аллаха! Раскаиваясь пред Аллахом, я хочу раздать всё своё имущество в качестве милостыни ради Аллаха и Его посланника”. (Посланник Аллаха ﷺ) сказал: “Нет”. Я спросил: “А половину?” (Посланник Аллаха ﷺ) сказал: “Нет”. Я спросил: “А треть?” Он ответил: “Хорошо”. Я сказал: “Тогда я оставлю себе свою долю в Хайбаре”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3313</td></tr><tr><td>Arabic No</td><td>3313</td></tr><tr><td>Reference</td><td>Book 22 Hadith 72</td></tr></tbody></table></div>
 

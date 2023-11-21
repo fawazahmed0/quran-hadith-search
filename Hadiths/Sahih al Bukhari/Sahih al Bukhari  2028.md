@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to (put) bend his head (out) to me while 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari [Hisyam] berkata, telah mengabarkan kepada saya [bapakku] dari ['Aisyah radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam menjulurkan kepala Beliau kepadaku ketika sedang beri'tikaf di masjid lalu aku menyisir rambut Beliau sedangkan aku saat itu sedang haidh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2028</td></tr><tr><td>Arabic No</td><td>2028</td></tr><tr><td>Reference</td><td>Book 33 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Пророк ﷺ совершал и‘тикяф в мечети, он просовывал ко мне голову, а я причёсывавала его волосы, хотя у меня были месячные»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2028</td></tr><tr><td>Arabic No</td><td>2028</td></tr><tr><td>Reference</td><td>Book 33 Hadith 4</td></tr></tbody></table></div>
 

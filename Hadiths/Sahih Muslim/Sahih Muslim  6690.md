@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:Allah's Apostle (ﷺ) said to me: Don't consider anything ins
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ghassan Al Misma'i]; Telah menceritakan kepada kami ['Utsman bin 'Umar]; Telah menceritakan kepada kami [Abu 'Amir] yaitu Al Khazzaz dari [Abu 'Imran Al Jauni] dari ['Abdullah bin Ash Shamit] dari [Abu Dzar] dia berkata; Nabi shallallahu 'alaihi wasallam berkata kepadaku: "Janganlah kamu menganggap remeh sedikitpun terhadap kebaikan, walaupun kamu hanya bermanis muka kepada saudaramu (sesama muslim) ketika bertemu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6690</td></tr><tr><td>Arabic No</td><td>2626</td></tr><tr><td>Reference</td><td>Book 45 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6690</td></tr><tr><td>Arabic No</td><td>2626</td></tr><tr><td>Reference</td><td>Book 45 Hadith 187</td></tr></tbody></table></div>
 

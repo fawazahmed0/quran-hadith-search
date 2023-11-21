@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ash-Sharid ibn Suwayd ath-Thaqafi: Sharid's mother left a will to emanc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Al Hajjaj Ash Shawwaf] telah menceritakan kepadaku [Yahya bin Abu Katsir], dari [Hilal bin Abu Maimunah] dari ['Atha' bin Yasar] dari [Mu'awiyah bin Al Hakam As Sulami], ia berkata; aku katakan; wahai Rasulullah, terdapat seorang budak wanita yang telah aku pukul dengan keras. Kemudian Rasulullah shallallahu 'alaihi wasallam menganggap hal tersebut sesuatu yang besar terhadap diriku, lalu aku katakan; tidakkah saya memerdekakannya? Beliau berkata: "Bawa dia kepadaku!" Kemudian aku membawanya kepada beliau. Beliau bertanya: "Dimanakah Allah?" Budak wanita tersebut berkata; di langit. Beliau berkata: "Siapakah aku?" Budak tersebut berkata; engkau adalah Rasulullah."Beliau berkata; bebaskan dia! Sesungguhnya ia adalah seorang wanita mukmin." Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Muhammad bin 'Amr] dari [Abu Salamah] dari [Asy Syarid] bahwa ibunya telah berwasiat kepadanya agar membebaskan untuknya seorang budak wanita mukmin. Kemudian ia datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; wahai Rasulullah, sesungguhnya ibuku telah berwasiat agar saya membebaskan untuknya seorang budak wanita mukmin, dan saya memiliki seorang budak wanita hitam dari Nubiyah… kemudian ia menyebutkan hadits seperti itu. Abu Daud berkata; Khalid bin Abdullah telah memursalkannya dan ia tidak menyebutkan Asy Syarid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3283</td></tr><tr><td>Arabic No</td><td>3283</td></tr><tr><td>Reference</td><td>Book 22 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Не может быть обета, предполагающего ослушание Аллаха, а искупается он так же, как и нарушенная клятва»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3283</td></tr><tr><td>Arabic No</td><td>3283</td></tr><tr><td>Reference</td><td>Book 22 Hadith 42</td></tr></tbody></table></div>
 

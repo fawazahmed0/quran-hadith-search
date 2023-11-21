@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Uyaina bin Hisn bin Hudhaifa bin Badr came and sta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ismail] telah menceritakan kepadaku [Ibn Wahb] dari [Yunus] dari [Ibn Syihab] telah menceritakan kepadaku [Ubaidullah bin Abdullah bin Utbah], bahwa [Abdullah bin Abbas] radliallahu 'anhuma berkata, "Uyainah bin Hishn bin Khudaifah bin Badr datang dan singgah menemui anak saudaranya (keponakannya), Al Hurr bin Qais bin Hishn, dan dia termasuk sekian di antara sekelompok orang yang selalu didekati oleh Umar, qurra' (ahli baca alquran), dan selalu mengikuti majlis Umar dan musyawarah-musyarahnya, baik yang berusia dewasa atau muda. Kemudian 'Uyainah berkata kepada keponakannya, 'Wahai keponakanku, apakah engkau mempunyai kedekatan dengan amir ini sehingga bisa memintakannya ijin untukku sehingga aku bisa menemuinya? Al Hurr bin Qais lalu menjawab, "Baik, aku akan memintakannya ijin untukmu." Ibn Abbas berkata, "Lantas Al Hurr bin Qais meminta ijin untuk 'Uyainah. Tatkala Uyainah sudah menemui Umar, ia berkata "Wahai Ibnul khattab, demi Allah, engkau belum memberi pemberian yang banyak kepada kami, dan belum juga engkau berbuat adil diantara kami." Spontan Umar marah hingga ia ingin menghukumnya. Namun Uyainah mengatakan, "Bebaskan aku dari hukumanmu wahai amirul mukminin, sebab Allah berfirman kepada nabi shallallahu 'alaihi wasallam-Nya: '(Maafkanlah, lakukanlah yang ma'ruf dan berpalinglah dari orang-orang jahil' (Qs. Al A'raf 199), dan hukuman ini di antara kelakuan orang-orang bodoh. Demi Allah, maka Umar tidak jadi melakukan hukumannya ketika Uyainah membacakan kepadanya, Umar adalah orang yang selalu memegang teguh Kitabullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7286</td></tr><tr><td>Arabic No</td><td>7286</td></tr><tr><td>Reference</td><td>Book 96 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал:— (В своё время) ‘Уйайна ибн Хисн ибн Хузейфа ибн Бадр приехал (в Медину) и остановился у своего племянника аль-Хурра ибн Кайса ибн Хисна, относившегося к числу тех, кого приближал к себе ‘Умар, да будет доволен им Аллах. В собраниях ‘Умара принимали участие чтецы Корана. Они были его советниками, независимо от того, в возрасте они были или молодыми. ‘Уйайна сказал своему племяннику: «О сын моего брата, ты занимаешь высокое положение при этом правителе, попроси же его принять меня». Он ответил: «Я попрошу у него разрешение для тебя».\nИбн ‘Аббас сказал: «Аль-Хурр попросил разрешения для ‘Уйайна. И когда ‘Уйайна вошёл к ‘Умару, то сказал: “О Ибн аль-Хаттаб, клянусь Аллахом, ты многого не даёшь нам и правишь нами несправедливо!” (Услышав эти слова,) ‘Умар, да будет доволен им Аллах, разгневался так, что даже хотел подвергнуть его наказанию, но аль-Хурр сказал ему: “О повелитель правоверных, поистине, Аллах Всевышний сказал Своему пророку: “Прояви снисходительность, вели творить одобряемое и отвернись от невежд“, — что же касается этого, то он как раз и относится к числу невежественных”. И, клянусь Аллахом, после того как аль-Хурр прочитал этот аят, ‘Умар не сделал ничего такого, что противоречило бы его смыслу, поскольку он неуклонно придерживался (установлений) Книги Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7286</td></tr><tr><td>Arabic No</td><td>7286</td></tr><tr><td>Reference</td><td>Book 96 Hadith 17</td></tr></tbody></table></div>
 

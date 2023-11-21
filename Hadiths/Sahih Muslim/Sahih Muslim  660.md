@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik narrated that a desert Arab (Bedouin) stood in a corner of the mos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id al-Qaththan] dari [Yahya bin Sa'id al-Anshari]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Sa'id] semuanya dari [ad-Darawardi], [Yahya bin Yahya] berkata, telah mengabarkan kepada kami [Abdul Aziz bin Muhammad al-Madani] dari [Yahya bin Sa'id] bahwa dia mendengar [Anas bin Malik] menyebutkan, bahwa seorang Badui beranjak menuju salah satu sudut masjid, lalu dia kencing di dalamnya. Maka orang-orang berteriak kepadanya, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: 'Biarkanlah dia! ', ketika dia telah selesai, maka Rasulullah shallallahu 'alaihi wasallam meminta air satu timba, beliau menyiram bekas kencingnya dengan air tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>660</td></tr><tr><td>Arabic No</td><td>284.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик рассказывал, что (однажды) какой-то бедуин встал на стороне в мечети и принялся мочится. Люди начали прикрикивать на него, но Посланник Аллаха ﷺ сказал: «Оставьте его». Когда тот (бедуин) закончил мочиться, Посланник Аллаха ﷺ велел принести ведро воды и её полили на (то место, где он помочился)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>660</td></tr><tr><td>Arabic No</td><td>284.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 126</td></tr></tbody></table></div>
 

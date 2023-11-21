@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiya:We used to be ordered to come out on the Day of 'Id and even 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh] berkata, telah menceritakan kepada kami [Bapakku] dari ['Ashim] dari [Hafshah] dari [Ummu 'Athiyyah] berkata, "Pada hari Raya Ied kami diperintahkan untuk keluar sampai-sampai kami mengajak para anak gadis dari kamarnya dan juga para wanita yang sedang haid. Mereka duduk di belakang barisan kaum laki-laki dan mengucapkan takbir mengikuti takbirnya kaum laki-laki, dan berdoa mengikuti doanya kaum laki-laki dengan mengharap barakah dan kesucian hari raya tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>971</td></tr><tr><td>Arabic No</td><td>971</td></tr><tr><td>Reference</td><td>Book 13 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа сказала: «Нам было велено выходить в день праздника и даже выводить (из домов) девственниц, сидящими за занавесками, и даже тех женщин, у которых началась менструация, чтобы они были позади людей, произносили такбир вместе с ними и обращались с мольбой вместе с ними, надеясь (получить) благословение этого дня и очищение (от грехов)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>971</td></tr><tr><td>Arabic No</td><td>971</td></tr><tr><td>Reference</td><td>Book 13 Hadith 20</td></tr></tbody></table></div>
 

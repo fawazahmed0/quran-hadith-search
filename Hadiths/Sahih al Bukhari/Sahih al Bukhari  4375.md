@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "While I was sleeping, I was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] Telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Hammam] bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku bermimpi diberi kekuasaan dan kekayaan bumi, kemudian diletakkan pada kedua tanganku dua buah gelang emas, namun keduanya seakan-akan terlalu berat bagiku dan membuat aku gelisah, kemudian diwahyukan kepadaku agar aku meniup keduanya, lalu aku pun meniupnya hingga keduanya hilang. Aku menafsirkan mimpi tersebut dengan dua orang pendusta yang aku hidup di antara mereka berdua. Yaitu pemimpin Shan'a dan dan pemimpin Yamamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>4375</td></tr><tr><td>Reference</td><td>Book 64 Hadith 400</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «(Однажды я увидел) во сне, что мне были дарованы сокровищницы земли, а на мои руки были надеты два золотых браслета, которые стали увеличиваться (в размерах). А потом мне было внушено в откровении подуть на (эти браслеты, и после того как) я подул на них, они исчезли. Я истолковал эти браслеты как двух лжецов, между которыми я нахожусь: (один из них —) правитель Саны, а другой — правитель аль-Йамамы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>4375</td></tr><tr><td>Reference</td><td>Book 64 Hadith 400</td></tr></tbody></table></div>
 

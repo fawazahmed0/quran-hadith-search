@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:While we were sitting with Allah's Messenger (ﷺ), (he) Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] Telah mengabarkan kepada kami [Abdullah] dari [Yunus] dari [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [Ibnul Musayyab] dari [Abu Hurairah] ia berkata; Ketika aku duduk-duduk di sisi Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku tidur, diperlihatkanlah surga padaku, dan aku pun melihat seorang wanita yang sedang berwudlu di samping istana. Lalu aku pun bertanya, 'Siapakah ini? ' mereka menjawab, 'Mereka menjawab, ini adalah untuk si Umar.' Kemudian aku teringat akan kecemburuanmu, lalu wanita itu pun berpaling pergi." Maka Umar pun menangis di majelis itu dan bertanya, "Apakah kepadamu aku cemburu wahai Rasulullah?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5227</td></tr><tr><td>Arabic No</td><td>5227</td></tr><tr><td>Reference</td><td>Book 67 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «(Однажды, когда) мы находились в обществе Посланника Аллаха ﷺ, он сказал: “Мне приснилось, что я нахожусь в Раю. (Там я увидел) женщину, совершавшую малое омовение у какого-то дворца, и я спросил: “Кому принадлежит этот (дворец)?” (Мне) сказали: “‘Умару”. Тут я вспомнил о твоей (‘Умар) ревности и вернулся”. (Услышав это,) ‘Умар заплакал и сказал: “Разве могу я ревновать к тебе, о Посланник Аллаха?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5227</td></tr><tr><td>Arabic No</td><td>5227</td></tr><tr><td>Reference</td><td>Book 67 Hadith 160</td></tr></tbody></table></div>
 

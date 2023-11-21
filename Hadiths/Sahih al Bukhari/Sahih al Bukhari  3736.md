@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ The freed slave of Usama bin Zaid said, "Al-Hajjaj bin Aiman bin Um Aiman and Ai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Mu'tamir] berkata, aku mendengar [bapakku] telah bercerita kepada kami [Abu 'Utsman] dari [Usamah bin Zaid radliallahu 'anhuma], ia bercerita tentang Nabi shallallahu 'alaihi wasallam, beliau pernah merangkulnya dan Al Hasan seraya bersabda: "Ya Allah, cintailah keduanya karena aku mencintai keduanya". Dan Nu'aim berkata dari Ibnu Al Mubarak telah mengabarkan kepada kami Ma'mar dari Az Zuhriy telah mengabarkan kepadaku Maula Usamah bin Zaid bahwa Al Hajjaj bin Ayman bin Ummu Ayman, Ayman bin Ummu Ayman adalah saudara laki-laki dari Usamah dari pihak ibunya. Dia adalah seorang shahabat Anshar, yang dipandang oleh Ibnu 'Umar tidak menyempurnakan ruku' dan sujudnya (dalam shalat) lalu Ibnu 'Umar berkata kepadanya; "Ulangilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3736</td></tr><tr><td>Arabic No</td><td>3736</td></tr><tr><td>Reference</td><td>Book 62 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что вольноотпущенник Усамы ибн Зейда сказал: «Однажды, когда Ибн ‘Умар увидел, что аль-Хаджадж ибн Айман ибн Умм Айман (, а Айман ибн Умм Айман был братом Усамы по материнской линии, и он был одним из ансаров,) не совершал как следует свои поясные и земные поклоны, он сказал ему: “Соверши молитву заново”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3736</td></tr><tr><td>Arabic No</td><td>3736</td></tr><tr><td>Reference</td><td>Book 62 Hadith 83</td></tr></tbody></table></div>
 

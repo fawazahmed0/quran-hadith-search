@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Jubair reported that he observed the sunset and 'Isha' prayers at Muzda
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Abdurrahman bin Mahdi] Telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dan [Salamah bin Kuhail] dari [Sa'id bin Jubair] bahwa ia pernah shalat Maghrib di Jam' kemudian shalat Isya dengan satu Iqamah. Sesudah itu, ia menceritakan dari [Ibnu Umar] bahwasanya; Ia pernah shalat seperti itu. Kemudian Ibnu Umar menceritakan bahwa Nabi shallallahu 'alaihi wasallam melakukannya seperti itu. Dan telah menceritakannya kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Waki'] Telah menceritakan kepada kami [Syu'bah] dengan isnad ini, dan ia menyebutkan; "Beliau menunaikan shalat (Maghrib dan Isya') dengan satu Iqamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3112</td></tr><tr><td>Arabic No</td><td>1288.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 316</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3112</td></tr><tr><td>Arabic No</td><td>1288.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 316</td></tr></tbody></table></div>
 

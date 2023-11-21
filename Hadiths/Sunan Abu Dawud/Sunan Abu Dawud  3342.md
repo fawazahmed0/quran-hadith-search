@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMusa al-Ash'ari: The Prophet (ﷺ) said: After the grave sins which 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah mengabarkan kepada kami [Ibnu Wahb], telah menceritakan kepadaku [Sa'i bin Abu Ayyub], bahwa ia telah mendengar [Abu Abdullah Al Qurasyi] berkata; aku mendengar [Abu Burdah bin Abu Musa Al Asy'ari] berkata dari [ayahnya], dari Rasulullah shallallahu 'alaihi wasallam bahwa beliau bersabda: "Sesungguhnya dosa terbesar di sisi Allah yang akan dibawa seorang hamba bertemu denganNya setelah dosa-dosa besar yang telah Allah larang adalah seseorang meninggal dalam keadaan menanggung hutang yang tidak mampu ia lunasi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3342</td></tr><tr><td>Arabic No</td><td>3342</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Мусы аль-Аш‘ари, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Самый великий грех, с которым может встретить раб Аллаха, после тяжких грехов /кабаир/, запрещённых Аллахом, умереть, оставив долги и не оставив того, чем их можно покрыть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3342</td></tr><tr><td>Arabic No</td><td>3342</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
 

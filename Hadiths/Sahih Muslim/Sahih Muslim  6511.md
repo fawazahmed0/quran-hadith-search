@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Let him be humbled, let h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir] dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Dia celaka! Dia celaka! Dia celaka!" lalu beliau ditanya; "Siapakah yang celaka, ya Rasulullah?" Jawab Nabi shallallahu 'alaihi wasallam: "Barang Siapa yang mendapati kedua orang tuanya (dalam usia lanjut), atau salah satu dari keduanya, tetapi dia tidak berusaha masuk surga (dengan berusaha berbakti kepadanya dengan sebaik-baiknya)." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Khalid bin Makhlad] dari [Sulaiman bin Bilal]; Telah menceritakan kepadaku [Suhail] dari [Bapaknya] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Dia celaka, ' sebanyak tiga kali -kemudian disebutkan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6511</td></tr><tr><td>Arabic No</td><td>2551.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6511</td></tr><tr><td>Arabic No</td><td>2551.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 11</td></tr></tbody></table></div>
 

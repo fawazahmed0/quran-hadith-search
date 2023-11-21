@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hisham reported on the authority of his father that Hisham b. Hakim b. Hizam hap
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dia berkata; [Hisyam bin Hakim bin Hizam] pernah melewati beberapa orang dari para petani di Syam yang dijemur di terik matahari. Kemudian Hisyam bertanya; 'Mengapa mereka ini dihukum? ' mereka menjawab; 'Mereka disiksa karena masalah pajak.' Hisyam berkata; Aku bersaksi'Sesungguhnya saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya Allah akan menyiksa orang-orang yang menyiksa orang lain di dunia." Telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Waki'] dan [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Jarir] seluruhnya dari [Hisyam] melalui jalur ini di dalam Hadits Jarir ada tambahan; di Palestina pemimpin mereka pada waktu itu adalah Umair bin Sa'ad. Maka Hisyam menemuinya dan menyampaikan Hadits tersebut kepadanya. Akhirnya Umair menyuruh untuk membebaskan para petani tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6658</td></tr><tr><td>Arabic No</td><td>2613.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6658</td></tr><tr><td>Arabic No</td><td>2613.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 155</td></tr></tbody></table></div>
 

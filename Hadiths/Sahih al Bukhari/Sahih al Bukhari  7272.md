@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Dinar:'Abdullah Bin 'Umar wrote to 'Abdul Malik bin Marwa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari [Abdullah bin Dinar], bahwa [Abdullah bin Umar] berkirim surat kepada Abdul Malik bin Marwan sebagai pernyataan baiat terhadapnya, isinya, 'Aku berikrar terhadapmu atas yang demikian dengan mendengar dan taat, di atas sunnah Allah dan sunnah rasul-Nya semaksimal kemampuanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7272</td></tr><tr><td>Arabic No</td><td>7272</td></tr><tr><td>Reference</td><td>Book 96 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Динар передаёт, что ‘Абдуллах ибн ‘Умар написал ‘Абдуль-Малику ибн Маруану, присягая ему: «Я признаю за собой подчинение и послушание на основании Сунны Аллаха и Сунны Его посланника по мере своих сил!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7272</td></tr><tr><td>Arabic No</td><td>7272</td></tr><tr><td>Reference</td><td>Book 96 Hadith 5</td></tr></tbody></table></div>
 

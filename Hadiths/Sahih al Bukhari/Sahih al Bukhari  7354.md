@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-A'raj:Abu Huraira said, "You people claim that Abu Huraira narrates 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Azzuhri] ia mendengarnya dari [Al A'raj] berkata, [Abu Hurairah] mengabarkan kepadaku, ia berkata, "Kalian beranggapan bahwa Abu hurairah (maksudnya dirinya sendiri) banyak meriwayatkan hadis dari Rasulullah Shallallahu'alaihiwasallam dan Allah sajalah yang memberi janji, aku adalah seorang miskin yang selalu menyertai Rasulullah Shallallahu'alaihiwasallam dengan perut cukup berisi makanan pokok saja, kaum muhajirin selalu disibukkan oleh perdagangan di pasar-pasar sedang orang anshar disibukan oleh pengelolaan hartanya, maka suatu hari kusaksikan Rasulullah Shallallahu'alaihiwasallam bersabda: 'Siapa yang mau membentangkan kainnya hingga aku menuntaskan ucapanku kemudian ia menggenggamnya dan tidak akan pernah lupa terhadap sesuatu yang ia dengarkan dariku? ' Spontan aku hamparkan kain yang ada padaku, Demi Dzat yang mengutusnya dengan kebenaran, aku tak pernah lagi melupakan suatupun yang aku dengar darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7354</td></tr><tr><td>Arabic No</td><td>7354</td></tr><tr><td>Reference</td><td>Book 96 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-А‘раджа, что Абу Хурайра, да будет доволен им Аллах, сказал: «Поистине, вы утверждаете, что Абу Хурайра передаёт много хадисов от Посланника Аллаха ﷺ. И при встрече с Аллахом (в День воскресения, Он рассчитает меня если я намеренно лгал и рассчитает тех, кто думал обо мне плохо). Поистине, я был бедным человеком. Я неотступно следовал за посланником Аллаха ﷺ довольствуясь лишь тем, что могло насытить мой живот, тогда как, мухаджиры были заняты торговыми сделками, а ансаров занимали дела, связанные с их имуществом. И в один из дней, я стал свидетелем того, как Посланник Аллаха ﷺ сказал: «Кто расстелит свою накидку, пока я не закончу свою речь, после чего может забрать её. И (если он сделает так), то никогда не забудет то, что слышал от меня». И я расстелил свой плащ, который был на мне, и клянусь Тем, Кто послал его с истиной, я ничего не забыл из того, что услышал от Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7354</td></tr><tr><td>Arabic No</td><td>7354</td></tr><tr><td>Reference</td><td>Book 96 Hadith 81</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:My foster uncle came to me and sough
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Ibnu Numair] dari [Hisyam] dari [ayahnya] dari ['Aisyah] dia berkata; Pamanku sesusuan datang meminta izin untuk menemuiku, lalu saya enggan mengizinkan dia sebelum ada perintah dari Rasulullah shallallahu 'alaihi wasallam, tatkala Rasulullah shallallahu 'alaihi wasallam datang, saya berkata; Sesungguhnya pamanku dari sesusuan meminta izin untuk menemuiku, namun saya enggan memberikannya izin, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Biarkanlah pamanmu masuk menemuimu." Saya berkata; Yang menyusuiku adalah seorang wanita bukan seorang laki-laki, beliau bersabda: "Sesungguhnya dia adalah pamanmu, biarkanlah dia masuk menemuimu." Telah menceritakan kepadaku [Abu Ar Rabi' Az Zahrani] telah menceritakan kepada kami [Hammad yaitu Ibnu Zaid] telah menceritakan kepada kami [Hisyam] dengan isnad ini, bahwa saudara Abu Al Qu'ais meminta izin untuk menemuinya, kemudian dia menyebutkan seperti hadits di atas. Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Hisyam] dengan isnad seperti ini, namun dia menyebutkan; Bahwa Abu Al Qu'ais meminta izin untuk menemuinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3575</td></tr><tr><td>Arabic No</td><td>1445.05</td></tr><tr><td>Reference</td><td>Book 17 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3575</td></tr><tr><td>Arabic No</td><td>1445.05</td></tr><tr><td>Reference</td><td>Book 17 Hadith 8</td></tr></tbody></table></div>
 

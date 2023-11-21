@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported that Ibn Umar intended to go for Hajj during the year when Hajjaj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] -dalam riwayat lain- Dan Telah meceritakan kepada kami [Qutaibah] -lafazh juga miliknya- Telah menceritakan kepada kami [Laits] dari [Nafi'] bahwa [Ibnu Umar] ingin naik haji, ketika Hajjaj hendak memerangi Ibnu Zubair, maka dikatakanlah kepadanya, "Sesungguhnya akan terjadi peperangan di antara manusia, dan kami khawatir mereka akan mencegahmu." Ibnu Umar berkata, "Sungguh, telah ada pada diri Rasulullah suri tauladan bagi kalian. saya akan lakukan sebagaimana yang dilakukan oleh Rasulullah shallallahu 'alaihi wasallam. Aku saksikan kepada kalian, bahwa aku telah mewajibkan umrah (atas diriku)." Ia pun berangkat, dan ketika mendekati Baida', ia berkata, "Tidaklah Haji dan umrah itu melainkan satu perkara. Saksikanlah, -Ibnu Rumh berkata- Aku saksikan kepada kalian, bahwa aku telah mewajibkan haji bersama umrahku." Kemudian Ibnu Umar menyembelih hadya (hewan kurban) yang telah ia beli di Qudaid. Sesudah itu, ia pergi dan melakukan ihram untuk haji dan umrah. Sesampainya di kota Makkah, ia langsung thawaf di Baitullah, sa'i antara Shafa dan Marwa, dan ia tidak lagi menambah atas itu semua, tidak pula menyembelih (hewan kurban), tidak bercukur, tidak memendekkan rambut, dan tidak pula tahallul hingga tiba hari Nahr. Lalu ia pun menyembelih hewan kurban. Menurutnya, ia telah mengganti thawaf haji dan umrah dengan thawafnya yang pertama. Kemudian Ibnu Umar berkata, "Demikianlah yang diberbuat oleh Rasulullah shallallahu 'alaihi wasallam." Telah menceritakan kepada kami [Abu Rabi' Az Zahrani] dan [Abu Kamil] Telah menceritakan kepada kami [Hammad] -dalam riwayat lain- Dan telah meceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepadaku [Isma'il] keduanya dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dengan kisah ini. dan ia tidak menyebut Nabi shallallahu 'alaihi wasallam, kecuali di awal hadits, yakti saat dikatakan kepadanya; "Mereka akan menghalangimu dari Baitullah." Ibnu Umar menjawab: "Kalau begitu, akan kulakukan sebagai yang dilakukan Rasulullah shallallahu 'alaihi wasallam." dan di akhir hadits ia juga tidak menyebutkan; "Seperti inilah yang dilakukan oleh Rasulullah shallallahu 'alaihi wasallam." yakni, sebagaimana yang disebutkan oleh Laits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2992</td></tr><tr><td>Arabic No</td><td>1230.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2992</td></tr><tr><td>Arabic No</td><td>1230.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 200</td></tr></tbody></table></div>
 

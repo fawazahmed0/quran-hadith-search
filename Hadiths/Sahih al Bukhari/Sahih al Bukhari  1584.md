@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I asked the Prophet (ﷺ) whether the round wall (near Ka'ba) wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu Al Ahwash] telah menceritakan kepada kami [Asy'ats] dari [Al Aswad bin Yazid] dari ['Aisyah radliallahu 'anha] berkata,, "Aku bertanya kepada Nabi shallallahu 'alaihi wasallam apakah Hijir Isma'il masuk bagian dari Ka'bah Baitulloh?". Beliau menjawab: "Ya benar". Lalu aku bertanya lagi: "Mengapa mereka tidak memasukkannya kedalam Ka'bah?". Beliau menjawab: "Seseungguhnya kaummu kekurangan biaya". Aku bertanya lagi: "Lalu apa alasannya pintu Ka'bah agak tinggi?". Beliau menjawab: "Kaummu yang membuatnya seperti itu dengan tujuan mereka bisa memasukkan siapa yang mereka kehendaki dan melarang siapa yang mereka kehendaki. Seandainya bukan karena pertimbangan keberadaan kaummu yang masih lekat dengan jahiliyyah (tentu aku sudah melakukannya) namun aku khawatir hati mereka mengingkarinya bila aku memasukkan Hijir Isma'il ke dalam Ka'bah dan bila aku ratakan pintunya dengan permukaan tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1584</td></tr><tr><td>Arabic No</td><td>1584</td></tr><tr><td>Reference</td><td>Book 25 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Однажды я спросила Пророка ﷺ: “Является ли стена частью Каабы?” Он сказал: “Да”. Я спросила: “Так почему же они не присоединили её к Каабе?” Он ответил: “Потому что твои соплеменники испытывали недостаток в средствах”. Я спросила: “А почему дверь её поднята (над землёй)?” Он ответил: “Твои соплеменники сделали так, чтобы пускать внутрь, кого пожелают, и не давать (входить в Каабу тому), кому не пожелают. Если бы твои соплеменники не были (столь) близки к джахилиййи и я не опасался бы, что сердцам их не понравится (подобное), я бы присоединил эту стену к Каабе, а дверь опустил до (уровня) земли”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1584</td></tr><tr><td>Arabic No</td><td>1584</td></tr><tr><td>Reference</td><td>Book 25 Hadith 70</td></tr></tbody></table></div>
 

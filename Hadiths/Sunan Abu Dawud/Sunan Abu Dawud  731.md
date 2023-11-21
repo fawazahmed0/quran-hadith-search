@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>731</td></tr><tr><td>Arabic No</td><td>731</td></tr><tr><td>Reference</td><td>Book 2 Hadith 341</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн ‘Амр аль-‘Амири сказал: «Я присутствовал на собрании сподвижников Посланника Аллаха ﷺ во время которого упомянули о молитве Посланника Аллаха ﷺ и Абу Хумайд сказал: “...”».И он упомянул часть этого хадиса и сказал: «Совершая поясной поклон, он опирался своими руками о колени, растопырил пальцы (рук), и согнул спину, не поднимая голову выше неё и не поворачивая свою щёку».(Далее) он сказал: «И, когда он садился после второго рак‘ата (молитвы), он садился на тыльную часть своей левой стопы, и ставил вертикально свою правую (стопу). Когда же он совершал четвёртый (рак‘ат), он ставил своё левое бедро на землю, и выводил обе свои ступни с одной и той же стороны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>731</td></tr><tr><td>Arabic No</td><td>731</td></tr><tr><td>Reference</td><td>Book 2 Hadith 341</td></tr></tbody></table></div>
 

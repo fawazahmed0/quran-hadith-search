@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) ordered that a short-tailed or mutilated-taile
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Hisyam] berkata telah bercerita kepadaku [bapakku] dari ['Aisyah radliallahu 'anhu] berkata; "Nabi shallallahu 'alaihi wasallam memerintahkan untuk membunuh ular yang berekor pendek dan Beliau menjelaskan bahwa jenis ular ini dapat merabunkan penglihatan dan mengugurkan kandungan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3309</td></tr><tr><td>Arabic No</td><td>3309</td></tr><tr><td>Reference</td><td>Book 59 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ приказал убивать куцых змей, сказав: “Они могут лишить зрения и вызывают у беременных выкидыши”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3309</td></tr><tr><td>Arabic No</td><td>3309</td></tr><tr><td>Reference</td><td>Book 59 Hadith 117</td></tr></tbody></table></div>
 

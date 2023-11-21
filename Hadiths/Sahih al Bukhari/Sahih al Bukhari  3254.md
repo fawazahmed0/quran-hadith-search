@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The first batch (of people) who wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3254</td></tr><tr><td>Arabic No</td><td>3254</td></tr><tr><td>Reference</td><td>Book 59 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Первая группа, входящих в Рай, (будет сиять), словно луна в ночь полнолуния. Следующие за ними (войдут в Рай), сияя так, как (сияет) в небе самая яркая звезда. Сердца их будут подобны единому сердцу, и не будет между ними ни ненависти, ни зависти. У каждого из них будет по две жены из числа чернооких и большеглазых (райских дев), костный мозг каждой из которых будет виден сквозь плоть из-за (их) красоты»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3254</td></tr><tr><td>Arabic No</td><td>3254</td></tr><tr><td>Reference</td><td>Book 59 Hadith 64</td></tr></tbody></table></div>
 

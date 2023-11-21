@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Salamah b. al-Akwa said :when a man sneezed beside the prophet (May peace be upo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah mengabarkan kepada kami [Ibnu Abu Zaidah] dari [Ikrimah bin Ammar] dari [Iyas bin Salamah Ibnul Akwa'] dari [Bapaknya] ia berkata, "Seorang laki-laki bersin di sisi Nabi shallallahu 'alaihi wasallam, lalu beliau mendoakannya: "YARHAMUKAALLAHU (semoga Allah merahmatimu)." Kemudian orang itu bersin lagi, beliau pun bersabda: "Laki-laki itu sedang kena pilek
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2993)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037</td></tr><tr><td>Arabic No</td><td>5037</td></tr><tr><td>Reference</td><td>Book 43 Hadith 265</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2993)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037</td></tr><tr><td>Arabic No</td><td>5037</td></tr><tr><td>Reference</td><td>Book 43 Hadith 265</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:I heard 'Umar saying, "May Allah Curse so-and-so! Doesn't he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] dari ['Amru] dari [Thawus] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Aku mendengar ['Umar bin Al Khaththab] berkata; "Semoga Allah membinasakan si fulan, tidakkah dia mengetahui bahwa Nabi shallallahu 'alaihi wasallam telah bersabda: "Semoga Allah melaknat Yahudi, karena telah diharamkan atas mereka lemak hewan (sapi dan kambing) namun mereka mencairkannya lalu memperjual belikannya". Hadits ini dikuat kan jalur perawinya oleh Jabir dari Abu Hurairah radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3460</td></tr><tr><td>Arabic No</td><td>3460</td></tr><tr><td>Reference</td><td>Book 60 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Я слышал как ‘Умар, да будет доволен им Аллах, сказал: “Да погубит Аллах такого-то! Разве он не знает, что Пророк ﷺ сказал: “Да погубит Аллах иудеев! Им было запрещено (употреблять в пищу) жир (животных), а они растопили его и стали продавать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3460</td></tr><tr><td>Arabic No</td><td>3460</td></tr><tr><td>Reference</td><td>Book 60 Hadith 127</td></tr></tbody></table></div>
 

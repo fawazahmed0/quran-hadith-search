@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:I asked Allah's Messenger (ﷺ) about Al Mirad (i.e. a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepada saya ['Abdullah bin Abu As-Safar] dari [Asy-Sya'by] dari ['Adiy bin Hatim radliallahu 'anhu] berkata: Aku bertanya kepada Nabi shallallahu 'alaihi wasallam tentang anak panah yang mengenai hewan buruan, maka Beliau menjawab: "Jika panah itu mengenai hewan buruan dengan ujung besinya yang tajam maka makanlah dan jika terkena oleh bagian pinggirnya lalu hewan buruan itu mati maka janganlah kamu makan karena dia berarti bangkai karena tidak terbunuh dengan ujung panah yang tajam". Aku katakan: "Wahai Rasulullah, aku melepas anjing buruanku dengan mengucapkan basmalah lalu aku dapatkan ada anjing lain pada hewan buruan itu yang aku tidak membaca basmalah dan aku tidak tahu yang mana dari dua anjing itu yang membunuh hewan buruan itu". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Jangan kamu makan, karena kamu membaca basmalah untuk anjingmu dan tidak untuk anjing yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2054</td></tr><tr><td>Arabic No</td><td>2054</td></tr><tr><td>Reference</td><td>Book 34 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим, да будет доволен им Аллах, сказал: «Однажды я задал Пророку ﷺ вопрос о дичи, убитой с помощью ми‘рада (стрела без перьев), и он сказал: “Если он поразит животное своим остриём, можешь есть его мясо, если же ми‘рад ударил животное боком и убил его, то не ешь его мясо, ибо это — вакыз”. Я сказал: «О Посланник Аллаха! Что мне делать, если я отправлю свою собаку, произнеся имя Аллаха, а потом обнаружу вместе с ней другую собаку, с которой я не произнёс им Аллаха, и я не знаю, которая из них поймала дичь?” Он ответил: “Не ешь его, ибо ты произнёс имя Аллаха только над своей собакой, а над другой не произнёс”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2054</td></tr><tr><td>Arabic No</td><td>2054</td></tr><tr><td>Reference</td><td>Book 34 Hadith 8</td></tr></tbody></table></div>
 

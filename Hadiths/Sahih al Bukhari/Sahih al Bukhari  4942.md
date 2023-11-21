@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zama:That he heard the Prophet (ﷺ) delivering a sermon,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] Telah menceritakan kepada kami [Wuhaib] Telah menceritakan kepada kami [Hisyam] dari [bapaknya] bahwa [Abdullah bin Zam'ah] telah mengabarkan kepadanya bahwa ia mendengar Nabi shallallahu 'alaihi wasallam menyampaikan khuthbah lalu menyebutkan Unta yang dan orang yang melukainya (maksudnya dari kaum Tsamud). Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Muncul dari kalangan mereka seorang laki-laki terhormat, perangainya jahat dan mempunyai banyak pendukung di kalangannya, laki-laki itu seperti Abu Zum'ah." Kemudian beliau juga menyebut tentang wanita. Beliau bersabda: "APakah layak salah seorang dari kalian memukul isterinya sebagaimana ia memukul seorang budak, namun di akhir petang malah menggaulinya?." Beliau kemudian memberi nasehat kepada mereka terhadap kebiasaan tertawa lantaran kentut. Setelah itu, beliau bersabda: "Kenapa salah seorang dari kalian tertawa terhadap apa yang ia lakukan?" [Abu Mu'awiyah] berkata; Telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Abdullah bin Zam'ah] bahwa Nabi shallallahu 'alaihi wasallam mengatakan bahwa laki-laki Tsamud tersebut seperti Abu Zam'ah paman Az Zubair bin Al 'Awwam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4942</td></tr><tr><td>Arabic No</td><td>4942</td></tr><tr><td>Reference</td><td>Book 65 Hadith 463</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин Зам‘а, да будет доволен им Аллах, что он слышал, как однажды Пророк ﷺ обратившийся к людям с проповедью, упомянул о верблюдице и о том, кто подрезал её поджилки. Посланник Аллаха ﷺ сказал: «(Аллах Всевышний сказал): “…и вот устремился злосчастнейший из них(, чтобы погубить верблюдицу)”. (Это значит, что) человек, подобный Абу Зам‘е, сильный, неукротимый и пользующийся защитой своих людей, устремился к ней(, чтобы погубить её)». Затем он упомянул о женщинах, обратился (к людям) с увещанием относительно женщин и сказал: «Некоторые из вас избивают своих жён, как рабов, а в конце дня, наверное, ложатся спать с ними». А потом он обратился к ним с увещанием в связи с тем, что они смеялись, когда кто-нибудь испускал ветры, и сказал: «Почему некоторые из вас смеются над тем, что делают и сами?»\nВ другой версии (этого хадиса сообщается, что Пророк ﷺ сказал): «…подобный Абу Зам‘е, дяде аз-Зубайра бин аль-‘Аввама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4942</td></tr><tr><td>Arabic No</td><td>4942</td></tr><tr><td>Reference</td><td>Book 65 Hadith 463</td></tr></tbody></table></div>
 

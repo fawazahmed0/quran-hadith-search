@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim:That he heard Sahl bin Sa'd being asked about the wounds of A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub] dari [Abu Hazim] bahwa dia mendengar [Sahl bin Sa'd] bertanya tentang luka Rasulullah Shallallahu 'alahi wasallam, dia berkata, "Demi Allah, sungguh aku telah mengetahui orang yang telah mengobati luka Rasulullah Shallallahu 'alahi wasallam, orang yang menuangkan air, dan dengan apa beliau diobati." Dia melanjutkan, "Fatimah, putri Rasulullah Shallallahu 'alahi wasallam lah yang telah mencuci (luka beliau), sementara Ali bin Abu Thalib menuangkan air dengan menggunakan perisai, ketika Fatimah melihat darah semakin mengalir deras, dia langsung mengambil potongan tikar dan membakarnya, setelah itu dia menempelkan (bekas pembakaran tersebut) pada luka beliau hingga darahnya terhenti, pada waktu itu gigi seri beliau tanggal, wajah beliau terluka dan topi baja beliau pecah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4075</td></tr><tr><td>Arabic No</td><td>4075</td></tr><tr><td>Reference</td><td>Book 64 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, когда Сахля ибн Са‘да спросили о ранении Посланника Аллаха ﷺ в день битвы при Ухуде, он сказал: «Клянусь Аллахом, я знаю, кто мыл рану Посланника Аллаха ﷺ и кто наливал воду, и чем его лечили. Фатыма, мир ей, дочь Посланника Аллаха ﷺ смывала (кровь с его лица), пока ‘Али приносил в своём щите воду. Когда же она увидела, что вода только усиливает кровотечение, она взяла кусок циновки, сожгла его и приложили (золу) к его ране, и кровь остановилась. В тот день был сломан один из его передних зубов, лицо было ранено, а шлем на голове разбит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4075</td></tr><tr><td>Arabic No</td><td>4075</td></tr><tr><td>Reference</td><td>Book 64 Hadith 120</td></tr></tbody></table></div>
 

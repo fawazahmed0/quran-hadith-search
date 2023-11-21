@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), Al-Hasan Ibn 'Alî prit une des datt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Ziyad] ia mendengar [Abu Hurairah] berkata; Suatu ketika Al Hasan bin Ali mengambil sebuah kurma dari tumpukan kurma sedekah lalu meletakkannya di mulutnya. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Kikh…kikh…, buanglah itu. Tidakkah kamu tahu, bahwa kita memakan dari harta sedekah." Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] semuanya dari [Waki'] dari [Syu'bah] dengan isnad ini, dan ia mengatakan; "Sesungguhnya harta sedekah tidak halal bagi kita." Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] -dalam jalur lain- Dan Telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] keduanya dari [Syu'bah] di dalam isnad ini, sebagaimana yang dikatakan oleh Ibnu Mu'adz; "Bahwa kita tidak memakan harta sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2473</td></tr><tr><td>Arabic No</td><td>1069.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 210</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «(Однажды, когда) аль-Хасан ибн ‘Али взял финик, который был предназначен для милостыни, и положил его в рот, Посланник Аллаха ﷺ сказал: “Нельзя, нельзя брось это! Разве ты не знал, что мы не едим (того, что собрано в качестве) милостыни /садака/?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2473</td></tr><tr><td>Arabic No</td><td>1069.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 210</td></tr></tbody></table></div>
 

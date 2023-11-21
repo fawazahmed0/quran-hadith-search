@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Habib bin Abi Thabit:I went to Abu Wail to ask him (about those who had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ishaq As Sulami] Telah menceritakan kepada kami [Ya'la] Telah menceritakan kepada kami [Abdul Aziz bin Siyah] dari [Habib bin Abu Tsabit] dia berkata; Aku menemui [Abu Wa'il] untuk menanyakan sesuatu. Katanya; ketika itu kami di Shiffin, lantas seseorang berkata; Tidakkah kamu telah melihat orang-orang yang menyeru kepada kitabullah?. Maka Ali menjawab; 'Ya.' [Sahal bin Hunaif] berkata; Tolong koreksilah diri kalian, sungguh aku pernah melihat kami pada hari perjanjian Hudaibiyah, yang terjadi antara Nabi shallallahu 'alaihi wasallam dan kaum Musyrikin, kalaulah kita berpendapat untuk berperang maka tentu kita akan berperang, hingga Umar datang dan berkata; 'Bukankah kita berada dalam kebenaran sedangkan mereka dalam kebatilan, bukankah orang-orang yang terbunuh dari kami berada di Surga, sedangkan orang-orang yang terbunuh dari mereka berada di Neraka? Nabi shallallahu 'alaihi wasallam menjawab; 'Ya.' Umar berkata; kalau begitu kenapa kita merendahkan agama kita dan kembali, padahal Allah belum memutuskan untuk kita. Maka Nabi shallallahu 'alaihi wasallam bersabda: Wahai Ibnu Khaththab; Sesungguhnya aku Rasulullah shallallahu 'alaihi wasallam, sekali-kali Allah tidak akan menyia-nyiakanku. Maka Umar pun kembali dalam keadaan tidak puas dan tidak sabar, lalu ia menemui Abu Bakr seraya berkata; Wahai Abu Bakr, bukankah kita berada dalam kebenaran dan mereka dalam kebatilan, Abu Bakr menjawab; Wahai Ibnu Khatthab, sesunggunya ia adalah Rasulullah shallallahu 'alaihi wasallam, Allah pasti tidak akan menyia-nyiakannya untuk selama-lamanya, maka turunlah surat Al Fath
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4844</td></tr><tr><td>Arabic No</td><td>4844</td></tr><tr><td>Reference</td><td>Book 65 Hadith 365</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хабиб ибн Аби Сабит рассказывал: «Однажды я пришёл к Абу Ваилю, чтобы спросить его (о тех, кто вышел против ‘Али), и он сказал: “Когда мы были в Сыффине, один человек сказал: “Разве ты не видишь тех, кто призывает к книге Аллаха?!” Али ответил: “Да”. Тогда Сахль ибн Хунейф сказал: “О люди, не упрекайте никого, кроме самих себя. Мы были с Посланником Аллаха ﷺ в день Худайбиййи (когда было заключено мирное соглашение между Пророком ﷺ и многобожниками), если бы тогда нужно было сразиться, то мы обязательно сразились бы. ‘Умар даже пришёл к Пророку ﷺ и сказал: “Разве мы не на истине, тогда как они заблуждаются? Разве те из нас, которые погибают, не попадают в Рай, тогда как их погибшие будут ввергнуты в Ад?” Пророк ﷺ ответил: “Конечно”. ‘Умар сказал: “Почему же мы должны унижаться в том, что касается нашей религии, возвращаясь до того, как Аллах рассудил между нами”. Он сказал: “О Ибн аль-Хаттаб, поистине, я — Посланник Аллаха, и Аллах никогда не погубит меня!” Тогда ‘Умар, гневаясь, отправился к Абу Бакру и сказал: “О Абу Бакр! Разве мы не на истине, тогда как они заблуждаются?” Абу Бакр же ответил ему: “О Ибн аль-Хаттаб, поистине, он — Посланник Аллаха, и Аллах никогда не погубит его”. Затем была ниспослана сура “аль-Фатх”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4844</td></tr><tr><td>Arabic No</td><td>4844</td></tr><tr><td>Reference</td><td>Book 65 Hadith 365</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ikrima:Ibn 'Abbas said, "We stayed for 19 days with Prophet on a journ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] Telah menceritakan kepada kami [Abu Syihab] dari ['Ashim] dari [Ikrimah] dari [Ibnu Abbas] katanya, kami tinggal bersama Nabi shallallahu 'alaihi wasallam dalam sebuah safar selama sembilan belas hari, yang sekian lama itu pula kami lakukan qashar. Kata Ibnu Abbas, dan kami melakukan qashar ketika kami bermukim sekitar selama sembilan belas hari, namun apabila lebih, tentu kami lakukan shalat dengan sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4299</td></tr><tr><td>Arabic No</td><td>4299</td></tr><tr><td>Reference</td><td>Book 64 Hadith 332</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Находясь в пути с Пророком ﷺ девятнадцать дней, мы сокращали молитвы». Ибн ‘Аббас также сказал: «Мы сокращали молитвы, когда были в пути девятнадцать дней, если же мы были дольше, то совершали как обычно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4299</td></tr><tr><td>Arabic No</td><td>4299</td></tr><tr><td>Reference</td><td>Book 64 Hadith 332</td></tr></tbody></table></div>
 

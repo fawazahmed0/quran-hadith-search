@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The moon was cleft asunder while we were in the company of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] Telah mengabarkan kepada kami [Ibnu Abu Najih] dari [Mujahid] dari [Abu Ma'mar] dari [Abdullah] dia berkata; Ketika kami bersama Nabi shallallahu 'alaihi wasallam, bulan terbelah menjadi dua. Beliau berkata kepada kami: "Saksikanlah, saksikanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4865</td></tr><tr><td>Arabic No</td><td>4865</td></tr><tr><td>Reference</td><td>Book 65 Hadith 386</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Когда раскололась Луна мы были вместе с Пророком ﷺ. Она разделилась на две части, и Пророк ﷺ сказал нам: “Засвидетельствуйте, засвидетельствуйте (это)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4865</td></tr><tr><td>Arabic No</td><td>4865</td></tr><tr><td>Reference</td><td>Book 65 Hadith 386</td></tr></tbody></table></div>
 

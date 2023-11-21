@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Soon the river "Euphrates" w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Sa'id Al Kindi] telah menceritakan kepada kami ['Uqbah bin Khalid] telah menceritakan kepada kami [Ubaidullah] dari [Khubaib bin Abdurrahman] dari [Kakeknya, Hafsh bin 'Ashim] dari [Abu Hurairah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak lama lagi Eufrat tersingkap perbendaharaan-perbendaharaan emasnya, maka barangsiapa mendatanginya, jangan ia mengambilnya sedikitpun." Kata [Uqbah]; telah menceritakan kepada kami [Ubaidullah] telah menceritakan kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam semisal hadits diatas, hanyasanya dia mengatakan dengan redaksi; "tersingkap gunung emas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7119</td></tr><tr><td>Arabic No</td><td>7119</td></tr><tr><td>Reference</td><td>Book 92 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Близится то время, когда Евфрат обнажит сокровищницу(, полную) золота, и пусть тот, кто застанет это время, ничего не берёт из него». \n(А в другой версии) от Абу Хурайры, да будет доволен им Аллах, передаётся, что Пророк ﷺ сказал: «…обнажит гору золота…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7119</td></tr><tr><td>Arabic No</td><td>7119</td></tr><tr><td>Reference</td><td>Book 92 Hadith 66</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ammar ibn Yasir: The Prophet (ﷺ) granted permission to a person who w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad bin Salamah] telah mengabarkan kepada kami ['Atha' Al-Khurasani] dari [Yahya bin Ya'mar] dari ['Ammar bin Yasir] bahwasanya Nabi shallallahu 'alaihi wasallam telah memberikan rukhshah (keringanan) bagi orang yang junub apabila hendak makan, atau, minum atau, tidur, untuk berwudhu terlebih dahulu. Abu Dawud berkata; Di antara Yahya bin Ya'mar dan Ammar bin Yasir pada hadits ini terdapat seorang laki-laki. Dan Ali bin Ai Thalib, Ibnu Umar, dan Abdullah bin Umar mengatakan; Orang yang junub apabila hendak makan, maka dia berwudhu terlebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>225</td></tr><tr><td>Arabic No</td><td>225</td></tr><tr><td>Reference</td><td>Book 1 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аммара ибн Йасира: «Пророк ﷺ разрешал человеку в состоянии большого осквернения есть, пить или ложиться спать, если он перед этим совершит омовение».Абу Дауд сказал: «Среди передатчиков этого хадиса, между Йахъя ибн Я‘мар и ‘Аммаром ибн Йасир есть один человек. А ‘Али ибн Абу Талиб, Ибн ‘Умар и ‘Абдуллах ибн ‘Амр сказали, что когда тот, кто в состоянии большого осквернения /джунуб/ хочет поесть, то ему следует совершить (малое) омовение /вудуъ/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>225</td></tr><tr><td>Arabic No</td><td>225</td></tr><tr><td>Reference</td><td>Book 1 Hadith 225</td></tr></tbody></table></div>
 

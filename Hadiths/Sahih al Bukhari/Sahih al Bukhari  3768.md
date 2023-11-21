@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:'Aisha said, "Once Allah's Messenger (ﷺ) said (to me), 'O 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari [Yunus] dari [Ibnu Syihab] [Abu Salamah] berkata bahwa ['Aisyah radliallahu 'anha] berkata; Pada suatu hari Rasulullah shallallahu 'alaihi wasallam berkata: "Wahai 'Aisyah, ini ada malaikat Jibril datang untuk menyampaikan salam kepadamu". Aku katakan; "Wa 'alaihis salam wa rahmatullahi wa barakaatuh (Salam sejahtera, rahmat Allah dan barakah-Nya baginya), baginda dapat melihat sesuatu yang aku tidak melihatnya". Yang dimaksud bisa melihat oleh 'Aisyah adalah Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3768</td></tr><tr><td>Arabic No</td><td>3768</td></tr><tr><td>Reference</td><td>Book 62 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) Посланник Аллаха ﷺ сказал ей: «О ‘Аиша! Вот Джибриль приветствует тебя», (на что) она сказала: «И ему мир, милость Аллаха и Его благословения. Ты видишь то, чего не вижу я!» — и (, говоря это,) она имела в виду Посланник Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3768</td></tr><tr><td>Arabic No</td><td>3768</td></tr><tr><td>Reference</td><td>Book 62 Hadith 113</td></tr></tbody></table></div>
 

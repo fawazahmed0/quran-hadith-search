@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar: Allah's Messenger (ﷺ) said, 'If anyone says to h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] katanya; telah menceritakan kepadaku [Malik] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] radliallahu 'anhuma bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa saja yang berkata kepada saudaranya; "Wahai Kafir" maka bisa jadi akan kembali kepada salah satu dari keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6104</td></tr><tr><td>Arabic No</td><td>6104</td></tr><tr><td>Reference</td><td>Book 78 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Если человек скажет своему брату (в исламе): “О неверный!”, то это вернётся к одному из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6104</td></tr><tr><td>Arabic No</td><td>6104</td></tr><tr><td>Reference</td><td>Book 78 Hadith 131</td></tr></tbody></table></div>
 

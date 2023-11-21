@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Kuraib, the freed slave of Ibn 'Abbas, reported that Ibn 'Abbas narrated to him 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata: Aku telah membacakan kepada [Malik] dari [Makhramah bin Sulaiman] dari [Kuraib] Maula Ibnu Abbas, bahwa [Ibnu Abbas] telah mengabarkan kepadanya bahwasanya; Pada suatu malam dia tidur di rumah bibinya, Maimunah, Ummul Mukminin. Dia tidur melintang kasur, sedangkan Rasulullah shallallahu 'alaihi wasallam dan isterinya memanjang kasur. Beliau tidur hingga lebih kurang sampai pertengan malam. Setelah itu, beliau bangun sambil menyapu kantuk dari mukanya. Kemudian beliau membaca sepuluh ayat penghabisan dari surat Ali Imran. Sesudah itu, beliau pergi ke tempat air, lalu beliau berwudlu dengan menyempurnakan wudlunya, dan sesudah itu beliau shalat. Ibnu Abbas berkata, "Aku pun bangun kemudian melakukan sebagaimana yang dilakukan oleh Nabi shallallahu 'alaihi wasallam. Kemudian aku berdiri di samping kiri beliau. Tetapi beliau memegang kepalaku dengan tangannya dan memindahkanku ke sebelah kanannya. Mula-mula beliau shalat dua raka'at, kemudian dua raka'at, kemudian dua raka'at, kemudian dua raka'at, kemudian dua raka'at, kemudian dua raka'at dan kemudian witir satu raka'at. Sesudah itu, beliau berbaring hingga terdengar muadzin mengumandangkan adzan Shubuh. Rasulullah shallallahu 'alaihi wasallam bangun, lalu shalat ringkas dua raka'at, sesudah itu beliau pergi ke (masjid) untuk mengerjakan shalat Shubuh." Dan telah menceritakan kepadaku [Muhammad bin Salamah Al Muradi] telah menceritakan kepada kami [Abdullah bin Wahb] dari [Iyadl bin Abdullah Al Fihri] dari [Makhramah bin Sulaiman] dengan isnad ini. dan ia menambahkan; "Kemudian beliau pergi ke tempat air, bersiwak dan berwudlu dengan menyempurnakan wudlunya. Dan beliau tidaklah menggunakan air kecuali hanya sedikit. Sesudah itu, beliau menggerakkanku, hingga aku pun bangun." Semua hadits (tentang ini) menyerupai haditsnya Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1789</td></tr><tr><td>Arabic No</td><td>763.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас рассказывал, что однажды он остался ночевать у Маймуны, матери правоверных , которая была его тёткой со стороны матери, он сказал: «Я улёгся поперёк постели, а Посланник Аллаха ﷺ со своей женой вдоль неё. И Посланник Аллаха ﷺ спал примерно до середины ночи, а потом проснулся, сел и начал протирать лицо, чтобы разогнать сон. Затем он прочитал десять последних аятов суры “Али ‘Имран”, подошёл к старому бурдюку, подвешенному к потолку, совершил омовение должным образом, а потом встал на молитву».Ибн ‘Аббас сказал: «И я тоже поднялся, сделал всё то, что сделал Посланник Аллаха ﷺ, а потом встал рядом с ним. Он же положил свою правую руку мне на голову, взял меня за ухо и слегка потрепал его. И он совершил два рак‘ата молитвы, потом ещё два, потом ещё два, потом ещё два, потом ещё два, потом ещё два. Затем он завершил молитву нечётным количеством рак‘атов. Затем он снова лёг и лежал, пока к нему не пришёл муаззин, и тогда он поднялся, совершил молитву в два лёгких рак‘ата, а потом вышел из дома и совершил утреннюю молитву (в мечети)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1789</td></tr><tr><td>Arabic No</td><td>763.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 217</td></tr></tbody></table></div>
 

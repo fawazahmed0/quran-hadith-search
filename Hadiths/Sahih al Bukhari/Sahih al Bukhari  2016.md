@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Salama:I asked Abu Sa'id, and he was a friend of mine, (about the N
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadhalah] telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Abu Salamah] berkata; Aku bertanya kepada [Abu Sa'id Al Khudriy] yang merupakan salah seorang sahabat karibku. Maka dia berkata: " Kami pernah ber'i'tikaf bersama Nabi shallallahu 'alaihi wasallam pada sepuluh malam pertengahan dari bulan Ramadhan. Kemudian Beliau keluar pada sepuluh malam yang akhir lalu memberikan khuthbah kepada kami dan berkata: "Sungguh aku diperlihatkan (dalam mimpi) tentang Lailatul Qadar namun aku lupa atau dilupakan waktunya yang pasti. Namun carilah pada sepuluh malam-malam akhir dan pada malam yang ganjil. Sungguh aku melihat dalam mimpi, bahwa aku sujud diatas tanah dan air (yang becek). Oleh karena itu siapa yang sudah beri'tikaf bersama Rasulullah shallallahu 'alaihi wasallam maka pulanglah". Maka kami pun pulang. Dan tidaklah kami melihat awan yang tipis sekalipun di langit hingga kemudian tiba-tiba datang awan yang banyak, lalu hujan turun hingga air menetes (karena bocor) lewat atap masjid yang terbuat dari dedaunan kurma. Kemudian setelah shalat (Shubuh) selesai aku melihat Rasulullah shallallahu 'alaihi wasallam sujud diatas air dan tanah yang becek hingga aku melihat sisa-sisanya pada dahi Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2016</td></tr><tr><td>Arabic No</td><td>2016</td></tr><tr><td>Reference</td><td>Book 32 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Мы неотлучно находились в мечети вместе с Пророком ﷺ в течение второй декады рамадана, а утром двадцатого числа он вышел (из дома), обратился к нам с проповедью и сказал: “Поистине, мне было возвещено о ночи предопределения, а потом меня заставили забыть о ней, но ждите её в одну из нечётных ночей последней декады (рамадана). И, поистине, я видел во сне, что совершаю земной поклон в воде и глине, пусть же тот, кто неотлучно находился в мечети вместе с посланником Аллаха, вернётся (обратно)”, и мы вернулись. (В то время) мы не видели на небе ни облачка, но вдруг появились тучи и хлынул такой дождь, что крыша мечети, сделанная из голых пальмовых ветвей, протекла. А потом было объявлено о начале намаза, и я увидел, как Посланник Аллаха ﷺ совершает земные поклоны в воде и глине, и я увидел также следы, оставленные глиной на его лбу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2016</td></tr><tr><td>Arabic No</td><td>2016</td></tr><tr><td>Reference</td><td>Book 32 Hadith 3</td></tr></tbody></table></div>
 

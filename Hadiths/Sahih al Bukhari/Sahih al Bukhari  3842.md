@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Abu Bakr had a slave who used to give him some of his earnings. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3842</td></tr><tr><td>Arabic No</td><td>3842</td></tr><tr><td>Reference</td><td>Book 63 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «У Абу Бакра ас-Сыддика, да будет доволен им Аллах, был раб, приносивший ему подать, и Абу Бакр употреблял в пищу то, что он приносил. Однажды (этот раб) что-то принёс ему и Абу Бакр поел этого, а потом раб сказал ему: “Знаешь ли ты, что это?” Абу Бакр спросил: “А что это?” Он сказал: “Во времена джахилийи я делал предсказания для одного человека, (хотя) прорицателем я был плохим и только обманывал его, а (теперь) он встретил меня и дал мне то, чего ты поел”, — и (, услышав это,) Абу Бакр сунул себе в рот руку и изверг из себя всё то, что было у него в животе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3842</td></tr><tr><td>Arabic No</td><td>3842</td></tr><tr><td>Reference</td><td>Book 63 Hadith 67</td></tr></tbody></table></div>
 

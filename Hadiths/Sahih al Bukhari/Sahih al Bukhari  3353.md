@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The people said, "O Allah's Messenger (ﷺ)! Who is the mos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Yahya bin Sa'id] telah bercerita kepada kami ['Ubaidullah] berkata telah bercerita kepadaku [Sa'id bin Abi Sa'id] dari [Bapaknya] dari [Abu Hurairah radliallahu 'anhu]; " Rasulullah shallallahu 'alaihi wasallam ditanya; "Wahai Rasulullah, siapakah manusia yang paling mulia?". Beliau menjawab: "Orang yang paling taqwa". Mereka berkata; "Bukan itu yang kami tanyakan". Beliau berkata: "Kalau begitu Yusuf Nabi Allah, putra dari Nabi Allah putra Khalilullah (kekasih Allah, Ibrahim Alaihissalam) ". Mereka berkata lagi; "Bukan itu yang kami tanyakan". Beliau berkata: "Apakah yang kalian maksudkan tentang kalangan bangsa Arab?. Orang yang terbaik di zaman Jahiliyyah akan menjadi yang terbaik pula di masa Islam jika mereka memahami Islam". [Abu Usamah] dan [Mu'tamir] berkata dari ['Ubaidullah] dari [Sa'id] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3353</td></tr><tr><td>Arabic No</td><td>3353</td></tr><tr><td>Reference</td><td>Book 60 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды Пророка ﷺ) спросили: “О Посланник Аллаха, кто является самым благородным из людей?” Он сказал: “Самый богобоязненный из них”. (Люди) сказали: “Мы спрашиваем тебя не об этом”. Он сказал: “Тогда — Йусуф, пророк Аллаха, сын пророка Аллаха, сына пророка Аллаха, сына возлюбленного Аллаха”. (Люди снова) сказали: “Мы спрашиваем тебя не об этом”. Он сказал: “Значит, вы спрашиваете меня о предках арабов? Те из них, которые были лучшими во времена джахилийи, останутся лучшими и в исламе, если усвоят (установления шариата)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3353</td></tr><tr><td>Arabic No</td><td>3353</td></tr><tr><td>Reference</td><td>Book 60 Hadith 28</td></tr></tbody></table></div>
 

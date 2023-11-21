@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to the Prophet (ﷺ) and said, "I am ruined!" Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] Telah menceritakan kepada kami [Ibrahim bin Sa'd] Telah menceritakan kepada kami [Ibnu Syihab] dari [Humaid bin Abdurrahman] dari [Abu Hurairah] radliallahu 'anhu, ia berkata; Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Aku telah binasa." Beliau bertanya: "Karena apa?" laki-laki itu berkata, "Aku telah menggauli isteriku pada siang hari bulan Ramadlan." Maka beliau bersabda: "Kalau begitu, merdekakanlah seorang budak." Laki-laki itu berkata, "Aku tidak punya." Beliau bersabda lagi: "Kalau tak punya, maka berpuasalah dua bulan berturut-turut." Laki-laki itu menjawab, "Aku tak sanggup." Beliau bersabda: "Jika tak mampu, maka berilah makan kepada enam puluh orang miskin." Laki-laki itu berkata, "Aku tidak mendapati sesuatu." Sesudah itu, Nabi shallallahu 'alaihi wasallam diberi keranjang berisi kurma. Maka beliau pun bertanya: "Dimanakah orang yang bertanya tadi?" laki-laki itu menjawab, "Ya, ini aku." Beliau bersabda: "Bersedekahlah dengan ini." laki-laki itu berkata, "Apakah ada orang yang paling membutuhkannya dari pada kami wahai Rasulullah? Maka demi Dzat yang telah mengutusmu dengan membawa kebenaran, tidak ada ahlu bait di antara dua bukit itu yang lebih membutuhkannya dari pada kami." Akhirnya Nabi shallallahu 'alaihi wasallam tertawa hingga gigi gerahannya terlihat. Beliau bersabda: "Kalau begitu, sedekahkanlah kepada keluargamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5368</td></tr><tr><td>Arabic No</td><td>5368</td></tr><tr><td>Reference</td><td>Book 69 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды к Пророку ﷺ пришёл один человек и сказал: “Я погиб!” Пророк ﷺ спросил: “Почему?” Человек ответил: “Я вступил в половую близость с женой (днём) в рамадане”. Пророк ﷺ сказал: “Освободи раба”. Человек сказал: “У меня его нет”. Пророк ﷺ сказал: “Тогда постись два месяца подряд”. Человек сказал: “Я не могу”. Пророк ﷺ сказал: “Тогда накорми шестьдесят бедняков”. Он сказал: “Мне нечем их накормить”. После этого Пророку ﷺ принесли корзину с финиками, и он спросил: “Где (человек,) задавший вопрос?” Он отозвался: “Я (здесь)”. Тогда Пророк ﷺ сказал: “Раздай это в качестве милостыни”. Этот человек сказал: “(Должен ли я раздать это) тем, кто беднее меня, о Посланник Аллаха? Ведь клянусь Тем, Кто отправил тебя с истиной, нет в пределах Медины семьи беднее моей!” Тогда Пророк ﷺ стал смеяться так, что показались его зубы, а потом сказал: “Значит это вам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5368</td></tr><tr><td>Arabic No</td><td>5368</td></tr><tr><td>Reference</td><td>Book 69 Hadith 18</td></tr></tbody></table></div>
 

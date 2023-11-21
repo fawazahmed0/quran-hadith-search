@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) ordered (Muslims) to give one Sa'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Al Laits] dari [Nafi'] bahwa ['Abdullah bin 'Umar radliallahu 'anhua] berkata: Nabi shallallahu 'alaihi wasallam memerintahkan kami tentang zakat fithri berupa satu sha' dari kurma atau satu sha' dari gandum". Berkata, 'Abdullah radliallahu 'anhu: "Kemudian orang-orang menyamakannya dengan dua mud untuk biji gandum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1507</td></tr><tr><td>Arabic No</td><td>1507</td></tr><tr><td>Reference</td><td>Book 24 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ вменил в обязанность раздавать закят аль-Фитр в размере одного са‘ фиников или ячменя». ‘Абдуллах сказал: «И люди приравняли два мудда пшеницы к са‘ упомянутых продуктов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1507</td></tr><tr><td>Arabic No</td><td>1507</td></tr><tr><td>Reference</td><td>Book 24 Hadith 107</td></tr></tbody></table></div>
 

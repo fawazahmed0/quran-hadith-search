@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) said: An oath
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Mundzir bin Al Walid], telah menceritakan kepada kami [Abdullah bin Bakr], telah menceritakan kepada kami ['Ubaidullah bin Al Akhnas], dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya], Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh ada nadzar dan sumpah dalam perkara yang tidak dimiliki anak Adam, dan dalam bermaksiat kepada Allah, serta dalam memutuskan hubungan kekerabatan. Barangsiapa yang bersumpah kemudian melihat yang lainnya lebih baik darinya, maka hendaknya ia meninggalkannya dan melakukan yang lebih baik darinya, maka sesungguhnya meninggalkannya adalah kafarah baginya." Abu Daud berkata; seluruh hadits tersebut berasal dari Nabi shallallahu 'alaihi wasallam: hendaknya ia membayar kafarah untuk sumpahnya kecuali dalam perkara yang tidak dipedulikan." Abu Daud berkata; aku katakan kepada Ahmad, Yahya bin Sa'id telah meriwayatkan dari Yahya bin 'Ubaidullah. Kemudian ia berkata; ia meninggalkannya setelah itu, dan ia adalah orang yang ahli untuk itu. Ahmad berkata; hadits-haditsnya adalah hadits-hadits yang munkar, dan ayahnya tidak dikenal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3274</td></tr><tr><td>Arabic No</td><td>3274</td></tr><tr><td>Reference</td><td>Book 22 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3274</td></tr><tr><td>Arabic No</td><td>3274</td></tr><tr><td>Reference</td><td>Book 22 Hadith 33</td></tr></tbody></table></div>
 

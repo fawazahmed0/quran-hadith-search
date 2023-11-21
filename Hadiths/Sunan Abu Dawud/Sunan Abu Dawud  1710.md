@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) was asked abo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1710</td></tr><tr><td>Arabic No</td><td>1710</td></tr><tr><td>Reference</td><td>Book 10 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах им и его отцом, что Посланника Аллаха ﷺ спросили о висящих плодах, и он сказал: «Кто поест что-то из них, потому что нуждается, и не станет набирать (в полы) одежды, того не подвергают наказанию. А тот, кто унесёт сколько-то плодов, должен заплатить за них вдвое и понести наказание. Кто украдёт плоды из сада после того, как они собраны в предназначенное для них место и стоимость украденного достигла стоимости щита, тому следует отрубить руку». О потерянных верблюдах и овцах он сказал то же, что и в других хадисах. Он также передаёт, что Посланника Аллаха ﷺ спросили о находке и он сказал: «Если она найдена на дороге, по которой ходят люди, или в большом селении, то объявляй о ней в течение года, и если придёт к тебе хозяин найденного, то отдай его ему, а если он не придёт, то оно твоё. А если ты нашёл её там, где уже никто не живёт, то с такой находки, равно как и с клада, выплачивается пятая часть (хумс)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1710</td></tr><tr><td>Arabic No</td><td>1710</td></tr><tr><td>Reference</td><td>Book 10 Hadith 10</td></tr></tbody></table></div>
 

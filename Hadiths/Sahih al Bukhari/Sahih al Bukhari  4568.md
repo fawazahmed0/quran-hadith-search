@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Alqama bin Waqqas:Marwan said to his gatekeeper, "Go to Ibn 'Abbas, O R
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam] bahwa [Ibnu Juraij] Telah menceritakan kepada mereka dari [Ibnu Abu Mulaikah] bahwa ['Alqamah bin Waqqash] telah mengabarkan kepadanya bahwasannya Marwan berkata kepada penjaga pintunya; "Wahai Abu Rafi', pergilah menemui Ibnu Abbas, tanyakan kepadanya; 'Apabila setiap orang dari kita akan disiksa karena merasa senang dengan apa yang dia kerjakan dan suka untuk dipuji terhadap apa yang belum dia kerjakan, dengan demikian berarti kita semua akan di adzab? [Ibnu Abbas] berkata; 'Ada apa dengan ayat ini? ' Ayat ini hanya di turunkan mengenai orang Yahudi.." Yaitu ketika nabi shallallahu 'alaihi wasallam menanyakan kepada mereka tentang sesuatu, namun mereka menyembunyikannya dan mengabarkan hal yang lain. Lalu mereka perlihatkan kepada beliau bahwa mereka berhak mendapat pujian dari apa yang telah mereka kabarkan itu dan mereka senang dengan apa yang telah mereka kerjakan, yaitu sikap mereka yang menyembunyikan sesuatu yang beliau tanyakan.' Lalu Ibnu Abbas membaca ayat; "Dan (ingatlah), ketika Allah mengambil janji dari orang-orang yang telah diberi (yaitu), "Hendaklah kamu benar-benar menerangkannya (isi kitab itu) kepada manusia dan janganlah kamu menyembunyikannya." (Ali Imran: 187). Dan Ibnu Abbas membaca ayat; "Dan janganlah sekali-kali kamu mengira bahwa orang yang gembira dengan apa yang telah mereka kerjakan dan mereka suka dipuji atas perbuatan yang tidak mereka lakukan. (Ali Imran: 188). Dan diriwayatkan pula oleh ['Abdur Razzaq] dari [Ibnu Juraij] Demikian juga diriwayatkan dari jalur lainnya, Telah menceritakan kepada kami [Ibnu Muqatil] Telah mengabarkan kepada kami [Al Hajjaj] dari [Ibnu Juraij] Telah mengabarkan kepadaku [Ibnu Abu Mulaikah] dari [Humaid bin 'Abdur Rahman bin 'Auf] bahwasanya ia telah mengabarkan kepadanya mengenai kisah Marwan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4568</td></tr><tr><td>Arabic No</td><td>4568</td></tr><tr><td>Reference</td><td>Book 65 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн ‘Аббасу, да будет доволен Аллах ими обоими, сказали: «Поистине, если подвергнется наказанию каждый радующийся тому, что он сделал, и желающий услышать похвалы за то, чего он не делал, тогда все мы неизбежно будем наказаны!» (На это) Ибн ‘Аббас сказал: «А какое отношение имеете к этому вы? Дело в том, что (в своё время) Пророк ﷺ призвал к себе иудеев и спросил у них о чём-то, а они скрыли это и сообщили ему о чём-то другом, давая ему понять, что ждут похвалы за то, что сообщили ему в ответ на его вопрос, и радуясь тому, что они скрыли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4568</td></tr><tr><td>Arabic No</td><td>4568</td></tr><tr><td>Reference</td><td>Book 65 Hadith 90</td></tr></tbody></table></div>
 

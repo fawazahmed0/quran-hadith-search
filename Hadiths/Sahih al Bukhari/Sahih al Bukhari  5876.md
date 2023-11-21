@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) had a golden ring made for himself, and whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] bahwa [Abdullah] pernah menceritakan kepadanya bahwa Nabi shallallahu 'alaihi wasallam pernah membuat cincin dari emas, dan menghadapkan mata cincinnya ke telapak tangan beliau apabila beliau mengenakannya, maka orang-orang pun ramai membuat cincin dari emas, lalu beliau naik mimbar, setelah memuji Allah dan menyanjung-Nya beliau bersabda: "Sesungguhnya saya telah membuat cincin dari emas, dan sungguh saat ini saya tidak akan mengenakannya." Maka orang-orang pun membuang cincin mereka. Juwairiyah mengatakan; 'Aku tidak mengira lagi kecuali Nafi' mengatakan; 'Beliau mengenakannya di tangan kanan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5876</td></tr><tr><td>Arabic No</td><td>5876</td></tr><tr><td>Reference</td><td>Book 77 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах рассказал о том, что Пророку ﷺ по его велению изготовили перстень-печать из золота, и он носил его широкой частью к ладони. Увидев, что люди тоже стали делать золотые перстни, он поднялся на минбар, восхвалил и восславил Аллаха и сказал: «По моему велению мне изготовили (перстень), но больше я не буду его носить». После чего он бросил его и люди тоже бросили (свои перстни)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5876</td></tr><tr><td>Arabic No</td><td>5876</td></tr><tr><td>Reference</td><td>Book 77 Hadith 93</td></tr></tbody></table></div>
 

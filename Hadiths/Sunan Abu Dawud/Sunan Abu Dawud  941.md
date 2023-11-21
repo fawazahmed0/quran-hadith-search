@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ sahl b. Sa’d said; Fighting took place amongst the tribe of Banu ‘Amr b. ‘
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>941</td></tr><tr><td>Arabic No</td><td>941</td></tr><tr><td>Reference</td><td>Book 2 Hadith 552</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сахля ибн Са‘да, да будет доволен им Аллах, что однажды бану ‘амр ибн ‘ауф подрались друг с другом. Пророку ﷺ стало известно об этом и он пришёл к ним после полуденной молитвы, чтобы примирить их. (Перед этим) он сказал Билялю: “Если наступит время послеполуденной молитвы, а я не приду к тебе, вели Абу Бакру помолиться с людьми”. Когда настало время послеполуденной молитвы, Биляль произнёс азан и велел Абу Бакру выйти вперёд и занять место имама. А в конце хадиса упоминается о том, что (Посланник Аллаха ﷺ) сказал: «Если что-то произойдёт во время молитвы, пусть мужчины говорят: “Пречист Аллах”, а женщины хлопают»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>941</td></tr><tr><td>Arabic No</td><td>941</td></tr><tr><td>Reference</td><td>Book 2 Hadith 552</td></tr></tbody></table></div>
 

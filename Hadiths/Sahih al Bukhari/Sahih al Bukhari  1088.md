@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (p.b.u.h) said, "It is not permissible for a wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Ibnu Abu Dza'bi] berkata, [Said Al Maqbariy] dari [bapaknya] dari [Abu Hurairah radliallahu 'anhu a] berkata; Telah bersabda Nabi shallallahu 'alaihi wasallam; "Tidak halal seorang wanita yang beriman kepada Allah dan hari akhir untuk mengadakan perjalanan selama satu hari satu tanpa didampingi mahramnya". Hadits ini diikuti pula oleh [Yahya bin Abu Katsir], [Suhail] dan [Malik] dari [Al Maqburiy] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1088</td></tr><tr><td>Arabic No</td><td>1088</td></tr><tr><td>Reference</td><td>Book 18 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Непозволительно женщине, верующей в Аллаха и в Последний день, отправляться в поездку, которая займёт день и ночь, без сопровождения близкого родственника”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1088</td></tr><tr><td>Arabic No</td><td>1088</td></tr><tr><td>Reference</td><td>Book 18 Hadith 9</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' thus reported on the authority of Ibn Umar:We entered into the state of Ih
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Abdullah bin Aun Al Hilali] keduanya berkata, Telah menceritakan kepada kami [Abbad bin Abbad Al Muhallabi] Telah menceritakan kepada kami [Ubaidullah bin Umar] dari [Nafi'] dari [Ibnu Umar] -dalam riwayat Yahya- ia berkata; "Kami pernah berihram bersama Rasulullah shallallahu 'alaihi wasallam untuk haji ifrad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2994</td></tr><tr><td>Arabic No</td><td>1231</td></tr><tr><td>Reference</td><td>Book 15 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2994</td></tr><tr><td>Arabic No</td><td>1231</td></tr><tr><td>Reference</td><td>Book 15 Hadith 202</td></tr></tbody></table></div>
 

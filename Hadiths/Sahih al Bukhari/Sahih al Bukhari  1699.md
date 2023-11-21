@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I twisted the garlands for the Hadis of the Prophet (ﷺ) and th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] telah menceritakan kepada kami [Aflah bin Humaid] dari [Al Qasim] dari ['Aisyah radliallahu 'anha] berkata; "Aku mengikatkan kalung pada hewan qurban Nabi Shallallahu'alaihiwasallam, lalu Beliau menandainya dan mengikatnya atau aku mengikatnya kemudian Beliau mengirim hewan qurbannya itu ke Baitullah dan Beliau tinggal di Madinah. Maka apa-apa yang diharamkan bagi Beliau setelah itu menjadi halal baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1699</td></tr><tr><td>Arabic No</td><td>1699</td></tr><tr><td>Reference</td><td>Book 25 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я плела повязки для жертвенного скота Пророка ﷺ. Затем он пометил его кровью и этими повязками, после чего послал животных к Каабе, а сам остался в Медине, и ничего не становилось для него запретным из того, что было дозволенным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1699</td></tr><tr><td>Arabic No</td><td>1699</td></tr><tr><td>Reference</td><td>Book 25 Hadith 177</td></tr></tbody></table></div>
 

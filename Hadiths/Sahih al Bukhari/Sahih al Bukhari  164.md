@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humran:(the freed slave of 'Uthman bin 'Affan) I saw 'Uthman bin 'Affan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku ['Atha' bin Yazid] dari [Humran] mantan budak 'Utsman bin 'Affan, bahwa ia melihat ['Utsman bin 'Affan] minta untuk diambilkan air wudlu. Ia lalu menuang bejana itu pada kedua tangannya, lalu ia basuh kedua tangannya tersebut hingga tiga kali. Kemudian ia memasukkan tangan kanannya ke dalam air wudlunya, kemudian berkumur, memasukkan air ke dalam hidung dan mengeluarkannya. Kemudian membasuh mukanya tiga kali, membasuh kedua lengannya hingga siku tiga kali, mengusap kepalanya lalu membasuh setiap kakinya tiga kali. Setelah itu ia berkata, "Aku telah melihat Nabi shallallahu 'alaihi wasallam berwudlu seperti wudluku ini, beliau lalu bersabda: "Barangsiapa berwudlu seperti wudluku ini, kemudian dia shalat dua rakaat dan tidak berbicara antara keduanya, maka Allah mengampuni dosanya yang telah lalu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>164</td></tr><tr><td>Arabic No</td><td>164</td></tr><tr><td>Reference</td><td>Book 4 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Хумран, вольноотпущенник ‘Усмана ибн ‘Аффана рассказывал о том, что он видел, как ‘Усман ибн ‘Аффан, да будет доволен им Аллах, попросил (принести) воды для омовения. Затем он налил воды на руку из сосуда и трижды помыл руки. Затем он опустил правую руку (в сосуд) с водой и прополоснул рот и нос, высморкался, затем трижды помыл лицо, и трижды помыл руки до локтей, после чего обтер голову. Затем он трижды помыл каждую ногу, после чего сказал: «Я видел, как Пророк ﷺ совершил такое же омовение, как это сделал я и сказал: “Тому, кто совершит омовение так, как это сделал я, а затем совершит молитву из двух рак‘атов, в которой не станет беседовать с самим собой, Аллах простит предыдущие грехи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>164</td></tr><tr><td>Arabic No</td><td>164</td></tr><tr><td>Reference</td><td>Book 4 Hadith 30</td></tr></tbody></table></div>
 

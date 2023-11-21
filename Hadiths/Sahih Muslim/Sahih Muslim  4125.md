@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) said he heard Allah's Messenger (ﷺ) as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Abu Shafwan Al Amawi]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abu Thahir] dan [Harmalah bin Yahya] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb], keduanya dari [Yunus] dari [Ibnu Syihab] dari [Ibnu Musayyab] bahwa [Abu Hurairah] berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sumpah itu dapat melariskan barang dan menghilangkan barakah keuntungan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4125</td></tr><tr><td>Arabic No</td><td>1606</td></tr><tr><td>Reference</td><td>Book 22 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Клятва способствует (сбыту) товара, но уничтожает прибыль”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4125</td></tr><tr><td>Arabic No</td><td>1606</td></tr><tr><td>Reference</td><td>Book 22 Hadith 164</td></tr></tbody></table></div>
 

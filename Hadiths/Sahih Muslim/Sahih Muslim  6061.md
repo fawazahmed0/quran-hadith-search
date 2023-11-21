@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubida b. Samit reported that when wahi descended upon Allah's Apostle (ﷺ), he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Basysyar]; Telah menceritakan kepada kami [Mu'adz bin Hisyam]; Telah menceritakan kepada kami [Bapakku] dari [Qatadah] dari [Al Hasan] dari [Hiththan bin 'Abdillah Ar Raqasyi] dari ['Ubadah bin Ash Shamit] "Apabila wahyu sedang turun kepada Nabi shallallahu 'alaihi wasallam, beliau menundukkan kepalanya, dan para sahabat pun ikut menundukkan kepala. Dan apabila wahyu telah selesai di bacakan, beliau mengangkat kepala kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6061</td></tr><tr><td>Arabic No</td><td>2335</td></tr><tr><td>Reference</td><td>Book 43 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6061</td></tr><tr><td>Arabic No</td><td>2335</td></tr><tr><td>Reference</td><td>Book 43 Hadith 119</td></tr></tbody></table></div>
 

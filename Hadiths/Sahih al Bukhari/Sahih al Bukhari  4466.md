@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah 's Apostle died when he was sixty-three years of age
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] Telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam meninggal pada umur enam puluh tiga tahun.' Ibnu Syihab berkata; Dan telah mengabarkan kepadaku [Sa'id bin Al Musayyab] dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4466</td></tr><tr><td>Arabic No</td><td>4466</td></tr><tr><td>Reference</td><td>Book 64 Hadith 481</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ скончался в возрасте шестидесяти трех лет
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4466</td></tr><tr><td>Arabic No</td><td>4466</td></tr><tr><td>Reference</td><td>Book 64 Hadith 481</td></tr></tbody></table></div>
 

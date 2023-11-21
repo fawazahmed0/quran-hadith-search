@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:Anas went to the Prophet (ﷺ) with barley bread having some dis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Qatadah] dari [Anas]. Dan diriwayatkan pula, telah menceritakan kepada saya [Muhammad bin 'Abdullah bin Hawsyab] telah menceritakan kepada kami [Asbath Abu Al Yasa' Al Bashriy] telah menceritakan kepada kami [Hisyam Ad-Dastawa'iy] dari [Qatadah] dari [Anas radliallahu 'anhu] bahwa dia pernah di sore hari bersama Nabi shallallahu 'alaihi wasallam dengan hidangan rati terbuat dari gandum dan sayur yang sudah basi. Sungguh Nabi shallallahu 'alaihi wasallam telah menggadaikan baju besi Beliau kepada seorang Yahudi untuk mendapatkan makanan di Madinah lalu dengan itu Beliau mendapatkan gandum untuk keluarga Beliau. Dan sungguh aku mendengar Beliau bersabda: "Tidaklah ada satu malampun yang berlalu pada keluarga Muhammad dimana ada satu sha' dari gandum atau satu sha' rati". Padahal Beliau memelilki sembilan isteri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2069</td></tr><tr><td>Arabic No</td><td>2069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что (однажды) он понёс Пророку ﷺ ячменный хлеб с прогорклым маслом. Что же касается Пророка ﷺ, то он заложил свою кольчугу в Медине одному иудею, взяв у него (под залог этого) ячмень для своей семьи.\n(Анас, да будет доволен им Аллах, сказал): «Я слышал, как (Пророк ﷺ) сказал: “Не осталось у семейства Мухаммада ни одного са‘ пшеницы и ни одного са‘ (другого) зерна, хотя есть у него девять жён”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2069</td></tr><tr><td>Arabic No</td><td>2069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 22</td></tr></tbody></table></div>
 

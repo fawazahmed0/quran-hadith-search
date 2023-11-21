@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ad-Daylami: We came to the Prophet (ﷺ) and said to him: Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Muhammad] telah menceritakan kepada kami [Dlamrah] dari [As Saibani] dari [Abdullah bin Ad Dailami] dari [Ayahnya] ia berkata, "Kami datang kepada Rasulullah shallallahu 'alaihi wasallam dan bertanya, "Wahai Rasulullah, kami telah mengetahui siapakah kami, dan dari mana kami berasal, lalu kepada siapakah kami akan kembali?" Beliau menjawab: "Kepada Allah dan kepada Rasul-Nya." Kami bertanya lagi, "Wahai Rasulullah, sesungguhnya kami memiliki beberapa anggur, apa yang boleh kami lakukan terhadapnya?" Beliau menjawab: "Jadikanlah anggur tersebut menjadi kismis (anggur kering)!" Kami bertanya lagi, "Apa yang boleh kami lakukan terhadap kismis?" Beliau menjawab: "Buatlah perasan diwaktu pagi kalian dan minumlah diwaktu sore kalian. Buatlah perasan diwaktu sore kalian dan minumlah diwaktu pagi kalian. Buatlah perasan dalam geriba basah dan jangan kalian buat dalam gentong besar, sebab jika kalian terlambat memerasnya ia akan menjadi cuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3710</td></tr><tr><td>Arabic No</td><td>3710</td></tr><tr><td>Reference</td><td>Book 27 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ад-Дайлями передаёт от своего отца: «Мы пришли к Посланнику Аллаха ﷺ и сказали: “О Посланник Аллаха! Ты знаешь, кто мы, откуда мы и куда шли”. Он ответил: “К Аллаху и Его посланнику”. Мы спросили: “О Посланник Аллаха, у нас много винограда. Что нам с ним делать?” Он ответил: “Делайте из него изюм”. Мы спросили: “А что нам делать с изюмом?” (Посланник Аллаха ﷺ) сказал: “Заливайте его водой днём и запивайте ею ваш ужин и заливайте его водой вечером и запивайте ваш обед. Только делайте это в кожаных бурдюках, а не в больших глиняных сосудах... И, поистине, если он застоится, то превращается в уксус”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3710</td></tr><tr><td>Arabic No</td><td>3710</td></tr><tr><td>Reference</td><td>Book 27 Hadith 42</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Muhayyisah: The she-camel of Bara' ibn Azib entered the garden of a man
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit Al Marwazi] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Haram bin Muhayyishah] dari [Ayahnya] bahwa unta Al Bara bin 'Azib masuk ke dalam kebun seorang laki-laki lalu merusaknya. Kemudian Rasulullah shallallahu 'alaihi wasallam mewajibkan atas pemilik harta (kebun) agar menjaganya pada siang hari, dan bagi pemilik hewan agar menjaganya pada malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3569</td></tr><tr><td>Arabic No</td><td>3569</td></tr><tr><td>Reference</td><td>Book 24 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Мухаййисы, да будет доволен им Аллах, что верблюдица аль-Бара ибн ‘Азиба зашла в сад одного человека и попортила посевы, и Посланник Аллаха ﷺ постановил, что хозяева имущества должны беречь его днём, а хозяева скота должны смотреть за ним по ночам
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3569</td></tr><tr><td>Arabic No</td><td>3569</td></tr><tr><td>Reference</td><td>Book 24 Hadith 154</td></tr></tbody></table></div>
 

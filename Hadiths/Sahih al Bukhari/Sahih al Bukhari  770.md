@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin Samura:'Umar said to Sa'd, "The people complained against you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'ah] dari [Abu 'Aun Muhammad bin Ubaidullah Ats Tsaqafi] berkata, Aku mendengar [Jabir bin Samrah] berkata, "Umar berkata kepada [Sa'd], "Orang-orang banyak mengeluhkan tentangmu hingga dalam masalah shalat!" Maka Sa'd menjelaskan, "Dalam shalat aku selalu memanjangkan bacaan pada dua rakaat pertama dan aku pendekkan pada dua rakaat yang akhir. Dan tidak ada yang aku ubah dari apa yang aku dapat ambil dari Rasulullah shallallahu 'alaihi wasallam." 'Umar berkata, "Kamu benar. Aku juga menganggap kamu seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>770</td></tr><tr><td>Arabic No</td><td>770</td></tr><tr><td>Reference</td><td>Book 10 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ‘Аун сказал:\n— Я слышал, как Джабир ибн Самура (да будет доволен им Аллах) сказал:\n— ‘Умар (да будет доволен им Аллах) сказал Са‘ду (да будет доволен им Аллах): «На тебя жалуются за всё, включая намаз!» (Са‘д в ответ) сказал: «Что касается меня, то я удлиняю первые два (рак‘ата), упрощаю два (последних) и ничего не сокращаю из неё, следуя примеру намаза Посланника Аллаха ﷺ». (Тогда) ‘Умар сказал: «Ты прав! Так (мы) и думали о тебе! (или: я думал о тебе)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>770</td></tr><tr><td>Arabic No</td><td>770</td></tr><tr><td>Reference</td><td>Book 10 Hadith 164</td></tr></tbody></table></div>
 

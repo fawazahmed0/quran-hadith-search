@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zirr reported:'Ali observed: By Him Who split up the seed and created something 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dan [Abu Mu'awiyah] dari [al-A'masy]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Yahya bin Yahya] dan lafazh tersebut miliknya. Telah mengabarkan kepada kami [Abu Mu'awiyah] dari [al-A'masy] dari [Adi bin Tsabit] dari [Zirr] dia berkata, [Ali] berkata, "Demi Dzat yang membelah biji-bijian dan membebaskan jiwa, sesungguhnya perjanjian Nabi yang ummi (tidak bisa membaca) kepadaku adalah 'Tidaklah orang yang mencintaiku melainkan dia seorang mukmin dan tidaklah membenciku melainkan seorang munafik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>240</td></tr><tr><td>Arabic No</td><td>78</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али сказал: «Клянусь Тем, Кто расщепил зерно и создал душу, поистине, неграмотный /умми/ Пророк ﷺ и пообещал мне, что лишь верующий будет любить меня, и лишь лицемер будет меня ненавидеть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>240</td></tr><tr><td>Arabic No</td><td>78</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
 

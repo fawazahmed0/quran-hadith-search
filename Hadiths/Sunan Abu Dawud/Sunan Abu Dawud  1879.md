@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Al Tufail reported on the authority of Ibn ‘Abbas who said I saw the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Harun bin Abdullah] dan [Muhammad bin Rafi'] secara makna, mereka berkata; telah menceritakan kepada Kami [Abu 'Ashim] dari [Ma'ruf yaitu Ibnu Kharrabudz Al Makki], telah menceritakan kepada Kami [Abu Ath Thufail], ia berkata; saya melihat Nabi shallallahu 'alaihi wasallam berthawaf di Ka'bah di atas kendaraannya, dan mengusap rukun menggunakan tongkatnya, kemudian beliau menciumnya. Muhammad bin Rafi' menambahkan; kemudian beliau keluar menuju bukit Shafa serta Marwa dan melakukan thawaf sebanyak tujuh kali diatas kendaraannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1265)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1879</td></tr><tr><td>Arabic No</td><td>1879</td></tr><tr><td>Reference</td><td>Book 11 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу ат-Туфайль передаёт: «Я видел, как Пророк ﷺ совершал обход вокруг Каабы верхом на своей верблюдице и касался Чёрного камня изогнутой палкой, а потом целовал её». (Передатчик) Мухаммад ибн Рафи‘ добавил, что потом он отправился к холмам Сафа и Марва и совершил пробег семь раз также верхом на своей верблюдице
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1265)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1879</td></tr><tr><td>Arabic No</td><td>1879</td></tr><tr><td>Reference</td><td>Book 11 Hadith 159</td></tr></tbody></table></div>
 

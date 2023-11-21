@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ On the authority of Zaid bin Thabit, he said:"I recited to the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1404</td></tr><tr><td>Arabic No</td><td>1404</td></tr><tr><td>Reference</td><td>Book 7 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Ханнад ибн ас-Сари: Рассказал нам Ваки‘ от Ибн Абу Зиъба, передавшего от Язида ибн ‘Абдуллах ибн Къусайт, передавшего от ‘Аты ибн Ясара, передавшего, что Зейд ибн Сабит, да будет доволен им Аллах, сказал: «(Однажды) в присутствии Посланника Аллаха ﷺ я прочитал (суру) “ан-Наджм”, однако (Пророк ﷺ) не совершил из-за этого земного поклона»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1404</td></tr><tr><td>Arabic No</td><td>1404</td></tr><tr><td>Reference</td><td>Book 7 Hadith 4</td></tr></tbody></table></div>
 

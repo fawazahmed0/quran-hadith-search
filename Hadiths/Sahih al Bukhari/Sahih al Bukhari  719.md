@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Once the Iqama was pronounced and Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad Ibnu Abu Raja'] berkata, telah menceritakan kepada kami [Mu'awiyyah bin 'Amru] berkata, telah menceritakan kepada kami [Za'idah bin Qudamah] berkata, telah menceritakan kepada kami [Humaid Ath Thawil] telah menceritakan kepada kami [Anas bin Malik] ia berkata, "Ketika iqamah shalat telah dikumandangkan, Rasulullah shallallahu 'alaihi wasallam berbalik menghadapkan mukanya kepada kami seraya bersabda: "Luruskanlah shaf dan rapatkanlah, sesungguhnya aku dapat melihat kalian dari balik punggungku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>719</td></tr><tr><td>Arabic No</td><td>719</td></tr><tr><td>Reference</td><td>Book 10 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Как-то раз уже) после возглашения икамы Посланник Аллаха ﷺ повернулся к нам лицом и сказал: “Выравнивайте ваши ряды и смыкайте их, ибо, поистине, я вижу(, что делаете) вы у меня за спиной!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>719</td></tr><tr><td>Arabic No</td><td>719</td></tr><tr><td>Reference</td><td>Book 10 Hadith 114</td></tr></tbody></table></div>
 

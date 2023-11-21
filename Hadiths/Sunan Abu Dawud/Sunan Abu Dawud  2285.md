@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Salamah bin ‘Abd Al Rahman said that Fatimah daughter of Qais told him tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2285</td></tr><tr><td>Arabic No</td><td>2285</td></tr><tr><td>Reference</td><td>Book 13 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Фатимы бинт Кайс, да будет доволен ею Аллах, что Абу Хафс ибн аль-Мугира дал ей три развода и что Халид ибн аль-Валид и несколько человек из бану махзум пришли к Пророку ﷺ и сказали: «О Пророк Аллаха! Поистине, Абу Хафс ибн аль-Мугира дал своей жене три развода и оставил ей совсем скромное содержание». Посланник Аллаха ﷺ сказал: «Ей не полагается содержание». И передатчик привёл эту историю, однако предыдущий хадис более полный
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2285</td></tr><tr><td>Arabic No</td><td>2285</td></tr><tr><td>Reference</td><td>Book 13 Hadith 111</td></tr></tbody></table></div>
 

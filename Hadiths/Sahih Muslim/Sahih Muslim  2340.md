@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The Last Hour will not co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Thahir] Telah menceritakan kepada kami [Ibnu Wahb] dari [Amru bin Harits] dari [Abu Yunus] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak akan terjadi hari kiamat hingga harta yang ada pada kalian melimpah ruah, yang akhirnya si pemilik harta merasa sedih karena tidak ada seorang pun yang bersedia menerima sedekahnya. Dan orang yang dimintanya untuk menerima sedekahnya menjawab, 'Aku tidak membutuhkan sedekah Anda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2340</td></tr><tr><td>Arabic No</td><td>157.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Не настанет Час этот до тех пор, пока не умножатся ваши богатства до такой степени, (что вам некуда будет их девать,) а обладатель богатства будет озабочен поисками того, кто принял бы от него милостыню, когда же он станет предлагать её, тот, кому он её предложит, скажет: “Я не нуждаюсь в ней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2340</td></tr><tr><td>Arabic No</td><td>157.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 77</td></tr></tbody></table></div>
 

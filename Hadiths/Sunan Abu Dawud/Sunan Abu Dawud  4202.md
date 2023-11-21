@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr b. Shu'aib, on his father's authority, told that his grandfather reported th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Sufyan] secara makna, dari [Ibnu 'Ajlan] dari [Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mencabut uban, tidaklah seorang muslim tumbuh uban padanya dalam Islam -disebutkan oleh Sufyan dalam riwayatnya- "Kecuali ia akan menjadi cahaya baginya pada hari kiamat." Dalam riwayat lain (oleh Yahya) disebutkan, "Kecuali dengannya Allah akan menuliskan satu kebaikan dan dihapuskan darinya satu dosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4202</td></tr><tr><td>Arabic No</td><td>4202</td></tr><tr><td>Reference</td><td>Book 35 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Посланник Аллаха ﷺ сказал: «Не выдёргивайте седые волосы, ибо для каждого мусульманина, дожившего до седин в исламе, его седина станет светом в Судный день (или: Аллах непременно запишет ему за неё одно благое дело и сотрёт одно прегрешение)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4202</td></tr><tr><td>Arabic No</td><td>4202</td></tr><tr><td>Reference</td><td>Book 35 Hadith 44</td></tr></tbody></table></div>
 

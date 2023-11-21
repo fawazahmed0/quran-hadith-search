@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that Allah's Messenger (ﷺ) came to privy and I placed for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Abu Bakr bin An Nadhr] keduanya berkata; Telah menceritakan kepada kami [Hasyim bin Al Qasim]; Telah menceritakan kepada kami [Warqa bin 'Umar Al Yasykuri] dia berkata; Aku mendengar ['Ubaidullah bin Abu Yazid] bercerita dari [Ibnu Abbas] bahwasanya pada suatu ketika Rasulullah shallallahu 'alaihi wasallam masuk ke kamar kecil. Kemudian saya pun menyiapkan wadah berisi air untuk beliau. Ketika keluar dari kamar kecil, Rasulullah bertanya: "Siapa yang telah menyiapkan air ini?" (Menurut riwayat Zuhair; Mereka menjawab. Sedangkan menurut riwayat Abu Bakar; Saya menjawab); Saya, Ibnu Abbas ya Rasulullah.' Kemudian Rasulullah pun berkata; "Ya Allah. Faqihkanlah ia (berilah ia pemahaman) di dalam agama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6368</td></tr><tr><td>Arabic No</td><td>2477</td></tr><tr><td>Reference</td><td>Book 44 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6368</td></tr><tr><td>Arabic No</td><td>2477</td></tr><tr><td>Reference</td><td>Book 44 Hadith 198</td></tr></tbody></table></div>
 

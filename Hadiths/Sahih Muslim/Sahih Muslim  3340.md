@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman reported on the authority of his father Abu Sa'id (Allah be please
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin Abdullah bin Numair] dan [Abu Kuraib] semuanya dari [Abu Usamah] -lafazh milik Abu Bakr dan Ibnu Numair- keduanya berkata, Telah menceritakan kepada kami [Abu Usamah] dari [Al Walid bin Katsir] telah menceritakan kepadaku [Sa'id bin Abdurrahman bin Abu Sa'id Al Khudri] bahwa [Abdurrahman] telah menceritakan kepadanya, dari [bapaknya] Abu Sa'id, bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya aku telah menjadikan tanah haram di antara dua bukit bebatuan hitam di Madinah sebagaimana Ibrahim menjadikan Makkah sebagai tanah haram." Kemudian Abu Sa'id mengambil. Dan Abu Bakr berkata; Ia mendapati burung pada tangan salah seorang dari kami, maka ia pun membebaskan dan mengirimkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3340</td></tr><tr><td>Arabic No</td><td>1374.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 544</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3340</td></tr><tr><td>Arabic No</td><td>1374.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 544</td></tr></tbody></table></div>
 

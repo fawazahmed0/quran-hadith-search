@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:We went to Allah's Messenger (ﷺ) as he was in the fold and he wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Syu'bah]; Telah menceritakan kepadaku [Hisyam bin Zaid] ia berkata; Aku mendengar [Anas] berkata; "Kami menemui Nabi shallallahu 'alaihi wasallam ketika beliau sedang berada di kandang, dan beliau pada waktu itu sedang menandai kambing. Hisyam berkata; 'Aku mengira Anas juga berkata; 'pada telinganya.' Dan telah menceritakannya kepada ku [Yahya bin Habib]; Telah menceritakan kepada kami [Khalid bin Al Harits]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Muhammad bin Basysyar]; Telah menceritakan kepada kami [Muhammad] dan [Yahya] serta ['Abdur Rahman] seluruhnya dari [Syu'bah] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5557</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5557</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

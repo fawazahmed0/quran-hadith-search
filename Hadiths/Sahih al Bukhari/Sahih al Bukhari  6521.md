@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:I heard the Prophet (ﷺ) saying, "The people will be gat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far] berkata; telah menceritakan kepadaku [Abu Hazim] mengatakan, aku mendengar [Sahal bin Sa'd] mengatakan, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Pada hari kiamat manusia dikumpulkan diatas tanah putih cemerlang bagaikan roti yang bersih." Kata Sahal, disana tak ada satu tanda pun bagi seseorang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6521</td></tr><tr><td>Arabic No</td><td>6521</td></tr><tr><td>Reference</td><td>Book 81 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль бин Са‘д, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ сказал: “В День воскресения люди будут собраны на бело-красной земле, подобной чистой лепёшке”». \nСахль или другой (передатчик) сказал: «И не будет на ней ни для кого никакого знака»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6521</td></tr><tr><td>Arabic No</td><td>6521</td></tr><tr><td>Reference</td><td>Book 81 Hadith 110</td></tr></tbody></table></div>
 

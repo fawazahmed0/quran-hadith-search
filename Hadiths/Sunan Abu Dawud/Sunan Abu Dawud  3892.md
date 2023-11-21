@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbudDarda': I heard the Messenger of Allah (ﷺ) say: If any of you is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yazid bin Khalid bin Mauhib Ar Ramli] telah menceritakan kepada kami [Al Laits] dari [Ziyadah bin Muhammad] dari [Muhammad bin Ka'b Al Qurazhi] dari [Fadlalah bin 'Ubaid] dari [Abu Darda] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa di antara kalian mengeluhkan sesuatu atau saudaranya mengeluhkannya, maka hendaknya ia mengucapkan: RABBANALLAAHULLADZII FIS SAMAA'I TAQADDASA ISMUKA AMRUKA FIS SAMAA'I WAL ARDLI KAMAA RAHMATUKA FIS SAMAA'I, FAJ'AL RAHMATAKA FIL ARDLI, IGHFIR LANAA HUUBANAA WA KHATHAAYAANAA, ANTA RABBUTH THAYYIBIINA, ANZIL RAHMATAN MIN RAHMATIKA WA SYIFAA'AN MIN SYIFAA'IKA 'ALAA HAADZAL WAJA'I (Tuhanku adalah Allah yang berada di langit, Maha Suci nama-Mu, urusan-Mu berada di langit dan bumi. Sebagaimana rahmat-Mu berada di langit, maka jadikanlah rahmat-Mu berada di bumi! Ampunilah dosa dan kesalahan kami! Engkau Tuhan orang-orang yang baik, turunkan rahmat di antara rahmat-Mu, serta kesembuhan di antara kesembuhan-Mu kepada penyakit ini) ' maka ia akan sembuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3892</td></tr><tr><td>Arabic No</td><td>3892</td></tr><tr><td>Reference</td><td>Book 29 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу ад-Дарды, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: “Если у любого из вас или у его брата по вере заболит что-нибудь, пусть он скажет: “Наш Господь Аллах, Который в небесах, свято имя Твоё, веление Твоё исполняется на небесах и на земле, и милость Твоя на небесах, ниспошли же её и на землю, прости нам наши проступки и грехи, Ты Господь благих, ниспошли одну из милостей Твоих и одно из исцелений Твоих, исцели эту болезнь”. Тогда больной выздоровеет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3892</td></tr><tr><td>Arabic No</td><td>3892</td></tr><tr><td>Reference</td><td>Book 29 Hadith 38</td></tr></tbody></table></div>
 

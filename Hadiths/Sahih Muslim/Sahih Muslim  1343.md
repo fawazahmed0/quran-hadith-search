@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Zubair reported:Ibn Zubair uttered at the end of every prayer after pronounc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Hisyam] dari [Abu Zubair] katanya; Seusai shalat setelah salam, [Ibn Zubair] sering memanjatkan do'a; LAA ILAAHA ILLALLAAH WAHDAHUU LAA SYARIIKA LAHU, LAHUL MULKU WALAHUL HAMDU WAHUWA 'ALAA KULLI SYAI'IN QADIIR, LAA HAULA WALAA QUWWATA ILLAA BILLAAH, LAA-ILAAHA ILALLAAH WALAA NA'BUDU ILLAA IYYAAH, LAHUN NI'MATU WALAHUL FADHLU WALAHUTS TSANAA'UL HASAN, LAA-ILAAHA ILLALLAAH MUKHLISIHIINA LAHUD DIINA WALAU KARIHAL KAAFIRUUNA." (Tiada sesembahan yang hak selain Allah semata yang tiada sekutu bagi-Nya, bagi-Nya selaga puji dan Dia Maha Kuasa atas segala sesuatu. Tiada Daya dan kekuatan selain dengan pertolongan Allah. Tiada sesembahan yang hak selain Allah, dan Kami tidak beribadah selain kepada-Nya, dengan memurnikan ketaatan kepada-Nya, hanya bagi-Nya ketundukan, sekalipun orang-orang kafir tidak menyukai)." Rasulullah shallallahu 'alaihi wasallam selalu mengeraskan suara dengan kalimat ini setiap selesai shalat." Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami ['Abdah bin Abu Sulaiman] dari [Hisyam bin 'Urwah] dari [Abu Zubair] mantan budak mereka, bahwa [Abdullah bin Zubair] biasa bertahlil sehabis shalat dengan seperti hadis Ibnu Numair, dan di akhir beliau berkata; "Kemudian Ibnu Zubair mengatakan; "Rasulullah shallallahu 'alaihi wasallam mengeraskan suaranya dengan kalimat ini sehabis shalat." Dan telah menceritakan kepadaku [Ya'kub bin Ibrahim Ad Dauraqi] telah menceritakan kepada kami [Ibn 'Ulayyah] telah menceritakan kepada kami [Al Hajjaj bin Abu Usman] telah menceritakan kepadaku [Abu Zubair] katanya; Aku mendengar [Abdullah bin Zubair] berkhutbah diatas mimbar ini seraya berkata; "Apabila Rasululah shallallahu 'alaihi wasallam selesai salam yaitu sehabis shalat, atau beberapa shalat…" lalu ia menyebutkan seperti hadis Hisyam bin 'Urwah. Dan telah menceritakan kepadaku [Muhammad bin Salamah Al Muradi] telah menceritakan kepada kami [Abdullah bin Wahb] dari [Yahya bin Abdullah bin Salim] dari [Musa bin 'Uqbah], bahwa [Abu Az Zubair Al Makki] menceritakan bahwa ia mendengar [Abdulah bin Zubair] mengatakan; "Yaitu Seusai shalat setelah mengucapkan salam, seperti hadis keduanya. Dan ia katakan di akhir haditsnya; "Abu Zubair selalu membaca bacaan ini dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1343</td></tr><tr><td>Arabic No</td><td>594.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу аз-Зубайра, что в конце каждой молитвы после таслима, Ибн аз-Зубайр обычно произносил такие слова: «Нет божества достойного поклонения, кроме Аллаха, Единого, у которого нет сотоварища, Ему принадлежит владычество, и Ему хвала и Он всё может! Нет мощи и силы ни у кого, кроме Аллаха, нет божества достойного поклонения, кроме Аллаха, и не поклоняемся мы никому, кроме Него, Ему принадлежат богатство и совершенство и Ему прекрасная похвала. Нет божества достойного поклонения, кроме Аллаха, а мы искренни пред Ним в религии, даже если это и ненавистно неверным! /Ля иляха илля-Ллаху вахда-ху ля шарикя ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамду ва хуа ‘аля кулли шаййин кадир ! Ля хауля ва ля куввата илля би-Лляхи, ля иляха илля-Ллаху ва ля на’буду илля ийа-ху, ля-ху-н-ни’мату, ва ля-ху-ль-фадлю ва ля-ху-с-сана'у-ль-хасану. Ля иляха илля-Ллаху, мухлисына ля-ху-д-дина ва ляу кяриха-ль-кяфируна!/».Ибн аз-Зубайр сказал: «Посланник Аллаха ﷺ обычно произносил эти слова в конце каждой молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1343</td></tr><tr><td>Arabic No</td><td>594.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 180</td></tr></tbody></table></div>
 

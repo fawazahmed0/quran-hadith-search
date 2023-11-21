@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Laith:'Aisha said "The Prophet (ﷺ) entered upon me one day and sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Urwah] dari [Aisyah] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Saya tidak mengira seandainya fulan dan fulan mengetahui agama kita sedikitpun." Al Laits mengatakan; "Dua orang itu adalah dari orang-orang Munafik." Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dengan (sanad) ini, Aisyah mengatakan; "Pada suatu hari Nabi shallallahu 'alaihi wasallam masuk menemuiku, lalu beliau bersabda: "Wahai Aisyah, aku menyangka ternyata fulan dan fulan tidak mengetahui perkara agama yang kita berada di atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6068</td></tr><tr><td>Arabic No</td><td>6068</td></tr><tr><td>Reference</td><td>Book 78 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) Пророк ﷺ сказал: «Я не думаю, что такой-то и такой-то хоть что-нибудь знают о нашей религии».В другой версии (этого хадиса сообщается, что Пророк ﷺ сказал): «…хоть что-то знают о той религии, которую мы исповедуем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6068</td></tr><tr><td>Arabic No</td><td>6068</td></tr><tr><td>Reference</td><td>Book 78 Hadith 98</td></tr></tbody></table></div>
 

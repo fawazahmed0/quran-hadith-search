@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Two are the expressions w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] dan [Zuhair bin Harb] dan [Abu Kuraib] dan [Muhammad bin Tharif Al Bajali] mereka berkata; telah menceritakan kepada kami [Ibnu Fudhail] dari ['Umarah bin Al Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Dua kalimat yang ringan diucapkan tetapi berat timbangannya dan disenangi oleh Allah Subhanahu wa Ta'ala Yang Maha Pengasih yaitu, Subhanallah wa bihamdihi subhaanallaahil azhim (Maha Suci Allah dengan segala pujian-Nya dan Maha Suci Allah Yang Maha Agung)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6846</td></tr><tr><td>Arabic No</td><td>2694</td></tr><tr><td>Reference</td><td>Book 48 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6846</td></tr><tr><td>Arabic No</td><td>2694</td></tr><tr><td>Reference</td><td>Book 48 Hadith 41</td></tr></tbody></table></div>
 

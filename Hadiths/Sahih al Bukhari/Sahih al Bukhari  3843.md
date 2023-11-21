@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:In the pre-lslamic period of ignorance the people used to bar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3843</td></tr><tr><td>Arabic No</td><td>3843</td></tr><tr><td>Reference</td><td>Book 63 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Во время джахилийи люди продавали верблюдов на основе “хабаль аль-хабаля” (продажа приплода приплода, находящегося в утробе верблюдицы). “Хабаль аль-хабаля” — это когда верблюдица производит потомство, и рождённая ею верблюдица тоже даёт потомство. Пророк ﷺ запретил это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3843</td></tr><tr><td>Arabic No</td><td>3843</td></tr><tr><td>Reference</td><td>Book 63 Hadith 68</td></tr></tbody></table></div>
 

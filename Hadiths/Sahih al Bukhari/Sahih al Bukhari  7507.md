@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard the Prophet (ﷺ) saying, "If somebody commits a si
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7507</td></tr><tr><td>Arabic No</td><td>7507</td></tr><tr><td>Reference</td><td>Book 97 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «Поистине, один из рабов (Аллаха) совершил грех и сказал: “Господь мой, я согрешил, прости же меня!” И Господь его сказал: “Узнал ли раб Мой, что у него есть Господь, Который прощает грехи и наказывает за них? Я прощаю раба Моего”. Потом прожил он, (не совершая грехов,) сколько пожелал Аллах, и затем снова совершил грех и сказал: “Господь мой, я согрешил, прости же меня!” И Он сказал: “Узнал ли раб Мой, что у него есть Господь, Который прощает грехи и наказывает за них? Я прощаю раба Моего”. Потом прожил он, (не совершая грехов,) сколько пожелал Аллах, и затем снова совершил грех и сказал: “Господь мой, я снова согрешил, прости же меня!” И Он сказал: “Узнал ли раб Мой, что у него есть Господь, Который прощает грехи и наказывает за них? Я прощаю раба Моего” — и Он трижды повторил (эти слова), (а потом добавил): “Пусть же делает, что хочет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7507</td></tr><tr><td>Arabic No</td><td>7507</td></tr><tr><td>Reference</td><td>Book 97 Hadith 132</td></tr></tbody></table></div>
 

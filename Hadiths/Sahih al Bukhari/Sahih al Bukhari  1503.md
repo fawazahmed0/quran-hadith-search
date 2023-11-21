@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) enjoined the payment of one Sa' of da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Muhammad bin As-Sakkan] telah menceritakan kepada kami [Muhammad bin Jahdham] telah menceritakan kepada kami [Isma'il bin Ja'far] dari ['Umar bin Nafi'] dari [bapaknya] dari ['Abdullah bin 'Umar radliallahu 'anhua] berkata: "Rasulullah shallallahu 'alaihi wasallam mewajibkan zakat fithri satu sha' dari kurma atau sha' dari gandum bagi setiap hamba sahaya (budak) maupun yang merdeka, laki-laki maupun perempuan, kecil maupun besar dari kaum Muslimin. Dan Beliau memerintahkan agar menunaikannya sebelum orang-orang berangkat untuk shalat ('Ied)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1503</td></tr><tr><td>Arabic No</td><td>1503</td></tr><tr><td>Reference</td><td>Book 24 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ вменял в обязанность раздавать в день разговения садаку в размере одного са‘ фиников или ячменя рабу и свободному человеку, мужчине и женщине, малому и старому из числа мусульман, повелев делать это перед выходом людей на (праздничный) намаз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1503</td></tr><tr><td>Arabic No</td><td>1503</td></tr><tr><td>Reference</td><td>Book 24 Hadith 103</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Malik] dari [Nafi'] dari [Ibnu Umar] dia berkata, "Barangsiapa meminum khamer di dunia dan tidak bertaubat, maka diharamkan baginya di akhirat kelak dan tidak akan diberi minum dengannya." Dikatakan kepada Malik, "Apakah (riwayat ini) dimarfu'kan (bersambung sampai kepada Nabi shallallahu 'alaihi wasallam)?" dia menjawab, "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5223</td></tr><tr><td>Arabic No</td><td>2003.06</td></tr><tr><td>Reference</td><td>Book 36 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5223</td></tr><tr><td>Arabic No</td><td>2003.06</td></tr><tr><td>Reference</td><td>Book 36 Hadith 97</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported:We went along with Allah's Messenger (ﷺ) on an expe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abad bin Humaid] Telah mengabarkan kepada kami [Abdur Razak] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Jabir] Demikian juga diriwayatkan dari jalur lainnya, Telah menceritakan kepadaku [Abu 'Imran Muhammad bin Ja'far bin Ziyad] dan lafazh ini miliknya. Telah menceritakan kepada kami [Ibrahim] yaitu Ibnu Sa'ad dari [Az Zuhri] dari [Sinan bin Abu Sinan Ad Du'ali] dari [Jabir bin Abdullah] dia berkata; "Kami berperang bersama-sama Rasulullah shallallahu 'alaihi wasallam dalam suatu peperangan di daerah Nejed. Kami jumpai Rasulullah shallallahu 'alaihi wasallam di sebuah lembah yang di sana banyak tumbuh pohon-pohon besar dan berduri. Rasulullah shallallahu 'alaihi wasallam berhenti di bawah sebatang pohon, lalu beliau gantungkan pedangnya pada sebatang dahan pohon. Jabir berkata; 'Pada saat itu, para sahabat pergi berpecar di lembah itu. Masing-masing mencari tempat bernaung di bawah pohon. Kemudian Rasulullah mengatakan: "Tadi ketika aku sedang tidur di bawah pohon, ada seseorang yang mendatangiku seraya mengambil pedangku. Tak lama kemudian aku pun terjaga dari tidur, sedangkan ia telah berdiri di atas kepalaku. Aku telah mengetahui bahwasannya ia telah siap dengan pedang di tangannya. Dia berkata; 'Hai Muhammad, siapakah yang dapat menghalangiku untuk membunuhmu? Dengan tegas aku menjawab; 'Allah.' Dia bertanya lagi; 'Siapakah yang dapat menghalangiku untuk membunuhmu? Aku menjawab; 'Allah.' Akhirnya orang tersebut menyarungkan kembali pedangku itu dan inilah orangnya sedang duduk." Ternyata Rasulullah tidak menyerang sama sekali untuk membalasnya. Dan telah menceritakan kepadaku [Abdullah bin Abdurrahman Ad Darimi] dan [Abu Bakr bin Ishaq] keduanya berkata; Telah mengabarkan kepada kami [Abu Al Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] Telah menceritakan kepadaku [Sinan bin Abu Sinan Ad Du'ali] dan [Abu Salamah bin Abdurrahman] bahwa [Jabir bin Abdullah Al Anshari] -seorang sahabat Nabi shallallahu 'alaihi wasallam- telah mengabarkan kepada mereka berdua; bahwa dia pernah ikut berperang bersama Rasulullah shallallahu 'alaihi wasallam di sekitar Najed. Tatkala beliau kembali dari peperangan, Jabir pun ikut kembali. Lalu pada hari itu mereka beristirahat (tidur) di siang hari. -dan seterusnya sebagaimana Hadits Ibrahim bin Sa'ad dan Ma'mar. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami ['Affan] Telah menceritakan kepada kami [Abban bin Yazid] Telah menceritakan kepada kami [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Jabir] dia berkata; Kami kembali bersama Rasulullah shallallahu 'alaihi wasallam, hingga tatkala kami sampa di Dzatut Riqa' -dan seterusnya yang semakna dengan Hadits Az Zuhri namun dia tidak menyebutkan; 'Ternyata Rasulullah tidak menyerang sama sekali untuk membalasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5950</td></tr><tr><td>Arabic No</td><td>843.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5950</td></tr><tr><td>Arabic No</td><td>843.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 13</td></tr></tbody></table></div>
 

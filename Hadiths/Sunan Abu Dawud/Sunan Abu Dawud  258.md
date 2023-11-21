@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. malik said:Among the jews, when a women menstruated, they ejected her fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Tsabit Al-Bunani] dari [Anas bin Malik] bahwasanya orang-orang Yahudi, apabila istri-istri mereka datang haidl, maka mereka mengusirnya dari rumah. Mereka tidak makan, tidak minum, dan tidak berkumpul dengannya di rumah. Lalu Rasulullah shallallahu 'alaihi wasallam ditanya tentang hal tersebut, maka Allah Subhanahu wa Ta'ala menurunkan ayat (yang artinya): "Dan mereka bertanya kepadamu tentang haidl. Katakanlah, 'Haidl itu adalah kotoran, oleh sebab itu hendaklah kamu menjauhkan diri dari wanita di waktu haidl... sampai akhir ayat'." (QS. Albaqarah 222), Rasulullah shallallahu 'alaihi wasallam bersabda: "Pergaulilah mereka di rumah, dan lakukanlah segala sesuatu selain bersetubuh". Lalu orang-orang Yahudi berkata; Orang ini (Muhammad) tidak meninggalkan sesuatu dari perkara kita kecuali dia menyelisihi kita dalam perkara itu. Lalu Usaid bin Hudlair dan Abbad bin Bisyr datang kepada Nabi shallallahu 'alaihi wasallam, keduanya berkata; Wahai Rasulullah, sesungguhnya orang-orang Yahudi berkata begini dan begini. Apakah kita tidak menggauli mereka saja dalam masa haidl? Maka raut muka Rasulullah shallallahu 'alaihi wasallam berubah, sehingga kami menyangka bahwa beliau marah kepada keduanya, lalu mereka berdua keluar. Setelah itu datang hadiah berupa susu kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau memerintahkan untuk memanggil kembali keduanya, lalu keduanya diberi minum. Karena itu kami tahu bahwa beliau tidak memarahi keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (302)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика: «Иудеи, когда у их женщин начинались менструации, выводили их из дома, не садились с ними есть и пить, и не общались с ними в доме. И (люди) спросили об этом Посланника Аллаха ﷺ и Аллах Всевышний ниспослал аят: «Они спрашивают тебя о менструациях. Скажи: “Они причиняют страдания. Посему избегайте половой близости с женщинами во время менструаций…”» и так до конца этого аята. И тогда Посланник Аллаха ﷺ сказал: “Оставайтесь с ними в одном доме и делайте все, кроме совокупления”. Иудеи сказали: “Что бы мы ни делали, этот человек не хочет походить на нас в этом”. И к Пророку ﷺ пришли Усайд ибн Худайр и ‘Аббад ибн Бишр и сказали: “О Посланник Аллаха, поистине, иудеи говорят то-то и то-то, так не можем ли мы вступать в половую близость с женщинами в тот период, когда они с менструациями?” И цвет лица Посланника Аллаха ﷺ изменился так, что они подумали, что он разгневался на них. Когда они выходили от него, к Посланнику Аллаха ﷺ заносили в подарок молоко. Он тут же послал вслед за ними и напоил их, и нам стало ясно, что он не разгневался на них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (302)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
 

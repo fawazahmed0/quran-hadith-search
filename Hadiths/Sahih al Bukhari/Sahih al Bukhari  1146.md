@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:I asked 'Aisha "How is the night prayer of the Prophet?" She r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dan diriwayatkan pula telah menceritakan kepada saya [Sulaiman] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] berkata; "Aku bertanya kepada ['Aisyah radliallahu 'anha] tentang cara Nabi shallallahu 'alaihi wasallam melaksanakan shalat malam". 'Aisyah radliallahu 'anha menjawab: "Beliau tidur di awal malam dan bangun untuk shalat di akhir malam dan shalat, lalu beliau kembali ke tempat tidurnya. Bila mu'adzin sudah mengumandangkan adzan, maka Beliau bersegera. Bila saat itu Beliau punya hajat (kepada isterinya), maka Beliau mandi. Bila tidak, maka Beliau hanya berwudhu' lalu keluar untuk shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1146</td></tr><tr><td>Arabic No</td><td>1146</td></tr><tr><td>Reference</td><td>Book 19 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) ‘Аишу, да будет доволен ею Аллах, спросили: «Каким образом Пророк ﷺ совершал ночную молитву?» Она сказала: «Обычно в начале ночи он спал, а в конце её вставал, чтобы совершить молитву, после чего снова ложился в постель, когда же муаззин начинал произносить слова призыва на молитву, он (снова) вставал. В случае необходимости он совершал полное омовение, а в иных случаях — частичное, (после чего) выходил (на молитву)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1146</td></tr><tr><td>Arabic No</td><td>1146</td></tr><tr><td>Reference</td><td>Book 19 Hadith 27</td></tr></tbody></table></div>
 

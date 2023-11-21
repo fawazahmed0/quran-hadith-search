@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "By Him in Whose Hand my life
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah Shallallahu'alaihiwasallam bersabda: "Demi Dzat yang jiwaku berada di tanganNya, sungguh seorang dari kalian yang mengambil talinya lalu dia mencari kayu bakar dan dibawa dengan punggungnya lebih baik baginya daripada dia mendatangi seseorang lalu meminta kepadanya, baik orang itu memberi atau menolak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1470</td></tr><tr><td>Arabic No</td><td>1470</td></tr><tr><td>Reference</td><td>Book 24 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Клянусь Тем, в Чьей длани душа моя, для любого из вас взять верёвку, нарубить дров (и принести их) на спине(, чтобы продать,) лучше, чем обращаться с просьбами к какому-нибудь человеку, который может дать ему (что-либо), а может и отказать».\nВ той версии этого хадиса, которую передают со слов аз-Зубайра, да будет доволен им Аллах, сообщается, что Пророк ﷺ сказал: «Поистине, для любого из вас взять верёвку, принести вязанку дров на спине и продать её, благодаря чему Аллах избавит его (от необходимости просить), лучше, чем обращаться с просьбами к людям, которые могут дать ему (что-нибудь), а могут и отказать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1470</td></tr><tr><td>Arabic No</td><td>1470</td></tr><tr><td>Reference</td><td>Book 24 Hadith 72</td></tr></tbody></table></div>
 

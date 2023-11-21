@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abi Bakr:The Prophet (ﷺ) once offered the eclipse prayer. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bab. Telah menceritakan kepada kami [Ibnu Abu Maryam] berkata, telah mengabarkan kepada kami [Nafi' bin 'Umar] berkata, telah menceritakan kepadaku [Ibnu Abu Mulaikah] dari [Asma' binti Abu Bakar Ash Shiddiiq] bahwa Nabi shallallahu 'alaihi wasallam pernah mengerjakan shalat gerhana, maka Beliau berdiri dan dipanjangkan (lama) berdirinya, kemudian rukuk maka dipanjangkannya rukuk, kemudian berdiri lagi dan dipanjangkan berdirinya, kemudian rukuk maka dipanjangkannya rukuk, kemudian bangkit (dari rukuk), kemudian sujud dan memanjangkan sujudnya, kemudian mengangkat (kepala dari sujud), kemudian sujud dan memanjangkan sujudnya, kemudian berdiri lagi dan memanjangkan berdirinya, kemudian rukuk maka dipanjangkannya rukuk, kemudian berdiri (bangkit dari rukuk) dan dipanjangkan berdirinya, kemudian rukuk maka dipanjangkannya rukuk, kemudian bangkit (dari rukuk), kemudian sujud maka dipanjangkannya sujud, kemudian mengangkat (kepala dari sujud), lalu sujud dan dipanjangkannya sujud, selesai salam beliau bersabda: "Telah didekatkan surga kepadaku hingga seandainya aku dibenarkan (berani) untuk mengambilnya tentu aku akan bawakan kepada kalian kurma dari kurma-kurma didalamnya. Dan didekatkan juga neraka kepadaku hingga aku berkata, 'Wahai Rabb, aku bersama mereka. Tiba-tiba aku melihat seorang wanita'. Aku (Nafi') menduga beliau mengatakan, "Dicakar-cakar oleh seekor kucing. Aku bertanya, 'Apa yang menyebabkan demikian? Mereka menjawab, 'Wanita tersebut menahan kucing tersebut hingga mati karena kelaparan karena dia tidak memberinya makan atau membiarkan kucing tersebut pergi mencari makan.' Nafi' berkata, "Aku menduga beliau mengatakan, "Mencari makan dari serangga di permukaan tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>745</td></tr><tr><td>Arabic No</td><td>745</td></tr><tr><td>Reference</td><td>Book 10 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Асмы бинт Абу Бакр, да будет доволен Аллах ими обоими, что, когда Пророк ﷺ молился во время солнечного затмения, он (сначала) встал и долго стоял, потом склонился в поясном поклоне и долго не выпрямлялся, потом выпрямился и долго стоял, потом склонился в поясном поклоне и долго не выпрямлялся, потом выпрямился, потом совершил земной поклон и долго не поднимался, потом поднялся, потом совершил (ещё один) земной поклон и долго не поднимался, потом встал и долго стоял, потом склонился в поясном поклоне и долго не выпрямлялся, потом выпрямился и долго стоял, потом склонился в поясном поклоне и долго не выпрямлялся, потом выпрямился, потом совершил долгий земной поклон, потом поднялся, потом совершил (ещё один) долгий земной поклон, после чего закончил (намаз) и сказал: «Рай был столь близок ко мне, что если бы я осмелился, то принёс бы вам одну из его гроздей, и ад был столь близок ко мне, что я воскликнул: “О Господь мой, неужели и я окажусь вместе с ними?!” И тут я вдруг увидел какую-то женщину и спросил: “Что она сделала?” (В ответ мне) сказали: “Она держала (кошку) взаперти, пока та не подохла от голода, не давая ей никакой еды и не выпуская (её из дома), чтобы та кормилась сама”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>745</td></tr><tr><td>Arabic No</td><td>745</td></tr><tr><td>Reference</td><td>Book 10 Hadith 139</td></tr></tbody></table></div>
 

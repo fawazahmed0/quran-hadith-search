@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported. I heard the Messenger of Allah (ﷺ) seeking refuge from t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Said] dan [Harmalah bin Yahya] dan ['Amru bin Sawwad]. Harmalah mengatakan; telah mengabarkan kepada kami, sedang dua orang yang lain mengatakan; telah menceritakan kepada kami [Ibn Wahb], telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Humaid bin Abdurrahman] dari [Abu Hurairah] dia berkata; "Aku mendengar Rasulullah shallallahu 'alaihi wasallam setelah itu meminta perlindungan dari siksa kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1320</td></tr><tr><td>Arabic No</td><td>585</td></tr><tr><td>Reference</td><td>Book 5 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Я слышал, как после этого Посланник Аллаха ﷺ прибегал к защите (Аллаха) от мучений в могиле»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1320</td></tr><tr><td>Arabic No</td><td>585</td></tr><tr><td>Reference</td><td>Book 5 Hadith 158</td></tr></tbody></table></div>
 

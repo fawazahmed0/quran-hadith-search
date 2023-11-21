@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim, on the authority of his father, reported Allah's Messenger (ﷺ) as sayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah], Abu Ath Thahir berkata; telah mengabarkan kepada kami; sedangkan Harmalah berkata; Telah menceritakan kepada kami ['Abdullah bin Wahb]; Telah menceritakan kepadaku ['Umar bin Muhammad]; Telah menceritakan kepadaku [Al Qasim bin 'Ubaidullah bin 'Abdillah bin 'Umar]; Telah menceritakan kepadanya [Salim] dari [Bapaknya], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah sekali-kali seseorang diantara kalian makan dan minum dengan tangan kiri, karena setan makan dengan tangan kiri dan minum dengan tangan kiri pula. Perawi berkata; di dalam Hadits tersebut [Nafi'] menambahkan; 'Dan jangan pula mengambil dan memberi dengan tangan kiri.' Di dalam riwayat Abu At Thahir disebutkan, 'Janganlah sekali-kali seseorang di antara kalian…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5267</td></tr><tr><td>Arabic No</td><td>2020.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5267</td></tr><tr><td>Arabic No</td><td>2020.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 141</td></tr></tbody></table></div>
 

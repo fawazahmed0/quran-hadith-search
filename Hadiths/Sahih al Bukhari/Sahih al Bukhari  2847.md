@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:When the Prophet (ﷺ) called the people (Sadqa, a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Shadaqah] telah mengabarkan kepada kami [Ibnu 'Uyainah] telah bercerita kepada kami [Ibnu Al Munkadir] bahwa dia mendengar [Jabir bin 'Abdullah radliallahu 'anhuma] berkata: Nabi shallallahu 'alaihi wasallam menawarkan kepada orang-orang (untuk mencari info tentang musuh). Shadaqah berkata: "Aku kira kejadiannya saat perang Al Ahzab". Maka Az Zubair menyanggupinya. Kemudian Beliau kembali menawarkan kepada orang-orang dan kembali Az Zubair yang menyanggupinya. Kemudian Beliau kembali menawarkan kepada orang-orang dan lagi-lagi hanya Az Zubair yang menanggupinya. Maka kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya setiap Nabi memiliki Hawariy (pembela yang setia), dan hawariyku adalah Az Zubair bin Al 'Awwam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2847</td></tr><tr><td>Arabic No</td><td>2847</td></tr><tr><td>Reference</td><td>Book 56 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, говорил: «Во время битвы у рва Пророк ﷺ стал побуждать людей, и отозвался на это аз-Зубайр. Затем он (снова) стал побуждать их, и (снова) отозвался аз-Зубайр. Затем он (снова) стал побуждать их, и (снова) отозвался аз-Зубайр. И Пророк ﷺ сказал: «Поистине, у каждого пророка был свой апостол [или последователь; ученик], а моим апостолом является аз-Зубайр ибн аль-‘Аввам!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2847</td></tr><tr><td>Arabic No</td><td>2847</td></tr><tr><td>Reference</td><td>Book 56 Hadith 63</td></tr></tbody></table></div>
 

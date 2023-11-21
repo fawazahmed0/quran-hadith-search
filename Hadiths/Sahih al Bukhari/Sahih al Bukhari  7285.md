@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:When Allah's Messenger (ﷺ) died and Abu Bakr was elected 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Uqail] dari [Az Zuhri] telah mengabarkan kepadaku [Ubaidullah bin Abdullah bin Utbah] dari [Abu Hurairah] berkata, "Tatkala Rasululah shallallahu 'alaihi wasallam wafat dan Abu Bakar diangkat menjadi khalifah sesudahnya, serta beberapa orang Arab kembali kafir, [Umar] berujar kepada [Abu Bakar], "Bagaimana engkau memerangi manusia padahal Rasulullah shallallahu 'alaihi wasallam telah bersabda 'Aku diperintahkan untuk memerangi manusia hingga mereka mengucapkan Laa-ilaaha-illallah, barangsiapa mengucapkan Laa-ilaaha ilallah, berarti ia telah menjaga darah dan jiwanya dariku kecuali karena alasan yang dibenarkan, dan hisabnya ada pada Allah, ' Lantas Abu Bakar berkata, "Demi Allah, sungguh akan aku perangi siapa saja yang memisahkan antara shalat dan zakat, sesungguhnya zakat adalah hak harta, demi Allah, kalaulah mereka mencegahku dari membayar unta yang pernah mereka bayarkan kepada Rasulullah shallallahu 'alaihi wasallam, niscaya kuperangi karena mencegahnya." Lantas [Umar] berkata, "Demi Allah, tiba-tiba tak ada pendapat lain selain aku melihat bahwa Allah telah melapangkan dada Abu Bakar untuk memerangi, aku sadar bahwa dia adalah benar." [Ibn Bukair] dan [Abdullah] menyebutkan dari [Al Laits] dengan redaksi 'inaaq Bukan 'iqaal, sekalipun maknanya sama, unta, dan ini lebih shahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7285</td></tr><tr><td>Arabic No</td><td>7285</td></tr><tr><td>Reference</td><td>Book 96 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: \n— Когда Посланник Аллаха ﷺ умер, халифом стал Абу Бакр. Некоторые из арабов вернулись к неверию. Тогда ‘Умар ибн аль-Хаттаб сказал Абу Бакру (да будет доволен Аллах ими обоими): «Как же ты можешь сражаться с этими людьми? Ведь Посланник Аллаха ﷺ сказал: “Мне было велено сражаться с этими людьми, пока они не скажут: ‘Нет божества достойного поклонения, кроме Аллаха‘. А имущество и жизнь того, кто произнёс эти слова, становятся неприкосновенными, и не могут быть отняты иначе, как по праву [Шариата], и лишь Аллах сможет потребовать от него отчёта”». Абу Бакр, да будет доволен им Аллах, сказал: «Клянусь Аллахом, я непременно стану сражаться с теми, кто отделяет молитву от закята, ведь взимать закят с имущества — право [Шариата]! И, клянусь Аллахом, если они откажутся отдать мне хотя бы путы верблюда, которые отдавали Посланнику Аллаха ﷺ я стану сражаться с ними из-за этого!» Тогда ‘Умар, да будет доволен им Аллах, сказал: «Клянусь Аллахом, не иначе как Сам Аллах внушил Абу Бакру мысль о сражении, и я понял, что это — правильное решение».\nИбн Букейр и Абдуллах передают от Лейса: «...козлёнка». И это более достоверная версия
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7285</td></tr><tr><td>Arabic No</td><td>7285</td></tr><tr><td>Reference</td><td>Book 96 Hadith 16</td></tr></tbody></table></div>
 

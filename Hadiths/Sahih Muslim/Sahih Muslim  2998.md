@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Wabara reported:A person asked Ibn Umar (Allah be pleased with him): May I circu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Bayan] dari [Wabarah] ia berkata; Seorang laki-laki bertanya kepada [Ibnu Umar radliallahu 'anhuma], "Bolehkah aku thawaf di Baitullah, sementara aku telah ihram untuk haji." Maka Ibnu Umar menjawab, "Lalu, apa yang menghalangimu untuk melakukannya?" Laki-laki itu berkata, "Sesungguhnya saya melihat Ibnu Fulan membencinya, dan Anda lebih kami sukai daripada dia. Kami melihat bahwa ia telah termakan oleh fitnah dunia." Ibnu Umar kemudian berkata, "Siapakah di antara kalian yang tidak termakan oleh fitnah dunia?" kemudian ia berkata lagi, "Kami telah melihat Rasulullah shallallahu 'alaihi wasallam berihram untuk haji, kemudian beliau thawaf di Baitullah dan Sa'i antara Shafa dan Marwa. Maka sunnah Allah dan sunnah Rasul-Nyalah yang lebih berhak untuk diikuti daripada sunnah si Fulan, jika kamu benar-benar seorang yang Shadiq (jujur)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2998</td></tr><tr><td>Arabic No</td><td>1233.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2998</td></tr><tr><td>Arabic No</td><td>1233.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 206</td></tr></tbody></table></div>
 

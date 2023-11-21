@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:When the helmet of the Prophet (ﷺ) was smashed on his head and b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin 'Ufair] telah bercerita kepada kami [Ya'qub bin 'Abdur Rahman] dari [Abu Hazim] dari [Sahal] berkata; Ketika topi baja di atas kepala Nabi shallallahu 'alaihi wasallam pecah dan wajah Beliau berlumuran darah serta gigi geraham Beliau pecah, 'Ali hilir mudik membawakan air dengan perisai sebagai wadahnya. Adalah Fathimah tatkala melihat darah terus mengalir semakin banyak dalam air basuhan dia mengambil tikar lalu membakarnya (sampai menjadi debu) kemudian menempelkannya pada luka Beliau hingga darah berhenti mengalir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2903</td></tr><tr><td>Arabic No</td><td>2903</td></tr><tr><td>Reference</td><td>Book 56 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль сказал: «Когда шлем Пророка ﷺ был разбит на его голове, кровь покрыла его лицо, и один из его передних зубов был сломан, ‘Али приносил в своём щите воду, а Фатыма смывала (кровь с его лица). Когда же она увидела, что кровотечение усилилось, она взяла циновку, сожгла её и приложили (золу) к его ране, и кровь остановилась»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2903</td></tr><tr><td>Arabic No</td><td>2903</td></tr><tr><td>Reference</td><td>Book 56 Hadith 117</td></tr></tbody></table></div>
 

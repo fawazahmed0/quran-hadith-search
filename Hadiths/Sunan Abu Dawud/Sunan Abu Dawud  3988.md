@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Farwah ibn Musayk al-Ghutayfi: I came to the Prophet (ﷺ). He then nar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3988</td></tr><tr><td>Arabic No</td><td>3988</td></tr><tr><td>Reference</td><td>Book 32 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Фарва ибн Мусайк аль-Гутайфи передаёт: «Я пришёл к Пророку ﷺ…». И он передал хадис, сказав, что один человек спросил: «О Посланник Аллаха, расскажи нам о Сабе: это земля или женщина?» Посланник Аллаха ﷺ ответил: «Это не земля и не женщина. Это мужчина, который был отцом десяти арабов, и шестеро отправились в сторону Йемена, а четверо в сторону Шама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3988</td></tr><tr><td>Arabic No</td><td>3988</td></tr><tr><td>Reference</td><td>Book 32 Hadith 20</td></tr></tbody></table></div>
 

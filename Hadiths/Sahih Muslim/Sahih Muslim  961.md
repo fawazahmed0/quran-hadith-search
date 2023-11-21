@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:The Messenger of Allah (ﷺ) one day led us in the prayer. and whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Ali bin Hujr] sedangkan lafazh tersebut milik Abu Bakar, Ibnu Hujr berkata, telah mengabarkan kepada kami, sedangkan Abu Bakar berkata, telah menceritakan kepada kami [Ali bin Mushir] dari [al-Mukhtar bin Fulful] dari [Anas] dia berkata, "Rasulullah shalat mengimami kami pada suatu hari, ketika beliau telah menyelesaikan shalat, maka beliau menghadap kami dengan wajahnya seraya bersabda, 'Wahai manusia, aku adalah imam kalian, maka janganlah kalian mendahului aku dengan rukuk, sujud, berdiri, dan berpaling dari shalat. Karena aku melihat kalian dari arah depanku dan belakangku.' Kemudian beliau bersabda, 'Demi Dzat yang jiwa Muhammad berada di TanganNya, kalau kalian melihat sesuatu yang aku lihat, niscaya kalian akan sedikit tertawa, dan banyak menangis.' Mereka bertanya, 'Apa yang kamu lihat wahai Rasulullah? ' Beliau menjawab, 'Aku melihat surga dan neraka'." Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Numair] dan [Ishaq bin Ibrahim] dari [Ibnu Fudhail] semuanya meriwayatkan dari [al-Mukhtar] dari [Anas] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini, dan tidak ada dalam hadits Jarir, "Jangalah kalian mendahuluiku dalam berpaling
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>961</td></tr><tr><td>Arabic No</td><td>426.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Однажды Посланник Аллаха ﷺ провёл с нами молитву, по завершении которой повернулся к нам и сказал: “О люди, поистине, я ваш имам, и (поэтому не следует) вам совершать поясные и земные поклоны, вставать или (завершать молитву) раньше меня, ведь (где бы вы ни находились) передо мной или позади меня, я вас вижу!” Потом он сказал: “Клянусь Тем, в Чьей длани душа Мухаммада, если бы вы увидели то, что видел я, то смеялись бы мало, а плакали много!” (Люди стали) спрашивать: “Что же ты видел, о Посланник Аллаха?” (на что) он сказал: “Рай и пламя (Ада)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>961</td></tr><tr><td>Arabic No</td><td>426.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 123</td></tr></tbody></table></div>
 

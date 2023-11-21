@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever takes the money of the peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah Al Uwaisiy] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Tsaur bin Zaid] dari [Abu Al Goits] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang mengambil harta manusia (berhutang) disertai maksud akan membayarnya maka Allah akan membayarkannya untuknya, sebaliknya siapa yang mengambilnya dengan maksud merusaknya (merugikannya) maka Allah akan merusak orang itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2387</td></tr><tr><td>Arabic No</td><td>2387</td></tr><tr><td>Reference</td><td>Book 43 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Аллах отдаст (долги) за того, кто берёт деньги у людей, желая вернуть их, а того, кто берёт (деньги), желая (только) растратить их (и не намереваясь возвращать), Аллах погубит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2387</td></tr><tr><td>Arabic No</td><td>2387</td></tr><tr><td>Reference</td><td>Book 43 Hadith 3</td></tr></tbody></table></div>
 

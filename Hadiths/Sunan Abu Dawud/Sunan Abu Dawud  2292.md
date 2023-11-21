@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Urwah said:Aisha (Allah be pleased with her) severely objected to the tradition 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud], telah menceritakan kepada kami [Ibnu Wahb], telah menceritakan kepada kami [Abdurrahman bin Abu Az Zinad] dari [Hisyam bin 'Urwah] dari [ayahnya], ia berkata; [Aisyah radliallahu 'anha] telah mencela hal tersebut dengan keras, yaitu mencela hadits Fathimah binti Qais. Ia berkata; sesungguhnya Fathimah dahulu berada di tempat yang asing sehingga dikhawatirkan atas dirinya. Oleh karena itu Rasulullah shallallahu 'alaihi wasallam memberikan keringanan kepadanya. Telah menceritakan kepada kami Muhammad bin Katsir, telah mengabarkan kepada kami Sufyan dari Abdurrahman bin Al Qasim dari ayahnya dari 'Urwah bin Az Zubair bahwa Aisyah ditanya; bagaimana pendapatmu mengenai perkataan Fathimah? Ia berkata; ketahuilah bahwa tidak ada kebaikan baginya dalam hal tersebut. Telah menceritakan kepada kami Harun bin Zaid, telah menceritakan kepada kami ayahku, dari Sufyan, dari Yahya bin Sa'id dari Sulaiman bin Yasar mengenai keluarnya Fathimah, ia berkata; sesungguhnya hal tersebut termasuk diantara keburukan akhlaq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2292</td></tr><tr><td>Arabic No</td><td>2292</td></tr><tr><td>Reference</td><td>Book 13 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Урвы, что ‘Аиша, да будет доволен ею Аллах, порицала использующих хадис Фатимы бинт Кайс в качестве доказательства, говоря: «Фатима жила в безлюдном месте, и были основания опасаться за неё, поэтому Посланник Аллаха ﷺ и разрешил ей переехать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2292</td></tr><tr><td>Arabic No</td><td>2292</td></tr><tr><td>Reference</td><td>Book 13 Hadith 118</td></tr></tbody></table></div>
 

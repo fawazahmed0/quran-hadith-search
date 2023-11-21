@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:Verily the Messenger of Allah (ﷺ) said: Allah wil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahb] dia berkata, telah mengabarkan kepada kami [Malik bin Anas] dari [Amru bin Yahya bin Umarah] dia berkata, telah menceritakan kepadaku [bapakku] dari [Abu Sa'id al-Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah memasukkan penduduk surga ke surga, Dia memasukkan siapa pun yang Dia kehendaki dengan rahmatNya, dan memasukkan penduduk neraka ke neraka. Kemudian Allah berfirman: 'Lihatlah oleh kalian, siapa yang kalian dapati dari mereka terdapat sebiji sawi keimanan dalam hatinya maka keluarkanlah.' Lalu mereka dikeluarkan dari neraka dalam keadaan hangus terbakar. Mereka telah terbakar, lalu dilemparkan ke sungai kehidupan, atau hidup. Lalu mereka tumbuh sebagaimana benih tumbuh di sisi buih. Tidakkah kalian melihat bagaimana dia keluar kuning bengkok." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Wuhaib]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Hajjaj bin asy-Syair] telah menceritakan kepada kami [Amr bin 'Aun] telah mengabarkan kepada kami [Khalid] keduanya meriwayatkan dari [Amru bin Yahya] dengan isnad ini, dan keduanya berkata, "Lalu mereka dilemparkan ke sungai yang disebut sungai kehidupan." Dan keduanya tidak ragu. Dan dalam hadits Khalid, "Sebagaimana benih tumbuh di samping buih." Dan dalam hadits Wuhaib, "Sebagaimana biji tumbuh dalam bawaan buih banjir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>457</td></tr><tr><td>Arabic No</td><td>184.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 362</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «(После того как) Аллах введёт обитателей Рая в Рай, введёт кого пожелает по милости Своей, и введёт обитателей Огня в Огонь, (Аллах) скажет: “Посмотрите, и если вы найдёте в чьём-либо сердце веру весом с горчичного зерна, то выведите его (из Огня)”, и их выведут оттуда обожжёнными и превратившимся в угли, а потом бросят в реку жизни, и они станут расти подобно тому, как прорастает семя, оказавшееся близ берега потока. Разве не видел ты, как прорастают (из-под земли) жёлтые и искривленные (ростки)?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>457</td></tr><tr><td>Arabic No</td><td>184.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 362</td></tr></tbody></table></div>
 

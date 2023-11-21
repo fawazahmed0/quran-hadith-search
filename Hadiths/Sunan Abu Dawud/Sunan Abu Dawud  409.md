@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ali (may Allah be pleased with him) reported the Messenger of Allah (ﷺ) as say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Zakariyya bin Abu Za'idah] dan [Yazid bin Harun] dari [Hisyam bin Hassan] dari [Muhammad bin Sirin] dari [Abidah] dari [Ali radliallahu 'anhu] bahwasanya Rasulullah Shallallahu alaihi wasallam pernah bersabda pada hari perang Khandak, "Mereka telah menahan kita dari shalat Wushtha yaitu Shalat Ashar, semoga Allah memenuhi rumah-rumah dan kubur-kubur mereka dengan api
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2931) Sahih Muslim (627)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>409</td></tr><tr><td>Arabic No</td><td>409</td></tr><tr><td>Reference</td><td>Book 2 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Али, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал в день (битвы) Хандак: «Они удержали нас от совершения средней молитвы молитвы послеполуденной /‘аср/. Да наполнит Аллах их дома и могилы огнём!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2931) Sahih Muslim (627)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>409</td></tr><tr><td>Arabic No</td><td>409</td></tr><tr><td>Reference</td><td>Book 2 Hadith 19</td></tr></tbody></table></div>
 

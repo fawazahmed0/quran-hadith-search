@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Buraidah said. :The Prophet (ﷺ) smelt the breath of Ma’iz
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Yahya bin Ya'la Ibnul Harits] berkata, telah menceritakan kepada kami [Bapakku] dari [Ghailan] dari [Alqamah bin Martsad] dari [Ibnu Buraidah] dari [Bapaknya] ia berkata, "Nabi shallallahu 'alaihi wasallam mencium (bau) mulut Ma'iz (mungkin jika ada bau khamer)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1695)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4433</td></tr><tr><td>Arabic No</td><td>4433</td></tr><tr><td>Reference</td><td>Book 40 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Бурайда передаёт от своего отца, что Пророк ﷺ велел людям понюхать (дыхание) Ма‘иза
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1695)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4433</td></tr><tr><td>Arabic No</td><td>4433</td></tr><tr><td>Reference</td><td>Book 40 Hadith 83</td></tr></tbody></table></div>
 

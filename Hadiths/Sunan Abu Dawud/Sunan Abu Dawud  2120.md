@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Isma'il bin Ibrahim:On the authority of a man from Banu Sulaim: I asked
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepada kami [Badal bin Al Muhabbar], telah mengabarkan kepada kami [Syu'bah] dari [Al 'Ala'] anak saudara Syu'aib Ar Razi dari [Isma'il bin Ibrahim] dari [seorang laki-laki dari Bani Sulaim], ia berkata; aku meminang Umamah binti Abdul Muththalib kepada Rasulullah shallallahu 'alaihi wasallam kemudian beliau menikahkanku tanpa beliau mengucapkan syahadat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 12 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Исма‘иль ибн Ибрахим передаёт от одного человека из бану Суляйм: «Я попросил Пророка ﷺ выдать за меня Умаму бинт ‘Абду-ль-Мутталиб. И он выдал её за меня, не произнося слова свидетельства»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 12 Hadith 75</td></tr></tbody></table></div>
 

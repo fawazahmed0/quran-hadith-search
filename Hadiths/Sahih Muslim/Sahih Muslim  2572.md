@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) said:The Apostle of Allah (ﷺ) forbade them 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Utsman bin Abu Syaibah] semuanya dari [Abdah] - [Ishaq] berkata- telah mengabarkan kepada kami [Abdah bin Sulaiman] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Nabi shallallahu 'alaihi wasallam melarang mereka untuk berpuasa wishal dan hal itu sebagai rahmat atas mereka. Maka mereka pun berkata, "Bukankah Anda sendiri melakukan Wishal." Maka beliau menjawab: "Aku tidaklah seperti kalian, aku diberi makan dan minum oleh Rabbku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2572</td></tr><tr><td>Arabic No</td><td>1105</td></tr><tr><td>Reference</td><td>Book 13 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2572</td></tr><tr><td>Arabic No</td><td>1105</td></tr><tr><td>Reference</td><td>Book 13 Hadith 78</td></tr></tbody></table></div>
 

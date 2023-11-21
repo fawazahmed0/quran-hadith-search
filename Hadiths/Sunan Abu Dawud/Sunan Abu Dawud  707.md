@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa’id b. Ghazwan reported on the authority of his father that he made his stay
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani] dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Sulaiman bin Daud] keduanya berkata; telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Mu'awiyah] dari [Sa'id bin Ghazwan] dari [ayahnya] bahwa dia singgah di Tabuk ketika berhaji, tiba-tiba dia bertemu [seorang laki-laki yang lumpuh], lantas dia bertanya sebab kelumpuhannya, maka laki-laki itu berkata kepadanya; "Aku akan ceritakan kepadamu suatu cerita, namun kamu jangan ceritakan kepada siapapun yang kamu dengar selagi aku masih hidup, sesungguhnya Rasulullah Shallallahu'alaihiwasallam pernah singgah di Tabuk yaitu di bawah pohon kurma, maka beliau bersabda: "Ini adalah kiblat kami." Kemudian beliau shalat menghadap pohon kurma, lalu aku berusaha menemui beliau -waktu itu usiaku masih kecil- sehingga aku lewat antara beliau dengan pohon kurma tersebut, maka beliau bersabda: "Dia telah memotong shalat kami, semoga Allah memotong jejaknya." Maka saya tidak dapat berdiri sampai hari ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>707</td></tr><tr><td>Arabic No</td><td>707</td></tr><tr><td>Reference</td><td>Book 2 Hadith 317</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Гъазуан со слов своего отца рассказывал о том, что он как-то остановился в Табуке (по дороге) в хаджж, и (увидел) там какого-то человека, поражённого параличом, у которого он расспросил о причине этого, и тот сказал ему: «Я расскажу тебе хадис, но ни за что не рассказывай его, пока слышишь, что я ещё жив! Поистине, (как-то) Посланник Аллаха ﷺ остановился в Табуке возле какой-то пальмы и сказал: “Это наша кибла!”. Затем он стал молиться повернувшись к ней, а я будучи (в то время ещё) мальчиком, пробежал между ним и ею (пальмой), и тогда (Пророк ﷺ), сказал: “Он прервал нашу молитву, да прервёт Аллах его след!”. И я не становился на них до сегодняшнего дня».Также этот хадис передал аль-Байхакъи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>707</td></tr><tr><td>Arabic No</td><td>707</td></tr><tr><td>Reference</td><td>Book 2 Hadith 317</td></tr></tbody></table></div>
 

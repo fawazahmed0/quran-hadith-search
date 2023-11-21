@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that Salim, the freed slave of Abu H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Handlali] dan [Muhammad bin Abi Umar] semuanya dari [Ats Tsaqafi]. [Ibnu Abu Umar] mengatakan; Telah menceritakan kepada kami [Abdul Wahhab Ats Tsaqafi] dari [Ayyub] dari [Ibnu Abi Mulaikah] dari [Qasim] dari [Aisyah] bahwasannya Salim budak Abu Hudzaifah, Hudzaifah, dan istrinya tinggal serumah. Maka putri Suhail (yaitu istri Abu Hudzaifah) datang menemui Nabi shallallahu 'alaihi wasallam, dia berkata; "Sesungguhnya Salim telah tumbuh dewasa dan berpikir layaknya orang yang sudah dewasa, akan tetapi dia masih bebas masuk menemui kami, sesungguhnya saya khawatir dalam diri Abu Hudzaifah ada sesuatu." Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Susuilah dia, sehingga dia akan menjadi mahrammu, dengan begitu akan hilang apa yang menjadi pikiran Abu Hudzaifah." Tidak lama kemudian, dia kembali dan berkata; Sesungguhnya saya telah menyusuinya, maka hilang pulalah pikiran yang bukan-bukan dari diri Abu Hudzaifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3601</td></tr><tr><td>Arabic No</td><td>1453.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3601</td></tr><tr><td>Arabic No</td><td>1453.02</td></tr><tr><td>Reference</td><td>Book 17 Hadith 34</td></tr></tbody></table></div>
 

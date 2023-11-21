@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Karimah, daughter of Hammam, told that a woman c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ali Ibnul Mubarak] ia berkata; telah menceritakan kepadaku [Karimah binti Hammam] berkata, "bahwasanya ada seorang wanita yang datang menemui ['Aisyah radliallahu 'anha], lalu ia bertanya kepadanya tentang pewarna dari pacar?" maka ia menjawab, "Tidak apa-apa, hanya saja aku tidak menyukainya karena kekasihku, Rasulullah shallallahu 'alaihi wasallam tidak menyukai baunya." Abu Dawud berkata, "Yakni pewarna rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4164</td></tr><tr><td>Arabic No</td><td>4164</td></tr><tr><td>Reference</td><td>Book 35 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Карима бинт Хаммам передаёт, что одна женщина пришла к ‘Аише, да будет доволен ею Аллах, и спросила её, разрешается ли красить волосы хной. Она ответила: «В этом нет ничего греховного. Однако мне она не нравится, так как мой любимый Посланник Аллаха ﷺ не любил запах хны»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4164</td></tr><tr><td>Arabic No</td><td>4164</td></tr><tr><td>Reference</td><td>Book 35 Hadith 6</td></tr></tbody></table></div>
 

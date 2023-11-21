@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:Dhikr (mentioning the name of Allah) in a loud voice after o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim] telah mengabarkan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibn Juraij] katanya; (Dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Ishaq bin Manshur] dan lafadz darinya, dia berkata; telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibn Juraij] telah mengabarkan kepadaku ['Amru bin Dinar], bahwa [Abu Ma'bad] mantan budak Ibn Abbas mengabarinya, bahwa [Ibn Abbas] pernah mengabarinya; "Bahwa mengeraskan suara dzikr sehabis shalat wajib, pernah terjadi di masa Nabi shallallahu 'alaihi wasallam." kata Abu Ma'bad; Ibn Abbas mengatakan; "Akulah yang paling tahu tentang hal itu, ketika mereka telah selesai (mengerjakan shalat), sebab aku pernah mendengarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>583.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Аббаса, что, когда при жизни Пророка ﷺ люди завершали обязательную молитву, они обычно громко поминали Аллаха. Ибн ‘Аббас сказал: «И слыша эти (слова поминания), я узнавал о (том, что люди завершали молитву)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>583.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 156</td></tr></tbody></table></div>
 

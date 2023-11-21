@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah said: The Fast is for Me and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Al A'masy] dari [Abu shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Allah Azza wa Jalla berfirman: 'Puasa adalah milik-Ku, dan Aku sendirilah yang mengganjarinya, orang yang berpuasa itu meninggalkan syahwatnya, makan dan minumnya karena Aku. Puasa adalah perisai, dan bagi orang yang berpuasa mendapat dua kegembiraan, kegembiraan ketika ia berjumpa dengan rabbnya. Dan sungguh, bau mulut orang yang berpuasa jauh lebih wangi di sisi Allah daripada bau minyak kesturi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7492</td></tr><tr><td>Arabic No</td><td>7492</td></tr><tr><td>Reference</td><td>Book 97 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Всемогущий и Великий Аллах сказал: “Пост — ради Меня, и Я воздам за него. Он отказывается от удовлетворения своих желаний, своей еды и своего питья ради Меня. Пост — щит. У постящегося две радости: радость при разговении и радость при встрече со своим Господом. Запах, исходящий изо рта постящегося, приятнее для Аллаха, чем благоухание миска (благовония)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7492</td></tr><tr><td>Arabic No</td><td>7492</td></tr><tr><td>Reference</td><td>Book 97 Hadith 118</td></tr></tbody></table></div>
 

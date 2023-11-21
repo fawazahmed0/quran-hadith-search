@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) went out towards Al-Batha' and ascended th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Salam] Telah mengabarkan kepada kami [Abu Mu'awiyah] Telah menceritakan kepada kami [Al A'masy] dari [Amru bin Murrah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa suatu hari Nabi shallallahu 'alaihi wasallam keluar menuju Bathha', kemudian beliau naik ke bukit seraya berseru, "Wahai sekalian manusia." Maka orang-orang Quraisy pun berkumpul. Kemudian beliau bertanya, "Bagaimana, sekiranya aku mengabarkan kepada kalian, bahwa musuh (di balik bukit ini) akan segera menyergap kalian, apakah kalian akan membenarkanku?" mereka menjawab, "Ya." Beliau bersabda lagi: "Sesungguhnya aku adalah seorang pemberi peringatan bagi kalian. Sesungguhnya di hadapanku akan ada adzab yang pedih." Akhirnya Abu Lahab pun berkata, "Apakah hanya karena itu kamu mengumpulkan kami? Sungguh kecelakanlah bagimu." Maka Allah menurunkan firman-Nya: "TABBAT YADAA ABII LAHAB.." Hingga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4972</td></tr><tr><td>Arabic No</td><td>4972</td></tr><tr><td>Reference</td><td>Book 65 Hadith 494</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сообщил, что Пророк ﷺ вышел в аль-Батху, поднялся на гору и принялся возглашать: “Йа сабахах!” (фраза, которая говорится, когда предупреждают о приближении врагов). Когда курайшиты собрались вокруг него, он сказал: “(Скажите,) если бы я сказал вам, что вражеская конница собирается напасть на вас утром или вечером, вы поверили бы мне?” Они ответили: “Да”. Тогда он сказал: “Поистине, я увещеватель, направленный к вам, чтобы предостеречь вас от сурового наказания!” (Услышав его слова,) Абу Ляхаб воскликнул: “И ради этого ты нас собрал?! Чтоб ты пропал!” И Великий и Могучий Аллах ниспослал: “Да пропадут пропадом руки Абу Ляхаба, и сам он пропал!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4972</td></tr><tr><td>Arabic No</td><td>4972</td></tr><tr><td>Reference</td><td>Book 65 Hadith 494</td></tr></tbody></table></div>
 

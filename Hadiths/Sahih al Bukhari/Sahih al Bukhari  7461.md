@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) stood before Musailama (the liar) who was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Abdullah bin Abu Husain] telah menceritakan kepada kami [Nafi' bin Jubair] dari [Ibn Abbas] berkata, "Pernah nabi shallallahu 'alaihi wasallam berdiri pada Musailamah di sekelompok kawan-kawannya, lantas beliau berkata "Kalaulah engkau meminta sebidang tanah ini, niscaya aku tidak akan memberikannya kepadamu selama-lamanya, dan kamu sekali-kali tidak bisa melampaui urusan Allah yang ada padamu, dan kalaulah engkau berbalik ke belakang, Allah akan membunuhmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7461</td></tr><tr><td>Arabic No</td><td>7461</td></tr><tr><td>Reference</td><td>Book 97 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ остановился около Мусайлимы, которого окружали его последователи, и сказал (ему): “Если бы ты попросил у меня (даже) эту (ветвь), я не отдал бы тебе и её, и ты не никогда не сможешь пойти против (решения) Аллаха относительно тебя, если же ты станешь поступать наперекор (истине), Аллах обязательно уничтожит тебя!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7461</td></tr><tr><td>Arabic No</td><td>7461</td></tr><tr><td>Reference</td><td>Book 97 Hadith 87</td></tr></tbody></table></div>
 

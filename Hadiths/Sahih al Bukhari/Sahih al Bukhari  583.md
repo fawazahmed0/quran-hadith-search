@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:Ibn 'Umar said, "Allah's Messenger (ﷺ) said, 'Do not 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hisyam] berkata, telah mengabarkan kepadaku [Bapakku] berkata, telah mengabarkan kepadaku [Ibnu 'Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian sengaja melaksanakan shalat ketika matahari sedang terbit dan juga ketika terbenamnya." Dan telah menceritakan kepadaku Ibnu 'Umar berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika matahari sedang terbit maka tundalah shalat hingga telah meninggi, dan jika matahari sedang terbenam maka tundalah shalat hingga menghilang." Hadits ini juga kuatkan oleh ['Abdah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>583</td></tr><tr><td>Arabic No</td><td>583</td></tr><tr><td>Reference</td><td>Book 9 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ сказал: “Если край солнца покажется (над горизонтом), отложите молитву, пока оно не поднимется (над горизонтом полностью), и если край солнца скроется (за горизонтом), отложите молитву, пока оно не зайдёт (за горизонт полностью)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>583</td></tr><tr><td>Arabic No</td><td>583</td></tr><tr><td>Reference</td><td>Book 9 Hadith 58</td></tr></tbody></table></div>
 

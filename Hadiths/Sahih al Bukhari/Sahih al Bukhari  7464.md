@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) said, "Whenever anyone of you invoke Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Abdul Warits] dari ['Abdul 'Aziz] dari [Anas] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian berdoa kepada Allah, maka seriuslah dalam berdoa dan jangan salah seorang di antara kalian berkata 'Jika Engkau berkehendak maka berilah aku', sebab Allah sama sekali tidak ada yang bisa memaksa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7464</td></tr><tr><td>Arabic No</td><td>7464</td></tr><tr><td>Reference</td><td>Book 97 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Когда вы обращаетесь к Аллаху с мольбой, то проявляйте решительность в мольбе, и пусть никто из вас не говорит: “Если Ты желаешь, дай мне”, ибо Аллаха и так никто не может ни к чему принудить»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7464</td></tr><tr><td>Arabic No</td><td>7464</td></tr><tr><td>Reference</td><td>Book 97 Hadith 90</td></tr></tbody></table></div>
 

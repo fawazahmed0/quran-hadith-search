@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuDharr: I heard the Messenger of Allah (ﷺ) say: Allah, the Exalted,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad Yunus], telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Muhammad bin Ishaq] dari [Makhul] dari [Ghudhaif bin Al Harits] dari [Abu Dzar], ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Sesungguhnya Allah telah meletakkan hak (kebenaran) pada lisan Umar, ia berkata dengan kebenaran tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2962</td></tr><tr><td>Arabic No</td><td>2962</td></tr><tr><td>Reference</td><td>Book 20 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Зарра, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, Аллах поместил истину на язык ‘Умара, и он изрекает её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2962</td></tr><tr><td>Arabic No</td><td>2962</td></tr><tr><td>Reference</td><td>Book 20 Hadith 35</td></tr></tbody></table></div>
 

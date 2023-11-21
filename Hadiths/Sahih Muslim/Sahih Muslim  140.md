@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Oubâda Ibn Sâmit (que Dieu l'agrée), le Prophète (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Dawud bin Rusyaid] telah menceritakan kepada kami [al-Walid] -yaitu Ibnu Muslim- dari [Ibnu Jabir] dia berkata, telah menceritakan kepada kami [Umair bin Hani'] dia berkata, telah menceritakan kepada kami [Junadah bin Abu Umayyah] telah menceritakan kepada kami [Ubadah bin ash-Shamit] dia berkata, "Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Barangsiapa mengucapkan dua Kalimah Syahadat yaitu: tidak ada tuhan (yang berhak disembah) selain Allah semata, tidak ada sekutu bagi-Nya, dan bahwa Muhammad hamba dan Rasul-Nya, bersaksi bahwa Nabi Isa adalah hamba Allah, anak hamba-Nya dan kalimah Allah (Nabi Isa As) yang Dia letakkan pada Maryam dan ruh dari-Nya, surga itu benar adanya dan neraka itu juga benar adanya, di mana Allah akan memasukkan mereka yang dikehendaki ke dalam Surga melalui salah satu dari delapan pintu Surga yang dia kehendaki." Dan telah menceritakan kepada kami [Ahmad bin Ibrahim ad-Dauraqi] telah menceritakan kepada kami [Mubasysyir bin Ismail] dari [al-Auza'i] dari [Umair bin Hani'] dalam sanad ini dengan semisalnya, hanya saja dia menyebutkan, 'Allah memasukkannya sesuai dengan amalnya' tanpa menyebutkan, 'masuk dari pintu surga yang delapan yang dia kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>140</td></tr><tr><td>Arabic No</td><td>28.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убада ибн ас-Самит, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Кто засвидетельствовал, что нет божества, достойного поклонения, кроме одного Аллаха, у Которого нет сотоварища, что Мухаммад Его раб и посланник Его, что ‘Иса раб Аллаха и сын Его рабыни, а также Слово Его, посланное Марьям, и дух от Него, и что Рай истина, и что огонь истина, того введёт Аллах в рай через любые из восьми (его) ворот, которые пожелает”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>140</td></tr><tr><td>Arabic No</td><td>28.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 47</td></tr></tbody></table></div>
 

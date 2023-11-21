@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma 'bint Abu Bakr:The Prophet (ﷺ) said, "I will be standing at the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6593</td></tr><tr><td>Arabic No</td><td>6593</td></tr><tr><td>Reference</td><td>Book 81 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Асмы бинт Аби Бакра, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Находясь у Водоёма (Хауд), я буду смотреть, кто прибудет ко мне из вас. Но некоторых людей будут отвадить от меня. Тогда я скажу: “О Господь, они мои и из моей общины”, но будет сказано: “Разве ты не почувствовал, что они сделали после тебя? Клянусь Аллахом, они не переставали обращаться вспять”». И поэтому Ибн Аби Мулейка говорил: «О Аллах, мы просим у Тебя защиты от того, чтобы обратится вспять, или от того, чтобы быть испытанными в нашей вере».\n﴾ вы пятились от них ﴿ [сура «аль-Муминун», аят 66]: «возвращались вспять»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6593</td></tr><tr><td>Arabic No</td><td>6593</td></tr><tr><td>Reference</td><td>Book 81 Hadith 181</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda's father:The Prophet (ﷺ) said, "Three persons will get thei
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan bin 'Uyainah] telah bercerita kepada kami [Shalih bin Hayyi Abu Hasan] berkata aku mendengar [Asy-Sya'biy] berkata telah bercerita kepadaku [Abu Burdah] bahwa dia mendengar [bapaknya] dari Nabi shallallahu 'alaihi wasallam bersabda: "Ada tiga kelompok manusia yang akan diberi pahala dua kali. (Yang pertama) seorang laki-laki yang memiliki seorang budak wanita dimana dia mengajarinya dengan pengajaran yang baik kemudian mendidik dengan pendidikan yang baik lalu dia membebaskannya kemudian menikahinya. Maka bagi orang ini mendapat dua pahala. (Yang kedua) mu'min dari kalangan Ahlul Kitab dimana sebelumnya dia adalah orang yang beriman kemudian dia beriman kepada Nabi shallallahu 'alaihi wasallam, maka baginya dua pahala. Dan (yang ketiga) seorang budak yang menunaikan hak-hak Allah dan juga setia kepada tuannya". Kemudian Asy-Sya'biy berkata: "Aku berikan dia kepadamu tanpa imbalan sedikitpun". Orang yang diberikannya itu adalah seorang yang sedang menempuh perjalanan menuju Madinah dalam keadaan sangat lemah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3011</td></tr><tr><td>Arabic No</td><td>3011</td></tr><tr><td>Reference</td><td>Book 56 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Бурда, что он слышал своего отца, передавшего, что Пророк ﷺ сказал: «Три группы людей им будет удвоена награда: (первая из них ) человек из числа людей писания, который уверовал в своего пророка (Иса или Муса) и познал меня, а потом уверовал в меня и последовал за мной…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3011</td></tr><tr><td>Arabic No</td><td>3011</td></tr><tr><td>Reference</td><td>Book 56 Hadith 220</td></tr></tbody></table></div>
 

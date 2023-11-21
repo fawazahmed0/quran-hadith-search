@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: When the Messenger of Allah (ﷺ) got up to pray at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdussalam bin Mutthahir] telah menceritakan kepada kami [Ja'far] dari [Ali bin Ali Ar Rifa'i] dari [Abu Al Mutawakkil An Naji] dari [Abu Sa'id Al Khudri] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam bangun untuk shalat malam, beliau bertakbir kemudian mengucapkan: "SUBHAANAKA ALLAHUMMA WABIHAMDIKA WATABAARAKASMUKA WA TA'AALA JADDUKA WALAA ILAAHA GHAIRAKA (Maha suci Engkau, ya Allah, aku sucikan nama-Mu dengan memuji-Mu, Maha berkah nama-Mu, Maha luhur keluhuran-Mu dan tidak ilah selain Engkau)." kemudian membaca: "LAA ILAAHA ILLALLAH (tidak ada ilah selain Allah) sebanyak tiga kali, kemudian membaca: "ALLAHU AKBAR KABIIRA (Allah Maha besar benar-benar Maha besar)." sebanyak tiga kali- (kemudian membaca): A'UUDZU BILLAHIS SAMII'IL 'ALIIM MINAS SYAITHAANIR RAJIIM MIN HAMZIHII WANAFKHIHI WA NAFTSIHI (Aku berlindung kepada Allah, dzat yang Maha mendengar lagi Maha mengetahui dari goda'an syetan yang terkutuk, dari kegilaannya, dari kesombongannya dan syairnya yang jelek)." kemudian beliau membaca (surat Al Qur'an)." Abu Daud berkata; "Mereka (para perawi) mengatakan; Hadits ini dari Ali bin Ali dari Al Hasan secara mursal, dan wahm (keraguan) dari Ja'far
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>775</td></tr><tr><td>Arabic No</td><td>775</td></tr><tr><td>Reference</td><td>Book 2 Hadith 385</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри (да будет доволен им Аллах) сказал: «Обычно, когда Посланник Аллаха ﷺ становился на ночную молитву, он произносил слова возвеличивания Аллаха /Аллаху акбар/ и затем говорил: “Слава Тебе, о Аллах, и хвала Тебе, благословенно имя Твоё, превыше всего величие Твоё и нет божества, достойного поклонения, кроме Тебя” /Субханака, Аллахумма, ва бихамдика, ва табарака-смука ва та‘аля джаддука ва ля иляха гъайрука/. После этого он трижды говорил: “Нет божества, достойного поклонения, кроме Аллаха” /Ля иляха илля-Ллах/, и трижды говорил: “Аллах велик, намного более велик, (чем всё остальное)” /Аллаху акбар кабиран/, (и затем говорил): “Прибегаю к защите Всеслышащего и Всезнающего Аллаха от изгнанного и побиваемого шайтана: от его наущений, от его дуновения и от выделения его слюны” /А‘узу би-Лляхи ас-Сами‘иль-‘алими, мина-ш-шайтани-р-раджими, мин хамзихи, ва нафхихи, ва нафсихи/», после чего (он начинал) читать (Коран)».Абу Дауд сказал: «Говорят, что этот хадис, переданный со слов ‘Али ибн ‘Али от аль-Хасана, является отосланным /мурсаль/ и ошибкой Джа‘фара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>775</td></tr><tr><td>Arabic No</td><td>775</td></tr><tr><td>Reference</td><td>Book 2 Hadith 385</td></tr></tbody></table></div>
 

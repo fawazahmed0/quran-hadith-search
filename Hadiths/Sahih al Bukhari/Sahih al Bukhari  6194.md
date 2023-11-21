@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Isma'il:I asked Abi 'Aufa, "Did you see Ibrahim, the son of the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Isma'il] saya berkata kepada [Ibnu Abu Aufa]; "Apakah kamu mengetahui Ibrahim putra Nabi shallallahu 'alaihi wasallam? Ibnu Abu Aufa menjawab; "Ibrahim meninggal ketika masih kecil, sekiranya ia ditetapkan sebagai Nabi setelah Muhammad shallallahu 'alaihi wasallam, maka ia akan tetap hidup, namun tidak ada Nabi setelah beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6194</td></tr><tr><td>Arabic No</td><td>6194</td></tr><tr><td>Reference</td><td>Book 78 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Исма‘иль рассказывал: «Я спросил Ибн Аби ‘Ауфу: “Видел ли ты Ибрахима, сына Пророка ﷺ?” Он сказал: “Он умер, будучи младенцем. Если бы после Мухаммада ﷺ был пророк, то его сын был бы жив, однако нет пророка после него”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6194</td></tr><tr><td>Arabic No</td><td>6194</td></tr><tr><td>Reference</td><td>Book 78 Hadith 218</td></tr></tbody></table></div>
 

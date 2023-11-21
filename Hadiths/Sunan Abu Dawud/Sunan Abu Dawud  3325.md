@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Umar:That 'Umar said: Messenger of Allah, I took a vow in pre-Isla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 [Ahmad bin Hanbal] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar], dari [Umar radliallahu 'anhu] bahwasanya dia berkata; wahai Rasulullah, sesungguhnya saya bernadzar pada masa jahiliyah untuk beri'tikaf di Masji Al Haram pada malam hari. Kemudian Nabi shallallahu 'alaihi wasallam berkata kepadanya: "Penuhilah nadzarmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2032) Sahih Muslim (1656)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3325</td></tr><tr><td>Arabic No</td><td>3325</td></tr><tr><td>Reference</td><td>Book 22 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2032) Sahih Muslim (1656)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3325</td></tr><tr><td>Arabic No</td><td>3325</td></tr><tr><td>Reference</td><td>Book 22 Hadith 84</td></tr></tbody></table></div>
 

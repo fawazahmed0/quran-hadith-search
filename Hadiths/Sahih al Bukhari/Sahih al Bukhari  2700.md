@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara' bin 'Azib (ra):On the day of Hudaibiya, the Prophet (ﷺ), the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2700</td></tr><tr><td>Arabic No</td><td>2700</td></tr><tr><td>Reference</td><td>Book 53 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ заключил с многобожниками мирный договор в день Худайбиййи с тремя условиями: что он будет возвращать обратно тех, кто придёт к нему из язычников; что они не будут возвращать обратно тех, кто придёт к ним из мусульман; что мусульмане войдут в Мекку только на следующий год и пробудут в ней только три дня, и что они не войдут туда иначе как с оружием в ножнах, таким как меч и лук и подобное им. И когда пришёл Абу Джандаль, закованный в кандалы, Пророк ﷺ вернул его обратно многобожникам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2700</td></tr><tr><td>Arabic No</td><td>2700</td></tr><tr><td>Reference</td><td>Book 53 Hadith 10</td></tr></tbody></table></div>
 

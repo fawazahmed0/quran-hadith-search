@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Fatima bint Al-Mundhir:Asma' bint Al Bakr said, "I came to 'Aisha the w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari isterinya [Fatimah binti Al Mundzir] dari [Asma' binti Abu Bakar] radliallahu 'anhuma, bahwasanya dia berkata, "Aku pernah datang menemui 'Aisyah? radliallahu 'anha, isteri Nabi shallallahu 'alaihi wasallam, ketika terjadi gerhana matahari. Ternyata orang-orang sedang melaksanakan shalat dan saat itu ia juga ikut melaksanakannya. Setelah itu aku bertanya kepadanya, "Apa yang dilakukan orang-orang?" Aisyah memberi isyarat dengan tangannya ke langit seraya berkata, "Maha suci Allah!" Aku bertanya, "Satu tanda saja?" Lalu dia memberi isyarat tanda mengiyakan. Maka akupun ikut shalat sementara timbul perkara yang membingungkanku, hingga aku siram kepalaku dengan air. Selesai shalat Rasulullah shallallahu 'alaihi wasallam memuji Allah dan mensucikan-Nya, lalu bersabda: "Tidak ada sesuatu yang belum diperlihatkan kepadaku, kecuali aku sudah melihatnya dari tempatku ini, hingga surga dan neraka. Kemudian diwahyukan kepadaku, bahwa Kalian akan terkena fitnah dalam kubur kalian seperti, atau seupa dengan fitnah Dajjal -Aku sendiri tidak tahu mana dari keduanya yang dikatakan oleh Asma'-. Salah seorang dari kalian akan dihadapkan lalu ditanya, 'Apa yang kamu ketahui tentang laki-laki ini? ' Orang beriman atau orang yang yakin -Aku tidak tahu mana dari keduanya yang dikatakan ileh Asma'- akan menjawab, 'Dia adalah Muhammad Rasulullah shallallahu 'alaihi wasallam, dia datang kepada kami membawa penjelasan dan petunjuk. Maka kami sambut, kami beriman kepadanya dan kami ikuti (ajarannya).' Maka kepada orang itu dikatakan, 'Tidurlah kamu dengan baik, sungguh kami telah mengetahui bahwa kamu adalah orang yang yaqin.' Adapun orang Munafik atau orang yang ragu - aku tidak tahu mana dari keduanya yang dikatakan oleh Asma'- akan menjawab, 'Aku tidak tahu siapa dia, aku mendengar orang-orang mengatakan sesuatu, maka aku pun ikut mengatakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1053</td></tr><tr><td>Arabic No</td><td>1053</td></tr><tr><td>Reference</td><td>Book 16 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Абу Бакр ас-Сыддык, да будет доволен ею Аллах, сказала: «Однажды, в день, когда произошло солнечное затмение, я зашла к ‘Аише, жене Пророка ﷺ и (обнаружила, что) люди стояли, совершая молитву, и она стояла, совершая молитву. Я спросила (её): “Что происходит с людьми?”, — (в ответ) она указала рукой на небо и сказала: “Пречист Аллах!” Я спросила: “(Это) знамение?” И она утвердительно кивнула головой. Тогда я тоже приступила к молитве, и я стояла до тех пор, пока не начала терять сознание, и я начала поливать себе голову водой. Когда Посланник Аллаха ﷺ завершил молитву, он прославил и восхвалил Аллаха, затем сказал: “На этом месте я (только что) увидел всё то, что мне не было показано раньше, в том числе — Рай и Ад. И мне было ниспослано откровение о том, что в своих могилах вы подвергнетесь испытанию подобному (или близкому к этому) испытанию Масиха Даджжала. К каждому из вас придут и спросят: “Что ты знаешь об этом человеке?”, — и верующий (или: убеждённый) ответит: “Это — Мухаммад, Посланник Аллаха ﷺ который пришёл к нам с явными доказательствами и руководством, а мы ответили (ему), уверовали и последовали (за ним)”. После чего (ангелы) скажут ему: “Спи, будучи праведным, ибо мы знали, что ты веровал в него!” Что же касается лицемера (или: сомневающегося), то он скажет: “Я не знаю, я только слышал, как люди говорили что-то, и говорил то же самое”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1053</td></tr><tr><td>Arabic No</td><td>1053</td></tr><tr><td>Reference</td><td>Book 16 Hadith 13</td></tr></tbody></table></div>
 

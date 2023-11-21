@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Rafi' reported that Allah's Messenger (ﷺ) took from a man as a loan a youn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu At Thahir Ahmad bin Amru bin Sarh] telah mengabarkan kepada kami [Ibnu Wahb] dari [Malik bin Anas] dari [Zaid bin Aslam] dari [Atha' bin Yasar] dari [Abu Rafi'], bahwa Rasulullah shallallahu 'alaihi wasallam pernah meminjam unta muda kepada seorang laki-laki, ketika unta sedekah tiba, maka beliau pun memerintahkan Abu Rafi' untuk membayar unta muda yang dipinjamnya kepada laki-laki tersebut. Lalu Abu Rafi' kembali kepada beliau seraya berkata, "Aku tidak mendapatkan unta muda kecuali unta yang sudah dewasa." Beliau bersabda: "Berikanlah kepadanya, sebaik-baik manusia adalah yang paling baik dalam membayar hutang." Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Khalid bin Makhlad] dari [Muhammad bin Ja'far] saya mendengar [Zaid bin Aslam] mengabarkan kepada kami ['Atha bin Yasar] dari [Abu Rafi'] bekas budak Rasulullah shallallahu 'alaihi wasallam, dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah meminjam unta muda …", seperti hadits di atas, hanya saja (disebutkan bahwa) beliau bersabda: "Sesungguhnya sebaik-baik hamba Allah adalah yang paling baik dalam pembayaran (hutang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4108</td></tr><tr><td>Arabic No</td><td>1600.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4108</td></tr><tr><td>Arabic No</td><td>1600.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 147</td></tr></tbody></table></div>
 

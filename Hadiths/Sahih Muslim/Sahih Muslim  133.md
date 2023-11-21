@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The same hadith is mentioned through a different chain except it ends where it m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>133</td></tr><tr><td>Arabic No</td><td>24.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис с тем же иснадом, что и прошлый, но хадис версии Салиха заканчивается словами: «И ниспослал Аллах по его поводу…». И не упоминаются два аята(, которые приводятся в предыдущей версии). Но он говорит в своей версии хадиса: «…и они двое повторяли ему свои слова». А в хадисе версии Ма’мара, вместо этих слов: «…а они продолжали (говорить ему)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>133</td></tr><tr><td>Arabic No</td><td>24.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 40</td></tr></tbody></table></div>
 

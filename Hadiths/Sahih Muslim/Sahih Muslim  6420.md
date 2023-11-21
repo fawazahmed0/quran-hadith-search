@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée) : L'Envoyé de Dieu (paix et béné
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] dan lafazh ini milik Ibnu Al Mutsanna dia berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah mengabarkan kepada kami [Syu'bah] Aku mendengar [Qatadah] bercerita dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya orang-orang Anshar adalah penjaga rahasiaku dan menjadi kesayanganku serta pembelaku, sesungguhnya orang-orang selain anshar akan menjadi banyak dan kaum anshar akan menjadi sedikit. Oleh karena itu, terimalah mereka yang baik dan maafkanlah mereka yang bersalah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6420</td></tr><tr><td>Arabic No</td><td>2510</td></tr><tr><td>Reference</td><td>Book 44 Hadith 249</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6420</td></tr><tr><td>Arabic No</td><td>2510</td></tr><tr><td>Reference</td><td>Book 44 Hadith 249</td></tr></tbody></table></div>
 

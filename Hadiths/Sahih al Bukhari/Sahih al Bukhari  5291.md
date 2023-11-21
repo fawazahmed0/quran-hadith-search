@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Ibn 'Umar added:"When the period of four months has expired, the husband should 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Al Laits] dari [Nafi'] bahwa [Ibnu Umar] radliallahu 'anhuma berkata tentang Al 'Iila' dimana Allah telah menyebutkan bahwa tidak halal lagi bagi seseroang setelah masa iddah habis kecuali ia menahannya dengan cara yang ma'ruf atau ia menceraikannya sebagaimana yang diperintahkan Allah 'azza wajalla. [Isma'il] berkata kepadaku; Telah menceritakan kepadaku [Malik] dari [Nafi'] dari [Ibnu Umar] ia berkata; Apabila empat bulan telah berlalu, ia dihadapkan hingga ia menceraikannya. Dan perceraian itu tidak sah kecuali setelah ia benar-benar menceraikannya. Hal itu disebutkan dari Utsman, Ali, Abu Darda', 'Aisyah, dan dua belas orang dari sahabat Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5291</td></tr><tr><td>Arabic No</td><td>5291</td></tr><tr><td>Reference</td><td>Book 68 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5291</td></tr><tr><td>Arabic No</td><td>5291</td></tr><tr><td>Reference</td><td>Book 68 Hadith 40</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Abul Qasim (the Prophet (ﷺ) ) said, "There is an hour (o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5294</td></tr><tr><td>Arabic No</td><td>5294</td></tr><tr><td>Reference</td><td>Book 68 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что однажды Абу аль-Касим ﷺ сказал: «В пятничный день есть час, в который если мусульманин, выстаивающий молитву, попросит у Аллаха блага, то Он обязательно дарует ему это». После чего он сделал рукой знак, положив фалангу пальца на ладонь между средним пальцем и мизинцем, желая указать, что этот промежуток времени крайне мал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5294</td></tr><tr><td>Arabic No</td><td>5294</td></tr><tr><td>Reference</td><td>Book 68 Hadith 43</td></tr></tbody></table></div>
 

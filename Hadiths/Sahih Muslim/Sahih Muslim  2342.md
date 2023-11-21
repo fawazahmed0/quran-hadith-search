@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Laits] dari [Sa'id bin Abu Sa'id] dari [Sa'id bin Yasar] bahwa ia mendengar [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak seorang pun yang menyedekahkan hartanya yang halal -yang mana Allah memang tidak akan menerima kecuali yang baik- melainkan Allah akan menerimanya dengan tangan kanan-Nya, meskipun sedekahnya itu hanya sebutir kurma. Maka kurma itu akan bertambah besar di tangan Allah Yang Maha Pengasih, sehingga menjadi lebih besar daripada gunung, sebagaimana halnya kamu memelihara anak kambing dan anak unta (yang semakin lama semakin besar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2342</td></tr><tr><td>Arabic No</td><td>1014.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда кто-либо подаёт милостыню равную (по цене) финику из имущества, приобретенного благим путём, а Аллах не принимает ничего, кроме благого, Милостивый берёт её Своей правой Рукой. Она растёт в ладони Милостивого, пока не становится размером больше горы, подобно тому, как любой из вас растит своего жеребёнка или верблюжонка»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2342</td></tr><tr><td>Arabic No</td><td>1014.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 79</td></tr></tbody></table></div>
 

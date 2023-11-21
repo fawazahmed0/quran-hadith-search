@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The word 'Al-Kauthar' means the abundant good which Allah ga
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru bin Muhammad] telah menceritakan kepada kami [Husyaim] Telah mengabarkan kepada kami [Abu Bisyr] dan ['Atho' bin Saib] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] radliyallahu'anhu mengatakan; 'Kautsar adalah sekian banyak kebaikan yang Allah berikan kepada Muhammad.' Abu Bisyr berkata; saya bertanya kepada Sa'id; 'banyak orang beranggapan bahwa al kautsar adalah nama sungai di surga.' Sa'id menjawab; 'Sungai di surga hanyalah satu diantara sekian banyak kebaikan yang Allah berikan kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6578</td></tr><tr><td>Arabic No</td><td>6578</td></tr><tr><td>Reference</td><td>Book 81 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Са‘ида ибн Джубейра, что Ибн ‘Аббас, да будет доволен им Аллах, сказал: «Аль-Каусар — это многочисленные блага, которые Аллах даровал ему (Пророку ﷺ)».\nАбу Бишр сказал: «Я сказал Са‘иду ибн Джубейру: “Но люди утверждают, что это река в Раю”. Са’ид ответил: “Река в Раю — это часть блага, которое Аллах даровал ему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6578</td></tr><tr><td>Arabic No</td><td>6578</td></tr><tr><td>Reference</td><td>Book 81 Hadith 166</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asma' reported Allah's Messenger (way peace be upon him) as saying (to her):Spen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Amru An Naqid] dan [Zuhair bin Harb] dan [Ishaq bin Ibrahim] semuanya dari [Abu Mu'awiyah] - [Zuhair] berkata- telah menceritakan kepada kami [Muhammad bin Hazim] telah menceritakan kepada kami [Hisyam bin Urwah] dari [Abbad bin Hamzah] dan dari [Fathimah binti Al Mundzir] dari [Asma'] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bersedekahlah kamu dan jangan menghitung-hitung, karena Allah akan menghitung-hitung pula pemberian-Nya kepadamu. Dan janganlah kikir, karena Allah akan kikir pula kepadamu." Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Muhammad bin Bisyr] telah menceritakan kepada kami [Hisyam] dari [Abbad bin Hamzah] dari [Asma'] bahwa Nabi shallallahu 'alaihi wasallam bersabda kepadanya, sebagaimana hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>1029.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Асма сказала: «Посланник Аллаха ﷺ сказал: “Раздавай (милостыню) и не подсчитывай, а иначе Аллах лишит тебя (излишков твоего имущества), и не откладывай (на хранение), а иначе Аллах спрячет (то, что предназначено) для тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>1029.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 113</td></tr></tbody></table></div>
 

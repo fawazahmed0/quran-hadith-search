@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Verse: 'Neither say your prayer aloud, nor say it in a low t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Malik bin Su'air] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] mengenai firman Allah; "... Dan janganlah kamu mengeraskan suaramu dalam shalatmu dan janganlah pula merendahkannya..." QS Al Isra'; 110. ayat ini di turunkan mengenai do'a
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6327</td></tr><tr><td>Arabic No</td><td>6327</td></tr><tr><td>Reference</td><td>Book 80 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аиша, да будет доволен ею Аллах, о [смысле] слов Всевышнего «И не произноси [слова] своей молитвы ни [слишком] громко, ни [слишком] тихо» (сура «аль-Исра», 110 аят), сказала: «(Этот аят) был ниспослан об обращении к Аллаху с мольбой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6327</td></tr><tr><td>Arabic No</td><td>6327</td></tr><tr><td>Reference</td><td>Book 80 Hadith 24</td></tr></tbody></table></div>
 

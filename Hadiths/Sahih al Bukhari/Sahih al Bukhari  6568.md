@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Um (the mother of) Haritha came to Allah's Messenger (ﷺ) after H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6568</td></tr><tr><td>Arabic No</td><td>6568</td></tr><tr><td>Reference</td><td>Book 81 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Пророк ﷺ добавил: «Одно утро или вечер, проведённые на пути Аллаха, лучше мира этого со всем тем, что в нём есть! И место в Раю (, которого достаточно всего лишь для) лука или пяди любого из вас, лучше мира этого со всем тем, что в нём есть! И если бы одна женщина из числа обитателей Рая появилась перед жителями земли, она озарила бы собой (всё пространство между небом и землёй) и наполнила бы его своим ароматом, а её головной убор лучше мира этого со всем тем, что в нём есть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6568</td></tr><tr><td>Arabic No</td><td>6568</td></tr><tr><td>Reference</td><td>Book 81 Hadith 156</td></tr></tbody></table></div>
 

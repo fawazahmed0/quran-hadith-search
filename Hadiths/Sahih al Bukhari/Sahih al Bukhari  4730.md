@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "On the Day of Resurr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] Telah menceritakan kepada kami [Bapakku] Telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepada kami [Abu Shalih] dari [Abu Sa'id Al Khudri radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Kematian didatangkan pada hari kiamat seperti kambing kelabu. Kemudian dikatakan: Wahai penduduk surga! maka mereka melihat dengan mendongak, lalu dikatakan; apa kalian mengetahui ini? mereka menjawab: 'Ya, itu adalah kematian.' Dan semuanya telah melihatnya. kemudian dikatakan kepada penduduk neraka: 'Wahai penghuni neraka, apa kalian mengetahui ini? ' Mereka melihat dengan mendongak, mereka menjawab: 'Ya, ' itu adalah kematian.' Dan semuanya telah melihatnya. Lalu kematian itu disembelih. Setelah itu dikatakan: 'Wahai penduduk surga, kekal tidak ada ada kematian dan wahai penduduk neraka, kekal tidak ada kematian'." Setelah itu beliau membaca: "Dan berilah mereka peringatan tentang hari penyesalan, (yaitu) ketika segala perkara telah diputus dan mereka dalam kelalaian dan mereka tidak (pula) beriman." (Maryam: 39). Merekalah penduduk dunia yang lalai dan mereka tidak beriman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4730</td></tr><tr><td>Arabic No</td><td>4730</td></tr><tr><td>Reference</td><td>Book 65 Hadith 252</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «(В День воскресения) приведут смерть в виде чёрно-белого барана, и глашатай возгласит: “О обитатели рая!” — а они станут вытягивать шеи и смотреть (в его сторону). Тогда он спросит: “Знаете ли вы, что это?” Они ответят: “Да, это смерть”, и все они увидят её. После этого (снова) будет возглашено: “О обитатели огня!” — а они станут вытягивать шеи и смотреть (в его сторону). Тогда (глашатай) спросит: “Знаете ли вы, что это?” Они ответят: “Да, это смерть”, и все они увидят её, после чего (этого барана) зарежут, а (глашатай) скажет: “О обитатели рая(, вы пребудете в раю) вечно и не (вкусите) смерти! О обитатели огня(, вы пребудете в огне) вечно и не (вкусите) смерти!” (Сказав же это, Посланник Аллаха ﷺ начал) читать (аят, в котором сказано): “И предупреди их о Дне скорби, когда всё будет решено, (ведь) они беспечны…”, (а потом Пророк ﷺ сказал): “Теми, кто проявляет беспечность, являются живущие в мире этом”, (после чего закончил чтение аята, сказав): “…и они не веруют!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4730</td></tr><tr><td>Arabic No</td><td>4730</td></tr><tr><td>Reference</td><td>Book 65 Hadith 252</td></tr></tbody></table></div>
 

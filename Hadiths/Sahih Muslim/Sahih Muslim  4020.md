@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Zubair heard Jabir b. 'Abdullah (Allah be pleased with him) saying:Allah's M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4020</td></tr><tr><td>Arabic No</td><td>1572</td></tr><tr><td>Reference</td><td>Book 22 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают, что Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «(Сначала) Посланник Аллаха ﷺ велел нам убивать собак, и даже когда из пустыни приходила женщина со своей собакой, мы уби­вали её (собаку). А потом Пророк ﷺ запретил нам убивать их и сказал: “Вам следует (убивать только) совершенно чёрных собак с двумя (белыми) пят­нами (над глазами, ибо), поистине, (каждая такая собака) шайтан”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4020</td></tr><tr><td>Arabic No</td><td>1572</td></tr><tr><td>Reference</td><td>Book 22 Hadith 59</td></tr></tbody></table></div>
 

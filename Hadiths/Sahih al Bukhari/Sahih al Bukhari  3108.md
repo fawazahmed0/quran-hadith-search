@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:'Aisha brought out to us a patched wool Len garment, and she 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami ['Abdul Wahhab] telah bercerita kepada kami [Ayyub] dari [Humaid bin Hilal] dari [Abu Burdah] berkata; " ['Aisyah] radliallahu 'anhu mengeluarkan (memperlihatkan) kepada kami sepotong baju yang sudah lusuh lalu berkata; "Saat mengenakan baju inilah nyawa Nabi Shallallahu'alaihiwasallam dicabut". Dan [Sulaiman] menambahkan dari [Humaid] dari [Abu Burdah] berkata; " ['Aisyah] radliallahu 'anhu mengeluarkan (memperlihatkan) kepada kami selembar kain selimut yang tebal yang dibuat di negeri Yaman dan sepotong baju". Dari sinilah kami menyebutnya sebagai baju muballadah (yang sudah lusuh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3108</td></tr><tr><td>Arabic No</td><td>3108</td></tr><tr><td>Reference</td><td>Book 57 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) ‘Аиша, да будет доволен ею Аллах, достала грубую кису и сказала: «Пророк ﷺ был (одет) в это, когда (Аллах) забрал его душу».\nВ другой версии (этого хадиса) сообщается, что она достала грубый изар из тех, что делаются в Йемене, и такую кису, которую люди называют “муляббада”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3108</td></tr><tr><td>Arabic No</td><td>3108</td></tr><tr><td>Reference</td><td>Book 57 Hadith 17</td></tr></tbody></table></div>
 

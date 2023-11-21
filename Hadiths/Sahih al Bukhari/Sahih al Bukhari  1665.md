@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:During the Pre-Islamic period of Ignorance, the people used to pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Farwah bin Abu Al Maghra'] telah menceritakan kepada kami ['Ali bin Mushir] dari [Hisyam bin 'Urwah], ['Urwah] berkata: "Pada masa Jahiliyah orang-orang melakukan thawaf dengan telanjang kecuali Al Humus dan istilah Al Humus adalah orang-orang Quraisy dan keturunan mereka. Dahulu Al Humus membeda-bedakan manusia, diantara kaum lelakinya ada yang memberi pakaian kepada kaum lelaki sehingga dia thawaf mengenakan pakaian, begitu juga diantara wanitanya memberi pakaian kepada para wanita sehingga dia thawaf dengan pakaian itu. Sedangkan bagi orang yang tidak diberi pakaian oleh Al Humus (quraisy) maka dia thawaf dengan telanjang. Rambongan orang-orang biasanya bertolak dari 'Arafah sedangkan Al Humus (quraisy) dari Jama', atau Muzdalifah. Dia berkata; bapakku telah mengabarkan kepada saya dari ['Aisyah radliallahu 'anha] bahwa ayat ini (QS Al Baqarah ayat 199) turun tentang Al Humus (yang artinya): ("Kemudian bertolaklah kamu dari tempat bertolaknya orang banyak"). 'Urwah berkata: "Awalnya mereka selalu bertolak dari Jama', kemudian diperintahkan bertolak dari 'Arafah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1665</td></tr><tr><td>Arabic No</td><td>1665</td></tr><tr><td>Reference</td><td>Book 25 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва сказал: «Во времена доисламского невежества, люди совершали таваф обнажёнными, за исключением “хумсов”. А “хумсы” — это курайшиты и их потомки. И “хумсы” давали людям свою одежду, чтобы они совершали таваф в ней: мужчины давали мужчинам, женщины — женщинам. Те же, кому “хумсы” не давали одежду, совершали таваф голыми. Когда все люди отправлялись в путь из ‘Арафата, “хумсы” отправлялись из Муздалифы». Затем он сказал: «Мой отец рассказал мне, от ‘Аиши, да будет доволен ею Аллах, что это аят был ниспослан в отношении “хумсов”: “Затем отправляйтесь оттуда, откуда отправляются остальные люди”. (сура “аль-Бакара”, аят 199)». ‘Урва добавил: «Они отправлялись в путь из Муздалифы, и им было велено делать это из ‘Арафата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1665</td></tr><tr><td>Arabic No</td><td>1665</td></tr><tr><td>Reference</td><td>Book 25 Hadith 146</td></tr></tbody></table></div>
 

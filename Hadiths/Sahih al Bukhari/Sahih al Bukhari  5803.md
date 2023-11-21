@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:A man said, "O Allah's Messenger (ﷺ). What type o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa seorang laki-laki berkata; "Wahai Rasulullah, pakaian yang bagaimanakah yang dikenakan oleh orang yang berihram?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Ia tidak boleh memakai gamis (jubah), surban, celana panjang, baju panjang yang bertutup kepala, dan tidak memakai sepatu kecuali bagi orang yang tidak mendapatkan dua sandal, hendaknya ia memakai sepatu dan memotongnya hingga dibawah kedua mata kaki, dan janganlah kalian mengenakan pakaian yang dicampur dengan minyak za'faron dan tidak pula wars (sejenis tumbuhan yang berwarna kuning atau kunyit)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5803</td></tr><tr><td>Arabic No</td><td>5803</td></tr><tr><td>Reference</td><td>Book 77 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, что один человек спросил: «О Посланник Аллаха! Что должен надевать на себя (паломник, желающий) облачиться в ихрам?» И Посланник Аллаха ﷺ ответил: «Вам не следует надевать ни рубаху, ни чалму, ни брюки, ни бурнус, ни носки, если же кто-то не найдёт сандалии, пусть оденет кожаные носки, обрезав их так, чтобы верхние края не доходили до щиколоток. И вам не следует надевать одежду, на которую нанесён шафран или уарс (один из видов благовоний)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5803</td></tr><tr><td>Arabic No</td><td>5803</td></tr><tr><td>Reference</td><td>Book 77 Hadith 21</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (que Dieu l'agrée) a dit : 'Umm Sulaym a dit : "Ô Envoyé de Dieu! Anas e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] Aku mendengar [Qatadah] bercerita dari [Anas] dari [Ummu Sulaim] dia berkata; 'Ya Rasulullah, ini Anas pembantumu, do'akanlah ia! Maka beliau berdo'a: "Ya Allah perbanyaklah harta dan anaknya serta berkahilah atas apa yang telah Engkau berikan kepadanya." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Abu Dawud]; Telah menceritakan kepada kami [Syu'bah]; dari [Qatadah] Aku mendengar [Anas] berkata; [Ummu Sulaim] berkata; 'Ya Rasulullah shallallahu 'alaihi wasallam, ini Anas pembantumu….-dan seterusnya dengan Hadits yang serupa.- Telah menceritakan kepada kami [Muhammad bin Basysyar]; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Hisyam bin Zaid] Aku mendengar [Anas bin Malik] berkata; … -dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6372</td></tr><tr><td>Arabic No</td><td>2480.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6372</td></tr><tr><td>Arabic No</td><td>2480.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 202</td></tr></tbody></table></div>
 

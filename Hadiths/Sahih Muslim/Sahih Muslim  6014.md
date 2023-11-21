@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported Allah's Messenger (ﷺ) as saying:I served the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Basyar] Telah menceritakan kepada kami [Zakaria] Telah menceritakan kepadaku [Sa'id] yaitu Ibnu Abu Burdah dari [Anas] dia berkata; "Aku melayani Rasulullah shallallahu 'alaihi wasallam selama sembilan tahun, sama sekali tidak pernah aku dapatkan beliau menegurku dengan; 'Kenapa kamu lakukan ini dan ini.' Dan sama sekali beliau tidak pernah mencelaku sedikitpun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6014</td></tr><tr><td>Arabic No</td><td>2309.04</td></tr><tr><td>Reference</td><td>Book 43 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6014</td></tr><tr><td>Arabic No</td><td>2309.04</td></tr><tr><td>Reference</td><td>Book 43 Hadith 73</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Nubayshah: The Prophet (ﷺ) said: We forbade you to eat their meat for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yazid bin Zurai'], telah menceritakan kepada kami [Khalid Al Hadzdza'] dari [Abu Al Malih], dari [Nubaisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya dahulu kami telah melarang kalian dari memakan daging kurban di atas tiga hari agar mencukupi kalian. Allah telah memberikan keluasan, maka dan simpanlah serta juallah! Ketahuilah bahwa hari-hari ini adalah hari-hari makan dan minum serta berdzikir kepada Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2813</td></tr><tr><td>Arabic No</td><td>2813</td></tr><tr><td>Reference</td><td>Book 16 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Нубайши, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Мы запретили вам есть их мясо больше трёх дней, дабы всем хватило. Но Аллах даровал изобилие, и теперь ешьте, запасайте и раздавайте в качестве милостыни, стремясь к награде. Эти дни дни еды, питья и поминания Всемогущего и Великого Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2813</td></tr><tr><td>Arabic No</td><td>2813</td></tr><tr><td>Reference</td><td>Book 16 Hadith 26</td></tr></tbody></table></div>
 

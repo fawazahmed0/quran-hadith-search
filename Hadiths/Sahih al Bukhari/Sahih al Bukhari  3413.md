@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "No slave (of Allah) should say that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hafsh bin 'Umar] telah bercerita kepada kami [Syu'bah] dari [Qatadah] dari [Abu Al 'Aliyah] dari [Ibnu 'Abbas radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Tidak patut bagi seorang hamba berkata bahwa aku (Muhammad shallallahu 'alaihi wasallam) lebih baik dari pada Yunus bin Matta 'alaihi salam". Beliau menisbatkan pada bapaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3413</td></tr><tr><td>Arabic No</td><td>3413</td></tr><tr><td>Reference</td><td>Book 60 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что (однажды) Пророк ﷺ сказал: «Не следует (ни одному) рабу (Аллаха) говорить, что я лучше, чем Йунус бин Матта», упомянув наряду с (Йунусом) и имя его отца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3413</td></tr><tr><td>Arabic No</td><td>3413</td></tr><tr><td>Reference</td><td>Book 60 Hadith 86</td></tr></tbody></table></div>
 

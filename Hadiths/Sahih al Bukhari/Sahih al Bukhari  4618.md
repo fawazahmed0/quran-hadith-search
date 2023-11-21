@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Some people drank alcoholic beverages in the morning (of the day)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Fadll] Telah mengabarkan kepada kami [Ibnu 'Uyainah] dari ['Amru] dari [Jabir] dia berkata; Beberapa orang yang berangkat ke Uhud meminum khamr diwaktu pagi, lalu mereka terbunuh semua sebagai syahid, hal itu terjadi sebelum pengharamanan khamr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4618</td></tr><tr><td>Arabic No</td><td>4618</td></tr><tr><td>Reference</td><td>Book 65 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Утром в день битвы при Ухуде некоторые люди пили опьяняющие напитки, затем они были убиты за веру (будучи шахидами), и это было до запрета опьяняющих напитков»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4618</td></tr><tr><td>Arabic No</td><td>4618</td></tr><tr><td>Reference</td><td>Book 65 Hadith 140</td></tr></tbody></table></div>
 

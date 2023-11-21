@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Aqua':The Prophet (ﷺ) said, "Whoever has slaughtered a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Yazid bin Abu 'Ubaid] dari [Salamah bin Al Akwa'] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Siapa saja di antara kalian yang berkurban, janganlah menyisakan daging kurban di rumahnya melebihi tiga hari." Pada tahun berikutnya orang-orang bertanya; "Wahai Rasulullah, apakah kami harus melakukan sebagaimana yang kami lakukan pada tahun lalu?" beliau bersabda: "Makanlah daging kurban tersebut dan bagilah sebagiannya kepada orang lain serta simpanlah sebagian yang lain, sebab tahun lalu orang-orang dalam keadaan kesusahan, oleh karena itu saya bermaksud supaya kalian dapat membantu mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5569</td></tr><tr><td>Arabic No</td><td>5569</td></tr><tr><td>Reference</td><td>Book 73 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма ибн аль-Аква‘, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал: “Через три (дня) в доме того из вас, кто принесёт жертву, ни в коем случае ничего не должно оставаться!” На следующий год (люди) спросили: “О Посланник Аллаха, (следует) ли нам поступить так же, как и в прошлом году?” — и (на этот раз) он сказал: “Ешьте, кормите и запасайтесь, ибо, поистине, (прошлый) год был для людей тяжёлым, и я хотел, чтобы вы помогли (нуждающимся)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5569</td></tr><tr><td>Arabic No</td><td>5569</td></tr><tr><td>Reference</td><td>Book 73 Hadith 25</td></tr></tbody></table></div>
 

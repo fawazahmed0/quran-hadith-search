@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [al-Hasan bin Musa] telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dia berkata, telah menceritakan kepada kami [Mu'aiqib] bahwa Rasulullah Shallallahu'alaihiwasallam telah bersabda tentang seorang laki-laki yang meratakan debu pada tempat dia bersujud, "Jika kamu harus melakukannya, maka cukup sekali saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1222</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Му‘айкыба, что, (увидев, как один) человек выравнивает перед собой землю во время совершения земных поклонов, Посланник Аллаха ﷺ сказал: «Если тебе это (необходимо) сделать, то (делай только) один раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1222</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

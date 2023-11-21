@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) came to 'Abdullah bin Ubai 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] berkata, ['Amru]; Aku mendengar [Jabir bin 'Abdullah radliallahu 'anhua] berkata, Rasulullah Shallallahu'alaihiwasallam mendatangi 'Abdullah bin Ubay setelah dimasukkan kedalam kuburnya, lalu Beliau memerintahkan untuk mengeluarkannya. Maka jenazahnya dikeluarkan dan diletakkan di kedua paha Beliau kemudian Beliau menyempratkan dengan air ludah Beliau dan memakaikan baju qamis (gamis) Beliau. Dan Allah yang lebih mengetahui. Sebelumnya Beliau pernah memakaikan (memberi) baju kepada 'Abbas. Berkata, [Sufyan] dan berkata, [Abu Harun Yahya]: "Bahwa Rasulullah Shallallahu'alaihiwasallam memiliki dua gamis". Maka putra 'Abdullah bertanya kepada Beliau: "Wahai Rasulullah, pakaikanlah bapakku dengan gamis anda yang telah mengenai kulit anda". Sufyan berkata,: "Mereka memandang Nabi Shallallahu'alaihiwasallam memakaikan baju Beliau kepada 'Abdullah sebagai hadiah yang sama seperti yang Beliau lakukan (terhadap 'Abbas)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1350</td></tr><tr><td>Arabic No</td><td>1350</td></tr><tr><td>Reference</td><td>Book 23 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ пришёл к (могиле) ‘Абдуллаха ибн Убеййа уже после того, как (тело) было опущено в могилу, и приказал вытащить его оттуда. После того как его вынули, он положил его тело на свои колени, поплевал на него небольшим количеством слюны и одел на него свою рубаху, Аллах знает лучше (почему он так поступил), но ‘Абдуллах ибн Убей одел, в свое время ‘Аббаса в свою рубашку». \nАбу Харун сказал: «У Посланника Аллаха ﷺ было две рубашки и сын ‘Абдуллаха сказал ему: “О, Посланник Аллаха! Одень моего отца в свою рубашку, которая соприкасалась с твоей кожей”». \nСуфьян добавил: «Люди считают, что Пророк ﷺ одел ‘Абдуллаха в свою рубашку взамен того, что он сделал (для ‘Аббаса)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1350</td></tr><tr><td>Arabic No</td><td>1350</td></tr><tr><td>Reference</td><td>Book 23 Hadith 104</td></tr></tbody></table></div>
 

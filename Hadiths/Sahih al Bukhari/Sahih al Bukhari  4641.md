@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "It was said to the children 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] Telah mengabarkan kepada kami ['Abdur Razzaq] Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] bahwasanya aku mendengar [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Dikatakan kepada Bani Israil: 'Masuklah pintu itu dengan keadaan sujud dan Katakanlah: 'Hitthah' (ampunilah dosa-dosa) niscaya Dia mengampuni kesalahan-kesalahan kalian lalu mereka mengganti (lafazh ucapan itu) dan memasuki pintu itu seraya mereka merangkak di atas pantat-pantat mereka dan mereka berkata: 'Habbah (biji) dalam tepung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4641</td></tr><tr><td>Arabic No</td><td>4641</td></tr><tr><td>Reference</td><td>Book 65 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Сынам Исраиля было сказано: “И войдите через врата, поклонившись, и говорите: “Прости! /Хиттатун!/” Мы простим ваши прегрешения…” (сура “аль-А’раф”, аят 161), однако вместо этого они вошли ползком на своих ягодицах и стали говорить: “Хаббатун” — это зерно (пшеницы) в колосе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4641</td></tr><tr><td>Arabic No</td><td>4641</td></tr><tr><td>Reference</td><td>Book 65 Hadith 163</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Malik at-Ash'ari reported:The Messenger of Allah (ﷺ) said: Cleanliness is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami [Habban bin Hilal] telah menceritakan kepada kami [Aban] telah menceritakan kepada kami [Yahya] bahwa [Zaid] telah menceritakan kepadanya, bahwa [Abu Sallam] telah menceritakan kepadanya dari [Abu Malik al-Asy'ari] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Bersuci adalah setengah dari iman, alhamdulillah memenuhi timbangan, subhanallah dan alhamdulillah keduanya memenuhi, atau salah satunya memenuhi apa yang ada antara langit dan bumi, shalat adalah cahaya, sedekah adalah petunjuk, kesabaran adalah sinar, dan al-Qur'an adalah hujjah untuk amal kebaikanmu dan hujjah atas amal kejelekanmu. Setiap manusia adalah berusaha, maka ada orang yang menjual dirinya sehingga membebaskannya atau menghancurkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>223</td></tr><tr><td>Reference</td><td>Book 2 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Малик аль-Аш‘ари, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: Очищение половина веры, (слова) “Хвала Аллаху” /Альхамду лиЛляхи/ заполняют собой Весы, (слова) “Пречист Аллах и хвала Аллаху” /СубханаЛлахи валь-хамду лиЛляхи/ заполняют собой (пространство) между небесами и землёй, молитва свет, милостыня/садакъа/ доказательство, терпение сияние, а Коран аргумент за тебя или против тебя. Все люди отправляются утром (по своим делам), и продающий душу свою либо освобождает её, либо губит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>223</td></tr><tr><td>Reference</td><td>Book 2 Hadith 1</td></tr></tbody></table></div>
 

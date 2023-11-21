@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama reported:While I was lying with the Messenger of Allah (ﷺ) in a bed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Muadz bin Hisyam] telah menceritakan kepadaku [Bapakku] dari [Yahya bin Abu Katsir] telah menceritakan kepada kami [Abu Salamah bin Abdurrahman] bahwa [Zainab binti Ummu Salamah] telah menceritakan kepadanya, bahwa [Ummu Salamah] telah menceritakan kepadanya, dia berkata, "Ketika aku berbaring bersama Rasulullah shallallahu 'alaihi wasallam dalam satu selimut, tiba-tiba aku haid, lantas aku keluar secara perlahan-lahan untuk mengambil pakaian khas untuk masa haid. Maka Rasulullah shallallahu 'alaihi wasallam bertanya kepadaku: 'Apakah kamu sedang haid? ' Aku menjawab, 'Ya'. Lalu beliau memanggilku, lalu aku berbaring lagi bersama beliau dalam satu selimut." Zainab berkata, "Ummu Salamah dan Rasulullah shallallahu 'alaihi wasallam mandi besar dengan menggunakan satu wadah air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>683</td></tr><tr><td>Arabic No</td><td>296</td></tr><tr><td>Reference</td><td>Book 3 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма сказала: «(Однажды), когда мы вместе с Посланником Аллаха ﷺ лежали, укрывшись куском плотной ткани, у меня начались месячные. Я потихоньку покинула (его), взяв с собой одежду, которую надевала в подобных случаях, (а когда вернулась), Посланник Аллаха ﷺ спросил меня: “У тебя начались месячные?” Я ответила: “Да”. Тогда он подозвал меня, и я (снова) легла с ним и (укрылась) той же тканью».(Умм Саляма также) сказала, что она часто совершала полное омовение после большого осквернения вместе с Посланником Аллаха ﷺ, и они набирали воду из одного сосуда
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>683</td></tr><tr><td>Arabic No</td><td>296</td></tr><tr><td>Reference</td><td>Book 3 Hadith 5</td></tr></tbody></table></div>
 

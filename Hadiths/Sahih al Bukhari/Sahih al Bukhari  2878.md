@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) went to the daughter of Milhan and recline
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Mu'awiyah bin 'Amru] telah bercerita kepada kami [Abu Ishaq, dia adalah Al Fazariy] dari ['Abdullah bin 'Abdur Rahman Al Anshoriy] berkata aku mendengar [Anas radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam masuk ke rumah putri dari Milhan kemudian Beliau berbaring disisinya lalu tertawa. Maka putri Milhan bertanya: "Apa yang membuat Tuan tertawa, wahai Rasulullah?" Maka Beliau berkata: "Ada orang-orang dari umatku dimana mereka sebagai pasukan di jalan Allah yang mengarungi lautan yang hijau bagaikan raja-raja di atas singgasana". Lalu dia berkata: "Wahai Rasulullah, berdo'alah kepada Allah agar Dia menjadikan aku termasuk dari mereka". Maka Beliau berdo'a: "Ya Allah jadikanlah dia termasuk diantara mereka". Kemudian Beliau berbaring lagi lalu tertawa kembali. Lalu dia bertanya seperti tadi atau bertanya mengapa Beliau tertawa. Maka Beliau menjelaskan seperti itu pula. Maka dia kembali berkata: "Berdo'alah kepada Allah agar Dia menjadikan aku termasuk dari mereka". Maka Beliau berdo'a: "Ya Allah jadikanlah dia termasuk diantara mereka". Beliau selanjutnya bersabda: "Kamu akan menjadi orang-orang yang pertama dan bukan yang terakhir". Perawi berkata; Anas berkata: "Kemudian wanita tadi menikah dengan 'Ubadah bin Ash-Shomit lalu di kemudian hari dia mengarungi lautan bersama Binti Qarazhoh. Ketika kembali ke daratan dia menunggang hewan tunggangannya lalu hewan itu membantingnya hingga dia terjatuh lalu meninggal dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2878</td></tr><tr><td>Arabic No</td><td>2878</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Однажды Посланник Аллаха ﷺ пришёл к Бинт Мильхан, и заснул, а потом проснулся, смеясь, и она спросила: “Почему ты смеёшься, о Посланник Аллаха?” (В ответ ей Пророк ﷺ) сказал: “Во сне некоторые люди из (числа членов) моей общины были показаны мне как участники военного похода на пути Аллаха, которые сидели посреди зелёного моря как цари, сидящие на тронах”. (Бинт Мильхан) сказала: “О Посланник Аллаха, обратись к Аллаху с мольбой, чтобы Он причислил к ним и меня!” Пророк ﷺ сказал: “О Аллах! Сделай её из их числа!” Затем он заснул и снова проснулся, смеясь, она сказала ему то же самое, и он ответил ей то же самое. Она сказала: “Обратись к Аллаху с мольбой, чтобы Он причислил к ним и меня!” И Посланник Аллаха ﷺ сказал: “Ты из числа первых, а не последних”». Анас сказал: «Позже она вышла замуж за ‘Убаду ибн ас-Самита, а затем отправилась в море вместе с Каразой, (чтобы участвовать в морском походе с Му‘авией). Возвращаясь же оттуда, они села верхом на своё верховое животное, но оно сбросило её, и она упала и умерла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2878</td></tr><tr><td>Arabic No</td><td>2878</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated from Allah's Messenger (ﷺ) through other chains 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] dari [Ibnu 'Uyainah], [Abu Bakar] berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dia berkata; ['Amru] pernah mendengar [Jabir] berkata, "Seorang laki-laki Anshar pernah membebaskan seorang budak miliknya dengan cara dubur, namun dia tidak memiliki harta selain budak tersebut. Lantas Rasulullah shallallahu 'alaihi wasallam menjualkan budak tersebut." Jabir berkata, "Kemudian budak tersebut dibeli oleh Ibnu Nahham. Budak tersebut adalah seorang Qibthi yang meninggal di awal pemerintahan Ibnu Zubair." Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ibnu Rumh] dari [Laits bin sa'd] dari ['Amru bin Dinar] telah menceritakan kepada kami [Al Mughirah] -yaitu Al Hizami- dari [Abdul Majid bin Suhail] dari ['Atha bin Abu Rabah] dari [Jabir bin Abdullah]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abdullah bin Hasyim] telah menceritakan kepada kami [Yahya] -yaitu Ibnu Sa'id- dari [Al Husain bin Dzakwan Al Mu'allim] telah menceritakan kepadaku ['Atha] dari [Jabir]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Mu'adz] telah menceritakan kepadaku [Ayahku] dari [Mathar] dari ['Atha bin Abu Rabah] dan [Abu Zubair] dan ['Amru bin Dinar] bahwa [Jabir bin Abdullah] pernah menceritakan kepada mereka mengenai jual beli budak mudabbar, setiap orang dari mereka berkata, dari Nabi shallallahu 'alaihi wasallam yang semakna dengan hadits Hamamd bin 'Uyainah dari 'Amru dari Jabir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4341</td></tr><tr><td>Arabic No</td><td>997.06</td></tr><tr><td>Reference</td><td>Book 27 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4341</td></tr><tr><td>Arabic No</td><td>997.06</td></tr><tr><td>Reference</td><td>Book 27 Hadith 88</td></tr></tbody></table></div>
 

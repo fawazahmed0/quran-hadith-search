@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: The Prophet (ﷺ) used to seek refuge in Allah fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah] telah menceritakan kepada Kami [Waki'], telah menceritakan kepada Kami [Israil] dari [Abu Ishaq] dari ['Amr bin Maimun] dari [Umar bin Al Khathab], ia berkata; Nabi Shalla Allahu 'alaihi wa sallam pernah berlindung dari lima perkara yaitu dari sifat pengecut, bakhil, umur yang jelek, fitnah hati dan adzab kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1539</td></tr><tr><td>Arabic No</td><td>1539</td></tr><tr><td>Reference</td><td>Book 8 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, что Пророк ﷺ просил у Аллаха защиты от пяти вещей: трусости, скупости, дряхлости, искушений в груди и мучений в могиле
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1539</td></tr><tr><td>Arabic No</td><td>1539</td></tr><tr><td>Reference</td><td>Book 8 Hadith 124</td></tr></tbody></table></div>
 

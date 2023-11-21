@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Akwa':We went out with the Prophet (ﷺ) to Khaibar. A ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Yazid bin Abu 'Ubaid] bekas budak Salamah telah menceritakan kepada kami [Salamah bin Al Akwa'] dia berkata; "Kami pernah keluar bersama Nabi shallallahu 'alaihi wasallam menuju Khaibar seorang anggota pasukan dari suatu Kaum berkata; 'Wahai 'Amir, tidakkah kamu mau memperdengarkan kepada kami sajak-sajakmu? ' Kemudian 'Amir turun sambil menghalau unta dan berkata; 'Demi Allah, kalau bukan karena Allah, maka tidaklah kami akan mendapat petunjuk, kemudian Salamah menyebutkan sajak-sajak tersebut, akan tetapi aku tidak hafal, maka Rasulullah shallallahu 'alaihi wasallam bertanya: 'Siapakah orang yang menghalau unta tadi? ' Mereka menjawab; 'Amir bin Al Akwa'.' Beliau bersabda: 'Semoga Allah merahmatinya.' Lalu seorang anggota pasukan bertanya; 'Alangkah baiknya sekiranya anda menyuruhnya supaya menghibur kami terus.' Ketika pasukan saling berhadapan, maka mereka saling menyerang, ternyata Amir terkena pedangnya sendiri hingga menyebabkan dirinya meninggal. Setelah hari mulai petang, mereka mulai menyalakan api, maka Rasulullah shallallahu 'alaihi wasallam bertanya: 'Nyala api apakah itu? Dan untuk apakah mereka menyalakan api? ' Mereka menjawab; 'Untuk memasak daging keledai jinak.' Maka beliau bersabda: 'Tumpahkanlah dan pecahkanlah.' Lantas ada seorang laki-laki berkata; 'Wahai Rasulullah, tidakkah kami tumpahkan kemudian kami mencucinya? ' Beliau menjawab: 'Atau seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6331</td></tr><tr><td>Arabic No</td><td>6331</td></tr><tr><td>Reference</td><td>Book 80 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Саляма ибн аль-Аква‘, да будет доволен им Аллах, сказал: «Мы выступили (из Медины) на Хайбар вместе с Пророком ﷺ и (как-то раз) один человек сказал: “О ‘Амир, не дашь ли ты нам послушать твои рифмы?” После этого ‘Амир, умевший подгонять своим пением верблюдов, стал читать такие стихи:\nЕсли бы не Ты, не встали бы мы на верный путь…\n(Яхья аль-Каттан сказал:) «И (Язид ибн Абу ‘Убайд) рассказал стих, однако я не запомнил его».\n(Услышав это,) Посланник Аллаха ﷺ спросил: “Кто этот погонщик?” (Люди) ответили: “‘Амир ибн аль-Аква‘”, и (Пророк ﷺ) воскликнул: “Да помилует его Аллах! /Йархаму-ху-Ллах!/” Тогда один человек сказал: “О посланник Аллаха, (мы бы хотели, чтобы ты отложил свою мольбу до другого времени, чтобы) мы могли и дальше наслаждаться его обществом!” Когда (мусульмане) выстроились вряд (против) врагов, они стали сражаться с ними. Тогда ’Амир попал мечом в себя и умер. А вечером того дня, (люди) разожгли множество костров, и Посланник Аллаха ﷺ спросил: “Что это за костры? Зачем вы разжигаете их?” (Люди) сказали: “(Чтобы приготовить) мясо домашних ослов”. Тогда Пророк ﷺ велел: “Вылейте (это варево) и разбейте (котлы)!” Какой-то человек спросил: “О посланник Аллаха, а можно ли нам вылить (похлёбку) и вымыть котлы?” — и он сказал: “Можно и так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6331</td></tr><tr><td>Arabic No</td><td>6331</td></tr><tr><td>Reference</td><td>Book 80 Hadith 28</td></tr></tbody></table></div>
 

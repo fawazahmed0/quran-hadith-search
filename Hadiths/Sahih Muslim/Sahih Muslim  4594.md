@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated by 'Umar b. al-Khattib that he heard the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ad Dlahak bin Makhlad] dari [Ibnu Juraij]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Rafi'] dan ini adalah lafadz dari dia, telah menceritakan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ibnu Juraij] telah menceritakan kepadaku [Abu Az Zubair] bahwa dia pernah mendengar [Jabir bin Abdullah] berkata; telah menceritakan kepadaku [Umar bin Khattab] bahwa dia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh, aku akan mengeluarkan orang-orang Yahudi dan Nashrani dari jazirah arab, hingga tidak ada yang tersisa kecuali orang-orang Muslim." Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Sufyan At tsauri]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'yan] telah menceritakan kepada kami [Ma'qil] -yaitu Ibnu 'Ubadillah- keduanya dari [Abu Az Zubair] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>1767.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>1767.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 75</td></tr></tbody></table></div>
 

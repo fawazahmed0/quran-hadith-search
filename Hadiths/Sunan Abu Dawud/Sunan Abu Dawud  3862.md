@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Kabshah daughter of AbuBakrah: (the narrator other than Musa said that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah mengabarkan kepadaku [Abu Bakrah Bakkar bin Abdul Aziz] telah mengabarkan kepadaku bibiku [Kabsyah binti Abu Bakrah] -dan selain Musa berkata; Ia adalah Kayyisah binti Abu Bakrah-, bahwa [Ayahnya] melarang keluarganya untuk melakukan bekam pada hari Selasa, dan ia mengaku berasal dari Rasulullah shallallahu 'alaihi wasallam bahwa hari Selasa adalah hari yang tubuh banyak mengandung darah, dan tidak terputus (aliran darah dalam pembuluh sangat kuat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3862</td></tr><tr><td>Arabic No</td><td>3862</td></tr><tr><td>Reference</td><td>Book 29 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Кабши (или: Каййиса) бинт Абу Бакры, что её отец, да будет доволен ею Аллах, запрещал членам своей семьи делать кровопускание во вторник, говоря, что Посланник Аллаха ﷺ говорил: «Вторник день крови, и есть в этом дне час, когда она (, если её отворить,) не останавливается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3862</td></tr><tr><td>Arabic No</td><td>3862</td></tr><tr><td>Reference</td><td>Book 29 Hadith 8</td></tr></tbody></table></div>
 

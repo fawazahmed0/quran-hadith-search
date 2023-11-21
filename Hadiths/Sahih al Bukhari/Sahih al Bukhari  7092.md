@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father:The Prophet (ﷺ) stood up beside the pulpit (and pointe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Hisyam bin Yusuf] dari [Ma'mar] dari [Az Zuhri] dari [Salim] dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam, bahwasanya beliau berdiri ke samping minbar dan bersabda: "Fitnah muncul disini, fitnah muncul disini, (yaitu) dimana tempat tanduk setan muncul, " atau beliau mengatakan: "tanduk matahari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7092</td></tr><tr><td>Arabic No</td><td>7092</td></tr><tr><td>Reference</td><td>Book 92 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ встал возле минбара и сказал: «Смута — вот здесь, смута — вот здесь, откуда выходит рог шайтана (или же он сказал: рог солнца)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7092</td></tr><tr><td>Arabic No</td><td>7092</td></tr><tr><td>Reference</td><td>Book 92 Hadith 43</td></tr></tbody></table></div>
 

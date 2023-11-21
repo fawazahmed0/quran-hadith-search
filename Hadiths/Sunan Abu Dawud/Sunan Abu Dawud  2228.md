@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Habibah daughter of Sahl was the wife of Thabit 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ma'mar], telah menceritakan kepada kami [Abu 'Amir Abdul Malik bin 'Amr], telah menceritakan kepada kami [Abu 'Amr As Sadusi Al Madini], dari [Abdullah bin Abu Bakr bin Muhammad bin 'Amr bin Hazm] dari ['Amrah] dari [Aisyah] bahwa Habibah binti Sahl pernah berada di di sisi Tsabit bin Qais bin Syammas, kemudian ia memukulnya dan melukai sebagian tubuhnya. Lalu Habibah datang kepada Rasulullah shallallahu 'alaihi wasallam setelah shalat Subuh dan mengadu kepadanya. Maka Nabi shallallahu 'alaihi wasallam memanggil Tsabit dan berkata: "Ambillah sebagian hartanya dan ceraikan dia!" Kemudian Tsabit berkata; apakah hal tersebut boleh wahai Rasulullah? Beliau berkata: "Ya." Kemudian ia berkata; sesungguhnya saya telah memberinya mahar dua kebun, dan keduanya ada di tangannya. Nabi shallallahu 'alaihi wasallam bersabda: "Ambillah keduanya dan ceraikan dia!" kemudian Tsabit melakukan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2228</td></tr><tr><td>Arabic No</td><td>2228</td></tr><tr><td>Reference</td><td>Book 13 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что Хабиба бинт Сахль была женой Сабита ибн Кайса ибн Шаммаса и он ударил её и что-то сломал ей. После утренней молитвы она пришла к Посланнику Аллаха ﷺ и пожаловалась на мужа. Пророк ﷺ позвал Сабита и сказал ему: «Возьми что-нибудь из её имущества и расстанься с ней». Сабит спросил: «Это дозволено, о Посланник Аллаха?» Он сказал: «Да». Сабит сказал: «Поистине, я дал ей два сада в качестве брачного дара, и сейчас она владеет ими». Пророк ﷺ сказал: «Забери их и расстанься с ней». И он так и сделал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2228</td></tr><tr><td>Arabic No</td><td>2228</td></tr><tr><td>Reference</td><td>Book 13 Hadith 54</td></tr></tbody></table></div>
 

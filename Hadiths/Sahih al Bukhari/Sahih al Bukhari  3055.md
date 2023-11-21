@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar: Umar and a group of the companions of the Prophet (ﷺ) set 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] telah mengabarkan kepadaku [Salim bin 'Abdullah] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa dia mengabarkan kepadanya bahwa 'Umar berangkat bersama rombongan shohabat Nabi Shallallahu'alaihiwasallam beserta Nabi Shallallahu'alaihiwasallam mendatangi Ibnu Shayyad. Mereka mendapatkannya sedang bermain bersama dua anak kecil di dekat benteng Bani Maghalah. Ibnu Shayyad waktu itu sudah hampir baligh dan dia tidak menyadari sesuatupun (kedatangan rombongan) hingga Nabi Shallallahu'alaihiwasallam memukul punggungnya dengan tangan Beliau kemudian Nabi Shallallahu'alaihiwasallam berkata: "Apakah kamu bersaksi bahwa aku ini utusan Allah?". Maka Ibnu Shayyad memandang Beliau dan berkata; "Aku bersaksi bahwa engkau utusan bagi ummat yang ummiy" (buta huruf, tidak melek baca tulis). Kemudian Ibnu Shayyad berkata kepada Nabi Shallallahu'alaihiwasallam; "Apakah kamu bersaksi bahwa aku ini utusan Allah?". Maka Nabi Shallallahu'alaihiwasallam berkata kepadanya: "Aku beriman kepada Allah dan Rosul-rosul-Nya". Nabi Shallallahu'alaihiwasallam melanjutkan: "Bagaimana pemdapatmu?". Ibnu Shayyad berkata; "Telah datang kepadaku orang yang jujur dan pendusta". Nabi Shallallahu'alaihiwasallam berkata: "Urusanmu kacau balau". Nabi Shallallahu'alaihiwasallam berkata: "Sungguh aku meminta kepadamu agar menebak (apa yang aku sembunyikan dalam hatiku) ". Ibnu Shayyad berkata; "Aku tebak itu asap". Nabi Shallallahu'alaihiwasallam berkata: "Hinalah engkau. Kamu tidak bakalan melampaui batas kemampuanmu selaku dukun". 'Umar berkata; "Wahai Rasulullah, biarkanlah aku untuk memenggal lehernya". Maka Nabi Shallallahu'alaihiwasallam berkata: "Jika dia benar, kamu tidak akan dapat menguasainya dan jika dia salah, tidak ada kebaikan membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3055</td></tr><tr><td>Arabic No</td><td>3055</td></tr><tr><td>Reference</td><td>Book 56 Hadith 261</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды ‘Умар, да будет доволен им Аллах, вместе с Пророком ﷺ и несколькими другими сподвижниками отправился к Ибн Саййаду, который (в то время) был близок к совершеннолетию и которого они нашли играющим с другими мальчиками возле укрепления племени бану магаля. Ибн Саййад не замечал (пришедших) до тех пор, пока Пророк ﷺ не ударил его рукой, сказав ему: «Засвидетельствуешь ли ты, что я Посланник Аллаха?» Ибн Саййад посмотрел на него и сказал: «Я свидетельствую, что ты послан к неграмотным», после чего спросил Пророка ﷺ: «А засвидетельствуешь ли ты, что я Посланник Аллаха?» Однако Пророк ﷺ отказался (засвидетельствовать это) и сказал: «Я уверовал в Аллаха и посланников Его!» а потом Пророк ﷺ спросил его: «Что ты видишь?» Ибн Саййад ответил: «Приходит ко мне и правдивый, и лжец». Тогда Пророк ﷺ сказал: «Всё это у тебя спутано!» Затем Пророк ﷺ сказал ему: «Поистине, я приберёг для тебя нечто». Ибн Саййад сказал: «Это “ад-духх…» Тогда Пророк ﷺ сказал: «Заткнись! Тебе никогда не преодолеть своего предела!» (Услышав это,) ‘Умар, да будет доволен им Аллах, сказал: «О Посланник Аллаха, позволь мне отрубить ему голову!» Пророк ﷺ сказал: «Если это он и есть, тебе ни за что с ним не справиться, а если это не он, то убийство его не принесёт тебе блага»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3055</td></tr><tr><td>Arabic No</td><td>3055</td></tr><tr><td>Reference</td><td>Book 56 Hadith 261</td></tr></tbody></table></div>
 

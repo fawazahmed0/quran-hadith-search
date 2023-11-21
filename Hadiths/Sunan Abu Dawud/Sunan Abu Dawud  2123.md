@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas bin Malik:When the Messenger of Allah (ﷺ) married Safiyyah, he s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah], serta [Utsman bin Abu Syaibah], dari [Husyaim] dari [Humaid], dari [Anas bin Malik], ia berkata; tatkala Rasulullah shallallahu 'alaihi wasallam mengambil (menikahi) Shafiyyah beliau tinggal di rumahnya selama tiga hari. Utsman menambahkan; dan ia adalah seorang janda. dan ia berkata; telah menceritakan kepadaku [Husyaim], telah mengabarkan kepada kami [Humaid], telah mengabarkan kepada kami [Anas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2123</td></tr><tr><td>Arabic No</td><td>2123</td></tr><tr><td>Reference</td><td>Book 12 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах, что, когда Посланник Аллаха ﷺ женился на Сафийе, он пробыл с ней три дня. ‘Усман, передавший этот хадис, добавил: «До Посланника Аллаха ﷺ она уже побывала замужем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2123</td></tr><tr><td>Arabic No</td><td>2123</td></tr><tr><td>Reference</td><td>Book 12 Hadith 78</td></tr></tbody></table></div>
 

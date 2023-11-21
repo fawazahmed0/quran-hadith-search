@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:When we conquered Khaibar, we gained neither gold nor silve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4234</td></tr><tr><td>Arabic No</td><td>4234</td></tr><tr><td>Reference</td><td>Book 64 Hadith 272</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Завоевав Хайбар, мы не получили ни золота, ни серебра в качестве военной добычи, но мы получили коров, верблюдов, товары и сады. Затем мы отправились с Посланником Аллаха ﷺ в долину аль-Кура. В то время у Посланника Аллаха ﷺ был раб по имени Мид‘ам, которого ему подарил один человек из бану ад-дыбаб. В то время как это раб разгружал вещи с седла Посланника Аллаха ﷺ, его поразила выпущенная кем-то стрела. Люди сказали: “Поздравляем его с мученической смертью”. Но Посланник Аллаха ﷺ сказал: “Нет, клянусь Тем, в чьей длани находится моя душа, плащ, который он взял из добычи в день Хайбара до его распределения, будет гореть на нем огнём”. Услышав это, какой-то человек принёс один или два ремешка от обуви и сказал: “Это то, что я взял (до распределения)”. На это Посланник Аллаха ﷺ сказал: “Этот ремешок, — или эти два ремешка — из Огня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4234</td></tr><tr><td>Arabic No</td><td>4234</td></tr><tr><td>Reference</td><td>Book 64 Hadith 272</td></tr></tbody></table></div>
 

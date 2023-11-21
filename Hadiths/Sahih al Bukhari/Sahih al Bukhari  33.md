@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: The Prophet (ﷺ) said, "The signs of a hypocrite are thre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman Abu ar Rabi'] berkata, telah menceritakan kepada kami [Isma'il bin Ja'far] berkata, telah menceritakan kepada kami [Nafi' bin Malik bin Abu 'Amir Abu Suhail] dari [bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tanda-tanda munafiq ada tiga; jika berbicara dusta, jika berjanji mengingkari dan jika diberi amanat dia khianat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>33</td></tr><tr><td>Arabic No</td><td>33</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Лицемера отличают собой три признака: когда он рассказывает, то лжёт, когда обещает, то нарушает (своё обещание), а когда ему доверяются, он предаёт»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>33</td></tr><tr><td>Arabic No</td><td>33</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
 

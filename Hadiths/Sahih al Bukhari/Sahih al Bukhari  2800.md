@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Um Haram said, "Once the Prophet (ﷺ) slept in my house
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] berkata telah bercerita kepadaku [Al Laits] telah bercerita kepada kami [Yahya] dari [Muhammad bin Yahya bin Hayyan] dari [Anas bin Malik radliallahu 'anhu] dari [bibinya, Ummu Haram binti Milhan] berkata: Pada suatu hari Nabi shallallahu 'alaihi wasallam tertidur di dekatku kemudian terbangun sambil tersenyum. Lalu aku bertanya: "Apa yang membuat Tuan tertawa?" Beliau bersabda: "Ada orang-orang dari ummatku yang diperlihatkan kepadaku sebagai pasukan perang di jalan Allah dimana mereka mengarungi lautan yang hijau bagaikan raja-raja di atas singgasana". Ummu Haram berkata: "Do'akanlah agar Allah menjadikan aku salah seorang dari mereka". Maka Beliau mendo'akannya. Kemudian Beliau tertidur kembali untuk kedua kalinya dan kembali berbuat seperti sebelumnya. Dan Ummu Haram juga bertanya sebagaimana yang sudah ditanyakannnya dan Beliau pun menjawab sama dengan sebelumnya. Maka Ummu Haram berkata: "Do'akanlah agar Allah menjadikan aku salah seorang dari mereka".. Beliau bersabda: "Kamu akan menjadi diantara orang-orang yang pertama kali". Maka pada suatu masa, Ummu Haram berangkat berperang bersama suaminya 'Ubadah bin ash-Shomit sebagai salah seorang dari Kaum Muslimin yang pertama kali berperang dengan mengarungi lautan bersama Mu'awiah. Setelah selesai dari perang, mereka kembali dan singgah di negeri Syam. Kemudian Ummu Haram diberi hewan untuk ditunggangi namun dia tersungkur jatuh hinga meninggal dunia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2800</td></tr><tr><td>Arabic No</td><td>2800</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что его тётя Умм Харам бинт Мильхан сказала: «Однажды Пророк ﷺ заснул недалеко от меня, а потом проснулся, смеясь, и я спросила: “Почему ты смеёшься?” (В ответ Пророк ﷺ) сказал: “Во сне некоторые люди из (числа членов) моей общины были показаны мне сидящими посреди этого зелёного моря как цари, сидящие на тронах”». (Умм Харам) сказала: «Обратись к Аллаху с мольбой, чтобы Он причислил к ним и меня!» И Посланник Аллаха ﷺ сказал: «Ты из числа первых». Позже она отправилась со своим мужем ‘Убадой ибн ас-Самитом, чтобы участвовать в первом для мусульман морском походе с Му‘авией. Возвращаясь же оттуда, они прибыли в Шам, к ней приблизили верховое животного, чтобы она села на неё, но животное скинула её, и она умерла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2800</td></tr><tr><td>Arabic No</td><td>2800</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

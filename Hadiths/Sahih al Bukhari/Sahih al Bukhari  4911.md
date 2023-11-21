@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:If someone says to his wife, "You are unlawful to me." he mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadlalah] Telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Ibnu Hakim] ia adalah Ya'laa bin Hakim Ats Tsaqafi, dari [Sa'id bin Jubair] bahwa [Ibnu Abbas radliallahu 'anhuma] berkata tentang seorang suami yang mengatakan kepada isterinya 'Engkau haram bagiku', maka ia harus membayar kaffarat sumpah, namun tidak dihitung menceraikannya." Dan Ibnu Abbas juga berkata, "Sesungguhnya pada diri Rasululah terdapat suri tauladan bagi kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4911</td></tr><tr><td>Arabic No</td><td>4911</td></tr><tr><td>Reference</td><td>Book 65 Hadith 431</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Аббас, да будет доволен Аллах им и его отцом, сказал, что тому, кто объявил свою жену запретной для себя, нужно совершить искупление (каффара), затем он прочитал: «В Посланнике Аллаха был прекрасный пример для вас…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4911</td></tr><tr><td>Arabic No</td><td>4911</td></tr><tr><td>Reference</td><td>Book 65 Hadith 431</td></tr></tbody></table></div>
 

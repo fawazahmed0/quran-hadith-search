@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Allah's Messenger (ﷺ) sent his letter to Khusrau
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah bercerita kepada kami [Al Laits] berkata telah bercerita kepadaku ['Uqail] dari [Ibnu Syihab] berkata telah bercerita kepadaku ['Ubaidullah bin 'Abdullah bin 'Uqbah] bahwa ['Abdullah bin 'Abbas] mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam mengutus orang yang membawa surat Beliau kepada Kisra (Raja Persia) lalu dia memerintahkan agar memberikannya kepada pembesar negeri Bahrain dan kemudian pembesar negeri Bahrain pun memerintahkan agar memberikannya kembali kepada Kisra. Setelah membacanya, lalu Kisra membakarnya. Aku menduga bahwa Sa'id bin Al Musayyab berkata: "Kemudian Nabi shallallahu 'alaihi wasallam berdo'a agar Allah mengoyak-oyak (kerajaan mereka) sehancur-hancurnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2939</td></tr><tr><td>Arabic No</td><td>2939</td></tr><tr><td>Reference</td><td>Book 56 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что (в своё время) Посланник Аллаха ﷺ направил (‘Абдуллах ибн Хузафу) со своим посланием, повелев ему вручить это послание владыке Бахрейна, а владыка Бахрейна отправил послание Хосрову, разорвавшему его на мелкие куски после прочтения».(Ибн Шихаб аз-Зухрий) сказал: «Я полагаю, что Са‘ид ибн аль-Мусаййиб сказал: «И Посланник Аллаха ﷺ проклял их, пожелав, чтобы их самих разорвали в клочья»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2939</td></tr><tr><td>Arabic No</td><td>2939</td></tr><tr><td>Reference</td><td>Book 56 Hadith 152</td></tr></tbody></table></div>
 

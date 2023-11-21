@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Shihab reported that Allah's Messenger (ﷺ) went on the expedition of Victo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu At Thahir Ahmad bin Amru bin Sarh] Telah mengabarkan kepada kami [Abdullah bin Wahab] Telah mengabarkan kepada ku [Yunus] dari [Ibnu Syihab] dia berkata; "Setelah Rasulullah shallallahu 'alaihi wasallam berhasil menaklukkan kota Mekkah, beliau pergi dengan pasukannya untuk berperang di Hunain. Dalam peperangan itu Allah memenangkan agama-Nya dan kaum muslimin. Dan Rasulullah shallallahu 'alaihi wasallam memberi Shafwan bin Umayyah seratus ekor ternak, kemudian ditambah dua ratus ekor lagi." [Ibnu Syihab] berkata; Telah menceritakan kepadaku [Sa'id bin Musayyab] bahwa [Shafwan] berkata; 'Demi Allah, Rasulullah shallallahu 'alaihi wasallam telah memberiku hadiah yang banyak sekali. Sebenarnya dahulu beliau adalah orang yang paling saya benci, tetapi karena beliau selalu memberi hadiah kepadaku, sehingga beliau kini adalah orang yang paling saya cintai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6022</td></tr><tr><td>Arabic No</td><td>2313</td></tr><tr><td>Reference</td><td>Book 43 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Шихаб сказал: «Совершив победоносный поход на Мекку, Пророк ﷺ отправился вместе с сопровождавшими его мусульманами в Хунейн, где произошли сражения, в которых Аллах даровал исламу и мусульманам победу. Тогда Посланник ﷺ даровал Сафвану ибн Умеййу сто овец, затем ещё сто, а затем ещё сто. “Клянусь Аллахом, рассказывал Сафван, Посланник Аллаха ﷺ, когда одарил меня вначале, был для меня самым ненавистным человеком. Но он всё одаривал меня и одаривал до тех пор, пока не стал для меня самым любимым человеком»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6022</td></tr><tr><td>Arabic No</td><td>2313</td></tr><tr><td>Reference</td><td>Book 43 Hadith 80</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:While we were sitting with the Prophet (ﷺ) a man came and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Humaid bin 'Abdurrahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata: "Ketika kami sedang duduk bermajelis bersama Nabi shallallahu 'alaihi wasallam tiba-tiba datang seorang laki-laki lalu berkata: "Wahai Rasulullah, binasalah aku". Beliau bertanya: "Ada apa denganmu?". Orang itu menjawab: "Aku telah berhubungan dengan isteriku sedangkan aku sedang berpuasa". Maka Rasulullah shallallahu 'alaihi wasallam bertanya: "Apakah kamu memiliki budak, sehingga kamu harus membebaskannya?". Orang itu menjawab: "Tidak". Lalu Beliau bertanya lagi: "Apakah kamu sanggup bila harus berpuasa selama dua bulan berturut-turut?". Orang itu menjawab: "Tidak". Lalu Beliau bertanya lagi: "Apakah kamu memiliki makanan untuk diberikan kepada enam puluh orang miskin?". Orang itu menjawab: "Tidak". Sejenak Nabi shallallahu 'alaihi wasallam terdiam. Ketika kami masih dalam keadaan tadi, Nabi shallallahu 'alaihi wasallam diberikan satu keranjang berisi kurma, lalu Beliau bertanya: "Mana orang yang bertanya tadi?". Orang itu menjawab: "Aku". Maka Beliau berkata: "Ambillah kurma ini lalu bershadaqahlah dengannya". Orang itu berkata: "Apakah ada orang yang lebih faqir dariku, wahai Rasulullah. Demi Allah, tidak ada keluarga yang tinggal diantara dua perbatasan, yang dia maksud adalah dua gurun pasir, yang lebih faqir daripada keluargaku". Mendengar itu Nabi shallallahu 'alaihi wasallam menjadi tertawa hingga tampak gigi seri Beliau. Kemudian Beliau berkata: "Kalau begitu berilah makan keluargamu dengan kurma ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1936</td></tr><tr><td>Arabic No</td><td>1936</td></tr><tr><td>Reference</td><td>Book 30 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды,) когда мы сидели вместе с Пророком ﷺ к нему пришёл какой-то человек и воскликнул: “О Посланник Аллаха, я погиб!” (Пророк ﷺ) спросил: “Что с тобой (случилось)?” Он сказал: “Я переспал с женой во время поста”. Посланник Аллаха ﷺ спросил: “Есть ли у тебя рабы, чтобы отпустить их на волю?” Он сказал: “Нет”. (Пророк ﷺ) спросил: “А сможешь ли ты поститься два месяца подряд?” Он сказал: “Нет”. (Пророк ﷺ) спросил: “А сможешь ли ты накормить шестьдесят неимущих?” Он сказал: “Нет”».\n(Абу Хурайра, да будет доволен им Аллах,) сказал: «(После этого) Пророк ﷺ (некоторое время хранил молчание), и пока мы находились в подобном положении, ему ﷺ принесли полную фиников корзину из пальмовых листьев. Он спросил: “Где (человек,) задавший вопрос?” Он отозвался: “Я (здесь)”. (Тогда Пророк ﷺ) сказал: “Возьми это и раздай в качестве милостыни”. Этот человек сказал: “(Должен ли я раздать это) тем, кто беднее меня, о Посланник Аллаха? Клянусь Аллахом, нет в пределах Медины семьи беднее моей!” Тогда Пророк ﷺ стал смеяться так, что показались его зубы, а потом сказал: “Накорми ими (членов) своей семьи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1936</td></tr><tr><td>Arabic No</td><td>1936</td></tr><tr><td>Reference</td><td>Book 30 Hadith 43</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b. Khalid al-Juhani, the Companion ot Allah's Messenger (ﷺ), said that Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Sulaiman] -yaitu Ibnu Bilal- dari [Yahya bin Sa'id] dari [Yazid] -bekas budak Al Munba'its- bahwa dia mendengar [Zaid bin Khalid Al Juhani] salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam berkata, "Rasulullah shallallahu 'alaihi wasallam pernah ditanya mengenai barang temuan yang berisi emas atau perak." Maka beliau bersabda: "Kenalilah wadah dan talinya, kemudian umumkanlah selama setahun, apabila pemiliknya tidak datang untuk mengenalinya, maka -untuk sementara waktu- kamu boleh memanfaatkan, dan itu sebagai barang titipan untukmu. Seandainya di suatu hari pemiliknya datang mencari barang tersebut, maka berikanlah barang tersebut kepadanya." Lalu dia bertanya menegani temuan unta, maka beliau balik bertanya kepada dia: "Apa urusanmu dengan unta yang hilang? Biarkanlah unta itu pergi, karena ia membawa sepatu (punya kaki) dan wadah airnya sendiri. Ia dapat mendatangi mata air dan makan dedaunan sampai ia bertemu pemiliknya." Orang itu bertanya lagi mengenai temuan kambing, beliau menjawab: "Ambillah ia, mungkin ia dapat menjadi milikmu atau milik saudaramu atau bahkan menjadi milik serigala." Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Habban bin Hilal] telah menceritakan kepada kami [Hamamd bin Salamah] telah menceritakan kepadaku [Yahya bin Sa'id] dan [Rabi'ah Ar Ra'iy bin Abu Abdurrahman] dari [Yazid] bekas budak Al Munba'its, dari [Zaid bin Khalid Al Juhani], bahwa ada seorang laki-laki yang bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai unta temuan, Rabi'ah menambahkan, "Lalu beliau marah hingga terlihat wajahnya memerah...lalu dia menceritakan hadits tersebut seperti hadits mereka. Dia juga menambahkan, "Jika pemiliknya datang dan mengenali talinya, jumlah serta wadahnya maka berikanlah kepadanya, jika tidak maka itu menjadi milikmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4502</td></tr><tr><td>Arabic No</td><td>1722.05</td></tr><tr><td>Reference</td><td>Book 31 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4502</td></tr><tr><td>Arabic No</td><td>1722.05</td></tr><tr><td>Reference</td><td>Book 31 Hadith 5</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa b. Usaid al-Ghifari reported:Allah's Messenger (ﷺ) came to us all of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Khaitsamah Zuhair bin Harb], [Ishaq bin Ibrahim] dan [Ibnu Abi Umar Al Makki] teks milik Zuhair, berkata Ishaq: telah mengkhabarkan kepada kami, sedangkan yang lain berkata: Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Furat Al Qazzaz] dari [Abu Ath Thufail] dari [Hudzaifah bin Asid Al Ghifari] berkata: Rasulullah Shallallahu 'alaihi wa Salam menghampiri kami saat kami tengah membicarakan sesuatu, beliau bertanya: "Apa yang kalian bicarakan?" Kami menjawab: Kami membicarakan kiamat. Beliau bersabda: "Kiamat tidaklah terjadi hingga kalian melihat sepuluh tanda-tanda sebelumnya." Beliau menyebut kabut, Dajjal, binatang, terbitnya matahari dari barat, turunnya Isa bin Maryam Shallallahu 'alaihi wa Salam, ya'juj dan ma'juj, tiga longsor; longsor di timur, longsor di barat dan longsor di jazirah arab dan yang terakhir adalah api muncul dari Yaman menggiring manusia menuju tempat perkumpulan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7285</td></tr><tr><td>Arabic No</td><td>2901.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Хузайфа ибн Асийд аль-Гъифари сказал: «(Однажды, когда) мы говорили (о Дне воскрешения), к нам подо­шёл Пророк ﷺ и спросил: “О чём вы говорите?” (Люди) сказали: “Мы говорим о (наступлении) Часа этого”. (Тогда Пророк ﷺ) сказал: “Поистине, не настанет он, пока перед (его наступлением) вы не увидите десять знамений”, после чего он упомянул о дыме, Лжеце /ад-Даджжаль/, животном, вос­ходе солнца оттуда, где оно заходит, пришествии ‘Исы, сыне Марьям ﷺ (появлении) Яъджуджа и Маъджуджа, трёх затмениях затмении на востоке, затмении на западе и затмении на Аравийском полуост­рове и, наконец, огне, который выйдет из Йемена и погонит людей к месту их сбора»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7285</td></tr><tr><td>Arabic No</td><td>2901.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 51</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Bahz ibn Hakim reported from his grandfather:(Ibn Qudamah's version has: His gra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Qudamah] dan [Muammal bin Hisyam], [Ibnu Qudamah] berkata; telah menceritakan kepadaku [Isma'il] dari [Bahz bin Hakim] dari [Ayahnya] dari [kakeknya], Ibnu Qudamah berkata, "Sesungguhnya saudaranya atau pamannya, sedangkan Mu'ammal berkata, "Sesungguhnya ia bangkit menemui Nabi shallallahu 'alaihi wasallam saat beliau sedang berkhutbah. Lalu ia berkata, "Karena apa para tetanggaku ditahan?" kemudian beliau berpaling darinya sebanyak dua kali. Kemudian ia menyebutkan sesuatu, lalu Nabi shallallahu 'alaihi wasallam bersabda: "Bebaskanlah para tetangganya!" Namun Mu'ammal tidak menyebutkan lafadz, 'saat beliau sedang berkhutbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3631</td></tr><tr><td>Arabic No</td><td>3631</td></tr><tr><td>Reference</td><td>Book 25 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Бахз ибн Хаким передаёт от своего отца рассказ своего деда о том, что его брат или дядя по отцу поднялся, когда Пророк ﷺ произносил проповедь, и сказал: «Почему задержали моих соседей?» Пророк ﷺ отвернулся от него, но он повторил свои слова дважды и добавил ещё что-то. Тогда Пророк ﷺ сказал: «Отпустите его соседей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3631</td></tr><tr><td>Arabic No</td><td>3631</td></tr><tr><td>Reference</td><td>Book 25 Hadith 61</td></tr></tbody></table></div>
 

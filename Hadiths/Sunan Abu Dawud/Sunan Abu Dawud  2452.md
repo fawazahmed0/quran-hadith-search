@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: Hunaydah al-Khuza'i reported on the author
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb], telah menceritakan kepada kami [Muhammad bin Fudhail], telah menceritakan kepada kami [Al Hasan bin 'Ubaidullah] dari [Hunaidah Al Khuza'i], dari [ibunya], ia berkata; aku menemui [Ummu Salamah], kemudian bertanya kepadanya mengenai puasa. Lalu ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkanku agar berpuasa tiga hari setiap bulan, yang pertama adalah puasa Senin dan Kamis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2452</td></tr><tr><td>Arabic No</td><td>2452</td></tr><tr><td>Reference</td><td>Book 14 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Салямы, да будет доволен ею Аллах: «Посланник Аллаха ﷺ велел мне поститься три дня каждый месяц, начиная с понедельника и четверга»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2452</td></tr><tr><td>Arabic No</td><td>2452</td></tr><tr><td>Reference</td><td>Book 14 Hadith 140</td></tr></tbody></table></div>
 

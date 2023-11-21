@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) mentioned the Masih Ad-Dajjal in front of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Al Mundzir] telah bercerita kepada kami [Abu Dlamrah] telah bercerita kepada kami [Musa] dari [Nafi'] telah berkata ['Abdullah]; "Suatu hari Nabi shallallahu 'alaihi wasallam bercerita di hadapan orang banyak tentang al-Masihud Dajjal, sabda beliau: "Allah tidak buta sebelah, dan Masih Dajjal buta sebelah kanan, seakan matanya seperti buah anggur yang menjorok. Dan ketika aku mimpi juga diperlihatkan disisi Ka'bah seorang laki-laki dalam rupa yang paling baik diantara manusia, rambutnya keriting dan panjang sampai ke bahunya. Kepalanya seakan meneteskan air, ia letakkan kedua tangannya diantara dua pundak laki-laki di sampingnya, dan ia lakukan thawaf (mengelilingi) Ka'bah. Aku bertanya: "Siapakah orang itu?". Mereka berkata: "Dia adalah Al Masih bin Maryam. Kemudian aku melihat di belakangnya ada seseorang berbadan tegap dengan rambut keriting sedangkan mata kanannya buta. Keadaannya seperti orang yang aku lihat sebelumnya yaitu, Ibnu Qathan. Tangannya menggandeng pundak dua orang laki-laki di sebelahnya dan melakukan thawaf di Ka'bah. Aku bertanya: "Siapakah orang itu?". Mereka berkata: "Dia adalah al-Masihud Dajjal". Hadits ini dikuti pula oleh ['Ubaidullah] dari [Nafi]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3440</td></tr><tr><td>Arabic No</td><td>3440</td></tr><tr><td>Reference</td><td>Book 60 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал:\n— Однажды Пророк ﷺ упомянувший среди людей об Антихристе, сказал: «Поистине, Аллах не является кривым, что же касается Антихриста, то он крив на правый глаз, и этот глаз похож на выпуклую виноградину. А когда прошлой ночью я спал у Каабы, то увидел (во сне) смуглого человека, который по виду являлся лучшим среди смуглых людей, волосы же его достигали лопаток. У него были ухоженные волосы, с которых капала вода, и он совершал обход Каабы, положив руки на плечи двух человек. Я спросил: “Кто это?” (Люди) сказали: “Это Христос, сын Марйам”. А потом позади него я увидел кривого на правый глаз человека с курчавыми волосами, который напоминал собой Ибн Катана. Он (также) обходил Каабу, но его руки лежали на плечах одного человека. Я спросил: “Кто это?” — и (мне) ответили: “Антихрист”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3440</td></tr><tr><td>Arabic No</td><td>3440</td></tr><tr><td>Reference</td><td>Book 60 Hadith 110</td></tr></tbody></table></div>
 

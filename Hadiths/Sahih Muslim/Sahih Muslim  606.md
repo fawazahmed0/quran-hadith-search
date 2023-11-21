@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salman reported that it was said to him:Your Apostle (ﷺ) teaches you about eve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Muawiyah] dan [Waki'] dari [al-A'masy]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Yahya bin Yahya] sedangkan lafazh tersebut miliknya. Telah mengabarkan kepada kami [Abu Muawiyah] dari [al-A'masy] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Salman] dia berkata, "Ditanyakan kepadanya, '(Apakah) Nabi kalian telah mengajarkan segala sesuatu hingga adab beristinja? ' 'Abdurrahman berkata, "Salman menjawab, 'Ya. Sungguh dia telah melarang kami untuk menghadap kiblat saat buang air besar, buang air kecil, beristinja' dengan tangan kanan, beristinja' dengan batu kurang dari tiga buah, atau beristinja' dengan kotoran hewan atau tulang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>606</td></tr><tr><td>Arabic No</td><td>262.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сальман передал, что однажды ему сказали: «Ваш Пророк ﷺ научил вас всему и даже тому, как (следует удовлетворять) большую нужду». (Сальман) сказал: «Да, он запрещал нам удовлетворять большую или малую нужду, повернувшись лицом к кибле, подмываться правой рукой, использовать для очищения менее трёх камней и очищаться с помощью экскрементов (навоза) животных или костей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>606</td></tr><tr><td>Arabic No</td><td>262.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 73</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi:Ibn Umar used to offer prayers (Nawafil) at the place where he had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>848</td></tr><tr><td>Arabic No</td><td>848</td></tr><tr><td>Reference</td><td>Book 10 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ сказал: «Ибн Умар совершал (добровольную) молитву на том же месте, на котором совершал обязательную молитву, и так же поступал аль-Касим». \nТак же упоминается от Абу Хурайры, что Пророк ﷺ сказал: «Пусть имам не совершает добровольные молитвы на том же месте, (где совершал обязательную молитву)», однако это не достоверно
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>848</td></tr><tr><td>Arabic No</td><td>848</td></tr><tr><td>Reference</td><td>Book 10 Hadith 240</td></tr></tbody></table></div>
 

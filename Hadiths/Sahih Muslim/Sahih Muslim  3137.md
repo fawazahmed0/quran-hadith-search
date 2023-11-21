@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported:I saw Allah's Apostle (ﷺ) flinging 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibarahim] dan [Ali bin Khasyram] semuanya dari [Isa bin Yunus] - [Ibnu Khasyram] berkata- telah mengabarkan kepada kami [Isa] dari [Ibnu Juraij] telah mengabarkan kepadaku [Abu Zubair] bahwa ia mendengar [Jabir] berkata; "Aku pernah melihat Nabi shallallahu 'alaihi wasallam melempar Jamrah dari atas kendaraan beliau pada hari Nahr (penyembelihan hewan kurban). Beliau bersabda: "Lakukanlah haji kalian, sebab aku tidak tahu, barangkali aku tidak berhaji lagi sesudah hajiku ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>1297</td></tr><tr><td>Reference</td><td>Book 15 Hadith 341</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>1297</td></tr><tr><td>Reference</td><td>Book 15 Hadith 341</td></tr></tbody></table></div>
 

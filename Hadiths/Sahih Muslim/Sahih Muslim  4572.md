@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Salama Ibn Al-'Akwa' (que Dieu l'agrée) : C'était pendant notre expé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Umar bin Yunus Al Hanafi] telah menceritakan kepada kami [Ikrimah bin 'Amar] telah menceritakan kepadaku [Iyyas bin Salamah] telah menceritakan kepadaku [Abu Salamah bin Al Akwa'] dia berkata, "Aku pernah ikut berperang bersama dengan Rasulullah shallallahu 'alaihi wasallam ke wilayah Hawazin. Ketika kami sedang makan siang bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba datang seorang laki-laki yang mengendarai seekor unta yang berwarna merah. Setelah menderumkan unta dan melepaskan tali pengikatnya, laki-laki itu lalu ikut makan bersama kami -dengan melirik kesana kemari- selesai makan, sebagian di antara kami ada yang beristirahat karena meresa lelah setelah beberapa hari berada di atas kendaraanya, terlebih lagi bagi sebagian kami yang berjalan kami, tentunya lebih merasa lelah sekali. Tidak lama kemudian, lelaki itu berjalan keluar menuju kendaraan untanya dengan tergesa-gesa, setelah melepaskan tali ikatnya, ia naik ke atas punggung untanya seraya menariknya agar segera berlari dengan cepat. Tanpa kami sadari, rupanya ada seorang laki-laki lain yang mengendarai seekor unta berwarna kelabu tengah membuntutinya dari belakang. Salamah berkata, "Lantas aku bergegas keluar untuk menyusulnya dari belakang dengan mengendarai seekor unta, kemudian aku mengejarnya hingga aku dekat dengan untanya, hingga ketika aku berada di belakang untanya, aku langsung memegang tali kekang unta tersebut. Ketika aku berhasil menderumkan untanya dan kaki laki-laki tersebut menyentuh tanah, maka aku langsung menghunuskan pedang dan menebasnya hingga ia mati terkapar. Kemudian aku kembali dengan mengendarai unta sambil menuntun unta dan harta benda milik lelaki yang terbunuh itu. Ternyata Rasulullah shallallahu 'alaihi wasallam dan para sahabatnya menyambut kedatanganku, beliau bersabda: "Siapakah yang membunuh laki-laki itu?" para sahabat menjawab, "Ibnu Akwa'." Beliau bersabda: "Dengan demikian, dia berhak mendapatkan seluruh harta orang yang di bunuhnya itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4572</td></tr><tr><td>Arabic No</td><td>1754</td></tr><tr><td>Reference</td><td>Book 32 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4572</td></tr><tr><td>Arabic No</td><td>1754</td></tr><tr><td>Reference</td><td>Book 32 Hadith 53</td></tr></tbody></table></div>
 

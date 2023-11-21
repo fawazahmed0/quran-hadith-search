@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:That Allah's Messenger (ﷺ) used to offer the 'Asr prayer while 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Al Mundzir] telah bercerita kepada kami [Anas bin 'Iyadl] dari [Hisyam] dari [bapaknya] bahwa ['Aisyah radliallahu 'anhu] berkata; "Rasulullah Shallallahu'alaiwasallam pernah melaksanakan shalat 'Ashar sementara matahari (cahayanya) belum berlalu dari kamarnya (rumah 'Aisyah radliallahu 'anhu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3103</td></tr><tr><td>Arabic No</td><td>3103</td></tr><tr><td>Reference</td><td>Book 57 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Посланник Аллаха ﷺ совершал послеполуденную молитву (‘аср), солнечный (свет) всё ещё попадал в её комнату»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3103</td></tr><tr><td>Arabic No</td><td>3103</td></tr><tr><td>Reference</td><td>Book 57 Hadith 12</td></tr></tbody></table></div>
 

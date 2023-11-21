@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Apostle of Allah (ﷺ) said: When any one of you leads 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [al-Mughirah, dan dia adalah Ibnu Abdirrahman al-Hizami] dari [Abu az-Zinad] dari [al-A'raj] dari [Abu Hurairah ra] bahwa Nabi shallallahu'alaihiwasallam bersabda, "Apabila salah seorang dari kalian mengimami manusia, hendaklah kalian meringankannya, karena di antara mereka adalah yang kecil, tua, lemah, dan sakit. Apabila dia shalat sendirian, silahkan dia shalat sekehendaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>467.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Если кто-то из вас будет возглавлять людей (в коллективной молитве), пусть облегчает (её), ведь среди них (могут) оказаться малолетние и пожилые, слабые и больные, и те, (у кого есть неотложные) дела! Если же он будет молиться один, то пусть молится, как пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>467.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 208</td></tr></tbody></table></div>
 

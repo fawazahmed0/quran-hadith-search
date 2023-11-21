@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported Allah's Messenger (ﷺ) as saying:Abu Dharr, when you prepare
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Al Jahdari] dan [Ishaq bin Ibrahim] dan lafazh ini milik Ishaq dia berkata; [Abu Kamil] Telah menceritakan kepada kami dan berkata [Ishaq]; Telah mengabarkan kepada kami ['Abdul 'Aziz bin 'Abdush Shamad Al 'Ammi]; Telah menceritakan kepada kami [Abu 'Imran Al Jauni] dari ['Abdullah bin Ash Shamit] dari [Abu Dzar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Abu Dzar, Apabila kamu memasak kuah sayur, maka perbanyaklah airnya, dan berikanlah sebagiannya kepada tetanggamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6688</td></tr><tr><td>Arabic No</td><td>2625.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6688</td></tr><tr><td>Arabic No</td><td>2625.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 185</td></tr></tbody></table></div>
 

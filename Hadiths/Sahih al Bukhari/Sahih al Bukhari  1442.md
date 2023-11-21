@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Every day two angels come down fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada saya [saudaraku] dari [Sulaiman] dari [Mu'awiyah bin Abu Muzarrid] dari [Abu Al Hubab] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi Shallallahu'alaihiwasallam bersabda: "Tidak ada suatu hari pun ketika seorang hamba melewati paginya kecuali akan turun (datang) dua malaikat kepadanya lalu salah satunya berkata; "Ya Allah berikanlah pengganti bagi siapa yang menafkahkan hartanya", sedangkan yang satunya lagi berkata; "Ya Allah berikanlah kehancuran (kebinasaan) kepada orang yang menahan hartanya (bakhil)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1442</td></tr><tr><td>Arabic No</td><td>1442</td></tr><tr><td>Reference</td><td>Book 24 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Каждый день, когда рабы (Аллаха) просыпаются утром, (с небес) обязательно спускаются два ангела, один из которых говорит: “О Аллах, возмести расходующему (свои) средства!”, — а другой говорит: “О Аллах, приведи скупого к гибели!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1442</td></tr><tr><td>Arabic No</td><td>1442</td></tr><tr><td>Reference</td><td>Book 24 Hadith 45</td></tr></tbody></table></div>
 

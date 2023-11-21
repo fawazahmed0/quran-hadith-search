@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Bara' b. 'Azib reported:Allah's Messenger (ﷺ) commanded us to throw away the f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari ['Ashim] dari [As Sya'bi] dari [Al Barra bin 'Azib] dia berkata, "Rasulullah shallallahu 'alaihi wasallam memerintahkan kami untuk membuang daging keledai jinak yang kami masak, baik yang belum matang atau yang sudah matang, setelah itu beliau juga tidak memerintahkan kami untuk memakannya." Dan telah menceritakan kepadaku [Abu Sa'id Al Asyaj] telah menceritakan kepada kami [Hafsh] -yaitu Ibnu Ghiyats- dari ['Ashim] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5015</td></tr><tr><td>Arabic No</td><td>1938.04</td></tr><tr><td>Reference</td><td>Book 34 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5015</td></tr><tr><td>Arabic No</td><td>1938.04</td></tr><tr><td>Reference</td><td>Book 34 Hadith 44</td></tr></tbody></table></div>
 

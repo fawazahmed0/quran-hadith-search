@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6175</td></tr><tr><td>Arabic No</td><td>6175</td></tr><tr><td>Reference</td><td>Book 78 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал сказал: «(Однажды) Посланник Аллаха ﷺ, находившийся среди людей, поднялся со своего места и должным образом воздал хвалу Аллаху, а потом упомянул об Антихристе /ад-Даджжаль/, сказав: “Поистине, я предостерегаю вас о нём, и не было ни одного пророка, который не предостерегал бы о нём свой народ, и Нух предостерегал о нём свой народ, однако я скажу вам о нём то, чего ни один пророк не говорил своему народу: вы (должны) знать, что он одноглазый, а Аллах — не одноглазый!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6175</td></tr><tr><td>Arabic No</td><td>6175</td></tr><tr><td>Reference</td><td>Book 78 Hadith 199</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith has been narrated by Mus'ab b. Sa'd who heard it from his father as say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dari [Simak] dari [Mush'ab bin Sa'd] dari [ayahnya] dia berkata, "Ayahku, Sa'd, pernah mengambil pedang dari seperlima bagian ghanimah, lalu dia membawanya ke hadapan Nabi shallallahu 'alaihi wasallam. Ayahku berkata, "Berikanlah pedang ini kepadaku." Namun Rasulullah enggan, maka Allah Azza Wa Jalla menurunkan ayat: "Mereka menanyakan kepadamu tentang (pembagian) harta rampasan perang. Katakanlah, 'Harta rampasan perang kepunyaan Allah dan Rasul) ' (Qs. Al Anfaal:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>1748.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>1748.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 37</td></tr></tbody></table></div>
 

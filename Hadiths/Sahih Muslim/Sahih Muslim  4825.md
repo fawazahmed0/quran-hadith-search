@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yazîd Ibn 'Abî 'Ubayd rapporte que Salama Ibn Al-'Akwa' étant chez Al-Hajjâj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hatim] -yaitu Ibnu Isma'il- dari [Yazid bin Abu 'Ubaid] dari [Salamah bin Al Akwa'] bahwa dia pernah menemui Al Hajjaj, lalu Hajjaj berkata, "Wahai Ibnu Al Akwa', apakah kamu kembali murtad hingga kamu kembali menuju ke perkampunganmu? Dia menjawab, "Tidak, akan tetapi Rasulullah shallallahu 'alaihi wasallam telah mengizinkanku untuk tinggal di dusun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4825</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 33 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4825</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 33 Hadith 121</td></tr></tbody></table></div>
 

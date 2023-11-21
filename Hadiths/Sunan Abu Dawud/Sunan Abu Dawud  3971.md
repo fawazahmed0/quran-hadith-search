@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The verse "And no Prophet could (ever) be false to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] telah menceritakan kepada kami [Khushaif] telah menceritakan kepada kami [Miqsam] mantan budak Ibnu Abbas, ia berkata, [Ibnu Abbas] radliallahu 'anhu berkata, "Turunnya ayat ini: '(Tidak mungkin seorang nabi berkhianat dalam urusan harta rampasan perang) ' (Qs. Ali Imran: 161), berkenaan dengan hilangnya kasur merah di badar. Sebagian orang mengatakan, "Kemungkinan Rasulullah shallallahu 'alaihi wasallam mengambilnya, maka Allah 'azza wajalla menurunkan ayat: '(Tidak mungkin seorang nabi berkhianat dalam urusan harta rampasan perang) ' (Qs. Ali Imran: 161), hingga akhir ayat." Abu Daud berkata, "Yaghulla, dengan memberi harakat fathah pada huruf ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3971</td></tr><tr><td>Arabic No</td><td>3971</td></tr><tr><td>Reference</td><td>Book 32 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что аят «Не пристало пророку присваивать военную добычу /йагулля/ …» был ниспослан о куске красной ворсистой ткани, который был потерян в день битвы при Бадре. Кто-то из людей сказал: «Может быть, Посланник Аллаха ﷺ забрал его». Тогда Всемогущий и Великий Аллах ниспослал: «Не пристало пророку присваивать военную добычу…» (сура «Али Имран», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3971</td></tr><tr><td>Arabic No</td><td>3971</td></tr><tr><td>Reference</td><td>Book 32 Hadith 3</td></tr></tbody></table></div>
 

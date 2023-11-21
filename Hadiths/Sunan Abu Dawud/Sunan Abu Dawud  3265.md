@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: When the Messenger of Allah (ﷺ) swore an oath, it was: N
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdul Aziz bin Abu Rizmah], telah mengabarkan kepadaku [Zaid bin Hubab], telah mengabarkan kepadaku [Muhammad bin Hilal], telah menceritakan kepadaku [ayahku] bahwa ia mendengar [Abu Hurairah] berkata; sumpah Rasulullah shallallahu 'alaihi wasallam apabila beliau bersumpah adalah mengucapkan: "Tidak, dan aku beristighfar kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3265</td></tr><tr><td>Arabic No</td><td>3265</td></tr><tr><td>Reference</td><td>Book 22 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Асыма ибн Лякыта, что Лякыт ибн ‘Амир отправился в качестве делегата к Пророку ﷺ. Лякыт сказал: «И мы прибыли к Посланнику Аллаха ﷺ…» И он пересказал хадис, в котором Пророк ﷺ сказал: «Клянусь жизнью Бога твоего!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3265</td></tr><tr><td>Arabic No</td><td>3265</td></tr><tr><td>Reference</td><td>Book 22 Hadith 24</td></tr></tbody></table></div>
 

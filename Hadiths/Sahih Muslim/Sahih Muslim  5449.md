@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:When I was married, Allah's Messenger (may peace he upon him) ask
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan ['Amru An Naqid] dan [Ishaq bin Ibrahim]; Dan lafazh ini milik 'Amru, ['Amru] dan [Qutaibah] berkata; Telah menceritakan kepada kami, sedangkan [Ishaq] berkata; Telah mengabarkan kepada kami [Sufyan] dari [Ibnu Al Munkadir] dari [Jabir] ia berkata; "Ketika aku telah menikah, Rasulullah shallallahu 'alaihi wasallam bertanya kepadaku: 'Hai Jabir, apakah kamu menggunakan permadani? ' lalu aku balik bertanya; 'Dimana saya akan memperoleh permadani? ' Rasulullah shallallahu 'alaihi wasallam menjawab: 'Ingat, sesungguhnya permadani itu akan ada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5449</td></tr><tr><td>Arabic No</td><td>2083.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5449</td></tr><tr><td>Arabic No</td><td>2083.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 64</td></tr></tbody></table></div>
 

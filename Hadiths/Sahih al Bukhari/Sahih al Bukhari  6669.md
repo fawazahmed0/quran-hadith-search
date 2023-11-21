@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If somebody eats something forgetf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yusuf bin Musa] telah menceritakan kepada kami [Abu Usamah] menuturkan; telah menceritakan kepadaku ['Auf] dari [Khilas] dan [Muhammad] dari [Abu Hurairah] radliallahu 'anhu menuturkan; Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa menyantap makanan karena lupa padahal dia sedang puasa, hendaklah ia sempurnakan puasanya, sebab Allah-lah yang memberinya makanan dan minuman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6669</td></tr><tr><td>Arabic No</td><td>6669</td></tr><tr><td>Reference</td><td>Book 83 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Кто поел по забывчивости во время поста, пусть доведёт свой пост до конца, ибо, поистине, это Аллах накормил и напоил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6669</td></tr><tr><td>Arabic No</td><td>6669</td></tr><tr><td>Reference</td><td>Book 83 Hadith 47</td></tr></tbody></table></div>
 

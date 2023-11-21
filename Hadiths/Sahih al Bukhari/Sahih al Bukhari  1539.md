@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet (p.b.u.h) I used to scent Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Abdurrahman bin Al Qasim] dari [bapaknya] dari ['Aisyah radliallahu 'anha] isteri Nabi shallallahu 'alaihi wasallam berkata: "Aku pernah memakaikan wewangian kepada Rasulullah shallallahu 'alaihi wasallam untuk ihramnya saat Beliau berihram dan untuk hilalnya (tahallulnya) sebelum thawaf mengelilingi Ka'bah di Baitullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1539</td></tr><tr><td>Arabic No</td><td>1539</td></tr><tr><td>Reference</td><td>Book 25 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, сказала: «Мне приходилось умащать Посланника Аллаха ﷺ благовониями, когда он готовился надеть ихрам, а также после того, как он снимал его перед совершением обхода Каабы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1539</td></tr><tr><td>Arabic No</td><td>1539</td></tr><tr><td>Reference</td><td>Book 25 Hadith 26</td></tr></tbody></table></div>
 

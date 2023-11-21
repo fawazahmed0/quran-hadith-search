@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:Hudhaifa said, "'Umar said, 'Who amongst you remembers the sta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wa'il] dari [Hudzaifah radliallahu 'anhu] berkata; "Pada suatu hari 'Umar radliallahu 'anhu berkata,: "Siapa diantara kalian yang masih hafal hadits Rasulullah Shallallahu'alaihiwasallam tentang masalah fitnah? Hudzaifah berkata,: "Aku, masih hafal sebagaimana disabdakan Beliau". 'Umar berkata,: "Apakah kamu bersama Beliau saat itu atau hanya mendengar sabda Beliau? Dan bagaimana yang disabdakannya?". Aku berkata,: "Yaitu suatu fitnah seseorang dalam keluarganya, harta, anak dan tetangganya. Fitnah itu akan terhapus oleh shalat, shaum. shadaqah dan berbuat kebaikan (ma'ruf) ". Berkata, Sulaiman; "Dia mengatakan shalat, shaum. shadaqah dan amar ma'ruf dan nahiy munkar". Lalu 'Umar berkata,: "Bukan itu yang aku mau. Tapi fitnah yang meluas seperti melubernya air lautan. Hudzaifah berkata,: "Kalau begitu baiklah, tidak masalah buat anda wahai Amirul Mu'minin. Sesungguhnya antara engkau dan fitnah itu ada satu pintu yang tertutup". 'Umar bertanya: "Pintu tersebut harus didobrak atau langsung bisa dibuka?. Hudzaifah berkata,: "Tidak, akan tetapi dia pintu yang harus didobrak". 'Umar berkata,: "Kalau begitu bila pintu itu harus didobrak berarti tidak akan bisa ditutup selamanya" Aku berkata; "Benar apa katamu. Maka persilakanlah kami untuk bertanya kepadanya tentang maksud pintu tersebut. Maka kami berkata, kepada (Masruq): "Tanyakanlah!". Dia berkata,: Maka dia berkata, kepadanya. Maka 'Umar radliallahu 'anhu pun berkata,. Dia berkata,: Maka kami berkata,: "Apakah 'Umar mengerti siapa yang dimaksud dengannya". Hudzaifah berkata,: "Ya, dia mengerti. Sebagaimana mengertinya dia bahwa setelah besok pasti ada malam hari. Dan yang demikian itu karena aku menceritakan kepadanya suatu hadits yang tidak ada kerancuannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1435</td></tr><tr><td>Arabic No</td><td>1435</td></tr><tr><td>Reference</td><td>Book 24 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа, да будет доволен им Аллах, сказал: «(Однажды, когда) мы сидели у ‘Умара, да будет доволен им Аллах, он спросил: “Кто из вас помнит слова Посланника Аллаха ﷺ об испытании?” Я сказал: “Я (запомнил всё именно) так, как он сказал”. (‘Умар) воскликнул: “Поистине, ты проявляешь (в этом) смелость!” — (после чего) я повторил (слова Пророка ﷺ): “Искушение человека, связанное с его женой, детьми и соседями, искупается молитвой, милостыней /садака/ и благими деяниями”». [Сулейман (передатчик) добавил: «Он сказал: “Молитва, милостыня /садака/, побуждение людей к совершению одобряемого (шариатом) и удержание от порицаемого”»]. (Далее Хузайфа, да будет доволен им Аллах, сказал:) «(‘Умар) сказал: “Я имею в виду не это, а такое бедствие /фитна/, которое станет бушевать подобно бушующему морю”. Я сказал: “Оно не повредит тебе, о повелитель правоверных, ибо, поистине, ты отделён от него запертой дверью”. (‘Умар) спросил: “(Эта дверь) будет сломана или открыта?” Я ответил: “Она будет сломана”. (‘Умар) сказал: “Значит, (после этого) её уже никогда не закроют!” Я ответил: “Конечно”». \n[Абу Ваиль (передатчик) сказал:] «Тогда мы побоялись спросить, что это за дверь, и сказали Масруку: “Спроси его (о ней)”. Он спросил Хузайфу, на что он ответил: “(Дверью является ) ‘Умар, да будет доволен им Аллах”. Далее мы спросили: “Знал ли ‘Умар, о какой двери (идёт речь)?” Он ответил: “Да, он знал это так же хорошо, как и то, что ночь предшествует утру. Это потому что я передал ему хадис без ошибок”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1435</td></tr><tr><td>Arabic No</td><td>1435</td></tr><tr><td>Reference</td><td>Book 24 Hadith 38</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. 'Uthman al-Taimi reported that Allah's Messenger (ﷺ) forbade 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu At Thahir] dan [Yunus bin Abdul A'la] keduanya berkata; telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Amru bin Al Harits] dari [Bukair bin Abdullah Al Asyaj] dari [Yahya bin Abdurrahman bin Hathib] dari [Abdurrahman bin 'Utsman At Taimi], bahwa Rasulullah shallallahu 'alaihi wasallam melarang mengambil barang temuan (jamaah) haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4509</td></tr><tr><td>Arabic No</td><td>1724</td></tr><tr><td>Reference</td><td>Book 31 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4509</td></tr><tr><td>Arabic No</td><td>1724</td></tr><tr><td>Reference</td><td>Book 31 Hadith 11</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Aflah asked the permission to visit me but I did not allow him. H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepada kami [Al Hakam] dari ['Irak bin Malik] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] berkata: "Aflah meminta ijin kepadaku namun aku tidak mengijinkannya. Dia berkata: "Apakah kamu menghindari aku padahal aku ini pamanmu?" Aku katakan: "Bagaimana bisa (engkau sebagai pamanku)?" Dia menjawab: "Isteri saudaraku telah menyusuimu". Maka 'Aisyah berkata: "Lalu aku tanyakan hal ini kepada Rasulullah shallallahu 'alaihi wasallam, lalu Beliau bersabda: "Aflah benar, ijinkanlah ia masuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2644</td></tr><tr><td>Arabic No</td><td>2644</td></tr><tr><td>Reference</td><td>Book 52 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Как-то раз) Афлях попросил разрешения войти ко мне, и я не позволила ему. Тогда он сказал: “Ты закрываешься от меня? Ведь я твой дядя по отцу”. Я спросила: “Как же это?” Он сказал: “Тебя выкармливала жена моего брата молоком моего брата”. Я спросила об этом Посланника Аллаха ﷺ, и он сказал: “Афлях прав, разреши ему войти к тебе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2644</td></tr><tr><td>Arabic No</td><td>2644</td></tr><tr><td>Reference</td><td>Book 52 Hadith 8</td></tr></tbody></table></div>
 

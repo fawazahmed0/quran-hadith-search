@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah, wife of Prophet (ﷺ):The Messenger of Allah (ﷺ) never offer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari ['Urwah bin Zubair] dari ['Aisyah istri Nabi shallallahu 'alaihi wasallam] bahwa dia berkata; "Rasulullah shallallahu 'alaihi wasallam sama sekali tidak pernah mengerjakan shalat sunnah Dluha, dan aku sungguh mengerjakannya, walaupun Rasulullah shallallahu 'alaihi wasallam meninggalkan amal kebaikan yang sebenarnya beliau suka mengerjakannya, hal itu karena beliau khawatir di kerjakan oleh orang-orang yang akhirnya amalan itu di wajibkan atas mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1128) Sahih Muslim (718)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1293</td></tr><tr><td>Arabic No</td><td>1293</td></tr><tr><td>Reference</td><td>Book 5 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, жена Пророка ﷺ сказала: «Посланник Аллаха ﷺ не совершал молитву-духа, тогда как я совершаю её. Хотя Посланник Аллаха любил заниматься делами поклонения, он часто отказывался от совершения таких дел, опасаясь, что ими станут заниматься и другие люди и это будет вменено им в обязанность»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1128) Sahih Muslim (718)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1293</td></tr><tr><td>Arabic No</td><td>1293</td></tr><tr><td>Reference</td><td>Book 5 Hadith 44</td></tr></tbody></table></div>
 

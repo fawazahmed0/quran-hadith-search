@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:When
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Abu Kuraib] dan [Ibnu Numair] -mereka semua sepakat mengenai lafazhnya- [Yahya] berkata, telah mengabarkan kepada kami [Abu Mu'awiyah] -sementara [Ibnu Numair] berkata- telah menceritakan kepada kami [bapakku] -sementara [Abu Kuraib] berkata- telah menceritakan kepada kami [Abu Usamah] semuanya dari [Hisyam bin Urwah] dari [bapaknya] dari [Ashim bin Umar] dari [Umar] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila malam telah datang, siang telah hilang, dan matahari telah terbenam, maka seorang yang berpuasa sungguh sudah boleh berbuka." Ibnu Numair tidak menyebutkan kata: "FAQAD (sungguh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2558</td></tr><tr><td>Arabic No</td><td>1100</td></tr><tr><td>Reference</td><td>Book 13 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2558</td></tr><tr><td>Arabic No</td><td>1100</td></tr><tr><td>Reference</td><td>Book 13 Hadith 64</td></tr></tbody></table></div>
 

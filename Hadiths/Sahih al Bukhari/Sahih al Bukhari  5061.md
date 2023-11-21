@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundub:The Prophet (ﷺ) said, "Recite (and study) the Qur'an as long a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Ali] Telah menceritakan kepada kami [Abdurrahman bin Mahdi] Telah menceritakan kepada kami [Sallam bin Abu Muthi'] dari [Abu Imran Al Jauni] dari [Jundub] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Bacalah Al Qur'an ketika hati kalian memang menyatu, namun jika kalian berselisih, maka beranjaklah darinya." Termasuk Mutaba'ahnya adalah [Al Harits bin Ubaid] dan [Sa'id bin Zaid], dari [Abu Imran] namun [Hammad bin Salamah] dan [Aban] tidak memarfu'kannya. [Ghundar] berkata,; dari [Syu'bah] dari [Abu Imran] Aku mendengar [Jundub] berkata; Dan [Ibnu 'Aun] berkata; dari [Abu Imran] dari [Abdullah bin Shamit] dari [Umar]. Ungkapannya; Dan Jundub adalah lebih shahih dan lebih banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5061</td></tr><tr><td>Arabic No</td><td>5061</td></tr><tr><td>Reference</td><td>Book 66 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джундуба, что Пророк ﷺ сказал: «Читайте Коран, пока сердца ваши пребывают в согласии относительно него, а когда (между вами) будут возникать разногласия, оставляйте его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5061</td></tr><tr><td>Arabic No</td><td>5061</td></tr><tr><td>Reference</td><td>Book 66 Hadith 86</td></tr></tbody></table></div>
 

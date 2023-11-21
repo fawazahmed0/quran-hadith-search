@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: AbuUthman an-Nahdi said: When Ibn Mas'ud prayed he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Bakkar bin Ar Rayyan] dari [Husyaim bin Basyir] dari [Al Hajjaj bin Abu Zainab] dari [Abu Utsman An Nahdi] dari [Ibnu Mas'ud] bahwa dia shalat dengan meletakkan tangan kirinya diatas tangan kanannya, ternyata dia dilihat Nabi shallallahu 'alaihi wasallam, kontan beliau meletakkan tangan kanannya diatas tangan kirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>755</td></tr><tr><td>Arabic No</td><td>755</td></tr><tr><td>Reference</td><td>Book 2 Hadith 365</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу ‘Усман ан-Нахди передал от (‘Абдуллаха) ибн Мас‘уда: «Однажды он (Ибн Мас‘уд) совершал молитву, положив левую руку на правую, и, увидев его, Пророк ﷺ (взял) его правую руку и переложил на левую».Шейх аль-Альбани сказал: «Достоверный хадис /сахих/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>755</td></tr><tr><td>Arabic No</td><td>755</td></tr><tr><td>Reference</td><td>Book 2 Hadith 365</td></tr></tbody></table></div>
 

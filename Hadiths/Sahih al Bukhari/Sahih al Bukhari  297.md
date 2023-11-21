@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to lean on my lap and recite Qur'an while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim Al Fadll bin Dukain] bahwa dia mendengar [Zuhair] dari [Manshur bin Shafiyah] bahwa [Ibunya] menceritakan kepadanya, bahwa ['Aisyah] menceritakan kepadanya, "Nabi shallallahu 'alaihi wasallam menyandarkan badannya di pangkuanku membaca Al Qur'an, padahal saat itu aku sedang haid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>297</td></tr><tr><td>Arabic No</td><td>297</td></tr><tr><td>Reference</td><td>Book 6 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мансура ибн Сафиййа о том, что его мать сообщила ему, что ‘Аиша рассказывала ей:«Когда у меня были месячные, Пророк ﷺ не раз ложился головой мне на колени и затем начинал читать Коран»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>297</td></tr><tr><td>Arabic No</td><td>297</td></tr><tr><td>Reference</td><td>Book 6 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I heard the Prophet (ﷺ) saying, "If someone keeps
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makki bin Ibrahim] berkata, telah mengabarkan kepada kami [Hanzhalah bin Abu Sufyan] ia berkata, "Aku mendengar [Salim] berkata, "Aku mendengar [Abdullah bin Umar] berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa memelihara anjing selain anjing untuk berburu atau anjing untuk menjaga binatang ternak, maka pahalanya akan berkurang dua qirath setiap hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5481</td></tr><tr><td>Arabic No</td><td>5481</td></tr><tr><td>Reference</td><td>Book 72 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ сказал: “Если кто-то держит собаку ни для охоты, ни для охраны домашнего скота, его награда (за добрые дела) каждый день уменьшается на два кырата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5481</td></tr><tr><td>Arabic No</td><td>5481</td></tr><tr><td>Reference</td><td>Book 72 Hadith 7</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Apostle of Allaah(ﷺ) as saying “When you travel in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad], telah mengabarkan kepada kami [Suhail bin Abu Shalih], dari [ayahnya], dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kalian bersafar di tempat yang subur maka berilah unta haknya, dan apabila kalian bersafar di tempat yang tandus maka percepatlah jalan. Apabila kalian hendak singgah untuk bermalam maka menjauhlah dari jalan!" telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Yazid bin Harun], telah mengabarkan kepada kami [Hisyam], dari [Al Hasan] dari [Jabir bin Abdullah] dari Nabi shallallahu 'alaihi wasallam seperti ini. Setelah ucapan "haknya" ia mengatakan; dan janganlah kalian melampaui tempat-tempat persinggahan (yang sudah biasa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1926)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2569</td></tr><tr><td>Arabic No</td><td>2569</td></tr><tr><td>Reference</td><td>Book 15 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1926)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2569</td></tr><tr><td>Arabic No</td><td>2569</td></tr><tr><td>Reference</td><td>Book 15 Hadith 93</td></tr></tbody></table></div>
 

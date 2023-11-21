@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salama b. Akwa' reported:We, during the lifetime of the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru bin Sawwad Al 'Amiri] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepada kami [Amru bin Harits] dari [Bukair bin Al Asyajj] dari [Yazid] Maula Salamah bin Al Akwa', dari [Salamah Al Akwa'] radliallahu 'anhu, bahwa ia berkata; Dulu, ketika kami memasuki bulan Ramadlan pada masa Rasulullah shallallahu 'alaihi wasallam siapa saja yang ingin, maka ia berpuasa dan siapa yang tidak suka, maka ia akan berbuka dengan syarat membayar fidyah, peritstiwa itu terus terjadi hingga turunnya ayat: "Karena itu, barangsiapa di antara kamu hadir (di negeri tempat tinggalnya) di bulan itu, Maka hendaklah ia berpuasa pada bulan itu." (QS. Albaqarah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2686</td></tr><tr><td>Arabic No</td><td>1145.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2686</td></tr><tr><td>Arabic No</td><td>1145.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 192</td></tr></tbody></table></div>
 

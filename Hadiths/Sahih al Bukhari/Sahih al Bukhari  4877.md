@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:While in his tent on the day the Battle of Badr, the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] Telah menceritakan kepada kami [Khalid] dari [Khalid] dari [Ikrimah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda ketika beliau berada di Quba pada hari Badar: "ANSYUDUKA 'AHDAKA WAWA'DAKA, ALLOOHUMMA IN SYI'TA LAA TU'BAD BA'DAL YAUM Ya Allah, sesungguhnya aku memohon kepadaMu akan sumpah dan janjiMu, ya Allah, jika Engkau mau, maka engkau tidak akan disembah lagi setelah hari ini." Lalu Abu Bakar meraih tangan beliau dan berkata; Cukuplah wahai Rasulullah, engkau telah memaksa atas Tuhanmu. Lalu beliau pun mengenakan baju perangnya, kemudian beliau keluar dan mengucapkan (firman Allah): "Golongan itu pasti akan dikalahkan dan mereka akan mundur ke belakang. Sebenarnya hari kiamat itulah hari yang dijanjikan kepada mereka dan kiamat itu lebih dahsyat dan lebih pahit." (Al Qamar:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4877</td></tr><tr><td>Arabic No</td><td>4877</td></tr><tr><td>Reference</td><td>Book 65 Hadith 398</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Находясь в шатре (перед началом битвы при Бадре), Пророк ﷺ сказал: “О Аллах, заклинаю Тебя (выполнить) Твоё обещание! О Аллах, если Ты пожелаешь, то после этого дня уже никто не будет поклоняться Тебе!” После этого Абу Бакр взял за руку Пророка ﷺ, на котором уже были его доспехи, и сказал: “Этого достаточно, о Посланник Аллаха! Ты (взываешь) к своему Господу (уж слишком) настойчиво!” И после этого (Пророк ﷺ) вышел наружу, произнося (такие аяты): “Скоро будет разбита эта толпа, и они обратятся в бегство, но Час этот, что является назначенным им сроком, окажется ещё ужаснее и горше!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4877</td></tr><tr><td>Arabic No</td><td>4877</td></tr><tr><td>Reference</td><td>Book 65 Hadith 398</td></tr></tbody></table></div>
 

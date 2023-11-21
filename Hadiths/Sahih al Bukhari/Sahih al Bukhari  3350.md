@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "On the Day of Resurrection Abraham
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il bin 'Abdullah] berkata telah mengabarkan kepadaku [saudaraku, 'Abdul Hamid] dari [Ibnu Abi Dza'bi] dari [Sa'id Al Maqburiy] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Nabi Ibrahim Aalaihissalam bertemu dengan ayahnya, Azar, pada hari qiyamat. Ketika itu wajah Azar ada debu hitam lalu Ibrahim berkata kepada bapaknya: "Bukankah aku sudah katakan kepada ayah agar ayah tidak menentang aku?". Bapaknya berkata; "Hari ini aku tidak akan menentangmu?" Kemudian Ibrahim berkata; "Wahai Rabb, Engkau sudah berjanji kepadaku untuk tidak menghinakan aku pada hari berbangkit. Lalu kehinaan apalagi yang lebih hina dari pada keberadaan bapakku yang jauh (dariku)?". Allah Ta'ala berfirman: "Sesungguhnya Aku mengharamkan surga bagi orang-orang kafir". Lalu dikatakan kepada Ibrahim; "Wahai Ibrahim, apa yang ada di kedua telapak kakimu?". Maka Ibrahim melihatnya yang ternyata ada seekor anjing hutan yang kotor. Maka anjing itu diambil kakinya lalu dibuang ke neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>3350</td></tr><tr><td>Reference</td><td>Book 60 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «В День воскресения Ибрахим встретит своего отца Азара, лицо которого покроется пылью и потемнеет (от скорби), и скажет ему: “Не говорил ли я тебе, чтобы ты не противоречил мне?” Его отец скажет: “Сегодня я подчинюсь тебе!” Тогда Ибрахим воскликнет: “О Господь мой! Поистине, Ты пообещал мне не позорить меня в тот День, когда (рабы Твои) будут воскрешены, но может ли быть что-либо позорнее удаления моего отца?!” — а Аллах Всевышний скажет: “Поистине, Я сделал рай запретным для неверных!” А потом (ему) будет сказано: “О Ибрахим, что это у тебя под ногами?” И когда он посмотрит (туда), то увидит забрызганную кровью гиену, которую схватят за ноги и бросят в огонь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>3350</td></tr><tr><td>Reference</td><td>Book 60 Hadith 25</td></tr></tbody></table></div>
 

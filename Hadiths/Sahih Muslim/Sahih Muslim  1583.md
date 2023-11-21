@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yahya b. Yazid al-Huna'i reported:I asked Anas b. Malik about shortening of pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>691</td></tr><tr><td>Reference</td><td>Book 6 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Яхья ибн Язид аль-Хунаи сказал: «Я спросил Анаса ибн Малика о сокращении молитвы. И Анас сказал: “Когда Посланник Аллаха ﷺ отправлялся в путь, то проехав три мили или три фарсаха, он уже совершал два рак‘ата (вместо четырёх)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>691</td></tr><tr><td>Reference</td><td>Book 6 Hadith 14</td></tr></tbody></table></div>
 

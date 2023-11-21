@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that the wives of Allah's Messenger (ﷺ) used to go out in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul Malik bin Syu'aib bin Al Laits]; Telah menceritakan kepadaku [Bapakku] dari [Kakekku]; Telah menceritakan kepadaku ['Uqail bin Khalid] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah] bahwa para isteri Rasulullah shallallahu 'alaihi wasallam keluar di waktu malam apabila mereka hendak buang hajat ke tempat yang telah disediakan di lapangan. Lalu 'Umar bin Khaththab mengusulkan kepada Rasulullah shallallahu 'alaihi wasallam supaya para isteri beliau memakai hijab. Tetapi Rasulullah shallallahu 'alaihi wasallam diam saja, tidak melakukan apa yang diusulkan 'Umar. Maka pada suatu malam keluar isteri beliau, Saudah binti Zam'ah, lalu ditegur oleh 'Umar; 'Hai Saudah! Kami mengenali engkau! ' Kata 'Umar; 'Sesungguhnya 'Umar menegurnya hanya karena dia ingin semoga Allah Subhanahu Wa Ta'ala menurunkan ayat yang memerintahkan hijab. Kata 'Aisyah; 'Memang, tidak lama kemudian maka turunlah ayat hijab.' Telah menceritakan kepada kami ['Amru An Naqid]; Telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd]; Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu Syihab] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5671</td></tr><tr><td>Arabic No</td><td>2170.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5671</td></tr><tr><td>Arabic No</td><td>2170.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 25</td></tr></tbody></table></div>
 

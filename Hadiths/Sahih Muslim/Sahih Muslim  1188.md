@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jundub reported:I heard from the Messenger of Allah (ﷺ) five days before his d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Ishaq bin Ibrahim] dan lafazh tersebut milik Abu Bakar. Ishaq berkata, telah mengabarkan kepada kami dan Abu Bakar berkata, telah menceritakan kepada kami [Zakariya' bin 'Adi] dari [Ubaidullah bin Amru] dari [Zaid bin Abi Unaisah] dari [Amru bin Murrah] dari [Abdullah bin al-Harits an-Najrani] dia berkata, telah menceritakan kepadaku [Jundab] dia berkata, "Lima hari menjelang Rasulullah Shallallahu'alaihiwasallam wafat, aku mendengar beliau bersabda, 'Aku berlepas diri kepada Allah dari mengambil salah seorang di antara kalian sebagai kekasih, karena Allah Ta'ala telah menjadikanku sebagai kekasih sebagaimana Dia menjadikan Ibrahim sebagai kekasih. Dan kalaupun seandainya aku mengambil salah seorang dari umatku sebagai kekasih, niscaya aku akan menjadikan Abu Bakar sebagai kekasih. Ketahuilah bahwa sesungguhnya orang-orang sebelum kalian itu menjadikan kuburan para nabi dan orang-orang shalih dari mereka sebagai masjid, maka janganlah kalian menjadikan kuburan-kuburan itu sebagai masjid, karena sungguh aku melarang kalian dari hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1188</td></tr><tr><td>Arabic No</td><td>532</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джундаб сказал: «Я слышал, как за пять дней до своей смерти, Пророк ﷺ сказал: “Я чист перед Аллахом в том, чтобы иметь возлюбленного /халиль/ среди вас. Ведь Всевышний Аллах сделал меня Своим возлюбленным, так же, как Он сделал Своим возлюбленным Ибрахима. Если же бы мне пришлось выбрать возлюбленного из моей общины, то я выбрал бы Абу Бакра. Поистине, те, кто были до вас, превращали могилы своих пророков и праведников в места для поклонения. Но вы не превращайте могилы в места для поклонения, ибо я запрещаю вам это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1188</td></tr><tr><td>Arabic No</td><td>532</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
 

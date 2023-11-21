@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mas'oûd (que Dieu l'agrée), l'Envoyé de Dieu (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Al Ahwash] dan [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abu Sa'id Al Asyaj] telah menceritakan kepada kami [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kuraib] dan [Ibnu Numair] keduanya berkata; telah menceritakan kepada kami [Abu Mu'awiyah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ali bin Khasyram] keduanya berkata; telah menceritakan kepada kami [Isa bin Yunus] semuanya dari [Al A'masy]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Utsman bin Abu Syaibah] sedangkan lafadznya dari dia, telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Zaid bin Wahb] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh, sepeninggalku akan ada penguasa-penguasa negara yang mementingkan diri sendiri dan membuat kebijaksanaan-kebjiksanaan yang tidak kalian sukai." Para sahabat bertanya, "Wahai Rasulullah, lantas apa yang anda perintahkan kepada kami ketika mengalami peristiwa tersebut?" beliau menjawab: "Tunaikanlah kewajiban kalian dan mintalah hak kalian kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4775</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 33 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал Абу Бакр ибн Абу Шейба, сказавший: Нам рассказал: Абу аль-Ахвас и Ваки‘, ХА, и рассказал мне Абу Саи‘д аль-Ашадж, сказавший: Нам рассказал: Ваки‘, ХА, и нам рассказал Абу Курайб и ибн Нумейр, они сказали: Нам рассказал: Абу Му‘авия, ХА, и нам рассказал Исхак ибн Ибрахим и ‘Али ибн Хашрам, они сказали: Нам рассказал ‘Иса ибн Юнус, все они от аль-А‘маша, ХА, и рассказал нам ‘Усман ибн аби Шейба, слова принадлежат ему, нам рассказал Джарир, от аль-А‘маша, от Зейда ибн Вахба, от ‘Абдуллаха, сказал: Посланник Аллаха ﷺ сказал:«Воистину после меня будет корысть (предпочтение будет отдаваться другим над ними в мирских вещах), и дела, которые вы будете порицать. (Сподвижники) сказали: О Посланник Аллаха, что ты прикажешь тем из нас кто застанет это? На что он сказал: «Выполняйте права, которые лежат на вас, и просите Аллаха то, что принадлежит вам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4775</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 33 Hadith 73</td></tr></tbody></table></div>
 

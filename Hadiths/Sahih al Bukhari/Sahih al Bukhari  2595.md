@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:I said, "O Allah's Messenger (ﷺ)! I have two neighbors; which o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu 'Imran AlJawniy] dari [Thalhah bin 'Abdullah, seorang dari suku Bani Tamim bin Murrah] dari ['Aisyah radliallahu 'anha] berkata; Aku bertanya: "Wahai Rasulullah, aku mempunyai dua tetangga. Kepada yang manakah dari keduanya bila aku memberikan hadiah?" Beliau menjawab: "Kepada yang terdekat pintu rumahnya denganmu diantara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2595</td></tr><tr><td>Arabic No</td><td>2595</td></tr><tr><td>Reference</td><td>Book 51 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) я спросила: “О Посланник Аллаха, у меня есть два соседа, так кому же из них сделать подарок?”, (на что Пророк ﷺ) сказал: “Тому, чья дверь к тебе ближе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2595</td></tr><tr><td>Arabic No</td><td>2595</td></tr><tr><td>Reference</td><td>Book 51 Hadith 29</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) forbade the selling of fruits un
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] dari [Malik] dari [Humaid] dari [Anas bin Malik radliallahu 'anhu] bahwa Rasulullah Shallallahu'alaihiwasallam melarang menjual kurma hingga kurma itu berkembang baik". Dia (Anas bin Malik radliallahu 'anhu) berkata,: "Hingga memerah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 24 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил продавать плоды, пока они не созреют, сказав: «Пока они не покраснеют»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 24 Hadith 88</td></tr></tbody></table></div>
 

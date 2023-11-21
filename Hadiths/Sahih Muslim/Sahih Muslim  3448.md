@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uthman b. 'Affan reported that Allah's Messenger (ﷺ) had said:A Muhrim should 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Abdul A'la] Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Abu Al Khaththab Ziyad bin Yahya] telah menceritakan kepada kami [Muhammad bin Sawa'] dia berkata; Telah menceritakan kepada kami [Sa'id] dari [Mathar] dan [Ya'la bin Hakim] dari [Nafi'] dari [Nubaih bin Wahb] dari [Aban bin Utsman] dari [Utsman bin Affan] bahwasannya Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang berihram tidak diperbolehkan untuk menikah dan dinikahkan dan meminang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3448</td></tr><tr><td>Arabic No</td><td>1409.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3448</td></tr><tr><td>Arabic No</td><td>1409.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 51</td></tr></tbody></table></div>
 

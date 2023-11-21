@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) sent an army detachment and made Usam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'd] dari [Isma'il bin Ja'far] dari [Abdullah bin Dinar] dari [Ibnu Umar] radliallahu 'anhuma mengatakan, suatu kali Rasulullah Shallallahu'alaihi wa sallam mengutus utusan dan mengangkat Usamah bin Zaid sebagai komandan mereka, tetapi sebagian sahabat mencela habis-habisan kepemimpinannya. Maka Rasulullah Shallallahu'alaihiwasallam berdiri dan bersabda: "Kalaulah kalian mencela kepemimpinannya, dahulu kalian telah mencela kepemimpinan ayahnya. Demi Allah, ia adalah orang yang paling ideal memegang kepemimpinan, dan ayahnya dahulu adalah diantara manusia yang paling kucintai, dan anaknya sekarang diantara manusia yang paling kucintai sepeninggal ayahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6627</td></tr><tr><td>Arabic No</td><td>6627</td></tr><tr><td>Reference</td><td>Book 83 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Однажды Посланник Аллаха ﷺ послал (в поход) отряд, назначив командовать им Усаму ибн Зейда. Некоторые люди стали высказывать недовольство в связи с таким назначением, и тогда Посланник Аллаха ﷺ сказал: “Если вы порицаете его как командира, это (неудивительно, ибо прежде) вы порицали как командира и его отца, но, клянусь Аллахом /вайму-Ллахи/, он был достоин командования и относился к числу наиболее любимых для меня людей. Что же касается этого, то, поистине, после него он является одним из самых любимых для меня людей!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6627</td></tr><tr><td>Arabic No</td><td>6627</td></tr><tr><td>Reference</td><td>Book 83 Hadith 7</td></tr></tbody></table></div>
 

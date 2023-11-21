@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who alleviates the suf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Abu Bakr bin Abu Syaibah] dan [Muhammad bin Al 'Ala Al Hamdani] -dan lafadh ini milik Yahya- dia berkata; telah mengabarkan kepada kami, dan berkata yang lainnya, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Barang siapa membebaskan seorang mukmin dari suatu kesulitan dunia, maka Allah akan membebaskannya dari suatu kesulitan pada hari kiamat. Barang siapa memberi kemudahan kepada orang yang berada dalam kesulitan, maka Allah akan memberikan kemudahan di dunia dan akhirat. Barang siapa menutupi aib seorang muslim, maka Allah akan menutup aibnya di dunia dan akhirat. Allah akan selalu menolong hamba-Nya selama hamba tersebut menolong saudaranya sesama muslim. Barang siapa menempuh jalan untuk mencari ilmu, maka Allah akan memudahkan jalan ke surga baginya. Tidaklah sekelompok orang berkumpul di suatu masjid (rumah Allah) untuk membaca Al Qur'an, melainkan mereka akan diliputi ketenangan, rahmat, dan dikelilingi para malaikat, serta Allah akan menyebut-nyebut mereka pada malaikat-malaikat yang berada di sisi-Nya. Barang siapa yang ketinggalan amalnya, maka nasabnya tidak juga meninggikannya.' Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] telah menceritakan kepada kami [Bapakku] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakannya kepada kami [Nashr bin 'Ali Al Jahdhami] telah menceritakan kepada kami [Abu Usamah] mereka berkata; telah menceritakan kepada kami [Al A'masy] -telah menceritakan kepada kami Ibnu Numair- dari [Abu Shalih]. Sebagaimana di dalam hadits Abu Usamah Telah menceritakan kepada kami Abu Shalih dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam berkata dengan lantang, -sebagaimana Hadits Abu Mu'awiyah, hanya saja di dalam Hadits Abu Usamah tidak disebutkan; memberi kemudahan kepada orang yang kesusahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6853</td></tr><tr><td>Arabic No</td><td>2699.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Того, кто избавит верующего от одной из печалей мира этого, Аллах избавит от одной из печалей Дня воскрешения, тому, кто облегчит положение несостоятельного (должника), Аллах облегчит положение его и в мире этом, и в мире ином, а того, кто покроет мусульманина, Аллах покроет и в мире этом, и в мире ином. Аллах будет оказывать помощь (Своему) рабу, пока сам раб оказывает её брату своему. Вступившему на какой-нибудь путь в поисках знания Аллах за это облегчит путь в рай, а когда люди собираются в одном из домов Аллаха, где они совместно читают и изучают Книгу Аллаха, обязательно нисходит на них спокойствие, и покрывает их милость, и окружают их ангелы и поминает их Аллах среди тех, кто находится пред Ним, а тому, кого станут задерживать дела его, происхождение его не поможет двигаться быстрее”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6853</td></tr><tr><td>Arabic No</td><td>2699.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 48</td></tr></tbody></table></div>
 

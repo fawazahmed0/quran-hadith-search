@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] ia berkata; telah mengabarkan kepadaku [Salim bin Abdullah] dan [Abu Bakr bin Sulaiman] bahwa [Abdullah bin Umar] berkata; Pada sutau malam Rasulullah shallallahu 'alaihi wasallam pernah melaksanakan shalat isya bersama kami di masa-masa akhir hidup beliau. Setelah salam beliau kemudian berdiri dan bersabda: "Aku perhatikan malam kalian ini, sungguh dalam seratus tahun (kedepan), tidak seorang pun yang ada di muka bumi ini (dari malam tersebut) yang masih tersisa (hidup)." Ibnu Umar berkata, "Mendengar ucapan Rasulullah shallallahu 'alaihi wasallam, orang-orang mereka-reka berkenaan dengan makna 'seratus tahun' dari ucapan beliau tersebut. Padahal sebenarnya, Rasulullah shallallahu 'alaihi wasallam mengatakan: "Orang-orang yang hidup hari ini, maka seratus tahun ke depan tidak akan ada lagi yang masih hidup di muka bumi." Maksudnya, beliau menegaskan bahwa masa itu akan terjadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2537)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4348</td></tr><tr><td>Arabic No</td><td>4348</td></tr><tr><td>Reference</td><td>Book 39 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар (да будет доволен Аллах им и его отцом) передаёт: «Однажды, уже в конце своей жизни, Посланник Аллаха ﷺ совершал с нами вечернюю молитву /‘иша/. Завершив её, он сказал: “Поистине, по прошествии ста лет с этой ночи не останется на земле никого из тех, кто живёт на ней сейчас”». Ибн ‘Умар также сказал: «Люди неправильно поняли эти слова Посланника Аллаха ﷺ и (ошибаются) в том, что говорят о ста годах. Говоря, что не останется на земле никого из тех, кто живёт на ней сейчас, Посланник Аллаха ﷺ имел в виду, что умрёт это поколение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2537)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4348</td></tr><tr><td>Arabic No</td><td>4348</td></tr><tr><td>Reference</td><td>Book 39 Hadith 58</td></tr></tbody></table></div>
 

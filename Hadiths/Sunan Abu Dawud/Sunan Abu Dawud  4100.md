@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Safiyyah, daughter of Shaybah, said that Aisha mentioned the women of Ansar, pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Ibrahim bin Muhajir] dari [Shafiyah binti Syaibah] dari ['Aisyah radliallahu 'anha] Bahwasanya ia menyebut-nyebut wanita Anshar, ia memuji dan mengatakan kebaikan kepada mereka. 'Aisyah berkata, "Ketika turun surat An Nuur, mereka masuk ke dalam kamar, atau tempat pakaian -Abu Kamil ragu-, lalu mereka membelah dan menjadikannya sebagai kerudung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4100</td></tr><tr><td>Arabic No</td><td>4100</td></tr><tr><td>Reference</td><td>Book 34 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, однажды упомянула о женщинах ансаров, похвалила их и признала их заслуги. Она сказала: «Как только была ниспослана сура “ан-Нур”, они разорвали свои изары и обмотали ими головы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4100</td></tr><tr><td>Arabic No</td><td>4100</td></tr><tr><td>Reference</td><td>Book 34 Hadith 81</td></tr></tbody></table></div>
 

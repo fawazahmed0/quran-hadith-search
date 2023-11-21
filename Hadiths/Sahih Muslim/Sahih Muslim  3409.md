@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir heard Allah's Apostle (ﷺ) say:When a woman fascinates any one of you and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'yan] telah menceritakan kepada kami [Ma'qil] dari [Abu Zubair] ia berkata, [Jabir] berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian terpikat oleh wanita lain dan menimbulkan gejolak dalam hatinya, maka segeralah ia menumpahkan hasratnya pada isterinya. Karena yang demikian itu dapat menentramkan gejolak hatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3409</td></tr><tr><td>Arabic No</td><td>1403.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3409</td></tr><tr><td>Arabic No</td><td>1403.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 12</td></tr></tbody></table></div>
 

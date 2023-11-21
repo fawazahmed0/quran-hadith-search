@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) saw expectoration (on the wall of the mosque) in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Humaid] dari [Anas bin Malik], bahwa Nabi shallallahu 'alaihi wasallam melihat dahak di dinding kiblat lalu menggosoknya dengan tangannya. Dan nampak kebencian dari beliau, atau kebenciannya terlihat karena hal itu. Beliau pun bersabda: "Jika salah seorang dari kalian berdiri shalat, sesungguhnya ia sedang berhadapan dengan Rabbnya, atau sesungguhnya Rabbnya berada antara dia dan arah kiblatnya, maka janganlah ia meludah ke arah kiblat. Tetapi hendaklah ia lakukan ke arah kiri atau di bawah kaki (kirinya)." Kemudian Nabi shallallahu 'alaihi wasallam memegang tepi kainnya dan meludah di dalamnya, setelah itu beliau membalik posisi kainnya lalu berkata, atau beliau melakukan seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>417</td></tr><tr><td>Arabic No</td><td>417</td></tr><tr><td>Reference</td><td>Book 8 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, о том, что (однажды, когда) Пророк ﷺ увидел на (стене мечети, выходящей в сторону) киблы, плевок, он собственноручно соскоблил его и по нему было видно, что это ему не понравилось — или: это ему стало так тяжко, что было заметно по его лицу, после чего он сказал: «Поистине, приступая к молитве, любой из вас ведёт тайную беседу со своим Господом», или (он сказал): «Господь его находится меж ним и киблой, и поэтому никто из вас ни в коем случае не должен плевать в сторону киблы, однако, (пусть сплёвывает) только налево или же себе под ногу!» А после этого он взялся за край своей накидки, сплюнул туда, прикрыл эту часть накидки другой частью и сказал: «Или же пусть делает вот так!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>417</td></tr><tr><td>Arabic No</td><td>417</td></tr><tr><td>Reference</td><td>Book 8 Hadith 67</td></tr></tbody></table></div>
 

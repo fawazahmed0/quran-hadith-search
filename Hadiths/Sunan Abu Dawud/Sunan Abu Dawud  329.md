@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umair, the freed slave of Ibn 'Abbas, said that he heard him say:I and 'Abd Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Al-Laits] telah mengabarkan kepada kami [Ayahku] dari [Kakekku] dari [Ja'far bin Rabi'ah] dari [Abdurrahman bin Hurmuz] dari [Umair, mantan sahaya Ibnu Abbas] bahwasanya dia pernah mendengarnya berkata; Saya pernah datang bersama Abdullah bin Yasar, mantan sahaya Maimunah, istri Nabi shallallahu 'alaihi wasallam ke Abu Al-Juhaim bin Al-Harits bin Ash-Shimmah Al-Anshari maka berkata [Abu Al-Juhaim]; Pernah Rasulullah shallallahu 'alaihi wasallam pergi ke tempat sumur jamal, lalu ada seorang laki-laki yang berpapasan dengannya dan mengucapkan salam kepadanya, maka Rasulullah shallallahu 'alaihi wasallam tidak menjawab salamnya hingga beliau datang ke sebuah tembok dan mengusap wajah dan kedua tangannya, lalu beliau menjawab salamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (337) Sahih Muslim (369)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>329</td></tr><tr><td>Arabic No</td><td>329</td></tr><tr><td>Reference</td><td>Book 1 Hadith 329</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абду-р-Рахмана ибн Хурмуза о том, что он слышал, как ‘Умайр вольноотпущенник Ибн ‘Аббаса говорил: «Однажды я и ‘Абдуллах ибн Йасар вольноотпущенник Маймуны, жены Пророка ﷺ отправились, чтобы зайти к Абу Джухайму ибн Харису ибн Симма аль-Ансарий и Абу Джухайм сказал: “Как-то Посланника Аллаха ﷺ на пути к Биър Джамаль, встретил какой-то человек, который поприветствовал его, однако Посланник Аллаха ﷺ не ответил ему (сразу), а (сначала) подошёл к стене, обтёр (пылью) лицо и руки и затем ответил на его приветствие”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (337) Sahih Muslim (369)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>329</td></tr><tr><td>Arabic No</td><td>329</td></tr><tr><td>Reference</td><td>Book 1 Hadith 329</td></tr></tbody></table></div>
 

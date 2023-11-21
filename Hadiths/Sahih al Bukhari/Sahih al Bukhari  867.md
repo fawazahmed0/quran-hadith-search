@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When Allah's Messenger (ﷺ) finished the Fajr prayer, the women
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti 'Abdurrahman] dari ['Aisyah] ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat Shubuh, maka para wanita yang ikut berjama'ah datang dengan menutup wajah mereka dengan tanpa diketahui oleh seorangpun karena hari masih gelap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 10 Hadith 258</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, сказала: «Когда Посланник Аллаха ﷺ совершал утреннюю молитву, то женщины закончив (молитву) уходили, закутывавшись в свои покрывала, и никто их не узнавал в предрассветном сумраке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 10 Hadith 258</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abu Qatada Al-Aslami:That his father said, "One day I was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah menceritakan kepadaku [Muhammad bin Ja'far] dari [Abu HAzim] dari ['Abdullah bin Abu Qatadah as-Salamiy] dari [bapaknya radliallahu 'anhu] berkata: "Pada suatu hari aku pernah duduk-duduk bermajelis dengan para sahabat Nabi shallallahu 'alaihi wasallam di suatu rumah yang terletak di jalan menuju Makkah. Saat itu Rasulullah shallallahu 'alaihi wasallam singgah di depan kami sementara orang-orang sedang berihram sedangkan aku tidak. Tiba-tiba mereka melihat seekor keledai liar sementara aku sedang sibuk memperbaiki sandalku dan mereka tidak mau mengganggu aku dengan kehadiran keledai itu padahal mereka sangat ingin agar aku juga melihatnya. Maka sejenak kemudian aku melihat keledai itu lalu aku bangkit menuju kuda dan memasang pelananya kemudian aku menunggang kuda tersebut namun aku lupa cambuk dan tombak. Maka aku katakan kepada mereka: "Berikan cambuk dan tombak itu kepadaku". Mereka menjawab: "Tidak, kami tidak akan membantu kamu dalam mengejar keledai tersebut". Maka aku marah lalu aku turun dan mengambil cambuk dan tombak tersebut kemudian aku kembali menunggang kuda dan aku kejar keledai tersebut hingga aku dapat melukainya. Kemudian aku datang membawa keledai itu dalam keadaan sudah mati. Akhirnya mereka menerima bahkan memakan dagingnya. Kemudian mereka menjadi ragu dalam memakannya karena mereka sedang berihram. Kemudian kami berangkat dan aku menyembunyikan satu potong paha depan yang ada di tanganku hingga kami bertemu dengan Rasulullah shallallahu 'alaihi wasallam. Maka kami menanyakan kejadian tadi kepada Beliau. Maka Beliau bertanya: "Apakah masih ada yang tersisa darinya?". Aku jawab: "Ya masih". Maka aku sodorkan paha depan keledai tersebut lalu Beliau memakannya hingga habis sedang Beliau dalam keadaan berihram". Dan [Zaid bin Aslam] telah menceritakan kepadaku dari ['Atha' bin Yasar] dari [Abu Qatadah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2570</td></tr><tr><td>Arabic No</td><td>2570</td></tr><tr><td>Reference</td><td>Book 51 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада, да будет доволен им Аллах, сказал: «Однажды я сидел с некоторыми сподвижниками Пророка ﷺ, остановившись по дороге в Мекку. Посланник Аллаха ﷺ был впереди нас. Все мои спутники были в состоянии ихрама, а я — нет. (Мои товарищи) увидели дикого осла, а я был занят тем, что чинил свою обувь, и они не сказали мне о нём, но хотели, чтобы я увидел его. Подняв голову, я увидел его. Я оседлал коня и сел на него верхом, но забыл взять кнут и копьё. Я сказал своим спутникам: “Подайте мне кнут и копьё”. Но они ответили: “Нет, клянёмся Аллахом, мы ничем тебе не поможем в этом деле (охоте на дикого осла)”. Тогда я разгневался, спустился и взял их сам, затем сел снова верхом и напал на осла, ранив его. Когда я принёс его, он уже умер. Мои товарищи (приготовили его) и начали есть, но затем засомневались, разрешено ли им есть его, будучи в состоянии ихрама? После этого мы двинулись дальше, и я взял с собой ногу этого осла. Когда мы догнали Посланника Аллаха ﷺ и спросили его об этом случае, он спросил: “Вы взяли с собой его мясо?” Я ответил: “Да”. Я дал ему ногу, и он доел её полностью, находясь в состоянии ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2570</td></tr><tr><td>Arabic No</td><td>2570</td></tr><tr><td>Reference</td><td>Book 51 Hadith 5</td></tr></tbody></table></div>
 

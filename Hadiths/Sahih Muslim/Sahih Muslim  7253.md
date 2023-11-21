@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ahnaf b. Qais reported on the authority of Abu Bakra that Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakannya kepada kami [Ahmad bin Abdah Adh Dhabi] telah menceritakan kepada kami [Hammad] dari [Ayyub], [Yunus] dan [Al Mu'ala bin Ziyad] dari [Al Hasan] dari [Al Ahnaf bin Qais] dari [Abu Bakrah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: " Bila dua orang muslim berhadapan dengan pedang, pembunuh dan yang terbunuh ada dineraka." Telah menceritakan kepadaku [Hajjaj bin Asy Sya'ir] telah menceritakan kepada kami [Abdurrazzaq] dari kitabnya, telah mengkhabarkan kepada kami [Ma'mar] dari [Ayyub] dengan sanad ini seperti hadits Abu Kamil dari Hammad hingga akhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7253</td></tr><tr><td>Arabic No</td><td>2888.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра (Нуфай‘ ибн аль-Харис ас-Сакъафи), да будет доволен им Аллах, сказал: «Однажды Посланник Аллаха ﷺ сказал: “Если два мусульманина сойдутся (в бою, скрестив) свои мечи, то и убивший, и убитый окажутся в Огне (ада)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7253</td></tr><tr><td>Arabic No</td><td>2888.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 19</td></tr></tbody></table></div>
 

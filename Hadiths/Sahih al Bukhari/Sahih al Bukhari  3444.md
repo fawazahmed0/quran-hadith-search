@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Jesus, seeing a man stealing, aske
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 [Ibrahim bin Thahman] berkata dari [Musa bin 'Uqbah] dari [Shafwan bin Sulaim] dari ['Atha' bin Yasar] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam besabda. Dan telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami ['AbdurRazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam besabda: "Nabi 'Isa 'alaihis salam melihat ada seorang sedang mencuri lalu dia bertanya kepadanya: "Apakah kamu mencuri?". Orang itu menjawab; "Tidak, demi Allah, yan tidak ada Ilah (yang berhak disembah) selain Dia". Maka 'Isa berkata: "Aku beriman kepada Allah dan aku dustakan (penglihatan) mataku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>3444</td></tr><tr><td>Reference</td><td>Book 60 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Однажды) ‘Иса, сын Марйам, увидевший, как какой-то человек совершает кражу, спросил его: “Ты совершил кражу?” Он сказал: “Нет, клянусь Аллахом, помимо Которого нет истинного бога!” Тогда ‘Иса сказал: “Я верую в Аллаха, а глазам своим не верю!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>3444</td></tr><tr><td>Reference</td><td>Book 60 Hadith 114</td></tr></tbody></table></div>
 

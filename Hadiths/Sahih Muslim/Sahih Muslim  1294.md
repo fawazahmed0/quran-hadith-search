@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported:The Messenger of Allah (ﷺ) said three rak'ahs of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1294</td></tr><tr><td>Arabic No</td><td>574.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Имран ибн Хусайн сказал: «Однажды, совершая послеполуденную молитву /‘аср/, Посланник Аллаха ﷺ, произнёс слова таслима после третьего рак‘ата, после чего встал и зашёл домой. Тогда один человек с длинными руками встал и сказал: “Молитва была сокращена, о Посланник Аллаха?” И (Посланник Аллаха ﷺ) вышел (из дома) разгневанным, совершил оставшийся рак‘ат, произнёс слова таслима, совершил два земных поклона и снова произнёс слова таслима»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1294</td></tr><tr><td>Arabic No</td><td>574.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 132</td></tr></tbody></table></div>
 

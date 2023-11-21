@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When the Prophet (ﷺ) arrived Medina he dismounted at 'Awali-i-Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami ['Abdul Warits] dari [Abu At Tayyah] dari [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam tiba di Madinah lalu singgah di perkampungan bani 'Amru bin 'Auf, Nabi shallallahu 'alaihi wasallam tinggal di sana selama empat belas malam. Kemudian beliau mengutus seseorang menemui bani Najjar, maka mereka pun datang dengan pedang di badan mereka. Aku melihat Nabi shallallahu 'alaihi wasallam di atas tunggangannya sedangkan Abu Bakar membonceng di belakangnya dan para pembesar bani Najjar berada di sekelilingnya hingga sampai di sumur milik Abu Ayyub. Beliau suka segera shalat saat waktu shalat sudah masuk, maka beliau pun shalat di kandang kambing. Kemudian beliau memerintahkan untuk membangun masjid, beliau mengutus seseorang menemui pembesar bani Najjar. utusan itu menyampaikan: "Wahai bani Najjar, sebutkan berapa harga kebun kalian ini?" Mereka menjawab, "Tidak, demi Allah. Kami tidak akan menjualnya kecuali kepada Allah!" Anas berkata, "Aku beritahu kepada kalian bahwa pada kebun itu banyak terdapat kuburan orang-orang musyrik, juga ada sisa-sisa reruntuhan rumah dan pohon-pohon kurma. Maka Nabi shallallahu 'alaihi wasallam memerintahkan untuk membongkar kuburan-kuburan tersebut, reruntuhan rumah diratakan dan pohon-pohon kurma ditumbangkan lalu dipindahkan di depan arah kiblat masjid. Maka lalu membuat pintu masjid dari pohon dan mengangkut batu bata sambil menyanyikan nasyid. Dan Nabi shallallahu 'alaihi wasallam ikut bekerja pula bersama mereka sambil mengucapkan: "Ya Allah. Tidak ada kebaikan kecuali kebaikan akhirat, maka ampunilah kaum Anshar dan Muhajirin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>428</td></tr><tr><td>Arabic No</td><td>428</td></tr><tr><td>Reference</td><td>Book 8 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Прибыв в Медину, Пророк ﷺ (сначала) остановился в верхней части города в квартале, населённом людьми из рода бану ‘амр бин ‘ауф. Среди них Пророк ﷺ прожил четырнадцать дней, после чего послал за людьми из рода бану ан-наджжар, которые явились к нему, опоясавшись мечами. И у меня до сих пор стоят перед глазами Пророк ﷺ на своей верблюдице, сидящий в седле позади него Абу Бакр и толпа людей из бану ан-наджжар, которые окружали его до тех пор, пока он не спешился во дворе дома Абу Аййюба. (Посланник Аллаха ﷺ) любил молиться там, где его заставало время намаза, и (в такие моменты) молился даже в загонах для овец. И (после этого) он велел построить мечеть, послал за людьми из бану ан-наджжар и сказал: “О (предводители) бану ан-наджжар, назначьте мне цену за эту вашу стену”. Они ответили: “Нет, клянёмся Аллахом, мы потребуем плату за неё только от Аллаха!”»\nАнас сказал:\n— А там находились могилы многобожников, развалины и пальмы. И по велению Пророка ﷺ могилы были срыты, развалины сровняли с землёй, а пальмы вырубили, поставив их рядами как (стену) киблы (будущей) мечети. Кроме того, люди выложили из камня две боковые стены и занялись переноской камней, декламируя стихи. Вместе с ними был и Пророк ﷺ который говорил: «О Аллах, нет блага, кроме блага мира вечного! Прости же (грехи) ансарам и мухаджирам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>428</td></tr><tr><td>Arabic No</td><td>428</td></tr><tr><td>Reference</td><td>Book 8 Hadith 78</td></tr></tbody></table></div>
 

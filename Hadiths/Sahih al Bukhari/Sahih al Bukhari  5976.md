@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:Allah's Messenger (ﷺ) said thrice, "Shall I not inform you 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] telah menceritakan kepada kami [Khalid Al Wasithi] dari [Al Jurairi] dari [Abdurrahman bin Abu Bakrah] dari [Ayahnya] radliallahu 'anhu dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak maukah aku beritahukan kepada kalian sesuatu yang termasuk dari dosa besar? Kami menjawab; "Tentu wahai Rasulullah." Beliau bersabda: "Menyekutukan Allah dan mendurhakai kedua orang tua." -ketika itu beliau tengah bersandar, kemudian duduk lalu melanjutkan sabdanya: "Perkataan dusta dan kesaksian palsu, perkataan dusta dan kesaksian palsu." Beliau terus saja mengulanginya hingga saya mengira beliau tidak akan berhenti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5976</td></tr><tr><td>Arabic No</td><td>5976</td></tr><tr><td>Reference</td><td>Book 78 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ спросил (людей): “Не сообщить ли вам о (том, какие) грехи являются наиболее тяжкими?” Мы сказали: “Конечно, о Посланник Аллаха!” (Тогда) он сказал: “(Это —) придавание Аллаху сотоварищей и непочтительность по отношению к родителям”. (Говоря это, Пророк ﷺ) лежал на боку, а потом он сел и сказал: “И, (это —) лживое слово и лживое свидетельство, лживое слово и лживое свидетельство!” — и он продолжал повторять (эти слова) до тех пор, пока я не стал думать, что он не остановится»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5976</td></tr><tr><td>Arabic No</td><td>5976</td></tr><tr><td>Reference</td><td>Book 78 Hadith 7</td></tr></tbody></table></div>
 

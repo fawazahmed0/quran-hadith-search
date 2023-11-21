@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mulaika:Ibn 'Umar used to kill snakes, but afterwards he forbade th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 59 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Затем я встретил Абу Любабу, и он сообщил мне, что Пророк ﷺ сказал: “Не убивайте змей, за исключением куцых змей и змей с двумя полосами на спине, ибо они вызывают выкидыши у беременных и могут лишить зрения, поэтому убивайте их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 59 Hadith 118</td></tr></tbody></table></div>
 

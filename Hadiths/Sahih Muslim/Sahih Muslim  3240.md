@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (رضي الله عنها) a dit : L'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Kalau bukanlah karena kaummu yang baru saja meninggalkan kekufuran, akan kurombak Ka'bah dan kubangun di atas pondasi Ibrahim. Sebab, dulu orang-orang Quraisy mempersimpatnya saat mereka membangunnya. Dan aku akan membuatkannya pintu belakang." Dan Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, Telah menceritakan kepada kami [Ibnu Numair] dari [Hisyam] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3240</td></tr><tr><td>Arabic No</td><td>1333.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 444</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3240</td></tr><tr><td>Arabic No</td><td>1333.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 444</td></tr></tbody></table></div>
 

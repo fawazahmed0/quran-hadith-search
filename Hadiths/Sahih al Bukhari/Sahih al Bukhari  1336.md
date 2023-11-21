@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sulaiman Ash-Shaibani:I heard Ash-Shu'bi saying, "I was told by a man w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada saya [Sulaiman Asy-Syaibaniy] berkata; Aku mendengar [Asy-Sya'biy] berkata, telah mengabarkan kepada saya seorang yang bersama Nabi Shallallahu'alaihiwasallam pernah melewati kuburan yang terpisah (dari kuburan lain). Maka Beliau memimpin mereka shalat dan mereka shalat di belakang Beliau. Aku bertanya: "Wahai 'Amru, siapakah yang menceritakan ini kepadamu?". Dia menjawab: " [Ibnu 'Abbas] radliallahu 'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1336</td></tr><tr><td>Arabic No</td><td>1336</td></tr><tr><td>Reference</td><td>Book 23 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аш-Ша‘би сказал: «Мне сообщил тот, кто однажды проходил вместе с Пророком ﷺ мимо могилы, находившейся отдельно от других могил. Он совершил с людьми молитву встав имамом, а они совершали ее позади него». Передатчик сказал: «Мы спросили: “Кто рассказал тебе это, о Абу ‘Амр!?” Он ответил: “Ибн ‘Аббас, да будет доволен Аллах им и его отцом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1336</td></tr><tr><td>Arabic No</td><td>1336</td></tr><tr><td>Reference</td><td>Book 23 Hadith 91</td></tr></tbody></table></div>
 

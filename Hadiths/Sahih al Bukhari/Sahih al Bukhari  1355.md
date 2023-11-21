@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:'Umar set out along with the Prophet (p.b.u.h) with a group o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] dari [Yunus] dari [Az Zuhri] berkata, telah mengabarkan kepada saya [Salim bin 'Abdullah] bahwa [Ibnu'Umar radhiyallahu'anhuma] mengabarkannya bahwa 'Umar dan Nabi shallallahu 'alaihi wasallam berangkat bersama rambongan untuk mememui Ibnu Shayyad hingga akhirnya mereka mendapatinya sedang bermain bersama anak-anak yang lain di bangunan yang tinggi milik Bani Magholah. Ibnu Shayyad sudah mendekati baligh dan dia tidak menyadari (kedatangan Nabi shallallahu 'alaihi wasallam) hingga akhirnya Nabi shallallahu 'alaihi wasallam menepuknya dengan tangan Beliau kemudian berkata kepada Ibnu Shayyad: "Apakah kamu bersaksi bahwa aku ini utusan Allah?". Maka Ibnu Shayyad memandang Beliau lalu berkata: "Aku bersaksi bahwa kamu utusan kaum ummiyyin (kaum yang tidak kenal baca tulis) ". Kemudian Ibnu Shayyad berkata, kepada Nabi shallallahu 'alaihi wasallam: "Apakah kamu juga bersaksi bahwa aku ini utusan Allah?". Maka Beliau menolaknya dan berkata, "Aku beriman kepada Allah dan kepada Rasul-rasulNya". Kemudian Beliau berkata: "Apa yang kamu pandang sebagai alasan (sehingga mengaku sebagai Rasul). Berkata, Ibnu Shayyad: "Karena telah datang kepadaku orang yang jujur dan pendusta". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Urusanmu jadi kacau". Kemudian Nabi shallallahu 'alaihi wasallam berkata, kepadanya: "Sesungguhnya aku menyembunyikan (sesuatu dalam hatiku) coba kamu tebak?". Ibnu Shayyad berkata: "Itu adalah asap". Beliau berkata: "Hinalah kamu, dan kamu tidak bakalan melebihi kemampuanmu sebagai seorang dukun. Lalu 'Umar bin Al Khaththob Radhiyallahu'anhu berkata: "Wahai Rasulullah, biarkanlah aku memenggal leher orang ini!". Maka Beliau berkata: "Jika dia benar, kamu tidak akan berkuasa atasnya dan bila dia benar maka tidak ada kebaikan buatmu dengan membunuhnya". Berkata, [Salim]; Aku mendengar [Ibnu 'Umar Radhiyallahu'anhuma]: "Setelah itu Nabi shallallahu 'alaihi wasallam dan Ubay bin Ka'ab pergi menuju satu pohon kurma tempat Ibnu Shayyad sebelumnya berada di situ dengan harapan Beliau dapat mendengar sesuatu dari Ibnu Shayyad sebelum dia melihat Beliau. Maka Nabi shallallahu 'alaihi wasallam melihat Ibnu Shayyad sedang tertidur dibalik baju tebalnya dengan mendengkur ringan. Dalam keadaan itu ibu dari Ibnu Shayyad melihat Rasulullah shallallahu 'alaihi wasallam sedang duduk di bawah pohon kurma, maka ibunya berkata, kepada Ibnu Shayyad: "Wahai Shaf, (ini nama dari Ibnu Shayyad), Muhammad shallallahu'alaihi wasallam". Maka Ibnu Shayyad kembali pada keadaannya semula (berbaring). Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Seandainya ibunya biarkan, pasti jelaslah persoalannya (dajjal atau bukan)". Dan [Syu'aib] berkata; 'menekannya dengan ramramah (suara halus) atau zamzamah. Sedangkan [Ishaq Al Kalbi] dan ['Uqail] berkata; "ramramah". [Ma'mar] berkata; ramzah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1355</td></tr><tr><td>Arabic No</td><td>1355</td></tr><tr><td>Reference</td><td>Book 23 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах ими обоими, (также) сказал: «После этого Посланник Аллаха ﷺ в сопровождении Убаййа бин Ка‘ба пошёл в пальмовую рощу, где находился Ибн Саййад. Пророк ﷺ хотел услышать что-нибудь сказанное Ибн Саййадом, прежде чем тот заметит его, и он увидел, что (Ибн Саййад) лежит на земле, укрывшись куском ткани, из-под которой доносились непонятные звуки (или: какие-то утробные звуки). Мать Ибн Саййада увидела Посланника Аллаха ﷺ прятавшегося за стволами пальм, и окликнула (сына): “О Саф!” — ибо так звали Ибн Саййада. — “Здесь Мухаммад”, после чего Ибн Саййад быстро поднялся (с земли), а Пророк ﷺ сказал: “Если бы она не побеспокоила его, он проявил бы себя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1355</td></tr><tr><td>Arabic No</td><td>1355</td></tr><tr><td>Reference</td><td>Book 23 Hadith 108</td></tr></tbody></table></div>
 

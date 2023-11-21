@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:Who had taken part in the battle of Badr with Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ibnu Akhi Ibnu Syihab] dari [pamannya] berkata, telah mengabarkan kepadaku [Abu Idris, A'idzullah] bahwa ['Ubadah bin ash Shamit] Radiallahu 'anhu termasuk orang yang ikut perang Badar bersama Rasulullah shallallahu 'alaihi wasallam dan termasuk diantara orang yang ikut malam bai'at al 'Aqabah. Dia mengabarkan kepada Abu Idris bahwa Rasulullah shallallahu 'alaihi wasallam di hadapan sekelompok shahabat bersabda: "Kemarilah kalian berbai'at kepadaku, untuk tidak menyekutukan Allah dengan suatu apapun, tidak mencuri, tidak berzina, tidak membunuh anak-anak kalian, tidak berbuat dosa yang didatangkan diantara tangan-tangan dan kaki-kaki kalian, tidak mendurhakaiku dalam perkara yang ma'ruf. Siapa diantara kalian yang menunaikannya maka baginya pahala di sisi Allah, dan siapa yang melanggarnya lalu Allah menghukumnya di dunia ini maka hukuman itu sebagai tebusan, dan siapa yang melanggarnya lalu Allah menutupinya di dunia ini maka perkaranya terserah kepada Allah. Jika Dia menghendaki, akan disiksanya dan jika Dia menghendaki akan diampuinya (di akhirat) ". 'Ubadah bin ash Shamit berkata; "maka aku membai'at beliau atas hal-hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3892</td></tr><tr><td>Arabic No</td><td>3892</td></tr><tr><td>Reference</td><td>Book 63 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Идриса ‘Аизуллаха ибн ‘Абдуллаха, что ‘Убада ибн ас-Самит, который участвовал в битве при Бадре и являвшегося одним из участников ночи аль-‘Акабы, сказал: «Однажды, когда вокруг Посланника Аллаха ﷺ собралась группа его сподвижников, он сказал им: “Поклянитесь мне в том, что не станете поклоняться наряду с Аллахом ничему, не станете воровать, прелюбодействовать, убивать своих детей, распространять ложь, измышлённую вашими сердцами, и отказываться от повиновения(, когда вам будут приказывать совершать) одобряемое (шариатом). Аллах наградит тех из вас, кто будет верен этой клятве, а для того, кто совершит какой-либо из этих (грехов) и будет наказан в мире этом, наказание послужит искуплением. Если же кто-то совершит какой-либо из этих (грехов), а Аллах покроет его (грех), то Аллах и будет решать, и если пожелает, то простит его, а если пожелает, накажет его”». (‘Убада сказал): «И мы поклялись ему в этом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3892</td></tr><tr><td>Arabic No</td><td>3892</td></tr><tr><td>Reference</td><td>Book 63 Hadith 117</td></tr></tbody></table></div>
 

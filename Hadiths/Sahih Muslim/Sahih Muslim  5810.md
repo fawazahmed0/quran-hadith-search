@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sahl Ibn Sa'd (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab]; Telah menceritakan kepada kami [Malik] dari [Abu Hazim] dari [Sahl bin Sa'd] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau memang pengaruh jahat (kecelakaan atau kesialan) benar maka yang pasti hal itu kadang terjadi pada pada diri wanita, pada kuda dan dalam rumah tangga." Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Al Fadhl bin Dukain]; Telah menceritakan kepada kami [Hisyam bin Sa'd] dari [Abu Hazim] dari [Sahl bin Sa'd] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5810</td></tr><tr><td>Arabic No</td><td>2226.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5810</td></tr><tr><td>Arabic No</td><td>2226.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 162</td></tr></tbody></table></div>
 

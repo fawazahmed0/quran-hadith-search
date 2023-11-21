@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:The Prophet (ﷺ) said, "A good dream that comes true is fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdullah bin Yahya bin Abi katsir] yang ia memujinya dengan baik, aku menemuinya di Yamamah dari [Ayahnya], telah menceritakan kepada kami [Abu Salamah] dari [Abu Qatadah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Mimpi yang baik adalah berasal dari Allah dan mimpi buruk berasal dari setan, maka jika salah seorang diantara kalian bermimpi buruk, hendaklah meminta perlindungan kepada Allah karenanya dan meludah kesamping kirinya, sehingga mimpi buruknya tidak membahayakannya, " dan dari [ayahnya], telah menceritakan kepada kami [Abdullah bin Abu Qatadah] dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6986</td></tr><tr><td>Arabic No</td><td>6986</td></tr><tr><td>Reference</td><td>Book 91 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Катада, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Благое сновидение — от Аллаха, а дурное — от шайтана. И если (кто) увидит дурной сон, пусть обратится к Аллаху с мольбой о защите от (зла) этого сна и сплюнет налево, и тогда оно никак не повредит ему!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6986</td></tr><tr><td>Arabic No</td><td>6986</td></tr><tr><td>Reference</td><td>Book 91 Hadith 5</td></tr></tbody></table></div>
 

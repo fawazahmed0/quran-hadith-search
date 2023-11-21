@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Shaddad bin Al-Had Al-Laithi:I saw Rifa'a bin Rafi' Al-An
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4014</td></tr><tr><td>Arabic No</td><td>4014</td></tr><tr><td>Reference</td><td>Book 64 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Шаддад ибн аль-Хади аль-Лейси сказал: «Я видел Рифа’а ибн Рафи’ аль-Ансари, который участвовал в битве при Бадре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4014</td></tr><tr><td>Arabic No</td><td>4014</td></tr><tr><td>Reference</td><td>Book 64 Hadith 64</td></tr></tbody></table></div>
 

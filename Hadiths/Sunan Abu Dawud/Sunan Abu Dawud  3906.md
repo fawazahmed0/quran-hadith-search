@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zaid bin Khalid Al-Juhani:The Messenger of Allah (ﷺ) led us in the mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dan [Shalih bin Kaisan] dari ['Ubaidullah bin Abdullah] dari [Zaid bin Khalid Al Juhani] ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah melakukan Shalat Subuh mengimami kami di Hudaibiyah pada bekas hujan yang terjadi pada malam hari. Selesai shalat beliau menghadap ke arah orang-orang dan berkata: "Apakah kalian mengetahui apa yang dikatakan Tuhan kalian?" Mereka menjawab, "Allah dan Rasul-Nya lebih mengetahuinya." Beliau bersabda: "Allah berfirman: 'Pada pagi ini di antara para hamba-ku ada yang beriman kepada-ku dan ada yang kafir. Adapun orang yang mengatakan, 'Hujan turun hujan kepada kami dengan karena Allah dan rahmat-Nya', maka orang tersebut adalah orang yang beriman kepada-ku dan kafir kepada bintang. Adapun orang yang mengatakan, 'Hujan turun kepada kami berkat bintang ini dan ini', maka orang tersebut adalah orang yang kafir kepada-ku dan beriman kepada kepada bintang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (846) Sahih Muslim (71)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3906</td></tr><tr><td>Arabic No</td><td>3906</td></tr><tr><td>Reference</td><td>Book 30 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Халида аль-Джухани, да будет доволен им Аллах: «В Худайбии Посланник Аллаха ﷺ совершил с нами утреннюю молитву после прошедшего ночью дождя. Завершив молитву, он повернулся к людям и спросил: “Знаете ли вы, что сказал Господь ваш?” Они ответили: “Аллах и Его посланник знают об этом лучше”. Тогда он сказал: “(Аллах) сказал: “Этим утром кто-то из рабов Моих проснулся верующим в Меня, а кто-то неверующим. Что касается сказавшего: “Нам был послан дождь по благоволению Аллаха и милости Его, он верует в Меня и не верит в планеты, что же касается сказавшего: “Нам был послан дождь благодаря такой-то планете”, то он не верует в Меня и верит в планеты””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (846) Sahih Muslim (71)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3906</td></tr><tr><td>Arabic No</td><td>3906</td></tr><tr><td>Reference</td><td>Book 30 Hadith 3</td></tr></tbody></table></div>
 

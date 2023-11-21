@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: When the Prophet (ﷺ) sent him to the Yemen, he orde
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Abu Mu'awiyah], dari [Al A'masy], dari [Abu Wail], dari [Mu'adz], bahwa Nabi shallallahu 'alaihi wasallam tatkala mengutusnya ke Yaman beliau memerintahkannya agar ia mengambil dari dari setiap orang yang baligh zakat satu dinar atau yang setara dengannya dari mu'afiri, yaitu pakaian yang ada di Yaman. Telah menceritakan kepada kami [An Nufaili], telah menceritakan kepada kami [Abu Mu'awiyah], telah menceritakan kepada kami [Al A'masy], dari [Ibrahim], dari [Masruq], dari [Mu'adz], dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3038</td></tr><tr><td>Arabic No</td><td>3038</td></tr><tr><td>Reference</td><td>Book 20 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Му‘аза, да будет доволен им Аллах, что Пророк ﷺ отправляя его в Йемен, велел ему взять (в качестве джизьи) с каждого достигшего совершеннолетия мужчины по динару или йеменскую одежду /маафири/ на ту же сумму
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3038</td></tr><tr><td>Arabic No</td><td>3038</td></tr><tr><td>Reference</td><td>Book 20 Hadith 111</td></tr></tbody></table></div>
 

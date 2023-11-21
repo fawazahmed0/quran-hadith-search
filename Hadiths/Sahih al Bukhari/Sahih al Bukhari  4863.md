@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The first Sura in which a prostration was mentioned, was Sura
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] Telah mengabarkan kepadaku [Abu Ahmad] Telah menceritakan kepada kami [Israil] dari [Abu Ishaq] dari [Al Aswad bin Yazid] dari [Abdullah radliallahu 'anhu] dia berkata; Surat pertama kali yang di dalamnya ada ayat sajdah adalah surat An Najm. Abdullah berkata; Maka Rasulullah shallallahu 'alaihi wasallam dan orang-orang yang berada dibelakang beliau pun bersujud, kecuali seorang laki-laki yang aku lihat ia mengambil segenggam tanah lalu ia bersujud di atasnya. Setelah itu aku melihat orang itu terbunuh dalam keadaan kafir. Ia adalah Umayyah bin Khalaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4863</td></tr><tr><td>Arabic No</td><td>4863</td></tr><tr><td>Reference</td><td>Book 65 Hadith 384</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Первой сурой, в которой упоминается земной поклон, была сура “ан-Наджм”. Прочитав её, Посланник Аллаха ﷺ совершил земной поклон, и те, кто был позади него тоже совершили его вместе с ним, за исключением одного человека, который поднял горсть земли и поднёс их ко лбу. После этого я видел, что его убили как неверного, это был Умайя ибн Халяф»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4863</td></tr><tr><td>Arabic No</td><td>4863</td></tr><tr><td>Reference</td><td>Book 65 Hadith 384</td></tr></tbody></table></div>
 

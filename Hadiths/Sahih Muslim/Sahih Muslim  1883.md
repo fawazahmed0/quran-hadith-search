@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Darda' reported Allah's Apostle (ﷺ) as saying:If anyone learns by heart th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [bapakku] dari [Qatadah] dari [Salim bin Abul Ja'd Al Ghathafani] dari [Ma'dan bin Abu Thalhah Al Ya'mari] dari [Abu Darda'] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang menghafal sepuluh ayat dari awal surat Al Kahfi, maka ia akan terpelihara dari (kejahatan) Dajjall." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] -dalam jalur lain- Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Hammam] semuanya dari [Qatadah] dengan isnad ini. Syu'bah berkata; "Dari akhir surat Al Kahfi." Hammam berkata; "Dari awal surat Al Kahfi." Sebagaimana yang dikatakan Hisyam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1883</td></tr><tr><td>Arabic No</td><td>809.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 311</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу ад-Дарды, что Пророк ﷺ сказал: «Тот, кто запомнит наизусть десять первых аятов суры “аль-Кяхф” будет защищён от Даджжаля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1883</td></tr><tr><td>Arabic No</td><td>809.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 311</td></tr></tbody></table></div>
 

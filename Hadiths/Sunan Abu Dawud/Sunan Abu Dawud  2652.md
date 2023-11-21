@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Furat ibn Hayyan: The Messenger of Allah (ﷺ) commanded to kill him: h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepadaku [Muhammad bin Muhabbab Abu Hammam Ad Dallal], telah menceritakan kepada kami [Sufyan bin Sa'id], dari [Abu Ishaq], dari [Haritsah bin Mudharrib], dari [Furat bin Hayyan] bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk membunuhnya, dan ia adalah mata-mata Abu Sufyan. Dan ia adalah sekutu seorang anshor, kemudian ia berkata; sesungguhnya aku adalah seorang muslim. Kemudian seorang anshar berkata; wahai Rasulullah, sesungguhnya ia berkata; aku adalah seorang muslim. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Sesungguhnya diantara kalian terdapat orang-orang yang kami serahkan mereka kepada keimanan mereka, diantara mereka adalah Furat bin Hayyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2652</td></tr><tr><td>Arabic No</td><td>2652</td></tr><tr><td>Reference</td><td>Book 15 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2652</td></tr><tr><td>Arabic No</td><td>2652</td></tr><tr><td>Reference</td><td>Book 15 Hadith 176</td></tr></tbody></table></div>
 

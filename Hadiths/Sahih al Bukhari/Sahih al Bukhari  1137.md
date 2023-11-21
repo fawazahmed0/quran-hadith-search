@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:A man said, "O Allah's Messenger (ﷺ)! How is the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Salim bin 'Abdullah] bahwa ['Abdullah bin 'Umar radliallahu 'anhu] berkata; Ada seseorang bertanya: "Wahai Rasulullah shallallahu 'alaihi wasallam, bagaimana cara shalat malam?" Beliau shallallahu 'alaihi wasallam menjawab: " Dua dua (raka'at) dan jika kamu khawatir masuk waktu Shubuh witirlah dengan satu raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1137</td></tr><tr><td>Arabic No</td><td>1137</td></tr><tr><td>Reference</td><td>Book 19 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды один человек сказал: «О, Посланник Аллаха, как следует совершать ночную молитву?» И Посланник Аллаха ﷺ ответил: «(Ночная молитва совершается) по два рак‘ата, а если же ты будешь опасаться, что скоро наступит утро, соверши ещё один (рак‘ат), чтобы общее количество того, что ты совершил стало нечётным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1137</td></tr><tr><td>Arabic No</td><td>1137</td></tr><tr><td>Reference</td><td>Book 19 Hadith 18</td></tr></tbody></table></div>
 

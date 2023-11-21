@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported that Allah had cursed those women who tattooed and who have th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Utsman bin Abu Syaibah]; Dan lafazh ini miliknya Ishaq; Telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah] ia berkata; "Allah telah mengutuk orang-orang yang membuat tato dan orang yang minta dibuatkan tato, orang-orang yang mencabut bulu mata, orang-orang yang minta dicabut bulu matanya, dan orang-orang yang merenggangkan gigi demi kecantikan yang merubah ciptaan Allah." Ternyata ucapan 'Abdullah bin Mas'ud itu sampai kepada seorang wanita dari Bani Asad yang biasa dipanggil Ummu Ya'qub yang pada saat itu sedang membaca Al Qur'an. Kemudian wanita itu datang kepada Ibnu Mas'ud sambil berkata; 'Hai 'Abdullah, apakah benar berita yang sampai kepadaku bahwasanya kamu mengutuk orang-orang yang minta dicabut bulu mata wajahnya dan orang yang merenggangkan giginya demi kecantikan dan merubah ciptaan Allah? ' Abdullah bin Mas'ud menjawab; 'Bagaimana aku tidak akan mengutuk orang-orang yang dikutuk oleh Rasulullah shallallahu 'alaihi wasallam, sedangkan hal itu ada dalam Al Qur'an? ' Wanita itu membantah; 'Aku sudah membaca semua ayat yang ada di antara sampul mushaf, tetapi aku tidak menemukannya.' Ibnu Mas'ud; 'Apabila kamu benar-benar membacanya, niscaya kamu pasti akan menemukannya. Allah subhanahu wata'ala telah berfirman dalam Al Qur'an: 'Apa yang disampaikan Rasul kepadamu terimalah dan apa yang dilarang untukmu tinggalkanlah.' (Qs. Al Hasyr (59): 7). Wanita itu berkata; 'Aku melihat apa yang kamu bicarakan ada pada istrimu sekarang.' Ibnu Mas'ud menjawab; 'Pergi dan lihatlah ia sekarang! ' Lalu wanita itu pergi ke rumah 'Abdullah bin Mas'ud untuk menemui istrinya. Namun, ia tidak melihat sesuatu pun pada dirinya. Akhirnya ia pergi menemui Ibnu Mas'ud dan berkata; 'Benar, aku memang tidak melihat sesuatu pun pada diri istrimu.' Ibnu Mas'ud pun berkata; 'Ketahuilah, jika ia melakukan hal apa yang aku katakan itu, tentunya aku tidak akan menggaulinya lagi.' Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya; Telah menceritakan kepada kami ['Abdur Rahman] yaitu Ibnu Mahdi; Telah menceritakan kepada kami [Sufyan]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami [Yahya bin Adam]; Telah menceritakan kepada kami [Mufadhdhal] yaitu Ibnu Muhalhil keduanya dari [Manshur] melalui jalur ini yang semakna dengan Hadits Jarir namun di dalam Hadits Sufyan menggunakan lafazh 'Al Waasyimat wal Mustausyimat. Sedangkan di dalam Hadits Mufadhdhal dengan lafazh; 'Al Wasyimaat wal Mausyumaat. Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah], [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] mereka berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Manshur] melalui jalur Hadits ini (kisah yang menyebutkan Ummu Ya'qub semuanya) dari Nabi shallallahu 'alaihi wasallam semata. Dan telah menceritakan kepada kami [Syaiban bin Farukh] Telah menceritakan kepada kami [Jarir] yaitu Ibnu Hazm Telah menceritakan kepada kami [Al A'masy] dari [Ibrahim] dari [Al Qamah] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5573</td></tr><tr><td>Arabic No</td><td>2125.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5573</td></tr><tr><td>Arabic No</td><td>2125.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 181</td></tr></tbody></table></div>
 

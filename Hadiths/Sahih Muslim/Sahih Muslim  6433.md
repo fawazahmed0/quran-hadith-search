@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:To the tribe of Aslam All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Husain bin Huraits]; Telah menceritakan kepada kami [Al Fadhl bin Musa] dari [Khutsaim bin 'Irak] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Semoga Allah memberi kedamaian kepada suku Aslam dan semoga Allah memberi ampunan kepada suku Ghifar. Ini bukan aku yang mengucapkannya, akan tetapi Allah Azza wa Jalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6433</td></tr><tr><td>Arabic No</td><td>2516</td></tr><tr><td>Reference</td><td>Book 44 Hadith 262</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6433</td></tr><tr><td>Arabic No</td><td>2516</td></tr><tr><td>Reference</td><td>Book 44 Hadith 262</td></tr></tbody></table></div>
 

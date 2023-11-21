@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:At the time of the Fajr prayer the Prophet (ﷺ) asked Bila
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] telah menceritakan kepada kami [Abu Usamah] dari [Abu Hayyan] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam berkata, kepada Bilal radliallahu 'anhu ketika shalat Fajar (Shubuh): "Wahai Bilal, ceritakan kepadaku amal yang paling utama yang sudah kamu amalkan dalam Islam, sebab aku mendengar di hadapanku suara sandalmu dalam surga". Bilal berkata; "Tidak ada amal yang utama yang aku sudah amalkan kecuali bahwa jika aku bersuci (berwudhu') pada suatu kesempatan malam ataupun siang melainkan aku selalu shalat dengan wudhu' tersebut disamping shalat wajib". Berkata, (Abu 'Abdullah): Istilah "Daffa na'laika maksudnya gerakan sandal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1149</td></tr><tr><td>Arabic No</td><td>1149</td></tr><tr><td>Reference</td><td>Book 19 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал, что (однажды) Пророк ﷺ сказал Билялю: «О, Биляль! Расскажи мне о твоем деянии в исламе, которое внушает тебе наибольшую надежду, ибо, поистине, я слышал стук твоих сандалий (, раздававшийся) передо мной в раю?» Биляль ответил: «Ничто из сделанного мною не внушает мне столько надежд как-то, что в какое бы время ночи или дня я ни совершал омовения, я обязательно совершал с этим омовением столько рак‘атов, сколько мне было предписано»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1149</td></tr><tr><td>Arabic No</td><td>1149</td></tr><tr><td>Reference</td><td>Book 19 Hadith 30</td></tr></tbody></table></div>
 

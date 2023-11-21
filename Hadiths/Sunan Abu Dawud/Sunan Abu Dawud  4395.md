@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said:A Makhzuml woman used to borrow goods and deny having received 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] dan [Makhlad bin Khalid] secara makna, keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] berkata; [Makhlad] berkata dari [Ma'mar] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] berkata, "Seorang wanita Makhzumiyah meminjam suatu barang kemudian mengingkarinya. Nabi shallallahu 'alaihi wasallam lalu memerintahkan untuk memotong tangannya." Abu Dawud berkata, "Hadits ini diriwayatkan oleh [Juwairiyah] dari [Nafi'], dari [Ibnu Umar]. Atau, dari [Shafiyah binti Abu Ubaid]. Dalam riwayat tersebut ditambahkan, bahwa Nabi shallallahu 'alaihi wasallam berdiri khutbah, beliau bersabda: "Apakah ada seorang wanita yang akan bertaubat kepada Allah Azza Wa Jalla dan Rasul-Nya?." Beliau ulangi hingga tiga kali. Wanita (pencuri) itu juga hadir, namun ia enggan untuk berdiri atau berkata-kata." [Ibnu Ghanaj] meriwayatkan hadits itu dari [Nafi'], dari [Shafiyah binti Abu Ubaid], dalam hadits itu ia mengatakan, "Nabi lalu membuat persaksian atas wanita tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4395</td></tr><tr><td>Arabic No</td><td>4395</td></tr><tr><td>Reference</td><td>Book 40 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что одна женщина из племени махзум брала на время вещи, а потом отказалась возвращать их, и Пророк ﷺ велел отрубить ей руку. А в версии Ибн ‘Умара или Сафийи бинт Абу ‘Убайд говорится, что Пророк ﷺ обратился к людям с проповедью и трижды спросил: «Есть ли среди вас женщина, раскаявшаяся перед Всемогущим и Великим Аллахом и Его посланником?» А она (совершившая кражу женщина до того, как ей отрубили руку) была там, но не встала и ничего не сказала
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4395</td></tr><tr><td>Arabic No</td><td>4395</td></tr><tr><td>Reference</td><td>Book 40 Hadith 45</td></tr></tbody></table></div>
 

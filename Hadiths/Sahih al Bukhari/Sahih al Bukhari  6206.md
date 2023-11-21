@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The most awful (meanest) name in A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Abu Az Zinnad] dari [Al A'raj] dari [Abu Hurairah] secara periwayatan, dia berkata; "Sehina-hinanya nama di sisi Allah -Sufyan mengatakan tidak cuma sekali- sehina-hinanya nama di sisi Allah adalah seseorang yang bernama Malikil Amalak (raja diraja)." Sufyan berkata; yang lain mengatakan; sedangkan tafsirnya adalah syahan syah (sebutan untuk raja dari segala raja)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6206</td></tr><tr><td>Arabic No</td><td>6206</td></tr><tr><td>Reference</td><td>Book 78 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Самым низким именем у Аллаха является имя того, кто называет себя царём всех царей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6206</td></tr><tr><td>Arabic No</td><td>6206</td></tr><tr><td>Reference</td><td>Book 78 Hadith 230</td></tr></tbody></table></div>
 

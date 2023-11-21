@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) did not eat at a table till he died, and he did 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Sa'id bin Abu 'Arubah] dari [Qatadah] dari [Anas] radliallahu 'anhu dia berkata; "Nabi shallallahu 'alaihi wasallam tidak pernah makan di atas khiwan (tempat yang sangat besar) hingga beliau meninggal, dan tidak juga memakan roti yang lunak hingga beliau meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6450</td></tr><tr><td>Arabic No</td><td>6450</td></tr><tr><td>Reference</td><td>Book 81 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Пророк ﷺ никогда не ел за обеденным столом, до самой смерти, и он никогда не ел нежный белый хлеб, до самой смерти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6450</td></tr><tr><td>Arabic No</td><td>6450</td></tr><tr><td>Reference</td><td>Book 81 Hadith 39</td></tr></tbody></table></div>
 

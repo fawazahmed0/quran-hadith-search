@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara bin Azib that once he had a guest, so he told his family (on th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Abdullah menuturkan; [Muhammad bin Basyar] telah menulis kepadaku (yang berbunyi), telah menceritakan kepada kami [Mu'adz bin Mu'adz] telah menceritakan kepada kami [Ibnu 'Aun] dari [Asy Sya'bi] menuturkan; [Al Barra' bin Azib] berkata ketika itu ia dikunjungi tamu-tamu, maka ia perintahkan keluarganya untuk menyembelih sebelum ia kembali dari (shalat hari raya) dengan tujuan agar tamu-tamunya dapat makan, karenanya mereka sembelih sebelum shalat (hari raya). Kejadian ini terus mereka laporkan kepada Nabi shallallahu 'alaihi wasallam. Maka Nabi memerintahkannya untuk mengulangi sembelihannya. Al Barra' kemudian bertanya; 'Wahai Rasulullah, saya mempunyai kambing yang telah berumur sekitar enam bulan yang banyak susunya, dia lebih baik daripada dua kambing pedaging …! ' [Ibnu 'Aun] memauqufkan hanya sampai kalimat ini dari hadis [Asy Sya'bi], dan dia menceritakan dari [Muhammad bin Sirin] dengan semisal hadits ini, dan dia memauqufkan sampai di tempat ini. Dan dia katakan; 'aku tidak tahu apakah selainnya mendapat rukhsah atau tidak.' diriwayatkan oleh [Ayyub] dari [Ibnu Sirin] dari [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6673</td></tr><tr><td>Arabic No</td><td>6673</td></tr><tr><td>Reference</td><td>Book 83 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн 'Азиб, да будет доволен им Аллах, сказал: «Однажды у них (в гостях) был гость, и он повелел своей семье зарезать жертвенное животное прежде, чем возвратиться (к своей семье), дабы их гость отведал (из мяса жертвенного животного). И они принесли жертву до (праздничной) молитвы и рассказали об этом Пророку ﷺ, на что он приказал ему повторить жертвоприношение. Тогда он сказал: “О Посланник Аллаха! У меня есть годовалая, питающаяся молоком матери козочка. Она даже лучше, чем две овцы”».\n(Мухаммад) ибн ‘Аун останавливался в этом месте, передавая хадис от аш-Ша’би, а когда рассказывал подобный хадис от Мухаммад ибн Сирина, то останавливался в том же месте и говорил: «Я не знаю, действовало ли данное послабление на кого-то другого или нет».\n(Этот хадис) передал Аюб (ас-Сахтияни) от (Мухаммад) ибн Сирина от Анаса от Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6673</td></tr><tr><td>Arabic No</td><td>6673</td></tr><tr><td>Reference</td><td>Book 83 Hadith 51</td></tr></tbody></table></div>
 

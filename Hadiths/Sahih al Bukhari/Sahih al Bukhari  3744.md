@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, " Every nation has an extr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Amru bin 'Ali] telah bercerita kepada kami ['Abdul A'laa] telah bercerita kepada kami [Khalid] dari [Abu Qilabah] berkata, telah bercerita kepadaku [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap ummat memiliki orang kepercayaan dan orang kepercayaan kita, wahai sekalian ummat, adalah Abu 'Ubaidah bin Al Jarrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3744</td></tr><tr><td>Arabic No</td><td>3744</td></tr><tr><td>Reference</td><td>Book 62 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, в каждой общине есть тот, кто заслуживает доверия /амин/, что же касается заслуживающего нашего доверия, о (члены) общины (мусульман), то им является Абу ‘Убайда ибн аль-Джаррах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3744</td></tr><tr><td>Arabic No</td><td>3744</td></tr><tr><td>Reference</td><td>Book 62 Hadith 89</td></tr></tbody></table></div>
 

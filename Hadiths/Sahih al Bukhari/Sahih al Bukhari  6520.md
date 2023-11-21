@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "The (planet of) earth will
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Khalid] dari [Sa'id bin Abu Hilal] dari [Zaid bin Aslam] dari ['Atho' bin yasar] dari [Abu Sa'id Al Khudzri], Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada hari kiamat bumi bagaikan sekeping roti, Allah Al Jabbar memutar-mutarnya dengan tangan-Nya sebagaimana salah seorang diantara kalian bisa memutar-mutar rotinya dalam perjalanan sebagai kabar gembira penghuni surga." Selanjutnya ada seorang yahudi dan berujar; 'Kiranya Allah Arrahman memberkatimu wahai Abul Qasim, maukah kamu kuberitahu kabar gembira penghuni surga dihari kiamat nanti? ' "baik" Jawab Nabi. Lanjut si yahudi; 'Bumi ketika itu bagaikan sekeping roti' sebagaimana disabdakan Nabi shallallahu 'alaihi wasallam. Lantas Nabi shallallahu 'alaihi wasallam memandang kami dan tertawa hingga terlihat gigi serinya, kemudian Nabi berujar; "Maukah kamu kuberitahu lauk penghuni surga?" Lanjut beliau; "lauk mereka adalah sapi dan ikan paus." Mereka bertanya; 'Apa keistimewaan daging ini? ' Nabi menjawab: "sobekan hati ikan paus dan sapi itu, bisa disantap untuk tujuh puluh ribu orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6520</td></tr><tr><td>Arabic No</td><td>6520</td></tr><tr><td>Reference</td><td>Book 81 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что однажды Пророк ﷺ сказал: «В День воскрешения земля (уподобится) хлебцу, а Могущественный опрокинет её Своей рукой подобно тому, как любой из вас опрокидывает свой хлебец(, готовясь) отправиться в путь, (и станет она) угощением для обитателей рая». А потом (к Пророку ﷺ) пришёл один из иудеев и сказал: «Да благословит тебя Милостивый, о Абу-ль-Касим! Не сообщить ли тебе об угощении для обитателей рая в День воскресения?» (Пророк ﷺ) сказал: «Да», и (тогда этот иудей) сказал: «Земля уподобится хлебцу…», (повторив) то, что было сказано Пророком ﷺ который посмотрел на нас и принялся смеяться так, что стали видны его коренные зубы. А потом (этот иудей) спросил: «Не сообщить ли тебе о том, с чем они будут есть это?» — и сказал: « (Это будет) балам и рыба». (Люди) спросили: «А что это такое?» Он сказал: «Бык и рыба, (одну только) долю печени которых будут есть семьдесят тысяч человек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6520</td></tr><tr><td>Arabic No</td><td>6520</td></tr><tr><td>Reference</td><td>Book 81 Hadith 109</td></tr></tbody></table></div>
 

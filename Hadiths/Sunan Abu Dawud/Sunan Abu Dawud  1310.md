@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah, wife of Prophet (ﷺ):When one of you dozes in prayer he shoul
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Aisyah isteri Nabi] shallallahu 'alaihi wasallam bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian mengantuk dalam shalat, hendaknya ia tidur terlebih dahulu hingga rasa kantuknya hilang, karena apabila salah seorang dari kalian mengerjakan shalat dalam kondisi mengantuk, di khawatirkan ketika dia hendak meminta ampun, tapi sebaliknya dia malah mencela dirinya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (212) Sahih Muslim (786)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>1310</td></tr><tr><td>Reference</td><td>Book 5 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Если один из вас ощутит сонливость во время молитвы, пусть поспит, пока сонливость не пройдёт, ибо, поистине, может случиться так, что кто-то из вас, совершая молитву сонным, соберётся просить у Аллаха прощения, а вместо этого начнёт ругать себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (212) Sahih Muslim (786)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>1310</td></tr><tr><td>Reference</td><td>Book 5 Hadith 61</td></tr></tbody></table></div>
 

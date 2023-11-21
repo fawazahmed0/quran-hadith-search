@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Um Ar-Rubai'bint Al-Bara', the mother of Hartha bin Sura
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin 'Abdullah] telah bercerita kepada kami [Husain bin Muhammad Abu Ahmad] telah bercerita kepada kami [Syaiban] dari [Qatadah] telah bercerita kepada kami [Anas bin Malik] bahwa Ummu Ar-Rubbai' binti Al Bara', dia adalah ibunya Haritsah bin Suraqoh datang menemui Nabi shallallahu 'alaihi wasallam lalu berkata: "Wahai Nabi Allah, tolong katakan kepadaku tentang Haritsah yang terbunuh di perang badar karena terkena panah nyasar. Apabila dia berada di surga aku akan bersabar mererimanya namun bila selain itu aku akan menangisinya". Beliau menjawab: "Wahai Ummu Haritsah, sesungguhnya di surga ada taman-taman dan sungguh anakmu itu telah menempati surga Firdus yang paling tinggi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2809</td></tr><tr><td>Arabic No</td><td>2809</td></tr><tr><td>Reference</td><td>Book 56 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «(В своё время) Умм ар-Рубаййи‘ бинт аль-Бара, да будет доволен ею Аллах, которая была матерью Харисы бин Сураки, да будет доволен им Аллах, пришла к Пророку ﷺ и попросила: “О пророк Аллаха, не расскажешь ли ты мне о Харисе? А он был убит стрелой, пущенной неизвестным человеком, в день (битвы при) Бадре. Если он находится в раю, то я буду терпеть, если же нет, я буду горько плакать о нём!” (В ответ ей Пророк ﷺ) сказал: “О Умм Хариса, поистине, в раю есть сады и, поистине, твоему сыну досталась (лучшая часть) Фирдауса!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2809</td></tr><tr><td>Arabic No</td><td>2809</td></tr><tr><td>Reference</td><td>Book 56 Hadith 25</td></tr></tbody></table></div>
 

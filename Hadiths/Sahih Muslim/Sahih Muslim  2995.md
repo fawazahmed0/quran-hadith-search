@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (Allah be pleased with him) said:I heard Allah's Apostle (way peace be upon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Suraij bin Yunus] Telah menceritakan kepada kami [Husyaim] Telah menceritakan kepada kami [Humaid] dari [Bakr] dari [Anas] radliallahu 'anhu, ia berkata; "Saya mendengar Nabi shallallahu 'alaihi wasallam membaca talbiyah (memulai ihram) untuk haji dan umrah sekaligus." Bakr berkata; Lalu saya menceritakan hal itu kepada Ibnu Umar, maka ia pun berkata, "Beliau membaca talbiyah (memulai ihram) hanya untuk haji saja." Kemudian aku menemui Anas dan menceritakan ungkapan [Ibnu Umar], maka Anas pun berkata, "Kalian tidaklah menganggap kami, kecuali masih kecil (saat itu). Saya telah mendengar Rasulullah shallallahu 'alaihi wasallam membaca: "LABBAIKA UMRATAN WA HAJJAN (Ya Allah, aku penuhi panggilan-Mu untuk haji sekaligus Umrah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2995</td></tr><tr><td>Arabic No</td><td>1232.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2995</td></tr><tr><td>Arabic No</td><td>1232.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 203</td></tr></tbody></table></div>
 

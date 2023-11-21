@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Some men amongst the companions of the Prophet (ﷺ) were sho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] bahwa ada seorang dari sahabat Nabi shallallahu 'alaihi wasallam yang menyaksilan Lailatul Qadar dalam mimpi terjadi pada tujuh hari terakhir. Maka Rasulullah shallallahu 'alaihi wasallam berkata: "Aku memandang bahwa mimpi kalian tentang Lailatul Qadar tepat terjadi pada tujuh malam terakhir, maka siapa yang mau mendekatkan diri kepada Allah dengan mencarinya, lakukanlah pada tujuh malam terakhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2015</td></tr><tr><td>Arabic No</td><td>2015</td></tr><tr><td>Reference</td><td>Book 32 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что (в своё время) нескольким людям из числа сподвижников Пророка ﷺ было открыто во сне, что ночью предопределения будет одна из семи последних ночей (рамадана), и тогда Посланник Аллаха ﷺ сказал: «Я вижу, что ваши сновидения сходятся на семи последних ночах, так пусть же тот, кто ждёт ночи предопределения, ожидает её (наступления) в течение семи последних (ночей)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2015</td></tr><tr><td>Arabic No</td><td>2015</td></tr><tr><td>Reference</td><td>Book 32 Hadith 2</td></tr></tbody></table></div>
 

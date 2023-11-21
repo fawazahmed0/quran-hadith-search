@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Iyas b. al-Harith b. al-Mu'aiqib quoting his grandfather said and his grandfathe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnul Mutsanna] dan [Ziyad bin Yahya] dan [Al hasan bin Ali] mereka berkata; telah menceritakan kepada kami [Sahl bin Hammad Abu Attab] berkata, telah menceritakan kepada kami [Abu Makin Nuh bin Rabi'ah] berkata, telah menceritakan kepadaku [Iyas Ibnul Harits Ibnul Mu'aiqib] dan kakeknya dari pihak ibunya Abu Dzubab dari [Kakeknya] ia berkata, "Cincin Nabi shallallahu 'alaihi wasallam terbuat dari besi bercampur perak." Ia melanjutkan, "Dan mungkin itu masih di tangannya. Sementara cincin Mu'aiqib mengatakan seperti Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4224</td></tr><tr><td>Arabic No</td><td>4224</td></tr><tr><td>Reference</td><td>Book 36 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ияс ибн аль-Харис ибн аль-Му‘айкыб, дедом которого по матери был Абу Зубаб, передаёт от своего деда (аль-Му‘айкыба): «Перстень Пророка ﷺ был железным, а сверху было нанесено серебро». Он сказал: «А он держал его в руках». Он также сказал: «А аль-Му‘айкыб отвечал за перстень-печать Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4224</td></tr><tr><td>Arabic No</td><td>4224</td></tr><tr><td>Reference</td><td>Book 36 Hadith 11</td></tr></tbody></table></div>
 

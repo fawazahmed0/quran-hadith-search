@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever the Prophet (ﷺ) intended to proceed on a journey, he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hajjaj bin Minhal] telah bercerita kepada kami ['Abdullah bin 'Umar An-Numairiy] telah bercerita kepada kami [Yunus] berkata aku mendengar [Az Zuhriy] berkata aku mendengar ['Urwah bin Az Zubair], [Sa'id bin Al Musayyab], ['Alqomah bin Waqosh] dan ['Ubaidullah bin 'Abdullah] tentang peristiwa yang terjadi pada diri ['Aisyah] radliallahu 'anha dimana setiap orang dari mereka bercerita kepadaku bagian-bagian hadits, 'Aisyah radliallahu 'anha berkata: "Adalah Nabi shallallahu 'alaihi wasallam bila hendak bepergian Beliau melakukan undian di antara istri-istri Beliau, dan siapa yang namanya keluar berarti dialah yang turut menyertai Nabi shallallahu 'alaihi wasallam. Suatu hari Beliau mengundi diantara kami untuk peperangan yang Beliau lakukan lalu yang keluarlah undianku (bagianku). Maka aku berangkat bersama Nabi shallallahu 'alaihi wasallam setelah diturunkan ayat hijab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2879</td></tr><tr><td>Arabic No</td><td>2879</td></tr><tr><td>Reference</td><td>Book 56 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, сказала: «Намереваясь отправиться в путь, Пророк ﷺ бросал жребий среди своих жён и брал с собой ту, на которую он выпадал. Однажды, прежде чем отправиться на одно из сражений, он бросил жребий среди нас, и жребий достался мне. Я отправилась вместе с Пророком ﷺ после того, как был ниспослан аят с велением носить хиджаб»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2879</td></tr><tr><td>Arabic No</td><td>2879</td></tr><tr><td>Reference</td><td>Book 56 Hadith 94</td></tr></tbody></table></div>
 

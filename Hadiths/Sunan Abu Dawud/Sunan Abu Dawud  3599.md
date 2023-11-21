@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Khuraym Ibn Fatik: The Messenger of Allah (ﷺ) offered the morning pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Musa Al Balkhi] telah menceritakan kepada kami [Muhammad bin 'Ubaid] telah menceritakan kepadaku [Sufyan Al 'Ushfuri] dari [Ayahnya] dari [Habib bin An Nu'man Al Asadi] dari [Khuraim bin Fatik] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melakukan Shalat Subuh, selesai shalat beliau bangkit dan berkata: "Persaksian palsu disamakan dengan perbuatan mensekutukan Allah." Beliau mengucapkannya sebanyak tiga kali. Kemudian beliau membaca ayat: '(Maka jauhilah olehmu berhala-berhala yang najis itu dan jauhilah perkataan-perkataan dusta dengan ikhlas kepada Allah) ' (Qs. Al Hajj:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3599</td></tr><tr><td>Arabic No</td><td>3599</td></tr><tr><td>Reference</td><td>Book 25 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хурайма ибн Фатика, что однажды Посланник Аллаха ﷺ совершил утреннюю молитву, а потом встал и сказал: «Лжесвидетельство было приравнено к придаванию Аллаху сотоварищей». И он повторил свои слова трижды, а потом прочитал: «Избегайте же скверны идолов и избегайте лживых речей. Оставайтесь приверженцами единобожия и не приобщайте к Нему сотоварищей» (сура “аль-Хаджж”, аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3599</td></tr><tr><td>Arabic No</td><td>3599</td></tr><tr><td>Reference</td><td>Book 25 Hadith 29</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Apostle (ﷺ) said When the call to prayer is made, Sat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [al-Mughirah yaitu al-Hizami] dari [Abu az-Zinad] dari [al-A'raj] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda, "Apabila diserukan untuk shalat, maka setan berpaling, dia memiliki kentut hingga dia tidak mendengarkan suara adzan. Dan apabila adzan telah selesai, maka dia kembali hingga apabila shalat telah diiqamatkan, maka dia berpaling hingga apabila iqamah telah selesai, maka dia kembali hingga mengingatkan antara seseorang dengan dirinya, dia berkata, 'Ingat demikian, ingat demikian untuk sesuatu yang tidak dia ingat sebelumnya hingga senantiasa seorang laki-laki tidak mengetahui berapa raka'at dia shalat'." Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan yang semisalnya hanya saja dia berkata, "Hingga seorang laki-laki senantiasa tidak tahu bagaimana dia shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>859</td></tr><tr><td>Arabic No</td><td>389.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Когда произносится призыв к молитве, шайтан отступает, с шумом испуская ветры, чтобы не слышать этого призыва, а когда призыв завершается, он (снова) подступает. И он отступает во время икамы, а когда объявление о начале молитвы завершается, он (снова) подступает, чтобы встать меж человеком и сердцем его и говорит ему: “Вспомни о том-то и том-то”, о чём тот и не помышлял до (молитвы, и он делает это) для того, чтобы человек оставался (в подобном) положении, не ведая, сколько (рак‘атов) молитвы он совершил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>859</td></tr><tr><td>Arabic No</td><td>389.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 22</td></tr></tbody></table></div>
 

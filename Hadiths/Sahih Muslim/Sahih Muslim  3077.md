@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Tufail reported:I saw Allah's Messenger (ﷺ) circumambulating the House. an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Sulaiman bin Dawud] Telah menceritakan kepada kami [Ma'ruf bin Kharrabudz] ia berkata, saya mendengar [Abu Thufail] berkata; "Aku melihat Rasulullah shallallahu 'alaihi wasallam melakukan thawaf di Baitullah dan beliau mengusap rukun (Yamani) dengan menggunakan tongkat, lalu beliau mencium tongkat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3077</td></tr><tr><td>Arabic No</td><td>1275</td></tr><tr><td>Reference</td><td>Book 15 Hadith 283</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Абу Туфайль, да будет доволен им Аллах, сказал: «Я видел, как совершая обход вокруг Каабы Посланник Аллаха ﷺ прикоснулся своим посохом к углу (куда встроен Черный камень) и поцеловал посох»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3077</td></tr><tr><td>Arabic No</td><td>1275</td></tr><tr><td>Reference</td><td>Book 15 Hadith 283</td></tr></tbody></table></div>
 

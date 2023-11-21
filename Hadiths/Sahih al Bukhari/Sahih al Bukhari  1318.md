@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (p.b.u.h) informed his companions about the dea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhriy] dari [Sa'id] dari [Abu Hurairah radliallahu 'anhu] berkata,: Nabi Shallallahu'alaihiwasallam mengumumkan kematian An-Najasyi, kemudian Beliau maju dan membuat barisan shaf di belakang, Beliau lalu takbir empat kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>1318</td></tr><tr><td>Reference</td><td>Book 23 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Пророк ﷺ сообщил людям о кончине негуса (ан-Наджаши), затем вышел вперед, а люди выстроились рядами позади него, и произнес четыре такбира»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>1318</td></tr><tr><td>Reference</td><td>Book 23 Hadith 75</td></tr></tbody></table></div>
 

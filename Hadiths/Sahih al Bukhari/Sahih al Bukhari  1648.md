@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Asim:I asked Anas bin Malik: "Did you use to dislike to perform Tawaf 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami ['Ashim] berkata; Aku berkata, kepada [Anas bin Malik radliallahu 'anhu]: "Apakah kalian tidak menyukai melaksanakan sa'iy antara bukit Shafaa dan Marwah? '. Dia menjawab: "Ya benar, karena itu bagian dari syi'ar-syi'ar jahiliyyah hingga kemudian Allah menurunkan (QS Al Baqarah ayat 158) yang artinya ("Sesungguhnya Ash-Shafaa dan Al Marwah adalah bahagian dari syi'ar-syi'ar Allah, barangsiapa yang beribadah haji ke Baitullah atau ber-'umrah, maka tidak ada dosa baginya mengerjakan sa'iy antara keduanya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1648</td></tr><tr><td>Arabic No</td><td>1648</td></tr><tr><td>Reference</td><td>Book 25 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Асым рассказывал: «Я спросил Анаса ибн Малика: “Вам не нравилось совершение бега между ас-Сафа и аль-Марва?” Он сказал: “Да, так как это было из обрядов доисламского невежества /джахилия/, (так было до тех пор) пока Аллах не ниспослал: “Воистину, ас-Сафа и аль-Марва — одни из обрядовых знамений Аллаха. Кто совершает хадж к Каабе или малое паломничество, тот не совершит греха, если пройдёт между ними” (сура “аль-Бакара”, аят 158)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1648</td></tr><tr><td>Arabic No</td><td>1648</td></tr><tr><td>Reference</td><td>Book 25 Hadith 129</td></tr></tbody></table></div>
 

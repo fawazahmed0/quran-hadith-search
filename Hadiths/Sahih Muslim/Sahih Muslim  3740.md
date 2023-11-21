@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Umm 'Atiyya (رضي الله عنها), Le Prophète (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Hasan bin Rabi'] telah menceritakan kepada kami [Ibnu Idris] dari [Hisyam] dari [Hafshah] dari [Ummu 'Athiyah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Tidak boleh bagi seorang wanita melakukan ihdad karena kematian seseorang melebihi tiga hari, kecuali karena kematian suaminya yaitu empat bulan sepuluh hari, dan tidak boleh menggunakan pakaian yang berwarna warni, melainkan hanya memakai pakaian yang kasar (kain beludru), dan tidak boleh menggunakan celak mata, dan tidak boleh memakai wewangian kecuali jika masa iddahnya telah habis, maka diperbolehkan baginya memakai qusth dan adzfar (sejenis pohon yang harum baunya)." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] dan diganti dengan jalur periwayatan yang lain, dari [Amru] telah menceritakan kepada kami [Yazid bin Harun] keduanya dari [Hisyam] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3740</td></tr><tr><td>Arabic No</td><td>938.03</td></tr><tr><td>Reference</td><td>Book 18 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3740</td></tr><tr><td>Arabic No</td><td>938.03</td></tr><tr><td>Reference</td><td>Book 18 Hadith 85</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama:I went out of Medina towards Al-Ghaba. When I reached the mounta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Makkiy bin Ibrohim] telah mengabarkan kepada kami [Yazid bin 'Ubaid] dari [Salamah] bahwa dia mengabarkan kepadanya, katanya: "Aku keluar dari Madinah untuk pergi menuju hutan hingga ketika aku sudah berada didekat hutan tersebut, ada seorang anak kecil pelayan 'Abdur Rohman bin 'Auf yang menemuiku. Aku bertanya: "Ada apa denganmu?". Dia menjawab: "Unta perahan milik Nabi Shallallahu'alaihiwasallam telah dirampok". Aku tanya: "Siapa yang mencurinya?". Anak itu berkata: "(Suku) Ghothofan dan Fazaroh". Maka aku berteriak sebanyak tiga kali dengan teriakan yang dapat kuperdengarkan diantara dua bukit berbatu hitam. Aku katakan: " "Awas, ini pagi yang bahaya! Awas, ini pagi yang bahaya! kemudian aku terus berjalan cepat hingga mereka (musuh) bisa kususul lengkap dengan hewan Rampokannya. Sambil kulempari mereka, aku mengatakan "Akulah Ibnul akwa', hari ini hari binasa bagi mereka itu!" Maka aku dapat merebut kembali unta itu dari mereka sebelum mereka meminum susunya. Kemudian aku kembali dengan membawa unta itu. Selanjutnya Nabi Shallallahu'alaihiwasallam menemuiku dan kukatakan: "Wahai Rasulullah, kaum itu kehausan dan aku dapat mendahului mereka sebelum meminumnya. Untuk itu, kirimlah pasukan untuk memburu jejak mereka!". Maka Beliau Shallallahu'alaihiwasallam berkata: "Wahai Ibnu Al Akwa', tahanlah emosimu dan bersikap lembutlah, karena mereka adalah kaum yang suka menjamu tamu dan suka memberi pinjaman di tengah-tengah kaum mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3041</td></tr><tr><td>Arabic No</td><td>3041</td></tr><tr><td>Reference</td><td>Book 56 Hadith 247</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Салама (бин аль-Аква‘), да будет доволен им Аллах, сказал: «(Однажды) я выехал из Медины, направившись в сторону аль-Габы, а когда я достиг горного прохода, ведущего в аль-Габу, мне повстречался раб ‘Абд ар-Рахмана бин ‘Ауфа. Я спросил его: “Горе тебе, что с тобой?” Он ответил: “Похитили дойных верблюдиц Пророка ﷺ!” Я спросил: “Кто взял их?” Он ответил: “(Люди из племён) гатафан и фазара”. И я трижды прокричал: “Йа сабахах!” так громко, чтобы это могли услышать меж двух гор. А потом я бросился (вдогонку), настиг их и (оказалось, что) они (действительно) захватили (верблюдиц). Тогда я начал стрелять в них из лука со словами: Я сын аль-Аква‘, а сегодня день, когда подлые погибнут!И я отобрал у них верблюдиц ещё до того, как они смогли напиться (их молока), а потом погнал их (назад). Когда меня встретил Пророк ﷺ я сказал: “О Посланник Аллаха, поистине, эти люди испытывают жажду, но я заставил их спешить и не дал им напиться, пошли же за ними (кого-нибудь)!” (однако) он сказал (мне): “О Ибн аль-Аква‘, ты взял верх (над врагами), а теперь смягчись, ибо сейчас этих людей их соплеменники принимают как гостей!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3041</td></tr><tr><td>Arabic No</td><td>3041</td></tr><tr><td>Reference</td><td>Book 56 Hadith 247</td></tr></tbody></table></div>
 

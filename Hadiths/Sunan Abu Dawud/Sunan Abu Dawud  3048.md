@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A man reported from Bakr bin Wa’il on the authority of his maternal uncle as s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepada kami [Abdurrahman], telah menceritakan kepada kami [Sufyan] dari ['Atho'], dari [seorang laki-laki dari Bakr bin Wail], dari [pamannya], ia berkata; aku katakan kepada Rasulullah shallallahu 'alaihi wasallam; wahai Rasulullah, apakah aku mewajibkan sepersepuluh atas kaumku? Beliau berkata; sesungguhnya sepersepuluh adalah kewajiban atas orang-orang yahudi dan nashrani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3048</td></tr><tr><td>Arabic No</td><td>3048</td></tr><tr><td>Reference</td><td>Book 20 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Ата передаёт со слов одного человека из бану Бакр ибн Ваиль от его дяди по матери: «Я сказал: “О Посланник Аллаха, мне брать десятину со своих соплеменников?” (Посланник Аллаха ﷺ) сказал: “Десятина взимается только с иудеев и христиан”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3048</td></tr><tr><td>Arabic No</td><td>3048</td></tr><tr><td>Reference</td><td>Book 20 Hadith 121</td></tr></tbody></table></div>
 

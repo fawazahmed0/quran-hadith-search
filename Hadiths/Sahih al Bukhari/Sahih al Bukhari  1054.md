@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma:No doubt the Prophet (ﷺ) ordered people to manumit slaves during
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Rabi' bin Yahya] berkata, telah menceritakan kepada kami [Za'idah] dari [Hisyam] dari [Fatimah] dari [Asma'] berkata, "Nabi shallallahu 'alaihi wasallam telah memerintahkan untuk membebaskan budak ketika terjadi gerhana matahari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1054</td></tr><tr><td>Arabic No</td><td>1054</td></tr><tr><td>Reference</td><td>Book 16 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Абу Бакр, да будет доволен Аллах ими обоими, сказала: «Пророк ﷺ велел (людям) освобождать рабов во время солнечного затмения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1054</td></tr><tr><td>Arabic No</td><td>1054</td></tr><tr><td>Reference</td><td>Book 16 Hadith 14</td></tr></tbody></table></div>
 

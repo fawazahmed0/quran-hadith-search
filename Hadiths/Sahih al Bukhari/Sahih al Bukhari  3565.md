@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) did not use to raise his hands in his invo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3565</td></tr><tr><td>Arabic No</td><td>3565</td></tr><tr><td>Reference</td><td>Book 61 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Обращаясь к Аллаху с мольбами, Посланник Аллаха ﷺ никогда не поднимал рук кверху, если не считать молений о ниспослании дождя, (в подобных же случаях) он поднимал руки так высоко, что становилась видна белизна его подмышек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3565</td></tr><tr><td>Arabic No</td><td>3565</td></tr><tr><td>Reference</td><td>Book 61 Hadith 75</td></tr></tbody></table></div>
 

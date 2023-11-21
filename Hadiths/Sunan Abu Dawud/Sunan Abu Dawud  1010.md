@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said ; The Messenger of Allah (ﷺ) led us in prayer. He then narra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1010</td></tr><tr><td>Arabic No</td><td>1010</td></tr><tr><td>Reference</td><td>Book 2 Hadith 621</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ руководил нашей молитвой…». И он пересказал хадис, похожий на хадис Хаммада, полностью, до слов: «Мне рассказали, что ‘Имран ибн Хусайн, да будет доволен Аллах им и его отцом, сказал: “После двух земных поклонов, совершённых во искупление оплошности, Посланник Аллаха ﷺ произнёс слова таслима”». (Передатчик) сказал: «Я спросил: “Совершал ли он перед этим ташаххуд?” Он ответил: “Я ничего не слышал о ташаххуде, однако сам я считаю предпочтительным совершать его”». В этой версии не упоминается, что этого человека звали Зу-ль-ядайн, и не упоминается о том, что люди кивнули, и не упомянуто, что Посланник Аллаха ﷺ гневался. И версия Хаммада от Айюба более полная
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1010</td></tr><tr><td>Arabic No</td><td>1010</td></tr><tr><td>Reference</td><td>Book 2 Hadith 621</td></tr></tbody></table></div>
 

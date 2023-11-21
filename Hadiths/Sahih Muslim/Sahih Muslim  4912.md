@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Bara' who said:When the Qur'anic verse:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Bisyr] dari [Mis'ar] telah menceritakan kepadaku [Abu Ishaq] dari [Al Barra] dia berkata, "Tatkala turunnya ayat: '(Tidaklah sama antara mukmin yang duduk (yang tidak ikut berperang) …' (Qs. An Nisaa: 95), lalu Ibnu Ummi Maktum protes, maka setelah itu turunlah: '(yang tidak mempunyai 'uzur)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4912</td></tr><tr><td>Arabic No</td><td>1898.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 207</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4912</td></tr><tr><td>Arabic No</td><td>1898.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 207</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:An inquirer asked the Messenger of Allah (ﷺ) about the pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1148</td></tr><tr><td>Arabic No</td><td>515.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 310</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что какой-то человек задал Посланнику Аллаха ﷺ вопрос о (допустимости) совершения молитвы в одной одежде, (и в ответ ему) Посланник Аллаха ﷺ сказал: «А разве каждый из вас имеет по две одежды?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1148</td></tr><tr><td>Arabic No</td><td>515.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 310</td></tr></tbody></table></div>
 

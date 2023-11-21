@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Wahb:Hudhaifa saw a person who was not performing the bowing a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] berkata, "Aku mendengar [Zaid bin Wahb] berkata, " [Hudzaifah] melihat seseorang shalat namun tidak menyempurnakan rukuk dan sujudnya. Maka dia berkata, "Kamu belum shalat. Seandainya kamu meninggal dunia, maka kamu mati dalam keadaan di luar fithrah (agama), padahal Allah telah menciptakan Muhammad shallallahu 'alaihi wasallam berada diatasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>791</td></tr><tr><td>Arabic No</td><td>791</td></tr><tr><td>Reference</td><td>Book 10 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Уахб сказал: «Однажды Хузайфа увидел человека, который не совершал полностью поясные и земные поклоны, и сказал ему: “Ты не совершил молитву, и если ты умрешь (в таком положении), то умрешь не на сунне Мухаммада ﷺ!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>791</td></tr><tr><td>Arabic No</td><td>791</td></tr><tr><td>Reference</td><td>Book 10 Hadith 186</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Listen and obey (your chief) even if an E
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepadaku [Abu At Tayyah] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Dengar dan taatlah kalian, sekalipun yang memimpin kalian adalah seorang budak Habasyi yang berambut keriting seperti buah kismis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>693</td></tr><tr><td>Arabic No</td><td>693</td></tr><tr><td>Reference</td><td>Book 10 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: “Слушайте (своего правителя) и повинуйтесь (ему), даже если поставят над вами эфиопского раба, голова которого подобна изюмине”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>693</td></tr><tr><td>Arabic No</td><td>693</td></tr><tr><td>Reference</td><td>Book 10 Hadith 88</td></tr></tbody></table></div>
 

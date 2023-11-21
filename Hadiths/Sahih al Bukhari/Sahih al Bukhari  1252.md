@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) passed by a woman who was sitting and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Tsabit] dari [Anas bin Malik radliallahu 'anhu] berkata: "Rasulullah shallallahu 'alaihi wasallam berjalan melewati seorang wanita yang sedang berada di kuburan dalam keadaan menangis. Maka Beliau berkata;: "Bertakwalah kamu kepada Allah dan bersabarlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1252</td></tr><tr><td>Arabic No</td><td>1252</td></tr><tr><td>Reference</td><td>Book 23 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что однажды Пророк ﷺ проходивший мимо какой-то женщины, которая плакала у могилы, (остановился) и сказал (ей): «Бойся Аллаха и храни терпение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1252</td></tr><tr><td>Arabic No</td><td>1252</td></tr><tr><td>Reference</td><td>Book 23 Hadith 14</td></tr></tbody></table></div>
 

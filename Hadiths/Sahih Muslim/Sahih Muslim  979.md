@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir reported:The Messenger of Allah (may peace-be upon him) used to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Simak bin Harb] dia berkata, Saya mendengar [an-Nu'man bin Basysyir] berkata, "Dahulu Rasulullah shallallahu 'alaihi wasallam menyamakan shaf kami hingga seakan-akan menyamakan busur panah hingga beliau melihat bahwa kami sungguh telah terikat darinya. Kemudian pada suatu hari beliau keluar, lalu berdiri hingga hampir bertakbir, lalu beliau melihat seorang laki-laki menonjolkan dadanya dari shaf, maka beliau bersabda, 'Wahai hamba Allah, sungguh kalian menyamakan shaf kalian atau Allah akan menyelisihkan antara wajah kalian'." Telah menceritakan kepada kami [Hasan bin ar-Rabi'] dan [Abu Bakar bin Abi Syaibah] keduanya berkata, telah menceritakan kepada kami [Abu al-Ahwash] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dengan isnad ini hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>979</td></tr><tr><td>Arabic No</td><td>436.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ан-Ну’ман ибн Башир, сказал: «Посланник Аллаха ﷺ выравнивал наши ряды (так тщательно), будто (собирался проверять) по ним прямоту стрел. (Он продолжал делать это) до тех пор, пока не посчитал, что мы поняли, чего он (от нас) желает. В один из дней он вышел (из дома в мечеть), встал (на своё место) и был уже готов произнести слова “Аллах велик!” /Аллаху акбар/, как вдруг заметил, что грудь одного человека выступает из ряда, и сказал: “О рабы Аллаха! Либо вы будете выравнивать ваши ряды, либо Аллах разобщит (или: изменит) ваши лица”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>979</td></tr><tr><td>Arabic No</td><td>436.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 141</td></tr></tbody></table></div>
 

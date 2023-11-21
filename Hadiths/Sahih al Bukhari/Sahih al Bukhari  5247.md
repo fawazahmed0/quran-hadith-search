@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:We were with the Prophet (ﷺ) in Ghazwa, and when 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ya'qub bin Ibrahim] Telah menceritakan kepada kami [Husyaim] Telah mengabarkan kepada kami [Sayyar] dari [Asy Sya'bi] dari [Jabir bin Abdullah] ia berkata; Suatu ketika, kami berada bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu peperangan. Saat perjalanan kembali dan telah mendekati kota Madinah, maka aku pun memacu laju Untaku. Lalu seseorang menyusulku dari belakang dan menahan laju Untaku dengan tongkat miliknya hingga Untaku menjadi sangat lamban sebagaimana Unta yang paling yang pernah Anda lihat. Aku menoleh, ternyata orang itu adalah Rasulullah shallallahu 'alaihi wasallam. Aku pun berkata, "Wahai Rasulullah, sesungguhnya aku punya hajat Walimatul Ursy." Beliau bertanya: "Apakah kamu telah menikahi seorang wanita?" Aku menjawab: "Ya." Beliau bertanya lagi: "Dengan gadis ataukah janda?" Aku menjawab, "Janda." Beliau bersabda: "Kenapa tidak dengan gadis sehingga kamu dapat bermain-main dengannya dan ia pun dapat bermain-main denganmu?." Ketika sudah mendekat dan akan sampai, kami pun pergi untuk segera masuk, maka beliau bersabda: "Pelan-pelanlah hingga kalian masuk tepat pada malam (yaitu setelah shalat Isya) sehingga yang kusut rambutnya dapat bersisir dan isteri yang ditinggal bisa mempersiapkan diri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5247</td></tr><tr><td>Arabic No</td><td>5247</td></tr><tr><td>Reference</td><td>Book 67 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира бин ‘Абдуллаха, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Если вернёшься (в свой город) ночью (после поездки), не приходи к своей семье, пока женщина, муж которой отсутствовал, не сбреет себе волосы на теле, а непричёсанная не приведёт свои волосы в порядок»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5247</td></tr><tr><td>Arabic No</td><td>5247</td></tr><tr><td>Reference</td><td>Book 67 Hadith 180</td></tr></tbody></table></div>
 

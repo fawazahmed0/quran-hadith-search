@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "If anyone of you sees a dr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yuusf] telah menceritakan kepada kami [Al Laits] telah menceritakan kepada kami [Ibnul Al Had] dari [Abdullah bin Khabbab] dari [Abu Sa'id Al Khudri], ia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Jika salah seorang diantara kalian bermimpi yang ia sukai, sebenarnya mimpi tersebut berasal dari Allah, maka hendaklah ia memuji Allah karenanya dan ceritakanlah, adapun jika ia bermimpi selainnya yang tidak disukai, maka itu berasal dari setan, maka hendaklah ia meminta perlindungan dari keburukannya, dan jangan menceritakannya kepada orang lain, sehingga tidak membahayakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6985</td></tr><tr><td>Arabic No</td><td>6985</td></tr><tr><td>Reference</td><td>Book 91 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «Если кто-нибудь из вас видит такие сны, которые ему нравятся, (это значит, что) они (приходят) только от Аллаха, так пусть же он воздаёт Аллаху хвалу за (такие сны) и рассказывает их (другим), если же он видит нечто иное, что ему не нравится, то это — только от шайтана, пусть же он обращается за защитой к Аллаху от зла этого и никому не рассказывает (таких снов), и тогда это ему не повредит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6985</td></tr><tr><td>Arabic No</td><td>6985</td></tr><tr><td>Reference</td><td>Book 91 Hadith 4</td></tr></tbody></table></div>
 

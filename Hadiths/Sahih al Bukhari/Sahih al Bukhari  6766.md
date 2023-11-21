@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:I heard the Prophet (ﷺ) saying, "Whoever claims to be the son of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid] yaitu Ibnu Abdullah, telah menceritakan kepada kami [Khalid] dari [Abu Utsman] dari [Sa'd] radliallahu 'anhu mengatakan, aku menengar Nabi Shallallahu'alaihiwasallam bersabda; "Barangsiapa menasabkan diri kepada selain ayahnya padahal ia tahu bukan ayahnya maka surga haram baginya." Maka aku sampaikan hadits ini kepada [Abu Bakrah] dan ia berkata; 'Aku mendengarnya dengan kedua telingaku ini dan hatiku juga mencermati betul dari Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6766</td></tr><tr><td>Arabic No</td><td>6766</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ сказал: “Рай станет запретным для того, кто выдаёт себя за сына не своего отца, зная о том, что (этот человек) его отцом не является”».\nЭти слова передали Абу Бакре (Нуфай‘у бин Каляде), и он сказал: «Я слышал это собственными ушами, и сердце моё запомнило (эти слова, которые я слышал от) Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6766</td></tr><tr><td>Arabic No</td><td>6766</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

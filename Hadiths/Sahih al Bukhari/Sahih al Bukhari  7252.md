@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':When Allah's Messenger (ﷺ) arrived at Medina, he prayed faci
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Waki'] dari [Israil] dari [Abu Ishaq] dari [Al Bara'] ia berkata, "Tatkala Rasulullah shallallahu 'alaihi wasallam tiba di Madinah, beliau shalat menghadap Baitul Maqdis selama enam belas atau tujuh belas bulan, padahal beliau amat senang jika disuruh menghadap Ka'bah. Maka Allah pun menurunkan ayat: '(Kami telah melihat penglihatan wajahmu di langit, maka kami palingkan kamu ke kiblat yang kamu ridhai) ' (Qs. Al Baqarah: 144), maka beliau dihadapkan wajahnya ke Ka'bah, ketika itu seseorang shalat 'ashar bersama beliau, lantas keluar dan melewati sekelompok orang-orang Anshar, lalu ia katakan kepada mereka sekaligus bersaksi bahwa ia telah shalat bersama nabi shallallahu 'alaihi wasallam, dan kiblat beliau telah di hadapkan ke Ka'bah, maka mereka pun menggeser kiblatnya yang ketika itu mereka sedang rukuk pada shalat 'ashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7252</td></tr><tr><td>Arabic No</td><td>7252</td></tr><tr><td>Reference</td><td>Book 95 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Бара (ибн ‘Азиб), да будет доволен им Аллах, сказал: «Когда Пророк ﷺ прибыл в Медину, он в течение шестнадцати или семнадцати месяцев молился, обращаясь лицом в сторону Иерусалима, однако ему хотелось обращаться во время молитвы в сторону Каабы, и Всевышний Аллах ниспослал (аят): «Мы видели, как ты обращал своё лицо к небу, и Мы обратим тебя к кибле, которой ты останешься доволен», после чего он повернулся в сторону Каабы. Вместе с Пророком ﷺ совершал послеполуденную молитву /‘аср/ один человек, затем он вышел из (мечети) и, проходя мимо группы ансаров, сказал, что свидетельствует о том, что он молился вместе с Пророком ﷺ и что он обращался в сторону Каабы. И (услышав это), они повернулись находясь в поясном поклоне послеполуденной молитве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7252</td></tr><tr><td>Arabic No</td><td>7252</td></tr><tr><td>Reference</td><td>Book 95 Hadith 7</td></tr></tbody></table></div>
 

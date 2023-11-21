@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "Fever is from the heat of Hell, so abat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Hisyam] telah mengabarkan kepadaku [Ayahku] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Demam berasal dari hembusan nerakan Jahannam maka dinginkanlah ia dengan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5725</td></tr><tr><td>Arabic No</td><td>5725</td></tr><tr><td>Reference</td><td>Book 76 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Пророк ﷺ сказал: «Лихорадка — это (проявление) жара Геенны, поэтому охлаждайте её водой!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5725</td></tr><tr><td>Arabic No</td><td>5725</td></tr><tr><td>Reference</td><td>Book 76 Hadith 40</td></tr></tbody></table></div>
 

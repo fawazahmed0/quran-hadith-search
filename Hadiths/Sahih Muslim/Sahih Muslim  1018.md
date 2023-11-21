@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:'Umar said to Sa'd: They complain against you in every 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Syu'bah] dari [Abu 'Aun] dia berkata, Saya mendengar [Jabir bin Samurah] berkata, "Umar berkata kepada [Sa'ad], 'Penduduk Kufah telah mengadukan segala tindakanmu hingga masalah shalat.' Dia menjawab, 'Adapun saya, maka saya memanjangkan dua rakaat pertama dan memendekkan dua rakaat lainnya. Dan aku tidak menyingkiri sesuatu yang telah saya ikuti dari (cara) shalat Rasulullah Shallallahu'alaihiwasallam.' Maka Umar berkata, 'Itu semuanya hanyalah prasangka terhadapmu saja -atau itu hanya prasangkaku terhadapmu saja'." Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Bisyr] dari [Mis'ar] dari [Abdul Malik] dan [Abu 'Aun] dari [Jabir bin Samurah] semakna dengan hadits mereka. Dan dia menambahkan, "Kaum Badui telah mengajarkanku shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>453.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир ибн Самура сказал: «‘Умар сказал Са‘ду: “На тебя жалуются за всё, включая молитву!” (Са‘д в ответ) сказал: “Что касается меня, то я удлиняю первые два (рак‘ата), укорачиваю два последних, не делая в ней упущений, следуя примеру молитвы Посланника Аллаха ﷺ”. (Тогда) ‘Умар сказал: “Так я о тебе и думал!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>453.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 180</td></tr></tbody></table></div>
 

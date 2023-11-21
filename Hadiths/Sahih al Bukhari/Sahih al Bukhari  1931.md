@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakr bin 'Abdur-Rahman:My father and I went to 'Aisha and she said,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada saya [Malik] dari [Sumayya] maulanya Abu Bakar bin'Abdurrahman bin Al Harits bin Hisyam bin Al Mughirah bahwa dia mendengar [Abu Bakar bin'Abdurrahman] (berkata,): "Aku dan bapakku pergi bersama-sama hingga kami datang menemui ['Aisyah radliallahu 'anha] yang dia berkata: "Aku bersaksi tentang Rasulullah shallallahu 'alaihi wasallam bahwa apabila Beliau pada pagi hari masih dalam keadaan junub setelah berhubungan tanpa mengeluarkan sperma, maka Beliau meneruskan puasanya". Kemudian kami datang menemui Ummu Salamah yang dia juga berkata, seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакр ибн ‘Абдуррахман сказал: «Однажды мы с отцом пришли к ‘Аише, да будет доволен ею Аллах, и она сказала: “Я свидетельствую, что Посланник Аллаха ﷺ иногда просыпался в состоянии полового осквернения (по причине половой близости, а не полюций) и постился в этот день”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

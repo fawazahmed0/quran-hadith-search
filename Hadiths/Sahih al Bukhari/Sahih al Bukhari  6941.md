@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) said, "Whoever possesses the (following) t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Hausyab Ath Tha'ifi] telah menceritakan kepada kami [Abdul Wahhab] telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Anas] radliallahu 'anhu mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada tiga hal yang jika seseorang melaksanakannya, ia mendapat kemanisan iman, Allah dan rasul-NYA lebih ia cintai daripada selain keduanya, ia mencintai seseorang dengan tiada dorongan selain karena Allah, dan benci kembali kepada kekafiran sebagaimana kebenciannya untuk dilempar ke neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6941</td></tr><tr><td>Arabic No</td><td>6941</td></tr><tr><td>Reference</td><td>Book 89 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот, в ком будут три (качества), ощутит посредством них сладость веры: (человек), для которого Аллах и Его посланник любимей всего остального; (человек), полюбивший (какого-либо) раба (Аллаха) только лишь ради Аллаха; (тот, кто) ненавидит возвращение в неверие так же, как ненавидит быть брошенным в огонь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6941</td></tr><tr><td>Arabic No</td><td>6941</td></tr><tr><td>Reference</td><td>Book 89 Hadith 2</td></tr></tbody></table></div>
 

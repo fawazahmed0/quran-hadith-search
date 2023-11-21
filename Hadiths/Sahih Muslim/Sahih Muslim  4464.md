@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubida b. as-Samit repnrted:I was one of those headmen who swore allegiance to Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari [Ash Shunabihi] dari ['Ubadah bin Shamit] bahwa dia berkata, "Kami termasuk dari pembesar tokoh yang pernah ikut berbaiat kepada Rasulullah shallallahu 'alaihi wasallam, dia berkata, "Lalu kami membaiat beliau supaya kami tidak menyekutukan Allah dengan sesuatu apapun, tidak berzina, tidak mencuri, tidak membunuh jiwa yang telah diharamkan Allah kecuali dengan hak (dibenarkan Agama), tidak merampok dan tidak bermaksiat, maka surgalah pahalanya jika kami menepati janji tersebut, namun jika kami melanggar hal itu, maka keputusannya terserah Allah." Ibnu Rumh berkata, "Dan keputusannya terserah kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4464</td></tr><tr><td>Arabic No</td><td>1709.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4464</td></tr><tr><td>Arabic No</td><td>1709.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 67</td></tr></tbody></table></div>
 

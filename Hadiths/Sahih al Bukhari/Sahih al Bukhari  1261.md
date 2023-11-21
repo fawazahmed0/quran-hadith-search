@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Seereen:Um 'Atiyya (an Ansari woman who gave the pledge of allegian
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad] telah menceritakan kepada kami ['Abdullah bin Wahb] telah mengabarkan kepada kami [Ibnu Juraij] bahwa [Ayyub] yang mengabarkan kepadanya berkata; Aku mendengar [Ibnu Sirin] berkata: Telah datang [Ummu 'Athiyyah radliallahu 'anha] seorang diantara wanita Anshar yang pernah berbai'at kepada Nabi shallallahu 'alaihi wasallam sekembalinya dari Bashrah untuk menemui anaknya disana, namun dia tidak menemukannya lalu dia menceritakan kepada kami, katanya: "Nabi shallallahu 'alaihi wasallam menemui kami saat kami sedang memandikan putri Beliau yang wafat lalu berkata: "Mandikanlah ia dengan mengguyurkan air yang dicampur dengan daun bidara tiga kali, lima kali atau lebih dari itu jika kalian anggap perlu dan jadikanlah yang terakhirnya dengan kafur barus dan bila kalian telah selesai beritahu aku". Berkata, Ummu 'Athiyyah radliallahu 'anha: "Ketika kami telah selesai, Beliau kemudian memberikan kain Beliau kepada kami seraya berkata: "Pakaikanlah ini kepadanya". Dan Beliau tidak memerintahkan lebih dari itu dan aku sendiri sudah tidak ingat puteri Beliau mana yang meninggal saat itu". Ayyub berpendapat memakaikan kain maksudnya adalah menutupi seluruh badan mayat perempuan. Dan begitu juga bahwa Ibnu Sirin memerintahkan agar untuk jenazah perempuan ditutupi selluruh bagian badannya bukan hanya bagian bawahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1261</td></tr><tr><td>Arabic No</td><td>1261</td></tr><tr><td>Reference</td><td>Book 23 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Сирин рассказывал: «Однажды Умм ‘Атыйя, да будет доволен ею Аллах, женщина из числа ансаров, присягнувшая Пророку ﷺ приехала, спеша в Басру, чтобы навестить своего сына, но не застала его. Она рассказала нам: “Когда мы омывали тело дочери Пророка ﷺ он зашёл к нам и сказал: “Обмойте её трижды, или пять раз, или более того, если посчитаете нужным, отваром сидра, а в последний раз используйте камфару и дайте мне знать, когда закончите”. Закончив обмывать её тело, мы сообщили ему об этом, а он дал нам свой изар и сказал: “Заверните её в это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1261</td></tr><tr><td>Arabic No</td><td>1261</td></tr><tr><td>Reference</td><td>Book 23 Hadith 22</td></tr></tbody></table></div>
 

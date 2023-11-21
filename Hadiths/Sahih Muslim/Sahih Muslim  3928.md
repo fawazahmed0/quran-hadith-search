@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reportedthat Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku ['Amru dia adalah Ibnul Harits] bahwa [Bukair] telah bercerita bahwa [Abdullah bin Abi Salamah] telah menceritakan kepadanya dari [Nu'man bin Abi 'Ayyasy] dari [Jabir bin Abdullah] bahwa Rasulullah Shallallu 'alaihi wa sallam melarang menyewakan tanah. [Bukair] berkata; Telah menceritakan kepadaku [Nafi'] bahwa dia mendengar [Ibnu Umar] berkata; "Kami biasa melakukan sewa menyewa tanah, setelah kami mendengar hadits [Rafi' bin Khudaij], kami meninggalkan hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3928</td></tr><tr><td>Arabic No</td><td>1536.23</td></tr><tr><td>Reference</td><td>Book 21 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3928</td></tr><tr><td>Arabic No</td><td>1536.23</td></tr><tr><td>Reference</td><td>Book 21 Hadith 127</td></tr></tbody></table></div>
 

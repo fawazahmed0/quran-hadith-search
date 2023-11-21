@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa reported that the people of Najran came to Allah's Messenger (ﷺ) and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan lafazh ini milik Ibnu Al Mutsanna dia berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dia berkata; Aku mendengar [Abu Ishaq] bercerita dari [Shilah bin Zufar] dari [Hudzaifah] dia berkata; "Pada suatu ketika orang-orang Najran pernah datang kepada Rasulullah shallallahu 'alaihi wasallam seraya berkata; 'Ya Rasulullah, utuslah kepada kami seseorang yang jujur dan dipercaya.' LaIu Rasulullah pun berkata: 'Sungguh aku akan mengutus kepada kalian seseorang yang sangat jujur dan dapat dipercaya.' Hudzaifah berkata; 'Para sahabat merasa penasaran dan akhirnya menunggu-nunggu orang yang dimaksud oleh Rasulullah itu. Ternyata Rasulullah mengutus Abu Ubaidah bin Jarrah." Abu 'Ubaidah bin Al Jarrah; Telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Abu Dawud Al Hafari]; Telah menceritakan kepada kami [Sufyan] dari [Abu Ishaq] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6254</td></tr><tr><td>Arabic No</td><td>2420.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6254</td></tr><tr><td>Arabic No</td><td>2420.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 84</td></tr></tbody></table></div>
 

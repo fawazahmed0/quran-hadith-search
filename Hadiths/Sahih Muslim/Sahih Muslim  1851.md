@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Buraida reported on the authority of his father that the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Malik bin Mighwal] dari [Abdullah bin Buraidah] dari [bapaknya] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Abdullah bin Qais atau Al Asy'ari telah diberikan salah satu mizmar (suara yang merdu) dari mizmar yang dimiliki keluarga Dawud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>793.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 279</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Бурайда передал со слов своего отца, что Посланник Аллаха ﷺ сказал: «Поистине, ‘Абдуллаху ибн Кайсу была дарована свирель (то есть красивый голос) из числа свирелей семейства (пророка) Давуда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>793.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 279</td></tr></tbody></table></div>
 

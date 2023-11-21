@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:that 'Umar entered upon Hafsa and said, "O my daughter! Do n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] Telah menceritakan kepada kami [Sulaiman] dari [Yahya] dari [Ubaid bin Hunais] ia mendengar [Ibnu Abbas] dari [Umar] radliallahu 'anhum, bahwa ia menemui Hafshah dan berkata, "Wahai anakku, janganlah kamu sampai terperdaya. Wanita inilah yang memang membuatnya cinta Rasulullah shallallahu 'alaihi wasallam ta'ajub lantaran kecantikan wajahnya." Maksudnya adalah Aisyah. Lalu aku pun menceritakannya pada Rasulullah shallallahu 'alaihi wasallam, dan beliau pun tersenyum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5218</td></tr><tr><td>Arabic No</td><td>5218</td></tr><tr><td>Reference</td><td>Book 67 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что ‘Умар, да будет доволен ими Аллах, рассказал, что он зашёл к Хафсе и сказал: «О доченька, пусть тебя не обольщает та, которая обольстилась своей красотой и любовью Посланника Аллаха ﷺ к ней», — имея ввиду ‘Аишу. (‘Умар сказал:) «Я рассказал об этом Посланнику Аллаху ﷺ, и он улыбнулся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5218</td></tr><tr><td>Arabic No</td><td>5218</td></tr><tr><td>Reference</td><td>Book 67 Hadith 151</td></tr></tbody></table></div>
 

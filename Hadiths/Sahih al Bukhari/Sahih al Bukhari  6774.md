@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin Al-Harith:An-Nu'man or the son of An-Nu'man was brought to th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Abdul Wahhab] dari [Ayyub] dari [Ibnu Abi Mulaikah] dari [Uqbah bin Al Harits] mengatakan, Nuaiman atau Ibnu Nuiman didatangkan karena minum khamar, lantas Nabi shallallahu 'alaihi wasallam memerintahkan orang-orang yang berada dirumah untuk memukuli. Kata Uqbah; mereka pun memukuli dan aku diantara yang memukuli dengan sandal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6774</td></tr><tr><td>Arabic No</td><td>6774</td></tr><tr><td>Reference</td><td>Book 86 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба ибн аль-Харис сказал: «(Однажды, когда) к Пророку ﷺ привели пьяного ан-Ну‘мана (или: сына ан-Ну‘мана), он велел находившимся (у него) дома (людям) побить его, и я был одним из тех, кто бил его, и мы били его сандалиями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6774</td></tr><tr><td>Arabic No</td><td>6774</td></tr><tr><td>Reference</td><td>Book 86 Hadith 3</td></tr></tbody></table></div>
 

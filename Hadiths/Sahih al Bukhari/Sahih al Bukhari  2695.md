@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Zaid bin Khalid Al-Juhani:A bedouin came and said, "O A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Ibnu Abi Dza'bi] telah menceritakan kepada kami [Az Zuhriy] dari ['Ubaidullah bin 'Abdullah] dari [Abu Hurairah radliallahu 'anhu] dan [Zaid bin Khalid Al Juhaniy radliallahu 'anhuma], keduanya berkata; Datang seorang Arab Baduy lalu berkata: "Wahai Rasulullah, putuskan perkara diantara kami dengan Kitab Allah. Lalu lawan sengketanya berdiri seraya berkata: "Dia benar, putuskan perkara diantara kami dengan Kitab Allah". Berkata Arab Baduy itu: "Sesunguhnya anakku adalah seorang yang bekerja pada orang ini lalu dia berzina dengan isterinya. Kemudian mereka berkata kepadaku: "Anakmu wajib dirajam". Lalu aku tebus anakku dengan seratus ekor kambing dan seorang hamba sahaya, kemudian aku bertanya kepada ahli ilmu maka mereka berkata: "Sesunguhnya atas anakmu cukup dicambuk seratus kali dan diasingkan selama setahun". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Aku putuskan buat kalian berdua dengan menggunakan Kitab Allah. Adapun hamba sahaya dan kambing seharusnya dikembalikan kepadamu dan untuk anakmu dikenakan hukum cambuk sebanyak seratus kali dan diasingkan selama setahun. Adapun kamu, wahai Unais, --yaitu seorang sahabat bani Aslam-- datangilah si wanita dan rajamlah dia! Maka Unais berangkat dan merajam si wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2695</td></tr><tr><td>Arabic No</td><td>2695</td></tr><tr><td>Reference</td><td>Book 53 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра и Зейд ибн Халид аль-Джухани, да будет доволен Аллах ими обоими, передают: «(Как-то раз) один человек из числа бедуинов пришёл и сказал: “О Посланник Аллаха, рассуди нас согласно Книге Аллаха!” Человек же, с которым у него была тяжба, поднялся и сказал: “Он изрёк истину, рассуди нас согласно Книге Аллаха”. Тогда бедуин сказал: “Поистине, мой сын был наёмным работником у этого человека и совершил прелюбодеяние с его женой. Мне сказали, что моего сына следует подвергнуть побиванию камнями, но я отдал сто овец и рабыню в качестве выкупа за него. А потом я спросил (об этом) обладающих знанием и они сказали мне, что твой сын должен получить сто ударов и отправиться в изгнание на год”. Тогда Пророк ﷺ сказал: “Я обязательно рассужу вас согласно Книге Аллаха! Рабыня и овцы должны быть возвращены тебе, а что касается твоего сына, то ему необходимо нанести сто ударов и отправить его в изгнание на год. А что касается тебя, о Унайс — человек (из племени аслям), то отправляйся к жене этого (человека) и побей её камнями”. (После этого) Унайс пошёл к ней и он побил её камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2695</td></tr><tr><td>Arabic No</td><td>2695</td></tr><tr><td>Reference</td><td>Book 53 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:'Umar bin Al-Khattab said, "O Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] dari [saudaranya] dari [Sulaiman bin Bilal] dari ['Ubaidullah bin 'Umar] dari [Nafi'] dari ['Abdullah bin 'Umar] dari ['Umar bin Al Khaththob radliallahu 'anhu] bahwa dia berkata: "Wahai Rasulullah, aku pernah bernadzar di zaman Jahiliyyah untuk beri'tikaf satu malam di Al Masjidil Haram". Maka Nabi shallallahu 'alaihi wasallam berkata kepadanya: "Tunaikanlah nadzarmu itu". Maka kemudian 'Umar bin Al Khaththob radliallahu 'anhu melaksanakan i'tikafnya pada suatu malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2042</td></tr><tr><td>Arabic No</td><td>2042</td></tr><tr><td>Reference</td><td>Book 33 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «О Посланник Аллаха, во времена невежества /джахилиййи/ я дал обет совершить и‘тикяф в мечети Аль-Харам в течение одной ночи». Пророк ﷺ сказал ему: «Выполни свой обет». И он совершил и‘тикяф в течение одной ночи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2042</td></tr><tr><td>Arabic No</td><td>2042</td></tr><tr><td>Reference</td><td>Book 33 Hadith 17</td></tr></tbody></table></div>
 

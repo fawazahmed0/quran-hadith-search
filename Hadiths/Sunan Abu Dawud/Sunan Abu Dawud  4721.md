@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported to the Messenger of Allah( may peace be upon him) as sayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] berkata, telah menceritakan kepada kami [Sufyan] dari [Hisyam] dari [Bapaknya] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia akan selalu bertanya-tanya hingga dikatakan, 'Ini makhluk yang Allah telah menciptakannya, lalu siapakan yang menciptakan Allah? ' Maka siapa saja yang mengalami hal semacam itu, hendaklah ia mengatakan 'aku beriman kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3276) Sahih Muslim (134)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4721</td></tr><tr><td>Arabic No</td><td>4721</td></tr><tr><td>Reference</td><td>Book 42 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Люди не перестанут вопрошать, пока не скажут: “Аллах создал творения, а кто же создал Аллаха?” Кто столкнётся с чем-либо из этого, пусть скажет: “Я уверовал в Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3276) Sahih Muslim (134)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4721</td></tr><tr><td>Arabic No</td><td>4721</td></tr><tr><td>Reference</td><td>Book 42 Hadith 126</td></tr></tbody></table></div>
 

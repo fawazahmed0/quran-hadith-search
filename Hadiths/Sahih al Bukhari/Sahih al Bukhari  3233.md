@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Regarding the Verse: "Indeed he (Muhammad) did see. Of the Si
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3233</td></tr><tr><td>Arabic No</td><td>3233</td></tr><tr><td>Reference</td><td>Book 59 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что о словах Всевышнего «И видел он из знамений своего Господа величайшее!» (сура «ан-Наджм», аят 18) ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал следующее: «(Пророк ﷺ) видел зелёный ковёр, закрывший собой (весь) горизонт»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3233</td></tr><tr><td>Arabic No</td><td>3233</td></tr><tr><td>Reference</td><td>Book 59 Hadith 44</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Omar Ibn Al-Khattâb (que Dieu l'agrée) a dit : Je fis don pour la guerre saint
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Malik bin Anas] dari [Zaid bin Aslam] dari [Ayahnya] bahwa [Umar bin Khattab] berkata, "Saya pernah mensedekahkan seekor kuda yang sangat bagus kepada seorang pejuang untuk perang di jalan Allah, akan tetapi pemiliknya menyia-nyiakannya dan saya mengira bahwa dia akan menjualnya dengan harga murah, maka saya menanyakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, beliau lantas bersabda: "Janganlah kamu membelinya dan jangan kamu ambil kembali sedekahmu, sesungguhnya orang yang mengambil kembali sedekahnya sama seperti anjing yang menjilat kembali muntahannya." Dan telah menceritakan kepadaku [Zuhair bi Harb] telah menceritakan kepada kami [Abdurrahman] -yaitu Ibnu Mahdi- dari [Malik bin Anas] dengan sanad ini, dan dia menambahkan, "Janganlah kamu membelinya lagi, walaupun kamu memberikan uang dirham
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4163</td></tr><tr><td>Arabic No</td><td>1620.01</td></tr><tr><td>Reference</td><td>Book 24 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4163</td></tr><tr><td>Arabic No</td><td>1620.01</td></tr><tr><td>Reference</td><td>Book 24 Hadith 1</td></tr></tbody></table></div>
 

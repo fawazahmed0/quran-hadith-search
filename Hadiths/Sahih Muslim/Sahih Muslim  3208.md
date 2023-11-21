@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) rerorted that Allah's Messenger (ﷺ) sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwasanya; Rasulullah shallallahu 'alaihi wasallam pernah melihat seroang laki-laki yang sedang membawa Badanah (unta atau sapi), maka beliau bersabda: "Kendarailah." Laki-laki itu berkata, "Wahai Rasulullah, binatang ini adalah Badanah (Sapi/unta untuk dijadikan hewan kurban)." Beliau bersabda lagi: "Kendarailah." Pada kali yang kedua atau ke tiga beliau ucapkan: "Huss, kamu!" Dan Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Al Mughirah bin Abdurrahman Al Hizami] dari [Abu Zinad] dari [Al A'raj] dengan isnad ini, ia berkata dengan redaksi; "Ketika ada seseorang yang menuntun hewan kurbannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3208</td></tr><tr><td>Arabic No</td><td>1322.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 412</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что, увидев какого-то человека, который гнал свою жертвенную верблюдицу, Посланник Аллаха ﷺ велел ему: «Сядь на неё верхом». Тот сказал: «О Посланник Аллаха, это ведь жертвенная верблюдица!» и тогда на второй (или: на третий) раз (Пророк ﷺ) воскликнул: «Садись же, горе тебе!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3208</td></tr><tr><td>Arabic No</td><td>1322.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 412</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported Allah's-Messenger (ﷺ) as saying:The best among you (a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin Al Mutsanna] serta [Ibnu Basysyar] seluruhnya dari [Ghundar]. [Ibnu Al Mutsanna] berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah]; Aku mendengar [Abu Jamrah]; Telah menceritakan kepadaku [Zahdam bin Madharrib]; Aku mendengar ['Imran bin Hushain] bercerita bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Sebaik-baik kalian adalah orang yang hidup pada masaku. Kemudian orang-orang pada masa berikutnya. Kemudian orang-orang pada masa berikutnya. Kemudian orang-orang pada masa berikutnya." Imran berkata; 'Saya tidak tahu apakah Rasulullah shallallahu 'alaihi wasallam menyebutkan 'orang-orang sesudah masa beliau' dua atau tiga kali.' Setelah itu akan datang orang-orang yang memberikan kesaksian padahal mereka tidak dimintai kesaksian. Mereka berkhianat dan tidak dapat dipercaya. Mereka bernazar tanpa meIaksanakannya dan diantara mereka tampak gemuk. Telah menceritakan kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami [Yahya bin Sa'id]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Abdur Rahman bin Bisyr Al 'Abad]; Telah menceritakan kepada kami [Bahz]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Muhammad bin Rafi']; Telah menceritakan kepada kami [Syababah] seluruhnya dari [Syu'bah] melalui jalur ini. Dan di dalam Hadits mereka di sebutkan; 'Aku tidak tahu apakah beliau menyebutkan masa setelah beliau dua masa lagi atau tiga masa. Sedangkan di dalam Hadits Syababah disebutkan; Aku mendengar Zahdam bin Mudharrib ketika dia datang kepadaku dengan mengendarai kuda untuk suatu keperluan. Lalu dia menceritakan kepadaku bahwa dia mendengar Imran bin Hushain. Adapun di dalam Hadits Yahya dan Syababah disebutkan; 'Mereka bernadzar namun tidak menepatinya. Di dalam Hadits Bahaz disebutkan; dengan lafazh 'Yuufuun' (menepati) sebagaimana kata Ibnu Ja'far; Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Muhammad bin 'Abdul Malik] keduanya berkata; Telah menceritakan kepada kami [Abu 'Awanah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Mu'adz bin Hisyam]; Telah menceritakan kepada kami [Bapakku] keduanya dari [Qatadah] dari [Zurarah bin Aufa] dari ['Imran bin Hushain] dari Nabi shallallahu 'alaihi wasallam dengan Hadits ini. Di dalam Hadits Abu 'Awanah di sebutkan; Imran bin Hushain berkata; Wallahu A'lam, apakah beliau menyebutkan masa setelah beliau tiga kali atau tidak. -sebagaimana Hadits Zahdam dari Imran. Di dalam Hadits Hisyam ada sedikit tambahan; dari Qatadah; 'mereka bersumpah padahal tidak dimintai untuk bersumpah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6475</td></tr><tr><td>Arabic No</td><td>2535.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 304</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6475</td></tr><tr><td>Arabic No</td><td>2535.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 304</td></tr></tbody></table></div>
 

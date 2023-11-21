@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ AbU Huraira reported Allah's Messenger (ﷺ) having said this:Two are the types 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir] dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada dua golongan penduduk neraka yang keduanya belum pernah aku lihat. (1) Kaum yang memiliki cambuk seperti ekor sapi, yang dipergunakannya untuk memukul orang. (2) Wanita-wanita berpakaian, tetapi sama juga dengan bertelanjang (karena pakaiannya terlalu minim, terlalu tipis atau tembus pandang, terlalu ketat, atau pakaian yang merangsang pria karena sebagian auratnya terbuka), berjalan dengan berlenggok-lenggok, mudah dirayu atau suka merayu, rambut mereka (disasak) bagaikan punuk unta. Wanita-wanita tersebut tidak dapat masuk surga, bahkan tidak dapat mencium bau surga. Padahal bau surga itu dapat tercium dari begini dan begini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5582</td></tr><tr><td>Arabic No</td><td>2128</td></tr><tr><td>Reference</td><td>Book 37 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5582</td></tr><tr><td>Arabic No</td><td>2128</td></tr><tr><td>Reference</td><td>Book 37 Hadith 190</td></tr></tbody></table></div>
 

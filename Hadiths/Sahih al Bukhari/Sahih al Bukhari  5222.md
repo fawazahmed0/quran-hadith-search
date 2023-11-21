@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma':I heard Allah's Messenger (ﷺ) saying, "There is nothing (none) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] Telah menceritakan kepada kami [Hammam] dari [Yahya] dari [Abu Salamah] bahwa [Urwah bin Az Zubair] Telah menceritakan kepadanya dari [Ibunya] yakni Asma', bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada yang lebih pencemburu daripada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5222</td></tr><tr><td>Arabic No</td><td>5222</td></tr><tr><td>Reference</td><td>Book 67 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Асмаъ, да будет доволен ею Аллах, передаёт, что она слышала, как Посланник Аллаха ﷺ сказал: «Нет никого ревнивее, чем Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5222</td></tr><tr><td>Arabic No</td><td>5222</td></tr><tr><td>Reference</td><td>Book 67 Hadith 155</td></tr></tbody></table></div>
 

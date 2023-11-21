@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbuBakr ibn AbdurRahman said:The messenger of Marwan whom he sent to Umm Ma'qil 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Kamil] telah menceritakan kepada Kami [Abu 'Awanah] dari [Ibrahim bin Muhajir] dari [Abu Bakr bin Abdurrahman], telah mengabarkan kepadaku [utusan Marwan] yang dikirim kepada [Ummu Ma'qil], ia berkata; dahulu Abu Ma'qil pernah berhaji bersama Rasulullah shallAllahu wa'alaihi wa sallam, kemudian tatkala ia datang, Ummu Ma'qil berkata; sungguh engkau telah mengetahui bahwa aku wajib berhaji. Kemudian mereka berdua berjalan hingga menemui beliau. Ummu Ma'qil berkata; wahai Rasulullah, sesungguhnya saya wajib berhaji, dan sesungguhnya Abu Ma'qil memiliki unta muda. Abu Ma'qil berkata; ia benar, saya telah menjadikannya di jalan Allah. Maka Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Berikan kepadanya, dan silahkan ia berhaji dengan mengendarainya, sesungguhnya hal tersebut adalah di jalan Allah." Kemudian Abu Ma'qil memberikan unta muda tersebut kepadanya. Lalu Ummu Ma'qil berkata; wahai Rasulullah, sesungguhnya saya adalah seorang wanita yang telah tua, dan sakit. Apakah ada amalan yang mencukupkanku dari melakukan haji? Beliau menjawab: "Umrah pada Bulan Ramadhan, mencukupkan dari melakukan haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1988</td></tr><tr><td>Arabic No</td><td>1988</td></tr><tr><td>Reference</td><td>Book 11 Hadith 268</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Посланец Марвана к Умм Ма‘кыль сказал: «Абу Ма‘кыль отправился в хадж вместе с Посланником Аллаха ﷺ. Когда он пришёл, Умм Ма‘кыль сказала: “Ты знаешь, что я тоже должна совершить хадж”. Тогда они вдвоём отправились пешком к Посланнику Аллаха ﷺ. Она сказала: “О Посланник Аллаха! Я должна совершить хадж, а у Абу Ма‘кыля есть молодой верблюд”. Абу Ма‘кыль сказал: “Она говорит правду, однако я пожертвовал его на пути Аллаха”. Посланник Аллаха ﷺ сказал: “Дай ей совершить хадж на нём, ибо это тоже на пути Аллаха”. И он отдал ей молодого верблюда. Тогда Умм Ма‘кыль сказала: “О Посланник Аллаха, я уже старая и больная женщина, так нельзя ли мне заменить хадж чем-нибудь?” (Посланник Аллаха ﷺ) сказал: “‘Умра, совершённая в рамадан, заменит хадж”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1988</td></tr><tr><td>Arabic No</td><td>1988</td></tr><tr><td>Reference</td><td>Book 11 Hadith 268</td></tr></tbody></table></div>
 

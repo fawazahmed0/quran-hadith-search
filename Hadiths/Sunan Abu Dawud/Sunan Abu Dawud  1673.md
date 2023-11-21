@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah Al-Ansari: While we were sitting with the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musa bin Isma'il], telah menceritakan kepada Kami [Hammad] dari [Muhammad bin Ishaq], dari ['Ashim bin Umar bin Qatadah] dari [Mahmud bin Labid] dari [Jabir bin Abdullah Al Anshari], ia berkata; Kami pernah bersama Rasulullah shallAllahu wa'alaihi wa sallam, tiba-tiba terdapat seorang laki-laki yang datang membawa emas seperti telur, kemudian ia berkata; wahai Rasulullah, aku mendapatkan ini dari sebagian barang tambang, ambillah, itu adalah sedekah, aku tidak memiliki harta selainnya. Lalu Rasulullah shallAllahu wa'alaihi wa sallam berpaling darinya, kemudian ia datang dari sisi kanan beliau, dan berkata seperti itu, kemudian datang dari kiri beliau dan Rasulullah shallAllahu wa'alaihi wa sallam berpaling darinya, kemudian datang dari belakangnya, lalu Rasulullah shallAllahu wa'alaihi wa sallam mengambilnya dan melempar dengannya, apabila mengenainya niscaya akan menyakitinya atau melukainya. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Salah seorang diantara kalian datang membawa harta yang ia miliki, dan berkata; ini adalah sedekah, kemudian ia duduk dan meminta-minta kepada orang. Sebaik-baik sedekah adalah dalam keadaan lebih." Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Ibnu Idris], dari [Ibnu Ishaq] dengan sanad serta maknanya, dan ia menambahkan kata: "Ambillah milikmu, Kami tidak membutuhkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 9 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах аль-Ансари, да будет доволен Аллах им и его отцом, передаёт: Когда мы сидели у Посланника Аллаха ﷺ к нему пришёл какой-то человек с золотом размером с яйцо и сказал: «О Посланник Аллаха, я добыл это золото. Возьми же его, пусть оно будет милостыней. Ничего другого у меня нет». Посланник Аллаха ﷺ отвернулся от него. Тогда этот человек подошёл к нему с правой стороны, однако Посланник Аллаха ﷺ снова отвернулся. Тогда он подошёл к нему с левой стороны, однако Посланник Аллаха ﷺ снова отвернулся от него. Тогда он подошёл к нему сзади, и Посланник Аллаха ﷺ взял золото и бросил в него так, что если бы попал в него, причинил бы ему боль или поцарапал бы его. Затем Посланник Аллаха ﷺ сказал: «Приходит один из вас со всем, что имеет, и говорит: “Это милостыня”, а потом сидит с протянутой рукой! Лучшая милостыня та, которую человек подаёт, будучи состоятельным”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 9 Hadith 118</td></tr></tbody></table></div>
 

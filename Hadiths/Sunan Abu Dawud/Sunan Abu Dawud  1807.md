@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dharr used to say about a person who makes the intention of Hajj but he repe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hannad yaitu Ibnu As Sari] dari [Ibnu Abu Zaidah], telah mengabarkan kepada Kami [Muhammad bin Ishaq] dari [Abdurrahman bin Al Aswad] dari [Sulaim bin Al Aswad] bahwa [Abu Dzar] berkata mengenai orang yang ingin haji lalu menggantinya dengan umrah; hal tersebut tidak berlaku kecuali hanya bagi orang yang berkendaraan ketika bersama Rasulullah shallla Allahu 'alaihi wa sallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>1807</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зарр, да будет доволен Аллах им, говорил о тех, кто начал совершать хадж, а потом превратил его в ‘умру: «Так было разрешено поступать только сопровождавшим Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>1807</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
 

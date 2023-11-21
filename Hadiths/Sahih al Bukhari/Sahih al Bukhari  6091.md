@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab bint Um Salama:Um Sulaim said, "O Allah's Messenger (ﷺ)! Veril
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari [Hisyam] dia berkata; telah mengabarkan kepadaku [Ayahku] dari [Zainab binti Ummu Salamah] dari [Ummu Salamah] bahwa Ummu Sulaim berkata; "Wahai Rasulullah, sesungguhnya Allah tidak malu sedikitpun dari kebenaran, apakah seorang wanita wajib mandi jika ia ihtilam (mimpi basah atau bersenggama)?" beliau menjawab: "Ya, jika ia melihat cairan (keluar)." Maka Ummu Salamah tersenyum dan berkata; "Apakah wanita juga ihtilam (mimpi basah)?" Nabi shallallahu 'alaihi wasallam pun bersabda: "Darimanakah seorang anak itu mirip (dengan orang tuanya)?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6091</td></tr><tr><td>Arabic No</td><td>6091</td></tr><tr><td>Reference</td><td>Book 78 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма сказала: «(Однажды) Умм Сулейм сказала: “О Посланник Аллаха, поистине, Аллах не стыдится (говорить) истину, ( так скажи мне,) следует ли женщине совершить полное омовение /гъусль/, если у неё случится поллюция?” Пророк ﷺ ответил: “Да, если (после пробуждения) она увидит (свои) выделения”. (Услышав это,) Умм Саляма улыбнулась и спросила: “А разве у женщин бывают поллюции?” (В ответ ей) Пророк ﷺ сказал: “А почему же ещё ребёнок становится похожим (на мать)?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6091</td></tr><tr><td>Arabic No</td><td>6091</td></tr><tr><td>Reference</td><td>Book 78 Hadith 118</td></tr></tbody></table></div>
 

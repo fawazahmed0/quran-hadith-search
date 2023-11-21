@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':The people used to say that Ibn 'Umar had embraced Islam before '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4186</td></tr><tr><td>Arabic No</td><td>4186</td></tr><tr><td>Reference</td><td>Book 64 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘, да помилует его Аллах Всевышний, сказал: «Люди говорят, что (‘Абдуллах) Ибн ‘Умар принял ислам раньше ‘Умара, да будет доволен Аллах ими обоими, однако это не так. В день Худайбийи ‘Умар послал ‘Абдуллаха за своей лошадью, находившейся у одного из ансаров, чтобы сражаться верхом на ней. В это время люди приносили Посланнику Аллаха ﷺ клятву у дерева, о чем ‘Умар не знал. Что же касается ‘Абдуллаха, то он (сначала) дал клятву, а потом отправился за этой лошадью и привел ее к ‘Умару, когда тот надевал свои доспехи, готовясь к бою. ‘Абдуллах рассказал ему, что люди дают Посланнику Аллаха ﷺ клятву под деревом, и (‘Умар) отправился туда, а (‘Абдуллах) находился вместе с ним, пока он тоже не поклялся Посланнику Аллаха ﷺ. Вот почему люди говорят, что Ибн ‘Умар принял ислам раньше ‘Умара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4186</td></tr><tr><td>Arabic No</td><td>4186</td></tr><tr><td>Reference</td><td>Book 64 Hadith 226</td></tr></tbody></table></div>
 

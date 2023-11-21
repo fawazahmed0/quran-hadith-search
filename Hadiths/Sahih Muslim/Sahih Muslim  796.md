@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by Ibn 'Abbas on the authority of Maimuna. the wif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Berkata [Amru] dan telah menceritakan kepada kami [Bukair bin Al Asyajj] dari [Kuraib, maula Ibnu Abbas] dari [Maimunah, istri Nabi Shallallahu'alaihiwasallam] bahwa Nabi shallallahu 'alaihi wasallam makan pundak (kambing) di sisinya, kemudian shalat tanpa berwudhu lagi. Berkata [Amru] telah menceritakan kepada kami [Ja'far bin Rabi'ah] dari [Ya'kub bin Al Asyajj] dari [Kuraib, maula Ibnu Abbas] dari [Maimunah, istri Nabi] dengan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>796</td></tr><tr><td>Arabic No</td><td>356.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Маймуны подобно предыдущему хадису
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>796</td></tr><tr><td>Arabic No</td><td>356.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 117</td></tr></tbody></table></div>
 

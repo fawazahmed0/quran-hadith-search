@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Abî 'Awfâ (رضي الله عنهما), Talha Ibn Mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Abdurrahman bin Mahdi] dari [Malik bin Mi'wal] dari [Thalhah bin Musharif] dia berkata, "Saya pernah bertanya kepada [Abdullah bin Abu Aufa], "Apakah Rasulullah shallallahu 'alaihi wasallam pernah berwasiat?" dia menjawab, "Tidak." Saya bertanya lagi, "Kenapa kaum Muslimin diperintahkan untuk berwasiat?" dia menjawab, "Beliau hanya mewasiatkan dengan Kitabullah Azza Wa Jalla." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ayahku] keduanya dari [Malik bin Mighwal] dengan sanad-sanad ini, seperti hadits tersebut. Hanya saja dalam hadits Waki' disebutkan, "Saya bertanya, "Kenapa manusia diperintahkan untuk berwasiat?", dan dalam hadits Ibnu Numair disebutkan, "Saya bertanya, "Kenapa kaum Muslimin di wajibkan untuk berwasiat?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4227</td></tr><tr><td>Arabic No</td><td>1634.01</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4227</td></tr><tr><td>Arabic No</td><td>1634.01</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
 

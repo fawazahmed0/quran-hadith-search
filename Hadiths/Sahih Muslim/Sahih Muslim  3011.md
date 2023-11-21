@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Rauh and Yahya b. Kathir narrated as Nasr reported that the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashru bin Ali Al Jahdlami] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Syu'bah] dari [Ayyub] dari [Abul 'Aliyah Al Barra'] bahwa ia mendengar [Ibnu Abbas] radliallahu 'anhuma berkata; Rasulullah shallallahu 'alaihi wasallam ihram untuk haji dan tiba di Makkah pada tanggal empat Dzulhijjah. Setelah selesai shalat Shubuh, beliau bersabda: "Siapa yang hendak menjadikan haji ini umrah, maka silahkan." Dan Telah meceritakannya kepada kami [Ibrahim bin Dinar] Telah menceritakan kepada kami [Rauh] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Abu Dawud Al Mubaraki] Telah menceritakan kepada kami [Abu Syihab] -dalam riwayat lain- Dan Telah meceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Yahya bin Katsir] semuanya dari [Syu'bah] dalam isnad ini. Adapun Rauh dan Yahya bin Katsir, maka keduanya mengatakan sebagaimana Nashru berkata; "AHALLA RASULULLAH SHALLALLAHU 'ALAIHI WASALLAM BILHAJJI (Rasulullah shallallahu 'alaihi wasallam melakukan Ihram untuk haji)." Adapun Abu Syihab, maka di dalam riwayatnya ia menyebutkan; "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam dan kami ihram untuk haji." Sedangkan di dalam hadits mereka tercantum; "Beliau shalat Shubuh di Bathha'." Selain Al Jahdlami, karena ia tidak menyebutkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3011</td></tr><tr><td>Arabic No</td><td>1240.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3011</td></tr><tr><td>Arabic No</td><td>1240.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 219</td></tr></tbody></table></div>
 

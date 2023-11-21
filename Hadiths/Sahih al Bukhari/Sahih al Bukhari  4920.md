@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:All the idols which were worshiped by the people of Noah wer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hasyim] dari [Ibnu Juraij] dan [Atha'] berkata; dari [Ibnu Abbas radliallahu 'anhuma] bahwanya; Berhala-berhala yang dahulu di agungkan oleh kaum Nabi Nuh, di kemudian hari tersebar di bangsa 'Arab. Wadd menjadi berhala untuk kamu Kalb di Daumah Al Jandal. Suwa' untuk Bani Hudzail. Yaquts untuk Murad dan Bani Ghuthaif di Jauf tepatnya di Saba'. Adapun Ya'uq adalah untuk Bani Hamdan. Sedangkan Nashr untuk Himyar keluarga Dzul Kala'. Itulah nama-nama orang Shalih dari kaum Nabi Nuh. Ketika mereka wafat, syetan membisikkan kepada kaum mereka untuk mendirikan berhala pada majelis mereka dan menamakannya dengan nama-nama mereka. Maka mereka pun melakukan hal itu, dan saat itu berhala-berhala itu belum disembah hingga mereka wafat, sesudah itu, setelah ilmu tiada, maka berhala-berhala itu pun disembah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4920</td></tr><tr><td>Arabic No</td><td>4920</td></tr><tr><td>Reference</td><td>Book 65 Hadith 440</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Ибрахим ибн Муса:\n— Сообщил нам Хишам от Ибн Джурайджа, который сказал:\n— ‘Атаъ передал от Ибн ‘Аббаса, да будет доволен ими обоими Аллах: «Идолы, которым (поклонялся) народ Нуха, позднее появились в среде арабов. Что касается Вудды, то он принадлежал племени килаб в Дауматуль-Джандаль. Сува‘ принадлежал племени хузейль. Ягъус принадлежал сначала племени мурад, а затем — бану гъутайф, в местечке Джуруф, возле Сабы. Что касается Я‘укъа, то он принадлежал племени хамдан, а Наср находился у химьяритов, в семье Зуль-Кала‘. Это — имена праведных мужей из народа Нуха. Когда они умерли, шайтан внушил их соплеменникам, чтобы они установили их статуи в местах, где они собирались и садились во время собраний, и назвали их именами. И они сделали это, но пока не поклонялись им. Но когда это поколение умерло и исчезло знание, им начали поклоняться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4920</td></tr><tr><td>Arabic No</td><td>4920</td></tr><tr><td>Reference</td><td>Book 65 Hadith 440</td></tr></tbody></table></div>
 

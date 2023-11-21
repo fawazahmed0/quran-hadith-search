@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased withthem) reported Allah's Apostle (ﷺ) having said 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwasannya Nabi shallallahu 'alaihi wasallam beliau bersabda: "Jika salah seorang dari kalian diundang ke pesta pernikahan, hendaklah ia penuhi undangan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3511</td></tr><tr><td>Arabic No</td><td>1429.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3511</td></tr><tr><td>Arabic No</td><td>1429.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 114</td></tr></tbody></table></div>
 

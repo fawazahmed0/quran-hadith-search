@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Urwah: I testify that the Messenger of Allah (ﷺ) decided that the lan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdah Al Amuli], telah menceritakan kepada kami [Abdullah bin Utsman], telah menceritakan kepada kami [Abdullah bin Al Mubarak] telah mengabarkan kepada kami [Nafi' bin Umar], dari [Ibnu Abu Mulaikah] dari ['Urwah] ia berkata; aku bersaksi bahwa Rasulullah shallallahu 'alaihi wasallam telah memutuskan bahwa bumi ini adalah bumi Allah, dan para hamba adalah hamba Allah, dan barang siapa yang menghidupkan lahan mati maka ia yang lebih berhak terhadapnya. Telah datang kepada kami dengan membawa hal ini dari Nabi shallallahu 'alaihi wasallam [orang-orang yang datang membawa shalat] darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3076</td></tr><tr><td>Arabic No</td><td>3076</td></tr><tr><td>Reference</td><td>Book 20 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Урва сказал: «Я свидетельствую, что Посланник Аллаха ﷺ постановил, что вся земля земля Аллаха, и все люди рабы Аллаха, и кто оживил мёртвую землю, тот имеет больше прав на неё. Это передали нам от Пророка ﷺ те, кто передал нам от него сообщения о молитвах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3076</td></tr><tr><td>Arabic No</td><td>3076</td></tr><tr><td>Reference</td><td>Book 20 Hadith 149</td></tr></tbody></table></div>
 

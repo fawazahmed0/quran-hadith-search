@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:That Sa'd b. 'Ubadah said to the Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Suhail bin Abu Shalih] dari [Bapaknya] dari [Abu Hurairah] bahwa Sa'd bin Ubadah berkata kepada Rasulullah shallallahu 'alaihi wasallam, "Apa pendapatmu jika aku mendapati isteriku bersama laki-laki asing, apakah aku harus menahan diri hingga aku dapat menghadirkan empat orang saksi?" Beliau menjawab: "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1498)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4533</td></tr><tr><td>Arabic No</td><td>4533</td></tr><tr><td>Reference</td><td>Book 41 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Са‘д ибн ‘Убада, да будет доволен им Аллах, спросил Посланника Аллаха ﷺ: «Неужели, если я застану мужчину с моей женой, я не должен ничего делать с ними, пока не приведу четырёх свидетелей?!» (Посланник Аллаха ﷺ) ответил: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1498)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4533</td></tr><tr><td>Arabic No</td><td>4533</td></tr><tr><td>Reference</td><td>Book 41 Hadith 40</td></tr></tbody></table></div>
 

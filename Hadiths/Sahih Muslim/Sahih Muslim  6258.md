@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' b. Azib reported:I saw Hasan b. 'Ali upon the shoulders of Allah's Apos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari ['Adi] yaitu Ibnu Tsabit; Telah menceritakan kepada kami [Al Bara' bin 'Azib] dia berkata; "Aku melihat Al Hasan bin Ali berada di atas pundak Rasulullah shallallahu 'alaihi wasallam dan beliau berkata; 'Ya Allah, Sungguh aku mencintainya, maka cintailah ia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6258</td></tr><tr><td>Arabic No</td><td>2422.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6258</td></tr><tr><td>Arabic No</td><td>2422.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 88</td></tr></tbody></table></div>
 

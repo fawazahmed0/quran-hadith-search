@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd al-Rahman b. Abi Laila:I heard 'Ali say: The Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abbas bin Abdul 'Azhim], telah menceritakan kepada kami [Yahya bin Abu Bukair], telah menceritakan kepada kami [Abu Ja'far Ar Razi], dari [Mutharrif] dari [Abdurrahman bin Abu Laila], ia berkata; saya mendengar [Ali] berkata; Rasulullah shallallahu 'alaihi wasallam menunjukku untuk mengurusi bagian seperdua puluh lima, kemudian aku meletakkannya pada tempatnya pada masa hidup Rasulullah shallallahu 'alaihi wasallam dan pada masa hidup Abu Bakr serta Umar. Kemudian ia diberi harta, lalu ia memanggilku dan berkata; ambillah! Kemudian aku katakan; aku tidak mau. Umar berkata; ambillah, kalian lebih berhak terhadapnya. Aku katakan; kami telah merasa tidak membutuhkannya. Kemudian Umar menyimpannya di Baitul Mal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2983</td></tr><tr><td>Arabic No</td><td>2983</td></tr><tr><td>Reference</td><td>Book 20 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али, да будет доволен им Аллах: «Посланник Аллаха ﷺ поручил мне распределение пятой части хумуса, и я распределял её, как полагается, при жизни Посланника Аллаха ﷺ, а также во времена Абу Бакра и ‘Умара. Однажды ‘Умару привезли какое-то имущество, и он позвал меня и сказал: “Возьми это”. Я ответил: “Я не хочу”. Он сказал: “Возьми, ибо у вас больше прав на это”. Я сказал: “Мы больше не нуждаемся в нём”. Тогда ‘Умар положил его в казну»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2983</td></tr><tr><td>Arabic No</td><td>2983</td></tr><tr><td>Reference</td><td>Book 20 Hadith 56</td></tr></tbody></table></div>
 

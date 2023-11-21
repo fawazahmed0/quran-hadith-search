@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm 'Atiyya (رضي الله عنها) a dit : L'Envoyé de Dieu (paix et béné
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Ayyub] dari [Muhammad bin Sirin] dari [Ummu 'Athiyyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam masuk menemui kami yang sedang memandikan putrinya. Kemudian beliau pun bersabda: "Mandikanlah ia sebanyak tiga atau lima kali, atau pun lebih dari itu. Setelah itu, gunakanlah adukan air dan daun bidara. Sedangkan untuk siraman terakhir, gunakanlah kapur barus, atau sejenis kapur barus. Setelah selesai, beritahukanlah padaku." Setelah selesai memandikan, kami pun memberitahukan kepada beliau, dan beliau langsung memberikan kainnya pada kami dan bersabda: "Kenakanlah pada bagian bawah badannya." Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [Ayyub] dari [Muhammad bin Sirin] dari [Hafshah binti Sirin] dari [Ummu 'Athiyyah] ia berkata, "Kami memintal rambutnya menjadi tiga." Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] -dalam jalur lain- Telah menceritakan kepada kami [Abu Rabi' Az Zahrani] dan [Qutaibah bin Sa'id] keduanya berkata, telah menceritakan kepada kami [Hammad] -dalam jalur lain- Dan telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Ibnu Ulayyah] semuanya dari [Ayyub] dari [Muhammad] dari [Ummu 'Athiyyah] ia berkata; "Salah seorang putri Rasulullah shallallahu 'alaihi wasallam meninggal." Sementara di dalam hadits Ibnu Ulayyah; Rasulullah shallallahu 'alaihi wasallam datang menemui kami yang sedang memandikan mayit putrinya. Sedangkan di dalam haditsnya Malik; Rasulullah shallallahu 'alaihi wasallam masuk menemui kami saat anak putrinya meninggal. Serupa dengan hadits Yazid bin Zurai' dari Ayyub dari Muhamamd dari Ummu 'Atyiyyah. Dan menceritakan kepada kami [Qutaibah bin Sa'id] menceritakan kepada kami [Hammad] dari [Ayyub] dari [Hafshah] dari [Ummu Athiyyah] dengan hadits yang semisal, hanyasaja ia mengatakan 'tiga kali atau lima kali atau tujuh kali atau lebih banyak dari itu. Maka Hafshah berkata dari Ummu 'Athiyah, "Dan kami memintal rambutnya menjadi tiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2168</td></tr><tr><td>Arabic No</td><td>939.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййя сказала: «Посланник Аллаха ﷺ зашёл к нам, когда мы мыли его (покойную) дочь, и сказал: “Обмойте её трижды, или пять раз, или более того, если посчитаете нужным, отваром ююбы /сидр/, а (когда будете делать это) в последний раз, используйте камфару (или: немного камфары) и дайте мне знать, когда закончите”. Закончив (обмывать её тело), мы сообщили ему об этом, а он дал нам свой изар и сказал: “Заверните её в это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2168</td></tr><tr><td>Arabic No</td><td>939.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 46</td></tr></tbody></table></div>
 

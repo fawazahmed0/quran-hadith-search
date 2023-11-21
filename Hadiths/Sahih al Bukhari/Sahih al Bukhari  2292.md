@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:Ibn 'Abbas said, "In the verse: To every one We have a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ash-Shaltu bin Muhammad] telah menceritakan kepada kami [Abu Usamah] dari [Idris] dari [Tholhah bin Musharrif] dari [Said bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma]: Firman Allah yang berbunyi (Dan bagi harta peninggalan kami jadikan para pewaris), dia berkata; artinya: itulah warisan. Dan ayat (Dan orang-orang yang kamu telah bersumpah setia dengan mereka) ia berkata: ketika orang-orang muhajirin sampai di Madinah, seorang Muhajir mewarisi orang Anshar yang tidak memiliki hubungan kekeluargaan karena persaudaraan yang dipersaudarakan oleh Nabi shallallahu 'alaihi wasallam diantara mereka. Ketika ayat ini turun maka ayat ini menghapus ketentuan tersebut. Dan ayat tidak dipraktekkan lagi kecuali saling tolong menolong (antara Muhajirin - Anshar), pemberian dan nasehat sedangkan warisan telah dihapus dan diberi wasiat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2292</td></tr><tr><td>Arabic No</td><td>2292</td></tr><tr><td>Reference</td><td>Book 39 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего «Каждому человеку Мы определили близких» (сура «ан-Ниса», аят 33), что «мауалия» (слово использованное в этом аяте) означает наследники. \nА в отношении слов «С кем вы связаны клятвами» он сказал: «Когда мухаджиры прибыли в Медину, они с ансарами наследовали друг другу вместо кровных родственников из-за того, что Пророк ﷺ побратал их. И когда было ниспослано: “Каждому человеку Мы определили близких” (сура “ан-Ниса”, аят 33), то этот аят отменил такое наследство». \nЗатем он сказал: «“С кем вы связаны клятвами” (было отменено), кроме поддержки, взаимопомощи, искреннего отношения, а наследство было отменено, но можно было завещать (побратимому часть имущества)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2292</td></tr><tr><td>Arabic No</td><td>2292</td></tr><tr><td>Reference</td><td>Book 39 Hadith 3</td></tr></tbody></table></div>
 

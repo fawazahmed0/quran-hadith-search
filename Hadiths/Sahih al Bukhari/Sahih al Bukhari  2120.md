@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:While the Prophet (ﷺ) was in the market, somebody, cal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] telah menceritakan kepada kami [Syu'bah] dari [Humaid Ath-Thowil] dari [Anas bin Malik radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam pernah berada dalam suatu pasar tiba-tiba ada seorang lelaki yang memanggil Beliau: "Wahai Abu Al Qasim!". Maka Nabi shallallahu 'alaihi wasallam menoleh kepada orang itu lalu dia berkata: "Aku yang memanggil dengan panggilan tadi". Maka Nabi shallallahu 'alaihi wasallam berkata: "Panggillah dengan menyebut namaku dan jangan memanggil dengan nama kuniyahku (panggilan atau julukan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 34 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды, когда) Пророк ﷺ находился на рынке, какой-то человек воскликнул: “О Абу-ль-Касим!” Пророк ﷺ повернулся к нему, но он сказал: “Я только позвал такого-то”, и тогда Пророк ﷺ сказал: “(Можете) называть (друг друга) моим именем, но не употребляйте при обращении (друг к другу) мою кунью!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 34 Hadith 73</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qilaba:that Thabit bin Ad-Dahhak had informed him that he was one o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4171</td></tr><tr><td>Arabic No</td><td>4171</td></tr><tr><td>Reference</td><td>Book 64 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Кылябы, что Сабит ибн ад-Даххак сообщил ему, что он был одним из тех, кто давал клятву под деревом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4171</td></tr><tr><td>Arabic No</td><td>4171</td></tr><tr><td>Reference</td><td>Book 64 Hadith 213</td></tr></tbody></table></div>
 

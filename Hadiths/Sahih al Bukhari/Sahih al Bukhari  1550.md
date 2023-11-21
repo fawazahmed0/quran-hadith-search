@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I know how the Prophet (ﷺ) used to say (Talbiya) and it was: '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari ['Umarah] dari [Abu 'Athiyyah] dari ['Aisyah radliallahu 'anha] berkata; Sungguh aku mengetahui bagaimana cara Nabi shallallahu 'alaihi wasallam bertalbiyah: bahwa cara talbiyah Rasulullah shallallahu 'alaihi wasallam adalah: "Labbaikallahumma labbaik. Labbaika laa syariika laka labbaik. Innal hamda wan ni'mata ". ("Aku datang memenuhi panggilanMu ya Allah. Aku datang memenuhi panggilanMu tidak ada sekutu bagiMu. Sesungguhnya segala puji, nikmat milikMu"). Hadits ini dikuatkan pula oleh [Abu Mu'awiyah] dari [Al A'masy] dan berkata, [Syu'bah] telah mengabarkan kepada kami [Sulaiman] aku mendengar [Khaitsamah] dari [Abu 'Athiyyah] aku mendengar dari ['Aisyah radliallahu 'anha]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1550</td></tr><tr><td>Arabic No</td><td>1550</td></tr><tr><td>Reference</td><td>Book 25 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Поистине, я знаю, как Пророк ﷺ говорил тальбию, он говорил: «Вот я перед Тобой, о Аллах, вот я перед Тобой, вот я перед Тобой, нет у Тебя сотоварища, вот я перед Тобой, поистине, хвала Тебе, и милость принадлежит Тебе, и владычество! /Ляббай-Кя, Аллахумма, ляббай-Кя, ляббай-Кя, ля шарикя ля-Кя, ляббай-Кя, инна-ль-хамда, ва-н-ни‘мата ля-Кя!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1550</td></tr><tr><td>Arabic No</td><td>1550</td></tr><tr><td>Reference</td><td>Book 25 Hadith 36</td></tr></tbody></table></div>
 

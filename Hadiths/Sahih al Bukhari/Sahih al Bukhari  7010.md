@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais bin 'Ubada:I was sitting in a gathering in which there was Sa'd bi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad Al Ju'fi] telah menceritakan kepada kami [Harami bin Umarah] telah menceritakan kepada kami [Qurrah bin Khalid] dari [Muhammad bin Sirin] mengatakan, [Qais bin Ubad] mengatakan; aku berada di suatu halaqah yang disana terdapat Sa'd bin malik dan Ibnu Umar, lantas [Abdullah bin Salam] lewat, kemudian mereka mengatakan; 'Ini adalah seorang penghuni surga.' Maka saya katakan kepada Abdullah bahwa mereka telah mengatakan demikian dan demikian. Spontan Abdullah bin Salam mengatakan: 'Subhanallah, tak sepantasnya mereka mengucapkan suatu hal yang mereka tidak mempunyai pengetahuan tentangnya, hanyasanya aku bermimpi seolah-olah ada sebuah tiang yang diletakkan dalam sebuah kebun hijau, kemudian tiang itu ditegakkan disana sedang di ujung tongkat itu terdapat tali dan bagian bawahnya terdapat seorang pelayan, kemudian ada suatu suara yang terdengar; 'naikilah tiang tersebut! ' Maka aku menaikinya hingga aku berhasil mengambil tali. Kejadian ini aku kisahkan kepada Rasulullah Shallallahu'alaihiwasallam, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Abdullah bin Salam meninggal sedang ia memegang tali yang kokoh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7010</td></tr><tr><td>Arabic No</td><td>7010</td></tr><tr><td>Reference</td><td>Book 91 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Кайс ибн ‘Убад, да помилует его Аллах, сказал: «(Однажды) я находился в кругу (людей), среди которых был Са‘д ибн Малик и (‘Абдуллах) ибн ‘Умар, а (мимо них) проходил ‘Абдуллах ибн Салям, и они сказали: “Этот человек из числа обитателей Рая!” И тогда я спросил его: “Поистине, они говорят так-то и так-то”. (‘Абдуллах) ответил: “Пречист Аллах! Им не следует говорить о том, чего они не знают! (Как-то раз) я увидел (во сне), что колонна была установлена (посреди) зелёного сада, на вершине её находилась ручка (в виде кольца), а внизу колонны находился слуга. Кто-то сказал (мне): “Поднимись на неё”. (После чего) я поднимался на неё, пока не взялся за ручку. Я рассказал (обо всём этом) Посланнику Аллаха ﷺ и Посланник Аллаха ﷺ сказал: “‘Абдуллах умрёт ухватившись за надёжнейшую ручку”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7010</td></tr><tr><td>Arabic No</td><td>7010</td></tr><tr><td>Reference</td><td>Book 91 Hadith 28</td></tr></tbody></table></div>
 

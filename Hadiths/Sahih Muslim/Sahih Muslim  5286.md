@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) used to breathe three times in the co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakr bin Abu Syaibah] mereka berkata; Telah menceritakan kepada kami [Waki'] dari ['Azrah bin Tsabit Al Anshari] dari [Tsumamah bin 'Abdillah bin Anas] dari [Anas]; Bahwa Rasulullah shallallahu 'alaihi wasallam bernafas (ketika minum) di bejana sebanyak tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5286</td></tr><tr><td>Arabic No</td><td>2028.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах: «(Во время питья из какого-нибудь) сосуда Посланник Аллаха ﷺ обычно делал три вдоха и выдоха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5286</td></tr><tr><td>Arabic No</td><td>2028.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 160</td></tr></tbody></table></div>
 

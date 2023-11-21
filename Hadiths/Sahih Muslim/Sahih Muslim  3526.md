@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), la femme de Rifâ'a vint dire au Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Amru An Naqid] sedangkan lafazhnya dari Amru keduanya berkata; Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Urwah] dari ['Aisyah] dia berkata; Suatu ketika istri Rifa'ah menemui Nabi shallallahu 'alaihi wasallam, dia berkata; Saya adalah istri Rifa'ah, kemudian dia menceraikanku dengan talak tiga, kemudian saya menikah dengan Abdurrahman bin Az Zabir, tapi anunya seperti ujung kain (impotent)." Rasulullah shallallahu 'alaihi wasallam tersenyum mendengarnya, lantas beliau bersabda: "Apakah kamu ingin kembali kepada Rifa'ah? itu tidak mungkin, sebelum kamu merasakan madunya dan dia merasakan madumu (yaitu bersenggama dengannya)." 'Aisyah berkata; Waktu itu Abu Bakar berada di samping Rasulullah, sedangkan Khalid berada di pintu sedang menunggu untuk diizinkan, maka dia berseru; "Wahai Abu Bakar, apakah kamu tidak mendengar perempuan ini berkata dengan keras di sisi Rasulullah shallallahu 'alaihi wasallam?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3526</td></tr><tr><td>Arabic No</td><td>1433.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3526</td></tr><tr><td>Arabic No</td><td>1433.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 128</td></tr></tbody></table></div>
 

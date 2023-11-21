@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Sa'd bin Abi Waqqas and 'Abu bin Zam'a had a dispute over a boy.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Urwah] dari ['Aisyah] radliallahu 'anha mengatakan; Sa'd bin Abu Waqqash bersengketa dengan Abd bin Zam'ah tentang anak laki-laki. Sa'd mengatakan; 'Ya Rasulullah, (dia adalah) anak saudaraku 'Utbah bin Abi Waqash, dia berpesan kepadaku bahwa dia adalah anaknya, lihatlah kemiripannya! ' Sedang 'Abd bin Zam'ah berkata; 'anak ini adalah saudaraku Wahai Rasulullah, ia dilahirkan di atas kasur ayahku dari hamba sahayanya! ' Rasulullah Shallallahu'alaihi wa sallam mencermati kemiripannya dan melihat kemiripan yang terang dengan 'Utbah, namun beliau kemudian bersabda: "Anak laki-laki ini untukmu ya Abd bin Zam'ah, anak bagi pemilik ranjang dan bagi pezinah adalah batu, dan berhijablah engkau dari dia wahai Saudah binti Zam'ah." 'Aisyah berkata; maka anak laki-laki itu tak pernah melihat Saudah selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6765</td></tr><tr><td>Arabic No</td><td>6765</td></tr><tr><td>Reference</td><td>Book 85 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Са‘д ибн Абу Ваккас и ‘Абд ибн Зам‘а поспорили в отношении юноши. И Са‘д сказал: «О Посланник Аллаха, это — сын моего брата ‘Утбы ибн Абу Ваккаса. Он поручил мне (забрать его), поскольку это его сын. Посмотри, как он похож на него». ‘Абд ибн Зам‘а сказал: «Это — мой брат, о Посланник Аллаха, рождённый на постели моего отца от своей невольницы». Посланник Аллаха ﷺ посмотрел на его схожесть (с ‘Утбой) и увидел, что он действительно похож на ‘Утбу, и сказал: “Он твой, о ‘Абд бин Зам‘а. Ребёнок принадлежит постели, а прелюбодею — позор и лишения (прав на ребёнка). Но ты, Сауда бинт Зам‘а, закройся от него”». Она сказала: «И он больше не видел Сауду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6765</td></tr><tr><td>Arabic No</td><td>6765</td></tr><tr><td>Reference</td><td>Book 85 Hadith 42</td></tr></tbody></table></div>
 

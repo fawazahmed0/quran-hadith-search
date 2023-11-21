@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by the same chain of transmitters by Hammam, and s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Haddab bin Khalid Al Azadi] telah menceritakan kepada kami [Hammam bin Yahya] telah menceritakan kepadaku [Abu Jamrah Adl Dluba'i] dari [Abu Bakr] dari [Ayahnya], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa shalat pada kedua waktu dingin (ashar dan subuh), maka ia akan masuk surga." Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Bisyr bin As Sari] katanya (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnu Khirasy] telah menceritakan kepada kami ['Amru bin 'Ashim], keduanya mendengar [Hammam] dengan isnad saeperti ini, beliau menisbatkan kepada Abu Bakr, keduanya mengatakan; maksudnya Abu Bakr bin Abu Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1439</td></tr><tr><td>Arabic No</td><td>635.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 272</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но с другим иснадом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1439</td></tr><tr><td>Arabic No</td><td>635.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 272</td></tr></tbody></table></div>
 

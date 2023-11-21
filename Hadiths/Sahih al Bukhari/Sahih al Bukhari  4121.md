@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The people of (Banu) Quraiza agreed to accept the v
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Sa'ad], ia berkata; aku mendengar [Abu Umamah] berkata; aku mendengar [Abu Sa'id Al Khudri radliallahu 'anhu] berkata; "Penduduk Quraizhah setuju dengan ketetapan hukum yang akan diputuskan oleh Sa'ad bin Mu'adz. Lalu Nabi shallallahu 'alaihi wasallam mengutus seseorang untuk memanggilnya, dia lalu datang dengan mengendarai keledai. Ketika dekat dengan masjid, beliau berkata kepada kaum Anshar: "Berdirilah kalian untuk pemimpin kalian atau orang terbaik kalian". Beliau melanjutkan sabdanya: "Mereka telah setuju dengan keputusanmu." Sa'ad berkata; "Aku akan memutuskan kepada mereka, bunuhlah para tentara perang mereka dan tawanlah anak-anak dan wanita mereka." Beliau bersabda: "Sungguh kamu telah memutuskan hukum kepada mereka dengan hukum Allah." -Atau bersabda- "Dengan hukum Raja diraja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4121</td></tr><tr><td>Arabic No</td><td>4121</td></tr><tr><td>Reference</td><td>Book 64 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «(Люди из племени) бану курайза согласились, чтобы судьбу их решил Са‘д ибн Му‘аз, после чего Пророк ﷺ послал за Са‘дом, который приехал верхом на осле. Когда он подъехал к мечети, (Пророк ﷺ) велел ансарам: “Встаньте (и подойдите) к своему вождю (или: к лучшему из вас)”. А потом (Пророк ﷺ) сказал (Са‘ду, да будет доволен им Аллах): “Эти (люди) согласились принять твоё решение”. (Са‘д, да будет доволен им Аллах,) сказал: “Тебе (следует) казнить их бойцов и пленить их женщин и детей!” (На это Пророк ﷺ) сказал: “Ты принял решение, соответствующее решению Аллаха! (или: соответствующее решению Царя!)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4121</td></tr><tr><td>Arabic No</td><td>4121</td></tr><tr><td>Reference</td><td>Book 64 Hadith 165</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A woman asked the Prophet (Hadith 456). Narrated 'Aisha: A woman
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Ibnu Uyainah] dari [Manshur bin Shafiyah] dari [Ibunya] dari [Aisyah] bahwa, ada seorang wanita bertanya Nabi shallallahu 'alaihi wasallam Shallallahu'alaihiwasallam -lewat jalur periwayatan lain-Dan telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Uqbah- telah menceritakan kepada kami [Al Fudlail bin Sulaiman An Numairi Al Bashri] telah menceritakan kepada kami [Manshur bin Abdurrahman Ibn Syaibah] telah menceritakan kepadaku [Ibuku] dari [Aisyah] radliyallahu'anha, ada seorang wanita bertanya Nabi shallallahu 'alaihi wasallam tentang haidl, bagaimana ia harus mandi karena haidl? Nabi menjawab: 'Hendaklah kau ambil sepotong kapas, lantas kau berwudlu dengannya.' Wanita itu bertanya, 'Bagaimana aku berwudlu dengan kapas itu wahai Rasulullah? ' Nabi shallallahu 'alaihi wasallam menjawab: 'Berwudlulah.' Si wanita terus bertanya, 'Bagaimana aku harus berwudlu dengan kapas itu ya Rasulullah? Nabi shallallahu 'alaihi wasallam menjawab: 'Berwudlulah.' Si wanita terus bertanya, 'Bagaimana aku harus berwudlu dengan kapas itu ya Rasulullah? ' Maka Aisyah pun berkata, 'Aku mengerti yang Rasulullah maksudkan, sehingga kutarik wanita itu dan kuajari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7357</td></tr><tr><td>Arabic No</td><td>7357</td></tr><tr><td>Reference</td><td>Book 96 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, о том, что однажды какая-то женщина спросила Пророка ﷺ о месячных и о том, как следует совершать большое омовение после месячных? И Пророк ﷺ сказал: «Возьми кусок шерсти, пропитанной мускусом, и очищайся этим». Она сказала: «Как мне очищаться этим, о Посланник Аллаха?» Он сказал: «Очищайся». Она (ещё раз) спросила: «Как мне очищаться этим, о Посланник Аллаха?» Он ответил: «Очищайся этим».\n‘Аиша сказала: «Тогда я поняла, что имел в виду Посланник Аллаха ﷺ и я привлекла её к себе и обучила её (как это делается)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7357</td></tr><tr><td>Arabic No</td><td>7357</td></tr><tr><td>Reference</td><td>Book 96 Hadith 84</td></tr></tbody></table></div>
 

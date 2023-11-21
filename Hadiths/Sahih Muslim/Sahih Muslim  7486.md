@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that two persons sneezed in the presence of Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Hafsh bin Giyats] dari [Sulaiman At Taimi] dari [Anas bin Malik] berkata: Dua orang bersin di dekat nabi Shallallahu 'alaihi wa Salam, salah satunya didoakan Rasulullah Shallallahu 'alaihi wa Salam tapi yang lain tidak, yang tidak didoakan berkata: Wahai Rasulullah, Tuan mendoakannya tapi tidak mendoakanku. Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya ia memuji Allah sementara kamu tidak." telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Khalid Al Ahmar] dari [Sulaiman At Taimi] dari [Anas] dari nabi Shallallahu 'alaihi wa Salam dengan matan serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7486</td></tr><tr><td>Arabic No</td><td>2991.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7486</td></tr><tr><td>Arabic No</td><td>2991.01</td></tr><tr><td>Reference</td><td>Book 55 Hadith 69</td></tr></tbody></table></div>
 

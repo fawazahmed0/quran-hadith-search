@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) slaughtered two rams as sacrifice and mentioned 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafs bin Umar] telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Anas] berkata, "Nabi shallallahu 'alaihi wasallam pernah berkurban dengan dua kambing, beliau sebut nama Allah dan beliau bertakbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7399</td></tr><tr><td>Arabic No</td><td>7399</td></tr><tr><td>Reference</td><td>Book 97 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик), да будет доволен им Аллах, передаёт, что Пророк ﷺ принёс в жертву двух баранов. Он произнёс имя Аллаха и сказал: «Аллаху Акбар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7399</td></tr><tr><td>Arabic No</td><td>7399</td></tr><tr><td>Reference</td><td>Book 97 Hadith 28</td></tr></tbody></table></div>
 

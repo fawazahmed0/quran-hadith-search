@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A group of three men came to the houses of the wives of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Amir Abu Maryam] Telah mengabarkan kepada kami [Muhammad bin Ja'far] Telah mengabarkan kepada kami [Humaid bin Abu Humaid Ath Thawil] bahwa ia mendengar [Anas bin Malik] radliallahu 'anhu berkata; Ada tiga orang mendatangi rumah isteri-isteri Nabi shallallahu 'alaihi wasallam dan bertanya tentang ibadah Nabi shallallahu 'alaihi wasallam. Dan setelah diberitakan kepada mereka, sepertinya mereka merasa hal itu masih sedikit bagi mereka. Mereka berkata, "Ibadah kita tak ada apa-apanya dibanding Rasulullah shallallahu 'alaihi wasallam, bukankah beliau sudah diampuni dosa-dosanya yang telah lalu dan juga yang akan datang?" Salah seorang dari mereka berkata, "Sungguh, aku akan shalat malam selama-lamanya." Kemudian yang lain berkata, "Kalau aku, maka sungguh, aku akan berpuasa Dahr (setahun penuh) dan aku tidak akan berbuka." Dan yang lain lagi berkata, "Aku akan menjauhi wanita dan tidak akan menikah selama-lamanya." Kemudian datanglah Rasulullah shallallahu 'alaihi wasallam kepada mereka seraya bertanya: "Kalian berkata begini dan begitu. Ada pun aku, demi Allah, adalah orang yang paling takut kepada Allah di antara kalian, dan juga paling bertakwa. Aku berpuasa dan juga berbuka, aku shalat dan juga tidur serta menikahi wanita. Barangsiapa yang benci sunnahku, maka bukanlah dari golonganku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5063</td></tr><tr><td>Arabic No</td><td>5063</td></tr><tr><td>Reference</td><td>Book 67 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «(Однажды) к домам жён Пророка ﷺ пришли трое людей, которые стали расспрашивать о том, как поклоняется Аллаху Пророк ﷺ. Когда им рассказали об этом, они, очевидно, посчитав, что это не так уж много /такалю-ха/, сказали: “Как далеко нам до Пророка ﷺ которому прощены и прошлые его прегрешения, и будущие!” Потом один из них сказал: “Что касается меня, то я буду молиться каждую ночь напролёт”. Другой сказал: “Я стану постоянно соблюдать пост”. Третий же сказал: “А я буду сторониться женщин и никогда не женюсь”. (А через некоторое время к ним) подошёл Посланник Аллаха ﷺ который спросил: “Так это вы говорили то-то и то-то? Клянусь Аллахом, я больше вас страшусь Аллаха и больше вас боюсь Его, однако в некоторые дни я пощусь, а в другие не делаю этого, я молюсь (по ночам) и сплю, а также заключаю браки с женщинами, а тот, кто не желает (следовать) моей сунне, не имеет ко мне отношения!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5063</td></tr><tr><td>Arabic No</td><td>5063</td></tr><tr><td>Reference</td><td>Book 67 Hadith 1</td></tr></tbody></table></div>
 

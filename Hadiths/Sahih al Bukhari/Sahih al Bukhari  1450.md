@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Abu Bakr wrote to me what was made compulsory by Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah Al Anshariy] berkata, telah menceritakan [bapakku] kepadaku, dia berkata, telah menceritakan kepada saya [Tsumamah] bahwa [Anas radliallahu 'anhu] menceritakan kepadanya bahwa Abu Bakar radliallahu 'anhu telah menulis surat kepadanya berupa ketentuan zakat sebagaimana telah diwajibkan oleh Rasulullah Shallallahu'alaihiwasallam: "Janganlah kamu menggabungkan ternak yang terpisah dan jangan pula memisahkan yang sudah berkumpul, karena ingin menghindari atau meminimalisir pengeluaran shadaqah (zakat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1450</td></tr><tr><td>Arabic No</td><td>1450</td></tr><tr><td>Reference</td><td>Book 24 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что в своё (время) Абу Бакр, да будет доволен им Аллах, написал ему (письмо, в котором изложил то), что было вменено в обязанность Посланнику Аллаха ﷺ . (В этом письме говорилось): «И не следует объединять (имущество) разных людей, как не следует и разделять находящееся в совместном владении из опасений (перед тем, что иначе придётся заплатить больше)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1450</td></tr><tr><td>Arabic No</td><td>1450</td></tr><tr><td>Reference</td><td>Book 24 Hadith 53</td></tr></tbody></table></div>
 

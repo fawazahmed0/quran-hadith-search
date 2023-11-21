@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali bin Abi Talib:We were in the company of the Prophet (ﷺ) on the d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Al Anshari] telah menceritakan kepada kami [Hisyam bin Hasan] telah menceritakan kepada kami [Muhammad bin Sirin] telah menceritakan kepada kami ['Abidah] telah menceritakan kepada kami [Ali bin Abu Thalib] radliallahu 'anhu dia berkata; "Kami bersama Nabi shallallahu 'alaihi wasallam ketika perang Khandaq, lalu beliau bersabda: 'Semoga Allah memenuhi kubur mereka dan rumah mereka dengan api sebagaimana mereka menyibukkan kami dari shalat wustha hingga matahari terbenam.'" Shalat wustha adalah shalat Ashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6396</td></tr><tr><td>Arabic No</td><td>6396</td></tr><tr><td>Reference</td><td>Book 80 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али ибн Абу Талиб, да будет доволен им Аллах, сказал: «В один из дней битвы у рва, мы были с Пророком ﷺ, и он сказал: “Да наполнит Аллах их могилы и их дома огнём /Маляъа-Ллаху кубура-хум ва буйута-хум наран/ за то, что они удержали нас от совершения средней молитвы до заката солнца!» А это послеполуденная /‘аср/ молитва
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6396</td></tr><tr><td>Arabic No</td><td>6396</td></tr><tr><td>Reference</td><td>Book 80 Hadith 91</td></tr></tbody></table></div>
 

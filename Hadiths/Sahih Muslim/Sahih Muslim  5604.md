@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that Allah's Messenger (ﷺ) changed the name of 'Asiya (Diso
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Zuhair bin Harb], [Muhammad bin Al Mutsanna], ['Ubaidullah bin Sa'id] dan [Muhammad bin Basysyar] mereka berkata; Telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah]; Telah mengabarkan kepadaku [Nafi'] dari [Ibnu 'Umar] bahwa Rasulullah shallallahu 'alaihi wasallam mengganti nama 'Ashiyah seraya berkata; "Nama kamu adalah Jamilah." Ahmad berkata dengan lafazh; 'dari' Nafi', bukan; 'Telah mengabarkan kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5604</td></tr><tr><td>Arabic No</td><td>2139.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара о том, что Посланник Аллаха ﷺ поменял имя ‘Асии и сказал: «Ты (теперь) Джамиля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5604</td></tr><tr><td>Arabic No</td><td>2139.01</td></tr><tr><td>Reference</td><td>Book 38 Hadith 19</td></tr></tbody></table></div>
 

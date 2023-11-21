@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Zaid b. 'Amr b. Nufail (Allah be pleased with them) reported that Arwi 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Abdullah bin Wahb] telah menceritakan kepadaku [Umar bin Muhammad] bahwa [Ayahnya] menceritakan dari [Sa'id bin Zaid bin Amru bin Nufail], bahwa Arwa menuduhnya telah mengambil sebagian dari tanah miliknya, maka Sa'id berkata, "Tinggalkanlah dia dan biarkan (diambilnya), sesungguhnya saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengambil sejengkal tanah tanpa hak, maka Allah akan menghimpitnya dengan tujuh lapis bumi dihari Kiamat kelak. (Sa'id berdo'a) Ya Allah…jika dia berdusta, butakanlah matanya dan jadikanlah tanahnya (rumahnya) sebagai kuburannya." Ayah Umar melanjutkan, "Tidak lama kemudian, saya melihatnya buta dan berjalan sambil meraba-raba dinding, dia berkata, 'Saya terkena do'anya Sa'id bin Zaid.' Tatkala ia berjalan dari rumahnya menuju sumur, dia terjatuh ke dalamnya, maka itu sebagai kuburannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4133</td></tr><tr><td>Arabic No</td><td>1610.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4133</td></tr><tr><td>Arabic No</td><td>1610.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 172</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: A man who was stung by a scorpion was brought to the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haiwah bin Syuraih] telah menceritakan kepada kami [Baqiyyah] telah menceritakan kepadaku [Az Zubaidi] dari [Az Zuhri] dari [Thariq bin Makhasyin] dari [Abu Hurairah] ia berkata, "Seorang laki-laki yang terkena sengatan kalajengking datang menemui Nabi shallallahu 'alaihi wasallam." Abu Hurairah berkata, "Kemudian beliau bersabda: "Seandainya ia mengucapkan A'UUDZU BIKALIMAATILLAAHIT TAAMMAATI MIN SYARRI MAA KHALAQ (Aku berlindung kepada kalimat-kalimat Allah yang sempurna dari keburukan makhluk yang Allah ciptakan) ', maka ia tidak akan tersengat, atau kalajengking tersebut tidak akan membahayakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3899</td></tr><tr><td>Arabic No</td><td>3899</td></tr><tr><td>Reference</td><td>Book 29 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что к Пророку ﷺ привели человека, укушенного скорпионом, и он сказал: «Если бы он сказал: “Ищу у совершенных слов Аллаха защиты от зла того, что Он сотворил”, его бы не укусили (или: скорпион не причинил бы ему вреда) /А‘узу би-калимати-Лляхи-т-тамма мин шарри ма халяка/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3899</td></tr><tr><td>Arabic No</td><td>3899</td></tr><tr><td>Reference</td><td>Book 29 Hadith 45</td></tr></tbody></table></div>
 

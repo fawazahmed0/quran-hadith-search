@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: What the sea throws up and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Abdah] telah menceritakan kepada kami [Yahya bin Sulaim Ath Thaifi] telah menceritakan kepada kami [Isma'il bin Umayyah] dari [Abu Az Zubair] dari [Jabir bin Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apa yang didamparkan oleh laut atau yang tersingkap darinya maka makanlah, dan apa yang mati padanya dalam keadaan mengapung maka janganlah engkau makan." Abu Daud berkata, "Hadits tersebut diriwayatkan oleh [Sufyan Ats Tsauri] dan [Ayyub] serta [Hammad] dari [Abu Az Zubair] mereka menyandarkannya kepada Jabir. Dan hadits ini juga di sandarkan dengan sanad yang lemah, dari jalur Ibnu Abu Dzi'b dari Abu Az Zubair dari Jabir dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3815</td></tr><tr><td>Arabic No</td><td>3815</td></tr><tr><td>Reference</td><td>Book 28 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Что море выбросило на берег, то ешьте, а что умерло в воде и всплыло, то не ешьте». Абу Дауд сказал, что Суфьян ас-Саури, Айюб, Хаммад передаёт это сообщение от Абу аз-Зубайра как слова самого Джабира. Также передаётся слабая версия этого сообщения в виде хадиса от Ибн Абу Зиба от Абу аз-Зубайра от Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3815</td></tr><tr><td>Arabic No</td><td>3815</td></tr><tr><td>Reference</td><td>Book 28 Hadith 80</td></tr></tbody></table></div>
 

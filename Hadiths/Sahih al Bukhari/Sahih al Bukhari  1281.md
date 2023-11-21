@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab bint Abi Salama:I went to Um Habiba, the wife of Prophet, who sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada saya [Malik] dari ['Abdullah bin Abu Bakar bin Muhammad bin 'Amru bin Hazm] dari [Humaid bin Nafi'] dari [Zainab binti Abu Salamah] bahwa dia mengabarkannya, katanya; Aku pernah menemui [Ummu Habibah] radliallahu 'anha, isteri Nabi Shallallahu'alaihiwasallam. Lalu dia berkata; Aku mendengar Rasulullah Shallallahu'alaihiwasallam bersabda: "Tidak halal bagi wanita yang beriman kepada Allah dan Hari Akhir untuk berkabung melebihi tiga hari kecuali bila ditinggal mati suaminya yang saat itu dia boleh berkabung sampai empat bulan sepuluh hari". Lalu aku menemui [Zainab binti Jahsy] ketika saudara laki-lakinya meninggal dunia. Saat itu dia meminta minyak wangi lalu memakainya kemudian berkata, "Aku sebenarnya tidak memerlukan minyak wangi seandainya aku tidak mendengar Rasulullah Shallallahu'alaihiwasallam bersabda dari atas mimbar: tidak halal bagi seorang wanita yang beriman kepada Allah dan hari akhir berkabung atas mayit melebihi tiga hari selain karena kematian suaminya, boleh hingga empat bulan sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1281</td></tr><tr><td>Arabic No</td><td>1281</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что жена Пророка ﷺ Умм Хабиба, да будет доволен ею Аллах, сказала: «Я слышала, как Посланник Аллаха ﷺ сказал: “Непозволительно женщине, верующей в Аллаха и в Последний день, носить траур по покойному более трёх (дней), если только дело не касается её мужа, (по которому траур следует соблюдать) четыре месяца и десять дней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1281</td></tr><tr><td>Arabic No</td><td>1281</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

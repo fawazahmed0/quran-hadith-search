@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. ‘abd Allah said:The Prophet (ﷺ) went to visit a man of the Ansar ac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepadaku [Fulaih] dari [Sa'id bin Al Harits] dari [Jabir bin Abdullah] ia berkata, "Nabi shallallahu 'alaihi wasallam bersama seorang sahabat beliau menemui seorang laki-laki anshar, sementara laki-laki tersebut sedang memindahkan air di kebunnya, Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Jika engkau memiliki air yang telah bermalam di dalam syann (geriba yang basah) pada malam ini maka berilah kami minum, jika tidak maka kami akan meminum dengan mulut kami." Ia berkata, "Saya memiliki air yang telah bermalam dalam syann (sebuah geriba basah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5621)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 27 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ вместе с одним из своих сподвижников зашёл в сад одного из ансаров, который черпал воду. Посланник Аллаха ﷺ сказал: «Если у тебя в сосуде осталась вода с вечера, дай нам её, а если нет, то мы попьём отсюда». Тот человек сказал: «Нет, у меня есть вода в сосуде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5621)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 27 Hadith 56</td></tr></tbody></table></div>
 

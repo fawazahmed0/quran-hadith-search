@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:'Aisha said, "When Allah's Messenger (ﷺ) died, his wives intend
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] radliallahu 'anha, bahwasanya isteri-isteri Nabi shallallahu 'alaihi wasallam ketika Rasulullah Shallallahu'alaihiwasallam meninggal, mereka ingin mengutus Utsman untuk menemui Abu Bakar meminta warisan mereka, maka Aisyah mengatakan; Bukankah Rasulullah Shallallahu'alaihi wa sallam bersabda: "Kami tidak diwarisi, dan semua yang kami tinggalkan adalah sedekah?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6730</td></tr><tr><td>Arabic No</td><td>6730</td></tr><tr><td>Reference</td><td>Book 85 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах, что, когда Посланник Аллаха ﷺ скончался, его жёны хотели послать ‘Усмана к Абу Бакру, чтобы попросить причитающуюся им долю наследства. ‘Аиша сказала им: «Разве не говорил Посланник Аллаха ﷺ: “Поистине, мы не оставляем наследства. Всё, что мы оставляем — милостыня”?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6730</td></tr><tr><td>Arabic No</td><td>6730</td></tr><tr><td>Reference</td><td>Book 85 Hadith 7</td></tr></tbody></table></div>
 

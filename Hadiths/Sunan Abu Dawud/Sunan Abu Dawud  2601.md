@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah al-Khutami: When the Prophet (ﷺ) wanted to say farewell to a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Yahya bin Ishaq As Sailahini], telah menceritakan kepada kami [Hammad bin Salamah], dari [Abu Ja'far Al Khathmi], dari [Muhammad bin Ka'bin], dari [Abdullah Al Khathmi], ia berkata; Nabi shallallahu 'alaihi wasallam apabila hendak mengantarkan pasukan beliau berkata: "ASTAUDI'ULLAAHA DIINAKUM WA AMAANATAKUM WA KHAWAATIIMA 'AMALIKUM" (Aku titipkan kepada Allah agama kalian, amanah dan akhir dari amalan kalian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2601</td></tr><tr><td>Arabic No</td><td>2601</td></tr><tr><td>Reference</td><td>Book 15 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах аль-Хатми рассказывал: «Обычно, когда Пророк ﷺ провожал войско, (отправляющееся в поход), он говорил: “Я прошу Аллаха сохранить вашу религию и то, что было отдано вами на хранение, и завершение ваших дел!” /Астауди’у Ллаха динакум уа аманатакум уа хауатима а‘маликум/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2601</td></tr><tr><td>Arabic No</td><td>2601</td></tr><tr><td>Reference</td><td>Book 15 Hadith 125</td></tr></tbody></table></div>
 

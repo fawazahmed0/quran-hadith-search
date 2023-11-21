@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:The Prophet (ﷺ) would not in our quilts. Hammad said: I heard Sa'i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dari [Hisyam] dari [Ibnu Sirin] dari [Aisyah] bahwasanya Nabi shallallahu 'alaihi wasallam tidak biasa mengerjakan shalat dengan selimut kami. Hammad berkata; Saya mendengar Sa'id bin Abu Shadaqah berkata; Saya bertanya kepada Muhammad darinya, namun dia tidak menceritakannya hadits ini kepadaku. Dan dia berkata; Saya telah mendengar sejak lama, namun saya tidak tahu dari siapa saya mendengarnya, apakah dari perawi yang tsabat (adil dan memiliki hafalan sempurna) ataukah tidak. Maka dari itu, bertanyalah tentang hadits ini kepada selainku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>368</td></tr><tr><td>Arabic No</td><td>368</td></tr><tr><td>Reference</td><td>Book 1 Hadith 368</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Сирина о том, что ‘Аиша рассказывала: «Пророк ﷺ не совершал молитву в наших покрывалах».Хаммад сказал: «И я слышал, как Са‘ид ибн Садакъа сказал: “Я спросил Мухаммада (ибн Сирина) о нем, но он не рассказал мне о нем, а сказал (следующее): “Я слышал его давным-давно и не знаю от кого я его слышал, и не знаю, слышал ли я его от надежного человека или нет. Поэтому спроси о нем (у других)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>368</td></tr><tr><td>Arabic No</td><td>368</td></tr><tr><td>Reference</td><td>Book 1 Hadith 368</td></tr></tbody></table></div>
 

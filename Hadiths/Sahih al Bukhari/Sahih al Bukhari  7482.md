@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah never listens to anyth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibn Syihab] telah mengabarkan kepadaku [Abu Salamah bin Abdurrahman] dari [Abu Hurairah], bahwa ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah tidak pernah mengijinkan sesuatu sebagaimana ijin-Nya kepada Nabi shallallahu 'alaihi wasallam untuk melagukan Al Qur'an, " sedang salah seorang sahabatnya berkata 'maksud melagukan yaitu membaca dengan keras
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7482</td></tr><tr><td>Arabic No</td><td>7482</td></tr><tr><td>Reference</td><td>Book 97 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Никому не внимал Аллах так, как внимал Он Пророку ﷺ который читает Коран нараспев». И товарищ Абу Хурайры сказал ему: «Под “нараспев”» он имел в виду: читая его вслух»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7482</td></tr><tr><td>Arabic No</td><td>7482</td></tr><tr><td>Reference</td><td>Book 97 Hadith 108</td></tr></tbody></table></div>
 

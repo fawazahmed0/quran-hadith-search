@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nadr b. Anas reported, as when Anas was alive, that he said:Had Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hamid bin 'Umar] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami ['Ashim] dari [An-Nadlr Bin Anas] yang saat itu Anas masih hidup, [Anas] berkata; kalau saja Rasulullah Shallallahu'alaihi wasallam tidak bersabda: "Janganlah di antara kalian mengharapkan kematian", maka tentu saya akan mengharapkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6816</td></tr><tr><td>Arabic No</td><td>2680.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6816</td></tr><tr><td>Arabic No</td><td>2680.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 12</td></tr></tbody></table></div>
 

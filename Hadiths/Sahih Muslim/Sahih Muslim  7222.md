@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:We were along with Umar between Mecca and Medina that we 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Umar bin Salith Al Hudzali] telah menceritakan kepada kami [Sulaiman bin Al Mughirah] dari [Tsabit] berkata: [Anas] berkata: Aku bersama [Umar]. Telah menceritakan kepada kami [Syaiban bin Farrukh], teks miliknya, telah menceritakan kepada kami [Sulaiman bin Al Mughirah] dari [Tsabit] dari [Anas bin Malik] berkata: Kami bersama [Umar] diantara Makkah dan Madinah, kami melihat hilal, aku adalah orang yang berpenglihatan tajam, aku melihatnya, tapi tiadk seorang pun mengira bahwa tidak ada melihatnya selainku. Anas berkata: Aku berkata kepada Umar: Apa kau tidak melihatnya? Ia tidak melihatnya, ia berkata: Aku akan melihatnya dengan berbaring di atas hamparanku. Lalu ia menceritakan kepada kami tentang tentara-tentara Badar, ia berkata: Rasulullah Shallallahu 'alaihi wa Salam memperlihatkan tempat kematian tentara-tentara Badar kemarin, beliau bersabda: "Ini tempat kematian fulan besok, insya Allah." Anas berkata: Umar berkata: Demi Dzat yang mengutusnya dengan kebenaran, mereka tidak melenceng dari batasan yang ditentukan Rasulullah Shallallahu 'alaihi wa Salam." Ia berkata: Mereka ditempatkan dilubang tanah satu sama lain, lalu Rasulullah Shallallahu 'alaihi wa Salam bergegas hingga tiba menemui mereka, beliau memanggil: "Hai fulan bin fulan, hai fulan bin fulan, apakah kalian mendapatkan kebenaran janji Allah dan rasulNya, sesungguhnya aku telah menemukan kebenaran janji Allah yang dijanjikan padaku." Umar berkata: Wahai Rasulullah, bagaimana Tuan berbicara dengan jasad-jasad tidak bernyawa? Beliau bersabda: "Kalian tidak lebih mendengar ucapanku melebihi mereka, hanya saja mereka tidak bisa menjawabku sedikit pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7222</td></tr><tr><td>Arabic No</td><td>2873</td></tr><tr><td>Reference</td><td>Book 53 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7222</td></tr><tr><td>Arabic No</td><td>2873</td></tr><tr><td>Reference</td><td>Book 53 Hadith 91</td></tr></tbody></table></div>
 

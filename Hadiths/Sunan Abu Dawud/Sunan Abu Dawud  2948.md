@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMaryam al-Azdi: When I entered upon Mu'awiyah, he said: How good you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Abdurrahman Ad Dimasyqi], telah menceritakan kepada kami [Yahya bin Hamzah], telah menceritakan kepadaku [Ibnu Abu Maryam] bahwa [Al Qasim bin Mukhaimirah] telah mengabarkan kepadanya bahwa [Abu Maryam Al Azdi] telah mengabarkan kepadanya; ia berkata; aku menemui Mu'awiyah, kemudian ia berkata; -kenikmatan apakah yang diberikan kepada kami melaluimu wahai Abu Fulan? Hal itu merupakan perkataan yang biasa diucapkan orang-orang Arab-. Kemudian aku katakan; sebuah hadits yang aku dengar, aku akan mengabarkannya kepadamu, aku telah mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Barangsiapa yang Allah 'azza wajalla serahkan kepadanya sebagian urusan orang muslim kemudian ia menutup diri dari melayani kebutuhan mereka dan keperluan mereka, maka Allah menutup diri darinya dan tidak melayani kebutuhannya, serta keperluannya." Abu Maryam berkata; kemudian Mu'awiyah menjadikan seseorang untuk mengurusi kebutuhan-kebutuhan manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2948</td></tr><tr><td>Arabic No</td><td>2948</td></tr><tr><td>Reference</td><td>Book 20 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Марьям аль-Азди: «Я зашёл к Му‘авии, и он сказал: “Что же облагодетельствовало нас твоим приходом?” Это было выражение, которое часто использовали арабы. Я сказал: “Хадис, который я слышал от Посланника Аллаха ﷺ и теперь хочу пересказать тебе. Я слышал, как Посланник Аллаха ﷺ сказал: “Если Аллах вверил кому-нибудь что-то из дел мусульман, а он закрывал перед ними свои двери, Аллах также закроется от него и его потребностей и оставит его вместе с его нуждой””. После этого Му‘авия назначил человека, который заботился о нуждах людей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2948</td></tr><tr><td>Arabic No</td><td>2948</td></tr><tr><td>Reference</td><td>Book 20 Hadith 21</td></tr></tbody></table></div>
 

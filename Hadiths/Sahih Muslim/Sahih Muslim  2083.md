@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (b. Malik) reported:It rained upon us as we were with the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Ja'far bin Sulaiman] dari [Tsabit Al Bunani] dari [Anas] ia berkata; Kami diguyur hujan ketika bersama Rasulullah shallallahu 'alaihi wasallam, beliau membuka pakaiannya sehingga terkena hujan, lalu kami pun bertanya, "Wahai Rasulullah, kenapa Anda melakukan hal itu?" beliau menjawab: "Karena hujan ini merupakan rahmat yang diberikan oleh Allah ta'ala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>898</td></tr><tr><td>Reference</td><td>Book 9 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(Однажды), когда мы находились вместе с Посланником Аллаха ﷺ нас застиг дождь. Посланник Аллаха ﷺ (немного) распахнул (верхнюю) одежду так, что (капли) дождя стали падать на его (тело). Мы спросили: “О Посланник Аллаха, почему ты сделал это?”, и он сказал: “Потому, что он совсем недавно был у своего Господа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>898</td></tr><tr><td>Reference</td><td>Book 9 Hadith 14</td></tr></tbody></table></div>
 

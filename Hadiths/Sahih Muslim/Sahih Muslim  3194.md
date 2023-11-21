@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), "L'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata, telah mengabarkan kepada kami [Laits] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Urwah bin Az Zubair] dan [Amrah binti Abdurrahman] bahwa [Aisyah] berkata; "Rasulullah shallallahu 'alaihi wasallam menyerahkan hewan kurbannya dari Madinah, dan akulah yang mengalungkan tanda pada hewan kurbannya. Sesudah itu, beliau tidak lagi menjauhi sesuatu yang biasanya dijauhi oleh seorang yang sedang Ihram." Dan telah menceritakannya kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dengan isnad ini, semisalnya. Dan Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Zuhair bin Harb] keduanya berkata, Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Urwah] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam. -dalam riwayat lain- Dan Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Khalaf bin Hisyam] dan [Qutaibah bin Sa'id] mereka berkata, telah mengabarkan kepada kami [Hammad bin Zaid] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] ia berkata; Aku masih teringat, saat aku mengalungkan tanda hewan kurban pada hadya Rasulullah shallallahu 'alaihi wasallam. Yakni serupa dengan hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3194</td></tr><tr><td>Arabic No</td><td>1321.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 398</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3194</td></tr><tr><td>Arabic No</td><td>1321.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 398</td></tr></tbody></table></div>
 

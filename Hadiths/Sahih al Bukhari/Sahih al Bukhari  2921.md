@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) allowed 'Abdur-Rahman bin 'Auf and Az-Zubair bin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Syu'bah] telah bercerita kepadaku [Qatadah] bahwa [Anas] bercerita kepada mereka, katanya; Nabi shallallahu 'alaihi wasallam memberi keringanan kepada 'Abdur Rahman bin 'Auf dan Az Zubair bin Al 'Awwam dalam mengenakan sutera. Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] aku mendengar [Qatadah] dari [Anas]: "Beliau shallallahu 'alaihi wasallam memberi keringanan atau diberi keringanan kepada keduanya karena alasan sakit gatal yang diderita keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2921</td></tr><tr><td>Arabic No</td><td>2921</td></tr><tr><td>Reference</td><td>Book 56 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Пророк ﷺ разрешил ‘Абдуррахману ибн ‘Ауфу и аз-Зубайру ибн аль-‘Аваму носить шёлковую одежду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2921</td></tr><tr><td>Arabic No</td><td>2921</td></tr><tr><td>Reference</td><td>Book 56 Hadith 134</td></tr></tbody></table></div>
 

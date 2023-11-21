@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas reported the Prophet (ﷺ) as saying “If anyone who means to have
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Jarir], dari [Manshur], dari [Salim bin Abu Al Ja'd] dari [Kuraib] dari [Ibnu Abbas], ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang diantara kalian hendak mendatangi isterinya (mengaulinya) hendaknya mengucapkan (doa): BISMILLAAH, ALLAAHUMMA JANNIBNASY SYAITHAANA WA JANNIBISY SYAITHAANA MAA RAZAQTANAA (Dengan nama Allah, ya Allah, jauhkan kami dari syetan dan jauhkan syetan dari anak yang Engkau rizqikan kepada kami). Kemudian ditakdirkan mereka berdua memiliki anak dari hubungan tersebut, maka anak tersebut tidak akan diganggu syetan selamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5165) Sahih Muslim (1434)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2161</td></tr><tr><td>Arabic No</td><td>2161</td></tr><tr><td>Reference</td><td>Book 12 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Если кто-нибудь из них захочет совершить половое сношение с женой и скажет: “С именем Аллаха, о Аллах, удали нас от шайтана и удали шайтана от того, кем Ты наделишь нас /Бисми-Лляхи, Аллахумма, джанниб-на-ш-шайтана ва джанниби-ш-шайтана ма разакта-на/”, то если супругам будет суждено иметь ребёнка, шайтан никогда не сможет причинить ему вред»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5165) Sahih Muslim (1434)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2161</td></tr><tr><td>Arabic No</td><td>2161</td></tr><tr><td>Reference</td><td>Book 12 Hadith 116</td></tr></tbody></table></div>
 

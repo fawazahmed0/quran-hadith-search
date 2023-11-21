@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar b. al-Khattab reported:The Messenger of Allah (ﷺ) said: When the Mu'adhdh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Abu Ja'far Muhammad bin Jahdham ats-Tsaqafi] telah menceritakan kepada kami [Ismail bin Ja'far] dari [Umarah bin Ghaziyyah] dari [Khubaib bin Abdurrahman bin Isaf] dari [Hafsh bin Ashim bin Umar bin al-Khaththab] dari [bapaknya] dari [kakeknya, Umar bin al-Khaththab] dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda, "Jika seorang mu'adzin mengumandangkan adzan seraya berseru, 'Allah Mahabesar, Allah Mahabesar', lalu salah seorang di antara kalian mengucap, 'Allah Mahabesar, Allah Mahabesar', kemudian mu'adzin berseru, 'Saya bersaksi bahwa tidak ada tuhan (yang berhak disembah) selain Allah, lalu dia berucap, 'Saya bersaksi bahwa tidak ada tuhan (yang berhak disembah) selain Allah, kemudian mu'adzin melanjutkan, 'Saya bersaksi bahwa Muhammad utusan Allah', lalu dia mengucap, 'Saya bersaksi bahwa Muhammad utusan Allah', kemudian mu'adzin berseru, 'Marilah shalat', dan dia membaca, 'Tidak ada daya dan upaya kecuali dengan Allah', kemudian mu'adzin berseru, 'Marilah menuju kebahagiaan, ' lalu dia menjawab, 'Tidak ada daya dan upaya kecuali dengan Allah', kemudian mu'adzin berkata, 'Allah Mahabesar, Allah Mahabesar', lalu dia menjawab, 'Allah Mahabesar, Allah Mahabesar', kemudian (menutup adzannya) dengan lafadz, 'Tidak ada tuhan (yang berhak disembah) selian Allah', lalu dia menjawab dengan lafadz, 'Tidak ada tuhan (yang berhak disembah) selian Allah'. (Jika dia melakukan hal itu) dengan sepenuh hati, niscaya dia masuk surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>850</td></tr><tr><td>Arabic No</td><td>385</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Когда муаззин скажет: “Аллаху акбар! Аллаху акбар!”, и кто-нибудь из вас скажет: “Аллаху акбар, Аллаху акбар”. Затем, когда он скажет: “Ашхаду ан ля иляха илля-Ллах!”, (и кто-нибудь из вас) скажет: “Ашхаду ан ля иляха илля-Ллах”. Затем, когда он скажет: “Ашхаду анна Мухаммадан расулю-Ллах!”, скажет: ‘Ашхаду анна Мухаммадан расулю-Ллах”. Когда он скажет: “Хаййа ‘аля-с-салях!”, скажет: “Ля хауля ва ля куввата илля би-Ллях” /Нет силы и мощи, кроме как у Аллаха/. Когда он скажет: “Хаййа ‘аляль-фалях!”, скажет: “Ля хауля ва ля куввата илля би-Ллях”. Затем, когда он скажет: “Аллаху Акбар, Аллаху Акбар”, скажет: “Аллаху Акбар, Аллаху Акбар”. Затем, когда он скажет: “Ля иляха илля-Ллах”, скажет: “Ля иляха илля-Ллах” от чистого сердца, то он войдёт в Рай»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>850</td></tr><tr><td>Arabic No</td><td>385</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
 

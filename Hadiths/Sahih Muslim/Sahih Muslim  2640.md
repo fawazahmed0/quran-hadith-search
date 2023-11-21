@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported that the Messenger of Allah (ﷺ) ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Urwah bin Zubair] bahwa [Aisyah] radliallahu 'anha berkata; "Rasulullah shallallahu 'alaihi wasallam telah memerintahkan untuk berpuasa pada hari 'Asyura' sebelum diwajibkannya puasa Ramadlan. Tatkalah puasa Ramadlan diwajibkan, maka pada hari 'Asyura' siapa saja boleh berpuasa dan siapa juga boleh berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2640</td></tr><tr><td>Arabic No</td><td>1125.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2640</td></tr><tr><td>Arabic No</td><td>1125.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 146</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abdullah bin Barrad Al Asy'ari] dan [Abu Kuraib Muhammad bin Al Ala'] keduanya berkata, Telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sungguh akan datang suatu zaman dimana ada seorang lelaki yang berkeliling menawarkan sedekah berupa emas namun ia tidak mendapatkan seorangpun yang sudi mengambilnya, dan akan ada seorang lelaki yang diikuti oleh empat puluh wanita yang ingin merasakan kenikmatan bersamanya karena saking sedikitnya jumlah kaum lelaki saat itu dan banyaknya jumlah kaum wanita." Dalam riwayat Ibnu Barrad disebutkan: "Dan kamu akan menyaksikan seorang lelaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2338</td></tr><tr><td>Arabic No</td><td>1012</td></tr><tr><td>Reference</td><td>Book 12 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы аль-Аш’ари, что Пророк ﷺ сказал: «Обязательно настанет для людей такое время, когда человек станет повсюду ходить, (желая подать) милостыню золотом, но не найдёт таких, кто принял бы от него (подаяние), и (в это время) можно будет увидеть одного мужчину, за которым станут следовать сорок женщин, ищущих его защиты, ибо мужчин будет мало, а женщин много»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2338</td></tr><tr><td>Arabic No</td><td>1012</td></tr><tr><td>Reference</td><td>Book 12 Hadith 75</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated As-Saburah: The Prophet (ﷺ) said: Command a boy to pray when he reach
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa bin Ali bin Abi Thalib-Thabba'] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Abdul Malik bin Ar-Rabi' bin Sabrah] dari [Ayahnya] dari [Kakeknya] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Perintahkanlah anak kecil untuk melaksanakan shalat apabila sudah mencapai umur tujuh tahun, dan apabila sudah mencapai umur sepuluh tahun maka pukullah dia apabila tidak melaksanakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>494</td></tr><tr><td>Arabic No</td><td>494</td></tr><tr><td>Reference</td><td>Book 2 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуль-Малика ибн ар-Раби‘ ибн Сабра, сообщившего со слов своего отца и деда, который сказал: «Пророк ﷺ сказал: “Велите мальчику совершать молитву, когда он достигнет семилетнего возраста, а когда он достигнет десяти лет, побивайте его за нее”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>494</td></tr><tr><td>Arabic No</td><td>494</td></tr><tr><td>Reference</td><td>Book 2 Hadith 104</td></tr></tbody></table></div>
 

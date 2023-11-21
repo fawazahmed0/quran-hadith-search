@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:I gave a horse in Allah's Cause. The person to who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] telah menceritakan kepada kami [Malik] dari [Zaid bin Aslam] dari [bapaknya] aku mendengar ['Umar bin Al Khaththob radliallahu 'anhu] berkata: "Aku memberi (seseorang) kuda yang untuk tujuan digunakan berperang di jalan Allah lalu orang itu tidak memanfaatkan sebagaimana mestinya. Kemudian aku berniat membelinya kembali darinya karena aku menganggap membelinya lagi adalah suatu hal yang (diringankan) dibolehkan. Lalu aku tanyakan hal ini kepada Nabi shallallahu 'alaihi wasallam, maka Beliau bersabda: "Jangan kamu membelinya sekalipun orang itu menjualnya dengan harga satu dirham, karena orang yang mengambil kembali shadaqahnya seperti anjing yang menjilat kembali ludahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2623</td></tr><tr><td>Arabic No</td><td>2623</td></tr><tr><td>Reference</td><td>Book 51 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «(В своё время) я отдал (одному человеку, намеревавшемуся принять участие в войне) на пути Аллаха, коня, однако он не следил за ним должным образом. Тогда я захотел купить (этого коня), решив, что он (согласится) продать его недорого. Я спросил совета у Пророка ﷺ, и он сказал: “Не покупай его даже если он отдаст его тебе за один дирхам, ибо берущий назад свою милостыню (садака) подобен псу, поедающему собственную блевотину!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2623</td></tr><tr><td>Arabic No</td><td>2623</td></tr><tr><td>Reference</td><td>Book 51 Hadith 55</td></tr></tbody></table></div>
 

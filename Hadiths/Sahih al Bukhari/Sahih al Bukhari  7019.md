@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "(I saw in a dream that) while 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Katsir] telah menceritakan kepada kami [Syu'aib bin Harb] telah menceritakan kepada kami [Shakhr bin Juwairiyah] telah menceritakan kepada kami [Nafi'], bahwasanya [Ibnu Umar] radliallahu 'anhuma menceritakan kepadanya dengan mengatakan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku berada di sebuah sumur sedang menarik ember, tiba-tiba Abu bakar dan Umar datang, kemudian Abu Bakar menarik seember atau dua ember dan dalam tarikannya terlihat ada kelemahan, Allah pun mengampuninya, kemudian Umar bin Khattab mengambil ember dari tangan Abu Bakar, tiba-tiba embernya berubah menjadi besar, tidak pernah aku melihat seorang jenius yang beramal serius (gigih) seperti kegigihannya, sehingga orang banyak bisa minum dengan kenyang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7019</td></tr><tr><td>Arabic No</td><td>7019</td></tr><tr><td>Reference</td><td>Book 91 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар передаёт, что Посланник Аллаха ﷺ сказал: «(Во сне я увидел), как черпаю воду из колодца. Тут (ко мне) подошёл Абу Бакр и ‘Умар. Абу Бакр взял ведро и вытащил (из источника) одно или два ведра воды, но в некоторых его (движениях) была слабость, да простит его Аллах! Затем ‘Умар ибн аль-Хаттаб взял ведро из рук Абу Бакра, и в его руках оно превратилось в огромную кожаную бадью. И я не видел среди людей другого вождя, который делал бы своё дело так искусно и властно как он, (и это продолжалось,) пока (все) люди (не напились сами и не напоили своих верблюдов), отведя их от водопоя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7019</td></tr><tr><td>Arabic No</td><td>7019</td></tr><tr><td>Reference</td><td>Book 91 Hadith 36</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that the Messenger of Allah (ﷺ) was not accustomed to raice his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] dan [Abdul A'la] dari [Sa'id] dari [Qatadah] dari [Anas] bahwasanya; Nabi shallallahu 'alaihi wasallam tidak mengangkat kedua tangannya ketika berdo'a kecuali dalam shalat Istisqa', hingga terlihat putih ketiak beliau." Namun Abdul A'la berkata; terlihat putih ketiak beliau atau kedua ketiak beliau. Dan telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Abu Arubah] dari [Qatadah] bahwa [Anas bin Malik] telah menceritakan kepada mereka, dari Nabi shallallahu 'alaihi wasallam semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2076</td></tr><tr><td>Arabic No</td><td>895.03</td></tr><tr><td>Reference</td><td>Book 9 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас сказал: «Обращаясь к Аллаху с мольбами, Пророк Аллаха ﷺ не поднимал рук кверху, если не считать молений о ниспослании дождя, (в подобных же случаях он поднимал руки так высоко,) что становилась видна белизна его подмышек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2076</td></tr><tr><td>Arabic No</td><td>895.03</td></tr><tr><td>Reference</td><td>Book 9 Hadith 7</td></tr></tbody></table></div>
 

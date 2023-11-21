@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah bin al-Zubair said on the authority of the father :I asked al-Zubair :
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Aun] telah mengabarkan kepada kami [Khalid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid] secara makna, dari [Bayan bin Bisyr], [Musaddad Abu Bisyr] berkata dari [Wabarah bin Abdurrahman] dari [Amir bin Abdullah bin Az Zubair] dari [Ayahnya] ia berkata, "Aku tanyakan kepada [Az Zubair], "Apa yang menghalangimu untuk menceritakan dari Rasulullah shallallahu 'alaihi wasallam sebagaimana yang diceritakan para sahabatnya?" kemudian ia menjawab, "Sungguh aku memiliki posisi dan kedudukan di sisi Rasulullah shallallahu 'alaihi wasallam, akan tetapi aku mendengar beliau mengatakan: "Barangsiapa berdusta kepadaku dengan sengaja maka hendaknya ia mempersiapkan tempatnya di Neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (107)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3651</td></tr><tr><td>Arabic No</td><td>3651</td></tr><tr><td>Reference</td><td>Book 26 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн аз-Зубайра, да будет доволен Аллах им и его отцом: «Я спросил аз-Зубайра: “Что мешает тебе передавать хадисы Посланника Аллаха ﷺ подобно остальным его сподвижникам?” Он ответил: “Клянусь Аллахом, я занимал достойное место при нём, однако я слышал, как он сказал: “Кто возвёл на меня ложь, пусть приготовится занять своё место в Огне!””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (107)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3651</td></tr><tr><td>Arabic No</td><td>3651</td></tr><tr><td>Reference</td><td>Book 26 Hadith 11</td></tr></tbody></table></div>
 

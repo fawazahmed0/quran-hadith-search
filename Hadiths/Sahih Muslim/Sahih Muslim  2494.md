@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jarir b. 'Abdullah said:'When the collector of sadaqat (Zakat) comes to you, (yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] Dan Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dan [Abu Khalid Al Ahmar] -dalam jalur lain- Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] dan [Ibnu Abu Adi] dan [Abdul A'la] semuanya dari [Dawud] -dalam jalur lain- Dan telah menceritakan kepadaku [Zuhair bin Harb] -lafazh juga miliknya- ia berkata, Telah menceritakan kepada kami [Isma'il bin Ibrahim] telah mengabarkan kepada kami [Dawud] dari [Asy Sya'bi] dari [Jarir bin Abdullah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seorang amil zakat mendatangi kalian, maka hendaklah ia kembali dalam keadaan ridla atas kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2494</td></tr><tr><td>Arabic No</td><td>989.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джарира ибн ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Когда к вам приходят сборщики закята, то делайте так, чтобы они уходили от вас не иначе как довольными»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2494</td></tr><tr><td>Arabic No</td><td>989.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 231</td></tr></tbody></table></div>
 

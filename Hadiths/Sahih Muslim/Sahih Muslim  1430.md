@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir Ibn 'Abdillâh (رضي الله عنهما), Au jour de la batai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ghassan Al Misma'i] dan [Muhammad bin Al Mutsanna] dari [Mu'adz bin Hisyam]. [Abu Ghassan] mengatakan; telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [Ayahku] dari [Yahya bin Abu Katsir], katanya; telah menceritakan kepada kami [Abu Salamah bin Abdurrahman] dari [Jabir bin Abdullah], bahwa pada perang Khandaq, Umar bin Khattab mencela habis-habisan terhadap orang kafir Quraisy dan berujar; "Wahai Rasulullah, demi Allah, hamir saja aku tidak shalat Ashar hingga matahari nyaris tenggelam." Maka Rasulullah shallallahu 'alaihi wasallam bersabda; "Demi Allah, jika aku mendirikan sekarang, " Ketika kita singgah di Bathan (baca, Bat-haan), Rasulullah shallallahu 'alaihi wasallam mengambil air wudlu' dan kami pun berwudlu', lalu Rasulullah shallallahu 'alaihi wasallam shalat ashar setelah matahari terbenam, kemudian beliau shalat maghrib sesudahnya. Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ishaq bin Ibrahim]. Abu Bakr mengatakan; telah menceritakan kepada kami, sedangkan Ishaq mengatakan; telah mengabarkan kepada kami [Waki'] dari [Ali bin Mubarak] dari [Yahya bin Abu Katsir] seperti sanad hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1430</td></tr><tr><td>Arabic No</td><td>631.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 263</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «В (один из) дней Битвы у рва ‘Умар ибн аль-Хаттаб принялся ругать неверных курайшитов, (а потом) сказал: “О Посланник Аллаха, клянусь Аллахом, едва я успел закончить послеполуденную молитву, как солнце начало уходить за горизонт!” Что же касается Посланника Аллаха ﷺ, то он воскликнул: “А я, клянусь Аллахом, (вообще) не совершил её!” Затем мы направились в сторону Бутхана и Посланник Аллаха ﷺ, (как и все) мы, совершил омовение, а когда солнце зашло, Посланник Аллаха ﷺ (сначала) совершил послеполуденную молитву, а после этого закатную»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1430</td></tr><tr><td>Arabic No</td><td>631.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 263</td></tr></tbody></table></div>
 

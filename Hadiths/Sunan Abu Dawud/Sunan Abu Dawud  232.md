@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) came and saw that t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] telah menceritakan kepada kami [Al-Aflat bin Khalifah] dia berkata; Telah menceritakan kepada saya [Jasrah binti Dajajah] dia berkata; Saya mendengar [Aisyah] radliallahu 'anha berkata; Rasulullah Shallallahu alaihi wasallam datang, sementara pintu-pintu rumah sahabat beliau terbuka dan berhubungan dengan masjid. Maka beliau bersabda: "Pindahkanlah pintu-pintu rumah kalian untuk tidak menghadap ke masjid!" Lalu Nabi Shallallahu alaihi wasallam masuk ke masjid, dan para sahabat belum melakukan apa-apa dengan harapan ada wahyu turun yang memberi keringanan kepada mereka. Maka beliau keluar menemui mereka seraya bersabda: Pindahkanlah pintu-pintu rumah kalian untuk tidak menghadap dan berhubungan dengan masjid, karena saya tidak menghalalkan masuk Masjid untuk orang yang sedang haidh dan juga orang yang sedang junub. Abu Dawud berkata; Dia adalah Fulait Al-'Amiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>232</td></tr><tr><td>Arabic No</td><td>232</td></tr><tr><td>Reference</td><td>Book 1 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джасра бинт Диджаджа сказала: «Я слышала, как ‘Аиша, да будет доволен ею Аллах, говорила: “Однажды, когда Посланник Аллаха ﷺ пришел и увидел, что двери домов своих сподвижников направлены (в сторону) мечети, он сказал: “Отверните (двери) этих домов от мечети”. Затем Пророк ﷺ зашел, но они не сделали ничего, в надежде на то, что Аллах ниспошлет откровение разрещающее это. После этого он вышел к ним и сказал: “Отверните (двери) этих домов от мечети, поистине, я не разрешаю находиться в мечети женщинам с менструациями и людям в состоянии большого осквернения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>232</td></tr><tr><td>Arabic No</td><td>232</td></tr><tr><td>Reference</td><td>Book 1 Hadith 232</td></tr></tbody></table></div>
 

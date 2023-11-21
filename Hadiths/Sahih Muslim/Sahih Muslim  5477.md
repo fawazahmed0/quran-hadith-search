@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that Allah's Apostle (ﷺ) had made for himself a gold ring; t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], ['Amru bin An Naqid], [Muhammad bin 'Abbad] dan [Ibnu Abu 'Umar]; lafazh ini milik Abu Bakr ia berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ayyub bin Musa] dari [Nafi'] dari [Ibnu 'Umar] ia berkata; Nabi shallallahu 'alaihi wasallam pernah membuat cincin dari emas, lalu membuangnya. Kemudian beliau membuat cincin dari perak yang terpahat di atasnya tulisan; 'Muhammad Rasulullah.' Beliau bersabda: "Seorangpun tidak boleh memahat tulisan pada cincin seperti yang ada pada cincinku ini. Dan beliau apabila memakainya beliau meletakan mata cincin tersebut di bawah telapak tangannya. Cincin itulah yang akhirnya jatuh ke dalam sumur Aris
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5477</td></tr><tr><td>Arabic No</td><td>2091.05</td></tr><tr><td>Reference</td><td>Book 37 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5477</td></tr><tr><td>Arabic No</td><td>2091.05</td></tr><tr><td>Reference</td><td>Book 37 Hadith 92</td></tr></tbody></table></div>
 

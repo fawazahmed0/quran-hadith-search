@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The poor person is not the one who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepada saya [Muhammad bin Ziad] berkata; Aku mendengar [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam: "Bukanlah disebut miskin orang yang bisa diatasi dengan satu atau dua suap makanan. Akan tetapi yang disebut miskin adalah orang yang tidak memiliki kecukupan namun dia menahan diri (malu) atau orang yang tidak meminta-minta secara mendesak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1476</td></tr><tr><td>Arabic No</td><td>1476</td></tr><tr><td>Reference</td><td>Book 24 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не тот беден, кто обходит людей и кому довольно куска-другого (пищи) или одного-двух фиников, нет, беден тот, кто не имеет достаточно средств, которых бы ему хватило, о чём никто не догадывается (и поэтому не) подаёт ему, сам же он не обращается с просьбами к людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1476</td></tr><tr><td>Arabic No</td><td>1476</td></tr><tr><td>Reference</td><td>Book 24 Hadith 77</td></tr></tbody></table></div>
 

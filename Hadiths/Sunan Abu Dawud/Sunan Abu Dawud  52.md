@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah narrated:"The Prophet of Allah (ﷺ) would clean his teeth with the Siwak
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhamamd bin Basysyar] telah menceritakan kepada kami [Muhammad bin Abdullah Al Anshari] telah menceritakan kepada kami ['Anbasah bin Sa'id Al Kufi Al Hasib] telah menceritakan kepada saya [Katsir], dari [Aisyah], dia berkata; "Nabiyullah shallallahu 'alaihi wasallam bersiwak, lalu beliau memberikannya kepadaku untuk aku cuci, maka aku pergunakan dahulu untuk bersiwak, kemudian aku cuci dan aku kembalikan lagi kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Arabic No</td><td>52</td></tr><tr><td>Reference</td><td>Book 1 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ сказал: “Десять вещей относятся к фитре: подстригание усов, отращивание бороды, (использование) зубочистки, промывание носа водой, подстригание ногтей, промывание меж пальцев, выщипывание волос из подмышек, сбривание волос с лобка, и подмывание водой”».Закариййа сказал: «Мус‘аб сказал: “И я забыл десятое, но возможно, что это прополаскивание рта”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Arabic No</td><td>52</td></tr><tr><td>Reference</td><td>Book 1 Hadith 52</td></tr></tbody></table></div>
 

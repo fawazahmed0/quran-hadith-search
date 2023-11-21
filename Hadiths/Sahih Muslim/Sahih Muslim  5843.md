@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Sharik reported that she consulted Allah's Apostle (ﷺ) in regard to killin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Ibnu Juraij]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Muhammad bin Ahmad bin Abu Khalaf]; Telah menceritakan kepada kami [Rouh] Telah menceritakan kepada kami [Ibnu Juraij]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Abdu bin Humaid]; Telah mengabarkan kepada kami [Muhammad bin Bakr]; Telah mengabarkan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku ['Abdul Humaid bin Jubair bin Syaibah] bahwa [Sa'id bin Al Musayyab] Telah mengabarkan kepadanya, [Ummu Syarik] Telah mengabarkan kepadanya, bahwa dia bertanya kepada Nabi shallallahu 'alaihi wasallam tentang membunuh cecak. Lalu Nabi shallallahu 'alaihi wasallam menyuruhnya agar dibunuh saja. Ummu Syarik adalah salah seorang wanita dari Bani Amir bin Luay. Lafazh Hadits Ibnu Abu Khalaf sama dengan lafazh Hadits Abad bin Humaid demikian juga Hadits Ibnu Wahab mirip dengan Hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5843</td></tr><tr><td>Arabic No</td><td>2237.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умм Шарик, да будет доволен ею Аллах, о том, что (однажды) она посоветовалась с Пророком ﷺ относительно убийства ящериц и он велел ей убивать их.Умм Шарийк одна из числа женщин племени бану ‘амир ибн луай
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5843</td></tr><tr><td>Arabic No</td><td>2237.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 194</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aiyub:Abu Qilaba said, "Malik bin Huwairith used to demonstrate to us t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Qilabah] berkata, " [Malik bin Al Huwirits] pernah memperlihatkan kepada kami tata cara shalat Rasulullah shallallahu 'alaihi wasallam. Ia lakukan itu bukan pas waktu shalat. Dia lalu berdiri hingga dengan thuma'ninah, lalu rukuk dengan thuma'ninah, lalu mengangkat kepalanya dan berdiam diri sejenak, kemudian dia berkata, "Guru (syaikh) kami ini Abu Buraid pernah shalat memimpin kami." Jika Abu Buraid mengangkat kepalanya dari sujud yang akhir, maka dia duduk dengan lurus sejenak lalu bangkit berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>802</td></tr><tr><td>Arabic No</td><td>802</td></tr><tr><td>Reference</td><td>Book 10 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Аюба, что Абу Кыляба сказал: «Малик ибн Хууэйрис показывал нам, какой была молитва Пророка ﷺ и это было не во время молитвы. Так (однажды) он встал, выпрямившись, затем сделал поясной поклон полноценным образом, затем поднял голову (с поклона) и немного постоял, выпрямившись. Так он совершил с нами молитву подобную молитве нашего шейха Абу Бурайды. И когда Абу Бурайда поднимал голову после второго земного поклона, он сидел прямо (какое-то время), затем вставал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>802</td></tr><tr><td>Arabic No</td><td>802</td></tr><tr><td>Reference</td><td>Book 10 Hadith 197</td></tr></tbody></table></div>
 

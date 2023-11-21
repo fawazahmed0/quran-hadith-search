@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: The purification of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ismail bin Ibrahim] dari [Hisyam bin Hassan] dari [Muhammad bin Sirin] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sucinya bejana kalian apabila ia dijilat oleh anjing adalah dengan mencucinya tujuh kali, yang pertama dengan tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>651</td></tr><tr><td>Arabic No</td><td>279.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Очищение вашего сосуда, облизанного собакой, осуществляется путем семикратного промывания, при этом первый раз его (следует) протереть землей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>651</td></tr><tr><td>Arabic No</td><td>279.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 117</td></tr></tbody></table></div>
 

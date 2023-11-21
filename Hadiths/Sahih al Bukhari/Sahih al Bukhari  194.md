@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Allah's Messenger (ﷺ) came to visit me while I was sick and unc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Al Munkadir] berkata, "Aku mendengar [Jabir] berkata, "Rasulullah shallallahu 'alaihi wasallam datang menjenguk saat aku sedang sakit yang mengakibatkan aku tidak sadar. Nabi shallallahu 'alaihi wasallam lalu berwudlu dan menyiramkan sisa air wudlunya hingga aku pun sadar. Aku lalu bertanya, 'Wahai Rasulullah, untuk siapakah warisan itu? Sebab aku tidak mewariskan kalalah (tidak punya anak)? ' maka turunlah ayat tentang waris
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>194</td></tr><tr><td>Arabic No</td><td>194</td></tr><tr><td>Reference</td><td>Book 4 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ пришёл навестить меня, когда я был болен и лежал в беспамятстве. Он совершил (в моём доме) омовение, а потом вылил на меня (немного) той воды, которой он пользовался. Очнувшись, я спросил: “О Посланник Аллаха, кто унаследует моё имущество? Поистине, оно достанется только дальним родственникам”, после чего был ниспослан аят о наследовании»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>194</td></tr><tr><td>Arabic No</td><td>194</td></tr><tr><td>Reference</td><td>Book 4 Hadith 60</td></tr></tbody></table></div>
 

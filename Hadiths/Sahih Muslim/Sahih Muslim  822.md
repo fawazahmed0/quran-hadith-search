@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Al-Juhaym Ibn Al-Hârith Ibn As-Samma Al-Ansâri (que Dieu l'agrée) a dit 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muslim berkata, dan [al-Laits bin Sa'd] meriwayatkan dari [Ja'far bin Rabi'ah] dari [Abdurrahman bin Hurmuz] dari [Umair maula Ibnu Abbas] bahwasanya dia mendengarnya berkata, aku dan Abdurrahman bin Yasar, maula Maimunah, istri Nabi shallallahu 'alaihi wasallam menghadap Rasulullah, hingga kami mampir pada [Abu al-Jahm bin al-Harits bin ash-Shammah al-Anshari]. Maka Abu al-Jahm berkata, "Rasulullah Shallallahu'alaihiwasallam datang dari arah sumur Jamal, lalu seorang laki-laki bertemu dengannya, dan ia ucapkan salam kepada beliau, tetapi Rasulullah Shallallahu'alaihiwasallam tidak menjawabnya hingga beliau sampai di dinding, lalu beliau usap wajahnya dan kedua tangannya, barulah beliau menjawab salam tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>822</td></tr><tr><td>Arabic No</td><td>369</td></tr><tr><td>Reference</td><td>Book 3 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что вольноотпущенник Ибн ‘Аббаса ‘Умайр передал, что он слышал, как (Ибн ‘Аббас) сказал: «(Однажды) мы вместе с ‘Абдуррахманом ибн Ясаром, вольноотпущенником Маймуны, жены Пророка ﷺ, пришли к Абу аль-Джахму ибн аль-Харису ибн ас-Симма аль-Ансари, и Абу аль-Джахм сказал: “Однажды Посланника Аллаха ﷺ, шедшего со стороны (колодца) Бир-Джамаль, встретил какой-то человек и поприветствовал его, однако Посланник Аллаха ﷺ не ответил ему. (Сначала) он подошёл к (покрытой пылью) стене, протёр (пылью) лицо и руки и только потом ответил на его приветствие”». Глава: Оставление ответа на приветствие во время справления нужды
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>822</td></tr><tr><td>Arabic No</td><td>369</td></tr><tr><td>Reference</td><td>Book 3 Hadith 143</td></tr></tbody></table></div>
 

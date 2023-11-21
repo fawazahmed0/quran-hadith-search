@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubai bin Ka'b:That he heard Allah's Messenger (ﷺ) saying, "(The proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami ['Amru] berkata telah mengabarkan kepadaku [Sa'id bin Jubair] berkata; Aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhuma], lalu dia menjawab, telah bercerita kepada kami [Ubay bin Ka'ab] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: " Musa Alaihissalam berkata kepada muridnya; "Hidangkanlah makanan siang kita". Muridnya berkata; ("Tahukah kamu tatkala kita mecari tempat berlindung di batu tadi?. Sesungguhnya aku lupa (menceritakan tentang) ikan itu dan tidak ada yang melupakan aku untuk menceritakannya kecuali setan"). Maka Musa Alaihissalam tidak mendapatkan jatah makan hingga mereka menemukan tempat yang diperintahkan Allah Ta'ala". (Kisah dalam QS al-Kahfi ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 59 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Убайя ибн Ка‘ба, что Посланник Аллаха ﷺ сказал: «Муса велел своему слуге: “Принеси нам наш обед”. Он сказал: “Помнишь, как мы укрылись под скалой? Я забыл о рыбе, и только шайтан заставил меня не вспомнить о ней”, а до того, как он миновал то место, куда Аллах ему велел (идти), Муса не испытывал усталости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 59 Hadith 87</td></tr></tbody></table></div>
 

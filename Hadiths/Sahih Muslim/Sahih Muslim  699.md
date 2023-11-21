@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (raa), quand le Prophète (paix et bénédiction de Dieu sur lu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi] dan [Muhammad bin Rumh] keduanya berkata, telah mengabarkan kepada kami [al-Laits] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam berkata, "Apabila Rasulullah Shallallahu'alaihiwasallam ingin tidur, sedangkan beliau masih dalam keadaan berjunub, maka beliau berwudhu dengan wudhu untuk mengerjakan shalat sebelum tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>699</td></tr><tr><td>Arabic No</td><td>305.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что когда Посланник Аллаха ﷺ хотел спать, находясь в состоянии большого осквернения /джунуб/, то прежде чем заснуть он совершал такое же омовение /вудуъ/, какое обычно совершал перед молитвой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>699</td></tr><tr><td>Arabic No</td><td>305.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 21</td></tr></tbody></table></div>
 

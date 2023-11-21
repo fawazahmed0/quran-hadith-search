@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: The Messenger of Allah (ﷺ) would accept a present, but 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahab bin Baqiyyah] dari [Khalid] dari [Muhammad bin Amru] dari [Abu Salamah] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam menerima hadiah namun tidak makan zakat." Telah menceritakan kepada kami [Wahb bin Baqiyyah] -dalam riwayat lain- dari [Khalid] dari [Muhammad bin Amru] dari [Abu Salamah] -namun ia tidak menyebutkan Abu Hurairah, ia berkata, "Rasulullah shallallahu 'alaihi wasallam menerima hadiah namun tidak makan zakat." Ia menambahkan, "Maka ada seorang wanita Yahudi Khaibar yang memberi hadiah daging guling yang telah dilumuri racun kepada beliau. Rasulullah shallallahu 'alaihi wasallam dan para sahabatnya lalu makan daging kambing tersebut. Namun kemudian, beliau bersabda: "Angkatlah tangan kalian (berhenti makan), karena sesungguhnya daging kambing ini telah memberiku kabar bahwa ia telah dibubuhi racun." Bisyr Ibnul Al Bara bin Ma'rur Al Anshari akhirnya meninggal dunia. Rasulullah kemudian mengutus utusan kepada wanita Yahudi tersebut. Beliau bertanya: "Apa yang mendorongmu untuk melakukan hal itu?" Wanita itu menjawab, "Jika engkau seorang Nabi, maka apa yang aku lakukan tidak akan membahayakanmu. Namun jika engkau hanya seorang raja, maka dengan begitu aku telah mengistirahatkan manusia darimu." Rasulullah shallallahu 'alaihi wasallam lantas memerintahkan agar wanita itu dibunuh, maka ia pun dibunuh. Kemudian beliau berkata pada saat sakit yang membawanya kepada kematian: "Aku masih merasakan apa yang pernah aku makan di Khaibar, dan sekarang adalah waktu terputusnya punggungku (kematianku)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4512</td></tr><tr><td>Arabic No</td><td>4512</td></tr><tr><td>Reference</td><td>Book 41 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах: «Посланник Аллаха ﷺ принимал подарки, но не ел ничего из милостыни /садака/. А Мухаммад ибн ‘Амр передаёт от Абу Салямы без упоминания Абу Хурайры: «Посланник Аллаха ﷺ принимал подарки, но не ел ничего из милостыни» /садака/. В этой версии имеется добавление: «И вот однажды какая-то иудейка в Хайбаре подарила ему зажаренную овцу, в которую она положила яд. Посланник Аллаха ﷺ поел, и вместе с ним поели ещё несколько человек, и вдруг он сказал: “Уберите от неё руки, ибо она отравлена!” (Вскоре после этого) Бишр ибн аль-Бара ибн Ма‘рур аль-Ансари умер, и (Пророк ﷺ) послал за иудейкой и спросил: “Что побудило тебя к тому, что ты сделала?” Она ответила: “Если ты пророк, то яд не должен причинить тебе вреда, а если ты просто правитель, я бы избавила людей от тебя”. И по велению Посланника Аллаха ﷺ её казнили, а заболев своей предсмертной болезнью, он сказал: “Я до сих пор страдаю от той еды, которую поел в Хайбаре, и сейчас она порвала мне (жизненно важный) сосуд”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4512</td></tr><tr><td>Arabic No</td><td>4512</td></tr><tr><td>Reference</td><td>Book 41 Hadith 19</td></tr></tbody></table></div>
 

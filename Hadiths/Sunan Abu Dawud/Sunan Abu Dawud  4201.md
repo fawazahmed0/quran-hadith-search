@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir: We used to grow beard long except during the Hajj or 'Umrah. Abu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Nufail] berkata, telah menceritakan kepada kami [Zuhair] aku membaca di hadapan [Abdul Malik bin Abu Sualiman] dan Abdul Malik membacanya di hadapan [Abu Az Zubair] dan Abu Az Zubair meriwayatkannya dari [Jabir] ia berkata, "Kami membiarkan Sibal (bulu janggut yang panjang hingga dada) kecuali pada saat haji dan umrah." Abu Dawud berkata, "Al Istihdad artinya adalah mencukur bulu kemaluan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4201</td></tr><tr><td>Arabic No</td><td>4201</td></tr><tr><td>Reference</td><td>Book 35 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир (ибн ‘Абдуллах), да будет доволен Аллах им и его отцом, передаёт: «Мы оставляли бороду длинной всегда, кроме времени хаджа или ‘умры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4201</td></tr><tr><td>Arabic No</td><td>4201</td></tr><tr><td>Reference</td><td>Book 35 Hadith 43</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported that Allah's Messenger (ﷺ) said:Amongst the inmates o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Abu At Tayyah] dia berkata; [Muthatrrif bin 'Abdullah] memiliki dua orang istri, suatu ketika dia pulang dari salah satu istrinya, lalu salah satu istrinya lagi bertanya kepadanya; Apakah kamu baru pulang dari fulanah? Dia menjawab: Aku baru dari ['Imran bin Hushain], dia telah menceritakan kepada kami bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Bahwa kaum wanita adalah penghuni surga yang paling sedikit." Dan telah menceritakan kepada kami [Muhammad bin Al Walid bin 'Abdul Hamid] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu At Tayyah] dia berkata; aku mendengar [Mutharrif] bercerita bahwasanya ia memiliki dua orang istri, -yang semakna dengan hadits Mu'adz
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6942</td></tr><tr><td>Arabic No</td><td>2738.01</td></tr><tr><td>Reference</td><td>Book 49 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6942</td></tr><tr><td>Arabic No</td><td>2738.01</td></tr><tr><td>Reference</td><td>Book 49 Hadith 6</td></tr></tbody></table></div>
 

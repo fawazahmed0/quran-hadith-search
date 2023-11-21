@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Fasting is a shield (or a sc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu]; Bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shaum itu benteng, maka (orang yang melaksanakannya) janganlah berbuat kotor (rafats) dan jangan pula berbuat bodoh. Apabila ada orang yang mengajaknya berkelahi atau menghinanya maka katakanlah aku sedang shaum (ia mengulang ucapannya dua kali). Dan demi Dzat yang jiwaku berada di tanganNya, sungguh bau mulut orang yang sedang shaum lebih harum di sisi Allah Ta'ala dari pada harumnya minyak misik, karena dia meninggalkan makanannya, minuman dan nafsu syahwatnya karena Aku. Shaum itu untuk Aku dan Aku sendiri yang akan membalasnya dan setiap satu kebaikan dibalas dengan sepuiluh kebaikan yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1894</td></tr><tr><td>Arabic No</td><td>1894</td></tr><tr><td>Reference</td><td>Book 30 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Пост является щитом, и пусть (постящийся) избегает всего непристойного и не ведёт себя подобно невеждам, если же кто-нибудь (попытается) завязать с ним ссору или станет бранить его, пусть дважды скажет (такому): “Поистине, я пощусь!” Клянусь Тем, в Чьей длани душа моя, запах изо рта постящегося приятнее для Аллаха Всевышнего, чем благоухание мускуса, (и Аллах говорит): “Он отказывается от своей еды, питья и своих желаний ради Меня. Этот пост (он соблюдает) для Меня, и Я воздам за него, а за доброе дело (воздаяние будет) десятикратным!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1894</td></tr><tr><td>Arabic No</td><td>1894</td></tr><tr><td>Reference</td><td>Book 30 Hadith 4</td></tr></tbody></table></div>
 

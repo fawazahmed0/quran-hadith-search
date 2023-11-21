@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Bara (b. Azib)said; They (the Companions) used to pray along with the Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar-Rabi' bin Nafi'] telah menceritakan kepada kami [Abu Ishaq Al-Fazari] dari [Abu Ishaq] dari [Muharib bin Ditsar] dia berkata; Saya pernah mendengar [Abdullah bin Yazid] berkhubtah di atas mimbar, dia berkata; Telah menceritakan kepadaku [Al-Bara']; bahwasanya mereka (para sahabat) shalat bersama Rasulullah shallallahu 'alaihi wasallam, apabila beliau ruku', mereka pun ruku', dan apabila beliau mengucapkan: Sami'allau liman hamidah (tatkala I'tidal), mereka pun berdiri dan tetap demikian hingga mereka melihat beliau meletakkan keningnya di tanah (sujud) kemudian mereka pun mengikuti beliau shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (474)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>622</td></tr><tr><td>Arabic No</td><td>622</td></tr><tr><td>Reference</td><td>Book 2 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухариб ибн Дисар сказал: «Я слышал как (однажды) стоя на минбаре, ‘Абдуллах ибн Язид сказал: “Мне сообщил аль-Бараъ (ибн ‘Азиб) о том, что они молились вместе с посланником Аллаха ﷺ и обычно, когда он совершал поясной поклон, они тоже совершали его, а когда он говорил: “Да услышит Аллах того, кто воздал Ему хвалу ("Сами‘а-Ллаху ли-ман хамидах")”, то они продолжали стоять до тех пор, пока не видели, что он уже упёрся лбом о землю, после чего они следовали за ним ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (474)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>622</td></tr><tr><td>Arabic No</td><td>622</td></tr><tr><td>Reference</td><td>Book 2 Hadith 232</td></tr></tbody></table></div>
 

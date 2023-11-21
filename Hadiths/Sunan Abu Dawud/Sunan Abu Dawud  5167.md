@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'awiyah ibn Suwayd ibn Muqarrin: I slapped a freed slave of ours. My 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sufyan] ia berkata; telah menceritakan kepadaku [Salamah bin Kuhail] ia berkata; telah menceritakan kepadaku [Mu'awiyah bin Suwaid bin Muqarrin] ia berkata, "Aku pernah memukul mantan budak yang kami merdekakan, lalu [ayahku] memanggilnya dan juga memanggilku. Bapakku berkata kepada budak itu, "Balaslah ia! Pada masa Nabi shallallahu 'alaihi wasallam kami adalah tujuh bersaudara, tetapi kami tidak mempunyai pelayan kecuali hanya seorang saja. Lalu ada salah seorang dari kami memukul budak itu, maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Merdekakanlah budak (wanita) itu." Mereka lantas menjawab, "Kami tidak memiliki budak kecuali hanya dia." Beliau bersabda: "Hendaklah budak itu membantu mereka hingga mereka tidak memerlukannya lagi (sudah dapat pengganti), jika sudah tidak membutuhkannya hendaklah mereka membebaskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1658)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5167</td></tr><tr><td>Arabic No</td><td>5167</td></tr><tr><td>Reference</td><td>Book 43 Hadith 395</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1658)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5167</td></tr><tr><td>Arabic No</td><td>5167</td></tr><tr><td>Reference</td><td>Book 43 Hadith 395</td></tr></tbody></table></div>
 

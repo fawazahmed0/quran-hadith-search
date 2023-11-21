@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: When al-Hajjaj killed Ibn Zubayr, he sent a message 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Waki'], telah menceritakan kepada Kami [Nafi' bin Umar], dari [Sa'id bin Hassan] dari [Ibnu Umar], ia berkata; ketika Al Hajjaj membunuh Ibnu Az Zubair, ia mengutus seseorang kepada Ibnu Umar untuk bertanya tentang kapankah Rasulullah shallallahu 'alaihi wasallam pergi pada hari seperti ini? Dia berkata: jika telah saatnya Kami akan bepergian. Ketika Ibnu Umar hendak pergi, mereka berkata; matahari belum tergelincir! Ibnu Umar berkata; apakah sudah tergelincir? Mereka menjawab: belum! Ketika mereka mengatakan bahwa matahari telah tergelincir dia berangkat pergi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1914</td></tr><tr><td>Arabic No</td><td>1914</td></tr><tr><td>Reference</td><td>Book 11 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘ид ибн Хассан передаёт, что когда аль-Хаджжадж казнил Ибн аз-Зубайра, он послал к Ибн ‘Умару спросить: «В какой час отправлялся Посланник Аллаха ﷺ в этот день?» Тот ответил: «Мы сейчас отправимся в то же время». И Ибн ‘Умар собрался в путь. Ему сказали: «Солнце ещё не отошло от точки зенита». Через некоторое время он спросил: «Отошло?» Ему ответили: «Нет». Наконец они сказали: «Отошло». Тогда он отправился в путь
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1914</td></tr><tr><td>Arabic No</td><td>1914</td></tr><tr><td>Reference</td><td>Book 11 Hadith 194</td></tr></tbody></table></div>
 

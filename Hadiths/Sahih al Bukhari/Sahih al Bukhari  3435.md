@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada:The Prophet (ﷺ) said, "If anyone testifies that None has the r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Shadaqah bin Al Fadlal] telah bercerita kepada kami [Al Walid] dari [Al Awza'iy] berkata telah bercerita kepadaku ['Umair bin Hani'] berkata telah bercerita kepadaku [Junadah bin Abu Umayyah] dari ['Ubadah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Barang siapa yang bersaksi bahwa tidak ada sesembahan yang berhak kecuali Allah satu-satunya dengan tidak menyekutukan-Nya dan bahwa Muhammad adalah hamba-Nya dan utusan-Nya dan (bersaksi) bahwa 'Isa adalah hamba Allah, utusan-Nya dan firman-Nya yang Allah berikan kepada Maryam dan ruh dari-Nya, dan surga adalah haq (benar adanya), dan neraka adalah haq, maka Allah akan memasukkan orang itu ke dalam surga betapapun keadaan amalnya". [Al Walid] berkata, telah bercerita kapadaku [Ibnu Jabir] dari ['Umair] dari [Junadah] dengan menambahkan: "..maka akan dimasukkan ke dalam surga lewat salah satu dari ke delapan pintu surga yang mana saja yang dia mau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3435</td></tr><tr><td>Arabic No</td><td>3435</td></tr><tr><td>Reference</td><td>Book 60 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Убады (ибн ас-Самита), да будет доволен им Аллах, что Пророк ﷺ сказал: «Того, кто засвидетельствует, что нет бога, достойного поклонения, кроме одного лишь Аллаха, у Которого нет сотоварища, что Мухаммад — Его раб и Его посланник, что ‘Иса — раб Аллаха, и Его посланник, и Его слово, с которым Он обратился к Марйам, и дух от Него, что рай — истина и ад — истина, Аллах введёт в рай независимо от того, какими были его дела»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3435</td></tr><tr><td>Arabic No</td><td>3435</td></tr><tr><td>Reference</td><td>Book 60 Hadith 106</td></tr></tbody></table></div>
 

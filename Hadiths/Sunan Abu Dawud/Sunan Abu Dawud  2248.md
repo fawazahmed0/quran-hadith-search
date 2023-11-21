@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sahl bin Sa’ad reported the Apostle of Allaah(ﷺ) as saying - in the traditio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ja'far Al Waraki], telah mengabarkan kepada kami [Ibrahim bin Sa'd], dari [Az Zuhri] dari [Sahl bin Sa'd] mengenai hadits dua orang yang saling melaknat, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Lihatlah dia, apabila ia melahirkan anak yang bermata hitam, berpantat besar, maka aku tidak melihat selain ia (suaminya) telah jujur, dan apabila ia melahirkan anak yang berwarna kemerahan seperti wabarah (hewan sejenis tokek) maka aku tidak melihat selain ia telah berdusta." Sahl bin Sa'd berkata; kemudian wanita tersebut melahirkan dengan cirri yang tidak disenangi. Telah menceritakan kepada kami [Mahmud bin Khalid Ad Dimasyqi], telah menceritakan kepada kami [Al Firyabi] dari [Al Auza'i] dari [Az Zuhri] dari [Sahl bin Sa'd As Sa'idi] dengan hadits ini. Ia berkata; maka anak tersebut dipanggil anak ibunya. Telah menceritakan kepada kami [Ahmad bin 'Amr bin As Sarh], telah menceritakan kepada kami [Ibnu Wahb] dari ['Iyadh bin Abdullah Al Fihri] dan yang lainnya, dari [Ibnu Syihab] dari [Sahl bin Sa'd] dalam hadits ini. Ia berkata; kemudian ia mencerainya tiga kali di sisi Rasulullah shallallahu 'alaihi wasallam. Dan Rasulullah shallallahu 'alaihi wasallam menjalankannya, dan apa yang dilakukan di sisi Nabi shallallahu 'alaihi wasallam adalah sunah. Sahl berkata; aku menyaksikan hal ini di sisi Rasulullah shallallahu 'alaihi wasallam sehingga berlangsunglah sunah setelah itu mengenai orang yang saling melaknat dengan dipisahkannya diantara mereka berdua, kemudian mereka tidak akan tidak berkumpul selamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>2248</td></tr><tr><td>Reference</td><td>Book 13 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Са‘д, да будет доволен им Аллах, передаёт, пересказывая историю супругов, которые принесли соответствующие клятвы /ли‘ан/, что Посланник Аллаха ﷺ сказал: «Понаблюдайте за ней. Если она родит ребёнка с чёрными глазами и большими ягодицами, то я буду считать, что её муж говорил правду. Если же она родит ребёнка с красноватой кожей, как у ящерицы, я буду считать, что её муж солгал». И родился ребёнок с признаками (подтверждающими факт прелюбодеяния)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>2248</td></tr><tr><td>Reference</td><td>Book 13 Hadith 74</td></tr></tbody></table></div>
 

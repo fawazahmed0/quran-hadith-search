@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: A man came to the Prophet (ﷺ) and he was weari
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] dan [Muhammad bin Abdul Aziz bin Abu Rizmah] secara makna, bahwa [Zaid bin Hubab] mengabarkan kepada mereka dari [Abdullah bin Muslim As Sulami Al Mawarzi Abu Thaubah] dari [Abdullah bin Buraidah] dari [Bapaknya] ia berkata, "Seorang laki-laki datang menemui Nabi shallallahu 'alaihi wasallam, sementara ia mengenakan cincin dari kuningan tembaga. Beliau lalu berkata kepadanya: "Kenapa aku mendapatkan bau berhala darimu!" laki-laki itu lantas membuang cincinnya. Setelah itu ia datang lagi dengan mengenakan cincin besi, beliau bersabda: "Kenapa melihatmu mengenakan perhiasan penduduk neraka!" laki-laki lantas membuangnya kembali, lalu ia bertanya, "Wahai Rasulullah, lalu dari apa aku harus membuatnya?" beliau menjawab: "Dari perak, namun jangan engkau genapkan hingga (beratnya) satu mitsqal." Muhammad tidak menyebutkan, "Abdullah bin Muslim, atau Al Hasan As Sulami Al Mawarzi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4223</td></tr><tr><td>Arabic No</td><td>4223</td></tr><tr><td>Reference</td><td>Book 36 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Бурайда передаёт от своего отца, что однажды к Пророку ﷺ пришёл какой-то человек, на руке которого был перстень из жёлтой меди, и (Пророк ﷺ) сказал ему: «Почему ощущаю я исходящий от тебя запах идолов?!» И он выбросил этот перстень. Потом он пришёл, и на руке его был железный перстень, и (Пророк ﷺ) сказал ему: «Почему я вижу на тебе украшение обитателей Огня?!» И он выбросил этот перстень. Тот человек спросил: «О Посланник Аллаха, из чего же мне изготовить перстень?» Он сказал: «Из серебра весом меньше мискаля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4223</td></tr><tr><td>Arabic No</td><td>4223</td></tr><tr><td>Reference</td><td>Book 36 Hadith 10</td></tr></tbody></table></div>
 

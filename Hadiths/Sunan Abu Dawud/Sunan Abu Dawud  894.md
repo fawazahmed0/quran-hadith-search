@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu sa’ld al-Khudri said:The mark of earth was seen on the forehead and nose o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Sufwan bin Isa] telah menceritakan kepada kami [Ma'mar] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Sa'id Al Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam terlihat pada dahi dan ujung hidung beliau terdapat bekas tanah dari mengerjakan shalat bersama orang-orang." Telah menceritakan kepada kami [Muhamad bin Yahya] telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (813) Sahih Muslim (1167)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>894</td></tr><tr><td>Arabic No</td><td>894</td></tr><tr><td>Reference</td><td>Book 2 Hadith 504</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что после молитвы, которую Посланник Аллаха ﷺ совершал с людьми, на его лбу и переносице оставались следы от земного поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (813) Sahih Muslim (1167)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>894</td></tr><tr><td>Arabic No</td><td>894</td></tr><tr><td>Reference</td><td>Book 2 Hadith 504</td></tr></tbody></table></div>
 

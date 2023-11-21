@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) used to proceed to the Musalla on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] berkata, telah menceritakan kepadaku [Zaid bin Aslam] dari ['Iyadl bin 'Abdullah bin Abu Sarah] dari [Abu Sa'id Al Khudri] berkata, "Pada hari raya Idul Firi dan Adlha Rasulullah shallallahu 'alaihi wasallam keluar menuju tempat shalat (lapangan), dan pertama kali yang beliau kerjakan adalah shalat hingga selesai. Kemudian beliau berdiri menghadap orang banyak sedangkan mereka dalam keadaan duduk di barisan mereka. Beliau memberi pengajaran, wasiat dan memerintahkan mereka. Dan apabila beliau ingin mengutus pasukan, maka beliau sampaikan atau beliau perintahkan (untuk mempersiapkannya), setelah itu beliau berlalu pergi." Abu Sa'id Al Khudri berkata, "Manusia senantiasa melaksanakan (tata cara shalat hari raya) seperti apa yang beliau laksanakan, hingga pada suatu hari aku keluar bersama Marwan -yang saat itu sebagai Amir di Madinah- pada hari raya Adlha atau Fithri. Ketika kami sampai di tempat shalat, ternyata di sana sudah ada mimbar yang dibuat oleh Katsir bin Ash Shalt. Ketika Marwan hendak menaiki mimbar sebelum pelaksanaan shalat, aku tarik pakaiannya dan dia balik menariknya, kemudian ia naik dan khuthbah sebelum shalat. Maka aku katakan kepadanya, "Demi Allah, kamu telah merubah (sunnah)!" Lalu dia menjawab, "Wahai Abu Sa'id. Apa yang engkau ketahui itu telah berlalu." Aku katakan, "Demi Allah, apa yang aku ketahui lebih baik dari apa yang tidak aku ketahui." Lalu dia berkata, "Sesungguhnya orang-orang tidak akan duduk (mendengarkan khutbah kami) setelah shalat. Maka aku buat (khutbah) sebelum shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>956</td></tr><tr><td>Arabic No</td><td>956</td></tr><tr><td>Reference</td><td>Book 13 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «В день разговения и в день жертвоприношения Посланник Аллаха ﷺ всегда выходил к месту намаза и первое, с чего он начинал, был намаз, по завершении которого он становился перед сидевшими рядами людьми для того, чтобы увещевать их и давать им свои наставления и веления. Если же после этого он хотел послать куда-нибудь военный отряд, то делал это, и если хотел приказать сделать что-то, то приказывал, а затем уходил».\nАбу Са‘ид сказал: «Люди продолжали придерживаться этого, пока (однажды) в день жертвоприношения (или: разговения) я не отправился (на намаз) вместе с Марваном, являвшимся (в то время) правителем Медины. Когда мы пришли к месту намаза, оказалось, что там стоит минбар, установленный Кaсиром бин ас-Сальтом, и Марвану вдруг захотелось взобраться на него до намаза. Я потянул его за одежду, но он высвободил её (у меня из рук), поднялся (на минбар) и произнёс хутбу до намаза. Я сказал ему: “Клянусь Аллахом, вы ведь изменили (сунну)!” (В ответ мне) он сказал: “О Абу Са‘ид, то, что ты знаешь, уже ушло (в прошлое)!” Тогда я сказал: “Клянусь Аллахом, то, что я знаю, лучше того, что мне неизвестно!” (В своё оправдание) Марван сказал: “Люди не стали бы сидеть после намаза, чтобы послушать нашу (хутбу), и поэтому я произнёс её перед намазом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>956</td></tr><tr><td>Arabic No</td><td>956</td></tr><tr><td>Reference</td><td>Book 13 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said to Ubai, "Allah has ordered me re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hassan bin Hassan] Telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas] radliallahu 'anhu, ia berkata; Nabi shallallahu 'alaihi wasallam bersabda kepada Ubbay bin Ka'ab: "Sesungguhnya Allah memerintahkanku untuk membacakan Al Qur'an padamu." Ubbay bertanya, "Apakah Allah menyebut dan memperdengarkan namaku pada Anda?" beliau menjawab: "Ya, Allah menyebutkan namamu padaku." Akhirnya Ubbay pun menangis terharu. Qatadah berkata; Telah diberitakan kepadaku, bahwa beliau pun membacakan Al Qur'an padanya yakni: "LAM YAKUNIL LADZIINA KAFARUU MIN AHLIL KITAABI
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4960</td></tr><tr><td>Arabic No</td><td>4960</td></tr><tr><td>Reference</td><td>Book 65 Hadith 482</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал Убаййу: “Поистине, Аллах велел мне прочитать тебе Коран”. Убай спросил: “Аллах назвал тебе моё имя?” (Пророк ﷺ) сказал: “(Да,) Аллах назвал твоё имя”, и (, услышав это, Убайй) начал плакать».\nКатада сказал: «Мне было сообщено, что прочитал ему: “Неверующие из людей Писания и многобожников не расстались с неверием…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4960</td></tr><tr><td>Arabic No</td><td>4960</td></tr><tr><td>Reference</td><td>Book 65 Hadith 482</td></tr></tbody></table></div>
 

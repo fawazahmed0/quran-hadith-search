@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik (Allah be pleased with him) reported:Allah's Messenger (ﷺ) contr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdur Razzaq] telah menceritakan kepada kami [Ma'mar] dari [Abu Utsman] dari [Anas] dia berkata; Ketika Nabi shallallahu 'alaihi wasallam menikahi Zainab, Ummu Sulaim menghadiahkan kepada beliau adonan kue di dalam mangkok yang terbuat dari batu. Anas berkata; Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Pergilah dan undanglah orang-orang Islam yang kamu temui." Lantas saya pergi dan mengundang siapa saja yang saya temui, kemudian mereka masuk (ke rumah beliau) dan menyantap makanan, lalu mereka kembali pulang. Kemudian Nabi shallallahu 'alaihi wasallam meletakkan tangannya ke dalam adonan tersebut sambil berdo'a Anas berkata; (meletakkan tangannya) ke dalam adonan tersebut dan mengucapkan do'a sebagaimana yang telah dikehendaki Allah. Saya tidak meninggalkan seorang pun yang saya temui melainkan saya mengundangnya, lantas mereka makan hidangan tersebut sampai kenyang, kemudian mereka kembali pulang. Kecuali sekelompok orang yang masih tetap bercakap-cakap, Nabi shallallahu 'alaihi wasallam malu jika menegur mereka, sehingga beliau keluar dan meninggalkan mereka ke dalam rumah, maka Allah Azza Wa Jalla menurunkan ayat: " Wahai orang-orang yang beriman, janganlah kamu masuk ke rumah Nabi Shallallahu 'Alaihi Wasalam, kecuali bila kamu telah dipersilahkan masuk untuk makan, Qatadah menambahkan; "Tanpa menunggu lama makanan terhidang, tetapi jika kamu diundang, maka masuklah… - sampai kepada firman-Nya - yang demikian itu lebih suci bagi hatimu dan hati mereka." (Al Ahzab:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3508</td></tr><tr><td>Arabic No</td><td>1428.07</td></tr><tr><td>Reference</td><td>Book 16 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3508</td></tr><tr><td>Arabic No</td><td>1428.07</td></tr><tr><td>Reference</td><td>Book 16 Hadith 110</td></tr></tbody></table></div>
 

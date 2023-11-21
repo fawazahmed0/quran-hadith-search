@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma':I went to 'Aisha and she was standing praying and the people, too
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan kepada saya [Ibnu Wahb] telah menceritakan kepada kami [Atz-Tsauriy] dari [Hisyam] dari [Fathimah] dari [Asma'] berkata: "Aku menemui Aisyah radliallahu 'anha sedangkan saat itu dia sedang berdiri shalat begitu juga orang-orang sedang mengerjakan shalat. Lalu aku bertanya: "Apa yang sedang terjadi?" Maka dia memberi isyarat ke atas dengan kepalanya. Lalu aku berkata: "Benarkah tanda itu (gerhana)?" Maka dia menjawab dengan (menganggukkan) kepalanya tanda mengiyakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 22 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма сказала: «(Однажды) я зашла к ‘Аише, да будет доволен ею Аллах, и (обнаружила, что) она стояла, совершая молитву, и люди совершали молитву. Я спросила (её): “Что происходит с людьми?”, — (в ответ) она указала головой на небо, я спросила: “(Это) знамение?”, — и она утвердительно кивнула головой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 22 Hadith 13</td></tr></tbody></table></div>
 

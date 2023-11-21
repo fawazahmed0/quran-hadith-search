@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah: The Messenger of Allah (ﷺ) addressed us and said: Is here an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Abu Al Ahwash] dari [Sa'id bin Masruq], dari [Asy Sya'bi], dari [Sam'an] dari [Samurah], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkhutbah kepada kami, kemudian beliau berkata: "Apakah di sini terdapat seseorang dari Bani Fulan?" kemudian terdapat seorang laki-laki yang berdiri dan berkata; saya wahai Rasulullah. Kemudian beliau shallallahu 'alaihi wasallam berkata: "Apa yang menghalangimu untuk menjawabku, pada dua pertanyaan pertama? Adapun aku, maka tidaklah aku menyebutkan kepada kalian kecuali kebaikan. Sesungguhnya sahabat kalian tertahan dengan hutangnya." Sungguh aku melihatnya telah membayar hutang tersebut untuknya hingga tidak tersisa seorangpun yang menuntut sesuatu kepadanya. Abu Daud berkata; Sam'an bin Musyannij
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3341</td></tr><tr><td>Arabic No</td><td>3341</td></tr><tr><td>Reference</td><td>Book 23 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Самура, да будет доволен им Аллах, передаёт: «Посланник Аллаха ﷺ обратился к нам с речью, сказав: “Есть ли здесь кто-нибудь из такого-то рода?” Но никто не ответил. Тогда он спросил: “Есть ли здесь кто-нибудь из такого-то рода?” Но ему опять никто не ответил. Тогда он спросил: “Есть ли здесь кто-нибудь из такого-то рода?” Наконец поднялся какой-то человек и сказал: “Я, о Посланник Аллаха!” (Посланник Аллаха ﷺ) спросил: “Что помешало тебе ответить в первые два раза? Поистине, я не желаю вам ничего, кроме блага. Поистине, ваш товарищ задержан из-за долга”. И я увидел, как (тот человек) уплачивал долги (покойного) до тех пор, пока не осталось никого, кому бы он был должен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3341</td></tr><tr><td>Arabic No</td><td>3341</td></tr><tr><td>Reference</td><td>Book 23 Hadith 16</td></tr></tbody></table></div>
 

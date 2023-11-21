@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq:Somebody asked Al-Bar-a bin 'Azib, "Did you flee deserting 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah] telah bercerita kepada kami [Sahal bin Yusuf] dari [Syu'bah] dari [Abu Ishaq], Ada seorang laki-laki berkata kepada [Al Bara' bin 'Azib radliallahu 'anhuma]: "Apakah kalian kabur dari Rasulullah shallallahu 'alaihi wasallam pada peperangan Hunain?" Dia berkata: "Tetapi Rasulullah shallallahu 'alaihi wasallam tidaklah kabur". Sesungguhnya Hawazin adalah suatu kaum yang ahli memanah dan kami ketika bertemu dengan mereka kami mampu meladeni mereka dan mereka kalah, namun kaum muslimin mulai serius dengan ghanimah mereka menghujani kami dengan anak panah, sementara Rasulullah shallallahu 'alaihi wasallam tidaklah kabur. Sungguh aku melihat Beliau tetap diatas baghol (peranakan antara kuda dengan keledai) Beliau yang berwarna putih sementara Abu Sufyan menuntun baghol tersebut dan Nabi shallallahu 'alaihi wasallam bersabda: "Aku adalah seorang Nabi yang tidak berdusta dan aku adalah anak dari 'Abdul Muthallib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 56 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (как-то раз один) человек спросил аль-Бара бин ‘Азиба, да будет доволен им Аллах: «Верно ли, что в день (битвы при) Хунайне вы бежали(, покинув) Посланника Аллаха ﷺ?» Он сказал: (Да,) но посланник Аллах ﷺ не побежал. (Люди из племени) хавазин хорошо стреляли из луков; повстречавшись с ними, мы атаковали их, и они побежали, а когда мусульмане занялись военной добычей, они обстреляли нас из луков. Что же касается Посланника Аллаха ﷺ то он не обратился в бегство, и, поистине, я видел его сидящим на его белой мулице. (В это время) Абу Суфйан держал её под уздцы, а Пророк ﷺ произносил (такие слова):Я пророк, и нет (в этом) лжи!Я Ибн ‘Абд аль-Мутталиб
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 56 Hadith 80</td></tr></tbody></table></div>
 

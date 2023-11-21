@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: When the Prophet (ﷺ) prayed the two rak'ahs of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan] dari [Ziyad bin Sa'd] dari seseorang yang pernah menceritakan kepadanya [Ibnu Abi 'Attab] atau yang lainnya, dari [Abu Salamah] dia berkata; [Aisyah] berkata; "Apabila Nabi shallallahu 'alaihi wasallam selesai mengerjakan shalat dua raka'at fajar, sementara aku masih tidur, beliau akan berbaring, namun apabila aku sudah bangun, maka beliau akan bercakap-cakap denganku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1263</td></tr><tr><td>Arabic No</td><td>1263</td></tr><tr><td>Reference</td><td>Book 5 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах: «Пророк ﷺ совершал два рак‘ата перед обязательной утренней молитвой, и, если я спала, он ложился. А если я не спала, то он разговаривал со мной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1263</td></tr><tr><td>Arabic No</td><td>1263</td></tr><tr><td>Reference</td><td>Book 5 Hadith 14</td></tr></tbody></table></div>
 

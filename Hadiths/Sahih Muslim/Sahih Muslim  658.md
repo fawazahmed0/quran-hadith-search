@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported the Messenger of Allah (ﷺ) saying:None of you must wash i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Harun bin Sa'id al-Aili] dan [Abu ath-Thahir] serta [Ahmad bin Isa] semuanya dari [Ibnu Wahab], [Harun] berkata, telah menceritakan kepada kami [Ibnu Wahab] telah mengabarkan kepada kami [Amru bin al-Harits] dari [Bukair bin al-Asyajj] bahwa [Abu as-Sa'ib] mantan budak Hisyam bin Zuhrah, telah menceritakan kepadanya, bahwa dia mendengar [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah salah seorang di antara kalian mandi dalam air yang menggenang (diam), sedang dia dalam keadaan junub." Seseorang lalu bertanya, "Apa yang mesti dia perbuat wahai Abu Hurairah?" Abu Hurairah menjawab, "Hendaklah dia menciduk (untuk menyiramkannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>658</td></tr><tr><td>Arabic No</td><td>283</td></tr><tr><td>Reference</td><td>Book 2 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, рассказывал, что Посланник Аллаха ﷺ сказал: «Не купайтесь в стоячей воде, будучи в состоянии полового осквернения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>658</td></tr><tr><td>Arabic No</td><td>283</td></tr><tr><td>Reference</td><td>Book 2 Hadith 124</td></tr></tbody></table></div>
 

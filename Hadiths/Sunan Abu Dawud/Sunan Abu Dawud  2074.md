@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said “The Apostle of Allaah(ﷺ) prohibited shighar marriage. Musa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Musaddad bin Musarhad], telah menceritakan kepada kami [Yahya] dari ['Ubaidullah], keduanya dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang dari nikah syighar. Musaddad menambahkan dalam haditsnya; aku katakan kepada Nafi'; apakah syighar itu? Ia berkata; seseorang menikahi anak wanita seseorang dengan imbalan ia menikahkan anak wanitanya dengan wali dari wanita yang dinikahi tersebut tanpa mahar, serta seseorang menikahi saudari seseorang dan orang tersebut menikahkannya dengan saudarinya tanpa mahar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5112) Sahih Muslim (1415)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2074</td></tr><tr><td>Arabic No</td><td>2074</td></tr><tr><td>Reference</td><td>Book 12 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Нафи‘а, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал, что Посланник Аллаха ﷺ запретил шигар. Мусаддад, один из передатчиков хадиса, сказал: «Я спросил Нафи‘а: “А что такое шигар?” Он ответил: “Это когда два человека выдают своих дочерей друга за друга без брачного дара или когда два человека выдают своих сестёр друга за друга без брачного дара”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5112) Sahih Muslim (1415)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2074</td></tr><tr><td>Arabic No</td><td>2074</td></tr><tr><td>Reference</td><td>Book 12 Hadith 29</td></tr></tbody></table></div>
 

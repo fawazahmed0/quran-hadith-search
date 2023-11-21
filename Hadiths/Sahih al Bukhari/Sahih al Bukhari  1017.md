@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A man came to Allah's Messenger (ﷺ) and said, "O Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Syarik bin 'Abdullah bin Abu Namir] dari [Anas bin Malik] berkata, "Seorang laki-laki datang menemui Rasulullah shallallahu 'alaihi wasallam lalu berkata, "Wahai Rasulullah, harta benda telah rusak dan jalan-jalan terputus, maka berdo'alah kepada Allah." Rasulullah shallallahu 'alaihi wasallam lalu berdoa hingga hujan pun turun kepada kami dari hari Jum'at ke Jum'at berikutnya. Kemudian datang lagi seorang laki-laki kepada Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Wahai Rasulullah, rumah-rumah telah roboh, jalan-jalan terputus dan harta benda rusak!" Maka Rasulullah shallallahu 'alaihi wasallam pun berdoa: "Ya Allah turunkanlah di puncak-puncak gunung, perbukitan, jurang-jurang yang dalam serta tempat-tempat tumbuhnya pepohonan." Maka awan itu pun menjauh dari Madinah seperti kain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1017</td></tr><tr><td>Arabic No</td><td>1017</td></tr><tr><td>Reference</td><td>Book 15 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) к Посланнику Аллаха ﷺ пришел мужчина и сказал: “О, Посланник Аллаха, наш скот погиб, и мы не можем двинуться в путь, так обратись же к Аллаху, (чтобы Он послал нам дождь)”. Посланник Аллаха ﷺ обратился к Аллаху и пошел дождь, который продолжался до следующей пятницы. Затем он пришел к Посланнику Аллаха ﷺ и сказал: “О, Посланник Аллаха, дома разрушились, дороги испортились и скот погиб!” Тогда Посланник Аллаха ﷺ сказал: “О Аллах, на вершины гор, на холмы, на долины, и на те места, где растут деревья!” И облака рассеялись от Медины, подобно тому, как рвется одежда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1017</td></tr><tr><td>Arabic No</td><td>1017</td></tr><tr><td>Reference</td><td>Book 15 Hadith 12</td></tr></tbody></table></div>
 

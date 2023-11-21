@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Yazid b. Abi ‘Ubaid said :I saw a sign of injury in the shin of Salamah. I ask
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Suraih Ar Razi] telah mengabarkan kepada kami [Makki bin Ibrahim] telah menceritakan kepada kami [Yazid bin 'Ubaid] ia berkata, "Aku melihat pengaruh pukulan pada betis [Salamah], lalu aku katakan, 'Apakah ini? ' Ia menjawab, 'Aku mendapatkan luka ini saat perang Khaibar. ' Kemudian orang-orang berkata, 'Salamah telah terkena musibah'. Kemudian aku dibawa ke hadapkan Rasulullah shallallahu 'alaihi wasallam. Lalu beliau meludah padaku sebanyak tiga kali, kemudian aku tidak mengeluhkannya hingga saat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4206)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>3894</td></tr><tr><td>Reference</td><td>Book 29 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Язида ибн Абу ‘Убайда: «Я увидел след от удара на голени Салямы и спросил его: “Что это?” Он ответил: “Это ранение я получил во время похода на Хайбар. Люди закричали: “Саляма ранен!” Потом меня принесли к Посланнику Аллаха ﷺ и он трижды подул на меня, и до сих пор я не жаловался на эту рану”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4206)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>3894</td></tr><tr><td>Reference</td><td>Book 29 Hadith 40</td></tr></tbody></table></div>
 

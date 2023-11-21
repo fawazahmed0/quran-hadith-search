@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa reported that Allah's Messenger (ﷺ) stood before us one day and he di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim], berkata Utsman: Telah menceritakan kepada kami, sedangan Ishaq berkata: Telah mengkhabarkan kepada kami [Jarir] dari [Al A'masy] dari [Syaqiq] dari [Hudzaifah] berkata: Rasulullah Shallallahu 'alaihi wa Salam berdiri ditengan-tengah kami, beliau memberitahukan kepada kami apa saja yang terjadi hingga hari kiamat, yang menghafalnya hafal dan yang melupakannya lupa. Para sahabatku mengetahuinya dan ada sesuatu yang terlupakan olehku, aku memikirkannya kemudian aku ingat seperti seseorang teringat pada wajah orang lain bila pergi meninggalkannya, bila ia melihatnya, ia mengenalinya." Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] dan [Waki'] dari [Sufyan] dari [Al A'masy] dengan sanad ini sampai perkataannya: Dan yang melupakannya lupa. Ia tidak menyebut selanjutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7263</td></tr><tr><td>Arabic No</td><td>2891.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7263</td></tr><tr><td>Arabic No</td><td>2891.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 29</td></tr></tbody></table></div>
 

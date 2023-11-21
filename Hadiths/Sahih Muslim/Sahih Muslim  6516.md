@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nawwas b. Sam'an al-Ansari reported:I asked Allah's Messenger (ﷺ) about virtue
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim bin Maimun]; Telah menceritakan kepada kami [Ibnu Mahdi] dari [Mu'awiyah bin Shalih] dari ['Abdur Rahman bin Jubair bin Nufair] dari [Bapaknya] dari [An Nawwas bin Mis'an Al Anshari] dia berkata; "Aku pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang arti kebajikan dan dosa. Sabda beliau: "Kebajikan itu ialah budi pekerti yang baik. Sedangkan dosa ialah perbuatan atau tindakan yang menyesakkan dada, dan engkau sendiri benci jika perbuatanmu itu diketahui orang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6516</td></tr><tr><td>Arabic No</td><td>2553.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6516</td></tr><tr><td>Arabic No</td><td>2553.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 16</td></tr></tbody></table></div>
 

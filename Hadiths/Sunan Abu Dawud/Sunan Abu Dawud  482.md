@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu al-‘Ala’ reported on the authority of his father:I came to the Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Sa'id Al-Jurairi] dari [Abu Al-'Ala'] dari [Mutharrif] dari [Ayahnya] dia berkata; Aku pernah datang kepada Rasulullah shallallahu 'alaihi wasallam pada waktu beliau sedang shalat, lalu beliau meludah di bawah kaki kirinya. Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Sa'id Al-Jurairi] dari [Abu Al-'Ala'] dari [Ayahnya] semakna dengannya, dia menambahkan; kemudian beliau menggosoknya dengan sandalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (554)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>482</td></tr><tr><td>Arabic No</td><td>482</td></tr><tr><td>Reference</td><td>Book 2 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Сахля ас-Саиба ибн Халлада Ахмад сказал: «(Он был) из числа сподвижников Пророка ﷺ» - о том, что однажды, когда один человек руководил людьми в молитве, он плюнул в сторону киблы и Посланник Аллаха ﷺ увидел это. Когда он закончил молитву, Посланник Аллаха ﷺ сказал: «Он не должен (руководить) вами в молитве». И после этого, когда он захотел помолиться с ними (в качестве имама,) они не позволили ему этого, и передали ему слова Посланника Аллаха ﷺ. Когда он рассказал об этом Посланнику Аллаха ﷺ тот сказал: «Да». И я думаю, что он сказал: «Ты оскорбил Аллаха и Его посланника»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (554)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>482</td></tr><tr><td>Arabic No</td><td>482</td></tr><tr><td>Reference</td><td>Book 2 Hadith 92</td></tr></tbody></table></div>
 

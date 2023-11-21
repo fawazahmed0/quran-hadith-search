@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' b. 'Azib reported that this verse:"Allah keeps those who believe steadf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abi Syaibah], [Muhammad bin Al Mutsanna] dan [Abu Bakr bin Nafi'], mereka berkata: Telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Sufyan] dari [ayahnya] dari [Khaitsamah] dari [Al Bara' bin Azib]: "Allah meneguhkan (iman) orang-orang yang beriman dengan Ucapan yang teguh itu dalam kehidupan di dunia dan di akhirat." (Ibrahim: 27) ia berkata: Turun berkenaan dengan adzab kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7220</td></tr><tr><td>Arabic No</td><td>2871.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7220</td></tr><tr><td>Arabic No</td><td>2871.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 89</td></tr></tbody></table></div>
 

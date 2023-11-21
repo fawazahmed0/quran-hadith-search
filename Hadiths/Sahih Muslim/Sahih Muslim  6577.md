@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibu 'Umar reported Allah's Messenger (ﷺ) as saying:Oppression is the darkness 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami [Syababah]; Telah menceritakan kepada kami ['Abdul 'Aziz Al Majisyun] dari ['Abdullah bin Dinar] dari [Ibnu 'Umar] dia berkata; Rasulullah Shallallahu 'Alaihi Sallam bersabda: "Sesungguhnya kezhaliman itu adalah mendatangkan kegelapan pada hari kiamat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6577</td></tr><tr><td>Arabic No</td><td>2579</td></tr><tr><td>Reference</td><td>Book 45 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6577</td></tr><tr><td>Arabic No</td><td>2579</td></tr><tr><td>Reference</td><td>Book 45 Hadith 75</td></tr></tbody></table></div>
 

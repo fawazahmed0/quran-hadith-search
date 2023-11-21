@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allahs Messenger (way peace be upon him) was asked abo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang nasib anak-anak kaum musyrik yang meninggal dunia sebelum usia baligh. Kemudian Rasulullah shallallahu 'alaihi wasallam menjawab: 'Allah lah Yang Maha tahu tentang apa yang mereka kerjakan semenjak Allah menciptakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6765</td></tr><tr><td>Arabic No</td><td>2660</td></tr><tr><td>Reference</td><td>Book 46 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6765</td></tr><tr><td>Arabic No</td><td>2660</td></tr><tr><td>Reference</td><td>Book 46 Hadith 43</td></tr></tbody></table></div>
 

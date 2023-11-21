@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:A Jew from Hira asked me which one of the two periods 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdur Rahim] telah mengabarkan kepada kami [Sa'id bin Sulaiman] telah menceritakan kepada kami [Marwan bin Syuja'] dari [Salim Al Aqthos] dari [Sa'id bin Jubair] berkata; Ada seorang Yahudi dari penduduk Hirah bertanya kepadaku tentang dua ketetapan yang dipilih oleh Nabi Musa Alaihissalam. Aku menjawab tidak tahu, hingga aku mendatangi orang 'alim (pemuka) orang Arab dan bertanya kepadanya. Akhirnya aku menemui dan bertanya kepada [Ibnu 'Abbas], maka dia menjawab: "Musa Alaihissalam memilih mengerjakan yang terbanyak dan terbaik diantara keduanya, sesungguhnya Rasulullah shallallahu 'alaihi wasallam jika Beliau bersabda maka pasti beliau lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2684</td></tr><tr><td>Arabic No</td><td>2684</td></tr><tr><td>Reference</td><td>Book 52 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Джубейр сказал: «Один иудей из жителей Хиры спросил меня: “Какой из двух сроков выполнил Муса?” Я ответил: “Я не знаю, (и не отвечу,) пока не спрошу у одного из учёных арабов”. Я пошёл к Ибн ‘Аббасу и спросил его об этом, а он ответил: “(Муса) выполнил больший и лучший срок. Поистине, если посланник Аллаха, мир ему, говорил, что он сделает что-то, то он делал это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2684</td></tr><tr><td>Arabic No</td><td>2684</td></tr><tr><td>Reference</td><td>Book 52 Hadith 45</td></tr></tbody></table></div>
 

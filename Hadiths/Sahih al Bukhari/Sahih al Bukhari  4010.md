@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Shihab:I asked Al-Husain bin Muhammad who was one of the sons of Sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4010</td></tr><tr><td>Arabic No</td><td>4010</td></tr><tr><td>Reference</td><td>Book 64 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн Шихаба: «Я спросил Хусайна ибн Мухаммада, который был одним из сыновей Салима и одним из знатных среди них, о рассказе Махмуда ибн ар-Раби‘а от ‘Итбана ибн Малика, и он подтвердил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4010</td></tr><tr><td>Arabic No</td><td>4010</td></tr><tr><td>Reference</td><td>Book 64 Hadith 61</td></tr></tbody></table></div>
 

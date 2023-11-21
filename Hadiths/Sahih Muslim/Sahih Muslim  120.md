@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Said al-Khudri that when the delegation o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Bakkar al-Bashri] telah menceritakan kepada kami [Abu Ashim] dari [Ibnu Juraij]. (dalam riwayat lain disebutkan), Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan lafazh tersebut miliknya. Telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ibnu Juraij] dia berkata, telah mengabarkan kepada kami [Abu Qaza'ah] bahwa [Abu Nadlrah] mengabarkannya, dan al-Hasan mengabarkan kepada keduanya, bahwa [Abu Sa'id al-Khudri] mengabarkan kepadanya, bahwa utusan Abdul Qais ketika mendatangi Nabi Allah shallallahu 'alaihi wasallam berkata, "Wahai Nabi Allah, semoga Allah menjadikan kami sebagai tebusanmu, minuman apa yang baik bagi kami?" Beliau menjawab: "Janganlah kalian minum pada an-Naqir." Mereka bertanya, "Wahai Nabi Allah, semoga Allah menjadikan kami sebagai tebusanmu, apakah kamu tahu apakah an-Naqir itu?" Beliau menjawab: "Ya, batang pohon yang diukir bagian tengahnya, dan janganlah kamu minum dalam ad-Duba' atau dalam al-Hantam, dan hendaklah kalian (minum minuman yang disimpan pada) wadah yang kepalanya ditutup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>120</td></tr><tr><td>Arabic No</td><td>18.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Са’ид аль-Худри рассказал, что, когда делегация из племени ‘абд аль-кайс прибыли к Пророку Аллаха ﷺ, они сказали: «О Пророк Аллаха, да сделает нас Аллах выкупом за тебя, что для нас подходить из напитков?» Он ответил: «Не пейте из накыра». Они сказали: «О Пророк Аллаха, да сделает нас Аллах выкупом за тебя, ты знаешь, что такое накыр!?» Он ответил: «Да, это ствол, середина которого выдалбливается. И не (пейте также) из дубба и хантама, а используйте бурдюки, горлышка которых завязываются (верёвкой) /мукя/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>120</td></tr><tr><td>Arabic No</td><td>18.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
 

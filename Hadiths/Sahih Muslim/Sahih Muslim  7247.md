@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru An Naqid], [Al Hasan Al Hulwani] dan [Abdu bin Humaid] berkata Abdu: telah mengkhabarkan kepadaku, sedangkan yang lain berkata: telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'ad] telah menceritakan kepada kami [ayahku] dari [Shalih] dari [Ibnu Syihab] telah menceritakan kepadaku [Ibnu Al Musayyib] da [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Akan terjadi fitnah-fintah, orang duduk saat itu lebih baik dari orang yang berdiri, orang yang berdiri saat itu lebi baik dari orang yang berjalan dan orang yang berjalan saat itu lebih baik dari orang yang berlari-lari kecil, barangsiapa menceburkan dirinya pada fitnah-fitnah itu, ia akan kalah dan barangsiapa menemukan tempat berlindung saat itu, hendaklah berlindung." Telah menceritakan kepada kami [Amru An Naqid], [Al Hasan Al Hulwani] dan [Abdu bin Humaid], berkata Abdu: telah mengkhabarkan kepadaku, sedangkan yang lain berkata: telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'ad] telah menceritakan kepada kami [ayahku] dari [Shalih] dari [Ibnu Shiyab] telah menceritakan kepadaku [Abu Bakr bin Abdurrahman] dari [Abdurrahman bin Muthi' bin Al Aswad] dari [Naufal bin Mu'awiyah] seperti hadits [Abu Hurairah] ini, hanya saja Abu Bakar menambahkan dalam riwayatnya: Di antara beberapa shalat, ada satu shalat, barangsiapa meninggalkannya, seolah-olah keluarga dan hartanya ditinggalkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7247</td></tr><tr><td>Arabic No</td><td>2886.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7247</td></tr><tr><td>Arabic No</td><td>2886.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 13</td></tr></tbody></table></div>
 

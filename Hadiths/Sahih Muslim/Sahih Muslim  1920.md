@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira is reported to have said that the Messenger of Allah (ﷺ) prohibite
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Muhammad bin Yahya bin Habban] dari [Al A'raj] dari [Abu Hurairah] bahwasanya; "Rasulullah shallallahu 'alaihi wasallam melarang shalat sesudah shalat Asar hingga matahari terbenam, dan sesudah shalat Shubuh hingga matahari terbit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1920</td></tr><tr><td>Arabic No</td><td>825</td></tr><tr><td>Reference</td><td>Book 6 Hadith 348</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ запретил совершать (добровольные) молитвы после (обязательной) послеполуденной молитвы /‘аср/, пока не зайдёт солнце, и после (обязательной) утренней молитвы /фаджр/, пока солнце не поднимется над горизонтом (на определённую высоту)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1920</td></tr><tr><td>Arabic No</td><td>825</td></tr><tr><td>Reference</td><td>Book 6 Hadith 348</td></tr></tbody></table></div>
 

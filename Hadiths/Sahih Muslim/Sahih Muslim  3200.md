@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Qasim reported the Mother of the Faithful (Hadrat 'A'isha Siddiqa) (Allah be 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Husain bin Al Hasan] Telah menceritakan kepada kami [Ibnu Aun] dari [Al Qasim] dari [Ummul Mukminin] ia berkata; "Akulah yang memberi tanda pada hewan kurban itu dengan tali yang terbuat dari Shuff. Dan Rasulullah shallallahu 'alaihi wasallam pun berada di tempat kami dalam keadaan halal, ia berbuat sebagaimana apa yang boleh diperbuat oleh seorang yang telah tahallul terhadap keluarganya. Atau seperti biasanya seorang suami yang mendatangi isterinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>1321.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 404</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>1321.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 404</td></tr></tbody></table></div>
 

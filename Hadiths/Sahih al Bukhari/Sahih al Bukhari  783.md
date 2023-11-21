@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:I reached the Prophet (ﷺ) in the mosque while he was bowing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammam] dari [Al A'lam] -yaitu Ziyad- dari [Al Hasan] dari [Abu Bakrah], bahwa dia pernah mendapati Nabi shallallahu 'alaihi wasallam sedang rukuk, maka dia pun ikut rukuk sebelum sampai ke dalam barisan shaf. Kemudian dia menceritakan kejadian tersebut kepada Nabi shallallahu 'alaihi wasallam, Nabi shallallahu 'alaihi wasallam lalu bersabda: "Semoga Allah menambah semangat kepadamu, namun jangan diulang kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>783</td></tr><tr><td>Arabic No</td><td>783</td></tr><tr><td>Reference</td><td>Book 10 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Бакры, что он присоединился к (молитве под руководством) Пророка ﷺ совершив поясной поклон прежде того, как дошёл до ряда молящихся. Затем он упомянул об этом Пророку ﷺ на что он сказал: “Да увеличит Аллах твоё стремление (к благу), но впредь так не делай!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>783</td></tr><tr><td>Arabic No</td><td>783</td></tr><tr><td>Reference</td><td>Book 10 Hadith 178</td></tr></tbody></table></div>
 

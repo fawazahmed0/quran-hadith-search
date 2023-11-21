@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dharr:I entered the mosque while Allah's Messenger (ﷺ) was sittin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ja'far] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim] -yaitu At Taimi- dari [Ayahnya] dari [Abu Dzar] berkata, "Aku masuk masjid sedang Rasulullah Shallallahu'alaihiwasallam duduk. Ketika matahari terbenam, beliau bertanya: 'Wahai Abu Dzar, tahukah engkau ke manakah matahari ini pergi?" Aku menjawab, 'Allah dan rasul-Nya lah yang lebih tahu! ' Nabi menjawab: "Sesungguhnya matahari ini pergi meminta ijin untuk sujud sehingga diijinkan, seolah-olah dikatakan kepada 'Kembalilah engkau dari tempat engkau datang', maka ia muncul di sebelah baratnya, " kemudian beliau membaca: '(Itulah tempat tinggalnya) ', menurut bacaan Abdullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7424</td></tr><tr><td>Arabic No</td><td>7424</td></tr><tr><td>Reference</td><td>Book 97 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «Как-то раз я зашёл в мечеть, а Посланник Аллаха ﷺ находился в сидячем положении. И когда солнце уже зашло, он сказал: “О Абу Зарр! Знаешь ли ты, куда оно направляется?” Я сказал: “Аллах и посланник Его знают об этом лучше”. (Тогда Пророк ﷺ.) сказал: “Поистине, оно движется, после чего испрашивает позволения склонится в земном поклоне и ему позволят сделать это. И тогда ему будет сказано: ‹Возвращайся туда, откуда явилось!› Так оно взойдет на западе“. А потом он прочёл (слова Аллаха): “Это его местопребывание”» — как это звучит в чтении ‘Абдуллаха ибн Мас‘уда
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7424</td></tr><tr><td>Arabic No</td><td>7424</td></tr><tr><td>Reference</td><td>Book 97 Hadith 52</td></tr></tbody></table></div>
 

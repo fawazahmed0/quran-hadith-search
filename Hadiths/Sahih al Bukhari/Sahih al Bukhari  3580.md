@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:My father had died in debt. So I came to the Prophet (ﷺ) and sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Zakariya'] berkata, telah bercerita kepadaku ['Amir] berkata, telah bercerita kepadaku [Jabir radliallahu 'anhu] bahwa bapaknya meninggal dunia dengan meninggalkan hutang. (Katanya); "Maka kutemui Nabi shallallahu 'alaihi wasallam lalu kukatakan; "Bapakku meninggalkan hutang sedangkan aku tidak memiliki sesuatu kecuali apa yang dihasilkan dari kebun kurma, namun hasil panennya satu musim tidak mencukupi untuk melunasi hutangnya". Beliau pun berangkat bersamaku untuk menghindari umpatan para piutang kepadaku. Kemudian beliau berjalan mengelilingi tumpukan dari tumpukan buah kurma dan berdo'a, kemudian beliau kelilingi tumpukan yang lain, dan beliau duduk di dekat tumpukan kurma tersebut seraya bersabda: "Bagikanlah". Maka Jabir membagikan kurma-kurma tersebut dan berhasil beliau lunasi kesemuanya dan masih tersisa kurma sebanyak yang sudah dibagikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3580</td></tr><tr><td>Arabic No</td><td>3580</td></tr><tr><td>Reference</td><td>Book 61 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал, что его отец умер, оставив долги. Далее он сказал: «Я пришёл к Пророку ﷺ и сказал ему: “Мой отец умер, оставив долги, и у меня нет ничего чем погасить их кроме того, что растёт на пальмах, однако, чтобы погасить долги урожаем, получаемым с них, потребуются года. Поэтому пойдём со мной, чтобы кредиторы не переходили границ в отношении меня”. Придя, Пророк ﷺ обошёл одну из куч фиников и обратился (к Аллаху), а затем сделал то же самое с другой кучей, затем сел над ней, и сказал: “Отмерь (им)”. Он отдал им сполна всё, что им причиталось, и после этого осталось столько же, сколько он им отдал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3580</td></tr><tr><td>Arabic No</td><td>3580</td></tr><tr><td>Reference</td><td>Book 61 Hadith 89</td></tr></tbody></table></div>
 

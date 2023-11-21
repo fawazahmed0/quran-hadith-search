@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported from the Messenger of Allah (ﷺ):I was commanded to prostra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad, yaitu Ibnu Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Amru bin Dinar] dari [Thawus] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam beliau bersabda, "Aku diperintahkan untuk bersujud pada tujuh anggota badan, dan aku tidak melipat baju dan mengikat rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>490.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 258</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Аббаса, что Пророк ﷺ сказал: «Мне было велено совершать земные поклоны(, опираясь) на семь костей, и не подбирать одежду и волосы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>490.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 258</td></tr></tbody></table></div>
 

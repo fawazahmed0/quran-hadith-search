@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar said, "The Prophet (ﷺ) made incumbent on every male o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata: Nabi shallallahu 'alaihi wasallam mewajibkan zakat fithri, atau katanya zakat Ramadhan bagi setiap laki-laki maupun perempuan, orang merdeka maupun budak satu sha' dari kurma atau satu sha' dari gandum". Kemudian orang-orang menyamakannya dengan setengah sha' untuk biji gandum. Adalah Ibnu 'Umar radliallahu 'anhuma bila berzakat dia memberikannya dengan kurma. Kemudian penduduk Madinah kesulitan mendapatkan kurma akhirnya mereka mengeluarkan gandum. Ibnu 'Umar radliallahu 'anhuma memberikan zakatnya atas nama anak kecil maupun dewasa hingga atas nama bayi sekalipun dan Ibnu 'Umar radliallahu 'anhuma memberikannya kepada orang-orang yang berhak menerimanya dan dia mengeluarkan zakatnya itu sehari atau dua hari sebelum hari Raya 'Iedul Fithri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1511</td></tr><tr><td>Arabic No</td><td>1511</td></tr><tr><td>Reference</td><td>Book 24 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ вменил в обязанность раздавать закят аль-Фитр (или он сказал: «рамадан») мужчине и женщине, свободному и рабу: са‘ фиников или са‘ ячменя, и люди заменили его половиной са‘ пшеницы». \nНафи‘ сказал: «Обычно Ибн ‘Умар, да будет доволен Аллах им и его отцом, раздавал финики, но когда в Медине стало мало фиников, он раздавал пшеницу. Ибн ‘Умар раздавал за молодых и старых так, что он даже раздавал от имени моих детей. Ибн ‘Умар, да будет доволен Аллах им и его отцом, обычно давал садака аль-Фитр тем, кто был специально назначен для его сбора. И люди обычно раздавали его за день или за два до праздника»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1511</td></tr><tr><td>Arabic No</td><td>1511</td></tr><tr><td>Reference</td><td>Book 24 Hadith 111</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] telah mengabarkan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Al Fudlail bin Marzuq] dari [Syaqiq bin 'Uqbah] dari [Al Barra' bin 'Azib] katanya; "Jagalah oleh kalian seluruh shalat yang ada" ayat ini turun ketika shalat ashar, maka kami membacanya sekehendak Allah beberapa lama, kemudian Allah memansukhkannya hingga turun ayat "Jagalah oleh kalian seluruh shalat yang ada dan shalat wustha" (QS. Albaqarah 238), Maka seseorang yang ketika itu duduk bersama Fudlail bin Marzuq berkata pada Syaqiq "Shalat wustha yang dimaksud adalah shalat ashar, " Lalu Al Barra' berkomentar; aku telah mengabarkan kepadamu bagaimana ayat itu turun dan bagaimana Allah memansukhkannya, dan Allah dzat yang lebih tahu." Muslim mengatakan; Dan hadis itu diriwayatkan pula oleh [Al Asyja'i] dari [Sufyan Ats Tsauri] dari [Al Aswad bin Qais] dari [Syaqiq bin 'Uqbah] dari [Al Barra' bin 'Azib], kata Al Barra', kami membacanya bersama Nabi shallallahu 'alaihi wasallam, beberapa lama semisal hadis Fudlail bin Marzuq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1428</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ ибн аль-‘Азиб сказал: «Когда был ниспослан этот аят: “Оберегайте молитвы, и особенно, среднюю молитву и молитву послеполуденную” (Сура «аль-Бакара», аят 238), мы читали его таким образом столько, сколько это было угодно Аллаху. Затем Аллах отменил его, и был ниспослан аят: “Оберегайте молитвы, и особенно среднюю молитву” (Сура «аль-Бакара», аят 238)». (Услышав это), человек, который сидел рядом с Шакыком сказал: «Значит это послеполуденная молитва /‘аср/». А аль-Бараъ сказал: «Я рассказал тебе, как этот аят был ниспослан, и как Аллах отменил его, а Аллаху ведомо лучше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1428</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

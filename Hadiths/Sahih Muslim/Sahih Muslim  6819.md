@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih said:Abu Huraira narrated to us ahadith from Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami ['Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; ini adalah yang telah diceritakan oleh [Abu Hurairah] kepada kami dari Rasulullah shallallahu 'alaihi wasallam, -lalu dia menyebutkan beberapa Hadits di antaranya; - "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Janganlah seseorang mengharapkan kematian dan janganlah meminta mati sebelum datang waktunya. Karena orang yang mati itu amalnya akan terputus, sedangkan umur seorang mukmin tidak akan bertambah melainkan menambah kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6819</td></tr><tr><td>Arabic No</td><td>2682</td></tr><tr><td>Reference</td><td>Book 48 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6819</td></tr><tr><td>Arabic No</td><td>2682</td></tr><tr><td>Reference</td><td>Book 48 Hadith 15</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama:Allah's Messenger (ﷺ) distributed some cloaks 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Abi Mulaikah] dari [Al Miswar bin Makhramah radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam membagi-bagikan pakaian (rida') namun Beliau tidak memberi satupun kepada Makhramah. Maka Makhramah berkata: "Wahai anakku marilah kita menemui Rasulullah shallallahu 'alaihi wasallam". Maka aku berangkat bersamanya lalu dia berkata: "Masuk dan mintakanlah untukku". Dia berkata: "Maka aku pintakan untuknya lalu Beliau keluar menemuinya dengan membawa rida' lalu berkata: "Kami sengaja menyimpan ini untukmu". Dia (Al Miswar) berkata: "Bapakku memandangnya lalu berkata, Makhramah telah ridho'?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 51 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мисвар бин Махрама, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ разделивший (между людьми) кафтаны, ничего не дал Махраме, и он сказал мне: “О сынок, пойдём со мной к Посланнику Аллаха ﷺ ”. И я пошёл с ним(, а когда мы пришли к его дому, Махрама) сказал: “Позови его ко мне”, и я позвал к нему (Пророка ﷺ) который вышел к нему в одном из этих кафтанов и сказал: “Мы придержали этот (кафтан) для тебя”, (что же касается Махрамы, то) он посмотрел на него и сказал: “Махрама доволен”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 51 Hadith 33</td></tr></tbody></table></div>
 

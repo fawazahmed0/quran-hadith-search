@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:The wives of the Prophet (ﷺ) out of their jealousy, backed each
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Aun] Telah menceritakan kepada kami [Husyaim] dari [Humaid] dari [Anas] ia berkata, [Umar radliallahu 'anhu] berkata; Para isteri-isteri Nabi shallallahu 'alaihi wasallam berkumpul untuk membuat sesuatu sebagai bentuk rasa kecemburuan mereka terhadap beliau. Maka aku pun berkata pada mereka, "Bila saja Rabb-nya -jika beliau menceraikan kalian- mudah-mudahan Ia menggantikan untuknya isteri-isteri yang lebih baik dari kalian." Maka turunlah ayat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>4916</td></tr><tr><td>Reference</td><td>Book 65 Hadith 436</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что ‘Умар, да будет доволен им Аллах, сказал: «Однажды всех жён Пророка ﷺ охватила ревность к нему, и я сказал им: “Если он разведется с вами, то его Господь может заменить вас женами, которые будут лучше вас”, а потом этот аят был ниспослан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>4916</td></tr><tr><td>Reference</td><td>Book 65 Hadith 436</td></tr></tbody></table></div>
 

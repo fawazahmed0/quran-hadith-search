@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) was using the tooth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami ['Anbasah bin Abdul Wahid] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersiwak sementara di sisi beliau ada dua orang laki-laki yang satu lebih tua daripada yang lain, maka Allah mewahyukan kepada beliau tentang keutamaan bersiwak, untuk memberikan siwak kepada orang yang lebih tua dari keduanya. Ahmad yakni Ibnu Hazm menerangkan; Abu Said yakni Al A'rabi berkata kepada kami; Ini termasuk di antara hadits yang hanya diriwayatkan oleh ahli Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Arabic No</td><td>50</td></tr><tr><td>Reference</td><td>Book 1 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ использовал зубочистку, когда у него были два человека, один из которых был старше другого. И ему было внушено в откровении, что достоинство зубочистки в том, что: “(Сначала его следует отдать) старшему”». (То есть:) «Отдай зубочистку тому, кто старше из них по возрасту».Ахмад, он же Ибн Хазм, сказал: «Абу Са‘ид, он же Ибн аль-А‘раби, сказал нам: “Этот (хадис) из числа тех, что передавали только жители Медины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Arabic No</td><td>50</td></tr><tr><td>Reference</td><td>Book 1 Hadith 50</td></tr></tbody></table></div>
 

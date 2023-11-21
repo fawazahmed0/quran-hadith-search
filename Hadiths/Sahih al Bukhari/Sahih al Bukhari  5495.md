@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi 'Aufa:We participated with the Prophet (ﷺ) in six or seven Gh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Ya'fur] ia berkata; aku mendengar [Ibnu Abu Aufa] radliallahu 'anhuma, ia berkata, "Kami pernah bersama Nabi shallallahu 'alaihi wasallam melakukan peperangan sebanyak tujuh atau enam kali, dan setiap itu kami bersama beliau makan belalang." [Sufyan] dan [Abu Awanah] dan [Israil] menyebutkan dari [Abu Ya'fur] dari [Ibnu Abu Aufa] dengan lafadz, "Tujuh peperangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5495</td></tr><tr><td>Arabic No</td><td>5495</td></tr><tr><td>Reference</td><td>Book 72 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Абу Ауфа, да будет доволен Аллах ими обоими, сказал: «Мы принимали участие в семи (или: шести) военных походах вместе с Пророком ﷺ и вместе с ним употребляли в пищу саранчу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5495</td></tr><tr><td>Arabic No</td><td>5495</td></tr><tr><td>Reference</td><td>Book 72 Hadith 21</td></tr></tbody></table></div>
 

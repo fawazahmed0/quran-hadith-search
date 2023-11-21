@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:I asked the Messenger of Allah (ﷺ) the (implication of the)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Sa'id al-Asyajj] dan [Ishaq bin Ibrahim], Ishaq berkata, telah mengabarkan kepada kami, sedangkan al-Asyajj berkata, telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [al-A'masy] dari [Ibrahim at-Taimi] dari [bapaknya] dari [Abu Dzar] dia berkata, "Aku bertanya kepada Rasulullah tentang firman Allah: '(Matahari beredar pada tempat porosnya) ' (Qs. Yunus: 38) Maka beliau bersabda: "Tempatnya adalah di bawah Arsy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402</td></tr><tr><td>Arabic No</td><td>159.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 307</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Зарр сказал: «Я спросил у Посланника Аллаха ﷺ о значении слов Всевышнего Аллаха: “Солнце плывёт к своему местопребыванию” (Сура “Йасин”, аят 38). И он сказал: “Его местопребывание находится под Троном”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>402</td></tr><tr><td>Arabic No</td><td>159.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 307</td></tr></tbody></table></div>
 

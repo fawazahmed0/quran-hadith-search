@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar (Allah be pleased with them) reported:Allah's Messenger (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Laits] telah menceritakan kepadaku [bapakku] dari [kakekku] telah menceritakan kepadaku [Uqail bin Khalid] dari [Ibnu Syihab] dari [Salim bin Abdullah] bahwa [Abdullah bin Umar] radliallahu 'anhuma, berkata; Rasulullah shallallahu 'alaihi wasallam mengerjakan haji tamattu' ketika haji wada', yaitu dengan mengerjakan umrah sebelum haji. Kemudian beliau bayar denda dengan hewan kurban yang dibawanya dari Zulhulaifah, tempat beliau memulai ihram untuk umrahnya itu. sesudah itu, barulah beliau ihram pula untuk haji, dan orang banyak umrah pula bersama-sama dengan beliau. Di antara mereka ada yang membawa hadyu dan ada pula yang tidak membawa. Setibanya Rasulullah shallallahu 'alaihi wasallam di Makkah, beliau bersabda kepada orang banyak: "Barangsiapa yang membawa hadyu, dia boleh bertahallul (berhenti ihram) hingga selesai haji. Dan siapa yang tidak membawa hadyu, hendaklah thawaf di Baitullah, kemudian sa'i antara Shafa dan Marwa, setelah itu ia boleh bercukur dan tahallul. Kemudian ia harus ihram kembali untuk haji dan harus membayar denda dengan menyembelih kurban. Siapa yang tidak membawa hewan kurban, dia harus puasa tiga hari di tempat haji dan tujuh hari apabila dia telah tiba di kampungnya." Sesampainya di Makkah, lebih dahulu beliau jamah hajar Aswad, kemudian beliau berlari-lari kecil tiga kali putaran keliling Ka'bah, beliau shalat dua raka'at di maqam Ibrahim. Selesai shalat beliau pergi ke Shafa dan Marwa, lalu Sa'i antara Shafa dan Marwa tujuh kali. Beliau tidak tahallul sampai selesai haji dan menyembelih kurban di hari Nahr (tanggal sepuluh Dzulhijjjah). Sesudah itu, beliau kembali ke Makkah, lalu thawaf di Bait, kemudian tahallul atau menghalalkan segala sesuatu yang tadinya haram dikerjakan selama ibadah haji. Apa yang diperbuat beliau itu, dicontoh pula oleh orang-orang yang membawa hewan kurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2982</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 15 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2982</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 15 Hadith 190</td></tr></tbody></table></div>
 

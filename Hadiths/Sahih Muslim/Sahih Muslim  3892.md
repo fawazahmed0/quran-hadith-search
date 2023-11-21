@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) having 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Malik]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Yahya bin Yahya] sedangkan lafazhnya dari dia, dia berkata; Saya berkata kepada Malik; "Apakah [Daud bin Hushain] pernah menceritakan kepadamu dari [Abu Sufyan] bekas budak Ibnu Abi Ahmad, dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam memberi pengecualian pada jual beli dengan sistem 'Ariyyah dengan menaksirnya selama kurang dari lima wasaq atau hanya sebanyak lima wasaq." Nampaknya Daud ragu apakah ia mengatakan lima wasaq atau kurang dari lima wasaq?" Ia menjawab; "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3892</td></tr><tr><td>Arabic No</td><td>1541</td></tr><tr><td>Reference</td><td>Book 21 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3892</td></tr><tr><td>Arabic No</td><td>1541</td></tr><tr><td>Reference</td><td>Book 21 Hadith 91</td></tr></tbody></table></div>
 

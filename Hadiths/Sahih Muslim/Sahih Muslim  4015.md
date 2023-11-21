@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Zubair said:I asked Jabir about the price of a dog and a cat; he said: Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'yan] telah menceritakan kepada kami [Ma'qil] dari [Abu Az Zubair] dia berkata; saya bertanya kepada [Jabir] mengenai uang hasil usaha jual beli anjing dan kucing, dia menjawab, "Nabi shallallahu 'alaihi wasallam melarang perbuatan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>1569</td></tr><tr><td>Reference</td><td>Book 22 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу аз-Зубайр сказал: «Я спросил Джабира о продаже собак и кошек и он сказал: “Пророк ﷺ строго запретил это/заджара/!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>1569</td></tr><tr><td>Reference</td><td>Book 22 Hadith 54</td></tr></tbody></table></div>
 

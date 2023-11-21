@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Yusuf ibn Malik al-Makki: I used to write (the account of) the expendit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil] bahwa [Yazid bin Zurai'] telah menceritakan kepada mereka, telah menceritakan kepada kami [Humaid Ath Thawil] dari [Yusuf bin Mahik Al Makki] dia berkata, "Aku pernah mencatatkan untuk [seseorang] nafkah orang-orang yatim yang ia asuh. Kemudian anak asuh itu menipunya sebanyak seribu dirham. Lalu fulan itu memberikannya kepada anak-anak yatim. Setelah itu aku mendapati harta anak-anak yatim itu dua kali lipatnya. Yusuf melanjutkan; "Aku akan mengambil seribu (dirham) yang telah di bawa kabur oleh mereka darimu." Fulan berkata, "Tidak! Aku telah mendengar ayahku bahwa ia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tunaikanlah amanah kepada orang yang mempercayaimu dan janganlah engkau mengkhianati orang yang mengkhianatimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3534</td></tr><tr><td>Arabic No</td><td>3534</td></tr><tr><td>Reference</td><td>Book 24 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Юсуф ибн Махак аль-Макки передаёт: Я записывал расходы одного человека, который был попечителем сирот, и они стали утверждать, что он должен им тысячу дирхемов, и он отдал им эти деньги. А потом я обнаружил, что на самом деле он расходовал всё правильно и не был ничего должен им. Я спросил его: «Может, забрать из их имущества твою тысячу?» Он ответил: «Нет... Мой отец рассказывал мне, что слышал, как Посланник Аллаха ﷺ сказал: “Оправдывай доверие тех, кто доверяет тебе, и не поступай вероломно с тем, кто поступил вероломно с тобой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3534</td></tr><tr><td>Arabic No</td><td>3534</td></tr><tr><td>Reference</td><td>Book 24 Hadith 119</td></tr></tbody></table></div>
 

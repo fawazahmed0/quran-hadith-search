@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Bint al-Harith b. al-Nu'man said:I memorized Surah al-Qaf from the mouth of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syubah] dari [Khubaib] dari [Abdullah bin Muhammad bin Ma'n] dari [Bintu Al Harits bin Nu'man] dia berkata; "Aku tidak pernah hafal surat Qaaf kecuali langsung dari mulut Rasulullah shallallahu 'alaihi wasallam, sebab beliau selalu berkhutbah dengan surat tersebut setiap hari Jum'at." Katanya lagi; "Dan juga tungku Rasulullah shallallahu 'alaihi wasallam dengan tungku kami menjadi satu." Abu Daud berkata; [Rauh bin 'Ubadah] berkata dari [Syu'bah] dia mengatakan; [Bintu Haritsah bin Nu'man] …." sedangkan [Ibnu Ishaq] mengatakan; [Ummu Hisyam bintu Haritsah bin Nu'man] …
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (873)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1100</td></tr><tr><td>Arabic No</td><td>1100</td></tr><tr><td>Reference</td><td>Book 2 Hadith 711</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Бинт аль-Харис ибн ан-Ну‘ман, да будет доволен ею Аллах сказала: «Я научилась суре “Каф” только от Посланника Аллаха ﷺ читавшего её с минбара каждую пятницу, когда он обращался к людям с проповедью, и мы с посланником Аллаха ﷺ пользовались одной печью». Абу Дауд сказал: «Раух ибн ‘Убада передал от Шу‘бы: “Бинт Хариса ибн ан-Ну‘ман”. А в версии Ибн Исхака говорится: “Умм Хишам бинт Хариса ибн ан-Ну‘ман”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (873)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1100</td></tr><tr><td>Arabic No</td><td>1100</td></tr><tr><td>Reference</td><td>Book 2 Hadith 711</td></tr></tbody></table></div>
 

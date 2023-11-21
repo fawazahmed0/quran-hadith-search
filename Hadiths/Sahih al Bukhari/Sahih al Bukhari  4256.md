@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When Allah's Messenger (ﷺ) and his companions arrived (at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Hammad alias Ibnu Zaid] dari [Ayyub] dari [Said bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, katanya, ketika Rasulullah shallallahu 'alaihi wasallam dan para sahabatnya tiba di (Makkah), kaum musyrikin mencemooh; "Telah datang kepada kalian para utusan yang "lembek" karena flu Yatsrib (Madinah), maka Nabi shallallahu 'alaihi wasallam perintahkan para sahabat agar berlari-lari kecil ketika melakukan tiga putaran thawaf pertama dan agar mereka berjalan diantara dua rukun yamani. Tak ada yang menghalangi beliau untuk menyuruh mereka berlari dalam semua putaran selain karena kasih sayang beliau kepada mereka. Kata Abu Abdullah, [Ibnu Salamah] menambahkan dari [Ayyub] dari [Sa'id bin Jubair] dari [Ibnu Abbas] katanya, ketika Nabi shallallahu 'alaihi wasallam tiba pada tahun berikutnya, yang telah beliau minta jaminan keamanannya, beliau bersabda: "Berlarilah kalian agar orang musyrik melihat kekuatan kalian." Dan ketika itu kaum musyrikin berada di suatu lokasi yang namanya Quaiqi'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4256</td></tr><tr><td>Arabic No</td><td>4256</td></tr><tr><td>Reference</td><td>Book 64 Hadith 290</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Когда Посланник Аллаха ﷺ со своими сподвижниками прибыл (в Мекку), многобожники стали говорить: “Он является к вам, а (его люди) ослаблены йасрибской лихорадкой”. И тогда Пророк ﷺ велел им (при обходе Каабы) пройти первые три круга быстрым шагом, переходя на обычный шаг между двумя углами, и только сострадание по отношению к ним помешало ему приказать им пройти быстрым шагом все (семь) кругов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4256</td></tr><tr><td>Arabic No</td><td>4256</td></tr><tr><td>Reference</td><td>Book 64 Hadith 290</td></tr></tbody></table></div>
 

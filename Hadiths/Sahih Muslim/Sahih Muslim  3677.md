@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported:When a man declares his wife unl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bisyr Al Hariri] telah menceritakan kepada kami [Mu'awiyah, yaitu Ibnu Salam] dari [Yahya bin Abu Katsir] bahwa [Ya'la bin Hakim] telah mengabarkan kepadanya, bahwa [Sa'id bin Jubair] telah mengabarkan kepadanya, bahwa dia pernah mendengar [Ibnu Abbas] berkata; Apabila seorang suami mengharamkan dirinya (bersetubuh) dengan istrinya, maka hal itu merupakan sumpah yang kafaratnya (dendanya) harus di bayar. Dia melanjutkan; "Sungguh telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3677</td></tr><tr><td>Arabic No</td><td>1473.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3677</td></tr><tr><td>Arabic No</td><td>1473.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 26</td></tr></tbody></table></div>
 

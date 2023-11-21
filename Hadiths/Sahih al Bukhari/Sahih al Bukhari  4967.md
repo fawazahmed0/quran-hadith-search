@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:"When the "Surat-An-Nasr", 'When comes the Help of Allah and the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ar Rabi'] Telah menceritakan kepada kami [Abu Al Ahwash] dari [Al A'masy] dari [Abu Dluha] dari [Masruq] dari [Aisyah] radliallahu 'anha, ia berkata; Nabi shallallahu 'alaihi wasallam tidak shalat setelah turunnya ayat, "IDZAA JAA'A NASHRULLAHI WAL FATH." Kecuali di dalam shalatnya membaca: "SUBHAANAKA RABBANAA WA BIHAMDIKA ALLAHUMMAGH FIRLII (Maha Suci Engkau, wahai Rabb kami, dan segala puji bagi-Mu. Ya Allah ampunilah aku)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4967</td></tr><tr><td>Arabic No</td><td>4967</td></tr><tr><td>Reference</td><td>Book 65 Hadith 489</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказывала: «После того, как Пророку ﷺ было ниспослано “Когда придёт помощь Аллаха и победа…”, то он не совершил ни одной молитвы, кроме как говоря: “Субхана-кя Рабба-на уа би-хамди-кя, Аллахумма-гфир ли” (Пречист Ты (от недостатков), Господь наш, и хвала Тебе, о Аллах, прости меня)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4967</td></tr><tr><td>Arabic No</td><td>4967</td></tr><tr><td>Reference</td><td>Book 65 Hadith 489</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Abu Talha said to Umm Sulaim:I felt some feebleness 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Aku mebaca Hadits [Malik bin Anas] dari [Ishaq bin 'Abdullah bin Abu Thalhah]; Bahwasanya dia mendengar [Anas bin Malik] berkata; Abu Thalhah berkata kepada Ummu Sulaim; "Aku mendengar suara Rasulullah shallallahu 'alaihi wasallam sangat lemah, yang aku tahu bahwa beliau sangat lapar. Apakah kamu mempunyai sesuatu?" Dia menjawab; 'Ya.' Kemudian dia mengeluarkan beberapa roti pipih dari gandum, lalu meraih kerudungnya. Kemudian dia menyusupkan ke bawah tanganku, dan menyelendangkan kerudungnya (yang berisi roti). Dia mengutusku kepada Rasulullah shallallahu 'alaihi wasallam. Anas berkata; 'Aku membawanya menemui Rasulullah shallallahu 'alaihi wasallam. Aku mendapati beliau sedang duduk di masjid bersama para sahabat. Aku berdiri di hadapan mereka. Rasulullah shallallahu 'alaihi wasallam bertanya: 'Apakah Abu Thalhah yang menyuruhmu? ' Anas menjawab; 'Ya', Beliau bertanya: 'Untuk membawakan makanan? ' Aku menjawab; 'Ya, ' maka Rasulullah shallallahu 'alaihi wasallam berkata kepada orang-orang yang sedang bersamanya; 'Berdirilah! ' Anas berkata; 'Beliau berangkat dan aku berada di bagian depan mereka, hingga aku menemui Abu Thalhah dan mengabarkan hal itu.' Abu Thalhah berkata; 'Wahai Ummu Sulaim, Rasulullah shallallahu 'alaihi wasallam datang bersama orang-orang, sedangkan kita tidak memiliki makanan yang cukup untuk menjamu mereka? ' Ummu Sulaim menjawab; 'Allah dan Rasul-Nya lebih mengetahui.' Anas berkata; 'Abu Thalhah menemui Rasulullah shallallahu 'alaihi wasallam. Beliau tiba dan Abu Thalhah menghampiri beliau hingga memasuki rumahnya. Rasulullah shallallahu 'alaihi wasallam bersabda: 'Kemarilah, Wahai Ummu Sulaim, apa yang kau miliki? ' Dia datang dengan membawa roti itu, kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan agar roti tersebut dilumatkan. Roti pun dilumatkan dan Ummu Sulaim menuangkan minyak samin pada wadah tersebut. Sehingga menjadi lauk. Rasulullah shallallahu 'alaihi wasallam mengucapkan beberapa kalimat lalu bersabda: 'Persilahkan sepuluh orang untuk masuk.' Abu Thalhah mempersilahkan mereka. Mereka menyantapnya hingga kenyang kemudian keluar. Beliau bersabda: 'Persilahkan sepuluh orang untuk masuk.' Abu Thalhah mempersilahkan mereka, dan mereka menyantapnya hingga kenyang kemudian keluar. Kemudian beliau bersabda: 'Persilahkan sepuluh orang untuk masuk.' Hingga mereka mereka bisa makan dan kenyang. Jumlah mereka ada tujuh puluh orang atau delapan puluh orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5316</td></tr><tr><td>Arabic No</td><td>2040.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5316</td></tr><tr><td>Arabic No</td><td>2040.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 190</td></tr></tbody></table></div>
 

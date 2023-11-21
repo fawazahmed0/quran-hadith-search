@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr b. al-'As reported Allah's Messenger (ﷺ) as saying:He Is successful who ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Abdurrahman Al Muqri] dari [Sa'id bin Abu Ayyub] telah menceritakan kepadaku [Syurahbil bin Syarik] dari [Abu Abdurrahman Al Hubali] dari [Abdullah bin Amru bin Ash] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh amat beruntunglah seorang yang memeluk Islam dan diberi rizki yang cukup serta qana'ah terhadap apa yang diberikan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2426</td></tr><tr><td>Arabic No</td><td>1054</td></tr><tr><td>Reference</td><td>Book 12 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Амра аль-‘Аса, что Посланник Аллаха ﷺ сказал: «Преуспел тот, кто принял ислам и был наделён пропитанием, достаточным для (поддержания) жизни, а Аллах сделал его довольным тем, что Он ему даровал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2426</td></tr><tr><td>Arabic No</td><td>1054</td></tr><tr><td>Reference</td><td>Book 12 Hadith 163</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Allah's Messenger (ﷺ) said (to me), "If the property of Bahrain
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami [Muhammad bin Al Munkadir] dia mendengar [Jabir radliallahu 'anhu] berkata; Rasulullah Shallallahu'alaihiwasallam bersabda: "Seandainya sudah tiba harta (jizyah/upeti) dari negeri Bahrain sungguh aku akan memberi kamu sekian, sekian dan sekian, dan harta yang Beliau maksud tidak kunjung datang hingga Nabi Shallallahu'alaihiwasallam meninggal dunia". Ketika datang harta Bahrain, Abu Bakr memerintahkan seorang penyeru untuk menyerukan: "Siapa yang Rasulullah Shallallahu'alaihiwasallam berhutang kepadanya atau Beliau membuat janji hendaklah datang kepada kami". Aku datang menemuinya lalu aku katakan; "Rasulullah Shallallahu'alaihiwasallam pernah berkata kepadaku begini begini". Maka Abu Bakr memberiku sebanyak tiga kali tangkup (ukuran dua telapak tangan penuh) sementara Sufyan memenuhi kedua telapak tangannya kemudian dia berkata kepada kami; "Sebanyak ini". Dan Ibnu Al Munjadir berkata kepada kami; dan dia (Sufyan) suatu kali berkata; "Maka aku menemui Abu Bakr untuk meminta bagian namun dia tidak memberiku lalu aku datangi lagi dan meminta bagian lagi-lagi di tidak memberiku lalu aku datangi untuk kali ketiga seraya aku katakan; "Aku telah meminta bagian kepadamu namun kamu tidak memberiku lalu aku meminta lagi kamu juga tidak memberi dan kemudian aku meminta lagi namun kamu juga tetap tidak memberiku, apakah memang kamu tidak (patut) memberiku atau kamu pelit kepadaku". Abu Bakr menjawab; "Kamu mengatakan (kepadaku) kamu pelit kepadaku. Tidaklah suatu kali aku tidak memberimu selain aku ingin memberimu". [Sufyan] berkata, dan telah bercerita kepada kami ['Amru] dari [Muhammad bin 'Ali] dari [Jabir]; "Maka dia memberiku sebanyak satu ciduk tangan". Dan dia berkata; "Maka aku dapatkan jumlahnya sebanyak lima ratus". Dia (Abu Bakr) berkata; "Ambillah sebanyak itu untuk yang kedua kali". Dan berkata yakni Ibnu Al Munkadir; "Dan penyakit apa yang lebih buruk dari pada pelit?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>3137</td></tr><tr><td>Reference</td><td>Book 57 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ сказал (мне): “Если бы доставили деньги из Бахрейна, я дал бы тебе то-то, то-то и то-то”, (однако) при жизни Пророка ﷺ денег Бахрейна не привезли, а когда их доставили, по велению Абу Бакра (было объявлено): “Пусть придёт к нам тот, кому Посланник Аллаха ﷺ остался должен или обещал что-нибудь!” Тогда я пришёл к (Абу Бакру) и сказал: “Поистине, Посланник Аллаха ﷺ обещал (дать) мне то-то и то-то”, и он отсыпал мне три пригоршни (монет)».\nТак же Джабир сказал: «Я пришёл к Абу Бакру и попросил у него денег, но он не дал мне, затем я снова пришёл к нему, но он снова не дал мне, затем я пришёл к нему в третий раз и сказал: “Я просил тебя, но ты не дал мне, затем я попросил тебя (во второй раз), и ты не дал мне, затем я попросил тебя (в третий раз), но ты не дал мне. Либо ты дашь мне, либо проявишь скупость в отношении меня”. Абу Бакр сказал: “Ты говоришь мне, что я проявляю скупость в отношении тебя? Но на самом деле, всякий раз, когда я отказывал тебе, я хотел дать их тебе”».\nВ другой версии Джабир добавил: «Он отсыпал мне одну горсть (денег) и сказал: “Посчитай их”. Я пересчитал (эти монеты), и оказалось, что их было пятьсот (штук, после чего) он сказал (мне): “Возьми ещё два раза по столько же”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>3137</td></tr><tr><td>Reference</td><td>Book 57 Hadith 45</td></tr></tbody></table></div>
 

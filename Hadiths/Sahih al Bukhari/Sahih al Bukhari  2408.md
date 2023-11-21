@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:The Prophet (ﷺ) said, "Allah has forbidden for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Asy-Sya'biy] dari [Warrad, maula Al Mughirah bin Syu'bah] dari [Al Mughirah bin Syu'bah] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sesunhgguhnya Allah mengharamkan atas kalian durhaka kepada ibu, mengubur anak wanita hidup-hidup dan serta membenci kalian dari qiila wa qaola (memberitakan setiaapa yang didengar), banyak bertanya dan menyia-nyiakan harta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2408</td></tr><tr><td>Arabic No</td><td>2408</td></tr><tr><td>Reference</td><td>Book 43 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Мугира бин Шу‘ба, да будет доволен им Аллах, передал, что Пророк ﷺ сказал: «Поистине, Аллах Всевышний запретил вам проявлять непочтительность по отношению к (вашим) матерям, закапывать заживо новорождённых девочек, отказывать и (говорить) “Давай!” И Он не желает, чтобы вы (занимались) пересудами, обращались (к людям со) множеством просьб и вопросов и расточали (своё) имущество»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2408</td></tr><tr><td>Arabic No</td><td>2408</td></tr><tr><td>Reference</td><td>Book 43 Hadith 23</td></tr></tbody></table></div>
 

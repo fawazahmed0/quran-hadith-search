@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (may peace be' upon him) said: He wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Zakariya bin 'Adi], telah mengabarkan kepada kami ['Ubaidullah yaitu Ibnu 'Amru] dari [Zaid bin Abu Unaisah] dari ['Adi bin Tsabit] dari [Abu Hazim Al Asyaj] dari [Abu Hurairah] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersuci di rumahnya, kemudian berjalan ke salah satu rumah Allah (masjid) untuk melaksanakan kewajiban yang Allah tetapkan, maka kedua langkahnya, yang satu menghapus kesalahan dan satunya lagi meninggikan derajat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1521</td></tr><tr><td>Arabic No</td><td>666</td></tr><tr><td>Reference</td><td>Book 5 Hadith 354</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ ска­зал: «(Каждый) шаг (человека), который очистится у себя дома, а по­том пойдёт в один из домов Аллаха для выполнения той или иной обязанности, (возложенной на людей) Аллахом, будет снимать с него (бремя одного) греха, а (каждый) другой возвышать его на (одну) ступень».Глава: Достоиноство пятикратной молитвы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1521</td></tr><tr><td>Arabic No</td><td>666</td></tr><tr><td>Reference</td><td>Book 5 Hadith 354</td></tr></tbody></table></div>
 

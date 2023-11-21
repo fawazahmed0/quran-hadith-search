@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) said:There will be no land w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ali bin Hujr As Sa'di] telah menceritakan kepada kami [Al Walid bin1 Muslim] telah menceritakan kepadaku [Abu Amru Al Auza'i] dari [Ishaq bin Abdullah bin Abu Thalhah] telah menceritakan kepadaku [Anas bin Malik] Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Tidak ada satu negeri pun melainkan akan dilewati Dajjal kecuali Makkah dan Madinah. Tidak ada satu jalannya pun kecuali ada malaikat-malaikat berbaris menjaganya yang datang membawa tanah lalu Madinah bergoncang tiga kali. Setiap orang kafir dan munafik keluar meninggalkannya (Madinah) untuk menghampirinya (Dajjal)." Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yunus bin Muhammad] dari [Hammad bin Salamah] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas] Rasulullah Shallallahu 'alaihi wa Salam bersabda, ia menyebut hadits serupa, hanya saja ia mengatakan dalam haditsnya: "Lalu ia mendatangi tanah tepi kemudian menempati bagian depannya." Dan berkata: "Lalu setiap orang munafik lelaki dan perempuan keluar menghampirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7390</td></tr><tr><td>Arabic No</td><td>2943.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7390</td></tr><tr><td>Arabic No</td><td>2943.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 151</td></tr></tbody></table></div>
 

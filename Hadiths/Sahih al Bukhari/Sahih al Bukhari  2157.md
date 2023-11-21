@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:I have given a pledge of allegiance to Allah's Messenger (ﷺ) fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] dari [Isma'il] dari [Qais] aku mendengar [Jarir radliallahu 'anhu] berkata: "Aku berbai'at kepada Rasulullah shallallahu 'alaihi wasallam untuk bersyahadah Laa ilaaha illallah wa anna Muhammadar rasulullah, menegakkan shalat, menunaikan zakat, mendengar dan tho'at serta setia kepada setiap muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2157</td></tr><tr><td>Arabic No</td><td>2157</td></tr><tr><td>Reference</td><td>Book 34 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джарир, да будет доволен им Аллах, сказал: «Я поклялся Посланнику Аллаха ﷺ засвидетельствовать, что нет никакого божества, достойного поклонения, кроме Аллаха, и что Мухаммад — Посланник Аллаха, и выстаивать молитвы, выплачивать закят, слушать и повиноваться, и проявлять искренность (в наставлении) по отношению к каждому мусульманину”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2157</td></tr><tr><td>Arabic No</td><td>2157</td></tr><tr><td>Reference</td><td>Book 34 Hadith 108</td></tr></tbody></table></div>
 

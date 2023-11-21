@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:While I was sitting with Allah's Messenger (ﷺ) (p.b.u.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Abu 'Ashim an-Nabil] telah mengabarkan kepada kami [Sa'dan bin Bisyir] telah menceritakan kepada kami [Abu Mujahid] telah menceritakan kepada kami [Muhilla bin Khalifah ath-Tha'iy] berkata; aku mendengar ['Adiy bin Hatim radliallahu 'anhu] berkata; "Aku pernah bersama Nabi shallallahu 'alaihi wasallam tiba-tiba datang dua orang yang seorang diantaranya mengeluhkan kefaqiran yang menimpanya dan yang seorang lagi mengadukan tentang para perampok di jalanan. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Adapun para perampok, dia tidak akan datang kepada kalian kecuali sedikit hingga rambongan dagang berangkat menuju Makkah tanpa gangguan. Adapun kefaqiran, tidak akan terjadi hari qiyamat hingga terjadi seseorang dari kalian berkeliling membawa shadaqahnya namun dia tidak mendapatkan orang yang mau menerimanya. Kemudian (pada hari qiyamat) pasti setiap orang dari kalian akan berdiri di hadapan Allah dimana antara dirinya dan Allah tidak ada tabir dan tidak ada penterjemah yang akan menjadi juru bicara baginya. Lalu Allah pasti akan berfirman: "Bukakankah aku sudah memberimu harta?". Lalu orang itu berkata,: "Benar". Kemudian Allah berfirman lagi: "Bukankah aku sudah mengutus seeorang rasul kepadamu?". Orang itu berkata; "Benar". Maka orang itu memandang ke sebelah kanannya namun dia tidak melihat sesuatu kecuali neraka. Lalu dia melihat ke sebelah kirinya namun dia juga tidak melihat sesuatu kecuali neraka. Karena itu, jagalah kalian dari neraka sekalipun dengan (bershadaqah) sebutir kurma. Jika dia tidak memilikinya maka dengan berkata yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1413</td></tr><tr><td>Arabic No</td><td>1413</td></tr><tr><td>Reference</td><td>Book 24 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади бин Хатим, да будет доволен им Аллах, сказал:\n— (Однажды,) когда я находился у Посланника Аллаха ﷺ к нему пришли двое мужчин, один из которых стал жаловаться на бедность, а другой — на грабежи на дорогах. (Выслушав их,) Посланник Аллаха ﷺ сказал: «Что касается грабежей, то пройдёт совсем немного времени, и караваны смогут отправляться (из Медины) в Мекку без охраны. Что же касается бедности, то, поистине, не наступит Час этот до тех пор, пока каждый из вас не станет повсюду ходить со своей милостыней, но не найдёт того, кто принял бы её от него. А потом каждый из вас обязательно предстанет перед Аллахом, и не будет меж ними ни преграды, ни толмача, который стал бы переводить (слова человека), и (Аллах) обязательно спросит (человека): “Разве не даровал Я тебе богатство?” — и тот ответит: “Даровал”. Потом Он обязательно спросит: “Разве не направил Я к тебе посланника?” — и тот ответит: “Направил”, а потом (человек) посмотрит направо и не увидит ничего, кроме пламени (ада), и посмотрит налево и не увидит ничего, кроме пламени (ада), так пусть же каждый из вас защитит себя от огня хотя бы с помощью половинки финика, а если не найдёт и этого, то — с помощью доброго слова!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1413</td></tr><tr><td>Arabic No</td><td>1413</td></tr><tr><td>Reference</td><td>Book 24 Hadith 17</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nu'man bin Bashir: I heard Allah's Messenger (ﷺ) saying, 'Both leg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Zakaria] dari ['Amir] berkata; aku mendengar [An Nu'man bin Basyir] berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang halal sudah jelas dan yang haram juga sudah jelas. Namun diantara keduanya ada perkara syubhat (samar) yang tidak diketahui oleh banyak orang. Maka barangsiapa yang menjauhi diri dari yang syubhat berarti telah memelihara agamanya dan kehormatannya. Dan barangsiapa yang sampai jatuh (mengerjakan) pada perkara-perkara syubhat, sungguh dia seperti seorang penggembala yang menggembalakan ternaknya di pinggir jurang yang dikhawatirkan akan jatuh ke dalamnya. Ketahuilah bahwa setiap raja memiliki batasan, dan ketahuilah bahwa batasan larangan Allah di bumi-Nya adalah apa-apa yang diharamkan-Nya. Dan ketahuilah pada setiap tubuh ada segumpal darah yang apabila baik maka baiklah tubuh tersebut dan apabila rusak maka rusaklah tubuh tersebut. Ketahuilah, ia adalah hati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Arabic No</td><td>52</td></tr><tr><td>Reference</td><td>Book 2 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Ну‘ман ибн Башир, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Дозволенное очевидно, и запретное очевидно, а между тем и другим находится сомнительное, о котором многие люди не знают. Остерегающийся сомнительного очищает свою религию и свою честь, а тот, кто занимается сомнительным, подобен пастуху, который пасёт (своё стадо) около заповедного места и вот-вот окажется там. Поистине, у каждого владыки есть своё заповедное место, и, поистине, заповедным местом Аллаха на земле Его является то, что запрещено Им. Поистине, есть в теле кусочек плоти, который, будучи хорошим, делает хорошим и всё тело, а когда приходит в негодность, то портит и всё тело, и, поистине, это — сердце”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Arabic No</td><td>52</td></tr><tr><td>Reference</td><td>Book 2 Hadith 45</td></tr></tbody></table></div>
 

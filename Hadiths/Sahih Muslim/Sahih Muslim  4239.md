@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that Allah's Apostle (ﷺ) forbade (people) taking vows, and s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Mutsanna] dan [Ibnu Basysyar] dan ini adalah lafadz Ibnu Mutsanna, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Abdullah bin Murrah] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau melarang seseorang untuk bernadzar, beliau bersabda: "Sesungguhnya (nadzar) tidak akan menghasilkan suatu kebaikan, hanyasannya ia untuk mengeluarkan (harta) dari orang yang bakhil." Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Mufadlal]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Abdurrahman] dari [Sufyan] keduanya dari [Manshur] dengan sanad-sanad ini seperti haditsnya Jarir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4239</td></tr><tr><td>Arabic No</td><td>1639.03</td></tr><tr><td>Reference</td><td>Book 26 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4239</td></tr><tr><td>Arabic No</td><td>1639.03</td></tr><tr><td>Reference</td><td>Book 26 Hadith 5</td></tr></tbody></table></div>
 

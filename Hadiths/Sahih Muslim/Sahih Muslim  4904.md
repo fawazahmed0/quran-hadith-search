@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Sa'id Khudri that the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin 'Ulayyah] dari [Ali bin Mubarak] telah menceritakan kepada kami [Yahya bin Abu Katsir] telah menceritakan kepadaku [Abu Sa'id] bekas budak Al Mahri, dari [Abu Sa'id Al Khudri], bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengirim utusan Bani Lahyan dari suku Hudzail, lalu beliau bersabda: "Hendaknya setiap dua orang (dalam keluarga) keluar salah satunya, sedangkan pahala antara keduanya sama." Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Abdush Shamad] -yaitu Ibnu Abdul Warits- dia berkata; saya pernah mendengar [ayahku] berkata; telah menceritakan kepada kami [Al Husain] dari [Yahya] telah menceritakan kepadaku [Abu Sa'id] bekas budak Al Mahri, telah menceritakan kepadaku [Abu Sa'id Al Khudri], bahwa Rasulullah pernah mengirim suatu pasukan…, seperti makna hadits di atas." Dan telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami ['Ubaidullah] -yaitu Ibnu Musa- dari [Syaiban] dari [Yahya] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4904</td></tr><tr><td>Arabic No</td><td>1896.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4904</td></tr><tr><td>Arabic No</td><td>1896.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 200</td></tr></tbody></table></div>
 

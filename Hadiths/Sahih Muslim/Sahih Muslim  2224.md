@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Again Abu Zubair heard Jabir say that the Prophet (ﷺ) and his Companions kept 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] dari [Ibnu Juraij] ia berkata, telah mengabarkan kepadaku [Abu Zubair] bahwa ia mendengar [Jabir] berkata; Rasulullah shallallahu 'alaihi wasallam dan para sahabatnya berdiri ketika jenazah orang Yahudi (lewat di hadapan mereka) hingga jenazah itu berlalu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2224</td></tr><tr><td>Arabic No</td><td>960.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Джабир сказал: «(Однажды) Пророк ﷺ и его сподвижники встали (когда мимо них проносили) погребальные носилки с иудейкой, (и они не садились) до тех пор, пока (похоронная процессия) не скрылась (из виду)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2224</td></tr><tr><td>Arabic No</td><td>960.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 102</td></tr></tbody></table></div>
 

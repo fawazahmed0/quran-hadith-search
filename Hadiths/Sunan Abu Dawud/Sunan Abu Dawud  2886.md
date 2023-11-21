@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir:I fell ill, and the Prophet (ﷺ) and Abu Bakr came to me on foot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Sufyan], ia berkata; saya mendengar [Ibnu Al Munkadir], bahwa ia mendengar [Jabir] berkata; aku pernah sakit, kemudian Nabi shallallahu 'alaihi wasallam datang mengunjungiku bersama Abu Bakr dengan berjalan kaki, sementara aku dalam keadaan pingsan dan belum berbicara dengannya. Kemudian beliau berwudhu dan memercikkan air kepadaku hingga aku sadar. Lalu aku katakan; wahai Rasulullah, apa yang aku lakakukan pada hartaku sementara aku memiliki beberapa orang saudara wanita. Kemudian turunlah ayat mengenai warisan: "Mereka meminta fatwa kepadamu tentang kalalah (orang yang mati tidak meninggalkan ayah dan anak)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6723) Sahih Muslim (1616)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2886</td></tr><tr><td>Arabic No</td><td>2886</td></tr><tr><td>Reference</td><td>Book 19 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом: «Однажды я заболел, и Пророк ﷺ вместе с Абу Бакром пришли пешком, чтобы навестить меня. А я лежал без сознания и потому не мог разговаривать с ними. Тогда Посланник Аллаха ﷺ совершил омовение и вылил на меня воду, оставшуюся после омовения, и я пришёл в себя и спросил: “О Посланник Аллаха, как мне поступить со своим имуществом? У меня есть сёстры”. И тогда был ниспослан аят о наследовании: “Они просят тебя вынести решение. Скажи: “Аллах вынесет для вас решение относительно тех, кто не оставляет после себя родителей или детей…”” (сура 4 «ан-Ниса», аят 176)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6723) Sahih Muslim (1616)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2886</td></tr><tr><td>Arabic No</td><td>2886</td></tr><tr><td>Reference</td><td>Book 19 Hadith 2</td></tr></tbody></table></div>
 

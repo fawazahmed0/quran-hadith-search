@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa'id b. al-Mu'alla said that when he was praying the Prophet (ﷺ) passed b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami ['Ubaidullah bin Mu'adz], telah menceritakan kepada Kami [Khalid], telah menceritakan kepada Kami [Syu'bah] dari [Khubaib bin Abdurrahman] ia berkata; saya mendengar [Hafsh bin 'Ashim] menceritakan dari [Abu Sa'id bin Al Ma'alli] bahwa Nabi shallallahu 'alaihi wasallam melewatinya sementara ia sedang melakukan shalat, kemudian beliau memanggilnya. Ia berkata; aku melakukan shalat kemudian datang kepada beliau. Ia berkata; kemudian beliau berkata: "Apakah yang menghalangimu untuk menjawabku?" Ia berkata; saya sedang melakukan shalat. Beliau berkata; bukankah Allah 'azza wajalla berfirman: "Hai orang-orang yang beriman, penuhilah seruan Allah dan seruan Rasul apabila Rasul menyeru kamu kepada suatu yang memberi kehidupan kepada kamu?" Aku akan mengajarkan kepadamu surat Al Qur'an dalam Al Qur'an yang terbesar -Khalid merasa ragu- sebelum aku keluar dari Masjid?" Ia berkata; aku katakan; wahai Rasulullah, aku akan mendengar ucapanmu. Beliau bersabda: "Al Hamdulillahi rabbil 'aalamiin (Surat Al Fatihah), surat tersebut adalah As Sab'ul Matsaani (tujuh ayat yang dibaca berulang-ulang) yang telah diberikan kepadaku, dan Al Qur'an Al Azhiim (Al Qur'an yang agung)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4474)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1458</td></tr><tr><td>Arabic No</td><td>1458</td></tr><tr><td>Reference</td><td>Book 8 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида ибн аль-Му‘алля, да будет доволен им Аллах, что однажды, когда он молился в мечети, Пророк ﷺ проходил мимо него и позвал его. Он сказал: «Я совершил молитву, а потом пришёл к нему. Он спросил: “Что помешало тебе ответить мне?” Я сказал: “Я был занят молитвой” (Посланник Аллаха ﷺ) спросил: “Разве не сказал Всевышний Аллах: “Отвечайте (покорностью) Аллаху и Посланнику, когда он призывает вас к тому, что даст вам жизнь…” (сура “аль-Анфаль”, аят 24)? Поистине, я научу тебя величайшей суре из Корана (или: в Коране), прежде чем ты выйдешь из мечети”. Потом я спросил его: “О Посланник Аллаха! А как же твои слова?” Тогда он сказал: ““Хвала Аллаху, Господу миров…” это семь повторяемых, которые были дарованы мне, и великий Коран”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4474)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1458</td></tr><tr><td>Arabic No</td><td>1458</td></tr><tr><td>Reference</td><td>Book 8 Hadith 43</td></tr></tbody></table></div>
 

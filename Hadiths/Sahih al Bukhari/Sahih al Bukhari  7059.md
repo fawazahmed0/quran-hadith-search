@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab bint Jahsh:The Prophet (ﷺ) got up from his sleep with a flushe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kami [Ibnu 'Uyainah], bahwasanya ia mendengar [Az Zuhri] dari ['Urwah] dari [Zainab binti Ummu Salamah] dari [Ummu Habibah] dari [Zainab binti Jahsy] rdhiyallahu'anhuna, ia mengatakan; Nabi shallallahu 'alaihi wasallam bangun tidur dalam keadaan wajahnya memerah seraya mengucapkan: "laa-ilaaha-illallah, celaka bangsa arab karena keburukan yang telah dekat, hari ini telah dibuka benteng Ya'juj dan Ma'juj seperti ini" --Sedang Sufyan menyatakan secara pasti jumlahnya yaitu sembilan puluh atau seratus-maka beliau di tanya; 'Apakah kita juga akan binasa sedang diantara kita masih ada orang-orang yang shalih? ' Nabi menjawab; "Iya, jika kejahatan telah mewabah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7059</td></tr><tr><td>Arabic No</td><td>7059</td></tr><tr><td>Reference</td><td>Book 92 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зайнаб бинт Джахш, да будет доволен ею Аллах, передаёт, что однажды Пророк ﷺ проснулся ото сна с покрасневшим лицом и воскликнул: «Нет бога, достойного поклонения, кроме Аллаха! Горе арабам от зла, которое уже близко! Сегодня в стене Яджуджа и Маджуджа было проделано вот такое отверстие!», — Тут Суфьян (ибн ‘Уеййна) соединил пальцы в форме числа девяносто или сто. (Пророка ﷺ) спросили: «Так неужели погибнем и мы, несмотря на то что среди нас будут праведники?» Он сказал: «Да, если пороки умножатся!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7059</td></tr><tr><td>Arabic No</td><td>7059</td></tr><tr><td>Reference</td><td>Book 92 Hadith 11</td></tr></tbody></table></div>
 

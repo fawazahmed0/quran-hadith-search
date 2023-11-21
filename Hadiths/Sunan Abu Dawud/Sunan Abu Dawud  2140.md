@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qays ibn Sa'd: I went to al-Hirah and saw them (the people) prostrating
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin 'Aun], telah mengabarkan kepada kami [Ishaq bin Yusuf] dari [Syarik], dari [Hushain], dari [Asy Sya'bi] dari [Qais bin Sa'd], ia berkata; aku datang ke Al Hirah (negeri lama yang berada di Kufah), maka aku melihat mereka bersujud kepada penunggang kuda mereka yang pemberani. Lalu aku katakan; Rasulullah shallallahu 'alaihi wasallam lebih berhak untuk dilakukan sujud kepadanya. Qais bin Sa'd berkata; kemudian aku datang kepada Nabi shallallahu 'alaihi wasallam dan aku katakan; sesungguhnya aku datang ke Al Hirah dan aku melihat mereka bersujud kepada penunggang kuda mereka yang pemberani. Engkau wahai Rasulullah, lebih berhak untuk kami bersujud kepadamu. Beliau berkata: "Bagaimana pendapatmu, seandainya engkau melewati kuburanku, apakah engkau akan bersujud kepadanya?" Qais bin Sa'd berkata; aku katakan; tidak. Beliau bersabda: "Jangan kalian lakukan, seandainya aku boleh memerintahkan seseorang untuk bersujud kepada seseorang, niscaya aku perintahkan para wanita agar bersujud kepada suami-suami mereka, karena hak yang telah Allah berikan atas mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2140</td></tr><tr><td>Arabic No</td><td>2140</td></tr><tr><td>Reference</td><td>Book 12 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Кайса ибн Са‘да: «Я прибыл в Хиру и увидел, что местные жители совершают земной поклон марзубану. И я подумал, что Посланник Аллаха ﷺ более заслуживает того, чтобы падать ниц перед ним. Я отправился к Пророку ﷺ и сказал: “Я был в Хире и видел, как люди там совершают земной поклон марзубану. А ты, о Посланник Аллаха, больше заслуживаешь того, чтобы падать ниц пред тобою”. Он спросил: “Если бы ты прошёл мимо моей могилы, ты бы совершил земной поклон ей?” Я ответил: “Нет”. (Посланник Аллаха ﷺ) сказал: “Не делайте этого (и при моей жизни)… Если бы я мог повелеть кому-то из людей совершить земной поклон перед другим, то велел бы жёнам падать ниц перед мужьями из-за права на них, которое дал им Аллах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2140</td></tr><tr><td>Arabic No</td><td>2140</td></tr><tr><td>Reference</td><td>Book 12 Hadith 95</td></tr></tbody></table></div>
 

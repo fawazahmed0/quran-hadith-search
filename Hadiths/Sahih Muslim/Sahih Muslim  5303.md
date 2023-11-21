@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:I heard Allah's Apostle (ﷺ) as saying: The Satan is present wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah]; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] ia berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya setan akan mendatangi salah seorang diantara kalian setiap saat, hingga dalam masalah makan. Apabila suapan makanan salah seorang diantara kalian jatuh, ambillah kembali lalu buang bagian yang kotor dan makanlah bagian yang bersih. Jangan dibiarkannya dimakan setan, apabila telah selesai hendaklah dia jilati jari-jemarinya. Karena dia tidak tahu makanan mana yang membawa berkah." Telah menceritakannya pula kepada kami [Abu Kuraib] dan [Ishaq bin Ibrahim] -secara keseluruhan- dari [Abu Mu'awiyah] dari [Al A'masy] dengan sanad ini, namun mereka tidak menyebutkan redaksi awal Hadits yang berbunyi; 'Sesungguhnya setan akan mendatangi salah seorang diantara kalian…" dst. Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Al 'Amasy] dari [Abu Shalih] dan [Abu Sufyan] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam-mengenai menjilati jari-. Dan dari Abu Sufyan dari Jabir dari Nabi dengan menyebutkan -suapan- sebagaimana Hadist di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5303</td></tr><tr><td>Arabic No</td><td>2033.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Я слышал, как Пророк ﷺ говорил: “Поистине, шайтан находится рядом с каждым из вас, что бы он ни делал, не покидая (человека) даже во время еды. И если кто-нибудь из вас уронит кусок, пусть уберёт то, что к нему пристанет, и съест его, не оставляя его шайтану. Когда же он закончит (есть), пусть оближет пальцы рук, ибо, поистине, не знает он, в каком (куске) его пищи (скрыта) благодать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5303</td></tr><tr><td>Arabic No</td><td>2033.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 177</td></tr></tbody></table></div>
 

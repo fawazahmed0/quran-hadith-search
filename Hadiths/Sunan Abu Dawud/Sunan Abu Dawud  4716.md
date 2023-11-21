@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Explaining the tradition “Every child is a born on Islam”, Hammad b. Salamah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al hasan bin Ali] berkata, telah menceritakan kepada kami [Hajjaj Ibnul Minhal] ia berkata; Aku mendengar [Hammad bin Salamah] mentafsirkan hadits, 'Setiap bayi dilahirkan dalam keadaan fitrah', ia berkata, "Menurut kami, ini adalah perjanjian yang Allah ambil saat mereka masih berada di tulang sulbi bapak-bapak mereka. Yaitu saat Allah berfirman: '(Bukankah Aku Tuhanmu, mereka menjawab, "Betul, (Engkau Tuhan kami)." -Qs. Al A'raf:
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4716</td></tr><tr><td>Arabic No</td><td>4716</td></tr><tr><td>Reference</td><td>Book 42 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хаммад ибн Саляма сказал, толкуя хадис «Каждый человек рождается в своём естественном состоянии…»: «Это когда Аллах заключил завет с потомками Адама, которые тогда ещё были в поясницах своих отцов. Всевышний Аллах сказал: “Разве Я не ваш Господь?” Они ответили: “Да, это так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4716</td></tr><tr><td>Arabic No</td><td>4716</td></tr><tr><td>Reference</td><td>Book 42 Hadith 121</td></tr></tbody></table></div>
 

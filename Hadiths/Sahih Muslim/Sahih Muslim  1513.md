@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), le Prophète (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Barrad Al Asy'ari] dan [Abu Kuraib], keduanya berkata; telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia paling besar pahalanya dalam shalat adalah yang paling jauh perjalannya, lalu yang selanjutnya, dan seseorang yang menunggu shalat hingga melakukannya bersama imam, lebih besar pahalanya daripada yang melakukannya kemudian tidur." Dan dalam suatu periwayatan Abu Kuraib disebutkan; "Hingga ia tunaikan shalat bersama imam secara berjama'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1513</td></tr><tr><td>Arabic No</td><td>662</td></tr><tr><td>Reference</td><td>Book 5 Hadith 346</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мусы, что Посланник Аллаха ﷺ сказал: “Поистине, наиболее великую награду за (коллективную) молитву получает тот, кто проходит наибольшее расстояние (от дома до мечети). А тот, кто ожидает (наступления) молитвы, чтобы совершить её вместе с имамом, получит более великую награду, чем тот, кто совершает её (один), а затем засыпает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1513</td></tr><tr><td>Arabic No</td><td>662</td></tr><tr><td>Reference</td><td>Book 5 Hadith 346</td></tr></tbody></table></div>
 

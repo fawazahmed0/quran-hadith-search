@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "Whoever manumits his share of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Isma'il] dari [Abu Umamah] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang membebaskan hak kepemilikan budak yang dimiliki secara berserikat, maka wajib baginya membebaskan semuanya jika dia memiliki uang sebanyak jumlah harga budaknya. Jika dia tidak memiliki harta, maka budak ditaksir secara adil, sehingga yang telah dibebaskannya telah bebas ". Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyir] dari ['Ubaidullah]: yang ia meringkasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>2523</td></tr><tr><td>Reference</td><td>Book 49 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто освободил свою долю раба, тот должен освободить его полностью, если у него хватит на это средств. А если средств не хватит, то он должен оценить его, и он будет освобождённым лишь настолько, насколько его освободил (этот человек)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>2523</td></tr><tr><td>Reference</td><td>Book 49 Hadith 7</td></tr></tbody></table></div>
 

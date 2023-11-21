@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:A woman said, "O Allah's Messenger (ﷺ)! Shall I get something c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad] berkata, telah menceritakan kepada kami ['Abdul Wahid bin Aiman] dari [Bapaknya] dari [Jabir bin 'Abdullah], bahwa ada seorang wanita berkata, "Wahai Rasulullah, bolehkah aku buatkan sesuatu untuk Tuan, sehingga Tuan bisa duduk di atasnya? Karena aku punya seorang budak yang ahli dalam masalah pertukangan kayu." Beliau menjawab: "Silakan, kalau kamu mau." Maka wanita itu membuat sebuah mimbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>449</td></tr><tr><td>Arabic No</td><td>449</td></tr><tr><td>Reference</td><td>Book 8 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джабира (ибн ‘Абдуллах) о том, что (однажды) какая-то женщина сказала: «О Посланник Аллаха, не сделать ли мне для тебя кое-что, на чём будешь сидеть, ведь у меня есть раб-плотник?» (Пророк ﷺ) сказал: «Если хочешь!» И (по её велению) был изготовлен минбар
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>449</td></tr><tr><td>Arabic No</td><td>449</td></tr><tr><td>Reference</td><td>Book 8 Hadith 98</td></tr></tbody></table></div>
 

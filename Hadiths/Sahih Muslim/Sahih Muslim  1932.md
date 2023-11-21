@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha said that the Messenger of Allah (ﷺ) did not abandon observing two rak'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Hasan Al Hulwani] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [bapaknya] dari [Aisyah] bahwa ia berkata; "Rasulullah shallallahu 'alaihi wasallam tidak pernah meninggalkan dua raka'at sesudah Ashar." Thawus berkata; Aisyah berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kamu menunggu-nunggu waktu saat matahari terbit, dan jangan pula pada waktu matahari terbenam hingga kalian shalat pada waktu itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1932</td></tr><tr><td>Arabic No</td><td>833.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 360</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ никогда не упускал возможности совершить (дополнительную молитву в) два рак‘ата после (обязательной) послеполуденной молитвы». ‘Аиша также сказала: «Посланник Аллаха ﷺ сказал: “Не старайтесь совершать молитвы во время восхода солнца и во время его заката”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1932</td></tr><tr><td>Arabic No</td><td>833.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 360</td></tr></tbody></table></div>
 

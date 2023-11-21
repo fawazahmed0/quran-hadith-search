@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al-'As:I heard Allah's Messenger (ﷺ) saying, "
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abu Uwais] berkata, telah menceritakan kepadaku [Malik] dari [Hisyam bin 'Urwah] dari [bapaknya] dari [Abdullah bin 'Amru bin Al 'Ash] berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah tidaklah mencabut ilmu sekaligus mencabutnya dari hamba, akan tetapi Allah mencabut ilmu dengan cara mewafatkan para ulama hingga bila sudah tidak tersisa ulama maka manusia akan mengangkat pemimpin dari kalangan orang-orang bodoh, ketika mereka ditanya mereka berfatwa tanpa ilmu, mereka sesat dan menyesatkan". Berkata Al Firabri Telah menceritakan kepada kami 'Abbas berkata, Telah menceritakan kepada kami Qutaibah Telah menceritakan kepada kami Jarir dari Hisyam seperti ini juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>100</td></tr><tr><td>Arabic No</td><td>100</td></tr><tr><td>Reference</td><td>Book 3 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр ибн аль-‘Ас, да будет доволен Аллах ими обоими, сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Поистине, Аллах не забирает знание, (просто) лишая его (Своих) рабов, но Он забирает знание, забирая (из мира) знающих, когда же Он не оставит (в живых) ни одного обладающего знанием, люди станут избирать (для себя) невежественных руководителей. И им будут задавать вопросы, а они станут выносить решения, не обладая знанием, в результате чего сами собьются с пути и введут в заблуждение других!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>100</td></tr><tr><td>Arabic No</td><td>100</td></tr><tr><td>Reference</td><td>Book 3 Hadith 42</td></tr></tbody></table></div>
 

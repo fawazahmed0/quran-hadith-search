@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "Surely! Everyone of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] Telah menceritakan kepadaku [Malik] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] radliallahu 'anhuma, Rasulullah shallallahu 'alaihi wasallam bersabda: "ketahuilah Setiap kalian adalah pemimpin, dan setiap kalian akan dimintai pertanggungjawabannya atas yang di pimpin, penguasa yang memimpin rakyat banyak dia akan dimintai pertanggungjawaban atas yang dipimpinnya, setiap kepala keluarga adalah pemimpin anggota keluarganya dan dia dimintai pertanggungjawaban atas yang dipimpinnya, dan isteri pemimpin terhadap keluarga rumah suaminya dan juga anak-anaknya, dan dia akan dimintai pertanggungjawabannya terhadap mereka, dan budak seseorang juga pemimpin terhadap harta tuannya dan akan dimintai pertanggungjawaban terhadapnya, ketahuilah, setiap kalian adalah bertanggung jawab atas yang dipimpinnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7138</td></tr><tr><td>Arabic No</td><td>7138</td></tr><tr><td>Reference</td><td>Book 93 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал: «Поистине, каждый из вас является пастырем, и каждый из вас несёт ответственность за свою паству. Правитель, который (поставлен) над людьми, является пастырем (для своих подданных) и несёт ответственность за свою паству, мужчина является пастырем для своей семьи и несёт ответственность за свою паству, женщина является пастырем для семьи своего мужа и его детей и несёт ответственность за свою паству, раб человека является пастырем для имущества своего господина и несёт ответственность за свою паству, и так, каждый из вас является пастырем и (каждый из вас) несёт ответственность за свою паству»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7138</td></tr><tr><td>Arabic No</td><td>7138</td></tr><tr><td>Reference</td><td>Book 93 Hadith 2</td></tr></tbody></table></div>
 

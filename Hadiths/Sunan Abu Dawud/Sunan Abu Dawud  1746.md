@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah (may Allah be pleased with her) said :I still seem to see the glisteni
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Ash Shabbah Al Bazzaz], telah menceritakan kepada Kami [Isma'il bin Zakariya] dari [Al Hasan bin 'Ubaidullah] dari [Ibrahim] dari [Al Aswad] dari [Aisyah], ia berkata; seolah-olah aku melihat kilatan minyak wangi pada belahan rambut Rasulullah shallAllahu wa'alaihi wa sallam sementara beliau dalam keadaan berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>1746</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что она сказала: «Я и сейчас как будто вижу блеск благовоний на проборе Посланника Аллаха ﷺ облачённого в ихрам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>1746</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
 

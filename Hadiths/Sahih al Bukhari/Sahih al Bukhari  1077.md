@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rabi'a:'Umar bin Al-Khattab recited Surat-an-Nahl on a Friday on the pu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] mengabarkan mereka katanya telah mengabarkan kepada saya [Abu Bakar bin Abu Mulaikah] dari ['Utsman bin 'Abdurrahman At-Taimiy] dari [Rabi'ah bin 'Abdullah Al Hudair At-Taimiy]. Berkata, Abu Bakar; "Rabi'ah adalah orang yang paling baik dalam mengisahkan segala hal yang berasal dari majelis ['Umar bin Al Khaththob radliallahu 'anhu], saat hari Jum'at, 'Umar bin Al Khaththab radliallahu 'anhu membaca surah An-Nahl dari atas mimbar hingga ketika sampai pada ayat sajadah, dia turun dari mimbar lalu melakukan sujud tilawah. Maka orang-orang pun turut melakukan sujud. Kemudian pada waktu shalat Jum'at berikutnya dia membaca surat yang sama hingga ketika sampai pada ayat sajadah dia berkata: "Wahai sekalian manusia, kita telah membaca dan melewati ayat sajadah. Maka barangsiapa yang sujud, benarlah dia. Namun yang tidak melakukan sujud tidak ada dosa baginya. Dan 'Umar bin Al Khaththab radliallahu 'anhu tidak melakukan sujud". [Nafi'] menambahkan dari [Ibnu 'Umar radliallahu 'anhuma]: "Allah subhanahu wata'ala tidaklah mewajibkan sujud tilawah. Kecuali siapa yang mau silakan melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1077</td></tr><tr><td>Arabic No</td><td>1077</td></tr><tr><td>Reference</td><td>Book 17 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Раби‘а, что (однажды) ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, читал суру «ан-Нахль» в пятницу на минбаре, и когда он дошел до аята «саджда», он сошел с минбара и совершил земной поклон, и люди тоже совершили земной поклон. В следующую пятницу он прочитал ту же суру и, дойдя до аята «саджда», сказал: «О люди! Когда мы читаем аяты «саджда», тот, кто совершает земной поклон, поступает правильно, но тот, кто не делает этого, нет на нем греха». И ‘Умар, да будет доволен им Аллах, не совершил земной поклон (в тот день). Ибн ‘Умар добавил: «Аллах не сделал совершение земного поклона обязательным, но, если мы хотим, мы можем это сделать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1077</td></tr><tr><td>Arabic No</td><td>1077</td></tr><tr><td>Reference</td><td>Book 17 Hadith 11</td></tr></tbody></table></div>
 

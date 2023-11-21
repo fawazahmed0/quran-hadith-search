@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Mas'ud al-Ansari who said:A man cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] dan [Ibnu Abu Umar] dan ini adalah lafadz Abu Kuraib, mereka berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu 'Amru As Syaibani] dari [Abu Mas'ud Al Anshari] dia berkata, "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam seraya berkata, "Wahai Rasulullah, jalan kami telah terputus karena hewan tungganganku telah mati, oleh karena itu bawalah saya dengan hewan tunggangan yang lain." Maka beliau bersabda: "Saya tidak memiliki (hewan tunggangan yang lain)." Tiba-tiba ada seorang laki-laki yang berkata, "Wahai Rasulullah, saya dapat menunjukkan seseorang yang dapat membawanya (memperoleh penggantinya)." Maka beliau bersabda: "Barangsiapa dapat menunjukkan suatu kebaikan, maka dia akan mendapatkan pahala seperti orang yang melakukannya." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Bisyr bin Khalid] telah mengabarkan kepada kami [Muhammad bin Ja'far] dari [Syu'bah]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Sufyan] semuanya dari [Al A'masy] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4899</td></tr><tr><td>Arabic No</td><td>1893.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4899</td></tr><tr><td>Arabic No</td><td>1893.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 195</td></tr></tbody></table></div>
 

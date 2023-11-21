@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':I learnt, 'Glorify the Name of your Lord the Most High' (Surat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] Telah menceritakan kepada kami [Syu'bah] Telah memberitakan kepada kami [Abu Ishaq] bahwa ia mendengar [Al Bara' bin Azib] radliallahu 'anhu, ia berkata; Aku mempelajari surat, "SABBIHISMA RABBIKAL A'LAA.." sebelum kedatangan Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4995</td></tr><tr><td>Arabic No</td><td>4995</td></tr><tr><td>Reference</td><td>Book 66 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ’Азиб, да будет доволен им Аллах, сказал: «Я научился суре “Славь имя Господа твоего Высочайшего...” до того, как Пророк ﷺ прибыл (в Медину)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4995</td></tr><tr><td>Arabic No</td><td>4995</td></tr><tr><td>Reference</td><td>Book 66 Hadith 17</td></tr></tbody></table></div>
 

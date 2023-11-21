@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Dinar:I heard Ibn 'Umar saying, "The Prophet (ﷺ) arrived at 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makkiy bin Ibrahim] dari [Ibnu Juraij] berkata, telah mengabarkan kepada saya ['Amru bin Dinar] berkata: "Aku mendengar [Ibnu'Umar radliallahu 'anhuma] berkata: "Nabi Shallallahu'alaihiwasallam pernah datang ke Makkah untuk menunaikan haji lalu Beliau thawaf di Baitullah kemudian shalat dua raka'at lalu melakukan sa'iy antara bukit Shafa dan Marwah". Kemudian dia membaca firman Allah Ta'ala (QS al Ahzab ayat 21 yang artinya): ("Sungguh bagi kalian ada suri tauladan yang baik pada diri Rasulullah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1647</td></tr><tr><td>Arabic No</td><td>1647</td></tr><tr><td>Reference</td><td>Book 25 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Динар сказал: «Я слышал, как Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: “Прибыв в (Мекку), Пророк ﷺ совершил таваф вокруг Каабы, совершил молитву в два рак‘ата и пробежал между (холмами) ас-Сафа и аль-Марва”. После этого он (Ибн ‘Умар) прочитал: “В Посланнике Аллаха был прекрасный пример для вас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1647</td></tr><tr><td>Arabic No</td><td>1647</td></tr><tr><td>Reference</td><td>Book 25 Hadith 128</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(regarding the Verse) "And We granted the vision (Ascension 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Amru] dari [Ikrimah] dari [Ibnu 'Abbas] radliallahu 'anhuma, mengenai ayat; 'Dan tidaklah Kami jadikan mimpi yang Kami perlihatkan kepadamu selain sebagai cobaan bagi manusia', dia menuturkan; itu adalah mimpi sorotan mata jahat yang diperlihatkan kepada Rasulullah Shallallahu'alaihiwasallam ketika beliau diisra'kan ke baitul maqdis, dan dia mengatakan mengenai ayat; 'Dan pohon terlaknat dalam alquran' (QS. Al Isra-60), yaitu pohon zaqqum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6613</td></tr><tr><td>Arabic No</td><td>6613</td></tr><tr><td>Reference</td><td>Book 82 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, о словах Всевышнего «Мы сделали показанное тебе видение искушением для людей» сказал: «Это было (не сновидение, а) видение воочию того, что было показано Посланнику Аллаха ﷺ когда он был ночью перенесен в Иерусалим». (Ибн ‘Аббас относительно слов Всевышнего) «а также дерево, проклятое в Коране» сказал: «Это дерево Заккум»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6613</td></tr><tr><td>Arabic No</td><td>6613</td></tr><tr><td>Reference</td><td>Book 82 Hadith 19</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aswad reported:I and Masruq went to 'A'isha (Allah be pleased with her) and aske
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abu Ashim] ia berkata, saya mendengar [Ibnu Aun] dari [Ibrahim] dari [Al Aswad] ia berkata; Saya dan Masruq pernah menemui [Aisyah], kemudian kami pun bertanya kepadanya, "Apakah Rasulullah shallallahu 'alaihi wasallam pernah mencumbui isterinya saat beliau sedang berpuasa?" Aisyah menjawab, "Ya, akan tetapi beliau adalah seorang paling kuat menahan nafsunya di antara kalian -atau- beliau adalah seorang yang paling kuat menahan nafsunya dari kalian." Abu Ashim agak ragu. Dan telah menceritakannya kepadaku [Ya'qub Ad Dauraqi] telah menceritakan kepada kami [Isma'il] dari [Ibnu Aun] dari [Ibrahim] dari [Al Aswad] dan [Masruq] bahwa keduanya menemui Ummul Mukminin untuk bertanya. Maka beliau pun menyebutkan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2579</td></tr><tr><td>Arabic No</td><td>1106.07</td></tr><tr><td>Reference</td><td>Book 13 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2579</td></tr><tr><td>Arabic No</td><td>1106.07</td></tr><tr><td>Reference</td><td>Book 13 Hadith 85</td></tr></tbody></table></div>
 

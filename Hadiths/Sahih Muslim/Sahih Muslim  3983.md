@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:Allah's Messenger (ﷺ) heard the vo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [tidak hanya satu orang dari sahabat-sahabat kami] mereka berkata; telah menceritakan kepada kami [Isma'il bin Abi Uwais] telah menceritakan kepadaku [saudaraku] dari [Sulaiman] -yaitu Ibnu Bilal- dari [Yahya bin Sa'id] dari [Abu Ar Rijal Muhammad bin Abdurrahman] bahwa ibunya ['Amrah binti Abdurrahman] berkata; saya mendengar ['Aisyah] berkata, 'Rasulullah shallallahu 'alaihi wasallam pernah mendengar suara pertikaian didekat pintu rumahnya, suaranya keras sekali, ternyata salah satu dari mereka meminta keringanan atas hutangnya dan minta ditangguhkan. Namun dia (orang yang dihutangi) justru menjawab, "Demi Allah, saya tidak akan pernah melakukannya!" Mendengar itu, Rasulullah shallallahu 'alaihi wasallam segera keluar menemui mereka berdua seraya bersabda: "Siapa tadi yang bersumpah untuk tidak akan berbuat kebajikan?" laki-laki tersebut menjawab, "Saya wahai Rasulullah." Beliau bersabda: "Manakah (di antara keduanya) yang lebih patut dicintai?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3983</td></tr><tr><td>Arabic No</td><td>1557</td></tr><tr><td>Reference</td><td>Book 22 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3983</td></tr><tr><td>Arabic No</td><td>1557</td></tr><tr><td>Reference</td><td>Book 22 Hadith 22</td></tr></tbody></table></div>
 

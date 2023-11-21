@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported from Allah's Messenger (ﷺ) A hadith out of which one was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata; Inilah yang telah diceritakan oleh [Abu Hurairah] kepada kami. -lalu dia menyebutkan beberapa Hadits di antaranya, - Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang wanita masuk neraka karena seekor kucing yang ia ikat sehingga mati, ia tidak memberinya makan atau melepasnya sehingga bisa mencari makanan dari serangga bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6679</td></tr><tr><td>Arabic No</td><td>2619</td></tr><tr><td>Reference</td><td>Book 45 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6679</td></tr><tr><td>Arabic No</td><td>2619</td></tr><tr><td>Reference</td><td>Book 45 Hadith 176</td></tr></tbody></table></div>
 

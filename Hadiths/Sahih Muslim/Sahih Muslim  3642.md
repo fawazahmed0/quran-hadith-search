@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported:We were with Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdul A'la] telah menceritakan kepada kami [Al Mu'tamir] saya telah mendengar [ayahku] berkata; Telah menceritakan kepada kami [Abu Nadlrah] dari [Jabir bin Abdullah] dia berkata; Kami pernah bersama-sama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, ketika itu saya mengendarai unta yang biasa dipakai untuk menyirami tanaman, sedangkan beliau berada di kerumunan orang-orang banyak. Jabir berkata; Kemudian Rasulullah shallallahu 'alaihi wasallam memukulnya -atau Jabir berkata; Beliau sedikit menekannya dengan sesuatu yang beliau bawa. Jabir melanjutkan; Tidak disangka, ternyata unta tersebut dapat mendahului unta milik orang-orang, unta itu berontak dariku hingga saya menahannya kuat-kuat. Jabir berkata; Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Maukah kamu menjual untamu dengan ini dan ini? Semoga Allah mengampunimu." Jabir berkata; Saya menjawab; Unta itu saya berikan kepada Anda saja wahai Nabi Allah! Beliau bersabda: "Maukah kamu menjualnya dengan ini dan ini? Semoga Allah mengampunimu." Jabir berkata; Lalu saya menjawab; Unta itu saya berikan kepada Anda saja wahai Nabi Allah! Jabir berkata; Kemudian beliau bersabda kepadaku; "Apakah kamu telah menikah sepeninggal ayahmu?" Jabir berkata; Jawabku; Ya, saya telah menikah. Beliau bersabda: "Dengan janda atau gadis?" Jabir berkata; Saya menjawab; Janda. Beliau bersabda: "Kenapa kamu tidak menikah saja dengan seorang gadis, hingga ia dapat mencandaimu dan kamu dapat mencandainya, ia dapat mencumbumu dan kamu dapat mencumbunya?" Abu Nadlrah berkata; Itu adalah kalimat yang diucapkan oleh kaum Muslimin; Berbuatlah seperti ini dan ini, semoga Allah mengampunimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>715.10</td></tr><tr><td>Reference</td><td>Book 17 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>715.10</td></tr><tr><td>Reference</td><td>Book 17 Hadith 75</td></tr></tbody></table></div>
 

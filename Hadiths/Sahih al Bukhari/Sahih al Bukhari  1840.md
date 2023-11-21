@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Hunain:'Abdullah bin Al-Abbas and Al-Miswar bin Makhrama 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Zaid bin Aslam] dari [Ibrahim bin 'Abdullah bin Hunain] dari [bapaknya] bahwa 'Abdullah bin 'Abbas radliallahu 'anhu dan Al Miswar bin Makhramah berselisih pendapat ketika keduanya berada di Abwa'. 'Abdullah bin 'Abbas radliallahu 'anhu berkata; Orang yang sedang ihram membasuh kepalanya. Sedangkan Al Miswar berkata; Orang yang sedang ihram tidak boleh membasuh kepalanya. Maka 'Abdullah bin 'Abbas radliallahu 'anhu mengutusku untuk menemui [Abu Ayyub Al Anshariy]. Aku jumpai dia sedang mandi dibawah dua pohon dan dia berlindung dari balik kain. Maka aku memberi salam kepadanya. Dia bertanya: "Siapa ini?". Aku jawab: "Aku 'Abdullah bin Hunain, 'Abdullah bin 'Abbas radliallahu 'anhu mengutusku kepadamu untuk menanyakan bagaimana dahulu Rasulullah shallallahu 'alaihi wasallam membasuh kepala Beliau ketika Beliau sedang ihram?". Maka Abu Ayyub menyingkap kain penutup dengan tangannya sehingga kepalanya nampak olehku lalu dia berkata, kepada seseorang yang mengucurkan air kepadanya; "Kucurkanlah air itu". Maka orang itu mengucurkan air ke kepalanya lalu dia menggerak-gerakkan kepalanya dengan kedua tangannya lalu menarik tangannya kedepan ke belakang, lalu berkata: "Begitulah aku pernah melihat Nabi shallallahu 'alaihi wasallam melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1840</td></tr><tr><td>Arabic No</td><td>1840</td></tr><tr><td>Reference</td><td>Book 28 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин Хунайна, что (во время пребывания) в Абве ‘Абдуллах бин аль-‘Аббас и аль-Мисвар бин Махрама разошлись во мнении (по одному вопросу). ‘Абдуллах бин ‘Аббас говорил, что паломник, находящийся в состоянии ихрама, может мыть голову, тогда как аль-Мисвар утверждал обратное.\n(‘Абдуллах бин Хунайн сказал): «И ‘Абдуллах бин аль-‘Аббас послал меня к Абу Аййубу аль-Ансари, которого я нашёл совершающим большое омовение между столбами (колодца, где он находился), отгородившись (от других своей) одеждой. Я приветствовал его, а он спросил: “Кто это?” Я ответил: “Я, ‘Абдуллах бин Хунайн. ‘Абдуллах бин аль-‘Аббас послал меня к тебе, чтобы спросить о том, как Посланник Аллаха ﷺ мыл голову, находясь в состоянии ихрама”. (Услышав мои слова,) Абу Аййуб взялся рукой за одежду и опустил её вниз настолько, что мне стала видна его голова, после чего сказал человеку, лившему на него (воду): “Лей”, и тот стал лить воду ему на голову. Затем он принялся протирать голову руками, проводя ими назад и вперёд, а потом сказал: “Я видел, что так же поступал и (пророк) ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1840</td></tr><tr><td>Arabic No</td><td>1840</td></tr><tr><td>Reference</td><td>Book 28 Hadith 20</td></tr></tbody></table></div>
 

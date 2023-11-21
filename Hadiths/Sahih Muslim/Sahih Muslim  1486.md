@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:There came to the Messenger of Allah (ﷺ) a blind man and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ishaq bin Ibrahim] dan [Suwaid bin Sa'id] dan [Ya'kub Ad Dauraqi], semuanya dari [Marwan Al Fizari]. [Qutaibah] mengatakan; telah menceritakan kepada kami [Al Fizari] dari ['Ubaidullah bin Al Asham], dia berkata; telah menceritakan kepada kami [Yazid bin Al Asham] dari [Abu Hurairah] dia berkata; "Seorang buta (tuna netra) pernah menemui Nabi shallallahu 'alaihi wasallam dan berujar "Wahai Rasulullah, saya tidak memiliki seseorang yang akan menuntunku ke masjid." Lalu dia meminta keringanan kepada Rasulullah shallallahu 'alaihi wasallam untuk shalat di rumah. Ketika sahabat itu berpaling, beliau kembali bertanya: "Apakah engkau mendengar panggilan shalat (adzan)?" laki-laki itu menjawab; "Benar." Beliau bersabda: "Penuhilah seruan tersebut (hadiri jamaah shalat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1486</td></tr><tr><td>Arabic No</td><td>653</td></tr><tr><td>Reference</td><td>Book 5 Hadith 319</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «(Как-то раз) к Пророку ﷺ пришёл один слепец и сказал: “О Посланник Аллаха, у меня нет поводыря, который отводил бы меня в мечеть”, после чего попросил Посланника Аллаха ﷺ разрешить ему молиться дома. (Пророк ﷺ) дал ему разрешение (на это), а когда тот повернулся, (чтобы уйти), спросил (его): “Слышишь ли ты призыв на молитву?” (Слепец) ответил: “Да”, (и тогда Пророк ﷺ) сказал: “Так отвечай (на него)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1486</td></tr><tr><td>Arabic No</td><td>653</td></tr><tr><td>Reference</td><td>Book 5 Hadith 319</td></tr></tbody></table></div>
 

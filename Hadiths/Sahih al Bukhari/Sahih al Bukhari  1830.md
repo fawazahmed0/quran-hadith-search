@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:While we were in the company of the Prophet (ﷺ) in a cave a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Umar bin Hafsh bin Ghiyats] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] berkata, telah menceritakan kepada saya [Ibrahim] dari [Al Aswad] dari ['Abdullah radliallahu 'anhu] berkata: "Ketika kami sedang bersama Nabi shallallahu 'alaihi wasallam di dalam goa di Mina, wahyu turun kepada Beliau yaitu surat Wal mursalaat. Saat itu Beliau membacakannya, dan aku mengambil hafalan bacaan surah tersebut langsung dari gerak bibir (mulut) Beliau. Ketika mulut Beliau masih basah membacakan surah tersebut tiba-tiba ada seekor ular melompat kepada kami, maka Nabi shallallahu 'alaihi wasallam berkata: "Bunuhlah ular itu". Maka kami mengejar ular itu namun ular itu sudah pergi. Maka Nabi shallallahu 'alaihi wasallam berkata: "Ular itu telah lolos dari kejahatan kalian sebagaimana kalian sudah lolos dari kejahatannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1830</td></tr><tr><td>Arabic No</td><td>1830</td></tr><tr><td>Reference</td><td>Book 28 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Мас‘уд, да будет доволен им Аллах, сказал: «Когда мы находились с Пророком ﷺ в пещере в Мине, ему начали ниспосылаться (аяты, в которых говорилось): “Клянусь посылаемыми…”, и, поистине, он произносил (эти аяты), а я слышал их (непосредственно) из его уст. Вдруг на нас бросилась змея, и Пророк ﷺ велел: “Убейте её!” Мы кинулись к ней, но она уползла, и тогда Пророк ﷺ сказал: “Её защитили от вашего зла, как и вас защитили от её зла”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1830</td></tr><tr><td>Arabic No</td><td>1830</td></tr><tr><td>Reference</td><td>Book 28 Hadith 10</td></tr></tbody></table></div>
 

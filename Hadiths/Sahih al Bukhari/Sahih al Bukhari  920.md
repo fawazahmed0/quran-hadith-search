@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (p.b.u.h) used to deliver the Khutba while standi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin 'Umar Al Qawariri] berkata, telah menceritakan kepada kami [Khalid bin Al Harits] berkata, telah menceritakan kepada kami ['Ubaidullah bin 'Umar] dari [Nafi'] dari [Ibnu 'Umar] radliallahu 'anhuma, ia berkata, "Rasulullah shallallahu 'alaihi wasallam berkhuthbah sambil berdiri, kemudian duduk lalu berdiri kembali seperti yang kalian lakukan di zaman sekarang ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>920</td></tr><tr><td>Arabic No</td><td>920</td></tr><tr><td>Reference</td><td>Book 11 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ всегда произносил хутбу стоя, затем садился, а затем (снова) вставал, как ныне делаете это вы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>920</td></tr><tr><td>Arabic No</td><td>920</td></tr><tr><td>Reference</td><td>Book 11 Hadith 44</td></tr></tbody></table></div>
 

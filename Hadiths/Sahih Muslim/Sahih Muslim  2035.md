@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) used to recite in the daw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir] telah menceritakan kepada kami [Ibnu Wahb] dari [Ibrahim bin Sa'd] dari [bapaknya] dari [Al A'raj] dari [Abu Hurairah] bahwa dalam shalat Shubuh pada hari Jum'at biasanya Nabi shallallahu 'alaihi wasallam membaca "ALIF LAAM MIIM TANZIIL" (surat As Sajadah) pada raka'at pertama, dan pada raka'at kedua, "HAL ATAA 'ALAL INSAANI HIINUM MINAD DAHRI LAM YAKUN SYAI'AN MADZKUURAA." (surat Al Insan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>880.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что во время утренней молитвы в пятницу Пророк ﷺ обычно читал в первом рак‘ате “Алиф. Лям. Мим. Ниспослание…”, а во втором “Разве не прошло для человека то время, когда он был безвестен?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>880.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 85</td></tr></tbody></table></div>
 

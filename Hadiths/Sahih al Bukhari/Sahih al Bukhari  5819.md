@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) had forbidden: (A) the Mulamasa and Munab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Abdul Wahab] telah menceritakan kepada kami ['Ubaidullah] dari [Khubaib] dari [Hafsh bin 'Ashim] dari [Abu Hurairah] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam melarang (praktek jual beli) dengan system Mulamasah (wajib membeli jika ada pembeli yang menyentuh barang penjual) dan Munabadzah (wajib membeli jika ada penjual yang melempar dagangannya ke pembeli tanpa memeriksa terlebih dahulu), dan melarang shalat (sunnah) setelah subuh hingga matahari meninggi dan shalat setelah Ashar hingga matahari terbenam, dan melarang duduk ihtiba' (dengan menekuk kedua lututnya dan menempelkan ke dadanya) dengan mengenakan satu kain yang menengadahkan kemaluannya ke langit, dan melarang isytimalus shama' (seseorang berselimut dengan bajunya dan tidak memberikan celah sedikitpun, hingga jika tersingkap auratnya rawan terbuka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5819</td></tr><tr><td>Arabic No</td><td>5819</td></tr><tr><td>Reference</td><td>Book 77 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил сделки, совершаемые путём ощупывания /мулямаса/, и сделки, совершаемые путём бросания /мунабаза/. (И он запретил) два (вида) молитв: молиться после (совершения обязательной) утренней молитвы, пока не взойдёт солнце, а также после (совершения) послеполуденной молитвы /’аср/, пока солнце не исчезнет (за горизонтом). (И он запретил) сидеть на ягодицах, поднимая колени, которые он обхватывает руками, и оставляя неприкрытыми свои срамные части и закутываться в свою одежду наглухо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5819</td></tr><tr><td>Arabic No</td><td>5819</td></tr><tr><td>Reference</td><td>Book 77 Hadith 36</td></tr></tbody></table></div>
 

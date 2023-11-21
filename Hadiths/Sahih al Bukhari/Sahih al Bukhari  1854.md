@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Al-Fadl was riding behind the Prophet (ﷺ) and a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Ibnu Syihab] dari [Sulaiman bin Yasar] dari [Ibnu 'Abbas] dari [Al Fadhal bin 'Abbas radliallahu 'anhum] bahwa ada seorang wanita. Dan diriwayatkan pula oleh [Musa bin Isma'il] telah menceritakan kepada kami ['Abdul 'Aziz bin Abu Salamah] telah menceritakan kepada kami [Ibnu Syihab] dari [Sulaiman bin Yasar] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Ada seorang wanita dari suku Khats'am pada pelaksanaan Haji Wada' lalu berkata: "Wahai Rasulullah, kewajiban yang Allah tetapkan buat para hambaNya tentang haji sampai kepada bapakku ketika dia sudah berusia lanjut sehingga dia tidak mampu untuk menempuh perjalanannya, apakah terpenuhi kewajiban untuknya bila aku menghajikannya?. Beliau menjawab: "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1854</td></tr><tr><td>Arabic No</td><td>1854</td></tr><tr><td>Reference</td><td>Book 28 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «В год прощального хаджа, к Пророку ﷺ подошла какая-то женщина из племени хас‘ам, и сказала: “О Посланник Аллаха, Аллах обязал Своих рабов совершать хадж в то время, когда мой отец достиг уже глубокой старости и был не в состоянии твёрдо держаться в седле, так могу ли я совершить хадж за него?” Он ответил: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1854</td></tr><tr><td>Arabic No</td><td>1854</td></tr><tr><td>Reference</td><td>Book 28 Hadith 34</td></tr></tbody></table></div>
 

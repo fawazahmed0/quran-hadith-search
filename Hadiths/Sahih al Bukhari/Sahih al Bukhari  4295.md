@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Shuraih:Al-Adawi that he said to 'Amr bin Sa'id while the latter wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Syurahbil] Telah menceritakan kepada kami [Al Laits] dari [Al Maqburi] dari [Abu Syuraikh Al'Adawi], ia berkata kepada Amru bin Said yang ketika itu ia mengirim beberapa utusan ke Makkah; "Wahai Amir, izinkanlah aku mengajakmu bicara suatu hal yang akan diucapkan Rasulullah shallallahu 'alaihi wasallam besok pada penaklukan Makkah, yang kudengar dengan kedua telingaku dan diperhatikan oleh hatiku serta dilihat oleh kedua mataku ketika beliau mengucapkannya. Beliau memanjatkan pujian dan sanjungan kepada Allah lantas berujar: "Sesungguhnya Makkah telah Allah sucikan dan manusia tidak mensucikannya sebelumnya, tidak halal bagi seseorang yang beriman kepada Allah dan hari akhir untuk menumpahkan darah di sana, tidak pula menebang pohon, kalaulah seorang berkilah bahwa Rasulullah pernah memberi keringanan untuk perang, katakan padanya: 'Allah mengijznkan khusus untuk Rasul-Nya dan tidak mengizinkan untuk kalian, dan Allah pun mengizinkannya hanya beberapa saat ketika siang, dan kesuciannya telah kembali hari ini sebagaimana kesucian kemarin, hendaklah yang menyaksikan untuk menyampaikan yang tidak hadir." Ditanyakan kepada Abu Syuraikh; "Apa yang Amru ucapkan kepadamu? Jawabnya; "Aku lebih tahu terhadapnya wahai Abu Syuraikh, sesungguhnya tanah haram tidak akan melindungi pelaku kemaksiatan dan tidak pula manusia yang lari menumpahkan darah dan tidak pula yang lari melakukan penghancuran-penghancuran." Kata Abu Abdullah, makna Kharibah adalah bencana (kehancuran)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4295</td></tr><tr><td>Arabic No</td><td>4295</td></tr><tr><td>Reference</td><td>Book 64 Hadith 328</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида аль-Макбури, что Абу Шурейх аль-‘Адауи сказал ‘Амру ибн Са‘иду, когда тот послал войска в Мекку: «Разреши мне, о повелитель, рассказать тебе, что сказал Посланник Аллаха ﷺ на следующий день после завоевания Мекки. Я слышал эти слова своими ушами, усвоил их своим сердцем, и я видел его собственными глазами, когда он говорил это. (Сначала Пророк ﷺ) воздал Аллаху хвалу и восславил Его, а потом сказал: “Поистине, Мекку объявил запретной Аллах, а не люди, и поэтому непозволительно человеку, верующему в Аллаха и в Последний день, ни проливать в (этом городе) кровь, ни вырубать в нём деревья. Если же кто-нибудь посчитает это для себя допустимым (, ссылаясь на то, что) в Мекке сражался Посланник Аллаха ﷺ, скажите ему: “Поистине, Аллах разрешил это Своему посланнику, но не разрешал вам!” Да, и мне Он позволил делать это только в течение части этого дня, и сегодня она вновь стала такой же запретной, как и вчера, так пусть же присутствующий известит (об этом) отсутствующего!”». \nТогда Абу Шурейха спросили: «Что тебе ответил ‘Амр?» Он сказал: «Я лучше тебя знаю об этом, о Абу Шурейх. Поистине, Мекка не даёт защиту грешнику, убийце или вору»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4295</td></tr><tr><td>Arabic No</td><td>4295</td></tr><tr><td>Reference</td><td>Book 64 Hadith 328</td></tr></tbody></table></div>
 

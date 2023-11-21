@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Asma: Abdullah AbuUmar, client of Asma', daughter of AbuBakr, said: I s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isa bin Yunus] berkata, telah menceritakan kepada kami [Al Mughirah bin Ziyad] berkata, telah menceritakan kepada kami [Abdullah Abu Umar] mantan budak (yang telah dimerdekakan oleh) [Asma binti Abu Bakr], ia berkata, "Ibnu Umar membeli kain Syam yang padanya terdapat warna merah, lalu ia mengembalikannya. Maka aku mendatangi Asma dan aku ceritakan hal itu kepadanya. Asma lalu berkata, "Wahai jariah, bawalah kemari jubah (semacam selendang) Rasulullah shallallahu 'alaihi wasallam." Pembantu perempuan itu lalu mengeluarkan jubah tebal yang masing masing dari tepi kantong, dan kedua lengan baju, serta kedua tepi belahan bajunya dari jenis sutera
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4054</td></tr><tr><td>Arabic No</td><td>4054</td></tr><tr><td>Reference</td><td>Book 34 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха Абу ‘Умара, вольноотпущенника Асмы бинт Абу Бакр: «Однажды я видел, как Ибн ‘Умар купил на рынке одежду, привезённую из Шама, но потом увидел в ней красные нити (, которые могли быть шёлковыми) и вернул её продавцу. Придя домой, я рассказал обо всём Асме. Тогда она сказала: “О служанка! Достань мне джуббу Посланника Аллаха ﷺ”. И та достала джуббу, напоминающую зелёный плащ-тайлясан, рукава, ворот и полы которой были отделаны парчой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4054</td></tr><tr><td>Arabic No</td><td>4054</td></tr><tr><td>Reference</td><td>Book 34 Hadith 35</td></tr></tbody></table></div>
 

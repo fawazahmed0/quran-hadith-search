@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jarir reported:Since I embraced Islam Allah's Messenger (ﷺ) never refused to s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Waki'] dan [Abu Usamah] dari [Isma'il]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami ['Abdullah bin Idris]; Telah menceritakan kepada kami [Isma'il] dari [Qays] dari [Jarir] dia berkata; "Sejak saya masuk Islam, Rasulullah shallallahu 'alaihi wasallam tidak pernah menolak saya untuk bertamu dan berkunjung ke rumah beliau. Dan beliau selalu tersenyum kepadaku setiap kali melihat saya." Ibnu Numair menambahkan di dalam Haditsnya dari Ibnu Idris; Jarir berkata; 'Dan sungguh aku telah mengadukan kepadanya bahwa aku tidak bisa diam di atas kudaku. Lalu beliau memukul dadaku dengan tangannya seraya bersabda: "Ya Allah, kokohkanlah ia dan jadikanlah dia orang yang dapat memberi petunjuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6364</td></tr><tr><td>Arabic No</td><td>2475.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6364</td></tr><tr><td>Arabic No</td><td>2475.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 194</td></tr></tbody></table></div>
 

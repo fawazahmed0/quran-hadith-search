@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:'Ali bin Abu Talib came out of the house of Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4447</td></tr><tr><td>Arabic No</td><td>4447</td></tr><tr><td>Reference</td><td>Book 64 Hadith 467</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «После того как ‘Али ибн Аби Талиб, да будет доволен им Аллах, вышел от Посланника Аллаха ﷺ, болевшего той болезнью, от которой он умер, люди спросили: “О Абуль-Хасан, как чувствует себя этим утром Посланник Аллаха ﷺ?” Он ответил: “Хвала Аллаху, сегодня утром он поправился!” Тогда ‘Аббас ибн ‘Абдульмутталиб взял его за руку и сказал: “Клянусь Аллахом, через три (дня) ты будешь подчиняться уже другому, и, клянусь Аллахом, я думаю, что Посланник Аллаха ﷺ умрет от этой своей болезни, ибо я знаю, какими бывают лица потомков ‘Абдульмутталиба перед смертью! Пойдем же к Посланнику Аллаха ﷺ и спросим, кому достанется власть (после него). Если она будет принадлежать нам, мы узнаем об этом, и если она будет принадлежать другим, мы тоже узнаем об этом, а (Пророк ﷺ) сделает распоряжения о нас”. (На это) ‘Али сказал: “Клянусь Аллахом, если мы попросим (халифат) у Посланника Аллаха ﷺ, а он откажет нам, то после его (смерти) люди уже не отдадут его нам! И, клянусь Аллахом, я не стану просить об этом Посланника Аллаха ﷺ!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4447</td></tr><tr><td>Arabic No</td><td>4447</td></tr><tr><td>Reference</td><td>Book 64 Hadith 467</td></tr></tbody></table></div>
 

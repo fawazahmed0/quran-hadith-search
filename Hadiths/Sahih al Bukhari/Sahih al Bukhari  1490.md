@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:Once I gave a horse in Allah's Cause (in charity) but that person
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik bin Anas] dari [Zaid bin Aslam] dari [bapaknya] berkata; Aku mendengar ['Umar bin Al Khaththab radliallahu 'anhu] berkata,: "Aku memberi (sesorang) kuda yang aku biasa gunakan untuk berperang di jalan Allah lalu orang itu tidak memanfaatkan sebagaimana mestinya. Kemudian aku berniat membelinya kembali karena aku menganggap membelinya lagi adalah suatu hal yang (diringankan) dibolehkan. Lalu aku tanyakan hal ini kepada Nabi Shallallahu'alaihiwasallam, maka Beliau bersabda: "Jangan kamu membelinya dan jangan kamu mengambil kembali shadaqah (zakat) mu sekalipun orang itu menjualnya dengan harga satu dirham, karena orang yang mengambil kembali shadaqahnya seperti orang yang menjilat kembali ludahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 24 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар, да будет доволен им Аллах, сказал: «(В своё время) я отдал (одному человеку, намеревавшемуся принять участие в войне) на пути Аллаха, коня, однако он не следил за ним должным образом. Тогда я захотел купить (этого коня), решив, что он (согласится) продать его недорого. И я спросил совета у Пророка ﷺ который сказал: “Не покупай его и не бери назад свою садаку, даже если он отдаст её тебе за один дирхем, ибо берущий назад свою садаку подобен поедающему собственную блевотину!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 24 Hadith 90</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa Al-Bariqi:The Prophet (ﷺ) said, "Good will remain (as a permane
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Zakariya'] dari ['Amir] telah bercerita kepada kami ['Urwah Al Bariqiy] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Seekor kuda (yang digunakan untuk fii sabilillah) terikat pada ubun-ubunnya kebaikan hingga hari qiyamat, berupa kebaikan pahala dan ghonimah (harta rampasan perang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2852</td></tr><tr><td>Arabic No</td><td>2852</td></tr><tr><td>Reference</td><td>Book 56 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Урвы аль-Барики, да будет доволен им Аллах, что Пророк ﷺ сказал: «Благо /хайр/ останется в чёлках лошадей до самого Дня воскрешения, (ибо благодаря им людям достанется) награда (в мире вечном) и военная добыча (в земной жизни)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2852</td></tr><tr><td>Arabic No</td><td>2852</td></tr><tr><td>Reference</td><td>Book 56 Hadith 68</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) said, "The believers will be assembled on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Qatadah] dari [Anas] radliyallahu'anhu berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang-orang mukmin dikumpulkan pada hari kiamat dan berkata, 'Duh sekiranya kita bisa meminta syafaat untuk kami kepada tuhan kami, sehingga Allah bisa memberi kenyamanan bagi kami dari tempat kami ini.' Lantas mereka mendatangi Adam seraya berkata, 'Hai Adam, engkau adalah nenek moyang seluruh manusia, Allah telah menciptamu dengan tangan-Nya, Allah telah menyuruh para malaikat untuk sujud kepadamu, dan Dia mengajarimu nama-nama segala sesuatu, maka mintalah syafaat untuk kami kepada Tuhan kami sehingga Allah bisa memberi kenyamanan bagi kami.' Maka Adam berkata, 'Aku tidak berhak melakukan itu untuk kalian, ' lantas Adam menceritakan kesalahan yang pernah dilakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7516</td></tr><tr><td>Arabic No</td><td>7516</td></tr><tr><td>Reference</td><td>Book 97 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Соберёт Аллах всех верующих в День воскресения и они скажут: “Вот бы нам найти кого-нибудь, кто походатайствовал бы за нас перед нашим Господом, чтобы Он избавил нас от стояния в этом месте!” Тогда они пойдут к Адаму и скажут ему: “Ты — Адам, отец всех людей, Аллах создал тебя рукой Своей, склонил перед тобой в земном поклоне ангелов и научил тебя всевозможным именам. Заступись же за нас пред нашим Господом, чтобы Он избавил нас от стояния в этом месте!” Однако Адам скажет им: “Я не тот, кто вам нужен”. И он упомянет им о своём грехе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7516</td></tr><tr><td>Arabic No</td><td>7516</td></tr><tr><td>Reference</td><td>Book 97 Hadith 141</td></tr></tbody></table></div>
 

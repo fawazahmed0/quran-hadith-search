@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:That the mother of Sa'd bin Ubada the brother of Bani Saida 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] mengabarkan kepada mereka, dia berkata telah bercerita kepadaku [Ya'laa] bahwa dia mendengar ['Ikrimah. Maula Ibnu 'Abbas] berkata telah memberitakan kepada kami [Ibnu 'Abbas] bahwa Sa'ad bin 'Ubadah radliallahu 'anhum, saudara dari Bani Sa'idah, bahwa ibunya telah meninggal dunia lalu dia datang menemui Nabi shallallahu 'alaihi wasallam seraya berkata: "Wahai Rasulullah, sesungguhnya ibuku meninggal dunia sedang saat itu aku tidak ada di sisinya. Apakah akan bermanfaat baginya bila aku menshadaqahkan sesuatu untuknya?" Beliau bersabda: "Ya". Dia berkata: "Aku bersaksi kepada Tuan bahwa kebunku yang penuh dengan bebuahannya ini aku shadaqahkan atas (nama) nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2762</td></tr><tr><td>Arabic No</td><td>2762</td></tr><tr><td>Reference</td><td>Book 55 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что когда мать Са‘да ибн ‘Убады, да будет доволен им Аллах, умерла в его отсутствие, он пришёл к Пророку ﷺ и сказал: «О Посланник Аллаха, поистине, в моё отсутствие умерла моя мать. Принесёт ли ей пользу милостыня, которую я подам от её имени?» (Посланник Аллаха ﷺ) сказал: «Да». Тогда Са‘д сказал: «Я беру тебя в свидетели того, что отдаю свой сад под названием аль-Михраф в качестве милостыни от имени моей матери»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2762</td></tr><tr><td>Arabic No</td><td>2762</td></tr><tr><td>Reference</td><td>Book 55 Hadith 25</td></tr></tbody></table></div>
 

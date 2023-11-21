@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:I have never heard the Prophet (ﷺ) mentioning his father and mot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yasharah bin Shafwan] telah menceritakan kepada kami [Ibrahim] dari [Ayahnya] dari [Abdullah bin Syaddad] dari [Ali] radliallahu 'anhu, dia berkata, "Aku belum pernah mendengar Nabi shallallahu 'alaihi wasallam menyertakan kedua orangtua beliau sebagai tebusan kepada seseorang selain Sa'd bin Malik, sesungguhnya aku pernah mendengar beliau bersabda pada perang Uhud: "Wahai Sa'd, lemparlah demi ayah dan ibuku sebagai tebusanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4059</td></tr><tr><td>Arabic No</td><td>4059</td></tr><tr><td>Reference</td><td>Book 64 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Я не слышал, чтобы ради кого-нибудь Пророк ﷺ упомянул своих обоих родителей, кроме Са‘да ибн Малика. Я слышал, как он говорил в день битвы при Ухуде: “О Са’д, стреляй, да станут мои отец и мать выкупом за тебя!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4059</td></tr><tr><td>Arabic No</td><td>4059</td></tr><tr><td>Reference</td><td>Book 64 Hadith 105</td></tr></tbody></table></div>
 

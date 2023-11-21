@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Dawud ibn Salih ibn Dinar at-Tammar quoted his m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Abdul Aziz] dari [Dawud bin Shalih bin Dinar At Tammar] dari [Ibunya], bahwasanya tuan wanitanya memerintahkan kepadanya untuk membawa kue (terbuat dari tepung gandum) kepada Aisyah radliallahu 'anha, namun dia mendapati Aisyah sedang shalat, maka Aisyah memberikan isyarat kepadanya untuk meletakkan apa yang dia bawa. Lalu seekor kucing datang dan langsung memakan sesuatu darinya. Setelah [Aisyah] selesai shalat, dia memakan dari bagian yang dimakan oleh kucing tersebut seraya berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya kucing tidaklah najis, ia di antara binatang yang selalu mengelilingi kalian." Dan aku pernah melihat Rasulullah shallallahu 'alaihi wasallam berwudhu dengan air sisa jilatan kucing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Arabic No</td><td>76</td></tr><tr><td>Reference</td><td>Book 1 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Дауд ибн Салих ибн Динар ат-Тaммар передал со слов своей матери о том, что однажды её госпожа отправила её с некоторым количеством харисы к ‘Аише, да будет доволен ею Аллах, и она нашла её совершающей молитву. Она жестом указала мне, чтобы я поставила (то, что я принесла). Вдруг подошла кошка и начала есть из неё. Когда она закончила свою молитву, то поела с того места, откуда ела кошка и (затем) сказала: «Поистине, Посланник Аллаха ﷺ сказал: “Поистине, она не является нечистой, и они из тех, кто вращаются вокруг вас”. И я видела, как Посланник Аллаха ﷺ совершил омовение (водой), которая осталась после неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Arabic No</td><td>76</td></tr><tr><td>Reference</td><td>Book 1 Hadith 76</td></tr></tbody></table></div>
 

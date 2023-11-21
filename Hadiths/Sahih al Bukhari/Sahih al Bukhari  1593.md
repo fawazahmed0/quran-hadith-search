@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said "The people will continue pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Ibrahim] dari [Al Hajjaj bin Hajjaj] dari [Qatadah] dari ['Abdullah bin Abu 'Utbah] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh pasti akan ada yang berhajji dan 'umrah ke Baitulloh (Ka'bah) setelah keluarnya Ya'juj dan Ma'juj". Hadits ini dikuatkan oleh [Aban] dan ['Imran] dari [Qatadah] dan berkata, ['Abdurrahman] dari [Syu'bah] berkata: "Tidak akan terjadi hari qiyamat hingga tidak ada yang berhajji ke Baitulloh (Ka'bah) ". Redaksi hadits yang pertama yang lebih banyak didengar oleh Qatadah dari 'Abdullah dan 'Abdullah mendengarnya dari Abu Sa'id Al Khudriy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1593</td></tr><tr><td>Arabic No</td><td>1593</td></tr><tr><td>Reference</td><td>Book 25 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Люди) непременно будут (продолжать) совершать хадж и умру к Дому и после выхода (из-за стены) Йаджуджа и Маджуджа».\nПеревод не до конца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1593</td></tr><tr><td>Arabic No</td><td>1593</td></tr><tr><td>Reference</td><td>Book 25 Hadith 79</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) has cursed the lady who lengthens hair arti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] dia berkata; Nabi shallallahu 'alaihi wasallam melaknat orang yang menyambung rambutnya dan yang minta disambung rambutnya serta orang yang mentato dan yang minta ditato
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5947</td></tr><tr><td>Arabic No</td><td>5947</td></tr><tr><td>Reference</td><td>Book 77 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Пророк ﷺ проклял подвязывающую (к волосам другие) волосы, и ту, что просит подвязать их ей, и наносящую татуировку, и ту, что просит сделать ей это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5947</td></tr><tr><td>Arabic No</td><td>5947</td></tr><tr><td>Reference</td><td>Book 77 Hadith 163</td></tr></tbody></table></div>
 

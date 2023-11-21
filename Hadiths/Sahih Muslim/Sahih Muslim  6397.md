@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-A'raj reported that he heard Abu Huraira as saying:You are under the impressi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] seluruhnya dari [Sufyan] dia berkata; [Zuhair] Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Al A'raj] dia berkata; aku mendengar [Abu Hurairah] berkata; "Kalian mengira bahwa Abu Hurairah adalah orang yang paling banyak meriwayatkan hadits dari Rasulullah Shallallahu 'alaihi wa Salam, dan Allahlah Dzat yang Maha menepati janji. Dulu aku adalah orang yang miskin yang selalu membantu Rasulullah Shallallahu 'alaihi wa Salam yang makan sekedar makanan pokok saja, sedangkan orang-orang muhajirin disibukkan dengan perniagaan di pasar-pasar, dan orang-orang anshar disibukkan dengan harta benda mereka, lalu Nabi Shallallahu 'alaihi wa Salam bersabda: "Siapa yang mau membentangkan bajunya maka dia tidak akan pernah lupa terhadap apa yang ia dengar dariku?" Maka aku pun membentangkan bajuku hingga beliau selesai mengucapkan sabda-sabdanya lalu aku menempelkan bajuku ketubuhku. Setelah itu aku tidak pernah lupa akan hadits-hadits yang aku dengar dari beliau." Telah menceritakan kepadaku ['Abdullah bin Ja'far bin Yahya bin Khalid]; Telah mengabarkan kepada kami [Ma'an]; Telah mengabarkan kepada kami [Malik]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] seluruhnya dari [Az Zuhri] dari [Al A'raj] dari [Abu Hurairah] dengan Hadits ini. Namun Malik menyebutkan Hadits tersebut hanya sampai perkataan Abu Hurairah saja. Tanpa menyebutkan Hadits dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6397</td></tr><tr><td>Arabic No</td><td>2492.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6397</td></tr><tr><td>Arabic No</td><td>2492.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 227</td></tr></tbody></table></div>
 

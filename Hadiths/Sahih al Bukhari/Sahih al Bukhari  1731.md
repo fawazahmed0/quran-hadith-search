@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Prophet (ﷺ) came to Mecca, he ordered his Compani
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar'] telah menceritakan kepada kami [Fudhail bin Sulaiman] telah menceritakan kepada kami [Musa bin 'Uqbah] telah mengabarkan kepada saya [Kuraib] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Ketika Nabi shallallahu 'alaihi wasallam tiba di Makkah Beliau memerintahkan para sahabat Beliau agar thawaf di Ka'bah Baitullah dan sa'iy di bulkit Shafaa dan Marwah kemudian agar mereka bertahallul lalu mencukur rambut mereka atau memendekkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1731</td></tr><tr><td>Arabic No</td><td>1731</td></tr><tr><td>Reference</td><td>Book 25 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Прибыв в Мекку, Пророк ﷺ приказал своим сподвижникам совершить таваф вокруг Каабы и бег между ас-Сафа и аль-Марва, затем выйти из ихрама и побриться или постричься»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1731</td></tr><tr><td>Arabic No</td><td>1731</td></tr><tr><td>Reference</td><td>Book 25 Hadith 209</td></tr></tbody></table></div>
 

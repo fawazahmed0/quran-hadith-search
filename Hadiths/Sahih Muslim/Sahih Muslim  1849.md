@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Allah has not heard anyth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hakam bin Musa] telah menceritakan kepada kami [Hiql] dari [Al Auza'i] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah tidak menaruh perhatian terhadap sesuatu pun seperti perhatianNya terhadap Nabi saat melagukan Al Qur'an dengan menyaringkan suaranya." Dan telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ibnu Hujr] mereka berkata, telah menceritakan kepada kami [Isma'il] ia adalah Ibnu Ja'far, dari [Muhammad bin Amru] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti haditsnya Yahya bin Abu Katsir. Hanya saja Ayyub mengatakan dalam riwayatnya, "Seperti perhatianNya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1849</td></tr><tr><td>Arabic No</td><td>793.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 277</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Аллах ничему не внимает так, как внимает Он (чтению) пророка, вслух читающего Коран нараспев»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1849</td></tr><tr><td>Arabic No</td><td>793.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 277</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:(the wife of the Prophet) Allah's Messenger (ﷺ) and Abu Bakr hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] berkata, [Ibnu Syihab] telah mengabarkan kepada saya ['Urwah bin Az Zubair] bahwa ['Aisyah radliallahu 'anha] isteri Nabi shallallahu 'alaihi wasallam berkata: Rasulullah shallallahu 'alaihi wasallam dan Abu Bakar menyewa seorang dari suku Ad-Dil sebagai petunjuk jalan yang dipercaya yang orang itu masih memeluk agama kafir Quraisy. Maka keduanya mempercayakan kepadanya perjalanan keduanya lalu keduanya meminta kepadanya untuk singgah di gua Tsur setelah perjalanan tiga malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2264</td></tr><tr><td>Arabic No</td><td>2264</td></tr><tr><td>Reference</td><td>Book 37 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что ‘Аиша, да будет доволен ею Аллах, жена Пророка ﷺ сказала: «Посланник Аллаха ﷺ и Абу Бакр наняли человека из племени бану ад-диль в качестве проводника, в то время как он был на религии курайшитских язычников. Они отдали ему своих верблюдиц, взяв с него обещание привести их к пещере на горе Саур через три дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2264</td></tr><tr><td>Arabic No</td><td>2264</td></tr><tr><td>Reference</td><td>Book 37 Hadith 5</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:(The Prophet) Solomon said, "Tonight I will sleep with (my)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Hisyam bin Hujair] dari [Thawus] ia mendengar [Abu Hurairah] menuturkan; 'Sulaiman berkata; 'Aku akan menggilir Sembilan puluh Sembilan isteriku semalaman, yang kesemuanya akan melahirkan anak laki-laki yang berperang fii sabiilillah.' Maka seorang kawannya berujar kepadanya -Sufyan menyatakan bahwa kawannya bernama Malak-; 'Ucapkan insyaa-allah! ' Namun Sulaiman melupakan nasehat ini, sehingga Sulaiman menggilir kesembilan puluh Sembilan isterinya namun tak seorangpun melahirkan anak selain hanya seorang, itupun melahirkan setengah bayi.' Abu Hurairah mengatakan ketika meriwayatkannya; 'Kalaulah Sulaiman mengucapkan; insyaa-allah, niscaya tercapailah keinginanya dan terwujud impiannya.' Sedang pada kesempatan lain Abu Hurairah mengatakan dengan redaksi; Rasulullah Shallallahu'alaihiwasallam bersabda: "lau istatsna (Sekiranya Sulaiman mengucapkan insyaa-Allah)." Dan telah menceritakan kepada kami [Abu Az Zanad] dari [Al A'raj] semisal hadits Abu Hurairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6720</td></tr><tr><td>Arabic No</td><td>6720</td></tr><tr><td>Reference</td><td>Book 84 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра рассказывал: «Однажды Сулейман сказал: “Этой ночью я обязательно обойду девяносто (своих) жён, и каждая из них родит мне сына, который будет сражаться на пути Аллаха”. Тогда ангел сказал ему: “(Скажи:) Если пожелает Аллах /Ин шааъа-Ллах/”, но он запамятовал (и не произнёс этого). Он обошёл своих женщин, но только одна из них родила ему половину человека. Пророк ﷺ сказал: “Если бы он сказал: “Если так будет угодно Аллаху”, — то не нарушил бы клятвы, и шансов на исполнение его желания было бы больше”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6720</td></tr><tr><td>Arabic No</td><td>6720</td></tr><tr><td>Reference</td><td>Book 84 Hadith 13</td></tr></tbody></table></div>
 

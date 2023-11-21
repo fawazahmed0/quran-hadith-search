@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A bedouin came to Allah's Messenger (ﷺ) and said, "My wif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Asbagh bin Al Faraj] telah menceritakan kepadaku [Ibn Wahb] dari [Yunus] dari [Ibn Syihab] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah], bahwa ada seorang laki-laki arab badui (nomade, primitive) mendatagi Rasulullah shallallahu 'alaihi wasallam dan berujar, "Isteriku melahirkan bayi hitam pekat dan aku memungkirinya." Maka Rasulullah shallallahu 'alaihi wasallam bertanya: "Bukankah engkau juga mempunyai unta?" Ia menjawab, "Benar." Nabi bertanya lagi: "Lalu, apa warnanya? ' Ia menjawab, "Merah." Nabi bertanya lagi: "Bukankah di sana juga ada belang kecoklatan?" Si arab badui menjawab, "Betul, di sana ada belang warna coklat." Nabi bertanya lagi: "Lantas dari mana warna itu datang?" Si arab badui menjawab, "Boleh jadi akar keturunan yang menurunkan warna itu, dan tidak memberi ruang untuk meniadakannya sama sekali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7314</td></tr><tr><td>Arabic No</td><td>7314</td></tr><tr><td>Reference</td><td>Book 96 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что один бедуин пришёл к Посланнику Аллаха ﷺ и сказал: «Поистине, моя жена родила темнокожего ребёнка, и сердце моё неспокойно в отношении него». Тогда Посланник Аллаха ﷺ спросил его: «Есть ли у тебя верблюды?» Тот сказал: «Да». Он спросил: «Какого они цвета?» Тот сказал: «Рыжего». Он спросил: «А есть ли среди них серые?» Бедуин сказал: «Поистине, среди них есть и серые». (Посланник Аллаха ﷺ) спросил: «Как ты думаешь, откуда же они взялись?» (Этот человек) ответил: «О Посланник Аллаха, это передалось им по наследству». Тогда он сказал: «Так, может быть, и у твоего сына это передалось по наследству!» И Посланник Аллаха ﷺ не позволил ему отказаться от него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7314</td></tr><tr><td>Arabic No</td><td>7314</td></tr><tr><td>Reference</td><td>Book 96 Hadith 45</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Abi Waqqas:I have never heard the Prophet (ﷺ) saying about a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] berkata, aku mendengar [Malik] bercerita dari [Abu An Nadlir, maula 'Umar bin 'Ubaidullah] dari ['Amir bin Sa'ad bin Abu Waqqash] dari [bapaknya] berkata, aku belum pernah mendengar Nabi shallallahu 'alaihi wasallam berkata kepada seseorang yang berjalan di muka bumi ini bahwa dia adalah calon penghuni surga kecuali kepada 'Abdullah bin Salam". Dia berkata lagi; "Dan untuknyalah ayat ini turun: "Wa syahida syaahidun min bani Israa'il" (QS. Al Ahqaf 10), atau yang ayat yang semisainya. Perawi berkata; "Aku tidak tahu apa yang dikatakan oleh Malik apakah yang dimaksudnya ayat atau hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3812</td></tr><tr><td>Arabic No</td><td>3812</td></tr><tr><td>Reference</td><td>Book 63 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д бин Абу Ваккас, да будет доволен им Аллах, сказал:\n— Не слышал я, чтобы Пророк ﷺ хоть о ком-нибудь из передвигающихся по земле говорил, что он (относится к числу) обитателей Рая, если не считать ‘Абдуллаха ибн Саляма, и о нём (говорится в) ниспосланном свыше аяте: «Скажи: “Скажите мне, если он (действительно) от Аллаха, а вы не уверовали в него, несмотря на то что свидетель из числа сынов Исраиля засвидетельствовал его подобие и уверовал, тогда как вы возгордились (и отвергли его, разве не являетесь вы несправедливыми)? Поистине, Аллах не ведёт прямым путём людей несправедливых!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3812</td></tr><tr><td>Arabic No</td><td>3812</td></tr><tr><td>Reference</td><td>Book 63 Hadith 37</td></tr></tbody></table></div>
 

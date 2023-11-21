@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jâbir Ibn 'Abdoullâh (رضي الله عنهما) a dit : "Le jour de la fête
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Rafi' bin Rafi'] Telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Atha'] dari [Jabir bin Abdullah] ia berkata, saya mendengarnya berkata; "Sesungguhnya Nabi shallallahu 'alaihi wasallam berdiri pada hari raya Iedul Fithri, lalu beliau shalat. Beliau shalat sebelum menyampaikan khuthbah. Seusai shalat, baru beliau menyampaikan khuthbah kepada manusia. Setelah Nabi shallallahu 'alaihi wasallam berkhutbah, beliau mendatangi kaum wanita lalu mengingatkan mereka sambil bersandar pada tangan Bilal. Sedangkan Bilal membentangkan kainnya, akhirnya kaum wanita pun melemparkan sedekahnya." Saya bertanya kepada Atha', "Apakah itu merupakan Zakat Fithri?" ia menjawab, "Tidak, akan tetapi itu adalah sedekah yang mereka keluarkan, saat itu para wanita melemparkan cincin, sehingga yang lain pun turut melempar." Saya bertanya lagi kepada Atha', "Apakah sekarang dapat dibenarkan, bila seorang imam mendatangi kaum wanita setelah menyampaikan khutbah lalu mengingatkan mereka?" ia menjawab, "Wahai Amru, sesungguhnya hal itu benar-benar termasuk tindakan yang benar, apa alasan mereka untuk tidak melakukannya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2047</td></tr><tr><td>Arabic No</td><td>885.01</td></tr><tr><td>Reference</td><td>Book 8 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Атаъ сказал, что он слышал, как Джабир ибн ‘Абдуллах сказал: «Пророк ﷺ встал в День разговения, чтобы совершить молитву. Сначала он совершил молитву, а затем произнёс хутбу. Закончив, Пророк Аллаха ﷺ спустился и пошёл к женщинам и, опираясь на руку Биляля, сделал им напоминание, а Биляль расстелил свою одежду, и женщины стали бросать на неё свои пожертвования». Я (Ибн Джурейдж) спросил ‘Атаъ: «Это был закят Дня разговения?» Он сказал: «Нет, в то время это была просто милостыня. Женщина кидала кольцо, а за ней кидали и остальные женщины». Я сказал: «Считаешь ли ты, что имам и теперь обязан приходить к женщинам и наставлять их, после того, как завершит (хутбу)?» Он сказал: «Без сомнения, это обязанность имамов, и почему они не делают этого?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2047</td></tr><tr><td>Arabic No</td><td>885.01</td></tr><tr><td>Reference</td><td>Book 8 Hadith 3</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: When the Imam comp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abdurrahman bin Ziyad bin An'um] dari [Abdurrahman bin Rafi'] dan [Bakr bin Sawadah] dari [Abdurrahman bin Amru] bahwasanya Rasulullah Shallallahu alaihi wasallam bersabda: "Apabila seorang imam telah selesai melaksanakan shalat, lalu duduk sejenak lalu batal wudhunya sebelum dia berbicara, maka shalatnya sudah sempurna walaupun di belakangnya masih ada orang yang belum selesai melaksanakanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>617</td></tr><tr><td>Arabic No</td><td>617</td></tr><tr><td>Reference</td><td>Book 2 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра о том, что Посланник Аллаха ﷺ сказал: «Когда имам заканчивает молитву и сидит (читая ташаххуд), и затем у него нарушится омовение до того, как заговорит, то его молитва является полной. И также полной является молитва тех, кто (молился) за ним».Шейх аль-Альбани сказал: «Слабый хадис /да‘иф/». См. «Да‘иф аль-джами‘ ас-сагъир» 635.Иснад этого хадиса слабый из-за присутствия в нём ‘Абдуррахмана ибн Зияда ибн Ан‘ума. Аль-Байхакъи сказал: «Недостоверный (хадис). Единственным, кто его передал был Ибн Зияд, на которого не опираются». Ад-Даракъутни сказал: «‘Абдуррахман ибн Зияд является слабым и на него не опираются». Ат-Тирмизи сказал: «Иснад этого хадиса не сильный». Ан-Науауи в «аль-Маджму‘» (3/481) сказал: «Слабый хадис по единогласному мнению знатоков хадисов». Нечто подобное сказал хафиз Ибн Хаджар в «Фатхуль-Бари» (2/257). Также в его тексте есть сильная путаница, что разъяснил имам ат-Тахауи. См. «Да‘иф Аби Дауд»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>617</td></tr><tr><td>Arabic No</td><td>617</td></tr><tr><td>Reference</td><td>Book 2 Hadith 227</td></tr></tbody></table></div>
 

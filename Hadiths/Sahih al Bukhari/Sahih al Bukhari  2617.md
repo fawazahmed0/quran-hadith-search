@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A Jewess brought a poisoned (cooked) sheep for the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Su'bah] dari [Hisyam bin Zaid] dari [Anas bin Malik radliallahu 'anhu] bahwa, ada seorang wanita Yahudi yang datang menemui Nabi shallallahu 'alaihi wasallam dengan membawa seekor kambing yang telah diracun lalu Beliau memakannya. Kemudian wanita itu diringkus dengan bukti daging tersebut dan dikatakan; "Tidak sebaiknyakah kita bunuh saja?" Beliau menjawab: "Jangan". Sejak itu aku senantiasa aku melihat bekas racun tersebut pada anak lidah Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 51 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, да будет доволен им Аллах, что одна иудейка принесла Пророку ﷺ отравленную баранину, и он отведал её. (Когда всё выяснилось), эту женщину привели к Посланнику Аллаха ﷺ, и (сподвижники) спросили: «Не убить ли нам её?» Он сказал: «Нет». (Анас) сказал: «И я видел следы, оставшиеся на язычке (или нёбе) Посланника Аллаха ﷺ (от этой отравы)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 51 Hadith 49</td></tr></tbody></table></div>
 

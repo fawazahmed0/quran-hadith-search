@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thumama b. Shafayy reported:When we were with Fadala b. 'Ubaid in the country of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir Ahmad bin Amru] Dan telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru bin Harits] -dalam jalur lain- Dan telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Amru bin Harits] -sementara dalam riwayat Abu Thahir- bahwa [Abu Ali Al Hamdani] telah menceitakan kepadanya -sementara dalam riwayat Harun- bahwa [Tsumamah bin Syufay] telah menceritakan kepadanya, ia berkata; Kami pernah berada di negeri Romawi bersama Fadlalah bin Ubaid, tepatnya di Rudis. Lalu salah seorang dari sahabat kami meninggal dunia, maka [Fadlalah bin Ubaid] pun memerintahkan untuk menguburkannya dan meratakan kuburannya. Kemudian ia berkata; Saya telah mendengar Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk meratakan kuburan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2242</td></tr><tr><td>Arabic No</td><td>968</td></tr><tr><td>Reference</td><td>Book 11 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Абу ‘Али (или: Харуна) аль-Хамдани о том, что Сумама ибн Шуфай рассказывал ему: «Мы были вместе с Фадаля ибн ‘Убайдом на землях римлян, на острове Рудис, и там скончался один из наших товарищей. И Фадаля ибн ‘Убайд велел сровнять его могилу с землёй и сказал: “Я слышал, как Посланник Аллаха ﷺ велел сравнивать её с землей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2242</td></tr><tr><td>Arabic No</td><td>968</td></tr><tr><td>Reference</td><td>Book 11 Hadith 119</td></tr></tbody></table></div>
 

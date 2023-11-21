@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:I heard Messenger of Allah (ﷺ) say: Swearing produces a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Amr bin As Sarh] telah menceritakan kepada kami [Ibnu Wahb], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami ['Anbasah] dari [Yunus] dari [Ibnu Syihab], ia berkata; [Ibnu Al Musayyab] berkata kepadaku; sesungguhnya [Abu Hurairah] berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sumpah itu melariskan barang dan menghilangkan berkah." Ibnu As Sarh berkata; menghilangkan usaha. Dan ia berkata dari Sa'id bin Al Musayyab dari Abu Hurairah dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2087) Sahih Muslim (1606)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3335</td></tr><tr><td>Arabic No</td><td>3335</td></tr><tr><td>Reference</td><td>Book 23 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: “Клятва помогает сбыть товар, но стирает благодать /барака/ (или: уничтожает приобретённое)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2087) Sahih Muslim (1606)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3335</td></tr><tr><td>Arabic No</td><td>3335</td></tr><tr><td>Reference</td><td>Book 23 Hadith 10</td></tr></tbody></table></div>
 

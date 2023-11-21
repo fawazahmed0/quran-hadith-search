@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Iqama for the prayer was announced while a man was talking to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abdul Aziz] dari [Anas] radliallahu 'anhu dia berkata; "Iqamah telah dikumandangkan, sementara ada seorang laki-laki yang masih berbisik dengan Rasulullah shallallahu 'alaihi wasallam, dan orang itu masih saja berbicara dengan beliau hingga sebagian dari para sahabatnya tidur. Setelah itu beliau bangun dan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6292</td></tr><tr><td>Arabic No</td><td>6292</td></tr><tr><td>Reference</td><td>Book 79 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды), когда возвестили второй призыв к молитве /икама/, один мужчина тайно беседовал с Посланником Аллаха ﷺ. И он продолжал беседовать с ним, пока его сподвижники не заснули, затем Пророк ﷺ встал и совершил с ними молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6292</td></tr><tr><td>Arabic No</td><td>6292</td></tr><tr><td>Reference</td><td>Book 79 Hadith 64</td></tr></tbody></table></div>
 

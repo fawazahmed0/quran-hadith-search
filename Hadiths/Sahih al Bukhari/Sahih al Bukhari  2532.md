@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:When Abu Huraira accompanied by his slave came intending to embrac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syihab bin 'Abbad] telah menceritakan kepada kami [Ibrahim Humaid] dari [Isma'il] dari [Qais] berkata; Ketika [Abu Hurairah radliallahu 'anhu] datang bersama budak kecilnya (gulam) untuk memeluk Islam satu sama lain diantara keduanya terpisah dari lainnya. Kemudian setelah itu dia berkata: "Aku bersaksi kepada anda bahwa dia sekarang untuk Allah (bebas)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2532</td></tr><tr><td>Arabic No</td><td>2532</td></tr><tr><td>Reference</td><td>Book 49 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Кайс сказал, что, когда Абу Хурайра, да будет доволен им Аллах, вместе со своим рабом отправился (к Пророку ﷺ), желая принять ислам, по пути они потеряли друг друга. Затем (Абу Хурайра) сказал: «Поистине, я призываю тебя засвидетельствовать, что (теперь он свободен), ради (довольства) Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2532</td></tr><tr><td>Arabic No</td><td>2532</td></tr><tr><td>Reference</td><td>Book 49 Hadith 16</td></tr></tbody></table></div>
 

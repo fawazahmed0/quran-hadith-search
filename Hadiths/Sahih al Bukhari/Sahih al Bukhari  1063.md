@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:In the lifetime of the Allah's Messenger (ﷺ) (p.b.u.h) the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah telah menceritakan kepada kami ['Abdul Warits] berkata, telah menceritakan kepada kami [Yunus] dari [Al Hasan] dari [Abu Bakrah] berkata: "Telah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam lalu Beliau keluar dengan menyingsingkan selendangnya hingga tiba di masjid. Maka orang-orang berkumpul mengelilingi Beliau. Lalu Beliau memimpin shalat bersama mereka dua raka'at hingga matahari kembali nampak. Kemudian Beliau bersabda: "Matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah dan keduanya tidak akan mengalami gerhana disebabkan karena kematian seseorang. Jika terjadi gerhana, maka dirikanlah shalat dan banyaklah berdo'a hingga selesai gerhana yang terjadi pada kalian". Peristiwa ini berkenaan ketika putra Nabi shallallahu 'alaihi wasallam yang bernama Ibrahim wafat yang manusia kemudian memperbincangkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра сказал: «При жизни Посланника Аллаха ﷺ произошло солнечное затмение, он вышел, волоча свою накидку, пока не достиг мечети. Люди собрались около него, и он совершил с ними молитву в два рак‘ата. Когда солнце (затмение) прояснилось, он сказал: “Поистине, солнце и луна являются знамениями из знамений Аллаха. Они не затмеваются из-за чьей-то смерти, и поэтому, когда происходит (подобное), совершайте молитву и взывайте к Аллаху, пока затмение не закончится”. Случилось так, что сын Пророка ﷺ по имени Ибрахим умер (в тот день), и люди говорили об этом (говоря, что затмение было вызвано его смертью)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
 

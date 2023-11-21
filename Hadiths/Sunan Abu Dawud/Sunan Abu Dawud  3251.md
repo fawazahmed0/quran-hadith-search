@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa'id ibn Ubaydah said:Ibn Umar heard a man swearing: No, I swear by the Ka'bah.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'], telah menceritakan kepada kami [Ibnu Idris], ia berkata; saya mendengar [Al Hasan bin 'Ubaidullah] dari [Sa'd bin 'Ubaidah], ia berkata; [Ibnu Umar] mendengar seseorang bersumpah dengan mengatakan; tidak demi ka'bah. Kemudian Ibnu Umar berkata; sesungguhnya aku telah mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Barangsiapa yang bersumpah dengan selain nama Allah, maka sungguh ia telah berbuat syirik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3251</td></tr><tr><td>Arabic No</td><td>3251</td></tr><tr><td>Reference</td><td>Book 22 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Са‘да ибн ‘Убайды, что Ибн ‘Умар услышал, как один человек клянётся: «Нет, клянусь Каабой!» Ибн ‘Умар сказал ему: «Поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Кто поклялся не Аллахом, тот придал Ему сотоварища (в возвеличивании)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3251</td></tr><tr><td>Arabic No</td><td>3251</td></tr><tr><td>Reference</td><td>Book 22 Hadith 10</td></tr></tbody></table></div>
 

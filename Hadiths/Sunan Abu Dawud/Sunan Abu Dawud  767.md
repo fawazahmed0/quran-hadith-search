@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Salamah b. ‘Abd al-Rahman b. ‘Awf said:I asked ‘A’ishah: By what wor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Umar bin Yunus] telah menceritakan kepada kami ['Ikrimah] telah menceritakan kepadaku [Yahya bin Abu Katsir] telah menceritakan kepadaku [Abu Salamah bin Abdurrahman bin 'Auf] dia berkata; saya bertanya kepada Aisyah; "Dengan apakah Nabi Allah shallallahu 'alaihi wasallam berdo'a sebagai pembukaan shalat malam?" [Aisyah] menjawab; "Sebagai pembukaan shalat malamnya, beliau memulai dengan do'a; "ALLAHUMMA RABBI JIBRIIL WA MIIKAAIIL WA ISRAAFIIL FAATHIRIS SAMAAWATI WAL ARDLI 'AALIMIL GHAIBI WAS SYAHAADAH ANTA TAHKUMU BAINA 'IBAADIKA FIIMA KAANUU FIIHI YAKHTALIFUUN, IHDINII LIMAKHTULIFA FIIHI MINAL HAQQI BI IDZNIKA INNAKA ANTA TAHDI MANTASYAA'U ILAA SHIRAATHAL MUSTAQIIM (Ya Allah, Tuhan Jibril, Mika'il dan Israfil yang telah menciptakan langit dan bumi, yang mengetahui hal yang ghaib maupun yang nyata. Engkau lah dzat yang akan mengadili hamba-hamba-Mu mengenai apa yang mereka perselisihkan. Berilah aku petunjuk dengan keizinan-Mu terhadap kebenaran yang diperselisihkan, sesungguhnya Engkau memberi petunjuk kepada siapa yang Engkau kehendaki ke jalan yang lurus)." Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abu Nuh Qurad] telah menceritakan kepada kami ['Ikrimah] dengan isnad dan makna yang sama tanpa adanya pengabaran (telah mengabarkan kepada kami), katanya; "Apabila beliau hendak mengerjakan shalat malam, beliau bertakbir dan mengucapkan…" telah menceritakan kepada kami Al Qa'nabi dari Malik dia berkata; "Tidak mengapa mengucapkan do'a dalam shalat, apakah di awal shalat, pertengahan ataupun di akhir shalat, baik shalat wajib atau sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (770)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>767</td></tr><tr><td>Arabic No</td><td>767</td></tr><tr><td>Reference</td><td>Book 2 Hadith 377</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма ибн ‘Абду-р-Рахман ибн ‘Ауф сказал: «(Однажды) я спросил у ‘Аиши: “Какими (словами мольбы) начинал молитву Пророк ﷺ когда вставал ночью, чтобы совершить (добровольную молитву)?” Она ответила: “Обычно, когда он вставал ночью, чтобы совершить (добровольную молитву,) он приступал к своей молитве (словами): “О Аллах, Господь Джибрила, Микаила и Исрафила, Создатель небес и земли, знающий скрытое и явное, Ты рассудишь Своих рабов в том, в чём они расходились между собой. Приведи меня со Своего соизволения к истине, относительно которой возникли расхождения, ведь, поистине, ведёшь Ты к прямому пути, кого пожелаешь!” /Аллахумма, Рабба Джибрила, ва Микаила, ва Исрафила, Фатира-с-самавати ва-ль-арди, ‘алима-ль-гъайби ва-ш-шахадати, Анта тахкуму байна ‘ибадика фи-ма кану фийхи йахталифуна. Ихдини ли ма-хтулифа фийхи мин аль-хаккъи би-изника, иннака тахди ман ташау иля сыратин мустакъимин/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (770)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>767</td></tr><tr><td>Arabic No</td><td>767</td></tr><tr><td>Reference</td><td>Book 2 Hadith 377</td></tr></tbody></table></div>
 

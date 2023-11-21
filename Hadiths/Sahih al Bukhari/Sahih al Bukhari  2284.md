@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) forbade taking a price for animal copulatio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Abdul Warits] dan [Isma'il bin Ibrahim] dari ['Ali bin Al Hakam] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam telah melarang uang bayaran zina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>2284</td></tr><tr><td>Reference</td><td>Book 37 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ запретил (брать деньги) за использование самцов животных для спаривания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>2284</td></tr><tr><td>Reference</td><td>Book 37 Hadith 24</td></tr></tbody></table></div>
 

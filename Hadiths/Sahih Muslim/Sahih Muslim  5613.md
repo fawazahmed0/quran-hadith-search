@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that the son of Abu Talha had been ailing. Abu Talha set 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Yazid bin Harun]; Telah mengabarkan kepada kami [Ibnu 'Aun] dari [Ibnu Sirin] dari [Anas bin Malik] ia berkata; suatu ketika bayi milik Abu Thalhah jatuh sakit. Bayi tersebut kemudian meninggal tatkala Abu Thalhah sedang keluar rumah. Saat Abu Thalhah kembali kerumah dia bertanya kepada Ummu Sulaim; 'Bagaimana keadaan anakku? Dia menjawab; 'Aku lihat dia sekarang lebih tenang di dari sebelumnya. Kemudian, seperti biasa, Ummu Sulaim menghidangkan makan malam untuk suaminya. Selesai makan malam, keduanya tidur dan melakukan hubungan suami istri. Tak lama setelah itu, Ummu Sulaim mulai menceritakan keadaan anaknya yang sebenarnya, bahwa dia telah dikuburkan. Keesokan harinya, Abu Thalhah menemui Rasulullah shallallahu 'alaihi wasallam seraya menceritakan hal itu. Lalu Rasulullah shallallahu 'alaihi wasallam bertanya: "Apakah kalian sudah menjadi pengantin semalaman? Abu Thalhah menjawab;; 'Ya'. Kemudian Rasulullah shallallahu 'alaihi wasallam mendoakan: 'Ya Allah berkatilah mereka berdua. Ketika Ummu Sulaim melahirkan seorang anak, Abu Thalhah berkata kepadaku (Anas); 'Bawalah anak ini ke hadapan Rasulullah shallallahu 'alaihi wasallam! Maka anak itu aku bawa ke hadapan Rasulullah shallallahu 'alaihi wasallam dengan beberapa buah kurma. Lalu beliau mengambil anak itu sambil bertanya: 'Adakah sesuatu yang di bawa bersamanya? Para sahabat menjawab; Ya ini ada beberapa buah kurma. Rasulullah shallallahu 'alaihi wasallam mengambil kurma itu dan langsung mengunyahnya. Setelah itu, beliau ambil kurma yang telah dikunyahnya itu dan memasukannya ke dalam mulut bayi tersebut, beliau menggerak-gerakan mulut bayi tersebut dan memberinya nama Abdullah. Telah menceritakan kepada kami [Muhammad bin Basysyar]; Telah menceritakan kepada kami [Hammad bin Mas'adah]; Telah menceritakan kepada kami [Ibnu 'Aun] dari [Muhammad] dari [Anas] dengan cerita ini sebagaimana Hadits Yazid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5613</td></tr><tr><td>Arabic No</td><td>2144.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5613</td></tr><tr><td>Arabic No</td><td>2144.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 28</td></tr></tbody></table></div>
 

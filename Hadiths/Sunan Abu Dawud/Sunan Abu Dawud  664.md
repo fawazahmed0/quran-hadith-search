@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: The Messenger of Allah (ﷺ) used to pass through th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As-Sariy] dan [Abu 'Ashim bin Jawwas Al-Hanafi] dari [Abu Al-Ahwash] dari [Manshur] dari [Thalhah Al-Yamiy] dari [Abdurrahman bin Ausajah] dari [Al-Bara' bin 'Azib] dia berkata; Rasulullah shallallahu 'alaihi wasallam biasa memasuki celah celah shaf, dari ujung ke ujung lainnya seraya mengusap dada dan pundak kami, lalu bersabda: "Janganlah kalian berselisih, sehingga akan membuat hati kalian berselisih juga." Beliau juga bersabda: "Sesungguhnya Allah dan para malaikatNya bershalawat kepada shaf shaf pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>664</td></tr><tr><td>Arabic No</td><td>664</td></tr><tr><td>Reference</td><td>Book 2 Hadith 274</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ ибн ‘Азиб сказал: «Обычно Посланник Аллаха ﷺ проходил из конца в конец ряда, брал нас за плечи и касался груди и говорил: “Не нарушайте единообразия, иначе сердца ваши придут к расхождениям!”. И он часто говорил: “Поистине, Аллах и ангелы Его благословляют первые ряды!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>664</td></tr><tr><td>Arabic No</td><td>664</td></tr><tr><td>Reference</td><td>Book 2 Hadith 274</td></tr></tbody></table></div>
 

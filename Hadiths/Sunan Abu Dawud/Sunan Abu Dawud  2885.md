@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: Knowledge has thre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Amr bin As Sarh], telah mengabarkan kepada kami [Ibnu Wahb], telah menceritakan kepadaku [Abdurrahman bin Ziyad] dari [Abdurrahman bin Rafi' At Tanukhi], dari [Abdullah bin 'Amr bin Al 'Ash], bahwa Rasulullah shallallahu 'alaihi wasallam berkata: "Ilmu ada tiga, dan yang selain itu adalah kelebihan, yaitu; ayat muhkamah (yang jelas penjelasannya dan tidak dihapuskan), atau sunah yang shahih, atau faraidh (pembagian warisan) yang adil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2885</td></tr><tr><td>Arabic No</td><td>2885</td></tr><tr><td>Reference</td><td>Book 19 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Знание заключается в трёх вещах, а всё остальное является дополнительным. Это ясный аят, закреплённая сунна и справедливое предписание (касающееся наследования)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2885</td></tr><tr><td>Arabic No</td><td>2885</td></tr><tr><td>Reference</td><td>Book 19 Hadith 1</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Salim, the freed salve of Abu Hudhaifa used to lead in prayer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ustman bin Shalih] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Ibnu Juraij], bahwasanya [Nafi'] mengabarinya, bahwa [Ibnu Umar] radliallahu 'anhuma mengabarinya, Salim maula Abu hudzaifah pernah mengimami orang-orang muhajirin kalangan pertama dan sahabat Nabi shallallahu 'alaihi wasallam di masjid, padahal ditengah-tengah mereka ada Abu bakar, Umar, Abu Salamah, Zaid, dan Amir bin Rabi'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7175</td></tr><tr><td>Arabic No</td><td>7175</td></tr><tr><td>Reference</td><td>Book 93 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Салим, вольноотпущенник Абу Хузайфы руководил молитвой первых мухаджиров и сподвижников Пророка ﷺ в мечети Куба, а среди них были Абу Бакр, ‘Умар, Абу Саляма, Зейд и ‘Амир ибн Раби‘а»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7175</td></tr><tr><td>Arabic No</td><td>7175</td></tr><tr><td>Reference</td><td>Book 93 Hadith 39</td></tr></tbody></table></div>
 

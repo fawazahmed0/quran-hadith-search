@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of 'Abdullah that, the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'yan] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Ishaq] dari ['Amru bin Maimun] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mendo'akan kebinasaan kepada enam tokoh Quraisy dengan menghadap ke Ka'bah, di natara mereka adalah Abu Jahal, Umayyah bin Khalaf, 'Utbah bin Rabi'ah, Syaibah bin Rabi'ah dan 'Uqbah bin Abu Mu'ith. Demi Allah, sungguh aku telah melihat mereka tewas bergelimpangan di Badar di bawah terik Matahari yang sangat panas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4652</td></tr><tr><td>Arabic No</td><td>1794.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4652</td></tr><tr><td>Arabic No</td><td>1794.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 134</td></tr></tbody></table></div>
 

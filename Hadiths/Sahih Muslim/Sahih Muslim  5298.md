@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Ka'b reported that his father Ka'b narrated to him that Allah's Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair]; Telah menceritakan kepada kami [Hisyam] dari ['Abdurrahman bin Sa'd] bahwa [Abdurrahman bin Ka'b bin Malik] atau ['Abdullah bin Ka'ab] Telah mengabarkan kepadanya dari [Bapaknya] yaitu Ka'b; dia telah menceritakan kepada mereka, bahwa Rasulullah shallallahu 'alaihi wasallam makan dengan tiga jari. Apabila telah selesai makan, beliau menjilatinya. Dan Telah menceritakannya pula kepada kami [Abu Kuraib] Telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Hisyam] dari ['Abdurrahman bin Sa'd] bahwa ['Abdurrahman bin Ka'ab bin Malik] dan ['Abdullah bin Ka'ab]; Telah menceritakan kepadanya, -atau salah seorang dari mereka-, dari [Bapaknya] yaitu Ka'ab bin Malik, dari Nabi shallallahu 'alaihi wasallam -dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5298</td></tr><tr><td>Arabic No</td><td>2032.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5298</td></tr><tr><td>Arabic No</td><td>2032.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 172</td></tr></tbody></table></div>
 

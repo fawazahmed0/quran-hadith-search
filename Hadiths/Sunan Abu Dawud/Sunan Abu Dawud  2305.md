@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Hakim, daughter of Usayd, reported on the authority of her mother that her h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Makhramah] dari [ayahnya], ia berkata; saya mendengar [Al Mughirah bin Adh Dhahhak] berkata; telah mengabarkan kepadaku [Ummu Hakim binti Usaid] dari [ibunya] bahwa [suaminya] telah meninggal dunia dan ia sedang sakit mata, lalu ia bercelak menggunakan itsmid, kemudian ia berkata; janganlah engkau bercelak menggunakannya kecuali karena suatu perkara yang tidak bisa dihindari dan darurat, maka engkau bercelak pada malam hari, dan engkau hilangkan pada siang hari. Kemudian [Ummu Salamah] berkata pada saat itu; Rasulullah shallallahu 'alaihi wasallam pernah menemuiku ketika Abu Salamah meninggal dan aku telah memakai shabir pada mataku. Kemudian beliau berkata; apa ini wahai Ummu Salamah? Lalu aku katakan; itu adalah shabir wahai Rasulullah, tidak ada padanya minyak wangi. Beliau berkata; sesungguhnya itu akan dapat meremajakan wajah, maka janganlah engkau memakainya kecuali pada malam hari, dan menghilangkannya pada siang hari. Dan janganlah engkau bersisir menggunakan minyak wangi serta pacar, karena sesungguhnya hal itu merupakan semir. Ummu Salamah berkata; aku katakan; dengan apakah aku bersisir wahai Rasulullah? Beliau berkata; dengan daun bidara, dengannya menutupi rambutmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2305</td></tr><tr><td>Arabic No</td><td>2305</td></tr><tr><td>Reference</td><td>Book 13 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм Хаким бинт Усайд передаёт от своей матери, что её муж умер, а у неё болели глаза и она подводила глаза сурьмой. Она послала невольницу к Умм Саляме, чтобы спросить её о сурьме. Она сказала: «Не пользуйся сурьмой, кроме случаев крайней необходимости, тогда пользуйся сурьмой ночью, а днём стирай её». Потом Умм Саляма сказала: «Когда Абу Саляма умер, ко мне зашёл Посланник Аллаха ﷺ. А я наложила на глаз алоэ. Посланник Аллаха ﷺ спросил: “Что это, о Умм Саляма?” Я сказала: “Это алоэ, о Посланник Аллаха, и в нём нет благовоний”. Посланник Аллаха ﷺ сказал: “Он придаёт лицу свежесть. Накладывай его ночью и убирай днём и, причёсываясь, не используй благовония и хну, потому что это краска”. Я спросила: “Как же мне причёсываться, о Посланник Аллаха?” Он ответил: “Используй ююбу наноси её на голову”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2305</td></tr><tr><td>Arabic No</td><td>2305</td></tr><tr><td>Reference</td><td>Book 13 Hadith 131</td></tr></tbody></table></div>
 

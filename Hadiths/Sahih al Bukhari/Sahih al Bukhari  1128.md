@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to give up a good deed, although he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah radliallahu 'anha] berkata; "Tidaklah Rasulullah shallallahu 'alaihi wasallam meninggalkan suatu amal padahal Beliau mencintai amal tersebut melainkan karena Beliau khawatir nanti orang-orang akan ikut mengamalkannya sehingga diwajibkan buat mereka. Dan tidaklah Beliau melaksanakan shalat Dhuha sekalipun kecuali pasti aku ikut melaksanakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1128</td></tr><tr><td>Arabic No</td><td>1128</td></tr><tr><td>Reference</td><td>Book 19 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Несмотря на то, что Посланник Аллаха ﷺ любил заниматься делами (поклонения), он часто отказывался от их совершения, опасаясь, что так же начнут поступать и другие люди, а потом это может быть сделано для них обязательным. (Вот почему) Посланник Аллаха ﷺ никогда не совершал дополнительные молитвы по утрам, тогда как я всегда совершаю их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1128</td></tr><tr><td>Arabic No</td><td>1128</td></tr><tr><td>Reference</td><td>Book 19 Hadith 8</td></tr></tbody></table></div>
 

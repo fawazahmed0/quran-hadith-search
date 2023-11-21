@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:We used to be happy on Fridays, for there was an old lady
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Ya'qub bin Abdurrahman] dari [Abu Hazim] dari [Sahl bin Sa'd] ia berkata; Dulu kami benar-benar merasa senang di hari Jum'at. Kami memiliki seorang nenek yang telah tua. Biasanya ia mengambil ubi lalu meletakkannya di dalam periuk miliknya dan menambahkan pula biji-bijian dari gandum. Setelah shalat Jum'at kami selalu mengunjunginya, sehingga sang nenek pun menyuguhkan ubi serta biji-bijian itu untuk kami. Karena itulah hari Jum'at, adalah hari yang sangat menyenangkan bagi kami. Kami tidak pernah menyantap makan siang dan tidak pula tidur, kecuali setelah Jum'at. Demi Allah di situ tak ada lemak, tidak pula bubur tepung mengandung lemak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5403</td></tr><tr><td>Arabic No</td><td>5403</td></tr><tr><td>Reference</td><td>Book 70 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д сказал: «Поистине, мы радовались пятничному дню. Среди нас была одна пожилая женщина, она брала корневища свеклы, и клала их в котёл, затем добавляла пригоршню ячменных зёрен (и варила похлёбку). Совершив пятничную молитву, мы навещали её, а она подавала нам это блюдо, поэтому мы радовались пятничному дню. Мы обедали и совершали кайлюлю (дневной сон) только после пятничной молитвы. И клянусь Аллахом, в этом блюде не было ни сала, ни жира»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5403</td></tr><tr><td>Arabic No</td><td>5403</td></tr><tr><td>Reference</td><td>Book 70 Hadith 31</td></tr></tbody></table></div>
 

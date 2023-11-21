@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "When the Day of Resurrection
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Shabbah] Telah menceritakan kepada kami [Mu'tamir] aku mendengar [Auf] telah menceritakan kepada kami [Muhammad bin Sirin] bahwasanya ia mendengar [Abu Hurairah] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika Zaman semakin mendekat, mimpi seorang mukmin nyaris tidak bohong, dan mimpi seorang mukmin adalah satu bagian dari empat puluh bagian kenabian, dan apa yang berasal dari kenabian tentu tidaklah bohong." Muhammad mengatakan; 'Dan aku katakan sedemikain ini.' Ia juga mengatakan; Ada berita bahwa mimpi ada tiga, sekedar bisikan jiwa, teror dari setan dan kabar gembira dari Allah, maka barangsiapa bermimpi suatu hal yang tak disukainya, jangan menceritakannya kepada seorang pun, hendaklah ia bangun dan mendirikan shalat. Juga Abu Hurairah berkata, Rasulullah juga membenci Al ghull saat tidur (tidur terus menerus) dan beliau terkagum-kagum terhadap keistiqomahan beragama, dan makna al qaid adalah keteguhan beragama. Sedang [Qatadah], [Yunus] dan [Hisyam] serta [Abu Hilal] meriwayatkan dari [Ibnu Sirin] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, dan sebagian mereka memudrajkan keseluruhan hadits ini, dan hadits Ibnu Auf lebih jelas. Sedang Yunus mengatakan; aku tidak mengira hadits tentang Qaid (keteguhan beragama) tersebut kecuali dari Nabi shallallahu 'alaihi wasallam. Dan Abu Abdullah mengatakan; Istilah aghlal (belenggu) tak terjadi selain untuk leher
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7017</td></tr><tr><td>Arabic No</td><td>7017</td></tr><tr><td>Reference</td><td>Book 91 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “С приближением этого времени сны верующего почти всегда будут сбываться, ведь сновидения верующего являются одной из сорока шести частей пророчества”, а всё, что относится к пророчеству, не может быть ложным». Мухаммад (Ибн Сирин) сказал: «Я же говорю, (что это касается всей) этой (общины, будь это праведный человек или нечестивый)». \n(Мухаммад Ибн Сирин) сказал: «(Абу Хурайра) сказал: «Сны бывают трёх (видов): сон из числа тех, которые человек (видит, когда) душа что-нибудь говорит ему, огорчительный сон, который (исходит) от шайтана и благой сон, который является радостной вестью от Аллаха. И если кто-нибудь увидит то, что ему не понравится, пусть не рассказывает об этом людям и встанет, совершит молитву».\n(Мухаммад Ибн Сирин) сказал: «(Абу Хурайра) не любил видеть во сне оковы (наложенные на шею), однако им нравилось (видеть) оковы (на ногах). И как говорили (толкователи снов), что (видение человеком) оков (у себя на ногах, это указывает) на твёрдость в религии».\nАбу ‘Абдуллах (аль-Бухари) сказал: «Оковы /аль-аглял/ могут быть только на шеях»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7017</td></tr><tr><td>Arabic No</td><td>7017</td></tr><tr><td>Reference</td><td>Book 91 Hadith 34</td></tr></tbody></table></div>
 

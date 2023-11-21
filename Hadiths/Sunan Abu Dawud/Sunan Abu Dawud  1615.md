@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd’ Allah(b. 'Umar) said “The people then began to pay half a sa’ of whea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] serta [Sulaiman bin Daud Al 'Ataki], mereka berkata; telah menceritakan kepada Kami [Hammad] dari [Ayyub] dari [Nafi'], ia berkata; [Abdullah] berkata; setelah itu orang-orang beralih kepada setengah sha' gandum. Nafi' berkata; dan Abdullah memberikan kurma, kemudian penduduk Madinah sulit mendapatkan kurma selama satu tahun, kemudian ia memberikan gandum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1511) Sahih Muslim (984)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1615</td></tr><tr><td>Arabic No</td><td>1615</td></tr><tr><td>Reference</td><td>Book 9 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘, что ‘Абдуллах (ибн ‘Умар) сказал: «А потом люди приравняли половину са‘ пшеницы…». ‘Абдуллах обычно подавал в качестве закят аль-фитр финики, а в один год, когда финики в Медине не уродились, он подал ячмень
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1511) Sahih Muslim (984)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1615</td></tr><tr><td>Arabic No</td><td>1615</td></tr><tr><td>Reference</td><td>Book 9 Hadith 60</td></tr></tbody></table></div>
 

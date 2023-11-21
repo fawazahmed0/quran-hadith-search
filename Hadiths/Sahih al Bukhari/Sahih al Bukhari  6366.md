@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Two old ladies from among the Jewish ladies entered upon me and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] dari [Masruq] dari [Aisyah] dia berkata; "Dua orang wanita tua dari Yahudi Madinah datang kepadaku, lalu keduanya berkata kepadaku; "Sesungguhnya penghuni kubur ada yang disiksa di kubur mereka." Namun aku mengingkarinya bahkan aku merasa tidak perlu untuk mempercayai keduanya, sesaat kemudian Nabi Shallallahu 'alahi wasallam masuk menemuiku, lalu aku beritahukan kepada beliau perihal ucapan dua wanita tua tersebut, maka beliau bersabda: "Mereka berdua benar, sesungguhnya orang-orang ada yang disiksa (dalam kuburnya) yang dapat di dengar oleh setiap binatang." Setelah itu aku tidak pernah melihat beliau melainkan selalu memohon perlindungan dari siksa kubur selepas shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6366</td></tr><tr><td>Arabic No</td><td>6366</td></tr><tr><td>Reference</td><td>Book 80 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша (да будет доволен ею Аллах) сказала: «(Однажды ко мне зашли две иудейки из числа иудеев Медины и они сказали мне: “Поистине, обитатели могил подвергаются мучениям в своих могилах!” Но я не поверила им и не сказала им, что верю им, после чего они вышли. Затем ко мне зашёл Пророк ﷺ и я сказала ему: “О Посланник Аллаха, поистине, две старушки …”, и рассказала ему (о том, что они сказали), и (Пророк ﷺ) сказал: “Они сказали правду! Поистине, они подвергаются таким мучениям, которое слышат все животные. И после этого я не видела, чтобы во время намаза он не прибегал к защите Аллаха от мучений могилы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6366</td></tr><tr><td>Arabic No</td><td>6366</td></tr><tr><td>Reference</td><td>Book 80 Hadith 63</td></tr></tbody></table></div>
 

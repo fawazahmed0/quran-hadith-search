@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported:Allah's Messenger (ﷺ) came on t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Rabi' Az Zahrani] dan [Qutaibah bin Sa'id] dan [Abu Kamil Al Jahdari] semuanya dari [Hammad bin Zaid] - [Abu Kamil] berkata- Telah menceritakan kepada kami [Hammad] Telah menceritakan kepada kami [Ayyub] dari [Nafi'] dari [Ibnu Umar] ia berkata; Ketika Rasulullah shallallahu 'alaihi wasallam tiba di Makkah di hari penaklukannya, beliau turun di halaman Ka'bah dan menyuruh Utsman bin Thalhah mengambil kunci, lalu dibukanya pintu Ka'bah. Kemudian masuklah Nabi shallallahu 'alaihi wasallam disusul Bilal, Zaid dan Utsman bin Thalhah. Kemudian pintu Ka'bah pun di tutup, lalu mereka tinggal di dalam beberapa saat lamanya. Dan setelah Usman membuka pintu, kata Abdullah, aku segera mendahului orang banyak menemui Rasulullah shallallahu 'alaihi wasallam. Beliau keluar dengan diiringi Bilal, maka aku pun bertanya kepada [Bilal], "Apakah Rasulullah shallallahu 'alaihi wasallam menunaikan shalat di dalam?" Bilal menjawab, "Ya." Aku bertanya lagi, "Di mana?" Bilal menjawab, "Di antara dua tiang." Ibnu Umar berkata; Aku lupa untuk menanyakan berapa lama beliau shalat. Dan Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Ayyub As Sakhtiyani] dari [Nafi'] dari [Ibnu Umar] ia berkata; Pada saat Fathu Makkah (pembebasana kota Makkah) Rasulullah shallallahu 'alaihi wasallam datang dengan mengendarai Unta milik Usamah bin Zaid hingga beliau menambatkan untanya di halaman Ka'bah. Kemudian beliau memanggil Utsman bin Thalhah dan bersabda: "Berikanlah kunci (Ka'bah) padaku." Ia pun pergi menemui ibunya, namun ibunya enggan untuk memberikan, maka ia pun berkata, "Demi Allah, ibu menyerahkan kunci itu, atau aku akan menghunuskan pedang ini." Lalu wanita itu pun memberikan kuncinya. Utsman bin Thalhah kemudian menghadap Nabi shallallahu 'alaihi wasallam, dan beliau langsung membuka pintu Ka'bah. Lalu ia pun menyebutkan hadits sebagaimana haditsnya Hammad bin Zaid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3231</td></tr><tr><td>Arabic No</td><td>1329.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 435</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3231</td></tr><tr><td>Arabic No</td><td>1329.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 435</td></tr></tbody></table></div>
 

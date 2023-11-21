@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha said:The Messenger of Allah (ﷺ) came to me when a woman was sitting wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin Urwah] -dalam jalur lain- Dan telah menceritakan kepadaku [Zuhair bin Harb] -dan lafazh hadits darinya- telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hisyam] ia berkata, telah mengabarkan kepadaku [bapakku] dari [Aisyah] ia berkata; "Suatu ketika Rasulullah shallallahu 'alaihi wasallam masuk ke dalam rumahku, yang saat itu saya bersama dengan seorang wanita. Maka beliau pun bertanya: 'Siapa wanita ini? ' Saya menjawab, 'Ia adalah seorang wanita yang tidak pernah tidur karena selalu menunaikan shalat sepanjang malam.' Maka beliau bersabda: 'Beribadahlah kalian sesuai dengan kemampuan kalian. Demi Allah, Dia tidak akan pernah bosan hingga kalian sendiri yang bosan. Dan amalan agama yang paling dicintai olehNya adalah yang dikerjakan dengan kontinyu oleh pelakunya.'" Dalam hadits Usamah bahwa wanita itu berasal dari Bani Asad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1834</td></tr><tr><td>Arabic No</td><td>785.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 262</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается что ‘Аиша сказала: «Однажды когда у меня дома находилась женщина (из бану асад), ко мне зашел Посланник Аллаха ﷺ и спросил: “Кто это?” Я ответила: “Эта женщина молится по ночам и не спит”. Тогда Пророк ﷺ сказал: “Совершайте из деяний те, что вы способны осилить, ибо клянусь Аллахом, Аллаху не наскучит, пока не наскучит вам”. А больше всего он (Посланник Аллаха ﷺ) любил такие религиозные (дела), которые совершались (человеком) постоянно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1834</td></tr><tr><td>Arabic No</td><td>785.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 262</td></tr></tbody></table></div>
 

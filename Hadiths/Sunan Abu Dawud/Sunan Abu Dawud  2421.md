@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated As-Samma' sister of Abdullah ibn Busr: The Prophet (ﷺ) said: Do not f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Humaid bin Mas'adah], telah menceritakan kepada kami [Sufyan bin Habib], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Yazid bin Qubais] dari penduduk Jabalah, telah menceritakan kepada kami [Al Walid], seluruhnya dari [Tsaur bin Yazid] dari [Khalid bin Ma'dan] dari [Abdullah bin Busr As Sulami], dari [saudarinya], Yazid berkata; Shama', bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian berpuasa pada hari Sabtu kecuali yang diwajibkan atas kalian, dan apabila salah seorang diantara kalian tidak mendapatkan sesuatu kecuali kulit pohon anggur atau ranting pohon maka hendaknya ia mengunyahnya." Abu Daud berkata; hadits ini adalah hadits yang telah di naskh (yang hukumnya telah diganti dengan ayat atau hadits yang lain)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2421</td></tr><tr><td>Arabic No</td><td>2421</td></tr><tr><td>Reference</td><td>Book 14 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Буср ас-Сулями передаёт от своей сестры по имени ас-Самма, что Пророк ﷺ сказал: «Не поститесь в субботу, если только не выпадет на этот день обязательный пост. И даже если кто-то из вас не найдёт ничего, кроме кожицы виноградины или веточки дерева, пусть пожуёт их». Абу Дауд сказал, что этот хадис отменён /мансух
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2421</td></tr><tr><td>Arabic No</td><td>2421</td></tr><tr><td>Reference</td><td>Book 14 Hadith 109</td></tr></tbody></table></div>
 

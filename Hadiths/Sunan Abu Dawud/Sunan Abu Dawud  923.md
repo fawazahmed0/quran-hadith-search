@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Ibnu Fudlail] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari [Abdullah] dia berkata; "Kami memberi salam kepada Rasulullah shallallahu 'alaihi wasallam ketika beliau sedang shalat, lalu beliau menjawab salam kami, ketika kami tiba dari negeri Najasyi, kami memberi salam kepada beliau, namun beliau tidak menjawab salam kami, setelah itu beliau bersabda: "Sesunggunya dalam shalat benar-benar ada kesibukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1199) Sahih Muslim (538)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>923</td></tr><tr><td>Arabic No</td><td>923</td></tr><tr><td>Reference</td><td>Book 2 Hadith 534</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха, да будет доволен им Аллах: «Мы приветствовали Посланника Аллаха ﷺ когда он совершал молитву, и он отвечал нам, а потом, когда мы вернулись от негуса, мы поприветствовали его, но (Посланник Аллаха ﷺ) не ответил нам, а потом сказал: “Поистине, молитва занимает человека”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1199) Sahih Muslim (538)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>923</td></tr><tr><td>Arabic No</td><td>923</td></tr><tr><td>Reference</td><td>Book 2 Hadith 534</td></tr></tbody></table></div>
 

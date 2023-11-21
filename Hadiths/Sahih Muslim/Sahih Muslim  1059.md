@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hakam reported:When Matar b. Najiya dominated Kufa he ordered Abu Ubaida to lead
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1059</td></tr><tr><td>Arabic No</td><td>471.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов аль-Хакама, что, когда Матар ибн Наджиб захватил власть над Куфой, он приказал Абу ‘Убайде проводить молитву с людьми.Глава: О спокойствие в молитве
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1059</td></tr><tr><td>Arabic No</td><td>471.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 221</td></tr></tbody></table></div>
 

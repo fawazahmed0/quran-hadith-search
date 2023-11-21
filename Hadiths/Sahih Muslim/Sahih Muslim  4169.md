@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim reported from Ibn Umar (Allah be pleased with them) that 'Umar donated a h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Umar] dan [Abd bin Humaid] dan ini adalah lafadznya 'Abd, dia berkata; telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar], bahwa Umar pernah memberikan seekor kuda kepada seseorang untuk digunakan di jalan Allah, tiba-tiba dia melihatnya telah dijual, oleh karena itu dia hendak membelinya kembali. Maka Umar pun bertanya kepada Nabi shallallahu 'alaihi wasallam, lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Umar, jangan kamu ambil lagi sedekahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4169</td></tr><tr><td>Arabic No</td><td>1621.03</td></tr><tr><td>Reference</td><td>Book 24 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4169</td></tr><tr><td>Arabic No</td><td>1621.03</td></tr><tr><td>Reference</td><td>Book 24 Hadith 7</td></tr></tbody></table></div>
 

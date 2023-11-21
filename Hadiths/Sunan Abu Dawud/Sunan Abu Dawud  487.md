@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas reported :Banu Sa’d b. Bakr sent Qamam b. Tha’labah to the apos
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>487</td></tr><tr><td>Arabic No</td><td>487</td></tr><tr><td>Reference</td><td>Book 2 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «(Племя) бану Са‘д ибн Бакр отправило Димама ибн Са‘ляба к Посланнику Аллаха ﷺ. Когда он приехал к нему, он заставил опуститься свою верблюдицу у ворот мечети, затем стреножил его, после чего зашел в мечеть». И он рассказал ту же (историю).(Ибн ‘Аббас) сказал: «И он спросил: “Кто из вас Ибн ‘Абдуль-Мутталиб?” Посланник Аллаха ﷺ сказал: “Я Ибн ‘Абдуль-Мутталиб”. (Димама) сказал: “О Ибн ‘Абдуль-Мутталиб!” И он привел этот хадис до конца
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>487</td></tr><tr><td>Arabic No</td><td>487</td></tr><tr><td>Reference</td><td>Book 2 Hadith 97</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported Allah's Messenger (ﷺ) as saying:You would find people like 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] dan ['Abad bin Humaid] dan lafazh ini milik Muhammad dia berkata; ['Abad] Telah mengabarkan kepada kami dan berkata [Ibnu Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu 'Umar] dia berkata; "RasululIah shallallahu 'alaihi wasallam telah bersabda: 'Kalian akan mendapati manusia bagaikan seratus unta yang tidak ada seekor pun dapat ditungganginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6499</td></tr><tr><td>Arabic No</td><td>2547</td></tr><tr><td>Reference</td><td>Book 44 Hadith 328</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6499</td></tr><tr><td>Arabic No</td><td>2547</td></tr><tr><td>Reference</td><td>Book 44 Hadith 328</td></tr></tbody></table></div>
 

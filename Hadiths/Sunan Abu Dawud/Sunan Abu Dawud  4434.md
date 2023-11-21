@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: We, the Companions of the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ishaq Al Ahwazi] berkata, telah menceritakan kepada kami [Abu Ahmad] berkata, telah menceritakan kepada kami [Busyair Ibnul Muhajir] berkata, telah menceritakan kepadaku [Abdullah bin Buraidah] dari [Bapaknya] ia berkata, "Kami para sahabat Rasulullah shallallahu 'alaihi wasallam, pernah memperbincangkan kisah wanita Al Ghamidiyah dan Ma'iz bin Malik, andaikata keduanya mau mencabut pengakuannya, atau ia mengatakan, "tidak kembali menghadap Nabi setelah mengakui, tentu beliau tidak akan mencari mereka lagi (minta pengakuannya kembali). Beliau baru merajam mereka ketika pengakuan itu berulang hingga empat kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4434</td></tr><tr><td>Arabic No</td><td>4434</td></tr><tr><td>Reference</td><td>Book 40 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Бурайда передаёт от своего отца: «Мы, сподвижники Посланника Аллаха ﷺ говорили, что, если бы гамидитка и Ма‘из ибн Малик вернулись (домой) после своего признания (или: не вернулись к нему после своего признания), то (Посланник Аллаха ﷺ не стал бы посылать за ними), а побиванию камнями он их подверг только после того, как они признались в совершении прелюбодеяния четыре раза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4434</td></tr><tr><td>Arabic No</td><td>4434</td></tr><tr><td>Reference</td><td>Book 40 Hadith 84</td></tr></tbody></table></div>
 

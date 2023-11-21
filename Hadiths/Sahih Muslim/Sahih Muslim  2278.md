@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] dan [Qutaibah bin Sa'id] keduanya berkata, telah menceritakan kepada kami [Malik] -dalam jalur lain- Telah menceritakan kepada kami [Yahya bin Yahya] -lafazh juga miliknya- ia berkata, saya telah membacakan kepada [Malik] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam telah mewajibkan zakat Fithrah di bulan Ramadlan atas setiap orang muslim, baik dia itu merdeka atau hamba, laki-laki atau perempuan, yaitu satu sha' kurma atau satu sha' gandum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>984.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ вменил в обязанность (всем) людям из числа мусульман, будь то свободный (человек) или раб, мужчина или женщина, (раздавать в качестве) закята разговения /закятуль-фитр/ после (завершения) рамадана (не менее) одного са‘ фиников или одного са‘ ячменя
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>984.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 16</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib ; Anas ibn Malik: Muhammad reported from his father, U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ibnu Al Mutsanna] dan lafadz hadits ini dari Ibnul Mutsanna, keduanya berkata; telah menceritakan kepada kami [Abu Usamah], Ibnu Al Mutsanna mengatakan; telah mengabarkan kepadaku [Abdullah bin Muhammad bin Umar bin Ali bin Abu Thalib] dari [ayahnya] dari [kakeknya] bahwa apabila [Ali radliallahu 'anhu] bepergian, dia berangkat setelah matahari terbenam, hingga apabila hampir gelap, dia singgah lalu mengerjakan shalat Maghrib kemudian melakukan makan malam, setelah itu dia mengerjakan shalat Isya'. Lalu dia melanjutkan perjalanannya, katanya; "Seperti inilah Rasulullah shallallahu 'alaihi wasallam pernah mengerjakan." [Utsman] berkata; dari [Abdullah bin Muhammad bin Umar bin Ali]. Aku mendengar Abu Daud berkata; [Usamah bin Zaid] meriwayatkan, dari [Hafsh bin Ubaidullah yaitu Ibnu Anas bin Malik] bahwa [Anas] pernah menjama' keduanya ketika mega merah telah hilang, dia berkata; "Nabi shallallahu 'alaihi wasallam juga pernah melakukan hal itu." Sedangkan riwayatnya [Az Zuhri] dari [Anas] dari Nabi shallallahu 'alaihi wasallam juga seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>1234</td></tr><tr><td>Reference</td><td>Book 4 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Умара, сына ‘Али ибн Абу Талиба, да будет доволен им Аллах, что, когда ‘Али отправлялся в путь после захода солнца, он двигался, пока не становилось почти совсем темно. Тогда он спешивался и совершал закатную молитву /магъриб/, после чего велел подать ему ужин и ужинал, совершал вечернюю молитву /‘иша/ и продолжал свой путь. И он говорил, что так поступал Посланник Аллаха ﷺ.Передаётся от сына Анаса ибн Малика, что Анас совершал обе молитвы, когда с неба исчезало красное зарево, и говорил, что Пророк ﷺ поступал так
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>1234</td></tr><tr><td>Reference</td><td>Book 4 Hadith 37</td></tr></tbody></table></div>
 

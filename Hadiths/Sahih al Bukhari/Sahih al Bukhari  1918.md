@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Bilal used to pronounce the Adhan at night, so Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Isma'il] dari [Abu Usamah] dari ['Ubaidullah] dari [Nafi'] dari [Ibu 'Umar] dan [Al Qasim bin Muhammad] dari ['Aisyah radliallahu 'anha] bahwa Bilal biasa melakukan adzan (pertama) di malam hari, maka Rasulullah shallallahu 'alaihi wasallam berkata: "Makan dan minumlah kalian hingga Ibnu Ummu Maktum melakukan adzan, karena dia tidak melakukan adzan kecuali sudah terbit fajar". Al Qasim berkata: "Jarak antara adzan keduanya itu tidaklah lama melainkan bila yang satunya naik maka yang satunya lagi turun (maksudnya naik ke dan turun dari menara)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1918</td></tr><tr><td>Arabic No</td><td>1918</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Обычно Биляль произносил азан ночью, поэтому Посланник Аллаха ﷺ сказал: “Продолжайте есть и пить, пока Ибн Умм Мактум не начнет произносить азан, ибо он не произносит его до тех пор, пока не начнется рассвет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1918</td></tr><tr><td>Arabic No</td><td>1918</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Suhail reported on the authority of Abu Huraira that Allah's Messenger (ﷺ) sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Ya'qub] yaitu Ibnu 'Abdur Rahman Al Qari dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] bahwa pada waktu perang Khaibar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh aku akan menyerahkan bendera ini kepada seorang lelaki yang mencintai Allah dan RasulNya, dan Allah akan memberikan kemenangan dengan tangannya. Umar bin Khaththab berkata: Sungguh aku tidak pernah menginginkan sebuah kepemimpinan kecuali hanya pada hari itu saja. Ia berkata: lalu akupun menampakkan wajahku dengan harapan agar aku dipanggil untuk menerima bendera itu. Ia berkata: kemudian Rasulullah shallallahu 'alaihi wasallam memanggil Ali bin Abi Thalib dan beliau memberikan bendera itu kepadanya seraya berkata: ' Berangkatlah dan janganlah kamu menoleh ke belakang hingga Allah memenangkanmu.' Abu Hurairah berkata: kemudian Ali berjalan lalu berhenti dengan tidak menoleh ke belakang ia berteriak: 'Wahai Rasulullah, atas dasar apa aku memerangi manusia? Beliau menjawab: "Perangilah mereka hingga mereka mau bersaksi bahwa tiada Ilah kecuali Allah dan bahwa Muhammad adalah utusan Allah. Jika mereka telah melaksanakan hal itu berarti mereka telah mencegahmu untuk menumpahkan darah mereka dan mengambil harta mereka kecuali yang menjadi haknya (Islam) sedang hisab (perhitungan) mereka ada di sisi Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6222</td></tr><tr><td>Arabic No</td><td>2405</td></tr><tr><td>Reference</td><td>Book 44 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6222</td></tr><tr><td>Arabic No</td><td>2405</td></tr><tr><td>Reference</td><td>Book 44 Hadith 52</td></tr></tbody></table></div>
 

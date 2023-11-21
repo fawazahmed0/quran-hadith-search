@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: There are some expressions which a man utt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Amru] bahwa [Sa'id bin Abu Hilal] menceritakan kepadanya, bahwa [Sa'id bin Abu Sa'id Al Maqburi] menceritakan kepadanya dari [Abdullah bin Amru bin Al Ash] ia berkata, "Ada beberapa bacaan, tidaklah seseorang membacanya tiga kali saat berdiri dari majlisnya kecuali Allah akan menghapus dosanya karenanya. Dan tidaklah seseorang yang mengucapkannya dalam masjlis yang baik dan majlis dzikir, kecuali dengannya Allah akan menutup amal baiknya sebagaimana kertas yang diakhiri dengan kalimat: 'ALLAHUMMA WA BIHAMDIKA LAA ILAAHA ILLA ANTA ASTAGHFIRUKA WA ATUUBU ILAIKA (Maha Suci Engkau Ya Allah, tidak ada Tuhan yang berhak disembah selain Engkau. Aku memohon ampunan dan taubat kepada-Mu)." Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Ibnu Wahb] ia berkata; [Amru] berkata; telah menceritakan kepadaku ['Abdurrahman bin Abu Amru] seperti hadits tersebut, dari [Al Maqburi] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4857</td></tr><tr><td>Arabic No</td><td>4857</td></tr><tr><td>Reference</td><td>Book 43 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4857</td></tr><tr><td>Arabic No</td><td>4857</td></tr><tr><td>Reference</td><td>Book 43 Hadith 85</td></tr></tbody></table></div>
 

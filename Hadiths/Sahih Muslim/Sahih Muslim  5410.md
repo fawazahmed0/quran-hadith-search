@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Khalifa b. Ka'b AbCi Dhubyan reported:I heard 'Abdullah b. Zubair addressing the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Ubaid bin Sa'id] dari [Syu'bah] dari [Khalifah bin Ka'b Abu Dzibyan] ia berkata; Aku mendengar ['Abdullah bin Az Zubair] berkhutbah, dia berkata; "Ingatlah, janganlah kalian memberikan kepada istri-istri kalian pakaian sutera. Karena aku mendengar [Umar bin Khatthab] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian memakai kain sutera, karena barang siapa yang memakainya ketika di dunia, niscaya dia tidak akan memakainya ketika di akhirat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5410</td></tr><tr><td>Arabic No</td><td>2069.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5410</td></tr><tr><td>Arabic No</td><td>2069.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 25</td></tr></tbody></table></div>
 

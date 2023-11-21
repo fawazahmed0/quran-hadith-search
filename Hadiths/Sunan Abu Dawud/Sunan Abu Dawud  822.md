@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ubadah b. al-Samit reported the Messenger of Allah (ﷺ) as saying :the prayer i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ibnu Sarh] keduanya berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Mahmud bin Ar Rabi'] dari ['Ubadah bin As Shamit] yang sampai kepada Nabi shallallahu 'alaihi wasallam (sabdanya): "Tidak sah shalat bagi siapa yang tidak membaca fatihatul kitab (surat Al Fatihah) dan selebihnya." Sufyan berkata; "Bagi siapa yang shalat sendirian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (394)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>822</td></tr><tr><td>Arabic No</td><td>822</td></tr><tr><td>Reference</td><td>Book 2 Hadith 432</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Убада ибн ас-Самит, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Нет молитвы тому, кто не прочитал “аль-Фатиху” и далее». Суфьян сказал: «Это для тех, кто совершает молитву в одиночку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (394)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>822</td></tr><tr><td>Arabic No</td><td>822</td></tr><tr><td>Reference</td><td>Book 2 Hadith 432</td></tr></tbody></table></div>
 

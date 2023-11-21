@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nafi' reported :A mu'adhdhin of ‘Umar, named Masruh, called the Adhan for the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] dan [Dawud bin Syabib] secara makna, mereka berdua berkata; Telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] bahwasanya Bilal adzan sebelum terbit fajar, maka Nabi shallallahu 'alaihi wasallam memerintahkannya untuk kembali dan mengumandangkan; Alaa innal 'abda qad naama, alaa innal 'abda qad naama (Ingatlah, bahwa hamba benar benar telah tidur, ingatlah, bahwa hamba benar benar telah tidur)." Musa menambahkan; Maka dia kembali dan mengumandangkan; Alaa innal 'abda qad naama (Ingatlah, bahwa hamba benar benar telah tidur. Abu Dawud berkata; Hadits ini tidak ada yang meriwayatkannya dari Ayyub kecuali Hammad bin Salamah. telah menceritakan kepada kami [Ayyub bin Manshur] telah menceritakan kepada kami [Syu'aib bin Harb] dari [Abdul Aziz bin Abi Rawwad] telah mengabarkan kepada kami [Nafi'] tentang seorang muadzdzin Umar yang dikenal dengan panggilan [Masruh] yang adzan sebelum Shubuh, maka [Umar] memerintahkannya…, kemudian perawi menyebutkan seperti hadits di atas. Abu Dawud berkata; Dan [Hammad bin Zaid] telah meriwayatkan dari [Ubaidullah bin Umar] dari [Nafi'] atau yang lainnya, bahwasanya seorang muadzdzin pada zaman Umar yang disebut namanya [Masruh] atau yang lainnya. Abu Dawud berkata; [Addarawardi] telah meriwayatkannya dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dia berkata; Umar mempunyai seorang muadzdzin yang disebut namanya Mas'ud, kemudian dia menyebutkan seperti di atas, dan hadits ini lebih shahih dari yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>533</td></tr><tr><td>Reference</td><td>Book 2 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуль-‘Азиза ибн Абу Раввада о том, что Нафи‘ рассказывал со слов муаззина ‘Умара, которого звали Масрух, что он возвестил азан до рассвета и ‘Умар велел ему… И (далее передатчик этого хадиса) упомянул нечто подобное.Абу Дауд сказал: «Этот же хадис передал Хаммад ибн Зейд со слов ‘Убайдуллаха ибн ‘Умара, передавшего от Нафи‘а или кого-то другого о том, что муаззина ‘Умара, которого звали Масрух или по другому».Абу Дауд сказал: «Также его передал ад-Дараварди от ‘Абдуллаха, сообщившего со слов Нафи‘а о том, что Ибн ‘Умар сказал: “У ‘Умара был муаззин, которого звали Мас‘уд”, и он упомянул нечто подобное, и этот (хадис) достовернее того (хадиса)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>533</td></tr><tr><td>Reference</td><td>Book 2 Hadith 143</td></tr></tbody></table></div>
 

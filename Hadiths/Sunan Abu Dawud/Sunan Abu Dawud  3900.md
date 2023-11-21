@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Sa’d al-KHudri said :Some of the Companions of the Prophet (ﷺ) went on a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Abu Al Mutawakkil] dari [Abu Sa'id Al Khudri] bahwa beberapa sahabat Nabi shallallahu 'alaihi wasallam pergi dalam suatu perjalanan yang mereka lakukan. Kemudian mereka singgah di sebuah kampung Arab, sebagian penduduk kampung tersebut lalu berkata, "Sesungguhnya pemimpin kami tersengat, apakah salah seorang di antara kalian memiliki sesuatu yang bermanfaat bagi sahabat kami tersebut?" Kemudian salah seorang dari para sahabat tersebut menjawab, "Ya. Demi Allah, sesungguhnya aku akan menjampi, akan tetapi kami telah meminta kalian agar menjamu kami namun kalian menolak untuk menjadikan kami sebagai tamu. Aku tidak akan menjampi hingga kalian memberikan hadiah kepadaku." Penduduk kampung tersebut kemudian memberikan hadiah sekumpulan kambing kepadanya, lalu sahabat tersebut datang kepada orang yang tersengat dan membacakan Surat Al Fatihah kepadanya, lalu meniupkan hingga orang tersebut sembuh seolah-olah telah terbebas dari ikatan." Abu Sa'id Al Khudri berkata, "Kemudian mereka memenuhi janjinya untuk memberikan hadiah kepada para sahabat sebagaimana yang mereka janjikan. Kemudian para sahabat berkata, "Bagilah kambing-kambing tersebut!" Lalu sahabat yang telah membacakan jampi mengatakan, "Kalian jangan melakukannya hingga kita datang kepada Rasulullah shallallahu 'alaihi wasallam dan minta pertimbangannya." Lalu mereka pergi menemui Rasulullah shallallahu 'alaihi wasallam dan menyebutkan hal tersebut kepada beliau. Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Dari mana kalian mengetahui bahwa Al Fatihah adalah jampi? Kalian telah berbuat baik, bagilah dan berilah aku bagian bersama kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2276) Sahih Muslim (2201)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что однажды группа сподвижников Пророка ﷺ отправилась в путешествие и остановилась в одном из арабских кварталов. (Жители квартала) сказали им: «Наш старейшина ужален. Есть ли у кого-то из вас что-то такое, что может помочь ему?» Один из присутствующих сказал: «Да, клянусь Аллахом, я умею читать рукъю, однако вы отказали нам в гостеприимстве, и я не стану читать заклинание, пока вы не назначите мне вознаграждение». Тогда они назначили ему вознаграждение небольшое стадо овец. Тогда он пришёл к больному и прочитал ему «аль-Фатиху», поплёвывая, и тот исцелился и как будто освободился от оков. Они отдали им обещанное вознаграждение, и (сподвижники) сказали (друг другу): «Разделите их». Однако читавший рукъю сказал: «Ничего не предпринимайте, пока не придём к Посланнику Аллаха ﷺ и не спросим у него». И они пришли к Посланнику Аллаха ﷺ и рассказали ему обо всём. Посланник Аллаха ﷺ спросил: «А как вы узнали, что эта сура является рукъей? Вы хорошо поступили. Выделите же и мне долю с вами!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2276) Sahih Muslim (2201)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Alqama:'Abdullah (bin Masud) said. "Allah curses those ladies who pract
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari ['Alqamah] dari [Abdullah] ia berkata, "Semoga Allah melaknati Al Wasyimaat (wanita yang mentato) dan Al Mutawatasyimaat (wanita yang meminta untuk ditato), Al Mutanammishaat (wanita yang mencukur alisnya), serta Al Mutafallijaat (merenggangkan gigi) untuk keindahan, yang mereka merubah-rubah ciptaan Allah." Kemudian ungkapan itu sampai kepada salah seorang wanita dari Bani Asad yang biasa dipanggil Ummu Ya'qub. Lalu wanita itu pun datang dan berkata, "Telah sampai kepadaku berita tentang Anda. Bahwa Anda telah melaknat yang ini dan itu." Abdullah berkata, "Mengapakah aku tidak melaknat mereka yang telah dilaknat oleh Rasulullah shallallahu 'alaihi wasallam dan mereka yang terdapat di dalam Kitabullah?." Kemudian wanita berkata, "Sungguh, aku telah membaca di atara kedua lembarannya, namun di dalamnya aku tidaklah mendapatkan apa yang telah Anda katakan." Abdullah menjelaskan, "Sekiranya Anda membacanya secara keseluruhan, maka niscaya saudari akan menemukannya. Bukankah Allah telah berfirman: 'Apa yang dibawa Rasul untuk kalian, maka ambillah, sedangkan apa yang dilarangnya, maka tingalkanlah? '" (QS. Alhasyr 7). Wanita itu menjawab, "Ya, benar." Abdullah melanjutkan, "Sesungguhnya beliau telah melarang hal itu." Wanita itu kembali berkata, "Tetapi, sesungguhnya aku menduga kuat, bahwa isteri anda sendiri melakukan hal itu." Abdullah berkata, "Kalau itu anggapanmu, berangkatlah dan lihatlah." Lalu wanita itu pun pergi untuk melihatnya, namun ternyata tidak mendapatkan kebenaran dugaannya sedikit pun. Kemudian Abdullah pun berkata, "Sekiranya isteriku seperti itu, niscaya aku tidak akan mencampurinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4886</td></tr><tr><td>Arabic No</td><td>4886</td></tr><tr><td>Reference</td><td>Book 65 Hadith 406</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Алькамы, что ‘Абдуллах (ибн Мас‘уд) сказал: «Аллах проклял наносящую татуировку и ту, что просит сделать ей это, а также выщипывающую брови и подпиливающую зубы ради красоты и изменяющую тем самым творение Аллаха». Об этом узнала одна женщина из бану асад. Её называли Умм Я‘куб. Она пришла к ‘Абдуллаху и сказала: «Дошло до меня, что ты проклял таких-то и таких-то женщин». Он сказал: «А почему бы мне не проклинать их, если их проклял Посланник Аллаха ﷺ, и об этом упоминается в Книге Аллаха?» Она возразила: «Я прочитала Коран от обложки до обложки, но не нашла упоминаний того, что ты говоришь!» Он сказал: «Если бы ты действительно читала, ты бы нашла! Разве ты не читала: “Что принёс вам Посланник, то принимайте, а что он запретил вам, того избегайте”. Она сказала: «Да, конечно». Он сказал: «Поистине, он и запретил это». Она сказала: «Но я вижу, что твоя жена делает это». Он сказал: «Зайди и посмотри». Она зашла и посмотрела, но ничего такого не увидела. Затем он сказал: «Если бы что-то из этого было на ней, то я не приближался бы к ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4886</td></tr><tr><td>Arabic No</td><td>4886</td></tr><tr><td>Reference</td><td>Book 65 Hadith 406</td></tr></tbody></table></div>
 

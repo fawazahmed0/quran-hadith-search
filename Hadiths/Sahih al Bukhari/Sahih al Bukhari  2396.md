@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:When my father died he owed a Jew thirty Awsuq (of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Anas] dari [Hisyam] dari [Wahb bin Kaisan] dari [Jabir bin 'Abdullah radliallahu 'anhuma] bahwa dia mengabarkan kepadanya bahwa bapaknya wafat dan meninggalkan hutang sebanyak tiga puluh wasaq kepada orang Yahudi kemudian Jabir meminta penangguhan pelunasannya namun orang Yahudi itu menolaknya lalu Jabir menceritakannya kepada Rasulullah shallallahu 'alaihi wasallam agar membantuya dalam permasalahannya dengan orang itu. Maka Rasulullah shallallahu 'alaihi wasallam mendatangi dan berbicara dengan orang Yahudi tersebut agar bersedia menerima kebun kurma Jabir sebagai pelunasan hutang bapaknya namun orang Yahudi tersebut tetap tidak mau. Kemudian Rasulullah shallallahu 'alaihi wasallam mendatangi pohon korma milik Jabir lalu mengelilinginya kemudian berkata kepada Jabir: Bersungguh-sungguhlah kamu untuk membayar hutang dengan buah yang ada pada pohon kurma ini". Maka Jabir menandainya setelah Rasulullah shallallahu 'alaihi wasallam pergi lalu dia melunasi hutang sebanyak tiga puluh wasaq dan masih tersisa sebanyak tujuh belas wasaq kemudian Jabir datang menemui Rasulullah shallallahu 'alaihi wasallam untuk mengabarkan apa yang terjadi namun didapatinya Beliau sedang melaksanakan shalat 'Ashar. Ketika sudah selesai, Jabir mengabarkan kepada Beliau tentang sisa buah kurma tersebut. Maka Beliau bersabda: "Kabarkanlah hal ini kepada 'Umar bin Al Khaththob". Maka Jabir pergi menemui 'Umar lalu mengabarkannya, maka 'Umar berkata: "Sungguh aku sudah mengetahui ketika Beliau mengelilingi pohon kurma tersebut untuk memberkahinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2396</td></tr><tr><td>Arabic No</td><td>2396</td></tr><tr><td>Reference</td><td>Book 43 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, рассказал, что его отец умер, задолжав одному иудею тридцать васков плодов. Джабир попросил его подождать, однако тот отказался. Тогда Джабир поговорил с Посланником Аллаха ﷺ, чтобы тот попросил иудея подождать. Посланник Аллаха ﷺ пришёл и поговорил с этим иудеем о том, чтобы он взял плоды его пальм вместо того, что ему причитается, но он не согласился. Тогда Посланник Аллаха ﷺ зашёл в сад и прошёлся по нему. Затем он сказал Джабиру: «Сорви для него (финики), и отдай ему то, что ему полагается!» Когда Посланник Аллаха ﷺ ушёл, он сорвал (финики) и дал ему тридцать васков, и у него осталось лишние семнадцать васков. После этого Джабир пришёл к Посланнику Аллаху ﷺ, чтобы сообщить ему о том, что случилось, и обнаружил его совершающим молитву ‘аср. Когда он закончил Джабир сообщил ему об остатке, на что он сказал: «Сообщи об этом Ибн аль-Хаттабу». Тогда Джабир отправился к ‘Умару и сообщил ему. ‘Умар сказал ему: «Когда Посланник Аллаха ﷺ ходил по саду, я понял, что на него будет ниспослано благословение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2396</td></tr><tr><td>Arabic No</td><td>2396</td></tr><tr><td>Reference</td><td>Book 43 Hadith 12</td></tr></tbody></table></div>
 

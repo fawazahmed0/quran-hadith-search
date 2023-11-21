@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:A man came to the Prophet (ﷺ) asking his permissio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Adam] telah bercerita kepada kami [Syu'bah] telah bercerita kepada kami [Habib bin Abi Tsabit] berkata aku mendengar [Abu Al 'Abbas Asy-Sya'ir], dia adalah orang yang tidak buruk dalam hadits-hadits yang diriwayatkannya, berkata aku mendengar ['Abdullah bin 'Amru radliallahu 'anhuma] berkata: "Datang seorang laki-laki kepada Nabi shallallahu 'alaihi wasallam lalu meminta izin untuk ikut berjihad. Maka Beliau bertanya: "Apakah kedua orang tuamu masih hidup?" Laki-laki itu menjawab: "Iya". Maka Beliau berkata: "Kepada keduanyalah kamu berjihad (berbakti)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3004</td></tr><tr><td>Arabic No</td><td>3004</td></tr><tr><td>Reference</td><td>Book 56 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Амр, да будет доволен Аллах ими обоими, сказал: «(Однажды) к Пророку ﷺ пришёл какой-то человек и попросил у него разрешения принять участие в джихаде. (Пророк ﷺ) спросил: “А живы ли твои родители?” (Этот человек) сказал: “Да”. (Тогда Пророк ﷺ) сказал: “Так отдавай все свои силы /джахид/ им!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3004</td></tr><tr><td>Arabic No</td><td>3004</td></tr><tr><td>Reference</td><td>Book 56 Hadith 213</td></tr></tbody></table></div>
 

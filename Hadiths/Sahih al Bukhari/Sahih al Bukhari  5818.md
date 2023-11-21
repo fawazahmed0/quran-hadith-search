@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:Aisha brought out to us a Kisa and an Izar and said, "The Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Ayyub] dari [Humaid bin Hilal] dari [Abu Burdah] dia berkata; [Aisyah] penah mengeluarkan pakaian dan kain sarung yang kasar, lalu dia berkata; "Ruhnya Nabi shallallahu 'alaihi wasallam diambil ketika beliau mengenakan dua kain ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5818</td></tr><tr><td>Arabic No</td><td>5818</td></tr><tr><td>Reference</td><td>Book 77 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бурда передаёт: «‘Аиша показала нам одежду и изар из грубой ткани и сказала: “Когда Пророк ﷺ умер, на нём была эта одежда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5818</td></tr><tr><td>Arabic No</td><td>5818</td></tr><tr><td>Reference</td><td>Book 77 Hadith 35</td></tr></tbody></table></div>
 

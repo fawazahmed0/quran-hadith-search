@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Umm Salamah said I complained to the Apostle of Allaah(ﷺ) that I was ill. He s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi] dari [Malik] dari [Muhammad bin Abdurrahman bin Naufal] dari ['Urwah bin Az Zubair] dari [Zainab binti Abu Salamah] dari [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam bahwa ia berkata; aku mengeluhkan kepada Rasulullah shallAllahu wa'alaihi wa sallam bahwa aku sedang sakit. Kemudian beliau berkata: "Berthawaflah di belakang orang-orang dengan menaiki kendaraan." Ummu Salamah berkata; kemudian aku melakukan thawaf sementara Rasulullah shallAllahu wa'alaihi wa sallam pada saat itu melakukan shalat di samping Ka'bah, dan beliau membaca Surat Ath Thur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (464) Sahih Muslim (1276)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1882</td></tr><tr><td>Arabic No</td><td>1882</td></tr><tr><td>Reference</td><td>Book 11 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Жена Пророка ﷺ Умм Саляма, да будет доволен ею Аллах, передаёт: «Я пожаловалась Посланнику Аллаха ﷺ на то, что болею, и он сказал: “Совершай таваф позади людей, верхом”. И я так и сделала, а Посланник Аллаха ﷺ в это время совершал молитву рядом с Каабой и читал суру “Клянусь горой! Клянусь Книгой начертанной!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (464) Sahih Muslim (1276)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1882</td></tr><tr><td>Arabic No</td><td>1882</td></tr><tr><td>Reference</td><td>Book 11 Hadith 162</td></tr></tbody></table></div>
 

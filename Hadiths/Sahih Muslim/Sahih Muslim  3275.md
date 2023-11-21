@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported that whenever Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Abdullah] Telah menceritakan kepada kami [Hajjaj bin Muhammad] ia berkata, [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Abu Zubair] bahwa [Ali Al Azdi] telah mengabarkan kepadanya, bahwa [Ibnu Umar], telah mengajarkan kepada mereka, bahwasanya; Apabila Rasulullah shallallahu 'alaihi wasallam telah berada di atas kendaraan hendak bepergian, maka terlebih dahulu beliau bertakbir sebanyak tiga kali. Kemudian beliau membaca do'a sebagai berikut: "SUBHAANALLADZI SAKHKHARA LANAA HAADZA WAMAA KUNNAA LAHU MUQRINIIN WA INAA ILAA RABBINAA LAMUNQALIBUUN. ALLAHUMMA INNAA NASALUKA FI SAFARINAA HADZAL BIRRA WAT TAQWA WA MINAL 'AMALI MAA TARDLA ALLAHUMMA HAWWIN 'ALAINAA SAFARANAA HADZA WATHWI 'ANNAA BU'DAHU ALLAHUMMA ANTASH SHAAHIBU FIS SAFARI WAL KHALIIFATU FIL AHLI ALLAHUMMA INNI 'A'UUDZU BIKA MIN WA'TSAA'IS SAFAR WAKA'AABATIL MANZHARI WA SUU'IL MUNQALABI FIL MAAL WAL AHLI (Ya Allah, sesungguhnya kami memohon kebaikan dan takwa dalam perjalanan ini, kami mohon perbuatan yang Engkau ridloi. Ya Allah, permudahkanlah perjalanan kami ini, dan dekatkanlah jaraknya bagi kami. Ya Allah, Engkaulah pendampingku dalam bepergian dan mengurusi keluarga. Ya Allah, aku berlindung kepada-Mu dari kelelahan dalam bepergian, pemandangan yang menyedihkan dan kepulangan yang buruk dalam harta dan keluarga)." Dan jika beliau kembali pulang, beliau membaca do'a itu lagi dan beliau menambahkan di dalamnya, "AAYIBUUNA TAA'IBNUUNA 'AABIDUUNA LIRABBINAA HAAMIDUUNA (Kami kembali dengan bertaubat, tetap beribadah dan selalu memuji Rabb kami)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3275</td></tr><tr><td>Arabic No</td><td>1342</td></tr><tr><td>Reference</td><td>Book 15 Hadith 479</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3275</td></tr><tr><td>Arabic No</td><td>1342</td></tr><tr><td>Reference</td><td>Book 15 Hadith 479</td></tr></tbody></table></div>
 

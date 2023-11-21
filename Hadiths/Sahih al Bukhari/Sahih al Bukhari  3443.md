@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Both in this world and in th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Sinan] telah bercerita kepada kami [Fulaih bin Sulaiman] telah bercerita kepada kami [Hilal bin 'Ali] dari ['Abdur Rahman bin Abu 'Amrah] dari [Abu Hurairah radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam besabda: "Aku orang yang paling dekat dengan 'Isa bin Maryam 'alaihis salam di dunia dan akhirat, dan para Nabi adalah bersaudara (dari keturunan) satu ayah dengan ibu yang berbeda, sedangkan agama mereka satu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3443</td></tr><tr><td>Arabic No</td><td>3443</td></tr><tr><td>Reference</td><td>Book 60 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Со слов Абу Хурайры, да будет доволен им Аллах, передают также, что Посланник Аллаха ﷺ сказал: «Из всех людей в этом мире и в мире вечном я наиболее близок к ‘Исе, сыну Марйам. Пророки — братья от (одного отца): матери у них разные, а религия их одна»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3443</td></tr><tr><td>Arabic No</td><td>3443</td></tr><tr><td>Reference</td><td>Book 60 Hadith 113</td></tr></tbody></table></div>
 

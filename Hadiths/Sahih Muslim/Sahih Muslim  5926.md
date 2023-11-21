@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that there came to Allah's Apostle (ﷺ) a desert Arab and said:A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Utsman bin Abu Syaibah]; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] dia berkata; "Seorang Arab dusun datang bertanya kepada Nabi shallallahu 'alaihi wasallam: "Ya Rasulullah! Aku bermimpi dalam tidurku, kepalaku di penggal hingga menggelinding lalu aku mengejarnya, bagaimana itu? jawab Rasulullah shallallahu 'alaihi wasallam: "Janganlah kamu menceritakan kepada orang lain permainan setan denganmu kaetika kamu tidur." Kata jabir; 'kemudian aku mendengar Nabi shallallahu 'alaihi wasallam Berkhutbah sesudah itu, sabdanya: "Janganlah sekali-kali seseorang dari kalian menceritakan permainan syetan dengannya ketika tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5926</td></tr><tr><td>Arabic No</td><td>2268.04</td></tr><tr><td>Reference</td><td>Book 42 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5926</td></tr><tr><td>Arabic No</td><td>2268.04</td></tr><tr><td>Reference</td><td>Book 42 Hadith 30</td></tr></tbody></table></div>
 

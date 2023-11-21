@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abbad bin Tamim:My uncle said: The Prophet (ﷺ) said, "One should not
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari ['Abbad bin Tamim] dari [Pamannya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah kamu pergi hingga engkau mendengar suara atau mencium bau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>177</td></tr><tr><td>Arabic No</td><td>177</td></tr><tr><td>Reference</td><td>Book 4 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аббада ибн Тамима о том, что его дядя по отцовской линии (‘Абдуллах ибн Зейд аль-Ансари, да будет доволен им Аллах,) передал, что однажды Пророк ﷺ сказал: «Пусть не не прекращает (молитву), пока не услышит звук или не почувствует запах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>177</td></tr><tr><td>Arabic No</td><td>177</td></tr><tr><td>Reference</td><td>Book 4 Hadith 43</td></tr></tbody></table></div>
 

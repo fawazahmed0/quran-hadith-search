@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said (explaining the meaning of the Qur'anic verse "Who forsake th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas bin Malik] mengenai ayat ini; "Lambung mereka jauh dari tempat tidurnya, sedang mereka berdo'a kepada Rabbnya dengan rasa takut dan penuh harap, dan mereka menafkahkan sebagian dari rizki yang Kami berikan kepada mereka." (QS As Sajadah; 16), kata Anas; "Mereka biasa bangun antara waktu Maghrib hingga Isya' kemudian mereka mengerjakan shalat." Sedangkan Al Hasan mengatakan; "Maksudnya adalah Qiyamul lail
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1321</td></tr><tr><td>Arabic No</td><td>1321</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, говорил об аяте «Они отрывают свои бока от постелей, взывая к своему Господу со страхом и надеждой, и расходуют из того, чем Мы их наделили»: «Это о людях, которые не спали и совершали молитву между закатной и вечерней молитвами». А аль-Хасан сказал: «Речь идёт о совершающих ночную молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1321</td></tr><tr><td>Arabic No</td><td>1321</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
 

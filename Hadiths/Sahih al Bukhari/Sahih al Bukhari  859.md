@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:One night I slept at the house of my aunt Maimuna and the Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah mengabarkan kepada kami [Sufyan] dari ['Amru] berkata, telah mengabarkan kepadaku [Kuraib] dari [Ibnu 'Abbas] radliallahu 'anhuma berkata, "Suatu malam aku pernah menginap di rumah bibiku, Maimunah? radliallahu 'anha. Lalu Nabi shallallahu 'alaihi wasallam tidur dan bangun kembali di sebagian waktu malam, beliau berwudlu dari geriba yang sudah yang digantung secara ringan -'Amru teramat mensedikitkan (air yang dipakai) -. Kemudian beliau berdiri shalat, aku lalu bangun; berwudlu sebagaimana beliau wudlu. Kemudian aku datang dan berdiri di sisi kiri beliau, namun beliau kemudian menggeser aku ke sebelah kanannya. Beliau lalu shalat menurut apa yang Allah kehendaki (lamanya), kemudian beliau berbaring tertidur hingga mendengkur. Setelah itu datanglah seorang mu'adzin yang memberitahukan bahwa waktu shalat shubuh telah tiba. Beliau kemudian berangkat bersama mu'adzin tersebut untuk menunaikan shalat dengan tidak berwudlu lagi." Kami tanyakan kepada 'Amru: "Orang-orang mengatakan bahwa Nabi shallallahu 'alaihi wasallam (jika tidur), mata beliau tidur namun hatinya tidak." Maka 'Amru menjawab, "Aku mendengar 'Ubaid bin 'Umair berkata, "Sesungguhnya mimpinya para Nabi adalah wahyu." Lalu dia membaca firman Allah: '(Sesungguhnya Aku melihat dalam mimpi bahwa Aku menyembelihmu) ' (Qs. Ash Shaffaat:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>859</td></tr><tr><td>Arabic No</td><td>859</td></tr><tr><td>Reference</td><td>Book 10 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Однажды) я остался на ночь (в доме) своей тёти Маймуны. Пророк ﷺ поспал, а когда прошла некоторая часть ночи, Посланник Аллаха ﷺ встал и совершил легкое омовение из висевшего бурдюка. ‘Амр (описал его омовение, как) облегчённое и краткое. Затем он стал молиться, я же совершил такое же омовение, какое совершил он, после чего пришёл и встал слева от него, но он поставил меня справа от себя. Затем он молился сколько пожелал Аллах, после чего лёг спать, и пролежал так, пока не начал храпеть. Затем к нему пришёл муаззин, который сообщил ему о (наступлении времени) молитвы, и он встал с ним на молитву и помолился, не совершив омовения».\n(Суфйан сказал): «Мы сказали ‘Амру, что люди говорят: “Глаза Пророка ﷺ спят, но не спит его сердце”». ‘Амр сказал: «Я слышал, как ‘Убайд ибн ‘Умайр говорил: “Сны пророков являются откровениями”, после чего он прочитал (аят, в котором сказано): “Я вижу во сне, что я закалываю тебя” (Сура «ас-Саффат», аят 102)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>859</td></tr><tr><td>Arabic No</td><td>859</td></tr><tr><td>Reference</td><td>Book 10 Hadith 250</td></tr></tbody></table></div>
 

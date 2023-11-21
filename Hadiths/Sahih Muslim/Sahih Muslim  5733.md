@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), un groupe de compagnons de 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi]; Telah mengabarkan kepada kami [Husyaim] dari [Abu Bisyr] dari [Abu Al Mutawakkil] dari [Abu Sa'id Al Khudri] bahwa beberapa orang sahabat melakukan perjalanan jauh dan berhenti untuk istirahat pada salah satu perkampungan 'Arab, lalu mereka minta dijamu oleh penduduk kampung itu. Tetapi penduduk enggan menjamu mereka. Penduduk bertanya kepada para sahabat; 'Adakah di antara tuan-tuan yang pandai mantera? Kepala kampung kami digigit serangga.' Menjawab seorang sahabat; 'Ya, ada! Kemudian dia mendatangi kepala kampung itu dan memanterainya dengan membaca surat Al Fatihah. Maka kepala kampung itu pun sembuh. Kemudian dia diberi upah kurang lebih tiga puluh ekor kambing. Tetapi dia enggan menerima seraya mengatakan; 'Tunggu! Aku akan menanyakannya lebih dahulu kepada Nabi shallallahu 'alaihi wasallam, apakah aku boleh menerimanya.' Lalu dia datang kepada Nabi shallallahu 'alaihi wasallam menanyakannya hal itu, katanya; 'Ya, Rasulullah! Demi Allah, aku telah memanterai seseorang dengan membacakan surat Al Fatihah.' Beliau tersenyum mendengar cerita sahabatnya dan bertanya: 'Bagaimana engkau tahu Al Fatihah itu mantera? ' Kemudian sabda beliau pula: 'Terimalah pemberian mereka itu, dan berilah aku bagian bersama-sama denganmu.' Telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Abu Bakr bin Nafi'] keduanya dari [Ghundar Muhammad bin Ja'far] dari [Syu'bah] dari [Abu Bisyr] melalui jalur ini, dia menyebutkan di dalam Haditsnya; 'Kemudian orang itu mulai membacakan Ummul Qur'an, dan mengumpulkan ludahnya lalu memuntahkannya, setelah itu orang itu sembuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5733</td></tr><tr><td>Arabic No</td><td>2201.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5733</td></tr><tr><td>Arabic No</td><td>2201.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 87</td></tr></tbody></table></div>
 

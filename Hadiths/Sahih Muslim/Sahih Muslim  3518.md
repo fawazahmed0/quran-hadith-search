@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir (Allah be pleased with him) reported that Allah's Messenger (may peace he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdurrahman bin Mahdi]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] dia berkata; Telah menceritakan kepada kami [Sufyan] dari [Abu Az Zubair] dari [Jabir] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian diundang ke jamuan makan, hendaknya ia mendatanginya, jika ia menghendaki, silakan makan, dan jika ia tidak menghendaki, ia boleh meninggalkannya." (Ibnu Mutsanna) tidak menyebutkan ke jamuan makanan. Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Juraij] dari [Abu Az Zubair] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3518</td></tr><tr><td>Arabic No</td><td>1430.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3518</td></tr><tr><td>Arabic No</td><td>1430.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 121</td></tr></tbody></table></div>
 

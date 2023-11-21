@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:No Sadaqa (zakat)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Kamil Fudlail bin Husain Al Jahdari] Telah menceritakan kepada kami [Bisyr yakni Ibnu Mufadldlal] Telah menceritakan kepada kami [Umarah bin Ghaziyyyah] dari [Yahya bin Umarah] ia berkata, saya mendengar [Abu Sa'id Al Khudri] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak wajib dizakati binatang ternak yang kurang dari lima ekor, dan emas perak yang kurang dari lima uqiyah (lima uqiyah sama dengan dua ratus dirham)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2266</td></tr><tr><td>Arabic No</td><td>979.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Не выплачивается закят (с урожая) менее чем в пять “васков” (Прим. пер. мера объёма, один васк равен шестидесяти са‘); и не выплачивается закят со стада, состоящего менее чем из пяти верблюдов; и не выплачивается закят с менее чем пяти “окый” (Прим. пер. мера веса, один окый равен сорока дирхамом) серебра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2266</td></tr><tr><td>Arabic No</td><td>979.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
 

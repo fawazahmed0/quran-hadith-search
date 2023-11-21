@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:The Prophet (ﷺ) said, 'O people! The reward of d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Yahya bin Sa'id] dari [Muhammad bin Ibrahim] dari [Alqomah bin Waqqash] mengatakan, aku mendengar [Umar bin Khaththab] radliallahu 'anhu berpidato, dia mengatakan, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Hai manusia, hanyasanya amal itu tergantung niyatnya, dan setiap orang mendapatkan sesuai yang diniatkan, barangsiapa hijrahnya karena Allah dan rasul-Nya,, maka hijrahnya dihitung karena Allah dan rasul-Nya, barangsiapa hijrahnya karena dunia yang ingin diperolehnya, atau wanita yang ingin dinikahinya, maka hijrahnya sekedar mendapat yang diniatkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6953</td></tr><tr><td>Arabic No</td><td>6953</td></tr><tr><td>Reference</td><td>Book 90 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькъама ибн Ваккъас сказал:\n— Я слышал, как ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, будучи на минбаре сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “О люди! Поистине, дела (оцениваются) только по намерениям и, поистине, каждому человеку (достанется) только то, что он намеревался (обрести), и поэтому (человек, совершавший) переселение к Аллаху и посланнику Его, переселится к Аллаху и посланнику Его, переселявшийся же ради чего-нибудь мирского или ради женщины, на которой он хотел жениться, переселится (лишь) к тому, к чему он переселялся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6953</td></tr><tr><td>Arabic No</td><td>6953</td></tr><tr><td>Reference</td><td>Book 90 Hadith 1</td></tr></tbody></table></div>
 

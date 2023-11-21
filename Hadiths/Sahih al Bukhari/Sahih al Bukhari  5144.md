@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Beware of suspicion (about others)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] dari [Ja'far bin Rabi'ah] dari [Al A'raj] ia berkata; [Abu Hurairah] berkata; Satu warisan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jauhilah oleh kalian perasangka, sebab perasangka itu adalah ungkapan yang paling dusta. Dan janganlah kalian mencari-cari aib orang lain, jangan pula saling menebar kebencian dan jadilah kalian orang-orang yang bersaudara. Janganlah seorang laki-laki meminang atas pinangan saudaranya hingga ia menikahinya atau meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>5144</td></tr><tr><td>Reference</td><td>Book 67 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+А также (он сказал): «И пусть не сватается человек вслед за (нерасторгнутым) сватовством своего брата до тех пор, пока тот не женится (на этой женщине) или не откажется (от этого сватовства)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>5144</td></tr><tr><td>Reference</td><td>Book 67 Hadith 79</td></tr></tbody></table></div>
 

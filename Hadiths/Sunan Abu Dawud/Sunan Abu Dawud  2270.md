@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Arqam: Three persons were brought to Ali (Allah be pleased wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khusyaisy bin Ashram], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ats Tsauri] dari [Shalih Al Hamdani] dari [Asy Sya'bi] dari [Abdu Khair] dari [Zaid bin Arqam], ia berkata; Ali radliallahu 'anhu dihadapkan kepadanya tiga orang pada saat ia berada di Yaman, mereka telah menggauli seorang wanita dalam satu masa suci. Kemudian Ali bertanya kepada dua orang; apakah engkau mengakui anak tersebut miliknya. Mereka berkata; tidak. Hingga Ali bertanya kepada mereka bersama, dan setiap kali ia bertanya kepada dua orang; apakah kalian mengakui anak tersebut untuknya? Mereka mengaatakan; tidak. Kemudian ia mengundi diantara mereka dan mengikutkan anak dengan orang yang keluar undiannya, dan membebankan kepadanya agar membayar dua pertiga diyah kepada kedua sahabatnya tersebut. Zaid bin Arqam berkata; kemudian hal tersebut diceritakan kepada Nabi shallallahu 'alaihi wasallam maka beliau tertawa hingga nampak gigi-gigi geraham beliau. Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz], telah menceritakan kepada kami [ayahku], telah menceritakan kepada kami [Syu'bah] dari [Salamah], [Asy Sya'bi] mendengar dari [Al Khalil] atau dari Ibnu Al Khalil berkata; [Ali] radliallahu 'anhu dihadapkan pada permasalahan mengenai seorang wanita yang melahirkan dari tiga orang …. Seperti hadits tersebut, dan tidak menyebutkan Yaman, serta Nabi shallallahu 'alaihi wasallam serta perkataan beliau: "Relakan anak tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2270</td></tr><tr><td>Arabic No</td><td>2270</td></tr><tr><td>Reference</td><td>Book 13 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Аркама, что, когда ‘Али, да будет доволен им Аллах, был в Йемене, к нему привели троих мужчин, которые вступали в близость с одной женщиной в один и тот же период чистоты. Он спросил двоих, указывая на третьего: «Признаёте ли вы, что это его ребёнок?» Они ответили: «Нет». Он спросил их всех таким образом, однако все они ответили отрицательно. Тогда он велел им тянуть жребий и постановил, что ребёнок должен достаться тому, кому выпадет жребий, и он должен выплатить двум своим товарищам две трети выкупа. Он также упомянул о том, что, когда Пророк ﷺ рассказали об этом, он улыбнулся так, что показались его задние зубы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2270</td></tr><tr><td>Arabic No</td><td>2270</td></tr><tr><td>Reference</td><td>Book 13 Hadith 96</td></tr></tbody></table></div>
 

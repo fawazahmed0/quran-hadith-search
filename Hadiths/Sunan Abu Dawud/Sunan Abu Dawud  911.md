@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu sa’I al-Khudri said:The mark of earth was seen on the forehead and nose of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'ammal bin Al Fadl] telah menceritakan kepada kami [Isa] dari [Ma'mar] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Sa'id Al Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam terlihat pada dahi dan ujung hidung beliau ada bekas tanah, setelah mengerjakan shalat bersama orang-orang." Abu Ali mengatakan; "Hadits ini tidak di baca oleh Abu Daud di pemaparan yang ke empat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 2 Hadith 522</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что после молитвы, которую Посланник Аллаха ﷺ совершал с людьми, на его лбу и переносице виднелись следы глины от земного поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 2 Hadith 522</td></tr></tbody></table></div>
 

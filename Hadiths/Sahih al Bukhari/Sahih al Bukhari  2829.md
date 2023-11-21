@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Five are regarded as martyrs
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Sumayya] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Syuhada' (orang yang mati syahid) ada lima; yaitu orang yang terkena wabah penyakit Tha'un, orang yang terkena penyakit perut, orang yang tenggelam, orang yang tertimpa reruntuhan bangunan dan yang mati syahid di jalan Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2829</td></tr><tr><td>Arabic No</td><td>2829</td></tr><tr><td>Reference</td><td>Book 56 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Пятеро являются мучениками (шахидами): умершие от чумы, умершие от болезней живота, утонувшие, погребённые под обломками и павшие на пути Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2829</td></tr><tr><td>Arabic No</td><td>2829</td></tr><tr><td>Reference</td><td>Book 56 Hadith 45</td></tr></tbody></table></div>
 

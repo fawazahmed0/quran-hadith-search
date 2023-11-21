@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that while Allah's Messenger (ﷺ) was delivering th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Rabi' Az Zahrani] dan [Qutaibah bin Sa'id] keduanya berkata, telah menceritakan kepada kami [Hammad] ia adalah Ibnu Zaid dari [Amru bin Dinar] dari [Jabir bin Abdullah] ia berkata; Ketika Rasulullah shallallahu 'alaihi wasallam menyampaikan khutbah pada hari Jum'at, tiba-tiba datanglah seorang laki-laki dan Nabi shallallahu 'alaihi wasallam pun bertanya kepadanya: "Apakah kamu telah menunaikan shalat (dua raka'at) wahai Fulan?" laki-laki itu pun menjawab, "Belum." Beliau bersabda: "Bangun dan shalatlah." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ya'qub Ad Dauraqi] dari [Ibnu Ulayyah] dari [Ayyub] dari [Amru] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam, yakni sebagaimana apa yang dikatakan Hammad, namun ia tidak menyebutkan dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2018</td></tr><tr><td>Arabic No</td><td>875.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «(Как-то раз) во время произнесения Пророком ﷺ хутбы в пятницу (в мечеть) пришёл один человек. Пророк ﷺ спросил (этого человека): “Совершил ли ты молитву, о такой-то?” (Тот) ответил: “Нет”. (Пророк ﷺ) сказал: “(Тогда) встань и помолись”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2018</td></tr><tr><td>Arabic No</td><td>875.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 68</td></tr></tbody></table></div>
 

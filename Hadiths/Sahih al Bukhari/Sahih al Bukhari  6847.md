@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A bedouin came to Allah's Messenger (ﷺ) and said, "My wif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah mengabarkan kepadaku [Malik] dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dari [Abu Hurairah] radliallahu 'anhu, bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah kedatangan seorang arab badui dan berujar; 'Wahai Rasulullah, istriku melahirkan bayi hitam.' Nabi bertanya; "Apakah kamu punya unta?" 'ya' jawabnya. Nabi bertanya lagi: "Apa warnanya?" 'Merah' Jawabnya. Nabi bertanya lagi: "apakah disana ada warna kecoklat-coklatan?" 'ya' jawabnya. Nabi bertanya lagi; "darimana warna itu ada?" 'pendapat saya, warna itu diturunkan karena akar keturunan.' Nabi bersabda: "warna anakmu bisa jadi juga karena akar keturunan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6847</td></tr><tr><td>Arabic No</td><td>6847</td></tr><tr><td>Reference</td><td>Book 86 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что один бедуин пришёл к Посланнику Аллаха ﷺ и сказал: «Поистине, моя жена родила темнокожего ребёнка». Тогда Посланник Аллаха ﷺ спросил его: «Есть ли у тебя верблюды?» Тот сказал: «Да». Он спросил: «Какого они цвета?» Тот сказал: «Рыжего». Он спросил: «А есть ли среди них серые?» Бедуин сказал: «Да». (Посланник Аллаха ﷺ) спросил: «Откуда же они взялись?» (Этот человек) ответил: “Я думаю это передалось им по наследству”. Тогда он сказал: “Так, может быть, и у твоего сына это передалось по наследству!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6847</td></tr><tr><td>Arabic No</td><td>6847</td></tr><tr><td>Reference</td><td>Book 86 Hadith 69</td></tr></tbody></table></div>
 

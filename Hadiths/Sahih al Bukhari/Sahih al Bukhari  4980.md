@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Uthman:I was informed that Gabriel came to the Prophet (ﷺ) while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] Telah menceritakan kepada kami [Mu'tamir] ia berkata; Aku mendengar [bapakku] dari [Abu Utsman] ia berkata; Telah diberitakan kepadaku, bahwa Jibril mendatangi Nabi shallallahu 'alaihi wasallam, sementara di sisi beliau ada Ummu Salamah. Maka Jibril pun berbincang-bincang. Kemudian Nabi shallallahu 'alaihi wasallam bertanya kepada Ummu Salamah: "Siapakah ini?" Ia menjawab, "Ini adalah Dihyah." Setelah beranjak, Ummu Salamah berkata, "Demi Allah, tidaklah aku menduganya bahwa ia adalah Jibril, hingga aku mendengar Khuthbah Nabi shallallahu 'alaihi wasallam yang menyampaikan berita tentang Jibril." Atau sebagaimana yang dikatakan Abu Utsman. Aku bertanya kepada Abu Utsman, "Dari mana Anda mendengar hadits ini?" Ia menjawab, "Dari [Usamah bin Zaid]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4980</td></tr><tr><td>Arabic No</td><td>4980</td></tr><tr><td>Reference</td><td>Book 66 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ‘Усмана сказал: «Мне было сообщено, что (однажды) Джибриль явился к Пророку ﷺ в то время, когда у него находилась Умм Саляма, и стал говорить (с ним, когда же он ушёл), Пророк ﷺ спросил Умм Саляму: “Кто это?” (или же он задал ей подобный вопрос). Она ответила: “Это Дихйа”. А потом Умм Саляма говорила: “Клянусь Аллахом, я считала, что это не кто иной, как (Дихйа), пока не услышала, как во время одной хутбы Пророк ﷺ говорит о Джибриле!” — или же было сказано нечто подобное».\nОдин из передатчиков хадиса сказал: «Я спросил Абу ‘Усмана: “От кого ты это слышал?” Он ответил: “От Усамы ибн Зейда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4980</td></tr><tr><td>Arabic No</td><td>4980</td></tr><tr><td>Reference</td><td>Book 66 Hadith 2</td></tr></tbody></table></div>
 

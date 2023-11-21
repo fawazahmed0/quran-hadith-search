@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that when the Messenger of Allah (ﷺ) decided upon doing any ac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ali bin Khasyram] telah mengabarkan kepada kami [Isa yaitu Ibnu Yunus], dari [Syu'bah] dari [Qatadah] dari [Zurarah] dari [Sa'd bin Hisyam Al Anshari] dari ['Aisyah] katanya; "Jika Rasulullah shallallahu 'alaihi wasallam melakukan suatu aktivitas, maka beliau berusaha melanggengkannya (menjadikan abadi, rutin), jika beliau ketiduran malam hari atau sakit, maka beliau melaksanakan shalat dua belas raka'at di siang harinya." 'Aisyah melanjutkan; "Aku tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam shalat malam hingga pagi hari, dan beliau juga tidak pernah berpuasa sebulan penuh secara turut berturut selain bulan Ramadhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1744</td></tr><tr><td>Arabic No</td><td>746.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Начав делать что-то (из проявлений покорности Аллаху), Посланник Аллаха ﷺ делал это регулярно. Если же он просыпал ночную молитву или не совершал её из-за болезни, то совершал днём (дополнительные молитвы, общее количество) рак‘атов (которых равнялось) двенадцати. И я не видела, чтобы Посланник Аллаха ﷺ молился всю ночь до самого утра, или постился весь месяц, если не считать рамадана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1744</td></tr><tr><td>Arabic No</td><td>746.06</td></tr><tr><td>Reference</td><td>Book 6 Hadith 173</td></tr></tbody></table></div>
 

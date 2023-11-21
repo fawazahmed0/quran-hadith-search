@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Maimunah said:A mouse fell into clarified butter. The Prophet (ﷺ) was informed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Az Zuhri] dari ['Ubaidillah bin Abdullah] dari [Ibnu Abbas] dari [Maimunah] bahwa ada seekor tikus yang jatuh ke dalam mentega, lalu aku beritahukan kepada Nabi shallallahu 'alaihi wasallam. Kemudian beliau bersabda: "Buanglah sekitarnya dan makanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5538)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3841</td></tr><tr><td>Arabic No</td><td>3841</td></tr><tr><td>Reference</td><td>Book 28 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Маймуны, да будет доволен ею Аллах, что однажды мышь упала в масло. Пророку ﷺ сказали об этом, и он сказал: «Выбросьте масло, которое было вокруг неё, и ешьте остальное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5538)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3841</td></tr><tr><td>Arabic No</td><td>3841</td></tr><tr><td>Reference</td><td>Book 28 Hadith 106</td></tr></tbody></table></div>
 

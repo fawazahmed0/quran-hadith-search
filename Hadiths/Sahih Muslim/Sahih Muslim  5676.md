@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Wahb reported:I heard Laith b. Said as saying: Al-Hamv means the brother of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami [Ibnu Wahb] ia berkata; Aku mendengar [Al Laits bin Sa'd] berkata; "Al Hamwu adalah saudara suami dan yang lainnya dari kerabat dekat suami seperti sepupu dan seterusnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5676</td></tr><tr><td>Arabic No</td><td>2172.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5676</td></tr><tr><td>Arabic No</td><td>2172.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 30</td></tr></tbody></table></div>
 

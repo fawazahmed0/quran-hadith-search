@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:the mother of the faithful believers: Allah's Messenger (ﷺ) in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada kami [Malik bin Anas] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] Ummul Mukminin, bahwa Rasulullah shallallahu 'alaihi wasallam berkata saat dalam kondisi sakitnya: "Suruhlah Abu Bakar untuk memimpin shalat orang-orang." 'Aisyah berkata, "Aku lalu berkata, "Jika Abu Bakar menggantikan posisi tuan, tidak akan mampu memperdengarkan suara bacaannya kepada orang banyak karena dia mudah menangis (dalam shalat). Sebaiknya suruhlah 'Umar untuk memimpin orang-orang shalat berjama'ah." Beliau bersabda: "Suruhlah Abu Bakar memimpin shalat." 'Aisyah lalu berkata kepada Hafshah, "Katakanlah kepada Beliau, 'Jika Abu Bakar menggantikan posisi tuan, maka dia tidak akan mampu memperdengarkan suara bacaannya kepada orang banyak karena dia sering menangis (dalam shalat). Untuk itu, suruhlah 'Umar untuk memimpin orang-orang shalat berjama'ah." Maka Hafshah melaksanakannya. Kemudian bersabdalah Rasulullah shallallahu 'alaihi wasallam: "Celakalah kalian! Sungguh kalian ini seperti isteri-isteri Yusuf. Suruhlah Abu Bakar memimpin orang-orang shalat." Hafshah lantas kepada 'Aisyah, "Sungguh aku tidak mendapatkan kebaikan darimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 10 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, о том, во время своей болезни, Посланник Аллаха ﷺ сказал: «Велите Абу Бакру совершить намаз с людьми!» ‘Аиша сказала: «Я сказала: “Поистине, если Абу Бакр встанет на твоё место, то люди не услышат его из-за его плача, так вели же ‘Умару, пусть он помолится (с ними)”». Однако он снова сказал: «Велите Абу Бакру совершить намаз с людьми!» ‘Аиша сказала Хафсе: «Скажи ему, что если Абу Бакр встанет на твоё место, то люди не услышат его из-за его плача, так вели же ‘Умару, пусть он помолится с людьми». И Хафса сделала то (о чём просила ‘Аиша) и тогда Посланник Аллаха ﷺ сказал: «Нет же, поистине, вы подобны женщинам, влюбившимся в Йусуфа! Велите же Абу Бакру, пусть совершит намаз с людьми!» Хафса сказала ‘Аише: «Я не получала от тебя добра!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 10 Hadith 111</td></tr></tbody></table></div>
 

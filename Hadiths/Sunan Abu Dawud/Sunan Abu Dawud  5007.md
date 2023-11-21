@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Zaid bin Aslam] dari [Abdullah bin Umar] ia berkata, "Dua orang laki-laki datang dari wilayah timur, mereka lalu berkhutbah hingga membuat orang-orang kagum -karena kafasihan penjelasannya-. Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Sesungguhnya dalam penjelasan yang fasih dan menarik itu terdapat sihir, atau beliau mengatakan, "Sesungguhnya sebagian dari penjelasan yang fasih dan menarik itu adalah sihir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5767)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5007</td></tr><tr><td>Arabic No</td><td>5007</td></tr><tr><td>Reference</td><td>Book 43 Hadith 235</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5767)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5007</td></tr><tr><td>Arabic No</td><td>5007</td></tr><tr><td>Reference</td><td>Book 43 Hadith 235</td></tr></tbody></table></div>
 

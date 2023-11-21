@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:that Allah's Messenger (ﷺ) (p.b.u.h) said, "Whoever atten
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] berkata, aku membacakan kepada [Ibnu Abu Dza'bi] dari [Sa'id bin Abu Sa'id Al Maqbariy] dari [bapaknya] bahwasanya dia pernah bertanya kepada [Abu Hurairah radliallahu 'anhu], maka Abu Hurairah radliallahu 'anhu menjawab; Aku mendengar Nabi Shallallahu'alaihiwasallam. Dan dalam riwayat lain telah menceritakan kepada kami [Ahmad bin Syabib bin Sa'id] berkata, telah menceritakan [bapakku] kepadaku, telah menceritakan kepada kami [Yunus] berkata, [Ibnu Syihab] dan telah menceritakan kepada saya ['Abdurrahman Al A'raj] bahwa [Abu Hurairah radliallahu 'anhu] berkata; Telah bersabda Rasulullah Shallallahu'alaihiwasallam: "Barangsiapa yang menyaksikan jenazah hingga ikut menyolatkannya maka baginya pahala satu qirath, dan barangsiapa yang menyaksikan jenazah hingga ikut menguburkannya maka baginya pahala dua qirath". Ditanyakan kepada Beliau; "Apa yang dimaksud dengan dua qirath?" Beliau menjawab: "Seperti dua gunung yang besar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1325</td></tr><tr><td>Arabic No</td><td>1325</td></tr><tr><td>Reference</td><td>Book 23 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот, кто будет присутствовать на похоронах до завершения заупокойной молитвы, получит “кырат”. А тот, кто будет присутствовать на них, пока (покойного) не захоронят, получит два “кырата”». Люди спросили: «А что за два “кырата”?» Он ответил: «Они подобны двум огромным горам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1325</td></tr><tr><td>Arabic No</td><td>1325</td></tr><tr><td>Reference</td><td>Book 23 Hadith 81</td></tr></tbody></table></div>
 

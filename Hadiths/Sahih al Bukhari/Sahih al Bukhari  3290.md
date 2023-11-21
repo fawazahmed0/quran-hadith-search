@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:On the day (of the battle) of Uhud when the pagans were defeated
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3290</td></tr><tr><td>Arabic No</td><td>3290</td></tr><tr><td>Reference</td><td>Book 59 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «В день (битвы) при Ухуде, когда многобожники были побеждены, Иблис воскликнул: “О рабы Аллаха! Защищайте ваши спины!” Тогда (мусульмане) из первых рядов обернулись и стали сражаться с мусульманами из задних рядов (думая, что это многобожники). Когда Хузейфа оглянулся и увидел своего отца аль-Йамана, (подвергшегося нападению мусульман), он воскликнул: “О рабы Аллаха! Мой отец! Мой отец!” Клянусь Аллахом, они не остановились, пока не убили его. Тогда Хузейфа сказал: “Да простит вас Аллах!”». \n‘Урва сказал: «Хузейфа продолжал творить добро (призывая Аллаха простить убийц своего отца), пока не встретил Аллаха (т.е. пока умер)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3290</td></tr><tr><td>Arabic No</td><td>3290</td></tr><tr><td>Reference</td><td>Book 59 Hadith 99</td></tr></tbody></table></div>
 

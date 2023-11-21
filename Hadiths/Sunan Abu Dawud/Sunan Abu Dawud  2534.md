@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: Once the Messenger of Allah (ﷺ) intended to go on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari], telah menceritakan kepada kami ['Ubaidah bin Humaid], dari [Al Aswad bin Qais], dari [Nubaih Al 'Anazi], dari [Jabir bin Abdullah], ia telah menceritakan dari Rasulullah shallallahu 'alaihi wasallam bahwa beliau hendak berperang. Lalu beliau berkata: "Wahai orang-orang muhajirin, dan anshar. Sesungguhnya diantara saudara-saudara kalian terdapat orang-orang yang tidak memiliki harta dan keluarga, maka hendaknya salah seorang diantara kalian menggabungkan dua atau tiga orang kepadanya." Tidaklah salah seorang diantara kami memiliki tunggangan yang membawanya melainkan bergantian seperti salah seorang diantara mereka bergiliran. Jabir bin Abdullah berkata; dan aku menggabungkan dua atau tiga orang kepadaku. Ia berkata; aku tidak memiliki melainkan unta melainkan untuk bergiliran seperti salah seorang dari mereka bergiliran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 15 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 15 Hadith 58</td></tr></tbody></table></div>
 

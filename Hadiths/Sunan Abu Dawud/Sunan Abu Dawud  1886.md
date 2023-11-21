@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said The Apostle of Allaah(ﷺ) came to Makkah while the fever of Y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad bin Zaid] dari [Hammad bin Zaid] dari [Ayyub] dari [Sa'id bin Jubair] bahwa ia menceritakan dari [Ibnu Abbas], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam datang ke Mekkah, dalam keadaan lemah karena sakit demam di Madinah. Kemudian orang-orang musyrik berkata; sesungguhnya datang kepada kalian sebuah kaum yang menjadi lemah karena demam, dan mereka menjumpai keburukan. Kemudian Allah subhanah memperlihatkan kepada NabiNya shallallahu 'alaihi wasallam apa yang mereka katakana. Kemudian beliau memerintahkan mereka agar berlari-lari kecil tiga kali putaran, dan berjalan diantara dua rukun. Kemudian tatkala orang-orang musyrik melihat mereka berlari-lari kecil maka mereka berkata; mereka orang-orang yang kalian sebutkan bahwa demam telah melemahkan mereka, mereka adalah orang yang lebih kuat daripada kita. Ibnu Abbad berkata; dan beliau tidak memerintahkan mereka untuk berlari-lari kecil seluruh putaran, kecuali sebagai belas kasihan terhadap mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1602) Sahih Muslim (1266)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1886</td></tr><tr><td>Arabic No</td><td>1886</td></tr><tr><td>Reference</td><td>Book 11 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Когда Посланник Аллаха ﷺ со своими сподвижниками прибыл в Мекку, они были ослаблены ясрибской лихорадкой и язычники стали говорить: “Он пришёл к вам, а его люди ослаблены ясрибской лихорадкой”. Всевышний Аллах известил об этом Своего Посланника ﷺ. И тогда Пророк ﷺ велел им при тавафе пройти первые три круга быстрым шагом, переходя на обычный шаг между двумя углами. Увидев, как быстро они двигаются, язычники воскликнули: “И это те, о ком вы утверждаете, что они ослаблены ясрибской лихорадкой?! Да они выносливее нас!”».Ибн ‘Аббас сказал: «И только сострадание по отношению к ним помешало ему приказать им пройти быстрым шагом все семь кругов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1602) Sahih Muslim (1266)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1886</td></tr><tr><td>Arabic No</td><td>1886</td></tr><tr><td>Reference</td><td>Book 11 Hadith 166</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:If I saw deers grazing in Medina, I would not chase them, f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] bahwa dia berkata: "Seandainya aku melihat seekor kijang sedang digembalakan di Madinah ini tentu aku tidak akan membuatnya terkejut (menggannggunya). Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Antara dua batu hitam kota Madinah adalah tanah haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1873</td></tr><tr><td>Arabic No</td><td>1873</td></tr><tr><td>Reference</td><td>Book 29 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, говорил: «Если бы я увидел антилоп, пасущихся в Медине, я бы не преследовал их (не охотился бы), ибо Посланник Аллаха ﷺ сказал: “(Территория) Медины между двумя лавовыми горами является запретной”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1873</td></tr><tr><td>Arabic No</td><td>1873</td></tr><tr><td>Reference</td><td>Book 29 Hadith 7</td></tr></tbody></table></div>
 

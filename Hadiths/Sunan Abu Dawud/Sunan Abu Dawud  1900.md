@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abdullah ibn as-Sa'ib reported on the authority of his father as-Sa'ib that he u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami ['Ubaidullah bin Umar bin Maisarah], telah menceritakan kepada Kami [Yahya bin Sa'id], telah menceritakan kepada Kami [As Saib bin 'Amr Al Makhzumi], telah menceritakan kepadaku [Muhammad bin Abdullah bin As Saib], dari [ayahnya] bahwa ia menuntun Ibnu Abbas dan memberdirikannya di sisi ketiga setelah rukun yang terletak setelah hajar aswad, yang terletak setelah pintu. Ibnu Abbas berkata kepadanya; aku telah diberitahu bahwa Rasulullah shallAllahu wa'alaihi wa sallam melakukan shalat di sini. Kemudian As Saib berkata; ya. Kemudian ia berdiri dan melakukan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1900</td></tr><tr><td>Arabic No</td><td>1900</td></tr><tr><td>Reference</td><td>Book 11 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ас-Саиб передаёт, что он подводил Ибн ‘Аббаса к третьему углу, который следует за стеной, в которую вделан камень, и за той, в которой дверь, и Ибн ‘Аббас говорил ему: «Тебе сообщили, что Посланник Аллаха ﷺ совершал молитву здесь?» Он отвечал: «Да». Тогда он совершал молитву на том месте
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1900</td></tr><tr><td>Arabic No</td><td>1900</td></tr><tr><td>Reference</td><td>Book 11 Hadith 180</td></tr></tbody></table></div>
 

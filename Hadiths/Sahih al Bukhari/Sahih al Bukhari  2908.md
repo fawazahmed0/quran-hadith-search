@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The 'Prophet was the best and the bravest amongst the people. Once
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam adalah manusia yang paling baik dan paling berani. Pernah suatu hari penduduk Madinah mengalami gempa bumi di malam hari lalu mereka keluar mencari sumber suara gempa. Maka Nabi shallallahu 'alaihi wasallam mendahului mereka dan ketika berita (kepanikan) sudah selesai Beliau kembali dengan menunggang kuda milik Abu Thalhah yang tidak berpelana sedang di lehernya tergantung sebilah pedang dan Beliau berkata: "Janganlah kalian takut, janganlah kalian takut". Kemudian Beliau melanjutkan: "Kami dapati (kuda) ini seperti lautan (larinya sangat cepat) " atau Beliau berkata: "Sungguh kuda ini sangat cepat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2908</td></tr><tr><td>Arabic No</td><td>2908</td></tr><tr><td>Reference</td><td>Book 56 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Пророк ﷺ был лучшим и самым смелым из людей. Однажды, когда люди в Медине испугались и пошли в направлении шума, (который их напугал,) навстречу к ним вышел Пророк ﷺ, который уже узнал в чём дело. Он ехал на неоседланном коне Абу Тальхи с мечом, перекинутым через плечо, говоря: “Не бойтесь! Не бойтесь!” А затем он сказал: “Мы обнаружили, что этот конь (имеет столь же неисчерпаемую энергию и резвость) как море”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2908</td></tr><tr><td>Arabic No</td><td>2908</td></tr><tr><td>Reference</td><td>Book 56 Hadith 121</td></tr></tbody></table></div>
 

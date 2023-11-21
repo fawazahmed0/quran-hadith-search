@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Whenever a meal was brought to Allah's Messenger (ﷺ), he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Ma'an] berkata, telah menceritakan kepadaku [Ibrahim bin Thohman] dari [Muhammad bin Ziyad] dari [Abu Hurairah radliallahu 'anhu] berkata: "Adalah Rasulullah shallallahu 'alaihi wasallam apabila diberikan makanan, Beliau bertanya tentangnya, apakah ini sebagai hadiah atau shadaqah?". Jika dijawab shadaqah maka Beliau berkata kepada para sahabat Beliau; "Makanlah". Dan Beliau tidak ikut makan". Namun bila dikatakan hadiah, maka Beliau mengulurkan tangan Beliau lalu makan bersama mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2576</td></tr><tr><td>Arabic No</td><td>2576</td></tr><tr><td>Reference</td><td>Book 51 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда Посланнику Аллаха ﷺ приносили какую-нибудь еду, он всегда спрашивал: “Это подарок или садака?” — и если ему говорили, что это садака, он говорил своим сподвижникам: “Ешьте”, а сам не ел. Если же ему говорили, что это подарок, (Пророк) ﷺ сразу же протягивал руку и ел вместе с ними»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2576</td></tr><tr><td>Arabic No</td><td>2576</td></tr><tr><td>Reference</td><td>Book 51 Hadith 11</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zadhan Abl Umar reported:I came to Ibn 'Umar as he had granted freedom to a stav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kamil Fudlail bin Husain Al Jahdari] telah menceritakan kepada kami [Abu 'Awanah] dari [Firas] dari [Dzakwan Abu Shalih] dari [Zadzan Abu 'Umar] dia berkata, "Aku pernah menemui [Ibnu Umar] yang saat itu dia habis memerdekakan seorang budak." Zadzan melanjutkan, "Kemudian dia mengambil dahan atau sesuatu dari atas tanah sambil berkata, "Tidaklah aku mendapatkan pahala melainkan seimbang dengan benda ini, karena aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menampar sahayanya atau memukul sahayanya, maka kafarahnya (tebusannya) adalah memerdekakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4298</td></tr><tr><td>Arabic No</td><td>1657.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4298</td></tr><tr><td>Arabic No</td><td>1657.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 45</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim reported on the authority of his father that Allah's Apostle (ﷺ) said:He
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ibnu Numair] mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Salim] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa memelihara anjing selain anjing untuk berburu atau anjing penjaga binatang ternak, maka pahalanya akan dikurangi dua qirath setiap harinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4024</td></tr><tr><td>Arabic No</td><td>1574.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4024</td></tr><tr><td>Arabic No</td><td>1574.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 63</td></tr></tbody></table></div>
 

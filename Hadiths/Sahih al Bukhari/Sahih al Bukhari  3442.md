@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "I am the nearest o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah mengabarkan kepadaku [Abu Salamah bin 'AbdurRahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata, aku mendengar Rasulullah shallallahu 'alaihi wasallam besabda: "Aku adalah orang yang paling dekat dengan Ibnu Maryam ('Isa) 'alaihis salam, dan para Nabi adalah saudara (dari keturunan) satu ayah, sedangkan antara aku dan dia (Isa) tidak ada Nabi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3442</td></tr><tr><td>Arabic No</td><td>3442</td></tr><tr><td>Reference</td><td>Book 60 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что он слышал, как Посланник Аллаха ﷺ сказал: «Из всех людей я наиболее близок к сыну Марйам. Что касается пророков, то они (подобны) братьям от одного отца и разных матерей, и не было пророка между мной и им»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3442</td></tr><tr><td>Arabic No</td><td>3442</td></tr><tr><td>Reference</td><td>Book 60 Hadith 112</td></tr></tbody></table></div>
 

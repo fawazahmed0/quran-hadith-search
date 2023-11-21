@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Salih bin Muhammad said “We went out on an expedition with Al Walid bin Hisham
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Shalih Mahbub bin Musa Al Anthaki], ia berkata; telah mengabarkan kepada kami [Abu Ishaq] dari [Shalih bin Muhammad], ia berkata; kami pernah berperang bersama Al Walid bin Hisyam, dan bersama kami terdapat Salim bin Abdullah bin Umar, serta Umar bin Abdul Aziz. Kemudian terdapat seorang laki-laki yang berkhianat mengambil sebuah barang. Kemudian Al Walid memerintahkan agar barangnya dibakar dan orang tersebut dibawa berkeliling dan ia tidak memberikan sahamnya kepadanya. Abu Daud berkata; hadits ini adalah hadits paling shahih diantara dua hadits tersebut. Hadits tersebut telah diriwayatkan tidak hanya satu orang bahwa Al Walid bin Hisyam membakar pelana Ziyad bin Sa'd, dan ia telah berkhianat dan Al Walid mencambuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2714</td></tr><tr><td>Arabic No</td><td>2714</td></tr><tr><td>Reference</td><td>Book 15 Hadith 238</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2714</td></tr><tr><td>Arabic No</td><td>2714</td></tr><tr><td>Reference</td><td>Book 15 Hadith 238</td></tr></tbody></table></div>
 

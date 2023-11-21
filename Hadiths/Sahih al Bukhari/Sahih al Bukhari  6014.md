@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said "Gabriel continued to recommend me about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abu Uwais] dia berkata; telah menceritakan kepadaku [Malik] dari [Yahya bin Sa'id] dia berkata; telah mengabarkan kepadaku [Abu Bakr bin Muhammad] dari ['Amrah] dari [Aisyah] radliallahu 'anha dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Jibril senantiasa mewasiatkanku untuk berbuat baik terhadap tetangga sehingga aku mengira tetangga juga akan mendapatkan harta waris
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6014</td></tr><tr><td>Arabic No</td><td>6014</td></tr><tr><td>Reference</td><td>Book 78 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Джибрил не прекращал давать мне наставления о необходимости хорошего отношения к соседу (так долго), что я даже подумал, что он включит его и в число наследников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6014</td></tr><tr><td>Arabic No</td><td>6014</td></tr><tr><td>Reference</td><td>Book 78 Hadith 45</td></tr></tbody></table></div>
 

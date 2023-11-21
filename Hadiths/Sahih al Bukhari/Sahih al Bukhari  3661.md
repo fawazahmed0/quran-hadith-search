@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Ad-Darda:While I was sitting with the Prophet, Abu Bakr came, lifti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Hisyam bin 'Ammar] telah bercerita kepada kami [Shadaqah bin Khalid] telah bercerita kepada kami [Zaid bin Waqid] dari [Busr bin 'Ubaidullah] dari ['Aidzullah Abu Idris] dari [Abu ad-arda' radliallahu 'anhu] berkata; "Aku duduk di samping Nabi shallallahu 'alaihi wasallam, tiba-tiba Abu Bakr datang sambil memegang tepi baju beliau shallallahu 'alaihi wasallam hingga merapat pada lutut beliau. Maka Nabi shallallahu 'alaihi wasallam bertanya: "Apakah teman kalian telah marah?". Maka Abu Bakr memberi salam lalu berkata; "Aku punya masalah dengan Ibnu Al Khaththab lalu aku terlanjur marah kepadanya namun kemudian aku menyesal, aku pun datang menemuinya untuk meminta maaf namun dia enggan memafkan aku. Maka itu aku datang kepada baginda". Maka beliau bersabda: "Allah akan mengampunimu, wahai Abu Bakr". Beliau mengucapkan kalimat ini tiga kali. Kemudian 'Umar menyesal lalu mendatangi kediaman Abu Bakr dan bertanya; "Apakah ada Abu Bakr?". Orang-orang menjawab; "Tidak ada". Kemudian 'Umar menemui Nabi shallallahu 'alaihi wasallam yang kedatangannya ini membuat wajah Nabi shallallahu 'alaihi wasallam nampak marah namun ketegangan itu berhenti karena kedatangan Abu bakr yang langsung duduk bersimpuh pada lutut beliau seraya berkata; "Wahai Rasulullah, aku sudah berbuat aniaya dua kali". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah mengutus aku kepada kalian namun kalian mengatakan; "Kamu pendusta" sedangkan Abu Bakr berkata; "Dia orang yang jujur' dan dia berjuang mengorbankan dirinya dan hartanya. Apakah kalian akan meninggalkan kepadaku sahabatku?"-Beliau ulang dua kali--. Maka sejak saat itu Abu Bakr tidak disakiti lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3661</td></tr><tr><td>Arabic No</td><td>3661</td></tr><tr><td>Reference</td><td>Book 62 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу-д-Дарда, да будет доволен им Аллах, сказал:\n— (Однажды, когда) я сидел у Пророка ﷺ, пришёл Абу Бакр, державшийся за полу своей одежды (и поднявший её так высоко, что) обнажилось его колено. Пророк ﷺ сказал: «Что касается вашего товарища, то он с кем-то спорил». (Абу Бакр приветствовал присутствовавших) и сказал: «У меня был спор с (‘Умаром) Ибн аль-Хаттабом, и я (говорил с ним грубо), а потом пожалел об этом и попросил его простить меня, но он отказался, и я пошёл к тебе!» (Выслушав его, Пророк ﷺ) трижды сказал: «Да простит тебя Аллах, о Абу Бакр!» А потом пожалел и ‘Умар, который пришёл к дому Абу Бакра и спросил: «Абу Бакр там?» (Ему) сказали: «Нет», и тогда он пришёл к Пророку ﷺ и поприветствовал (собравшихся). Что же касается Пророка ﷺ, то на его лице появилось выражение неудовольствия, так что Абу Бакр (даже) пожалел (‘Умара), стал на колени и дважды сказал: «Я был более несправедлив (чем он)!» Тогда Пророк ﷺ сказал: «Поистине, Аллах послал меня, и вы сказали: “Ты лжёшь!” — а Абу Бакр сказал: “Он говорит правду!” — и он поддерживал меня и (не жалел) для меня своих денег!» (А потом Пророк ﷺ) дважды (сказал): «Не прекратите ли вы обижать моего сподвижника?!» — и после этого уже никто не обижал Абу Бакра
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3661</td></tr><tr><td>Arabic No</td><td>3661</td></tr><tr><td>Reference</td><td>Book 62 Hadith 13</td></tr></tbody></table></div>
 

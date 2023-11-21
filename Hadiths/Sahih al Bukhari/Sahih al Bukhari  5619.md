@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Milk mixed with water was brought to Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari [Anas bin Malik] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam pernah diberi susu yang dicampur dengan air, sementara di sebelah kanan beliau terdapat arab badui dan di sebelah kiri beliau adalah Abu Bakar, kemudian beliau meminum susu tersebut dan memberikan sisanya kepada arab badui sambil bersabda: "Yang kanan dan kanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5619</td></tr><tr><td>Arabic No</td><td>5619</td></tr><tr><td>Reference</td><td>Book 74 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, рассказал, что (однажды) Посланнику Аллаха ﷺ подали молоко, разбавленное с водой. (В это время) справа — какой-то бедуин, а слева от него (сидел) Абу Бакр. И он отпил из него, а затем передал (кубок сидевшему) справа от него бедуину и сказал: “(Следует передавать сидящим) справа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5619</td></tr><tr><td>Arabic No</td><td>5619</td></tr><tr><td>Reference</td><td>Book 74 Hadith 45</td></tr></tbody></table></div>
 

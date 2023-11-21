@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu soit satisfait d'elle) a dit : Une nuit, l'Envoyé de Dieu (pai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab]; Telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Yahya bin Sa'id] dari ['Abdillah bin 'Amir bin Rabi'ah] dari ['Aisyah] dia berkata; "Pada suatu malam Rasulullah shallallahu 'alaihi wasallam tidak bisa tidur. Setelah itu beliau berkata; 'Semoga ada seorang laki-laki shalih dari para sahabatku yang akan menjagaku pada malam ini.' Aisyah berkata; Tiba-tiba kami mendengar suara senjata. Kemudian Rasulullah bertanya; 'Siapakah ini? ' dia menjawab; Sa'ad bin Abu Waqqash ya Rasulullah, aku datang kesini untuk menjagamu.' Aisyah berkata; Lalu Rasulullah pun tidur hingga aku dapat mendengar suara dengkur beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6230</td></tr><tr><td>Arabic No</td><td>2410.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6230</td></tr><tr><td>Arabic No</td><td>2410.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 60</td></tr></tbody></table></div>
 

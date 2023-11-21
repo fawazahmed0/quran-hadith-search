@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khalid bin Al-Harith:'Ubaidullah was asked about Al Mahassab. 'Ubaidull
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] telah menceritakan kepada kami [Khalid bin Al Harits] berkata; 'Ubaidullah ditanya tentang Al Muhashshab". Maka ['Ubaidullah] menceritakan kepada kami dari [Nafi'] berkata: "Rasulullah shallallahu 'alaihi wasallam pernah berhenti singgah disana, begitu juga 'Umar dan Ibnu 'Umar". Dan dari Nafi' bahwa [Ibnu'Umar radliallahu 'anhuma] pernah disana, yaitu di Al Muhashshab, shalat Zhuhur, dan 'Ashar". Dan aku menduga dia berkata: "dan shalat Maghrib." Khailid berkata: "Aku tidak meragukan tentang shalat 'Isya', lalu dia tidur sejenak disana". Lalu dia menyebutkan hal itu dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1768</td></tr><tr><td>Arabic No</td><td>1768</td></tr><tr><td>Reference</td><td>Book 25 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Халид ибн аль-Харис сказал: «‘Убайдуллаха спросили об остановке в аль-Мухассабе. И 'Убайдуллах передал, что Нафи‘ сказал: “Посланник Аллаха ﷺ ‘Умар и Ибн ‘Умар останавливались там”. Также Нафи‘ сказал, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, совершал там молитвы (в аль-Мухассабе) зухр и ‘аср. Я думаю, что он упомянул также молитву магъриб». \nХалид сказал: «Я не сомневаюсь в молитве ‘иша (что он тоже совершал её там). Он обычно лежал там некоторое время. И он упоминал, что Пророк ﷺ делал то же самое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1768</td></tr><tr><td>Arabic No</td><td>1768</td></tr><tr><td>Reference</td><td>Book 25 Hadith 244</td></tr></tbody></table></div>
 

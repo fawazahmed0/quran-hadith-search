@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) used to offer the 'Asr prayer when the su
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] berkata, telah menceritakan kepada kami [Anas bin 'Iyadl] dari [Hisyam] dari [Bapaknya] bahwa ['Aisyah] berkata, "Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat 'Ashar sedangkan matahari belum berlalu dari kamarnya (rumah 'Aisyah)." [Abu Umamah] menyebutkan dari [Hisyam], "Dari dalam kamarnya (posisi cahayanya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>544</td></tr><tr><td>Arabic No</td><td>544</td></tr><tr><td>Reference</td><td>Book 9 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хишама, передавшего от своего (‘Урвы ибн аз-Зубайра) о том, что ‘Аиша сказала: «Когда Посланник Аллаха ﷺ совершал послеполуденную молитву, солнечный (свет) всё ещё попадал в её комнату».\nАбу Усама сказал: «От Хишама: “В глубь её комнаты”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>544</td></tr><tr><td>Arabic No</td><td>544</td></tr><tr><td>Reference</td><td>Book 9 Hadith 21</td></tr></tbody></table></div>
 

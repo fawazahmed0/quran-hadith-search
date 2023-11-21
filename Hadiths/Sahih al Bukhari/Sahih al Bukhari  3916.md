@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Uthman:I heard that Ibn 'Umar used to become angry if someone ment
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3916</td></tr><tr><td>Arabic No</td><td>3916</td></tr><tr><td>Reference</td><td>Book 63 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ‘Усман сказал: «Я слышал, что Ибн ‘Умар обычно сердился, если кто-то упоминал, что он переселился раньше его отца (‘Умара), и он обычно говорил: “Мы вместе с ‘Умаром пришли к Посланнику Аллаха ﷺ и обнаружили его отдыхающим в полдень, поэтому мы вернулись домой. Затем ‘Умар снова послал меня (к Пророку ﷺ) и сказал: “Иди и посмотри, проснулся ли он”. Я пришёл к нему и присягнул (на верность). Затем я вернулся к ‘Умару и сообщил ему, что Пророк ﷺ проснулся. И мы оба отправились к нему, почти бегом, а когда ‘Умар вошёл к нему, он присягнул (на верность), и после этого я тоже присягнул (ему на верность)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3916</td></tr><tr><td>Arabic No</td><td>3916</td></tr><tr><td>Reference</td><td>Book 63 Hadith 141</td></tr></tbody></table></div>
 

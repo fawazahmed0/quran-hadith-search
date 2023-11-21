@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Once the people started asking Allah's Messenger (ﷺ) questions, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Anas] radliallahu 'anhu; bahwa para sahabat banyak bertanya kepada Rasulullah shallallahu 'alaihi wasallam sehingga mereka setengah memaksa dengan pertanyaan-pertanyaan itu. Maka beliau marah dan langsung naik mimbar sambil bersabda: 'Tidaklah kalian bertanya kepadaku mengenai sesuatu, melainkan aku selalu jelaskan kepada kalian', lantas aku melihat kanan-kiri, tak tahunya setiap orang menutupi kepalanya dengan pakaiannya sambil menangis, Secara spontan muncullah seseorang yang jika bermusuhan, ia dipanggil dengan nasab selain ayahnya, maka orang itu berujar 'Wahai nabiyullah siapakah ayahku? Beliau menjawab: 'ayahmu adalah Hudzafah." Umarpun bergegas mengucapkan RADHIINA BILLAHI RABBAN WABIL ISLAAMI DIINAN WABI MUHAMMADIN shallallahu 'alaihi wasallam RASUULAN NA'UUDZU BILLAH MINAL FITANI (Kami ridha Allah sebagai Tuhan, Islam sebagai agama, dan Muhammad sebagai utusan, kami berlindung kepada Allah dari fitnah), lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku belum pernah melihat keburukan dan kebaikan sama sekali seperti hari ini, sebab hari ini neraka dan surga digambarkan bagiku hingga aku melihat kedua-duanya berada dibalik dinding ini. Dan Qatadah selalu menyebutkan hadits ini ketika membaca ayat 'Wahai orang-orang yang beriman, janganlah kalian bertanya tentang sesuatu yang sekiranya diungkapkan kepada kalian, justru malah menyusahkan kalian." (QS. Al Maidah;)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6362</td></tr><tr><td>Arabic No</td><td>6362</td></tr><tr><td>Reference</td><td>Book 80 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик), да будет доволен им Аллах, сказал: «(Однажды люди) начали задавать Пророку ﷺ слишком много вопросов, и (в один из дней Пророк ﷺ) разгневался, поднялся на минбар и сказал: “О чём бы вы ни спросили меня сегодня, я непременно отвечу вам”. Тогда я стал смотреть направо и налево, и каждый человек покрыл себе голову одеждой и принялся плакать. Тут начал говорить некий человек, который если спорил с кем-либо, (то те люди) относили его не к его отцу, и он спросил: “О пророк Аллаха, кто мой отец?” Он ответил: “Твой отец — Хузафа”. Затем начал говорить ‘Умар: “Мы довольны Аллахом как Господом, Исламом — как религией и Мухаммадом — как посланником! Мы прибегаем к Аллаху за защитой от смут!” И Посланник Аллаха ﷺ сказал: “Я никогда не видел ничего более прекрасного и ничего более отвратительного, чем в этот день. Мне были показаны Рай и Ад так, что я увидел их без преграды”».\nКатада (ибн Ди‘ама) рассказывал этот хадис при упоминание этого аята: «Не спрашивайте о вещах, которые огорчат вас, если станут вам известны» (сура «аль-Маида», 101 аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6362</td></tr><tr><td>Arabic No</td><td>6362</td></tr><tr><td>Reference</td><td>Book 80 Hadith 59</td></tr></tbody></table></div>
 

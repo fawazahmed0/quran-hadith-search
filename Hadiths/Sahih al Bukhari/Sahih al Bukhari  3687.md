@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aslam:Ibn 'Umar asked me about some matters concerning 'Umar. He said, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Sulaiman] berkata, telah bercerita kepadaku [Ibnu Wahb] berkata, telah bercerita kepadaku ['Umar, dia adalah Ibnu Muhammad] bahwa [Zaid bin Aslam] bercerita kepadanya dari [bapaknya] berkata, [Ibnu 'Umar radliallahu 'anhuma] bertanya kepadaku tentang sebagian aktifitas yang biasa dilakukannya, maksudnya 'Umar radliallahu 'anhu, maka dia mengabarkan aku, katanya; "Tidak pernah aku melihat seorangpun setelah Rasulullah shallallahu 'alaihi wasallam yang lebih bersungguh-sungguh dan lebih dermawan (dalam harta) hingga meninggal dunia daripada 'Umar bin Al Khaththab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3687</td></tr><tr><td>Arabic No</td><td>3687</td></tr><tr><td>Reference</td><td>Book 62 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Аслям сказал: «(Однажды) Ибн ‘Умар задал мне некоторые вопросы, касающиеся ‘Умара, и я ответил ему, а он сказал: “С тех пор, как Посланник Аллаха ﷺ умер, я не видел никого более усердного (в поклонении) и более щедрого, чем ‘Умар ибн аль-Хаттаб, (и он продолжал быть таким) до конца своей жизни”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3687</td></tr><tr><td>Arabic No</td><td>3687</td></tr><tr><td>Reference</td><td>Book 62 Hadith 37</td></tr></tbody></table></div>
 

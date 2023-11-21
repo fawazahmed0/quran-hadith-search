@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Uthman reported the Prophet (ﷺ) as saying:The best among you is he who learns 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hafsh bin Umar] telah menceritakan kepada Kami [Syu'bah] dari ['Alqamah bin Martsad] dari [Sa'd bin 'Ubaidah] dari [Abu Abdurrahman] dari [Utsman] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sebaik-baik kalian adalah orang yang mempelajari Al Qur'an dan mengajarkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5027)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1452</td></tr><tr><td>Arabic No</td><td>1452</td></tr><tr><td>Reference</td><td>Book 8 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Усмана, да будет доволен им Аллах, что Пророк ﷺ сказал: «Лучшим из вас является тот, кто обучается Корану и обучает ему других»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5027)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1452</td></tr><tr><td>Arabic No</td><td>1452</td></tr><tr><td>Reference</td><td>Book 8 Hadith 37</td></tr></tbody></table></div>
 

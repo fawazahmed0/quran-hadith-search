@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al-'As:Allah's Messenger (ﷺ) said to me, "O 'A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abbas bin Al Husain] telah menceritakan kepada kami [Mubasysyir bin Isma'il] dari [Al Awza'iy] dan diriwayatkan telah menceritakan kepada saya [Muhammad bin Muqatil Abu Al Hasan] berkata, telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Al Awza'iy] berkata, telah menceritakan kepada saya [Yahya bin Abu Katsir] berkata, telah menceritakan kepada saya [Abu Salamah bin 'Abdurrahman] berkata, telah menceritakan kepada saya ['Abdullah bin 'Amru bin Al 'Ash radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam telah bersabda kepadaku: " Wahai 'Abdullah, janganlah kamu seperti fulan, yang dia biasa mendirikan shalat malam namun kemudian meninggalkan shalat malam". Dan berkata, [Hisyam] telah menceritakan kepada kami [Ibnu Abi Al 'Isyrin] telah menceritakan kepada kami [Al Awza'iy] berkata, telah menceritakan kepada saya [Yahya] dari ['Umar bin Al Hakam bin Tsauban] telah menceritakan kepada saya [Abu Salamah] seperti ini juga. Dan diikuti pula oleh ['Amru bin Abu Salamah] dari [Al Awza'iy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1152</td></tr><tr><td>Arabic No</td><td>1152</td></tr><tr><td>Reference</td><td>Book 19 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Абдуллах бин ‘Амр бин аль-‘Ас, да будет доволен Аллах ими обоими, сказал: «(Однажды) Посланник Аллаха ﷺ сказал мне: “О ‘Абдуллах, не уподобляйся такому-то, который (прежде) всегда совершал молитвы по ночам, а потом перестал делать это!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1152</td></tr><tr><td>Arabic No</td><td>1152</td></tr><tr><td>Reference</td><td>Book 19 Hadith 33</td></tr></tbody></table></div>
 

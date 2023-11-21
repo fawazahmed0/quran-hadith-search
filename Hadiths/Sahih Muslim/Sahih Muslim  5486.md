@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that the ring of Allah's Messenger (ﷺ) was made of silv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub]; Telah menceritakan kepada kami ['Abdullah bin Wahb Al Mishri]; Telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab]; Telah menceritakan kepadaku [Anas bin Malik] ia berkata; "Cincin Rasulullah shallallahu 'alaihi wasallam terbuat dari perak, sedangkan mata cincinnya terbuat dari batu Habasyi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5486</td></tr><tr><td>Arabic No</td><td>2094.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5486</td></tr><tr><td>Arabic No</td><td>2094.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 101</td></tr></tbody></table></div>
 

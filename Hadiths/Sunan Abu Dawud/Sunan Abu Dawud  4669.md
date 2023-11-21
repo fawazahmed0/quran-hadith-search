@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas reported the Prophet (May peace be upon him) as saying :It is not f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Abu Al 'Aliyah] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak pantas bagi seorang hamba mengatakan: "Sesungguhnya aku lebih baik dari Yunus bin Mata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3413) Sahih Muslim (2377)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4669</td></tr><tr><td>Arabic No</td><td>4669</td></tr><tr><td>Reference</td><td>Book 42 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры: «Однажды иудей сказал: “Клянусь Тем, Кто избрал Мусу!” Тогда мусульманин поднял руку и ударил иудея по лицу, а иудей пошёл к Посланнику Аллаха ﷺ и рассказал ему о том, что произошло. Пророк ﷺ сказал: “Не превозносите меня над Мусой, ибо, поистине, в День воскресения люди будут поражены, и я приду в себя первым и увижу Мусу, который будет держаться за край Трона Аллаха. И мне неизвестно, будет ли он поражён вместе с другими и придёт в себя раньше меня, или же он будет среди тех, для кого Всемогущий и Великий Аллах сделает исключение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3413) Sahih Muslim (2377)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4669</td></tr><tr><td>Arabic No</td><td>4669</td></tr><tr><td>Reference</td><td>Book 42 Hadith 74</td></tr></tbody></table></div>
 

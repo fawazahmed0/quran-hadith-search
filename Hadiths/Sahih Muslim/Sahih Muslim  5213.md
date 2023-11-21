@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported on the authority of Zuhri with this chain of trans
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Harmalah bin Yahya At Tujibi] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] bahwa dia mendengar ['Aisyah] berkata, "Rasulullah shallallahu 'alaihi wasallam ditanya mengenai bit'u, maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Setiap minuman yang memabukkan adalah haram." Telah menceritakan kepada kami [Yahya bin Yahya] dan [Sa'id bin Manshur] dan [Abu Bakar bin Abi Syaibah] dan [Amru An Naqid] dan [Zuhair bin Harb] semuanya dari [Ibnu 'Uyainah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Hasan Al Khulwani] dan ['Abd bin Humaid] dari [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [Ayahku] dari [Shalih]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abdu bin Humaid] keduanya berkata; telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] semuanya dari [Az Zuhri] dengan sanad ini, namun dalam hadits Sufyan dan Shalih tidak disebutkan, 'Beliau ditanya mengenai bit'u', akan tetapi hal itu terdapat dalam hadits Ma'mar. Dan dalam hadits Shalih bahwa 'Aisyah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap minuman yang memabukkan adalah haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5213</td></tr><tr><td>Arabic No</td><td>2001.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5213</td></tr><tr><td>Arabic No</td><td>2001.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 87</td></tr></tbody></table></div>
 

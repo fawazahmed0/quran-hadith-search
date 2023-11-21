@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih said:Of the ahadith narrated to us by Abfi Huraira from Muham
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dia berkata, ini yang diceritakan kepada kami oleh [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam -lalu dia menyebutkan hadits-hadits di antaranya-, Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangalah kamu kencing pada air yang menggenang yang tidak mengalir, kemudian kamu mandi darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>657</td></tr><tr><td>Arabic No</td><td>282.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Не мочись в непроточную воду, которую (намереваешься использовать) потом для купания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>657</td></tr><tr><td>Arabic No</td><td>282.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 123</td></tr></tbody></table></div>
 

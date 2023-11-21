@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:A Jew came to the Prophet (ﷺ) and said, "O Muhammad! Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] ia mendengar [Yahya bin Sa'id] dari [Sufyan] telah menceritakan kepadaku [Manshur] dan [Sulaiman] dari [Ibrahim] dari ['Abidah] dari [Abdullah], bahwa seorang Yahudi menemui nabi shallallahu 'alaihi wasallam dan berkata 'Hai Muhammad, Allah memegang langit di atas satu jari, dan seluruh bumi dengan satu jari, dan seluruh gunung dengan satu jari, dan semua pohon hanya dengan satu jari, dan seluruh makhluk yang ada hanya dengan satu jari, lantas berkata 'Akulah Sang raja.' Maka Rasulullah Shallallahu'alaihiwasallam pun tertawa hingga kelihatan gigi serinya, kemudian beliau membaca ayat: '(Dan mereka tidak menghormati Allah dengan penghormatan yang semestinya) ' (QS.Azzumar 67). [Yahya bin Sa'id] berkata, "Dan [Fudlail bin Ziyad] di dalam hadis tersebut menambahkan, dari [Manshur] dari [Ibrahim] dari [Abidah] dari [Abdullah] lantas Rasulullah Shallallahu'alaihiwasallam terkagum-kagum seraya membenarkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7414</td></tr><tr><td>Arabic No</td><td>7414</td></tr><tr><td>Reference</td><td>Book 97 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передаёт, что однажды к Пророку ﷺ пришёл иудей и сказал: «О, Мухаммад! Поистине, Аллах удерживает на одном пальце небеса, на другом — земли, на третьем — горы, на четвёртом — деревья, на пятом — всё прочее, (что было Им) создано, а потом скажет: “Я — Царь!”». И Посланник Аллаха ﷺ широко рассмеялся, так что можно было увидеть его коренные зубы, а потом прочёл: «Не ценили они Аллаха должным образом» (сура «аль-Ан‘ам», аят 91).\nЯхья Ибн Са‘ид (аль-Каттан) сказал: «Фудейль ибн ‘Ияд добавил в этом хадисе от Мансура (Ибн аль-Му‘тамир) от Ибрахима (ан-Наха‘и) от ‘Абида (ас-Сальманий) от ‘Абдуллах (ибн Мас‘уда), что “посланник ﷺ засмеялся от удивления и в подтверждение его слов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7414</td></tr><tr><td>Arabic No</td><td>7414</td></tr><tr><td>Reference</td><td>Book 97 Hadith 42</td></tr></tbody></table></div>
 

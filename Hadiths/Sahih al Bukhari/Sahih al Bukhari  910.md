@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salman Al-Farsi:Allah's Messenger (ﷺ) (p.b.u.h) said, "Anyone who tak
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Ibnu Abu Dzi'b] dari [Sa'id Al Maqburi] dari [Bapaknya] dari [Ibnu Wadi'ah] telah menceritakan kepada kami [Salman Al Farsi] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa mandi pada hari Jum'at lalu bersuci semaksimal mungkin, lalu memakai minyak atau wewangian lalu keluar rumah menuju masjid, ia tidak memisahkan antara dua orang pada tempat duduknya, kemudian ia mengerjakan shalat yang dianjurkan baginya, lalu bila imam sudah datang dia berdiam mendengarkan, maka dia akan diampuni dosa-dosanya yang ada antara Jum'atnya itu dan Jum'at yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>910</td></tr><tr><td>Arabic No</td><td>910</td></tr><tr><td>Reference</td><td>Book 11 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сальман аль-Фариси, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Если человек совершит в пятницу большое омовение, очистится (так тщательно), как только сможет, смажет (волосы) или умастит (тело) благовониями (, которые найдутся у него) дома, после чего отправится (на пятничный намаз), и не будет расталкивать сидящих рядом (в мечети), и совершит намаз столько, сколько было (угодно Аллаху), а потом будет хранить молчание, внимательно слушая слова имама, ему обязательно простятся (грехи, совершенные им) между этой и предыдущей пятницей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>910</td></tr><tr><td>Arabic No</td><td>910</td></tr><tr><td>Reference</td><td>Book 11 Hadith 34</td></tr></tbody></table></div>
 

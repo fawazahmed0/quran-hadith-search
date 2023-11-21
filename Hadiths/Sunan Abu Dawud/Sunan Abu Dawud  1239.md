@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sahl b. Abi Hathmah al-Ansari: The prayer time of danger should be offe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Yahya bin Sa'id] dari [Al Qasim bin Muhammad] dari [Shalih bin Khuwwat Al Anshari] bahwa [Sahl bin Abu Hatsmah Al Anshari] telah menceritakan kepadanya, bahwa shalat khauf itu adalah; "Imam berdiri bersama satu kelompok sahabatnya, sedangkan satu kelompok yang lainnya menghadap ke arah musuh. Lalu imam ruku' dan sujud bersama kelompok yang menyertainya, lalu berdiri. Apabila telah berdiri tegak, imam tetap berdiri, sedangkan kelompok yang bersamanya menyempurnakan satu raka'at yang tersisa sendiri-sendiri, lalu mereka salam dan beranjak pergi, sedangkan imam masih dalam posisi berdiri, sementara mereka pergi berjaga-jaga menghadapi musuh. Kemudian kelompok yang lain, yang belum shalat datang dan bertakbir di belakang imam. Imam ruku' dan sujud bersama mereka, kemudian imam salam, sementara mereka berdiri dan melanjutkan raka'at yang sisa, lalu mereka salam." Abu Daud berkata; adapun riwayat Yahya bin Sa'id dari Al Qasim seperti riwayat Yazid bin Ruman, namun riwayatnya sedikit berbeda ketika salam, sedangkan riwayatnya 'Ubaidullah seperti riwayatnya Yahya bin Sa'id, katanya; "Imam tetap berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4129) Sahih Muslim (842)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1239</td></tr><tr><td>Arabic No</td><td>1239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Абу Хасма аль-Ансари, да будет доволен им Аллах, сказал о молитве, совершаемой под воздействием страха /салят аль-хауф/: «Имам встаёт вместе с одной группой, тогда как другая остаётся стоять напротив врага. Имам совершает поясной поклон и земные с теми, кто молится с ним, после чего встаёт и остаётся стоять. Потом эта группа самостоятельно совершает оставшийся рак‘ат, произносит таслим и удаляется. Имам в это время стоит. Затем эта группа встаёт напротив врага, а та, которая не молилась, встаёт за имамом. Они произносят такбир, и он совершает с ними поясной и земные поклоны, после чего произносит слова таслима, а они встают и самостоятельно совершают оставшийся рак‘ат, после чего произносят слова таслима»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4129) Sahih Muslim (842)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1239</td></tr><tr><td>Arabic No</td><td>1239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 42</td></tr></tbody></table></div>
 

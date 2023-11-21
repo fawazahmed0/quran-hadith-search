@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Whenever Allah's Messenger (ﷺ) went to answer the call
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Hisyam bin 'Abdul Malik] berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Mu'adz] dan namanya adalah 'Atha bin Abu Maimunah ia berkata, "Aku mendengar [Anas bin Malik] berkata, "Jika Nabi shallallahu 'alaihi wasallam keluar untuk buang hajat, maka aku dan seorang temanku membawakan bejana berisi air, yakni agar beliau bisa beristinja' dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 4 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Му‘аз, которого звали ‘Атаъ ибн Абу Маймуна сказал: «Я слышал, как Анас ибн Малик, да будет доволен им Аллах, говорил: “Когда Пророк ﷺ выходил по нужде, мы вместе с одним мальчиком несли за ним маленький кожаный бурдюк с водой”, имея ввиду, что он подмывался этой (водой)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 4 Hadith 16</td></tr></tbody></table></div>
 

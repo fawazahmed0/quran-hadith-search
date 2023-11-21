@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn az-Zubayr told that a woman client of theirs took az-Zubayr's daughter to Um
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Sahl] dan [Ibrahim Ibnul Hasan] keduanya berkata; telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Umar bin Hafsh] bahwa [Amir bin Abdullah] berkata; Ali bin Sahl bin Az Zubair mengabarkan kepadanya bahwa mantan budak perempuannya (yang telah ia merdekakan) pergi bersama puteri Az Zubair menemui [Umar Ibnul Khaththab], sementara pada kakinya terdapat kerincing (lonceng) hingga Umar memotongnya. Kemudian Umar berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya pada setiap lonceng ada setan (yang menyertainya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4230</td></tr><tr><td>Arabic No</td><td>4230</td></tr><tr><td>Reference</td><td>Book 36 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амир ибн ‘Абдуллах ибн аз-Зубайр передаёт, что их рабыня пошла вместе с дочерью аз-Зубайра к ‘Умару ибн аль-Хаттабу, а на ногах у неё были звенящие браслеты, и ‘Умар срезал их, сказав: «Я слышал, как Посланник Аллаха ﷺ говорил: “Поистине, с каждым бубенчиком шайтан”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4230</td></tr><tr><td>Arabic No</td><td>4230</td></tr><tr><td>Reference</td><td>Book 36 Hadith 17</td></tr></tbody></table></div>
 

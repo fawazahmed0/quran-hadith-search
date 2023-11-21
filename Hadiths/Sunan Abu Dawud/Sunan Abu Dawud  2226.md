@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thawban: The Prophet (ﷺ) said: If any woman asks her husband for divo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb], telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Abu Qilabah] dari [Abu Asma'] dari [Tsauban], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapapun wanita yang meminta cerai kepada suaminya bukan karena kesalahan, maka haram baginya bau surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2226</td></tr><tr><td>Arabic No</td><td>2226</td></tr><tr><td>Reference</td><td>Book 13 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Саубана, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Для любой женщины, попросившей у мужа развода без уважительной причины, благоуханье Рая станет запретным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2226</td></tr><tr><td>Arabic No</td><td>2226</td></tr><tr><td>Reference</td><td>Book 13 Hadith 52</td></tr></tbody></table></div>
 

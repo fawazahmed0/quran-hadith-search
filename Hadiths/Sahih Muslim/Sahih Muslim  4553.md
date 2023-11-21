@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Ibn Umar that the Messenger of Allah (ﷺ) ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Hannad bin As Sarry] keduanya berkata; telah menceritakan kepada kami [Ibnu Mubarak] dari [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam pernah menebang dan membakar kebun kurma milik (Yahudi) Bani Nadlir, dalam peristiwa itu, Hassan sempat membaca sebait sya'ir: "Alangkah terhinanya tokoh-tokoh Bani Lu'aiy saat kebakaran melumat kebun kurma mereka yang berada di daerah Buwairah." Sehubungan dengan itu, maka turunlah ayat: '(Apa saja yang kamu tebang dari pohon kurma (milik orang-orang kafir) atau yang kamu biarkan (tumbuh) berdiri di atas pokoknya...) ' (Qs. Al Hasyr:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4553</td></tr><tr><td>Arabic No</td><td>1746.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4553</td></tr><tr><td>Arabic No</td><td>1746.02</td></tr><tr><td>Reference</td><td>Book 32 Hadith 34</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sa'ib bin Yazid:I remember that I went out with the boys to (the pla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] dia berkata; Aku mendengar [Az Zuhri] dari [As Saaib bin Yazid] berkata; Aku ingat bahwa aku pernah keluar bersama anak-anak ke bukit Wada' untuk menemui Rasulullah shallallahu 'alaihi wasallam. Sufyan berkata di Hadits yang lain dengan lafazh; 'ma'a shibyan.' (bersama anak-anak)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4426</td></tr><tr><td>Arabic No</td><td>4426</td></tr><tr><td>Reference</td><td>Book 64 Hadith 448</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Саъиб ибн Йазид, да будет доволен им Аллах, сказал: «Помню как однажды мы с (несколькими) мальчиками пошли к Санийат аль-Вада‘ встречать Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4426</td></tr><tr><td>Arabic No</td><td>4426</td></tr><tr><td>Reference</td><td>Book 64 Hadith 448</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) had informed the people about the death of Zaid,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Waqid] telah bercerita kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Humaid bin Hilal] dari [Anas radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam berbela sungkawa atas Zaid, Ja'far dan Ibnu Rawahah di hadapan orang banyak sebelum berita tentang mereka sampai kepada khalayak. Beliau bersabda: "Semula bendera komando perang dipegang oleh Zaid lalu dia gugur kemudian bendera itu dipegang oleh Ja'far lalu dia pun gugur kemudian bendera itu dipegang oleh 'Abdullah bin Rawahah namun dia pun gugur pula". Kedua mata beliau menitikkan air mata. Akhirnya bendera itu diambil oleh Sayf (pedang) diantara pedang-pedangnya Allah (maksudnya Khalid bin Al Walid) hingga Allah memberi kemenangan kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3757</td></tr><tr><td>Arabic No</td><td>3757</td></tr><tr><td>Reference</td><td>Book 62 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что (в свое время) Пророк ﷺ сообщил людям о смерти Зейда, Джа‘фара и Ибн Равахи ещё до того, как известия о них (были доставлены гонцами), и он сказал: «Зейд взял знамя и был сражен, потом взял его Джа‘фар и был сражен, а потом взял его Ибн Раваха и (тоже) был сражен — и (когда Пророк ﷺ говорил это,) глаза его были полны слез (, после чего он продолжил), — а затем взял его меч из числа мечей Аллаха, и Аллах даровал им победу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3757</td></tr><tr><td>Arabic No</td><td>3757</td></tr><tr><td>Reference</td><td>Book 62 Hadith 103</td></tr></tbody></table></div>
 

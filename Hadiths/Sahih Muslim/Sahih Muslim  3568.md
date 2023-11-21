@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها) : le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di depan [Malik] dari [Abdullah bin Abu Bakar] dari ['Amrah] bahwasannya [Aisyah] telah mengabarkan kepadanya bahwa waktu itu Rasulullah shallallahu 'alaihi wasallam berada di sampingnya, sedangkan dia ('Aisyah) mendengar suara seorang laki-laki sedang minta izin untuk bertemu Rasulullah di rumahnya Hafshah, 'Aisyah berkata; Maka saya berkata; "Wahai Rasulullah, ada seorang laki-laki yang minta izin (bertemu denganmu) di rumahnya Hafshah". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Saya kira fulan itu adalah pamannya Hafshah dari saudara sesusuan." Aisyah bertanya; "Wahai Rasulullah, sekiranya fulan tersebut masih hidup -yaitu pamannya dari saudara sesusuan- apakah dia boleh masuk pula ke rumahku?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Ya, sebab hubungan karena susuan itu menyebabkan mahram sebagaimana hubungan karena kelahiran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>1444.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (однажды, когда) у неё находился Посланник Аллаха ﷺ она услышала голос мужчины, просившего разрешения войти в дом Хафсы.‘Аиша, да будет доволен ею Аллах, сказала: «Я сказала: “О Посланник Аллаха, этот человек просит разрешения войти в твой дом”. Посланник Аллаха ﷺ сказал: “Я думаю, что это такой-то”, (и назвал имя) молочного дяди Хафсы. ‘Аиша сказала: “О Посланник Аллаха, а если бы был жив такой-то и назвала имя своего молочного дяди, мог бы он зайти ко мне?” и Посланник Аллаха ﷺ сказал: “Да, ведь молочным родственникам запрещается то же самое, что и кровным”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>1444.01</td></tr><tr><td>Reference</td><td>Book 17 Hadith 1</td></tr></tbody></table></div>
 

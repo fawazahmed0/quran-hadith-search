@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubai bin Ka'b:Allah's Messenger (ﷺ) said, "Both of them (Moses and Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] mengabarkan mereka berkata, telah mengabarkan kepada saya [Ya'laa bin Muslim] dan ['Amru bin Dinar] dari [Sa'id bin Jubair] salah satu diantara keduanya menambahkan kepada temannya dan selain keduanya berkata, aku mendengar dia menceritakan dari Sa'id berkata; Berkata, kepadaku [Ibnu 'Abbas radliallahu 'anhuma] telah menceritakan kepada saya [Ubay bin Ka'ab] berkata, telah bersabda Rasulullah shallallahu 'alaihi wasallam: "(Keduanya berangkat lalu mendapatkan dinding yang hampir roboh lalu ditegakkan kembali"). Berkata, Sa'id: "Ditegakkan dengan tangannya begini". Maka Beliau mengangkat tangannya maka dinding itu kembali tegak kokoh". Ya'laa berkata: "Aku menduga bahwa Sa'id berkata: Maka diusapnya dinding itu dengan tangannya lalu tegak kembali". ("Seandainya engkau mau kamu berhak atas upah"), Berkata, Sa'id: Upah yang bisa kita nikmati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2267</td></tr><tr><td>Arabic No</td><td>2267</td></tr><tr><td>Reference</td><td>Book 37 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Убайя ибн Ка‘ба, что Посланник Аллаха ﷺ сказал: «Тогда (Муса и аль-Хадыр) отправились дальше, пока не достигли стены, которая была готова рухнуть», — Са‘ид сказал: «Аль-Хадыр указал рукой (на стену), а затем поднял её вверх, и она выпрямилась». \nЯ‘ля сказал: «Я думаю, что Са‘ид сказал: “Он (аль-Хадыр) провёл по ней рукой, и она выпрямилась. “Если бы ты захотел, то получил бы за это вознаграждение” (сура “аль-Кахф”, аят 77). Са’ид сказал: “Плату, на которую мы взяли бы еды”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2267</td></tr><tr><td>Arabic No</td><td>2267</td></tr><tr><td>Reference</td><td>Book 37 Hadith 7</td></tr></tbody></table></div>
 

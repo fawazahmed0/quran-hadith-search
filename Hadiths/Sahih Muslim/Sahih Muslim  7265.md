@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudhaifa reported:Allah's Messenger (ﷺ) informed me of what is going to happen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah]. Telah menceritakan kepadaku [Abu Bakr bin Nafi'] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Adi bin Tsabit] dari [Abdullah bin Yazid] dari [Hudzaifah] ia berkata: Telah mengkhabarkan kepadaku Rasulullah Shallallahu 'alaihi wa Salam apa yang akan terjadi hingga kiamat. Segala sesuatunya telah aku tanyakan kepada beliau, hanya saja kau tidak menanyakan apa yang mengusir penduduk Madinah dari Madinah. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Wahb bin Jarir] telah mengkhabarkan kepada kami [Syu'bah] dengan sanad ini dengan matan serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7265</td></tr><tr><td>Arabic No</td><td>2891.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7265</td></tr><tr><td>Arabic No</td><td>2891.04</td></tr><tr><td>Reference</td><td>Book 54 Hadith 31</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), ce verset : Ô les Croyants! 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Harun bin Abdullah] keduanya berkata; telah menceritakan kepada kami [Hajjaj bin Muhahammad] dia berkata; [Ibnu Juraij] berkata (Ayat): '(Hai orang-orang yang beriman, ta'atilah Allah dan ta'atilah Rasul (Nya), dan ulil amri di antara kamu …) ' (Qs. An Nisaa': 59), turun berkenaan dengan Abdullah bin Hudzafah bin Qais bin 'Adiy As Sahmiy, ketika Nabi shallallahu 'alaihi wasallam mengutusnya dalam sebuah ekspedisi militer." [Ya'la bin Muslim] memberitahukan hadits ini kepadaku, dari [Sa'id bin Jubair] dari [Ibnu Abbas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4746</td></tr><tr><td>Arabic No</td><td>1834</td></tr><tr><td>Reference</td><td>Book 33 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4746</td></tr><tr><td>Arabic No</td><td>1834</td></tr><tr><td>Reference</td><td>Book 33 Hadith 45</td></tr></tbody></table></div>
 

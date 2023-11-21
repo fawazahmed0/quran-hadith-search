@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Hind bint 'Utba said, "O Allah's Messenger (ﷺ)! Abu Sufyan is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Yahya] dari [Hisyam] ia berkata; Telah mengabarkan kepadaku [bapakku] dari [Aisyah] bahwa Hindu binti Utbah berkata, "Wahai Abu Sufyan adalah seorang laki-laki yang pelit. Ia tidak memberikan kecukupan nafkah padaku dan anakku, kecuali jika aku mengambil dari hartanya dengan tanpa sepengetahuannya." Maka beliau bersabda: "Ambillah dari hartanya sekadar untuk memenuhi kebutuhanmu dan juga anakmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5364</td></tr><tr><td>Arabic No</td><td>5364</td></tr><tr><td>Reference</td><td>Book 69 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Хинд бинт ‘Утба сказала: «О Посланник Аллаха, поистине, Абу Суфьян — человек скупой, и он не даёт мне столько, сколько необходимо мне и моим детям, (так будет ли грехом,) если я сама стану брать что-то из его имущества без его ведома?» Пророк ﷺ ответил: «Бери столько, сколько хватает тебе и твоим сыновьям сообразно обычаю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5364</td></tr><tr><td>Arabic No</td><td>5364</td></tr><tr><td>Reference</td><td>Book 69 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A girl wearing ornaments, went out at Medina. Somebody s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Abdullah bin Idris] dari [Syu'bah] dari [Hisyam bin Zaid bin Anas] dari [kakeknya, anas bin Malik] mengatakan, seorang hamba sahaya Madinah keluar dengan menggunakan anting-anting, lantas seorang laki-laki yahudi melemparnya dengan batu. Si yahudi lantas diringkus dan diseret ke hadapan Nabi shallallahu 'alaihi wasallam yang ketika itu si hamba sahaya tinggal menyisakan sisa-sisa nyawanya. Rasulullah Shallallahu'alaihiwasallam bertanya; 'Apakah fulan yang membunuhmu? ' Si hamba sahaya menjawab; 'tidak' dengan menggelengkan kepalanya. Nabi kembali menanyainya; 'Apakah fulan yang membunuhmu? ' Kembali ia menjawab; 'tidak' dengan menggelengkan kepalanya. Untuk kali ketiganya Nabi bertanya; 'Apakah yang membunuhmu fula? ' Si hamba sahaya mengiyakan dengan menundukkan kepalanya. Nabi terus meminta si yahudi didatangkan, dan beliau membunuhnya dengan menjepitnya diantara dua batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6877</td></tr><tr><td>Arabic No</td><td>6877</td></tr><tr><td>Reference</td><td>Book 87 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Однажды в Медине, девочка на которой были украшения вышла (из дома) и какой-то иудей кинул в неё камнем. Когда её привели к Пророку ﷺ, она всё ещё была жива. Посланник Аллаха ﷺ спросил её: “Такой-то убил тебя?” Она сделала знак головой(, отрицая). Он снова спросил её: “Такой-то убил тебя?” Она сделала знак головой(,отрицая). Он спросил её в третий раз: “Такой-то убил тебя?” Он опустила голову, (указав на то, что это он). Тогда Посланник Аллаха ﷺ позвал его и приказал убить, (поместив его голову) между двух камней (и разбив её)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6877</td></tr><tr><td>Arabic No</td><td>6877</td></tr><tr><td>Reference</td><td>Book 87 Hadith 16</td></tr></tbody></table></div>
 

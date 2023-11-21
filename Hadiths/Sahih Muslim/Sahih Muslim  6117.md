@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sa'd Ibn 'Abî Waqqâs (que Dieu l'agrée), le Prophète (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Abu 'Umar] keduanya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri]; Dan telah menceritakan kepada kami [Muhammad bin 'Abbad]; Telah menceritakan kepada kami [Sufyan] dia berkata; -Aku menghafalnya sebagaimana aku menghafal Bismillahir rahmanir rahim, dari [Az Zuhri] dari ['Ammar bin Sa'ad] dari [Bapaknya] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang muslim yang paling besar dosanya terhadap kaum muslimin lainnya adalah orang yang bertanya tentang sesuatu yang sebelumnya tidak diharamkan bagi kaum muslimin, tetapi akhirnya sesuatu tersebut diharamkan bagi mereka karena pertanyaannya." Dan telah menceritakannya kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Abdu bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] keduanya dari [Az Zuhri] melalui jalur ini. Di dalam Hadits Ma'mar ada tambahan; 'Seseorang menanyakan sesuatu seraya mendesaknya.' Dan di dalam Hadits Yunus Amir bin Sa'ad bahwa dia mendengar Sa'ad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6117</td></tr><tr><td>Arabic No</td><td>2358.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6117</td></tr><tr><td>Arabic No</td><td>2358.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 175</td></tr></tbody></table></div>
 

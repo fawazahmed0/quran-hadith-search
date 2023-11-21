@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:The Apostle of Allah (ﷺ) used to say prayer towards his cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1118</td></tr><tr><td>Arabic No</td><td>502.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 280</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что Пророк ﷺ молился, повернувшись к своей верблюдице. А Ибн Нумайр сказал: «Пророк ﷺ молился, повернувшись к (своему) верблюду».Глава: Прохождение осла и собаки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1118</td></tr><tr><td>Arabic No</td><td>502.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 280</td></tr></tbody></table></div>
 

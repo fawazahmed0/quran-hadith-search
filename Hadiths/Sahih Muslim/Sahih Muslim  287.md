@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Burda b. Abu Musa that Abu Musa was affli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [al-Hakam bin Musa al-Qanthari] telah menceritakan kepada kami [Yahya bin Hamzah] dari [Abdurrahman bin Yazid bin Jabir] bahwa [al-Qasim bin Mukhaimirah] telah menceritakan kepadanya, dia berkata; telah menceritakan kepada kami [Abu Burdah bin Abu Musa] dia berkata, "Abu Musa merasakan sakit hingga jatuh pingsan sementara kepalanya menyandar dalam pangkuan seorang wanita dari keluarganya, wanita itu pun berteriak histeris sementara ia (Abu Musa) tidak bisa melakukan apa-apa (karena pingsan). Ketika sadar, maka [Abu Musa] pun berkata, 'Saya berlepas diri dari tindakan yang mana Rasulullah shallallahu 'alaihi wasallam berlepas diri darinya. Sesungguhnya Rasulullah shallallahu 'alaihi wasallam berlepas diri dari wanita yang berteriak-teriak ketika terjadi musibah, dan yang memotong-motong rambut, serta menyobek-nyobek baju
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>287</td></tr><tr><td>Arabic No</td><td>104.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бурда ибн Аби Муса рассказывал: «Однажды Абу Муса сильно заболел, положил голову на грудь своей супруги и потерял сознание. (Увидев это), она стала громко кричать, но он не мог ей ничего ответить, (так как был без сознания). Когда же он пришёл в себя, он сказал: “Я отрекаюсь от того, от чего отрёкся Посланник Аллаха ﷺ. Посланник Аллаха ﷺ отрёкся от кричащей (во время несчастья), обривающей (голову во время беды) и разрывающей (на себе одежду от горя)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>287</td></tr><tr><td>Arabic No</td><td>104.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 193</td></tr></tbody></table></div>
 

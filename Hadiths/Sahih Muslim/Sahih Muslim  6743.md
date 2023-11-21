@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:There was argument betwee
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari apa yang telah dibacakan kepadanya dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Adam dan Musa pernah berdebat. Musa berkata kepada Adam; 'Kamu yang telah menyesatkan manusia dan mengeluarkan mereka dari Surga. Adam menjawab: 'Bukankah kamu yang telah diberikan oleh Allah ilmu tentang segala sesuatu dan dipilihnya dari yang lain dengan risalah-Nya? Musa menjawab: 'Ya.' Adam berkata; 'kalau begitu kenapa kamu mencelaku karena suatu perkara yang telah ditetapkan Allah Azza wa Jalla kepadaku sebelum aku diciptakan?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6743</td></tr><tr><td>Arabic No</td><td>2652.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6743</td></tr><tr><td>Arabic No</td><td>2652.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 21</td></tr></tbody></table></div>
 

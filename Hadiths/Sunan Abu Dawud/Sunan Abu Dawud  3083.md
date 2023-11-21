@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al Sa’b bin Jaththamah reported the Apostle of Allaah(ﷺ) as saying “There 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] dari [Ash Sha'b bin Jatstsamah] bahwa Rasulullah shallallahu 'alaihi wasallam berkata: "Tidak ada daerah larangan kecuali milik Allah dan RasulNya." Ibnu Syihab berkata; dan telah sampai kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam telah melindungi Naqi' (mata air dekat dengan Madinah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2370)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3083</td></tr><tr><td>Arabic No</td><td>3083</td></tr><tr><td>Reference</td><td>Book 20 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ас-Са‘ба ибн Джассама, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не бывает заповедной земли ни у кого, кроме Аллаха и Его посланника». Ибн Шихаб сказал: «Мне стало известно о том, что Посланник Аллаха ﷺ объявил заповедным место ан-Накы‘»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2370)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3083</td></tr><tr><td>Arabic No</td><td>3083</td></tr><tr><td>Reference</td><td>Book 20 Hadith 156</td></tr></tbody></table></div>
 

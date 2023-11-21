@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin 'Ubada Al-Ansari:that he consulted the Prophet (ﷺ) about a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] mengatakan, telah mengabarkan kepadaku [Ubaidullah bin Abdullah bin Utbah], bahwasanya [Abdullah bin Abbas] mengabarkan kepadanya bahwa Sa'd bin Ubadah Al Anshari meminta fatwa kepada Nabi shallallahu 'alaihi wasallam tentang nadzar yang ditanggung ibunya, kemudian ibunya meninggal sebelum memenuhi nadzarnya. Nabi shallallahu 'alaihi wasallam memberinya fatwa agar ia melaksanakan nadzarnya, kemudian hal itu menjadi sunnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6698</td></tr><tr><td>Arabic No</td><td>6698</td></tr><tr><td>Reference</td><td>Book 83 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн ‘Убада аль-Ансари, да будет доволен им Аллах, (в своё время) он обратился к Пророку ﷺ за советом относительно обета его матери, которая скончалась, не успев выполнить его, и он вынес решение о том, что вместо неё (этот обет) должен выполнить (Са‘д).\n(Мухаммад ибн Шихаб аз-Зухри сказал:) «И в дальнейшем это стало сунной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6698</td></tr><tr><td>Arabic No</td><td>6698</td></tr><tr><td>Reference</td><td>Book 83 Hadith 75</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:If anyone extols Allah af
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdul Hamid bin Bayan Al Wasithi] telah mengabarkan kepada kami [Khalid bin Abdullah] dari [Suhail] dari [Abu 'Ubaid Al Madzhiji]. -Muslim menjelaskan bahwa Abu Ubaid adalah mantan budak Sulaiman bin Abdul Malik- dari ['Atha' bin Yazid Al Laitsi] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa bertasbih kepada Allah sehabis shalat sebanyak tiga puluh tiga kali, dan bertahmid kepada Allah tiga puluh tiga kali, dan bertakbir kepada Allah tiga puluh tiga kali, hingga semuanya berjumlah sembilan puluh sembilan, -dan beliau menambahkan- dan kesempurnaan seratus adalah membaca Laa ilaaha illallah wahdahu laa syariika lahu, lahul mulku walahul walahul hamdu wahuwa 'alaa kulli syai'in qadiir, maka kesalahan-kesalahannya akan diampuni walau sebanyak buih di lautan." Dan telah menceritakan kepada kami [Muhammad bin Shabh] telah menceritakan kepada kami [Ismail bin Zakariya] dari [Suhail] dari [Abu 'Ubaid] dari [Atha'] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1352</td></tr><tr><td>Arabic No</td><td>597.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Тому, кто после каждой молитвы будет по тридцать три раза произносить слова “Слава Аллаху” /Субхан-Аллах/, “Хвала Аллаху” /аль-хамду ли-Лляхи/ и “Аллах велик” /Аллаху Акбар/, (что в сумме составит) девяносто девять, а завершая сотню, скажет: “Нет божества, достойного поклонения, кроме Аллаха, Единого, у которого нет сотоварища, Ему принадлежит владычество, и Ему хвала и Он всё может!” /Ля иляха илля-Ллаху вахда-ху ля шарикя ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамду ва хуа ‘аля кулли шаййин кадир/, простятся его грехи, даже если (по обилию своему) они будут подобны морской пене»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1352</td></tr><tr><td>Arabic No</td><td>597.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 188</td></tr></tbody></table></div>
 

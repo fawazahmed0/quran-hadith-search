@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:We came with Allah's Messenger (ﷺ) (to Mecca) and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] berkata; Aku mendengar [Mujahid] berkata; telah menceritakan kepada kami [Jabir bin 'Abdullah radliallahu 'anhua] berkata: "Kami berangkat menuju Makkah bersama Nabi shallallahu 'alaihi wasallam dan kami mengucapkan talbiyah (niat dalam ihram): "Labbaikallahumma labbaika bilhajj" (Ya Allah kami memenuhi panggilanMu untuk berihram hajji). Maka kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan kami, maka kami menjadikannya sebagai ihram untuk 'umrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>1570</td></tr><tr><td>Reference</td><td>Book 25 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Мы прибыли (в Мекку) вместе с Посланником Аллаха ﷺ и говорили: «Ляббай-Кя, Аллахумма, ляббай-Кя, би-ль-хаджи!» Тогда Посланник Аллаха ﷺ приказал нам совершить умру с этим ихрамом (вместо хаджа)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>1570</td></tr><tr><td>Reference</td><td>Book 25 Hadith 56</td></tr></tbody></table></div>
 

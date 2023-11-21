@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Yazid:When 'Abdullah, reached the big Jamra (i.e. Jam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari ['Abdurrahman bin Yazid] dari ['Abdullah radliallahu 'anhu] bahwa dia berhenti hingga Al Jumrah Al Kubra (Al 'Aqabah), yang Ka'bah Baitullah berada disisi kirinya sedangkan Mina disisi kanannya lalu dia melempar dengan tujuh (batu), lalu berkata; "Beginilah cara melempar seseorang yang telah diturunkan kepadanya surah Al Baqarah, yaitu Muhammad shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1748</td></tr><tr><td>Arabic No</td><td>1748</td></tr><tr><td>Reference</td><td>Book 25 Hadith 226</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, когда (‘Абдуллах бин Мас‘уд), да будет доволен им Аллах, подошёл к большому столбу, он встал так, что Кааба оказалась слева от него, а Мина — справа, бросил в него семь (маленьких камешков) и сказал: «Так бросал тот, кому была ниспослана сура “Корова” ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1748</td></tr><tr><td>Arabic No</td><td>1748</td></tr><tr><td>Reference</td><td>Book 25 Hadith 226</td></tr></tbody></table></div>
 

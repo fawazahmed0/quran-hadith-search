@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Fadl (Allah be pleased with her) reported Allah's Apostle (may peace be'apon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Bisyr bin As Sari] telah menceritakan kepada kami [Hammad bin Salamah] dari [Qatadah] dari [Abu Al Khalil] dari [Abdullah bin Al Harits bin Naufal] dari [Ummu Al Fadll] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak menjadikan seseorang itu mahram, kalau hanya satu kali hisapan atau dua kali hisapan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3595</td></tr><tr><td>Arabic No</td><td>1451.05</td></tr><tr><td>Reference</td><td>Book 17 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3595</td></tr><tr><td>Arabic No</td><td>1451.05</td></tr><tr><td>Reference</td><td>Book 17 Hadith 28</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:I asked Ibn 'Abbas about Surat Al-Tauba, and he said, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim] Telah menceritakan kepada kami [Sa'id bin Sulaiman] Telah menceritakan kepada kami [Husyaim] Telah mengabarkan kepada kami [Abu Bisyr] dari [Sa'id bin Jubair] ia berkata; Aku pernah bertanya kepada [Ibnu Abbas] mengenai surat At Taubah, maka ia pun menjelaskan, "Surat At Taubah adalah diistilahkan Al Fadlihah (yang membongkar kejahatan kaum munafik). Ia senantiasa turun dengan ungkapan, 'WA MINHUM.., WA MINHUM.. (Dan di antara mereka.. dan di antara mereka) ' hingga mereka pun menyangka bahwa tidak ada seorang pun yang tersisa dari mereka kecuali disebutkan dalam surat tersebut." Kemudian aku bertanya, "Bagaimana dengan surat Al Anfal? ' Ia menjelaskan, "Surat itu turun pada saat terjadinya perang Badar." Aku bertanya lagi, "Kalau surat Al Hasyr?" Ia pun menjelaskan, "Surat itu turun berkenaan dengan Bani Nadlir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4882</td></tr><tr><td>Arabic No</td><td>4882</td></tr><tr><td>Reference</td><td>Book 65 Hadith 402</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Джубейр рассказывал: «Однажды я сказал Ибн ‘Аббасу: “(Расскажи мне о) суре ат-Тауба”. Ибн ‘Аббас сказал: “Сура ат-Тауба — это позорящая (лицемеров) сура. Аяты, в которых говорилось: “Из них есть также и такие…”, продолжали ниспосылаться до тех пор, пока лицемеры не решили, что она не оставит ни одного из них, кроме как обязательно выдаст его”. Тогда я сказал: “А сура аль-Анфаль?” Он ответил: “Эта сура была ниспослана о событиях битвы при Бадре”. Тогда я спросил: “А сура аль-Хашр?” Ибн ‘Аббас ответил: “Она была ниспослана об (иудеях) племени бану надыр”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4882</td></tr><tr><td>Arabic No</td><td>4882</td></tr><tr><td>Reference</td><td>Book 65 Hadith 402</td></tr></tbody></table></div>
 

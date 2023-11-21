@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "Whoever disapproves of something do
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Abdul warits] dari [Al Ja'd] dari [Abu Raja'] dari [Ibnu 'Abbas] dari Nabi shallallahu 'alaihi wasallam bersabda; "Siapa yang tidak menyukai kebijakan amir (pemimpinnya) hendaklah bersabar, sebab siapapun yang keluar dari ketaatan kepada amir sejengkal, ia mati dalam jahiliyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7053</td></tr><tr><td>Arabic No</td><td>7053</td></tr><tr><td>Reference</td><td>Book 92 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «Пусть тот, кому не понравится что-либо (из дел) его правителя, проявляет терпение, ибо, поистине, вышедший из повиновения правителю (хотя бы) на пядь умрёт подобно тому, как умирали во времена доисламского невежества (джахилийи)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7053</td></tr><tr><td>Arabic No</td><td>7053</td></tr><tr><td>Reference</td><td>Book 92 Hadith 6</td></tr></tbody></table></div>
 

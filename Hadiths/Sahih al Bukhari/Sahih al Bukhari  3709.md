@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ash-Shu'bi:Whenever Ibn 'Umar greeted Ibn Jafar, he used to say: "As-sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Amru bin 'Ali] telah bercerita kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Isma'il bin Abu Khalid] dari [asy-Sya'biy] bahwa [Ibnu 'Umar radliallahu 'anhuma] bila memberi salam kepada putra Ja'far, dia berkata; "Salam sejahtera buat anda wahai putra dari orang yang punya dua sayap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3709</td></tr><tr><td>Arabic No</td><td>3709</td></tr><tr><td>Reference</td><td>Book 62 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аш-Ша‘би, что, приветствуя Ибн Джа‘фара, Ибн ‘Умар, да будет доволен Аллах им и его отцом, обычно говорил: «Мир тебе, о сын зуль-джанахейн (обладателя двух крыльев)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3709</td></tr><tr><td>Arabic No</td><td>3709</td></tr><tr><td>Reference</td><td>Book 62 Hadith 59</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tawus:I said to Ibn 'Abbas, "The people are narrating that the Prophet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri], [Thawus] berkata, Aku berkata kepada [Ibnu 'Abbas], "Orang-orang menyebutkan bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Mandilah pada hari Jum'at dan basuhlah kepala kalian sekalipun tidak sedang junub, dan pakailah wewangian." Ibnu 'Abbas berkata, "Adapun mandi, memang benar bahwa itu adalah wajib, sedangkan memakai wewangian aku tidak tahu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>884</td></tr><tr><td>Arabic No</td><td>884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн ‘Аббасу, да будет доволен Аллах ими обоими, сказали:«(Люди) передают, что Пророк ﷺ сказал: “Совершайте в пятницу большое омовение, мойте голову, даже если вы и не осквернены, и используйте благовония”».В ответ (Ибн ‘Аббас) сказал:«Что касается большого омовения, то это верно, что же касается благовоний, то мне (об этом) не известно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>884</td></tr><tr><td>Arabic No</td><td>884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 9</td></tr></tbody></table></div>
 

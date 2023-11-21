@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:We went out towards Mecca with the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] ia berkata; Telah menceritakan kepadaku [Utsman bin Umar] Telah menceritakan kepada kami [Fulaih] Telah menceritakan kepada kami [Abu Hazim Al Madani] Telah menceritakan kepada kami [Abdullah bin Abu Qatadah] dari [bapaknya] ia berkata; Kami pernah keluar bersama Nabi shallallahu 'alaihi wasallam menuju ke arah Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5406</td></tr><tr><td>Arabic No</td><td>5406</td></tr><tr><td>Reference</td><td>Book 70 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада сказал: «Мы отправились вместе с Пророком ﷺ в сторону Мекки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5406</td></tr><tr><td>Arabic No</td><td>5406</td></tr><tr><td>Reference</td><td>Book 70 Hadith 34</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Miswar Ibn Makhrama (رضي الله عنهما) rapporte qu' il a entendu l'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] dan [Qutaibah bin Sa'id] keduanya dari [Al Laits bin Sa'id], [Ibnu Yunus] berkata; Telah menceritakan kepada kami [Laits] Telah menceritakan kepada kami [Abdullah bin Ubaidullah bin Abu Mulaikah Al Quraisyi At Taimi] bahwa [Al Miswar bin Makhramah] menceritakan kepadanya, dia mendengar Rasulullah shallallahu 'alaihi wasallam berpidato di atas mimbar: "Sesungguhnya bani Hisyam bin Al Mughirah meminta izin kepadaku untuk menikahkan anak mereka dengan Ali bin Abu Thalib, maka aku tidak mengizinkan mereka, kemudian mereka minta izin lagi, akupun tetap tidak mengizinkan mereka, kemudian mereka meminta izin lagi, dan tetap tidak aku izinkan, kecuali jika Ali ingin mentalak anakku (Fatimah) kemudian menikahi anak mereka. Karena sesungguhnya anakku adalah bagian dariku. Orang yang telah menghinakannya maka akan menghinakanku pula. Dan orang yang menyakitinya, berarti menyakitiku pula
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6307</td></tr><tr><td>Arabic No</td><td>2449.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6307</td></tr><tr><td>Arabic No</td><td>2449.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 137</td></tr></tbody></table></div>
 

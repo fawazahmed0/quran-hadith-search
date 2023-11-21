@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said:The Qur'anic verse: "If they do come to thee, either judge betwe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi] telah menceritakan kepadaku [Ali bin Husain] dari [Ayahnya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Ayat: '(Jika mereka (orang Yahudi) datang kepadamu (untuk meminta putusan), maka putuskanlah (perkara itu) diantara mereka, atau berpalinglah dari mereka) ' (Qs. Al Maidah: 42), dihapus dan diganti dengan ayat: '(maka putuskanlah perkara mereka menurut apa yang Allah turunkan) ' (Qs. Al Maidah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3590</td></tr><tr><td>Arabic No</td><td>3590</td></tr><tr><td>Reference</td><td>Book 25 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что аят «Если они явятся к тебе, то рассуди их или же отвернись от них» (сура “аль-Маида”, аят 42) был отменён (и Всевышний Аллах ниспослал): «Суди же их согласно тому, что ниспослал Аллах» (сура “аль-Маида”, аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3590</td></tr><tr><td>Arabic No</td><td>3590</td></tr><tr><td>Reference</td><td>Book 25 Hadith 20</td></tr></tbody></table></div>
 

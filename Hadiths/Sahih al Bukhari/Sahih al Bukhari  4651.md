@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:Ibn 'Umar came to us and a man said (to him), "What do
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] Telah menceritakan kepada kami [Zuhair] Telah menceritakan kepada kami [Bayan] bahwa [Wabarah] Telah menceritakan kepadanya dia berkata; Telah menceritakan kepadaku [Sa'id bin Jubair] dia berkata; [Ibnu 'Umar] keluar menemui kami, lalu seseorang bertanya; "Bagaimana pendapatmu tentang memerangi fitnah? Ibnu Umar menjawab; 'Tahukah kamu apa yang dimaksud fitnah? ' Nabi shallallahu 'alaihi wasallam memerangi orang-orang Musyrik, dan masuk ke dalam golongan mereka adalah fitnah, bukan seperti perang kalian dalam memerangi penguasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4651</td></tr><tr><td>Arabic No</td><td>4651</td></tr><tr><td>Reference</td><td>Book 65 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн ‘Умара, да будет доволен Аллах ими обоими, спросили: «Что ты думаешь о сражении (ради искоренения) искушения?» Он сказал: «А знаешь ли ты, что такое искушение? Мухаммад ﷺ сражался с многобожниками, нападая на них из-за искушения, а не так, как вы, (ибо вы) сражаетесь из-за власти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4651</td></tr><tr><td>Arabic No</td><td>4651</td></tr><tr><td>Reference</td><td>Book 65 Hadith 173</td></tr></tbody></table></div>
 

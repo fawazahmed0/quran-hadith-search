@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Adi ibn Hatim: Messenger of Allah, one of us shoots at the game, and fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Husain bin Mu'adz bin Khulaif], telah menceritakan kepada kami [Abdul A'laa], telah menceritakan kepada kami [Daud] dari ['Amir], dari [Adi bin Hatim], bahwa ia berkata; wahai Rasulullah, salah seorang diantara kami memanah hewan buruan, kemudian ia mengikuti jejaknya selama dua dan tiga hari, kemudian ia mendapatinya telah mati dan padanya terdapat anak panahnya, apakah ia boleh memakannya? Beliau berkata: "Ya, apabila ia menghendaki." Atau beliau berkata: "Ia boleh memakannya apabila ia menghendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2853</td></tr><tr><td>Arabic No</td><td>2853</td></tr><tr><td>Reference</td><td>Book 17 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ади ибн Хатима, да будет доволен им Аллах, что он спросил: «О Посланник Аллаха, если один из нас поразил дичь стрелой, но нашёл её только через два или три дня поисков мёртвой и в ней его стрела, может ли он есть её мясо?» Посланник Аллаха ﷺ сказал: «Да, если желает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2853</td></tr><tr><td>Arabic No</td><td>2853</td></tr><tr><td>Reference</td><td>Book 17 Hadith 10</td></tr></tbody></table></div>
 

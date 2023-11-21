@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Abbas reported:I and Khalid b. Walid went to the apartment of Maimu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] berkata; saya telah bacakan di hadapan [Malik]; dari [Ibnu Syihab] dari [Abu Umamah bin Sahl bin Hunaif] dari [Abdullah bin Abbas] dia berkata, "Saya dan Khalid bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam datang ke rumah Maimunah, lalu dia menghidangkan kepada kami daging biawak yang telah dibakar, Rasulullah shallallahu 'alaihi wasallam lalu mengulurkan tangannya untuk mengambil daging tersebut, tiba-tiba sebagian dari wanita yang berada di rumah Maimunah berkata, "Beritahukanlah kepada Rasulullah shallallahu 'alaihi wasallam tentang hidangan yang hendak dimakan oleh beliau." Karena itu, beliau menarik tangannya. Lantas saya bertanya, "Apakah daging tersebut haram wahai Rasulullah?" beliau menjawab: "Tidak, tetapi karena ia tidak ada di negeri kaumku, maka saya merasa jijik untuk memakannya." Khalid berkata, "Lalu saya ambil daging tersebut dan saya memakannya, sedangkan Rasulullah shallallahu 'alaihi wasallam melihat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5034</td></tr><tr><td>Arabic No</td><td>1945.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5034</td></tr><tr><td>Arabic No</td><td>1945.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 63</td></tr></tbody></table></div>
 

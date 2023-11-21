@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Saib bin Yazid:The person who increased the number of Adhans for the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami ['Abdul 'Aziz bin Abu Salamah Al Majisyun] dari [Az Zuhri] dari [As Sa'ib bin Yazid], "Sesungguhnya orang yang menambah adzan ketiga pada shalat Jum'at adalah 'Utsman bin 'Affan? radliallahu 'anhu, ketika penduduk Madinah semakin banyak. Dan tidak ada mu'adzin bagi Nabi shallallahu 'alaihi wasallam kecuali satu. Dan adzan shalat Jum'at dilaksanakan ketika Imam sudah duduk, yakni duduk di atas mimbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>913</td></tr><tr><td>Arabic No</td><td>913</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии этого хадиса сообщается, что ас-Са‘иб, да будет доволен им Аллах, сказал: «У Пророка ﷺ был лишь один муаззин, а призыв на намаз в пятницу раздавался только после того, как имам садился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>913</td></tr><tr><td>Arabic No</td><td>913</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
 

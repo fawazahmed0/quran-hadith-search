@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) burnt the date-palms of Bani An-Nadir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam membakar (kebun) pohon kurma milik Yahudi Bani An Nadhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 56 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн Умара, да будет доволен им Аллах, что Пророк ﷺ сжег пальмы (племени) бану надира
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 56 Hadith 230</td></tr></tbody></table></div>
 

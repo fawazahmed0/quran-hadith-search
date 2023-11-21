@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Ubaid:(in continuation of above). Then I witnessed the 'Id with 'U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hibban bin Musa] telah mengabarkan kepada kami [Abdullah] dia berkata; telah mengabarkan kepadaku [Yunus] dari [Az Zuhri] dia berkata; telah menceritakan kepadaku [Abu 'Ubaid] bekas budak Ibnu Azhar, bahwa dia pernah ikut shalat Iedul Adlha bersama [Umar bin Khatthab] radliallahu 'anhu, maka dia mengerjakan shalat sebelum khutbah, lalu berkhutbah di hadapan manusia, katanya; "Wahai sekalian manusia, sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang kalian untuk berpuasa di dua hari raya ini, salah satu dari hari itu adalah hari raya di mana kalian berbuka setelah kalian berpuasa, sedangkan yang kedua adalah pada hari kalian memakan daging binatang kurban kalian." Abu 'Ubaid berkata; Setelah itu aku juga pernah shalat ied bersama [Utsman bin 'Affan], waktu itu bertepatan dengan hari Jum'at, kemudian dia mengerjakan shalat ied sebelum berkhutbah lalu berkhutbah, katanya; "Wahai sekalian manusia, sesungguhnya pada hari ini telah berkumpul dua hari raya kalian, maka siapa di antara kalian dari penduduk luar kota yang hendak menunggu di sini (hingga tiba waktu Jum'at), silahkan menunggu, namun jika menginginkan pulang sekarang, maka aku telah mengizinkannya pulang." Abu 'Ubaid mengatakan; "Setelah itu, aku juga pernah ikut shalat ied bersama [Ali bin Abu Thalib], dia mengerjakan shalat ied sebelum berkhutbah, kemudian dia berkhutbah di hadapan manusia, katanya; "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang kalian memakan daging kurban kalian lebih dari tiga hari." Dari dari [Ma'mar] dari [Az Zuhri] dari [Abu 'Ubaid] seperti itu juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5572</td></tr><tr><td>Arabic No</td><td>5572</td></tr><tr><td>Reference</td><td>Book 73 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Далее Абу ’Убейд сказал: «Затем я присутствовал на праздничной молитве с ’Усманом ибн ’Аффаном, который выпал на пятницу. Он совершил (праздничную) молитву до проповеди, а потом обратился к людям, сказав: “О люди, в этот день собралось два праздника, поэтому если кто-то из жителей пригорода (Медины) хочет подождать пятничную молитву – пусть ждёт, а если хочет вернуться домой, то я разрешаю им это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5572</td></tr><tr><td>Arabic No</td><td>5572</td></tr><tr><td>Reference</td><td>Book 73 Hadith 28</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that a person said to Allah's Messenger (ﷺ):When would be the La
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], ['Amru An Naqid], [Zuhair bin Harb], [Muhammad bin 'Abdullah bin Numair] dan [Ibnu Abu 'Umar], lafazh ini milik Zuhair mereka berkata; Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Anas] dia berkata; seseorang berkata; 'Ya Rasulullah, kapan terjadi hari kiamat? ' Beliau menjawab: Apa yang telah kamu siapkan? -tanpa menyebutkan kalimat; banyak.- orang itu menjawab; 'Aku hanya mencintai Allah dan Rasul-NYa. Beliau bersabda: "Kamu bersama dengan yang kau cintai." Telah menceritakannya kepadaku [Muhammad bin Rafi'] dan ['Abad bin Humaid]. ['Abad] berkata; Telah mengabarkan kepada kami. Dan berkata [Ibnu Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri]; Telah menceritakan kepadaku [Anas bin Malik] bahwa seorang arab badui menemui Rasulullah shallallahu 'alaihi wasallam -dengan redaksi yang serupa.- namun di dalam disebutkan dengan lafazh; orang tersebut menjawab; Aku tidak mempunyai persiapan yang banyak, selain aku hanya memuji kepada-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6712</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6712</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

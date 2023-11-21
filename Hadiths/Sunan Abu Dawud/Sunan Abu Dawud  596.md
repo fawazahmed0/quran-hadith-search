@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu ‘Atiyyah, a freed slave of us, said:Malik b. al-Huwairith came to this pla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Aban] dari [Budail] telah menceritakan kepada saya [Abu 'Athiyyah mantan sahaya kami] dia berkata; [Malik bin Huwairits] pernah mengunjungi kami di mushalla kami ini, lalu tatkala iqamat shalat telah dikumandangkan, kami berkata kepadanya; Maju dan jadilah imam shalat. Namun dia berkata kepada kami; Pilihlah salah seorang dari kalian untuk shalat mengimami kalian dan saya akan menceritakan kepada kalian mengapa saya tidak mau mengimami kalian, saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang mengunjungi suatu kaum maka janganlah dia mengimami mereka, akan tetapi hendaklah yang mengimami mereka adalah salah seorang dari mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>596</td></tr><tr><td>Arabic No</td><td>596</td></tr><tr><td>Reference</td><td>Book 2 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ‘Атыййа сказал: «Обычно Малик ибн Хууайрис приходил к нам в это место, где мы совершали молитву, и (однажды), когда (муаззин) возвестил икаму, мы сказали ему: “Выходи вперёд и возглавь молитву”. И он сказал нам: “Пусть выходит вперёд кто-то из вас и совершит молитву с вами, а я расскажу вам почему я не хочу возглавить вас в молитве. Я слышал как Посланник Аллаха ﷺ говорил: ‹Пусть тот, кто навестит каких-то людей, не возглавляет их (в молитве), и пусть их возглавит человек из их числа›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>596</td></tr><tr><td>Arabic No</td><td>596</td></tr><tr><td>Reference</td><td>Book 2 Hadith 206</td></tr></tbody></table></div>
 

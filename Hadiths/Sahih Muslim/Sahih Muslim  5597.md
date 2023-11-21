@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Abu'l-Qasim (ﷺ) said:Give name (to your children) af
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], ['Amru An Naqid], [Zuhair bin Harb] dan [Ibnu Numair] mereka berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ayyub] dari [Muhammad bin Sirin] ia berkata; aku mendengar [Abu Hurairah] berkata; Abu Al Qasim shallallahu 'alaihi wasallam bersabda: 'Boleh memberi nama dengan namaku, tetapi jangan memberi gelar dengan gelaranku! ' Amru berkata; dia berkata; 'dari Abu Hurairah', bukan dengan lafazh 'Aku mendengar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5597</td></tr><tr><td>Arabic No</td><td>2134</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5597</td></tr><tr><td>Arabic No</td><td>2134</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
 

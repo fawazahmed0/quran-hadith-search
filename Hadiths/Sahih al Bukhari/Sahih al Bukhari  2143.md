@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) forbade the sale called 'Ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam melarang menjual (anak) yang dikandung dalam perut unta. Cara itu merupakan jual beli orang-orang jahiliyyah, yang seseorang membeli sesuatu yang ada di dalam kandungan unta, hingga unta itu melahirkan, lalu anak unta tersebut melahirkan kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2143</td></tr><tr><td>Arabic No</td><td>2143</td></tr><tr><td>Reference</td><td>Book 34 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ запретил продавать ещё не родившихся (животных), что практиковалось в эпоху джахилийи, когда человек покупал (ещё не родившегося) верблюда (с условием, что он получит его), когда верблюдица его родит, а потом она рожала(, и он получал приплод)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2143</td></tr><tr><td>Arabic No</td><td>2143</td></tr><tr><td>Reference</td><td>Book 34 Hadith 95</td></tr></tbody></table></div>
 

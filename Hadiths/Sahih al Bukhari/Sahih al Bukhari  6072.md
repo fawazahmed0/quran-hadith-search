@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Anas bin Malik said, "Any of the female slaves of Medina could take hold of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6072</td></tr><tr><td>Arabic No</td><td>6072</td></tr><tr><td>Reference</td><td>Book 78 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, сказал: «Поистине, любая рабыня жителей Медины могла взять Посланника Аллаха ﷺ за руку и увести его, куда хотела»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6072</td></tr><tr><td>Arabic No</td><td>6072</td></tr><tr><td>Reference</td><td>Book 78 Hadith 102</td></tr></tbody></table></div>
 

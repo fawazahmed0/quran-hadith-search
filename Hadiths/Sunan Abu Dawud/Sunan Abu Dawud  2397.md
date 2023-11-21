@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above has also been transmitted by Abu Hurairah through 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb], ia berkata; telah menceritakan kepada kami [Syu'bah], dan telah diriwayatkan dengan jalur yang lain: Telah menceritakan kepada kami [Muhammad bin Katsir], ia berkata; telah mengabarkan kepada kami [Syu'bah] dari [Habib bin Abu Tsabit] dari ['Umarah bin 'Umair] dari [Ibnu Muthawwis] dari [ayahnya], [Ibnu Katsir] berkata; dari [Abu Al Muthawwis] dari [ayahnya], dari [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang berbuka satu hari pada Bulan Ramadhan bukan karena sebuah rukhshah (keringanan) yang telah Allah berikan kepadanya, maka puasa satu tahun tidaklah mampu menggantikannya." Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Yahya bin Sa'id] dari [Sufyan], telah menceritakan kepadaku [Habib] dari ['Umarah] dari [Ibnu Al Muthawwis], ia berkata; kemudian aku bertemu dengan [Ibnu Al Muthawwis] dan ia menceritakan kepadaku dari [ayahnya], dari [Abu Hurairah], ia berkata; Nabi shallallahu 'alaihi wasallam bersabda:... Seperti hadits Ibnu Katsir dan Sulaiman. Abu Daud berkata; dan telah diperselisihkan riwayat dari Sufyan dan Syu'bah: Ibnu Al Muthawwis serta Abu Al Muthawwis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2397</td></tr><tr><td>Arabic No</td><td>2397</td></tr><tr><td>Reference</td><td>Book 14 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Такой же хадис передаётся от Абу Хурайры, да будет доволен им Аллах, от Пророка ﷺ другим путём
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2397</td></tr><tr><td>Arabic No</td><td>2397</td></tr><tr><td>Reference</td><td>Book 14 Hadith 85</td></tr></tbody></table></div>
 

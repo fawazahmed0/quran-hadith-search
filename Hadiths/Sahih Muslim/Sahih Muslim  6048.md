@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Never did Allah's Messenger (ﷺ) make a choice between two thin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam diberi pilihan dari dua urusan atau pekerjaan, yang salah satunya lebih mudah dari pada yang lainnya, maka beliau memilih yang termudah, selama yang termudah itu tidak mengandung dosa. Jika perkara itu mengandung dosa, maka beliau adalah orang yang paling menjauhkan diri dari padanya. Dan Telah menceritakannya kepada kami [Abu Kuraib] dan [Ibnu Numair] seluruhnya dari [Abdullah bin Numair] dari [Hisyam] melalui jalur ini, dia hanya menyebutkan sampai perkataan; 'Maka beliau akan memilih yang termudah.' Dan tidak ada kalimat lain setelah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6048</td></tr><tr><td>Arabic No</td><td>2327.04</td></tr><tr><td>Reference</td><td>Book 43 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6048</td></tr><tr><td>Arabic No</td><td>2327.04</td></tr><tr><td>Reference</td><td>Book 43 Hadith 106</td></tr></tbody></table></div>
 

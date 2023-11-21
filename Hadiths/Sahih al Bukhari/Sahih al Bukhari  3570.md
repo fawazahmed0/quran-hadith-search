@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sharik bin 'Abdullah bin Abi Namr:I heard Anas bin Malik telling us abo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il] berkata telah bercerita kepadaku [saudaraku] dari [Sulaiman] dari [Syarik bin Abdullah bin Abu Namir], aku mendengar [Anas bin Malik] bercerita kepada kami tentang perjalanan malam isra' Nabi shallallahu 'alaihi wasallam dari masjid Kabah (Al Haram). Ketika itu, beliau didatangi oleh tiga orang (malaikat) sebelum beliau diberi wahyu, saat sedang tertidur di Masjidil Haram. Malaikat pertama berkata; "Siapa orang ini diantara kaumnya? '.. Malaikat yang di tengah berkata; "Dia adalah orang yang terbaik di kalangan mereka'. Lalu malaikat yang ketiga berkata; "Ambillah yang terbaik dari mereka." Itulah di antara kisah Isra' dan beliau tidak pernah melihat mereka lagi hingga akhirnya mereka datang berdasarkan penglihatan hati beliau dan Nabi shallallahu 'alaihi wasallam matanya tidur namun hatinya tidaklah tidur, dan demikian pula para Nabi, mata mereka tidur namun hati mereka tidaklah tidur. Kemudian Jibril menghampiri beliau lalu membawanya naik (mi'raj) ke atas langit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3570</td></tr><tr><td>Arabic No</td><td>3570</td></tr><tr><td>Reference</td><td>Book 61 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, рассказывавший о ночи вознесения Пророка ﷺ из мечети Каабы, сказал: «(Однажды, когда Пророк ﷺ) спал в Запретной мечети ещё до того, как ему начали ниспосылаться откровения, к нему явились трое, и первый из них спросил: “Кто из них он?” Второй сказал: “Это лучший из них”, последний же сказал: “Возьмите лучшего из них”. (В ту ночь больше ничего не произошло,) и он не видел их, пока они не пришли в другую ночь, а (их присутствие) он ощутил своим сердцем, ибо глаза Пророка ﷺ спали, но не спало сердце его. И это (было присуще всем) пророкам: глаза их спали, а сердца бодрствовали. А потом (Пророком ﷺ) занялся Джибриль, который вознёс его на небо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3570</td></tr><tr><td>Arabic No</td><td>3570</td></tr><tr><td>Reference</td><td>Book 61 Hadith 79</td></tr></tbody></table></div>
 

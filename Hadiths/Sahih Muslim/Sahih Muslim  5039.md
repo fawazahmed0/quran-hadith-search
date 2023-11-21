@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : 'Umm Hufayd, ma tante maternell
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Abu Bakar bin Nafi'], [Ibnu Nafi'] berkata; telah mengabarkan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dia berkata; saya mendengar [Ibnu Abbas] berkata, "Bibiku, Ummu Hufaid, pernah menghadiahkan minyak samin, susu kering dan daging biawak kepada Rasulullah shallallahu 'alaihi wasallam, lalu beliau memakan minyak samin dan susu kering, dan meninggalkan daging biawak karena merasa jijik. Namun daging tersebut pernah dihidangkan (dimakan) di atas meja makan Rasulullah shallallahu 'alaihi wasallam, seandainya hal itu haram, tentu ia tidak akan terhidang (dimakan) di meja makan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5039</td></tr><tr><td>Arabic No</td><td>1947</td></tr><tr><td>Reference</td><td>Book 34 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5039</td></tr><tr><td>Arabic No</td><td>1947</td></tr><tr><td>Reference</td><td>Book 34 Hadith 68</td></tr></tbody></table></div>
 

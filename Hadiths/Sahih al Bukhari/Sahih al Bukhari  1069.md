@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The prostration of Sa'd is not a compulsory one but I saw th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Abu an-Nu'man] keduanya berkata,, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: Pada surat Shad tidak ada kewajiban untuk sujud tilawah, namun aku melihat Nabi shallallahu 'alaihi wasallam melaksanakan sujud ketika membacanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1069</td></tr><tr><td>Arabic No</td><td>1069</td></tr><tr><td>Reference</td><td>Book 17 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(При чтении суры) “Сад” совершать земной поклон необязательно, однако я видел, как Пророк ﷺ делал это, читая её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1069</td></tr><tr><td>Arabic No</td><td>1069</td></tr><tr><td>Reference</td><td>Book 17 Hadith 3</td></tr></tbody></table></div>
 

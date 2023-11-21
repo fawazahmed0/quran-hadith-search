@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir (Allah be pleased with them) reported that Allah's Messenger (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari ['Ashim Al Ahwal] dari [As Sya'bi] dari [An Nu'man bin Basyir], bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda kepada ayahnya: "Janganlah kamu menjadikanku saksi atas pemberian yang kurang adil (zhalim) ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4184</td></tr><tr><td>Arabic No</td><td>1623.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4184</td></tr><tr><td>Arabic No</td><td>1623.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 22</td></tr></tbody></table></div>
 

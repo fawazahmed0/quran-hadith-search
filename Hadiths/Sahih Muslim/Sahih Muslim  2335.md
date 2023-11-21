@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hammam b. Munabbih reported that-this is out of (those ahadith) which Abu Hurair
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdurrazaq bin Hammam] Telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] ia berkata, ini adalah hadits yang telah diceritakan kepada kami oleh [Abu Hurairah] dari Muhammad shallallahu 'alaihi wasallam. ia pun menyebutkan beberapa hadits, di antaranya adalah; Dan Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap anggota tubuh manusia memiliki keharusan sedekah pada setiap harinya. Yaitu seperti mendamaikan dua orang yang berselisih, adalah sedekah. Menolong orang yang naik kendaraan, atau menolong mengangkatkan barangnya ke atas kendaraan, itu pun termasuk sedekah. Ucapan atau tutur kata yang baik, juga sedekah. Setiap langkah yang Anda ayunkan untuk menunaikan shalat, juga sedekah. Dan menyingkirkan sesuatu yang membahayakan di jalanan umum, adalah sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2335</td></tr><tr><td>Arabic No</td><td>1009</td></tr><tr><td>Reference</td><td>Book 12 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «На каждом суставе человека лежит обязанность раздавать милостыню каждый день, в который восходит солнце. Если ты справедливо рассудишь между двумя, это будет милостыней. Если ты поможешь человеку взобраться на его верховое животное или поднимешь на верховое животное его вещи, это будет милостыней. И благое слово также является милостыней. И каждый шаг, который ты делаешь на пути к молитве, является милостыней. И если ты уберёшь с дороги то, что мешает (прохожим), это также будет милостыней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2335</td></tr><tr><td>Arabic No</td><td>1009</td></tr><tr><td>Reference</td><td>Book 12 Hadith 72</td></tr></tbody></table></div>
 

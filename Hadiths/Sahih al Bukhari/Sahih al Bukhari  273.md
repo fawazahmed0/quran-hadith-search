@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham bin 'Urwa:(on the authority of his father) 'Aisha said, "Wheneve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah] berkata,: "Adalah Nabi Rasulullah shallallahu 'alaihi wasallam. jika mandi janabat, mencuci tangannya dan berwudlu' sebagaimana wudlu' unmtuk shalat. Kemudian mandi dengan menggosok-gosokkan tangannya ke rambut kepalanya hingga bila telah yakin merata mengenai dasar kulit kepalanya Beliau mengguyurkan air ke atasnya tiga kali. Lalu membasuh seluruh badannya". 'Aisyah berkata,: "Aku pernah mandi bersama Rasulullah shallallahu 'alaihi wasallam. dari satu bejana dimana kami saling mengambil (menciduk) air bersamaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>273</td></tr><tr><td>Arabic No</td><td>273</td></tr><tr><td>Reference</td><td>Book 5 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Аиша, да будет доволен ею Аллах,) также сказала: «Обычно я купалась (из-за полового осквернения) вместе с посланником Аллаха ﷺ черпая (воду) вместе из одного и того же сосуда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>273</td></tr><tr><td>Arabic No</td><td>273</td></tr><tr><td>Reference</td><td>Book 5 Hadith 25</td></tr></tbody></table></div>
 

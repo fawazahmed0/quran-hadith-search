@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A man from banu Damrah reported on the authority of his father or his uncle “ 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hannad], dari [Ibnu Abu Zaidah], telah menceritakan kepada Kami [Sufyan bin 'Uyainah], dari [Zaid bin Aslam], dari [seseorang dari Bani Dhamrah] dari [ayahnya] atua pamannya, ia berkata; aku melihat Rasulullah shallAllahu wa'alaihi wa sallam berada di atas mimbar di 'Arafah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1915</td></tr><tr><td>Arabic No</td><td>1915</td></tr><tr><td>Reference</td><td>Book 11 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейд ибн Аслям, да будет доволен им Аллах, передаёт от одного человека из бану дамра, который передаёт от своего отца или дяди со стороны отца: «Я видел Пророка ﷺ на минбаре на ‘Арафате»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1915</td></tr><tr><td>Arabic No</td><td>1915</td></tr><tr><td>Reference</td><td>Book 11 Hadith 195</td></tr></tbody></table></div>
 

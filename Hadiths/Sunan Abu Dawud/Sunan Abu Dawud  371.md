@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hammam b. al-Harith reported, he has a sexual dream when he was staying with 'Ai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] dari [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari [Hammam bin Al Harits] bahwasanya dia pernah berada di rumah [Aisyah] radliallahu 'anha, lalu bermimpi keluar mani, lalu terlihat oleh sahaya wanita Aisyah ketika dia sedang mencuci bekas junub dari pakaiannya itu, atau mencuci pakaiannya. Kemudian sahaya wanita itu memberitahukan kepada Aisyah, lalu dia berkata; Sungguh saya teringat, bahwa saya pernah menggosoknya dari pakaian Rasulullah shallallahu 'alaihi wasallam. Abu Dawud berkata; Diriwayatkan oleh [Al A'masy] sebagaimana diriwayatkan oleh Al Hakam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>371</td></tr><tr><td>Arabic No</td><td>371</td></tr><tr><td>Reference</td><td>Book 1 Hadith 371</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хаммама ибн аль-Хариса о том, что однажды, когда он находился у ‘Аиши, да будет доволен ею Аллах, у него произошла поллюция, и его увидела служанка ‘Аиши, когда он смывал следы осквернения со своей одежды или стирал свою одежду. Она рассказала об этом ‘Аише и она сказала: «Меня тоже видели, когда я соскабливала ее с одежды Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (288)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>371</td></tr><tr><td>Arabic No</td><td>371</td></tr><tr><td>Reference</td><td>Book 1 Hadith 371</td></tr></tbody></table></div>
 

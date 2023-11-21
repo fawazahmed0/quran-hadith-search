@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Abu-l-Qasim (the Prophet) said, "On Friday there is a parti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah mengabarkan kepada kami [Ayyub] dari [Muhammad] dari [Abu Hurairah] radliallahu 'anhu dia berkata; Abu Qasim shallallahu 'alaihi wasallam pernah bersabda: "Pada hari Jum'at terdapat waktu, yang tidaklah seorang hamba muslim shalat dan meminta kebaikan kepada Allah, kecuali Allah akan mengabulkannya." Beliau memberi isyarat dengan tangannya. Kami berkata; 'Yaitu beliau menyempitkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6400</td></tr><tr><td>Arabic No</td><td>6400</td></tr><tr><td>Reference</td><td>Book 80 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что однажды Абу аль-Касим ﷺ сказал: «В пятничный день есть час, в который если мусульманин, выстаивающий молитву, попросит у Аллаха блага, то Он обязательно дарует ему это». Тут он показал рукой, что этот час очень мал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6400</td></tr><tr><td>Arabic No</td><td>6400</td></tr><tr><td>Reference</td><td>Book 80 Hadith 95</td></tr></tbody></table></div>
 

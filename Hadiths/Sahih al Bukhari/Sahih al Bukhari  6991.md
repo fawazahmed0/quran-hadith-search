@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Some people were shown the Night of Qadr as being in the last
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [Ibnu Umar] radliallahu 'anhu; ada beberapa orang yang diperlihatkan kepada mereka lailatul qadar pada tujuh malam terakhir, sedang sebagian yang lain diperlihatkan kepada mereka pada sepuluh malam terakhir, maka Nabi shallallahu 'alaihi wasallam bersabda: "carilah pada tujuh malam terakhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6991</td></tr><tr><td>Arabic No</td><td>6991</td></tr><tr><td>Reference</td><td>Book 91 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что (в своё время нескольким) людям было открыто во сне, что Ночь предопределения будет среди семи последних ночей (рамадана), а (другим) людям, было открыто во сне, что Ночь предопределения будет среди десяти последних ночей (рамадана), и тогда Пророк ﷺ сказал: «Ищите Ночь предопределения среди последних семи ночей (рамадана)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6991</td></tr><tr><td>Arabic No</td><td>6991</td></tr><tr><td>Reference</td><td>Book 91 Hadith 10</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Shu’bah reported :when Ibn ‘Abbas took a bath because of sexual defilement, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>246</td></tr><tr><td>Arabic No</td><td>246</td></tr><tr><td>Reference</td><td>Book 1 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Шу‘ба сказал: «Когда Ибн ‘Аббас купался из-за осквернения, он наливал воду правой рукой на левую семь раз, после чего мыл свои половые органы, но он забыл о том, сколько раз наливал. Однажды он спросил меня: “Сколько раз я наливал (на себя воды)?” Я ответил: “Незнаю”. И он сказал: “Чтобы твоя мать тебя лишилась! Что же тебе мешало знать об этом?” Затем он совершил такое же омовение, которое совершается для молитвы, после чего налил воды на тело, а затем сказал: “Вот так очищался Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>246</td></tr><tr><td>Arabic No</td><td>246</td></tr><tr><td>Reference</td><td>Book 1 Hadith 246</td></tr></tbody></table></div>
 

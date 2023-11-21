@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to offer the Fajr prayer and some b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku ['Urwah] bahwa ['Aisyah] berkata, "Rasulullah shallallahu 'alaihi wasallam shalat fajar dan ikut juga wanita-wanita Mu'minat yang wajahnya tertutup dengan kerudung, kemudian kembali ke rumah mereka masing-masing tanpa diketahui oleh seorangpun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 8 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал: «Сообщил мне ‘Урва о том, что ‘Аиша, да будет доволен ею Аллах, сказала: “Когда Посланник Аллаха ﷺ совершал утреннюю молитву (в мечети), с ним часто молились и верующие женщины, которые заворачивались в свои плащи. Затем они возвращались к себе домой и никто не мог узнать их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 8 Hadith 24</td></tr></tbody></table></div>
 

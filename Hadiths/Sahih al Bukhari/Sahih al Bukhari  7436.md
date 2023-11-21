@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir:Allah's Messenger (ﷺ) came out to us on the night of the full m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdah bin Abdullah] telah menceritakan kepada kami [Husain Al Ju'fi] dari [Zaidah] telah menceritakan kepada kami [Bayan bin Bisyr] dari [Qais bin Abu Hazim] telah menceritakan kepada kami [Jarir], bahwa Rasulullah Shallallahu'alaihiwasallam menemui kami di malam purnama, lantas beliau bersabda: "Kalian akan melihat Tuhan kalian pada hari kiamat sebagaimana kalian melihat bulan ini dengan tidak kesulitan melihatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7436</td></tr><tr><td>Arabic No</td><td>7436</td></tr><tr><td>Reference</td><td>Book 97 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джарир (ибн ‘Абдуллах), да будет доволен им Аллах, сказал: «Как-то раз, Посланник Аллаха ﷺ вышел к нам в ночь полнолуния и сказал: “Поистине, вы увидите Господа вашего в День воскресения, как видите эту луну, и вам ничего не помешает увидеть Его!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7436</td></tr><tr><td>Arabic No</td><td>7436</td></tr><tr><td>Reference</td><td>Book 97 Hadith 63</td></tr></tbody></table></div>
 

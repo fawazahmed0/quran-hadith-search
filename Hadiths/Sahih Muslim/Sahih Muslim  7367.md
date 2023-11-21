@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It was narrated that Hudhaifah said:The Messenger of Allah said: 'I know what th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yazid bin Harun] dari [Abu Malik Al Asyja'i] dari [Rib'I bin Hirasy] dari [Hudzaifah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sungguh aku tahu apa yang ada bersama Dajjal, bersamanya ada dua sungai mengalir. Salah satunya secara kasat mata berupa air putih dan yang lainnya secara kasat mata berupa api yang bergejolak. Bila ada yang menjumpainya, hendaklah mendatangi surga yang ia lihat berupa api dan hendaklah menutup mata, kemudian hendaklah menundukkan kepala lalu meminumnya karena sesungguhnya itu adalah air dingin. Sesungguhnya Dajjal buta matanya, di atas matanya ada kulit tebal, diantara kedua matanya tertulis KAFIR yang bisa dibaca oleh setiap mu'min yang bisa baca tulis atau pun tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7367</td></tr><tr><td>Arabic No</td><td>2934.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа (ибн аль-Яман) сказал: «Посланник Аллаха ﷺ сказал: “Поистине, я лучше самого Даджаля знаю, что у него будет. Будут у него две текущих реки, одна из кото­рых представится глазу чистой водой, а другая пылающим огнём. Пусть же тот, кто доживёт до этого, подойдёт к реке, которая пред­ставится ему огнём, закроет глаза, наклонит голову и напьётся из неё, ибо, поистине, (там будет) прохладная вода. И, поистине, у Даджаля выпуклый глаз, который будет при­крыт грубой кожей. Меж глаз его будет (написано слово) кафир/неверный/, и (это слово) прочтёт каждый грамотный или неграмот­ный верующий”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7367</td></tr><tr><td>Arabic No</td><td>2934.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 129</td></tr></tbody></table></div>
 

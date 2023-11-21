@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I saw Allah's Messenger (ﷺ) drinking milk. He came to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Anas bin Malik] radliallahu 'anhu bahwa dia melihat Rasulullah shallallahu 'alaihi wasallam meminum susu, lalu beliau memasuki rumahnya, kemudian aku memeras susu kambing untuk Rasulullah shallallahu 'alaihi wasallam yang aku campur dengan air dari sumur, setelah itu beliau mengambil mangkuk tersebut dan meminumnya sementara di samping kiri beliau terdapat Abu Bakar dan di samping kanannya seorang arab badui, namun beliau memberikan sisanya kepada arab badui sambil bersabda: "Yang kanan dan kanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5612</td></tr><tr><td>Arabic No</td><td>5612</td></tr><tr><td>Reference</td><td>Book 74 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал, что видел, как Посланник Аллаха ﷺ пил молоко, придя к нему домой. Анас сказал: «Я подоил овцу и смешал молоко с водой из колодца для Посланника Аллаха ﷺ. Он взял чашу и попил его в то время, как слева от него сидел Абу Бакр, а справа — какой-то бедуин, и он передал остатки молока бедуину, а затем сказал: “(Следует передавать сидящим) справа, (следует передавать сидящим) справа!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5612</td></tr><tr><td>Arabic No</td><td>5612</td></tr><tr><td>Reference</td><td>Book 74 Hadith 38</td></tr></tbody></table></div>
 

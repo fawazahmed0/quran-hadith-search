@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Shaddad bin 'Aus:The Prophet (ﷺ) said, "The most superior way of aski
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Husain] telah menceritakan kepada kami [Abdullah bin Buraidah] dari [Busyair bin Ka'b] dari [Syaddad bin Aus] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya istighfar yang paling baik adalah; jika seorang hamba mengucapkan: 'ALLAHUMMA ANTA RABBI LAA ILAAHA ILLA ANTA KHALAQTANI WA ANA 'ABDUKA WA ANA 'ALA 'AHDIKA WA WA'DIKA MASTATHA'TU A'UUDZU BIKA MIN SYARRI MAA SHANA'TU ABUU'U LAKA BIDZANBI WA ABUU'U LAKA BINI'MATIKA 'ALAYYA FAGHFIRLI FA INNAHU LAA YAGHFIRU ADZ DZUNUUBA ILLA ANTA A'UUDZU BI SYARRI MAA SHANA'TU (Ya Allah, Engkau adalah Tuhanku, tidak ada Tuhan yang berhak diibadahi selain Engkau. Engkau telah menciptakanku dan aku adalah hamba-Mu. Aku menetapi perjanjian-Mu dan janji-Mu sesuai dengan kemampuanku. Aku berlindung kepada-Mu dari keburukan perbuatanku, aku mengakui dosaku kepada-Mu dan aku akui nikmat-Mu kepadaku, maka ampunilah aku. Sebab tidak ada yang dapat mengampuni dosa selain-Mu, dan aku meminta ampun dari segala yang pernah aku perbuat) '. Jika ia mengucapkan di waktu sore lalu meninggal, maka ia akan masuk surga. Dan jika ia membacanya di waktu pagi lalu meninggal pada hari, maka ia mendapatkan seperti itu juga (masuk surga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6323</td></tr><tr><td>Arabic No</td><td>6323</td></tr><tr><td>Reference</td><td>Book 80 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Шаддад ибн Аус, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Главная молитва о прощении — это, когда ты говоришь: “О Аллах, Ты — Господь мой, нет божества, достойного поклонения, кроме Тебя. Ты сотворил меня, и я — Твой раб, и я придерживаюсь завета, данного Тебе по мере своих сил, и я верю в Твоё обещание. Я признаю милости, оказанные Тобою мне, и признаю грех свой, так прости же меня, ибо, поистине, никто не прощает грехов, кроме Тебя Я прибегаю к Твоей защите от зла того, что я сделал!”»\n/Аллахумма, Анта Рабби, ля иляха илля Анта, халякта-ни ва ана ‘абду-Кя, ва ана ‘аля ‘ахди-Кя ва ва‘ди-Кя ма-стата‘ту. Абуу ля-Кя би-ни‘мати-Кя ‘аляййа, ва абуу ля-Кя би-занби, фа-гфир ли, фа-инна-ху ля йагфиру-з-зунуба илля Анта. А‘узу би-Кя мин шарри ма сана‘ту/\n(Сказав же это, Пророк ﷺ добавил): «Кто произнесёт эти слова вечером и умрёт — войдёт в Рай (или: он будет из обитателей Рая). Если же он произнесёт эти слова утром и умрёт в этот же день — также (войдёт в Рай)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6323</td></tr><tr><td>Arabic No</td><td>6323</td></tr><tr><td>Reference</td><td>Book 80 Hadith 20</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Tamim b. Tarafa reported:A beggar came to 'Adi b. Hatim and he begged him to giv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Abdul Aziz] -yaitu Ibnu Rufai'- dari [Tamim bin Tharafah] dia berkata, "Seorang peminta menemui ['Adi bin Hatim], lalu dia meminta uang untuk membayar gaji pembantu -atau meminta sebagian uang untuk membayar gaji pembantu-, maka dia menjawab, "Aku tidak memiliki sesuatupun untuk membayarkanya kecuali baju besiku dan penutup kepalanya, maka pergilah kepada keluargaku semoga dia bisa memberikan sedikit kepadamu." Tamim melanjutkan, "Ternyata laki-laki itu tidak mau, akhirnya 'Adi marah sambil berkata, 'Demi Allah, sungguh aku akan memberikan sesuatu untukmu." Kemudian laki-laki tersebut rela, lalu Adi berkata, "Demi Allah, sekiranya aku tidak pernah mendengar sabda Rasulullah shallallahu 'alaihi wasallam, 'Barangsiapa mengucapkan sumpah, kemudian dia melihat sesuatu yang yang lebih bisa membuatnya takwa kepada Allah, maka hendaknya dia melakukan sesuatu yang lebih bisa membuatnya takwa kepada Allah', niscaya aku tidak akan melanggar sumpahku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4275</td></tr><tr><td>Arabic No</td><td>1651.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4275</td></tr><tr><td>Arabic No</td><td>1651.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 22</td></tr></tbody></table></div>
 

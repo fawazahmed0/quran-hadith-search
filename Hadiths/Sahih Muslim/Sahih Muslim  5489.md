@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that the ring of Allah's Apostle (ﷺ) was on this, and he pointed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Bakr bin Khallad Al Bahili]; Telah menceritakan kepada kami ['Abdurrahman bin Mahdi]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] ia berkata; Nabi shallallahu 'alaihi wasallam memakai cincinnya di sebelah sini. (sambil menunjukkan ke jari kelingking tangan sebelah kirinya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5489</td></tr><tr><td>Arabic No</td><td>2095</td></tr><tr><td>Reference</td><td>Book 37 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Анас, да будет доволен им Аллах, сказал: «Кольцо Пророка ﷺ было на этом», и он указал на мизинец левой руки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5489</td></tr><tr><td>Arabic No</td><td>2095</td></tr><tr><td>Reference</td><td>Book 37 Hadith 104</td></tr></tbody></table></div>
 

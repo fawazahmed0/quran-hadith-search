@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated o the authority of Abu Dharr that the Messenger of Allah (may ace
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin al-Mutsanna] serta [Ibnu Basysyar] mereka berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] dari [Syu'bah] dari [Ali bin Mudrik] dari [Abu Zur'ah] dari [Kharasyah bin al-Hurr] dari [Abu Dzar] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tiga golongan manusia yang Allah tidak akan mengajak mereka bicara pada hari kiamat, tidak melihat mereka, tidak mensucikan dosanya dan mereka akan mendapatkan siksa yang pedih." Abu Dzar berkata lagi, "Rasulullah shallallahu 'alaihi wasallam membacanya tiga kali. Abu Dzar berkata, "Mereka gagal dan rugi, siapakah mereka wahai Rasulullah?" Beliau menjawab, "Orang yang melakukan isbal (memanjangkan pakaian), orang yang suka memberi dengan menyebut-nyebutkannya (karena riya'), dan orang yang membuat lakubarang dagangan dengan sumpah palsu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>293</td></tr><tr><td>Arabic No</td><td>106.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Зарра (да будет доволен им Аллах), что (однажды) Пророк ﷺ сказал: «С тремя не заговорит Аллах в День воскрешения, не посмотрит на них и не очистит их, и им (уготовано) мучительное наказание!»(Абу Зарр) сказал: «И Посланник Аллаха ﷺ повторил эти слова трижды».Абу Зарр сказал: «Они потерпят неудачу и окажутся в убытке! Кто же это, о Посланник Аллаха?» Он сказал: «Опускающий (края одежды до земли), попрекающий (своими благодеяниями людей) и сбывающий свой товар с помощью ложных клятв»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>293</td></tr><tr><td>Arabic No</td><td>106.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 199</td></tr></tbody></table></div>
 

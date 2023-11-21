@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:Allah's Messenger (ﷺ) said, "Whoever has (the foll
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [َQutaibah bin Sa'id] telah bercerita kepada kami [Jarir] dari [Al A'masy] dari ['Abdullah bin Murrah] dari [Masruq] dari ['Abdullah bin 'Amru radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Empat hal bila ada pada seseorang maka dia adalah seorang munafiq tulen yaitu orang yang jika berbicara dusta, jika berjanji mengingkari, jika diberi amanat dia khiyanat dan jika berseteru dia curang dan barangsiapa yang ada padanya salah satu sifat itu, dia punya sifat nifaq hingga dia meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3178</td></tr><tr><td>Arabic No</td><td>3178</td></tr><tr><td>Reference</td><td>Book 58 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Истинным лицемером является тот, кому присущи четыре (качества): тот, кто лжёт, когда рассказывает (о чём-нибудь), обещая, нарушает обещание, поступает вероломно, когда заключает договор, и поступает нечестиво, когда ведёт тяжбу с кем-либо. Тот, кому присуще хотя бы одно из этих качеств, будет обладать одним из качеств лицемерия, пока не избавится от него»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3178</td></tr><tr><td>Arabic No</td><td>3178</td></tr><tr><td>Reference</td><td>Book 58 Hadith 20</td></tr></tbody></table></div>
 

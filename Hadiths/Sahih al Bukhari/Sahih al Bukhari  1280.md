@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab bint Abi Salama:When the news of the death of Abu Sufyan reached
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Ayyub bin Musa] berkata, telah mengabarkan kepada saya [Humaid bin Nafi'] dari [Zainab binti Abu Salamah] berkata; Ketika kabar kematian Abu Sufyan sampai dari negeri Syam, [Ummu Habibah] radliallahu 'anha meminta wewangian pada hari ketiga lalu memakainya untuk bagian sisi badannya dan lengannya dan berkata; Sungguh bagiku ini sudah cukup seandainya aku tidak mendengar Nabi Shallallahu'alaihiwasallam bersabda: "Tidak halal bagi wanita yang beriman kepada Allah dan Hari Akhir untuk berkabung melebihi tiga hari kecuali bila ditinggal mati suaminya yang saat itu dia boleh berkabung sampai empat bulan sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1280</td></tr><tr><td>Arabic No</td><td>1280</td></tr><tr><td>Reference</td><td>Book 23 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейнаб бинт Абу Саляма, рассказывала: «Когда из Шама пришла новость о смерти Абу Суфьяна, Умм Хабиба, да будет доволен ею Аллах, велела принести жёлтые благовония на третий день и нанесла их себе на щёки и на руки, а потом сказала: “Поистине, нет мне нужды в этих благовониях, однако я слышала, как Пророк ﷺ сказал: “Не дозволено женщине, верующей в Аллаха и в Последний день, соблюдать траур свыше трёх дней по кому-то, кроме мужа, — по нему она должна соблюдать траур четыре месяца и десять дней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1280</td></tr><tr><td>Arabic No</td><td>1280</td></tr><tr><td>Reference</td><td>Book 23 Hadith 41</td></tr></tbody></table></div>
 

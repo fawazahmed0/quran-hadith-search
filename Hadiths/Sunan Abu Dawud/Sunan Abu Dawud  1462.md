@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Uqbah ibn Amir: I was driving the she-camel of the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin 'Amr bin As Sarh], telah memberitakan kepada Kami [Ibnu Wahb], telah memberitakan kepadaku [Mu'awiyah] dari [Al 'Ala'bin Al Harits] dari [Al Qasim] mantan budak Mu'awiyah dari ['Uqbah bin 'Amir], ia berkata; aku menuntun unta Rasulullah shallAllahu wa'alaihi wa sallam yang beliau tunggangi dalam suatu perjalanan. Kemudian beliau berkata: "Wahai 'Uqbah, maukah aku ajarkan kepadamu dua surat terbaik yang dibaca?" Kemudian beliau mengajarkan kepadaku QUL A'UUDZU BIRABBIL FALAQ, dan QUL A'UUDZU BIRABBINNAAS. Kemudian tatkala Rasulullah shallAllahu wa'alaihi wa sallam selesai dari shalat beliau menoleh kepadaku dan berkata: "Wahai 'Uqbah, bagaimana pendapatmu?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1462</td></tr><tr><td>Arabic No</td><td>1462</td></tr><tr><td>Reference</td><td>Book 8 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Укбы ибн ‘Амира, да будет доволен им Аллах: «Я вёл верблюдицу Посланника Аллаха ﷺ в путешествии, и он сказал мне: “О ‘Укба! Не научить ли тебя двум лучшим сурам из тех, которые ты когда-либо читал?” И он научил меня сурам “Скажи: прошу защиты у Господа рассвета” и “Скажи: прошу защиты у Господа людей”. Он увидел, что я не так уж сильно обрадовался этому, и, остановившись для совершения молитвы, он совершил утреннюю молитву /фаджр/ с людьми, прочитав эти две суры. Завершив молитву, Посланник Аллаха ﷺ посмотрел на меня и спросил: “О ‘Укба, ну и что ты думаешь?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1462</td></tr><tr><td>Arabic No</td><td>1462</td></tr><tr><td>Reference</td><td>Book 8 Hadith 47</td></tr></tbody></table></div>
 

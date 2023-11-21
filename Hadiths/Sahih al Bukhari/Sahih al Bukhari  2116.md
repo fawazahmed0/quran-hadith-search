@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar (ra):I bartered my property in Khaibar to 'Uthman (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan berkata, kepada kami [Al Humaidiy] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru] dari [Ibnu 'Umar radliallahu 'anhuma] berkata: "Kami pernah bersama Nabi shallallahu 'alaihi wasallam pada suatu perjalanan yang ketika itu aku menunggang anak unta yang masih liar milik 'Umar. Anak unta itu selalu mendahulukanku (membawaku paling depan). Maka ia berjalan pada barisan paling depan, lalu 'Umar membentaknya dan mengembalikannya ke belakang. Namun ia kembali maju paling depan dan 'Umarpun kembali membentak dan mengembalikannya ke belakang. Kemudian Nabi shallallahu 'alaihi wasallam berkata, kepada 'Umar: "Juallah anak unta itu kepadaku". 'Umar menjawab: "Ia untukmu wahai Rasulullah". Beliau bersabda: "Juallah kepadaku". Maka 'Umarpun menjualnya kepada Rasulullah shallallahu 'alaihi wasallam kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sekarang anak unta itu untukmu wahai 'Abdullah bin 'Umar kamu dapat berbuat dengannya sesukamu". Dan Abu 'Abdullah Al Bukhariy berkata: "Dan Laits berkata, telah mengabarkan kepada saya 'Abdurrahman bin Khalid dari Ibnu Syihab dari Salim bin 'Abdullah dari Abdulloh bin 'Umar radliallahu 'anhu berkata: "Aku menjual (dengan cara barter) kepada amirul Mukminin 'Utsman bin 'Affan hartaku berupa tanah yang ada lembahnya dengan harta dia berupa tanah yang terletak di Khaibar. Setelah kami bertransaksi aku kembali ketempatku semula dan aku keluar dari rumahnya karena khawatir jika ia akan membatalkan transaksi, karena termasuk dari sunnah adalah bahwasanya dua orang yang bertransaksi mempunyai hak pilih hingga mereka berpisah. 'Abdullah berkata: "Ketika jual beli antara aku dan dia telah sah terjadi, aku merasa bahwa aku telah mendhaliminya, bahwa aku telah membawanya (mendekatkannya) ke daerah Tsamud yang jaraknya selama tiga malam, dan ia membawaku (mendekatkan) ke Madinah yang jaraknya selama tiga malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2116</td></tr><tr><td>Arabic No</td><td>2116</td></tr><tr><td>Reference</td><td>Book 34 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Я купил у повелителя правоверных ‘Усмана ибн ‘Аффана землю в Хайбаре за землю в долине. Когда мы заключили сделку, я начал пятиться назад и вышел таким образом из его дома, боясь, того, что он отменит сделку. А сунной является то, что продавец и покупатель имеют право выбора завершить или отменить сделку до тех пор, пока не расстанутся. Когда сделка была завершена, я посчитал, что поступил несправедливо в отношении него тем, что я привёл его на землю самудян на расстоянии трёх дней (от его земли), а он привёл меня ближе к Медине на расстоянии трёх дней (от моей прежней земли)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2116</td></tr><tr><td>Arabic No</td><td>2116</td></tr><tr><td>Reference</td><td>Book 34 Hadith 69</td></tr></tbody></table></div>
 

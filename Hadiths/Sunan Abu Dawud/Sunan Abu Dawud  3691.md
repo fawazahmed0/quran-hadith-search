@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Adb Allah bin 'Umar said:The Messenger of Allah (ﷺ) forbade the nabidh (date-w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] dan [Muslim bin Ibrahim] secara makna, mereka berkata; telah menceritakan kepada kami [Jarir] dari [Ya'la bin Hakim] dari [Sa'id bin Jubair] ia berkata, "Saya mendengar [Abdullah bin Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam telah mengharamkan perasan (arak) dalam bejana tembikar, kemudian aku keluar dalam keadaan kaget karena ucapannya, 'Rasulullah shallallahu 'alaihi wasallam telah mengharamkan perasan dalam bejana tembikar'. Maka aku pun menemui Ibnu Abbas dan aku katakan, "Tidakkah engkau mendengar apa yang dikatakan Ibnu Umar?" Ia menjawab, "Apakah itu?" Aku menjawab, "Ia mengatakan bahwa Rasulullah shallallahu 'alaihi wasallam telah mengharamkan perasan dalam bejana tembikar." [Ibnu Abbas] lantas berkata, "Ibnu Umar benar. Rasulullah shallallahu 'alaihi wasallam telah mengharamkan perasan dalam bejana tembikar." Aku lalu bertanya, "Al Jar itu apa?" Ibnu Abbas menjawab, "Sesuatu yang terbuat dari tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1997)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3691</td></tr><tr><td>Arabic No</td><td>3691</td></tr><tr><td>Reference</td><td>Book 27 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Са‘ида ибн Джубайра: «Я услышал, как ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал, что Посланник Аллаха ﷺ запретил набиз аль-джарр, и вышел, озабоченный его словами о том, что Посланник Аллаха ﷺ запретил набиз аль-джарр. Я зашёл к Ибн ‘Аббасу и спросил: “Разве ты не слышал, что говорит Ибн ‘Умар?” Он спросил: “А что он говорит?” Я ответил: “Он сказал, что Посланник Аллаха ﷺ запретил набиз аль-джарр”. Он сказал: “Он сказал правду. Посланник Аллаха ﷺ запретил набиз аль-джарр”. Я спросил: “Что такое аль-джарр?” Он ответил: “Все сосуды, которые изготавливают из глины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1997)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3691</td></tr><tr><td>Arabic No</td><td>3691</td></tr><tr><td>Reference</td><td>Book 27 Hadith 23</td></tr></tbody></table></div>
 

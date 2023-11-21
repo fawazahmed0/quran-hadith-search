@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Suhaib reported that Allah's Messenger (ﷺ) said:Strange are the ways of a beli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid Al Azdi] dan [Syaiban bin Farrukh] semuanya dari [Sulaiman bin Al Mughirah] dan teksnya meriwayatkan milik Syaiban, telah menceritakan kepada kami [Sulaiman] telah menceritakan kepada kami [Tsabit] dari [Abdurrahman bin Abu Laila] dari [Shuhaib] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "perkara orang mu'min mengagumkan, sesungguhnya semua perihalnya baik dan itu tidak dimiliki seorang pun selain orang mu'min, bila tertimpa kesenangan, ia bersyukur dan syukur itu baik baginya dan bila tertimpa musibah, ia bersabar dan sabar itu baik baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7500</td></tr><tr><td>Arabic No</td><td>2999</td></tr><tr><td>Reference</td><td>Book 55 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сухайб (ибн Синан), да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: „Сколь удивительно положение верующего! Поистине, всё в положении его является для него благом, и никому (не дано) этого, кроме верующего: если что-нибудь радует его, он благодарит (Аллаха), и это становится для него благом, если же его постигает горе, он проявляет терпение, и это (тоже) становится для него благом“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7500</td></tr><tr><td>Arabic No</td><td>2999</td></tr><tr><td>Reference</td><td>Book 55 Hadith 82</td></tr></tbody></table></div>
 

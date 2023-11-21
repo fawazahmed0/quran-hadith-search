@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that he met the Messenger of Allah (ﷺ) on one of the path
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>824</td></tr><tr><td>Arabic No</td><td>371</td></tr><tr><td>Reference</td><td>Book 3 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что как-то раз, находясь в состоянии большого осквернения, он встретил Пророка ﷺ на одной из улиц Медины. (Абу Хурайра) незаметно ушёл (оттуда, пошёл домой) и совершил полное омовение. Пророк ﷺ хватился его, а когда (Абу Хурайра) явился (к нему), спросил: «Где ты был, о Абу Хурайра?» Он сказал: «О Посланник Аллаха, когда ты встретил меня, я был в состоянии большого осквернения и не хотел находиться в твоём обществе, пока не совершу полного омовения». (Услышав это), Посланник Аллаха ﷺ воскликнул: «Преславен Аллах! /Субхана-Ллах/ Поистине, верующий не бывает нечистым!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>824</td></tr><tr><td>Arabic No</td><td>371</td></tr><tr><td>Reference</td><td>Book 3 Hadith 145</td></tr></tbody></table></div>
 

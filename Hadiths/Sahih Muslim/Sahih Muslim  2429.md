@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : Je marchais en compagnie du Prophèt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Ishaq bin Sulaiman Ar Razi] ia berkata, saya mendengar [Malik] -dalam jalur lain- Dan telah menceritakan kepadaku [Yunus bin Abdul A'la] -lafazh juga miliknya- telah mengabarkan kepada kami [Abdullah bin Wahb] telah menceritakan kepadaku [Malik bin Anas] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] ia berkata; Pada suatu ketika aku berjalan bersama-sama Rasulullah shallallahu 'alaihi wasallam. Saat itu, beliau memakai selendang buatan Najran yang tebal pinggirnya. Tiba-tiba seorang Arab badui mendapatkan beliau, lalu ditariknya selendang Nabi tersebut sekuat-kuatnya, sehingga kulihat selendang tersebut membekas di leher Rasulullah shallallahu 'alaihi wasallam karena kuatnya tarikan. Kemudian orang tersebut berkata, "Wahai Muhammad, perintahkanlah kepada bendahara Tuan agar memberikan harta yang ada dalam pengawasan Tuan kepadaku." Rasulullah shallallahu 'alaihi wasallam menoleh kepada orang itu sambil tertawa. Kemudian diperintahkanlah oleh beliau agar orang itu diberi sedekah. Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Abdush Shamad bin Abdul Warits] telah menceritakan kepada kami [Hammam] -dalam jalur lain- Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Umar bin Yunus] telah menceritakan kepada kami [Ikrimah bin Ammar] -dalam jalur lain- Dan telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Abul Mughirah] telah menceritakan kepada kami [Al Auza'i] semuanya dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini. Dalam hadits Ikrimah bin Ammar terdapat tambahan; "Kemudian laki-laki itu menarik dengan sekali tarikan hingga Rasulullah shallallahu 'alaihi wasallam tertarik ke arahnya." Dan dalam hadits Hammam; "Ia menarik selendang itu hingga sobek dan meninggalkan bekas pada leher Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2429</td></tr><tr><td>Arabic No</td><td>1057.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды, когда) я шёл (куда-то) вместе с Посланником Аллаха ﷺ, на котором был наджранский плащ с грубой оторочкой, его догнал какой-то бедуин и с силой потянул его (за край) плаща. Я взглянул на плечо Посланника Аллаха ﷺ (и увидел, что после этого) на нём остался след от подкладки так сильно он потянул его, (что же касается бедуина, то) он сказал: “О Мухаммад, вели (дать) мне что-нибудь из богатств Аллаха, которые у тебя есть!” (Услышав это, Пророк ﷺ) повернулся к нему и улыбнулся, а потом велел дать ему (что-то)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2429</td></tr><tr><td>Arabic No</td><td>1057.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 166</td></tr></tbody></table></div>
 

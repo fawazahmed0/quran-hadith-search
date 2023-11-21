@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I saw that whenever Allah's Messenger (ﷺ) stood f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] telah mengabarkan kepadaku [Salim bin 'Abdullah] dari ['Abdullah bin 'Umar] radliallahu 'anhuma berkata, "Aku melihat jika Rasulullah shallallahu 'alaihi wasallam berdiri shalat, beliau mengangkat kedua tangannya hingga sejajar dengan pundaknya. Beliau melakukan seperti itu ketika takbir untuk rukuk dan bangkit dari rukuk dengan mengangkat kepalanya sambil mengucapkan: 'SAMI'ALLAHU LIMAN HAMIDAH (Semoga Allah mendengar orang yang memuji-Nya) '. Namun beliau tidak melakukan seperti itu ketika akan sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>736</td></tr><tr><td>Arabic No</td><td>736</td></tr><tr><td>Reference</td><td>Book 10 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я видел, как когда Посланник Аллаха ﷺ становился на молитву, он поднимал руки, пока они не доходили до плеч. И делал то же самое, когда произносил такбир для поясного поклона, а также, когда поднимал голову из поясного поклона и говорил: “Да услышит Аллах того, кто воздал Ему хвалу!”, и не делал этого во время (совершения) земного поклона»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>736</td></tr><tr><td>Arabic No</td><td>736</td></tr><tr><td>Reference</td><td>Book 10 Hadith 130</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Adi ibn Hatim: The Prophet (ﷺ) said: Eat what ever is caught for you 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], Telah menceritakan kepada kami [Abdullah bin Numair], telah menceritakan kepada kami [Mujalid], dari [Asy Sya'bi], dari [Adi bin Hatim], bahwa Nabi shallallahu 'alaihi wasallam berkata: "Anjing atau rajawali yang engkau latih kemudian engkau lepaskan dan engkau sebutkan nama Allah, maka makanlah apa yang ia tangkap untukmu!" Aku katakan; apabila ia membunuh buruan? Beliau berkata: "Apabila ia membunuhnya dan tidak makan sedikitpun darinya, maka sesungguhnya ia menangkap untukmu." Abu Daud berkata; rajawali apabila maka maka tidak mengapa, dan anjing apabila makan maka tidak disukai, dan apabila minum darah maka tidak mengapa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 17 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ади ибн Хатима, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если ты послал обученную собаку или сокола, упомянув имя Аллаха, то можешь есть то, что они добудут для тебя». ‘Ади передаёт: «Я спросил: “Даже если они убьют дичь?” (Посланник Аллаха ﷺ) сказал: “Даже если они убьют дичь, ибо, если они при этом не будут есть её, это означает, что они схватили её для тебя”». Абу Дауд сказал, что если сокол клюёт добычу, то в этом нет ничего страшного. Но если собака ест добычу, это уже нежелательно. Если же она просто лижет кровь, то в этом также нет ничего страшного
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 17 Hadith 8</td></tr></tbody></table></div>
 

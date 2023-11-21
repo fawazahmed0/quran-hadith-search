@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn'Abbas reported on the authority of Maimuna that someone amongst the wives of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Utsman an-Naufali] telah menceritakan kepada kami [Abu 'Ashim] telah menceritakan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Amru bin Dinar] telah mengabarkan kepadaku ['Atha'] sejak dahulu, dia berkata, telah mengabarkan kepadaku [Ibnu Abbas] bahwa [Maimunah] telah mengabarkan kepadanya bahwa hewan ternak milik sebagian istri Rasulullah shallallahu 'alaihi wasallam meninggal, maka Rasulullah shallallahu 'alaihi wasallam bersabda, "Mengapa kalian tidak mengambil kulitnya, lalu kalian mengambil manfaatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>810</td></tr><tr><td>Arabic No</td><td>364</td></tr><tr><td>Reference</td><td>Book 3 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Маймуна рассказала о том, что у одной из жён Посланника Аллаха ﷺ была коза, которая умерла, и Посланник Аллаха ﷺ сказал: «Почему бы вам не взять её шкуру, и использовать её?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>810</td></tr><tr><td>Arabic No</td><td>364</td></tr><tr><td>Reference</td><td>Book 3 Hadith 131</td></tr></tbody></table></div>
 

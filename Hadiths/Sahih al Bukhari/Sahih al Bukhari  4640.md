@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Ad-Darda:There was a dispute between Abu Bakr and 'Umar, and Abu Ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah] Telah menceritakan kepada kami [Sulaiman bin 'Abdur Rahman] dan [Musa bin Harun] dia berkata; Telah menceritakan kepada kami [Al Walid bin Muslim] Telah menceritakan kepada kami ['Abdullah bin Al A'laa bin Zabr] dia berkata; Telah menceritakan kepadaku [Busr bin 'Ubaidillah] dia berkata; Telah menceritakan kepadaku [Abu Idris Al Khaulani] dia berkata; Aku mendengar [Abu Darda] berkata; Abu Bakr dan Umar pernah berdebat hingga Abu Bakr marah kepada Umar. Umar pun berpaling darinya dalam keadaan marah. Lalu Abu Bakr mengejarnya untuk meminta maaf. Namun Umar tidak memberi maaf hingga ia menutup pintu rumahnya dihadapan Abu Bakr. Abu Bakr kemudian menemui Rasulullah shallallahu 'alaihi wasallam. Abu Darda berkata; pada waktu itu aku berada disamping Rasulullah shallallahu 'alaihi wasallam. kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya temanmu ini telah berbuat baik lebih dahulu." Abu Darda berkata; maka Umar menyesal atas apa yang telah dia perbuat. Lalu ia datang dan mengucapkan salam serta duduk di samping Rasulullah shallallahu 'alaihi wasallam seraya menceritakan kepada Rasulullah shallallahu 'alaihi wasallam apa yang telah ia perbuat. Abu Darda berkata; Rasulullah shallallahu 'alaihi wasallam pun marah, hingga Abu Bakr berkata; 'Demi Allah ya Rasulullah, Akulah yang telah berbuat zhalim. Rasulullah shallallahu 'alaihi wasallam bersabda: 'Bukankah kalian pernah meninggalkan sahabatku untukku, Bukankah kalian pernah meninggalkan sahabatku untukku?. Sesungguhnya aku pernah berkata; Wahai sekalian manusia, sesungguhnya aku adalah utusan kepada kalian semua, lalu kalian katakan; 'Anda telah berdusta, namun Abu Bakr berkata; 'Anda benar.' Abu Abdullah berkata; Ghamara artinya; telah berbuat baik lebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 65 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ад-Дарда сказал: «Однажды между Абу Бакром и ‘Умаром произошёл спор. Абу Бакр разозлил ‘Умара, и тот ушёл от него разгневанным. Абу Бакр последовал за ним, прося его попросить прощения (у Аллаха) за него, но ‘Умар отказался сделать это и закрыл дверь перед лицом Абу Бакра. Затем Абу Бакр пришёл к Посланнику Аллаха ﷺ, а я в этот момент находился у него, и Посланник Аллаха ﷺ сказал: “Что касается вашего товарища, то он с кем-то спорил”. Тем временем ‘Умар пожалел о том, что сделал, он пришел, поприветствовал (присутствующих), сел рядом с Пророком ﷺ и рассказал ему о том, что произошло. Посланник Аллаха ﷺ разгневался, а Абу Бакр начал говорить: “О Посланник Аллаха! Я был более несправедлив (чем он)!” Но Посланник Аллаха ﷺ сказал: “Не прекратите ли вы обижать моего друга?! Не прекратите ли вы обижать моего друга?! Когда я сказал: “О люди! Поистине, Аллах послал меня ко всем вам”, вы сказали: “Ты лжёшь!”, — а Абу Бакр сказал: “Он говорит правду!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 65 Hadith 162</td></tr></tbody></table></div>
 

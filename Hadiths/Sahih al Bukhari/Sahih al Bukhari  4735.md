@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khabbab:I was a blacksmith and Al-Asi Bin Wail owed me a debt, so I wen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] dari [Al A'masy] dari [Abu Adl Dluha] dari [Masruq] dari [Khabbab] dia berkata; "Aku adalah seorang pandai besi yang bekerja untuk Al Ash bin Wa'il, ketika aku datang untuk menagih gajiku, dia berkata; "Tidak, demi Allah aku tidak akan membayarkannya sampai kamu mendustakan Muhammad." Khabab berkata; "Demi Allah, aku tidak akan mendustakan Muhammad shallallahu 'alaihi wasallam sampai kamu mati kemudian kamu dibangkitkan kembali." Al Ash bin Wa'il berkata; "Apabila aku mati dan dibangkitkan serta dapat kembali kepada harta dan anakku, maka baru aku akan membayarmu!" Khabbab berkata; maka turunlah ayat: 'Maka apakah kamu Telah melihat orang yang kafir kepada ayat-ayat kami dan ia mengatakan: "Pasti Aku akan diberi harta dan anak. Adakah ia melihat yang ghaib atau ia telah membuat perjanjian di sisi Tuhan Yang Maha Pemurah? sekali-kali tidak, Kami akan menulis apa yang ia katakan, dan benar-benar Kami akan memperpanjang azab untuknya, dan Kami akan mewarisi apa yang ia katakan itu, dan ia akan datang kepada Kami dengan seorang diri. (QS. Maryam:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 65 Hadith 257</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб, да будет доволен им Аллах, сказал: «Раньше я был кузнецом, аль-‘Ас ибн Ва‘иль задолжал мне, и (однажды) я пришёл к нему, чтобы потребовать возврата долга. Он сказал: “Я (ничего) не отдам тебе, пока ты не перестанешь верить в Мухаммада!” Я воскликнул: “Не перестану я верить в него до тех пор, пока ты не умрёшь, а затем будешь воскрешён!” Он сказал: “Значит, когда я буду воскрешён после того как умру, я вернусь к своему богатство и детям, и верну тебе (свой долг)!” — и после этого был ниспослан (аят, в котором говорится): “Видел ли ты того, кто не уверовал в Наши знамения и говорил: “Непременно будут дарованы мне богатство и дети”? Разве он узнал о сокрытом или получил обещание Милостивого? Нет! Мы запишем его слова и увеличим его мучения. Мы унаследуем от него то, о чем он говорил, и он явится к Нам в одиночестве”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 65 Hadith 257</td></tr></tbody></table></div>
 

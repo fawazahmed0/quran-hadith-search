@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Mu'awiyah] dari [Abdurrahman bin Jubair] dari [Ayahnya] dari ['Auf bin Malik] ia berkata, "Pada masa jahiliyah aku pernah melakukan penjampian, lalu aku berkata, "Wahai Rasulullah, bagaimana pendapat anda mengenai hal tersebut?" Beliau menjawab: "Perlihatkan jampi kalian kepadaku! Tidak mengapa dengan jampi selama bukan perbuatan syirik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2200)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3886</td></tr><tr><td>Arabic No</td><td>3886</td></tr><tr><td>Reference</td><td>Book 29 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ауфа ибн Малика, да будет доволен им Аллах: «Во времена невежества мы использовали заклинания. И мы спросили: “О Посланник Аллаха, что ты скажешь об этом?” Он сказал: “Ознакомьте меня с вашими заклинаниями. Нет ничего греховного в заклинании /рукъя/, если только оно не является придаванием Аллаху сотоварищей /ширк/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2200)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3886</td></tr><tr><td>Arabic No</td><td>3886</td></tr><tr><td>Reference</td><td>Book 29 Hadith 32</td></tr></tbody></table></div>
 

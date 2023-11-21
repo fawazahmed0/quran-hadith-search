@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira narrated it from the Messenger of Allah (ﷺ) that they (the poor am
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1348</td></tr><tr><td>Arabic No</td><td>595.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передал о том, что они сказали Посланнику Аллаха ﷺ: «О Посланник Аллаха, владеющие большими богатствами достигли (самого) высокого положения и (обеспечили себе) вечное блаженство!» (и он передал) такой же хадис, как (хадис) Къутайбы, передавшего от аль-Лейса, исключая то, что он ввёл в хадис от Абу Хурайры слова Абу Салиха: «А (после этого) бедняки из числа мухаджиров (снова) пришли» и до конца этого хадиса. И он привёл в этом хадисе дополнение: «Сухайль говорит: “Одиннадцать, одиннадцать и вместе всё это тридцать три”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1348</td></tr><tr><td>Arabic No</td><td>595.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 185</td></tr></tbody></table></div>
 

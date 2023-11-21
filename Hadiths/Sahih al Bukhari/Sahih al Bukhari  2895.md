@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Um Haram told me that the Prophet (ﷺ) one day took a m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu An Nu'man] telah bercerita kepada kami [Hammad bin Zaid] dari [Yahya] dari [Muhammad bin Yahya bin Hibban] dari [Anas bin Malik radliallahu 'anhu] berkata [Ummu Haram] telah bercerita kepadaku bahwa Nabi shallallahu 'alaihi wasallam pada suatu hari pernah berkata di rumahnya dimana Beliau terbangun lalu tertawa. Maka dia bertanya: "Wahai Rasulullah, apa yang membuat Tuan tertawa,?" Maka Beliau bersabda: "Aku kagum dengan sekelompok kaum dari umatku dimana mereka sebagai pasukan yang mengarungi lautan bagaikan raja-raja di atas singgasana". Maka aku berkata: "Wahai Rasulullah, berdo'alah kepada Allah agar Dia menjdikan aku termasuk dari mereka". Maka Beliau bersabda: "Kamu orang yang termasuk diantara mereka". Kemudian Beliau tertidur lalu bangun sambil tertawa. Dan Beliau berkata sebagaimana perkataan yang tadi sebanyak dua atau tiga kali. Akupun kembali berkata: "Berdo'alah kepada Allah agar Dia menjadikan aku termasuk dari mereka". Maka Beliau bersabda: "Kamu akan menjadi orang-orang yang pertama". Kemudian Ummu Haram dinikahi oleh 'Ubadah bin Ash-Shomit lalu di kemudian hari dia berangkat dalam suatu peperangan bersamanya. Ketika kembali ke daratan dia (Ummu Haram) mendekati hewan tunggangan untuk dikendarainya namun ia terjatuh dan hewan itu menginjak lehernya (hingga meninggal dunia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2895</td></tr><tr><td>Arabic No</td><td>2895</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Умм Харам рассказала мне, что однажды Пророк ﷺ заснул днём в её доме, а потом проснулся, смеясь, и она спросила: “Почему ты смеёшься, о Посланник Аллаха?” (В ответ ей Пророк ﷺ) сказал: “Я удивился (увидев во сне) как некоторые люди из (числа членов) моей общины сидели (посреди) моря как цари, сидят на тронах”. (Умм Харам) сказала: “О Посланник Аллаха, обратись к Аллаху с мольбой, чтобы Он причислил к ним и меня!” Пророк ﷺ ответил: “Ты будешь из их числа”. Затем он заснул и снова проснулся, смеясь, и сказал то же самое два или три раза. Затем она сказала: “О Посланник Аллаха! Обратись к Аллаху с мольбой, чтобы Он причислил к ним и меня!” И Посланник Аллаха ﷺ сказал: “Ты будешь из числа первых”». Анас сказал: «Позже на ней женился ‘Убада ибн ас-Самит, а затем он отправился вместе с ней в военной поход. Вернувшись же оттуда, к ней подвели верховое животное, чтобы она села на неё верхом, однако она упала с него, сломав шею»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2895</td></tr><tr><td>Arabic No</td><td>2895</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

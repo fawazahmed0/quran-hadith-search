@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Hani bint Abi Talib:I went to Allah's Messenger (ﷺ) in the year of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah bin Qa'nab] dari [Malik] dari [Abu An Nadlr] mantan budak 'Umar bin 'Ubaidullah, bahwa [Abu Murrah] mantan budak Ummu Hani' binti Abu Thalib, telah mengabarkan kepadanya, bahwa ia mendengar [Ummu Hani' binti Abu Thalib] berkata, "Aku pergi menemui Rasulullah shallallahu 'alaihi wasallam saat pembukaan Kota Makkah, lalu aku dapati beliau sedang mandi dan Fatimah menutupinya. Beliau lalu bertanya: "Siapa ini?" Aku menjawab, "Ummu Hani
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>280</td></tr><tr><td>Arabic No</td><td>280</td></tr><tr><td>Reference</td><td>Book 5 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Хàниъ бинт Абу Талиб, да будет доволен ею Аллах, сказала: «(Однажды) в год завоевания Мекки я отправилась к Посланнику Аллаха ﷺ (и вошла) к нему в то время, когда он совершал большое омовение, а Фатима прикрывала его. Он спросил: “Кто эта (женщина)?” − а я отозвалась: “Я, Умм Хàниъ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>280</td></tr><tr><td>Arabic No</td><td>280</td></tr><tr><td>Reference</td><td>Book 5 Hadith 32</td></tr></tbody></table></div>
 

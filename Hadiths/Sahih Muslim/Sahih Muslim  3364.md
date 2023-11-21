@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit rapporté d'après Sufyân Ibn 'Abî Zuhayr (que Dieu l'agrée) : L'Envoy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Hisyam bin Urwah] dari [bapaknya] dari [Abdullah bin Zubair] dari [Sufyan bin Abu Zuhair] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika negeri Syam ditaklukkan, berbondong-bondonglah penduduk Madinah datang ke sana dengan membawa keluarga mereka. Padahal Madinah lebih baik bagi mereka, sekiranya mereka tahu. Kemudian ditaklukkan pula negeri Yaman, maka berbondong-bondong pula penduduk Madinah datang ke sana membawa keluarga dan anak buah mereka. Padahal kota Madinah lebih baik bagi mereka sekiranya mereka tahu. Kemudian ditaklukkan pula negeri Iraq, lalu berbondong-bondong pulalah orang yang datang ke sana membawa keluarga mereka. Padahal Madinah lebih baik bagi mereka sekiranya mereka mengerti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3364</td></tr><tr><td>Arabic No</td><td>1388.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 568</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3364</td></tr><tr><td>Arabic No</td><td>1388.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 568</td></tr></tbody></table></div>
 

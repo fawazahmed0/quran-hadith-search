@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported that Allah's Messenger (may peace
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] ia berkata, saya telah membacakan kepada [Malik] dari [Nafi'] dari [Ibnu Umar] bahwasanya; Rasulullah shallallahu 'alaihi wasallam masuk ke Ka'bah bersama-sama dengan Usamah, Bilal, dan Usamah bin Thalhah Al Hajabi, lalu dikuncinya pintu dan mereka ditinggal di dalam beberapa lama. Ibnu Umar berkata; Aku bertanya kepada [Bilal] ketika ia keluar, "Apa yang diperbuat Rasulullah shallallahu 'alaihi wasallam di dalam?" Bilal menjawab, "Beliau berdiri shalat antara dua tiang, yang satunya sebelah kiri dan yang satunya lagi sebelah kanan serta tiga tiang berada di belakangnya. Ketika itu Baitullah mempunyai enam tiang, lalu beliau shalat di situ
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3230</td></tr><tr><td>Arabic No</td><td>1329.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 434</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3230</td></tr><tr><td>Arabic No</td><td>1329.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 434</td></tr></tbody></table></div>
 

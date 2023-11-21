@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) delivered a sermon and said, "Za
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ya'qub bin Ibrahim] telah bercerita kepada kami [Ibnu 'Ulayyah] dari [Ayyub] dari [Humaid bin Hilal] dari [Anas bin Malik radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam memberikan khathbah, Beliau berkata: "Zaid akan memegang bendera perang lalu dia gugur kemudian bendera itu dipegang oleh Ja'far lalu dia pun gugur kemudian bendera itu dipegang oleh 'Abdullah bin Rawahah namun diapun gugur pula. Akhirnya bendera itu diambil oleh Khalid bin Al Walid padahal sebelumnya dia tidak ditunjuk. Maka lewat dialah kemenangan dapat diraih". Dan Anas berkata: "Kejadian itu menggembirakan kami seolah mereka ada bersama kami". Atau dia berkata: "Kejadian itu (karamah para syuhada') tidaklah menjadikan mereka ingin untuk kembali bersama kami (di dunia kecuali bila mati syahid kembali untuk kedua kali) ". Dia berkata; "Dan kedua mata beliau menitikkan air mata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3063</td></tr><tr><td>Arabic No</td><td>3063</td></tr><tr><td>Reference</td><td>Book 56 Hadith 268</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ обратился к людям сказав: “Зейд взял знамя и был сражён, потом взял его Джа‘фар и был сражён, а потом взял его ‘Абдуллах ибн Раваха и (тоже) был сражён. А затем взял его Халид ибн аль-Валид, не являвшийся командиром, и ему была дарована победа”. Затем Пророк ﷺ сказал: “И мы не хотели бы, чтобы они были с нами”. (Передатчик хадиса сказал:) или он сказал: “Они не хотели бы быть сейчас с нами”. И когда Пророк ﷺ говорил это, глаза его были полны слёз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3063</td></tr><tr><td>Arabic No</td><td>3063</td></tr><tr><td>Reference</td><td>Book 56 Hadith 268</td></tr></tbody></table></div>
 

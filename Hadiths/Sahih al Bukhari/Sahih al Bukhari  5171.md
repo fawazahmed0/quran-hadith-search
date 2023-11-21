@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit:The marriage of Zainab bint Jahash was mentioned in the presence
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] ia berkata; Suatu ketika, pernah disebutkan mengenai perkawinan Zainab binti Jahsyi di hadapan [Anas], maka ia pun berkata, "Aku belum pernah melihat Rasulullah shallallahu 'alaihi wasallam mengadakan walimah terhadap seorang pun dari para isteri-isterinya sebagaimana walimah yang beliau adakan terhadapnya. Saat itu, beliau mengadakan walimah dengan seekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5171</td></tr><tr><td>Arabic No</td><td>5171</td></tr><tr><td>Reference</td><td>Book 67 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сабита, что в присутствии Анаса упомянули о том, как выходила замуж (за Пророка ﷺ) Зейнаб бинт Джахш, и он сказал: “Я никогда не видел, чтобы Пророк ﷺ устроил по случаю бракосочетания с любой другой из своих жён такое же угощение, какое устроил он по случаю женитьбы на ней. Он приготовил угощение из одной овцы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5171</td></tr><tr><td>Arabic No</td><td>5171</td></tr><tr><td>Reference</td><td>Book 67 Hadith 106</td></tr></tbody></table></div>
 

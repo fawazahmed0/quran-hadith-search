@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: When we would pray behind the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abu Ahmad Az-Zubairi] telah menceritakan kepada kami [Mis'ar] dari [Tsabit bin Ubaid] dari [Ubaid bin Al Barra'] dari [Al-Bara' bin 'Azib] dia berkata; Kami apabila mengerjakan shalat di belakang Rasulullah shallallahu 'alaihi wasallam, kami suka berada di sebelah kanan beliau, karena beliau menghadap kepada kami dengan wajahnya shallallahu 'alaihi wasallam (setelah salam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (709)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>615</td></tr><tr><td>Reference</td><td>Book 2 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ ибн ‘Азиб сказал: «Когда мы молились позади Посланника Аллаха ﷺ то любили становиться справа от него, и (после окончания молитвы) он ﷺ поворачивался к нам лицом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (709)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>615</td></tr><tr><td>Reference</td><td>Book 2 Hadith 225</td></tr></tbody></table></div>
 

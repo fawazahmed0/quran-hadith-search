@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Al-Fadl (رضي الله عنها) a dit : "Quelques compagnons du Prophète
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] bahwa [Abu Nadlr] telah menceritakan kepadanya bahwa [Umair Maula Ibnu Abbas] radliallahu 'anhuma telah menceritakan kepadanya bahwa [Ummul Fadl] radliallahu 'anhuma berkata; "Para sahabat merasa ragu apakah Rasulullah shallallahu 'alaihi wasallam berpuasa di hari Arafah. Sementara saat itu kami berada di sana bersama Rasulullah shallallahu 'alaihi wasallam, maka aku mengirimkan segelas susu pada beliau dan beliau pun meminumnya, padahal beliau saat itu berada di Arafah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2635</td></tr><tr><td>Arabic No</td><td>1123.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2635</td></tr><tr><td>Arabic No</td><td>1123.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 141</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubayy b. Ka'b reported that Allah's Messenger (ﷺ) said:The young man whom Khad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6767</td></tr><tr><td>Arabic No</td><td>2662.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что мать правоверных ‘Аиша сказала: «(Однажды), когда скончался какой-то мальчик, я сказала: “Ему уготована Туба. Один из райских воробушков!” Тогда Посланник Аллаха ﷺ сказал: “Разве ты не знаешь, что Аллах создал Рай и Ад, а потом создал обитателей и для одного, и для другого?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6767</td></tr><tr><td>Arabic No</td><td>2662.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 45</td></tr></tbody></table></div>
 

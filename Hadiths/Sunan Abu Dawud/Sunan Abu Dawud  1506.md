@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Zubair said:"I heard 'Abd Allah b. al-Zubair saying on the pulpit: When the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Isa], ia berkata; telah menceritakan kepada Kami [Ibnu 'Ulayyah] dari [Al Hajjaj bin Abu 'Utsman] dari [Abu Az Zubair], ia berkata; saya mendengar [Abdullah bin Az Zubair] di atas mimbar berkata; Nabi shallallahu 'alaihi wasallam apabila selesai dari shalat mengucapkan: "LAA ILAAHA ILLALLAAHU WAHDAHU LAA SYARIIKALAHU, LAHUL MULKU WA LAHUL HAMDU WA HUWA 'ALAA KULLI SYAI-IN QADIIR, LAA ILAAHA ILLALLAAHU MUKHLISHIINA LAHUD DIIN, WALAU KARIHAL KAAFIRUUN, AHLUN NI'MATI WAL FADHLI WATS TSANAAIL HASAN, LAA ILAAHA ILLALLAAHU MUKHLISHIINA LAHUD DIIN WALAU KARIHAL KAAFIRUUN." (Tidak ada tuhan yang berhak disembah kecuali Allah semata, tidak ada sekutu bagiNya, milikNya seluruh kerajaan, dan bagi-Nya segala puji dan Dia Maha Mampu melakukan segala sesuatu, tidak ada tuhan yang berhak disembah kecuali Allah, Kami memurnikan ketundukan kepadaNya, walaupun orang-orang kafir merasa tidak senang. Dialah Yang Pemilik segala kenikmatan, karunia serta pujian yang baik. Tidak ada tuhan yang berhak disembah kecuali Allah, Kami memurnikan ketundukan kepadaNya walaupun orang-orang kafir merasa tidak senang). Telah menceritakan kepada Kami [Muhammad bin Sulaiman Al Anbari], telah menceritakan kepada Kami ['Abdah] dari [Hisyam bin 'Urwah] dari [Abu Az Zubair], ia berkata; [Abdullah bin Az Zubair] bertahlil setiap selesai shalat, kemudian menyebutkan doa seperti ini dan ia menambahkan; LAA HAULA WA LAA QUWWATA ILLAA BILLAAH, LAA ILAAHA ILLALLAAHU, LAA NA'BUDU ILLAA IYYAAHU, LAHUN NI'MATU (tidak ada daya dan kekuatan kecuali karena Allah, tidak ada tuhan yang berhak disembah kecuali Allah, Kami tidak menyembah kecuali hanya kepadaNya, bagiNya segala kenikmatan), dan ia menyebutkan kelanjutan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (594)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1506</td></tr><tr><td>Arabic No</td><td>1506</td></tr><tr><td>Reference</td><td>Book 8 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн аз-Зубайр, да будет доволен Аллах им и его отцом, стоя на минбаре, сказал, что обычно, завершив молитву, Пророк ﷺ произносил такие слова: «Нет божества, кроме одного лишь Аллаха, у Которого нет сотоварища, Ему принадлежит владычество, и Ему хвала, и Он всё может! Нет бога [заслуживающего поклонение], кроме Аллаха, а мы посвящаем религию Ему одному, даже если это и ненавистно неверующим! Ему принадлежат милость и благоволение, и Ему прекрасная похвала. Нет бога [заслуживающего поклонение], кроме Аллаха, а мы посвящаем религию Ему одному, даже если это и ненавистно неверующим! /Ля иляха илля-Ллаху вахда-ху ля шарика ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамду ва хува ‘аля кулли шаййин кадирун! Ля иляха илля-Ллаху, мухлисына ля-ху-д-дина ва ляу кариха-ль-кафируна! Ля-ху-н-ни‘мату, ва ля-ху-ль-фадлю ва ля-ху-с-санау-ль-хасану. Ля иляха илля-Ллаху, мухлисына ля-ху-д-дина ва ляу кариха-ль-кафируна/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (594)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1506</td></tr><tr><td>Arabic No</td><td>1506</td></tr><tr><td>Reference</td><td>Book 8 Hadith 91</td></tr></tbody></table></div>
 

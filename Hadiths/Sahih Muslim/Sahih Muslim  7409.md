@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha (que Dieu soit satisfait d'elle) a dit : Quand les bédouins venaient tro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata: Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [ayahnya] dari [Aisyah] berkata: Orang-orang badui apabila mendatangi Rasulullah Shallallahu 'alaihi wa Salam, mereka bertanya mengenai hari kiamat: Kapan akan terjadi? Beliau melihat kepada orang paling muda di antara mereka dan bersabda: "Apabila orang ini masih hidup dan ia belum tua, berarti kiamat kalian telah terjadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7409</td></tr><tr><td>Arabic No</td><td>2952</td></tr><tr><td>Reference</td><td>Book 54 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша (да будет доволен ею Аллах) сказала: «Когда к Посланнику Аллаха ﷺ приходили бедуины, они всё время спрашивали его о Часе: “Когда наступит Час этот?” И (однажды) он, взглянув на самого молодого человека из них, сказал: “Если этот будет жить (достаточно долго), то возможно, что Час ваш наступит раньше, чем он одряхлеет!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7409</td></tr><tr><td>Arabic No</td><td>2952</td></tr><tr><td>Reference</td><td>Book 54 Hadith 170</td></tr></tbody></table></div>
 

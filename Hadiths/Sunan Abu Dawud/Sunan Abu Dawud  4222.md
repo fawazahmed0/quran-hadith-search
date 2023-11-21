@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet of Allah (ﷺ) disliked ten things: Ye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Al Mu'tamir] ia berkata; Aku mendengar [Ar Rukain bin Ar Rabi'] ia menceritakan dari [Al Qasim bin Hassan] dari ['Abdurrahman bin Harmalah] bahwa [Ibnu Mas'ud] berkata, "Rasulullah shallallahu 'alaihi wasallam membenci sepuluh hal; warna kuning -Za'faran-, mengecat uban (dengan warna hitam), memanjangkan sarung, memakai cincin emas, memakai perhiasan bukan pada tempatnya, dadu, jampi-jampi selain dengan Al Mu'awwidzat, menggantungkan jimat dan meng'azl air mani bukan pada tempatnya serta menyetubuhi wanita yang menyusui balita lalu hamil hingga membuat balita kering dari susu ibunya (karena hamil), dan beliau tidak mengharamkannya (hanya membencinya)." Abu Dawud berkata, "Penduduk Bashrah meriwayatkan hadits ini secara sendirian (tidak ada yang meriwayatkan selain mereka)." Wallahu a'lam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4222</td></tr><tr><td>Arabic No</td><td>4222</td></tr><tr><td>Reference</td><td>Book 36 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Мас‘уд, да будет доволен им Аллах, передаёт: «Пророк Аллаха ﷺ не любил десять вещей: благовония, изготовленные из шафрана, а именно халюк изменение седины, волочащийся изар, ношение золотых перстней (мужчинами), выставление женщинами себя напоказ перед теми, кому запрещено смотреть на них, бросание костей (во время игры в нарды), рукъю посредством чтения чего-либо, кроме защитных сур (и дуа), ношение талисманов, извержение семени вне лона женщины и половое сношение, из-за которого кормящая грудью женщина беременеет до окончания срока кормления, в результате чего у неё портится молоко и от этого страдает вскармливаемый ребёнок. Однако он не объявлял это запретным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4222</td></tr><tr><td>Arabic No</td><td>4222</td></tr><tr><td>Reference</td><td>Book 36 Hadith 9</td></tr></tbody></table></div>
 

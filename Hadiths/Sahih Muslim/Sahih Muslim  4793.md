@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Nafi, that 'Abdullah b. Umar paid a vis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami ['Ashim] -yaitu Ibnu Muhammad bin Zaid- dari [Zaid bin Muhammad] dari [Nafi'] dia berkata, " [Abdullah bin Umar] pernah datang kepada Abdullah bin Muthi' ketika ia menjabat sebagai penguasa negeri Harrah di zaman kekhalifahan Yazid bin Mu'awiyah. Abdullah bin Muthi' berkata, "Berilah Abu Abdurrahman bantal." Maka Abu Abdurrahman berkata, "Saya datang kepadamu tidak untuk duduk, saya datang kepadamu untuk menceritakan kepadamu suatu hadits yang pernah saya dengar dari Rasulullah shallallahu 'alaihi wasallam. Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa melepas tangannya dari ketaatan, maka ia akan menemui Allah di hari Kiamat dalam keadaan tidak memiliki hujjah, danbarang siapa mati dalam keadaan tidak berbaiat, maka ia mati seperti mati jahiliyyah." Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Yahya bin Abdullah bin Bukair] telah menceritakan kepada kami [Laits] dari Rasulullah ['Ubaidullah bin Abu Ja'far] dari [Bukair bin Abdullah bin Al Asyaj] dari [Nafi'] dari [Ibnu Umar], bahwa dia mendatangi Ibnu Muthi' lalu menyebutkan dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas." Dan telah menceritakan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [Ibnu Mahdi]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin 'Amru bin Jabalah] telah menceritakan kepada kami [Bisyr bin Umar] semuanya berkata; telah menceritakan kepada kami [Hisyam bin Sa'd] dari [Zaid bin Aslam] dari [ayahnya] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam semakna dengan hadits Nafi' dari Ibnu Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4793</td></tr><tr><td>Arabic No</td><td>1851.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4793</td></tr><tr><td>Arabic No</td><td>1851.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 90</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:During the days (of the battle) of Al-Jamal, Allah benefited 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Haitsam] Telah menceritakan kepada kami [Auf] dari [Al Hasan] dari [Abu Bakrah] dia berkata; Sungguh Allah telah memberikan manfaat kepadaku dengan suatu kalimat yang pernah aku dengar dari Rasulullah, -yaitu pada waktu perang Jamal tatkala aku hampir bergabung dengan para penunggang unta lalu aku ingin berperang bersama mereka.- Dia berkata; 'Tatkala sampai kepada Rasulullah shallallahu 'alaihi wasallam, bahwa penduduk Persia telah di pimpin oleh seorang anak perempuan putri raja Kisra, beliau bersabda: "Suatu kaum tidak akan beruntung, jika dipimpin oleh seorang wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4425</td></tr><tr><td>Arabic No</td><td>4425</td></tr><tr><td>Reference</td><td>Book 64 Hadith 447</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, сказал:«Аллах сделал так, что слова, которые я слышал от Посланника Аллаха ﷺ, пошли мне на пользу в дни (, предшествовавшие) верблюжьей битве, после того как я чуть было не присоединился к объединившимся вокруг верблюда и не стал сражаться вместе с ними. (Дело в том, что,) когда Посланнику Аллаха ﷺ стало известно, что персы вручили власть над собой дочери хосроя, он сказал: “Никогда не преуспеют люди, вручившие власть над собой женщине”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4425</td></tr><tr><td>Arabic No</td><td>4425</td></tr><tr><td>Reference</td><td>Book 64 Hadith 447</td></tr></tbody></table></div>
 

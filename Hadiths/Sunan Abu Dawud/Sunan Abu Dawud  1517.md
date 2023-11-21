@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd, the client of the Prophet: The Prophet (ﷺ) said: If anyone says
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1517</td></tr><tr><td>Arabic No</td><td>1517</td></tr><tr><td>Reference</td><td>Book 8 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Биляля ибн Ясара ибн Зейда, Зейд был вольноотпущенником Пророка ﷺ: «Я слышал, как отец пересказывал мне со слов моего деда, что он слышал, как Посланник Аллаха ﷺ сказал, что тому, кто скажет: “Прошу прощения у Аллаха, помимо Которого нет божества, Живого, Вседержителя, и приношу Ему своё покаяние /Астагфиру-Ллаха-ллязи ля иляха илля хува-ль-Хаййа-ль-Каййума ва атубу иляй-хи/”, простятся его грехи, даже если он бежал с поля боя во время наступления»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1517</td></tr><tr><td>Arabic No</td><td>1517</td></tr><tr><td>Reference</td><td>Book 8 Hadith 102</td></tr></tbody></table></div>
 

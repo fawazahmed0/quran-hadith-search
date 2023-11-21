@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Miswar b. Makhramah: 'Umar consulted the people about the compensati
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Harun bin Abbad Al Azdi] secara makna, keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Hisyam] dari [Urwah] dari [Al Miswar bin Makhramah] berkata, "Umar bermusyawah dengan orang-orang tentang hukum penguguran janin dalam perut wanita. Maka [Al Mughirah bin Syu'bah] berkata, "Aku melihat Rasulullah shallallahu 'alaihi wasallam memberi putusan dalam hal itu dengan membebaskan seorang budak; laki-laki atau perempuan." Umar berkata, "Datangkanlah kepadaku saksi yang pernah ikut bersamamu." Maka Al Mughirah menghadirkan [Muhammad bin Maslamah]." [Harun] menambahkan, "Lalu ia memberikan bukti dengan kisah seorang laki-laki yang memukul perut isterinya." Abu Dawud berkata, "Telah sampai kepadaku dari Abu Ubaid bahwa dinamakan penguguran karena seorang wanita melahirkan (menjatuhkan dengan paksa) sebelum waktu kelahirannya.", Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Wuhaib] dari [Hisyam] dari [Bapaknya] dari [Al Mughirah] dari Umar secara makna. Abu Dawud berkata, " [Hammad bin Zaid] dan [Hammad bin Salamah] meriwayatkannya dari [Hisyam bin Urwah], dari [bapaknya], bahwa Umar berkata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1683)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4570</td></tr><tr><td>Arabic No</td><td>4570</td></tr><tr><td>Reference</td><td>Book 41 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Мисвара ибн Махрамы, что ‘Умар, да будет доволен им Аллах, посоветовался с людьми относительно того случая, когда по вине какого-то человека у женщины происходит выкидыш. Аль-Мугира ибн Шу‘ба сказал, что в его присутствии Посланник Аллаха ﷺ постановил выплачивать в подобных случаях компенсацию раба или рабыню. ‘Умар, да будет доволен им Аллах, сказал: «Приведи мне того, кто засвидетельствует в твою пользу». Тогда он привёл Мухаммада ибн Масляму. А в версии Харуна имеется добавление: «и тот засвидетельствовал в его пользу». Речь идёт о том случае, когда мужчина ударил жену по животу, и это стало причиной выкидыша
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1683)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4570</td></tr><tr><td>Arabic No</td><td>4570</td></tr><tr><td>Reference</td><td>Book 41 Hadith 77</td></tr></tbody></table></div>
 

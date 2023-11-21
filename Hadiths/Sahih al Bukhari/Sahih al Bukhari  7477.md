@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "None of you should say: 'O Allah! 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7477</td></tr><tr><td>Arabic No</td><td>7477</td></tr><tr><td>Reference</td><td>Book 97 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Пусть никто из вас не говорит: “О Аллах, прости меня если пожелаешь”, “Помилуй меня, если пожелаешь”, “Даруй мне средства к существованию, если пожелаешь”. Пусть он проявляет решительность в просьбе своей, ибо Аллах делает что пожелает, и Его никто не может ни к чему принудить»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7477</td></tr><tr><td>Arabic No</td><td>7477</td></tr><tr><td>Reference</td><td>Book 97 Hadith 103</td></tr></tbody></table></div>
 

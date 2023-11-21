@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with him) reported:I went out with Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab yaitu Ibnu Abdil Majid Ats Tsaqafi] telah menceritakan kepada kami [Ubaidullah] dari [Wahb bin Kaisan] dari [Jabir bin Abdullah] dia berkata; Saya pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu peperangan, saya menaiki untaku yang jalannya sangat lamban, lalu Rasulullah shallallahu 'alaihi wasallam mendatangiku, dan memanggilku: "Wahai Jabir?" Saya menjawab; "Ya." beliau melanjutkan: "Kenapa denganmu?" Saya menjawab; "Untaku sangat lamban jalannya hingga saya ketinggalan." Kemudian beliau turun dan memukul unta tersebut dengan tongkatnya, kemudian beliau bersabda: "Naiklah." Lalu saya menaikinya -sungguh saya ingat, ketika itu saya menahan unta tersebut jangan sampai ia mendahului Rasulullah shallallahu 'alaihi wasallam-, lalu beliau bertanya: "Apakah kamu sudah menikah?" Jawabku; "Ya, sudah." Beliau bersabda: "Apakah seorang gadis ataukah janda yang kamu nikahi?" Saya menjawab; "Seorang janda." Beliau bersabda: "Kenapa tidak yang masih gadis saja yang kamu nikahi, sehingga kamu bisa bercumbu rayu dengannya dan dia bisa mencumbumu?" Saya menjawab; "Sesungguhnya saya memiliki beberap saudara perempuan, dan saya ingin menikahi seorang wanita yang dapat memelihara mereka, menyisiri rambut mereka dan mengurus perkara mereka." Beliau bersabda: "Sesungguhnya kamu akan sampai, apabila kamu tiba maka berikanlah kesempatan istri agar berdandan!" Kemudian beliau bersabda: "Apakah kamu akan menjual untamu?" Saya menjawab; "Ya." Lantas beliau membelinya dariku dengan satu 'uqiyah. Saya tiba di Madinah di pagi hari setelah beliau tiba lebih dulu, saya mendatangi masjid, ternyata beliau sudah berada di pintu Masjid, beliau bersabda: "Apakah kamu baru sampai." Saya menjawab; "Ya." beliau bersabda: "Tinggalkanlah untamu dan masuklah ke dalam masjid untuk shalat dua raka'at." Jabir berkata; "Lalu saya masuk masjid untuk mengerjakan shalat sunnah dua raka'at. Setelah itu saya kembali kepada beliau, lalu beliau menyuruh Bilal untuk menakar uang 'Uqiyah buatku, maka Bilal menakarnya dan melibihkan dalam takarannya." Jabir berkata; "Tatkala saya telah beranjak pergi, beliau memanggil: "Panggilkan Jabir kepadaku." Lalu saya dipanggil, saya berkata; "Ternyata sekarang unta tersebut justru akan beliau kembali lagi kepadaku, padahal tidak ada sesuatu yang menjengkelkanku selain unta itu." Beliau bersabda: "Ambillah untamu dan harganya juga untukmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3641</td></tr><tr><td>Arabic No</td><td>715.09</td></tr><tr><td>Reference</td><td>Book 17 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3641</td></tr><tr><td>Arabic No</td><td>715.09</td></tr><tr><td>Reference</td><td>Book 17 Hadith 74</td></tr></tbody></table></div>
 

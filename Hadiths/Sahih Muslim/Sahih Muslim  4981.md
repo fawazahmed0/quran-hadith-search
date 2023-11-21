@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Tha'laba (que Dieu soit satisfait lui), le Prophète (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Walid bin Syuja' As Sakuni] telah menceritakan kepada kami [Ali bin Mushir] dari ['Ashim] dari [As Sya'bi] dari ['Adi bin Hatim] dia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah bersabda kepadaku: "Apabila kamu melepaskan anjing buruan maka sebutlah nama Allah, jika ia mendapatkan hewan buruan yang masih hidup maka sembelihlah dia, jika ia mendapatkan hewan buruan telah mati, sedangkan ia tidak memakannya, maka makanlah hewan buruan tersebut. Namun jika ternyata ia bersama dengan anjing yang lain, dan membawa hewan buruan yang telah mati, maka janganlah kamu memakannya, sebab kamu tidak mengetahui manakah di antara keduanya yang membunuh hewan buruan itu. Apabila kamu melempar anak panahmu, maka sebutlah nama Allah, jika kamu mendapatkan bekas tusukan anak panahmu (pada hewan buruan), jika kamu mau makanlah ia, namun jika kamu dapati hewan buruan tersebut mati tenggelam, maka janganlah kamu memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4981</td></tr><tr><td>Arabic No</td><td>1929.10</td></tr><tr><td>Reference</td><td>Book 34 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4981</td></tr><tr><td>Arabic No</td><td>1929.10</td></tr><tr><td>Reference</td><td>Book 34 Hadith 10</td></tr></tbody></table></div>
 

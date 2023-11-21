@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama:Once while I was with the Prophet (ﷺ) and Sa'd, Ubai bin Ka'b a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kami [Israil] dari ['Ashim] dari [Abu Utsman] dari [Usamah] menuturkan; kami pernah di dekat Nabi shallallahu 'alaihi wasallam, tiba-tiba salah seorang utusan puteri beliau mendatanginya, ketika itu beliau tengah bersama Sa'd, Ubay bin Ka'b dan Mu'adz, utusan itu mengabarkan bahwa anak dari puteri beliau telah meninggal. Nabi kemudian mengutus seorang utusan dan menyampaikan pesan dengan kalimat; "milik Allah yang diambil-Nya, dan milik Allah yang diberikan-Nya, kesemuanya telah ditakdirkan ajalnya, maka hendaklah engkau bersabar dan mengharap memperoleh pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6602</td></tr><tr><td>Arabic No</td><td>6602</td></tr><tr><td>Reference</td><td>Book 82 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Усама (ибн Зейд), да будет доволен Аллах им и его отцом, сказал: «(Как-то раз) я находился у Пророка ﷺ и к нему пришёл посланец одной из его дочерей, чтобы сообщить о том, что её сын находится при смерти. И в тот момент рядом с Пророком ﷺ находились Са‘д, Убайй ибн Ка‘б и Му‘аз ибн Джабаль. Однако Пророк ﷺ отослал (этого человека обратно,) к ней, сказав: “Аллаху принадлежит то, что Он забрал, и Аллаху принадлежит то, что Он даровал, и для всего определён свой срок, так вели ей проявлять терпение и надеяться на награду Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6602</td></tr><tr><td>Arabic No</td><td>6602</td></tr><tr><td>Reference</td><td>Book 82 Hadith 8</td></tr></tbody></table></div>
 

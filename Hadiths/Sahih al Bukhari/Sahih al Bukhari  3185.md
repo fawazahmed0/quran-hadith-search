@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:While the Prophet (ﷺ) was in the state of prostration, surr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdan bin 'Utsman] berkata telah mengabarkan kepadaku [bapakku] dari [Syu'bah] dari [Abu Ishaq] dari ['Amru bin Maimun] dari ['Abdullah radliallahu 'anhu] berkata; "Ketika Rasulullah shallallahu 'alaihi wasallam sedang sujud di sekeliling Beliau, ada orang-orang Musyrikin Quraisy lalu datang 'Uqbah bin Mu'ayth datang dengan membawa jeroan (isi perut) hewan sembelihan lalu meletakkannya pada punggung Nabi shallallahu 'alaihi wasallam dan Beliau tidak mengangkat kepala Beliau hingga akhirnya datang Fathimah Alaihissalam membuangnya dari punggung Beliau dan berseru memanggil orang yang telah melakukan perbuatan itu. Kemudian Beliau berdo'a: "ALLOOHUMMA 'ALAIKA ABA JAHL BIN HISYAM, WA'UTBAH BIN RABI'AH, WASYAIBAH BIN RABI'AH, WA'UQBAH BIN ABI MU'ITH, WA UMAYYAH BIN KHALAF, Ya Allah, aku serahkan (urusan) para pembesar Quraisy kepadaMu. Ya Allah aku serahkan (urusan) Abu Jahal bin Hisyam, 'Utbah bin Rabi'ah, Syaibah bin Rabi'ah, 'Uqbah bin Abu Mu'aith, Umayyah bin Khalaf atau Ubay bin Khalaf kepadaMu". Dan sungguh aku melihat mereka terbantai dalam perang Badar. Lalu mereka dilempar di sumur kecuali Umayyah atau Ubay karena dia adalah seorang yang berbadan besar dan ketika para shahabat hendak menyeretnya, anggota badannya terputus-putus sebelum dilempar kedalam sumur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3185</td></tr><tr><td>Arabic No</td><td>3185</td></tr><tr><td>Reference</td><td>Book 58 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «(Однажды, когда) Пророк ﷺ находился в земном поклоне, а недалеко от него сидели многобожники из числа курайшитов, ‘Укъба ибн Аби Му‘айт принёс внутренности верблюда и положил их на спину Пророка ﷺ. Не успел он поднять голову, как пришла Фатыма, мир ей, убрала их с его спины и обратилась к Аллаху против тех, кто совершил это. Пророк ﷺ сказал: “О Аллах, покарай курайшитскую знать! О Аллах, покарай Абу Джахля ибн Хишама, и ‘Утбу ибн Раби‘а, и Шейбу ибн Раби‘а, и ‘Укъбу ибн Аби Му‘айта, и Умаййу ибн Халяфа, и Убаййя ибн Халяфа!”».\n(‘Абдуллах) сказал: «Я видел их всех убитыми в день битвы при Бадре, и их тела были брошены в колодец, за исключением тела Умаййи ибн Убаййя, потому что он был крупным человеком, и когда его потащили (к колодцу), части его тела отделились, прежде чем его бросили в колодец»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3185</td></tr><tr><td>Arabic No</td><td>3185</td></tr><tr><td>Reference</td><td>Book 58 Hadith 27</td></tr></tbody></table></div>
 

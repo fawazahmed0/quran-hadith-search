@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "My example and the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah memberitakan kepada kami [Syu'aib] telah memberitakan kepada kami [Abu Az Zanad] dari [Abdurrahman] bahwasanya ia menceritakan kepadanya, ia mendengar [Abu Hurairah] radliallahu 'anhu mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaan diriku dan perumpaman manusia yang kuda'wahi adalah bagaikan seseorang yang menyalakan api (lampu), dikala api itu menyinari sekelilingnya, menjadikan serangga-serangga dan hewan menuju api itu, kemudian orang tersebut menarik serangga-serangga tetapi mereka menuju kepadanya dan terjerumuskan dalam api, maka akulah yang menarik ikat pinggang kalian dari api, ketika mereka terjerumus didalamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6483</td></tr><tr><td>Arabic No</td><td>6483</td></tr><tr><td>Reference</td><td>Book 81 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что он слышал, как Посланник Аллаха ﷺ говорил: «Подобие меня и людей — это человек, который развёл огонь, и когда он (огонь) озарил то, что было вокруг него, мотыльки и другие насекомые начали бросаться в огонь. Человек пытался (изо всех сил) помешать им (попасть в огонь), но они одолели его и бросились в огонь. Я же оттаскиваю вас за ваши пояса от огня, но они все равно бросаются в него (огонь)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6483</td></tr><tr><td>Arabic No</td><td>6483</td></tr><tr><td>Reference</td><td>Book 81 Hadith 72</td></tr></tbody></table></div>
 

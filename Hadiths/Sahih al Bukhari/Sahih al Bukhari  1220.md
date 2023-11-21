@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:It was forbidden to pray with the hands over one's hips
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ali] telah menceritakan kepada kami [Yahya] dari [Hisyam] telah menceritakan kepada kami [Muhammad] dari [Abu Hurairah radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam melarang seseorang shalat dengan bertolak pinggang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1220</td></tr><tr><td>Arabic No</td><td>1220</td></tr><tr><td>Reference</td><td>Book 21 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Нам) запрещалось молиться, положив руки на бока»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1220</td></tr><tr><td>Arabic No</td><td>1220</td></tr><tr><td>Reference</td><td>Book 21 Hadith 24</td></tr></tbody></table></div>
 

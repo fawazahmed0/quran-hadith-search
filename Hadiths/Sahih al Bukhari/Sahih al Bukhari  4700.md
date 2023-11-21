@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ata:When Ibn 'Abbas heard:-- "Have you not seen those who have changed 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] Telah menceritakan kepada kami [Sufyan] dari ['Amru] dari ['Atha] dia mendengar [Ibnu 'Abbas] berkata mengenai firman Allah: Tidakkah kamu perhatikan orang-orang yang telah menukar nikmat Allah dengan kekafiran, mereka adalah orang-orang kafir Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4700</td></tr><tr><td>Arabic No</td><td>4700</td></tr><tr><td>Reference</td><td>Book 65 Hadith 222</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аты, что он слышал, как (относительно слов Всевышнего Аллаха): «Разве ты не видел тех, которые обменяли милость Аллаха на неверие» (Ибрахим, аят 28), Ибн ‘Аббас (да будет доволен Аллах ими обоими) сказал: «Это — неверные (из числа) жителей Мекки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4700</td></tr><tr><td>Arabic No</td><td>4700</td></tr><tr><td>Reference</td><td>Book 65 Hadith 222</td></tr></tbody></table></div>
 

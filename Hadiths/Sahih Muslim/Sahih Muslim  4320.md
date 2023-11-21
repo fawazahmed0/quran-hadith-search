@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:For a faithful slave ther
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah bin Yahya] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata; aku pernah mendengar [Sa'id bin Musayyab] berkata, " [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: 'Bagi seorang budak yang selalu berusaha berbuat baik, maka dia akan mendapatkan pahala dua kali lipat.' Demi Dzat yang jiwa Abu Hurairah berada di tangan-Nya, seandainya tidak ada kewajiban jihad di jalan Allah, haji dan berbakti kepada ibu, tentu aku lebih senang mati dalam keadaan menjadi budak." Perawi berkata, "Kami mendapat kabar bahwa Abu Hurairah tidak melakukan haji kecuali setelah ibunya meninggal dunia, karena dia harus menemani ibunya." [Abu At Thahir] menyebutkan dalam haditsnya, "Seorang budak yang selalu berusaha berbuat baik." Dan tidak mengatakan, 'Seorang hamba sahaya'." Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abu Shafwan Al Amawi] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dengan sanad ini, tanpa menyebutkan, 'Dan telah sampai kepadaku'. Atau, 'Setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4320</td></tr><tr><td>Arabic No</td><td>1665.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4320</td></tr><tr><td>Arabic No</td><td>1665.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
 

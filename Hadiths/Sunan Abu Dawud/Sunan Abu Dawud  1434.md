@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuQatadah: The Prophet (ﷺ) asked AbuBakr: When do you observe the wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Ahmad bin Abu Khalaf] telah menceritakan kepada Kami [Abu Zakariya Yahya bin Ishaq As Sailahini] telah menceritakan kepada Kami [Hammad bin Salamah] dari [Tsabit] dari [Abdullah bin Rabah] dari [Abu Qatadah] bahwa Nabi shallallahu 'alaihi wasallam bertanya kepada Abu Bakar: " Kapankah kamu melaksanakan witir?" Dia menjawab; saya melakukan witir dipermulaan malam. Dan beliau bertanya kepada Umar: "Kapankah kamu melaksanakan witir?" Dia menjawab: saya melakukan witir pada akhir malam. Kemudian beliau berkata kepada Abu Bakar; "Orang ini telah melakukan dengan keteguhan hati, " dan kepada Umar beliau mengatakan: "Sedangkan orang ini telah melakukan dengan kemantapan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1434</td></tr><tr><td>Arabic No</td><td>1434</td></tr><tr><td>Reference</td><td>Book 8 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Катады, да будет доволен им Аллах, что однажды Пророк ﷺ спросил Абу Бакра: «Когда ты совершаешь витр?» Абу Бакр ответил: «В начале ночи». Тогда Пророк ﷺ спросил ‘Умара: «А когда ты совершаешь витр?» ‘Умар ответил: «В конце ночи». Посланник Аллаха ﷺ сказал об Абу Бакре: «Он принимает меры, (чтобы не пропустить витр)». А об ‘Умаре он сказал: «А он выбрал то, что требует силы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1434</td></tr><tr><td>Arabic No</td><td>1434</td></tr><tr><td>Reference</td><td>Book 8 Hadith 19</td></tr></tbody></table></div>
 

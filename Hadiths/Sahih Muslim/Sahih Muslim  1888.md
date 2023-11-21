@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] dan [Ya'qub bin Ibrahim] semuanya dari [Yahya] - [Ibnu Hatim] - berkata; telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Yazid bin Kaisan] telah menceritakan kepada kami [Abu Hazim] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Berkumpullah kamu semuanya, karena aku akan membacakan kepada kalian sepertiga Al Qur'an." Maka berkumpullah kami, yang sempat berkumpul, kemudian Nabi shallallahu 'alaihi wasallam keluar dan membaca: "QUL HUWALLAHU AHAD." Setelah itu, beliau masuk kembali. Maka kami saling berkata satu sama lain."Aku mengira bahwa wahyu ini baru diturunkan dari langit, sehingga Nabi shallallahu 'alaihi wasallam segera masuk ke dalam kamarnya." Tak berapa lama kemudian Nabi shallallahu 'alaihi wasallam keluar seraya bersabda: "Tadi aku berjanji akan membacakan sepertiga Al Qur'an kepada kalian. Ketahuilah bahwa, 'QUL HUWALLAHU AHAD' adalah sama nilainya dengan sepertiga Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1888</td></tr><tr><td>Arabic No</td><td>812.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 316</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ сказал: «Соберитесь (в мечети), и я прочту вам треть Корана». (Абу Хурайра продолжил): «(Прослышав об этом,) в мечети собрался тот, кто собрался, после чего Пророк Аллаха ﷺ вышел (из дома в мечеть) и зачитал: «Скажи: “Он Аллах, Один”». После этого он вернулся домой и сподвижники стали говорить друг другу: “Наверное, к нему пришло известие с небес и это заставило его войти в дом”. Через некоторое время Пророк Аллаха ﷺ (вновь) вышел (из дома в мечеть) и сказал: “Я сказал вам, что прочту вам треть Корана. Поистине, эта сура равняется трети Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1888</td></tr><tr><td>Arabic No</td><td>812.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 316</td></tr></tbody></table></div>
 

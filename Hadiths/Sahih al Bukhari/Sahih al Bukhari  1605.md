@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Aslam from his father who said:"'Umar bin Al-Khattab addressed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far bin Abu Katsir] berkata, telah mengabarkan kepada saya [Zaid bin Aslam] dari [bapaknya] bahwa ['Umar bin Al Khaththob radliallahu 'anhu] berkata kepada rukun (Al Hajar AL Aswad): "Sungguh aku mengetahui bahwa kamu hanyalah batu yang tidak bisa mendatangkan madharat maupun manfa'at. Namun kalau bukan karena aku telah melihat Nabi Shallallahu'alaihiwasallam menciummu tentu aku tidak akan menciummu". Maka dia menciumnya lalu berkata: "Kenapa pula kita harus berlari-lari kecil?. Sungguh kami telah menyaksikan orang-orang musyrikin melakukannya namun kemudian mereka dibinasakan oleh Allah subhanahu wata'ala". Dia berkata: "Berlari-lari kecil ini adalah sesuatu sunnah yang telah dikerjakan oleh Nabi Shallallahu'alaihiwasallam dan kami tidak suka bila meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1605</td></tr><tr><td>Arabic No</td><td>1605</td></tr><tr><td>Reference</td><td>Book 25 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар, да будет доволен им Аллах, сказал: «Нам не было никакой нужды совершать обход быстрым шагом, если не считать того, что мы (хотели сделать это напоказ) многобожникам, которых уже погубил Аллах».\nЗатем он сказал: «(Однако) мы не хотим отказываться от того, что делал Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1605</td></tr><tr><td>Arabic No</td><td>1605</td></tr><tr><td>Reference</td><td>Book 25 Hadith 91</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported:We were with Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Sayyar] dari [As Sya'bi] dari [Jabir bin Abdullah] dia berkata; Saya pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu peperangan, ketika kembali, saya segera menaiki untaku yang jalannya sangat lamban, sehingga saya disusul oleh penunggang yang lainnya yang berada di belakangku, lalu dia menekan untaku dengan tombak kecilnya sehingga untaku berjalan sebagaimana unta-unta lainnya, lalu saya menoleh, tiba-tiba ada Rasulullah shallallahu 'alaihi wasallam, beliau bertanya: "Kenapa kamu tergesa-gesa wahai Jabir?" Saya menjawab; "Wahai Rasulullah, saya baru saja menikah." Beliau bertanya lagi: "Gadis atau janda yang kamu nikahi?" Saya menjawab; Seorang janda. Beliau bersabda: "Kenapa kamu tidak memilih gadis hingga kamu bisa bercumbu dengannya dan dia bercumbu denganmu?" Jabir berkata; Ketika kami sampai di Madinah, kami bersiap-siap masuk (rumah), tapi beliau bersabda: "Tangguhkanlah sampai kita masuk pada malam hari, agar para istri merapikan rambutnya dan berhias terlebih dahulu." Jabir berkata; Dan beliau juga bersabda: "Dengan demikian, ketika kamu datang, istrimu benar-benar cantik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3640</td></tr><tr><td>Arabic No</td><td>715.08</td></tr><tr><td>Reference</td><td>Book 17 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3640</td></tr><tr><td>Arabic No</td><td>715.08</td></tr><tr><td>Reference</td><td>Book 17 Hadith 73</td></tr></tbody></table></div>
 

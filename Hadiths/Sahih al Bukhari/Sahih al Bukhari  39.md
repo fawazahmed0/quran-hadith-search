@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: The Prophet (ﷺ) said, "Religion is very easy and whoever
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdus Salam bin Muthahhar] berkata, telah menceritakan kepada kami [Umar bin Ali] dari [Ma'an bin Muhammad Al Ghifari] dari [Sa'id bin Abu Sa'id Al Maqburi] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya agama itu mudah, dan tidaklah seseorang mempersulit agama kecuali dia akan dikalahkan (semakin berat dan sulit). Maka berlakulah lurus kalian, mendekatlah (kepada yang benar) dan berilah kabar gembira dan minta tolonglah dengan Al Ghadwah (berangkat di awal pagi) dan ar-ruhah (berangkat setelah zhuhur) dan sesuatu dari ad-duljah ((berangkat di waktu malam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>39</td></tr><tr><td>Arabic No</td><td>39</td></tr><tr><td>Reference</td><td>Book 2 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, религия эта легка, но если кто-нибудь начинает бороться с ней, она неизменно побеждает его, так придерживайтесь же правильного, и приближайтесь, и радуйтесь и обращайтесь (к Аллаху) за помощью утром /аль-гъадва/, вечером /ар-рауха/ и (некоторое время) ночью /ад-дульджа/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>39</td></tr><tr><td>Arabic No</td><td>39</td></tr><tr><td>Reference</td><td>Book 2 Hadith 32</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Humaid b. 'Abd al-Rahman b. 'Auf reported that his mother Umm Kulthum daughter o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab]; Telah mengabarkan kepadaku [Humaid bin 'Abdur Rahman bin 'Auf] bahwa Ibunya [Ummu Kultsum bin 'Uqbah bin Abu Mu'aith] -dan ia termasuk perempuan yang turut hijrah dalam kelompok pertama yang berbai'at kepada Rasulullah shallallahu 'alaihi wasallam- bahwasanya ia pernah mendengar Rasulullah bersabda: "Orang yang mendamaikan pihak-pihak yang bertikai, orang yang berkata demi kebaikan, dan orang yang membangkitkan (mengingatkan) kebaikan bukanlah termasuk pendusta." lbnu Syihab berkata; 'Saya tidak pernah mendengar diperbolehkannya dusta yang diucapkan oleh manusia kecuali dalam tiga hal, yaitu; dusta dalam peperangan, dusta untuk mendamaikan pihak-pihak yang bertikai, dan dusta suami terhadap istri atau istri terhadap suami (untuk meraih kebahagiaan atau menghindari keburukan). Telah menceritakan kepada kami [Amru An Naqid] Telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'ad] Telah menceritakan kepada kami [Bapakku] dari [Shalih] Telah menceritakan kepada kami [Muhammad bin Muslim bin Ubaidullah bin Abdullah bin Syihab] melalui jalur ini dengan Hadits yang serupa. Hanya saja pada Hadits Shalih disebutkan dengan lafazh; Ummu Kultsum berkata; 'Saya tidak pernah mendengar Rasulullah shallallahu 'alaihi wasallam memberikan dispensasi kedustaan yang diucapkan oleh manusia kecuali dalam tiga hal.'-sebagaimana di dalam Hadits Yunus dari perkataan Ibnu Syihab. Telah menceritakannya kepada kami ['Amru An Naqid]; Telah menceritakan kepada kami [Isma'il bin Ibrahim]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] melalui jalur ini hanya sampai perkataan; 'membangkitkan kebaikan'. -tanpa menyebutkan kalimat setelah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6633</td></tr><tr><td>Arabic No</td><td>2605.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6633</td></tr><tr><td>Arabic No</td><td>2605.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 130</td></tr></tbody></table></div>
 

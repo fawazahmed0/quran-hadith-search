@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Itban bin Malik:The Prophet (ﷺ) came to my house and said, "Where do
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Ibnu Syihab] dari [Mahmud bin Ar Rabi'] dari ['Itban bin Malik], bahwa Nabi shallallahu 'alaihi wasallam mendatanginya di rumahnya seraya bersabda: "Mana tempat di rumahmu yang kau sukai untuk aku pimpin shalat?" Maka aku menunjukkan suatu tempat, lalu Nabi shallallahu 'alaihi wasallam takbir dan kami membuat shaf di belakangnya, kemudian beliaupun shalat dua rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>424</td></tr><tr><td>Arabic No</td><td>424</td></tr><tr><td>Reference</td><td>Book 8 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Итбана ибн Малика о том, что (как-то) Пророк ﷺ пришёл к нему домой и сказал: «Где ты хочешь, чтобы я в твоём доме помолился для тебя?» (‘Итбан) сказал: «И я указал ему на место и Пророк ﷺ произнёс такбир, а мы стали за ним в ряд и он совершил намаз в два ракаата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>424</td></tr><tr><td>Arabic No</td><td>424</td></tr><tr><td>Reference</td><td>Book 8 Hadith 74</td></tr></tbody></table></div>
 

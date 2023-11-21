@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "Both the buyer and t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dua orang yang melakukan jual beli, masing-masing punya hak pilihan atas teman jual belinya selama keduanya belum berpisah, kecuali jual beli yang tidak membutuhkan berpisah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2111</td></tr><tr><td>Arabic No</td><td>2111</td></tr><tr><td>Reference</td><td>Book 34 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Продавец и покупатель имеют право выбора: завершить или отменить сделку — до тех пор, пока не расстанутся, кроме продажи с условием выбора»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2111</td></tr><tr><td>Arabic No</td><td>2111</td></tr><tr><td>Reference</td><td>Book 34 Hadith 64</td></tr></tbody></table></div>
 

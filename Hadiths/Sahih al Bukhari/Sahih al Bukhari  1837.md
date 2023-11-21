@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) married Maimuna while he was in the state 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Mughirah 'Abdul Quddus bin Al Hajjaj] telah menceritakan kepada kami [Al Awza'iy] telah menceritakan kepada saya ['Atho' bin Abu Rabah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam menikahi Maimunah saat Beliau sedang ihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1837</td></tr><tr><td>Arabic No</td><td>1837</td></tr><tr><td>Reference</td><td>Book 28 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Пророк ﷺ женился на Маймуне, когда был в состоянии ихрама
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1837</td></tr><tr><td>Arabic No</td><td>1837</td></tr><tr><td>Reference</td><td>Book 28 Hadith 17</td></tr></tbody></table></div>
 

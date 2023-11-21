@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Buhaina reported that the Messenger of Allah (ﷺ) got himself cupped in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Al Mu'lla bin Manshur] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Alqamah bin Abu Alqamah] dari [Abdurrahman Al A'raj] dari [Ibnu Buhainah] bahwa Nabi shallallahu 'alaihi wasallam berbekam di tengah perjalanan menuju Makkah saat beliau Ihram, dan titik bekamnya tepat di tengah kepala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2886</td></tr><tr><td>Arabic No</td><td>1203</td></tr><tr><td>Reference</td><td>Book 15 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Бухайны о том, что Пророку ﷺ который по дороге в Мекку и находился в состоянии ихрама, отворили кровь, (сделав разрез) на темени
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2886</td></tr><tr><td>Arabic No</td><td>1203</td></tr><tr><td>Reference</td><td>Book 15 Hadith 96</td></tr></tbody></table></div>
 

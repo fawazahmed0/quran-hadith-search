@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ghailan: Anas said, "I do not find (now-a-days) things as they were (pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Mahdi] dari [Ghailan] dari [Anas] berkata, "Aku tidak pernah mengenal sasuatupun di zaman Rasulullah shallallahu 'alaihi wasallam seperti apa yang terjadi sekarang." Dikatakan kepadanya, "Apakah yang kau maksud shalat?" Anas berkata, "Bukankah memang benar kalian telah melalaikannya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>529</td></tr><tr><td>Arabic No</td><td>529</td></tr><tr><td>Reference</td><td>Book 9 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Анас (ибн Малик) сказал: «Не узнаю я ничего из того, что было во времена Пророка ﷺ». (Ему) сказали: «А молитва?!» Он сказал: «А разве вы не делаете в ней упущения?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>529</td></tr><tr><td>Arabic No</td><td>529</td></tr><tr><td>Reference</td><td>Book 9 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported :The Messenger of Allah (ﷺ) said: When anyone amongst yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Razin] dan [Abu Shalih] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian bangun di malam hari, maka janganlah dia mencelupkan tangannya ke dalam bejana hingga membasuhnya tiga kali terlebih dahulu, karena sesungguhnya dia tidak tahu di mana posisi tangannya semalam." Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isa bin Yunus] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, yakni dengan hadits ini, dia mengatakannya dua atau tiga kali dan tidak menyebutkan Abu Razin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (278)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>103</td></tr><tr><td>Arabic No</td><td>103</td></tr><tr><td>Reference</td><td>Book 1 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Когда кто-нибудь из вас просыпается ночью, пусть не опускает руку в сосуд, пока не помоет её (руку) три раза, ибо, поистине, не ведает он, где ночевала его рука”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (278)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>103</td></tr><tr><td>Arabic No</td><td>103</td></tr><tr><td>Reference</td><td>Book 1 Hadith 103</td></tr></tbody></table></div>
 

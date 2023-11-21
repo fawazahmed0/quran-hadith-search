@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: A man was killed in the lifetime of the Prophet (ﷺ). The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] ia berkata, "Ada seorang laki-laki dibunuh pada masa Rasulullah shallallahu 'alaihi wasallam. Maka kasus itu diajukan kepada Nabi shallallahu 'alaihi wasallam. Nabi lantas melimpahkan kasus ini kepada wali korban. Si pembunuh lantas menyampaikan uneg-unegnya kepada Nabi ' Wahai Rasulullah, sungguh aku semula tidak berniat membunuhnya! Rasulullah shallallahu 'alaihi wasallam lalu bersabda kepada wali korban: "Jika ucapan pembunuh itu benar, kemudian kamu membunuhnya, maka kamu masuk neraka." Abu Hurairah berkata, "Lantas wali korban itu pun membebaskan sang pembunuh." Abu Hurairah melanjutkan lagi, "Sang pembunuh saat itu sudah diikat tali, ia pun pulang dengan keadaan terikat tali hingga dijuluki 'Orang terikat tali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4498</td></tr><tr><td>Arabic No</td><td>4498</td></tr><tr><td>Reference</td><td>Book 41 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что во времена Пророка ﷺ убили одного человека. Об этом сообщили Пророку ﷺ и он выдал убийцу покровителю убитого. Убийца сказал: «О Посланник Аллаха, клянусь Аллахом, я не хотел убивать его!» Тогда Посланник Аллаха ﷺ сказал покровителю убитого: «Если он говорит правду и ты предашь его смерти, ты войдёшь в Огонь!» И тот отпустил его. А руки его были связаны ремнём, и он вышел, волоча за собой свой ремень, и его прозвали обладателем ремня
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4498</td></tr><tr><td>Arabic No</td><td>4498</td></tr><tr><td>Reference</td><td>Book 41 Hadith 5</td></tr></tbody></table></div>
 

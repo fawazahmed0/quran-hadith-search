@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna:I placed water for the bath of the Prophet. He washed his hands
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami ['Abdul Wahid] dari [Al A'masy] dari [Salim bin Abu Al Ja'd] dari [Kuraib] dari [Ibnu 'Abbas] berkata, [Maimunah] berkata, "Aku menyiapkan air mandi untuk Nabi shallallahu 'alaihi wasallam, beliau mencuci kedua telapak tangannya dua atau tiga kali. Kemudian beliau menuangkan air ke telapak tangan kirinya dan membasuh kemaluannya, kemudian beliau usapkan tangannya ke tanah, kemudian berkumur dan memasukkan air ke dalam hidung, lalu membasuh wajah dan kedua tangannya. kemudian beliau mengguyur seluruh tubuhnya. Setelah itu beliau bergeser dari tempatnya semula, lalu mencuci kedua kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>257</td></tr><tr><td>Arabic No</td><td>257</td></tr><tr><td>Reference</td><td>Book 5 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Маймуна (жена Пророка ﷺ) сказала: “Я приготовила для Пророка ﷺ воду для большого омовения, после чего он дважды или трижды омыл руки, потом наполнил водой левую руку и омыл свои половые органы, а потом вытер руку о землю и затем прополоснул рот и нос и помыл лицо и руки. Затем он налил (воду) на своё тело, после чего перешёл со своего места на другое и помыл ноги”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>257</td></tr><tr><td>Arabic No</td><td>257</td></tr><tr><td>Reference</td><td>Book 5 Hadith 10</td></tr></tbody></table></div>
 

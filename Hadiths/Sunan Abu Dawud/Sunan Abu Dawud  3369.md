@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Messenger of Allah (ﷺ) forbade to sell spoils of war
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar An Namari] telah menceritakan kepada kami [Syu'bah] dari [Yazid? bin Khumair] dari [mantan budak Quraisy] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam melarang dari menjual rampasan perang hingga dibagi, dan dari menjual pohon kurma hingga terjaga dari musibah yang datang dan seseorang melakukan shalat tanpa mengikat pakaian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3369</td></tr><tr><td>Arabic No</td><td>3369</td></tr><tr><td>Reference</td><td>Book 23 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил продавать военную добычу до раздела, и запретил продавать плоды пальмы до тех пор, пока не станет очевидным, что ничто не мешает им дозреть, и он запретил мужчине молиться без пояса
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3369</td></tr><tr><td>Arabic No</td><td>3369</td></tr><tr><td>Reference</td><td>Book 23 Hadith 44</td></tr></tbody></table></div>
 

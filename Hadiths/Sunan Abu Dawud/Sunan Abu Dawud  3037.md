@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik ; Uthman ibn AbuSulayman: The Prophet (ﷺ) sent Khalid 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Abbas bin Abdul 'Azhim], telah menceritakan kepada kami [Sahl bin Muhammad], telah menceritakan kepada kami [Yahya bin Abu Zaidah], dari [Muhammad bin Ishaq] dari ['Ashim bin Umar], dari [Anas bin Malik], dan dari [Utsman bin Abu Sulaiman], bahwa Nabi shallallahu 'alaihi wasallam telah mengirimkan Khalid bin Al Walid ke Ukaidir Dumah, kemudian ia ditangkap, lalu mereka membawanya kepada beliau. Kemudian beliau memampatkan darahnya dan berdamai dengan syarat ia memberikan jizyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 20 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ послал Халида ибн аль-Валида к Укайдиру Думы. Они взяли его, привели к Пророку ﷺ и он сохранил ему жизнь и заключил с ним мирный договор с условием, что он будет выплачивать подушную подать /джизью
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 20 Hadith 110</td></tr></tbody></table></div>
 

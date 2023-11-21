@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The Prophet (ﷺ) said, "The saying 'Sub Han Allah' is fo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] telah mengabarkan kepada kami [Waki'] dari [Sufyan] dari [Abu Hazim] dari [Sahal bin Sa'ad radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya ucapan tasbih buat laki-laki sedangkan bertepuk tangan buat wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1204</td></tr><tr><td>Arabic No</td><td>1204</td></tr><tr><td>Reference</td><td>Book 21 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, от Сахля ибн Са‘да, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Если что-то случается в молитве, то чтобы привлечь внимание) мужчины говорят: «Субхан-Аллах», а женщины хлопают»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1204</td></tr><tr><td>Arabic No</td><td>1204</td></tr><tr><td>Reference</td><td>Book 21 Hadith 8</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ja'far bin Rabi'ah] dari [Al A'raj] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Apabila kamu mendengar kokok ayam jantan, maka mohonlah kemurahan dari Allah Subhanahu wa Ta'ala, karena pada saat itu ayam tersebut sedang melihat malaikat. Sebaliknya, apabila kamu mendengar ringkikan keledai, maka berlindunglah kepada Allah dari segala kejahatan syetan. Karena pada saat itu, keledai tersebut melihat syetan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6920</td></tr><tr><td>Arabic No</td><td>2729</td></tr><tr><td>Reference</td><td>Book 48 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6920</td></tr><tr><td>Arabic No</td><td>2729</td></tr><tr><td>Reference</td><td>Book 48 Hadith 112</td></tr></tbody></table></div>
 

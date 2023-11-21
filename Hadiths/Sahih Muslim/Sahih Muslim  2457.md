@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri said that the Messenger of Allah (ﷺ) made a mention of a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu Adi] dari [Sulaiman] dari [Abu Nadlrah] dari [Abu Sa'id] bahwa suatu ketika Nabi shallallahu 'alaihi wasallam menyebutkan suatu kaum yang akan muncul di tengah-tengah umatnya. Mereka keluar dari suatu kelompok manusia. Cirri-ciri mereka adalah berkepala botak. Beliau bersabda: "Mereka adalah seburuk-buruk makhluk -atau dari kalangan seburuk-buruk makhluk- yang akan membunuh mereka adalah salah satu dari dua kelompok yang paling dekat dengan kebenaran." Maka Nabi shallallahu 'alaihi wasallam memberikan permisalan bagi mereka -atau beliau mengungkapkan-: "Seorang laki-laki melepas lemparan -atau- Al Gharadl (sasaran) lalu ia melihat pada ujung anak panahnya, namun ia tidak melihat sesuatu, dan ia melihat pada pangkal panahnya tidak juga melihat sesuatu. Lalu ia melihat pada Al Fuq (tempat tali busur), juga tidak melihat sesuatu." Abu Sa'id berkata, "Dan kalianlah yang membunuh mereka wahai penduduk Irak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2457</td></tr><tr><td>Arabic No</td><td>1065.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 194</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида, что Пророк ﷺ упомянул людей, которые появятся в его общине, когда между людьми будут разногласия, их признаком будет бритьё (голов). Он сказал: «Они худшие творения, которые убивают ближайшую к истине группу (людей)». Затем Пророк ﷺ привёл на них пример: «(То, как они вылетят из религии подобно) человеку, который стреляет в дичь, затем смотрит на острие стрелы, но не видит следов крови, затем смотрит на древко стрелы, но не видит следов крови, затем смотрит на “пятку” стрелы, но не видит следов крови».Абу Са‘ид сказал: «Вы сражались с ими, о жители Ирака»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2457</td></tr><tr><td>Arabic No</td><td>1065.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 194</td></tr></tbody></table></div>
 

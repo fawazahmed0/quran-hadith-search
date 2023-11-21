@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:'Abdur-Rahman bin Abza ordered me to ask Ibn 'Abbas re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] Telah mengabarkan kepada kami [Bapakku] dari [Syu'bah] dari [Manshur] dari [Sa'id bin Jubair] dia berkata; 'Abdur Rahman bin Abza menyuruhku untuk menanyakan kepada [Ibnu 'Abbas] mengenai kedua ayat ini: "Dan barangsiapa yang membunuh orang mu'min secara sengaja maka balasannya adalah jahanam, ia kekal didalamnya." (An Nisaa': 93) maka aku bertanya padanya, ia menjawab: Ini tidak dihapus oleh (ayat) apa pun. Dan tentang ayat ini: "Dan orang-orang yang tidak menyembah Tuhan yang lain beserta Allah dan tidak membunuh jiwa yang diharamkan Allah (membunuhnya) kecuali dengan (alasan) yang benar." (Al Furqaan: 68) ia menjawab: 'Ayat ini turun tentang para pelaku kesyirikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4766</td></tr><tr><td>Arabic No</td><td>4766</td></tr><tr><td>Reference</td><td>Book 65 Hadith 288</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Джубейр сказал: «Однажды ибн Абза велел мне спросить Ибн ‘Аббаса об этих двух аятах: “Если же кто-либо убьёт верующего преднамеренно…” — я спросил его, и он ответил: “Ничто его не отменяло”. И об аяте: “Они не взывают помимо Аллаха к другим богам…”. И он ответил: “Этот аят был ниспослан в отношении многобожников”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4766</td></tr><tr><td>Arabic No</td><td>4766</td></tr><tr><td>Reference</td><td>Book 65 Hadith 288</td></tr></tbody></table></div>
 

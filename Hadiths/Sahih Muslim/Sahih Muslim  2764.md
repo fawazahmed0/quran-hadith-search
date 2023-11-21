@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim b. 'Abdullah b. 'Umar reported that his father said:I heard Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Salim bin Abdullah bin Umar] bahwa [bapaknya] radliallahu 'anhu berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda berkenaan dengan Lailatul Qadr: "Beberapa orang di antara kalian telah bermimpi bahwa Lailatul Qadr itu terdapat pada tujuh malam yang awal, sedangkan yang lain bermimpi terdapat pada tujuh malam terakhir (dari Ramadlan). Maka carilah ia pada sepuluh yang akhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2764</td></tr><tr><td>Arabic No</td><td>1165.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2764</td></tr><tr><td>Arabic No</td><td>1165.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 270</td></tr></tbody></table></div>
 

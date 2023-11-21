@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Al-Harith:Ibn 'Abbas addressed us on a (rainy and) muddy 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin 'Abdul Wahhab] berkata, telah menceritakan kepada kami [Hammad bin Zaid] berkata, telah menceritakan kepada kami ['Abdul Hamid] sahabatnya Az Zayadi, ia berkata, aku mendengar ['Abdullah bin Al Harits] berkata, "Pada suatu hari ketika jalan penuh dengan air dan lumpur akibat hujan, [Ibnu 'Abbas] menyampaikan khuthbah kepada kami. Saat mu'adzin mengucapkan 'Hayya 'Alashshalaah' (Marilah mendirikan shalat) ia perintahkan kepadanya untuk mengucapkan: 'Shalatlah di tempat tinggal masing-masing'. Maka orang-orang pun saling memandang satu sama lain seakan mereka mengingkarinya. Maka Ibnu 'Abbas berkata, "Seakan kalian mengingkari masalah ini. Sesungguhnya hal yang demikian ini pernah dilakukan oleh orang yang lebih baik dariku, yakni Nabi shallallahu 'alaihi wasallam. Dan sesungguhnya itu merupakan kewajiban ('azimah) dan aku enggan untuk mengungkapkannya kepada kalian." Dan dari [Hammad] dari ['Ashim] dari ['Abdullah bin Al Harits] dari [Ibnu 'Abbas] seperti itu. Hanya saja ia menambahkan bahwa Ibnu Abbas berkata, "Aku tidak mau untuk membuat kalian berdosa, kalian mendatangi shalat sementara lutut kaki kalian penuh dengan lumpur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>668</td></tr><tr><td>Arabic No</td><td>668</td></tr><tr><td>Reference</td><td>Book 10 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн аль-Харис, да помилует его Аллах Всевышний, сказал:\n— (Однажды) в дождливый день, когда земля была покрыта грязью, Ибн ‘Аббас, да будет доволен Аллах ими обоими, обратился к нам с проповедью, а когда во время призыва муаззин дошёл до слов: «Спешите на намаз!» — он велел: «Скажи: “Молитесь на своих местах”». (Услышав это, люди) стали переглядываться так, будто это им не понравилось, а (Ибн ‘Аббас) сказал: «Вам, кажется, не понравилось это, однако так поступал и тот, кто лучше меня!» — имея в виду Пророка ﷺ. (И он сказал также): «Действительно, (присутствие на пятничной молитве) обязательно, но я не хотел ставить вас в затруднительное положение!»\nСо слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, передаётся похожий хадис, где кроме всего прочего он сказал: «Я не хотел вводить вас в грех, ибо, если бы вы пришли, вам пришлось бы опускаться на колени в грязь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>668</td></tr><tr><td>Arabic No</td><td>668</td></tr><tr><td>Reference</td><td>Book 10 Hadith 62</td></tr></tbody></table></div>
 

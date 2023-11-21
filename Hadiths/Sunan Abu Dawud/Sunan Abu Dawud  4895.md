@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Iyad ibn Himar (al-Mujashi'i): The Prophet (ﷺ) said: Allah has reveal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hafsh] ia berkata; telah menceritakan kepadaku [Bapakku] berkata, telah menceritakan kepadaku [Ibrahim bin Thahman] dari [Al Hajjaj] dari [Qatadah] dari [Yazid bin Abdullah] dari [Iyadh bin Himar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah telah mewahyukan kepadaku, hendaklah kalian bersikap rendah diri, hingga seseorang tidak berbuat aniaya kepada ornag lain, dan seseorang tidak berlaku sombong kepada orang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4895</td></tr><tr><td>Arabic No</td><td>4895</td></tr><tr><td>Reference</td><td>Book 43 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Ийада бин Химара, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, Аллах ниспослал мне откровение (, сказав, что следует) вам проявлять смирение, чтобы никто не похвалялся перед другим и никто не притеснял другого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4895</td></tr><tr><td>Arabic No</td><td>4895</td></tr><tr><td>Reference</td><td>Book 43 Hadith 123</td></tr></tbody></table></div>
 

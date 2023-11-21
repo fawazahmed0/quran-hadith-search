@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Jabir b. Abdullah that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abdullah bin al-Harits al-Makhzumi] dari [Ibnu Juraij] dia berkata, telah mengabarkan kepada kami [Abu az-Zubair] bahwa dia mendengar [Jabir bin Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Keras dan keringnya hati berada pada orang Timur, sedangkan iman berada pada ahli Hijaz
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>193</td></tr><tr><td>Arabic No</td><td>53</td></tr><tr><td>Reference</td><td>Book 1 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Жестокосердие и чёрствость присущи жителям востока, а вера /иман/ жителям Хиджаза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>193</td></tr><tr><td>Arabic No</td><td>53</td></tr><tr><td>Reference</td><td>Book 1 Hadith 100</td></tr></tbody></table></div>
 

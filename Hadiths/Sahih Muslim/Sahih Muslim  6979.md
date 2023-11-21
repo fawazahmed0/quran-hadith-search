@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ala' reported on the authority of his father who reported on the authority of Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] semuanya dari [Isma'il bin Ja'far]. Ibnu Ayyub berkata; telah menceritakan kepada kami Isma'il, telah mengabarkan kepadaku [Al 'Ala] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Seandainya orang mukmin mengetahui siksa Allah Subhanahu wa Ta'ala, niscaya tidak ada seorang mukmin pun yang menginginkan surga-Nya. Dan seandainya orang kafir itu mengetahui rahmat Allah, maka niscaya tidak ada seorang kafir pun yang berputus asa untuk mengharapkan surga-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6979</td></tr><tr><td>Arabic No</td><td>2755</td></tr><tr><td>Reference</td><td>Book 50 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6979</td></tr><tr><td>Arabic No</td><td>2755</td></tr><tr><td>Reference</td><td>Book 50 Hadith 27</td></tr></tbody></table></div>
 

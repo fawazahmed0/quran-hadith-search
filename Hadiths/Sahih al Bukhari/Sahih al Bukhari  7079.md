@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "Beware! Do not renegade as (disbeli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Isykab] telah menceritakan kepada kami [Muhammad bin Fudhail] dari [ayahnya] dari [Ikrimah] dari [Ibnu 'Abbas] radliallahu 'anhuma, ia mengatakan; Nabi Shallallahu'alaihiwasallam bersabda; "Jangan kalian murtad sepeninggalku, sebagian kalian memenggal leher sebagian yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7079</td></tr><tr><td>Arabic No</td><td>7079</td></tr><tr><td>Reference</td><td>Book 92 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «Не возвращайтесь после меня неверными, которые рубят друг другу головы!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7079</td></tr><tr><td>Arabic No</td><td>7079</td></tr><tr><td>Reference</td><td>Book 92 Hadith 30</td></tr></tbody></table></div>
 

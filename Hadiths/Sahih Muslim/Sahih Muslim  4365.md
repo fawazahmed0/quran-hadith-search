@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), Un juif tua une fille à l'aide d'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Haddab bin Khalid] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Anas bin Malik], bahwa ada sahaya perempuan yang ditemukan dalam kondisi kepalanya dihimpit antara dua buah batu, lantas orang-orang bertanya kepadanya, "Siapakah yang melakukan perbuatan kejam ini kepadamu? Apakah si fulan? Ataukah si fulan?" Sahaya perempuan itu hanya terdiam, namun ketika mereka menyebut nama seorang Yahudi, sahaya perempuan itu mengiayakan dengan anggukan kepala, maka Yahudi itu pun ditangkap. Ketika Yahudi itu mengakui perbuatannya, Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk meremukkan kepalanya dengan batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4365</td></tr><tr><td>Arabic No</td><td>1672.05</td></tr><tr><td>Reference</td><td>Book 28 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4365</td></tr><tr><td>Arabic No</td><td>1672.05</td></tr><tr><td>Reference</td><td>Book 28 Hadith 24</td></tr></tbody></table></div>
 

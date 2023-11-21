@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:We paid a visit to Khabbab who was sick, and he said, "We migr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Al A'masy] dia berkata; saya mendengar [Abu Wa'il] dia berkata; "Kami pernah menjenguk [Khabbab], lalu dia berkata; 'Kami berhijrah bersama Rasulullah shallallahu 'alaihi wasallam dengan mengharap ridla Allah Ta'ala, maka Allah pun memberi balasan kepada kami, diantara kami ada yang meninggal dan belum mendapatkan balasan (di dunia) sedikitpun, diantaranya adalah Mush'ab bin Umair yang terbunuh pada perang Uhud, dan hanya meninggalkan kain burdah kasar, jika kami menutup kepalanya, kedua kakinya keluar dari kain (terlihat) dan jika kami menutup kakinya, kepalanya keluar dari kain (terlihat). Maka Nabi shallallahu 'alaihi wasallam menyuruh kami untuk menutup kepalanya dengan kain tersebut dan menutup kakinya dengan idzkhir (rumput-rumputan berbau harum: penerj). Juga diantara kami ada yang memliki buah yang sudah masak dan ia memetiknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6448</td></tr><tr><td>Arabic No</td><td>6448</td></tr><tr><td>Reference</td><td>Book 81 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб, да будет доволен им Аллах, сказал: «Мы переселились (из Мекки в Медину) вместе с Пророком ﷺ, стремясь к лику Аллаха, а поэтому Аллах и наградит нас. Некоторые из нас умерли, не получив никакой награды (в мире этом), и среди них был Мус‘аб ибн ‘Умайр, другим же (часть этой награды) досталась (уже здесь). Что касается (Мус‘аба), то он был убит в день битвы при Ухуде, и у нас не нашлось в качестве савана ничего, кроме его плаща, однако, когда мы покрывали им голову, неприкрытыми оставались ноги, когда же мы покрывали им ноги, то неприкрытой оставалась голова, и тогда Пророк ﷺ велел нам прикрыть его голову, а на ноги набросать душистого тростника. И среди нас были те, кто получил свои плоды (добрых дел) и он срывает их (здесь, в мире этом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6448</td></tr><tr><td>Arabic No</td><td>6448</td></tr><tr><td>Reference</td><td>Book 81 Hadith 37</td></tr></tbody></table></div>
 

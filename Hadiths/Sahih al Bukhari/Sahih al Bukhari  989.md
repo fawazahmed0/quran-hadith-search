@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) went out and offered a two rak'at prayer o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepadaku ['Adi bin Tsabit] berkata, aku mendengar [Sa'id bin Jubair] dari [Ibnu 'Abbas], bahwa Nabi shallallahu 'alaihi wasallam keluar pada Hari Raya 'Iedul Fitri, beliau melaksanakan shalat dua rakaat, tanpa melaksanakan shalat baik sebelum atau sesudahnya. Dan saat itu beliau bersama Bilal? radliallahu 'anhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>989</td></tr><tr><td>Reference</td><td>Book 13 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, что Пророк ﷺ вышел в день праздника разговения и совершил молитву в два рака‘ата, и он не совершал молитву ни до нее, ни после нее, а вместе с ним и Биляль
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>989</td></tr><tr><td>Reference</td><td>Book 13 Hadith 37</td></tr></tbody></table></div>
 

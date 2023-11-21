@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Nu'man b. Bashir:I heard the Messenger of Allah (ﷺ) say: What is l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus], ia berkata; telah menceritakan kepada kami [Abu Syihab], telah menceritakan kepada kami [Ibnu 'Aun] dari [Asy Sya'bi], ia berkata; saya mendengar [An Nu'man bin Basyir], dan aku tidak mendengar seorangpun setelahnya. Ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya perkara yang halal itu jelas, serta yang haram jelas dan diantara keduanya terdapat dan diantara keduanya terdapat perkara-perkara yang samar. Dan akan aku berikan contoh hal tersebut. Sesungguhnya Allah melindungi daerah terlarang, dan sesungguhnya daerah terlarang Allah adalah apa yang Dia haramkan. Dan sesungguhnya orang yang menggembala di sekitar daerah larangan hampir memasukinya, dan sesungguhnya orang memasuki perkara yang meragukan hampir terjerumus dalam perkara yang haram." Telah menceritakan kepada kami [Ibrahim bin Musa Ar Razi], telah mengabarkan kepada kami [Isa] telah menceritakan kepada kami [Zakariya] dari [Amir Asy Sya'bi] ia berkata; saya mendengar [An Nu'man bin Basyir], ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda dengan hadits ini. Beliau berkata: "Dan diantara keduanya terdapat perkara samar, yang tidak diketahui oleh kebanyakan orang. Barangsiapa yang menghindari perkara-perkara yang samar maka ia telah membersihkan kehormatan dan agamanya, dan barangsiapa yang terjerumus dlam perkara yang samar maka ia terjerumus dalam perkara yang haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2051) Sahih Muslim (1599)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3329</td></tr><tr><td>Arabic No</td><td>3329</td></tr><tr><td>Reference</td><td>Book 23 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ан-Ну‘ман ибн Башир, да будет доволен Аллах им и его отцом, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, дозволенное /халяль/ очевидно и запретное /харам/ очевидно, а между ними находится сомнительное /муштабихат/. Приведу вам пример Аллах объявил некую землю заповедной, и заповедная земля Аллаха это Его запреты, и тот, кто пасёт своё стадо вокруг заповедного места, рискует оказаться в нём, и, поистине, кто впадает в сомнительное, тот рискует решиться и на большее”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2051) Sahih Muslim (1599)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3329</td></tr><tr><td>Arabic No</td><td>3329</td></tr><tr><td>Reference</td><td>Book 23 Hadith 4</td></tr></tbody></table></div>
 

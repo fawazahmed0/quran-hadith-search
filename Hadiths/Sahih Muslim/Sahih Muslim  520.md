@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Abou Hourayra (que la paix soit sur lui), l'Envoyé de Dieu (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahman bin Sallam bin Ubaidullah al-Jumahi] telah menceritakan kepada kami [ar-Rabi'] -yaitu Ibnu Muslim- dari [Muhammad bin Ziyad] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tujuh puluh ribu orang dari umatku akan masuk Surga tanpa dihisab." Lalu seorang lelaki berkata, 'Wahai Rasulullah, doakanlah kepada Allah supaya aku tergolong dari kalangan mereka'. Beliau pun berdoa: "Ya Allah, masukkanlah dia ke dalam golongan mereka itu." Kemudian seorang dari golongan Anshar ikut berdiri dan berkata, 'Wahai Rasulullah doakanlah kepada Allah supaya aku tergolong dari kalangan mereka'. Beliau bersabda: "Ukkasyah telah mendahului kamu'." Dan telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata, aku mendengar [Muhammad bin Ziyad] dia berkata, aku mendengar [Abu Hurairah] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda, semisal hadits ar-Rabi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>520</td></tr><tr><td>Arabic No</td><td>216.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 426</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн аль-‘Ас сказал: «Я слышал, как Посланник Аллаха ﷺ открыто и не таясь говорил: “Поистине, члены семейства моего отца не являются моими покровителями, моими покровителями являются только Аллах и праведные верующие”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>520</td></tr><tr><td>Arabic No</td><td>216.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 426</td></tr></tbody></table></div>
 

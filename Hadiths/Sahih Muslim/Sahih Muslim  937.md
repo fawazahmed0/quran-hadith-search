@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:It was in the house ofMaimuna that the Messenger of Allah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] dan ['Abd bin Humaid] dan lafazh tersebut milik Ibnu Rafi', keduanya berkata, telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dia berkata, berkata [az-Zuhri], dan telah mengabarkan kepadaku [Ubaidullah bin Abdullah bin Utbah] bahwa [Aisyah] telah mengabarkan kepadanya seraya berkata, "Pertama kali Rasulullah shallallahu 'alaihi wasallam mengaduh sakit di rumah Maimunah, lalu beliau meminta izin kepada para istrinya untuk menginap sakit di rumah Aisyah. Dan mereka memberikan izin kepada beliau." Aisyah berkata, "Lalu beliau keluar, satu tangannya dipapah oleh al-Fadhl bin Abbas, dan satu tangannya lagi pada seorang laki-laki lainnya, sedangkan beliau dalam keadaan tidak mampu berjalan dengan kedua kakinya di tanah." Maka Ubaidullah berkata, "Lalu aku menceritakannya kepada [Ibnu Abbas], maka dia bertanya, 'Apakah kamu tahu, siapakah laki-laki yang tidak disebutkan namanya oleh Aisyah. Dia adalah Ali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>937</td></tr><tr><td>Arabic No</td><td>418.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ начал жаловаться на болезнь в доме Маймуны. Он попросил своих жён, чтобы за ним ухаживали в моём доме, и они позволили ему это. И (однажды) он вышел положив одну руку на Фадля ибн ‘Аббаса, а вторую на другого мужчину, и (шёл ) волоча ноги по земле».‘Убайдуллах (передатчик хадиса) сказал: «Я сообщил Ибн ‘Аббасу (об этих словах ‘Аиши,) и он спросил: “Знаешь ли ты, кто был тот мужчина, имя которого не назвала ‘Аиша? Это (был) ‘Али”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>937</td></tr><tr><td>Arabic No</td><td>418.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 99</td></tr></tbody></table></div>
 

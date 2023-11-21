@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) sent an army under the command of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Khalid bin Makhlad] telah bercerita kepada kami [Sulaiman] berkata, telah bercerita kepadaku ['Abdullah bin Dinar] dari ['Abdullah bin 'Umar radliallahu 'anhuma] berkata; "Nabi shallallahu 'alaihi wasallam mengutus satu pasukan dan mengangkat Usamah bin Zaid sebagai pemimpin mereka. Lalu sebagian orang ada yang mencela kepemimpinannya, maka Nabi shallallahu 'alaihi wasallam bersabda: "Kalian mencela kepemimpinannya?. Sungguh sebelum ini kalian pernah pula mencela kepemimpinan ayahnya. Demi Allah, sungguh dia patut memegang kepemimpinan karena dia adalah manusia yang paling aku cintai dan sekarang, (Usamah) adalah manusia yang paling aku cintai setelah (ayah) nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3730</td></tr><tr><td>Arabic No</td><td>3730</td></tr><tr><td>Reference</td><td>Book 62 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророк ﷺ послал (в поход) отряд, назначив командовать им Усаму бин Зейда. Некоторые люди стали высказывать недовольство в связи с таким назначением, и тогда Пророк ﷺ сказал: “Если вы порицаете его как командира, это (неудивительно, ибо прежде) вы порицали как командира и его отца, но, клянусь Аллахом, он был достоин командования и относился к числу наиболее дорогих для меня людей. Что же касается этого, то, поистине, после него он является одним из самых дорогих для меня людей!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3730</td></tr><tr><td>Arabic No</td><td>3730</td></tr><tr><td>Reference</td><td>Book 62 Hadith 77</td></tr></tbody></table></div>
 

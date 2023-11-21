@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Zubair heard Jabir b. Abdullah reporting it from the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Ahmad bin Abu Khalaf] telah menceritakan kepada kami [Rauh] telah menceritakan kepada kami [Ibnu Juraij] dia berkata, telah mengabarkan kepada kami [Abu az-Zubair] bahwa dia mendengar [Jabir bin Abdullah] berkata dari Nabi shallallahu 'alaihi wasallam: "Setiap Nabi memiliki doa yang dia panjatkan untuk umatnya, maka aku menyembunyikan doaku sebagai syafa'at bagi umatku pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>498</td></tr><tr><td>Arabic No</td><td>201</td></tr><tr><td>Reference</td><td>Book 1 Hadith 404</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, что Пророк ﷺ сказал: «У каждого пророка была мольба, связанная с его общиной, с которой он обратился к Аллаху. Я же придержал свою мольбу , чтобы заступиться за мою общину в День воскресения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>498</td></tr><tr><td>Arabic No</td><td>201</td></tr><tr><td>Reference</td><td>Book 1 Hadith 404</td></tr></tbody></table></div>
 

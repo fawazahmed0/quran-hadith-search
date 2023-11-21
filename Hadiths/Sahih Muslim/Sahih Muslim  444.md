@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shaqiq reported:I said to Abu Dharr: Had I seen the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepada kami [bapakku]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Hajjaj bin asy-Sya'ir] telah menceritakan kepada kami [Affan bin Muslim] telah menceritakan kepada kami [Hammam] keduanya dari [Qatadah] dari [Abdullah bin Syaqiq] dia berkata, "Aku berkata kepada [Abu Dzar], 'Kalau seandainya aku melihat Rasulullah, niscaya aku menanyakan itu kepadanya.' Abu Dzar berkata, 'Tentang apa yang akan kamu tanyakan? ' Aku menjawab, 'Aku akan bertanya, 'Apakah tuan melihat Rabbmu? ' Abu Dzar berkata, 'Aku telah menanyakan itu, beliau menjawab: 'Aku hanya melihat cahaya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>444</td></tr><tr><td>Arabic No</td><td>178.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 349</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн Шакыкъ сказал: «(Однажды) я сказал Абу Зарру: “Если бы я увидел Посланника Аллаха ﷺ, то спросил бы его”. Он сказал: “О чём ты спросил бы его?” Я сказал: “Я спросил бы его: “Видел ли ты своего Господа?”. Тогда Абу Зарр сказал: “Я уже спросил (его об этом), а он ответил: “Я видел свет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>444</td></tr><tr><td>Arabic No</td><td>178.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 349</td></tr></tbody></table></div>
 

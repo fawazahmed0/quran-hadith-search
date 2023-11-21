@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jubair bin Mut'im:Allah's Messenger (ﷺ) said, "As for me, I pour wate
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Zuhair] dari [Abu Ishaq] berkata, telah menceritakan kepadaku [Sulaiman bin Shurad] berkata, telah menceritakan kepadaku [Jubair bin Muth'im] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku menyiram kepalaku sebanyak tiga kali." Beliau memberi isyarat dengan kedua telapak tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 5 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джубайр ибн Мут‘им, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ сказал: “Что касается меня, то я обливаю голову трижды”, показав (, как он делает это,) обеими руками»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 5 Hadith 7</td></tr></tbody></table></div>
 

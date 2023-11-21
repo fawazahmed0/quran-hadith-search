@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Jarir b. 'Abdullah through dif
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ishaq bin Ibrahim] keduanya dari [Jarir]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Ali bin Hasyram] keduanya berkata; Telah mengabarkan kepada kami ['Isa bin Yunus]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al A'laa]; Telah menceritakan kepada kami [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Sa'id Al Asyaj]; Telah menceritakan kepada kami [Hafsh] yaitu Ibnu Ghiyats seluruhnya dari [Al A'masy] dari [Zaid bin Wahab] dan [Abu Zhibyan] dari [Jarir bin Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang tidak menyayangi manusia maka tidak disayangi Allah 'azza wajalla." Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] Telah menceritakan kepada kami [Waki'] dan [Abdullah bin Numair] dari [Ismail] dari [Qais] dari [Jarir] dari Nabi shallallahu 'alaihi wasallam Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Abu Umar] serta [Ahmad bin Abdah] mereka berkata; Telah menceritakan kepada kami [Sufyan] dari [Amru] dari [Nafi' bin Zubair] dari [Jarir] dari Nabi shallallahu 'alaihi wasallam yang serupa dengan Hadits Al A'masy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6030</td></tr><tr><td>Arabic No</td><td>2319.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6030</td></tr><tr><td>Arabic No</td><td>2319.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 88</td></tr></tbody></table></div>
 

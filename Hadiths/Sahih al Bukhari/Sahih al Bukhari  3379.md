@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The people landed at the land of Thamud called Al-H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Al Mundzir] telah bercerita kepada kami [Anas bin 'Iyadl] dari ['Ubaidullah] dari [Nafi'] bahwa ['Abdullah bin 'Umar radliallahu 'anhu] mengabarkan kepadanya bahwa ada serombongan orang (Sahabat) yang bepergian bersama Rasulullah shallallahu 'alaihi wasallam kemudian singgah di al-Hijr, negeri Kaum Tsamud, lalu mereka mengambil air dari sumurnya dan membuat adonan roti, maka Rasulullah shallallahu 'alaihi wasallam memerintahkan mereka agar menumpahkan air yang di ambil dari sumurnya dan agar adonan roti dijadikan makanan buat unta dan memerintahkan mereka agar mengambil air dari sumur-sumur yang dilalui oleh unta". Hadits ini diikuti pula oleh [Usamah] dari [Nafi]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3379</td></tr><tr><td>Arabic No</td><td>3379</td></tr><tr><td>Reference</td><td>Book 60 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абдуллах Ибн ‘Умар, да будет доволен Аллах им и его отцом, рассказал, что (однажды) люди остановились вместе Посланником Аллаха ﷺ в аль-Хиджре, земле (народа) Самуд, набрали воду из её колодца, и замесили тесто (использую эту воду), однако Пророк ﷺ приказал им вылить воду и накормить верблюдов тестом. И он приказал им набрать воду из колодца, из которого пила верблюдица (пророка Салиха)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3379</td></tr><tr><td>Arabic No</td><td>3379</td></tr><tr><td>Reference</td><td>Book 60 Hadith 53</td></tr></tbody></table></div>
 

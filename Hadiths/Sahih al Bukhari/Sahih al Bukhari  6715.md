@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If somebody manumits a Muslim slav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim] telah menceritakan kepada kami [Dawud bin Rasyid] telah menceritakan kepada kami [Al Walid bin Muslim] dari [Abu Ghassan Muhammad bin Mutharrif] dari [Zaid bin Aslam] dari [Ali bin Husain] dari [Sa'id bin Mirjanah] dari [Abu Hurairah], dari Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa membebaskan budak muslim, Allah membebaskan setiap anggota tubuhnya karena anggota tubuh yang dibebaskannya dari neraka, hingga Allah membebaskan kemaluannya dari neraka, karena kemaluannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6715</td></tr><tr><td>Arabic No</td><td>6715</td></tr><tr><td>Reference</td><td>Book 84 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Если кто-либо освободил раба, являющегося мусульманином, то за каждую часть его тела Аллах освободит от Огня каждую часть тела (освободителя), и даже за половой орган (раба Аллах освободит от Огня) половой орган (освободителя)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6715</td></tr><tr><td>Arabic No</td><td>6715</td></tr><tr><td>Reference</td><td>Book 84 Hadith 8</td></tr></tbody></table></div>
 

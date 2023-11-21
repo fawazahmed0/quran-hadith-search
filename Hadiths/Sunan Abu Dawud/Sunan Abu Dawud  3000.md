@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ka’ab bin Malik who was one of those whose repentance was accepted said “Ka�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] bahwa [Al Hakam bin Nafi'] telah menceritakan kepada mereka, ia berkata; telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri], dari [Abdurrahman bin Abdullah bin Ka'b bin Malik], dari [ayahnya], dan ia adalah salah satu dari tiga orang yang mendapatkan taubat. Dan dahulu Ka'b bin Al Asyraf mencaci Nabi shallallahu 'alaihi wasallam dan mendorong orang-orang kafir Quraisy untuk menyerang beliau. Dan pada saat Nabi shallallahu 'alaihi wasallam datang ke Madinah, penduduknya adalah campur. Diantara mereka orang-orang muslim, orang-orang musyrik yang menyembah berhala serta orang-orang yahudi. Dan mereka menyakiti Nabi shallallahu 'alaihi wasallam serta para sahabatnya. Kemudian Allah 'azza wajalla memerintahkan NabiNya agar bersabar dan memaafkan. Dan Allah mengirimkan ayat mengenai mereka: "Dan (juga) kamu sungguh-sungguh akan mendengar dari orang-orang yang diberi kitab sebelum kamu…" kemudian tatkala Ka'b bin Al Asyraf enggan untuk menghentikan gangguannya kepada Nabi shallallahu 'alaihi wasallam, maka Nabi shallallahu 'alaihi wasallam memerintahkan Sa'd bin Mu'adz agar mengirim beberapa orang yang akan membunuhnya. Kemudian ia mengutus Muhammad bin Maslamah. - dan ia menyebutkan kisah terbunuhnya Ka'b. kemudian tatkala mereka telah membunuhnya maka orang-orang yahudi dan musyrik kaget. Kemudian mereka mendatangi Nabi shallallahu 'alaihi wasallam dan berkata; sahabat kami telah diketuk kemudian dibunuh. Kemudian Nabi shallallahu 'alaihi wasallam menyebutkan kepada mereka sesuatu yang Ka'b ucapkan. Dan Nabi shallallahu 'alaihi wasallam mengajak mereka agar beliau menulis perjanjian yang mereka taati isinya. Nabi shallallahu 'alaihi wasallam menulis antara beliau, dan mereka serta orang-orang muslim sebuah perjanjian dalam kertas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>3000</td></tr><tr><td>Reference</td><td>Book 20 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ка‘б ибн Малик, да будет доволен им Аллах, который был одним из тех троих, которые уклонились от участия в походе на Табук и которых Всевышний Аллах простил, передаёт, что Ка‘б ибн Ашраф ругал и высмеивал Пророка ﷺ и натравливал на него язычников-курайшитов. Когда Посланник Аллаха ﷺ прибыл в Медину, там жили и мусульмане, и поклонявшиеся идолам язычники с иудеями, которые обижали Посланника Аллаха ﷺ и его сподвижников и причиняли им беспокойство, и Всемогущий и Великий Аллах повелел Своему Пророку ﷺ проявлять терпение и снисходительность. Это о них Всевышний Аллах ниспослал: «И вы непременно услышите от тех, кому было даровано Писание до вас, и от многобожников много неприятных слов. Но если вы будете терпеливы и богобоязненны, то ведь в этих делах надлежит проявлять решимость» (сура 3 «Али ‘Имран», аят 186). Ка‘б не переставал доставлять Посланнику Аллаха ﷺ хлопоты и беспокойство, и Пророк ﷺ велел Са‘ду ибн Му‘азу послать к нему несколько человек и казнить его. Он послал Мухаммада ибн Масляму. И он упомянул историю его убийства. После его казни иудеи и язычники испугались и пришли к Пророку ﷺ со словами: «На нашего товарища напали ночью! Наш товарищ убит!» И Пророк ﷺ напомнил им то, что говорил ранее, и призвал их подписать договор, который они обязаны будут соблюдать, после чего был записан договор, который Пророк ﷺ и мусульмане заключили с иудеями
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>3000</td></tr><tr><td>Reference</td><td>Book 20 Hadith 73</td></tr></tbody></table></div>
 

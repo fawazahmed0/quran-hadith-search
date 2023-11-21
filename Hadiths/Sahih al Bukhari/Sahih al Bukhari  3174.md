@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated ' 'Abdullah bin 'Abbas:That Abu Sufyan bin Harb Informed him that Herac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari [Yunus] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah bin 'Utbah] mengabarkan kepadanya bahwa ['Abdullah bin 'Abbas] mengabarkan kepadanya bahwa [Abu Sufyan bin Harb bin Umayyah] mengabarkan kepadanya bahwa, Raja Heraklius pernah mengutus utusan kepadanya saat dia bersama rombongan pedagang Quraisy sedang berkunjung ke negeri Syam, tepatnya pada masa ada perjanjian damai (gencatan senjata) yang dibuat antara Rasulullah shallallahu 'alaihi wasallam dan Abu Sufyan tentang orang-orang Kafir Quraisy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3174</td></tr><tr><td>Arabic No</td><td>3174</td></tr><tr><td>Reference</td><td>Book 58 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Аббас, рассказывал о том, что Абу Суфйан ибн Харб ибн Умайя, сообщил ему о том, что Ираклий послал за ним, когда он сопровождал караван курайшитов. Они занимались торговыми делами в Шаме, и это было в то время, когда Посланник Аллаха ﷺ заключил перемирие с Абу Суфйаном и (другими) неверными курайшитами
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3174</td></tr><tr><td>Arabic No</td><td>3174</td></tr><tr><td>Reference</td><td>Book 58 Hadith 16</td></tr></tbody></table></div>
 

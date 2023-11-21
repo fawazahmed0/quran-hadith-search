@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amra:I heard 'Aisha saying, "We set out (from Medina) along with Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Mukhalad] telah menceritakan kepada kami [Sulaiman bin Bilal] berkata, telah menceritakan kepada saya [Yahya] berkata, telah menceritakan kepada saya ['Amrah] berkata; Aku mendengar ['Aisyah radliallahu 'anha] berkata: "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam pada lima hari terakhir bulan Dzul Qa'dah yang tujuan kami tidak lain kecuali untuk menunaikan haji. Hingga ketika kami sudah dekat dengan kota Makkah, Rasulullah shallallahu 'alaihi wasallam memerintahkan: "Barangsiapa yang tidak membawa Hadyu (hewan qurban) apabila telah thawaf di Ka'bah Baitullah hendaklah dia bertahallul". 'Aisyah radliallahu 'anha berkata: "Ketika hari Nahar kami dikirimi daging sapi lalu aku bertanya; "Apa ini?. Dijawab: "Ini kurban Rasulullah shallallahu 'alaihi wasallam atas nama isteri-isteri Beliau". Yahya berkata; Lalu aku ceritakan hadits ini kepada Al Qasim, maka dia berkata: "Dia menyampaikan hadis kepadamu secara langsung?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1720</td></tr><tr><td>Arabic No</td><td>1720</td></tr><tr><td>Reference</td><td>Book 25 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказывала: «Мы отправились в путь вместе с посланником Аллаха ﷺ за пять дней до окончания месяца зуль-ка‘да с намерением совершить только хадж. Когда мы приблизились к Мекке, Посланник Аллаха ﷺ приказал тем, кто не гнал жертвенный скот, выйти из ихрама после совершения тавафа вокруг Каабы. В День жертвоприношения нам принесли мясо коровы. Я спросила: “Что это?” Мне ответили: “Пророк ﷺ заколол это за своих жен”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1720</td></tr><tr><td>Arabic No</td><td>1720</td></tr><tr><td>Reference</td><td>Book 25 Hadith 198</td></tr></tbody></table></div>
 

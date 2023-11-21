@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said to Ibn Saiyad, "I have kept for you a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hafsh] dan [Bisyir bin Muhammad] menuturkan; telah memberitakan kepada kami [Abdullah] telah memberitakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu 'Umar] radliallahu 'anhuma menuturkan; Nabi shallallahu 'alaihi wasallam berkata kepada Ibnu Shayyad; "Aku menyembunyikan suatu hal bagimu". ibnu Shayyad berkata; 'Itu adalah asap' Nabi mengatakan; "Duduklah engkau dengan hina, engkau tak bisa melampaui batas kemampuanmu selaku dukun." Umar berkata; 'Izinkanlah aku untuk memenggal lehernya! ' Nabi menjawab; "Biarkan dia, jika dia memang Dajjal, kamu tak bisa meladeninya, dan kalaulah dia bukan Dajjal, tak ada kebaikan bagimu membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6618</td></tr><tr><td>Arabic No</td><td>6618</td></tr><tr><td>Reference</td><td>Book 82 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал Ибн Сайяду: «Я приберёг для тебя нечто». Ибн Саййад сказал: «Это — “ад-духху…» Тогда (Пророк ﷺ) сказал: «Пошёл прочь! Тебе никогда не преодолеть своего предела!» ‘Умар, да будет доволен им Аллах, сказал: «Позволь мне отрубить ему голову!» Пророк ﷺ сказал: «Оставь его. Если это он и есть, тебе ни за что с ним не справиться, а если это не он, то убийство его не принесёт тебе блага»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6618</td></tr><tr><td>Arabic No</td><td>6618</td></tr><tr><td>Reference</td><td>Book 82 Hadith 24</td></tr></tbody></table></div>
 

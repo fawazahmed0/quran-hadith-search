@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sulamah bint Ma'qil al-Qasiyyah: My uncle brought me (to Medina) in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Khaththab bin Shalih] mantan budak Al Anshari, dari [Ibunya] dari [Salamah binti Ma'qil] seorang wanita dari Kabilah Kharijah Qais 'Ailan, ia berkata, "Pamanku datang membawaku pada masa jahiliyah, kemudian ia menjualku kepada Al Hubab bin 'Amru, saudara Abu Al Yusr bin 'Amru. Setelah itu aku melahirkan seorang anak untuknya bernama Abdurrahman bin Al Hubab, ketika ia meninggal isterinya berkata, "Demi Allah, sekarang engkau akan dijual untuk melunasi hutangnya." Lalu aku datang kepada Rasulullah shallallahu 'alaihi wasallam dan aku katakan, "Wahai Rasulullah, sesungguhnya saya adalah seorang wanita yang berasal dari Kharijah Qais 'Ailan. Pamanku datang ke Madinah membawaku pada masa jahiliyah, kemudian ia menjualku kepada Al Hubab bin 'Amru, saudara Abu Al Yusr bin 'Amru. Lalu aku melahirkan anaknya yang bernama Abdurrahman bin Al Hubab, kemudian isterinya berkata, 'Demi Allah, sekarang engkau akan dijual untuk melunasi hutangnya'? Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Siapakah wali Al Hubab?" Kemudian dijawab, "Saudaranya, yaitu Abu Al Yusr bin 'Amru." Beliau lalu mengirim utusan kepadanya dan berkata: "Bebaskan wanita itu! Dan jika kalian mendengar ada budak yang datang untuk diberkan kepadaku (dari rampasan perang), maka bawalah ia kemari hingga aku memberikannya kepada kalian sebagai gantinya." Salamah berkata, "Kemudian mereka membebaskanku, ketidak datang seorangh budak untuk Rasulullah shallallahu 'alaihi wasallam, maka beliau menganti (pembebasanku) dengan seorang budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3953</td></tr><tr><td>Arabic No</td><td>3953</td></tr><tr><td>Reference</td><td>Book 31 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Саляма бинт Ма‘кыль, женщина из Хариджи Кайса ‘Айляна, передаёт: «Во времена невежества мой дядя со стороны отца продал меня аль-Хубабу ибн ‘Амру, брату Абу аль-Ясара ибн ‘Амра, и я родила ему ‘Абду-р-Рахмана ибн аль-Хубаба. А потом аль-Хубаба не стало, и его жена сказала: “Теперь, клянусь Аллахом, тебя продадут, чтобы отдать его долги!” И я пришла к Посланнику Аллаха ﷺ и сказала: “О Посланник Аллаха! Поистине, я женщина из Хариджи Кайса ‘Айляна. Во времена невежества мой дядя со стороны отца привёз меня в Медину и продал меня аль-Хубабу ибн ‘Амру, брату Абу аль-Ясара ибн ‘Амра, и я родила ему ‘Абду-р-Рахмана. А потом аль-Хубаба не стало, и его жена сказала: “Теперь, клянусь Аллахом, тебя продадут, чтобы отдать его долги!”” Посланник Аллаха ﷺ спросил: “Кто покровитель аль-Хубаба?” Ему сказали: “Его брат Абу аль-Ясар ибн ‘Амр”. Тогда он послал за ним и сказал: “Освободите её, а как услышите, что ко мне привели рабов, приходите, и я дам вам раба вместо неё”. И меня освободили, а когда к Посланнику Аллаха ﷺ привели рабов, он дал им раба вместо меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3953</td></tr><tr><td>Arabic No</td><td>3953</td></tr><tr><td>Reference</td><td>Book 31 Hadith 28</td></tr></tbody></table></div>
 

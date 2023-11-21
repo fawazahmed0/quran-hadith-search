@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Some people from 'Uraina tribe came to Medina and its climate did 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] telah menceritakan kepada kami [Qatadah] dari [Anas radliallahu 'anhu] bahwa ada sekelompok orang dari 'Urainah yang sakit terkena udara dingin kota Madinah. Maka Rasulullah shallallahu 'alaihi wasallam mengobati mereka dengan memberi bagian dari zakat unta, yang mereka meminum susu-susunya dan air kencingnya. Namun kemudian orang-orang itu membunuh pengembala unta tersebut dan mencuri unta-untanya sejumlah antara tiga hingga sepuluh. Maka Rasulullah shallallahu 'alaihi wasallam mengutus seseorang. Akhirnya mereka dibawa ke hadapan Beliau, lalu kemudian Beliau memotong tangan dan kaki mereka serta mencongkel mata-mata mereka dengan besi panas lalu menjemur mereka dibawah panas dan ditindih dengan bebatuan". Hadits ini dikuatkan juga oleh [Abu Qalabah] dan [Humaid] dari [Tsabit] dari [Anas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 24 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, рассказывал, что однажды в Медину приехали люди из племени ‘урайна. И Посланник Аллаха ﷺ разрешил им пойти к верблюдам, которые были даны в качестве милостыни, и пить их молоко и мочу, но они убили пастуха и угнали верблюдов. Посланник Аллаха ﷺ послал за ними, и когда их привели, он велел отрубить им кисти рук и ступни, и выжечь им глаза, затем их бросили на Харре (каменистая местность), где они хватались зубами за камни
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 24 Hadith 101</td></tr></tbody></table></div>
 

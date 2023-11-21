@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:When one of you makes a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] mereka berkata; telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far dari [Al 'Ala] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian berdoa maka janganlah sekali-kali ia berkata; 'Ya Allah ampunilah aku jika Engkau kehendaki, ' akan tetapi hendaklah ia serius dalam meminta dan besarkanlah pengharapannya, karena bagi Allah 'azza wajalla tidak ada sesuatu yang bagi-Nya merasa kewalahan untuk memberikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6812</td></tr><tr><td>Arabic No</td><td>2679.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6812</td></tr><tr><td>Arabic No</td><td>2679.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 8</td></tr></tbody></table></div>
 

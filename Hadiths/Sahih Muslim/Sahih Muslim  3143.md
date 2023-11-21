@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (que Dieu l'agrée) a dit : "Bilâl reçut l'ordre de faire à pair le prem
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Salmah bin Syabib] Telah menceritakan kepada kami [Al Hasan bin A'yan] Telah menceritakan kepada kami [Ma'qil bin Ubaidullah Al Jazari] dari [Abu Zubair] dari [Jabir] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Istijmar (istinja') itu ganjil, melempar jumrah juga ganjil, Sa'i antara shafa dan marwa, serta thawaf (di Baitullah) juga ganjil. Maka apabila salah seorang di antara kalian beristijmar (bersuci dengan menggunakan batu), hendaklah ia bersuci dengan bilangan ganjil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3143</td></tr><tr><td>Arabic No</td><td>1300</td></tr><tr><td>Reference</td><td>Book 15 Hadith 347</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3143</td></tr><tr><td>Arabic No</td><td>1300</td></tr><tr><td>Reference</td><td>Book 15 Hadith 347</td></tr></tbody></table></div>
 

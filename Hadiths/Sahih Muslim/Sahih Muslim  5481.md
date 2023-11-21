@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that when Allah's Apostle (ﷺ) decided to write (letters) to non-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna]; Telah menceritakan kepada kami [Mu'adz bin Hisyam]; Telah menceritakan kepadaku [Bapakku] dari [Qatadah] dari [Anas] bahwa ketika Rasulullah shallallahu 'alaihi wasallam hendak mengirim surat kepada orang-orang 'Ajam (selain orang Arab), dikatakan kepada beliau bahwa mereka (orang-orang 'Ajam) tidak mau membaca surat tanpa ada stempelnya. Maka Rasulullah shallallahu 'alaihi wasallam membuat sebuah cincin dari perak.' Aku seolah-olah masih melihat bagaimana cemerlangnya cincin itu di tangan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5481</td></tr><tr><td>Arabic No</td><td>2092.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5481</td></tr><tr><td>Arabic No</td><td>2092.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 96</td></tr></tbody></table></div>
 

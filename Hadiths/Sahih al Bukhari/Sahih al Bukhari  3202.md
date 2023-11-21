@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:The Prophet (ﷺ) said, "The sun and the moon are 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il bin Abu Uwais] berkata telah bercerita kepadaku [Malik] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari ['Abdullah bin 'Abbas radliallahu 'anhuma] berkata, Nabi shallallahu 'alaihi wasallam bersabda: "Matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah yang tidak akan mengalami gerhana disebabkan karena mati atau hidupnya seseorang. Maka jika kalian melihat gerhana keduanya, berdzikirlah kepada Allah (shalat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3202</td></tr><tr><td>Arabic No</td><td>3202</td></tr><tr><td>Reference</td><td>Book 59 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Пророк ﷺ) сказал: «Поистине, солнце и луна являются двумя знамениями из числа знамений Аллаха, и затмения их не случаются ни из-за смерти, ни из-за жизни кого-то, поэтому, если вы увидите (подобное), поминайте Аллаха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3202</td></tr><tr><td>Arabic No</td><td>3202</td></tr><tr><td>Reference</td><td>Book 59 Hadith 13</td></tr></tbody></table></div>
 

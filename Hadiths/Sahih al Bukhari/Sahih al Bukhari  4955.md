@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The commencement of the Divine Inspiration to Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Bukair] Telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Urwah] bahwa [Aisyah] radliallahu 'anha berkata, "Peristiwa turunnya wahyu yang pertama kali kepadanya Rasulullah shallallahu 'alaihi wasallam adalah Ar Ru'yah Shalihah (mimpi yang baik). Yaitu malaikat mendatangi beliau seraya berkata, 'IQRA' BISMI RABBIKAL LADZII KHALAQ, KHALAQAL INSAANA MIN 'ALAQ, IQRA' WARABBUKAL AKRAM
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4955</td></tr><tr><td>Arabic No</td><td>4955</td></tr><tr><td>Reference</td><td>Book 65 Hadith 477</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала: «Ниспослание откровений Посланнику Аллаха ﷺ началось с благого видения во сне, затем к нему пришёл ангел и сказал: “Читай во имя Господа твоего, Который сотворил, сотворил человека из сгустка! Читай, ведь Господь твой — Наищедрейший”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4955</td></tr><tr><td>Arabic No</td><td>4955</td></tr><tr><td>Reference</td><td>Book 65 Hadith 477</td></tr></tbody></table></div>
 

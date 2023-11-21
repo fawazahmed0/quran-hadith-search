@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Ayyub reported Allah's Messenger (ﷺ) as saying:The tribes of Ansar, Muzain
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Yazid] yaitu Ibnu Harun; Telah mengabarkan kepada kami [Abu Malik Al Asja'i] dari [Musa bin Thalhah] dari [Abu Ayyub] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang-orang Islam dari kaum Anshar, Muzainah, Juhainah, Ghifar, dan Asyja' adalah para hamba yang mempunyai tuan (majikan) selain manusia, Sesungguhnya tuan mereka adalah Allah dan Rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6438</td></tr><tr><td>Arabic No</td><td>2519</td></tr><tr><td>Reference</td><td>Book 44 Hadith 267</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6438</td></tr><tr><td>Arabic No</td><td>2519</td></tr><tr><td>Reference</td><td>Book 44 Hadith 267</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) got himself cupped and never
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] berkata; [Abu Bakr] Telah menceritakan kepada kami [Waki']. Dan berkata; [Abu Kuraib] dan lafazh ini miliknya; Telah mengabarkan kepada kami [Waki'] dari [Mis'ar] dari ['Amru bin 'Amir Al Anshari] dia berkata; Aku mendengar; [Anas bin Malik] berkata; 'Rasulullah shallallahu 'alaihi wasallam pernah berbekam dan beliau tidak pernah mendzalimi seorangpun dalam memberi upah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5750</td></tr><tr><td>Arabic No</td><td>1577.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5750</td></tr><tr><td>Arabic No</td><td>1577.04</td></tr><tr><td>Reference</td><td>Book 39 Hadith 104</td></tr></tbody></table></div>
 

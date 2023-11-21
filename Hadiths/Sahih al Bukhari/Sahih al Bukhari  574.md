@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakr bin Abi Musa:My father said, "Allah's Messenger (ﷺ) said, 'W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hudbah bin Khalid] berkata, telah menceritakan kepada kami [Hammam] telah menceritakan kepadaku [Abu Jamrah] dari [Abu Bakar bin Abu Musa] dari [Bapaknya], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengerjakan shalat pada dua waktu dingin, maka dia akan masuk surga." [Ibnu Raja'] berkata; telah menceritakan kepada kami [Hammam] dari [Abu Jamrah] bahwa [Abu Bakar bin 'Abdullah bin Qais] telah mengabarkan kepadanya seperti ini." Dan telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Habban] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Abu Jamrah] dari [Abu Bakar bin 'Abdullah] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>574</td></tr><tr><td>Arabic No</td><td>574</td></tr><tr><td>Reference</td><td>Book 9 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Вошёл в Рай тот, кто совершал две молитвы в прохладное время»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>574</td></tr><tr><td>Arabic No</td><td>574</td></tr><tr><td>Reference</td><td>Book 9 Hadith 50</td></tr></tbody></table></div>
 

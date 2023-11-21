@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Fudail bin Sulaiman:Musa bin 'Uqba said, "I saw Salim bin 'Abdullah loo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar Al Muqaddam] berkata, telah menceritakan kepada kami [Fudlail bin Sulaiman] berkata, telah menceritakan kepada kami [Musa bin 'Uqbah] berkata, "Aku melihat [Salim bin 'Abdullah] memilih tempat di suatu jalan lalu melaksanakan shalat di tempat tersebut. Dan dia menceritakan bahwa [Bapaknya] pernah shalat di tempat itu, dan bapaknya pernah melihat Nabi shallallahu 'alaihi wasallam juga shalat di tempat itu." Telah menceritakan kepadaku [Nafi'] dari [Ibnu 'Umar] bahwa dia pernah shalat di tempat itu, dan aku bertanya kepada Salim, dan aku juga tidak mengetahuinya kecuali dia sepakat dengan Nafi' tentang tempat yang dimaksud. Namun keduanya berbeda pendapat tentang masjid yang berada di Syarfil Rawha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>483</td></tr><tr><td>Arabic No</td><td>483</td></tr><tr><td>Reference</td><td>Book 8 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, обычно совершал молитвы в (различных) местах на пути (из Мекки в Медину), говоря, что он видел, как в тех же местах совершал молитвы и Пророк ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>483</td></tr><tr><td>Arabic No</td><td>483</td></tr><tr><td>Reference</td><td>Book 8 Hadith 130</td></tr></tbody></table></div>
 

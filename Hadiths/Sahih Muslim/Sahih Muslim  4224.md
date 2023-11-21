@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), qui avait eu pour sa part une t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Sulaim bin Ahdlar] dari [Ibnu 'Aun] dari [Nafi'] dari [Ibnu Umar] dia berkata, "Umar mendapatkan bagian tanah perkebunan di Khaibar, lalu dia datang kepada Nabi shallallahu 'alaihi wasallam dan meminta saran mengenai bagian tersebut, dia berkata, "Wahai Rasulullah, saya mendapat bagian tanah perkebunan di Khaibar, dan saya belum pernah mendapatkan harta yang sangat saya banggakan seperti kebun itu, maka apa yang anda perintahkan mengenai kebun tersebut?" beliau menjawab: "Jika kamu mau, peliharalah pohonnya dan sedekahkanlah hasilnya." Ibnu Umar berkata, "Kemudian Umar mensedekahkannya, tidak dijual pohonnya dan hasilnya, tidak diwariskan dan tidak dihibahkan." Ibnu Umar melanjutkan, "Umar menyedekahkan hasilnya kepada orang-orang fakir, karib kerabat, pemerdekaan budak, dana perjuangan di jalan Allah, untuk pejuang-pejuang dan untuk menjamu tamu. Dan dia juga membolehkan orang lain untuk mengolah kebun tersebut dan memakan dari hasil tanamannya dengan sepantasnya, atau memberi makan temannya dengan tidak menyimpannya." Ibnu Umar berkata lagi, "Dan saya telah menceritakan hadits ini kepada Muhammad, ketika saya sampai kepada perkataan; 'Dan tidak menyimpannya', maka Muhammad mengatakan, "Dan tidak mengumpul-ngumpulkan hartanya." [Ibnu 'Aun] berkata, "Dan telah memberitakan kepadaku orang yang telah membaca kitab ini, bahwa di dalamnya tertulis, 'Dan tidak mengumpul-ngumpulkan hartanya.' Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Abu Zaidah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Azhar As Saman]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi] semuanya dari [Ibnu 'Aun] dengan sanad-sanad ini, hanya saja hadits Ibnu Abu Zaidah dan Azhar selesai pada lafadz, 'atau memberi makan kepada temannya tanpa menyimpannya', dan tidak disebutkan sesuatu setelahnya. Sedangkan hadits Ibnu Abu 'Adi, di dalamnya seperti yang disebutkan oleh Sulaim, yaitu perkataanya (Ibnu Umar), 'Kemudian hadits ini saya sampaikan kepada Muhammad' dan seterusnya." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah menceritakan kepada kami [Abu Daud Al Hafari Umar bin Sa'd] dari [Sufyan] dari [Ibnu 'Aun] dari [Nafi'] dari [Ibnu Umar] dari [Umar] dia berkata, "Saya mendapatkan bagian tanah perkebunan di Khaibar, lantas saya menemui Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Saya telah mendapatkan tanah perkebunan, dan tidak ada yang lebih saya sukai selain tanah tersebut….kemudian dia melanjutkan hadits sebagaimana hadits mereka semua, namun dia tidak menyebutkan 'Kemudian saya menyampaikan hadits ini kepada Muhammad', dan juga setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4224</td></tr><tr><td>Arabic No</td><td>1632.01</td></tr><tr><td>Reference</td><td>Book 25 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4224</td></tr><tr><td>Arabic No</td><td>1632.01</td></tr><tr><td>Reference</td><td>Book 25 Hadith 21</td></tr></tbody></table></div>
 

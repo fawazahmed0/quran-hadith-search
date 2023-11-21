@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama bin Al-Akwa':"An infidel spy came to the Prophet (ﷺ) while he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Abu Al 'Umais] dari [Iyas bin Salamah bin Al Akwa'] dari [bapaknya] berkata; "Telah datang mata-mata Kaum Musyrikin kepada Nabi Shallallahu'alaihiwasallam di tengah perjalanan lalu dia duduk bersama para shohabat Beliau sambil bercerita kemudian pergi. Maka kemudian Nabi Shallallahu'alaihiwasallam berkata: "Carilah dia dan bunuhlah". Maka (Salamah bin Al Akwa') membunuhnya dan dia berhak atas semua yang dipakai mata-mata itu (sebagai harta Rampasan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3051</td></tr><tr><td>Arabic No</td><td>3051</td></tr><tr><td>Reference</td><td>Book 56 Hadith 257</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Саламы бин аль-Аква‘, да будет доволен им Аллах, что (однажды) к Пророку ﷺ находившемуся в пути, явился шпион из числа многобожников. Он подсел к сподвижникам (Пророка ﷺ стал) говорить с ними, а потом ушёл, что же касается Пророка ﷺ то он велел: «Догоните и убейте его!» И (Салама) убил его, а (Пророк ﷺ) отдал ему имущество убитого
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3051</td></tr><tr><td>Arabic No</td><td>3051</td></tr><tr><td>Reference</td><td>Book 56 Hadith 257</td></tr></tbody></table></div>
 

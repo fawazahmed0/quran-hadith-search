@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Aswad and Masruq said:We bear witness that 'Aishah said: Not a day passed but
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] dan [Masruq] keduanya berkata; kami bersaksi atas [Aisyah] radliallahu 'anha bahwa dia berkata; "Tidaklah suatu hari datang kepada Nabi shallallahu 'alaihi wasallam, kecuali beliau pernah mengerjakan shalat dua raka'at setelah Ashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (593) Sahih Muslim (835)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1279</td></tr><tr><td>Arabic No</td><td>1279</td></tr><tr><td>Reference</td><td>Book 5 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Асвад и Масрук сказали: «Мы свидетельствуем, что ‘Аиша, да будет доволен ею Аллах сказала: “Не проходило дня без того, чтобы Пророк ﷺ совершил два рак‘ата после послеполуденной молитвы /‘аср/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (593) Sahih Muslim (835)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1279</td></tr><tr><td>Arabic No</td><td>1279</td></tr><tr><td>Reference</td><td>Book 5 Hadith 30</td></tr></tbody></table></div>
 

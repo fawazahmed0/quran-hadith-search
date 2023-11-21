@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) said: It is not rig
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul Mutsanna] berkata, telah menceritakan kepada kami [Muhammad bin Khalid bin Atsmah] berkata, telah menceritakan kepada kami [Abdullah Ibnul Munib] -maksudnya Abdullah bin Munib Al Madani- ia berkata; telah mengabarkan kepadaku [Hisyam bin Urwah] dari [Urwah] dari ['Aisyah radliallahu 'anha] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh seorang muslim mendiamkan saudaranya sesama muslim lebih dari tiga hari, jika bertemu dengannya hendaklah ia ucapkan salam sebanyak tiga kali, jika pada setiap salam dia tidak menjawab, maka dia kembali kepada dosanya (dosa mendiamkan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4913</td></tr><tr><td>Arabic No</td><td>4913</td></tr><tr><td>Reference</td><td>Book 43 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4913</td></tr><tr><td>Arabic No</td><td>4913</td></tr><tr><td>Reference</td><td>Book 43 Hadith 141</td></tr></tbody></table></div>
 

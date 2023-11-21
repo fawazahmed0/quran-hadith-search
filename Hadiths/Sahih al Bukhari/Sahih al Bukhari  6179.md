@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "None of you should say Khabuthat Nafsi,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Hisyam] dari [Ayahnya] dari [Aisyah] radliallahu 'anha dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "janganlah salah seorang dari kalian mengatakan; "Khabutsat nafsi (diriku sangat buruk), akan tetapi hendaknya ia mengatakan "laqishat nafsi (diriku ada kekurangan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6179</td></tr><tr><td>Arabic No</td><td>6179</td></tr><tr><td>Reference</td><td>Book 78 Hadith 203</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «Пусть никто из вас ни в коем случае не говорит: “Я плох” /Хабусат нафси/, — но пусть говорит: “Я заслуживаю порицания” /Лякысат нафси/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6179</td></tr><tr><td>Arabic No</td><td>6179</td></tr><tr><td>Reference</td><td>Book 78 Hadith 203</td></tr></tbody></table></div>
 

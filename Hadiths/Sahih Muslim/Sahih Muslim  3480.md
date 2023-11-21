@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:Allah's Apostle (ﷺ) married me whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Hisyam bin 'Urwah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Numair] sedangkan lafazhnya dari dia, telah menceritakan kepada kami ['Abdah yaitu Ibnu Sulaiman] dari [Hisyam] dari [ayahnya] dari ['Aisyah] dia berkata; "Nabi shallallahu 'alaihi wasallam menikahiku ketika saya berumur enam tahun, dan beliau memboyongku (membina rumah tangga denganku) ketika saya berumur sembilan tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3480</td></tr><tr><td>Arabic No</td><td>1422.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что ‘Аиша (да будет доволен ею Аллах) сказала: «Мой брачный договор с Пророком ﷺ был заключён, когда я была девочкой (в возрасте) шести лет, а моя свадьба состоялась, когда мне было девять лет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3480</td></tr><tr><td>Arabic No</td><td>1422.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 82</td></tr></tbody></table></div>
 

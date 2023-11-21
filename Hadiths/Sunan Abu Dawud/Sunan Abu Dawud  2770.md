@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam apabila kembali dari peperangan atau haji atau umrah beliau bertakbir di atas setiap dataran tinggi sebanyak tiga kali takir, beliau mengucapkan: LAA ILAAHA ILLALLAAHU WAHDAHU LAA SYARIIKALAH, LAHUL MULKU WA LAHUL HAMDU WA HUWA 'ALAA KULLI SYAI-IN QADIIR. AAYIBUUNA, TAAIBUUNA 'AABIDUUNA SAAJIDUUNA, LIRABBINAA HAAMIDUUN, SHADAQALLAHU WA'DAHU WA NASHARA 'ABDAHU WA HAZAMAL AHZAABA WAHDAH (Tidak ada tuhan yang berhak disembah kecuali Allah semata, tidak ada sekutu bagiNya, milikNya semua kerajaan dan bagiNya seluruh pujian, dan Dia Maha Mampu melakukan segala sesuatu AAYIBUUNA INSYAA ALLAAH, TAAIBUUNA 'AABIDUUNA LIRABBINAA HAAMIDUUN" (Kami kembali insya Allah, kami bertaubat, ka0mi menyembah, dan kepada Tuhan kami, kami memuji, Allah menepati janji, menolong hambaNya, dan mengalahkan musuh yang berkelompok-kelompok)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1797) Sahih Muslim (1344)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2770</td></tr><tr><td>Arabic No</td><td>2770</td></tr><tr><td>Reference</td><td>Book 15 Hadith 294</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что, когда Посланник Аллаха ﷺ возвращался (в Медину) после военного похода, хаджа или умры, он по три раза произносил слова “Аллах велик”, (поднимаясь) на каждую возвышенность, после чего говорил: «Нет истинного бога, кроме одного лишь Аллаха, у Которого нет сотоварища, Ему принадлежит владычество, Ему хвала, Он всё может! Мы возвращаемся, каемся, Господу нашему поклоняемся (и пред Ним) до земли склоняемся и (Его) восхваляем! Аллах сдержал Своё обещание, и помог Своему рабу, и один разбил племена./Ля иляха илля-Ллаху вахда-ху ля шарикя ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамду ва хуа ‘аля кулли шайй‘ин кадир! Аййибуна, та‘ибуна, ‘абидуна, саджидуна, ли-Рабби-на хамидуна! Садака-Ллаху ва‘да-ху, ва насара ‘абда-ху ва хазама-ль-ахзаба вахда-ху/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1797) Sahih Muslim (1344)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2770</td></tr><tr><td>Arabic No</td><td>2770</td></tr><tr><td>Reference</td><td>Book 15 Hadith 294</td></tr></tbody></table></div>
 

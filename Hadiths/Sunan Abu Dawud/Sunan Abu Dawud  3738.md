@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar reported the Messenger of Allah(ﷺ) as saying:if one of you invites
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian mengundang saudaranya, hendaknya ia memenuhi undangannya baik berupa pesta atau yang semisalnya!" Telah menceritakan kepada kami [Ibnu Al Mushaffa] telah menceritakan kepada kami [Baqiyyah] telah menceritakan kepada kami [Az Zubaidi] dari [Nafi'] dengan sanad dan makna hadits Ayyub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim (1429)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3738</td></tr><tr><td>Arabic No</td><td>3738</td></tr><tr><td>Reference</td><td>Book 28 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Пусть тот, кого пригласил его брат (по вере), примет приглашение независимо от того, свадьба это или угощение по другому поводу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim (1429)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3738</td></tr><tr><td>Arabic No</td><td>3738</td></tr><tr><td>Reference</td><td>Book 28 Hadith 3</td></tr></tbody></table></div>
 

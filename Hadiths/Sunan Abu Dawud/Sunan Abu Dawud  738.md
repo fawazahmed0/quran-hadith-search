@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: When the Messenger of Allah (ﷺ) uttered the takbir (Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Al Laits] telah menceritakan kepadaku [ayahku] dari [kakekku] dari [Yahya bin Ayyub] dari [Abdul Malik bin Abdul Aziz bin Juraij] dari [Ibnu Syihab] dari [Abu Bakar bin Abdurrahman bin Al Harits bin Hisyam] dari [Abu Hurairah] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam bertakbir untuk melaksanakan shalat, beliau mengangkat kedua tangannya hingga sejajar dengan kedua bahunya, begitu juga ketika hendak ruku', beliau juga melakukan seperti itu, apabila hendak sujud, juga apabila berdiri dari raka'at kedua, beliau juga melakukan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>738</td></tr><tr><td>Arabic No</td><td>738</td></tr><tr><td>Reference</td><td>Book 2 Hadith 348</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Когда Посланник Аллаха ﷺ произносил вступительный такбир в молитве, он поднимал руки на уровень плеч. Когда он совершал поясной поклон делал то же самое, и когда он поднимал (голову после поясного поклона и перед тем как) совершить земной поклон, он делал то же самое, и когда он вставал после совершения двух рак‘атов, он делал то же самое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>738</td></tr><tr><td>Arabic No</td><td>738</td></tr><tr><td>Reference</td><td>Book 2 Hadith 348</td></tr></tbody></table></div>
 

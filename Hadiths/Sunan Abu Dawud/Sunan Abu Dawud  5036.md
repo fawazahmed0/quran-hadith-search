@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubayd ibn Rifa'ah az-Zuraqi: The Prophet (ﷺ) said: Invoke a blessing 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] berkata, telah menceritakan kepada kami [Malik bin Isma'il] berkata, telah menceritakan kepada kami [Abdussalam bin Harb] dari [Yazid bin 'Abdurrahman] dari [Yahya bin Ishaq bin Abdullah bin Abu Thalhah] dari ibunya [Humaidah] -atau Ubaidah binti Ubaid bin Rifa'ah Az Zuraqqi- dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah kamu jawab bersin hingga tiga kali, tetapi jika kamu ingin menjawab maka jawablah, dan jika tidak maka cukupkanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5036</td></tr><tr><td>Arabic No</td><td>5036</td></tr><tr><td>Reference</td><td>Book 43 Hadith 264</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5036</td></tr><tr><td>Arabic No</td><td>5036</td></tr><tr><td>Reference</td><td>Book 43 Hadith 264</td></tr></tbody></table></div>
 

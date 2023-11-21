@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Mujashi' b. Mas'ud as-Sulami who said:I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin As Shabbah Abu Ja'far] telah menceritakan kepada kami [Isma'il bin Zakaria] dari ['Ashim Al Ahwal] dari [Abu Utsman An Nahdi] telah menceritakan kepadaku [Mujasyi' bin Mas'ud As Sulami] dia berkata, "Saya pernah menemui Nabi shallallahu 'alaihi wasallam untuk berbai'at kepadanya atas Hijrah, namun beliau bersabda: "Sesungguhnya hijrah telah berlalu, akan tetapi (berbaiatlah) atas Islam, Jihad dan kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4826</td></tr><tr><td>Arabic No</td><td>1863.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4826</td></tr><tr><td>Arabic No</td><td>1863.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 122</td></tr></tbody></table></div>
 

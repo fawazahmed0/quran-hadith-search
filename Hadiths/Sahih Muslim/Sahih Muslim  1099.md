@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported:The Messenger of Allah (ﷺ) said: I was commanded to prostra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu ath-Thahir] telah mengabarkan kepada kami [Abdullah bin Wahb] telah menceritakan kepadaku [Ibnu Juraij] dari [Abdullah bin Thawus] dari [Bapaknya] dari [Abdullah bin Abbas] bahwa Rasulullah shallallahu'alaihiwasallam bersabda, "Aku diperintahkan untuk bersujud pada tujuh (anggota badan), dan aku tidak mengikat rambut, dan tidak melipat baju pada kening, hidung, dua tangan, dua lutut, dan dua telapak kaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1099</td></tr><tr><td>Arabic No</td><td>490.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 261</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Абдуллаха ибн ‘Аббаса, что Посланник Аллаха ﷺ сказал: «Мне было велено совершать земной поклон на семь (частей его тела), а также не подбирать волосы и одежду: лоб, нос, ладони, колени и ступни»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1099</td></tr><tr><td>Arabic No</td><td>490.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 261</td></tr></tbody></table></div>
 

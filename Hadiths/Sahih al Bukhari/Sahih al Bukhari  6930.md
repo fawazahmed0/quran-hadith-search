@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:Whenever I tell you a narration from Allah's Messenger (ﷺ), by A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyats] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Khaitsumah] telah menceritakan kepada kami [Suwaid bin Ghaflah] mengatakan, [Ali] radliallahu 'anhu mengatakan; "Jika saya menyampaikan sebuah hadits kepada kalian dari Rasulullah shallallahu 'alaihi wasallam, demi Allah, saya terjatuh dari langit adalah lebih aku sukai daripada aku mendustakannya. Karenanya, akan saya ceritakan kepada kalian sesuatu yang akan terjadi diantara saya dan kalian, sesungguhnya perang adalah tipu daya, dan aku mendengar Rasulullah Shallallahu'alaihiwasallam bersabda: "Di akhir jaman nanti muncul suatu kaum yang umur-umur mereka masih muda, pikiran-pikiran mereka bodoh, mereka mengatakan dari sebaik-baik manusia, padahal iman mereka tak sampai melewati kerongkongan, mereka keluar dari agama sebagaimana anak panah keluar dari busurnya, dimanapun kalian menemukannya, bunuhlah dia, sebab siapa membunuhnya mendatangkan ganjaran pagi pelakunya di hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6930</td></tr><tr><td>Arabic No</td><td>6930</td></tr><tr><td>Reference</td><td>Book 88 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Когда я передаю вам что-нибудь о Посланнике Аллаха ﷺ, (знайте, что) я предпочитаю падение с неба (на землю) возведению на него лжи, когда же я говорю о том, что касается только меня и вас, (то знайте, что) война — это обман. Я слышал, как Посланник Аллаха ﷺ сказал: “В последние времена появятся молодые и неразумные люди, которые станут произносить слова лучших созданий, однако вера (этих людей) не выйдет за пределы их глоток, они отойдут от ислама подобно выпущенной из лука стреле. Поэтому, где бы вы ни встретили (таких), убивайте их, ибо, поистине, убивший их в День воскресения получит за это награду”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6930</td></tr><tr><td>Arabic No</td><td>6930</td></tr><tr><td>Reference</td><td>Book 88 Hadith 12</td></tr></tbody></table></div>
 

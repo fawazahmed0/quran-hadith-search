@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) said, "My Lake-Fount is (so large 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abi Maryam] telah menceritakan kepada kami [Nafi' bin Umar] dari [Ibnu Abi Mulaikah] mengatakan; [Abdullah bin Umar] mengatakan, Nabi shallallahu 'alaihi wasallam bersabda: "Telagaku jauhnya sejauh perjalanan sebulan, airnya lebih putih daripada susu, dan baunya lebih wangi daripada minyak misik, dan cangkirnya bagaikan bintang di langit, siapa meminumnya ia tak akan haus selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6579</td></tr><tr><td>Arabic No</td><td>6579</td></tr><tr><td>Reference</td><td>Book 81 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «(Для того чтобы добраться от одного берега) моего Водоёма (до другого, потребуется) месяц пути, вода его белее молока, аромат его приятнее (благоухания) мускуса, а кувшины(, имеющиеся на его берегах, по численности своей) подобны небесным звёздам, и тот, кто напьётся из него, уже никогда не испытает жажды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6579</td></tr><tr><td>Arabic No</td><td>6579</td></tr><tr><td>Reference</td><td>Book 81 Hadith 167</td></tr></tbody></table></div>
 

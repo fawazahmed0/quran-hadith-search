@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abdullah b. Umar who narrates from the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin al-Mutsanna] keduanya berkata, telah menceritakan kepada kami [Yahya yaitu al-Qaththan]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dan [Ibnu Numair] semuanya dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Yahya bin Yahya] dan lafazh tersebut miliknya, dia berkata; aku membacakannya di hadapan [Malik]; dari [Nafi'] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa membawa pedang untuk menyerang kami, maka dia bukan dari golongan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>280</td></tr><tr><td>Arabic No</td><td>98</td></tr><tr><td>Reference</td><td>Book 1 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Пророк ﷺ сказал: «Тот, кто поднял на нас оружие, не имеет к нам отношения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>280</td></tr><tr><td>Arabic No</td><td>98</td></tr><tr><td>Reference</td><td>Book 1 Hadith 186</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tawus:Ibn 'Abbas recited the Qur'anic Verse:--'Except to be kind to me 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Syu'bah] telah bercerita kepadaku ['Abdul Malik] dari [Thawus] dari [Ibnu 'Abbas radliallahu 'anhuma] tentang firman Allah Ta'ala: "Illal mawaddatu fil qurbaa" ("Kecuali kasih sayang dalam kekeluargaan") (QS. Asysyura 23), Perawi berkata; "Maka Sa'id bin Jubair berkata; "Maksudnya adalah kerabat Nabi Muhammad Shallallhu 'alaihi wa salam". Lalu (Ibnu 'Abbas) berkata; "Sesungguhnya Nabi Shallallhu 'alaihi wa salam bukanlah marga dari suku Quraisy tetapi beliau punya hubungan kekerabatan terhadap mereka, maka diturunkanlah wahyu Allah Ta'ala itu kepadanya, yaitu maksudnya kecuali kalian menyambung kekerabatan antara aku dan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3497</td></tr><tr><td>Arabic No</td><td>3497</td></tr><tr><td>Reference</td><td>Book 61 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Тауса, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, прочитал: «…кроме любви ради близости» (сура «аш-Шура», аят 23) и Са‘ид ибн Джубейр сказал: «(Здесь имеется ввиду) родство Мухаммада ﷺ». А Ибн ‘Аббас сказал: «Не было в (племени) курайш такого рода, в котором Пророк ﷺ не имел бы родственников, и поэтому ему было ниспослано: “(Я не прошу у вас ничего, кроме того,) чтобы вы поддерживали узы родства, существующие между нами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3497</td></tr><tr><td>Arabic No</td><td>3497</td></tr><tr><td>Reference</td><td>Book 61 Hadith 7</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said:The Messenger of Allah (ﷺ) said: If any one of you offers pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Suhail bin Abu Shalih] dari [Ayahnya] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian sedang shalat, lalu dia merasakan ada sesuatu gerakan pada duburnya, kemudian dia ragu, apakah dia berhadats atau tidak, maka janganlah dia meninggalkan (shalatnya) sehingga dia mendengar bunyi (kentutnya) atau mencium baunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (362)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>177</td></tr><tr><td>Arabic No</td><td>177</td></tr><tr><td>Reference</td><td>Book 1 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «Когда кто-то из вас находится в молитве и почувствует какое-то движение в ягодицах (так, что он подумает) осквернился он или нет, и вызывает у него сомнения, то пусть не прекращает молитву, пока не услышит звук или не почувствует запах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (362)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>177</td></tr><tr><td>Arabic No</td><td>177</td></tr><tr><td>Reference</td><td>Book 1 Hadith 177</td></tr></tbody></table></div>
 

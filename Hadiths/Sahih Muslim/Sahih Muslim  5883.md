@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:He who is presented with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] keduanya dari [Al Muqri]. [Abu Bakr] berkata; Telah menceritakan kepada kami [Abu 'Abdur Rahman Al Muqri] dari [Sa'id bin Abu Ayyub]; Telah menceritakan kepadaku ['Ubaidullah bin Abu Ja'far] dari ['Abdur Rahman Al A'raj] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa ditawarkan kepadanya wewangian maka janganlah menolaknya, karena sesungguhnya wangian-wangian ringan bebannya dan harum baunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5883</td></tr><tr><td>Arabic No</td><td>2253</td></tr><tr><td>Reference</td><td>Book 40 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Пусть тот, кому предложат базилик, не отвергает его, ибо его легко носить, и он обладает приятным запахом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5883</td></tr><tr><td>Arabic No</td><td>2253</td></tr><tr><td>Reference</td><td>Book 40 Hadith 22</td></tr></tbody></table></div>
 

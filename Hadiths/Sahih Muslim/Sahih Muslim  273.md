@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Dharr (que Dieu l'agrée) : L'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Ahmad bin Khirasy] keduanya berkata, telah menceritakan kepada kami [Abd ash-Shamad bin Abd al-Warits] telah menceritakan kepada kami [bapakku] dia berkata, telah menceritakan kepada kami [Husain al-Mu'allim] dari [Ibnu Buraidah] bahwa [Yahya bin Ya'mar] telah menceritakan kepadanya, bahwa [Abu al-Aswad ad-Dailami] telah menceritakan kepadanya, bahwa [Abu Dzar] telah menceritakan kepadanya, dia berkata, "Aku mendatangi Nabi shallallahu 'alaihi wasallam yang saat itu sedang tidur, dan beliau saat itu memakai baju putih. Kemudian saat aku mendatanginya (lagi), beliau masih tidur, kemudian ketika aku mendatanginya lagi beliau telah bangun. aku lantas duduk dengan menghadap ke arahnya, beliau lantas bersabda: "Tidaklah seorang hamba mengatakan, 'Tidak ada tuhan (yang berhak disembah) selain Allah', kemudian dia meninggal dengan berpegang teguh pada hal tersebut, melainkan dia pasti masuk surga.' Aku bertanya, 'Walaupun dia berzina dan mencuri.' Beliau menjawab: 'Walaupun dia berzina dan mencuri.' Aku bertanya, 'Walaupun dia berzina dan mencuri.' Beliau menjawab: 'Walaupun dia berzina dan mencuri.' Tiga kali. Kemudian pada kali keempatnya beliau berkata: 'Meskipun Abu Dzar kurang setuju.' Perawi berkata, "Abu Dzar pun keluar, sedangkan dia berkata, 'Meskipun Abu Dzar kurang setuju
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>273</td></tr><tr><td>Arabic No</td><td>94.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу аль-Асвад ад-Дийли передал, что Абу Зарр рассказал ему (следующее): «(Однажды, когда) я пришёл к Пророку ﷺ, оказалось, что он спит, и на нём была белая одежда. Через некоторое время я снова пришёл к нему, но он ещё спал, а потом я снова пришёл к нему, когда он уже проснулся. Я сел рядом с ним, и он сказал: “Любой раб (Аллаха), который скажет “Нет божества, достойного поклонения, кроме Аллаха”, а потом умрёт, не отступившись от этого, непременно войдёт в Рай”. Я спросил: “Даже если он прелюбодействовал и даже если воровал?!” (Пророк ﷺ) сказал: “Даже если он прелюбодействовал и даже если воровал!” Я опять спросил: “Даже если он прелюбодействовал и даже если воровал?!” и (Пророк ﷺ снова) сказал: “Даже если он прелюбодействовал и даже если воровал!” (Потом я снова задал тот же вопрос, на который он дал тот же ответ), а на четвёртый раз Пророк ﷺ добавил: “Хотя это и не нравится Абу Зарру”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>273</td></tr><tr><td>Arabic No</td><td>94.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 179</td></tr></tbody></table></div>
 

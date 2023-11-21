@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:The Prophet (ﷺ) used to keep his hair falling lo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah menceritakan kepada kami [Abdullah] dari [Yunus] dari [Az Zuhri] ia berkata, telah mengabarkan kepadaku ['Ubaidullah bin Abdullah bin 'Utbah] dari [Abdullah bin 'Abbas radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam menjuntaikan rambut sedangkan orang-orang musyrik menguraikan rambut kepala mereka ke belakang. Ahlul Kitab lebih suka menjuntaikan rambut mereka ke kening mereka dan Nabi shallallahu 'alaihi wasallam lebih suka bila bersesuaian dengan apa yang dilakukan oleh Ahlul Kitab dalam perkara yang tidak ada perintahnya. Setelah itu Rasulullah shallallahu 'alaihi wasallam menguraikan rambut kepala beliau (ke belakang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3944</td></tr><tr><td>Arabic No</td><td>3944</td></tr><tr><td>Reference</td><td>Book 63 Hadith 168</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ распускал волосы, тогда как многобожники расчёсывали их на пробор. Люди Писания (тоже) распускали волосы, а Пророк ﷺ любил следовать примеру людей Писания в том, относительно чего он не получал никаких велений (свыше, однако) потом Пророк ﷺ стал расчёсывать волосы на пробор
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3944</td></tr><tr><td>Arabic No</td><td>3944</td></tr><tr><td>Reference</td><td>Book 63 Hadith 168</td></tr></tbody></table></div>
 

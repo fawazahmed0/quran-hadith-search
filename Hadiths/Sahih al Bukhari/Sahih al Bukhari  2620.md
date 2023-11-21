@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abu Bakr:My mother came to me during the lifetime of Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari [Asma' binti Abi Bakr radliallahu 'anhuma] berkata; Ibuku menemuiku saat itu dia masih musyrik pada zaman Rasulullah shallallahu 'alaihi wasallam lalu aku meminta pendapat kepada Rasulullah shallallahu 'alaihi wasallam. Aku katakan; "Ibuku sangat ingin (aku berbuat baik padanya), apakah aku harus menjalin hubungan dengan ibuku?" Beliau menjawab: "Ya, sambunglah silaturrahim dengan ibumu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2620</td></tr><tr><td>Arabic No</td><td>2620</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Абу Бакр ас-Сиддик, да будет доволен Аллах ими обоими, сказала: «(В своё время) ко мне приехала моя мать, которая при жизни Посланника Аллаха ﷺ была многобожницей. Я обратилась за советом к Посланнику Аллаха ﷺ и сказала: “Ко мне приехала моя мать, которая чего-то хочет, так следует ли мне поддерживать с ней отношения?” — (на что) он ответил: “Да, тебе (следует делать это)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2620</td></tr><tr><td>Arabic No</td><td>2620</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
 

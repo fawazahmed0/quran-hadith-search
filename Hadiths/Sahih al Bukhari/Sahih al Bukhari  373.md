@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:the Prophet (ﷺ) prayed in a Khamisa (a square garment) having 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] berkata, telah menceritakan kepada kami [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] bahwa Nabi shallallahu 'alaihi wasallam shalat di atas kain yang bergambar. Lalu beliau melihat kepada gambar tersebut. Selesai shalat beliau berkata: "Pergilah dengan membawa kain ini kepada Abu Jahm dan gantilah dengan pakaian polos dari Abu Jahm. Sungguh kain ini tadi telah mengganggu shalatku." [Hisyam bin 'Urwah] berkata dari [Bapaknya] dari ['Aisyah] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Aku melihat pada gambarnya dan aku khawatir gambar itu menggangguku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>373</td></tr><tr><td>Arabic No</td><td>373</td></tr><tr><td>Reference</td><td>Book 8 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что однажды, когда Пророк ﷺ молился в (новой) украшенной одежде /хамиса/, взгляд его упал на её узоры. Закончив молиться, он велел: «Отнесите эту мою одежду Абу Джахму и принесите мне его одежду /анбиджанийа/, ибо она только что отвлекла меня от моей молитвы!»\nХишам ибн ‘Урва передал со слов своего отца (‘Урвы ибн аз-Зубайра), передавшего от ‘Аиши: «Пророк ﷺ сказал: “Когда я совершал молитву, я смотрел на её узоры и испугался, что она станет прельщать меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>373</td></tr><tr><td>Arabic No</td><td>373</td></tr><tr><td>Reference</td><td>Book 8 Hadith 25</td></tr></tbody></table></div>
 

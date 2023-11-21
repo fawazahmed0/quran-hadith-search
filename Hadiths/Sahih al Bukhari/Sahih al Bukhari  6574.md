@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ata (while Abu Huraira was narrating (see previous hadith)):Abu Sa'id 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6574</td></tr><tr><td>Arabic No</td><td>6574</td></tr><tr><td>Reference</td><td>Book 81 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ата сказал: «В это время Абу Са‘ид аль-Худри сидел вместе с Абу Хурайрой и не высказывал никаких возражений против того, что он говорил. Когда же Абу Хурайра дошёл до слов: “Вот тебе (то, чего ты пожелал), и ещё столько же!”». \nАбу Са‘ид сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Вот тебе (то, чего ты пожелал), и ещё в десять раз больше!”, а Абу Хурайра сказал: “Я запомнил: “…и ещё столько же”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6574</td></tr><tr><td>Arabic No</td><td>6574</td></tr><tr><td>Reference</td><td>Book 81 Hadith 162</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'aim b. 'Abdullah al-Mujmir reported:I saw Abu Huraira perform ablution. He wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Kuraib Muhammad Ibnul 'Ala'] dan [al Qasim bin Zakariya bin Dinar] dan [Abd bin Humaid] mereka berkata; telah menceritakan kepada kami [Khalid bin Makhlad] dari [Sulaiman bin Bilal] telah menceritakan kepadaku [Umarah bin Ghaziah al Anshari] dari [Nu'aim bin Abdullah al Mujmir] ia berkata, "Aku melihat [Abu Hurairah] berwudlu, ia membasuh muka dan membaguskannya, kemudian membasuh tangan kanannya hingga sampai lengan, kemudian membasuh tangan kirinya hingga sampai lengan. Setelah itu mengusap kepala, kemudian membasuh kaki kanannya hingga betis, kemudian membasuh kaki kirinya hingga betis. Kemudian ia berkata, "Seperti ini aku melihat Rasulullah shallallahu 'alaihi wasallam berwudlu." Abu Hurairah berkata, "Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Kalian pada hari kiamat akan bersinar karena sempurnanya wudlu, maka siapa dari kalian bisa memperpanjang cahayanya sinarnya hendaklah ia lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>579</td></tr><tr><td>Arabic No</td><td>246.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ну‘айм ибн ‘Абдуллах аль-Муджмир сказал: «(Однажды) я видел, как Абу Хурайра совершал омовение. (Сначала) он должным образом омыл лицо, потом правую руку и не только по локоть, но даже выше, потом левую руку и не только локоть, но даже выше, потом протёр голову, потом омыл правую ногу, захватив не только щиколотки, но и часть голени, а потом левую ногу, захватив не только щиколотки, но и часть голени. Потом он сказал мне: “Я видел, что так совершал омовение Посланник Аллаха ﷺ”, а потом сказал: “Посланник Аллаха ﷺ сказал: “Благодаря полному совершению омовения в День воскресения вы будете отмечены белыми звёздами во лбу и белыми кольцами на руках и ногах”, так пусть же тот из вас, кто сможет (сделать это), увеличит свою звезду и свои кольца”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>579</td></tr><tr><td>Arabic No</td><td>246.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 46</td></tr></tbody></table></div>
 

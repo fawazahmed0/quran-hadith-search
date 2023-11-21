@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:We got female captives in the war booty and we used
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad bin Asma'] Telah menceritakan kepada kami [Juwairiyah] dari [Malik bin Anas] dari [Az Zuhri] dari [Ibnu Muhairiz] dari [Abu Sa'id Al Khudri] ia berkata; Kami mendapatkan tawanan, lalu kami pun melakukan 'Azl, maka kami menanyakannya kepada Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Apakah kalian benar-benar melakukannya?" beliau mengatakannya sebanyak tiga kali. Beliau meelanjutkan: "Tidak ada sesuatupun yang telah ditetapkan terjadi hingga datangnya hari kiamat, kecuali ia pasti terjadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5210</td></tr><tr><td>Arabic No</td><td>5210</td></tr><tr><td>Reference</td><td>Book 67 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «Захватив наложниц (во время военного похода), мы предохранялись (во время совершения с ними полового акта). Затем мы спросили об этом Посланника Аллаха ﷺ, и он трижды воскликнул: “Неужели вы это делаете!?” Затем он сказал: “Поистине, всякая душа, которой суждено существование до самого Судного дня, непременно появится”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5210</td></tr><tr><td>Arabic No</td><td>5210</td></tr><tr><td>Reference</td><td>Book 67 Hadith 143</td></tr></tbody></table></div>
 

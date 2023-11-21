@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdulah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Daud bin Qais] dari [Musa bin Yasar] dari [Abu Hurairah] dia berkata, Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa membeli kambing yang diikat puting susunya, maka ia boleh menahannya dan mengambil air susunya, jika ia berkenan dengan air susunya maka ia boleh memilikinya, tapi jika ia berkenan mengembalikannya (ia boleh mengembalikannya) dengan menyertakan satu sha' kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3830</td></tr><tr><td>Arabic No</td><td>1524.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3830</td></tr><tr><td>Arabic No</td><td>1524.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 30</td></tr></tbody></table></div>
 

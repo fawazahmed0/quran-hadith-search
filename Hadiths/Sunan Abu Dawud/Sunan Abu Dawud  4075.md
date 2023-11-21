@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: When I came to the Prophet (ﷺ), he was sitting wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Muhammad Al Qurasyi] berkata, telah menceritakan kepada kami [Hammad bin Salamah] berkata, telah mengabarkan kepada kami [Yunus bin Ubaid] dari [Ubaidah Abu Khidasy] dari [Abu Tamimah Al Hujaimi] dari [Jabir bin Sulaim] ia berkata, "Aku mendatangi Nabi shallallahu 'alaihi wasallam, beliau waktu itu sedang duduk ihtiba (duduk di atas bokong dan mendekap kedua lututnya menempel dada) dengan selimut, sementara ujung selimutnya mengenai kedua telapak kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4075</td></tr><tr><td>Arabic No</td><td>4075</td></tr><tr><td>Reference</td><td>Book 34 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира: «Я пришёл к Пророку ﷺ и увидел, что он сидит, завернувшись в плащ, бахрома которого касалась его ступней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4075</td></tr><tr><td>Arabic No</td><td>4075</td></tr><tr><td>Reference</td><td>Book 34 Hadith 56</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid bin 'Abdur-Rahman:Abu Huraira said that Abu Bakr sent him during
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] Telah menceritakan kepada kami [Ya'qub bin Ibrahim] Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu Syihab] bahwa [Humaid bin 'Abdur Rahman] Telah mengabarkan kepadanya bahwa bahwa [Abu Hurairah] mengabarkan kepadanya, bahwasanya Abu Bakr pernah mengutusnya saat musim haji, tepatnya saat Rasulullah shallallahu 'alaihi wasallam menunjuk Abu Bakar sebagai amiirul hajj. Itu terjadi sebelum haji wada'. Abu bakar mengutus Abu Hurairah bersama beberapa orang untuk mengumumkan kepada manusia bahwa "Tidak boleh orang musyrik melakukan haji setelah tahun tersebut, dan tidak boleh orang telanjang melakukan thawaf di Ka'bah." Dan Humaid berkata; Hari kurban adalah hari haji akbar menurut Hadits Abu Hurairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4657</td></tr><tr><td>Arabic No</td><td>4657</td></tr><tr><td>Reference</td><td>Book 65 Hadith 179</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что во время предшествовавшего прощальному паломничеству хаджа, руководить которым Посланник Аллаха, да благословит его Аллах и приветствует, назначил Абу Бакра, да будет доволен им Аллах, в день жертвоприношения (Абу Бакр) послал его в числе других возвестить людям, что со следующего года многобожникам не будет разрешено совершать хадж, а обнажённым — обход Каабы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4657</td></tr><tr><td>Arabic No</td><td>4657</td></tr><tr><td>Reference</td><td>Book 65 Hadith 179</td></tr></tbody></table></div>
 

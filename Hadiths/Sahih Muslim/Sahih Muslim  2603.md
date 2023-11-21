@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abbad b. Abdullah b. Zubair reported that he had heard 'A'isha, the wife of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru bin Harits] bahwa [Abdurrahman bin Qasim] telah menceritakan kepadanya bahwa [Muhammad bin Ja'far bin Zubair] telah menceritakan kepadanya bahwa [Abbad bin Abdullah bin Az Zubair] telah menceritakan bahwa ia pernah mendengar [Aisyah] isteri Nabi shallallahu 'alaihi wasallam berkata; Seorang laki-laki mendatangi Rasulullah shallallahu 'alaihi wasallam di masjid tepatnya pada bulan Ramadlan. Laki-laki itu berkata, "Wahai Rasulullah, saya telah binasa, saya telah binasa." Maka Rasulullah shallallahu 'alaihi wasallam pun bertanya padanya, "Ada apa denganmu?" laki-laki itu menjawab, "Saya telah menyetubuhi isteriku (pada siang hari di bulan Ramadlan)." Beliau bersabda: "Bersedekahlah." Ia berkata, "Demi Allah, wahai Nabiyullah, saya tidak mempunyai sesuatu pun dan saya tidak sanggup untuk menuanaikannya." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau begitu, duduklah." Dalam ke adaan seperti itu, tiba-tiba datanglah seorang laki yang menuntun himar yang membawa makanan, maka Rasulullah shallallahu 'alaihi wasallam pun berdiri dan bertanya: "Kemanakah laki-laki yang (katanya) binasa tadi?" Kemudian beliau bersabda: "Bersedekahlah dengan ini." maka laki-laki itu berkata, "Wahai Rasulullah, apakah mesti (aku berikan) kepada orang lain? Demi Allah, kami benar-benar dalam keadaan lapar, kami tidak miliki makanan sedikit pun." Akhirnya beliau bersabda: "Kalau begitu, makanlah (bersama keluargamu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2603</td></tr><tr><td>Arabic No</td><td>1112.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2603</td></tr><tr><td>Arabic No</td><td>1112.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 109</td></tr></tbody></table></div>
 

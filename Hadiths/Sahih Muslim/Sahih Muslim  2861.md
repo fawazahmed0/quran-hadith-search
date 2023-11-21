@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aïcha, la femme du Prophète (رضي الله عنها), a dit : J'ai entendu l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] dan [Ahmad bin Isa] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Makhramah bin Bukair] dari [bapaknya] ia berkata, saya mendengar [Ubaidullah bin Miqsam] berkata, saya mendengar [Al Qasim bin Muhammad] berkata, saya mendengar [Aisyah] isteri Nabi shallallahu 'alaihi wasallam berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada empat macam binatang yang kesemuanya boleh dibunuh baik di luar tanah haram atau di dalamnya, yaitu; elang, gagak, tikus dan anjing gila." Ubaidullah bin Miqsam berkata; saya bertanya kepada Al Qasim, "Bagaimana dengan Ular?" ia menjawab, "Ular juga diboleh dibunuh, meskipun kecil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2861</td></tr><tr><td>Arabic No</td><td>1198.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2861</td></tr><tr><td>Arabic No</td><td>1198.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 71</td></tr></tbody></table></div>
 

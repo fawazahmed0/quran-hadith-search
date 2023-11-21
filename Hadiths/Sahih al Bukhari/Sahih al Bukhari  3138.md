@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:While Allah's Messenger (ﷺ) was distributing the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muslim bin Ibrahim] telah bercerita kepada kami [Qurrah binKhalid] telah bercerita kepada kami ['Amru bin Dinar] dari [Jabir bin 'Abdullah radliallahu 'anhu] berkata; "Ketika Rasulullah Shallallahu'alaihiwasallam membagi-bagi ghanimah di al-Ji'ranah, tiba-tiba seseorang berkata kepada Beliau; "Berbuat adillah!". Maka Beliau berkata: "Sungguh celaka aku bila tidak berbuat adil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3138</td></tr><tr><td>Arabic No</td><td>3138</td></tr><tr><td>Reference</td><td>Book 57 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Когда Посланник Аллаха ﷺ делил военную добычу в Джи‘ране, какой-то человек сказал ему: “(Дели) по справедливости!” — (на что Пророк ﷺ) сказал ему: “Я окажусь в бедственном положении, если не буду придерживаться справедливости!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3138</td></tr><tr><td>Arabic No</td><td>3138</td></tr><tr><td>Reference</td><td>Book 57 Hadith 46</td></tr></tbody></table></div>
 

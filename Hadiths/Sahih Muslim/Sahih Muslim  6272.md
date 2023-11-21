@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported Allah's Messenger (ﷺ) as saying:There are many persons among
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Waki']; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] seluruhnya dari [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] dan lafazh ini miliknya; Telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari [Murrah] dari [Abu Musa] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "laki-laki yang sempurna itu banyak, sedangkan perempuan yang sempurna itu adalah Maryam bin Imran dan Asiah istri Fir'aun. Dan sesungguhnya keutamaan Aisyah di antara kaum wanita yang lain adalah seperti keunggulan tsarid (bubur) di banding dengan makanan yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6272</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 44 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6272</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 44 Hadith 102</td></tr></tbody></table></div>
 

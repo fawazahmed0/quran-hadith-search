@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abi Qilabah reported:I was in Syria (having) a circle (of friends). in which was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Qilabah] dia berkata, "Ketika di negeri Syam, saya mengikuti suatu halaqah (majlis ilmu), ternyata di situ juga ada Muslim bin Yasar. Tidak lama kemudian [Abu Al Asy'ats] datang." Abu Qilabah melanjutkan, "Lalu orang-orang yang ikut bermajlis berkata, "Abu Al 'Asy'ats telah datang, Abu Al 'Asy'ats telah datang!" Ketika ia telah duduk, maka aku pun berkata kepadanya, "Riwayatkanlah hadits kepada saudara kami, yaitu hadits [Ubadah bin Shamit]." Dia menjawab, "Baiklah. Suatu ketika kami mengikuti suatu peperangan, dan dalam peperangan tersebut ada juga Mu'awiyah, lalu kami mendapatkan ghanimah yang melimpah ruah yang di antaranya adalah wadah yang terbuat dari perak. Mu'awiyah kemudian menyuruh seseorang untuk menjual wadah tersebut ketika orang-orang menerima pembagian harta ghanimah, maka mereka beramai-ramai menawarnya, ternyata hal itu sampai di telinga 'Ubadah bin Shamit, maka ia pun berdiri dan berkata, "Sesungguhnya saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam melarang jual beli emas dengan emas, perak dengan perak, gandum dengan gandum, jewawut dengan jewawut, kurma dengan kurma, garam dengan garam kecuali jika dengan takaran yang sama dan tunai, barangsiapa melebihkan, maka dia telah melakukan praktek riba." Lantas mereka menolak dan tidak jadi mengambilnya. Dan hal itu sampai ke telinga Mu'awiyah, maka dia berdiri dan berkhutbah, dia berkata, "Kenapa ada beberapa lelaki mereka menyampaikan hadits dari Rasulullah shallallahu 'alaihi wasallam, padahal kami telah bersama beliau dan kami tidak pernah mendengar hal itu dari beliau?" lantas Ubadah bin Shamit berdiri dan mengulangmi ceritanya. Kemudian dia berkata, "Sungguh, kami akan senantiasa meriwayatkan apa yang kami dengar dari Rasulullah shallallahu 'alaihi wasallam, walaupun Mu'awiyah tidak menyukainya." Atau dia berkata, "Saya tidak peduli padanya walau harus dipecat dari tentaranya ketika berada di malam hari yang sangat gelap gulita." Hammad mengatakan, "Ini, atau seperti itu." Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ibnu Abu Umar] semuanya dari [Abdul Wahhab Ats Tsaqafi] dari [Ayyub] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4061</td></tr><tr><td>Arabic No</td><td>1587.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4061</td></tr><tr><td>Arabic No</td><td>1587.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 100</td></tr></tbody></table></div>
 

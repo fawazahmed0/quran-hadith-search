@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdourrahmân Ibn 'Awf (que Dieu l'agrée) a dit : Etant dans le rang le jour de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Yusuf bin Al Majisyun] dari [Shalih bin Ibrahim bin Abdurrahman bin Auf] dari [ayahnya] dari [Abdurrahman bin Auf] bahwa dia berkata, "Ketika aku berdiri dalam barisan tentara pada saat perang Badar, aku melihat ke samping kanan dan kiriku, ternyata aku berada di antara dua anak muda dari kaum anshar, padahal sebelumnya aku berangan-angan berada di antara dua orang yang lebih kuat daripada mereka berdua. Kemudian salah seorang dari keduanya memberi isyarat kepadaku dengan matanya seraya berkata, "Wahai paman, apakah paman mengetahui orang yang bernama Abu Jahal?" Aku menjawab, "Ya, lantas apa keperluanmu dengannya wahai anak saudaraku?" dia menjawab, "Aku mendapat kabar bahwa ia telah mencela Rasulullah shallallahu 'alaihi wasallam, demi Dzat yang jiwaku berada di tangan-Nya, jika aku melihatnya maka aku tidak akan berpisah darinya sampai ada di antara kami yang menemui ajalnya." Abdurrahman melanjutkan, "Aku pun terkejut mendengarnya. Lalu seorang lainnya memberi isyarat kepadaku dengan matanya seraya bertanya dengan pertanyaan yang sama. Tidak lama setelah itu, aku melihat Abu Jahal bergerak di antara kerumunan orang-orang sehingga aku berkata kepada keduanya, "Tidakkah kalian lihat, itulah orang yang kalian tanyakan kepadaku tadi." Abdurrahman melanjutkan, "Setelah itu mereka berdua segera memburunya dan memukulkan pedang mereka hingga akhirnya mereka berdua dapat membunuh Abu Jahal. Setelah membunhnya, keduanya kembali menemui Rasulullah shallallahu 'alaihi wasallam dan memberitahukan kepada beliau, maka beliau pun bertanya: 'Siapakah di antara kalian berdua yang telah membunuhnya? ' masing-masing dari mereka menjawab, 'Akulah yang telah membunuhnya! ' Beliau bersabda: 'Apakah kalian berdua telah membersihkan pedang kalian? ' Mereka berkata, 'Belum.' Beliaupun melihat kedua pedang itu sambil bersabda: 'Kalian berdua telah membunuhnya.' Kemudian beliau memberikan harta yang diambil dari musuh yang terbunuh kepada Mu'adz bin 'Amru bin Jamuh. Sedangkan kedua anak muda itu adalah Mu'adz bin 'Amru bin Jamuh dan Mu'adz bin 'Afra
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4569</td></tr><tr><td>Arabic No</td><td>1752</td></tr><tr><td>Reference</td><td>Book 32 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4569</td></tr><tr><td>Arabic No</td><td>1752</td></tr><tr><td>Reference</td><td>Book 32 Hadith 50</td></tr></tbody></table></div>
 

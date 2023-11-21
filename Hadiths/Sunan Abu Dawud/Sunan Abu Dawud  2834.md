@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Kurz al-Ka'biyyah: I heard the Messenger of Allah (ﷺ) say: Two re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Sufyan] dari ['Amr bin Dinar], dari ['Atho'], dari [Habibah binti Maisarah], dari [Ummu Kurz Al Ka'biyyah], ia berkata; saya mendengar Rasulullah shallallahu wa'alaihi wa sallam bersabda: "Untuk anak laki-laki dua kambing yang sama dan untuk anak perempuan satu kambing." Abu Daud berkata; saya mendengar Ahmad, ia berkata; mukafiatani yaitu yang sama atau saling berdekatan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2834</td></tr><tr><td>Arabic No</td><td>2834</td></tr><tr><td>Reference</td><td>Book 16 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Курз аль-Ка‘бийя, да будет доволен ею Аллах: «Я слышала, как Посланник Аллаха ﷺ сказал: “За мальчика режутся две одинаковые овцы, а за девочку одна”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2834</td></tr><tr><td>Arabic No</td><td>2834</td></tr><tr><td>Reference</td><td>Book 16 Hadith 47</td></tr></tbody></table></div>
 

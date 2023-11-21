@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: I witnessed sacrificing along with the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Ya'qub Al Iskandari], dari ['Amr] dari [Al Muththalib] dari [Jabir bin Abdullah], ia berkata; saya menyaksikan bersama Rasulullah shallallahu 'alaihi wasallam Shalat Adha di lapangan, kemudian tatkala menyelesaikan khutbahnya beliau turun dari mimbarnya, dan beliau diberi satu ekor domba kemudian Rasulullah shallallahu 'alaihi wasallam menyembelihnya, dan mengucapkan: "BISMILLAAHI WALLAAHU AKBAR, HAADZA 'ANNII WA 'AN MAN LAM YUDHAHHI MIN UMMATI" (Dengan nama Allah, Allah Maha Besar, ini (kurban) dariku dan orang-orang yang belum berkurban dari umatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2810</td></tr><tr><td>Arabic No</td><td>2810</td></tr><tr><td>Reference</td><td>Book 16 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом: «Я совершил с посланником Аллаха ﷺ праздничную молитву в день жертвоприношения в месте, где она обычно совершалась. Он произнёс проповедь, а затем спустился с минбара и к нему привели барана, которого Посланник Аллаха ﷺ зарезал своей рукой со словами: “С именем Аллаха, и Аллах Велик… Это от меня и от тех, кто не совершил жертвоприношение из моей общины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2810</td></tr><tr><td>Arabic No</td><td>2810</td></tr><tr><td>Reference</td><td>Book 16 Hadith 23</td></tr></tbody></table></div>
 

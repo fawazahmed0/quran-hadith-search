@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':The time taken by the Prophet (ﷺ) in prostrations, bowing, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdurrahim] berkata, telah menceritakan kepada kami [Abu Ahmad Muhammad bin 'Abdullah Az Zubairi] berkata, telah menceritakan kepada kami [Mis'ar] dari [Al Hakam] dari ['Abdurrahman bin Abu Laila] dari [Al Bara'] berkata, "Sujudnya Nabi shallallahu 'alaihi wasallam, rukuk, dan duduknya antara dua sujud semuanya hampir sama (panjangnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>820</td></tr><tr><td>Arabic No</td><td>820</td></tr><tr><td>Reference</td><td>Book 10 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Бараа сказал: «Земной поклон Пророка ﷺ его поясной поклон и сидение между двумя земными поклонами были примерно равны (по времени)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>820</td></tr><tr><td>Arabic No</td><td>820</td></tr><tr><td>Reference</td><td>Book 10 Hadith 214</td></tr></tbody></table></div>
 

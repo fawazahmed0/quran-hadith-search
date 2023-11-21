@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira is reported to have heard Allah's Messenger (ﷺ) as saying:Allah do
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Bisyr bin Al Hakam] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] telah menceritakan kepada kami [Yazid] ia adalah Ibnul Hadi, dari [Muhammad bin Ibrahim] dari [Abu Salamah] dari [Abu Hurairah] bahwa mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah tidak menaruh perhatian terhadap sesuatu, seperti perhatianNya terhadap Nabi ketika melagukan Al Qur'an dengan suara yang indah dan nyaring." Dan telah menceritakan kepadaku [Anak saudara Ibnu Wahab] telah menceritakan kepada kami [pamanku] Abdullah bin Wahb, telah mengabarkan kepadaku [Umar bin Malik] dan [Haiwah bin Syuraih] dari [Ibnul Hadi] dengan isnad ini semisalnya. Dan ia mengatakan; Bahwa Rasulullah shallallahu 'alaihi wasallam tidak mengatakan; "Mendengar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1847</td></tr><tr><td>Arabic No</td><td>792.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 275</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что он слышал, как Посланник Аллаха ﷺ сказал: «Аллах ничему не внимает так, как внимает Он (чтению) пророка, обладающего красивым голосом и вслух читающего Коран нараспев»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1847</td></tr><tr><td>Arabic No</td><td>792.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 275</td></tr></tbody></table></div>
 

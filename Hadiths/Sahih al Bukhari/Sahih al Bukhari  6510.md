@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:There was a leather or wood container full of water in front of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin 'Ubaid bin maimun], telah menceritakan kepada kami [Isa bin Yunus] dari [Umar bin Sa'id] mengatakan, telah meberitakan kepadaku [Ibnu Abi Mulaikah] bahwasanya [Amru bin Dzakwan] pembantu 'Aisyah memberitakan kepadanya bahwa ['Aisyah] radliyallahu'anha mengatakan; Di depan Rasulullah Shallallahu'alaihiwasallam ada kantong kulit atau bejana berisi air -Umar ragu kepastiannya--, lantas beliau masukkan kedua tangannya dalam air dan beliau usap wajahnya dengan keduanya dan beliau ucapkan: "Laa-ilaaha-illallah, sungguh kematian diriingi sekarat, sungguh kematian diriingi sekarat, " kemudian beliau julurkan tangannya dan berseru: "Ya Allah, pertemukanlah aku dengan kekasihku yang tertinggi, " hingga akhirnya beliau wafat dan tangannya dalam keadaan miring. Abu Ubaidullah mengatakan dengan redaksi 'bejana kayu dan kantung air dari kulit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6510</td></tr><tr><td>Arabic No</td><td>6510</td></tr><tr><td>Reference</td><td>Book 81 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказывала: «Перед Посланником Аллаха ﷺ находился сосуд (или: чаша) с водой, куда он опускал руки, после чего проводил ими по своему лицу и говорил: “Нет божества, достойного поклонения, кроме Аллаха, поистине, смерти (предшествует) агония!” — а потом он поднял свою руку и стал говорить: “(О Аллах, позволь мне оказаться) в высшем обществе!”, пока не умер и рука его не упала»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6510</td></tr><tr><td>Arabic No</td><td>6510</td></tr><tr><td>Reference</td><td>Book 81 Hadith 99</td></tr></tbody></table></div>
 

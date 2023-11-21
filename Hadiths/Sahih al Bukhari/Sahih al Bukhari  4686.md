@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:Allah's Messenger (ﷺ) said, "Allah gives respite to the oppr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah bin Al Fadll] Telah mengabarkan kepada kami [Abu Mu'awiyah] Telah menceritakan kepada kami [Buraid bin Abu Burdah] dari [Abu Burdah] dari [Abu Musa radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah Subhanahu wa Ta 'ala akan menangguhkan siksaan bagi orang yang berbuat zhalim. Dan apabila Allah telah menghukumnya, maka Dia tidak akan pernah melepaskannya." Kemudian Rasulullah membaca ayat yang berbunyi: 'Begitulah adzab Tuhanmu, apabila Dia mengadzab penduduk negeri-negeri yang berbuat zhalim. Sesungguhnya adzab-Nya itu sangat pedih dan keras.' (Qs. Huud (11):
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4686</td></tr><tr><td>Arabic No</td><td>4686</td></tr><tr><td>Reference</td><td>Book 65 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «Поистине, Аллах даёт отсрочку несправедливому, но, когда Он схватит его, то уже не отпустит». \n(Абу Муса, да будет доволен им Аллах,) сказал: «А потом он прочитал (аят, в котором сказано): “Такова хватка Господа твоего, когда Он хватает (обитателей) селений, проявляющих несправедливость. Поистине, хватка Его мучительна, сурова!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4686</td></tr><tr><td>Arabic No</td><td>4686</td></tr><tr><td>Reference</td><td>Book 65 Hadith 208</td></tr></tbody></table></div>
 

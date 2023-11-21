@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Is-haq:Anas bin Malik said, "My grandmother Mulaika invited Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ishaq bin 'Abdullah bin Abu Thalhah] dari [Anas bin Malik] bahwa neneknya, Mulaikah, mengundang Rasulullah shallallahu 'alaihi wasallam untuk menghadiri hidangan yang ia masak untuk beliau. Beliau kemudian menyantap makanan tersebut kemudian bersabda: "Berdirilah, aku akan pimpin kalian shalat." Anas berkata, "Maka aku berdiri di tikar milik kami yang sudah lusuh dan hitam akibat sering digunakan. Aku lalu memercikinya dengan air, kemudian Rasulullah shallallahu 'alaihi wasallam berdiri diatasnya. Aku dan seorang anak yatim lalu membuat barisan di belakang beliau, sementara orang tua (nenek) berdiri di belakang kami. Rasulullah shallallahu 'alaihi wasallam lalu shalat memimpim kami sebanyak dua rakaat lalu pergi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>380</td></tr><tr><td>Arabic No</td><td>380</td></tr><tr><td>Reference</td><td>Book 8 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, о том, что (однажды) его бабушка Мулейка, да будет доволен ею Аллах, пригласила Посланника Аллаха ﷺ отведать еды, которую она приготовила для него. Он отведал это угощение, а потом сказал: «Становитесь, и я помолюсь с вами».\nАнас сказал: «Тогда я подошёл к нашей подстилке, почерневшей от долгого использования, и побрызгал её водой, после чего (на неё) встал Посланник Аллаха ﷺ. За ним встали мы с сиротой, а за нами — старуха Мулейка, и Посланник Аллаха ﷺ совершил с нами молитву в два рак‘ата, а потом ушёл»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>380</td></tr><tr><td>Arabic No</td><td>380</td></tr><tr><td>Reference</td><td>Book 8 Hadith 32</td></tr></tbody></table></div>
 

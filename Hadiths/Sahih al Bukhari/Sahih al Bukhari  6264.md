@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Hisham:We were in the company of the Prophet (ﷺ) and he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] dia berkata; telah menceritakan kepadaku [Ibnu Wahb] dia berkata; telah mengabarkan kepadaku [Haiwah] dia berkata; telah menceritakan kepadaku [Abu 'Aqil Zuhrah bin Ma'bad] dia mendengar kakeknya [Abdullah bin Hisyam] dia berkata; "Kami bersama nabi shallallahu 'alaihi wasallam ketika itu beliau tengah menggandeng tangan Umar bin Khatthab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6264</td></tr><tr><td>Arabic No</td><td>6264</td></tr><tr><td>Reference</td><td>Book 79 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Хишам сказал: «Мы были с Пророком ﷺ, когда он держал ‘Умара ибн аль-Хаттаба за руку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6264</td></tr><tr><td>Arabic No</td><td>6264</td></tr><tr><td>Reference</td><td>Book 79 Hadith 38</td></tr></tbody></table></div>
 

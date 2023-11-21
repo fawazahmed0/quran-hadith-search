@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:We did not, write anything from the Prophet (ﷺ) except the Qur'a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim at-Taymiy] dari [bapaknya] dari ['Ali radliallahu 'anhu] berkata; "Tidak ada yang kami tulis dari Nabi shallallahu 'alaihi wasallam kecuali Al Qur'an dan apa yang ada pada ash-shahifah (lembaran-lembaran hadits) ini", dimana Nabi shallallahu 'alaihi wasallam bersabda: "Madinah adalah tanah suci yang wilayahnya antara gunung ini hingga wilayah anu. Maka barangsiapa yang berbuat kemungkaran (bid'ah) yang dilarang agama didalamnya atau membantu orang berbuat bid'ah maka orang itu akan mendapat laknat dari Allah, para malaikat dan seluruh manusia, dan tidak akan diterima darinya amalan 'ibadah wajib dan sunnahnya" (atau taubat dan tebusannya). Dan perlindungan Kaum Muslimin adalah sama, maksudnya orang yang paling rendahpun bisa menggunakan hak perlindungannya. Maka barangsiapa melanggar ikatan perjanjian seorang muslim maka orang itu akan mendapat laknat dari Allah, para malaikat dan seluruh manusia dan tidak akan diterima darinya amalan 'ibadah wajib dan sunnahnya". Dan siapapun budak yang berwala' bukan kepada majikannya, maka ia mendapat laknat dari Allah, para malaikat dan seluruh manusia dan tidak akan diterima darinya amalan 'ibadah wajib dan sunnahnya". Berkata Abu Musa telah bercerita kepada kami Hasyim bin Al Qasim telah bercerita kepada kami Ishaq bin Sa'id dari bapaknya dari Abu Hurairah radliallahu 'anhu berkata; "Bagaimana yang kalian lakukan jika kalian tidak bisa lagi mengambil dinar dan juga dirham (jizyah)?". Ditanyakan kepadanya; "Bagaimana kamu melihatnya hal itu dapat terjadi, wahai Abu Hurairah?". Dia menjawab; "Bagiku, demi Dzat yang jiwa Abu Hurairah berada di tangan-Nya, aku mengambilnya seorang yang jujur (muhammad) dan berita yang dibawanya adalah benar. Mereka tanyakan "Apakah itu?". Dia berkata; "Itu karena perjanjian Allah dan Rasul-Nya telah dilanggar, sehingga Allah mengeraskan hati-hati orang ahlu dzimmah lalu mereka enggan mengeluarkan harta yang ada ditangan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3179</td></tr><tr><td>Arabic No</td><td>3179</td></tr><tr><td>Reference</td><td>Book 58 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Мы не записывали ничего из сказанного Пророком ﷺ, за исключением Корана и того, что написано в этом свитке. Пророк ﷺ сказал: “Медина является заповедной территорией от ‘Аира до такого-то (места), и всякого, кто совершит здесь какое-нибудь нововведение (в религии) или предоставит убежище тому, кто будет вводить новшества в религию, постигнет проклятие Аллаха, ангелов и всех людей, и от него не будет принято ни дополнительное, ни обязательное. Защита мусульман одна, и действительна она и тогда, когда её предоставляет нижайший из них, того же, кто нарушит защиту, предоставленную мусульманином, постигнет проклятие Аллаха, ангелов и всех людей, и от него не будет принято ни дополнительное, ни обязательное. И того, кто называет своими покровителями без разрешения (настоящих) покровителей, постигнет проклятие Аллаха, ангелов и всех людей, и от него не будет принято ни дополнительное, ни обязательное”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3179</td></tr><tr><td>Arabic No</td><td>3179</td></tr><tr><td>Reference</td><td>Book 58 Hadith 21</td></tr></tbody></table></div>
 

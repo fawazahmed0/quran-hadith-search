@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hamza b. 'Amr al-Aslami (Allah be pleased with him) said:Messenger of Allah, I f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir] dan [Harun bin Sa'id Al Aili] -Harun berkata- Telah menceritakan kepada kami -sementara Abu Thahir berkata- telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru bin Harits] dari [Abul Aswad] dari [Urwah bin Zubair] dari [Abu Murawih] dari [Hamzah bin Amru Al Aslami] radliallahu 'anhu, bahwa ia berkata, "Wahai Rasulullah, aku kuat untuk berpuasa dalam perjalanan. Berdosakah jika aku berpuasa?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Berbuka puasa saat dalam perjalanan merupakan rukhshah (keringanan) dari Allah. Siapa yang mengambilnya maka itu adalah baik, namun siapa yang lebih suka untuk berpuasa, maka tidak ada dosa atasnya." Harun berkata dalam haditsnya, "Itu adalah rukhshah." namun ia tidak menyebutkan; "Dari Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2629</td></tr><tr><td>Arabic No</td><td>1121.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2629</td></tr><tr><td>Arabic No</td><td>1121.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 135</td></tr></tbody></table></div>
 

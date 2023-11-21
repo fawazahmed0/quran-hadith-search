@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd Allah b. Unais:The Messenger of Allah (ﷺ) sent me to Khalid b. S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar Abdullah bin 'Amru] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Muhammad bin Ishaq] dari [Muhammad bin ja'far] dari [Ibnu Abdullah bin Unais] dari [ayahnya] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah mengutusku untuk menemui Khalid bin Sufyan Al Hudzali, sedangkan dia berada di daerah antara 'Uranah dan 'Arafat, beliau bersabda: "Pergilah dan bunuhlah dia." Abdullah bin Unais berkata; "Maka aku dapat melihatnya sedangkan waktu shalat Ashar telah tiba, aku berkata (dalam dalam hati);; "Aku khawatir jika aku mengakhirkan shalat Ashar, akan terjadi sesuatu antara aku dengan dia." Maka aku terus saja berjalan sambil mengerjakan shalat dengan memberi isyarat, ketika jarakku dengannya semakin dekat, dia berkata kepadaku; "Siapakah kamu?" jawabku; "Aku adalah seseorang dari Arab, telah sampai kepadaku bahwa dirimu telah mengumpulkan (orang-orang) untuk memerangi laki-laki ini, maka aku datang untuk urusan tersebut. ' Dia berkata; "Memang aku berhajat seperti itu." Sesaat kemudian aku jalan-jalan bersamanya, ketika keadaan memungkinkan bagiku (untuk membunuhnya), maka aku langsung mengayunkan pedangku menebasnya hingga dia mati terkapar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1249</td></tr><tr><td>Arabic No</td><td>1249</td></tr><tr><td>Reference</td><td>Book 4 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухаммад ибн Джа‘фар передал от Ибн ‘Абдуллах ибн Унайса, передавшего со слов своего отца, который сказал: «Посланник Аллаха ﷺ отправил меня к Халиду ибн Суфьяну аль-Хузалий, когда тот находился возле ‘Ураны и ‘Арафы, и сказал (мне): «Иди и убей его!» Он сказал: «Я увидел его, когда наступило время послеполуденной молитвы, и сказал (про себя): «Я опасаюсь, что между мной и ним произойдет что-то, что станет причиной выхода времени молитвы». И я двинулся пешком в сторону (‘Ураны) совершая молитву знаками, и когда я приблизился к нему, он спросил меня: «Кто ты?» Я ответил: «Человек из числа арабов. До меня дошло, что ты собираешь (войска) для (битвы) с этим человеком, и я пришёл к тебе по этой причине». (Халид) сказал: «Именно этим я и занят». И я шёл с ним какое-то время и когда выдался удачный момент, я стал разить его мечом, пока тот не умер»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1249</td></tr><tr><td>Arabic No</td><td>1249</td></tr><tr><td>Reference</td><td>Book 4 Hadith 52</td></tr></tbody></table></div>
 

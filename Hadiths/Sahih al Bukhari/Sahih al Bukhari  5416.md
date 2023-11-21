@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The family of Muhammad had not eaten wheat bread to their satisf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] radliallahu 'anha, ia berkata, "Keluarga Muhammad shallallahu 'alaihi wasallam tidak pernah kenyang dari gandum halus selama tiga malam berturut-turut sejak tiba di Madinah hingga beliau wafat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5416</td></tr><tr><td>Arabic No</td><td>5416</td></tr><tr><td>Reference</td><td>Book 70 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «С тех пор как Мухаммад ﷺ приехал в Медину и до самой его смерти, (членам) его семьи (никогда) не приходилось есть пшеничного хлеба досыта в течение трёх дней подряд»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5416</td></tr><tr><td>Arabic No</td><td>5416</td></tr><tr><td>Reference</td><td>Book 70 Hadith 44</td></tr></tbody></table></div>
 

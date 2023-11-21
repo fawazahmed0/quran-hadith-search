@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The above-mentioned tradition has also been transmitted by Wa’il b. Hujr throu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] dan [Husain bin Isa] keduanya berkata; telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Syarik] dari ['Ashim bin Kulaib] dari [ayahnya] dari [Wa'il bin Hujr] dia berkata; saya melihat apabila Nabi shallallahu 'alaihi wasallam sujud, beliau meletakkan kedua lututnya sebelum kedua tangannya, dan apabila bangkit, beliau mengangkat kedua tangannya sebelum kedua lututnya." Telah menceritakan kepada kami [Muhammad bin Ma'mar] telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Muhammad bin Juhadah] dari [Abdul Jabbar bin Wa'il] dari [ayahnya] bahwa Nabi shallallahu 'alaihi wasallam…" kemudian dia melanjutkan hadits tentang shalat. katanya; "Ketika beliau sujud, beliau meletakkan kedua lututnya ke lantai sebelum meletakkan kedua telapak tangannya. ' Hammam mengatakan; telah menceritakan kepadaku [Syaqiq] dia berkata; telah menceritakan kepadaku ['Ashim bin Kulaib] dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam seperti hadits ini. sedangkan dalam hadits salah satu dari keduanya (Muhammad bin Juhadah dan Syaqiq) yang lebih tahu daripadaku adalah hadits yang (di riwayatkan) oleh Muhammad bin Juhadah; "Apabila beliau bangkit, maka beliau bangkit dengan menumpu kedua lututnya dengan bersandarkan pada kedua pahanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>839</td></tr><tr><td>Arabic No</td><td>839</td></tr><tr><td>Reference</td><td>Book 2 Hadith 449</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ваиля, да будет доволен им Аллах, что Пророк ﷺ совершая земной поклон, касался земли сначала коленями, а потом руками. Хаммам сказал: «Нам рассказал Шакык: “Мне рассказывал ‘Асым ибн Куляйб от своего отца от Пророка ﷺ такой же хадис, и в хадисе одного из них я склоняюсь к тому, что это был хадис Мухаммада ибн Джухады, говорится: «А когда он поднимался, то поднимался на колени, опираясь руками о бёдра”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>839</td></tr><tr><td>Arabic No</td><td>839</td></tr><tr><td>Reference</td><td>Book 2 Hadith 449</td></tr></tbody></table></div>
 

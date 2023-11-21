@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "Whoever takes the property of a Musl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Abdul Malik bin A'yan] dan [Jami' bin Abu Rasyid] dari [Abu Wail] dari [Abdullah] radliyallahu'anhu berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berambisi memperoleh harta seorang muslim dengan sumpah palsu, ia berjumpa Allah sedang Allah dalam keadaan murka kepadanya." Abdullah berkata, "Kemudian Rasulullah Shallallahu'alaihiwasallam membacakan pembenarannya dari kitabullah: '(Sesungguhnya orang-orang yang membeli janji Allah dan sumpah mereka dengan harga yang sedikit, mereka itulah orang-orang yang tidak memperoleh bagian di akherat, dan Allah tidak mengajak mereka bicara) ' (QS.Ali Imran:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7445</td></tr><tr><td>Arabic No</td><td>7445</td></tr><tr><td>Reference</td><td>Book 97 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Кто приносит ложную клятву для того, чтобы присвоить себе имущества мусульманина, тот встретит Аллаха разгневанным».\nСказал ‘Абдуллах (ибн Мас‘уд): «Затем Посланник Аллаха ﷺ в подтверждение этого прочитал из книги Всевышнего Аллаха: “Поистине, тем, которые продают завет с Аллахом и свои клятвы за ничтожную цену, нет доли для них в Последней жизни. И Аллах не станет говорить с ними” (Сура «Аль Имран», аят 77)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7445</td></tr><tr><td>Arabic No</td><td>7445</td></tr><tr><td>Reference</td><td>Book 97 Hadith 71</td></tr></tbody></table></div>
 

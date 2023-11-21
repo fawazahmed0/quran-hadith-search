@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported Allah's Messenger (ﷺ) having said:He who trailed his garmen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Hanzholah] ia berkata; Telah mendengar [Salim] dari [Ibnu 'Umar] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang memanjangkan pakaiannya karena sombong, Allah tidak akan melihat kepadanya pada hari kiamat kelak. Dan Telah menceritakan kepada kami [Ibnu Numair] Telah menceritakan kepada kami [Ishaq bin Sulaiman] Telah menceritakan kepada kami [Hanzhalah bin Abu Sufyan] dia berkata; Aku mendengar [Ibnu Umar] berkata; AKu mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: dengan Hadits yang serupa, namun dengan lafazh 'tsiyabahu' (pakaian-pakaian, dengan bentuk jamak, plural) bukan 'tsaubahu (pakaian, dengan bentuk tunggal, singular)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5457</td></tr><tr><td>Arabic No</td><td>2085.05</td></tr><tr><td>Reference</td><td>Book 37 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5457</td></tr><tr><td>Arabic No</td><td>2085.05</td></tr><tr><td>Reference</td><td>Book 37 Hadith 72</td></tr></tbody></table></div>
 

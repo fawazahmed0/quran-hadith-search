@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Lubabah said:The Messenger of Allah(ﷺ) prohibited killing the jinnan(small
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Nafi'] dari [Abu Lubabah] sesungguhnya Rasulullah shallallahu 'alaihi wasallam melarang membunuh ular kecil yang ada dalam rumah, kecuali ular yang berbisa dan ular berekor pendek. Karena keduanya dapat menghilangkan penglihatan dan menggugurkan apa yang ada dalam perut wanita." Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] berkata, " [Ibnu Umar] pernah mendapati ular di dalam rumahnya setelah ia mendengar hadits dari Abu Lubabah. Lalu ia memerintahkan ular tersebut untuk diusir keluar, maka ular itu pun dibuang ke Baqi'." Telah menceritakan kepada kami [Ibnu As Sarh] dan [Ahmad bin Sa'id Al Hamdani] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Usamah] dari [Nafi'] tentang hadits ini. Nafi' berkata, "Setelah itu aku melihat (ular) di dalam rumah miliknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3298، 3312، 3313) Sahih Muslim (2233)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5253</td></tr><tr><td>Arabic No</td><td>5253</td></tr><tr><td>Reference</td><td>Book 43 Hadith 481</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3298، 3312، 3313) Sahih Muslim (2233)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5253</td></tr><tr><td>Arabic No</td><td>5253</td></tr><tr><td>Reference</td><td>Book 43 Hadith 481</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Al-Barâ' Ibn 'Azib (que Dieu l'agrée), le Prophète (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] -dan lafadh ini milik 'Utsman- [Ishaq] berkata; telah mengabarkan kepada kami, dan ['Utsman] berkata; telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Sa'd bin 'Ubaidah] telah menceritakan kepadaku [Al Barra' bin 'Azib] bahwasanya Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Apabila kamu hendak tidur, maka berwudhulah sebagaimana kamu berwudhu untuk shalat. Setelah itu berbaringlah dengan miring ke kanan, lalu berdoalah: ' ALOOHUMMA INNII ASLAMTU WAJHII ILAIKA, WAFAWWADHTU AMRII ILAIKA, WA-ALJA'TU ZHOHRII ILAIKA ROGHBATAN WAROHBATAN ILAIKA, LAA MALJA'A WALAA MANJAA MINKA ILLAA ILAIKA, AAMANTU BIKITAABIKALLADZII ANZALTA, WABINABIYYIKALLADZII ARSALTA 'Ya AIlah ya Tuhanku, aku Pasrahkan wajahku kepada-Mu, aku serahkan urusanku kepada-Mu dan aku serahkan punggungku kepada-Mu dengan berharap-harap cemas, karena tidak ada tempat berlindung dan tempat yang aman dari adzab-Mu kecuali dengan berlindung kepada-Mu. Aku beriman kepada kitab-Mu yang telah Engkau turunkan dan aku beriman kepada Nabi-Mu yang telah Engkau utus.' Jadikan bacaan tersebut sebagai penutup ucapanmu menjelang tidur. Apabila kamu meninggal dunia pada malam itu, maka kamu meninggal dalam kesucian diri (fitrah)." Al Barra' berkata; 'Saya mengulang-ulang bacaan tersebut agar hafal dan saya ucapkan; 'Saya beriman kepada rasul-Mu yang telah Engkau utus.' Lalu Nabi Muhammad shallallahu 'alaihi wasallam berkata: 'Ucapkanlah; 'Saya beriman kepada Nabi-Mu yang telah Engkau utus.'" Dan telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair] telah menceritakan kepada kami ['Abdullah bin Idris] dia berkata; aku mendengar [Hushain] dari [Sa'd bin 'Ubaidah] dari [Al Barra' bin 'Azib] dari Nabi shallallahu 'alaihi wasallam mengenai Hadits ini. Namun Hadits Manshur lebih lengkap dari ini. Dan di dalam Hadits Hushain ada tambahan; 'apabila dia bangun kembali di pagi hari, maka dia telah memperoleh kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6882</td></tr><tr><td>Arabic No</td><td>2710.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6882</td></tr><tr><td>Arabic No</td><td>2710.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 75</td></tr></tbody></table></div>
 

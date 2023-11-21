@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) led us in a prayer and then got up on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Shalih] berkata, telah menceritakan kepada kami [Fulaih bin Sulaiman] dari [Hilal bin 'Ali] dari [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam pernah shalat bersama kami, kemudian beliau naik mimbar dan bersabda: "Sesungguhnya saat shalat dan rukuk, aku dapat melihat kalian dari belakangku sebagaimana sekarang aku melihat kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>419</td></tr><tr><td>Arabic No</td><td>419</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) Пророк ﷺ совершил с нами какую-то молитву, после чего поднялся на минбар и сказал относительно молитвы и поясного поклона: “Поистине, я вижу вас за своей спиной так же, как вижу вас (сейчас перед собой)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>419</td></tr><tr><td>Arabic No</td><td>419</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:The Prophet (ﷺ) said, "Al-Wasil is not the one who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Al A'masy], [Hasan bin 'Amru] dan [Fithr] dari [Mujahid] dari [Abdullah bin 'Amru], Sufyan mengatakan; Namun Al A'masy tidak merafa'kannya kepada Nabi shallallahu 'alaihi wasallam, sedangkan Hasan dan Fithr merafa'kannya (menyambungkannya) kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Orang yang menyambung silaturrahmi bukanlah orang yang memenuhi (kebutuhan) akan tetapi orang yang menyambung silaturrahmi adalah orang yang menyambungnya kembali ketika tali silaturrahmi itu sempat terputus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5991</td></tr><tr><td>Arabic No</td><td>5991</td></tr><tr><td>Reference</td><td>Book 78 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Амра, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Не тот поддерживает (родственные связи), кто отвечает тем же; (по-настоящему) поддерживает их тот, с кем (родственники его) эти связи порывают»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5991</td></tr><tr><td>Arabic No</td><td>5991</td></tr><tr><td>Reference</td><td>Book 78 Hadith 22</td></tr></tbody></table></div>
 

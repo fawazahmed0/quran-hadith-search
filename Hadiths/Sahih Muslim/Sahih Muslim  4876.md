@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Huraira that the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abu Hazim] dari [Sahl bin Sa'd As Sa'idi] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Berjuang di jalan Allah di pagi hari atau sore hari lebih baik dari pada dunia seisinya." Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Marwan bin Mu'awiyah] dari [Yahya bin Sa'id] dari [Dzakwan Abu Shalih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya beberapa orang dari umatku…. … kemudian dia melanjutkan hadits tersebut, beliau juga bersabda: "Sungguh berjuang di jalan Allah di pagi hari atau sore hari, lebih baik daripada dunia seisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>1882</td></tr><tr><td>Reference</td><td>Book 33 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>1882</td></tr><tr><td>Reference</td><td>Book 33 Hadith 172</td></tr></tbody></table></div>
 

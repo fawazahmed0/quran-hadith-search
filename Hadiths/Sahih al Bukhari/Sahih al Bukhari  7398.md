@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The people said to the Prophet (ﷺ) , "O Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami [Abu Khalid Al Ahmar] berkata, aku mendengar [Hisyam bin Urwah] menceritakan dari [Ayahnya] dari ['Aisyah] berkata, "Wahai Rasulullah, di sini ada beberapa kaum yang baru saja meninggalkan kesyirikan (KeIslamannya baru-baru saja), mereka biasa membawakan daging untuk kami yang kami tidak tahu dengan menyebut nama Allah ataukah tidak (lantas bagaimana)? ' Nabi menjawab: "Sebutlah oleh kalian nama Allah, dan makanlah." Hadis ini diperkuat oleh [Muhammad bin Abdurrahman] dan [Darawardi] dan [Usamah bin Hafsh]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7398</td></tr><tr><td>Arabic No</td><td>7398</td></tr><tr><td>Reference</td><td>Book 97 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт, что люди сказали: «О Посланник Аллаха, поистине, люди, недавно принявшие Ислам, приносят мясо, и мы не знаем, поминалось над скотиной при заклании имя Аллаха или нет». Посланник Аллаха ﷺ сказал: «Вы произносите имя Аллаха и ешьте»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7398</td></tr><tr><td>Arabic No</td><td>7398</td></tr><tr><td>Reference</td><td>Book 97 Hadith 27</td></tr></tbody></table></div>
 

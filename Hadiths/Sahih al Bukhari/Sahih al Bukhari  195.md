@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:It was the time for prayer, and those whose houses were near got u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Munir] mendengar ['Abdullah bin Bakar] berkata, telah menceritakan kepada kami [Humaid] dari [Anas] berkata, "Waktu shalat telah masuk, bagi orang-orang yang rumahnya dekat mereka pulang untuk wudlu, sementara yang lain masih di dalam masjid. Lalu diberikan sebuah bejana kecil yang terbuat dari kayu kepada Rasulullah shallallahu 'alaihi wasallam. Namun bejana itu tidak cukup untuk dimasuki oleh telapak tangan beliau, hingga orang-orang pun berwudlu (dari jari tangan beliau) semua." Kami lalu bertanya, "Berapa jumlah kalian saat itu?" Anas menjawab, "Lebih dari delapan puluh orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>195</td></tr><tr><td>Arabic No</td><td>195</td></tr><tr><td>Reference</td><td>Book 4 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды, когда) настало время молитвы, люди, жившие поблизости (от мечети), отправились к себе домой(, чтобы совершить омовение), а другие остались. Что же касается Посланника Аллаха ﷺ то ему принесли каменный сосуд с водой, столь маленький, что он не смог бы даже растопырить в нём (пальцы) своей руки, (однако) все присутствовавшие совершили омовение (водой из этого сосуда)».\n(Один из передатчиков этого хадиса сказал): «Мы спросили (Анаса): “Сколько же вас было?” Он ответил: “Более восьмидесяти (человек)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>195</td></tr><tr><td>Arabic No</td><td>195</td></tr><tr><td>Reference</td><td>Book 4 Hadith 61</td></tr></tbody></table></div>
 

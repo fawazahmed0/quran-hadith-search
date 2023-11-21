@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jabir b. Abdullah that he heard the Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>407</td></tr><tr><td>Arabic No</td><td>161.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 312</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается от Джабира ибн ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Затем настал период, когда откровение перестало приходить ко мне. И (как-то раз) я шёл (по дороге)…». Затем он рассказал подобно предыдущему хадису, но в этой версии он сказал: «…Я так испугался его, что упал на землю». А также он сказал: «Абу Саляма сказал: «“Ар-риджз” это идолы. После этого откровения возобновились с новой силой и стали приходить одно за другим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>407</td></tr><tr><td>Arabic No</td><td>161.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 312</td></tr></tbody></table></div>
 

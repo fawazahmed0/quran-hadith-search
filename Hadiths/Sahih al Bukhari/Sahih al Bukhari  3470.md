@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "Amongst the men of Bani Is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Basysyar] telah bercerita kepada kami [Muhammad bin Abu 'Adiy] dari [Syu'bah] dari [Qatadah] dari [Abu ash-Shiddiq an-Najiy] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Ada seorang dari kalangan Bani Isra'il yang telah membunuh sembilan puluh sembilan orang manusia kemudian dia pergi untuk bertanya (tentang peluang ampunan). Maka dia menemui seorang pendeta dan bertanya kepadanya; "Apakah ada pintu taubat buatku'. Pendeta itu menjawab; "Tidak ada". Maka orang ini membunuh pendeta tersebut. Kemudian dia bertanya lagi lalu ada seorang laki-laki yang berkata kepadanya; "Datangilah desa anu". Kemudian orang itu (pergi menuju desa dimaksud) dan ketika hampir menemui ajalnya dia bangkit sambil memegang dadanya namun akhirnya meninggal dunia. Atas kejadian itu malaikat rahmat dan malaikat adzab (siksa) berselisih lalu Allah Ta'ala mewahyukan kepada bumi yang dituju (desa untuk mencari taubat) agar mendekat dan mewahyukan kepada bumi yang ditinggalkan (tempat dia melakukan kejahatan) agar menjauh lalu berfirman kepada kedua malaikat itu: "Ukurlah jarak keduanya". Ternyata orang itu lebih dekat ke desa yang dituju maka dia diampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3470</td></tr><tr><td>Arabic No</td><td>3470</td></tr><tr><td>Reference</td><td>Book 60 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида (аль-Худри), да будет доволен им Аллах, что Пророк ﷺ сказал: «Был среди израильтян один человек, который погубил девяносто девять душ, а потом покинул (свой дом) и стал спрашивать (людей, может ли быть принято его покаяние). С этим вопросом он пришёл к одному монаху, которому сказал: “Будет ли (польза от моего) покаяния?” Тот ответил: “Нет”, и тогда (этот человек) убил его. Потом он снова стал расспрашивать (людей об этом, и так продолжалось до тех пор, пока один) человек не сказал ему: “Отправляйся в такое-то селение”, и (он отправился туда). В пути его настигла смерть, (но, умирая,) он обратился грудью в сторону (этого селения), и из-за него начали спорить между собой ангелы милости и ангелы мук. Тогда Аллах Всевышний внушил (одной части земли) отдалиться, а другой — приблизиться, и сказал: “Измерьте (расстояние) до них”. (Выполнив Его веление,) они обнаружили, что (покойный) на пядь ближе к этой, и (его прегрешения) были ему прощены»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3470</td></tr><tr><td>Arabic No</td><td>3470</td></tr><tr><td>Reference</td><td>Book 60 Hadith 137</td></tr></tbody></table></div>
 

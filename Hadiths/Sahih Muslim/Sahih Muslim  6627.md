@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that there was an orphan girl with Umm Sulaim (who was th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Abu Ma'an Ar Raqasyi] dan lafazh ini milik Zuhair. Dia berkata; Telah menceritakan kepada kami ['Umar bin Yunus]; Telah menceritakan kepada kami ['Ikrimah bin 'Ammar]; Telah menceritakan kepada kami [Ishaq bin Abu Thalhah]; Telah menceritakan kepadaku [Anas bin Malik] dia berkata; "Ummu Sulaim, yaitu ibu Anas, mempunyai seorang anak yatim perempuan. Pada suatu ketika, Rasulullah melihat anak yatim tersebut dan berkata: 'Oh kamu rupanya! Kamu memang sudah besar tapi belum dewasa.' Mendengar ucapan tersebut, anak yatim perempuan itu kembali kepada Ummu Sulaim sambil menangis. Kemudian Ummu Sulaim bertanya; 'Ada apa denganmu hai anakku? ' Anak perempuannya itu menjawab; 'Rasulullah telah mengatakan kepada saya bahwasanya saya belum dewasa dan saya tidak akan menjadi dewasa selamanya.' Mendengar pengaduan anak perempuannya itu, akhirnya Ummu Sulaim pun segera keluar dari rumah dengan mengenakan kerudungnya untuk bertemu Rasulullah. Setelah bertemu, Rasulullah shallallahu 'alaihi wasallam Iangsung bertanya: 'Ada apa denganmu ya Ummu Sulaim? ' Ummu Sulaim menjawab; 'Anak perempuan saya mengadu kepada saya bahwasanya engkau mengucapkan kata-kata yang menyedihkan hati anak perempuan saya yang yatim.' Rasulullah shallallahu 'alaihi wasallam balik bertanya: 'Apakah maksudmu hai Ummu Sulaim? ' Ummu Sulaim mulai menjelaskan; 'Kata anak perempuan saya, engkau telah mengatakan bahwasanya ia tidak akan menjadi dewasa.' Mendengar keterangan itu, Rasulullah pun tertawa dan berkata: 'Hai Ummu Sulaim, tidak tahukah kamu apa yang pernah aku syaratkan kepada Tuhanku? Sesungguhnya ada syarat yang harus aku penuhi terhadap Tuhanku. Aku berkata; 'Ya Tuhanku, aku hanyalah seorang manusia. Aku dapat bersikap ridha sebagaimana orang lain dan aku juga dapat marah, sebagaimana orang lain. Apabila ada seseorang dari umatku yang tersakiti oleh kata-kata ku yang semestinya tidak layak aku ucapkan kepadanya, maka jadikanlah hal tersebut sebagai pelebur dosa dan sebagai pahala yang dapat mendekatkannya kepada-Mu di hari kiamat kelak.' Abu Ma'an berkata; 'Lafazh yatimah yang disebutkan tiga kali dalam hadits ini seharusnya diucapkan dalam bentuk tashgir (panggilan untuk makna kecil), yaitu dengan bunyi yutaimah (si yatim kecil)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6627</td></tr><tr><td>Arabic No</td><td>2603</td></tr><tr><td>Reference</td><td>Book 45 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6627</td></tr><tr><td>Arabic No</td><td>2603</td></tr><tr><td>Reference</td><td>Book 45 Hadith 124</td></tr></tbody></table></div>
 

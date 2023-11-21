@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) saw expectoration in the direction of the Q
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah mengabarkan kepada kami [Laits] dari [Nafi'] dari [Ibnu 'Umar] bahwa dia berkata, "Nabi shallallahu 'alaihi wasallam melihat ludah di dinding arah kiblat masjid. Saat itu Beliau sedang shalat di hadapan orang banyak, beliau kemudian menggosoknya seraya mengatakan: "Sesungguhnya seseorang dari kalian ketika berdiri shalat, dia sedang berhadapan dengan Allah. Maka itu janganlah dia meludah ke arah depannya ketika dia sedang shalat." Hadits ini dikuatkan oleh [Musa bin 'Uqbah] dan [Ibnu Abu Rawwad] dari [Nafi]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>753</td></tr><tr><td>Arabic No</td><td>753</td></tr><tr><td>Reference</td><td>Book 10 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Нафиэа, что (‘Абдуллах) ибн ‘Умар (да будет доволен Аллах ими обоими) сказал: «(Однажды) Пророк ﷺ увидел (на стене) мечети, (направленной в сторону) киблы плевок, когда он молился перед людьми. Он соскоблил его (собственноручно), а затем, когда завершил (намаз), он сказал: “Поистине, когда кто-нибудь из вас находится на намазе, поистине, Аллах находится перед ним, так пусть никто не плюет перед собой во время намаза”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>753</td></tr><tr><td>Arabic No</td><td>753</td></tr><tr><td>Reference</td><td>Book 10 Hadith 147</td></tr></tbody></table></div>
 

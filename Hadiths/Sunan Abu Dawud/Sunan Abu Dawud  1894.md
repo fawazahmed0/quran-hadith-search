@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jubayr ibn Mut'im: The Prophet (ﷺ) said: Do not prevent anyone from g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ibnu As Sarh] dan [Al Fadhl bin Ya'qub], dan ini adalah lafazhnya. Mereka berkata; telah menceritakan kepada Kami [Sufyan] dari [Abu Az Zubair] dari [Abdullah bin Babah] dari [Jubair bin Muth'im] yang sampai kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah melarang seorang pun untuk melakukan thawaf di Ka'bah, dan melakukan shalat pada saat kapanpun yang ia kehendaki, malam atau siang." Al Fadhl berkata; sesungguhnya Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Wahai bani Abdu Manaf, janganlah kalian melarang seorang pun…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1894</td></tr><tr><td>Arabic No</td><td>1894</td></tr><tr><td>Reference</td><td>Book 11 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джубайра ибн Мут‘има, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не запрещайте никому обходить вокруг этого Дома и молиться в любое время дня и ночи». А аль-Фадль [ибн Я‘куб] сказал, что Посланник Аллаха ﷺ сказал: «О бану ‘Абд Манаф, не запрещайте никому…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1894</td></tr><tr><td>Arabic No</td><td>1894</td></tr><tr><td>Reference</td><td>Book 11 Hadith 174</td></tr></tbody></table></div>
 

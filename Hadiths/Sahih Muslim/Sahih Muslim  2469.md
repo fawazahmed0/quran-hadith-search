@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported Allah's Messenger (ﷺ) as saying:Verily there would arise fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Sulaiman bin Al Mughirah] telah menceritakan kepada kami [Humaid bin Hilal] dari [Abdullah bin Shamit] dari [Abu Dzar] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sepeninggalku kelak, akan muncul suatu kaum yang pandai membaca Al Qur'an tidak melewati kerongkongan mereka. mereka keluar dari agama, seperti anak panah yang meluncur dari busurnya dan mereka tidak pernah lagi kembali ke dalam agama itu. Mereka itu adalah sejahat-jahat makhluk dan akhla mereka juga sangat buruk." [Ibnu Shamad] berkata; Saya berjumpa dengan [Rafi' bin Amru Al Ghifari] saudaranya Al Hakam, saya bertanya, "Bagaimana dengan hadits yang telah Anda denganr dari Abu Dzar begini dan begini." Saya pun menyebutkan hadits ini. Dan ia pun berkata; Dan saya mendengarnya dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2469</td></tr><tr><td>Arabic No</td><td>1067</td></tr><tr><td>Reference</td><td>Book 12 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, что он сказал: «Посланник Аллаха ﷺ сказал: “Поистине, после меня в моей общине (или вскоре после меня в моей общине появятся) люди, которые будут читать Коран, но он не будет опускаться ниже их глоток. Они будут выходить из религии подобно тому, как вылетает стрела из пробитой ею насквозь дичи, а затем они не станут возвращаться в неё. Они худшие из людей и творений”. Ибн ас-Самит сказал: “И я рассказал об этом Рафи‘у ибн ‘Амру аль-Гифари, брату аль-Хакама ибн ‘Амра аль-Гифари и он сказал: “Я тоже слышал об этом от Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2469</td></tr><tr><td>Arabic No</td><td>1067</td></tr><tr><td>Reference</td><td>Book 12 Hadith 206</td></tr></tbody></table></div>
 

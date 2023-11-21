@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Rabah ibn al-Harith said:I was sitting with someone in the mosque of Kufah while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4650</td></tr><tr><td>Arabic No</td><td>4650</td></tr><tr><td>Reference</td><td>Book 42 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Рияха ибн аль-Хариса: «Я сидел в мечети Куфы у такого-то, и у него сидели жители Куфы. Потом пришёл Са‘ид ибн Зейд ибн ‘Амр ибн Нуфайль. Он радушно поприветствовал его и усадил на ложе возле своей ноги. Потом пришёл один человек из числа жителей Куфы по имени Кайс ибн ‘Алькама. Сев напротив него, он начал поносить кого-то. Са‘ид спросил: “Кого поносит этот человек?” Тот ответил: “Он поносит ‘Али”. Са‘ид воскликнул: “Поистине, я вижу, что при тебе поносят сподвижников Посланника Аллаха ﷺ, а ты не порицаешь это деяние и не пытаешься изменить его! А ведь я слышал, как Посланник Аллаха ﷺ сказал а у меня нет причин наговаривать на него, ибо завтра я буду спрошен об этом, когда встречусь с ним: “Абу Бакр в Раю, и ‘Умар в Раю…””» И он привёл подобную (предыдущему хадису) историю. А далее Са‘ид сказал: «И, поистине, один военный поход, в котором участвовал один из них вместе с посланником Аллаха ﷺ пачкая пылью лицо своё, лучше, чем все дела одного из вас за всю его жизнь, даже если бы ему была дарована жизнь (столь же продолжительная), как и жизнь (пророка) Нуха!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4650</td></tr><tr><td>Arabic No</td><td>4650</td></tr><tr><td>Reference</td><td>Book 42 Hadith 55</td></tr></tbody></table></div>
 

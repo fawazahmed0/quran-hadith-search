@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya:We were forbidden to mourn for more than three days for a de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Abdul Wahb] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Hafshah] dari [Ummu 'Athiyyah] ia berkata; "Kami dilarang untuk berkabung atas mayit lebih dari tiga hari kecuali atas suami, yakni empat bulan sepuluh hari. Kami tidak boleh bercelak, tidak boleh memakai wewangian dan tidak pula memakai pakaian yang berwarna kecuali pakaian yang terbuat dari bahan dedaunan. Pada masa suci kami telah diberi keringanan, yakni ketika salah seorang dari kami telah mandi bersih dari haidnya, maka ia boleh memakai potongan kecil dari dahan yang dipergunakan untuk kemenyan dan obat yang sering dinamakan qusth atau minyak wangi Azhfar." Dan kami juga dilarang untuk mengikuti jenazah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5341</td></tr><tr><td>Arabic No</td><td>5341</td></tr><tr><td>Reference</td><td>Book 68 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыййа сказала: «Нам запрещалось носить траур по покойному более трёх дней, если не считать траура по мужу(, который должен был продолжаться) четыре месяца и десять дней. (В этот период) мы не подкрашивали глаза сурьмой, не использовали благовония и не носили одежду из окрашенной ткани, за исключением одежды, сшитой из ‘асба, но, когда какая-нибудь женщина из нас совершала большое омовение с целью очищения после месячных, ей разрешалось использовать благовоние “куст азфар”. И нам запрещалось также провожать погребальные носилки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5341</td></tr><tr><td>Arabic No</td><td>5341</td></tr><tr><td>Reference</td><td>Book 68 Hadith 86</td></tr></tbody></table></div>
 

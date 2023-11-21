@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:When the number of Muslims increased they discussed the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Salam- berkata, telah mengabarkan kepada kami ['Abdul Wahhab Ats Tsaqafi] berkata, telah mengabarkan kepada kami [Khalid Al Hadza'] dari [Abu Qilabah] dari [Anas bin Malik] berkata, "Ketika manusia sudah banyak (yang masuk Islam), ada yang mengusulkan cara memberitahu masuknya waktu shalat dengan sesuatu yang mereka bisa pahami. Maka ada yang mengusulkan dengan menyalakan api dan ada juga yang mengusulkan dengan memukul lonceng. Lalu diperintahlah Bilal untuk mengumandangkan kalimat adzan dengan genap (dua kali dua kali) dan mengganjilkan iqamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>606</td></tr><tr><td>Arabic No</td><td>606</td></tr><tr><td>Reference</td><td>Book 10 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда количество людей увеличилось, они стали обсуждать, что им следует делать, чтобы узнавать о наступлении времени молитвы. Некоторые предложили разжигать огонь или бить в колокол, и тогда Билялу было велено повторять слова азана чётное число раз, а слова икъамы — нечётное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>606</td></tr><tr><td>Arabic No</td><td>606</td></tr><tr><td>Reference</td><td>Book 10 Hadith 4</td></tr></tbody></table></div>
 

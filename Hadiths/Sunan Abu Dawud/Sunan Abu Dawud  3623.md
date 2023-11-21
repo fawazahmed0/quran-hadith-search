@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari] telah menceritakan kepada kami [Abu Al Ahwash] dari [Simak] dari ['Alqamah bin Wail bin Hujr Al Hadlrami] dari [Ayahnya] ia berkata, "Seorang laki-laki Hadlramaut dan seorang laki-laki dari Kindah datang kepada Rasulullah shallallahu 'alaihi wasallam. Orang Hadlramaut tersebut berkata, "Wahai Rasulullah, sesungguhnya orang ini telah menguasai tanah yang dahulu adalah milik ayahku." Kemudian orang Kindi tersebut berkata, "Tanah itu adalah tanahku, ia ada padaku dan aku yang menanaminya, dia tidak memiliki hak pada tanah tersebut!" 'Alqamah bin Wail berkata, "Kemudian Nabi shallallahu 'alaihi wasallam bertanya kepada orang Hadlrami, "Apakah engkau memiliki bukti?" Orang Hadlrami itu menjawab, "Tidak." Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Bagimu sumpahnya." Orang Hadlrami itu pun berkata, "Wahai Rasulullah, dia itu orang yang suka berbuat dosa, dia tidak peduli dengan apa yang ia bersumpah atasnya! Ia tidak menjaga diri dari sesuatupun." Kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Engkau tidak bisa melakukan apapun kecuali hanya itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (139)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3623</td></tr><tr><td>Arabic No</td><td>3623</td></tr><tr><td>Reference</td><td>Book 25 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Алькама ибн Ваиль ибн Худжр аль-Хадрами передаёт от своего отца: «К Посланнику Аллаха ﷺ пришли два человека один из Хадрамаута, а второй из Кинды. Человек из Хадрамаута сказал: “О Посланник Аллаха! Этот человек отобрал у меня землю, которая принадлежала моему отцу”. Человек из Кинды сказал: “Эта земля в моих руках, и я возделываю её, и он не имеет на неё никаких прав!” Пророк ﷺ сказал человеку из Хадрамаута: “Есть ли у тебя доказательства?” Он ответил: “Нет”. Он сказал: “Тогда он обязан перед тобой поклясться (в том, что говорит правду)”. (Человек из Хадрамаута) сказал: “О Посланник Аллаха, это нечестивец, и он даёт клятвы, не задумываясь”. Пророк ﷺ сказал: “Ни на что иное у тебя нет права”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (139)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3623</td></tr><tr><td>Arabic No</td><td>3623</td></tr><tr><td>Reference</td><td>Book 25 Hadith 53</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Hamid reported:I heard 'Abdullah b. al-Harith say: 'Abdullah b. 'Abbas ad
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1605</td></tr><tr><td>Arabic No</td><td>699.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн аль-Харис сказал: «(Однажды), когда (на улице) была грязь и слякоть, Ибн ‘Аббас обратился к нам с проповедью…». Далее подобно предыдущему хадису, однако в этой версии не упоминается пятница. Также в этой версии он сказал: «…Это делал тот, кто был лучше меня имея в виду Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1605</td></tr><tr><td>Arabic No</td><td>699.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 36</td></tr></tbody></table></div>
 

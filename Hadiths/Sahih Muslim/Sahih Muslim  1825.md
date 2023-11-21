@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zayd Ibn Thâbit (que Dieu l'agrée) a dit : L'Envoyé de Dieu (paix et bénédi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Abdullah bin Sa'id] telah menceritakan kepada kami [Salim Abu Nadlr] maula Umar bin Ubaidullah, dari [Busr bin Sa'id] dari [Zaid bin Tsabit] ia berkata; "Rasulullah shallallahu 'alaihi wasallam memasang tenda dari tikar pada sebuah tempat di Masjid, sehingga merupakan sebuah kamar tempat beliau shalat (malam). Melihat hal itu, beberapa orang sahabat mendatangi tempat itu dan mereka shalat pula mengikuti Nabi shallallahu 'alaihi wasallam shalat. Pada suatu malam mereka datang pula, tetapi Rasulullah shallallahu 'alaihi wasallam terlambat, sehingga beliau tidak keluar sama sekali menemui mereka. Oleh karena itu, mereka mengeraskan suara dan melempar pintu dengan kerikil, untuk memberi tahu Nabi shallallahu 'alaihi wasallam, karena mereka menyangka kalau-kalau beliau lupa. Maka dalam keadaan marah Rasulullah shallallahu 'alaihi wasallam keluar menemui mereka sambil bersabda: "Janganlah kalian berbuat demikian, karena aku mengira bahwa shalat malam itu akan diwajibkan kepada kalian. Karena itu, shalatlah kalian di rumah kalian masing-masing, karena sebaik-baik shalat seseorang adalah yang dilakukan di rumahnya sendiri, kecuali shalat wajib." Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Musa bin Uqbah] ia berkata, saya mendengar [Abu An Nadlr] dari [Busr bin Sa'id] dari [Zaid bin Tsabit] bahwa Nabi shallallahu 'alaihi wasallam memasang tenda dari tikar pada sebuah tempat di Masjid, sehingga merupakan sebuah kamar tempat beliau shalat (malam). Melihat hal itu, beberapa orang sahabat mendatangi tempat itu. Maka ia pun menyebutkan hadits yang serupa dengannya. Dan ia menambahkan di dalamnya; "Jika (shalat malam) itu diwajibkan atas kalian, niscaya kalian tidak akan mampu melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1825</td></tr><tr><td>Arabic No</td><td>781.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 253</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Сабит сказал: «(Однажды) Посланник Аллаха ﷺ отгородил циновками (небольшое пространство в мечети), устроив для себя (нечто вроде отдельной) комнаты. (Ночью) Посланник Аллаха ﷺ вышел (из дома) и стал молиться (за этими циновками), а люди, которые увидели это, пришли (туда) и стали молиться по его примеру. На следующую ночь они снова пришли и собрались (в мечети), однако Посланник Аллаха ﷺ медлил и не выходил к ним. Тогда они принялись громко (звать его) и бросать в двери мелкие камешки, после чего разгневанный Посланник Аллаха ﷺ вышел к (людям) и сказал: “Вы продолжали поступать так, и я даже подумал, что это будет вам предписано. Вам следует молиться у себя дома, ибо, поистине, если не считать обязательных молитв, лучшей молитвой является та, которую человек совершает у себя дома!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1825</td></tr><tr><td>Arabic No</td><td>781.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 253</td></tr></tbody></table></div>
 

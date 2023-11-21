@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham Ibn 'Urwa from his father who said:While I was a youngster, I as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [bapaknya] bahwa dia berkata; Aku pernah bertanya kepada ['Aisyah radliallahu 'anha] isteri Nabi shallallahu 'alaihi wasallam saat itu aku masih muda: "Bagaimana pendapatmu tentang firman Allah Ta'ala (QS Al Baqarah 158) yang artinya: ("Sesungguhnya Ash-Shafaa dan Al Marwah adalah sebahagian dari syi'ar-syi'ar Allah. Maka barangsiapa yang beribadah haji ke Baitullah atau ber'umrah, maka tidak ada dosa baginya mengerjakan sa'iy antara keduanya"), kalau aku berpendapat bahwa seseorang tidak mengapa untuk tidak berthawaf (sa'iy) antara kedua bukit itu. 'Aisyah radliallahu 'anha berkata: "Bukanlah begitu. Seandainya ayat ini maksudnya sebagaimana yang kamu katakan itu, berarti tidak berdosa bila ada orang yang tidak melaksanakan sa'iy antara keduanya. Sesungguhnya ayat ini turun berkenaan dengan Kaum Anshar yang dahulu mereka berniat haji untuk patung Manat (yang mereka sembah) di daerah sekitar Qudaid. Lantas mereka merasa berdosa bila harus sa'iy antara bukit Ash-Shafaa dan Al Marwah. Setelah Islam datang, mereka bertanya kepada Rasulullah shallallahu 'alaihi wasallam masalah itu, maka kemudian Allah Ta'ala menurunkan ayat ("Sesungguhnya Ash-Shafaa dan Al Marwah adalah sebahagian dari syi'ar-syi'ar Allah. Barangsiapa yang beribadah haji ke Baitullah atau ber'umrah, maka tidak ada dosa baginya mengerjakan sa'iy antara keduanya"). [Sufyan] dan [Abu Mu'awiyah] menambahkan dari [Hisyam] (yakni dari bapaknya dari 'Aisyah radliallahu 'anha): "Allah tidak akan menerima haji atau 'umrah seseorang yang tidak melakukan sa'iy antara bukit Ash-Shafaa dan Al Marwah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1790</td></tr><tr><td>Arabic No</td><td>1790</td></tr><tr><td>Reference</td><td>Book 26 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва сказал: «Однажды, будучи ещё юным, я сказал ‘Аише, да будет доволен ею Аллах, жене Пророка ﷺ: “Что ты можешь сказать о словах Всевышнего Аллаха “Воистину, ас-Сафа и аль-Марва — одни из обрядовых знамений Аллаха. Кто совершает хадж к Каабе или малое паломничество, тот не совершит греха, если пройдет между ними”? Получается, что ни на ком не будет греха, если не обходить их?” ‘Аиша ответила: “Вовсе нет. Если бы это было так, было бы сказано: “...Тот не совершит греха, если не пройдёт между ними”. Этот аят был ниспослан по поводу ансаров, совершавших паломничество к Манат, которая находилась напротив Кудайда, и считавших греховным проходить между холмами ас-Сафа и аль-Марва. А когда пришёл ислам, они спросили об этом Посланника Аллаха ﷺ и Всевышний Аллах ниспослал: “Воистину, Сафа и Марва — одни из обрядовых знамений Аллаха. Кто совершает хадж к Каабе или малое паломничество, тот не совершит греха, если пройдет между ними”». \nСуфьян и Абу Му‘авия добавили от Хишама (от ‘Аиши): «Не будет полным у Аллаха хадж или ‘умра того человека, который не совершил обход между ас-Сафа и аль-Марва»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1790</td></tr><tr><td>Arabic No</td><td>1790</td></tr><tr><td>Reference</td><td>Book 26 Hadith 17</td></tr></tbody></table></div>
 

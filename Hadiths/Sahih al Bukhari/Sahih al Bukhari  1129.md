@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha the mother of the faithful believers:One night Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah Ummul Mu'minin radliallahu 'anha] berkata; "Pada suatu malam Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat di masjid, maka orang-oang mengikuti shalat Beliau. Pada malam berikutnya Beliau kembali melaksanakan shalat di masjid dan orang-orang yang mengikuti bertambah banyak. Pada malam ketiga atau keempat, orang-orang banyak sudah berkumpul namun Rasulullah shallallahu 'alaihi wasallam tidak keluar untuk shalat bersama mereka. Ketika pagi harinya, Beliau bersabda: "Sungguh aku mengetahui apa yang kalian lakukan tadi malam dan tidak ada yang menghalangi aku untuk keluar shalat bersama kalian. Hanya saja aku khawatir nanti diwajibkan atas kalian". Kejadian ini di bulan Ramadhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1129</td></tr><tr><td>Arabic No</td><td>1129</td></tr><tr><td>Reference</td><td>Book 19 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, матери правоверных, да будет доволен ею Аллах, что однажды Посланник Аллаха ﷺ молился в мечети и люди присоединились к нему и тоже стали молиться. На следующую ночь он также совершал молитву и собралось много людей. В третью или четвертую ночь они собрались, однако Посланник Аллаха ﷺ не вышел к ним. Утром он сказал им: «Я видел, что вы сделали, и мне помешала выйти к вам лишь боязнь того, что это будет вменено вам в обязанность». А было это в месяце рамадан
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1129</td></tr><tr><td>Arabic No</td><td>1129</td></tr><tr><td>Reference</td><td>Book 19 Hadith 9</td></tr></tbody></table></div>
 

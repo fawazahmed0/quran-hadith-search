@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above (No. 4459) has also been transmitted by Muhammad i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4475</td></tr><tr><td>Arabic No</td><td>4475</td></tr><tr><td>Reference</td><td>Book 40 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В версии Мухаммада ибн Исхака не упомянута ‘Аиша, но говорится, что Посланник Аллаха ﷺ велел наказать двоих мужчин и одну женщину из числа тех, кто распространял клевету (необоснованно обвиняя ‘Аишу в прелюбодеянии). Это Хассан ибн Сабит и Мистах ибн Усаса. Ан-Нуфайли сказал: «А (наказанной) женщиной, как говорят, была Хамна бинт Джахш (cестра Зейнаб бинт Джахш, одной из жён Пророка ﷺ)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4475</td></tr><tr><td>Arabic No</td><td>4475</td></tr><tr><td>Reference</td><td>Book 40 Hadith 125</td></tr></tbody></table></div>
 

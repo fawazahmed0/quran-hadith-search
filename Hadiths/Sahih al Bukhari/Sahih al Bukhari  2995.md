@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Whenever the Prophet (ﷺ) returned from the Hajj o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah] berkata telah bercerita kepadaku ['Abdul 'Aziz bin Abu Salamah] dari [Shalih bin Kaisan] dari [Salim bin 'Abdullah] dari ['Abdullah bin 'Umar radliallahu 'anhu] berkata: "Adalah Nabi shallallahu 'alaihi wasallam apabila kembali dari hajji atau 'umrah". Salim berkata: Aku tidak mengetahui kecuali dia berkata: "dari peperangan, setelah turun dari tempat ketinggian atau bukit bebatuan, Beliau bertakbir tiga kali lalu bedo'a: "LAA ILAAHA ILLA ALLAHU WAHDAHU LAA SYARIIKA LAH LAHUL MULKU WA LAHUL HAMDU WAHUWA 'ALAA KULLI SYAIN QADIIR AAYIBUUN TAAIBUUN 'AABIDUUN SAAJIDUUN LIRABBINAA HAAMIDUUN, SHADAQALLAHU WA'DAHU WANASHARA 'ABDAHU WA HAZAMAL AHZAABA WAHDAH". (Tidak ada ilah yang berhak disembah selain Allah satu-satunya, tidak ada sekutu bagi-Nya. Milik-Nya segala kerajaan, dan pujian dan Dia Maha Berkuasa atas segala sesuatu. Kita kembali, sebagai hamba yang bertaubat, ber'ibadah, sujud untuk Robb kita dan yang memuji-Nya. Allah Maha Benar dengan janji-Nya, menolong hamba-Nya dan menghancurkan sendiri musuh-musuh-Nya) ". Shalih berkata; Maka aku bertanya kepada Salim: "Apakah 'Abdullah tidak berkata insya Allah?" Salim berkata: "Tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2995</td></tr><tr><td>Arabic No</td><td>2995</td></tr><tr><td>Reference</td><td>Book 56 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: Когда Пророк ﷺ возвращался (в Медину) после совершения хаджжа (или: умры), то при подъёме в гору (или: на каждую возвышенность) он трижды произносил слова “Аллаху акбар!”, а потом говорил: «Нет бога, достойного поклонения, кроме одного лишь Аллаха, у Которого нет сотоварища; Ему принадлежит владычество, Ему хвала и Он над всякой вещью мощен! Мы возвращаемся, каемся, поклоняемся, пред Господом нашим до земли склоняемся и Ему воздаём хвалу! Аллах сдержал Своё обещание, и помог Своему рабу, и Он один разбил племена! /Ля иляха илля-Ллаху вахдаху ля шарика ляху, ляхуль-мульку, ва ляхуль-хамду, ва Хува ‘аля кулли шайъин къадир! Аййибуна, тàибуна, ‘абидуна, сàджидуна ли-Раббина хàмидун! Садакъа-Ллаху ва‘да-ху, ва насара ‘абдаху, ва хазамаль-ахзаба вахдаху!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2995</td></tr><tr><td>Arabic No</td><td>2995</td></tr><tr><td>Reference</td><td>Book 56 Hadith 204</td></tr></tbody></table></div>
 

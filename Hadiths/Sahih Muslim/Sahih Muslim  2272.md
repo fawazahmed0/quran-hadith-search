@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported Allah's Messenger (ﷺ) as saying:A tenth is payable 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Thahir Ahmad bin Amru bin Abdullah bin Amru bin Sarh] dan [Harun bin Sa'id Al Aili] dan [Amru bin Sawwad] dan [Al Walid bin Syuja'] semuanya dari [Ibnu Wahb] - [Abu Thahir] berkata- telah mengabarkan kepada kami [Abdullah bin Wahb] dari [Amru bin Harits] bahwa [Abu Zubair] telah menceritakan kepadanya, bahwa saya mendengar [Jabir bin Abdullah] menyebutkan bahwa ia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tanaman yang mendapat air sungai dan tadah hujan, zakatnya sepersepuluh. Dan tanaman yang mendapat air dengan cara usaha, seperti dengan kincir air dan sebagainya, zakatnya seperduapuluh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2272</td></tr><tr><td>Arabic No</td><td>981</td></tr><tr><td>Reference</td><td>Book 12 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, что он слышал, как Пророк ﷺ сказал: «(С земель), орошаемых речной (водой) и (дождями, которые приносят) облака, (следует взимать в качестве закята) десятую часть (урожая), а с (земель, орошаемых с помощью) верблюдов, половину того»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2272</td></tr><tr><td>Arabic No</td><td>981</td></tr><tr><td>Reference</td><td>Book 12 Hadith 10</td></tr></tbody></table></div>
 

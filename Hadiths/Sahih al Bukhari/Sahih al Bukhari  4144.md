@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Malaika:'Aisha used to recite this Verse:-- 'Ida taliqunahu bi-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya] telah menceritakan kepada kami [Waki'] dari [Nafi' bin Umar] dari [Ibnu Abu Mulaikah] dari ['Aisyah radliallahu 'anha] ketika ia membaca (firman Allah) "idz talaqqaunahu bi alsinatakum" (Ketika kalian menerima berita bohong itu dari mulut-mulut kalian"), dia berkata; "(talaqqau dari kata) al walqu artinya kedustaan." Ibnu Abu Mulaikah berkata; 'Aisyah adalah orang yang paling tahu (tentang hal itu) daripada orang lain, karena memang ayat itu turun tentang dirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4144</td></tr><tr><td>Arabic No</td><td>4144</td></tr><tr><td>Reference</td><td>Book 64 Hadith 188</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Мулейка сказал: «Когда ’Аиша читала аят: “Вы распространяете (ложь) своими языками”, она говорила, что “аль-уальк” значит ложь. Она знала этот аят больше, чем кто-либо другой, поскольку он был ниспослан о ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4144</td></tr><tr><td>Arabic No</td><td>4144</td></tr><tr><td>Reference</td><td>Book 64 Hadith 188</td></tr></tbody></table></div>
 

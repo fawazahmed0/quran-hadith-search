@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Nu'aym: Ma'iz came to the Prophet (ﷺ) and admitted (having committed 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sufyan] dari [Zaid bin Aslam] dari [Yazid bin Nu'aim] dari [Bapaknya] ia berkata, "Ma'iz datang menemui Nabi shallallahu 'alaihi wasallam dan mengakui -sebanyak empat kali- bahwa dirinya telah berzina. Beliau lalu memerintahkan untuk merajamnya. Beliau bersabda kepada Hazzal (bapaknya Nu'aim): "Sekiranya engkau menutupinya dengan kainmu (tidak menyampaikan), sungguh itu akan lebih baik bagi kamu." Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Hammad bin Zaid] berkata, telah menceritakan kepada kami [Yahya] dari [Ibnul Munkadir] bahwa [Hazzal] menyuruh Ma'iz untuk mendatangi nabi shallallahu 'alaihi wasallam dan mengabarkan kepada beliau (bahwa ia pernah berzina)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4377</td></tr><tr><td>Arabic No</td><td>4377</td></tr><tr><td>Reference</td><td>Book 40 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Язид ибн Ну‘айм передаёт от своего отца, что, когда Ма‘из пришёл к Пророку ﷺ и четырежды подтвердил, (что совершил прелюбодеяние, Пророк ﷺ) велел побить его камнями. При этом он сказал Хаззалю: «Если бы ты прикрыл его одеждой своей, это было бы лучше для тебя!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4377</td></tr><tr><td>Arabic No</td><td>4377</td></tr><tr><td>Reference</td><td>Book 40 Hadith 27</td></tr></tbody></table></div>
 

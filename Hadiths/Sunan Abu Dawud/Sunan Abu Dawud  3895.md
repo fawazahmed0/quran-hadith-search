@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Kharb] dan [Utsman bin Abu Syaibah] mereka berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Abdu Rabbih bin Sa'id] dari ['Amrah] dari [Aisyah] ia berkata, "Jika ada orang yang mengeluhkan sakit, Nabi shallallahu 'alaihi wasallam meludah ke tanah lalu berdoa: 'TURBATU ARDHINAA BIRIIQATI BA'DHINAA YUSYFAA SAQIIMUNAA BI IDZNI RABBINAA (Ini adalah debu tanah kami, dengan ludah sebagian kami maka tersembuhkan orang sakit kami dengan izin Tuhan kami)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5745) Sahih Muslim (2194)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3895</td></tr><tr><td>Arabic No</td><td>3895</td></tr><tr><td>Reference</td><td>Book 29 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что, когда человек жаловался на что-либо, Пророк ﷺ касался земли предварительно смоченным слюной указательным пальцем и (протирал больное место со словами): «Почва нашей земли вместе со слюной кого-нибудь из нас, и будет исцелён наш больной с дозволения нашего Господа! /Бисми-Лляхи! Турбату арды-на бирикати ба‘ды-на, йушфа сакыму-на би-изни Рабби-на!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5745) Sahih Muslim (2194)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3895</td></tr><tr><td>Arabic No</td><td>3895</td></tr><tr><td>Reference</td><td>Book 29 Hadith 41</td></tr></tbody></table></div>
 

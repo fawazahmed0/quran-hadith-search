@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wabisah: The Messenger of Allah (ﷺ) saw a man praying alone behind th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Hafsh bin Umar] dia berkata; Telah menceritakan kepada kami [Syu'bah] dari [Amru bin Murrah] dari [Hilal bin Yasaf] dari [Amru bin Rasyid] dari [Wabishah] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah melihat seorang laki laki mengerjakan shalat sendirian di belakang shaf, maka beliau memerintahkannya untuk mengulangi kembali shalatnya. Sulaiman bin Harb menyebutkan; (mengulangi) shalatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>682</td></tr><tr><td>Arabic No</td><td>682</td></tr><tr><td>Reference</td><td>Book 2 Hadith 292</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Уабисы (ибн Ма‘бад) о том, что (однажды) Посланник Аллаха ﷺ увидел одного человека, который молился позади ряда в одиночку и он повелел ему повторить.Сулейман ибн Харб (в своем риуаяте) сказал: «Молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>682</td></tr><tr><td>Arabic No</td><td>682</td></tr><tr><td>Reference</td><td>Book 2 Hadith 292</td></tr></tbody></table></div>
 

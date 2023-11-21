@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) sued to teach
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Muhammad bin Ishaq] dari ['Amru bin Syu'aib] dari [Ayahnya] dari [Kakeknya] bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengajari mereka beberapa kalimat karena adanya rasa takut, yaitu: A'UUDZU BIKALIMAATILLAAHIT TAAMMATI MIN GHADLABIHI WA SYARRI 'IBAADIHI WA MIN HAMAZAATISY SYAYAATHIINI WA AN YAHDLURUUNA (Aku berlindung kepada kalimat-kalimat Allah yang sempurna dari kemurkaan-Nya serta kejahatan para hamba-Nya, dan dari bisikan setan serta kedatangan mereka kepadaku) '. Abdullah bin Umar mengajarkan kalimat-kalimat tersebut kepada orang yang telah berakal di antara anak-anaknya serta orang yang belum berakal. Ia menulisnya dan menggantungkannya kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3893</td></tr><tr><td>Arabic No</td><td>3893</td></tr><tr><td>Reference</td><td>Book 29 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ своего деда о том, что Посланник Аллаха ﷺ учил их произносить в случае, если им угрожало что-то: «Прибегаю к совершенным словам Аллаха от Его гнева, и от зла Его рабов, и от уколов шайтанов, и от того, чтобы они явились ко мне /‘Аузу би-калимати-Лляхи-т-тамма мин гадабихи ва шарри ибадихи ва мин хамазати-ш-шайатын ва ан йахдурун/». ‘Абдуллах ибн ‘Амр обучал этой рукъе своих достаточно взрослых детей, а тем, которые ещё не разумели, он писал эти слова и вешал на них
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3893</td></tr><tr><td>Arabic No</td><td>3893</td></tr><tr><td>Reference</td><td>Book 29 Hadith 39</td></tr></tbody></table></div>
 

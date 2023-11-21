@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Uqail] dari [Az Zuhri] dari [Ibnu Al Musayyib] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Tidaklah orang mu'min tesengat dua kali dari lubang yang sama." Telah menceritakannya kepadaku [Abu Ath Thahir] dan [Harmalah bin Yahya] keduanya berkata: Telah mengkhabarkan kepada kami [Ibnu Wahab] dari [Yunus]. Telah menceritakan kepadaku [Zuhair bin Harb] dan [Muhammad bin Hatim] keduanya berkata: Telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [keponakan Ibnu Syihab] dari [pamannya] dari [Ibnu Al Musayyib] dari [Abu Hurairah] dari nabi Shallallahu 'alaihi wa Salam sepertinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7499</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7499</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

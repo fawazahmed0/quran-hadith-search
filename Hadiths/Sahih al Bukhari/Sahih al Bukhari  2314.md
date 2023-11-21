@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid and Abu Huraira:The Prophet (ﷺ) said, "O Unais! Go to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah mengabarkan kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Ubaidullah bin 'Abdullah] dari [Zaid bin Khalid] dan [Abu Hurairah] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam bersabda: "Berilah tangguh wanita ini sampai besok wahai Unais.Jika ia mengaku maka rajamlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2314</td></tr><tr><td>Arabic No</td><td>2314</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейд ибн Халид и Абу Хурайра, да будет доволен Аллах ими обоими, передают, что Пророк ﷺ сказал: «О Унайс, отправляйся к жене этого (человека) и если она признается, то побей её камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2314</td></tr><tr><td>Arabic No</td><td>2314</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

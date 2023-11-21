@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sufyan b. Abu Zuhair heard Allah's Messenger (ﷺ) say:Yemen will be conquered a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Hisyam bin Urwah] dari [bapaknya] dari [Abdullah bin Zubair] dari [Sufyan bin Abu Zuhair] ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika negeri Yaman ditaklukkan, berbondong-bondonglah penduduk Madinah datang ke sana dengan membawa keluarga dan anak buah mereka. Padahal Madinah lebih baik bagi mereka, sekiranya mereka tahu. Kemudian ditaklukkan pula negeri Syam, maka berbondong-bondong pula penduduk Madinah datang ke sana membawa keluarga dan anak buah mereka. Padahal kota Madinah lebih baik bagi mereka sekiranya mereka tahu. Kemudian ditaklukkan pula negeri Iraq, lalu berbondong-bondong pulalah orang yang datang ke sana membawa keluarga dan anak buah mereka. Padahal Madinah lebih baik bagi mereka sekiranya mereka mengerti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3365</td></tr><tr><td>Arabic No</td><td>1388.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 569</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3365</td></tr><tr><td>Arabic No</td><td>1388.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 569</td></tr></tbody></table></div>
 

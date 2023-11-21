@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakr bin 'Abdur Rahman Ibn Harith bin Hisham and Abu Salama bin 'Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah menceritakan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Abu Bakar bin 'Abdurrahman bin Al Harits bin Hisyam] dan [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] bertakbir dalam setiap shalat yang wajib dan yang lainnya baik pada bulan Ramadan maupun di luar Ramadan. Dia bertakbir ketika berdiri dan ketika akan rukuk, kemudian dia mengucapkan: 'SAMI'ALLAHU LIMAN HAMIDAH (Semoga Allah mendengar pujian orang yang memuji-Nya) ', kemudian sebelum sujud dia membaca: 'RABBANAA WA LAKAL HAMDU (Wahai Rabb kami, bagi-Mu segala puji) ', lalu mengucapkan: 'Allahu Akbar' ketika akan turun sujud. Kemudian bertakbir ketika mengangkat kepalanya dari sujud, kemudian bertakbir lagi ketika akan sujud, kemudian bertakbir ketika mengangkat kepalanya dari sujud, dan ketika bangkit berdiri dari duduk setelah dua rakaat (tasyahud awal) ia juga bertakbir kembali. Dan dalam setiap rakaat shalat dia mengerjakan seperti itu, lalu setelah selesai ia berkata, "Demi Dzat yang jiwaku berada di tangan-Nya, sungguh aku telah mencontohkan kepada kalian shalat seperti shalatnya Rasulullah shallallahu 'alaihi wasallam. Sungguh inilah cara shalatnya hingga beliau meninggalkan dunia ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>803</td></tr><tr><td>Arabic No</td><td>803</td></tr><tr><td>Reference</td><td>Book 10 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Бакра Абдуррахмана ибн Хишама и Абу Салямы ибн Абдуррахмана, что Абу Хурайра произносил такбиры во всех молитвах, как в обязательных, так и во всех остальных, как в рамадане, так и в другие месяцы. Он произносил такбир, когда вставал (на молитву) и когда совершал поясной поклон, потом говорил: «Сами‘а-Ллаху лиман хамидах» /Да услышит Аллах того, кто восхваляет Его/, а потом: «Раббана уа ляка-ль-хамд» /Господь наш, хвала Тебе!/ Затем он произносил такбир перед земным поклоном, и тогда, когда поднимался из него, перед совершением второго земного поклона, и тогда, когда поднимался из него. Он также произносил такбир, когда поднимался после совершения второго рак‘ата. Так он поступал в каждом рак‘ате, пока не завершал молитву. После выхода (из молитвы) он говорил: «Клянусь Тем, в Чьей руке моя душа, моя молитва более похожа на молитву Посланника Аллаха ﷺ чем молитва любого из вас. Такой была его молитва до тех пор, пока он не покинул мир этот»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>803</td></tr><tr><td>Arabic No</td><td>803</td></tr><tr><td>Reference</td><td>Book 10 Hadith 198</td></tr></tbody></table></div>
 

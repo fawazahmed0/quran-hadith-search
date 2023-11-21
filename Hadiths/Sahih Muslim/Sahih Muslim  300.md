@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Sa'id al-Asyajj] keduanya berkata, telah menceritakan kepada kami [Waki'] dari [al-A'masy] dari [Abu Shalih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa membunuh dirinya dengan sepotong besi, maka dengan besi yang tergenggam di tangannya itulah dia akan menikam perutnya dalam Neraka Jahanam secara terus-terusan dan dia akan dikekalkan di dalam Neraka. Barangsiapa membunuh dirinya dengan meminum racun maka dia akan merasai racun itu dalam Neraka Jahanam secara terus-terusan dan dia akan dikekalkan di dalam Neraka tersebut untuk selama-lamanya. Begitu juga, barangsiapa membunuh dirinya dengan terjun dari puncak gunung, maka dia akan terjun ke dalam Neraka Jahanam secara terus-terusan untuk membunuh dirinya dan dia akan dikekalkan dalam Neraka tersebut untuk selama-lamanya." Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Sa'id bin Amru al-Asy'atsi] telah menceritakan kepada kami [Abtsar]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Yahya bin Habib al-Haritsi] telah menceritakan kepada kami [Khalid] -yaitu Ibnu al-Harits- telah menceritakan kepada kami [Syu'bah] semuanya dengan sanad ini semisalnya. Dan dalam riwayat [Syu'bah] dari [Sulaiman] dia berkata, saya mendengar [Dzakwan]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>300</td></tr><tr><td>Arabic No</td><td>109.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры (да будет доволен им Аллах), что Посланник Аллаха ﷺ сказал: «Тот, кто убьёт себя железным (предметом), будет (держать) этот (предмет) в руке и всегда бить им себя в живот в пламени Геенны, (куда он будет помещён) навечно; тот, кто (намеренно) выпьет яд и убьёт себя, будет всегда пить (этот яд глоток за глотком) в пламени Геенны, (куда он будет помещён) навечно; тот, кто (намеренно) бросится с горы и убьёт себя, будет всегда падать в пламени Геенны, (куда он будет помещён) навечно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>300</td></tr><tr><td>Arabic No</td><td>109.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 206</td></tr></tbody></table></div>
 

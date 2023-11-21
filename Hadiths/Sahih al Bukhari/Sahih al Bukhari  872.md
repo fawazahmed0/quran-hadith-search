@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to offer the Fajr prayer when it wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Fulaih] dari ['Abdurrahman bin Al Qasim] dari [Bapaknya] dari ['Aisyah] radliallahu 'anha, bahwasanya Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat Shubuh di waktu yang masih gelap, sehingga kaum Mukminah berlalu pergi tidak ada yang dapat mengenalinya, atau sebagian mereka tidak bisa mengetahui sebagian yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>872</td></tr><tr><td>Arabic No</td><td>872</td></tr><tr><td>Reference</td><td>Book 10 Hadith 263</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ совершал утреннюю молитву в предрассветном сумраке, и когда уходили верующие женщины, никто их не узнавал из-за предрассветного сумрака (или они не узнавали друг друга)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>872</td></tr><tr><td>Arabic No</td><td>872</td></tr><tr><td>Reference</td><td>Book 10 Hadith 263</td></tr></tbody></table></div>
 

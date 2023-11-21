@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The Prophet (ﷺ) was more shy (from Haya': pious shyness fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Al Ja'ad] telah mengabarkan kepada kami [Syu'bah] dari [Qatadah] dari [Bekas budak Anas], Abu Abdullah berkata; namanya adalah Abdullah bin Abu 'Utbah dia berkata; saya mendengar [Abu Sa'id] berkata; Nabi shallallahu 'alaihi wasallam lebih pemalu daripada seorang gadis pingitan yang dipingit di kamarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6119</td></tr><tr><td>Arabic No</td><td>6119</td></tr><tr><td>Reference</td><td>Book 78 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид, сказал: «Пророк ﷺ был стыдлив в большей степени, чем девушка, сидящая за своей занавеской»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6119</td></tr><tr><td>Arabic No</td><td>6119</td></tr><tr><td>Reference</td><td>Book 78 Hadith 146</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The above tradition has been transmitted by ‘Abd Allaah bin Al Fadl through hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus], serta [Abdullah bin Maslamah], mereka berkata; telah mengabarkan kepada kami [Malik], dari [Abdullah bin Al Fadhl] dari [Nafi' bin Jubair] dari [Ibnu Abbas], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang janda lebih berhak terhadap dirinya daripada walinya, seorang gadis dimintai izinnya dalam urusan dirinya, dan izinnya adalah diamnya." Lafazh ini adalah lafazh Al Qa'nabi. Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Sufyan], dari [Ziyad bin Sa'd] dari [Abdullah bin Al Fadhl] dengan sanad serta maknanya, beliau bersabda: "Seorang janda lebih berhak terhadap dirinya daripada walinya, dan seorang gadis dimintai pertimbangannya oleh ayahnya." Abu Daud berkata; kata "ayahnya" bukanlah sesuatu yang dihafal (dijaga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1421)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2099</td></tr><tr><td>Arabic No</td><td>2099</td></tr><tr><td>Reference</td><td>Book 12 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн аль-Фадль передаёт хадис со своим иснадом: «Побывавшая замужем женщина имеет больше прав на саму себя, чем её покровитель. А у девственницы её отец должен спрашивать позволения выдать её замуж». Абу Дауд сказал: «Слов “её отец” нет в утверждённой, достоверной версии»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1421)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2099</td></tr><tr><td>Arabic No</td><td>2099</td></tr><tr><td>Reference</td><td>Book 12 Hadith 54</td></tr></tbody></table></div>
 

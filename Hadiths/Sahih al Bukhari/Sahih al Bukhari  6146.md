@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundub:While the Prophet (ﷺ) was walking, a stone hit his foot and st
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Al Aswad bin Qais] saya mendengar [Jundub] berkata; "Tatkala Nabi shallallahu 'alaihi wasallam berjalan, tiba-tiba beliau tersandung batu kemudian beliau terjatuh hingga menyebabkan jari (kakinya) berdarah, lalu beliau bersabda: "Bukankah engkau hanya sebatang jari yang berdarah? Dan ini terjadi ketika engkau ikut berjihad fi sabilillah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6146</td></tr><tr><td>Arabic No</td><td>6146</td></tr><tr><td>Reference</td><td>Book 78 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джундуб сказал: «Однажды прогуливаясь, Пророк ﷺ споткнулся о камень, палец стал кровоточить, и он сказал:\n“Ты — всего лишь кровоточащий палец,\nА то, что претерпел ты, (случилось с тобой) на пути Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6146</td></tr><tr><td>Arabic No</td><td>6146</td></tr><tr><td>Reference</td><td>Book 78 Hadith 172</td></tr></tbody></table></div>
 

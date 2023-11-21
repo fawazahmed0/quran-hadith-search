@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Taghlib:Allah's Messenger (ﷺ) gave (gifts) to some people to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa bin Isma'il] telah bercerita kepada kami [Jarir bin Hazim] telah bercerita kepada kami [Al hasan] berkata telah bercerita kepadaku ['Amru bin Taghlab radliallahu 'anhu] berkata; "Rasulullah Shallallahu'alaihiwasallam pernah memberikan (suatu pemberian) kepada suatu kaum dan tidak memberikan kepada kaum yang lain namun mereka seakan menunjukkan ketidak sukaannya kepada Beliau. Maka Beliau berkata: "Sesungguhnya aku memberi suatu kaum karena aku khawatir tentang ketidak tegaran dan ketidak sabaran mereka, dan aku akan selalu memberi makan kepada suatu kaum sampai Allah menjadikan dalam hati mereka kebaikan dan orang yang kaya hati di antara mereka adalah 'Amru bin Taghlab". Maka 'Amru bin Taghlab berkata; "Aku tidak senang jika ucapan Rasulullah Shallallahu'alaihiwasallam kepadaku itu diganti dengan kekayaan yang sangat berharga". Dan [Abu 'Ashim] menambahkan dari [Jarir] berkatal; Aku mendengar [Al Hasan] berkata, telah bercerita kepada kami ['Amru bin Taghlab] bahwa Rasulullah Shallallahu'alaihiwasallam diberikan harta atau tawanan lalu Beliau membagi-bagikannya atas dasar pertimbangan tadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3145</td></tr><tr><td>Arabic No</td><td>3145</td></tr><tr><td>Reference</td><td>Book 57 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Амра ибн Таглиба, да будет доволен им Аллах, что однажды, когда Посланник Аллаха ﷺ раздавал имущество, он дал что-то одним людям, ничего не дав другим. И как будто они проявили недовольство этим. Тогда он сказал: «Воистину, я даю что-то некоторым людям, боясь за их недостаток терпения и беспокойство, и оставляю некоторых людей на попечение богатства и блага, которые Аллах поместил в их сердца. И среди таких людей — ‘Амр ибн Тагълиб!»\n(‘Амр ибн Таглиб, да будет доволен им Аллах, сказал): «И, клянусь Аллахом, я не променял бы эти слова Посланника Аллаха ﷺ даже на красных верблюдов!»\nСообщается, что ‘Амр ибн Таглиб сказал, что Посланнику Аллаха ﷺ доставили деньги или пленных, и он разделил их таким образом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3145</td></tr><tr><td>Arabic No</td><td>3145</td></tr><tr><td>Reference</td><td>Book 57 Hadith 53</td></tr></tbody></table></div>
 

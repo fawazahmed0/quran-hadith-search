@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik (ra):Allah's Messenger (ﷺ) entered (Makkah) in the yea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il] berkata telah bercerita kepadaku [Malik] dari [Ibnu Syihab] dari [Anas bin Malik radliallahu 'anhu] bahwa Rasulullah Shallallahu'alaiwasallam memasuki (Masjidil Harom) pada saat Tahun Penaklukan Makkah dengan kepala mengenakan tameng penutup. Setelah Beliau melepasnya, ada seseorang yang mendatangi Beliau lalu berkata: "Sesungguhnya Ibnu Khothol sedang berlindung di balik kain penutup Ka'bah". Maka Beliau bersabda: "Bunuhlah dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3044</td></tr><tr><td>Arabic No</td><td>3044</td></tr><tr><td>Reference</td><td>Book 56 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, со слов Анаса ибн Малика, да будет доволен им Аллах, что, когда в год завоевания (Мекки) Посланник Аллаха ﷺ вступил (в город), на голове его был шлем, а когда он снял его, (к нему) подошёл один человек и сказал: «Поистине, Ибн Хаталь держится за покровы Каабы!» и (Пророк ﷺ) велел: «Убейте его!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3044</td></tr><tr><td>Arabic No</td><td>3044</td></tr><tr><td>Reference</td><td>Book 56 Hadith 250</td></tr></tbody></table></div>
 

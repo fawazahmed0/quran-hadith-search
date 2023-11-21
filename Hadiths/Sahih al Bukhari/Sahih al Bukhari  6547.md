@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama:The Prophet (ﷺ) said, "I stood at the gate of Paradise and saw 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Ismail] telah mengabarkan kepada kami [At Taimi] dari [Abu Utsman] dari [Usamah] dari Nabi Shallallahu'alaihiwasallam, beliau bersabda: "Aku berdiri di pintu surga, ternyata kebanyakan yang memasukinya adalah orang-orang miskin, sedang orang-orang yang mempunyai kekayaan tertahan, selain penghuni-penghuni neraka telah diperintahkan ke neraka, dan aku berdiri di pintu neraka, ternyata kebanyakan yang memasukinya adalah wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6547</td></tr><tr><td>Arabic No</td><td>6547</td></tr><tr><td>Reference</td><td>Book 81 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Усамы, что Пророк ‎ﷺ сказал: «Я стоял у ворот Рая (и видел), что большинство людей, вошедших в него, были бедняками, (в то время как) богатые ждали расчёта (за своё имущество), кроме людей Огня, (которых) было приказано гнать в Огонь. И я стоял у ворот Огня и обнаружил, что большинство людей, входящих в них, были женщины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6547</td></tr><tr><td>Arabic No</td><td>6547</td></tr><tr><td>Reference</td><td>Book 81 Hadith 136</td></tr></tbody></table></div>
 

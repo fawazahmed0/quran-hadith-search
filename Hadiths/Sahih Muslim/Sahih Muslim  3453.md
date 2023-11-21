@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yazid b. al-Asamm reported:Maimuna daughter of al-Harith narrated to me that All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Jarir bin Hazim] telah menceritakan kepada kami [Abu Fazarah] dari [Yazid bin Al Asham] telah menceritakan kepadaku [Maimunah binti Al Harits] bahwa Rasulullah shallallahu 'alaihi wasallam menikahinya ketika beliau sedang halal. Dia (Yazid) berkata; dia adalah bibiku dan bibinya Ibnu Abbas juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3453</td></tr><tr><td>Arabic No</td><td>1411</td></tr><tr><td>Reference</td><td>Book 16 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3453</td></tr><tr><td>Arabic No</td><td>1411</td></tr><tr><td>Reference</td><td>Book 16 Hadith 56</td></tr></tbody></table></div>
 

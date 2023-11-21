@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) came towards two horned rams having black 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Wahab] telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam pergi menuju dua ekor domba yang warna putihnya lebih banyak di banding warna hitamnya dan bertanduk, lalu beliau menyembelih domba tersebut dengan tangannya sendiri." Hadits ini juga di kuatkan oleh riwayat [Wuhaib] dari [Ayyub]. [Isma'il] dan [Hatim bin Wardan] juga berkata dari [Ayyub] dari [Ibnu Sirin] dari [Anas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5554</td></tr><tr><td>Arabic No</td><td>5554</td></tr><tr><td>Reference</td><td>Book 73 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что Пророк ﷺ подошёл к двум рогатым баранам с чёрно-белой шерстью и зарезал их собственной рукой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5554</td></tr><tr><td>Arabic No</td><td>5554</td></tr><tr><td>Reference</td><td>Book 73 Hadith 10</td></tr></tbody></table></div>
 

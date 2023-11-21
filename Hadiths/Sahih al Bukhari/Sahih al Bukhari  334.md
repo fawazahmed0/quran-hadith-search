@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) We set out with Allah's Messenger (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari ['Abdurrahman bin Al Qasim] dari [bapaknya] dari ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam, ia berkata, "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam dalam salah satu perjalanan yang dilakukannya. Hingga ketika kami sampai di Baida', atau tempat peristirahatan pasukan, aku kehilangan kalungku. Maka Nabi shallallahu 'alaihi wasallam dan para sahabatnya mencarinya sementara mereka tidak berada dekat air. Orang-orang lalu datang kepada Abu Bakar Ash Shidiq seraya berkata, 'Tidakkah kamu perhatikan apa yang telah diperbuat oleh 'Aisyah? Dia telah membuat Rasulullah shallallahu 'alaihi wasallam dan orang-orang tertahan (dari melanjutkan perjalanan) padahal mereka tidak sedang berada dekat air dan mereka juga tidak memiliki air! ' Lalu Abu Bakar datang sedangkan saat itu Rasulullah shallallahu 'alaihi wasallam meletakkan kepalanya di pahaku. Abu Bakar lalu memarahiku dan mengatakan sebagaimana yang dikehendaki Allah untuk (Abu Bakar) mengatakannya. Ia menusuk lambungku, dan tidak ada yang menghalangiku untuk bergerak (karena rasa sakit) kecuali karena keberadaan Rasulullah yang di pahaku." Kemudian Rasulullah shallallahu 'alaihi wasallam bangun di waktu subuh dalam keadaan tidak memiliki air. Allah Ta'ala kemudian menurunkan ayat tayamum, maka orang-orang pun bertayamum." Usaid bin Al Hudlair lalu berkata, "Tidaklah Aisyah kecuali awal dari keberkahan keluarga kamu wahai wahai Abu Bakar!" 'Aisyah berkata, "Kemudian unta yang aku tunggangi berdiri yang ternyata kami temukan kalungku berada dibawahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>334</td></tr><tr><td>Arabic No</td><td>334</td></tr><tr><td>Reference</td><td>Book 7 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды, когда) мы вместе с посланником Аллаха ﷺ выступили в путь и достигли уже Байды (или: Зат аль-Джайша), у меня порвалась (нить) ожерелья. (Узнав об этом,) Посланник Аллаха ﷺ остановился, чтобы найти его, и этим же занялись находившиеся вместе с ним люди. (В этих местах) не было воды, и (некоторые участники похода) люди пришли к Абу Бакру ас-Сиддику и сказали ему: “Разве ты не видишь, что сделала ‘Аиша? Она заставила Посланника Аллаха ﷺ и (всех остальных) людей, не имеющих с собой воды, задержаться в безводной местности!” (Услышав это,) Абу Бакр пришёл (ко мне), когда Посланник Аллаха ﷺ положивший голову мне на ногу, уже заснул. Он воскликнул: “Ты задержала Посланника Аллаха ﷺ и (других) людей, не имеющих воды, там, где её нет!”»\n‘Аиша сказала: «И Абу Бакр принялся упрекать меня, высказав всё, что было угодно Аллаху, а потом стал тыкать меня рукой в бок, мне же мешало двинуться с места лишь то, что (голова) Посланника Аллаха ﷺ покоилась у меня на ноге. А когда наутро Посланник Аллаха ﷺ проснулся и (оказалось, что ни у кого) не было воды, Аллах ниспослал аят об очищении песком, после чего люди совершили такое очищение. Что же касается Усайда ибн Худайра, то он воскликнул: “О семейство Абу Бакра! Это уже не первое благословение(, ниспосланное) вам!”»\n(‘Аиша) сказала: «А потом мы подняли верблюда, на котором я ехала, и нашли ожерелье под ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>334</td></tr><tr><td>Arabic No</td><td>334</td></tr><tr><td>Reference</td><td>Book 7 Hadith 1</td></tr></tbody></table></div>
 

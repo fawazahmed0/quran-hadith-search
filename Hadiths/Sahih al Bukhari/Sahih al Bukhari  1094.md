@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) used to offer the Nawafil, while 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Muhammad bin 'Abdurrahman] bahwa [Jabir bin 'Abdullah] telah mengabarkan kepadanya bahwa Nabi shallallahu 'alaihi wasallam mendirikan shalat sunnat sambil mengendarai hewan tunggangannya dalam keadaan tidak menghadap qiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1094</td></tr><tr><td>Arabic No</td><td>1094</td></tr><tr><td>Reference</td><td>Book 18 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ нередко совершал дополнительные молитвы, сидя верхом и обратившись не в сторону киблы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1094</td></tr><tr><td>Arabic No</td><td>1094</td></tr><tr><td>Reference</td><td>Book 18 Hadith 14</td></tr></tbody></table></div>
 

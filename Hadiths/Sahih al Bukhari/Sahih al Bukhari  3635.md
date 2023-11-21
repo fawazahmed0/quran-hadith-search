@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Jews came to Allah's Messenger (ﷺ) and told h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik bin Anas] dari [Nafi'] dari [Abdullah bin 'Umar radliallahu 'anhu] bahwa orang-orang Yahudi mendatangi Rasulullah shallallahu 'alaihi wasallam lalu bercerita bahwa ada seseorang laki-laki dari kalangan mereka dan seorang wanita berzina. Lalu Rasulullah shallallahu 'alaihi wasallam bertanya kepada mereka; "Apa yang kalian dapatkan dalam Kitab Taurah tentang permasalahan hukum rajam?". Mereka menjawab; "Kami mempermalukan (membeberkan aib) mereka dan mencambuk mereka". Maka Abdullah bin Salam berkata; "Kalian berdusta. Sesungguhnya di dalam Kitab Taurat ada hukuman rajam. Coba bawa kemari kitab Taurat. Maka mereka membacanya saecara seksama lalu salah seorang diantara mereka meletakkan tangannya pada ayat rajam, dan dia hanya membaca ayat sebelum dan sesudahnya. Kemudian Abdullah bin Salam berkata; "Coba kamu angkat tanganmu". Maka orang itu mengangkat tangannya, dan ternyata ada ayat tentang rajam hingga akhirnya mereka berkata; "Dia benar, wahai Muhammad. Di dalam Taurat ada ayat tentang rajam". Maka Rasulullah shallallahu 'alaihi wasallam memerintahkan kedua orang yang berzina itu agar dirajam". Abdullah bin 'Umar berkata; "Dan kulihat laki-laki itu melindungi wanita tersebut agar terhindar dari lemparan batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3635</td></tr><tr><td>Arabic No</td><td>3635</td></tr><tr><td>Reference</td><td>Book 61 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что однажды к Посланнику Аллаха ﷺ пришли иудеи, которые сказали ему, что мужчина и женщина из их числа совершили прелюбодеяние. Посланник Аллаха ﷺ спросил их: «А что говорится в Торе о побивании камнями (за совершение прелюбодеяния?)» Они сказали: «Мы позорим их и подвергаем их бичеванию». Тогда ‘Абдуллах ибн Салям воскликнул: «Вы лжёте, ибо, поистине, в ней говорится о побивании камнями!» После этого они принесли и развернули свиток Торы, а один из них прикрыл рукой то место, где говорилось о побивании камнями, и прочитал то, что там написано до и после этого, но ‘Абдуллах ибн Салям сказал ему: «Подними руку!» И когда он поднял её, оказалось, что там действительно упоминается о побивании камнями. Тогда они сказали: «Он сказал правду, о Мухаммад, в Торе действительно говорится о побивании камнями!» — после чего по велению Посланника Аллаха ﷺ совершившие прелюбодеяние были побиты камнями. ‘Абдуллах сказал: «И я видел, как мужчина наклонялся, закрывая собой женщину от камней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3635</td></tr><tr><td>Arabic No</td><td>3635</td></tr><tr><td>Reference</td><td>Book 61 Hadith 139</td></tr></tbody></table></div>
 

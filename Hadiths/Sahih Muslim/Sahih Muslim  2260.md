@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Buraida reported on the authority of his father that the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Abdulalh bin Numair] dan [Muhammad bin Al Mutsanna] -sedangkan lafazhnya milik Abu Bakar dan Ibnu Numair- mereka berkata, telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Abu Sinan] -ia adalah Dlirar bin Murrah- dari [Muharib bin Ditsar] dari [Ibnu Buraidah] dari [bapaknya] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Dahulu aku melarang kalian untuk ziarah kubur, maka sekarang ziarahilah. Dahulu aku melarang kalian untuk menyimpan daging hewan kurban lebih dari tiga hari, maka sekarang simpanlah selama jelas bagimu manfaatnya. Dahulu aku melarang kalian membuat anggur selain dalam qirbah, maka sekarang minumlah dari segala tempat air, asal jangan kamu minum yang memabukkan." Ibnu Numair berkata dalam hadits yang diriwayatkannya; Dari [Abdullah bin Buraidah] dari [bapaknya] -dalam jalur lain- Dan Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Zubaid Al Yami] dari [Muharib bin Ditsar] dari [Ibnu Buraidah] -menurutku- dari [bapaknya] -keraguan dari Abu Khaitsamah- dari Nabi shallallahu 'alaihi wasallam -dalam jalur lain- Dan Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] Telah menceritakan kepada kami [Qabishah bin Uqbah] dari [Sufyan] dari [Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnu Abu Umar] dan [Muhammad bin Rafi'] dan [Abdu bin Humaid] semuanya dari [Abdurrazaq] dari [Ma'mar] dari [Atha' Al Khurasani] ia berkata, telah menceritakan kepadaku [Abdullah bin Buraidah] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam. Semuanya adalah semakna dengan hadits Abu Sinan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2260</td></tr><tr><td>Arabic No</td><td>977.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Мухариб ибн Дисар передал со слов Ибн Бурайды о том, что его отец (Бурайда), да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “(Прежде) я запрещал вам посещать могилы, но (отныне) посещайте их, и я запрещал вам (есть) мясо жертвенных животных более трёх дней, но (отныне можете) хранить его, сколько захотите, и я запрещал вам делать напиток из фиников в чём бы то ни было, кроме больших бурдюков /сикъаъ/, (отныне же вы можете) пить (напитки, которые приготовляются) в любых бурдюках, но не пейте ничего опьяняющего!”».Ибн Нумайр в своей версии сказал: «От ‘Абдуллаха ибн Бурайда, передавшего от своего отца».В другой версии этого хадиса сообщается, что Пророк ﷺ сказал: «…а кто пожелает посещать могилы, пусть посещает, ибо, поистине, они напомнят ему о смерти!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2260</td></tr><tr><td>Arabic No</td><td>977.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 136</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:(The Prophet) said, "O Allah! Bless our Sham and our Yemen." 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Husain bin Al Hasan] berkata, telah menceritakan kepada kami [Ibnu 'Aun] dari [Nafi'] dari [Ibnu 'Umar] berkata, "Beliau berdoa: "Ya Allah, berkatilah kami pada negeri Syam kami dan negeri Yaman kami." Ibnu 'Umar berkata, "Para sahabat berkata, "Juga untuk negeri Najed kami." Beliau kembali berdoa: "Ya Allah, berkatilah kami pada negeri Syam kami dan negeri Yaman kami." Para sahabat berkata lagi, "Juga untuk negeri Najed kami." Ibnu 'Umar berkata, "Beliau lalu berdoa: "Disanalah akan terjadi bencana dan fitnah, dan di sana akan muncul tanduk setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1037</td></tr><tr><td>Arabic No</td><td>1037</td></tr><tr><td>Reference</td><td>Book 15 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что однажды Пророк ﷺ воскликнул: «О Аллах, благослови нас в нашем Шаме и в нашем Йемене!» Люди спросили: «И в нашем Неджде?» (Не ответив, он ещё раз) воскликнул: «О Аллах, благослови нас в нашем Шаме и в нашем Йемене!» (Люди снова) спросили: «И в нашем Неджде?» (Тогда Пророк ﷺ) сказал: «Там будут землетрясения и испытания и оттуда поднимется край головы шайтана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1037</td></tr><tr><td>Arabic No</td><td>1037</td></tr><tr><td>Reference</td><td>Book 15 Hadith 32</td></tr></tbody></table></div>
 

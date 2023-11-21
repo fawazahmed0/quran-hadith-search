@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Do not make your houses a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub bin Abdurrahman Al Qariy] dari [Suhail] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian jadikan rumah-rumah kalian sebagai kuburan, sesungguhnya syetan itu akan lari dari rumah yang di dalamnya dibacakan surat Al Baqarah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1824</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 6 Hadith 252</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Со слов Абу Хурайры (да будет доволен им Аллах) сообщается, что Посланник Аллаха ﷺ сказал: «Не превращайте свои дома в кладбища! Поистине, шайтан бежит из дома, в котором читают суру “аль-Бакара”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1824</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 6 Hadith 252</td></tr></tbody></table></div>
 

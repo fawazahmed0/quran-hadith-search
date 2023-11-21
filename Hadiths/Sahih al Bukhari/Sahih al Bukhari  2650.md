@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nu'man bin Bashir:My mother asked my father to present me a gift fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Abu Hayyan an-Taimiy] dari [Asy-Sya'biy] dari [An Nu'man bin Basyir radliallahu 'anhuma] berkata: "Ibuku bertanya bapakku perihal sebagian pemberiannya kepadaku dari hartanya kemudian dia ingin memberikannya semua kepadaku, maka ibuku berkata: "Aku tidak rela sampai kamu persaksikan kepada Nabi shallallahu 'alaihi wasallam. Maka ayahku membawaku, saat itu aku masih kecil, menemui Nabi shallallahu 'alaihi wasallam lalu berkata: "Sesungguhnya ibunya, binti Ruwahah, bertanya kepadaku tentang sebagaian pemberianku kepada anak ini". Beliau bertanya: "Apakah kamu memiliki anak selain dia ini". Bapakku menjawab: "Ya punya". Dia berkata: "Aku menduga Beliau bersabda: "Janganlah engkau ajak aku dalam persaksian yang curang". Dan berkata, [Abu Hariz] dari [Asy Sya'biy]: "Aku tidak mau bersaksi diatas kecurangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2650</td></tr><tr><td>Arabic No</td><td>2650</td></tr><tr><td>Reference</td><td>Book 52 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Ну‘ман ибн Башир, да будет доволен Аллах им и его отцом, сказал: «(Однажды) моя мама попросила отца подарить мне что-то из его имущества. После того как он сделал мне этот подарок, она сказала: “Я не буду этим довольна, пока ты не попросишь Пророка ﷺ засвидетельствовать (дарение)”. Тогда (мой отец) взял меня за руку, а я в это время был ещё мальчиком, привёл меня к Пророку ﷺ и сказал: “Его мать бинт Раваха, попросила меня сделать ему подарок!” (Пророк ﷺ) спросил: “У тебя есть другие дети, кроме него?” (Мой отец) ответил: “Да”. (Тогда Пророк ﷺ) сказал: “Не делай меня свидетелем несправедливости!”». Аш-Ша’би передал, что он сказал: «…Я не буду свидетелем несправедливости!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2650</td></tr><tr><td>Arabic No</td><td>2650</td></tr><tr><td>Reference</td><td>Book 52 Hadith 14</td></tr></tbody></table></div>
 

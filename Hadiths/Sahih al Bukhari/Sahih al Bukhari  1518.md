@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Qasim bin Muhammad:'Aisha said, "O Allah's Messenger (ﷺ)! You perf
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin 'Ali] telah menceritakan kepada kami [Abu 'Ashim] telah menceritakan kepada kami [Aiman bin Nabil] telah menceritakan kepada kami [Al Qasim bin Muhammad] dari ['Aisyah radliallahu 'anha] bahwa dia berkata: "Wahai Rasulullah, Kalian sudah ber'umrah sedangkan aku belum". Maka Beliau berkata: "Wahai 'Abdurrahman, pergilah bersama saudaramu ini dan ber'umrahlah dari Tan'im". Maka dia ('Abdurrahman) menaikkan 'Aisyah radliallahu 'anha ke atas untanya kemudian 'Aisyah radliallahu 'anha melaksanakan 'umrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1518</td></tr><tr><td>Arabic No</td><td>1518</td></tr><tr><td>Reference</td><td>Book 25 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «О Посланник Аллаха! Вы совершили ‘умру, а я нет». Он сказал: «О, ‘Абдуррахман! Отправляйся со своей сестрой и помоги ей совершить ‘умру из Тан‘има». Тогда ‘Абдуррахман посадил её позади себя на верблюдицу, и она совершила ‘умру
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1518</td></tr><tr><td>Arabic No</td><td>1518</td></tr><tr><td>Reference</td><td>Book 25 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The example of a believer is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Mundzir] dia berkata; telah menceritakan kepadaku [Muhammad bin Fulaih] dia berkata; telah menceritakan kepadaku [Ayahku] dari [Hilal bin Ali] penduduk dari Bani 'Amir bin Lu'ai, dari ['Atha' bin Yasar] dari [Abu Hurairah] radliallahu 'anhu dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Permisalan seorang mukmin seperti dahan di suatu pohon yang dapat bengkok ketika tertiaup angin dan apabila tertimpa musibah dia akan tetap tegak lurus, sedangkan permisalan orang fajir ibarat tanaman padi yang senantiasa tegak sehingga Allah akan merobohkannya kapan saja Dia kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5644</td></tr><tr><td>Arabic No</td><td>5644</td></tr><tr><td>Reference</td><td>Book 75 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Верующий подобен только что прозревшему ростку, который сгибается туда, куда дует ветер, а когда ветер стихает, росток выпрямляется, и таким же образом верующий подвергается испытаниям. Что же касается неверного, то он подобен кедру, который остаётся твёрдым и несгибаемым, пока Аллах не сломает его, когда пожелает».\nПередают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Верующий подобен только что появившемуся ростку: откуда бы ни подул ветер, он сгибает его, а когда ветер стихает, росток выпрямляется. (Таким же образом верующий подвергается испытаниям посредством всевозможных) невзгод(, но хранит терпение). Что же касается нечестивца, то он подобен кедру, который остаётся твёрдым и несгибаемым, пока Аллах не сломает его, когда пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5644</td></tr><tr><td>Arabic No</td><td>5644</td></tr><tr><td>Reference</td><td>Book 75 Hadith 4</td></tr></tbody></table></div>
 

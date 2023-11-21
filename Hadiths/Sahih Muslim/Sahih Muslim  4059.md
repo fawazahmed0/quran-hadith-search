@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Omar Ibn Al-Khattâb (que Dieu l'agrée), l'Envoyé de Dieu (paix et b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Ibnu Syihab] dari [Malik bin Aus bin Hadatsan] bahwa dia berkata, "Suatu ketika saya pernah datang seraya berkata, 'Adakah di antara kalian yang ingin menukarkan dirham? ' maka Thalhah bin Ubaidullah -yang saat itu dia sedang berada di samping [Umar bin Khattab] - berkata, 'Tunjukkanlah emasmu kepadaku dan berikanlah kepadaku, jika nanti pelayanku datang maka saya akan memberikan dirham kepadamu.' Maka Umar bin Khattab berkata, "Demi Allah, janganlah kalian melakukan jual beli seperti ini, sebaiknya kamu berikan dirham ini sekarang atau kamu kembalikan emasnya. Bukankah Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Dirham dengan emas adalah riba kecuali jika dengan tunai, gandum dengan gandum adalah riba kecuali jika dengan tunai, dan kurma dengan kurma adalah riba kecuali jika dengan tunai." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ishaq] dari [Ibnu 'Uyainah] dari [Az Zuhri] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4059</td></tr><tr><td>Arabic No</td><td>1586.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4059</td></tr><tr><td>Arabic No</td><td>1586.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 98</td></tr></tbody></table></div>
 

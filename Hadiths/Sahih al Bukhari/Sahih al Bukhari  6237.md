@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Aiyub:The Prophet (ﷺ) said, "It is not lawful for a Muslim to des
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Atha'bin Yazid Al Laitsi] dari [Abu Ayyub] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidak halal seorang muslim mendiamkan saudaranya lebih dari tiga hari, jika bertemu saling menjauhkan, dan yang paling baik di antara keduanya adalah yang memulai salam." Sufyan menyebutkan, bahwa dia mendengar Zuhri hingga tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6237</td></tr><tr><td>Arabic No</td><td>6237</td></tr><tr><td>Reference</td><td>Book 79 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Аййуба, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не разрешается мусульманину покидать (бойкотировать) своего брата (по вере) на срок, превышающий три дня(, в течение которых) они будут отворачиваться друг от друга при встрече. Лучшим же из них двоих является тот, кто первым поприветствует другого миром /салямом/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6237</td></tr><tr><td>Arabic No</td><td>6237</td></tr><tr><td>Reference</td><td>Book 79 Hadith 11</td></tr></tbody></table></div>
 

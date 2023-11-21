@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Ibrahim b. Qariz reported that he found Abu Huraira performing ablut
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>352</td></tr><tr><td>Reference</td><td>Book 3 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн ‘Абдуль‘азиз передал, что ‘Абдуллах ибн Ибрахим ибн Кариз сообщил ему, что (однажды, когда) он увидел Абу Хурайру, совершавшего омовение в мечети, тот сказал (ему): «Я совершаю омовение только потому, что ел большие куски сушёного творога, а я слышал, как Посланник Аллаха ﷺ сказал: “Совершайте малое омовение (после употребления в пищу) того, чего коснулся огонь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>352</td></tr><tr><td>Reference</td><td>Book 3 Hadith 110</td></tr></tbody></table></div>
 

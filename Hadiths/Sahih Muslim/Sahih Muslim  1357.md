@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:A man came panting and entered the row of worshippers and said: Pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Qatadah] dan [Tsabit] dan [Humaid] dari [Anas] bahwa seorang laki-laki datang dan masuk shaff (barisan) sementara nafasnya masih terengah-engah, lalu mengucapkan ALHAMDU LILLAHI HAMDAN KATSIIRAN THAYYIBAN MUBAARAKAN FIIHI (segala puji bagi Allah, pujian yang banyak, baik, lagi berbarakah)." Seusai shalat, Rasulullah shallallahu 'alaihi wasallam bertanya: "Siapakah diantara kalian yang mengucapkan kalimat tadi?" Para sahabat terdiam. Beliau mengulangi pertanyaannya; "Siapakah yang mengucapkan kalimat tadi, karena hal itu tidak masalah baginya." Lantas seorang sahabat berujar; "Aku tadi dating, sementara napasku masih ternegah-engah, maka kuucapkan kalimat itu (maksudnya pendek dan ringkas)." Beliau bersabda: "Tadi aku melihat dua belas malaikat berebut mengangkat ucapan itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1357</td></tr><tr><td>Arabic No</td><td>600</td></tr><tr><td>Reference</td><td>Book 5 Hadith 192</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(Как-то раз) один человек, запыхавшись, явился (в мечеть), присоединился к ряду молящихся и сказал: “Хвала Аллаху, хвала многая, благая и благословенная” /Аль-хамду ли-Лляхи хамдан касиран, тайибан, мубаракан фи-хи/. Закончив молиться, Посланник Аллаха ﷺ спросил: “Кто из вас произнёс эти слова?”, но люди хранили молчание. (Пророк ﷺ снова) спросил: “Кто из вас произнёс (эти слова)? Поистине, ничего дурного он не сказал”. Тогда этот человек отозвался: “Когда я пришёл, мне было тяжело дышать, и я произнёс (эти слова)”. (Выслушав его, Пророк ﷺ) сказал: “Я видел двенадцать ангелов, (каждый из которых старался опередить другого) и вознести (эти слова к небесам первым)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1357</td></tr><tr><td>Arabic No</td><td>600</td></tr><tr><td>Reference</td><td>Book 5 Hadith 192</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir reported the Prophet (ﷺ) as saying:Shut your door and make mention of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij] telah mengabarkan kepadaku ['Atha] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tutuplah pintumu dan sebutlah nama Allah, sesungguhnya setan tidak akan membuka pintu yang tertutup. Matikan lampu kalian dan sebutlah nama Allah! Tutuplah bejanamu walaupun hanya dengan sebatang ranting yang merintang di atasnya, dan sebutlah nama Allah! Ikatlah tempat minum kalian, dan sebutlah nama Allah!" Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] dari [Malik] dari [Abu Az Zubair] dari [Jabir bin Abdullah] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini dan tidak secara lengkap. Beliau bersabda: "Sesungguhnya setan tidak membuka pintu yang tertutup, tidak akan melepas ikatan, serta tidak membuka bejana. Sesungguhnya tikus-tikus dapat membakar rumah manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5623) Sahih Muslim (2012)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3731</td></tr><tr><td>Arabic No</td><td>3731</td></tr><tr><td>Reference</td><td>Book 27 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира (да будет доволен Аллах им и его отцом), что Пророк ﷺ сказал: «Закрывай ночью двери своего дома, поминая имя Аллаха /Бисми-Ллях/, ибо, поистине, шайтан не может открыть закрытую дверь, и гаси свой светильник, поминая имя Аллаха, и прикрывай свой сосуд, поминая имя Аллаха, а если прикрыть нечем, положи хотя бы палочку поперёк него, и завязывай свой бурдюк, поминая имя Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5623) Sahih Muslim (2012)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3731</td></tr><tr><td>Arabic No</td><td>3731</td></tr><tr><td>Reference</td><td>Book 27 Hadith 63</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:May I not inform you abou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7372</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 54 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма сказал: Я слышал, как Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Не рассказать ли вам о Даджале то, о чём ни один пророк не рассказывал своему народу? Поистине, будет он кривым и, поистине, принесёт он с собой подобие рая и огня, и то, что он будет называть раем, (окажется) огнём. И, поистине, я предупреждаю вас о нём, как предупредил о нём свой народ Нух!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7372</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 54 Hadith 133</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported Allah's Messenger (ﷺ) as saying:To the tribe of Aslam Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ["ubaidullah bin 'Umar Al Qawariri] dan [Muhammad bin Al Mutsanna] serta [Ibnu Basysyar] seluruhnya dari [Ibnu Mahdi] dia berkata; [Ibnu Al Mutsanna] berkata; Telah menceritakan kepadaku ['Abdur Rahman bin Mahdi]; Telah menceritakan kepada kami [Syu'bah] dari [Abu 'Imran Al Jauni] dari ['Abdullah bin Ash Shamit] dari [Abu Dzar] dia berkata; Rasulullah shallallahu 'alaihi wasallam berkata kepadaku; "Temuilah kaummu dan katakanlah kepada mereka; 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: 'Semoga Allah menyelamatkan suku Aslam, dan semoga Allah mengampuni suku Ghifar.' Telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Abu Dawud]; Telah menceritakan kepada kami [Syu'bah] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6430</td></tr><tr><td>Arabic No</td><td>2514.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 259</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6430</td></tr><tr><td>Arabic No</td><td>2514.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 259</td></tr></tbody></table></div>
 

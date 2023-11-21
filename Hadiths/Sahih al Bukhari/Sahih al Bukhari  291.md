@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham:as the following Hadith 290. Narrated Abu Huraira: The Prophet (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan kepada kami [Hisyam]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Nu'aim] dari [Hisyam] dari [Qatadah] dari [Al Hasan] dari [Abu Rafi'] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika seseorang duduk di antara empat anggota badannya, lalu bersungguh-sungguh kepadanya, maka wajib banginya mandi." Hadits ini dikuatkan oleh ['Amru bin Marzuq] dari [Syu'bah] seperti hadits tersebut. Dan [Musa] berkata, telah menceritakan kepada kami [Aban] berkata, telah menceritakan kepada kami [Qatadah] telah mengabarkan kepada kami [Al Hasan] seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>291</td></tr><tr><td>Arabic No</td><td>291</td></tr><tr><td>Reference</td><td>Book 5 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Пророк ﷺ сказал: «Если (мужчина) усядется меж четырёх частей (тела женщины) и совершит с ней половое сношение, то полное омовение становится обязательным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>291</td></tr><tr><td>Arabic No</td><td>291</td></tr><tr><td>Reference</td><td>Book 5 Hadith 43</td></tr></tbody></table></div>
 

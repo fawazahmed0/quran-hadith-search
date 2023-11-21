@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amir bin Al-Harith:Allah's Messenger (ﷺ) did not leave a Dinar or a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4461</td></tr><tr><td>Arabic No</td><td>4461</td></tr><tr><td>Reference</td><td>Book 64 Hadith 477</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн аль-Харис, да будет доволен им Аллах, сказал: «После кончины Посланника Аллаха ﷺ (выяснилось, что) он не оставил после себя ни динара, ни дирхема, ни раба, ни невольницы, и ничего иного, кроме белой мулицы, на которой он ездил, своего оружия и той земли(, доходы с которой он велел раздавать в качестве) милостыни для путников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4461</td></tr><tr><td>Arabic No</td><td>4461</td></tr><tr><td>Reference</td><td>Book 64 Hadith 477</td></tr></tbody></table></div>
 

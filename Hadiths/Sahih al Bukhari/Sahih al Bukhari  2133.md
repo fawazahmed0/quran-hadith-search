@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "He who buys foodstuff should not sel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Abdullah bin Dinar] berkata; Aku mendengar [Ibnu 'Umar radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang membeli makanan janganlah dia menjualnya sebelum dia memegangnya (berada ditangannya secara sah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 34 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, передал, что Пророк ﷺ сказал: «Кто купил еду, пусть не продает, пока не получит ее в свои руки (собственность)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 34 Hadith 85</td></tr></tbody></table></div>
 

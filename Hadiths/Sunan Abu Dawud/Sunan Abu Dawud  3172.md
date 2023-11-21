@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amir b. Rabi'ah:The Prophet (ﷺ) as saying: When you see a funeral, s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Salim], dari [ayahnya], dari [Amir bin Rabi'ah] hingga sampai kepada Nabi shallallahu 'alaihi wasallam: "Apabila kalian melihat jenazah, maka berdirilah kalian untuk (menghormati) nya hingga jenazah telah melewati kalian atau diletakkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1307) Sahih Muslim (958)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3172</td></tr><tr><td>Arabic No</td><td>3172</td></tr><tr><td>Reference</td><td>Book 21 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амир ибн Раби‘а передаёт, что Пророк ﷺ сказал: «Если увидите погребальные носилки, то встаньте и не садитесь, пока похоронная процессия не минует вас или погребальные носилки не опустят на землю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1307) Sahih Muslim (958)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3172</td></tr><tr><td>Arabic No</td><td>3172</td></tr><tr><td>Reference</td><td>Book 21 Hadith 84</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Verily, Belief returns and g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Anas bin 'Iyadh] berkata, telah menceritakan kepada saya ['Ubaidullah] dari [Khubaib bin 'Abdurrahman] dari [Hafsh bin 'Ashim] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Iman akan menyebar di Madinah sebagaimana ular yang keluar (mencari makan) lalu masuk kedalam lubangnya (untuk berlindung)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1876</td></tr><tr><td>Arabic No</td><td>1876</td></tr><tr><td>Reference</td><td>Book 29 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, вера вернётся в Медину подобно тому, как змея возвращается в свою нору (в случае опасности)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1876</td></tr><tr><td>Arabic No</td><td>1876</td></tr><tr><td>Reference</td><td>Book 29 Hadith 10</td></tr></tbody></table></div>
 

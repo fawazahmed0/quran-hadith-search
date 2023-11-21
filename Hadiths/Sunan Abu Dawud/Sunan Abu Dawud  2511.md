@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: I heard the Messenger of Allah (ﷺ) say: What is evil in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Al Jarrah], dari [Abdullah bin Yazid] dari [Musa bin Ali bin Rabah], dari [ayahnya], dari [Abdul 'Aziz bin Marwan], ia berkata; saya mendengar [Abu Hurairah] berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Seburuk-buruk perkara yang ada pada seseorang adalah kekikiran serta ketamakan, dan sifat penakut serta lemah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2511</td></tr><tr><td>Arabic No</td><td>2511</td></tr><tr><td>Reference</td><td>Book 15 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуль-‘Азиз ибн Марван сказал: Я слышал, как Абу Хурайра говорил: «Я слышал, как Посланник Аллаха ﷺ говорил: “Худшее, что есть в мужчине это беспокойная скупость и сильная трусость”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2511</td></tr><tr><td>Arabic No</td><td>2511</td></tr><tr><td>Reference</td><td>Book 15 Hadith 35</td></tr></tbody></table></div>
 

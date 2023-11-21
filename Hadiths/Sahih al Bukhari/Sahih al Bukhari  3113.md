@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:Fatima complained of what she suffered from the hand mill and from
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Badal bin Al Muhabbar] telah mengabarkan kepada kami [Syu'bah] berkata telah mengabarkan kepadaku [Al Hakam] berkata aku mendengar [Ibnu Abi Laila] telah bercerita kepada kami ['Ali] bahwa Fathimah 'alaihas salam pernah mengeluh tentang apa yang dialaminya karena menumbuk dan menggiling tepung. Kemudian ia mendapat berita bahwa Rasulullah Shallallahu'alaiwasallam mendapatkan tawanan, maka ia datangi Beliau sekaligus ia minta seorang pembantu namun Beliau tidak setuju. Kemudian Fathimah menceritakan perkaranya kepada 'Aisyah. Ketika Rasulullah Shallallahu'alaiwasallam datang, 'Aisyah menceritakannya kepada Beliau. Maka Beliau mendatangi kami berdua saat kami sudah masuk ke tempat tidur kami untuk beristirahat lalu Beliau berkata: "Tetaplah kalian disitu". Hingga aku mendapatkan kedua kaki Beliau yang dingin di dekat dadaku. Beliau bersabda: "Maukah kalian berdua aku tunjukkan sesuatu yang lebih baik dari apa yang kalian berdua pinta, yaitu jika kalian sudah berada di tempat tidur kalian, bacalah takbir (Allahu Akbar) tiga puluh empat kali, hamdalah (alhamdulillah) tiga puluh tiga kali dan tasbih (subhaanallah) tiga puluh tiga kali karena sesungguhnya bacaan-bacaan ini lebih baik dari apa yang kalian berdua memintanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3113</td></tr><tr><td>Arabic No</td><td>3113</td></tr><tr><td>Reference</td><td>Book 57 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Али: «(Однажды) Фатыма, да будет доволен ею Аллах, стала жаловаться на то, что из-за ручной мельницы у неё болит рука. И узнав, что Посланнику Аллах ﷺ привезли невольников, она пошла к нему, чтобы попросить его дать ей служанку, но не застала его, и рассказала об этом ‘Аише. Когда Пророк ﷺ (вернулся домой), ‘Аиша рассказала ему (о том, что к ней приходила Фатима), и он пришёл к нам, когда мы уже лежали в своих постелях. Мы хотели подняться, но он сказал: “Оставайтесь на своём месте”, (а сам сел между нами), и я даже ощутил прохладу его ступни [кожей] груди. Потом он сказал: “Не указать ли мне вам на что-то лучшее, чем то, что вы просили? Когда будете ложиться спать, произносите слова “Аллах велик” /Аллаху акбар/ по тридцать четыре раза, “хвала Аллаху” /аль-хамду ли-Лляхи/ по тридцать три раза и “Пречист Аллах” /субхана Ллахи/ по тридцать три раза, и это будет для вас лучше, чем то, что вы просили”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3113</td></tr><tr><td>Arabic No</td><td>3113</td></tr><tr><td>Reference</td><td>Book 57 Hadith 22</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:I heard Sa'id bin Zaid saying, "I have seen myself tied and forced
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Sulaiman] telah menceritakan kepada kami [Abbad] dari [Isma'il] aku mendengar [Qais] aku mendengar [Sa'id bin Zaid] mengatakan; aku pernah bermimpi bahwa Umar adalah peneguhku terhadap Islam, dan sekiranya gunung Uhud runtuh karena perlakuan kalian terhadap Utsman, niscaya gunung itu pun runtuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6942</td></tr><tr><td>Arabic No</td><td>6942</td></tr><tr><td>Reference</td><td>Book 89 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Зейд говорил людям: «Поистине, (однажды) ’Умар связал меня за то, что я принял ислам, (этого было до того, как ‘Умар сам принял ислам). И если бы гора Ухуд рухнула из-за того, что вы сделали с ‘Усманом, то имела бы на это полное право»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6942</td></tr><tr><td>Arabic No</td><td>6942</td></tr><tr><td>Reference</td><td>Book 89 Hadith 3</td></tr></tbody></table></div>
 

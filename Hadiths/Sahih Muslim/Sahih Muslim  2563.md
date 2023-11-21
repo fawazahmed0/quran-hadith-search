@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with both of them) said that the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma bahwa Nabi shallallahu 'alaihi wasallam melarang puasa Wishal, maka para sahabat pun berkata, "Bukankah Anda sendiri melakukan puasa Wishal?" Beliau bersabda: "Sesungguhnya saya tidaklah sebagaimana kalian, karena saya diberi makan dan minum (oleh Rabb-ku)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2563</td></tr><tr><td>Arabic No</td><td>1102.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2563</td></tr><tr><td>Arabic No</td><td>1102.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 69</td></tr></tbody></table></div>
 

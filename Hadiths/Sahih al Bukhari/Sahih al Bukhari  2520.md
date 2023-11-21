@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma' bint Abu Bakr:We were ordered to free slaves at the time of lunar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar] telah menceritakan kepada kami ['Atstsam] telah menceritakan kepada kami [Hisyam] dari [Fathimah binti Al Mundzir] dari [Asma' binti Abu Bakar radliallahu 'anhuma] berkata: "Kami diperintahkan untuk membebaskan budak ketika terjadi gerhana matahari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2520</td></tr><tr><td>Arabic No</td><td>2520</td></tr><tr><td>Reference</td><td>Book 49 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Асма бинт Аби Бакр, да будет доволен ею Аллах, что она сказала: «Нам было велено освобождать рабов при затмениях»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2520</td></tr><tr><td>Arabic No</td><td>2520</td></tr><tr><td>Reference</td><td>Book 49 Hadith 4</td></tr></tbody></table></div>
 

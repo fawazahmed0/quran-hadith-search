@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Rafi (Allah be pleased with him) reported that Zuhair b. Rafi (who was his uncle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [Abu Mushir] telah mengabarkan kepadaku [Yahya bin Hamzah] telah menceritakan kepadaku [Abu 'Amru Al Auza'i] dari [Abu An Najasy] bekas budak Rafi' bin Khadij, dari [Rafi'] bahwa [Dzuhair bin Rafi'] dia adalah paman Rafi', dia berkata; Suatu ketika Dzuhair mendatangiku, dia berkata; "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang dari usaha yang menguntungkan kita." Saya bertanya; "Apakah itu? Tidaklah Rasulullah shallallahu 'alaihi wasallam mengatakan sesuatu kecuali hal itu adalah benar." Dia berkata; Beliau bertanya kepadaku: "Bagaimana kalian memperlakukan tanah perkebunan kalian?" Maka saya menjawab; "Wahai Rasulullah, kami biasa menyewakan dengan bayaran seperempat atau beberapa wasaq kurma atau gandum." Beliau bersabda: "Jangan kalian lakukan hal itu, tanamilah sendiri atau jika tidak, biarkanlah tanah tersebut." Telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Ikrimah bin 'Ammar] dari [Abu An Najasyi] dari [Rafi'] dari Nabi shallallahu 'alaihi wasallam, dan dia tidak menyebutkan "dari pamannya yaitu Dzuhair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3949</td></tr><tr><td>Arabic No</td><td>1548.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3949</td></tr><tr><td>Arabic No</td><td>1548.05</td></tr><tr><td>Reference</td><td>Book 21 Hadith 148</td></tr></tbody></table></div>
 

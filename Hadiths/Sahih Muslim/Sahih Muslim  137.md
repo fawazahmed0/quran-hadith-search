@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Humran that he heard Uthman saying this:I hea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] keduanya dari [Ismail bin Ibrahim], [Abu Bakar] berkata, telah menceritakan kepada kami [Ibnu Ulayyah] dari [Khalid] dia berkata, telah menceritakan kepada kami [al-Walid bin Muslim] dari [Humran] dari [Utsman] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa meningggal sedangkan dia mengetahui bahwa tidak ada tuhan (yang berhak disembah) selain Allah, niscaya dia masuk surga." Telah menceritakan kepada kami [Muhammad bin Abu Bakar al-Muqaddami] telah menceritakan kepada kami [Bisyr bin al-Mufadldlal] telah menceritakan kepada kami [Khalid al-Hadzdza'] dari [al-Walid Abu Bisyr] dia berkata, aku mendengar [Humran] berkata, aku mendengar [Utsman] berkata, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda sama seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>26.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хумрана, что ‘Усман сказал: «Я слышал, как Посланник Аллаха ﷺ говорил эти слова»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>26.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
 

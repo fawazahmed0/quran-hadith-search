@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Usamah ibn Sharik: I came to the Prophet (ﷺ) and his Companions were 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar An Namari] telah menceritakan kepada kami [Syu'bah] dari [Ziyad bin 'Ilaqah] dari [Usamah bin Syarik] ia berkata, "Aku pernah mendatangi Nabi shallallahu 'alaihi wasallam dan para sahabatnya, dan seolah-olah di atas kepala mereka terdapat burung. Aku kemudian mengucapkan salam dan duduk, lalu ada seorang Arab badui datang dari arah ini dan ini, mereka lalu berkata, "Wahai Rasulullah, apakah boleh kami berobat?" Beliau menjawab: "Berobatlah, sesungguhnya Allah 'azza wajalla tidak menciptakan penyakit melainkan menciptakan juga obatnya, kecuali satu penyakit, yaitu pikun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3855</td></tr><tr><td>Arabic No</td><td>3855</td></tr><tr><td>Reference</td><td>Book 29 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Усамы ибн Шарика, да будет доволен им Аллах: «Я пришёл к Пророку ﷺ причём сподвижники его сидели так, будто на головах у них птицы. Я поприветствовал присутствующих, после чего сел. А потом пришли арабы с разных сторон и спросили: “О Посланник Аллаха! Следует ли нам лечиться?” Он ответил: “Лечитесь, ибо Всемогущий и Великий Аллах, создав болезнь, создал и лекарство от неё, кроме одной старости”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3855</td></tr><tr><td>Arabic No</td><td>3855</td></tr><tr><td>Reference</td><td>Book 29 Hadith 1</td></tr></tbody></table></div>
 

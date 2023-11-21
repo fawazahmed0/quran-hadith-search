@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Khalid said: AbuZiyad Khiyar ibn Salamah asked A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Haiwah bin Syuraih] telah menceritakan kepada kami [Baqiyyah] dari [Bahir] dari [Khalid] dari [Abu Ziyad Khiyar bin Salamah] bahwa ia pernah bertanya kepada [Aisyah] mengenai bawang merah, lalu ia menjawab, "Sesungguhnya makanan terakhir yang dimakan Rasulullah shallallahu 'alaihi wasallam adalah makanan yang padanya terdapat bawang merah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3829</td></tr><tr><td>Arabic No</td><td>3829</td></tr><tr><td>Reference</td><td>Book 28 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зияд Хияр ибн Саляма передаёт, что он спросил ‘Аишу, да будет доволен ею Аллах, о луке, и она сказала: «Поистине, последняя еда, которую ел Посланник Аллаха ﷺ содержала лук»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3829</td></tr><tr><td>Arabic No</td><td>3829</td></tr><tr><td>Reference</td><td>Book 28 Hadith 94</td></tr></tbody></table></div>
 

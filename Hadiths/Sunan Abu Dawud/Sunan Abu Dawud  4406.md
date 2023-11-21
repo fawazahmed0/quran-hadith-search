@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said:He was presented before the prophet (ﷺ) on the day of Uhd whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Yahya] dari [Ubaidullah] ia berkata; telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam pernah memeriksa dirinya pada waktu perang uhud, waktu itu umurnya baru empat belas tahun. Sehingga beliau tidak mengizinkan untuk ikut berperang. Dan pada perang Khandaq beliau juga memeriksanya, waktu itu umurnya lima belas tahun, maka beliau pun memberinya izin." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Ibnu Idris] dari [Ubaidullah bin Umar] ia berkata, " [Nafi'] berkata, "Aku telah menceritakan hadits ini kepada Umar bin Abdul Aziz, lalu ia berkata, "(maka) hadits ini adalah batas untuk membedakan anak kecil dengan orang dewasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4097) Sahih Muslim (1868)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4406</td></tr><tr><td>Arabic No</td><td>4406</td></tr><tr><td>Reference</td><td>Book 40 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умар, да будет доволен Аллах им и его отцом, что Пророк ﷺ производил смотр войск перед битвой при Ухуде, а ему тогда было четырнадцать лет, и (Пророк ﷺ) не разрешил ему (участвовать в сражении), а когда он производил смотр войск перед битвой у Рва, ему было пятнадцать лет, и (Пророк ﷺ) разрешил ему (присоединиться к воинам)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4097) Sahih Muslim (1868)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4406</td></tr><tr><td>Arabic No</td><td>4406</td></tr><tr><td>Reference</td><td>Book 40 Hadith 56</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), L'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Sufyan]; Telah menceritakan kepadaku [Musa bin Abu 'Aisyah] dari ['Ubaidillah bin 'Abdullah] dari ['Aisyah] dia berkata; "Kami pernah mengobati Rasulullah shallallahu 'alaihi wasallam dengan ladud (menuangkan obat dari pinggir mulut orang yang sakit) ketika beliau sedang sakit. Kemudian beliau memberi isyarat, 'janganlah kamu mengobatiku dengan ladud.' Maka kami katakan; 'orang sakit memang tidak suka obat.' Setelah sadar Rasulullah shallallahu 'alaihi wasallam berkata; 'Tidak ada seorangpun di antara kalian melainkan ia harus dimasuki mulutnya dengan obat (ladud), kecuali Abbas karena dia sekarang tidak bersama kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5761</td></tr><tr><td>Arabic No</td><td>2213</td></tr><tr><td>Reference</td><td>Book 39 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5761</td></tr><tr><td>Arabic No</td><td>2213</td></tr><tr><td>Reference</td><td>Book 39 Hadith 115</td></tr></tbody></table></div>
 

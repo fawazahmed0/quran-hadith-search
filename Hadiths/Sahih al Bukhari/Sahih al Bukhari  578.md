@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The believing women covered with their veiling sheets used to at
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah mengabarkan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syuhab] berkata, telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwa ['Aisyah] mengabarkan kepadanya, ia mengatakan, "Kami, wanita-wanita Mukminat, pernah ikut shalat fajar bersama Rasulullah shallallahu 'alaihi wasallam dengan menutup wajahnya dengan kerudung, kemudian kembali ke rumah mereka masing-masing setelah selesai shalat tanpa diketahui oleh seorangpun karena hari masih gelap
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>578</td></tr><tr><td>Arabic No</td><td>578</td></tr><tr><td>Reference</td><td>Book 9 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Шихаб сказал: «Мне сообщил ‘Урва о том, что ‘Аиша рассказывала ему: “Жёны верующих присутствовали с Посланником Аллаха ﷺ на утренней молитве, покрытые плащами, а затем после окончания молитвы они возвращались к себе домой, и в рассветной темноте никто не мог их узнавать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>578</td></tr><tr><td>Arabic No</td><td>578</td></tr><tr><td>Reference</td><td>Book 9 Hadith 54</td></tr></tbody></table></div>
 

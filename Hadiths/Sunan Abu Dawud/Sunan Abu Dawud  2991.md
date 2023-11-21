@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari [Mutharrif] dari ['Amir Asy Sya'bi], ia berkata; dahulu Nabi shallallahu 'alaihi wasallam memiliki saham yang disebut Shafi, apabila beliau menghendaki maka beliau mengambil budak laki-laki, dan apabila beliau menghendaki maka beliau mengambil budak perempuan dan apabila beliau menghendaki maka beliau mengambil kuda yang beliau pilih sebelum seperlima
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2991</td></tr><tr><td>Arabic No</td><td>2991</td></tr><tr><td>Reference</td><td>Book 20 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Амира аш-Ша‘би, что Пророку ﷺ полагался особый трофей /сафийй/, который он выбирал из добычи перед выделением хумуса. Это мог быть невольник, невольница или конь
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2991</td></tr><tr><td>Arabic No</td><td>2991</td></tr><tr><td>Reference</td><td>Book 20 Hadith 64</td></tr></tbody></table></div>
 

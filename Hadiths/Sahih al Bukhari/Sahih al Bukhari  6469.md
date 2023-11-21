@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, Verily Allah create
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub bin Abdurrahman] dari ['Amru bin Abu 'Amru] dari [Sa'id bin Abu Sa'id Al Maqburi] dari [Abu Hurairah] radliallahu 'anhu dia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah menjadikan rahmat (kasih sayang) seratus bagian, maka dipeganglah di sisi-Nya sembilan puluh sembilan bagian dan diturunkannya satu bagian untuk seluruh makhluk-Nya, sekiranya orang-orang kafir mengetahui setiap rahmat (kasih sayang) yang ada di sisi Allah, niscaya mereka tidak akan berputus asa untuk memperoleh surga, dan sekiranya orang-orang mukmin mengetahui setiap siksa yang ada di sisi Allah, maka ia tidak akan merasa aman dari neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6469</td></tr><tr><td>Arabic No</td><td>6469</td></tr><tr><td>Reference</td><td>Book 81 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, в тот день, когда Аллах создал милосердие, Он создал его из ста частей, оставив девяносто девять частей у Себя и ниспослав одну часть всем Своим созданиям, и если бы неверному было известно обо всём милосердии, которое имеется (в запасе) у Аллаха, он не терял бы надежду на Рай, а если бы верующему было известно обо всех (видах) мучений, которые имеются (в запасе) у Аллаха, он не (считал бы), что находится в безопасности от Огня!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6469</td></tr><tr><td>Arabic No</td><td>6469</td></tr><tr><td>Reference</td><td>Book 81 Hadith 58</td></tr></tbody></table></div>
 

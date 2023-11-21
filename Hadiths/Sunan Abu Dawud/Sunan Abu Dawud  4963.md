@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: Zayd ibn Aslam quoted his father as saying: Umar i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Zaid bin Abu Az Zarqa] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Hisyam bin Sa'd] dari [Zaid bin Aslam] dari [Bapaknya] bahwa Umar Ibnul Khaththab radliallahu 'anhu pernah memukul anaknya yang berjuluk Abu Isa, dan [Al Mughirah bin Syu'bah] juga berjuluk Abu Isa. Umar lalu berkata kepadanya, "Tidakkah cukup jika kamu dijuluki dengan Abu Abdullah?" Ia menjawab, "Yang memberi julukan itu adalah Rasulullah shallallahu 'alaihi wasallam." Umar menimpali, "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah diampuni dosanya baik yang lalu atau yang akan datang. Sementara kita berada dalam keadaan kita." Dan Al Mughirah tetap saja dijuluki dengan Abu Abdullah hingga meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4963</td></tr><tr><td>Arabic No</td><td>4963</td></tr><tr><td>Reference</td><td>Book 43 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4963</td></tr><tr><td>Arabic No</td><td>4963</td></tr><tr><td>Reference</td><td>Book 43 Hadith 191</td></tr></tbody></table></div>
 

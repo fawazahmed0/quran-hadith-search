@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported that Sa'd b. Ubada (Allah be pl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3763</td></tr><tr><td>Arabic No</td><td>1498.03</td></tr><tr><td>Reference</td><td>Book 19 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Са‘д ибн ‘Убада спросил: “О Посланник Аллаха, (верно ли, что) если я застану свою жену с (посторонним) мужчиной, то мне не (следует) прикасаться к нему, пока я не приведу четырёх свидетелей?” Посланник Аллаха ﷺ сказал: “Да”. (Услышав это, Са‘д) воскликнул: “Нет! Клянусь Тем, Кто послал тебя с истиной, если (такое случится), я сначала (ударю) его мечом!” Тогда Посланник Аллаха ﷺ сказал: “Слушайте, что говорит ваш господин. Поистине, он ревнив, но я ревнивее его, а Аллах рев­нивее меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3763</td></tr><tr><td>Arabic No</td><td>1498.03</td></tr><tr><td>Reference</td><td>Book 19 Hadith 21</td></tr></tbody></table></div>
 

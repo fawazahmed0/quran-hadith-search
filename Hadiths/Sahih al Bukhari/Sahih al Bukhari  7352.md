@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Al-'As:That he heard Allah's Messenger (ﷺ) saying, "If a jud
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yazid almuqri' almakki] telah menceritakan kepada kami [Haiwa bin Syuraikh] telah menceritakan kepadaku [Yazid bin Abdullah bin Al Had] dari [Muhammad bin Ibrahim bin Alharits] dari [Busr bin Sa'id] dari [Abu Qais] mantan budak Amru bin 'Ash, dari ['Amru bin 'ash] ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seorang hakim mengadili dan berijtihad, kemudian ijtihadnya benar, maka ia mendapat dua pahala, dan jika seorang hakim berijtihad, lantas ijtihadnya salah (meleset), baginya dua pahala." Kata 'Amru, 'Maka aku ceritakan hadis ini kepada [Abu Bakar bin Amru bin Hazm], dan ia berkata, 'Beginilah [Abu Salamah bin Abdurrahman] mengabarkan kepadaku dari [Abu Hurairah]. Dan [Abdul 'Aziz bin Al Muththalib] dari [Abdullah bin Abu Bakar] dari [Abu Salamah] dari Nabi shallallahu 'alaihi wasallam Shallallahu'alaihiwa sallam semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7352</td></tr><tr><td>Arabic No</td><td>7352</td></tr><tr><td>Reference</td><td>Book 96 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Амра бин аль-‘Аса, да будет доволен им Аллах, что он слышал, как Посланник Аллаха ﷺ сказал: «Если судья вынесет решение, проявив усердие, и (его решение) окажется правильным, ему (полагается) двойная награда, если же он вынесет решение, проявив усердие, и ошибётся, то ему (полагается одна) награда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7352</td></tr><tr><td>Arabic No</td><td>7352</td></tr><tr><td>Reference</td><td>Book 96 Hadith 79</td></tr></tbody></table></div>
 

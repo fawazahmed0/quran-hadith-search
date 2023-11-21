@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah be pleased with him) reported that mention was made o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Mu'adz bin Mu'adz] telah menceritakan kepada kami [Ibnu 'Aun] dari [Muhammad] dari [Abdurrahman bin Bisyr Al Anshari] dia berkata; Hadits ini dikembalikan riwayatnya sampai kepada [Abu Sa'id Al Khudri] dia berkata; Seseorang menyebutkan Azl di hadapan Nabi shallallahu 'alaihi wasallam, lantas beliau bertanya: "Apa yang kalian maksudkan?" mereka menjawab; Seorang suami memiliki istri yang sedang menyusui, lalu laki-laki tersebut menyetubuhi istrinya tetapi ia tidak menginginkan istrinya hamil (lantas ia melakukan azl), dan seseorang memiliki budak perempuan, lalu laki-laki tersebut tidak ingin dia hamil. Maka beliau bersabda: "Tidak ada mudharat jika kalian tidak melakukan hal itu, karena itu hanyalah berkenaan dengan takdir Allah." Ibnu 'Aun berkata; Saya ceritakan hal itu kepada Al Hasan, maka ia berkata; Demi Allah, sepertinya hal itu merupakan suatu peringatan keras. Dan telah menceritakan kepadaku [Hajjaj bin As Sya'ir] telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ibnu 'Aun] dia berkata; Saya telah menceritakan kepada [Muhammad] dari [Ibrahim] dengan hadits Abdurrahman bin Bisyr yaitu hadits mengenai Azl, maka dia berkata; Telah menceritakan kepadaku [Abdurrahman bin Bisyr] telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Hisyam] dari [Muhammad] dari [Ma'bad bin Sirin] dia berkata; Kami berkata kepada [Abu Sa'id] apakah engkau pernah mendengar Rasulullah shallallahu 'alaihi wasallam menyebutkan tentang Azl? Dia menjawab; Ya. Kemudian dia menyebutan hadits yang semakna dengan hadits Ibnu 'Aun sampai sabda beliau: "Takdir Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3550</td></tr><tr><td>Arabic No</td><td>1438.07</td></tr><tr><td>Reference</td><td>Book 16 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3550</td></tr><tr><td>Arabic No</td><td>1438.07</td></tr><tr><td>Reference</td><td>Book 16 Hadith 152</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrating the above tradition, 'Aishah added:Abu Bakr refused that to her. Her s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3092) Sahih Muslim (1759)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2970</td></tr><tr><td>Arabic No</td><td>2970</td></tr><tr><td>Reference</td><td>Book 20 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Урвы, что ‘Аиша, да будет доволен ею Аллах, пересказала ему этот хадис, (рассказав историю Фатимы, которая обращалась к Абу Бакру с просьбой отдать ей наследство Посланника Аллаха ﷺ). Она сказала: «Однако Абу Бакр отказал ей в этом и сказал: “Не стану я оставлять ничего из того, что делал Посланник Аллаха ﷺ. Поистине, я боюсь, что если оставлю что-то из его дела, то собьюсь с прямого пути”. То же касается имущества в Медине, которое считалось милостыней, то ‘Умар отдал его в распоряжение ‘Али и аль-‘Аббасу, а спустя некоторое время ‘Али стал распоряжаться им единолично. Что же касается Хайбара и Фадака, то ‘Умар удержал их, сказав: “Это милостыня Посланника Аллаха ﷺ которая доставалась ему по праву и помогала ему преодолевать трудности, и этим имуществом должен распоряжаться правитель”. И в таком положении они (Хайбар и Фадак) остались и по сей день (в распоряжении правителя)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3092) Sahih Muslim (1759)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2970</td></tr><tr><td>Arabic No</td><td>2970</td></tr><tr><td>Reference</td><td>Book 20 Hadith 43</td></tr></tbody></table></div>
 

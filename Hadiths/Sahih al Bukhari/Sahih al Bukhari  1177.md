@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I never saw the Prophet (ﷺ) offering the Duha prayer but I alw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Ibnu Abu Dza'bi] dari [Az Zuhriy] dari ['Urwah] dari ['Aisyah radliallahu 'anha] berkata: "Aku belum pernah melihat Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat sunnat Dhuha. Adapun aku mengerjakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1177</td></tr><tr><td>Arabic No</td><td>1177</td></tr><tr><td>Reference</td><td>Book 19 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах сказала: «Я не видела, чтобы Пророк ﷺ совершал молитву ад-духа, но я совершаю ее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1177</td></tr><tr><td>Arabic No</td><td>1177</td></tr><tr><td>Reference</td><td>Book 19 Hadith 55</td></tr></tbody></table></div>
 

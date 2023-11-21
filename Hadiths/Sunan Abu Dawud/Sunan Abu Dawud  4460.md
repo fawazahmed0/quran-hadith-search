@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salamah ibn al-Muhabbaq: The Messenger of Allah (ﷺ) made a decision a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Qatadah] dari [Al Hasan] dari [Qabishah bin Huraits] dari [Salamah Ibnul Muhabbaq] berkata, "Bahwasanya Rasulullah shallallahu 'alaihi wasallam memberi putusan atas seorang laki-laki yang mensetubuhi budak wanita milik isterinya. Jika sang suami memaksanya maka sang budak menjadi merdeka, dan suami tetap menunaikan segala tanggung jawab terhadap isterinya sebagaimana tanggung jawabnya terhadap budaknya. Namun jika sang budak mempersilahkan dirinya secara sukarela, budak itu berpindah tangan menjadi budak suaminya, dan suami tetap menunaikan tanggung jawab terhadap isterinya." Abu Dawud berkata, " [Yunus bin Ubaid], [Amru bin dinar], [Manshur bin Zadzan] dan [Salam] meriwayatkan hadits ini dari [Al Hasan] secara makna. Sementara Yunus dan Manshur tidak menyebutkan nama Qabishah." Telah menceritakan kepada kami [Ali bin Husain Ad Dirhami] berkata, telah menceritakan kepada kami [Abdul A'la] dari [Sa'id] dari [Qatadah] dari [Al Hasan] dari [Salamah Ibnul Muhabbaq] dari Nabi shallallahu 'alaihi wasallam seperti hadits ini, hanya saja ia menyebutkan, "Jika budak wanita itu menurut dengan suka rela, maka ia (budak wanita) dan harta yang ia dapat dari si suami menjadi milik majikannya (isteri)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4460</td></tr><tr><td>Arabic No</td><td>4460</td></tr><tr><td>Reference</td><td>Book 40 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Салямы ибн аль-Мухаббака, что Посланник Аллаха ﷺ вынес следующее решение относительно мужчины, совершившего прелюбодеяние с рабыней жены: если он принудил рабыню к этому, она обретает свободу, а он обязан купить жене другую такую же. А если она сама отдалась ему, то она принадлежит ему и он обязан предоставить жене другую такую же
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4460</td></tr><tr><td>Arabic No</td><td>4460</td></tr><tr><td>Reference</td><td>Book 40 Hadith 110</td></tr></tbody></table></div>
 

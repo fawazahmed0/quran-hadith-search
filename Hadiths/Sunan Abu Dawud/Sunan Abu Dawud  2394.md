@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah, wife of Prophet (ﷺ):A man came to the Prophet (ﷺ) during R
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah mengabarkan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku ['Amr bin Al Harits] bahwa [Abdurrahman bin Al Qasim] telah menceritakan kepada bahwa [Muhammad bin Ja'far bin Az Zubair] telah menceritakan kepadanya bahwa ['Abbad bin Abdullah bin Az Zubair] telah menceritakan kepadanya bahwa ia mendengar [Aisyah] isteri Nabi shallallahu 'alaihi wasallam berkata; seorang laki-laki telah datang kepada Nabi shallallahu 'alaihi wasallam di Masjid pada Bulan Ramadhan, kemudian berkata; wahai Rasulullah, aku telah melakukan dosa yang akan mengakibatkan terbakar di neraka. Kemudian Nabi shallallahu 'alaihi wasallam bertanya kepadanya; kenapa engkau? Ia berkata; aku telah mencampuri isteriku. Beliau berkata: "Bersedekahlah!" Ia berkata; demi Allah, aku tidak memiliki sesuatu, dan tidak mampu melakukannya. Beliau berkata: "Duduklah!" Kemudian orang tersebut duduk, tatkala ia dalam keadaan seperti itu terdapat seorang laki-laki yang menuntun onta yang membawa makanan. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata; "Dimanakah orang yang telah melakukan dosa tadi?" kemudian terdapat seorang laki-laki yang berdiri, lalu Rasulullah shallallahu 'alaihi wasallam berkata: "Bersedekahlah dengan ini!" Apakah aku harus bersedekah kepada selainku? Demi Allah kami adalah orang-orang yang lapar, kami tidak memiliki sesuatu. Beliau berkata: "Makanlah!" Telah menceritakan kepada kami [Muhammad bin 'Auf], telah menceritakan kepada kami [Sa'id bin Abu Maryam], telah menceritakan kepada kami [Ibnu Abu Az Zinad], dari [Abdurrahman bin Al Harits] dari [Muhammad bin Ja'far bin Az Zubair] dari ['Abbad bin Abdullah], dari [Aisyah] dengan kisah ini. Ia berkata; kemudian beliau diberi sebuah keranjang yang berisi dua puluh sha' kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1112)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2394</td></tr><tr><td>Arabic No</td><td>2394</td></tr><tr><td>Reference</td><td>Book 14 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах: «Однажды в рамадане в мечеть к Пророку ﷺ пришёл какой-то человек и сказал: “О Посланник Аллаха! Я сгорел!” Пророк ﷺ спросил его, что с ним случилось. Тот человек ответил: “Я переспал с женой (днём в рамадане)”. Пророк ﷺ сказал: “Подай милостыню”. Человек сказал: “Клянусь Аллахом, у меня ничего нет, и я не могу этого сделать!” Тогда Пророк ﷺ сказал ему: “Садись”. Этот человек сел, а в это время другой человек привёз Пророку ﷺ съестное, навьюченное на осла. Посланник Аллаха ﷺ спросил: “Где наш сгоревший?” Этот человек поднялся. Посланник Аллаха ﷺ сказал: “Раздай это в качестве милостыни”. Этот человек спросил: “О Посланник Аллаха, должен ли я отдать это кому-то другому? Клянусь Аллахом, мы сами голодаем, и у нас ничего нет”. Он сказал: “Съешьте это сами”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1112)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2394</td></tr><tr><td>Arabic No</td><td>2394</td></tr><tr><td>Reference</td><td>Book 14 Hadith 82</td></tr></tbody></table></div>
 

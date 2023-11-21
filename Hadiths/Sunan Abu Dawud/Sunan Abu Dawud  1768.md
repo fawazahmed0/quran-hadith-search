@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ziyad bin Jubair said :I was present with Ibn 'Umar at Minah. He passed a man wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Husyaim], telah mengabarkan kepada Kami [Yunus], telah mengabarkan kepadaku [Ziyad bin Jubair], ia berkata; aku pernah bersama [Ibnu Umar] di Mina, kemudian ia melewati seorang laki-laki yang menyembelih untanya dalam keadaan menderum. Kemudian Ibnu Umar berkata; bangkitkan unta tersebut dalam keadaan terikat, ikutilah sunah Muhammad shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1713) Sahih Muslim (1320)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1768</td></tr><tr><td>Arabic No</td><td>1768</td></tr><tr><td>Reference</td><td>Book 11 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зияд ибн Джубайр передаёт: «Я был с Ибн ‘Умаром в Мине, и он проходил мимо человека, который резал своё жертвенное животное, опустив его на колени, и сказал ему: “Пусть они стоят связанные. Такова сунна Мухаммада ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1713) Sahih Muslim (1320)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1768</td></tr><tr><td>Arabic No</td><td>1768</td></tr><tr><td>Reference</td><td>Book 11 Hadith 48</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Alaqah ibn Sahar at-Tamimi: Alaqah came to the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Zakaria] ia berkata; telah menceritakan kepadaku ['Amir] dari [Kharijah bin Ash Shalt At Tamimi] dari [Pamannya] bahwa ia datang kepada Rasulullah shallallahu 'alaihi wasallam lalu masuk Islam, kemudian kembali dari sisinya dan melewati sebuah kaum yang pada mereka terdapat orang gila yang diikat dengan sebuah besi. Keluarganya lalu berkata, "Telah sampai kabar kepada kami bahwa sahabat kalian ini datang dengan membawa kebaikan, apakah kalian memiliki sesuatu yang dapat engkau gunakan untuk mengobati? ' Lalu aku menjampinya menggunakan Surat Al Fatihah sehingga orang itu pun sembuh. Kemudian mereka memberiku seratus ekor kambing. Setelah itu aku datang kepada Rasulullah shallallahu 'alaihi wasallam dan mengabarkan hal tersebut, beliau lantas bertanya: "Apakah engkau hanya mengucapkan ini?" Musaddad pada tempat yang lain menyebutkan, 'Apakah engkau mengucapkan selain hal ini? ' Maka aku jawab, "Tidak." Beliau lalu bersabda: "Demi Dzat yang memanjangkan umurku, ambillah! Sungguh, orang makan dengan jampi batil sedangkan engkau makan dengan jampi yang benar." Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Basysyar] telah menceritakan kepada kami [Ibnu Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Abu As Safar] dari [Asy Sya'bi] dari [Kharijah bin Ash Shalt] dari [Pamannya] bahwa ia lewat, Kharijah berkata, "Kemudian ia menjampi orang tersebut menggunakan Surat Al Fatihah selama tiga hari pagi dan sore, setiap kali ia menyelesaikannya maka ia mengumpulkan ludahnya kemudian meludah. Maka orang tersebut seolah-olah telah terbebas dari ikatan, kemudian mereka memberinya sesuatu. Lalu ia datang kepada Nabi shallallahu 'alaihi wasallam… lalu ia menyebutkan makna hadits Musaddad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3896</td></tr><tr><td>Arabic No</td><td>3896</td></tr><tr><td>Reference</td><td>Book 29 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хариджа ибн ас-Сальт ат-Тамими передаёт от своего дяди, что он пришёл к Посланнику Аллаха ﷺ и принял ислам. Когда он возвращался от него, он встретил людей, среди которых был один сумасшедший, закованный в железные цепи. Его родные сказали: «Мы слышали, что ваш товарищ принёс вам благо. Нет ли у тебя чего-нибудь такого, с помощью чего можно вылечить его?» Он рассказывает: «Я прочитал ему в качестве рукъи “аль-Фатиху”, и он исцелился. Они дали мне сотню овец. Придя к Посланнику Аллаха ﷺ я рассказал ему обо всём, и он спросил: “Только это (или: Читал ли ты что-нибудь ещё)?” Я ответил: “Нет”. Тогда (Посланник Аллаха ﷺ) сказал: “Возьми это. Клянусь, ты из тех, кто приобрёл это не путём ложного заклинания, а путём истинного заклинания”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3896</td></tr><tr><td>Arabic No</td><td>3896</td></tr><tr><td>Reference</td><td>Book 29 Hadith 42</td></tr></tbody></table></div>
 

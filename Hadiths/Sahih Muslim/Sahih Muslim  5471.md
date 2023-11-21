@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The previous hadith is narrated through another chain of transmitters
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [An Nadhr bin Anas] dari [Basyir bin Nahik] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bahwa beliau melarang memakai cincin emas. Dan telah menceritakannya kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] mereka berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dengan sanad ini. Dan disebutkan pada Hadist Ibnu Al Mutsanna dia berkata; 'Aku mendengar An Nadhr bin Anas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>2089.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>2089.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 86</td></tr></tbody></table></div>
 

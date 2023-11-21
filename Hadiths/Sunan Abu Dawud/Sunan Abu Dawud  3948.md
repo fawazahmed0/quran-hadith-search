@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated ath-Thalabb: On the authority of his father: A man emancipated his shar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Khalid] dari [Abu Bisyr Al 'Anbari] dari [Ibnu At Talib] dari [Ayahnya], bahwa seorang laki-laki telah membebaskan bagiannya dari diri seorang budak, dan Nabi shallallahu 'alaihi wasallam tidak membebaninya dengan tanggungan." Ahmad berkata, "Hanyasanya itu dengan huruf ta', yaitu At Talib. Sedangkan Syu'bah tidak mampu mengucapkan sebagian huruf, ia tidak dapat membedakan dengan jelas antara ta' dan tsa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3948</td></tr><tr><td>Arabic No</td><td>3948</td></tr><tr><td>Reference</td><td>Book 31 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ат-Талибб передаёт от своего отца, что один человек освободил принадлежавшую ему часть раба и Пророк ﷺ не обязывал его выплачивать совладельцу остаток его стоимости
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3948</td></tr><tr><td>Arabic No</td><td>3948</td></tr><tr><td>Reference</td><td>Book 31 Hadith 23</td></tr></tbody></table></div>
 

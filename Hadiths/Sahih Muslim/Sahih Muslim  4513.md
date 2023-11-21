@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd Shuraib al-Adawi reported:My eare listened and my eye saw when Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Sa'id bin Abu Sa'id] dari [Abu Syuraih Al 'Adawi] bahwa dia berkata, "Aku telah mendengar dengan kedua telingaku dan melihat dengan kedua mataku, ketika Rasulullah shallallahu 'alaihi wasallam mengucapkan sabdanya: "Barangsiapa beriman kepada Allah dan hari akhir maka hendaklah memuliakan tamu dan menjamunya?" mereka bertanya, "Apa yang dimaksud dengan menjamunya wahai Rasulullah?" beliau menjawab: "Yaitu pada siang dan malam harinya, bertamu itu tiga hari, lebih dari itu adalah sedekah bagi tamu tersebut." Dan beliau bersabda: "Barangsiapa beriman kepada Allah dan hari akhir, hendaknya dia berkata dengan perkataan yang baik atau diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4513</td></tr><tr><td>Arabic No</td><td>48.02</td></tr><tr><td>Reference</td><td>Book 31 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4513</td></tr><tr><td>Arabic No</td><td>48.02</td></tr><tr><td>Reference</td><td>Book 31 Hadith 15</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit de Jâbir Ibn 'Abdillâh (رضي الله عنهما) transmis par Muhamm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] -(Dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Muhammad bin Mutsanna] dan [Ibnu Basyar], keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far], telah menceritakan kepada kami [Syu'bah] - dari [Sa'd bin Ibrahim], dari [Muhammad bin 'Amru bin Hasan bin Ali] katanya; "Ketika Hajjaj tiba di Madinah, kami bertanya kepada [Jabir bin Abdullah] seraya berkata; Rasulullah shallallahu 'alaihi wasallam pernah shalat zhuhur di pertengahan siang ketika hari sangat panas, dan ashar ketika matahari masih bersih, dan maghrib ketika matahari terbenam, dan isya' kadang beliau mengakhirkannya dan kadang beliau menyegerakannya. Jika beliau lihat para sahabat telah berkumpul, maka beliau menyegerakannya dan jika beliau lihat para sahabat kurang bergegas mendatanginya, beliau akan mengakhirkannya, adapun subuh maka para sahabat atau Nabi shallallahu 'alaihi wasallam melakukannya ketika pagi masih gelap gulita." Dan telah menceritakan kepada kami ['Ubaidullah bin Muadz] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Sa'd] ia mendengar [Muhammad bin 'Amru bin Al Hasan bin Ali], katanya; Al Hajjaj seringkali mengakhirkan sekian banyak shalat, maka kami bertanya kepada [Jabir bin Abdullah] seperti haditsnya Ghundar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1460</td></tr><tr><td>Arabic No</td><td>646.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 293</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается , что Мухаммад ибн ‘Амр сказал: «Когда аль-Хаджжадж прибыл в Медину, мы задали Джабиру ибн ‘Абдуллаху вопрос (о наилучшем времени для совершения молитв), и он сказал: “Обычно Посланник Аллаха ﷺ совершал полуденную молитву в полдень, послеполуденную когда солнце (оставалось) ещё чистым, а закатную (как только) оно садилось. Что касается вечерней молитвы, то иногда он откладывал её, а иногда совершал рано. Так, если он видел, что (люди) уже собрались (в мечети), то начинал (молитву) раньше, а если видел, что они запаздывают, то откладывал её. Что же касается утренней молитвы, то они (или: Пророк ﷺ) совершали её в предрассветном сумраке”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1460</td></tr><tr><td>Arabic No</td><td>646.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 293</td></tr></tbody></table></div>
 

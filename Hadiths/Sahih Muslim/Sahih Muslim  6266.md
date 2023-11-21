@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Abî Mulayka, 'Abdoullâh Ibn Ja'far dit à Ibn Az-Zub
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Isma'il bin 'Ulayyah] dari [Habib bin Asy Syahid] dari ['Abdullah bin Abu Mulaikah] dia berkata; ['Abdullah bin Ja'far] pernah bertanya kepada [Ibnu Az Zubair]; 'Hai Ibnu Zubair, ingatkah kamu ketika kita, (yaitu saya, kamu dan Ibnu Abbas), bertemu Rasulullah? ' Abdullah bin Zubair menjawab; "Ya." Kemudian Rasulullah menggendong kami dan membiarkanmu." Telah menceritakan kepada kami [Ishaq bin Ibrahim]; Telah mengabarkan kepada kami [Abu Usamah] dari [Habib bin Asy Syahid] yang serupa dengan jalur dan Hadits Ibnu Ulayyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6266</td></tr><tr><td>Arabic No</td><td>2427.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6266</td></tr><tr><td>Arabic No</td><td>2427.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 96</td></tr></tbody></table></div>
 

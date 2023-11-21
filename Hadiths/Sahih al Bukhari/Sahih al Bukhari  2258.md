@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Ash-Sharid:While I was standing with Sa'd bin Abi Waqqas, Al-M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makkiy bin Ibrahim] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepada saya [Ibrahim bin Maisarah] dari ['Amru bin Asy-Syarid] berkata; Aku pernah duduk bersama Sa'ad bin Abi Waqash lalu datang Al Miswar bin Makhramah kemudian dia meletakkan tangannya pada salah satu pundakku lalu datang [Abu Rafi'] maula Nabi shallallahu 'alaihi wasallam seraya berkata: "Wahai Sa'ad, belilah dua buah rumahku yang ada di kampungmu!" Sa'ad berkata: "Demi Allah, aku tidak akan membelinya". Lalu Al Miswar berkata: "Demi Allah, aku yang akan membelinya". Maka Saad berkata: "Demi Allah, aku tidak akan membelinya lebih dari empat ribu keping". Abu Rafi' berkata: "Sungguh aku telah memberikan kepadanya lima ratus dinar, seandainya aku tidak mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tetangga lebih patut dalam hal kedekatan, tidaklah akan aku berikan rumah itu dengan harga empat ribu keeping sekalipun, sedangkan kali ini hanya aku dapatkan lima ratus dinar." Dia pun lantas memberikan rumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2258</td></tr><tr><td>Arabic No</td><td>2258</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов вольноотпущенника Пророка ﷺ Абу Рафи‘а, да будет доволен им Аллах, что однажды он пришёл к Са‘ду бин Абу Ваккасу, да будет доволен им Аллах, и сказал: «О Са‘д, купи у меня два моих дома(, которые находятся) на твоём участке». Са‘д сказал: «Клянусь Аллахом, я не куплю их!» Тогда аль-Мисвар сказал: «Клянусь Аллахом, ты обязательно (должен) купить их!» Са‘д сказал: «Клянусь Аллахом, я дам тебе не более четырёх тысяч (дирхемов) частями!» (На это) Абу Рафи‘ сказал: «Мне уже дают за них пятьсот динаров, и если бы я не слышал, как Пророк ﷺ сказал: “Сосед имеет больше прав на то, что прилегает к его участку”, то не отдал бы тебе их за четыре тысячи, когда мне дают за них пятьсот динаров!» — после чего продал (эти дома) Са‘ду
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2258</td></tr><tr><td>Arabic No</td><td>2258</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
 

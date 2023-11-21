@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father:In the lifetime of the Prophet (ﷺ) whosoever saw a dre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Hisyam] berkata, telah mengabarkan kepada kami [Ma'mar]. Dan diceritakan juga, telah menceritakan kepada saya [Mahmud] berkata, telah menceritakan kepada kami ['Abdur Razaaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari [Salim] dari [Bapaknya radliallahu 'anhu] berkata; "Sudah menjadi kebiasaan seseorang pada masa hidup Nabi shallallahu 'alaihi wasallam bila bermimpi, biasanya dia menceritakannya kepada Rasulullah shallallahu 'alaihi wasallam. Aku pun berharap bermimpi hingga aku dapat mengisahkannya kepada Rasulullah shallallahu 'alaihi wasallam. Saat itu aku masih remaja. Pada suatu hari di jaman Rasulullah shallallahu 'alaihi wasallam aku tidur di masjid lalu aku bermimpi ada dua malaikat memegangku lalu membawaku ke dalam neraka, aku melihat neraka yang ternyata adalah lubang besar bagaikan lubang sumur (atau jurang). Neraka itu memiliki dua emperan dan aku melihat di dalamnya ada orang-orang yang sebelumnya aku sudah mengenal mereka. Dengan melihat mereka, membuat aku berkata,; "Aku berlindung kepada Allah dari neraka" Dia berkata,; "Kemudian kami berjumpa dengan malaikat lain lalu dia berkata, kepadaku; "Janganlah kamu takut". Kemudian aku ceritakan mimpiku itu kepada [Hafshah], lalu Hafshah menceritakannya kepada Rasulullah shallallahu 'alaihi wasallam. Maka Beliau pun bersabda: "Sungguh 'Abdullah (bin "Umar) adalah seorang yang beruntung (bahagia) bila dia mendirikan shalat malam". Setelah peristiwa ini 'Abdullah bin 'Umar tidak tidur malam kecuali sedikit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1122</td></tr><tr><td>Arabic No</td><td>1122</td></tr><tr><td>Reference</td><td>Book 19 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И я рассказал об этом сне Хафсе, Хафса же передала (мой рассказ) Посланнику Аллаха ﷺ который сказал: “‘Абдуллах — прекрасный человек, но было бы хорошо, чтобы он совершал молитвы по ночам”». И после этого (‘Абдуллах) всегда спал по ночам лишь немного
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1122</td></tr><tr><td>Arabic No</td><td>1122</td></tr><tr><td>Reference</td><td>Book 19 Hadith 2</td></tr></tbody></table></div>
 

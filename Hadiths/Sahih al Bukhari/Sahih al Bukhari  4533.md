@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali (through two chains):On the day of Al-Khandaq (the battle of the T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada kami [Yazid] Telah mengabarkan kepada kami [Hisyam] dari [Muhammad] dari [Abidah] dari [Ali radliallahu 'anhu] dia berkata; Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam bersabda: Dan telah menceritakan kepadaku [Abdurrahman] Telah menceritakan kepada kami [Yahya bin Sa'id] dia berkata; Telah menceritakan kepada kami [Hisyam] dia berkata; Telah menceritakan kepada kami [Muhammad] dari [Abidah] dari [Ali radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam bersabda pada hari perang khandak: "Mereka telah menyibukkan kita dari shalat wustha yaitu shalat asar, hingga matahari terbenam, semoga Allah memenuhi kuburan dan rumah mereka atau perut -Yahya merasa ragu- mereka dengan api
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4533</td></tr><tr><td>Arabic No</td><td>4533</td></tr><tr><td>Reference</td><td>Book 65 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Али, да будет доволен им Аллах, о том, что Пророк ﷺ сказал в день (битвы) Хандак: «Они удержали нас от совершения средней молитвы до заката солнца. Да наполнит Аллах их дома и могилы огнём!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4533</td></tr><tr><td>Arabic No</td><td>4533</td></tr><tr><td>Reference</td><td>Book 65 Hadith 56</td></tr></tbody></table></div>
 

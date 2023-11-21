@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir reported Allah's Messenger (ﷺ) as saying:The similitude of be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdillah bin Numair]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Zakaria] dari [Asy Sya'bi] dari [An Nu'man bin Bisyir] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang-Orang mukmin dalam hal saling mencintai, mengasihi, dan menyayangi bagaikan satu tubuh. Apabila ada salah satu anggota tubuh yang sakit, maka seluruh tubuhnya akan ikut terjaga (tidak bisa tidur) dan panas (turut merasakan sakitnya) '" Telah menceritakan kepada kami [Ishaq bin Al Hanzhali]; Telah mengabarkan kepada kami [Jarir] dari [Mutharrif] dari [Asy Sya'bi] dari [An Nu'man bin Bisyir] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6586</td></tr><tr><td>Arabic No</td><td>2586.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6586</td></tr><tr><td>Arabic No</td><td>2586.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 84</td></tr></tbody></table></div>
 

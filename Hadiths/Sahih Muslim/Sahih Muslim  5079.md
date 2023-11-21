@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée), le jour du sacrifice, le Prophète (paix et b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Yahya bin Ayyub] dan ['Amru An Naqid] serta [Zuhair bin Harb] semuanya dari [Ibnu 'Ulayyah] sedangkan lafadznya dari Amru, dia berkata; telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Ayyub] dari [Muhammad] dari [Anas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda pada hari Iedul Adlha: "Barangsiapa menyembelih hewan kurban sebelum shalat Ied, hendaknya ia mengulanginya lagi." Tiba-tiba seorang laki-laki berdiri seraya berkata, "Wahai Rasulullah, bukannya ini adalah hari-hari dibagikannya daging kurban!" Kemudian menyebutkan kebutuhan tetangganya akan daging, dan seakan Rasulullah shallallahu 'alaihi wasallam pun membenarkannya." Laki-laki itu berkata, "Saya memiliki Jad'ah yang lebih saya sukai dari pada dua ekor kambing biasa, maka apakah saya harus menyembelihnya?" Anas berkata, "Maka beliau memberi keringanan kepadanya (untuk berkurban dengan Jad'ah)." Anas berkata, "Saya tidak tahu, apakah keringanan tersebut khusus untuk dirinya atau untuk yang lain juga." Anas berkata lagi, "Kemudian Rasulullah shallallahu 'alaihi wasallam kembali menuju dua ekor kambing dan menyembelihnya, maka orang-orang sama mengambil kambingnya masing-masing, setelah itu mereka membagi-bagikan dagingnya." Telah menceritakan kepada kami [Muhammad bin 'Ubaid Al 'Ubari] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Ayyub] dan [Hisyam] dari [Muhammad] dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam shalat kemudian berkhutbah, lalu beliau memerintahkan bagi siapa yang telah berkurban sebelum shalat ied, untuk mengulangi kurbannya…kemudian dia menyebutkan seperti hadits Ibnu 'Ulayyah." Dan telah menceritakan kepadaku [Ziyad bin Yahya Al Hassani] telah menceritakan kepada kami [Hatim] -yaitu Ibnu Wardan- telah menceritakan kepada kami [Ayyub] dari [Muhammad bin Sirin] dari [Anas bin Malik] dia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam sedang berkhutbah pada hari raya Adlha, tiba-tiba beliau mencium bau daging (yang baru disembelih), maka beliau melarang mereka untuk menyembelih terlebih dahulu, sabdanya: "Barang siapa terlanjur berkurban, hendaknya ia mengulangi kurbannya..., kemudian dia menyebutkan seperti hadits keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5079</td></tr><tr><td>Arabic No</td><td>1962.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5079</td></tr><tr><td>Arabic No</td><td>1962.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 16</td></tr></tbody></table></div>
 

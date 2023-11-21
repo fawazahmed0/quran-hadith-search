@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) said, "Five kinds of animals are harmful 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan kepada saya [Ibnu Wahb] berkata, telah menceritakan kepada saya [Yunus] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah radliallahu 'anha] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada lima jenis hewan yang kesemuanya berbahaya sehingga boleh dibunuh saat ihram, yaitu: burung gagak, burung rajawali, tikus, kalajengking dan anjing galak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1829</td></tr><tr><td>Arabic No</td><td>1829</td></tr><tr><td>Reference</td><td>Book 28 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Пять (видов) живых существ (наносят вред), и их можно убивать на (территории) харама: ворону, коршуна, скорпиона, мышь и бешеную собаку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1829</td></tr><tr><td>Arabic No</td><td>1829</td></tr><tr><td>Reference</td><td>Book 28 Hadith 9</td></tr></tbody></table></div>
 

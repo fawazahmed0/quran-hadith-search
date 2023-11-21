@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) never criticized any food (he was invited
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] Telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Abu Hazim] dari [Abu Hurairah] ia berkata; Nabi shallallahu 'alaihi wasallam tidak pernah mencela makanan sekali pun. Bila beliau berselera, maka beliau memakannya dan bila tak suka, maka beliau meninggalkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5409</td></tr><tr><td>Arabic No</td><td>5409</td></tr><tr><td>Reference</td><td>Book 70 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ никогда не порицал никакую еду: если он желал её, то ел, а если она ему не нравилась, он оставлял её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5409</td></tr><tr><td>Arabic No</td><td>5409</td></tr><tr><td>Reference</td><td>Book 70 Hadith 37</td></tr></tbody></table></div>
 

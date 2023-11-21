@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qudamah ibn Wabirah: The Prophet (ﷺ) said: If anyone omits the Friday
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] telah menceritakan kepada kami [Muhammad bin Yazid] dan [Ishaq bin Yusuf] dari [Ayyub Abu Al 'Ala'] dari [Qatadah] dari [Qudamah bin Wabarah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa meninggalkan jum'at tanpa ada udzur (syar'i), hendaknya ia bersedekah satu dirham atau setengah dirham atau satu sha' gandum atau setengahnya." Abu Daud berkata; "di riwayatkan pula oleh [Sa'id bin Basyir] dari [Qatadah] seperti ini, namun dia mengatakan; "satu mud atau setengahnya." perawi berkata; dari [Samurah]. Abu Daud berkata; saya mendengar Ahmad bin Hanbal bertanya mengenai perbedaan hadits ini, maka Hammam berkata; "Menurutku dia lebih hafal dari Ayyub yaitu Ibnu Al 'Ala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1054</td></tr><tr><td>Arabic No</td><td>1054</td></tr><tr><td>Reference</td><td>Book 2 Hadith 665</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Кудамы ибн Вабара, что Посланник Аллаха ﷺ сказал: «Пусть тот, кто пропустил пятничную молитву без уважительной причины, подаст милостыню в размере дирхема, или половины дирхема, или са‘ пшеницы, или половины са‘». Абу Дауд сказал: «Его передаёт Са‘ид ибн Башир от Катады так, только в его версии говорится: “…мудда или половины мудда”. И он сказал: “От Самуры”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1054</td></tr><tr><td>Arabic No</td><td>1054</td></tr><tr><td>Reference</td><td>Book 2 Hadith 665</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Musa b. Talha reported on the authority of his father:We used to say prayer and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] dan [Ishaq bin Ibrahim] berkata Ishaq, telah mengabarkan kepada kami, sedangkan Ibnu Numair berkata, telah menceritakan kepada kami [Umar bin Ubaid ath-Thanafisi] dari [Simak bin Harb] dari [Musa bin Thalhah] dari [Bapaknya] dia berkata, "Kami pernah shalat, sedangkan hewan ternak melewati di depan kami, lalu kami menceritakan hal tersebut kepada Rasulullah Shallallahu'alaihiwasallam, maka beliau bersabda, 'Kalaulah sudah ada benda seperti seperti kayu yang ada di punggung unta dan diletakkan di depan salah seorang dari kalian, maka sesuatu yang lewat di hadapan mereka tidak akan membahayakan (membatalkan shalatnya)." Ibnu Numair berkata, "Maka orang yang lewat di hadapannya tidak akan membahayakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1112</td></tr><tr><td>Arabic No</td><td>499.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 274</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Тальха ибн ‘Убайдуллах сказал: «Обычно, когда мы молились, перед нами проходили животные. Мы рассказали об этом Посланнику Аллаха ﷺ, и он сказал: “Пусть перед каждым из вас (во время молитвы) будет нечто (высотой) с заднюю часть седла, и тогда (животные, которые) будут проходить перед ним, не повредят ему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1112</td></tr><tr><td>Arabic No</td><td>499.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 274</td></tr></tbody></table></div>
 

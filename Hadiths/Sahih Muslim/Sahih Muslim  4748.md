@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Al Mughirah bin Abdurrahman Al Hizami] dari [Abu Az Zannad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barang siapa mentaatiku sungguh dia telah mentaati Allah, dan barangsiapa bermaksiat kepadaku maka dia telah bermaksiat kepada Allah. Barangsiapa metaati seorang pemimpin sungguh dia telah mentaatiku, dan siapa saja bermaksiat kepada seorang pemimpin maka dia telah bermaksiat kepadaku." Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Abu Az Zinad] dengan isnad ini, namun dia tidak menyebutkan, 'Barangsiapa bermaksiat kepada seorang pemimpin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4748</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4748</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Amr Ibn Al-'As (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] Telah mengabarkan kepada kami [Khalid bin Abdullah] dari [Khalid] dari [Abu Utsman], Telah mengabarkan kepadaku [Amru bin Al Ash] bahwa Rasulullah pernah mengutusnya untuk memimpin pasukan kaum muslimin dalam perang Dzatus Salasil. Amru bin Al Ash berkata; Aku menemui Rasulullah seraya bertanya; Ya Rasulullah, siapakah orang yang engkau cintai? Rasulullah menjawab; 'Aisyah.' Lalu saya tanyakan lagi; Kalau dari kaum laki-laki, siapakah orang yang paling engkau cintai? Rasulullah shallallahu 'alaihi wasallam menjawab: 'Ayah Aisyah (Abu Bakr).' saya bertanya lagi; lalu siapa? Rasulullah menjawab: 'Umar bin Khaththab.' Kemudian beliau menyebutkan beberapa orang sahabat lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6177</td></tr><tr><td>Arabic No</td><td>2384</td></tr><tr><td>Reference</td><td>Book 44 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Амра ибн аль-‘Аса, да будет доволен им Аллах, что (в своё время) Посланник Аллаха ﷺ поставил его во главе отряда, который должен был двинуться на Зат ас-Салясиль. (‘Амр бин аль-‘Ас, да будет доволен им Аллах, сказал): «И я пришёл к нему и спросил: “Кого из людей ты любишь больше всех?” Он ответил: “‘Аишу”. Я спросил: “А из мужчин?” Он ответил: “Её отца”. Я спросил: “А кого потом?” Он ответил: “‘Умара (ибн аль-Хаттаба)”, и назвал ещё несколько человек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6177</td></tr><tr><td>Arabic No</td><td>2384</td></tr><tr><td>Reference</td><td>Book 44 Hadith 9</td></tr></tbody></table></div>
 

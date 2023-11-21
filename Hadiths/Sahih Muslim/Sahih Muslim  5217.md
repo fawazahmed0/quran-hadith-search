@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that a person came from Jaishan, a town of Yemen, and he asked Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abdul Aziz] -yaitu Ad Darawardi- dari ['Ummarah bin Ghaziyah] dari [Abu Az Zubair] dari [Jabir], bahwa seorang laki-laki tiba dari daerah Jaisyan, dan Jaisyan adalah daerah Yaman, lantas dia bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai minuman yang biasa mereka minum di negeri mereka, yang terbuat dari perasan tepung yang biasa disebut Mizr. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Apakah ia memabukkan?" dia menjawab, "Ya." Rasulullah shallallahu 'alaihi wasallam lantas bersabda: "Setiap yang memabukkan adalah haram, sesungguhnya Allah menjanjikan kepada siapa saja yang minum minuman memabukkan, maka akan memberinya minuman kepadanya Thinatul Khabal." Mereka bertanya, "Wahai Rasulullah apa itu Thinatul Khabal?" Beliau menjawab: "Keringat penghuni neraka. atau perasan -keringat- penghuni neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5217</td></tr><tr><td>Arabic No</td><td>2002</td></tr><tr><td>Reference</td><td>Book 36 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу аз-Зубайр передал со слов Джабира о том, что однажды какой-то человек, приехавший из Джайшана, ((города, что находится) в Йемене), задал Посланнику Аллаха ﷺ вопрос о напитке, приготовляемом из индийского проса и именуемом «мизр», который они пили у себя (на родине). Пророк ﷺ спросил: «Опьяняет ли этот (напиток)?» Тот сказал: «Да», и тогда Посланник Аллаха ﷺ сказал: «Всё опьяняющее запретно. Поистине, Великий и Всемогущий Аллах пообещал поить (человека), употребляющего опья­няющие напитки, (тем, что именуется) “тынат аль-хабаль”». (Люди стали) спрашивать: «О Посланник Аллаха, а что такое “тынат аль-хабаль”?» (Посланник Аллаха ﷺ) сказал: «(Это ) пот (или соки) обитателей Огня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5217</td></tr><tr><td>Arabic No</td><td>2002</td></tr><tr><td>Reference</td><td>Book 36 Hadith 91</td></tr></tbody></table></div>
 

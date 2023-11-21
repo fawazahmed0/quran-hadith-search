@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd ibn AbuWaqqas: Once Sa'd, with the Messenger of Allah (ﷺ), visit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Shalih] telah menceritakan kepada Kami [Abdullah bin Wahb], telah mengabarkan kepadaku ['Amr] bahwa [Sa'id? bin Abu Hilal] telah menceritakan kepadanya dari [Khuzaimah] dari [Aisyah binti Sa'd bin Abu Waqqash] dari [ayahnya] bahwa ia bersama Rasulullah shallla Allahu 'alaihi wa sallam menemui seorang wanita sementara dihadapannya terdapat biji-bijian atau kerikil yang dipergunakan untuk bertasbih. Kemudian Nabi Shalla Allahu 'alaihi wa sallam berkata: "Aku akan memberitahukan kepadamu sesuatu yang lebih mudah bagimu dari pada ini dan lebih utama!" Lalu beliau mengucapkan: "SUBHAANALLAAHI 'ADADA MAA KHALAQA FIS SAMAAI WA SUBHAANALLAAHI 'ADADA MAA KHALAQA FIL ARDHI WA SUBHAANALLAAHI 'ADADA MAA KHALAQA BAINA DZAALIKA WA SUBHAANALLAAHI 'ADADA MAA HUWA KHAALIQUN, WALLAAHU AKBARU MITSLU DZAALIKA, WAL HAMDU LILLAAHI MITSLU DZAALIKA WA LAA ILAAHA ILLALLAAHU MITSLU DZAALIKA WA LAA HAULA WA LAA QUWWATA ILLAA BILLAAHI MITSLU DZAALIKA" (Maha Suci Allah sebanyak makhluk yang Dia ciptakan dilangit, dan Maha Suci Allah sebanyak makhluk yang Dia ciptakan di bumi, dan Maha Suci Allah sebanyak makhluk yang Dia ciptakan diantara keduanya dan Maha Suci Allah sebanyak apa yang Dia ciptakan, dan Allah Maha Besar seperti itu, segala puji bagi Allah seperti itu, dan tidak ada tuhan yang berhak disembah kecuali Allah seperti itu, dan tidak ada daya serta kekuatan kecuali karena Allah seperti itu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>1500</td></tr><tr><td>Reference</td><td>Book 8 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Са‘да ибн Абу Ваккаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ зашёл к одной жещине, перед которой лежали финиковые косточки или мелкие камешки, с помощью которых она восхваляла Аллаха, и сказал: «Не сообщить ли мне тебе о том, что легче (или: лучше) для тебя, чем это?» И он сказал: «Пречист Аллах столько раз, сколько есть у Него творений в небесах, и Пречист Аллах столько раз, сколько есть у Него творений на земле, и Пречист Аллах столько раз, сколько есть у Него творений между небом и землёй, и Пречист Аллах столько раз, сколько Он ещё сотворит. И Аллах Велик столько же раз, и хвала Аллаху столько же раз, и нет бога [заслуживающего поклонение], кроме Аллаха, столько же раз, и нет силы и способности изменить что-либо ни у кого, кроме как от Аллаха, столько же раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>1500</td></tr><tr><td>Reference</td><td>Book 8 Hadith 85</td></tr></tbody></table></div>
 

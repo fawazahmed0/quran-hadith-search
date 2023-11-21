@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sha'bi reported:I heard Adi b. Hatim say-and he was our neighbour, and our partn
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Walid bin Abdul Hamid] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Sa'id bin Masruq] telah menceritakan kepada kami [As Sya'bi] dia berkata; saya pernah mendengar ['Adi bin Hatim] -saat kami berada di Nahrain kami bertetangga dekat dengannya-, bahwa dia pernah bertanya kepada Nabi shallallahu 'alaihi wasallam, katanya, "Saya pernah melepas anjing buruanku, ternyata ia menangkap buruan dengan anjing yang lain, saya tidak tahu yang manakah anjing yang telah menangkap binatang tersebut." Beliau bersabda: "Janganlah kamu memakannya, karena kamu membacakan bismillah untuk anjingmu bukan untuk anjing yang lain." Dan telah menceritakan kepada kami [Muhammad bin Al Walid] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [As Sya'bi] dari ['Adi bin Hatim] dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4979</td></tr><tr><td>Arabic No</td><td>1929.08</td></tr><tr><td>Reference</td><td>Book 34 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4979</td></tr><tr><td>Arabic No</td><td>1929.08</td></tr><tr><td>Reference</td><td>Book 34 Hadith 8</td></tr></tbody></table></div>
 

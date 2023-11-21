@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Humran reported when 'Uthman performed ablution he said:By Allah, I am narrating
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [bapakku] dari [Shalih], [Ibnu Syihab] berkata, "Akan tetapi [Urwah] menceritakan dari [Humran] bahwa dia berkata, 'Ketika [Utsman] berwudlu, maka dia berkata, 'Demi Allah, sungguh aku akan menceritakan kepada kalian sebuah hadits. Demi Allah, kalau bukan suatu ayat dalam Kitabullah niscaya aku tidak akan menceritakannya kepada kalian. Sesungguhnya aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang laki-laki berwudlu, lalu memperbagus wudlunya kemudian melakukan shalat melainkan pasti diampuni dosanya antara dia dan shalat setelahnya'." Urwah berkata, "Ayat tersebut adalah: '(Sesungguhnya orang-orang yang menyembunyikan apa yang telah Kami turunkan berupa keterangan-keterangan (yang jelas) dan petunjuk, setelah Kami menerangkan-Nya kepada manusia dalam Al-Kitab, mereka itu dila'nati Allah dan dila'nati (pula) oleh semua (makhluk) yang dapat melaknati…) ' (Qs. Al-Baqarah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>542</td></tr><tr><td>Arabic No</td><td>227.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумран сказал: «И когда ‘Усман совершил омовение, он сказал: “Клянусь Аллахом, я непременно расскажу вам хадис. Клянусь Аллахом, если бы не аят из Книги Аллаха, я не рассказал бы его вам. Истинно слышал я, как Посланник Аллаха ﷺ говорил: “Если человек совершит омовение должным образом и совершит молитву, то непременно Аллах простит ему те (грехи), что (он совершил) между ней и молитвой, которая следует за ней”».‘Урва сказал: «Это аят (в котором сказано): “Воистину, тех, которые скрывают ниспосланные Нами ясные знамения и верное руководство после того, как Мы разъяснили это людям в Писании, проклянет Аллах и проклянут проклинающие”» (аль-Бакара, 2:)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>542</td></tr><tr><td>Arabic No</td><td>227.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
 

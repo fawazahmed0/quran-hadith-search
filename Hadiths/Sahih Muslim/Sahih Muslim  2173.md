@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm 'Atiyya reported:When Zainab the daughter of the Messenger of Allah (ﷺ) di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2173</td></tr><tr><td>Arabic No</td><td>939.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Умм ‘Атыййя сказала: «Когда умерла Зайнаб, дочь Посланника Аллаха ﷺ, Посланник Аллаха ﷺ сказал нам: “Обмойте её нечётное количество раз: трижды или пять раз, а (когда будете делать это) в пятый раз, используйте камфару (или: немного камфары) и дайте мне знать, когда закончите”. (Закончив), мы сообщили ему об этом, а он дал нам свой изар и сказал: “Заверните её в это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2173</td></tr><tr><td>Arabic No</td><td>939.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 51</td></tr></tbody></table></div>
 

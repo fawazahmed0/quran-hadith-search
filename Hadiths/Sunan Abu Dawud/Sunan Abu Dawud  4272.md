@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Zayd ibn Thabit: The verse "If a man kills a believer intentionally, hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Hammad] berkata, telah mengabarkan kepada kami ['Abdurrahman bin Ishaq] dari [Abu Az Zinad] dari [Mujalid bin Auf] bahwa [Kharijah bin Zaid] berkata; Aku mendengar [Zaid bin Tsabit] berkata di tempat ini, "Firman Allah ini: (Dan barangsiapa yang membunuh seorang mu'min dengan sengaja maka balasannya ialah Jahannam, ia kekal di dalamnya..) -An Nisa: 93-, diturunkan setelah ayat Allah yang ada dalam surat Al Furqan: (Dan orang-orang yang tidak menyembah tuhan yang lain beserta Allah dan tidak membunuh jiwa yang diharamkan Allah (membunuhnya) kecuali dengan (alasan) yang benar..) -Al Furqan: 68- jaraknya adalah enam bulam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4272</td></tr><tr><td>Arabic No</td><td>4272</td></tr><tr><td>Reference</td><td>Book 37 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зейд ибн Сабит, да будет доволен им Аллах, передаёт: «Аят “Если же кто-либо убьёт верующего преднамеренно, то возмездием ему будет Геенна, в которой он пребудет вечно” (сура «ан-Ниса», аят 93) был ниспослан через шесть месяцев после того, который в суре “аль-Фуркан”: “Они не взывают помимо Аллаха к другим богам, не убивают людей вопреки запрету Аллаха, если только они не имеют права на это…” (сура «аль-Фуркан», аяты)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4272</td></tr><tr><td>Arabic No</td><td>4272</td></tr><tr><td>Reference</td><td>Book 37 Hadith 33</td></tr></tbody></table></div>
 

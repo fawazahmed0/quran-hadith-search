@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "None will have the sweetness (d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas bin Malik] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Tidak akan mendapatkan manisnya iman sehingga ia mencintai seseorang dan ia tidak mencintainya kecuali karena Allah, dan sehingga ia lebih suka dimasukkan ke dalam api dari pada kembali kepada kekufuran setelah Allah menyelamatkannya, dan sehingga Allah dan Rasul-Nya lebih ia cintai dari pada yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6041</td></tr><tr><td>Arabic No</td><td>6041</td></tr><tr><td>Reference</td><td>Book 78 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «Сладость веры ощутит тот, кто отличается тремя (качествами): любит Аллаха и посланника Его больше, чем всё остальное, любит (того или иного) человека только ради Аллаха и не желает возвращаться к неверию так же, как не желает быть ввергнутым в огонь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6041</td></tr><tr><td>Arabic No</td><td>6041</td></tr><tr><td>Reference</td><td>Book 78 Hadith 71</td></tr></tbody></table></div>
 

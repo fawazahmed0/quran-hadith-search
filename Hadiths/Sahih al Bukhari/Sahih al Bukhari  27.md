@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd: Allah's Messenger (ﷺ) distributed (Zakat) amongst (a group of) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku ['Amir bin Sa'd bin Abu Waqash] dari [Sa'd], bahwa Rasulullah shallallahu 'alaihi wasallam memberikan makanan kepada beberapa orang dan saat itu Sa'd sedang duduk. Tetapi Beliau tidak memberi makanan tersebut kepada seorang laki-laki, padahal orang tersebut yang paling berkesan bagiku diantara mereka yang ada, maka aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam: "Wahai Rasulullah, bagaimana dengan si fulan? Sungguh aku melihat dia sebagai seorang mu'min." Nabi shallallahu 'alaihi wasallam membalas: "atau dia muslim?" Kemudian aku terdiam sejenak, dan aku terdorong untuk lebih memastikan apa yang dimaksud Beliau shallallahu 'alaihi wasallam, maka aku ulangi ucapanku: "Wahai Rasulullah, bagaimana dengan si fulan? Sungguh aku memandangnya sebagai seorang mu'min." Nabi shallallahu 'alaihi wasallam membalas: "atau dia muslim?" Lalu aku terdorong lagi untuk lebih memastikan apa yang dimaksudnya hingga aku ulangi lagi pertanyaanku. Lalu Nabi shallallahu 'alaihi wasallam bersabda: "Wahai Sa'd, sesungguhnya aku juga akan memberi kepada orang tersebut. Namun aku lebih suka memberi kepada yang lainnya dari pada memberi kepada dia, karena aku takut kalau Allah akan mencampakkannya ke neraka". [Yunus], [Shalih], [Ma'mar] dan [keponakan Az Zuhri], telah meriwayatkan dari [Az Zuhri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>27</td></tr><tr><td>Arabic No</td><td>27</td></tr><tr><td>Reference</td><td>Book 2 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Аби Ваккас, да будет доволен им Аллах, сказал: «Однажды Посланник Аллаха ﷺ оделил подарками группу людей, среди которых сидел и я. При этом Посланник Аллаха ﷺ ничего не дал одному человеку, который нравился мне больше всех из них, и я спросил: “О Посланник Аллаха, почему ты так отнёсся к такому-то? Клянусь Аллахом, я считаю, что он — верующий!” Он сказал: “Или мусульманин”. Я помолчал немного, но мне не давало покоя то, что я знал об этом человеке, и я снова спросил: “Почему ты так отнёсся к такому-то? Клянусь Аллахом, я считаю, что он — верующий!” Он сказал: “Или мусульманин”. Но и после этого то, что мне было известно об этом человеке, продолжало беспокоить меня, и я снова задал тот же вопрос. В ответ Посланник Аллаха ﷺ сказал то же самое, а потом добавил: “О Са‘д, поистине, (иногда) я даю человеку что-то, опасаясь, что Аллах ввергнет его лицом в Огонь, хотя другого люблю больше, чем его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>27</td></tr><tr><td>Arabic No</td><td>27</td></tr><tr><td>Reference</td><td>Book 2 Hadith 20</td></tr></tbody></table></div>
 

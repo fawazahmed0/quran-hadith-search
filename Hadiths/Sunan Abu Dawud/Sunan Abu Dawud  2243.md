@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Dahhak b. Firuz reported on the authority of his father:I said: Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ma'in], telah menceritakan kepada kami [Wahb bin Jarir] dari [ayahnya], ia berkata; saya mendengar [Yahya bin Ayyub], menceritakan dari [Yazid bin Abu Habib], dari [Abu Wahb Al Jaisyani], dari [Adh Dhahhak bin Fairuz] dari [ayahnya], ia berkata; aku katakan; wahai Rasulullah, sesungguhnya aku telah masuk Islam, dan aku memiliki dua orang isteri yang bersaudara. Beliau berkata; ceraikan siapa diantara keduanya yang engkau kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2243</td></tr><tr><td>Arabic No</td><td>2243</td></tr><tr><td>Reference</td><td>Book 13 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ад-Даххак ибн Файруз передаёт от своего отца: «Я сказал: “О Посланник Аллаха, поистине, я принял ислам, будучи женатым на двух родных сёстрах”. Он ответил: “Дай развод любой из них”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2243</td></tr><tr><td>Arabic No</td><td>2243</td></tr><tr><td>Reference</td><td>Book 13 Hadith 69</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Prophet used to say, "O Allah! I seek refuge wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mu'tamir] dia berkata; saya mendengar [Ayahku] dia berkata; saya mendengar [Anas bin Malik] radliallahu 'anhu berkata; Nabi Shallallahu 'alahi wasallam selalu mengucapkan: "ALLAHUMMA INNI A'UUDZUBIKA MINAL 'AJZI WAL KASALI WAL JUBNI WAL BUKHLI WAL HARAMI WA A'UUDZUBILKA MIN 'ADZAABIL QABRI WA A'UUDZUBIKA MIN FITNATIL MAHYAA WAL MAMAAT (Ya Allah, aku berlindung kepada-Mu dari kelemahan, kemalasan, pengecut, kekikiran dan kepikunan. Dan aku berlindung kepada-Mu dari siksa kubur dan berlindung kepada-Mu dari fitnah kehidupan dan kematian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6367</td></tr><tr><td>Arabic No</td><td>6367</td></tr><tr><td>Reference</td><td>Book 80 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Обращаясь к Аллаху с мольбой,) Пророк ﷺ часто говорил: “О Аллах, я прибегаю к Тебе за защитой от бессилия и лени, от малодушия и одряхления. И я прибегаю к Тебе за защитой от мучений могилы, и я прибегаю к Тебе за защитой от искушений жизни и смерти!”»\n/Аллахумма инни а‘узу бика мина-ль-‘аджзи ва-ль-касали, валь-джубни валь-харами, ва а‘узу бика мин ‘азаби-ль-къабри, ва а‘узу бика мин фитнати-ль-махйа ва-ль-мамат
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6367</td></tr><tr><td>Arabic No</td><td>6367</td></tr><tr><td>Reference</td><td>Book 80 Hadith 64</td></tr></tbody></table></div>
 

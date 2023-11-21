@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Zubair (Allah be pleased with him) reported on the authority of his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepadaku [Ibnu Mahdi] Telah menceritakan kepada kami [Salim bin Hayyan] dari [Sa'id bin Mina'] ia berkata, saya mendengar [Abdullah bin Zubair] berkata, telah menceritakan kepadaku [bibikku] yakni Aisyah, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Aisyah! Kalaulah bukan karena kaummu baru saja keluar dari syirik, akan kupugar Ka'bah kembali. Kubuat pintunya dua buah, satu menghadap ke timur dan satu lagi ke barat. Kemudian akan kutambah lebarnya enam hasta dari hijir. Sesungguhnya orang-orang Quraisy telah memperkecilnya ketika dahulu mereka memugarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3244</td></tr><tr><td>Arabic No</td><td>1333.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 448</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3244</td></tr><tr><td>Arabic No</td><td>1333.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 448</td></tr></tbody></table></div>
 

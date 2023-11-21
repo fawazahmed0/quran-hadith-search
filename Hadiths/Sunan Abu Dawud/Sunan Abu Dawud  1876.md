@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said The Apostle of Allaah(ﷺ) did not give up touching the Yamani 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Yahya] dari [Abdul 'Aziz bin Abu Rawwad] dari [Nafi'] dari [Ibnu Umar], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam tidak meninggalkan untuk mengusap rukun yamani dan hajar aswad pada setiap thawaf. Nafi' berkata; dan Abdullah bin Umar melakukan hal tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1876</td></tr><tr><td>Arabic No</td><td>1876</td></tr><tr><td>Reference</td><td>Book 11 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+[‘Абдуллах] ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ всегда прикасался к йеменскому углу Каабы и Чёрному камню в каждом круге при обходе вокруг Каабы. Сам ‘Абдуллах ибн ‘Умар поступал так же
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1876</td></tr><tr><td>Arabic No</td><td>1876</td></tr><tr><td>Reference</td><td>Book 11 Hadith 156</td></tr></tbody></table></div>
 

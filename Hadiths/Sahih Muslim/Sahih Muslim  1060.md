@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : "Je ferai de mon mieux pour vous dir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalaf bin Hisyam] telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas] dia berkata, "Sesungguhnya aku tidak memendekkan untuk shalat mengimami kalian sebagaimana aku melihat Rasulullah Shallallahu'alaihiwasallam shalat mengimami kami." Perawi berkata, "Anas melakukan sesuatu yang aku tidak melihat kalian melakukannya. Dia apabila mengangkat kepalanya dari rukuk maka dia lurus berdiri hingga seseorang berkata, 'Dia telah lupa (dalam keadaan shalat).' Dan apabila dia mengangkat kepalanya dari sujud, maka dia diam (sebentar) hingga seseorang mengatakan, 'Dia telah lupa (dalam keadaan shalat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1060</td></tr><tr><td>Arabic No</td><td>472</td></tr><tr><td>Reference</td><td>Book 4 Hadith 222</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас говорил: «Поистине, совершая с вами молитву, я делаю всё возможное, чтобы молиться так же, как с нами молился Посланник Аллаха ﷺ». (Передатчик этого хадиса) сказал: «И Анас всегда делал то, чего, как я вижу, не делаете вы. Выпрямившись после поясного поклона, он стоял (так долго), что кто-нибудь говорил: “Он забыл (о земном поклоне)”. Выпрямившись же после (первого) земного поклона, он продолжал (сидеть так долго), что кто-нибудь говорил: “Он забыл (о втором поклоне)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1060</td></tr><tr><td>Arabic No</td><td>472</td></tr><tr><td>Reference</td><td>Book 4 Hadith 222</td></tr></tbody></table></div>
 

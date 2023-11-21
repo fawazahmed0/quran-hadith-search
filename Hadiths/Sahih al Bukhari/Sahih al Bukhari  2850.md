@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Urwa bin Ja'd:The Prophet (ﷺ) said, "Good will remain (as a permanent
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Hafsh bin 'Umar] telah bercerita kepada kami [Syu'bah] dari [Hushain] dan [Ibnu Abi As-Safar] dari [Asy-Sya'biy] dari ['Urwah bin Al Ja'di] dari Nabi shallallahu 'alaihi wasallam bersabda: "Seekor kuda (yang digunakan untuk fii sabilillah) terikat pada ubun-ubunnya kebaikan hingga hari qiyamat". [Sulaiman] berkata dari [Syu'bah] dari ['Urwah bin Abi Al Ja'di]. Hadits ini ditelusuri pula oleh [Musaddad] dari [Husyaim] dari [Hushain] dari [Asy-Sya'biy] dari ['Urwah bin Al Ja'di]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2850</td></tr><tr><td>Arabic No</td><td>2850</td></tr><tr><td>Reference</td><td>Book 56 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Урвы аль-Барики, да будет доволен им Аллах, что Пророк ﷺ сказал: «Благо /хайр/ не покинет чёлок лошадей до самого Дня воскресения, (ибо благодаря им людям достанется) награда (в мире вечном) и военная добыча (в земной жизни)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2850</td></tr><tr><td>Arabic No</td><td>2850</td></tr><tr><td>Reference</td><td>Book 56 Hadith 66</td></tr></tbody></table></div>
 

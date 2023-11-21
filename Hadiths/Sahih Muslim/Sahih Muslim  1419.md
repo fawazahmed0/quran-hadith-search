@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah relates on the authority of his father. He who missed his afternoon pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Said Al Aili] sedangkan lafadz darinya, dia berkata; telah menceritakan kepada kami [Ibn Wahb] telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Ibnu Syihab] dari [Salim bin Abdullah] dari [Ayahnya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang ketinggalan shalat ashar, seolah-olah ia kehilangan keluarga dan hartanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1419</td></tr><tr><td>Arabic No</td><td>626.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 253</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От Ибн ‘Умара, да будет доволен им Аллах, передаётся, что Посланник Аллаха ﷺ сказал: «Тот, кто пропустил послеполуденную молитву (‘аср), подобен лишившемуся своей семьи и своего имущества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1419</td></tr><tr><td>Arabic No</td><td>626.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 253</td></tr></tbody></table></div>
 

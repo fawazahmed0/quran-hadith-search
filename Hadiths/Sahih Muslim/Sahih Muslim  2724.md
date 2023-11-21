@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with both of them) reported:The Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Rabi' Az Zahrani] telah menceritakan kepada kami [Abu Awanah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhu ia berkata; Rasulullah shallallahu 'alaihi wasallam tidak pernah berpuasa selama satu bulan penuh, kecuali Ramadlan. Dan jika beliau rajin puasa, beliau puasa berhari-hari hingga orang mengatakan, "Tidak, demi Allah, beliau tidak pernah absen berpuasa, namun ternyata tiba hari yang beliau tidak berpuasa. Dan bila beliau sedang rajin tidak puasa (beliau lakukan hari demi hari) hingga seseorang kami mengatakan, "Tidak, demi Allah, beliau tidak pernah berpuasa." Dan Telah menceritakan kepada kami [Muhammad bin Basysyar] dan [Abu Bakr bin Nafi'] dari [Ghundar] dari [Syu'bah] dari [Abu Bisyr] dengan isnad ini, dan ia mengatakan; Satu bulan berturut-turut, semenjak beliau tiba di kota Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2724</td></tr><tr><td>Arabic No</td><td>1157.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2724</td></tr><tr><td>Arabic No</td><td>1157.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 230</td></tr></tbody></table></div>
 

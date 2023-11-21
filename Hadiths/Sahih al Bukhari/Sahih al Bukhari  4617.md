@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:We had no alcoholic drink except that which was produced
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] Telah menceritakan kepada kami [Ibnu 'Ulayyah] Telah menceritakan kepada kami ['Abdul 'Aziz bin Shuhaib] dia berkata; [Anas bin Malik radliallahu 'anhu] berkata; 'Kami tidak punya khamr kecuali Fadlikh kalian ini, yang biasa kalian sebut dengan Al Fadlikh. Aku pernah menjadi orang yang memberi minum Abu Thalhah, dan fulan, serta fulan. Lalu datang seseorang berkata; 'Apakah telah sampai kepada kalian suatu kabar? Mereka bertanya; 'Kabar apa itu? Dia menjawab; 'Khamr telah diharamkan.' Mereka berkata; Wahai Anas, bakarlah kendi-kendi ini! Mereka tidak pernah meminta dan kembali kepada memimum khamr lagi setelah mendengar kabar dari orang tadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>4617</td></tr><tr><td>Reference</td><td>Book 65 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «У нас не было никакого другого вина, кроме того, которое вы называете “фадих”. (Однажды, когда) я угощал им Абу Тальху, а также такого-то и такого-то, подошёл какой-то человек и сказал: “Разве вы не слышали новость?” (Люди) спросили: “Какую?” Он сказал: “Вино было запрещено”. (Тогда люди) сказали: “Вылей то, что в этих кувшинах, о Анас!” — и после того как тот человек передал (нам) это известие, они больше не спрашивали о (вине) и не возвращались к этому»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>4617</td></tr><tr><td>Reference</td><td>Book 65 Hadith 139</td></tr></tbody></table></div>
 

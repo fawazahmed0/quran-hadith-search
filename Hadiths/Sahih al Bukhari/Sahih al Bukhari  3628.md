@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) in his fatal illness came out, wrapp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3628</td></tr><tr><td>Arabic No</td><td>3628</td></tr><tr><td>Reference</td><td>Book 61 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Во время той болезни, от которой умер Посланник Аллаха ﷺ, он вышел, накинув на плечи плащ и перевязав голову промасленной повязкой, и сел на минбар. (Пророк ﷺ) воздал хвалу Аллаху, возблагодарил его, а потом сказал: “А затем: о люди, (начиная с этого времени,) людей будет становиться больше, а ансаров — меньше, так что среди людей они будут подобны соли в еде. И тот из вас, кто получит власть и сможет кому-то причинять вред или приносить пользу, пусть принимает (благое) от совершающего благое из (числа ансаров) и прощает тому из них, кто совершит что-нибудь плохое”. И это было последнее собрание с участием Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3628</td></tr><tr><td>Arabic No</td><td>3628</td></tr><tr><td>Reference</td><td>Book 61 Hadith 132</td></tr></tbody></table></div>
 

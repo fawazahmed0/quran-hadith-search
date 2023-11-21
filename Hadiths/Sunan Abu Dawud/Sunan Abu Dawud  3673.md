@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: I was serving wine to the people in the house of AbuTal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Anas] ia berkata, "Aku pernah memberi orang-orang minum khamer di waktu khamer telah diharamkan di rumah Abu Thalhah. Ketika itu minuman kami terbuat uii Fadlikh (khamer dari kurma muda). Kemudian ada seorang laki-laki masuk menemui kami dan berkata, 'sesungguhnya khamer telah diharamkan, dan penyeru Rasulullah shallallahu 'alaihi wasallam telah mengumumkan', maka kami pun berkata, "Ini adalah penyeru Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4620) Sahih Muslim (1980)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3673</td></tr><tr><td>Arabic No</td><td>3673</td></tr><tr><td>Reference</td><td>Book 27 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса, да будет доволен им Аллах: «Когда был ниспослан запрет на употребление вина, я как раз поил людей вином в доме Абу Тальхи. В то время у нас было только вино из недозрелых фиников. И к нам пришёл один человек и сказал: “Поистине, вино было запрещено!” И тут глашатай Посланника Аллаха ﷺ объявил о запрете, и мы сказали: “Это глашатай Посланника Аллаха ﷺ!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4620) Sahih Muslim (1980)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3673</td></tr><tr><td>Arabic No</td><td>3673</td></tr><tr><td>Reference</td><td>Book 27 Hadith 5</td></tr></tbody></table></div>
 

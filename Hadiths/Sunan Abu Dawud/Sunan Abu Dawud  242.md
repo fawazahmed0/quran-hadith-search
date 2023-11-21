@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah reported :When the Messenger of Allah (May peace be upon him) would take 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb Al-Wasyihi] dan [Musaddad] mereka berdua berkata; Telah menceritakan kepada kami [Hammad] dari [Hisyam bin Urwah] dari [Ayahnya] dari [Aisyah] dia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam mandi junub, Sulaiman menyebutkan; Beliau memulai dengan menuangkan air dengan tangan kanan beliau ke tangan kirinya. Musaddad menyebutkan; Beliau membasuh kedua tangannya dengan menuangkan bejana ke tangan kanannya. Kemudian mereka berdua bersepakat menyebutkan; Lalu beliau mencuci kemaluannya. Setelah itu, beliau berwudhu sebagaimana berwudhu untuk shalat, lalu memasukkan kedua tangannya ke dalam bejana, dilanjutkan dengan menyela-nyela rambutnya. Setelah Rasulullah telah yakin bahwa kulitnya terkena air, beliau menuangkannya ke atas kepalanya tiga kali. Apabila ternyata masih ada sisa air, maka beliau menuangkannya lagi ke atas kepalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (248) Sahih Muslim (316)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 1 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Когда Посланник Аллаха ﷺ купался из-за осквернения».Сулейман (ибн Харб в своем риваяте) сказал: «Он начинал с того, что наливал (воду) правой рукой на левую».А Мусаддад сказал: «Он мыл свои руки, наливая (воды) из сосуда на правую руку». Затем (Сулейман и Мусаддад) сошлись (в своих риваятах и сказали ): «И он мыл свои половые органы».Мусаддад сказал: «Он наливал (воду) на левую руку, но возможно она намекнула и на половые органы. Затем он совершал такое же омовение, которое совершается для молитвы, после чего опускал свои руки в сосуд и (затем) прочесывал волосы (руками) пока не убеждался, что она достигла кожи (или : постигла кожу) головы, наливая на нее воды три раза. А если оставалась вода, то он наливал её на себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (248) Sahih Muslim (316)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 1 Hadith 242</td></tr></tbody></table></div>
 

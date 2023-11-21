@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "Look for the Night of Qadr in the l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam bersabda. Berkata, telah mengabarkan kepada saya bapakku dari 'Aisyah radliallahu 'anha dari Nabi shallallahu 'alaihi wasallam: "Carilah Lailatul Qadar pada sepuluh malam yang akhir dari Ramadhan, pada sisa malam kesembilan, pada yang ketujuh, pada yang kelima". Hadits ini dikuatkan pula oleh ['Abdul Wahhab] dari [Ayyub].:
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2021</td></tr><tr><td>Arabic No</td><td>2021</td></tr><tr><td>Reference</td><td>Book 32 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Ждите Ночь предопределения в последние десять ночей рамадана(, когда) останется девять, или семь, или пять (ночей до конца месяца)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2021</td></tr><tr><td>Arabic No</td><td>2021</td></tr><tr><td>Reference</td><td>Book 32 Hadith 8</td></tr></tbody></table></div>
 

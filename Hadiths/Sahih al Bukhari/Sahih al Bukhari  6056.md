@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:I heard the Prophet (ﷺ) saying, "A Qattat will not enter Par
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Hammam] dia berkata; "Kami pernah bersama [Hudzaifah], lalu di beritahukan kepadanya bahwa ada seseorang yang merafa'kan (menyandarkan) hadits kepada Utsman, lantas Hudzaifah berkata kepada orang tersebut; "Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tidak akan masuk surga orang yang suka mengadu domba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6056</td></tr><tr><td>Arabic No</td><td>6056</td></tr><tr><td>Reference</td><td>Book 78 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаммам сказал:\n— (Однажды), когда мы находились с Хузайфой, да будет доволен им Аллах, ему сказали: «Один человек возводит хадис к ‘Усману». И тогда Хузайфа сказал: «Я слышал, как Пророк ﷺ говорил: “Сплетник /къаттат/ не войдёт в рай”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6056</td></tr><tr><td>Arabic No</td><td>6056</td></tr><tr><td>Reference</td><td>Book 78 Hadith 86</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:The Prophet (ﷺ) said about Ad-Dajjal that he would have wate
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepadaku [Ayahku] dari [Syu'bah] dari ['Abdul Malik] dari [Rib'i] dari [Khudzaifah] dari Nabi shallallahu 'alaihi wasallam bersabda tentang dajjal; "Ia membawa air dan api, yang kelihatan api adalah air dingin, dan yang kelihatan air adalah api." Dan [Abu Mas'ud] mengatakan; aku mendengarnya dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7130</td></tr><tr><td>Arabic No</td><td>7130</td></tr><tr><td>Reference</td><td>Book 92 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузайфа (ибн аль-Яман), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал о Даджале: «Поистине, с ним будет вода и огонь. Огонь его — прохладная вода, а вода его — огонь».\nАбу Мас‘уд, да будет доволен им Аллах, сказал: «Я слышал эти слова от Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7130</td></tr><tr><td>Arabic No</td><td>7130</td></tr><tr><td>Reference</td><td>Book 92 Hadith 77</td></tr></tbody></table></div>
 

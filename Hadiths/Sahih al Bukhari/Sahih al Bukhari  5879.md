@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Anas added:The ring of the Prophet (ﷺ) was in his hand, and after him, in Abu 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abdullah Al Anshari] dia berkata; telah menceritakan kepadaku [Ayahku] dari [Tsumamah] dari [Anas] bahwa ketika Abu Bakr diangkat menjadi Khalifah dia menulis surat kepadanya (tentang zakat) sedangkan ukiran pada cincin tersebut terdapat tiga baris, baris pertama bertuliskan Muhammad, baris kedua bertuliskan Rasul dan dibaris ketiga bertuliskan Allah, " Abu Abdullah mengatakan; "Sedangkan [Ahmad] menambahkan kepadaku telah menceritakan kepada kami [Al Anshari] dia berkata; telah menceritakan kepadaku [Ayahku] dari [Tsumamah] dari [Anas] dia berkata; "Cincin Nabi shallallahu 'alaihi wasallam berada di tangan beliau, lalu di tangan Abu Bakr, lalu di tangan Umar, ketika berada di tangan Utsman, dia duduk-duduk di dekat sumur Aris (Anas) melanjutkan; 'Lalu dia mengeluarkan cincin tersebut (dari tangannya) dan mempermainkannya, tiba-tiba cincin tersebut terjatuh ke dalam sumur, lalu kami berusaha mencarinya bersama Utsman selama tiga hari, dengan mengeluarkan air sumur tersebut sedikit demi sedikit, namun tidak juga menemukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5879</td></tr><tr><td>Arabic No</td><td>5879</td></tr><tr><td>Reference</td><td>Book 77 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «(Сначала) перстень был на руке Пророка ﷺ, после него на руке Абу Бакра, после Абу Бакра на руке ‘Умара. Когда же он перешёл к ‘Усману, (то произошло следующее:) однажды, когда он сидел возле колодца Арис, он снял перстень, стал играться с ним и уронил (в колодец). В течении трёх дней мы с ‘Усманом ходили к колодцу (в поисках перстня), затем он осушил колодец, но так и не нашёл его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5879</td></tr><tr><td>Arabic No</td><td>5879</td></tr><tr><td>Reference</td><td>Book 77 Hadith 96</td></tr></tbody></table></div>
 

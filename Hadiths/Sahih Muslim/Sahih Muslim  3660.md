@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar (Allah be pleased with them) reported that he divorced his wife while 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Utsman bin Hakim Al Audi] telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepadaku [Sulaiman, yaitu Ibnu Bilal] telah menceritakan kepadaku [Abdullah bin Dinar] dari [Ibnu Umar] bahwa dia pernah menceraikan istrinya yang sedang haidl, maka Umar menanyakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, lalu beliau bersabda: "Suruhlah dia merujuknya sampai istrinya suci, kemudian haidl yang kedua kali, kemudian suci, setelah itu dia boleh menceraikannya atau tetap bersamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>1471.09</td></tr><tr><td>Reference</td><td>Book 18 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>1471.09</td></tr><tr><td>Reference</td><td>Book 18 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Sa'id al-Khudri: Ali ibn AbuTalib found a dinar and he took it to F
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Al 'Ala'], telah menceritakan kepada Kami [Abdullah bin Wahb] dari ['Amr bin Al Harits] dari [Bukair bin Al Asyajj] dari ['Ubaidullah bin Miqsam] menceritakannya, dari [seorang laki-laki] dari [Abu Sa'id Al Khudri radliallahu 'anhu] bahwasanya Ali Bin Abu Thalib radliallahu 'anhu menemukan uang satu dinar, kemudian membawanya kepada Fathimah radliallahu 'anha, lalu ia menanyakannya kepada Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallla Allahu 'alaihi wa sallam berkata: itu adalah rizqi dari Allah 'azza wajalla, kemudian beliau memakannya dan begitu juga Ali serta Fathimah. Kemudian setelah itu seorang wanita datang kepada beliau mengumumkan kehilangan uang satu dinar, maka Rasulullah shallallahu 'alaihi wasallam mengatakan kepada Ali: wahai Ali, berikan uang satu dinar tersebut kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1714</td></tr><tr><td>Arabic No</td><td>1714</td></tr><tr><td>Reference</td><td>Book 10 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллаха, что однажды ‘Али ибн Абу Талиб нашёл динар и принёс его Фатиме. Она спросила об этом Посланника Аллаха ﷺ и он сказал: «Это удел от Всемогущего и Великого Аллаха». И Посланник Аллаха ﷺ и ‘Али и Фатима ели купленное на этот динар. А потом пришла женщина, которая искала свой потерянный динар, и Посланник Аллаха ﷺ велел: «О ‘Али, отдай ей динар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1714</td></tr><tr><td>Arabic No</td><td>1714</td></tr><tr><td>Reference</td><td>Book 10 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud Al-Ansari:A man came to Allah's Messenger (ﷺ) and said, "O
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Ismail bin Abu Khalid] dari [Qais bin Abu hazim] dari [Abu Mas'ud Al Anshari] mengatakan, seorang laki-laki menemui Rasulullah Shallallahu'alaihiwasallam dan berujar; "Hai Rasulullah, Demi Allah, sungguh saya memperlambat-lambatkan diri dari shalat subuh karena si fulan yang menjadi imam, ia selalu memanjangkan bacaan shalatnya jika shalat bersama kami." Abu mas'ud Kata; belum pernah kulihat Nabi shallallahu 'alaihi wasallam sedemikian marahnya seperti ketika beliau menasehatinya. Lantas Nabi menegur; "Hai manusia, diantara kalian ada yang menjadikan orang lain menjauhkan diri dari (masjid dan ibadah), siapa diantara kalian mengimami orang-orang, lakukanlah secara ringkas (sederhana), sebab disana ada orang-orang tua, orang lemah dan orang yang mempunyai keperluan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7159</td></tr><tr><td>Arabic No</td><td>7159</td></tr><tr><td>Reference</td><td>Book 93 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд аль-Ансари, да будет доволен им Аллах, сказал: «Однажды какой-то человек пришёл к Посланнику Аллаха ﷺ и сказал: “О Посланник Аллаха, клянусь Аллахом, я пропускаю (коллективную) утреннюю молитву лишь потому, что такой-то проводит его с нами слишком долго”».\n(Абу Мас‘уд, да будет доволен им Аллах, сказал): «И я никогда не видел, чтобы Пророк ﷺ увещевая людей, гневался сильнее, чем в тот день. Он сказал: “О люди! Поистине, (некоторые из вас) отталкивают (других от молитв)! Пусть же тот, кто проводит её с людьми, облегчает, ведь среди них (могут) оказаться старые, слабые и те, у кого есть неотложные дела!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7159</td></tr><tr><td>Arabic No</td><td>7159</td></tr><tr><td>Reference</td><td>Book 93 Hadith 23</td></tr></tbody></table></div>
 

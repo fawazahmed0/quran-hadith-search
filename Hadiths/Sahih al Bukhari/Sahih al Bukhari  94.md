@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Whenever the Prophet (ﷺ) asked permission to enter, he knocked t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdah] berkata, Telah menceritakan kepada kami [Abdushshamad] berkata, Telah menceritakan kepada kami [Abdullah bin Al Mutsanna] berkata; [Tsumamah bin Abdullah] telah menceritakan kepada kami dari [Anas] dari Nabi shallallahu 'alaihi wasallam, bahwa Nabi shallallahu 'alaihi wasallam apabila memberi salam, diucapkannya tiga kali dan bila berbicara dengan satu kalimat diulangnya tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 3 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах: «Когда Пророк ﷺ обращался (к кому-либо) с салямом, то делал это три раза, а когда говорил что-нибудь (людям), он обычно повторял сказанное трижды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 3 Hadith 36</td></tr></tbody></table></div>
 

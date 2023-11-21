@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Hind bint 'Utba bin Rabi'a came and said. "O Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepada kami ['Urwah] bahwasanya [Aisyah] radliallahu 'anha mengatakan, Hindun binti Utbah bin Rabi'ah datang dan berujar; 'Wahai Rasulullah, dahulu tidak ada penghuni rumah diatas bumi yang lebih saya sukai untuk dihinakan selain penghuni rumahmu, kebalikannya sekarang, tidak ada penghuni rumah diatas bumi yang lebih saya sukai untuk dimuliakan selain penghuni rumahmu, ' kemudian Hindun binti Utbah mengatakan; 'Sesungguhnya abu Sufyan orangnya sangat pelit, apakah saya berdosa jika memberi makan orang-orang yang menjadi tanggungan kami (dengan mengambil hartanya tanpa sepengetahuannya?) ' Nabi menjawab: "tidak masalah kau memberi makanan untuk mereka, asalkan dengan ma'ruf (cara wajar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7161</td></tr><tr><td>Arabic No</td><td>7161</td></tr><tr><td>Reference</td><td>Book 93 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Как-то раз пришла Хинд бинт ‘Утба бин Раби‘а и сказала: “О Посланник Аллаха! Клянусь Аллахом, прежде не было на поверхности земли семьи, которой я желала бы познать унижение так же (сильно), как твоей семье, а сегодня нет такой семьи на поверхности земли, которой я желала бы такой же славы, как твоей семье!” Затем она сказала: “Поистине, Абу Суфйан — человек скупой, так будет ли грехом, если я стану кормить нашу семью из того, что принадлежит ему?” Он сказал ей: “Нет греха на тебе в том, что ты будешь кормить их сообразно обычаю”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7161</td></tr><tr><td>Arabic No</td><td>7161</td></tr><tr><td>Reference</td><td>Book 93 Hadith 25</td></tr></tbody></table></div>
 

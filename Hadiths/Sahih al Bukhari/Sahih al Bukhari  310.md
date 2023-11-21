@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:"One of the wives of Allah's Messenger (ﷺ) joined him in I'tik
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Yazid bin Zurai'] dari [Khalid] dari ['Ikrimah] dari ['Aisyah] berkata, "Nabi shallallahu 'alaihi wasallam pernah beri'tikaf bersama salah seorang dari isterinya. Ia melihat ada darah dan cairan berwarna kekuningan, lalu di bawahnya diletakkan baskom sementara ia tetap mengerjakan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>310</td></tr><tr><td>Arabic No</td><td>310</td></tr><tr><td>Reference</td><td>Book 6 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Одна из жён Посланника Аллаха ﷺ совершала с ним затворничество в мечети /и‘тикаф/ и она видела кровь и желтизну и под ней таз, и она совершала молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>310</td></tr><tr><td>Arabic No</td><td>310</td></tr><tr><td>Reference</td><td>Book 6 Hadith 15</td></tr></tbody></table></div>
 

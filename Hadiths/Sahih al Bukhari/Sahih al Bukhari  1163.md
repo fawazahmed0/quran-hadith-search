@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) was never more regular and particular in offer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Bayan bin 'Amru] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Ibnu Juraij] dari ['Atho'] dari ['Ubaid bin 'Umair] dari ['Aisyah radliallahu 'anha] berkata: "Tidak ada shalat sunnat yang lebih Nabi shallallahu 'alaihi wasallam tekuni daripada dua raka'at Fajar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1163</td></tr><tr><td>Arabic No</td><td>1163</td></tr><tr><td>Reference</td><td>Book 19 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Къатады ибн Риб‘и аль-Ансари, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Когда кто-нибудь из вас войдёт в мечеть, пусть не садится, пока не совершит молитву в два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1163</td></tr><tr><td>Arabic No</td><td>1163</td></tr><tr><td>Reference</td><td>Book 19 Hadith 42</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mirdas Al-Aslami:The Prophet (ﷺ) said, "The righteous (pious people w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Hammad] telah menceritakan kepada kami [Abu 'Awanah] dari [Bayan] dari [Qais bin Abu Hazim] dari [Mirdas Al Aslami] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Orang-orang shalih akan pergi (wafat) satu demi satu, hingga yang tersisa adalah orang-orang yang kwalitasnya seperti ampas gandum atau kurma, dan Allah tidak memperdulikan mereka." Abu Abdullah mengatakan; 'Hufalah disebut juga dengan hutsalah (ampas atau dedak)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6434</td></tr><tr><td>Arabic No</td><td>6434</td></tr><tr><td>Reference</td><td>Book 81 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Мирдаса аль-Аслами, да будет доволен им Аллах, что Пророк ﷺ сказал: «Праведные будут уходить один за одним, а останутся (на земле люди, столь же бесполезные,) как и отходы от ячменя или фиников, которым Аллах не станет придавать никакого значения».\nСказал Абу ‘Абдуллах: «Говорят: либо حُفَالَةٌ, либо حُثَالَةٌ» [т.е. слова одного смысла, но приходят в разных риваятах]
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6434</td></tr><tr><td>Arabic No</td><td>6434</td></tr><tr><td>Reference</td><td>Book 81 Hadith 23</td></tr></tbody></table></div>
 

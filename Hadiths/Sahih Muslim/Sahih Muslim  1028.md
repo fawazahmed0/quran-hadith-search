@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Simak asked Jabir b. Samura about the prayer of the Apostle (ﷺ). He said:He (t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1028</td></tr><tr><td>Arabic No</td><td>458.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Симак сказал: «Я спросил Джабира ибн Самуру о молитве Пророка ﷺ, и он сказал: “Он облегчал молитву, а не совершал её, как совершают молитву эти (имамы его времени)”. Так же он сообщил мне, что Посланник Аллаха ﷺ читал во время утренней молитвы /фаджр/: “Каф. Клянусь Славным Кораном!”, и подобные ей (суры)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1028</td></tr><tr><td>Arabic No</td><td>458.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 190</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) said, "May Allah curse the Jews! 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Khalid] Telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dia berkata; ['Atha] mendengar [Jabir bin 'Abdullah radliallahu 'anhuma] Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Semoga Allah memerangi orang-orang Yahudi, ketika Allah 'azza wajalla tatkala mengharamkan lemak atas mereka maka mereka mencairkannya kemudian menjualnya dan memakan harganya." Dan [Abu 'Ashim] berkata; Telah menceritakan kepada kami ['Abdul Hamid] Telah menceritakan kepada kami [Yazid] bahwa ['Atha] telah menulis kepadaku; Aku mendengar [Jabir] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4633</td></tr><tr><td>Arabic No</td><td>4633</td></tr><tr><td>Reference</td><td>Book 65 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Да погубит Аллах иудеев! Когда Аллах запретил им (использовать) жир (животных), они стали перетапливать его и продавать, проедая (полученные) за него деньги!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4633</td></tr><tr><td>Arabic No</td><td>4633</td></tr><tr><td>Reference</td><td>Book 65 Hadith 155</td></tr></tbody></table></div>
 

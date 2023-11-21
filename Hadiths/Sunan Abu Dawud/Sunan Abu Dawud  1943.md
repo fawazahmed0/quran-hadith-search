@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ata' said:A reporter reported to me about Asma' that she threw pebbles at the ja
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Khallad Al Bahili], telah menceritakan kepada Kami [Yahya] dari [Ibnu Juraij], telah mengabarkan kepadaku ['Atha'], telah mengabarkan kepadaku [Seseorang] dari [Asma'] bahwa ia melempar jumrah. Aku katakan; sesungguhnya Kami melempar jumrah pada malam hari. Ia berkata; sesungguhnya Kami melakukan hal ini pada masa Rasulullah shallAllahu wa'alaihi wa sallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1943</td></tr><tr><td>Arabic No</td><td>1943</td></tr><tr><td>Reference</td><td>Book 11 Hadith 223</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Человек, передающий от Асмы, сообщил, что Асма, да будет доволен ею Аллах, бросала камешки ночью: «Я сказал: “Поистине, мы бросили камешки ночью”. Она же сказала: “Мы поступали так во времена Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1943</td></tr><tr><td>Arabic No</td><td>1943</td></tr><tr><td>Reference</td><td>Book 11 Hadith 223</td></tr></tbody></table></div>
 

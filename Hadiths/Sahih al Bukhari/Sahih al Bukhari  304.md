@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Once Allah's Messenger (ﷺ) went out to the Musall
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] berkata, telah mengabarkan kepada kami [Muhammad bin Ja'far] berkata, telah mengabarkan kepadaku [Zaid] -yaitu Ibnu Aslam- dari ['Iyadl bin 'Abdullah] dari [Abu Sa'id Al Khudri] ia berkata, "Rasulullah shallallahu 'alaihi wasallam pada hari raya 'Iedul Adlha atau Fitri keluar menuju tempat shalat, beliau melewati para wanita seraya bersabda: "Wahai para wanita! Hendaklah kalian bersedekahlah, sebab diperlihatkan kepadaku bahwa kalian adalah yang paling banyak menghuni neraka." Kami bertanya, "Apa sebabnya wahai Rasulullah?" beliau menjawab: "Kalian banyak melaknat dan banyak mengingkari pemberian suami. Dan aku tidak pernah melihat dari tulang laki-laki yang akalnya lebih cepat hilang dan lemah agamanya selain kalian." Kami bertanya lagi, "Wahai Rasulullah, apa tanda dari kurangnya akal dan lemahnya agama?" Beliau menjawab: "Bukankah persaksian seorang wanita setengah dari persaksian laki-laki?" Kami jawab, "Benar." Beliau berkata lagi: "Itulah kekurangan akalnya. Dan bukankah seorang wanita bila dia sedang haid dia tidak shalat dan puasa?" Kami jawab, "Benar." Beliau berkata: "Itulah kekurangan agamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>304</td></tr><tr><td>Arabic No</td><td>304</td></tr><tr><td>Reference</td><td>Book 6 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ вышел к месту молитвы в день жертвоприношения (или: в день разговения), а затем, проходя мимо (собравшихся) женщин, (остановился и) обратился (к ним с такими словами): „О женщины, раздавайте милостыню, ибо, поистине, мне было дано увидеть, что вы составляете собой большинство из оказавшихся в аду!“ Они спросили: „Почему же, о Посланник Аллаха?“ Он ответил: „Потому что вы часто проклинаете (людей) и проявляете неблагодарность по отношению к своим мужьям. Не видел я никого из тех, кому недостаёт ума и (совершенства в делах) религии, кто мог бы подобно любой из вас до такой степени лишать разума благоразумного мужчину!“ Женщины спросили: „О Посланник Аллаха, в чём же заключается наше несовершенство в (делах) религии и недостаток ума?“ Он сказал: „Разве свидетельство женщины не (приравнивается к) половине свидетельства мужчины?“ Они сказали: „Да“. Он сказал: „Это и (указывает) на недостаток её ума. А разве (женщине) не следует прекращать молиться и поститься, когда у неё начинаются месячные?“ Они сказали: „Да“. Он сказал: „А это (указывает) на её несовершенство в (делах) религии“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>304</td></tr><tr><td>Arabic No</td><td>304</td></tr><tr><td>Reference</td><td>Book 6 Hadith 9</td></tr></tbody></table></div>
 

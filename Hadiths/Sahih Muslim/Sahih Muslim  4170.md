@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with them) reported Allah's Apostle (ﷺ) having sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Musa Ar Razi] dan [Ishaq bin Ibrahim] keduanya berkata; telah mengabarkan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Al Auza'i] dari [Abu Ja'far Muhammad bin Ali] dari [Ibnu Musayyab] dari [Ibnu Abbas], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Permisalan orang yang mengambil kembali sedekahnya, seperti seekor anjing yang muntah kemudian ia menjilat dan memakan kembali muntahannya." Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala] telah mengabarkan kepada kami [Ibnu Mubarak] dari [Al Auza'i] dia berkata, "Saya pernah mendengar [Muhammad bin Ali bin Husain] menyebutkan dengan sanad, seperti hadits tersebut." Dan telah menceritakan kepadaku [Hajjaj bin Sya'ir] telah menceritakan kepada kami [Abdus Shamad] telah menceritakan kepada kami [Harb] telah menceritakan kepada kami [Yahya] -yaitu Ibnu Abu Katsir- telah menceritakan kepadaku [Abdurrahman bin Amru] bahwa [Muhammad bin Fatimah binti Rasulullah] shallallahu 'alaihi wasallam telah menceritakan kepadanya dengan sanad ini, seperti hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4170</td></tr><tr><td>Arabic No</td><td>1622.01</td></tr><tr><td>Reference</td><td>Book 24 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4170</td></tr><tr><td>Arabic No</td><td>1622.01</td></tr><tr><td>Reference</td><td>Book 24 Hadith 8</td></tr></tbody></table></div>
 

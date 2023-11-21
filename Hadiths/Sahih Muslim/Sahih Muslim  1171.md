@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: I have been helped by te
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu ath-Thahir] telah mengabarkan kepada kami [Ibnu Wahb] dari [Amru bin al-Harits] dari [Abu Yunus, maula Abu Hurairah radhiyallahu'anhu] bahwasanya dia telah menceritakan kepadanya dari [Abu Hurairah radhiyallahu'anhu] dari Rasulullah shallallahu 'alaihi wasallam bahwa beliau bersabda, "Aku ditolong dengan rasa takut (yang dihunjamkan) di dada musuh-musuhku, aku diberi Jawami' al-Kalim, ketika aku tidur maka aku diberi kunci-kunci gudang penyimpanan bumi, lalu diletakkan di kedua tanganku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1171</td></tr><tr><td>Arabic No</td><td>523.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Мне была оказана помощь страхом, (который охватил сердца моих) врагов, и мне была дарована (способность говорить с людьми, произнося) немного слов, в которые вкладывается много смысла /джавами‘ аль-кялим/, а когда я спал, мне принесли ключи от сокровищниц земли и вложили их мне в руку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1171</td></tr><tr><td>Arabic No</td><td>523.05</td></tr><tr><td>Reference</td><td>Book 5 Hadith 11</td></tr></tbody></table></div>
 

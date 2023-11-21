@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is narrated on the authority of Alqama and Aswad by another chain of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1192</td></tr><tr><td>Arabic No</td><td>534.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В версии Ибн Мусхира и Джарира говорится: «Я как будто смотрю на сомкнутые пальцы Посланника Аллаха ﷺ, когда он совершает поясной поклон»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1192</td></tr><tr><td>Arabic No</td><td>534.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 32</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: If anyone repeats in the mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani] ia berkata; telah mengabarkan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ar Rabi' bin Sulaiman] ia berkata; telah menceritakan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Al Laits] dari [Sa'id bin Basyir An Najjarri] dari [Muhammad bin 'Abdurrahman Al Bailamani], Ar Rabi' Ibnul Bailamani berkata dari [Bapaknya] dari [Ibnu Abbas] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa saat pagi hari membaca (ayat): '(Maka bertasbihlah kepada Allah di waktu kamu berada di petang hari dan waktu kamu berada di waktu subuh, dan bagi-Nyalah segala puji di langit dan di bumi dan di waktu kamu berada pada petang hari dan di waktu kamu berada di waktu Zuhur). hingga firman-Nya '(Dan seperti itulah kamu akan dikeluarkan (dari kubur).) " -Qs. Ruum: 17-19- Maka ia akan mendapatkan apa yang terlepas pada hari itu. Dan barangsiapa membacanya pada waktu sore, maka ia akan mendapatkan apa yang terlepas pada malam itu." Rabi' menyebutkannya dari Al laits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5076</td></tr><tr><td>Arabic No</td><td>5076</td></tr><tr><td>Reference</td><td>Book 43 Hadith 304</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5076</td></tr><tr><td>Arabic No</td><td>5076</td></tr><tr><td>Reference</td><td>Book 43 Hadith 304</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nazzal:Ali came to the gate of the courtyard (of the Mosque) and dra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Mis'ar] dari [Abdul Malik bin Maisarah] dari [An Nazal] dia berkata; [Ali] radliallahu 'anhu pernah datang dan berdiri di depan pintu rahbah, lalu dia minum sambil berdiri setelah itu dia berkata; "Sesungguhnya orang-orang merasa benci bila salah seorang dari kalian minum sambil berdiri, padahal aku pernah melihat Nabi shallallahu 'alaihi wasallam melakukannya sebagaimana kalian melihatku saat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5615</td></tr><tr><td>Arabic No</td><td>5615</td></tr><tr><td>Reference</td><td>Book 74 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) ‘Али, да будет доволен им Аллах, находившемуся у ворот двора мечети, принесли воду, а он выпил её стоя и сказал: «Поистине, некоторые люди не любят пить стоя, а я видел, что Пророк ﷺ делал то же, что сейчас сделал я»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5615</td></tr><tr><td>Arabic No</td><td>5615</td></tr><tr><td>Reference</td><td>Book 74 Hadith 41</td></tr></tbody></table></div>
 

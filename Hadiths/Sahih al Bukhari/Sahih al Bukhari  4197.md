@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) reached Khaibar at night and it was his ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Humaid Ath Thawil] dari [Anas radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam mendatangi Khaibar pada malam hari. Apabila beliau menyerang suatu kaum di malam hari, beliau tidak menyerangnya hingga datang waktu pagi. Ketika pagi telah tiba, orang-orang Yahudi pun keluar rumah dengan membawa sekop-sekop dan keranjang mereka. Tatkala mereka melihat beliau, mereka berkata; "Muhammad Demi Allah, Muhammad dan pasukannya." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Hancurlah Khaibar. Sesungguhnya kami apabila mendatangi perkampungan suatu kaum, ("maka amat buruklah pagi hari yang dialami orang-orang yang diperingatkan tersebut"). QS Ash Shaffat;
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4197</td></tr><tr><td>Arabic No</td><td>4197</td></tr><tr><td>Reference</td><td>Book 64 Hadith 237</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ подошел к Хайбару ночью, а когда он подходил к (селению кого-либо из) людей ночью, то никогда не нападал на них, не дождавшись утра. Утром иудеи стали выходить со своими лопатами и большими корзинами, увидев же (Пророка ﷺ), они закричали: “Мухаммад, клянемся Аллахом, (это) Мухаммад со (своей) пятеркой!” — и тогда Пророк ﷺ сказал: “Хайбар будет разрушен! Поистине, когда мы появляемся у селений (людей, враждующих с нами), плохим становится утро для тех, кого предупреждали!”»В другой версии (этого хадиса сообщается, что) после этого Пророк ﷺ казнил воинов и взял в плен женщин и детей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4197</td></tr><tr><td>Arabic No</td><td>4197</td></tr><tr><td>Reference</td><td>Book 64 Hadith 237</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Qunut used to be recited in the Maghrib and the Fajr prayers
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada kami [Khalid] dari [Abu Qilabah] dari [Anas bin Malik] berkata, "Qunut itu dilakukan pada shalat Maghrib dan Shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1004</td></tr><tr><td>Arabic No</td><td>1004</td></tr><tr><td>Reference</td><td>Book 14 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Обычно (мольбы) кунут (произносились) во время закатного и утреннего намазов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1004</td></tr><tr><td>Arabic No</td><td>1004</td></tr><tr><td>Reference</td><td>Book 14 Hadith 15</td></tr></tbody></table></div>
 

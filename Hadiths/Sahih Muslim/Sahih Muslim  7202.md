@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ahmad bin Ishaq]. Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] keduanya berkata: Telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Abdullah bin Thawus] dari [ayahnya] dari [Abu Hurairah] dari Nabi Shallallahu 'alaihi wa Salam bersabda: "Manusia dibangkitkan atas tiga kelompok, ada yang dalam keadaan senang ada pula yang merasa ketakutan. Ada dua orang yang menunggangi satu onta, ada tiga orang yang menunggangi satu onta, ada empat orang yang menunggangi satu onta bahkan ada sepuluh orang yang menunggangi satu onta, lalu sisanya dikumpulkan oleh api yang selalu menyertai mereka pada malam dan siang." Mereka berkata: "Pada pagi dan sore hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7202</td></tr><tr><td>Arabic No</td><td>2861</td></tr><tr><td>Reference</td><td>Book 53 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7202</td></tr><tr><td>Arabic No</td><td>2861</td></tr><tr><td>Reference</td><td>Book 53 Hadith 71</td></tr></tbody></table></div>
 

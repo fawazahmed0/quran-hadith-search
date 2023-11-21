@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I was waiting on my uncles, serving them with an alcoholic drink p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mu'tamir] dari [ayahnya] dia berkata; saya mendengar [Anas] radliallahu 'anhu berkata; aku pernah menjadi pelayan di suatu daerah yang bertugas menuangkan minuman al fadlih (minuman keras yang terbuat dari kurma) kepada para pamanku, sedangkan aku adalah orang yang paling muda di antara mereka, tiba-tiba di beritahukan bahwa khamr telah di haramkan, maka dia (salah seorang pamanku) berkata; "Tumpahkanlah ia." Aku pun langsung menumpahkannya, " aku bertanya kepada Anas; "Apakah minuman mereka saat itu?" dia menjawab; "yaitu minuman (keras) yang terbuat dari ruthab (kurma basah) dan busr (kurma muda)." Abu Bakar bin Anas berkata; "Itulah khamr mereka saat itu, dan Anas tidak mengingkarinya." Dan sebagian dari sahabatku juga pernah menceritakan kepadaku bahwa dia pernah mendengar Anas berkata; "Dan saat itu khamr mereka terbuat dari jenis itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5622</td></tr><tr><td>Arabic No</td><td>5622</td></tr><tr><td>Reference</td><td>Book 74 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда я поил своих дядей (вином, изготовленным из) фиников, будучи самым младшим из них, было сказано: “Опьяняющие напитки были запрещены”. Тогда мне сказали: “Вылей его (вино)”. И мы вылили его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5622</td></tr><tr><td>Arabic No</td><td>5622</td></tr><tr><td>Reference</td><td>Book 74 Hadith 48</td></tr></tbody></table></div>
 

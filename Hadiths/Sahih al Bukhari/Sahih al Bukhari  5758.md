@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) gave his verdict about two ladies o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] telah menceritakan kepada kami [Al Laits] dia berkata; telah menceritakan kepadaku [Abdurrahman bin Khalid] dari [Ibnu Syihab] dari [Abu Salamah] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah memutuskan perkara antara dua wanita dari Bani Hudzail yang sedang berkelahi, salah seorang melempar lawannya dengan batu dan mengenai perutnya padahal ia sedang hamil, hingga menyebabkan kematian anak yang dikandungnya. Lalu mereka mengadukan peristiwa itu kepada Nabi shallallahu 'alaihi wasallam. Beliau memutuskan hukuman (bagi wanita pembunuh) untuk membayar diyat janin dengan seorang hamba sahaya laki-laki atau perempuan, lantas wali wanita yang menanggung (diyat) berkata; "Ya Rasulullah, bagaimana saya harus menanggung orang yang belum bisa makan dan minum, bahkan belum bisa berbicara ataupun menjerit sama sekali?, tidakkah hal itu dapat dikatagorikan sebagai kecelakaan yang tidak dapat dihindari?" Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya perkara itu seperti perkara paranormal yang membacakan mantera-mantera
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5758</td></tr><tr><td>Arabic No</td><td>5758</td></tr><tr><td>Reference</td><td>Book 76 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (в своё время) Посланник Аллаха ﷺ вынес решение по делу двух подравшихся между собой женщин из (племени) хузайль, одна из которых бросила в другую камень. Этот камень попал ей в живот и убил её ребёнка, которым она была беременна, после чего они обратились за решением своей тяжбы к Пророку ﷺ, и он решил, что вирой за убитого должен послужить раб или рабыня. Тогда опекун оштрафованной женщины сказал: «О Посланник Аллаха, (почему я должен) платить штраф за того, кто не ел, не пил, не говорил и даже не кричал при рождении? (Такое решение) недействительно!» (На это) Пророк ﷺ сказал: «Не иначе как этот (человек) относится к числу братьев кахинов!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5758</td></tr><tr><td>Arabic No</td><td>5758</td></tr><tr><td>Reference</td><td>Book 76 Hadith 73</td></tr></tbody></table></div>
 

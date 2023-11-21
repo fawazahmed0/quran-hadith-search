@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':When 'Abdullah bin 'Umar set out for Mecca intending to perform U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] bahwa ['Abdullah bin 'Umar radliallahu 'anhu] ketika berangkat menuju Makkah untuk menunaikan 'umrah pada zaman timbulnya fitnah (kekacauan) dia berkata: "Jika aku dihalangi dari (ber'ibadah) di Baitullah, maka aku akan melaksanakan 'ibadah 'umrah ini sebagaimana kami pernah melaksanakannya bersama Rasulullah shallallahu 'alaihi wasallam". Maka dia berihram untuk 'umrahnya dengan mencontoh Rasulullah shallallahu 'alaihi wasallam yang pernah berihram untuk 'umrah pada tahun perjanjian Hudaibiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1806</td></tr><tr><td>Arabic No</td><td>1806</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Нафи‘а, что, когда ‘Абдуллах ибн ‘Умар отправился в Мекку, намереваясь совершить ‘умру, во время смуты, он сказал: «Если мне помешают достичь Каабы, то я поступлю так же, как мы поступили вместе с посланником Аллаха ﷺ». Он произнёс тальбию для ‘умры, потому что Посланник Аллаха ﷺ произнёс так же тальбию для ‘умры в год Худайбии»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1806</td></tr><tr><td>Arabic No</td><td>1806</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
 

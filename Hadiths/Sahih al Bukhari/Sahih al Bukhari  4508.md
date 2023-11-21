@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':When the order of compulsory fasting of Ramadan was revealed, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah] dari [Israil] dari [Abu Ishaq] dari [Al Barra] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ahmad bin Utsman] Telah menceritakan kepada kami [Syuraih bin Maslamah] dia berkata; Telah menceritakan kepadaku [Ibrahim bin Yusuf] dari [Bapaknya] dari [Abu Ishaq] dia berkata; Aku mendengar [Al Barra radliallahu 'anhu], -tatkala diperintahkan puasa Ramadlan, orang-orang tidak mau mendekati para wanita sepanjang bulan Ramadlah tersebut. Dan ada beberapa orang yang mengkhianati dirinya sendiri. Maka Allah menurunkan ayat; "Allah mengetahui bahwa kalian tidak dapat menahan diri kalian sendiri. Maka Dia menerima taubat kalian dan memaafkan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4508</td></tr><tr><td>Arabic No</td><td>4508</td></tr><tr><td>Reference</td><td>Book 65 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «После того, как был ниспослан приказ о посте в месяц рамадан, люди не вступали в половую близость со своими женами в течение всего месяца рамадан, но некоторые мужчины обманывали себя (вступая в близость). Тогда Аллах ниспослал: “Узнал Аллах, что вы обманываете самих себя и поэтому Он принял ваши покаяния и простил вас” (сура “аль-Бакара”, аят 187)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4508</td></tr><tr><td>Arabic No</td><td>4508</td></tr><tr><td>Reference</td><td>Book 65 Hadith 35</td></tr></tbody></table></div>
 

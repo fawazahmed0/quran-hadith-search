@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Al-Harith:(The brother of the wife of Allah's Messenger (ﷺ).
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Al Harits] telah bercerita kepada kami [Yahya bin Abi Bukair] telah bercerita kepada kami [Zuhair bin Mu'awiah Al Ju'fiy] telah bercerita kepada kami [Abu Ishaq] dari ['Amru bin Al Harits], saudara ipar Rasulullah shallallahu 'alaihi wasallam, yaitu saudara dari Juwairiyah binti Al harits berkata; Ketika meninggal dunia Rasulullah shallallahu 'alaihi wasallam tidak meninggalkan dirham, dinar, budak laki-laki maupun perempuan dan tidak meninggalkan sesuatupun kecuali baghol (hewan peranakan kuda dengan keledai) Beliau yang berwarna putih, senjata perang dan tanah yang Beliau jadikan sebagai shadaqah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2739</td></tr><tr><td>Arabic No</td><td>2739</td></tr><tr><td>Reference</td><td>Book 55 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн аль-Харис, да будет доволен им Аллах, брат жены Посланника Аллаха ﷺ Джувайрийи бинт аль-Харис, сказал: «После кончины Посланника Аллаха ﷺ (выяснилось, что) он не оставил после себя ни динара, ни дирхема, ни раба, ни невольницы, и ничего иного, кроме белой мулицы, на которой он ездил, своего оружия и той земли(, доходы с которой он велел раздавать в качестве) милостыни для путников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2739</td></tr><tr><td>Arabic No</td><td>2739</td></tr><tr><td>Reference</td><td>Book 55 Hadith 2</td></tr></tbody></table></div>
 

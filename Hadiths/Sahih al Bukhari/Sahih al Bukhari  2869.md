@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) arranged for a horse race of the horses whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Yunus] telah bercerita kepada kami [Al Laits] dari [Nafi'] dari ['Abdullah radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam berlomba pacuan kuda dengan kuda yang tidak disiapkan sebagai kuda pacuan yang jaraknya antara Tsaniyatul Wada' sampai ke masjid Bani Zurai'. Dan 'Abdullah bin 'Umar radliallahu 'anhuma termasuk orang yang ikut dalam pacuan tersebut. Abu 'Abdullah Al Bukhariy berkata: "amadan artinya ghooyatan (batas akhir) ", seperti firman Allah QS al-Hadid ayat 16 yang artinya: ("Maka berlalulah masa yang panjang atas mereka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2869</td></tr><tr><td>Arabic No</td><td>2869</td></tr><tr><td>Reference</td><td>Book 56 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха, да будет доволен им Аллах, что Посланник Аллаха ﷺ устраивал скачки на молодых скакунах от местечка Санийят аль-Вада‘ до мечети Бану Зурейк. И ‘Абдуллах ибн ‘Умар был одним их тех, кто принимал участие в этих скачках
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2869</td></tr><tr><td>Arabic No</td><td>2869</td></tr><tr><td>Reference</td><td>Book 56 Hadith 85</td></tr></tbody></table></div>
 

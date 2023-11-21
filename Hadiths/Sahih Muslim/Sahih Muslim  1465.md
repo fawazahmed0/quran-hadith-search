@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:The Messenger of Allah (ﷺ) said to me: How would you act wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalaf bin hisyam] telah menceritakan kepada kami [Hammad bin Zaid] katanya (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Abu Rabi' Az Zahrani] dan [Abu Kamil Al Jahdari], keduanya berkata; telah menceritakan kepada kami [Hammad] dari [Abu Imran Al Jauni] dari [Abdullah bin Shamit] dari [Abu Dzar], katanya; Rasulullah shallallahu 'alaihi wasallam bertanya kepadaku; "Bagaimana pendapatmu jika engkau dipimpin oleh para penguasa yang mengakhirkan shalat dari waktunya, atau meninggalkan shalat dari waktunya?" Abu Dzar berkata; aku menjawab; "Lantas apa yang anda perintahkan kepadaku?" Beliau bersabda; "Lakukanlah shalat tepat pada waktunya, jika kamu mendapati bersama mereka, maka lakukanlah lagi, sebab hal itu dihitung pahala shalat sunnah bagimu." Dan Abu Hurairah tidak menyebutkan kalimat "Tertinggal dari waktunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1465</td></tr><tr><td>Arabic No</td><td>648.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 298</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ спросил меня: “Как ты поступишь, если люди, которым ты будешь подвластен, станут откладывать молитву (или: умерщвлять молитву), (совершая) её позже (начала установленного периода) вре­мени?” Я спросил: “А что ты велишь мне?” Он сказал: “Совершай (каждую обязательную) молитву в (лучшее для неё) время, а если тебе при­дётся (совершать) её вместе с ними, молись, и (эта молитва зачтётся тебе как) дополнительная”».Халяф не упомянул (фразы) «(начала установленного периода) вре­мени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1465</td></tr><tr><td>Arabic No</td><td>648.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 298</td></tr></tbody></table></div>
 

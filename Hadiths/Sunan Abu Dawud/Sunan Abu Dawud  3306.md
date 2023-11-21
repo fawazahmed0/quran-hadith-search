@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The tradition mentioned above (No.3299) has also been transmitted by Umar ibn Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Habib Al Mu'allim] dari ['Atha' bin Abu Rabah] dari [Jabir bin Abdullah] bahwa seseorang berdiri pada saat penaklukan Mekkah, kemudian berkata; wahai Rasulullah, sesungguhnya saya telah bernadzar untuk Allah, seandainya Allah menaklukkan Mekkah melalui anda maka saya akan melakukan shalat di Baitul Maqdis sebanyak dua raka'at. Beliau bersabda: "Shalatlah di sini!" Kemudian ia mengulang perkataannya kepada beliau. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Shalatlah di sini!" Kemudian ia mengulang perkataan kepada beliau. Maka beliau berkata: "Terserah engkau, jika demikian." Abu Daud berkata; telah diriwayatkan seperti itu dari [Abdurrahman bin 'Auf] dari Nabi shallallahu 'alaihi wasallam. telah menceritakan kepada kami [Makhlad bin Khalid] telah menceritakan kepada kami [Abu 'Ashim]. Dan telah menceritakan kepada kami [Abbas Al 'Anbary] secara makna, telah menceritakan kepada kami [Rauh] dari [Ibnu Juraij] telah mengabarkan kepadaku [Yusuf bin Al Hakam bin Abu Sufyan] bahwasanya dia telah mendengar [Hafash bin Umar bin Abdurrahman bin Auf] dan [Amru], dan berkata Abbas bin Hannah, keduanya telah mengabarkan kepadanya dari [Umar bin Abdurrahman bin 'Auf] dari [seseorang dari sahabat Nabi shallallahu 'alaihi wasallam] dengan hadits ini. Ia menambahkan; kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang telah mengutus Muhammad dengan kebenaran. Seandainya engkau melakukan shalat di sini niscaya hal tersebut mencukupkan bagimu shalat dari melakukan shalat di Baitul Maqdis." Abu Daud berkata; hadits tersebut diriwayatkan oleh [Al Anshari] dari [Ibnu Juraij], [Ja'far bin Umar] berkata; dan ['Amr bin Hayyah] berkata; dan ia telah mengatakan; mereka berdua mengabarkan kepadanya dari [Abdurrahman bin 'Auf] dan dari [seseorang dari sahabat Nabi shallallahu 'alaihi wasallam]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3306</td></tr><tr><td>Arabic No</td><td>3306</td></tr><tr><td>Reference</td><td>Book 22 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Маймуны бинт Кардам, да будет доволен ею Аллах: «Я отправилась со своим отцом в хадж вместе с посланником Аллаха ﷺ и я увидела Посланника Аллаха ﷺ и услышала, как люди говорят: “Посланник Аллаха!” Я стала смотреть на него. Мой отец приблизился к нему. Он сидел на верблюдице, и у него была палочка, подобная палочке писцов, и я слышала, как от бедуинов и других людей исходил звук: “Топ-топ, топ-топ”. Мой отец приблизился к нему и взялся за его ступню. Посланник Аллаха ﷺ обратил на него внимание и остановился, чтобы выслушать его. Он сказал: “Я дал обет, если у меня родится сын, зарезать несколько (или: пятьдесят) овец в Буване в одном из ущелий”. Посланник Аллаха ﷺ спросил: “Есть ли там идолы?” Он ответил: “Нет”. (Посланник Аллаха ﷺ) сказал: “Тогда выполни то, что ты обещал Аллаху”. И он собрал овец и стал резать их, но одна убежала, и тогда пошёл за ней, сказав: “О Аллах, помоги мне выполнить мой обет!” И он действительно поймал её и зарезал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3306</td></tr><tr><td>Arabic No</td><td>3306</td></tr><tr><td>Reference</td><td>Book 22 Hadith 65</td></tr></tbody></table></div>
 

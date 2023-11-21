@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: It is enough falsehood for a man t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] berkata, telah menceritakan kepada kami [Syu'bah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al Husain] berkata, telah menceritakan kepada kami [Ali bin Hafsh] ia berkata; telah menceritakan kepada kami [Syu'bah] dari [Khubaib bin 'Abdurrahman] dari [Hafsh bin Ashim] -Husain berkata dalam haditsnya- dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Cukuplah seseorang mendapatkan dosa, jika menceritakan setiap apa saja yang ia dengar." Abu Dawud berkata, "Hafsh tidak menyebutkan nama Abu Hurairah." Abu Dawud berkata, "Dan ia juga tidak menyandarkannya kecuali kepada Syaikh ini, yaitu Ali bin Hafsh Al Mada'ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4992</td></tr><tr><td>Arabic No</td><td>4992</td></tr><tr><td>Reference</td><td>Book 43 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры (да будет доволен им Аллах), что Пророк ﷺ сказал: «Достаточно для человека греха, если он рассказывает обо всём, что он услышал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4992</td></tr><tr><td>Arabic No</td><td>4992</td></tr><tr><td>Reference</td><td>Book 43 Hadith 220</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Seereen:I heard Anas saying, "A man from Ansar said to the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Anas bin Sirin] berkata, aku mendengar [Anas bin Malik] berkata, "Seorang laki-laki Anshar berkata, "Aku tidak dapat shalat bersama Tuan." Lelaki tersebut seorang yang besar badannya. Dia menyiapkan makanan untuk Nabi shallallahu 'alaihi wasallam, lalu dia mengundang beliau datang ke rumahnya, kemudian dia menghamparkan tikar dan memercikinya dengan air untuk beliau gunakan shalat. Setelah itu beliau shalat dua rakaat di atas tikar tersebut." Seorang lelaki dari keluarga Al Jarud berkata kepada Anas bin Malik, "Apakah Nabi shallallahu 'alaihi wasallam tadi melaksanakan shalat Dluha?" Anas bin Malik menjawab, "Aku belum pernah melihat beliau mengerjakannya kecuali pada hari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>670</td></tr><tr><td>Arabic No</td><td>670</td></tr><tr><td>Reference</td><td>Book 10 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Сирин сказал:\n— Я слышал, как Анас (ибн Малик) говорил: «(Как-то раз) один чрезвычайно тучный человек из числа ансаров сказал (Пророку ﷺ ): “Поистине, я не могу совершать намаз с тобой”. А он приготовил для Пророка ﷺ еду и пригласил его к себе домой, где расстелил для него циновку, обрызгав край её водой, и (Пророк ﷺ) совершил на этой циновке намаз в два рак‘ата».\nОдин человек из рода аль-джаруд спросил Анаса: «А совершал ли Пророк ﷺ дополнительные намазы по утрам?» Он ответил: «Если не считать того дня, я не видел, чтобы он молился в это время»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>670</td></tr><tr><td>Arabic No</td><td>670</td></tr><tr><td>Reference</td><td>Book 10 Hadith 64</td></tr></tbody></table></div>
 

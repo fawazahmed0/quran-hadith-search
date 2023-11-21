@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurayrah: The Prophet (ﷺ) said: There is no prophet between me an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hudbah bin Khalid] berkata, telah menceritakan kepada kami [Hammam bin Yahya] dari [Qatadah] dari ['Abdurrahman bin Adam] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada Nabi antara aku dan dia -maksudnya Isa-. Sungguh, kelak ia akan turun, jika kalian melihatnya maka kenalilah. Ia adalah seorang laki-laki yang sedang (tidak tinggi ataupun pendek), berkulit merah keputih-putihan, mengenakan kain berwarna kekuningan. Seakan rambut kepala menetes meski tidak basah. Ia akan memerangi manusia hingga mereka masuk ke dalam Islam, ia memecahkan salib, membunuh babi dan membebaskan jizyah (pajak). Pada masanya Allah akan membinasakan semua agama selain Islam, Isa akan membunuh Dajjal, dan akan tinggal di dunia selama empat puluh tahun. Setelah itu ia meninggal dan kaum muslimin menshalatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4324</td></tr><tr><td>Arabic No</td><td>4324</td></tr><tr><td>Reference</td><td>Book 39 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Между мной и ‘Исой не было пророков. Поистине, он спустится, и когда вы увидите его, вы узнаете его: мужчина среднего роста, светлокожий, на нём будут две окрашенные шафраном одежды, и с головы его будут сбегать капли, хотя на самом деле она не будет мокрой. Он будет сражаться с людьми ради ислама, ломать кресты (символизирующие якобы имевшее место распятие ‘Исы (мир ему)), убивать свиней (то есть запретит приобретать и держать их и разрешит убивать их) и отменит джизью. И в период его пребывания на земле Аллах уничтожит все верования, кроме ислама. И он убьёт Даджжаля. Он пробудет на земле сорок лет, после чего умрёт, и мусульмане совершат по нему молитву-джаназа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4324</td></tr><tr><td>Arabic No</td><td>4324</td></tr><tr><td>Reference</td><td>Book 39 Hadith 34</td></tr></tbody></table></div>
 

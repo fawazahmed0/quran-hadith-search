@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:"The Prophet (ﷺ) said, 'The best alms is that which is gi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepada kami [Abu Shalih] ia berkata; Telah menceritakan kepadaku [Abu Hurairah] radliallahu 'anhu, ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sedekah yang paling utama adalah sedekah yang meninggalkan pelakunya dalam kecukupan. Tangan yang di atas adalah lebih baik daripada tangan yang dibawah. Dan mulailah dari orang yang menjadi tanggunganmu." Sebab, seorang isteri akan berkata, "Terserah, kamu memberiku makan, atau kamu menceraikanku." Dan seorang budak juga berkata, "Berilah aku makan dan silahkan engkau menyuruhku bekerja." Kemudian seorang anak juga akan berkata, "Berilah aku makan, kepada siapa lagi engkau meninggalkanku?." Mereka bertanya, "Wahai Abu Hurairah, apakah kamu mendengar hal ini dari Rasulullah shallallahu 'alaihi wasallam?" ia menjawab, "Tidak. Hal ini adalah dari Abu Hurairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5355</td></tr><tr><td>Arabic No</td><td>5355</td></tr><tr><td>Reference</td><td>Book 69 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Наилучшей милостыней является та, после (пожертвования) которой (у владельца) остается достаток. Высшая рука (дающая) лучше руки низшей (берущей), и начинай расходовать с тех, кого ты (обязан) содержать».\n(Абу Хурайра) сказал: «(Это когда) жена говорит: “Либо корми меня, либо разведись со мной”, а раб говорит: “Корми меня и пользуйся моими услугами”, и сын говорит: “Корми меня, на кого же ты меня оставляешь?!”». (Люди) спросили: «О Абу Хурайра, это ты слышал (эти последние слова) от Посланника Аллаха ﷺ?» Он ответил: «Нет, это уже от Абу Хурайры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5355</td></tr><tr><td>Arabic No</td><td>5355</td></tr><tr><td>Reference</td><td>Book 69 Hadith 5</td></tr></tbody></table></div>
 

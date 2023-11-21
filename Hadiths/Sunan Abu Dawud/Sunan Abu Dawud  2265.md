@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Amr b. Shu'aib on his father's authority said that his grandfather reported:The 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh], telah menceritakan kepada kami [Muhammad bin Rasyid], dan telah diriwayatkan dari jalan yang jalur yang lain: Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Yazid bin Harun], telah mengabarkan kepada kami Muhammad bin Rasyid ia adalah Asyba', dari [Sulaiman bin Musa] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya], ia berkata; sesungguhnya Nabi shallallahu 'alaihi wasallam telah menetapkan bahwa setiap anak yang diklaim setelah kematian bapaknya yang diklaim oleh ahli warisnya maka beliau menetapkan bahwa setiap anak yang berasal dari seorang budak wanita yang ia miliki pada saat ia menggaulinya maka ia diikutkan bersama orang yang mengklaimnya, dan sebelum diikutkan bersama orang yang mengklaimnya ia tidak memiliki sedikitpun warisan yang telah dibagikan, dan warisan yang belum dibagikan maka ia mendapatkan bagian, dan ia tidak ikut bergabung (dengan ahli warisnya) apabila ayahnya yang kepadanya ia dinisbatkan mengingkarinya, dan apabila ia berasal dari seorang budak wanita yang tidak ia miliki atau dari wanita merdeka yang berzina dengannya maka anak tersebut tidak bergabung (dengan ahli warits), dan tidak mewarisi. Walaupun orang tersebut mengklaimnya namun anak tersebut merupakan hasil perzinahan dengan wanita merdeka atu seorang budak. Telah menceritakan kepada kami [Mahmud bin Khalid], telah menceritakan kepada kami [Ayahku] dari [Muhammad bin Rasyid] dengan sanad serta maknanya, dan ia menambahkan; dan ia adalah anak hasil perzinahan, ia untuk keluarga ibunya siapapun mereka, baik wanita merdeka atau budak wanita, dan hal tersebut mengenai anak yang diklaim pada awal Islam, maka harta yang dibagi sebelum Islam hal tersebut telah berlalu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2265</td></tr><tr><td>Arabic No</td><td>2265</td></tr><tr><td>Reference</td><td>Book 13 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, как Пророк ﷺ вынес решение о ребёнке невольницы, наследники владельца которой объявили после его смерти о том, что это его ребёнок. Он постановил, что ребёнок, рождённый от невольницы, считается сыном мужчины, если невольница принадлежала ему, когда он вступал с ней в половые отношения, и если он признавал его своим. Однако он (т.е. ребенок) не имеет права получить что-либо из наследства, разделённого до того, как наследники объявили, что он был ребёнком покойного. Если же он застал наследство или часть его неразделёнными, он получает свою долю. Если же владелец невольницы при жизни объявил, что этот ребёнок не от него, он не считается его сыном. И если он рождён от невольницы, которая не принадлежала этому человеку, или от свободной, с которой он совершил прелюбодеяние, ребёнок не считается его сыном и ему не наследует, даже если сам человек признаёт, что это его ребёнок. В этом случае ребёнок считается незаконнорождённым, то есть рождённым от прелюбодеяния, вне зависимости от того, кем была его мать свободной или невольницей
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2265</td></tr><tr><td>Arabic No</td><td>2265</td></tr><tr><td>Reference</td><td>Book 13 Hadith 91</td></tr></tbody></table></div>
 

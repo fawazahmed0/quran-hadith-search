@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said that he saw a striped garment over Umm Kulthum, daughter of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Utsman] dan [Katsir bin Ubaid] -keduanya dari Himsha, mereka berkata; telah menceritakan kepada kami [Baqiyyah] dari [Az Zubaidiy] dari [Az Zuhri] dari [Anas bin Malik] Bahwasanya ia menceritakan kepadanya, bahwa ia pernah melihat Ummu Kultsum binti Rasulullah shallallahu 'alaihi wasallam mengenakan belerudu dari sutera. Anas berkata, "Siyara adalah sulaman sutera yang melintang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4058</td></tr><tr><td>Arabic No</td><td>4058</td></tr><tr><td>Reference</td><td>Book 34 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах, что он видел на Умм Кульсум, дочери Посланника Аллаха ﷺ плащ с полосками шёлка
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4058</td></tr><tr><td>Arabic No</td><td>4058</td></tr><tr><td>Reference</td><td>Book 34 Hadith 39</td></tr></tbody></table></div>
 

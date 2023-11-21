@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The people started asking the Prophet (ﷺ) too many questions imp
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadhalah] telah menceritakan kepada kami [Hisyam] dari [Qotadah] dari [Anas] radliallahu 'anhu mengatakan, para sahabat banyak bertanya kepada Nabi shallallahu 'alaihi wasallam sehingga mereka setengah memaksa dengan pertanyaan-pertanyaan. Maka Nabi shallallahu 'alaihi wasallam suatu hari naik ke mimbar dan bersabda: "Tidaklah kalian bertanya kepadaku mengenai sesuatu, selain kujelaskan kepada kalian, " lantas aku melihat ke kanan-kiri, tak tahunya setiap orang membungkus kepalanya di pakaiannya sambil menangis, muncullah seseorang yang jika berdebat dia dipanggil dengan nasab selain ayahnya, orang itu berujar; 'Wahai Nabiyullah siapakah ayahku? ' Nabi menjawab: "ayahmu adalah Hudzafah." Kontan Umar bergegas mengucapkan; 'RADHIINA BILLAHI RABBAN WABIL ISLAAMI DIINAN WABI MUHAMMADIN RASUULAN NA'UUDZU BILLAH MIN SUUIL FITANI (Kami ridha Allah sebagai rabb, Islam sebagai agama, dan Muhammad sebagai utusan, kami berlindung kepada Allah dari keburukan fitnah), " Nabi shallallahu 'alaihi wasallam bersabda; "Sama sekali belum pernah kulihat keburukan dan kebaikan seperti hari ini, sebab hari ini surga dan neraka digambarkan kepadaku sehingga aku melihat kedua-duanya dibalik dinding ini." Dan Qatadah selalu menyebutkan hadits ini berkaitan dengan ayat: 'Wahai orang-orang yang beriman, janganlah kalian bertanya tentang sesuatu yang sekiranya diungkapkan kepada kalian, justru malah menyusahkan kalian (QS. Almaidah; 101). [Abbas An Narsi] mengatakan, Telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] telah menceritakan kepada kami [Qotadah], bahwasanya [Anas] menceritakan kepada mereka; bahwa Nabiyullah Shallallahu'alaihiwasallam besabda masalah ini dengan redaksi: Setiap orang membungkus kepalanya dalam bajunya sambil menangis, dan ia mengatakan dengan redaksi: 'aaidzan billah min suu'il fitan (aku berlindung kepada Allah dari keburukan fitnah) atau ia mengatakan; 'a'uudzu billah min sau'atil fitan (Saya berlindung kepada Allah dari keburukan-keburukan fitnah). Sedang [Khalifah] mengatakan kepadaku Telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dan [Mu'tamir] dari [ayahnya] dari [Qotadah], bahwasanya [Anas] menceritakan kepada mereka, dari Nabi shallallahu 'alaihi wasallam dengan Hadits ini dan dia mengatakan dengan redaksi; 'aaidzan billah min syarril fitan (berlindung kepada Allah dari keburukan fitnah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7089</td></tr><tr><td>Arabic No</td><td>7089</td></tr><tr><td>Reference</td><td>Book 92 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик), да будет доволен им Аллах, сказал: «(Однажды люди) начали задавать Пророку ﷺ слишком много вопросов, и в один из дней Пророк ﷺ поднялся на минбар и сказал: “О чём бы вы ни спросили меня, я непременно отвечу вам”. Тогда я стал смотреть направо и налево, и каждый человек покрыл себе голову одеждой и принялся плакать. Тут начал говорить некий человек, который если спорил с кем-либо, (то те люди) относили его не к его отцу, и он спросил: “О пророк Аллаха, кто мой отец?” Он ответил: “Твой отец — Хузафа”. Затем начал говорить ‘Умар: “Мы довольны Аллахом как Господом, Исламом — как религией и Мухаммадом — как посланником! Мы прибегаем к Аллаху за защитой от зла смут!” И Пророк ﷺ сказал: “Я никогда не видел ничего более прекрасного и ничего более отвратительного, чем в этот день. Мне были показаны Рай и Ад так, что я увидел их без преграды”».\nКатада (ибн Ди‘ама) рассказывал этот хадис при упоминание этого аята: «Не спрашивайте о вещах, которые огорчат вас, если станут вам известны» (сура «аль-Маида», 101 аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7089</td></tr><tr><td>Arabic No</td><td>7089</td></tr><tr><td>Reference</td><td>Book 92 Hadith 40</td></tr></tbody></table></div>
 

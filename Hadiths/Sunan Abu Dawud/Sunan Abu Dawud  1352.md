@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Sa'd ibn Hisham said: I came to Medina and calle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1352</td></tr><tr><td>Arabic No</td><td>1352</td></tr><tr><td>Reference</td><td>Book 5 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Са‘да ибн Хишама: «Я прибыл в Медину и зашёл к ‘Аише и попросил её: “Расскажи мне о молитве Посланника Аллаха ﷺ”. Она сказала: “Посланник Аллаха ﷺ совершал вместе с людьми вечернюю молитву /‘иша/, после чего ложился спать. Среди ночи он вставал, справлял нужду и совершал малое омовение, после чего вставал на место, на котором обычно молился, и совершал там восемь рак‘атов. При этом мне казалось, что он делал их одинаковыми в том, что касалось чтения и поясных и земных поклонов. Завершал он молитву одним рак‘атом, после чего совершал два рак‘ата сидя, после чего ложился на бок. Бывало, что Биляль приходил и звал его на молитву, а потом он засыпал, и иногда я сомневалась, заснул он или нет. А потом раздавался призыв на молитву. Так он совершал молитву до тех пор, пока не постарел и не отяжелел” и она упомянула о том, как он отяжелел, то, что пожелал Аллах». И он привёл хадис
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1352</td></tr><tr><td>Arabic No</td><td>1352</td></tr><tr><td>Reference</td><td>Book 5 Hadith 103</td></tr></tbody></table></div>
 

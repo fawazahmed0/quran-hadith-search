@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Some of the companions of the Prophet (ﷺ) came ac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] dari [Abu Al Mutawakkil] dari [Abu Sa'id Al Khudri] radliallahu 'anhu bahwa beberapa orang sahabat Nabi shallallahu 'alaihi wasallam mengadakan suatu perjalanan, ketika mereka melewati salah satu perkampungan dari perkampungan Arab, orang-orang kampung tersebut tidak menerima mereka, ketika sikap mereka masih seperti itu seorang pemimpin mereka terkena sengatan kalajengking, lalu mereka pun berkata; "Apakah diantara kalian ada yang mempunyai obat, atau seorang yang bisa meruqyah?" lalu para sahabat Nabi pun berkata; "Sesungguhnya kalian tidak mau menerima kami, maka kamipun tidak akan melakukannya sehingga kalian memberikan imbalan kepada kami, " akhirnya mereka pun berjanji akan memberikan beberapa ekor kambing."Lalu seorang sahabat Nabi membaca Ummul Qur'an dan mengumpulkan ludahnya seraya meludahkan kepadanya hingga laki-laki itu sembuh, kemudian orang-orang kampung itu memberikan kepada para sahabat Nabi beberapa ekor kambing." Namun para sahabat Nabi berkata; "Kita tidak akan mengambilnya hingga kita bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang hal ini, " lalu mereka bertanya kepada Nabi shallallahu 'alaihi wasallam tentang pemberian itu hingga membuat beliau tertawa. Beliau bersabda: "Tidak tahukah bahwa itu ruqyah, ambillah pemberian tersebut dan berilah bagiannya untukku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5736</td></tr><tr><td>Arabic No</td><td>5736</td></tr><tr><td>Reference</td><td>Book 76 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что однажды группа сподвижников Пророка ﷺ (отправилась в путешествие и) остановилась на стоянке одного из (племён) бедуинов. Однако те не оказали им гостеприимства. И пока они находились там, вождь этого племени был ужален. Люди (из этого племени) сказали: «Есть ли у вас противоядие или тот, кто читает рукъю?» Сподвижники ответили: «Вы не оказали нам гостеприимства, поэтому мы не будем ничего делать пока вы не назначите нам вознаграждение». Тогда они назначили им вознаграждение — небольшое стадо овец, и один из них стал читать «мать Писания» (аль-Фатиха), поплёвывая, и тот исцелился. Им привели овец, но они сказали: «Мы не возьмём их пока не спросим Пророка ﷺ». После того как они спросили его, он засмеялся и сказал: «Откуда ты узнал, что она (аль-Фатиха) (может служить в качестве) заговора? Возьмите (овец) и выделите одну долю мне»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5736</td></tr><tr><td>Arabic No</td><td>5736</td></tr><tr><td>Reference</td><td>Book 76 Hadith 51</td></tr></tbody></table></div>
 

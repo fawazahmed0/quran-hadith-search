@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "When anyone of you d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seorang dari kalian meninggal dunia maka akan ditampakkan kepadanya tempat duduk (tinggal) nya setiap pagi dan petang hari. Jika dia termasuk penduduk surga, maka akan (melihat kedudukannya) sebagai penduduk surga dan jika dia termasuk penduduk neraka, maka akan (melihat kedudukannya) sebagai penduduk neraka lalu dikatakan kepadanya inilah tempat duduk tinggalmu hingga nanti Allah membangkitkanmu pada hari qiyamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1379</td></tr><tr><td>Arabic No</td><td>1379</td></tr><tr><td>Reference</td><td>Book 23 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Поистине, каждому из вас после смерти будут показывать место его по утрам и вечерам, и если будет (человек) из числа обитателей рая, то (ему будут показывать его место) среди обитателей рая, если же будет он (одним) из обитателей огня, то (ему будут показывать его место) среди обитателей огня, и ему скажут: “Это будет твоим местом до тех пор, пока Аллах не воскресит тебя в День воскресения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1379</td></tr><tr><td>Arabic No</td><td>1379</td></tr><tr><td>Reference</td><td>Book 23 Hadith 131</td></tr></tbody></table></div>
 

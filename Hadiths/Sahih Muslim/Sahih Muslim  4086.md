@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Nadra a dit : J'ai interrogé Ibn 'Abbâs sur le troc de l'or contre l'or, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru An Naqid] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Sa'id Al Jurairai] dari [Abu Nadlrah] dia berkata, "Saya pernah bertanya kepada [Ibnu Abbas] mengenai jual beli (barang yang sejenis-pent), lalu dia balik bertanya, "Apakah dilakukan dengan cara cash/tunai?" Jawabku, "Ya." Dia berkata, "Tidak mengapa, jika dilakukan seperti ini." Lalu saya memberitahukan hal ini kepada [Abu Sa'id], saya katakan kepadanya, "Saya telah menanyakan perihal jual beli kepada Ibnu Abbas, dan dia balik bertanya, "Apa dilakukan dengan cara cash?" saya menjawab, "Ya, " lantas Ibnu Abbas berkata, "Tidak mengapa, jika dilakukan seperti ini." Abu Sa'id berkata, "Benarkah dia mengatakan demikian? Sungguh kami akan menulis surat kepadanya hingga dia tidak menfatwakan demikian kepada kalian." Abu Sa'id melanjutkan, "Demi Allah, telah datang beberapa pemuda kepada Rasulullah shallallahu 'alaihi wasallam dengan membawa kurma, dan beliau mencurigainya seraya berkata: "Sepertinya kurma ini bukan dari hasil tanaman kita?" dia menjawab, "Kami biasa mengambil kurma kita dan menambahkan sedikit takaran kemudian kami menukarnya dengan kurma seperti ini." Beliau bersabda: "Kamu telah melipat-gandakan dan kamu telah menambahkan takaran, jangan sekali-kali kamu mendekati perbuatan seperti ini. Apabila kamu mendapati satu keraguan pada kurmamu, maka jualah kurma tersebut, kemudian (dari uang hasil penjualan kurma itu) belilah kurma yang kamu inginkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4086</td></tr><tr><td>Arabic No</td><td>1594.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4086</td></tr><tr><td>Arabic No</td><td>1594.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 125</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) I had seen my parents following Islam 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwa ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam berkata, "Aku belum mengerti kedua orang tuaku kecuali saat keduanya telah memeluk agama ini. Dan tidak berlalu suatu haripun dalam kehidupan kami kecuali Rasulullah shallallahu 'alaihi wasallam datang menemui kami di penghujung hari, baik pada saat paginya maupun sore. Aku ingat saat nampak keIslaman Abu Bakar, ketika dia di masjid dan shalat di sana dengan membaca Al Qur'an. Maka wanita-wanita dan anak-anak Musyrik memperhatikan dia dengan penuh keheranan. Sementara Abu Bakar adalah seseorang yang sangat mudah menangis, yang tidak bisa menguasai air matanya apabila dia membaca Al Qur'an. Dan kejadian itu telah menggemparkankan para pembesar Musyrikin Quraisy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>476</td></tr><tr><td>Arabic No</td><td>476</td></tr><tr><td>Reference</td><td>Book 8 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, сказала: «Сколько я помнила своих родителей, они всегда исповедовали эту религию, и не было такого дня, когда бы Посланник Аллаха ﷺ не заходил к нам утром и вечером. После этого Абу Бакру пришла в голову мысль (построить мечеть), и он построил её во дворе своего дома и стал молиться и читать Коран в этой (мечети), и жёны и дети многобожников собирались вокруг него, дивясь ему и разглядывая его. (А надо сказать, что) Абу Бакр часто плакал и не мог сдерживать слёз, когда читал Коран, и всё это устрашило знатных курайшитов из числа многобожников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>476</td></tr><tr><td>Arabic No</td><td>476</td></tr><tr><td>Reference</td><td>Book 8 Hadith 124</td></tr></tbody></table></div>
 

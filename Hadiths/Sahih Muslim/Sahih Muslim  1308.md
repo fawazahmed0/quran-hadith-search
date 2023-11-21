@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Zubair narrated on the authority of his father that when the Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Laits] dari [Ibn Ajalan] katanya -lewat jalur periwayatan lain-dan Telah menceritakan kepada kami [Abu bakar bin Abi Syaibah] dan lafadz padanya, katanya, Telah menceritakan kepada kami [Abu Khalid al-ahmar] dari [Ibn jlan] dari [Amir bin Abdullah bin Zubair] dari [ayahnya] katanya, Rasulullah shallallahu 'alaihi wasallam jika duduk berdoa, beliau letakkan tangan kanannya diatas paha kananya, dan tangan kirinya diatas paha kirinya, dan beliau memberi isyarat dengan jari telunjuknya dan beliau letakkan jempolnya pada jari tengahnya, sementara telapak kirinya menggenggam lututnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1308</td></tr><tr><td>Arabic No</td><td>579.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн аз-Зубайр сказал: «Когда Посланник Аллаха ﷺ садился (во время молитвы) для совершения ташаххуда, он возлагал правую ладонь на правое бедро, а левую на левое бедро, и он указывал (в сторону киблы) указательным пальцем (правой руки), соединив большой палец со средним, а левой рукой обхватывал колено»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1308</td></tr><tr><td>Arabic No</td><td>579.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 146</td></tr></tbody></table></div>
 

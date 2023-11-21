@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Verse:-- 'And warn your tribe of near kindred.' (26
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Musa] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepada kami [Amru bin Murrah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Ketika turunnya ayat: "WA ANDZIR 'ASYIIRATAKAL AQRABIIN WA RAHBATHAKA MINHUMUL MUKHLASHIIN." Rasulullah shallallahu 'alaihi wasallam keluar hingga naik ke atas bukit Shafa dan menyerukan: "Wahai sekalian manusia." Orang-orang Quraisy pun bertanya, "Siapakah orang ini?" akhirnya mereka pun berkumpul kepada beliau. Beliau bersabda: "Bagaimana pendapat kalian, jika aku mengabarkan bahwa di balik bukit ada pasukan berkuda akan segera keluar (menerkam), apakah kalain akan membenarkanku?" Mereka menjawab, "Ya, kami belum pernah mendengar bahwa kamu berdusta." Beliau kemudian bersabda: "Sesungguhnya aku adalah seorang pemberi peringatan bagi kalian bahwa di hadapanku ada adzab yang sangat pedih." Maka Abu Lahab pun berkata, "Celaka kamu wahai Muhammad. Apakah hanya lantaran ini kamu mengumpulkan kami?" Setelah itu, ia langsung beranjak, dan turunlah firman Allah, "TABBAT YADAA ABIY LAHABIW WATAB." Hari itu, Al A'masy membacanya: "WA QAD TABBAT (sungguh, ia memang telah celaka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4971</td></tr><tr><td>Arabic No</td><td>4971</td></tr><tr><td>Reference</td><td>Book 65 Hadith 493</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «После того, как был ниспослан аят “И увещевай своих ближайших родственников”, Посланник Аллаха ﷺ вышел, поднялся на (холм) ас-Сафа и принялся возглашать: “Йа сабаха-ху!” (фраза, которая говорится, когда предупреждают о приближении врагов). Люди спросили: “Кто это?” Затем они собрались вокруг него, и он сказал: “(Скажите,) если бы я сказал вам, что вражеская конница собралась за этой горой и вот-вот нападут на вас, вы бы поверили мне?” Они ответили: “Мы не слышали, чтобы ты лгал”. Тогда он сказал: “Поистине, я увещеватель, направленный к вам, чтобы предостеречь вас от сурового наказания!” (Услышав его слова,) Абу Ляхаб воскликнул: “Чтоб ты пропал! И ради этого ты нас собрал?!” После чего он ушёл, и было ниспослано: “Да пропадут пропадом руки Абу Лахаба, и сам он пропал!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4971</td></tr><tr><td>Arabic No</td><td>4971</td></tr><tr><td>Reference</td><td>Book 65 Hadith 493</td></tr></tbody></table></div>
 

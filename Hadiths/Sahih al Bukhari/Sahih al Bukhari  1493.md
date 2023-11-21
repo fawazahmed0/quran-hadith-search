@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:'Aisha intended to buy Barira (a slave-girl) in order to manum
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Al Hakam] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha] bahwa dia berkehendak membeli Barirah untuk dimerdekakan namun tuannya mengajukan syarat agar dia ('Aisyah radliallahu 'anha) menjad tuan dari sahaya yang dibebaskannya itu. Maka ('Aisyah radliallahu 'anha) menceritaklan hal itu kepada Nabi Shallallahu'alaihiwasallam, maka Nabi Shallallahu'alaihiwasallam berkata, kepadanya: "Belilah, dan wala' dari sahaya adalah siapa yang membebaskannya". ('Aisyah radliallahu 'anha) berkata,: Kepada Nabi Shallallahu'alaihiwasallam pernah diberikan sepotong daging lalu aku katakan bahwa daging ini dari zakat yang diterima Barirah. Maka Beliau Shallallahu'alaihiwasallam bersabda: "Baginya ini zakat tapi bagi kita ini hadiah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1493</td></tr><tr><td>Arabic No</td><td>1493</td></tr><tr><td>Reference</td><td>Book 24 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды ‘Аиша, да будет доволен ею Аллах, захотела выкупить Бариру, чтобы освободить её. Однако её владельцы решили сделать условием её продажи то, что её «уаля» (право наследовать освобожденного) останется за ними. ‘Аиша рассказала об этом Пророку ﷺ. Пророк ﷺ сказал ей: «Выкупи её, ведь, поистине, “уаля” принадлежит тому, кто освободил». ‘Аиша сказала: «Однажды Пророку ﷺ подали мясо, и я сказала ему: “Это (мясо) было дано в качестве милостыни Барире”. Он ответил: “Для неё это милостыня, а для нас подарок”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1493</td></tr><tr><td>Arabic No</td><td>1493</td></tr><tr><td>Reference</td><td>Book 24 Hadith 93</td></tr></tbody></table></div>
 

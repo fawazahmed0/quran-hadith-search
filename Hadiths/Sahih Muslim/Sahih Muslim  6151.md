@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : Alors qu'un juif étalait sa marchandi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Hujain bin Al Mutsanna]; Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah bin Abi Salamh] dari ['Abdullah bin Al Fadhl Al Hasyimi] dari ['Abdur Rahman Al A'raj] dari [Abu Hurairah] dia berkata; "Pada suatu ketika ada seorang Yahudi yang menawarkan barang dagangannya, tetapi ia mendapat penawaran yang tidak disepakatinya ('Abdul 'Aziz merasa ragu; atau ada yang tidak disukainya), hingga dia berkata; 'Demi Dzat yang telah mengutamakan Musa dari semua manusia, tidak boleh kalau penawarannya seperti itu.' Abu Hurairah berkata; 'Ternyata ucapan orang Yahudi itu didengar oleh seorang sahabat Anshar. Maka tanpa banyak komentar, ditamparnya muka orang Yahudi tersebut.' 'Mengapa kamu berani berkata, ' hujat sahabat Anshar itu. 'Demi Dzat yang telah mengutamakan Musa dari semua manusia, sementara Rasulullah shallallahu 'alaihi wasallam masih berada di antara kami? ' Abu Hurairah berkata; 'Akhirnya orang Yahudi itu datang menemui Rasulullah dan berkata; 'Wahai Abu Qasim, saya ini adalah orang kafir dzimmi yang dilindungi dan mempunyai hak, sebagaimana kaum muslimin lainnya. Ketahuilah bahwasanya si fulan telah menampar muka saya.' Lalu Rasulullah memanggil sahabat Anshar itu dan bertanya; 'Hai sahabat Anshar, mengapa kamu tampar muka orang Yahudi ini? ' Sahabat Anshar pun menjawab; 'Ya, Rasulullah, saya menampar muka orang Yahudi ini lantaran dia berkata; 'Demi Dzat yang telah mengutamakan Musa dari semua manusia.' Mendengar penjelasan sahabat Anshar itu, maka marahlah Rasulullah dan kemarahannya itu tampak raut muka hingga beliau bersabda: 'Janganlah kamu mengutamakan seorang nabi daripada nabi yang lain. Sesungguhnya, ketika sangkakala mulai ditiup, maka pada saat itu pula semua makhluk yang ada di langit dan di muka bumi akan mati, terlebih dahulu. Setelah itu, sangkakala pun ditiup kembali. Maka aku adalah orang yang pertama kali dibangkitkan atau: aku termasuk salah seorang makhluk Allah yang pertama kali dibangkitkan dan ternyata Musa telah tiba di 'Arsy. Sebenarnya saya juga tidak tahu apakah pingsannya Musa pada peristiwa Thur itu sudah dianggap sebagai kematiannya ataukah (Ibnu Abbas) dibangkitkan lebih dariku. Aku sendiri tidak berani mengatakan bahwa ada seorang manusia yang lebih utama dan mulia dari pada Yunus bin Matta Alaihis Salam. Dan telah menceritakannya kepadaku [Muhammad bin Hatim]; Telah menceritakan kepada kami [Yazid bin Harun]; Telah menceritakan kepada kami ['Abdul 'Aziz bin Abu Salamah] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6151</td></tr><tr><td>Arabic No</td><td>2373.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6151</td></tr><tr><td>Arabic No</td><td>2373.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 209</td></tr></tbody></table></div>
 

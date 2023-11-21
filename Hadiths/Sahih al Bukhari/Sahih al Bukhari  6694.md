@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah says, 'The vow, does not bri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az zanad] dari [Al A'raj] dari [Abu Hurairah] menuturkan; Nabi shallallahu 'alaihi wasallam bersabda: "Nadzar tidak akan menghantarkan anak adam kepada sesuatu yang tidak ditakdirkan baginya, namun nadzar menghantarkannya kepada takdir yang ditakdirkan baginya, Allah mengeluarkan nadzar dari orang bakhil, sehingga menghantarkannya kepada sesuatu yang belum ia dapatkan sebelumnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6694</td></tr><tr><td>Arabic No</td><td>6694</td></tr><tr><td>Reference</td><td>Book 83 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, обет не приносит сыну Адама того, что не было предопределено ему, и обет просто приносит ему то, что предопределено ему. Посредством обета как будто вытягивают нечто из скупого: он начинает давать то, чего не давал раньше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6694</td></tr><tr><td>Arabic No</td><td>6694</td></tr><tr><td>Reference</td><td>Book 83 Hadith 71</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:During the lifetime of Allah's Messenger (ﷺ) the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Shalih] telah menceritakan kepada kami [Bakr bin Mudlar] berkata, telah menceritakan kepadaku [Ja'far bin Rabi'ah] dari ['Irak bin Malik] dari ['Ubaidullah bin Abdullah bin 'Utbah bi Mas'ud] dari [Abdullah bin 'Abbas] radliallahu 'anhuma, bahwa bulan pernah terbelah pada zaman Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3870</td></tr><tr><td>Arabic No</td><td>3870</td></tr><tr><td>Reference</td><td>Book 63 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Аббас, да будет доволен ими обоими Аллах, сказал: «Поистине, во времена Посланника Аллаха ﷺ луна раскололась»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3870</td></tr><tr><td>Arabic No</td><td>3870</td></tr><tr><td>Reference</td><td>Book 63 Hadith 95</td></tr></tbody></table></div>
 

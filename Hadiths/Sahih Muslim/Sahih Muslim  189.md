@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira said:I heard the Prophet (may peace and blessings be upon him) sayin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdurrahman] telah mengabarkan kepada kami [Abu al-Yaman] dari [Syu'aib] dari [az-Zuhri] telah menceritakan kepada kami [Sa'id bin al-Musayyab] bahwa [Abu Hurairah] berkata, "Saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Telah datang penduduk Yaman, mereka adalah kaum yang paling lembut hatinya, dan paling lemah hatinya. Iman itu ada pada orang Yaman, hikmah pada orang Yaman dan ketenangan ada pada orang Yaman. Sedangkan kebanggaan dan kesombongan ada pada penggembala, kaum Badui, yaitu arah terbitnya matahari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>189</td></tr><tr><td>Arabic No</td><td>52.08</td></tr><tr><td>Reference</td><td>Book 1 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «Я слышал, какПророк ﷺ сказал: “Пришли (к вам) люди из Йемена, сердца которых являются более тонкими и мягкими, (чем сердца других людей). Вера в Йемене и мудрость в Йемене; спокойствием отличаются владельцы овец, а гордость и высокомерие присущи громко кричащим бедуинам, которые живут в палатках из шерсти, там, где восходит солнце”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>189</td></tr><tr><td>Arabic No</td><td>52.08</td></tr><tr><td>Reference</td><td>Book 1 Hadith 96</td></tr></tbody></table></div>
 

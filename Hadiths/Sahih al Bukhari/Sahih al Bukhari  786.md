@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mutarrif bin 'Abdullah:'Imran bin Husain and I offered the prayer behin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Hammad] dari [Ghailan bin Jarir] dari [Mutharrif bin 'Abdullah] berkata, "Aku dan 'Imran bin Hushain shalat di belakang 'Ali bin Abu Thalib? radliallahu 'anhu. Ali bertakbir ketika sujud, ketika mengangkat kepalanya, dan ketika bangkit dari dua rakaat (menuju rakaat tiga). Selesai ['Imran bin Hushain] memegang tanganku seraya berkata, "Sunguh dia telah mengingatkan aku tentang shalatnya Muhammad shallallahu 'alaihi wasallam." Atau dia berkata, "Sungguh dia telah shalat bersama kami dengan shalatnya Muhammad shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>786</td></tr><tr><td>Arabic No</td><td>786</td></tr><tr><td>Reference</td><td>Book 10 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Мутаррифа ибн ‘Абдуллаха, что он сказал: «Я молился позади ‘Али ибн Абу Талиба, да будет доволен им Аллах, вместе с ‘Имраном ибн Хусайном. И когда он совершал земной поклон, он говорил: “Аллаху акбар”, и когда поднимал голову — говорил: “Аллаху акбар”. И когда он поднимался с двух рак‘атов, так же говорил: “Аллаху акбар”. Когда он закончил молитву, ‘Имран ибн Хусайн взял меня за руку и сказал: “Он мне напомнил молитву Мухаммада ﷺ”. Или он сказал: “Он совершил с нами молитву Мухаммада ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>786</td></tr><tr><td>Arabic No</td><td>786</td></tr><tr><td>Reference</td><td>Book 10 Hadith 181</td></tr></tbody></table></div>
 

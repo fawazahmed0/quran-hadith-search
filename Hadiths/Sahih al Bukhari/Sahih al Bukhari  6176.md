@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the delegation of 'Abdul Qais came to the Prophet, he s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Imran bin Maisarah] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Abu At Tayyah] dari [Abu Jamrah] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Ketika utusan Abdul Qais datang kepada nabi shallallahu 'alaihi wasallam, lalu beliau bersabda: "Selamat datang wahai utusan yang datang dengan tanpa kehinaan dan penyesalan." Mereka berkata; "Wahai Rasulullah, sesungguhnya kami tinggal di perkampungan Rabi'ah, sedangkan antara kami dengan anda terdapat kabilah Mudlar, hingga kami tidak dapat menjumpai anda kecuali pada Bulan Haram, oleh karena itu perintahkanlah kepada kami suatu amalan yang ringkas yang dapat memasukkan kami ke dalam surga. dan dapat kami tinggalkan untuk orang-orang setelah kami." Maka beliau bersabda: "(Aku perintahkan) empat perkara dan (aku melarang dari) empat perkara, yaitu; tegakkanlah shalat, bayarlah zakat, berpuasalah pada bulan Ramadhan serta tunaikanlah kepadaku seperlima dari rampasan perang yang kalian dapatkan, dan janganlah kalian minum dari duba' (labu yang dilubangi dan dijadikan untuk merendam buah hingga menjadi khamr), hantam (bejana yang dibuat dari tanah, rambut dan darah), Naqir (bejana yang terbuat dari batang pohon yang dilubangi) dan Muzaffat (bejana yang dilapisi dengan ter atau aspal)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6176</td></tr><tr><td>Arabic No</td><td>6176</td></tr><tr><td>Reference</td><td>Book 78 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Когда к Пророку ﷺ прибыла делегация (племени) ‘абд аль-кайс, он сказал: “Добро пожаловать (вам, о) люди! Не будете вы посрамлены и не станете сожалеть!” Они сказали: “О Посланник Аллаха, мы люди из племени раби‘а, нас отделяют от тебя племя мудар, и мы можем приезжать к тебе только в запретный месяц, так дай же нам веление, чтобы мы благодаря этому вошли в Рай и передали его оставшимся за нами!” Он сказал: “(Я повелеваю вам) четыре (вещи) и (запрещаю другие) четыре: совершайте молитвы, выплачивайте закят, соблюдайте пост в рамадане и выделяйте пятую часть /хумус/ военной добычи. И не пейте из дуббы, хантама, накыра и музаффата».\nДубба — сосуды из высушенных тыкв.\nХантам — кувшины из глины. В таких сосудах в Медину привозили вино.\nНакыр — сосуды, выдолбленные из дерева.\nМузаффат — сосуд, бока которого обмазывались смолой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6176</td></tr><tr><td>Arabic No</td><td>6176</td></tr><tr><td>Reference</td><td>Book 78 Hadith 200</td></tr></tbody></table></div>
 

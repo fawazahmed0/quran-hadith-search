@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl (que Dieu l'agrée) a dit : "Le vendredi, nous ne faisions la sieste ni ne 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] dan [Yahya bin Yahya] dan [Ali bin Hujr] - [Yahya] berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- telah menceritakan kepada kami [Abdul Aziz bin Abu Hazim] dari [bapaknya] dari [Sahl] ia berkata; "Biasanya kami tidak pernah tidur siang, dan tidak pula makan siang kecuali setelah menunaikan shalat Jum'at." Ibnu Hujr berkata; "(Yakni) pada masa Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>859</td></tr><tr><td>Reference</td><td>Book 7 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль сказал: «(При жизни Пророка ﷺ) мы совершали кайлюлю (дневной сон) и обедали только после пятничной молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>859</td></tr><tr><td>Reference</td><td>Book 7 Hadith 41</td></tr></tbody></table></div>
 

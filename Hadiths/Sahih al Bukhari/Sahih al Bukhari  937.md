@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) used to pray two rak'at bef
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar], bahwa Rasulullah shallallahu 'alaihi wasallam biasa melaksanakan dua rakaat sebelum zhuhur dan dua rakaat sesudahnya, dua rakaat setelag Maghrib di rumahnya, dan dua rakaat sesudah Isya. Dan beliau tidak mengerjakan shalat setelah Jum'at hingga beliau pulang, lalu shalat dua rakaat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>937</td></tr><tr><td>Arabic No</td><td>937</td></tr><tr><td>Reference</td><td>Book 11 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что обычно Посланник Аллаха ﷺ совершал (дополнительный) намаз в два рак‘ата до и после (обязательной) полуденного намаза /зухр/. И он совершал также (дополнительный) намаз в два рак‘ата после закатного намаза /магриб/ у себя дома и (дополнительный) намаз в два рак‘ата после вечернего намаза /‘иша/, а после пятничного намаза он не совершал, пока не покидал мечеть, совершая (дополнительный намаз) в два рак‘ата (уже у себя дома)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>937</td></tr><tr><td>Arabic No</td><td>937</td></tr><tr><td>Reference</td><td>Book 11 Hadith 61</td></tr></tbody></table></div>
 

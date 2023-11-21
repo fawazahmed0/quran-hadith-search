@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safwan bin Muhriz:A man asked Ibn 'Umar, "What have you heard from Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Shafwan bin Mukhraz], bahwa ada seorang laki-laki bertanya [Ibnu Umar], "Bagaimana engkau mendengar Rasulullah shallallahu 'alaihi wasallam bersabda tentang bisikan?" Ibnu Umar menjawab, 'Salah seorang di antara kalian mendekati tuhannya hingga Allah meletakkan dekapannya kepadanya dan berujar, 'Bukankah engkau telah melakukan demikian? ' Maka si hamba tadi berkata, 'Benar.' Allah lantas berkata lagi, 'Bukankah engkau melakukan yang demikian-demikian? ' Si hamba tadi menjawab, 'Benar, ' dan dia mengakuinya. Kemudian Allah berkata, 'Sesungguhnya aku telah menutup dosa-dosa itu bagimu di dunia, dan hari ini aku mengampuninya bagimu'." Sedang [Adam] berkata, telah menceritakan kepada kami [Syaiban] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Shafwan] dari [Ibn 'Umar] berkata, 'Aku mendengar Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7514</td></tr><tr><td>Arabic No</td><td>7514</td></tr><tr><td>Reference</td><td>Book 97 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сафуан ибн Мухриз передаёт, что однажды один человек спросил Ибн ‘Умара: «Что ты слышал от Посланника Аллаха ﷺ о тайной беседе?» Он сказал: (Я слышал как Посланник Аллаха ﷺ сказал:) «Один из вас будет приближён к его Господу так, что Он покроет его (скрывая от творений) и скажет: “Сознаёшься ли ты в таком-то грехе?”На что тот будет отвечать: “Да”. Он скажет: “А сознаёшься ли в таком-то грехе?”», он ответит: “Да”. Когда же (Аллах) заставит его признать (все его грехи), то затем Он скажет: “Поистине, Я покрыл твои грехи в земной жизни, и Я прощу их тебе сегодня!”».\nАдам сказал: Нам рассказал Шайбан, который сказал: Нам рассказал Катада, который сказал: Нам рассказал Сафуан от ибн ‘Умара, который сказал: «Я слышал Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7514</td></tr><tr><td>Arabic No</td><td>7514</td></tr><tr><td>Reference</td><td>Book 97 Hadith 139</td></tr></tbody></table></div>
 

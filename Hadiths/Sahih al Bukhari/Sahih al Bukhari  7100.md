@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Maryam 'Abdullah bin Ziyad Al-Aasadi:When Talha, AzZubair and 'Aish
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Abu Bakar bin 'Iyyasy] telah menceritakan kepada kami [Abu Hashin] telah menceritakan kepada kami [Abu Maryam Abdullah bin Ziyad Al Asadi] menuturkan; Tatkala Thalhah, Zubair dan 'Aisyah berangkat ke Bashrah, Ali mengutus 'Ammar bin Yasir dan Hasan bin Ali mendatangi Kami di Kufah, lantas keduanya naik minbar. Ketika itu Al Hasan bin Ali diatas minbar di tangga paling atas, sedang Ammar berdiri dibawah Al Hasan, kami berkumpul di sekelilingnya, dan aku mendengar ['Ammar] mengatakan; 'Aisyah tengah berangkat ke Bashrah, demi Allah, ia adalah isteri Nabi kalian (Shallallahu'alaihiwasallam) di dunia dan di akherat, namun Allah Tabaraka wata'ala menguji kalian agar Dia mengetahui, apakah kalian taat kepada-NYA atau kepada Aisyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7100</td></tr><tr><td>Arabic No</td><td>7100</td></tr><tr><td>Reference</td><td>Book 92 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Марьям ‘Абдуллах ибн Зияд аль-Асади, сказал: «Когда Тальха, аз-Зубейр и ‘Аиша отправились в Басру, ‘Али отправил ‘Аммара ибн Ясира и Хасана ибн ‘Али. Они прибыли к нам в Куфу, поднялись на минбар, причём аль-Хасан ибн ‘Али стоял в верхней части минбара, а ‘Аммар ниже аль-Хасана. Тогда мы собрались возле них, и я слышал, как ‘Аммар сказал: “Поистине, ‘Аиша отправилась в Басру, и клянусь Аллахом, она является женой вашего Пророка ﷺ в мире этом, и в мире ином, однако Всеблагой и Всевышний Аллах испытал вас, чтобы узнать, Ему вы подчинитесь или ей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7100</td></tr><tr><td>Arabic No</td><td>7100</td></tr><tr><td>Reference</td><td>Book 92 Hadith 51</td></tr></tbody></table></div>
 

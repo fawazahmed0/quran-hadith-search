@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Messenger of Allah (ﷺ) said: The first defec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] berkata, telah menceritakan kepada kami [Yunus bin Rasyid] dari [Ali bin Badzimah] dari [Abu Ubaidah] dari [Abdullah bin Mas'ud] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kemaksiatan pertama kali yang terjadi pada bani Isra'il adalah ketika seorang laki-laki berjumpa seorang laki-laki lain, ia berkata, "Wahai saudaraku, bertakwalah kepada Allah, tinggalkan apa yang telah engkau lakukan, karena itu tidak halal untuk kamu lakukan." Kemudian keesokan harinya ia berjumpa lagi dengannya, namun perbuatan maksiat yang ia larang (kepada temannya) tidak mencegah dirinya untuk menjadikannya sebagai teman makan dan minum serta duduknya (yakni ikut bersama dalam kemaksiatan), maka ketika mereka melakukan hal itu, Allah menghitamkan hati sebagian mereka karena sebab sebagian yang lain. Kemudian beliau membaca: (Telah dila'nati orang-orang kafir dari Bani Israil dengan lisan Daud dan 'Isa putera Maryam) hingga firmannya: (orang-orang yang fasik) '. Kemudian beliau bersabda; "Demi Allah hendaklah kalian benar-benar memerintahkan kebaikan, mencegah kemungkaran dan mencabutnya dari tangan orang zhalim lalu mengambalikannya (membelokkannya) kepada kebenaran serta konsisten terhadap kebenaran itu.", telah menceritakan kepada kami [Khalaf bin Hisyam] telah menceritakan kepada kami [Abu Syihab Al Hannath] dari [Al 'Ala' bin Al Musayyib] dari [Amru bin Murrah] dari [Salim] dari [Abu Ubaidah] dari [Ibnu Mas'ud] dari Nabi shallallahu 'alaihi wasallam seperti hadits tersebut, dengan tambahan redaksi; "atau (jika tidak) Allah benar-benar akan menutup hati kalian karena (tutupnya) sebagian yang lain, kemudian melaknat kalian sebagaimana telah melaknat mereka (orang-orang bani Israil).", Abu Daud berkata; [Al Muharibi] telah meriwayatkan hadits ini dari [Al 'Ala' bin Al Musayyib] dari [Abdullah bin Amru bin Murrah] dari [Salim Al Afthas] dari [Abu Ubaidah] dari [Abdullah], dan [Khalid] meriwayatkan hadits ini dari [Al 'Ala'] dari [Amru bin Murrah] dari [Abu Ubaidah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4336</td></tr><tr><td>Arabic No</td><td>4336</td></tr><tr><td>Reference</td><td>Book 39 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Мас‘уда, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, религия сынов Исраиля начала приходить в упадок с того, что человек, встречавший другого, говорил ему: “Эй ты, побойся Аллаха и перестань делать то, что делаешь, ведь это тебе не дозволено!” А на следующий день он снова встречал его и (увиденное накануне) не мешало ему есть, пить и сидеть с ним. И когда они стали поступать подобным образом, Аллах смешал их сердца». Потом он прочитал: «Неверующие сыны Исраиля (Израиля) были прокляты языком Давуда (Давида) и ‘Исы (Иисуса), сына Марьям (Марии). Это произошло потому, что они ослушались и преступали границы дозволенного. Они не удерживали друг друга от предосудительных поступков, которые они совершали. Как же скверно было то, что они делали! Ты видишь, что многие из них дружат с неверующими (так, как можно дружить только с верующими). Скверно то, что уготовали им их души, ведь поэтому Аллах разгневался на них. Они будут мучиться вечно. Если бы они уверовали в Аллаха, Пророка и то, что было ниспослано ему, то не стали бы брать их себе в помощники и друзья. Но многие из них являются нечестивцами» (сура «аль-Маида», аяты)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4336</td></tr><tr><td>Arabic No</td><td>4336</td></tr><tr><td>Reference</td><td>Book 39 Hadith 46</td></tr></tbody></table></div>
 

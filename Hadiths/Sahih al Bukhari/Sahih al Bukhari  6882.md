@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "The most hated persons to Allah are
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari ['Abdullah bin Abu Husain] telah menceritakan kepada kami [Nafi' bin Jubair] dari [Ibnu Abbas], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Manusia yang paling dimurkai Allah ada tiga, Orang yang melakukan pelanggaran di tanah haram, orang yang mencari-cari perilaku jahiliyah padahal telah masuk Islam, dan memburu darah seseorang tanpa alasan yang dibenarkan untuk menumpahkan darahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6882</td></tr><tr><td>Arabic No</td><td>6882</td></tr><tr><td>Reference</td><td>Book 87 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Самыми ненавистными для Аллаха людьми являются трое: отклонившийся от веры, который находится в святилище /харам/, человек, стремящийся к сохранению обычаев джахилийи в исламе, и тот, кто ищет (способа) пролить чью-либо кровь, не имея на это права»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6882</td></tr><tr><td>Arabic No</td><td>6882</td></tr><tr><td>Reference</td><td>Book 87 Hadith 21</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yazid b. al-Asamm said:I heard Abu Huraira saying that the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Katsir bin Hisyam] telah menceritakan kepada kami [Ja'far bin Burqan] telah menceritakan kepada kami [Yazid bin al-Asham] dia berkata, "Aku mendengar [Abu Hurairah] berkata, 'Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia akan bertanya kepada kalian tentang segala sesuatu hingga mereka berkata, 'Allah telah menciptakan segala sesuatu, lalu dia yang menciptakan-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>350</td></tr><tr><td>Arabic No</td><td>135.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 257</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Люди станут спрашивать вас обо всём, пока не скажут: “Аллах всё, а кто создал Его?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>350</td></tr><tr><td>Arabic No</td><td>135.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 257</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported Allah's Messenger (ﷺ) as saying:When any one of you observes pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian telah menunaikan shalat di Masjidnya, hendaknya ia menyisakan sebagian shalatnya untuk (dikerjakan) di rumahnya, karena dari shalatnya itu, Allah akan menjadikan kebaikan di dalam rumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1822</td></tr><tr><td>Arabic No</td><td>778</td></tr><tr><td>Reference</td><td>Book 6 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что Посланник Аллаха ﷺ сказал: «Совершив (обязательную) молитву в своей мечети, пусть каждый из вас оставит что-то из молитв и для дома, ибо, поистине, благодаря молитве Аллах поместит в его доме благо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1822</td></tr><tr><td>Arabic No</td><td>778</td></tr><tr><td>Reference</td><td>Book 6 Hadith 250</td></tr></tbody></table></div>
 

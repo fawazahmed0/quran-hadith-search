@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara bin 'Azib:That the Prophet (ﷺ) advised a man, saying, "If you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ar Rabi'] dan [Muhammad bin 'Ar'arah] keduanya berkata; telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dia mendengar [Al Barra' bin 'Azib] bahwa Nabi shallallahu 'alaihi wasallam pernah memerintahkan seorang laki-laki…" dan driwayatkan dari jalur lain, telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abu Ishaq Al Hamdani] dari [Al Barra' bin 'Azib] bahwa Nabi shallallahu 'alaihi wasallam pernah mewasiatkan kepada seseorang, beliau bersabda: 'Apabila kamu hendak tidur, maka ucapkanlah; 'ALLAHUMMA ASLAMTU NAFSI ILAIKA WAFAWADLTU AMRII ILAIKA WA ALJA'TU ZHAHRI ILAIKA RAHBATAN WA RAGHBATAN ILAIKA LAA MALJA'A WALAA MANJAA MINKA ILLA ILAIKA AMANTU BIKITAABIKA ALLADZII ANZALTA WA BINABIYYIKA ALLADZII ARSALTA (Ya AIlah ya Tuhanku, aku berserah diri kepada-Mu, aku serahkan urusanku kepada-Mu dan aku berlindung kepada-Mu dalam keadaan harap dan cemas, karena tidak ada tempat berlindung dan tempat yang aman dari adzab-Mu kecuali dengan berlindung kepada-Mu. Aku beriman kepada kitab-Mu yang telah Engkau turunkan dan aku beriman kepada Nabi-Mu yang telah Engkau utus).' Apabila kamu meninggal (pada malam itu) maka kamu meninggal dalam keadaan fitrah (suci)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6313</td></tr><tr><td>Arabic No</td><td>6313</td></tr><tr><td>Reference</td><td>Book 80 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, передаёт, что однажды Пророк ﷺ дал одному человеку совет и сказал: «Когда (захочешь) лечь в постель, скажи: “О Аллах, я предался Тебе, и вручил Тебе дело своё и на Тебя положился по желанию своему и из страха перед Тобой. Нет убежища и нет спасения от Тебя, кроме (обращения) к Тебе! Я уверовал в Твоё Писание, которое Ты ниспослал, и в Твоего пророка, которого Ты послал”.\n/Аллахумма аслямту нафси иляй-кя, ва фаввадту амри иляй-кя ва альджа‘ту захри иляй-кя рагбатан ва рахбатан иляй-кя. Ля мальджа ва ля манджа мин-кя илля иляй-кя! Аллахумма, аманту би-китаби-кя-ллязи анзальта ва би-набиййи-кя-ллязи арсальта/.\nИ если (после этого) ты умрёшь (этой ночью), то умрёшь в присущем тебе от рождения состоянии»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6313</td></tr><tr><td>Arabic No</td><td>6313</td></tr><tr><td>Reference</td><td>Book 80 Hadith 10</td></tr></tbody></table></div>
 

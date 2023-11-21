@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that the Messenger of Allah (ﷺ) took a bath with the water 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Hatim] berkata Ishaq, telah mengabarkan kepada kami, sedangkan Ibnu Hatim berkata, telah menceritakan kepada kami [Muhammad bin Bakar] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Amru bin Dinar] dia berkata, "Ilmuku yang terbesar dan yang membekas dalam hatiku adalah bahwa [Abu asy-Sya'tsa'] telah mengabarkan kepadaku bahwa [Ibnu Abbas] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam pernah mandi dengan sisa air mandi Maimunah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>734</td></tr><tr><td>Arabic No</td><td>323</td></tr><tr><td>Reference</td><td>Book 3 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что Посланнику Аллаха ﷺ случалось использовать для полного омовения воду, оставшуюся (в сосуде после того, как оттуда набирала воду для омовения его жена) Маймуна.Глава: Количество воды, (достаточное для совершения) малого омовения /вудуъ/ и полного омовения /гусль
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>734</td></tr><tr><td>Arabic No</td><td>323</td></tr><tr><td>Reference</td><td>Book 3 Hadith 56</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Salim reported on the authority of his father:I saw the Prophet (ﷺ) and Abu Ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi], telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari [Salim] dari [ayahnya], ia berkata; aku melihat Nabi shallallahu 'alaihi wasallam, Abu Bakr, dan Umar berjalan kaki di depan jenazah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3179</td></tr><tr><td>Arabic No</td><td>3179</td></tr><tr><td>Reference</td><td>Book 21 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Салим передаёт от своего отца, да будет доволен Аллах ими: «Я видел, как Пророк ﷺ Абу Бакр и ‘Умар, да будет доволен Аллах ими обоими, шли впереди похоронной процессии»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3179</td></tr><tr><td>Arabic No</td><td>3179</td></tr><tr><td>Reference</td><td>Book 21 Hadith 91</td></tr></tbody></table></div>
 

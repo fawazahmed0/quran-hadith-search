@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:When one of you rec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Sa'id], telah menceritakan kepada kami [Abu Khalid] dari [Hisyam] dari [Ibnu Sirin] dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang diantara kalian diundang, hendaknya ia memenuhi undangan tersebut, apabila ia tidak berpuasa hendaknya ia makan, dan apabila ia sedang berpuasa maka hendaknya ia mendoakan!" Hisyam berkata; yang dimaksud dengan shalat adalah berdoa. Abu Daud berkata; hadits tersebut diriwayatkan oleh Hafsh bin Giyats juga dari Hisyam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1431)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2460</td></tr><tr><td>Arabic No</td><td>2460</td></tr><tr><td>Reference</td><td>Book 14 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если кого-то из вас пригласили на угощение, пусть он примет приглашение и, если он не постится, пусть ест, а если постится, то пусть обратится к Аллаху с мольбами за приготовивших угощение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1431)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2460</td></tr><tr><td>Arabic No</td><td>2460</td></tr><tr><td>Reference</td><td>Book 14 Hadith 148</td></tr></tbody></table></div>
 

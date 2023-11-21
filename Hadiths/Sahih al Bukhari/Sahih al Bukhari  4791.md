@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:When Allah's Messenger (ﷺ) married Zainab bint Jahsh, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah Ar Raqasyi] Telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dia berkata; Aku mendengar [Bapakku] berkata; Telah menceritakan kepada kami [Abu Mijlaz] dari [Anas bin Malik radliallahu 'anhu] dia berkata; Tatkala Rasulullah shallallahu 'alaihi wasallam menikahi Zainab binti Jahsy, beliau mengundang orang-orang, lalu beliau menjamu mereka, mereka pun menikmati hidangan tersebut, kemudian mereka duduk dan berbincang-bincang." Lalu beliau merubah posisi seakan-akan ingin berdiri, namun orang-orang tidak juga berdiri, ketika beliau berdiri maka orang-orang pun ikut berdiri." Setelah itu tiga orang duduk lagi. Nabi shallallahu 'alaihi wasallam datang dan hendak masuk ke kamar Zainab, namun orang-orang masih tetap duduk-duduk, setelah itu mereka berdiri dan beranjak pergi. Anas berkata; Lalu saya mengabarkan kepada Nabi shallallahu 'alaihi wasallam bahwa mereka sudah beranjak pergi." Kemudian beliau masuk dan saya mengikuti beliau masuk, lantas beliau menurunkan kain tirainya antara saya dengan beliau." Lalu Allah Azza Wa Jalla menurunkan (ayat): "Wahai orang-orang yang beriman, janganlah kalian masuk ke rumah Nabi…. (Al Ahzab:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>4791</td></tr><tr><td>Reference</td><td>Book 65 Hadith 313</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Женившись на Зейнаб бинт Джахш, Посланник Аллаха ﷺ пригласил людей на угощение. Они поели, а затем продолжили сидеть и разговаривать. (Через некоторое время) Пророк ﷺ (показал им), как будто собирается встать, но никто из людей не поднимался. (Увидев, что они не поняли его намёка,) он встал, и остальные тоже встали, кроме трёх человек, которые продолжали сидеть. (Спустя какое-то время) Пророк ﷺ вернулся (в дом) и хотел зайти (к своей жене), однако они всё ещё сидели на своих местах. Когда же они встали и ушли. Я пришёл к Пророку ﷺ и сообщил ему об этом, и тогда он вошёл (в дом). Я же хотел зайти за ним, но Пророк ﷺ опустил передо мной занавеску, после этого Аллах ниспослал: “О те, которые уверовали! Не входите в дома Пророка…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>4791</td></tr><tr><td>Reference</td><td>Book 65 Hadith 313</td></tr></tbody></table></div>
 

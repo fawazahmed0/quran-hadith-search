@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Zuhair bin Harb] serta [Ishaq bin Ibrahim] sedangkan lafazh tersebut milik Qutaibah, berkata Ishaq, telah mengabarkan kepada kami, sedangkan dua orang yang lainnya berkata, telah menceritakan kepada kami [Jarir] dari [al-A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi Shallallahu'alaihiwasallam, beliau bersabda, "Setan apabila mendengar adzan, maka kentut akan membuatnya lari terbirit-birit sehingga tidak mendengar suaranya lagi. Setelah adzan selesai, dia kembali lagi untuk mengganggu. Begitu juga apabila mendengar iqamat. Dia akan lari sehingga tidak mendengarnya lagi, dan apabila iqamat selesai, dia kembali sekali lagi untuk mengganggu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>856</td></tr><tr><td>Arabic No</td><td>389.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры о том, что Пророк ﷺ сказал: «Поистине, когда шайтан слышит призыв к молитве он убегает с шумом испуская кишечные газы, чтобы не слышать голос (муаззина), а когда он умолкает, он возвращается и начинает наущения. Когда он слышит икъаму, он (опять) уходит, чтобы не слышать его голос, а когда он умолкает, он возвращается и (снова) начинает наущения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>856</td></tr><tr><td>Arabic No</td><td>389.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 19</td></tr></tbody></table></div>
 

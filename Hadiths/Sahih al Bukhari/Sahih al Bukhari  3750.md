@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin Al-Harith:I saw Abu Bakr carrying Al-Hasan and saying, "Let m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepadaku [Umar bin Sa'id bin Abu Husain] dari [Ibnu Abu Mulaikah] dari ['Uqbah bin AlHarits] berkata; "Aku pernah melihat [Abu Bakr radliallahu 'anhu] menggendong Al Hasan sambil berkata; "Demi bapakku, anak ini mirip dengan Nabi dan tidak mirip dengan 'Ali". Dan 'Ali menjadi tertawa mendengarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3750</td></tr><tr><td>Arabic No</td><td>3750</td></tr><tr><td>Reference</td><td>Book 62 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба ибн аль-Харис сказал: «Я видел, как Абу Бакр, да будет доволен им Аллах, он посадил его себе на плечи аль-Хасана, и сказал: “Да станет мой отец выкупом за тебя! Ты похож на Пророка ﷺ, а не на ‘Али!” — и ‘Али (, слышавший его слова,) рассмеялся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3750</td></tr><tr><td>Arabic No</td><td>3750</td></tr><tr><td>Reference</td><td>Book 62 Hadith 95</td></tr></tbody></table></div>
 

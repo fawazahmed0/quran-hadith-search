@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported that Abu Qubafa was led (to the andience of the Holy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami ['Abdullah bin Wahb] dari [Ibnu Juraij] dari [Abu Az Zubair] dari [Jabir bin 'Abdillah] ia berkata; pada hari penaklukan Makkah, Abu Quhafah dibawa ke hadapan Rasulullah shallallahu 'alaihi wasallam, dengan rambut dan jenggotnya yang memutih seperti pohon Tsaghamah (pohon yang daun dan buahnya putih). Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Celuplah (rambut dan jenggot Anda) selain dengan warna hitam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5509</td></tr><tr><td>Arabic No</td><td>2102.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5509</td></tr><tr><td>Arabic No</td><td>2102.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 124</td></tr></tbody></table></div>
 

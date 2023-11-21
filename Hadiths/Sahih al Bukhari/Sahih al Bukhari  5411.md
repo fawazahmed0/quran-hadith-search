@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Once the Prophet (ﷺ) distributed dates among his companio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah meceritakan kepada kami [Abu Nu'man] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Abbas Al Jurairi] dari [Abu Utsman An Nahdi] dari [Abu Hurairah] ia berkata; "Pada suatu hari, Nabi shallallahu 'alaihi wasallam membagikan kurma kepada para sahabatnya. Beliau beri tujuh butir kurma pada setiap orangnya. Maka beliau juga memberiku sebanyak tujuh butir kurma, salah satunya adalah kering, yang tidak ada kurma lainnya yang lebih mengherankan bagiku daripadanya karena sedemikian kerasnya kurma itu harus dikunyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5411</td></tr><tr><td>Arabic No</td><td>5411</td></tr><tr><td>Reference</td><td>Book 70 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ разделил между своими сподвижниками финики, дав каждому человеку по семь штук. Он дал и мне семь фиников, один из которых оказался сухим и незрелым, однако не было среди них более дорогого для меня, чем он, так как мне было трудно жевать его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5411</td></tr><tr><td>Arabic No</td><td>5411</td></tr><tr><td>Reference</td><td>Book 70 Hadith 39</td></tr></tbody></table></div>
 

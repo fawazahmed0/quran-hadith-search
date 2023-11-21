@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir Ibn 'Abdoullâh (رضي الله عنهما), le Prophète (paix
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Al Munkadir] bahwa dia mendengar [Jabir bin Abdullah] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ishaq] Telah mengabarkan kepada kami [Sufyan] dari [Ibnu Al Munkadir] dari [Jabir] dan dari [Amru] dari [Muhammad bin Ali] dari [Jabir] yang masing-masing keduanya saling menambahkan. Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Abu Umar] lafazh ini miliknya. dia berkata; [Sufyan] berkata; Aku mendengar [Muhammad bin Al Munkadir] berkata; Aku mendengar [Jabir bin Abdullah] [Sufyan] berkata; Dan Aku juga mendengar [Amru bin Dinar] bercerita dari [Muhammad bin Ali] dia berkata; Aku mendengar [Jabir bin Abdullah] yang masing-masing dari keduanya saling menambahkan. Dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau harta benda dari Bahrain telah sampai kepada kita, maka aku akan memberimu sekian dan sekian (sambil beliau memberi isyarat dengan kedua tangannya).' Ternyata Rasulullah shallallahu 'alaihi wasallam meninggal dunia terlebih dahulu sebelum harta benda dari Bahrain tersebut sampai kepada kami. Akhirnya Abu Bakr naik menggantikan Rasulullah dalam kepemimpinan. Setelah itu, Abu Bakr berkata; 'Barang siapa pernah dijanjikan oleh Rasulullah (untuk diberi bagian harta) atau mempunyai tagihan utang piutang dengan beliau, maka datanglah kepada saya! (Jabir) berkata; Seketika saya berdiri, saya berkata; 'Wahai Abu Bakr, sesungguhnya Rasulullah shallallahu 'alaihi wasallam pernah berkata; 'Kalau harta benda dari negeri Bahrain telah sampai kepada kita, maka aku akan memberimu sekian dan sekian. Kemudian Abu Bakr memberikan harta tersebut kepada saya dengan sekali ambil sambil berkata; 'Hitunglah! Lalu sayapun menghitungnya. Ternyata hanya ada lima ratus. Maka Abu Bakr berkata; 'Ambillah dua kali lipat dari itu (agar sesuai dengan janji Rasulullah). Telah menceritakan kepada kami [Muhammad bin Hatim bin Maimun] Telah menceritakan kepada kami [Muhammad bin Bakr] Telah mengabarkan kepada kami [Ibnu Juraij] Telah mengabarkan kepadaku [Amru bin Dinar] dari [Muhammad bin Ali] dari [Jabir bin Abdullah] dia berkata; Dan telah mengabarkan kepadaku [Muhammad bin Al Munkadir] dari [Jabir bin Abdullah] dia berkata; 'Tatkala Nabi shallallahu 'alaihi wasallam meninggal, tiba-tiba harta dari Al Allaa' bin Al HAdhrami di berikan kepada Abu Bakr. Maka Abu Bakr berkata; "Barang siapa yang mempunyai tagihan utang piutang dengan beliau atau pernah dijanjikan oleh Rasulullah (untuk diberi bagian harta), maka datanglah kepada saya! -serupa dengan Hadits Ibnu Uyainah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6023</td></tr><tr><td>Arabic No</td><td>2314.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6023</td></tr><tr><td>Arabic No</td><td>2314.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 81</td></tr></tbody></table></div>
 

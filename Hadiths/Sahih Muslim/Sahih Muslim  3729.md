@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zainab bint Umm Salama (Allah be pleased with her) reported that a relative of U
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Humaid bin Nafi'] dia berkata; Saya mendengar [Zaenab binti Ummu Salamah] berkata; [Saudara Ummu Habibah] telah meninggal dunia, kemudian dia meminta diambilkan shufrah (sejenis tumbuhan), dan mengolesi kedua hastanya, lalu dia berkata; "Saya melakukan hal ini karena saya penah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak halal seorang wanita yang beriman kepada Allah dan Hari Akhir melakukan ihdad melebihi tiga hari kecuali karena kematian suaminya, yaitu empat bulan sepuluh hari." Dan [Zainab] telah bercerita dari [ibunya] dan dari [Zainab] istri Rasulullah shallallahu 'alaihi wasallam atau dari salah seorang istri Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3729</td></tr><tr><td>Arabic No</td><td>1486.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3729</td></tr><tr><td>Arabic No</td><td>1486.02</td></tr><tr><td>Reference</td><td>Book 18 Hadith 74</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khalid bin Madan:That 'Umair bin Al-Aswad Al-Anasi told him that he wen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Ishaq bin Yazid Ad-Dimasyqiy] telah bercerita kepada kami [Yahya bin Hamzah] berkata telah bercerita kepadaku [Tsaur bin Yazid] dari [Khalid bin Ma'dan] bahwa 'Umair bin Al Aswad Al 'Ansiy bercerita kepadanya bahwa dia menjumpai 'Ubadah bin ash-Shomit ketika dia sedang singgah dalam perjalanan menuju Himsh. Saat itu dia sedang berada di rumahnya dan bersama dengan Ummu Haram. ['Umair] berkata; "Maka [Ummu Haram] bercerita kepada kami bahwa dia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Pasukan dari ummatku yang pertama kali akan berperang dengan mengarungi lautan pasti akan diberi pahala dan surga". Ummu Haram berkata; Aku katakan: "Wahai Rasulullah, aku termasuk diantara mereka?" Beliau berkata; "Ya, kamu termasuk dari mereka". Nabi shallallahu 'alaihi wasallam bersabda lagi: "Pasukan dari ummatku yang pertama kali akan memerangi kota Qaishar (Romawi) pasti mereka akan diampuni". Aku katakan: "Aku termasuk diantara mereka, wahai Rasulullah?" Beliau menjawab: 'Tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2924</td></tr><tr><td>Arabic No</td><td>2924</td></tr><tr><td>Reference</td><td>Book 56 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умм Харам, да будет доволен ею Аллах, что (однажды) она услышала, как Пророк ﷺ сказал: «Первые (воины из числа членов) моей общины, которые примут участие в морском военном походе, обязательно (попадут в рай)».Умм Харам сказала: «Я спросила: “О Посланник Аллаха, буду ли и я среди них?” Он сказал: “Ты будешь среди них”. А потом Пророк ﷺ сказал: “Первым (воинам из числа членов) моей общины, которые примут участие в военном походе на город императора, простятся (их грехи)”. Я спросила: “Буду ли и я среди них, о Посланник Аллаха?” (и на этот раз) он сказал: “Нет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2924</td></tr><tr><td>Arabic No</td><td>2924</td></tr><tr><td>Reference</td><td>Book 56 Hadith 137</td></tr></tbody></table></div>
 

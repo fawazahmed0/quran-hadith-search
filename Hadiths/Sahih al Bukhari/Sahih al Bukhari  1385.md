@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Every child is born with a true fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Ibnu Abu Dza'bi] dari [Az Zuhriy] dari [Abu Salamah bin 'Abdurrahman] dari [Abu Hurairah radliallahu 'anhu] berkata; Nabi Shallallahu'alaihiwasallam bersabda: "Setiap anak dilahirkan dalam keadaan fithrah. Kemudian kedua orang tunyalah yang akan menjadikan anak itu menjadi Yahudi, Nashrani atau Majusi sebagaimana binatang ternak yang melahirkan binatang ternak dengan sempurna. Apakah kalian melihat ada cacat padanya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1385</td></tr><tr><td>Arabic No</td><td>1385</td></tr><tr><td>Reference</td><td>Book 23 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Каждый человек рождается на «фитре» (врожденное чувство ислама), а уже потом родители делают из него иудея или христианина, или огнепоклонника подобно тому, как верблюды появляются на свет целыми, видел ли ты среди них верблюда, (родившегося) с отрезанной конечностью?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1385</td></tr><tr><td>Arabic No</td><td>1385</td></tr><tr><td>Reference</td><td>Book 23 Hadith 137</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Umamah bin Sahl reported on the authority of his father:The Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Yahya bin Faris], telah menceritakan kepada Kami [Sa'id? bin Sulaiman], telah menceritakan kepada Kami ['Abbad] dari [Sufyan bin Husain] dari [Az Zuhri] dari [Abu Umamah bin Sahl] dari [ayahnya], ia berkata; Rasulullah shallallahu 'alaihi wasallam melarang untuk mengambil Ju'rur dan Launu Al Hubaiki (keduanya adalah jenis kurma yang jelek) untuk zakat. Az Zuhri berkata: itu adalah dua macam kurma madinah. Abu Daud berkata: [Abu Al Walid] juga menyebutkan sanad hadits tersebut dari [Sulaiman bin Katsir] dari [Az Zuhri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1607</td></tr><tr><td>Arabic No</td><td>1607</td></tr><tr><td>Reference</td><td>Book 9 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Умама ибн Сахль передаёт от своего отца, что Посланник Аллаха ﷺ запретил брать в качестве закята джурур и вид аль-хубайка. Аз-Зухри объяснил, что это два сорта фиников, растущие в Медине
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1607</td></tr><tr><td>Arabic No</td><td>1607</td></tr><tr><td>Reference</td><td>Book 9 Hadith 52</td></tr></tbody></table></div>
 

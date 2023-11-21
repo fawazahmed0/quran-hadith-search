@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I was menstruating when I reached Mecca. So, I neither performed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Abdurrahman bin Al Qasim] dari [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa dia berkata: "Aku mengunjungi Makkah (untuk menunaikan hajji) sedang aku mengalami haidh sehingga aku tidak melakukan thawaf di Ka'bah Baitullah dan juga tidak sa'iy antara bukit Shafaa dan Marwah". Dia berkata: "Kemudian hal ini aku adukan kepada Rasulullah Shallallahu'alaihiwasallam maka Beliau bersabda: "Lakukanlah semua manasik seperti yang dilakukan para hujjaj selain thawaf di Ka'bah Baitullah hingga kamu suci
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1650</td></tr><tr><td>Arabic No</td><td>1650</td></tr><tr><td>Reference</td><td>Book 25 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я приехала в Мекку как раз в то время, когда у меня была менструация, и не смогла совершить таваф вокруг Каабы и пробег между ас-Сафой и аль-Марвой. Я пожаловалась Посланнику Аллаха ﷺ и он сказал: “Делай то, что делают другие паломники, но не совершай таваф вокруг Каабы, пока не очистишься (после окончания менструации)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1650</td></tr><tr><td>Arabic No</td><td>1650</td></tr><tr><td>Reference</td><td>Book 25 Hadith 131</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuBakrah: AbdurRahman ibn AbuBakrah said that he told his father: O my
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5090</td></tr><tr><td>Arabic No</td><td>5090</td></tr><tr><td>Reference</td><td>Book 43 Hadith 318</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказали нам аль-‘Аббас ибн ‘Абдуль‘азым и Мухаммад ибн аль-Мусанна, которые сказали: Рассказал нам ‘Абдульмалик ибн ‘Амр от ‘Абдульджалиля ибн ‘Атыййи, передавшего от Джа‘фара ибн Маймуна, который сказал: Рассказал мне ‘Абдуррахман ибн Абу Бакра, что (однажды) он сказал своему отцу, да будет доволен им Аллах: «О батюшка, поистине, каждое утро я слышу, как ты трижды произносишь слова: “О Аллах, избавь (от недостатков) моё тело, о Аллах, избавь (от недостатков) мой слух, о Аллах, избавь (от недостатков) моё зрение, (ибо) нет бога, достойного поклонения, кроме Тебя!” /Аллахумма, ‘афи-ни фи бадани, Аллахумма, ‘афи-ни фи сам‘и, Аллахумма, ‘афи-ни фи басари, ля иляха илля Анта!/” и то же самое ты трижды произносишь каждый вечер». (В ответ ему Абу Бакра) сказал: «Я слышал, как с мольбой к Аллаху обращался Посланник Аллаха ﷺ произносивший эти слова, а я хочу следовать его Сунне».‘Аббас сказал в нём: «Ты говоришь: “О Аллах, поистине, я прибегаю к Твоей защите от неверия и бедности, о Аллах, поистине, я прибегаю к Твоей защите от мучений могилы, (ибо) нет бога, достойного поклонения, кроме Тебя!” /Аллахумма, инни а‘узу би-ка мина-ль-куфри ва-ль-факъри, Аллахумма, инни а‘узу би-ка мин ‘азаби-ль-къабри, ля иляха илля Анта!/”, повторяя это трижды утром и вечером и взывая с (этими словами в мольбе), а я хочу следовать его Сунне».(Также Абу Бакра) сказал: Посланник Аллаха ﷺ сказал: «Удручённому (следует обращаться к Аллаху с такими) мольбами: “О Аллах, милосердия Твоего прошу, не доверяй же меня душе моей ни на миг и приведи в порядок все дела мои; нет бога, достойного поклонения, кроме Тебя! /Аллахумма, рахмата-кя арджу, фа-ля такиль-ни иля нафси тарфата ‘айнин ва аслих ша‘ни кулля-ху; ля иляха илля Анта!/”»И некоторые из них добавляют (к сказанному) своими товарищами
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5090</td></tr><tr><td>Arabic No</td><td>5090</td></tr><tr><td>Reference</td><td>Book 43 Hadith 318</td></tr></tbody></table></div>
 

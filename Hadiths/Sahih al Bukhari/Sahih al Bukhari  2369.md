@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "There are three types of people wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Abu Shalih Tabi'in (As-Samman] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Ada tiga jenis orang yang Allah Ta'ala tidak akan berbicara dengan mereka dan tidak akan melihat mereka pada hari qiyamat, yaitu seorang penjual yang bersumpah terhadap dagangannya dan dia mengaku telah memberi lebih kepada si pembeli dibandingkan yang ia berikan kepada manusia lainnya, padahal dia berdusta, dan seorang yang bersumpah dengan sumpah palsu setelah 'Ashar yang dengan sumpahnya itu dia berambisi untuk mengambil harta orang muslim, dan seseorang yang menolak membagi-bagikan kelebihan air sehingga Allah akan berfirman pada hari kiamat: "Aku tidak akan beri karuniaKu kepadamu karena kamu telah menghalangi sesutau yang bukan buah hasil kerja kamu". ['Ali] berkata, telah menceritakan kepada kami [Sufyan] berulang kali dari ['Amru] yang dia mendengar [Abu Shalih] yang katanya dia dapat dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2369</td></tr><tr><td>Arabic No</td><td>2369</td></tr><tr><td>Reference</td><td>Book 42 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «С тремя не заговорит Аллах в День воскресения и не посмотрит на них: с человеком, который даёт ложную клятву в том, что он отдал за свой товар больше, чем он отдал (на самом деле), с человеком, который после послеполуденной молитвы даёт ложную клятву для того, чтобы присвоить имущество мусульманина, и с человеком, который отказывается (поделиться с другими) излишками своей воды, из-за чего Аллах скажет: “Сегодня Я откажу тебе в Своей милости подобно тому, как ты отказал (другому) в излишках того, что создали не твои руки!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2369</td></tr><tr><td>Arabic No</td><td>2369</td></tr><tr><td>Reference</td><td>Book 42 Hadith 17</td></tr></tbody></table></div>
 

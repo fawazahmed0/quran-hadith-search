@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ibnu Numair] dan [Abu Kuraib] semuanya dari [Ibnu Fudlail] - [Zuhair] berkata- Telah menceritakan kepada kami [Muhammad bin Fudlail] Telah menceritakan kepada kami [Umarah] dari [Abu Zur'ah] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam berdo'a: "Semoga Allah mengampuni mereka yang mencukur rambutnya." Mereka berkata, "Ya Rasulullah, juga bagi mereka yang menggunting rambutnya." Beliau berdo'a lagi: "Semoga Allah mengampuni mereka yang mencukur rambutnya." Mereka berkata lagi, "Ya Rasulullah, juga bagi mereka yang menggunting rambutnya." Beliau tetap berdo'a: "Semoga Allah mengampuni mereka yang mencukur rambutnya." Maka mereka pun berkata, "Ya Rasulullah, juga bagi mereka yang menggunting rambutnya." Akhirnya beliau berdo'a: "Dan (semoga Allah juga merahmati) bagi mereka yang menggunting rambutnya." Dan telah menceritakan kepadaku [Umayyah bin Bistham] Telah menceritakan kepada kami [Yazid bin Zurai'] Telah menceritakan kepada kami [Rauh] dari [Al 'Ala'] dari [bapaknya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam. semakna dengan haditsnya Abu Zur'ah dari Abu Hurairah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3148</td></tr><tr><td>Arabic No</td><td>1302.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 352</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3148</td></tr><tr><td>Arabic No</td><td>1302.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 352</td></tr></tbody></table></div>
 

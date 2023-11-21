@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:While the Prophet (ﷺ) was saying something in a gathering
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] berkata, telah menceritakan kepada kami [Fulaih]. Dan telah diriwayatkan pula hadits serupa dari jalan lain, yaitu Telah menceritakan kepadaku [Ibrahim bin Al Mundzir] berkata, telah menceritakan kepada kami [Muhammad bin Fulaih] berkata, telah menceritakan kepadaku [bapakku] berkata, telah menceritakan kepadaku [Hilal bin Ali] dari [Atho' bin Yasar] dari [Abu Hurairah] berkata: Ketika Nabi shallallahu 'alaihi wasallam berada dalam suatu majelis membicarakan suatu kaum, tiba-tiba datanglah seorang Arab Badui lalu bertanya: "Kapan datangnya hari kiamat?" Namun Nabi shallallahu 'alaihi wasallam tetap melanjutkan pembicaraannya. Sementara itu sebagian kaum ada yang berkata; "beliau mendengar perkataannya akan tetapi beliau tidak menyukai apa yang dikatakannya itu, " dan ada pula sebagian yang mengatakan; "bahwa beliau tidak mendengar perkataannya." Hingga akhirnya Nabi shallallahu 'alaihi wasallam menyelesaikan pembicaraannya, seraya berkata: "Mana orang yang bertanya tentang hari kiamat tadi?" Orang itu berkata: "saya wahai Rasulullah!". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Apabila sudah hilang amanah maka tunggulah terjadinya kiamat". Orang itu bertanya: "Bagaimana hilangnya amanat itu?" Nabi shallallahu 'alaihi wasallam menjawab: "Jika urusan diserahkan bukan kepada ahlinya, maka akan tunggulah terjadinya kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Arabic No</td><td>59</td></tr><tr><td>Reference</td><td>Book 3 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды к Пророку ﷺ который беседовал с собравшимися людьми, подошёл какой-то бедуин и спросил: “Когда настанет Час этот?” Посланник Аллаха ﷺ продолжал разговаривать, (не ответив ему,) и некоторые люди сказали: “Он слышал, что сказал (этот бедуин), но ему это не понравилось”, другие же сказали так: “Нет, он не слышал”. Закончив разговор, (Пророк ﷺ) спросил: “Где же спрашивавший о Часе?” (Бедуин) откликнулся: “Я здесь, о Посланник Аллаха”. Тогда он сказал: “Жди наступления этого Часа тогда, когда будет погублено то, что отдано на хранение /амана/”. (Бедуин) спросил: “Как же это будет погублено?” (Пророк ﷺ) ответил: “Так будет, если поддержание этого дела будет поручено неспособным, и тогда следует ждать наступления этого Часа!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Arabic No</td><td>59</td></tr><tr><td>Reference</td><td>Book 3 Hadith 1</td></tr></tbody></table></div>
 

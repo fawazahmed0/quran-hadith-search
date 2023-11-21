@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Jurayj a dit : 'Atâ' m'a transmis que Ibn 'Abbâs et Jâbir Ibn 'Abdoullâh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Atha'] dari [Ibnu Abbas] dan dari [Jabir bin Abdullah Al Anshari] keduanya berkata; "Tidak pernah dikumandangkan adzan pada saat Iedul Fithri dan tidak pula pada saat shalat Iedul Adlha." Kemudian setelah itu, saya menanyakan hal itu kepadanya, maka ia pun mengabarkan kepadaku, ia berkata; telah menceritakan kepadaku Jabir bin Abdullah Al Anshari bahwasanya; "Tidak ada adzan untuk shalat Iedul Fithri saat Imam keluar, atau setelah keluarnya Imam. Dan tidak ada pula Iqamah, pengumuman serta tidak ada pula yang lain, tidak ada adzan dan tidak pula Iqamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2049</td></tr><tr><td>Arabic No</td><td>886.01</td></tr><tr><td>Reference</td><td>Book 8 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Атаъ, что Ибн ‘Аббас и Джабир ибн ‘Абдуллах аль-Ансари сказали: «Азан не возглашался ни в День разговения, ни в День жертвоприношения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2049</td></tr><tr><td>Arabic No</td><td>886.01</td></tr><tr><td>Reference</td><td>Book 8 Hadith 5</td></tr></tbody></table></div>
 

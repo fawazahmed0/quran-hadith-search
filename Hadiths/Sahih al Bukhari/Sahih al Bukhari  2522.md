@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "Whoever frees his sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang membebaskan hak kepemilikan budak yang dimiliki secara berserikat, dan ia mempunyai harta yang bisa mencapai total harga budak, hendaklah harga budak ditaksir secara adil dan dibebankan kepadanya, lantas ia membebaskan hak kepemilikan yang masih dimiliki serikatnya, dan ia bebaskan budak secara keseluruhan. Jika ia tidak mempunyai harta ini, berarti ia telah membebaskan hak kepemilikannyya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2522</td></tr><tr><td>Arabic No</td><td>2522</td></tr><tr><td>Reference</td><td>Book 49 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Если человек освобождает раба, которым он владеет совместно с другими, и имеет достаточно денег(, чтобы выкупить его полностью), необходимо по справедливости оценить этого раба, после чего человеку следует выплатить его совладельцам их доли и освободить этого раба. (Если же денег у него недостаточно,) он может освободить его частично»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2522</td></tr><tr><td>Arabic No</td><td>2522</td></tr><tr><td>Reference</td><td>Book 49 Hadith 6</td></tr></tbody></table></div>
 

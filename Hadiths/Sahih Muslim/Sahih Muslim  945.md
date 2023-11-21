@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:The last glance that I have had of the Messenger of Allah (ﷺ) (b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>945</td></tr><tr><td>Arabic No</td><td>419.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас сказал: «Последний взгляд, который я бросил на Посланника Аллаха ﷺ (перед его смертью), был, когда он в понедельник отодвинул занавеску»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>945</td></tr><tr><td>Arabic No</td><td>419.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 107</td></tr></tbody></table></div>
 

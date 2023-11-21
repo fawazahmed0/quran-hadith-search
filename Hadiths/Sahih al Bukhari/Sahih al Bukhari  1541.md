@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim bin 'Abdullah:I heard my father saying, "Never did Allah's Messen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufan] telah menceritakan kepada kami [Musa bvin 'Uqbah]; aku mendengar [Salim bin 'Abdullah] berkata; Aku mendengar [Ibnu 'Umar radliallahu 'anhuma]. Dan diriwayatkan pula, telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik] dari [Musa bin 'Uqbah] dari [Salim bin 'Abdullah] bahwa dia mendengar [bapaknya] berkata: "Tidaklah Rasulullah shallallahu 'alaihi wasallam memulai ihram (bertalbiyah) melainkan dari masjid yaitu masjid yang ada di Dzul Hulaifah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1541</td></tr><tr><td>Arabic No</td><td>1541</td></tr><tr><td>Reference</td><td>Book 25 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ входил в состояние ихрама не иначе как у мечети». Он имел в виду мечеть Зуль-Хулейфы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1541</td></tr><tr><td>Arabic No</td><td>1541</td></tr><tr><td>Reference</td><td>Book 25 Hadith 28</td></tr></tbody></table></div>
 

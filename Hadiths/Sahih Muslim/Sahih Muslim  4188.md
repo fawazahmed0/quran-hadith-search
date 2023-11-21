@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; saya membacakannya di hadapan [Malik]; dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Jabir bin Abdullah], bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Lelaki manapun yang diberi suatu pemberian 'Umra untuknya dan keturunannya, maka pemberian tersebut menjadi milik orang yang diberikan, tidak dapat kembali kepada orang yang memberinya. Sebab dia telah memberikan suatu pemberian yang langsung terkait dengan hukum waris
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4188</td></tr><tr><td>Arabic No</td><td>1625.01</td></tr><tr><td>Reference</td><td>Book 24 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4188</td></tr><tr><td>Arabic No</td><td>1625.01</td></tr><tr><td>Reference</td><td>Book 24 Hadith 26</td></tr></tbody></table></div>
 

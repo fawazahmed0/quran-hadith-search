@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:'Abdullah bin 'Umar came to us and we hoped that he wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Syahin Al Wasithi] telah menceritakan kepada kami [Khalid] dari [Bayan] dari [Wabarah bin Abdurrahman] dari [Sa'id bin Jubair] mengatakan, [Abdullah bin Umar] menemui kami, kami sangat berharap agar ia menceritakan kepada kami sebuah pembicaraan yang baik. Tiba-tiba ada seorang laki-laki yang mendahului kami menemuinya dan berujar; 'ya Abu Abdurrahman, ceritakanlah kepada kami sebuah cerita tentang peperangan dalam fitnah yang telah Allah firmankan: 'Dan perangilah mereka hingga tak ada lagi fitnah di muka bumi' (QS. Albaqarah; 193). Maka Abdullah bin Umar bertanya; 'Apakah kamu tahu apa fitnah itu, duhai malangnya ibumu kehilangan dirimu, Dahulu Muhammad Shallallahu'alaihiwasallam memerangi orang-orang musyrik dan siapa saja yang memasuki agama mereka (pindah agama) itulah yang dimaksud fitnah, dan fitnah maksudnya bukanlah peperangan kalian terhadap para raja (penguasa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7095</td></tr><tr><td>Arabic No</td><td>7095</td></tr><tr><td>Reference</td><td>Book 92 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘ид ибн Джубайр сказал: «Однажды к нам вышел ‘Абдуллах ибн ‘Умар и мы пожелали, чтобы он рассказал нам какой-нибудь прекрасный хадис. Но тут к нему спешно подошёл некий человек и сказал: “О Абу ‘Абдуррахман! Расскажи нам о сражении во времена смут и искушений, ведь Аллах сказал: “Сражайтесь с ними, пока не прекратится искушение” (Сура «аль-Анфаль», аят 39)”. (‘Абдуллах ибн ‘Умар) сказал: “А знаешь ли ты, что такое смута, да лишится тебя твоя мать?! Поистине, Мухаммад сражался с многобожниками, ибо принятие их религии было смутой, и это не подобно вашему сражению за власть”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7095</td></tr><tr><td>Arabic No</td><td>7095</td></tr><tr><td>Reference</td><td>Book 92 Hadith 46</td></tr></tbody></table></div>
 

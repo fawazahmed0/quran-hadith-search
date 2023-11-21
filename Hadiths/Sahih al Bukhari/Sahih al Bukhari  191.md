@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Yahya:(on the authority of his father) 'Abdullah bin Zaid pour
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Khalid bin 'Abdullah] telah menceritakan kepada kami ['Amru bin Yahya] dari [Bapaknya] dari ['Abdullah bin Zaid], bahwa ia menuangkan air dari gayung ke telapak tangannya lalu mencucinya, atau berkumur-kumur, lalu memasukkan air ke hidung dari satu cedukan telapak tangannya. Dia lakukan ini tiga kali. Kemudian membasuh kedua tangannya sampai ke siku dua kali dua kali. Kemudian mengusap kepalanya dengan tangan dan menariknya (ke belakang kepala) lalu mengembalikannya sekali, lalu membasuh kedua kakinya hingga ke mata kaki. Setelah itu ia berkata, "Begitulah wudlunya Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>191</td></tr><tr><td>Reference</td><td>Book 4 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды совершая омовение) ‘Абдуллах ибн Зейд слил воду из сосуда себе на руки и вымыл их, потом помыл или прополоскал рот, промыл нос из одной пригоршни и сделал это трижды. Потом он дважды омыл руки до локтей, потом протёр руками голову, проведя ими ото лба до затылка, а потом омыл ноги до щиколоток, после чего сказал: «Таково омовение Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>191</td></tr><tr><td>Reference</td><td>Book 4 Hadith 57</td></tr></tbody></table></div>
 

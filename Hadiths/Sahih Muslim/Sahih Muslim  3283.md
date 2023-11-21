@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nafi' reported that 'Abdullah b. Umar (Allah be pleased with them) used to halt 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rumh bin Al Muhajir Al Mishri] telah mengabarkan kepada kami [Laits] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Qutaibah] -lafazh miliknya- ia berkata, Telah menceritakan kepada kami [Laits] dari [Nafi'] ia berkata; [Ibnu Umar] selalu menambatkan kendaraannya di Bahtha' yang bertempat di Dzulhulaifah, yang demikian karena Rasulullah shallallahu 'alaihi wasallam biasa menambatkan kendaraannya di situ dan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3283</td></tr><tr><td>Arabic No</td><td>1257.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 487</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3283</td></tr><tr><td>Arabic No</td><td>1257.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 487</td></tr></tbody></table></div>
 

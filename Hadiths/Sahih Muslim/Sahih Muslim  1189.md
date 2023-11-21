@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubaidullah al-Khaulini reported:'Uthman b. 'Affan listened to the opinion of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id al-Aili] dan [Ahmad bin Isa] keduanya berkata, telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] bahwa [Bukair] telah menceritakan kepadanya bahwa ['Ashim bin Umar bin Qatadah] telah menceritakan kepadanya bahwasanya dia mendengar [Ubaidullah al-Khaulani] menyebutkan bahwa dia mendengar [Utsman bin Affan] dia berujar kepada orang banyak ketika membangun masjid Rasulullah shallallahu'alaihiwasallam., "Sekarang kamu telah banyak. Sesungguhnya aku pernah mendengar Rasulullah shallallahu'alaihiwasallam, bersabda, 'Siapa yang membangun masjid karena Allah -Bukair berkata, 'Seingatku beliau bersabda, 'Dengan maksud mencari wajah Allah'-, niscaya Allah membuatkan rumah di surga untuknya'." Ibnu Isa dalam riwayatnya hadits semisalnya, "Di dalam surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1189</td></tr><tr><td>Arabic No</td><td>533.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Убайдуллаха аль-Хауляни, что, когда люди обсуждали (идею) ‘Усмана ибн ‘Аффана, пожелавшего перестроить мечеть Посланника Аллаха ﷺ, он сказал: «Поистине, вы слишком сильно (порицаете меня), а я слышал, как Посланник Аллаха ﷺ говорил: “Для того, кто построит мечеть Букейр (один из передатчиков) сказал: «И я думаю, что он сказал: “стремясь к лику Аллаха, Аллах построит дом в раю”».А в версии Ибн ‘Исы говорится: «…(для того Аллах возведёт) в Раю подобное (строение)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1189</td></tr><tr><td>Arabic No</td><td>533.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 29</td></tr></tbody></table></div>
 

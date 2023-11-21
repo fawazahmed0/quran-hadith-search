@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Musa said that he came to ‘Umar and asked permission three times saying :A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abdullah bin Dawud] dari [Thalhah bin Yahya] dari [Abu Burdah] dari [Abu Musa] Bahwasanya ia pernah mendatangi Umar dan meminta izin kepadanya hingga tiga kali. Ia mengatakan, "Abu Musa meminta izin, Al Asy'ari meminta izin, Abdullah bin Qais meminta izin!" namun ia tidak mendapatkan izin hingga ia pun kembali pulang. Umar lalu mengutus seseorang untuk memanggilnya, Umar bertanya, "Apa yang membuatmu kembali pulang?" Abu Musa menjawab, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Hendaklah salah seorang dari kalian meminta izin (untuk masuk) tiga kali, jika diizinkan maka silahkan masuk, jika tidak hendaklah ia kembali." Umar berkata, "Berilah aku satu bukti dalam masalah ini." Abu Musa kemudian pergi, lalu ia kembali menemui Umar seraya berkata, "Ini Ubay." [Ubay] lalu berkata, "Wahai Umar, janganlah kamu menjadi beban bagi sahabat Rasulullah shallallahu 'alaihi wasallam!" Umar menjawab, "Aku tidak menjadi beban bagi sahabat Rasulullah shallallahu 'alaihi wasallam." Telah menceritakan kepada kami [Yahya bin Habib] berkata, telah menceritakan kepada kami [Rauh] berkata, telah menceritakan kepada kami [Ibnu Juraij] ia berkata; telah mengabarkan kepadaku [Atha'] dari [Ubaid bin Umair] berkata, "Abu Musa pernah meminta izin kepada Umar…maka ia menceritakan dengan kisah yang sama. Dalam hadits tersebut ia menyebutkan, "Abu Musa lalu pergi bersama dengan [Abu Sa'id] untuk menjadi saksi. Umar lalu berkata, "Apakah perkara yang datang dari Rasulullah shallallahu 'alaihi wasallam ini tersembunyi dariku? Sungguh, jual beli di pasar telah membuat aku lupa. Maka ucapkanlah salam terserah kamu dan jangan minta izin." Telah menceritakan kepada kami [Zaid bin Akhzam] berkata, telah menceritakan kepada kami [Abdul Qaahir bin Syu'aib] berkata, telah menceritakan kepada kami [Hisyam] dari [Humaid bin Hilal] dari [Abu Burdah bin Abu Musa] dari [Bapaknya] dengan kisah yang sama. Ia (perawi) berkata, "Umar lalu berkata kepada Abu Musa, "Aku tidak menuduhmu, hanya saja tentang hadits Rasulullah shallallahu 'alaihi wasallam ini sangat tegas (yakni dalam meriwayatkannya, agar tidak terjadi pemalsuan hadits)." Telah menceritakan kepada kami Abdullah bin Maslamah dari Malik dari Rabi'ah bin Abu 'Abdurrahman dari banyak ulama mereka, dalam masalah tersebut Umar berkata kepada Abu Musa, "Aku tidak menuduh kamu, hanya saja aku kawatir akan banyak orang-orang yang berbicara atas nama Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2154)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5181</td></tr><tr><td>Arabic No</td><td>5181</td></tr><tr><td>Reference</td><td>Book 43 Hadith 409</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2154)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5181</td></tr><tr><td>Arabic No</td><td>5181</td></tr><tr><td>Reference</td><td>Book 43 Hadith 409</td></tr></tbody></table></div>
 

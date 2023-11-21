@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma bint Abi Bakr:I saw Zaid bin Amr bin Nufail standing with his back
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3828</td></tr><tr><td>Arabic No</td><td>3828</td></tr><tr><td>Reference</td><td>Book 63 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Аби Бакр, да будет доволен Аллах ею и её отцом, сказала: «Я видела, как Зейд ибн ‘Амр ибн Нуфейль стоял, прислонившись спиной к Каабе, и говорил: “О курайшиты! Клянусь Аллахом, никто из вас не исповедует религию Ибрахима, кроме меня”. Он спасал жизни новорождённых девочек: если кто-то хотел убить свою дочь, он говорил ему: “Не убивай её, я беру на себя её обеспечение”. Он брал её к себе, и когда она вырастала, он говорил её отцу: “Теперь, если хочешь я верну тебе её, или я сам буду продолжать обеспечивать её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3828</td></tr><tr><td>Arabic No</td><td>3828</td></tr><tr><td>Reference</td><td>Book 63 Hadith 53</td></tr></tbody></table></div>
 

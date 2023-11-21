@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:When it was the day of Al-Ahzab (i.e. the clans) and Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Utsman] telah menceritakan kepada kami [Syuraih bin Maslamah] dia berkata, telah menceritakan kepadaku [Ibrahim bin Yusuf] dia berkata, telah menceritakan kepadaku [Ayahku] dari [Abu Ishaq] dia berkata, aku mendengar [Al Barra' bin Azib] bercerita, dia berkata, "Pada waktu perang Ahzab atau Khandaq, aku melihat Rasulullah shallallahu 'alaihi wasallam mengangkat tanah parit, sehingga debu-debu itu menutupi kulit beliau dari (pandangan) ku, saat itu beliau bersenandung dengan bait-bait syair yang pernah diucapkan oleh Ibnu Rawahah, sambil mengangkat tanah beliau bersabda: 'Ya Allah, seandainya bukan karena-Mu, maka kami tidak akan mendapatkan petunjuk, tidak akan bersedekah dan tidak akan melakukan shalat, maka turunkanlah ketenangan kepada kami, serta kokohkan kaki-kaki kami apabila bertemu dengan musuh. Sesungguhnya orang-orang musyrik telah berlaku semena-mena kepada kami, apabila mereka menghendaki fitnah, maka kami menolaknya.' Beliau menyenandungkan itu sambil mengeraskan suara diakhir baitnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4106</td></tr><tr><td>Arabic No</td><td>4106</td></tr><tr><td>Reference</td><td>Book 64 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся, что аль-Бара (ибн ‘Азиб), да будет доволен им Аллах, рассказывал: «Во время нашествия союзных племён и в битве у рва я видел, как Посланник Аллаха ﷺ, носил землю из рва, пока его густо поросший волосами живот не покрылся пылью. И я слышал, как, перенося землю, он декламировал слова Ибн Равахи:\n“О Аллах, если бы не Ты, не встали бы мы на прямой путь,не давали бы милостыню и не молились!Ниспошли же нам спокойствиеи укрепи стопы наши, если встретим мы (врагов).Поистине, враги напали на нас,Но, если захотят они смутить нас, мы откажемся!“ —\nИ последние слова он произносил протяжно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4106</td></tr><tr><td>Arabic No</td><td>4106</td></tr><tr><td>Reference</td><td>Book 64 Hadith 150</td></tr></tbody></table></div>
 

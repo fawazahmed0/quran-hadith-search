@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:I prayed along with Allah's Messenger (ﷺ) two rak'ahs befor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan ['Ubaidullah bin Said] keduanya berkata; telah menceritakan kepada kami [Yahya yaitu Ibnu Said] dari ['Ubaidullah], katanya; telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] katanya; "Aku pernah shalat bersama Rasulullah shallallahu 'alaihi wasallam dua raka'at sebelum Zhuhur dan dua raka'at setelahnya, dan dua raka'at setelah maghrib dan dua raka'at setelah isya', dan dua raka'at setelah jumat, adapun (sunnah) maghrib dan isya' dan jumat, aku shalat bersama Nabi shallallahu 'alaihi wasallam di rumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1698</td></tr><tr><td>Arabic No</td><td>729</td></tr><tr><td>Reference</td><td>Book 6 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Вместе с Посланником Аллаха ﷺ мне случалось совершать (молитву в) два рак‘ата до (обязательной) полуденной молитвы и (молитву в) два рак‘ата после неё, а также (молитву в) два рак‘ата после закатной молитвы, и (молитву в) два рак‘ата после вечерней молитвы, и (молитву в) два рак‘ата после пятничной молитвы. Что касается (добровольных молитв после обязательных) закатных, вечерних и пятничных молитв, то я совершал их вместе с Пророком ﷺ у него дома»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1698</td></tr><tr><td>Arabic No</td><td>729</td></tr><tr><td>Reference</td><td>Book 6 Hadith 128</td></tr></tbody></table></div>
 

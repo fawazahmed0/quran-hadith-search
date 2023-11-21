@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Alqama:I went to Sham (and asked. "Who is here?"), The people said, "Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3287</td></tr><tr><td>Arabic No</td><td>3287</td></tr><tr><td>Reference</td><td>Book 59 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькама, сказал: «Прибыв в Шам я спросил: “Кто здесь есть?” (Мне) ответили: “Абу-д-Дарда”. (Потом) он спросил: “А разве нет среди вас того, кого Аллах защитил (от шайтана) по просьбе Своего Пророка ﷺ?” — имея в виду ‘Аммара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3287</td></tr><tr><td>Arabic No</td><td>3287</td></tr><tr><td>Reference</td><td>Book 59 Hadith 96</td></tr></tbody></table></div>
 

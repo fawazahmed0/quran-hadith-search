@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), un jour que j'étais chez le Prophète
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Muhammad bin Ala'] dia berkata, telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abdullah] dari [Abu Burdah] dari [Abu Musa] dia berkata, "Saya dan dua orang anak pamanku menemui Nabi shallallahu 'alaihi wasallam, salah seorang dari keduanya lalu berkata, "Wahai Rasulullah, angkatlah kami sebagai pemimpin atas sebagian wilayah yang telah diberikan Allah Azza Wa Jalla kepadamu." Dan seorang lagi mengucapkan perkataan serupa, maka beliau bersabda: "Demi Allah, sesungguhnya kami tidak akan memberikan jabatan bagi orang yang meminta dan yang rakus terhadapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4717</td></tr><tr><td>Arabic No</td><td>1733.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4717</td></tr><tr><td>Arabic No</td><td>1733.03</td></tr><tr><td>Reference</td><td>Book 33 Hadith 17</td></tr></tbody></table></div>
 

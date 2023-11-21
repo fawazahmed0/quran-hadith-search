@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:We used to observe (Jumu'a) prayer with the Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Hasan bin Ayyasy] dari [Ja'far bin Muhammad] dari [bapaknya] dari [Jabir bin Abdullah] ia berkata; Kami pernah shalat (Jum'at) bersama Rasulullah shallallahu 'alaihi wasallam, kemudian kami pulang dan mengistirahatkan ternak kami. Hasan berkata; Saya bertanya kepada Ja'far, "Kapankah waktunya?" ia menjawab, "Saat tergelincirnya matahari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1989</td></tr><tr><td>Arabic No</td><td>858.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «Мы совершали (пятничную) молитву вместе с Посланником Аллаха ﷺ, а затем возвращались (домой) и давали отдохнуть нашим верблюдам (либо давали им постись)».Хасан (один из передатчиков) сказал: «Я спросил Джа‘фара: “В какое время была эта (молитва)?” Он ответил: “(Когда) солнце начинало клонится (к закату)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1989</td></tr><tr><td>Arabic No</td><td>858.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 39</td></tr></tbody></table></div>
 

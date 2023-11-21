@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amra bint 'Abdur-Rahman:That 'Aisha the wife of the Prophet (ﷺ) told
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Abdullah bin Abu Bakar] dari ['Amrah binti 'Abdurrahman] bahwa ['Aisyah radliallahu 'anha], isteri Nabi shallallahu 'alaihi wasallam mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam pada suatu hari berada bersamanya dan saat itu dia mendengar suatu suara seorang laki-laki yang meminta ijin di rumah Hafshah. 'Aisyah radliallahu 'anha berkata: "Lalu aku katakan kepada Rasulullah shallallahu 'alaihi wasallam: "Ada seorang laki-laki minta izin masuk di rumah baginda?" 'Aisyah berkata: "Maka Rasulullah shallallahu 'alaihi wasallam berkata: "Aku mengenal bahwa laki-laki itu adalah menjadi paman Hafshah karena sesusuan". Maka 'Aisyah radliallahu 'anha berkata: "Seandainya si fulan masih hidup yang dia menjadi pamannya karena sesusuan berarti boleh masuk menemuiku?" Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya benar, karena satu susuan menjadikan sesuatu diharamkan seperti apa yang diharamkan karena (kelahiran) keturunan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2646</td></tr><tr><td>Arabic No</td><td>2646</td></tr><tr><td>Reference</td><td>Book 52 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, жена Пророка ﷺ сказала, что (однажды, когда) у неё находился Посланник Аллаха ﷺ, она услышала голос мужчины, просившего разрешения войти в дом Хафсы. ‘Аиша сказала: «Я сказала: “О Посланник Аллаха, какой-то человек просит разрешения войти в твой дом”. Посланник Аллаха ﷺ сказал: “Я думаю, что это такой-то”, (и назвал имя) молочного дяди Хафсы. ‘Аиша спросила: “А если бы был жив такой-то, — и назвала имя своего молочного дяди, — мог бы он зайти ко мне?” И Посланник Аллаха ﷺ ответил: “Да, ведь молочное родство делает запретным то же, что и кровное”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2646</td></tr><tr><td>Arabic No</td><td>2646</td></tr><tr><td>Reference</td><td>Book 52 Hadith 10</td></tr></tbody></table></div>
 

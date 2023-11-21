@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:'Umar asked the Prophet (ﷺ) "Can anyone of us sleep while h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] dari ['Abdullah] berkata, "'Umar minta fatwa kepada Nabi shallallahu 'alaihi wasallam, "Apakah salah seorang dari kami boleh tidur saat junub?" Beliau menjawab: "Ya. Jika ia berwudlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>289</td></tr><tr><td>Arabic No</td><td>289</td></tr><tr><td>Reference</td><td>Book 5 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абдуллах (ибн ‘Умар, да будет доволен Аллах ими обоими,) сказал:«(Однажды) ‘Умар (ибн аль-Хаттаб, да будет доволен им Аллах,) обратился к Пророку ﷺ с просьбой вынести заключение: “Можно ли кому-нибудь из нас засыпать в состоянии полового осквернения?” Он ответил: “Да, если совершит малое омовение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>289</td></tr><tr><td>Arabic No</td><td>289</td></tr><tr><td>Reference</td><td>Book 5 Hadith 41</td></tr></tbody></table></div>
 

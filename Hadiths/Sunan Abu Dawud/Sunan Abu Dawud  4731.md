@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuRazin al-Uqayli: I asked: Messenger of Allah! will each one of us se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Syu'bah] secara makna, dari [Ya'la bin Atha] dari [Waki']. [Musa] ibnu 'Udus menyebutkan dari [Abu Razin]. Musa Al Uqaili berkata, "Aku bertanya, "Wahai Rasulullah, apakah setiap kami nanti dapat melihat Rabbnya?" -Ibnu Mu'adz menyebutkan (dalam riwayatnya) - "tanpa adanya penghalang pada hari kiamat? Lalu apa tanda-tandanya yang ada pada ciptaan-Nya?" beliau menjawab: "Wahai Abu Razin, bukankah setiap kalian bisa melihat rembulan?" -Ibnu Mu'adz menyebutkan (dalam riwayatnya) -, "pada malam purnama tanpa adanya penghalang?" -kemudian keduanya sepakat pada lafadz- Aku menjawab, "Tentu." Beliau bersabda: "Maka Allah lebih agung (dari itu)." -Ibnu Mu'adz menyebutkan (dalam riwayatnya), "Beliau bersabda: "(Rembulan) itu hanyalah makhluk dari sekian makhluk-Nya, dan Allah lebih agung dari itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4731</td></tr><tr><td>Arabic No</td><td>4731</td></tr><tr><td>Reference</td><td>Book 42 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Разина: «Я сказал: “О Посланник Аллаха, каждый из нас увидит своего Господа (или: увидит так, чтобы ему ничего не мешало в Судный день, и есть ли среди Его творений знамение, подтверждающее это)?” Посланник Аллаха ﷺ ответил: “О Абу Разин, разве не каждый из вас видит луну (или: увидит в ночь полнолуния так, чтобы ему ничего не мешало)?” Я сказал: “Конечно, каждый”. Посланник Аллаха ﷺ сказал: “А Аллах гораздо более велик (или: а она лишь одно из Его творений. А Аллах много величественнее)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4731</td></tr><tr><td>Arabic No</td><td>4731</td></tr><tr><td>Reference</td><td>Book 42 Hadith 136</td></tr></tbody></table></div>
 

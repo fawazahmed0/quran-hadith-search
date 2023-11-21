@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "None is killed unjustly, but the fir
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Al A'masy] dari ['Abdullah bin Murrah] dari [Masruq] dari [Abdullah] mengatakan, "Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang dibantai secara zhalim, selain anak Adam pertama turut menanggung dosanya." Adakalanya Sufyan menyebutkan dengan redaksi, "Menanggung dosa darah yang ditumpahkan, sebab dialah yang pertama-tama melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7321</td></tr><tr><td>Arabic No</td><td>7321</td></tr><tr><td>Reference</td><td>Book 96 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха (ибн Мас‘уда), да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кого бы ни убили несправедливо, на первого сына Адама обязательно ляжет часть (бремени греха) (возможно, Суфьян (ибн ‘Уейна) сказал: “за пролитую кровь”), ибо начало убийствам положил он»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7321</td></tr><tr><td>Arabic No</td><td>7321</td></tr><tr><td>Reference</td><td>Book 96 Hadith 51</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jubayr Ibn Mut'im (que Dieu l'agrée), l'Envoyé de Dieu (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ishaq bin Ibrahim] dan [Ibnu Abu 'Umar] dan lafazh ini milik Zuhair. [Ishaq] berkata; Telah mengabarkan kepada kami Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dia mendengar [Muhammad bin Jubair bin Muth'im] dari [Bapaknya] bahwa Nabi shallallahu 'alaihi wasallam bersabda: Sesungguhnya saya adalah Muhammad, saya adalah Ahmad, saya adalah al-Mahi yang maknanya Allah menghapus kekufuran denganku, saya adalah al-Hasyir yang maknanya orang-orang akan dikumpulkan mengikuti kakiku, dan saya adalah al-'Aqib yang maknanya tiada nabi sesudahku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6105</td></tr><tr><td>Arabic No</td><td>2354.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6105</td></tr><tr><td>Arabic No</td><td>2354.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 163</td></tr></tbody></table></div>
 

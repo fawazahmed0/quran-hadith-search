@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hajjaj bin Asy Sya'ir] telah menceritakan kepada kami ['Abdullah bin 'Amr Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Al Husain] telah menceritakan kepadaku [Ibnu Buraidah] dari [Yahya bin Ya'mar] dari [Ibnu 'Abbas] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah berdoa: "ALLAHUMMA LAKA ASLAMTU WABIKA AAMANTU, WA'ALAIKA TAWAKKALTU WAILAIKA ANABTU WABIKA KHASHAMTU, INNII A'UUDZU BI'IZZATIKA LAA-ILAAHA-ILLAA ANTA ANTUDHILLANII, ANTAL HAYYUL LADZII LAA YAMUUTU WAL JINNU WAL INSU YAMUUTUNNA "Ya Allah, sesunguhnya hanya kepada-Mu lah aku berserah diri, hanya kepada-Mu lah aku beriman, hanya kepada-Mu lah aku bertawakal, hanya kepada-Mu lah aku kembali, dan hanya karena-Mu lah aku memusuhi musuh-musuh-Mu. Ya Allah, sesungguhnya aku berlindung kepada keagungan-Mu yang tiada Tuhan selain Engkau- dari Engkau menyesatkanku. Engkaulah yang hidup dan tidak akan pernah mati, sedangkan jin dan manusia pasti akan mati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6899</td></tr><tr><td>Arabic No</td><td>2717</td></tr><tr><td>Reference</td><td>Book 48 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6899</td></tr><tr><td>Arabic No</td><td>2717</td></tr><tr><td>Reference</td><td>Book 48 Hadith 92</td></tr></tbody></table></div>
 

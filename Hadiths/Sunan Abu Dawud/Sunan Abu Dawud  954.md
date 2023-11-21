@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Abdullah bin Yazid] dan [Abu An Nadlr] dari [Abu Salamah bin Abdurrahman] dari [Aisyah istri Nabi shallallahu 'alaihi wasallam] bahwa Nabi shallallahu 'alaihi wasallam shalat dengan duduk, beliau membaca sambil duduk. dan apabila bacaan beliau tinggal sekitar tiga puluh atau empat puluh ayat, maka beliau berdiri dan membacanya sambil berdiri, kemudian beliau ruku' lalu sujud, beliau mengerjakan seperti itu pada raka'at yang kedua." Abu Daud mengatakan; "Hadits ini juga di riwayatkan oleh ['Alqamah bin Waqash] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1119) Sahih Muslim (731)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>954</td></tr><tr><td>Arabic No</td><td>954</td></tr><tr><td>Reference</td><td>Book 2 Hadith 565</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, передаёт, что Пророк ﷺ совершал молитву сидя и читал аяты Корана сидя, а когда от его обычного чтения оставалось тридцать или сорок аятов, он вставал и дочитывал их стоя, после чего совершал поясной и земные поклоны и проделывал всё то же самое во втором рак‘ате.‘Аиша, да будет доволен ею Аллах, передаёт от Пророка ﷺ подобный хадис
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1119) Sahih Muslim (731)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>954</td></tr><tr><td>Arabic No</td><td>954</td></tr><tr><td>Reference</td><td>Book 2 Hadith 565</td></tr></tbody></table></div>
 

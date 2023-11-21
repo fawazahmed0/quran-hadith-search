@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), évoquant le mois du ramadan, l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] radliallahu 'anhumaa, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhya hitungan bulan itu adalah dua puluh sembilan hari, maka janganlah kalian berpuasa hingga kalian melihat Hilal, dan jangan pula berbuka hingga kalian melihatnya terbit kembali. Dan bila hilal itu tertutup dari pandangan kalian, maka hitunglah (jumlah harinya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2502</td></tr><tr><td>Arabic No</td><td>1080.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2502</td></tr><tr><td>Arabic No</td><td>1080.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 8</td></tr></tbody></table></div>
 

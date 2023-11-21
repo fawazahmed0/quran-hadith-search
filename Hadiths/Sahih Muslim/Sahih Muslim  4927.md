@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Omar Ibn Al-Khattâb (que Dieu l'agrée), le Prophète (paix et béné
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] telah menceritakan kepada kami [Malik] dari [Yahya bin Sa'id] dari [Muhammad bin Ibrahim] dari ['Alqamah bin Waqash] dari [Umar bin Khattab] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya amalan itu tergantung dengan niatnya, dan sesungguhnya ia akan mendapatkan sesuatu yang diniatkannya, barangsiapa hijrahnya untuk Allah dan Rasul-Nya, maka hijrahnya untuk Allah dan Rasul-Nya, dan barangsiapa hijrahnya untuk memperoleh dunia atau seorang wanita yang akan dinikahinya, maka hijrahnya sesuai dengan apa yang diniatkannya." Dan telah menceritakan kepada kami [Muhammad bin Rumh bin Muhajir] telah mengabarkan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Ar Rabi' Al Ataki] telah menceritakan kepada kami [Hammad bin Zaid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] -yaitu Ats Tsaqafi-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abu Khalid Al Ahmar Sulaiman bin Hayyan]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Hafsh] -yaitu Ibnu Ghiyats- dan [Zaid bin Harun]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al 'Ala Al Hamdani] telah menceritakan kepada kami [Ibnu Mubarak]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] semuanya dari [Yahya bin Sa'id] dengan sanad makna seperti riwayat Malik. Dan dalam haditsnya Sufyan disebutkan, 'Saya mendengar Umar bin Khattab di atas mimbar mengabarkan dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>1907.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 222</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>1907.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 222</td></tr></tbody></table></div>
 

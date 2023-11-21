@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jarir ibn Abdullah: The Messenger of Allah (ﷺ) sent an expedition to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sarri], telah menceritakan kepada kami [Abu Mu'awiyah], dari [Isma'il], dari [Qais] dari [Jarir bin Abdullah], ia berkata; Rasulullah shallallahu 'alaihi wasallam telah mengirim kami dalam sebuah kesatuan militer menuju Khats'am, kemudian orang-orang diantara mereka berlindung dengan bersujud, kemudian cepat terjadi pembunuhan diantara mereka. Lalu hal tersebut sampai kepada Nabi shallallahu 'alaihi wasallam, dan beliau memerintahkan agar mereka diberi setengah diyah. Dan beliau berkata: "Aku berlepas diri dari setiap muslim yang bermukim di antara orang-orang musyrik." Mereka bertanya; kenapa wahai Rasulullah? Beliau berkata: kedua api peperangan mereka saling melihat. Abu Daud berkata; hadits tersebut diriwayatkan oleh Husyaim dan Ma'mar, Khalid Al Wasithi, serta beberapa orang-orang, mereka tidak menyebutkan Jarir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2645</td></tr><tr><td>Arabic No</td><td>2645</td></tr><tr><td>Reference</td><td>Book 15 Hadith 169</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2645</td></tr><tr><td>Arabic No</td><td>2645</td></tr><tr><td>Reference</td><td>Book 15 Hadith 169</td></tr></tbody></table></div>
 

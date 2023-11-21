@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas: The Prophet (ﷺ) said, "Whoever possesses the following three qu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Abdul Wahhab Ats Tsaqafi] berkata, telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tiga perkara yang apabila ada pada diri seseorang, ia akan mendapatkan manisnya iman: Dijadikannya Allah dan Rasul-Nya lebih dicintainya dari selain keduanya. Jika ia mencintai seseorang, dia tidak mencintainya kecuali karena Allah. Dan dia benci kembali kepada kekufuran seperti dia benci bila dilempar ke neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>16</td></tr><tr><td>Arabic No</td><td>16</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «Сладость веры ощутит тот, кто отличается тремя (качествами): любит Аллаха и посланника Его больше, чем всё остальное, любит (того или иного) человека только ради Аллаха и не желает возвращаться к неверию так же, как не желает быть ввергнутым в огонь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>16</td></tr><tr><td>Arabic No</td><td>16</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
 

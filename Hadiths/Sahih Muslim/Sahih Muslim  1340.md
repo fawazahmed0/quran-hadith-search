@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Warrad, the freed slave of Mughira b. Shu'ba, reported:Mughira b. Shu'ba wrote t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1340</td></tr><tr><td>Arabic No</td><td>593.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но с другим иснадом и в нём нет слов: «… и Он всё может! /ва хува ‘аля кулли шайъин кадир!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1340</td></tr><tr><td>Arabic No</td><td>593.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 177</td></tr></tbody></table></div>
 

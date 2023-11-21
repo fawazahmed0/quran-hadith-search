@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Shalih Mahbub bin Musa], telah mengabarkan kepada kami [Abu Ishaq Al Fazari], dari ['Ashim bin Sulaiman], dari [Muwarriq Al 'Ijli], telah menceritakan kepadaku [Abdullah bin Ja'far], ia berkata; Nabi shallallahu 'alaihi wasallam apabila datang dari sebuah perjalanan beliau disambut bersama kami, siapa diantara kami yang disambut terlebih dahulu maka beliau meletakkannya di depan beliau. Kemudian beliau disambut bersamaku, lalu beliau membawaku di hadapannya, kemudian beliau disambut bersama Hasan, atau Husain lalu beliau menempatkannya di belakang beliau. Lalu kami memasuki Madinah dalam keadaan seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2428)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2566</td></tr><tr><td>Arabic No</td><td>2566</td></tr><tr><td>Reference</td><td>Book 15 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2428)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2566</td></tr><tr><td>Arabic No</td><td>2566</td></tr><tr><td>Reference</td><td>Book 15 Hadith 90</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Abou Hourayra (que Dieu l'agrée), Un homme vint trouver le Prophète (pai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ibnu Numair] semuanya dari [Ibnu Uyainah] - [Yahya] berkata- telah mengabarkan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Humaid bin Abdurrahman] dari [Abu Hurairah] radliallahu 'anhu, ia berkata; Seorang laki-laki datang menghadap Nabi shallallahu 'alaihi wasallam dan berkata, "Celaka diriku wahai Rasulullah." Beliau bertanya: "Apa yang telah mencelakakanmu?" Laki-laki itu menjawab, "Saya telah menggauli isteriku di siang hari pada bulan Ramadlan." Beliau bertanya: "Sanggupkah kamu untuk memerdekakan budak?" Ia menjawab, "Tidak." Beliau bertanya lagi: "Sanggupkan kamu berpuasa dua bulan berturut-turut?" "Tidak." jawabnya, Beliau bertanya lagi: "Sanggupkah kamu memberi makan kepada enam puluh orang miskin?" Ia menjawab, "Tidak." Abu Hurairah berkata; Kemudian laki-laki itu pun duduk, sementara Nabi shallallahu 'alaihi wasallam diberi satu keranjang berisi kurma. Maka beliau pun bersabda: "Bersedekahlah dengan kurma ini." Laki-laki itu pun berkata, "Adakah orang yang lebih fakir dari kami. Karena tidak ada penduduk di sekitar sini yang lebih membutuhkannya daripada kami." Mendengar ucapan itu, Nabi shallallahu 'alaihi wasallam tertawa hingga gigi taringnya terlihat. Akhirnya beliau bersabda: "Pulanglah dan berilah makan keluargamu dengannya." Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Muhammad bin Muslim Az Zuhri] dengan isnad ini sebagaimana riwayat Ibnu Uyainah. Ia mengatakan; "BI'ARAQ FIIHI TAMR (keranjang/takaran berisi kurma)." Namun ia tidak menyebutkan ungkapan; "Maka Nabi shallallahu 'alaihi wasallam pun tertawa hingga gigi taringnya terlihat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2595</td></tr><tr><td>Arabic No</td><td>1111.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2595</td></tr><tr><td>Arabic No</td><td>1111.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 101</td></tr></tbody></table></div>
 

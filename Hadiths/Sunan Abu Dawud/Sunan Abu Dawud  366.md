@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Habibah: Mu'awiyah ibn AbuSufyan asked his sister Umm Habibah, the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Hammad Al Mishri] telah mengabarkan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Suwaid bin Qais] dari [Mu'awiyah bin Hudaij] dari [Mu'awiyah bin Abu Sufyan] bahwasanya dia pernah bertanya kepada saudara perempuannya, yaitu Ummu Habibah, istri Nabi shallallahu 'alaihi wasallam; Apakah Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat dengan memakai pakaian yang dipakai sewaktu beliau berhubungan dengannya? Maka [Ummu Habibah] menjawab; Ya, kalau beliau tidak melihat ada kotoran (najisnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>366</td></tr><tr><td>Arabic No</td><td>366</td></tr><tr><td>Reference</td><td>Book 1 Hadith 366</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Му‘авии ибн Абу Суфйана о том, что он спросил у своей сестры Умм Хабибы, жены Пророка ﷺ: «Молился ли Посланник Аллаха ﷺ в одежде, в которой он совершал половой акт?» Она сказала: «Да, если он не находил на ней нечистоты»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>366</td></tr><tr><td>Arabic No</td><td>366</td></tr><tr><td>Reference</td><td>Book 1 Hadith 366</td></tr></tbody></table></div>
 

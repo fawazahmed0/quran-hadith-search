@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) had sent me from Jam' (i.e. Al-Muzda
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Rasulullah Shallallahu'alaihiwasallam mengutusku dari Jama' pada malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ отправил меня из Муздалифы ночью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
 

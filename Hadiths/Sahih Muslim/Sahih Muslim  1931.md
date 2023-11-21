@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that 'Umar misconstrued the fact that the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Abdullah bin Thawus] dari [bapaknya] dari [Aisyah] bahwa ia berkata; Umar telah keliru, hanyasanya Rasulullah shallallahu 'alaihi wasallam melarang melaksanakan shalat pada disaat matahari terbit dan disaat terbenam adalah jika dikerjakan dengan sengaja dan dengan anggapan bahwa hal itu lebih baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>833.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 359</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «‘Умар ошибся, (запретив молится после послеполуденной молитвы), Посланник Аллаха ﷺ лишь запретил стремится молится во время восхода солнца и во время его захода»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>833.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 359</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Whenever Allah's Messenger (ﷺ) became ill, he used to recite th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hibban] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Yunus] dari [Ibnu Syihab] dia berkata; Telah mengabarkan kepadaku [Urwah] bahwa [Aisyah radliallahu 'anha] mengabarkan kepadanya; Apabila Rasulullah shallallahu 'alaihi wasallam sakit, beliau tiupkan pada dirinya surat-surat mu'awwidzaat dan beliau usapkan dengan tangannya. Maka tatkala beliau sakit yang menyebabkan beliau meninggal, kutiupkan pula kepadanya surat-surat Mu'awwidzat dan kusapukan tangannya ke tubuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4439</td></tr><tr><td>Arabic No</td><td>4439</td></tr><tr><td>Reference</td><td>Book 64 Hadith 460</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Посланник Аллаха ﷺ болел, он читал “аль-му‘аввизат”, сплевывал себе на (ладони) и проводил по своему телу руками, когда же он заболел той болезнью, от которой умер, я (тоже) стала сплевывать на его (ладони), читая “аль-му‘аввизат”, как это делал он, и я проводила рукой Пророка ﷺ по его телу (, взяв его руку в свою)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4439</td></tr><tr><td>Arabic No</td><td>4439</td></tr><tr><td>Reference</td><td>Book 64 Hadith 460</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:It is as if I am just looking at the glitter of scent in the par
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Al Hakam] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anhu] berkata,: "Seakan aku melihat kilauan wewangian dari rambut Nabi shallallahu 'alaihi wasallam saat Beliau sedang berihram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 5 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «У меня до сих пор стоит перед глазами блеск благовоний на проборе Пророка ﷺ надевшего ихрам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 5 Hadith 24</td></tr></tbody></table></div>
 

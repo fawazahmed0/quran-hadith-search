@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin 'Umar and Abu Mas'ud:Allah's Messenger (ﷺ) pointed with his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Isma'il] berkata telah bercerita kepadaku [Qais] dari ['Uqbah bin 'Amru Abu Mas'ud] berkata; "Rasulullah shallallahu 'alaihi wasallam menunjuk dengan tangan Beliau ke arah Al Yaman sambil berkata: "Keimanan itu ada pada orang Yaman di arah sana, dan kekerasan (tabi'at kasar) dan kerasnya hati terdapat pada diri orang-orang yang mengembala dan pemilik unta, sebagai dasar tabi'at orang yang suka mengikuti di belakang ekor unta, yaitu ditempat dua tanduk setan muncul, pada kabilah Rabi'ah dan Mudlar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3302</td></tr><tr><td>Arabic No</td><td>3302</td></tr><tr><td>Reference</td><td>Book 59 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба бин ‘Амр Абу Мас‘уд, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ указал рукой в сторону Йемена и сказал: “Вера находится там, в Йемене, что же касается чёрствости и жестокосердия, то (эти качества) присущи бедуинам, занятым своими верблюдами”, (после чего Пророк ﷺ указал рукой на восток и сказал: “И эти качества следует искать) там, откуда появляются два края головы шайтана(, а именно — в племенах) Раби‘а и мудар”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3302</td></tr><tr><td>Arabic No</td><td>3302</td></tr><tr><td>Reference</td><td>Book 59 Hadith 110</td></tr></tbody></table></div>
 

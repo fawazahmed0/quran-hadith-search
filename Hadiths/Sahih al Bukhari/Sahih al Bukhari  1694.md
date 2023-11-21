@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama and Marwan:The Prophet (ﷺ) set out from Medina
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari ['Urwah bin Az Zubair] dari [Al Miswar bin Makhramah] dan [Marwan] keduanya berkata: "Nabi Shallallahu'alaihiwasallam berangkat saat perjanjian Al Hudaibiyah dari Madinah bersama sekitar seribu orang sahabat Beliau hingga ketika sampai di Dzul Hulaifah, Nabi Shallallahu'alaihiwasallam mengikatnya dan menandai hewan qurban Beliau, lalu berihram untuk 'umrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Мисвара бин Махрама и Марвана, да будет доволен Аллах ими обоими, что Пророк ﷺ выехал из Медины в сопровождении более тысячи своих сподвижников, а когда они достигли Зуль-Хулейфы, Пророк ﷺ обвязал шеи своему скоту верёвками и пометил его, после чего вошёл в состояние ихрама для совершения умры
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
 

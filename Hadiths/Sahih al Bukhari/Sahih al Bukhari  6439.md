@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "If Adam's son had a valle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya anak Adam memiliki sebukit emas, niscaya ia akan mengharapkan dua bukit emas lagi, dan tidaklah mulutnya dipenuhi melainkan dengan tanah, dan Allah akan menerima taubat siapa yang bertaubat." [Abu Walid] mengatakan kepada kami; telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] dari [Ubay] dia berkata; 'Kami berpendapat hal ini dari ayat Al Qur'an, hingga turun surat 'Al Haakumut takaatsur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6439</td></tr><tr><td>Arabic No</td><td>6439</td></tr><tr><td>Reference</td><td>Book 81 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик сообщил, что Посланник Аллаха (ﷺ) сказал: «Если бы у сына Адама была долина, полная золота, то он пожелал бы иметь две долины, ибо ничто не наполняет его рот, кроме земли. И Аллах принимает покаяние того, кто раскалился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6439</td></tr><tr><td>Arabic No</td><td>6439</td></tr><tr><td>Reference</td><td>Book 81 Hadith 28</td></tr></tbody></table></div>
 

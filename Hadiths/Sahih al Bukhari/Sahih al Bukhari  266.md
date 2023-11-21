@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna bint Al-Harith:I placed water for the bath of Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Abu 'Awanah] telah menceritakan kepada kami [Al A'masy] dari [Salim bin Abu Al Ja'di] dari [Kuraib] sahaya Ibnu 'Abbas dari [Ibnu 'Abbas] radliallahu 'anhu dari [Maimunah binti Al Harits radliallahu 'anhu] berkata,: "Aku menyediakan air untuk Rasulullah shallallahu 'alaihi wasallam untuk mandi, dan aku menutupinya. Maka Beliau menuangkan air dengan telapak tangan kanannya lalu mencuci keduanya satu atau dua kali. Lalu menuangkan air dengan telapak tangan kanannya ke atas telapak tangan kirinya kemudian mencuci kemaluannya lalu menyentuhkan tangannya ke tanah. Kemudian berkumur-kumur dan memasukkan air ke hidung. Kemudian membasuh mukanya dan kedua tangannya dan membasuh kepalanya tiga kali kemudian mengguyur seluruh badannya. Kemudian di akhirnya Beliau bergeser dari posisi semula lalu mencuci kedua telapak kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>266</td></tr><tr><td>Arabic No</td><td>266</td></tr><tr><td>Reference</td><td>Book 5 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса о том, что (жена Пророка ﷺ) Маймуна бинт аль-Харис, да будет доволен ею Аллах, сказала: «(Однажды) я поставила для Посланника Аллаха ﷺ воду для (совершения) полного омовения и прикрыла его. Он налил её на свою руку и помыл её один или два раза».\nСулейман (аль-А‘маш) сказал: «И я не знаю, упомянул он третий раз или нет».\nЗатем он налил правой рукой на левую и помыл свои половые органы. После этого он потёр рукой о землю или стену, и затем прополоснул рот и нос. (Затем) он умыл своё лицо и руки (с локтями), помыл голову, после чего налил воду на своё тело и затемон перешёл со своего места (на другое) и помыл ноги. Затем я передала ему (кусок) материи, но он показал рукой вот так и не захотел (взять) его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>266</td></tr><tr><td>Arabic No</td><td>266</td></tr><tr><td>Reference</td><td>Book 5 Hadith 19</td></tr></tbody></table></div>
 

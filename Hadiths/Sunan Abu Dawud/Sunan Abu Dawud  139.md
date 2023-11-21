@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Grandfather of Talhah: I entered upon the Prophet (ﷺ) while he was pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Humaid bin Mas'adah] telah menceritakan kepada kami [Mu'tamir] dia berkata; Saya pernah mendengar [Laits] menyebutkan hadits dari [Thalhah] dari [Ayahnya] dari [Kakeknya] dia berkata; Saya pernah menemui Nabi shallallahu 'alaihi wasallam sementara beliau sedang berwudhu dan air mengalir dari wajah dan jenggotnya ke dadanya, dan saya melihat beliau memisahkan antara berkumur dengan beristinsyaq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>139</td></tr><tr><td>Arabic No</td><td>139</td></tr><tr><td>Reference</td><td>Book 1 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Талха со слов своего отца и деда рассказывал: «Однажды я зашел к Пророку ﷺ в то время, когда он совершал омовение, и на его грудь стекала вода с лица и бороды, и я также увидел, что он прополаскивал рот и нос раздельно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>139</td></tr><tr><td>Arabic No</td><td>139</td></tr><tr><td>Reference</td><td>Book 1 Hadith 139</td></tr></tbody></table></div>
 

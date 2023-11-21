@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Bara' said:The Prophet (ﷺ) used to recite the supplication in the dawn pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abu Al Walid], [Muslim bin Ibrahim], serta [Hafsh bin Umar].. dan diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Ibnu Mu'adz], telah menceritakan kepada Kami [ayahku], mereka semua berkata; telah menceritakan kepada Kami [Syu'bah] dari ['Amr bin Murrah] dari [Ibnu Abu Laila] dari [Al Bara'] bahwa Nabi shallallahu 'alaihi wasallam melakukan qunut ketika shalat Subuh. Ibnu Mu'adz menambahkan; serta shalat Maghrib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (678)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>1441</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+А в версии аль-Бара говорится, что Пророк ﷺ совершал кунут во время утренней молитвы /фаджр/, а в версии Ибн Му‘аза говорится: «…и закатной молитвы /магъриб/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (678)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>1441</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
 

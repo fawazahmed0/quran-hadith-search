@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Bishr b. Khalid has narrated this hadith on the authority of Sulaiman with the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>295</td></tr><tr><td>Arabic No</td><td>106.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 201</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сулейман передал с прежним иснадом, что Пророк ﷺ сказал: «С тремя не заговорит Аллах (в День воскресения), не посмотрит на них и не очистит их, и им (уготовано) мучительное наказание!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>295</td></tr><tr><td>Arabic No</td><td>106.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 201</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Once Allah's Messenger (ﷺ) visited us in this house of ours and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepadaku [Sulaiman bin Bilal] berkata, telah menceritakan kepadaku [Abu Thuwailah], yang namana adalah 'Abdullah bin 'Abdurrahman berkata; Aku mendengar [Anas radliallahu 'anhu] berkata: "Rasulullah shallallahu 'alaihi wasallam datang bertamu di rumah kami ini dan Beliau meminta minum. Maka kami siapkan susu dari hasil perasan kambing kami yang kami campur dengan air dari sumur kami ini lalu kami sugukan kepada Beliau. Saat itu Abu Bakar duduk di samping kiri Beliau sedangkan 'Umar di hadapan Beliau sementara ada seorang 'Arab Baduy di sebelah kanan Beliau. Ketika Beliau sudah selesai minum, 'Umar berkata: "Ini ada Abu Bakar, (berikanlah kepadanya). Namun Beliau memberikan susu itu kepada orang Baduy tadi karena yang berhak atas gilirannya, seraya beliau sabdakan: "Ke sebelah kanan dan ke kanan, ketahuilah dahulukanlah yang kanan". Anas berkata: "Ini adalah sunnah, ini adalah sunnah". Diucapkannya tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2571</td></tr><tr><td>Arabic No</td><td>2571</td></tr><tr><td>Reference</td><td>Book 51 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Однажды к нам домой пришёл Посланник Аллаха ﷺ и попросил попить. Мы подоили для него нашу овцу, затем я смешал молоко с водой из этого нашего колодца и дал ему. Абу Бакр сидел справа от него, ‘Умар — слева, а справа — какой-то бедуин. Когда Пророк ﷺ закончил, ‘Умар сказал: «(Передай его) Абу Бакру». Но Пророк ﷺ передал остатки молока бедуину и сказал: «(Следует передавать сидящим) справа, (следует передавать сидящим) справа! Начинайте справа!» Анас сказал: «Это является сунной, это является сунной» — повторив это трижды
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2571</td></tr><tr><td>Arabic No</td><td>2571</td></tr><tr><td>Reference</td><td>Book 51 Hadith 6</td></tr></tbody></table></div>
 

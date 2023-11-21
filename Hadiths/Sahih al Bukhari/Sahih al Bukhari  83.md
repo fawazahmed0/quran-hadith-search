@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr bin Al 'Aas:Allah's Messenger (ﷺ) stopped (for a w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, Telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari ['Isa bin Thalhah bin Ubaidillah] dari [Abdullah bin 'Amru bin Al 'Ash]; bahwa Rasulullah shallallahu 'alaihi wasallam berdiri di Mina pada haji wada' memberi kesempatan kepada manusia untuk bertanya kepada beliau. Lalu datanglah seseorang dan berkata: "Aku tidak menyadari, ternyata saat aku mencukur rambut aku belum menyembelih." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sembelihlah, tidak apa-apa" Kemudian datang orang lain dan berkata: "Aku tidak menyadari, ternyata ketika berkurban aku belum melempar (jumrah) ". Nabi shallallahu 'alaihi wasallam bersabda: "lemparlah dan tidak apa-apa". Dan tidaklah Nabi shallallahu 'alaihi wasallam ditanya tentang sesuatu perkara sebelum dan sesudahnya kecuali beliau menjawab: "Lakukanlah dan tidak apa-apa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Arabic No</td><td>83</td></tr><tr><td>Reference</td><td>Book 3 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах ими обоими, что во время прощального паломничества Посланник Аллаха ﷺ (на какое-то время) задержался в Мине из-за людей, задававших ему вопросы. Один человек подошёл к нему и сказал: «По невнимательности я обрил голову до того, как принёс (свой скот в) жертву». (Пророк ﷺ) сказал: «Ничего, принеси жертву (сейчас)». (Потом) к нему подошёл другой (человек) и сказал: «По невнимательности я принёс жертву до того, как начал бросать камни в идолов». (Пророк ﷺ) сказал: «Ничего, бросай (сейчас)», и о чём бы (в тот день люди) ни спрашивали Пророка ﷺ относительно сделанного ими раньше или позже, чем нужно, он неизменно говорил (в ответ): «Ничего, сделай (это сейчас)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Arabic No</td><td>83</td></tr><tr><td>Reference</td><td>Book 3 Hadith 25</td></tr></tbody></table></div>
 

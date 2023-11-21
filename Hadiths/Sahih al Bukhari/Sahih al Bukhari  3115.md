@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah Al-Ansari:A man amongst us begot a boy whom he name
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Sufyan] dari [Al A'masy] dari [Salim bin Abi Al Ja'di] dari [Jabir bin 'Abdullah Al Anshariy] berkata; "Ada seorang dari kami dikaruniai anak, lalu dia berkehendak memberi nama dengan Al Qasim, maka orang-orang Anshar berkata; "Kami tidak akan memanggil kamu dengan julukan Abu Al Qasim dan tidak akan memuliakan kamu dengan itu sekejappun". Kemudian orang itu menemui Nabi Shallallahu'alaihiwasallam seraya berkata; "Wahai Rasulullah, aku dikaruniai seorang anak kemudian aku memberinya nama Al Qasim namun oang-orang Anshar berkata; "Kami tidak akan memanggil kamu dengan julukan Abu Al Qasim dan tidak akan memuliakan kamu dengan itu sekejappun". Maka Nabi Shallallahu'alaihiwasallam bersabda: "Apa yang dilakukan kaum Anshar benar. Berilah nama dengan namaku tapi jangan memberi julukan dengan julukan aku karena aku adalah Qasim (orang yang membagi-bagi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3115</td></tr><tr><td>Arabic No</td><td>3115</td></tr><tr><td>Reference</td><td>Book 57 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах аль-Ансари, да будет доволен Аллах ими обоими, сказал:\n— Когда у одного человека из нас родился мальчик, и он назвал его аль-Касимом, ансары сказали: «Мы не станем называть тебя “Абуль-Касим” и не будем доставлять тебе (этим) удовольствие и радость!» Тогда (этот человек) пришёл к Пророку ﷺ и сказал: «О Посланник Аллаха, у меня родился мальчик, и я назвал его аль-Касим, а ансары сказали: “Мы не станем называть тебя “Абуль-Касим” и не будем доставлять тебе (этим) удовольствие и радость!» (На это) Пророк ﷺ сказал: «Ансары поступили правильно. Можете называть (детей) моим именем, но не пользуйтесь моей куньей, ибо только я являюсь касимом (распределяющим)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3115</td></tr><tr><td>Arabic No</td><td>3115</td></tr><tr><td>Reference</td><td>Book 57 Hadith 24</td></tr></tbody></table></div>
 

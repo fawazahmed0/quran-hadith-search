@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zurarah b. Awfa said that 'Aishah was asked about the prayer of the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1348</td></tr><tr><td>Arabic No</td><td>1348</td></tr><tr><td>Reference</td><td>Book 5 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Зурары ибн Ауфы, что ‘Аишу, да будет доволен ею Аллах, мать верующих, спросили о молитве Посланника Аллаха ﷺ и она сказала, что Посланник Аллаха ﷺ совершал с людьми вечернюю молитву /‘иша/, а потом возвращался к своим жёнам и совершал ещё четыре рак‘ата, после чего ложился спать. В этой версии не упоминается, что Посланник Аллаха ﷺ делал их одинаковыми в том, что касается чтения аятов и совершения поясных и земных поклонов и не сказано о таслиме: «…чтобы разбудить нас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1348</td></tr><tr><td>Arabic No</td><td>1348</td></tr><tr><td>Reference</td><td>Book 5 Hadith 99</td></tr></tbody></table></div>
 

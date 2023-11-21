@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qatadah said :We were sitting with 'Imran b. Hussain and Bushair b. Ka'b was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad] dari [Ishaq bin Suwaid] dari [Abu Qatadah] ia berkata, "Aku pernah bersama [Imran bin Hushain] dan Busyair bin Ka'b, lalu Imran bin Hushain bercerita. Ia mengatakan, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Malu itu baik semuanya." Atau beliau mengatakan: "Malu itu semuanya baik." Busyair bin Ka'b lalu berkata, "Kami mendapatkan dalam beberapa buku bahwa malu dapat mendatangkan ketenangan, kewibawaan dan kelemahan!" Imran mengulangi hadits yang ia sampaikan, sementara Busyair juga mengulangi kata-katanya." Perawi berkata, "Imran lalu marah hingga kedua matanya memerah. Lantas ia berkata, "Tidakkah kamu tahu bahwa aku sedang menyampaikan hadits Rasulullah shallallahu 'alaihi wasallam, tapi kenapa justru kamu menyampaikan apa yang ada dalam bukumu!" Abu Qatadah berkata, "Kami lalu mengatakan, "Wahai Abu Nujaid! jangan begitu, jangan begitu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6117) Sahih Muslim (37)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4796</td></tr><tr><td>Arabic No</td><td>4796</td></tr><tr><td>Reference</td><td>Book 43 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6117) Sahih Muslim (37)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4796</td></tr><tr><td>Arabic No</td><td>4796</td></tr><tr><td>Reference</td><td>Book 43 Hadith 24</td></tr></tbody></table></div>
 

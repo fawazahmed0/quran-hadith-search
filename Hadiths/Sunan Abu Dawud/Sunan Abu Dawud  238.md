@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:The Messenger of Allah (May peace be upon him) used to take bath wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al-Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah radliallahu 'anha] bahwasanya Rasulullah shallallahu 'alaihi wasallam biasa mandi junub dengan air dari satu bejana, yaitu sebanyak satu Faraq. Abu Dawud berkata; Dan diriwayatkan oleh [Ibnu Uyainah] seperti hadits Malik. Abu Dawud berkata; [Ma'mar] berkata; dari [Az-Zuhri] di dalam hadits ini, Aisyah berkata; Saya bersama Rasulullah shallallahu 'alaihi wasallam biasa mandi dari satu bejana yang berisi air kira-kira satu Faraq. Abu Dawud berkata; Saya pernah mendengar Ahmad bin Hanbal berkata; Satu Faraq adalah enam belas ritl. Dan saya juga pernah mendengarnya berkata; Sha' Ibnu Abi Dzi'b Adalah lima pertiga ritl. Abu Dawud bertnya; Siapa yang mengatakan 8 ritl? Dia menjawab; Yang demikian itu tidak terhafal. Abu Dawud berkata; Saya juga mendengar Ahmad bin Hanbal berkata; Barangsiapa yang mengeluarkan zakat fitrah dengan ukuran lima pertiga ritl, maka sudah terpenuhi. Ada yang bertanya; Kurma Shaihani itu berat. Dia balik bertanya; Apakah kurma Shaihani itu lebih baik? Dia menjawab; Tidak tahu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (250) Sahih Muslim (319)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>238</td></tr><tr><td>Arabic No</td><td>238</td></tr><tr><td>Reference</td><td>Book 1 Hadith 238</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши: «Посланник Аллаха ﷺ купался от осквернения из сосуда объемом один фаракъ».Абу Дауд сказал: «Ма‘мар передал в этом хадисе со слов аз-Зухри: “(‘Аиша) сказала: “Я и Посланник Аллаха ﷺ купались из одного сосуда объемом в один фаракъ”».Абу Дауд сказал: «Также и Ибн ‘Уйейна передал схожий хадис от Малика».Абу Дауд сказал: «Я слышал, как Ахмад ибн Ханбал говорил, что один фаракъ равен 16 ратлям. И также я слышал как он говорил, что са‘а Ибн Абу Зиъба равен пяти и одной трети ратля. Он (Абу Дауд) сказал (Ахмаду): “А что до тех, кто говорит, что он равен восьми ратлям?” Он (Ахмад) сказал: “Это не зафиксировано”.Абу Дауд сказал: «Также я слышал, как Ахмад говорил: “Кто выплачивает “садакату-ль-фитра” нашими ратлями, то это равно пяти и одной трети ратля, и этого достаточно”. Ему сказали: “Финики (сорта) “сайхани” тяжелые ведь?” Он ответил: “(Финики сорта) “сайхани” лучше, но не знаю (какие из них тяжелее)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (250) Sahih Muslim (319)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>238</td></tr><tr><td>Arabic No</td><td>238</td></tr><tr><td>Reference</td><td>Book 1 Hadith 238</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ka’ab bin Malik said “When the Prophet(ﷺ) arrived from a journey, he first
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata; telah mengabarkan kepadaku [Abdurrahman bin Abdullah bin Ka'b bin Malik], bahwa [Abdullah bin Ka'b] berkata; aku mendengar [Ka'b bin Malik] beliau berkata: Nabi shallallahu 'alaihi wasallam apabila datang dari safar beliau memulai dengan mendatangi masjid, kemudian melakukan shalat dua raka'at, dan duduk untuk memenuhi hajat orang-orang. Ibnu As Sarh berkata; dan Rasulullah shallallahu 'alaihi wasallam melarang orang-orang muslim untuk berbicara dengan kami bertiga. Hingga tatkala hal tersebut terasa lama bagiku, aku menaiki dinding kebun Abu Qatadah, ia adalah anak pamanku. Kemudian aku mengucapkan salam kepadanya. demi Allah, ia tidak membalas salamku. Kemudian aku melakukan Shalat Subuh pada hari kelima puluh, di atas rumah diantara rumah-rumah kami. Kemudian aku mendengar seseorang berteriak; wahai Ka'b bin Malik, bergembiralah. Kemudian tatkala orang yang aku dengan suaranya untuk memberikan kabar gembiera telah datang kepadaku, maka aku lepaskan pakaianku dan aku berikan kepadanya. kemudian aku pergi hingga tatkala aku memasuki masjid, ternyata Rasulullah shallallahu 'alaihi wasallam sedang duduk. Kemudian Thalhah berdiri untuk menyambutku dengan berlari-lari kecil, hingga ia menyalami dan mengucapkan selamat kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4676) Sahih Muslim (2769)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2773</td></tr><tr><td>Arabic No</td><td>2773</td></tr><tr><td>Reference</td><td>Book 15 Hadith 297</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4676) Sahih Muslim (2769)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2773</td></tr><tr><td>Arabic No</td><td>2773</td></tr><tr><td>Reference</td><td>Book 15 Hadith 297</td></tr></tbody></table></div>
 

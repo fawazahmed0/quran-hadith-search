@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that when the Messenger of Allah (ﷺ) had to set out on a journey
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] dan ['Amru bin Sawwad] keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Jabir bin Ismail] dari ['Uqail] dari [Ibnu Syihab] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, apabila beliau menyegerakan safarnya, maka beliau mengakhirkan shalat zhuhur hingga awal waktu ashar, lalu beliau menjamak antara keduanya, beliau juga akhirkan Maghrib hingga beliau menjamak dengan isya' sampai mega merah menghilang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>704.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что, когда Пророк ﷺ спешил в путешествии, он откладывал полуденную молитву до начала наступления послеполуденной, а затем объединял их. И он откладывал закатную молитву, чтобы объединить её с вечерней молитвой, когда исчезала вечерняя заря»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>704.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 58</td></tr></tbody></table></div>
 

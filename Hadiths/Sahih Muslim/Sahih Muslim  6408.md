@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa (que Dieu l'agrée) a dit : L'Envoyé de Dieu (paix et bénédiction
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Amir Al Asy'ari] dan [Abu Kuraib] seluruhnya dari [Abu Usamah], [Abu Amir] berkata; Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepadaku [Buraid bin Abdullah Abu Burdah] dari [Kakeknya, Abu Burdah] dari [Abu Musa] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya kaum Asy'ariyyin apabila mereka kehabisan perbekalan dalam peperangan atau makanan untuk keluarga mereka tinggal sedikit di Madinah, maka mereka kumpulkan perbekalan dan makanan yang tersisa itu dalam satu kain. Kemudian mereka membagi makanan tersebut di antara mereka dalam satu wadah dengan sama rata. Mereka itu golonganku dan aku golongan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6408</td></tr><tr><td>Arabic No</td><td>2500</td></tr><tr><td>Reference</td><td>Book 44 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6408</td></tr><tr><td>Arabic No</td><td>2500</td></tr><tr><td>Reference</td><td>Book 44 Hadith 239</td></tr></tbody></table></div>
 

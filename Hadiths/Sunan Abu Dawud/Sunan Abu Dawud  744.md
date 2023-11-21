@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: When the Messenger of Allah (ﷺ) stood for offering 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Sulaiman bin Daud Al Hasyimi] telah menceritakan kepada kami [Abdurrahman bin Abu Az Zinnad] dari [Musa bin 'Uqbah] dari [Abdullah bin Al Fadl bin Rabi'ah bin Al Harits bin Abdul Mutthalib] dari [Abdurrahman bin Al A'raj] dari ['Ubaidullah bin Abu Rafi'] dari [Ali bin Abu Thalib radliallahu 'anhu] dari Rasulullah shallallahu 'alaihi wasallam; bahwa apabila beliau berdiri untuk melaksanakan shalat wajib, beliau bertakbir dengan mengangkat kedua tangannya sejajar dengan kedua bahunya, beliau melakukan seperti itu apabila selesai membaca surat dan hendak ruku', demikian juga apabila bangkit dari ruku'. Beliau tidak pernah sama sekali mengangkat kedua tangannya dalam ketika mengerjakan shalat dengan posisi duduk. Apabila bangkit dari sujud kedua, beliau mengangkat kedua tangannya lagi sambil mengucapkan takbir." Abu Daud berkata; "Dalam hadits Abu Humaid As Sa'idi ketika dia mensifati sifat shalat Nabi shallallahu 'alaihi wasallam, yaitu; "Apabila beliau berdiri dari raka'at kedua, beliau bertakbir sambil mengangkat kedua tangannya hingga sejajar dengan kedua bahunya, sebagaimana beliau takbir ketika memulai shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>744</td></tr><tr><td>Arabic No</td><td>744</td></tr><tr><td>Reference</td><td>Book 2 Hadith 354</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Али ибн Абу Талиба, да будет доволен им Аллах: «Когда Посланник Аллаха ﷺ приступал к обязательной молитве, он произносил слова «Аллаху акбар» и поднимал свои руки на уровень плеч. То же самое он делал, когда заканчивал чтение (Корана) и хотел совершить поясной поклон, и так же он поступал, когда выпрямлялся с поясного поклона, и никогда не поднимал руки, когда сидел. Когда он вставал после совершения двух земных поклонов (рак‘атов), он так же поднимал руки и произносил слова «Аллаху акбар» ».Абу Дауд сказал: В хадисе Абу Хумайда ас-Са‘иди при описании молитвы Пророка ﷺ (говорится): «Когда он вставал после совершения двух рак‘атов, он произносил слова «Аллаху акбар» и поднимал руки, пока они не доходили до уровня плеч, как он делал это, произнося вступительный такбир приступая к молитве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>744</td></tr><tr><td>Arabic No</td><td>744</td></tr><tr><td>Reference</td><td>Book 2 Hadith 354</td></tr></tbody></table></div>
 

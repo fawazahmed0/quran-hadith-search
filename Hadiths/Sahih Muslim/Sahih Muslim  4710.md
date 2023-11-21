@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Jabir b. Samura who said:I went with my
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nahsr bin Ali Al Jahdlami] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Ibnu 'Aun]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Utsman An Naufali] sedangkan lafadznya dari dia, telah menceritakan kepada kami [Azhar] telah menceritakan kepada kami [Ibnu 'Aun] dari [Asy Sya'bi] dari [Jabir bin Samurah] dia berkata, "Aku pernah datang kepada Rasulullah shallallahu 'alaihi wasallam bersama dengan [ayahku], lalu aku mendengar beliau bersabda: "Agama ini akan senantiasa kuat dan kokoh hingga kedua belas khalifah (pemipin)." Kemudian beliau mengucapkan kata-kata yang lirih hingga tidak terdengar oleh orang-orang, maka aku bertanya kepada ayahku, "Apa yang dikatakan beliau?" dia menjawab, "Mereka semua dari suku Quraisy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4710</td></tr><tr><td>Arabic No</td><td>1821.06</td></tr><tr><td>Reference</td><td>Book 33 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4710</td></tr><tr><td>Arabic No</td><td>1821.06</td></tr><tr><td>Reference</td><td>Book 33 Hadith 10</td></tr></tbody></table></div>
 

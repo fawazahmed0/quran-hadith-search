@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Qais, daughter of Mihsan, was one of the earlier female emigrants who had pl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus bin Yazid] bahwa [Ibnu Syihab] Telah mengabarkan kepadanya dia berkata; Telah mengabarkan kepadaku ['Ubaidillah bin 'Utbah bin Mas'ud] bahwa [Ummu Qays binti Mihshan], termasuk wanita yang turut hijrah dalam kelompok pertama yang membai'at Rasulullah shallallahu 'alaihi wasallam dan ia adalah saudara perempuan Ukasyah binti Mihshan, salah seorang dari Bani Asad bin Khuzaimah, dia memberitahukan kepada saya bahwasannya ia pernah datang kepada Rasulullah shallallahu 'alaihi wasallam bersama putranya yang belum dapat memakan makanan sambil ia tekan kerongkong anaknya itu. Yunus berkata; 'A'laqat adalah Ghamazat' (menekan) dengan maksud untuk menghilangkan sakit amandelnya. Ummu Qais berkata; lalu Rasulullah bertanya: "Mengapa kamu tekan kerongkongan anakmu seperti itu? Gunakanlah kust India. Kerena Kust tersebut mengandung tujuh macam obat, salah satu di antaranya adalah obat sakit lambung. Ubaidillah berkata; Ummu Qais memberitahukan kepada saya, bahwasanya putranya kencing pada saat itu, lalu beliau meminta air dan memercikannya pada kencing itu tanpa membasuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5765</td></tr><tr><td>Arabic No</td><td>287.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5765</td></tr><tr><td>Arabic No</td><td>287.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 117</td></tr></tbody></table></div>
 

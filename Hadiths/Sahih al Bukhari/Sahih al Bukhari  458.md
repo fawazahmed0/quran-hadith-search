@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A black man or a black woman used to sweep the mosque and h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit] dari [Rafi'] dari [Abu Hurairah], "Ada seorang laki-laki kulit hitam atau wanita kulit hitam yang menjadi tukang sapu Masjid meninggal dunia. Nabi shallallahu 'alaihi wasallam lalu bertanya tentang keberadaan orang tersebut. Orang-orang pun menjawab, "Dia telah meninggal!" Beliaupun bersabda: "Kenapa kalian tidak memberi kabar kepadaku? Tunjukkanlah kuburannya padaku!" beliau kemudian mendatangi kuburan orang itu kemudian menshalatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>458</td></tr><tr><td>Arabic No</td><td>458</td></tr><tr><td>Reference</td><td>Book 8 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что (в своё время) негр /или: негритянка/, подметавший полы в мечети, умер. (Когда) Пророк ﷺ спросил о нём, ему сказали: «Он умер». (Услышав об этом,) он воскликнул: «И вы ничего не сказали мне?! Покажите мне его /или: её/ могилу!» — после чего пришёл к этой могиле и совершил над ней заупокойную молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>458</td></tr><tr><td>Arabic No</td><td>458</td></tr><tr><td>Reference</td><td>Book 8 Hadith 106</td></tr></tbody></table></div>
 

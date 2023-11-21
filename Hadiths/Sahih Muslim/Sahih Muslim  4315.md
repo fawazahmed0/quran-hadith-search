@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ma'rur b. Suwaid reported:I saw Abu Dharr wearing clothes, and his slave wearing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] dan ini adalah lafadz Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Washil Al Ahdab] dari [Ma'rur bin Suwaid] dia berkata, "Aku pernah melihat [Abu Dzar] memakai pakaian serupa dengan sahayanya. Lalu aku bertanya perihal itu, dia mengatakan bahwa pada masa Rasulullah shallallahu 'alaihi wasallam ia pernah mencela seorang laki-laki dengan cara mencela ibunya (laki-laki tersebut). Lalu laki-laki itu mengadu kepada Nabi shallallahu 'alaihi wasallam, hingga Nabi shallallahu 'alaihi wasallam pun bersabda kepadanya: "Sungguh, dalam dirimu masih terdapat sifat jahiliyah! Sesungguhnya mereka adalah saudaramu dan paman-pamanmu yang dititipkan Allah di bawah pengurusanmu, karena barangsiapa memiliki saudara yang masih dalam pengurusanya, hendaklah dia diberi makan sebagaimana yang dia makan, diberi pakaian sebagaimana ia mengenakan pakaian. Dan janganlah kamu bebani mereka di luar batas kemampuan mereka, dan jika kamu membebani mereka, maka bantulah mereka dalam menyelesaikan tugasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4315</td></tr><tr><td>Arabic No</td><td>1661.03</td></tr><tr><td>Reference</td><td>Book 27 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4315</td></tr><tr><td>Arabic No</td><td>1661.03</td></tr><tr><td>Reference</td><td>Book 27 Hadith 62</td></tr></tbody></table></div>
 

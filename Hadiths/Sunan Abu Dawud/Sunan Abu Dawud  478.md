@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah al-Muharibi: The Messenger of Allah (ﷺ) said: When a man sta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As-Sariy] dari [Abu Al-Ahwash] dari [Manshur] dari [Rib'i] dari [Thariq bin Abdillah Al-Muharibi] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seorang laki-laki shalat atau apabila salah seorang dari kalian shalat, maka janganlah dia meludah ke depannya atau ke kanannya, akan tetapi meludahlah ke sebelah kirinya jika di situ kosong (tidak ada orang lain), atau ke bawah kaki kirinya kemudian gosoklah ia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>478</td></tr><tr><td>Arabic No</td><td>478</td></tr><tr><td>Reference</td><td>Book 2 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Тарикъ ибн ‘Абдуллах аль-Мухариби сказал: «Посланник Аллаха ﷺ сказал: “Если встанет человек на молитву или если один из вас совершает молитву, пусть не плюёт ни перед собой, ни вправо от себя, однако, пусть плюнет слева от себя, если будет место или под левую ногу, после чего зароет (или затерет) его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>478</td></tr><tr><td>Arabic No</td><td>478</td></tr><tr><td>Reference</td><td>Book 2 Hadith 88</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Maymunah, daughter of Kardam: I went out with my father to see the hajj
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Yazid? bin Harun], telah menceritakan kepada kami [Abdullah bin Yazid? bin Miqsam Ats Tsaqafi] dari penduduk Thaif, ia berkata; telah menceritakan kepadaku [Sarrah binti Miqsam Ats Tsaqafi] bahwa ia telah mendengar [Maimunah binti Kardam], ia berkata; aku pernah keluar bersama ayahku ketika Rasulullah shallallahu 'alaihi wasallam melakukan haji, kemudian aku melihat Rasulullah shallallahu 'alaihi wasallam dan aku mendengar orang-orang berkata; Rasulullah shallallahu 'alaihi wasallam. Lalu aku memandangnya dengan tajam, kemudian ayahku mendekat kepada beliau sementera beliau berada di atas untanya. Kemudian beliau berhenti dan mendengar darinya dengan membawa cambuk seperti cambuk orang mengajar anak-anak. Kemudian aku mendengar orang-orang dan orang-orang badui berkata; jangan bersuara! Jangan bersuara! Jangan bersuara! Kemudian ayahku mendekat kepada beliau, mengambil posisi di hadapan beliau, dan mengakui risalah serta kenabian beliau dan beliau berhenti serta mendengarkan darinya. Kemudian ia berkata; wahai Rasulullah, sesungguhnya aku telah bernadzar, apabila anakku terlahirkan laki-laki maka aku akan menyembelih di puncak Buwanah beberapa ekor kambing. Yazid? bin Miqsam mengatakan; yang aku ketahui hanya ia mengatakan; lima ekor. Kemudian Rasulullah shallallahu 'alaihi wasallam bertanya: "Apakah padanya terdapat sebagian berhala?" Ia berkata; tidak. Beliau bersabda: "Penuhilah apa yang engkau nadzarkan untuk Allah!" Maimunah binti Kardam berkata; kemudian ia mengumpulkan kambing-kambing tersebut dan menyembelihnya. Lalu terdapat satu ekor kambing yang kabur. Lalu ia mencarinya dan berdoa; ya Allah, penuhkanlah nadzarku. Lalu ia mendapatkan kambing tersebut lalu menyembelihnya. Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepada kami [Abu Bakr Al Hanafi], telah menceritakan kepada kami [Abdul Hamid bin Ja'far] dari ['Amr bin Syu'aib], dari [Maimunah binti Kardam bin Sufyan] dari [ayahnya] seperti itu secara ringkas. Beliau bersabda: "Apakah padanya terdapat berhala, atau hari besar jahiliyah?" Ia berkata; tidak. aku katakan; sesungguhnya ibuku memiliki tanggungan nadzar dan berjalan. Apakah aku boleh menunaikan untuknya? Dan Ibnu Basysyar berkata; apakah aku boleh menunaikannya? Beliau berkata: "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 22 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Умара, да будет доволен им Аллах, что он сказал: «О Посланник Аллаха, во времена невежества я дал обет неотлучного пребывания в Заповедной мечети (Аль-Харам) в течение одной ночи». Пророк ﷺ сказал ему: «Выполни свой обет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 22 Hadith 73</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I was riding behind Abu Talha (on the same) riding animal and (the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami ['Abdul Wahhab] telah bercerita kepada kami [Ayub] dari [Abu Qilabah] dari [Anas radliallahu 'anhu] berkata: "Aku pernah memboncengi Abu Thalhah saat mereka bertalbiyah dengan suara keras untuk hajji dan 'umrah sekaligus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2986</td></tr><tr><td>Arabic No</td><td>2986</td></tr><tr><td>Reference</td><td>Book 56 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Я сидел в седле позади Абу Тальхи, и (сподвижники Пророка ﷺ) говорили громко тальбию для хаджа и умры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2986</td></tr><tr><td>Arabic No</td><td>2986</td></tr><tr><td>Reference</td><td>Book 56 Hadith 195</td></tr></tbody></table></div>
 

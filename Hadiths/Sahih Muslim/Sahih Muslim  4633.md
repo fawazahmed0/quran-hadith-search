@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Wa'il who said:Sahal b. Hunaif stoo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] sedangkan lafadznya saling berdekatan, telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Abdul Aziz bin Siyah] telah menceritakan kepada kami [Habib bin Abu Tsabit] dari [Abu Wa'il] dia berkata, " [Sahal bin Hunaif] pernah berdiri ketika terjadi perang Shifin, dia berseru, "Wahai manusia, koreksilah diri kalian masing-masing. Ketika terjadi perjanjian Hudaibiyyah, kami bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam. Seandainya waktu itu kami melihat adanya pembunuhan, pasti kami telah berperang. Hal ini terjadi ketika terjadi perjanjian damai antara Rasulullah shallallahu 'alaihi wasallam dengan orang-orang Musyrik. Maka umar bin Khatthab datang menghampiri Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Wahai Rasulullah, tidakkah kita dalam kebenaran dan mereka dalam kebathilan?" beliau bersabda: "Ya." Dia berkata, "Bukankah jika kita terbunuh akan masuk surga? sedangkan jika mereka terbunuh, mereka akan masuk neraka?" beliau menjawab: "Ya benar." Umar bertanya, "Mengapakah kita harus mengalah mengenai agama kita, dan pulang begitu saja? Padahal Allah belum memberikan keputusan apa-apa antara kita dengan mereka?" Beliau menjawab: "Wahai Ibnul Khattab, sesungguhnya aku adalah Rasulullah, dan sekali-kali Allah tidak akan menyia-nyiakan aku selama-lamanya." Abu Wa'il berkata, "Umar lalu pergi dalam keadaan tidak puas, bahkan terlihat marah. Lalu dia mendatangi Abu Bakar seraya berkata, "Wahai Abu Bakar, bukankah kita di atas yang hak dan mereka dalam kebathilan." Dia menjawab, "Ya, benar." Umar bertanya, "Tidakkah jika kita terbunuh, maka kita akan masuk surga, sedangkan jika mereka yang terbunuh, maka mereka akan masuk neraka?" Abu Bakar menjawab, "Ya, benar." Umar bertanya lagi, "Mengapakah kita harus mengalah mengenai agama kita, dan pulang begitu saja? Padahal Allah belum memberikan keputusan apa-apa antara kita dengan mereka?" Maka Abu Bakar berkata, "Wahai Ibnul Khattab, sesungguhnya beliau adalah Rasulullah, dan sekali-kali Allah tidak akan menyia-nyiakan beliau selama-lamanya." Suhail berkata, "Maka turunlah ayat Al Qur'an kepada Rasulullah, yaitu surat Al Fath. Maka beliau menyuruh seseorang untuk membacakan kepada Umar, lantas dia bertanya, "Wahai Rasulullah, apakah itu yang dimaksud dengan kemenangan?" beliau bersabda: "Ya, benar." Barulah dia bertaubat dan kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4633</td></tr><tr><td>Arabic No</td><td>1785.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4633</td></tr><tr><td>Arabic No</td><td>1785.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 115</td></tr></tbody></table></div>
 

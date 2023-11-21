@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Someone came to Allah's Messenger (ﷺ)s and said, "The 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin 'Abdul Wahhab] telah menceritakan kepada kami [Abdul Wahhab] telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Anas bin Malik radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam didatangi seseorang, seraya bertanya; "Apakah daging keledai boleh dimakan?". Beliau diam. Kemudian orang itu datang lagi untuk kedua kalianya dan bertanya; "Apakah daging keledai boleh dimakan?". Beliau tetap diam. Kemudian orang itu datang lagi untuk ketiga kalianya dan bertanya; "Apakah daging keledai dimusnahkan saja?". Maka beliau memerintahkan seorang penyeru, lalu penyeru itu berseru di hadapan orang banyak; "Sesungguhnya Allah dan Rasul-Nya melarang kalian memakan daging keledai jinak." Mendengar itu periuk-periuk ditumpahkan, padahal isinya penuh dengan daging keledai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4199</td></tr><tr><td>Arabic No</td><td>4199</td></tr><tr><td>Reference</td><td>Book 64 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что к Посланнику Аллаха ﷺ пришёл человек и сказал: “Ослы были съедены (мусульманами)”. Пророк ﷺ ничего ему не ответил. Затем человек пришёл снова и сказал: “Ослы были съедены”. Пророк ﷺ снова ничего ему не ответил. Человек пришёл к нему в третий раз и сказал: “Ослы были полностью съедены”. На это Пророк ﷺ приказал глашатаю провозгласить: “Поистине, Аллах и Его Посланник запрещают вам есть мясо домашних ослов”. Затем котлы, в которых варилось мясо, были опрокинуты
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4199</td></tr><tr><td>Arabic No</td><td>4199</td></tr><tr><td>Reference</td><td>Book 64 Hadith 239</td></tr></tbody></table></div>
 

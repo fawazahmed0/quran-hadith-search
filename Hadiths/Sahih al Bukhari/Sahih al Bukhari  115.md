@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:One night Allah's Messenger (ﷺ) got up and said, "Subhan Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah] telah mengabarkan kepada kami [Ibnu 'Uyainah] dari [Ma'mar] dari [Az Zuhri] dari [Hind] dari [Ummu Salamah] dan ['Amru]. Dan dari [Yahya bin Sa'id] dari [Az Zuhri] dari [Hind] dari [Ummu Salamah] berkata, "Pada suatu malam Nabi shallallahu 'alaihi wasallam terbangun lalu bersabda: "Subhaanallah (Maha suci Allah), fitnah apakah yang diturunkan pada malam ini? Dan apa yang dibuka dari dua perbendaharaan (Ramawi dan Parsi)? Bangunlah wahai orang-orang yang ada di balik dinding (kamar-kamar), karena betapa banyak orang hidup menikmati nikmat-nikmat dari Allah di dunia ini namun akan telanjang nanti di akhirat (tidak mendapatkan kebaikan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>115</td></tr><tr><td>Arabic No</td><td>115</td></tr><tr><td>Reference</td><td>Book 3 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала: «Однажды ночью Пророк ﷺ проснулся и воскликнул: “Преславен Аллах! /Cубхана-Ллах!/ Какие бедствия были ниспосланы сегодня ночью и какие сокровищницы открыты! Разбудите обитательниц комнат, ведь может получиться так, что одетая в мире этом окажется обнажённой в мире ином!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>115</td></tr><tr><td>Arabic No</td><td>115</td></tr><tr><td>Reference</td><td>Book 3 Hadith 57</td></tr></tbody></table></div>
 

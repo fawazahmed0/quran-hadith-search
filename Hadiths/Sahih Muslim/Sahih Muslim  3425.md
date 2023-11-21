@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sabra b. Ma'bad reported that Allah's Apostle (ﷺ) permitted his Companions to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abdul Aziz bin Ar-Rabi' bin Sabrah bin Ma'bad] dia berkata; Saya telah mendengar [ayahku, Ar-Rabi' bin Sabrah] menceritakan dari [ayahnya, Sabrah bin Ma'bad] bahwa pada saat penaklukan kota Makkah, Nabiyallah shallallahu 'alaihi wasallam memerintahkan kepada para sahabatnya supaya nikah mut'ah, lantas dia (Sabrah) berkata, kemudian saya bersama temanku dari Bani Sulaim keluar sampai kami bertemu dengan seorang budak perempuan dari Bani 'Amir, sepertinya dia adalah seorang perawan, lantas kami meminangnya sambil memperlihatkan kain burdah kami (sebagai maskawin), lalu dia memandangi kami, dia melihatku, dan ternyata wajahku lebih tampan daripada temanku, namun dia melihat kain burdah temanku lebih bagus daripada kain burdahku, setelah dia meminta izin untuk bermusyawarah beberapa saat, dia memilihku daripada temanku, lalu kami tinggal bersamanya selama tiga hari, kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan kami untuk menceraikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3425</td></tr><tr><td>Arabic No</td><td>1406.07</td></tr><tr><td>Reference</td><td>Book 16 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3425</td></tr><tr><td>Arabic No</td><td>1406.07</td></tr><tr><td>Reference</td><td>Book 16 Hadith 28</td></tr></tbody></table></div>
 

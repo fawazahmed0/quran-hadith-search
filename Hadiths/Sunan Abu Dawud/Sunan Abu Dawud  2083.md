@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) said: The marriage 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan], telah mengabarkan kepada kami [Ibnu Juraij], dari [Sulaiman bin Musa] dari [Az Zuhri] dari [Urwah], dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap wanita yang menikah tanpa seizin walinya, maka pernikahannya adalah batal." Beliau mengucapkannya sebanyak tiga kali. Apabila ia tleah mencampurinya maka baginya mahar karena apa yang ia peroleh darinya, kemudian apabila mereka berselisih maka penguasa adalah wali bagi orang yang tidak memiliki wali. Telah menceritakan kepada kami [Al Qa'nabi], telah menceritakan kepada kami [Ibnu Luhai'ah], dari [Ja'far bin Rabi'ah], dari [Ibnu Syihab] dari ['Urwah] dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam semakna dengannya. Abu Daud berkata; jal'far tidak mendengar dari Az Zuhri, ia menulis surat kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>2083</td></tr><tr><td>Reference</td><td>Book 12 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ трижды повторил: «Брак любой женщины, которая вышла замуж без разрешения покровителей, недействителен». (И он сказал:) «И если муж уже вступал с ней в половую связь, то ей причитается брачный дар /махр/ за то удовольствие, которое он получил от неё. Если же покровители не могут договориться, то правитель покровитель того, у кого нет покровителя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>2083</td></tr><tr><td>Reference</td><td>Book 12 Hadith 38</td></tr></tbody></table></div>
 

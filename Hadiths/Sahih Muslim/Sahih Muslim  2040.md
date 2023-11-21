@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar, while describing the Nafl prayer of the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata; Saya telah membacakan kepada [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa ia menshifati shalat tathawwu' Rasulullah shallallahu 'alaihi wasallam, ia berkata; "Biasanya beliau tidak shalat setelah Shalat Jum'at hingga beliau pulang, kemudian beliau baru shalat dua raka'at di rumahnya." Yahya berkata; saya menduga kuat, bahwa saya telah membacakan; "Maka (beliau) shalat atau Al Batah (benar-benar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2040</td></tr><tr><td>Arabic No</td><td>882.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Нафи‘а, что описывая добровольную молитву Пророка ﷺ, Ибн ‘Умар сказал: «Обычно он не молился (в мечети) после пятничной молитвы, а уходил и совершал (дополнительную молитву в) два рак‘ата у себя дома»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2040</td></tr><tr><td>Arabic No</td><td>882.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 90</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:Umar b. Khattab was delivering a sermon to the people on Fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Al Walid bin Muslim] dari [Al Auza'i] ia berkata, telah menceritakan kepadaku [Yahya bin Abu Katsir] telah menceritakan kepadaku [Abu Salamah bin Abdurrahman] telah menceritakan kepadaku [Abu Hurairah] ia berkata; Ketika [Umar bin Al Khathab] berkhutbah di hadapan manusia pada hari Jum'at, tiba-tiba masuklah Utsman bin Affan, maka Umar pun memanggilnya seraya bertanya, "Bagaimana orang-orang pada terlambat setelah mendengar adza?" Utsman pun menjawab, "Wahai Amirul Mukminin, saya tidak berbuat lagi setelah mendengar adzan kecuali langsung berwudlu dan berangkat." Umar berkata, "Wudlu juga harus. Tetapi, bukankan kalian telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Jika salah seorang dari kalian hendak menunaikan shalat Jum'at, hendaklah ia mandi terlebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1956</td></tr><tr><td>Arabic No</td><td>845.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «Однажды, когда ‘Умар ибн аль-Хаттаб читал людям проповедь в пятницу, (в мечеть) вошёл ‘Усман ибн ‘Аффан. Не обращаясь к нему непосредственно, ‘Умар воскликнул: “Почему (некоторые) люди опаздывают, (являясь в мечеть) после призыва на молитву?!” ‘Усман сказал: “О повелитель правоверных, услышав призыв, я только совершил омовение /вуду/, а потом пришёл!” Тогда ‘Умар воскликнул: “Ещё и омовение! Разве вы не слышали, как Посланник Аллаха ﷺ говорил: ‹Пусть совершит полное омовение тот из вас, кто (намерен) явиться на пятничную молитву›?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1956</td></tr><tr><td>Arabic No</td><td>845.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 6</td></tr></tbody></table></div>
 

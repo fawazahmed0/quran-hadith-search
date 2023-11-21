@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':Abu Burda slaughtered (the sacrifice) before the ('Id) prayer 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Salamah] dari [Abu Juhaifah] dari [Al Barra'] dia berkata; Abu Burdah pernah menyembelih binatang kurban sebelum shalat (Iedul Adlha), maka Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Gantilah kurbanmu." Dia berkata; "Aku tidak memilikinya lagi kecuali hanya jad'ah (anak kambing berusia dua tahun). [Syu'bah] mengatakan; aku mengira Abu Burdah mengatakan; "dan dia lebih baik daripada kambing muda." Beliau bersabda: "Kurbanlah dengan kambing itu, dan tidak sah untuk orang lain setelahmu." [Hatim bin Wardan] mengatakan dari [Ayyub] dari [Muhammad] dari [Anas] dari Nabi shallallahu 'alaihi wasallam, perawi berkata; "Betina jad'ah (anak kambing yang berusia dua tahun)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5557</td></tr><tr><td>Arabic No</td><td>5557</td></tr><tr><td>Reference</td><td>Book 73 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара сказал: «(Однажды) Абу Бурда зарезал животное до совершения (праздничной) молитвы, и Пророк ﷺ сказал ему: “Принеси в жертву другое животное, вместо этого”. Абу Бурда ответил: “У меня есть только годовалая козочка, которая лучше двухгодовалой”. Тогда Пророк ﷺ сказал: “Зарежь её, (вместо той,) однако (жертвоприношение годовалой козы) не будет действительным ни для кого после тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5557</td></tr><tr><td>Arabic No</td><td>5557</td></tr><tr><td>Reference</td><td>Book 73 Hadith 13</td></tr></tbody></table></div>
 

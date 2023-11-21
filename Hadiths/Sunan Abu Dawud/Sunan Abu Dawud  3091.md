@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Musa:I heard the Prophet (ﷺ) many times say: When a servant of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] dan [Musaddad] secara makna, mereka berkata; telah menceritakan kepada kami [Husyaim], dari [Al 'Awwam bin Hausyab] dari [Ibrahim bin Abdurrahman As Saksaki], dari [Abu Burdah] dari [Abu Musa], ia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam tidak hanya sekali atau dua kali, beliau bersabda: "Apabila seorang hamba melakukan amal shalih, kemudian ia terhalang oleh suatu penyakit atau suatu perjalanan maka tercatat baginya seperti amalan shalih yang pernah ia lakukan dalam keadaan sehat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2996)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3091</td></tr><tr><td>Arabic No</td><td>3091</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса, да будет доволен им Аллах, передаёт: «Не раз и не два я слышал, как Пророк ﷺ говорил: “Если раб Аллаха совершал благое дело, а потом его отвлекла болезнь или путешествие, ему будет записываться такая же награда, как за совершение благих дел, которые он делал, будучи здоровым и до того, как отправился в путь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2996)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3091</td></tr><tr><td>Arabic No</td><td>3091</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>
 

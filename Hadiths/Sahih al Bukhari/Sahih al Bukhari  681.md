@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) did not come out for three days. The people stoo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah menceritakan kepada kami ['Abdul Warits] berkata, telah menceritakan kepada kami ['Abdul 'Aziz] dari [Anas bin Malik] berkata, "Nabi shallallahu 'alaihi wasallam telah tiga hari tidak keluar rumah untuk shalat. Dan selama itu shalat dilaksanakan dengan Abu Bakar maju sebagai imam memimpin shalat. Suatu hari Nabi Allah shallallahu 'alaihi wasallam menyingkap tabir kamar dan mengangkatnya. Tatkala tampak wajah Nabi shallallahu 'alaihi wasallam, sungguh belum pernah kami memandang wajah beliau yang lebih menakjubkan kami, selain wajahnya saat waktu itu menampakkan kepada kami. Lalu Nabi shallallahu 'alaihi wasallam memberi isyarat dengan tangannya kepada Abu Bakar lalu kembali menutup tabirnya dan masuk. Dan sejak saat itu kami tidak lagi melihat beliau hingga wafat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>681</td></tr><tr><td>Arabic No</td><td>681</td></tr><tr><td>Reference</td><td>Book 10 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Во время своей болезни от которой он умер,) Пророк ﷺ не выходил в течение трёх (дней) …»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>681</td></tr><tr><td>Arabic No</td><td>681</td></tr><tr><td>Reference</td><td>Book 10 Hadith 75</td></tr></tbody></table></div>
 

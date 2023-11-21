@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim from his father:No, By Allah, the Prophet (ﷺ) did not tell that
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Muhammad Al Makkiy] berkata, aku mendengar [Ibrahim bin Sa'ad] berkata, telah bercerita kepadaku [Az Zuhriy] dari [Salim] dari [bapaknya] berkata; "Tidak!. Demi Allah, Nabi shallallahu 'alaihi wasallam tidak mengatakan bahwa 'Isa berkulit putih kemerahan namun beliau berkata: "Ketika aku tertidur (bermimpi), aku thawaf di Ka'bah dan ternyata ada seorang yang ranbutnya lebat sedang didampingi oleh dua orang laki-laki yang rambutnya meneteskan atau mengalirkan air. Aku bertanya: "Siapakah orang itu?". Mereka berkata: "Dia adalah Putra Maryam ('Isa 'alaihis salam).. Kemudian aku pergi dan berlalu dan ternyata ada seorang yang badannya berwarna putih kemerahan dengan rambut yang lebat sedang mata kanannya buta. Matanya bagaikan buah anggur yang menjorok. Aku bertanya: "Siapakah orang itu?". Mereka berkata: "Dia adalah al-Masihud Dajjal". Dan orang yang paling mirip dengannya adalah Ibnu Qathan". Az Zuhriy berkata; "Ibnu Qathan adalah seorang laki-laki d suku Khuza'ah yang mati dalam keadaan kafir jahiliyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3441</td></tr><tr><td>Arabic No</td><td>3441</td></tr><tr><td>Reference</td><td>Book 60 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса, также передаваемой со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, сообщается, что) он сказал:\n— Нет, клянусь Аллахом, Пророк ﷺ не говорил, что ‘Иса румян, но он сказал: «(Однажды) я увидел во сне, что обхожу Каабу, как вдруг передо мной показался смуглый человек с прямыми волосами, шедший рядом с двумя (другими людьми), на которых он опирался, с волос же его капала вода”. Я спросил : “Кто это?” (Люди) сказали: “Сын Марйам”. А потом я повернулся и увидел румяного дородного человека с курчавыми волосами, который был крив на правый глаз, и этот глаз был похож на выпуклую виноградину. Я спросил: “Кто это?” (Мне) сказали: “Это — Антихрист”, а больше всего из людей походил на него Ибн Катан”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3441</td></tr><tr><td>Arabic No</td><td>3441</td></tr><tr><td>Reference</td><td>Book 60 Hadith 111</td></tr></tbody></table></div>
 

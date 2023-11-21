@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: The similitude of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Usamah bin Zaid] bahwa ['Amru bin Syu'aib] telah menceritakan kepadanya dari [Ayahnya] dari [Abdullah bin 'Amru] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Permisalan orang yang meminta kembali apa yang telah ia berikan seperti anjing yang muntah lalu ia makan lagi. Apabila orang yang telah memberi meminta kembali pemberiannya, maka hendaknya diwakafkan dan diumumkan apa yang ia minta kembali kemudian hendaknya diserahkan kepadanya apa yang telah ia berikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3540</td></tr><tr><td>Arabic No</td><td>3540</td></tr><tr><td>Reference</td><td>Book 24 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Тот, кто требует вернуть то, что он сам подарил кому-то, подобен собаке, которая срыгивает, а потом поедает собственную блевотину. Если человек требует вернуть ему то, что он подарил кому-то, то ему должны сообщить (о том, что даритель имеет право забрать свой подарок, если его не вознаградили за него, но при этом он уподобится собаке, которая возвращается к собственной блевотине и поедает её), и если и после этого (он настаивает на возвращении ему того, что он подарил), ему возвращают это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3540</td></tr><tr><td>Arabic No</td><td>3540</td></tr><tr><td>Reference</td><td>Book 24 Hadith 125</td></tr></tbody></table></div>
 

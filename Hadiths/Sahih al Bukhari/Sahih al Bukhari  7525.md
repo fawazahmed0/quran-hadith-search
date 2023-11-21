@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:regarding the explanation of the Verse:-- '(O Muhammad!) Nei
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru bin Zurarah] dari [Husyaim] telah mengabarkan kepada kami [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibn Abbas] radliyallahu'anhuma tentang firman Allah Ta'ala: '(Jangan kamu membacanya secara lantang dalam shalatmu, dan jangan pula secara lirih) ' (Qs. Al Isra': ayat 110), Ibn Abbas berkata, "Ayat ini diturunkan saat Rasulullah shallallahu 'alaihi wasallam masih sembunyi-sembunyi di Makkah, jika shalat bersama sahabat-sahabatnya, beliau mengeraskan bacaan Al Qur'annya, sehingga jika kaum musyrikin mendengarnya, mereka mencaci Al Qur'an, Dzat yang menurunkannya dan malaikat yang membawanya. Maka Allah menegur nabi-Nya shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam dengan ayat: '(Jangan kamu membacanya secara lantang dalam shalatmu) ' (Qs. Al Isra': ayat 110), yakni dengan bacaanmu, sehingga saat orang-orang Musyrik mendengar mereka akan mencela Al Qur'an, '(dan jangan pula secara lirih), yaitu kepada para sahabatmu, sehingga engkau tidak bisa menjadikan mereka mendengar, (Carilah jalan tengah antara keduanya) ', (Qs. Al Isra: ayat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7525</td></tr><tr><td>Arabic No</td><td>7525</td></tr><tr><td>Reference</td><td>Book 97 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего: «Не совершай свою молитву громко и не совершай её шёпотом» (Сура «аль-Исра», аят 110): «Когда был ниспослан этот аят, Посланник Аллаха ﷺ скрывался в Мекке. Совершая молитвы вместе со своими сподвижниками, он громко читал Коран. Если же многобожники слышали его (чтение), то они начинали поносить Коран и Того, Кто его ниспослал, и того, кто его принёс. И тогда Аллах сказал Своему Пророку ﷺ: “Не совершай свой намаз громко” (сура «аль-Исра», аят 110), то есть не читай Коран слишком громко, ибо тогда услышат твоё чтение многобожники и станут поносить Коран, “…и не совершай его шёпотом”, то есть (пусть чтение будет не слишком тихим) для твоих сподвижников, ибо тогда они не услышат тебя, “…а выбери среднее между этим”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7525</td></tr><tr><td>Arabic No</td><td>7525</td></tr><tr><td>Reference</td><td>Book 97 Hadith 150</td></tr></tbody></table></div>
 

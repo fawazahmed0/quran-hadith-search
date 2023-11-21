@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir reported:The Messenger of Allah (ﷺ) said: Verily the least su
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari [al-A'masy] dari [Abu Ishaq] dari [an-Nu'man bin Basyir] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya penduduk neraka yang paling ringan siksanya adalah orang yang memiliki dua sandal dan dua tali sandal dari api neraka, dimana otaknya akan mendidih karena panasnya sandal tersebut sebagaimana kuali mendidih. Orang tersebut merasa bahwa tidak ada seorang pun yang siksanya lebih pedih daripadanya, padahal siksanya adalah yang paling ringan di antara mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>517</td></tr><tr><td>Arabic No</td><td>213.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 423</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ан-Ну’мана ибн Башира , что Посланник Аллаха ﷺ сказал: «Поистине, наиболее лёгкому наказанию подвергнется тот из обитателей Огня, на (ноги) которого (наденут) две сандалии и два ремня из огня, из-за чего мозг его закипит, подобно котлу, и покажется ему, что никто не испытывает более сильных мук, хотя (на самом деле его подвергнут) самому лёгкому наказанию из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>517</td></tr><tr><td>Arabic No</td><td>213.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 423</td></tr></tbody></table></div>
 

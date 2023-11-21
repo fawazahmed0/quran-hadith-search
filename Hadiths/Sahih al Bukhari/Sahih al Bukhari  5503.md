@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' bin Khadij:that he said, "O Allah's Messenger (ﷺ)! We have no k
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdan] ia berkata; telah mengabarkan kepadaku [Bapakku] dari [Syu'bah] dari [Sa'id bin Masruq] dari [Abayah bin Rifa'ah] dari [Kakeknya] bahwa ia berkata, "Wahai Rasulullah, kami tidak memiliki pisau tajam?" beliau pun bersabda: "Apa saja yang dapat mengalirkan darah dan disebutkan nama Allah atasnya, maka makanlah. Kecuali kuku dan As-Sin. Sebab kuku adalah alat penyembelihan orang-orang Habasyah, sementara As-Sin adalah tulang." Lalu ada seekor unta yang kabur kemudian (mereka) menangkapnya, beliau lalu bersabda: "Sesungguhnya di antara unta-unta ini ada unta yang beringas, jika kalian mampu, maka hendaklah kalian melakukannya seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5503</td></tr><tr><td>Arabic No</td><td>5503</td></tr><tr><td>Reference</td><td>Book 72 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абаята ибн Рифа‘и, что его дед (Рафи‘ ибн Хадидж, да будет доволен им Аллах,) сказал: «О Посланник Аллаха, у нас нет ножей (для забоя)». (Посланник Аллаха ﷺ) сказал: «(Пользуйтесь) всем, с помощью чего можно выпустить кровь, и ешьте всё то, над чем было произнесено имя Аллаха, но не (закалывайте животных) клыками и когтями: что же касается когтей, то они используются как ножи эфиопами, что касается зубов, то это — кости». Внезапно один верблюд убежал, и его остановили (стрелой). Затем Пророк ﷺ сказал: «Поистине, некоторые из этих верблюдов одичали и стали подобны диким зверям, и если какое-нибудь из них совершит подобное, поступайте с ним так же (т.е. пустите в него стрелу)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5503</td></tr><tr><td>Arabic No</td><td>5503</td></tr><tr><td>Reference</td><td>Book 72 Hadith 29</td></tr></tbody></table></div>
 

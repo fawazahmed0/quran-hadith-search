@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Zuhayr, d'après ‘Abou ‘Ishâq, d'après ‘Abou Juhayfa : "J'ai vu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus]; Telah menceritakan kepada kami [Zuhair]; Telah menceritakan kepada kami [Abu Ishaq]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Ishaq] dari [Abu Juhaifah] dia berkata; Aku melihat Rasulullah shallallahu 'alaihi wasallam di sininya berwarna putih. -Zuhair sambil meletakan sebagian jari jemarinya di bawah bibirnya.- di katakan kepadanya; "Apa yang kamu lakukan pada waktu itu?" dia menjawab; Aku sedang meraut busur panah dan bulunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6080</td></tr><tr><td>Arabic No</td><td>2342</td></tr><tr><td>Reference</td><td>Book 43 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6080</td></tr><tr><td>Arabic No</td><td>2342</td></tr><tr><td>Reference</td><td>Book 43 Hadith 138</td></tr></tbody></table></div>
 

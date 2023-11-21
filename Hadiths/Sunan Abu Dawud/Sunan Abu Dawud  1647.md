@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn al-Saidi said :Umar employed me to collect the sadaqah. When I finished doin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah? mengabarkan kepada Kami [Abu Al Walid Ath Thayalisi], telah? menceritakan kepada Kami [Al Laits] dari [Bukair bin Abdullah bin Al Asyajj] dari [Busr bin Sa'id] dari [Ibnu As Sa'idi], ia berkata; saya pernah ditunjuk Umar untuk mengurusi zakat, lalu tatkala saya telah selesai darinya dan menyampaikannya kepadanya, ia memerintahkan agar saya diberi uang, maka saya katakan; sesungguhnya saya bekerja hanya untuk Allah Azza wa Jalla, dan pahalaku di sisi Allah 'azza wajalla. Kemudian ia berkata; ambillah apa yang telah diberikan kepadamu, karena sesungguhnya saya telah bekerja pada masa? Rasulullah shallallahu 'alaihi wasallam kemudian beliau memberiku uang lalu aku katakan seperti apa yang telah engkau katakan, kemudian beliau berkata kepadaku: "Apabila engkau diberi sesuatu dengan tanpa meminta maka makan dan sedekahkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7163) Sahih Muslim (1045)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1647</td></tr><tr><td>Arabic No</td><td>1647</td></tr><tr><td>Reference</td><td>Book 9 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ас-Са‘иди передаёт: В своё время ‘Умар, да будет доволен им Аллах, назначил меня сборщиком закята, и когда я выполнил свои обязанности и отдал ему собранное, он велел выплатить мне то, что полагается выплачивать сборщику закята, и я сказал: «Поистине, я работал ради Аллаха, и моя награда у Аллаха». ‘Умар сказал: «Возьми то, что тебе дают, ибо во времена Посланника Аллаха ﷺ я тоже был сборщиком закята и он дал мне плату. Я сказал то же самое, что и ты сейчас, и Посланник Аллаха ﷺ сказал мне: “Если тебе дали что-то, о чём ты не просил, то ешь это сам и отдавай в качестве милостыни (садака)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7163) Sahih Muslim (1045)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1647</td></tr><tr><td>Arabic No</td><td>1647</td></tr><tr><td>Reference</td><td>Book 9 Hadith 92</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported:The Messenger of Allah (ﷺ) distributed spoils (of war). Upon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Al A'masy] dari [Syaqiq] dari [Abdullah] ia berkata; Rasulullah shallallahu 'alaihi wasallam membagikan (harta ghanimah), tiba-tiba seorang laki-laki berkata, "Sesungguhnya itu adalah pembagian bukan karena mengharap wajah Allah." Maka aku pun segera mendatangi Nabi shallallahu 'alaihi wasallam dan memberitahukan akan hal itu padanya, lalu beliau pun sangat marah dan wajahnya memerah hingga aku berangan-angan sekiranya tadi aku tidak menyebutkannya. Dan setelah itu beliau bersabda: "Sesungguhnya Nabi Musa telah disakiti lebih dari ini, namun ia bersabar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2448</td></tr><tr><td>Arabic No</td><td>1062.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 185</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах сказал: «(Однажды) Посланник Аллаха ﷺ разделил (между людьми военную добычу, и увидев это,) один человек воскликнул: “Поистине, такой раздел (был сделан) не ради Аллаха!” Тогда я пришёл к Пророку ﷺ и тайно передал (ему слова этого человека. Выслушав меня, он) разгневался так сильно, что его лицо покраснело, а я пожалел о том, что рассказал ему, после чего он сказал: “Мусу подвергался ещё большим обидам, чем этим, но он терпел!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2448</td></tr><tr><td>Arabic No</td><td>1062.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 185</td></tr></tbody></table></div>
 

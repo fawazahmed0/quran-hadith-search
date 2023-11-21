@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubada b. as-Samit reported Allah's Messenger (ﷺ) as saying:The vision of a bel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] dan [Abu Daud]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami ['Abdur Rahman bin Mahdi] seluruhnya dari [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] dan lafazh ini miliknya; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas bin Malik] dari ['Ubadah bin Ash Shamit] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Mimpinya orang Mu'min adalah bagian dari empat puluh enam kenabian." Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] dari [Tsabit Al Bunani] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5909</td></tr><tr><td>Arabic No</td><td>2264.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5909</td></tr><tr><td>Arabic No</td><td>2264.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 13</td></tr></tbody></table></div>
 

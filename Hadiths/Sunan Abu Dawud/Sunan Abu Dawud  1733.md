@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ AbuUmamah at-Taymi said:I was a man who used to give (riding-beasts) on hire for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abdul Wahid bin Ziyad], telah menceritakan kepada Kami [Al 'Ala' bin Al Musayyab], telah menceritakan kepada Kami [Abu Umamah At Taimi], ia berkata; aku menyewakan sesuatu pada saat perjalanan untuk berhaji, orang-orang mengatakan; engkau tidak mendapatkan pahala haji, kemudian aku menemui [Ibnu Umar] dan aku katakan; wahai Abdurrahman, aku adalah orang yang menyewakan sesuatu saat perjalanan untuk berhaji, dan orang-orang mengatakan bahwa aku tidak mendapatkan pahala haji? Maka Ibnu Umar berkata; bukankah kamu berihram, mengucapkan talbiyah (niat), dan melakukan thawaf di ka'bah, bertolak dari Arafah dan melempar jumrah? Aku menjawab: ya! Dia berkata; kamu mendapatkan pahala haji. Telah datang datang seorang laki-laki kepada Rasulullah shallallahu 'alaihi wasallam dan bertanyakan apa yang engkau tanyakan kepadaku, kemudian Nabi shalla Allahu 'alaihi wa sallam tidak menjawabnya hingga ayat ini turun: "Tidak ada dosa bagimu untuk mencari karunia (rezki hasil perniagaan) dari Tuhanmu." Kemudian Rasulullah shallallahu 'alaihi wasallam mengutus seseorang untuk membacakan ayat ini dan mengatakan kepada orang yang bertanya: engkau mendapatkan pahala haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1733</td></tr><tr><td>Arabic No</td><td>1733</td></tr><tr><td>Reference</td><td>Book 11 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Умама ат-Тайми передаёт: Я предоставлял своих верховых животных людям за плату там, где люди совершали хадж, и мне сказали: «Тебе хадж не засчитается!» Потом я встретил Ибн ‘Умара и сказал: «О Абу ‘Абдуррахман! Поистине, я человек предоставляющий здесь животных за плату, и, поистине, люди говорят, что мне хадж не засчитается!» Ибн ‘Умар сказал: «Разве ты не облачаешься в ихрам и не произносишь тальбию? И разве ты не совершаешь обход вокруг Дома, не покидаешь Арафат, не бросаешь камешки?» Я ответил: «Да, конечно!» Он сказал: «Значит, хадж тебе засчитается. К Посланнику Аллаха, да благословит его Аллах и приветствует, обращался человек с таким же вопросом, и он ничего не отвечал ему до тех пор, пока Всевышний Аллах не ниспослал: “На вас нет греха, если вы ищете добавление от своего Господа” (сура «аль-Бакара», аят 198). Тогда Посланник Аллаха, да благословит его Аллах и приветствует, послал за ним, прочитал ему этот аят и сказал: “Тебе засчитается хадж”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1733</td></tr><tr><td>Arabic No</td><td>1733</td></tr><tr><td>Reference</td><td>Book 11 Hadith 13</td></tr></tbody></table></div>
 

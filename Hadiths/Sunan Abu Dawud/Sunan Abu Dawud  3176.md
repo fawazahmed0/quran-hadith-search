@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ubadah ibn as-Samit: The Messenger of Allah (ﷺ) used to stand up for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hisyam bin Bahram Al Madaini], telah mengabarkan kepada kami [Hatim bin Isma'il], telah menceritakan kepada kami [Abu Al Asbath Al Haritsi] dari [Abdullah bin Sulaiman bin Junadah bin Abu Umayyah] dari [ayahnya] dari [kakeknya] dari ['Ubadah bin Ash Shamit] ia berkata; Rasulullah shallallahu 'alaihi wasallam berdiri untuk menghormati jenazah hingga diletakkan dalam lahad. Kemudian terdapat seorang pendeta yahudi melewatinya dan berkata; demikianlah kami melakukan. Kemudian Nabi shallallahu 'alaihi wasallam duduk dan berkata: "Duduklah, selisihilah (bersikap berbeda terhadap) mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3176</td></tr><tr><td>Arabic No</td><td>3176</td></tr><tr><td>Reference</td><td>Book 21 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Убады ибн ас-Самита, да будет доволен им Аллах, что Посланник Аллаха ﷺ стоял на похоронах, пока покойного не укладывали в нишу. Мимо прошёл учёный иудей и сказал: «Мы поступаем так». Тогда Пророк ﷺ сел и сказал: «Сядьте, поступайте наперекор им»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3176</td></tr><tr><td>Arabic No</td><td>3176</td></tr><tr><td>Reference</td><td>Book 21 Hadith 88</td></tr></tbody></table></div>
 

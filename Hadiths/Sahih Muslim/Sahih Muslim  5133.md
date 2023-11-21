@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:I was standing amongst the uncles of my tribe serving the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Ayyub] telah menceritakan kepada kami [Ibnu Ulayyah] dia berkata; dan telah mengabarkan kepada kami [Sulaiman At Taimi] telah menceritakan kepada kami [Anas bin Malik] dia berkata, "Saya pernah menjadi pelayan yang bertugas menuangkan minuman kepada paman-pamanku, ketika itu saya menuangkan Fadlikh (perasan dari kurma muda) kepada mereka, saat itu aku adalah orang yang termuda di antara mereka, tiba-tiba seorang laki-laki datang sambil berkata, "Sesungguhnya khamer telah diharamkan." Lantas mereka berkata, "Wahai Anas, buanglah!" Lalu saya menumpahkannya. Sulaiman berkata, "Saya bertanya kepada Anas, "Minuman apakah itu?" Anas menjawab, "Busyr (kurma muda) dan ruthab (kurma masak)." Perawi berkata, "Lalu Abu Bakar bin Anas berkata, "Saat itu khamer mereka adalah Al Fadlih (minuman dari campuran kurma)." [Sulaiman] berkata, " [seorang laki-laki] menceritakan kepadaku dari [Anas bin Malik], bahwa dia berkata seperti itu juga." Telah menceritakan kepadaku [Muhammad bin Abdul A'la] telah menceritakan kepadaku [Al Mu'tamir] dari [ayahnya] dia berkata; [Anas] berkata, "Saya pernah menjadi pelayan di suatu kaum untuk menuangkan minuman kepada mereka...seperti hadits Ibnu Ulayyah, hanya saja ia menyebutkan, "Abu Bakar bin Anas mengatakan, "Khamer mereka saat itu adalah Al Fadlikh (terbuat dari campuran kurma)." Anas adalah orang yang saat itu menyaksikannya, maka ia pun tidak mengingkarinya." [Ibnu Abdul A'la] berkata; telah menceritakan kepadaku [Al Mu'tamir] dari [ayahnya] dia berkata; telah menceritakan kepadaku [sebagian orang yang bersamaku] bahwa dia pernah mendengar [Anas] berkata, "Saat itu khamer mereka adalah Al Fadlikh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5133</td></tr><tr><td>Arabic No</td><td>1980.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5133</td></tr><tr><td>Arabic No</td><td>1980.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 7</td></tr></tbody></table></div>
 

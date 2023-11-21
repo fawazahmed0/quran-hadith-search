@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, on the day of the Conquest of Mecca,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Adam bin Abi Iyas] telah bercerita kepada kami [Syaiban] dari [Manshur] dari [Mujahid] dari [Thawus] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Nabi Shallallahu'alaihiwasallam bersabda pada saat hari Pembebasan Makkah: "Tidak ada lagi hijrah, akan tetapi yang tetap ada adalah jihad dan niat. Maka bila kalian diperintahkan berangkat (berperang) maka berangkatlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3077</td></tr><tr><td>Arabic No</td><td>3077</td></tr><tr><td>Reference</td><td>Book 56 Hadith 282</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что в день завоевания Мекки Пророк ﷺ сказал: «Нет хиджры (после завоевания Мекки), но остался джихад и благое намерение, и если вас призовут, то выступайте!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3077</td></tr><tr><td>Arabic No</td><td>3077</td></tr><tr><td>Reference</td><td>Book 56 Hadith 282</td></tr></tbody></table></div>
 

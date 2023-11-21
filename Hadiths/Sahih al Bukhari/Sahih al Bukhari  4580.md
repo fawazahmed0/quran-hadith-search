@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Regarding the Verse: "To everyone, We have appointed heirs."
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ash Shalt bin Muhammad] Telah menceritakan kepada kami [Abu Usamah] dari [Idris] dari [Thalhah bin Musharrif] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] mengenai firman Allah; Bagi tiap-tiap harta peninggalan dari harta….. (An Nisa: 33). Ibnu Abbas berkata; Yaitu dijadikan pewaris. Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka, maka berilah kepada mereka bagiannya. Dahulu tatkala orang-orang muhajirin datang ke Madinah, orang Muhajirin dapat mewariskan kepada orang Anshar walaupun tidak ada hubungan kekerabatan. Hanya sebatas tali persaudaraan yang telah dilakukan oleh Nabi shallallahu 'alaihi wasallam di antara mereka. Tatkala ayat ini turun: Bagi tiap-tiap harta peninggalan dari harta….. (An Nisa: 33). Maka kebiasaan itu dihapus. Selanjutnya ayat: Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka, maka berilah kepada mereka bagiannya, hal ini menunjukan bolehnya saling menolong, melayani, memberi nasihat, memberi wasiat selelah dihapuskannya saling mewarisi di antara mereka. Demikian juga Abu Usamah mendengar hal ini dari Idris dan Idris mendengar dari Thalhah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 65 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего «Каждому человеку Мы определили близких» (сура «ан-Ниса», аят 33), что «мауалия» (слово использованное в этом аяте) означает наследники.\nА в отношении слов «С кем вы связаны клятвами» он сказал: «Когда мухаджиры прибыли в Медину, они с ансарами наследовали друг другу вместо кровных родственников из-за того, что Пророк ﷺ побратал их. И когда было ниспослано: “Каждому человеку Мы определили близких”, то этот аят отменил такое наследство».\nЗатем он сказал: «“С кем вы связаны клятвами” (было отменено), кроме поддержки, взаимопомощи, искреннего отношения, а наследство было отменено, но можно было завещать (побратимому часть имущества)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 65 Hadith 102</td></tr></tbody></table></div>
 

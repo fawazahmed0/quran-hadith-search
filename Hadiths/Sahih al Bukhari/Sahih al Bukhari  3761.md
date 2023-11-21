@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Alqama:I went to Sham and was offering a two-rak'at prayer; I said, "O 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa] dari [Abu 'Awanah] dari [Mughirah] dari [Ibrahim] dari ['Alqamah] berkata; "Aku pernah berkunjung ke negeri Syam lalu shalat dua raka'at disana kemudian aku berdo'a; "Ya Allah, mudahkanlah aku untuk bisa memperoleh kawan yang shalih". Kemudian aku melihat [ada orang yag sudah tua datang]. Ketika dia sudah dekat, aku berkata dalam hati; "Kuharap orang ini sebagai jawaban atas do'aku". Orang tua itu bertanya; "Kamu berasal dari mana?". Aku jawab; "Dari Kufah". Dia berkata lagi; "Bukankah bersama kalian disana ada pembawa sepasang sandal (nabi shallallahu 'alaihi wasallam), pemilik tikar dan bejana? (maksudnya adalah 'Abdullah bin Mas'ud radliallahu 'anhu)?. Sungguh bukankah bersama kalian disana ada orang yang telah Allah jauhkan dari setan yakni melalui lisan Nabi-Nya shallallahu 'alaihi wasallam?. Bukankah bersama kalian disana ada orang yang mengetahui detail kehidupan Nabi shallallahu 'alaihi wasallam yang tidak ada orang lain yang mengetahuinya kecuali dia?". Kemudian dia bertanya lagi; "Bagaimana Ummu 'Abd membaca firman Allah: ("Wal laili")?. Maka aku bacakan kepadanya; 'Wal laili idzaa yaghsyaa, wan nahaari idzaa tajallaa, wadz dzakari wal untsaa"-dengan harakat kasrah pada huruf ro' sehingga berbunyi adzdzakari bukan adzdzakaro--. Orang tua itu berkata; "Sungguh Nabi Rasulullah shallallahu 'alaihi wasallam telah membacakannya dari mulut beliau langsung kepada mulutku dan ayat-ayat itu aku masih menghafalnya hingga hampir saja mereka memalingkan aku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3761</td></tr><tr><td>Arabic No</td><td>3761</td></tr><tr><td>Reference</td><td>Book 62 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькама сказал: «Прибыв в Шам, я совершил (в мечети) молитву в два рак’ата, и сказал: “О Аллах, помоги мне (найти праведного) собеседника!” После этого я увидел старца, идущего ко мне, и когда он приблизился, я сказал: “Надеюсь, что на мою молитву пришёл ответ”. Он спросил: “Откуда ты?” Я ответил: “Я из жителей Куфы”. Он спросил: “Так разве нет среди вас владельца сандалий, подушки и воды для очищения? И разве нет среди вас того, кого Аллах защитил от шайтана? А разве нет среди вас хранителя секретов (Пророка ﷺ), которому известно то, чего никто больше не знает?” (После этого) он спросил: “Как Ибн Умм ‘Абд (то есть ‘Абдуллах ибн Мас‘уд) читает (суру, в которой сказано): “Клянусь ночью...”? Я прочитал: “Клянусь ночью, когда она (всё) покрывает (мраком), клянусь днём, когда предстает он в полном блеске. Клянусь мужчиной и женщиной...” (Тогда он) сказал: “Пророк ﷺ учил меня читать эту суру из уст в уста, а эти люди (жители Шама) пытались сделать так, чтобы я перестал её так читать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3761</td></tr><tr><td>Arabic No</td><td>3761</td></tr><tr><td>Reference</td><td>Book 62 Hadith 106</td></tr></tbody></table></div>
 

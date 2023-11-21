@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Urwah reported on the authority of Umm Habibah that she was married to Abdullah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Ya'qub Ats Tsaqafi], telah menceritakan kepada kami [Mu'alla bin Manshur], telah menceritakan kepada kami [Ibnu Al Mubarak], telah menceritakan kepada kami [Ma'mar], dari [Az Zuhri] dari ['Urwah] dari [Ummu Habibah] bahwa ia pernah menjadi isteri 'Ubaidullah bin Jahsy, kemudian ia meninggal di Negeri Habasyah, lalu An Najasyi menikahkannya dengan Nabi shallallahu 'alaihi wasallam. An Najasyi memberikan mahar empat ribu, dan ia mengirimnya kepada Rasulullah shallallahu 'alaihi wasallam bersama Syurahbil bin Hasanah. Abu Daud berkata; Hasanah adalah ibunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2107</td></tr><tr><td>Arabic No</td><td>2107</td></tr><tr><td>Reference</td><td>Book 12 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Хабибы, да будет доволен ею Аллах, что она была замужем за ‘Убайдуллахом ибн Джахшем, он скончался, когда они были в Эфиопии, и негус выдал её замуж за Пророка ﷺ и дал ей в качестве брачного дара от его имени четыре тысячи, а потом отправил её к Посланнику Аллаха ﷺ с Шурахбилем ибн Хасаной
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2107</td></tr><tr><td>Arabic No</td><td>2107</td></tr><tr><td>Reference</td><td>Book 12 Hadith 62</td></tr></tbody></table></div>
 

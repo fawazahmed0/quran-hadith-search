@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:While I was asleep I saw 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus] bahwa [Ibnu Syihab] Telah mengabarkan kepadanya dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam sesungguhnya beliau bersabda: "Ketika aku sedang tidur, tiba-tiba aku melihat diriku di surga lalu ada seorang wanita yang sedang membersihkan dirinya dengan air di sebelah istana. Kemudian aku pun bertanya kepadanya; 'Siapa yang memiliki istana ini? Mereka menjawab, istana ini milik Umar bin Khaththab.' Lalu aku tuturkan kecemburuan Umar itu dan akhirnya aku pun berpaling darinya." Abu Hurairah berkata, "Kemudian Umar menangis, sedangkan kami bersama Rasulullah shallallahu 'alaihi wasallam sedang berada di majelis tersebut. Tak lama kemudian Umar bin Khaththab berkata; Ya Rasulullah, demi ayah dan ibuku apakah mungkin saya cemburu kepada engkau." Dan telah menceritakannya kepadaku ['Amru An Naqid] dan [Hasan Al Hulwani] serta ['Abad bin Humaid] mereka berkata; Telah menceritakan kepada kami [Ya'qub bin Ibrahim]; Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu Syihab] melalui jalur ini dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6200</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6200</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

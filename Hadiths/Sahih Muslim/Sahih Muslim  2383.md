@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that a person came to the Messenger of Allah (ﷺ) and said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Numair] keduanya berkata, telah menceritakan kepada kami [Ibnu Fudlail] dari [Umarah] dari [Abu Zur'ah] dari [Abu Hurairah] ia berkata; Seorang laki-laki menemui Nabi shallallahu 'alaihi wasallam dan bertanya, "Wahai Rasulullah, sedekah yang bagaimanakah yang paling besar pahalanya?" Maka beliau menjawab: "Demi bapakmu, kamu benar-benar akan diberitahu. Yaitu, kamu bersedekah pada saat kamu sehat, kikir, khawatir akan miskin dan kamu berangan-angan harta tersebut akan kekal bersamamu. Dan janganlah kamu lalai hingga nyawamu sampai di tenggorokan dan barulah kamu bagi-bagikan sedekahmu, ini untuk si Fulan dan ini untuk Fulan. Dan ingatlah, bahwa harta itu, memang untuk si Fulan." Telah menceritakan kepada kami [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Umarah bin Al Qa'qa'] dengan isnad ini sebagaimana hadits Jarir. Hanya saja ia mengatakan; "Sedekah yang bagaimanakah yang paling utama?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2383</td></tr><tr><td>Arabic No</td><td>1032.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «(Однажды) один человек пришёл к Пророку ﷺ и спросил: “О Посланник Аллаха, за какую милостыню (обещана) наибольшая (награда)?” Он ответил: “Тебе непременно будет сообщено об этом. За ту, которую ты подашь, будучи здоровым и скупым, опасаясь бедности и надеясь разбогатеть. И не откладывай до тех пор, пока (не окажешься при смерти и) душа твоя не дойдёт до ключиц, (чтобы лишь тогда) сказать: ‹Такому-то столько, а такому-то столько› (в то время как это уже будет принадлежать) такому-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2383</td></tr><tr><td>Arabic No</td><td>1032.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 120</td></tr></tbody></table></div>
 

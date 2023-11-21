@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Maimun:I saw 'Umar, offering the Fajr (morning) prayer at Jam'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] aku mendengar ['Amru bin Maimun] berkata: "Aku menyaksikan ['Umar] radliallahu 'anhu shalat Shubuh di Jama' (Muzdalifah) lalu wuquf disana kemudian berkata: "Sesungguhnya orang-orang musyrik tidak bertolak hingga terbit matahari dan mereka berkata: "Terbitkanlah (matahari), wahai gunung Tsabir". Dan Nabi Shallallahu'alaihiwasallam kemudian menyelisih mereka maka Beliau bertolak sebelum matahari terbit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1684</td></tr><tr><td>Arabic No</td><td>1684</td></tr><tr><td>Reference</td><td>Book 25 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Умар, да будет доволен им Аллах, совершил утренний намаз на месте сбора, а потом встал и сказал: «Поистине, многобожники не покидали (Муздалифу) до восхода солнца и говорили: “Сабир, озарись!” — что же касается Пророка ﷺ то он поступил вопреки им и покинул (Муздалифу) до восхода солнца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1684</td></tr><tr><td>Arabic No</td><td>1684</td></tr><tr><td>Reference</td><td>Book 25 Hadith 164</td></tr></tbody></table></div>
 

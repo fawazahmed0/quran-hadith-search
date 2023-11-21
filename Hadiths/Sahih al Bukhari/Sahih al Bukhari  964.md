@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) offered a two rak'at prayer on the Day of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Syu'bah] dari ['Adi bin Tsabit] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas], bahwa Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat Hari Raya 'Idul Fitri dua rakaat dan tidak shalat sebelum atau sesudahnya. Kemudian beliau mendatangi para wanita dan memerintahkan mereka untuk bersedekah. Maka para wanita memberikan sedekah hingga ada seorang wanita yang memberikan anting dan kalungnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>964</td></tr><tr><td>Arabic No</td><td>964</td></tr><tr><td>Reference</td><td>Book 13 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, что Пророк ﷺ совершил праздничную (аль-Фитр) молитву два рак‘ата, и он не совершил ни до нее, ни после нее никаких других молитв. Затем он подошел к женщинам вместе с Билялом и приказал им подавать милостыню, и они стали бросать (милостыню). Женщины бросали свои серьги и ожерелья
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>964</td></tr><tr><td>Arabic No</td><td>964</td></tr><tr><td>Reference</td><td>Book 13 Hadith 13</td></tr></tbody></table></div>
 

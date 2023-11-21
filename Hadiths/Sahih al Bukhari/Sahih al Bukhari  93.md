@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:One day Allah's Messenger (ﷺ) came out (before the peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam keluar, lalu Abdullah bin Hudzafah menghadap kepadanya dan berkata: "Siapakah bapakku?" Nabi shallallahu 'alaihi wasallam menjawab: "Bapakmu Hudzaafah". Ketika semakin banyak pertanyaan, Nabi bersabda: "Bertanyalah kalian kepadaku?" Maka Umar turun berlutut seraya berkata: "Kami ridla Allah sebagai Rabb kami, Islam sebagai agama kami dan Muhammad shallallahu 'alaihi wasallam sebagai Nabi Kami." Maka Abdullah bin Hudzafah terdiam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>93</td></tr><tr><td>Arabic No</td><td>93</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал: «Анас ибн Малик сообщил мне о том, что когда (однажды) Посланник Аллаха ﷺ вышел (к людям), ‘Абдуллах ибн Хузафа встал и сказал: “Кто мой отец?” (Пророк ﷺ) сказал: “Твой отец Хузафа”. Затем они стали настаивать (с вопросами), пока он не сказал: “Спрашивайте меня”. Тогда ‘Умар встал на колени и сказал: “Мы довольны Аллахом как Господом, Исламом как религией и Мухаммадом ﷺ как Пророком! (И тогда Пророк ﷺ) промолчал”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>93</td></tr><tr><td>Arabic No</td><td>93</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
 

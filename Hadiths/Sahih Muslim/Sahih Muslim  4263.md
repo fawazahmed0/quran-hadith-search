@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa Al-Ach'âri a dit : Je vins trouver le Prophète (paix et bénédict
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalf bin Hisyam] dan [Qutaibah bin sa'id] dan [Yahya bin Habib Al Haritsi] dan ini adalah lafadz Half, mereka berkata; telah menceritakan kepada kami [Hammad bin Zaid] dari [Ghailan bin Jarir] dari [Abu Bardah] dari [Abu Musa Al Asy'ari] dia berkata, "Aku pernah mendatangi Nabi shallallahu 'alaihi wasallam bersama dengan sekelompok orang-orang Asy'ari, untuk memohon perbelanjaan perang kepada beliau. Maka beliau bersabda: "Demi Allah, sungguh aku tidak dapat memberikan perbelanjaan perang kepada kalian, karena aku tidak memiliki sesuatu untuk diberikan kepada kalian semua." Abu Musa melanjutkan, "Setelah itu kami terdiam beberapa saat, sesuai yang dikehendaki Allah. Selang beberapa saat, ada seorang laki-laki datang dengan membawa unta kepada beliau, lalu beliau menyuruh untuk memberikannya kepada kami, yaitu tiga ekor unta berpunuk putih. Setelah kami pergi, kami saling berkata-kata sesama kami, "Sepertinya Allah tidak memberkati kita, kita datang kepada Rasulullah shallallahu 'alaihi wasallam meminta perbelanjaan perang, lalu beliau bersumpah tidak akan menanggung perbelanjaan kita. Nyatanya kita diberikannya juga." Karena itu, mereka pergi menemui Rasulullah shallallahu 'alaihi wasallam dan menceritakan kepada beliau apa yang terpikir oleh mereka. Beliau bersabda: "Memang, sesungguhnya bukan akulah yang menanggung perbelanjaan kalian, tetapi Allahlah yang menanggungnya. Demi Allah, sesungguhnya aku -Insya Allah- tidak akan mengucapkan suatu sumpah, kemudian melihat yang lebih baik dari itu kecuali aku akan membayar atas sumpahku, lalu aku akan ambil yang lebih baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4263</td></tr><tr><td>Arabic No</td><td>1649.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4263</td></tr><tr><td>Arabic No</td><td>1649.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 10</td></tr></tbody></table></div>
 

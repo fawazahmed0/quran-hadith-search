@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Had Allah's Messenger (ﷺ) known what the women were doing, he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Yahya bin Sa'id] dari ['Amrah] dari ['Aisyah] radliallahu 'anha berkata, "Seandainya Rasulullah shallallahu 'alaihi wasallam mengetahui apa yang telah terjadi dengan para wanita sekarang ini, niscaya beliau akan melarang mereka sebagaimana dilarangnya para wanita bani Isra'il." Yahya berkata, "Aku bertanya 'Amrah, "Apakah mereka dilarang? 'Amrah menjawab, "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>869</td></tr><tr><td>Reference</td><td>Book 10 Hadith 260</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Яхйи ибн Са‘ида то, что ‘Амра сообщила ему, что ‘Аиша, да будет доволен ею Аллах, сказала: «Если бы Посланник Аллаха ﷺ увидел, что сотворили женщины, то он непременно запретил бы им (посещать) мечеть, как это было запрещено женщинам сынов Исраила». Яхйа сказал: «Я спросил у ‘Амры: “Разве это было им запрещено?” Она ответила: “Да”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>869</td></tr><tr><td>Reference</td><td>Book 10 Hadith 260</td></tr></tbody></table></div>
 

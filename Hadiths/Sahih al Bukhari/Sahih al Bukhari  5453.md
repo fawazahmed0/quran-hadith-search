@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:We were with Allah's Messenger (ﷺ) collecting Al-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Ufair] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] ia berkata; telah mengabarkan kepadaku [Abu Salamah] ia berkata; telah mengabarkan kepadaku [Jabir bin Abdullah] ia berkata, "Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam di Marru Azh Zhahran memetik biji pohon Arok (pohon siwak), beliau lalu bersabda: "Hendaklah kalian mengambil biji hitam buah itu, sebab ia sangat bagus." Jabir lalu bertanya; "Apakah engkau mengembala kambing?" Beliau menjawab: "Ya. Tidak ada seorang Nabi kecuali ia mengembala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5453</td></tr><tr><td>Arabic No</td><td>5453</td></tr><tr><td>Reference</td><td>Book 70 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах сказал: «(Однажды, когда) мы с Посланником Аллаха ﷺ собирали спелые плоды арака в долине Марр аз-Захран, Посланник Аллаха ﷺ сказал: “Берите из них чёрные, ибо они являются наилучшими”. (Люди) спросили (Пророка ﷺ): “Пас ли ты овец?” (В ответ) он сказал: “А разве был хоть один пророк, который не пас их?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5453</td></tr><tr><td>Arabic No</td><td>5453</td></tr><tr><td>Reference</td><td>Book 70 Hadith 82</td></tr></tbody></table></div>
 

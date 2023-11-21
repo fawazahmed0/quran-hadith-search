@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:When Abu Taiba cupped the Prophet (ﷺ) and the Prophet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Humaid Ath-Thowil] dari [Anas bin Malik radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam pernah dibekam oleh Abu Thoyyibah lalu Beliau memberi upah kepadanya dengan satu sha' atau dua sha' makanan dan berbicara kepada penarik pajaknya untuk meringankan pajaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 37 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Однажды Абу Тайба сделал кровопускание (хиджама) Пророку ﷺ, и он приказал дать ему (за это) один или два са‘ фиников, и поговорил с его хозяевами, чтобы они снизили (взимаемую) с него плату»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 37 Hadith 17</td></tr></tbody></table></div>
 

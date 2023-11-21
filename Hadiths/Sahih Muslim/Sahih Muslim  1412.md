@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit de Anas Ibn Mâlik (que Dieu l'agrée) transmis par Abou 'Umâma. Celui-c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Ayyub] dan [Muhammad bin Shabah] dan [Qutaibah] dan [Ibn Hujr] mereka berkata; telah menceritakan kepada kami [Ismail bin Ja'far] dari [Al 'Ala' bin Abdurrahman] bahwa ia pernah menemui [Anas bin Malik] di rumahnya di Bashrah, yaitu ketika selesai shalat zhuhur, sementara rumahnya berada disamping masjid. Ketika kami menemuinya, dia bertanya; "Apakah kalian sudah shalat ashar?" Kami jawab; "Baru saja kami tinggalkan waktu shalat zhuhur." Kata Anas; "Lakukanlah shalat 'Ashar." Maka kami pun melakukan shalat ashar. Ketika kami selesai mengerjaan shalat Ashar, aku mendengar dia mengatakan; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ashar itulah shalat (yang biasanya ditelantarkan) orang munafik, ia duduk mengamat-amati matahari, jika matahari telah berada diantara dua tanduk setan, ia melakukannya dan ia mematuk empat kali (Rasul pergunakan istilah mematuk, untuk menyatakan sedemikian cepatnya, bagaikan jago mematuk makanan -pent) ia tidak mengingat Allah kecuali sedikit sekali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1412</td></tr><tr><td>Arabic No</td><td>622</td></tr><tr><td>Reference</td><td>Book 5 Hadith 246</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-‘Аля ибн ‘Абдуррахмана, что (как-то раз) после полуденной молитвы он зашёл к Анасу ибн Малику, дом которого в Басре находился рядом с мечетью. (Аль-‘Аля сказал): «Когда мы вошли к нему, он спросил: “Совершили ли вы послеполуденную молитву?” Мы стали говорить: “Мы ведь только недавно совершили полуденную!”, однако он велел: “Совершите послеполуденную молитву”. Тогда мы встали и совершили эту молитву, а когда закончили молиться, (Анас) сказал: “Я слышал, как Посланник Аллаха ﷺ сказал: “Такова молитва лицемера, который сидит и ждёт, пока солнце (не начинает садиться), а когда оно оказывается меж двух краёв головы шайтана, (лицемер) встаёт и совершает четыре (рака’ата), быстро кланяясь, подобно птице, которая клюёт (зерно), и лишь немного поминая Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1412</td></tr><tr><td>Arabic No</td><td>622</td></tr><tr><td>Reference</td><td>Book 5 Hadith 246</td></tr></tbody></table></div>
 

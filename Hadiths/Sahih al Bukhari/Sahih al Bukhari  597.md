@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "If anyone forgets a prayer he should pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] dan [Musa bin Isma'il] keduanya berkata, telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa lupa suatu shalat, maka hendaklah dia melaksanakannya ketika dia ingat. Karena tidak ada tebusannya kecuali itu. Allah berfirman: '(Dan tegakkanlah shalat untuk mengingat-Ku) ' (Qs. Thaahaa: 14). Musa berkata, Hammam berkata, "Setelah itu aku mendengar beliau mengucapkan: '(Dan tegakkanlah shalat untuk mengingat-Ku) ' Abu 'Abdullah berkata; [Habban] berkata, telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Anas bin Malik] dari Nabi shallallahu 'alaihi wasallam seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>597</td></tr><tr><td>Reference</td><td>Book 9 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса (ибн Малика, да будет доволен им Аллах,) о том, что Пророк ﷺ сказал: «Тот, кто забудет о молитве, пусть помолится, когда вспомнит о ней. Нет за него иного искупления, кроме этого (, а Аллах Всевышний сказал): “…и выстаивай молитву, чтобы помнить обо Мне”».\nАнас передал от Пророка ﷺ похожий хадис
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>597</td></tr><tr><td>Reference</td><td>Book 9 Hadith 72</td></tr></tbody></table></div>
 

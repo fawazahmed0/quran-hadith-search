@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:(During the early days of Islam), the inheritance used to be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhamad bin Yusuf] dari [Warqo'] dari [Ibnu Abi Najih] ari ['Atho'] dari [Ibnu Abbas] radliallahu 'anhuma mengatakan; 'dahulu harta untuk anak dan washiyat untuk kedua orang tua, kemudian Allah menghapus hal itu sekehendak-Nya, dan menjadikan bagi anak laki-laki seperti dua bagian anak perempuan, untuk kedua orangtua masing-masing seperenam, dan isteri seperdelapan dan seperempat, dan suami separoh dan seperempat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6739</td></tr><tr><td>Arabic No</td><td>6739</td></tr><tr><td>Reference</td><td>Book 85 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Раньше имущество умершего переходило по наследству его ребёнку, а завещание должно было быть его родителям. И Аллах отменил из этого то, что захотел, установив для мужчины долю двух женщин, для каждого из родителей шестую часть, для женщины восьмую или четвёртую часть, а для мужа половину или четвёртую часть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6739</td></tr><tr><td>Arabic No</td><td>6739</td></tr><tr><td>Reference</td><td>Book 85 Hadith 16</td></tr></tbody></table></div>
 

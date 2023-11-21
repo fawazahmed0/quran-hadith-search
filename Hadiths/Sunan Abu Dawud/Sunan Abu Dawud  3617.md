@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu hurairah reported the holy prophet (peace be upon him) as saying:When two me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Salamah bin Syabib] mereka berkata; telah menceritakan kepada kami [Abdurrazzaq] [Ahmad] berkata; telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila dua orang tidak senang bersumpah atau tidak menyukainya, maka hendaknya mereka berdua berundi untuk mendapatkannya." [Salamah] berkata; telah mengabarkan kepada kami [Ma'mar] dan ia berkata, "Apabila dua orang dipaksa untuk bersumpah." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Khalid bin Al Harits] dari [Sa'id bin Abu 'Arubah] dengan sanad Ibnu Minhal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3617</td></tr><tr><td>Arabic No</td><td>3617</td></tr><tr><td>Reference</td><td>Book 25 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если оба не желают клясться или, напротив, оба желают, они должны бросить жребий». Саляма сказал: «Ма‘мар сообщил нам...». И он сказал: «“Если двое вынуждены поклясться…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3617</td></tr><tr><td>Arabic No</td><td>3617</td></tr><tr><td>Reference</td><td>Book 25 Hadith 47</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (may peace he upon him) wed to make this su
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Nafi' Al 'Abdi] telah menceritakan kepada kami [Bahz bin Asad Al 'Ammi]; telah menceritakan kepada kami [Harun Al A'war] telah menceritakan kepada kami [Syu'aib bin Al Habhab] dari [Anas] dia berkata; bahwa Nabi Allah shallallahu 'alaihi wasallam berdo'a dengan do'a: "ALLAHUMMA INNI A'UUDZU BIKA MINAL BUKHLI WAL KASALI WA ARDZALIL 'UMURI WA 'ADZAABIL QABRI WA FITNATIL MAHYAA WAL MAMAATI (Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kekikiran, kemalasan, umur yang menjadikan pikun, siksa kubur dan fitnah dunia dan fitnah kematian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6876</td></tr><tr><td>Arabic No</td><td>2706.04</td></tr><tr><td>Reference</td><td>Book 48 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6876</td></tr><tr><td>Arabic No</td><td>2706.04</td></tr><tr><td>Reference</td><td>Book 48 Hadith 70</td></tr></tbody></table></div>
 

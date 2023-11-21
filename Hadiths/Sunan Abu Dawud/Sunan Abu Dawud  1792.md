@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) raised his voice in talbiyah for 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Hasan bin Syaukar], dan [Ahmad bin Mani'], mereka berkata; telah menceritakan kepada Kami [Husyaim] dari [Yazid bin Abu Ziyad], [Ibnu Mani'] berkata; telah mengabarkan kepada Kami [Yazid bin Abu Ziyad] secara makna dari [Mujahid] dari [Ibnu Abbas], ia berkata; Nabi shallallahu 'alaihi wasallam bertalbiyah untuk melakukan haji, kemudian tatkala datang, beliau berthawaf di Ka'bah, dan Shafa serta Marwa. Ibnu Syaukar berkata; dan beliau tidak mencukur rambut, kemudian keduanya bersepakat (dalam kalimat selanjutnya); dan beliau tidak bertahallul karena keberadaan hewan kurban, dan beliau memerintahkan orang yang tidak menuntun hewan kurban agar berthawaf dan bersa'i serta mencukur rambut, kemudian bertahallul. Ibnu Mani' dalam haditsnya menambahkan; atau menggundul rambut kemudian bertahallul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1792</td></tr><tr><td>Arabic No</td><td>1792</td></tr><tr><td>Reference</td><td>Book 11 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что он сказал: «Пророк ﷺ произнёс тальбию для хаджа и по прибытии в Мекку совершил обход вокруг Каабы и пробег между холмами Сафа и Марва и не укорачивал волосы. Он не вышел из состояния ихрама, потому что пригнал жертвенный скот и велел тем, кто не гнал жертвенный скот, совершить обход вокруг Каабы и пробег между двумя холмами, укоротить (или: укоротить или сбрить) волосы и выйти из состояния ихрама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1792</td></tr><tr><td>Arabic No</td><td>1792</td></tr><tr><td>Reference</td><td>Book 11 Hadith 72</td></tr></tbody></table></div>
 

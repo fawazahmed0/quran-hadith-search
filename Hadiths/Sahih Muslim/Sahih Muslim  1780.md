@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) used to exhort (his Companions
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam memberikan motivasi untuk mengerjakan (shalat pada malam) Ramadlan dengan tidak mewajibkannya. Beliau bersabda: "Barangsiapa yang menunaikan (shalat pada malam) Ramadlan dengan penuh keimanan dan mengharap (pahala dari Allah), maka dosa-dosanya yang telah berlalu akan diampuni." Kemudian Rasulullah shallallahu 'alaihi wasallam wafat, sementara perkara itu tetap seperti itu. Demikian pula pada kekhilafahan Abu Bakar hingga permulaan kekhilafahan Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1780</td></tr><tr><td>Arabic No</td><td>759.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ побуждал (людей) совершать (добровольные) ночные молитвы во время рамадана, но не приказывал им этого категорически, а (только) говорил: “Тому, кто во время рамадана будет молиться по ночам с верой и надеждой (на награду Аллаха), простятся его прежние грехи”. И в этом отношении всё оставалось по-прежнему до самой смерти Посланника Аллаха ﷺ, а также во время правления Абу Бакра и в начале правления ‘Умара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1780</td></tr><tr><td>Arabic No</td><td>759.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 208</td></tr></tbody></table></div>
 

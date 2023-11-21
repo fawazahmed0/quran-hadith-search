@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Tsabit Al Bunani] dari [Sumayyah] dari ['Aisyah radliallahu 'anha] ia berkata, "Ketika unta Shafiyah binti Huyay sakit, Zainab masih mempunyai kendaraan yang bisa digunakan. Lalu Rasulullah shallallahu 'alaihi wasallam berkata kepada Zainab: "Berilah Shafiyah unta." Zainab menjawab, "Aku harus memberi Yahudi itu!" Rasulullah shallallahu 'alaihi wasallam pun marah, kemudian beliau mendiamkannya selama bulan Dzul hijjah, Muharram dan sebagian bulan Shafar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4602</td></tr><tr><td>Arabic No</td><td>4602</td></tr><tr><td>Reference</td><td>Book 42 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что верблюд Сафии бинт Хуяйй заболел, а у Зейнаб был лишний. Посланник Аллаха ﷺ сказал ей: «Дай ей верблюда». Зейнаб сказала: «Мне дать (верблюда) этой еврейке?» Посланник Аллаха ﷺ разгневался и не общался с ней всю зу-ль-хиджжу, мухаррам и часть сафара
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4602</td></tr><tr><td>Arabic No</td><td>4602</td></tr><tr><td>Reference</td><td>Book 42 Hadith 7</td></tr></tbody></table></div>
 

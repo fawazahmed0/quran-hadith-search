@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying that Allah said to him:" 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Rafi'] Telah menceritakan kepada kami [Abdurrazaq bin Hammam] Telah menceritakan kepada kami [Ma'mar bin Rasyid] dari [Hammam bin Munabbih] saudaranya Wahb bin Munabbih, ia berkata; Ini adalah beberapa hadits yang telah diceritakan oleh [Abu Hurairah] kepada kami, dari Rasulullah shallallahu 'alaihi wasallam -maka ia pun menyebutkan hadits, di antaranya adalah- Dan Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah telah berfirman kepadaku: 'Berinfaklah kamu, niscaya Aku akan berinfak (memberikan ganti) kepadamu.'" Dan Rasulullah shallallahu 'alaihi wasallam juga bersabda: "Pemberian Allah selalu cukup, dan tidak pernah berkurang walaupun mengalir siang dan malam. Adakah terpikir olehmu, sudah berapa banyakkah yang diberikan Allah sejak terciptanya langit dan bumi? Sesungguhnya apa yang ada di dalam Tangan Allah, tidak pernah berkurang karenanya. Arsy-Nya di atas air, sedangkan di tangan-Nya yang lain maut, yang meluaskan rizki hamba-Nya atau menyempitkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2309</td></tr><tr><td>Arabic No</td><td>993.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Поистине, Аллах сказал мне: “Расходуй, и Я стану расходовать на тебя”».И Посланник Аллаха ﷺ также сказал: «Рука Аллаха полна, и не опустошат её непрерывные траты ночью и днём. Разве вы не видите, сколько израсходовал Он с тех пор, как создал небеса и землю? Однако, поистине, это не уменьшило того, что есть в Его руке». И он сказал: «Трон Его на воде, а в другой Его руке смерть, Он возвышает и принижает (кого пожелает)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2309</td></tr><tr><td>Arabic No</td><td>993.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 46</td></tr></tbody></table></div>
 

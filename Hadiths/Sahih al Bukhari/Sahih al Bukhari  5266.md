@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:that he heard Ibn 'Abbas saying, "If a man makes his w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Hasan bin Shabbah] Ia mendengar [Ar Robi' bin Nafi'] Telah menceritakan kepada kami [Mu'awiyah] dari [Yahya bin Abu Katsir] dari [Ya'la bin Hakim] dari [Sa'id bin Jubair] bahwa ia telah mengabarkan kepadanya bahwa ia mendengar [Ibnu Abbas] berkata; "Bila seseorang mengharamkan isterinya seperti mengatakan 'Engkau sekarang bagiku bukan apa-apanya lagi', maka itu harus membayar kaffarat", lantas ia membacakan ayat, "Sesungguhnya pada diri Rasulullah terdapat suri tauladan bagi kalian." (QS. AL-Ahzab)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5266</td></tr><tr><td>Arabic No</td><td>5266</td></tr><tr><td>Reference</td><td>Book 68 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал, что, если мужчина объявит свою жену запретной для себя, то это не считается (разводом), затем он прочитал: «В Посланнике Аллаха был прекрасный пример для вас…» (сура «аль-Ахзаб», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5266</td></tr><tr><td>Arabic No</td><td>5266</td></tr><tr><td>Reference</td><td>Book 68 Hadith 16</td></tr></tbody></table></div>
 

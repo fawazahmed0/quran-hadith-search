@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The 'Prophet said, "It is obligatory for one to listen to and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari ['Ubaidullah] berkata telah bercerita kepadaku [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam. Dan diriwayatkan pula, telah bercerita kepadaku [Muhammad bin Shobbah] telah bercerita kepada kami [Isma'il bin Zakariya'] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Mendengar dan taat adalah haq (kewajiban) selama tidak diperintah berbuat maksiat. Apabila diperintah berbuat maksiat maka tidak ada (kewajiban) untuk mendengar dan taat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2955</td></tr><tr><td>Arabic No</td><td>2955</td></tr><tr><td>Reference</td><td>Book 56 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Слушать и повиноваться обязательно до тех пор, пока не будет велено (делать то, что противоречит велениям Аллаха, а поэтому) если будет (вам) велено ослушаться (Аллаха), то ни слушать, ни повиноваться не следует»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2955</td></tr><tr><td>Arabic No</td><td>2955</td></tr><tr><td>Reference</td><td>Book 56 Hadith 167</td></tr></tbody></table></div>
 

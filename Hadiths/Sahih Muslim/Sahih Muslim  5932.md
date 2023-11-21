@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported Allah's Messenger (ﷺ) as saying:I saw during the night 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit Al Banani] dari [Anas bin Malik] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Semalam aku bermimpi sebagaimana lazimnya orang bermimpi. Rasanya kami berada di rumah 'Uqbah bin Rafi'. Lalu kami diberi sejenis kurma yang disebut kurma Ibnu Thab'. Maka kutafsirkan mimpi itu, bahwasannya kita akan mendapatkan kemulyaan di dunia dan di Akhirat, dan bahwa sesungguhnya agama kita adalah agama yang benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5932</td></tr><tr><td>Arabic No</td><td>2270</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5932</td></tr><tr><td>Arabic No</td><td>2270</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
 

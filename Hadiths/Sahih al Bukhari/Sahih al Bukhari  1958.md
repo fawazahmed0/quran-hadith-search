@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi 'Aufa:I was with the Prophet (ﷺ) on a journey, and he observe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Abu Bakar] dari [Sulaiman] dari [Ibnu Abu Awfa radliallahu 'anhu] berkata; Aku pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, ketika itu Beliau berpuasa. Hingga ketika sampai pada waktu petang, Beliau berkata kepada seseorang: "Turunlah, dan siapkanlah minuman aku". Orang yang disuruh itu berkata: "Bagaimana jika anda menunggu hingga sore". Beliau berkata: "Turunlah dan siapkan minuman buat aku. Apabila kamu telah melihat malam sudah datang dari arah sana maka orang yang puasa sudah boleh berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1958</td></tr><tr><td>Arabic No</td><td>1958</td></tr><tr><td>Reference</td><td>Book 30 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Ауфа, да будет доволен им Аллах, сказал: «Я был вместе с Пророком ﷺ в пути, а он соблюдал пост, и, когда солнце зашло, он сказал одному человеку: “Спешься и размешай для меня (еду)”. Он ответил: “Может дождаться наступления вечера?” (Посланник Аллаха ﷺ) сказал: “Спешься и размешай для меня еду. Если увидишь, что ночь наступает отсюда, то постящийся становится разговевшимся”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1958</td></tr><tr><td>Arabic No</td><td>1958</td></tr><tr><td>Reference</td><td>Book 30 Hadith 65</td></tr></tbody></table></div>
 

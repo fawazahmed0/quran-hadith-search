@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari [Habib bin Abu Tsabit], dari [Abu Al 'Abbas] dari [Abdullah bin 'Amr], ia berkata; terdapat seorang laki-laki yang datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; wahai Rasulullah, aku ingin berjihad. Beliau berkata: "Apakah engkau memiliki kedua orang tua?" Orang tersebut berkata; ya. Beliau berkata: "Berjihadlah di sisi mereka!" Abu Daud berkata; Abu Al Abbas ini adalah ahli syair, namanya adalah As Saib bin Farruh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3004) Sahih Muslim (2549)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2529</td></tr><tr><td>Arabic No</td><td>2529</td></tr><tr><td>Reference</td><td>Book 15 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3004) Sahih Muslim (2549)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2529</td></tr><tr><td>Arabic No</td><td>2529</td></tr><tr><td>Reference</td><td>Book 15 Hadith 53</td></tr></tbody></table></div>
 

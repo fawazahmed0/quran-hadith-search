@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ishaq Al Musabbi] telah menceritakan kepadaku [Anas bin Iyadl] dari [Musa bin Uqbah] dari [Nafi'] bahwa [Abdullah] telah mengabarkan kepadanya, bahwasanya; Rasulullah shallallahu 'alaihi wasallam menghadap ke arah dua jalan yang menuju ke bukit, antara beliau dan Jabal Thawil tepat menghadap ke arah Ka'bah. Kemudian masjid yang dibangun kemudian berada di sebelah kiri Masjid yang berada di ujung bukit yang ditutupi tanah. Dan tempat Rasulullah shallallahu 'alaihi wasallam shalat berada di bawah sedikit, di sebuah bukit kecil yang berwarna hitam. Jarak dari bukit itu sekitar sepuluh hasta. Kemudian beliau shalat dengan menghadap ke arah dua jalan dari Jabal Thawil, yakni tepat antara termpat kamu berdiri dan Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3047</td></tr><tr><td>Arabic No</td><td>1260</td></tr><tr><td>Reference</td><td>Book 15 Hadith 253</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3047</td></tr><tr><td>Arabic No</td><td>1260</td></tr><tr><td>Reference</td><td>Book 15 Hadith 253</td></tr></tbody></table></div>
 

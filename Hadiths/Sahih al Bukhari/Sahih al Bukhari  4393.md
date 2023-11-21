@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:When I came to the Prophet (ﷺ) said on my way, "O what a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Alaa] Telah menceritakan kepada kami [Abu Usamah] Telah menceritakan kepada kami [Ismail] dari [Qais] dari [Abu Hurairah] dia berkata; ketika aku datang kepada Nabi shallallahu 'alaihi wasallam, di jalan aku melantunkan sebuah syair, "Duhai malam yang panjang dan melelahkan meski ia bergegas cepat dari bumi kekafiran." Abu Hurairah berkata; lalu budak laki-lakiku pergi menghilang di jalan, ia berkata; maka tatkala aku datang kepada Rasulullah shallallahu 'alaihi wasallam aku berbai'at kepada beliau, dan pada saat aku berada di sisi beliau, budak laki-lakiku muncul. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Wahai Abu Hurairah apakah ini budakmu?" Aku berkata; "Dia untuk Allah Azza Wa Jalla", Akhirnya aku pun memerdekakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 64 Hadith 416</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда я шёл к Пророку ﷺ по дороге я читал (такие стихи):\nКакая долгая и тяжкая ночь!Однако она вызволила (нас) из земли неверия!\nИ по дороге от меня сбежал мой раб. Прибыв к Пророку ﷺ, я присягнул ему, и пока я находился у него, (мой) раб вернулся. Тогда Пророк ﷺ сказал мне: “О Абу Хурайра, твой раб (явился к тебе)”. Я сказал: “Я освобождаю его, желая Лика Аллаха”. Таким образом я освободил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 64 Hadith 416</td></tr></tbody></table></div>
 

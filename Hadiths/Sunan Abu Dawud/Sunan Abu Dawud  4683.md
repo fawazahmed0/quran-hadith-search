@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa’d b. Abi Waqqas said :The Prophet (May peace be upon him) gave some people 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Muhammad bin Tsaur] dari [Ma'mar] ia berkata; telah mengabarkan kepadaku [Az Zuhri] dari [Amir bin Sa'd bin Abu Waqash] dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah memberikan sesuatu kepada beberapa laki-laki, namun tidak memberikan kepada seseorang dari mereka. sa'd lalu berkata, "Wahai Rasulullah, engkau memberikan kepada si fulan dan si fulan, tetapi engkau tidak memberikan sesuatu pun kepada si fulan yang lain, padahal ia seorang mukmin?" Nabi shallallahu 'alaihi wasallam lalu bersabda: "Ataukah ia hanya seorang muslim?" ucapan itu Sa'd ulangi hingga tiga kali, dan Nabi shallallahu 'alaihi wasallam selalu mengatakan: "Ataukah ia hanya seorang muslim?" setelah itu Nabi shallallahu 'alaihi wasallam bersabda: "Aku memberikan kepada beberapa orang dan tidak memberikan kepada sebagian lain yang (dia) lebih aku sukai dari pada mereka, karena kawatir wajah mereka akan dibenamkan ke dalam api
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (27) Sahih Muslim (150)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4683</td></tr><tr><td>Arabic No</td><td>4683</td></tr><tr><td>Reference</td><td>Book 42 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амир ибн Са‘д передаёт от своего отца: «Пророк ﷺ распределял средства среди людей, и я сказал: “О Посланник Аллаха, дай и такому-то, ибо он верующий”. Он сказал: “Или мусульманин. Поистине, я даю человеку нечто, притом, что другие дороже для меня, чем он, потому что боюсь, как бы его не ввергли лицом в Огонь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (27) Sahih Muslim (150)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4683</td></tr><tr><td>Arabic No</td><td>4683</td></tr><tr><td>Reference</td><td>Book 42 Hadith 88</td></tr></tbody></table></div>
 

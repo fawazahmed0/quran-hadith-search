@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:The Prophet (ﷺ) said to me, "Someone came to me tonight from my
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7343</td></tr><tr><td>Arabic No</td><td>7343</td></tr><tr><td>Reference</td><td>Book 96 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, передаёт, что Пророк ﷺ рассказал ему: «Сегодня ночью ко мне явился посланец моего Господа», — и в этот момент, Пророк ﷺ находился в долине ‘Акык, — «И сказал: “Соверши молитву в этой благословенной долине, и скажи: ‘Умра и Хадж”». А Харун Ибн Исма‘иль сказал: «Нам передал ‘Али: “‘Умра в хадже”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7343</td></tr><tr><td>Arabic No</td><td>7343</td></tr><tr><td>Reference</td><td>Book 96 Hadith 71</td></tr></tbody></table></div>
 

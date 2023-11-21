@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: One day while the Prophet (ﷺ) was sitting in the company
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, Telah menceritakan kepada kami [Isma'il bin Ibrahim] telah mengabarkan kepada kami [Abu Hayyan At Taimi] dari [Abu Zur'ah] dari [Abu Hurairah] berkata; bahwa Nabi shallallahu 'alaihi wasallam pada suatu hari muncul kepada para sahabat, lalu datang Malaikat Jibril 'Alaihis Salam yang kemudian bertanya: "Apakah iman itu?" Nabi shallallahu 'alaihi wasallam menjawab: "Iman adalah kamu beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, pertemuan dengan-Nya, Rasul-Rasul-Nya, dan kamu beriman kepada hari berbangkit". (Jibril 'Alaihis salam) berkata: "Apakah Islam itu?" Jawab Nabi shallallahu 'alaihi wasallam: "Islam adalah kamu menyembah Allah dan tidak menyekutukannya dengan suatu apapun, kamu dirikan shalat, kamu tunaikan zakat yang diwajibkan, dan berpuasa di bulan Ramadlan". (Jibril 'Alaihis salam) berkata: "Apakah ihsan itu?" Nabi shallallahu 'alaihi wasallam menjawab: "Kamu menyembah Allah seolah-olah melihat-Nya dan bila kamu tidak melihat-Nya sesungguhnya Dia melihatmu". (Jibril 'Alaihis salam) berkata lagi: "Kapan terjadinya hari kiamat?" Nabi shallallahu 'alaihi wasallam menjawab: "Yang ditanya tentang itu tidak lebih tahu dari yang bertanya. Tapi aku akan terangkan tanda-tandanya; (yaitu); jika seorang budak telah melahirkan tuannya, jika para penggembala unta yang berkulit hitam berlomba-lomba membangun gedung-gedung selama lima masa, yang tidak diketahui lamanya kecuali oleh Allah". Kemudian Nabi shallallahu 'alaihi wasallam membaca: "Sesungguhnya hanya pada Allah pengetahuan tentang hari kiamat" (QS. Luqman: 34). Setelah itu Jibril 'Alaihis salam pergi, kemudian Nabi shallallahu 'alaihi wasallam berkata; "hadapkan dia ke sini." Tetapi para sahabat tidak melihat sesuatupun, maka Nabi bersabda; "Dia adalah Malaikat Jibril datang kepada manusia untuk mengajarkan agama mereka." Abu Abdullah berkata: "Semua hal yang diterangkan Beliau shallallahu 'alaihi wasallam dijadikan sebagai iman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Arabic No</td><td>50</td></tr><tr><td>Reference</td><td>Book 2 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: \n— Однажды, когда Посланник Аллаха ﷺ находился среди людей, к нему пришёл Джибриль и спросил: «Что такое вера?» (Пророк ﷺ) сказал: «(Суть веры) в том, чтобы верил ты в Аллаха, в Его ангелов, в Его книги, во встречу с Ним и в Его посланников, а также в том, чтобы верил ты в воскресение». (Джибриль) спросил: «Что такое Ислам?» (Пророк ﷺ) сказал: «(Суть) Ислама в том, чтобы ты поклонялся одному только Аллаху и не приобщал к нему сотоварищей, совершал молитву, выплачивал обязательный закят и соблюдал пост в рамадане». (Джибриль) спросил: «Что такое чистосердечие/ихсан/?» (Пророк ﷺ) сказал: «(Быть чистосердечным — значит) поклоняться Аллаху так, будто ты видишь Его, а если ты Его не видишь, то, (нe забывая о том, что) Он, поистине, видит тебя». (Джибриль) спросил: «Когда наступит Час этот?» (Пророк ﷺ) сказал: «Тот, у кого спрашивают о нём, знает не больше задающего вопрос, но я поведаю тебе о его предзнаменованиях: (он приблизится,) когда невольница породит (того, кто станет) её хозяином, а пастухи(, некогда занимавшиеся выпасом) чёрных верблюдов, станут соревноваться друг с другом в возведении огромных жилищ. (Однако Час этот является одной) из пяти вещей, о которых не знает никто, кроме Аллаха». Затем Пророк ﷺ прочитал айат(, в котором сказано): «Поистине, лишь Аллах знает о Часе этом. Он ниспосылает дождь и знает о том, что находится в утробах. Никто не знает, что приобретёт он завтра, и никто не знает, в какой земле умрёт. Поистине, Аллах — Знающий, Сведущий!» — после чего (Джибриль) удалился, (пророк же ﷺ) велел (своим сподвижникам): «Верните его!» Однако они ничего не увидели, и тогда (Посланник Аллаха ﷺ) сказал: «Это был Джибриль, который пришёл для того, чтобы научить людей их религии»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Arabic No</td><td>50</td></tr><tr><td>Reference</td><td>Book 2 Hadith 43</td></tr></tbody></table></div>
 

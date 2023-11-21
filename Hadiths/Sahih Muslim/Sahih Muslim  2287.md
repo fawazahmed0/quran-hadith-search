@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported that when Mu'awiya prescribed half a sa' of wheat e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Amru An Naqid] Telah menceritakan kepada kami [Hatim bin Isma'il] dari [Ibnu Ajlan] dari [Iyadl bin Abdullah bin Abu Sarh] dari [Sa'id Al Khudri] bahwa ketika Mu'awiyah menyamakan setengah sha' gandum dengan satu sha' kurma, maka Abu Sa'id mengingkari hal itu seraya berkata, "Saya tidak akan mengeluarkan zakat fithrah kecuali dengan bahan pokok yang saya keluarkan pada masa Rasulullah shallallahu 'alaihi wasallam, yaitu satu sha' kurma, atau satu sha' anggur kering atau satu sha' dari gandum atau keju
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2287</td></tr><tr><td>Arabic No</td><td>985.05</td></tr><tr><td>Reference</td><td>Book 12 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Са‘ида аль-Худри, что, когда Му‘авия (сказал, что) два мудда пшеницы соответствуют одному са‘ фиников, Абу Са‘ид возразил ему, сказав: «Я буду раздавать столько, сколько раздавал во времена Посланника Аллах ﷺ: один са‘ фиников, или один са‘ изюма, или один са‘ ячменя, или один са‘ сушёного творога»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2287</td></tr><tr><td>Arabic No</td><td>985.05</td></tr><tr><td>Reference</td><td>Book 12 Hadith 25</td></tr></tbody></table></div>
 

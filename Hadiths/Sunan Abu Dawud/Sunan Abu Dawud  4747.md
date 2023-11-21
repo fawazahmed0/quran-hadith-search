@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said:The Messenger of Allah(ﷺ) dozed for a short while and raise
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari] berkata, telah menceritakan kepada kami [Muhammad bin Fudhail] dari [Al Mukhtar bin Fulful] ia berkata; Aku mendengar [Anas bin Malik] berkata, "Rasulullah shallallahu 'alaihi wasallam terlelap beberapa saat, setelah itu beliau mengangkat kepala dan tersenyum. (waktu itu) beliau berkata kepada mereka, atau mereka yang berkata kepada beliau, "Wahai Rasulullah, kenapa engkau tertawa?" beliau menjawab: "Baru saja turun kepadaku satu surat." Beliau lalu membaca: (Dengan menyebut nama Allah yang Maha Pemurah lagi Maha Penyayang. Sesungguhnya Kami telah memberikan kepadamu ni'mat yang banyak…) hingga akhir ayat. Ketika beliau selesai membacayanya, beliau bertanya: "Apakah kalian tahu apa yang dimaksud dengan Al kautsar?" para sahabat menjawab, "Allah dan Rasul-Nya lebih tahu." Beliau bersabda: "Itu adalah sungai di surga yang janjikan Rabbku kepadaku. Padanya banyak kebaikan. Padanya juga ada telaga yang digunakan untuk minum oleh umatku pada hari kiamat. Gelasnya sejumlah bintang di langit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (400)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4747</td></tr><tr><td>Arabic No</td><td>4747</td></tr><tr><td>Reference</td><td>Book 42 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика: «Однажды Посланник Аллаха ﷺ опустил голову (задремав), а когда поднял её, мы увидели, что он улыбается. И либо он сам сказал, либо сначала люди спросили его: “О Посланник Аллаха, почему ты улыбаешься?” Он же ответил: “Сейчас мне была ниспослана сура”. И он прочитал: “С именем Аллаха, Всемилостивого, Милостивого! Поистине, Мы даровали тебе Каусар…” (сура “аль-Каусар”, аяты)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (400)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4747</td></tr><tr><td>Arabic No</td><td>4747</td></tr><tr><td>Reference</td><td>Book 42 Hadith 152</td></tr></tbody></table></div>
 

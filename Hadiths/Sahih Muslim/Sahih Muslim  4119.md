@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with them) reported that when Allah's Messenger (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Abdul Waris] dari [Ibnu Najih] telah menceritakan kepadaku [Abdullah bin Katsir] dari [Abu Minhal] dari [Ibnu Abbas] dia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam tiba di Madinah, orang-orang di sana terbiasa jual beli dengan sistem pembayaran dimuka, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memesan barang, maka janganlah memesan kecuali dengan takaran tertentu dan timbangan tertentu." Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Isma'il bin Salim] semuanya dari [Ibnu Uyainah] dari [Ibnu Abu Najih] dengan isnad seperti hadits Abdul Warits, namun tidak disebutkan, "Sampai waktu yang ditentukan." Sedangkan [Abu Kuraib] dan [Ibnu Abu Umar] keduanya berkata; telah menceritakan kepada kami [Waki']. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abdurrahman bin Mahdi] keduanya dari [Sufyan] dari [Ibnu Abu Najih] dengan isnad mereka, seperti hadits Ibnu Uyainah, dalam hadits tersebut disebutkan, "Sampai batas waktu yang ditentukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4119</td></tr><tr><td>Arabic No</td><td>1604.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 158</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4119</td></tr><tr><td>Arabic No</td><td>1604.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 158</td></tr></tbody></table></div>
 

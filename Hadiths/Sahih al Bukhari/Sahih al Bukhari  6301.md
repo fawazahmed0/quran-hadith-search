@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whoever among you takes an o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dia berkata; telah mengabarkan kepadaku [Humaid bin Abdurrahman] bahwa [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa diantara kalian bersumpah dengan Laata dan Uzza, hendaknya ia segera mengucapkan; 'Laa ilaaha illallah (tiada ilah yang berhak diibadahi kecuali Allah).' Dan barangsiapa mengatakan kepada saudaranya; 'Mari kita taruhan.' Hendaknya ia segera bersedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6301</td></tr><tr><td>Arabic No</td><td>6301</td></tr><tr><td>Reference</td><td>Book 79 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто из вас поклялся, сказав в своей клятве: “Клянусь (идолом) аль-Лят и аль-‘Уззой”, пусть скажет: “Нет бога, достойного поклонения, кроме Аллаха”, а кто сказал своему товарищу: “Давай сыграем в азартную игру”, пусть подаст милостыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6301</td></tr><tr><td>Arabic No</td><td>6301</td></tr><tr><td>Reference</td><td>Book 79 Hadith 73</td></tr></tbody></table></div>
 

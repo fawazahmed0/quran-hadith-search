@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that a person had intercourse with his wife during Ramadan 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata, telah mengabarkan kepada kami [Laits] -dalam jalur lain- Dan telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Humaid bin Abdurrahman bin Auf] dari [Abu Hurairah] radliallahu 'anhu, bahwasanya; Seorang laki-laki menyetubuhi isterinya di siang hari bulan Ramadlan. Kemudian laki-laki itu meminta fatwa mengenai hal itu kepada Rasulullah shallallahu 'alaihi wasallam. Maka beliau bertanya: "Apakah kamu memiliki seorang budak wanita (untuk dibebaskan)?" jawabnya, "Tidak." Beliau bertanya lagi: "Sanggupkah kamu berpuasa selama dua bulan berturut-turut?" jawabnya, "Tidak." Beliau bersabda: "Kalau begitu, berilah makan kepada enam puluh orang miskin." Dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Ishaq bin Isa] telah mengabarkan kepada kami [Malik] dari [Az Zuhri] dengan isnad ini, bahwa seorang laki-laki berbuka di siang hari pada bulan Ramadlan, maka Rasulullah shallallahu 'alaihi wasallam memerintahkannya untuk membayar kaffarat dengan membebaskan seorang budak wanita… kemudian ia pun menyebutkan sebagaimana hadits Ibnu Uyainah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2597</td></tr><tr><td>Arabic No</td><td>1111.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2597</td></tr><tr><td>Arabic No</td><td>1111.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 103</td></tr></tbody></table></div>
 

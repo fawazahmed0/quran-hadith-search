@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Thabit that Anas said:We were forbidden in th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>103</td></tr><tr><td>Arabic No</td><td>12.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сабит сказал: «Анас (ибн Малик) сказал: “Нам запрещалось в Коране спрашивать Посланника Аллаха ﷺ о чём бы то ни было”», и далее он передал хадис с похожим текстом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>103</td></tr><tr><td>Arabic No</td><td>12.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 11</td></tr></tbody></table></div>
 

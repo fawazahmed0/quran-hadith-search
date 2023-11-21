@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Khalid, daughter of Sa'd b. al-'As:Once the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq Ibnul Jarrah Al Adzani] berkata, telah menceritakan kepada kami [Abu An Nadhr] berkata, telah menceritakan kepada kami [Ishaq bin Sa'id] dari [Bapaknya] dari [Ummu Khalid binti Khalid bin Sa'id bin Al Ash] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah diberi kain yang ada renda suteranya. Lalu beliau bersabda: "Menurut kalian siapa yang paling berhak untuk mendapat kain ini?", orang-orang pun diam. Beliau lalu bersabda: "Datangkanlah Ummu Khalid kepadaku." Beliau lantas memberikan kain tersebut dan memakaikannya kepadanya. Setelah itu beliau bersabda: 'Semoga tahan lama hingga Allah menggantinya dengan yang baru (panjang umur). ' -dua kali-. Beliau kemudian melihat tanda berwarna merah atau kuning yang ada pada kain bersulam sutera tersebut, beliau bersabda: "Wahai Ummu Khalid, sanah, sanah." Sanah menurut bahasa orang orang habasyah artinya adalah; bagus, bagus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5823)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4024</td></tr><tr><td>Arabic No</td><td>4024</td></tr><tr><td>Reference</td><td>Book 34 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Умм Халид бинт Халид ибн Са‘ид ибн аль-‘Ас, что однажды Посланнику Аллаха ﷺ принесли одежду, среди которой была одна маленькая одежда (хамиса), и он сказал: «Как вы думаете, кто имеет больше прав на неё?» Но все молчали. Тогда он сказал: «Приведите ко мне Умм Халид». Когда её привели, он надел на неё эту одежду и дважды сказал: «Носи, пока не износишь!» Потом он, глядя на красные или жёлтые узоры на одежде, стал приговаривать: «Санах, санах, о Умм Халид!» А слово это на языке эфиопов означало «прекрасно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5823)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4024</td></tr><tr><td>Arabic No</td><td>4024</td></tr><tr><td>Reference</td><td>Book 34 Hadith 5</td></tr></tbody></table></div>
 

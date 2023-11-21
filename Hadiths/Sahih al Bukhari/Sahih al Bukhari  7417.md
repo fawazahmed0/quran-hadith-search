@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:The Prophet (ﷺ) said to a man, "Have you got anything o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Abu Hazim] dari [Sahal bin Sa'd] berkata, "Nabi shallallahu 'alaihi wasallam pernah bertanya kepada seseorang: 'Apakah engkau mempunyai hapalan alquran? ' Ia menjawab, 'Ada, yaitu surat sedemikian sedemikian, ' yang ia sebut namanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>7417</td></tr><tr><td>Reference</td><td>Book 97 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Са‘д ас-Саиди, да будет доволен им Аллах, передаёт, что однажды Пророк ﷺ сказал одному человеку: «Знаешь ли ты что-нибудь из Корана?”» Он ответил: «Да, такую-то и такую-то суру» — и он назвал эти суры
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>7417</td></tr><tr><td>Reference</td><td>Book 97 Hadith 45</td></tr></tbody></table></div>
 

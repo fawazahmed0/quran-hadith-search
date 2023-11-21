@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zainab bint Umm Salama (the wife of the Holy Prophet) reported that Umm Salama a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Mu'adz bin Hisyam] dia berkata, telah menceritakan kepada kami [bapakku] dari [Yahya bin Abi Katsir] telah menceritakan kepada kami [Abu Salamah bin Abdurrahman] bahwa [Zainab bintu Ummi Salamah] telah menceritakan kepadanya bahwa [Ummu Salamah] telah menceritakan kepadanya, dia berkata, "Dia pernah bersama Rasulullah mandi bersama dalam satu bejana karena junub
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>735</td></tr><tr><td>Arabic No</td><td>324</td></tr><tr><td>Reference</td><td>Book 3 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма рассказывала о том, что она совершала полное омовение после большого осквернения /джанаба/ вместе с Посланником Аллаха ﷺ, (черпая воду) из одного и того же сосуда
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>735</td></tr><tr><td>Arabic No</td><td>324</td></tr><tr><td>Reference</td><td>Book 3 Hadith 57</td></tr></tbody></table></div>
 

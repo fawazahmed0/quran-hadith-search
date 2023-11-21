@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) forbade Muzabana; and Muzabana is the selli
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam melarang Al Muzaabanah. Dia berkata: "Al Muzaabanah adalah seseorang menjual buah dengan takaran, jika lebih maka berarti keuntunganku dan bila kurang berarti resikoku". Dia berkata; Dan telah menceritakan kepada saya [Zaid bin Tsabit] bahwa Nabi shallallahu 'alaihi wasallam memberi kelonggaran pada 'ariyah dengan taksiran". ('Ariyah jama'nya 'aroya adalah menjual kurma yang masih dalam tangkainya di kebun dengan taksiran sehingga ketika berlalu waktu menjadi banyak, pent)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2172</td></tr><tr><td>Arabic No</td><td>2172</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал, что Посланник Аллаха ﷺ запретил (то, что именуется) «музабана». Так же Ибн ‘Умар сказал: «А “музабана” — это продажа свежих (несобранных) плодов за сухие, отмериваемые мерами, говоря: “Если свежих плодов окажется больше, (чем та мера, которой они должны равняться), то (эти излишки полагаются) мне, а если окажется меньше, то это будет удел покупателя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2172</td></tr><tr><td>Arabic No</td><td>2172</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

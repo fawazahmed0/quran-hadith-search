@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: (the wife of the Prophet) Allah's Messenger (ﷺ) died while Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3667</td></tr><tr><td>Arabic No</td><td>3667</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, супруги Пророка ﷺ, что, когда Посланник Аллаха ﷺ скончался, Абу Бакр находился в месте, называемом ас-Сунх (один из передатчиков сказал: «То есть аль-'Алия»). 'Умар (узнав о случившемся) встал и стал говорить: “Клянусь Аллахом! Посланник Аллаха ﷺ не умер!” (Позже) ‘Умар сказал: “Клянусь Аллахом! Тогда мне ничего не приходило в голову, кроме этого”. Затем он сказал: “Аллах непременно воскресит его, и он отрубит руки и ноги некоторым людям (утверждающим, что он умер)”. Затем пришёл Абу Бакр, открыл лицо Посланника Аллаха ﷺ поцеловал его и сказал: “Да станут мои родители выкупом за тебя, ты во благе, будучи живым и мёртвым. Клянусь Тем, в чьей руке моя душа, Аллах не даст тебе вкусить смерть дважды”. Затем он вышел (к людям), и сказал (‘Умару): “О клянущийся, остановись!” Когда Абу Бакр заговорил, ‘Умар сел
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3667</td></tr><tr><td>Arabic No</td><td>3667</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama:The Prophet (ﷺ) said, "I stood at the gate of Paradise and saw 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Isma'il] Telah mengabarkan kepada kami [At Taimi] dari [Abu Utsman] dari [Usamah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Aku berdiri di ambang pintu surga, maka aku pun menyaksikan bahwa kebanyakan yang memasukinya adalah orang-orang miskin, sedang orang-orang yang memiliki kekayaaan tertahan. Selain penduduk neraka telah diperintahkan untuk dimasukkan dalam neraka. Aku berdiri di ambang neraka, dan ternyata kebanyakan penghuninya adalah para wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5196</td></tr><tr><td>Arabic No</td><td>5196</td></tr><tr><td>Reference</td><td>Book 67 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Усамы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Я остановился у врат рая и увидел, что большинство из вошедших туда являлись бедняками, что же касается богатых, то они были задержаны, когда обитателей ада уже было велено (ввергнуть) в ад. И я остановился у врат ада и увидел, что большинство из вошедших туда были женщинами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5196</td></tr><tr><td>Arabic No</td><td>5196</td></tr><tr><td>Reference</td><td>Book 67 Hadith 130</td></tr></tbody></table></div>
 

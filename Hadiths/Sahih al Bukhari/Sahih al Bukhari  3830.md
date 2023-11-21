@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Dinar and 'Ubaidullah bin Abi Yazid:In the lifetime of the Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu an Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Amru bin Dinar] dan ['Ubaidullah bin Abu Yazid] keduanya berkata; Pada zaman Nabi shallallahu 'alaihi wasallam belum ada pagar di sekeliling Baitullah. Saat itu mereka shalat di sekeliling Baitulah hingga ketika zaman 'Umar (berkuasa), dia membangun pagar di sekelilingnya. 'Ubaidullah berkata; "Ketika dibangun itu pagarnya masih pendek lalu ditinggikan oleh Az Zubair (ketika berkuasa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3830</td></tr><tr><td>Arabic No</td><td>3830</td></tr><tr><td>Reference</td><td>Book 63 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Амр ибн Динар и ‘Убайдуллах ибн Аби Язид сказали: «При жизни Пророка ﷺ вокруг Каабы не было стены, и люди молились вокруг Каабы, пока ‘Умар не стал халифом, он построил стену вокруг неё». \n‘Убайдуллах далее сказал: «Его стена была низкой, поэтому Ибн аз-Зубайр достроил её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3830</td></tr><tr><td>Arabic No</td><td>3830</td></tr><tr><td>Reference</td><td>Book 63 Hadith 55</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once I stayed overnight at the house of Maimuna and the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Maryam] telah menceritakan kepada kami [Muhammad bin Ja'far] dia berkata; telah mengabarkan kepadaku [Syarik] dari [Kuraib] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Aku pernah bermalam di rumah Maimunah, sedangkan Nabi shallallahu 'alaihi wasallam berada di sisinya, tatkala di sepertiga malam terakhir atau sebagian malam, beliau duduk dan memandang ke arah langit sambil membaca: "Sesungguhnya dalam penciptaan langit dan bumi, dan silih bergantinya malam dan siang terdapat tanda-tanda bagi orang-orang yang berakal." QS Ali Imran;
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6215</td></tr><tr><td>Arabic No</td><td>6215</td></tr><tr><td>Reference</td><td>Book 78 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббаса, да будет доволен Аллах им и его отцом, сказал: «Однажды я остался на ночь в доме Маймуны, и Пророк ﷺ находился в ту ночь у неё. Когда настала последняя треть ночи (или: его часть), (Посланник Аллаха ﷺ) сел, посмотрел на небо и прочитал (слова Всевышнего): “Поистине, в сотворении небес и земли и смене ночи и дня заключены знамения для обладающих разумом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6215</td></tr><tr><td>Arabic No</td><td>6215</td></tr><tr><td>Reference</td><td>Book 78 Hadith 239</td></tr></tbody></table></div>
 

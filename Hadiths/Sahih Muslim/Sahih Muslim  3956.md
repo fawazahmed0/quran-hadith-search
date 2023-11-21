@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. al-Sa'ib reported:We visited 'Abdullah b. Ma'qil and asked him about
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Yahya bin Hammad] telah mengabarkan kepada kami [Abu 'Awanah] dari [Sulaiman As Syaibani] dari [Abdullah bin As Sa'ib] dia berkata; Saya menemui [Abdullah bin Ma'qil] dan bertanya mengenai praktek muzara'ah. Dia menjawab; [Tsabit] mengatakan bahwa Rasulullah shallallahu 'alaihi wasallam melarang praktek muzara'ah dan memerintahkan dengan cara mujarah (mengupah). Ma'qil melanjutkan; "Tidak amengapa jika dengan mujarah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3956</td></tr><tr><td>Arabic No</td><td>1549.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3956</td></tr><tr><td>Arabic No</td><td>1549.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 155</td></tr></tbody></table></div>
 

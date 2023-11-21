@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn Mas'oûd (que Dieu l'agrée), le Prophète (paix et bénédiction d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Sulaiman At Taimi] dari [Abu Utsman] dari [Ibnu Mas'ud] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kamu terhalang dari makan sahur karena adzan Bilal; sebab, ia menyeru -atau- mengumandangkan adzan di tengah malam, sehingga orang-orang yang qiyamullail segera pulang dan orang-orang yang masih tidur segera bangun." Dan beliau bersabda: "Dan tidaklah ia mengucapkan seperti ini dan ini." Beliau merendahkan tangannya dan mengangkatnya hingga beliau mengatakan seperti ini. -beliau merenggangkan antara jari-jari tangannya.- Dan Telah menceritakan kepada kami [Ibnu Numair] Telah menceritakan kepada kami [Abu Khalid] yakni Al Ahmar, dari [Sulaiman At Taimi] dengan isnad ini, hanya saja menyebutkan; "Sesungguhnya waktu fajar adalah ketika ia tidak mengatakan seperti ini." Beliau menyatukan jari-jemarinya lalu membalikkannya ke tanah. Beliau melanjutkan: "Akan tetapi (waktu Fajar itu) adalah saat ia mengatakan seperti ini." Beliau meletakkan jari telunjuk di atas jari telunjuk dan menjulurkan kedua tangannya. Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] Telah menceritakan kepada kami [Mu'tamir bin Sulaiman] -Dalam riwayat lain- Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] Telah menceritakan kepada kami [Jarir] dan [Al Mu'tamir bin Sulaiman] keduanya dari [Sulaiman At Taimi] dengan isnad ini. Dan hadits Al Mu'tamir berhenti pada pada ungkapan beliau: "Untuk membangunkan orang-orang yang masih tidur di antara kalian dan agar orang-orang qiyamullail kembali (bersiap-siap untuk menyambut fajar)." Dan Ishaq berkata; Jarir berkata di dalam haditsnya terkat dengan sabda beliau: "(Waktu fajar) bukanlah saat Bilal mengatakan seperti ini, akan tetapi ketika ia mengatakan seperti ini." Maksudnya adalah waktu Fajar adalah Al Mu'taridl (cahaya fajar yang menyebar/merata) dan bukanlah Al Mustathil (saat cayahaya fajar masih memanjang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2541</td></tr><tr><td>Arabic No</td><td>1093.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2541</td></tr><tr><td>Arabic No</td><td>1093.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 47</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:If anyone says a ra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ar Rabi'] telah menceritakan kepadaku [Ibnu Al Mubarak] dari [Ma'mar] dari [Ibnu Thawus] dari [Ayahnya] dari [Ibnu Abbas] dari [Abu Hurairah] dia berkata; Rasulullah Shallallahu alaihi wasallam bersabda: "Barangsiapa yang mendapatkan satu rakaat dari shalat Ashar sebelum matahari tenggelam maka dia telah mendapatkannya, dan barangsiapa yang mendapatkan satu rakaat dari shalat Fajar sebelum matahari terbit maka dia telah mendapatkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (608)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>412</td></tr><tr><td>Arabic No</td><td>412</td></tr><tr><td>Reference</td><td>Book 2 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Тот, кто застал один рак‘ат послеполуденной молитвы /‘аср/ до заката солнца, тот застал (молитву), и тот, кто застал один рак‘ат утренней молитвы до восхода солнца, тот застал (молитву)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (608)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>412</td></tr><tr><td>Arabic No</td><td>412</td></tr><tr><td>Reference</td><td>Book 2 Hadith 22</td></tr></tbody></table></div>
 

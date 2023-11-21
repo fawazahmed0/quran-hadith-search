@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: When one has a look into the house
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Sulaiman Al Muadzdzin] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Sulaiman] -maksudnya Sulaiman bin Bilal- dari [Katsir] dari [Al Walid] dari [Abu Hurairah] Bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika (pandangan) mata telah masuk (ke dalam rumah), maka tidak ada izin (seperti masuk tanpa izin)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 43 Hadith 401</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 43 Hadith 401</td></tr></tbody></table></div>
 

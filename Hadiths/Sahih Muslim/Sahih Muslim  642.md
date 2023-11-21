@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sulaiman b. Buraida narrated it from his father that the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Sufyan] dari [Alqamah bin Martsad]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Muhammad bin Hatim] dan lafazh tersebut miliknya. Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Sufyan] dia berkata, telah menceritakan kepada kami ['Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [bapaknya] bahwa Nabi shallallahu 'alaihi wasallam melakukan beberapa shalat pada fathul Makkah dengan satu kali wudlu dan mengusap bagian atas kedua khufnya, maka Umar bertanya kepada beliau, 'Sungguh, pada hari ini engkau telah melakukan sesuatu yang engkau belum pernah melakukannya? ' Beliau llau menjawab: "Ini sengaja aku lakukan wahai Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>642</td></tr><tr><td>Arabic No</td><td>277</td></tr><tr><td>Reference</td><td>Book 2 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Бурайды, что в день завоевания (Мекки) Пророк ﷺ только один раз совершил омовение и протёр кожаные носки, после чего неоднократно молился. ‘Умар сказал ему: «Сегодня ты сделал то, чего не делал никогда раньше». (В ответ на это Пророк ﷺ) сказал: «Я сделал это намеренно, о ‘Умар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>642</td></tr><tr><td>Arabic No</td><td>277</td></tr><tr><td>Reference</td><td>Book 2 Hadith 108</td></tr></tbody></table></div>
 

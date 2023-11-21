@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Khabbab reported:We came to the Messenger of Allah (ﷺ) and we complained to th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ahmad bin Yunus] dan ['Aun bin Salam], Aun mengatakan; telah mengabarkan kepada kami, sedangkan Ibn Yunus mengatakan; -sementara lafadzhnya berasal dari dia- telah menceritakan kepada kami [Zuhair] dia berkata; telah menceritakan kepada kami [Abu Ishaq] dari [Sa'id bin Wahb] dari [Khabbab] dia berkata; "Kami pernah menemui Rasulullah shallallahu 'alaihi wasallam sambil berkeluh kesah kepada beliau akan panas kerikil yang sangat panas, namun beliau tidak tidak mempedulikan keluh kesah kami." [Zuhair] mengatakan; Lalu kukatakan kepada [Abu Ishaq]; "Apakah yang dimaksud ketika shalat zhuhur?" dia menjawab; "Benar." Aku berkata lagi; "Itu maksudnya supaya menyegerakannya?" Jawab Abu Ishaq; "Benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1406</td></tr><tr><td>Arabic No</td><td>619.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Хаббаб сказал: «(Однажды) мы пришли к Посланнику Аллаха ﷺ и пожаловались ему на (трудность совершения) молитвы на (пышущей) жаром раскалённой земле, но он оставил наши жалобы без внимания».Зухайр сказал: «Я спросил Абу Исхака: “Речь шла о полуденной молитве /зухр/?” Он сказал: “Да”. Я спросил: “(Они жаловались на то, что молитвы совершалась) немедля?” и он сказал: “Да”». Глава: Совершение земного поклона на одежду во время сильной жары
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1406</td></tr><tr><td>Arabic No</td><td>619.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 240</td></tr></tbody></table></div>
 

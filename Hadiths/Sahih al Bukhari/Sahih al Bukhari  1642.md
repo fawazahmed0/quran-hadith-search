@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin 'Abdur-Rahman bin Nawfal Al-Qurashi:I asked 'Urwa bin Az-Z
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Isa] telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepada saya ['Amru bin Al Harits] dari [Muhammad bin 'Abdurrahman bin Nawfal Al Furasyi] bahwa dia bertanya kepada ['Urwah bin Az Zubair], maka ia berkata: "Nabi Shallallahu'alaihiwasallam pernah melaksanakan hajji, dan ['Aisyah radliallahu 'anha] berkata kepadaku bahwa yang pertama kali dilakukan oleh Nabi Shallallahu'alaihiwasallam ketika Beliau sampai (di Makkah) adalah thawaf di Ka'bah Baitullah dan tidak melaksanakan 'umrah. Kemudian Abu Bakar radliallahu 'anhu melaksanakan haji dan yang pertama dilakukannya adalah thawaf di Ka'bah Baitullah dan tidak melaksanakan 'umrah. Kemudian 'Umar radliallahu 'anhu melaksanakan hajji dan melakukannya seperti itu. Kemudian 'Utsman melaksanakan hajji dan aku melihatnya apa yang dilakukannya pertama kali adalah thawaf di Ka'bah Baitullah dan tidak melaksanakan 'umrah. Kemudian Mu'awiyah dan 'Abdullah bin 'Umar juga melaksanakan haji seperti itu. Kemudian aku melaksanakan hajji bersama bapakku Az Zubair bin Al 'Awam dan yang pertama dilakukannya adalah thawaf di Ka'bah Baitullah dan tidak melaksanakan 'umrah. Kemudian aku melihat Kaum Muhajirin dan Anshar melaksanakan haji seperti itu juga, tidak melaksanakan 'umrah. Dan orang yang terakhir aku lihat melakukan seperti itu adalah Ibnu 'Umar, dia tidak mengubahnya menjadi 'umrah', Dan inilah Ibnu 'Umar, orang-orang tidak bertanya kepadanya, tidak pula seorangpun (yang masih hidup) dari orang-orang yang terdahulu, mereka tidak memulai sesuatu manasik hingga mereka menginjakkan kaki untuk melaksanakan thawaf di Ka'bah Baitullah, lalu mereka tidak bertahallul setelah itu. Sungguh aku telah melihat ibu dan bibiku ketika keduanya melaksanakan hajji, keduanya tidak memulai mengerjakan sesuatu melainkan thawaf di Ka'bah Baitullah kemudian keduanya tidak bertahallul". Dan ibuku telah mengabarkan kepada saya bahwa dia dan saudara perempuannya dan Az Zubair serta fulan dan fulan berniat ihram untuk umrah, setelah mereka mengusap Ar-Rukun (Al Hajar Al Aswad) maka mereka bertahallul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1642</td></tr><tr><td>Arabic No</td><td>1642</td></tr><tr><td>Reference</td><td>Book 25 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1642</td></tr><tr><td>Arabic No</td><td>1642</td></tr><tr><td>Reference</td><td>Book 25 Hadith 124</td></tr></tbody></table></div>
 

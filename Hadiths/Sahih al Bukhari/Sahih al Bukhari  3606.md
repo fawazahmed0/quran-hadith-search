@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa bin Al-Yaman:The people used to ask Allah's Messenger (ﷺ) ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3606</td></tr><tr><td>Arabic No</td><td>3606</td></tr><tr><td>Reference</td><td>Book 61 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хузейфа ибн аль-Йаман рассказывал: «Обычно люди спрашивали Посланника Аллаха ﷺ о благом, а я спрашивал его о плохом, опасаясь, что оно постигнет меня. Я сказал: “О Посланник Аллаха, поистине, мы пребывали в невежестве и во зле, а потом Аллах даровал нам благо, но придет ли после этого блага зло?” Он сказал: “Да”. Тогда я спросил: “А придет ли после этого зла благо?” Он сказал: “Да, но к нему будет примешано и зло”. Я спросил: “В чем же это будет заключаться?” Он сказал: “Появятся люди, которые станут руководить другими не так, как это делаю я, а вы увидите их дела и не одобрите их”. Я спросил: “А придёт ли после этого блага зло?” Он сказал: “Да, призывающие людей к вратам Ада, и того, кто ответит на их призыв, они бросят в Огонь!” Я попросил: “О Посланник Аллаха, опиши их нам”. Он сказал: “Они будут из нашей среды и будут разговаривать на нашем языке”. Я спросил: “Что же ты велишь мне делать, если я доживу до этого?” Он сказал: “Не расставайся с аль-джама‘а мусульман и правителем”. Я спросил: “А если не застану ни аль-джама‘а, ни правителя?!” Пророк ﷺ сказал: “Тогда отстраняйся от всех этих групп, даже если придётся тебе для этого вцепиться зубами в корни деревьев, и оставайся в подобном положении, пока не придёт к тебе смерть!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3606</td></tr><tr><td>Arabic No</td><td>3606</td></tr><tr><td>Reference</td><td>Book 61 Hadith 113</td></tr></tbody></table></div>
 

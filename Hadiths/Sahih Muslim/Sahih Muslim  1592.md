@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:The Messenger of Allah (ﷺ) said two rak'ahs at Mina, and Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar], katanya; "Ia pernah shalat bersama Rasulullah shallallahu 'alaihi wasallam di Mina dua rakaat, begitu pula Abu bakar, dan Umar, dan dan di awal pemerintahan Usman, setelah itu Usman menyempurnakan shalat empat rakaat. Apabila Ibnu Umar shalat bersama Imam, maka ia shalat empat rakaat, namun jika shalat sendirian, dia shalat dua rakaat." Telah menceritakan kepada kami [Ibnu Al Mutsanna] dan ['Ubaidullah bin Sa'id], keduanya berkata; telah menceritakan kepada kami [Yahya yaitu Al Qatthan] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnu Abu Zaidah], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami ['Uqbah bin Khalid] semuanya dari ['Ubaidullah] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1592</td></tr><tr><td>Arabic No</td><td>694.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар, сказал: «Находясь в Мине, Посланник Аллаха ﷺ совершал молитвы (сокращая) в два рак‘ата, так же после него поступал Абу Бакр и ‘Умар, и ‘Усман в начале своего правления. Затем ‘Усман стал совершать четыре рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1592</td></tr><tr><td>Arabic No</td><td>694.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 23</td></tr></tbody></table></div>
 

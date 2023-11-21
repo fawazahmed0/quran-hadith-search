@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I never felt so jealous of any woman as I felt of Khadija, for A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaid bin Ismail] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin Urwah] dari [Ayahnya] dari ['Aisyah] radliyallahu'anhuma berkata, "Belum pernah aku sedemikian cemburu kepada seorang wanita sebagaimana kecemburuanku terhadap Khadijah, sebab Tuhan Muhammad telah menyuruhnya agar memberinya kabar gembira dengan surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7484</td></tr><tr><td>Arabic No</td><td>7484</td></tr><tr><td>Reference</td><td>Book 97 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Ни к кому из жён, я не ревновала столь сильно, как к Хадидже. И Господь его (т.е. Пророка ﷺ), повелел ему обрадовать её вестью о доме в Раю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7484</td></tr><tr><td>Arabic No</td><td>7484</td></tr><tr><td>Reference</td><td>Book 97 Hadith 110</td></tr></tbody></table></div>
 

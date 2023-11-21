@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to offer eleven rak'at and that was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya ['Urwah] bahwa ['Aisyah radliallahu 'anha] mengabarkannya bahwa Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat sebelas raka'at, satu sujud shalat Beliau lamanya sepanjang bacaan lima puluh ayat dari kalian sebelum Beliau mengangkat kepalanya, dan beliau melakukan ruku' dua raka'at (shalat sunnah) sebelum shalat Subuh kemudian Beliau berbaring pada sebelah kanan badan Beliau hingga datang mu'adzin menyerukan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1123</td></tr><tr><td>Arabic No</td><td>1123</td></tr><tr><td>Reference</td><td>Book 19 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Обычно Посланник Аллаха ﷺ совершал по одиннадцать рак‘атов, что и составляло собой его ночную молитву. При этом (каждый) его земной поклон продолжался столько времени, что любому из вас его хватило бы на то, чтобы прочитать пятьдесят аятов, и только после этого он поднимал голову. Кроме того, он всегда совершал (дополнительную молитву) в два рак‘ата перед обязательной утренней молитвой, после чего лежал на правом боку до тех пор, пока к нему не приходил муаззин(, звавший его) на молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1123</td></tr><tr><td>Arabic No</td><td>1123</td></tr><tr><td>Reference</td><td>Book 19 Hadith 3</td></tr></tbody></table></div>
 

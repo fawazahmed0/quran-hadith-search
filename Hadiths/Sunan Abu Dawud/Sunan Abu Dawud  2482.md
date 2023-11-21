@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar], Telah menceritakan kepada kami [Mu'adz bin Hisyam], telah menceritakan kepadaku [ayahku] dari [Qatadah], dari [Syahr bin Hausyab], dari [Abdullah bin 'Amr], ia berkata; saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan ada hijrah setelah hijrah. Sebaik-baik penduduk bumi adalah orang yang paling lama menetapi tempat hijrah Ibrahim, dan tinggal di bumi adalah seburuk-buruk penghuninya. Mereka dicampakkan bumi mereka dan dibenci oleh diri Allah, dan mereka dikumpulkan oleh api bersama kera dan babi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2482</td></tr><tr><td>Arabic No</td><td>2482</td></tr><tr><td>Reference</td><td>Book 15 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр, да будет доволен ими обоими Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Будет переселение после (другого) переселения, и лучшие обитатели Земли будут держаться места переселения Ибрахима (то есть Шама). И останутся на Земле худшие её обитатели, изгнанные со своих земель и ненавидимые Аллахом, которых соберёт огонь вместе с обезьянами и свиньями”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2482</td></tr><tr><td>Arabic No</td><td>2482</td></tr><tr><td>Reference</td><td>Book 15 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. ‘Abd Allah said:A man of the tribe of Asalam came to the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul Mutawakkil Al Asqalani] dan [Al Hasan bin Ali] keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Jabir bin Abdullah] bahwa seorang laki-laki dari Aslam datang menemui Rasulullah shallallahu 'alaihi wasallam mengakui bahwa dirinya telah berzina, namun beliau berpaling darinya. Laki-laki itu kembali mengakuinya dan beliau berpaling, sehingga laki-laki itu bersaksi (mengaku) sebanyak empat kali. Akhirnya Nabi shallallahu 'alaihi wasallam bertanya kepadanya: "Apakah kamu gila?" ia menjawab, "Tidak." Beliau bertanya lagi: "Apakah kamu sudah menikah?" ia menjawab, "Ya." Nabi shallallahu 'alaihi wasallam lalu memerintahkan untuk merajamnya, ia pun dirajam di tempat yang lapang. Maka ketika ia merasakan sakit karena lemparan batu, ia kabur. Lalu ia ditangkap dan dirajam lagi hingga meninggal. Nabi shallallahu 'alaihi wasallam lalu berkomentar untuk laki-laki itu, "Ia dalam kebaikan." Namun beliau tidak menshalatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4430</td></tr><tr><td>Arabic No</td><td>4430</td></tr><tr><td>Reference</td><td>Book 40 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что к Посланнику Аллаха ﷺ пришёл один человек из племени аслям и признался, что совершил прелюбодеяние. Однако (Посланник Аллаха ﷺ) отвернулся от него. Он снова признался, но (Посланник Аллаха ﷺ) опять отвернулся от него. Так продолжалось до тех пор, пока он не засвидетельствовал против себя четырежды. Тогда Пророк ﷺ спросил его: «Ты сумасшедший?» Он ответил: «Нет». (Пророк ﷺ) спросил: «Ты вступал в половую связь в браке?» Он ответил: «Да». Тогда Пророк ﷺ велел побить его камнями. Его начали побивать камнями в том месте, где обычно совершалась молитва. Когда в него полетели камни, он побежал. Однако его настигли и бросали в него камни, пока он не умер. Пророк ﷺ сказал о нём благие слова, но не стал совершать погребальную молитву по нему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4430</td></tr><tr><td>Arabic No</td><td>4430</td></tr><tr><td>Reference</td><td>Book 40 Hadith 80</td></tr></tbody></table></div>
 

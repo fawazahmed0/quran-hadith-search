@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Asma', daughter of Abu Bakr, reported that a woman came to Allah's Apostle (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Abu Mu'awiyah] dari [Hisyam bin 'Urwah] dari [Fatimah binti Al Mundzir] dari [Asma' binti Abu Bakr] ia berkata; Ada seorang wanita datang kepada Rasulullah shallallahu 'alaihi wasallam lalu dia berkata kepada beliau; "Aku mempunyai seorang anak gadis yang akan menjadi penganten mempelai. Dia terkena penyakit campak sehingga rambutnya gugur. Bolehkah aku sambung rambutnya?" Rasulullah shallallahu 'alaihi wasallam bersabda: 'Allah Ta'ala mengutuk orang yang menyambung rambut dan yang meminta supaya rambutnya disambung.' Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakannya kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku] dan ['Abdah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Abu Kuraib]; Telah menceritakan kepada kami [Waki']; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami ['Amru An Naqid]; Telah mengabarkan kepada kami [Aswad bin 'Amir]; Telah mengabarkan kepada kami [Syu'bah] seluruhnya dari [Hisyam bin 'Urwah] melalui sanad ini seperti Hadits [Abu Mu'awiyah] hanya saja waki' dan syu'bah mengatakan dengan lafazh 'Fatamarratha' (berjatuhan) rambutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5565</td></tr><tr><td>Arabic No</td><td>2122.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Асмаъ бинт Абу Бакр (да будет доволен Аллах ими обоими) сказала: «Одна женщина пришла к Пророку ﷺ и сказала: “О Посланник Аллаха, у меня есть дочь-невеста, переболевшая корью, (от которой) у неё стали выпадать волосы, так не подвязать ли мне (накладные волосы на место выпавших)?” (на что Пророк ﷺ) ска­зал: “Аллах проклял и подвязывающую и ту, которая просит подвязать (ей чужие волосы)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5565</td></tr><tr><td>Arabic No</td><td>2122.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 175</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mutarrif from 'Imran Ibn Husain:That the Prophet (ﷺ) asked him (Imran
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ash-Shalt bin Muhammad] telah menceritakan kepada kami [Mahdi] dari [Ghaylan]. Dan diriwayatkan pula, telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Mahdiy bin Maymun] telah menceritakan kepada kami [Ghaylan bin Jarir] dari [Muthrib] dari ['Imran bin Hushain radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bahwa Beliau bertanya atau Beliau bertanya kepada seseorang yang 'Imran mendengarnya, Beliau shallallahu 'alaihi wasallam berkata: "Wahai bapaknya anu, apakah kamu berpuasa pada hari-hari terakhir bulan ini?" 'Imran berkata; Aku menduga yang Beliau maksud adalah bulan Ramadhan". Orang yang ditanya menjawab: "Tidak, wahai Rasulullah". Beliau berkata: "Jika kamu berbuka (tidak puasa) maka kamu harus puasa dua hari (pada hari lain). [Ash-Shalt] tidak berkata; "Aku menduga, bulan Ramadhan". Abu 'Abdullah Al Bukhariy berkata,, dan berkata, [Tsabit] dari [Muthrrib] dari ['Imran] dari Nabi shallallahu 'alaihi wasallam: "Pada hari-hari akhir bulan Sya'ban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1983</td></tr><tr><td>Arabic No</td><td>1983</td></tr><tr><td>Reference</td><td>Book 30 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Имрана бин Хусайна, да будет доволен Аллах ими обоими, что (однажды) он слышал, как Пророк ﷺ спросил одного человека: «О отец такого-то, постился ли ты в конце этого месяца?» Этот человек сказал: «Нет, о Посланник Аллаха». (Тогда Пророк ﷺ) сказал: «Когда завершишь пост, постись ещё два дня».\nВ другой версии (этого хадиса) сообщается, что (Пророк ﷺ) сказал: «(Постись ещё два дня) в конце ша‘бана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1983</td></tr><tr><td>Arabic No</td><td>1983</td></tr><tr><td>Reference</td><td>Book 30 Hadith 90</td></tr></tbody></table></div>
 

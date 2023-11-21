@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud Al-Ansari:Allah's Messenger (ﷺ) regarded illegal the price
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik] dari [Ibnu Syihab] dari [Abu Bakar bin 'Abdurrahman bin Al Harits bin Hisyam] dari [Abu Mas'ud Al Anshariy radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang uang hasil jual beli anjing, mahar seorang pezina dan upah bayaran dukun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2282</td></tr><tr><td>Arabic No</td><td>2282</td></tr><tr><td>Reference</td><td>Book 37 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мас‘уда аль-Ансари, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил (брать) деньги за собаку, а также заработок блудницы и предсказателя
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2282</td></tr><tr><td>Arabic No</td><td>2282</td></tr><tr><td>Reference</td><td>Book 37 Hadith 22</td></tr></tbody></table></div>
 

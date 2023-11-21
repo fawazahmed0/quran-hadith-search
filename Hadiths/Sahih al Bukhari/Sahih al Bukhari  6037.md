@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Time will pass rapidly, good
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Humaid bin Abdurrahman] bahwa [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Zaman semakin dekat, amalan kian berkurang, kekikiran semakin banyak dan al Harj semakin merajalela." Mereka bertanya; "Apakah al Harj itu? Beliau menjawab: "Pembunuhan, pembunuhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6037</td></tr><tr><td>Arabic No</td><td>6037</td></tr><tr><td>Reference</td><td>Book 78 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Течение времени ускорится, уменьшится количество дел, (в сердца людей) будет помещена скупость, и умножатся волнения /хардж/». (Люди) спросили: «О Посланник Аллаха, а что такое хардж?» Он сказал: «Убийства, убийства»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6037</td></tr><tr><td>Arabic No</td><td>6037</td></tr><tr><td>Reference</td><td>Book 78 Hadith 67</td></tr></tbody></table></div>
 

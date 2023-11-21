@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), le Prophète lui dit : "Ô Abou Moûsa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Dawud bin Rusyaid] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Thalhah] dari [Abu Burdah] dari [Abu Musa] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepada Abu Musa: "Seandainya saja semalam kamu mengetahuiku sedang mendengarkan bacaanmu. Sungguh engkau telah diberi suara yang bagus sebagaimana yang telah diberikan kepada keluarga Daud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1852</td></tr><tr><td>Arabic No</td><td>793.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 280</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Бурды, что Абу Муса сказал: «(Однажды) Посланник Аллаха ﷺ сказал Абу Мусе: “Видел бы ты меня, когда вчера я слушал твоё чтение! Тебе была дарована свирель из числа свирелей семейства (пророка) Давуда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1852</td></tr><tr><td>Arabic No</td><td>793.05</td></tr><tr><td>Reference</td><td>Book 6 Hadith 280</td></tr></tbody></table></div>
 

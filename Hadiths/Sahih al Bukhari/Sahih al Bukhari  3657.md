@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aiyub:The Prophet (ﷺ) said, "If I were to take a Khalil, I would have
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Mu'allaa bin Asad] dan [Musa bin Isma'il At Tabudzakiy], keduanya berkata, telah bercerita kepada kami [Wuhaib] dari [Ayyub], dan beliau bersabda: "Seandainya aku diperbolehkan menjadikan seseorang sebagai kekasih, pasti aku menjadikan dia (Abu Bakr) sebagai kekasih. Akan tetapi persaudaraan Islam lebih utama". Telah bercerita kepada kami [Qutaibah] telah bercerita kepada kami ['Abdul Wahhab] dari [Ayyub] seperti hadits ini juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3657</td></tr><tr><td>Arabic No</td><td>3657</td></tr><tr><td>Reference</td><td>Book 62 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Аюба, что Пророк ﷺ сказал: «Если бы мне пришлось выбирать “халиля” (любимца), я непременно выбрал бы его (Абу Бакра), однако (достойнее этого) братство в исламе!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3657</td></tr><tr><td>Arabic No</td><td>3657</td></tr><tr><td>Reference</td><td>Book 62 Hadith 9</td></tr></tbody></table></div>
 

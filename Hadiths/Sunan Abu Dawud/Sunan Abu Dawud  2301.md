@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said “The following verse abrogated the rule of passing her waiti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi], telah menceritakan kepada kami [Musa bin Mas'ud], telah menceritakan kepada kami [Syibl] dari [Ibnu Abu Najih], ia berkata; ['Atho'] berkata; [Ibnu Abbas] berkata; ayat ini menghapus 'iddahnya di rumah keluarganya, kemudian ia ber'iddah di tempat yang ia kehendaki. Hal tersebut adalah firman Allah ta'ala: "dengan tidak mengeluarkan dari rumahnya." 'Atha' berkata; apabila ia menghendaki maka ia ber'iddah di rumah keluarganya dan tinggal dalam wasiatnya, dan apabila ia menghendaki maka ia keluar. Berdasarkan firman Allah ta'ala: "Akan tetapi jika mereka pindah (sendiri), maka tidak ada dosa bagimu (wali atau waris dari yang meninggal) membiarkan mereka berbuat." 'Atha' berkata; kemudian datang ayat mengenai warisan dan menghapuskan pemberian tempat tinggal sehingga ia ber'iddah ditempat yang ia kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5344، 4531)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2301</td></tr><tr><td>Arabic No</td><td>2301</td></tr><tr><td>Reference</td><td>Book 13 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Атаъ, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Этот аят отменил обязательное пребывание женщины в период ‘идды в доме родных мужа. Ей была предоставлена возможность проводить ‘идду там, где она сама желала, на что указывают слова Всевышнего “…и не прогоняли” (сура 2 «аль-Бакара», аят 240)». ‘Атаъ сказал: «Она могла проводить ‘идду в доме родных мужа, а если не желала, могла покинуть его. На это указывают слова Всевышнего: “Когда же они дождутся истечения положенного им срока, на вас не будет греха, если они распорядятся собой разумным образом” (сура 2 «аль-Бакара», аят 240). А потом было ниспослано постановление о наследстве и о том, что лишившейся мужа женщине не полагается жильё, и она могла проводить ‘идду, где пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5344، 4531)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2301</td></tr><tr><td>Arabic No</td><td>2301</td></tr><tr><td>Reference</td><td>Book 13 Hadith 127</td></tr></tbody></table></div>
 

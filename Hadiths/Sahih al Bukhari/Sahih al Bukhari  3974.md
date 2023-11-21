@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham:That his father said, "The sword of Az-Zubair was decorated with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3974</td></tr><tr><td>Arabic No</td><td>3974</td></tr><tr><td>Reference</td><td>Book 64 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хишама, что его отец сказал: «Меч аз-Зубайра ибн аль-‘Ауама был украшен серебром». Хишам добавил: «Меч ‘Урвы был (также) украшен серебром»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3974</td></tr><tr><td>Arabic No</td><td>3974</td></tr><tr><td>Reference</td><td>Book 64 Hadith 27</td></tr></tbody></table></div>
 

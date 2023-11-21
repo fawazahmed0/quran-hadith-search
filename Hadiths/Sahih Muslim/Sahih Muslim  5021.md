@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:When it was the Day of Khaibar a visitor came and said: M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Minhal Ad Dlarir] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Hisyam bin Hasan] dari [Muhammad bin Sirin] dari [Anas bin Malik] dia berkata, "Ketika penaklukan Khaibar, tiba-tiba seseorang datang seraya berkata, "Wahai Rasulullah, daging keledai telah di makan!" Tidak lama kemudian, datang lagi seseorang seraya berkata, "Wahai Rasulullah, keledai hampir punah!" Maka Rasulullah shallallahu 'alaihi wasallam memerintahkan Abu Thalhah, lalu dia menyeru, "Sesungguhnya Allah dan Rasul-Nya melarang kalian memasak daging keledai, karena daging keledai itu najis termasuk perbuatan setan." Anas melanjutkan, "Kemudian periuk-periuk yang ada di tumpahkan hingga isinya tertumpah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5021</td></tr><tr><td>Arabic No</td><td>1940.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5021</td></tr><tr><td>Arabic No</td><td>1940.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 50</td></tr></tbody></table></div>
 

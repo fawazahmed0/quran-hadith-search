@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Hisham:who was born during the lifetime of the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Abdullah bin Yazid] telah menceritakan kepada kami [Sa'id, alias Ibnu Abu Ayyub] mengatakan; telah menceritakan kepadaku [Abu Uqail Zuhraj bin ma'bad] dari [kakeknya, Abdullah bin Hisyam], yang mana dia pernah bertemu Nabi shallallahu 'alaihi wasallam, ibunya, Zainab binti Muhammad, pernah membawanya kepada Rasulullah Shallallahu'alaihiwasallam dan berujar; 'Wahai Rasulullah, tolong bai'atlah dia.' Lantas Nabi shallallahu 'alaihi wasallam bersabda: "dia masih kecil!" Maka Nabi mengusap kepalanya dan menyembelihkan satu kambing untuk semua keluarganya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7210</td></tr><tr><td>Arabic No</td><td>7210</td></tr><tr><td>Reference</td><td>Book 93 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Хишам, да будет доволен им Аллах, который застал Пророка ﷺ передаёт, что его мать Зейнаб бинт Хумайд пришла вместе с ним к Посланнику Аллаха ﷺ и сказала: «О Посланник Аллаха, прими его присягу». Пророк ﷺ сказал: «Он слишком мал», после чего погладил его по голове и обратился с мольбой к Аллаху за него. И (‘Абдуллах ибн Хишам) приносил в жертву одну овцу от всей семьи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7210</td></tr><tr><td>Arabic No</td><td>7210</td></tr><tr><td>Reference</td><td>Book 93 Hadith 70</td></tr></tbody></table></div>
 

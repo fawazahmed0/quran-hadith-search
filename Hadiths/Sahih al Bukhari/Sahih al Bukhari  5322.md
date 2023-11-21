@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] Telah menceritakan kepada kami [Malik] dari [Yahya bin Sa'id] dari [Al Qasim bin Muhamamd] dan [Sulaiman bin Yasar] bahwa ia mendengar keduanya menyebutkan bahwa Yahya bin Sa'id bin Al 'Ash menceraikan anak wanita Abdurrahman bin Al Hakam, lalu Abdurrahman pun memindahkannya. Maka [Aisyah] Ummul Mukminin mengirim surat kepada Marwan bin Al Hakam yang saat itu sebagai Amir Madinah, "Bertakwalah kepada Allah dan kembalikanlah ia ke rumahnya." Marwan berkata; Di dalam hadits Sulaiman disebutkan: "Sesungguhnya Abdurrahman bin Al Hakam telah mengalahkanku." Al Qasim bin Muhammad berkata, "Tidakkah sampai kepadamu berita tentang Fathimah binti Qais?" Wanita itu berkata, "Tidaklah akan mencelakaimu, kalau kamu tidak menyebutkan hadits Fathimah." Maka Marwan bin Al Hakam berkata, "Sesungguhnya pada dirimu terdapat keburukan. Karena itu, cukuplah keburukanmu antara dua hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5322</td></tr><tr><td>Arabic No</td><td>5322</td></tr><tr><td>Reference</td><td>Book 68 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Касим ибн Мухаммад и Сулейман ибн Ясар упоминали о том, что Яхья ибн Са‘ид ибн аль-‘Ас дал окончательный развод дочери ‘Абдуррахмана ибн аль-Хакама, и ‘Абдуррахман перевёз её в другой дом. ‘Аиша, мать правоверных, послала человека к Марвану ибн аль-Хакаму, который был наместником Медины, со словами: «Побойся Аллаха и верни её в её дом!» Марван послал ей ответ: «‘Абдуррахман ибн аль-Хакам одолел меня». А в другой версии говорится: «Разве ты не слышала историю Фатымы бинт Кайс?» ‘Аиша сказала: «О хадисе Фатымы можешь вообще не вспоминать». Марван ибн аль-Хакам сказал ей в ответ: «Если ты считаешь, (что причиной проведения ‘идды в другом месте могло быть) зло (между Фатымой и родственниками её мужа), то достаточно тебе вспомнить о зле, которое было между этими двоими!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5322</td></tr><tr><td>Arabic No</td><td>5322</td></tr><tr><td>Reference</td><td>Book 68 Hadith 70</td></tr></tbody></table></div>
 

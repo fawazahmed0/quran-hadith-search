@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuAyyub: Marthad ibn Abdullah said: When AbuAyyub came upon us to figh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Umar] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Muhammad bin Ishaq] telah menceritakan kepadaku [Yazid bin Abu Habib] dari [Martsad bin Abdullah] dia berkata; Tatkala [Abu Ayyub] mendatangi kami sebagai tentara perang, dan pada saat itu Uqbah bin Amir menjadi gubernur Mesir. Dia mengakhirkan shalat Maghrib. Maka Abu Ayyub mendatanginya dan berkata; Shalat apa ini wahai Uqbah? Dia menjawab; Kami disibukkan. Lantas Abu Ayyub berkata; Tidakkah engkau pernah mendengar Rasulullah Shallallahu alaihi wasallam bersabda: "Umatku akan senantiasa dalam kebaikan atau di atas fithrah selama mereka tidak mengakhirkan shalat Maghrib hingga semua bintang-bintang nampak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>418</td></tr><tr><td>Arabic No</td><td>418</td></tr><tr><td>Reference</td><td>Book 2 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Марсад ибн ‘Абдуллах сказал: «Когда к нам во время своего военного похода прибыл Абу Аййуб, а ‘Укъба ибн ‘Амир был (наместником) в Египте и он задержал закатную молитву. Абу Аййуб встал и сказал ему: “Что же это за молитва о ‘Укъба?” Тот ответил: “Нас отвлекли”». (Абу Аййуб) сказал: «А разве ты не слышал, как Посланник Аллаха ﷺ говорил: “Моя умма не перестанет пребывать в благополучии”, или он сказал: “на фитре, пока не будут откладывать закатную молитву до появления звёзд”?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>418</td></tr><tr><td>Arabic No</td><td>418</td></tr><tr><td>Reference</td><td>Book 2 Hadith 28</td></tr></tbody></table></div>
 

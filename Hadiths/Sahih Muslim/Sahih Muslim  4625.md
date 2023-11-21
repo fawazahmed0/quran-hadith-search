@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullah Ibn Mas'oûd (que Dieu l'agrée) a dit : Quand le Prophète entra à L
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan ['Amru An Naqid] serta [Ibnu Abu Umar] sedangkan lafadznya dari Ibnu Abu Syaibah, mereka berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ibnu Abu Najih] dari [Mujahid] dari [Abu Ma'mar] dari [Abdullah] dia berkata, "Ketika Nabi shallallahu 'alaihi wasallam masuk Makkah, saat itu terdapat tiga ratus enam puluh patung di sekitar Ka'bah. Lantas dengan tongkatnya beliau memukul patung tersebut sambil membaca: "Telah datang kebenaran dan lenyaplah kebatilan, sesungguhnya kebatilan pasti lenyap…) ' (Qs. Al Israa: 81) '(Kebenaran telah datang dan yang batil itu tidak akan memulai dan tidak (pula) akan mengulangi) ' (Qs. Sabaa: 49). Ibnu Abu Umar menambahkan, "Ketika hari penaklukan Kota Makkah." Dan telah menceritakan kepada kami [Hasan bin Ali Al Khulwani] dan [Abd bin Humaid] keduanya dari [Abdurrazaq] telah mengabarkan kepada kami [At Tsauri] dari [Ibnu Abu Najih] dengan isnad ini hingga perkataan, "(dan kebatilan) itu pasti lenyap." Dan tidak menyebutkan ayat yang lain, dia juga berkata, "Arca" sebagai ganti dari "Patung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4625</td></tr><tr><td>Arabic No</td><td>1781.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4625</td></tr><tr><td>Arabic No</td><td>1781.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 107</td></tr></tbody></table></div>
 

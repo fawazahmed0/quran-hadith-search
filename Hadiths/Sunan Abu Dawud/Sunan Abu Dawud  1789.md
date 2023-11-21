@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir bin Abdullah said The Apostle of Allaah(ﷺ) and his companions raised the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Abdul Wahhab Ats Tsaqafi], telah menceritakan kepada Kami [Habib yaitu Al Mu'allim] dari ['Atho'], telah menceritakan kepada Kami [Jabir bin Abdullah] bahwa Rasulullah shallAllahu wa'alaihi wa sallam melakukan talbiyah bersama para sahabatnya untuk melakukan haji, dan pada saat itu tidak ada seorang pun diantara mereka yang membawa hewan kurban kecuali Nabi shallallahu 'alaihi wasallam dan Thalhah. Ali radliallahu 'anhu datang dari Yaman dengan membawa hewan kurban, kemudian ia berkata; aku bertalbiyah seperti talbiyah Rasulullah shallAllahu wa'alaihi wa sallam. Dan Nabi shallallahu 'alaihi wasallam memerintahkan para sahabatnya agar menjadikannya umrah, mereka melakukan thawaf dan mencukur rambut serta bertahallul, kecuali orang yang membawa hewan kurban. Kemudian mereka berkata; apakah Kami pergi ke Mina, sementara dzakar-dzakar Kami meneteskan mani? Kemudian hal tersebut sampai kepada Rasulullah shallAllahu wa'alaihi wa sallam, lalu beliau berkata: "Jika dulu tampak kepadaku perkara yang terlihat saat ini maka aku tidak akan berkurban, dan seandainya aku tidak membawa hewan kurban niscaya aku akan bertahallul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1651)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1789</td></tr><tr><td>Arabic No</td><td>1789</td></tr><tr><td>Reference</td><td>Book 11 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ и его сподвижники объявили о своём намерении совершить хадж, причём жертвенный скот гнали только Пророка ﷺ и Тальха. ‘Али прибыл из Йемена. С ним был жертвенный скот. Он сказал: «Я объявил о таком же намерении, что и Посланник Аллаха ﷺ. Потом Пророк ﷺ велел своим сподвижникам считать совершённые обряды ‘умрой и ещё совершить обход вокруг Каабы, укоротить волосы и снять ихрам всем, кроме тех, кто гнал жертвенный скот. Люди стали восклицать: “Неужели мы отправимся в Мину, а с наших половых органов будет капать семя?!” Посланник Аллаха ﷺ узнал о том, что они говорили, и сказал: “Если бы я мог повернуть время вспять, я не стал бы гнать с собой жертвенный скот, и если бы со мной не было жертвенного скота, я бы вышел из состояния ихрама”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1651)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1789</td></tr><tr><td>Arabic No</td><td>1789</td></tr><tr><td>Reference</td><td>Book 11 Hadith 69</td></tr></tbody></table></div>
 

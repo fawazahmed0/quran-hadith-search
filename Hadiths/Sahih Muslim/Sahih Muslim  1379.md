@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Shibab reported:'Umar b. 'Abd al-'Aziz deferred the afternoon prayer somewha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Laits] dia berkata, (Dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibn Rumh] telah mengabarkan kepada kami [Al Laits] dari [Ibnu Syihab] bahwa Umar bin Abdul Aziz pernah mengakhirkan shalat Ashr, lalu 'Urwah berkata kepadanya; "Ketahuilah, sesungguhnya Jibril telah turun dan shalat sebagai imam Rasulullah shallallahu 'alaihi wasallam." Maka Umar berkata kepadanya; "Ketahuilah apa yang kamu katakan wahai [Urwah]!" Umar melanjutkan, aku pernah mendengar [Basyir bin Abu Mas'ud] mengatakan; Aku mendengar [Abu Mas'ud] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda; "Jibril turun dan mengimamiku, maka aku pun shalat bersamanya, kemudian aku shalat bersamanya, kemudian aku shalat bersamanya, kemudian aku shalat bersamanya, kemudian aku shalat bersamanya." beliau sambil menghitung dengan jari jemarinya sebanyak lima kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1379</td></tr><tr><td>Arabic No</td><td>610.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн Шихаба о том, что однажды, когда ‘Умар ибн ‘Абдуль’азиз задержал молитву ‘аср, ‘Урва сказал ему: «Спустившись на землю, Джибриль, совершил молитву перед Посланником Аллаха ﷺ». ‘Умар (ибн ‘Aбдуль’азиз) сказал ему: «Что ты такое говоришь, о ‘Урва!» ‘Урва ответил: «Я слышал, как Башир ибн Аби Мас’уд рассказывал со слов Абу Мас’уда, что Посланник Аллаха ﷺ сказал: “Спустившись на землю, Джибриль встал имамом передо мной, и я совершил молитву вместе с ним, затем я снова совершил молитву вместе с ним, затем я снова совершил молитву вместе с ним, затем я снова совершил молитву вместе с ним, затем я снова совершил молитву вместе с ним” считая пальцами пять молитв»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1379</td></tr><tr><td>Arabic No</td><td>610.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 213</td></tr></tbody></table></div>
 

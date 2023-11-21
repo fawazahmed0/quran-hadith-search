@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:In the Pre-lslamic Period when the people assumed Ihram, they w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Israil] dari [Abu Ishaq] dari [Al Barra] dia berkata; "Pada masa Jahiliyah, orang-orang yang berihram pada waktu haji, mendatangi rumah dari belakang, maka Allah menurunkan ayat; "Bukan suatu kebaikan mendatangi rumah-rumah dari belakang, kebaikan adalah (kebaikan) orang yang bertakwa. Datangilah rumah-rumah dari pintu-pintunya." (QS.Albaqarah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4512</td></tr><tr><td>Arabic No</td><td>4512</td></tr><tr><td>Reference</td><td>Book 65 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара говорил: «Во время доисламского невежества (джахилийя), войдя в состояние ихрама, люди заходили домой сзади. Тогда Аллах ниспослал: “Благочестие не в том, чтобы вы входили в дома с их задней стороны. Но благочестив тот, кто богобоязнен. Входите в дома через двери”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4512</td></tr><tr><td>Arabic No</td><td>4512</td></tr><tr><td>Reference</td><td>Book 65 Hadith 39</td></tr></tbody></table></div>
 

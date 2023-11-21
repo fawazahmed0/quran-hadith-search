@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: Does the man who lifts h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalaf bin Hisyam] dan [Abu ar-Rabi' az-Zahrani] serta [Qutaibah bin Sa'id] semuanya meriwayatkan dari [Hammad], [Khalaf] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Muhammad bin Ziyad] telah menceritakan kepada kami [Abu Hurairah radhiyallahu'anhu] dia berkata, Muhammad Shallallahu'alaihiwasallam bersabda, "Tidakkah takut orang yang mengangkat kepalanya sebelum imam, sehingga Allah mengubah kepalanya menjadi kepala keledai?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>427.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Мухаммад ﷺ сказал: “Неужели не боится тот из вас, кто поднимает свою голову раньше имама, что Аллах превратит его голову в ослиную?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>427.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 125</td></tr></tbody></table></div>
 

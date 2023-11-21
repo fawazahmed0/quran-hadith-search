@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amir bin Rabi'a:'Umar bin Al-Khattab left for Sham, and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Abdullah bin Amir bin Rabi'ah], Umar bin Khattab radliallahu 'anhu berangkat ke Syam. Ketika dia sampai di suatu kota yang bernama Saragh, dia mendengar berita bahwa wabah sedang menimpa Syam. Maka [Abdurrahman bin Auf] mengabarinya, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian mendengar wabah berada di suatu kawasan, janganlah kalian datang kesana, dan jika terjadi di suatu kawasan yang kalian diami, jangan kalian meninggalkannya." Spontan Umar meninggalkan kota Saragh. Dan dari [Ibnu Syihab] dari [Salim bin Abdullah], bahwasanya Umar pulang karena hadits Abdurrahman ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6973</td></tr><tr><td>Arabic No</td><td>6973</td></tr><tr><td>Reference</td><td>Book 90 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амир ибн Раби‘а рассказывал, что в своё время ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, выступил в поход на Шам. Когда же он достиг селения Сарг, ему сообщили, что в Шаме началась эпидемия чумы. Затем ‘Абдуррахман ибн ‘Ауф сообщил ему, что Посланник Аллаха ﷺ сказал: «Если вы услышите, что на какой-нибудь земле распространилась чума, то не входите туда, а если она распространится на той земле, в которой находитесь вы, то не покидайте её, убегая от чумы». Тогда ‘Умар покинул Сарг
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6973</td></tr><tr><td>Arabic No</td><td>6973</td></tr><tr><td>Reference</td><td>Book 90 Hadith 20</td></tr></tbody></table></div>
 

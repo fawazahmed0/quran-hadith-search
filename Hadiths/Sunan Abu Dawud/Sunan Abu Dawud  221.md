@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] bahwa dia berkata; Umar bin Al-Khaththab pernah memberitahukan kepada Rasulullah shallallahu 'alaihi wasallam bahwa dia junub di malam hari, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya, "Berwudhulah dan basuhlah kemaluanmu, kemudian tidurlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (290) Sahih Muslim (306)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>221</td></tr><tr><td>Arabic No</td><td>221</td></tr><tr><td>Reference</td><td>Book 1 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Динара о том, что ‘Абдуллах ибн ‘Умар сказал: «Однажды ‘Умар ибн аль-Хаттаб рассказал Посланнику Аллаха ﷺ о том, что ночью его постигло осквернение /джанаба/, и Посланник Аллаха ﷺ сказал ему: “Соверши омовение /вудуъ/, помой свои половые органы, а затем ложись спать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (290) Sahih Muslim (306)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>221</td></tr><tr><td>Arabic No</td><td>221</td></tr><tr><td>Reference</td><td>Book 1 Hadith 221</td></tr></tbody></table></div>
 

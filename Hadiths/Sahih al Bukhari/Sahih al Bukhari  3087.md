@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:I was on a journey in the company of the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Syu'bah] dari [Muharib bin Ditsar] berkata aku mendengar [Jabir bin 'Abdullah radliallahu 'anhuma] berkata; "Aku pernah bersama Nabi Shallallahu'alaihiwasallam dalam suatu perjalanan dan ketika kami tiba di Madinah, Beliau berkata kepadaku: "Masuklah ke dalam masjid lalu shalatlah dua Raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3087</td></tr><tr><td>Arabic No</td><td>3087</td></tr><tr><td>Reference</td><td>Book 56 Hadith 291</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «(Однажды) я был в пути вместе с Пророком ﷺ, и когда мы прибыли в Медину, он сказал мне: “Зайди в мечеть и соверши молитву в два рак‘ата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3087</td></tr><tr><td>Arabic No</td><td>3087</td></tr><tr><td>Reference</td><td>Book 56 Hadith 291</td></tr></tbody></table></div>
 

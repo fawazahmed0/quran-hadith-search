@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mughaffal Al-Muzani:Allah's Messenger (ﷺ) said thrice, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq Al Washithi] berkata, telah menceritakan kepada kami [Khalid] dari [Al Jurairi] dari [Abu Burdah] dari ['Abdullah bin Mughaffal Al Muzni], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Di dua adzan (adzan dan iqamat) ada shalat sunah -beliau ucapkan tiga kali- bagi yang mau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 10 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Мугъаффаля аль-Музани, да будет доволен им Аллах, о том, что (как-то раз) Посланник Аллаха ﷺ трижды сказал: «Между каждыми двумя призывами — молитва», (а потом добавил): «Для того, кто (этого) пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 10 Hadith 21</td></tr></tbody></table></div>
 

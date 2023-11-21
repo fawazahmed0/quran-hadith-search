@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sahl ibn AbuHathmah: The Prophet (ﷺ) said: When one of you prays faci
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash-Shabbah bin Sufyan] telah mengabarkan kepada kami [Sufyan] -dari jalur lain- Dan telah menceritakan kepada kami [Utsman bin Abi Syaibah] dan [Hamid bin Yahya] dan [Ibnu As-Sarj] mereka berkata; Telah menceritakan kepada kami [Sufyan] dari [Shafwan bin Sulaim] dari [Nafi' bin Jubair] dari [Sahl bin Abi Hatsmah] yang menyampaikan haditsnya kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila salah seorang di antara kalian shalat dengan sutrah, hendaklah dia mendekat darinya hingga setan tidak dapat memutus shalatnya." Abu Dawud berkata; Hadits ini diriwayatkan oleh [Waqid bin Muhammad] dari [Shafwan] dari [Muhammad bin Sahl] dari [Ayahnya] atau dari [Muhammad bin Sahl] dari Nabi shallallahu 'alaihi wasallam, sebagian mereka berkata dari [Nafi' bin Jubair] dari [Sahl bin Sa'ad] dan sanadnya diperselisihkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>695</td></tr><tr><td>Arabic No</td><td>695</td></tr><tr><td>Reference</td><td>Book 2 Hadith 305</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля ибн Абу Хасмы о том, что Пророк ﷺ сказал: «Когда кто-нибудь из вас станет молиться (обратившись лицом) к сутре, пусть приблизится к ней, чтобы шайтан не прервал его молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>695</td></tr><tr><td>Arabic No</td><td>695</td></tr><tr><td>Reference</td><td>Book 2 Hadith 305</td></tr></tbody></table></div>
 

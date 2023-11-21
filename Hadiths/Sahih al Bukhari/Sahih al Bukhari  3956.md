@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:I and Ibn 'Umar were considered too young (to take part) in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Bara'] berkata; "Aku dan Ibnu Umar masih dianggap anak kecil". Telah menceritakan kepadaku [Mahmud] telah menceritakan kepada kami [Wahb] dari [Syu'bah] dari [Abu Ishaq] dari [Al Bara'] berkata; "Aku dan Ibnu 'Umar masih dianggap anak kecil pada saat perang Badar. Pada waktu itu, jumlah kaum Muhajirin sekitar enam puluh orang sedangkan Kaum Anshar berjumlah dua ratus empat puluh orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3956</td></tr><tr><td>Arabic No</td><td>3956</td></tr><tr><td>Reference</td><td>Book 64 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара сказал: «Я и Ибн ‘Умар считались слишком молодыми (для участия) в битве при Бадре. Мухаджиров в день битвы при Бадре было более шестидесяти (человек), а ансаров было более двухсот сорока девяти»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3956</td></tr><tr><td>Arabic No</td><td>3956</td></tr><tr><td>Reference</td><td>Book 64 Hadith 8</td></tr></tbody></table></div>
 

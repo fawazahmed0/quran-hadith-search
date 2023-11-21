@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "The bad example is not for us. He w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdurrahman bin Al Mubarak] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Tidak patut bagi kita (orang beriman) sengaja membuat perumpamaan yang buruk. Orang yang meminta kembali apa yang telah dihibahkannya bagaikan anjing yang menelan kembali apa yang dimuntahkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2622</td></tr><tr><td>Arabic No</td><td>2622</td></tr><tr><td>Reference</td><td>Book 51 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Не позволительно для нас плохое описание; тот, кто забирает назад то, что подарил, подобен собаке, которая поедает собственную блевотину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2622</td></tr><tr><td>Arabic No</td><td>2622</td></tr><tr><td>Reference</td><td>Book 51 Hadith 54</td></tr></tbody></table></div>
 

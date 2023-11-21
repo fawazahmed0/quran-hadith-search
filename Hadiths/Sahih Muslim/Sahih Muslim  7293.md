@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that Allah's Messenger (ﷺ) stood by the door (of the apartm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ubaidullah bin Umar Al Qawariri] dan [Muhammad bin Al Mutsanna]. Telah menceritakan kepada kami [Ubaidullah bin Sa'id], semuanya dari [Yahya Al Qaththan] berkata [Al Qawariri]: telah menceritakan kepadaku [Yahya bin Sa'id] dari [Ubaidullah bin Umar] telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar] Rasulullah Shallallahu 'alaihi wa Salam berdiri di dekat pintu Hafshah lalu berisyarat dengan tangan beliau ke arah timur, beliau bersabda: "Fitnah itu disini, dari tempat terbitnya tanduk setan." Beliau mengucapkannya dua atau tiga kali. Ubaidullah bin Sa'id berkata dalam riwayatnya: Rasulullah Shallallahu 'alaihi wa Salam berdiri di dekat pintu Aisyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7293</td></tr><tr><td>Arabic No</td><td>2905.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7293</td></tr><tr><td>Arabic No</td><td>2905.02</td></tr><tr><td>Reference</td><td>Book 54 Hadith 59</td></tr></tbody></table></div>
 

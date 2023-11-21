@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) forbade Al-Wisal. The people said (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dan [Al Laits] berkata; telah menceritakan kepadaku [Abdurrahman bin Khalid] dari [Ibn Syihab] bahwasanya [Sa'id bin Musayyab] mengabarkan kepadanya, bahwa [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam melarang puasa wishal, Para sahabat mengemukakan alasan, "Anda sendiri puasa wishal ya Rasulullah!" Nabi menjawab: "Siapa di antara kalian yang bisa sepertiku, sungguh tuhanku selalu memberiku makan dan minum." Tatkala para sahabat enggan menghentikan wishalnya, beliau menyambung puasanya bersama mereka hari demi hari, kemudian mereka melihat hilal (bulan sabit), lantas Nabi berkata: "Jika bulan itu terlambat, niscaya kutambah lagi puasanya, " seolah-olah beliau ingin menghukum para sahabatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7242</td></tr><tr><td>Arabic No</td><td>7242</td></tr><tr><td>Reference</td><td>Book 94 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запретил соблюдать пост непрерывно, (люди) сказали (ему): “Но ты ведь делаешь это!”, — (на что Пророк ﷺ) ответил: “А кто из вас подобен мне? Поистине, по ночам Господь мой кормит и поит меня”. Когда же (некоторые люди) отказались прекратить поститься непрерывно, (Пророк ﷺ тоже) стал поститься непрерывно вместе с ними(, не разговляясь сначала) один день, потом ещё один, после чего они увидели молодой месяц. И тогда (Пророк ﷺ) сказал: “Если бы он появился позже, я бы добавил вам”, (имея в виду, что это) послужило бы им примерным наказанием»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7242</td></tr><tr><td>Arabic No</td><td>7242</td></tr><tr><td>Reference</td><td>Book 94 Hadith 17</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:When the Prophet (ﷺ) forbade the use of certain co
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku [Sulaiman bin Abu Muslim Al Ahwal] dari [Mujahid] dari [Abu 'Iyadl] dari [Abdullah bin 'Amru] radliallahu 'anhuma dia berkata; "Ketika Nabi shallallahu 'alaihi wasallam melarang beberapa jenis tempat air minum, lantas ditanyakan kepada Nabi shallallahu 'alaihi wasallam; "Kalau begitu orang-orang akan kesulitan mendapatkan tempat air minum!." Maka beliau memberi keringanan pada al jar (tempat air minum yang terbuat dari tembikar) selain Muzaffat (tempat air minum yang di polesi dengan ter)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5593</td></tr><tr><td>Arabic No</td><td>5593</td></tr><tr><td>Reference</td><td>Book 74 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр, да будет доволен Аллах ими обоими, сказал: «После того как Пророк ﷺ запретил использование некоторых сосудов, кто-то сказал (ему): “Не все люди могут найти бурдюки”, и тогда он разрешил им пользоваться глиняными кувшинами, не обмазанными смолой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5593</td></tr><tr><td>Arabic No</td><td>5593</td></tr><tr><td>Reference</td><td>Book 74 Hadith 19</td></tr></tbody></table></div>
 

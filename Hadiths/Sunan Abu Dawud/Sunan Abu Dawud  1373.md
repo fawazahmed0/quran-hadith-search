@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah, wife of Prophet (ﷺ):That the Prophet (ﷺ) once offered (tar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik bin Anas] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari [Aisyah isteri Nabi] shallallahu 'alaihi wasallam bahwa Nabi shallallahu 'alaihi wasallam mengerjakan shalat di dalam masjid, kemudian orang-orang turut mengikuti shalat beliau, kemudian beliau mengerjakan lagi di malam berikutnya, ternyata orang-orang yang mengikuti shalat beliau semakin banyak, Dan di malam ketiga, ketika orang-orang telah berkumpul, Rasulullah shallallahu 'alaihi wasallam tidak kunjung keluar. Keesokan harinya, beliau bersabda: "Aku telah mengetahui apa yang kalian perbuat semalam, dan tidak ada sesuatu pun yang menghalangiku keluar menemui kalian, hanya saja aku khawatir jika shalat tersebut akan diwajibkan atas kalian." Kejadian itu terjadi pada bulan Ramadhan." Telah menceritakan kepada kami [Hannad bin As Sarri] telah menceritakan kepada kami ['Abdah] dari [Muhammad bin 'Amru] dari [Muhammad bin Ibrahim] dari [Abu Salamah bin Abdurrahman] dari [Aisyah] dia berkata; "Biasanya orang-orang mengerjakan shalat di masjid pada bulan Ramadhan secara terpisah, lalu Rasulullah shallallahu 'alaihi wasallam memerintahkanku (untuk menghamparkan tikar), maka aku pun menghamparkan tikar untuk beliau, lalu beliau shalat di atas tikar tersebut…" seperti kisah dalam hadits ini, Aisyah berkata; "Beliau yaitu Nabi shallallahu 'alaihi wasallam bersabda: "Wahai sekalian manusia, demi Allah, segala puji bagi Allah, tidaklah aku lalai pada malam hariku ini, dan tidak pula tempat kalian samar bagiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2012) Sahih Muslim (761)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1373</td></tr><tr><td>Arabic No</td><td>1373</td></tr><tr><td>Reference</td><td>Book 6 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, жены Пророка ﷺ что Пророк ﷺ молился в мечети и люди присоединились к нему и тоже стали молиться. На следующую ночь Пророк ﷺ также совершал дополнительную молитву и собралось много людей. В третью ночь они собрались, однако Посланник Аллаха ﷺ не вышел к ним. Утром он сказал им: «Я видел, что вы сделали, и мне помешала выйти к вам лишь боязнь того, что это будет вменено вам в обязанность». А это было в рамадане
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2012) Sahih Muslim (761)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1373</td></tr><tr><td>Arabic No</td><td>1373</td></tr><tr><td>Reference</td><td>Book 6 Hadith 3</td></tr></tbody></table></div>
 

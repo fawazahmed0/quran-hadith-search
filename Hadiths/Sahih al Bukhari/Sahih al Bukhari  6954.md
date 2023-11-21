@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah does not accept prayer of an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Nashr] telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Hammam] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Allah tidak menerima shalat salah seorang diantara kalian jika berhadas hingga ia berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6954</td></tr><tr><td>Arabic No</td><td>6954</td></tr><tr><td>Reference</td><td>Book 90 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Не примет Аллах намаз кого либо из вас, если он осквернился, пока он не совершит омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6954</td></tr><tr><td>Arabic No</td><td>6954</td></tr><tr><td>Reference</td><td>Book 90 Hadith 2</td></tr></tbody></table></div>
 

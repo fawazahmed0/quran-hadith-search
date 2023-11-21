@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated the uncle of 'Abbas bin Tamim:I saw Allah's Messenger (ﷺ) lying on hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Az Zuhri] dia berkata; telah mengabarkan kepadaku ['Abbad bin Tamim] dari [Pamannya] dia berkata; "Saya pernah melihat Rasulullah shallallahu 'alaihi wasallam tidur terlentang di masjid sambil menumpukan salah satu kakinya di atas kakinya yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6287</td></tr><tr><td>Arabic No</td><td>6287</td></tr><tr><td>Reference</td><td>Book 79 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аббад ибн Тамим передал, что его дядя сказал: «Я видел, как Посланник Аллаха ﷺ лежал в мечети на спине, положив ногу на ногу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6287</td></tr><tr><td>Arabic No</td><td>6287</td></tr><tr><td>Reference</td><td>Book 79 Hadith 59</td></tr></tbody></table></div>
 

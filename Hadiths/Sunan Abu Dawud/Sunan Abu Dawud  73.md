@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah : The Prophet (sal Allaahu alayhi wa sallam) as saying : W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Aban] telah menceritakan kepada kami [Qatadah] bahwasanya [Muhammad bin Sirin] menceritakan kepadanya, dari [Abu Hurairah], bahwa Nabiyullah shallallahu 'alaihi wasallam bersabda: "Apabila seekor anjing menjilat bejana, maka cucilah ia tujuh kali, yang ke tujuh dengan tanah." Abu Dawud berkata; Adapun [Abu Shalih], [Abu Razin], [Al A'raj], [Tsabit Al Ahnaf], [Hammam bin Munabbih] dan [Abu As Suddi Abdurrahman], mereka semua meriwayatkannya dari [Abu Hurairah] dan tidak menyebutkan perihal tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>73</td></tr><tr><td>Arabic No</td><td>73</td></tr><tr><td>Reference</td><td>Book 1 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, что Пророк ﷺ сказал: «Если сосуд облизала собака, то помойте его семь раз, и на седьмой раз землей». Абу Дауд сказал: «Что касается Абу Салиха, Абу Разина, аль-А‘раджа, ас-Сабита аль-Ахнафа, Хаммама ибн Мунаббиха, Абу-с-Суддийа ‘Абдуррахмана, то они передали (этот хадис) от Абу Хурайры и не упомянули о земле»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>73</td></tr><tr><td>Arabic No</td><td>73</td></tr><tr><td>Reference</td><td>Book 1 Hadith 73</td></tr></tbody></table></div>
 

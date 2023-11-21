@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:While Allah's Messenger (ﷺ) was talking about the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4954</td></tr><tr><td>Arabic No</td><td>4954</td></tr><tr><td>Reference</td><td>Book 65 Hadith 476</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах аль-Ансари, да будет доволен Аллах им и его отцом, сказал, что, рассказывая о периоде (временного) прекращения откровений, Посланник Аллаха ﷺ сказал: «(Как-то раз) я шёл (по дороге) и вдруг услышал голос с неба. Я поднял голову и увидел явившегося ко мне (в пещере на горе) Хира ангела, который (на этот раз) сидел на троне между небом и землёй. Я испугался его, вернулся (домой) и сказал: “Укройте меня, укройте меня!”». Его укрыли и Всевышний Аллах ниспослал (аяты, в которых говорилось): “О завернувшийся! Встань и увещевай, и Господа своего возвеличивай, и одежды свои очисть, и скверны избегай...”». После этого откровения стали приходить одно за другим.\nАбу Саляма сказал: «“Ар-риджз” — это идолы, которым поклонялись люди доисламского невежества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4954</td></tr><tr><td>Arabic No</td><td>4954</td></tr><tr><td>Reference</td><td>Book 65 Hadith 476</td></tr></tbody></table></div>
 

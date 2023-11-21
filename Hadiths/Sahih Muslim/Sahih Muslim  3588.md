@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Habiba, the wife of Allah's Apostle (ﷺ), reported that she said to Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rumh bin Muhajir] telah mengabarkan kepada kami [Al Laits] dari [Yazid bin Abu Habib] bahwasannya [Muhammad bin Syihab] telah menyebutkan bahwa ['Urwah] telah menceritakan kepadanya bahwa [Zainab binti Abu Salamah] telah menceritakan kepadanya bahwa [Ummu Habibah] istri Nabi shallallahu 'alaihi wasallam telah menceritakan kepadamu bahwa dirinya berkata kepada Rasulullah shallallahu 'alaihi wasallam; "Wahai Rasulullah, nikahilah saudariku Azzah." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah kamu suka hal itu?" Dia menjawab; "Wahai Rasulullah, sesungguhnya saya serius dengan anda! Dan saya lebih suka jika orang yang bersekutu denganku dalam kebaikan adalah saudariku sendiri." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya hal itu tidak halal bagiku." Lantas saya berkata; "Sesungguhnya kami mendengar cerita bahwa anda akan menikahi Durrah binti Salamah. Beliau bersabda: "Putri Abu Salamah?" Dia menjawab; "Ya". Rasulullah shallallahu 'alaihi wasallam bersabda: "Seandainya dia bukan anak tiriku yang dalam asuhanku, maka dia tetap tidak halal bagiku, karena dia adalah putri saudara sesusuanku, sebab Tsuwaibah pernah menyusuiku dan menyusui Abu Salamah, oleh karena itu janganlah kamu menawarkan anak-anak perempuan kalian dan saudara-saudara perempuan kalian." Dan telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin Al Laits] telah menceritakan kepadaku [ayahku] dari [kakekku] telah menceritakan kepadaku ['Uqail bin khalid]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepadaku [Ya'qub bin Ibrahim Az Zuhri] telah menceritakan kepada kami [Muhammad bin Abdullah bin Muslim] keduanya dari [Az Zuhri] dengan isnad Ibnu Abu Habib seperti haditsnya dia, namun dalam haditsnya tidak disebutkan seseorang yang bernama Azzah, bukan Yazid bin Abu Habib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3588</td></tr><tr><td>Arabic No</td><td>1449.03</td></tr><tr><td>Reference</td><td>Book 17 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3588</td></tr><tr><td>Arabic No</td><td>1449.03</td></tr><tr><td>Reference</td><td>Book 17 Hadith 21</td></tr></tbody></table></div>
 

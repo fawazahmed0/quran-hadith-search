@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I bought Barirah but her masters put the condition that her Wala
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abi Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha] berkata; Aku membeli seorang budak wanita bernama Barirah lalu tuannya mengajukan persyaratan (bahwa wala' tetap milik mereka), maka aku adukan hal itu kepada Nabi shallallahu 'alaihi wasallam, dan Beliau bersabda: "Bebaskanlah dia karena perwalian bagi siapa yang memberikan perak (uang). Maka aku membebaskannya lalu Nabi shallallahu 'alaihi wasallam memanggilnya lalu memberi pilihan untuk tetap bersama suaminya atau tidak. Barirah berkata: seandainya suamiku memberi kepadaku ini dan itu, itu semuanya tidak menjadikanku tinggal bersamanya ". Lalu Barirah memilih untuk dirinya sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2536</td></tr><tr><td>Arabic No</td><td>2536</td></tr><tr><td>Reference</td><td>Book 49 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) я захотела выкупить Бариру, (чтобы освободить её), однако её владельцы сделали условием её продажи то, что её “уаля” (право наследовать освобожденного) останется за ними. Я рассказала об этом Пророку ﷺ, и он сказал: “Освободи её, ведь, поистине, “уаля” принадлежит тому, кто отдаёт стоимость”. И я освободила её. Затем Пророк ﷺ позвал её и предоставил ей выбор (остаться с мужем или нет), и она ответила: “Я не желаю быть с ним, даже если бы он дал мне за это то-то и то-то!” И она выбрала себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2536</td></tr><tr><td>Arabic No</td><td>2536</td></tr><tr><td>Reference</td><td>Book 49 Hadith 20</td></tr></tbody></table></div>
 

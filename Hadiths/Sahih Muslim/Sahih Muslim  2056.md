@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm 'Atiyya reported:The Messenger of Allah (ﷺ) commanded us to bring out on'I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Hisyam] dari [Hafshah binti Sirin] dari [Ummu Athiyyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kepada kami agar mengajak serta keluar melakukan shalat idul fithri dan idul Adlha para gadis, wanita haid dan wanita yang sedang dipingit. Adapun mereka yang sedang haidl tidak ikut shalat, namun turut menyaksikan kebaikan dan menyambut seruan kaum muslimin. Saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai Rasulullah, di antara kami ada yang tidak memiliki baju." Beliau menjawab: "Hendaknya saudaranya yang memiliki jilbab memakaikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>890.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Умм ‘Атыйя сказала: «Посланник Аллаха ﷺ велел нам приводить (на молитвы) в (дни праздников) разговения и жертвоприношения зрелых девушек /‘аватик/ женщин, у которых были месячные, и тех, кто (находился за) занавесками /зават аль-худур/, (сказав): “Что же касается женщин, у которых (в это время) будут месячные, пусть они не молятся, но принимают участие в (прочих) благих (делах) и обращаются с мольбами к Аллаху вместе со (всеми) мусульманами”. Я сказала: “О Посланник Аллаха, у некоторых из нас (даже) нет покрывала”, и (тогда Пророк ﷺ) сказал: “Пусть (такой женщине одолжит) покрывало её сестра (по вере)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>890.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
 

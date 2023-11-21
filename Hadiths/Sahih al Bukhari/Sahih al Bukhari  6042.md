@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zam'a:The Prophet (ﷺ) forbade laughing at a person who 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Hisyam] dari [ayahnya] dari [Abdullah bin Zam'ah] dia berkata; Nabi shallallahu 'alaihi wasallam melarang seseorang menertawakan sesuatu yang keluar dari orang lain (maknanya mengejek orang lain)." Beliau juga bersabda: "Kenapa salah seorang dari kalian memukul isterinya sebagaimana memukul kudanya atau budaknya, semoga saja ia dapat memeluk isterinya." [Ats Tsauri], [Wuhaib] dan [Abu Mu'awiyah] mengatakan dari [Hisyam] yaitu; "Sebagaimana mencambuk budak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6042</td></tr><tr><td>Arabic No</td><td>6042</td></tr><tr><td>Reference</td><td>Book 78 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Зам’а сказал: «Пророк ﷺ запретил смеяться над человеком, который испускает ветры (газы). А также он сказал: “Почему кто-то из вас бьёт свою жену, подобно тому, как он бьёт верблюда (или: раба), а затем наверное обнимает её!?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6042</td></tr><tr><td>Arabic No</td><td>6042</td></tr><tr><td>Reference</td><td>Book 78 Hadith 72</td></tr></tbody></table></div>
 

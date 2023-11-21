@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:that Allah's Prophet led them in the Zuhr prayer and he offe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim], ia mendengar [Abdul 'Aziz bin Abdushshammad], telah menceritakan kepada kami [Manshur] dari [Ibrahim] dari ['Alqomah] dari [Ibnu mas'ud] radliallahu 'anhu, bahwasanya Nabiyullah Shallallahu'alaihiwasallam mengimami para sahabat shalat zhuhur, tetapi beliau menambah atau menguranginya. -Kata Manshur, saya tidak tahu apakah Ibrahim yang lalai atau Alqomah (maksudnya lalai tentang kepastian menambah atau mengurangi shalat).- Kata Ibnu mas'ud; kemudian ditanyakan; 'Wahai Rasulullah, apakah anda meng-qashar shalat ataukah anda memang lupa? ' Nabi bertanya: "apakah itu?" Para sahabat menjawab; 'Anda telah melakukan demikian (mengurangi atau menambah shalat).' Maka Nabi melakukan dua sujud bersama mereka, selanjutnya beliau bersabda: "Kedua sujud ini adalah bagi siapa yang tidak tahu apakah dia menambah shalatnya ataukah ia menguranginya, kemudian dia berusaha mencari yang benar dan menyempurnakan sisanya, kemudian ia sujud dengan dua sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6671</td></tr><tr><td>Arabic No</td><td>6671</td></tr><tr><td>Reference</td><td>Book 83 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от (‘Абдуллаха) ибн Мас‘уда, да будет доволен им Аллах, что однажды Пророк Аллаха ﷺ совершил с ними полуденную молитву. И он добавил в ней (что-то) или убавил. (Передатчик) Мансур (ибн аль-Му’тамир) сказал: «Я не знаю, Ибрахим (ан-Наха’и) ошибся или ‘Алькама (ибн Кайс)». Далее говорится: «...(и люди) спросили: «О Посланник Аллаха! Молитва была сокращена или ты забыл?» Он ответил: «Почему вы так решили?» Люди сказали: «Но ты помолился так-то и так-то». (Ибн Мас’уд) сказал: «Тогда он совершил вместе с ними два земных поклона, а потом сказал: «Эти два земных поклона для того, кто не знает: добавил ли он что-то в своей молитве или убавил. Так пусть выберет то, что кажется ему наиболее вероятным, и доведёт до конца то, что осталось, а затем совершит два земных поклона»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6671</td></tr><tr><td>Arabic No</td><td>6671</td></tr><tr><td>Reference</td><td>Book 83 Hadith 49</td></tr></tbody></table></div>
 

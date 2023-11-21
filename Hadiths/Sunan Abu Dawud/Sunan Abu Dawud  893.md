@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying; when you come to p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] bahwa [Sa'id bin Al Hakam] telah menceritakan kepada mereka, telah mengabarkan kepada kami [Nafi' bin Yazid] telah menceritakan kepadaku [Yahya bin Abu Sulaiman] dari [Zaid bin Abu Al 'Attab] dan [Ibnu Al Maqburi] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian datang untuk menunaikan shalat, sedangkan kami dalam keadaan sujud, maka ikutlah bersujud, dan janganlah kalian menghitungnya satu raka'at, dan barangsiapa mendapatkan ruku', berarti dia telah mendapatkan shalat (satu raka'at -pent)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 2 Hadith 503</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Поистине, руки совершают земной поклон, так же как и лицо, и, когда один из вас опускает на землю лицо, пусть опускает и руки, а когда поднимает лицо, пусть поднимает и руки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 2 Hadith 503</td></tr></tbody></table></div>
 

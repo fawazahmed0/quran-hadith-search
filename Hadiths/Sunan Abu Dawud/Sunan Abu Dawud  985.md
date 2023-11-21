@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mihjan ibn al-Adra': The Messenger of Allah (ﷺ) entered the mosque an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin 'Amru Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Al Husain Al Mu'allim] dari [Abdullah bin Buraidah] dari [Handlalah bin Ali] bahwa [Mihjan bin Al Adra'] telah menceritakan kepadanya, katanya Mihjan; "Rasulullah shallallahu 'alaihi wasallam masuk ke dalam masjid, lalu beliau mendapati seorang laki-laki membaca tasyahud seusai shalat, dia mengucapkan; "Allahumma inni as'aluka Ya Allah Al Ahad As Shamad alladzii lam yalid wa lam yuulad walam yakul lahuu kufuwan ahad antaghfira lii dzunuubi innaka antal ghafuurur rakhiim (Ya Allah, sesungguhnya aku memohon kepada-Mu, Dzat yang Maha Esa, Dzat yang bergantung kepada-Nya segala sesuatu, tiada beranak dan tidak pula diperanakkan dan tidak ada seorangpun yang setara dengan Dia, semoga Engkau mengampuni dosa-dosaku, sesungguhnya Engkau adalah Maha Pengampun lagi Maha Penyayang." Kata Mihjan, maka beliau bersabda: "Sungguh (dosa-dosa) nya telah di ampuni, Sungguh (dosa-dosa) nya telah di ampuni." Beliau mengucapkannya hingga tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>985</td></tr><tr><td>Arabic No</td><td>985</td></tr><tr><td>Reference</td><td>Book 2 Hadith 596</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Михджана ибн аль-Адра‘, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ зашёл в мечеть и услышал, как один человек, завершая молитву, совершая ташаххуд, взывает к Аллаху следующим образом: «О Аллах, поистине, я прошу Тебя, о Аллах, Единственный, Самодостаточный, Который не рождал и не был рождён и не был равным Которому ни один, простить мне мои грехи, поистине, Ты Прощающий, Милостивый!» (Посланник Аллаха ﷺ) сказал: «Ему уже прощено! Ему уже прощено!» Он произнёс эти слова трижды
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>985</td></tr><tr><td>Arabic No</td><td>985</td></tr><tr><td>Reference</td><td>Book 2 Hadith 596</td></tr></tbody></table></div>
 

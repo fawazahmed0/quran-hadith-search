@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira:Sa'd bin 'Ubada said, "If I saw a man with my wife, I would 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail At Tabudzaki] telah menceritakan kepada kami [Abu 'Awanah] telah menceritakan kepada kami [Abdul Malik] dari [Warrad] juru tulis Mughira, dari [Mughirah] berkata, "Sa'd bin Ubadah berkata, "Kalaulah kulihat seorang laki-laki bersama isteriku, niscaya aku penggal dia dengan pedang di bagian mata pedangnya, bukan dengan pinggirnya." Berita ini kemudian terdengar oleh Rasulullah Shallallahu'alaihiwasallam, sehingga beliau bersabda: "Adakah kalian merasa heran dengan kecemburuan Sa'd? Demi Allah, sungguh aku lebih cemburu daripada dia, dan Allah lebih cemburu daripada aku, dan karena kecemburuan Allah itulah Allah mengharamkan segala kejahatan baik yang nampak maupun yang tersembunyi, dan tidak ada seorangpun yang lebih suka terhadap argumentasi daripada Allah, karena itulah Allah mengutus para rasul sebagai pembawa berita gembira dan pemberi peringatan, dan tak ada seorang pun yang lebih menyukai pujian daripada Allah, karena itulah Allah menjanjikan surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7416</td></tr><tr><td>Arabic No</td><td>7416</td></tr><tr><td>Reference</td><td>Book 97 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Са‘д ибн ‘Убада воскликнул: «Если бы я увидел мужчину со своей женой, то ударил бы его мечом не плашмя, (а остриём)!” Когда это дошло до Посланника Аллаха ﷺ он сказал (своим сподвижникам): “Вас удивляет ревность Са‘да? Клянусь Аллахом, я более ревнив, чем он, а Аллах ещё более ревнив, чем я. Именно из-за ревности Аллаха, Он запретил мерзости явные и тайные. И никто не любит оправдания больше, чем Аллах. Именно поэтому Он направил благовествующих и предостерегающих. И никто не любит прославления больше, чем Аллах. Именно поэтому Аллах обещал Рай”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7416</td></tr><tr><td>Arabic No</td><td>7416</td></tr><tr><td>Reference</td><td>Book 97 Hadith 44</td></tr></tbody></table></div>
 

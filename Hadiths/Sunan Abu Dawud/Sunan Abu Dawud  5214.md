@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuDharr: Ayyub ibn Bushayr ibn Ka'b al-Adawi quoted a man of Anazah wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah mengabarkan kepada kami [Abul Husain] -maksudnya Abul Husain Khalid bin Dzakwan- dari [Ayyub bin Busyair bin Ka'b Al Adawi] dari [seorang laki-laki penduduk Anazah] bahwasanya ia berkata kepada [Abu Dzar] saat keluar dari Syam, "Aku ingin bertanya kepadamu tentang hadits Rasulullah shallallahu 'alaihi wasallam." Abu Dzar berkata, "Aku akan memberitahukan kepadamu kecuali tentang rahasia (Rasulullah)." Aku menjawab, "Bukan hal rahasia yang aku tanyakan, tetapi apakah Rasulullah shallallahu 'alaihi wasallam berjabat tangan saat kalian berjumpa dengan beliau?" Abu Dzar berkata: "Aku tidak pernah berjumpa dengan beliau kecuali beliau menjabat tanganku. Suatu hari beliau mengutus utusan kepadaku saat aku tidak ada di rumah, ketika kembali ke rumah aku diberi kabar bahwa beliau telah mengutus seorang utusan kepadaku. Maka aku mendatanginya saat beliau berada di atas pembaringan, lantas beliau memelukku. Maka pelukan itu lebih indah, dan lebih indah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5214</td></tr><tr><td>Arabic No</td><td>5214</td></tr><tr><td>Reference</td><td>Book 43 Hadith 442</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5214</td></tr><tr><td>Arabic No</td><td>5214</td></tr><tr><td>Reference</td><td>Book 43 Hadith 442</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:I used to apply perfume to the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata; saya telah membacakan kepada [Malik] dari [Abdurrahman bin Qasim] dari [bapaknya] dari [Aisyah] radliallahu 'anha, bahwa ia berkata; "Aku memakaikan harum-haruman kepada Rasulullah shallallahu 'alaihi wasallam untuk Ihramnya sebelum beliau berihram dan juga untuk tahallul sebelum beliau tawaf di Baitullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2826</td></tr><tr><td>Arabic No</td><td>1189.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2826</td></tr><tr><td>Arabic No</td><td>1189.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 36</td></tr></tbody></table></div>
 

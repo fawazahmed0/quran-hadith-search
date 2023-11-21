@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said the Messenger of Allah (SWAS) was at al-Rawha. There he met some
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Sufyan bin 'Uyainah] dari [Ibrahim bin 'Uqbah] dari [Kuraib] dari [Ibnu Abbas], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam pernah berada di Rauha', kemudian bertemu dengan orang-orang yang menunggang kendaraan. Beliau bertanya: "Siapakah kalian ini?" Mereka berkata; Kami adalah orang-orang muslim. Kemudian mereka berkata; dan siapakah kalian? Para sahabat berkata; Rasulullah shallAllahu wa'alaihi wa sallam. Kemudian terdapat seorang wanita yang kaget, lalu ia memegang lengan seorang anak kecil dan mengeluarkannya dari tandunya dan berkata; wahai Rasulullah, apakah anak ini boleh melakukan haji? Beliau bersabda: "Ya, dan engkau akan mendapatkan pahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1336)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1736</td></tr><tr><td>Arabic No</td><td>1736</td></tr><tr><td>Reference</td><td>Book 11 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, когда Посланник Аллаха ﷺ находился в Раухе, ему повстречалась группа всадников. Он поприветствовал их и спросил: «Кто вы?» Они ответили: «Мусульмане». И они спросили: «А вы кто?» Им ответили: «Посланник Аллаха». Одна женщина, охваченная благоговейным страхом, взяла за предплечье мальчика и, вытащив его из паланкина, спросила: «О Посланник Аллаха, засчитается ли ему хадж?» Он ответил: «Да, а тебе будет награда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1336)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1736</td></tr><tr><td>Arabic No</td><td>1736</td></tr><tr><td>Reference</td><td>Book 11 Hadith 16</td></tr></tbody></table></div>
 

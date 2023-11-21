@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Suddi reported:I asked Anas how I should turn-to the right or to the left-when I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Abu 'Awanah] dari [As Sudi], katanya; "Aku pernah bertanya kepada [Anas]; "Bagaimana seharusnya aku melakukan ketika beranjak pergi dari shalat, aku beranjak ke sebelah kanan ataukah kiri?" dia menjawab; "Kebanyakan aku melihat Rasulullah shallallahu 'alaihi wasallam beranjak dari sebelah kanannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1640</td></tr><tr><td>Arabic No</td><td>708.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Судди сказал: «Я спросил Анаса: “Как мне (следует) покидать место молитвы, завершив её? (Мне следует уходить) направо или налево?” Он ответил: “Что касается меня, то я много раз видел, как Посланник Аллаха ﷺ уходил (с места молитвы, повернув) направо”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1640</td></tr><tr><td>Arabic No</td><td>708.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 71</td></tr></tbody></table></div>
 

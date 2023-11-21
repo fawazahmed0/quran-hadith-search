@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:Allah's Messenger (ﷺ) taught me the Tashah-hud as he taugh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Saif] dia berkata; saya mendengar [Mujahid] berkata; telah menceritakan kepadaku [Abdullah bin Sahbarah Abu Ma'mar] dia berkata; saya mendengar [Ibnu Mas'ud] berkata; "Rasulullah shallallahu 'alaihi wasallam pernah mengajariku tasyahud -sambil menghamparkan kedua telapak tangannya- sebagaimana beliau mengajariku surat Al Qur'an, yaitu; "AT-TAHIYYATUT LILLAHI WASH-SHALAWAATU WATH-THAYYIBAATU, ASSALAAMU 'ALAIKA AYYUHAN-NABIYYU WA RAHMATULLAHI WA BARAKAATUH, ASSALAAMU 'ALAINAA WA 'ALA 'IBAADILLAAHISH-SHAALIHIIN, ASYHADU ALLAA ILAAHA ILLALLAAH WA ASYHADU ANNA MUHAMMADAN ABDUHU WA RASUULUH (penghormatan, rahmat dan kebaikan hanya untuk Allah. Semoga keselamatan, rahmat, dan keberkahan tetap ada pada engkau wahai Nabi. Keselamatan juga semoga ada pada hamba-hamba Allah yang shalih. Aku bersaksi bahwa tiada Dzat yang berhak disembah kecuali Allah, dan Muhammad adalah hamba dan utusan-Nya). Yaitu ketika beliau masih hidup bersama kami, namun ketika beliau telah meninggal, kami mengucapkan; "Assalaamu maksudnya atas Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6265</td></tr><tr><td>Arabic No</td><td>6265</td></tr><tr><td>Reference</td><td>Book 79 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд сказал: «Посланник Аллаха ﷺ научил меня словам ташаххуда точно так же, как он обучал меня сурам Корана, держа при этом мою ладонь в своих руках: “Приветствия и молитвы, и (все) благие слова — Аллаху! Мир тебе, о пророк, милость Аллаха и Его благословения! Мир нам и всем праведным рабам Аллаха! Свидетельствую, что нет божества, достойного поклонения, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Его посланник” /Ат-тахиййату ли-Лляхи ва-с-салавату ва-т-таййибату. Ас-саляму ‘алейка аййуха-н-набиййу, ва рахмату-Ллахи ва баракатуху. Ас-саляму ‘алейна ва ‘аля ‘ибади-Ллахи-с-салихин. Ашхаду алля иляха илля-Ллаху ва ашхаду анна Мухаммадан ‘абдуху ва расулюху/. (Так мы говорили, пока) он был среди нас, когда же он умер, то мы стали говорить: “Мир”, то есть Пророку ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6265</td></tr><tr><td>Arabic No</td><td>6265</td></tr><tr><td>Reference</td><td>Book 79 Hadith 39</td></tr></tbody></table></div>
 

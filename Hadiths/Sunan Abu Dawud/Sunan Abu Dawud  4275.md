@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said:No other verse has repealed the verse "If a man kills a believer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami ['Abdurrahman] berkata, telah menceritakan kepada kami [Sufyan] dari [Al Mughirah bin Nu'man] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, "Firman Allah: (Dan barangsiapa membunuh seorang mukmin dengan sengaja…) -Qs. An Nisa: 94-, tidak pernah dihapus oleh ayat manapun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4763، 4810) Sahih Muslim (122)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4275</td></tr><tr><td>Arabic No</td><td>4275</td></tr><tr><td>Reference</td><td>Book 37 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал, что аят «Если же кто-либо убьёт верующего преднамеренно…» (сура «ан-Ниса», аят 93) не был ничем отменён
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4763، 4810) Sahih Muslim (122)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4275</td></tr><tr><td>Arabic No</td><td>4275</td></tr><tr><td>Reference</td><td>Book 37 Hadith 36</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir Ibn 'Abdillâh (رضي الله عنهما), la délégation de 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Ismail bin Salim] keduanya berkata, telah mengabarkan kepada kami [Husyaim] dari [Abu Bisyr] dari [Abu Sufyan] dari [Jabir bin Abdullah] bahwa utusan Tsaqif bertanya kepada Nabi Shallallahu'alaihiwasallam, seraya mereka berkata, " Tanah kami adalah tanah yang sangat dingin, maka bagaimana caranya mandi?" Lalu beliau bersabda, "Adapun aku, maka aku menyiramkan pada kepalaku tiga kali." [Ibnu Salim] berkata dalam riwayatnya, telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Abu Bisyr] dan dia berkata, " utusan Tsaqif bertanya, 'Wahai Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>742</td></tr><tr><td>Arabic No</td><td>328</td></tr><tr><td>Reference</td><td>Book 3 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, что (однажды) люди из делегация племени сакыф задали Пророку ﷺ (следующий) вопрос: «Поистине, наша земля холодная, так как же нам быть с полным омовением /гусль/?» Тогда Пророк ﷺ сказал: «Что касается меня, то я обливаю голову трижды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>742</td></tr><tr><td>Arabic No</td><td>328</td></tr><tr><td>Reference</td><td>Book 3 Hadith 64</td></tr></tbody></table></div>
 

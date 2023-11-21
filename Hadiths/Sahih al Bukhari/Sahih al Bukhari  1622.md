@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:In the year prior to the last Hajj of the Prophet (ﷺ) whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] berkata, [Yunus] berkata, [Ibnu Syihab] telah menceritakan kepada saya [Humaid bin 'Abdurrahman] bahwa [Abu Hurairah radliallahu 'anhu] mengabarkan kepadanya bahwa Abu Bakar Ash-Shidiq radliallahu 'anhu mengutusnya dalam urusan yang dia diperuntahkan oleh Rasulullah Shallallahu'alaihiwasallam sebelum hajji wada' pada hari Nahar dalam satu rambongan kecil untuk mengumumkan kepada manusia bahwa; "Setelah tahun ini tidak boleh seorang musyrikpun ang melaksanakan hajji dan tidak boleh thawaf di Ka'bah dengan telanjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1622</td></tr><tr><td>Arabic No</td><td>1622</td></tr><tr><td>Reference</td><td>Book 25 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что во время предшествовавшего прощальному паломничеству хаджа, руководить которым Посланник Аллаха ﷺ назначил Абу Бакра, да будет доволен им Аллах, в день жертвоприношения (Абу Бакр) послал его в числе других возвестить людям, что со следующего года многобожникам не будет разрешаться совершать хадж, а обнажённым не будет разрешаться совершать обход Каабы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1622</td></tr><tr><td>Arabic No</td><td>1622</td></tr><tr><td>Reference</td><td>Book 25 Hadith 107</td></tr></tbody></table></div>
 

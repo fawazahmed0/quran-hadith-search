@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Out of so many ahadith which Hammam b. Munabbih narrated on the authority of Abu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq bin Hammam] telah menceritakan kepada kami [Ma'mar] dari [Hammam bin Munabbih] ia berkata; Ini adalah di antara hadits yang diceritakan kepada kami oleh [Abu Hurairah] dari Muhammad Rasulullah shallallahu 'alaihi wasallam. kemudian ia pun menyebutkan beberapa hadits, yang diantara adalah, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada suatu hari, aku pulang ke rumah isteriku, lalu kudapati sebuah kurma jatuh di lantai. Kurma itu kuambil hendak kumakan, tapi tiba-tiba aku ingat kalau-kalau kurma itu kurma sedekah, maka kuletakkan saja kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2477</td></tr><tr><td>Arabic No</td><td>1070.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Клянусь Аллахом, поистине, (бывает так, что) я прихожу к себе домой, нахожу на своей постели упавший финик и поднимаю его, чтобы съесть, а потом (начинаю) опасаться, что он (может) оказаться (частью) милостыни, и бросаю его (обратно)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2477</td></tr><tr><td>Arabic No</td><td>1070.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 214</td></tr></tbody></table></div>
 

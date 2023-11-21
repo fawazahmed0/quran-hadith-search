@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Ayyoûb Al-Ansâri (que Dieu l'agrée), le Prophète (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Ibnu Numair] keduanya berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dia berkata. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Yahya bin Yahya] dan ini adalah lafazh miliknya, dia berkata, 'Aku berkata kepada [Sufyan bin Uyainah], engkau mendengar [az-Zuhri] menyebutkan dari [Atha' bin Yazid al-Laitsi] dari [Abu Ayyub] bahwa Nabi shallallahu 'alaihi wasallam bersabda: 'Apabila kalian mendatangi tempat buang hajat, maka janganlah kalian menghadap kiblat dan jangan pula membelakanginya; saat buang air besar atau buang air kecil, tetapi menghadaplah ke timur atau ke barat.' Abu Ayyub berkata, "Saat mendatangi Syam, kami mendapati WC didirikan menghadap kiblat, lalu kami berpaling darinya dan meminta ampun kepada Allah." Sufyan menjawab, "Ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>264</td></tr><tr><td>Reference</td><td>Book 2 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Аюба, что Пророк ﷺ сказал: «Когда вы отправитесь в отхожее место, то не обращайтесь в сторону киблы лицом и не поворачивайтесь к ней спиной, справляя как большую, так и малую нужду. Однако поворачивайтесь к востоку или западу».Абу Аюб сказал: «Прибыв в Шам, мы обнаружили, что туалеты там были построены в направлении киблы, поэтому мы поворачивались в другую от неё сторону и просили Аллаха о прощении»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>264</td></tr><tr><td>Reference</td><td>Book 2 Hadith 76</td></tr></tbody></table></div>
 

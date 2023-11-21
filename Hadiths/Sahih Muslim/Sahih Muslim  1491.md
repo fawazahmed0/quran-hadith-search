@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Abd 'Amr reported:'Uthman b. 'Affan (narrated the mosque after 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Al Mughirah bin Salamah Al Makhzumi] telah menceritakan kepada kami [Abdul Wahid yaitu Ibnu Ziyad], telah menceritakan kepada kami [Usman bin Hakim] telah menceritakan kepada kami [Abdurrahman bin Abu 'Amrah] katanya; [Usman bin Affan] memasuki masjid setelah shalat maghrib, ia lalu duduk seorang diri, maka aku pun duduk menyertainya. Katanya; "Wahai keponakanku, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa shalat isya' berjama'ah, seolah-olah ia shalat malam selama separuh malam, dan barangsiapa shalat shubuh berjamaah, seolah-olah ia telah shalat seluruh malamnya." Dan telah menceritakan kepadaku hadis ini [Zuhair bin Harb] telah menceritakan kepada kami [Muhammad bin Abdullah Al Asadi] (Dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Muhammad bin Rafi'] katanya; telah menceritakan kepada kami [Abdurrazaq], semuanya dari [Sufyan] dari [Abu Sahl Usman bin Hakim] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1491</td></tr><tr><td>Arabic No</td><td>656.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 324</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Аби ‘Амра сказал: «(Однажды) ‘Усман ибн ‘Аффан зашёл в мечеть после закатной молитвы и сидел в одиночестве. Я подсел к нему, и он сказал: “О сын моего брата! Я слышал, как Посланник Аллаха ﷺ говорил: “Человек, который принял участие в общей вечерней /‘иша/ молитве, (подобен тому, кто) молился половину ночи, а (человек), принявший участие в общей утренней молитве, (подобен тому, кто) молился всю ночь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1491</td></tr><tr><td>Arabic No</td><td>656.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 324</td></tr></tbody></table></div>
 

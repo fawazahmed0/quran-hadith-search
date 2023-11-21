@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id Abu Maslama:I asked Anas (bin Malik), "Did the Prophet (ﷺ) use 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Sa'id Abu Maslamah] dia berkata; saya bertanya kepada [Anas] "Apakah Nabi shallallahu 'alaihi wasallam pernah shalat dengan menggunakan sandal?" Dia menjawab; 'Ya, pernah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5850</td></tr><tr><td>Arabic No</td><td>5850</td></tr><tr><td>Reference</td><td>Book 77 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Анаса, да будет доволен им Аллах, спросили: «Совершал ли Пророк ﷺ молитвы в сандалиях?», — и он сказал: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5850</td></tr><tr><td>Arabic No</td><td>5850</td></tr><tr><td>Reference</td><td>Book 77 Hadith 67</td></tr></tbody></table></div>
 

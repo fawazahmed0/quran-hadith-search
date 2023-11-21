@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn as-Sa'ib ibn Yazid: The Messenger of Allah (ﷺ) said: Non
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Yahya] dari [Ibnu Abu Dzi'b]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Sulaiman bin 'Abdurrahman Ad Dimasyqi] berkata, telah menceritakan kepada kami [Syu'aib bin Ishaq] dari [Ibnu Abu Dzi'b] dari [Abdullah bin As Saib bin Yazid] dari [Bapaknya] dari [Kakeknya] Bahwasanya ia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan sekali-kali salah seorang dari kalian mengambil barang milik saudaranya, baik untuk bercanda atau sungguhan." Sulaiman berkata, "untuk bercanda atau sungguhan. Maka barangsiapa mengambil tongkat milik saudaranya hendaklah ia kembalikan." Ibnu Basysyar tidak mengatakan 'Ibnu Yazid', dan ia berkata dalam riwayatnya (dengan kalimat); Rasulullah shallallahu 'alaihi wasallam bersabda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5003</td></tr><tr><td>Arabic No</td><td>5003</td></tr><tr><td>Reference</td><td>Book 43 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Язид (ас-Сакафи) слышал, как Посланник Аллаха ﷺ говорил: «Пусть никто из вас ни в коем случае не берёт вещи своего брата ни в шутку, ни всерьёз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5003</td></tr><tr><td>Arabic No</td><td>5003</td></tr><tr><td>Reference</td><td>Book 43 Hadith 231</td></tr></tbody></table></div>
 

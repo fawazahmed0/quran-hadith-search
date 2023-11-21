@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mujja'ah ibn Mirarah al-Yamani: Mujja'ah went to the Prophet (ﷺ) aski
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sanad Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2990</td></tr><tr><td>Arabic No</td><td>2990</td></tr><tr><td>Reference</td><td>Book 20 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Муджжа‘а, что он пришёл к Пророку ﷺ желая получить выкуп за своего брата, которого убили бану садус из бану зухль. Пророк ﷺ сказал: «Если бы мог я постановить выплатить выкуп язычнику, я сделал бы это для твоего брата, однако я дам тебе возмещение». И Пророк ﷺ велел дать ему сто верблюдов из первого хумуса, который будет получен от язычников бану зухль. Он взял несколько, а потом бану зухль приняли ислам. После этого Муджжа‘а пришёл к Абу Бакру, чтобы получить своих верблюдов. Он принёс ему свиток, в котором было записано обещание Пророка ﷺ и Абу Бакр велел дать ему двенадцать тысяч са‘ из закята Ямамы: четыре тысячи пшеницей, четыре тысячи ячменём и четыре тысячи финиками. А Пророк ﷺ в своё время написал для Муджжа‘а следующее: «С именем Аллаха Всемилостивого, Милостивого! Это написано Пророком Мухаммадом ﷺ для Муджжа‘а ибн Марары из бану сальма. Я даю ему сто верблюдов из первого хумуса, который будет получен от многобожников из бану зухль, в качестве возмещения за гибель его брата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sanad Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2990</td></tr><tr><td>Arabic No</td><td>2990</td></tr><tr><td>Reference</td><td>Book 20 Hadith 63</td></tr></tbody></table></div>
 

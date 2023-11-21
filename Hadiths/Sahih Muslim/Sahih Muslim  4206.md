@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A hadith like this have been narrated on the authority of Nafi', who based his n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Khaitsamah Zuhair bin Harb] dan [Muhammad bin Al Mutsanna Al 'Anazi] dan ini adalah lafadz Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Yahya] -yaitu Ibnu Sa'id Al Qatthan- dari ['Ubaidullah] telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak halal bagi seorang Muslim bermalam selama dua malam, padahal ia mempunyai sesuatu yang harus ia wasiatkan, kecuali wasiat tersebut tertulis di sisinya." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] Telah menceritakan kepada kami ['Abdah bin Sulaiman] dan [Abdullah bin Numair]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepadaku [Ayahku] keduanya dari [Ubaidullah] dengan sanad ini, hanya saja keduanya menyebutkan, "Dan dia memiliki sesuatu untuk diwasiatkan." Dan tidak menyebutkan, "Memiliki sesuatu untuk ia wasiatkan." Dan telah menceritakan kepada kami [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid-. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] -yaitu Ibnu 'Ulayyah- keduanya dari [Ayyub]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abu At Thahir] telah mengabarkan kepada kami [Ibnu Wahhab] telah mengabarkan kepadaku [Yunus]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Usamah bin Zaid Al Laitsi]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Ibnu Abu Fudaik] telah mengabarkan kepada kami [Hisyam yaitu Ibnu Sa'd] semuanya dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam seperti hadits riwayat Ubaidullah, mereka semua menyebutkan dengan lafadz, "Dan dia memiliki sesuatu untuk diwasiatkan." Kecuali dalam hadits Ayyub, ia menyebutkan dengan lafadz, "Memiliki sesuatu untuk ia wasiatkan." Seperti riwayat Yahya dari 'Ubaidullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4206</td></tr><tr><td>Arabic No</td><td>1627.03</td></tr><tr><td>Reference</td><td>Book 25 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4206</td></tr><tr><td>Arabic No</td><td>1627.03</td></tr><tr><td>Reference</td><td>Book 25 Hadith 3</td></tr></tbody></table></div>
 

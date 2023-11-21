@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ka'b b. Ujra (Allah be pleased with him) reported that he went out with the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Numair] dari [Zakaria bin Abu Za'idah] telah menceritakan kepada kami [Abdurrahman Al Ashbahani] telah menceritakan kepadaku [Abdullah bin Ma'qil] telah menceritakan kepadaku [Ka'ab bin Ujrah] radliallahu 'anhu katanya; Ia pernah pergi haji bersama-sama dengan Nabi shallallahu 'alaihi wasallam, sedangkan kepala dan jenggotnya penuh dengan kutu. Kemudian hal itu sampai sampai kepada Nabi shallallahu 'alaihi wasallam, dan beliau pun mengutus seseorang keapdanya. Lalu beliau memanggil tukang cukur untuk mencukur rambutnya. Akhirnya tukang cukur itu pun mencukur rambut Ka'ab bin Ujrah. Sesudah itu, beliau bertanya: "Apakah kamu mempunyai Nusuk (hewan kurban)?" ia menjawab, "Saya tidak sanggup melakukannya." Maka beliau pun memerintahkannya untuk berpuasa tiga hari, atau memberi makan kepada enam orang miskin, yakni satu Sha' untuk setiap orangnya. Kemudian Allah menurunkan ayat yang khusus berkenaan dengan peristiwa itu; "Jika ada di antaramu yang sakit atau ada gangguan di kepalanya (lalu ia bercukur), " (QS. Albaqarah; 196) dan hukumnya kemudian menjadi umum bagi kaum muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2884</td></tr><tr><td>Arabic No</td><td>1201.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2884</td></tr><tr><td>Arabic No</td><td>1201.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 94</td></tr></tbody></table></div>
 

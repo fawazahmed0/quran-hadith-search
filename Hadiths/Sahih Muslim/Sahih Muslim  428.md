@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jabir b. 'Abdullah that the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Uqail] dari [az-Zuhri] dari [Ibnu Salamah bin Abdurrahman] dari [Jabir bin Abdullah] dia berkata, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika orang-orang Quraisy mendustakanku, aku berdiri di dalam Hijir. Kemudian Allah memperlihatkan kepadaku Baitul Maqdis. Lalu aku mulai menceritakan kepada mereka tentang tanda-tanda kebesaran Allah. Ketika itu aku memandang ke arah Baitul Maqdis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>428</td></tr><tr><td>Arabic No</td><td>170</td></tr><tr><td>Reference</td><td>Book 1 Hadith 333</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «После того как курайшиты объявили мои слова ложью, я встал в аль-Хиджре, и Аллах показал мне Храм (в Иерусалиме) /байт аль-макдис/, а я начал описывать им приметы (храма), рассматривая его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>428</td></tr><tr><td>Arabic No</td><td>170</td></tr><tr><td>Reference</td><td>Book 1 Hadith 333</td></tr></tbody></table></div>
 

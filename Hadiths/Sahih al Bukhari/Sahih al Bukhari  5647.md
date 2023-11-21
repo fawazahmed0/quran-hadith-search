@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:I visited the Prophet (ﷺ) during his ailments and he was su
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim At Taimi] dari [Al Harits bin Suwaid] dari [Abdullah] radliallahu 'anhu; saya pernah menjenguk Nabi shallallahu 'alaihi wasallam ketika sakit, sepertinya beliau sedang merasakan rasa sakit, kataku selanjutnya; "Sepertinya anda sedang merasakan rasa sakit yang amat berat, oleh karena itulah anda mendapatkan pahala dua kali lipat." Beliau menjawab: "Benar, tidaklah seorang muslim yang tertimpa musibah melainkan Allah akan menggugurkan kesalahan-kesalahannya sebagaimana pohon menggugurkan dedaunannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5647</td></tr><tr><td>Arabic No</td><td>5647</td></tr><tr><td>Reference</td><td>Book 75 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (бин Мас‘уд), да будет доволен им Аллах, сказал: «(Однажды) я зашёл к Пророку ﷺ страдавшему от сильной горячки, и сказал (ему): “Какая у тебя сильная горячка!” И я спросил: “Это потому, что тебе предназначена двойная награда?” Он сказал: “Да, и любого мусульманина, который будет испытывать страдания, Аллах обязательно освободит от (бремени) его грехов подобно тому, как дерево освобождается от своих листьев”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5647</td></tr><tr><td>Arabic No</td><td>5647</td></tr><tr><td>Reference</td><td>Book 75 Hadith 7</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Referring to the story of a bedouin, Talhah b. 'Ubaid Allah reported the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al 'Ataki], telah menceritakan kepada kami [Isma'il bin Ja'far Al Madani], dari [Abu Suhail Nafi' bin Malik bin Amir] dari [ayahnya] bahwa ia mendengar [Thalhah bin 'Ubaidullah] dalam hadits kisah seorang badui, Nabi shallallahu 'alaihi wasallam bersabda: "Ia telah beruntung demi ayahnya apabila ia jujur, ia masuk surga demi ayahnya apabila ia jujur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3252</td></tr><tr><td>Arabic No</td><td>3252</td></tr><tr><td>Reference</td><td>Book 22 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Тальха ибн ‘Убайдуллах, да будет доволен им Аллах, в истории бедуина также передал, что Пророк ﷺ сказал: «Клянусь его отцом, преуспел он, если только он сказал правду. Клянусь его отцом, его ждёт Рай, если только он сказал правду!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3252</td></tr><tr><td>Arabic No</td><td>3252</td></tr><tr><td>Reference</td><td>Book 22 Hadith 11</td></tr></tbody></table></div>
 

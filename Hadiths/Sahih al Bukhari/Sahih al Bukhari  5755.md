@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "There is no Tiyara and the best om
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah mengabarkan kepada kami [Hisyam] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah] dari [Abu Hurairah] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada thiyarah (menganggap sial pada sesuatu sehingga tidak jadi beramal) dan yang baik adalah al fa'lu." Abu Hurairah bertanya; "Apakah al fa'lu itu wahai Rasulullah?" beliau menjawab: "Kalimat yang baik yang di dengar oleh salah seorang dari kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5755</td></tr><tr><td>Arabic No</td><td>5755</td></tr><tr><td>Reference</td><td>Book 76 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал: “Не (является дурным предзнаменованием полёт) птиц, а лучшее из этого — доброе предзнаменование”. Кто-то спросил: “А что такое доброе предзнаменование, о Посланник Аллаха?” (Пророк ﷺ) сказал: “Доброе слово, которое слышит кто-нибудь из вас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5755</td></tr><tr><td>Arabic No</td><td>5755</td></tr><tr><td>Reference</td><td>Book 76 Hadith 70</td></tr></tbody></table></div>
 

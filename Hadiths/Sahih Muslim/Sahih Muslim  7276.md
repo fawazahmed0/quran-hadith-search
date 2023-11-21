@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Harith b. Naufal reported:I was standing along with Ubayy b. Ka'b an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Fudhail bin Husain] dan [Abu Ma'nu Ar Raqasyi], teks milik Abu Ma'nu, keduanya berkata: Telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Abdulhamid bin Ja'far] telah mengkhabarkan kepadaku [ayahku] dari [Sulaiman bin Yasar] dari [Abdullah bin Al Harits bin Naufal] berkata: Aku pernah istirahat bersama [Ubai bin Ka'ab]. Ia berkata: Orang-orang terus sibuk mencari dunia. Aku menjawab: Benar. Ia berkata: Aku pernah mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Hampir saja Furat mengumpulkan harta simpanan dari emas. Saat mendengarnya, orang-orang menghampirinya lalu orang yang didekatnya berkata: 'Bila kita biarkan orang-orang mengambilnya, mereka akan menghabiskan semuanya." Beliau bersabda: "Mereka berperang karenanya, dari setiap seratus orang, sembilanpuluh sembilannya terbunuh." Abu Kamil berkata dalam haditsnya: Ia berkata: Aku dan Ubai bin Ka'ab istirahat di bawah naungan kebun Hassan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7276</td></tr><tr><td>Arabic No</td><td>2895</td></tr><tr><td>Reference</td><td>Book 54 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7276</td></tr><tr><td>Arabic No</td><td>2895</td></tr><tr><td>Reference</td><td>Book 54 Hadith 42</td></tr></tbody></table></div>
 

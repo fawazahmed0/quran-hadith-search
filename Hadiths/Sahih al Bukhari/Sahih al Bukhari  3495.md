@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The tribe of Quraish has precedenc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Al Mughirah] dari [Abu Az Zanad] dari [Al A'Raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi Shallallhu 'alaihi wa salam bersabda: "Manusia akan mengikuti Quraisy dalam urusan ini (pemerintahan) orang Muslim lain akan mengikuti Muslim mereka (Quraisy) begitu juga orang kafir akan mengikuti orang kafir mereka (quraisy). Dan manusia beragam asal-usulnya (dan kwalitas perilakunya), maka orang-orang yang baik pada zaman jahiliyyah akan menjadi baik pula pada zaman Islam bila mereka memahami (Islam), dan kalian akan temui pula bahwa manusia yang paling baik dalam urusan (khilafah/pemerintahan) ini adalah orang yang paling menbenci (tidak selera) terhadap urusan pemerintahan ini hingga dia masuk ke dalamnya".(Jika sudah masuk dalam pemerintahan karena untuk menegakkan keadilan dan menegakkan hukum Allah, jika bukan untuk ambisi pribadi dan golongan, maka bukan hal itu perkara yang dibenci)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3495</td></tr><tr><td>Arabic No</td><td>3495</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «В этом деле (то есть в делах правления) людям (надлежит) подчиняться курайшитам: мусульмане из их числа (должны) подчиняться мусульманам, а неверные — неверным
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3495</td></tr><tr><td>Arabic No</td><td>3495</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

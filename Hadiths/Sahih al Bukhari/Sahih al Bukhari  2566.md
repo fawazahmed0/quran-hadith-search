@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "O Muslim women! None of you should
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ashim bin 'Ali] telah menceritakan kepada kami [Ibnu Abi Dza'bi] dari [Al Maqburiy] dari [bapaknya] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Wahai wanita-wanita muslim, janganlah seorang budak wanita menganggap remeh memberi hadiah budak wanita lainnya sekalipun hanya sebesar kubangan karena diinjak kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2566</td></tr><tr><td>Arabic No</td><td>2566</td></tr><tr><td>Reference</td><td>Book 51 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, что Пророк ﷺ сказал: «О женщины-мусульманки, пусть ни одна соседка ни в коем случае не пренебрегает (ничем, чтобы сделать добро) своей соседке, даже если (речь идёт всего лишь об) овечьем копыте»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2566</td></tr><tr><td>Arabic No</td><td>2566</td></tr><tr><td>Reference</td><td>Book 51 Hadith 1</td></tr></tbody></table></div>
 

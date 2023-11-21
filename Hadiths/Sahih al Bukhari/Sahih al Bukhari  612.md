@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Isa bin Talha:that he had heard Muawiya repeating the words of Adhan u
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadlalah] berkata, telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Muhammad bin Ibrahim bin Al Harits] berkata, telah menceritakan kepadaku ['Isa bin Thalhah], bahwa pada suatu hari dia mendengar [Mu'awiyyah] mengucapkan seperti (apa yang diucapkan mu'adzin) hingga ucapannya: "Wa asyhadu anna Muhammadar Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>612</td></tr><tr><td>Arabic No</td><td>612</td></tr><tr><td>Reference</td><td>Book 10 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Исы ибн Тальхи о том, что он слышал, как однажды Му‘авия, да будет доволен им Аллах, повторил тоже самое, что сказал он, включая его слова: «и свидетельствую, что Мухаммад — Посланник Аллаха /Ашхаду анна Мухаммадан расулю-Ллах/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>612</td></tr><tr><td>Arabic No</td><td>612</td></tr><tr><td>Reference</td><td>Book 10 Hadith 10</td></tr></tbody></table></div>
 

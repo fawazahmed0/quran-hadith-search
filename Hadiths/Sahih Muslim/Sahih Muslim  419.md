@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu al-'Aliya reported:Ibn Abbas, the son of your Prophet's uncle, told us that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Syaiban bin Abdurrahman] dari [Qatadah] dari [Abu al-Aliyah] telah menceritakan kepada kami putra paman Nabi kalian shallallahu 'alaihi wasallam [Ibnu Abbas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Saya melewati Musa bin Imran pada malam aku diisra'kan, dia adalah seorang laki-laki sawo matang tinggi, gempal seakan-akan beliau adalah seorang laki-laki dari kaum Syanu'ah. Dan aku melihat Isa bin Maryam, berbadan sedang berwarna merah dan putih, rambutnya terurai, lalu diperlihatkan kepadaku Malik, malaikat penjaga neraka, dan Dajjal dalam beberapa ayat yang mana Allah hanya menunjukkan kepadanya, sehingga kalian tidak ragu-ragu dalam bertemu dengannya." Perawi berkata, "Qatadah menafsirkannya bahwa Nabi Allah shallallahu 'alaihi wasallam sungguh telah bertemu Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>419</td></tr><tr><td>Arabic No</td><td>165.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 324</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Аббаса, что (однажды) Посланник Аллаха ﷺ сказал: «В ту ночь, когда я был вознесён (на небо), я прошёл мимо Мусы сына ‘Имрана (он был в образе) смуглого, высокого и курчавого человека, будто был он одним из людей (племени) шану‘а, и я увидел ‘Ису сына Марьям (в образе человека) среднего роста и телосложения, (который был) румяным и белокожим и имел прямые волосы, и я увидел Малика, стража Огня, и я увидел Антихриста», (а затем Пророк ﷺ прочитал следующий аят): «Так не сомневайся же во встрече с Ним!» (сура «ас-Саджда», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>419</td></tr><tr><td>Arabic No</td><td>165.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 324</td></tr></tbody></table></div>
 

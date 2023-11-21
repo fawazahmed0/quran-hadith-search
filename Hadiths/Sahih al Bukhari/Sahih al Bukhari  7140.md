@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "This matter (caliphate) will r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami ['Ashim bin Muhammad], aku mendengar [Ayahku] mengatakan; [Ibnu Umar] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Urusan kepemimpinan ini berada di quraisy, sekalipun mereka tinggal dua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7140</td></tr><tr><td>Arabic No</td><td>7140</td></tr><tr><td>Reference</td><td>Book 93 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ сказал: “Не перестанет это дело (правление) быть среди курайшитов, даже если не останется из них никого, кроме двоих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7140</td></tr><tr><td>Arabic No</td><td>7140</td></tr><tr><td>Reference</td><td>Book 93 Hadith 4</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported:I heard Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Al Hadi] dari [Umar bin Ali bin Husain] dari [Sa'id bin Marjanah] dari [Abu Hurairah] dia berkata, saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang membebaskan buda beriman, maka Allah akan membebaskan setiap anggota badannya dari api neraka dengan seiap anggota tubuh budak yang dia merdekakan, sampai kemaluan dengan kemaluannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3797</td></tr><tr><td>Arabic No</td><td>1509.03</td></tr><tr><td>Reference</td><td>Book 20 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3797</td></tr><tr><td>Arabic No</td><td>1509.03</td></tr><tr><td>Reference</td><td>Book 20 Hadith 27</td></tr></tbody></table></div>
 

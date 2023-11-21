@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Marthad al-Ghanawi reported Allah's Messenger (ﷺ) as saying:Do not sit on 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ali bin Hujr As Sa'di] Telah menceritakan kepada kami [Al Walid bin Muslim] dari [Ibnu Jabir] dari [Busr bin Ubaidullah] dari [Watsilah] dari [Abu Martsad Al Ghanawi] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian duduk di atas kuburan, dan jangan pula kalian shalat dengan menghadap ke arahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2250</td></tr><tr><td>Arabic No</td><td>972.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Марсада аль-Ганави, что Посланник Аллаха ﷺ сказал: «Не садитесь на могилы и не молитесь, обращаясь к ним лицами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2250</td></tr><tr><td>Arabic No</td><td>972.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 126</td></tr></tbody></table></div>
 

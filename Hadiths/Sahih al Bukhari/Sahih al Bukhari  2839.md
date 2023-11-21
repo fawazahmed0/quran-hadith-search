@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:While the Prophet (ﷺ) was in a Ghazwa he said, "Some people have
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Hammad, dia adalah putranya Zaid] dari [Humaid] dari [Anas radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam dalam suatu peperangan pernah bersabda: "Sesungguhnya ada kaum yang berada di Madinah tidak ikut berperang bersama kita, tidaklah kita mendaki bukit, tidak pula menyusuri lembah melaikan mereka bersama kita (dalam mendapat) pahala berperang karena mereka tertahan oleh udzur (alasan) yang benar". Dan berkata [Musa] telah bercerita kepada kami [Hammad] dari [Humaid] dari [Musa bin Anas] dari [bapaknya] Nabi shallallahu 'alaihi wasallam bersabda. Berkata Abu 'Abdullah Al Bukhariy; "(Sanad) yang pertama lebih benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2839</td></tr><tr><td>Arabic No</td><td>2839</td></tr><tr><td>Reference</td><td>Book 56 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что во время одного из военных походов Пророк ﷺ сказал: «Поистине, остались за нами в Медине люди, задержавшиеся (там) по уважительной причине, (но тем не менее) находившиеся с нами, какой бы горной дорогой или вади мы ни шли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2839</td></tr><tr><td>Arabic No</td><td>2839</td></tr><tr><td>Reference</td><td>Book 56 Hadith 55</td></tr></tbody></table></div>
 

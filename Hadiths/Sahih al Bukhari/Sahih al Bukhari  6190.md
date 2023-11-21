@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Musaiyab:That his father (Hazn bin Wahb) went to the Prophet (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnu Musayyib] dari [Ayahnya] bahwa ayahnya pernah datang kepada Nabi shallallahu 'alaihi wasallam, lalu beliau bertanya: "Siapakah namamu?" ayahku menjawab; "(namaku) Hazn (sedih)." Beliau bersabda: "(namamu) adalah Sahl (mudah)." Ayahku berkata; "Tidak, aku tidak akan merubah nama yang pernah diberikan oleh ayahku." Ibnu Musayyib berkata; "Maka ia masih saja terlihat sedih ketika bersama kami, setelah peristiwa itu." Telah menceritakan kepada kami [Ali bin Abdullah] dan [Mahmud] yaitu Ibnu Ghailan keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnu Musayyab] dari [Ayahnya] dari [Kakeknya] dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6190</td></tr><tr><td>Arabic No</td><td>6190</td></tr><tr><td>Reference</td><td>Book 78 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Са‘ид) ибн аль-Мусаййиб (ибн Хазн) передал со слов своего отца, что в своё время его отец пришёл к Пророку ﷺ, который спросил его: «Как тебя зовут?» Тот ответил: «Хазн» (т.е. неровная твёрдая почва). Тогда Пророкﷺ сказал: «Ты будешь Сахль» (т.е. лёгкость), но Хазн возразил: «Я не изменю имя, которое дал мне мой отец!».\nИбн аль-Мусаййиб сказал: «И с тех пор все мы отличались грубостью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6190</td></tr><tr><td>Arabic No</td><td>6190</td></tr><tr><td>Reference</td><td>Book 78 Hadith 214</td></tr></tbody></table></div>
 

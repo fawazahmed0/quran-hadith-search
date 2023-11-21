@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) used to pass by (have sexual relation 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul A'la bin Hammad] Telah menceritakan kepada kami [Yazid bin Zurai'] Telah menceritakan kepada kami [Sa'id] dari [Qatadah] bahwa [Anas bin Malik] Telah menceritakan kepada mereka, bahwa Nabi shallallahu 'alaihi wasallam pernah menggilir semua isterinya dalam satu malam, padahal pada hari itu, beliau mempunyai sembilan isteri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>5215</td></tr><tr><td>Reference</td><td>Book 67 Hadith 148</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Катады о том, что Анас, да будет доволен им Аллах, рассказывал им, что Пророк Аллаха ﷺ обходил своих жён за одну ночь, и в то время у него было девять жён
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>5215</td></tr><tr><td>Reference</td><td>Book 67 Hadith 148</td></tr></tbody></table></div>
 

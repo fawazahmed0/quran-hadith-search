@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:On the day of Khaibar, Allah's Messenger (ﷺ) divided (the w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4228</td></tr><tr><td>Arabic No</td><td>4228</td></tr><tr><td>Reference</td><td>Book 64 Hadith 266</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «(При разделе военной добычи) в день Хайбара Посланник Аллаха ﷺ выделял лошади две доли, а пешему воину — одну»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4228</td></tr><tr><td>Arabic No</td><td>4228</td></tr><tr><td>Reference</td><td>Book 64 Hadith 266</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin 'Abdur Rahman bin Abza:(on the authority of his father who sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj] dia berkata; telah mengabarkan kepada kami [Syu'bah] telah mengabarkan kepada kami [Al Hakam] dari [Dzarri] dari [Sa'id bin 'Abdurrahman bin Abza] dari [bapaknya], telah berkata, pula ['Ammar] tentang maslah ini; Maka Syu'bah memukulkan telapak tangannya ke tanah lalu mendekatkannya kepada mulutnya kemudian mengusapkannya ke mukanya dan kedua telapak tangannya. Dan telah berkata [An Nadlar] telah mengabarkan kepada kami [Syu'bah] dari [Al Hakam] dia berkata; saya mendengar [Dzarr] berkata; dari [Ibnu Abdurrahman bin Abzaa], berkata [Al Hakam]; dan aku telah mendengarnya dari [Ibnu Abdurrahman] dari [ayahnya] berkata; [Ammar] berkata;
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>339</td></tr><tr><td>Arabic No</td><td>339</td></tr><tr><td>Reference</td><td>Book 7 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что Са‘ид ибн ‘Абду-р-Рахман ибн Абза рассказывал со слов своего отца о том, что ‘Аммар ибн Ясир сказал это же.\nИ Шу‘ба ударил руками о землю, затем поднёс их ко рту и затем обтёр своё лицо и кисти рук
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>339</td></tr><tr><td>Arabic No</td><td>339</td></tr><tr><td>Reference</td><td>Book 7 Hadith 6</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Sa'îd Al-Khoudri (que Dieu l'agrée) a dit : L'Envoyé de Dieu (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah bin Yahya] sedangkan lafazhnya dari Harmalah, keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Amir bin Sa'ad bin Abi Waqqash] bahwa [Abu Sa'id Al Khudri] pernah berkata; Rasulullah shallallahu 'alaihi wasallam melarang dua traksaksi dan dua pakain, beliau melarang Mulamasah dan Munabadzah dalam jual beli, Mulamazah ialah seseorang menyentuh pakaian penjual di siang atau malam hari dan tidak membolik-baliknya dengan teliti, sedangkan Munabadzah ialah seseorang melemparkan kainnya kepada orang lain, dan ia melempar kainnya kepada orang tersebut, maka dengan begitu terjadilah jual beli tanpa meneliti dan tanpa adanya persetujuan." Dan telah menceritakan kepadaku [Amru An Naqid] telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [bapakku] dari [Shalih] dari [Ibnu Syihab] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3806</td></tr><tr><td>Arabic No</td><td>1512.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3806</td></tr><tr><td>Arabic No</td><td>1512.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 6</td></tr></tbody></table></div>
 

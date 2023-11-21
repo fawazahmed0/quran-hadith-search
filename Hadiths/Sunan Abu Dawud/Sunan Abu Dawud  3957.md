@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir said:A man of the Ansar called Abu Madhkur declared that his slave called 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah menceritakan kepada kami [Ayyub] dari [Abu Az Zubair] dari [Jabir], bahwa seorang laki-laki anshar yang bernama Abu Madzkur telah membebaskan seorang budaknya yang bernama Ya'qub (dengan syarat ia telah meninggal), dan ia tidak memiliki harta selain budak tersebut. Kemudian Rasulullah shallallahu 'alaihi wasallam meminta untuk membawanya dan bersabda: "Siapakah yang mau membelinya?" Kemudian Nu'aim bin Abdullah bin An Nahham membelinya dengan harga delapan ratus dirham. Beliau lalu menyerahkan uang tersebut kepadanya seraya bersabda: "Jika salah seorang di antara kalian fakir, maka hendaknya ia memulai (sedekah) kepada dirinya sendiri, jika ada kelebihan maka ia berikan kepada keluarganya, jika ada kelebihan maka ia berikan kepada orang yang memiliki hubungan kekerabatan, kemudian jika masih ada kelebihan maka ia bisa memberikannya kepada siapa saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (997)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3957</td></tr><tr><td>Arabic No</td><td>3957</td></tr><tr><td>Reference</td><td>Book 31 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом, что один ансар по имени Абу Мазкур обещал своему рабу Я‘кубу свободу после своей смерти, а другого имущества у него не было, и Посланник Аллаха ﷺ спросил: «Кто желает купить его?» И его купил Ну‘айм ибн ‘Абдуллах ибн ан-Наххам за восемьсот дирхемов. Посланник Аллаха ﷺ отдал эти деньги Абу Мазкуру и сказал: «Если один из вас бедствует, пусть начнёт с себя, и если что-то останется, то пусть расходует это на свою семью, а если после этого что-то останется, то пусть расходует это на родственников, а если после этого что-то останется, тогда пусть расходует на это и на то»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (997)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3957</td></tr><tr><td>Arabic No</td><td>3957</td></tr><tr><td>Reference</td><td>Book 31 Hadith 32</td></tr></tbody></table></div>
 

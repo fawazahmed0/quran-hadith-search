@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The tribes of Quraish, Al-Ansar, J
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Nu'aim] telah bercerita kepada kami [Sufyan] dari [Sa'id bin Ibrahim] dari ['Abdur Rahman bin Hurmuz] dari [Abu Hurairah radliallahu 'anhu] berkata, Nabi shallallahu 'alaihi wasallam bersabda: "Suku Quraisy, Anshar, Juhainah, Muzainah, Aslam, Ghifar dan Asyja' adalah wali-waliku (pelindung) sedangkan bagi mereka tidak ada wali kecuali Allah dan Rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3512</td></tr><tr><td>Arabic No</td><td>3512</td></tr><tr><td>Reference</td><td>Book 61 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Я являюсь покровителем курайшитов, ансаров, (людей племени) джухайна, музаина, аслям, гифар и ашджа’, и у них нет других покровителей, кроме Аллаха и Его Посланника»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3512</td></tr><tr><td>Arabic No</td><td>3512</td></tr><tr><td>Reference</td><td>Book 61 Hadith 22</td></tr></tbody></table></div>
 

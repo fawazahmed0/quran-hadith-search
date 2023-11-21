@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdur Rahman: I asked Abu Sa'id al-Khudri about wearing lower garment. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Al 'Ala bin 'Abdurrahman] dari [Bapaknya] ia berkata, "Aku bertanya kepada [Abu Sa'id Al Khudri] tentang kain sarung, lalu ia berkata, "Engkau bertanya kepada orang yang tepat. Rasulullah shallallahu 'alaihi wasallam bersabda: "Kain sarung seorang muslim sebatas setengah betis, dan tidak berdosa antara batas setengah betis hingga dua mata kaki. Adapun apa yang ada di bawah kedua mata kaki adalah di neraka. Dan barangsiapa menjulurkan kain sarungnya karena sombong, maka Allah tidak akan melihatnya pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4093</td></tr><tr><td>Arabic No</td><td>4093</td></tr><tr><td>Reference</td><td>Book 34 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-‘Аля ибн ‘Абду-р-Рахман передаёт от своего отца: «Я спросил Абу Са‘ида аль-Худри об изаре и он сказал: “На знающего напал ты… Посланник Аллаха ﷺ сказал: “Изар верующего должен доходить до середины голени, и если он будет от середины голени до щиколотки, то на человеке не будет греха. А всё, что ниже щиколоток, в Огне. Кто волочил изар свой по земле из высокомерия, на того не посмотрит Аллах!””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4093</td></tr><tr><td>Arabic No</td><td>4093</td></tr><tr><td>Reference</td><td>Book 34 Hadith 74</td></tr></tbody></table></div>
 

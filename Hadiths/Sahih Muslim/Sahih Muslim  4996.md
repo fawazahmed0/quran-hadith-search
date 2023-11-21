@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that Allah's Messenger (ﷺ) forbade (the eating) of all the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Sulaiman bin Daud] telah menceritakan kepada kami [Abu 'Awanah] telah menceritakan kepada kami [Al Hakam] dan [Abu Bisyr] dari [Maimun bin Mihran] dari [Ibnu Abbas], bahwa Rasulullah shallallahu 'alaihi wasallam melarang (memakan) dari setiap bintang buas yang bertaring dan setiap jenis burung yang memiliki kuku untuk mencengkeram." Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] dari [Abu Bisyr]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Husyaim], [Abu Bisyr] berkata; telah mengabarkan kepada kami dari [Maimun bin Mihran] dari [Ibnu Abbas] dia berkata, "Beliau melarang …." (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Maimun bin Mihran] dari [Ibnu Abbas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang…seperti hadits Syu'bah dari Al Hakam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>1934.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>1934.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 25</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) never proceeded (for the prayer)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdurrahim] telah menceritakan kepada kami [Sa'id bin Sulaiman] berkata, telah menceritakan kepada kami [Husyaim] berkata, telah mengabarkan kepada kami ['Ubaidullah bin Abu Bakar bin Anas] dari [Anas bin Malik] berkata, "Pada hari raya Rasulullah shallallahu 'alaihi wasallam tidak berangkat untuk melaksanakan shalat hingga beliau makan beberapa butir kurma." [Murajja' bin Raja'] berkata; telah menceritakan kepadaku ['Ubaidullah] berkata, telah menceritakan kepadaku [Anas] dari Nabi shallallahu 'alaihi wasallam, "Beliau makan beberapa kurma dengan bilangan ganjil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>953</td></tr><tr><td>Arabic No</td><td>953</td></tr><tr><td>Reference</td><td>Book 13 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «В день разговения Посланник Аллаха ﷺ никогда не выходил (из дома на праздничный намаз), не съев несколько фиников».\nВ другой версии (этого хадиса) сообщается, что (Анас, да будет доволен им Аллах,) также сказал: «…и (Пророк ﷺ обычно) съедал нечетное количество (фиников)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>953</td></tr><tr><td>Arabic No</td><td>953</td></tr><tr><td>Reference</td><td>Book 13 Hadith 5</td></tr></tbody></table></div>
 

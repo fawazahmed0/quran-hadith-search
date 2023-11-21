@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah Al-Ansari:Allah's Messenger (ﷺ) led the funeral p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul A'laa bin Hammad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] telah menceritakan kepada kami [Qatadah] bahwa ['Atha'] bercerita kepada mereka dari [Jabir bin Abdullah Al Anshari] radliallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wasallam melaksanakan shalat atas meninggalnya an Najasyi, lalu beliau mengatur shaf kami di belakang dan aku berdiri di shaf kedua atau ketiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3878</td></tr><tr><td>Arabic No</td><td>3878</td></tr><tr><td>Reference</td><td>Book 63 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах аль-Ансари, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ совершил заупокойную молитву за Асхама ан-Наджаши, а мы стояли позади него, выстроившись рядами. Я был во втором или третьем ряду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3878</td></tr><tr><td>Arabic No</td><td>3878</td></tr><tr><td>Reference</td><td>Book 63 Hadith 103</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:"I saw Allah's Messenger (ﷺ) delaying the Maghrib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Salim] dari ['Abdullah bin 'Umar radliallahu 'anhu] berkata: "Aku melihat Rasulullah shallallahu 'alaihi wasallam jika perjalanan mendesak, Beliau menangguhkan shalat Maghrib dan menggabungkannya bersama shalat 'Isya'". Berkata, Salim: "Dan 'Abdullah bin 'Umar radliallahu 'anhu mengerjakannya juga bila terdesak (tergesa-gesa) dalam perjalanan". [Al Laits] menambahkan dan berkata, telah menceritakan kepada saya [Yunus] dari [Ibnu Syihab]; [Salim] berkata: [Ibnu 'Umar radliallahu 'anhuma] menggabungkan antara shalat Maghrib dan 'Isya' saat berada di Muzdalifah. Salim berkata, lagi; "Ibnu 'Umar radliallahu 'anhuma mengakhirkan shalat Maghrib karena hendak menolong isterinya Shafiyah binti Abu 'Ubaid (yang sedang sakit). Aku katakan kepadanya; "Mari kita dirikan shalat?!". Dia menjawab: "Terus saja berjalan". Aku katakan lagi; " Mari kita dirikan shalat?!". Dia menjawab: "Terus saja berjalan". Hingga ketika perjalanan sudah mencapai dua atau tiga mil, dia turun lalu mendirikan shalat. Setelah selesai dia berkata: "Beginilah, aku pernah melihat Nabi shallallahu 'alaihi wasallam melaksanakan shalat bila dalam keadaan terdesak dalam perjalanannya". Dan berkata, 'Abdullah bin 'Umar radliallahu 'anhu: "Aku melihat Nabi shallallahu 'alaihi wasallam jika perjalanan mendesak, Beliau menangguhkan shalat Maghrib, kemudian Beliau mengerjakan tiga raka'at lalu salam. Kemudian diam sejenak lalu mengerjakan shalat 'Isya' dengan dua raka'at lalu salam. Beliau tidak bertasbih (mengerjakan shalat sunnah) setelah shalat 'Isya' hingga Beliau bangun di penghujung malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1091</td></tr><tr><td>Arabic No</td><td>1091</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я видел, что, когда Посланнику Аллаха ﷺ находящемуся в пути, надо было спешить, он откладывал закатный намаз с тем, чтобы объединить её с вечерним намазом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1091</td></tr><tr><td>Arabic No</td><td>1091</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

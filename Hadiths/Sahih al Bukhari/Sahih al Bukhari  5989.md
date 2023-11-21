@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) The Prophet (ﷺ) said, "The word 'Ar-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah menceritakan kepada kami [Sulaiman bin Bilal] dia berkata; telah mengabarkan kepadaku [Mu'awiyah bin Abu Muzarrid] dari [Yazid bin Ruman] dari ['Urwah] dari [Aisyah] radliallahu 'anha isteri Nabi shallallahu 'alaihi wasallam dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Ar rahim (silaturahim) adalah syijnah (daun pohon yang rindang) barangsiapa menyambungnya maka aku akan menyambungnya dan barangsiapa memutuskannya maka akupun akan memutuskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5989</td></tr><tr><td>Arabic No</td><td>5989</td></tr><tr><td>Reference</td><td>Book 78 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «(Слово) “родственные узы” /рахим/ происходит от слова “Милостивый” /ар-Рахман/, (а Аллах сказал): “Я буду поддерживать связь с тем, кто станет поддерживать вас, и порву с тем, кто станет порывать вас!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5989</td></tr><tr><td>Arabic No</td><td>5989</td></tr><tr><td>Reference</td><td>Book 78 Hadith 20</td></tr></tbody></table></div>
 

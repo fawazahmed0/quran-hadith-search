@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Murra, the freed slave of Umm Hani, narrated on the authority of Abu Darda':
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harun bin Abdullah] dan [Muhammad bin Rafi'] keduanya berkata; telah menceritakan kepada kami [Ibnu Abu Fudaik] dari [Adl Dlahak bin Utsman] dari [Ibrahim bin Abdullah bin Hunain] dari [Abu Murrah] mantan budak Ummu Hani' dari [Abu Darda'] katanya; "Kekasihku shallallahu 'alaihi wasallam mewasiatkan kepadaku untuk melakukan tiga hal, yaitu agar aku tidak meninggalkan selama hidupku, puasa tiga hari tiap bulan, shalat dhuha dan tidak tidur sebelum shalat witir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1675</td></tr><tr><td>Arabic No</td><td>722</td></tr><tr><td>Reference</td><td>Book 6 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1675</td></tr><tr><td>Arabic No</td><td>722</td></tr><tr><td>Reference</td><td>Book 6 Hadith 105</td></tr></tbody></table></div>
 

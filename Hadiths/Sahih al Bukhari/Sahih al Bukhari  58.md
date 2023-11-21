@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ziyad bin'Ilaqa: I heard Jarir bin 'Abdullah (Praising Allah). On the d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Abu 'Awanah] dari [Ziyad bin 'Alaqah] berkata; saya mendengar [Jarir bin Abdullah] berkata ketika Al Mughirah bin Syu'bah meninggal, sambil berdiri dia memuji Allah dan mensucikan-Nya, berkata: "Wajib atas kalian bertakwa kepada Allah satu-satunya dan tidak menyekutukannya, dan dengan penuh ketundukan dan ketenangan sampai datang pemimpin pengganti, dan sekarang datang penggantinya, " kemudian dia berkata: "Mintakanlah maaf kepada Allah Subhanahu wa Ta'ala buat pemimpin kalian ini (Al Mughirah), karena dia suka memberi maaf." Lalu berkata: "Amma ba'du, sesungguhnya aku mendatangi Nabi shallallahu 'alaihi wasallam kemudian aku berkata: "Aku membai'at engkau untuk Islam". Lalu Nabi shallallahu 'alaihi wasallam memberi syarat dan menasehati kepada setiap muslim, maka aku membai'at Beliau untuk perkara itu, dan demi Pemilik Masjid ini, sungguh aku akan selalu memberi nasihat kepada kalian" Kemudian dia beristighfar lalu turun dari mimbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Arabic No</td><td>58</td></tr><tr><td>Reference</td><td>Book 2 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зияд ибн ‘Алакъа сказал: «Я слышал, как в день смерти аль-Мугъиры ибн Шу‘ба, Джарир ибн ‘Абдуллах (аль-Баджали), да будет доволен им Аллах, встал и восхвалил Аллаха, восславил Его и затем сказал: “Вам следует бояться одного Аллаха у которого нет сотоварища, быть степенными и соблюдать спокойствие, пока не придет к вам ваш амир, ибо поистине, он сейчас явится к вам!” Затем он сказал: “Просите прощения для вашего амира, ибо поистине он любил прощение!” Далее он сказал: “А затем... (В своё время) я пришёл к Пророку ﷺ и сказал ему: “Присягаю тебе в том, что буду оставаться приверженным Исламу!” — он же поставил мне условие: “Проявлять искренность по отношению к каждому мусульманину”, и я поклялся ему в этом. Клянусь Господом этой мечети, поистине, я отношусь к вам с искренностью!” Затем он попросил Аллаха о прощении и спустился (с минбара)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Arabic No</td><td>58</td></tr><tr><td>Reference</td><td>Book 2 Hadith 51</td></tr></tbody></table></div>
 

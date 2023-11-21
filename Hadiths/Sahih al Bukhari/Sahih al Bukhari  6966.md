@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "For every betrayer there w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sufyan] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam bersabda: "Setiap pengkhianat diberi bendera pada hari kiamat sebagai tanda pengenalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6966</td></tr><tr><td>Arabic No</td><td>6966</td></tr><tr><td>Reference</td><td>Book 90 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «В День воскресения для каждого вероломного будет (установлено) знамя, по которому его узнают»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6966</td></tr><tr><td>Arabic No</td><td>6966</td></tr><tr><td>Reference</td><td>Book 90 Hadith 13</td></tr></tbody></table></div>
 

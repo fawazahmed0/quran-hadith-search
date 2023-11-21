@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ammar b. Yasir said:I asked the Prophet (ﷺ) about tayammum. He commanded me to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Minhal] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Sa'id] dari [Qatadah] dari ['Azrah] dari [Sa'id bin Abdurrahman bin Abza] dari [Ayahnya] dari [Ammar bin Yasir] dia berkata; Saya pernah bertanya kepada Nabi shallallahu 'alaihi wasallam tentang tayammum, maka beliau memerintahkanku untuk menepukkan satu kali tepukan ke tanah dan diusapkan ke wajah dan kedua telapak tangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>327</td></tr><tr><td>Arabic No</td><td>327</td></tr><tr><td>Reference</td><td>Book 1 Hadith 327</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аммар ибн Йасир сказал: «Я спросил Пророка ﷺ о таяммуме и он велел мне ударить (руками о землю) один раз, для (того, чтобы обтереть) лицо и кисти рук»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>327</td></tr><tr><td>Arabic No</td><td>327</td></tr><tr><td>Reference</td><td>Book 1 Hadith 327</td></tr></tbody></table></div>
 

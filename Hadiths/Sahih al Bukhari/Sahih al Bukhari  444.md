@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada Al-Aslami:Allah's Messenger (ﷺ) said, "If anyone of you en
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari ['Amir bin 'Abdullah bin Az Zubair] dari ['Amru bin Sulaim Az Zaraqi] dari [Abu Qatadah As Salami], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian masuk masjid, maka hendaklah ia shalat dua rakaat sebelum ia duduk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>444</td></tr><tr><td>Arabic No</td><td>444</td></tr><tr><td>Reference</td><td>Book 8 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Катады ас-Сулями, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас зайдёт в мечеть, пусть совершит намаз в два ракаата, прежде чем садиться»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>444</td></tr><tr><td>Arabic No</td><td>444</td></tr><tr><td>Reference</td><td>Book 8 Hadith 93</td></tr></tbody></table></div>
 

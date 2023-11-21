@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:A man from the Jews, having been slapped on his fac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari ['Amru bin Yahya Al Mazini] dari [Bapaknya] dari [Abu Sa'id Al Khudri radliallahu 'anhu] dia berkata; "Seseorang dari yahudi datang menemui Rasulullah shallallahu 'alaihi wasallam dengan wajah bekas dipukul, lalu ia berkata kepada beliau; "Ya Muhammad, Aku telah dipukul oleh salah seorang dari sahabatmu dari golongan Anshar, " lalu Nabi shallallahu 'alaihi wasallam pun bersabda kepadanya panggilkan dia! Mereka pun memanggilnya kemudian Nabi shallallahu 'alaihi wasallam bertanya: "Kenapa engkau pukul dia?" ia menjawab; "Wahai Rasulullah, pada waktu itu aku melewati orang Yahudi, lalu aku mendengar dia berkata; 'Demi Dzat yang telah memilih Musa dari semua manusia.' Maka aku katakan; 'Apakah dari Muhammad juga?, hingga dia membuatku marah, maka aku memukulnya. Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian melebihkan sebagian nabi dengan sebagian yang lain, sesungguhnya pada hari kiamat manusia dalam keadaan pingsan, lalu aku adalah orang yang pertama kali mengangkat kepalanya dari tanah, namun aku mendapati Musa 'Alaihis Salam telah berada di sisi 'Arsy, aku tidak tahu apakah dia lebih duluan bangun dari pada aku atau dia sudah cukup dengan pingsannya ketika di bukit Thur Al Manna wa Salwa (QS. Al A'raf - 160) hingga tidak pingsan lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4638</td></tr><tr><td>Arabic No</td><td>4638</td></tr><tr><td>Reference</td><td>Book 65 Hadith 160</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Однажды к Пророку ﷺ пришёл иудей, которого ударили по лицу, и сказал: “О Мухаммад, один человек из числа твоих сподвижников, ансаров, ударил меня по лицу”. Пророк ﷺ сказал: “Позовите его!” Когда тот пришёл, Пророк ﷺ спросил его: “Почему ты ударил его по лицу?” Он ответил: “О Посланник Аллаха, проходя мимо иудеев, я услышал, как он клялся, говоря: “Я клянусь Тем, Кто дал превосходство Мусе над всеми людьми!” Я сказал: “Даже над Мухаммадом!?” Меня охватил гнев, и я ударил его по лицу”. Тогда Пророк ﷺ сказал: “Не превозносите меня над другими пророками! Поистине, в День воскресения люди будут поражены, и я буду первым, кто воскреснет, и я увижу Мусу, который будет держаться за один из столпов Трона Аллаха. И мне будет неизвестно, был ли он оживлён до меня, или же ему было воздано поражением на (горе) Тур (в этой жизни)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4638</td></tr><tr><td>Arabic No</td><td>4638</td></tr><tr><td>Reference</td><td>Book 65 Hadith 160</td></tr></tbody></table></div>
 

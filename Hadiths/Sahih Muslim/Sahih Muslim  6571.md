@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Atâ' Ibn 'Abî Rabâh rapporte qu'Ibn 'Abbâs lui a dit : "Veux-tu que je te mo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin 'Umar Al Qawariri]; Telah menceritakan kepada kami [Yahya bin Sa'id] dan [Bisyr bin Al Mufadhdhal] keduanya berkata; Telah menceritakan kepada kami ['Imran Abu Bakr]; Telah menceritakan kepadaku ['Athaa bin Abu Rabah] dia berkata; [Ibnu 'Abbas] berkata kepadaku; "Maukah aku perlihatkan kepadamu seorang wanita yang termasuk penghuni surga? Aku menjawab; 'Ya.' Ibnu Abbas berkata; 'Ada seorang wanita hitam datang kepada Nabi shallallahu 'alaihi wasallam lalu berkata; Sesungguhnya aku terkena penderita epilepsi dan sering tersingkap auratku, maka berdoalah kepada Allah untukku. Beliau bersabda: "Jika engkau berkenan, engkau bersabar maka bagimu surga, dan jika engkau berkenan, maka aku akan berdoa kepada Allah agar Allah menyembuhkanmu." Ia berkata; Tidak perlu bahkan aku akan bersabar. Namun berdoalah kepada Allah agar (auratku) tidak tersingkap atau menyingkap dariku. Maka beliau mendoakan untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6571</td></tr><tr><td>Arabic No</td><td>2576</td></tr><tr><td>Reference</td><td>Book 45 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Атаъ ибн Абу Рабах сказал: (Однажды) Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал мне: «Не показать ли тебе женщину из числа обитателей Рая?» Я сказал: «Да». Тогда он сказал: «Эта чернокожая женщина (в своё время) пришла к Пророку ﷺ и сказала: “У меня бывают приступы падучей и (из-за этого) я обнажаюсь, обратись же к Аллаху с мольбой за меня». (В ответ ей) он сказал: “Если хочешь, терпи, и тогда тебя (ожидает) Рай, а если хочешь, я обращусь к Аллаху с мольбой, чтобы Он исцелил тебя”. Она сказала: “Я буду терпеть”, а потом сказала: “Поистине, я обнажаюсь, попроси же Аллаха, чтобы я не обнажалась”, и он обратился к Аллаху (с такой) мольбой за неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6571</td></tr><tr><td>Arabic No</td><td>2576</td></tr><tr><td>Reference</td><td>Book 45 Hadith 69</td></tr></tbody></table></div>
 

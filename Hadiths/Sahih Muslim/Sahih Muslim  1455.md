@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported:I heard the Messenger of Allah (ﷺ) as saying: Let t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Ibnu Abi Umar]. [Zuhair] mengatakan; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ibnu Abu Labid] dari [Abu Salamah] dari [Abdullah bin Umar], dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan sampai orang arab dusun (primitife) mengganti istilah shalat kalian, ketahuilah bahwa nama shalat malam itu adalah isya' -bukan shalat atamah-, karena memang shalat itu (dikerjakan) ketika mereka mengandangkan unta tengah malam untuk mereka perah susunya yang mereka istilahkan yu'thimuun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1455</td></tr><tr><td>Arabic No</td><td>644.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 288</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Ни в коем случае не поддавайтесь (влиянию) бедуинов в том, что касается названия вашей (вечерней) молитвы, ибо (она названа) вечерней /‘иша/, (бедуины же называют её 'атама потому, что) в первую треть ночи они доят верблюдиц»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1455</td></tr><tr><td>Arabic No</td><td>644.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 288</td></tr></tbody></table></div>
 

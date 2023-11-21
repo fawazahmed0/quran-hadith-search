@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Aiyub from Juwairiya bint Al-Harith:The Prophet (ﷺ) visited her (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah]. Dan diriwayatkan pula, telah menceritakan kepada saya [Muhammad] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Abu Ayyub] dari [Juwairiyah binti Al harits radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam menemuinya pada hari Jum'at ketika dia sedang berpuasa. Beliau bertanya: "Apakah kemarin kamu juga berpuasa?" Dia menjawab: "Tidak". Beliau bertanya lagi: "Apakah besok kamu berniat berpuasa?" Dia menjawab: "Tidak". Maka Beliau berkata: "Berbukalah (batalkanlah) ". Dan berkata, [Hammad bin Al Ja'di] dia mendengar [Qatadah] telah menceritakan kepada saya [Abu Ayyub] bahwa [Juwairiyah] menceritakan kepadanya bahwa Nabi shallallahu 'alaihi wasallam memerintahkannya agar dia membatalkan puasanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1986</td></tr><tr><td>Arabic No</td><td>1986</td></tr><tr><td>Reference</td><td>Book 30 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Джувайрийи бинт аль-Харис, да будет доволен ею Аллах, что однажды Пророк ﷺ пришёл к ней в пятницу, когда она постилась, и спросил её: «Постилась ли ты вчера?» Она сказала: «Нет». Он спросил: «Намереваешься ли ты поститься завтра?» Она сказала: «Нет», (после чего) он велел: «Тогда прекращай пост»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1986</td></tr><tr><td>Arabic No</td><td>1986</td></tr><tr><td>Reference</td><td>Book 30 Hadith 93</td></tr></tbody></table></div>
 

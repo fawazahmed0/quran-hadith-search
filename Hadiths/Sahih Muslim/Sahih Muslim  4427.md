@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : Quand Mâ'iz Ibn Mâlik vint tr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Kamil Al Jahdari] sedangkan lafadznya dari Wutaibah, keduanya berkata; telah menceritakan kepada kami [Abu 'Awanah] dari [Simak] dari [Sa'id bin Jubair] dari [Ibnu Abbas], bahwa Nabi shallallahu 'alaihi wasallam bersabda kepada Ma'iz bin Malik: "Apakah benar berita yang telah sampai kepadaku tentangmu?" Ma'iz balik bertanya, "Berita apa kiranya yang sampai kepada anda tentangku?" beliau menjawab: "Benarkah kamu telah berzina dengan budak perempuan keluarga fulan?" Ma'iz menjawab, "Ya, benar." Ibnu Abbas berkata, "Kemudian dia bersaksi sampai empat kali persaksian, kemudian beliau memerintahkan untuk merajamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4427</td></tr><tr><td>Arabic No</td><td>1693</td></tr><tr><td>Reference</td><td>Book 29 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4427</td></tr><tr><td>Arabic No</td><td>1693</td></tr><tr><td>Reference</td><td>Book 29 Hadith 30</td></tr></tbody></table></div>
 

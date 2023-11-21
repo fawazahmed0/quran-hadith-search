@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur Rahman bin Abza [??]:A man came to 'Umar bin Al-Khattab and said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] ia berkata; telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Al Hakam] dari [Dzar] dari [Sa'id bin 'Abdurrahman bin Abza] dari [Bapaknya] berkata, "Seorang laki-laki datang kepada Umar Ibnul Khaththab dan berkata, "Aku mengalami junub tapi tidak mendapatkan air?" Maka berkata lah ['Ammar bin Yasir] kepada 'Umar bin Al Khaththab, "Tidak ingatkah ketika kita dalam suatu perjalanan? Saat itu engkau tidak mengerjakan shalat sedangkan aku bergulingan di atas tanah lalu shalat? Kemudian hal itu aku sampaikan kepada Nabi shallallahu 'alaihi wasallam, dan Nabi shallallahu 'alaihi wasallam bersabda: "Sebenarnya cukup kamu melakukan begini." Beliau lalu memukulkan telapak tangannya ke tanah dan meniupnya, lalu mengusapkannya ke muka dan kedua telapak tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>338</td></tr><tr><td>Arabic No</td><td>338</td></tr><tr><td>Reference</td><td>Book 7 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абду-р-Рахман ибн Абза, да помилует его Аллах, сказал:\n− (Как-то раз) к ‘Умару ибн аль-Хаттабу, да будет доволен им Аллах, явился какой-то человек, который сказал: «Поистине, я осквернился и не могу найти воды (для омовения». Услышав это,) ‘Аммар ибн Ясир сказал ‘Умару ибн аль-Хаттабу: «Помнишь ли ты, как однажды, когда оба мы были в пути, ты не молился, а я катался по песку, после чего совершал молитву? И я рассказал об этом Пророку ﷺ который сказал: “Поистине, тебе достаточно было бы сделать так”, а потом Пророк ﷺ (легко) ударил ладонями о землю, подул на них и протёр себе лицо и кисти рук»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>338</td></tr><tr><td>Arabic No</td><td>338</td></tr><tr><td>Reference</td><td>Book 7 Hadith 5</td></tr></tbody></table></div>
 

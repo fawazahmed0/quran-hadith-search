@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muawiya:I heard the Prophet (ﷺ) saying, "A group of my followers will
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Humaidi] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Ibnu Jabir] telah menceritakan kepadaku [Umair bin Hani'] ia mendengar [Mu'awiyah] mengatakan, "Pernah aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Akan senantiasa ada dari umatku sebuah umat yang menegakkan perintah Allah, tidak membahayakan mereka orang yang mendustakan mereka, tidak pula yang menyelisihi mereka hingga keputusan Allah datang kepada mereka sedang mereka masih dalam keadaan seperti itu." [Malik bin Yukhamir] berkata, "Aku mendengar [Mu'adz] berkata, "Dan mereka berada di Syam." Mu'awiyah juga mengatakan, "Malik beranggapan bahwa ia mendengar Mu'adz berkata, "Dan mereka berada di Syam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7460</td></tr><tr><td>Arabic No</td><td>7460</td></tr><tr><td>Reference</td><td>Book 97 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умайр ибн Хани слышал, как Му‘авия (ибн Абу Суфьян) сказал: «Я слышал, как Пророк ﷺ сказал: “Не перестанет группа из моей общины исполнять веление Аллаха, не причинит им вреда те, кто будет обвинять их во лжи и кто будет противостоять им. И так будет до тех пор, пока не придёт повеление Аллаха, а они всё равно будут стоять на этом”». Малик Ибн Йухамир сказал: «Я слышал как Му‘аз (ибн Джабаль) сказал: “Они будут в Шаме”». Му‘авия сказал: «Этот Малик утверждает, что слышал от Му‘аза, как он сказал: “Они будут в Шаме”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7460</td></tr><tr><td>Arabic No</td><td>7460</td></tr><tr><td>Reference</td><td>Book 97 Hadith 86</td></tr></tbody></table></div>
 

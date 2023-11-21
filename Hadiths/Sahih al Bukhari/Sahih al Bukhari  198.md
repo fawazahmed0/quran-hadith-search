@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the ailment of the Prophet (ﷺ) became aggravated and his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku ['Ubaidullah bin 'Abdullah bin 'Utbah] bahwa ['Aisyah] berkata, "Tatkala sakit Nabi shallallahu 'alaihi wasallam semakin berat, beliau minta izin kepada isteri-isterinya agar beliau dirawat di rumahku, lalu mereka pun mengizinkannya. Nabi shallallahu 'alaihi wasallam lalu keluar berjalan dengan dipapah oleh dua orang; 'Abbas dan seorang lagi." ['Ubaidullah] berkata, "Aku lalu kabarkan hal itu kepada ['Abdullah bin 'Abbas], lalu dia berkata, "Tahukah kamu, siapakah lelaki yang lain itu?" Aku jawab, "Tidak". Dia lantas berkata, "Orang itu adalah 'Ali bin Abu Thalib? radliallahu 'anhu." ['Aisyah] menceritakan bahwa ketika Nabi shallallahu 'alaihi wasallam sudah berada di rumahnya dan sakitnya makin berat, beliau mengatakan: "Siramkan air kepadaku dari tujuh geriba yang belun dilepas ikatannya, sehingga aku dapat memberi pesan kepada orang-orang." Kemudian Nabi shallallahu 'alaihi wasallam didudukkan untuk mandi dengan ember milik Hafshah, isteri Nabi shallallahu 'alaihi wasallam. Maka kami segera menyiram beliau hingga beliau memberi isyarat sudah cukup. Setelah itu beliau keluar menemui orang-orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>198</td></tr><tr><td>Arabic No</td><td>198</td></tr><tr><td>Reference</td><td>Book 4 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Пророку ﷺ стало (совсем) тяжко и его страдания усилились, он попросил своих жён, чтобы за ним ухаживали в моём доме, и они дали на это своё согласие. И Пророк ﷺ который едва отрывал ноги от земли, вышел (из того дома, где он находился), поддерживаемый (с двух сторон) ‘Аббасом и ещё одним человеком».\n‘Убайдуллах сказал: «Я сообщил ‘Абдулле ибн ‘Аббасу (об этих словах ‘Аиши), и он спросил: “Знаешь ли ты, кто был этим другим человеком?” Я ответил: “Нет”. Он сказал: “(Им был) ‘Али”».\nИ ‘Аиша, да будет доволен ею Аллах, рассказывала, что, когда Пророк ﷺ вошёл в cвой дом и его страдания усилились ещё больше, он сказал: «Вылейте на меня воду из семи бурдюков, ремни которых ещё не развязывались, и, может быть, я смогу дать наставление людям”».\n(‘Аиша, да будет доволен ею Аллах, сказала): «И его усадили в медный таз, принадлежавший жене Пророка ﷺ Xафсе, а потом мы начали лить на него (воду из этих бурдюков и делали это до тех пор), пока он не стал подавать нам знаки, желая сказать, что пора остановиться, после чего он вышел к людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>198</td></tr><tr><td>Arabic No</td><td>198</td></tr><tr><td>Reference</td><td>Book 4 Hadith 64</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Jamra reported:I was an interpreter between Ibn Abbas and the people, that a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin al-Mutsanna] dan [Muhammad bin Basysyar] dan lafazh mereka saling berdekatan, [Abu Bakar] berkata, telah menceritakan kepada kami [Ghundar] dari [Syu'bah] sedangkan dua orang lainnya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Jamrah] dia berkata, "Aku menjadi penerjemah antara [Ibnu Abbas] dan orang-orang, lalu seorang wanita datang bertanya tentang perasan nabidz (semacam arak) yang disimpan dalam bejana dari tembikar, maka dia menjawab, 'Sesungguhnya utusan Abd al-Qais mendatangi Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah bersabda: "Siapakah utusan itu -atau siapakah kaum itu? - mereka menjawab, 'Rabi'ah'. Beliau bersabda: "Selamat datang kaum itu -atau utusan itu- tanpa perlu sungkan dan menyesal.' Perawi berkata, 'Meraka berkata, 'Wahai Rasulullah, sesungguhnya kami mendatangimu dari tempat yang jauh. Di antara kita dan Anda ada kaum kafir Mudlar sehingga kita tidak bisa mendatangimu kecuali pada bulan haram, maka perintahkanlah kepada kami suatu perkara pemutus agar kami beritahukan kepada kaum yang kami pimpin yang dengannya kita bisa masuk surga.' Perawi berkata, 'Maka Rasulullah memerintahkan mereka empat perkara dan melarang mereka empat perkara.' Perawi berkata lagi, 'Rasulullah memerintahkan mereka untuk beriman kepada Allah semata seraya berkata, 'Apakah kalian tahu apa itu iman kepada Allah? ' Mereka menjawab, 'Allah dan Rasul-Nya lebih tahu.' Beliau bersabda: "Persaksian bahwa tidak ada tuhan selain Allah, dan bahwa Muhammad utusan Allah, mendirikan shalat, membayarkan zakat, berpuasa Ramadlan, dan membayarkan seperlima ghanimah, dan melarang kalian dari ad-Duba', al-Hantam dan al-Muzaffat." Syu'bah berkata, "boleh jadi beliau bersabda 'an-Naqir' dan boleh jadi 'al-Muqayyar', beliau bersabda: "Jagalah ia dan kabarkanlah kepada kaummu.' Abu Bakar menyebutkan dalam riwayatnya, 'Orang yang kamu pimpin di belakangmu' tanpa menyebutkan 'al-Muqayyar'." Dan telah menceritakan kepadaku [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Nashr bin Ali al-Jahdlami] dia berkata, telah mengabarkan kepadaku [bapakku] keduanya berkata, telah menceritakan kepada kami [Qurrah bin Khalid] dari [Abu Jamrah] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini semisal dengan hadits [Syu'bah], seraya bersabda: "Aku melarang kalian dari sesuatu yang diperas dalam ad-Duba', an-Naqir, al-Hantam dan al-Muzaffat." Dan [Ibnu Mu'adz] menambahkan dalam haditsnya dari [bapaknya], dia berkata, 'Dan Rasulullah shallallahu 'alaihi wasallam bersabda kepada al-Asyyaj Asyajj Abd al-Qais: 'Sesungguhnya dalam dirimu ada dua karakter yang disukai oleh Allah, yaitu sabar dan berhati-hati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>116</td></tr><tr><td>Arabic No</td><td>17.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Джамры, что (однажды, когда) он переводил
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>116</td></tr><tr><td>Arabic No</td><td>17.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 24</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: The Prophet (ﷺ) said: The flourishing state of Jeru
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abbas Al 'Anbari] berkata, telah menceritakan kepada kami [Hasyim Ibnul Qasim] berkata, telah menceritakan kepada kami ['Abdurrahman bin Tsabit bin Tsauban] dari [Bapaknya] dari [Makhul] dari [Jubair bin Nufair] dari [Malik bin Yukhamir] dari [Mu'adz bin Jabal] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Ramainya Baitul Maqdis adalah tanda kehancuran kota Madinah, hancurnya kota Madinah adalah tanda terjadinya peperangan besar, terjadinya peperangan besar adalah tanda dari pembukaan kota Konstantinopel, dan pembukaan kota Konstantinopel adalah tanda keluarnya Dajjal." Kemudian beliau menepuk-nepuk paha orang yang beliau ceritakan tentang hadits tersebut, atau dalam riwayat lain, 'pundaknya'. Kemudian bersabda: "Semua ini adalah sesuatu yang benar, sebagaimana engkau -Mu'adz bin Jabal- sekarang berada di sini adalah sesuatu yang benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4294</td></tr><tr><td>Arabic No</td><td>4294</td></tr><tr><td>Reference</td><td>Book 39 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Му‘аза ибн Джабаля, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Процветание (благополучие, изобилие, развитие, а также многочисленность населяющих его людей) Бейт-аль-Макдис (Иерусалима) опустение Ясриба (Медины), опустение Ясриба начало кровопролитного сражения, кровопролитное сражение взятие Константинополя, взятие Константинополя появление Даджжаля». Потом он хлопнул по бедру или плечу своего собеседника и сказал: «Это такая же истина, как и то, что ты здесь (или: сидишь здесь)». Он обращался к Му‘азу ибн Джабалю
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4294</td></tr><tr><td>Arabic No</td><td>4294</td></tr><tr><td>Reference</td><td>Book 39 Hadith 4</td></tr></tbody></table></div>
 

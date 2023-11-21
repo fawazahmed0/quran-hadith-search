@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Allah's Messenger (ﷺ) said, "Extinguish the lamps when you go t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammam] dari ['Atha'] dari [Jabir] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Matikanlah lampu-lampu kalian apabila kalian hendak tidur, dan tutuplah pintu rumah kalian, tutuplah wadah-wadah kalian serta tutup pula tempat makan dan tempat minum kalian -aku mengira beliau juga bersabda- walaupun hanya dengan sepotong kayu yang dapat menutupinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5624</td></tr><tr><td>Arabic No</td><td>5624</td></tr><tr><td>Reference</td><td>Book 74 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира, что Посланник Аллаха ﷺ сказал: «Гасите светильники перед сном, запирайте двери, завязывайте бурдюки и прикрывайте (сосуды с) едой и питьём, положив поперёк хотя бы палочку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5624</td></tr><tr><td>Arabic No</td><td>5624</td></tr><tr><td>Reference</td><td>Book 74 Hadith 50</td></tr></tbody></table></div>
 

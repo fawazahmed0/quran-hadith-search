@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Tariq ibn Shihab: The Prophet (ﷺ) said: The Friday prayer in congrega
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abbas bin 'Abdul 'Adzim] telah menceritakan kepadaku [Ishaq bin Manshur] telah menceritakan kepada kami [Huraim] dari [Ibrahim bin Muhammad Al Muntasyir] dari [Qais bin Muslim] dari [Thariq bin Syihab] dari Nabi shallallahu 'alaihi wasallam beliau bersabda; "Jum'at itu wajib bagi setiap Muslim dengan berjama'ah, kecuali empat golongan, yaitu; hamba sahaya, wanita, anak-anak dan orang yang sakit." Abu Daud berkata; "Thariq bin Ziyad pernah melihat (hidup semasa) Nabi shallallahu 'alaihi wasallam, namun dirinya tidak mendengar sesuatu pun dari beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1067</td></tr><tr><td>Arabic No</td><td>1067</td></tr><tr><td>Reference</td><td>Book 2 Hadith 678</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Тарика ибн Шихаба, что Пророк ﷺ сказал: «Пятничная молитва является правом (Аллаха) и обязанностью каждого мусульманина в общине, за исключением четырёх. Это раб, женщина, ребёнок и больной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1067</td></tr><tr><td>Arabic No</td><td>1067</td></tr><tr><td>Reference</td><td>Book 2 Hadith 678</td></tr></tbody></table></div>
 

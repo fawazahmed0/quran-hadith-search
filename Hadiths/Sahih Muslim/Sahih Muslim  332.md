@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru an-Naqid] dan [Zuhair bin Harb] keduanya berkata, telah menceritakan kepada kami [Ismail bin Ibrahim]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dan [Abdah bin Sulaiman]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Ibnu Abu Adi] setiap mereka berasal dari [Sa'id bin Abu Arubah] dari [Qatadah] dari [Zurarah] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah mengampuni untuk umatku atas sesuatu yang terdetik dalam hatinya, selama tidak ia wujudkan dalam amalan atau ia bicarakan." Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Mis'ar] dan [Hisyam]. (dalam riwayat lain disebutkan) Dan telah mengabarkan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami [al-Husain bin Ali] dari [Zaidah] dari [Syaiban] semuanya dari [Qatadah] dengan sanad semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>332</td></tr><tr><td>Arabic No</td><td>127.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Поистине, Великий и Могучий Аллах простит (членам) моей общины те речи, которые будут вести их души если (люди) не станут делать этого или говорить об этом (вслух)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>332</td></tr><tr><td>Arabic No</td><td>127.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 239</td></tr></tbody></table></div>
 

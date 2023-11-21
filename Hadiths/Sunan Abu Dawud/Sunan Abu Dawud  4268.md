@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ahnaf b. Qais said:I came out with the intention of (participating in) fighting.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dan [Yunus] dari [Al Hasan] dari [Al Ahnaf bin Qais] ia berkata, "Saat aku keluar -yakni untuk perang-, [Abu bakrah] menemuiku seraya berkata, "Kembalilah pulang! Sesungguhnya aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika dua orang muslim saling berhadapan dengan pedang terhunus, maka baik yang membunuh atau yang terbunuh akan masuk neraka." Ia (perawi) berkata, "Jika orang yang membunuh wajar masuk neraka, tapi bagaimana dengan yang terbunuh?" beliau bersabda: "Karena ia juga ingin membunuh saudaranya." Telah menceritakan kepada kami [Muhammad Ibnul Mutawakkil Al Asqalani] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah menceritakan kepada kami [Ma'mar] dari [Ayyub] dari [Al Hasan] dengan sanad dan maknanya secara ringkas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari (31) Sahih Muslim (2888)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4268</td></tr><tr><td>Arabic No</td><td>4268</td></tr><tr><td>Reference</td><td>Book 37 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Ахнаф ибн Кайс передаёт: Я вышел, чтобы принять участие в сражении, и встретил Абу Бакру, который сказал: «Возвращайся, ибо, поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Если два мусульманина скрестят мечи, то и убийца, и убитый окажутся в Огне”. Люди спросили: “О Посланник Аллаха! С убийцей всё ясно, но почему и убитый тоже?” Он сказал: “Он ведь тоже хотел убить своего товарища!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari (31) Sahih Muslim (2888)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4268</td></tr><tr><td>Arabic No</td><td>4268</td></tr><tr><td>Reference</td><td>Book 37 Hadith 29</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abu 'Aufa:A man displayed some goods in the market and to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Al 'Awwam] berkata, telah menceritakan kepadaku [Ibrahim Abu Isma'il as-Saksakiy] dia mendengar ['Abdullah bin Abu Awfaa radliallahu 'anhuma] berkata; Ada seseorang yang menunggui barang dagangannya, lalu dia bersumpah atas nama Allah bahwa dia hanya memberikan dagangannya dengan harga sekian-sekian padahal bohong belaka, maka turunlah firman Allah yang artinya: ("Sesungguhnya orang-orang yang menjual janjinya kepada Allah dan sumpah mereka dengan harga yang murah..) (QS. Ali'Imran 77). Dan berkata Ibnu Abi Awfaa: "Orang yang menipu orang lain, sama artinya dengan pemakan riba dan pengkhianat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2675</td></tr><tr><td>Arabic No</td><td>2675</td></tr><tr><td>Reference</td><td>Book 52 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Аби Ауфа, да будет доволен Аллах им и его отцом, сказал: «Как-то один человек, назначил конкретную сумму за свой товар, принося клятву Аллахом, что он отдал за него цену, которую не давал. И тогда был ниспослан (следующий аят из Корана): “Поистине, для тех, которые продают завет с Аллахом и свои клятвы задёшево, нет доли в последней жизни. Аллах не будет говорить с ними, не посмотрит на них в день воскресения и не очистит их. Им уготованы мучительные страдания” (сура «Али ‘Имран», аят 77)».\nИ Ибн Абу Ауфа сказал: «Взвинчивающий цены — вероломный пожиратель лихвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2675</td></tr><tr><td>Arabic No</td><td>2675</td></tr><tr><td>Reference</td><td>Book 52 Hadith 37</td></tr></tbody></table></div>
 

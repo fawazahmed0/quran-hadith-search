@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) said:Some among us put on Ihram for Hajj alon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Yahya bin Ayyub] Telah menceritakan kepada kami [Abbad Al Muhallabi] Telah menceritakan kepada kami [Ubaidullah bin Umar] dari [Al Qasim bin Muhammad] dari [Ummul Mukminin] Aisyah radliallahu 'anha, ia berkata; "Di antara kami ada yang ihram untuk haji Ifrad (mendahulukan haji dari umrah), ada yang ihram untuk haji Qiran (mengerjakan haji digabung dengan umrah sekaligus) dan ada pula yang ihram untuk haji tamattu' (mendahulukan umrah dari pada haji)." Telah menceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ubaidullah bin Umar] dari [Al Qasim bin Muhammad] ia berkata; [Aisyah] datang untuk menunaikan haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2923</td></tr><tr><td>Arabic No</td><td>1211.14</td></tr><tr><td>Reference</td><td>Book 15 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2923</td></tr><tr><td>Arabic No</td><td>1211.14</td></tr><tr><td>Reference</td><td>Book 15 Hadith 132</td></tr></tbody></table></div>
 

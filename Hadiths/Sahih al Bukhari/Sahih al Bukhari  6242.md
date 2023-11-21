@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A man peeped into a room of the Prophet. The Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Ubaidullah bin Abu Bakr] dari [Anas bin Malik] bahwa seorang laki-laki melongokkan kepalanya ke salah satu kamar Nabi shallallahu 'alaihi wasallam, lantas Nabi shallallahu 'alaihi wasallam berdiri menemuinya dengan membawa sisir, dan seolah-olah aku melihat beliau menakut-nakuti hendak mencolok laki-laki itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6242</td></tr><tr><td>Arabic No</td><td>6242</td></tr><tr><td>Reference</td><td>Book 79 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик рассказывал, что однажды некий человек заглянул в одну из комнат Пророк ﷺ. (Увидев это), Пророк ﷺ направился в его сторону, держу в руках наконечник стрелы (или: наконечники стрелы). Я (и сейчас) словно вижу, как (Пророк ﷺ) незаметно пытается уколоть его этим (наконечником)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6242</td></tr><tr><td>Arabic No</td><td>6242</td></tr><tr><td>Reference</td><td>Book 79 Hadith 16</td></tr></tbody></table></div>
 

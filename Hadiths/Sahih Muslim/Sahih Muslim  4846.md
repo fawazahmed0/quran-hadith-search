@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The same tradition has been handed down through a different chain of transmitter
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; saya membacakan di hadapan [Malik]; dari [Nafi'] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada ubun-ubun setiap kuda tertulis kebaikan hingga hari kiamat." Dan telah menceritakan kepada kami [Qutaibah] dan [Ibnu Rumh] dari [Al Laits bin Sa'd]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dan [Abdullah bin Numair]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami ['Ubaidullah bin Sa'id] telah menceritakan kepada kami [Yahya] semuanya dari ['Ubaidullah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Usamah] semuanya dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam seperti hadits Malik dari Nafi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4846</td></tr><tr><td>Arabic No</td><td>1871.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4846</td></tr><tr><td>Arabic No</td><td>1871.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 142</td></tr></tbody></table></div>
 

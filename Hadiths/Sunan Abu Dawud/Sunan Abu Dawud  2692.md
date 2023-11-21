@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: When the people of Mecca sent about ransoming th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq], dari [Yahya bin 'Abbad] dari [ayahnya yaitu 'Abbad bin Abdullah bin Az Zubair], dari [Aisyah], ia berkata; tatkala penduduk Quraisy mengirimkan tebusan para tawanan mereka maka Zainab mengirimkan tebusan Abu Al 'Ash, dan ia mengirimkan kalungnya yang dahulu ada pada Khadijah, ketika ia mempertemukannya dengan Abu Al 'Ash dengan memakai kalung tersebut. Aisyah berkata; kemudian tatkala Rasulullah shallallahu 'alaihi wasallam melihatnya beliau sangat tersentuh dan berkata: "Apabila menurut kalian agar melepaskan tawanannya dan kalian kembalikan miliknya kepadanya?" Mereka mengatakan; ya. Dan Rasulullah shallallahu 'alaihi wasallam telah mengambil kesepakatan dengannya atau berjanji kepadanya untuk membiarkan Zainab kembali kepadanya. Dan Rasulullah shallallahu 'alaihi wasallam telah mengutus Zaid bin Haritsah dan seorang laki-laki anshor. Beliau berkata: "Hendaknya kalian berada di tengah Ya'jaj (tempat berjarak delapan mil dari Mekkah) hingga Zainab melewati kalian, lalu temanilah ia hingga kalian datang bersamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2692</td></tr><tr><td>Arabic No</td><td>2692</td></tr><tr><td>Reference</td><td>Book 15 Hadith 216</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2692</td></tr><tr><td>Arabic No</td><td>2692</td></tr><tr><td>Reference</td><td>Book 15 Hadith 216</td></tr></tbody></table></div>
 

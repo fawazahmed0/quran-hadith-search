@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Whenever a dead man in debt was brought to Allah's Messenge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam pernah disodorkan kepada beliau seorang yang sudah merninggal dunia (jenazah) yang meninggalkan hutang maka Beliau bertanya: "Apakah dia meninggalkan harta untuk membayar hutangnya?" Jika diceritakan bahwa jenazah tersebut ada meninggalkan sesuatu untuk melunasi hutangnya maka Beliau menyolatinya, jika tidak maka Beliau berkata, kepada Kaum Muslimin: "Shalatilah saudara kalian ini". Ketika Allah telah membukakan kemenangan kepada Beliau di berbagai negeri Beliau bersabda: "Aku lebih utama menjamin untuk orang-orang beriman dibanding diri mereka sendiri, maka siapa yang mneninggal dunia dari kalangan Kaum Mukminin lalu meninggalkan hutang akulah yang wajib membayarnya dan siapa yang meninggalkan harta maka harta itu untuk pewarisnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2298</td></tr><tr><td>Arabic No</td><td>2298</td></tr><tr><td>Reference</td><td>Book 39 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что люди приносили к Посланнику Аллаха ﷺ носилки с покойником, у которого имелся долг, и он спрашивал: «Оставил ли он что-нибудь чтобы покрыть свой долг?» И если ему сообщали, что он оставили деньги для оплаты долга, он совершал за него молитву, а если нет, то он говорил мусульманам: «Совершите молитву за своего товарища!» Когда же Аллах обогатил его (Пророка ﷺ) посредством военных добыч, он сказал: «Я ближе к верующим, чем они сами, поэтому если кто-то из верующих умрёт, оставив (неоплаченный) долг, то я оплачу за него, а кто оставит имущество, то оно перейдёт его наследникам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2298</td></tr><tr><td>Arabic No</td><td>2298</td></tr><tr><td>Reference</td><td>Book 39 Hadith 9</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that 'Umar had a daughter who was called 'Asiya. Allah's Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Al Hasan bin Musa]; Telah menceritakan kepada kami [Hammad bin Salamah] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar] bahwa "Dulu anak perempuan 'Umar bernama 'Ashiyah (Durhaka). Maka kemudian diganti oleh Rasulullah shallallahu 'alaihi wasallam dengan nama 'Jamilah' (Cantik)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5605</td></tr><tr><td>Arabic No</td><td>2139.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара о том, что у Умара была дочь которую звали ‘Асия и Посланник Аллаха ﷺ (поменял её имя) и назвал её Джамиля
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5605</td></tr><tr><td>Arabic No</td><td>2139.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 20</td></tr></tbody></table></div>
 

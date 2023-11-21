@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) paid a visit to Um-Sulaim and she placed before 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada saya [Khalid] dia adalah anak Al Harits telah menceritakan kepada kami [Humaid] dari [Anas radliallahu 'anhu]; Nabi shallallahu 'alaihi wasallam datang menemui Ummu Sulaim, kemudian Ummu Sulaim menyuguhkan kurma dan mentega untuk Beliau. Beliau berkata: "Simpanlah mentega-mentega kalian untuk suguhan minuman dan kurma-kurma kalian untuk makanannya karena aku sedang berpuasa". Kemudian Beliau berdiri di pojok rumah mengerjakan shalat sunnat. Setelah itu Beliau memanggil Ummu Sulaim dan anggota keluarga lainnya. Ummu Sulaim berkata: "Wahai Rasulullah, aku mempunyai permintaan sederhana". Beliau bertanya: "Apa itu?" Ummu Sulaim berkata: "Pelayan anda itu, Anas, dia tidak pernah meninggalkan kebaikan akhirat sekalipun dan urusan dunianya kecuali dia minta kepadaku". Maka Beliau berdo'a: "Ya Allah, karuniakanlah dia harta dan anak-anak dan berilah dia keberkahan didalamnya". Setelah itu aku menjadi orang yang paling banyak hartanya di kalangan Kaum Anshar. Dan telah menceritakan kepada saya putriku Umainah: "Setelah itu dia memiliki anak dari sulbiku, yang ketika kedatangan Hajjaj di Bashrah, telah dikuburkan sekitar sebanyak seratus dua sembilan puluh orang". Dan telah menceritakan kepada kami [Ibnu Abu Maryam] telah mengabarkan kepada kami [Yahya bin Ayyub] berkata, telah menceritakan kepada saya [Humaid] dia mendengar [Anas radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1982</td></tr><tr><td>Arabic No</td><td>1982</td></tr><tr><td>Reference</td><td>Book 30 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ зашёл к Умм Суляйм, которая подала ему финики и масло. (Пророк ﷺ) сказал: “Вылейте ваше масло обратно в бурдюк, а финики высыпьте обратно в корзину, ибо, поистине, я пощусь”, а потом он (выбрал для себя) место в доме, встал там, совершил дополнительный намаз и обратился к Аллаху с мольбой благословить Умм Суляйм и её семью. (После этого) Умм Суляйм сказала: “О Посланник Аллаха, у меня есть особая просьба”. Он спросил: “Какая?” Она сказала: “(Относительно) твоего слуги Анаса”, и тогда он обратился к Аллаху с мольбами о ниспослании мне всех благ, не забыв ни о благах мира вечного, ни о благах мира этого и сказав: “О Аллах, надели его богатством и детьми и благослови его! /Аллахумма-рзук-ху малян ва валядан ва барик ля-ху!/” И, поистине, (ныне) я — один из богатейших ансаров, а моя дочь Умайна сказала мне, что ко времени появления Хаджжаджа в Басре было похоронено более ста двадцати моих потомков»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1982</td></tr><tr><td>Arabic No</td><td>1982</td></tr><tr><td>Reference</td><td>Book 30 Hadith 89</td></tr></tbody></table></div>
 

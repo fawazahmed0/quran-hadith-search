@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to say frequently in his bowing and prost
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sufyan] berkata, telah menceritakan kepadaku [Manshur bin Al Mu'tamir] dari [Muslim] -yaitu Ibnu Shubaih Abu Adl Dluha- dari [Masruq] dari ['Aisyah] berkata, "Saat rukuk dan sujud Nabi shallallahu 'alaihi wasallam memperbanyak membaca do'a: 'SUBHAANAKALLAHUMMA RABBANAA WA BIHAMDIKA ALLAHUMMAGHFIRLII (Maha suci Engkau wahai Tuhan kami, segala puji bangi-Mu, ya Allah ampunilah aku) ', sebagai pengamalan perintah Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>817</td></tr><tr><td>Arabic No</td><td>817</td></tr><tr><td>Reference</td><td>Book 10 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ во время совершения поясных и земных поклонов многократно повторял (слова): “Субханакя-Ллахумма Раббана, ва би-хамди-кя, Аллахумма-гъфир ли! (Пречист Ты, о Аллах, Господь наш, и хвала Тебе! О Аллах, прости мне!)”, — следуя (предписанному) Кораном»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>817</td></tr><tr><td>Arabic No</td><td>817</td></tr><tr><td>Reference</td><td>Book 10 Hadith 212</td></tr></tbody></table></div>
 

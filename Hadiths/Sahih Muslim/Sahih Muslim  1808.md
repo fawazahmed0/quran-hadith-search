@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), Lorsque le Prophète (paix et
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] dari [Abu Zubair] dari [Thawus] dari [Ibnu Abbas] bahwa; Rasulullah shallallahu 'alaihi wasallam jika bangun untuk mengerjakan shalat di tengah malam, beliau membaca: "ALLAHUMMA LAKAL HAMDU ANTA NUURUS SAMAAWAATI WAL ARDLI WALAKAL HAMDU ANTA QAYYAMUS SAMAAWAATI WAL ARDLI WALAKAL HAMDU ANTA RABBUS SAMAAWAATI WAL ARDLI WA MAN FIIHINNA ANTAL HAQQU WA WA'DUKAL HAQQU WA QAULUKAL HAQQU WA LIQAA'UKA HAQQU WAL JANNATU HAQQU WAN NAARU HAQQU WAS SAA'ATU HAQQU. ALLAHUMMA LAKA ASLAMTU WA BIKA AAMANTU WA 'ALAIKA TAWAKKALTU WA ILAIKA ANABTU WA BIKA KHAASHAMTU WA ILAIKA HAAKAMTU FAGHFIRLII MAA QADDAMTU WA AKHKHARTU WA ASRARTU WA A'LANTU ANTA ILAAHI LAA ILAAHA ILLAA ANTA (Ya Allah, untukMu segala puji; Engkau cahaya langit dan bumi; untukMu segala puji, Engkau pendiri langit dan bumi; dan untukMu segala puji, Engkau Tuhan langit dan bumi dan segala isinya. Engkau Maha Benar! JanjiMu benar, firmanMu benar, hari perjumpaan denganMu benar, surga benar, neraka benar dan hari kiamat adalah benar. Ya Allah, kepadaMulah aku berserah diri, denganMu aku beriman, kepadaMu au bertawakkal, dan kepadaMu aku kembali; karena membela agamaMu aku bermusuhan, dan kepadaMu aku bertahkim (memohon keadilan). Karena itu, ampunilah segala dosa-dosaku, yang lama dan yang baru, yang rahasia dan yang nyata; Engkaulah ilahku, tidak ada ilah yang berhak disembah selain Engkau)." Telah menceritakan kepada kami [Amru An Naqid] dan [Ibnu Numair] dan [Ibnu Abu Umar] mereka berkata, telah menceritakan kepada kami [Sufyan] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Rafi'] ia berkata, telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] keduanya dari [Sulaiman Al Ahwali] dari [Thawus] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam. Adapun hadits Ibnu Juraij, maka lafazhnya sama dengan hadits Malik kecuali pada dua huruf. Kalau Ibnu Juraij kata Qayyam menjadi Qayyim. Dan ia juga menyebutkan, "WA MAA ASRARTU (dan juga dosa yang aku sembunyikan). Adapun hadits Ibnu 'Uyainah, maka di dalamnya terdapat tambahan dan menyelisihi Malik dan Ibnu Juraid pada banyak kata. Dan Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Mahdi] ia adalah Ibnu Maimun, telah menceritakan kepada kami [Imran Al Qashir] dari [Qais bin Sa'd] dari [Thawus] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini, sedangkan lafazhnya hampir sama dengan lafazh mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1808</td></tr><tr><td>Arabic No</td><td>769.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что, вставая ночью для совершения (добровольной) ночной молитвы, Посланник Аллаха ﷺ обычно говорил: «О Аллах, хвала Тебе, Ты свет небес и земли, хвала Тебе, Ты Управитель небес и земли, хвала Тебе, Ты Господь небес, земли и (всех), кто там обитает, Ты Истина , и обещание Твоё истина, и слово Твоё истина, и встреча с Тобой истина, и Рай истина, и Огонь истина, и Час этот истина. О Аллах, Тебе я предаюсь , в Тебя верую, на Тебя уповаю, к Тебе обращаюсь, благодаря Тебе веду споры и Твоего суда ищу, прости же мне то, что я уже совершил, и то, чего ещё не совершал, что делал тайно и что делал открыто! Ты Бог мой, и нет божества, достойного поклонения, кроме Тебя» /Аллахумма, ля-ка ль-хамду, Анта нуру с-самавати ва-ль-арды, ва ля-ка ль-хамду, Анта каййаму с-самавати ва-ль-арды, ва ля-ка ль- хамду, Анта Раббу с-самавати ва-ль-арды ва ман фи-хинна, Анта ль- Хакку, ва ва‘ду-кя ль-хакку, ва каулю-кя ль-хакку, ва ликаъу-кя хаккун, ва-ль- джаннату хаккун, ва н-нару хаккун, ва с-са’ату хаккун. Аллахумма, ля-кя аслямту, ва би-кя аманту, ва ‘алей-кя таваккяльту, ва илей-кя анабту, ва би-кя хасамту, ва илей-кя хакамту, фа-гфир ли ма каддамту, ва аххарту, ва ма асрарту ва а‘лянту! Анта Иляхи, ля иляха илля Анта
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1808</td></tr><tr><td>Arabic No</td><td>769.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 236</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Husain:The Prophet (ﷺ) said, "I looked into Paradise and f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Salm bin Zarir] telah menceritakan kepada kami [Abu Raja'] dari ['Imran bin Hushain] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Aku pernah menengok ke surga, ternyata kebanyakan penghuninya adalah orang-orang miskin, dan aku juga menengok ke neraka, ternyata kebanyakan penghuninya adalah kaum wanita." Diperkuat juga oleh [Ayyub] dan ['Auf]. [Shakhr] dan [Hammad bin Najih] mengatakan; dari [Abu Raja'] dari [Ibnu Abbas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6449</td></tr><tr><td>Arabic No</td><td>6449</td></tr><tr><td>Reference</td><td>Book 81 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Имрана ибн Хусайна, что Пророк ﷺ сказал: «Я заглянул в Рай и обнаружил, что большинство его обитателей — бедняки, и я заглянул в адский огонь и обнаружил, что большинство его обитателей — женщины».\nТакже данный хадис приводится через другую цепочку передатчиков, которая доходит до Ибн 'Аббаса
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6449</td></tr><tr><td>Arabic No</td><td>6449</td></tr><tr><td>Reference</td><td>Book 81 Hadith 38</td></tr></tbody></table></div>
 

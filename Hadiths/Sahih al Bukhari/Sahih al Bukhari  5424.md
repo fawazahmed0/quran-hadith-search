@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:We used to carry the meat of the Hadis (sacrificed animals) to Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] berkata; telah menceritakan kepada kami [Sufyan] dari [Amru] dari [Atha] dari [Jabir] ia berkata; "Pada masa Rasulullah shallallahu 'alaihi wasallam kami pernah berbekal dengan daging hadyu hingga sampai Madinah." Hadits ini dikuatkan oleh [Muhammad] dari [Ibnu Uyainah], dan [Ibnu Juraij] berkata; Aku bertanya kepada [Atha]; 'Apakah ia mengatakan; 'Hingga kami tiba Madinah? ' Ia menjawab; 'Tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5424</td></tr><tr><td>Arabic No</td><td>5424</td></tr><tr><td>Reference</td><td>Book 70 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Во время Пророка ﷺ мы запасались мясом жертвенных животных и отправлялись с ним в Медину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5424</td></tr><tr><td>Arabic No</td><td>5424</td></tr><tr><td>Reference</td><td>Book 70 Hadith 52</td></tr></tbody></table></div>
 

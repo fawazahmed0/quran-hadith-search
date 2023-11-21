@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:During the lifetime of the Prophet (ﷺ) we considered Abu Ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Hatim bin Bazi'] telah bercerita kepada kami [Syadzan] telah bercerita kepada kami ['Abdul 'Aziz bin Abu Salamah Al Majisyun] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; "Kami hidup di zaman Nabi shallallahu 'alaihi wasallam dan kami tidak membandingkan seorangpun terhadap Abu Bakr lalu 'Umar kemudian 'Utsman. Setelah itu kami meninggalkan para shahabat Nabi shallallahu 'alaihi wasallam dan kami tidak mengutamakan seorang diantara mereka". Hadits ini dikuatkan jalur perwainya oleh [Ibn Shalih] dari ['Abdul 'Aziz]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3697</td></tr><tr><td>Arabic No</td><td>3697</td></tr><tr><td>Reference</td><td>Book 62 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается что Ибн ‘Умар, да будет доволен Аллах им и его отцом: «Во времена Пророка ﷺ мы говорили, что не станем никого приравнивать к Абу Бакру, за которым следовал ‘Умар, а потом ‘Усман. Что же касается остальных сподвижников, то никого из них мы не считали достойнее других»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3697</td></tr><tr><td>Arabic No</td><td>3697</td></tr><tr><td>Reference</td><td>Book 62 Hadith 47</td></tr></tbody></table></div>
 

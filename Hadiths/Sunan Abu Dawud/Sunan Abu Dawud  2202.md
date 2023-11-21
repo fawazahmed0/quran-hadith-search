@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Amr bin As Sarh], serta [Sulaiman bin Daud], mereka berkata; telah mengabarkan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab], telah mengabarkan kepadaku [Abdurrahman bin Abdullah bin Ka'bin bin Malik] bahwa [Abdullah bin Ka'bin] yang merupakan penuntun Ka'bin diantara anaknya ketika mengalami kebutaan, ia berkata; saya mendengar [Ka'b bin Malik] Kemudian ia menyebutkan kisahnya ketika terjadinya perang Tabuk, ia berkata; hingga setelah berlalu empat puluh hari dari lima puluh hari, tiba-tiba utusan Rasulullah shallallahu 'alaihi wasallam datang dan berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam memerintahkanmu agar menjauhi isterimu. Ia berkata; apakah aku harus mencerainya atau bagaimana? Utusan tersebut berkata; tidak melainkan jauhilah dia, dan jangan engkau mendekatinya! Kemudian aku katakan kepada isteriku; kembalilah kepada keluargamu, dan tinggallah bersama mereka hingga Allah memberikan keputusan mengenai perkara ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2757) Sahih Muslim (2769)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2202</td></tr><tr><td>Arabic No</td><td>2202</td></tr><tr><td>Reference</td><td>Book 13 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн Ка‘б, который был одним из сыновей Ка‘ба и его поводырём, когда тот ослеп, передаёт, что он слышал, как Ка‘б ибн Малик сказал, пересказывая историю своего уклонения от участия в походе на Табук: «Когда из пятидесяти дней прошло сорок, ко мне неожиданно явился посланец от Посланника Аллаха ﷺ который сказал: “Посланник Аллаха ﷺ велит тебе не приближаться к твоей жене!” Я спросил: “Я должен развестись с ней или мне надо поступить как-нибудь иначе?” Он сказал: “Нет, просто сторонись её и ни в коем случае не приближайся к ней!” Тогда я сказал своей жене: “Отправляйся к своим родителям и оставайся у них, пока Всевышний Аллах не вынесет решение по этому делу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2757) Sahih Muslim (2769)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2202</td></tr><tr><td>Arabic No</td><td>2202</td></tr><tr><td>Reference</td><td>Book 13 Hadith 28</td></tr></tbody></table></div>
 

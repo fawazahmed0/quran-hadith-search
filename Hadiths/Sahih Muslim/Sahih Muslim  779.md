@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubayy Ibn Ka'b (que Dieu l'agrée) a dit : "J'ai posé la question au Prophète 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu ar-Rabi' az-Zahrani] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Hisyam bin Urwah] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-Ala'] dan lafazh tersebut miliknya, telah menceritakan kepada kami [Abu Muawiyah] telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Abu Ayyub] dari [Ubaiy bin Ka'ab] dia berkata, "Saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang seorang laki-laki yang mencumbu istrinya, kemudian dia tidak keluar air mani." Maka beliau menjawab, "Hendaklah dia mandi disebabkan menyenggamai istrinya, kemudian berwudhu dan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>346.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Убай ибн Ка‘б сказал: «Я спросил Посланника Аллаха ﷺ о мужчине, который вступил в половую связь со своей женой, а затем ослаб (и завершил половой акт, не произведя семяизвержение). И Пророк ﷺ сказал: “Он должен смыть (выделения,) которые попали на него от женщины, а затем совершить малое омовение /вудуъ/, и (так он может) молится”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>346.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 101</td></tr></tbody></table></div>
 

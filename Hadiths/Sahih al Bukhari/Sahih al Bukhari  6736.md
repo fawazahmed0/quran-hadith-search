@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Huzail bin Shirahbil:Abu Musa was asked regarding (the inheritance of) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abu Qais] aku mendengar [Huzail bin Syurahbil] mengatakan, [Abu Musa] pernah ditanya tentang anak perempuan, cucu perempuan dari anak laki-laki dan saudara perempuan, maka dia menjawaB; 'Anak perempuan mendapat separoh, saudara perempuan mendapat separoh, dan datanglah kepada Ibnu Mas'ud, niscaya dia akan sepakat denganku.' Ibnu mas'ud kemudian ditanya dan diberi kabar dengan ucapan Abu Musa, maka ia berujar; 'kalau begitu aku telah sesat dan tidak termasuk orang-orang yang mendapat petunjuk, saya akan memutuskan masalah itu dengan ketetapan yang diputuskan oleh Nabi shallallahu 'alaihi wasallam, anak perempuan mendapat separoh, cucu perempuan dari anak laki-laki mendapat seperenam sebagai pelengkap dari dua pertiga, dan sisanya bagi saudara perempuan.' Maka kami datang kepada Abu Musa dan kami mengabarkan kepadanya dengan ucapan Ibnu mas'ud, maka ia berkata; 'Janganlah kalian bertanya kepadaku selama orang alim ditengah-tengah kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6736</td></tr><tr><td>Arabic No</td><td>6736</td></tr><tr><td>Reference</td><td>Book 85 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мусу, да будет доволен им Аллах, спросили о (доле наследства) дочери, дочери сына и сестры, и он сказал: «Дочери причитается половина и сестре — половина. (Можете) пойти к Ибн Мас‘уду, и он скажет то же самое». После этого Ибн Мас‘уду задали тот же вопрос, передав слова Абу Мусы, и он сказал: «(Если я скажу то же самое, то) собьюсь с правильного пути и не буду в числе тех, кто ведом по правильному пути(, а поэтому) я скажу об этом то же самое, что говорил (в подобных случаях и) Пророк ﷺ: дочери причитается половина, а дочери сына — одна шестая часть, что вместе равняется двум третьим (от всего имущества покойного), что же касается оставшегося, то это — доля сестры». А потом Абу Мусе передали слова Ибн Мас‘уда, и он сказал: «Не задавайте мне вопросов, пока среди вас находится этот учёный муж!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6736</td></tr><tr><td>Arabic No</td><td>6736</td></tr><tr><td>Reference</td><td>Book 85 Hadith 13</td></tr></tbody></table></div>
 

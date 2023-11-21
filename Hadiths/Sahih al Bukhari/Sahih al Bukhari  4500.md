@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:That his aunt, Ar-Rubai' broke an incisor tooth of a girl. My aunt
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Munir] dia mendengar [Abdullah bin Bakr As Sahmi] Telah menceritakan kepada kami [Humaid] dari [Anas] bahwa Rabayyi' -pamannya- pernah mematahkan gigi seri seorang budak wanita, kemudian mereka meminta kepadanya untuk memaafkan, namun mereka (keluarganya) menolak. Kemudian ditawarkan kepada mereka denda, namun mereka tetap menolak, lalu mereka mendatangi Nabi shallallahu'alaihi wa sallam, maka beliau memerintahkan untuk diqishash. Anas bin An Nadhr berkata; wahai Rasulullah, apakah gigi seri Ar Rubayyi' akan dipatahkan? Tidak, demi Dzat yang mengutusmu dengan kebenaran, gigi serinya jangan dipatahkan. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Anas, Kitabullah adalah Al Qishas. Maka orang-orang tersebut rela memberikan maaf. kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya diantara hamba-hamba Allah terdapat orang yang apabila ia bersumpah atas nama Allah maka Allah akan mengabulkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4500</td></tr><tr><td>Arabic No</td><td>4500</td></tr><tr><td>Reference</td><td>Book 65 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, что ар-Рубаййи‘, его тётя, сломала передний зуб одной девушке. Её родные пришли просить родственников девушки принять компенсацию и простить (обидчика), но они отказались. Тогда они пришли к Посланнику Аллаха ﷺ, и он велел, чтобы с ней сделали то же самое. Анас ибн ан-Надр сказал: «О Посланник Аллаха! Зуб ар-Рубаййи‘ будет сломан?! Клянусь Тем, Кто послал тебя с истиной! Её зуб не будет сломан (сегодня)!» Посланник Аллаха ﷺ сказал: «О Анас! Согласно Книге Аллаха полагается воздать ей равным». Но родственники пострадавшей согласились принять компенсацию и простили её, и Посланник Аллаха ﷺ сказал: «Поистине, есть среди рабов Аллаха такие, клятвы которых Аллах неизменно выполняет, когда они клянутся Им!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4500</td></tr><tr><td>Arabic No</td><td>4500</td></tr><tr><td>Reference</td><td>Book 65 Hadith 27</td></tr></tbody></table></div>
 

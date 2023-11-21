@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Asma' daughter of Umays: The Messenger of Allah (ﷺ) said to me: May I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan [Musaddad], telah menceritakan kepada Kami [Abdullah bin Daud] dari [Abdul Aziz bin Umar] dari [Hilal] dari [Umar bin Abdul Aziz] dari [Ibnu Ja'far] dari [Asma' bintu 'Umais], ia berkata; Rasulullah shallla Allahu 'alaihi wa sallam berkata kepadaku: "Maukah aku ajarkan kamu kalimat-kalimat yang dapat kamu baca ketika dalam keadaan susah yaitu "ALLAAHU, ALLAAHU RABBII, LAA USYRIKU BIHI SYAIAN" (Allah, Allah adalah tuhanku, aku tidak menyekutukanNya dengan sesuatu apapun). Abu Daud berkata; Hilal yang ini adalah mantan budak Umar bin Abdul aziz sedangkan Ibnu Ja'far adalah Abdullah bin Ja'far
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1525</td></tr><tr><td>Arabic No</td><td>1525</td></tr><tr><td>Reference</td><td>Book 8 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Асмы бинт ‘Умайса, да будет доволен ею Аллах: «Посланник Аллаха ﷺ сказал мне: “Я научу тебя словам, которые следует произносить, если случится беда: “Аллах, Аллах мой Господь, и я не придаю Ему никаких сотоварищей /Аллаху, Аллаху Рабби, ля ушрику би-хи шайан/””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1525</td></tr><tr><td>Arabic No</td><td>1525</td></tr><tr><td>Reference</td><td>Book 8 Hadith 110</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with him) reported that Allah's Messenger may peace b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ubaidullah bin Sa'id] keduanya berkata, Telah menceritakan kepada kami [Yahya Al Qaththan] dari [Ubaidullah] telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bermalam di Dzi Thuwa hingga pagi. Setelah itu, baru beliau memasuki Makkah. Nafi' berkata; Abdullah juga berbuat seperti itu. Dan di dalam riwayat Sa'id tercantum; "Sampai beliau shalat Shubuh." Yahya berkata; Atau Ubaidullah berkata; "Sampai pagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3044</td></tr><tr><td>Arabic No</td><td>1259.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 250</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3044</td></tr><tr><td>Arabic No</td><td>1259.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 250</td></tr></tbody></table></div>
 

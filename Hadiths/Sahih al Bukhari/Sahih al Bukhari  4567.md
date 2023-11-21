@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:During the lifetime of Allah's Messenger (ﷺ), som
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] Telah mengabarkan kepada kami [Muhammad bin Ja'far] berkata; Telah menceritakan kepadaku [Zaid bin Aslam] dari ['Atha bin Yasar] dari [Abu Sa'id Al Khudri radliallahu 'anhu] "Bahwa beberapa orang munafik pada masa Rasulullah shallallahu 'alaihi wasallam apabila beliau pergi berperang mereka tidak turut berperang dan merasa bangga dengan ketidakpergiannya untuk menyelisihi Rasulullah shallallahu 'alaihi wasallam. Apabila Rasulullah shallallahu 'alaihi wasallam telah kembali (membawa kemenangan dan harta rampasan perang), mereka mengemukakan alasan mereka masing-masing yang menjadikan mereka tidak turut berperang dan menguatkan alasannya dengan sumpah. Kemudian mereka ingin dipuji (seolah-olah merekalah yang pahlawan) padahal mereka tidak berbuat apa-apa. Karena itu turunlah ayat: 'Janganlah sekali-kali kamu menyangka bahwa orang-orang yang gembira dengan apa yang telah mereka kerjakan dan mereka ingin dipuji terhadap perbuatan yang tidak mereka kerjakan, janganlah kamu mengira bahwa mereka akan terlepas dari siksa…' (QS Ali Imraan (3):
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4567</td></tr><tr><td>Arabic No</td><td>4567</td></tr><tr><td>Reference</td><td>Book 65 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что при жизни Посланника Аллаха ﷺ некоторые из числа лицемеров обычно оставались (дома), когда Посланник Аллаха ﷺ выступал (из Медины) в поход, и радовались тому, что они к нему не присоединялись. Когда же Посланник Аллаха ﷺ приезжал (обратно), они являлись к нему с оправданиями и клятвами, желая услышать похвалы за то, чего они не делали, и (о них) был ниспослан (нижеследующий аят): «Никогда не думай, что радующиеся тому, что они совершили, и любящие, чтобы их хвалили за то, чего они не делали, никогда не думай, что они спасутся от наказания: (уготовано) им наказание мучительное!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4567</td></tr><tr><td>Arabic No</td><td>4567</td></tr><tr><td>Reference</td><td>Book 65 Hadith 89</td></tr></tbody></table></div>
 

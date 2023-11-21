@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbudDarda': The Prophet (ﷺ) said: Shall I not inform you of something
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Amru bin Murrah] dari [Salim] dari [Ummu Darda] dari [Abu Darda] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Maukah jika aku kabarkan kepada kalian sesuatu yang lebih utama dari derajat puasa, shalat dan sedekah?" para sahabat berkata, "Tentu ya Rasulullah." Beliau bersabda: "Mendamaikan orang yang sedang berselisih. Dan rusaknya orang yang berselisih adalah pencukur (mencukur amal kebaikan yang telah dikerjakan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4919</td></tr><tr><td>Arabic No</td><td>4919</td></tr><tr><td>Reference</td><td>Book 43 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4919</td></tr><tr><td>Arabic No</td><td>4919</td></tr><tr><td>Reference</td><td>Book 43 Hadith 147</td></tr></tbody></table></div>
 

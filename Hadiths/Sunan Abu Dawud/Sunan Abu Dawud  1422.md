@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuAyyub al-Ansari: The Prophet (ﷺ) said: The witr is a duty for ever
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdurrahman bin Al Mubarak], telah menceritakan kepadaku [Quraisy bin Hayyan Al 'Ijli] telah menceritakan kepada Kami [Bakr bin Wail] dari [Az Zuhri] dari ['Atha' bin Yazid Al Laitsi] dari [Abu Ayyub Al Anshari] ia berkata; rasul shallallahu 'alaihi wasallam bersabda: "Witir adalah sebuah hak atas setiap muslim, barang siapa yang hendak melakukan witir lima raka'at maka hendaknya ia melakukankannya dan barang siapa yang hendak melakukan witir tiga raka'at maka hendaknya ia melakukannya, dan barang siapa yang hendak melakukan witir satu raka'at maka hendaknya ia melakukannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>1422</td></tr><tr><td>Reference</td><td>Book 8 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Айюба аль-Ансари, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Витр утверждён для каждого мусульманина, и кто желает совершать пять рак‘атов, пусть совершает, и кто желает совершать три рак‘ата, пусть совершает, и кто желает совершать один рак‘ат, пусть совершает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>1422</td></tr><tr><td>Reference</td><td>Book 8 Hadith 7</td></tr></tbody></table></div>
 

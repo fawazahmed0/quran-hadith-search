@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu al-Sahba' said to Ibn 'Abbas:Enlighten us with your information whether the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Sulaiman bin Harb] dari [Hammad bin Zaid] dari [Ayyub As Sakhtiyani] dari [Ibrahim bin Maisarah] dari [Thawus] bahwa Abu As Shahba' berkata kepada [Ibnu Abbas]; Beritahukanlah kepadamu apa yang engkau ketahui! Bukankah talak tiga (yang di ucapkan sekaligus) pada masa Rasulullah shallallahu 'alaihi wasallam dan Abu Bakar dinyatakan hanya jatuh talak sekali? Jawab Ibnu Abbas; Hal itu telah berlaku, dan pada masa pemerintahan Umar, orang-orang terlalu mudah untuk menjatuhkan talak, lantas dia memberlakukan hukum atas mereka (yaitu jatuh talak tiga dengan sekali ucap)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3675</td></tr><tr><td>Arabic No</td><td>1472.03</td></tr><tr><td>Reference</td><td>Book 18 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3675</td></tr><tr><td>Arabic No</td><td>1472.03</td></tr><tr><td>Reference</td><td>Book 18 Hadith 24</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah, the freed slave of Shahddad, came to 'A'isha and transmitted from her 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Sa'id al-Aili] dan [Abu ath-Thahir] serta [Ahmad bin Isa] mereka berkata, telah mengabarkan kepada kami [Abdullah bin Wahb] dari [Makhramah bin Bukair] dari [bapaknya] dari [Salim] mantan budak Syaddad, dia berkata, "Saya mendatangi [Aisyah], isteri Nabi shallallahu 'alaihi wasallam pada hari wafatnya Sa'd bin Abu Waqqash. Kemudian Abdurrahman bin Abu Bakar masuk dan berwudlu di sisinya, maka Aisyah berkata, 'Wahai Abdurrahman, sempurnakanlah wudlumu, karena aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Celakalah bagi tumit-tumit (yang tidak terbasuh air wudlu) dengan api neraka." Dan telah menceritakan kepada kami [Harmalah bin Yahya] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami [Haiwah] telah mengabarkan kepada kami [Muhammad bin Abdurrahman] bahwa [Abu Abdullah] mantan budak Syaddad bin al-Had, telah menceritakan kepadanya, bahwa dia pernah singgah di tempat [Aisyah] ….lalu dia menyebutkan hadits darinya, dari Nabi shallallahu 'alaihi wasallam dengan hadits yang semisal." Telah menceritakan kepada kami [Muhammad bin Hatim] dan [Abu Ma'n ar-Raqasyi] keduanya berkata, telah menceritakan kepada kami [Umar bin Yunus] telah menceritakan kepada kami [Ikrimah bin Ammar] telah menceritakan kepada kami [Yahya bin Abu Katsir] dia berkata, telah menceritakan kepadaku, atau kami [Abu Salamah bin Abdurrahman] telah menceritakan kepada kami [Salim] mantan budak al-Mahri, dia berkata, "Aku dan Abdurrahman bin Abu Bakar keluar untuk mengantar jenazah Sa'd bin Abu Waqqash, lalu kami melewati pintu kamar [Aisyah] …lalu dia menyebutkan hadits darinya dari Nabi shallallahu 'alaihi wasallam, seperti hadits tersebut." Telah menceritakan kepada kami [Salamah bin Syabib] telah menceritakan kepada kami [al-Hasan bin A'yan] telah menceritakan kepada kami [Fulaih] telah menceritakan kepada kami [Nu'aim bin Abdullah] dari [Salim] mantan budak Syaddad bin al-Had, dia berkata, "Aku sedang bersama [Aisyah] radliallahu 'anha… lalu dia menyebutkan hadits darinya dari Nabi shallallahu 'alaihi wasallam, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>240.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу ‘Абдуллах, вольноотпущенник Шаддада ибн аль-Хади рассказал, что он вошёл к ‘Аише, и она передала от Пророка ﷺ хадис, подобный предыдущему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>240.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 34</td></tr></tbody></table></div>
 

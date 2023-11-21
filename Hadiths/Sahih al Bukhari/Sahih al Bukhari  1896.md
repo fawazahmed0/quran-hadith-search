@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:The Prophet (ﷺ) said, "There is a gate in Paradise called Ar-Rai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Mukhallad] telah menceritakan kepada kami [Sulaiman bin Bilal] berkata, telah menceritakan kepada saya [Abu Hazim] dari [Sahal radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Dalam surga ada satu pintu yang disebut dengan Ar-Rayyan, yang pada hari qiyamat tidak akan ada orang yang masuk ke surga melewati pintu itu kecuali para shaimun (orang-orang yang berpuasa). Tidak akan ada seorangpun yang masuk melewati pintu tersebut selain mereka. Lalu dikatakan kepada mereka; Mana para shaimun, maka para shaimun berdiri menghadap. Tidak akan ada seorangpun yang masuk melewati pintu tersebut selain mereka. Apabila mereka telah masuk semuanya, maka pintu itu ditutup dan tidak akan ada seorangpun yang masuk melewati pintu tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1896</td></tr><tr><td>Arabic No</td><td>1896</td></tr><tr><td>Reference</td><td>Book 30 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля (ибн Са‘да), да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, есть в раю врата, называемые “ар-Раййан”, через которые в День воскрешения будут входить (туда) постящиеся, и не войдёт через (эти врата) никто, кроме них. Будет сказано: “Где соблюдавшие посты?”, — и они выйдут вперёд, а кроме них не войдёт через (эти врата) никто. Когда же войдут они, (эти врата) будут закрыты, и больше никто через них не войдёт»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1896</td></tr><tr><td>Arabic No</td><td>1896</td></tr><tr><td>Reference</td><td>Book 30 Hadith 6</td></tr></tbody></table></div>
 

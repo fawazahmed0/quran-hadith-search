@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sufyan:'Ubaidullah said: "I heard Ibn 'Abbas saying, "Following are som
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari ['Ubaidullah] dia mendengar [Ibnu 'Abbas] radliallahu 'anhuma berkata; "Kebiasaan (yang masih ada pada ummat ini) dari kebiasaan jahiliyyah adalah mencela keturunan dan meratapi (kematian) ". Ubaidullah lupa perkara yang ketiga. Sufyan berkata; Orang-orang mengatakan, bahwa yang ketiga adalah meminta hujan lewat perantara bintang-bintang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3850</td></tr><tr><td>Arabic No</td><td>3850</td></tr><tr><td>Reference</td><td>Book 63 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Отличительными чертами джахилийи является порочение происхождения (людей) и причитание по покойным».\n‘Убайдуллах (один из передатчиков хадиса) забыл третью отличительную черту. Суфьян (другой передатчик) сказал: «Говорят, что третьей чертой было то, что они обращались к звёздам с мольбами о ниспослании дождя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3850</td></tr><tr><td>Arabic No</td><td>3850</td></tr><tr><td>Reference</td><td>Book 63 Hadith 75</td></tr></tbody></table></div>
 

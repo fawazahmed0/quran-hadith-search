@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (may 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Suhail] dari [Abdullah bin Dinar] dari [Abu Shalih] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Iman itu ada tujuh puluh tiga sampai tujuh puluh sembilan, atau enam puluh tiga sampai enam puluh sembilan cabang. Yang paling utama adalah perkataan, LAA ILAAHA ILLALLAHU (Tidak ada tuhan yang berhak disembah selain Allah). Dan yang paling rendah adalah menyingkirkan gangguan dari jalan. Dan malu itu adalah sebagian dari iman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>153</td></tr><tr><td>Arabic No</td><td>35.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Вера имеет более семидесяти (или: более шестидесяти) ответвлений. Наилучшее из них слова “Нет божества, достойного поклонения, кроме Аллаха”, а наименьшее устранение с дороги того, что мешает (людям), и стыдливость одно из ответвлений веры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>153</td></tr><tr><td>Arabic No</td><td>35.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 60</td></tr></tbody></table></div>
 

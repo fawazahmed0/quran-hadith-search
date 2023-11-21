@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Zaid bin Khalid al-Juhani reported the Messenger of Allah (ﷺ) as saying:"Shall
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani] dan [Ahmad bin As Sarah] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Malik bin Anas] dari [Abdullah bin Abu Bakr] bahwa [Ayahnya] mengabarkan kepadanya bahwa [Abdullah bin 'Amru bin Utsman bin 'Affan] telah mengabarkan kepadanya, bahwa [Abdurrahman bin 'Amrah Al Anshari] mengabarkan kepadanya, bahwa [Zaid bin Khalid Al Juhani] mengabarkan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Maukah aku beritahukan kepada kalian tentang seorang saksi terbaik yang datang membawa kesaksiannya, atau memberi kabar mengenai kesaksiannya sebelum ia ditanya mengenainya." -Abdullah bin Abu Bakr merasa ragu manakah di antara keduanya yang beliau sebutkan-. Abu Daud berkata, "Malik berkata, "Yang mengabarkan kesaksiannya, sementara orang yang memilikinya (hak untuk diberi persaksian) tidak mengetahuinya." [Al Hamdani] berkata, "Ia sampaikan kepada penguasa." [Ibnu As As Sarh] berkata, "Atau ia datang membawanya kepada seorang imam." Bentuk pengabaran ada pada hadits Al Hamdani. Ibnu As As Sarh berkata, "Ibnu Abu 'Amrah tidak menyebutkan nama Abdurrahman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1719)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3596</td></tr><tr><td>Arabic No</td><td>3596</td></tr><tr><td>Reference</td><td>Book 25 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Зейда ибн Халида аль-Джухани, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не сообщить ли вам о лучших свидетелях? Это те, которые приносят свидетельство до того, как их об этом попросят». Или: «Сообщают своё свидетельство». Передатчик ‘Абдуллах ибн Абу Бакр сомневался, как именно было сказано. Абу Дауд сказал, что имам Малик сказал: «Тот, кто сообщает своё свидетельство и при этом тот, в чью пользу он свидетельствует, не знает об этом». Аль-Хамдани сказал: «И сообщает о своём свидетельстве правителю». Ибн ас-Сарх сказал: «Или приходит с этим свидетельством к правителю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1719)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3596</td></tr><tr><td>Arabic No</td><td>3596</td></tr><tr><td>Reference</td><td>Book 25 Hadith 26</td></tr></tbody></table></div>
 

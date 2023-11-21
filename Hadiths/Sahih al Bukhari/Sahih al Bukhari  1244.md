@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:When my father was martyred, I lifted the sheet fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] berkata; Aku mendengar [Muhammad bin Al Munkadir] berkata; Aku mendengar [Jabir bin 'Abdullah radliallahu 'anha] berkata: Ketika bapakku meninggal dunia aku menyingkap kain penutup wajahnya, maka aku menangis namun orang-orang melarangku menangis sedangkan Nabi shallallahu 'alaihi wasallam tidak melarangku. Hal ini membuat bibiku Fathimah ikut menangis. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Dia menangis atau tidak menangis, malaikat senantiaa akan tetap menaunginya sampai kalian mengangkatnya". Hadits ini dperkuat pula oleh [Ibnu Juraij] telah mengabarkan kepada saya [Muhammad bin Al Munkadir] bahwa dia mendengar [Jabir radliallahu 'anha]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1244</td></tr><tr><td>Arabic No</td><td>1244</td></tr><tr><td>Reference</td><td>Book 23 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Когда мой отец был убит, я начал плача поднимать одежду с его лица. Люди пытались помешать мне, однако Пророк ﷺ не стал запрещать мне этого, а когда моя тётка Фатима принялась рыдать, Пророк ﷺ сказал: “Будешь ты плакать или нет, (это ничего не меняет, ибо) ангелы продолжали укрывать его своими крыльями до тех пор, пока вы не унесли его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1244</td></tr><tr><td>Arabic No</td><td>1244</td></tr><tr><td>Reference</td><td>Book 23 Hadith 7</td></tr></tbody></table></div>
 

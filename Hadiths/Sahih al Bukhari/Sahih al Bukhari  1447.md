@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "There is no Zakat on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari ['Amru bin Yaha Al Maziniy] dari [bapaknya] berkata; Aku mendengar [Abu Sa'id Al Khudriy] berkata; Nabi Shallallahu'alaihiwasallam telah bersabda: "Tidak ada zakat pada unta dibawah lima ekor, tidak ada zakat harta dibawah lima wasaq dan tidak ada zakat pada hasil tanaman dibawah lima wasaq". Telah menceritakan kepada kami [Muhammad Al Mutsanna] telah menceritakan kepada kami ['Abdul Wahhab] berkata, telah menceritakan kepada saya [Yahya bin Sa'id] berkata, telah mengabarkan kepada saya ['Amru] dia mendengar dari [bapaknya] dari [Abu Sa'id radliallahu 'anhu] dia mendengar dari Nabi Shallallahu'alaihiwasallam seperti hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1447</td></tr><tr><td>Arabic No</td><td>1447</td></tr><tr><td>Reference</td><td>Book 24 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не выплачивается закят со стада, состоящего менее чем из пяти верблюдов, и не выплачивается закят с менее чем пяти “окий” (Прим. пер. — мера веса, один “окий” равен сорока дирхамом) серебра, и не выплачивается закят с урожая менее чем в пять “васков” (Прим. пер. — мера объёма, один “васк” равен шестидесяти “са‘ам”)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1447</td></tr><tr><td>Arabic No</td><td>1447</td></tr><tr><td>Reference</td><td>Book 24 Hadith 50</td></tr></tbody></table></div>
 

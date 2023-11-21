@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The Prophet (ﷺ) said, "Allah will say, 'O Adam!. Adam will 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah berfirman; 'hai Adam'. 'Baik dan aku penuhi panggilan-MU ya Allah, dan seluruh kebaikan di tangan-Mu, " Jawab Adam. Allah melanjutkan; 'datangkan utusan-utusan neraka! ' Adam menjawab; 'berapa utusan neraka? ' Tanya Adam. Allah menjawab; 'Setiap seribu orang, datangkan sembilan ratus sembilan puluh sembilan orang.' Dan ketika itulah anak kecil menjadi beruban karenanya, sebagaimana ayat; 'Dan setiap orang yang hamil melahirkan bayinya, dan kau lihat manusia mabuk padahal sejatinya mereka tidak mabuk, hanya karena siksa Alalh sedemikian dahsyatnya' (QS. Alhajj, 2)." Yang demikian menjadikan mereka gusar, sehingga para sahabat bertanya-tanya; 'Wahai Rasulullah, siapa diantara kami yang termasuk dijebloskan ke neraka itu! ' Nabi menjawab; "Tenanglah kalian, sebab jika Ya'juj dan ma'juj dimasukkan neraka sebanyak seribu, dari kalian hanya satu." Selanjutnya beliau bersabda: "Demi Dzat yang jiwaku berada di Tangan-Nya, sungguh aku berkeinginan sekiranya kalian menjadi sepertiga penghuni surga." Kata Abu Said; lantas kami pun memuji Allah dan bertakbir, kemudian Nabi bersabda: "Demi dzat yang jiwaku berad di Tangan-Nya, sungguh aku berharap jika kalian menjadi separoh penghuni surga, dan permisalan kalian dibandingkan umat lainnya hanyalah bagaikan sehelai rambut putih di kulit sapi hitam atau bagaikan belang hitam di lengan keledai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6530</td></tr><tr><td>Arabic No</td><td>6530</td></tr><tr><td>Reference</td><td>Book 81 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида, что (однажды) Посланник Аллаха ﷺ сказал: «(В День воскресения) Аллах скажет: “О Адам!” (Адам) откликнется: “Вот я перед Тобой и готов служить Тебе, а (всё) благо в Твоих руках! /Лаббайка, ва са‘дайка валь-хайру фи йадайка!/” (Аллах) скажет: “Выведи тех, кому суждено оказаться в огне!” (Адам) спросит: “А сколько их?” (Аллах) скажет: “(Выведи) девятьсот девяносто девять из каждой тысячи”, и после этого поседеют малые (дети), и каждая беременная сложит свою ношу, и увидишь ты людей (будто) пьяными, хотя пьяными они не будут, но суровым будет наказание Аллаха!». (Когда Пророк ﷺ упомянул это), люди были огорчены (и напуганы) и спросили: «О Посланник Аллаха, а кто из нас будет тем человеком(, который спасётся от огня)?» (На это Пророк ﷺ) ответил: «Радуйтесь, ибо один будет из вас, а тысяча из (народов) Йаджудж и Маджудж!» — после чего сказал: «Клянусь Тем, в Чьей длани душа моя, поистине, я надеюсь, что вы составите собой треть обитателей Рая!» — и мы восхвалили и возвеличили Аллаха. Затем он сказал: «Клянусь Тем, в Чьей длани душа моя, поистине, я надеюсь, что вы составите собой половину обитателей Рая! Поистине, по сравнению с другими людьми вы подобны всего лишь белому волоску на шкуре чёрного быка или пятну на ноге осла»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6530</td></tr><tr><td>Arabic No</td><td>6530</td></tr><tr><td>Reference</td><td>Book 81 Hadith 119</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:While I was serving Abu Talha. Abu Dujana and Abu Suhail bin Al-Ba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Qatadah] dari [Anas] radliallahu 'anhu, dia berkata; "Sesungguhnya aku pernah menuangkan minuman campuran busr (kurma muda) dan tamr (kurma kering) kepada Abu Thalhah, Abu Dujanah dan Suhail bin Baidla', tiba-tiba khamr di haramkan, lalu aku tumpahkan semuanya padahal aku adalah pelayan yang bertugas menuangkan minuman dan aku termasuk orang yang paling muda di anatara mereka, kami menganggap perasan tersebut sebagai khamr." ['Amru bin Al Harits] telah menceritakan kepada kami [Qatadah] bahwa dia mendengar dari [Anas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5600</td></tr><tr><td>Arabic No</td><td>5600</td></tr><tr><td>Reference</td><td>Book 74 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Однажды, когда я поил Абу Тальху, Абу Дуджану и Сухейля ибн аль-Байда напитком (приготовленным) из незрелых и спелых фиников, опьяняющие напитки стали запрещены. Тогда я выбросил их, а я был их виночерпием и самым младшим среди них. Тогда мы считали это напиток опьяняющим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5600</td></tr><tr><td>Arabic No</td><td>5600</td></tr><tr><td>Reference</td><td>Book 74 Hadith 26</td></tr></tbody></table></div>
 

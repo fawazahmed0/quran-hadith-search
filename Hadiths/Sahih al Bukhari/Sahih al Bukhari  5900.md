@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) was neither conspicuously tall, nor sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik bin Anas] dari [Rabi'ah bin Abu Abdurrahman] dari [Anas bin Malik] radliallahu 'anhu bahwa dia mendengar Anas berkata; "Rasulullah shallallahu 'alaihi wasallam adalah orang yang berpawakan tidak tinggi sekali dan tidak pula pendek, (kulitnya) tidak putih bule dan tidak pula terlalu coklat, (rambutnya) tidak keriting dan tidak pula lurus, beliau diutus Allah ketika berusia empat puluh tahun, tinggal di Makkah selama sepuluh tahun dan di Madinah sepuluh tahun, sementara rambut yang putih di kepala dan jenggot beliau tidak sampai berjumlah dua puluh helai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5900</td></tr><tr><td>Arabic No</td><td>5900</td></tr><tr><td>Reference</td><td>Book 77 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ не был ни слишком высок, ни мал (ростом) и не был ни слишком белокожим, ни смуглым, а волосы его были ни слишком курчавыми, ни абсолютно прямыми. Аллах отправил его (к людям как посланник), когда он достиг сорока лет, после чего он прожил десять лет в Мекке и десять лет в Медине, а когда Аллах упокоил его, на его голове и бороде не было и двадцати седых волос»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5900</td></tr><tr><td>Arabic No</td><td>5900</td></tr><tr><td>Reference</td><td>Book 77 Hadith 117</td></tr></tbody></table></div>
 

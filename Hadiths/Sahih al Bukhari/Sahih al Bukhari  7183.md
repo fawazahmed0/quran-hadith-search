@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "If somebody on the demand of a judge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashr] telah menceritakan kepada kami [Abdurrazaq] Telah mengabarkan kepada kami [Sufyan] dari [Manshur] dan [Al A'masy] dari [Abu Wa'il] mengatakan, [Abdullah] mengatakan, Nabi shallallahu 'alaihi wasallam bersabda; "Tidaklah seseorang bersumpah dusta dengan tujuan merampas harta orang lain dan dia bertindak zhalim dengan sumpahnya itu, kecuali ia akan bertemu Allah dan Allah dalam keadaan murka terhadapnya, " kemudian Allah menurunkan ayat 'Sesungguhnya orang-orang yang membeli janji Allah dan sumpah mereka dengan harga yang sedikit' (QS. Ali'Imran.77), kemudian [Al Asy'ats] datang ketika [Abdullah] sedang menceritakan kepada mereka, dan mengatakan; sebenarnya ayat itu diturunkan kepada saya dan seseorang yang kuajak bersengketa tentang sebuah sumur, kemudian Nabi shallallahu 'alaihi wasallam bersabda: "apa kamu punya bukti?" "TIDAK" Jawabku. Nabi bersabda: "kalau begitu, suruhlah lawan sengketamu bersumpah!" maka Abdullah mengatakan; 'Kalau bukti sekedar sumpah, tentu dia akan bersumpah. Lantas turunlah ayat: 'Sesungguhnya orang-orang yang membeli janji Allah dan sumpah mereka dengan harga yang sedikit….sampai akhir ayat ' (QS. Ali'Imran)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7183</td></tr><tr><td>Arabic No</td><td>7183</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «(Кто бы) ни дал обязательную клятву (Аллахом), чтобы таким образом присвоить имущество, и он произнёс её ложно, тот встретит Аллаха разгневанным на него». Тогда Аллах ниспослал: «Поистине, для тех, которые продают завет с Аллахом и свои клятвы задёшево, нет доли в последней жизни. Аллах не будет говорить с ними, не посмотрит на них в день воскресения и не очистит их. Им уготованы мучительные страдания» (сура «Али ‘Имран», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7183</td></tr><tr><td>Arabic No</td><td>7183</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

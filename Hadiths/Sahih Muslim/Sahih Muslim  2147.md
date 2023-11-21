@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported that when 'Umar was wounded, there came Suhaib from his house 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ali bin Hujr] telah mengabarkan kepada kami [Syu'aib bin Shafwan Abu Yahya] dari [Abdul Malik bin Umair] dari [Abu Burdah Abu Musa] dari [Abu Musa] ia berkata; Ketika khalifah [Umar] dapat musibah (ditikam orang) Shuhaib datang ke rumahnya. Sesampainya disana, ia berdiri di dekat Umar sambil menangis. Maka Umar pun bertanya, "Kenapa kamu menangis, apakah kamu menangisiku?" Shuhaib menjawab, "Ya, demi Allah, aku menangisi Anda wahai Amirul mukminin." Umar berkata, "Demi Allah, aku ingat bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda: 'Siapa yang ditangisi, maka ia akan disiksa.'" Maka saya pun menuturkan hal itu kepada Musa bin Thalhah, ia pun berkata, "Aisyah berkata; Bahwa hal itu hanya akan terjadi pada orang-orang Yahudi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2147</td></tr><tr><td>Arabic No</td><td>927.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Муса сказал: «Когда ‘Умар был ранен, Сухайб вышел из своего дома, зашёл к ‘Умару, встал рядом с ним и начал плакать. ‘Умар спросил: “Почему ты плачешь? Ты плачешь обо мне?”, тот ответил: “Да, клянусь Аллахом, я плачу о тебе, о повелитель правоверных”. Тогда ‘Умар сказал: “Клянусь Аллахом, ты знаешь, что Посланник Аллаха ﷺ сказал: “Тот, о ком плачут, подвергается мучениям”. Я упомянул об этом Мусе ибн Талхе, и он сказал, что ‘Аиша говорила: “Это касалось (только) иудеев”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2147</td></tr><tr><td>Arabic No</td><td>927.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 25</td></tr></tbody></table></div>
 

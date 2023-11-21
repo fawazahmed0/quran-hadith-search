@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) saw a Bedouin making water in the mosq
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammam] telah mengabarkan kepada kami [Ishaq] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam melihat seorang 'Arab badui kencing di dalam masjid, beliau lalu bersabda: "Biarkanlah." Setelah orang itu selesai, beliau meminta air dan menyiram bekasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>219</td></tr><tr><td>Arabic No</td><td>219</td></tr><tr><td>Reference</td><td>Book 4 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, о том, что однажды Пророк ﷺ увидев, что один бедуин мочится в мечети, сказал: «Оставьте его». Когда он закончил, (Пророк ﷺ) велел принести воды и вылить на это место
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>219</td></tr><tr><td>Arabic No</td><td>219</td></tr><tr><td>Reference</td><td>Book 4 Hadith 85</td></tr></tbody></table></div>
 

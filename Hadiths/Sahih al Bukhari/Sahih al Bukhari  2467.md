@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usama bin Zaid:Once the Prophet (ﷺ) stood at the top of one of the ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Az Zuhriy] dari ['Urwah] aku mendengar ['Usamah radliallahu 'anhu] berkata; "Nabi shallallahu 'alaihi wasallam naik ke atas salah satu dari benteng-benteng Madinah lalu bersabda: "Apakah kalian melihat sebagaimana aku melihat? Sungguh aku melihat tempat-tempat terjadinya fitnah di sela-sela rumah kalian seperti tempat jatuhnya tetesan (air hujan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2467</td></tr><tr><td>Arabic No</td><td>2467</td></tr><tr><td>Reference</td><td>Book 46 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ, поднявшийся на одну из башен Медины, сказал: “Видите ли вы то, что вижу я? Поистине, я вижу, что места смут и бедствий среди ваших домов будут столь же (многочисленны), как и следы от капель (дождя)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2467</td></tr><tr><td>Arabic No</td><td>2467</td></tr><tr><td>Reference</td><td>Book 46 Hadith 28</td></tr></tbody></table></div>
 

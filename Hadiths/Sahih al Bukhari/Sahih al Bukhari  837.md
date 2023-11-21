@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:Whenever Allah's Messenger (ﷺ) finished his prayers with Ta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] telah menceritakan kepada kami [Az Zuhri] dari [Hind binti Al Harits] bahwa [Ummu Salamah] radliallahu 'anha berkata, "Apabila Rasulullah shallallahu 'alaihi wasallam mengucapkan salam, maka seketika selesainya salam beliau itu pula mereka langsung bangkit, sementara beliau berdiam diri sebentar sebelum berdiri." Ibnu Syihab berkata, "Menurutku -dan hanya Allah yang tahu- beliau melakukan itu agar kaum wanita punya kesempatan untuk pergi sehingga seseorang yang berlalu pulang dari kalangan laki-laki tidak bertemu dengan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>837</td></tr><tr><td>Arabic No</td><td>837</td></tr><tr><td>Reference</td><td>Book 10 Hadith 230</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Салама, да будет доволен ею Аллах, сказала: «Когда Посланник Аллаха ﷺ заканчивал произносить слова таслима (после завершения намаза), женщины поднимались, а он задерживался на (своём месте) на короткое время, прежде чем встать».\nИбн Шихаб сказал: «Я считаю, Аллаху ведомо лучше, что его задержка была, чтобы женщины ушли до того, как настигнут их мужчины, которые будут уходить»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>837</td></tr><tr><td>Arabic No</td><td>837</td></tr><tr><td>Reference</td><td>Book 10 Hadith 230</td></tr></tbody></table></div>
 

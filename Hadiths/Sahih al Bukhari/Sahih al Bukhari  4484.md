@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(The wife of the Prophet) Allah's Messenger (ﷺ) said, "Don't y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata; Telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari [Salim bin 'Abdullah] bahwa ['Abdullah bin Muhammad bin Abu Bakr]; Telah mengabarkan kepada kami ['Abdullah bin 'Umar] dari ['Aisyah radliallahu 'anhu] isteri Nabi shallallahu 'alaihi wasallam bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukankah engkau melihat bahwa kaummu ketika membangun Ka'bah mengurangi pondasi-pondasi Ibrahim 'Alaihissalam?" Maka saya katakan; wahai Rasulullah shallallahu 'alaihi wasallam, tidakkah engkau kembalikan ke pondasi-pondasi Ibrahim 'alaihissalam? Beliau menjawab: "Kalaulah tidak karena kaummu dekat dengan masa kekafiran." Abdullah bin Umar berkata; seandainya Aisyah telah mendengar hal ini dari Rasulullah shallallahu 'alaihi wasallam tentu saya tidak akan melihat Rasulullah shallallahu 'alaihi wasallam meninggalkan dari menyentuh dua rukun yang terletak setelah Hijr, hanya saja Ka'bah belum disempurnakan di atas pondasi-pondasi Ibrahim 'alaihissalam ketika itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4484</td></tr><tr><td>Arabic No</td><td>4484</td></tr><tr><td>Reference</td><td>Book 65 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах: «Посланник Аллаха ﷺ сказал: “Разве ты не видишь, что строя Каабу, твои соплеменники не построили её полностью на основании Ибрахима”. Я сказала: “О Посланник Аллаха, почему бы тебе не вернуть её на основание Ибрахима?” Он ответил: “Если бы твои соплеменники не были бы близки к неверию (я бы так и сделал)”».\n‘Абдуллах ибн ‘Умар сказал: «‘Аиша, должно быть, действительно слышала это от Посланника Аллаха ﷺ, потому что я считаю, что Посланник Аллаха ﷺ не прикасался к двум углам, которые находятся за аль-Хиджром, только потому что Кааба не была построена на основании Ибрахима»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4484</td></tr><tr><td>Arabic No</td><td>4484</td></tr><tr><td>Reference</td><td>Book 65 Hadith 11</td></tr></tbody></table></div>
 

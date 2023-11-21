@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) once entered upon me in a very happy moo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Urwah] dari [Aisyah] radliallahu 'anha mengatakan; Rasulullah Shallallahu'alaihiwasallam menemui kami dengan keceriaan wajahnya yang bersinar, lantas beliau bersabda: "Tidakkah tadi engkau lihat, bahwa Mujazzaz memandang Zaid bin haritsah dan Usamah bin Zaid?" beliau bersabda: "Sesungguhnya telapak kaki-telapak kaki ini merupakan bagian satu dengan yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6770</td></tr><tr><td>Arabic No</td><td>6770</td></tr><tr><td>Reference</td><td>Book 85 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что (однажды) Посланник Аллаха ﷺ зашёл к ней радостный, что было видно по его лицу, и сказал: «Знаешь ли ты, что Муджаззиз посмотрел недавно на (ступни) Зейда ибн Харисы и Усамы ибн Зейда и сказал: “Это ступни людей, один из которых происходит от другого!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6770</td></tr><tr><td>Arabic No</td><td>6770</td></tr><tr><td>Reference</td><td>Book 85 Hadith 46</td></tr></tbody></table></div>
 

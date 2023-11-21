@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) said, "The freed slave belongs to the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Mu'awiyah bin Qurrah] dan [Qatadah] dari [Anas bin Malik] radliallahu 'anhu, dari Nabi Shallallahu'alaihi wa sallam bersabda: "Maula suatu kaum adalah bagian diri mereka." atau sebagaimana beliau sabdakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6761</td></tr><tr><td>Arabic No</td><td>6761</td></tr><tr><td>Reference</td><td>Book 85 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса бин Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Вольноотпущенник относится к тем, кто дал ему свободу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6761</td></tr><tr><td>Arabic No</td><td>6761</td></tr><tr><td>Reference</td><td>Book 85 Hadith 38</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas: that the Prophet (ﷺ) said, "For every prophet there is an invoc
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 [Khalifah] pernah berkata kepadaku; [Mu'tamar] mengatakan; saya mendengar [Ayahku] dari [Anas] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Setiap Nabi pernah meminta suatu permintaan -atau beliau bersabda- setiap Nabi mempunyai doa yang telah dikabulkan, sedang aku ingin menyimpan do'aku sebagai syafa'at untuk umatku di hari Kiamat nanti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6305</td></tr><tr><td>Arabic No</td><td>6305</td></tr><tr><td>Reference</td><td>Book 80 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Каждый пророк обращался с просьбой», или он сказал: «У каждого пророка была мольба, с которой он обратился к Аллаху, и на которую (Аллах обязательно) давал ответ, я же сделал свою мольбу (в качестве) заступничества за свою общину в День воскрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6305</td></tr><tr><td>Arabic No</td><td>6305</td></tr><tr><td>Reference</td><td>Book 80 Hadith 2</td></tr></tbody></table></div>
 

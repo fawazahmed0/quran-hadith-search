@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The sunnah for one who is observing i'tikaf (in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah], telah mengabarkan kepada kami [Khalid], dari [Abdurrahman bin Ishaq] dari [Az Zuhri], dari ['Urwah] dari [Aisyah] bahwa ia berkata; yang disunahkan atas orang yang beri'tikaf adalah tidak menjenguk orang yang sedang sakit, serta tidak mengiringi jenazah serta tidak menyentuh wanita, tidak bercampur dengannya dan tidak keluar untuk suatu keperluan kecuali karena sesuatu yang harus ia lakukan. Dan tidak ada i'tikaf kecuali disertai puasa dan tidak ada i'tikaf kecuali di Masjid yang padanya dilakukan shalat Jum'at. Abu Daud berkata; selain Abdurrahman tidak mengatakan padanya; tidak Aisyah berkata; yang disunahkan. Abu Daud berkata; ia menjadikannya sebagai perkataan Aisyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2473</td></tr><tr><td>Arabic No</td><td>2473</td></tr><tr><td>Reference</td><td>Book 14 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, также сказала: «Сунна для неотлучно пребывающего в мечети не навещать больных, не участвовать в похоронной процессии, не касаться женщины и не соединяться с ней и не покидать мечеть, кроме как по необходимости. И не может быть неотлучного пребывания в мечети без поста, и не может быть неотлучного пребывания в иной мечети, кроме той, в которой совершается пятничная молитва»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2473</td></tr><tr><td>Arabic No</td><td>2473</td></tr><tr><td>Reference</td><td>Book 14 Hadith 161</td></tr></tbody></table></div>
 

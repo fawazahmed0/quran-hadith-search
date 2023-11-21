@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al 'Ala]; Telah menceritakan kepada kami [Abu Usamah] dari [Sa'id bin Abu 'Arubah]; Telah menceritakan kepada kami [Qatadah]; [Anas bin Malik] telah memberitakan kepada mereka, bahwa Rasulullah shallallahu 'alaihi wasallam telah memberikan dispensasi (keringanan) kepada Abdurrahman bin Auf dan Zubair bin Awwam untuk mengenakan pakaian sutera dalam perjalanan karena adanya penyakit gatal-gatal atau penyakit lain yang menimpa mereka berdua. Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Muhammad bin Bisyr]; Telah menceritakan kepada kami [Sa'id] dengan sanad yang serupa, tetapi dia tidak menyebutkan 'di dalam perjalanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5429</td></tr><tr><td>Arabic No</td><td>2076.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5429</td></tr><tr><td>Arabic No</td><td>2076.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 44</td></tr></tbody></table></div>
 

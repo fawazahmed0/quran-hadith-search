@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Abd Yazid, the father of Rukanah and his brothers, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [sebagian anak-anak Abu Rafi'] mantan budak Nabi shallallahu 'alaihi wasallam, dari [Ikrimah] mantan budak Ibnu Abbas, dari [Ibnu Abbas], ia berkata; Abdu Yazid? dan saudara-saudaranya yaitu Abu Rukanah telah mencerai Ummu Rukanah dan menikahi seorang wanita dari Muzainah, kemudian wanita tersebut datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; ia tidak memberiku kepuasan kecuali seperti sehelai rambut ini. Ia mengambil sehelai rambut dari kepalanya. Maka Kemudian beliau berkata kepada orang-orang yang duduk bersamanya: "Apakah kalian melihat Fulan menyerupai demikian dan demikian dari Abdu Yazid? dan Fulan menyerupai darinya demikian dan demikian?" Mereka mengatakan; ya. Nabi shallallahu 'alaihi wasallam berkata kepada Abdu Yazid?: "Ceraikan dia!" Lalu ia melakukan hal tersebut, kemudian beliau berkata: "Kembalilah kepada isterimu yaitu Ummu Rukanah!" Ia berkata; sesungguhnya aku telah mencerainya tiga kali wahai Rasulullah. Beliau berkata: "Aku telah mengetahui, kembalilah kepadanya!" Dan beliau membacakan ayat: "Hai Nabi, apabila kamu menceraikan isteri-isterimu maka hendaklah kamu ceraikan mereka pada waktu mereka dapat (menghadapi) iddahnya (yang wajar)." Abu Daud berkata; dan hadits Nafi' bin 'Ujair, [Abdullah bin Ali bin Yazid? bin Rukanah] dari [ayahnya] dari [kakeknya] bahwa Rukanah telah isterinya sama sekali, kemudian Nabi shallallahu 'alaihi wasallam mengembalikannya kepada Rukanah, hadits tersebut lebih shahih karena anak seseorang dan keluarganya lebih mengetahuinya. Sesungguhnya Rukanah telah mencerai isterinya sama sekali dan Nabi shallallahu 'alaihi wasallam menjadikannya sebagai satu kali talak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2196</td></tr><tr><td>Arabic No</td><td>2196</td></tr><tr><td>Reference</td><td>Book 13 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «‘Абд Язид Абу Рукана дал развод своей жене Умм Рукане и женился на женщине из племени Музайна. Она пришла к Пророку ﷺ и сказала: “Мне толку от него столько, столько от этого волоса! Освободи же меня от брака с ним!” И она выдернула волос со своей головы. Тогда Пророк ﷺ рассердился и позвал Рукану и его братьев, а потом сказал своим собеседникам: “Считаете ли вы, что этот и этот (сыновья) похожи на ‘Абд Язида?” Они сказали: “Да”. Тогда Посланник Аллаха ﷺ сказал: “Дай ей развод”. Он подчинился. Потом Посланник Аллаха ﷺ сказал: “Верни свою жену Умм Рукану”. Он сказал: “Но я дал ей развод трижды, о Посланник Аллаха”. Он ответил: “Я знаю. Верни её”, после чего прочитал: “Когда вы даёте жёнам развод, то разводитесь в течение установленного срока”». Абу Дауд сказал о хадисе Нафи‘а ибн Уджайра и Абдуллаха ибн ‘Али ибн Язида ибн Руканы от его отца от его деда о том, что Рукана дал своей жене окончательный развод, но Пророк ﷺ вернул ему её: «Это более надёжный хадис, поскольку его передают дети и родственники того, о ком идёт речь, а они, конечно же, знают о нём больше, чем посторонние, и в нём говорится, что Рукана дал жене окончательный (трёхкратный) развод (за один раз), и Пророк ﷺ засчитал ему это как однократный развод»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2196</td></tr><tr><td>Arabic No</td><td>2196</td></tr><tr><td>Reference</td><td>Book 13 Hadith 22</td></tr></tbody></table></div>
 

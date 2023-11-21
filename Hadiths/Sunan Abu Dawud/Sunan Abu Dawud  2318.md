@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: Explaining the verse; "For those who can do it (wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Al Mutsanna], telah menceritakan kepada kami [Ibnu Abu Adi] dari [Sa'id] dari [Qatadah], dari ['Azrah] dari [Sa'id bin Jubair] dari [Ibnu Abbas]: WA 'ALALLADZII YUTHIIQUUNAHU FIDYATUN THA'AAMU MISKIIN (dan bagi orang yang berat menjalankanya, wajib membayar fidyah, yaitu memberi makan seorang miskin), ia berkata; hal tersebut merupakan keringanan bagi laki-laki tua dan wanita tua, dan mereka -sementara kedua mampu melakukan puasa- agar berbuka dan memberi makan setiap hari satu orang miskin, dan keringanan bagi orang yang hamil dan menyusui apabila merasa khawatir. Abu Daud berkata; yaitu khawatir kepada anak mereka berdua, maka mereka berbuka dan memberi makan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2318</td></tr><tr><td>Arabic No</td><td>2318</td></tr><tr><td>Reference</td><td>Book 14 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал, комментируя слова Всевышнего «А тем, которые способны поститься с трудом, следует в искупление накормить бедняка» (сура 2 «аль-Бакара», аят 184): «Это было разрешение кормить бедняков вместо соблюдения поста, данное старым мужчинам и женщинам, способным соблюдать пост, а также беременным и кормящим: если они боялись (Абу Дауд сказал: «То есть за своих детей»), они могли кормить бедняков вместо соблюдения поста»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2318</td></tr><tr><td>Arabic No</td><td>2318</td></tr><tr><td>Reference</td><td>Book 14 Hadith 6</td></tr></tbody></table></div>
 

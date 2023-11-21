@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:I heard Ibn Az-Zubair who was on the pulpit at Mecca, del
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Abdurrahman bin Sulaiman bin Al Ghasil] dari ['Abbas bin Sahl bin Sa'd] dia berkata; saya mendengar [Ibnu Zubair] dalam khutbahnya di atas mimbar ketika di Makkah, katanya; "Wahai sekalian manusia, sesungguhnya Nabi shallallahu 'alaihi wasallam bersabda: 'Sekiranya anak Adam diberi satu bukit yang dipenuhi dengan emas, niscaya ia akan menginginkan bukit yang kedua, dan apabila diberi yang kedua, niscaya ia menginginkan bukit yang ketiga, dan tidaklah perut anak Adam dipenuhi melainkan dengan tanah, dan Allah akan menerima taubat siapa saja yang bertaubat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6438</td></tr><tr><td>Arabic No</td><td>6438</td></tr><tr><td>Reference</td><td>Book 81 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Сахля ибн Са‘да, да будет доволен им Аллах, сказал: «Я слышал, как Ибн аз-Зубайр, который находился на минбаре в Мекке, произнося проповедь, сказал: “О люди! Поистине, Пророк ﷺ говорил: “Если бы сыну Адама дали долину, полную золота, то он непременно пожелал бы иметь вторую, а если бы ему дали вторую, то он хотел бы иметь третью, ибо ничто не наполняет живот сына Адама, кроме земли. И Аллах принимает покаяние того, кто раскалился”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6438</td></tr><tr><td>Arabic No</td><td>6438</td></tr><tr><td>Reference</td><td>Book 81 Hadith 27</td></tr></tbody></table></div>
 

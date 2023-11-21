@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I heard Allah's Messenger (ﷺ) in his prayer, seeking refuge wi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul Aziz bin Abdullah], telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih] dari [Ibnu Syihab] dari ['Urwah], bahwasanya ['Aisyah] radliallahu 'anha mengatakan; "Aku mendengar Rasulullah shallallahu 'alaihi wasallam selalu meminta perlindungan dari fitnah dajjal dalam shalatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7129</td></tr><tr><td>Arabic No</td><td>7129</td></tr><tr><td>Reference</td><td>Book 92 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен Аллах ею и её отцом, сказала: «Я слышала, как Посланник Аллаха ﷺ совершая молитву, просил у Аллаха защиту от искушения Даджаля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7129</td></tr><tr><td>Arabic No</td><td>7129</td></tr><tr><td>Reference</td><td>Book 92 Hadith 76</td></tr></tbody></table></div>
 

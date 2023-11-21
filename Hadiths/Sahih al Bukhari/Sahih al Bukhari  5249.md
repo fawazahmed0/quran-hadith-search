@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin 'Abis:I heard Ibn 'Abbas answering a man who asked hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Sufyan] dari [Abdurrahman bin Abis] Aku mendengar [Ibnu Abbas] radliallahu 'anhuma, bahwa ia pernah ditanya oleh seorang laki-laki, "Apakah Anda pernah shalat 'Ied Fithri atau Adlha bersama Rasulullah shallallahu 'alaihi wasallam?" Ia menjawab, "Ya. Sekiranya bukan karena kedudukanku saat itu, aku tidak mungkin melihatnya." Yakni, saat itu ia masih kecil. Ibnu Abbas melanjutkan, "Saat itu, Rasulullah shallallahu 'alaihi wasallam keluar lalu shalat dan melanjutkannya dengan khuthbah. Beliau tidak menyebutkan adzan dan tidak pula iqamah. Sesudah itu, beliau mendatangi kaum wanita dan memberi peringatan bagi mereka dan memerintahkan mereka untuk bersedekah, maka aku melihat mereka mempreteli perhiasan telinga dan leher mereka lalu menyerahkan (anting dan kalung) mereka kepada Bilal." Kemudian ia bersama Bilal mengangkatnya ke rumah beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5249</td></tr><tr><td>Arabic No</td><td>5249</td></tr><tr><td>Reference</td><td>Book 67 Hadith 182</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн ‘Абис рассказал, что один человек спросил Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Совершал ли ты праздничную молитву ‘ид аль-Адха или ‘ид аль-Фитр с Посланником Аллаха ﷺ?» Он ответил: «Да, и, если бы не моё положение при нём, я бы не смог принимать участие в этих молитвах, поскольку был слишком мал. Посланник Аллаха ﷺ пришёл и совершил молитву, а потом произнёс проповедь, (и Ибн ‘Аббас ничего не упомянул об азане или икамате). Затем он пришёл к женщинам и стал увещевать их, и напоминать им, и приказал им подавать милостыню. И я видел, как они потянулись к своим серьгам и кольцам и отдали их Билялю. Затем он (Пророк ﷺ) отправился домой вместе с Билялем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5249</td></tr><tr><td>Arabic No</td><td>5249</td></tr><tr><td>Reference</td><td>Book 67 Hadith 182</td></tr></tbody></table></div>
 

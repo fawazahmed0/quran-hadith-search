@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud:A man came and said, "O Allah's Messenger (ﷺ)! By Allah, I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Isma'il] berkata, "Aku mendengar [Qais] berkata, telah mengabarkan kepada ku [Abu Mas'ud] bahwa ada seseorang berkata, "Wahai Rasulullah, demi Allah! Aku mengakhirkan shalat shubuh berjama'ah karena fulan yang memanjangkan bacaan dalam shalat bersama kami." Maka aku belum pernah melihat Rasulullah shallallahu 'alaihi wasallam marah dalam memberi pelajaran melebihi marahnya pada hari itu. Beliau kemudian bersabda: "Sungguh di antara kalian ada orang yang dapat menyebabkan orang lain berlari memisahkan diri. Maka bila seseorang dari kalian memimpin shalat bersama orang banyak hendaklah dia melaksanakannya dengan ringan. Karena di antara mereka ada orang yang lemah, lanjut usia dan orang yang punya keperluan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>702</td></tr><tr><td>Arabic No</td><td>702</td></tr><tr><td>Reference</td><td>Book 10 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мас‘уда, да будет доволен им Аллах, что как-то раз один человек сказал: «О Посланник Аллаха, клянусь Аллахом, я пропускаю (коллективный) утренний намаз лишь потому, что такой-то проводит его с нами слишком долго».\n(Абу Мас‘уд сказал): «И я никогда не видел, чтобы Посланник Аллаха ﷺ наставляя кого-нибудь, гневался бы сильнее, чем в тот день. Потом он сказал: “Поистине, некоторые из вас внушают (людям) отвращение (к благим делам)! Пусть тот из вас, кто станет проводить намаз с людьми, сокращает, ведь есть среди них слабые, старые и те, у кого неотложные дела!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>702</td></tr><tr><td>Arabic No</td><td>702</td></tr><tr><td>Reference</td><td>Book 10 Hadith 97</td></tr></tbody></table></div>
 

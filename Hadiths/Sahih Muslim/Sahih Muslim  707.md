@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported:The Messenger of Allah (ﷺ) said: When anyone amon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami [Abu Kuraib] telah mengabarkan kepada kami [Ibnu Abi Zaidah] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami [Amru an-Naqid] dan [Ibnu Numair] keduanya berkata, telah menceritakan kepada kami [Marwan bin Mu'awiyah al-Fazari] semuanya dari [Ashim] dari [Abu al-Mutawakkil] dari [Abu Sa'id al-Khudri] dia berkata, Rasulullah shallallahu 'alaihi wasallam bersabda, "Apabila salah seorang dari kalian menyenggamai istrinya, kemudian berkehendak untuk mengulanginya lagi maka hendaklah dia berwudhu." Abu Bakar menambahkan dalam haditsnya, "Antara keduanya ada wudhu." Dan dia berkata, "Kemudian dia ingin mengulanginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>707</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 3 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас вступит в половую связь с женой, а потом захочет сделать это ещё раз, пусть (сначала) совершит малое омовение /вудуъ/».Глава: обход жён, совершая большое омовение /гусль/ один раз
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>707</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 3 Hadith 29</td></tr></tbody></table></div>
 

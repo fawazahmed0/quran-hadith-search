@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn 'Abî 'Awfâ (que Dieu l'agrée) a dit : Nous accompagnions l'Env
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dan [Abbad bin Al Awwam] dari [Asy Syaibanii] dari [Ibnu Abu Aufa] radliallahu 'anhu, ia berkata; Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, ketika matahari telah terbenam, maka beliau pun bersabda kepada seorang laki-laki, "Turun dan siapkanlah makan kita." Laki-laki itu pun berkata, "Wahai Rasulullah, sekiranya Tuan menunggu agak petang?" beliau bersabda: "Turun dan siapkanlah makan kita." Laki-laki itu berkata, "Hari masih siang." Akhirnya laki-laki itu pun turun dan menyiapkannya untuk beliau. Kemudian beliau langsung minum, dan bersabda: "Apabilah kalian telah melihat malam datang dari arah ini -beliau memberi isyarat dengan tangannya ke arah timur- maka seorang yang berpuasa sudah boleh berbuka." Dan telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Sulaiman Asy Syaibani] ia berkata, saya mendengar [Abdullah bin Abu Aufa] radliallahu 'anhu berkata; Kami pernah berjalan bersama Rasulullah shallallahu 'alaihi wasallam dan saat itu beliau sedang berpuasa. Ketika matahari telah terbenam beliau bersabda: "Wahai Fulan, turun dan sediakanlah makan kita." Yakni sebagaimana hadits Ibnu Mushir dan Abbad bin Al Awwam. Dan Telah menceritakan kepada kami [Ibnu Abu Umar] telah mengabarkan kepada kami [Sufyan] -dalam jalur lain- Dan telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Jarir] keduanya dari [Asy Syaibani] dari [Ibnu Abu Aufa] -dalam jalur lain- Dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] keduanya berkata, telah menceritakan kepada kami [Syu'bah] dari [Asy Syaibani] dari [Ibnu Abu Aufa] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, yakni semakna dengan hadits Ibnu Mushir dan Abbad dan Abdul Wahid. Dan di dalam hadits mereka tidak seorang pun yang mencantumkan; "Di bulan Ramadlan." Dan tidak pula ungkapan, "Dan malam datang dari arah ini." kecuali pada riwayat Husyaim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>1101.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>1101.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 66</td></tr></tbody></table></div>
 

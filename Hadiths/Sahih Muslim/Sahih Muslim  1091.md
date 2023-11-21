@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that the Messenger of Allah (may peace he upon him) used to pron
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr al-'Abdi] telah menceritakan kepada kami [Sa'id bin Abi 'Arubah] dari [Qatadah] dari [Mutharrif bin Abdullah bin asy-Syikhkhir] bahwa [Aisyah] radhiyallahu'anhu memberitahukannya bahwa Rasulullah Shallallahu'alaihiwasallam dahulu berdoa dalam rukuk dan sujudnya, "Mahasuci, Maha Qudus, Rabb malaikat dan ruh." Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abu Dawud] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku [Qatadah] dia berkata, "Saya mendengar [Mutharrif bin Abdullah bin asy-Syikhkhir], [Abu Dawud] berkata, dan telah menceritakan kepadaku [Hisyam] dari [Qatadah] dari [Mutharrif] dari [Aisyah radhiyallahu'anhu] dari Nabi Shallallahu'alaihiwasallam dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1091</td></tr><tr><td>Arabic No</td><td>487.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 253</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что совершая свои поясные и земные поклоны, Посланник Аллаха ﷺ обычно говорил: «Преславный, Пресвятой, Господь ангелов и Духа /Cуббухун, Куддусун, Раббу-ль-маляъикяти ва-р-рухи/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1091</td></tr><tr><td>Arabic No</td><td>487.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 253</td></tr></tbody></table></div>
 

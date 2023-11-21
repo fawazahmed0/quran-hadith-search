@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abdullah ibn al-Harith reported on the authority of his father al-Harith:(My fat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Katsir], telah menceritakan kepada Kami [Sulaiman bin Katsir] dari [Humaid Ath Thawil] dari [Ishaq bin Abdullah bin Al Harits] dari [ayahnya] dan Al Harits adalah wakil Utsman di Thaif, kemudian ia membuat makanan untuk Utsman yang berisi burung puyuh betina dan jantan, serta daging keledai liar. Ia berkata; kemudian Al Harits mengirim utusan kepada [Ali bin Abu Thalib]. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam datang kepadanya sementara ia sedang merontokkan daun-daun pohon untuk makan unta-untanya, beliau datang kepadanya sementara ia menghilangkan daun-daun yang rontok tersebut dari tangannya. Mereka berkata kepadanya; makanlah. Kemudian ia berkata; berikan makanan tersebut kepada orang-orang yang tidak berihram, aku sedang berihram. Kemudian Ali berkata; aku bertanya dengan nama Allah kepada orang-orang di sini yang berasal dari Asyja', tahukah kalian bahwa Rasulullah shallAllahu wa'alaihi wa sallam telah diberi keledai liar oleh seseorang sementara beliau sedang berihram, dan beliau enggan untuk memakannya? Mereka berkata; ya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1849</td></tr><tr><td>Arabic No</td><td>1849</td></tr><tr><td>Reference</td><td>Book 11 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн аль-Харис передаёт, что аль-Харис, наместник ‘Усмана, да будет доволен им Аллах, в Таифе, приготовил для ‘Усмана угощение из куропаток и дичи [, добытых на охоте,] и послал его пригласить ‘Али ибн Абу Талиба. Посланец пришёл к нему, когда он отбивал палкой листья, размягчая их для своих верблюдов. Он подошёл, отряхивая руки, и ему сказали: «Ешь». Он сказал: «Накормите этим кого-нибудь, кто не в состоянии ихрама, что же до меня, то я облачился в ихрам». Затем ‘Али, да будет доволен им Аллах, сказал: «Заклинаю вас Аллахом, о ашджаиты! Знаете ли вы о том, что, когда Посланнику Аллаха ﷺ облачённому в ихрам, один человек подарил мясо дикого осла, он отказался есть его?» Люди ответили: «Да»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1849</td></tr><tr><td>Arabic No</td><td>1849</td></tr><tr><td>Reference</td><td>Book 11 Hadith 129</td></tr></tbody></table></div>
 

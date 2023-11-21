@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:I said to 'Aisha, "O Mother! Did Prophet Muhammad see his Lord?"
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Waki'] dari [Ismail bin Abu Khalid] dari ['Amir] dari [Masruq] dia berkata; Aku bertanya kepada ['Aisyah radliallahu 'anha] wahai Ibu, Apakah benar Nabi shallallahu 'alaihi wasallam pernah melihat Rabbnya? Aisyah menjawab; Sungguh rambutku berdiri (karena kaget) atas apa yang kamu katakan. Tiga perkara yang barang siapa mengatakannya kepadamu, maka sungguh ia telah berdusta. Barang siapa mengatakan kepadamu bahwa Muhammad shallallahu 'alaihi wasallam pernah melihat Rabbnya, maka ia telah berdusta. Lalu Aisyah membaca ayat; Dia tidak dapat dicapai oleh penglihatan mata, sedang Dia dapat melihat segala yang kelihatan; dan Dialah Yang Maha Halus lagi Maha Mengetahui. (Al An'am: 103). Dan tidak mungkin bagi seorang manusiapun bahwa Allah berkata-kata dengan dia kecuali dengan perantaraan wahyu atau dibelakang tabir. (As Syura: 51). Dan barang siapa yang mengatakan kepadamu bahwa beliau mengetahui apa yang akan terjadi pada hari esok maka ia telah berdusta. Lalu Aisyah membaca ayat; Dan tiada seorangpun yang dapat mengetahui (dengan pasti) apa yang akan diusahakannya besok. (Luqman: 34). Dan barang siapa yang mengatakan kepadamu bahwa beliau menyembunyikan sesuatu, maka ia telah berdusta. Lalu Aisyah membaca ayat; Hai Rasul, sampaikanlah apa yang diturunkan kepadamu dari Tuhanmu. (Al Maidah; 67). Hanya saja beliau pernah melihat bentuk Jibril dua kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4855</td></tr><tr><td>Arabic No</td><td>4855</td></tr><tr><td>Reference</td><td>Book 65 Hadith 376</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрук рассказывал: «Однажды я сказал ‘Аише, да будет доволен ею Аллах: “О мать! Видел ли Мухаммад ﷺ своего Господа?” Она ответила: “От твоего вопроса у меня волосы встали дыбом. Как ты не знаешь трёх вещей, солжёт тот, кто расскажет вам о них: солжёт тот, кто скажет, что Мухаммад ﷺ видел своего Господа”, затем она прочитала: “Взоры не могут постичь Его, а Он постигает взоры. Он — Проницательный (или Добрый), Сведущий”, “Человек не достоин того, чтобы Аллах разговаривал с ним иначе, как посредством откровения или через завесу”. Она продолжила: “И солжёт тот, кто скажет, что он знает то, что произойдёт завтра”, затем она прочитала: “…и ни один человек не знает, что он приобретет завтра…”. Далее она сказала: “И солжёт тот, кто скажет, что он утаил что-то из откровения”, после чего прочитала: “О Посланник! Возвести то, что ниспослано тебе от своего Господа”. ‘Аиша добавила: “Однако он видел Джибриля в его (истинном) образе и обличье два раза”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4855</td></tr><tr><td>Arabic No</td><td>4855</td></tr><tr><td>Reference</td><td>Book 65 Hadith 376</td></tr></tbody></table></div>
 

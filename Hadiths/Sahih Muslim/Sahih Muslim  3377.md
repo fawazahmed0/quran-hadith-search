@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yahya b. Sa'id (Allah be pleased with him) reported:I said to Abu Salih: Did you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Abu Umar] semuanya dari [Ats Tsaqafi] - [Ibnul Mutsanna] berkata- Telah menceritakan kepada kami [Abdul Wahhab] ia berkata, saya mendengar [Yahya bin Sa'id] berkata; Aku bertanya kepada [Abu Shalih], "Apakah Anda pernah mendengar Abu Hurairah menyebutkan keutamaan shalat di dalam Masjid Rasulullah shallallahu 'alaihi wasallam?" Ia menjawab, "Tidak, akan tetapi [Abdullah bin Ibrahim bin Qarizh] yang telah mengabarkan kepadaku, bahwa ia mendengar [Abu Hurairah] menceritakan bahwasanya; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Satu Shalat (yang dikerjakan) di masjidku ini, lebih baik daripada seribu shalat atau seperti seribu shalat di masjid lain, kecuali shalat itu dikerjakan di Masjidil Haram.'" Dan telah menceritakannya kepadaku [Zuhair bin Harb] dan [Ubaidullah bin Sa'id] dan [Muhammad bin Hatim] mereka berkata, Telah menceritakan kepada kami [Yahya Al Qaththan] dari [Yahya bin Sa'id] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3377</td></tr><tr><td>Arabic No</td><td>1394.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 581</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3377</td></tr><tr><td>Arabic No</td><td>1394.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 581</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:I swear by Allah, the Messenger of Allah (ﷺ) prayed over Suha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] telah menceritakan kepada kami [Fulaih bin Sulaiman] dari [Shalih bin 'Ajlan] dan [Muhammad bin Abdullah bin 'Abbad] dari ['Abbad bin Abdullah bin Az Zubair] dari [Aisyah], ia berkata; Demi Allah, Rasulullah shallallahu 'alaihi wasallam tidak menshalati Suhail anak Al Baidha' kecuali di Mesjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (973)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3189</td></tr><tr><td>Arabic No</td><td>3189</td></tr><tr><td>Reference</td><td>Book 21 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Клянусь Аллахом, Посланник Аллаха ﷺ совершал погребальную молитву по Сухайлю ибн аль-Байда не иначе как в мечети»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (973)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3189</td></tr><tr><td>Arabic No</td><td>3189</td></tr><tr><td>Reference</td><td>Book 21 Hadith 101</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Abou Hourayra (que Dieu l'agrée), un bédouin vint trouver le Prophète (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Bakar bin Ishaq] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Abu Zur'ah] dari [Abu Hurairah] bahwa seorang Badui mendatangi Rasulullah shallallahu 'alaihi wasallam seraya berkata, 'Wahai Rasulullah shallallahu 'alaihi wasallam, tunjukkanlah kepadaku pada suatu amalan yang mana jika aku mengamalkannya niscaya aku masuk surga? ' Beliau menjawab: 'Kamu menyembah Allah, tidak mensyirikkan-Nya dengan sesuatu apa pun, mendirikan shalat yang wajib, menunaikan zakat yang fardlu, dan berpuasa Ramadlan.' Dia berkata, 'Demi Dzat yang jiwaku berada di Tangan-Nya, aku tidak akan menambah atas ini sedikit pun selamanya dan tidak pula mengurangi darinya.' Ketika dia pamit pergi, maka Rasulullah bersabda: "Barangsiapa ingin melihat seorang laki-laki dari penduduk surga maka hendaklah dia melihat kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>107</td></tr><tr><td>Arabic No</td><td>14.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что однажды к Посланнику Аллаха ﷺ пришёл какой-то бедуин, и сказал: «О Посланник Аллаха, укажи мне на такое дело, совершив которое я войду в Рай». (В ответ Посланник Аллаха ﷺ) сказал: «Поклоняйся Аллаху, ничего не придавая Ему в сотоварищи, совершай предписанную молитву, выплачивай обязательный закят и постись в Рамадане». (Бедуин) воскликнул: «Клянусь Тем, в чьей длани душа моя, я ничего не добавлю к этому никогда и не убавлю из него!», а когда он повернулся (, чтобы уйти), Пророк ﷺ сказал: «Пусть тот, кому доставит радость взгляд на человека из числа обитателей Рая, посмотрит на этого (бедуина)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>107</td></tr><tr><td>Arabic No</td><td>14.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 15</td></tr></tbody></table></div>
 

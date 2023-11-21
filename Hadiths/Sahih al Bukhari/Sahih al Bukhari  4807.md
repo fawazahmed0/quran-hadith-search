@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Awwam:I asked Mujahid regarding the prostration in Surat Sa'd. He sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abdullah] Telah menceritakan kepada kami [Muhammad bin 'Ubaid At Thanafisi] dari [Al 'Awwam] dia berkata; Aku bertanya kepada [Mujahid] mengenai ayat sajdah pada surat Shaad. Ia menjawab; Aku bertanya kepada Ibnu Abbas, pada ayat mana kamu bersujud? [Ibnu Abbas] menjawab; Apakah kamu tidak membaca; dan kepada sebahagian dari keturunannya (Nuh) yaitu Daud, Sulaiman,... (Al An'am: 84). Mereka itulah orang-orang yang telah diberi petunjuk oleh Allah, maka ikutilah petunjuk mereka. (Al An'am: 90). Nabi Daud adalah salah satu orang yang diperintahkan oleh Rasulullah shallallahu 'alaihi wasallam untuk kalian ikuti. Maka ketika Daud sujud pada surat itu, Rasulullah shallallahu 'alaihi wasallam pun sujud. 'UJAABUN, artinya lembaran hisab. Mujahid berkata; FI 'IZZATIN, yakni mereka dimuliakan. AL MILLAH AL AKHIRAH yaitu agama Quraisy yang bercampur kedustaan. JUNDUN MAA HUNAALIKA MAHZUUM, yaitu orang-orang Quraisy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4807</td></tr><tr><td>Arabic No</td><td>4807</td></tr><tr><td>Reference</td><td>Book 65 Hadith 329</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-‘Авам сказал: «Когда я спросил Муджахида о совершении земного поклона во время чтения суры “Сад”, он ответил: “Однажды я спросил Ибн ’Аббаса: “Откуда ты узнал о земном поклоне?” Он ответил: “Разве ты не читаешь: “…из его потомства — Давуда, Сулеймана…”, пока не дошёл до слов: “Это — те, кого Аллах повел прямым путем. Следуй же их прямым путем”? Дауд был одним из пророков, за которым вашему Пророку ﷺ было приказано следовать. Дауд, мир ему, совершал земной поклон, и Посланник Аллаха ﷺ совершал его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4807</td></tr><tr><td>Arabic No</td><td>4807</td></tr><tr><td>Reference</td><td>Book 65 Hadith 329</td></tr></tbody></table></div>
 

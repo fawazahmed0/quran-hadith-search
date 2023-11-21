@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' bin Khadij and Sahl bin Abu Hathma:'Abdullah bin Sahl and Muhaiyi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] yaitu Ibnu Zaid dari [Yahya bin Sa'id] dari [Busyair bin Yasar] bekas budak Anshar, dari [Rafi' bin Khadij] dan [Sahal bin Abu Hatsmah] bahwa keduanya menceritakan kepadanya bahwa Abdullah bin Sahal dan Muhayishah bin Mas'ud pergi ke Khaibar, kemudian keduanya berpisah di suatu kebun kurma, tiba-tiba Abdullah bin Sahal terbunuh, lantas Abdurrahman bin Sahl Huwayishah dan Muhayishah bin Mas'ud pergi menemui Nabi shallallahu 'alaihi wasallam untuk melapor mengenai perkara saudaranya, Abdurrahman angkat bicara padahal dia adalah orang yang paling muda di antara mereka, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang lebih tua, yang lebih tua." Yahya berkata; "Maksudnya hendaknya yang paling tua yang lebih dulu angkat bicara." Lalu mereka melaporkan mengenai perkara saudaranya, lantas Nabi shallallahu 'alaihi wasallam bersabda: "Hendaknya lima puluh orang dari kalian bersumpah atas satu orang dari mereka (Yahudi), maka kalian berhak menuntut darah sahabatmu." Mereka berkata; "Perkara ini sama sekali belum pernah kami alami, bagaimana kami akan bersumpah?" beliau bersabda: "Jika demikian, orang-orang Yahudi telah terbebas dari tuduhanmu, dengan lima puluh orang dari mereka yang bersumpah." Mereka berkata; "Wahai Rasulullah, mereka adalah orang-orang kafir." Kemudian Rasulullah shallallahu 'alaihi wasallam membayar diyat dari diri beliau sendiri kepada mereka." Sahal berkata; "Maka saya dapati seekor unta dari unta-unta tersebut, lalu saya masukkan ke kandang unta mereka, tiba-tiba saya di tendang oleh kaki unta itu." [Laits] berkata; Telah menceritakan kepadaku [Yahya] dari [Busyair] dari [Sahal]. Yahya berkata; Aku mengira dia berkata bersama dengan Rafi' bin Khadij. [Ibnu 'Uyainah] berkata; Telah menceritakan kepada kami [Yahya] dari [Busyair] dari [Sahal] saja
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6142</td></tr><tr><td>Arabic No</td><td>6142</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рафи‘ ибн Хадидж и Сахль ибн Абу Хасма, да будет доволен Аллах ими обоими, передают, что ‘Абдуллах ибн Сахль и Мухаййиса ибн Мас‘уд отправились в Хайбар. Там, среди пальм, они расстались друг с другом, и ‘Абдуллаха ибн Сахля убили. После этого (брат убитого) ‘Абдуррахман ибн Сахль, а также Хуваййиса и Мухаййиса сыновья Мас‘уда отправились к Пророку ﷺ, и они стали говорить о том, что произошло с их товарищем. И ‘Абдуррахман, который был самым молодым из соплеменников, начал (говорить первым), но Пророк ﷺ сказал ему: «Старший, старший!» Яхья (ибн Са‘ид) сказал: «Пусть начнёт говорить самый старший». Тогда они стали говорить о том, что произошло с их товарищем, и Пророк ﷺ сказал: «Пятьдесят из вас должны принести клятвенное свидетельство против убийцы, чтобы по праву взыскать с него за кровь вашего убитого (или: вашего товарища?)». Они сказали: «О Посланник Аллаха, мы ведь ничего не видели?» Он сказал: «Тогда пусть иудеи оправдаются перед вами с помощью клятвы, которую принесут пятьдесят человек из их числа». Они сказали: «О Посланник Аллаха, это же неверующие». Тогда Посланник Аллаха ﷺ выплатил им компенсацию от себя.\nСахль сказал: «И получив верблюдицу из числа тех верблюдов, я зашёл в их загон, и она лягнула меня ногой».\nЛейс сказал: «Мне рассказал Яхья от Бушайра от Сахля: “Сказал Яхья: “Я же предполагаю, что он сказал: “Вместе с Рафи‘ ибн Хадиджем”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6142</td></tr><tr><td>Arabic No</td><td>6142</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

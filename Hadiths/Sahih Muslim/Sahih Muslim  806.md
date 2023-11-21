@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdallâh Ibn Zayd Ibn 'Asim Al-Ansâri (que Dieu l'agrée) a dit : On posa la q
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya], [Abu Bakar bin Abi Syaibah], [Amru an-Naqid] dan [Ibnu Abi Umar] semuanya meriwayatkan dari [Ibnu Uyainah] [Yahya] berkata, telah mengabarkan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas], "Hamba milik Maimunah radhiyallahu'anha pernah diberi sedekah seekor kambing, kemudian kambing tersebut mati. (Tidak berapa lama kemudian) Rasulullah Shallallahu'alaihiwasallam melalui tempat tersebut dan bersabda, "Mengapa kamu tidak mengambil kulit bangkai tersebut dan menyamaknya agar kamu bisa memanfaatkannya?" Mereka berkata, "Ia sudah menjadi bangkai." Beliau bersabda, " yang diharamkan hanyalah memakannya." [Abu Bakar] dan [Ibnu Abi Umar] berkata dalam hadits keduanya dari [Maimunah radhiyallahu'anha]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>806</td></tr><tr><td>Arabic No</td><td>363.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аббас сказал: «(Однажды) вольноотпущеннице Маймуны дали в качестве милостыни /садака/ овцу, которая через некоторое время издохла. Проходивший мимо Посланник Аллаха ﷺ спросил: “Почему же вы не взяли её шкуру, которую вы могли бы выдубить и использовать?” (Люди) сказали: “Она же издохла!” Тогда (Пророк ﷺ) сказал: “Запретно только есть её (мясо)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>806</td></tr><tr><td>Arabic No</td><td>363.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 127</td></tr></tbody></table></div>
 

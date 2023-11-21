@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "A single endeavor (of fighting) in Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Masih melalui jalur periwayatan yang sama seperti hadits sebelumnya. Berkata, danaku mendengar [Anas bin Malik radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam: "Pergi keluar berperang di jalan Allah pada awal (pagi) hari atau pergi keluar berperang pada akhir (siang) hari lebih baik dari pada dunia dan seisinya. Dan sungguh panjang (sehasta) busur panah seorang dari kalian di surga atau tempat (sarung) cambuknya lebih baik dari dunia dan seisinya. Dan seandainya seorang perempuan (bidadari) penduduk surga muncul di tengah penduduk bumi niscaya ia akan menerangi apa yang ada diantara keduanya (cakrawala langit dan bumi) dan arama wanginya akan memenuhi cakrawala itu dan sungguh kerudung yang ada di kepalanya itu lebih baik dari pada dunia dan seisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 56 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если бы любая женщина из числа обитателей Рая появилась перед жителями земли, она озарила бы собой (всё пространство между небом и землёй) и наполнила бы его своим ароматом, что же касается её головного убора, то, поистине, он лучше мира этого и всего того, что в нём есть!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 56 Hadith 14</td></tr></tbody></table></div>
 

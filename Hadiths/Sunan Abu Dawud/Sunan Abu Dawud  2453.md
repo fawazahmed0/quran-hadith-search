@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mu'adhah (al-'Adawiyyah) said:I asked 'Aishah: Would the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abdul Warits] dari [Yazid Ar Risyk], dari [Mu'adzah], ia berkata; aku katakan kepada [Aisyah]; apakah Rasulullah shallallahu 'alaihi wasallam melakukan puasa tiga hari setiap bulan? Ia berkata; ya. Aku katakan; pada bulan apakah beliau berpuasa? Ia berkata; beliau tidak perduli pada bulan apakah beliau berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1160)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2453</td></tr><tr><td>Arabic No</td><td>2453</td></tr><tr><td>Reference</td><td>Book 14 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Му‘азы: «Однажды я спросила ‘Аишу: “Постился ли Посланник Аллаха ﷺ по три дня ежемесячно?” Она сказала: “Да”. Я спросила: “В какие же дни месяца?” Она сказала: “Он не придавал значения тому, в какие дни месяца поститься”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1160)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2453</td></tr><tr><td>Arabic No</td><td>2453</td></tr><tr><td>Reference</td><td>Book 14 Hadith 141</td></tr></tbody></table></div>
 

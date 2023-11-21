@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:With the start of the last ten days of Ramadan, the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] dari [Abu Ya'fur] dari [Abu Adh-Dhuha] dari [Masruq] dari ['Aisyah radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam bila memasuki sepuluh akhir (dari bulan Ramadhan), Beliau mengencangkan sarung Beliau, menghidupkan malamnya dengan ber'ibadah dan membangunkan keluarga Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2024</td></tr><tr><td>Arabic No</td><td>2024</td></tr><tr><td>Reference</td><td>Book 32 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда наступали (последние) десять (дней рамадана), Пророк ﷺ потуже затягивал свой изар, занимался по ночам делами поклонения и будил (членов) своей семьи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2024</td></tr><tr><td>Arabic No</td><td>2024</td></tr><tr><td>Reference</td><td>Book 32 Hadith 11</td></tr></tbody></table></div>
 

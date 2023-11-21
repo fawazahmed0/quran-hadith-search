@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:We went with the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Sulaiman bin Ubaidullah Abu Ayyub Al Ghailani] Telah menceritakan kepada kami [Abu Amir Abdul Malik bin Amru] Telah menceritakan kepada kami [Abdul Aziz bin Abu Salamah Al Majisyun] dari [Abdurrahman bin Al Qasim] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam dan tidak ada maksud lain kecuali untuk haji. Dan ketika sampai di Sarif, aku mengalami haid, lalu Rasulullah shallallahu 'alaihi wasallam menemuiku yang pada saat itu aku sedang menangis. Maka beliau pun bertanya: "Apa yang menyebabkanmu menangis?" aku menjawab, "Demi Allah, sekiranya aku tidak keluar (untuk haji) di tahun ini." Beliau bertanya lagi, "Ada apa denganmu, sepertinya kamu sedang haid?" Aku menjawab, "Ya." Beliau bersabda: "Ini adalah sesuatu yang telah ditetapkan Allah atas kaum wanita dari anak keturunan Adam. Karena itu, lakukanlah sebagaimana apa yang biasanya dilakukan oleh seorang yang haji, hanya saja kamu tidak boleh thawaf di Baitullah hingga suci kembali." Aisyah berkata; Ketika sampai di Makkah, Rasulullah shallallahu 'alaihi wasallam bersabda kepada para sahabatnya: "Jadikanlah ihram kalian sebagai umrah." Maka orang-orang pun melakukan ihram untuk umrah kecuali bagi mereka yang membawa hadyu (hewan kurban). Yang termasuk membawa hadyu adalah Rasulullah shallallahu 'alaihi wasallam, Abu Bakar, Umar dan mereka yang memiliki kendaraan. Maka saat istirahat, mereka pun membaca talbiyah. Ketika hari Nahar tiba, aku pun suci dari haidku, maka Rasulullah shallallahu 'alaihi wasallam memerintahkanku untuk ikut berangkat. Lalu kami diberikan daging sapi, maka aku pun bertanya, "Daging apa ini?" mereka menjawab, "Rasulullah shallallahu 'alaihi wasallam menyembelih hewan kurban berupa sapi untuk isteri-isterinya." Pada hari Hashabah, aku berkata, "Ya Rasulullah, orang-orang pulang dengan membawa pahala haji dan umrah, sementara aku hanya membawa pahala haji." Akhirnya beliau memerintahkan Abdurrahman bin Abu Bakar (untuk menemaniku umrah). Maka Abdurrahman kemudian pun memboncengku di atas untanya. Saat itu, aku benar-masih teringat bahwa usiaku masih sangat muda belia. Bahkan aku mengantuk higga wajahku tertunduk di atas unta hingga kami sampai di Tan'im. Kemudian aku pun segera bertalbiyah (membulai ihram) untuk umrah, sebagaimana yang telah dikerjakan para sahabat yang lain. Dan telah menceritakan kepadaku [Abu Ayyub Al Ghailani] Telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Hammad] dari [Abdurrahman] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Kami membaca talbiyah (memulai ihram) untuk haji. Dan ketika kami sampai di Sarif aku mengalami haid. Kemudian Rasulullah Shallallahu 'Alai wa Sallam menemuiku dan ketika itu aku sedang mengangis. Maka ia pun menyebutkan hadits sebagaimana haditsnya Al Majisyuna. Hanya di dalam haditsnya Hammad, tidak tercantum; "Yang membawa hadyu adalah Nabi shallallahu 'alaihi wasallam, Abu Bakar, Umar dan mereka yang memiliki kendaraan. Kemudian mereka pun membaca Talbiyah saat mereka istirahat." Dan tidak juga terdapat ungkapan Aisyah; "Dan saat itu, aku masih sangat muda belia. Aku mengantuk hingga wajahtu terkelungkup di atas punggung kendaraan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2919</td></tr><tr><td>Arabic No</td><td>1211.10</td></tr><tr><td>Reference</td><td>Book 15 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2919</td></tr><tr><td>Arabic No</td><td>1211.10</td></tr><tr><td>Reference</td><td>Book 15 Hadith 128</td></tr></tbody></table></div>
 

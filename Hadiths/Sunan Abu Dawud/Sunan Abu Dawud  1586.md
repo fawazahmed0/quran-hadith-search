@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Bashir ibn al-Khasasiyyah: (Ibn Ubayd said in the version of his tradit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Mahdi bin Hafsh] dan [Muhammad bin 'Ubaid] secara makna, mereka mengatakan; telah menceritakan kepada Kami [Hammad] dari [Ayyub] dari [seseorang yang dipanggil Daisam]. [Ibnu'Ubaid] berkata; ia berasal dari Bani Sadus, dari [Basyir bin Al Khashashiyyah], [Ibnu 'Ubaid] berkata dalam haditsnya; namanya bukanlah Basyir, akan tetapi Rasulullah shallAllahu wa'alaihi wa sallam menamakannya Basyir. Ia berkata; sesungguhnya para para ahli zakat telah bertindak lalim kepada Kami, apakah boleh Kami menyembunyikan sebagian harta Kami sesuai dengan kelaliman yang mereka lakukan kepada Kami? Maka beliau berkata: "Tidak." Telah menceritakan kepada Kami [Al Hasan bin Ali] dan [Yahya bin Musa], mereka mengatakan; telah menceritakan kepada Kami [Abdurrazzaq] dari [Ma'mar] dari [Ayyub] dengan sanad dan maknanya, hanya saja ia mengatakan; Kami katakan; wahai rasul, sesungguhnya para pemberi zakat berlaku lalim. Abu Daud berkata; Abdurrazzaq telah merafa'kannya menyandarkan perkataan kepada Rasulullah shallAllahu wa'alaihi wa sallam dari Ma'mar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1586</td></tr><tr><td>Arabic No</td><td>1586</td></tr><tr><td>Reference</td><td>Book 9 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Башир ибн аль-Хасасыйя, о котором (передатчик) Ибн Убайд сказал: «Его имя было не Башир, но Посланник Аллаха ﷺ назвал его Баширом» рассказывает: «Мы сказали: “Поистине, сборщики закята притесняют нас. Так можно ли нам скрывать такую часть нашего имущества, которую они отбирают у нас несправедливо?” Он сказал: “Нет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1586</td></tr><tr><td>Arabic No</td><td>1586</td></tr><tr><td>Reference</td><td>Book 9 Hadith 31</td></tr></tbody></table></div>
 

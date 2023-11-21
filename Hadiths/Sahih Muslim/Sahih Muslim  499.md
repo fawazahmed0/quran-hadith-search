@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Amr b. al-'As reported:Verily the Messenger of Allah (ﷺ) recited t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yunus bin Abdul A'la ash-Shadafi] telah mengabarkan kepada kami [Ibnu Wahb] dia berkata, telah mengabarkan kepada kami [Amru bin al-Harits] bahwa [Bakr bin Sawadah] telah menceritakan kepadanya dari [Abdurrahman bin Jubair] dari [Abdullah bin Amr bin al-'Ash] bahwa Nabi shallallahu 'alaihi wasallam pernah membaca firman Allah mengenai Ibrahim: '(Ya Tuhanku, sesungguhnya berhala-berhala itu telah menyesatkan kebanyakan daripada manusia, maka barangsiapa yang mengikutiku, Maka Sesungguhnya orang itu termasuk golonganku) ' (Qs. Ibrahim: 36) hingga akhir ayat. Dan mengenai Isa Alaihissalam: '(Jika Engkau menyiksa mereka, maka sesungguhnya mereka adalah hamba-hamba Engkau, dan jika Engkau mengampuni mereka, maka sesungguhnya Engkaulah yang Maha Perkasa lagi Maha Bijaksana) ' (Qs. Al Maidah: 118), kemudian beliau mengangkat kedua tangannya seraya berdo'a: "Ya Allah, selamatkanlah umatku, selamatkanlah umatku, " dengan bercucuran air mata. Kemudian Allah 'azza wajalla berkata kepada malaikat Jibril: "Temuilah Muhammad -dan Rabbmulah yang lebih tahu- dan tanyakan kepadanya, 'Apa yang membuatmu menangis? ' Maka malaikat Jibril pun bertanya kepada beliau, dan beliau shallallahu 'alaihi wasallam menjawabnya dengan apa yang dikatakan Allah-dan Allah lebih mengetahui hal itu-. Kemudian Allah berkata: 'Wahai Jibril, temuilah Muhammad dan katakan bahwa Kami akan membuatmu senang dengan umatmu dan tidak akan membuatmu sedih karenanya (Kami akan menyelamatkan semua umatmu-pent)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>499</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 1 Hadith 405</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Амр ибн аль-‘Ас, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ прочитал слова Всевышнего Аллаха Всевышнего о том, что Ибрахим сказал: “Господь мой, поистине, они ввели в заблуждение многих людей! Поистине, последовавший за мной от меня…” (сура “Ибрахим”, аят 36), и о том, что ‘Иса, мир ему, сказал: “Если Ты накажешь их, то ведь они рабы Твои, а если простишь их, то, поистине, Ты Всемогущий, Мудрый!” (сура “аль-Маида”, аят 118), после чего он поднял руки и воскликнул: “О Аллах, моя община, моя община!”, и заплакал. И тогда Всемогущий и Великий Аллах сказал: “О Джибриль, отправляйся к Мухаммаду а Господь твой лучше знает обо всем! и спроси его: “Что заставляет тебя плакать?”” И Джибриль явился к Посланнику Аллаха ﷺ, и он сообщил ему о своих словах, и о чём лучше всех было известно Аллаху. И тогда Аллах Всевышний сказал: “О Джибриль, отправляйся к Мухаммаду и скажи ему: “Поистине, сделаем Мы так, что ты останешься доволен своей общиной, и Мы не огорчим тебя!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>499</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 1 Hadith 405</td></tr></tbody></table></div>
 

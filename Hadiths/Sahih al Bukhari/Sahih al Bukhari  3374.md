@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Some people asked the Prophet: "Who is the most honorable a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bin Ibrahim] dia mendengar [Al Mu'tamir] dari ['Ubaidillah] dari [Sa'id bin Abi Sa'id Al Maqburiy] dari [Abu Hurairah radliallahu 'anhu] berkata; "Kepada Nabi shallallahu 'alaihi wasallam pernah ditanyakan; "Wahai Rasulullah, siapakah manusia yang paling mulia?". Beliau menjawab: "Siapa yang paling taqwa di antara mereka?". Mereka berkata; "Wahai Nabi Allah, bukan itu yang kami tanyakan". Beliau berkata: "Kalau begitu, Yusuf Nabi Allah, putra dari Nabi Allah putra Khalilullah (kekasih Allah, Ibrahim 'Alaihissalam) ". Mereka berkata lagi; "Bukan itu yang kami tanyakan". Beliau berkata: "Apakah yang kalian maksudkan tentang kalangan bangsa Arab?. Mereka berkata; "YA, benar". Beliau bersabda: "Orang yang terbaik di antara kalian pada masa Jahiliyyah adalah yang terbaik pula di masa Islam jika mereka memahami Islam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3374</td></tr><tr><td>Arabic No</td><td>3374</td></tr><tr><td>Reference</td><td>Book 60 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Пророка ﷺ спросили: “Кто является самым благородным из людей?” Он ответил: “Самый богобоязненный из них”. (Люди) сказали: “О Пророк Аллаха, мы спрашиваем тебя не об этом”. Он сказал: “Тогда — Йусуф, пророк Аллаха, сын пророка Аллаха, сына пророка Аллаха, сына возлюбленного Аллаха”. (Люди снова) сказали: “Мы спрашиваем тебя не об этом”. Он сказал: “Значит, вы спрашиваете меня о предках арабов?” Они ответили: “Да”. Тогда он сказал: “Те из вас, которые были лучшими во времена джахилиййи, останутся лучшими и в исламе, если приобретут понимание религии”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3374</td></tr><tr><td>Arabic No</td><td>3374</td></tr><tr><td>Reference</td><td>Book 60 Hadith 48</td></tr></tbody></table></div>
 

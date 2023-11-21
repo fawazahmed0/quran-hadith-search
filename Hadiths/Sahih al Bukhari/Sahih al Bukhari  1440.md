@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrate Aisha:The Prophet (ﷺ) said, "If a woman gives in charity from her husb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Manshur] dan [Al A'masy] dari [Abu Wa'il] dari [Masruq] dari ['Aisyah radliallahu 'anha] dari Nabi Shallallahu'alaihiwasallam yaitu: "Jika seorang wanita bershadaqah dari (harta) rumah suaminya". Dan telah menceritakan kepada kami ['Umar bin Hafsh] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Al A'masy] dari [Saqiq] dari [Masruq] dari ['Aisyah radliallahu 'anha] berkata; Nabi Shallallahu'alaihiwasallam bersabda: "Jika seorang wanita (isteri) memberikan makanan dari makanan rumah suaminya dan bukan bermaksud menimbulkan kerusakan maka baginya pahala atas apa yang diinfaqkan dan bagi suaminya dan juga bagi seorang penjaga harta/bendahara, akan mendapatkan pahala dari apa yang diusahakannya dan bagi isterinya pahala dari apa yang diinfaqkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>1440</td></tr><tr><td>Reference</td><td>Book 24 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>1440</td></tr><tr><td>Reference</td><td>Book 24 Hadith 43</td></tr></tbody></table></div>
 

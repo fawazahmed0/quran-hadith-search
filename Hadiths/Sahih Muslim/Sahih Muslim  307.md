@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jundab (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédiction de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [az-Zubairi] -yaitu Muhammad bin Abdullah bin az-Zubair- telah menceritakan kepada kami [Syaiban] dia berkata, aku mendengar [al-Hasan] berkata, "Sungguh, ada seorang laki-laki sebelum kalian mengeluarkan nanah, dan ketika nanah itu membuatnya menderita maka dia melapaskan anak panah dari tempatnya, lalu dia mengulitinya hingga darah mengalir tanpa henti hingga dia meninggal. Rabb kalian berfirman: 'Aku telah mengharamkan surga atasnya.' Kemudian al-Hasan menengadahkan tangannya ke arah masjid seraya berkata, 'Demi Allah, [Jundub] telah menceritakan hadits ini kepada kami dari Rasulullah shallallahu 'alaihi wasallam di masjid ini." Dan telah menceritakan kepada kami [Muhammad bin Abu Bakar al-Muqaddami] telah menceritakan kepada kami [Wahab bin Jarir] telah menceritakan kepada kami [bapakku] dia berkata, saya mendengar [al-Hasan] berkata, telah menceritakan kepada kami [Jundub bin Abdullah al-Bajali] di dalam masjid ini, maka tidak lupa dan tidak khawatir Jundub berdusta atas nama Rasulullah shallallahu 'alaihi wasallam. Jundub mengatakan, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang laki-laki sebelum kalian timbul bisul padanya…lalu dia menyebutkan hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>307</td></tr><tr><td>Arabic No</td><td>113.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Хасан сказал: «(Однажды) у (одного) человека, который жил до вас появились язвы, и когда они стали (болеть и) мучить его, он вытащил стрелу из колчана и проткнул их, из-за чего истёк кровью и умер. Тогда ваш Господь сказал: “Я сделал Рай запретным для него!”». Сказав это, Хасан протянул руку в сторону мечети и сказал: «Клянусь Аллахом, этот хадис мне передал Джундуб от Посланника Аллаха ﷺ в этой мечети»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>307</td></tr><tr><td>Arabic No</td><td>113.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 214</td></tr></tbody></table></div>
 

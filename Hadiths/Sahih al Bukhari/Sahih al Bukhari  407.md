@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the mother of faithful believers) Allah's Messenger (ﷺ) saw s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] Ummul Mukminin, bahwa Rasulullah shallallahu 'alaihi wasallam melihat ludah atau ingus pada dinding kiblat, beliau lalu menggosoknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>407</td></tr><tr><td>Arabic No</td><td>407</td></tr><tr><td>Reference</td><td>Book 8 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов матери правоверных ‘Аиши, да будет доволен ею Аллах, о том, что однажды Посланник Аллаха ﷺ увидел на стене мечети, направленной в сторону киблы слизь (или: … плевок; или: … мокроту), и соскоблил его (собственноручно)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>407</td></tr><tr><td>Arabic No</td><td>407</td></tr><tr><td>Reference</td><td>Book 8 Hadith 59</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Alqama:'Abdullah cursed those women who practiced tattooing and those 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari ['Alqamah] dia berkata; [Abdullah] melaknat orang yang mentato, mencukur habis alis mata, merenggangkan gigi (denga kawat dll) untuk kecantikan dengan merubah ciptaan Allah, Ummu Ya'qub berkata; "Apa maksudnya ini?" Abdullah mengatakan; "Bagaimana aku tidak melaknat orang yang dilaknat Rasulullah dan telah tercatat pula dalam kitabullah. Ummu Ya'qub berkata; "Saya telah membaca dalam mushaf, namun saya tidak mendapatkan hal itu." Abdullah berkata; "Demi Allah, sekiranya kamu membacanya, niscaya kamu akan mendapatkannya yaitu Dan sesuatu yang datang dari Rasul maka ambillah dan yang di larang olehnya maka jauhilah QS Al Hasyr:
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5939</td></tr><tr><td>Arabic No</td><td>5939</td></tr><tr><td>Reference</td><td>Book 77 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькама сказал: «‘Абдуллах (ибн Мас’уд) проклял наносящую татуировку, выщипывающую брови и подпиливающую зубы ради красоты, и изменяющую тем самым творение Аллаха. Узнав об этом Умм Я‘куб спросила: “Что это?” Он ответил: “А почему бы мне не проклинать тех, кого проклял Посланник Аллаха ﷺ, и об этом упоминается в Книге Аллаха?” Она возразила: “Клянусь Аллахом, я прочитала Коран от обложки до обложки, но не нашла упоминаний того, что ты говоришь!” Он сказал: “Клянусь Аллахом, если бы ты действительно читала, ты бы нашла (следующее): “Что принёс вам Посланник, то принимайте, а что он запретил вам, того избегайте” (сура “аль-Хашр”, аят 7)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5939</td></tr><tr><td>Arabic No</td><td>5939</td></tr><tr><td>Reference</td><td>Book 77 Hadith 154</td></tr></tbody></table></div>
 

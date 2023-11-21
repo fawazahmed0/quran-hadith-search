@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said to me, "Were your people not close 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anha] berkata; Rasulullah shallallahu 'alaihi wasallam berkata, kepadaku: "Seandainya bukan karena zaman kaummu yang masih lekat dengan kekufuran tentu aku sudah membongkar Ka'bah lalu aku bangun kembali diatas pondasi yang dibangun oleh Nabi Ibrahim Alaihissalam karena orang-orang Quraisy telah mengurangi pembangunannya dan aku akan buatkan pintu (dari belakangnya) ". Berkata, [Abu Mu'awiyah] telah menceritakan kepada kami [Hisyam]: istilah Khalfan maksudnya adalah pintu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1585</td></tr><tr><td>Arabic No</td><td>1585</td></tr><tr><td>Reference</td><td>Book 25 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ сказал мне: “Если бы твои соплеменники не были (столь) близки к неверию, я разрушил бы Каабу и построил бы её на основании Ибрахима, мир ему, ибо, поистине, курайшиты, отстраивая Каабу, уменьшили её, и также я сделал бы в ней заднюю дверь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1585</td></tr><tr><td>Arabic No</td><td>1585</td></tr><tr><td>Reference</td><td>Book 25 Hadith 71</td></tr></tbody></table></div>
 

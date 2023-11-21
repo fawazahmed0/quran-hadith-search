@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Every Prophet was given miracles b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah menceritakan kepada kami [Al Laits] Telah menceritakan kepada kami [Sa'id Al Maqburi] dari [bapaknya] dari [Abu Hurairah] radliallahu 'anhu, ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada seorang Nabi pun kecuali telah diberi keistimewaan-keistimewaan khusus yang tidak diberikan kepada manusia lainnya sehingga orang-orang beriman padanya. Dan ada pun yang diberikan padaku adalah wahyu yang Allah turunkan kepadaku. Maka aku berharap, bahwa adalah Nabi yang paling banyak pengikutnya pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4981</td></tr><tr><td>Arabic No</td><td>4981</td></tr><tr><td>Reference</td><td>Book 66 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Каждому пророку даровалось из знамений то, благодаря чему люди начинали верить в него, что же касается меня, то мне были дарованы откровения, которые Аллах внушал мне, и я надеюсь, что в День воскресения у меня окажется больше последователей, чем у любого из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4981</td></tr><tr><td>Arabic No</td><td>4981</td></tr><tr><td>Reference</td><td>Book 66 Hadith 3</td></tr></tbody></table></div>
 

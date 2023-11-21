@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenaer (ﷺ) as saying:The earth will vomit long
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Washil bin Abdul A'la] dan [Abu Kuraib] dan [Muhammad bin Yazid Ar Rafa'i] -lafazhnya milik Washil- mereka berkata, Telah menceritakan kepada kami [Muhammad bin Fudlail] dari [bapaknya] dari [Abu Hazim] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kelak bumi akan mengeluarkan semua isi perutnya semisal tiang dari emas dan perak lalu akan datang seorang pembunuh seraya berkata, 'Karena benda inilah aku membunuh.' Lalu datang pula orang yang memutuskan tali silaturrahmi seraya berkata, 'Karena benda inilah aku memutuskan tali silaturrahmi.' Lalu datang pula seorang pencuri seraya berkata, 'Karena benda inilah tanganku dipotong.' Kemudian mereka semua meninggalkannya begitu saja dan tidak mengambilnya sedikitpun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2341</td></tr><tr><td>Arabic No</td><td>1013</td></tr><tr><td>Reference</td><td>Book 12 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Извергнет земля (сокрытые в) ней (куски) золота и серебра, (которые будут) подобны (огромным) колоннам, а потом явится (к этим кускам) убийца и скажет: “Из-за этого я убивал”. (Потом) явится (к ним) тот, кто не поддерживал связи с родственниками, и скажет: “Из-за этого я порывал родственные связи”. (Потом) явится (к ним) вор и скажет: “Из-за этого мне отрубили руки”. А потом они покинут (эти сокровища) и ничего (с собой) не возьмут»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2341</td></tr><tr><td>Arabic No</td><td>1013</td></tr><tr><td>Reference</td><td>Book 12 Hadith 78</td></tr></tbody></table></div>
 

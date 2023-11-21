@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn Umar: I bought olive oil in the market. When I became its owner, a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Auf Ath Thai] telah menceritakan kepada kami [Ahmad bin Khalid Al Wahbi] telah menceritakan kepada kami [Muhammad bin Ishaq] dari [Abu Az Zinad] dari ['Ubaid bin Hunain] dari [Ibnu Umar] ia berkata, "Aku pernah membeli minyak di pasar, kemudian ketika minyak tersebut telah menjadi hak milikku, ada seorang laki-laki datang kepadaku dan memberiku keuntungan yang baik. Maka ketika aku ingin membuat kesepatakan dengan orang tersebut, seorang laki-laki memegang lenganku dari belakang hingga aku pun menoleh, ternyata laki-laki itu adalah [Zaid bin Tsabit]. Ia lalu berkata, "Jangan engkau menjualnya di tempat engkau membelinya hingga engkau membawanya ke tempat tinggalmu! Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang untuk menjual barang ditempat pembeliannya hingga para penjual tersebut memindahnya ke tempat tinggal mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3499</td></tr><tr><td>Arabic No</td><td>3499</td></tr><tr><td>Reference</td><td>Book 24 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт: «Я купил на рынке масло. Я собирался оставить его себе, но мне встретился человек, который предложил мне хорошую цену за него. Я уже хотел ударить с ним по рукам (, желая заключить с ним сделку и продать ему это масло), но один человек взял меня сзади за предплечье. Я обернулся и увидел Зейда ибн Сабита, который сказал мне: “Ты не должен продавать товар там же, где купил его, пока не отнесёшь его к себе, потому что Посланник Аллаха ﷺ запретил продавать товар на том же месте, где он был куплен, пока торговцы не отнесут его к своим вещам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3499</td></tr><tr><td>Arabic No</td><td>3499</td></tr><tr><td>Reference</td><td>Book 24 Hadith 84</td></tr></tbody></table></div>
 

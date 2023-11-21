@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba:One day the Prophet (ﷺ) went out and offered the (funeral) pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru bin Khalid] telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah] bahwa suatu hari Nabi shallallahu 'alaihi wasallam keluar lalu mengerjakan shalat untuk para syuhada perang Uhud, yaitu shalat jenazah, setelah itu beliau menuju mimbar dan bersabda: "Aku akan mendahului kalian dan aku menjadi saksi atas kalian, bahwa aku, demi Allah, sekarang sedang melihat telagaku (di surga) dan sungguh aku telah diberikan kunci-kunci perbendaharaan bumi -atau kekayaan bumi- dan aku demi Allah, tidak lebih takut bahwa kalian akan berbuat syirik sepeninggalku, tapi yang lebih aku takutkan adalah kalian akan saling memperebutkannya (harta dunia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4085</td></tr><tr><td>Arabic No</td><td>4085</td></tr><tr><td>Reference</td><td>Book 64 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Укбы ибн ‘Амира, что однажды Посланник Аллаха ﷺ совершил заупокойную молитву по павшим при Ухуде, после чего поднялся на минбар и сказал: «Поистине, я опережу вас и буду свидетельствовать о вас, и, поистине, сейчас я вижу свой водоём /аль-хауд/, и, поистине, были дарованы мне ключи от сокровищниц земли (или: ключи земли), и, поистине, клянусь Аллахом, я не боюсь того, что после моей смерти вы станете многобожниками, но боюсь, что будете вы соперничать друг с другом (из-за мирских благ)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4085</td></tr><tr><td>Arabic No</td><td>4085</td></tr><tr><td>Reference</td><td>Book 64 Hadith 129</td></tr></tbody></table></div>
 

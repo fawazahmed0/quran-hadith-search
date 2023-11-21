@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Burdah said:A man who turned back from Islam was brought to Abu Musa. He inv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] berkata, telah menceritakan kepada kami [Al Himmani] -maksudnya Abdul Hamid bin 'Abdurrahman Al Himmani- dari [Thalhah bin Yahya] dan [Buraid bin Abdullah bin Abu Burdah] dari [Abu Burdah] dari [Abu Musa] ia berkata, "Muadz pernah datang kepadaku saat aku berada di Yaman dan ada seorang yahudi yang telah masuk Islam kemudian murtad. Saat Mu'adz tiba, ia berkata, "Aku tidak akan turun dari tungganganku ini hingga ia (yahudi itu) dibunuh." Yahudi itu akhirnya dibunuh. Salah seorang dari keduanya (Abu Musa dan Mu'adz) berkata, "Yahudi itu telah diminta untuk bertaubat sebelum diekskusi mati." Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] berkata, telah menceritakan kepada kami [Hafsh] berkata, telah menceritakan kepada kami [Asy Syaibani] dari [Abu Burdah] dengan kisah cerita yang sama. Ia (Abu Burdah) berkata, "Didatangkan kepada [Abu Musa] seorang laki-laki yang telah murtad dari Islam. Lalu ia menyerunya (untuk bertaubat) selama dua puluh hari, atau kurang dari itu. Kemudian Mu'adz tiba dan menyerunya (untuk taubat), namun laki-laki itu enggan, hingga akhirnya Mu'adz memenggal lehernya." Abu Dawud berkata, "Hadits ini diriwayatkan oleh [Abdul Malik bin Umair] dari [Abu Burdah], namun ia tidak menyebutkan kata 'permintaan untuk bertubat'. [Ibnu Fudhail] juga meriwayatkan dari [Asy Syaibani] dari [Sa'id bin Abu Burdah], dari [bapaknya], dari [Abu Musa], dan ia juga tidak menyebutkan kata 'permintaan untuk taubat' dalam haditsnya. Telah menceritakan kepada kami [Ibnu Mu'adz] berkata, telah menceritakan kepada kami [bapakku] berkata, telah menceritakan kepada kami [Al Mas'udi] dari [Al Qasim] dengan kisah ini, ia berkata, "Mu'adz belum juga turun dari kendaraannya hingga laki-laki (murtad) itu dipenggal lehernya tanpa memintanya untuk bertaubat dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4356</td></tr><tr><td>Arabic No</td><td>4356</td></tr><tr><td>Reference</td><td>Book 40 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бурда, передавая эту историю, сказал: «К Абу Мусе привели человека, который отрёкся от ислама, и он призывал его вернуться в ислам двадцать дней или около того. Затем приехал Му‘аз и тоже призывал его, но тот отказался. Тогда ему отрубили голову»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4356</td></tr><tr><td>Arabic No</td><td>4356</td></tr><tr><td>Reference</td><td>Book 40 Hadith 6</td></tr></tbody></table></div>
 

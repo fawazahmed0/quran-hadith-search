@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid:A bedouin asked the Prophet (ﷺ) about the Luqata. The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Sufyan] dari [Rabi'ah] dari [Yazid, maula Al Munba'its] dari [Zaid bin Khalid radliallahu 'anhu]; "Ada seorang Arab Baduy bertanya kepada Nabi shallallahu 'alaihi wasallam tentang barang temuan. Maka Beliau bersabda: "Kamu umumkan selama satu tahun. Jika datang pemiliknya mengabarkan kepadamu tentang ciri tutup bungkusnya dan tali pengikatnya maka berikanlah kepadanya. Jika tidak maka pergunakanlah". Lalu orang itu bertanya tentang hukum bila menemukan unta. Maka wajah Beliau berubah lalu berkata,.: "Bagaimana kamu ini, padahal unta itu selalu bersamanya perutnya (yang terirsi air) dan sepatunya sehingga ia bisa hilir mudik mencari air dan memakan rerumputan. Biarkanlah dia hingga pemiliknya datang menemukannya". Lalu orang itu bertanya lagi tentang menemukan kambing. Maka Beliau menjawab: "Kambing itu untuk kamu atau saudaramu atau serigala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2438</td></tr><tr><td>Arabic No</td><td>2438</td></tr><tr><td>Reference</td><td>Book 45 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Зейда ибн Халида, да будет доволен им Аллах, что как-то раз один бедуин спросил Пророка ﷺ о (том, что следует делать с) найденным, он ответил: «Объявляй о находке (людям) в течение года, и если придёт тот, кто (правильно) опишет то, в чём находилось найденное и то, чем оно было перевязано, то верни ему её, а если нет, то можешь расходовать из этого». Затем он спросил его о заблудившихся верблюдах, тогда лицо Пророка ﷺ покраснело (от гнева), и он ответил: «Что тебе до них? Ведь у них есть вода и копыта. Они приходят к воде и объедают листья с деревьев, оставь их пока хозяин не найдёт их». Тогда он спросил о заблудившихся овцах. Пророк ﷺ ответил: «Они достанутся тебе, или твоему брату, или волку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2438</td></tr><tr><td>Arabic No</td><td>2438</td></tr><tr><td>Reference</td><td>Book 45 Hadith 14</td></tr></tbody></table></div>
 

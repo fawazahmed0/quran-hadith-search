@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) was asked about a person who had his head 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Hawsyab] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Manshur bin Zadzan] dari ['Atho'] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi shallallahu 'alaihi wasallam ditanya tentang mencukur rambut sebelum menyembelih hewan qurban dan pertanyaan yang sejenis itu". Maka Beliau bersabda: Tidak apa, tidak dosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1721</td></tr><tr><td>Arabic No</td><td>1721</td></tr><tr><td>Reference</td><td>Book 25 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророка ﷺ спросили о человеке, который побрил голову до того, как зарезал жертвенное животное, и он ответил: “Ничего страшного, ничего страшного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1721</td></tr><tr><td>Arabic No</td><td>1721</td></tr><tr><td>Reference</td><td>Book 25 Hadith 199</td></tr></tbody></table></div>
 

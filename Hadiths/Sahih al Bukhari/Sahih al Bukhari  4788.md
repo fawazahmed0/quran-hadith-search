@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:I used to look down upon those ladies who had given themselves to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zakariya bin Yahya] Telah menceritakan kepada kami [Abu Usamah], [Hisyam] berkata; Telah menceritakan kepada kami dari [Bapaknya] dari [Aisyah radliallahu 'anha] dia berkata; Saya selalu cemburu kepada setiap wanita yang menyerahkan dirinya kepada Rasulullah shallallahu 'alaihi wasallam, saya berkata; Apakah seorang wanita menyerahkan dirinya? Maka ketika Allah Azza Wa Jalla menurunkan ayat: "Kamu boleh menangguhkan (menggauli) siapa yang kamu kehendaki di antara mereka (isteri-isterimu) dan (boleh pula) menggauli siapa yang kamu kehendaki. Dan siapa-siapa yang kamu ingini untuk menggaulinya kembali dari perempuan yang telah kamu cerai maka tidak ada dosa bagimu…." (Al Ahzab: 51). Saya (Aisyah) berkata; Demi Allah, saya tidak melihat Rabbmu kecuali sangat cepat memenuhi keinganan anda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>4788</td></tr><tr><td>Reference</td><td>Book 65 Hadith 310</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Я всегда ревновала к тем (женщинам), которые (предлагали) себя в дар Посланнику Аллаха ﷺ и говорила: “Разве женщина (может) дарить себя?” (Однако,) когда Аллах Всевышний ниспослал (аят, в котором говорится): “Ты (можешь) отложить (очередь), кого хочешь из них, и (можешь) принять, кого хочешь, а (что касается) той, которую пожелаешь ты из тех, кого ты удалил, то не будет (в этом) греха для тебя”, я сказала: “Я вижу, что Господь твой всегда сразу же выполняет твои желания!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>4788</td></tr><tr><td>Reference</td><td>Book 65 Hadith 310</td></tr></tbody></table></div>
 

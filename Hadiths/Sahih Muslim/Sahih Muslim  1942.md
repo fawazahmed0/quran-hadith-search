@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما) dit : "L'Envoyé de Dieu (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdu bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar] ia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah shalat Khauf bersama kami. Mula-mula satu kelompok pasukan mengikuti beliau shalat satu raka'at, sedangkan kelompok yang lain berjaga-jaga menghadap ke arah musuh. Setelah selesai satu raka'at, kelompok pertama pergi berjaga-jaga, menggantikan kelompok kedua, sedangkan kelompok kedua shalat bersama Rasulullah shallallahu 'alaihi wasallam. Kemudian setelah Rasulullah shallallahu 'alaihi wasallam selesai shalat, masing-masing rombongan menyempurnakan shalat mereka satu raka'at lagi." Dan telah menceritakannya kepadaku [Abu Rabi' Az Zhahrani] telah menceritakan kepada kami [Fulaih] dari [Az Zuhri] dari [Salim bin Abdullah bin Umar] dari [bapaknya] bahwa ia menceritakan tentang shalat Khauf Rasulullah shallallahu 'alaihi wasallam. Dan ia berkata; Saya pernah shalat Khauf bersama Rasulullah shallallahu 'alaihi wasallam. Yakni semakna dengan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1942</td></tr><tr><td>Arabic No</td><td>839.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 370</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Посланник Аллаха ﷺ совершил молитву, (совершаемую под воздействием) страха /салят аль-хауф/ в один рак‘ат с одной из двух групп людей, тогда как другая группа противостояла неприятелю. Затем эти люди ушли (и заняли) места тех, кто не совершил молитву, а (не совершившие молитву) подошли к Пророку ﷺ, и он совершил с ними один рак‘ат, после чего Пророк ﷺ произнёс таслим, а затем каждая из двух групп встала и самостоятельно совершила оставшийся один рак‘ат»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1942</td></tr><tr><td>Arabic No</td><td>839.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 370</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:When the news of the martyrdom of Zaid bin Haritha, Ja'far and 'A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Hawsyab] telah menceritakan kepada kami ['Abdul Wahhab] telah menceritakan kepada kami [Yahya bin Sa'id] berkata, telah mengabarkan kepada saya ['Amrah] berkata; Aku mendengar ['Aisyah radliallahu 'anha] berkata,: "Ketika tiba di hadapan Nabi Shallallahu'alaihiwasallam jenazah Zaid bin Haritsah, Ja'far dan 'Abdullah bin Rawahah, Beliau duduk yang nampak kesedihannya sedangkan aku memandang dari lobang pintu. Lalu datang seorang laki-laki seraya berkata,: "Sesungguhnya isteri-isterinya Ja'far", lalu orang itu menceritakan tentang tangisan mereka. Maka Beliau memerintahkan laki-laki itu agar melarang mereka. Maka orang itu pergi kemudian datang dan berkata,: "Aku telah melarang mereka". Dan laki-laki itu menyebutkan bahwa mereka tidak menaatinya. Maka Beliau memerintahkan laki-laki itu untuk kedua kalinya agar melarang mereka. Maka laki-laki itu pun pergi kemudian datang dan berkata,: "Demi Allah, mereka mengalahkan aku" atau "mereka mengalahkan kami!". Keraguan perkataan ini datang dari Muhammad bin 'Abdullah bin Hawsyab. 'Aisyah radliallahu 'anha menduga Beliau kemudian berkata,: "Bungkamlah mulut-mulut nereka dengan tanah". Aku berkata kepada laki-laki itu: "Semoga Allah menghinakanmu karena kamu tidak melaksanakan yang Rasulullah Shallallahu'alaihiwasallam perintahkan, serta kamu tidak meninggalkan Rasulullah Shallallahu'alaihiwasallam dari kondisinya yang lelah dan kesedihannya (membiarkan Beliau dalam kesedihan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1305</td></tr><tr><td>Arabic No</td><td>1305</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Узнав о гибели Ибн Харисы, Джа‘фара и Ибн Равахи, Пророк ﷺ сел, и по нему было заметно, что он глубоко опечален, а я в это время смотрела на него через щель в двери. (Через некоторое время) к нему пришёл какой-то человек и сказал: “О, Посланник Аллаха! Поистине, женщины Джа‘фара…”, (после чего) упомянул о том, что они громко плачут. (Пророк ﷺ) велел ему запретить им делать это, и тот ушёл, но потом снова вернулся к нему и сказал: “Клянусь Аллахом, они одолели нас (мы не смогли остановить их!”» \nИ (‘Аиша) утверждала, что на это (Пророк ﷺ) сказал: «Тогда набей им рты землёй!» Тогда я сказала тому человеку: «Да покроет Аллах твой нос пылью (унизив)! Клянусь Аллахом, ты не сделал то, что тебе было велено, и не избавил Посланника Аллаха ﷺ от усталости!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1305</td></tr><tr><td>Arabic No</td><td>1305</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
 

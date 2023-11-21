@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Hour will not be establi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sa'id bin Muhammad] telah bercerita kepada kami [Ya'qub] telah bercerita kepada kami [bapakku] dari [Shalih] dari [Al A'raj] berkata, [Abu Hurairah radliallahu 'anhu] berkata; Telah bersabda Rasulullah shallallahu 'alaihi wasallam: "Tidak akan terjadi hari qiyamat hingga kalian memerangi bangsa Turki yang bermata kecil, wajah kemerahan dan hidungnya pesek. Wajah mereka seakan seperti perisai yang menutupi kulit. Dan tidak akan terjadi hari qiyamat hingga kalian memerangi kaum yang bersandal bulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2928</td></tr><tr><td>Arabic No</td><td>2928</td></tr><tr><td>Reference</td><td>Book 56 Hadith 141</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не настанет Час этот, пока вы не сразитесь с турками(, людьми) с маленькими глазами, красными лицами и плоскими носами, и лица их будут подобны кованым щитам. И не наступит Час этот, пока не сразитесь вы с людьми, которые (будут носить) волосяные сандалии»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2928</td></tr><tr><td>Arabic No</td><td>2928</td></tr><tr><td>Reference</td><td>Book 56 Hadith 141</td></tr></tbody></table></div>
 

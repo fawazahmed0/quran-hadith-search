@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Fatimah b. Abu Hubaish came to the Apostle (ﷺ) and said: I am 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Waki'] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] dia berkata, "Fathimah binti Abi Hubaisy mendatangi Nabi shallallahu 'alaihi wasallam seraya berkata, 'Wahai Rasulullah, aku adalah seorang perempuan berdarah istihadhah, maka aku tidak suci, apakah aku harus meninggalkan shalat? ' Maka beliau bersabda, "Darah tersebut ialah darah penyakit bukan haid, apabila kamu didatangi haid hendaklah kamu meninggalkan shalat. Apabila darah haid berhenti dari keluar, hendaklah kamu mandi dan mendirikan shalat." Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abdul Aziz bin Muhammad] dan [Abu Mu'awiyah] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Khalaf bin Hisyam] telah menceritakan kepada kami [Hammad bin Zaid] semuanya dari [Hisyam bin Urwah] dengan semisal hadits Waki' dan sanadnya, sedangkan dalam hadits Qutaibah dari Jarir, Fathimah binti Abi Hubais bin Abdul Muththalib bin Asad datang, sedangkan dia adalah perempuan dari kalangan kami. Perawi berkata, dan dalam hadits Hammad bin Zaid ada tambahan huruf yang tidak kami sebutkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>753</td></tr><tr><td>Arabic No</td><td>333.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Однажды) Фатыма бинт Аби Хубайш пришла к Пророку ﷺ и сказала: “О Посланник Аллаха, поистине, я женщина, у которой хроническое кровотечение, и я никак не могу очиститься, так не прекратить ли мне совершать молитвы?” Посланник Аллаха ﷺ сказал (ей в ответ): “Нет, поскольку это уже венозная кровь, а не менструальная. Прекращай молиться с наступлением (твоего обычного периода месячных), а когда (этот период) закончится, смой с себя кровь и затем молись”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>753</td></tr><tr><td>Arabic No</td><td>333.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 75</td></tr></tbody></table></div>
 

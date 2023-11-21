@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa Al-Ach'âri (que Dieu l'agrée), le Prophète (paix et bén
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Kamil Al Jahdari] keduanya dari [Abu 'Awanah] -Qutaibah- berkata telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas] dari [Abu Musa Al Asy'ari] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaan orang mukmin yang membaca Al Qur'an adalah seperti buah Utrujah, baunya harum dan rasanya juga enak. Dan perumpamaan orang mukmin yang tidak membaca Al Qur'an adalah seperti buah kurma, baunya tidak semerbak, namun rasanya manis. Sedangkan perumpamaan orang munafik yang membaca Al Qur'an adalah laksana buah Raihanah yang baunya harum namun rasanya pahit. Dan perumpamaan orang munafik yang tidak membaca Al Qur'an adalah seperti buah Hanzhalah, baunya tidak wangi dan rasanya juga pahit." Dan telah menceritakan kepada kami [Haddab bin Khalid] telah menceritakan kepada kami [Hammam] -dan dalam jalur lain- telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Syu'bah] keduanya dari [Qatadah] dengan isnad ini semisalnya. Hanya saja di dalam hadits Hammam, kata munafik ia ganti dengan Fajir (orang yang berdosa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>797.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 288</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Со слов Абу Мусы аль-Аш‘ари, да будет доволен им Аллах, сообщается, что Посланник Аллаха ﷺ сказал: «Верующий, который читает Коран и поступает в соответствии с его установлениями, подобен сладкому лимону, обладающему приятным запахом и вкусом, а верующий, который не читает Коран, но поступает в соответствии с его установлениями, подобен финику, приятному на вкус, но не обладающему запахом. Лицемер, который читает Коран, подобен рейхану, обладающему приятным запахом, но горькому на вкус, а лицемер, который не читает Коран, подобен растению колоквинта, отвратительному на вкус и пахнущему горечью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>797.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 288</td></tr></tbody></table></div>
 

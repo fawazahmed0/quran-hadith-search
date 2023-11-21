@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Usamah bin Zaid said I asked Apostle of Allaah(ﷺ) where will you encamp tomorr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ali bin Husain] dari ['Amr bin Utsman], dari [Usamah bin Zaid], ia berkata; aku katakan pada saat beliau melakukan haji; wahai Rasulullah, dimana engaku besok akan singgah? Beliau bertanya: "Apakah 'Aqil (ibnu Abi Thalib) meninggalkan tempat singgah untuk kita?" kemudian beliau bersabda: "Kita akan singgah di lembah (padang) Bani Kinanah yang bernama Al Muhashshab, di tempat itulah orang-orang Quraisy saling bersumpah di atas kekafiran. Yang terjadi adalah bahwa Bani Kinanah bersumpah kepada orang-orang Quraisy atas Bani Hasyim bahwa mereka tidak akan menikahkan mereka, tidak berjual beli dengan mereka, serta tidak melindungi mereka." Az Zuhri berkata; Khaif adalah sebuah bukit. Telah menceritakan kepada kami [Mahmud bin Khalid], telah menceritakan kepada kami [Umar], telah menceritakan kepada kami [Abu 'Amr yaitu Al Auza'i] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda ketika hendak kembali dari Mina: "Kita akan singgah besok…." Kemudian ia menyebutkan permulaannya dan tidak menyebutkan Lembah Khaif
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3058) Sahih Muslim (1351)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2010</td></tr><tr><td>Arabic No</td><td>2010</td></tr><tr><td>Reference</td><td>Book 11 Hadith 290</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Усама ибн Зейд, да будет доволен Аллах им и его отцом, передаёт, что он сказал: «О Посланник Аллаха, где ты остановишься завтра?» Это было, когда он совершал свой хадж. Он ответил: «А разве оставил ‘Акыль место, где можно остановиться?» Затем он сказал: «Мы остановимся в долине бану кинана, где курайшиты поклялись друг другу в неверии». Он имел в виду место под названием Мухассаб, где курайшиты и кинаниты заключили между собой союз против бану хашим, договорившись не заключать с ними браков, не давать им приюта и не заключать с ними торговых сделок до тех пор, пока они не выдадут им Посланника Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3058) Sahih Muslim (1351)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2010</td></tr><tr><td>Arabic No</td><td>2010</td></tr><tr><td>Reference</td><td>Book 11 Hadith 290</td></tr></tbody></table></div>
 

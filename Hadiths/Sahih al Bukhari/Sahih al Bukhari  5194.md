@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If a woman spends the night desert
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Zurarah] dari [Abu Hurairah] ia berkata; Nabi shallallahu 'alaihi wasallam bersabdda: "Apabila seorang wanita bermalam sementara ia tidak memenuhi ajakan suaminya di tempat tidur, maka Malaikat melaknatnya hingga pagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5194</td></tr><tr><td>Arabic No</td><td>5194</td></tr><tr><td>Reference</td><td>Book 67 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Если женщина проведёт ночь, оставив ложе своего мужа, то ангелы будут проклинать её, пока она не вернётся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5194</td></tr><tr><td>Arabic No</td><td>5194</td></tr><tr><td>Reference</td><td>Book 67 Hadith 128</td></tr></tbody></table></div>
 

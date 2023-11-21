@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Siwar Al Mishri] telah menceritakan kepada kami [Abdah] dari [Abdul Malik] dari [Atha'] dari [Abu Hurairah] RhadhiyAllahu 'anhu mengenai seorang wanita yang bersedekah dari harta suaminya. Ia berkata: tidak boleh, kecuali dari sebagian bahan pokoknya dan pahalanya dibagi anara keduanya, dan tidak halal bagi seorang istri untuk bersedekah dengan harta suaminya kecuali dengan izinnya. Abu Daud berkata: hadits ini melemahkan hadits Hammam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1688</td></tr><tr><td>Arabic No</td><td>1688</td></tr><tr><td>Reference</td><td>Book 9 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Когда Абу Хурайру, да будет доволен им Аллах, спросили о женщине, которая подаёт милостыню из имущества мужа, он сказал: «Она не должна этого делать, если только она не подаёт из своего содержания. Награда будет поделена между ними. И ей не дозволяется подавать милостыню из имущества мужа, кроме как с его разрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1688</td></tr><tr><td>Arabic No</td><td>1688</td></tr><tr><td>Reference</td><td>Book 9 Hadith 133</td></tr></tbody></table></div>
 

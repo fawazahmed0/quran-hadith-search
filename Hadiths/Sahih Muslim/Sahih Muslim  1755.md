@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported Allah's Messenger (ﷺ) as saying:Make Witr the end of your n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah], (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibn Numair] telah menceritakan kepada kami [ayahku], (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Zuhair bin Harb] dan [Ibnu Al Mutsanna] keduanya berkata; telah menceritakan kepada kami [Yahya], semuanya dari ['Ubaidullah], dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Jadikanlah akhir shalat malam kalian dengan witir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>751.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Нафи‘ передал от Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что Пророк ﷺ сказал: «(Пусть) ваша последняя ночная молитва состоит из нечётного (числа рак‘атов) /витр/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>751.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 184</td></tr></tbody></table></div>
 

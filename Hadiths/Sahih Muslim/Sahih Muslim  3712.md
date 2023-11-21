@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Fatima bint Qais (Allah be pleased with her) reported that her husband divorced 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Sufyan] dari [Abu Bakar bin Abi Jahm bin Shuhair Al Adawi] dia berkata; Saya mendengar [Fathimah binti Qais] -Bahwa suaminya telah menceraikannya dengan talak tiga, maka Rasulullah shallallahu 'alaihi wasallam pun tidak menjadikan untuknya nafkah dan tempat tinggal- dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Jika kamu telah halal (selesai masa iddah), maka beritahukanlah kepadaku." Setelah masa iddahku selesai, saya memberitahukan kepada beliau. Tidak lama kemudian Mu'awiyah, Abu Jahm, dan Usamah bin Zaid datang melamarnya, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Mu'awiyah adalah orang yang miskin harta, sedangkan Abu Jahm suka memukul wanita, sebaiknya kamu memilih Usamah." Maka Fathimah mengelak dan berisyarat dengan tangannya tanda tidak setuju, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Ta'at kepada Allah dan Rasul-Nya adalah lebih baik bagimu." Fathimah berkata; Kemudian saya menikah dengan Usamah, ternyata saya bahagia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3712</td></tr><tr><td>Arabic No</td><td>1480.16</td></tr><tr><td>Reference</td><td>Book 18 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3712</td></tr><tr><td>Arabic No</td><td>1480.16</td></tr><tr><td>Reference</td><td>Book 18 Hadith 60</td></tr></tbody></table></div>
 

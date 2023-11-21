@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:We used to go ahead to meet the caravan and used to buy foods
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Juwairiyah] berkata, dari [Nafi'] dari ['Abdullah radliallahu 'anhu] berkata: "Kami dahulu biasa menyongsong kafilah dagang lalu kami membeli makanan. Maka kemudian Nabi shallallahu 'alaihi wasallam melarang kami membelinya hingga makanan tersebut sampai di pasar makanan". Berkata, Abu 'Abdullah Al Bukhariy: "Ini larangan untuk transaksi diluar pasar sebagaimana dijelaskan oleh hadits 'Ubaidullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2166</td></tr><tr><td>Arabic No</td><td>2166</td></tr><tr><td>Reference</td><td>Book 34 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Мы встречали караваны (внутри города, снаружи рынка) и покупали у них продукты, и Пророк ﷺ запретил нам продавать их (в том же месте), пока товар не будет доставлен на рынок». Абу ‘Абдуллах (аль-Бухари) сказал: «Эта (упомянутая выше встреча) происходила в верхней части рынка (то есть в пределах города), это разъясняется в хадисе ‘Убейдуллаха (то есть следующий хадис)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2166</td></tr><tr><td>Arabic No</td><td>2166</td></tr><tr><td>Reference</td><td>Book 34 Hadith 117</td></tr></tbody></table></div>
 

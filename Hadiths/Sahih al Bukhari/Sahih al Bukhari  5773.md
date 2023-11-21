@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "No 'Adwa." Abu Huraira also 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritaka kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah menceritaka kepadaku [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada 'adwa (keyakinan adanya penularan penyakit)." Abu Salamah bin Abdurrahman berkata; saya mendengar Abu Hurairah dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah kalian mencampurkan antara yang sakit dengan yang sehat." Dan dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Sinan bin Abu Sinan Ad Du'ali] bahwa [Abu Hurairah] radliallahu 'anhu berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada 'adwa (keyakinan adanya penularan penyakit) " maka seorang Arab badui berdiri dan berkata; "Lalu bagimana dengan unta yang ada di padang pasir, seakan-akan (bersih) bagaikan gerombolan kijang lalu datang padanya unta berkudis dan bercampur baur dengannya sehingga ia menularinya?" Nabi shallallahu 'alaihi wasallam bersabda: "Lalu siapakah yang menulari yang pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5773</td></tr><tr><td>Arabic No</td><td>5773</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Не (передаётся) зараза (иначе как по воле Аллаха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5773</td></tr><tr><td>Arabic No</td><td>5773</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

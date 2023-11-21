@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Anas through another chain of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku ['Amru An Naqid] dan [Zuhair bin Harb] keduanya dari [Ibnu 'Ulayyah]; [Zuhair] berkata; Telah menceritakan kepada kami [Isma'il]; Telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam menemui istri-istri beliau bersama pengawalnya yang bernama Anjasya. Beliau berkata; 'Hati-hati wahai Anjasyah, pelan-pelan jika mengawal para wanita. Anas berkata; Abu Qilabah berkata; 'Rasulullah shallallahu 'alaihi wasallam berbicara dengan kalimat yang seandainya sebagian dari kalian mengucapkannya, niscaya kalian akan mempermainkan orang yang mengucapkannya.' (karena jarang yang melakukannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6037</td></tr><tr><td>Arabic No</td><td>2323.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6037</td></tr><tr><td>Arabic No</td><td>2323.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 95</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:You shall fight in the ho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Waki'] dan [Abu Usamah] dari [Isma'il bin Abu Khalid] dari [Qais bin Abu Hazim] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Dihadapan kiamat, kalian memerangi suatu kaum, sandal mereka rambut, wajah mereka seperti perisai ditambal, berwajah merah dan bermata sipit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7314</td></tr><tr><td>Arabic No</td><td>2912.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7314</td></tr><tr><td>Arabic No</td><td>2912.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 80</td></tr></tbody></table></div>
 

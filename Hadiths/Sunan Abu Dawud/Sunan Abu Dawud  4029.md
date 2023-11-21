@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Prophet (ﷺ) as saying: If anyone wears a garme
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] berkata, telah menceritakan kepada kami [Abu Awanah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Isa- dari [Syarik] dari [Utsman bin Abu Zur'ah] dari [Al Muhajir Asy Syami] dari [Ibnu Umar] perawi berkata: dalam hadits Syarik yang ia marfu'kan ia berkata, "Barangsiapa memakai baju kemewahan (karena ingin dipuji), maka pada hari kiamat Allah akan mengenakan untuknya baju semisal. Ia menambahkan dari Abu Awanah, "lalu akan dilahab oleh api neraka." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Awanah] ia berkata, "Yaitu baju kehinaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4029</td></tr><tr><td>Arabic No</td><td>4029</td></tr><tr><td>Reference</td><td>Book 34 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто надел одежду, явно привлекающую внимание (своей роскошностью или необычностью), того Аллах облачит в Судный день в такую же одежду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4029</td></tr><tr><td>Arabic No</td><td>4029</td></tr><tr><td>Reference</td><td>Book 34 Hadith 10</td></tr></tbody></table></div>
 

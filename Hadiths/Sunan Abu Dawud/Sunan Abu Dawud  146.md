@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thawban: The Messenger of Allah (ﷺ) sent out an expedition. They were
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Tsaur] dari [Rasyid bin Sa'd] dari [Tsauban] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengutus satu pasukan (untuk berperang tanpa diikuti beliau), lalu mereka diliputi cuaca dingin. Maka setelah mereka datang menghadap Rasulullah shallallahu 'alaihi wasallam, beliau memerintahkan supaya mereka mengusap sorban dan khuf mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саубан сказал: «Как-то Посланник Аллаха ﷺ отправил (в поход) отряд, которого настиг холод, и когда они возвратились к Посланнику Аллаха ﷺ он велел им обтирать чалмы и тасахины
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
 

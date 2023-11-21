@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Samura:Allah's Messenger (ﷺ) said, "(O 'Abdur-Rahma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah] Telah menceritakan kepada kami [Utsman bin Umar bin Faris] telah mengabarkan kepada kami [Ibnu 'Aun] dari [Al Hasan] dari [Abdurrahman bin Samurah] mengatakan, Rasulullah Shallallahu'alaihiwasallam bersabda: "janganlah kamu meminta kepemimpinan, sebab jika engkau diberi kepemimpinan bukan karena meminta, kamu akan ditolong, namun jika kamu diberi karena meminta, kamu akan ditelantarkan. Jika kamu bersumpah atas suatu sumpah, kemudian melihat ada yang lain lebih baik, maka lakukan yang lebih baik, dan bayarlah kaffarat sumpahmu." Hadits ini diperkuat oleh [Asyhal bin Hatim] dari [Ibnu 'Aun] dan diperkuat oleh [Yunus], [Simak bin 'Athiyyah], [Simak bin Harb], [Humaid], [Qatadah], [Manshur] dan [Hisyam] dan [Ar Rabi]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6722</td></tr><tr><td>Arabic No</td><td>6722</td></tr><tr><td>Reference</td><td>Book 84 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Самура сказал: «(Однажды) Посланник Аллаха ﷺ сказал (мне): “Не проси власти, ибо если она будет дарована тебе без просьб (с твоей стороны), то тебе будет оказана помощь в правлении, но если она будет дарована тебе из-за просьб (с твоей стороны), то ты будешь предоставлен ей. А если ты поклянёшься в чём-либо, но потом увидишь, что нечто иное лучше (того, что ты поклялся сделать), то сделай то, что лучше и искупи (нарушение) своей клятвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6722</td></tr><tr><td>Arabic No</td><td>6722</td></tr><tr><td>Reference</td><td>Book 84 Hadith 15</td></tr></tbody></table></div>
 

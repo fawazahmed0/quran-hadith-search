@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(The wife of the Prophet) Allah's Messenger (ﷺ) said (to her).
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3368</td></tr><tr><td>Arabic No</td><td>3368</td></tr><tr><td>Reference</td><td>Book 60 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах: «Посланник Аллаха ﷺ сказал: “Разве ты не видишь, что строя Каабу, твои соплеменники не построили её полностью на основании Ибрахима”. Я сказала: “О Посланник Аллаха, почему бы тебе не вернуть её на основание Ибрахима?” Он ответил: “Если бы твои соплеменники не были бы близки к неверию (я бы так и сделал)”».\n‘Абдуллах ибн ‘Умар сказал: «‘Аиша, должно быть, действительно слышала это от Посланника Аллаха ﷺ, потому что я считаю, что Посланник Аллаха ﷺ не прикасался к двум углам, которые находятся за аль-Хиджром, только потому что Ка’аба не была построена на основании Ибрахима»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3368</td></tr><tr><td>Arabic No</td><td>3368</td></tr><tr><td>Reference</td><td>Book 60 Hadith 42</td></tr></tbody></table></div>
 

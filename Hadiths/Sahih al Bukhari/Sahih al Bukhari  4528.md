@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Jews used to say: "If one has sexual intercourse with his wife fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Ibnu Al Munkadir] aku mendengar [Jabir radliallahu 'anhu] berkata; Orang-orang Yahudi berkata; Apabila menggauli wanita melalui belakang maka mata anaknya akan menjadi juling'. Lalu Allah Subhaanahu menurunkan ayat; Isteri-isteri kalian adalah ladang kalian, maka datangilah ladang kalian dari mana engkau kehendaki." (QS. Albaqarah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4528</td></tr><tr><td>Arabic No</td><td>4528</td></tr><tr><td>Reference</td><td>Book 65 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Иудеи утверждали, что, если мужчина вступит в близость с женой через половые органы, но сзади, то ребёнок родится косым, и тогда Всевышний Аллах ниспослал: “Ваши жёны — ваша пашня, приходите же на вашу пашню, когда и как пожелаете” (сура “аль-Бакара”, аят 223)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4528</td></tr><tr><td>Arabic No</td><td>4528</td></tr><tr><td>Reference</td><td>Book 65 Hadith 51</td></tr></tbody></table></div>
 

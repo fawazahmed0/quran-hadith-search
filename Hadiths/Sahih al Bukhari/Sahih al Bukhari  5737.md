@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Some of the companions of the Prophet (ﷺ) passed by some p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sidan bin Muddzarib Abu Muhammad Al Bahili] telah menceritakan kepada kami Abu Ma'syar Al Bashri dia adalah seorang yang jujur yaitu [Yusuf bin Yazid Al Barra'] dia berkata; telah menceritakan kepadaku ['Ubaidullah bin Al Ahnas Abu Malik] dari [Ibnu Abu Mulaikah] dari [Ibnu Abbas] bahwa beberapa sahabat Nabi shallallahu 'alaihi wasallam melewati sumber mata air dimana terdapat orang yang tersengat binatang berbisa, lalu salah seorang yang bertempat tinggal di sumber mata air tersebut datang dan berkata; "Adakah di antara kalian seseorang yang pandai menjampi? Karena di tempat tinggal dekat sumber mata air ada seseorang yang tersengat binatang berbisa." Lalu salah seorang sahabat Nabi pergi ke tempat tersebut dan membacakan al fatihah dengan upah seekor kambing. Ternyata orang yang tersengat tadi sembuh, maka sahabat tersebut membawa kambing itu kepada teman-temannya. Namun teman-temannya tidak suka dengan hal itu, mereka berkata; "Kamu mengambil upah atas kitabullah?" setelah mereka tiba di Madinah, mereka berkata; "Wahai Rasulullah, ia ini mengambil upah atas kitabullah." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya upah yang paling berhak kalian ambil adalah upah karena (mengajarkan) kitabullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5737</td></tr><tr><td>Arabic No</td><td>5737</td></tr><tr><td>Reference</td><td>Book 76 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, что как-то группа сподвижников Пророка ﷺ проходила мимо какого-то оазиса, один из жителей которого был ужален скорпионом. К ним навстречу вышел житель оазиса и сказал: «Есть ли среди вас умеющий читать заклинания? В оазисе есть человек, которого ужалил скорпион». Один человек из них отправился и прочёл ему суру «аль-Фатиха» за несколько овец. Тот выздоровел, а он явился с овцами к своим товарищам. Им это не понравилось, и они сказали: «Ты же взял плату за Книгу Аллаха!» Когда же они прибыли в Медину, они сказали: «О Посланник Аллаха, он взял плату за Книгу Аллаха». И Посланник Аллаха ﷺ сказал: «Поистине, самым заслуженным, за что вы (можете) взять вознаграждение, является Книга Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5737</td></tr><tr><td>Arabic No</td><td>5737</td></tr><tr><td>Reference</td><td>Book 76 Hadith 52</td></tr></tbody></table></div>
 

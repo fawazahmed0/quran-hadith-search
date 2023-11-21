@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:I never saw the Prophet (ﷺ) saying, "Let my parents sacrifice th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Sufyan] berkata telah bercerita kepadaku [Sa'ad bin Ibrahim] dari ['Abdullah bin Syaddad] dari ['Ali]. Dan diriwayatkan pula, telah bercerita kepada kami [Qabishah] telah bercerita kepada kami [Sufyan] dari [Sa'ad bin Ibrahim] berkata telah bercerita kepadaku ['Abdullah bin Syaddad] berkata aku mendengar ['Ali radliallahu 'anhu] berkata; Tidak pernah aku melihat Nabi shallallahu 'alaihi wasallam memberikan jaminan tebusan kepada seseorang selain Sa'ad dimana aku mendengar Beliau berkata (kepada Sa'ad): "Memanahlah demi bapak dan ibuku yang aku tebus keduanya (kepada Allah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2905</td></tr><tr><td>Arabic No</td><td>2905</td></tr><tr><td>Reference</td><td>Book 56 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «Не видел я, чтобы хоть кому-нибудь после Са‘да Пророк ﷺ говорил: “Да станут мои родители выкупом за тебя!” и я слышал, как он сказал (ему): “Стреляй, да станут мои родители выкупом за тебя!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2905</td></tr><tr><td>Arabic No</td><td>2905</td></tr><tr><td>Reference</td><td>Book 56 Hadith 119</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said The Prophet (ﷺ) used to enter Makkah from the upper hillock. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Abdullah bin Ja'far Al Barmaki], telah menceritakan kepada Kami [Ma'n] dari [Malik], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Musaddad] dan [Ibnu Hanbal] dari [Yahya]. Telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Abu Usamah] semuanya dari ['Ubaidullah], dari [Nafi'] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam memasuki Mekkah, dari Kada' dari Tsaniyah Al Bathha', dan beliau keluar dari Tsaniyah yang rendah. Al Barmaki menambahkan yaitu dua Tsaniyah yang ada di Mekkah. Dan hadits Musaddad lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1575) Sahih Muslim (1257)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1866</td></tr><tr><td>Arabic No</td><td>1866</td></tr><tr><td>Reference</td><td>Book 11 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ входил в Мекку через Саният аль-уля (или: Када по Саният-аль-Батха), а выходил через Ас-Саният-ас-Суфля
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1575) Sahih Muslim (1257)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1866</td></tr><tr><td>Arabic No</td><td>1866</td></tr><tr><td>Reference</td><td>Book 11 Hadith 146</td></tr></tbody></table></div>
 

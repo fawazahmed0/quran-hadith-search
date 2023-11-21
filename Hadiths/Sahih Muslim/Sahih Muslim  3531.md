@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'Asha (Allah be pleased with her) reported:A person divorced his wife by three 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Ubaidillah bin Umar] dari [Al Qasim bin Muhammad] dari ['Aisyah] dia berkata; Seorang laki-laki menceraikan istrinya dengan talak tiga, lantas istrinya menikah dengan laki-laki lain, kemudian suami kedua menceraikannya sebelum menggaulinya, lantas suami pertama ingin menikahinya lagi, Rasulullah shallallahu 'alaihi wasallam ditanya mengenai hal itu, maka beliau menjawab: "Tidak boleh, sampai suami yang kedua mencicipi madunya sebagaimana suami pertama merasakan madunya." Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya, yaitu Ibnu Sa'id] semuanya dari [Ubaidillah] dengan isnad seperti ini, dalam haditsnya [Yahya] dari ['Ubaidillah] telah menceritakan kepada kami [Al Qasim] dari ['Aisyah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3531</td></tr><tr><td>Arabic No</td><td>1433.06</td></tr><tr><td>Reference</td><td>Book 16 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3531</td></tr><tr><td>Arabic No</td><td>1433.06</td></tr><tr><td>Reference</td><td>Book 16 Hadith 133</td></tr></tbody></table></div>
 

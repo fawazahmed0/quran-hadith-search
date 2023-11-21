@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-A'raj:Abu Huraira said, Allah's Messenger (ﷺ) said, "By Him in Who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah], bahwasanya Rasulullah Shallallahu'alaihiwasalla bersabda; "Demi Dzat yang jiwaku berada di tangan-NYA, sungguh aku suka jika aku berperang fi sabilillah lantas aku terbunuh, kemudian dihidupkan, kemudian terbunuh, kemudian dihidupkan, kemudian terbunuh." Abu Hurairah mengulanginya tiga kali; "saya bersaksi atas nama Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7227</td></tr><tr><td>Arabic No</td><td>7227</td></tr><tr><td>Reference</td><td>Book 94 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Клянусь Тем, в Чьей руке моя душа, поистине, хотел бы я сражаться на пути Аллаха и быть убитым, а потом воскрешённым, потом снова убитым и снова воскрешённым, а потом снова убитым!»\n(аль-А‘радж сказал): «Я свидетельствую Аллахом, что Абу Хурайра произнёс слова: “быть убитым” — три раза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7227</td></tr><tr><td>Arabic No</td><td>7227</td></tr><tr><td>Reference</td><td>Book 94 Hadith 2</td></tr></tbody></table></div>
 

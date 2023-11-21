@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) said, "If anyone of you, when intend
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Salim] dari [Kuraib] dari [Ibn Abbas] radliyallahu'anhuma berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya salah seorang diantara kalian ingin mendatangi isterinya, maka panjatkanlah doa: 'BISMIKALLAAHUMMA JANNIBNASY WAJANNIBISYSYAITHAANA MAA RAZAQTANAA (Dengan nama Allah, jauhkanlah kami dari setan dan jauhkanlah setan yang Engkau anugerahkan kepada kami) ', jika ditakdirkan memperoleh anak dari keduanya, maka setan tak bakalan membahayakannya selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7396</td></tr><tr><td>Arabic No</td><td>7396</td></tr><tr><td>Reference</td><td>Book 97 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас захочет совершить половое сношение с женой и скажет: “С именем Аллаха, о Аллах, удали нас от шайтана и удали шайтана от того, кем Ты наделишь нас (Бисми-Лляхи, Аллахумма, джанниб-на-ш-шайтана ва джанниби-ш-шайтана ма разакта-на)”, — то если супругам будет суждено иметь ребёнка, шайтан никогда не сможет причинить ему вред»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7396</td></tr><tr><td>Arabic No</td><td>7396</td></tr><tr><td>Reference</td><td>Book 97 Hadith 25</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Abu Hazim added:An-Nu'man bin Abi 'Aiyash, on hearing me, said. "Did you hear th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abi Maryam] telah menceritakan kepada kami [Muhammad bin Mutharrif] telah menceritakan kepadaku [Abu Hazim] dari [Sahal bin Sa'd] mengatakan, Nabi shallallahu 'alaihi wasallam bersabda: "Akulah pertama-tama yang mendangi telaga, siapa yang menuju telagaku akan minum, dan siapa yang meminumnya tak akan haus selama-lamanya, sungguh akan ada beberapa kaum yang mendatangiku dan aku mengenalnya dan mereka juga mengenaliku, kemudian antara aku dan mereka dihalangi." Kata [Abu Hazim], [Nu'man bin Abi 'Ayyasy] mendengarku, maka ia berkomentar; 'Beginikah kamu mendengar dari Sahal? ' 'Iya' Jawabku. Lalu ia berujar; 'Saya bersaksi kepada [Abu Sa'id Alkhudzri], sungguh aku mendengarnya dan dia menambahi redaksi; "aku berkata; 'mereka adalah golonganku! ' tetapi di jawab; 'Sungguh engkau tidak tahu apa yang mereka lakukan sepeninggalmu! ' Maka aku berkata; 'menjauh, menjauh, bagi orang yang mengubah (agama) sepeninggalku." Kata Ibnu 'Abbas, istilah suhqan maknanya menjauh. Sahiq maknanya ba'id (jauh). Ashaqo maknanya ab'ada (menjauhkan). Sedang [Ahmad bin Syabib bin Sa'id Al Habathi] mengatakan, telah menceritakan kepada kami [ayahku] dari [Yunus] dari [Ibnu Syihab] dari [Sa'id bin Musayyab] dari [Abu Hurairah] bahwasanya ia menceritakan, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada hari kiamat beberapa orang sahabatku mendatangiku, kemudian mereka disingkirkan dari telaga, maka aku katakan; 'ya rabbi, (mereka) sahabatku! ' Allah menjawab; 'Kamu tak mempunyai pengetahuan tentang yang mereka kerjakan sepeninggalmu. Mereka berbalik ke belakang dengan melakukan murtad, bid'ah dan dosa besar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6584</td></tr><tr><td>Arabic No</td><td>6584</td></tr><tr><td>Reference</td><td>Book 81 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хазим сказал: «Меня услышал Ан-Ну‘ман ибн Аби ‘Аййаш и спросил: “Таким образом ты слышал от Сахля?” Я сказал: “Да”. Тогда он (Ан-Ну‘ман) сказал: “Я свидетельствую, что слышал, как Абу Са‘ид аль-Худри добавил к нему: “И я скажу, воистину, они из нас”. И будет сказано: “Ты не знаешь, что они изменили после тебя”. Тогда я скажу: “Убирайтесь, убирайтесь те, кто изменил после меня”».\nИбн ‘Аббас, да будет доволен им Аллах сказал: «“Сухкан” — отдалить». Говорится: ﴾سَحِيقٌ﴿ ﴾далекое﴿ [сура «аль-Хадж», аят 31]: далекий, «сахакаху» и «асхакаху» — отдалил
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6584</td></tr><tr><td>Arabic No</td><td>6584</td></tr><tr><td>Reference</td><td>Book 81 Hadith 172</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying that a man killed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] bahwasanya ia mendengar [Abu Ash Shiddiq An Naji] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam bahwasanya ada seorang laki-laki yang telah membunuh sembilan puluh sembilan orang, lalu ia bertanya apakah masih ada pintu taubat untuknya?" kemudian ia menemui seorang rahib dan bertanya kepadanya. Dia menjawab; 'Tidak ada pintu taubat untukmu.' Lalu ia membunuh rahib tersebut. Kemudian ia terus bertanya, hingga keluar dari desanya menuju desa yang lain yang di dalamnya terdapat orang-orang shalih. Namun ketika di tengah perjalanan, ajal menjemputnya. Ia pun meninggal dalam keadaan telungkup."Lalu Malaikat rahmat dan Malaikat azab saling berebut, setelah diukur jarak perjalanannya ternyata ia lebih dekat sejengkal dengan desa yang baik, maka ia pun digolongkan sebagai penghuni desa tersebut. Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ibnu Abu 'Adi] Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dengan sanad ini seperti hadits Mu'adz bin Mu'adz di dalamnya ada tambahan; 'Maka Allah mewahyukan kepada desa ini untuk menjauh sedangkan ke desa yang satunya lagi diperintahkan agar mendekat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7009</td></tr><tr><td>Arabic No</td><td>2766.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7009</td></tr><tr><td>Arabic No</td><td>2766.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 55</td></tr></tbody></table></div>
 

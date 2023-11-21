@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Zaid al-Ansari reported that the Messenger of Allah (ﷺ) went out t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Sulaiman bin Bilal] dari [Yahya bin Sa'id] ia berkata, telah mengabarkan kepadaku [Abu Bakar bin Muhammad bin Amru] bahwa [Abbad bin Tamim] telah mengabarkan kepadanya, bahwa [Abdullah bin Zaid Al Anshari] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam keluar ke tanah lapang untuk menunaikan shalat Istisqa'. Dan ketika beliau hendak berdo'a, beliau menghadap kiblat dan membalik pakaiannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2072</td></tr><tr><td>Arabic No</td><td>894.03</td></tr><tr><td>Reference</td><td>Book 9 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Яхйа ибн Са‘ид сказал: «Сообщил мне Абу Бакр ибн Мухаммад ибн ‘Амр о том, что ‘Аббад ибн Тамим рассказал ему, что ‘Абдуллах ибн Зейд аль-Ансари, да будет доволен им Аллах, рассказывал ему о том, что (однажды) Посланник Аллаха ﷺ отправился к (избранному им) месту молитвы, чтобы обратиться к Аллаху с мольбой о ниспослании дождя, и о том, что когда он захотел обратиться с мольбой, он повернулся в сторону къиблы и надел свой плащ по-другому»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2072</td></tr><tr><td>Arabic No</td><td>894.03</td></tr><tr><td>Reference</td><td>Book 9 Hadith 3</td></tr></tbody></table></div>
 

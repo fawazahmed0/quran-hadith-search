@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umair, the freed slave of Abi'l-Lahm reported:I was the slave (of Abi'l-Lahm). I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ibnu Numair] dan [Zuhair bin Harb] semuanya dari [Hafsh bin Ghiyats] - [Ibnu Numair] berkata- telah menceritakan kepada kami [Hafsh] dari [Muhammad bin Zaid] dari [Umair] Maula Abu Lahm, ia berkata; Dulu ketika aku masih menjadi budak, aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam, "Apakah aku boleh menyedekahkan harta benda majikanku?" Beliau menjawab: "Ya boleh, dan pahalanya dibagi antara kalian berdua setengah-setengah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2368</td></tr><tr><td>Arabic No</td><td>1025.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умайр, вольноотпущенник Абу аль-Ляхма, сказал: «Когда я был рабом, я спросил Посланника Аллаха ﷺ: “Могу ли я раздавать небольшую милостыню из имущества моего хозяина?” Пророк ﷺ ответил: “Да, и награда (за это будет поделена) между вами двумя пополам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2368</td></tr><tr><td>Arabic No</td><td>1025.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 105</td></tr></tbody></table></div>
 

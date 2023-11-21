@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid:Urwa bin Az-Zubair and I entered the Mosque (of the Prophet) an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Mujahid] berkata; Ketika aku dan 'Urwah bin Az Zubair masuk kedalam masjid disana ada ['Abdullah bin 'Umar radliallahu 'anhu] sedang duduk di bilik rumah 'Aisyah radliallahu 'anha, sedang orang-orang melaksanakan shalat Dhuha dalam masjid". Dia (Mujahid) berkata: "Maka kami bertanya kepadanya tentang shalat yang mereka kerjakan, maka dia berkata: "Itu adalah bid'ah". Kemudian dia berkata lagi kepadanya: "Berapa kali Rasulullah shallallahu 'alaihi wasallam pernah melaksanakan 'umrah?" Dia menjawab: "Empat kali, satu diantaranya pada bulan Rajab". Maka kami pun enggan untuk membantahnya. Mujahid melanjutkan: Kemudian kami mendengar suara ['Aisyah radliallahu 'anha] Ummul Mu'minin sedang menggosok gigi dari balik rumahnya, maka 'Urwah bertanya: "Wahai ibunda, wahai Ummul Mu'minin, apakah engkau tidak mendengar apa yang dikatakan oleh Abu 'Abdurrahman? 'Aisyah radliallahu 'anha berkata: "Apa yang telah dikatakannya? 'Urwah menjawab; Dia berkata, bahwa Rasulullah shallallahu 'alaihi wasallam melaksanakan 'umrah sebanyak empat kali satu diantaranya pada bulan Rajab". 'Aisyah radliallahu 'anha berkata: "Semoga Allah merahmati Abu 'Abdurrahman, tidaklah Beliau melaksanakan 'umrah sekalipun melainkan aku selalu mengikutinya dan Beliau tidak pernah melaksanakan 'umrah pada bulan Rajab sekalipun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1776</td></tr><tr><td>Arabic No</td><td>1776</td></tr><tr><td>Reference</td><td>Book 26 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Муджахид) сказал: «Тут мы услышали, как мать правоверных ‘Аиша чистит зубы в своей комнате, и ‘Урва сказал: “О матушка, о мать правоверных, слышишь ли ты, что говорит Абу ‘Абдуррахман?” Она спросила: “Что же он говорит?” (‘Урва) сказал: “Он говорит, что Посланник Аллаха ﷺ совершил умру четырежды(, в том числе) — один раз в раджабе”. (На это) она сказала: “Да помилует Аллах Абу ‘Абдуррахмана! (Пророк ﷺ) не совершил ни одной умры без него, но он никогда не совершал умру в раджабе!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1776</td></tr><tr><td>Arabic No</td><td>1776</td></tr><tr><td>Reference</td><td>Book 26 Hadith 3</td></tr></tbody></table></div>
 

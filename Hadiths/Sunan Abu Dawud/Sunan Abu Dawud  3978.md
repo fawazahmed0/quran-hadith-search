@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: Atiyyah ibn Sa'd al-Awfi said: I recited to Abdullah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Fudlail bin Marzuq] dari ['Athiyyah bin Sa'dan Al 'Aufi] ia berkata, "Aku pernah membacakan kepada [Abdullah bin Umar] ayat: 'ALLAHULLADZII KHALAQAKUM MIN DLA'FIN… (Allah, Dialah yang menciptakan kamu dari keadaan lemah...) (Qs. Ar Ruum: 54) ', kemudian ia berkata, 'MIN DLU'FIN…(dari kelemahan) -dengan dlammah-', aku pernah membacakan ayat tersebut kepada Rasulullah shallallahu 'alaihi wasallam sebagaimana engkau telah membacakannya kepadaku, kemudian beliau mengoreksiku sebagaimana aku telah mengoreksimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3978</td></tr><tr><td>Arabic No</td><td>3978</td></tr><tr><td>Reference</td><td>Book 32 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Атыйя ибн Са‘д аль-‘Ауфи сказал: «Я читал ‘Абдуллаху ибн ‘Умару аят “Аллах Тот, Кто создаёт вас из слабости” (сура «Рум», аят 54) и прочитал: “Да‘ф”. Он же поправил меня: “Ду‘ф”, и сказал: “Я читал тот же аят Посланнику Аллаха ﷺ и он так же поправил меня, как я сейчас поправляю тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3978</td></tr><tr><td>Arabic No</td><td>3978</td></tr><tr><td>Reference</td><td>Book 32 Hadith 10</td></tr></tbody></table></div>
 

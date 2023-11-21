@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Prophet (Saws) ordered a horned ram with black legs, black 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Abdullah bin Wahb], telah mengabarkan kepadaku [Haiwah], telah menceritakan kepadaku [Abu Shakhr] dari [Ibnu Qusaith] dari ['Urwah bin Az Zubair] dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk menyembelih domba yang bertanduk, berkaki hitam, sekitar matanya hitam, dan perutnya hitam. Kemudian beliau diberi kambing seperti itu, lalu beliau berkurban dengannya. Beliau berkata: "Wahai Aisyah, berikan pisau." Kemudian beliau berkata: "Tajamkan pisau tersebut dengan batu!" kemudian ia melakukannya, lalu Rasulullah shallallahu 'alaihi wasallam mengambilnya dan mengambil domba tersebut serta membaringkan dan menyembelihnya. Beliau mengucapkan: "BISMILLAAH, ALLAAHUMMA TAQABBAL MIN MUHAMMADIN WA AALI MUHAMMAD, WA MIN UMMATI MUHAMMAD (Dengan nama Allah, ya Allah, terimalah dari Muhammad dan keluarga Muhammad serta Ummat Muhammad). Kemudian beliau shallallahu 'alaihi wasallam berkurban dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1967)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2792</td></tr><tr><td>Arabic No</td><td>2792</td></tr><tr><td>Reference</td><td>Book 16 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Аиши, да будет доволен ею Аллах: «Посланник Аллаха ﷺ велел привести рогатого барана с чёрными ногами, кругами вокруг глаз и брюхом, чтобы принести его в жертву. Он сказал: “О ‘Аиша, дай мне нож”. Затем он сказал: “Наточи его о камень”. Я исполнила его веление. Тогда он взял нож и взял барана, уложил на землю и зарезал. (При этом сначала) он сказал: “С именем Аллаха! О Аллах, прими от Мухаммада и членов семьи Мухаммада и от общины Мухаммада” после чего принёс его в жертву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1967)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2792</td></tr><tr><td>Arabic No</td><td>2792</td></tr><tr><td>Reference</td><td>Book 16 Hadith 5</td></tr></tbody></table></div>
 

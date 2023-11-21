@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "Bilal pronounces the Adhan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin isma'il] telah menceritakan kepada kami ['Abdul 'aziz bin Abu Salamah] telah mengabarkan kepada kami [Ibnu Syihab] dari [Salim bin 'Abdullah] dari ['Abdullah bin 'Umar radliallahu 'anhuma] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bilal mengumandangkan adzan di tengah malam, maka silahkan kalian makan dan minum hingga adzan dikumandangkan", atau Beliau bersabda; "Hingga kalian dengar adzan Ibnu Ummi Maktum". Dan Ibnu Ummi Maktum adalah seorang sahabat yang buta, yang dia tidak mengumandangkan adzan kecuali setelah orang-orang berkata kepadanya 'Heih, sekarang engkau telah berada di waktu pagi (sekarang giliranmu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2656</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 52 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Поистине, Биляль произносит азан ночью, поэтому (продолжайте) есть и пить, пока призыв не начнёт возглашать Ибн Умм Мактум». Затем (передатчик этого хадиса) сказал: «А он был слепым и не начинал призывать к молитве, пока люди не говорили ему: “Светает!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2656</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 52 Hadith 20</td></tr></tbody></table></div>
 

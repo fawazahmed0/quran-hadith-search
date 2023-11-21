@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) has made Sadaqat-ul-Fitr obligatory, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] berkata, telah menceritakan kepada saya [Nafi'] dari [Ibnu 'Umar radliallahu 'anhu] berkata; "Rasulullah shallallahu 'alaihi wasallam mewajibkan zakat fithri satu sha' dari gandum atau sha' dari kurma bagi setiap anak kecil maupun dewasa, orang yang merdeka maupun hamba sahaya (budak)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1512</td></tr><tr><td>Arabic No</td><td>1512</td></tr><tr><td>Reference</td><td>Book 24 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ вменил в обязанность раздавать в день разговения садаку в размере одного са‘ ячменя или одного ca‘ фиников малому и старому, свободному человеку и невольнику»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1512</td></tr><tr><td>Arabic No</td><td>1512</td></tr><tr><td>Reference</td><td>Book 24 Hadith 112</td></tr></tbody></table></div>
 

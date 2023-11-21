@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu 'Ubaid said:I saw 'Ata b. Yazid al-Laithi praying in a standing posture. So 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abi Suraij Ar-Razi] telah mengabarkan kepada kami [Abu Ahmad Az-Zubairi] telah mengabarkan kepada kami [Masarrah bin Ma'bad Al-Lakhmi] Saya bertemu dengannya di Kufah, dia berkata; Telah menceritakan kepadaku [Abu Ubaid, seorang penjaga Sulaiman] dia berkata; Saya pernah melihat ['Atha' bin Zaid Al Laitsi] sedang berdiri shalat. Saya lewat di depannya, lalu beliau mencegahku. Setelah selesai shalat dia berkata; Telah menceritakan kepadaku [Abu Sa'id Al-Khudri] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa di antara kalian yang sanggup supaya seseorang tidak dapat lewat antara dia dengan kiblatnya, maka kerjakanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>699</td></tr><tr><td>Arabic No</td><td>699</td></tr><tr><td>Reference</td><td>Book 2 Hadith 309</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ‘Убайд, привратник Сулеймана (ибн ‘Абдуль-Малика) сказал: "(Однажды) я увидел, как ‘Атаъ ибн Язид ал-Лейси стоял совершая молитву и когда я (решил) пройти перед ним, он оттолкнул меня. Затем, (закончив молитву) он сказал: «Абу Са‘ид аль-Худри сообщил мне о том, что Посланник Аллаха ﷺ сказал: “Тот из вас, кто сможет сделать так, чтобы никто не проходил между ним и его киблой, пусть сделает это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>699</td></tr><tr><td>Arabic No</td><td>699</td></tr><tr><td>Reference</td><td>Book 2 Hadith 309</td></tr></tbody></table></div>
 

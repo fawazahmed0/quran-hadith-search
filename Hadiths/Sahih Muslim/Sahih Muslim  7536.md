@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), "Ces mots du Coran : Quand il
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdah bin Sulaiman] dari [Hisyam] dari [ayahnya] dari [Aisyah] tentang firman Allah 'azza wajalla: "(yaitu) ketika mereka datang kepadamu dari atas dan dari bawahmu, dan ketika tidak tetap lagi penglihatan(mu) dan hatimu naik menyesak sampai ke tenggorokan." (Al Ahzaab: 10) Ia berkata: Itu adalah perang khandaq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7536</td></tr><tr><td>Arabic No</td><td>3020</td></tr><tr><td>Reference</td><td>Book 56 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7536</td></tr><tr><td>Arabic No</td><td>3020</td></tr><tr><td>Reference</td><td>Book 56 Hadith 14</td></tr></tbody></table></div>
 

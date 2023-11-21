@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Umar said:When the Prophet (ﷺ) became fat, Tamim al-Dari said to him: Sho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Abu 'Ashim] dari [Ibnu Abu Rawwad] dari [Nafi'] dari [Ibnu Umar] bahwa ketika Nabi shallallahu 'alaihi wasallam memasuki usia lanjut, sahabat Tamim Addari berkata kepadanya; "Sudikah anda aku buatkan mimbar untuk anda pergunakan duduk wahai Rasulullah?" Beliau menjawab: "Ya!." Maka dia membuatkan mimbar dengan dua anak tangga untuk beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1081</td></tr><tr><td>Arabic No</td><td>1081</td></tr><tr><td>Reference</td><td>Book 2 Hadith 692</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что когда Пророк ﷺ отяжелел, Тамим ад-Дари сказал ему: «О Посланник Аллаха, давай я сделаю тебе минбар, чтобы ты мог сидеть на нём». (Посланник Аллаха ﷺ) ответил: «Давай». И он сделал для него минбар с двумя ступеньками
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1081</td></tr><tr><td>Arabic No</td><td>1081</td></tr><tr><td>Reference</td><td>Book 2 Hadith 692</td></tr></tbody></table></div>
 

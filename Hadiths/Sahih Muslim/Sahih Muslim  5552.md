@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that there happened to pass before Allah's Apostle (ﷺ) an ass t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Salamah bin Syabib]; Telah menceritakan kepada kami [Al Hasan bin A'yan]; Telah menceritakan kepada kami [Ma'qil] dari [Abu Az Zubair] dari [Jabir] bahwa seekor keledai yang di tato mukanya pernah lewat di hadapan Rasulullah shallallahu 'alaihi wasallam. Maka beliau bersabda: 'Allah mengutuk orang yang mentatonya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>2117</td></tr><tr><td>Reference</td><td>Book 37 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>2117</td></tr><tr><td>Reference</td><td>Book 37 Hadith 163</td></tr></tbody></table></div>
 

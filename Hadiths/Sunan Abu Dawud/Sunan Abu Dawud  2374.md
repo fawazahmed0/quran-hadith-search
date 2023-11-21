@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd al-Rahman b. Abi Laila:A man from the Companions of the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Sufyan] dari [Abdurrahman bin 'Abis] dari [Abdurrahman bin Abu Laila], telah menceritakan kepadaku [seorang sahabat] Nabi shallallahu 'alaihi wasallam bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang dari berbekam serta berpuasa wishal dan beliau tidak mengharamkannya sebagai belas kasih kepada para sahabatnya. Kemudian dikatakan kepada beliau; wahai Rasulullah, anda melakukan wishal hingga waktu sahur. Maka beliau berkata: "Aku melakukan (puasa) wishal hingga waktu sahur dan Tuhanku memberiku makan dan minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2374</td></tr><tr><td>Arabic No</td><td>2374</td></tr><tr><td>Reference</td><td>Book 14 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от одного из сподвижников Пророка ﷺ что Посланник Аллаха ﷺ запретил делать кровопускание во время поста и поститься непрерывно, хотя и не строго-настрого. Он поступил так, заботясь о своих сподвижниках. Ему сказали: «О Посланник Аллаха, но ведь ты не прерываешь свой пост иногда до самого рассвета». (Посланник Аллаха ﷺ) сказал: «Да, я не прерываю пост до самого рассвета. Однако мой Господь кормит и поит меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2374</td></tr><tr><td>Arabic No</td><td>2374</td></tr><tr><td>Reference</td><td>Book 14 Hadith 62</td></tr></tbody></table></div>
 

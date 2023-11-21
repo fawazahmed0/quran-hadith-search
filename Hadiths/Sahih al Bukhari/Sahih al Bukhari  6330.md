@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Warrad:(the freed slave of Al-Mughira bin Shu'ba) Al-Mughira wrote to M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Al Musayyab bin Rafi'] dari [Warrad] bekas budak [Mughirah bin Syu'bah] dia berkata; "Mughirah pernah menulis surat kepada Mu'awiyah bin Abu Sufyan bahwa Rasulullah shallallahu 'alaihi wasallam selepas shalat, beliau selalu mengucapkan do'a; 'LAA ILAAHA ILLALLAH WAHDAHUU LAA SYARIIKALAH LAHUL MULKU WALAHUL HAMDU WAHUWA 'ALAA KULLI SYAI'IN QADIIR, ALLAHUMMA LAA MAANI'A LIMAA A'THAITA WALLA MU'THIYA LIMAA MANA'TA WALAA YANFA'U DZAL JADDI MINKAL JADDU (Tiada Dzat yang berhak disembah selain Allah, tiada sekutu bagi-Nya, Dia yang mempunyai kekuasaan dan segala pujian. Dia Maha Kuasa atas segala sesuatu. Ya Allah, tiada yang bisa menghalangi apa yang Engkau berikan dan tiada yang bisa memberi apa yang Engkau halangi. Tidaklah bermanfaat kekayaan dan harta benda dari-Mu bagi pemiliknya)." Dan berkata [Syu'bah] dari [Manshur], dia berkata; saya mendengar [Al Musayyab]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6330</td></tr><tr><td>Arabic No</td><td>6330</td></tr><tr><td>Reference</td><td>Book 80 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Мугъира (ибн Шу‘ба) написал Му‘авии [ибн Абу Суфьяну], что посланник Аллаха ﷺ, закончив молиться и произнеся слова таслима, обычно говорил: «Нет божества, достойного поклонения, кроме Одного лишь Аллаха, у Которого нет сотоварища. Ему принадлежит владычество и Ему хвала, и Он всё может! О Аллах, никто не лишит того, что Ты даровал, и никто не дарует того, чего Ты лишил, и бесполезным перед Тобой окажется богатство обладающего богатством.\n/Ля иляха илля-Ллаху вахда-ху ля шарика ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамду ва хува ‘аля кулли шай’ин кадир! Аллахумма, ля мани‘а ли-ма а‘тайта, ва ля му‘тыйа ли-ма мана‘та ва ля йанфа‘у за-ль-джадди мин-ка-ль-джадд/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6330</td></tr><tr><td>Arabic No</td><td>6330</td></tr><tr><td>Reference</td><td>Book 80 Hadith 27</td></tr></tbody></table></div>
 

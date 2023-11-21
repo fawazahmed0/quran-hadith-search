@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Nu’man b. Bashir said:the Messenger of Allah (ﷺ) paid attention to the pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Waki'] dari [Zakariyya bin Abi Za'idah] dari [Abul Qasim Al-Judali] dia berkata; Saya telah mendengar [An-Numan bin Basyir] berkata; Rasulullah shallallahu 'alaihi wasallam biasa menghadap kepada jamaah, lalu bersabda: "Luruskanlah shaf shaf kalian! -beliau mengucapkannya tiga kali- Demi Allah, hendaklah kalian benar-benar meluruskan shaf shaf kalian, atau Allah benar--benar akan membuat hati kalian saling berselisih." Kata Nu'man; Maka saya melihat seseorang melekatkan (merapatkan) pundaknya dengan pundak temannya (orang di sampingnya), demikian pula antara lutut dan mata kakinya dengan lutut dan mata kaki temannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>662</td></tr><tr><td>Arabic No</td><td>662</td></tr><tr><td>Reference</td><td>Book 2 Hadith 272</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу-ль-Къасым аль-Джадали сказал: «Я слышал, как ан-Ну‘ман ибн Башир говорил: «(Однажды) Посланник Аллаха ﷺ повернулся лицом к людям и трижды сказал: “Выравнивайте ряды! Клянусь Аллахом, либо вы будете выравнивать ваши ряды, либо Аллах приведёт в разногласие ваши сердца!”».(Ан-Ну‘ман ибн Башир) сказал: «И я видел, как человек прижимался плечом к плечу стоявшего рядом своего товарища, своим коленом к его колену и своей щиколоткой к его щиколотке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>662</td></tr><tr><td>Arabic No</td><td>662</td></tr><tr><td>Reference</td><td>Book 2 Hadith 272</td></tr></tbody></table></div>
 

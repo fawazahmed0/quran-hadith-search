@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:. The similitude of a mis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] Telah menceritakan kepada kami [Ahmad bin Ishaq Al Hadlrami] dari [Wuhaib] Telah menceritakan kepada kami [Abdullah bin Thawus] dari [bapaknya] dari [Abu Hurairah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaan orang yang bakhil dan orang yang menafkahkan hartanya bagaikan dua orang yang memakai baju besi, tetapi baju besi itu hanya menutupi buah dadanya hingga tulang selangkanya. Adapun baju besi yang dipakai oleh orang yang bersedekah, setiap kali ia bersedekah maka baju besinya akan melonggar sehingga akhirnya menutupi seluruh badan hingga jari-jari kakinya, bahkan dapat menghapus bekas jejak kakinya. Sedangkan jubah besi yang dipakai oleh orang yang bakhil, maka setiap kali ia menolak untuk menafkahkan hartanya, niscaya baju besi itu akan menyempit sehingga menempel ketat di kulitnya." Abu Hurairah berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap kali ia berusaha untuk melonggarkannya, maka ia tidak mampu melonggarkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2361</td></tr><tr><td>Arabic No</td><td>1021.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Скупой и раздающий милостыню подобны двум мужам в железных кольчугах. Когда подающий милостыню хочет подать её, (его кольчуга) расширяется и покрывает кончики пальцев его (ног, в результате чего) стираются его следы . Когда же милостыню хочет подать скупой, его кольчуга сжимается, его руки соединяются с ключицами и каждое кольцо примыкает к соседнему (кольцу)».Абу Хурайра сказал: «И я слышал, как Посланник Аллаха ﷺ говорил: “Он пытается расширить её, но у него не получается”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2361</td></tr><tr><td>Arabic No</td><td>1021.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 98</td></tr></tbody></table></div>
 

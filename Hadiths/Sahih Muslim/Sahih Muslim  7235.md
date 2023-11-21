@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zainab bint Jahsh reported that Allah's Apostle (ﷺ) got up from sleep saying:T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Urwah] dari [Zainab binti Ummu Salamah] dari [Ummu Habibah] dari [Zainab binti Jahsy] nabi Shallallahu 'alaihi wa Salam bangun tidur dan beliau mengucapkan: "LAA ILAAHA ILLALLAAH, celakalah bangsa arab dari keburukan yang mendekat, saat ini penghalang Ya'juj dan Ma'juj telah terbuka seperti ini -Sufyan dan lainnya melekatkan kesepuluh jarinya- aku (Zainab) bertanya: Wahai Rasulullah, apakah kita akan dibinasakan sementara ditengah-tengah kami ada orang-orang shalih? Beliau menjawab: "Ya, bila kekejian banyak (menyebar)." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah], [Sa'id bin Amru Al Asy'atsi], [Zuhair bin Harb] dan [Ibnu Abi Umar], mereka berkata: Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dengan sanad ini. mereka menambahkan dalam sanad Sufyan, mereka berkata: Dari [Zainab binti Abu Salamah] dari [Habibah] dari [Ummu Habibah] dari [Zainab binti Jahsy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7235</td></tr><tr><td>Arabic No</td><td>2880.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7235</td></tr><tr><td>Arabic No</td><td>2880.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 1</td></tr></tbody></table></div>
 

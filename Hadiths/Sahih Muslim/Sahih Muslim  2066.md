@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that some Abyssinians came and gave a demonstration of armed fig
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Hisyam] dari [bapaknya] dari [Aisyah] ia berkata; Orang-orang Habasyah sedang bermain-main di Masjid pada hari raya. Maka Nabi shallallahu 'alaihi wasallam memanggilku, aku pun meletakkan kepala di atas pundaknya untuk melihat permainan mereka sampai aku sendiri yang berhenti melihat mereka. Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Yahya bin Zakariya bin Abu Za'idah] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Muhammad bin Bisyr] keduanya dari [Hisyam] dengan isnad ini, namun ia tidak menyebutkan; "Di dalam masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2066</td></tr><tr><td>Arabic No</td><td>892.06</td></tr><tr><td>Reference</td><td>Book 8 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Когда эфиопы пришли в день праздника в мечеть и стали соревноваться, Пророк ﷺ позвал меня, и я положила голову ему на плечо и начала смотреть на их игры. (И я продолжала смотреть на них) пока мне это не наскучило»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2066</td></tr><tr><td>Arabic No</td><td>892.06</td></tr><tr><td>Reference</td><td>Book 8 Hadith 21</td></tr></tbody></table></div>
 

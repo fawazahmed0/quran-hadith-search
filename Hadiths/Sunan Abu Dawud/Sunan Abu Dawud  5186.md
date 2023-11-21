@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Busr: When the Messenger of Allah (ﷺ) came to some peopl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muammal Ibnul Fadhl Al Harrani] bersama beberapa orang ulama, mereka berkata; telah menceritakan kepada kami [Baqiyyah Ibnul Walid] berkata, telah menceritakan kepada kami [Muhammad bin 'Abdurrahman] dari [Abdullah bin Busr] ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam mendatangi pintu suatu kaum, beliau tidak berdiri di depan pintu, tetapi beliau berada di sisi sebelah kanan atau kirinya seraya mengucapkan: "Assalamu Alaikum Assalamu Alaikum." Sebab saat itu rumah-rumah belum ada yang mengunakan satir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5186</td></tr><tr><td>Arabic No</td><td>5186</td></tr><tr><td>Reference</td><td>Book 43 Hadith 414</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что сподвижник Пророка ﷺ ‘Абдуллах ибн Буср, да будет доволен им Аллах, сказал: «Обычно, подойдя к чьему-либо дому, Посланник Аллаха ﷺ не стоял прямо напротив двери, а становился справа или слева от нее и говорил: “Ас-саляму алейкум, ас-саляму алейкум! (Мир вам! Мир вам!)”, и это было ещё в то время, когда на дверях не было занавесок»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5186</td></tr><tr><td>Arabic No</td><td>5186</td></tr><tr><td>Reference</td><td>Book 43 Hadith 414</td></tr></tbody></table></div>
 

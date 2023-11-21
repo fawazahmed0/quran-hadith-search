@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Asma:I prepared the journey food for the Prophet (ﷺ) and Abu Bakr whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Hisyam] dari [bapaknya] dan [Fathimah] dari [asma'] radliallahu 'anha berkata; Aku membuatkan bekal perjalanan untuk Nabi shallallahu 'alaihi wasallam dan Abu Bakar ketika keduanya hendak berangkat hijrah menuju Madinah. Aku katakan kepada bapakku; "Aku tidak mendapatkan sesuatu untuk mengikat melainkan kain ikat pinggangku". Bapakku berkata; "Potonglah kain ikat pinggang itu". Maka aku melakukannya. Dari situlah kemudian aku dijuluki dengan Dzatin Nithaqain (Wanita yang mempunyai dua potongan ikat pinggang) " Sedang Ibnu 'Abbas radliallahu 'anhuma berkata; "'Asma' adalah Dzatu Nithaq
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3907</td></tr><tr><td>Arabic No</td><td>3907</td></tr><tr><td>Reference</td><td>Book 63 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма, да будет доволен ею Аллах, сказала: «Когда Пророк ﷺ с Абу Бакром решили переселиться в Медину, я приготовила для них еду в дорогу. Я сказала отцу: “Я не могу найти ничего, кроме своего пояса, чтобы перевязать (припасы)!” Он сказал: “Так разорви его на две части”. Я так и сделала, и поэтому меня стали называть “обладательницей двух поясов /зат ан-нитакейн/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3907</td></tr><tr><td>Arabic No</td><td>3907</td></tr><tr><td>Reference</td><td>Book 63 Hadith 132</td></tr></tbody></table></div>
 

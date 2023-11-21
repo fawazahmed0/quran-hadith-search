@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Suwaid bin An-Nu'man:I went out in the company of the Prophet (ﷺ) in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Yahya bin Sa'id] dari [Busyair bin Yasar] bahwa [Suwaid bin An Nu'man] mengabarkannya bahwa dia pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam ketika perang Khaibar, ketika mereka sampai di Shahba' yaitu pinggiran Khaibar, beliau mengerjakan shalat 'Ashar. Setelah itu beliau minta perbekalan, namun beliau tidak diberi kecuali makanan yang terbuat dari tepung. Maka beliau memintanya lalu memakannya dan kami pun ikut memakannya. Setelah itu beliau berdiri untuk melaksanakan shalat Maghrib, beliau berkumur-kumur, dan kami juga berkumur-kumur, lalu mengerjakan shalat tanpa berwudlu' lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>4195</td></tr><tr><td>Reference</td><td>Book 64 Hadith 235</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сувайд ибн ан-Ну‘ман передал, что в год Хайбара он вместе с Пророком ﷺ выступил (из Медины). Когда они достигли Сахбы, расположенной поблизости от Хайбара, (Пророк ﷺ) совершил послеполуденную /‘аср/ молитву, а затем велел принести еду, однако подать могли только савик, который по его велению увлажнили. Затем Посланник Аллаха ﷺ и все остальные поели, после чего он поднялся с места для совершения закатной /магъриб/ молитвы и прополоскал рот, что сделали и все остальные, а потом он приступил к молитве, не совершив омовения
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>4195</td></tr><tr><td>Reference</td><td>Book 64 Hadith 235</td></tr></tbody></table></div>
 

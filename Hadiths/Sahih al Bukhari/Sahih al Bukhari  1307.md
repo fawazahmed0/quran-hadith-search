@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amir bin Rabi'a:The Prophet (ﷺ) said, "Whenever you see a funeral pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Az Zuhriy] dari [Salim] dari [bapaknya] dari ['Amir bin Rabi'ah] dari Nabi Shallallahu'alaihiwasallam bersabda: "Jika kalian melihat jenazah maka berdirilah hingga dia meninggalkan (berlalu dari) kalian. Berkata, [Sufyan] berkata, [Az Zuhriy] telah mengabarkan kepada saya [Salim] dari [bapaknya] berkata, telah mengabarkan kepada kami ['Amir bin Rabi'ah] dari Nabi Shallallahu'alaihiwasallam. [Al Humaidiy] menambahkan: "Hingga meninggalkan kalian atau diletakkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1307</td></tr><tr><td>Arabic No</td><td>1307</td></tr><tr><td>Reference</td><td>Book 23 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Амира ибн Раби‘а, что Пророк ﷺ сказал: «Если увидите погребальные носилки, то встаньте и не садитесь, пока похоронная процессия не минует вас». \nАль-Хумейди добавил: «…пока похоронная процессия не минует вас или погребальные носилки не опустят на землю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1307</td></tr><tr><td>Arabic No</td><td>1307</td></tr><tr><td>Reference</td><td>Book 23 Hadith 65</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: I met my uncle who was carrying a standard. I asked 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Qusaith Ar raqqi] berkata, telah menceritakan kepada kami [Ubaidullah bin Amru] dari [Zaid bin Abu Unaisah] dari [Adi bin Tsabit] dari [Yazid Ibnul Bara] dari [Bapaknya] ia berkata, "Aku pernah bertemu dengan pamanku yang ketika itu sedang membawa bendera. Aku lalu bertanya kepadanya, "Mau kemana engkau akan pergi?" ia menjawab, "Rasulullah shallallahu 'alaihi wasallam mengutusku untuk mendatangi seorang laki-laki yang menikahi isteri bapaknya, beliau memerintahkan kepadaku untuk memenggal lehernya dan mengambil hartanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4457</td></tr><tr><td>Arabic No</td><td>4457</td></tr><tr><td>Reference</td><td>Book 40 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Язид ибн аль-Бара передаёт от своего отца: «Я встретил своего дядю, в руках которого было знамя, и спросил его: “Куда ты направляешься?” Он же сказал: “Посланник Аллаха ﷺ отправил меня к человеку, который взял в жёны вдову своего отца, и велел мне отрубить ему голову и забрать его имущество”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4457</td></tr><tr><td>Arabic No</td><td>4457</td></tr><tr><td>Reference</td><td>Book 40 Hadith 107</td></tr></tbody></table></div>
 

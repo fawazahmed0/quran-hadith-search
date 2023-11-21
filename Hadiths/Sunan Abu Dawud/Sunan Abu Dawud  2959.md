@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Dhul-Zawa'id: Mutayr said: I heard a man say: I heard the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hisyam bin 'Ammar], telah menceritakan kepada kami [Sulaim bin Muthair] yang merupakan diantara penduduk Bukit Qura, dari [ayahnya], bahwa ia telah menceritakan kepadanya, ia berkata; aku telah mendengar [seorang laki-laki] berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam pada saat haji wada', beliau memerintahkan dan melarang manusia, kemudian berkata: "Saksikanlah ya Allah, apakah aku telah menyampaikan?" mereka berkata; ya. Kemudian beliau berkata: "Apabila orang-orang Quraisy berselisih memperebutkan kerajaan diantara mereka dan pemberian kembali menjadi suap maka jangan engkau ambil!" kemudian ditanyakan; siapakah orang ini? Mereka berkata; ini adalah Dzu Az Zawaid, sahabat Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2959</td></tr><tr><td>Arabic No</td><td>2959</td></tr><tr><td>Reference</td><td>Book 20 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Суляйм ибн Мутайр, шейх из числа жителей Вади-аль-Кура, передаёт, что его отец рассказывал ему: «Я слышал, как один человек говорил: “Я слышал, как Посланник Аллаха ﷺ в прощальном хадже доводил до сведения людей веления и запреты и говорил: “Довёл ли я?” Люди говорили: “О Аллах, да!” Затем (Посланник Аллаха ﷺ) сказал: “Когда курайшиты станут сражаться друг с другом за власть, а содержание уподобится взяткам, оставьте его”. Люди спросили: “Кем был этот человек?” Другие ответили: “Это Абу аз-Заваид, сподвижник Посланника Аллаха ﷺ””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2959</td></tr><tr><td>Arabic No</td><td>2959</td></tr><tr><td>Reference</td><td>Book 20 Hadith 32</td></tr></tbody></table></div>
 

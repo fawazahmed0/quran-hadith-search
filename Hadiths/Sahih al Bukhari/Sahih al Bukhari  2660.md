@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin Al-Harith:I married a woman and later on a woman came and sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] dari ['Umar bin Sa'id] dari [Ibnu Abi Mulaikah] dari ['Uqbah bin Al Harits] berkata; "Aku menikah dengan seorang wanita lalu datang wanita lain seraya berkata: "Aku telah menyusui kalian berdua". Lalu aku menemui Nabi shallallahu 'alaihi wasallam, maka Beliau bersabda: "Wanita itu telah mengatakannya. biarkanlah wanita itu" Atau ucapan semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2660</td></tr><tr><td>Arabic No</td><td>2660</td></tr><tr><td>Reference</td><td>Book 52 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укъба ибн аль-Харис, сказал: «После того как я женился, ко мне пришла какая-то женщина и сказала: “Поистине, я кормила грудью вас обоих!” Тогда я пришёл к Пророку ﷺ, и он сказал: “Как (она может оставаться твоей женой), если было сказано (, что она — твоя молочная сестра)?! Оставь её!” Или слова подобные этим»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2660</td></tr><tr><td>Arabic No</td><td>2660</td></tr><tr><td>Reference</td><td>Book 52 Hadith 24</td></tr></tbody></table></div>
 

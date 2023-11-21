@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "Evil omen is in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] ia berkata; Telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari [Hamzah] dan [Salim] keduanya adalah anak Abdullah bin Umar, dari [Abdullah bin Umar] radliallahu 'anhuma, bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: " Adakalanya kesialan itu ada pada wanita, rumah dan juga kuda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5093</td></tr><tr><td>Arabic No</td><td>5093</td></tr><tr><td>Reference</td><td>Book 67 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: “Дурное предзнаменование (злополучие) /шуъму/ (могут быть связаны) с женщиной, домом и лошадью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5093</td></tr><tr><td>Arabic No</td><td>5093</td></tr><tr><td>Reference</td><td>Book 67 Hadith 31</td></tr></tbody></table></div>
 

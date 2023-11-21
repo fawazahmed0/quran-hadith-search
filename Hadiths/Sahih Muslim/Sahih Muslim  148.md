@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is reported on the authority of Anas b. Malik that the Prophet of Allah (may 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Mu'adz bin Hisyam] dia berkata, telah menceritakan kepada kami [bapakku] dari [Qatadah] dia berkata, telah menceritakan kepada kami [Anas bin Malik] bahwa Nabi Allah (dalam satu perjalanan), sedangkan Mu'adz bin Jabal dibonceng di atas kendaraan beliau, Rasulullah shallallahu 'alaihi wasallam lalu memanggil: "Wahai Mu'adz!" Mu'adz menyahut, "Aku penuhi panggilanmu wahai Rasulullah". Rasulullah shallallahu 'alaihi wasallam memanggil lagi: "Wahai Mu'adz!" Aku menyahut lagi, "Aku penuhi panggilanmu wahai Rasulullah". Rasulullah shallallahu 'alaihi wasallam memanggil: "Wahai Mu'adz!" Aku menyahut lagi, "Aku penuhi panggilanmu wahai Rasulullah." Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Barangsiapa yang mengucap dua Kalimah Syahadat yaitu: tidak ada tuhan (yang berhak disembah) selain Allah dan bahwa Muhammad hamba dan utusan-Nya niscaya dia selamat dari api Neraka." Kemudian Mu'adz berkata, "Bolehkah aku memberitahu perkara ini kepada manusia agar mereka sebarkan berita gembira ini?" Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau (berbuat) begitu, maka mereka akan bersandar dengannya." Lalu Mu'adz menyebarkan kabar tersebut menjelang kematiannya khawatir menanggung salah (karena menyembunyikan hadits)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>148</td></tr><tr><td>Arabic No</td><td>32</td></tr><tr><td>Reference</td><td>Book 1 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Катада сказал: «Анас ибн Малик рассказывал нам о том, что (однажды, когда) Пророк Аллаха ﷺ (ехал верхом), а позади него в седле сидел Му’аз ибн Джабаль, (Пророк ﷺ) сказал: “О Му’аз!” (Му‘аз) сказал: “Я перед тобой, о Посланник Аллаха, и счастлив служить тебе!” (Пророк ﷺ снова) сказал: “О Му’аз!”, (и Му‘аз снова) сказал: “Я перед тобой, о Посланник Аллаха, и счастлив служить тебе!”, (Пророк ﷺ снова) сказал: “О Му’аз!”, (и Му‘аз снова) сказал: “Я перед тобой, о Посланник Аллаха, и счастлив служить тебе!” (Тогда Пророк ﷺ) сказал: “Какой бы раб (Аллаха) ни засвидетельствовал, что нет божества, достойного поклонения, кроме Аллаха, и что Мухаммад Его раб и Его посланник, искренне (веруя в это) сердцем своим, Аллах обязательно сделает его запретным для огня”. (Му‘аз) спросил: “О Посланник Аллаха, так не сообщить ли мне об этом людям, чтобы они порадовались?” Он сказал: “Тогда они (только на это) и будут надеяться”, и Му‘аз сообщил (людям) об (этих словах Пророка ﷺ) лишь незадолго до своей смерти, считая (дальнейшее молчание) греховным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>148</td></tr><tr><td>Arabic No</td><td>32</td></tr><tr><td>Reference</td><td>Book 1 Hadith 55</td></tr></tbody></table></div>
 

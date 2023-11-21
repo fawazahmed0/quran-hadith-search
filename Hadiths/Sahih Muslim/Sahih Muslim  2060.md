@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Utba reported that his father Waqid al-Laithi said:'Umar b. Khattab asked me wha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abu Amir Al 'Aqadi] telah menceritakan kepada kami [Fulaih] dari [Dlamrah bin Sa'id] dari [Ubaidullah bin Abdullah bin Utbah] dari [Abu Waqid Al Laitsi] ia berkata; Umar bin Al Khathab bertanya kepadaku, "Surat apa yang dibaca oleh Rasulullah shallallahu 'alaihi wasallam pada saat shalat Ied?" saya menjawab, "Yaitu, belia membaca surat, 'IQTARABATIS SAA'ATU' dan 'QAAF WAL QUR'ANIL MAJIID
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2060</td></tr><tr><td>Arabic No</td><td>891.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Убайдуллах ибн ‘Абдуллах ибн ‘Утба передал, что Абу Вакид аль-Лейси сказал: «(Однажды) ‘Умар ибн аль-Хаттаб спросил меня о том, что Посланник Аллаха ﷺ читал в дни праздников, и я сказал: «“Приблизился Час этот…” и “Каф. Клянусь славным Кораном!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2060</td></tr><tr><td>Arabic No</td><td>891.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 15</td></tr></tbody></table></div>
 

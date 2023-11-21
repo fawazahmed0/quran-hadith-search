@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Aisha said (in another narration), ("When the Prophet (ﷺ) was on his death-bed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3670</td></tr><tr><td>Arabic No</td><td>3670</td></tr><tr><td>Reference</td><td>Book 62 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Затем Абу Бакр открыл людям глаза на истину и объяснил им их обязанности. После его речи они разошлись, повторяя: “Мухаммад не более чем посланник, до которого уже были посланники. Неужели же, если он умрет или будет убит, вы повернете вспять?! А если кто и повернет вспять, то ничем он не повредит Аллаху, Аллах же воздаст благодарным!” (сура “Али ‘Имран”, аят 144)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3670</td></tr><tr><td>Arabic No</td><td>3670</td></tr><tr><td>Reference</td><td>Book 62 Hadith 20</td></tr></tbody></table></div>
 

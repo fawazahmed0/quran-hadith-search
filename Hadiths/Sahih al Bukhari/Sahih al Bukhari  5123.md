@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab bint Salama:Um Habiba said to Allah's Messenger (ﷺ) "We have h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari ['Irak bin Malik] bahwa [Zainab binti Abu Salamah] Telah mengabarkan kepadanya bahwa [Ummu Habibah] berkata kepada Rasulullah shallallahu 'alaihi wasallam, "Kami telah berbincang-bincang bahwa Anda ingin menikahi Durrah binti Abu Salamah." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah juga dengan menyatukan Ummu Salamah? Sekiranya aku tidak menikahi Ummu Salamah pun, maka ia juga tidak halal bagiku. Sesungguhnya bapaknya adalah saudara sesusuan denganku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5123</td></tr><tr><td>Arabic No</td><td>5123</td></tr><tr><td>Reference</td><td>Book 67 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Зейнаб бинт Аби Саляма, что Умм Хабиба сказала Посланнику Аллаха ﷺ: «Мы разговаривали о том, что ты хочешь взять в жёны Дурру, дочь Абу Салямы». Посланник Аллаха ﷺ сказал: «(Ты имеешь в виду) дочь Умм Салямы? Даже если бы я не женился на (её матери) Умм Саляме, мне (всё равно) нельзя было бы (жениться) на ней, ибо её отец приходится мне молочным братом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5123</td></tr><tr><td>Arabic No</td><td>5123</td></tr><tr><td>Reference</td><td>Book 67 Hadith 59</td></tr></tbody></table></div>
 

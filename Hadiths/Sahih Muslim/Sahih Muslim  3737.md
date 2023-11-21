@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Safiyya bint Abu 'Ubaid reported that she heard Hafsa daughter of Umar (Allah be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah] dan [Ibnu Rumh] dari [Al Laits bin Sa'ad] dari [Nafi'] bahwa [Shafiyyah binti Abi Ubaid] telah menceritakan kepadanya dari [Hafshah] atau dari ['Aisyah] atau dari keduanya bahwasannya Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak halal bagi seorang wanita yang beriman kepada Allah dan Hari Akhir atau beriman kepada Allah dan Rasul-Nya melakukan ihdad karena kematian saudaranya melebihi tiga hari kecuali karena kematian suaminya." Dan telah menceritakan kepada kami pula [Syaiban bin Farrukh] telah menceritakan kepada kami [Abdul Aziz] yaitu Ibnu Muslim, telah menceritakan kepada kami [Abdullah bin Dinar] dari [Nafi'] dengan isnad haditsnya Al Laits seperti riwayatnya. Dan telah menceritakan kepada kami [Abu Ghazzan Al Misma'i] dan [Muhammad bin Al Mutsanna] keduanya berkata; Telah menceritakan kepada kami [Abdul Wahhab] dia berkata; Saya mendengar [Yahya bin Sa'id] berkata; Saya mendengar [Nafi'] telah menceritakan dari [Shafiyyah binti Ab Ubaid] bahwa dia telah mendengar [Hafshah binti Umar] istri Nabi shallallahu 'alaihi wasallam telah menceritakan dari Nabi shallallahu 'alaihi wasallam seperti hadits Al Laits dan Ibnu Dinar dengan menambahan; Bahwa wanita melakukan ihdad (berkabung) karena kematian suaminya selama empat bulan sepuluh hari. Dan telah menceritakan kepada kami [Abu Ar Rabi'] telah menceritakan kepada kami [Hammad] dari [Ayyub]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami ['Ubaidullah] semuanya dari [Nafi'] dari [Shafiyyah binti Abi Ubaid] dari [sebagian istri Nabi] shallallahu 'alaihi wasallam dari Nabi shallallahu 'alaihi wasallam dengan hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3737</td></tr><tr><td>Arabic No</td><td>1490.03</td></tr><tr><td>Reference</td><td>Book 18 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3737</td></tr><tr><td>Arabic No</td><td>1490.03</td></tr><tr><td>Reference</td><td>Book 18 Hadith 82</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) used to practice I'tikaf (i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Hamzah] berkata, telah menceritakan kepada saya [Ibnu Abu HAzim] dan [Ad-Darawardiy] dari [YAzid bin Al Had] dari [Muhammad bin Ibrahim] dari [Abu Salamah] dari [Abu Sa'id Al Khudriy radliallahu 'anhu]; Rasulullah shallallahu 'alaihi wasallam 'i'tikaf di bulan Ramadhan pada sepuluh malam pertengahan bulan. Kemudian ketika telah melewati malam ke dua puluh menjelang malam kedua puluh satu Beliau datang kembali ke tempat khusus i'tikaf Beliau begitu pula mereka yang sebelumnya beri'tikaf bersama Beliau. Pada malam ketika Beliau kembali beri'tikaf di bulan tersebut, Beliau menyampaikan khuthbah di hadapan orang banyak dan memerintahkan mereka menurut apa yang Allah kehendaki, lalu Beliau bersabda: "Aku sudah melaksanakan i'tikaf pada sepuluh malam sebelumnya dari bulan ini kemudian dinampakkan kepadaku agar beri'tikaf pada sepuluh hari terakhir, maka siapa yang telah beri'tikaf bersamaku tetaplah pada tempatnya beri'tikaf. Sungguh telah diperlihatkan kepadaku tentang malam Lailatul Qadar namun aku dilupakan waktunya yang pasti, maka carilah pada sepuluh malam-malam akhir dan carilah pada malam yang ganjil. Sungguh aku melihat diriku (dalam mimpi) sujud diatas air dan tanah (yang becek) ". Kemudian langit tampak mendung pada malam itu lalu turunlah hujan hingga masjid bocor mengenai posisi tempat shalat Nabi shallallahu 'alaihi wasallam pada malam kedua puluh satu. Kemudian mataku memandang Rasulullah shallallahu 'alaihi wasallam, aku melihat Beliau setelah Shubuh dengan wajah Beliau yang penuh dengan tanah dan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2018</td></tr><tr><td>Arabic No</td><td>2018</td></tr><tr><td>Reference</td><td>Book 32 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ совершал и‘тикаф (неотлучно пребывал в мечети) в середине третьей части рамадана, и после того, как проходило двадцати ночей, он обычно возвращался в свой дом двадцать первого числа, и те, кто совершали и‘тикаф вместе с ним тоже возвращались. Но в один из месяцев, он остался в ту ночь, когда он обычно возвращался домой. Он обратился к людям, приказал им то, что пожелал Аллах, и сказал: “Я совершал и‘тикаф в течении этих десяти дней, теперь я решил совершать и‘тикаф в последние десять дней. Поэтому, пусть тот, кто совершал и‘тикяф вместе со мной, останется (на своём месте), ведь мне была показана эта ночь, но затем она была забыта мной. Ищите же её в последние десять ночей и ищите её во все нечётные ночи. И я видел, как я совершаю земной поклон на воду и глину”. В эту ночь (двадцать первого) пошёл дождь, и вода начала просачиваться через крышу мечети в место молитвы Пророка ﷺ, и я видел это своими глазами. Я посмотрел на Пророка ﷺ после того, как он закончил утреннюю молитву, его лицо было покрыто глиной и водой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2018</td></tr><tr><td>Arabic No</td><td>2018</td></tr><tr><td>Reference</td><td>Book 32 Hadith 5</td></tr></tbody></table></div>
 

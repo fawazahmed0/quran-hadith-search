@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amra bint 'Abdur-Rahman from 'Aisha:Allah's Messenger (ﷺ) used to pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] dia adalah Ibnu Salam telah mengabarkan kepada kami [Muhammad bin Fudhail bin Ghozwan] dari [Yahya bin Sa'id] dari ['Amrah binti 'Abdurrahman] dari ['Aisyah radliallahu 'anha] berkata: Rasulullah shallallahu 'alaihi wasallam selalu beri'tikaf pada bulan Ramadhan. Apabila selesai dari shalat Shubuh Beliau masuk ke tempat khusus i'tikaf Beliau. Dia (Yahya bin Sa'id) berkata: Kemudian 'Aisyah radliallahu 'anha meminta izin untuk bisa beri'tikaf bersama Beliau, maka Beliau mengizinkannya. Lalu 'Aisyah radliallahu 'anha membuat tenda khusus. Kemudian hal ini didengar oleh Hafshah, maka diapun membuat tenda serupa. Begitu juga hal ini kemudian didengar oleh Zainab maka dia pun membuat tenda yang serupa. Ketika Beliau selesai dari shalat Shubuh Beliau melihat tenda-tenda tersebut, maka Beliau berkata: "Apa ini?" Lalu Beliau diberitahu dengan apa yang telah diperbuat oleh mereka (para isteri beliau). Maka Beliau bersabda: "Apa yang mendorong mereka sehingga beranggapan bahwa tenda-tenda ini adalah jalan kebajikan? Bongkarlah tenda-tenda itu, aku tidak mau melihatnya". Maka tenda-tenda itu dibongkar dan Beliau tidak meneruskan i'tikaf Ramadhan hingga kemudian Beliau melaksanakannya pada sepuluh akhir dari bulan Syawal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2041</td></tr><tr><td>Arabic No</td><td>2041</td></tr><tr><td>Reference</td><td>Book 33 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ совершал и‘тикяф каждый рамадан. Совершив утреннюю молитву, он заходил в место, в котором он совершал и‘тикяф». Однажды ‘Аиша попросила разрешения совершать и‘тикяф, он разрешил ей, и она поставила палатку. Когда Хафса узнала об этом, она тоже поставила палатку. Затем и Зейнаб услышав об этом, тоже поставила себе палатку. Когда Посланник Аллаха ﷺ закончил утреннюю молитву, он увидел четыре палатки и спросил: «Что это?» Когда ему всё рассказали, он сказал: «Что их сподвигло на это? Благочестие? Уберите их, чтобы я их не видел». Их (палатки) убрали, а он не совершил и‘тикаф в тот рамадан, но затем он совершил его в последние десять (дней) шавваля
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2041</td></tr><tr><td>Arabic No</td><td>2041</td></tr><tr><td>Reference</td><td>Book 33 Hadith 16</td></tr></tbody></table></div>
 

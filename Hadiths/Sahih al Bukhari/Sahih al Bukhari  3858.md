@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq Saud bin Abi Waqqas:None embraced Islam, except on the day 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] telah mengabarkan kepada kami [Abu Usamah] telah menceritakan kepada kami [Hasyim] berkata, aku mendengar [Sa'id bin Al Musayyab] berkata, aku mendengar [Abu Ishaq Sa'ad bin Abu Waqash] berkata; "Tidak ada seorangpun yang masuk Islam pada hari dimana aku masuk Islam. Dan sungguh aku telah berdiam melewati tujuh hari, dan sungguh aku adalah Tsulutsul Islam (Orang ketiga yang masuk Islam dari kalagan orang merdeka yang telah baligh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3858</td></tr><tr><td>Arabic No</td><td>3858</td></tr><tr><td>Reference</td><td>Book 63 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Аби Ваккас сказал: «Ни один человек не принимал ислам до меня, и в течение семи дней я был одним из трёх (первых) мусульман»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3858</td></tr><tr><td>Arabic No</td><td>3858</td></tr><tr><td>Reference</td><td>Book 63 Hadith 83</td></tr></tbody></table></div>
 

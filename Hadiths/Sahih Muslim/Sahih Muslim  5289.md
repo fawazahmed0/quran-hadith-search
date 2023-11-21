@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), on apporta à l'Envoyé de Dieu (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata; Telah membaca kitab [Malik] dari [Ibnu Syihab] dari [Anas bin Malik]; Bahwa Rasulullah shallallahu 'alaihi wasallam diberi minum susu campur air. Di sebelah kanan beliau ada seorang Badui, sedangkan Abu Bakr berada di sebelah kiri beliau. Setelah beliau minum, beliau berikan (sisanya) kepada orang Badui. Beliau bersabda: "Hendaknya dimulai dari sebelah kanan dahulu dan seterusnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5289</td></tr><tr><td>Arabic No</td><td>2029.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5289</td></tr><tr><td>Arabic No</td><td>2029.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 163</td></tr></tbody></table></div>
 

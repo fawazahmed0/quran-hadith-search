@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) forbade the sale of date fruits till they 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Muqatil] telah menceritakan kepada kami ['Abdullah] telah mengabarkan kepada kami [Humaid Ath-Thowil] dari [Anas radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam melarang menjual buah kurma hingga telah sempurna. Berkata, Abu 'Abdullah: "Maksudnya hingga nampak merah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2195</td></tr><tr><td>Arabic No</td><td>2195</td></tr><tr><td>Reference</td><td>Book 34 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, да будет доволен им Аллах, что Пророк ﷺ запретил продавать пальмовые плоды, пока они не созреют.\nАбу ‘Абдуллах (аль-Бухари) сказал: «То есть пока они не покраснеют»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2195</td></tr><tr><td>Arabic No</td><td>2195</td></tr><tr><td>Reference</td><td>Book 34 Hadith 142</td></tr></tbody></table></div>
 

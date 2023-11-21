@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported Allah's Messenger (ﷺ) as saying Never does a Muslim plant trees 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Sa'id] dan [Muhammad bin Ubaid Al ghubari] dan ini adalah lafadz Yahya. [Yahya] berkata; telah mengabarkan kepada kami, sedangkan yang dua mengatakan; telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang muslim menanam pohon atau menanam tanaman, lalu tanaman tersebut dimakan oleh burung atau manusia atau hewan ternak, melainkan hal itu bernilai sedekah baginya." Dan telah menceritakan kepada kami [Abdu bin Humaid] telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Aban bin Yazid] telah menceritakan kepada kami [Qatadah] telah menceritakan kepada kami [Anas bin Malik], bahwasannya Nabi shallallahu 'alaihi wasallam menemui Ummu Mubasyir, isteri sahabat Anshar di kebun kurman miliknya, lantas beliau bersabda: "Siapakah yang menanam pohon kurma ini, apakah ia seorang Muslim ataukah kafir? Mereka menjawab, "Muslim." Seperti hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3973</td></tr><tr><td>Arabic No</td><td>1553.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3973</td></tr><tr><td>Arabic No</td><td>1553.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 12</td></tr></tbody></table></div>
 

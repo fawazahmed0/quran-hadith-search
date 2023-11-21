@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Aishah said:Umm Habibah had a prolonged flow of blood during the time of Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ishaq Al-Musayyabi] telah menceritakan kepadaku [Ayahku] dari [Ibnu Abi Dzi'b] dari [Ibnu Syihab] dari [Urwah] dan [Amrah binti Abdurrahman] dari [Aisyah] bahwasanya Ummu Habibah menderita darah penyakit selama tujuh tahun. Maka Rasululah shallallahu 'alaihi wasallam memerintahkannya untuk mandi, maka dia pun mandi untuk setiap kali shalat. Telah menceritakan kepada kami [Hannad bin As-Sariy] dari [Abdah] dari [Ibnu Ishaq] dari [Az-Zuhri] dari [Urwah] dari [Aisyah] bahwasanya Ummu Habibah binti Jahsy mengeluarkan darah penyakit pada masa Rasulullah shallallahu 'alaihi wasallam, maka beliau memerintahkannya untuk mandi setiap kali shalat, kemudian dia menyebutkan Hadits tersebut. Abu Dawud berkata; Dan diriwayatkan oleh [Abu Al-Walid Thayalisi] dan saya tidak mendengarnya darinya, dari [Sulaiman bin Katsir] dari [Az-Zuhri] dari [Urwah] dari [Aisyah], dia berkata; Zainab binti Jahsy menderita darah penyakit, maka Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Mandilah untuk setiap kali shalat". Kemudian dia menyebutkan hadits tersebut. Abu Dawud berkata; Dan diriwayatkan oleh [Abdush Shamad] dari [Sulaiman bin Katsir] beliau shallallahu 'alaihi wasallam bersabda; "Berwudhulah untuk setiap kali shalat". Abu Dawud berkata; Ini adalah wahm (keraguan) dari Abdush Shamad dan ucapan padanya adalah ucapan Abu Al-Walid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>292</td></tr><tr><td>Arabic No</td><td>292</td></tr><tr><td>Reference</td><td>Book 1 Hadith 292</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши: «При жизни Посланника Аллаха ﷺ у Умм Хабибы бин Джахш было хроническое кровотечение, и он велел ей купаться для каждой молитвы», и далее он привел этот хадис до конца.Абу Дауд сказал: «Этот хадис также передал Абу-ль-Валид ат-Тайалиси, но я не слышал его от него. Передают со слов Сулеймана ибн Касира, передавшего от аз-Зухри, передавшего от ‘Урвы, который сообшил о том, что ‘Аиша сказала: “У Зайнаб бинт Джахш было хроническое кровотечение и Пророк ﷺ сказал ей: “Купайся для каждой молитвы”, и далее он привел этот хадис до конца».Абу Дауд сказал: «Также этот хадис передал ‘Абду-с-Самад со слов Сулеймана ибн Касира, который сказал: “Совершай омовение/вудуъ/ для каждой молитвы”».Абу Дауд сказал: «Это ошибка ‘Абду-с-Самада и эти слова принадлежат Абу-ль-Валиду (ат-Тайалиси)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>292</td></tr><tr><td>Arabic No</td><td>292</td></tr><tr><td>Reference</td><td>Book 1 Hadith 292</td></tr></tbody></table></div>
 

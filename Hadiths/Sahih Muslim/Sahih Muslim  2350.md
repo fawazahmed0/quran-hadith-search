@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Adi b. Hatim reported that the Messenger of Allah (ﷺ) made a mention of the Fi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata, Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Amru bin Murrah] dari [Khaitsamah] dari [Adi bin Hatim] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau pernah bercerita tentang neraka. Lalu beliau berlindung kepada Allah daripadanya dan memalingkan mukanya tiga kali kemudian beliau bersabda: "Takutlah kalian terhadap api neraka meskipun (bersedekah) hanya dengan setengah biji kurma, dan jika kalian tidak mendapatkannya, maka hendaklah dengan kata-kata yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2350</td></tr><tr><td>Arabic No</td><td>1016.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Ади ибн Хатим сказал: «(Однажды), упомянув об Огне, Посланник Аллаха ﷺ обратился (к Аллаху) за защитой от него и отвернулся. Это повторилось три раза, после чего он сказал: “Защитите себя от Огня хотя бы половинкой финика, а если) не найдёте и этого, то добрым словом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2350</td></tr><tr><td>Arabic No</td><td>1016.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 87</td></tr></tbody></table></div>
 

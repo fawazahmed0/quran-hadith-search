@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Samura reported:I prayed along with Allah's Messenger (ﷺ) the first p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Hammad bin Thalhah Al Qannad]; Telah menceritakan kepada kami [Asbath] yaitu Ibnu Nashr Al Mahdani dari [Simak] dari [Jabir bin Samurah] dia berkata; "Saya pernah ikut shalat bersama Rasulullah shallallahu 'alaihi wasallam pada shalat zhuhur. Setelah itu beliau keluar untuk menemui istrinya dan saya pun turut menyertainya. Kemudian beliau disambut oleh beberapa anak kecil dan beliau pun segera mengusap kedua pipi mereka secara bergantian." Jabir berkata; 'Rasulullah shallallahu 'alaihi wasallam pun mengusap pipi saya dan saya merasakan tangan beliau yang dingin dan harum seolah-olah baru keluar dari tempat minyak wangi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6052</td></tr><tr><td>Arabic No</td><td>2329</td></tr><tr><td>Reference</td><td>Book 43 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн Самура, да будет им доволен Аллах, сказал: «Я совершил вместе с Посланником Аллаха ﷺ первую молитву, а затем он пошёл к своей семье, и я отправился вместе с ним. По дороге ему повстречалась группа детей, и он начал поочередно гладить каждого из них по щекам». «Когда он погладил мои щеки, рассказывал Джабир, то я почувствовал, что от его рук исходит прекрасный аромат, словно он только что вынул их из ларца с благовониями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6052</td></tr><tr><td>Arabic No</td><td>2329</td></tr><tr><td>Reference</td><td>Book 43 Hadith 110</td></tr></tbody></table></div>
 

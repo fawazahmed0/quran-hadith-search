@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim b. 'Abdullah reported on the authority of his father that Allah's Apostle 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru An Naqid] dan [Ibnu Abu Umar] keduanya dari [Ibnu 'Uyainah], [Ibnu Abu Umar] berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari ['Amru] dari [Salim bin Abdullah] dari [Ayahnya], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memerdekakan seorang budak yang dimilikinya bersama orang lain, hendaknya dia membayar bagiannya kepada partnernya secara adil, tidak boleh curang dan tidak boleh berbuat zhalim, kemudian dia memerdekakan dengan hartanya, jika dia mampu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4329</td></tr><tr><td>Arabic No</td><td>1501.07</td></tr><tr><td>Reference</td><td>Book 27 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4329</td></tr><tr><td>Arabic No</td><td>1501.07</td></tr><tr><td>Reference</td><td>Book 27 Hadith 76</td></tr></tbody></table></div>
 

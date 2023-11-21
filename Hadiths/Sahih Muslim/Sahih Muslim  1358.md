@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:While we said prayer with the Messenger of Allah (ﷺ), one a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin 'Ulayyah] telah mengabarkan kepadaku [Al Hajjaj bin Abu Usman] dari [Abu Zubair] dari ['Aun bin Abdullah bin 'Utbah] dari [Ibnu Umar] dia berkata; "Ketika kami shalat bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba seseorang mengucapkan ALLAHU AKBAR KABIRAW WAL HAMDU LILLAHI KATSIIRAW WASUBHAANALLAAHI BUKRATAN WA ASHIILAN (Maha Besar Allah, dan segala puji bagi Allah, pujian yang banyak, dan Maha Suci Allah, baik waktu pagi dan petang)." Lantas Rasulullah shallallahu 'alaihi wasallam bertanya: "Siapakah yang mengucapkan kalimat tadi?" Seorang sahabat menjawab; "Saya wahai Rasulullah." Beliau bersabda: "Sungguh aku sangat kagum dengan ucapan tadi, sebab pintu-pintu langit dibuka karena kalimat itu." Kata Ibnu Umar; "Maka aku tak pernah lagi meninggalkannya semenjak aku mendengar Rasulullah shallallahu 'alaihi wasallam mengucapkan hal itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1358</td></tr><tr><td>Arabic No</td><td>601</td></tr><tr><td>Reference</td><td>Book 5 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Ауна ибн ‘Абдуллах о том, что Ибн ‘Умар сказал: «Однажды, когда мы совершали молитву с Посланником Аллаха ﷺ, один мужчина из числа (присутствовавших там) людей сказал: “Аллах велик, намного (более велик, чем всё остальное), многая хвала Аллаху, слава Аллаху ранним утром и вечером!” /Аллаху акбару кабиран, валь-хамдули-Лляхи касиран, ва субхана-Ллахи букратан ва асылян/. И Посланник Аллаха ﷺ спросил: “Кто произнёс такие-то и такие-то слова?” Один человек из (присутствовавших там) людей сказал: “Я, о Посланник Аллаха”. (Пророк ﷺ ) сказал: “Я подивился им! Для них были открыты врата небесные!”».Ибн ‘Умар сказал: «И я не оставлял их с тех пор, как услышал это от Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1358</td></tr><tr><td>Arabic No</td><td>601</td></tr><tr><td>Reference</td><td>Book 5 Hadith 193</td></tr></tbody></table></div>
 

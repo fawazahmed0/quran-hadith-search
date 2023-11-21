@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A’ishah said “Quraish and those who followed their religion used to station 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Hannad] dari [Abu Mu'awiyah] dari [Hisyam bin 'Urwah] dari [bapaknya] dari [Aisyah], ia berkata; dahulu orang-orang Quraisy dan orang-orang yang beragama seperti agama mereka berwukuf di Muzdalifah mereka dinamakan Al Humusa, sedangkan orang-orang Arab yang lain berwukuf di Arafah. Ketika Islam datang, Allah memerintahkan NabiNya shalla Allahu 'alaihi wa sallam untuk datang ke Arafah dan wukuf disana kemudian bertolak darinya, dan itulah yang dimaksud dari Firman Allah: "Kemudian bertolaklah kamu dari tempat bertolaknya orang-orang banyak ('Arafah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4520) Sahih Muslim (1219)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1910</td></tr><tr><td>Arabic No</td><td>1910</td></tr><tr><td>Reference</td><td>Book 11 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Во времена невежества курайшиты и те, кто исповедовал их религию, останавливались в Муздалифе. Их называли “истовыми в религии”, а местом стояния для всех прочих арабов был ‘Арафат. Когда появился ислам, Всевышний Аллах велел Своему Пророку ﷺ приходить на ‘Арафат и стоять там, а потом уходить, на что и указывают слова Всевышнего Аллаха “Потом уходите оттуда, откуда ушли другие люди” (сура “аль-Бакара”, аят 199)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4520) Sahih Muslim (1219)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1910</td></tr><tr><td>Arabic No</td><td>1910</td></tr><tr><td>Reference</td><td>Book 11 Hadith 190</td></tr></tbody></table></div>
 

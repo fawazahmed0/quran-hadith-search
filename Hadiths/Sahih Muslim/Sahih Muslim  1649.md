@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Malik b. Buhaina reported:The Messenger of Allah (ﷺ) happened to p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Ayahnya] dari [Hafs bin 'Ashim] dari [Abdullah bin Malik bin Buhainah] bahwa Rasulullah shallallahu 'alaihi wasallam suatu kali pernah melewati seseorang yang shalat, padahal shalat subuh telah diiqamati. Maka beliau bersabda dengan ucapan yang kami tidak di mengerti. Ketika kami selesai, maka kami bertanya kepadanya; "Apa yang telah diucapkan Rasulullah shallallahu 'alaihi wasallam kepadamu?" Dia menjawab; "Beliau tadi mengucapkan kepadaku "Nyaris salah seorang dari kalian melakukan shalat subuh sebanyak empat rakaat." Al Qa'nabi Abdullah bin Malik bin Buhainah berkata dari ayahnya, namun Abul Hasan Muslim berkata; "Dan perkataan dari ayahnya dalam hadis ini adalah salah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1649</td></tr><tr><td>Arabic No</td><td>711.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Малика ибн Бухайны, что (однажды) Пророк ﷺ проходил мимо одного мужчины, совершающего молитву, в то время как уже было провозглашено о начале утренней молитвы. Он (Пророк ﷺ) что-то сказал ему, но мы не знаем что (именно). Закончив молитву, мы окружили его, спрашивая: «Что тебе сказал Посланник Аллаха ﷺ?» Он ответил: «Он сказал мне: “Вот-вот один из вас станет совершать утреннюю молитву в четыре рак‘ата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1649</td></tr><tr><td>Arabic No</td><td>711.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 79</td></tr></tbody></table></div>
 

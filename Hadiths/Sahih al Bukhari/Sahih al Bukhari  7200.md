@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubada bin As-Samit:We gave the oath of allegiance to Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Malik] dari [Yahya bin Sa'id] mengatakan, telah mengabarkan kepadaku ['Ubadah bin Al Walid] telah mengabarkan kepadaku [Ayahku] dari [Ubadah bin Ash Shamit] mengatakan; 'kami berbai'at kepada Rasulullah Shallallahu'alaihiwasallam untuk mendengar dan taat, baik ketika giat (semangat) maupun malas, dan untuk tidak menggulingkan kekuasaan dari orang yang berwenang terhadapnya, dan mendirikan serta mengucapkan kebenaran dimana saja kami berada, kami tidak khawatir dijalan Allah terhadap celaan orang yag mencela
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7200</td></tr><tr><td>Arabic No</td><td>7200</td></tr><tr><td>Reference</td><td>Book 93 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Убада ибн ас-Самит, да будет доволен им Аллах, сказал: «Мы принесли присягу Посланнику Аллаха ﷺ в том, что будем слушать и повиноваться ему в благополучные и трудные времена, и не станем пытаться лишить власти тех, кому она будет принадлежать по праву, и что будем стоять или говорить за истину, где бы мы ни были, не боясь порицания порицающего ради Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7200</td></tr><tr><td>Arabic No</td><td>7200</td></tr><tr><td>Reference</td><td>Book 93 Hadith 60</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A tailor invited Allah's Messenger (ﷺ) to a meal which
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] ia berkata; telah menceritakan kepadaku [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] Bahwasanya ia mendengar [Anas bin Malik] berkata, "Seorang tukang jahit mengundang Rasulullah shallallahu 'alaihi wasallam menghadiri jamuan makan yang ia buat. Aku lalu berangkat bersama Nabi shallallahu 'alaihi wasallam memenuhi undangan tersebut. Penjahit itu kemudian menyodorkan roti gandum dan kuah yang di dalamnya terdapat buah labu dan daging yang telah dikeringkan kepada Rasulullah shallallahu 'alaihi wasallam." Anas berkata, "Aku melihat Rasulullah shallallahu 'alaihi wasallam memilih-milih buah labu dalam bejana tersebut, maka aku selalu menyukai labu setelah hari itu." [Tsumamah] menyebutkan dari [Anas], "Aku lalu mengumpulkan buah labu ke hadapan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5439</td></tr><tr><td>Arabic No</td><td>5439</td></tr><tr><td>Reference</td><td>Book 70 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(В своё время один) портной пригласил Посланника Аллаха ﷺ отведать еды, которую он приготовил. И я пошёл на это угощение вместе с Посланником Аллаха ﷺ. (Портной) подал ячменный хлеб и суп, в котором были ломтики тыквы и кусочки сушёного мяса, и я видел, как Посланник Аллаха ﷺ выискивал и брал (ломтики) этой тыквы со всех сторон блюда». (Анас) сказал: «И с того дня я полюбил тыкву». Также Анас сказал: «И я стал собирать тыкву перед ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5439</td></tr><tr><td>Arabic No</td><td>5439</td></tr><tr><td>Reference</td><td>Book 70 Hadith 67</td></tr></tbody></table></div>
 

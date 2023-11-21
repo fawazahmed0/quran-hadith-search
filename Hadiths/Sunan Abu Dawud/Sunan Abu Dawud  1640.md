@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Qabisah b. Mukhiriq al-Hilali said :I became a guarantor for a payment, and I ca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad] telah menceritakan kepada Kami [Hammad bin Zaid], dari [Harun bin Riab], ia berkata; ia berkata; telah menceritakan kepadaku [Kinanah bin Nu'aim Al 'Adawi] dari [Qabishah bin Mukhariq Al Hilali], ia berkata; saya menanggung sebuah denda kemudian datang kepada Rasulullah shallallahu 'alaihi wasallam dan bertanya kepadanya mengenai hal tersebut. Kemudian beliau berkata: "Bangunlah wahai Qabishah hingga datang zakat kepada Kami kemudian Kami perintahkan agar diberikan kepadamu." Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Qabishah, sesungguhnya sedekah tidaklah halal kecuali bagi salah satu dari tiga orang yaitu; orang yang menanggung denda maka halal baginya untuk meminta-minta, kemudian meminta-minta hingga ia mendapatkannya kemudian ia menahan diri dari meminta-minta, dan seorang laki-laki yang tertimpa bencana hingga menghancurkan hartanya, maka halal baginya untuk meminta-minta, kemudian ia meminta-minta hingga mendapatkan penopang hidup kemudian menahan diri dari meminta-minta. Dan seorang laki-laki yang tertimpa kemiskinan hingga terdapat tiga orang yang bijaksana dari kaumnya bersaksi bahwa Fulan telah tertimpa kemiskinan. Maka halal baginya untuk meminta-minta hingga ia mendapatkan penopang hidup, dan sikap meminta-minta selain itu wahai Qabishah adalah perbuatan haram yang dimakan pelakunya sebagai sesuatu yang haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1044)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1640</td></tr><tr><td>Arabic No</td><td>1640</td></tr><tr><td>Reference</td><td>Book 9 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Кабиса ибн Мухарик аль-Хиляли, да будет доволен им Аллах, сказал: «В своё время я взял на себя обязательства по выплате возмещения, а потом пришёл к Пророку ﷺ с просьбой помочь мне выплатить его. Он сказал: “Поживи здесь, о Кабиса, пока нам не доставят закят, и тогда мы велим выдать тебе то, о чём ты просишь”. Потом он сказал: “О Кабиса, поистине, с подобными просьбами позволено обращаться лишь одному из троих. Это человек, взявший на себя обязательства по выплате возмещения, ему можно просить, чтобы уплатить долг, после чего он должен воздерживаться; человек, которого постигло какое-нибудь бедствие, погубившее его имущество, ему можно просить, чтобы получить средства, необходимые для жизни; и, человек, который впадёт в такую бедность, что трое разумных людей из числа его соплеменников скажут: “Такой-то обеднел до крайности” ему тоже разрешается просить, чтобы получить средства, необходимые для жизни, а потом воздерживается от просьб. Что же касается необоснованных просьб, о Кабиса, то они запретны, и получивший что-нибудь в результате таких просьб будет пользоваться запретным”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1044)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1640</td></tr><tr><td>Arabic No</td><td>1640</td></tr><tr><td>Reference</td><td>Book 9 Hadith 85</td></tr></tbody></table></div>
 

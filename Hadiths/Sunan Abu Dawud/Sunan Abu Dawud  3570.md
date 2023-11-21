@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: Al-Bara' had a she-camel which was accustomed to gra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] telah menceritakan kepada kami [Al Firyabi] dari [Al Auza'i] dari [Az Zuhri] dari [Haram bin Muhayyishah Al Anshari] dari [Al Bara bin 'Azib] ia berkata, "Dahulu ia memiliki seekor unta yang biasa makan tanaman orang lain. Lalu unta tersebut memasuki sebuah kebun dan merusak apa yang ada di dalamnya. Kemudian Rasulullah shallallahu 'alaihi wasallam diberi kabar tentang hal itu, maka beliau pun memberi putusan bahwa penjagaan kebun pada siang hari menjadi tanggung jawab pemiliknya, dan penjagaan hewan pada malam hari menjadi tanggung jawab pemiliknya, serta pemilik hewan bertanggung jawab atas apa yang dirusak hewan tersebut pada malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3570</td></tr><tr><td>Arabic No</td><td>3570</td></tr><tr><td>Reference</td><td>Book 24 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Бара ибн ‘Азиб, да будет доволен им Аллах, что у него была норовистая верблюдица, и однажды она зашла в сад одного человека и нанесла его саду ущерб. Посланнику Аллаха ﷺ рассказали об этом, и он постановил, что хозяева садов обязаны охранять своё имущество в дневное время, а хозяева животных должны смотреть за ними в ночное время и хозяева скотины обязаны возместить ущерб, который наносит их скот кому-то ночью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3570</td></tr><tr><td>Arabic No</td><td>3570</td></tr><tr><td>Reference</td><td>Book 24 Hadith 155</td></tr></tbody></table></div>
 

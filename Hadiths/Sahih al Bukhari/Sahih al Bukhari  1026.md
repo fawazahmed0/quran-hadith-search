@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abbad bin Tamim from his uncle who said:"The Prophet (ﷺ) invoked All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Sufyan] dari ['Abdullah bin Abu Bakar] bahwa dia mendengar ['Abbad bin Tamim] dari [Pamannya], bahwa Nabi shallallahu 'alaihi wasallam pernah melaksanakan shalat istisqa' (meminta hujan). Beliau lalu melakanakan shalat dua rakaat dan membalik selendangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1026</td></tr><tr><td>Arabic No</td><td>1026</td></tr><tr><td>Reference</td><td>Book 15 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аббад ибн Тамим передал от своего дяди, что однажды Пророк ﷺ обратился к Аллаху с мольбой о ниспослании дождя, затем совершил молитву в два рак‘ата и надел свою накидку наизнанку
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1026</td></tr><tr><td>Arabic No</td><td>1026</td></tr><tr><td>Reference</td><td>Book 15 Hadith 21</td></tr></tbody></table></div>
 

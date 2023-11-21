@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Simak:I asked Jabir b. Samurah: Did you sit in the company of the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Nufail] dan [Ahmad bin Yunus] keduanya berkata; telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Simak] dia berkata; "Kataku kepada [Jabir bin Samurah]; "Apakah kamu pernah bermajlis bersama Rasulullah shallallahu 'alaihi wasallam?" jawabnya; "Ya, sering, beliau tidak berdiri dari tempat beliau mengerjakan shalat subuh sehingga matahari terbit, apabila matahari telah terbit, maka beliau shallallahu 'alaihi wasallam berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (670)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1294</td></tr><tr><td>Arabic No</td><td>1294</td></tr><tr><td>Reference</td><td>Book 5 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Симак сказал: «Однажды я спросил Джабира ибн Самуру, да будет доволен им Аллах: “Приходилось ли тебе сидеть вместе с посланником Аллаха ﷺ?” и он сказал: “Да, много раз. Обычно он не покидал места совершения своей утренней молитвы до восхода солнца и поднимался, когда оно поднималось над горизонтом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (670)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1294</td></tr><tr><td>Arabic No</td><td>1294</td></tr><tr><td>Reference</td><td>Book 5 Hadith 45</td></tr></tbody></table></div>
 

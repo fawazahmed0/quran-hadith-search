@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Humran, the freed slave of 'Uthman b. 'Affan, reported on the authority of 'Uthm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu ath-Thahir] dan [Yunus bin Abdul A'la] keduanya berkata, telah mengabarkan kepada kami [Abdullah bin Wahb] dari [Amru bin al-Harits] bahwa [Hukaim bin Abdullah al-Qurasyi] telah menceritakan kepadanya, bahwa [Nafi' bin Jubair] dan [Abdullah bin Abu salamah] keduanya telah menceritakan kepadanya, bahwa [Muadz bin Abdurrahman] telah menceritakan kepada mereka berdua dari [Humran] mantan budak Utsman bin Affan, dari [Utsman bin Affan] dia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berwudlu untuk shalat, lalu menyempurnakan wudlunya, kemudian berjalan menuju shalatnya yang fardlu, lalu dia melaksanakannya bersama manusia, atau bersama jama'ah, atau di masjid, niscaya Allah akan mengampuni dosa-dosanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>549</td></tr><tr><td>Arabic No</td><td>232.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Усмана ибн ‘Аффана, что Посланник Аллаха ﷺ сказал: «Тому, кто совершит омовение для молитвы должным образом, а затем отправится на обязательную молитву и совершит её вместе с людьми (или: в коллективе; или: в мечети), Аллах прости его грехи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>549</td></tr><tr><td>Arabic No</td><td>232.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 16</td></tr></tbody></table></div>
 

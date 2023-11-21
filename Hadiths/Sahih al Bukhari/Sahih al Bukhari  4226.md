@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara Bin Azib:During the Ghazwa of Khaibar, the Prophet (ﷺ) ordere
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4226</td></tr><tr><td>Arabic No</td><td>4226</td></tr><tr><td>Reference</td><td>Book 64 Hadith 264</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара ибн ’Азиб, да будет доволен Аллах им и его отцом, сказал: «Во время похода на Хайбар Пророк ﷺ приказал нам выбрасывать мясо домашних ослов, независимо от того, было ли оно ещё сырым или приготовленным, и он не позволил нам съесть его позже»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4226</td></tr><tr><td>Arabic No</td><td>4226</td></tr><tr><td>Reference</td><td>Book 64 Hadith 264</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rabi'ah ibn al-Hudayr: Rabi'ah ibn al-Hudayr said: I did not hear Talha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hamid bin Yahya], telah menceritakan kepada kami [Muhammad bin Ma'n Al Madini], telah mengabarkan kepadaku [Daud bin Khalid] dari [Rabi'ah bin Abu Abdurrahman] dari [Rabi'ah bin Al Hudair], ia berkata; aku tidak mendengar [Thalhah bin 'Ubaidullah] menceritakan hadits dari Rasulullah shallallahu 'alaihi wasallam kecuali satu hadits, Rabi'ah bin Hudair berkata; aku katakan; apakah hadits tersebut? Ia berkata; kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam, beliau ingin pergi ke kuburan orang-orang yang mati syahid, hingga kami berada di atas tanah bebatuan yang (dikenal dengan nama) Waqim, kemudian tatkala kami telah dekat dari kuburan tersebut ternyata terdapat kuburan di tempat tikungan. Rabi'ah bin Hudair berkata; kami katakan; wahai Rasulullah, apakah ini kuburan saudara-saudara kita? Beliau berkata: "Ini adalah kuburan sahabat-sahabat kita." Kemudian tatkala kami sampai pada kuburan orang-orang yang mati syahid beliau bersabda: "Ini adalah kuburan saudara-saudara kita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2043</td></tr><tr><td>Arabic No</td><td>2043</td></tr><tr><td>Reference</td><td>Book 11 Hadith 323</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Раби‘а ибн Абу ‘Абдуррахман передаёт, что Раби‘а ибн аль-Худайр сказал: «Я не слышал, чтобы Тальха ибн ‘Убайдуллах передавал от Посланника Аллаха ﷺ какой-нибудь хадис, кроме одного». (Раби‘а ибн Абу ‘Абдуррахман) сказал: «Я спросил: “Какого же?” Он ответил, (пересказывая этот хадис): «Мы вышли вместе с Посланником Аллаха ﷺ и направились к могилам павших на поле боя. Мы поднялись на лавовое поле Вакым, а когда начали спускаться, увидели в стороне могилы. Мы сказали: “О Посланник Аллаха! Это могилы наших братьев?” Он ответил: “Это могилы наших товарищей”. А когда мы подошли к могилам мучеников, Посланник Аллаха ﷺ сказал: “Это могилы наших братьев”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2043</td></tr><tr><td>Arabic No</td><td>2043</td></tr><tr><td>Reference</td><td>Book 11 Hadith 323</td></tr></tbody></table></div>
 

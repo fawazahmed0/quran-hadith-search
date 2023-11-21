@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Messenger of Allah (ﷺ) said: When one of you recites
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad Az Zuhri] telah menceritakan kepada kami [Sufyan] telah menceritakan kepadaku [Isma'il bin Umayyah] saya mendengar [seorang arab badui] berkata; saya mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa di antara kalian membaca; "WAT TIIN WAZ ZAITUN (Demi (buah) Tin dan (buah) Zaitun), " sampai akhir ayat "ALAISALLAHU BI AHKAMIL HAAKIMIIN (Bukankah Allah hakim yang seadil-adilnya?) " hendaknya ia mengucapkan; "Benar, dan kami menjadi saksi untuk itu." Dan barangsiapa membaca; "LAA UQSIMU BIYAUMIL QIYAAMAH (Aku bersumpah demi hari kiamat), hingga akhir ayat "ALAISA DZAALIKA BI QAADIRIN 'ALAA AIYYUHYIYAL MAUTA (Bukankah (Allah yang berbuat) demikian berkuasa (pula) menghidupkan orang mati?), maka hendaklah ia mengatakan; benar." Dan barangsiapa membaca; WAL MURSALAATI 'URFA (Demi malaikat-malaikat yang diutus untuk membawa kebaikan) sampai dengan; FA BIAIYYI HADITSIN BA'DAHU YU'MINUN (Maka kepada perkataan apakah sesudah Al Quraan ini mereka akan beriman?), maka hendaknya ia mengatakan; aku beriman kepada Allah." Isma'il berkata: aku pergi untuk melihat apakah dia menjaganya, Dan dia adalah seorang badui, dia berkata; "wahai saudaraku, apakah kamu mengira bahwa aku tidak menjaganya, sungguh aku telah berhaji sebanyak enam puluh kali, tidaklah ada pada satu tahun pun kecuali aku mengetahui unta yang dulu aku pakai untuk berhaji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>887</td></tr><tr><td>Arabic No</td><td>887</td></tr><tr><td>Reference</td><td>Book 2 Hadith 497</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Исма‘иля ибн Абу Умайя: «Я слышал, как некий бедуин говорил, что слышал, как Абу Хурайра, да будет доволен им Аллах, говорил, что Посланник Аллаха ﷺ сказал: “Кто из вас читал суру “Клянусь смоковницей и маслиной” и дочитал её до конца, то есть до слов “Разве Аллах не является Наимудрейшим Судьёй?”, пусть скажет: “Конечно, и я один из тех, кто свидетельствует об этом”. И кто читал суру “Нет, клянусь Днём воскресения!” и дочитал до слов “Неужели Он не способен воскресить мёртвых?”, пусть скажет: ‘Конечно‘. И кто читал суру “Клянусь посылаемыми” и дочитал до слов “В какой же рассказ после этого вы уверуете?”, пусть скажет: “Мы уверовали в Аллаха””». Исмаиль сказал: «И я стал повторять этому бедуину, дабы посмотреть, хорошо ли он запоминает, а он сказал: “О сын брата моего! Ты верно считаешь, что я не запомнил этот хадис… Так вот, я совершил шестьдесят хаджей, и я помню, на каком верблюде я совершил каждый из них!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>887</td></tr><tr><td>Arabic No</td><td>887</td></tr><tr><td>Reference</td><td>Book 2 Hadith 497</td></tr></tbody></table></div>
 

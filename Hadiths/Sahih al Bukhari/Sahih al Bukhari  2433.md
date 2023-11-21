@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas (ra):Allah's Messenger (ﷺ) also said, "It (i.e., Makkah's)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2433</td></tr><tr><td>Arabic No</td><td>2433</td></tr><tr><td>Reference</td><td>Book 45 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «В Мекке нельзя вырубать деревья, вспугивать дичь, и поднимать найденное, если только (человек не делает это) для того, чтобы объявить о своей находке (людям) и нельзя срезать кустарники». В это время аль-‘Аббас сказал: «О Посланник Аллаха! Кроме “изхира” (душистый тростник)?» Посланник Аллаха ﷺ сказал: «Кроме “изхира”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2433</td></tr><tr><td>Arabic No</td><td>2433</td></tr><tr><td>Reference</td><td>Book 45 Hadith 8</td></tr></tbody></table></div>
 

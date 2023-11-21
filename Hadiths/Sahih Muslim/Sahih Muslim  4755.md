@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Dharr who said:My friend (i. e. the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abdullah bin Barrad Al Asy'ari] dan [Abu Kuraib] mereka berkata; telah menceritakan kepada kami [Ibnu Idris] dari [Syu'bah] dari [Abu Imran] dari [Abdullah bin Shamit] dari [Abu Dzar] dia berkata, "Sesungguhnya kekasihku (Rasulullah) berwasiat kepadaku untuk selalu mendengar dan taat walaupun terhadap budak yang pesek hidungnya." Dan telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [An Nadlr bin Syumail] mereka semua dari [Syu'bah] dari [Abu 'Imran] dengan isnad ini, dan dia menyebutkan dalam haditsnya, "Seorang budak Habsyi yang berhidung pesek." Dan telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abu 'Imran] dengan isnad ini, sebagaimana perkataan Ibnu Idris, yaitu, "Seorang budak yang berhidung pesek
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4755</td></tr><tr><td>Arabic No</td><td>1837.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4755</td></tr><tr><td>Arabic No</td><td>1837.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 53</td></tr></tbody></table></div>
 

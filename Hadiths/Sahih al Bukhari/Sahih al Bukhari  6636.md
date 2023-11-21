@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Humaid As-Sa'idi:Allah's Messenger (ﷺ) employed an employee (to c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul yaman] telah memberitakan kepada kami [Syu'aib] dari [Az Zuhri] mengatakan; telah menceritakan kepadaku [Urwah] dari [Abu Humaid As Sa'idi] bahwasanya ia mengabarkan kepadanya, bahwa Rasulullah Shallallahu'alaihi wa sallam mempekerjakan karyawan zakat ('amil). Setelah selesai dari kerjanya, 'amil tadi mendatangi Nabi dan berujar; 'Wahai Rasulullah, ini untuk kalian dan ini dihadiahkan untukku'. Lantas Nabi bersabda: "tidakkah kamu duduk-duduk saja di rumah ayahmu atau ibumu kemudian kamu cermati, apakah kamu memperoleh hadiah ataukah tidak?" Kemudian Rasulullah Shallallahu'alaihi wa sallam berdiri diwaktu sore setelah berdoa, bersyahadat, dan memuji Allah dengan puji-pujian yang semestinya bagi-Nya, kemudian beliau memulai: "Amma ba'du. Ada apa gerangan dengan 'amil zakat yang kami pekerjakan, dia mendatangi kami dan berujar; 'Ini dari pekerjaan kalian dan ini hadiah untukku, tidakkah ia duduk-duduk saja di rumah ayahnya atu ibunya lantas ia cermati, apakah ia memperoleh hadiah ataukah tidak? Demi dzat yang jiwa Muhammad di Tangan-Nya, tidaklah salah seorang diantara kalian mengambil harta tanpa haknya, selain pada hari kiamat nanti harta itu ia pikul diatas tengkuknya, dan jika unta, ia akan memikulnya dan mengeluarkan suara unta, dan jika sapi, maka sapi itu dipikulnya dan melenguh, dan jika harta yang ia ambil berupa kambing, maka kambing itu akan mengembik. Sungguh telah kusampaikan." Kata Abu Humaid; 'kemudian Rasulullah Shallallahu'alaihiwasallam mengangkat tangannya hingga kami melihat warna putih ketiaknya.' Abu Humaid berkata; 'dan telah mendengar hal itu bersamaku adalah Zaid bin Tsabit, dari Nabi shallallahu 'alaihi wasallam, maka tanyailah dia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6636</td></tr><tr><td>Arabic No</td><td>6636</td></tr><tr><td>Reference</td><td>Book 83 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хумайда ас-Са‘иди, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ нанял рабочего. Закончив свою работу, рабочий вернулся к (Пророку ﷺ) и сказал: «О Посланник Аллаха! Это — вам, а это было подарено мне». Тогда (Посланник Аллаха ﷺ) сказал ему: «Почему же ты не остался сидеть в доме своего отца и своей матери, чтобы посмотреть, преподнесут тебе подарок или нет?» Затем вечером Посланник Аллаха ﷺ поднялся после молитвы, произнёс слова свидетельства, восславил Аллаха подобающим образом, а потом сказал: «А затем, почему работник, которого мы назначаем, приходит к нам и говорит: “Это — из-за вашей работы, а это — подарок, который мне преподнесли!” Почему не остался он сидеть в доме своего отца и своей матери, чтобы посмотреть, преподнесут ему подарок или нет? Клянусь Тем, в Чьей Руке душа Мухаммада, если кто-нибудь из вас присвоит себе что-нибудь из этого, в День воскресения он обязательно придёт, влача это на своей шее! И если это будет верблюд, он придёт с ревущим (верблюдом), если это будет корова, он придёт с мычащей (коровой), а если это будет овца, он придёт с блеющей (овцой), и я довёл (это до вас)!»\nАбу Хумайд сказал: «После чего Посланник Аллаха ﷺ воздел руки к небу (, подняв их так высоко), что мы выдели белизну его подмышек».\nАбу Хумайд сказал: «Тоже самое от Пророка ﷺ слышал вместе со мной Зейд ибн Сабит, так спросите его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6636</td></tr><tr><td>Arabic No</td><td>6636</td></tr><tr><td>Reference</td><td>Book 83 Hadith 15</td></tr></tbody></table></div>
 

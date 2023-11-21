@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of 'A'isha that when this verse was revealed:" A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Waki'] dan [Yunus bin Bukair] keduanya berkata, telah menceritakan kepada kami [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] dia berkata, "Ketika turun ayat, '(Dan berilah peringatan kepada keluargamu yang dekat) ' Maka Rasulullah shallallahu 'alaihi wasallam berdiri di atas Shafa seraya berkata: 'Wahai Fathimah binti Muhammad, wahai Shafiyah binti Abdul Muththalib, wahai bani Abdul Muththalib, aku tidak memiliki kekuatan sedikit pun untuk menolak siksa Allah dari kalian, maka kalian mintalah dari hartaku sekehendak kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>503</td></tr><tr><td>Arabic No</td><td>205</td></tr><tr><td>Reference</td><td>Book 1 Hadith 409</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «После того, как был ниспослан аят, (в котором сказано): “И увещевай своих ближайших родственников” (Сура «аш-Шу‘ара», аят 214), Посланник Аллаха ﷺ поднялся на (холм) ас-Сафа и сказал: “О Фатыма, дочь Мухаммада, о Сафия, дочь ‘Абдульмутталиба, о бану ‘абд аль-мутталиб, я никак не смогу избавить вас от (наказания) Аллаха! Просите у меня чего хотите из моего имущества!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>503</td></tr><tr><td>Arabic No</td><td>205</td></tr><tr><td>Reference</td><td>Book 1 Hadith 409</td></tr></tbody></table></div>
 

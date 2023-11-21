@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Amr:"When the sun eclipsed in the lifetime of Allah's Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] berkata, telah mengabarkan kepada kami [Yahya bin Shalih] berkata, telah menceritakan kepada kami [Mu'awiyah bin Salam bin Abu Salam Al Habasyi Ad Dimsyqi] berkata, telah menceritakan kepada kami [Yahya bin Abu Katsir] berkata, telah mengabarkan kepadaku [Abu Salamah bin 'Abdurrahman bin 'Auf Az Zuhri] dari ['Abdullah bin 'Amru] berkata, "Ketika terjadi gerhana matahari pada masa Rasulullah shallallahu 'alaihi wasallam, maka panggilannya dengan seruan, 'Ashshalaatul jaami'ah (Marilah mendirikan shalat secara bersama-sama)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1045</td></tr><tr><td>Arabic No</td><td>1045</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Абдуллах бин ‘Амр, да будет доволен Аллах ими обоими, сказал: «Когда при жизни Посланника Аллаха ﷺ произошло солнечное затмение, был возглашён (следующий) призыв: “Общий намаз!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1045</td></tr><tr><td>Arabic No</td><td>1045</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
 

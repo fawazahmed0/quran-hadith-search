@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:when any of you pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Najdah] telah menceritakan kepada kami [Baqiyyah] dan [Syu'aib bin Ishaq] dari [Al-Auza'i] telah menceritakan kepadaku [Muhammad bin Al-Walid] dari [Sa'id bin Abi Sa'id] dari [Ayahnya] dari [Abu Hurairah] dari Rasulullah Shallallahu alaihi wasallam, beliau bersabda: "Apabila salah seorang di antara kalian shalat dengan melepaskan kedua sandalnya, janganlah mengganggu orang lain dengannya, hendaklah dia meletakkan kedua sandalnya di antara kedua kakinya atau dia shalat dengan menggunakan keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>655</td></tr><tr><td>Arabic No</td><td>655</td></tr><tr><td>Reference</td><td>Book 2 Hadith 265</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «Когда кто-то из вас (захочет) помолиться сняв свои сандалии, пусть ни в коем случае не мешает ими никому, а ставит их между своих ног, или (пусть) помолится в них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>655</td></tr><tr><td>Arabic No</td><td>655</td></tr><tr><td>Reference</td><td>Book 2 Hadith 265</td></tr></tbody></table></div>
 

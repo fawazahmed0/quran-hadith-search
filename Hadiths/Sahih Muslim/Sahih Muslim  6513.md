@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Dinar reported that a desert Arab met Abdullah b. 'Umar on the way to Mecca.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir Ahmad bin 'Amru bin Sarh]; Telah mengabarkan kepada kami ['Abdullah bin Wahb]; Telah mengabarkan kepadaku [Sa'id bin Abu Ayyub] dari [Al Walid bin Abu Al Walid] dari ['Abdullah bin Dinar] dari ['Abdullah bin 'Umar] dia berkata; "Seorang laki-laki desa bertemu dengannya di salah satu jalan di kota Mekkah. Lalu 'Abdullah memberi salam kepadanya dan menaikkannya ke atas keledai yang dikendarainya, dan diberinya serban yang sedang dipakainya di kepala." Kata Ibnu Dinar; "Maka kami berkata kepada 'Abdullah bin 'Umar; 'semoga Allah ta'ala membalas kebaikan Anda. Sesungguhnya orang desa itu lebih suka yang sederhana." Jawab 'Abdullah; "Bapak orang ini adalah sahabat baik 'Umar bin Khaththab. Aku mendengar Rasulullah bersabda: "Sesungguhnya kebajikan yang utama ialah apabila seorang anak melanjutkan hubungan (silaturrahim) dengan keluarga sahabat baik ayahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6513</td></tr><tr><td>Arabic No</td><td>2552.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Динар рассказывал: «Однажды ‘Абдуллах ибн ‘Умар встретил по пути в Мекку некого бедуина, поприветствовал его миром (салямом), посадил его на своего осла и подарил ему свою чалму. Тогда мы сказали ему: “Да исправит тебя Аллах! Это бедуины, они довольствуются малым”. ‘Абдуллах ответил: “Отец этого (бедуина) был товарищем (моего отца) ‘Умара ибн аль-Хаттаба. И я слышал, как Посланник Аллаха ﷺ сказал: “Наивысшее благочестие (заключается в том, что) человек поддерживает связь с теми, кого любил, кого любил его отец”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6513</td></tr><tr><td>Arabic No</td><td>2552.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 13</td></tr></tbody></table></div>
 

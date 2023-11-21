@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah said that a person among the Ansar declared his slave free af
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ar Rabi' Sulaiman bin Daud Al 'Ataki] telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid- dari ['Amru bin Dinar] dari [Jabir bin Abdullah], bahwa seorang laki-laki memerdekakan seorang budak miliknya secara dubur, padahal ia tidak memiliki harta selain budak tersebut. Ketika berita itu sampai kepada Nabi shallallahu 'alaihi wasallam, maka beliau pun bersabda: "Siapa yang ingin membeli budak ini dariku?" Maka Nu'ain bin Abdullah membeli budak tersebut dari beliau seharga seratus dirham, lalu uang tersebut diserahkan kepadanya (Jabir)." ['Amru] berkata, "Aku pernah mendengar [Jabir bin Abdullah] berkata, "Dia adalah seorang budak Qibthi yang meninggal awal tahun (dari pemerintahannya Ibnu Zubair)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4338</td></tr><tr><td>Arabic No</td><td>997.03</td></tr><tr><td>Reference</td><td>Book 27 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4338</td></tr><tr><td>Arabic No</td><td>997.03</td></tr><tr><td>Reference</td><td>Book 27 Hadith 85</td></tr></tbody></table></div>
 

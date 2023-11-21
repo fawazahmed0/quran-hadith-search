@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Adi bin Hatim:I asked Allah's Messenger (ﷺ). "We hunt with the help o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Bayan] dari [Asy Sya'bi] dari [Adi bin Hatim] ia berkata, "Aku bertanya Rasulullah shallallahu 'alaihi wasallam, aku katakan, "Kami adalah suatu kaum yang biasa berburu dengan anjing-anjing ini?" Beliau menjawab: "Jika kamu lepas anjingmu yang terlatih dengan menyebut nama Allah, maka makanlah apa yang ia tangkap untuk kamu, meskipun mereka membunuhnya. Kecuali jika anjing tersebut memakannya, sebab aku kawatir anjing itu menangkap untuk dirinya sendiri. Dan jika ada anjing lain bersama anjing tersebut, maka janganlah kamu makan (hasil buruannya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5483</td></tr><tr><td>Arabic No</td><td>5483</td></tr><tr><td>Reference</td><td>Book 72 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Ади ибн Хатим, да будет доволен им Аллах, сказал: «Я сказал Посланнику Аллаха ﷺ: “Мы охотимся с помощью этих (обученных) собак”. Он сказал: “Если ты посылаешь своих обученных собак за дичью, поминая над ними имя Аллаха, то ты можешь есть мясо дичи, которую они схватят для тебя, даже если при этом они убьют её, за исключением того случая, когда собака съела что-то из этой дичи. Если же собака ела, то не ешь, потому что я опасаюсь, что собака могла схватить эту дичь для себя. А если с твоими собаками была другая собака, то не ешь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5483</td></tr><tr><td>Arabic No</td><td>5483</td></tr><tr><td>Reference</td><td>Book 72 Hadith 9</td></tr></tbody></table></div>
 

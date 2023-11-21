@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) fasted Al-Wisal on the last days of the month. S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Humaid] dari [Tsabit] dari [Anas] radliallahu 'anhu, mengatakan; Nabi shallallahu 'alaihi wasallam menyambung akhir bulan (untuk tetap berpuasa) sehingga sahabat lain menyambungnya (wishal). Berita ini sampai kepada Nabi shallallahu 'alaihi wasallam, sehingga beliau bersabda; "Kalaulah bulan dipanjangkan bagiku, niscaya kulakuan puasa wishal, sehingga orang-orang yang berlebihan dalam beragama meninggalkan kebiasaan berlebih-lebihannya, Sungguh aku tidak seperti kalian, Tuhanku senantiasa memberiku makan dan minum." hadist ini diperkuat oleh [Sulaiman bin Mughirah] dari [Tsabit] dari [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7241</td></tr><tr><td>Arabic No</td><td>7241</td></tr><tr><td>Reference</td><td>Book 94 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ соблюдал непрерывный пост в конце месяца (рамадан), некоторые люди стали делать то же самое, и (это известие) дошло до Пророка ﷺ он сказал им: “Если бы можно было продлить месяц, то я бы непременно продолжил непрерывно поститься, дабы излишествующие оставили своё излишество. Поистине, я не подобен вам, ибо Господь мой кормит и поит меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7241</td></tr><tr><td>Arabic No</td><td>7241</td></tr><tr><td>Reference</td><td>Book 94 Hadith 16</td></tr></tbody></table></div>
 

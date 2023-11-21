@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Suwaid b. Wahb quoted a son of a Companion of the Prophet (ﷺ) who said his fat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Sa'id] -maksudnya Said bin Abu Ayyub- dari [Abu Marhum] dari [Sahl bin Mu'adz] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menahan kemarahan padahal ia mampu untuk meluapkannya, maka pada hari kiamat Allah akan memanggilnya di antara manusia, hingga Allah menyuruhnya untuk memilih bidadari sesuka hatinya." Abu Dawud berkata, "Abu Marhum namanya adalah 'Abdurrahman bin Maimun." Telah menceritakan kepada kami [Uqbah bin Mukram] berkata, telah menceritakan kepada kami ['Abdurrahman] -maksudnya Abdur Rahman bin Mahdi- dari [Bisyr] -maksudnya Bisyr bin Manshur- dari [Muhammad bin 'Ajlan] dari [Suwaid bin Wahb] dari [seorang laki-laki] di antara anak-anak sahabat Nabi shallallahu 'alaihi wasallam, dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah akan memenuhi keamanan dan keimanan -namun ia tidak menyebutkan kisah dalam hadits sebelumnya-, lalu Allah akan memanggilnya, perawi menambahkan, "siapa meninggalkan dari memakai pakaian yang bagus padahal ia mampu -[Bisyr] mengatakan; aku mengira beliau mengatakan- karena merendah diri, Maka Allah akan memakaikan baginya baju kemuliaan. Dan barangsiapa menikah karena Allah Ta'ala maka Allah akan memberinya mahkota raja kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам ‘Укъба ибн Мукрам: Рассказал нам ‘Абду-р-Рахман, то есть Ибн Махди, от Бишра, то есть Ибн Мансура, передавшего от Мухаммада ибн ‘Аджляна, передавшего от Сувайда ибн Вахба, передавшего от одного мужчины из числа сыновей сподвижников Пророка ﷺ передавшего от своего отца, который сказал: «Посланник Аллаха ﷺ сказал…», (и он передал) похожий (хадис, в котором) он сказал: «… того Аллах наполнит безопасностью и верой». Он не упомянул рассказ «Аллах призовёт его …», но добавил: «… а того, кто отказался одеться в красивую одежду, несмотря на возможность сделать это…».Бишр сказал: Я думаю, что он сказал: «… из скромности, Аллах оденет в одеяние благородства и чести. На того же, кто женил (или выдал замуж свою дочь) ради Всевышнего Аллаха, Аллах наденет корону владычества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
 

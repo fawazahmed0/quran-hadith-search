@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) said: Ten are the a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>53</td></tr><tr><td>Arabic No</td><td>53</td></tr><tr><td>Reference</td><td>Book 1 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аммара ибн Ясира о том, что Посланник Аллаха ﷺ сказал: «Поистине, прополаскивание рта и промывание носа водой относятся к фитре». И он упомянул, то, что было приведено (в предыдущем хадисе) и не упомянул об отпускании бороды, а добавил «… обрезание».(Также он) сказал: «Обрызгивание половых органов водой». И он не упомянул «подмывание водой».Абу Дауд сказал: «Похожий (хадис) также передается от Ибн ‘Аббаса, который сказал: “Пять из них относятся к голове”, и он упомянул про пробор и не упомянул об отращивании бороды».Абу Дауд сказал: Также передается (хадис) похожий на хадис Хаммада, от Талькъа ибн Хабиба и Муджахида, и от Бакра ибн ‘Абдуллаха аль-Музани и это их высказывание, но они не упомянули об отпускании бороды. А в хадисе Мухаммада ибн ‘Абдуллаха ибн Абу Марьяма от Абу Салямы, от Абу Хурайры, от Пророка ﷺ сообщается об отпускании бороды. От Ибрахима ан-Наха‘и сообщается похожий хадис и он упомянул в нем об отпускании бороды и обрезании
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>53</td></tr><tr><td>Arabic No</td><td>53</td></tr><tr><td>Reference</td><td>Book 1 Hadith 53</td></tr></tbody></table></div>
 

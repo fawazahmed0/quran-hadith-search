@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abdullah bin 'Umar:Allah's Messenger (ﷺ) wore a gold ring, then he th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] radliallahu 'anhuma dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah memakai cincin emas, kemudian beliau membuangnya sambil bersabda: "Saya tidak akan memakainya lagi selama-lamanya." Maka orang-orang pun ikut membuang cincin yang mereka kenakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5867</td></tr><tr><td>Arabic No</td><td>5867</td></tr><tr><td>Reference</td><td>Book 77 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн 'Умар, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ носил золотой перстень, а затем выбросил его, сказав: “Я больше никогда его не надену!” И люди тоже выбросили свои (золотые) перстни»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5867</td></tr><tr><td>Arabic No</td><td>5867</td></tr><tr><td>Reference</td><td>Book 77 Hadith 84</td></tr></tbody></table></div>
 

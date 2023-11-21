@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn Ishaq said:'Araya means that a man lends another man some palm-trees, but he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sari] dari [Abdah] dari [Ibnu Ishaq] ia berkata; 'araya adalah seseorang memberikan beberapa pohon kurma kepada seseorang, kemudian orang-orang tersebut merasa terganggu dengan apa yang dilakukan orang yang diberi tersebut terhadap beberapa pohon kurma tersebut, kemudian ia membelinya dengan seukuran penaksiran buah yang ada di pohon tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366</td></tr><tr><td>Arabic No</td><td>3366</td></tr><tr><td>Reference</td><td>Book 23 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Исхак сказал: «‘Арайа это когда один человек дарит другому пальмы, а потом дарителю начинает причинять неудобство то, что тот [приходит в его сад, чтобы] ухаживать за ними, и даритель выкупает их за объём фиников, соответствующий приблизительно определённому объёму, [который приобрели бы эти свежие финики на пальмах в результате сушки]»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3366</td></tr><tr><td>Arabic No</td><td>3366</td></tr><tr><td>Reference</td><td>Book 23 Hadith 41</td></tr></tbody></table></div>
 

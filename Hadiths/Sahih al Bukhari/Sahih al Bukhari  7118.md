@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Hour will not be establi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri]; [Sa'id bin Al Musayyab] mengatakan, telah mengabarkan kepadaku [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Hari kiamat tidak akan tiba hingga api keluar dari tanah Hejaz yang bisa menyinari tengkuk unta di Bushra
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7118</td></tr><tr><td>Arabic No</td><td>7118</td></tr><tr><td>Reference</td><td>Book 92 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не настанет Час этот, пока не выйдет из земли Хиджаза (такой) огонь, который осветит собой шеи верблюдов в Бусре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7118</td></tr><tr><td>Arabic No</td><td>7118</td></tr><tr><td>Reference</td><td>Book 92 Hadith 65</td></tr></tbody></table></div>
 

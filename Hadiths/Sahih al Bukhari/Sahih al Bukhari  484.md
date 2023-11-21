@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ The narrated Hadith is about the various places on the way from Medina to Mecca 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>484</td></tr><tr><td>Reference</td><td>Book 8 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нафи‘, да помилует его Аллах Всевышний, передавал со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, что во время совершения ‘умры и хаджжа Посланник Аллаха ﷺ останавливался в Зуль-Хулейфе под деревом на том месте, где потом была построена мечеть. И когда он возвращался по этой дороге после военного похода или совершения хаджжа или ‘умры, то проходил по внутренней части вади, а когда выбирался оттуда наверх, опускал свою верблюдицу на колени на открытом каменистом месте, расположенном на его восточном краю, и останавливался там на отдых до утра, но располагался не возле построенной там впоследствии мечети и не на том холме, где находится эта мечеть. ‘Абдуллах молился возле одного из ответвлений этого вади, на дне которого были песчаные дюны, где раньше совершал молитвы и Посланник Аллаха ﷺ . Впоследствии потоки воды сровняли с землёй то место, на котором молился ‘Абдуллах ибн ‘Умар
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>484</td></tr><tr><td>Reference</td><td>Book 8 Hadith 131</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported:A woman came to the Messenger of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ishaq bin Manshur] dan [Ibnu Abu Khalaf] dan [Abdu bin Humaid] semuanya dari [Zakariya bin Adi] -[Abdu] berkata- telah menceritakan kepadaku [Zakariya bin Adi] telah mengabarkan kepada kami [Ubaidullah bin Amru] dari [Zaid bin Abu Unaisah] telah menceritakan kepada kami [Al Hakam bin Utaibah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Seorang wanita mendatangi Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Wahai Rasulullah, sesungguhnya Ibuku telah meninggal, sedangkan beliau masih memiliki hutang puasa Nadzar, bolehkah aku membayarnya?" beliau menjawab: "Bagaimana menurutmu, jika ibumu memiliki hutang, lalu kamu membayarnya, apakah hal itu dapat melunasi hutangnya?" wanita itu menjawab, "Ya." Beliau bersabda: "Kalau begitu, berpuasalah untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2696</td></tr><tr><td>Arabic No</td><td>1148.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2696</td></tr><tr><td>Arabic No</td><td>1148.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 202</td></tr></tbody></table></div>
 

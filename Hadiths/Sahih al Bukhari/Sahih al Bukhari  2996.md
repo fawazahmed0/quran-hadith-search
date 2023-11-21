@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibrahim Abu Isma'il As-Saksaki:I heard Abu Burda who accompanied Yazid 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Mathar bin Al Fadhl] telah bercerita kepada kami [Yazid bin Harun] telah bercerita kepada kami ['Al 'Awwam] telah bercerita kepada kami [Ibrahim Abu Isma'il As-Saksakiy] berkata; Aku mendengar [Abu Burdah] pernah bersama dengan Yazid bin Abi Kabsyah dalam suatu perjalanan dimana Yazid tetap berpuasa dalam safar, lalu Abu Burdah berkata; "Aku sering mendengar berkali-kali [Abu Musa] berkata; Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Jika seorang hamba sakit atau bepergian (lalu beramal) ditulis baginya (pahala) seperti ketika dia beramal sebagai muqim dan dalam keadaan sehat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2996</td></tr><tr><td>Arabic No</td><td>2996</td></tr><tr><td>Reference</td><td>Book 56 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибрахим Абу Исма‘иль ас-Саксаки сказал: Я слышал Абу Бурду, который был спутником Язида ибн Абу Кабши во время поездки, и Язид во время этой поездки постился (в пути,) и тогда Абу Бурда сказал ему: Я слышал, как Абу Муса, да будет доволен им Аллах, не раз говорил: «Посланник Аллаха ﷺ сказал: “Когда раб (Аллаха) болеет или находится в пути, ему записывается (совершение) того же, что он обычно делал, оставаясь у себя дома и будучи здоровым”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2996</td></tr><tr><td>Arabic No</td><td>2996</td></tr><tr><td>Reference</td><td>Book 56 Hadith 205</td></tr></tbody></table></div>
 

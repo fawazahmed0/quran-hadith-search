@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: A Jewess presented a poisoned sheep to the Prophet (ﷺ),
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Dawud bin Rasyid] berkata, telah menceritakan kepada kami [Abbad Ibnul Awwam]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Harun bin Abdullah] berkata, telah menceritakan kepada kami [Sa'id bin Sulaiman] berkata, telah menceritakan kepada kami [Abbad] dari [Sufyan bin Husain] dari [Az Zuhri] dari [Sa'id] dan [Abu Salamah]. [Harun] berkata; dari [Abu Hurairah] ia berkata, "Seorang wanita Yahudi memberi hadiah Nabi shallallahu 'alaihi wasallam daging kambing yang telah diberi racun." Abu Hurairah melanjutkan, "Tetapi Nabi shallallahu 'alaihi wasallam tidak menyentuh wanita itu sama sekali (yakni dengan qishash)." Abu Dawud berkata, "Wanita ini adalah saudara perempuan dari perempuan Yahudi yang meracuni Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4509</td></tr><tr><td>Arabic No</td><td>4509</td></tr><tr><td>Reference</td><td>Book 41 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что одна иудейка подарила Пророку ﷺ отравленную овцу и он не подверг её наказанию за это. Абу Дауд сказал: «Это сестра Мирхаба, иудейка, отравила Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4509</td></tr><tr><td>Arabic No</td><td>4509</td></tr><tr><td>Reference</td><td>Book 41 Hadith 16</td></tr></tbody></table></div>
 

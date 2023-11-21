@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said that Gabriel said, "Here is Khadija 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ibn fudlail] dari ['Umarah] dari [Abu Zur'ah] dari [Abu Hurairah] berkata, "Inilah Khadijah datang kepadamu dengan bejana berisi makanan dan bejana berisi minuman, dan sampaikanlah salam kepadanya dari tuhannya, dan berilah dia kabar gembira dengan rumah yang terbuat dari mutiara, yang tiada keributan dan kegaduhan di sana
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7497</td></tr><tr><td>Arabic No</td><td>7497</td></tr><tr><td>Reference</td><td>Book 97 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «(Джибриль пришёл к Пророку ﷺ и сказал:) Эта Хадиджа пришла к тебе с сосудом, в котором еда (или: с сосудом, в котором питьё). Передай ей приветствие от её Господа. И обрадуй её вестью о доме из полой жемчужины в Раю, где не будет ни шума, ни усталости»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7497</td></tr><tr><td>Arabic No</td><td>7497</td></tr><tr><td>Reference</td><td>Book 97 Hadith 122</td></tr></tbody></table></div>
 

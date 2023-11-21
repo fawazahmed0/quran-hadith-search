@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sumayy, the freed slave of Abu Bakr, says that al-Qa'qa and Zaid b. Aslam sent h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al-Qa'nabi] dari [Malik] dari [Sumayya, mantan sahaya Abu Bakar] bahwasanya Al-Qa'qa dan Zaid bin Aslam mengutusnya untuk bertanya kepada [Sa'id bin Al-Musayyib]; bagaimanakah cara mandi wanita mustahadlah? Dia menjawab; Cukup mandi sekali untuk shalat Zhuhur sampai Zhuhur esok hari dan cukup dengan berwudhu saja untuk setiap kali shalat. Apabila darahnya membuatnya kewalahan, maka hendaklah dia menutupnya dengan kain. Abu Dawud berkata; Dan telah diriwayatkan dari Ibnu Umar dan Anas bin Malik; bahwa dia mandi dari Zhuhur hingga Zhuhur berikutnya. Demikian pula diriwayatkan oleh [Dawud] dan [Ashim] dari [Asy-Sya'bi] dari [Istrinya] dari [Qamir] dari [Aisyah], hanya saja Dawud menyebutkan; setiap hari. Sedangkan di dalam hadits Ashim; Ketika Zhuhur. Ini adalah pendapat Salim bin Abdullah dan Al-Hasan dan 'Atha'. Abu Dawud berkata; Malik berkata; Saya benar-benar menyangka hadits Ibnu Al-Musayyib adalah dari keadaan suci hingga keadaan suci berikutnya. Akan tetapi masuk wahm (keraguan) padanya, sehingga orang-orang menggantinya dengan menyebutkan; dari Zhuhur hingga Zhuhur berikutnya. Dan diriwayatkan oleh Miswar bin Abdul Malik bin Sa'id bin Abdurrahman bin Yarbu', dia menyebutkan padanya; dari keadaan suci hingga keadaan suci berikutnya, namun orang-orang menggantinya dengan menyebutkan; dari Zhuhur hingga Zhuhur berikutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сумаййа, вольноотпущенника Абу Бакра о том, что аль-Къа‘къа‘ и Зейд ибн Аслам отправили его к Са‘иду ибн аль-Мусаййабу спросить его о том, как должна купаться женщина с хроническим кровотечением, и он сказал: «Она должна купаться (один раз) между двумя полуденными молитвами и совершать омовение для каждой молитвы. А если крови будет много, то ей следует обвязать половые органы тканью».Абу Дауд сказал: «В риваяте этого хадиса переданного от Ибн ‘Умара и Анаса ибн Малика сказано: “Она купается (один раз) между двумя полуденными молитвами”. То же самое передали Дауд и ‘Асым от аш-Ша‘би, которому сообщила его жена от Камира со слов ‘Аиши, за исключением того, что Дауд сказал: “Каждый день”. А в хадисе ‘Асыма сказано: “Во время полуденной /зухр/ молитвы”. Тоже самое сказали Салим ибн ‘Абдуллах, аль-Хасан и ‘Атаъ».Абу Дауд сказал: «Малик сказал: “Я полагаю, что в хадисе Ибн Мусаййаба должно быть “От чистоты до чистоты”. Люди поменяли это на “От полуденной молитвы до полуденной молитвы”. Однако, эта ошибка вошла в хадис”.Также его передал аль-Мисвар ибн ‘Абдуль Малик ибн Са‘ид ибн ‘Абду-р-Рахман ибн Йарбу‘, который сказал в нем: “От чистоты до чистоты”, но люди поменяли это (предложение) на “От полуденной молитвы до полуденной молитвы”».Шейх аль-Албани назвал все эти сообщения достоверными, кроме того, что передано от аль-Мисвара ибн ‘Абдуль Малика, сообщение которого является слабым /да‘иф
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
 

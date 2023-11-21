@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amra:Aisha said that Barirah came to seek her help in the writing of h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Sufyan] dari [Yahya] dari ['Amrah] dari ['Aisyah radliallahu 'anha] berkata bahwa Barirah mendatanginya untuk meminta tolong kepadanya perihal penebusan dirinya kepada tuannya untuk kebebasannya. Maka 'Aisyah radliallahu 'anha berkata: "Kalau kamu mau aku akan berikan (uang pembesanmu) kepada tuanmu namun perwalianmu menjadi milikku". Ketika Rasulullah shallallahu 'alaihi wasallam datang, 'Aisyah radliallahu 'anha menceritakannya kepada Beliau. Maka Nabi shallallahu 'alaihi wasallam: "Belilah Barirah lalu bebaskanlah, karena perwalian menjadi milik orang yang membebaskannya". Kemudian Rasulullah shallallahu 'alaihi wasallam berdiri di atas mimbar lalu bersabda: "Apa jadinya suatu kaum, jika mereka membuat persyaratan yang tidak ada pada Kitab Allah. Siapa yang membuat persyaratan yang tidak ada pada Kitab Allah, maka tidak ada (berlaku) baginya sekalipun dia membuat seratus persyaratan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2735</td></tr><tr><td>Arabic No</td><td>2735</td></tr><tr><td>Reference</td><td>Book 54 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала, что однажды к ней пришла Барира просить о помощи, чтобы расплатиться согласно договору о самовыкупе. ‘Аиша сказала ей: «Если хочешь, я расплачусь с твоим хозяевами с условием, что право на покровительство (уаля) будет принадлежать мне». ‘Аиша сказала: «Когда пришёл Пророк ﷺ, я рассказала ему об этом. Пророк ﷺ сказал: “Купи её и освободи, ведь покровителем может быть только тот, кто освободил раба”. Затем Посланник Аллаха ﷺ встал на минбар и сказал: “Почему люди выдвигают условия, которых нет в Книге Аллаха? Условия, которых нет в Книге Аллаха, являются недействительными, даже если это будет сто условий!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2735</td></tr><tr><td>Arabic No</td><td>2735</td></tr><tr><td>Reference</td><td>Book 54 Hadith 22</td></tr></tbody></table></div>
 

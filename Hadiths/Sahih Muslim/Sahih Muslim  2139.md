@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported Allah's Messenger (ﷺ) as saying:Endurance is to be show
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar Al Abdi] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Tsabit] ia berkata, saya mendengar [Anas bin Malik] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya kesabaran itu letaknya pada goncangan yang pertama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2139</td></tr><tr><td>Arabic No</td><td>926.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «Терпение (больше всего необходимо) проявлять в самом начале потрясения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2139</td></tr><tr><td>Arabic No</td><td>926.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 17</td></tr></tbody></table></div>
 

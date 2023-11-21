@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami ['Anbasah], telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab], telah mengabarkan kepadaku [Salim bin Abdullah], dari [ayahnya], bahwa ia telah menceraikan isterinya yang sedang hamil, kemudian Umar menceritakan hal tersebut kepada Rasulullah shallallahu 'alaihi wasallam. Kemudian Rasulullah shallallahu 'alaihi wasallam marah dan berkata; perintahkan dia agar kembali kepadanya dan menahannya hingga suci, kemudian haid, kemudian suci, kemudian apabila ia berkehendak maka boleh ia menceraikannya dalam keadaan suci sebelum ia menggaulinya. Maka itulah perceraian pada 'iddahnya, sebagaimana yang diperintahkan Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7160) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2182</td></tr><tr><td>Arabic No</td><td>2182</td></tr><tr><td>Reference</td><td>Book 13 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха, да будет доволен Аллах им и его отцом, что он дал своей жене развод, когда у неё была менструация. ‘Умар рассказал об этом Посланнику Аллаха ﷺ. Посланник Аллаха ﷺ разгневался и сказал: «Вели ему вернуть её, удержать до тех пор, пока она не очистится от этой менструации, а потом и от следующей. А потом, если желает, пусть даст ей развод прежде, чем прикоснётся к ней. С таким сроком Всевышний Аллах велел давать развод женщинам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7160) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2182</td></tr><tr><td>Arabic No</td><td>2182</td></tr><tr><td>Reference</td><td>Book 13 Hadith 8</td></tr></tbody></table></div>
 

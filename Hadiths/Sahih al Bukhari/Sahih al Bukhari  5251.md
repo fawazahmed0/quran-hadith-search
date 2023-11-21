@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:that he had divorced his wife while she was menstru
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abdullah] ia berakta; Telah menceritakan kepadaku [Malik] dari [Nafi'] dari [Abdullah bin Umar] radliallahu 'anhuma, bahwa pada masa Rasulullah shallallahu 'alaihi wasallam, ia pernah menceraikan isterinya dalam keadaan haid, maka Umar bin Al Khaththab pun menanyakan hal itu kepada Rasulullah shallallahu 'alaihi wasallam. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Perintahkanlah agar ia segera meruju'nya, lalu menahannya hingga ia suci dan haid kembali kemudian suci. Maka pada saat itu, bila ia mau, ia boleh menahannya, dan bila ingin, ia juga boleh menceraikannya. Itulah Al Iddah yang diperintahkan oleh Allah untuk mentalak isteri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5251</td></tr><tr><td>Arabic No</td><td>5251</td></tr><tr><td>Reference</td><td>Book 68 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин ‘Умара, да будет доволен Аллах ими обоими, что при жизни Посланника Аллаха ﷺ он развёлся со своей женой в то время, когда у неё были месячные. ‘Умар бин аль-Хаттаб спросил об этом Посланника Аллаха ﷺ и Посланник Аллаха ﷺ сказал: «Вели ему взять её обратно и держать у себя, пока она не очистится, потом (пусть подождёт, пока) у неё снова не начнутся месячные и она снова не очистится, после чего, если он захочет, пусть оставит её, а если захочет, пусть разведётся, (не совершая с ней половых сношений): это и есть срок /‘идда/, согласно которому Аллах велел разводиться с женщинами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5251</td></tr><tr><td>Arabic No</td><td>5251</td></tr><tr><td>Reference</td><td>Book 68 Hadith 1</td></tr></tbody></table></div>
 

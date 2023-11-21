@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: AbdurRahman ibn Ghanam said: We were stationed at the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mushaffa], telah menceritakan kepada kami [Muhammad bin Al Mubarak] dari [Yahya bin Hamzah], ia berkata; telah menceritakan kepada kami [Abu Abdul Aziz] syekh dari penduduk Yordania dari ['Ubadah bin Nusai] dari [Abdurrahman bin Ghanm], ia berkata; kami memerangi Kota Qannasrin bersama Syarahbil bin As Simth, kemudian tatkala ia telah menaklukkannya ia memperoleh kambing dan sapi, kemudian ia membagikan sebagian darinya, dan menjadikan sisanya bagian dari harta rampasan perang. Kemudian aku bertemu dengan [Mu'adz bin Jabal], lalu aku ceritakan hal tersebut kepadanya. Lalu Mu'adz berkata; kami pernah memerangi khaibar bersama Rasulullah shallallahu 'alaihi wasallam, lalu kami memperoleh kambing, lalu Rasulullah shallallahu 'alaihi wasallam membagi sebagiannya diantara kami dan menjadikan sisanya bagian dari rampasan perang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2707</td></tr><tr><td>Arabic No</td><td>2707</td></tr><tr><td>Reference</td><td>Book 15 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2707</td></tr><tr><td>Arabic No</td><td>2707</td></tr><tr><td>Reference</td><td>Book 15 Hadith 231</td></tr></tbody></table></div>
 

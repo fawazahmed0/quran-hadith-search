@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:While 'Umar (bin Al-Khattab) was delivering the Khutba on a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya] -yaitu Ibnu Abu Katsir- dari [Abu Salamah] dari [Abu Hurairah] bahwa ['Umar] radliallahu 'anhu ketika berdiri memberikah khuthbah pada hari Jum'at, tiba-tiba ada seorang laki-laki masuk (Masjid). 'Umar lalu bertanya, "Kenapa anda terlambat shalat?" Laki-laki itu menjawab: "Aku tidak tahu hingga aku mendengar adzan, maka aku pun hanya berwudlu." Maka "Umar berkata, "Bukankah kamu sudah mendengar bahwa Nabi shallallahu 'alaihi wasallam bersabda: 'Jika salah seorang dari kalian berangkat shalat jum'at hendaklah mandi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>882</td></tr><tr><td>Arabic No</td><td>882</td></tr><tr><td>Reference</td><td>Book 11 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что однажды в пятницу, когда ‘Умар, да будет доволен им Аллах, обращался (к людям) с проповедью, (в мечеть) вошел один человек и ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах сказал ему: «Почему вы опаздываете на молитву?» И этот человек сказал: «После того, как я услышал призыв, я совершил только малое омовение». ‘Умар сказал: «Разве вы не слышали, как Пророк ﷺ сказал: “Если кто-то из вас отправляется на пятничную молитву, пусть совершит большое омовение?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>882</td></tr><tr><td>Arabic No</td><td>882</td></tr><tr><td>Reference</td><td>Book 11 Hadith 7</td></tr></tbody></table></div>
 

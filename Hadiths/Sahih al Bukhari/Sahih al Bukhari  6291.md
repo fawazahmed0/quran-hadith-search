@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:One day the Prophet (ﷺ) divided and distributed something a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Syaqiq] dari [Abdullah] dia berkata; "Suatu hari Nabi shallallahu 'alaihi wasallam pernah membagi-bagi suatu pembagian, lalu seorang laki-laki dari Anshar berkata; "Sungguh pembagian ini tidak dimaksudkan untuk mengharap ridla Allah". Lalu aku berkata; 'Demi Allah, sungguh aku akan mendatangi Nabi shallallahu 'alaihi wasallam, lalu aku pun menemui beliau ketika beliau bersama orang-orang, dan membisikkannya kepada beliau.' Maka beliau marah hingga aku lihat tampak kemarahan pada wajah beliau. Beliau lalu bersabda: 'Semoga Allah merahmati Musa, karena dia biasa disakiti lebih banyak dari ini dan dia tetap shabar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6291</td></tr><tr><td>Arabic No</td><td>6291</td></tr><tr><td>Reference</td><td>Book 79 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах рассказывал: «Однажды Пророк ﷺ разделил (военную добычу, и увидев это,) один человек из числа ансаров воскликнул: “Поистине, такой раздел был сделан не ради Аллаха!” Тогда я сказал: “Клянусь Аллахом, я обязательно сообщу об этом Пророку ﷺ!” — после чего пришёл к нему, когда он сидел с людьми, и тайно рассказал ему (о произошедшем). (После услышанного), Пророк ﷺ разгневался так (сильно), что цвет его лица изменился, затем он сказал: “Да помилует Аллах (пророка) Мусу, который подвергался ещё большим обидам, но терпел!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6291</td></tr><tr><td>Arabic No</td><td>6291</td></tr><tr><td>Reference</td><td>Book 79 Hadith 63</td></tr></tbody></table></div>
 

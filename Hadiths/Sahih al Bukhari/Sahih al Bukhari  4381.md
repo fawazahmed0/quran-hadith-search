@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:The people of Najran came to the Prophet (ﷺ) and said, "Send
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dia berkata; AKu mendengar [Abu Ishaq] dari [Shilah bin Zufar] dari [Hudzaifah radliallahu 'anhu] dia berkata; "Orang-orang Najran pernah datang kepada Rasulullah shallallahu 'alaihi wasallam seraya berkata; 'Ya Rasulullah, utuslah kepada kami seseorang yang jujur dan dipercaya.' Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh aku akan mengutus kepada kalian seseorang yang sangat jujur dan dapat dipercaya. Para sahabat merasa penasaran dan akhirnya menunggu-nunggu orang yang dimaksud oleh Rasulullah itu. Ternyata Rasulullah mengutus Abu Ubaidah bin Jarrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4381</td></tr><tr><td>Arabic No</td><td>4381</td></tr><tr><td>Reference</td><td>Book 64 Hadith 404</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузейфа, да будет доволен им Аллах, сказал: «Однажды жители Наджрана пришли к Пророку ﷺ и сказали: “Отправь к нам надежного человека”. Пророк ﷺ сказал: “Я непременно пошлю к вам действительно надёжного человека”. (Каждый из) сподвижников пожелал (, чтобы было названо его имя), и Пророк ﷺ послал Абу ‘Убайду ибн аль-Джарраха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4381</td></tr><tr><td>Arabic No</td><td>4381</td></tr><tr><td>Reference</td><td>Book 64 Hadith 404</td></tr></tbody></table></div>
 

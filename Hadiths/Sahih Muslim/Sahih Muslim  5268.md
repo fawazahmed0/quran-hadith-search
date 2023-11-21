@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salama b. Akwa' reported on the authority of his father that a person ate in the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Zaid bin Al Hubab] dari ['Ikrimah bin 'Ammar]; Telah menceritakan kepadaku [Iyas bin Salamah bin Al Akwa']; [Bapaknya] telah menceritakan kepadanya, bahwa seorang laki-laki makan di samping Rasulullah shallallahu 'alaihi wasallam dengan tangan kirinya, Lalu Rasulullah bersabda: "Makanlah dengan tangan kananmu! Dia menjawab; 'Aku tidak bisa.' Beliau bersabda: "Apakah kamu tidak bisa?" -dia menolaknya karena sombong-. Setelah itu tangannya tidak bisa sampai ke mulutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5268</td></tr><tr><td>Arabic No</td><td>2021</td></tr><tr><td>Reference</td><td>Book 36 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5268</td></tr><tr><td>Arabic No</td><td>2021</td></tr><tr><td>Reference</td><td>Book 36 Hadith 142</td></tr></tbody></table></div>
 

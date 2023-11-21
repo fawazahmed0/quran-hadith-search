@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to treat some of his wives by passing his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abu Syaibah] telah menceritakan kepada kami [Yahya] dari [Sufyan] dari [Al A'masy] dari [Muslim] dari [Masruq] dari ['Aisyah] radliallahu 'anha dia berkata; bahwa Nabi shallallahu 'alaihi wasallam memintakan perlindungan untuk sebagian keluarga beliau, lalu beliau mengusapkan kepadanya dengan tangan kanannya sambil berdo'a: "ADZHIBIL BA'SA ALLAHUMMA RABBAN NAASI WASYFII ANTA SYAAFI LAA SYIFAA'A ILLA SYIFAA'UKA SYIFAA'AN LAA YUGHAADIRU SAQAMA (Hilangkanlah rasa sakit Ya Allah Rabb manusia, sembuhkanlah sesungguhnya Engkau Dzat yang Maha menyembuhkan, tidak ada kesembuhan melainkan dari kesembuhan-Mu, yaitu kesembuhan yang tidak menyisakan rasa sakit)." Lalu aku menceritakan hal ini kepada [Manshur], maka dia menceritakan kepadaku dari [Ibrahim] dari [Masruq] dari [Aisyah] seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5750</td></tr><tr><td>Arabic No</td><td>5750</td></tr><tr><td>Reference</td><td>Book 76 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Заклиная от болезни кого-либо из них Пророк ﷺ обычно проводил своей правой рукой (по телу больного, говоря): “Удали эту болезнь, Господь людей, и исцели! Ты — целитель, нет исцеления, кроме Твоего исцеления, (исцели же так, чтобы после этого) не осталось болезни!”»\n/Азхиби-ль-ба‘са, Рабба-н-наси, ва-шфи, Анта-ш-шафи, ля шифàа илля шифàу-ка, шифàан ля йугъадиру сакъаман!/”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5750</td></tr><tr><td>Arabic No</td><td>5750</td></tr><tr><td>Reference</td><td>Book 76 Hadith 65</td></tr></tbody></table></div>
 

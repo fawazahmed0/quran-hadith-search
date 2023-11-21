@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salama b. Abd al-Rahman narrated it on the authority of A'isha that when the Mes
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>729</td></tr><tr><td>Arabic No</td><td>321.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Совершая полное омовение /гусль/, Посланник Аллаха ﷺ начинал с правой руки, он лил на неё воду и мыл, затем он поливал правой рукой воду на грязь, которая была на нём и мыл её левой рукой. Закончив это, он обливал голову».‘Аиша сказала: «Я совершала полное омовение вместе с Посланником Аллаха ﷺ, (черпая воду) из одного и того же сосуда, и (в это время) мы оба были в состоянии полового осквернения /джунуб/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>729</td></tr><tr><td>Arabic No</td><td>321.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 51</td></tr></tbody></table></div>
 

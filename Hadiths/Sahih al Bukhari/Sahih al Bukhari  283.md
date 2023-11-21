@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) came across me in one of the streets of M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami [Humaid] berkata, telah menceritakan kepada kami [Bakar] dari [Abu Rafi'] dari [Abu Hurairah], bahwa Nabi shallallahu 'alaihi wasallam pernah berjumpa dengannya di salah satu jalan Madinah, sementara ia dalam keadaan junub." Abu Hurairah berkata, 'Aku malu dan pergi diam-diam'. Abu Hurairah lalu pergi mandi dan kembali lagi setelah itu, beliau lalu bertanya: "Kemana saja kamu tadi wahai Abu Hurairah?" Abu Hurairah menjawab: "Aku tadi junub. Dan aku tidak suka bersama Tuan sedang aku dalam keadaan tidak suci." Beliau pun bersabda: "Subhaanallah! Sesungguhnya seorang Muslim itu tidak itu najis
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>283</td></tr><tr><td>Arabic No</td><td>283</td></tr><tr><td>Reference</td><td>Book 5 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что однажды Пророк ﷺ встретил его на одной из улиц Медины в то время, когда он был осквернён, и (Абу Хурайра) спрятался от него, пошёл (домой) и совершил большое омовение, а потом явился (к Пророку ﷺ). Он спросил: «Где ты был, о Абу Хурайра?» (Абу Хурайра) ответил: «Я был осквернён и не хотел находиться в твоём обществе, будучи нечистым». (Пророк ﷺ) воскликнул: «Преславен Аллах! /Субхана-Ллах!/ Поистине, верующий (никогда) не бывает нечистым!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>283</td></tr><tr><td>Arabic No</td><td>283</td></tr><tr><td>Reference</td><td>Book 5 Hadith 35</td></tr></tbody></table></div>
 

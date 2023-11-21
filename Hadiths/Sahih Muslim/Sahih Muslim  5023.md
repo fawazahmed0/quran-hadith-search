@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah is reported to have said:We ate during the time of Khaibar th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Muhammad bin Bakr] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia mendengar [Jabir bin Abdullah] berkata, "Pada waktu perang Khaibar kami pernah memakan daging kuda dan keledai liar, dan Nabi shallallahu 'alaihi wasallam melarang kami makan daging keledai jinak." Dan telah menceritakan kepadaku [Abu At Thahir] telah mengabarkan kepada kami [Ibnu Wahb]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Ya'qub Ad Dauraqi] dan [Ahmad bin Utsman An Naufali] keduanya berkata; telah menceritakan kepada kami [Abu 'Ashim] keduanya dari [Ibnu Juraij] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5023</td></tr><tr><td>Arabic No</td><td>1941.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5023</td></tr><tr><td>Arabic No</td><td>1941.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 52</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), l'Envoyé de Dieu (paix et 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Manshur bin Abu Muzahim]; Telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih bin Kaisan]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Al Hasan bin 'Ali Al Hulwani] dan ['Abad bin Humaid] dan lafazh ini milik mereka. Mereka berkata; Telah menceritakan kepada kami [Ya'qub bin Ibrahim]; Telah menceritakan kepada kami [Bapakku] dari [Shalih] dari [Ibnu Syihab]; Telah menceritakan kepadaku [Abu Umamah bin Sahl] bahwasannya Aku mendengar [Abu Sa'id Al Khudri] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Ketika aku sedang tertidur, maka aku bermimpi melihat orang banyak dengan mengenakan baju. Baju mereka ada yang sampai batas dada dan ada pula yang kurang dari itu. Tak lama kemudian Umar bin Khaththab lewat sambil mengenakan baju yang menutupi tubuhnya.' Para sahabat bertanya; "Ya Rasulullah menurut engkau bagaimana ta'wil mimpi itu?" Rasulullah menjawab: "Itu adalah tentang masalah agama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6189</td></tr><tr><td>Arabic No</td><td>2390</td></tr><tr><td>Reference</td><td>Book 44 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6189</td></tr><tr><td>Arabic No</td><td>2390</td></tr><tr><td>Reference</td><td>Book 44 Hadith 20</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:I asked Ibn 'Abbas regarding Surat-al-Anfal. He said, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin 'Abdur Rahim] Telah menceritakan kepada kami [Sa'id bin Sulaiman] Telah mengabarkan kepada kami [Husyaim] Telah mengabarkan kepada kami [Abu Bisyr] dari [Sa'id bin Jubair] dia berkata; Aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhuma] surat Al Anfal, lalu dia menjawab; 'Yaitu surat yang diturunkan di perang Badar. Perang yang penuh onak dan duri. MURDIFIN artinya; datang bertubi-tubi, hingga cukup melelahkanku dan orang yang datang setelahku. DZUQUU, artinya; berilah kabar gembira, dan berusahalah terus. Ini bukan rasa yang bisa diketahui melalui mulut. FAYARKUMUHU artinya; bergabung dan berpencar. WA IN JANAHU artinya jika mereka meminta keselamatan dan keamanan atau berdamai (satu makna). YUSKHINA artinya: kekalahan. Mujahid berkata; arti MUKAA'AN yaitu memasukan jari-jari mereka ke dalam mulut-mulut mereka. Arti TASHDIYAH; suara yang memekakkan. LIYUTSBITUTKA artinya; untuk menahanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4645</td></tr><tr><td>Arabic No</td><td>4645</td></tr><tr><td>Reference</td><td>Book 65 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Джубайр спросил Ибн ‘Аббаса о суре «аль-Анфаль», и он ответил: «Она была ниспослана (в отношении битвы) при Бадре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4645</td></tr><tr><td>Arabic No</td><td>4645</td></tr><tr><td>Reference</td><td>Book 65 Hadith 167</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Bara’ b. ‘Azib reported the Messenger of Allah(ﷺ) as saying:When a Musl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] berkata, telah menceritakan kepada kami [Syu'bah] dari [Alqamah bin Martsad] dari [Sa'd bin Ubaidah] dari [Al Bara bin Azib] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seorang muslim ditanya dalam kubur, lalu ia bersaksi bahwa tidak ada Tuhan yang berhak disembah selain Allah, dan Muhammad shallallahu 'alaihi wasallam adalah utusan Allah. Maka itu adalah bukti dari firman Allah Azza Wa Jalla: (Allah meneguhkan (iman) orang-orang yang beriman dengan ucapan yang teguh…) -Qs. Ibrahim:
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4699) Sahih Muslim (2871)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4750</td></tr><tr><td>Arabic No</td><td>4750</td></tr><tr><td>Reference</td><td>Book 42 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Бара ибн ‘Азиба, что Посланник Аллаха ﷺ сказал: «Поистине, когда мусульманина подвергают допросу в могиле и он свидетельствует, что нет бога [заслуживающего поклонение], кроме Аллаха и что Мухаммад Посланник Аллаха, это и есть слова Всемогущего и Великого Аллаха: “Аллах поддерживает тех, кто уверовал, твёрдым словом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4699) Sahih Muslim (2871)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4750</td></tr><tr><td>Arabic No</td><td>4750</td></tr><tr><td>Reference</td><td>Book 42 Hadith 155</td></tr></tbody></table></div>
 

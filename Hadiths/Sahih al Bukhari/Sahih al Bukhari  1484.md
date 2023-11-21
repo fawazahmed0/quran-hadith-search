@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "There is no Zakat on less 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Malik] berkata, telah menceritakan kepada saya [Muhammad bin 'Abdullah bin 'Abdurrahman bin Abu Sha'sha'ah] dari [bapaknya] dari [Abu Sa'id Al Khudriy] dari Nabi Shallallahu'alaihiwasallam bersabda: "Tidak ada zakat pada hasil tanaman kurang dari lima wasaq, tidak ada zakat unta yang kurang dari lima ekor dan tidak ada zakat pada harta (uang) kurang dari lima waaq ". Berkata, Abu 'Abdullah Al Bukhari: "Ini tafsiran awal ketika Beliau bersabda: ""Tidak ada zakat pada hasil tanaman kurang dari lima wasaq". Kemudian yang dijadikan pegangan dalam masalah ilmu selamanya adalah apa yang ditambahkan oleh perawi yang dikenal kuat atau ang mereka jelaskan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1484</td></tr><tr><td>Arabic No</td><td>1484</td></tr><tr><td>Reference</td><td>Book 24 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не выплачивается закят с урожая менее чем в пять васков и со стада, состоящего менее чем из пяти верблюдов, и с менее чем пяти окий серебра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1484</td></tr><tr><td>Arabic No</td><td>1484</td></tr><tr><td>Reference</td><td>Book 24 Hadith 84</td></tr></tbody></table></div>
 

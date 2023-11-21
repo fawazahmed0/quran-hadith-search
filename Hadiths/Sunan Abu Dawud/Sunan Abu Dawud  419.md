@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated An-Nu'man ibn Bashir: I am the one who is best informed of the time of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Basyir bin Tsabit] dari [Habib bin Salim] dari [An Nu'man bin Basyir] dia berkata; Saya adalah orang yang paling tahu tentang waktu shalat ini, yaitu shalat Isya yang terakhir, di mana Rasulullah Shallallahu alaihi wasallam melaksanakannya tatkala rembulan tenggelam pada malam ketiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>419</td></tr><tr><td>Arabic No</td><td>419</td></tr><tr><td>Reference</td><td>Book 2 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Ну‘ман ибн Башир сказал: «Я лучше всех из людей знаю о времени этой молитвы последней вечерней молитвы /‘ишаъ/. Посланник Аллаха ﷺ совершал её, когда луна клонилась к закату в третью (ночь месяца)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>419</td></tr><tr><td>Arabic No</td><td>419</td></tr><tr><td>Reference</td><td>Book 2 Hadith 29</td></tr></tbody></table></div>
 

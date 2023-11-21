@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) gathered some people of Ansar and said, "The Peo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] katanya, aku mendengar [Qatadah] dari [Anas bin Malik] radliallahu 'anhu, katanya, suatu kali Nabi shallallahu 'alaihi wasallam mengumpulkan beberapa orang Anshar dan bersabda: "Quraisy adalah kabilah yang baru saja meninggalkan masa-masa kejahiliyahan dan "kerusakan agama", maka aku ingin menjinakkan dan mengayomi mereka, tidakkah kalian puas jika orang-orang pulang dengan membawa harta duniawi sementara kalian pulang dengan membawa Rasulullah shallallahu 'alaihi wasallam ke rumah-rumah kalian? Jawab mereka: "Tentu." Kata Nabi: "kalaulah manusia mengarungi sebuah lembah dan anshar mengarungi sebuah lereng gunung, niscaya kukarungi lembah anshar atau lereng Anshar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4334</td></tr><tr><td>Arabic No</td><td>4334</td></tr><tr><td>Reference</td><td>Book 64 Hadith 363</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Пророк ﷺ собрал к себе людей из числа ансаров, да будет доволен ими Аллах, и сказал (им): “Поистине, курайшиты только недавно приняли ислам и претерпели (немало) лишений, а мне хочется помочь им и добиться их расположения, так не согласитесь ли вы на то, чтобы люди вернулись к себе домой с (благами) этого мира, а вы — с Посланником Аллаха?” — и они сказали: “Конечно!” (Тогда Пророк ﷺ) сказал: “Если люди пойдут долиной, а ансары — ущельем, я обязательно пойду долиной (или: ущельем) ансаров!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4334</td></tr><tr><td>Arabic No</td><td>4334</td></tr><tr><td>Reference</td><td>Book 64 Hadith 363</td></tr></tbody></table></div>
 

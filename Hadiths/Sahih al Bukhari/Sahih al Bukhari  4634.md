@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:'Abdullah (bin Mas'ud) said, "None has more sense of ghaira th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] Telah menceritakan kepada kami [Syu'bah] dari ['Amru] dari [Abu Wail] dari ['Abdullah radliallahu 'anhu] dia berkata; "Tidak ada yang lebih pencemburu dari Allah. Karena itulah Dia mengharamkan segala yang keji baik yang nampak maupun yang tidak nampak. Dan tidak ada yang lebih suka dipuji selain Allah karena itulah Dia memuji diri-Nya." lalu aku tanyakan kepadanya; apakah kamu mendengarnya dari Abdullah? Dia menjawab; Ya, secara marfu.' Sedangkan arti WAKIL (Al An'am: 102), adalah penjaga dan yang melindunginya. Sedangkan QUBULAN adalah jama' dari Qabil yang artinya; berbagai macam siksa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4634</td></tr><tr><td>Arabic No</td><td>4634</td></tr><tr><td>Reference</td><td>Book 65 Hadith 156</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин Мас‘уда, да будет доволен им Аллах(, что Посланник Аллаха ﷺ) сказал: «Никому чувство ревности не присуще в такой мере, как Аллаху, и поэтому запретил Он как явные, так и тайные непристойные дела. И нет ничего, что Аллах любил бы больше восхваления, и поэтому Он Сам воздал Себе хвалу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4634</td></tr><tr><td>Arabic No</td><td>4634</td></tr><tr><td>Reference</td><td>Book 65 Hadith 156</td></tr></tbody></table></div>
 

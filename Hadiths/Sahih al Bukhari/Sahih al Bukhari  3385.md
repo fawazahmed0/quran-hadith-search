@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:When the Prophet (ﷺ) fell ill, he said, "Order Abu Bakr to l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [ar-Rabi' bin Yaha Al Bashriy] telah bercerita kepada kami [Za'idah] dari ['Abdul Malik bin "umair] dari [Abu Burdah bin Abi Musa] dari [bapaknya] berkata; "Ketika Nabi shallallahu 'alaihi wasallam menderita sakit, Beliau berkata; "Perintahkanlah Abu Bakr agar memimpin shalat bersama orang-orang". 'Aisyah radliallahu 'anha berkata; ""Abu Bakr adalah termasuk jenis orang yang begini". Maka Beliau perintahkan seperti tadi dan begitu pula 'Aisyah radliallahu 'anha menjawab seperti jawaban sebelumnya. Lalu Beliau kembali bersabda: "Perintahkanlah Abu Bakr, kalian ini seperti istri Yusuf saja (Zulaekha) ". Maka Abu Bakr (pernah) menjadi imam shalat pada masa hidup Rasulullah shallallahu 'alaihi wasallam. Dan [Husain] berkata dari [Za'idah]; "Abu Bakr adalah seorang yang lembut hatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3385</td></tr><tr><td>Arabic No</td><td>3385</td></tr><tr><td>Reference</td><td>Book 60 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Мусы, что его отец сказал: «Заболев, Пророк ﷺ сказал: “Скажите Абу Бакру, чтобы он молился с людьми”. ‘Аиша сказала: “Поистине, Абу Бакр — человек с мягким сердцем”. Пророк ﷺ повторил свои слова, а она сказала то же самое. Тогда он сказал: “Велите Абу Бакру, (чтобы он молился с людьми), поистине, вы (подобны) женщинам (из истории про) Юсуфа!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3385</td></tr><tr><td>Arabic No</td><td>3385</td></tr><tr><td>Reference</td><td>Book 60 Hadith 59</td></tr></tbody></table></div>
 

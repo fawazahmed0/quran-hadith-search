@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I asked the Prophet (ﷺ) about the wall (outside the Ka'ba). "I
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abul Ahwash] telah menceritakan kepada kami [Asy'ats] dari [Al Aswad bin Yazid] dari ['Aisyah] berkata, "Aku bertanya Nabi shallallahu 'alaihi wasallam tentang Hijir Ismail, apakah termasuk baitullah?" Nabi menjawab: "Ya." Aku bertanya, "Mengapa para sahabat tidak memasukkannya dalam baitullah?" Nabi menjawab: "Kaummu dahulu kekurangan dana renovasi." Aku bertanya, "Lantas bagaimana pintunya ditinggikan?" Nabi menjawab: "Kaummu melakukan yang sedemikian untuk memasukkan siapa saja yang dikehendakinya, dan melarang siapa saja yang dikehendaki, kalaulah bukan karena kaummu yang baru saja masuk Islam sehingga aku khawatir hati mereka menolak, niscaya kumasukkan Hijir Ismail dalam Ka'bah, dan kuratakan pintunya dengan tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7243</td></tr><tr><td>Arabic No</td><td>7243</td></tr><tr><td>Reference</td><td>Book 94 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, сказала: «Однажды я спросила Пророка ﷺ: “Является ли стена частью Каабы?” Он сказал: “Да”. Я спросила: “Так почему же они не присоединили её к Каабе?” Он ответил: “Потому что твои соплеменники испытывали недостаток в средствах”. Я спросила: “А почему дверь её поднята (над землёй)?” Он ответил: “Твои соплеменники сделали так, чтобы пускать внутрь, кого пожелают, и не давать (входить в Каабу тому), кому не пожелают. Если бы твои соплеменники не были (столь) близки к джахилиййи и я не опасался бы, что сердцам их не понравится (подобное), я бы присоединил эту стену к Каабе, а дверь опустил до (уровня) земли”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7243</td></tr><tr><td>Arabic No</td><td>7243</td></tr><tr><td>Reference</td><td>Book 94 Hadith 18</td></tr></tbody></table></div>
 

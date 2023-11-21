@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Shaqiq b. Salamah said :I saw ‘ Uthman b. ‘ Affan (perform ablution). He was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Isra'il] dari [Amir bin Syaqiq bin Jamrah] dari [Syaqiq bin Salamah] dia berkata; Saya pernah melihat [Utsman bin Affan] membasuh dua lengannya tiga kali tiga kali dan mengusap kepalanya tiga kali, kemudian dia berkata; "Saya pernah melihat Rasulullah shallallahu 'alaihi wasallam melakukan ini." Abu Dawud berkata; Diriwayatkan oleh [Waqi'] dari [Isra'il] dia berkata; Dia hanya berwudhu tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>110</td></tr><tr><td>Arabic No</td><td>110</td></tr><tr><td>Reference</td><td>Book 1 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Шакъикъ ибн Саляма сказал: «Я видел, как ‘Усман ибн ‘Аффан (да будет доволен им Аллах) помыл свои руки вместе с локтями по три раза каждую и трижды обтёр свою голову. Затем он сказал: “Я видел, как Посланник Аллаха ﷺ сделал так”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>110</td></tr><tr><td>Arabic No</td><td>110</td></tr><tr><td>Reference</td><td>Book 1 Hadith 110</td></tr></tbody></table></div>
 

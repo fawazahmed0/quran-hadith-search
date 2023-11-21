@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), L'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah menceritakan kepadaku [Sa'id bin Musayyab] bahwa [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian melakukan transaksi najasy, dan janganlah seseorang membeli barang yang telah dibeli saudaranya, dan janganlah orang kota bertransaksi dengan orang badui, dan janganlah seseorang meminang wanita yang telah dipinang oleh saudaranya, dan janganlah seorang istri meminta suaminya supaya menceraikan madunya agar semua kebutuhannya dapat terpenuhi." Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Abdul A'la]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdur Razzaq] semuanya dari [Ma'mar] dari [Az Zuhri] dengan isnad seperti ini namun dalam haditsnya Ma'mar (menambahkan); "Dan janganlah seseorang menambah (meninggikan) harga brang yang telah dibeli saudaranya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>1413.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>1413.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 62</td></tr></tbody></table></div>
 

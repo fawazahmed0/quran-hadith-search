@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that he summoned (people) to pray on a cold, windy and rainy 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami ['Ubaidullah] telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar], bahwa ia menyeru shalat pada malam yang sangat dingin dan hujan angin, di akhir seruannya ia berkata; 'Alaaa tushalluu fii rihaalikum, 'Alaa tushalluu fir rihaaal, (Tidak sebaiknyakah kalian di persinggahan kalian, tidak sebaiknyakah kalian shalat di persinggahan kalian?) " Kemudian katanya; "Dahulu Rasulullah shallallahu 'alaihi wasallam juga pernah menyuruh mu'adzinnya jika malam sangat dingin atau terjadi hujan, yaitu ketika safar untuk mengumandangkan 'Alaa tushalluu fii rihaalikum (Tidak sebaiknyakah kalian shalat di persinggahan kalian?)." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa ia menyerukan shalat di Dlajnan. kemudian ia menyebutkan hadits semisalnya, lalu ia menyerukan; 'Alaa tushalluu fii rihaalikum (Tidak sebaiknyakah kalian shalat di persinggahan kalian?)." Namun dia tidak mengulang untuk kedua kalinya, dan kalimat; 'Alaa tushaliii frrihaal adalah ucapan Ibnu Umar sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1601</td></tr><tr><td>Arabic No</td><td>697.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что (однажды) холодной, ветреной и дождливой ночью Ибн ‘Умар призвал людей на молитву. Он завершил свой призыв словами: «Молитесь на своих местах, молитесь на своих местах», а потом сказал: «Находясь в пути холодной или дождливой ночью, Посланник Аллаха ﷺ обычно повелевал муаззину (призвать людей к молитве, а после азана) сказать: “Молитесь на своих местах”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1601</td></tr><tr><td>Arabic No</td><td>697.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 32</td></tr></tbody></table></div>
 

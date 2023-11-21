@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The person who killed Khubaib was Abu Sarua (i.e. 'Uqba bin Al-Ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] dari ['Amru] dia mendengar [Jabir] berkata, "Yang membunuh Khubaib adalah Abu Sirwa'ah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4087</td></tr><tr><td>Arabic No</td><td>4087</td></tr><tr><td>Reference</td><td>Book 64 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир сказал: «Хубайба убил Абу Сируа‘а»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4087</td></tr><tr><td>Arabic No</td><td>4087</td></tr><tr><td>Reference</td><td>Book 64 Hadith 131</td></tr></tbody></table></div>
 

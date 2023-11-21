@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Anas reported that Uthman performed ablution at Maqi'aid and said:Should I n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] sedangkan lafazhnya milik Qutaibah dan Abu Bakar, mereka berkata, telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abu an-Nadlar] dari [Abu Anas] bahwa [Utsman] berwudlu di tempat duduk, lalu dia berkata, 'Mahukah kamu jika aku tunjukkan bagaimana cara Rasulullah shallallahu 'alaihi wasallam mengambil wudlu? ' Beliau kemudian berwudlu tiga kali tiga kali.' Dan [Qutaibah] menambahkan dalam riwayatnya, [Sufyan] berkata, " [Abu an-Nadlar] berkata dari [Abu Anas] dia berkata, "Dan di sisinya ada beberapa orang laki-laki dari kalangan sahabat Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>545</td></tr><tr><td>Arabic No</td><td>230</td></tr><tr><td>Reference</td><td>Book 2 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что (однажды) ‘Усман совершил омовение и сказал: «Не показать ли мне вам, как совершал омовение Посланник Аллаха ﷺ?» Затем он совершил омовение, (омывая части тела) по три раза
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>545</td></tr><tr><td>Arabic No</td><td>230</td></tr><tr><td>Reference</td><td>Book 2 Hadith 12</td></tr></tbody></table></div>
 

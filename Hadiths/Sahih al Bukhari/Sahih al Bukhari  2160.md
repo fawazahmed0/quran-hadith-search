@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "A buyer should not urge a se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makkiy bin Ibrahim] berkata, telah mengabarkan kepada saya [Ibnu Juraij] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] berkata, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah seseorang membeli apa yang sedang dibeli saudaranya dan janganlah kalian melebihkan harga tawaran barang (yang sedang ditawar orang lain) dan janganlah orang kota menjual buat orang desa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2160</td></tr><tr><td>Arabic No</td><td>2160</td></tr><tr><td>Reference</td><td>Book 34 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Пусть человек не перебивает торговлю своему брату (в исламе), и не поднимайте цену на товар, (который вы не хотите покупать), и пусть оседлый житель не продаёт за бедуина»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2160</td></tr><tr><td>Arabic No</td><td>2160</td></tr><tr><td>Reference</td><td>Book 34 Hadith 111</td></tr></tbody></table></div>
 

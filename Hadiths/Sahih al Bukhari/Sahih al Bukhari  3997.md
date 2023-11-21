@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Abu Sa'id bin Malik Al-Khudri returned from a journey and hi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] berkata, telah menceritakan kepadaku [Yahya bin Sa'id] dari [Al Qasim bin Muhammad] dari [Ibnu Khabbab] bahwa [Abu Sa'id bin Malik Al Khudriy] radliallahu 'anhu baru tiba dari perjalanannya lalu keluarganya membawakan daging hewan qurban untuknya. Maka dia berkata; "Aku tidak akan memakannya sebelum aku bertanya (kehalalannya) ". Maka dia berangkat menemui saudara seibunya yang merupakan Ahlu Badar, yang bernama [Qatadah bin an-Nu'man] lalu dia bertanya kepadanya. Saudaranya itu berkata; "Sesungguhnya telah terjadi suatu hal yang membatalkan apa yang dahulunya dilarang, yaitu memakan daging qurban setelah tiga hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3997</td></tr><tr><td>Arabic No</td><td>3997</td></tr><tr><td>Reference</td><td>Book 64 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн Хаббаба, что когда Абу Са’ид ибн Малик Аль-Худри, да будет доволен им Аллах, вернулся из путешествия, члены его семьи поднесли ему мясо из жертвоприношений, принесённых в ‘ид аль-Адха, он сказал: «Я не буду есть это, пока не спрошу (дозволено ли это)». Он пошёл к своему брату по материнской линии, Катаде ибн Ну’ману, который был одним из участников битвы при Бадре, и спросил его об этом. Катада сказал: «После твоего отъезда Пророк ﷺ издал приказ, отменяющий запрет на употребление жертвоприношений через три дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3997</td></tr><tr><td>Arabic No</td><td>3997</td></tr><tr><td>Reference</td><td>Book 64 Hadith 48</td></tr></tbody></table></div>
 

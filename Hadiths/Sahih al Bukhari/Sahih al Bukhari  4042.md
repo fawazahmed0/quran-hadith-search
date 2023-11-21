@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uqba bin Amir:Allah's Messenger (ﷺ) offered the funeral prayers of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim] telah mengabarkan kepada kami [Zakariya bin 'Adi] telah mengabarkan kepada kami [Ibnu Al Mubarrak] dari [Haiwah] dari [Yazid bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] dia berkata, "Rasulullah shallallahu 'alaihi wasallam menshalati para korban Uhud setelah delapan tahun, seolah-olah seperti perpisahan antara orang yang hidup dengan orang yang telah mati. Kemudian beliau naik mimbar seraya bersabda: "Sesungguhnya aku mendahului kalian, dan aku adalah saksi atas kalian. Sungguh, yang dijanjikan bagi kalian adalah telaga, dan aku benar-benar telah melihatnya di tempatku ini. Aku tidak lebih khawatir terhadap syirik yang kalian perbuat, akan tetapi aku sangat khawatir terhadap dunia yang akan kalian perebutkan." 'Uqbah berkata, "Dan itu adalah terakhir kali aku melihat Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4042</td></tr><tr><td>Arabic No</td><td>4042</td></tr><tr><td>Reference</td><td>Book 64 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Укбы бин ‘Амира, да будет доволен им Аллах, что Посланник Аллаха ﷺ совершил заупокойную молитву по павшим при Ухуде, через восемь лет (после их смерти), как бы прощаясь с живыми и мёртвыми, после чего поднялся на минбар и сказал: «Поистине, я опережу вас и буду свидетельствовать о вас, и местом нашей встречи будет водоём /аль-хауд/ и, поистине, сейчас я смотрю на него (водоём) с этого моего места, и, поистине, я не боюсь того, что после моей смерти вы станете многобожниками, но боюсь, что будете вы соперничать друг с другом (из-за мирских благ)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4042</td></tr><tr><td>Arabic No</td><td>4042</td></tr><tr><td>Reference</td><td>Book 64 Hadith 89</td></tr></tbody></table></div>
 

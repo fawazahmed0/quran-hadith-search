@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuQatadah: Kabshah, daughter of Ka'b ibn Malik and wife of Ibn AbuQata
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] dari [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Humaidah binti Ubaid bin Rifa'ah] dari [Kabsyah binti Ka'b bin Malik] dan ketika itu dia dinikahi oleh Ibnu Abi Qatadah, bahwasanya [Abu Qatadah] masuk, lalu dia menuangkan (mempersiapkan) air wudhu baginya, lalu datang seekor kucing dan minum darinya, maka dia memiringkan bejana untuk kucing tersebut hingga ia selesai minum. Kabsyah berkata; Dia melihatku (ketika dia merasa bahwa) aku sedang memperhatikannya, maka dia berkata; "Apakah engkau heran wahai anak saudaraku?" Saya menjawab; "Ya." Dia berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya kucing tidaklah najis, ia di antara binatang jantan dan betina yang selalu mengelilingi kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>75</td></tr><tr><td>Arabic No</td><td>75</td></tr><tr><td>Reference</td><td>Book 1 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Kaбши бинт Ka‘б ибн Малик, которая была женой Ибн Абу Къатады, о том, что Абу Къатада как-то пришел к ней, и она налила ему воду, для омовения. Затем пришла кошка и попила от этой воды, а он наклонил ей посуду, чтобы она (закончила) пить.Кабша сказала: «Увидев, что я наблюдаю за ним, он сказал: “Ты удивлена, о племянница?” Я сказала: “Да”. Он сказал: “Поистине, Посланник Аллаха ﷺ (однажды) сказал: “Они не являются нечистыми и они из тех, кто всегда окружает вас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>75</td></tr><tr><td>Arabic No</td><td>75</td></tr><tr><td>Reference</td><td>Book 1 Hadith 75</td></tr></tbody></table></div>
 

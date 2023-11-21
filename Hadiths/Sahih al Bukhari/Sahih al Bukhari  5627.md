@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) forbade drinking directly from the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Ayyub], [Ikrimah] pernah berkata kepada kami; "Maukah aku beritahukan kepada kalian sesuatu yang singkat yang pernah diceritakan oleh [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam melarang minum langsung dari mulut geribah atau tempat air minum dan hendaklah seseorang melarang tetangganya menyandarkan kayu di rumahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5627</td></tr><tr><td>Arabic No</td><td>5627</td></tr><tr><td>Reference</td><td>Book 74 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запрещал пить из горлышка бурдюка (или: меха) и препятствовать соседу вбивать кол (в стену) его дома»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5627</td></tr><tr><td>Arabic No</td><td>5627</td></tr><tr><td>Reference</td><td>Book 74 Hadith 53</td></tr></tbody></table></div>
 

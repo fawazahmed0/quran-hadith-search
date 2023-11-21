@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abu Humaid as-Sa'idi who said:The Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan ['Amru An Naqid] serta [Ibnu Abi Umar] sedangkan lafadznya dari Abu Bakar, mereka berkata; telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari ['Urwah] dari [Abu Humaid As Sa'idi] dia berkata, "Rasulullah shallallahu 'alaihi wasallam memperkerjakan seorang laki-laki dari suku Al Asad bernama Ibnu Luthbiyah -Amru dan Ibnu Abu 'Umar berkata- untuk mengumpulkan harta sedekat (zakat). Ketika menyetorkan zakat yang dipungutnya, dia berkata, "Zakat ini kuserahkan kepada anda, dan ini pemberian orang kepadaku." Abu Humaid berkata, "Rasulullah shallallahu 'alaihi wasallam lalu berpidato di atas mimbar, setelah beliau memuji dan menyanjung Allah, beliau sampaikan: "Ada seorang petugas yang aku tugaskan memungut zakat, dia berkata, 'Zakat ini yang kuberikan (setorkan) kepada anda, dan ini pemberian orang kepadaku.' Mengapa dia tidak duduk saja di rumah ibu bapaknya menunggu orang mengantarkan hadiah kepadanya? Demi Allah yang jiwa Muhammad berada di tangannya, tidak ada seorangpun di antara kalian yang menggelapkan zakat ketika ia ditugaskan untuk memungutnya, melainkan pada hari kiamat kelak dia akan memikul unta yang digelapkannya itu melenguh-lenguh di lehernya, atau sapi (lembu) yang melenguh, atau kambing yang mengembek-embek." Kemudian beliau mengangkat kedua tangannya sehingga kami melihat putih kedua ketiaknya, kemudian beliau bersabda: 'Ya Allah, telah aku sampaikan.' Beliau mengatakannya dua kali." Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abd bin Humaid] keduanya berkata; telah mengabarkan kepada kami [Abdurrazaq] telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari [Abu Humaid As Sa'idi] dia berkata, "Nabi shallallahu 'alaihi wasallam pernah mengangkat Ibnu Lutbiyah, yaitu seorang laki-laki dari Asd (menjadi seorang pegawai), untuk memungut zakat, kemudian dia datang kepada Nabi shallallahu 'alaihi wasallam dan menyerahkan zakat yang di pungutnya, lalu dia berkata, "Ini adalah zakat yang aku setorkan kepada anda, dan ini adalah pemberian orang kepadaku." Kemudian beliau bersabda: "Mengapa dia tidak duduk saja di rumah ibu bapaknya sambil menunggu apakah ada orang yang hendak mengantarkan hadiah kepadanya ataukah tidak." Setelah itu Nabi shallallahu 'alaihi wasallam berdiri berkhutbah." Kemudian dia menyebutkan hadits seperti Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4738</td></tr><tr><td>Arabic No</td><td>1832.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4738</td></tr><tr><td>Arabic No</td><td>1832.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 37</td></tr></tbody></table></div>
 

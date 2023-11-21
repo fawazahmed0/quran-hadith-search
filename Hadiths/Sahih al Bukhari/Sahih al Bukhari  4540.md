@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the Verses of Surat-al-Baqara regarding usury (i.e. Riba) w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh bin Giyats] Telah menceritakan kepada kami [Bapakku] Telah menceritakan kepada kami [Al A'masy] Telah menceritakan kepada kami [Muslim] dari [Masruq] dari [Aisyah radliallahu 'anha] dia berkata; 'Beberapa ayat terakhir dari surat al Baqarah turun mengenai riba. Rasulullah shallallahu 'alaihi wasallam membacakannya kepada orang-orang, kemudian beliau mengharamkan jual beli khamr (minuman keras)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4540</td></tr><tr><td>Arabic No</td><td>4540</td></tr><tr><td>Reference</td><td>Book 65 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «После того как были ниспосланы аяты о ростовщичестве из суры “аль-Бакара”, Посланник Аллаха ﷺ прочёл их людям, после чего запретил торговать вином»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4540</td></tr><tr><td>Arabic No</td><td>4540</td></tr><tr><td>Reference</td><td>Book 65 Hadith 63</td></tr></tbody></table></div>
 

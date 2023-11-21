@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Apostle of Allaah(ﷺ) as saying “ I am commanded to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih], dari [Abu Hurairah], ia berkata; Rasulullah shallallahu wa'alaihi wa sallam bersabda: "Aku diperintahkan untuk memerangi manusia hingga mereka mengucapkan LAA ILAAHA ILLALLAAH (tiada tuhan yang haq disembah selian Allah), apabila telah mengucapkannya maka mereka telah melindungi darah dan harta mereka dariku kecuali dengan haknya dan perhitungan mereka kepada Allah ta'ala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Mutawatir</td><td>Al-Albani</td></tr><tr><td>Sahih Mutawatir</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (21)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2640</td></tr><tr><td>Arabic No</td><td>2640</td></tr><tr><td>Reference</td><td>Book 15 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «Мне было велено сражаться с людьми до тех пор, пока они не засвидетельствуют, что нет бога, достойного поклонения, кроме Аллаха. И если они сделают это, то защитят от меня свою кровь и своё имущество, если только (не совершат ничего такого, за что можно будет лишить их имущества или жизни) по праву, и тогда (лишь) Аллах (сможет потребовать) от них отчёта»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Mutawatir</td><td>Al-Albani</td></tr><tr><td>Sahih Mutawatir</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (21)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2640</td></tr><tr><td>Arabic No</td><td>2640</td></tr><tr><td>Reference</td><td>Book 15 Hadith 164</td></tr></tbody></table></div>
 

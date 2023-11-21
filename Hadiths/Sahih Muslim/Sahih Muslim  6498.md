@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:We were sitting in the company of Allah's Apostle (ﷺ) tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Muhammad dari [Tsaur] dari [Abu Al Ghaits] dari [Abu Hurairah] dia berkata; "Ketika kami sedang duduk di sisi Rasulullah shallallahu 'alaihi wasallam, tiba-tiba surat Al Jumu'ah diturunkan kepada beliau. Pada saat Rasulullah shallallahu 'alaihi wasallam membacakan ayat yang berbunyi: '…dan orang-orang lain dari mereka yang beIum berhubungan dengan mereka' tiba-tiba ada seseorang yang bertanya; 'Ya Rasulullah, siapakah mereka itu? ' Rasulullah shallallahu 'alaihi wasallam tidak menjawab hingga orang tersebut menanyakannya sebanyak tiga kali. Kebetulan pada saat itu di tengah kami ada Salman Al Farisi. Kemudian Rasulullah meletakkan tangannya pada Salman seraya bersabda: 'Seandainya iman itu berada di tempat bintang-bintang di langit, tentu orang-orang Persia pasti akan mencapainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6498</td></tr><tr><td>Arabic No</td><td>2546.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 327</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6498</td></tr><tr><td>Arabic No</td><td>2546.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 327</td></tr></tbody></table></div>
 

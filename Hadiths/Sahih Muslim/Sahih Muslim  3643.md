@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Amr reported Allah's Messenger (ﷺ) as saying:The whole world is a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] dan [Ibnu Abu Umar] sedangkan lafazhnya dari Ibnu Abu Umar, keduanya berkata; Telah menceritakan kepada kami [Sufyan] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya seorang wanita di ciptakan dari tulang rusuk, dan tidak dapat kamu luruskan dengan cara bagaimanapun, jika kamu hendak bersenang-senang dengannya, kamu dapat bersenang-senang dengannya dan dia tetap saja bengkok, namun jika kamu berusaha meluruskannya, niscaya dia akan patah, dan mematahkannya adalah menceraikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3643</td></tr><tr><td>Arabic No</td><td>715.11</td></tr><tr><td>Reference</td><td>Book 17 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3643</td></tr><tr><td>Arabic No</td><td>715.11</td></tr><tr><td>Reference</td><td>Book 17 Hadith 76</td></tr></tbody></table></div>
 

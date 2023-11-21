@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muhammad bin Sirin:Abu Huraira said, "Allah's Messenger (ﷺ) put me in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Ma'mar] telah bercerita kepada kami ['Abdul Warits] telah bercerita kepada kami [Yunus] dari [Humaid bin Hilal] dari [Abu Shalih] dari [Abu Sa'id] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika ada seseorang lewat di hadapan salah seorang dari kalian yang sedang shalat, hendaklah dicegahnya. Jika tidak mau dicegahnya lagi dan jika tetap tidak mau, maka perangilah karena dia adalah syetan". Dan 'Utsman bin Al Haitsam berkata telah bercerita kepada kami 'Auf dari Muhammad bin Sirin dari Abu Hurairah radliallahu 'anhu berkata; Rasulullah shallallahu 'alaihi wasallam menugaskan aku menjaga harta zakat Ramadlan kemudian ada orang yang datang mencuri makanan namun aku merebutnya kembali, lalu aku katakan; "Aku pasti akan mengadukan kamu kepada Rasulullah shallallahu 'alaihi wasallam". Lalu Abu Hurairah radliallahu 'anhu menceritakan suatu hadits berkenaan masalah ini. Selanjutnya orang yang datang kepadanya tadi berkata; "Jika kamu hendak berbaring di atas tempat tidurmu, bacalah ayat Al Kursiy karena dengannya kamu selalu dijaga oleh Allah Ta'ala dan syetan tidak akan dapat mendekatimu sampai pagi". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Benar apa yang dikatakannya padahal dia itu pendusta. Dia itu syetan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3275</td></tr><tr><td>Arabic No</td><td>3275</td></tr><tr><td>Reference</td><td>Book 59 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ поручил мне хранить собранный в рамадане закят, а (через некоторое время) ко мне пришёл (какой-то человек), который принялся пригоршнями набирать себе еду. Я схватил его и сказал: «Клянусь Аллахом, я непременно отведу тебя к Посланнику Аллаха ﷺ!» Затем Абу Хурайра рассказал хадис полностью, в конце которого было следующее: «Он сказал: “Когда будешь ложиться спать, читай аят трона (Аятуль-Курси), (и, если ты станешь делать это,) с тобой всегда будет находиться хранитель от Аллаха, а шайтан не (сможет) приблизиться к тебе, пока ты не проснёшься утром!” Пророк ﷺ сказал: “Он действительно сказал тебе правду (, несмотря) на то, что он — отъявленный лжец! Это был шайтан”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3275</td></tr><tr><td>Arabic No</td><td>3275</td></tr><tr><td>Reference</td><td>Book 59 Hadith 84</td></tr></tbody></table></div>
 

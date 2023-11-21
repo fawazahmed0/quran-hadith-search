@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) took an oath that he would absta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abu Uwais] dari [saudaranya] dari [Sulaiman] dari [Humaid Ath Thawil] bahwa ia mendengar [Anas bin Malik] berkata; Rasulullah shallallahu 'alaihi wasallam pernah bersumpah untuk tidak menemui para isterinya (selama satu bulan). Kemudian kaki beliau berjalan dan berdiri di tempat minum milik beliau tepat pada tanggal dua puluh sembilan, kemudian beliau singgah (di rumah isterinya). Maka para sahabat pun berkata, "Wahai Rasulullah, sesungguhnya Anda bersumpah untuk satu bulan." Maka beliau bersabda: "Jumlah bulan itu adalah dua puluh Sembilan hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5289</td></tr><tr><td>Arabic No</td><td>5289</td></tr><tr><td>Reference</td><td>Book 68 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «Когда Посланник Аллаха ﷺ поклялся, что в течение месяца не станет приближаться к своим жёнам, и у него был вывих ноги, он пробыл в своей приподнятой (от земли) комнате /машруба/ двадцать девять дней, затем он спустился, и ему сказали: «О Посланник Аллаха, ты ведь поклялся (что не будешь приближаться к своим жёнам в течение) месяца!» Тогда он сказал: «Поистине, месяц (может) состоять и из двадцати девяти дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5289</td></tr><tr><td>Arabic No</td><td>5289</td></tr><tr><td>Reference</td><td>Book 68 Hadith 38</td></tr></tbody></table></div>
 

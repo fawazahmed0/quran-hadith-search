@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Zaid:The Prophet (ﷺ) turned his cloak inside out on Ist
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] berkata, telah menceritakan kepada kami [Wahb bin Jarir] berkata, telah mengabarkan kepada kami [Syu'bah] dari [Muhammad bin Abu Bakar] dari ['Abbad bin Tamim] dari ['Abdullah bin Zaid], bahwa Nabi shallallahu 'alaihi wasallam pernah berdoa meminta hujan dengan membalik selendangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1011</td></tr><tr><td>Arabic No</td><td>1011</td></tr><tr><td>Reference</td><td>Book 15 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Абдуллаха ибн Зейда, что однажды Пророк ﷺ обратился к Аллаху с мольбой о ниспослании дождя и надел свою накидку, вывернув наизнанку
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1011</td></tr><tr><td>Arabic No</td><td>1011</td></tr><tr><td>Reference</td><td>Book 15 Hadith 6</td></tr></tbody></table></div>
 

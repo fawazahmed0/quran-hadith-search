@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whomever takes an oath in wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah mengabarkan kepada kami [Hisyam bin Yusuf] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Humaid bin Abdurrahman] dari [Abu Hurairah radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang bersumpah dan berkata; "Demi Laata dan Uzza maka hendaknya ia mengatakan; Laa Ilaaha Illallaah. Dan barang siapa yang berkata kepada sahabatnya kemarilah saya berjudi denganmu, maka hendaknya ia bersedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4860</td></tr><tr><td>Arabic No</td><td>4860</td></tr><tr><td>Reference</td><td>Book 65 Hadith 381</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто поклялся, сказав в своей клятве: “Клянусь (идолом) аль-Лят и аль-‘Уззой”, пусть скажет: “Нет бога, достойного поклонения, кроме Аллаха”, а кто сказал своему товарищу: “Давай сыграем в азартную игру”, пусть подаст милостыню»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4860</td></tr><tr><td>Arabic No</td><td>4860</td></tr><tr><td>Reference</td><td>Book 65 Hadith 381</td></tr></tbody></table></div>
 

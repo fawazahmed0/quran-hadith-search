@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, "Anybody who spends
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 62 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «Расходовавшего (по) две вещи на пути Аллаха призовут из врат Рая: “О раб Аллаха! Это — благо!” Совершавших молитвы призовут из врат молитвы, принимавших участие в джихаде призовут из врат джихада, раздававших милостыню призовут из врат милостыни, постившихся призовут из врат поста “ар-Раййан”». (Услышав это,) Абу Бакр сказал: «Ни в чём не будут нуждаться те, кого призовут из этих врат, но найдутся ли такие, кого станут призывать изо всех этих врат, о Посланник Аллаха!?» (Пророк ﷺ) сказал: «Да, и я надеюсь, что ты будешь одним из них, о Абу Бакр»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 62 Hadith 18</td></tr></tbody></table></div>
 

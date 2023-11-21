@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku ['Amru] dari ['Ubaidullah bin Abu Ja'far] bahwa [Muhammad bin Ja'far] telah menceritakan kepadanya dari ['Urwah bin Az Zubair] dari [Aisyah istri Rasulullah shallallahu 'alaihi wasallam] bahwa dia berkata; "Orang-orang berbondong-bondong untuk melaksanakan shalat jum'at dari rumah-rumah mereka dan dari 'Awali (dataran tinggi yang jaraknya sekitar empat mil dari Madinah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (902) Sahih Muslim (847)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1055</td></tr><tr><td>Arabic No</td><td>1055</td></tr><tr><td>Reference</td><td>Book 2 Hadith 666</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, жена Пророка ﷺ передаёт, что люди приходили на пятничную молитву из своих домов (близ Медины), и из аль-‘Авали по очереди
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (902) Sahih Muslim (847)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1055</td></tr><tr><td>Arabic No</td><td>1055</td></tr><tr><td>Reference</td><td>Book 2 Hadith 666</td></tr></tbody></table></div>
 

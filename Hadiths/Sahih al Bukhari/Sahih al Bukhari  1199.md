@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Ibn
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1199.2</td></tr><tr><td>Arabic No</td><td>1199.2</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд, да будет доволен им Аллах, сказал: «(Сначала,) когда мы приветствовали Пророка ﷺ занятого намазом, он всегда отвечал нам, но после того, как мы вернулись от негуса и обратились к нему с приветствием (в подобных обстоятельствах), он не ответил нам, (а после завершения намаза) сказал: “Поистине, во время намаза (человек занят более важным) делом”»
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1199</td></tr><tr><td>Arabic No</td><td>1199</td></tr><tr><td>Reference</td><td>Book 21 Hadith 2</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1199.2</td></tr><tr><td>Arabic No</td><td>1199.2</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>

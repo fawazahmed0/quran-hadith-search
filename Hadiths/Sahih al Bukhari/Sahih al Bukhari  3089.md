@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Muharib bin Dithar:Jabir bin 'Abdullah said, "When Allah's Messenger (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad] telah mengabarkan kepada kami [Waki'] dari [Syu'bah] dari [Muharib bin Ditsar] dari [Jabir bin 'Abdullah radliallahu 'anhuma] bahwa Rasulullah Shallallahu'alaiwasallam ketika tiba di Madinah, Beliau menyembelih seekor hewan sembelihan atau seekor sapi. [Mu'adz] menambahkan dari [Syu'bah] dari [Muharib] bahwa dia mendengar [Jabir bin 'Abdullah] berkata; "Nabi Shallallahu'alaihiwasallam membeli seeekor unta dariku seharga dua waq dan satu dirham atau seharga dua dirham. Ketika diba di Shiror (nama sebuah lokasi, tiga km arah Timur Madinah) Beliau memerintahkan agar sapi disembelih, lalu mereka pun menikmatinya. Ketika sudah tiba di Madinah, Beliau memerintahkanku agar masuk ke dalam masjid, maka aku shalat dua Raka'at lalu Beliau mengembalikan uang penjualan unta kepadaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3089</td></tr><tr><td>Arabic No</td><td>3089</td></tr><tr><td>Reference</td><td>Book 56 Hadith 293</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом: «Когда Посланник Аллаха ﷺ прибыл в Медину, он зарезал верблюдицу или корову».Так же Джабир ибн ‘Абдуллах сказал: «Пророк ﷺ купил у меня верблюда за два окия (золота) и один или два дирхама. Добравшись до Сырара, он приказал зарезать корову, после чего они поели её мясо. Когда он прибыл в Медину, он приказал мне пойти в мечеть и совершить молитву в два рак‘ата, а затем отмерил мне и (и заплатил) стоимость верблюда».* Сырар это место недалеко от Медины
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3089</td></tr><tr><td>Arabic No</td><td>3089</td></tr><tr><td>Reference</td><td>Book 56 Hadith 293</td></tr></tbody></table></div>
 

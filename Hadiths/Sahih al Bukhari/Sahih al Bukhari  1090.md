@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:"When the prayers were first enjoined they were of two rak'at ea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] berkata, telah menceritakan kepada kami [Sufyan] dari [Az Zuhriy] dari ['Urwah] dari ['Aisyah radliallahu 'anha] berkata: "Awal mula diwajibkannya shalat sebanyak dua raka'at. Kemudian ketentuan ini ditetapkan untuk shalat safar (dalam bepergian) dan disempurnakan bagi shalat di tempat tinggal (mukim) ". Berkata, Az Zuhriy: "Aku bertanya kepada 'Urwah: "Mengapa 'Aisyah radliallahu 'anha menyempurnakan?" 'Urwah menjawab: "Dia mengikuti seperti yang dilakukan 'Utsman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1090</td></tr><tr><td>Arabic No</td><td>1090</td></tr><tr><td>Reference</td><td>Book 18 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Вначале было предписано совершать молитву из двух рак‘атов; впоследствии же молитва, совершаемая в пути, была оставлена неизменной, а молитва, совершаемая на постоянном месте жительства, была увеличена». Аз-Зухри сказал: «Я спросил ‘Урву: “Почему ‘Аиша молиться полными молитвами (в путешествии)?” Он ответил: “Она истолковала, подобно ‘Усману”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1090</td></tr><tr><td>Arabic No</td><td>1090</td></tr><tr><td>Reference</td><td>Book 18 Hadith 11</td></tr></tbody></table></div>
 

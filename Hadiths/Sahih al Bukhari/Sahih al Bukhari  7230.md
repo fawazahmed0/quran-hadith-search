@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:We were in the company of Allah's Messenger (ﷺ) a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Umar] telah menceritakan kepada kami [Yazid] dari [Habib] dari ['Atho'] dari [Jabir bin Abdullah] mengatakan; 'kami bersama Rasulullah Shallallahu'alaihiwasallam, kemudian kami mengucapkan niat talbiyah untuk haji, ketika kami tiba di Mekkah tanggal empat Dzul hijjah, Nabi shallallahu 'alaihi wasallam memerintahkan kami untuk melakukan thawaf di baitullah dan (sa'i) di Shafa dan Marwa, dan agar kami menjadikannya sebagai Umrah, maka kami bertahallul kecuali bagi mereka yang terlanjur membawa korban.' Kata Jabir; 'dan tidak ada seorangpun dari kami yang membawa binatang korban selain Nabi shallallahu 'alaihi wasallam dan Tolhah. Datanglah Ali dari Yaman sambil membawa binatang korban, kemudian ia berucap; 'Saya mengucapkan niat sebagaimana Rasulullah Shallallahu'alaihiwasallam berniat.' Para sahabat berujar; 'Kami akan berangkat ke Mina, sedang kemaluan salah seorang diantara kami meneteskan air mani.' Maka Rasulullah Shallallahu'alaihiwasallam bersabda; "kalaulah aku bisa mengulang kembali apa yang telah lewat, niscaya aku tidak menyembelih korban, kalaulah aku tidak membawa binatang korban niscaya aku akan bertahallul." Kata Jabir; kemudian Suraqah menemui beliau yang saat itu sedang melempar jumrah 'aqabah, ia berujar; "Wahai Rasulullah, apakah umrah seperti ini khusus bagi kami?" Nabi menjawab: "TIDAK, bahkan untuk selamanya." Kata Jabir; 'dan Aisyah bersama Beliau tiba di Makkah dalam keadaan haidh, maka Nabi memerintahkannya untuk melakukan seluruh manasik kecuali ia tidak boleh thawaf dan tidak shalat hingga suci. Tatkala mereka telah singgah di Bathha', Aisyah berkata; "Wahai Rasulullah, apakah kalian bertolak untuk haji dan 'umrah sedang aku hanya untuk haji?" Jabir melanjutkan; kemudian Rasulullah memerintahkan Abdurrahman bin Abu Bakar as Siddiq untuk bertolak bersamanya ke Tan'im, dan Aisyah berumrah di bulan Dzulhijjah, masih dalam hari-hari haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7230</td></tr><tr><td>Arabic No</td><td>7230</td></tr><tr><td>Reference</td><td>Book 94 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен им Аллах, передаёт: «Однажды находясь вместе с Посланником Аллаха ﷺ мы объявили о намерении совершить хадж и прибыли в Мекку по прошествии четырёх (ночей) с начала месяца зуль-хиджжа. Затем Пророк ﷺ повелел нам совершить обход вокруг Каабы и пробег между холмами Сафа и Марва. И мы сделали это умрой и вышли из состояния ихрама, кроме тех, кто пригнал жертвенный скот».\n(Джабир) сказал: «Причём ни у кого из нас не было жертвенных животных, кроме Пророка ﷺ и Тальхи. ‘Али прибыл из Йемена, и с ним был жертвенный скот. Он сказал: “Я объявил о таком же намерении, что и Посланник Аллаха ﷺ”. Затем сподвижники сказали: “Неужели мы отправимся в Мину, тогда как с полового органа каждого из нас капает (семя)?”. Посланник Аллаха ﷺ сказал: “Поистине, если бы я знал заранее то, что я узнал потом, я не стал бы гнать с собой жертвенный скот, и если бы со мной не было жертвенного скота, я бы вышел из состояния ихрама”».\nДжабир сказал: «Сурака встретил Пророка ﷺ у большого столба (джамрат аль-акаба), когда он бросал камешки и сказал: “О Посланник Аллаха! Это касается только нас?” (Пророк ﷺ) сказал: “Нет, это навсегда”».\nДжабир сказал: «‘Аиша приехала в Мекку вместе с Пророком ﷺ как раз в то время, когда у неё была менструация, и Пророк ﷺ повелел ей исполнить все обряды паломничества, кроме обхода вокруг Каабы и совершения молитвы до тех пор, пока не очиститься (от менструации). И когда они остановились в Батхе, ‘Аиша, да будет доволен ею Аллах, сказала: “О, Посланник Аллаха! Вы уезжаете, совершив и хадж, и умру, а я уеду совершив только хадж?”»\nДжабир сказал: «Тогда он ﷺ велел ‘Абдуррахману ибн Абу Бакру ас-Сыддику отвезти ‘Аишу в Тан‘им. И она совершила умру после хаджа в месяце зуль-хиджжа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7230</td></tr><tr><td>Arabic No</td><td>7230</td></tr><tr><td>Reference</td><td>Book 94 Hadith 5</td></tr></tbody></table></div>
 

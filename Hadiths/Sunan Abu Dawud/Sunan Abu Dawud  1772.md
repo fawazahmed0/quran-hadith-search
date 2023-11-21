@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ubayd ibn Jurayj said to Abdullah ibn Umar:AbuAbdurRahman, I saw you doing thing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi] dari [Malik] dari [Sa'id bin Abu Sa'id Al Maqburi] dari ['Ubaid bin Juraij] bahwa ia berkata kepada [Abdullah bin Umar]; wahai Abu Abdurrahman, aku melihat engkau melakukan empat perkara yang tidak aku lihat seorang pun dari para sahabatmu melakukannya. Ia berkata; apakah itu wahai Ibnu Juraij? Ia berkata; aku melihatmu tidak menyentuh rukun kecuali dua rukun yamani, aku melihat engkau memakai sandal sibti (yang tidak berbulu), dan aku melihat engkau mencelup dengan shufrah (minyak yang terbuat dari campuran kunyit dan yang lainnya), dan aku melihat engkau apabila berada di Mekkah orang-orang bertalbiyah apabila melihat hilal sementara engkau tidak bertalbiyah hingga pada Hari Tarwiyah (yaitu tanggal delapan Dzul Hijjah). Kemudian Abdullah bin Umar berkata; adapun rukun, maka sesungguhnya aku tidak melihat Rasulullah shallAllahu wa'alaihi wa sallam menyentuh kecuali dua rukun Yamani, adapun sandal sibti (sandal dari yaman), maka sesungguhnya aku melihat Rasulullah shallAllahu wa'alaihi wa sallam memakai sandal yang tidak berambut, dan berwudhu dengan memakai sandal tersebut maka aku ingin memakainya, adapun shufrah, sesungguhnya aku telah melihat Rasulullah shallAllahu wa'alaihi wa sallam mencelup rambut dengan shufrah, maka aku ingin mencelup dengannya, adapun talbiyah, sesungguhnya aku tidak melihat Rasulullah shallAllahu wa'alaihi wa sallam bertalbiyah hingga kendaraan beliau berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (166) Sahih Muslim (1187)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1772</td></tr><tr><td>Arabic No</td><td>1772</td></tr><tr><td>Reference</td><td>Book 11 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Убайда ибн Джурайджа, что однажды он сказал ‘Абдуллаху ибн ‘Умару: «О Абу ‘Абдуррахман, я видел, что ты делаешь четыре вещи, которых не делает никто из твоих товарищей». ‘Абдуллах спросил: «Какие же, о Ибн Джурайдж?» ‘Убайд сказал: «Я видел, что ты касаешься только двух йеменских углов Каабы, и я видел, что ты носишь сандалии из дублёной кожи, и я видел, что ты используешь жёлтую краску. И я видел, что, когда ты был в Мекке, люди вошли в состояние ихрама, увидев молодой месяц, ты же вошёл в состояние ихрама только в восьмой день зуль-хиджжа». ‘Абдуллах ибн ‘Умар сказал: «Что касается углов Каабы, то я не видел, чтобы Посланник Аллаха ﷺ касался каких-либо из них, кроме йеменских. Что касается сандалий из дублёной кожи, то, поистине, я видел, что Посланник Аллаха ﷺ, носил только такие сандалии, на которых после дубления кожи не оставалось волос животного, и совершал в них омовение, и поэтому я тоже люблю носить такие сандалии. Что касается краски жёлтого цвета, то, поистине, я видел, что ею пользуется Посланник Аллаха ﷺ и поэтому я тоже люблю пользоваться ею. Что же до ихрама, то, поистине, я не слышал, чтобы Посланник Аллаха ﷺ начинал произносить тальбию прежде, чем его верблюдица трогалась с места»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (166) Sahih Muslim (1187)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1772</td></tr><tr><td>Arabic No</td><td>1772</td></tr><tr><td>Reference</td><td>Book 11 Hadith 52</td></tr></tbody></table></div>
 

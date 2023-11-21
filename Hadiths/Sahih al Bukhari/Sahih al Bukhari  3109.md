@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:When the cup of Allah's Messenger (ﷺ) got broken, he f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdan] dari [Abu Hamzah] dari ['Ashim] dari [Ibnu Sirin] dari [Anas bin Malik radliallahu 'anhu] berkata; "Gelas milik Nabi Shallallahu'alaihiwasallam pecah lalu Beliau mengumpulkan dan mengikatnya dengan Rantai terbuat dari perak". 'Ashim berkata; "Aku melihat gelas tersebut lalu kupergunakan untuk minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3109</td></tr><tr><td>Arabic No</td><td>3109</td></tr><tr><td>Reference</td><td>Book 57 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что, когда чаша Пророка ﷺ разбилась, он скрепил её в том месте, где была трещина, с помощью серебряной цепочки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3109</td></tr><tr><td>Arabic No</td><td>3109</td></tr><tr><td>Reference</td><td>Book 57 Hadith 18</td></tr></tbody></table></div>
 

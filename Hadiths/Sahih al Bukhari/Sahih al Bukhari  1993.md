@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Two fasts and two kinds of sale are forbidden: fasting on t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] dari [Ibnu Juraij] berkata, telah mengabarkan kepada saya ['Amru bin Dinar] dari ['Atho' bin Mina] berkata; Aku mendengar dia menceritakan dari [Abu Hurairah radliallahu 'anhu] yang berkata: "Telah dilarang berpuasa dan berjual beli pada hari Raya 'Iedul Fithri dan 'Iedul 'Adha, dan juga dilarang jual beli tanpa mengetahui barang yang dijual dan juga jual beli tanpa memeriksa barang yang dijual
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1993</td></tr><tr><td>Arabic No</td><td>1993</td></tr><tr><td>Reference</td><td>Book 30 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Два поста и два вида торговых сделок являются запрещёнными: пост в день ‘Ид аль-Фитр и ‘Ид аль-Адха, и сделки, совершаемые путём ощупывания, и сделки, совершаемые путём бросания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1993</td></tr><tr><td>Arabic No</td><td>1993</td></tr><tr><td>Reference</td><td>Book 30 Hadith 99</td></tr></tbody></table></div>
 

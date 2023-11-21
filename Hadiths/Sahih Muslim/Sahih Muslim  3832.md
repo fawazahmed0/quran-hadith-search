@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Apostle (ﷺ) as saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Amru bin Jabalah bin Abi Rawwad] telah menceritakan kepada kami [Abu 'Amir yaitu Al 'Aqadi] telah menceritakan kepada kami [Qurrah] dari [Muhammad] dari [Abu Hurairah] dari Nabi Shallallu 'alaihi wa sallam beliau bersabda: "Barangsiapa yang membeli kambing dengan puting susu diikat, maka ia berhak memilih dalam jangka waktu tiga hari, jika ia berkenan mengembalikannya maka ia boleh mengembalikannya dengan menyertakan satu sha' dari makanan bukan gandum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3832</td></tr><tr><td>Arabic No</td><td>1524.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3832</td></tr><tr><td>Arabic No</td><td>1524.03</td></tr><tr><td>Reference</td><td>Book 21 Hadith 32</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Sirin reported:One who was blameless (as a narrator) narrated to me for twen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ali bin Hujr As Sa'di] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Ayyub] dari [Ibnu Sirin] dia berkata; Saya tinggal selama dua puluh tahun, dan telah menceritakan kepadaku seseorang yang tidak saya tuduh (berdusts) bahwa Ibnu Umar pernah menceraikan istrinya yang sedang haidl dengan talak tiga, maka dia diperintahkan untuk rujuk, saya tidak menuduh mereka (berdusta) namun saya juga tidak mengetahui sendiri peristiwa tersebut. Hingga saya bertemu dengan [Abu Ghullab Yunus bin Jubair Al Bahili] dia adalah orang yang tsabat (dalam hadits), lalu dia menceritakan kepadaku bahwa dia pernah bertanya kepada Ibnu Umar, lantas [Ibnu Umar] bercerita bahwa dia pernah menceraikan istrinya yang sedang haidl, kemudian dia diperintahkan untuk merujuknya. Yunus berkata; Saya bertanya; Apakah talak itu diperhitungkan atasnya? Dia (Ibnu Umar) menjawab; Apakah talak itu tidak berlaku meski dia tidak bisa rujuk dan melakukan tindakan bodoh? (pertanyan pengingkaran yang maksudnya adalah: Tentu talak itu diperhitungkan). Dan telah menceritakan kepada kami [Abu Rabi'] dan [Qutaibah] keduanya berkata; Telah menceritakan kepada kami [Hammad] dari [Ayyub] dengan isnad seperti ini, namun dia menyebutkan; Lantas Umar menanyakan kepada Nabi shallallahu 'alaihi wasallam, lalu beliau memerintahkan Ibnu Umar (untuk merujuk istrinya). Dan telah menceritakan hadits ini kepada kami [Abdul Warits bin Abdush Shamad] telah menceritakan kepadaku [ayahku] dari [kakekku] dari [Ayyub] dengan isnad ini, dia menyebutkan dalam hadits ini; "Lantas Umar menanyakannya kepada Nabi shallallahu 'alaihi wasallam mengenai hal itu, kemudian beliau memerintahkan Ibnu Umar untuk rujuk sampai dia mentalaknya dalam keadaan suci tanpa di setubuhi terlebih dahulu." Dan beliau bersabda: "Hendaknya dia menceraikan di awal iddahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3661</td></tr><tr><td>Arabic No</td><td>1471.10</td></tr><tr><td>Reference</td><td>Book 18 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3661</td></tr><tr><td>Arabic No</td><td>1471.10</td></tr><tr><td>Reference</td><td>Book 18 Hadith 10</td></tr></tbody></table></div>
 

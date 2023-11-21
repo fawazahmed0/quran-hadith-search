@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abu Mulaika:The Prophet (ﷺ) was given a gift of a few s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdul Wahhab] telah mengabarkan kepada kami [Ibnu 'Ulayyah] telah mengabarkan kepada kami [Ayyub] dari [Abdullah bin Abu Mulaikah] bahwa Nabi shallallahu 'alaihi wasallam pernah diberi hadiah beberapa potong baju yang terbuat dari sutera dan berkancing emas lalu beliau membagi-bagikannya kepada para shahabat dan menyisakan satu potong untuk Makhramah. Ketika Makhramah datang beliau bersabda: "Aku telah menyimpannya untukmu." Lalu Ayyub memperagakan bagaimana beliau memberikan kain tersebut kepada Makhramah, sedangkan dalam perangainya tersebut ada suatu (pelajaran)." Hadits ini juga di riwayatkan [Hammad bin Zaid] dari [Ayyub]. Dan [Hatim bin Wardan] berkata; telah menceritakan kepada kami [Ayyub] dari [Ibnu Abu Mulaikah] dari [Miswar] bahwa Nabi shallallahu 'alaihi wasallam pernah di beri aqbiyah (sejenis mantel)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6132</td></tr><tr><td>Arabic No</td><td>6132</td></tr><tr><td>Reference</td><td>Book 78 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Аби Муляйка сказал: «(Однажды) Пророку ﷺ подарили несколько шёлковых плащей с золотыми пуговицами. И он раздал их некоторым сподвижникам, а один отложил для Махрамы. Позже, когда Махрама пришёл к нему, Пророк ﷺ сказал: “Я отложил это для тебя!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6132</td></tr><tr><td>Arabic No</td><td>6132</td></tr><tr><td>Reference</td><td>Book 78 Hadith 159</td></tr></tbody></table></div>
 

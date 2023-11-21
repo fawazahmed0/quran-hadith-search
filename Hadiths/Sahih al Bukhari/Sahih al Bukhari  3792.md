@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Usaid bin Hudair:A man from the Ansar said, "O Allah's Messenger (ﷺ)!
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] berkata, aku mendengar [Qatadah] dari [Anas bin Malik] dari [Usaid bin Hudlair radliallahu 'anhum]; ada seseorang dari kalangan Anshar yang berkata; "Wahai Rasulullah, tidakkah sepatutnya baginda mempekerjakanku sebagaimana baginda telah mempekerjakan si fulan?". Beliau menjawab: "Sepeninggalku nanti, akan kalian jumpai sikap-sikap utsrah (individualis, egoism, orang yang mementingkan dirinya sendiri). Maka itu bersabarlah kalian hingga kalian berjumpa denganku di telaga al-Haudl (di surga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3792</td></tr><tr><td>Arabic No</td><td>3792</td></tr><tr><td>Reference</td><td>Book 63 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Усайда ибн Худайра, да будет доволен ими Аллах, что один из ансаров сказал: «О Посланник Аллаха, не назначишь ли ты меня как назначил такого-то?» На что он сказал: «После меня вы повстречаете корысть (предпочтение будет отдаваться другим над ними в мирских вещах), терпите же, пока не встретитесь со мной у водоёма»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3792</td></tr><tr><td>Arabic No</td><td>3792</td></tr><tr><td>Reference</td><td>Book 63 Hadith 17</td></tr></tbody></table></div>
 

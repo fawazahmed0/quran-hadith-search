@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: When my vindication came down, the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id Ats Tsaqafi] dan [Malik bin Abdul Wahid Al Misma'i] -dan ini adalah haditsnya- bahwa [Ibnu Abu Adi] menceritakan kepada mereka dari [Muhammad bin Ishaq] dari [Abdullah bin Abu Bakr] dari [Amrah] dari ['Aisyah radliallahu 'anha] ia berkata, "Ketika Allah menurunkan udzurku (Ayat yang membebaskan 'Aisyah dari kasus fitnah yang dituduhkan padanya), Nabi shallallahu 'alaihi wasallam berpidato di atas mimbar dan menyampaikan hal itu seraya membacakan ayat Al-Qur'an. Ketika turun dari mimbar, beliau langsung memerintahkan untuk menghukum dua orang laki-laki dan seorang wanita (pelaku fitnah), maka mereka pun dicambuk sebagai had." Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] seperti hadits ini, hanya saja ia tidak menyebutkan nama 'Aisyah. Ia menyebutkan, "Beliau kemudian memerintahkan untuk menghukum dua orang lelaki -Hassan bin Tsabit dan Misthah bin utsatsah- dan seorang wanita karena termasuk orang-orang yang menyebarkan fitnah (atas diri 'Aisyah) tersebut." An Nufaili berkata, "Mereka mengatakan bahwa wanita itu adalah Hamnah binti Jahsy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4474</td></tr><tr><td>Arabic No</td><td>4474</td></tr><tr><td>Reference</td><td>Book 40 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах: «Когда (Всевышний Аллах) ниспослал моё оправдание, Пророк ﷺ поднялся на минбар и объявил об этом, прочитав аяты. А спустившись с минбара, он велел подвергнуть двух мужчин и одну женщину наказанию за клевету, что и было сделано». Подразумевается обвинение в прелюбодеянии
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4474</td></tr><tr><td>Arabic No</td><td>4474</td></tr><tr><td>Reference</td><td>Book 40 Hadith 124</td></tr></tbody></table></div>
 

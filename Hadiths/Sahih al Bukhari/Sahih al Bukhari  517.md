@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Maimuna bint Al-Harith:My bed was beside the praying place (Musalla) of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Zurarah] berkata, telah mengabarkan kepada kami [Husyaim] dari [Asy Syaibani] dari ['Abdullah bin Syaddad bin Al Had] berkata, bibiku [Maimunah binti Al Harits] mengabarkan kepadaku, ia berkata, "Tempat tidurku berhadapan dengan tempat shalat Nabi shallallahu 'alaihi wasallam, dan terkadang pakaian beliau mengenaiku saat aku sedang tidur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>517</td></tr><tr><td>Arabic No</td><td>517</td></tr><tr><td>Reference</td><td>Book 8 Hadith 164</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Шаддад ибн аль-Хади сказал: «Сообщила мне моя тетя со стороны матери Маймуна бинт аль-Харис, которая сказала: “Моя постель находилась напротив места молитвы Пророка ﷺ и иногда, (края) его одежды касались меня, когда я (лежала) на своей постели”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>517</td></tr><tr><td>Arabic No</td><td>517</td></tr><tr><td>Reference</td><td>Book 8 Hadith 164</td></tr></tbody></table></div>
 

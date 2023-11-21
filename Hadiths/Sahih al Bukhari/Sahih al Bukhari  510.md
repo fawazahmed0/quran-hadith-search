@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Busr bin Sa'id:that Zaid bin Khalid sent him to Abi Juhaim to ask him w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Abu An Nadlr] mantan budak 'Umar bin 'Abaidullah dari [Busr bin Sa'id] bahwa Zaid bin Khalid mengutusnya kepada Abu Juhaim untuk menanyakan apa yang didengarnya dari Rasulullah shallallahu 'alaihi wasallam tentang orang yang lewat di depan orang yang sedang shalat. [Abu Juhaim] lalu berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya orang yang lewat di depan orang yang mengerjakan shalat mengetahui apa akibat yang akan ia tanggung, niscaya ia berdiri selama empat puluh lebih baik baginya dari pada dia lewat di depan orang yang sedang shalat." Abu An Nadlr berkata, "Aku tidak tahu yang dimaksud dengan jumlah 'empat puluh itu', apakah empat puluh hari, atau bulan, atau tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>510</td></tr><tr><td>Arabic No</td><td>510</td></tr><tr><td>Reference</td><td>Book 8 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Бусра ибн Са‘ида о том, что (однажды) Зейд ибн Халид (аль-Джухани) отправил его к Абу Джухайму спросить его о том, что он слышал от Посланника Аллаха ﷺ о прохождении перед молящимся и (Абу Джухайма) сказал: «Посланник Аллаха ﷺ сказал: “Если бы тот, кто проходит перед молящимся, знал, какой (грех) он берёт на себя, то (понял) бы, что простоять на месте сорок было бы лучше для него, чем пройти перед ним!”»\nАбу Надр сказал: «И я не знаю, что именно он сказал: сорок дней, месяцев или лет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>510</td></tr><tr><td>Arabic No</td><td>510</td></tr><tr><td>Reference</td><td>Book 8 Hadith 157</td></tr></tbody></table></div>
 

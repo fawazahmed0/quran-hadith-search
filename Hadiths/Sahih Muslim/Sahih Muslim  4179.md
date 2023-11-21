@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Zuhri with different chains of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Ibrahim bin Sa'd] dari [Ibnu Syihab] dari [Humaid bin Abdurrahman] dan [Muhammad bin An Nu'man] dari [An Nu'man bin Basyir] dia berkata, "Ayahku mengajak aku menemui Rasulullah shallallahu 'alaihi wasallam, lalu ia berkata, "Sesungguhnya saya telah memberi anakku ini seorang budak kepunyaanku." Kemudian Rasulullah shallallahu 'alaihi wasallam bertanya: "Apakah setiap anakmu kamu beri seorang budak seperti dia?" Ayahku menjawab, "Tidak." Beliau bersabda: "Kalau begitu, mintalah kembali." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Ishaq bin Ibrahim] dan [Ibnu Abu Umar] dari [Ibnu Uyainah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Qutaibah] dan [Ibnu Rumh] dari [Laits bin Sa'd]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] dia berkata; telah mengabarkan kepadaku [Yunus]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abd bin Humaid] keduanya berkata; telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] semuanya dari [Az Zuhri] dengan sanad ini. Dalam haditsnya Yunus dan Ma'mar disebutkan, "Apakah setiap anak-anakmu." Sedangkan dalam hadits Laits dan Ibnu 'Uyainah disebutkan, "Apakah setiap anakmu." Adapun riwayatnya Laits dari Muhummad bin An Nu'man dan Humaid bin Abdurrahman, bahwa Basyir datang dengan Nu'man
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4179</td></tr><tr><td>Arabic No</td><td>1623.03</td></tr><tr><td>Reference</td><td>Book 24 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4179</td></tr><tr><td>Arabic No</td><td>1623.03</td></tr><tr><td>Reference</td><td>Book 24 Hadith 17</td></tr></tbody></table></div>
 

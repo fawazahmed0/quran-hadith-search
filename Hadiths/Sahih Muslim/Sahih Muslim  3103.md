@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Usama b. Zaid (Allah be pleased with him) reported that when Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Waki'] Telah menceritakan kepada kami [Sufyan] dari [Muhammad bin Uqbah] dari [Kuraib] dari [Usamah bin Zaid] bahwa ketika Rasulullah shallallahu 'alaihi wasallam sampai di jalan yang berada di atantara dua bukit -suatu tempat yang biasa digunakan sebagai persinggahan oleh para pemimpin-, beliau turun, dan kencing. Kemudian beliau minta air wudlu, lalu beliau pun berwudlu dengan ringan. Aku pun bertanya, "Wahai Rasulullah, apakah Anda akan shalat?" beliau menjawab: "Tempat shalat masih di depanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3103</td></tr><tr><td>Arabic No</td><td>1280.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 308</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3103</td></tr><tr><td>Arabic No</td><td>1280.06</td></tr><tr><td>Reference</td><td>Book 15 Hadith 308</td></tr></tbody></table></div>
 

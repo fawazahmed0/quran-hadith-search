@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah 's Apostle said, "Treat women nicely, for a women is 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Kuraib] dan [Musa bin Hizam] keduanya berkata, telah bercerita kepada kami [Husain bin "Ali] dari [Za'idah] dari [Maisarah Al Asyka'iy] dari [Abu Hazim] dari [Abu Hurairah radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Nasehatilah para wanita karena wanita diciptakan dari tulang rusuk yang bengkok dan yang paling bengkok dari tulang rusuk adalah pangkalnya, jika kamu mencoba untuk meluruskannya maka dia akan patah namun bila kamu biarkan maka dia akan tetap bengkok. Untuk itu nasehatilah para wanita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3331</td></tr><tr><td>Arabic No</td><td>3331</td></tr><tr><td>Reference</td><td>Book 60 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Обходитесь с жёнами хорошо, ведь, поистине, женщина сотворена из ребра и, поистине, самая кривая часть ребра — верхняя, и если ты попытаешься выпрямить его, то ты сломаешь его, а если оставишь его как есть, то оно так и останется кривым, поэтому обходитесь с жёнами хорошо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3331</td></tr><tr><td>Arabic No</td><td>3331</td></tr><tr><td>Reference</td><td>Book 60 Hadith 6</td></tr></tbody></table></div>
 

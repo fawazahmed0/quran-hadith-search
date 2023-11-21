@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The Prophet (ﷺ) mentioned a man from the previous generatio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Mu'tamir] saya mendengar [Ayahku] telah menceritakan kepada kami [Qatadah] dari ['Uqbah bin Abdul Ghafir] dari [Abu Sa'id Al Khudri] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau menceritakan seseorang di zaman dahulu atau orang sebelum kalian, Allah mengaruniai kepadanya harta dan anak -maksudnya Allah memberinya-. Menjelang wafat, ia berkata kepada anak-anaknya; "Hai anak-anakku, bagaimana keadaanku selaku ayah bagi kalian? Anak-anaknya menjawab; 'Engkau adalah sebaik-baik ayah.' Beliau melanjutkan; 'Orang tadi merasa dirinya bukan orang baik di sisi Allah (orang shalih), -Qatadah menafsirkan; 'Bahwa dia menyangka belum memiliki amalan- hingga dirinya berprasangka jika Allah menakdirkan, pasti Dia menyiksanya. (Kata orang tadi); 'Lihatlah, kalau aku mati, maka bakarlah aku, jika diriku telah menjadi arang, tumbuklah aku -atau berkata- haluskanlah aku. Jika angin berhembus kencang, maka taburkanlah abuku dalam angin itu.' Maka sang ayah mengambil janji teguh anak-anaknya, akhirnya mereka melakukan yang diwasiatkan oleh ayahnya, lalu Allah berfirman: '(Jadilah engkau) ' tiba-tiba orang itu berdiri tegap. Allah bertanya: '(Hai hamba-Ku, apa yang mendorongmu berbuat seperti itu? Hamba itu menjawab; 'Karena aku merasa takut terhadap-Mu.' Dan segala perbuatan yang membinasakan dirinya Allah merahmatinya (karena rasa takutnya kepada Allah).' Lalu aku ceritakan kepada [Abu Utsman] dia berkata; saya mendengar [Salman] namun dia sedikit menambahkan; 'Lalu taburkanlah (abuku) di lautan atau sebagaimana yang ia ceritakan.' [Mu'adz] mengatakan; telah menceritakan kepada kami [Syu'bah] dari [Qatadah] saya mendengar ['Uqbah] saya mendengar [Abu Sa'id Al khudri] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>6481</td></tr><tr><td>Reference</td><td>Book 81 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ид аль-Худри, да будет доволен им Аллах, от Пророка ﷺ, который упомянул человека из предшествующих поколений (т.е. из числа сынов Исраиля) или до вас, кого Аллах наделил богатством и детьми. Сказал (Пророк ﷺ): «Когда подошло время его смерти, он сказал своим детям: “Каким отцом я был для вас?” Они ответили: “Ты был хорошим отцом”. Он сказал: “Но ведь, поистине, он (т.е. ваш отец) не оставил у Аллаха добрых дел (для мира вечного), — и Катада прокомментировал: “Не оставил ни какого припаса”, — Если он предстанет перед Аллахом, то Аллах накажет его непременно. Так слушайте же, (о дети мои), когда я умру, сожгите моё тело, пока я не превращусь в уголь, затем сотрите меня в порошок, — или же сказал: измельчите меня —а затем, когда будет сильный ветер, развейте меня по нему (т.е. мой пепел). И он взял с них завет (т.е. твёрдое обещание следовать его завещанию), и , клянусь своим Господом , они (его сыновья) так и поступили. Тогда Аллах сказал: “Будь!” (И в тот же миг) тот человек стоял там (перед Аллахом). Затем Он сказал. “О мой раб! Что заставило тебя сделать то, что ты сделал?” Он ответил: “Страх перед Тобой — или боязнь Тебя”. И его ничего не постигло, кроме как Аллах простил его». \nОт Сальмана аль-Фариси передаётся подобный хадис, однако он добавил: «И развейте меня над морем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>6481</td></tr><tr><td>Reference</td><td>Book 81 Hadith 70</td></tr></tbody></table></div>
 

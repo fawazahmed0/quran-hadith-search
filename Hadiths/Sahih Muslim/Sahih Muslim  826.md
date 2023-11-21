@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha said:The Apostle of Allah (ﷺ) used to remember Allah at all moments
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-'Ala'] dan [Ibrahim bin Musa] keduanya berkata, telah menceritakan kepada kami [Ibnu Abi Zaidah] dari [bapaknya] dari [Khalid bin Salamah] dari [al-Bahi] dari [Urwah] dari [Aisyah] dia berkata, "Dahulu Nabi shallallahu 'alaihi wasallam berdzikir kepada Allah dalam setiap keadaannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>826</td></tr><tr><td>Arabic No</td><td>373</td></tr><tr><td>Reference</td><td>Book 3 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ всегда поминал Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>826</td></tr><tr><td>Arabic No</td><td>373</td></tr><tr><td>Reference</td><td>Book 3 Hadith 147</td></tr></tbody></table></div>
 

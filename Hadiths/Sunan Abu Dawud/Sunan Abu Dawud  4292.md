@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Dhu Mikhbar said:I heard the Messenger of Allah (ﷺ) say: you will make a secur
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] berkata, telah menceritakan kepada kami [Isa bin Yunus] berkata, telah menceritakan kepada kami [Al Auza'i] dari [Hassan bin Athiyah] ia berkata; Makhul dan Ibnu Abu Zakariya menemui [Khalid bin Ma'dan], sementara aku juga ikut mereka. Lalu Khalid menceritakan kepada kami dari [Jubair bin Nufair] tentang Hudnah (perjanjian damai). Hassan berkata, "Selanjutnya [Jubair] berkata, "Mari bersama kami menemui [Dzu Mikhbar], seorang laki-laki dari sahabat Nabi shallallahu 'alaihi wasallam. Akhirnya kami pun mendatangi laki-laki tersebut, Jubair lantas bertanya kepadanya tentang perjanjian damai. Sahabat Nabi itu menjawab, "Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalian akan mengadakan perjanjian dengan bangsa Ramawi, namun kalian akan memerangi mereka dan mereka menjadi musuh di belakang kalian. Kalian akan mendapatkan kemenangan dan ghanimah, dan keselamatan. Setelah itu kalian akan kembali pulang, saat kalian singgah di suatu tempat tinggi yang subur dan banyak tanamannya, ada seorang laki-laki nashrani mengangkat salib seraya berkata, "Salib telah menang!" hal itu menjadikan seorang laki-laki dari kaum muslimin marah hingga mematahkan kayu salibnya. Maka saat itulah orang-orang Ramawi berkhianat dan berkumpul untuk mengadakan peperangan." Telah menceritakan kepada kami [Muammal Ibnul Fadhl Al harrani] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah menceritakan kepada kami [Abu Amru] dari [Hassan bin Athiyyah] dengan hadits yang sama. Namun ia menambahkan, "Kaum muslimin lalu segera meraih senjata mereka dan berperang. Allah kemudian memuliakan mereka dengan syahid." Hanya saja Al Walid menyebutkan hadits ini melalui jalur Jubair, dari [Dzu Mikhbar], dari Nabi shallallahu 'alaihi wasallam. Abu Dawud berkata, "Hadits ini diriwayatkan oleh [Rauh], [Yahya bin Hamzah] dan [Bisyr bin Bakr], dari [Al Auza'I] sebagaimana yang dikatakan oleh Isa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4292</td></tr><tr><td>Arabic No</td><td>4292</td></tr><tr><td>Reference</td><td>Book 39 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Зу Михбар (Ибн Абу ан-Наджжаши, слуга Пророка ﷺ), человек из числа сподвижников Пророка ﷺ передаёт: Я слышал, как Посланник Аллаха ﷺ сказал: «Вы заключите мир с византийцами (подразумеваются жители их бывших владений) и вместе выступите против общего врага. Вы победите и вернётесь невредимыми и с добычей. А на обратном пути вы остановитесь на привал на лугу, возле холмов, и один из христиан поднимет крест и скажет: “Победил крест!” Тогда разгневается один человек из числа мусульман и сломает его. После этого византийцы нарушат договор и соберутся для сражения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4292</td></tr><tr><td>Arabic No</td><td>4292</td></tr><tr><td>Reference</td><td>Book 39 Hadith 2</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) delivered a sermon and said, "All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan] berkata, telah menceritakan kepada kami [Fulaih] berkata, telah menceritakan kepada kami [Abu Nadlr] dari ['Ubaid bin Hunain] dari [Busr bin Sa'd] dari [Abu Sa'id Al Khudru] berkata, "Nabi shallallahu 'alaihi wasallam menyampaikan khuthbahnya, "Sesungguhnya Allah telah menawarkan kepada seorang hamba untuk memilih antara dunia dan apa yang ada di sisi-Nya. Kemudian hamba tersebut memilih apa yang ada di sisi Allah." Maka tiba-tiba Abu Bakar Ash Shidiq menangis. Aku berpikir dalam hati, apa yang membuat orang tua ini menangis, hanya karena Allah menawarkan kepada seorang hamba untuk memilih antara dunia dan apa yang ada di sisi-Nya lalu hamba tersebut memilih apa yang ada di sisi Allah?" Dan ternyata Rasulullah shallallahu 'alaihi wasallam adalah yang dimaksud hamba tersebut. Dan Abu Bakr adalah orang yang paling memahami isyarat itu. Kemudian beliau berkata: "Wahai Abu Bakar, jangalah kamu menangis. Sesungguhnya manusia yang paling terpercaya di hadapanku dalam persahabatannya dan hartanya adalah Abu Bakar. Seandainya aku boleh mengambil kekasih dari ummatku, tentulah Abu Bakar orangnya. Akan tetapi yang ada adalah persaudaraan Islam dan berkasih sayang dalam Islam. Sungguh, tidak ada satupun pintu di dalam Masjid yang tersisa melainkan akan tertutup kecuali pintunya Abu Bakar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>466</td></tr><tr><td>Arabic No</td><td>466</td></tr><tr><td>Reference</td><td>Book 8 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ обратился к (собравшимся в мечети) людям с проповедью и сказал: “Поистине, Аллах предоставил одному (из Своих) рабов возможность выбора между миром дольним и тем, что есть у Него, и (этот раб) выбрал то, что есть у Аллаха”. (Услышав эти слова,) Абу Бакр, да будет доволен им Аллах, заплакал, а я сказал себе: “Что заставляет плакать этого старца, если Аллах предоставил (кому-то из Своих) рабов возможность выбора между миром дольним и тем, что есть у Него, и (раб) выбрал то, что есть у Аллаха?” (Однако дело было в том, что) рабом этим являлся (не кто иной, как) Посланник Аллаха ﷺ, а Абу Бакр знал больше, чем мы. (Что же касается Пророка ﷺ то) он сказал: “О Абу Бакр, не плачь!” — (а потом добавил): “Поистине, из всех людей наибольшее количество благодеяний оказал мне Абу Бакр, который дружил со мной и не жалел для меня своего имущества, и если бы мне пришлось выбирать ближайшего друга из числа (членов) моей общины, я непременно выбрал бы Абу Бакра, однако (достойнее этого) братство и любовь в Исламе! Так пусть же не останется в мечети незапертых дверей, кроме двери Абу Бакра!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>466</td></tr><tr><td>Arabic No</td><td>466</td></tr><tr><td>Reference</td><td>Book 8 Hadith 114</td></tr></tbody></table></div>
 

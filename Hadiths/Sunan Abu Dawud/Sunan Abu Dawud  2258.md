@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa’d bin Jubair said I asked Ibn ‘Umar A man accused his wife of adultery? H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal], telah menceritakan kepada kami [Isma'il], telah menceritakan kepada kami [Ayyub] dari [Sa'id bin Jubair], ia berkata; aku katakan kepada [Ibnu Abbas]; ada seorang laki-laki yang menuduh isterinya berbuat zina. Ia berkata; Rasulullah shallallahu 'alaihi wasallam telah memisahkan antara kedua saudara Bani Al 'Ajlan, dan beliau berkata; "Allah mengetahui bahwa salah seorang diantara kalian berdua adalah berdusta. Apa ada diantara kalian yang hendak bertaubat?" Beliau mengulangnya sebanyak tiga kali, namun mereka enggan untuk bertaubat, maka beliau memisahkan antara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5311) Sahih Muslim (1493)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2258</td></tr><tr><td>Arabic No</td><td>2258</td></tr><tr><td>Reference</td><td>Book 13 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Са‘ида ибн Джубайра, что он спросил Ибн ‘Умара о мужчине, который обвиняет жену в прелюбодеянии, и он сказал: «Посланник Аллаха ﷺ расторг брак такой пары из бану аль-Аджлян и сказал: “Аллах знает, что один из вас лжёт. Так не покается ли кто-то из вас?” Он повторил эти слова трижды, но никто из них не признался, и тогда он расторг их брак»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5311) Sahih Muslim (1493)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2258</td></tr><tr><td>Arabic No</td><td>2258</td></tr><tr><td>Reference</td><td>Book 13 Hadith 84</td></tr></tbody></table></div>
 

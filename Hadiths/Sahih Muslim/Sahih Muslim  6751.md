@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Amr b. al-'As reported that he heard Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdul A'laa bin Hammad] dia berkata; Aku membaca Hadits [Malik bin Anas]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik] dari apa yang telah dibacakan kepadanya dari [Ziyad bin Sa'ad] dari ['Amru bin Muslim] dari [Thawus] dia berkata; "Saya pernah mendapati beberapa orang sahabat Rasulullah shallallahu 'alaihi wasallam mengatakan; 'Segala sesuatu itu sesuai takdirnya.' Ibnu Thawus berkata; 'Saya pernah mendengar [Abdullah bin Umar] mengatakan; 'Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Segala sesuatu itu sesuai takdirnya, hingga kelemahan dan kecerdasan (atau kecerdasan dan kelemahan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6751</td></tr><tr><td>Arabic No</td><td>2655</td></tr><tr><td>Reference</td><td>Book 46 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6751</td></tr><tr><td>Arabic No</td><td>2655</td></tr><tr><td>Reference</td><td>Book 46 Hadith 29</td></tr></tbody></table></div>
 

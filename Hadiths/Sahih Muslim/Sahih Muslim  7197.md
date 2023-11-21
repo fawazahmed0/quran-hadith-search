@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated through five different chains of transmitters and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abdullah bin Idris]. Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] dan [Muhammad bin Bisyr]. Telah menceritakan kepada kami [Yahya bin Yahya] telah mengkhabarkan kepada kami [Musa bin A'yan]. Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abu Usamah], semuanya dari [Isma'il bin Abu Khalid]. Telah menceritakan kepadaku [Muhammad bin Hatim], teks miliknya, telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Qais] berkata: Aku mendengar [Mustaurid] salah seorang dari bani Fihr berkata: Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Demi Allah, tidaklah dunia di akhirat kecuali seperti sesuatu yang dijadikan oleh jari salah seorang dari kalian -Yahya berisyarat dengan jari telunjuk di laut- maka perhatikanlah apa yang dibawa." Disebutkan dalam mereka semua selain Yahya: Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Itu." Disebutkan dalam hadits Abu Usamah dari Al Mustaurad bin Syaddad dari bani Firh, juga dalam haditsnya disebutkan: Rasulullah Shallallahu 'alaihi wa Salam bersabda dan Isma'il berisyarat dengan jari jempol
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7197</td></tr><tr><td>Arabic No</td><td>2858</td></tr><tr><td>Reference</td><td>Book 53 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7197</td></tr><tr><td>Arabic No</td><td>2858</td></tr><tr><td>Reference</td><td>Book 53 Hadith 66</td></tr></tbody></table></div>
 

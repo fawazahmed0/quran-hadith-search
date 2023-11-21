@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:The Messenger of Allah (ﷺ) said: Trim closely the moustac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Ishaq] telah mengabarkan kepada kami [Ibnu Abu Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far] telah mengabarkan kepadaku [al-Ala' bin Abdurrahman bin Ya'qub] mantan budak al-Huraqah, dari [bapaknya] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Cukurlah kumis dan panjangkanlah jenggot. Selisihilah kaum Majusi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>603</td></tr><tr><td>Arabic No</td><td>260</td></tr><tr><td>Reference</td><td>Book 2 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Подстригайте усы, отпускайте бороду и отличайтесь от огнепоклонников»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>603</td></tr><tr><td>Arabic No</td><td>260</td></tr><tr><td>Reference</td><td>Book 2 Hadith 70</td></tr></tbody></table></div>
 

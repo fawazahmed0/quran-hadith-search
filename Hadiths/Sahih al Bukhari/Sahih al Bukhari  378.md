@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Once Allah's Messenger (ﷺ) fell off a horse and his le
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdurrahim] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Humaid Ath Thawil] dari [Anas bin Malik], bahwa Rasulullah shallallahu 'alaihi wasallam pernah terjatuh dari kudanya hingga mengakibatkan betisnya atau bahunya terluka. Maka Nabi shallallahu 'alaihi wasallam menjauhi isteri-isterinya selama sebulan. Beliau lalu duduk di ruangan yang agak tinggi yang tangganya terbuat dari kayu. Para sahabatnya lalu mengunjunginya, Beliau lalu shalat mengimami mereka dengan duduk sedangkan para sahabatnya shalat dengan berdiri. Setelah salam, beliau bersabda: "Sesungguhnya dijadikannya imam itu untuk diikuti. Jika imam bertakbir maka takbirlah kalian, jika rukuk maka rukuklah kalian, jika sujud maka sujudlah kalian, dan jika ia shalat dengan berdiri maka shalatlah kalian dengan berdiri." Kemudian Beliau shallallahu 'alaihi wasallam turun kembali setelah dua puluh sembilan hari. Mereka pun berkata, "Wahai Rasulullah, bukankan engkau mengasingkan diri selama satu bulan? Beliau menjawab: "Satu bulan itu dua puluh sembailan hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>378</td></tr><tr><td>Arabic No</td><td>378</td></tr><tr><td>Reference</td><td>Book 8 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, о том, что (однажды) Посланник Аллаха ﷺ упал с лошади и его бок или плечо было оцарапано. Он поклялся, что в течение месяца не станет приближаться к своим жёнам и сидел в своей приподнятой (от земли) комнате, у которой были ступеньки из брёвен. (Однажды), когда к нему пришли его сподвижники, чтобы навестить его, он помолился с ними сидя, а (сподвижники) при этом совершали молитву стоя, и после того, как он произнёс слова приветствия, он сказал: «Поистине, имам назначается для того, чтобы (во время молитвы) другие следовали его примеру. Если он произнесёт такбир, то произносите такбир и вы. Если он совершит поясной поклон, то поклонитесь и вы, если он совершит земной поклон, то совершайте земной поклон и вы, а если он будет молиться сидя, то совершайте молитву сидя». Когда, через двадцать девять (дней) он спустился (из этой комнаты), ему сказали: «О Посланник Аллаха, ты ведь поклялся (что не будешь приближаться к своим жёнам в течение) месяца!» Тогда он сказал: «Поистине, месяц (может) состоять и из двадцати девяти дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>378</td></tr><tr><td>Arabic No</td><td>378</td></tr><tr><td>Reference</td><td>Book 8 Hadith 30</td></tr></tbody></table></div>
 

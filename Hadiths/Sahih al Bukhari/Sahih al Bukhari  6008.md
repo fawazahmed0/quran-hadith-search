@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sulaiman and Malik bin Huwairith:We came to the Prophet (ﷺ) and w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Abu Sulaiman Malik bin Al Huwairits] dia berkata; "Kami datang kepada Nabi Shallallahu'alaihi wasallam sedangkan waktu itu kami adalah pemuda yang sebaya. Kami tinggal bersama beliau selama dua puluh malam. Beliau mengira kalau kami merindukan keluarga kami, maka beliau bertanya tentang keluarga kami yang kami tinggalkan. Kami pun memberitahukannya, beliau adalah seorang yang sangat penyayang dan sangat lembut. Beliau bersabda: "Pulanglah ke keluarga kalian. Tinggallah bersama mereka dan ajari mereka serta perintahkan mereka dan shalatlah kalian sebagaimana kalian melihatku shalat. Jika telah datang waktu shalat, maka hendaklah salah seorang dari kalian mengumandangkan adzan, dan yang paling tua dari kalian hendaknya menjadi imam kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6008</td></tr><tr><td>Arabic No</td><td>6008</td></tr><tr><td>Reference</td><td>Book 78 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Малик ибн аль-Хувайрис сказал: «Однажды мы пришли к Пророку ﷺ, а все мы были молодыми людьми примерно одного возраста. И мы прожили у него двадцать ночей. Предположив же, что мы стали тосковать по своим семьям, он спросил нас о том, кто остался у нас (дома), и мы рассказали ему (об этом), а он был добр и мягок с нами. Тогда он сказал: “Возвращайтесь к своим семьям, учите их (религии) и велите им творить (благое). И совершайте молитву так же, как на ваших глазах молился я. А когда наступит время молитвы, пусть один из вас произнесёт для вас азан, а самый старший будет вашим имамом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6008</td></tr><tr><td>Arabic No</td><td>6008</td></tr><tr><td>Reference</td><td>Book 78 Hadith 39</td></tr></tbody></table></div>
 

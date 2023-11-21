@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'd ibn Ubadah: The Prophet (ﷺ) said: No man recites the Qur'an, the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Al 'Ala'], telah mengabarkan kepada Kami [Ibnu Idris] dari [Yazid bin Abu Ziyad] dari [Isa bin Faid] dari [Sa'd bin 'Ubadah] ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Tidaklah seseorang membaca Al Qur'an kemudian ia melupakannya melainkan ia bertemu Allah 'azza wajalla pada hari Kiamat dalam keadaan mulutnya ompong
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1474</td></tr><tr><td>Arabic No</td><td>1474</td></tr><tr><td>Reference</td><td>Book 8 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн ‘Убада, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Любой человек, который читал Коран (наизусть), а потом забыл его, в День воскресения встретит Великого и Всемогущего Аллаха больным проказой /аджзама/”».Хафиз Ибн аль-Къаттан, хафиз аль-Мунзири, хафиз Ибн Хаджар назвали хадис слабым. См. «аль-Вахми валь-ихам» (2/415), «ат-Таргъиб ва-тархиб» (2/306), «Фатхуль-Бари» (9/70).Шейх аль-Албани назвал хадис слабым. См. «Да‘иф аль-Джами‘ ас-сагъир» (5153), «Мишкатуль-масабих» (2200), «Да‘иф ат-Таргъиб ва-тархиб» (873), «ас-Сильсиля ад-да‘ифа валь-мауду‘а» (1354).Иснад этого хадиса является слабым и в нём есть три недостатка.Первый разрыв в цепочке между ‘Иса ибн Фаид и Ибн ‘Убадой, так как он не застал его. Это подтверждается хадисом, который передал имам Ахмад (5/284), в иснаде которого между ‘Иса ибн Фаидом и Са‘дом ибн ‘Убада есть человек не названный по имени.Второй неизвестность ‘Исы ибн Фаида. Ибн Мадини сказал: «Неизвестен! Никто не передавал от него, кроме Язида ибн Абу Зияда», и тоже самое сказал хафиз (Ибн Хаджар). Аз-Захаби сказал: «Не известно кто он такой». По этой причине Ибн ‘Абдульбарр сказал: «Этот иснад плохой. ‘Иса ибн Фаид не слышал хадисы от Са‘да ибн ‘Убады и не застал его».Третий передатчик Язид ибн Абу Зияд, а он аль-Хашими и их вольноотпущенник, Абу ‘Абдуррахман, о чём сказал аль-Мунзири (2/213).Хафиз Ибн Хаджар в «ат-Такъриб» сказал: «Слабый (передатчик), изменился состарившись и начал путаться». Также он в «Фатхуль-Бари» (9/70) сказал: «В его иснаде есть слабость». См. «Да‘иф Аби Дауд» (2/87), «ас-Сильсиля ад-да‘ифа валь-мауду‘а»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1474</td></tr><tr><td>Arabic No</td><td>1474</td></tr><tr><td>Reference</td><td>Book 8 Hadith 59</td></tr></tbody></table></div>
 

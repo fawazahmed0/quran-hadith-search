@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali bin Al-Husain from Safiya:Safiya went to the Prophet (ﷺ) while h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah mengabarkan kepada saya [saudaraku] dari [Sulaiman] dari [Muhammad bin Abu 'Atiq] dari [Ibnu Syihab] dari ['Ali bin Al Husain radliallahu 'anhuma] bahwa [Shafiyah] isteri Nabi shallallahu 'alaihi wasallam mengabarkan kepadanya. Dan diriwayatkan pula, telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Sufyan] aku mendengar [Az Zuhriy] dari ['Ali bin Al Husain radliallahu 'anhuma] bahwa Shafiyah radliallahu 'anhu menemui Nabi shallallahu 'alaihi wasallam ketika Beliau sedang i'tikaf. Ketika dia kembali Beliau berjalan mendampinginya. Kemudian ada seorang dari Kaum Anshar yang melihat Beliau. Setelah Beliau melihatnya, Beliau memanggil orang itu lalu berkata: "Dia adalah Shafiyah". Sufyan beranggapan, Beliau shallallahu 'alaihi wasallam berkata: "Ini adalah Shafiyah. Sesungguhnya syetan berjalan pada diri manusia lewat aliran darah". Aku bertanya kepada Sufyan: "Apakah Shafiyah radliallahu 'anha menemui Beliau shallallahu 'alaihi wasallam pada malam hari?" Sufyan berkata: Memang, tidak lain kecuali di malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2039</td></tr><tr><td>Arabic No</td><td>2039</td></tr><tr><td>Reference</td><td>Book 33 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али ибн аль-Хусейн сказал, что Сафия, да будет ею Аллах, пришла к Пророку ﷺ, когда он совершал и‘тикяф. Когда она отправилась домой, он пошёл вместе с ней. Один человек из числа ансаров увидел его, заметив его, Пророк ﷺ подозвал его, сказав: «Подойди ко мне! Это Сафия. Поистине, шайтан передвигается внутри человека подобно крови». \nПередатчик (хадиса) спросил Суфьяна: «Она пришла к нему ночью?» Он ответил: «А когда же ещё?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2039</td></tr><tr><td>Arabic No</td><td>2039</td></tr><tr><td>Reference</td><td>Book 33 Hadith 14</td></tr></tbody></table></div>
 

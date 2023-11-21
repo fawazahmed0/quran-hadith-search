@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:We got down at Al-Muzdalifa and Sauda asked the permission of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Aflah bin Humaid] dari [Al Qasim bin Muhammad] dari ['Aisyah radliallahu 'anha] berkata: "Kami berhenti di Muzdalifah, lalu Saudah radliallahu 'anhu meminta izin kepada Nabi Shallallahu'alaihiwasallam untuk berangkat terlebih dahulu sebelum sesak oleh orang-orang yang berangkat, karena dia termasuk wanita yang lambat jalannya, dan Beliau mengijinkan. Maka dia bertolak sebelum manusia berdesak-desakan sedangkan kami tetap berdiam disana hingga pagi hari. Kemudian kami bertolak menuju jumrah bersama Beliau. Sungguh bagiku meminta izin kepada Rasulullah Shallallahu'alaihiwasallam seperti yang dilakukan oleh Saudah radliallahu 'anha lebih aku sukai dari apapun yang menyenangkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1681</td></tr><tr><td>Arabic No</td><td>1681</td></tr><tr><td>Reference</td><td>Book 25 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Когда) мы остановились в Муздалифе, Сауда, которая была медлительной женщиной, попросила у Пророка ﷺ разрешения покинуть (это место пораньше, чтобы не оказаться) в толпе людей, и он позволил ей это. И она покинула (Муздалифу), прежде чем началось столпотворение; мы же остались там до утра, а потом отправились (в Мину вместе с Пророком ﷺ) и, если бы я обратилась к Посланнику Аллаха ﷺ c такой же просьбой, как и Сауда, это порадовало бы меня больше всего!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1681</td></tr><tr><td>Arabic No</td><td>1681</td></tr><tr><td>Reference</td><td>Book 25 Hadith 161</td></tr></tbody></table></div>
 

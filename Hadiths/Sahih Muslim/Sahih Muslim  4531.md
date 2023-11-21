@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by another chain of transmitters on the authority 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] dari [Isma'il bin Ja'far] dari [Abdullah bin Dinar] bahwa dia pernah mendengar [Abdullah bin Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah akan mengibarkan bendera untuk para pengkhianat, dan dikatakan kepadanya, 'Ini adalah bendera pengkhianatan si fulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4531</td></tr><tr><td>Arabic No</td><td>1735.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4531</td></tr><tr><td>Arabic No</td><td>1735.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 12</td></tr></tbody></table></div>
 

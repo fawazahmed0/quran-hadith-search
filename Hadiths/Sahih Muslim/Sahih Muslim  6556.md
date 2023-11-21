@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Verily, Allah, the Exalte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim bin Maimun]; Telah menceritakan kepada kami [Bahz]; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Abu Rafi'] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Hai anak Adam! Aku sakit, mengapa kamu tidak menjenguk-Ku?" Jawab anak Adam; "Wahai Rabbku, bagaimana mengunjungi Engkau, padahal Engkau Tuhan semesta alam?" Allah Ta'ala berfirman: "Apakah kamu tidak tahu bahwa hamba-Ku si Fulan sakit, mengapa kamu tidak mengunjunginya? Apakah kamu tidak tahu, seandainya kamu kunjungi dia kamu akan mendapati-Ku di sisinya?" "Hai, anak Adam! Aku minta makan kepadamu, mengapa kamu tidak memberi-Ku makan?" Jawab anak Adam; "Wahai Rabbku, Bagaimana mungkin aku memberi engkau makan, padahal Engkau Tuhan semesta alam?" Allah Ta'ala berfirman: "Apakah kamu tidak tahu, bahwa hamba-Ku si Fulan minta makan kepadamu tetapi kamu tidak memberinya makan. Apakah kamu tidak tahu seandainya kamu memberinya makan niscaya engkau mendapatkannya di sisi-Ku?" "Hai, anak Adam! Aku minta minum kepadamu, mengapa kamu tidak memberi-Ku minum?" Jawab anak Adam; "Wahai Tuhanku, bagaimana mungkin aku memberi Engkau minum, padahal Engkau Tuhan semesta alam?" Allah Ta'ala menjawab: "Hamba-Ku si Fulan minta minum kepadamu, tetapi kamu tidak memberinya minum. Ketahuilah, seandainya kamu memberinya minum, niscaya kamu mendapatkannya di sisi-Ku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6556</td></tr><tr><td>Arabic No</td><td>2569</td></tr><tr><td>Reference</td><td>Book 45 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: Посланник Аллаха ﷺ сказал: «Поистине, в День воскрешения Великий и Всемогущий Аллах скажет: “О сын Адама, Я болел, а ты не навестил Меня!” (Тот человек, к которому Он обратится,) скажет: “О Господь мой, как же я (могу) навестить Тебя, когда Ты Господь миров?!” (Аллах) скажет: “Разве не знал ты, что такой-то раб Мой заболел, а ты не навестил его? Разве не знал Ты, что если бы ты его навестил, то нашёл бы рядом с ним и Меня? О сын Адама, Я просил тебя накормить Меня, но ты Меня не накормил!” (Человек) скажет: “О Господь мой, как же я (могу) накормить Тебя, когда Ты Господь миров?!” (Аллах) скажет: “Разве не знал ты, что такой-то раб Мой просил тебя накормить его, а ты не накормил его? Разве не знал ты, что если бы ты накормил его, то (потом) непременно нашёл бы это у Меня? О сын Адама, Я просил у тебя воды, а ты не напоил Меня!” (Человек) скажет: “О Господь мой, как же я (могу) напоить Тебя, когда Ты Господь миров?!” (Аллах) скажет: “У тебя просил воды такой-то раб Мой, а ты не напоил его! Разве (не знал) ты, что если бы ты напоил его, то (потом) непременно нашёл бы это у Меня?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6556</td></tr><tr><td>Arabic No</td><td>2569</td></tr><tr><td>Reference</td><td>Book 45 Hadith 54</td></tr></tbody></table></div>
 

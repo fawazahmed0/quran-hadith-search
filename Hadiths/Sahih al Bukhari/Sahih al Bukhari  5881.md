@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated ibn 'Abbas:The Prophet (ﷺ) came out on the day of 'Id and offered a t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ar'arah] telah menceritakan kepada kami [Syu'bah] dari ['Adi bin Tsabit] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Nabi shallallahu 'alaihi wasallam keluar untuk mengerjakn shalat Ied, kemudian beliau shalat dua raka'at, tidak shalat baik sebelum dan sesudahnya, setelah itu beliau mendatangi para wanita dan memerintahkan mereka untuk bersedekah, hingga para wanita ramai-ramai menyedekahkan anting dan kalung mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5881</td></tr><tr><td>Arabic No</td><td>5881</td></tr><tr><td>Reference</td><td>Book 77 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «В день праздника /аль-‘ид/ Пророк ﷺ пришёл и совершил (праздничную) молитву два рак‘ата, и он не совершил ни до нее, ни после нее никаких других молитв. Затем он подошёл к женщинам, приказал им подавать милостыню, и они стали бросать свои серьги и ожерелья»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5881</td></tr><tr><td>Arabic No</td><td>5881</td></tr><tr><td>Reference</td><td>Book 77 Hadith 98</td></tr></tbody></table></div>
 

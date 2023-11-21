@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Bara' b. 'Azib reported that he said prayer with the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Yahya, dan dia adalah Ibnu Sa'id] dari ['Adi bin Tsabit] dari [al-Bara' bin 'Azib] bahwasanya dia berkata, "Saya shalat Isya bersama Rasulullah Shallallahu'alaihiwasallam maka beliau membaca, 'At-Tin wa az-Zaitun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1038</td></tr><tr><td>Arabic No</td><td>464.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Бараъ ибн ‘Азиб сказал: «(Однажды) я совершал вечернюю молитву /‘иша/ вместе с Посланником Аллаха ﷺ, и он читал: “Клянусь смоковницей и оливой!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1038</td></tr><tr><td>Arabic No</td><td>464.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 200</td></tr></tbody></table></div>
 

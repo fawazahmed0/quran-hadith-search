@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas (Allah be pleased with them) reported Allah's Apostle (ﷺ) as saying:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] saya pernah mendengar [Qatadah] menceritakan dari [Sa'id bin Musayyab] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Orang yang menarik kembali pemberiannya, seperti orang yang memakan lagi muntahannya." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Sa'id] dari [Qatadah] dengan sanad ini, seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4174</td></tr><tr><td>Arabic No</td><td>1622.05</td></tr><tr><td>Reference</td><td>Book 24 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4174</td></tr><tr><td>Arabic No</td><td>1622.05</td></tr><tr><td>Reference</td><td>Book 24 Hadith 12</td></tr></tbody></table></div>
 

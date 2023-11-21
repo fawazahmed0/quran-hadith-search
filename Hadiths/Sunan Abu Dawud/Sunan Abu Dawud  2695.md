@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Talhah said “When the Apostle of Allaah(ﷺ) prevailed on any people, he s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], ia berkata; telah menceritakan kepada kami [Mu'adz bin Mu'adz], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Harun bin Abdullah], ia berkata; telah menceritakan kepada kami [Rauh], mereka berkata; telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas] dari [Abu Thalhah], ia berkata; Rasulullah shallallahu 'alaihi wasallam apabila menundukkan suatu kaum beliau tinggal di sebidang tanah mereka yang luas selama tiga hari. Ibnu Al Mutsanna berkata; apabila beliau menundukkan suatu kaum, maka beliau senang untuk tinggal di sebidang tanah mereka yang luas mereka selama tiga hari. Abu Daud berkata; Yahya bin Sa'id mengkritik hadits ini karena bukan termasuk hadits Sa'id yang terdahulu sebelum mengalami perubahan, karena ia mengalami perubahan pada tahun empat puluh lima, dan ia tidak mengeluarkan hadits ini kecuali pada tahun terakhir. Abu Daud berkata; ada yang mengatakan bahwa Waki' meriwayatkan hadits tersebut darinya di saat ia mengalami perubahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3065)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2695</td></tr><tr><td>Arabic No</td><td>2695</td></tr><tr><td>Reference</td><td>Book 15 Hadith 219</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Тальхи, да будет доволен им Аллах, что, одержав победу над людьми (из какого-нибудь) племени, Пророк ﷺ обычно оставался там в течение трёх дней
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3065)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2695</td></tr><tr><td>Arabic No</td><td>2695</td></tr><tr><td>Reference</td><td>Book 15 Hadith 219</td></tr></tbody></table></div>
 

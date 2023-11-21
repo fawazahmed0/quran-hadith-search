@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The moon was split ( into two pieces ) while we were with the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Ibrahim] dari [Abu Ma'mar] dari [Abdullah] radliallahu 'anhu berkata; Bulan terbelah saat kami sedang bersama Nabi shallallahu 'alaihi wasallam di Mina, lalu beliau bersabda: "Saksikanlah". Kemudian sekelompok orang pergi ke atas gunung. Dan [Abu adl Dluha] berkata dari [Masruq] dari [Abdullah]; Bulan pernah terbelah di Makkah... Dan diperkuat pula hadits ini oleh [Muhammad bin Muslim] dari [Ibnu Abu Najih] dari [Mujahid] dari [Abu Ma'mar] dari [Abdullah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3869</td></tr><tr><td>Arabic No</td><td>3869</td></tr><tr><td>Reference</td><td>Book 63 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Когда раскололась луна мы были вместе с Пророком ﷺ в Мине. Пророк ﷺ сказал: “Засвидетельствуйте (это)”. Затем одна часть луны направилась к горе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3869</td></tr><tr><td>Arabic No</td><td>3869</td></tr><tr><td>Reference</td><td>Book 63 Hadith 94</td></tr></tbody></table></div>
 

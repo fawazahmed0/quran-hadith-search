@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that a person peeped in some of the holes (in the doors) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Abu Kamil Fudhail bin Husain] dan [Qutaibah bin Sa'id] lafazh ini miliknya [Yahya] dan [Abu Kamil] berkata [Yahya]; Telah mengabarkan kepada kami. dan yang lainnya berkata; Telah menceritakan kepada kami [Hammad bin Zaid] dari ['Ubaidillah bin Abu Bakr] dari [Anas bin Malik] bahwa seorang laki-laki mengintip ke dalam rumah Nabi shallallahu 'alaihi wasallam dari salah satu kamar beliau. Maka Rasulullah shallallahu 'alaihi wasallam berdiri menghampirinya sambil membawa busur panah yang tajam atau beberapa busur panah. Seakan-akan aku melihat Rasulullah shallallahu 'alaihi wasallam melakukan tipu daya hendak menusuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5641</td></tr><tr><td>Arabic No</td><td>2157</td></tr><tr><td>Reference</td><td>Book 38 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5641</td></tr><tr><td>Arabic No</td><td>2157</td></tr><tr><td>Reference</td><td>Book 38 Hadith 56</td></tr></tbody></table></div>
 

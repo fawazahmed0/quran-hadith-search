@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shaqiq reported. I asked 'A'isha (Allah be pleased with her) about f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Rabi' Az Zahrani] telah menceritakan kepada kami [Hammad] dari [Ayyub] dan [Hisyam] dari [Muhammad] dari [Abdullah bin Syaqiq] - [Hammad] berkata- saya menduga bahwa [Ayyub] telah mendengarnya dari [Abdullah bin Syaqiq], ia berkata; Saya pernah bertanya kepada [Aisyah] radliallahu 'anha, mengenai puasa Nabi shallallahu 'alaihi wasallam. Maka Aisyah menjawab, "Beliau berpuasa beberapa hari hingga kami mengira bahwa beliau akan puasa terus. Dan beliau berbuka beberapa hari hingga kami mengira beliau akan berbuka terus. Sejak beliau tiba di Madinah, aku tidak pernah melihat beliau puasa sebulan sembuh, kecuali Ramadlan." Dan Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Abdullah bin Syaqiq] ia berkata; Saya pernah bertanya kepada [Aisyah] radliallahu 'anha, yakni dengan hadits semisalnya. Sedangkan di dalam isnadnya ia tidak menyebutkan; Hisyam dan tidak pula Muhammad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>1156.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>1156.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 225</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : Que celui qui a l'intention de jeûner
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] -secaya riwayah (menukil dan menceritakan hadits dari Nabi- beliau berkata; Apabila salah seorang dari kalian berpuasa di suatu hari, maka janganlah ia berkata-kata kotor dan berbuat kesia-siaan. Bila ia caci seseorang atau menyerangnya, maka hendaklah ia mengatakan, "Sesungguhnya saya sedang berpusa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2703</td></tr><tr><td>Arabic No</td><td>1151.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 209</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2703</td></tr><tr><td>Arabic No</td><td>1151.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 209</td></tr></tbody></table></div>
 

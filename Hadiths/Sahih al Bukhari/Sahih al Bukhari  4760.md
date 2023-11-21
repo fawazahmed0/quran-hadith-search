@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A man said, "O Allah's Prophet! Will Allah gather the no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] Telah menceritakan kepada kami [Yunus bin Muhammad Al Baghdadi] Telah menceritakan kepada kami [Syaiban] dari [Qatadah] Telah menceritakan kepada kami [Anas bin Malik radliallahu 'anhu] sesungguhnya seseorang yang bertanya, "Wahai Nabiyullah, bagaimana orang kafir bisa dikumpulkan dengan berjalan di atas kepalanya pada hari kiamat?" Nabiyulloh shallallahu 'alaihi wasallam bersabda: "Bukankah Dzat yang menjadikan (orang kafir) berjalan dengan kakinya ketika di dunia, Maha Kuasa untuk menjadikan dia berjalan dengan wajahnya pada hari kiamat? Qatadah berkata; Ya, Demi keagungan Rabb kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4760</td></tr><tr><td>Arabic No</td><td>4760</td></tr><tr><td>Reference</td><td>Book 65 Hadith 282</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса бин Малика, да будет доволен им Аллах, что (как-то раз один) человек спросил:\n«Каким же образом неверный будет собран в День воскресения лицом вниз?» (В ответ ему Пророк ﷺ) сказал: «Разве Тот, по воле Которого он ходил в мире этом на двух ногах, не в силах заставить его влачиться лицом вниз в День воскресения?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4760</td></tr><tr><td>Arabic No</td><td>4760</td></tr><tr><td>Reference</td><td>Book 65 Hadith 282</td></tr></tbody></table></div>
 

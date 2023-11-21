@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Abu Bakr:We were with the Prophet (ﷺ) when a tall p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dari [Bapaknya] dari [Abu 'Utsman] dari ['Abdurrahman bin Abu Bakar radliallahu 'anhuma] berkata: "Kami pernah bersama Nabi shallallahu 'alaihi wasallam tiba-tiba datang seorang lelaki musyrik dengan rambut panjang yang kusut dengan menggiring kambing. Maka Nabi shallallahu 'alaihi wasallam bertanya: "Apakah untuk dijual atau diberikan?" Atau sabdanya: "Atau dihibahkan?" Orang itu menjawab: "Bukan, tapi untuk dijual". Lalu Beliau shallallahu 'alaihi wasallam membeli seekor kambing darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2216</td></tr><tr><td>Arabic No</td><td>2216</td></tr><tr><td>Reference</td><td>Book 34 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Аби Бакр, да будет доволен Аллах им и его отцом, сказал: «(Однажды, когда) мы находились вместе с Пророком ﷺ. Затем очень высокий человек с растрёпанными волосами из числа многобожников пришёл (к нам) и привёл с собой овец. Пророк ﷺ спросил (его): “(Ты) продаёшь (их нам) или даришь?” Он ответил: “Не (дарю), а продаю”, и (Пророк ﷺ) купил у него одну овцу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2216</td></tr><tr><td>Arabic No</td><td>2216</td></tr><tr><td>Reference</td><td>Book 34 Hadith 163</td></tr></tbody></table></div>
 

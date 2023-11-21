@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Samura:The Prophet (ﷺ) said, "Last night two men came to me (in a dre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa] telah bercerita kepada kami [Jarir] telah bercerita kepada kami [Abu Roja'] dari [Samrah]: Nabi shallallahu 'alaihi wasallam bersabda: "Pada malam (Isra' dan Mi'raj) aku ditemui oleh dua malaikat yang mengajakku mendaki sebuah pohon lalu keduanya memasukkan aku ke sebuah negeri (kampung) yang terbaik dan paling utama yang belum pernah aku melihat yang lebih bailk darinya. Kedua malaikat itu berkata: "Adapun negeri ini adalah kampungnya para syuhada' (orang yang mati syahid)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2791</td></tr><tr><td>Arabic No</td><td>2791</td></tr><tr><td>Reference</td><td>Book 56 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Самуры, что Пророк ﷺ сказал: «Этой ночью я видел во сне двух человек, которые пришли ко мне, подняли на дерево и ввели меня в дом, прекраснее которого я никогда не видел. Затем они сказали: “Что же касается того дома, то это дом павших за веру”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2791</td></tr><tr><td>Arabic No</td><td>2791</td></tr><tr><td>Reference</td><td>Book 56 Hadith 9</td></tr></tbody></table></div>
 

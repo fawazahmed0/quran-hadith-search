@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:When anyone amongst you s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah mengabarkan kepada kami [Abu 'Awanah] dan berkata [Qutaibah] juga; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Muhammad keduanya dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang kamu berdiri dari tempat duduknya, kemudian dia kembali lagi ke tempatnya itu, maka dia lebih berhak dengan tempatnya." Sedangkan di dalam Hadist Abu 'Awanah menggunakan lafazh 'Man' (barangsiapa) bukan 'Salah seorang diantara kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5689</td></tr><tr><td>Arabic No</td><td>2179</td></tr><tr><td>Reference</td><td>Book 39 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5689</td></tr><tr><td>Arabic No</td><td>2179</td></tr><tr><td>Reference</td><td>Book 39 Hadith 43</td></tr></tbody></table></div>
 

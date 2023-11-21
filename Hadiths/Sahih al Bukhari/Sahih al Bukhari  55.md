@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud: The Prophet (ﷺ) said, "If a man spends on his family (wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah mengabarkan kepadaku ['Adi bin Tsabit] berkata: Aku pernah mendengar [Abdullah bin Yazid] dari [Abu Mas'ud] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila seseorang memberi nafkah untuk keluarganya dengan niat mengharap pahala maka baginya Sedekah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мас‘уда, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если человек расходует (средства) на свою семью, надеясь только на награду Аллаха, это становится для него садакой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
 

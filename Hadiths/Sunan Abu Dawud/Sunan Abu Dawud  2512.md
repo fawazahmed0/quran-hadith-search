@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuAyyub: AbuImran said: We went out on an expedition from Medina with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Amr bin As Sarh], telah menceritakan kepada kami [Ibnu Wahb], dari [Haiwah bin Syuraih], dan [Ibnu Luhai'ah], dari [Yazid bin Abu Habib], dari [Aslam Abu Imran], ia berkata; kami pergi berperang dari Madinah menuju Al Qusthanthiniyyah, dan kami dipimpin oleh Abdurrahman bin Khalid bin Al Walid, sementara orang-orang Romawi menempelkan punggung mereka pada dinding kota. Kemudian terdapat seseorang yang menyerbu musuh, lalu orang-orang berkata; tahan, tahan! Laa ilaaha illah, ia telah melemparkan dirinya kepada kebinasaan. Kemudian [Abu Ayyub] berkata; sesungguhnya ayat ini turun mengenai kami, orang-orang anshar. Tatkala Allah membela Nabinya dan memenangkan Islam kami berkata; mari kita mengurusi harta kita dan memperbaikinya. Kemudian Allah ta'ala menurunkan ayat: "Dan belanjakanlah (harta bendamu) di jalan Allah, dan janganlah kamu menjatuhkan dirimu sendiri ke dalam kebinasaan." Menjatuhkan diri sendri ke dalam kebinasaan adalah mengurusi harta kami dan memperbaikinya serta meninggalkan jihad. Abu Imran berkata; Abu Ayyub terus berjihad di jalan Allah hingga ia dikuburkan di Qusthanthiniyyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>2512</td></tr><tr><td>Reference</td><td>Book 15 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Аслям ‘Имран рассказывал: «Однажды мы выступили в военный поход из Медины на Константинополь, а возглавлял войсками ‘Абдуррахман, сын Халида ибн аль-Валида. Что же касается византийцев, то они уперлись своими спинами к стене города. Тут некий человек (из числа мусульман) бросился на врага, а люди начали говорить: “Остановись! Остановись! Нет истинного Бога, кроме Аллаха! Он бросает себя на погибель своими руками!” (Услышав это), Абу Аюб (аль-Ансари) сказал: “Этот аят был ниспослан относительно нас, ансаров. Когда Аллах оказал помощь Своему пророку и даровал победу исламу, мы сказали: “(Теперь) займемся нашим имуществом и приведем его в порядок”, и тогда Всевышний Аллах ниспослал (аят, в котором сказано): “И не бросайте себя на погибель своими руками!” (сура “аль-Бакара”, аят 195). Бросание себя на погибель (заключалось в том, что) мы хотели заняться своими имуществом и привести его в порядок, оставив военные походы”.Абу Аюб не прекращал усердствовать на пути Аллаха, пока его не похоронили возле Константинополя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>2512</td></tr><tr><td>Reference</td><td>Book 15 Hadith 36</td></tr></tbody></table></div>
 

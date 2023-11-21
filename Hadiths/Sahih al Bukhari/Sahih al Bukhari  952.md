@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Abu Bakr came to my house while two small Ansari girls were singi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaid bin Isma'il] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Bapaknya] dari ['Aisyah] berkata, "Abu Bakar masuk menemui aku saat itu di sisiku ada dua orang budak tetangga Kaum Anshar yang sedang bersenandung, yang mengingatkan kepada peristiwa pembantaian kaum Anshar pada perang Bu'ats." 'Aisyah menlanjutkan kisahnya, "Kedua sahaya tersebut tidaklah begitu pandai dalam bersenandung. Maka Abu Bakar pun berkata, "Seruling-seruling setan (kalian perdengarkan) di kediaman Rasulullah shallallahu 'alaihi wasallam!" Peristiwa itu terjadi pada Hari Raya 'Ied. Maka bersabdalah Rasulullah shallallahu 'alaihi wasallam: "Wahai Abu Bakar, sesungguhnya setiap kaum memiliki hari raya, dan sekarang ini adalah hari raya kita
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>952</td></tr><tr><td>Arabic No</td><td>952</td></tr><tr><td>Reference</td><td>Book 13 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Абу Бакр вошёл ко мне в то время, когда у меня находились две девушки из числа ансаров, певшие песню о том, что говорили ансары друг другу в день “Бу‘ас”, и они не были певицами». Абу Бакр воскликнул: «(Как может) свирель шайтана (звучать) в доме Посланника Аллаха ﷺ?!» И это было в день праздника. Тогда Посланник Аллаха ﷺ сказал: «О, Абу Бакр, у каждого народа есть свой праздник, а это наш праздник»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>952</td></tr><tr><td>Arabic No</td><td>952</td></tr><tr><td>Reference</td><td>Book 13 Hadith 4</td></tr></tbody></table></div>
 

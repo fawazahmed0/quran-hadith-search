@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to take the Pledge of allegiance from the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Urwah] dari [Aisyah] radliallahu 'anha, mengatakan, Nabi shallallahu 'alaihi wasallam Shallallahu'alaihiwasallam membaiat wanita cukup dengan lisan (tidak berjabat tangan) dengan ayat ini; 'Untuk tidak menyekutukan Allah dengan sesuatu apapun….' sampai akhir (QS. Almumtahanah 12) kata Aisyah; Tangan Rasulullah Shallallahu'alaihiwasallam sama sekali tidak pernah menyentuh wanita selain wanita yang beliau miliki (isterinya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7214</td></tr><tr><td>Arabic No</td><td>7214</td></tr><tr><td>Reference</td><td>Book 93 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Урва (ибн аз-Зубайр) передаёт, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ принимал присягу женщин словами (используя) данный аят: “Они не будут придавать сотоварищей Аллаху, красть, прелюбодействовать, убивать своих детей, покрывать клеветой то, что между их руками и ногами, и не будут ослушаться тебя в благих делах, то прими их присягу и попроси Аллаха простить их. Поистине, Аллах — Прощающий, Милующий” (Сура “аль-Мумтахана”, аят 12)». \nОна сказала: «Рука Посланника Аллаха ﷺ не притрагивалась к руке женщины, за исключением той женщины, которой он владел»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7214</td></tr><tr><td>Arabic No</td><td>7214</td></tr><tr><td>Reference</td><td>Book 93 Hadith 74</td></tr></tbody></table></div>
 

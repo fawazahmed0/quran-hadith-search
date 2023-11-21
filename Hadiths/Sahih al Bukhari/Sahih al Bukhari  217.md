@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Whenever the Prophet (ﷺ) went to answer the call of na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ibrahim] berkata, telah menceritakan kepada kami [Isma'il bin Ibrahim] berkata, telah menceritakan kepadaku [Rauh bin Al Qasim] berkata, telah menceritakan kepadaku ['Atha bin Abu Maimunah] dari [Anas bin Malik] berkata, "Jika Nabi shallallahu 'alaihi wasallam buang hajat aku selalu mendatanginya dengan membawa bejana berisi air, sehingga beliau bisa bersuci dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 4 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Когда Пророк ﷺ выходил (из дома) по нужде, я приносил ему воду, которую он использовал для подмывания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 4 Hadith 83</td></tr></tbody></table></div>
 

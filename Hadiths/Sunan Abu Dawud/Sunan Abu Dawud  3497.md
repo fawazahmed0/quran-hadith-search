@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Messenger of Allah (ﷺ) as saying: If anyone buys a gra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Sulaiman bin Harb] mereka berkata; telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] -dan ini adalah lafazh Musaddad- dari ['Amru bin Dinar] dari [Thawus] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang diantara kalian membeli makanan, maka janganlah ia menjualnya kembali hingga ia menerimanya." [Sulaiman bin Harb] menyebutkan, "Hingga ia memenuhinya." [Musaddad] menambahkan, "Ia berkata, "Ibnu Abbas berkata, "Menurutku bahwa segala sesuatu (berlaku hukumnya) seperti makanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2135) Sahih Muslim (1525)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3497</td></tr><tr><td>Arabic No</td><td>3497</td></tr><tr><td>Reference</td><td>Book 24 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Когда один из вас покупает съестное, пусть не продаёт его, пока не заберёт у продавца». А в версии Сулеймана ибн Харба говорится: «…пока не получит его полностью». Мусаддад упоминал, что Ибн ‘Аббас сказал: «И я думаю, что к съестному (в этом) можно приравнять любой другой товар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2135) Sahih Muslim (1525)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3497</td></tr><tr><td>Arabic No</td><td>3497</td></tr><tr><td>Reference</td><td>Book 24 Hadith 82</td></tr></tbody></table></div>
 

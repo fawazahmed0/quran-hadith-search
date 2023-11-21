@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "If anyone of you leads the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seseorang dari kalian memimpin shalat orang banyak, hendaklah dia meringankannya. Karena di antara mereka ada orang yang lemah, orang yang sakit dan orang berusia lanjut. Namun bila dia shalat sendiri silahkan dia panjangkan sesukanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>703</td></tr><tr><td>Arabic No</td><td>703</td></tr><tr><td>Reference</td><td>Book 10 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что (однажды) Посланник Аллаха ﷺ сказал: «Когда кто-нибудь из вас станет проводить молитву с людьми, пусть облегчает её, ибо, поистине, будут среди них слабые, больные и старые. А если кто-то из вас будет совершать молитву в одиночку, пусть продлевает, как пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>703</td></tr><tr><td>Arabic No</td><td>703</td></tr><tr><td>Reference</td><td>Book 10 Hadith 98</td></tr></tbody></table></div>
 

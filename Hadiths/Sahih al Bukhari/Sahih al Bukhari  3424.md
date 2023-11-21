@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Solomon (the son of) David said, '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Khalid bin Makhlad] telah bercerita kepada kami [Mughirah bin 'Abdur Rahman] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam: bersabda: "Nabi Sulaiman bin Daud 'alaihimas salam berkata; "Suatu malam aku akan menggilir (jima') tujuh puluh orang istriku yang setiap istriku itu akan mengandung (dan melahirkan) seorang penunggang kuda yang akan berjihad di jalan Allah". Kemudian temannya berkata kepadanya; "Ucapkanlah Insya Allah (Jika Allah menghendaki"). Namun Nabi Sulaiman tidak mengucapkan insya Allah sehingga tidak ada satu pun istrinya yang mengandung kecuali satu orang yang kemudian melahirkan anak yang dadanya hilang sebelah (berbadan sebelah). Lalu Nabi shallallahu 'alaihi wasallam bersabda: "Seandainya dia mengucapkan insya-allah pasti anak-anaknya itu akan berjihad di jalan Allah". [Syu'aib] dan [Abu Az Zanad] berkata; "Yang benar istrinya berjumlah tujuh puluh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3424</td></tr><tr><td>Arabic No</td><td>3424</td></tr><tr><td>Reference</td><td>Book 60 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра ﷺ передаёт, что Пророк ﷺ сказал: «Сулейман ибн Дауд сказал: “Этой ночью я обязательно обойду семьдесят (своих) жён, и каждая (из них) забеременеет (и родит) всадника, который будет сражаться на пути Аллаха”. Тогда его спутник сказал ему: “(Скажи:) “Ин шаа-Ллах (Если пожелает Аллах)”, но он не сказал, и никто из них не забеременела, кроме одной, (которая родила) с отпавшей половиной (тела)».\nПророк ﷺ сказал: «Если бы он сказал это, они непременно сражались бы на пути Аллаха».\nШу‘айб передаёт от Абу аз-Зинада, который сказал: «“Девяносто (жён)” — это более достоверно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3424</td></tr><tr><td>Arabic No</td><td>3424</td></tr><tr><td>Reference</td><td>Book 60 Hadith 96</td></tr></tbody></table></div>
 

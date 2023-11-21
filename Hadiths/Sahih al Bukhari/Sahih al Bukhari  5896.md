@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated IsraiI:'Uthman bin 'Abdullah bin Mauhab said, "My people sent me with a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kami [Isra'il] dari [Utsman bin Abdullah bin Mauhab] berkata; "Keluargaku pernah menyuruhku menemui [Ummu Salamah] isteri Nabi shallallahu 'alaihi wasallam dengan membawa mangkuk berisi air, sementara Isra'il memegang mangkuk tersebut menggunakan tiga jarinya yang didalamnya terdapat beberapa helai rambut Nabi shallallahu 'alaihi wasallam yang diikat, apabila ada seseorang yang terkena sihir atau sesuatu, maka tempat mewarnai rambut beliau diberikan kepada Ummu Salamah, lalu aku mendongakkan kepala ke wadah yang menyerupai lonceng, aku melihat rambut beliau sudah berubah merah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5896</td></tr><tr><td>Arabic No</td><td>5896</td></tr><tr><td>Reference</td><td>Book 77 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Исраиля, что ‘Усман ибн ‘Абдуллах ибн Маухаб рассказывал: «Однажды, мои домочадцы послали меня к Умм Саляме, жене Пророка ﷺ, с сосудом воды, в котором был волос Пророка ﷺ. Когда кого-нибудь постигал сглаз или какая-то болезнь, люди посылали к ней, чтобы она дала им этот волос. И я заглянул в ёмкость (в которой хранились волосы Пророка ﷺ) и увидел в ней красные волосы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5896</td></tr><tr><td>Arabic No</td><td>5896</td></tr><tr><td>Reference</td><td>Book 77 Hadith 113</td></tr></tbody></table></div>
 

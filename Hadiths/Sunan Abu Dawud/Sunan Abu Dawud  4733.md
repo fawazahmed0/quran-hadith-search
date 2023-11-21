@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet (May peace be upon him) as saying; Our lord ge
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Abu Salamah bin 'Abdurrahman] dari [Abu Abdullah Al Aghar] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap malam Rabb kita turun ke langit dunia di sepertiga malam yang akhir. Lalu Dia berfirman: "Siapa yang berdoa kepada-Ku maka akan Aku kabulkan, siapa yang meminta kepada-Ku maka akan Aku beri dan siapa yang meminta ampun kepada-Ku maka akan Aku ampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1145) Sahih Muslim (758)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4733</td></tr><tr><td>Arabic No</td><td>4733</td></tr><tr><td>Reference</td><td>Book 42 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Каждую ночь, когда от ночи остаётся лишь треть, наш Господь нисходит к нижнему небу и говорит: “Кто станет обращаться ко Мне с мольбами, чтобы Я ответил ему? Кто станет просить Меня о чём-нибудь, чтобы Я даровал ему это? Кто станет испрашивать у Меня прощения, чтобы Я простил его?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1145) Sahih Muslim (758)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4733</td></tr><tr><td>Arabic No</td><td>4733</td></tr><tr><td>Reference</td><td>Book 42 Hadith 138</td></tr></tbody></table></div>
 

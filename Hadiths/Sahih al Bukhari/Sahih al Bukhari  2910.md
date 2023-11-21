@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:That he proceeded in the company of Allah's Messeng
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku [Sinan bin Abi Sinan Ad-Dualiy] dan [Abu Salamah bin 'Abdur Rahman] bahwa [Jabir bin 'Abdullah radliallahu 'anhuma] mengabarkan bahwa dia berangkat berperang bersama Rasulullah shallallahu 'alaihi wasallam melewati Najed. Ketika Rasulullah shallallahu 'alaihi wasallam kembali dan Jabir pun ikut kembali, mereka menjumpai sungai di bawah lembah yang banyak pepohonannya. Maka Rasulullah shallallahu 'alaihi wasallam turun dan orang-orangpun berpencar mencari tempat berteduh di bawah pohon. Dan Rasulullah shallallahu 'alaihi wasallam singgah berteduh di bawah suatu pohon lalu menggantungkan pedang Beliau pada pohon tersebut kemudian Beliau tidur sejenak. Ketika Rasulullah shallallahu 'alaihi wasallam memanngil kami, dihadapan Beliau ada seorang Baduy. Beliau berkata: "Orang ini telah mengambil pedangku saat aku tidur lalu aku bangun sedang tangannya sudah memegang pedang yang terhunus lalu dia berkata: "Siapa yang dapat melindungimu dariku?" Aku jawab: "Allah" sebanyak tiga kali. Maka orang itu tidak dapat berbuat apa-apa kepada Beliau lalu dia terduduk lemas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2910</td></tr><tr><td>Arabic No</td><td>2910</td></tr><tr><td>Reference</td><td>Book 56 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и отцом, что (в своё время) он вместе с Посланником Аллаха ﷺ участвовал в военном походе на Неджд, и когда Посланник Аллаха ﷺ двинулся в обратный путь, он (тоже) был вместе с ним. Время полуденного отдыха застало их в каком-то вади, густо поросшем терновником, и Посланник Аллаха ﷺ спешился, а люди разошлись среди этого терновника в разные стороны, желая укрыться в тени деревьев. И Посланник Аллаха ﷺ (также) расположился в тени акации, повесив на неё свой меч. Немного поспав, мы вдруг (услышали, что) Посланник Аллаха ﷺ зовёт нас, явились к нему, и оказалось, что рядом с ним сидит какой-то бедуин. Посланник Аллаха ﷺ сказал: «Этот (человек) вытащил из ножен мой меч (и поднял его) на меня, когда я спал, а когда я проснулся, он держал обнажённый меч в своей руке. Он сказал мне: “Кто защитит тебя от меня?” а я ответил (ему) трижды: “Аллах!”». И после этого Посланник Аллаха ﷺ не стал наказывать его
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2910</td></tr><tr><td>Arabic No</td><td>2910</td></tr><tr><td>Reference</td><td>Book 56 Hadith 123</td></tr></tbody></table></div>
 

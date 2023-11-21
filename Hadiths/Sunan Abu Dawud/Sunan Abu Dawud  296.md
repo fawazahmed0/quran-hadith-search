@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Asma' daughter of 'Unais said:I said: Messenger of Allah, Fatimah daughter of Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah] telah mengabarkan kepada kami [Khalid] dari [Suhail bin Abi Shalih] dari [Az-Zuhri] dari [Urwah bin Az-Zubair] dari [Asma' binti 'Umais] dia berkata; Aku pernah berkata, Wahai Rasulullah, sesungguhnya Fathimah binti Abu Hubaisy terkena darah penyakit sejak ini dan ini, sehingga dia tidak shalat. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Subhaanallah (Maha suci Allah), sesungguhnya ini dari setan, hendaklah dia duduk di wadah tempat cucian, apabila ternyata dia melihat warna kuning di atas airnya, hendaklah dia mandi sekaligus untuk shalat Zhuhur dan Ashar, juga mandi sekaligus untuk shalat Maghrib dan Isya, serta mandi sekali untuk shalat Shubuh. Dan hendaklah dia berwudhu untuk setiap kali shalat". Abu Dawud berkata; Diriwayatkan oleh [Mujahid] dari [Ibnu Abbas]; Tatkala terasa berat bagi (Fathimah binti Abu hubaisy) untuk selalu mandi, maka beliau memerintahkannya untuk menjamak antara dua shalat. Abu Dawud berkata; Dan diriwayatkan oleh [Ibrahim] dari [Ibnu Abbas] dan ini adalah perkataan Ibrahim An-Nakha'i dan Abdullah bin Syaddad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>296</td></tr><tr><td>Arabic No</td><td>296</td></tr><tr><td>Reference</td><td>Book 1 Hadith 296</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт ‘Умайс сказала: «Я сказала: “О Посланник Аллаха, у Фатимы бинт Абу Хубайш хроническое кровотечение с таких-то пор и она не совершает молитву. И Посланник Аллаха ﷺ сказал: “Свят Аллах /Субханаллах/, ведь, поистине, это от шайтана. Пусть она садится над тазом, и если увидит на поверхности воды желтизну, то искупается один раз для полуденной /зухр/ и послеполуденной /‘аср/ молитвы, один раз для закатной /магъриб/ и вечерней /‘ишаъ/ молитвы, а также один раз для утренней молитвы. А между ними совершит омовение /вудуъ/».Абу Дауд сказал: «Этот хадис также передал Муджахид со слов Ибн ‘Аббаса, в котором сообщается, что когда ей стало утомительно купаться, он велел ей объединять молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>296</td></tr><tr><td>Arabic No</td><td>296</td></tr><tr><td>Reference</td><td>Book 1 Hadith 296</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) commanded the killing of a snake ha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami ['Abdah bin Sulaiman] dan [Ibnu Numair] dari [Hisyam]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami; [Abu Kuraib] Telah menceritakan kepada kami [Abdah] Telah menceritakan kepada kami [Hisyam] dari [Bapakknya] dari ['Aisyah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam memerintahkan supaya membunuh ular bergaris dua putih di punggungnya, karena ular itu dapat membutakan mata dan mencelakakan kandungan perempuan yang hamil." Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim] Telah mengabarkan kepada kami [Abu Mu'awiyah] Telah mengabarkan kepada kami [Hisyam] melalui jalur ini namun dia menggunakan lafazh 'Abtar' (putus ekornya) dan 'dzu At Tufyatain (bergaris dua putih di punggungnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5823</td></tr><tr><td>Arabic No</td><td>2232.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5823</td></tr><tr><td>Arabic No</td><td>2232.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 175</td></tr></tbody></table></div>
 

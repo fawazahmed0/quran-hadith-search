@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Aun:Once Musa bin Anas while describing the battle of Yamama, said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin 'Abdul Wahhab] telah bercerita kepada kami [Khalid bin Al Harits] telah bercerita kepada kami [Ibnu 'Aun] dari [Musa bin Anas] berkata, lalu dia bercerita tentang peperangan Yamamah, katanya; [Anas] menemui [Tsabit bin Qais] dimana kedua pahanya terbuka ketika dia sedang mengoleskan wewangian. Lalu Anas bertanya kepadanya: "Wahai paman, apakah yang menghalangimu sehingga kamu tidak datang (pada peperangan)? ' Pamannya berkata: "wahai kemenakanku aku baru saja datang", lalu dia melumuri tubuhnya dengan hanuth (minyak wangi yang biasa dioleskan kepada mayyit) kemudian masuk dalam barisan, setelah itu Anas bercerita bahwa orang-orang melarikan diri dari pertempuran, maka Tsabit bin Qais berkata" begitu? menyingkirlah, lapangkan jalanku hingga dapat menyerang musuh, bersama Rasulullah shallallahu 'alaihi wasallam kami tidak pernah seperti ini (lari dari musuh) alangkah buruknya perilaku yang kalian ambil dari musuh". Diriwayatkan oleh [Hammad] dari [Tsabit] dari [Anas]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2845</td></tr><tr><td>Arabic No</td><td>2845</td></tr><tr><td>Reference</td><td>Book 56 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что в день Йамамы он пришёл к Сабиту ибн Кайсу, который обнажил свои бёдра и мазал их ханутом. (Анас) спросил: «О дядя, что мешает тебе (принять участие в бою)?» (В ответ Сабит) сказал: «Сейчас, о племянник», (после чего) он продолжил натирать себя ханутом, а потом пришёл и уселся (среди других бойцов). Затем (Анас) упомянул, что люди обратились в бегство, (что же касается Сабита, то он) сказал: «Прочь с дороги, чтобы мы сразились с этими людьми! Не так мы поступали, когда (сражались) вместе с посланником Аллаха ﷺ, а вы приучили ваших врагов к дурному!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2845</td></tr><tr><td>Arabic No</td><td>2845</td></tr><tr><td>Reference</td><td>Book 56 Hadith 61</td></tr></tbody></table></div>
 

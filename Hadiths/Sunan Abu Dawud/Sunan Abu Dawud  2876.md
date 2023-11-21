@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Khabbab:Mus'ab b. 'Umar was killed at the battle of Uhud, and for him o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Abu Wail], dari [Khabbab], ia berkata; Mush'ab bin 'Umair telah terbunuh pada saat perang Uhud, dan ia hanya memiliki sehelai kain, apabila kami menutup kepalanya maka kedua kakinya keluar, dan apabila kami tutup kedua kakinya maka keluar kepalanya. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Tutuplah kepalanya menggunakan kain tersebut dan letakkan idzkhir di atas kedua kakinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1276) Sahih Muslim (940)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2876</td></tr><tr><td>Arabic No</td><td>2876</td></tr><tr><td>Reference</td><td>Book 18 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хаббаба, да будет доволен им Аллах: «Мус‘аб ибн ‘Умайр был убит в день битвы при Ухуде, и у него не было ничего, кроме его плаща. Однако, когда мы покрывали им голову, неприкрытыми оставались ноги, когда же мы покрывали им ноги, то неприкрытой оставалась голова, и Посланник Аллаха ﷺ сказал: “Прикройте им его голову, а на ноги набросайте душистого тростника”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1276) Sahih Muslim (940)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2876</td></tr><tr><td>Arabic No</td><td>2876</td></tr><tr><td>Reference</td><td>Book 18 Hadith 15</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been reported on the authority of Ibn Umar (Allah be pleased wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Ubaidullah] telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] bahwasanya; "Rasulullah shallallahu 'alaihi wasallam biasanya mendatangi Masjid Quba' dengan berkendaraan dan berjalan kaki." Dan telah menceritakan kepadaku [Abu Ma'n Ar Raqasyi Zaid bin Yazid Ats Tsaqafi Bashari Tsiqqah] telah menceritakan kepada kami [Khalid bin Harits] dari [Ibnu 'Ajlan] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam, dengan hadits yang serupa dengan hadits Yahya Al Qaththan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3392</td></tr><tr><td>Arabic No</td><td>1399.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 596</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3392</td></tr><tr><td>Arabic No</td><td>1399.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 596</td></tr></tbody></table></div>
 

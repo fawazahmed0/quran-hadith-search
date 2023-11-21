@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger as saying:The two rak'ahs at dawn are better t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid Al Ghabari] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Zurarah bin Aufa] dari [Sa'd bin Hisyam] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Dua rakaat fajar lebih baik daripada dunia seisinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1688</td></tr><tr><td>Arabic No</td><td>725.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что Пророк ﷺ сказал: «Два рак‘ата (добровольной) утренней молитвы лучше мира этого и (всего), что в нём есть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1688</td></tr><tr><td>Arabic No</td><td>725.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 118</td></tr></tbody></table></div>
 

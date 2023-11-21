@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Samurah ibn Jundub: The Prophet (ﷺ) said: To begin with, anyone who c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Daud bin Sufyan], ia berkata; telah menceritakan kepada kami [Yahya bin Hassan], ia berkata; telah menceritakan kepada kami [Sulaiman bin Musa], Abu Daud berkata; telah menceritakan kepada kami [Ja'far bin Sa'd bin Samurah bin Jundub], telah menceritakan kepadaku [Khubaib bin Sulaiman] dari [ayahnya yaitu Sulaiman bin Samurah] dari [Samurah bin Jundub], ia berkata; adapun selanjutnya, dan Rasulullah shallallahu 'alaihi wasallam pernah berkata: "Barangsiapa yang menyembunyikan orang yang berkhianat maka ia seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2716</td></tr><tr><td>Arabic No</td><td>2716</td></tr><tr><td>Reference</td><td>Book 15 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2716</td></tr><tr><td>Arabic No</td><td>2716</td></tr><tr><td>Reference</td><td>Book 15 Hadith 240</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar (Allah be pleased with them) reported that the Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] dan [Ahmad bin Isa] -Ahmad berkata- Telah menceritakan kepada kami -dan Harmalah berkata- telah mengabarkan kepadaku [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] bahwa [Ubaidullah bin Abdullah bin Umar] telah mengabarkan kepadanya, dari [Abdullah bin Umar] radliallahu 'anhuma, bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam memulai hajinya dengan bermalam di Dzulhulaifah dan melaksanakan shalat di masjidnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2823</td></tr><tr><td>Arabic No</td><td>1188</td></tr><tr><td>Reference</td><td>Book 15 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2823</td></tr><tr><td>Arabic No</td><td>1188</td></tr><tr><td>Reference</td><td>Book 15 Hadith 33</td></tr></tbody></table></div>
 

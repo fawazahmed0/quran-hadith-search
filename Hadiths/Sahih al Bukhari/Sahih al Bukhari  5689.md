@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:Aisha used to recommend at-Talbina for the sick and for such a pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hibban bin Musa] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus bin Yazid] dari ['Uqail] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] radliallahu 'anha bahwa dia memerintahkan untuk menkonsumsi talbinah (adonan yang terbuat dari gandum dan buah kurma) untuk orang yang sakit dan orang yang sedih karena musibah yang menimpanya, dia juga berkata; "Sesungguhnya saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya talbinah (adonan yang terbuat dari gandum dan buah kurma) itu dapat menyembuhkan hati yang sakit dan menghilangkan kesedihan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5689</td></tr><tr><td>Arabic No</td><td>5689</td></tr><tr><td>Reference</td><td>Book 76 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Урвы, что ‘Аиша, да будет доволен ею Аллах, повелевала готовить тальбину для больного и тех, кто скорбел по умершему. И она говорила: «Я слышала, как Посланник Аллаха ﷺ говорил: “Тальбина успокаивает сердце больного и уносит с собой часть (его) печали”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5689</td></tr><tr><td>Arabic No</td><td>5689</td></tr><tr><td>Reference</td><td>Book 76 Hadith 12</td></tr></tbody></table></div>
 

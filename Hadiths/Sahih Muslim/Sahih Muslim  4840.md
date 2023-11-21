@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abdullah b. Umar that the Messenger of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Rumh] telah mengabarkan kepada kami [Al Laits] dari [Nafi'] dari [Abdullah bin Umar] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau melarang membawa Mushaf Al Qur'an ke negeri musuh, karena beliau khawatir apabila nantinya akan diambil musuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4840</td></tr><tr><td>Arabic No</td><td>1869.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4840</td></tr><tr><td>Arabic No</td><td>1869.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 136</td></tr></tbody></table></div>
 

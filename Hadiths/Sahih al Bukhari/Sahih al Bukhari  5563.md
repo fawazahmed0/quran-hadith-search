@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':One day Allah's Messenger (ﷺ) offered the 'Id prayer and sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Firas] dari ['Amir] dari [Al Barra'] dia berkata; "Pada suatu hari Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat, setelah itu beliau bersabda: "Barangsiapa mengerjakan shalat seperti shalat kami, dan menghadap kiblat kami, hendaknya tidak menyembelih binatang kurban sehingga selesai mengerjakan shalat." Lalu Abu Burdah bin Niyar berdiri dan berkata; "Wahai Rasulullah, padahal aku telah melakukannya." Beliau bersabda: "Itu adalah ibadah yang kamu kerjakan dengan tergesa-gesa." Abu Burdah berkata; "Sesungguhnya aku masih memiki jad'ah (anak kambing yang berusia dua tahun) dan dia lebih baik daripada dua ekor kambing muda, apakah aku juga harus menyembelihnya untuk berkurban? Beliau bersabda: "Ya, namun hal itu tidak sah untuk orang lain setelahmu." Amir berkata; "Itu lebih baik daripada ibadah kurban yang kamu lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5563</td></tr><tr><td>Arabic No</td><td>5563</td></tr><tr><td>Reference</td><td>Book 73 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара сказал: «Однажды Посланник Аллаха ﷺ совершил праздничную молитву и сказал: “Пусть тот, кто совершает с нами молитву и обращается в сторону нашей киблы, не совершает жертвоприношение, пока не совершит (праздничную) молитву”. Тогда поднялся Абу Бурда ибн Нияр и сказал: “О Посланник Аллаха, я уже это сделал”. Пророк ﷺ сказал: “Ты поспешил”. Абу Бурда сказал: “У меня есть годовалая козочка, которая лучше двух двухгодовалых, мне зарезать её?” Тогда Пророк ﷺ сказал: “Да, однако такое жертвоприношение не будет действительным ни для кого после тебя”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5563</td></tr><tr><td>Arabic No</td><td>5563</td></tr><tr><td>Reference</td><td>Book 73 Hadith 19</td></tr></tbody></table></div>
 

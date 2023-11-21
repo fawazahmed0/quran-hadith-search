@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Amr Ibn Al-'As (رضي الله عنهما), le Proph�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Daud bin Amru Adhubay] Telah menceritakan kepada kami [Nafi' bin Umar Al Jumahi] dari [Ibnu Abu Mulaikah] dia berkata; [Abdullah bin Amru bin Ash] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Luas telagaku sejauh sebulan perjalanan. Setiap sisinya sama panjangnya. Airnya lebih putih dari perak, Baunya lebih harum dari kesturi. Gemerlapan cahayanya bagaikan sinar bintang di langit. Siapa yang minum dari telaga itu tidak akan haus selama-lamanya sesudah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5971</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается со слов ‘Абдуллаха бин ‘Амра бин аль-‘Аса, да будет доволен им Аллах, сообщившего, что Пророк ﷺ сказал: «Для того, чтобы обойти мой водоём, потребуется месяц пути, углы его равны между собой, вода его белее молока, благоухание его приятнее аромата мускуса, а кувшины, стоящие на берегах его, (по численности своей) подобны звёздам небесным, и каждый из испивших воды его уже никогда не ощутит жажды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5971</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Avoid the seven great destructive 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin Abdullah] telah menceritakan kepada kami [Sulaiman] dari [Tsaur bin Zaid] dari [Abul Ghaits] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda; "Jauhilah tujuh dosa besar yang membinasakan." Para sahabat bertanya; 'Ya Rasulullah, apa saja tujuh dosa besar yang membinasakan itu? ' Nabi menjawab; "menyekutukan Allah, sihir, membunuh jiwa yang Allah haramkan tanpa alasan yang benar, makan riba, makan harta anak yatim, lari dari medan perang, dan menuduh wanita mukmin baik-baik melakukan perzinahan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6857</td></tr><tr><td>Arabic No</td><td>6857</td></tr><tr><td>Reference</td><td>Book 86 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Передаётся от Абу Хурайры, да будет доволен им Аллах, что однажды Пророк ﷺ сказал: «Избегайте совершения) семи губительных грехов». Люди спросили: «О Посланник Аллаха, а что это за грехи?» Он сказал: «Поклонение другим наряду с Аллахом, колдовство, убийство человека, которого Аллах запретил убивать иначе как по праву, ростовщичество, проедание имущества сироты, отступление в день наступления и обвинение в прелюбодеянии целомудренных верующих женщин, проявляющих беспечность»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6857</td></tr><tr><td>Arabic No</td><td>6857</td></tr><tr><td>Reference</td><td>Book 86 Hadith 79</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما) : Interrogé au sujet du lézard
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Rumh] telah mengabarkan kepada kami [Al Laits] dari [Nafi'] dari [Ibnu Umar] dia berkata, "Seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai makan daging biawak, beliau lalu menjawab: "Saya tidak memakannya dan juga tidak mengharamkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5028</td></tr><tr><td>Arabic No</td><td>1943.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5028</td></tr><tr><td>Arabic No</td><td>1943.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 57</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar reported Allah's Apostle (ﷺ) as saying:The finest act of good
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami ['Abdullah bin Wahb]; Telah mengabarkan kepadaku [Haiwah bin Syuraih] dari [Ibnu Al Hadi] dari ['Abdullah bin Dinar] dari ['Abdullah bin 'Umar] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya kebajikan yang utama ialah apabila seseorang melanjutkan hubungan (silaturrahim) dengan keluarga sahabat baik ayahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6514</td></tr><tr><td>Arabic No</td><td>2552.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6514</td></tr><tr><td>Arabic No</td><td>2552.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 14</td></tr></tbody></table></div>
 

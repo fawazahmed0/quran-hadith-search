@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) heard a man reciting the Qur'an at night,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Raja'] Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] ia berkakta; Rasulullah shallallahu 'alaihi wasallam pernah mendengar seseorang membaca suatu surat di malam hari, maka beliau pun bersabda: "Semoga Allah merahmati si Fulan, sungguh, ia telah mengingatkanku ayat ini dan ini aku telah dilupakan dari surat ini dan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5038</td></tr><tr><td>Arabic No</td><td>5038</td></tr><tr><td>Reference</td><td>Book 66 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Услышав, как один человек читал ночью суру из Корана, Посланник Аллаха ﷺ сказал: “Да помилует его Аллах! Он напомнил мне такие-то аяты из таких-то сур, которые я забыл”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5038</td></tr><tr><td>Arabic No</td><td>5038</td></tr><tr><td>Reference</td><td>Book 66 Hadith 62</td></tr></tbody></table></div>
 

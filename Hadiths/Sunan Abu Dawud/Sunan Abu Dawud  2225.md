@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Dawud said “I heard Muhammad bin Isa narrating this tradition who said Mu�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Az Za'farani], Telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Al Hakam bin Aban] dari [Ikrimah] bahwa seorang laki-laki telah menzhihar isterinya kemudian ia melihat putih betisnya dalam cahaya rembulan, lalu ia menggaulinya, dan datang kepada Nabi shallallahu 'alaihi wasallam. Lalu beliau memerintahkannya agar membayar kafarah. Telah menceritakan kepada kami [Ziyad bin Ayyub], Telah menceritakan kepada kami [Isma'il], telah menceritakan kepada kami [Al Hakam bin Aban] dari [Ikrimah] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam seperti itu, dan ia tidak menyebutkan betis. Telah menceritakan kepada kami [Abu Kamil] bahwa [Abdul Aziz bin Al Mukhtar] telah menceritakan kepada mereka; telah menceritakan kepada kami [Khalid], telah menceritakan kepadaku [seseorang] dari [Ikrimah] dari Nabi shallallahu 'alaihi wasallam dengan hadits seperti hadits Sufyan. Abu Daud berkata; aku mendengar [Muhammad bin Isa] menceritakan mengenainya. Telah menceritakan kepada kami [Al Mu'tamir], ia berkata; aku telah mendengar [Al Hakam bin Aban], ia menceritakan dengan hadits ini dan tidak menyebutkan Ibnu Abbas. Ia mengatakannya dari [Ikrimah]. Abu Daud berkata; [Al Husain bin Huraits] menulis surat kepadaku, ia berkata; telah mengabarkan kepada kami [Al Fadhl bin Musa] dari [Ma'mar] dari [Al Hakam bin Aban], dari [Ikrimah] dari [Ibnu Abbas] secara makna dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2225</td></tr><tr><td>Arabic No</td><td>2225</td></tr><tr><td>Reference</td><td>Book 13 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Дауд упомянул о том, что одним путём этот хадис передаётся без упоминания Ибн ‘Аббаса аль-Хакам ибн Абан передаёт его от ‘Икримы, но другим путём. Он передаётся также аль-Хакамом ибн Абаном со слов ‘Икримы от Ибн ‘Аббаса от Пророка ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2225</td></tr><tr><td>Arabic No</td><td>2225</td></tr><tr><td>Reference</td><td>Book 13 Hadith 51</td></tr></tbody></table></div>
 

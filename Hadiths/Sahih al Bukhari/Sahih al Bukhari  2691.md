@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:It was said to the Prophet (ﷺ) "Would that you see 'Abdullah bin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mu'tamir] berkata, aku mendengar [bapakku] bahwa [Anas radliallahu 'anhu] berkata: "Dikatakan kepada Nabi shallallahu 'alaihi wasallam "Sebaiknya Baginda menemui 'Abdullah bin Ubay." Maka Nabi shallallahu 'alaihi wasallam menemuinya dengan menunggang keledai sedangkan Kaum Muslimin berangkat bersama Beliau dengan berjalan kaki melintasi tanah yang tandus. Ketika Nabi shallallahu 'alaihi wasallam menemuinya, ia berkata: "Menjauhlah dariku, demi Allah, bau keledaimu menggangguku". Maka berkatalah seseorang dari kaum Anshar diantara mereka: "Demi Allah, sungguh keledai Rasulullah shallallahu 'alaihi wasallam lebih baik daripada kamu". Maka seseorang dari kaumnya marah demi membela 'Abdullah bin Ubay dan ia mencelanya sehingga marahlah setiap orang dari masing-masing kelompok. Saat itu kedua kelompok saling memukul dengan pelepah kurma, tangan, dan sandal. Kemudian sampai kepada kami bahwa telah turun ayat QS. Al Hujurat: 10 yang artinya ("jika dua kelompok dari kaum muslimin berperang maka damaikanlah keduanya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2691</td></tr><tr><td>Arabic No</td><td>2691</td></tr><tr><td>Reference</td><td>Book 53 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, что однажды люди сказали Пророку ﷺ: «Не пойти ли тебе к ‘Абдуллаху ибн Убаю?» И Пророк ﷺ сел на своего осла и отправился вместе с мусульманами, которые шли по соленой бесплодной земле. Когда Пророк ﷺ прибыл к нему, Ибн Убай сказал: «Отойди от меня! Клянусь Аллахом, мне плохо от зловонья твоего осла». Тогда один человек из числа ансаров сказал: «Клянусь Аллахом! От осла Посланника Аллаха ﷺ пахнет лучше, чем от тебя». Один человек из племени ‘Абдуллаха разгневался, и они начали оскорблять друг друга, затем остальные тоже вмешались, и они стали бить друг друга пальмовыми ветками, руками и сандалиями. Нам сообщили, что тогда было ниспослано: «Если две группы верующих сражаются между собой, то примирите их» (сура «аль-Худжурат», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2691</td></tr><tr><td>Arabic No</td><td>2691</td></tr><tr><td>Reference</td><td>Book 53 Hadith 2</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once the Prophet (ﷺ) got his blood out (medically) and pai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Khalid] dia adalah putra dari 'Abdullah telah menceritakan kepada kami [Khalid] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Rasulullah shallallahu 'alaihi wasallam berbekam dan membayar orang yang membekamnya. Seandainya berbekam itu haram, tentu Beliau tidak akan memberi upah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2103</td></tr><tr><td>Arabic No</td><td>2103</td></tr><tr><td>Reference</td><td>Book 34 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) Пророку ﷺ пустили кровь и он заплатил тому, кто это сделал, а если бы это было запретным, он не стал бы платить ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2103</td></tr><tr><td>Arabic No</td><td>2103</td></tr><tr><td>Reference</td><td>Book 34 Hadith 56</td></tr></tbody></table></div>
 

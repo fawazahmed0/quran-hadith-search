@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Abu Ya'qub] dan [Muhammad bin Yahya bin Faris] keduanya berkata; telah menceritakan kepada kami [Ya'qub] ia berkata; telah menceritakan kepada kami [Bapakku] dari [Ibnu Syihab] dari [Abu Salamah bin 'Abdurrahman] dan ['Abdurrahman Al A'raj] dari [Abu Hurairah] ia berkata, "Seorang laki-laki Yahudi berkata 'Demi Dzat Yang mengutus Musa', lalu seorang laki-laki muslim mengangkat tangannya seraya menampar laki-laki Yahudi tersebut. Yahudi tersebut pergi menemui Rasulullah shallallahu 'alaihi wasallam dan mengabarkan hal tersebut kepada beliau. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian melebih-lebihkan aku di atas Musa. (Pada hari kiamat) manusia akan pingsan, dan aku adalah orang yang paling pertama sadar. Namun ternyata Musa telah berpegangan di sisi Al Arsy, aku tidak tahu apakah beliau termasuk orang yang pingsan lalu sadar sebelum aku atau termasuk orang yang Allah kecualikan." Abu Dawud berkata, "Hadits Ibnu Yahya lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2411) Sahih Muslim (2377)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4671</td></tr><tr><td>Arabic No</td><td>4671</td></tr><tr><td>Reference</td><td>Book 42 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Не должен раб Аллаха говорить, что я лучше Йунуса ибн Матты”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2411) Sahih Muslim (2377)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4671</td></tr><tr><td>Arabic No</td><td>4671</td></tr><tr><td>Reference</td><td>Book 42 Hadith 76</td></tr></tbody></table></div>
 

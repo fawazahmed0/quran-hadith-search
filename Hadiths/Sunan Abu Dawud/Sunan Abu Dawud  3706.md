@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah, Ummul Mu'minin: Kabshah, daughter of AbuMaryam, asked Umm 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Tsabit bin 'Umarah] telah menceritakan kepadaku [Raithah] dari [Kabsyah binti Abu Maryam] ia berkata, "Aku pernah bertanya kepada [Ummu Salamah], "Apa yang dilarang Rasulullah shallallahu 'alaihi wasallam? Ia menjawab, "Beliau melarang kami untuk memasak biji kurma hingga matang, atau mencampurkan antara anggur dan kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3706</td></tr><tr><td>Arabic No</td><td>3706</td></tr><tr><td>Reference</td><td>Book 27 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Кабши бинт Абу Марьям: «Я спросила Умм Саляму о том, что Пророк ﷺ запрещал, и она ответила: “Он запрещал нам вываривать финиковые косточки при приготовлении напитков, а также настаивать вместе изюм и сушёные финики”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3706</td></tr><tr><td>Arabic No</td><td>3706</td></tr><tr><td>Reference</td><td>Book 27 Hadith 38</td></tr></tbody></table></div>
 

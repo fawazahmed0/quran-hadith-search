@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) kissed me and did not perform 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Yahya] dan [Abdurrahman] mereka berdua berkata; Telah menceritakan kepada kami [Sufyan] dari [Abu Rauq] dari [Ibrahim At-Taimi] dari [Aisyah] bahwasanya Nabii shallallahu 'alaihi wasallam pernah menciumnya namun beliau tidak berwudhu. Abu Dawud berkata; Beginilah yang diriwayatkan oleh [Al-Firyabi]. Abu Dawud berkata; Ia adalah Mursal. Ibrahim At-Taimi tidak pernah mendengar hadits dari Aisyah. Abu Dawud berkata; Ibrahim At-Taimi meninggal dunia sebelum sampai berumur empat puluh tahun. Kuniyahnya adalah Abu Asma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>178</td></tr><tr><td>Arabic No</td><td>178</td></tr><tr><td>Reference</td><td>Book 1 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибрахим ат-Тайми передал со слов ‘Аиши о том, что «Пророк ﷺ поцеловал ее и не совершил омовение (заново)».Абу Дауд сказал: «Этот хадис является отосланным /мурсаль/ и Ибрахим ат-Тайми не слышал его от ‘Аиши».Абу Дауд сказал: «Ибрахим ат-Тайми умер, не дожив до сорока лет, а его куньей было Абу Асмаъ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>178</td></tr><tr><td>Arabic No</td><td>178</td></tr><tr><td>Reference</td><td>Book 1 Hadith 178</td></tr></tbody></table></div>
 

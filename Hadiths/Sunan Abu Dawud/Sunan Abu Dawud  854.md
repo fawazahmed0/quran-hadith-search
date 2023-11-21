@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Barab. Azib said:I witnessed Muhammed(ﷺ) –Abu Kamil’s version has the w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Abu Kamil], hadits riwayat mereka berdua saling melengkapi antara yang satu dengan yang lain, keduanya berkata; telah menceritakan kepada kami [Abu 'Awanah] dari [Hilal bin Abu Humaid] dari [Abdurrahman bin Abu Laila] dari [Al Barra' bin 'Azib] dia berkata; "Aku memperhatikan Muhammad shallallahu 'alaihi wasallam -Abu Kamil mengatakan; "Rasulullah shallallahu 'alaihi wasallam"- ketika beliau shalat, maka aku mendapati (lama) berdirinya seperti ketika ruku', sujud dan sujudnya, dan aku dapati i'tidal dari ruku' sujud dan duduk di antara dua sujud serta duduk beliau antara salam dan selesai shalat hampir sama lamanya." Abu Daud mengatakan; Musaddad mengatakan; "Maka ruku'nya, i'tidal beliau antara dua raka'at, sujudnya, duduk di antara dua sujud, sujudnya, dan duduk antara salam dan selesai dari shalat (lamanya) hampir sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>854</td></tr><tr><td>Arabic No</td><td>854</td></tr><tr><td>Reference</td><td>Book 2 Hadith 464</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Аль-Бара ибн ‘Азиб, да будет доволен им Аллах: «Я наблюдал за Мухаммадом (или: посланником Аллаха ﷺ) во время молитвы и заметил, что на совершение поясного и земного поклона у него уходило столько же времени, сколько и на стояние. На выпрямление после поясного поклона у него уходило столько же времени, сколько и на совершение земного поклона, а сидение между двумя земными поклонами занимало у него почти столько же времени, сколько и сидение между таслимом и покиданием (места, на котором он совершал молитву)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>854</td></tr><tr><td>Arabic No</td><td>854</td></tr><tr><td>Reference</td><td>Book 2 Hadith 464</td></tr></tbody></table></div>
 

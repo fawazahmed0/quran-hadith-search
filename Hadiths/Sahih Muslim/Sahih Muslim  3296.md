@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Narrated Usama b. Zaid :Usama b. Zaid (Allah be pleased with him) said: Allah's 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakannya kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Muhammad bin Abu Hafshah] dan [Zam'ah bin Shalih] keduanya berkata, [Ibnu Syihab] dari [Ali bin Husain] dari [Amru bin Utsman] dari [Usamah bin Zaid] bahwa ia pernah bertanya, "Wahai Rasulullah, di manakah Anda akan singgah esok hari Insya Allah?" yakni pada zaman Fathu Makkah. Beliau pun bersabda: "Apakah Aqil meninggalkan rumah untuk kami?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3296</td></tr><tr><td>Arabic No</td><td>1351.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 500</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3296</td></tr><tr><td>Arabic No</td><td>1351.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 500</td></tr></tbody></table></div>
 

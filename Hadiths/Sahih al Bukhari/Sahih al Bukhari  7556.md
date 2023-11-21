@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The delegates of 'Abdul Qais came to Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [Abu 'Ashim] telah menceritakan kepada kami [Qurrah bin Khalid] telah menceritakan kepada kami [Abu Jamrah Adl Dluba'i] saya mengajukan suatu pertanyaan kepada [Ibn Abbas] lalu ia berkata, "Pernah serombongan utusan Abdul Qais menemui Rasulullah shallallahu 'alaihi wasallam dan berujar, 'Antara kami dan engkau ada orang-orang musyrik dari Mudlar, dan kami tidak bisa menjalin hubungan denganmu selain di bulan-bulan haram, maka perintahkanlah kami dengan hal-hal yang penting saja yang sekiranya kami lakukan maka kami masuk surga, dan kami bisa mengajak generasi kami kepadanya." Nabi menjawab: "Aku perintahkan kalian empat hal dan aku larang kalian empat hal. Aku perintahkan kalian untuk beriman kepada Allah, tahukah kalian keimanan kepada Allah? Yaitu persaksian bahwa tiada sesembahan yang hak selain Allah, mendirikan shalat, membayar zakat, dan kalian berikan seperlima bagian ghanimah. Dan aku larang kalian empat hal, agar kalian tidak meminum dalam ad-Dubba', an-Naqir, azh-Zhuruf al-Muzaffat, dan al-Hantamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7556</td></tr><tr><td>Arabic No</td><td>7556</td></tr><tr><td>Reference</td><td>Book 97 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен ими обоими Аллах, что он сказал: «Делегация ‘абдулькайса прибыла к Посланнику Аллаха ﷺ и сказала: “Воистину, нас от тебя отделяют многобожники из (племени) мудар, поэтому мы не можем приходить к тебе, кроме как в священные месяцы. Поведай нам о (таком) деле, если которое мы совершим, то войдем в рай посредством него, и к которому мы будем призывать оставшихся позади нас!”. (Пророк ﷺ) сказал: “Я повелеваю вам четыре (вещи) и запрещаю вам четыре (вещи). Повелеваю вам (соблюдать) веру в Аллаха. Знаете ли вы, что такое вера в Аллаха? (Это —) свидетельство, что нет иного божества, достойного поклонения, кроме Него! (А также повелеваю вам) совершать молитву, выплачивать закят и выделять пятую часть военной добычи. И я запрещаю вам четыре (вещи): не пейте ни из (сосуда) дуббы [1], ни (из) накыра[2], ни (из) музаффата[3], ни (из) хантамы![4]”»\n[1] «Дубба» — сосуды для вина из высушенных тыкв.\n[2] «Накыр» — сосуды для вина, выдолбленные из корней пальмы.\n[3] «Музаффат» — сосуд для вина, бока которого обмазывались смолой.\n[4] «Хантам» — кувшины, изготовлявшиеся из глины, в которую добавляли шерсть и кровь. Прежде в таких кувшинах в Медину привозили вино. Впоследствии запрет на использование таких сосудов был отменён, но запрет на употребление любых алкогольных напитков остался в силе.\nИмеется в виду, что Пророк ﷺ запретил употреблять то, для чего эти сосуды и кувшины предназначались
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7556</td></tr><tr><td>Arabic No</td><td>7556</td></tr><tr><td>Reference</td><td>Book 97 Hadith 181</td></tr></tbody></table></div>
 

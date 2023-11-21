@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aqra' ibn Habib: Ibn Abbas said: Aqra' ibn Habis asked the Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Zuhair bin Harb] dan [Utsman bin Abu Syaibah] secara makna, mereka berkata; telah menceritakan kepada Kami [Yazid bin Harun], dari [Sufyan bin Husain] dari [Az Zuhri] dari [Abu Sinan] dari [Ibnu Abbas] bahwa Al Aqra' bin Habis bertanya kepada Nabi shallallahu 'alaihi wasallam, ia berkata; wahai Rasulullah, apakah haji wajib pada setiap tahun atau satu kali? Beliau bersabda: "Satu kali, barang siapa yang menambahkan maka hal tersebut adalah sebuah sunah." Abu Daud berkata; ia adalah Abu Sinan Ad Duali demikian yang dikatakan [Abdul Jalil bin Humaid] serta [Sulaiman bin Katsir] dari [Az Zuhri], sedangkan ['Uqail] mengatakan; dari [Sinan]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1721</td></tr><tr><td>Arabic No</td><td>1721</td></tr><tr><td>Reference</td><td>Book 11 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что аль-Акра‘ ибн Хабис спросил Пророка ﷺ: «О Посланник Аллаха! Мы должны совершать хадж каждый год или только один раз?» Он ответил: «Нет, только один раз, а если кто-то совершит больше, то это будет уже дополнительным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1721</td></tr><tr><td>Arabic No</td><td>1721</td></tr><tr><td>Reference</td><td>Book 11 Hadith 1</td></tr></tbody></table></div>
 

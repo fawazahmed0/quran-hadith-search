@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:I came and behold, Allah's Messenger (ﷺ) was staying on a Mashr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Sulaiman bin Bilal] dari [Yahya] dari ['Ubaid bin Hunain] ia mendengar [Ibnu Abbas] dari [Umar] radliallahu 'anhum berkata, "Aku datang, tak tahunya Rasulullah shallallahu 'alaihi wasallam sedang berada sebuah tempat minumnya, dan pelayan Rasulullah shallallahu 'alaihi wasallam yang hitam sedang berada puncak tangga. Aku katakan 'Tolong sampaikan, Aku Umar bin Khattab! Nabi pun mengijinkanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7263</td></tr><tr><td>Arabic No</td><td>7263</td></tr><tr><td>Reference</td><td>Book 95 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар, да будет доволен им Аллах, сказал: «Когда я пришёл, то застал, что Посланник Аллаха ﷺ находился в своей комнате, у которой сидел чернокожий слуга Посланника Аллаха ﷺ. И я сказал: «Сообщи (Пророку ﷺ), что это ‘Умар ибн аль-Хаттаб», и он позволил мне войти
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7263</td></tr><tr><td>Arabic No</td><td>7263</td></tr><tr><td>Reference</td><td>Book 95 Hadith 17</td></tr></tbody></table></div>
 

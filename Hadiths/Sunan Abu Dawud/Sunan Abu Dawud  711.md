@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari ['Urwah] dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam shalat malam, sedangkan Aisyah melintang antara beliau dengan Kiblat, berbaring di atas tempat tidur yang biasa di tempati oleh beliau, hingga apabila beliau hendak mengerjakan shalat witir, beliau membangunkan Aisyah, untuk shalat witir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (512) Sahih Muslim (512)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>711</td></tr><tr><td>Arabic No</td><td>711</td></tr><tr><td>Reference</td><td>Book 2 Hadith 321</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, рассказывала: «Обычно, когда Посланник Аллаха ﷺ совершал ночную молитву, она лежала поперёк между ним и киблой на кровати, на которой он спал. Когда же он хотел совершить уитр, он будил её, и она тоже совершала его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (512) Sahih Muslim (512)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>711</td></tr><tr><td>Arabic No</td><td>711</td></tr><tr><td>Reference</td><td>Book 2 Hadith 321</td></tr></tbody></table></div>
 

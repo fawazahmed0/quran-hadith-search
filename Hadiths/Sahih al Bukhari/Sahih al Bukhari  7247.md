@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:Allah's Messenger (ﷺ) said, "The (call for prayer) Adhan o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [At Taimi] dari [Abu Utsman] dari [Ibn Mas'ud] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah adzan bilal mencegah kalian dari makan sahur, sebab dia adzan -atau ia katakan dengan redaksi 'memanggil'- agar orang yang shalat malam pulang, dan yang tidur agar bangun, fajar itu bukan, beliau katakan begini -Yahya mendemontrasikannya dengan menyatukan kedua telapak tangannya-hingga beliau katakan begini -Yahya mendemontrasikannya dengan merenggangkan kedua jarinya, telunjuk dan jari tengah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7247</td></tr><tr><td>Arabic No</td><td>7247</td></tr><tr><td>Reference</td><td>Book 95 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн Мас‘уд, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Пусть азан Биляля не мешает вам совершать сухур, ибо он произносит азан или возглашает призыв для того, чтобы выстаивающий молитву завершил её, а спящий проснулся. Ведь когда белизна распространяется вот так, это ещё не рассвет». «И Яхья [аль-Каттан] сжал руку в кулак и сделал знак, вытянув два пальца, [показывая, что белизна распространяется вертикально]»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7247</td></tr><tr><td>Arabic No</td><td>7247</td></tr><tr><td>Reference</td><td>Book 95 Hadith 2</td></tr></tbody></table></div>
 

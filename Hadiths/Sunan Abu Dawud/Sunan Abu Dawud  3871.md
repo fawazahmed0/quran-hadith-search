@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman ibn Uthman: When a physician consulted the Prophet (ﷺ) ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Ibnu Abu Dzi'b] dari [Sa'id bin Khalid] dari [Sa'id bin Al Musayyab] dari [Abdurrahman bin Utsman] bahwa seorang dokter pernah bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai katak yang ia jadikan sebagai campuran obat. Kemudian Nabi shallallahu 'alaihi wasallam melarang dari membunuhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3871</td></tr><tr><td>Arabic No</td><td>3871</td></tr><tr><td>Reference</td><td>Book 29 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абду-р-Рахмана ибн ‘Усмана, да будет доволен им Аллах, что однажды один лекарь спросил Пророка ﷺ можно ли ему сделать лекарство из лягушки, однако Пророк ﷺ запретил ему убивать её
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3871</td></tr><tr><td>Arabic No</td><td>3871</td></tr><tr><td>Reference</td><td>Book 29 Hadith 17</td></tr></tbody></table></div>
 

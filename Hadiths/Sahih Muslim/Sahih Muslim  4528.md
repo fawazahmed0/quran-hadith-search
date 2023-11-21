@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The Messenger of Allah (may peace he upon him) has been reported by Anas b. Mali
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidulalh bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Abu At Tayah] dari [Anas]. (dalam riwayat lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ubaidullah bin Sa'id]. (dalam riwayat lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Al Walid] telah menceritakan kepada kami [Muhammad bin Ja'far] keduanya dari [Syu'bah] dari [Abu At Tayah] dia berkata; aku mendengar [Anas bin Malik] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Permudahlah oleh kalian dan jangan mempersulit, buatlah hati mereka tenang dan jangan menakut-nakuti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4528</td></tr><tr><td>Arabic No</td><td>1734</td></tr><tr><td>Reference</td><td>Book 32 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ат-Таййах сказал: Я слышал, как Анас ибн Малик, да будет доволен им Аллах, говорил: «Посланник Аллаха ﷺ сказал: “Облегчайте, а не создавайте затруднения, успокаивайте (людей), а не внушайте отвращение (к Исламу)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4528</td></tr><tr><td>Arabic No</td><td>1734</td></tr><tr><td>Reference</td><td>Book 32 Hadith 9</td></tr></tbody></table></div>
 

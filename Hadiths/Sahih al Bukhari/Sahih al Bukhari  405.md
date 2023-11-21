@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) saw some sputum in the direction of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Isma'il bin Ja'far] dari [Humaid] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam melihat ada dahak di dinding kiblat, beliau lalu merasa jengkel hingga nampak tersirat pada wajahnya. Kemudian beliau menggosoknya dengan tangannya seraya bersabda: "Jika seseorang dari kalian berdiri shalat sesungguhnya dia sedang berhadapan dengan Rabbnya, atau sesungguhnya Rabbnya berada antara dia dan kiblat, maka janganlah dia meludah ke arah kiblat, tetapi lakukanlah ke arah kirinya atau di bawah kaki (kirinya)." Kemudian Nabi shallallahu 'alaihi wasallam memegang tepi kainnya dan meludah di dalamnya, setelah itu beliau membalik posisi kainnya lalu berkata, atau beliau melakukan seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>405</td></tr><tr><td>Arabic No</td><td>405</td></tr><tr><td>Reference</td><td>Book 8 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что однажды Пророк ﷺ увидел на кибле (мечети) плевок и по лицу его стало ясно, что (видеть подобное) для него тягостно. Он встал, вытер это своей рукой и сказал: «Когда кто-нибудь из вас приступает к молитве, (это значит, что) он вступает в тайную беседу с Господом своим, /или: (это значит, что) Господь его (находится) меж ним и киблой/, так пусть же никто из вас не плюёт в сторону киблы, а (если ему захочется сплюнуть, пусть сплюнет) налево или себе под ноги!» А потом он взялся за край своей накидки, сплюнул туда, прикрыл плевок другой частью этого края и сказал: «Или пусть делает так»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>405</td></tr><tr><td>Arabic No</td><td>405</td></tr><tr><td>Reference</td><td>Book 8 Hadith 57</td></tr></tbody></table></div>
 

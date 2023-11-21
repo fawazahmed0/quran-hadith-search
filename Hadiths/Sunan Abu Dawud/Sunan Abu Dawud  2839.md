@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Salman b. 'Amir al-Dabbi:The Messenger of Allah (ﷺ) as saying: Along 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abdurrazzaq], telah menceritakan kepada kami [Hisyam bin Hassan] dari [Hafshah binti Sirin] dari [Ar Robab] dari [Salman bin 'Amir Adh Dhabbi], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada (setiap) anak laki-laki (yang lahir) harus diaqiqahi, maka sembelihlah (aqiqah) untuknya dan hilangkan gangguan darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5471، 5472)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2839</td></tr><tr><td>Arabic No</td><td>2839</td></tr><tr><td>Reference</td><td>Book 16 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Сальмана ибн ‘Амира ад-Дабби, что Посланник Аллаха ﷺ сказал: «С мальчиком ‘акыка. Проливайте кровь за него и убирайте от него то, что причиняет ему беспокойство»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5471، 5472)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2839</td></tr><tr><td>Arabic No</td><td>2839</td></tr><tr><td>Reference</td><td>Book 16 Hadith 52</td></tr></tbody></table></div>
 

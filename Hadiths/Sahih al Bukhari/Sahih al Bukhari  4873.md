@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) recited: 'Fahal-min Muddakir': 'And verily,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] Telah menceritakan kepada kami [Gundar] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam bahwa beliau membaca: "FAHAL MIN MUDDAKIR." (maka adakah orang yang mau mengambil pelajaran?). (AL Qamar:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 65 Hadith 394</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Пророк ﷺ читал: “Найдётся ли поминающий?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 65 Hadith 394</td></tr></tbody></table></div>
 

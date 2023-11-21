@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:That he was in the company of the Prophet (ﷺ) on a journey,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Ibnu 'Uyainah] dari ['Amru] dari [Ibnu'Umar radliallahu 'anhuma] bahwa dia pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan dengan menunggang unta yang masih muda milik 'Umar. Saat itu dia mendahului laju Nabi shallallahu 'alaihi wasallam maka bapaknya berkata: "Wahai 'Abdullah, janganlah seseorang mendahului Nabi shallallahu 'alaihi wasallam". Maka Nabi shallallahu 'alaihi wasallam berkata kepadanya: "Juallah unta itu kepadaku". Maka 'Umar berkata: "Unta ini untuk baginda". Maka Beliau membelinya kemudian berkata: "Unta ini untukmu wahai 'Abdullah dan pergunakanlah sesukamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2610</td></tr><tr><td>Arabic No</td><td>2610</td></tr><tr><td>Reference</td><td>Book 51 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал, что (однажды, когда) он находился в пути вместе с Пророком ﷺ и ехал на принадлежавшем ‘Умару молодом пугливом верблюде, он постоянно опережал Пророка ﷺ, и отец говорил ему: «О ‘Абдуллах! Никто не должен идти впереди Пророка ﷺ». Тогда Пророк ﷺ сказал ‘Умару: «Продай мне его». (‘Умар) сказал: «Он твой!» Пророк ﷺ купил его и сказал: «Он твой, о ‘Абдуллах, делай с ним, что хочешь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2610</td></tr><tr><td>Arabic No</td><td>2610</td></tr><tr><td>Reference</td><td>Book 51 Hadith 43</td></tr></tbody></table></div>
 

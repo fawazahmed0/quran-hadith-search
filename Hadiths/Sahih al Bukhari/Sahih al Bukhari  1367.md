@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A funeral procession passed and the people praised the d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami ['Abdul 'Aziz bin Shuhaib] berkata; aku mendengar [Anas bin Malik radliallahu 'anhu] berkata,: "Mereka (para sahabat) pernah melewati satu jenazah lalu mereka menyanjungnya dengan kebaikan. Maka Nabi Shallallahu'alaihiwasallam bersabda: "Pasti baginya". Kemudian mereka melewati jenazah yang lain lalu mereka menyebutnya dengan keburukan, maka Beliaupun bersabda: "Pasti baginya". Maka kemudian 'Umar bin Al Khaththab radliallahu 'anhu bertanya: "Apa yang dimaksud pasti baginya?". Beliau menjawab: "Jenazah pertama kalian sanjung dengan kebaikan, maka pasti baginya masuk surga sedang jenazah kedua kalian menyebutnya dengan keburukan, berarti dia masuk neraka karena kalian adalah saksi-saksi Allah di muka bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1367</td></tr><tr><td>Arabic No</td><td>1367</td></tr><tr><td>Reference</td><td>Book 23 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды, когда мимо нас) прошла похоронная процессия и люди стали восхвалять покойного, Пророк ﷺ сказал: “Это обязательно”. Затем прошла ещё одна (похоронная процессия), и (на этот раз) люди стали отзываться о покойном плохо, однако (Пророк ﷺ снова) сказал: “Это обязательно”. Тогда ‘Умар бин аль-Хаттаб, да будет доволен им Аллах, спросил: “Что обязательно?” (Пророк ﷺ) ответил: “Вы воздали хвалу этому, и теперь он обязательно окажется в раю, а о другом вы отозвались плохо, и теперь он обязательно окажется в огне, ведь вы — свидетели Аллаха на земле!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1367</td></tr><tr><td>Arabic No</td><td>1367</td></tr><tr><td>Reference</td><td>Book 23 Hadith 119</td></tr></tbody></table></div>
 

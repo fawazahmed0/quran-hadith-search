@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) had big feet and a good-looking face and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru bin Ali] telah menceritakan kepada kami [Mu'adz bin Hani'] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Anas bin Malik] atau dari [seorang laki-laki] dari [Abu Hurairah] dia berkata; "Nabi shallallahu 'alaihi wasallam adalah seorang yang besar kakinya, bagus perawakannya, saya belum pernah melihat seseorang seperti itu sesudah beliau." [Hisyam] mengatakan; dari [Ma'mar] dari [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam adalah seseorang yang lebar telapak kaki dan telapak tangannya." [Abu Hilal] mengatakan; telah menceritakan kepada kami [Qatadah] dari [Anas] atau [Jabir bin Abdullah] bahwa Nabi shallallahu 'alaihi wasallam adalah seseorang yang lebar telapak tangan dan telapak kakinya, saya belum pernah melihat orang yang menyerupai setelah beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5908</td></tr><tr><td>Arabic No</td><td>5908</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «У Пророка ﷺ были крупные ступни, он был красив лицом, и не видел я после него никого подобного ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5908</td></tr><tr><td>Arabic No</td><td>5908</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

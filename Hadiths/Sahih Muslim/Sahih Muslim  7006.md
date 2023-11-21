@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that a person came to Allah's Apostle (ﷺ) said:Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin 'Ali Al Hulwani] telah menceritakan kepada kami ['Amr bin 'Ashim] telah menceritakan kepada kami [Hammam] dari [Ishaq bin 'Abdullah bin Abu Thalhah] dari [Anas] dia berkata; "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam lalu berkata; 'Ya, Rasulullah! Aku telah melanggar hukum atas diriku (hukumlah aku)! ' Anas berkata; 'Ketika itu telah masuk waktu shalat, maka dia pun shalat bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam. Setelah selesai shalat dia berkata lagi kepada beliau; 'Ya, Rasulullah! Aku telah melanggar hukum atas diriku sesuai dengan Kitab Allah.' Nabi shallallahu 'alaihi wasallam bertanya: 'Apakah engkau tadi shalat bersama-sama kami? ' jawabnya; 'Ya! ' Nabi shallallahu 'alaihi wasallam bersabda: 'Allah telah mengampuni kamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7006</td></tr><tr><td>Arabic No</td><td>2764</td></tr><tr><td>Reference</td><td>Book 50 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7006</td></tr><tr><td>Arabic No</td><td>2764</td></tr><tr><td>Reference</td><td>Book 50 Hadith 52</td></tr></tbody></table></div>
 

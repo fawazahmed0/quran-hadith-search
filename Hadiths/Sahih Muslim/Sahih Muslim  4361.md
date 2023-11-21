@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that a Jew killed a girl with a stone for her silver orna
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basyar] dan ini adalah lafadz Ibnu Mutsanna, keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Hisyam bin Zaid] dari [Anas bin Malik], bahwa seorang Yahudi membunuh seorang budak perempuan dengan memukul kepalanya pakai batu karena hendak merampas perhiasannya. Lalu budak wanita tersebut dihadapakan kepada Nabi shallallahu 'alaihi wasallam dalam keadaan sekarat, maka beliau bertanya kepada wanita tersebut: "Apakah fulan yang hendak membunuhmu?" Wanita itu menggelengkan kepalanya sebagai tanda tidak, kemudian beliau bertanya untuk yang kedua kali: "Apakah fulan yang hendak membunuhmu?" wanita itu tetap menggelengkan kepala sebagai tanda tidak, beliau pun bertanya untuk yang ketiga kalinya: "Apakah si fulan yang hendak membunuhmu?" wanita itu menjawab, "Ya, benar." Maka Rasulullah shallallahu 'alaihi wasallam membunuh laki-laki Yahudi tadi dengan dua bongkah batu." Dan telah menceritakan kepadaku [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid] -yaitu Ibnu Al Harits-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Ibnu Idris] keduanya dari [Syu'bah] dengan sanad seperti ini. Dan dalam riwayat Ibnu Idris disebutkan dengan redaksi, "Kemudian beliau memukul kepala yahudi tersebut dengan dua bongkah batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4361</td></tr><tr><td>Arabic No</td><td>1672.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4361</td></tr><tr><td>Arabic No</td><td>1672.01</td></tr><tr><td>Reference</td><td>Book 28 Hadith 20</td></tr></tbody></table></div>
 

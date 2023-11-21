@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah created the creations, and w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Bisyr bin Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Mu'awiyah bin Abu Muzarrid] dia berkata; saya mendengar pamanku [Sa'id bin Yasar] bercerita dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Setelah Allah menciptakan semua makhluk, maka rahim pun berkata; 'Inikah tempat bagi yang berlindung dari terputusnya silaturahim (Menyambung silaturahim).' Allah menjawab: 'Benar. Tidakkah kamu rela bahwasanya Aku akan menyambung orang yang menyambungmu dan memutuskan yang memutuskanmu? ' Rahim menjawab; 'Tentu, wahai Rabb' Allah berfirman: 'ltulah yang kamu miliki.' Setelah itu Rasulullah shallallahu 'alaihi wasallam bersabda: 'Jika kamu mau, maka bacalah ayat berikut ini: Maka apakah kiranya jika kamu berkuasa kamu akan berbuat kerusakan di muka bumi dan memutuskan hubungan kekeluargaan? QS Muhammad:
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5987</td></tr><tr><td>Arabic No</td><td>5987</td></tr><tr><td>Reference</td><td>Book 78 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Поистине, Аллах создал все творения, а когда Он завершил их, родственная уза сказала: “Это — место того, кто прибегает к защите Твоей от разрыва”. Аллах ответил: “Да. Так удовольствуешься ли ты тем, что Я буду поддерживать связь с тем, кто станет тебя поддерживать, и порву с тем, кто будет порывать тебя?” Она ответила: “Да, о Господь мой!” (И тогда) Он сказал: “Это даруется тебе”».\nЗатем Посланник Аллаха ﷺ сказал: «Прочтите, если желаете (аяты, где сказано): “А может быть, если вы отвернётесь, то станете распространять нечестие по земле и порывать родственные связи?” (сура «Мухаммад», аят 22)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5987</td></tr><tr><td>Arabic No</td><td>5987</td></tr><tr><td>Reference</td><td>Book 78 Hadith 18</td></tr></tbody></table></div>
 

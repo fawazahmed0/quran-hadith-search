@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al Salama:Who was the son of Um Salama, the wife of the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdul Aziz bin Abdullah] ia berkata; Telah menceritakan kepadaku [Muhammad bin Ja'far] dari [Muhammad bin Amru bin Halhalah Ad Dili] dari [Wahb bin Kaisan Abu Nu'aim] dari [Amru bin Abu Salamah] ia adalah Ibnu Ummu Salah isteri Nabi shallallahu 'alaihi wasallam, ia berkata; Suatu hari, aku makan makanan bersama Rasulullah shallallahu 'alaihi wasallam, lalu aku menyantap makanan dari ujung nampan, maka Rasulullah shallallahu 'alaihi wasallam bersabda padaku: "Makanlah makanan yang ada didepanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5377</td></tr><tr><td>Arabic No</td><td>5377</td></tr><tr><td>Reference</td><td>Book 70 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн Аби Саляма, сын Умм Салямы, жены Пророка ﷺ сказал: «Однажды, когда я ел вместе с Посланником Аллаха ﷺ, я начал брать еду со всех сторон тарелки, и Посланник Аллаха ﷺ сказал мне: “Ешь то, что находится рядом с тобой!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5377</td></tr><tr><td>Arabic No</td><td>5377</td></tr><tr><td>Reference</td><td>Book 70 Hadith 5</td></tr></tbody></table></div>
 

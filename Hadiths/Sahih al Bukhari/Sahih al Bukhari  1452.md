@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:A Bedouin asked Allah's Messenger (ﷺ) about the e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Al Awza'i] berkata, telah menceritakan kepada saya [Ibnu Syihab] dari ['Atha' bin Yazid] dari [Abu Sa'id Al Khudriy radliallahu 'anhu] bahwa ada seorang 'Arab Badui bertanya kepada Rasulullah Shallallahu'alaihiwasallam tentang ('amal) hijrah. Maka Beliau menjawab: "Janganlah begitu, sungguh hijrah itu 'amal yang berat. Apakah kamu memiliki unta yang wajib kamu keluarkan shadaqahnya?". Orang itu menjawab: "Ya, punya". Maka Beliau berkata,: "Maka amalkanlah sekalipun dari balik lautan, karena Allah tidak akan menyia-nyiakan amalmu sedikitpun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1452</td></tr><tr><td>Arabic No</td><td>1452</td></tr><tr><td>Reference</td><td>Book 24 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «(Как-то раз) один бедуин задал Посланнику Аллаха ﷺ вопрос о переселении, и (Пророк ﷺ) сказал: “Да помилует тебя Аллах, поистине, это трудное дело! А есть ли у тебя верблюды, с которых ты выплачиваешь закят?” (Бедуин) сказал: “Да”. Тогда (Пророк ﷺ) сказал: “Так (продолжай) делать это(, даже если будешь жить) за морями, ведь, поистине, Аллах никогда не оставит (незамеченным) ни одно из дел твоих!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1452</td></tr><tr><td>Arabic No</td><td>1452</td></tr><tr><td>Reference</td><td>Book 24 Hadith 55</td></tr></tbody></table></div>
 

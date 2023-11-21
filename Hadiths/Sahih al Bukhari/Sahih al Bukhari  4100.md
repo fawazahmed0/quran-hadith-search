@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Al-Muhajirun (i.e. the Emigrants) and the Ansar were digging the t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] dari [Abdul Aziz] dari [Anas] radliallahu 'anhu, dia berkata, "Ketika kaum Muhajirin dan Anshar tengah menggali parit di sekeliling Madinah, dan memikul tanah di atas pundak-pundak, mereka bersenandung, "Kami adalah orang-orang yang telah berbai'at kepada Muhamamd atas Islam, dan kami masih tetap seperti itu selama-lamanya." Anas melanjutkan, "Ketika Nabi shallallahu 'alaihi wasallam mendengar itu, maka beliau membalasnya: "Ya Allah, sesungguhnya tidak ada kebaikan (yang hakiki) kecuali kebaikan akhirat, maka berkahilah kaum Anshar dan Muhajirin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4100</td></tr><tr><td>Arabic No</td><td>4100</td></tr><tr><td>Reference</td><td>Book 64 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Мухаджиры и ансары принялись копать ров вокруг Медины, и они переносили землю на своих спинах, говоря:\nМы — те, кто поклялся Мухаммаду,что будем верны исламу, пока живы.\nЧто же касается Пророка, да благословит его Аллах и приветствует, то он отвечал им (такими словами):\nО Аллах, поистине, нет блага, кроме блага мира вечного,благослови же ансаров и мухаджиров!».\nОн так же сказал: «Люди приносили горсть ячменя, которую им готовили на старом жире. Эту еду подавали людям (которые копали ров), которые были голодны, и она прилипала к их горлу и имела неприятный запах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4100</td></tr><tr><td>Arabic No</td><td>4100</td></tr><tr><td>Reference</td><td>Book 64 Hadith 144</td></tr></tbody></table></div>
 

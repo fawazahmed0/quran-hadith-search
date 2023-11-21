@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) saw a man driving a Badana (a camel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam melihat seorang laki-laki yang menuntun unta, lalu beliau bersabda: "Naikilah." Laki-laki itu berkata; "Wahai Rasulullah, sesungguhnya ia hanya seekor unta." Beliau bersabda: "Naikilah, celaka kamu, " beliau mengucapkan itu di kali yang kedua atau ketiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6160</td></tr><tr><td>Arabic No</td><td>6160</td></tr><tr><td>Reference</td><td>Book 78 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что когда Посланник Аллаха ﷺ увидел какого-то человека, который гнал своего верблюда, он сказал ему: «Сядь на него верхом». (Человек) сказал: «О Посланник Аллаха, это ведь жертвенный верблюд!» Тогда на второй (или: на третий) раз (Пророк ﷺ) сказал: «Садись же, горе тебе!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6160</td></tr><tr><td>Arabic No</td><td>6160</td></tr><tr><td>Reference</td><td>Book 78 Hadith 186</td></tr></tbody></table></div>
 

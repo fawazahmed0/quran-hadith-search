@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported Allah's Messenger (ﷺ) cursing the woman who added false hair
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair]; Telah menceritakan kepada kami [Bapakku]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna]; Dan lafazh ini milik Zuhair keduanya berkata; Telah menceritakan kepada kami [Yahya] yaitu Al Qaththan dari ['Ubaidullah]; Telah mengabarkan kepadaku [Nafi'] dari [Ibnu 'Umar] bahwa Rasulullah shallallahu 'alaihi wasallam melaknat orang yang menyambung rambut dengan rambut lain dan yang meminta disambungkan, serta orang yang mentato dan minta untuk ditato. Dan telah menceritakannya kepada ku [Muhammad bin 'Abdullah bin Bazi']; Telah menceritakan kepada kami [Bisyr bin Al Mufadhdhal]; Telah menceritakan kepada kami [Shakr bin Juwariyah] dari [Nafi'] dari ['Abdillah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5572</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5572</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibrahim's grand-father that 'Umar(ra) in his last Hajj allowed the wive
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telahb berkata, kepadaku [Ahmad bin Muhammad] dia adalah Al Azraqiy telah menceritakan kepada kami [Ibrahim] dari [bapaknya] dari [kakeknya] bahwa ['Umar radliallahu 'anhu] memberi izin (untuk menunaikan haji) kepada para isteri Nabi shallallahu 'alaihi wasallam pada akhir haji yang dia lakukan, lalu ia mengutus 'Utsman bin 'Affan dan 'Abdurrahman bin 'Auf bersama mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>1860</td></tr><tr><td>Reference</td><td>Book 28 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибрахим рассказал со слов своего отца, а тот от своего, что в своем последнем хадже ‘Умар, да будет доволен им Аллах, позволил женам Пророка ﷺ совершить хадж. И он послал с ними ‘Усмана бин ‘Аффана и ‘Абдуррахмана бин ‘Ауфа
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>1860</td></tr><tr><td>Reference</td><td>Book 28 Hadith 40</td></tr></tbody></table></div>
 

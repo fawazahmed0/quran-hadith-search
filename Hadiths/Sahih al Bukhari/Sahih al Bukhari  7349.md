@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "Noah will be brought
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Abu Shalih] dari [Abu Sa'id alkhudzri] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Nabi Nuh didatangkan pada hari kiamat lantas ditanya, 'Sudahkah kamu menyampaikan? ' ia menjawab, 'Benar ya Rabbi'. Ummatnya kemudian ditanya, 'Apakah dia memang benar telah menyampaikan kepada kalian? ' Mereka menjawab, 'Belum ada seorang pemberi peringatan kepada kita.' Lantas Allah bertanya lagi: 'Siapa yang menjadi saksimu? ' Nuh menjawab, 'Muhammad dan umatnya.' Lantas kalian didatangkan dan kalian bersaksi." Kemudian Rasulullah Shallallahu'alaihiwasallam membaca ayat: '(Dan demikianlah Kami jadikan kalian umat yang wasath) ' (Qs. Albaqarah 143). Kata Al A'masy, wasath artinya adil '(Agar kalian menjadi saksi atas semua manusia dan agar rasul sebagai saksi atas kalian) ' (Qs. Albaqarah 143). Dan dari [Ja'far bin Aun] telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id alkhudzri] dari Nabi shallallahu 'alaihi wasallam dengan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7349</td></tr><tr><td>Arabic No</td><td>7349</td></tr><tr><td>Reference</td><td>Book 96 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: «В День воскрешения приведут Нуха и спросят его: «Довёл ли ты?» — и он скажет: «Да, о мой Господь!» Тогда спросят членов его общины: «Довёл ли он до вас?» Они ответят: «Нет, к нам не приходил увещеватель!» (Аллах) спросит (Нуха): «Кто засвидетельствует твою (правоту)?» Он скажет: «Мухаммад ﷺ и члены его общины», и приведут вас, и вы засвидетельствуете. А затем, Посланник Аллаха ﷺ прочитал (слова Всевышнего): «Мы сделали вас общиной, придерживающейся середины», — т.е. справедливой — «чтобы вы свидетельствовали обо всем человечестве, а Посланник свидетельствовал о вас самих»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7349</td></tr><tr><td>Arabic No</td><td>7349</td></tr><tr><td>Reference</td><td>Book 96 Hadith 77</td></tr></tbody></table></div>
 

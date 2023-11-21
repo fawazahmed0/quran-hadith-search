@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) cut off the hand of a thief for a q
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Ishaq bin Ibrahim] dan [Ibnu Abu Umar] dan ini adalah lafadz Yahya. Ibnu Abu Umar berkata; telah menceritakan kepada kami, sedangkan yang dua mengatakan; telah mengabarkan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari ['Amrah] dari ['Aisyah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam hanya memotong tangan pecuri jika ia mencuri seperempat dinar atau lebih." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abd bin Humaid] keduanya berkata; telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Sulaiman bin Katsir] dan [Ibrahim bin Sa'd] semuanya dari [Az Zuhri] seperti hadits di atas dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4398</td></tr><tr><td>Arabic No</td><td>1684.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4398</td></tr><tr><td>Arabic No</td><td>1684.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 1</td></tr></tbody></table></div>
 

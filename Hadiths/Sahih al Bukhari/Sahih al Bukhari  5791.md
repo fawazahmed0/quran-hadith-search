@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "Whoever drags his cl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mathar bin Al Fadl] telah menceritakan kepada kami [Syababah] telah menceritakan kepada kami [Syu'bah] dia berkata; saya berjumpa [Muharib bin Ditsar] di atas kudanya, ketika ia datang di tempat untuk memutuskan suatu perkara, lalu aku bertanya tentang suatu hadits, maka dia menceritakan kepadaku, katanya; saya mendengar [Abdullah bin Umar] radliallahu 'anhuma berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menjulurkan kainnya karena sombong, maka Allah tidak akan melihatnya pada hari Kiamat kelak." Lalu tanyaku kepada Muharib; "Apakah beliau menyebutkan kain sarung?" dia menjawab; "Beliau tidak mengkhususkan kain sarung ataukah jubah." Hadits ini juga diperkuat oleh riwayat [Jabalah bin Suhaim] dan [Zaid bin Aslam] serta [Zaid bin Abdullah] dari [Ibnu Umar] dari Nabi Shallallahu 'alaihi. [Al Laits] mengatakan; dari [Nafi'] dari [Ibnu Umar] seperti itu. Dan diperkuat pula oleh riwayat [Musa bin 'Uqbah], [Umar bin Muhammad] dan [Qudamah bin Musa] dari [Salim] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam yaitu dengan redaksi: "Barangsiapa menjulurkan pakainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5791</td></tr><tr><td>Arabic No</td><td>5791</td></tr><tr><td>Reference</td><td>Book 77 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «В День воскресения Аллах не посмотрит на того, кто волочил за собой свою одежду из высокомерия»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5791</td></tr><tr><td>Arabic No</td><td>5791</td></tr><tr><td>Reference</td><td>Book 77 Hadith 9</td></tr></tbody></table></div>
 

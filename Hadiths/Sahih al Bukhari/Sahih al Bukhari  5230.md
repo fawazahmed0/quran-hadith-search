@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama:I heard Allah's Messenger (ﷺ) who was on the p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Al Laits] dari [Abu Mulaikah] dari [Al Miswar bin Makhramah] ia berkata; AKu mendengar Rasulullah shallallahu 'alaihi wasallam bersabda sedangkan beliau berada di atas mimbar: "Sesungguhnya bani Hisyam bin Al Mughirah meminta izin kepadaku agar aku menikahkan anak wanita mereka dengan Ali bin Abu Thalib, namun aku tidak mengizinkan kepada mereka, kecuali jika Ali bin Abu Thalib menceraikan anakku lalu menikahi anak wanita mereka. Sesungguhnya anakku (Fathimah) adalah bagian dariku, aku merasa senang dengan apa saja yang menyenangkannya dan aku merasa tersakiti atas semua yang menyakitinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5230</td></tr><tr><td>Arabic No</td><td>5230</td></tr><tr><td>Reference</td><td>Book 67 Hadith 163</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от аль-Мисвара ибн Махрама, что он слышал, как Посланник Аллаха ﷺ сказал, стоя на минбаре: «Сыновья Хишама ибн аль-Мугыйры попросили у меня разрешения выдать их дочь за ‘Али ибн Аби Талиба. И вот что: я им не разрешаю, и я ещё раз им не разрешаю, и я ещё раз им не разрешаю, если только Ибн Аби Талиб не пожелает развестись с моей дочерью и жениться на их дочери. Поистине, она (моя дочь) — часть меня, и мне причиняет беспокойство то же, что и ей, и меня обижает то, что обижает её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5230</td></tr><tr><td>Arabic No</td><td>5230</td></tr><tr><td>Reference</td><td>Book 67 Hadith 163</td></tr></tbody></table></div>
 

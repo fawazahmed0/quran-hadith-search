@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:I heard the Prophet (ﷺ) forbidding the offering of prayers 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Abu Dhamrah] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] bahwa ['Abdullah radliallahu 'anhu] berkata; "Aku mendengar Nabi Shallallahu'alaihiwasallam melarang shalat ketika matahari sedang terbit dan ketika sedang terbenam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 25 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ запретил совершать молитву во время восхода солнца и во время его заката»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 25 Hadith 113</td></tr></tbody></table></div>
 

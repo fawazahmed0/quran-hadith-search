@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The same tradition has been narrated on the authority of Urwat al-Bariqi who sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Zakaria] dari ['Amir] dari ['Urwah Al Bariqi] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada ubun-ubun kuda telah ditulis kebaikan hingga datangnya hari kiamat; pahala dan ghanimah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>1873.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>1873.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 145</td></tr></tbody></table></div>
 

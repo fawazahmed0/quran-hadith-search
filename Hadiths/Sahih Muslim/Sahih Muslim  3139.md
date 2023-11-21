@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm al-Husain (Allah be pleased with her) reported:I performed Hajj along with A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Ahmad bin Hanbal] Telah menceritakan kepada kami [Muhammad bin Salamah] dari [Abu Abdurrahim] dari [Zaid bin Abu Unaisah] dari [Yahya bin Hushain] dari [Ummu Hushain] kakekknya, ia berkata; Aku ikut menunaikan haji bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam ketika haji wada'. Aku melihat Bilal dan Usamah; yang satu memegang tali Unta Nabi shallallahu 'alaihi wasallam, dan yang satu lagi memayungi Rasulullah shallallahu 'alaihi wasallam dengan bajunya dari terik matahari sampai beliau selesai melempar Jamrah Aqabah. Muslim berkata; Nama Abu Abdurrahman adalah Khalid bin Abu Yazid, ia adalah paman Muhammad bin Salamah. Waki', Hajjaj dan A'war telah meriwayatkan darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3139</td></tr><tr><td>Arabic No</td><td>1298.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 343</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3139</td></tr><tr><td>Arabic No</td><td>1298.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 343</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Once Allah's Messenger (ﷺ) prayed two rak'at (instead of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Maslamah] dari [Malik bin Anas] dari [Ayyub bin Abu Tamimah As Sakhtiyani] dari [Muhammad bin Sirin] dari [Abu Hurairah] berkata, "Ketika Rasulullah telah selesai dari shalat dua rakaat, Dzul Yadain berkata kepada beliau, "Wahai Rasulullah, shalatnya sengaja diqashar atau tuan yang lupa?" Rasulullah shallallahu 'alaihi wasallam lalu berkata: "Apakah benar yang dikatakan Dzul Yadain?" Orang-orang menjawab: "Benar." Maka Rasulullah shallallahu 'alaihi wasallam pun bediri dan mengerjakan shalat dua rakaat yang kurang kemudian salam. Kemudian beliau takbir lalu sujud seperti sujudnya (yang biasa) atau lebih lama lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>714</td></tr><tr><td>Arabic No</td><td>714</td></tr><tr><td>Reference</td><td>Book 10 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ завершил молитву, совершив два рак‘ата, тогда Зуль-Йадайн спросил его: «Молитва была сокращена или ты забыл, о Посланник Аллаха?» Посланник Аллаха ﷺ спросил людей: «Правда ли то, что говорит Зуль-Йадайн?» Люди ответили: «Да!» Тогда Посланник Аллаха ﷺ встал и совершил два других рак‘ата, затем совершил «таслим» (приветствие), затем сказал такбир («Аллаху акбар!») и совершил земной поклон, подобно обычному земному поклону или длиннее
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>714</td></tr><tr><td>Arabic No</td><td>714</td></tr><tr><td>Reference</td><td>Book 10 Hadith 109</td></tr></tbody></table></div>
 

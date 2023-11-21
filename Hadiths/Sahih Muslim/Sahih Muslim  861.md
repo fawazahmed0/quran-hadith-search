@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdallâh Ibn 'Omar (رضي الله عنهما) a dit : "J'ai vu l'Envoyé de D
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya at-Tamimi], [Sa'id bin Manshur], [Abu Bakar bin Abi Syaibah], [Amru an-Naqid], dan [Zuhair bin Harb], serta [Ibnu Numair] semuanya dari [Sufyan bin Uyainah] dan lafazh tersebut milik Yahya, dia berkata, telah mengabarkan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Salim] dari [bapaknya] dia berkata, "Saya melihat Rasulullah shallallahu 'alaihi wasallam apabila memulai shalat, maka beliau mengangkat kedua tangannya hingga sejajar dengan kedua pundaknya dan mengangkat tangan sebelum rukuk dan ketika berdiri dari rukuk, namun beliau tidak mengangkat kedua tangannya antara dua sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>861</td></tr><tr><td>Arabic No</td><td>390.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Салима, что его отец сказал: «Я видел, как приступая к молитве, Посланник Аллаха ﷺ поднимал руки до уровня плеч и (он делал то же самое), перед поясным поклоном, и когда поднимал голову с поясного поклона; и он не поднимал (руки) между двумя земными поклонами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>861</td></tr><tr><td>Arabic No</td><td>390.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 24</td></tr></tbody></table></div>
 

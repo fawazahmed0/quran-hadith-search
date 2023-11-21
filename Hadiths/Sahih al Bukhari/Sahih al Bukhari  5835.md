@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab (ra):Allah's Messenger (ﷺ) said, "None wears sil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Utsman bin Umar] telah menceritakan kepada kami [Ali bin Al Mubarrak] dari [Yahya bin Abu Katsir] dari [Imran bin Hitthan] dia berkata; saya bertanya kepada Aisyah mengenai kain sutera, lalu dia berkata; datanglah kepada Ibnu Abbas dan bertanyalah kepadanya, Imran berkata; "lalu aku bertanya kepada Ibnu Abbas, namun dia menjawab; "Tanyakanlah kepada Ibnu Umar, Imran melanjutkan; "Lalu saya bertanya kepada [Ibnu Umar], dia menjawab; telah mengabarkan kepadaku [Abu Hafsh Umar bin AL Khatthab] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Hanya saja yang mengenakan kain sutera di dunia, yaitu orang yang tidak mendapatkan bagiannya di akhirat kelak." Maka kataku; "Benar, dan Abu Hafsh tidak mungkin berdusta atas nama Rasulullah shallallahu 'alaihi wasallam." [Abdullah bin Raja'] mengatakan; telah menceritakan kepada kami [Harb] dari [Yahya] telah menceritakan kepadaku [Imran] lalu dia menceritakan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5835</td></tr><tr><td>Arabic No</td><td>5835</td></tr><tr><td>Reference</td><td>Book 77 Hadith 52</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ’Умара ибн аль-Хаттаба, что Посланник Аллаха ﷺ сказал: «В этой жизни шёлковые одежды носит только тот, кто не имеет доли в Жизни Последней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5835</td></tr><tr><td>Arabic No</td><td>5835</td></tr><tr><td>Reference</td><td>Book 77 Hadith 52</td></tr></tbody></table></div>
 

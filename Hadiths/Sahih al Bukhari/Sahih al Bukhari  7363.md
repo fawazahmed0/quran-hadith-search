@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubaidullah:Ibn 'Abbas said, "Why do you ask the people of the scripture
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] telah menceritakan kepada kami [Ibrahim] telah mengabarkan kepada kami [Ibn Syihab] dari ['Ubaidullah bin Abdullah] bahwa [Ibn Abbas] radliyallahu'anhuma berkata, "Bagaimana kalian bertanya ahli kitab padahal kitab kalian yang diturunkan kepada Rasulullah shallallahu 'alaihi wasallam lebih baru kemurniannya dan belum terkotori? Sedang ahlu kitab menceritakan kepada kalian dengan mengubah-ubah kitabullah dan menggantinya, dan mereka tulis alkitab dengan tangannya dan mereka katakan, 'Ini dari sisi Allah' untuk mereka tukar dengan harga yang sedikit, tidak sebaiknyakah ilmu yang yang kalian miliki mencegah kalian dari bertanya kepada mereka? Tidak, demi Allah, takkan kulihat lagi seseorang diantara mereka bertanya kalian tentang yang diturunkan kepada kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7363</td></tr><tr><td>Arabic No</td><td>7363</td></tr><tr><td>Reference</td><td>Book 96 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Как вы можете спрашивать о чём-то у обладателей Писания, когда ваше Писание, ниспосланное Посланнику Аллаха ﷺ, новее. Вы читаете его чистым, неискажённым. И Аллах рассказал вам, что обладатели Писания, исказили и изменили Книгу Аллаха и написали Писание собственными руками, а затем сказали: «Это от Аллаха», чтобы приобрести за это ничтожную плату. Разве то, что вы получили из знаний, не запрещает вам спрашивать у них? Нет, клянусь Аллахом, мы не видели ни одного из них, кто бы спрашивал вас о том, что вам ниспослано!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7363</td></tr><tr><td>Arabic No</td><td>7363</td></tr><tr><td>Reference</td><td>Book 96 Hadith 90</td></tr></tbody></table></div>
 

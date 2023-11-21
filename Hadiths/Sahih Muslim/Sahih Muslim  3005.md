@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muslim al-Qurri reported:I asked Ibn Abbas (Allah be pleased with them) about Ta
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim] Telah menceritakan kepada kami [Rauh bin Ubadah] Telah menceritakan kepada kami [Syu'bah] dari [Muslim Al Qurri] ia berkata; Saya bertanya kepada [Ibnu Abbas] radliallahu 'anhuma tentang Mut'atul Hajji (haji tamattu'), dan adapun Ibnu Az Zubair, maka ia melarang untuk melakukannya, maka Ibnu Umar menjawab, "Ini [Ummu Zubair] yang menceritakan bahwa Rasulullah shallallahu 'alaihi wasallam telah memberikan keringanan untuk melakukannya. Masuklah kalian, dan tanyakanlah kepadanya." Maka kami pun masuk menemuinya dan ternyata ia adalah seorang wanita yang besar tubuhnya dan buta. Ummu Zubair pun berkata, "Rasulullah shallallahu 'alaihi wasallam telah memberikan Rukhshah (keringanan untuk melaksanakan haji tamattu')." Dan Telah meceritakannya kepada kami [Ibnul Mutsanna] Telah menceritakan kepada kami [Abdurrahman] -dalam riwayat lain- Dan Telah meceritakannya kepada kami [Ibnu Basysyar] Telah menceritakan kepada kami [Muhammad bin Ja'far] semuanya dari [Syu'bah] dengan isnad ini. Adapun Abdurrahman, maka di dalam haditsnya tercantum; "Al Mut'ah" ia tidak menyebutnya; "Mut'atul Hajji." Adapun Ibnu Ja'far, ia berkata; Syu'bah berkata, Muslim berkata, "Tidak tahu, apakah Mu'atul Hajji ataukah Mut'atun Nisa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3005</td></tr><tr><td>Arabic No</td><td>1238.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 213</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3005</td></tr><tr><td>Arabic No</td><td>1238.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 213</td></tr></tbody></table></div>
 

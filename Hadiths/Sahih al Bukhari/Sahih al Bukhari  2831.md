@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:When the Divine Inspiration: "Those of the believers who sit (a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] dari [Abu Ishaq] berkata aku mendengar [Al Bara' radliallahu 'anhu] berkata; Ketika turun ayat 97 Surah an-Nisaa' yang artinya ("Tidaklah sama orang-orang yang duduk-duduk saja (tidak ikut berperang) dari kalangan Kaum Mu'minin…"), Rasulullah shallallahu 'alaihi wasallam memanggil Zaid, maka dia datang dengan membawa papan tulis lalu dia menulis ayat itu. Kemudian Ummu Maktum datang mengadukan alasannya, maka turunlah ayat ini ("Tidaklah sama orang-orang yang duduk-duduk saja (tidak ikut berperang) dari kalangan Kaum Mu'minin tanpa memiliki alasan…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>2831</td></tr><tr><td>Reference</td><td>Book 56 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Когда был ниспослан аят: “Не равны те из верующих, которые отсиживаются…” (сура “ан-Ниса”, аят 95), Посланник Аллаха ﷺ позвал Зейда, и тот принёс лопатку и записал на ней эти аяты. Тут Ибн Умм Мактум пожаловался на свою слепоту, и тогда были ниспосланы аяты: “Не равны те из верующих, которые отсиживаются, не испытывая тягот…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>2831</td></tr><tr><td>Reference</td><td>Book 56 Hadith 47</td></tr></tbody></table></div>
 

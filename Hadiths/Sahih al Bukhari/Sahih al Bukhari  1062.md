@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:In the lifetime of the Prophet (ﷺ) the sun eclipsed and the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Ghoilan] berkata, telah telah menceritakan kepada kami [Sa'id bin 'Amir] dari [Syu'bah] dari [Yunus] dari [Al Hasan] dari [Abu Bakrah radliallahu 'anhu] berkata: "Telah pernah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam, kemudian Beliau mendirikan shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1062</td></tr><tr><td>Arabic No</td><td>1062</td></tr><tr><td>Reference</td><td>Book 16 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Бакра, да будет доволен им Аллах, сказал: «(Когда) при жизни Посланника Аллаха ﷺ произошло солнечное затмение, он совершил молитву в два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1062</td></tr><tr><td>Arabic No</td><td>1062</td></tr><tr><td>Reference</td><td>Book 16 Hadith 21</td></tr></tbody></table></div>
 

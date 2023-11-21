@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: A woman made a sign from behind a curtain to ind
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muhammad Ash Shuri] berkata, telah menceritakan kepada kami [Khalid bin 'Abdurrahman] berkata, telah menceritakan kepada kami [Muthi' bin Maimun] dari [Shafiyah binti Ishmah] dari ['Aisyah radliallahu 'anha] ia berkata, "Seorang wanita dari balik satir memberikan kitab (Al Qur'an kepada Rasulullah shallallahu 'alaihi wasallam, lalu Nabi shallallahu 'alaihi wasallam memegang tangannya. Beliau bersabda: "Aku tidak tahu, ini tangan laki-laki atau tangan perempuan?" Wanita itu menjawab, "Ini tangan perempuan." Beliau bersabda lagi: "Jika kamu perempuan maka ubahlah warna kulitmu." Yaitu dengan pacar)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4166</td></tr><tr><td>Arabic No</td><td>4166</td></tr><tr><td>Reference</td><td>Book 35 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Однажды одна женщина подала Посланнику Аллаха ﷺ письмо из-за занавески, но Пророк ﷺ убрал руку со словами: “Я не могу понять, чья это рука мужчины или женщины!” Та сказала: “Женщины”. Посланник Аллаха ﷺ сказал: “Если бы ты была женщиной, ты бы изменила свои ногти!” Он имел в виду, что ей следовало бы окрасить ногти хной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4166</td></tr><tr><td>Arabic No</td><td>4166</td></tr><tr><td>Reference</td><td>Book 35 Hadith 8</td></tr></tbody></table></div>
 

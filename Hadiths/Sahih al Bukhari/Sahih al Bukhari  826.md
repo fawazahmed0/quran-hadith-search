@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mutarrif:'Imran and I prayed behind 'Ali bin Abi Talib and he said Takb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad bin Zaid] berkata, telah menceritakan kepada kami [Ghailan bin Jarir] dari [Mutharrif] berkata, "Aku dan 'Imran pernah shalat di belakang 'Ali bin Abu Thalib? radliallahu 'anhu, jika sujud ia bertakbir, jika rukuk ia bertakbir, jika mengangkat (kepala dari sujud) ia bertakbir, jika bangkit berdiri dari rakaat ia juga bertabir. Selesai salam, ['Imran] memegang tanganku lalu berkata, "Sungguh dia telah shalat bersama kita dengan tata cara shalatnya Muhammad shallallahu 'alaihi wasallam." Atau dia berkata, "Sungguh dengan shalatnya ini dia telah mengingatkan aku tentang shalatnya Muhammad shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>826</td></tr><tr><td>Arabic No</td><td>826</td></tr><tr><td>Reference</td><td>Book 10 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мутарриф сказал: «Однажды я совершал молитву вместе с ‘Имраном позади ‘Али ибн Абу Талиба, да будет доволен им Аллах. И когда он совершал земной поклон, он говорил: “Аллаху акбар” /такбир/, и когда поднимал голову — говорил: “Аллаху акбар”. И когда он поднимался с двух рак‘атов, так же говорил: “Аллаху акбар”. Когда он закончил молитву, ‘Имран ибн Хусейн взял меня за руку и сказал: “Он совершил с нами молитву Мухаммада ﷺ”. Или он сказал: “Он напомнил мне молитву Мухаммада ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>826</td></tr><tr><td>Arabic No</td><td>826</td></tr><tr><td>Reference</td><td>Book 10 Hadith 220</td></tr></tbody></table></div>
 

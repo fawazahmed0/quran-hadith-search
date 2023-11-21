@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported the Messenger of Allah (ﷺ) said:My people would come to m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib] dan [Washil bin Abdul A'la] sedangkan lafazh tersebut milik Washil, keduanya berkata, telah menceritakan kepada kami [Ibnu Fudlail] dari [Abu Malik al-Asyja'i] dari [Abu Hazm] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Umatku menemuiku di telaga, dan aku menghalau mereka darinya sebagaimana seorang laki-laki menghalau unta seseorang dari untanya." Mereka bertanya, 'Wahai Nabi Allah, apakah engkau mengenal kami? ' Beliau menjawab: 'Ya. Kalian memiliki tanda yang tidak dimiliki oleh selain kalian. Kalian menemuiku dalam keadaan putih bersinar karena bekas air wudlu. Dan sungguh sekelompok dari kalian akan dihalau dariku, sehingga kalian tidak sampai kepadaku. Lalu aku berkata: 'Wahai Rabbku, mereka adalah para sahabatku'. Lalu seorang malaikat menjawab perkataanku seraya berkata, 'Apakah kamu tahu sesuatu yang terjadi setelah kepergianmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>582</td></tr><tr><td>Arabic No</td><td>247.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «(Члены) моей общины подойдут ко мне у водоёма, а я буду отгонять от него людей, (которые не имеют на него права), подобно тому, как человек отгоняет чужих верблюдов от своих (на водопое)». (Люди) спросили: «О Пророк Аллаха! Ты узнаешь нас?» (Пророк ﷺ) ответил: «Да, (ведь) у вас будет признак, которого не будет у других. Вы придёте ко мне с сияющим следом на лице, а также на руках и ногах от следов омовения. Группа из вас будет отогнана от меня, и они не достигнут (водоёма). Я стану говорить: “О мой Господь! Они из моей общины!”, но ангел ответит мне: “Знаешь ли ты, что они внесли (в религию) после тебя?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>582</td></tr><tr><td>Arabic No</td><td>247.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
 

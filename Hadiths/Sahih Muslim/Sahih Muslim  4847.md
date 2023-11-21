@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Jarir b. Abdullah who said:I saw that t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Nashr bin Ali Al Jahdlami] dan [Shalih bin Hatim bin Wardan] semuanya dari [Yazid], [Al Jahdlami] berkata; telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Yunus bin 'Ubaid] dari ['Amru bin Sa'id] dari [Abu Zur'ah bin 'Amru bin Jarir] dari [Jarir bin Abdullah] dia berkata, "Saya pernah melihat Rasulullah shallallahu 'alaihi wasallam mengusap-usap ubun-ubun kuda dengan jari-jari beliau sambil bersabda: "Setiap kuda pada ubun-ubunnya telah tertulis dengan kebaikan hingga datangnya hari kiamat, yakni pahala dan rampasan perang." Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan] keduanya dari [Yunus] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4847</td></tr><tr><td>Arabic No</td><td>1872.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4847</td></tr><tr><td>Arabic No</td><td>1872.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 143</td></tr></tbody></table></div>
 

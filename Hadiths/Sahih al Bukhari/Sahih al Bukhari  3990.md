@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi: Ibn 'Umar was once told that Said bin Zaid bin 'Amr bin Nufail, o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3990</td></tr><tr><td>Arabic No</td><td>3990</td></tr><tr><td>Reference</td><td>Book 64 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Нафи‘а, что однажды, в пятницу Ибн ‘Умару, да будет доволен Аллах им и его отцом, сказали, что Са‘ид ибн Зейд ибн ‘Амр ибн Нуфейль, который был участником битвы при Бадре, заболел. И Ибн ‘Умар поехал к нему, когда уже наступил день и приблизилось время пятничной молитвы. Таким образом он не совершил пятничную молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3990</td></tr><tr><td>Arabic No</td><td>3990</td></tr><tr><td>Reference</td><td>Book 64 Hadith 41</td></tr></tbody></table></div>
 

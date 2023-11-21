@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) said, "The keys of the Unseen are
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] dia berkata; Telah menceritakan kepadaku [Ibnu Wahab] dia berkata; Telah menceritakan kepadaku [Umar bin Muhammad bin Zaid bin Abdullah bin Umar] bahwa [Bapaknya] menceritakan kepadanya; Sesungguhnya [Abdullah bin Umar radliallahu 'anhuma] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Kunci-kunci perkara ghaib ada lima." lalu beliau membaca ayat; Sesungguhnya hanya pada Allah sajalah pengetahuan tentang Hari Kiamat.. (Luqman:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 65 Hadith 300</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «Ключей к сокровенному пять», а затем прочитал (слова Всевышнего): «Воистину, только Аллах обладает знанием о Часе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 65 Hadith 300</td></tr></tbody></table></div>
 

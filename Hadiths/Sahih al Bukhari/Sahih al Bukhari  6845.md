@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Abu Bakr came to towards me and struck me violently with his fist
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] telah menceritakan kepadaku [Ibnu Wahab] telah mengabarkan kepadaku ['Amru] bahwasanya [Abdurrahman bin Al Qasim] pernah menceritakan kepadanya dari [ayahnya] dari ['Aisyah] mengatakan; 'Abu Bakar datang dengan tiba-tiba kemudian mendorong dadaku dengan sekuatnya seraya mengatakan; 'Engkau telah menahan orang-orang berangkat karena kalung! ' Maka aku seolah-olah terkena kematian karena kedudukan Rasulullah shallallahu 'alaihi wasallam yang juga telah menjadikanku tersakiti semisalnya.' Sedang istilah wakaza dan lakaza maknanya sama, yaitu menggencet dengan kuat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6845</td></tr><tr><td>Arabic No</td><td>6845</td></tr><tr><td>Reference</td><td>Book 86 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Абу Бакр пришёл, сильно толкнул меня в грудь и сказал: “Ты задержала людей из-за ожерелья?” (Я оставалась неподвижной) из-за того, что Посланник Аллаха ﷺ спал на мне, хотя он (Абу Бакр) причинил мне боль»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6845</td></tr><tr><td>Arabic No</td><td>6845</td></tr><tr><td>Reference</td><td>Book 86 Hadith 67</td></tr></tbody></table></div>
 

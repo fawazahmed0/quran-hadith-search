@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qilaba:I saw Malik bin Huwairith saying Takbir and raising both his
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq Al Wasithi] berkata, telah menceritakan kepada kami [Khalid bin 'Abdullah] dari [Khalid] dari [Abu Qilabah] bahwa dia melihat [Malik Al Huwairits] ketika shalat, dia bertakbir dan mengangkat kedua tangannya, apabila hendak rukuk mengangkat tangannya, dan ketika mengangkat kepalanya dari rukuk dia juga mengangkat kedua tangannya. Lalu dia menceritakan bahwa Rasulullah shallallahu 'alaihi wasallam berbuat seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>737</td></tr><tr><td>Arabic No</td><td>737</td></tr><tr><td>Reference</td><td>Book 10 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Килябы о том, что он видел Малика ибн аль-Хувайриса, когда тот совершал молитву. Он произнёс слова такбира и поднял свои руки. Когда он хотел совершить поясной поклон, он поднял руки, и когда он поднимал голову из поясного поклона, он (снова) поднял свои руки, и он рассказывал о том, что так поступал Посланник Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>737</td></tr><tr><td>Arabic No</td><td>737</td></tr><tr><td>Reference</td><td>Book 10 Hadith 131</td></tr></tbody></table></div>
 

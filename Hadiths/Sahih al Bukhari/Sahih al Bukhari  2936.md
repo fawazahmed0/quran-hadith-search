@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Allah's Messenger (ﷺ) wrote a letter to Caesar s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq] telah mengabarkan kepada kami [Ya'qub bin Ibrahim] telah bercerita kepada kami [putra dari saudaraku Ibnu Syihab] dari [pamannya] berkata telah bercerita kepadaku ['Ubaidullah bin 'Abdullah bin 'Utbah bin Mas'ud] bahwa ['Abdullah bin 'Abbas radliallahu 'anhuma] mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam menulis surat kepada Qaishar (Raja Romawi/Heraklius) yang dalam isinya Beliau bersabda: "Jika kamu enggan (masuk Islam) maka kamu menanggung dosa bangsa Al Arisiyyiin (Erapa)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 56 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ написал письмо Кайсару, в котором говорилось: “Если же ты отвергнешь (ислам), то на тебе будет лежать грех твоего народа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 56 Hadith 149</td></tr></tbody></table></div>
 

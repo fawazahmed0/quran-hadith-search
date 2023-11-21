@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:One night I slept at the house of (my aunt) Maimuna and the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad] berkata, telah menceritakan kepadaku [Ibnu Wahb] berkata, telah menceritakan kepada kami ['Amru] dari ['Abdu Rabbih bin Sa'id] dari [Makhramah bin Sulaiman] dari [Kuraib] mantan budak Ibnu 'Abbas, dari [Ibnu 'Abbas] ia berkata, "Suatu malam aku pernah tidur di sisi Maimunah, sementara Nabi shallallahu 'alaihi wasallam tidur di sebelahnya pada malam itu. Rasulullah shallallahu 'alaihi wasallam kemudian berwudlu lalu berdiri menunaikan shalat. Maka aku datang dan berdiri shalat di samping kiri beliau. Namun beliau memegangku dan menggeserku ke sebelah kanannya. Setelah itu beliau shalat tiga belas rakaat, kemudian tidur hingga terdengar nafasnya. Dan memang beliau apabila tidur (terdengar suara) nafas beliau. Kemudian seorang mu'adzin datang kepada beliau, maka beliau pun keluar untuk menunaikan shalat (Shubuh) tanpa berwudlu lagi." 'Amru berkata, "Aku ceritakan riwayat ini kepada [Bukair], lalu ia berkata, "Kuraib juga telah menceritakan kepadaku seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>698</td></tr><tr><td>Arabic No</td><td>698</td></tr><tr><td>Reference</td><td>Book 10 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) я заночевал у (своей тётки) Маймуны(, жены) Пророка ﷺ когда у неё находился и он. Совершив омовение, (Пророк ﷺ) встал на намаз, а я встал слева от него, но он поставил меня справа, после чего совершил намаз в тринадцать рак‘атов. Заснув, (Пророк ﷺ) стал громко дышать, так как во сне он обычно дышал громко, а потом к нему пришёл муаззин и он вышел (из дома) и помолился, не совершив омовения (повторно)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>698</td></tr><tr><td>Arabic No</td><td>698</td></tr><tr><td>Reference</td><td>Book 10 Hadith 93</td></tr></tbody></table></div>
 

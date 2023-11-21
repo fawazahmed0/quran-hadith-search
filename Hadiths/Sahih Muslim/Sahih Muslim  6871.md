@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Messenger (ﷺ) used to make these supplications:" 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] -dan lafadh ini milik Abu Bakr- mereka berdua berkata; telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari ['Aisyah] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah membaca doa yang berbunyi: "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari fitnah api neraka dan siksanya, dari fitnah kubur dan siksanya, dari fitnah kekayaan, dari fitnah kefakiran, dan aku berlindung kepada-Mu ya Allah dari fitnah Dajjal. Ya Allah, hapuskanlah dosaku dengan air salju dan air embun, bersihkanlah hatiku dari segala kesalahan sebagaimana Engkau bersihkan kain putih dari noda. Ya Allah, jauhkanlah antara aku dan dosaku sebagaimana Engkau jauhkan antara timur dengan barat. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kemalasan dan kepikunan serta dari dosa dan lilitan hutang." Dan telah menceritakannya kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki'] dari [Hisyam] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6871</td></tr><tr><td>Arabic No</td><td>589.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6871</td></tr><tr><td>Arabic No</td><td>589.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 65</td></tr></tbody></table></div>
 

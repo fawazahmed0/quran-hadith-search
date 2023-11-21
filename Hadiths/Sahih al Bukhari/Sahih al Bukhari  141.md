@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "If anyone of you on having sexual r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Salim bin Abu Al Ja'd] dari [Kuraib] dari [Ibnu 'Abbas] dan sampai kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika salah seorang dari kalian ingin mendatangi isterinya (untuk bersetubuh), maka hendaklah ia membaca; 'ALLAHUMMA JANNIBNASY SYAITHAANA WA JANNIBISY SYAITHAANA MAA RAZAQTANAA (Ya Allah, jauhkanlah kami dari setan dan jauhkanlah setan dari apa yang Engkau rizkikan (anak) kepada kami) '. Jika dikaruniai anak dari hubungan keduanya maka setan tidak akan dapat mencelakakan anak itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>141</td></tr><tr><td>Arabic No</td><td>141</td></tr><tr><td>Reference</td><td>Book 4 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах ими обоими, передал, что до него дошло о том, что Пророк ﷺ сказал: «Если бы кто-нибудь из вас, пожелав совокупиться со своей женой сказал: “С именем Аллаха, о Аллах, удали нас от шайтана, и удали шайтана от того, чем Ты наделил нас!” /БисмиЛляхи, Аллахумма, джаннибна-ш-шайтана, ва джанниби-ш-шайтана ма разакътана!/, — то если им было суждено иметь ребёнка, (шайтан) не (смог бы) повредить ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>141</td></tr><tr><td>Arabic No</td><td>141</td></tr><tr><td>Reference</td><td>Book 4 Hadith 7</td></tr></tbody></table></div>
 

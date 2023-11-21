@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported:'The Messenger of Allah (ﷺ) said: Do not prevent the maid-s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Bapakku] dan [Ibnu Idris] keduanya berkata, telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah Shallallahu'alaihiwasallam bersabda, "Janganlah kalian menghalangi kaum wanita pergi ke masjid Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>990</td></tr><tr><td>Arabic No</td><td>442.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Не запрещайте рабыням Аллаха (посещать) мечети Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>990</td></tr><tr><td>Arabic No</td><td>442.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 152</td></tr></tbody></table></div>
 

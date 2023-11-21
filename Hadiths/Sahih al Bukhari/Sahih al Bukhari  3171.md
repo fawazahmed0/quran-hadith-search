@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Hani:the daughter of Abu Talib: I went to Allah's Messenger (ﷺ) on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu An Nadlar, maula 'Umar bin 'Ubaidullah] bahwa [Abu Murrah, maula Ummu Hani' binti Abu Thalib] mengabarkan kepadanya bahwa dia mendengar [Ummu Hani' binti AbuThalib] berkata; "Aku pergi menemui Rasulullah shallallahu 'alaihi wasallam pada hari pembebasan Makkah ternyata Beliau sedang mandi, dan Fathimah, putri Beliau menutupinya dengan tabir. Aku memberi salam kepada Beliau lalu Beliau bertanya: "Siapa ini?". Aku jawab; "Aku Ummu Hani' binti Abu Thalib". Beliau berkata: "Marhaban (selamat datang) Ummu Hani'". Setelah selesai mandi, Beliau shalat delapan raka'at dengan berselimut pada satu baju. Aku berkata: "Wahai Rasulullah, anak ibuku ('Ali bin Abu Thalib radliallahu 'anhu) mengatakan dia telah membunuh seseorang yang telah kulindungi, yakni Fulan bin Hubairah". Maka Rasulullah Shallallahu'alaihiwasallam bersabda: " Kami melindungi seseorang yang kau lindungi wahai Ummu Hani'". Ummu Hani' berkata: "Saat itu adalah waktu dhuha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3171</td></tr><tr><td>Arabic No</td><td>3171</td></tr><tr><td>Reference</td><td>Book 58 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Хани бинт Абу Талиб, сказала: «B год завоевания Мекки я отправилась к Посланнику Аллаха ﷺ, (войдя) к нему в то время, когда он совершал большое омовение, а его дочь Фатима прикрывала его. Я обратилась к нему с приветствием. Он спросил: “Кто эта (женщина)?”, — а я отозвалась: “Я Умм Хани бинт Абу Талиб”. Он сказал: “Добро пожаловать, Умм Хани!”, — а после того, как закончил своё омовение, совершил молитву в восемь рак‘атов, завернувшись в одну одежду. Когда он закончил (молиться), я сказала: “О Посланник Аллаха, мой брат Али грозится убить одного человека по имени такой-то, сын Хубайра, которого я взяла под свою защиту!” Посланник Аллаха ﷺ сказал: “Мы берём под свою защиту того, кого взяла под свою защиту ты, о Умм Хани”».\nУмм Хани сказала: «И это было утром /духа/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3171</td></tr><tr><td>Arabic No</td><td>3171</td></tr><tr><td>Reference</td><td>Book 58 Hadith 13</td></tr></tbody></table></div>
 

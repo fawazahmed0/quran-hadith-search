@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Nu'aym ibn Hammar: I heard the Messenger of Allah (ﷺ) say: Allah, the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Daud bin Rusyaid] telah menceritakan kepada kami [Al Walid] dari [Sa'id bin Abdul Aziz] dari [Makhul] dari [Katsir bin Murrah Abu Syajarah] dari [Nu'aim bin Hammar] dia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah 'azza wajalla berfirman; Wahai anak Adam, janganlah kamu meninggalkan-Ku (karena tidak mengerjakan) empat raka'at pada permulaan siang, niscaya aku akan mencukupi kebutuhanmu di sore hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1289</td></tr><tr><td>Arabic No</td><td>1289</td></tr><tr><td>Reference</td><td>Book 5 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ну‘айма ибн Хаммара, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: “Всемогущий и Великий Аллах говорит: “О сын Адама, не ленись совершать четыре рак‘ата в начале дня, и Я избавлю тебя от забот до конца его!””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1289</td></tr><tr><td>Arabic No</td><td>1289</td></tr><tr><td>Reference</td><td>Book 5 Hadith 40</td></tr></tbody></table></div>
 

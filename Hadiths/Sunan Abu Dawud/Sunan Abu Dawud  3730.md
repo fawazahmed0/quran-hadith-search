@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: I was in the house of Maymunah. The Messenger of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] -yaitu Ibnu Salamah- dari [Ali bin Zaid] dari [Umar bin Harmalah] dari [Ibnu Abbas] ia berkata, "Aku pernah berada di rumah Maimunah, kemudian Rasulullah shallallahu 'alaihi wasallam bersama Khalid bin Al Walid masuk. Para sahabat kemudian datang membawa dua ekor biawak bakar di atas dua dahan, Rasulullah shallallahu 'alaihi wasallam kemudian meludah (karena jijik). Khalid berkata, "Wahai Rasulullah, apakah engkau jijik kepadanya?" Beliau bersabda: "Benar." Kemudian Rasulullah shallallahu 'alaihi wasallam diberi susu, lalu beliau meminumnya. Setelah itu Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian makan suatu makanan, maka hendaknya ia mengucapkan: 'ALLAAHUMMA BAARIK LANAA FIIHI WA ATH'IMNAA KHAIRAN MINHU (Ya Allah, berkahilah kami padanya dan berilah kami makan yang lebih baik darinya!) ', dan apabila ia diberi minum susu maka hendaknya ia mengucapkan: 'ALLAAHUMMA BAARIK LANAA FIIHI WA ZIDNAA MINHU (Ya Allah, berkahilah kami padanya dan tambahkanlah kami darinya!) '. Sesungguhnya tidak ada sesuatu yang mencukupkan dari makan dan minum kecuali susu." Abu Daud berkata, "Ini adalah lafazh Musaddad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3730</td></tr><tr><td>Arabic No</td><td>3730</td></tr><tr><td>Reference</td><td>Book 27 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса (да будет доволен Аллах им и его отцом): «Однажды, когда я был в доме Маймуны, Посланник Аллаха ﷺ пришёл вместе с Халидом ибн аль-Валидом. Им принесли двух ящериц-шипохвостов, зажаренных на двух прутах. Посланник Аллаха ﷺ сплюнул, а Халид сказал: “По-моему, ты испытываешь отвращение (к этой еде)”. Он ответил: “Да”. А потом Посланнику Аллаха ﷺ принесли молоко и он выпил его, а потом сказал: “Когда один из вас поест, пусть скажет: “О Аллах, сделай эту еду благодатной для нас и накорми нас ещё лучшим” /Аллахумма барик ля-на фи-хи ва атимна хайран минху/. А когда его напоят молоком, пусть он скажет: “О Аллах, сделай этот напиток благодатным для нас и добавь нам его”, ибо, поистине, ничто не заменяет еду и питьё одновременно, как заменяет молоко” /Аллахумма барик ля-на фи-хи ва зидна мин-ху/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3730</td></tr><tr><td>Arabic No</td><td>3730</td></tr><tr><td>Reference</td><td>Book 27 Hadith 62</td></tr></tbody></table></div>
 

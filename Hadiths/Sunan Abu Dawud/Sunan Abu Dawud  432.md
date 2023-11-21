@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: Amr ibn Maymun al-Awdi said: Mu'adh ibn Jabal, the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahman bin Ibrahim, Duhaim Ad Dimasyqi] telah menceritakan kepada kami [Al Walid] telah menceritakan kepada kami [Al Auza'i] telah menceritakan kepadaku [Hassan bin 'Athiyyah] dari [Abdurrahman bin Sabith] dari [Amru bin Maimun Al Audi] dia berkata; Mu'adz bin Jabal mendatangi kami sebagai utusan Rasulullah Shallallahu alaihi wasallam. Dia berkata; Saya mendengar takbirnya ketika shalat fajar, dia adalah orang yang bersuara lantang. Lalu saya pun suka padanya, maka saya tidak meninggalkannya (selalu melaziminya) hingga saya menguburkannya di Syam ketika dia meninggal dunia. Kemudian saya mencari orang yang paling fakih setelahnya, maka saya mendatangi [Ibnu Mas'ud], dan saya pun melaziminya hingga dia meninggal dunia. Dia pernah berkata kepadaku; Rasulullah Shallallahu alaihi wasallah pernah bersabda kepadaku: "Apa yang akan kalian lakukan apabila pemimpin kalian nanti melaksanakan shalat bukan pada waktunya?" Saya berkata; Apa yang engkau perintahkan kepadaku apabila aku mendapatinya wahai Rasulullah? Beliau menjawab: "Shalatlah pada waktunya, dan jadikanlah shalat kamu bersama mereka sebagai nafilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>432</td></tr><tr><td>Arabic No</td><td>432</td></tr><tr><td>Reference</td><td>Book 2 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн Маймун аль-Аудий сказал: «(Однажды) к нам в Йемен приехал Му‘аз ибн Джабаль, как посланец Посланника Аллаха ﷺ».(‘Амр) сказал: «И я слышал, как он произносил такбир во время утренней молитвы. Он был человеком с громким хриплым голосом. Я полюбил его и не расставался с ним, пока не похоронил его в Шаме. Затем я начал искать человека более знающего в религии после него, и пришел к Ибн Мас‘уду и оставался в его обществе в плоть до его смерти. (Ибн Мас‘уд) сказал: “Посланник Аллаха ﷺ сказал мне: “Какого будет вам, когда к вам придут такие правители, которые будут совершать молитву не в свое время?” Я сказал: “И что ты велишь мне делать, если меня застанет это (время), о Посланник Аллаха?” (Посланник Аллаха ﷺ) сказал: “Совершай молитву вовремя, а свою молитву вместе с ними совершай как добровольную”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>432</td></tr><tr><td>Arabic No</td><td>432</td></tr><tr><td>Reference</td><td>Book 2 Hadith 42</td></tr></tbody></table></div>
 

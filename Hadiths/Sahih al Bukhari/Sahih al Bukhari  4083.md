@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "This is a mountain that loves us and is l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Nashr bin Ali] dia berkata, telah mengabarkan kepadaku [Ayahku] dari [Qurrah bin Khalid] dari [Qatadah] aku mendengar [Anas] radliallahu 'anhu bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Ini adalah gunung yang mencintai kami dan kamipun mencintainya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4083</td></tr><tr><td>Arabic No</td><td>4083</td></tr><tr><td>Reference</td><td>Book 64 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «Эта гора любит нас, а мы любим её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4083</td></tr><tr><td>Arabic No</td><td>4083</td></tr><tr><td>Reference</td><td>Book 64 Hadith 127</td></tr></tbody></table></div>
 

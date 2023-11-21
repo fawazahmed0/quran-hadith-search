@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Mâlik Ibn Al-Huwayrith (que Dieu l'agrée), Abou Qilâba transmet qu'i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ibnu Juraij] telah menceritakan kepadaku [Ibnu Syihab] dari [Salim bin Abdullah] bahwa [Ibnu Umar] berkata, "Rasululllah apabila mendirikan shalat maka beliau mengangkat kedua tangannya hingga menjadi sejajar dengan kedua pundaknya, kemudian bertakbir, lalu jika beliau ingin rukuk maka beliau mengerjakan seperti itu, dan apabila berdiri dari rukuk maka beliau mengerjakan seperti itu, namun beliau tidak mengerjakannya ketika mengangkat kepalanya dari sujud." Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Hujain, yaitu Ibnu al-Mutsanna] telah menceritakan kepada kami [al-Laits] dari [Uqail] --lewat jalur periwayatan lain--, dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Quhzad] telah menceritakan kepada kami [Salamah bin Sulaiman] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] keduanya dari [az-Zuhri] dengan sanad ini sebagaimana dikatakan Ibnu Juraij, "Rasulullah shallallahu 'alaihi wasallam apabila mendirikan shalat maka beliau mengangkat kedua tangannya hingga menjadi sejajar dengan kedua pundaknya, kemudian bertakbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>862</td></tr><tr><td>Arabic No</td><td>390.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «Приступая к молитве, Посланник Аллаха ﷺ поднимал руки до уровня плеч, а потом произносил слова «Аллаху акбар». Он поступал так же, когда хотел совершить поясной поклон и когда выпрямлялся после поясного поклона, однако не делал этого, подняв голову после совершения земного поклона
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>862</td></tr><tr><td>Arabic No</td><td>390.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 25</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported:I prayed with the Messenger of Allah (ﷺ) and he lengthened i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Ishaq bin Ibrahim] keduanya dari [Jarir] -dalam jalur lain [Utsman] berkata- telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Wa'il] ia berkata, [Abdullah] berkata; "Saya pernah shalat bersama Rasulullah shallallahu 'alaihi wasallam lalu beliau memanjangkannya hingga saya berkeinginan untuk berbuat sesuatu yang tidak baik." Ditanyakan kepadanya, "Perbuatan apa yang hendak kamu lakukan?" Abdullah menjawab, "Saya hendak duduk dan meninggalkannya." Dan telah menceritakannya kepada kami [Isma'il bin Khalil] dan [Suwaid bin Sa'id] dari [Ali bin Mushir] dari [Al A'masy] dengan isnad ini semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1815</td></tr><tr><td>Arabic No</td><td>773.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 243</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «(Как-то раз, когда) я совершал (ночную) молитву вместе с Посланником Аллаха ﷺ он стоял так долго, что мне даже захотелось сделать нечто дурное». (Его) спросили: «Что же (именно)?» Он ответил: «Мне захотелось сесть и оставить его (стоять в одиночестве)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1815</td></tr><tr><td>Arabic No</td><td>773.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 243</td></tr></tbody></table></div>
 

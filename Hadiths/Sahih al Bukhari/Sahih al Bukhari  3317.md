@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Once we were in the company of Allah's Messenger (ﷺ) in a c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdah bin 'Abdullah] telah mengabarkan kepada kami [Yahya bin Adam] dari [Isra'il] dari [Manshur] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah] berkata; "Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam di suatu gua lalu turunlah firman Allah Ta'ala *Wal mursalaati 'urfaa, (Demi malaikat-malaikat yang datang membawa kebaikan). Ketika kami sedang menyimak apa yang Beliau bacakan melalui mulut Beliau, tiba-tiba ada seekor ular yang keluar dari lubangnya. Maka kami segera mengejarnya untuk membunuhnya namun ular itu dapat lolos dari kami dan masuk ke dalam lubangnya kembali. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Ular itu telah selamat dari keburukan kalian sebagaimana kalian pun telah selamat dari keburukannya". Dan dari [Isra'il] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah] seperti matan hadits ini, berkata; "Kami mengambil bacaan ayat itu lewat mulut Beliau secara lembut". Dan diikuti pula oleh [Abu 'Awanah] dari [Mughirah]. Dan [Hafsh], [Abu Mu'awiyah] dan [Sulaiman bin Qarm] berkata dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Abdullah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3317</td></tr><tr><td>Arabic No</td><td>3317</td></tr><tr><td>Reference</td><td>Book 59 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах сказал: «Когда мы находились с Посланником Аллаха ﷺ в пещере, ему начали ниспосылаться (аяты, в которых говорилось): “Клянусь посылаемыми с добром”, и, поистине, я слышал их (непосредственно) из его уст. Внезапно из своей норы вылезла змея, мы бросились к ней, чтобы убить её, но не успели, и она заползла в свою нору. Тогда Посланник Аллаха ﷺ сказал: “Её защитили от вашего зла, как и вас защитили от её зла”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3317</td></tr><tr><td>Arabic No</td><td>3317</td></tr><tr><td>Reference</td><td>Book 59 Hadith 123</td></tr></tbody></table></div>
 

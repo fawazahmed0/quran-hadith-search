@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that when Allah's Messenger (ﷺ) set out on a journey in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir] telah mengabarkan kepada kami ['Abdullah bin Wahb] telah mengabarkan kepadaku [Sulaiman bin Bilal] dari [Suhail bin Abu Shalih] dari [Bapaknya] dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam apabila dalam perjalanan dan telah memasuki saat menjelang fajar, maka beliau akan mengucapkan: "SAMI'A SAAMI'UN BIHAMDILLAAHI WAHUSNI BALAA'IHI 'ALAINAA ROBBANAA SHOOHIBNAA WA AFDHIL 'ALAINAA 'AAIDZAN BILLAAHI MINAN NAARI "Allah Maha Mendengar dan Dia-lah yang menciptakan pendengaran. Dengan memuji Allah dan dengan ujian-Nya yang baik kepada kami ya Tuhan kami, temanilah kami dan berikanlah kemurahan kepada kami." Rasulullah shallallahu 'alaihi wasallam mengucapkan doa tersebut dengan memohon perlindungan kepada Allah dari siksa neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6900</td></tr><tr><td>Arabic No</td><td>2718</td></tr><tr><td>Reference</td><td>Book 48 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6900</td></tr><tr><td>Arabic No</td><td>2718</td></tr><tr><td>Reference</td><td>Book 48 Hadith 93</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:I asked 'Aisha about treating poisonous stings (a snake-bite o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [Sulaiman As Syaibani] telah menceritakan kepada kami [Abdurrahman bin Al Aswad] dari [Ayahnya] dia berkata; saya bertanya kepada ['Aisyah] tentang ruqyah (jampi-jampi dari al Qur'an dan As Sunnah) dari penyakit demam, dia menjawab; "Nabi shallallahu 'alaihi wasallam mengizinkan ruqyah dari setiap penderita sakit demam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5741</td></tr><tr><td>Arabic No</td><td>5741</td></tr><tr><td>Reference</td><td>Book 76 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ разрешил читать заговоры (в качестве средства лечения) ядовитых укусов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5741</td></tr><tr><td>Arabic No</td><td>5741</td></tr><tr><td>Reference</td><td>Book 76 Hadith 56</td></tr></tbody></table></div>
 

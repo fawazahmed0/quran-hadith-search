@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:When a man from the Ansar quarreled with Az-Zubair, the Prophet (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari ['Urwah] berkata: Ada seorang dari Kaum Anshar bersengketa dengan Az Zubair lalu Nabi shallallahu 'alaihi wasallam berkata: " Wahai Zubair, berilah air dan kirimlah buat tetanggamu". Lalu orang Anshar itu berkata; "Tentu saja kamu bela dia karena dia putra bibimu". Maka Beliau shallallahu 'alaihi wasallam berkata: "Wahai Zubair, berilah air kemudian biarkanlah air memenuhi dasar ladang lalu bendunglah". Kemudian Az Zubair berkata: "Aku menganggap bahwa ayat ini turun tentang kasus ini, yaitu firman Allah dalam surah An-Nisa ayat 65 yang artinya: ("Maka demi Tuhanmu, mereka (pada hakekatnya) tidak beriman hingga mereka menjadikan kamu hakim terhadap perkara yang mereka perselisihkan…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2361</td></tr><tr><td>Arabic No</td><td>2361</td></tr><tr><td>Reference</td><td>Book 42 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Урва (ибн Зубайр), да будет доволен им Аллах, что Зубайр был в ссоре с одним из ансаров (касательно воды), и Пророк ﷺ сказал: «О Зубайр, полей (свой участок земли) и спусти (ее)». На что этот ансар (возразил): «(Так ведь) он твой двоюродный брат». И сказал (пророк), мир ему: «Поливай, Зубайр, пока вода не достигнет корней (растений), а затем удержи (воду)». И Зубайр сказал: «Думаю, что по поводу этого был ниспослан этот аят: “Но нет — клянусь твоим Господом! — они не уверуют, пока они не изберут тебя судьей во всем том, что запутано между ними” (сура «ан-Ниса», аят 65)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2361</td></tr><tr><td>Arabic No</td><td>2361</td></tr><tr><td>Reference</td><td>Book 42 Hadith 9</td></tr></tbody></table></div>
 

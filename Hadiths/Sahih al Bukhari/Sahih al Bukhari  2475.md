@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "When an adulterer commits illegal 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] berkata, telah menceritakan kepadaku [Al Laits] telah menceritakan kepada kami ['Uqail] dari [Ibnu Syihab] dari [Abu Bakar bin 'Abdurrahman] dari [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Seorang pezina tidak sempurna imannya ketika sedang berzina, dan seorang peminum khamar tidak sempurna imannya ketika sedang minum-minum dan seorang pencuri idak sempurna imannya ketika sedang mencuri dan seorang yang merampas hak orang agar pandangan manusia tertuju kepadanya tidak sempurna imannya ketika dia merampasnya". Dan dari [Sa'id] dan [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam seperti hadits ini juga kecuali tentang An-Nublah (merampas hak orang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2475</td></tr><tr><td>Arabic No</td><td>2475</td></tr><tr><td>Reference</td><td>Book 46 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда прелюбодей прелюбодействует, он не является верующим, и когда (человек) распивает опьяняющие напитки, он не является верующим, и когда вор совершает кражу, он не является верующим, и тот, кто на глазах у людей отнимает у других что-нибудь ценное, не является верующим, когда делает это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2475</td></tr><tr><td>Arabic No</td><td>2475</td></tr><tr><td>Reference</td><td>Book 46 Hadith 36</td></tr></tbody></table></div>
 

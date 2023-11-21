@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) used to teach us the Istikhara for each and eve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mutharif bin Abdullah Abu Mush'ab] telah menceritakan kepada kami [Abdurrahman bin Abu Al Mawal] dari [Muhammad bin Al Munkadir] dari [Jabir] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam pernah mengajarkan istikharah kepada kami untuk setiap perkara, sebagaimana mengajarkan surat dari Al Qur'an. (Sabdanya): "Jika salah seorang dari kalian menginginkan sesuatu maka hendaknya ia mengerjakan dua raka'at lalu ia mengucapkan: ALLAHUMMA INNI ASTAKHIRUKA BI 'ILMIKA WA ASTAQDIRUKA BI QUDRATIKA WA AS'ALUKA MIN FADLIKAL ADZIMI FAINNAKA TAQDIRU WALA AQDIRU WA TA'LAMU WALA A'LAMU WA ANTA A'LAMUL GHUYUB, ALLAHUMMA FAIN KUNTA TA'LAMU HADZAL AMRA (maka ia menyebutkan hajat yang ia inginkan) KHAIRAN LII FII DIENIE WA MA'AASYII WA 'AQIBATI AMRI -atau berkata; FII 'AAJILI AMRII WA AAJILIHI- FAQDURHU LI WA IN KUNTA TA'LAMU ANNA HAADZAL AMRA SYARRAN LI FI DIINII WA MA'AASYII WA 'AAQIBATI AMRII -atau berkata; FII 'AAJILI AMRII WA AAJILIHI- FASHRIFHU 'ANNI WASHRIFNI 'ANHU WAQDURLIIL KHAIRA HAITSU KAANA TSUMMA RADDLINI BIHI. (Ya Allah saya memohon pilihan kepada Engkau dengan ilmu-Mu, saya memohon penetapan dengan kekuasaan-Mu dan saya memohon karunia-Mu yang besar, karena Engkaulah yang berkuasa sedangkan saya tidak berkuasa, Engkaulah yang Maha mengetahui sedangkan saya tidak mengetahui apa-apa, dan Engkau Maha mengetahui dengan segala yang ghaib. Ya Allah jikalau Engkau mengetahui urusanku ini (ia sebutkan hajatnya) adalah baik untukku dalam agamaku, kehidupanku, serta akibat urusanku -atau berkata; baik di dunia atau di akhirat- maka takdirkanlah untukku serta mudahkanlah bagiku dan berilah berkah kepadaku, sebaliknya jikalau Engkau mengetahui bahwa urusanku ini (ia menyebutkan hajatnya) buruk untukku, agamaku, kehidupanku, serta akibat urusanku, -atau berkata; baik di dunia ataupun di akhirat- maka jauhkanlah aku daripadanya, serta takdirkanlah untukku yang baik baik saja, kemudian jadikanlah aku ridla dengannya.) " Lalu ia menyebutkan hajatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6382</td></tr><tr><td>Arabic No</td><td>6382</td></tr><tr><td>Reference</td><td>Book 80 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир, да будет доволен им Аллах, сказал: — Пророк ﷺ учил нас, как следует испрашивать благословения Аллаха во всех делах подобно тому(, как он учил нас той или иной) суре Корана, и он говорил: «Когда кто-нибудь из вас захочет сделать что-либо, пусть совершит (дополнительную молитву) в два рак‘ата, а потом скажет: “О Аллах, поистине, я прошу Тебя помочь мне Твоим знанием, и я прошу Тебя придать мне сил Твоим могуществом, и я прошу Тебя оказать мне великую милость, ибо, поистине, Ты можешь, а я не могу, Ты знаешь, а я не знаю, и Тебе известно всё о сокрытом! О Аллах, если знаешь Ты, что это дело станет благом для моей религии, для моей земной жизни и для исхода моих дел (или же он сказал: … для этой жизни и жизни будущей), то предопредели его мне. Если же Ты знаешь, что это дело окажется злом для меня в моей религии, для моей земной жизни и для исхода моих дел (или же он сказал: … для этой жизни и жизни будущей), то отврати его от меня, и отврати меня от него, и суди мне благо, где бы оно ни было, а потом приведи меня к удовлетворённости им!” \n/Аллахумма, инни астахыру-кя би-‘ильми-кя, ва астакдиру-кя би-кудрати-кя ва ас-ъалю-кя мин фадли-кя-ль-‘азыми, фа-инна-кя такдиру ва ля акдиру, ва та‘ляму ва ля а‘ляму, ва Анта ‘Алляму-ль-гуййуби! Аллахумма, ин кунта та‘ляму анна хаза-ль-амра хайрун ли фи дини, ва ма‘аши ва ‘акыбати амри (ау каля: ‘аджили амри ва аджили-хи), фа-кдур-ху ли, ва ин кунта та‘ляму анна хаза-ль-амра шаррун ли фи дини, ва ма‘аши ва ‘акыбати амри (ау каля: ‘аджили амри ва аджили-хи), фа-сриф-ху ‘анни, ва-сриф-ни ‘ан-ху ва-кдур ли-ль-хайра хайсу кяна сумма радды-ни би-хи!/, — после чего (человеку следует) сказать, чего он хочет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6382</td></tr><tr><td>Arabic No</td><td>6382</td></tr><tr><td>Reference</td><td>Book 80 Hadith 77</td></tr></tbody></table></div>
 

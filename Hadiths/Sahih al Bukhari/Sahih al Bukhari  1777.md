@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:I asked 'Aisha (whether the Prophet (ﷺ) had perfo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu 'Ashim] telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepada saya ['Atho'] dari ['Urwah bin Az Zubair] berkata; Aku bertanya kepada ['Aisyah radliallahu 'anha]: Maka dia menjawab: Rasulullah shallallahu 'alaihi wasallam tidak pernah melaksanakan 'umrah pada bulan Rajab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1777</td></tr><tr><td>Arabic No</td><td>1777</td></tr><tr><td>Reference</td><td>Book 26 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва ибн аз-Зубайр сказал: «Я спросил ‘Айшу, да будет доволен ею Аллах (совершал ли Пророк ﷺ ‘умру в месяц раджаб). Она ответила: “Посланник Аллаха ﷺ не совершал ‘умру в месяц раджаб”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1777</td></tr><tr><td>Arabic No</td><td>1777</td></tr><tr><td>Reference</td><td>Book 26 Hadith 4</td></tr></tbody></table></div>
 

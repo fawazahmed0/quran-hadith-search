@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) used to offer these two prayers together o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Sufyan] berkata, Aku mendengar [Az Zuhriy] dari [Salim] dari [bapaknya] berkata: "Nabi shallallahu 'alaihi wasallam pernah menggabungkan (menjama') shalat Maghrib dan shalat 'Isya' bila terdesak (tergesa-gesa) dalam perjalanan". Dan berkata, [Ibrahim bin Thohman] dari [Al Husain Al Mu'alim] dari [Yahya bin Abu Katsir] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Nabi shallallahu 'alaihi wasallam pernah menggabungkan shalat Zhuhur dan shalat 'Ashar bila sedang dalam perjalanan dan menggabungkan shalat Maghrib dan shalat 'Isya'. Dan dari [Husain] dari [Yahya bin Abu Katsir] dari [Hafsh bin 'Ubaidullah bin Anas] dari [Anas bin Malik radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam pernah menggabungkan shalat Maghrib dan shalat 'Isya' dalam perjalanan". Hadits ini diikuti pula oleh ['Ali bin Al Mubarak] dan [Harb] dari [Yahya] dari [Hafsh] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam menjama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1108</td></tr><tr><td>Arabic No</td><td>1108</td></tr><tr><td>Reference</td><td>Book 18 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Находясь в путешествии Пророк ﷺ объединял между закатной и вечерней молитвами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1108</td></tr><tr><td>Arabic No</td><td>1108</td></tr><tr><td>Reference</td><td>Book 18 Hadith 28</td></tr></tbody></table></div>
 

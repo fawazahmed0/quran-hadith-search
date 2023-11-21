@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd As-Sa'idi: A man peeped through a hole in the door of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab], [Sahal bin Sa'd as Sa'idi] mengabarkannya, ada seseorang yang mengitintip melalui lubang pintu kamar Nabi shallallahu 'alaihi wasallam yang ketika itu beliau tengah menyisir kepalanya, ketika Rasulullah Shallallahu'alaihiwasallam melihatnya, beliau bersabda: "Kalaulah aku tahu bahwa engkau mengintip, niscaya sisir itu kutusukkan pada kedua matamu, " lalu Rasulullah Shallallahu'alaihiwasallam bersabda; "Hanyasanya ijin demi pandangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6901</td></tr><tr><td>Arabic No</td><td>6901</td></tr><tr><td>Reference</td><td>Book 87 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сахль ибн Са‘д ас-Са‘идий рассказал, что однажды какой-то человек стал смотреть через дверь в одну из комнат Посланника Аллаха ﷺ, державшего в руке железный гребень, которым он расчёсывал себе голову. Увидев его, Посланник Аллаха ﷺ сказал: “Если бы я знал, что ты подсматриваешь, то обязательно проткнул бы тебе (этим гребнем) глаз! Испрашивать разрешения и было велено из-за (таких) взоров!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6901</td></tr><tr><td>Arabic No</td><td>6901</td></tr><tr><td>Reference</td><td>Book 87 Hadith 40</td></tr></tbody></table></div>
 

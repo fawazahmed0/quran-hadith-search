@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq:A man asked Al-Bara' and I was listening, "Did 'Ali take pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Sa'id Abu 'Abdullah] telah menceritakan kepada kami [Ishaq bin Manshur As-Saluliy] telah menceritakan kepada kami [Ibrahim bin Yusuf] dari [bapaknya] dari [Abu Ishaq]; Ada seseorang yang bertanya kepada [Al Bara'] dan aku mendengarnya. Al Bara' berkata; "Aku menyaksikan 'Ali pada perang Badar melakukan perang tanding dan dia menang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3970</td></tr><tr><td>Arabic No</td><td>3970</td></tr><tr><td>Reference</td><td>Book 64 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ‘Исхак сказал: «Я слышал, как один мужчина спросил аль-Бара: “Принимал ли ‘Али участие в (битве) при Бадре?” Аль-Бара сказал: “(Да), он участвовал в поединках”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3970</td></tr><tr><td>Arabic No</td><td>3970</td></tr><tr><td>Reference</td><td>Book 64 Hadith 23</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This is transmitted by Shu'bah through a different chain of narrators. This vers
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>325</td></tr><tr><td>Arabic No</td><td>325</td></tr><tr><td>Reference</td><td>Book 1 Hadith 325</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нам рассказал Хаджадж – имеется ввиду аль-А‘вар: «Сообщил мне Шу‘ба этот же хадис с его иснадом, (в котором сообщается, что ‘Аммар) сказал: “Затем он подул на нее и обтер ею лицо и руки до локтей или до локтевых костей /зира‘айн/”».Шу‘ба сказал: «Салама (ибн Кухайл) говорил: “Кисти рук, лицо и локти”. Однажды Мансур сказал ему (Саламе): “Подумай о том, что ты говоришь, ведь поистине, никто кроме тебя не упоминает о локтях”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>325</td></tr><tr><td>Arabic No</td><td>325</td></tr><tr><td>Reference</td><td>Book 1 Hadith 325</td></tr></tbody></table></div>
 

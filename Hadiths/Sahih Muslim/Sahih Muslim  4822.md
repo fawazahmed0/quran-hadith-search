@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Yazid b. Abu Ubaid (the freed slave of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hatim] -yaitu Ibnu Isma'il- dari [Yazid bin Abu 'Ubaid] bekas budak Salmah bin Al Akwa', dia berkata, "Saya bertanya kepada [Salamah], "Atas dasar apakah kalian berbai'at kepada Rasulullah shallallahu 'alaihi wasallam ketika peristiwa Hudaibiyyah?" dia menjawab, "Atas kematian." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah menceritakan kepada kami [Hammad bin Mas'adah] telah menceritakan kepada kami [Yazid] dari [Salamah] seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4822</td></tr><tr><td>Arabic No</td><td>1860.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4822</td></tr><tr><td>Arabic No</td><td>1860.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 118</td></tr></tbody></table></div>
 

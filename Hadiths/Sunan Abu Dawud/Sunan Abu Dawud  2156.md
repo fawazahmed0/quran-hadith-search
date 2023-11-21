@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Al Darda said “The Apostle of Allaah(ﷺ) was in a battle. He saw a woman 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili], telah menceritakan kepada kami [Miskin], telah menceritakan kepada kami [Syu'bah] dari [Yazid bin Khumair], dari [Abdurrahman bin Jubair bin Nufair] dari [ayahnya], dari [Abu Ad Darda'] bahwa Rasulullah shallallahu 'alaihi wasallam pernah berada dalam suatu peperangan kemudian beliau melihat seorang wanita hamil yang mendekati waktu melahirkan, kemudian beliau berkata; kemungkinan pemiliknya menggaulinya. Mereka berkata; ya. Kemudian beliau berkata: "Sungguh aku berkeinginan untuk melaknat laki-laki tersebut dengan laknat yang ia bawa masuk dalam kuburnya. Bagaimana ia mewariskan kepada janin tersebut sementara ia tidak halal baginya (karena bukan anaknya), dan bagaimana ia memperbudaknya sementara hal tersebut tidak halal baginya (memperbudaknya sementara ia memang anaknya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1441)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2156</td></tr><tr><td>Arabic No</td><td>2156</td></tr><tr><td>Reference</td><td>Book 12 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу ад-Дарда, да будет доволен им Аллах, что Посланник Аллаха ﷺ во время одного из военных походов увидел женщину на последних месяцах беременности и сказал: «Наверное, её хозяин уже совокупился с ней». Ему сказали: «Да». Посланник Аллаха ﷺ сказал: «Мне захотелось проклясть его таким проклятием, которое последовало бы за ним в могилу! Как может он сделать (ребёнка) своим наследником, когда это не дозволено ему?! Как может он порабощать его, когда это не дозволено ему?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1441)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2156</td></tr><tr><td>Arabic No</td><td>2156</td></tr><tr><td>Reference</td><td>Book 12 Hadith 111</td></tr></tbody></table></div>
 

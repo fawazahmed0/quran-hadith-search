@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Musa b. Talha reported it on the authority of his father:The Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Sa'id] serta [Abu Bakar bin Abi Syaibah] berkata Yahya, telah mengabarkan kepada kami, sedangkan dua orang yang lainnya berkata, telah menceritakan kepada kami [Abu al-Ahwash] dari [Simak] dari [Musa bin Thalhah] dari [Bapaknya] dia berkata, Rasulullah shallallahu'alaihiwasallam bersabda, "Apabila salah seorang dari kalian telah meletakkan di hadapannya seperti kayu yang diletakkan di belakang punggung unta, hendaklah dia shalat, dan janganlah dia memperhatikan orang yang lewat di belakang sutrah tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1111</td></tr><tr><td>Arabic No</td><td>499.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 273</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муса ибн Тальха передал от своего отца, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас поставит перед собой что-то наподобие седла, пусть совершает молитву, и тогда тот, кто пройдёт перед ним не помешает ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1111</td></tr><tr><td>Arabic No</td><td>499.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 273</td></tr></tbody></table></div>
 

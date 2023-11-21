@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'adha:'Aisha said, "Allah's Messenger (ﷺ) used to take the permissi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hibban bin Musa] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami ['Ashim Al Ahwal] dari [Mu'adzah] dari [Aisyah radliallahu 'anha] bahwa Rasulullah shallallahu 'alaihi wasallam biasa meminta izin kepada kami jika tiba giliran beliau bersama salah satu istrinya setelah turunnya ayat: "Kamu boleh menangguhkan menggauli siapa saja yang kamu kehendaki di antara mereka dan boleh pula menggauli siapa saja yang kamu kehendaki. Dan siapa-siapa yang kamu ingini untuk menggaulinya kembali dari perempuan yang telah kamu cerai maka tidak ada dosa bagimu…." (Al Ahzab: 51). Maka Mu'adzah bertanya Aisyah; Apa yang kamu katakan kepada Nabi shallallahu 'alaihi wasallam ketika beliau meminta izin kepadamu? Dia menjawab; Aku katakan kepada beliau jika hari itu hari giliranku, maka saya tidak akan memberikannya untuk yang lain. Hadits ini diriwayatkan pula oleh ['Abad bin 'Abad] dia mendengar ['Ashim]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4789</td></tr><tr><td>Arabic No</td><td>4789</td></tr><tr><td>Reference</td><td>Book 65 Hadith 311</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Му‘азы, что ‘Аиша, да будет доволен ею Аллах, сказала: «После ниспослания того аята(, в котором сказано): “Ты (можешь) отложить (очередь), кого хочешь из них, и (можешь) принять, кого хочешь, а (что касается) той, которую пожелаешь ты из тех, кого ты удалил, то не будет (в этом) греха для тебя”, Посланник Аллаха ﷺ обычно спрашивал разрешения у той жены из нас, очередь которой была в этот день, если хотел пойти вместо неё к другой».\n(Му‘аза сказала):\n— Я спросила: «И что же ты говорила (ему в таких случаях)?» Она сказала: «Я говорила: “Если бы это зависело от меня, (я бы сказала, что) не хочу уступать тебя никому другому”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4789</td></tr><tr><td>Arabic No</td><td>4789</td></tr><tr><td>Reference</td><td>Book 65 Hadith 311</td></tr></tbody></table></div>
 

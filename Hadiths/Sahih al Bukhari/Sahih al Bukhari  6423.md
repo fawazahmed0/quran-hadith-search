@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Utban bin Malik Al-Ansari:who was one of the men of the tribe of Bani 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Asad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Mahmud bin Ar Rabi'] dan Mahmud dia ingat ketika menahan (tumpahan air) Rasulullah shallallahu 'alaihi wasallam, Az Zuhri berkata; "Dan dia (Mahmud) pernah menahan air yang ditumpahkan beliau dari ember ketika berada di rumah mereka (kaumnya), dia berkata; saya mendengar ['Itban bin Malik Al Anshari] -dia adalah salah seorang (imam) Bani Salim- dia berkata; 'Rasulullah shallallahu 'alaihi wasallam pernah menemuiku di pagi hari, lalu beliau bersabda: 'Tidak akan pernah merasa cukup pada hari Kiamat kelak, seorang hamba mengucapkan 'Laa ilaaha illallah' dengan mengharap ridla Allah, melainkan Allah akan mengharamkan neraka atasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6423</td></tr><tr><td>Arabic No</td><td>6423</td></tr><tr><td>Reference</td><td>Book 81 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Итбана ибн Малика аль-Ансари, затем одного из мужчин бану салим: «(Однажды) утром пришёл ко мне Посланник Аллаха ﷺ и сказал: “Какой бы раб (Аллаха) не явился в День воскресения, сказав (слова) “Нет никого достойного поклонения, кроме Аллаха” (искренне) с намерением заслужить лика Аллаха, то Аллах непременно сделает для него запретным адский огонь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6423</td></tr><tr><td>Arabic No</td><td>6423</td></tr><tr><td>Reference</td><td>Book 81 Hadith 12</td></tr></tbody></table></div>
 

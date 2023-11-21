@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tawus:That he was told by the most learned one amongst them (i.e. Ibn '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami ['Abdul Wahhab] telah menceritakan kepada kami [Ayyub] dari ['Amru] dari [Thawus] berkata, telah menceritakan kepadaku orang yang paling mengerti diantara mereka yakni [Ibnu 'Abbas radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam keluar menuju suatu lahan tanah yang ditumbuhi tanaman lalu Beliau berkata: "Milik siapakah ini?" Mereka berkata: "Si fulan menyewakannya". Maka Beliau berkata: "Seandainya dia menghadiahkannya kepadanya itu, kebih baik baginya dari pada dia mengambil upah tertentu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2634</td></tr><tr><td>Arabic No</td><td>2634</td></tr><tr><td>Reference</td><td>Book 51 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Однажды) Пророк ﷺ пришёл на землю, которая процветала растительностью, и спросил: “Чья эта (земля)?” Люди ответили: “Она такого-то, и он использует её для издольщины”. Тогда Пророк ﷺ сказал: “Для него было бы лучше, если бы он отдал её безвозмездно во временное пользование, чем брать за неё известную плату”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2634</td></tr><tr><td>Arabic No</td><td>2634</td></tr><tr><td>Reference</td><td>Book 51 Hadith 66</td></tr></tbody></table></div>
 

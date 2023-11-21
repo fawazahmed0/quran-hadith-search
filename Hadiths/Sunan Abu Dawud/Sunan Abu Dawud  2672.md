@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al Sa’b bin Jaththamah said that he asked the Apostle of Allaah(ﷺ) about the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Amr bin As Sarh], telah menceritakan kepada kami [Sufyan] dari [Az Zuhri], dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] dari [Ash Sha'bin bin Jatstsamah] bahwa ia telah bertanya kepada Nabi shallallahu 'alaihi wasallam mengenai sebuah kampung orang-orang musyrikin yang diserang pada malam hari. Kemudian ditawan anak-anak dan wanita mereka. Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Mereka merupakan bagian dari mereka." 'Amr bin Dinar berkata; beliau berkata: "Mereka merupakan bagian dari bapak-bapak mereka." Az Zuhri berkata; kemudian setelah itu Rasulullah shallallahu 'alaihi wasallam melarang membunuh para wanita dan anak-anak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3012) Sahih Muslim (1745)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2672</td></tr><tr><td>Arabic No</td><td>2672</td></tr><tr><td>Reference</td><td>Book 15 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3012) Sahih Muslim (1745)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2672</td></tr><tr><td>Arabic No</td><td>2672</td></tr><tr><td>Reference</td><td>Book 15 Hadith 196</td></tr></tbody></table></div>
 

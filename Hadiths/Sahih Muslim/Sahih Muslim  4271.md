@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:A person sat late in the night with Allah's Apostle (ﷺ), 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Marwan bin Mu'awiyah Al Fazari] telah mengabarkan kepada kami [Yazid bin Kaisan] dari [Abu Hazim] dari [Abu Hurairah] dia berkata, "Seorang laki-laki berada di rumah Nabi shallallahu 'alaihi wasallam hingga larut malam, setelah itu dia pulang ke rumahnya, ternyata dia mendapati anak-anaknya lelap tertidur. Lalu isterinya datang kepadanya dengan membawa makanan, namun dia bersumpah untuk tidak makan demi anak-anaknya. Selang beberapa saat, dia berubah pikiran, akhirnya dia memakan makanan itu. Kemudian dia mendatangi Rasulullah shallallahu 'alaihi wasallam dan menceritakan hal itu kepada beliau. Maka Rasulullah shallallahu 'alaihi wasallam berkata: "Barangsiapa bersumpah kemudian dia melihat ada sesuatu yang lebih baik daripadanya maka hendaklah dia melakukan hal itu dan membayar kafarah atas sumpahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4271</td></tr><tr><td>Arabic No</td><td>1650.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4271</td></tr><tr><td>Arabic No</td><td>1650.01</td></tr><tr><td>Reference</td><td>Book 27 Hadith 18</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha":(regarding) the Verse: 'And if you fear that you shall not be ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] Telah mengabarkan kepada kami [Abdah] dari [Hisyam] dari [bapaknya] dari [Aisyah] Terkait dengan firman Allah, "WA IN KHIFTUM ANLAA TUQSIMUU FIL YATAAMA.." Ia berkata; "Maksudnya adalah seorang anak perempuan yatim yang terdapat pada seorang laki-laki, yakni walinya. Kemudian sang wali pun menikahinya lantaran ingin mendapatkan hartanya, namun bergaul dengannya dengan tidak baik, dan tidak pula bersikap adil pada hartanya, maka dari itu hendaklah ia menikahi wanita lain dua, tiga atau empat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5098</td></tr><tr><td>Arabic No</td><td>5098</td></tr><tr><td>Reference</td><td>Book 67 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала об аяте «Если вы боитесь, что не будете справедливы к сиротам» (сура «ан-Ниса», аят 3): «Речь идёт о сироте, которую воспитывает её опекун, и он женится на ней из-за её имущества, но плохо относится к ней, не проявляя справедливость в отношении её имущества. Такой мужчина должен жениться на двух, трёх, четырёх женщинах, кроме неё, которые ему нравятся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5098</td></tr><tr><td>Arabic No</td><td>5098</td></tr><tr><td>Reference</td><td>Book 67 Hadith 36</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Le récit de 'Aïcha (raa) : Abou Salama Ibn 'Abdourrahmân dit : Un jour, je me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ubaidullah bin Muadz al-Anbari] dia berkata, telah menceritakan kepada kami [bapakku] dia berkata, telah menceritakan kepada kami [Syu'bah] dari [Abu Bakar bin Hafs] dari [Abu Salamah bin Abdurrahman] dia berkata, "Aku mampir pada [Aisyah] bersama saudara sesusuannya. Lalu dia menanyakan kepadanya tentang mandi Nabi shallallahu 'alaihi wasallam karena junub. Lantas Aisyah meminta wadah yang memuat satu gantang air, lalu dia mandi dengan meletakkan tabir di antara kami dan dia. Aisyah menuangkan air ke atas kepalanya sebanyak tiga kali sambil berkata, 'Isteri-isteri Nabi Shallallahu'alaihiwasallam biasanya menuang air ke kepala mereka sehingga seakan-akan banyak (basah sekali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>320</td></tr><tr><td>Reference</td><td>Book 3 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саляма ибн ‘Абдуррахман сказал: «(Когда-то) я пришёл к ‘Аише вместе с её молочным братом, который спросил её о том, как Посланник Аллаха ﷺ совершал полное омовение после большого осквернения. Она велела принести сосуд, вмещавший один са‘ (воды), совершила полное омовение за занавеской, которая отделяла её от нас, и трижды облила голову». (Абу Саляма) сказал: «Жёны Пророка ﷺ брали пряди волос и (обрезали их) не ниже ушей».Глава: совершение полного омовения мужчины со своей женой из одной посуды
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>320</td></tr><tr><td>Reference</td><td>Book 3 Hadith 50</td></tr></tbody></table></div>
 

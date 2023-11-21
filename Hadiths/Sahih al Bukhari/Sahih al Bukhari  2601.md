@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:My father was martyred on the day (of the battle) o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dan berkata, [Al Laits] telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] berkata, telah menceritakan kepadaku [Ibnu Ka'ab bin Malik] bahwa [Jabir bin 'Abdullah radliallahu 'anhuma] mengabarkan kepadanya bahwa bapaknya terbunuh sebagai syahid dalam perang Uhud lalu orang-orang yang mempunyai piutang datang, mereka mendesak meminta pelunasan hak-hak mereka, maka aku menemui Rasulullah shallallahu 'alaihi wasallam lalu aku berbicara dengan Beliau, lalu Beliau meminta kepada mereka untuk mau menerima buah-buahan dari kebunku dan agar mereka membebaskan beban hutang bapakku namun mereka tidak mau dan Rasulullah shallallahu 'alaihi wasallam tidak memberikan kebunku dan juga tidak membagi-bagikannya kepada mereka seraya berkata: "Aku akan datang besok pagi kepadamu". Maka Beliau datang kepada kami pagi-pagi lalu Beliau mengelilingi pepohonan kurma lalu berdo'a untuk keberkahan buah-buahnya. Maka aku memetik buah-buah kurma tersebut, aku lunasi hak-hak mereka dan masih ada tersisa untuk kami buah-buah kurma tersebut, lalu aku temui Rasulullah shallallahu 'alaihi wasallam ketika Beliau sedang duduk, lalu aku beritahukan kejadian tadi maka Rasulullah shallallahu 'alaihi wasallam berkata kepada 'Umar: "Dengan wahai 'Umar", sementara 'Umar dalam keadaan duduk. Maka 'Umar berkata: "Peristiwa ini membuktikan bahwa kami mengetahui bahwa anda adalah Rasululoh. Demi Allah, anda adalah Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2601</td></tr><tr><td>Arabic No</td><td>2601</td></tr><tr><td>Reference</td><td>Book 51 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Мой отец был убит в день битвы при Ухуде, оставив долги. И когда его заимодавцы стали настойчиво требовать то, что им положено, я пошёл к Посланнику Аллаха ﷺ (и сообщил ему об этом). Он попросил их взять плоды моего сада и освободить моего отца от долгов, но они отказались. Таким образом, Посланник Аллаха ﷺ не дал им плоды моего сада и не разделил их между ними, однако он сказал мне: “Я приду к тебе утром, если на это будет воля Аллаха”. Утром он пришёл ко мне, прошёлся между пальм и попросил (у Аллаха) благословить их плоды. Затем я собрал финики и полностью расплатился с заимодавцами, и (даже после этого) часть фиников осталась у нас. Затем я пришёл к Посланнику Аллаха ﷺ, когда он сидел, и рассказал ему об этом. Посланник Аллаха ﷺ сказал ‘Умару: “Слушай, о ‘Умар!” В это время ‘Умар сидел.‘ Умар ответил: “А как же этому не произойти, ведь мы знаем, что ты Посланник Аллаха? Клянусь Аллахом, ты Посланник Аллаха!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2601</td></tr><tr><td>Arabic No</td><td>2601</td></tr><tr><td>Reference</td><td>Book 51 Hadith 35</td></tr></tbody></table></div>
 

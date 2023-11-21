@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to lie down on his right side, after offe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yazid] telah menceritakan kepada kami [Sa'id bin Abu Ayyub] berkata, telah menceritakan kepada saya [Abu Al Aswad] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam bila selesai mendirikan dua raka'at shalat sunat Fajar, Beliau berbaring dengan dengan bertumpu pada sisi badannya yang sebelah kanan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1160</td></tr><tr><td>Arabic No</td><td>1160</td></tr><tr><td>Reference</td><td>Book 19 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Обычно Посланник Аллаха ﷺ после того, как совершал два рак‘ата перед обязательной утренней молитвой, лежал на правом боку»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1160</td></tr><tr><td>Arabic No</td><td>1160</td></tr><tr><td>Reference</td><td>Book 19 Hadith 39</td></tr></tbody></table></div>
 

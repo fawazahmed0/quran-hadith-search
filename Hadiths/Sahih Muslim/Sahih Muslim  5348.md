@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'id b. Zaid reported Allah's Messenger (ﷺ) as saying:Truffles are 'Manna' an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Hubib Al Haritsi] Telah menceritakan kepada kami [Hammad bin Zaid], Telah menceritakan kepada kami [Muhammad bin Syabib] dia berkata; Aku mendengarnya dari [Sahr bin Hausyab] lalu aku menanyakannya, dia menjawab; Aku mendengarnya dari ['Abdul Malik bin 'Umair] dia berkata; Aku bertemu dengan Abdul Malik dan dia menceritakan kepadaku; dari [Amru bin Huraits] dari [Sa'id bin Zaid] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Al Kam-at (cendawan) adalah diantara sejenis manna (sejenis makanan), airnya mengandung obat bagi penyakit mata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>2049.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 222</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>2049.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 222</td></tr></tbody></table></div>
 

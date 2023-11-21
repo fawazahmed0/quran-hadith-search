@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha (mother of the faithful believers):I said, "O Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami [Habib bin Abu 'Amrah] berkata, telah menceritakan kepada kami [Aisyah binti Tholhah] dari ['Aisyah Ummul Mukminin radliallahu 'anhu] berkata: "Wahai Rasululloh, apakah kami tidak boleh ikut berperang dan berjihad bersama kalian?". Maka Beliau menjawab: "Akan tetapi (buat kalian) jihad yang paling baik dan paling sempurna adalah haji, yaitu haji mabrur". Maka 'Aisyah radliallahu 'anha berkata; "Maka aku tidak pernah meninggalkan haji sejak aku mendengar keterangan ini dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1861</td></tr><tr><td>Arabic No</td><td>1861</td></tr><tr><td>Reference</td><td>Book 28 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, мать правоверных, да будет доволен ею Аллах, сказала: «(Однажды) я сказала: «О Посланник Аллаха, не принять ли нам участие в джихаде вместе с вами?» (Пророк ﷺ) ответил: «Однако наилучшим и наипрекраснейшим джихадом для вас является безупречный (мабрур) хадж». Тогда ‘Аиша сказала: «С тех пор как я услышала это от Посланника Аллаха ﷺ я не пропускаю хадж»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1861</td></tr><tr><td>Arabic No</td><td>1861</td></tr><tr><td>Reference</td><td>Book 28 Hadith 41</td></tr></tbody></table></div>
 

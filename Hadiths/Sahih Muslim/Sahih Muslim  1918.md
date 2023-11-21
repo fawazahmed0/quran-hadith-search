@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit de Abou Ad-Dardâ' (que Dieu l'agrée) : a dit : Quand nous arrivâmes en
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hujr As Sa'di] telah menceritakan kepada kami [Isma'il bin Ibrahim] dari [Dawud bin Abu Hind] dari [Asy Sya'bi] dari [Alqamah] ia berkata; Saya berjumpa dengan [Abu Darda'], lalu ia bertanya kepadaku, "Dari manakah kamu?" Saya menjawab, "Dari penduduk Iraq." Ia bertanya lagi, "Dari daerah mana?" Saya menjawab, "Dari penduduk Kufah." Ia bertanya lagi, "Apakah kamu membaca Al Qur'an dengan qira'ahnya Abdullah bin Mas'ud?" Saya menjawab, "Ya." Ia berkata, "Kalau begitu, bacalah: 'WAL LAILI IDZAA YAGHSYAA.'" Maka saya pun membacakannya, "WAL LAILI IDZAA YAGHSYAA WAN NAHAARI IDZAA TAJALLAA WADZ DZAKARI WAL UNTSAA." Lalu Abu Darda' pun tertawa kemudian berkata; "Seperti inilah saya mendengar Rasulullah shallallahu 'alaihi wasallam membacanya." Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Abdul A'la] telah menceritakan kepada kami [Dawud] dari [Amir] dari [Alqamah] ia berkata; Saya mendatangi negeri Syam dan bertemu dengan [Abu Darda']. Ia pun menyebutkan hadits yang serupa dengan haditsnya Ibnu Ulayyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1918</td></tr><tr><td>Arabic No</td><td>824.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 346</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Алькама сказал: «Когда я встретил Абу ад-Дарду, он спросил меня: “Откуда ты?”, я сказал: “Из Ирака”. Он спросил: “Из какого (города)?” Я ответил: “Из Куфы”. Он спросил: “Ты читаешь (Коран) согласно чтению ‘Абдуллаха ибн Мас‘уда?” Я ответил: “Да”. Он сказал: “Тогда прочитай (суру, где сказано) «Клянусь ночью, когда она (всё) покрывает (мраком)!» (Сура «аль-Лейль», аят 1)”. И я прочитал: “«Клянусь ночью, когда она (всё) покрывает (мраком)!»; «Клянусь мужчиной и женщиной!»”. Тогда он рассмеялся и сказал: “Именно так я слышал, как Посланник Аллаха ﷺ читал её”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1918</td></tr><tr><td>Arabic No</td><td>824.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 346</td></tr></tbody></table></div>
 

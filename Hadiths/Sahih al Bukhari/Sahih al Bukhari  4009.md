@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mahmud bin Ar-Rabi:That 'Itban bin Malik who was one of the companions 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4009</td></tr><tr><td>Arabic No</td><td>4009</td></tr><tr><td>Reference</td><td>Book 64 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Итбана ибн Малика, который был из тех, сподвижников Пророка ﷺ, кто участвовал в битве при Бадре из числа ансаров, что он пришёл к Посланнику Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4009</td></tr><tr><td>Arabic No</td><td>4009</td></tr><tr><td>Reference</td><td>Book 64 Hadith 60</td></tr></tbody></table></div>
 

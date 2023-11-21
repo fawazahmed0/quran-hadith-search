@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of Abu Zubair who heard Jabir b. 'Abdullah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Rauh bin 'Ubadah] telah menceritakan kepada kami [Zakaria] telah mengabarkan kepada kami [Abu Az Zubair] bahwa dia pernah mendengar [Jabir bin Abdullah] berkata, "Aku pernah mengikuti peperangan bersama Rasulullah shallallahu 'alaihi wasallam sebanyak sembilan belas kali peperangan." Jabir berkata, "Namun aku tidak ikut dalam perang Badar dan perang Uhud, sebab ayahku melarangku untuk mengikutinya, ketika Abdullah terbunuh pada waktu perang Uhud, maka aku tidak pernah ketinggalan sekali pun untuk ikut perang bersama Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4694</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 32 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4694</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 32 Hadith 176</td></tr></tbody></table></div>
 

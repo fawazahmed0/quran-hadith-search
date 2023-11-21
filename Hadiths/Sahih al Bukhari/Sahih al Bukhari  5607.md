@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The Prophet (ﷺ) came from Mecca with Abu Bakr. Abu Bakr said 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Mahmud] telah mengabarkan kepada kami [An Nadlr] telah mengabarkan kepada kami [Syu'bah] dari [Abu Ishaq] dia berkata; saya mendengar [Al Barra'] radliallahu 'anhu berkata; Nabi shallallahu 'alaihi wasallam bersama Abu Bakar tiba dari Makkah, lalu Abu Bakar berkata; "Kami pernah melewati seorang penggembala, sementara Rasulullah shallallahu 'alaihi wasallam kehausan, Abu Bakar melanjutkan; "Lalu aku memeraskan semangkuk susu untuk beliau, setelah itu beliau meminumnya hingga aku merasa puas, selanjutnya Suraqah bin Ju'syum mendatangi kami dengan mengendarai kuda, maka beliau mendo'akan kecelakan atasnya hingga Suraqah meminta beliau supaya berhenti mendo'akan kecelakan atasnya dan kembali pulang, lalu Nabi shallallahu 'alaihi wasallam melaksanakan keinginannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5607</td></tr><tr><td>Arabic No</td><td>5607</td></tr><tr><td>Reference</td><td>Book 74 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Пророк ﷺ прибыл из Мекки (в Медину) вместе с Абу Бакром. Абу Бакр сказал: “Когда мы проходили мимо пастуха, Посланник Аллаха ﷺ захотел пить”. Далее Абу Бакр сказал: “Затем я налил немного молока в стакан, и он пил его до тех пор, пока я не был доволен. Затем на коне нас догнал Сурака ибн Джу’шум, и Пророк ﷺ обратился к Аллаху с мольбой против него, а Сурака стал просить его не обращаться к Аллаху с мольбой против него и сказал, что он вернётся обратно, и Пророк ﷺ выполнил его просьбу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5607</td></tr><tr><td>Arabic No</td><td>5607</td></tr><tr><td>Reference</td><td>Book 74 Hadith 33</td></tr></tbody></table></div>
 

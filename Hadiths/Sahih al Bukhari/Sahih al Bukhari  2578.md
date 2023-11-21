@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I intended to buy Barirah but her masters stipulated that her Wa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari ['Abdur Rahman bin Al Qasim] berkata, aku mendengar cerita ini dari [Al Qasim] dari ['Aisyah radliallahu 'anha] bahwa dia berkehendak untuk membeli Barirah sementara mereka (tuannya) memberi persyaratan bahwa wala' tetap ada pada mereka. Kemudian hal diceritakan kepada Nabi shallallahu 'alaihi wasallam, maka Nabi shallallahu 'alaihi wasallam berkata: "Belilah kemudian bebaskanlah, karena hak perwalian bagi orang yang membebaskannya". Kemudian Barirah diberi zakat berupa daging lalu dikatakan kepada Nabi shallallahu 'alaihi wasallam: 'Ini shadaqah yang diterima Barirah". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Daging ini baginya shadaqah (zakat) dan bagi kita ini sebagai hadiah". Maka Barirah memilih untuk dirinya. 'AbdurRahman berkata: "Suaminya orang merdeka atau budak sahaya?" Syu'bah berkata: "Aku bertanya kepada 'Abdurrahman tentang suaminya, maka dia menjawab: "Aku tidak tahu apakah suaminya orang merdeka atau budak sahaya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2578</td></tr><tr><td>Arabic No</td><td>2578</td></tr><tr><td>Reference</td><td>Book 51 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала, что однажды она захотела выкупить Бариру, чтобы освободить её. Однако её владельцы решили сделать условием её продажи то, что её «уаля» (право наследовать освобожденного) останется за ними. Когда об этом рассказали Пророку ﷺ, он сказал: «Выкупи её и освободи, ведь, поистине, “уаля” принадлежит тому, кто освободил». ‘Аиша сказала: «Однажды Барире принесли мясо и Пророку ﷺ сказали: «Это (мясо) было дано в качестве милостыни Барире». Пророк ﷺ ответил: «Для неё это милостыня, а для нас — подарок». Барире был предоставлен выбор (остаться с мужем или нет). ‘Абдуррахман (один из передатчиков) спросил: «Её муж был свободным или рабом?» Шу’ба (другой передатчик) сказал: «Я спросил ‘Абдуррахмана о её муже, и он ответил: “Я не знаю свободным он был или рабом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2578</td></tr><tr><td>Arabic No</td><td>2578</td></tr><tr><td>Reference</td><td>Book 51 Hadith 13</td></tr></tbody></table></div>
 

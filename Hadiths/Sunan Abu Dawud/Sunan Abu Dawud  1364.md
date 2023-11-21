@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The client of Ibn 'Abbas said that he asked him:How would the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (992) Sahih Muslim (763)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1364</td></tr><tr><td>Arabic No</td><td>1364</td></tr><tr><td>Reference</td><td>Book 5 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Курайба, вольноотпущенника Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Я спросил Ибн Аббаса, какой была ночная молитва Посланника Аллаха ﷺ и он сказал: “Однажды я заночевал у него, когда он был у (своей жены) Маймуны. По прошествии трети или половины ночи Посланник Аллаха ﷺ проснулся, подошёл к бурдюку с водой и совершил малое омовение. Я совершил малое омовение вместе с ним. Он встал на молитву, и я встал слева от него, однако он поставил меня справа, а потом положил руку мне на голову так, будто хотел потрепать меня за ухо и разбудить меня, после чего совершил два лёгких рак‘ата, причём в каждом из них он читал “аль-Фатиху”. Затем он произнёс слова таслима, после чего продолжил молиться. Он совершил одиннадцать рак‘атов, включая витр, после чего уснул. Потом к нему пришёл Биляль и сказал: “Молитва, о Посланник Аллаха!” Тогда он встал, совершил молитву в два рак‘ата, после чего совершил (утреннюю молитву) с людьми”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (992) Sahih Muslim (763)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1364</td></tr><tr><td>Arabic No</td><td>1364</td></tr><tr><td>Reference</td><td>Book 5 Hadith 115</td></tr></tbody></table></div>
 

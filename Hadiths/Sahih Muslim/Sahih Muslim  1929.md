@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uqba b. 'Amir said:There were three times at which Allah's Messenger (ﷺ) forba
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] telah menceritakan kepada kami [Abdullah bin Wahb] dari [Musa bin Ali] dari [bapaknya] ia berkata, saya mendengar [Uqbah bin Amir Al Juhani] berkata; "Ada tiga waktu, yang mana Rasulullah shallallahu 'alaihi wasallam telah melarang kita untuk shalat atau menguburkan jenazah pada waktu-waktu tersebut. (Pertama), saat matahari terbit hingga ia agak meninggi. (Kedua), saat matahari tepat berada di pertengahan langit (tengah hari tepat) hingga ia telah condong ke barat, (Ketiga), saat matahari hampir terbenam, hingga ia terbenam sama sekali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>831</td></tr><tr><td>Reference</td><td>Book 6 Hadith 357</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Укба ибн ‘Амир аль-Джухани, да будет доволен им Аллах, рассказал: «Посланник Аллаха ﷺ запретил нам совершать молитвы и хоронить наших покойных в три периода времени: во время восхода солнца, пока оно не поднимется; во время стояния солнца в зените, пока не сколнится к закату; во время заката, пока солнце не скроется (за горизонтом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>831</td></tr><tr><td>Reference</td><td>Book 6 Hadith 357</td></tr></tbody></table></div>
 

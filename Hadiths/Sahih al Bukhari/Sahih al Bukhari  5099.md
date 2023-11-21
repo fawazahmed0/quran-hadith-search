@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) that while Allah's Messenger (ﷺ) was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] ia berkata; Telah menceritakan kepadaku [Malik] dari [Abdullah bin Abu Bakr] dari ['Amrah binti Abdurrahman] bahwa [Aisyah] isteri Nabi shallallahu 'alaihi wasallam telah mengabarkan kepadanya bahwa; Suatu ketika, Rasulullah shallallahu 'alaihi wasallam berada di sisinya, dan ia mendengar suara seorang laki-laki yang meminta izin tepat di rumah Hafshah. Maka Aisyah berkata; Aku berkata, "Wahai Rasulullah, laki-laki ini meminta izin di rumah Anda." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Aku menduga bahwa ia adalah si Fulan, paman Hafshah karena susuan." Aisyah bertanya, "Sekiranya si Fulan itu hidup dari pamannya sesusuan, apakah ia boleh masuk kepadaku?" beliau menjawab: "Ya." Beliau bersabda: "Sesungguhnya sepersusuan itu mengharamkan apa yang diharamkan oleh hubungan keturunan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5099</td></tr><tr><td>Arabic No</td><td>5099</td></tr><tr><td>Reference</td><td>Book 67 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что (однажды, когда) у неё находился Посланник Аллаха ﷺ она услышала голос мужчины, просившего разрешения войти в дом Хафсы.\n(‘Аиша, да будет доволен ею Аллах,) сказала: «Я сказала: “О Посланник Аллаха, какой-то человек просит разрешения войти в твой дом”. Пророк ﷺ сказал: “Я думаю, что это такой-то”, (и назвал имя) молочного дяди Хафсы. Я спросила: “А если бы был жив такой-то — и назвала имя своего молочного дяди, — мог бы он зайти ко мне?” — и (Пророк ﷺ) сказал: “Да, ведь молочным родственникам запрещается то же самое, что и кровным”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5099</td></tr><tr><td>Arabic No</td><td>5099</td></tr><tr><td>Reference</td><td>Book 67 Hadith 37</td></tr></tbody></table></div>
 

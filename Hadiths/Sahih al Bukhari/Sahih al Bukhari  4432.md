@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubaidullah bin 'Abdullah:Ibn 'Abbas said, "When Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Abdurrazaq] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ubaidullah bin Abdullah bin Utbah] dari [Ibnu Abbas radliallahu 'anhuma] dia berkata; Ada beberapa orang lelaki di rumah Rasulullah shallallahu 'alaihi wasallam ketika beliau menjelang ajalnya, beliau bersabda: "Kemarilah, aku akan menulis sebuah tulisan (pesan) kepada kalian, sehingga kalian tidak akan tersesat setelahnya." Sebagian mereka berkata; 'Sesungguhnya rasa sakit telah mempengaruhi Rasulullah shallallahu 'alaihi wasallam dan kalian memiliki Al Qur'an, maka cukuplah Kitabullah bagi kita. Maka orang-orang yang di rumah itu berselisih, dan berdebatlah mereka, di antara mereka ada yang berkata; mendekatlah, Rasulullah shallallahu 'alaihi wasallam akan menuliskan sesuatu kepada kalian. Dan di antara mereka ada yang menolaknya. Maka ketika terjadi banyaknya keributan dan perselisihan, sementara Rasulullah shallallahu 'alaihi wasallam dikerumuni, beliau bersabda: "Pergilah kalian dariku." Ubaidullah berkata; Maka Ibnu Abbas berkata; 'Sungguh ini musibah segala musibah, tidak ada kesempatan bagi Rasulullah shallallahu 'alaihi wasallam dengan menuliskan pesan untuk mereka karena perselisihan dan keributan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4432</td></tr><tr><td>Arabic No</td><td>4432</td></tr><tr><td>Reference</td><td>Book 64 Hadith 454</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Когда к Пророку ﷺ приблизилась смерть, в доме находились мужчины, и Пророк ﷺ сказал: “Подойдите, и я запишу то, благодаря чему впоследствии вы никогда не собьётесь с пути”. И некоторые из них стали говорить: “Поистине, Пророк ﷺ сломлен болезнью! У вас же есть Коран! Нам достаточно Книги Аллаха!” Присутствовавшие в доме разошлись во мнении и стали спорить друг с другом. Некоторые из них говорили: “Принесите (бумагу), пусть Пророк ﷺ напишет для вас то, благодаря чему вы не собьётесь”. Некоторые стали высказывать другие мнения. Когда шума и полемики стало слишком много, Посланник Аллаха ﷺ сказал: “Оставьте (меня)”».\n‘Убейдуллах передал, что Ибн ‘Аббас, да будет доволен им Аллах, говорил: «Поистине, вся беда в том, что по причине их шума и полемик, Посланник Аллаха ﷺ не написал им ту бумагу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4432</td></tr><tr><td>Arabic No</td><td>4432</td></tr><tr><td>Reference</td><td>Book 64 Hadith 454</td></tr></tbody></table></div>
 

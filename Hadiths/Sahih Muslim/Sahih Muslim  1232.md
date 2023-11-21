@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib al-Haritsi] telah menceritakan kepada kami [Khalid, yaitu Ibnu al-Harits] telah menceritakan kepada kami [Syu'bah], dia berkata, "Saya bertanya kepada [Qatadah] tentang meludah di dalam masjid, maka dia berkata, 'Saya mendengar [Anas bin Malik] berkata, 'Saya mendengar Rasulullah Shallallahu'alaihiwasallam bersabda, 'Meludah dalam masjid adalah suatu dosa. Dan penebus (dosanya) adalah dengan cara memendamnya (menguburnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>552.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Плевок в мечети это грех, искупить который можно, закопав его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>552.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 70</td></tr></tbody></table></div>
 

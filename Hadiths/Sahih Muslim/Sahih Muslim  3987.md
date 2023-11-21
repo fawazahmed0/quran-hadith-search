@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>1559.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, рассказывал: «Посланник Аллаха ﷺ сказал» или же он сказал: «Я слышал, как Пророк ﷺ говорил: “Тот, кто застал свое имущество в том виде, в котором он отдал его, у человека, ставшего банкротом [и не раздавшего это имущество], имеет больше прав на него [свое имущество] нежели кто-либо другой”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>1559.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 26</td></tr></tbody></table></div>
 

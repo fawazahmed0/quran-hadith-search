@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:'Umar said, "I am afraid that after a long time has passed, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Ubaidullah] dari [Ibnu 'Abbas] radliyallahu'anhuma, mengatakan; [Umar] mengatakan; "aku khawatir jika waktu telah berlalu sekian lama, kemudian ada orang yang mengatakan; 'kami tidak menemukan rajam dalam kitabullah.' Sehingga mereka tersesat dengan meninggalkan kewajiban yang Allah turunkan, ketahuilah bahwasanya rajam adalah keharusan bagi yang berzina dan telah menikah, ada bukti yang menguatkan, atau ada kehamilan atau ada pengakuan." Sufyan mengatakan, demikian aku menghafalnya; (Umar berkata;) "ketahuilah, bahwasanya Rasulullah Shallallahu'alaihiwasallam pernah merajam, maka kami pun merajam sepeninggalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6829</td></tr><tr><td>Arabic No</td><td>6829</td></tr><tr><td>Reference</td><td>Book 86 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что ‘Умар сказал: «Я боюсь, что по прошествии долгого времени, люди начнут говорить: “Мы не находим упоминания о побивании камнями в Книге Аллаха”. И они впадут в заблуждение из-за отказа исполнять обязанность, о которой говорилось в ниспосланном Аллахом. Поистине, побиванию камнями подлежит всякий, кто состоял в браке и совершил прелюбодеяние, при наличии доказательства (показания четырёх свидетелей прелюбодеяния), или беременности, или признания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6829</td></tr><tr><td>Arabic No</td><td>6829</td></tr><tr><td>Reference</td><td>Book 86 Hadith 55</td></tr></tbody></table></div>
 

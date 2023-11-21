@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Two men sneezed before the Prophet (ﷺ) and he said Tashmit to on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyasy] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Sulaiman At Taimi] dia berkata; saya mendengar [Anas] radliallahu 'anhu berkata; "Dua orang laki-laki sedang bersin di dekat Nabi shallallahu 'alaihi wasallam, lalu beliau mendo'akan yang satu dan membiarkan yang lain, maka laki-laki (yang tidak dido'akan) berkata; "Wahai Rasulullah, kenapa anda mendo'akan yang ini, namun tidak mendo'akanku?" beliau menjawab: "Sesungguhnya orang ini memuji Allah, sedangkan kamu tidak memujinya (ketika bersin)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6225</td></tr><tr><td>Arabic No</td><td>6225</td></tr><tr><td>Reference</td><td>Book 78 Hadith 249</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал:\n— (Однажды) два человека чихнули в присутствии Пророка ﷺ и одному он сказал: «Да помилует тебя Аллах!» /Йархаму-кя-Ллаху!/, — другому же он этого не сказал. (Тот) мужчина, (кому он этого не сказал), спросил: «О Посланник Аллаха, ты этому сказал: “Да помилует тебя Аллах!”, — а (когда чихнул я), ты не сказал мне этого?” (В ответ ему Пророк ﷺ) сказал: “Поистине, этот воздал хвалу Аллаху, а ты хвалы Аллаху не воздал!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6225</td></tr><tr><td>Arabic No</td><td>6225</td></tr><tr><td>Reference</td><td>Book 78 Hadith 249</td></tr></tbody></table></div>
 

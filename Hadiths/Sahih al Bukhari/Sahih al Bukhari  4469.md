@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) sent troops appointed Usama
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] Telah menceritakan kepada kami [Malik] dari ['Abdullah bin Dinar] dari ['Abdullah bin 'Umar radliallahu 'anhu] "Rasulullah shallallahu 'alaihi wasallam pernah menyiapkan sebuah pasukan perang yang dipimpin oleh Usamah bin Zaid. Lalu para sahabat saling mengecam kepemimpinannya. Maka Rasulullah shallallahu 'alaihi wasallam bangkit seraya bersabda: "Apabila kalian mengecam kepemimpinan Usamah bin Zaid, maka berarti kalian juga mengecam kepemimpinan ayahnya sebelum itu. Demi Allah, sungguh ia memang layak dengan jabatan itu. Jika bapaknya adalah termasuk orang yang paling aku cintai, maka Usamah juga termasuk dari orang yang paling aku cintai setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4469</td></tr><tr><td>Arabic No</td><td>4469</td></tr><tr><td>Reference</td><td>Book 64 Hadith 484</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «(Однажды) Посланник Аллаха ﷺ послал (в поход) отряд, назначив командовать им Усаму ибн Зейда. Некоторые люди стали высказывать недовольство в связи с таким назначением, и тогда Посланник Аллаха ﷺ сказал: “Если вы порицаете его как командира, это (неудивительно, ибо прежде) вы порицали как командира и его отца, но, клянусь Аллахом, он был достоин командования и относился к числу наиболее дорогих для меня людей. Что же касается этого, то, поистине, после него он является одним из самых дорогих для меня людей!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4469</td></tr><tr><td>Arabic No</td><td>4469</td></tr><tr><td>Reference</td><td>Book 64 Hadith 484</td></tr></tbody></table></div>
 

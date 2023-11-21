@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir reported that his father brought him to Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; saya membacakannya di hadapan [Malik]; dari [Ibnu Syihab] dari [Humaid bin Abdurrahman], dan dari [Muhammad bin An Nu'man bin Basyir], kedua-duanya telah menceritakan dari [Nu'man bin Basyir] dia berkata, "Suatu ketika ayahnya membawa dia menemui Rasulullah shallallahu 'alaihi wasallam sambil berkata, "Sesungguhnya saya telah memberi anakku ini seorang budak milikku." Kemudian Rasulullah shallallahu 'alaihi wasallam bertanya: "Apakah setiap anakmu kamu beri seorang budak seperti dia?" Ayahku menjawab, "Tidak." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau begitu, ambillah kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4177</td></tr><tr><td>Arabic No</td><td>1623.01</td></tr><tr><td>Reference</td><td>Book 24 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4177</td></tr><tr><td>Arabic No</td><td>1623.01</td></tr><tr><td>Reference</td><td>Book 24 Hadith 15</td></tr></tbody></table></div>
 

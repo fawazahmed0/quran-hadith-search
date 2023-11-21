@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:I saw Allah's Messenger (ﷺ) coming (or the Prophet (ﷺ) cam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] dari [Syu'bah] dari [Manshur] dari [Abu Wa'il] dari [Hudzaifah radliallahu 'anhu] berkata: "Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam " atau katanya "Sungguh aku pernah melihat Nabi shallallahu 'alaihi wasallam kencing di tempat pembuangan kotoran sambil berdiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2471</td></tr><tr><td>Arabic No</td><td>2471</td></tr><tr><td>Reference</td><td>Book 46 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ подошёл к тому месту, куда люди сбрасывали мусор, и помочился стоя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2471</td></tr><tr><td>Arabic No</td><td>2471</td></tr><tr><td>Reference</td><td>Book 46 Hadith 32</td></tr></tbody></table></div>
 

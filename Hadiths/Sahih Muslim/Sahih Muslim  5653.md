@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that the Companions of Allah's Apostle (ﷺ) said to him:The Peopl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Demikian juga diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Yahya bin Habib]; Telah menceritakan kepada kami [Khalid] yaitu Ibnu Al Harits ia berkata; Telah menceritakan kepada kami [Syu'bah]; Demikian juga diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Muhammad Al Mutsanna] dan [Ibnu Basysyar] lafazh ini milik mereka berdua, keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dia berkata; 'Aku mendengar [Qatadah] bercerita; dari [Anas] bahwa Para sahabat Nabi shallallahu 'alaihi wasallam bertanya kepada beliau: 'Sesungguhnya Ahli Kitab memberi salam kepada kami, bagaimana kami menjawabnya? ' Jawab beliau: 'Ucapkan: Wa'alaikum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5653</td></tr><tr><td>Arabic No</td><td>2163.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5653</td></tr><tr><td>Arabic No</td><td>2163.02</td></tr><tr><td>Reference</td><td>Book 39 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:When Um Sulaim gave birth to a child. she said to me, "O Anas! Wat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dia berkata; telah menceritakan kepadaku [Ibnu Abu 'Adi] dari [Ibnu 'Aun] dari [Muhammad] dari [Anas] radliallahu 'anhu dia berkata; Ketika Ummu Sulaim melahirkan, dia berkata kepadaku; "Wahai Anas, lihatlah bayi kecil ini, dan jangan sampai ia mendapatkan sesuatu (untuk dimakan) sehingga besok pagi kita menemui nabi shallallahu 'alaihi wasallam supaya beliau mentahniknya (mengunyahkan buah kurma kemudian dimasukkan ke dalam mulut bayi), keesokan harinya aku bersamanya menemui Nabi, ketika itu beliau tengah berada di kebun, beliau mengenakan kain yang ada renda suteranya dan tengah membuat tanda pada binatang yang diberikan kepada beliau di hari penaklukan kota Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5824</td></tr><tr><td>Arabic No</td><td>5824</td></tr><tr><td>Reference</td><td>Book 77 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, рассказывал: «Когда Умм Сулейм родила ребёнка, она сказала мне: “О Анас! Смотри, чтобы этому мальчику нечего не давали из еды, пока не придёшь с ним к Пророку ﷺ, и он не сделает ему “тахник” (смазывание нёба новорожденного пережёванным фиником)”. И я отправился с ним к Пророку ﷺ, который находился в саду, был одет в чёрную шерстяную одежду /хамиса хурайсия/ и клеймил верблюда, на котором он приехал после завоевания Мекки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5824</td></tr><tr><td>Arabic No</td><td>5824</td></tr><tr><td>Reference</td><td>Book 77 Hadith 41</td></tr></tbody></table></div>
 

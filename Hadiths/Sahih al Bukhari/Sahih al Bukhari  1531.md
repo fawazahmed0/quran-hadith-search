@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:When these two towns (Basra and Kufa) were captured, the peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya ['Ali bin Muslim] telah menceritakan kepada kami ['Abdullah bin Namir] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] berkata: Ketika negeri Mesir telah ditaklukan, penduduknya datang menghadap 'Umar lalu mereka berkata: "Wahai Amirul Mukminin, Rasulullah shallallahu 'alaihi wasallam telah menetapkan batas miqat bagi penduduk Nejd di Qarnul Manazil, dan itu sangat jauh bila dilihat dari jalan kami, dan bila kami ingin menempuh ke sana sangat memberatkan kami". Maka dia ('Umar) berkata: "Perhatikanlah batas sejajarnya dari jalan kalian". Lalu dia menetapkan miqat mereka di Dzatu 'Irqi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1531</td></tr><tr><td>Arabic No</td><td>1531</td></tr><tr><td>Reference</td><td>Book 25 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Когда эти два города (Басра и Куфа) были открыты, люди пришли к ‘Умару и сказали: “О повелитель правоверных! Посланник Аллаха ﷺ определил Карн микатом для жителей Неджда, он находится за пределами нашего пути, и нам трудно пройти через него”. ‘Умар ответил: “Возьмите в качестве миката место, расположенное напротив Карна на вашем пути”. И так он определил для них Зат-‘Ирк (микатом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1531</td></tr><tr><td>Arabic No</td><td>1531</td></tr><tr><td>Reference</td><td>Book 25 Hadith 19</td></tr></tbody></table></div>
 

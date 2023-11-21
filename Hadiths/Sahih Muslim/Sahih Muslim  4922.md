@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated through a different chain of transmitters on the same autho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Abu wail] dari [Abu Musa Al Asy'ari], bahwa seorang laki-laki bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang jihad di jalan Allah, dia berkata, "Ada seseorang yang berjuang karena marah (balas dendam) dan berjuang karena membela kesukuan." Abu Musa berkata, "Lalu dia mengangkat kepalanya menatap beliau, dan tidaklah dia mengangkat kepala melainkan saat itu karena beliau berdiri." Kemudian beliau menjawab: "Barangsiapa berjuang untuk menegakkan kalimat Allah, maka itulah fi sabilillah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4922</td></tr><tr><td>Arabic No</td><td>1904.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4922</td></tr><tr><td>Arabic No</td><td>1904.04</td></tr><tr><td>Reference</td><td>Book 33 Hadith 217</td></tr></tbody></table></div>
 

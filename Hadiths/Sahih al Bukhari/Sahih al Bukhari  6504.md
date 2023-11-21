@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Allah's Messenger (ﷺ) said, "I have been sent and the Hour (is a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad Alju'fi] telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dan [Abu Thayyah] dari [Anas] dari Nabi shallallahu 'alaihi wasallam bersabda: "Aku diutus dan jarak antara aku dan kiamat bagai dua ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6504</td></tr><tr><td>Arabic No</td><td>6504</td></tr><tr><td>Reference</td><td>Book 81 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анас (ибн Малик), да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Я был отправлен вместе с этим Часом, как эти два (пальца)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6504</td></tr><tr><td>Arabic No</td><td>6504</td></tr><tr><td>Reference</td><td>Book 81 Hadith 93</td></tr></tbody></table></div>
 

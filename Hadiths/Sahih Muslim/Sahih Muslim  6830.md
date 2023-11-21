@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying that Allah, the Exalted and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar bin 'Utsman Al 'Abdi] telah menceritakan kepada kami [Yahya bin Sa'id] dan [Ibnu 'Adi] dari [Sulaiman At Taimi] dari [Anas bin Malik] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: 'Allah Subhanahu wa Ta'ala telah berfirman: 'Aku bergantung pada sangkaan hamba-Ku kepada-Ku dan Aku akan bersama hamba-Ku ketika ia mengingat-Ku. Apabila ia mengingat-Ku dalam dirinya, maka Aku akan mengingatnya dalam diri-Ku. Apabila ia mengingat-Ku di tengah orang banyak, maka Aku juga akan mengingatnya di tengah orang banyak yang lebih baik daripada mereka. Apabila ia mendekat kepada-Ku sejengkal, maka Aku akan mendekat kepadanya sehasta. Apabila ia mendekat kepada-Ku sehasta, maka Aku akan mendekat kepadanya sedepa. Apabila ia datang kepada-Ku dengan berjalan, maka Aku akan datang kepadanya dengan berlari.' Telah menceritakan kepada kami [Muhammad bin 'Abdul A'la Al Qaisi] telah menceritakan kepada kami [Mu'tamir] dari [bapaknya] dengan sanad ini dan tidak menyebutkan kalimat; 'Apabila ia datang kepada-Ku dengan berjalan, maka Aku akan datang kepadanya dengan berlari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6830</td></tr><tr><td>Arabic No</td><td>2675.05</td></tr><tr><td>Reference</td><td>Book 48 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6830</td></tr><tr><td>Arabic No</td><td>2675.05</td></tr><tr><td>Reference</td><td>Book 48 Hadith 26</td></tr></tbody></table></div>
 

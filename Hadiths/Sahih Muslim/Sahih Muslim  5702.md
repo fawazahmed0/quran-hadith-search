@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported Allah's Messenger (ﷺ) as saying:The influence of an evil e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi] dan [Hajjaj bin Asy Sya'ir] serta [Ahmad bin Khirasy]. Berkata ['Abdullah]; Telah mengabarkan kepada kami. Dan yang lainnya berkata; Telah menceritakan kepada kami [Muslim bin Ibrahim] dia berkata; Telah menceritakan kepada kami [Wuhaib] dari [Ibnu Thawus] dari [Bapaknya] dari [Ibnu 'Abbas] dari Nabi shallallahu 'alaihi wasallam bersabda: "Penyakit yang timbul dari pengaruh jahat pandangan mata memang ada. Seandainya ada yang dapat mendahului qadar, tentulah itu pengaruh pandangan mata. Karena itu apabila kamu disuruh mandi, maka mandilah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5702</td></tr><tr><td>Arabic No</td><td>2188</td></tr><tr><td>Reference</td><td>Book 39 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Пророк ﷺ сказал: «Дурной глаз – это истина, и если бы что-нибудь могло опередить предопределение, то это был бы сглаз, а поэтому, если вас попросят совершить полное омовение, совершайте его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5702</td></tr><tr><td>Arabic No</td><td>2188</td></tr><tr><td>Reference</td><td>Book 39 Hadith 56</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid:I heard Muawiya bin Abi Sufyan delivering a sermon. He said, "I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ismail] telah menceritakan kepada kami [Ibn Wahb] dari [Yunus] dari [Ibn Syihab] telah mengabarkan kepadaku [Humaid] berkata, aku mendengar [Mu'awiyah bin Abu Sufyan] berpidato dengan berkata, "Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda; "Barangsiapa yang Allah kehendaki menjadi baik, maka Allah menjadikannya pandai terhadap urusan agamanya, hanyasanya aku membagi sedang Allah Sang pemberi, dan keadaan umat ini akan terus senantiasa lurus hingga kiamat tiba, atau dengan redaksi, 'hingga keputusan Allah tiba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7312</td></tr><tr><td>Arabic No</td><td>7312</td></tr><tr><td>Reference</td><td>Book 96 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хумайд сказал: «Я слышал, как обращаясь к людям с проповедью, Му‘авийа ибн Абу Суфьян, да будет доволен им Аллах, говорил: «Я слышал, как Пророк ﷺ сказал: «Кому Аллах желает блага, тому Он даёт понимания в религии. Поистине, я только распределяю, а дарует Аллах. И не перестанет быть положение этой общины прямым (на истинной религии) пока не наступит Судный Час (или: пока не придёт повеление Аллаха)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7312</td></tr><tr><td>Arabic No</td><td>7312</td></tr><tr><td>Reference</td><td>Book 96 Hadith 43</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:I am most akin to Jesus C
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Abu Daud 'Umar bin Sa'd] dari [Sufyan] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Salamah] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku adalah orang yang paling berhak atas diri Isa, para Nabi adalah satu saudara dari satu bapak (Adam), dan antara aku dengan Isa 'Alaihis Salam tidak ada seorang Nabi pun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6131</td></tr><tr><td>Arabic No</td><td>2365.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 189</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6131</td></tr><tr><td>Arabic No</td><td>2365.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 189</td></tr></tbody></table></div>
 

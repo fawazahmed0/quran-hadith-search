@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father:The Prophet (ﷺ) sent Khalid bin Al-Walid to the tribe 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Mahmud] Telah menceritakan kepada kami [Abdurrazaq] Telah mengabarkan kepada kami [Ma'mar] -lewat jalur periwayatan lain-Telah menceritakan kepadaku [Nu'aim] Telah mengabarkan kepada kami [Abdullah] Telah mengabarkan kepada kami [Ma'mar] dari [Azzuhri] dari [Salim] dari [Ayahnya] katanya, Nabi shallallahu 'alaihi wasallam suatu kali mengirim Khalid bin Al Walid ke bani Jidzamah dengan misi mengajak mereka masuk Islam, namun rupanya mereka belum fasih mengucapkan; "Aslamnaa" (kami masuk Islam) sehingga mereka keceplosan mengucapkan Shabba'naa (yang makna secara harfiah kami sembah matahari), mereka terus saja mengucapkan Shabba'na, Shabba'na -sekalipun maksudnya aslamnaa-Maka Khalid membantai diantara mereka dan sebagian lain ia tawan, dan ia serahi masing-masing kami seorang tawanan yang ia perintahkan untuk dibunuh di hari selanjutnya. Saya protes "Demi Allah, saya tak akan membunuh tawananku, dan setiap kawanku juga tak akan membunuh tawanannya." Hingga akhirnya kami menemui Nabi shallallahu 'alaihi wasallam dan kami utarakan kasusnya kepada beliau Shallallahu'alaihiwasallam. Serta merta Nabi shallallahu 'alaihi wasallam mengangkat tangannya sembari bersabda: ALLAAHUMMA INNII ABRA'U ILAIKA MIMMAA SHANA'A KHALID (Ya Allah, saya berlepas diri kepada-MU dari perbuatan-perbuatan Khalid bin Al Walid. Beliau ulang dua kali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4339</td></tr><tr><td>Arabic No</td><td>4339</td></tr><tr><td>Reference</td><td>Book 64 Hadith 368</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин ‘Умар, да будет доволен Аллах ими обоими, сказал: «(В свое время) Пророк ﷺ послал Халида бин аль-Валида в поход против (племени) бану джазима, и (Халид) призвал их к исламу, однако они не сказали: “Мы уже приняли ислам /Аслям-на/”, как следовало бы сделать, а стали говорить: “Мы уже отступились! /Саба‘-на/”. Тогда Халид стал убивать кого-то из (этих людей), а кого-то захватил в плен и выделил некоторым из нас пленных, а в один из дней он велел каждому убить своих пленных, и тогда я сказал (ему): “Клянусь Аллахом, я своих пленных убивать не стану, как не станет делать этого и никто из моих товарищей!” А когда мы явились к Пророку ﷺ и рассказали ему (об этом), он воздел руки к небу и дважды воскликнул: “О Аллах, поистине, я не имею никакого отношения к тому, что сделал Халид!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4339</td></tr><tr><td>Arabic No</td><td>4339</td></tr><tr><td>Reference</td><td>Book 64 Hadith 368</td></tr></tbody></table></div>
 

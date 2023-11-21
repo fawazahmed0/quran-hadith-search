@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Warits bin Abd ash-Shamad] dia berkata, telah menceritakan kepada kami [bapakku] dari [kakekku] dari [Ayyub] dari [Muhammad bin Sirin] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Manusia akan senantiasa bertanya kepadamu tentang ilmu hingga mereka bertanya, 'Ini Allah yang menciptakan kami, lalu siapa yang menciptakan Allah?" Abu Hurairah berkata sambil memegang tangan seorang laki-laki, "Allah dan Rasul-Nya benar, dua orang laki-laki telah menanyakannya kepadaku, dan ini orang yang ketiga, atau dia berkata, 'Salah seorang telah bertanya kepadaku, dan ini orang yang kedua." Dan telah menceritakan kepadaku tentangnya [Zuhair bin Harb] dan [Ya'qub ad-Dauraqi] keduanya berkata, telah menceritakan kepada kami [Ismail] -yaitu Ibnu Ulayyah- dan [Ayyub] dari [Muhammad] dia berkata, "[Abu Hurairah] berkata, "Senantiasa manusia bertanya, " sebagaimana hadits Abdul Warits, hanya saja dia tidak menyebutkan Nabi shallallahu 'alaihi wasallam dalam sanad tersebut, tetapi dalam hadits tersebut ia menyebutkan, "Allah dan Rasul-Nya benar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>347</td></tr><tr><td>Arabic No</td><td>135.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 254</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «(Стремясь к приобретению) знания, люди не перестанут расспрашивать вас, пока не скажут: “Это Аллах создал нас, а кто создал Аллаха?”».(Передатчик этого хадиса) сказал: «(Говоря это, Абу Хурайра) держал за руку одного человека, а потом он сказал: “Правду сказали Аллах и Его посланник, (ибо) двое уже спрашивали меня (об этом), а это третий”. (Или он сказал: “Один уже спрашивал меня (об этом), а это второй”)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>347</td></tr><tr><td>Arabic No</td><td>135.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 254</td></tr></tbody></table></div>
 

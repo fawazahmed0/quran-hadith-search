@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:Aisha had a thick curtain (having pictures on it) and she screened
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Imran bin Maisarah] telah menceritakan kepada kami [Abdul Warits] telah menceritakan kepada kami [Abdul Aziz bin Shuhaib] dari [Anas] radliallahu 'anhu dia berkata; "Bahwa Aisyah memiliki sehelai kain yang bergambar dan digunakan sebagai tabir rumahnya, lalu Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Singkirkanlah ia dariku, karena gambarnya selalu memalingkanku dalam shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5959</td></tr><tr><td>Arabic No</td><td>5959</td></tr><tr><td>Reference</td><td>Book 77 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «У ‘Аиши была тонкая шерстяная занавеска с узорами /кырам/, которой она отгораживала часть своего дома, и (однажды) Пророк ﷺ сказал: “Убери от меня (эту твою занавеску), ибо, поистине, её изображения всё время стоят у меня перед глазами во время молитвы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5959</td></tr><tr><td>Arabic No</td><td>5959</td></tr><tr><td>Reference</td><td>Book 77 Hadith 175</td></tr></tbody></table></div>
 

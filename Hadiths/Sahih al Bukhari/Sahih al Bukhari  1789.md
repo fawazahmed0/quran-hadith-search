@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Safwan bin Ya'la bin Umaiya from his father who said:"A man came to the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami ['Atho'] berkata, telah menceritakan kepada saya [Shawan bin Ya'la bin Umayyah], yaitu dari [bapaknya] bahwa ada seorang laki-laki datang menemui Nabi shallallahu 'alaihi wasallam saat Beliau berada di Al Ji'ranah. Orang itu mengenakan jubah (baju besar) yang masih terasa sisa wewangian padanya atau nampat sisa pewarna kuning, berkata: "Bagaimana aku harus mengerjakan 'umrahku?". Maka Allah subhanahu wata'ala menurunkan wahyu kepada Nabi shallallahu 'alaihi wasallam dan wajah Beliau ditutup dengan kain. Ya'la bin Umayyah berkata; "Aku sendiri sangat ingin dapat melihat Nabi shallallahu 'alaihi wasallam ketika sedang menerima wahyu". Maka 'Umar radliallahu 'anhu berkata: "Kemarilah, apakah melihat Nabi shallallahu 'alaihi wasallam ketika sedang menerima wahyu dapat menyenangkanmu?". Aku katakan: "Ya". Maka 'Umar membuka ujung kain yang tadi menutupi wajah Nabi shallallahu 'alaihi wasallam, lalu aku dapat melihat Beliau sedang bernapas dalam tidurnya". (Kata Shafwan) aku menduga bapakku berkata: "Beliau mendengkur sejenak". Ketika Beliau selesai menerima wahyu, Beliau bertanya: "Mana orang tadi yang bertanya tentang 'umrah?. Lepaslah jubahmu, cucilah dari sisa wewangian dan pewarna kuning dan kerjakan 'umrahmu seperti kamu mengerjakan haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1789</td></tr><tr><td>Arabic No</td><td>1789</td></tr><tr><td>Reference</td><td>Book 26 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Я‘ля ибн Умайя рассказал, что когда Пророк ﷺ был в Джи‘ране, к нему подошёл человек, одетый в джуббу со следами шафранового благовония (или: со следами жёлтого цвета) и спросил: «Как ты велишь мне поступить с моей ‘умрой?» Тогда Аллах ниспослал Пророку ﷺ откровение, его прикрыли одеждой, и я хотел увидеть Пророка ﷺ в тот момент, когда ему ниспосылалось откровение. Затем ‘Умар сказал: «Подойди сюда! Хотел бы ты увидеть Пророка ﷺ в тот момент, когда ему ниспосылается откровение?» Я ответил: «Да». Тогда он поднял край одежды, и я увидел, что он издавал звук похожий на храп (подобно звуку, который издает верблюд). Очнувшись, он сказал: «Где тот, кто спрашивал об ‘умре? Сними свою джуббу, смой с себя следы шафранового благовония и жёлтые следы, и делай во время ‘умры то же, что ты делаешь во время хаджа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1789</td></tr><tr><td>Arabic No</td><td>1789</td></tr><tr><td>Reference</td><td>Book 26 Hadith 16</td></tr></tbody></table></div>
 

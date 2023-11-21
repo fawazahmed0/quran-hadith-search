@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the Mother of the Believers (Allah be pleased with her), reported that t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Abu Nadlr] Maula Umar bin Ubaidullah, dari [Abu Salamah bin Abdurrahman] dari [Aisyah] Ummul Mukminin, bahwa ia berkata; "Sudah biasa Rasulullah shallallahu 'alaihi wasallam berpuasa beberapa hari, hingga kami mengira bahwa beliau akan berpuasa terus. Namun beliau juga biasa berbuka (tidak puasa) beberapa hari hingga kami mengira bahwa beliau akan tidak puasa terus. Dan aku tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam menyempurnakan puasanya sebulan penuh, kecuali Ramadlan. Dan aku juga tidak pernah melihat beliau puasa sunnah dalam sebulan yang lebih banyak daripada puasanya ketika bulan Sya'ban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2721</td></tr><tr><td>Arabic No</td><td>1156.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2721</td></tr><tr><td>Arabic No</td><td>1156.05</td></tr><tr><td>Reference</td><td>Book 13 Hadith 227</td></tr></tbody></table></div>
 

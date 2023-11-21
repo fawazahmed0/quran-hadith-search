@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Woman of Banu Ghifar: Umayyah, daughter of AbusSalt, quoted a certain w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Amru Ar-Razi] telah menceritakan kepada kami [Salamah bin Al-Fadll] telah mengabarkan kepada kami [Muhammad bin Ishaq] dari [Sulaiman bin Suhaim] dari [Umayyah binti Abi Ash-Shalt] dari [Seorang wanita Bani Ghifar] yang telah dia sebut namanya kepadaku, dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah memboncengkanku di kantong barang hewan tunggangannya (tanpa bersentuhan). Demi Allah, Rasulullah shallallahu 'alaihi wasallam terus berjalan hingga waktu Shubuh, lalu beliau menderumkannya dan saya pun turun dari kantong barang hewan tunggangannya. Ternyata pada kantong barang tersebut ada darah yang keluar dariku. Itu adalah haidlku yang pertama. Dia berkata; Maka saya melompat ke unta itu dan saya malu. Tatkala Rasulullah shallallahu 'alaihi wasallam melihat apa yang dialamiku dan melihat darah, beliau bersabda: "Ada apa denganmu, apakah kamu haidl?" Saya menjawab; Ya. Beliau bersabda: "Bereskanlah dirimu kemudian ambillah bejana berisi air, lalu taruhlah garam padanya, kemudian cucilah kantong barang yang terkena darah, lalu kembalilah ke tempat tungganganmu". Dia berkata; Tatkala Rasulullah shallallahu 'alaihi wasallam memenangkan perang Khaibar, beliau memberikan kepada kita sedikit harta rampasan perang. Dia berkata; dia tidak bersuci dari haidl kecuali hanya meletakkan pada air untuk bersucinya garam dan mewasiatkan untuk menjadikannya pada tempat mandinya apabila dia meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>313</td></tr><tr><td>Arabic No</td><td>313</td></tr><tr><td>Reference</td><td>Book 1 Hadith 313</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умаййи бинт Абу Сальт, которая сообщила о том, что одна женщина из племени Бану Гъифар, которую назвали мне по имени, сказала: «Однажды Посланник Аллаха ﷺ посадил меня позади себя на паланкин. И клянусь Аллахом, до утра Посланник Аллаха ﷺ не покидал своего места, и утром когда он посадил верблюда, я сошла с паланкина, на котором остались следы крови, и это была моя первая менструация. Мне стало стыдно, и я прижалась к верблюдице. Когда Посланник Аллаха ﷺ увидел моё состояние, и увидел кровь, он сказал: “Что с тобой? У тебя что, (начались) менструации?” Я сказал: “Да”. Тогда он сказал: “Приведи себя в порядок, затем возьми сосуд воды и добавь в него соль, а затем смой кровь с паланкина, и затем возвращайся к своему верховому животному”.(Умаййа) сказала: “Когда Посланник Аллаха ﷺ покорил Хайбар, он выделил нам часть добычи”.(Умаййа) сказала: “И она не очищалась от менструаций кроме, как размешав в воде соль, и оставила завещание, чтобы ее после смерти искупали водой, смешанной солью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>313</td></tr><tr><td>Arabic No</td><td>313</td></tr><tr><td>Reference</td><td>Book 1 Hadith 313</td></tr></tbody></table></div>
 

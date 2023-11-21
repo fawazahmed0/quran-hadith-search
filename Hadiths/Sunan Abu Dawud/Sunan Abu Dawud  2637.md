@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ka'b ibn Malik: When the Prophet (ﷺ) intended to go on an expedition,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ubaid], telah menceritakan kepada kami [Ibnu Tsaur] dari [Ma'mar] dari [Az Zuhri], dari [Abdurrahman bin Ka'b bin Malik] dari [ayahnya], bahwa Nabi shallallahu 'alaihi wasallam apabila hendak berperang beliau menyembunyikan tujuan sebenarnya, dan beliau berkata: "Perang adalah tipu muslihat." Abu Daud berkata; tidak ada yang membawa hadits tersebut selain Ma'mar. -yang ia maksudkan adalah ucapan "Perang adalah tipu muslihat" dengan sanad ini. Sesungguhnya ucapan tersebut diriwayatkan dari hadits ['Amr bin Dinar] dari [Jabir] dan dari hadits [Ma'mar], dari [Hammam bin Munabbih], dari [Abu Hurairah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2637</td></tr><tr><td>Arabic No</td><td>2637</td></tr><tr><td>Reference</td><td>Book 15 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2637</td></tr><tr><td>Arabic No</td><td>2637</td></tr><tr><td>Reference</td><td>Book 15 Hadith 161</td></tr></tbody></table></div>
 

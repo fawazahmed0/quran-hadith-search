@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (رضي الله عنها), Hamza Ibn 'Amr Al-'Aslamî interrog
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] radliallahu 'anha, bahwa ia berkata; Hamzah bin Amru Al Aslami bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang berpuasa dalam perjalanan, maka beliau menjawab: "Jika kamu mau berpuasalah dan jika tidak berbukalah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2625</td></tr><tr><td>Arabic No</td><td>1121.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2625</td></tr><tr><td>Arabic No</td><td>1121.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 131</td></tr></tbody></table></div>
 

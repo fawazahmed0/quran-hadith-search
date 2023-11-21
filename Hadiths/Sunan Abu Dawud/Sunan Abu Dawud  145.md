@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: Whenever the Messenger of Allah (ﷺ) performed ablutio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah, Ar-Rabi' bin Nafi'] telah menceritakan kepada kami [Abu Al-Malih] dari [Al-Walid bin Zauran] dari [Anas bin Malik] bahwasanya Rasulullah shallallahu 'alaihi wasallam apabila berwudhu beliau mengambil air dengan telapak tangannya, lalu memasukkannya ke bawah dagunya lalu beliau menyela-nyela di antara jenggotnya dan bersabda: "Beginilah Rabbku 'azza wajalla memerintahkan aku." Abu Dawud berkata: Hajjaj bin Hajjaj meriwayatkan dari Al-Walid bin Zauran dan Abu Al-Malih Ar-Raqi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Валид ибн Зауран передал со слов Анаса ибн Малика о том, что обычно, когда Посланник Аллаха ﷺ совершал омовение, он брал горстку воды, подносил его к подбородку и прочесывал ею свою бороду и как-то он сказал: «Так поступать велел мне мой Великий и Всемогущий Господь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
 

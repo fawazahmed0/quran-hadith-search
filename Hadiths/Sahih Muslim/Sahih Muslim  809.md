@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported:The Messenger of Allah (ﷺ) happened to pass by a goat throw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Abi Umar] dan [Abdullah bin Muhammad az-Zuhri] dan lafazh tersebut milik Ibnu Abi Umar. Keduanya berkata, telah menceritakan kepada kami [Sufyan] dari [Amru] dari ['Atha'] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam melewati kambing yang dibuang yang telah diberikan kepada budak Maimunah sebagai sedekah. Maka Nabi shallallahu 'alaihi wasallam bersabda, "Mengapa kalian tidak mengambil kulitnya, lalu menyamaknya, sehingga kalian bisa memanfaatkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>809</td></tr><tr><td>Arabic No</td><td>363.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Аббаса, что (однажды) Посланник Аллаха ﷺ проходя мимо брошенной (издохшей) овцы, которая досталась вольноотпущеннице (его жены) Маймуны в качестве милостыни, спросил: «Почему бы им не взять её шкуру, выдубить и использовать её?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>809</td></tr><tr><td>Arabic No</td><td>363.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 130</td></tr></tbody></table></div>
 

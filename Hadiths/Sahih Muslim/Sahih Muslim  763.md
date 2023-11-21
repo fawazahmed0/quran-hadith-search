@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mu'adha said:I asked 'A'isha: What is the reason that a menstruating woman compl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Ashim] dari [Mu'adzah] dia berkata, "Saya bertanya kepada [Aisyah] seraya berkata, 'Kenapa gerangan wanita yang haid mengqadha' puasa dan tidak mengqadha' shalat? ' Maka Aisyah menjawab, 'Apakah kamu dari golongan Haruriyah? ' Aku menjawab, 'Aku bukan Haruriyah, akan tetapi aku hanya bertanya.' Dia menjawab, 'Kami dahulu juga mengalami haid, maka kami diperintahkan untuk mengqadha' puasa dan tidak diperintahkan untuk mengqadha' shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>763</td></tr><tr><td>Arabic No</td><td>335.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Му‘аза сказала: «Однажды я спросила ‘Аишу: “Почему женщины, у которых бывают менструации , возмещают (пропущенные дни) поста, но не возмещают пропущенные молитвы?” Она спросила: “Разве ты харуритка?!” Я сказала: “Я не харуритка и просто (хочу) спросить”. Тогда она сказала: “С нами тоже бывало это, однако нам велели возмещать (пропущенные дни) поста и не велели возмещать молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>763</td></tr><tr><td>Arabic No</td><td>335.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 85</td></tr></tbody></table></div>
 

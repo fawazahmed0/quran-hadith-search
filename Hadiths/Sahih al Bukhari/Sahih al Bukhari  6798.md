@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) cutoff the hand of a thief for st
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepadaku [Ibrahim bin Al Mundzir] telah menceritakan kepada kami [Abu Dlamrah] telah menceritakan kepada kami [Musa bin 'Uqbah] dari [Nafi'] bahwasanya [Abdullah bin Umar] radliallahu 'anhuma mengatakan; Nabi shallallahu 'alaihi wasallam pernah memotong tangan pencuri karena mencuri perisai yang harganya tiga dirham. Hadits ini diperkuat oleh [Muhammad bin Ishaq] dan [Al Laits] mengatakan; telah menceritakan kepadaku [Nafi'] harga perisai tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6798</td></tr><tr><td>Arabic No</td><td>6798</td></tr><tr><td>Reference</td><td>Book 86 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщатся, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «(Как-то раз по велению) Пророка ﷺ вору отрубили руку (за кражу) щита стоимостью в три дирхема»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6798</td></tr><tr><td>Arabic No</td><td>6798</td></tr><tr><td>Reference</td><td>Book 86 Hadith 27</td></tr></tbody></table></div>
 

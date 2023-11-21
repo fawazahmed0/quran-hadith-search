@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:A man came to the Prophet (ﷺ) and said, "I am ruined!" Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri], Sufyan berkata; aku mendengarnya dari mulutnya, dari [Humaid bin Abdurrahman] dari [Abu Hurairah] mengatakan, Seorang lelaki menemui Nabi shallallahu 'alaihi wasallam dan berujar; 'celaka aku! ' "kenapa denganmu?" Tanya Nabi, dia Jawab; 'Aku menyetubuhi istriku di bulan Ramadhan.' Nabi bertanya; "mampukah kamu membebaskan seorang budak?" 'Tidak, ' Jawabnya. Tanya Nabi: "Apakah kamu bisa berpuasa dua bulan secara berturut-turut?" 'Tidak' jawabnya. Tanya Nabi: "Apakah kamu bisa memberi makan enam puluh orang miskin?" 'Tidak, ' Jawabnya. Nabi bersabda: "Kalau begitu duduklah." Orang itu pun duduk, dan Nabi membawakan segantang penuh kurma dan berujar: "Ambillah kurma ini dan pergunakanlah untuk bersedekah!" Orang tadi menjawab; 'Apakah kepada orang yang lebih miskin dari kami? ' Nabi shallallahu 'alaihi wasallam pun tertawa hingga terlihat gigi serinya dan bersabda: "berilah makan keluargamu dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6709</td></tr><tr><td>Arabic No</td><td>6709</td></tr><tr><td>Reference</td><td>Book 84 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «(Однажды) к Пророку ﷺ пришёл какой-то человек и воскликнул: “Я погиб!” (Пророк ﷺ) спросил: “Что с тобой (случилось)?” Он сказал: “Я вступил в половую близость с женой (днём) в рамадане”. Пророк ﷺ спросил: “Можешь ли ты освободить раба?” Он ответил: “Нет”. (Пророк ﷺ) спросил: “А сможешь ли ты поститься два месяца подряд?” Он ответил: “Нет”. (Пророк ﷺ) спросил: “А сможешь ли ты накормить шестьдесят бедняков?” Он ответил: “Нет”. Пророк ﷺ сказал: “Сядь”. В это время Пророку ﷺ принесли корзину из пальмовых листьев с финиками. Тогда он сказал: “Возьми это и раздай в качестве милостыни”. Этот человек спросил: “(Должен ли я раздать это) тем, кто беднее нас?” Тогда Пророк ﷺ улыбнулся так, что показались его зубы, а потом сказал: “Накорми ими свою семью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6709</td></tr><tr><td>Arabic No</td><td>6709</td></tr><tr><td>Reference</td><td>Book 84 Hadith 2</td></tr></tbody></table></div>
 

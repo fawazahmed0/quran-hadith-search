@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Never did I, see the Messenger of Allah (ﷺ) after the revelati
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Mufadhdhal] dari [al-A'masy] dari [Muslim bin Shubaih] dari [Masruq] dari [Aisyah ra] dia berkata, "Tidaklah aku melihat Nabi Shallallahu'alaihiwasallam sejak beliau diberi wahyu, 'Idza Ja'a Nashrullah wa al-Fath' melakukan shalat, melainkan beliau berdoa atau mengucapkan di dalamnya, 'SUBHAANAKA ROBBII WABIHAMDIKA ALLOOHUMMAGH FIRLII Mahasuci Engkau wahai Rabbku dan dengan memujiMu, ya Allah, ampunilah aku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1087</td></tr><tr><td>Arabic No</td><td>484.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 249</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «С тех пор, как Пророку ﷺ были ниспосланы слова: “Когда придёт помощь Аллаха и победа…” (Сура «ан-Наср», аят 1), я не видела, чтобы он совершал молитву, не говоря во (время её совершения): “Слава Тебе, Господь мой и хвала Тебе! О Аллах, прости меня! /Субхана-кя рабби, ва би-хамди-кя! Аллахумма-гфир ли/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1087</td></tr><tr><td>Arabic No</td><td>484.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 249</td></tr></tbody></table></div>
 

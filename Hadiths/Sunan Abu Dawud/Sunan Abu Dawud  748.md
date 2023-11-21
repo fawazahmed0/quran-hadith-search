@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ It was reported from Alqamah who said:Abdullah ibn Mas'ud said: Should I not pra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari ['Ashim yaitu Ibnu Kuliab] dari [Abdurrahman bin Al Aswad] dari ['Alqamah] dia berkata; [Abdullah bin Mas'ud] berkata: "Maukah kalian aku ajarkan bersama kalian shalat Rasulullah shallallahu 'alaihi wasallam?" lalu dia shalat dan tidak mengangkat kedua tangannya kecuali hanya sekali saja." Abu Daud berkata; "Hadits ini adalah ringkasan dari hadits yang panjang dan di pandang tidak shahih dari redaksi tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>748</td></tr><tr><td>Arabic No</td><td>748</td></tr><tr><td>Reference</td><td>Book 2 Hadith 358</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Алькъама сказал: «‘Абдуллах ибн Мас‘уд сказал: “Не совершить ли мне с вами молитву Посланника Аллаха ﷺ?”» (‘Алькъама) сказал: «И он совершил молитву и не поднимал руки кроме как один раз».Абу Дауд сказал: «Это укороченный (вариант) длинного хадиса и с этим текстом он является недостоверным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>748</td></tr><tr><td>Arabic No</td><td>748</td></tr><tr><td>Reference</td><td>Book 2 Hadith 358</td></tr></tbody></table></div>
 

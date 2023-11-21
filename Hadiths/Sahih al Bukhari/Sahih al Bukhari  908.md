@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:heard Allah's Messenger (ﷺ)s (p.b.u.h) saying, "If the pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b], [Az Zuhri] berkata dari [Sa'id] dan [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam. (dalam jalur lain disebutkan) Dan telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku [Abu Salamah bin 'Abdurrahman] bahwa [Abu Hurairah] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika shalat sudak ditegakkan (iqamatnya) janganlah kalian mendatnginya dengan tergesa-gesa. Datangilah dengan berjalan tenang. Maka apa yang kalian dapatkan shalatlah, dan mana yang ketinggalan sempurnakanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>908</td></tr><tr><td>Arabic No</td><td>908</td></tr><tr><td>Reference</td><td>Book 11 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Я слышал как Посланник Аллаха ﷺ говорил: “Когда объявляется о начале молитвы, не идите на неё спеша, однако, приходите на неё (обычным) шагом, и сохраняйте (при этом) спокойствие. Молитесь, то что вы застанете, а то, что пропустите — восполняйте»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>908</td></tr><tr><td>Arabic No</td><td>908</td></tr><tr><td>Reference</td><td>Book 11 Hadith 32</td></tr></tbody></table></div>
 

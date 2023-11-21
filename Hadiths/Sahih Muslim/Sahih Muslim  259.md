@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of 'Abdur-Rahman b. Abu Bakra that his father sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru bin Muhammad bin Bukair bin Muhammad an-Naqid] telah menceritakan kepada kami [Ismail bin Ulayyah] dari [Sa'id al-Juraiji] telah menceritakan kepada kami [Abdurrahman bin Abu Bakrah] dari [bapaknya] dia berkata, "Saat kami di sisi Rasulullah shallallahu 'alaihi wasallam, beliau lalu bersabda: "Maukah aku ceritakan kepada kalian dosa besar yang paling besar?" Yaitu tiga perkara, yaitu mensyirikkan Allah, mendurhakai kedua ibu bapak, dan bersaksi palsu atau kata-kata palsu, " saat itu beliau sedang bersandar lalu duduk. Beliau terus mengulangi sabdanya sehingga kami berkata, 'Semoga beliau berhenti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>259</td></tr><tr><td>Arabic No</td><td>87</td></tr><tr><td>Reference</td><td>Book 1 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Абу Бакра передал, что его отец сказал: «(Однажды), когда мы находились у Посланника Аллаха ﷺ, он трижды спросил (людей): “Не сообщить ли вам, какие грехи являются наиболее тяжкими?” а потом сказал: “(Это ) придавание Аллаху сотоварищей, проявление непочтительности по отношению к родителям и лжесвидетельство (или: лживые речи)” (Говоря это), Посланник Аллаха ﷺ полулежал, опираясь на руку, а потом он сел и продолжал повторять (эти слова), пока мы не стали говорить: “О, если бы он умолк!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>259</td></tr><tr><td>Arabic No</td><td>87</td></tr><tr><td>Reference</td><td>Book 1 Hadith 165</td></tr></tbody></table></div>
 

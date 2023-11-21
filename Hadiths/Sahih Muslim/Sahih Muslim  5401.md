@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), 'Omar Ibn Al-Khattâb ayant vu 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata; Aku membaca Hadits [Malik] dari [Nafi'] dari [Ibnu 'Umar]; Bahwa ['Umar bin Al Khaththab] melihat baju sutera di pajang di depan pintu Masjid, lalu Umar berkata; "Wahai Rasulullah, Alangkah bagusnya seandainya Anda beli untuk Anda pakai berkhutbah pada hari jum'at', dan di saat menerima para utusan 'Arab yang datang menghadap Anda." Rasulullah shallallahu 'alaihi wasallam menjawab: 'Yang memakai sutera ini hanyalah orang yang tidak dapat bagian di akhirat. Tidak berapa lama sesudah itu Rasulullah shallallahu 'alaihi wasallam diberi orang beberapa helai pakaian diantaranya kain sutera. Lalu beliau kirimkan kepada 'Umar sehelai. Maka Umar bertanya; "Ya Rasulullah! Bagaimana anda menyuruhku untuk memakai baju sutera ini? Bukankah kemarin Anda telah memberiku kritikan (teguran) tentang baju yang dipamerkan 'Utharid?" Rasulullah shallallahu 'alaihi wasallam menjawab: 'Aku tidak mengirimkannya kepadamu untuk kamu pakai.' Lalu Umar memberikan kain itu kepada saudaranya yang masih musyrik di kota Makkah. Telah menceritakan kepada kami [Ibnu Numair]; Telah menceritakan kepada kami [Bapakku]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Abu Usamah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami]; Telah menceritakan kepada kami [Yahya bin Sa'id] seluruhnya Dari ['Ubaidullah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Suwaid bin Sa'id]; Telah menceritakan kepada kami [Hafsh bin Maisarah] dari [Musa bin 'Uqbah] keduanya dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam sebagaiman Hadits Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5401</td></tr><tr><td>Arabic No</td><td>2068.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5401</td></tr><tr><td>Arabic No</td><td>2068.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 16</td></tr></tbody></table></div>
 

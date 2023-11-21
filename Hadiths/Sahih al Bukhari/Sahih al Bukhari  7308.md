@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-A'mash:I asked Abu Wail, "Did you witness the battle of Siffin betwe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah mengabarkan kepada kami [Abu Hamzah] aku mendengar [Al A'masy] ia berkata, "Aku mendengar [Abu Wail] berkata, "Apakah engkau menyaksikan perang Shiffin?" Ia menjawab, "Ya. Aku mendengar [Sahl bin Hunaif] berkata." (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musa bin Ismail] telah menceritakan kepada kami [Abu Awanah] dari [Al A'masy] dari [Abu Wail] ia berkata; [Sahl bin Hunaif] berkata, "Wahai manusia, telitilah logika kalian terhadap agama kalian, sebab ketika hari-hari Abu jandal disiksa, aku berpendapat kalaulah bisa akan kutolak perintah Rasulullah shallallahu 'alaihi wasallam, dan tidak akan kami letakkan pedang kami yang berada di atas pundak kami karena suatu hal yang menjadikan hati kami sangat miris, hanya pendapat kami --alhamdullillah-memudahkan kami menerima sesuatu yang akhirnya bisa kami sadari, yang sangat berlawanan dengan kejadian yang ada." Al A'masy berkata, "Abu Wail berkata, "Aku pernah menyaksikan perang Shiffin, dan alangkah buruk tragedi perang shiffin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7308</td></tr><tr><td>Arabic No</td><td>7308</td></tr><tr><td>Reference</td><td>Book 96 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Ваиля, что Сахль ибн Хунейф, да будет доволен им Аллах, сказал: «О люди! Вините то, как вы понимаете вашу религию, ибо я помню себя в день Абу Джандаля, и если бы я мог отвергнуть веление Посланника Аллаха ﷺ то отверг бы его. Каждый раз, как только мы взваливаем на плечи мечи ради достижения какой-либо цели, так они снова приводят нас к тому, что мы знали раньше, за исключением этого дела». Абу Ваиль сказал: «Я участвовал в сражении при Сиффине, и каким же плохим оно было»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7308</td></tr><tr><td>Arabic No</td><td>7308</td></tr><tr><td>Reference</td><td>Book 96 Hadith 39</td></tr></tbody></table></div>
 

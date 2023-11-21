@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Sometimes I missed some days of Ramadan, but could not fast in l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Yahya] dari [Abu Salamah] berkata; Aku mendengar ['Aisyah radliallahu 'anha] berkata: "Aku berhutang puasa Ramadhan dan aku tidak bisa mengqadha'nya kecuali pada bulan Sya'ban". Yahya berkata: "Karena dia sibuk karena atau bersama Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1950</td></tr><tr><td>Arabic No</td><td>1950</td></tr><tr><td>Reference</td><td>Book 30 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Случалось, что мне нужно было восполнять пропущенные дни поста в рамадане, однако я не могла сделать это до следующего ша‘бана». \nЯхья (передатчик) добавил: «По причине того, что она была занята Пророком ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1950</td></tr><tr><td>Arabic No</td><td>1950</td></tr><tr><td>Reference</td><td>Book 30 Hadith 57</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Muhammad b. al-Munkadir said:I heard Jabir b. 'Abd Allah say: I presented bread 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Hasan Al-Khats'ami] telah menceritakan kepada kami [Hajjaj] berkata [Ibnu Juraij] telah mengabarkan kepada saya [Muhammad bin Al-Munkadir] dia berkata; Saya pernah mendengar [Jabir bin Abdullah] berkata; Saya pernah mempersembahkan kepada Nabi shallallahu 'alaihi wasallam sepotong roti dan daging, lalu beliau memakannya. Kemudian beliau meminta air wudhu, lalu berwudhu dengan air itu. Setelah itu beliau mengerjakan shalat Dhuhur. Kemudian meminta sisa makanan beliau, lalu memakannya, kemudian berdiri mengerjakan shalat tanpa berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>191</td></tr><tr><td>Reference</td><td>Book 1 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн Мункадир сказал: «Я слышал, как Джабир ибн ‘Абдуллах говорил: “(Однажды) я принес для Пророка ﷺ хлеб и мясо и он поел это. Затем он попросил принести воды для омовения и совешил ею омовение, и после этого он совершил обеденную молитву /зухр/. Потом он попросил подать остаток еды и поел, а затем он встал на молитву, не совершая омовение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>191</td></tr><tr><td>Reference</td><td>Book 1 Hadith 191</td></tr></tbody></table></div>
 

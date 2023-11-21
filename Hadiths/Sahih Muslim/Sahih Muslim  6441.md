@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The tribes of Ashja', Ghi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] keduanya berkata; [Ibnu Al Mutsanna] Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim] dia berkata; Aku mendengar [Abu Salamah] bercerita dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Kabilah Aslam, Ghifar, Muzainah, dan orang-orang dari kabilah Juhainah, mereka semua lebih baik dari bani Tamim, bani Amir adalah lebih baik dari bani Tamim, bani 'Amir, dan dua sekutu Asad dan Ghathafan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6441</td></tr><tr><td>Arabic No</td><td>2521.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6441</td></tr><tr><td>Arabic No</td><td>2521.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 270</td></tr></tbody></table></div>
 

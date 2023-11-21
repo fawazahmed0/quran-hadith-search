@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq bin Al-Aida:Um Ruman, the mother of 'Aisha said that while 'Aish
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Hushain] dari [Abu Wa'il] ia berkata; telah menceritakan kepadaku [Masruq bin Al Ajda'] ia berkata; telah menceritakan kepadaku [Ummu Ruman] ibunya 'Aisyah radliallahu 'anhuma, ia berkata; "Saat aku dan 'Aisyah duduk, tiba-tiba datang seorang wanita Anshar seraya berkata; "Semoga Allah berbuat terhadap fulan dan pasti berbuat." Maka Ummu Ruman bertanya; "Ada apa sebenarnya?". Wanita itu berkata; "Putraku termasuk orang yang menyebarkan berita ini." 'Aisyah bertanya; "Berita apa itu?". Wanita itu menjawab; "Begini dan begini". 'Aisyah bertanya; "Apakah Rasulullah shallallahu 'alaihi wasallam telah mendengarnya?". Dia menjawab; "Ya". 'Aisyah bertanya lagi; "Dan Abu Bakr?". Dia menjawab; "Ya". Maka 'Aisyah jatuh pingsan dan tidak sadarkan diri melainkan setelah menderita demam yang sangat tinggi. Aku lalu menyelimutinya dengan pakainnya dan menutupinya hingga Nabi shallallahu 'alaihi wasallam datang dan bertanya: "Ada apa dengannya?". Aku jawab; "Wahai Rasulullah, dia terserang demam." Beliau bersabda: "Ini pasti karena berita bohong yang engkau ceritakan." Ummu Ruman berkata; "Ya benar." Kemudian 'Aisyah duduk dan berkata; "Demi Allah, seandainya aku bersumpah, engkau tidak akan mempercayaiku dan seandainya aku katakan tidak, maka kalian akan menuduhku, permisalanku dengan kalian seperti Ya'qub 'alaihis salam dengan anak-anaknya ketika dia berkata: "Dan Allah sajalah yang dimohon pertolongan-Nya terhadap apa yang kamu ceritakan." QS Yusuf; 18. Ummu Ruman berkata; "Lalu beliau berlalu tnpa mengucapkan sepatah katapun. Kemudian Allah menurunkan firman-Nya yang menjelaskan bukti sucinya diri 'Aisyah dari segala tuduhan. Saat itu 'Aisyah berkata; "(Segala puji bagi Allah) dan ini karena Allah Yang Maha Terpuji dan seseorang tidak layak mendapat pujian dan tidak pula engkau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4143</td></tr><tr><td>Arabic No</td><td>4143</td></tr><tr><td>Reference</td><td>Book 64 Hadith 187</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Руман, мать ‘Аиши сказала: «Когда я сидела с ‘Аишей, к нам зашла женщина из числа ансаров и сказала: “Да поступит Аллах так-то с таким-то”. Я спросила её: “Почему (ты так говоришь)?” Она ответила: “Потому что он распространил (клеветническую) историю”. ‘Аиша спросила: “Какую историю?” Затем женщина рассказала ей. ‘Аиша спросила: “Абу Бакр и Посланник Аллаха ﷺ слышали об этом?” Она сказала: “Да”. И ‘Аиша упала без чувств (услышав это), а когда она пришла в себя, у неё уже была лихорадка с ознобом. Пророк ﷺ пришёл и спросил: “Что с ней?” Я сказала: “У неё лихорадка из-за слухов, которые рассказываются”. ‘Аиша села и сказала: “Клянусь Аллахом! Даже если бы я дам клятву, вы не поверите мне, и, если я стану оправдываться, вы меня не оправдаете меня. Я и вы подобны Я‘кубу и его сыновьям: “Только Аллаха следует просить о помощи против того, что вы рассказали” (сура “Юсуф”, аят 18)”. Пророк ﷺ ушёл, ничего не сказав, а затем Аллах ниспослал аяты, в которых говорилось о её невиновности, она сказала: “Хвала Аллаху, и не кому другому”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4143</td></tr><tr><td>Arabic No</td><td>4143</td></tr><tr><td>Reference</td><td>Book 64 Hadith 187</td></tr></tbody></table></div>
 

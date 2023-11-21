@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: When a mukatab (a slave who
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad bin Salamah] dari [Ayyub] dari [Ikrimah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seorang budak Mukatab (budak yang ingin menebus dirinya supaya merdeka) mendapatkan hukuman had, atau mewarisi harta warisan, maka ia menerima warisannya sesuai dengan harga kebebasan dirinya dari perbudakan." Abu Dawud berkata, " [Wuhaib] meriwayatkannya dari [Ayyub], dari [Ikrimah], dari [Ali] dari Nabi shallallahu 'alaihi wasallam. [Hammad bin Zaid] dan [Isma'il] memursalkannya dari [Ayyub], dari [Ikrimah] dari Nabi shallallahu 'alaihi wasallam. Dan Isma'il bin Ulayyah memposisikan bahwa itu adalah ucapan Ikrimah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4582</td></tr><tr><td>Arabic No</td><td>4582</td></tr><tr><td>Reference</td><td>Book 41 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Если раб, который заключил со своим хозяином договор об освобождении за возмещение /мукатаб/, совершил преступление, за которое шариат установил определённое наказание, или унаследовал нечто, он подвергается наказанию и наследует в той мере, в которой освобождён»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4582</td></tr><tr><td>Arabic No</td><td>4582</td></tr><tr><td>Reference</td><td>Book 41 Hadith 89</td></tr></tbody></table></div>
 

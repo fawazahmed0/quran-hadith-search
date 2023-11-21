@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Juraij:'Ata' said, "I heard Jabir bin 'Abdullah saying, 'We never a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij] telah menceritakan kepada kami ['Atho'] dia mendengar [Jabir bin 'Abdullah radliallahu 'anhu] berkata: "Kami tidak memakan daging dari hewan qurban kami melebihi tiga hari Mina (Tasyriq) kemudian Nabi shallallahu 'alaihi wasallam memberi keringanan kepada kami, sabda Beliau: "Makanlah dan sisakanlah sebagai bekal kalian?". Aku bertanya kepada 'Atho': "Apakah Beliau berkata: "Hingga kita tiba di Madinah?". Dia menjawab: "Tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1719</td></tr><tr><td>Arabic No</td><td>1719</td></tr><tr><td>Reference</td><td>Book 25 Hadith 197</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин ‘Абдуллах, да будет доволен Аллах ими обоими, сказал: «Раньше мы ели мясо приносимых нами в жертву верблюдов не более трёх (дней, в течение которых мы находились в) Мине, а потом Пророк ﷺ дал нам разрешение (на это), сказав: “Ешьте и запасайтесь”, и мы съели (часть этого мяса) и часть взяли с собой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1719</td></tr><tr><td>Arabic No</td><td>1719</td></tr><tr><td>Reference</td><td>Book 25 Hadith 197</td></tr></tbody></table></div>
 

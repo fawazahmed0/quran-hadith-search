@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:My aunt presented (roasted) mastigures, Iqt and milk to the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] Telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] dari [Sa'id] dari [Ibnu Abbas] Radliayallahu 'Anhuma, ia berkata; Bibiku pernah memberi hadiah kepada Rasulullah shallallahu 'alaihi wasallam berupa daging biawak, keju dan susu. Kemudian daging biawak itu diletakkan di atas hidangan beliau. Sekiranya biawak itu haram, niscaya ia tidak akan diletakkan di situ. Lalu beliau meminum susu dan memakan keju
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5402</td></tr><tr><td>Arabic No</td><td>5402</td></tr><tr><td>Reference</td><td>Book 70 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Однажды моя тётка с материнской стороны подарила Пророку ﷺ шипохвостых ящериц, сушёный творог и молоко. Ящерицы были положены на стол, и если бы (употреблять их в пищу) было запретно, то их не положили бы (на стол). Пророк ﷺ пил молоко и ел творог»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5402</td></tr><tr><td>Arabic No</td><td>5402</td></tr><tr><td>Reference</td><td>Book 70 Hadith 30</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The Muslims met a man with some sheep of his. He said: Peace
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru bin Dinar] dari ['Atha] dari [Ibnu Abbas] ia berkata, "Orang-orang muslim bertemu dengan seorang laki-laki yang membawa kambingnya, kemudian ia mengucapkan, 'Assalaamu 'alaikum! ' Lalu mereka membunuhnya dan mengambil kambing tersebut. Maka turunlah ayat: '(Dan janganlah kamu mengatakan kepada orang yang mengucapkan 'salam' kepadamu: 'Kamu bukan seorang mukmin' (lalu kamu membunuhnya), dengan maksud mencari harta benda kehidupan di dunia) ' (Qs. An Nisaa: 94), yaitu kambing tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4591) Sahih Muslim (3025)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3974</td></tr><tr><td>Arabic No</td><td>3974</td></tr><tr><td>Reference</td><td>Book 32 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды мусульмане увидели человека, который пас нескольких своих овец. Он сказал им: «Мир вам!» Несмотря на это, его убили и забрали его овец. Тогда был ниспослан аят: «И не говорите тому, кто приветствует вас миром /салям/: “Ты не верующий”, стремясь обрести тленные блага мирской жизни» (сура «ан-Ниса», аят 94). (Под тленными благами мирской жизни) подразумевались эти овцы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4591) Sahih Muslim (3025)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3974</td></tr><tr><td>Arabic No</td><td>3974</td></tr><tr><td>Reference</td><td>Book 32 Hadith 6</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:While we were sitting with the Prophet, fresh dates
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyats] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Al A'masy] ia berkata; telah menceritakan kepadaku [Mujahid] dari [Abdullah bin Umar] radliallahu 'anhuma, ia berkata, "Ketika kami sedang duduk di sisi Nabi shallallahu 'alaihi wasallam, lalu dihidangkanlah kurma yang sudah kering. Nabi shallallahu 'alaihi wasallam lalu bersabda: "Sesungguhnya di antara pepohonan itu ada satu jenis pohon yang keberkahannya seperti seorang Muslim." Lalu aku mempunyai perkiraan bahwa pohon itu adalah pohon kurma, aku berkeinginan menjawab; 'Wahai Rasulullah, itu adalah pohon kurma', namun aku melihat bahwa di antara sepuluh orang yang ada aku adalah yang paling muda. Maka aku pun diam. Nabi shallallahu 'alaihi wasallam kemudian bersabda: "Yaitu pohon kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5444</td></tr><tr><td>Arabic No</td><td>5444</td></tr><tr><td>Reference</td><td>Book 70 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Однажды, когда мы сидели у Пророка ﷺ, ему принесли верхушки (или сердцевины) пальм, и Пророк ﷺ сказал: “Среди деревьев есть дерево, которое благословенно подобно мусульманину”. Я подумал, что он имеет ввиду пальму, и я хотел сказать: “Это пальма, о Посланник Аллаха”. Но оглянувшись я увидел, что являюсь самым молодым среди десяти присутствовавших там мужчин и промолчал. А Пророк ﷺ сказал: “Это пальма”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5444</td></tr><tr><td>Arabic No</td><td>5444</td></tr><tr><td>Reference</td><td>Book 70 Hadith 73</td></tr></tbody></table></div>
 

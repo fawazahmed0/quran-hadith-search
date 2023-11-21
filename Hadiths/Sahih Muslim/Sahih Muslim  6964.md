@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Ayyub Ansari reported that Allah's Messenger (ﷺ) said:If you were not to c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku ['Iyadl bin 'Abdullah Al Fihri] telah menceritakan kepadaku [Ibrahim bin 'Ubaid bin Rifa'ah] dari [Muhammad bin Ka'b Al Qurazhi] dari [Abu Shirmah] dari [Abu Ayyub Al Anshari] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Seandainya kamu sekalian tidak mempunyai dosa sedikit pun yang patut diampuni Allah, niscaya Allah akan mendatangkan suatu kaum yang melakukan dosa untuk diberikan ampunan bagi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6964</td></tr><tr><td>Arabic No</td><td>2748.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Аййюба аль-Ансари (да будет доволен им Аллах), о том, что Посланник Аллаха ﷺ сказал: «Если бы у вас не было грехов, которые Аллах прощал вам, то Аллах привёл бы таких людей, у которых есть грехи, которые Он прощал бы им!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6964</td></tr><tr><td>Arabic No</td><td>2748.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 12</td></tr></tbody></table></div>
 

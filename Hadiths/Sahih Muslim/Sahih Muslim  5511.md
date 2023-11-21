@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Suwaid bin Sa'id]; Telah menceritakan kepada kami ['Abdul 'Aziz bin Abu Hazim] dari [Bapaknya] dari [Abu Salamah bin 'Abdurrahman] dari ['Aisyah] dia berkata; "Jibril berjanji akan datang berkunjung kepada Rasulullah shallallahu 'alaihi wasallam pada suatu waktu yang ditentukan. Ketika waktu itu telah tiba, ternyata Jibril belum datang. Di tangan beliau ada sebuah tongkat. Maka diletakkannya tongkat itu sambil berkata: 'Allah dan Rasul-Nya tidak menyalahi janji.' Beliau menoleh, tiba-tiba beliau melihat seekor anak anjing kecil di bawah tempat tidur. Beliau bertanya: 'Hai, 'Aisyah! Sejak kapan anak anjing itu masuk ke sana? ' 'Aisyah menjawab; 'Wallahi! Aku tidak tahu! ' Rasulullah menyuruh keluarkan anak anjing itu lalu dikeluarkan. Maka datanglah Jibril. Rasulullah shallallahu 'alaihi wasallam bertanya: 'Anda berjanji akan datang pada waktu yang telah ditentukan. Aku telah menunggu-nunggu tetapi Anda tak kunjung tiba.' Jibril menjawab; 'Aku terhalang oleh anjing dalam rumah Anda. Kami (bangsa Malaikat) tidak mau masuk ke dalam rumah yang di situ ada anjing dan gambar-gambar.' Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Handzalah]; Telah mengabarkan kepada kami [Al Mahzumi]; Telah menceritakan kepada kami [Wuhaib] dari [Abu Hazim] melalui sanad ini bahwa Jibril berjanji akan menemui Rasulullah shallallahu 'alaihi wasallam kemudian dia menyebutkan Haditsnya, namun tidak sepanjang yang disebutkan oleh Ibnu Abu Hazim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5511</td></tr><tr><td>Arabic No</td><td>2104.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5511</td></tr><tr><td>Arabic No</td><td>2104.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 126</td></tr></tbody></table></div>
 

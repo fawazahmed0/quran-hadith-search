@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to practice I'tikaf in the last ten
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari [Hisyam] berkata, telah mengabarkan kepada saya [bapakku] dari ['Aisyah radliallahu 'anha] dari Nabi shallallahu 'alaihi wasallam: "Carilah". Telah menceritakan kepada saya [Muhammad] telah mengabarkan kepada kami ['Abdah] dari [Hisyam bin 'Urwah] dari [bapakku] dari ['Aisyah radliallahu 'anha] berkata: Rasulullah shallallahu 'alaihi wasallam beri'tikaf pada sepuluh hari terakhir dari bulan Ramadhan dan bersabda: "Carilah Lailatul Qadar pada sepuluh malam yang akhir dari Ramadhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>2020</td></tr><tr><td>Reference</td><td>Book 32 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ совершал и‘тикяф в последние десять дней рамадана. Он говорил: “Ищите Лейлят-уль-кадр в последние десять дней рамадана!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>2020</td></tr><tr><td>Reference</td><td>Book 32 Hadith 7</td></tr></tbody></table></div>
 

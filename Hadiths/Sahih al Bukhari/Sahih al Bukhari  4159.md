@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b bin Ujra:That Allah's Messenger (ﷺ) saw him with the lice fallin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4159</td></tr><tr><td>Arabic No</td><td>4159</td></tr><tr><td>Reference</td><td>Book 64 Hadith 202</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ка‘ба ибн ‘Уджры, что когда Посланник Аллаха ﷺ увидел, как вши падают ему на лицо, он спросил: «Тебя мучают вши?» Ка‘б ответил: «Да». Тогда Посланник Аллаха ﷺ приказал ему обрить голову, когда он был в Худайбиййи. В то время им ещё не было ясно, что они выйдут из ихрама там (в Худайбиййи), и они ещё надеялись войти в Мекку. Когда же Аллах ниспослал аяты об искуплении, Посланник Аллаха ﷺ приказал ему накормить «фараком» (мера объёма) еды шестерых бедняков, или зарезать жертвенное животное, или поститься три дня
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4159</td></tr><tr><td>Arabic No</td><td>4159</td></tr><tr><td>Reference</td><td>Book 64 Hadith 202</td></tr></tbody></table></div>
 

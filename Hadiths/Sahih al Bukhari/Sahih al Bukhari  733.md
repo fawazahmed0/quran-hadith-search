@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) fell from a horse and got injure
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Anas bin Malik] ia berkata, "Rasulullah shallallahu 'alaihi wasallam jatuh dari kudanya hingga beliau pun cedera. Beliau lalu shalat mengimami kami dengan duduk, dan kami juga shalat dengan duduk. Setelah selesai beliau bersabda: "Sesungguhnya imam, atau dijadikannya imam adalah untuk diikuti. Jika ia takbir maka bertakbirlah kalian, jika ia rukuk maka rukuklahkalian, jika ia mengangkat kepala maka angkatlah kepala kalian, jika ia mengucapkan 'SAMI'ALLAHU LIMAN HAMIDAH (Semoga Allah mendengar orang yang memuji-Nya), maka ucapkanlah oleh kalian 'RABBANAA LAKAL HAMDU (Ya Rabb kami, milik Engkaulah segala pujian), dan jika ia sujud maka sujudlah kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>733</td></tr><tr><td>Arabic No</td><td>733</td></tr><tr><td>Reference</td><td>Book 10 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал:\n— (Однажды) Посланник Аллаха ﷺ упав с коня оцарапал (свой правый бок) и совершал намаз с нами сидя, и мы тоже совершали намаз за ним сидя, а после того, как он завершил (намаз,) он сказал: “Поистине, имам — или он сказал — Поистине, имам назначается для того, чтобы (во время намаза другие) следовали его примеру. И поэтому, когда он произнесёт (слова) такбира, вы тоже произносите их. Если он совершит поясной поклон, то поклонитесь и вы, если он выпрямляется (после поясного поклона,) то вы тоже выпрямляйтесь. Когда он скажет: “Да услышит Аллах того, кто воздал Ему хвалу” /Сами‘а-Ллаху ли-ман хамидаху/, говорите: “Господь наш, хвала Тебе!” /Раббана лякаль-хамд/, а если он совершит земной поклон, то совершайте земной поклон и вы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>733</td></tr><tr><td>Arabic No</td><td>733</td></tr><tr><td>Reference</td><td>Book 10 Hadith 127</td></tr></tbody></table></div>
 

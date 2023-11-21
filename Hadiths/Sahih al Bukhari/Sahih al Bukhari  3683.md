@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Abi Waqqas:'Umar bin Al-Khattab asked the permission of Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Ya'qub bin Ibrahim] berkata, telah bercerita kepadaku [bapakku] dari [Shalih] dari [Ibnu Syihab] telah mengabarkan kepadaku ['Abdul Hamid] bahwa [Muhammad bin Sa'ad] mengabarkan kepadanya bahwa [bapaknya] berkata. Dan diriwayatkan pula, telah bercerita kepadaku ['Abdul 'Aziz bin 'Abdullah] telah bercerita kepada kami [Ibrahim bin Sa'ad] dari [Shalih] dari [Ibnu Syihab] dari ['Abdul Hamid bin 'Abdur Rahman bin Zaid] dari [Muhammad bin Sa'ad bin Abu Waqqash] dari [bapaknya] berkata; 'Umar meminta izin masuk kepada Rasulullah shallallahu 'alaihi wasallam saat ada wanita-wanita Quraisy sedang berbin cang bersama Beliau dan berlama-lama berbicara hingga suara mereka terdengar lebih keras dari suara beliau. Ketika 'Umar terdengar meminta izin, para wanita itu berdiri lalu pergi berlindung di balik tabir. Rasulullah shallallahu 'alaihi wasallam mengizinkannya Maka 'Umar masuk lalu Rasulullah shallallahu 'alaihi wasallam tertawa. 'Umar berkata; "Semoga Allah selalu membuat gigi baginda tertawa wahai Rasulullah". Beliau berkata: "Aku heran dengan para wanita yang tadi bersamaku. Ketika mereka mendengar suaramu mereka langsung saja menghindar dan berlindung di balik tabir". 'Umar berkata; "Bagindalah, wahai Rasulullah, seharusnya yang lebih patut untuk disegani". Selanjutnya 'Umar berkata; "Wahai para wanita yang menjadi musuh bagi diri kalian sendiri, mengapa kalian segan (takut) kepadaku dan tidak tidak segan kepada Rasulullah shallallahu 'alaihi wasallam?". Para wanita itu menjawab; "Ya, karena kamu lebih galak dan keras hati dibanding Rasulullah shallallahu 'alaihi wasallam". Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada di tangan-Nya, tidak ada satu setanpun yang berjumpa denganmu pada suatu lorong melainkan dia akan mencari lorong lain selain lorong yang kamu lalui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3683</td></tr><tr><td>Arabic No</td><td>3683</td></tr><tr><td>Reference</td><td>Book 62 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д ибн Аби Ваккас сказал: «Однажды ‘Умар ибн аль-Хаттаб попросил разрешения войти к Посланнику Аллаха ﷺ. В это время у него сидели женщины-курайшитки, которые громко разговаривали с ним, перекрикивая его голос и просили его дать им больше того, что он уже дал. Когда ‘Умар ибн аль-Хаттаб попросил разрешения войти к Посланнику Аллаха ﷺ, женщины встали и поспешили спрятаться за занавеской, а Посланник Аллаха ﷺ позволил ему войти. Заметив, что Посланник Аллаха ﷺ улыбается, ‘Умар сказал: “Да продлит Аллах радость твою, о Посланник Аллаха!” Посланник Аллаха ﷺ сказал: “Я дивлюсь женщинам, которые сидели у меня: услышав твой голос, они поспешили спрятаться за занавеской”. ‘Умар сказал: “О Посланник Аллаха, ты более достоин того, чтобы тебя боялись”. Потом ‘Умар сказал: “О враги самих себя, неужели вы боитесь меня и не боитесь Посланника Аллаха ﷺ?!” Женщины сказали: “Да, потому что ты грубее и суровее Посланника Аллаха ﷺ!” После этого Посланник Аллаха ﷺ сказал: “О Ибн аль-Хаттаб, клянусь Тем, в Чьей руке душа моя, встретив тебя на дороге, шайтан всегда переходит на другую дорогу и идёт по ней!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3683</td></tr><tr><td>Arabic No</td><td>3683</td></tr><tr><td>Reference</td><td>Book 62 Hadith 33</td></tr></tbody></table></div>
 

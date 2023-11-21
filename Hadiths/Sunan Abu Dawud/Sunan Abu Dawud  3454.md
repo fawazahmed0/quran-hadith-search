@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abdullah bin 'Umar:The Messenger of Allah (ﷺ) as saying: Each one of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dua orang yang saling berjual beli, keduanya memiliki hak memilih terhadap sahabatnya selama mereka belum berpisah. Kecuali jual beli dengan syarat memiliki hak memilih." Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dengan maknanya, ia berkata; atau salah seorang diantara mereka berdua berkata kepada sahabatnya; pilihlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2111) Sahih Muslim (1531)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3454</td></tr><tr><td>Arabic No</td><td>3454</td></tr><tr><td>Reference</td><td>Book 24 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Заключающие сделку купли-продажи имеют право выбора, пока не расстанутся, кроме продажи с условием выбора»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2111) Sahih Muslim (1531)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3454</td></tr><tr><td>Arabic No</td><td>3454</td></tr><tr><td>Reference</td><td>Book 24 Hadith 39</td></tr></tbody></table></div>
 

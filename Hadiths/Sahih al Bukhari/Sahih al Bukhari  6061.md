@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:A man was mentioned before the Prophet (ﷺ) and another man 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Khalid] dari [Abdurrahman bin Abu Bakrah] dari [Ayahnya] bahwa seorang laki-laki disebut-sebut disamping Nabi shallallahu 'alaihi wasallam, lalu laki-laki lain memuji kebaikan laki-laki tersebut, lalu Nabi shallallahu 'alaihi wasallam bersabda: "Celaka kamu, kamu telah memenggal leher saudaramu." -Beliau mengatakannya hingga berkali-kali- bila salah seorang dari kalian memuji temannya -tidak mustahil- hendaklah mengucapkan: 'Aku kira fulan seperti ini dan ini, walaupun jika diperlihatkan ia memang seperti itu, dan Allah lah yang akan menilainya, supaya ia tidak menyucikan seorang pun atas Allah." [Wuhaib] mengatakan dari [Khalid]; "Wailaka (celaka kamu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6061</td></tr><tr><td>Arabic No</td><td>6061</td></tr><tr><td>Reference</td><td>Book 78 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Бакры (Нуфай‘а ибн Каляды), да будет доволен им Аллах, что, когда об одном человеке упомянули в присутствии Пророка ﷺ, а другой принялся хвалить его, Пророк ﷺ несколько раз повторил: «Горе тебе, ты перерезал горло своему товарищу!» — (после чего сказал): «Если кому-нибудь из вас придётся восхвалять (своего товарища), пусть скажет: “Я считаю (такого-то) таким-то и таким-то”, если он действительно думает, что он таков. Лишь Аллах сочтёт его (достоинства), и никто не должен никого обелять пред Аллахом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6061</td></tr><tr><td>Arabic No</td><td>6061</td></tr><tr><td>Reference</td><td>Book 78 Hadith 91</td></tr></tbody></table></div>
 

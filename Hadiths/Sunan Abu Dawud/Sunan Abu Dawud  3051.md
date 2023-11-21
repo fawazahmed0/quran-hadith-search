@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A man of Juhaynah: The Prophet (ﷺ) said: Probably you will fight with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Sa'id bin Manshur], mereka berkata; telah menceritakan kepada kami [Abu 'Awanah] dari [Manshur] dari [Hilal] dari [seorang laki-laki dari Tsaqif] dari [seseorang dari Juhainah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Kemungkinan kalian akan memerangi sebuah kaum, dan mengalahkan mereka, kemudian mereka melindungi diri mereka dari kalian dengan harta mereka bukan dengan jiwa mereka dan anak-anak mereka." -Sa'id berkata dalam haditsnya; kemudian mereka berdamai dengan kalian-. Kemudian keduanya sama lafazh mereka; maka janganlah kalian mengambil sesuatupun di atas hal tersebut karena sesungguhnya hal tersebut tidak layak bagi kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3051</td></tr><tr><td>Arabic No</td><td>3051</td></tr><tr><td>Reference</td><td>Book 20 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хиляль передаёт со слов одного сакыфита от одного джухайнита, что Посланник Аллаха ﷺ сказал: «Возможно, вы будете сражаться с людьми и одолеете их, и они захотят откупиться от вас своим имуществом, желая сохранить свои жизни и своих детей». Са‘ид добавлял: «И заключат с вами мир». Далее он сказал: «Не берите ничего сверх этого, ибо это не дозволено вам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3051</td></tr><tr><td>Arabic No</td><td>3051</td></tr><tr><td>Reference</td><td>Book 20 Hadith 124</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:Allah's Messenger (ﷺ) said, "There will be none among 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Hujr] telah memberitakan kepada kami ['Isa bin Yunus] dari [Al A'masy] dari [Khaitsamah] dari ['Adi bin Hatim] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah salah seorang di antara kalian melainkan akan diajak bicara oleh tuhannya dengan tanpa juru penerjemah, saat ia melihat sebelah kanannya maka ia tidak melihat selain amalnya yang pernah dilakukan, saat ia melihat sebelah kirinya maka ia tidak melihat kecuali apa yang telah ia lakukan sebelumnya, dan saat ia lihat depannya maka melihat selain neraka di depan mukanya. Maka jagalah kalian dari neraka walau hanya dengan separoh biji kurma." [Al A'masy] mengatakan, "Dan telah menceritakan kepadaku ['Amru bin Murrah] dari [Khaitsamah] semisalnya, dan ia tambahi dengan redaksi, 'Walaupun hanya dengan kata-kata yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7512</td></tr><tr><td>Arabic No</td><td>7512</td></tr><tr><td>Reference</td><td>Book 97 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Ади ибн Хатим, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Нет ни одного из вас, с кем не заговорит Всевышний Аллах, и между ним и Аллахом не будет посредника. А (потом человек) посмотрит направо и не увидит ничего, кроме своих прежних дел, и посмотрит он налево и не увидит ничего, кроме своих прежних дел, и посмотрит он прямо и не увидит перед лицом своим ничего, кроме Огня, так защитите же себя от огня хотя бы с помощью половинки финика!»\nА‘маш сказал: Мне рассказал ‘Амр ибн Мурра от Хайсама подобный хадис, и добавил в нём: «…хотя бы с помощью доброго слова!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7512</td></tr><tr><td>Arabic No</td><td>7512</td></tr><tr><td>Reference</td><td>Book 97 Hadith 137</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ See translation for hadith 484 above
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>488</td></tr><tr><td>Arabic No</td><td>488</td></tr><tr><td>Reference</td><td>Book 8 Hadith 135</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И ‘Абдуллах ибн ‘Умар рассказывал также, что Пророк ﷺ молился на краю маленького сухого вади на возвышенности за селением ‘Ардж, если идти оттуда в сторону небольшой горы. Возле построенной там впоследствии мечети есть две или три могилы, на которых лежат большие камни, и могилы эти находятся справа от дороги среди растущих там деревьев. ‘Абдуллах покидал ‘Ардж сразу после полудня, когда солнце начинало клониться к закату, и совершал полуденную молитву в этой мечети
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>488</td></tr><tr><td>Arabic No</td><td>488</td></tr><tr><td>Reference</td><td>Book 8 Hadith 135</td></tr></tbody></table></div>
 

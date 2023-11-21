@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Juraij:I heard Nazi' saying, "Ibn 'Umar, said, 'The Prophet (ﷺ) f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] -yaitu Ibnu Salam- berkata, telah mengabarkan kepada kami [Makhlad bin Yazid] berkata, telah mengabarkan kepada kami [Ibnu Juraij] berkata, Aku mendengar [Nafi'] berkata, Aku mendengar [Ibnu 'Umar] berkata, "Nabi shallallahu 'alaihi wasallam melarang seseorang meminta kawannya berdiri dari tempat duduknya lalu dia menempati tempat duduk tersebut." Aku bertanya kepada Nafi', "Apakah ini berlaku pada saat shalat Jum'at?" Dia menjawab, "Untuk shalat Jum'at dan yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 11 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что однажды Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ запрещал человеку (,вошедшему в мечеть,) поднимать своего брата с его места и самому занимать его». Его спросили: «(Имелась в виду) пятничный намаз?» Он ответил: «И пятничный, и любой другой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 11 Hadith 35</td></tr></tbody></table></div>
 

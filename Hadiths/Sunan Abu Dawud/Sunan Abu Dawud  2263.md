@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: AbuHurayrah heard the Messenger of Allah (ﷺ) say when th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku ['Amr bin Al Harits] dari [Ibnu Al Had] dari [Abdullah bin Yunus] dari [Sa'id Al Maburi] dari [Abu Hurairah] bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam ketika telah turun ayat mengenai li'an beliau bersabda: "Bagi setiap wanita yang memasukkan kepada kaumnya seseorang yang bukan berasal dari mereka, maka ia bukan termasuk golongan Allah sama sekali, dan tidak akan Allah masukkan ke dalam Surga. Dan bagi setiap laki-laki yang mengingkari anaknya sementara ia mengetahui bahwa anak tersebut benar-benar anaknya, maka Allah menutup diri darinya, dan Allah akan mempermalukan dirinya di hadapan orang-orang terdahulu dan yang terakhir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2263</td></tr><tr><td>Arabic No</td><td>2263</td></tr><tr><td>Reference</td><td>Book 13 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что он слышал, как после ниспослания аятов о ли‘ане Посланник Аллаха ﷺ сказал: «Любая женщина, которая ввела в среду каких-то людей того, кто к ним не относится, ничто пред Аллахом, и Он не введёт её в Свой Рай, и любой мужчина, который отказывается от своего ребёнка, глядя на него, будет отделён от Всевышнего Аллаха завесой, и Аллах опозорит его в присутствии первых и последних!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2263</td></tr><tr><td>Arabic No</td><td>2263</td></tr><tr><td>Reference</td><td>Book 13 Hadith 89</td></tr></tbody></table></div>
 

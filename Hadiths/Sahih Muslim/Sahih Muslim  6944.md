@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar reported that Allah's Messenger (ﷺ) supplicated in these word
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin 'Abdul Karim Abu Zur'ah] telah menceritakan kepada kami [Ibnu Bukair] telah menceritakan kepadaku [Ya'qub bin 'Abdurrahman] dari [Musa bin 'Uqbah] dari ['Abdullah bin Dinar] dari ['Abdullah bin 'Umar] dia berkata; "Diantara doa Rasulullah shallallahu 'alaihi wasallam adalah: 'ALLOOHUMMA INNII A'UUDZU BIKA MIN ZAWAALI NI'MATIKA, WATAHAWWULI 'AAFIYATIKA, WAFAJAA'ATI NIQMATIKA, WAJAMII'I SAKHOTHIKA "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari hilangnya kenikmatan yang telah Engkau berikan, dari lepasnya kesehatan yang telah Engkau anugerahkan, dari siksa-Mu yang datang secara tiba-tiba, dan dari segala kemurkaan-Mu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6944</td></tr><tr><td>Arabic No</td><td>2739</td></tr><tr><td>Reference</td><td>Book 49 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6944</td></tr><tr><td>Arabic No</td><td>2739</td></tr><tr><td>Reference</td><td>Book 49 Hadith 8</td></tr></tbody></table></div>
 

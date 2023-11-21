@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah he pleased with him) reported Allah's Messenger (may, peace b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah]. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Abu Sa'id Al Asyaj] telah menceritakan kepada kami [Waki']. Dan diriwayatkan dari jalur lain, telah menceritakan kepadaku [Zauhair bin Harb] dan lafazhnya dari dia, telah menceritakan kepada kami [Jarir] semuanya dari [Al A'masy] dari [Abu Hazim] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika seorang suami mengajak istrinya untuk berhubungan, akan tetapi ia (istri) tidak memenuhi ajakan suami, hingga malam itu suaminya marah, maka ia (istri) mendapatkan laknat para Malaikat sampai subuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3541</td></tr><tr><td>Arabic No</td><td>1436.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Абу Хурайра (да будет доволен им Аллах), сказал: «Посланник Аллаха ﷺ сказал: “Если мужчина позовёт свою жену на своё ложе, а она не придёт к нему, и он заснёт, гневаясь на неё, ангелы будут проклинать её до самого утра”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3541</td></tr><tr><td>Arabic No</td><td>1436.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 143</td></tr></tbody></table></div>
 

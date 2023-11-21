@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isa bin Yunus] berkata, telah menceritakan kepada kami [Hisyam Ibnul Ghaz] dari [Amru bin Syu'aib] dari [bapaknya] dari [Kakeknya] ia berkata, "Kami bersama Rasulullah shallallahu 'alaihi wasallam turun dari lembah Tsaniah, lalu beliau melihatku mengenakan kain tipis yang dicelup dengan warna kuning. Maka beliau bersabda: "Kenapa kain tipis ini ada padamu!" aku paham bahwa beliau tidak menyukainya, maka aku kembali menemui keluargaku yang sedang menyalakan tungku, sehingga kain itu aku masukkan ke dalamnya. Kesokan harinya aku datang menemui Nabi, beliau bertanya: "Wahai Abdullah, apa yang engkau lakukan dengan kain tipis milikmu itu?" aku lalu mengabarkan hal yang telah aku lakukan kepada beliau. Beliau pun bersabda: "Kenapa tidak engkau berikan ke salah satu isterimu, karena itu tidak apa-apa untuk mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4066</td></tr><tr><td>Arabic No</td><td>4066</td></tr><tr><td>Reference</td><td>Book 34 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда: «Мы спускались вместе с посланником Аллаха ﷺ по горной дороге. Он повернулся ко мне, а на мне была одежда, слабо окрашенная шафраном, и он спросил: “Что это за одежда на тебе?” И я понял, что ему не понравилось. Я пришёл к своим домочадцам, а они как раз разожгли огонь в очаге, и я бросил эту одежду в огонь. На следующий день я пришёл (к Посланнику Аллаха ﷺ), и он сказал мне: “О ‘Абдуллах, что случилось с той одеждой?” Я рассказал ему, и он сказал: “Почему же ты не отдал её кому-то из своих женщин? Ведь женщинам такую одежду носить можно”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4066</td></tr><tr><td>Arabic No</td><td>4066</td></tr><tr><td>Reference</td><td>Book 34 Hadith 47</td></tr></tbody></table></div>
 

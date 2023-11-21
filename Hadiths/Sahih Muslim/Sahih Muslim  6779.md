@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Imran reported that Jundub told us as we we-re young boys living in Kilfa, t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] telah mengabarkan kepada kami ['Abdush Shamad] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Abu 'Imran Al Jauni] dari [Jundab bin 'Abdullah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: Bacalah Al Qur'an, selama perhatian hatimu terpusat padanya. Apabila kalian bimbang, maka berhentilah." Telah menceritakan kepadaku [Ahmad bin Sa'id bin Shakhr Ad Darimi] Telah menceritakan kepada kami [Habban] Telah menceritakan kepada kami [Aban] Telah menceritakan kepada kami [Abu 'Imran] dia berkata; Ketika kami masih kecil [Jundub] berkata kepada kami di Kufah, Rasulullah shallallahu 'alaihi wasallam bersabda: "Bacalah al Qur'an..-sebagaimana Hadits keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6779</td></tr><tr><td>Arabic No</td><td>2667.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6779</td></tr><tr><td>Arabic No</td><td>2667.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 5</td></tr></tbody></table></div>
 

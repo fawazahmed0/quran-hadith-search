@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (raa) l'Envoyé de Dieu (paix et bénédiction de Dieu sur lui)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami ['Abdah bin Sulaiman] dari [Hisyam] dari [bapaknya] dari [Aisyah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam mengaduh, lalu sejumlah manusia dari sahabatnya mengunjunginya untuk menjenguknya, lalu Rasulullah shallallahu 'alaihi wasallam shalat dalam keadaan duduk, lalu mereka shalat dengan mengikuti shalatnya dalam keadaan berdiri, lalu beliau memberikan isyarat kepada mereka agar duduk, maka mereka duduk. Ketika (shalat selesai) beliau berpaling seraya berkata, " Imam dijadikan untuk mengimami, apabila dia rukuk, maka rukuklah kalian, dan apabila dia mengangkat maka kalian mengangkatlah, apabila dia shalat dengan cara duduk, maka shalatlah kalian dengan cara duduk. Telah menceritakan kepada kami [Abu ar-Rabi' az-Zahrani] telah menceritakan kepada kami [Hammad yaitu Ibnu Zaid] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Ibnu Numair] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ibnu Numair] dia berkata, telah menceritakan kepada kami [bapakku] semuanya meriwayatkan dari [Hisyam bin Urwah] dengan isnad ini hadits semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>926</td></tr><tr><td>Arabic No</td><td>412.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «Однажды некоторые сподвижники Посланника Аллаха ﷺ пришли навестить его, когда он страдал от боли. Посланник Аллаха ﷺ начал совершать молитву сидя, в то время как люди, (находившиеся позади него,) молились стоя. Он сделал им знак (рукой), чтобы они сели, и они сели. Закончив (молитву), он сказал: “Имам назначается для того, чтобы (во время молитвы) другие следовали за ним, и если он совершит поясной поклон, то поклонитесь и вы, если он поднимет (голову), поднимайте и вы, а если он молится сидя, то молитесь сидя и вы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>926</td></tr><tr><td>Arabic No</td><td>412.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 88</td></tr></tbody></table></div>
 

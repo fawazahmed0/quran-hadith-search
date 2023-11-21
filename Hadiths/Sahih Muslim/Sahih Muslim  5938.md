@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Wathila b. al-Asqa' reported:I heard Allah's Messenger (ﷺ) as saying: Verily A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran Ar Raazi] dan [Muhammad bin Abdurrahman bin Saham] seluruhnya dari [Al Walid]. [Ibnu Mihran] berkata; Telah menceritakan kepada kami [Al Walid bin Muslim] Telah menceritakan kepada kami [Al Auza'i] dari [Abu Ammar Saddad] bahwa dia mendengar [Watsilah bin Asqa'] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah telah memilih Kinanah dari anak Ismail, memilih Quraisy dari Kinanah, memilih Bani Hasyim dari Quraisy, dan memilihku dari Bani Hasyim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5938</td></tr><tr><td>Arabic No</td><td>2276</td></tr><tr><td>Reference</td><td>Book 43 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу ‘Умара Шаддада о том, что он слышал, как Василя ибн аль-Аскъа‘ говорил: «Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, Аллах избрал род Кинана из числа сынов Исма‘иля, затем из рода Кинана избрал курейшитов, из числа курейшитов избрал род Хашима, а из рода Хашима – меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5938</td></tr><tr><td>Arabic No</td><td>2276</td></tr><tr><td>Reference</td><td>Book 43 Hadith 1</td></tr></tbody></table></div>
 

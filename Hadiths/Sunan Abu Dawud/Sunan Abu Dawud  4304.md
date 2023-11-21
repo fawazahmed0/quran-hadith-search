@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu hurairah reported the Prophet (ﷺ) as saying:The last hour will not come be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] dan [Ibnu As Sarh] dan selain keduanya, mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id Ibnul Musayyab] dari [Abu Hurairah] secara riwayat. Ibnu Suraih berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Tidak akan terjadi hari kiamat hingga kalian memerangi kaum yang mengenakan sandal dari rambut, dan tidak akan terjadai hari kiamat hingga kalian memerangi suatu kaum yang matanya sipit, hidung pesek dan wajah mereka seperti tameng untuk perang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2929) Sahih Muslim (2912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4304</td></tr><tr><td>Arabic No</td><td>4304</td></tr><tr><td>Reference</td><td>Book 39 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не настанет Час этот, пока вы не сразитесь с людьми в волосяных сандалиях, и не настанет Час этот, пока вы не сразитесь с людьми с маленькими глазами и плоскими носами. Лица их будут подобны кожаным щитам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2929) Sahih Muslim (2912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4304</td></tr><tr><td>Arabic No</td><td>4304</td></tr><tr><td>Reference</td><td>Book 39 Hadith 14</td></tr></tbody></table></div>
 

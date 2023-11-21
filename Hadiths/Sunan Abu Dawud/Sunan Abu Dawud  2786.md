@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Dhul-Jawshan: A man of ad-Dabab, said: When the Prophet (ﷺ) became fr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Isa bin Yunus], telah mengabarkan kepadaku [ayahku] dari [Abu Ishaq] dari [Dzul Jausyan] seorang laki-laki dari daerah yang banyak terdapat biawaknya. Aku datang kepada Nabi shallallahu 'alaihi wasallam dengan membawa anak kuda yang bernama Al Qarha' setelah beliau selesai menemui ahli Badr, kemudian aku katakan; wahai Muhammad, aku datang kepadamu dengan membawa anak Al Qarha' agar engkau gunakan. Beliau berkata: "Aku tidak butuh kepadanya, apabila engkau mau, aku akan menggantimu dengan baju zirah pilihan dari Badr maka aku akan melakukannya." Aku katakan; aku tidak akan menukarnya dengan kuda pada hari ini (bagaimana aku menukarnya dengan sesuatu yang lebih rendah nilainya?). Beliau berkata: "Aku tidak butuh kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2786</td></tr><tr><td>Arabic No</td><td>2786</td></tr><tr><td>Reference</td><td>Book 15 Hadith 310</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2786</td></tr><tr><td>Arabic No</td><td>2786</td></tr><tr><td>Reference</td><td>Book 15 Hadith 310</td></tr></tbody></table></div>
 

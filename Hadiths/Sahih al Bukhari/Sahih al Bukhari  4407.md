@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tariq bin Shibab:Some Jews said, "Had this Verse been revealed to us, w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4407</td></tr><tr><td>Arabic No</td><td>4407</td></tr><tr><td>Reference</td><td>Book 64 Hadith 429</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Тарика ибн Шихаба, что однажды люди, из числа иудеев сказали ’Умару ибн аль-Хаттабу: «Если бы нам был ниспослан этот аят, то мы бы сделали этот день праздником». (‘Умар) спросил: «И какой же это аят?» Они ответили: «Сегодня Я довёл до совершенства для вас вашу религию, и довёл до конца Свою милость вам, и одобрил для вас Ислам в качестве религии (сура “аль-Маида”, аят 3)». ’Умар сказал: «Поистине, я знаю, в каком месте он был ниспослан. Он был ниспослан, когда Посланник Аллаха ﷺ находился на Арафате»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4407</td></tr><tr><td>Arabic No</td><td>4407</td></tr><tr><td>Reference</td><td>Book 64 Hadith 429</td></tr></tbody></table></div>
 

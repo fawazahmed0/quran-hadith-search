@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amr b. al-'As reported Allah's Messenger (ﷺ) as saying:The difference between 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Musa bin Ulay] dari [bapaknya] dari [Abu Qais] Maula Amru bin Ash, dari [Amru bin Ash] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Perbedaan antara puasa kita dengan puasanya Ahli Kitab adalah makan sahur." Dan telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] semuanya dari [Waki'] -dalam jalur lain- Dan telah menceritakannya kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] keduanya dari [Musa bin Ulayy] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2550</td></tr><tr><td>Arabic No</td><td>1096.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2550</td></tr><tr><td>Arabic No</td><td>1096.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 56</td></tr></tbody></table></div>
 

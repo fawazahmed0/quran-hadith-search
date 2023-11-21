@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya al-Ansariya:Allah's Messenger (ﷺ) came to us when his daug
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah menceritakan kepada saya [Malik] dari [Ayyub As-Sakhtiyaniy] dari [Muhammad bin Sirin] dari [Ummu 'Athiyyah seorang wanita Anshar radliallahu 'anha] berkata: Rasulullah shallallahu 'alaihi wasallam menemui kami saat kematian puteri kami, lalu bersabda: "Mandikanlah dengan mengguyurkan air yang dicampur dengan daun bidara tiga kali, lima kali atau lebih dari itu jika kalian anggap perlu dan jadikanlah yang terakhirnya dengan kafur barus (wewangian) atau yang sejenis. Dan bila kalian telah selesai beritahu aku". Ketika kami telah selesai kami memberi tahu Beliau. Maka kemudian Beliau memberikan kain Beliau kepada kami seraya berkata: "Pakaikanlah ini kepadanya". Maksudnya pakaian Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>1253</td></tr><tr><td>Reference</td><td>Book 23 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыйя аль-Ансария, да будет доволен ею Аллах, сказала: «Когда умерла дочь Посланника Аллаха ﷺ он зашёл к нам и сказал: “Обмойте её трижды, или пять раз, или более того, если посчитаете нужным, отваром сидра, а в последний раз используйте камфару [или: немного камфары] и дайте мне знать, когда закончите”. Закончив обмывать её тело, мы сообщили ему об этом, а он дал нам свой изар и сказал: “Заверните её в это”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>1253</td></tr><tr><td>Reference</td><td>Book 23 Hadith 15</td></tr></tbody></table></div>
 

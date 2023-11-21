@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) I said, "Allah does not listen to a proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Allah tidak mengizinkan pada sesuatu pun, sebagaimana Allah mengizinkan kepada Nabi untuk melagukan Al Qur'an." Sufyan berkata, "Tafsirnya adalah, bahwa ia melagu-lagu dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5024</td></tr><tr><td>Arabic No</td><td>5024</td></tr><tr><td>Reference</td><td>Book 66 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что он слышал, как Пророк ﷺ говорил: «Аллах ничему не внимает так, как внимает Он (обладающему красивым голосом) пророку, который вслух читает Коран нараспев».\nСуфьян сказал: «”йатаганна” значит считает его достаточным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5024</td></tr><tr><td>Arabic No</td><td>5024</td></tr><tr><td>Reference</td><td>Book 66 Hadith 46</td></tr></tbody></table></div>
 

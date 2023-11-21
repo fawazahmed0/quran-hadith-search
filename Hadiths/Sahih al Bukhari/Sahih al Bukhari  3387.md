@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "May Allah bestow His Mercy o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad bin Asma', dia adalah anak dari saudaranya Juwairiyah] telah bercerita kepada kami [Juwairiyah bin Asma'] dari [Malik] dari [Az Zuhriy] bahwa [Sa'id bin Al Musayyab] dan [Abu 'Ubaid] keduanya mengabarkan dari [Abu Hurairah radliallahu 'anhu] yang berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah merahmati Nabi Luth 'Alaihissalam yang telah berlindung kepada keluarga yang kuat. Dan seandainya aku dipenjara dan mendekam didalamnya dalam masa tertentu sebagaimana Nabi Yusuf 'Alaihissalam mengalaminya lalu datang orang yang menyeru tentu aku sudah bersegera memenuhi permintaan (orang yang menyeruku itu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3387</td></tr><tr><td>Arabic No</td><td>3387</td></tr><tr><td>Reference</td><td>Book 60 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Да помилует Аллах Лута: поистине, он опирался на прочную основу! А если бы я провёл в темнице столько же времени, сколько и Йусуф, а затем ко мне пришёл бы тот, кто предложил (выйти из тюрьмы), то я ответил бы на его призыв»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3387</td></tr><tr><td>Arabic No</td><td>3387</td></tr><tr><td>Reference</td><td>Book 60 Hadith 61</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mu'adh bin Mu'adh said:Abu 'Uthman al-Shami, whose name is Hariz bin 'Uthman, to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Abdah Adl Dalbbi] telah mengabarkan kepada kami [Mu'adz bin Mu'adz] ia berkata, "Abu Utsman Asy Syami mengabarkan kepadaku, dan aku tidak pernah melihat orang yang Syam yang lebih baik darinya, yaitu Huraiz bin Utsman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3587</td></tr><tr><td>Arabic No</td><td>3587</td></tr><tr><td>Reference</td><td>Book 25 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Му‘аза ибн Му‘аза: «Мне передал Абу ‘Усман аш-Шами, а мне никогда не приходилось видеть жителя Шама лучше него». Он имел в виду Хариза ибн ‘Усмана
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3587</td></tr><tr><td>Arabic No</td><td>3587</td></tr><tr><td>Reference</td><td>Book 25 Hadith 17</td></tr></tbody></table></div>
 

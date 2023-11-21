@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Yahya b. Ya'mur and Humaid b. 'Abdur-Rahman t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>95</td></tr><tr><td>Arabic No</td><td>8.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Яхйа ибн Я‘мар и Хумайд ибн ‘Абдуррахман сказали: «Мы встретили ‘Абдуллу ибн ‘Умара и упомянули о предопределении и о том, что говорят по этому поводу». И был рассказан хадис, похожий на тот, что они рассказали от ‘Умара, да будет доволен им Аллах, а тот от Пророка ﷺ. В этом хадисе кое-что добавлено, и есть кое-что, что он урезал
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>95</td></tr><tr><td>Arabic No</td><td>8.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 3</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Khalid:We went out with Allah's Messenger (ﷺ) in the year of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khalid bin Makhlad] telah menceritakan kepada kami [Sulaiman bin Bilal] berkata; telah menceritakan kepadaku [Shalih bin Kaisan] dari ['Ubaidullah bin Abdullah] dari [Zaid bin Khalid radliallahu 'anhu] ia berkata; "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam saat perang Hudaibiyyah, suatu malam hujan turun. Setelah Rasulullah shallallahu 'alaihi wasallam memimpin kami shalat Shubuh, beliau menghadapkan wajahnya kepada orang-orang seraya bersabda: "Tahukah kalian apa yang sudah difirmankan oleh Rabb kalian?". Para sahabat menjawab; "Allah dan Rasul-Nya yang lebih mengetahui." Beliau bersabda: "Allah berfirman: "Di pagi ini ada hamba-hambaKu yang mukmin kepadaKu dan ada pula yang kafir kepadaKu. Orang yang berkata; "Hujan turun karena karunia Allah dan rahmatNya, berarti dia telah beriman kepada-Ku dan kafir kepada bintang-bintang, sedangkan orang yang berkata; "Hujan turun disebabkan bintang ini atau itu, maka dia telah beriman kepada bintang-bintang dan kafir kepadaKu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4147</td></tr><tr><td>Arabic No</td><td>4147</td></tr><tr><td>Reference</td><td>Book 64 Hadith 191</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Халид, да будет доволен им Аллах, сказал: «Когда в год Худайбиййи мы отправились вместе с Посланником Аллаха ﷺ ночью, нас настиг дождь. Завершив утреннюю молитву, Посланник Аллаха ﷺ повернулся к нам и спросил: “Знаете ли вы, что сказал Господь ваш?” Мы ответили: “Аллах и посланник Его знают (об этом) лучше”. (Пророк ﷺ) сказал: (Аллах) сказал: “Это утро кто-то из Моих рабов встретил верующим в Меня, а кто-то неверным. Что касается сказавшего: “Нам был послан дождь по милости Аллаха, Его щедрости и милосердию”, то он верует в Меня и не верует в планеты, что же касается сказавшего: “Нам был послан дождь благодаря такой-то звезде”, то он не верует в Меня и верит в планеты”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4147</td></tr><tr><td>Arabic No</td><td>4147</td></tr><tr><td>Reference</td><td>Book 64 Hadith 191</td></tr></tbody></table></div>
 

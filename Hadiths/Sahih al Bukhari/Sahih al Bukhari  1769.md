@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Whenver Ibn 'Umar (ra) approached (Makkah) he used to pass the ni
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1769</td></tr><tr><td>Arabic No</td><td>1769</td></tr><tr><td>Reference</td><td>Book 25 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, когда Ибн ‘Умар, да будет доволен Аллах ими обоими, направлялся (в Мекку), он обычно останавливался на ночлег в (долине) Зу Тува, а наутро вступал (в город), когда же он покидал (Мекку, возвращаясь в Медину), то (снова) проезжал через Зу Тува, где проводил ночь, и он часто упоминал о том, что так же поступал и Пророк ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1769</td></tr><tr><td>Arabic No</td><td>1769</td></tr><tr><td>Reference</td><td>Book 25 Hadith 245</td></tr></tbody></table></div>
 

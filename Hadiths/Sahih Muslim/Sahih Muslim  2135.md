@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ousâma Ibn Zayd (رضي الله عنهما) a dit : Nous étions chez le Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kamil Al Jahdari] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ashim Al Ahwali] dari [Abu Utsman An Nahdi] dari [Usamah bin Zaid] ia berkata; Pada suatu hari ketika kami sedang berada di dekat Nabi shallallahu 'alaihi wasallam, tiba-tiba datang seorang suruhan dari puteri Nabi shallallahu 'alaihi wasallam (Zainab binti Muhammad), meminta agar Nabi shallallahu 'alaihi wasallam datang dan mengabarkan kepada beliau bahwa anak puteranya (cucu Nabi shallallahu 'alaihi wasallam) telah meninggal. Rasulullah shallallahu 'alaihi wasallam pun berpesan pada suruhan itu: "Pulang dan sampaikanlah kepada Zainab, bahwa kepunyaan Allah jualah yang telah diambil dan kepunyaan-Nya pula yang telah diberikan. Segala sesuatu telah Allah tentukan ajalnya. Karena itu, suruhlah ia bersabar dan menahan diri." Tidak lama kemudian, pesuruh itu datang kembali dan berkata, "Zainab sangat mengharapkan, sekiranya Rasulullah shallallahu 'alaihi wasallam sudi menjenguknya." Maka berangkatlah beliau bersama para sahabatnya antara lain, Sa'ad bin Ubadah, Mu'adz bin Jabar dan aku sendiri. Sesampainya di sana, diserahkanlah anak yang telah meninggal itu pada beliau, tiba-tiba nafas beliau terengah-engah seperti sedang kepayahan dan air matanya pun menetes. Lalu Sa'ad pun bertanya, "Ada apa wahai Rasulullah?" beliau menjawab: "Ini adalah rahmah (kasih sayang) yang telah dijadikan Allah dalam hati para hamba-Nya. Sesungguhnya hamba Allah yang dirahmati oleh-Nya hanyalah orang yang memiliki kasih sayang." Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Ibnu Fudlail] -dalam jalur lain- Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] semuanya dari [Ashim Al Ahwal] dengan isnad ini, hanya saja hadits Hammad lebih lengkap dan panjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2135</td></tr><tr><td>Arabic No</td><td>923.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама ибн Зейд сказал: «(Однажды,) когда мы находились у Пророка ﷺ одна из его дочерей послала к нему (человека, чтобы пригласить его к себе, так как) её сын находился при смерти. Однако Пророк ﷺ сказал этому человеку: “Возвращайся и скажи ей, что Аллаху принадлежит то, что Он забрал, и то, что Он даровал, и для всего определил Он свой срок, так вели ей проявлять терпение и надеяться на награду Аллаха”. Однако (через некоторое время) она снова послала за ним, сказав, что заклинает его непременно прийти к ней, и тогда Пророк ﷺ встал, и вместе с ним встали Са‘д ибн ‘Убада и Му‘аз ибн Джабаль, и я отправился вместе с ними. (В доме дочери Посланнику Аллаха ﷺ) передали мальчика, который уже начал хрипеть, и тогда глаза (Пророка ﷺ) наполнились слезами. (Увидев это,) Са‘д спросил: “О Посланник Аллаха, что это?” Он ответил: “Это милосердие, вложенное Аллахом в сердца Его рабов, и Аллах помилует только милосердных из числа рабов Своих”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2135</td></tr><tr><td>Arabic No</td><td>923.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 13</td></tr></tbody></table></div>
 

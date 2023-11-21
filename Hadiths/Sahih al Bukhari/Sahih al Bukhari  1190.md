@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "One prayer in my Mosque is b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Zaid bin Rabah] dan ['Ubaidillah bin Abu 'Abdullah Al Ghorri] dari [Abu 'Abdullah Al Ghorri] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Shalat di masjidku ini nilainya seribu kali lebih baik dibandingkan pada masjid lain kecuali pada Al Masjidil Haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1190</td></tr><tr><td>Arabic No</td><td>1190</td></tr><tr><td>Reference</td><td>Book 20 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Один) намаз в этой моей мечети лучше тысячи намазов в любой иной, не считая Мечети Заповедной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1190</td></tr><tr><td>Arabic No</td><td>1190</td></tr><tr><td>Reference</td><td>Book 20 Hadith 3</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah al-Ansari (Allah be pleased with him) said:Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdurrahman bin Bisyr Al 'Abdi] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Ibnu Syihab] mengenai 'Umra dan hukumnya, dari hadits [Abu Salamah bin Abdurrahman] bahwa [Jabir bin Abdullah Al Anshari] telah mengabarkan, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa saja yang memberi 'Umra kepada orang lain, maka harta tersebut telah menjadi hak miliknya dan juga keturunannya dengan mengatakan, 'Pemberian ini telah saya berikan kepadamu dan untuk keturunanmu selama kalian masih hidup'. Sungguh dia telah memberikan harta tersebut dan tidak akan bisa kembali kepada si pemberi, sebab dia telah memberi suatu pemberian yang langsung terkait dengan hukum waris
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4190</td></tr><tr><td>Arabic No</td><td>1625.03</td></tr><tr><td>Reference</td><td>Book 24 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4190</td></tr><tr><td>Arabic No</td><td>1625.03</td></tr><tr><td>Reference</td><td>Book 24 Hadith 28</td></tr></tbody></table></div>
 

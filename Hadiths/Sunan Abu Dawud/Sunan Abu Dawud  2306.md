@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah mengabarkan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab], telah menceritakan kepadaku ['Ubaidullah bin Abdullah bin 'Utbah] bahwa [ayahnya] menulis surat kepada [Umar bin Abdullah bin Al Arqam Az Zuhri] memerintahkan kepadanya agar menemui [Subai'ah binti Al Harits Al Aslamiyyah], kemudian bertanya kepadanya mengenai haditsnya, dan mengenai apa yang dikatakan Rasulullah shallallahu 'alaihi wasallam kepadanya ketika ia meminta fatwa kepada beliau. Kemudian Umar bin Al Khathab bin Abdullah menulis surat kepada Abdullah bin 'Utbah mengabarkan kepadanya bahwa Subai'ah telah mengabarkan kepadanya bahwa ia dahulu adalah isteri Sa'd bin Haulah sementara ia termasuk diantara Bani 'Amir bin Luai, dan ia termasuk diantara orang-orang yang menghadiri perang Badr. Kemudian ia meninggal pada Haji Wada' sementara Subai'ah sedang hamil, dan tidak lama kemudian ia melahirkan kandungannya setelah kematian suaminya. Kemudian tatkala ia telah selesai dari nifasnya maka ia berhias diri untuk orang-orang yang akan meminang. Kemudian Abu As Sanabil bin Ba'kak yang merupakan seorang laki-laki dari Bani Abdu Ad Dar menemuinya dan berkata; ada apa aku melihatmu berhias diri? Kemungkinan engkau ingin menikah. Demi Allah engkau tidak boleh menikah hingga berlalu empat bulan sepuluh hari. Subai'ah berkata; kemudian tatkala ia mengatakan hal tersebut kepadaku maka aku kumpulkan pakaianku pada sore hari kemudian aku mendatangi Rasulullah shallallahu 'alaihi wasallam dan bertanya kepadanya mengenai hal tersebut. Lalu beliau memberiku fatwa bahwa aku telah halal ketika telah melahirkan kandunganku dan beliau memerintahkanku untuk menikah apabila aku menginginkan. Ibnu Syihab berkata; saya melihat tidak mengapa ia menikah ketika telah melahirkan, walaupun ia masih kena darah hanya saja ia tidak didekati oleh suaminya hingga ia bersih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3991) Sahih Muslim (1484)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2306</td></tr><tr><td>Arabic No</td><td>2306</td></tr><tr><td>Reference</td><td>Book 13 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Субай‘и, да будет доволен ею Аллах, что она была женой Са‘да ибн Хаули из бану ‘амир ибн люайй. Он принимал участие в битве при Бадре и умер во время прощального хаджа. Она в это время была беременна и родила почти сразу после его кончины. Очистившись от послеродового кровотечения, она приготовилась встречать женихов. Тогда к ней пришёл Абу ас-Санабиль ибн Бакак из бану ‘Абду-д-дар и сказал: «Я вижу, ты приготовилась встречать женихов и собираешься выйти замуж… Но ты не имеешь права выходить замуж, пока не пройдёт четыре месяца и десять дней со дня смерти твоего мужа!» Субай‘а сказала: «Когда он сказал мне это, я тем же вечером оделась и пошла к Посланнику Аллаха ﷺ. Я спросила его об этом, и он сказал, что моя ‘идда закончилась с рождением ребенка, и велел мне выходить замуж, если я этого хочу». Ибн Шихаб сказал: «Я не вижу ничего запретного в том, чтобы женщина (в подобной ситуации) вышла замуж вскоре после родов, даже в тот период, когда послеродовое кровотечение у неё ещё продолжается, однако муж не должен вступать с ней в половую связь, пока она не очистится»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3991) Sahih Muslim (1484)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2306</td></tr><tr><td>Arabic No</td><td>2306</td></tr><tr><td>Reference</td><td>Book 13 Hadith 132</td></tr></tbody></table></div>
 

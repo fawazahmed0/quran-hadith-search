@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abbad b. 'Abdullah b. Zubair reported on the authority of 'A'isha that when Sa'd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] Telah menceritakan kepada kami [Bahz] Telah menceritakan kepada kami [Wuhaib] Telah menceritakan kepada kami [Musa bin Uqbah] dari [Abdul Wahid] dari [Abbad bin Abdullah bin Zubair] ia menceritakan dari [Aisyah] bahwa ketika Sa'd bin Abi Waqash meninggal dunia, para isteri Nabi shallallahu 'alaihi wasallam memerintahkan orang-orang agar membawa jenazahnya ke masjid untuk dishalatkan (di situ). Permintaan tersebut mereka penuhi, maka dibawalah jenazah tersebut ke muka kamar para istri Nabi shallallahu 'alaihi wasallam untuk mereka shalatkan. Kemudian dibawa kembali keluar melalui pintu jenazah yang berhubungan dengan tempat duduk. Tidak berapa lama kemudian sampailah kabar kepada para istri nabi bahwa orang-orang banyak mencela perbuatan mereka itu. Mereka berkata, "Jenazah tidak boleh dibawa ke masjid." Ucapan orang banyak itu sampai pula kepada Aisyah. Maka Aisyah pun berkata, "Alangkah cepatnya orang-orang mencela apa yang tidak mereka ketahui. Mereka mencela kami membawa jenazah ke masjid. Padahal tidaklah Rasulullah shallallahu 'alaihi wasallam menshalatkan Suhail bin Baidla' kecuali di dalam masjid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2253</td></tr><tr><td>Arabic No</td><td>973.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Когда Са‘д ибн Аби Ваккас умер, жёны Порока ﷺ послали (за людьми), чтобы те пронесли погребальные носилки (Са‘да) через мечеть, а они совершили бы по нему заупокойную молитву, что и было сделано. (Люди, которые принесли погребальные носилки), остановились около их комнат, чтобы они помолились за (покойного). (После этого носилки) вынесли через те ворота, откуда обычно выносили покойных, а рядом с (этими воротами находились) скамьи». Потом до (жён Пророка ﷺ) дошло, что люди стали порицать это, говоря: «Не бывало так, чтобы погребальные носилки вносили в мечеть!» Когда же об этом узнала ‘Аиша, она воскликнула: «Как быстро люди начинают порицать то, о чём они ничего не знают! Они осудили нас за то, что погребальные носилки пронесли по мечети, но где же, как не в мечети, Посланник Аллаха ﷺ совершил заупокойную молитву по Сухайлю ибн Байда?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2253</td></tr><tr><td>Arabic No</td><td>973.02</td></tr><tr><td>Reference</td><td>Book 11 Hadith 129</td></tr></tbody></table></div>
 

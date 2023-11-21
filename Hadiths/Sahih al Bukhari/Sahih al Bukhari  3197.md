@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:The Prophet (ﷺ) said. "(The division of time has turned to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al Mutsannaa] telah bercerita kepada kami ['Abdul Wahhab] telah bercerita kepada kami [Ayyub] dari [Muhammad bin Sirin] dari [Ibnu Abi Bakrah] dari [Abu Bakrah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Zaman (masa) terus berjalan dari sejak awal penciptaan langit dan bumi. Satu tahun ada dua belas bulan diantaranya ada empat bulan haram (suci), tiga bulan berurutan, yaitu Dzul Qa'dah, Dzul Hijjah dan al-Muharam serta Rajab yang berada antara Jumadil (akhir) dan Sya'ban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3197</td></tr><tr><td>Arabic No</td><td>3197</td></tr><tr><td>Reference</td><td>Book 59 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бакра, да будет доволен им Аллах, передал, что однажды Пророк ﷺ сказал: «Время вернулось(, приняв) тот вид, который оно имело в тот день, когда Аллах создал небеса и землю. Год (состоит из) двенадцати месяцев, четыре из которых являются запретными. Три из них — зуль-ка‘да, зуль-хиджжа и мухаррам — следуют друг за другом, а (четвёртым является) раджаб мудара(, занимающий своё место) между (месяцами) джумада (санийа) и ша‘баном»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3197</td></tr><tr><td>Arabic No</td><td>3197</td></tr><tr><td>Reference</td><td>Book 59 Hadith 8</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) said, "Did you get Anmat?" 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Muhammad bin Al Munkadir] dari [Jabir bin Abdullah] radliallahu 'anhuma, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah kalian menyediakan permadani?" Aku pun berkata, "Wahai Rasulullah shallallahu 'alaihi wasallam dari mana kami mendapatkan permadani?" beliau bersabda: "Sesungguhnya nanti hal itu akan terjadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5161</td></tr><tr><td>Arabic No</td><td>5161</td></tr><tr><td>Reference</td><td>Book 67 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «(Однажды) Пророк ﷺ спросил: “Есть ли у вас ковры?” Я спросил: “О Посланник Аллаха, откуда же у нас ковры?” А он сказал: “Поистине, скоро у вас будут ковры”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5161</td></tr><tr><td>Arabic No</td><td>5161</td></tr><tr><td>Reference</td><td>Book 67 Hadith 96</td></tr></tbody></table></div>
 

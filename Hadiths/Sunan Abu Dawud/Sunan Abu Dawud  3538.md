@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas: The Prophet (ﷺ) as saying: One who seeks to take back a g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Aban] dan [Hammam] dan [Syu'bah] mereka berkata; telah menceritakan kepada kami [Qatadah] dari [Sa'id bin Al Musayyab] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Orang yang meminta kembali apa yang telah ia berikan seperti orang yang menelan kembali muntahnya." [Hammam] berkata; [Qatadah] berkata, "Kami tidak mengetahui kecuali bahwa muntahan adalah haram
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2621) Sahih Muslim (1622)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3538</td></tr><tr><td>Arabic No</td><td>3538</td></tr><tr><td>Reference</td><td>Book 24 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббас, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Тот, кто подарил другому что-то, а потом забрал подарок назад, подобен возвращающемуся к собственной блевотине». (Передатчик) Хаммам передал от Катады его слова: «А как мы знаем, блевотину употреблять запретно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2621) Sahih Muslim (1622)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3538</td></tr><tr><td>Arabic No</td><td>3538</td></tr><tr><td>Reference</td><td>Book 24 Hadith 123</td></tr></tbody></table></div>
 

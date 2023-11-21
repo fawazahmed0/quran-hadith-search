@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported:I went to the Apostle (ﷺ) and found one end of the tooth-sti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Habib al-Haritsi] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ghailan] -yaitu Ibnu Jarir al-Ma'wali- dari [Abu Burdah] dari [Abu Musa] dia berkata, "Saat aku mengunjungi Nabi shallallahu 'alaihi wasallam, ujung siwak berada di lisannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>592</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 2 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса сказал: «(Однажды) я зашёл к Пророку ﷺ (и заметил) у него на языке кончик зубочистки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>592</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 2 Hadith 59</td></tr></tbody></table></div>
 

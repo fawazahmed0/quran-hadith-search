@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:A man came to the Prophet (ﷺ) and said, "A man fights for pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Abu Wail] dari [Abu Musa] berkata, "Satang seseorang kepada Nabi Shallalahu'alaihiwasallam dan berujar, 'Ada seseorang yang berperang karena dorongan fanatisme, atau berperang karena ingin memperlihatkan keberanian, dan ada yang berperang karena ingin dilihat orang, siapakah yang disebut fi sabilillah? ' Nabi menjawab: "Siapa yang berperang agar kalimatullah menjadi tinggi, ia berada fii sabilillah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7458</td></tr><tr><td>Arabic No</td><td>7458</td></tr><tr><td>Reference</td><td>Book 97 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Муса, да будет доволен им Аллах, сказал: «Однажды один человек пришёл к Пророку ﷺ и сказал: “Один человек сражается (под воздействием) ярости, другой сражается из-за (своей) храбрости, а третий сражается ради показухи. Что же из этого является (борьбой) на пути Аллаха?” Он сказал: “Кто сражался, чтобы слово Аллаха было превыше всего, тот на пути Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7458</td></tr><tr><td>Arabic No</td><td>7458</td></tr><tr><td>Reference</td><td>Book 97 Hadith 84</td></tr></tbody></table></div>
 

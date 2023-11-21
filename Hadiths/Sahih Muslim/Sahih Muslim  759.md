@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ On the authority of 'A'isha:Umm Habiba asked the Messenger of Allah (ﷺ) about 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [al-Laits] --lewat jalur periwayatan lain-- Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Yazid bin Abi Habib] dari [Ja'far] dari ['Irak] dari [Urwah] dari [Aisyah] bahwasanya dia berkata, " Ummu Habibah bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang darah." Lalu Aisyah berkata lagi, "Saya melihat baskom besarnya penuh dengan darah." Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya, "Tetap tahanlah dirimu selama kadar haidmu menahanmu, kemudian mandilah dan shalatlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>759</td></tr><tr><td>Arabic No</td><td>334.05</td></tr><tr><td>Reference</td><td>Book 3 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша рассказывала о том, что (однажды) Умм Хабиба спросила Посланника Аллаха ﷺ о (непрекращающемся) кровотечении. ‘Аиша сказала: «Я видела её тазик, наполненный кровью». Посланник Аллаха ﷺ сказал ей: «Жди столько, сколько тебя удерживали (от молитвы) твои менструации, а затем соверши полное омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>759</td></tr><tr><td>Arabic No</td><td>334.05</td></tr><tr><td>Reference</td><td>Book 3 Hadith 81</td></tr></tbody></table></div>
 

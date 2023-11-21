@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ikrimah: A man made his wife like the back of his mother. He then had i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Isma'il Ath Thalaqani], telah menceritakan kepada kami [Sufyan], telah menceritakan kepada kami [Al Hakam bin Aban] dari [Ikrimah] bahwa seorang laki-laki telah menzhihar isterinya kemudian ia menggaulinya sebelum membayar kafarat. Kemudian ia datang kepada Nabi shallallahu 'alaihi wasallam dan mengabarkan hal tersebut kepadanya. Lalu beliau berkata: "Apa yang mendorongmu untuk melakukan apa yang telah engkau perbuat?" Ia berkata; aku melihat putih betisnya dalam cahaya rembulan. Beliau berkata: "Jauhi dia hingga engkau membayar kafarah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2221</td></tr><tr><td>Arabic No</td><td>2221</td></tr><tr><td>Reference</td><td>Book 13 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Икримы, что один человек дал жене развод-зыхар, а потом вступил с ней в половые отношения до того, как искупил зыхар. Он пришёл к Пророку ﷺ и рассказал ему об этом. Пророк ﷺ спросил: «Что побудило тебя сделать это?» Он ответил: «Я увидел белизну её лодыжек в лунном свете». Пророк ﷺ сказал: «Отстранись же от неё до тех пор, пока не искупишь зыхар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2221</td></tr><tr><td>Arabic No</td><td>2221</td></tr><tr><td>Reference</td><td>Book 13 Hadith 47</td></tr></tbody></table></div>
 

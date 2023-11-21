@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar reported that the Messenger of Allah (ﷺ) ordered the (payment
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Laits] -dalam jalur lain- Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Nafi'] bahwa [Abdullah bin Umar] berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk membayar Zakat Fithri berupa satu sha' kurma atau satu sha' gandum. Ibnu Umar berkata; Maka orang-orang pun menyamakannya dengan dua Mud gandum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2281</td></tr><tr><td>Arabic No</td><td>984.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «Посланник Аллаха ﷺ приказал раздавать закят аль-Фитр в размере одного са‘ фиников или ячменя». Ибн ‘Умар сказал: «И люди приравняли два мудда пшеницы (к са‘ упомянутых продуктов)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2281</td></tr><tr><td>Arabic No</td><td>984.04</td></tr><tr><td>Reference</td><td>Book 12 Hadith 19</td></tr></tbody></table></div>
 

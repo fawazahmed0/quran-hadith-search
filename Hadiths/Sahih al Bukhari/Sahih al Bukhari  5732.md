@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "(Death from) plague is ma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami ['Ashim] telah menceritakan kepadaku [Hafshah binti Sirin] dia berkata; [Anas bin Malik] radliallahu 'anhu bertanya kepadaku; "Sebab apakah Yahya meninggal dunia?" Jawabku; "Karena menderita lepra." Anas berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "(mati) karena menderita lepra adalah syahid bagi setiap Muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5732</td></tr><tr><td>Arabic No</td><td>5732</td></tr><tr><td>Reference</td><td>Book 76 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Каждый мусульманин, умерший от чумы, является шахидом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5732</td></tr><tr><td>Arabic No</td><td>5732</td></tr><tr><td>Reference</td><td>Book 76 Hadith 47</td></tr></tbody></table></div>
 

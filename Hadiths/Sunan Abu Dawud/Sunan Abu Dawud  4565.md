@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Muhammad bin Bakkar bin Bilal Al 'Amili] berkata, telah mengabarkan kepada kami [Muhammad] -maksudnya Muhammad bin Rasyid- dari [Sulaiman] -maksudnya Sulaiman bin Musa- dari [Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "tebusan (diyat) untuk pembunuhan semi sengaja diperberat seperti pembunuhan sengaja, namun pembunuhnya tidak dibunuh -Abu Dawud berkata; Kahlil menambahkan dari Ibnu Rasyid- "Sebab hal itu akan membantu setan dalam menguasai manusia, hingga hukum darahnya itu adalah seperti pembunuhan yang dilakukan dalam kegelapan (tidak tahu siapa pembunuh dan bagaimana membunuhnya), bukan karena permusuhan atau peperangan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4565</td></tr><tr><td>Arabic No</td><td>4565</td></tr><tr><td>Reference</td><td>Book 41 Hadith 72</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Пророк ﷺ сказал: «За неумышленное убийство, похожее на умышленное, выплачивается отягощённая компенсация /дийа/, то есть такой же, как и за умышленное убийство, и убийца не подлежит смертной казни». Халиль передаёт от Ибн Рашида добавление: «(Подобное убийство бывает), когда шайтан сталкивает людей между собой и в толпе порой проливается кровь без (направленной против кого-то конкретного) злобы и без использования оружия»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4565</td></tr><tr><td>Arabic No</td><td>4565</td></tr><tr><td>Reference</td><td>Book 41 Hadith 72</td></tr></tbody></table></div>
 

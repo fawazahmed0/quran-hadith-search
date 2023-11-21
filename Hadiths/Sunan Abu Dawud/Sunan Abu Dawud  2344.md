@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Irbad ibn Sariyyah: The Messenger of Allah (ﷺ) invited me to a mea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin Muhammad An Naqid], telah menceritakan kepada kami [Hammad bin Khalid Al Khayyath], telah menceritakan kepada kami [Mu'awiyah bin Shalih] dari [Yunus bin Saif], dari [Al Harits bin Ziyad] dari [Abu Ruhm] dari [Al 'Irbadh bin Sariyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam mengundangku untuk makan sahur pada Bulan Ramadhan, beliau berkata; "Kemarilah untuk makan siang yang mendapat berkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2344</td></tr><tr><td>Arabic No</td><td>2344</td></tr><tr><td>Reference</td><td>Book 14 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-‘Ирбада ибн Сария, да будет доволен им Аллах: «Посланник Аллаха ﷺ позвал меня на сухур во время рамадана со словами: “Спешите к благодатной трапезе!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2344</td></tr><tr><td>Arabic No</td><td>2344</td></tr><tr><td>Reference</td><td>Book 14 Hadith 32</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "While a man was walking he f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Sumayya] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada seorang laki-laki yang sedang berjalan lalu dia merasakan kehausan yang sangat sehingga dia turun ke suatu sumur lalu minum dari air sumur tersebut. Ketika dia keluar didapatkannya seekor anjing yang sedang menjulurkan lidahnya menjilat-jilat tanah karena kehausan. Orang itu berkata: "Anjing ini sedang kehausan seperti yang aku alami tadi". Maka dia (turun kembali ke dalam sumur) dan diisinya sepatunya dengan air dan sambil menggigit sepatunya dengan mulutnya dia naik keatas lalu memberi anjing itu minum. Kemudian dia bersyukur kepada Allah maka Allah mengampuninya". Para sahabat bertanya: "Wahai Rasulullah, apakah kita akan dapat pahala dengan berbuat baik kepada hewan?" Beliau shallallahu 'alaihi wasallam menjawab: "Terhadap setiap makhluq bernyawa diberi pahala". Hadits ini diikuti pula oleh [Hammad bin Salamah] dan [Ar-Rabi' bin Muslim] dari [Muhammad bin Ziyad]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2363</td></tr><tr><td>Arabic No</td><td>2363</td></tr><tr><td>Reference</td><td>Book 42 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «Как-то раз одного человека, шедшего (своей дорогой), стала мучить сильная жажда. Он спустился в колодец и напился оттуда, а когда выбрался наружу, неожиданно увидел перед собой собаку, высовывавшую язык и евшую от жажды влажную землю. (При виде этого) человек сказал себе: “Эту собаку жажда мучит так же, как мучила она и меня”, после чего он наполнил водой свой башмак, взял его в зубы, выбрался наверх и напоил собаку, а Аллах отблагодарил его за это, простив ему (его грехи)». (Люди) спросили: «О Посланник Аллаха, разве нам полагается награда и за животных?» — на что он ответил: «Награда полагается за всё живое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2363</td></tr><tr><td>Arabic No</td><td>2363</td></tr><tr><td>Reference</td><td>Book 42 Hadith 11</td></tr></tbody></table></div>
 

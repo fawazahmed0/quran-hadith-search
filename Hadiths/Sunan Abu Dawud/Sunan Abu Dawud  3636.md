@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Ja'far Muhammad bin 'Ali reported from Samurah ibn Jundub that he had a row 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al 'Ataki] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Washil] mantan budak Abu 'Uyainah, ia berkata; saya mendengar [Abu Ja'far Muhammad bin Ali] menceritakan dari [Samurah bin Jundub] bahwa ia dahulu memiliki pohon kurma kecil yang berada di kebun seorang laki-laki anshar." Samurah berkata, "Laki-laki itu mempunyai keluarga." Muhammad berkata, "Samurah pernah memasuki kebun kurmanya sehingga laki-laki Anshar tersebut merasa terganggu dan berat hati. Lalu ia meminta kepada Samurah untuk menjual pohon kurma tersebut, namun Samurah menolak. Lalu laki-laki Anshar itu meminta agar ia memindahnya, namun Samurah menolak. Maka ia pun datang menemui Nabi shallallahu 'alaihi wasallam dan menceritakan hal tersebut kepadanya. Nabi shallallahu 'alaihi wasallam kemudian meminta Samurah agar menjual pohon kurma tersebut, namun ia menolak, lalu beliau memintanya agar memindahkannya namun Samurah tetap menolak. Beliau pun bersabda: "Berikan kepadanya dan bagimu demikian dan demikian." -sesuatu yang menyenangkan-, namun ia menolak. Beliau lalu bersabda: "Engkau adalah orang yang menimbulkan madlarat (kesusahan)." Rasulullah shallallahu 'alaihi wasallam kemudian berkata kepada orang Anshar tersebut: "Pergi dan cabutlah pohon kurmanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3636</td></tr><tr><td>Arabic No</td><td>3636</td></tr><tr><td>Reference</td><td>Book 25 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Самуры ибн Джундуба, что у него было несколько пальм. Они росли в саду одного человека из числа ансаров. А у этого человека была семья, и когда Самура заходил к своим пальмам, этот человек испытывал стеснение и беспокойство. Он попросил Самуру продать ему пальмы, однако он отказался. Тогда он попросил его обменять их на пальмы в другом месте, однако он снова отказался. Тогда тот человек пришёл к Пророку ﷺ и рассказал ему обо всём. Пророк ﷺ попросил его продать пальмы, однако Самура отказался. Тогда он попросил его обменять их на пальмы в другом месте, однако Самура опять отказался. Пророк ﷺ сказал: «Тогда подари их ему, и тебе будет то-то и то-то», побуждая его подарить пальмы». Однако Самура опять отказался. Тогда Посланник Аллаха ﷺ сказал: «Ты намеренно вредишь человеку!» Затем Посланник Аллаха ﷺ сказал ансару: «Пойди и выкорчуй его пальмы!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3636</td></tr><tr><td>Arabic No</td><td>3636</td></tr><tr><td>Reference</td><td>Book 25 Hadith 66</td></tr></tbody></table></div>
 

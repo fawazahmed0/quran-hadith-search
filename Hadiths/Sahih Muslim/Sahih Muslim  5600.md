@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Samura b. Jundub reported AUah's Messenger (ﷺ) as saying:Don't give names to y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Jarir] dari [Ar Rukain bin Ar Rabi'] dari [Bapaknya] dari [Samurah bin Jundab] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kamu memberi nama anakmu dengan 'Rabah' (beruntung), 'Yasar' (Mudah), Aplah (paling beruntung), dan Nafi' (bermanfaat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5600</td></tr><tr><td>Arabic No</td><td>2136.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5600</td></tr><tr><td>Arabic No</td><td>2136.02</td></tr><tr><td>Reference</td><td>Book 38 Hadith 15</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Ruhayyi’, daughter of Mu’awwidh b. ‘Afra’, said :The Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Bisyr] dari [Khalid bin Dzakwan] dari [Ar Rubai' binti Mu'awwadz bin Afra] ia berkata, "Rasulullah shallallahu 'alaihi wasallam masuk menemuiku di waktu pagi setelah beliau hidup dalam satu rumah denganku. Beliau lalu duduk di kasurku seperti dekatnya dudukmu padaku. Budak-budak wanita lalu menabuh rebana, mereka mendendangkan lagu seraya menyebut nama bapak-bapakku yang terbunuh di peperangan badar, sehingga salah seorang dari mereka berkata, "Di antara kami ada seorang Nabi yang mengetahui apa yang akan terjadi esok." Beliau pun bersabda: "Tinggalkanlah ucapan (yang terakhir) itu dan ucapkanlah apa yang telah kamu katakan tadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5147)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4922</td></tr><tr><td>Arabic No</td><td>4922</td></tr><tr><td>Reference</td><td>Book 43 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5147)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4922</td></tr><tr><td>Arabic No</td><td>4922</td></tr><tr><td>Reference</td><td>Book 43 Hadith 150</td></tr></tbody></table></div>
 

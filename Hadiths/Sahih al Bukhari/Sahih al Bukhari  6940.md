@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abi Huraira:The Prophet (ﷺ) used to invoke Allah in his prayer, "O Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Khalid bin Yazid] dari [Sa'id bin Abi Hilal] dari [Hilal bin Usamah], bahwasanya [Abu Salamah bin Abdurrahman] mengabarkan kepadanya dari [Abu Hurairah], bahwasanya Nabi shallallahu 'alaihi wasallam dalam shalatnya berdoa: "Ya Allah, selamatkanlah 'Ayyasy bin Abi rabi'ah, Salamah bin Hisyam, Walid bin Al Walid, Ya Allah selamatkanlah orang-orang lemah dari kalangan orang-orang mukmin, ya Allah, kokohkanlah penyengsaraanmu terhadap Mudhar, dan kirimkanlah musim paceklik kepada mereka, sebagaimana paceklik yang menimpa Yusuf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6940</td></tr><tr><td>Arabic No</td><td>6940</td></tr><tr><td>Reference</td><td>Book 89 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что обычно, во время молитвы Пророк ﷺ обращался к Аллаху с мольбами: «О Аллах, спаси ‘Аййаша ибн Абу Раби‘у, Саляму ибн Хишама, аль-Валида ибн аль-Валида! О Аллах, спаси слабых из числа верующих! О Аллах, будь суров с племенем мудар и сделай так, чтобы голод продолжался для него столько же, сколько и во времена Йусуфа!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6940</td></tr><tr><td>Arabic No</td><td>6940</td></tr><tr><td>Reference</td><td>Book 89 Hadith 1</td></tr></tbody></table></div>
 

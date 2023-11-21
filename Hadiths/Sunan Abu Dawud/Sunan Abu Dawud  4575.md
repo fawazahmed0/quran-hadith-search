@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: One of the two women of Hudhayl killed the other, E
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Yunus bin Muhammad] berkata, telah menceritakan kepada kami [Abdul Wahid bin Ziyad] berkata, telah menceritakan kepada kami [Mujalid] ia berkata; telah menceritakan kepada kami [Asy Sya'bi] dari [Jabir bin Abdullah] berkata, "Dua orang wanita dari Hudzail, salah seorang dari keduanya membunuh wanita yang lainnya. Setiap dari wanita tersebut telah mempunyai suami dan anak. Rasulullah shallallahu 'alaihi wasallam kemudian memberi keputusan bahwa wanita yang terbunuh itu dendanya harus dibayar oleh wali dari wanita yang membunuhnya. Dan membebaskan suami serta anaknya." Jabir bin Abdullah berkata, "Wali wanita yang terbunuh itu berkata, "Harta warisanya untuk kami." Jabir bin Abdullah berkata, "Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Tidak, warisannya untuk suami dan anaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4575</td></tr><tr><td>Arabic No</td><td>4575</td></tr><tr><td>Reference</td><td>Book 41 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что одна женщина из племени Хузайль убила другую. А у каждой из них были муж и дети. Посланник Аллаха ﷺ возложил обязанность платить компенсацию за убитую на родственников убившей со стороны отца, освободив от этой обязанности её мужа и детей. Родственники убитой со стороны отца сказали: «Её наследство принадлежит нам!» Но Посланник Аллаха ﷺ сказал: «Нет, её наследство принадлежит её мужу и детям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4575</td></tr><tr><td>Arabic No</td><td>4575</td></tr><tr><td>Reference</td><td>Book 41 Hadith 82</td></tr></tbody></table></div>
 

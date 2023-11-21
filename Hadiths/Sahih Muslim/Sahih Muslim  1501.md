@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thabit reported on the authority of Anas:The Apostle of Allah (ﷺ) came to us a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Hasyim bin Al Qasim] telah menceritakan kepada kami [Sulaiman] dari [Tsabit] dari [Anas] katanya; Nabi shallallahu 'alaihi wasallam pernah menemui kami ketika tidak ada seorangpun selain aku, ibuku, dan Ummu Haram, bibiku. Lalu beliau bersabda: "Berdirilah kalian, aku akan shalat bersama kalian diluar waktu shalat." Maka beliau shalat bersama kami." Seseorang bertanya kepada Tsabit; "Dimanakah beliau meletakkan Anas?" Tsabit menjawab; "Beliau meletakkan Anas di sebelah kanannya, lantas beliau mendokan kebaikan untuk kami, ahli bait, dengan kebaikan dunia dan akhirat." Kemudian ibuku berkata; "Wahai Rasulullah, pelayan kecilmu -maksudnya Anas- tolong do'akanlah kebaikan untuknya!" Beliau kemudian mendo'akan segala kebaikan untukku, terakhir kali doa beliau untukku adalah dengan bacaan ALLAAHUMMA AKTSIR MALAHU WAWALADAHU WABAARIK LAHU FIIHI (Ya Allah, perbanyaklah hartanya dan anaknya, dan berilah barakah padanya baginya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>660.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 334</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сабита, что Анас сказал: «(Однажды) Пророк пришёл к нам, когда (в доме) был только я, моя мать и моя тётя Умм Харам. Он сказал: “Встаньте, и я совершу с вами молитву”. Это не было временем (обязательной) молитвы. И он совершил с нами молитву».Один человек спросил Сабита: «А где он поставил Анаса?» Тот ответил: «Он поставил его справа от себя».(Анас сказал): «Затем он обратился с мольбой за обитателей (нашего) дома, чтобы (Аллах даровал нам) всякое благо из благ этого мира, и мира будущего. Тогда моя мать сказала: “О Посланник Аллаха, обратись с мольбой к Аллаху за своего маленького слугу”, и он попросил (Аллаха) даровать мне всякое благо, и в конце своей мольбы он сказал: “О Аллах, увеличь его имущество и детей, и даруй ему благодать в том, что Ты ему даруешь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>660.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 334</td></tr></tbody></table></div>
 

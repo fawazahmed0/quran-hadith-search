@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abd Allah b. Habshi al-Khath'ami said:The Prophet (ﷺ) was asked: Which of the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Hajjaj], ia berkata; [Ibnu Juraij] berkata; telah menceritakan kepada Kami [Utsman bin Abu Sulaiman] dari [Ali Al Azdi] dari ['Ubaid bin 'Umair] dari [Abdullah bin Hubsyi Al Khats'ami] bahwa Nabi shallallahu 'alaihi wasallam ditanya; amalan apakah yang lebih utama? Beliau bersabda; lama berdiri. Ia ditanya; sedekah apakah yang paling utama? Ia berkata; pemberian orang miskin, ia ditanya; hijrah apakah yang paling utama? Beliau bersabda; orang yang meninggalkan apa yang Allah haramkan. Ia ditanya; jihad apakah yang paling utama? Beliau bersabda; orang yang berjihad memerangi orang-orang musyrik dengan harta dan jiwanya. Ia ditanya; terbunuh bagaimana yang paling mulia? Beliau bersabda; orang yang ditumpahkan darahnya dan kudanya disembelih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1449</td></tr><tr><td>Arabic No</td><td>1449</td></tr><tr><td>Reference</td><td>Book 8 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Хубши аль-Хас‘ами, да будет доволен им Аллах, что Пророка ﷺ спросили: «Какое из дел является наилучшим?» и он сказал: «Долгое выстаивание молитвы». Его спросили: «А какая милостыня является наилучшей?» Он ответил: «Та, которая подаётся человеком со скромным достатком и которую ему нелегко подать». Его спросили также: «Какое переселение /хиджра/ является наилучшим?» Он ответил: «Оставление того, что запретил Аллах». Его спросили: «Какая борьба на пути Аллаха является наилучшей?» Он ответил: «Борьба того, кто противостоит многобожникам и своим имуществом, и жизнью». Его спросили также: «А какая смерть является самой достойной?» Он ответил: «Смерть того, чью кровь пролили и чьему коню подрезали поджилки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1449</td></tr><tr><td>Arabic No</td><td>1449</td></tr><tr><td>Reference</td><td>Book 8 Hadith 34</td></tr></tbody></table></div>
 

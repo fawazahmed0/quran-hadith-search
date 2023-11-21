@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Rifa’ah b. Rafi’ said:One day we were praying behind the Messenger of Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Nu'aim bin Abdullah Al Mujmir] dari [Ali bi Yahya Az Zuraqi] dari [ayahnya] dari [Rifa'ah bin Rafi' Az Zuraqi] dia berkata; "Suatu hari kami pernah shalat di belakang Rasulullah shallallahu 'alaihi wasallam, ketika Rasulullah shallallahu 'alaihi wasallam mengangkat kepalanya dari ruku' (i'tidal), tiba-tiba seorang laki-laki di belakang Rasulullah shallallahu 'alaihi wasallam mengucapkan; "ALLAHUMMA RABBANA WALAKAL HAMDU HAMDAN KATSIIRA THAYYIBA MUBAARAKAN FIIH (Allah Maha Besar, segala puji bagi Allah, pujian yang banyak, baik dan penuh berkah)." Ketika Rasulullah shallallahu 'alaihi wasallam selesai menunaikan shalat, beliau bersabda: "Siapakah di antara kalian yang mengucapkan beberapa kalimat tadi?" laki-laki itu menjawab; "Saya wahai Rasulullah." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh aku telah melihat lebih dari tiga puluh malaikat yang berlomba-lomba untuk mencatat kalimat tersebut lebih dulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (799)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>770</td></tr><tr><td>Arabic No</td><td>770</td></tr><tr><td>Reference</td><td>Book 2 Hadith 380</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рифа‘а ибн Рафи‘ аз-Зуракъи сказал: «Однажды днём мы совершали молитву (, находясь) позади Посланника Аллаха ﷺ и когда он, поднимая голову после поясного поклона, сказал: “Да услышит Аллах тех, кто воздал Ему хвалу”/Сами‘а-Ллаху ли ман хамидаху/, один человек, находившийся позади Посланника Аллаха ﷺ сказал: “О Аллах, Господь наш, хвала Тебе, хвала многая, благая и благословенная! /Раббана, ва лака-ль-хамд, хамдан касиран, таййибан, мубаракaн фийхи!/” Закончив молитву, Посланник Аллаха ﷺ спросил: “Кто только что произнёс эти (слова)?” (Тот человек) ответил: “Я, о Посланник Аллаха!” (Тогда) Посланник Аллаха ﷺ сказал: “Я видел более тридцати ангелов, каждый из которых старался записать эти слова первым”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (799)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>770</td></tr><tr><td>Arabic No</td><td>770</td></tr><tr><td>Reference</td><td>Book 2 Hadith 380</td></tr></tbody></table></div>
 

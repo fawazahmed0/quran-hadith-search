@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) used to recite the Qur'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Al Furat Abu Mas'ud Ar Razi] telah mengabarkan kepada Kami [Abdurrazzaq], telah mengabarkan kepada Kami [Abdullah bin Umar] dari [Nafi'] dari [Ibnu Umar], ia berkata; Rasulullah shallallahu 'alaihi wasallam membacakan Al Qur'an kepada Kami, dan apabila melewati ayat sajdah beliau bertakbir dan bersujud dan Kami bersujud bersamanya. Abdurrazzaq berkata; Ats Tsauri kagum dengan hadits ini. Abu Daud berkata; ia kagum kepada hadits tersebut karena disebutkan bahwa Rasulullah shallallahu 'alaihi wasallam bertakbir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1413</td></tr><tr><td>Arabic No</td><td>1413</td></tr><tr><td>Reference</td><td>Book 7 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «Когда Посланник Аллаха ﷺ читал нам Коран и ему попадался аят, при чтении которого нужно совершать земной поклон, он говорил: “Аллах Велик”, а потом совершал земной поклон и мы совершали земной поклон вместе с ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1413</td></tr><tr><td>Arabic No</td><td>1413</td></tr><tr><td>Reference</td><td>Book 7 Hadith 13</td></tr></tbody></table></div>
 

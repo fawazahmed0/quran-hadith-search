@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Zam'ah: When the illness of the Messenger of Allah (ﷺ) b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] berkata, telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] ia berkata; telah menceritakan kepadaku [Az Zuhri] berkata, telah menceritakan kepadaku [Abdul Malik bin Abu Bakr bin 'Abdurrahman Ibnul Harits bin Hisaym] dari [Bapaknya] dari [Abdullah bin Zam'ah] ia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam sakit keras, aku bersama beberapa kaum muslimin berada di sisi beliau, Bilal datang dan menyerunya untuk shalat. Beliau bersabda: "Perintahkanlah seseorang untuk menjadi imam shalat." Abdullah bin Zam'ah lalu keluar, dan ternyata Umar tengah berada di antara orang-orang, sementara Abu Bakar tidak ada. Aku lalu berkata, "Wahai Umar, berdiri dan imamilah orang-orang untuk melaksanakan shalat." Umar lalu berdiri dan bertakbir. Ketika Rasulullah shallallahu 'alaihi wasallam mendengar suaranya -umar adalah lelaki yang suaranya keras-, beliau bersabda: "Di mana Abu Bakar? Sesungguhnya Allah dan kaum muslimin tidak menyukai yang seperti itu, sesungguhnya Allah dan kaum muslimin tidak menyukai yang seperti itu." Beliau lalu mengutus untuk mencarinya, kemudian Abu bakar ketika Umar telah selesai melaksanakan shalat, maka Abu Bakar pun shalat bersama orang-orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4660</td></tr><tr><td>Arabic No</td><td>4660</td></tr><tr><td>Reference</td><td>Book 42 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн Зам‘а: «Когда состояние Посланника Аллаха ﷺ (во время его болезни) ухудшилось, я как раз находился у него вместе с небольшой группой мусульман и Биляль позвал его на молитву. Он же сказал: “Велите кому-нибудь совершить молитву с людьми”». ‘Абдуллах ибн Зам‘а вышел и увидел ‘Умара, которого окружали люди, а Абу Бакр в это время отсутствовал. (‘Абдуллах рассказывает): «Я сказал: “О ‘Умар! Встань и помолись с людьми”. И он вышел вперёд и произнёс такбир. Услышав его голос (а он у ‘Умара был громким), Посланник Аллаха ﷺ спросил: “А где Абу Бакр? И Аллах не желает этого, и мусульмане! И Аллах не желает этого, и мусульмане!” После этого он послал за Абу Бакром, и тот пришёл и совершил с людьми молитву, которую перед этим совершил ‘Умар»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4660</td></tr><tr><td>Arabic No</td><td>4660</td></tr><tr><td>Reference</td><td>Book 42 Hadith 65</td></tr></tbody></table></div>
 

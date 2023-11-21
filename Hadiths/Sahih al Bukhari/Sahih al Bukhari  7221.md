@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tariq bin Shihab:Abu Bakr said to the delegate of Buzakha. "Follow the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepadaku [Qais bin Muslim] dari [Thariq bin Syihab] dari [Abu Bakar] radliallahu 'anhu. Ia berkata kepada utusan Buzakhakh; 'hendaknya kalian mengikuti ekor-ekor unta sampai Allah memperlihatkan kepada khalifah Nabi-NYA Shallallahu'alaihiwasallam dan kaum muhajirin, satu keputusan yang dapat dijadikan alasan untuk memaafkan kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7221</td></tr><tr><td>Arabic No</td><td>7221</td></tr><tr><td>Reference</td><td>Book 93 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Тарик ибн Шихаб передаёт, что однажды Абу Бакр сказал делегации из Бузахи (состоявшей из племён асад и гатафан): «Вы останетесь пастухами верблюдов до тех пор, пока Аллах не покажет преемнику Его Пророка ﷺ и мухаджирам нечто такое, что оправдало бы вас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7221</td></tr><tr><td>Arabic No</td><td>7221</td></tr><tr><td>Reference</td><td>Book 93 Hadith 81</td></tr></tbody></table></div>
 

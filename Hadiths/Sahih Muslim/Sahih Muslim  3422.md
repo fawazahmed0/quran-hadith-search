@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sabra al-Juhani reported on the authority of his father that while he was with A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Abdul Aziz bin Umar] telah menceritakan kepadaku [Ar Rabi' bin Sabrah Al Juhani] bahwa [ayahnya] telah menceritakan kepadanya bahwa dia pernah bersama Rasulullah shallallahu 'alaihi wasallam (dalam Fathu Makkah), beliau bersabda: "Wahai sekalian manusia, sesungguhnya saya pernah mengizinkan kepada kalian nikah mut'ah terhadap wanita, dan sesungguhnya (mulai saat ini) Allah telah mengharamkannya sampai Hari Kiamat, oleh karena itu barangsiapa yang masih memiliki (wanita yang dimut'ah), maka ceraikanlah dia dan jangan kamu ambil kembali apa yang telah kamu berikan padanya." Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami ['Abdah bin Sulaiman] dari [Abdul Aziz bin Umar] dengan isnad ini, dia berkata; saya pernah melihat Rasulullah shallallahu 'alaihi wasallam berdiri di antara rukun (Ka'bah) dan pintu (Ka'bah) seraya bersabda seperti hadits Ibnu Numair
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3422</td></tr><tr><td>Arabic No</td><td>1406.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3422</td></tr><tr><td>Arabic No</td><td>1406.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 25</td></tr></tbody></table></div>
 

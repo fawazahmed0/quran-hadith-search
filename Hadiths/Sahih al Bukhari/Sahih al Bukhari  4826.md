@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah said, 'The son of Adam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Az Zuhri] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] radliallahu 'anhu dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah Azza wa Jalla berfirman: Anak Adam telah menyakiti-Ku dia suka mencela masa. Padahal Aku pencipta masa. Akulah yang menggilir siang dan malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4826</td></tr><tr><td>Arabic No</td><td>4826</td></tr><tr><td>Reference</td><td>Book 65 Hadith 348</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Всемогущий и Великий Аллах сказал: “Сын Адама наносит Мне обиду, понося время /дахр/, тогда как Я и есть время, всё в Моей власти, и по (Моей воле) день сменяет собой ночь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4826</td></tr><tr><td>Arabic No</td><td>4826</td></tr><tr><td>Reference</td><td>Book 65 Hadith 348</td></tr></tbody></table></div>
 

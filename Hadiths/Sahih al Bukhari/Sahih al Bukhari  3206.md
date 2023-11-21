@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ata:'Aisha said If the Prophet (ﷺ) saw a cloud In the sky, he would w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Makkiy bin Ibrahim] telah bercerita kepada kami [Ibnu Juraij] dari ['Atha'] dari ['Aisyah radliallahu 'anhuma] berkata; "Nabi shallallahu 'alaihi wasallam apabila melihat awan mendung di langit, Beliau memandangnya lalu membelakanginya, mondar-mandir antara keluar-masuk rumah dengan wajah yang berubah. Kemudian 'Aisyah minta penjelasan hal itu, maka Nabi shallallahu 'alaihi wasallam bersabda: "Aku tidak tahu pasti barangkali kejadiannya bisa seperti kaum yang berkata (sebagaimana firman Allah dalam QS al-Ahqaf ayat 24) yang artinya: "Maka tatkala mereka melihat adzab itu berupa awan yang menuju ke lembah-lembah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3206</td></tr><tr><td>Arabic No</td><td>3206</td></tr><tr><td>Reference</td><td>Book 59 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Увидев в небе облако, Пророк ﷺ начинал ходить вперёд и назад, заходил (в дом), выходил наружу и менялся в лице, когда же начинался дождь, он успокаивался». (Однажды) ‘Аиша обратила его внимание на это, и Пророк ﷺ сказал:\n— Я не знаю, может быть, (с нами будет) то же самое, что и с людьми, слова которых (приводятся в том аяте, где говорится): «И когда они увидели его в виде тучи, двигавшейся к их долинам, то сказали: “Это — туча, которая принесёт нам дождь”, (однако Худ сказал): “Нет! Это то, что вы торопили, — ветер, в котором мучительное наказание!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3206</td></tr><tr><td>Arabic No</td><td>3206</td></tr><tr><td>Reference</td><td>Book 59 Hadith 17</td></tr></tbody></table></div>
 

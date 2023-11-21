@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Mas'oûd (que Dieu l'agrée), le Prophète (paix et bé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Amru An Naqid] serta [Zuhair bin Harb] mereka berkata; Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Sa'id bin Musayyab] dari [Abu Hurairah] yang riwayat ini dia sampaikan kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah orang kota memborong dagangan orang desa." Zuhair berkata; Dari Nabi shallallahu 'alaihi wasallam bahwa beliau melarang orang kota memborong dagangan orang desa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3824</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 21 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3824</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 21 Hadith 24</td></tr></tbody></table></div>
 

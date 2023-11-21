@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali reported:He the Prophet (ﷺ), forbade me that I should wear my ring in this
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin 'Abdullah bin Numair] dan [Abu Kuraib] seluruhnya dari [Ibnu Idris] dan lafazh ini miliknya Abu Kuraib; Telah menceritakan kepada kami [Ibnu Idris] ia berkata; Aku telah mendengar ['Ashim bin Kulaib] dari [Abu Burdah] dari ['Ali] ia berkata; Nabi shallallahu 'alaihi wasallam melarangku memakai cincinku di tempat ini atau sebelahnya lagi.-'Ashim tidak mengerti secara pasti tentang kedua jari tersebut.- dan beliau melarangku juga untuk memakai pakaian Qasiy serta duduk di atas kain Mayasir. Ali berkata; Adapun Qasiy adalah pakaian bersulam sutera yang di kirim dari Mesir dan Syam, bentuknya seperti ini. Sedangkan Mayasir adalah kain yang biasa dipakai oleh para wanita untuk tempat duduk mereka di atas hewan kendaraannya seperti kain tebal yang berbulu warnanya sangat merah dan terbuat dari sutera. Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan] dari ['Ashim bin Kulaib] dari [anaknya Abi Musa] ia berkata; aku [Ali] ….-kemudian dia menyebutkan Hadits yang serupa, dari Nabi shallallahu 'alaihi wasallam. Dan telah menceritakan kepada kami [Ibnu Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari ['Ashim bin Kulaib] ia berkata; Aku telah mendengar [Abu Burdah] berkata; Aku mendengar ['Ali bin Abi Thalib] berkata; Nabi shallallahu 'alaihi wasallam melarangku -kemudian dia menyebutkan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5490</td></tr><tr><td>Arabic No</td><td>2078.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5490</td></tr><tr><td>Arabic No</td><td>2078.04</td></tr><tr><td>Reference</td><td>Book 37 Hadith 105</td></tr></tbody></table></div>
 

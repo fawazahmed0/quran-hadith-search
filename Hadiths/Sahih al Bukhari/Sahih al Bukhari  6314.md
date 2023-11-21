@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:When the Prophet (ﷺ) went to bed at night, he would put his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Abdul Malik] dari [Ribi'I] dari [Hudzaifah] radliallahu 'anhu dia berkata; "Apabila Nabi shallallahu 'alaihi wasallam hendak tidur di malam hari, beliau meletakkan tangannya di bawah pipi, kemudian beliau mengucapkan: "Bismika amuutu wa ahya (Dengan nama-Mu aku mati dan aku hidup)." Dan apabila bangun tidur, beliau mengucapkan: 'Al Hamdulillahilladzii ahyaana ba'da maa amatana wailaihi nusyur (Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami, dan kepada-Nya lah tempat kembali)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6314</td></tr><tr><td>Arabic No</td><td>6314</td></tr><tr><td>Reference</td><td>Book 80 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузайфа бин аль-Яман, да будет доволен им Аллах, сказал: «Укладываясь ночью в постель, Пророк ﷺ ложился щекой на (правую) руку и говорил: “О Аллах, с именем Твоим я умираю и возвращаюсь к жизни! /Аллахумма, би-сми-кя амуту ва ахйа!/” — когда же он просыпался, то говорил: “Хвала Аллаху, Который вернул нас к жизни после того, как упокоил нас, и к Нему [мы вернёмся] после воскрешения /Аль-хамду ли-Лляхи-ллязи ахйана ба‘да ма аматана ва илейхи-н-нушур/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6314</td></tr><tr><td>Arabic No</td><td>6314</td></tr><tr><td>Reference</td><td>Book 80 Hadith 11</td></tr></tbody></table></div>
 

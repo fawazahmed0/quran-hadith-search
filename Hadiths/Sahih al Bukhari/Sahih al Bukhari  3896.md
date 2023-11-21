@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:Khadija died three years before the Prophet (ﷺ) depar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Ubaid bin Isma'il] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] berkata; "Khadijah Radiallahu 'anha meninggal dunia sebelum hijrah Nabi shallallahu 'alaihi wasallam ke Madinah selang tiga tahun. Lalu beliau tinggal di Madinah dua tahun atau sekitar masa itu kemudian beliau menikahi 'Aisyah Radiallahu 'anha ketika dia berusia enam tahun. Kemudian tinggal bersamanya ketika dia berusia sembilan tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3896</td></tr><tr><td>Arabic No</td><td>3896</td></tr><tr><td>Reference</td><td>Book 63 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что отец Хишама сказал: «Хадиджа умерла за три года до того, как Пророк ﷺ переселился в Медину. И примерно через два года он женился на ‘Аише, когда ей было шесть лет, а вошёл к ней, когда ей исполнилось девять»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3896</td></tr><tr><td>Arabic No</td><td>3896</td></tr><tr><td>Reference</td><td>Book 63 Hadith 121</td></tr></tbody></table></div>
 

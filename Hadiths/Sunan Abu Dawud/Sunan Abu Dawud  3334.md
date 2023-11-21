@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sulaiman b. 'Amr: On the authority of his father: I heard the Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu Al Ahwash], telah menceritakan kepada kami [Syabib bin Gharqadah], dari [Sulaiman bin 'Amr], dari [ayahnya] ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam ketika haji wada' berkata: "Ketahuilah bahwa seluruh riba dari riba jahiliyah telah dibatalkan, bagi kalian modal kalian, dengan tidak menzhalimi dan tidak dizhalimi. Ketahuilah bahwa seluruh darah dari darah pada masa jahiliyah telah digugurkan, dan darah pertama yang aku gugurkan adalah darah Al Harits bin Abdul Muththalib, dahulu ia disusui seseorang dari Bani Laits, kemudian ia dibunuh orang-orang Hudzail." Beliau berkata: "Ya Allah, saksikanlah. Apakah aku telah menyampaikan?" mereka berkata; ya. Tiga kali. Beliau berkata; ya Allah, saksikanlah. Beliau mengucapkannya sebanyak tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3334</td></tr><tr><td>Arabic No</td><td>3334</td></tr><tr><td>Reference</td><td>Book 23 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сулейман ибн ‘Амр передаёт от своего отца: «Я слышал, как Посланник Аллаха ﷺ сказал в прощальном хадже: “Поистине, всякое ростовщичество времён невежества отменено. Вам ваш основной капитал, и вы не должны притеснять, и вас не должны притеснять. И, поистине, возмездие за всякую кровь, пролитую во времена невежества, отменено, и первая кровь, возмездие за которую я отменяю, кровь аль-Хариса ибн ‘Абду-ль-Мутталиба, который находился на вскармливании у бану лейс и которого убило племя хузайль. О Аллах, донёс ли я?” Люди ответили: “Да”. Это повторилось трижды. Тогда (Посланник Аллаха ﷺ) трижды сказал: “О Аллах, засвидетельствуй!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3334</td></tr><tr><td>Arabic No</td><td>3334</td></tr><tr><td>Reference</td><td>Book 23 Hadith 9</td></tr></tbody></table></div>
 

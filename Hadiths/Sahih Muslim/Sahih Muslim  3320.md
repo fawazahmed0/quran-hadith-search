@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Sa'd reported that Sa'd rode to his castle in al-'Aqiq and found a slave
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Abdu bin Humaid] semuanya dari [Al 'Aqadi] - [Abdu] berkata- telah mengabarkan kepada kami [Abdul Malik bin Amru] telah menceritakan kepada kami [Abdullah bin Ja'far] dari [Isma'il bin Muhammad] dari [Amir bin Sa'dari] bahwa [Sa'd] naik kendaraan menuju tempatnya di Aqiq, lalu ia mendapati seorang budak yang sedang menebang pohon atau menjadikannya sebagai kayu bakar, maka ia pun segera merampasnya. Dan ketika Sa'd kembali, tuan budak itu pun datang dan meminta kepadanya agar ia sudi mengembalikan apa yang telah dirampasnya dari budak mereka. Maka Sa'd pun berkata, "Aku berlindung kepada Allah, untuk mengembalikan sesuatu yang Rasulullah shallallahu 'alaihi wasallam telah menugaskanku untuk mengambilnya." Ia pun enggan untuk mengembalikannya pada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>1364</td></tr><tr><td>Reference</td><td>Book 15 Hadith 524</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>1364</td></tr><tr><td>Reference</td><td>Book 15 Hadith 524</td></tr></tbody></table></div>
 

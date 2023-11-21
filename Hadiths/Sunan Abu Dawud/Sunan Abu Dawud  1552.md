@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbulYusr: The Messenger of Allah (ﷺ) used to supplicate: "O Allah, I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1552</td></tr><tr><td>Arabic No</td><td>1552</td></tr><tr><td>Reference</td><td>Book 8 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу аль-Ясара, что Посланник Аллаха ﷺ говорил, обращаясь к Аллаху с мольбой: «О Аллах, я ищу у Тебя защиты от разрушения и ищу у тебя защиты от падения и ищу у Тебя защиты от утопления, сгорания и старческой дряхлости. И я ищу у Тебя защиты от того, чтобы шайтан поверг меня перед смертью. И я ищу у Тебя защиты от того, чтобы умереть, отвернувшись на пути Твоём. И я ищу у Тебя защиты от того, чтобы умереть от ужаления»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1552</td></tr><tr><td>Arabic No</td><td>1552</td></tr><tr><td>Reference</td><td>Book 8 Hadith 137</td></tr></tbody></table></div>
 

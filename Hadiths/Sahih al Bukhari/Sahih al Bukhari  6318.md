@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:Fatima complained about the blisters on her hand because of using 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibnu Abu Laila] dari [Ali] bahwa Fatimah mengadukan kepada Nabi shallallahu 'alaihi wasallam perihal tangannya yang lecet akibat mengaduk gandum, maka Fatimah datang kepada beliau dan meminta seorang pelayan, tetapi dia tidak menemui beliau, lalu Fatimah menitipkan pesan kepada Aisyah. Ketika Nabi datang, Aisyah pun menyampaikan pesan kepada beliau. Ali melanjutkan; "Kemudian beliau datang kepada kami ketika kami tengah berbaring (di tempat tidur), maka akupun bangkit berdiri, namun beliau bersabda: 'Tetaplah pada tempat kalian berdua.' kemudian beliau duduk di samping kami sampai aku merasakan dinginnya kedua telapak kaki beliau, lalu beliau bersabda: 'Maukah aku tunjukkan kepada kalian sesuatu yang lebih baik bagi kalian berdua daripada seorang pelayan, apabila kalian berdua hendak tidur maka bertakbirlah kepada Allah sebanyak tiga puluh tiga kali, bertasbihlah sebanyak tiga puluh tiga kali dan bertahmidlah sebanyak tiga puluh empat, dan ini semua lebih baik buat kalian berdua dari seorang pelayan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6318</td></tr><tr><td>Arabic No</td><td>6318</td></tr><tr><td>Reference</td><td>Book 80 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Али (ибн Абу Талиба), что [когда-то] Фатима, да будет доволен ею Аллах, стала жаловаться на то, что из-за ручной мельницы у неё болит рука. И (через некоторое время) она пошла к Пророку ﷺ попросить его о служанке, но не застала его, и рассказала об этом ‘Аише. Когда Пророк ﷺ (вернулся домой), ‘Аиша рассказала ему (о том, что к ней приходила Фатима), и Пророк ﷺ пришёл к нам, когда мы уже лежали в своих постелях. Я хотел подняться, но он сказал: «Оставайся на своём месте», а сам сел между нами, и я даже ощутил прохладу его ступни [кожей] груди. Потом он сказал: «Не указать ли мне вам на что-то лучшее, чем слуга? Когда отправитесь ко сну или будете ложиться спать, произносите слова “Аллах велик” /Аллаху акбар/ по тридцать три раза, “Пречист Аллах” /субхана Ллахи/ по тридцать три раза и “хвала Аллаху” /аль-хамду ли-Лляхи/ — по тридцать три раза, и это будет для вас лучше, чем слуга».\nОт Шу‘бы (ибн аль-Хаджаджа) от Халид (аль-Хиза) от (Мухаммад) ибн Сирина, который сказал: «(Слова) “Пречист Аллах” (Субхана Ллахи) произносятся тридцать четыре раза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6318</td></tr><tr><td>Arabic No</td><td>6318</td></tr><tr><td>Reference</td><td>Book 80 Hadith 15</td></tr></tbody></table></div>
 

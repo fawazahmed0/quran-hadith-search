@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:When:"...and confuse not their belief with wrong." (6.82) was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Syu'bah] dari [Sulaiman] dari [Ibrahim] dari ['Alqamah] dari ['Abdullah radliallahu 'anhu] dia berkata; Tatkala turun ayat; "Orang-orang yang beriman dan tidak mencampur adukkan iman mereka dengan kezaliman… (Al An'am: 82). Para sahabat berkata; 'Mana ada di antara kita yang tidak pernah berbuat zhalim? lalu turunlah ayat: "sesungguhnya mempersekutukan (Allah) adalah benar-benar kezaliman yang besar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4629</td></tr><tr><td>Arabic No</td><td>4629</td></tr><tr><td>Reference</td><td>Book 65 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, сказал: «Когда был ниспослан (аят, в котором сказано): “… и не облекли свою веру в несправедливость…”, сподвижники Пророка ﷺ сказали: “А кто же из нас не поступал несправедливо?“ Тогда было ниспослано: “…поистине, многобожие является великой несправедливостью” (сура “Лукман”, аят 13)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4629</td></tr><tr><td>Arabic No</td><td>4629</td></tr><tr><td>Reference</td><td>Book 65 Hadith 151</td></tr></tbody></table></div>
 

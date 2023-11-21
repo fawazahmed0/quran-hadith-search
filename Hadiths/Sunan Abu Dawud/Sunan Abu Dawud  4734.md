@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) presented himself to t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Isra'il] berkata, telah menceritakan kepada kami [Utsman Ibnul Mughirah] dari [Salim] dari [Jabir bin Abdullah] ia berkata, "Pada suatu saat Rasulullah shallallahu 'alaihi wasallam pernah menawarkan dirinya kepada manusia di tempat pemberhentian, beliau bersabda: "Adakah seorang laki-laki yang mau membawaku kepada kaumnya, sesungguhnya orang-orang Quraisy telah melarang aku menyampaikan pesan Tuhanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4734</td></tr><tr><td>Arabic No</td><td>4734</td></tr><tr><td>Reference</td><td>Book 42 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ обращался к людям из разных племён в сезон хаджа со словами: «Найдётся ли человек, который отвезёт меня к своему народу? Поистине, курайшиты мешают мне доносить до людей речь моего Всемогущего и Великого Господа!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4734</td></tr><tr><td>Arabic No</td><td>4734</td></tr><tr><td>Reference</td><td>Book 42 Hadith 139</td></tr></tbody></table></div>
 

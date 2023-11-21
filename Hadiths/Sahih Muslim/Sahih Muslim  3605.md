@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama, the wife of Allah's Apostle (ﷺ), used to say that all wives of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdul Malik bin Syu'aib bin Al Laits] telah menceritakan kepadaku [ayahku] dari [kakekku] telah menceritakan kepadaku ['Uqail bin Khalid] dari [Ibnu Syihab] bahwa dia berkata; Telah mengabarkan kepadaku [Abu 'Ubaidah bin Abdullah bin Zam'ah] bahwa [ibunya yaitu Zainab binti Abu Salamah] telah mengabarkan kepadanya, bahwa [ibunya yaitu Ummu Salamah] istri Nabi shallallahu 'alaihi wasallam berkata; Para istri Nabi shallallahu 'alaihi wasallam enggan memberi kebebasan masuk rumah mereka bagi anak-anak yang telah dijadikan mahram karena susuan. Dan kami berkata kepada Aisyah; Demi Allah kami tidak melihat hal ini kecuali hanya sekedar keringanan yang diberikan oleh Rasulullah shallallahu 'alaihi wasallam khusus untuk Salim, oleh karena itu, tidak ada seorang pun yang mahram kerena susuan yang boleh masuk ke rumah kami dan melihat kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3605</td></tr><tr><td>Arabic No</td><td>1454</td></tr><tr><td>Reference</td><td>Book 17 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3605</td></tr><tr><td>Arabic No</td><td>1454</td></tr><tr><td>Reference</td><td>Book 17 Hadith 38</td></tr></tbody></table></div>
 

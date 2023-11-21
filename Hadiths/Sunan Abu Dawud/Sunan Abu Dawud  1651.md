@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said :The Messenger of Allah (May peace be upon him) came upon a date on th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musa bin Isma'il], serta [Muslim bin Ibrahim] secara makna, mereka berkata; telah menceritakan kepada Kami [Hammad] dari [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam pernah melewati sebuah kurma yang terjatuh, dan tidak ada yang menghalangi beliau untuk mengambilnya kecuali khawatir merupakan kurma zakat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>1651</td></tr><tr><td>Reference</td><td>Book 9 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса (ибн Малика), да будет доволен им Аллах, что, когда Пророку ﷺ случалось проходить мимо упавшего откуда-то финика, ему мешало подобрать его лишь опасение, что этот финик может быть частью пожертвований
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>1651</td></tr><tr><td>Reference</td><td>Book 9 Hadith 96</td></tr></tbody></table></div>
 

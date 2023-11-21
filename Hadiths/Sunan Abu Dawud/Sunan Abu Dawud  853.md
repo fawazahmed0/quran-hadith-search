@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik said:I did not offer prayer behind anyone more brief than the one 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Tsabit] dan [Humaid] dari [Anas bin Malik] dia berkata; "Aku tidak pernah shalat di belakang seseorang yang paling singkat dan paling sempurna shalatnya daripada shalatnya Rasulullah shallallahu 'alaihi wasallam, apabila Rasulullah shallallahu 'alaihi wasallam mengucapkan; "Sami'allahu liman hamidah" beliau berdiri (agak lama) sampai kami menyangka beliau lupa, kemudian beliau bertakbir dan sujud, beliau duduk di antara dua sujud sehingga kami menyangka bahwa beliau lupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (473)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>853</td></tr><tr><td>Arabic No</td><td>853</td></tr><tr><td>Reference</td><td>Book 2 Hadith 463</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах: «Я никогда не совершал молитву под руководством человека, молитва которого была бы более краткой и при этом более совершенной, чем молитва Посланника Аллаха ﷺ. Сказав: “Да услышит Аллах того, кто восхваляет Его”, он (поднимался) и стоял так долго, что нам начинало казаться, что он сбился в молитве. Затем он произносил такбир и совершал земной поклон, после чего сидел между двумя земными поклонами, так что нам начинало казаться, что он сбился в молитве»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (473)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>853</td></tr><tr><td>Arabic No</td><td>853</td></tr><tr><td>Reference</td><td>Book 2 Hadith 463</td></tr></tbody></table></div>
 

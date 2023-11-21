@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said “Mughith was a slave.” He said “Apostle of Allaah (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Khalid Al Hadzdza'] dari [Ikrimah] dari [Ibnu Abbas] bahwa Mughits adalah seorang budak, kemudian ia berkata; wahai Rasulullah, bantulah aku berbicara kepadanya! Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Wahai Barirah, bertakwalah kepada Allah! Sesungguhnya ia adalah suamimu, dan ayah anakmu." Barirah berkata; wahai Rasulullah, apakah engkau memerintahkanku untuk melakukan hal tersebut? Beliau berkata: "Tidak, sesungguhnya aku adalah perantara." Sementara air mata Mughits mengalir ke pipinya. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepada Ibnu Abbas: "Tidakkah engkau kagum kepada kecintaan Mughits kepada Barirah, dan kebencian Barirah kepadanya?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5283)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>2231</td></tr><tr><td>Reference</td><td>Book 13 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Мугис был рабом и сказал: «О Посланник Аллаха! Походатайствуй за меня перед ней!» Посланник Аллаха ﷺ сказал: «О Барира! Побойся Аллаха! Он твой муж и отец твоих детей!» Она спросила: «О Посланник Аллаха, ты приказываешь мне (остаться с ним)?» Он ответил: «Нет, я только ходатайствую». А по щекам Мугиса текли слёзы, и Посланник Аллаха ﷺ сказал аль-‘Аббасу: «Разве тебя не удивляет любовь Мугиса к Барире и её отвращение к нему?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5283)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>2231</td></tr><tr><td>Reference</td><td>Book 13 Hadith 57</td></tr></tbody></table></div>
 

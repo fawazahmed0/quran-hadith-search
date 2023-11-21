@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Le récit de Abou Barza (que Dieu l'agrée) : Sayâr Ibn Salâma dit : J'ai ente
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Habib Al Haritsi] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku [Sayyar bin Salamah] katanya; aku mendengar Ayahku bertanya [Abu Barzah] tentang shalat Rasulullah shallallahu 'alaihi wasallam, Sayyar menjawab, aku pernah bertanya kepada ayahku; 'Apakah engkau mendengarnya dari Abu Barzah? Ayahku menjawab; "Seperti aku memperdengarkan kepadamu saat ini." Kata Sayyar; aku dengar ayahku bertanya kepada Abu Barzah tentang shalat Rasulullah shallallahu 'alaihi wasallam. Kata ayahku; Rasulullah tidak mempedulikan, sebagian beliau akhirkan, kata ayahku, yakni shalat isya' hingga pertengahan malam, dan beliau tidak suka tidur sebelum isya', tidak suka bicara setelah isya'." Kata Syu'bah; Kemudian aku menanyainya dan ia berkata; "Rasulullah shallallahu 'alaihi wasallam menyukai zhuhur ketika matahari tergelincir dan ashar ketika seseorang pergi ke penghujung Madinah dan matahari masih meninggi." Syu'bah melanjutkan; "Dan waktu shalat maghrib, aku tidak mengetahuinya, bagaimana ia menyebutkan, setelah itu aku menemui Abu Barzah dan bertanya kepadanya, dia menjawab; "Dan beliau melaksanakan shalat shubuh dan beranjak pergi ketika seseorang mengenal wajah teman duduknya, dan beliau membaca enam puluh sampai seratus ayat (dalam shalat shubuh)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1462</td></tr><tr><td>Arabic No</td><td>647.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 295</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саййар ибн Саляма сказал: «Я слышал, как мой отец спросил Абу Барзу о молитве Посланника Аллаха ﷺ, и тот сказал: “Он мог откладывать вечернюю молитву /‘иша/ до полуночи и не любил спать до неё, и разговаривать после неё. И он совершал полуденную молитву когда солнце уже отклонялось (от точки зенита); послеполуденную (по прошествии такого времени, которое требовалось) человеку, чтобы успеть дойти до окраины Медины, когда солнце ещё было ярким”». (Саййар ибн Саляма) сказал: «И я забыл, что (Абу Барза) сказал относительно закатной молитвы». Затем он сказал: « А когда он (Пророк ﷺ) совершал утреннюю молитву, то закончив её, человек мог разглядеть (лицо) сидящего рядом, которого он знал и узнавал его. И (во время этой молитвы) он прочитывал от шестидесяти до ста аятов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1462</td></tr><tr><td>Arabic No</td><td>647.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 295</td></tr></tbody></table></div>
 

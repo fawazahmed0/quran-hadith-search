@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hakim bin Hizam:That he said, "O Allah's Messenger (ﷺ)! What do you t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku ['Urwah bin Zubair] bahwa [Hakim bin Hizam] telah mengabarkan kepadanya bahwa dia berkata; "Wahai Rasulullah, bagaimana pendapat anda tentang perkara-perkara kebaikan yang pernah saya lakukan pada masa Jahiliyyah seperti menyambung tali kekerabatan, memerdekakan budak dan sedekah, apakah saya mendapatkan pahala darinya? Hakim berkata; Rasulullah Shallallahu'alaihiwasallam bersabda: "Setelah kamu masuk Islam, kamu akan mendapatkan pahala atas kebaikan yang pernah kamu lakukan." Dan dikatakan pula dari Abu Al Yaman dengan redaksi "Atahannatsu (telah aku kerjakan), begitu juga [Ma'mar], [Shalih] dan [Ibnu Musafir] menggunakan redaksi "atahannatsu (telah aku kerjakan)." Ibnu Ishaq mengatakan; "at tahannatsu wat tabarraru (telah aku kerjakan dan berbuat baik)." Hal ini diperkuat juga oleh [Hisyam] dari [Ayahnya]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5992</td></tr><tr><td>Arabic No</td><td>5992</td></tr><tr><td>Reference</td><td>Book 78 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаким ибн Хизам сказал: «О Посланник Аллаха, скажи, полагается ли мне награда за такие благочестивые дела как поддержание родственных связей, освобождение рабов и милостыня, которыми я занимался во времена джахилиййи?» Посланник Аллаха ﷺ сказал: «Ты принял ислам вместе со (всеми) благими делами, совершёнными тобой прежде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5992</td></tr><tr><td>Arabic No</td><td>5992</td></tr><tr><td>Reference</td><td>Book 78 Hadith 23</td></tr></tbody></table></div>
 

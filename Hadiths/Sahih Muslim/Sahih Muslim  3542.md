@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri (Allah he pleased with him) reported that Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Marwan bin Mu'awiyah] dari [Umar bin Hamzah Al 'Amari] telah menceritakan kepada kami [Abdurrahman bin Sa'd] dia berkata; Saya mendengar [Abu Sa'id Al Khudri] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya manusia yang paling jelek kedudukannya di sisi Allah pada Hari Kiamat ialah seseorang yang menyetubuhi istrinya dan istri bersetubuh dengan suaminya, kemudian suami menyebarkan rahasia istrinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3542</td></tr><tr><td>Arabic No</td><td>1437.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 144</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Абу Са‘ид аль-Худри (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Поистине, в День воскрешения среди людей, которые окажутся в наихудшем положении пред Аллахом, будет (такой) мужчина, который проводит ночь со (своей) женой, а потом разглашающий её тайну”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3542</td></tr><tr><td>Arabic No</td><td>1437.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 144</td></tr></tbody></table></div>
 

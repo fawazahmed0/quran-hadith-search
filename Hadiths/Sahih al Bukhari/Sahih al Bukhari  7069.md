@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:(the wife of the Prophet) Allah's Messenger (ﷺ) woke up one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] -lewat jalur periwayatan lain- Dan Telah menceritakan kepada kami [Ismail] telah menceritakan kepadaku [Saudaraku] dari [Sulaiman bin Bilal] dari [Muhammad bin Abi 'Utaiq] dari [Ibnu Syihab] dari [Hindun binti Al Harits Al Firasiyyah], bahwasanya [Ummu Salamah isteri Nabi] shallallahu 'alaihi wasallam mengatakan; Suatu malam Rasulullah bangun dengan agak gusar dan mengucapkan: "Subhanallah, perbendaharaan apa lagi yang Allah turunkan? dan fitnah apa lagi yang Allah turunkan? Siapa yang mau membangunkan penghuni kamar-kamar (maksudnya isterinya) untuk shalat? Betapa banyak orang berpakaian di dunia namun di akherat telanjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7069</td></tr><tr><td>Arabic No</td><td>7069</td></tr><tr><td>Reference</td><td>Book 92 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм Саляма, да будет доволен ею Аллах, жена Пророка ﷺ сказала: «Однажды ночью Посланник Аллаха ﷺ проснулся охваченный страхом и воскликнул: “Преславен Аллах! /Cубхана-Ллах!/ Какие сокровищницы ниспослал Аллах и какие бедствия были ниспосланы! Кто разбудит обитательниц комнат, (имея в виду его жён,) чтобы они совершили молитву? Ведь может получиться так, что одетая в мире этом окажется обнажённой в мире ином!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7069</td></tr><tr><td>Arabic No</td><td>7069</td></tr><tr><td>Reference</td><td>Book 92 Hadith 20</td></tr></tbody></table></div>
 

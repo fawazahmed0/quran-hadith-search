@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It Is narrated on the authority of Abdullah b. Mas'ud that the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Muhammad bin Basysyar] serta [Ibrahim bin Dinar] semuanya dari [Yahya bin Hammad], [Ibnu al-Mutsanna] berkata, telah menceritakan kepada kami [Yahya bin Hammad] telah mengabarkan kepada kami [Syu'bah] dari [Aban bin Taghlib] dari [Fudlail al-Fuqaimi] dari [Ibrahim an-Nakha'i] dari [Alqamah] dari [Abdullah bin Mas'ud] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak akan masuk surga, orang yang di dalam hatinya terdapat seberat biji sawi dari kesombongan." Seorang laki-laki bertanya, "Sesungguhnya laki-laki menyukai apabila baju dan sandalnya bagus (apakah ini termasuk kesombongan)?" Beliau menjawab: "Sesungguhnya Allah itu bagus menyukai yang bagus, kesombongan itu menolak kebenaran dan meremehkan manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>265</td></tr><tr><td>Arabic No</td><td>91.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн Мас‘уда (да будет доволен им Аллах) о том, что Пророк ﷺ сказал: «Не войдёт в Рай (тот человек), в сердце которого (останется) высокомерие (весом хотя бы) с пылинку». (Услышав это, один) человек воскликнул: «Но ведь человеку хочется, чтобы его одежда и обувь были красивыми!» (На это Пророк ﷺ) сказал: «Поистине, Аллах прекрасен, и Он любит прекрасное, (что же касается) высокомерия, то это неприятие истины и проявление презрения по отношению к людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>265</td></tr><tr><td>Arabic No</td><td>91.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
 

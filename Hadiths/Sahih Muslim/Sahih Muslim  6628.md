@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported:I was playing with children that Allah's Messenger (ﷺ) happ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna Al 'Anazii]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Basysyar] dan lafazh ini milik Ibnu Al Mutsanna dia berkata; Telah menceritakan kepada kami [Umayyah bin Khalid]; Telah menceritakan kepada kami [Syu'bah] dari [Abu Hamzah Al Qashshab] dari [Ibnu 'Abbas] dia berkata; "Pada suatu ketika, saya sedang bermain bersama anak-anak. Tiba-tiba Rasulullah shallallahu 'alaihi wasallam datang dan saya langsung bersembunyi di balik pintu. Kemudian beliau mendekat seraya menepuk pundak saya dari belakang dan berkata: 'Hai Abdullah, pergi dan panggil Mu'awiyah kemari! ' lbnu Abbas berkata; 'Tak lama kemudian saya datang untuk menemui beliau sambil berkata; 'Ya Rasulullah, Mu'awiyah sedang makan.' Setelah itu, Rasulullah menyuruh saya kembali sambil berkata: 'Pergi dan panggil Mu'awiyah untuk datang kemari! ' Ibnu Abbas berkata; 'Kemudian saya datang menemui Rasulullah dan berkata: 'Ya Rasulullah, Mua'wiyah sedang makan.' Lalu Rasulullah berkata: 'Semoga Allah tidak mengenyangkan perutnya.' lbnu Mutsanna berkata; 'Saya bertanya kepada Umayyah; 'Apa yang dimaksud dengan menepuk dari belakang? ' Umayyah menjawab; 'Menepuk pada bagian tengkuk dengan satu tepukan.' Telah menceritakan kepadaku [Ishaq bin Manshur]; Telah mengabarkan kepada kami [An Nadhr bin Syumail]; Telah menceritakan kepada kami [Syu'bah]; Telah mengabarkan kepada kami [Abu Hamzah] Aku mendengar [Ibnu 'Abbas] berkata; Pada suatu ketika, saya sedang bermain bersama anak-anak. Tiba-tiba Rasulullah shallallahu 'alaihi wasallam datang dan saya langsung bersembunyi. -sebagaimana Hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6628</td></tr><tr><td>Arabic No</td><td>2604.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 125</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6628</td></tr><tr><td>Arabic No</td><td>2604.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 125</td></tr></tbody></table></div>
 

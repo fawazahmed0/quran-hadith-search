@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Nubaih bin Wahb said ‘Umar bin ‘Ubaid Allah bin Ma’mar had a complaint in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Sufyan] dari [Ayyub bin Musa] dari [Nubaih bin Wahb], ia berkata; Umar bin 'Ubaidullah bin Ma'mar merasakan sakit kedua matanya, kemudian ia mengirim utusan kepada [Aban bin Utsman]. -Sufyan berkata; ia adalah pemimpin haji- Umar bertanya apa yang harus ia lakukan terhadap kedua mata tersebut? Aban berkata; balutlah keduanya menggunakan shabir (suatu bahan yang rasanya pahit) karena aku mendengar [Utsman] radliallahu 'anhu menceritakan hal tersebut dari Rasulullah shallla Allahu 'alaihi wa sallam. Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Ismail bin Ibrahim bin 'Ulayyah] dari [Ayyub] dari [Nafi'] dari [Nubaih bin Wahb] dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1204)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1838</td></tr><tr><td>Arabic No</td><td>1838</td></tr><tr><td>Reference</td><td>Book 11 Hadith 118</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Нубайх ибн Вахб сказал: «У ‘Умара ибн ‘Убайдуллаха ибн Ма‘мара заболели глаза, и он послал к Абану ибн ‘Усману. А он был предводителем в хадже. Он спросил, что ему делать с ними, и тот сказал: “Пусть наложит на глаза алоэ. Я слышал, как ‘Усман, да будет доволен им Аллах, говорил об этом со слов Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1204)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1838</td></tr><tr><td>Arabic No</td><td>1838</td></tr><tr><td>Reference</td><td>Book 11 Hadith 118</td></tr></tbody></table></div>
 

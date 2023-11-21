@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir reported that Muslims are like one body of a person; if the eye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin 'Abdullah bin Numair]; Telah menceritakan kepada kami [Humaid bin 'Abdur Rahman] dari [Al A'masy] dari [Khaitsamah] dari [An Nu'man bin Bisyir] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: bersabda: "Orang-orang muslim itu, bagaikan seorang laki-laki, apabila matanya sakit, maka sakitlah seluruh tubuhnya. Dan apabila kepalanya yang sakit, maka sakit pulalah seluruhnya." Telah menceritakan kepada kami [Humaid bin 'Abdur Rahman] dari [Al A'masy] dari [Asy Sya'bi] dari [An Nu'man bin Bisyir] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6589</td></tr><tr><td>Arabic No</td><td>2586.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6589</td></tr><tr><td>Arabic No</td><td>2586.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 87</td></tr></tbody></table></div>
 

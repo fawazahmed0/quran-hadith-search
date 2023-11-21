@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir b. ‘Abd Allah reported the Prophet (May peace be upon him) as saying :I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hafsh bin Abdullah] ia berkata; telah menceritakan kepadaku [Bapakku] ia berkata; telah menceritakan kepadaku [Ibrahim bin Thahman] dari [Musa bin Uqbah] dari [Muhammad Ibnul Munkadir] dari [Jabir bin Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Aku telah diberi izin untuk menceritakan tentang sesosok malaikat dari malaikat Allah yang bertugas membawa Arsy. Sesungguhnya, jarak antara ujung telinga dengan bahunya adalah perjalanan tujuh ratus tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4727</td></tr><tr><td>Arabic No</td><td>4727</td></tr><tr><td>Reference</td><td>Book 42 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Мне было дозволено поведать вам об ангеле из числа носителей Трона. Поистине, от мочки его уха до его плеча расстояние в семьсот лет пути (на хорошем скакуне)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4727</td></tr><tr><td>Arabic No</td><td>4727</td></tr><tr><td>Reference</td><td>Book 42 Hadith 132</td></tr></tbody></table></div>
 

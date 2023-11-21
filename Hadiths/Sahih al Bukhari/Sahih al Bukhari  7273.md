@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Musaiyab:Abu Huraira said that Allah's Messenger (ﷺ) sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul 'Aziz bin Abdullah] telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Ibn Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] radliallahu 'anhu, Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku diutus dengan kalimat singkat yang padat makna, dan aku ditolong dengan rasa takut yang dihunjamkan dalam dada musuh-musuhku, dan ketika aku tidur, aku bermimpi diberi kunci-kunci perbendaharaan bumi lantas diletakkan di tanganku, " Abu Hurairah berkata, 'Rasulullah shallallahu 'alaihi wasallam pergi (wafat) sedang kalian telah menikmati limpahan kekayaan itu -atau menghisap perbendaharaan bumi itu-atau kalimat-kalimat yang semisal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7273</td></tr><tr><td>Arabic No</td><td>7273</td></tr><tr><td>Reference</td><td>Book 96 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Я был послан с краткими и многозначными словами /джавами‘ аль-кялим/, мне была оказана помощь страхом, а когда я спал, я увидел во сне, что мне были дарованы ключи от сокровищниц земли и положили их мне в руку». Абу Хурайра сказал: «И Посланник Аллаха ﷺ скончался, а вы пользуетесь этими сокровищами» или он произнёс слово подобное этому
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7273</td></tr><tr><td>Arabic No</td><td>7273</td></tr><tr><td>Reference</td><td>Book 96 Hadith 6</td></tr></tbody></table></div>
 

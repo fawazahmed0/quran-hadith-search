@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nu'man bin Bashir:The Prophet (ﷺ) said, "The example of the person
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Zakariyya'] berkata, aku mendengar ['Amir] berkata, aku mendengar [An-Nu'man bin Basyir radliallahu 'anhuma] dari Nabi shallallahu 'alaihi wasallam bersabda: "Perumpamaan orang yang menegakkan hukum Allah dan orang yang diam terhadapnya seperti sekelompok orang yang berlayar dengan sebuah kapal lalu sebagian dari mereka ada yang mendapat tempat di atas dan sebagian lagi di bagian bawah perahu. Lalu orang yang berada di bawah perahu bila mereka mencari air untuk minum mereka harus melewati orang-orang yang berada di bagian atas seraya berkata; "Seandainya boleh kami lubangi saja perahu ini untuk mendapatkan bagian kami sehingga kami tidak mengganggu orang yang berada di atas kami". Bila orang yang berada di atas membiarkan saja apa yang diinginkan orang-orang yang di bawah itu maka mereka akan binasa semuanya. Namun bila mereka mencegah dengan tangan mereka maka mereka akan selamat semuanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2493</td></tr><tr><td>Arabic No</td><td>2493</td></tr><tr><td>Reference</td><td>Book 47 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ан-Ну‘мана бин Башира, да будет доволен Аллах ими обоими, о том, что Пророк ﷺ сказал: «Пекущихся о нерушимости границ Аллаха и преступающих эти границы можно уподобить людям, тянувшим жребий по стрелам, чтобы (занять места) на корабле, в результате чего одни разместились в верхней части (корабля), а другие — в нижней. Когда оказавшиеся внизу хотели зачерпнуть воды, им (приходилось) проходить через разместившихся на палубе, и (в конце концов) они сказали: “А не проделать ли нам дыру (в днище, чтобы набирать воду через неё), не беспокоя тех, кто находится наверху?” И если они предоставят их самим себе и тому, что они хотят сделать, то погибнут все, если же они схватят их за руки, то спасутся сами и спасут всех (остальных)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2493</td></tr><tr><td>Arabic No</td><td>2493</td></tr><tr><td>Reference</td><td>Book 47 Hadith 11</td></tr></tbody></table></div>
 

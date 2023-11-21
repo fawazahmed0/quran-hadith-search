@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated through some other chains of transmitters but with
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Aku membaca Hadits [Malik] dari [Ibnu Syihab] dari ['Urwah] dari ['Aisyah] bahwa Nabi shallallahu 'alaihi wasallam apabila beliau sakit, beliau baca untuk dirinya sendiri surat mu'awwidzaat, kemudian beliau tiupkan. Tatkala sakit beliau bertambah keras, kubacakan surat-surat itu atasnya, kemudian kusapukan dengan tangannya sambil mengharapkan barakah daripadanya." Dan telah menceritakan kepadaku [Abu Ath Thahir] dan [Harmalah] keduanya berkata; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Ma'mar]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Muhammad bin 'Abdullah bin Numair]; Telah menceritakan kepada kami [Rauh]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Uqbah bin Mukram] dan [Ahmad bin 'Utsman An Naufali] keduanya berkata; Telah menceritakan kepada kami [Abu 'Ashim] keduanya dari [Ibnu Juraij]; Telah mengabarkan kepadaku [Ziyad] seluruhnya dari [Ibnu Syihab] melalui jalur Malik seperti Haditsnya namun di dalam Hadits mereka tidak di sebutkan 'karena mengharap barakah darinya.' Kecuali hanya pada Hadits Malik saja. Dan di dalam Hadits Yunus dan Ziyad di sebutkan bahwa Nabi shallallahu 'alaihi wasallam apabila beliau sakit beliau meniupkan untuk dirinya dengan surat al mu'awwidzat seraya mengusapkan padanya dengan tangan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5716</td></tr><tr><td>Arabic No</td><td>2192.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5716</td></tr><tr><td>Arabic No</td><td>2192.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 70</td></tr></tbody></table></div>
 

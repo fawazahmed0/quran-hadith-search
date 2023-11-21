@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Umar:The Messenger of Allah (ﷺ) as saying: Gold for gold is interest
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi], dari [Malik], dari [Ibnu Syihab], dari [Malik bin Aus] dari [Umar] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Emas ditukar dengan perak adalah riba, kecuali diserahkan secara tunai, gandum ditukar dengan gandum adalah riba kecuali diserahkan secara tunai, kurma ditukar dengan kurma adalah riba kecuali diserahkan secara tubai, jewawut ditukar dengan jewawut adalah riba kecuali diserahkan secara tunai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2174) Sahih Muslim (1586)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3348</td></tr><tr><td>Arabic No</td><td>3348</td></tr><tr><td>Reference</td><td>Book 23 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Умара, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Менять золото на серебро ростовщичество /риба/, за исключением тех случаев, когда (количества равны и) передача происходит из рук в руки, и менять пшеницу на пшеницу ростовщичество, за исключением тех случаев, когда (количества равны и) передача происходит из рук в руки, и менять финики на финики ростовщичество, за исключением тех случаев, когда (количества равны и) передача происходит из рук в руки, и менять ячмень на ячмень ростовщичество, за исключением тех случаев, когда (количества равны и) передача происходит из рук в руки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2174) Sahih Muslim (1586)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3348</td></tr><tr><td>Arabic No</td><td>3348</td></tr><tr><td>Reference</td><td>Book 23 Hadith 23</td></tr></tbody></table></div>
 

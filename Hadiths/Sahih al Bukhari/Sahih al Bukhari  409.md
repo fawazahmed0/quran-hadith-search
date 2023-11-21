@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Abu Sa'id:Allah's Messenger (ﷺ) saw some expectoratio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah mengabarkan kepada kami [Ibrahim bin Sa'd] telah mengabarkan kepada kami [Ibnu Syihab] dari [Humaid bin 'Abdurrahman] bahwa [Abu Hurairah] dan [Abu Sa'id] keduanya menceritakan, bahwa Rasulullah shallallahu 'alaihi wasallam melihat ludah pada dinding masjid, beliau lalu mengambil batu kerikil kemudian menggosoknya. Setelah itu beliau bersabda: "Jika salah seorang dari kalian meludah maka janganlah ia membuangnya ke arah depan atau sebelah kanannya, tetapi hendaklah ia lakukan ke arah kirinya atau di bawah kaki (kirinya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>409</td></tr><tr><td>Arabic No</td><td>409</td></tr><tr><td>Reference</td><td>Book 8 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хумайда ибн ‘Абду-р-Рахмана о том, что Абу Хурайра и Абу Са‘ид аль-Худри, да будет доволен Аллах ими обоими, рассказывали ему, что однажды Посланник Аллаха ﷺ увидевший на стене мечети плевок, взял камешек, соскоблил его и сказал: «Если кто-нибудь из вас (захочет) сплюнуть, пусть ни в коем случае не плюет ни перед собой, ни направо, а только налево или под левую ногу!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>409</td></tr><tr><td>Arabic No</td><td>409</td></tr><tr><td>Reference</td><td>Book 8 Hadith 60</td></tr></tbody></table></div>
 

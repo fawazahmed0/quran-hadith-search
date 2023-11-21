@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported Allah's Messenger (ﷺ) as saying:Witr is a rak'ah at the end
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farukh] telah menceritakan kepada kami [Abdul Warits] dari [Abu Tayyah] katanya; telah menceritakan kepadaku [Abu Mijlaz] dari [Ibnu Umar] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: " Witir adalah satu rakaat yang dilakukan di akhir malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1757</td></tr><tr><td>Arabic No</td><td>752.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Витр является (молитвой) в один рак‘ат, совершаемой в конце ночи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1757</td></tr><tr><td>Arabic No</td><td>752.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 186</td></tr></tbody></table></div>
 

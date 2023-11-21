@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara bin 'Azib:Allah's Messenger (ﷺ) said to me, "When you want to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mu'tamir] dia berkata; saya mendengar [Manshur] dari [Sa'd bin Ubaidah] dia berkata; telah menceritakan kepadaku [Al Barra' bin 'Azib] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Apabila kamu hendak tidur, maka berwudlulah sebagaimana kamu berwudlu untuk shalat. Setelah itu berbaringlah dengan miring ke kanan, dan ucapkanlah: 'ALLAHUMMA ASLAMTU NAFSI ILAIKA WAFAWADLTU AMRII ILAIKA WA ALJA'TU ZHAHRI ILAIKA RAHBATAN WA RAGHBATAN ILAIKA LAA MALJA'A WALAA MANJAA MINKA ILLA ILAIKA AMANTU BIKITAABIKA ALLADZII ANZALTA WA BINABIYYIKA ALLADZII ARSALTA (Ya AIlah ya Tuhanku, aku berserah diri kepada-Mu, aku serahkan urusanku kepada-Mu dan aku berlindung kepada-Mu dalam keadaan harap dan cemas, karena tidak ada tempat berlindung dan tempat yang aman dari adzab-Mu kecuali dengan berlindung kepada-Mu. Aku beriman kepada kitab-Mu yang telah Engkau turunkan dan aku beriman kepada Nabi-Mu yang telah Engkau utus).' Apabila kamu meninggal (pada malam itu) maka kamu mati dalam keadaan fitrah (suci). Dan jadikan bacaan tersebut sebagai penutup ucapanmu (menjelang tidur).' Maka aku berkata; 'Apakah saya menyebutkan; 'Saya beriman kepada Rasul-Mu yang telah Engkau utus? ' Beliau menjawab: 'Tidak, namun saya beriman kepada Nabi-Mu yang telah Engkau utus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6311</td></tr><tr><td>Arabic No</td><td>6311</td></tr><tr><td>Reference</td><td>Book 80 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Бара ибн ‘Азиб, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ сказал мне: “Когда (захочешь) лечь в постель, соверши такое же омовение, какое совершаешь ты перед молитвой, а потом ляг на правый бок и скажи: “О Аллах, я предался Тебе, и вручил Тебе дело своё и на Тебя положился по желанию своему и из страха перед Тобой. Нет убежища и нет спасения от Тебя, кроме (обращения) к Тебе! Я уверовал в Твоё Писание, которое Ты ниспослал, и в Твоего пророка, которого Ты послал”.\n/Аллахумма, аслямту нафси иляй-кя, ва фаввадту амри иляй-кя ва альджа'ту захри иляй-кя рагбатан ва рахбатан иляй-кя. Ля мальджа'а ва ля манджа мин-кя илля иляй-кя! Аллахумма, аманту би-китаби-кя аллязи анзальта ва би-набиййи-кя аллязи арсальта/.\nИ если (после этого) ты умрёшь (этой ночью), то умрёшь в присущем тебе от рождения состоянии, а (поэтому пусть эти слова будут) последним, что скажешь ты (в этот день)».\nАль-Бара сказал: «И я попытался повторить их, чтобы запомнить их, но сказал я так: «…Уверовал я в Твоего посланника (би-расули-ка), которого Ты послал». (Однако Пророк ﷺ) поправил: «Нет, (скажи:) “Уверовал я в Твоего пророка (би-набиййи-кя), которого Ты послал”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6311</td></tr><tr><td>Arabic No</td><td>6311</td></tr><tr><td>Reference</td><td>Book 80 Hadith 8</td></tr></tbody></table></div>
 

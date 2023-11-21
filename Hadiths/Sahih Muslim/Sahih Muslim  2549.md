@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:Take
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, telah mengabarkan kepada kami [Husyaim] dari [Abdul Aziz bin Shuhaib] dari [Anas] -dalam jalur lain- Dan Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dari [Ibnu Ulayyah] dari [Abdul Aziz] dari [Anas] radliallahu 'anhu -dalam jalur lain- Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dan [Abdul Aziz bin Shuhaib] dari [Anas] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Makan sahurlah kalian, karena (makan) di waktu sahur itu mengandung barakah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>1095</td></tr><tr><td>Reference</td><td>Book 13 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>1095</td></tr><tr><td>Reference</td><td>Book 13 Hadith 55</td></tr></tbody></table></div>
 

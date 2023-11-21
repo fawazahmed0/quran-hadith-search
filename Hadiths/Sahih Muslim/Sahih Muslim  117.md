@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ There is another hadith narrated on the authority of Ibn Abbas (the contents of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>17.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Аббаса, что Пророк ﷺ сказал: «И я запрещаю вам пить набиз, изготовленный в дуббе, накыре, хантаме и музаффате».Ибн Му’аз добавил в хадисе, который передал от своего отца, что Посланник Аллаха ﷺ сказал Ашаджжу ‘Абдулькайсу: «Поистине, присущи тебе два качества, которые любит Аллах: кротость (благоразумие) и степенность»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>17.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 25</td></tr></tbody></table></div>
 

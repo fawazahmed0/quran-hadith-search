@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:The Prophet (ﷺ) said, "The rewards (of deeds) ar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] Telah menceritakan kepada kami [Malik] dari [Yahya bin Sa'id] dari [Muhammad bin Ibrahim bin Al Harits] dari ['Alqamah bin Waqash] dari [Umar bin Al Khaththab] radliallahu 'anhu ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya setiap amal itu tergantung pada niatnya. Dan bagi seseorang adalah apa yang ia niatkan. Barangsiapa yang hijrahnya kepada Allah dan Rasul-Nya, maka hijrahnya itu kepada Allah dan Rasul-Nya, dan barangsiapa yang hijrahnya lantaran dunia yang hendak ia kejar atau wanita yang ingin dinikahinya, maka hijrahnya itu adalah sekedar kepada apa yang ia inginkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5070</td></tr><tr><td>Arabic No</td><td>5070</td></tr><tr><td>Reference</td><td>Book 67 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что повелитель правоверных Абу Хафс ‘Умар бин аль-Хаттаб, да будет доволен им Аллах, сказал: «Пророк ﷺ сказал: “Поистине, дело (оценивается) только по намерению и, поистине, человеку (достанется) только то, что он намеревался (обрести). Так, совершивший переселение к Аллаху и посланнику Его переселится к Аллаху и посланнику Его, а переселявшийся ради чего-нибудь мирского или ради женщины, на которой он хотел жениться, переселится (лишь) к тому, к чему он переселялся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5070</td></tr><tr><td>Arabic No</td><td>5070</td></tr><tr><td>Reference</td><td>Book 67 Hadith 8</td></tr></tbody></table></div>
 

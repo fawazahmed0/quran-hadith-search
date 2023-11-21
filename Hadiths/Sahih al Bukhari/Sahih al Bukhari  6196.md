@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah Al-Ansari:Allah's Messenger (ﷺ) said, "Name yours
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Hushain bin Abdurrahman] dari [Salim bin Abu Al Ja'd] dari [Jabir bin Abdullah Al Anshari] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Namailah dengan namaku dan janganlah kalian memberikan julukan dengan julukanku, sesungguhnya aku adalah Qasim, yang akan membagi-bagikan (rahmat Allah) di antara kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6196</td></tr><tr><td>Arabic No</td><td>6196</td></tr><tr><td>Reference</td><td>Book 78 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джабира ибн ‘Абдуллаха аль-Ансари, что Посланник Аллаха ﷺ сказал: «Можете называть (детей) моим именем, но не пользуйтесь моей куньей, ибо только я являюсь къасимом (распределяющий), который распределяет между вами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6196</td></tr><tr><td>Arabic No</td><td>6196</td></tr><tr><td>Reference</td><td>Book 78 Hadith 220</td></tr></tbody></table></div>
 

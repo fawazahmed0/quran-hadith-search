@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "Inform me of a tree which rese
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Beritahukanlah kepadaku suatu pohon yang perumpamaannya mirip seorang muslim, berbuah setiap saat dengan izin pemiliknya dan daunnya pun tidak pernah berguguran." Hatiku mengatakan bahwa pohon itu adalah pohon kurma, namun aku tidak berani mengatakannya apalagi disana terdapat Abu Bakr dan Umar, ketika keduanya tidak angkat bicara, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Pohon itu adalah pohon kurma." Ketika aku keluar bersama ayahku, aku berkata; "Wahai ayahku, tadi dalam hatiku mengatakan bahwa pohon itu adalah pohon kurma." Ayahku berkata; "Kenapa kamu tidak menjawabnya! Sekiranya kamu menjawabnya, maka hal itu lebih aku sukai daripada ini dan ini." Abdullah berkata; "Sebenarnya tidak ada yang mencegahku untuk menjawabnya melainkan aku melihatmu dan Abu Bakr tidak juga angkat bicara, maka aku tidak suka (mendahulinya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6144</td></tr><tr><td>Arabic No</td><td>6144</td></tr><tr><td>Reference</td><td>Book 78 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен им Аллах, сказал: «(Однажды,) Посланник Аллаха ﷺ сказал: “Расскажите мне о дереве, подобному мусульманину, оно плодоносит в любое время, по воле её Господа, и листья его не опадают?” Мне пришло в голову, что это пальма, но я не хотел говорить в присутствие Абу Бакра и ‘Умара. Когда Пророк ﷺ (увидел), что они ничего не говорят, он сказал: “Это — пальма”. Когда я вышел со своим отцом, я сказал: “О отец, мне пришло в голову, что это пальма”. Он сказал: “Что же помешало тебе сказать это? Если бы ты сказал это, это было бы для меня любимее, чем то-то и то-то”. (‘Абдуллах) ответил: “Мне помешало лишь то, что я увидел, что вы с Абу Бакром молчите, поэтому я и не захотел что-либо говорить”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6144</td></tr><tr><td>Arabic No</td><td>6144</td></tr><tr><td>Reference</td><td>Book 78 Hadith 170</td></tr></tbody></table></div>
 

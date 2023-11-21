@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The people used to fast on the day of 'Ashura' before fasting in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad] Telah menceritakan kepada kami [Ibnu Uyainah] dari [Az Zuhri] dari [Urwah] dari [Aisyah radliallahu 'anha]; "Dahulu hari Asyura' adalah hari-hari yang dipergunakan orang-orang jahilliyah untuk melakukan puasa, tatkala datang bulan ramadlan, beliau bersabda: "Barang siapa yang ingin berpuasa Asyura' hendaklah ia berpuasa, dan bagi yang tidak ingin, maka berbukalah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4502</td></tr><tr><td>Arabic No</td><td>4502</td></tr><tr><td>Reference</td><td>Book 65 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «До того, как пост в месяц рамадан был вменён в обязанность, люди постились в день ‘Ашура, когда же пост в месяц рамадан стал обязательным, Пророк ﷺ сказал: “Кто желает (поститься в этот день), пусть постится, а кто желает, пусть разговляется”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4502</td></tr><tr><td>Arabic No</td><td>4502</td></tr><tr><td>Reference</td><td>Book 65 Hadith 29</td></tr></tbody></table></div>
 

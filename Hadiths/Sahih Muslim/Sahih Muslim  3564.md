@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Judaima daughter of Wahb al-Asadiyya (Allah be pleased with her) reported that s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Khalaf bin Hisyam] telah menceritakan kepada kami [Malik bin Anas]. Dan dari jalur lain, telah menceritakan kepada kami [Yahya bin Yahya] sedangkan lafazhnya dari dia (Yahya) dia berkata; Saya membaca di depan [Malik] dari [Muhammad bin Abdurrahman bin Naufal] dari [Urwah] dari [Aisyah] dari [Judamah binti Wahb Al Asadiyyah] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya saya bertekad untuk melarang ghilah (yaitu menyetubuhi istri yang sedang menyusui anak), akan tetapi saya perhatikan orang-orang romawi dan Persia melakukan ghilah, namun hal itu tidak membahayakan anak-anak mereka." Muslim berkata; Khalaf mengatakan; Dari Judzamah (dengan dzal), namun yang shahih adalah yang dikatakan Yahya, yaitu dengan dal (Judamah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>1442.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>1442.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 166</td></tr></tbody></table></div>
 

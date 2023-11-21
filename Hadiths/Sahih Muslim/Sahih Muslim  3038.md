@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Atâ' rapporte d'après Ibn 'Abbâs que l'Envoyé de Dieu (paix et bénédiction
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim bin Maimun] Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] ia berkata, telah mengabarkan kepadaku [Atha'] ia berkata, saya mendengar [Ibnu Abbas] menceritakan kepada kami, ia berkata; Rasulullah shallallahu 'alaihi wasallam bertanya kepada seorang wanita dari kalangan Anshar -Ibnu Abbas menyebutkan namnya, tetapi aku lupa: "Apa yang menghalangimu untuk melaksanakan haji bersama kami?" wanita itu menjawab, "Kami tidak mempunyai apa-apa kecuali dua ekor Unta, yang satu ekor dipakai suamiku pergi haji bersama anaknya sedangkan yang satu lagi ia tinggalkan agar dipakai menyiram kebun." Beliau bersabda: "Kalau bulan Ramadlan tiba, maka tunaikanlah umrah, sebab umrah di bulan Ramadlan menyamai ibadah haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3038</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3038</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

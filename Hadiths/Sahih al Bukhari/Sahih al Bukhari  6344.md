@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:My mother said, "O Allah's Messenger (ﷺ)! Please invoke Allah on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abu Al Aswad] telah menceritakan kepada kami [Harami] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas] radliallahu 'anhu dia berkata; ibuku berkata; "Wahai Rasulullah, do'akanlah atas pelayan enaku ini, yaitu Anas." Beliau bersabda: "Ya Allah, perbanyaklah hartanya, anak-anaknya dan berkahilah atas apa yang Engkau berikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6344</td></tr><tr><td>Arabic No</td><td>6344</td></tr><tr><td>Reference</td><td>Book 80 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас (ибн Малик), да будет доволен им Аллах, сказал: «(Однажды) моя мама сказала: “О Посланник Аллаха, (это) твой слуга Анас, обратись к Аллаху с мольбой за него”. И (Пророк ﷺ) сказал: “О Аллах! Умножь его богатство и детей, и даруй ему благодать в том, что Ты ему даруешь!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6344</td></tr><tr><td>Arabic No</td><td>6344</td></tr><tr><td>Reference</td><td>Book 80 Hadith 41</td></tr></tbody></table></div>
 

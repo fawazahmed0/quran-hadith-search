@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khalid bin Al-Walid:"A roasted mastigure was brought to the Prophet (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Hisyam bin Yusuf] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Umamah bin Sahl] dari [Ibnu Abbas] dari [Khalid bin Al Walid] ia berkata; Nabi shallallahu 'alaihi wasallam pernah diberi daging biawak yang terpanggang. Maka beliau pun berselera hendak memakannya, lalu dikatakanlah kepada beliau, "Itu adalah daging biawak." Dengan segera beliau menahan tangannya kembali. Khalid bertanya, "Apakah daging itu adalah haram?" beliau bersabda: "Tidak, akan tetapi daging itu tidak ada di negeri kaumku." Beliau tidak melarang. Maka Khalid pun memakannya sementara Rasulullah shallallahu 'alaihi wasallam melihat. [Malik] berkata; Dari [Ibnu Syihab]; BIDLABBIN MAHNUUDZ (Biawak yang dipanggang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5400</td></tr><tr><td>Arabic No</td><td>5400</td></tr><tr><td>Reference</td><td>Book 70 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Халид ибн аль-Валид рассказывал, что однажды Пророку ﷺ подали жаренную ящерицу-шипохвоста, и когда он протянул к нему руку, чтобы взять, люди сказали: «Это ящерица». Тогда он убрал руку, а Халид спросил: «Это мясо (шипохвоста) запретно?» Он ответил: «Нет, но в земле моего народа их нет, и я чувствую к ним отвращение». Тогда Халид съел его на глазах у Посланника Аллаха ﷺ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5400</td></tr><tr><td>Arabic No</td><td>5400</td></tr><tr><td>Reference</td><td>Book 70 Hadith 28</td></tr></tbody></table></div>
 

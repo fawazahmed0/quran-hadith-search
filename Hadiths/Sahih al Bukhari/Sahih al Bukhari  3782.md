@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Ansar said (to the Prophet (ﷺ) ), "Please divide the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [ash-Shaltu bin Muhammad Abu Hammam] berkata, aku mendengar [Al Mughirah bin 'Abdur Rahman] telah bercerita kepada kami [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah Radhiyalahu'anhu] berkata; Kaum Anshar berkata; "Bagilah kebun kurma untuk kami dan mereka". Beliau (shallallahu 'alaihi wasallam) menjawab: "Tidak". Beliau menambahkan: "Cukup bagi kami, mereka (Kaum Anshar) cukup mengurus kebun kurma tersebut nanti mereka memberi bagian kepada kami dari hasil buahnya". Mereka (Kaum Anshar) berkata; "Kami dengar dan kami taat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3782</td></tr><tr><td>Arabic No</td><td>3782</td></tr><tr><td>Reference</td><td>Book 63 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(В своё время) ансары сказали Пророку ﷺ: “Раздели (наши) пальмы между нами и мухаджирами”, (на что) он сказал: “Нет”. Тогда они сказали: “Они будут ухаживать (за нашими пальмами), а мы будем отдавать им половину урожая”, и (мухаджиры) сказали: “Слушаем и повинуемся”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3782</td></tr><tr><td>Arabic No</td><td>3782</td></tr><tr><td>Reference</td><td>Book 63 Hadith 7</td></tr></tbody></table></div>
 

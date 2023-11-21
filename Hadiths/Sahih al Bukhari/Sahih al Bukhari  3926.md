@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When Allah's Messenger (ﷺ) came to Medina, Abu Bakr and Bilal 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] radliallahu 'anha bahwa dia berkata; "Ketika Rasulullah shallallahu 'alaihi wasallam tiba di Madinah, Abu Bakr dan Bilal menderita sakit demam. Aisyah melanjutkan; "Lalu aku menemui keduanya. Aku katakan; "Wahai ayahku bagaimana keadaanmu? ' Dan, wahai Bilal, bagaimana pula keadaanmu?." Selanjutnya 'Aisyah berkata; "Apabila sedang menderita sakit, Abu Bakar akan bersya'ir; "Setiap pagi seseorang ditemani bersama keluarganya. Padahal maut, lebih dekat kepadanya dari pada tali sandalnya"Adapun Bilal apabila sakit demamnya telah sembuh, ia bersya'ir; "Aduhai, apakah tadi malam aku tidur di lembah itu? Sekeliling rumput yang hijau dan bunga idzhir (Yasmin), Apakah masih sempat aku meneguk air telaga Majannah suatu hari nanti, Apakah masih akan menampakkan diri kepadaku Tanah datar? ' Aisyah berkata; "Kemudian aku menemui Rasulullah shallallahu 'alaihi wasallam, aku beritahukan tentang hal itu kepada beliau, lalu beliau berdo'a; "Ya Allah, jadikanlah kecintaan kami kepada Madinah sebagaimana kecintaan kami kepada Makkah atau lebih. Dan sehatkanlah keadaan kami dan berilah kami berkah pada takaran dan timbangannya dan singkirkanlah penyakit demammya dan pindahkanlah ke daerah Juhfah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3926</td></tr><tr><td>Arabic No</td><td>3926</td></tr><tr><td>Reference</td><td>Book 63 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «После приезда Посланника Аллаха ﷺ в Медину Абу Бакр и Биляль стали болеть лихорадкой. Я зашла к ним и сказала: “О отец, как ты себя чувствуешь? О Биляль, как ты себя чувствуешь?” Когда приступ лихорадки начинался у Абу Бакра, он говорил: \nКаждому человеку в семье его желают доброго утра, \nа смерть ближе к нему, чем ремни его сандалий! \nЧто касается Биляля, то, когда лихорадка отпускала его, он произносил (такие стихи): \nЗнать бы мне, смогу ли провести ночь \nв долине среди душистого тростника и джалиля? \nИ смогу ли когда-нибудь зачерпнуть воды Маджанны \nи покажутся ли предо мной Шама и Тафиль?\nЗатем я пришла к Посланнику Аллаха ﷺ и рассказала ему об этом, а он сказал: “О Аллах сделай так, чтобы мы полюбили Медину так же, как любим Мекку, или даже больше и оздорови для нас (климат) её! О Аллах, благослови её са‘ и мудды, и перенеси её лихорадку в аль-Джухфу!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3926</td></tr><tr><td>Arabic No</td><td>3926</td></tr><tr><td>Reference</td><td>Book 63 Hadith 151</td></tr></tbody></table></div>
 

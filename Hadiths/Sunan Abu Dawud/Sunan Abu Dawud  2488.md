@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Thabit ibn Qays: A woman called Umm Khallad came to the Prophet (ﷺ) w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahman bin Sallam] telah menceritakan kepada kami [Hajjaj bin Muhammad] dari [Faraj bin Fadhalah] dari [Abdul Khabir bin Tsabit bin Qais bin Syammas] dari [ayahnya], dari [kakeknya], ia berkata; terdapat seorang wanita yang datang kepada Nabi shallallahu 'alaihi wasallam yang dipanggil Ummu Khallad dengan menutupi wajahnya, ia bertanya mengenai anaknya yang terbunuh. Kemudian sebagian sahabat Nabi shallallahu 'alaihi wasallam berkata kepadanya; engkau datang bertanya mengenai anakmu sementara engkau menutup wajah. Kemudian ia berkata; apabila anakku terbunuh namun rasa maluku tidaklah terbunuh. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Anakmu mendapatkan pahala dua orang yang mati syahid." Wanita tersebut bertanya; kenapa demikian wahai Rasulullah? Beliau berkata: "Karena ia dibunuh oleh orang ahli kitab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2488</td></tr><tr><td>Arabic No</td><td>2488</td></tr><tr><td>Reference</td><td>Book 15 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2488</td></tr><tr><td>Arabic No</td><td>2488</td></tr><tr><td>Reference</td><td>Book 15 Hadith 12</td></tr></tbody></table></div>
 

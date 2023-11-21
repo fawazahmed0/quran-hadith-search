@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ata' ibn Yasar: A man of Banu Harith was pasturing a pregnant she-camel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Ya'qub] dari [Zaid bin Aslam], dari ['Atha' bin Yasar] dari [seorang laki-laki dari Bani Haritsah], bahwa ia pernah menggembala unta yang bersusu dan hampir melahirkan di sebuah jalan Uhud. Kemudian unta tersebut hampir mati dan ia tidak mendapatkan sesuatu untuk menyembelihnya, lalu ia mengambil pasak dan ia tusukkan pada dadanya hingga mengeluarkan darah, kemudian ia datang kepada Nabi shallallahu 'alaihi wasallam lalu mengabarkan tentang hal itu, maka beliau memerintahkan untuk memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2823</td></tr><tr><td>Arabic No</td><td>2823</td></tr><tr><td>Reference</td><td>Book 16 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Один человек из бану Хариса передаёт, что он пас стельную верблюдицу в одном из ущелий Ухуда и вдруг увидел, что верблюдица умирает. Тогда он, не найдя, чем заколоть её, схватил кол и проткнул её горло у основания шеи, чтобы вытекла кровь. Потом он пришёл к Пророку ﷺ и рассказал ему о случившемся, и Пророк ﷺ велел ему есть её мясо
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2823</td></tr><tr><td>Arabic No</td><td>2823</td></tr><tr><td>Reference</td><td>Book 16 Hadith 36</td></tr></tbody></table></div>
 

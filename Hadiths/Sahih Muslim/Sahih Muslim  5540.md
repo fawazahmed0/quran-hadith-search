@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muslim b. Subaih reported:I was with Masriuq in the house which had the portraya
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5540</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘ид ибн Абуль-Хасан сказал: Один человек пришёл к Ибн ‘Аббасу (да будет доволен им Аллах) и сказал: «Я создаю эти изображения, так дай же мне совет (относительно этого)». (Ибн ‘Аббас) сказал: «Подойди ко мне ближе», и тот приблизился к нему. (Ибн ‘Аббас снова) сказал: «Подойди ко мне ближе», и когда тот подошёл ещё ближе, (Ибн ‘Аббас) положил ему руку на голову и сказал: «Не сообщить ли тебе, что я слышал от Посланника Аллаха ﷺ? Я слышал, как Посланник Аллаха ﷺ сказал: “Каждый (человек), создающий изображения, (окажется) в Огне, где за каждое нарисованное им изображение к нему (приставят) того, кто будет мучить его в Геенне”».(После этого Ибн ‘Аббас) сказал: «Если уж ты непременно должен заниматься этим, (изображай) деревья и то, в чём нет души»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5540</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The people of pre-Islamic times used to eat some th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Daud bin Shabih] telah menceritakan kepada kami [Al Fadll bin Dukain] telah menceritakan kepada kami [Muhammad bin Syarik Al Makki] dari ['Amru bin Dinar] dari [Abu Asy Sya'tsa'] dari [Ibnu Abbas] ia berkata, "Dahulu orang-orang jahiliyah biasa makan beberapa macam makanan dan meninggalkan beberapa makanan karena jijik. Kemudian Allah Ta'ala mengutus Nabi-Nya shallallahu 'alaihi wasallam dan menurunkan Kitab-Nya, serta menghalalkan yang halal dan mengharamkan yang haram. Maka apa yang Allah halalkan adalah halal, apa yang Allah haramkan adalah haram, dan apa yang Allah diamkan maka hukumnya dimaafkan." Kemudian Ibnu Abbas membaca ayat: '(Katakanlah: "Aku tidak mendapatkan dalam wahyu yang diwahyukan kepadaku, sesuatu yang diharamkan…) ' (Qs. Al An'aam: 145) hingga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3800</td></tr><tr><td>Arabic No</td><td>3800</td></tr><tr><td>Reference</td><td>Book 28 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передаёт: «Во времена невежества люди ели одно и брезговали другим, а потом Всевышний Аллах направил к ним Своего Пророка ﷺ и ниспослал Свою Книгу. Он разрешил дозволенное и запретил запретное, и что Он разрешил, то дозволено, а что Он запретил, то запретно. А то, о чём он умолчал, простительно». Сказав это, он прочитал: «Скажи: “Из того, что дано мне в откровении, я нахожу запрещённым употреблять в пищу только мертвечину, пролитую кровь и мясо свиньи, которое [или которая] является скверной, а также недозволенное мясо животных, заколотых не ради Аллаха”. Если же кто-либо вынужден пойти на это, не проявляя ослушания и не преступая пределы необходимого, то ведь Аллах Прощающий, Милующий» (сура «аль-Ан‘ам», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3800</td></tr><tr><td>Arabic No</td><td>3800</td></tr><tr><td>Reference</td><td>Book 28 Hadith 65</td></tr></tbody></table></div>
 

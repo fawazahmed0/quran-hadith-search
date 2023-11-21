@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated A'ishah (May Allah be pleased with her):There was an eclipse of the sun
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu As Sarh] telah mengabarkan kepada kami [Ibnu Wahb]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Salamah Al Muradi] telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku ['Urwah bin Az Zubair] dari ['Aisyah istri Nabi shallallahu 'alaihi wasallam] dia berkata; "Pernah terjadi gerhana matahari ketika Rasulullah shallallahu 'alaihi wasallam masih hidup, maka Rasulullah shallallahu 'alaihi wasallam keluar menuju masjid, kemudian beliau berdiri dan bertakbir, dan orang-orang juga ikut berbaris di belakang beliau, kemudian Rasulullah shallallahu 'alaihi wasallam memanjangkan bacaannya, lalu beliau bertakbir, kemudian ruku' hingga lama, setelah itu beliau mengangkat kepala (i'tidal) sambil membaca; 'samiallahu liman hamidah, rabbanaa walakal hamdu. ' Kemudian beliau berdiri dan memanjangkan bacaannya (Al Fatihah dan surat Al Qur'an), namun agak pendek dari bacaan yang pertama. Kemudian beliau bertakbir dan ruku' hingga lama, namun ia lebih pendek daripada ruku' yang pertama, lalu beliau mengucapkan 'sami'allahu liman hamidah, rabbanaa walakal hamdu', kemudian ia mengerjakan seperti itu pada raka'at kedua, maka sempurnalah empat kali ruku' dan empat kali sujud. Dan ternyata matahari telah terang kembali sebelum beliau beranjak pergi." Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami ['Anbasah] telah menceritakan kepada kami [Yunus] dari [Ibnu Syihab] dia berkata; [Katsir bin 'Abbas] pernah bercerita bahwa [Abdullah bin 'Abbas] pernah bercerita bahwa Rasulullah shallallahu 'alaihi wasallam shalat gerhana matahari…" kemudian Perawi menyebutkan seperti hadits 'Urwah dari Aisyah dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau shalat dua raka'at, dan di setiap raka'at, beliau mengerjakan dua kali ruku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1046) Sahih Muslim (901)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1180</td></tr><tr><td>Arabic No</td><td>1180</td></tr><tr><td>Reference</td><td>Book 3 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, жена Пророка ﷺ рассказывает: «Когда при жизни Посланника Аллаха ﷺ произошло солнечное затмение, он вышел в мечеть, встал и произнёс такбир. Люди выстроились рядами позади него. Он долго читал аяты, потом произнёс такбир и совершил долгий поясной поклон, потом поднял голову и сказал: “Да услышит Аллах того, кто восхваляет Его. Господь наш, Тебе хвала!” затем поднялся и снова долго читал аяты, но меньше, чем в первый раз, затем произнёс такбир и совершил долгий поясной поклон, который, однако, был немного короче первого, потом поднял голову и сказал: “Да услышит Аллах того, кто восхваляет Его. Господь наш, Тебе хвала!” Затем он повторил все эти действия во втором рак‘ате. Он совершил четыре поясных поклона и четыре земных. Солнце показалось ещё до того, как он завершил молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1046) Sahih Muslim (901)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1180</td></tr><tr><td>Arabic No</td><td>1180</td></tr><tr><td>Reference</td><td>Book 3 Hadith 20</td></tr></tbody></table></div>
 

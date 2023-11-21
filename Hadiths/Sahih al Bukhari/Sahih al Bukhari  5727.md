@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Some people from the tribes of 'Ukl and 'Uraina came to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul A'la bin Hammad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] telah menceritakan kepada kami [Qatadah] bahwa [Anas bin Malik] telah menceritakan kepada mereka bahwa sekelompok orang atau pemuda dari kabilah 'Ukl dan 'Urainah datang kepada Rasulullah shallallahu 'alaihi wasallam, mereka menyatakan masuk Islam. Lalu mereka berkata, "Wahai Nabiyullah, kami orang yang hidup dari hasil ternak, bukan dari hasil pertanian." Lalu mereka menderita sakit di Madinah karena iklim yang tidak cocok, maka Rasulullah Shallallahu'alihi wasallam memerintahkan mereka supaya keluar menemui penggembala yang sedang menggembalakan unta, lalu beliau menyuruh mereka keluar dari Madinah. Mereka pun minum susu unta tersebut dan minum air kencingnya. Tatkala mereka berada di perbatasan Madinah, mereka keluar dari Islam (kufur), kemudian membunuh pengembala unta Rasulullah Shallallahu'alihi wasallam, dan menggiring untanya. Berita tersebut sampai kepada Rasulullah Shallallahu'alihi wasallam, maka beliau menyuruh untuk mencari jejak mereka, dan akhirnya mereka dapat dibawa kepada Rasulullah Shallallahu'laihi wasallam. Mereka dihukum dengan cara ditusuk matanya dengan paku (di congkel dengan paku panas), tangan dan kaki mereka dipotong, lalu mereka dibiarkan dalam keadaan seperti itu dibawah terik matahari hingga mereka mati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5727</td></tr><tr><td>Arabic No</td><td>5727</td></tr><tr><td>Reference</td><td>Book 76 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «В своё время люди из племени ‘укль и ‘урайна приехали к Посланнику Аллаха ﷺ в Медину и приняли ислам. Они сказали: “О Пророк Аллаха! Мы владельцы дойного скота, а не садов”. Климат Медины не подошёл им (и они стали болеть). Тогда Посланник Аллаха ﷺ приказал выделить для них дойных верблюдиц и пастуха, также он приказал им отправиться из Медины и пить верблюжье молоко и мочу. Они отправились туда и, достигнув аль-Харры, вернулись в неверие после принятия ислама, убили пастуха Посланника Аллаха ﷺ и угнали верблюдов. Когда эта весть дошла до Пророка ﷺ, он отправил за ними погоню. (Когда их привели к Пророку ﷺ) по его велению им выжгли глаза, отрубили руки (и ноги) и оставили их в аль-Харре, пока они не умерли в таком состоянии»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5727</td></tr><tr><td>Arabic No</td><td>5727</td></tr><tr><td>Reference</td><td>Book 76 Hadith 42</td></tr></tbody></table></div>
 

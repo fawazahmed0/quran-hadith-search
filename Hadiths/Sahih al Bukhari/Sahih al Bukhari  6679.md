@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:I heard 'Urwa bin Az-Zubair, Sa'id bin Al-Musaiyab, 'Alqama bi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul 'Aziz] telah menceritakan kepada kami [Ibrahim] dari [Shalih] dari [Ibnu Syihab] -lewat jalur periwayatan lain- Telah menceritakan kepada kami [Al Hajjaj] telah menceritakan kepada kami [Abdullah bin Umar An Numairi] telah menceritakan kepada kami [Yunus bin Yazid Al Aili] menuturkan; aku mendengar [Az Zuhri] menuturkan; aku mendengar [Urwah bin Zubair] dan [Sa'id bin Musayyab] dan [Alqomah bin Waqqash] dan [Ubaidullah bin Abdullah bin Utbah] tentang hadits ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam ketika penyebar berita bohong menyebarkan isu bahwa dia berbuat zina, maka Allah menurunkan berita kesuciannya; 'Masing-masing penyebar berita bohong itu menceritakan sekumpulan cerita bohong tentang aku, maka Allah menurunkan ayat; 'Sesungguhnya orang-orang yang menyebarkan berita bohong,,, hingga sepuluh ayat berikutnya (QS. Annur 11-21) yang kesemuanya menjelaskan berita kesucianku. Abu Bakar ash Shiddiq yang sebagai pihak menanggung nafkah Misthah bin Utsatsah karena masih ada hubungan kekerabatan mengatakan: "Demi Allah, saya tidak akan memberi nafkah lagi kepada Misthah sedikit pun selama-lamanya setelah ia turut serta menyebarkan isu tentang 'Aisyah." Maka Allah menurunkan ayat: 'dan janganlah orang-orang yang diberi kelebihan rejeki dan kelapangan diantara kalian untuk menahan pemberiannya kepada kerabat' (QS.Annur 22), lantas Abu Bakar mengatakan; 'Baik demi Allah, sungguh saya mengharap jika Allah mengampuni kesalahanku' lantas Abu Bakar meneruskan kembali pemberian nafkahnya dan berkata; 'Demi Allah, saya tidak akan lagi mencabutnya selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6679</td></tr><tr><td>Arabic No</td><td>6679</td></tr><tr><td>Reference</td><td>Book 83 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри сказал: «Я слышал как ‘Урва ибн аз-Зубайр, Са‘ид ибн аль-Мусаййиб, ‘Алькама ибн Ваккас и ‘Убайдуллах ибн ‘Абдуллах ибн ‘Утба передали хадис о жене Пророка ﷺ ‘Аише, (в котором упоминается, как) люди, распространявшие клевету, говорили о ней то, что говорили, и как Аллах оправдал её, (указав на несостоятельность) того, что они говорили: «И Аллах ниспослал: “Поистине, те, которые возвели отвратительную ложь…” (сура “ан-Нур”, аят 11). Десять аятов, все они (посвящены) в моё оправдание. А Абу Бакр ас-Сиддик, да будет доволен им Аллах, который оказывал помощь Мистаху, ибо тот состоял с ним в родстве, сказал: “Клянусь Аллахом, после того, что он сказал об ‘Аише, я больше никогда ничего на него не израсходую!” — и тогда Аллах ниспослал (другой аят, в котором было сказано): “И пусть занимающие высокое положение и обладающие достатком среди вас не клянутся, что прекратят оказывать помощь родственникам, беднякам и переселившимся на пути Аллаха, и пусть они прощают и извиняют. Разве не хотите вы, чтобы Аллах простил вас? Ведь Аллах — Прощающий, Милосердный!” (сура “ан-Нур”, аят 22) (Услышав эти слова,) Абу Бакр сказал: “Да, клянусь Аллахом, конечно же я хочу, чтобы Аллах простил меня!” — после чего он снова стал помогать Мистаху, как это было раньше и сказал: “Я никогда не откажу ему (в помощи)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6679</td></tr><tr><td>Arabic No</td><td>6679</td></tr><tr><td>Reference</td><td>Book 83 Hadith 56</td></tr></tbody></table></div>
 

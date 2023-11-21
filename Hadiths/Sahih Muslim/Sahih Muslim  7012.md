@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Burda reported on the authority of his father that Allah's Apostle (ﷺ) sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami ['Affan bin Muslim] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] bahwasanya ['Aun] dan [Sa'id bin Abu Burdah] telah menceritakan kepada [Qatadah] bahwa keduanya menyaksikan [Abu Burdah] bercerita kepada 'Umar bin 'Abdul 'Aziz dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidaklah seorang muslim meninggal kecuali Allah akan memasukkan (memperlihatkan) ke dalam tempatnya neraka Yahudi atau Nashrani." Qatadah berkata; Maka Umar bin Abdul Aziz meminta Abu Burdah agar bersumpah atas nama Allah yang tidak ada Ilah selainnya sebanyak tiga kali jika ia memang benar telah mendengar bapaknya bercerita kepadanya tentang Hadits tersebut dari Rasulullah shallallahu 'alaihi wasallam. Qatadah berkata; Abu Burda pun bersumpah kepadanya. Qatadah berkata; Namun Sa'id tidak menceritakan kepadaku bahwa Umar meminta sumpah kepada Abu Darda, tapi dia juga tidak mengingkari perkataan Aun. Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Muhammad bin Al Mutsanna] semuanya dari ['Abdush Shamad bin 'Abdul Warits] telah mengabarkan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dengan sanad ini seperti hadits 'Affan dan telah berkata 'Aun bin 'Utbah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7012</td></tr><tr><td>Arabic No</td><td>2767.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Умар ибн ‘Абдуль-‘Азиз передал со слов своего отца о том, что Пророк ﷺ сказал: «Ни один мусульманин ни умрёт без того, чтобы Аллах не отправил в (адский) Огонь вместо него иудея или христианина»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7012</td></tr><tr><td>Arabic No</td><td>2767.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 58</td></tr></tbody></table></div>
 

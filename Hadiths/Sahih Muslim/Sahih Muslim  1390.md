@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah narrated it on the authority of his father Yahya:Knowledge cannot be ac
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi], katanya; telah mengabarkan kepada kami [Abdullah bin Yahya bin Abu Katsir] dia berkata; Aku mendengar [Ayahku] berkata; "Ilmu tidak bisa diraih dengan mengistirahatkan badan (ogah-ogahan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1390</td></tr><tr><td>Arabic No</td><td>612.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах ибн Яхья ибн Абу Касир сказал: «Я слышал, как мой отец говорил: “Знание и телесный покой несовместимы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1390</td></tr><tr><td>Arabic No</td><td>612.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 224</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Whenever the Messenger of Allah (ﷺ) had sexual intercourse and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Ibnu Ulayyah] dan [Waki'] serta [Ghundar] dari [Syu'bah] dari [al-Hakam] dari [Ibrahim] dari [al-Aswad] dari [Aisyah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam apabila dalam keadaan junub, lalu ingin makan atau tidur, maka beliau berwudhu dengan wudhu untuk shalat." Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz] dia berkata, telah menceritakan kepada kami [bapakku] keduanya berkata, telah menceritakan kepada kami [Syu'bah] dengan sanad ini, berkata [Ibnu al-Mutsanna] dalam haditsnya, telah menceritakan kepada kami [al-Hakami] saya mendengar [Ibrahim] menceritakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>700</td></tr><tr><td>Arabic No</td><td>305.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша сказала: «Когда Посланник Аллаха ﷺ хотел есть или спать, находясь в состоянии большого осквернения, он совершал такое же омовение /вудуъ/, какое обычно совершал перед молитвой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>700</td></tr><tr><td>Arabic No</td><td>305.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 22</td></tr></tbody></table></div>
 

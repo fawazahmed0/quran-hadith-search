@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported:The Messenger of Allah (ﷺ) used to teach us tashahhud just
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin Rumh bin al-Muhajir] telah mengabarkan kepada kami [al-Laits] dari [Abu az-Zubair] dari [Sa'id bin Jubair], dan dari [Thawus] dari [Ibnu Abbas] bahwasanya dia berkata, Rasulullah shallallahu 'alaihi wasallam mengajarkan kami tasyahhud sebagaimana beliau mengajarkan kami sebuah surat alQuran, lalu pada waktu itu beliau membaca, 'Attahiyyat ash-Shalawat ath-Thayyibat Lillah, Assalamu alaika, Ayyuha an-Nabiyyu Warahmatullahi Wabarakatuhu, Assalamu'alaina wa ala Ibadillahishshaalihin. (Segala penghormatan shalawat dan juga kebaikan bagi Allah,. Semoga keselamatan terlimpahkan kepadamu wahai Nabi dan juga rahmat dan berkahnya. Semoga keselamatan terlimpahkan atas kami dan hamba Allah yang shalih. Saya bersaksi bahwa tidak ada tuhan (yang berhak disembah) melainkan Allah, dan saya bersaksi bahwa Muhammad adalah utusan Allah) '. Dan dalam suatu riwayat, "Sebagaimana beliau mengajarkan kepada kami al-Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>902</td></tr><tr><td>Arabic No</td><td>403.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Посланник Аллаха ﷺ учил нас (произнесению) ташаххуда, как учил (чтению каждой) суры Корана, и говорил, (что ташаххуд следует произносить так): “Благословенные приветствия и благие молитвы Аллаху; мир тебе, о Пророк, милость Аллаха и благословения Его, мир нам и праведным рабам Аллаха. Свидетельствую, что нет бога, достойного поклонения, кроме Аллаха, и свидетельствую, что Мухаммад Посланник Аллаха" /Ат-тахиййату ль-мубаракату, ас-салявату т-таййибату ли-Лляхи; ас-саляму ‘алей-кя, аййу-ха н-набиййу, ва рахмату-Ллахи ва баракяту-ху, ас-саляму ‘алей-на ва ‘аля ‘ибади-Лляхи-с-салихин. Ашхаду алля иляха илля-Ллаху ва ашхаду анна Мухаммадан расулю-Ллах/”».В той версии (этого хадиса, которую передал) Ибн Румх, (сообщается, что Ибн 'Аббас сказал): «...так же, как учил нас Корану»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>902</td></tr><tr><td>Arabic No</td><td>403.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 64</td></tr></tbody></table></div>
 

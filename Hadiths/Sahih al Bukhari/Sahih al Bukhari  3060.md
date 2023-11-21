@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:The Prophet (ﷺ) said (to us), " List the names of those peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Sufyan] dari [Al A'masy] dari [Abu Wa'il] dari [Hudzaifah radliallahu 'anhu] berkata Nabi Shallallahu'alaihiwasallam bersabda: "Tuliskan untukku nama-nama orang yang sudah menyatakan masuk Islam". Maka kami menuliskannya untuk Beliau sebanyak seribu lima Ratus orang laki-laki. Kami berkata; "Kami masih merasakan kekhawatiran dengan jumlah kami sebanyak seribu lima Ratus itu karena aku pernah melihat betul keadaan kami saat diuji, hingga ada seorang yang sholat sendirian dalam keadaan ketakutan". Telah bercerita kepada kami ['Abdan] dari [Abu HAmzah] dari [Al A'masy]; "Maka kami dapatkan mereka sebanyak lima Ratus orang". Berkata [Abu Mu'awiah]; "Antara enam Ratus hingga tujuh Ratus orang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3060</td></tr><tr><td>Arabic No</td><td>3060</td></tr><tr><td>Reference</td><td>Book 56 Hadith 265</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хузейфа, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал: “Запишите для меня (имена) тех людей, которые заявили, что принимают ислам”, и мы записали для него (имена) полутора тысяч человек, после чего стали говорить: “Следует ли нам бояться (многобожников, когда) нас полторы тысячи?” Но потом нам пришлось пережить (многое), и бывало так, что, совершая молитву в одиночестве, некоторые из нас испытывали страх»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3060</td></tr><tr><td>Arabic No</td><td>3060</td></tr><tr><td>Reference</td><td>Book 56 Hadith 265</td></tr></tbody></table></div>
 

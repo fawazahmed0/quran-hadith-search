@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: When Allah, Most High, revealed the verses: "Come n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Jarir] dari ['Atho'], dari [Sa'id bin Jubair], dari [Ibnu Abbas], ia berkata; tatkala Allah 'azza wajalla menurunkan ayat: "Dan janganlah kamu dekati harta anak yatim, kecuali dengan cara yang lebih bermanfaat." Dan "Sesungguhnya orang-orang yang memakan harta anak yatim secara zalim….." Maka orang yang memiliki anak yatim pergi dan menjauhkan makanannya makanannya dan minumannya dari minumannya. Maka makanan anak yatim tersebut tersisa kemudian disimpan hingga ia memakannya atau menjadi rusak. Maka hal tersebut terasa berat atas mereka, kemudian mereka meceritakan hal tersebut kepada Rasulullah shallallahu 'alaihi wasallam. Lalu Allah 'azza wajalla menurunkan ayat: "Dan mereka bertanya kepadamu tentang anak yatim, katakalah: "Mengurus urusan mereka secara patut adalah baik, dan jika kamu bergaul dengan mereka, maka mereka adalah saudaramu." Kemudian mereka mencampur makanan mereka dengan makanannya dan minuman mereka dengan minumannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2871</td></tr><tr><td>Arabic No</td><td>2871</td></tr><tr><td>Reference</td><td>Book 18 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Когда Всемогущий и Великий Аллах ниспослал: “Не приближайтесь к имуществу сироты, кроме как во благо ему” (сура “аль-Ан‘ам”, аят 152) и “Воистину, те, которые несправедливо пожирают имущество сирот, наполняют свои животы Огнём и будут гореть в Пламени” (сура “ан-Ниса”, аят 10), люди, в чьих домах были сироты, стали отделять их пищу от своей, их питьё от своего. Их еда оставалась, и, если они не доедали её, она портилась. Это создавало много трудностей для людей, и они рассказали об этом Посланнику Аллаха ﷺ после чего Всевышний Аллах ниспослал: “Они спрашивают тебя о сиротах. Скажи: “Делать им добро хорошо. Если вы объедините свои дела, то ведь они ваши братья”” (сура “аль-Бакара”, аят 220). И они объединили свою пищу и питьё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2871</td></tr><tr><td>Arabic No</td><td>2871</td></tr><tr><td>Reference</td><td>Book 18 Hadith 10</td></tr></tbody></table></div>
 

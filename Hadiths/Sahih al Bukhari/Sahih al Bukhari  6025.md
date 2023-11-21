@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A bedouin urinated in the mosque and the people ran to (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdul Wahhab] telah menceritakan kepada kami [Hammad bin Zaid] dia berkata; telah menceritakan kepada kami [Tsabit] dari [Anas bin Malik] bahwa seorang Arab Badui kencing di masjid, lalu orang-orang mendatanginya, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Biarkanlah." Kemudian beliau meminta diambilkan air lalu beliau menyiramnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6025</td></tr><tr><td>Arabic No</td><td>6025</td></tr><tr><td>Reference</td><td>Book 78 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик рассказал, что (как-то раз, когда) один бедуин принялся мочиться (прямо) в мечети, люди поднялись (со своих мест), чтобы наброситься на него, однако Посланник Аллаха ﷺ велел им: «Не прерывайте его!» Затем он велел принести ведро воды и вылил на это место
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6025</td></tr><tr><td>Arabic No</td><td>6025</td></tr><tr><td>Reference</td><td>Book 78 Hadith 56</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Apostle of Allah (ﷺ) one night delayed (observing the 'Isy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Ibrahim] dan [Muhammad bin Hatim], keduanya dari [Muhammad bin Bakr] katanya, (di diriwayatkan dari jalur lain) telah menceritakan kepadaku [Harun bin Abdullah] telah menceritakan kepada kami [Hajjaj bin Muhammad] katanya, (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Hajjaj bin Syair] dan [Muhammad bin Rafi'], keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] sedangan lafadz mereka berdekatan, semuanya dari [Ibnu Juraij], katanya; telah mengabarkan kepadaku [Mughirah bin Hakim] dari [Ummu Kultsum binti Abu Bakr], ia mengabarkan kepadanya dari ['Aisyah] katanya; "Suatu malam Nabi shallallahu 'alaihi wasallam mendirikan shalat 'atamah (isya') sampai berlalu sebagian besar malam dan penghuni masjid pun ketiduran, setelah itu beliau datang dan shalat. Beliau bersabda: "Sungguh ini adalah waktu shalat isya' yang tepat, sekiranya aku tidak memberatkan umatku." Sedang dalam hadis Abdurrazaq disebutkan dengan redaksi "Kalaulah waktu ini tidak memberatkan umatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1445</td></tr><tr><td>Arabic No</td><td>638.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 278</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, рассказывала: «Однажды посланник Аллаха ﷺ задержал молитву ‘иша до тех пор, пока не прошла значительная часть ночи, и не заснули те, кто были в мечети. Затем он вышел, совершил молитву и сказал: “Это (подлинное) её время, если бы только я не боялся обременить моих последователей”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1445</td></tr><tr><td>Arabic No</td><td>638.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 278</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:I shall be pre-eminent am
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hakam bin Musa Abu Shalih] Telah menceritakan kepada kami [Hiql] yaitu Ibnu Ziyad dari [Al Auza'i] Telah menceritakan kepadaku [Abu 'Ammar] Telah menceritakan kepadaku [Abdullah bin Farukh] Telah menceritakan kepadaku [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku adalah pemimpin anak Adam pada hari kiamat kelak, aku adalah orang yang muncul lebih dahulu dari kuburan, aku adalah orang yang paling dahulu memberi syafa'at, dan aku adalah orang yang paling dahulu dibenarkan memberi syafa'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5940</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 43 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5940</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 43 Hadith 3</td></tr></tbody></table></div>
 

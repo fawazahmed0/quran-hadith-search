@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hudain b. al-Mundhir Abu Sasan reported:I saw that Walid was brought to Uthmin b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] dan [Ali bin Hujr] mereka berkata; telah menceritakan kepada kami [Isma'il] -yaitu Ibnu Ulayyah- dari [Ibnu Abu 'Arubah] dari [Abdullah Ad Danaj]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hanzhali] sedangkan lafadznya dari dia, telah mengabarkan kepada kami [Yahya bin Hammad] telah menceritakan kepada kami [Abdul Aziz bin Mukhtar] telah menceritakan kepada kami [Abdullah bin Fairuz] bekas budak Ibnu 'Amir Ad Dannaj, telah menceritakan kepada kami [Hudlain bin Mundzir Abu Sasan] dia berkata, "Aku pernah melihat Al Walid dihadapkan kepada 'Utsman bin Affan, setelah melaksanakan shalat subuh dua rakaat, Utsman lalu berkata, "Apakah aku boleh menambahkan untuk kalian? Ada dua orang laki-laki yang menjadi saksi atas perbuatannya, salah seorang di antaranya adalah Humran, dia menyaksikan sendiri bagaimana dia meminum khamer, sedangkan yang lainnya bersaksi bahwa dia pernah melihat Al Walid sedang muntah-muntah (setelah meminum khamer)." Lalu Utsman berkata, "Dia tidak akan muntah kecuali ia minum khamer." Setelah itu, Utsman berkata kepada Ali, "Wahai Ali, bangun dan deralah Al Walid." [Ali] pun berkata kepada Hasan, "Wahai Hasan, bangun dan deralah Al Walid." Kemudian Hasan pun berkata, "Sebaiknya kita serahkan saja pelaksanaan hukuman dera ini kepada khalifah Utsman dan para aparatnya." Akhirnya dia berkata kepada Abdullah bin Ja'far, "Wahai Abdullah, bangun dan laksanakanlah hukuman dera kepada Al Walid." Setelah itu Abdullah bin Ja'far menderanya sedangkan Ali yang menghitungnya, ketika deraan telah sampai pada hitungan ke empat puluh, Ali berseru, "Berhentilah." Lalu dia berkata, "Dahulu Rasulullah shallallahu 'alaihi wasallam pernah mendera peminum khamer sebanyak empat puluh kali, Abu Bakar juga pernah melakukan hal yang sama, sementara Umar bin Khattab pernah melaksanakan hukuman dera sebanyak delapan puluh kali. Sebenarnya semua itu adalah sunnah (pernah dilakukan), dan itulah yang lebih aku sukai." [Ali bin Hujr] menambahkan dalam riwayatnya, " [Isma'il] berkata, "Sungguh aku pernah mendengar hadits Ad Dannaj darinya, namun aku tidak begitu menghafalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4457</td></tr><tr><td>Arabic No</td><td>1707.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4457</td></tr><tr><td>Arabic No</td><td>1707.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 60</td></tr></tbody></table></div>
 

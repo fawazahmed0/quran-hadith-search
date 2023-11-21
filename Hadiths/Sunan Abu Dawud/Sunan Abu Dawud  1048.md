@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: Friday is divided into twel
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Ibnu 'Amru yaitu Ibnu Al Harits] bahwa [Al Julah bekas budak Abdul Aziz] telah menceritakan kepadanya, bahwa [Abu Salamah yaitu Ibnu Abdurrahman] telah menceritakan kepadanya, dari [Jabir bin Abdullah] dari Rasulullah shallallahu 'alaihi wasallam bahwa beliau bersabda; "Hari jum'at itu dua belas -maksudnya jam- dan tidak di dapati seorang muslim pun yang meminta kepada Allah kecuali Allah 'azza wajalla akan mengabulkannya, maka bersegeralah untuk mendapatkannya pada waktu-waktu akhir setelah Ashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1048</td></tr><tr><td>Arabic No</td><td>1048</td></tr><tr><td>Reference</td><td>Book 2 Hadith 659</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Пятница состоит из двенадцати периодов времени. И какой бы мусульманин ни попросил Всемогущего и Великого Аллаха о чём-нибудь (в этот день в определённый период), Он обязательно дарует ему это. Ищите этот период в последний час после послеполуденной молитвы /аср/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1048</td></tr><tr><td>Arabic No</td><td>1048</td></tr><tr><td>Reference</td><td>Book 2 Hadith 659</td></tr></tbody></table></div>
 

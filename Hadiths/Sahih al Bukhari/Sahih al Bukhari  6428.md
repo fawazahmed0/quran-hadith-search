@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zahdam bin Mudarrib:'Imran bin Husain said: The Prophet (ﷺ) said, "Th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dia berkata; saya mendengar [Abu Jamrah] berkata; telah menceritakan kepadaku [Zahdam bin Mudlarrib] dia berkata; saya mendengar ['Imran bin Hushain] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sebaik-baik kalian adalah orang yang hidup pada masaku (periode sahabat), kemudian orang-orang pada masa berikutnya (Tabi'in), kemudian orang-orang pada masa berikutnya (Tabi'ut tabi'in)." 'Imran berkata; 'Saya tidak tahu apakah Nabi shallallahu 'alaihi wasallam menyebutkan 'orang-orang sesudah masa beliau' dua atau tiga kali.' 'Setelah itu akan datang orang-orang yang memberikan kesaksian padahal mereka tidak dimintai kesaksian, mereka berkhianat dan tidak dapat dipercaya, mereka bernadzar namun tidak meIaksanakannya dan diantara mereka tampak gemuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6428</td></tr><tr><td>Arabic No</td><td>6428</td></tr><tr><td>Reference</td><td>Book 81 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Имрана ибн Хусайна, да будет доволен им Аллах, что Пророк ﷺ сказал: «Лучшие из вас — это мои современники (т.е. мое поколение), а затем те, кто придёт после них, а затем те, кто придёт после них». ‘Имран сказал: «Я не знаю, Пророк ﷺ дважды повторил или трижды это высказывание. (Пророк ﷺ далее сказал:) “А затем после них придут люди, которые будут свидетельствовать, хотя от них не будут требовать свидетельства, и они будут вероломны, и никто не будет доверять им, и они будут давать обеты, но не будут выполнять их, и среди них появится тучные (людей с излишним весом)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6428</td></tr><tr><td>Arabic No</td><td>6428</td></tr><tr><td>Reference</td><td>Book 81 Hadith 17</td></tr></tbody></table></div>
 

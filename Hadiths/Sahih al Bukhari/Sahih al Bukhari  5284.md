@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:Aisha intended to buy Barira, but her masters stipulated that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Raja'] Telah mengabarkan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibrahim] dari [Al Aswad] bahwa [Aisyah] ingin membeli Barirah, namun walinya tidak mau kecuali dengan mempersyaratkan perwalaannya. Maka ia pun menuturkan hal itu kepada Nabi shallallahu 'alaihi wasallam, sehingga beliau pun bersabda: "Beli dan bebaskanlah ia. Sesungguhnya Al Wala' (perwalian/hak milik) itu adalah bagi yang membebaskan." Kemudian Nabi shallallahu 'alaihi wasallam pernah diberi daging dan dikatakan kepadanya, "Sesungguhnya ini adalah daging yang disedekahkan kepada Barirah." Maka beliau bersabda: "Baginya adalah sedekah, namun bagi kami adalah hadiah." Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syu'bah] dan ia menambahkan; Maka ia pun diberi Khiyar (pilihan untuk tetap bersama atau bercerai) dengan suaminya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5284</td></tr><tr><td>Arabic No</td><td>5284</td></tr><tr><td>Reference</td><td>Book 68 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, рассказала, что однажды она захотела выкупить Бариру, (чтобы освободить её). Однако её владельцы решили сделать условием её продажи то, что её «уаля» (право наследовать освобожденного) останется за ними. Когда она рассказала об этом Пророку ﷺ, он сказал: «Выкупи её и освободи, ведь, поистине, “уаля” принадлежит тому, кто освободил». ‘Аиша сказала: «Однажды Барире принесли мясо и Пророку ﷺ сказали: “Это (мясо) было дано в качестве милостыни Барире”. Пророк ﷺ ответил: “Для неё это милостыня, а для нас — подарок”».\nШу’ба (один из передатчиков) добавил: «Барире был предоставлен выбор (остаться с мужем или нет)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5284</td></tr><tr><td>Arabic No</td><td>5284</td></tr><tr><td>Reference</td><td>Book 68 Hadith 33</td></tr></tbody></table></div>
 

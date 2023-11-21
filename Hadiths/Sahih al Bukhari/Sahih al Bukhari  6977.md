@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Amr bin Ash-Sharid: Al-Miswar bin Makhrama came and put his hand on my
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] dari [Ibrahim bin Maisarah] aku mendengar [Amru bin Syarid] mengatakan, Miswar bin makhramah datang dan meletakkan tangannya di pundakku. Kemudian aku berangkat bersamanya menuju ke Sa'd. Lantas [Abu Rafi'] mengatakan kepada Miswar; 'Tidakkah engkau suruh orang ini untuk membeli rumahku yang berada di pekaranganku? ' ia berkata; 'Saya tidak menambahnya melebihi empat ratus, baik secara kontan atau kredit.' Abu rafi' mengatakan; 'Aku telah diberi lima ratus secara kontan, namun aku menolaknya, kalaulah aku tidak mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Tetangga lebih berhak terhadap dinding tetangganya, " niscaya aku tidak akan menjualnya kepadamu, -atau ia mengatakan dengan redaksi; 'niscaya tak akan memberikannya kepadamu'.- Saya berkata kepada Ma'mar; Ma'mar tidak mengatakan demikian, namun dia mengatakan kepadaku sedemikian dan mengatakan; Jika seseorang ingin menjual syuf'ah, maka ia boleh melakukan siasat sehingga membatalkan syuf'ah, dan penjual memberikan rumah kepada si pembeli, memberi batasan (waktu dan nilai) dan menyerahkannya kepada si pembeli, dan si pembeli menggantinya dengan seribu dirham, sehingga orang yang mempunyai syuf'ah tidak mempunyai syuf'ah lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6977</td></tr><tr><td>Arabic No</td><td>6977</td></tr><tr><td>Reference</td><td>Book 90 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Амр ибн аш-Шарид сказал: «(Однажды) аль-Мисвар ибн Махрама пришёл и положил руку мне на плечо, и я отправился вместе с ним к Са‘ду. Абу Рафи‘ сказал аль-Мисвару: “Не прикажешь ли ты этому (то есть Са‘ду) купить мой дом, который находится на моём участке”. Са‘д сказал: “Я дам тебе (за него) не более четырёх тысяч (дирхемов) частями!” (На это Абу Рафи‘) сказал: “Мне уже предлагали за него пятьсот динаров, но я отказался, и если бы я не слышал, как Пророк ﷺ сказал: “Сосед имеет больше прав на то, что прилегает к его участку”, то не продал бы его тебе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6977</td></tr><tr><td>Arabic No</td><td>6977</td></tr><tr><td>Reference</td><td>Book 90 Hadith 24</td></tr></tbody></table></div>
 

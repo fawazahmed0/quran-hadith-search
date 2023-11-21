@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) led us in the 'Asr or the Zuhr prayer and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Sa'ad bin Ibrahim] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata: "Nabi shallallahu 'alaihi wasallam shalat Zhuhur atau 'Ashar bersama kami, lalu Beliau memberi salam. Kemudian Dzul Yadain berkata kepada Beliau: "Wahai Rasulullah, apakah shalat dikurangi (raka'atnya)?" Maka Nabi shallallahu 'alaihi wasallam berkata kepada para sahabatnya: "Benarkah yang dikatakannya?" Orang-orang menjawab: "Benar". Maka Beliau menyempurnakan dua raka'at yang tertinggal lalu sujud dua kali". Berkata, Abu Hurairah radliallahu 'anhu: "Begitulah yang dikerjakan oleh Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 22 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Однажды Пророк ﷺ совершил с нами молитву зухр (или ‘аср) и произнёс слова таслима. Тогда Зуль-Йадайн спросил его: “О Посланник Аллаха, молитва стала короче?” Пророк ﷺ спросил сподвижников: “Правда ли то, что он говорит?” Они ответили: “Да!” Тогда Посланник Аллаха ﷺ совершил два других рак‘ата, затем совершил два земных поклона». \nСа‘д сказал: «Я видел, что ‘Урва бин аз-Зубайр совершил два рак‘ата в молитве магриб, он произнес слова таслима и поговорил. Затем он завершил остальную часть своей молитвы и совершил два земных поклона, сказав: “Так поступил Пророк ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 22 Hadith 4</td></tr></tbody></table></div>
 

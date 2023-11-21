@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd bin Abi Waqqas:The Prophet (ﷺ) used to teach us these words as h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Farwah bin Abu Al Maghra'] telah menceritakan kepada kami ['Ubaidah bin Humaid] dari [Abdul Malik bin 'Umair] dari [Mush'ab bin Sa'd bin Abu Waqqash] dari [Ayahnya] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam pernah mengajari kami beberapa kalimat (do'a) sebagaimana beliau kamu belajar menulis, yaitu; "ALLAHUMMA INNI A'UUDZU BIKA MINAL BUKHLI, WA A'UUDZU BIKA MINAL JUBNI, WA A'UUDZU BIKA AN URADDA ILAA ARDZALIL 'UMUR WA A'UUDZU BIKA MIN FITNATID DUNYA WA 'ADZAABIL QABRI Ya Allah, aku berlindung kepada-Mu dari sifat kikir, aku berlindung kepada-Mu dari sifat pengecut, aku berlindung kepada-Mu dari kepikunan, aku berlindung kepada-Mu dari fitnah dunia dan siksa kubur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6390</td></tr><tr><td>Arabic No</td><td>6390</td></tr><tr><td>Reference</td><td>Book 80 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘д ибн Абу Ваккъас, да будет доволен им Аллах, сказал: «Пророк ﷺ обучал нас этим словам, подобно тому, как обучал письменности: “О Аллах, поистине, я прибегаю к Тебе от скупости, и я прибегаю к Тебе от малодушия, и я прибегаю к Тебе от того, чтобы оказаться дряхлым стариком, и я прибегаю к Тебе от искушений мира этого и от мучений могилы”». \n/Аллахумма, инни а‘узу бика мина-ль-бухли, ва а‘узу бика мин аль-джубни, ва а‘узу бика мин ан урадда иля арзали-ль-‘умури, ва а‘узу бика мин фитнати-д-дунйа, ва ‘азаби-ль-къабр
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6390</td></tr><tr><td>Arabic No</td><td>6390</td></tr><tr><td>Reference</td><td>Book 80 Hadith 85</td></tr></tbody></table></div>
 

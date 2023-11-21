@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Salama reported Allah's Messenger (ﷺ) as saying:If any Muslim who suffers 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr] semuanya dari [Isma'il bin Ja'far] - [Ibnu Ayyub] berkata- telah menceritakan kepada kami [Isma'il] telah mengabarkan kepadaku [Sa'd bin Sa'id] dari [Umar bin Katsir bin Aflah] dari [Ibnu Safinah] dari [Ummu Salamah] bahwa ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seorang mukmin tertimpa musibah lalu ia membaca apa yang telah diperintahkan oleh Allah, 'INAA LILLAHI WAINNAA ILAIHI RAAJI'UUN ALLAHUMMA'JURNII FII MUSHIIBATI WA AKHLIF LII KHAIRAN MINHAA (Sesungguhnya kami adalah milik Allah dan akan kembali kepada Allah. Ya Allah, berilah kami pahala karena mushibah ini dan tukarlah bagiku dengan yang lebih baik daripadanya).' melainkan Allah menukar baginya dengan yang lebih baik." Ummu Salamah berkata; Ketika Abu Salamah telah meninggal, saya bertanya, "Orang muslim manakan yang lebih baik daripada Abu Salamah? Dia adalah orang-orang yang pertama-tama hijrah kepada Rasulullah shallallahu 'alaihi wasallam. Kemudian akupun mengucapkan doa tersebut. Maka Allah pun menggantikannya bagiku Rasulullah shallallahu 'alaihi wasallam." Ummu Salamah mengkisahkan; Rasulullah shallallahu 'alaihi wasallam mengutus Hatib bin Abu Balta'ah melamarku untuk beliau sendiri. Maka saya pun menjawab, "Bagaimana mungkin, aku telah mempunyai seorang anak wanita, dan aku sendiri adalah seorang pencemburu." Selanjutnya beliau pun menjawab: "Adapun anaknya, maka kita do'akan semoga Allah mencukupkan kebutuhannya, dan aku mendo'akan pula semoga Allah menghilangkan rasa cemburunya itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2126</td></tr><tr><td>Arabic No</td><td>918.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Умм Саляма, да будет доволен ею Аллах, сказала:– Я слышала, как Посланник Аллаха ﷺ сказал: «Если какого-либо мусульманина постигнет несчастье, а он скажет то, что повелел ему Аллах: “Поистине, мы принадлежим Аллаху и к Нему мы вернёмся! О Аллах, вознагради меня в несчастье моём и дай мне взамен него нечто лучшее!” /Инна ли-Лляхи, ва инна илейхи раджи‘уна! Аллахуммаъ-джурни фи мусыбати ва ахлиф ли хайран минха!/, – Аллах непременно даст ему взамен нечто лучшее». (Умм Саляма) сказала: «И когда Абу Саляма умер, я сказала: “Кто из мусульман может быть лучше Абу Салямы, дом которого был первым, кто переселился к Посланнику Аллаха ﷺ?” Но я всё-таки сказала это, и Аллах заменил мне (его) Посланником Аллаха ﷺ”».(Умм Саляма) сказала: «Посланник Аллаха ﷺ отправил ко мне Хатыба ибн Абу Бальта‘а сватать меня для него, и я сказала: “У меня есть дочь и я ревнива!” Но (Посланник Аллаха ﷺ) сказал: “Что касается её дочери, то мы обратимся к Аллаху с мольбой, чтобы Он избавил её от неё, и я обращусь с мольбой к Аллаху, чтобы Он погасил ревность”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2126</td></tr><tr><td>Arabic No</td><td>918.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 4</td></tr></tbody></table></div>
 

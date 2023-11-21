@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hakim bin Hizam:The Prophet (ﷺ) said, "The upper hand is better than 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Hakim bin Hiram radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam berkata,: "Tangan yang diatas lebih baik dari pada tangan yang di bawah, maka mulailah untuk orang-orang yang menjadi tanggunganmu dan shadaqah yang paling baik adalah dari orang yang sudah cukup (untuk kebutuhan dirinya). Maka barangsiapa yang berusaha memelihara dirinya, Allah akan memeliharanya dan barangsiapa yang berusaha mencukupkan dirinya maka Allah akan mencukupkannya". Dan dari [Wuhaib] berkata, telah mengabarkan kepada kami [Hisyam] dari [bapaknya] dari [Abu Hurairah radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1428</td></tr><tr><td>Arabic No</td><td>1428</td></tr><tr><td>Reference</td><td>Book 24 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1428</td></tr><tr><td>Arabic No</td><td>1428</td></tr><tr><td>Reference</td><td>Book 24 Hadith 31</td></tr></tbody></table></div>
 

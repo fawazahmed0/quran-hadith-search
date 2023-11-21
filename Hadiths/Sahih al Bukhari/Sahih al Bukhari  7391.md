@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) frequently used to swear, "No, by the One W
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Said bin Sulaiman] dari [Ibnul Mubarak] dari [Musa bin Uqbah] dari [Salim] dari [Abdullah] berkata, "Sumpah yang paling sering dipergunakan oleh Nabi ShallAllahu 'alaihi wa Salam adalah "Tidak! Ya Muqallibal quluub (Wahai Dzat yang membolak-balikkan hati)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7391</td></tr><tr><td>Arabic No</td><td>7391</td></tr><tr><td>Reference</td><td>Book 97 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн ‘Умар), да будет доволен Аллах им и его отцом, сказал: «Принося клятву, Пророк ﷺ больше всего говорил: “Нет, клянусь Тем, Кто переворачивает сердца! /Ля, ва мукаллиби-ль-кулюб!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7391</td></tr><tr><td>Arabic No</td><td>7391</td></tr><tr><td>Reference</td><td>Book 97 Hadith 20</td></tr></tbody></table></div>
 

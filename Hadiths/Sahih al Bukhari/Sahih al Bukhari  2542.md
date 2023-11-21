@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Muhairiz:I saw Abu Sa'id and asked him about coitus interruptus. Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Rabi'ah bin Abi 'Abdurrahman] dari [Muhammad bin Yahya] dari [Ibnu Muhairiz] berkata; Aku melihat [Abu Sa'id Al Khudriy radliallahu 'anhu] lalu aku bertanya kepadanya tentang sesuatu, maka dia berkata: "Kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam pada perang Bani Al Mushtaholiq lalu kami mendapatkan tawanan dari keturunan 'Arab lalu kami tertarik dengan para wanita, namun pada saat yang sama kami juga masih ingin membujang dan menyukai melakukan 'Azal (senggama terputus, coitus interuptus). Lalu kami tanyakan hal ini kepada Rasulullah shallallahu 'alaihi wasallam, maka Beliau bersabda: " Tidak sebaiknyakah kalian tidak melakukannya, sebab tidak ada satu nyawapun yang telah Allah tetapkan akan muncul (jadi) hingga hari qiyamat kecuali dia pasti akan terjadi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2542</td></tr><tr><td>Arabic No</td><td>2542</td></tr><tr><td>Reference</td><td>Book 49 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мухайриз сказал: «(Однажды) я увидел Абу Са‘ида, и спросил его (о прерывании полового акта) и он сказал: “Мы отправились вместе с Посланником Аллаха ﷺ в поход против бану аль-мусталик и захватили пленных из числа арабов. Мы возжелали женщин, ведь холостая жизнь стала тяготить нас, но мы захотели извергать семя вне лона. Мы спросили об этом Посланника Аллаха ﷺ, и он сказал: “Вам ничем не повредит, если вы не станете делать этого, ибо, поистине, всякая душа, которой суждено существование до самого Судного дня, непременно появится”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2542</td></tr><tr><td>Arabic No</td><td>2542</td></tr><tr><td>Reference</td><td>Book 49 Hadith 25</td></tr></tbody></table></div>
 

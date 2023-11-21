@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:I asked 'Aisha the wife of the Prophet (ﷺ) about the meaning of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Bukair] telah bercerita kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata telah mengabarkan kepadaku ['Urwah] bahwa dia pernah bertanya kepada ['Aisyah radliallahu 'anha], istri Nabi shallallahu 'alaihi wasallam; "Bagaimana pendapat kamu tentang firman Allah dalam QS Yusuf ayat 110 yang artinya ("Sehingga apabila para Rasul itu tidak mempunyai harapan lagi -tentang keimanan kaum mereka- dan mereka berprasangka bahwa mereka telah dituduh berdusta -kudzdzibuu, huruf dzal bertasydid) atau (didustakan, kudzibuu, dzal tidak bertasydid). 'Aisyah radliallahu 'anha berkata; "Bahkan yang benar adalah para rasul benar-benar telah didustakan oleh kaum mereka". Aku katakan; "Demi Allah, sungguh mereka telah yakin bahwa kaum mereka menuduh mereka berdusta, lalu apa maksud berprasangka dalam ayat itu?". 'Aisyah radliallahu 'anha berkata; "Wahai 'Urwah, sungguh para Rasul telah yakin mereka akan didustakan". Aku katakan; "Semoga saja begitu. Atau mereka hanya berprasangka bahwa mereka telah didustakan?". 'Aisyah radliallahu 'anha berkata; "Allah Maha Melindungi. Sungguh para Rasul tidak berprasangka kepada Rabb mereka. Ayat ini, katanya; "Adalah berkaitan dengan pengikut mereka yang ditimpa ujian dalam masa yang cukup lama, sedang pertolongan belum juga datang, sehingga ketika diantara mereka berputus asa terhadap orang yang mendustakan mereka dan jangan-jangan pengikutnya malah akan mendustakan kenabiannya, barulah datang pertolongan Allah". Abu 'Abdullah Al Bukhariy berkata; " Kata istay'asuu mengikuti pola kaliamat istaf'aluu yang berasal dari kata yaistu. Dalam Surah Yusuf laa tai'asuu mir rauhillah (janganlah kalian berputus asa dari rahmat Allah) maksudnya adalah agar selalu mengedepankan raja' (harapan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3389</td></tr><tr><td>Arabic No</td><td>3389</td></tr><tr><td>Reference</td><td>Book 60 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Урва сказал: «Я спросил ‘Аишу, жену Пророка ﷺ: “Что скажешь о словах (Всевышнего): “Когда же посланники приходили в отчаяние и полагали, что им не поверили (куззибу)…” или “были отвергнуты” (кузибу)?” Она ответила: “Их народ не поверил им”. Тогда ‘Урва сказал: “Клянусь Аллахом, они были уверены, что им не поверили, так почему же здесь слово “думали”?” Она ответила: “О ‘Урайя, они были уверены в этом”. Я сказал: “Может быть тогда были отвергнуты (Аллахом) (кузибу)?”. ‘Аиша сказала: “Да упасет Аллах, чтобы посланники думали такое о Своём Господе. Что касается этого аята, то здесь говориться о последователях посланников, которые уверовали в Господа, и поверили посланникам, но их испытания затянулись, а победа запаздывала. А когда посланники отчаивались в тех, кто не поверил им из их народов, и думали, что их последователи не поверили им, тогда к ним приходила помощь Аллаха”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3389</td></tr><tr><td>Arabic No</td><td>3389</td></tr><tr><td>Reference</td><td>Book 60 Hadith 63</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:'Umar came cursing the disbelievers (of Quraish) on the day of Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya Al Qaththan] telah mengabarkan kepada kami [Hisyam] berkata, telah menceritakan kepada kami [Yahya] -yaitu Ibnu Abu Katsir- dari [Abu Salamah] dari [Jabir bin 'Abdullah] berkata, "Pada peperangan Khandaq 'Umar bin Al Khaththab mengumpat orang-orang kafir, lalu ia berkata, "Hampir saja aku tidak melaksanakan shalat 'Ashar kecuali setelah Matahari hampir tenggelam." Umar melanjutkan, "Maka kami berdiri menuju aliran air (sungai), kemudian beliau melaksanakan shalat 'Ashar setelah matahari terbenam, dan dilanjutkan dengan shalat Maghrib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>598</td></tr><tr><td>Arabic No</td><td>598</td></tr><tr><td>Reference</td><td>Book 9 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах ими обоими, сказал:о том, что в (один из) дней битвы у рва ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, принялся ругать неверных (курайшитов), а потом сказал: «Я едва успел закончить послеполуденную молитву до того, как солнце начало уходить за горизонт!»\n(Джабир) сказал: «Затем мы спустились в Бутхан и (Пророк ﷺ) совершил (с нами) послеполуденную молитву после того, как солнце зашло, а после этого он совершил закатную молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>598</td></tr><tr><td>Arabic No</td><td>598</td></tr><tr><td>Reference</td><td>Book 9 Hadith 73</td></tr></tbody></table></div>
 

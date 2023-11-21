@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:'Aisha bought Barira in order to manumit her, but her masters 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Abu 'Awanah] dari [Manshur] dari [Ibrahim] dari [Al Aswad] bahwasanya ['Aisyah] radliallahu 'anha membeli Barirah untuk ia merdekakan, namun pemiliknya memberi syarat bahwa wala'nya tetap milik mereka. Maka Aisyah berkata; 'Wahai Rasulullah, saya ingin membeli Barirah untuk saya merdekakan, namun pemiliknya memberi syarat wala'nya tetap milik mereka! ' Maka Nabi bersabda: "Merdekakanlah dia, sesungguhnya wala' milik orang yang memerdekakan!" atau beliau bersabda dengan redaksi: "bagi orang yang membayar harganya." Selanjutnya Aisyah membelinya dan memerdekakannya. Kata Aswad; 'Barirah disuruh memilih untuk tetap bersama suaminya atau bercerai, dan ia memilih merdeka dan berkata; 'Kalaulah aku diberi begini-begini, saya tidak ingin tetap bersamanya! ' Al Aswad mengatakan; 'suaminya merdeka.' Ucapan Al Aswad terputus, dan Ucapan Ibnu Abbas; 'menurut saya suaminya budak' adalah lebih sahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6754</td></tr><tr><td>Arabic No</td><td>6754</td></tr><tr><td>Reference</td><td>Book 85 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Асвада, что когда ‘Аиша захотела выкупить Бариру, чтобы освободить её, её владельцы поставили условие, что право наследовать вольноотпущенника /аль-уаля/ останется за ними. Тогда она сказала: «О Посланник Аллаха, я выкупила Бариру, чтобы освободить её, но её владельцы поставили условие, что право наследовать вольноотпущенника /аль-уаля/ останется за ними». (На это) Пророк ﷺ ответил: «Освободи её, ведь право наследовать вольноотпущенника /аль-уаля/ принадлежит тому, кто освободил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6754</td></tr><tr><td>Arabic No</td><td>6754</td></tr><tr><td>Reference</td><td>Book 85 Hadith 31</td></tr></tbody></table></div>
 

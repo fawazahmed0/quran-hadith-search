@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:Surat Bani-lsrael, Al-Kahf (The Cave), Maryam, Tah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] ia berkata, Aku mendengar [Abdurrahman bin Yazid bin Qais] Aku mendengar [Ibnu Mas'ud] berkata terkait dengan surat Bani Isra'il, Al Kahfi Maryam, Thaaha dan Al Anbiya', "Sesungguhnya itu semua adalah dari surat-surat pertama yang diturunkan, dan semuanya pernah saya baca semenjak dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4994</td></tr><tr><td>Arabic No</td><td>4994</td></tr><tr><td>Reference</td><td>Book 66 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд, да будет доволен им Аллах, сказал о сурах «Бану Исраиль», «аль-Кяхф», «Марьям», «Та Ха» и «аль-Анбия»: «Они были одними из первых ниспосланных сур, и их я заучил одними из первых»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4994</td></tr><tr><td>Arabic No</td><td>4994</td></tr><tr><td>Reference</td><td>Book 66 Hadith 16</td></tr></tbody></table></div>
 

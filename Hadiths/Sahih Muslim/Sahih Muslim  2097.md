@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith is narrated thus on the authority of 'A'isha through another chain o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ghassan Al Misma'i] dan [Muhammad bin Al Mutsanna] keduanya berkata, telah menceritakan kepada kami [Mu'adz bin Hisyam] telah menceritakan kepadaku [bapakku] dari [Qatadah] dari [Atha' bin Abu Rabah] dari [Ubaid bin Umair] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam shalat (khusuf) dengan enam ruku' dan empat sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2097</td></tr><tr><td>Arabic No</td><td>901.07</td></tr><tr><td>Reference</td><td>Book 10 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что (во время этой молитвы) Пророк Аллаха ﷺ совершил шесть поясных поклонов и четыре земных
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2097</td></tr><tr><td>Arabic No</td><td>901.07</td></tr><tr><td>Reference</td><td>Book 10 Hadith 8</td></tr></tbody></table></div>
 

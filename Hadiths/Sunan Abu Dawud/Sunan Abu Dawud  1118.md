@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu al-Zahiriyyah said:We were in the company of 'Abd Allah b. Busr, the Compani
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] telah menceritakan kepada kami [Bisyr bin As Sarri] telah menceritakan kepada kami [Mu'awiyah bin Shalih] dari [Abu Az Zahiriyah] dia berkata; "Kami bersama Abdullah bin Busr -salah seorang sahabat Nabi shallallahu 'alaihi wasallam- pada hari Jum'ah, tiba-tiba seorang laki-laki datang melangkahi pundak orang-orang, maka [Abdullah bin Busr] berkata; "Pernah datang seseorang dengan melangkahi pundak orang-orang pada hari jum'at, sedangkan Nabi shallallahu 'alaihi wasallam tengah berkhutbah, maka Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Duduklah, kamu benar-benar telah mengganggu (orang lain)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1118</td></tr><tr><td>Arabic No</td><td>1118</td></tr><tr><td>Reference</td><td>Book 2 Hadith 729</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1118</td></tr><tr><td>Arabic No</td><td>1118</td></tr><tr><td>Reference</td><td>Book 2 Hadith 729</td></tr></tbody></table></div>
 

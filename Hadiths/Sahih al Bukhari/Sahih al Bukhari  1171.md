@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid:Somebody came to the house of Ibn 'Umar and told him that Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Sayf bin Sulaiman] aku mendengar [Mujahid] berkata, " [Ibnu'Umar radliallahu 'anhuma] ditemui di rumahnya lalu dikatakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam masuk Ka'bah" Dia berkata: "Maka aku susul Beliau namun Beliau sudah keluar dari dalam Ka'bah dan aku hanya mendapatkan Bilal sedang berdiri di depan pintu. Aku tanyakan kepadanya; "Wahai Bilal, apakah Rasulullah shallallahu 'alaihi wasallam mendirikan shalat dalam Ka'bah?" [Bilal] menjawab: Iya". Aku berkata lagi; "dimana beliau shalat?" Dia menjawab: "Diantara dua tiang, kemudian keluar dan mendirikan shalat dua raka'at di depan Ka'bah". Berkata Abu 'Abdullah: berkata, Abu Hurairah radliallahu 'anhu: "Nabi shallallahu 'alaihi wasallam telah mewasiatkan aku agar melaksanakan shalat Dhuha dua raka'at". Dan berkata, 'Utban bin Malik: Aku pernah bersama Rasulullah shallallahu 'alaihi wasallam dan Abu Bakar radliallahu 'anhu di waktu pagi hari hingga siang mulai meninggi, lalu Beliau shallallahu 'alaihi wasallam membariskan kami di belakangnya kemudian shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1171</td></tr><tr><td>Arabic No</td><td>1171</td></tr><tr><td>Reference</td><td>Book 19 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают, что ‘Аиша, да будет доволен ею Аллах, сказала: «Обычно Пророк ﷺ облегчал два рак‘ата(, совершавшиеся им) перед обязательной утренней молитвой, (настолько,) что я всегда задавалась вопросом: неужели он читал (только) “Аль-Фатиху”?»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1171</td></tr><tr><td>Arabic No</td><td>1171</td></tr><tr><td>Reference</td><td>Book 19 Hadith 50</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin Samura:I heard the Prophet (ﷺ) saying, "There will be twelv
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abdul Malik], aku mendengar [Jabir bin Samurah] mengatakan, aku mendengar Nabi shallallahu 'alaihi wasallam bersabda; "akan muncul dua belas pemimpin, " kemudian beliau mengucapkan kalimat yang tidak dapat kami dengar, maka [ayahku] berkata; beliau mengatakan: "Kesemuanya dari qurasy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7222</td></tr><tr><td>Arabic No</td><td>7222</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир бин Самура, да будет доволен им Аллах, сказал:\n— Я слышал, как Пророк ﷺ сказал: «Будет двенадцать правителей…», после чего он произнёс какое-то слово, которого я не расслышал, а мой отец сказал: «Он сказал: “…и все они будут из (племени) курайш”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7222</td></tr><tr><td>Arabic No</td><td>7222</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

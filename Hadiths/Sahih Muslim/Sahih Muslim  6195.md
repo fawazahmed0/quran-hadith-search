@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:While I was asleep I saw 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin 'Abdur Rahman bin Wahb]; Telah menceritakan kepada kami pamanku ['Abdullah bin Wahb]; Telah mengabarkan kepadaku ['Amru bin Al Harits] bahwa [Abu Yunus] -budak- Abu Hurairah Telah menceritakan kepadanya dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Ketika tidur aku bermimpi sedang menimba di telagaku, memberi minum kepada orang-orang. Lalu Abu Bakr datang kepadaku dan mengambil timba dari tanganku karena ingin membantuku. Abu Bakr menimba dua ember dan beliau kelihatan susah payah, -semoga Allah mengampuninya.-setelah itu Umar datang dan mengambil timba tersebut dari tangan Abu Bakr. Aku tidak melihat seorangpun yang lebih kuat dari dia, hingga orang-orang pun berkumpul sambil membawa hewan ternak mereka untuk mengambil minum, sedangkan telaga tersebut tetap penuh dan memancarkan airnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6195</td></tr><tr><td>Arabic No</td><td>2392.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6195</td></tr><tr><td>Arabic No</td><td>2392.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 26</td></tr></tbody></table></div>
 

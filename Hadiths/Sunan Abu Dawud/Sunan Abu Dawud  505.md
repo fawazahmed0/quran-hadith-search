@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Mahdhurah said that the apostle of Allah (May peace be upon him) taught him 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An-Nufaili] telah menceritakan kepada kami [Ibrahim bin Isma'il bin Abdil Malik bin Abi Mahdzurah] dia berkata; Saya telah mendengar [kakekku, Abdul Malik bin Abi Mahdzurah] menyebutkan bahwasanya dia telah mendengar [Abu Mahdzurah] berkata; Rasulullah shallallahu 'alaihi wasallam telah mengajarkan kepadaku cara adzan, huruf demi huruf, yaitu: Allaahu Akbar Allaahu akbar, Allahu Akbar Allaahu Akbar, Asyhadu an laa ilaaha' illallaah, Asyhadu an laa ilaaha' illallaah, Asyhadu Anna Muhammadar Rasuulullah, asyhadu Anna Muhammadar Rasuulullah, Asyhadu an laa ilaaha illallaah, asyhadu an laa ilaaha illallaah, Asyhadu anna Muhammadar Rasuulullah, Asyhadu anna Muhammadar Rasuulullah, Hayya 'alas shalaah, hayya 'alas shalaah, hayya 'alal falaah, hayya 'alal falaah. Kata Abu Mahdzurah; Pada adzan shalat subuh beliau mengucapkan: Asshalaatu khairun minan nauum. Telah menceritakan kepada kami [Muhammad bin Dawud Al-Iskandari] telah menceritakan kepada kami [Ziyad bin Yunus] dari [Nafi' bin Umar Al-Jumahi] dari [Abdul Malik bin Abu Mahdzurah] dia telah mengabarkan kepadanya dari [Abdullah bin Muhairiz Al-Jumahi] dari [Abu Mahdzurah] bahwasanya Rasululah shallallahu 'alaihi wasallam telah mengajarinya adzan, beliau mengucapkan: Allaahu akbar Allaahu akbar, Asyhadu an laa ilaaha illallaah, Asyhadu an laa ilaaha illailaah..., kemudian dia menyebutkan seperti tata cara adzan yang disebutkan dalam hadits Ibnu Juraij dari Abdul Aziz bin Abdul Malik dan maknanya, Abu Dawud berkata; Dan di dalam hadits [Malik bin Dinar] dia berkata; Saya telah bertanya kepada [Ibnu Abi Mahdzurah], saya katakan; Ceritakan kepadaku tata cara adzan [ayahmu] dari Rasulullah shallallahu 'alaihi wasallam. Maka dia menyebutkan; lalu berkata, Allaahu Akbar, Allaahu Akbar saja. Demikian juga hadits [Ja'far bin Sulaiman] dari [Ibnu Abi Mahdzurah] dari [pamannya] dari [kakeknya] hanya saja dia menyebutkan; beliau bersabda: "Kemudian kamu ulangi dengan mengangkat suaramu, Allahu Akbar Allahu Akbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>505</td></tr><tr><td>Arabic No</td><td>505</td></tr><tr><td>Reference</td><td>Book 2 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Махзуры о том, что Посланник Аллаха ﷺ научил его возвещать азан говоря: «Аллаху акбар! Аллаху акбар! Ашхаду ан ля иляха илля-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду анна Мухаммадан расулю-Ллах!»Затем он (Нафи‘ ибн ‘Умар) упомянул о таком же азане, о котором говорится в хадисе Ибн Джурайджа, переданного от ‘Абдульазиза ибн ‘Абдульмалика и его суть.Абу Дауд сказал: «В хадисе Малика ибн Динара он сказал: “Я спросил Ибн Абу Махзура. Я сказал: “Расскажи мне об азане своего отца (которому научил его) Посланник Аллаха ﷺ”. И он рассказал об этом и сказал только (дважды): “Аллаху акбар! Аллаху акбар!” И также хадис Джа‘фара ибн Сулеймана от Ибн Абу Мухзуры, переданного со слов его дяди по отцовской линии, передавшего от его деда, исключая то, что он сказал в нём: “Затем повторяй повышая свой голос: Аллаху акбар! Аллаху акбар!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>505</td></tr><tr><td>Arabic No</td><td>505</td></tr><tr><td>Reference</td><td>Book 2 Hadith 115</td></tr></tbody></table></div>
 

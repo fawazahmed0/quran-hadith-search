@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) went to Quba to offer p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Husain bin Isa Al Khurasani Ad Damighani] telah menceritakan kepada kami [Ja'far bin 'Aun] telah menceritakan kepada kami [Hisyam bin Sa'd] telah menceritakan kepada kami [Nafi'] dia berkata; saya mendengar [Abdullah bin Umar] berkata; Rasulullah shallallahu 'alaihi wasallam berangkat menuju Quba' dan shalat di sana, lantas orang-orang Anshar datang menemui beliau sambil mengucapkan salam, sedangkan beliau tengah mengerjakan shalat." Abdullah berkata; "Aku bertanya kepada Bilal; "Bagaimana kamu melihat Rasulullah shallallahu 'alaihi wasallam menjawab salam ketika mereka memberi salam kepada beliau yang sedang shalat?" Bilal menjawab; "Seperti ini, sambil membuka telapak tangannya. dan Ja'far bin 'Aun membuka telapak tangannya dengan menjadikan bagian dalamnya di bawah dan bagian luarnya di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>927</td></tr><tr><td>Arabic No</td><td>927</td></tr><tr><td>Reference</td><td>Book 2 Hadith 538</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом: «Однажды Посланник Аллаха ﷺ отправился в мечеть Куба (которая располагается на расстоянии 4 км от Медины), чтобы совершить там молитву, и подошедшие ансары поприветствовали его, когда он молился. Я спросил Биляля: “Как Посланник Аллаха ﷺ ответил на их приветствие, ведь он молился?” Он сказал: “Простёр кисть ладонью вниз”». И (передатчик) Джа‘фар ибн ‘Ауф простёр кисть ладонью вниз, а внешней частью вверх
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>927</td></tr><tr><td>Arabic No</td><td>927</td></tr><tr><td>Reference</td><td>Book 2 Hadith 538</td></tr></tbody></table></div>
 

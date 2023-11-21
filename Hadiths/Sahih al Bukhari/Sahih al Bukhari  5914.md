@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I heard 'Umar saying, "Whoever braids his hair shou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Salim bin Abdullah] bahwa [Abdullah bin Umar] berkata; saya mendengar Umar radliallahu 'anhu berkata; "Barangsiapa mengepang rambutnya hendaknya ia mencukurnya (ketika haji) dan janganlah ia seperti orang yang mengikat rambutnya (menguncir), sementara Ibnu Umar mengatakan; "Sesungguhnya saya pernah melihat Rasulullah shallallahu 'alaihi wasallam mengikat (menguncir) rambutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5914</td></tr><tr><td>Arabic No</td><td>5914</td></tr><tr><td>Reference</td><td>Book 77 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, что ‘Умар, да будет доволен им Аллах, сказал: «Пусть тот, кто заплёл свои волосы в косы, побреет их (для выхода из ихрама). И не заплетайте волосы так, будто они склеены камедью /тальбид/».\nИбн ‘Умар говорил: «Я видел Посланника Аллаха ﷺ со склеенными камедью волосами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5914</td></tr><tr><td>Arabic No</td><td>5914</td></tr><tr><td>Reference</td><td>Book 77 Hadith 129</td></tr></tbody></table></div>
 

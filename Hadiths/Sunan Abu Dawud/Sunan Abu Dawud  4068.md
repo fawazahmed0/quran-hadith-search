@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) saw me. The v
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Utsman Ad Dimasyqi] berkata, telah menceritakan kepada kami [Isma'il bin Ayyas] dari [Syurahbil bin Muslim] dari [Syuf'ah] dari [Abdullah bin Amru bin Al Ash] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melihatku, -Abu Ali Al Lu'lu'I menyebutkan-, "menurutku beliau melihat aku mengenakan kain yang dicelup dengan warna kuning. Maka beliau bersabda: "Apa-apaan ini!" Aku lalu pergi dan membakar kain tersebut. Nabi shallallahu 'alaihi wasallam lalu bertanya lagi: "Apa yang engkau lakukan dengan kain milikmu?" Aku menjawab, "Kain itu aku bakar." Beliau bersabda: "Kenapa tidak engkau berikan untuk sebagian isterimu?" Abu Dawud berkata, " [Tsaur] meriwayatkannya dari [Khalid], ia mengatakan, "warna mawar" sedangkan [Thawus] mengatakan; "warna kuning
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4068</td></tr><tr><td>Arabic No</td><td>4068</td></tr><tr><td>Reference</td><td>Book 34 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра ибн аль-‘Аса, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ увидел меня, когда на мне была окрашенная шафраном в розовый цвет одежда, и спросил: “Что это?” Тогда я пошёл и сжёг эту одежду. Потом Пророк ﷺ спросил: “Что ты сделал со своей одеждой?” Я ответил: “Я сжёг её”. Он спросил: “Почему же ты не отдал её кому-то из своих женщин (жене или кому-то из своих родственниц)?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4068</td></tr><tr><td>Arabic No</td><td>4068</td></tr><tr><td>Reference</td><td>Book 34 Hadith 49</td></tr></tbody></table></div>
 

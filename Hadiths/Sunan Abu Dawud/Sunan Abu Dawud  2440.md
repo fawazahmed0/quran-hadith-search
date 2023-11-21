@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: Ikrimah said: We were with AbuHurayrah in his house when h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb], telah menceritakan kepada kami [Hausyab bin 'Uqail], dari [Mahdi Al Hajari], telah menceritakan kepada kami ['Ikrimah], ia berkata; dahulu kami pernah di sisi [Abu Hurairah] di rumahnya, kemudian ia bercerita kepada kami bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang berpuasa pada hari 'Arafah di 'Arafah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2440</td></tr><tr><td>Arabic No</td><td>2440</td></tr><tr><td>Reference</td><td>Book 14 Hadith 128</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Икримы: «Мы были у Абу Хурайры в его доме, и он сказал нам, что Посланник Аллаха ﷺ запретил поститься в день ‘Арафата стоящим на Арафате»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2440</td></tr><tr><td>Arabic No</td><td>2440</td></tr><tr><td>Reference</td><td>Book 14 Hadith 128</td></tr></tbody></table></div>
 

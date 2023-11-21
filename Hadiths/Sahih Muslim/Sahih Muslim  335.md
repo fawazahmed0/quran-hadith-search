@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] mereka berkata, telah menceritakan kepada kami [Ismail] -yaitu Ibnu Ja'far- dari [al-Ala'] dari [bapaknya] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, "Allah berfirman: 'Apabila hamba-Ku berkeinginan untuk kebaikan namun belum melakukannya maka Aku menulisnya sebagai satu kebaikan, maka jika dia melakukannya maka Aku menuliskannya sebagai sepuluh kebaikan hingga tujuh ratus kali lipat. Dan apabila dia berkeinginan untuk kejelekan dan dia melakukannya maka Aku tidak mencatatnya sebagai dosa, namun jika dia mengamalkannya maka Aku menuliskannya sebagai satu kejelekan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>335</td></tr><tr><td>Arabic No</td><td>128.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 242</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайра, что Посланник Аллаха ﷺ сказал: «Великий и Могучий Аллах сказал: “Если решит раб Мой совершить добрый поступок, но не совершит его, Я запишу ему одно благодеяние, а если он совершит его, то Я запишу ему от десяти до семисот добрых дел. Если же он решит совершить дурной поступок, но не совершит его, то Я не запишу его за ним, если же он совершит его, то Я запишу ему один дурной поступок”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>335</td></tr><tr><td>Arabic No</td><td>128.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 242</td></tr></tbody></table></div>
 

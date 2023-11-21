@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Zaid bin Khalid Al-Juhani:A man came to the Prophet (ï·
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] telah menceritakan kepada kami [Ibnu Uyainah] dari [Az Zuhri] dari [Ubaidullah bin Abdullah bin Utbah] dari [Abu Hurairah] dan [Zaid bin Khalid Al Juhani] mengatakan, Seorang laki-laki mendatangi Nabi shallallahu 'alaihi wasallam dan berujar; 'Saya bersumpah kepadamu dengan nama Allah, hendaknya engkau memutuskan diantara kami dengan kitabullah.' Lantas lawan sengketanya yang lebih faqih darinya berdiri dan berkata; 'Ia benar, putuskanlah diantara kami dengan kitabullah, dan perkenankan saya ya Rasulullah untuk bicara! ' Nabi menjawab; "Silahkan bicara". Ia meneruskan; 'anak saya menjadi pekerja orang ini, kemudian dia berzina dengan isterinya, maka aku menebusnya dengan seratus ekor kambing dan satu pelayan. Aku kemudian bertanya kepada beberapa orang ahlul ilmu dan mereka memberitahukan kepadaku bahwa anakku didera seratus kali dan diasingkan selama setahun dan wanita ini dirajam.' Lantas Nabi bersabda: "Demi Dzat yang jiwaku berada di tangan-NYA, sungguh aku akan putuskan diantara kalian berdua, seratus ekor kambing dan pelayan dikembalikan kepadamu, kemudian anakmu didera seratus kali dan diasingkan selama setahun, dan engkau hai Unais Al Aslami, temuilah si wanita dan tanyailah, jika ia mengakui maka rajamlah!" Si Wanita akhirnya mengaku dan dia merajamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6860</td></tr><tr><td>Arabic No</td><td>6860</td></tr><tr><td>Reference</td><td>Book 86 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6860</td></tr><tr><td>Arabic No</td><td>6860</td></tr><tr><td>Reference</td><td>Book 86 Hadith 81</td></tr></tbody></table></div>
 

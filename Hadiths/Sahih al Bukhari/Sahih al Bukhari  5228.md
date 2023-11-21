@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:That Allah's Messenger (ﷺ) said to her, "I know when you are pl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaid bin Isma'il] Telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [bapaknya] dari [Aisyah] radliallahu 'anha, ia berkata; Rasulullah shallallahu 'alaihi wasallam perna bersabda kepadaku: "Sesungguhnya aku benar-benar tahu saat kamu ridla padaku dan saat kamu tidak ridla denganku." Aisyah berkata; Aku bertanya, "Dari mana Anda mengetahui hal itu?" maka beliau pun menjawab: "Jika kamu ridla terhadapku maka engkau berkata, 'Demi Rabb Muhammad.' Namun bila kamu sedang marah denganku, maka kamu berkata, 'Tidak. Demi Rabb Ibrahim.'" Aku pun berkata, "Demi Allah wahai Rasulullah, aku tidak meninggalkan namamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5228</td></tr><tr><td>Arabic No</td><td>5228</td></tr><tr><td>Reference</td><td>Book 67 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала:\n— (Однажды) Посланник Аллаха ﷺ сказал мне: «Поистине, я знаю, когда ты довольна мной, а когда сердишься на меня». Я спросила: «Откуда же ты знаешь это?» Он ответил: «Когда ты мной довольна, ты говоришь: “Нет, клянусь Господом Мухаммада!” — а когда сердишься, говоришь: “Нет, клянусь Господом Ибрахима!”» Я сказала: «Да, но, клянусь Аллахом, о Посланник Аллаха, я не изменяю ничего, кроме твоего имени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5228</td></tr><tr><td>Arabic No</td><td>5228</td></tr><tr><td>Reference</td><td>Book 67 Hadith 161</td></tr></tbody></table></div>
 

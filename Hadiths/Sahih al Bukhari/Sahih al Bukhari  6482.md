@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:Allah's Messenger (ﷺ) said. "My example and the example of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Ala] telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abdullah bin Abu Burdah] dari [Abu Buraid] dari [Abu Musa] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: "Perumpamaanku dan perumpamaan risalah yang kubawa bagaikan seseorang yang mendatangi suatu kaum, lantas orang itu memberi peringatan; 'Awas, awas, telah kulihat sebuah pasukan dengan kedua mataku, dan aku adalah pemberi peringatan orang yang telanjang, selamatkanlah kalian-selamatkanlah kalian, ' sebagian diantara kalian menaatinya dan cepat-cepat meneruskan perjalanannya sehingga selamat, sebaliknya sebagian kalian mendustakannya sehingga pasukan menyerangnya secara mendadak di pagi buta dan menyandera mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6482</td></tr><tr><td>Arabic No</td><td>6482</td></tr><tr><td>Reference</td><td>Book 81 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Я и то, с чем направил меня (к людям) Аллах, подобны человеку, который пришёл к (своим соплеменникам) и сказал: “Я видел войско своими глазами, и я — нагой увещеватель, спасайтесь же, спасайтесь!” И некоторые (из них) послушались его, потихоньку двинулись в путь ещё затемно и спаслись, (другие) же посчитали его слова ложью, а наутро к ним явилось это войско(, заставшее их врасплох,) и уничтожило их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6482</td></tr><tr><td>Arabic No</td><td>6482</td></tr><tr><td>Reference</td><td>Book 81 Hadith 71</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Imran b. Husain reported:We were with Allah's Messenger (ﷺ) in some of his jou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] seluruhnya dari [Ibnu 'Ulayyah]. [Zuhair] berkata; Telah menceritakan kepada kami [Isma'il bin Ibrahim]; Telah menceritakan kepada kami [Ayyub] dari [Abu Qilabah] dari [Abu Al Muhallab] dari ['Imran bin Hushain] dia berkata; "Ketika Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, ada seorang wanita Anshar yang tengah mengendarai unta. Namun, unta yang sedang dikendarainya itu memberontak dengan tiba-tiba. Lalu dengan serta-merta wanita itu mengutuk untanya. Ketika Rasulullah mendengar ucapan wanita itu, beliau pun bersabda: 'Turunkanlah beban di atas unta dan lepaskanlah unta tersebut, karena ia telah dikutuk.' Imran berkata; 'Sepertinya saya melihat unta tersebut berjalan bersama rombongan kafilah tanpa ada seorang pun yang mengendarainya.' Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Ar Rabi'] keduanya berkata; Telah menceritakan kepada kami [Hammad] yaitu Ibnu Zaid; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Ats Tsaqafi] keduanya dari [Ayyub] dengan sanad Isma'il yang serupa dengan Hadits tersebut. Namun di dalam Hadits Hammad, Imran berkata; 'Sepertinya aku melihat unta itu warna putihnya telah bercampur dengan warna hitam.' Sedangkan di dalam Hadits Ats Tsaqafi beliau bersabda: 'Turunkanlah beban di atas unta dan lepaskanlah unta tersebut, karena ia telah dikutuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6604</td></tr><tr><td>Arabic No</td><td>2595.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран ибн Хусайн рассказывал: «Во время одной из поездок Посланника Аллаха ﷺ одна женщина из числа ансаров, сидевшая верхом на верблюдице, пришла в раздражение и прокляла её. Услышав это, Посланник Аллаха ﷺ сказал: “Возьмите вещи с верблюдицы и оставьте её, ибо, поистине, она проклята!”».‘Имран продолжил и сказал: «Я будто сейчас вижу, как она беспрепятственно ходит среди людей так, что никто из них даже не притрагивается к ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6604</td></tr><tr><td>Arabic No</td><td>2595.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 102</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Messenger of Allah (ﷺ) prohibited to sit on hips 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Auf] telah menceritakan kepada kami [Al Muqri'] telah menceritakan kepada kami [Sa'id bin Abu Ayyub] dari [Abu Marhum] dari [Sahl bin Mu'adz bin Anas] dari [ayahnya] bahwa Rasulullah shallallahu 'alaihi wasallam melarang duduk bertekuk lutut ketika imam berkhutbah pada hari Jum'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1110</td></tr><tr><td>Arabic No</td><td>1110</td></tr><tr><td>Reference</td><td>Book 2 Hadith 721</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сахль ибн Му‘аз ибн Анас сообщил со слов своего отца: «Посланник Аллаха ﷺ запретил сидеть на ягодицах, подняв колени и обхватив их руками, в пятницу, в то время, когда имам произносит хутбу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1110</td></tr><tr><td>Arabic No</td><td>1110</td></tr><tr><td>Reference</td><td>Book 2 Hadith 721</td></tr></tbody></table></div>
 

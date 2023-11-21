@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported the Messenger of Allah (ﷺ) as saying:Everyone among you i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] katanya; aku pernah menyetorkan hapalan kepada [Malik] dari [Abu Zanad] dari [Al A'raj] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Salah seorang diantara kalian masih dihitung dalam shalat selama ia tertahan oleh shalat, dan tidak ada yang menhannya untuk kembali ke keluarganya selain shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>649.10</td></tr><tr><td>Reference</td><td>Book 5 Hadith 343</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Никто из вас не перестанет находиться на молитве всё то время, пока лишь молитва будет удерживать его (там) от возвращения к своей семье»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>649.10</td></tr><tr><td>Reference</td><td>Book 5 Hadith 343</td></tr></tbody></table></div>
 

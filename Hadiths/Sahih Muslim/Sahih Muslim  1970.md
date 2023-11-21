@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Abu'l-Qasim (the kunya of the Holy Prophet) (ﷺ) as saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah menceritakan kepada kami [Ayyub] dari [Muhammad] dari [Abu Hurairah] ia berkata; Abul Qasim shallallahu 'alaihi wasallam bersabda: "Sesungguhnya pada hari Jum'at terdapat satu waktu, tidaklah seorang mukmin mendapati saat itu dengan berdo'a, memohon kebaikan kepada Allah, kecuali Allah akan mengabulkan permohonannya." Kemudian beliau memberikan isyarat dengan tangannya, yakni mempersempitnya. Telah menceritakan kepada kami [Ibnul Mutsanna] Telah menceritakan kepada kami [Ibnu Abu Adi] dari [Ibnu Aun] dari [Muhammad] dari [Abu Hurairah] ia berkata; Abul Qasim shallallahu 'alaihi wasallam bersabda: Yakni dengan hadits semisalnya. Dan telah menceritakan kepadaku [Humaid bin Mas'adah Al Bahili] Telah menceritakan kepada kami [Bisyr] yakni Ibnu Mufadldlal, Telah menceritakan kepada kami [Salamah bin Alqamah] dari [Muhammad] dari [Abu Hurairah] ia berkata; Abul Qasim shallallahu 'alaihi wasallam bersabda: Yakni dengan hadits yang semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1970</td></tr><tr><td>Arabic No</td><td>852.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Хурайра сказал: «(Однажды) Абу-ль-Касим ﷺ сказал: “Поистине, есть в пятницу такой период времени, когда Аллах непременно дарует мусульманину, совершающему (в это время) молитву и просящему Его (даровать ему) нечто благое, то, (чего тот просит)”, после чего сделал знак рукой, показывая, сколь короток этот период»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1970</td></tr><tr><td>Arabic No</td><td>852.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 20</td></tr></tbody></table></div>
 

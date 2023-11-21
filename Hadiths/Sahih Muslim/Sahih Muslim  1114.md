@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) was asked in the expedition of Tabu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1114</td></tr><tr><td>Arabic No</td><td>500.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 276</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что во время битвы при Табуке Посланника Аллаха ﷺ спросили о преграде /сутра/ молящегося, и он сказал: «(Это) что-то наподобие задней части седла».Глава: Молитва перед копьём
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1114</td></tr><tr><td>Arabic No</td><td>500.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 276</td></tr></tbody></table></div>
 

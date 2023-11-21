@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar reported the Messenger of Allah (ﷺ) as saying, or reported ‘Umar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda, atau Ibnu Umar berkata; Umar radliallahu 'anhu berkata; "Apabila salah seorang di antara kalian mempunyai dua kain pakaian, maka shalatlah dengan keduanya. Apabila dia mempunyai sehelai kain pakaian saja, hendaklah dia mengenakannya seperti kain sarung dan janganlah dia berselubung seperti orang-orang yahudi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>635</td></tr><tr><td>Arabic No</td><td>635</td></tr><tr><td>Reference</td><td>Book 2 Hadith 245</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Посланник Аллаха ﷺ сказал: или он сказал: "‘Умар, да будет доволен им Аллах, сказал: “Если у кого-то из вас есть две одежды, пусть совершает молитву в ней, а если у него есть только одна одежда, пусть обматывает её (вокруг талии). И не закутывайтесь подобно тому, как это делают иудеи”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>635</td></tr><tr><td>Arabic No</td><td>635</td></tr><tr><td>Reference</td><td>Book 2 Hadith 245</td></tr></tbody></table></div>
 

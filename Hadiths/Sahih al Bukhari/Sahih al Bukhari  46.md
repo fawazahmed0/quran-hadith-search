@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Talha bin 'Ubaidullah: A man from Najd with unkempt hair came to Allah'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] Telah menceritakan kepadaku [Malik bin Anas] dari pamannya - [Abu Suhail bin Malik] - dari [bapaknya], bahwa dia mendengar [Thalhah bin 'Ubaidullah] berkata: Telah datang kepada Rasulullah shallallahu 'alaihi wasallam seorang dari penduduk Najed dalam keadaan kepalanya penuh debu dengan suaranya yang keras terdengar, namun tidak dapat dimengerti apa maksud yang diucapkannya, hingga mendekat (kepada Nabi shallallahu 'alaihi wasallam) kemudian dia bertanya tentang Islam, maka Rasulullah shallallahu 'alaihi wasallam menjawab: "Shalat lima kali dalam sehari semalam". Kata orang itu: "apakah ada lagi selainnya buatku". Nabi shallallahu 'alaihi wasallam menjawab: "Tidak ada kecuali yang thathawu' (sunnat) ". Rasulullah shallallahu 'alaihi wasallam berkata: "Dan puasa Ramadlan". Orang itu bertanya lagi: "Apakah ada lagi selainnya buatku". Rasulullah shallallahu 'alaihi wasallam menjawab: "Tidak ada kecuali yang thathawu' (sunnat) ". Lalu Rasulullah shallallahu 'alaihi wasallam menyebut: "Zakat": Kata orang itu: "apakah ada lagi selainnya buatku". Rasulullah shallallahu 'alaihi wasallam menjawab: "Tidak ada kecuali yang thathawu' (sunnat) ". Thalhah bin 'Ubaidullah berkata: Lalu orang itu pergi sambil berkata: "Demi Allah, aku tidak akan menambah atau menguranginya". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Dia akan beruntung jika jujur menepatinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>46</td></tr><tr><td>Arabic No</td><td>46</td></tr><tr><td>Reference</td><td>Book 2 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Малика о том, что его дядя Абу Сухайль ибн Малик рассказывал со слов своего отца, что он слышал, как Тальха ибн ‘Убайдуллах, да будет доволен им Аллах, говорил:«Однажды к Посланнику Аллаха ﷺ явился какой-то человек из Неджда с растрёпанными волосами. Мы слышали его громкий голос, но не понимали, что он говорит, пока он не приблизился и (не выяснилось, что) он спрашивает об Исламе. Посланник Аллаха ﷺ сказал: “(Ты должен совершать) пять молитв в течение дня и ночи”. (Человек) спросил: “А должен ли я молиться сверх этого?” (Пророк ﷺ) сказал: “Нет, если только сам ты не пожелаешь (совершить дополнительную молитву”. Затем) Посланник Аллаха ﷺ сказал: “(Ты должен соблюдать) пост в течение рамадана”. (Человек) спросил: “А должен ли я поститься сверх этого?” (Пророк ﷺ.) сказал: “Нет, если только сам ты не пожелаешь (поститься дополнительно)”».(Тальха) сказал: «А затем Посланник Аллаха ﷺ сказал ему (о необходимости) выплаты закята. (Этот человек) спросил: “А должен ли я (выплачивать что-нибудь) сверх этого?” (Пророк ﷺ) сказал: “Нет, если только сам ты не пожелаешь этого”».(Тальха) сказал: «И после этого тот человек повернулся (и направился к выходу) со словами: “Клянусь Аллахом, я ничего не добавлю к этому и ничего не стану убавлять!” — а Посланник Аллаха ﷺ воскликнул: “Он преуспеет, если говорит искренне!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>46</td></tr><tr><td>Arabic No</td><td>46</td></tr><tr><td>Reference</td><td>Book 2 Hadith 39</td></tr></tbody></table></div>
 

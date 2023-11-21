@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:While a man from the companions of the Prophet (ﷺ) was reciti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Israil] dari [Abu Ishaq] dari [Al Baraa radliallahu 'anhu] dia berkata; Ketika seorang laki-laki dari sahabat Rasulullah shallallahu 'alaihi wasallam membaca, kuda miliknya sudah dalam keadaan terikat dirumahnya. Namun ia selalu merasa tidak tenang, ia lari keluar, tapi ia tidak melihat sesuatu, dan hal itu selalu membuat ia tidak tenang. Di pagi harinya ia mengabarkan hal itu kepada Nabi shallallahu 'alaihi wasallam, maka Nabi shallallahu 'alaihi wasallam bersabda: "Ketenangan itu akan turun bersama Al Qur'an
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4839</td></tr><tr><td>Arabic No</td><td>4839</td></tr><tr><td>Reference</td><td>Book 65 Hadith 360</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «(Как-то раз) один из сподвижников Пророка ﷺ читал (суру “аль-Кяхф”), а в это время во дворе (его дома) находилась привязанная верёвками лошадь, которая стала прыгать, (испугавшись чего-то). Когда же (этот человек) вышел и посмотрел, то ничего не увидел. Наутро он рассказал об этом Пророку ﷺ, а он сказал: “Это было спокойствие /сакина/, которое снизошло свыше благодаря (чтению) Корана”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4839</td></tr><tr><td>Arabic No</td><td>4839</td></tr><tr><td>Reference</td><td>Book 65 Hadith 360</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Mu'adh used to pray with the Prophet (ﷺ) and then
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] dan [Abu An Nu'man] keduanya berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari ['Amru bin Dinar] dari [Jabir bin 'Abdullah] berkata, "Mu'adz bin Jabal pernah shalat bersama Nabi shallallahu 'alaihi wasallam, kemudian dia pulang menemui kaumnya dan shalat mengimami mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>711</td></tr><tr><td>Arabic No</td><td>711</td></tr><tr><td>Reference</td><td>Book 10 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Обычно Му‘аз (ибн Джабаль) молился вместе с Пророком ﷺ, а потом возвращался и проводил молитву с людьми своего племени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>711</td></tr><tr><td>Arabic No</td><td>711</td></tr><tr><td>Reference</td><td>Book 10 Hadith 106</td></tr></tbody></table></div>
 

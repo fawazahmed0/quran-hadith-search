@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Dharr:I asked the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Yazid bin Ibrahim] dari [Qatadah] dari [Abdullah bin Syaqiq] dari [Abu Dzar] dia berkata, "Aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam, 'Apakah kamu melihat Rabbmu? ' Beliau menjawab, 'Hanya cahaya, bagaimana mungkin aku bisa melihatNya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>178.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 348</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр (да будет доволен им Аллах) сказал: «(Однажды) я спросил Посланника Аллаха ﷺ: “Видел ли ты своего Господа?” Он ответил: “Там был свет! Как же я мог увидеть Его?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>178.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 348</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I heard Allah's Messenger (ﷺ) saying, "While I was sleeping
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] Telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] telah mengabarkan kepadaku [Hamzah bin 'Abdullah], bahwasanya [Ibnu Umar] mengatakan, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika aku tertidur, aku diberi gelas susu, lantas aku minum sehingga kulihat sungai keluar dari kuku-kuku-ku, kemudian kelebihannya aku berikan kepada Umar." Para sahabat bertanya; 'Lantas bagaimana anda takwilkan ya Rasulullah? ' Nabi menjawab; "itulah ilmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7006</td></tr><tr><td>Arabic No</td><td>7006</td></tr><tr><td>Reference</td><td>Book 91 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Однажды во сне я увидел, что мне поднесли чашу молока, и я пил его, пока не заметил, что влага выходит у меня из-под ногтей, после чего отдал оставшееся ‘Умару“. (Люди) спросили: “И как же ты истолковал его, о Посланник Аллаха?“ — и он сказал: “(Это —) знание“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7006</td></tr><tr><td>Arabic No</td><td>7006</td></tr><tr><td>Reference</td><td>Book 91 Hadith 24</td></tr></tbody></table></div>
 

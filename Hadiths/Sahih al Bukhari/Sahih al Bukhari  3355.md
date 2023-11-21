@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid:That when the people mentioned before Ibn 'Abbas that the Dajja
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Bayan bin 'Amru] telah bercerita kepada kami [an-Nadlar] telah mengabarkan kepada kami [Ibnu 'Aun] dari [Mujahid] bahwa dia mendengar [Ibnu 'Abbas RAa] ketika orang-orang menyebut tentang ad-Dajjal bahwasanya Beliau shallallahu 'alaihi wasallam menceritakan bahwa diantara kedua mata ad-Dajjal tertulis kata "kafir" atau ada huruf kaaf, faa' dan Raa (Kaaf-Faa-Ro). Maka Ibnu 'Abbas radliallahu 'anhuma berkata: "Aku belum pernah mendengarnya. Akan tetapi Beliau bersabda: "Adapun Ibrahim, maka lihatlah pada shahabatnu ini (maksudnya diri Beliau shallallahu 'alaihi wasallam) sedangkan Musa 'Alaihissalam, berbadan tegap dan kuat, berkulit sawo matang seperti ekor unta berwarna merah yang diberi cap dengan daun anggur. Seolah aku melihatnya ketika menuruni lembah sambil bertalbiyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3355</td></tr><tr><td>Arabic No</td><td>3355</td></tr><tr><td>Reference</td><td>Book 60 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Что касается Ибрахима, то, (если вы хотите увидеть его, можете) посмотреть на (того, кто стоит перед вами), что же касается Мусы, то он был курчавым и смуглым и (ездил) на красном верблюде, поводья которого были сделаны из пальмовых волокон, и я будто вижу, как он спускается в долину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3355</td></tr><tr><td>Arabic No</td><td>3355</td></tr><tr><td>Reference</td><td>Book 60 Hadith 30</td></tr></tbody></table></div>
 

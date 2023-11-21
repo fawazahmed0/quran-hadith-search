@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Sharik:Allah's Messenger (ﷺ) ordered that the salamander should be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ubaidullah bin Musa] atau [Ibnu Salam] dari dia, telah mengabarkan kepada kami [Ibnu Juraij] dari ['Abdul Hamid bin Jubair] dari [Sa'id bin Al Musayyab] dari [Ummu Syarik radliallahu 'anha] bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk membunuh cecak. Dan Beliau bersabda: "Dahulu cecak ikut membantu meniup api (untuk membakar) Ibrahim 'Alaihissalam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3359</td></tr><tr><td>Arabic No</td><td>3359</td></tr><tr><td>Reference</td><td>Book 60 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Умм Шарик, да будет доволен ею Аллах, что (однажды) Посланник Аллаха ﷺ велел убивать ящериц и сказал: «(Эта ящерица) раздувала (огонь) Ибрахима, мир ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3359</td></tr><tr><td>Arabic No</td><td>3359</td></tr><tr><td>Reference</td><td>Book 60 Hadith 34</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Messenger (ﷺ) had the best disposition amongst peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ma'an Ar Raqasy Zaid bin Yazid] Telah mengabarkan kepada kami [Umar bin Yunus] Telah menceritakan kepada kami [Ikrimah] yaitu Ibnu 'Ammar dia berkata; [Ishaq] berkata; [Anas] berkata; "Rasulullah shallallahu 'alaihi wasallam adalah orang yang paling indah budi pekertinya. Pada suatu hari beliau menyuruhku untuk suatu keperluan. Demi Allah, saya tidak pernah bepergian untuk keperluanku sendiri, tetapi selamanya saya pergi untuk melaksanakan perintah Nabi shallallahu 'alaihi wasallam kepadaku. Pada suatu ketika saya pergi, dan kebetulan bertemu dengan beberapa orang anak sedang bermain-main di pasar. Tiba-tiba Rasulullah shallallahu 'alaihi wasallam menepuk pundakku dari belakang. Saya menengok kepada beliau, dan beliau tersenyum. Lalu kata beliau; "Hai, Anas kecil! Sudahkah engkau melaksanakan apa yang aku perintahkan?" Jawabku; "Ya, saya akan pergi untuk melaksanakannya ya Rasulullah." Anas berkata; Demi Allah, sembilan tahun lamanya saya membantu Rasulullah shallallahu 'alaihi wasallam dan tidak pernah saya dapatkan beliau menegur saya atas apa yang saya kerjakan dengan ucapan; 'Mengapa kamu tidak melakukan begini dan begitu.' ataupun terhadap apa yang tidak saya laksanakan, dengan perkataan; 'seharus begini dan begini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6016</td></tr><tr><td>Arabic No</td><td>2309.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6016</td></tr><tr><td>Arabic No</td><td>2309.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 74</td></tr></tbody></table></div>
 

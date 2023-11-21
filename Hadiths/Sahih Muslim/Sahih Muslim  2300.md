@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Dharr reported:I went to the Messenger of Allah (ﷺ) and he was sitting und
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] Telah menceritakan kepada kami [Waki'] Telah menceritakan kepada kami [Al A'masy] dari [Al Ma'rur bin Suwaid] dari [Abu Dzarr] ia berkata; Aku tiba di dekat Rasulullah shallallahu 'alaihi wasallam ketika beliau sedang duduk di bawah naungan Ka'bah. Ketika beliau melihatku, beliau bersabda: "Demi Tuhannya Ka'bah, mereka itu adalah orang-orang yang merugi." Lalu kudekati beliau, seraya aku duduk dan bertanya kepada beliau, "Wahai Rasulullah, siapakah mereka?" beliau menjawab: "Mereka adalah orang-orang memiliki harta yag melimpah. Kecuali mereka (yang menghitung-hitung amal kebaikan mereka dengan) mengatakan; Sebegini, sebegini, sebegini (sambil beliau memberi isyarat ke muka dan ke belakang, ke kanan dan ke kiri). Tetapi mereka ini jumlahnya hanya sedikit. Tidak seorang pun pemilik unta, pemilik sapi, dan pemilik kambing yang tidak membayar zakat ternaknya, melainkan pada hari kiamat kelak hewan-hewan ternaknya yang paling besar dan gemuk datang kepadanya menanduk dengan tanduknya dan menginjak-nginjak orang itu dengan kukunya. Setiap yang terakhir selesai menginjak-injaknya, yang pertama datang pula kembali. demikianlah siksa itu berlaku sehingga perkaranya diputuskan." Dan telah menceritakannya kepada kami [Abu Kuraib Muhammad bin Al Ala'] Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Al Ma'rur] dari [Abu Dzarr] ia berkata; Saya sampi di dekat Nabi shallallahu 'alaihi wasallam, yang saat itu sedang berlindung di bawah naungan Ka'bah. Maka ia pun menyebutkan hadits yang serupa dengan hadits Waki'. Hanya saja ia mengatakan; "Demi Dzat yang jiwaku berada di tangan-Nya, tidak seorang pun di dunia ini mati dengan meninggalkan unta atau sapi ataupun kambing yang belum ia tunaikan zakatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2300</td></tr><tr><td>Arabic No</td><td>990.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр сказал: «(Однажды) я подошёл к сидевшему в тени Каабы Пророку ﷺ. Увидев меня, он сказал: “Они потерпят наибольший ущерб, клянусь Господом Каабы!”».(Абу Зарр) сказал: «Подойдя (к нему), я сел, но не смог усидеть на месте, встал и спросил: “Кто они, о Посланник Аллаха, да станут отец мой и мать выкупом за тебя?!” Он сказал: “Они это обладатели больших богатств, кроме тех (из них), которые станут поступать так, так и так, и (Пророк ﷺ указал рукой) вперёд, назад, направо и налево, однако таких будет мало. К каждому владельцу верблюдов, коров и овец, не выплачивавшему с них (установленного) закята, (эти животные, которые окажутся) более крупными и тучными, (нежели в мире дольнем), непременно явятся в День воскресения. Они станут бодать его рогами и топтать копытами, и когда последнее (из них) уйдёт, первое вернётся к нему, что (будет продолжаться), пока не завершится Суд над людьми”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2300</td></tr><tr><td>Arabic No</td><td>990.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 37</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha the wife of the Prophet:Allah's Messenger (ﷺ) called the salam
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari ['Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] isteri Nabi shallallahu 'alaihi wasallam bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Cecak itu kecil bahayanya". Dan aku tidak mendengar Beliau memerintahkan untuk membunuhnya". Berkata, Abu 'Abdullah Al Bukhariy: "Yang kami inginkan dengan keterangan ini adalah bahwa Mina termasuk tanah haram (suci) dan mereka (para shahabat) tidak memandang membunuh ular itu berdosa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1831</td></tr><tr><td>Arabic No</td><td>1831</td></tr><tr><td>Reference</td><td>Book 28 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что жена Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ назвал ящерицу “фувайсик”, но я не слышала, чтобы он велел убить её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1831</td></tr><tr><td>Arabic No</td><td>1831</td></tr><tr><td>Reference</td><td>Book 28 Hadith 11</td></tr></tbody></table></div>
 

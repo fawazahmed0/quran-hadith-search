@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: A man or a woman acts in obedience
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdah bin Abdullah], telah mengabarkan kepada kami [Abdushshamad], telah menceritakan kepada kami [Nashr bin Ali Al Huddani], telah menceritakan kepada kami [Al Asy'ats bin Jabir], telah menceritakan kepadaku [Syahr bin Hausyab], bahwa [Abu Hurairah] telah menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya ada seorang laki-laki dan wanita yang beramal dengan ketaatan kepada Allah selama enam puluh tahun kemudian kematian menghampiri mereka berdua, lalu mereka menyulitkan (para pewaris) dalam berwasiat sehingga neraka adalah wajib bagi mereka." Kemudian Abu Hurairah membacakan ayat kepadaku dari sini: "Sesudah dipenuhi wasiat yang dibuat olehnya atau sesudah dibayar hutangnya dengan tidak memberi mudharat (kepada ahli waris) ….." hingga sampai firmanNya: "dan itulah kemenangan yang besar." Abu Daud berkata; orang ini yaitu Al Asy'ats bin Jabir adalah kakek Nashr bin Ali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2867</td></tr><tr><td>Arabic No</td><td>2867</td></tr><tr><td>Reference</td><td>Book 18 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, мужчина и женщина порой бывают покорны Аллаху в течение шестидесяти лет, а потом приходит к ним смерть, и они причиняют кому-то вред посредством завещания и из-за этого попадают в Огонь». Передатчик этого хадиса сказал: «И Абу Хурайра прочитал мне следующий аят: “Таков расчёт после вычета по завещанию, которое он оставил, или выплаты долга, если это не причиняет вреда. Такова заповедь Аллаха, ведь Аллах Знающий, Выдержанный. Таковы ограничения Аллаха. Того, кто повинуется Аллаху и Его Посланнику, Он введёт в Райские сады, в которых текут реки. Он пребудет там вечно. Это и есть великое преуспеяние”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2867</td></tr><tr><td>Arabic No</td><td>2867</td></tr><tr><td>Reference</td><td>Book 18 Hadith 6</td></tr></tbody></table></div>
 

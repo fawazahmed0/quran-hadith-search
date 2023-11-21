@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) once delayed the 'Isha' prayer and that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Urwah] bahwa ['Aisyah] mengabarkan kepadanya, ia katakan, "Rasulullah shallallahu 'alaihi wasallam pernah melaksanakan shalat 'Isya ketika malam telah masuk sepertiga akhir malam ('Atamah), dan itu terjadi ketika Islam belum luas tersebar. Beliau tidak juga keluar hingga 'Umar berkata, 'Para wanita dan anak-anak sudah tidur! ' Maka beliau pun keluar dan bersabda kepada orang-orang yang ada di Masjid: "Tidak ada seorangpun dari penduduk bumi yang menunggu shalat ini selain kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>566</td></tr><tr><td>Arabic No</td><td>566</td></tr><tr><td>Reference</td><td>Book 9 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) ночью, когда ислам ещё не получил распространения (за пределами Медины), Посланник Аллаха ﷺ откладывал вечернюю молитву и не выходил (из дома), пока ‘Умар не сказал ему: “Женщины и дети уже заснули”, после чего он вышел и сказал собравшимся в мечети: “Никто из живущих на земле, кроме вас, не дожидается этой молитвы!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>566</td></tr><tr><td>Arabic No</td><td>566</td></tr><tr><td>Reference</td><td>Book 9 Hadith 43</td></tr></tbody></table></div>
 

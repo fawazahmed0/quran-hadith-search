@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Huzail:'Abdullah said, "The judgment I will give in this matter will be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin 'Abbas] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [Abu Qais] dari [Huzail] mengatakan, [Abdullah] mengatakan; 'Sungguh aku putuskan perkara ini dengan keputusan Nabi shallallahu 'alaihi wasallam, ' atau ia mengatakan; Nabi shallallahu 'alaihi wasallam bersabda: "anak perempuan mendapat separoh dan cucu perempuan dari anak laki-laki mendapat seperenam dan sisanya untuk saudara perempuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6742</td></tr><tr><td>Arabic No</td><td>6742</td></tr><tr><td>Reference</td><td>Book 85 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хузайля, что ‘Абдуллах сказал: «Я непременно вынесу в отношении неё решение, которое вынес в своё время Пророк ﷺ…». Или он сказал: «Пророк ﷺ сказал: “Дочери причитается половина, а дочери сына — одна шестая часть, всё оставшееся же — сестре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6742</td></tr><tr><td>Arabic No</td><td>6742</td></tr><tr><td>Reference</td><td>Book 85 Hadith 19</td></tr></tbody></table></div>
 

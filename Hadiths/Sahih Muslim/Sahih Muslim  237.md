@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Barâ (que Dieu l'agrée) a dit : Le Prophète (paix et bénédiction de Dieu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] dia berkata, telah menceritakan kepada kami [Mu'adz bin Mu'adz]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz] dan lafazh tersebut miliknya, telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Syu'bah] dari [Adi bin Tsabit] dia berkata, "Saya mendengar [al-Bara'] menceritakan hadits dari Nabi shallallahu 'alaihi wasallam, saat beliau berkata tentang orang Anshar: "Tidak mencintai mereka kecuali orang mukmin, dan tidak membenci mereka melainkan orang munafik. Barangsiapa mencintai mereka niscaya Allah akan mencintainya, dan barangsiapa membenci mereka niscaya Allah akan membencinya." [Syu'bah] berkata, "Saya lalu bertanya kepada [Adi], 'Apakah kamu mendengarnya dari [al-Bara']? ' dia menjawab, "Kejadian itu terkait dengan aku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>237</td></tr><tr><td>Arabic No</td><td>75</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается ‘Ади ибн Сабит сказал: «Я слышал, как аль-Бара передал, что Пророк ﷺ сказал об ансарах (следующее): “Только верующий любит их, и только лицемер ненавидит их. Аллах любит того, кто любит их, а того, кто их ненавидит, Аллах ненавидит”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>237</td></tr><tr><td>Arabic No</td><td>75</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
 

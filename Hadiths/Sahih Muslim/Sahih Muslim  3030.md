@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Hanzala al-Aslami reported:I heard Abu Huraira (Allah be pleased with him) as na
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Sa'id bin Manshur] dan [Amru An Naqid] dan [Zuhair bin Harb] semuanya dari [Ibnu Uyainah] - [Sa'id] berkata- Telah menceritakan kepada kami [Sufyan bin Uyainah] telah menceritakan kepadaku [Az Zuhri] dari [Hanzhalah Al Aslami] ia berkata, saya mendengar [Abu Hurairah] radliallahu 'anhu menceritakan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Demi Dzat yang jiwaku berada di Tangan-Nya, Ibnu Maryam benar-benar bertalbiyah memulai ihram di Fajjurraiha' dengan niat haji atau umrah, atau ia menggabunggkan keduanya." Dan Telah menceritakannya kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dengan isnad ini, semisalnya. Ia menyebutkan; "Demi Dzat yang jiwa Muhammad ada di Tangan-Nya." Dan telah menceritakannya kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Hanzhalah bin Ali Aslami] bahwa ia mendengar [Abu Hurairah] radliallahu 'anhu, berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada di Tangan-Nya." Yakni serupa dengan hadits keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>1252.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>1252.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Marwan Al-Asghar:A man from the companions of Allah's Messenger (ﷺ) w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq bin Manshur] Telah mengabarkan kepada kami [Rauh] Telah mengabarkan kepada kami [Syubah] dari [Khalid Al Hadza] dari [Marwan Al Ashfar] dari salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam yang aku kira [Ibnu Umar] mengenai firman Allah; "Jika kalian menampakkan apa yang ada dalam diri kalian atau menyembunyikannya" (Al Baqarah: 284). Ibnu Umar berkata; Ayat ini telah dinaskh oleh ayat sesudahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>4546</td></tr><tr><td>Reference</td><td>Book 65 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал об аяте «Обнаружите ли вы то, что в ваших душах, или утаите…» (сура «аль-Бакара», аят 284): «Его отменил аят, который следует за ним»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>4546</td></tr><tr><td>Reference</td><td>Book 65 Hadith 69</td></tr></tbody></table></div>
 

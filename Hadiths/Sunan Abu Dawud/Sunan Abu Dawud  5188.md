@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Nafi' ibn AbdulHarith: I went out with the (Messenger of Allah (ﷺ) un
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] -maksudnya Yahya bin Ayyub Al Maqabiri- berkata, telah menceritakan kepada kami [Isma'il] -maksudnya Isma'il bin Ja'far- berkata, telah menceritakan kepada kami [Muhammad bin Amru] dari [Abu Salamah] dari [Nafi' bin Abdul Harits] ia berkata, "Aku bersama Rasulullah shallallahu 'alaihi wasallam keluar hingga kami sampai pada sebuah kebun. Beliau bersabda kepadaku: "Tahanlah (tutuplah) pintu itu." Pintu itu lalu diketuk dari luar, aku lantas bertanya, "Siapa ini? ' …lalu hadits tersebut disebutkan secara lengkap." Abu Dawud berkata, "Maksudnya adalah hadits Abu Musa Al Asy'ari, dalam hadits tersebut ia menyebutkan, "Beliau lalu mengetuk pintu tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5188</td></tr><tr><td>Arabic No</td><td>5188</td></tr><tr><td>Reference</td><td>Book 43 Hadith 416</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5188</td></tr><tr><td>Arabic No</td><td>5188</td></tr><tr><td>Reference</td><td>Book 43 Hadith 416</td></tr></tbody></table></div>
 

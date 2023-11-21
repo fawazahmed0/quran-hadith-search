@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim b. 'Abdullah reported that his father had said:I saw the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] katanya; telah mengabarkan kepadaku [Salim bin Abdullah] bahwa [Ayahnya] mengatakan; "Aku pernah melihat apabila Rasulullah shallallahu 'alaihi wasallam menyegerakan perjalanannya, beliau akan mengakhirkan shalat maghrib hingga beliau menjamak antara shalat tersebut dengan shalat isya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1624</td></tr><tr><td>Arabic No</td><td>703.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Умар сказал: «Я видел, что, когда Посланнику Аллаха ﷺ, находящемуся в пути, надо было спешить, он откладывал закатную молитву, чтобы объединить её с вечерней молитвой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1624</td></tr><tr><td>Arabic No</td><td>703.04</td></tr><tr><td>Reference</td><td>Book 6 Hadith 55</td></tr></tbody></table></div>
 

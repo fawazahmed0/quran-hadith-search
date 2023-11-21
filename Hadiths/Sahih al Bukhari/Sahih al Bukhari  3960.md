@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mas'ud:The Prophet (ﷺ) faced the Ka'ba and invoked evil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru bin Khalid] telah menceritakan kepada kami [Zuhair] dari [Abu Ishaq] dari ['Amru bin Maimun] dari ['Abdullah bin Mas'ud] radliallahu 'anhu berkata; "Nabi shallallahu 'alaihi wasallam menghadap Kabah lalu mendo'akan kebinasan bagi beberapa orang dari Quraisy, yaitu Syaibah bin Rabi'ah, 'Utbah bin Rabi'ah, Al Walid bin 'Utbah dan Abu Jahal bin Hisyam. Dan aku bersaksi (bersumpah) atas nama Allah. Sungguh aku melihat mereka terbunuh, jasad mereka berubah karena sengatan matahari. Pada saat perang Badar hari sangat panas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3960</td></tr><tr><td>Arabic No</td><td>3960</td></tr><tr><td>Reference</td><td>Book 64 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мас‘уд, да будет доволен им Аллах, сказал: «Пророк ﷺ повернулся в сторону Каабы и возвёл мольбу против курайшитов: против Шейбы ибн Раби‘а, ‘Утбы ибн Раби‘а, аль-Валида ибн ‘Утбы, Абу Джахля ибн Хишама. И свидетельствую Аллахом, что я видел их всех мёртвыми разлагающимися на солнце, так как тот день был очень жарким»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3960</td></tr><tr><td>Arabic No</td><td>3960</td></tr><tr><td>Reference</td><td>Book 64 Hadith 12</td></tr></tbody></table></div>
 

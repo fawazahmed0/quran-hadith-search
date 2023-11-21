@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-Agharr al-Muzani who was from amongst the Companions of Allah's Apostle (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ghundar] dari [Syu'bah] dari ['Amru bin Murrah] dari [Abu Burdah] dia berkata; "Saya pernah mendengar [Al Agharr], salah seorang sahabat Rasulullah, memberitahukan Ibnu Umar, bahwasanya Rasulullah bersabda: 'Wahai manusia, bertaubatlah kepada Allah, karena aku bertaubat seratus kali dalam sehari.' " Telah menceritakannya kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepadaku [Bapakku]. Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Abu Dawud] dan ['Abdurrahman bin Mahdi] semuanya dari [Syu'bah] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6859</td></tr><tr><td>Arabic No</td><td>2702.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6859</td></tr><tr><td>Arabic No</td><td>2702.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 53</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir bin ‘Abdullah :The life-tenancy which the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Jabir bin Abdullah] ia berkata, "Sesungguhnya 'Umra yang diperbolehkan Rasulullah shallallahu 'alaihi wasallam adalah dengan mengatakan, 'Barang tersebut untukmu dan untuk orang setelahmu'. Adapun jika ia mengatakan, 'Barang tersebut untukmu selama hidupmu', maka pemberian tersebut akan kembali kepada pemiliknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1625)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3555</td></tr><tr><td>Arabic No</td><td>3555</td></tr><tr><td>Reference</td><td>Book 24 Hadith 140</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Подарок-‘умра, который разрешил Посланник Аллаха ﷺ это когда человек сопровождает свой подарок другому словами: “Это принадлежит тебе и твоим потомкам”. Если же человек сопровождает свой подарок другому словами “Это принадлежит тебе, пока ты жив”, этот подарок возвращается дарителю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1625)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3555</td></tr><tr><td>Arabic No</td><td>3555</td></tr><tr><td>Reference</td><td>Book 24 Hadith 140</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "(The performance of) 'Umra i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Sumayya, maulana Abu Bakar bin 'Abdurrahman] dari [Abu Shalih As-Samman] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam berkata: "Umrah demi 'umrah berikutnya menjadi penghapus dosa antara keduanya dan haji mabrur tidak ada balasannya kecuali surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1773</td></tr><tr><td>Arabic No</td><td>1773</td></tr><tr><td>Reference</td><td>Book 26 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «(Совершение каждой следующей) умры (после предыдущей) служит искуплением (совершённых) между ними (грехов), что же касается безупречного хаджа, то не будет за него иного воздаяния, кроме рая»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1773</td></tr><tr><td>Arabic No</td><td>1773</td></tr><tr><td>Reference</td><td>Book 26 Hadith 1</td></tr></tbody></table></div>
 

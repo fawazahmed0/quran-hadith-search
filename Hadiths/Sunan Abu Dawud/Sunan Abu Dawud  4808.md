@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Al-Miqdam ibn Shurayh, quoting his father, said:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman] dan [Abu Bakr] -keduanya putera Abu Syaibah- dan [Muhammad bin Ash Shabbah Al Bazzaz] mereka berkata; telah menceritakan kepada kami [Syarik] dari [Al Miqdam bin Syuraih] dari [Bapaknya] ia berkata, "Aku bertanya kepada 'Aisyah tentang kehidupan ala badui. ['Aisyah] lalu berkata, "Rasulullah shallallahu 'alaihi wasallam pernah pergi ke daerah yang banyak airnya (daerah orang-orang badui), dan beliau ingin merasakan kehidupan badui. Suatu kali beliau mengirimkan kepadaku seekor unta betina dari unta zakat yang belum pernah ditunggangi, beliau katakan kepadaku: "Wahai 'Aisyah, hendaklah engkau bersikap lembut. Karena sesungguhnya tidaklah sikap lembut itu ada pada sesuatu kecuali akan menjadi penghias, dan tidaklah ia terlepas dari sesuatu kecuali akan muncul keburukkan." Ibnu Ash Shabbah menyebutkan dalam haditsnya, "Muharramah maksudnya adalah belum pernah ditunggangi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4808</td></tr><tr><td>Arabic No</td><td>4808</td></tr><tr><td>Reference</td><td>Book 43 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4808</td></tr><tr><td>Arabic No</td><td>4808</td></tr><tr><td>Reference</td><td>Book 43 Hadith 36</td></tr></tbody></table></div>
 

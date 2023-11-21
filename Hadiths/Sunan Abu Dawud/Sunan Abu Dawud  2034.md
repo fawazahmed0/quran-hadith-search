@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim At Taimi] dari [ayahnya] dari [Ali] radliallahu 'anhu, ia berkata; kami tidak mencatat dari Rasulullah shallallahu 'alaihi wasallam kecuali Al Qur'an, dan apa yang ada dalam lembaran ini. Ali berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Madinah adalah haram antara 'Air hingga Tsaur (keduanya adalah nama gunung di Madinah). Barangsiapa yang melakukan perkara dosa atau melindungi orang yang berbuat kejahatan maka baginya laknat Allah, para malaikat serta seluruh manusia, tidak diterima darinya amalan wajib dan yang sunnah. Perlindungan orang muslim adalah satu, orang yang paling rendah dapat memberikannya. Barangsiapa yang membatalkan perjanjian dan keamanan seorang muslim maka baginya laknat Allah, para malaikat serta seluruh manusia, tidak diterima darinya amalan wajib dan yang sunnah. Telah menceritakan kepada kami [Ibnu Al Mutsanna], telah menceritakan kepada kami [Abdushshamad], telah menceritakan kepada kami [Hammam], telah menceritakan kepada kami [Qatadah], dari [Abu Hassan] dari [Ali] radliallahu 'anhu dalam kisah ini dari Nabi shallallahu 'alaihi wasallam, beliau berkata: "Tidak boleh dipotong tanamannya, tidak boleh di usir hewan buruannya dan tidak boleh diambil barang temuannya, kecuali bagi orang yang mengumumkannya, dan tidak selayaknya bagi seseorang di tempat tersebut membawa senjata untuk berperang dan tidak selayaknya ada sebuah pohon yang ditebang keculai seseorang yang hendak memberi makan untanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1870) Sahih Muslim (1370)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2034</td></tr><tr><td>Arabic No</td><td>2034</td></tr><tr><td>Reference</td><td>Book 11 Hadith 314</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Али, да будет доволен им Аллах, передаёт: «Мы не записывали ничего из сказанного Посланником Аллаха ﷺ за исключением Корана и того, что написано в этом свитке. Посланник Аллаха ﷺ сказал: “Медина является заповедной территорией от ‘Аира до Саура, и всякого, кто совершит здесь какое-нибудь нововведение (в религии) или предоставит убежище тому, кто будет вводить новшества в религию, постигнет проклятие Аллаха, ангелов и всех людей, а в День воскресения Аллах не примет от него ни дополнительного, ни обязательного. Защита мусульман одна, и действительна она и тогда, когда её предоставляет нижайший из них, того же, кто нарушит защиту, предоставленную мусульманином, постигнет проклятие Аллаха, ангелов и всех людей, а в День воскресения Аллах не примет от него ни замены, ни равного. И того, кто называет своими покровителями без разрешения (настоящих) покровителей, постигнет проклятие Аллаха, ангелов и всех людей, и в День воскресения Аллах не примет от него ни обязательного, ни дополнительного”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1870) Sahih Muslim (1370)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2034</td></tr><tr><td>Arabic No</td><td>2034</td></tr><tr><td>Reference</td><td>Book 11 Hadith 314</td></tr></tbody></table></div>
 

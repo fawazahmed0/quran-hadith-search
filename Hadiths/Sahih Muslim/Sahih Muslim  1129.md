@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salih al-Samman reported:I narrate to you what I heard and saw from Abu Sa'i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh] telah menceritakan kepada kami [Sulaiman bin al-Mughirah] telah menceritakan kepada kami [Ibnu Hilal, yaitu Humaid] dia berkata, "Ketika aku dan temanku menghafal sebuah hadits, tiba-tiba [Abu Shalih as-Samman] berkata, 'Aku akan menceritakan kepadamu sesuatu yang aku dengar dari [Abu Sa'id] dan aku lihat sebagian darinya.' Dia berkata lagi, 'Ketika aku bersama Abu Sa'id shalat pada hari Jum'at menghadap sesuatu yang menjadi sutrah dari manusia, tiba-tiba seorang laki-laki muda dari bani Abi Mu'aith datang bermaksud untuk lewat di depannya, lalu dia mendorong dadanya, lalu dia melihat (sekeliling), namun dia tidak mendapatkan jalan keluar melainkan lewat di hadapan Abu Sa'id, lalu dia kembali mendorong dadanya lebih keras daripada dorongan yang pertama, lalu dia diam berdiri, lalu dia mendapatkan jalan dari Abu Sa'id kemudian masuk mendesak orang-orang, lalu dia keluar, lalu mengunjungi Marwan, lalu mengadu kepadanya tentang sesuatu yang dia dapati." Perawi berkata, "Dan Abu Sa'id mengunjungi Marwan, maka Marwan berkata kepadanya, 'Ada apa denganmu, dan keponakanmu datang mengadukanmu? ' Maka Abu Sa'id berkata, 'Aku mendengar Rasulullah Shallallahu'alaihiwasallam bersabda, 'Apabila salah seorang dari kalian shalat menghadap suatu sutrah dari manusia, lalu ada seseorang yang bermaksud lewat di depannya, maka hendaklah dia mendorong dadanya, jika dia menolak, hendaklah dia memeranginya karena dia adalah setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1129</td></tr><tr><td>Arabic No</td><td>505.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 291</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Салих ас-Самман сказал: «Однажды, когда я совершал пятничную молитву вместе с Абу Са‘идом аль-Худри, который молился, отгородившись чем-то от людей, какой-то юноша из племени бану абу му‘айт хотел пройти перед ним, однако (Абу Са‘ид) толкнул его в верхнюю часть груди. Посмотрев (по сторонам), этот юноша увидел, что (достичь того места, куда он направлялся), он может, только если пройдёт перед Абу Са‘идом, и повторил (свою попытку), но тот толкнул его ещё сильнее. (Юноша) остановился и принялся поносить Абу Са‘ида, а потом (вокруг них) собралось много людей. Тогда (юноша) вышел (из мечети), явился к Марвану и пожаловался на то, что ему (пришлось претерпеть). Вслед за ним Абу Са‘ид также пришёл к Марвану, который спросил его: “Что произошло между тобой и сыном твоего брата? Он пришёл с жалобой на тебя”. Абу Са‘ид сказал: “Я слышал, как Посланник Аллаха ﷺ сказал: “Если любой из вас станет молиться, (обратившись лицом) к тому, что будет отделять его от людей, а кто-нибудь захочет пройти перед ним (в это время), пусть (молящийся) толкнёт его в верхнюю часть груди, и если тот откажется (подчиниться), пусть он сразится с ним, ибо это не кто иной, как шайтан!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1129</td></tr><tr><td>Arabic No</td><td>505.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 291</td></tr></tbody></table></div>
 

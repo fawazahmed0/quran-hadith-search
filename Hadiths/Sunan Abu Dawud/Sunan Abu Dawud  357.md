@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mu'adhah said that 'Aishah was asked about (washing) the clothes of a menstruati
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Ibrahim] telah menceritakan kepada kami [Abdus Shamad bin Abdul Warits] telah menceritakan kepadaku [Ayahku] telah menceritakan kepadaku [Ummul Hasan], yakni nenek Abu Bakar Al Adawi dari [Mu'adzah] dia berkata; Saya pernah bertanya kepada [Aisyah radliallahu 'anha] perihal wanita yang pakaiannya terkena darah haidl. Aisyah berkata; Hendaklah dia mencucinya, jika bekas darah itu tiduk mau hilang, hendaklah dia merubahnya dengan warna kuning. Lalu Aisyah berkata; Dan sungguh aku pernah haidl tiga kali bersama Rasulullah shallallahu 'alaihi wasallam, dan aku tidak mencuci satu kain pakaian pun kepunyaanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>357</td></tr><tr><td>Arabic No</td><td>357</td></tr><tr><td>Reference</td><td>Book 1 Hadith 357</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Му‘аза сказала: «Однажды я спросила у ‘Аиши, да будет доволен ею Аллах, о женщине с менструациями, на одежду которой попала (менструальная) кровь, и она сказала: “Ее следует постирать. А если следы (крови) не отойдут, пусть изменит ее цвет какой-нибудь желтизной».(Далее ‘Аиша) сказала: «Как-то при жизни Пророка ﷺ у меня были три менструации подряд, но я не стирала свою одежду”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>357</td></tr><tr><td>Arabic No</td><td>357</td></tr><tr><td>Reference</td><td>Book 1 Hadith 357</td></tr></tbody></table></div>
 

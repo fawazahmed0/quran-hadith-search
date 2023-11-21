@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:The Messenger of Allah (ﷺ) was asked about the prayer which was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abi Syaibah] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Abu Sufyan] dari [Jabir] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah ditanya, "Shalat (malam) yang bagaimanakah yang paling utama?" beliau menjawab: "(Yaitu shalat malam) yang paling lama berdirinya." Abu Bakr berkata, Telah menceritakan kepada kami Abu Mu'awiyah dari Al A'masy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1769</td></tr><tr><td>Arabic No</td><td>756.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 198</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал:«(Однажды) Посланника Аллаха ﷺ спросили: “Какая молитва является наилучшей?” Он сказал: “(Та, совершая которую человек) стоит долго”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1769</td></tr><tr><td>Arabic No</td><td>756.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 198</td></tr></tbody></table></div>
 

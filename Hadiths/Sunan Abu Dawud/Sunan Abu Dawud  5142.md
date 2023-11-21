@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuUsayd Malik ibn Rabi'ah as-Sa'idi: While we were with the Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Mahdi] dan [Utsman bin Abu Syaibah] dan [Muhammad Ibnul 'Ala'] secara makna, mereka berkata; telah menceritakan kepada kami [Abdullah bin Idris] dari ['Abdurrahman bin Sulaiman] dari [Asid bin Ali bin Ubaid] -mantan budak (yang telah dimerdekakan oleh) bani Sa'idah- dari [Bapaknya] dari [Abu Usaid Malik bin Rabi'ah As Sa'idi] ia berkata, "Ketika kami sedang bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba ada seorang laki-laki dari bani Salamah datang kepada beliau. Laki-laki bertanya, "Wahai Rasulullah, apakah masih ada ruang untuk aku berbuat baik kepada kedua orang tuaku setelah mereka meninggal?" beliau menjawab: "Ya. Mendoakan dan memintakan ampunan untuk keduanya, melaksanakan wasiatnya, menyambung jalinan silaturahmi mereka dan memuliakan teman mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5142</td></tr><tr><td>Arabic No</td><td>5142</td></tr><tr><td>Reference</td><td>Book 43 Hadith 370</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5142</td></tr><tr><td>Arabic No</td><td>5142</td></tr><tr><td>Reference</td><td>Book 43 Hadith 370</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ka'b b. 'Ujra reported that he entered the mosque and saw Abd al-Rahman b. Umm H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari ['Amru bin Murrah] dari [Abu 'Ubaidah] dari [Ka'ab bin 'Ujrah], bahwa ia pernah memasuki sebuah masjid dan ketika itu Abdur Rahman bin Ummi Al Hakam menyampaikan khutbah sambil duduk, maka iapun berkata, "Lihatlah orang yang buruk ini, ia berkhutbah sambil duduk padahal Allah Ta'ala telah berfirman: 'Dan apabila mereka melihat perniagaan atau permainan, mereka bubar untuk menuju kepadanya dan mereka tinggalkan kamu sedang berdiri (berkhotbah) …
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2001</td></tr><tr><td>Arabic No</td><td>864</td></tr><tr><td>Reference</td><td>Book 7 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу ‘Убайды, что Ка‘б ибн ‘Уджра рассказал, что (однажды) он вошёл в мечеть, когда ‘Абдуррахман ибн Умм аль-Хакам произносил хутбу сидя. Он (Ка‘б) сказал: «Посмотрите на этого мерзкого (человека), который произносит хутбу сидя, в то время, как Всевышний Аллах сказал: “Когда же они увидели торговлю или забаву, они разошлись, бросившись к ней, и оставили тебя стоять” ( Сура «аль-Джуму‘а», аят 11)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2001</td></tr><tr><td>Arabic No</td><td>864</td></tr><tr><td>Reference</td><td>Book 7 Hadith 51</td></tr></tbody></table></div>
 

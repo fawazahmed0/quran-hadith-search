@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Messenger of Allah (ﷺ) said: Gabriel (ﷺ) came to m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Shalih Mahbub bin Musa] berkata, telah menceritakan kepada kami [Abu Ishaq Al Fazari] dari [Yunus bin Abu Ishaq] dari [Mujahid] ia berkata; telah menceritakan kepada kami [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jibril Alaihis Salam datang menemuiku dan berkata, "Tadi malam aku datang untuk menemuimu, dan tidak ada yang menghalangiku untuk masuk kecuali patung yang ada di atas pintu. Di dalam rumah juga ada kain satir tipis yang bergambar patung, serta terdapat anjing, maka perintahkanlah memotong kepala patung yang berada di rumah hingga berbentuk pohon, dan perintahkanlah memotong tirai untuk dijadikan dua bantal yang diduduki, dan perintahkanlah untuk mengeluarkan anjing." Rasulullah shallallahu 'alaihi wasallam pun melakukan saran Jibril, namun tiba-tiba anjing milik Hasan atau Husain berada di bawah ranjang (rak), maka beliau memerintahkan untuk mengeluarkan hingga ia pun dikeluarkan." Abu Dawud berkata, "An Nadhad adalah sesuatu yang digunakan untuk meletakkan pakaian, semisal ranjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4158</td></tr><tr><td>Arabic No</td><td>4158</td></tr><tr><td>Reference</td><td>Book 34 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Ко мне пришёл Джибриль и сказал: “Я приходил к тебе вчера, но мне помешали войти изображения на двери, и в доме была занавеска с изображениями живых существ, и ещё в доме была собака. Вели отрезать головы изображений, чтобы они уподобились дереву, и вели разрезать занавеску с изображениями и сделать из неё две подушки, которые будут лежать на полу и использоваться на сидения, и вели вывести собаку”». Посланник Аллаха ﷺ так и сделал. Оказалось, что собака была Хасана или Хусейна, да будет доволен Аллах ими обоими, и сидела под домашней утварью
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4158</td></tr><tr><td>Arabic No</td><td>4158</td></tr><tr><td>Reference</td><td>Book 34 Hadith 139</td></tr></tbody></table></div>
 

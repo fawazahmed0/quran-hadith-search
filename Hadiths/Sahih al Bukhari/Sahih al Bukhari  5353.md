@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The one who looks after a widow or
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Qaza'ah] Telah menceritakan kepada kami [Malik] dari [Tsaur bin Zaid] dari [Abul Ghaits] dari [Abu Hurairah] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Orang yang memberi kecukupan kepada para janda dan orang-orang miskin, maka ia seperti halnya seorang mujahid di jalan Allah atau seorang yang berdiri menunaikan qiyamullail dan berpuasa di siang harinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5353</td></tr><tr><td>Arabic No</td><td>5353</td></tr><tr><td>Reference</td><td>Book 69 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пекущийся о вдове и неимущем подобен сражающемуся на пути Аллаха или тому, кто молится (все) ночи напролёт и (постоянно) постится днём»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5353</td></tr><tr><td>Arabic No</td><td>5353</td></tr><tr><td>Reference</td><td>Book 69 Hadith 3</td></tr></tbody></table></div>
 

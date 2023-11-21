@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Agharr al-Muzani said (Musaddad in his version of this tradition said that he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Sulaiman bin Harb] serta [Musaddad] mereka berkata; telah menceritakan kepada Kami [Hammad] dari [Tsabit] dari [Abu Burdah] dari [Al Agharr Al Muzani], Musaddad yang pernah menyertai Nabi shallallahu 'alaihi wasallam dalam haditsnya mengatakan; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Sesungguhnya hatiku pernah tertutup dan aku beristighfar kepada Allah dalam sehari sebanyak seratus kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2702)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>1515</td></tr><tr><td>Reference</td><td>Book 8 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Агарра аль-Музани, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, иногда сердце моё окутывается и, поистине, я прошу у Аллаха прощения по сто раз ежедневно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2702)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>1515</td></tr><tr><td>Reference</td><td>Book 8 Hadith 100</td></tr></tbody></table></div>
 

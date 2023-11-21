@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl:Allah's Messenger (ﷺ) said, "I and the one who looks after an or
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Zurarah] Telah mengabarkan kepada kami [Abdul Aziz bin Abu Hazim] dari [bapaknya] dari [Sahl] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku akan bersama orang-orang yang mengurusi anak Yatim dalam surga." Seperti inilah, beliau memberi isyarat dengan jari telunjuk dan jari tengah lalu beliau membuka sesuatu diantara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5304</td></tr><tr><td>Arabic No</td><td>5304</td></tr><tr><td>Reference</td><td>Book 68 Hadith 53</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля ибн Са‘да ас-Са‘иди, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «В Раю мы с опекающим сироту будем (столь же близки друг к другу)», и(, сказав это,) он сделал знак указательным и средним пальцами, немного отведя их друг от друга
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5304</td></tr><tr><td>Arabic No</td><td>5304</td></tr><tr><td>Reference</td><td>Book 68 Hadith 53</td></tr></tbody></table></div>
 

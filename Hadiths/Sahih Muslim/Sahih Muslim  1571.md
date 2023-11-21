@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha, l'épouse du Prophète (raa), les prières furent d'abord fix�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Thahir] dan [Harmalah bin Yahya] keduanya berkata; telah menceritakan kepada kami [Ibnuu Wahb] dari [Yunus] dari [Ibnu Syihab], katanya; telah menceritakan kepadaku ['Urwah bin Zubair] bahwa [Aisyah] isteri Nabi shallallahu 'alaihi wasallam mengatakan; "Diawal mula, Allah menetapkan shalat ketika diwajibkan-Nya sebanyak dua rakaat, kemudian Allah sempurnakan (ditambah) ketika mukim, sedangkan shalat safar ditetapkan sesuai ketentuan pertama (dua rakaat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>685.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, жена Пророка ﷺ сказала: «Когда Аллах вменил молитву в обязанность, Он вменил в обязанность молитву из двух рак‘атов; впоследствии же молитва, совершаемая на постоянном месте жительства, была увеличена, а молитва, совершаемая в пути, была оставлена так, как была предписана первоначально»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>685.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 2</td></tr></tbody></table></div>
 

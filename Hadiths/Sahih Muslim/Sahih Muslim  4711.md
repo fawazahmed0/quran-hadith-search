@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Amir b. Sa'd b. Abu Waqqas who said:I w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Abu Bakar bin Abu Syaibah] keduanya berkata; telah menceritakan kepada kami [Hatim] -yaitu Ibnu Isma'il- dari [Al Muhajir bin Mismar] dari ['Amir bin Sa'd bin Abu Waqahs] dia berkata, "Aku mengirim surat kepada [Jabir bin Samurah] melalui pelayanku, Nafi', supaya dia mengabarkan kepadaku hadits yang pernah didengarnya dari Rasulullah shallallahu 'alaihi wasallam." 'Amir berkata, "Kemudian dia membalas suratku: "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda pada hari Jum'at petang, yaitu ketika seorang suku Aslam sedang dirajam, beliau bersabda: "Agama ini (Islam) akan senantiasa tegak hingga hari Kiamat atau sampai habis dua belas khalifah memerintah kalian, semuanya dari suku Quraisy." Dan saya juga mnendengar beliau bersabda: "Sekelompok kaum Muslimin akan menaklukkan istana putih Kisra (Persia)." Dan aku juga mendengar beliau bersabda: "Sebelum terjadi hari Kiamat, akan muncul para pembohong (Dajjal), maka waspadalah terhadap mereka." Aku mendengar pula beliau bersabda: "Jika Allah mengaruniaimu suatu kebaikan (kekayaan), pertama-tama manfaatkanlah untuk dirimu sendiri dan keluargamu." Aku mendengar pula beliau bersabda: "Aku lebih dahulu dan menunggu di telaga." Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Ibnu Abu Fudaik] telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Muhajir bin Mismar] dari ['Amir bin Sa'd] bahwa dia pernah mengirim surat kepada [Ibnu Samurah Al 'Adawi]: "Ceritakanlah kepada kami apa yang pernah kamu dengar dari Rasulullah shallallahu 'alaihi wasallam!." Maka dia menjawab: "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda…seperti hadit Hatim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4711</td></tr><tr><td>Arabic No</td><td>1822.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4711</td></tr><tr><td>Arabic No</td><td>1822.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 11</td></tr></tbody></table></div>
 

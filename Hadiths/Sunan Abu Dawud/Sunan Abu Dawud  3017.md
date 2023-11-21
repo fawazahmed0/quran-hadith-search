@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa’id bin Al Musayyab said “The Apostle of Allaah(ﷺ) conquered a portion o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris], telah mengabarkan kepada kami [Abdullah bin Muhammad] dari [Juwairiyah] dari [Malik] dari [Az Zuhri] bahwa [Sa'id bin Al Musayyab] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam telah menaklukkan sebagian besar Khaibar dengan kekerasan. Abu Daud berkata; dan telah dibacakan riwayat kepada [Al Harits bin Miskin] sementara aku menyaksikan. [Ibnu Wahb] telah mengabarkan kepada kalian, ia berkata; telah menceritakan kepadaku [Malik], dari [Ibnu Syihab] bahwa Khaibar sebagianya diperoleh dengan kekerasan dan sebagiannya dengan perjanjian. Daerah Kutaibah kebanyakan dengan cara kekerasan, dan padanya terdapat perjanjain damai. Aku katakan kepada Malik, apakah Kutaibah itu? Ia berkata; tanah Khaibar yaitu empat puluh ribu tandan kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3017</td></tr><tr><td>Arabic No</td><td>3017</td></tr><tr><td>Reference</td><td>Book 20 Hadith 90</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аз-Зухри, что Са‘ид ибн аль-Мусайяб сказал ему, что Посланник Аллаха ﷺ взял часть Хайбара с боем. Абу Дауд сказал: «В моём присутствии аль-Харису ибн Мискину читали: “Вам сообщил Ибн Вахб: нам сообщил Малик от Ибн Шихаба, что часть Хайбара была взята с боем, а часть мирно. Большая часть Кутайбы была взята с боем, хотя часть её была взята мирно”. Я сказал Малику: “А что такое Кутайба?” Он сказал: “Земля в Хайбаре, в которой росло сорок тысяч пальм”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3017</td></tr><tr><td>Arabic No</td><td>3017</td></tr><tr><td>Reference</td><td>Book 20 Hadith 90</td></tr></tbody></table></div>
 

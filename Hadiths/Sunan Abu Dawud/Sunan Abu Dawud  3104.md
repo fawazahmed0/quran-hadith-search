@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah daughter of Sa'd:That her father said: I had a complaint at Mec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] telah menceritakan kepada kami [Makki bin Ibrahim] telah menceritakan kepada kami [Al Ju'aid] dari [Aisyah binti Sa'd], bahwa [ayahnya] berkata; aku mengalami sakit di Mekkah, kemudian Nabi shallallahu 'alaihi wasallam datang mengunjungiku dan meletakkan tangannya di atas keningku, kemudian beliau mengusap dada dan perutku kemudian berdoa: "Ya Allah sembuhkanlah Sa'd dan sempurnakanlah hijrahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5659)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3104</td></tr><tr><td>Arabic No</td><td>3104</td></tr><tr><td>Reference</td><td>Book 21 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша бинт Са‘д передаёт от своего отца: «Я заболел в Мекке, и Пророк ﷺ пришёл навестить меня. При этом он положил руку мне на лоб, а потом провёл рукой по моей груди и животу и сказал: “О Аллах, исцели Са‘да и помоги ему завершить переселение”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5659)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3104</td></tr><tr><td>Arabic No</td><td>3104</td></tr><tr><td>Reference</td><td>Book 21 Hadith 16</td></tr></tbody></table></div>
 

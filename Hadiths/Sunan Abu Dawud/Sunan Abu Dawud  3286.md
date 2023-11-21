@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Ikrimah: The Prophet (ﷺ) as saying: I swear by Allah, I shall fight 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'], telah mengabarkan kepada kami [Ibnu Bisyr] dari [Mis'ar] dari [Simak] dari [Ikrimah] dan ia memarfu'kannya. Beliau berkata: "Demi Allah, sungguh aku akan memerangi Quraisy." Kemudian beliau berkata: "Insya Allah." Kemudian beliau bersabda: "Demi Allah, sungguh aku akan memerangi Quraisy, insya Allah." Kemudian beliau bersabda: "Demi Allah, sungguh aku akan memerangi Quraisy." Kemudian beliau diam, kemudian berkata: "insya Allah." Abu Daud berkata; menambahkan padanya terdapat [Al Walid bin Muslim], dari [Syarik], ia berkata; kemudian beliau tidak memerangi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3286</td></tr><tr><td>Arabic No</td><td>3286</td></tr><tr><td>Reference</td><td>Book 22 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Укбы ибн ‘Амира, да будет доволен им Аллах, что он спросил Пророка ﷺ о своей сестре, которая дала обет совершить хадж босиком и без покрывала, и (Посланник Аллаха ﷺ) сказал: «Пусть наденет покрывало, и пусть едет верхом, и пусть соблюдает пост в течение трёх дней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3286</td></tr><tr><td>Arabic No</td><td>3286</td></tr><tr><td>Reference</td><td>Book 22 Hadith 45</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) was not one who would abuse (others) o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Asbagh] dia berkata; telah mengabarkan kepadaku [Ibnu Wahb] telah mengabarkan kepada kami [Abu Yahya yaitu Fulaih bin Sulaiman] dari [Hilal bin Usamah] dari [Anas bin Malik] radliallahu 'anhu dia berkata; "Nabi shallallahu 'alaihi wasallam adalah sosok yang tidak pernah mencela, berkata keji dan melaknat, apabila beliau mencela salah satu dari kami, maka beliau akan berkata: "Mengapa dahinya berdebu (dengan sindiran)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6031</td></tr><tr><td>Arabic No</td><td>6031</td></tr><tr><td>Reference</td><td>Book 78 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Пророк ﷺ не имел привычки ругать (людей), он не говорил ничего непристойного и никого не проклинал, а если хотел выразить кому-нибудь своё порицание, то говорил: “Что это с ним?! Да покроется пылью его лоб!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6031</td></tr><tr><td>Arabic No</td><td>6031</td></tr><tr><td>Reference</td><td>Book 78 Hadith 61</td></tr></tbody></table></div>
 

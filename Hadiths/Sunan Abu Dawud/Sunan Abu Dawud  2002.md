@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:The people used to go out (from Mecca after Hajj) by all sid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali], telah menceritakan kepada kami [Sufyan] dari [Sulaiman Al Ahwal] dari [Thawus] dari [Ibnu Abbas], ia berkata; orang-orang pergi dalam segala keadaan (berkelompok dan tidak berkelompok), kemudian Nabi shallallahu 'alaihi wasallam berkata: "Janganlah seorang pun (dari kalian) meninggalkan Mekkah kembali kepada keluarganya, hingga (ibadah) terakhir ia lakukan adalah thawaf di Ka'bah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1327)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2002</td></tr><tr><td>Arabic No</td><td>2002</td></tr><tr><td>Reference</td><td>Book 11 Hadith 282</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что люди начали расходиться во все стороны, и Пророк ﷺ сказал: «Пусть никто из вас не уезжает, пока не совершит (прощальный) таваф вокруг Каабы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1327)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2002</td></tr><tr><td>Arabic No</td><td>2002</td></tr><tr><td>Reference</td><td>Book 11 Hadith 282</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ali b. Abu Talib reported:Allah's Messenger (ﷺ) forbade me to use gold rings. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdu bin Humaid]; Telah menceritakan kepada kami ['Abdurrazaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibrahim bin 'Abdullah bin Hunain] dari [Bapaknya] dari ['Ali bin Abu Thalib] ia berkata; "Rasulullah shallallahu 'alaihi wasallam melarangku memakai cincin emas, pakaian yang dibordir (disulam) dengan sutera, membaca Al Qur'an ketika ruku' dan sujud, serta pakaian yang di celup warna kuning
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5439</td></tr><tr><td>Arabic No</td><td>2078.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5439</td></tr><tr><td>Arabic No</td><td>2078.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 54</td></tr></tbody></table></div>
 

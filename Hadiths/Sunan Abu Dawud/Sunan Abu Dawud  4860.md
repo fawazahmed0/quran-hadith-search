@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: The Prophet (ﷺ) said: None of my Companions must
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin yahya bin Faris] berkata, telah menceritakan kepada kami [Al Firyabi] dari [Isra'il] dari [Al Walid] -Abu Dawud berkata; [Zuhair bin Harb] menisbatkannya kepada kami- dari [Husain bin Muhammad] dari [Isra'il] tentang hadits ini. [Al Walid bin Abu Hisyam] berkata; dari [Zaid bin Za'id] dari [Abdullah bin Mas'ud] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah seorang dari sahabatku menyampaikan sesuatu tentang orang lain kepadaku, sesungguhnya aku ingin menemui kalian dengan hati yang bersih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4860</td></tr><tr><td>Arabic No</td><td>4860</td></tr><tr><td>Reference</td><td>Book 43 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Мас‘уда, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Пусть никто из моих сподвижников ничего не передаёт мне ни о ком другом (из них), ибо, поистине, я хочу выходить к вам со спокойным сердцем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4860</td></tr><tr><td>Arabic No</td><td>4860</td></tr><tr><td>Reference</td><td>Book 43 Hadith 88</td></tr></tbody></table></div>
 

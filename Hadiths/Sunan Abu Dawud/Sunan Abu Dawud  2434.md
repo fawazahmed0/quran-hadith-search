@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah, wife of Prophet (ﷺ):The Messenger of Allah (ﷺ) used to fas
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah], dari [Malik], dari [Abu An Nadhr] mantan budak Umar bin 'Ubaidullah, dari [Abu Salamah bin Abdurrahman] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam berpuasa hingga kami mengatakan; beliau tidak berbuka, dan beliau berbuka hingga kami mengatakan; beliau tidak berpuasa. Dan tidaklah aku melihat Rasulullah shallallahu 'alaihi wasallam menyempurnakan puasa satu bulan sama sekali kecuali pada Bulan Ramadhan, dan tidaklah aku melihat beliau dalam satu bulan lebih banyak melakukan puasa daripada berpuasa pada Bulan Sya'ban. Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Muhammad bin 'Amr] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan maknanya. Ia menambahkan; beliau melakukan puasa padanya kecuali sedikit, bahkan beliau pernah berpuasa pada bulan tersebut secara penuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1969) Sahih Muslim (1156)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2434</td></tr><tr><td>Arabic No</td><td>2434</td></tr><tr><td>Reference</td><td>Book 14 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах: «Посланник Аллаха ﷺ постился так, что мы начинали говорить, что он вообще не разговляется, а иногда он оставлял пост так, что мы начинали говорить, что он вообще не постится. И он никогда не постился месяц полностью, кроме рамадана, и ни в одном месяце он не постился больше, чем в ша‘бане»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1969) Sahih Muslim (1156)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2434</td></tr><tr><td>Arabic No</td><td>2434</td></tr><tr><td>Reference</td><td>Book 14 Hadith 122</td></tr></tbody></table></div>
 

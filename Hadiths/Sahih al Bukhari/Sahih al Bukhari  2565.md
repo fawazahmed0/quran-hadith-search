@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdul Wahid bin Aiman:I went to 'Aisha and said, "I was the slave of '
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami ['Abdul Wahid bin Aiman] berkata, telah menceritakan kepadaku bapakku [Aiman] berkata; Aku menemui ['Aisyah] lalu aku katakan: "Aku ini dahulu adalah seorang ghulam (budak kecil) milik 'Utbah bin Abu Lahab kemudian dia mati. Lantas anak-anak mewarisiku, lalu mereka menjualku kepada 'Abdullah bin 'Amru bin 'Umar bin 'Abdullah Al Makhzumiy, kemudian Ibnu Abi 'Amru membebaskan aku namun anak-anak 'Utbah membuat persyaratan agar wala' tetap milik mereka". Maka 'Aisyah berkata; "Barirah pernah datang sedangkan saat itu dia sebagai budak mukatab (yang berusaha membebaskan status kebudakannya) lalu dia berkata: "Belilah aku dan bebaskanlah". 'Aisyah berkata: "Ya". Barirah berkata: "Majikan-majikanku mereka tidak mau menjual aku hingga syarat mereka dipenuhi, yaitu wala' tetap milik mereka ". 'Aisyah berkata: "Aku tidak tidak peduli dengan hal itu". Kemudian Nabi shallallahu 'alaihi wasallam mendengar hal ini atau sampai kabar hal ini kepada Beliau, lalu Beliau menanyakannya kepada 'Aisyah dan 'Aisyah menyebutkan apa yang telah diucapkannya kepada Barirah. Maka Beliau bersabda: "Belilah dia lalu bebaskanlah dan biarkanlah mereka dengan persyaratan yang mereka buat sesuka mereka. Maka 'Aisyah membelinya lalu membebaskannya sedangkan tuannya meminta perwaliannya. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Perwalian menjadi milik orang yang membebaskannya sekalipun mereka membuat seratus persyaratam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 50 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Айман сказал: «Однажды я пришёл к ‘Аише, да будет доволен ею Аллах, и сказал: “Я был рабом ‘Утбы ибн Абу Ляхаба, он умер и меня наследовали его сыновья, затем они продали меня ‘Абдуллаху ибн абу ‘Амру ибн ‘Умару ибн ‘Абдуллаху аль-Махзуми. Ибн абу ‘Амр освободил меня, но сыновья ‘Утбы поставили условием моего освобождения, что покровительство останется за ними”. ‘Аиша сказала: “Барира пришла ко мне, заключив договор об освобождении за плату, и сказала: “Купи меня и освободи”. ‘Аиша ответила: “Хорошо”. Барира сказала: “Они не продадут меня, не поставив условием моего освобождения то, что покровительство останется за ними”. ‘Аиша сказала: “Я не нуждаюсь в этом”. Когда Пророк ﷺ услышал это, он спросил об этом ‘Аишу, и она рассказала ему то, что ей сказала Барира. Тогда Пророк ﷺ сказал: “Купи её и освободи, и пусть они ставят любые условия, какие захотят”. ‘Аиша купила её и освободила, но её хозяева сделали условием её освобождения, что право на покровительство останется за ними. Тогда Пророк ﷺ сказал: “Право на покровительство принадлежит только тому, кто освободил раба, даже если они поставят сто условий”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 50 Hadith 6</td></tr></tbody></table></div>
 

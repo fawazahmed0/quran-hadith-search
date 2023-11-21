@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amr ibn Za'dah, Ibn Umm Maktum: Ibn Umm Maktum asked the Prophet (ﷺ) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Ashim bin Bahdalah] dari [Abu Razin] dari [Ibnu Ummi Maktum] bahwasanya dia pernah bertanya kepada Rasulullah Shallallahu alaihi wasallam, dia berkata; Ya Rasulullah, saya adalah seorang yang buta dan rumahku jauh, sedangkan saya mempunyai orang yang menuntunku tapi dia tidak membantuku, maka apakah saya mendapatkan keringanan untuk melaksanakan shalat di rumahku? Beliau bersabda: "Apakah kamu mendengar adzan?" Dia menjawab; Ya. Beliau bersabda: "Saya tidak mendapatkan keringanan untukmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>552</td></tr><tr><td>Arabic No</td><td>552</td></tr><tr><td>Reference</td><td>Book 2 Hadith 162</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Умм Мактума о том, что (как-то) он спросил Пророка ﷺ: «О Посланник Аллаха, поистине, я человек слепой, мой дом находится далеко (от мечети), нет у меня поводыря, который помог бы мне, так разрешено ли мне молиться у себя дома?» (Пророк ﷺ) спросил: «А слышишь ли ты призыв (на молитву)?» Он ответил: «Да». (Пророк ﷺ) сказал: «Я не нахожу (это) для тебя разрешённым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>552</td></tr><tr><td>Arabic No</td><td>552</td></tr><tr><td>Reference</td><td>Book 2 Hadith 162</td></tr></tbody></table></div>
 

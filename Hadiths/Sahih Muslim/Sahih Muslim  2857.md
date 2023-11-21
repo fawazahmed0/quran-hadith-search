@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Abu Qatada narrated on the authority of his father (Allah be pleased
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Yahya bin Hassan] telah menceritakan kepada kami [Mu'awiyah bin Sallam] telah mengabarkan kepadaku [Yahya] telah mengabarkan kepadaku [Abdullah bin Abu Qatadah] bahwa [bapaknya] radliallahu 'anhu telah mengabarkan kepadanya ia pernah berperang bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam yakni perang Hudaibiyah, lalu mereka para sahabat melakukan Ihram untuk Umrah, selain aku. Kemudian aku pun berburu himar liar, dan memberikannya kepada sahabat-sahabatku yang sedang ihram. Kemudian aku mendatangi Rasulullah shallallahu 'alaihi wasallam dan memberitahukan kepadanya, bahwa kami masih mempunyai sisa daging himar liar, maka beliau pun bersabda: "Makanlah oleh kalian semua." Padahal saat itu mereka sedang berihram. Telah menceritakan kepada kami [Ahmad bin Abdah Adl Dlabbi] telah menceritakan kepada kami [Fudlail bin Sulaiman An Numairi] telah menceritakan kepada kami [Abu Hazim] dari [Abdullah bin Abu Qatadah] dari [bapaknya] radliallahu 'anhu bahwasanya; Mereka pernah berangkat bersama-sama dengan Rasulullah shallallahu 'alaihi wasallam dan saat itu mereka sedang ihram, sementara Abu Qatadah tidak. Lalu ia pun menyebutkan hadits itu, dan di dalamnya ia menyebutkan; Maka beliau bertanya: "Apakah kalian masih mempunyai sisa dagingnya?" mereka menjawab, "Kami masih mempunyai kakinya." Lalu Rasulullah shallallahu 'alaihi wasallam pun mengambil dan memakannya. Dan Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abul Ahwash] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Qutaibah] dan [Ishaq] dari [Jarir] keduanya dari [Abdul Aziz bin Rufai'] dari [Abdullah bin Abu Qatadah] ia berkata; " [Abu Qatadah] pernah berada dalam suatu rombongan yang sedang ihram, sementara ia sendiri tidak." Lalu ia pun mengisahkan hadits itu. Dan di dalamnya ia menyebutkan; Beliau bertanya: "Adakah seseorang dari kalian yang memberi isyarat atau memerintahkannya dengan sesuatu?" mereka menjawab, "Tidak, ya Rasulullah." Beliau bersabda: "Kalau begitu, makanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2857</td></tr><tr><td>Arabic No</td><td>1196.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2857</td></tr><tr><td>Arabic No</td><td>1196.07</td></tr><tr><td>Reference</td><td>Book 15 Hadith 67</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) used to offer two rams as sacrifices, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyyas] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Abdul Aziz bin Shuhaib] dia berkata; saya mendengar [Anas bin Malik] radliallahu 'anhu berkata; Nabi shallallahu 'alaihi wasallam berkurban dengan dua ekor domba, sementara aku juga berkurban dengan dua ekor domba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5553</td></tr><tr><td>Arabic No</td><td>5553</td></tr><tr><td>Reference</td><td>Book 73 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Пророк ﷺ приносил в жертву двух баранов, (поэтому) и я приношу в жертву двух баранов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5553</td></tr><tr><td>Arabic No</td><td>5553</td></tr><tr><td>Reference</td><td>Book 73 Hadith 9</td></tr></tbody></table></div>
 

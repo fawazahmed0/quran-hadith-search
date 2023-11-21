@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas Ibn Malik:Whenever the Prophet (ﷺ) went for answering the call o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim bin Bazi'] berkata, telah menceritakan kepada kami [Syadzan] dari [Syu'bah] dari ['Atha' bin Abu Maimunah] berkata, "Aku mendengar [Anas bin Malik] berkata, "Jika Nabi shallallahu 'alaihi wasallam keluar untuk buang hajat, maka aku dan seorang anak kecil mengikuti beliau dengan membawa tongkat, atau sebatang kayu, atau bekas tombak dan bejana berisi air. Jika beliau selesai dari buang hajat, maka kami memberikan bejana tersebut kepada beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>500</td></tr><tr><td>Arabic No</td><td>500</td></tr><tr><td>Reference</td><td>Book 8 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Атаъ ибн Абу Маймуна сказал: «Я слышал, как Анас ибн Малик, да будет доволен им Аллах, сказал: “Когда Пророк ﷺ выходил по нужде, мы вместе с одним юношей следовали за ним с посохом, тростью или палкой с острым наконечником и сосудом (с водой для омовения), а после того, как он удовлетворял нужду, мы подавали ему этот сосуд”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>500</td></tr><tr><td>Arabic No</td><td>500</td></tr><tr><td>Reference</td><td>Book 8 Hadith 147</td></tr></tbody></table></div>
 

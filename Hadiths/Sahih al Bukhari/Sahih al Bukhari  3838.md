@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:The pagans used not to leave Jam' (i.e. Muzdalifa) till the sun h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Amru bin 'Abbas] telah menceritakan kepada kami ['Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [Abu Ishaq] dari ['Amru bin Maimun] berkata, ['Umar] radliallahu 'anhu berkata; "Sesungguhnya orang-orang musyrik (ketika berhaji) tidak bertolak dari Jam'un hingga matahari terbit dari balik gunung Tsabir. Kemudian Nabi shallallahu 'alaihi wasallam menyelisih mereka dengan bertolak sebelum matahari terbit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3838</td></tr><tr><td>Arabic No</td><td>3838</td></tr><tr><td>Reference</td><td>Book 63 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар, да будет доволен им Аллах, сказал: «Поистине, многобожники не покидали Муздалифу, пока не видели солнце над Сабиром. А Пророк ﷺ поступил наперекор им и покинул (Муздалифу) до восхода солнца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3838</td></tr><tr><td>Arabic No</td><td>3838</td></tr><tr><td>Reference</td><td>Book 63 Hadith 63</td></tr></tbody></table></div>
 

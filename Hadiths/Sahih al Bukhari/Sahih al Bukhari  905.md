@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:We used to offer the Jumua prayer early and then have an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] berkata, telah mengabarkan kepada kami ['Abdullah] berkata, telah mengabarkan kepada kami [Humaid] dari [Anas bin Malik] berkata, "Kami bersegera (berpagi-pagi dan awal wwaktu) dalam mengerjakan shalat Jum'at, dan tidur siang setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>905</td></tr><tr><td>Arabic No</td><td>905</td></tr><tr><td>Reference</td><td>Book 11 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хумейда, что Анас ибн Малик сказал: «Мы совершали пятничную молитву пораньше, а полуденный отдых (кайлюля) делали после пятничной молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>905</td></tr><tr><td>Arabic No</td><td>905</td></tr><tr><td>Reference</td><td>Book 11 Hadith 29</td></tr></tbody></table></div>
 

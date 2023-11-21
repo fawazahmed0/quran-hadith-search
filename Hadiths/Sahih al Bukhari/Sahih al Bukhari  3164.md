@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:Allah's Messenger (ﷺ) once said to me, "If the re
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin 'Abdullah] telah bercerita kepada kami [Isma'il bin Ibrahim] berkata telah mengabarkan kepadaku [Rauh bin Al Qasim] dari [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdullah radliallahu 'anhu] berkata; "Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: "Seandainya tiba kepada kita harta dari negeri Bahrain, aku pasti memberimu sekian, sekian dan sekian". Ketika Rasulullah shallallahu 'alaihi wasallam telah meninggal dunia, dan datang harta dari negeri Bahrain, Abu bakr berkata; "Siapa yang telah dijanjikan sesuatu oleh Rasulullah shallallahu 'alaihi wasallam hendaklah menemui aku". Maka aku menemuinya lalu kukatakan; "Rasulullah shallallahu 'alaihi wasallam pernah berkata kepadaku; "Seandainya tiba kepada kita harta dari negeri Bahrain aku pasti memberikan kepadamu sekian, sekian dan sekian". Dia berkata kepadaku; "Ulurkan tanganmu". Lalu aku mengulurkan kedua belah telapak tanganku". Lalu dia berkata kepadaku; "Hitunglah". Aku menghitungnya, ternyata jumlahnya lima ratus sehingga keseluruhannya dia memberiku seribu lima ratus". Dan berkata [Ibrahim bin Thaman] dari ['Abdul 'Aziz bin Shuhaib] dari [Anas]; Nabi shallallahu 'alaihi wasallam dikirimi harta dari Bahrain lalu Beliau berkata: "Lertakkanlah di masjid". Terrnyata itu merupalkan harta yang paling banyak yang pernah diterima oleh Rasulullah shallallahu 'alaihi wasallam. Ketika Al 'Abbas mendatangi Beliau, dia berkata; "Wahai Rasulullah, berilah aku. Akan kugunakan untuk menebus diriku dan menebus 'Aqil". Beliau berkata: "Ambillah". Maka dia mengambilnya dengan menggunakan bajunya lalu dia pergi dengan memanggulnya namun tidak kuat. Dia berkata; "Perintahkanlah sebagian mereka untuk membantuku mengangkatnya". Beliau berkata: "Tidak". Dia malah berkata: "Kalau begitu kamu yang membantuku mengangkatnya". Beliau berkata: "Tidak". Maka Al 'Abbas menumpahkan sebagiannya lalu mencoba untuk mengangkatnya kembali namun tetap tidak kuat. Maka dia berkata lagi; "Perintahkanlah sebagian mereka untuk membantuku mengangkatnya". Beliau berkata: "Tidak". Dia berkata lagi: "Kalau begitu kamu yang membantuku mengangkatnya". Beliau berkata: "Tidak". Lalu Al 'Abbas menumpahkan lagi sebagiannya kemudian memanggulnya di atas pundaknya lalu pergi. Beliau terus saja memperhatikan Al 'Abbas hingga menghilang dari pandangan kami karena kagum dengan semangatnya dan Rasulullah shallallahu 'alaihi wasallam tidaklah beranjak dari posisinya dan terus mengumpulkan dirham
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3164</td></tr><tr><td>Arabic No</td><td>3164</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «(Однажды) Посланник Аллаха ﷺ сказал (мне): “Если бы доставили деньги из Бахрейна, я дал бы тебе то-то, то-то и то-то”, (однако) при жизни Пророка ﷺ денег из Бахрейна больше не привозили, а когда их доставили, по велению Абу Бакра (было объявлено): “Пусть придёт к нам тот, кому Посланник Аллаха ﷺ обещал что-нибудь”. Тогда я пришёл к (Абу Бакру) и сказал: “Поистине, Посланник Аллаха ﷺ сказал мне: “Если бы доставили деньги из Бахрейна, я дал бы тебе то-то, то-то и то-то”. Тогда он сказал мне: “Зачерпни монеты (двумя руками)!” Я зачерпнул одну горсть, а он сказал мне: “Посчитай их!” Я посчитал (эти монеты), и оказалось, что их было пятьсот. В итоге он дал мне тысяча пятьсот (монет)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3164</td></tr><tr><td>Arabic No</td><td>3164</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ The same narrator said that the Prophet (ﷺ) had said: "You should not pass uri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Masih dari jalur periwayatan yang sama dengan hadits sebelumnya dari [Abu Hurairah]). Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan sekali-kali salah seorang dari kalian kencing pada air yang tidak mengalir, lalu mandi darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Пусть никто из вас ни в коем случае не мочится в стоячую непроточную воду, ибо потом эта вода (может понадобиться) ему для полного омовения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
 

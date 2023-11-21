@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Juwayriya, the wife of the Messenger of Allah (ﷺ)" said that Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] -dalam jalur lain- Dan Telah menceritakan kepada kami [Muhammad bin Rumh] telah mengabarkan kepada kami [Laits] dari [Ibnu Syihab] dari [Ubaid bin As Sabbaq] bahwa [Juwairiyah] isteri Nabi shallallahu 'alaihi wasallam telah mengabarkan kepadanya bahwa suatu ketika Rasulullah shallallahu 'alaihi wasallam masuk ke dalam rumahnya dan bertanya: "Apakah ada makanan?" ia menjawab, "Tidak ada, demi Allah wahai Rasulullah, kami tidak memiliki makanan kecuali tulang kambing yang disedekahkan orang kepada maulaku." Beliau bersabda: "Bawalah kemari, bukankah sedekah itu sudah sampai ke tujuannya." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Amru An Naqid] dan [Ishaq bin Ibrahim] semuanya dari [Ibnu Uyainah] dari [Az Zuhri] dengan isnad ini semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2483</td></tr><tr><td>Arabic No</td><td>1073.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Джуайрии, жены Пророка ﷺ, что (однажды) Посланник Аллаха ﷺ зашёл к ней и сказал: «У тебя есть какая-нибудь еда?» Она ответила: «Нет, клянусь Аллахом, о Посланник Аллаха, у нас нет еды, если не считать немного баранины, которую дали моей освобождённой рабыне в качестве милостыни». (Пророк ﷺ) сказал: «Принеси мне его, ибо она достигла своего места»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2483</td></tr><tr><td>Arabic No</td><td>1073.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 220</td></tr></tbody></table></div>
 

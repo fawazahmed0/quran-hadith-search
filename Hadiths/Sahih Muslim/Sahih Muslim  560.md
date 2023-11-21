@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:When anyone wipes himself w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Amru an-Naqid] serta [Muhammad bin Abdullah bin Numair] semuanya meriwayatkan dari [Ibnu Uyainah], [Qutaibah] berkata, telah menceritakan kepada kami [Sufyan] dari [Abu az-Zinad] dari [al-A'raj] dari [Abu Hurairah] dan dia merafa'kannya (sampai) kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila seseorang dari kamu bersuci dengan batu, hendaklah dia melakukannya dengan bilangan ganjil, dan apabila dia berwudlu hendaklah dia memasukkan air ke dalam hidungnya kemudian dia menghembuskan air itu keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>560</td></tr><tr><td>Arabic No</td><td>237.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Когда кто-нибудь из вас будет очищаться с помощью камней, пусть делает это нечётное число раз, когда же кто-нибудь из вас будет совершать омовение пусть набирает в нос воды, а потом с силой выпускает её наружу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>560</td></tr><tr><td>Arabic No</td><td>237.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 27</td></tr></tbody></table></div>
 

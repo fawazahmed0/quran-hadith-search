@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) (p.b.u.h) said, "Keys of the unseen k
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan kepada kami [Sufyan] dari ['Abdullah bin Dinar] dari [Ibnu 'Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada lima kunci ghaib yang tidak diketahui seorangpun kecuali oleh Allah; tidak seorangpun yang mengetahui apa yang akan terjadi esok hari, dan tidak seorangpun yang mengetahui apa yang tersembunyi dalam rahim, dan tak satu jiwa pun yang tahu apa yang akan diperbuatnya esok, dan tak satu jiwa pun yang tahu di bumi mana dia akan mati serta tidak seorangpun yang mengetahui kapan turunnya hujan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1039</td></tr><tr><td>Arabic No</td><td>1039</td></tr><tr><td>Reference</td><td>Book 15 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ сказал: “Ключами сокрытого являются пять вещей, которых не знает никто, кроме Аллаха: никто не знает, что будет завтра, никто не знает, что скрыто в утробах, никто не знает, что он приобретёт завтра, не знает человек, в какой земле умрёт, и никто не знает, когда пойдёт дождь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1039</td></tr><tr><td>Arabic No</td><td>1039</td></tr><tr><td>Reference</td><td>Book 15 Hadith 34</td></tr></tbody></table></div>
 

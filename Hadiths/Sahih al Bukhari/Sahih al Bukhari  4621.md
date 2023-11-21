@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) delivered a sermon the like of which I had never
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mundzir bin Al Walid bin 'Abdur Rahman Al Jarudi] Telah menceritakan kepada kami [Bapakku] Telah menceritakan kepada kami [Syu'bah] dari [Musa bin Anas] dari [Anas radliallahu 'anhu] dia berkata; Rasulullah shallallahu 'alaihi wasallam berkhuthbah dengan khutbah yang belum pernah aku dengar sebelumnya, beliau berkata; "Seandainya kalian dapat mengetahui apa yang aku ketahui, maka kalian pasti akan sedikit tertawa dan banyak menangis.' Anas berkata; Para sahabat Rasulullah shallallahu 'alaihi wasallam menutupi kepala mereka dan mereka pun terserang sakit sengau hidung.' Setelah itu, 'Ada seorang laki-laki bertanya; 'Siapakah ayah saya? ' Beliau menjawab: 'Ayahmu adalah si fulan.' Maka turunlah ayat yang berikut ini: Hai orang-orang yang beriman, janganlah kamu bertanya tentang segala sesuatu yang apabila dijelaskan kepadamu, maka hal itu akan memberatkanmu. (QS. Al Maa'idah: 101). Diriwayatkan oleh [An Nadlr] dan [Rauh bin Ubadah] dari [Syu'bah]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4621</td></tr><tr><td>Arabic No</td><td>4621</td></tr><tr><td>Reference</td><td>Book 65 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Однажды Посланник Аллаха ﷺ обратился к нам с (такой) проповедью, подобной которой я никогда раньше не слышал. (Среди прочего) он сказал: “Если бы знали вы то, что известно мне, то, конечно же, смеялись бы мало, а плакали много!” — и тогда сподвижники Посланника Аллаха ﷺ прикрыли себе лица (руками) и принялись плакать, подавляя рыдания. А потом один человек спросил: “Кто мой отец?” (Пророк ﷺ) сказал: “Такой-то”, после чего и был ниспослан этот аят(, в котором говорится): “О те, кто уверовал! Не спрашивайте о (таких) вещах, которые огорчат вас, когда станут известны вам…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4621</td></tr><tr><td>Arabic No</td><td>4621</td></tr><tr><td>Reference</td><td>Book 65 Hadith 143</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Yazîd Ibn Charîk Ibn Târiq a dit : 'Alî Ibn 'Abî Tâlib nous fit un sermon,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] dan [Abu Kuraib] semuanya dari [Abu Mu'awiyah] - [Abu Kuraib] berkata- Telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Ibrahim At Taimi] dari [bapaknya] ia berkata; [Ali bin Abi Thalib] pernah berkhutbah di hadapan kami, lalu dia berkata; Barangsiapa yang mengatakan bahwa kami memiliki sesuatu yang kami baca selain Kitabullah dan Shahifah ini (kata Abu Ibrahim; lembaran yang digantungkan di sarung pedangnya), maka sungguh dia pendusta. Di dalamnya juga tertulis Unta dan hewan-hewan sesembelihan lain (sebagai diyat). Juga tertulis bahwa Nabi shallallahu 'alaihi wasallam bersabda mengenai Madinah: "Madinah adalah tanah haram antara wilayah 'Air hingga Tsaur. Jadi barangsiapa yang membuat pelanggaran di Madinah atau melindungi orang yang berbuat pelanggaran, maka dia akan mendapatkan kutukan Allah, kutukan Malaikat dan semua manusia, serta Allah tidak menerima taubat dan tebusan orang tersebut kelak pada hari kiamat. Jaminan perlindungan kaum muslimin adalah satu, orang paling rendah mereka (budak), bisa memberi perlindungan dengan jaminan itu. Barangsiapa yang mengakui orang lain yang bukan bapaknya sebagai bapaknya, maka dia akan mendapat laknat Allah, laknat para Malaikat dan laknat semua umat manusia, serta Allah tidak akan menerima tebusan orang tersebut kelak pada hari kiamat." Demikian akhir hadits Abu Bakar dan Zuhair, yaitu pada perkataan; "….orang paling rendah mereka (budak), bisa memberi perlindungan dengan jaminan itu…" keduanya tidak menyebutkan lafad setelahnya, juga dalam hadits keduanya tidak ada kata; "lembaran yang digantungkan di sarung pedangnya" Telah menceritakan kepadaku [Ali bin Hujr As Sa'di] telah memngabarkan kepada kami [Ali bin Masruh] -dalam riwayat lain- Dan telah menceritakan kepada kami [Abu Sa'id Al Asyaj] telah menceritakan kepada kami [Waki'] semuanya dari [Al A'masy] dengan sanad ini, sebagaimana hadits Abu Kuraib dari Abu Muawiyah, sampai akhir dengan sedikit tambahan; "Barangsiapa melanggar janji pada orang muslim maka dia akan mendapat laknat Allah, laknat para Malaikat dan laknat semua umat manusia, serta Allah tidak akan menerima tebusan orang tersebut kelak pada hari kiamat." Dan pada hadits keduanya lafad; barangsiapa menasabkan pada selain bapaknya. Sedang pada riwayat waki' tidak disebutkan hari kiamat." Dan telah menceritakan kepadaku [Ubidullah bin Umar Al Qawariri] dan [Muhammad bin Abu Bakar Al Muqaddami] berkata; telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dengan sanad ini sebagaimana hadits Ibnu Mushir dan Waki' kecuali lafad; "…barangsiapa berwali kepada selain walinya.." dengan tetap menyebutkan laknat padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3327</td></tr><tr><td>Arabic No</td><td>1370.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 531</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3327</td></tr><tr><td>Arabic No</td><td>1370.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 531</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:The Prophet (ﷺ) said, "The two months of 'Id i.e. Ramadan a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mu'tamir] berkata, aku mendengar [Ishaq bin Suwaid] dari ['Abdurrahman bin Abu Bakrah] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam. Dan telah menceritakan kepada saya [Musaddad] telah menceritakan kepada kami [Mu'tamir] dari [Khalid Al Hadzdza'] berkata, telah mengabarkan kepada saya ['Abdurrahman bin Abu Bakrah] dari [bapaknya radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Ada dua bulan yang tidak akan kurang dalam bulan (sama bilangan harinya) yaitu bulan Ramadhan dan Dzul Hijjah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1912</td></tr><tr><td>Arabic No</td><td>1912</td></tr><tr><td>Reference</td><td>Book 30 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Бакры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Два месяца не уменьшаются. (Это) два праздничных месяца: рамадан и зуль-хиджжа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1912</td></tr><tr><td>Arabic No</td><td>1912</td></tr><tr><td>Reference</td><td>Book 30 Hadith 22</td></tr></tbody></table></div>
 

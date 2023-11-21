@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Moses argued with Adam and said to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Ayyub bin An Najjar] dari [Yahya bin Abu Katsir] dari [Abu Salamah bin 'Abdur Rahman] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam "Musa pernah mendebat Adam, Musa berkata kepada Adam; 'Wahai Adam, engkaulah orang yang telah mencelakakan manusia dan mengeluarkan mereka dari surga.' Lalu Adam ganti berkata kepada Musa; 'Wahai Musa, Bukankah Allah telah memilihmu dengan risalah dan kalam-Nya (diajak bicara secara langsung), maka kenapa kamu mencelaku atas suatu perkara yang telah dicatat dan di takdirkan kepadaku sebelum aku diciptakan? Rasulullah shallallahu 'alaihi wasallam bersabda: "Maka Adam dapat mengalahkan Musa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4738</td></tr><tr><td>Arabic No</td><td>4738</td></tr><tr><td>Reference</td><td>Book 65 Hadith 260</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «(Однажды) Адам и Муса препирались между собой, и Муса сказал: “Ты — тот, чьё ослушание вывело людей из Рая, и ты сделал их несчастными”. Адам сказал: “О Муса, ты — тот, кого Аллах избрал со Своим посланием, и с кем Он говорил. Неужели ты порицаешь меня за дело, которое было предопределено для меня до того, как я был создан?”». Посланник Аллаха ﷺ сказал: «Так Адам переспорил Мусу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4738</td></tr><tr><td>Arabic No</td><td>4738</td></tr><tr><td>Reference</td><td>Book 65 Hadith 260</td></tr></tbody></table></div>
 

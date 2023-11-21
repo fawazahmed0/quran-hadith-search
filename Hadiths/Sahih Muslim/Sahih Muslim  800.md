@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported:The Messenger of Allah (ﷺ) dressed himself, and then went o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ali bin Hujr] telah menceritakan kepada kami [Ismail bin Ja'far] telah menceritakan kepada kami [Muhammad bin Amru bin Halhalah] dari [Muhammad bin Amru bin Atha'] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam mengumpulkan pakaiannya kemudian pergi menuju shalat, lalu beliau dibawakan hadiah roti dan daging, maka beliau memakannya tiga suap, kemudian shalat mengimami manusia, dan beliau tidak menyentuh air. Dan telah menceritakan kepada kami tentangnya [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] dari [al-Walid bin Katsir] telah menceritakan kepada kami [Muhammad bin Amru bin 'Atha'] dia berkata, "Saya bersama [Ibnu Abbas] ", lalu dia membawakan hadits tersebut dengan makna hadits Ibnu Halhalah, dan di dalamnya disebutkan bahwa Ibnu Abbas menyaksikan hal tersebut dari Nabi Shallallahu'alaihiwasallam, seraya dia berkata, "Beliau shalat dan tidak berbicara dengan manusia
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>800</td></tr><tr><td>Arabic No</td><td>359.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 121</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что: «(Однажды) Посланник Аллаха ﷺ собрал свою одежду и отправился на молитву, а в это время ему преподнесли (блюдо из) хлеба и мяса. Он съел три кусочка, затем совершил с людьми молитву, не притронувшись к воде»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>800</td></tr><tr><td>Arabic No</td><td>359.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 121</td></tr></tbody></table></div>
 

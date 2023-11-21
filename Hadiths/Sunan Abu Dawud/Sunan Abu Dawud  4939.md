@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Buraidah reported the Prophet (May peace be upon him) as saying :If anyone plays
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sufyan] dari [Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa bermain-main dengan dadu, maka seakan-akan ia mencelupkan tangannya ke dalam daging dan darah babi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2060)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4939</td></tr><tr><td>Arabic No</td><td>4939</td></tr><tr><td>Reference</td><td>Book 43 Hadith 167</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сулеймана ибн Бурейды о том, что его отец, да будет доволен им Аллах, рассказывал, что Пророк ﷺ ска­зал: «Сыг­рав­ший в нар­ды по­до­бен по­гру­зив­ше­му свою ру­ку в мя­со сви­ньи и в её кровь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2060)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4939</td></tr><tr><td>Arabic No</td><td>4939</td></tr><tr><td>Reference</td><td>Book 43 Hadith 167</td></tr></tbody></table></div>
 

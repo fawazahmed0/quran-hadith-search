@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (Allah be pleased with him) reported that Allah's Messenger (ﷺ) set out o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Isma'il] yaitu Ibnu 'Ulayyah dari [Abdul Aziz] dari [Anas] bahwasannya Rasulullah shallallahu 'alaihi wasallam pernah memerangi Khaibar, dia berkata; Lalu kami Shalat Shubuh dekat negeri tersebut, setelah shalat beliau mengendarai kendaraannya, Abu Thalhah juga mengendarai kendaraannya sedangkan saya membonceng Abu Thalhah, ketika beliau melewati gang di Khaibar, beliau memacu kendaraannya sampai lututku bersentuhan dengan paha Nabi shallallahu 'alaihi wasallam dan saya melihat putihnya paha Nabiyullah shallallahu 'alaihi wasallam. Tatkala beliau memasuki perkampungan, beliau mengucapkan: "Allahu akbar, takluklah Khaibar, 'maka apabila siksaan itu turun di halaman mereka, maka amat buruklah pagi hari yang dialami oleh orang-orang yang beri peringatan itu',." Beliau mengulangi ucapannya itu sampai tiga kali. Anas melanjutkan; Penduduk (Khaibar) mulai keluar menuju tempat mereka bekerja, lantas mereka berteriak; "Muhammad! Demi Allah (pasukannya telah datang)." Abdul Aziz berkata; Sebagian dari sahabat kami menyebutkan; (mereka berteriak); Muhammad dan bala tentaranya (telah datang)!. Dia (Anas) berkata; Mereka kami taklukkan dengan kekuatan dan seluruh tawanan telah kami kumpulan. Tiba-tiba Dihyah datang kepada beliau dan berkata; "Wahai Rasulullah, berilah saya budak perempuan dari tawanan tersebut!" beliau bersabda: "Pergilah dan ambilah budak perempuan darinya." Lantas dia membawa Shafiyah binti Huyay, kemudian datanglah seorang laki-laki kepada Nabi shallallahu 'alaihi wasallam dan berkata; "Wahai Nabiyallah, kenapa anda mengasihkan Shafiyah kepada dihyah? Padahal dia adalah putri Huyay tokoh Bani Quraidlah dan Nadlir, dan dia tidaklah pantas untuk orang lain selain anda." Beliau bersabda: "Suruh dia kembali." Anas melanjutkan; Lalu Dihyah datang dengan membawa Shafiyah, tatkala Nabi shallallahu 'alaihi wasallam melihatnya, beliau bersabda: "Ambillah budak perempuan yang lain dari tawanan tersebut." Anas berkata; Lantas beliau memerdekannya dan menikahinya. Tsabit berkata kepadanya; "Wahai Abu Hamzah, apakah maskawin beliau kepadanya?" Dia menjawab; "Diri Shafiyah sendiri, yaitu dengan memerdekannya kemudian menikahinya." Dalam perjalanan pulang, Ummu Sulaim mempersiapkannya dan menyerahkannya malam itu kepada beliau. Di pagi harinya, Nabi shallallahu 'alaihi wasallam mengadakan pesta pernikahan seraya bersabda: "Siapa yang memiliki sesuatu, bawalah kesini." Anas berkata; "Kemudian beliau membentangkan tikar dari kulit, maka ada orang yang membawa susu kering, ada yang membawa kurma dan ada pula yang membawa minyak samin, kemudian mereka mencampurnya, itulah jamuan walimah pernikahan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3497</td></tr><tr><td>Arabic No</td><td>1365.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3497</td></tr><tr><td>Arabic No</td><td>1365.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 99</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Angel of Death was sent to Moses when he came to Moses,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Musa] telah bercerita kepada kami ['Abdur Razzaq] telah mengabarkan kepada kami [Ma'mar] dari [Ibnu Thawus] dari [bapaknya] dari [Abu Hurairah radliallahu 'anhu] berkata: "Suatu hari malaikat maut diutus kepada Musa 'Alaihissalam. Ketika menemuinya, (Nabi Mua 'Alaihissalam) memukul matanya. Maka malaikat maut kembali kepada Rabbnya dan berkata: "Engkau mengutusku kepada hamba yang tidak menginginkan mati". Maka Allah berfirman: "Kembalilah dan katakan kepadanya agar dia meletakkan tangannya di atas punggung seekor lembu jantan. Setiap bulu lembu yang ditutupi oleh tangannya berarti umurnya satu tahun baginya". Nabi Musa 'Alaihissalam bertanya: "Wahai Rabb, setelah itu apa?. Allah berfirman:: "Kematian". Maka Nabi Musa 'Alaihissalam berkata: "Sekaranglah waktunya". Kemudian Nabi Musa 'Alaihissalam memohon Allah agar mendekatkannya dengan tanah yang suci (Al Muqaddas) dalam jarak sejauh lemparan batu". Abu Hurairah radliallahu 'anhu berkata; Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Seandainya aku kesana, pasti akan aku tunjukkan kepada kalian keberadaan quburnya yang ada di pinggir jalan dibawah tumpukan pasir merah". Dia ('Abdur Razzaq) berkata; "Dan telah mengabarkan kepada kami [Ma'mar] dari [Hammam] telah bercerita kepada kami [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam seperti hadits ini juga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3407</td></tr><tr><td>Arabic No</td><td>3407</td></tr><tr><td>Reference</td><td>Book 60 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(В своё время) ангел смерти был послан к Мусе, мир им обоим, но когда он явился к нему, (Муса) ударил его (и выбил ему глаз). Тогда (ангел) вернулся к своему Господу и сказал: “Ты послал меня к рабу, который не желает смерти!” Аллах вернул ему глаз и велел: “Возвращайся и скажи ему, чтобы он положил руку на спину быку, ибо он проживёт ещё столько лет, сколько волосков накроет его рука”. (Когда ангел выполнил всё, что ему было велено, Муса) сказал: “О Господь мой, а что потом?” Он ответил: “Потом — смерть”. (Муса) сказал: “Тогда (пусть это случится) сейчас”, и попросил Аллаха приблизить его к святой земле на расстояние броска камня».\n(Абу Хурайра, да будет доволен им Аллах,) сказал: «Посланник Аллаха ﷺ сказал: “И если бы я был там, то обязательно показал бы вам его могилу (, которая находится) у дороги рядом с красным холмом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3407</td></tr><tr><td>Arabic No</td><td>3407</td></tr><tr><td>Reference</td><td>Book 60 Hadith 80</td></tr></tbody></table></div>
 

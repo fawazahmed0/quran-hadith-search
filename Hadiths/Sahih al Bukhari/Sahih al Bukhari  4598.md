@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:While the Prophet (ﷺ) was offering the 'Isha' prayer, he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata; Tatkala Nabi shallallahu 'alaihi wasallam shallallahu 'alaihi wasallam shalat Isya, ketika beliau Shallallahu'alaihi wasallam selesai mengucapkan, "Sami'allahu liman hamidah (Allah Maha Mendengar terhadap semua yang memuji-Nya). Kemudian beliau mengucapkan doa -sambil berdiri sebelum sujud-, "Ya Allah, selamatkanlah Ayyasy bin Abu Rabi 'ah, Salamah bin Hisyam, Al Walid bin Al Walid, serta orang-orang lemah dari kalangan kaum mukmin. Ya Allah, timpakan siksaan-Mu kepada Bani Mudhar dan jadikanlah tahun-tahun mereka seperti tahun-tahun Yusuf (penuh penderitaan, paceklik, kekeringan -penerj)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4598</td></tr><tr><td>Arabic No</td><td>4598</td></tr><tr><td>Reference</td><td>Book 65 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что, совершая ночную молитву /’иша/, Пророк ﷺ сказал: «Да услышит Аллах тех, кто воздал Ему хвалу», затем прежде чем совершить земной поклон, он сказал: «О Аллах, спаси ‘Аййаша ибн Аби Раби‘у! О Аллах, спаси Саляму ибн Хишама! О Аллах, спаси аль-Валида ибн аль-Валида! О Аллах, спаси слабых из числа верующих! О Аллах, будь суров с племенем мудар и сделай так, чтобы голод продолжался для него столько же, сколько и во времена Йусуфа!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4598</td></tr><tr><td>Arabic No</td><td>4598</td></tr><tr><td>Reference</td><td>Book 65 Hadith 120</td></tr></tbody></table></div>
 

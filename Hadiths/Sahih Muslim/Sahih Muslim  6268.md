@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Ja'far (que Dieu l'agrée), Lorsque l'Envoyé de Dieu (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakr bin Abu Syaibah] dan lafazh ini milik Yahya. [Abu Bakr] berkata; Telah menceritakan kepada kami dan berkata [Yahya]; Telah mengabarkan kepada kami [Abu Mu'awiyah] dari ['Ashim Al Ahwash Al Ahwal] dari [Muwarriq Al 'Ijli] dari ['Abdullah bin Ja'far] dia berkata; Rasulullah shallallahu 'alaihi wasallam apabila tiba dari suatu perjalanan, biasanya beliau menemui kedua anak kecil dari ahlul baitnya. Abdullah bin Ja'far berkata; 'pernah suatu hari beliau datang dari suatu perjalan, lalu aku segera menyambutnya, maka beliau meletakkan aku di depan beliau, kemudian salah satu putra Fatimah datang lalu beliau meletakkannya di belakang beliau. Dan kami bertiga masuk ke Madinah dengan menaiki hewan tunggangan beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6268</td></tr><tr><td>Arabic No</td><td>2428.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 98</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6268</td></tr><tr><td>Arabic No</td><td>2428.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 98</td></tr></tbody></table></div>
 

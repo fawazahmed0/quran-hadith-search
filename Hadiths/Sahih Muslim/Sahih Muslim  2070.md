@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdoullâh Ibn Zayd Al-Mazinî (que Dieu l'agrée) a dit : "Le Prophète (paix e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Abdullah bin Bakar] bahwa ia mendengar ['Abbad bin Tamim] berkata, saya mendengar [Abdullah bin Zaid Al Mazani] berkata; "Suatu ketika Rasulullah shallallahu 'alaihi wasallam keluar ke tanah lapang untuk menunaikan shalat Istisqa', kemudian beliau membalik pakaiannya ketika menghadap kiblat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2070</td></tr><tr><td>Arabic No</td><td>894.01</td></tr><tr><td>Reference</td><td>Book 9 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аббада ибн Тамима о том, что он слышал, как ‘Абдуллах ибн Зейд аль-Мазини говорил: «(Однажды) Посланник Аллаха отправился к (избранному им) месту молитвы и обращался к Аллаху с мольбой о ниспослании дождя и надел свой плащ по-другому, когда обратился в сторону къиблы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2070</td></tr><tr><td>Arabic No</td><td>894.01</td></tr><tr><td>Reference</td><td>Book 9 Hadith 1</td></tr></tbody></table></div>
 

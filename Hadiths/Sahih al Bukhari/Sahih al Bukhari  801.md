@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara':The bowing, the prostrations, the period of standing after bow
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibnu Abu Laila] dari [Al Bara'] berkata, "Rukuknya Nabi shallallahu 'alaihi wasallam, sujudnya dan ketika mengangkat kepala dari rukuk, serta duduk antara dua sujud, semuanya hampir sama (lama dan thunam'ninah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>801</td></tr><tr><td>Arabic No</td><td>801</td></tr><tr><td>Reference</td><td>Book 10 Hadith 196</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн Абу Лейлы, что Бараа, да будет доволен им Аллах, сказал: «Поясной поклон Пророка ﷺ и его земной поклон, и то, что когда он поднимал голову с поясного поклона, и то, что было между двумя земными поклонами, были примерно одинаковыми (по времени)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>801</td></tr><tr><td>Arabic No</td><td>801</td></tr><tr><td>Reference</td><td>Book 10 Hadith 196</td></tr></tbody></table></div>
 

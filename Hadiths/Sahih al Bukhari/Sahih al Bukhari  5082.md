@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The best women are the riders of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] Telah menceritakan kepada kami [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sebaik-baik wanita adalah yang dapat mengendarai unta. Sebaik-baik wanita Quraisy adalah adalah yang paling lembut dan simpati pada anak di masa kecilnya, dan paling bisa menjaga harta suaminya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5082</td></tr><tr><td>Arabic No</td><td>5082</td></tr><tr><td>Reference</td><td>Book 67 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Лучшие женщины, которые когда-либо садились верхом на верблюда, праведные женщины из числа курайшитов. Они наиболее добры к детям в их детстве, и наиболее ответственны в отношении имущества их мужей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5082</td></tr><tr><td>Arabic No</td><td>5082</td></tr><tr><td>Reference</td><td>Book 67 Hadith 20</td></tr></tbody></table></div>
 

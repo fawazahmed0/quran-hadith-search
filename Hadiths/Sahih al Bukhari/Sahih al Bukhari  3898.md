@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:I heard the Prophet (ﷺ) saying, "The reward of deeds depends on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad], putra dari Zaid, dari [Yahya] dari [Muhammad bin Ibrahim] dari ['Alqamah bin Waqash] berkata, aku mendengar ['Umar] radliallahu 'anhu berkata, aku mendengar Rasululah shallallahu 'alaihi wasallam bersabda:; "Setiap amal tergantung dengan niat. Maka siapa yang hijrahnya untuk dunia uang ingin didapatkannya atau untuk seorang wanita yang akan dinikahinya maka hijrahnya kepada apa yang dia niatkan, dan barangsiapa yang hijrahnya karena Allah dan Rasul-Nya maka hijrahnya kepada Allah dan Rasul-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>3898</td></tr><tr><td>Reference</td><td>Book 63 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Умара, да будет доволен им Аллах, что Пророк ﷺ сказал: «Дела (оцениваются) согласно намерению, поэтому (человек, совершавший) переселение ради чего-нибудь мирского или ради женщины, на которой он хотел жениться, переселится (лишь) к тому, к чему он переселялся. Переселявшийся же к Аллаху и Посланнику Его, переселится к Аллаху и посланнику Его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>3898</td></tr><tr><td>Reference</td><td>Book 63 Hadith 123</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Sha'bi: The price of a male or a female slave is five hundred dirham
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sinan Al 'Awaqi] berkata, telah menceritakan kepada kami [Syarik] dari [Mughirah] dari [Ibrahim] dan [Jabir] dari [Asy Sya'bi] berkata, "ghurrah (terbusan memerdekakan budak) sama nilainya dengan lima ratus dirham." Abu Dawud berkata, "Rabi'ah menyebutkan, "ghurrah (tebusan memerdekakan budak) sama nilainya dengan lima puluh dinar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 41 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аш-Ша‘би сказал, что компенсация за погибший плод составляет пять сотен дирхемов. Абу Дауд сказал: «А Раби‘ утверждал, что эта компенсация составляет пятьдесят динаров»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 41 Hadith 87</td></tr></tbody></table></div>
 

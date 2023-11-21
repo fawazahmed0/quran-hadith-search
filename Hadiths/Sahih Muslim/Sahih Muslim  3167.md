@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Omar (رضي الله عنهما) a dit : "L'Envoyé de Dieu, Abou Bakr et 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Mihran Ar Razi] Telah menceritakan kepada kami [Abdurrazaq] dari [Ma'mar] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam, Abu Bakar, dan Umar semuanya singgah di Abthah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3167</td></tr><tr><td>Arabic No</td><td>1310.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 371</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3167</td></tr><tr><td>Arabic No</td><td>1310.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 371</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Uqba b. 'Amir reported Allah's Messenger (ﷺ) as saying:Allah's Messenger offer
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Wahab] yaitu Ibnu Jarir Telah menceritakan kepada kami [Bapakku] dia berkata; Aku mendengar [Yahya bin Ayyub] bercerita dari [Yazid bin Abu Habib] dari [Martsad] dari ['Uqbah bin 'Amir radliallahu 'anhu] Rasulullah shallallahu 'alaihi wasallam pernah bersabda mengenai para korban perang Uhud. Beliau naik ke mimbar seolah-olah memberi amanat kepada yang masih hidup dan yang telah syahid. Sabda beliau: "Aku mendahului kalian ke telaga. Lebar telaga itu sejauh antara Ailah ke Juhfah. Aku tidak khawatir bahwa kalian akan kembali musyrik sepeninggalku. Tetapi yang aku takutkan ialah kamu terpengaruh oleh dunia. Kalian berlomba-lomba untuk mendapatkannya kemudian berbunuh-bunuhan, dan akhirnya kalian musnah seperti kemusnahan umat sebelum kalian." Kata 'Uqbah; "Itulah yang terakhir kali aku melihat Rasulullah shallallahu 'alaihi wasallam berpidato di mimbar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5977</td></tr><tr><td>Arabic No</td><td>2296.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5977</td></tr><tr><td>Arabic No</td><td>2296.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 38</td></tr></tbody></table></div>
 

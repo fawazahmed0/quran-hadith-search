@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur-Rahman bin Yazid:We asked Hudhaifa to tell us of a person resemb
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Syu'bah] dari [Abu Ishaq] dari ['Abdur Rahman bin Yazid] berkata; "Kami bertanya kepada [Hudzaifah] tentang orang yang dekat kesamaan dengan Nabi shallallahu 'alaihi wasallam dalam hal kekhusyu'an dan perangai baiknya hingga kami dapat mengambil (manfaat) darinya". Maka Hudzaifah menjawab; "Aku tidak mengetahui ada orang yang lebih mirip kekhusyu'annya, perangainya dan jalan hidupnya dengan Nabi shallallahu 'alaihi wasallam selain Ibnu Ummu 'Abd
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3762</td></tr><tr><td>Arabic No</td><td>3762</td></tr><tr><td>Reference</td><td>Book 62 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Язид сказал: «Мы попросили Хузейфу рассказать нам о человеке, похожем на Пророка ﷺ внешностью, нравами и поведением, чтобы мы могли учиться у него. Хузейфа ответил: “Я не знаю никого, кто был бы более похож на Пророка ﷺ внешне, поведением и нравами, чем Ибн Умм ‘Абд (то есть ‘Абдуллах ибн Мас‘уд)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3762</td></tr><tr><td>Arabic No</td><td>3762</td></tr><tr><td>Reference</td><td>Book 62 Hadith 107</td></tr></tbody></table></div>
 

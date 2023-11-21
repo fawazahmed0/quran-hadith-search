@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated .Abu Huraira:The Prophet (ﷺ) said, "When your servant brings your foo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Muhammad] -yaitu Ibnu Ziyad- berkata; Aku mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika budak salah seorang dari kalian datang kepadanya dengan membawa makanan, jika ia tidak mengajaknya duduk bersama, hendaklah ia mengambilkan untuknya satu atau dua asupan, atau satu atau dua suapan. Sebab ia telah merasakan rasa lelah dan capeknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5460</td></tr><tr><td>Arabic No</td><td>5460</td></tr><tr><td>Reference</td><td>Book 70 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Если слуга приносит кому-либо из вас еду, и вы не усаживаете его с собой, (чтобы разделить трапезу,) то (по меньшей мере) дайте ему один-два куска пищи или позвольте ему отведать её один-два раза, ведь он мучился от её жара и старался, занимаясь её приготовлением»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5460</td></tr><tr><td>Arabic No</td><td>5460</td></tr><tr><td>Reference</td><td>Book 70 Hadith 89</td></tr></tbody></table></div>
 

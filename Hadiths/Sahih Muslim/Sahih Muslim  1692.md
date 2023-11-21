@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas reported that the Messenger of Allah (ﷺ) used to recite in the two 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1692</td></tr><tr><td>Arabic No</td><td>727.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Ибн ‘Аббас сказал: «Во время (совершения) двух рак‘атов (добровольной) утренней молитвы Посланник Аллаха ﷺ читал: «Скажите: “Мы уверовали в Аллаха, и в то, что Он ниспослал нам…”» (Сура «аль-Бакара», аят 136), и аяты из (суры) “али ‘Имран”: “Давайте придем к единому слову для нас и для вас…” (Сура «али ‘Имран», аят 64)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1692</td></tr><tr><td>Arabic No</td><td>727.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 122</td></tr></tbody></table></div>
 

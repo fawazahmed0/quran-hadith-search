@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) said:We proceeded with the Messenger of Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Abul Aswad Muhammad bin Abdurrahman bin Naufal] dari [Urwah] dari [Aisyah] radliallahu 'anha, bahwa ia berkata; "Kami keluar bersama Rasulullah shallallahu 'alaihi wasallam pada tahun haji waja', di antara kami ada yang ihram untuk umrah, ada yang ihram untuk haji dan umrah sekaligus, dan ada pula yang ihram untuk haji. Sementara Rasulullah shallallahu 'alaihi wasallam ihram untuk haji. Maka mereka yang ihram untuk umrah boleh tahallul, sedangkan mereka yang ihram untuk haji atau yang menggabungkan keduanya tidak boleh tahallul sampai hari Nahar tiba
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>1211.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>1211.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 126</td></tr></tbody></table></div>
 

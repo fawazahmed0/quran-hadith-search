@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qatada:Anas I said, "While Allah's Messenger (ﷺ) (p.b.u.h) was delive
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu 'Awanah] dari [Qatadah] dari [Anas bin Malik] berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam sedang berkhutbah pada hari Jum'at, tiba-tiba ada seorang laki-laki mendatangi beliau seraya berkata, "Wahai Rasulullah, hujan sudah lama tidak turun, berdo'alah kepada Allah agar menurunkan hujan buat kita." Maka beliau pun berdoa hingga hujan pun turun, dan hampir-hampir kami tidak bisa pulang ke rumah kami. Dan hujan terus turun hingga hari Jum'at berikutnya." Anas bin Malik berkata, "Laki-laki itu atau lelaki lain berdiri lalu berkata, "Wahai Rasulullah, berdo'alah kepada Allah agar hujan segera dialihkan dari kami." Maka Rasulullah shallallahu 'alaihi wasallam berdoa: "Ya Allah turunkanlah hujan di sekitar kami saja dan jangan membahyakan kami." Anas bin Malik berkata, "Sungguh aku melihat awan berpencar ke kanan dan kiri, lalu hujan turun namun tidak menghujani penduduk Madinah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1015</td></tr><tr><td>Arabic No</td><td>1015</td></tr><tr><td>Reference</td><td>Book 15 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) в пятницу, когда Посланник Аллаха ﷺ произносил хутбу, к нему подошел один человек и сказал: “О, Посланник Аллаха, нас постигла засуха, так обратись же к Аллаху, чтобы Он послал нам дождь!” И Посланник Аллаха ﷺ воззвал к Аллаху, и пошел такой сильный дождь, что мы с трудом добрались до своих домов, и он продолжался до следующей пятницы». \nДалее Анас сказал: «Тогда тот же самый или какой-то другой человек встал и сказал: “О, Посланник Аллаха, попроси Аллаха, чтобы Он отвел его (дождь) от нас”. Тогда Посланник Аллаха ﷺ сказал: “О Аллах, вокруг нас, а не на нас!”».\nАнас добавил: «Я видел, как тучи расходились направо и налево, а дождь все шел, но не над Мединой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1015</td></tr><tr><td>Arabic No</td><td>1015</td></tr><tr><td>Reference</td><td>Book 15 Hadith 10</td></tr></tbody></table></div>
 

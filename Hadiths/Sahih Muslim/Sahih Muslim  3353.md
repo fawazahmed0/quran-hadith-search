@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (way peace be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik bin Anas] sebagaimana yang telah dibacakan kepadanya dari [Yahya bin Sa'id] ia berkata, saya mendengar [Abul Hubab Sa'id bin Yasar] berkata, saya mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku diperintah untuk hijrah ke suatu negeri yang akan menguasai negeri-negeri lain. Sebagian orang-orang munafik menamakannya, 'Yatsrib' (padahal nama sebenarnya adalah) Madinah. Ia akan menghilangkan (para penjahatnya) sebagaimana tukang pandai besi menghilangkan kotoran besi." Dan Telah menceritakan kepada kami [Amru An Naqid] dan [Ibnu Abu Umar] keduanya berkata, Telah menceritakan kepada kami [Sufyan] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Ibnul Mutsanna] telah menceritakan kepada kami [Abdul Wahhab] semuanya dari [Yahya bin Sa'id] dengan Isnad ini, dan kedunya menyebutkan; "Sebagaimana tukang pandai besi menghilangkan kotoran." Ia tidak menyebutkan, "Al Hadid (besi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3353</td></tr><tr><td>Arabic No</td><td>1382.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 557</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3353</td></tr><tr><td>Arabic No</td><td>1382.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 557</td></tr></tbody></table></div>
 

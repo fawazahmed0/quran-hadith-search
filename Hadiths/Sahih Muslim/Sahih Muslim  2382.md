@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that there came a person to the Messenger of Allah (ﷺ) an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] dari [Umarah bin Al Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah] ia berkata; Seorang laki-laki mendatangi Rasulullah shallallahu 'alaihi wasallam dan bertanya, "Wahai Rasulullah, sedekah yang bagaimanakah yang paling besar pahalanya?" maka beliau pun menjawab: "Yaitu kamu bersedekah saat sehat, kikir, takut miskin dan kamu berangan-angan untuk menjadi hartawan yang kaya raya. Dan janganlah kamu lalai hingga nyawamu sampai di tenggorokan dan barulah kamu bagi-bagikan sedekahmu, ini untuk si Fulan dan ini untuk Fulan. Dan ingatlah, bahwa harta itu memang untuk si Fulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2382</td></tr><tr><td>Arabic No</td><td>1032.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «(Однажды) один человек пришёл к Пророку ﷺ и спросил: “О Посланник Аллаха, за какую милостыню (обещана) наибольшая (награда)?” Он ответил: “За ту, которую ты подашь, будучи здоровым и скупым, опасаясь бедности и надеясь разбогатеть. И не откладывай до тех пор, пока не придёт к тебе смерть, (чтобы лишь тогда) сказать: ‹Такому-то столько, а такому-то столько› (в то время как это уже будет принадлежать) такому-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2382</td></tr><tr><td>Arabic No</td><td>1032.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 119</td></tr></tbody></table></div>
 

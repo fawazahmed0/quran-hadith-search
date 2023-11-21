@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: We would not wash our feet after treading on somet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As-Sary] dan [Ibrahim bin Abu Mu'awiyah] dari [Abu Mu'awiyah]. Dan telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada saya [Syarik] dan [Jarir] dan [Ibnu Idris] dari [Al A'masy] dari [Syaqiq] dia berkata; [Abdullah] berkata; Kami tidak berwudhu kembali ketika kaki menginjak (kotoran) dan kami juga tidak menyela rambut atau baju kami (dibiarkan ketika sujud). Abu Daud berkata; berkata [Ibrahim bin Abu Mu'awiyah] padanya, dari [Al A'masy] dari [Syaqiq] dari [Masruq] atau dia telah menceritakan kepadanya darinya, ia berkata; berkata [Abdullah], dan berkata [Hannad] dari [Syaqiq] atau dia telah menceritakan kepadanya darinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>204</td></tr><tr><td>Arabic No</td><td>204</td></tr><tr><td>Reference</td><td>Book 1 Hadith 204</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Сообщается, что Шакъикъ сказал: «‘Абдуллах (ибн Мас‘уд) сказал: “Мы не совершали омовение заново, после того, как наступали на нечистоты, и не подбирали волосы и одежды (во время молитвы)”».Абу Дауд сказал: «Ибрахим ибн Абу Му‘авия сказал в этом хадисе: “От аль-А‘маша, от Шакъикъа, от Масрукъа или рассказывая от него (Масрукъ) сказал, что ‘Абдуллах (ибн Мас‘уд) сказал…”. Он (также) сказал: “Ханнад (передал) от Шакъикъа или рассказывал от него”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>204</td></tr><tr><td>Arabic No</td><td>204</td></tr><tr><td>Reference</td><td>Book 1 Hadith 204</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ jibir and Abil Salld al-Khudri (Allah be pleased with them) reported:We went wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Hajjaj bin Sya'ir] Telah menceritakan kepada kami [Mu'alla bin Asad] Telah menceritakan kepada kami [Wuhaib bin Khalid] dari [Dawud] dari [Abu Nadlrah] dari [Jabir] dan dari [Abu Sa'id Al Khudri] radliallahu 'anhuma, keduanya berkata; "Kami pergi bersama Nabi shallallahu 'alaihi wasallam dengan melantunkan ihram untuk haji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3024</td></tr><tr><td>Arabic No</td><td>1248</td></tr><tr><td>Reference</td><td>Book 15 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3024</td></tr><tr><td>Arabic No</td><td>1248</td></tr><tr><td>Reference</td><td>Book 15 Hadith 232</td></tr></tbody></table></div>
 

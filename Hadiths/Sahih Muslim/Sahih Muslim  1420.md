@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Ali (que Dieu l'agrée), Au jour de la bataille livrée contre les Coa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari [Hisyam] dari [Muhammad] dari ['Abidah] dari [Ali] dia berkata; "Ketika perang Ahzab, Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah memenuhi kuburan dan rumah mereka dengan api neraka, sebagaimana mereka telah menahan dan mengganggu kami dari shalat wushta (shalat ashar) hingga matahari terbenam." Dan telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] telah menceritakan kepada kami [Yahya bin Said] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Al Mu'tamir bin Sulaiman], semuanya dari [Hisyam] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1420</td></tr><tr><td>Arabic No</td><td>627.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 254</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Али, да будет доволен им Аллах, о том, что Посланник Аллаха ﷺ сказал в День нашествия союзных племён: «Да наполнит Аллах их дома и могилы огнём! Они удержали нас и отвлекли от совершения средней молитвы до заката солнца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1420</td></tr><tr><td>Arabic No</td><td>627.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 254</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated (through a diferent chain of transmetters) on the same auth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari ['Atha bin Yazid Al Laitsi] dari [Abu Sa'id] dia berkata, "Seorang laki-laki berkata, "Wahai Rasulullah, siapakah manusia yang paling utama?" beliau menjawab: "Seorang mukmin yang berjihad di jalan Allah dengan jiwa dan hartanya." Dia bertanya lagi, "Kemudian siapa?" beliau menjawab: "Kemudian seorang laki-laki yang pergi menyendiri ke suatu bukit untuk beribadah kepada Rabbnya dan meninggalkan dari kejahatan manusia." Telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Muhammad bin Yusuf] dari [Al Auza'i] dari [Ibnu Syihab] dengan sanad ini, dengan mengatakan; lalu ada seorang laki-laki dari suatu kaum tidak hanya kata seorang laki-laki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4887</td></tr><tr><td>Arabic No</td><td>1888.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4887</td></tr><tr><td>Arabic No</td><td>1888.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 183</td></tr></tbody></table></div>
 

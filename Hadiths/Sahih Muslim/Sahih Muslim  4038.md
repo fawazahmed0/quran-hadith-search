@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Humaid that Anas b. Malik was asked about the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah bin Sa'id] dan [Ali bin Hujr] mereka berkata; telah menceritakan kepada kami [Isma'il] yang mereka maksudkan adalah Ibnu Ja'far, dari [Humaid] dia berkata, " [Anas bin Malik] ditanya mengenai tukang bekam, dia lalu menjawab, "Rasulullah shallallahu 'alaihi wasallam pernah berbekam dan yang membekam beliau adalah Abu Thaibah, lantas beliau memerintahkan (keluarganya) supaya memberikan kepada Abu Thaibah dua gantang makanan, dan beliau menganjurkan kepada tuannya supaya dia (tuannya) meringankan tugas yang dibebankan kepada Abu Thaibah. Beliau bersabda: "Sesungguhnya berbekam adalah pengobatan yang paling utama atau termasuk terapi yang paling baik." Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Marwan] -yaitu Al Fazari- dari [Humaid] dia berkata; [Anas] ditanya mengenai tukang bekam, lalu dia menyebutkan hadits seperti di atas. Namun ia menambahkan, "Sesungguhnya bekam dan Qusth Al Bahri (sejenis tumbuhan) adalah pengobatan yang paling utama buat kalian, dan janganlah kalian menyakiti anak-anak kalian dengan ghamz (yaitu memasukkan jari jemari ke kerongkongan seorang anak untuk menghilangkan rasa sakit)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>1577.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>1577.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 77</td></tr></tbody></table></div>
 

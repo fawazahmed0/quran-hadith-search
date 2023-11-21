@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: Allah's Messenger (ﷺ) said, "If a man says to his brothe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] dan [Ahmad bin Sa'id] keduanya berkata; telah mengabarkan kepada kami [Utsman bin Umar] telah mengabarkan kepada kami [Ali bin Mubarrak] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seseorang berkata kepada saudaranya; "Wahai kafir" maka bisa jadi akan kembali kepada salah satu dari keduanya." [Ikrimah bin 'Ammar] berkata; dari [Yahya] dari [Abdullah bin Yazid] dia mendengar [Abu Salamah] mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6103</td></tr><tr><td>Arabic No</td><td>6103</td></tr><tr><td>Reference</td><td>Book 78 Hadith 130</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Если человек скажет своему брату (в исламе): “О неверный!”, то это вернётся к одному из них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6103</td></tr><tr><td>Arabic No</td><td>6103</td></tr><tr><td>Reference</td><td>Book 78 Hadith 130</td></tr></tbody></table></div>
 

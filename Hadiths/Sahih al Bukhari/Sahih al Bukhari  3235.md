@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:I asked Aisha "What about His Statement:-- "Then he (Gabriel) ap
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3235</td></tr><tr><td>Arabic No</td><td>3235</td></tr><tr><td>Reference</td><td>Book 59 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрук сказал ‘Аише, да будет доволен ею Аллах: «…а как же Его слова: “Он находился от него на расстоянии двух луков или даже ближе” (сура “ан-Наджм”, аят 9)?» Она ответила: «Это Джибриль, который приходил к Пророку ﷺ в облике мужчины, а в этот раз он пришёл к нему в своём настоящем облике, и (он был настолько огромным, что) закрыл собой весь горизонт»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3235</td></tr><tr><td>Arabic No</td><td>3235</td></tr><tr><td>Reference</td><td>Book 59 Hadith 46</td></tr></tbody></table></div>
 

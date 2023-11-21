@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Regarding the Verse: "And among men is he who worships Allah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ibrahim bin Al Harits] Telah menceritakan kepada kami [Yahya bin Abu Bukair] Telah menceritakan kepada kami [Israil] dari [Abu Hashin] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] dia berkata; berkenaan dengan firman Allah: Dan di antara manusia ada orang yang menyembah Allah dengan berada di tepi. (Al Hajj: 11), bahwa dulu ada seseorang yang datang ke Madinah, apabila istrinya melahirkan seorang bayi dan kudanya beranak maka dia mengatakan; ini agama yang baik. Dan jika istrinya tidak melahirkan demikian juga kudanya, maka dia mengatakan ini adalah agama yang buruk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4742</td></tr><tr><td>Arabic No</td><td>4742</td></tr><tr><td>Reference</td><td>Book 65 Hadith 264</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал об аяте «Среди людей есть и такой, который поклоняется Аллаху, находясь на грани…»: «Человек приезжал в Медину, и если его жена рожала сына, а лошадь давала приплод, то он говорил: “Это хорошая религия”. Если же его жена не родила, а лошадь не дала приплод, то он говорил: “Это плохая религия”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4742</td></tr><tr><td>Arabic No</td><td>4742</td></tr><tr><td>Reference</td><td>Book 65 Hadith 264</td></tr></tbody></table></div>
 

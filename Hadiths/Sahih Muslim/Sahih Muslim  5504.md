@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abbad b. Tamim reported from his uncle that he saw Allah's Messenger (ﷺ) lying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5504</td></tr><tr><td>Arabic No</td><td>2100.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аббад ибн Тамим передал со слов своего дяди по отцовской линии (‘Абдуллаха ибн Зейда, да будет доволен им Аллах,) о том, что «он видел, как Посланник Аллаха ﷺ лежал в мечети на спине, положив одну ногу на другую
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5504</td></tr><tr><td>Arabic No</td><td>2100.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 119</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:that the Prophet (ﷺ) entered upon her while a man was sitting 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] Telah menceritakan kepada kami [Syu'bah] dari [Al Asy'ats] dari [bapaknya] dari [Masruq] dari [Aisyah] radliallahu 'anha, bahwa Nabi shallallahu 'alaihi wasallam suatu ketika menemuinya, sementara di tempatnya terdapat seorang laki-laki dan sepertinya rona wajah beliau berubah dan membencinya, maka Aisyah pun berkata, "Sesungguhnya ia adalah saudaraku." Maka beliau bersabda: "Lihatlah siapakah saudara-saudara sesusuan kalian, karena susuan itu karena lapar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5102</td></tr><tr><td>Arabic No</td><td>5102</td></tr><tr><td>Reference</td><td>Book 67 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что однажды Пророк ﷺ зашёл к ней в то время, когда у неё находился один человек, (и ей показалось, что) он изменился в лице и это ему не понравилось. Тогда она сказала: «Поистине, это — мой (молочный) брат!» — (пророк же ﷺ) сказал: «Смотрите (внимательнее) на ваших молочных братьев, ибо молочное родство является действительным лишь в том случае, когда детей кормят только молоком и досыта»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5102</td></tr><tr><td>Arabic No</td><td>5102</td></tr><tr><td>Reference</td><td>Book 67 Hadith 40</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Hourayra (que Dieu l'agrée) a dit : Lors de la prière de fajr (de l'auror
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu At Thahir] dan [Harmalah bin Yahya], keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] katanya; telah mengabarkan kepadaku [Said bin Musayyab] dan [Abu Salamah bin Abdurrahman bin 'Auf], keduanya mendengar [Abu Hurairah] berkata; "Ketika Rasulullah shallallahu 'alaihi wasallam shalat fajar (subuh), yaitu setelah membaca, bertakbir dan mengangkat kepalanya, beliau membaca "Sami'allahu liman hamidah. Rabbanaa walakal hamdu." Kemudian beliau membaca lagi dan beliau masih berdiri, yaitu; ALLAAHUMMA ANJI ALWALID BIN WALID WA SALAMAH BIN HISYAM, WA AYYASY BIN ABU RABIAH, WAL MUSTADH'AFIINA MINAL MUL'MINIINA, ALLAAHUMMASY DUD WATH'ATHAKA 'ALAA MUDHARR WAJ'ALHAA 'ALIHIM KASINII YUUSUFA, ALLAAHUMMAL'AN LIHYAANA WARI'LAN WADZAKWAAANA WA'USHAYYAH ASHATALLAAHA WARASUULAHU (Ya Allah, selamatkanlah Walid bin walid, Salamah bin Hisyam, Ayyasy bin Abu Rabiah dan orang-orang mukmin yang lemah, Ya Allah, perkuatlah hukumanmu kepada Mudharr dan jadikanlah untuk mereka masa-masa paceklik sebagaimana paceklik Yusuf, Ya Allah, laknatilah Lihyan, Ri'l, dan Dzakwan, mereka yang telah membangkang Allah dan Rasul-Nya." Kemudian sampai berita kepada kami, bahwa beliau meninggakan doa (qunut) tersebut, tepatnya ketika turun ayat "Tidak ada urusanmu entah Allah mengampuni mereka atau menyiksa mereka, sesungguhnya mereka orang-orang yang zhalim (QS. Ali Imran 128), Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan ['Amru An Naqid], keduanya berkata; telah menceritakan kepada kami [Ibn 'Uyainah] dari [Az Zuhri] dari [Sa'id bin Musayyab] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam hingga sabdanya: "Ya Allah, jadikanlah untuk mereka tahun-tahun paceklik sebagaimana tahun-tahun paceklik Yusuf." Dan ia tidak menyebutkan kalimat sesudahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1540</td></tr><tr><td>Arabic No</td><td>675.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 373</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «(Был такой период, когда во время) совершения утренней молитвы Посланник Аллаха ﷺ как обычно (сначала) читал Коран, (потом) произносил слова “Аллах велик” (а потом совершал поясной поклон) и выпрямлялся со словами “Да услышит Аллах тех, кто воздал Ему хвалу. Господь наш, хвала Тебе! /Cами‘а-Ллаху ли-ман хамида-ху. Рабба-на, ва ля-кя-ль-хамд!/” после чего говорил стоя: “О Аллах, спаси аль-Валида ибн аль-Валида, Саляму ибн Хишама, ‘Айяша ибн Аби Раби‘у и слабых из числа верующих! О Аллах, подвергни суровому наказанию (людей из племён) мудар и сделай так, чтобы для них оно продолжалось столько же, сколько лет (длилась засуха) во времена Юсуфа! О Аллах, прокляни (убийц из племён) лихьян, ри‘ль, закван и ‘усайя, которые ослушались Аллаха и Его посланника!” А потом до нас дошло, что (Пророк ﷺ) перестал делать это после ниспослания (аята, в котором сказано): “Ты не принимаешь никакого решения. Аллах же либо примет их покаяния, либо накажет их, ведь они являются беззаконниками!” (Сура «аль-‘Имран», аят 128)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1540</td></tr><tr><td>Arabic No</td><td>675.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 373</td></tr></tbody></table></div>
 

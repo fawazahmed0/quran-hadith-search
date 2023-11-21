@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The tradition, (of the Prophet) is that if someone marries a virgi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Bisyr] Telah menceritakan kepada kami [Khalid] dari [Abu Qilabah] dari [Anas] radliallahu 'anhu, -jika aku mau, akan kukatakan; "Nabi shallallahu 'alaihi wasallam bersabda. Akan tetapi- ia berkata; Termasuk perkara sunnah adalah bila seseorang menikahi gadis hendaklah ia bermukim ditempatnya selama tujuh hari, dan bila ia menikahi seorang janda, maka hendaklah ia bermukim ditempatnya selama tiga hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5213</td></tr><tr><td>Arabic No</td><td>5213</td></tr><tr><td>Reference</td><td>Book 67 Hadith 146</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал(, а если хочешь, то я скажу, что это сказал Пророк ﷺ): «Сунна состоит в том, что, если кто-нибудь женится на девственнице, (уже имея жену,) ему следует провести с ней семь дней, а если (человек), уже имеющий жену, (которую он взял девственницей,) женится на женщине, (побывавшей замужем за другим,) ему следует провести с ней три дня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5213</td></tr><tr><td>Arabic No</td><td>5213</td></tr><tr><td>Reference</td><td>Book 67 Hadith 146</td></tr></tbody></table></div>
 

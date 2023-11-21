@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Buhaysah reported on the authority of his father:My father sought permission fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami ['Ubaidullah bin Mu'adz], telah menceritakan kepada Kami [ayahku], telah menceritakan kepada Kami [Kahmas] dari [Sayyar bin Manzhur] yaitu seorang laki-laki dari Bani Fazarah, dari [ayahnya], dari seorang wanita yang dipanggil [Buhaisah] dari [ayahnya], ia berkata; ayahku meminta izin kepada Nabi shallallahu 'alaihi wasallam, kemudian ia memasuki jubah beliau dan mencium beliau dan terus menyertai beliau. Kemudian berkata; wahai Rasulullah, sesuatu apakah yang tidak boleh untuk dihalangi? Beliau bersabda: "Air." Ia berkata; wahai Rasulullah, sesuatu apakah yang tidak boleh untuk dihalangi? Beliau bersabda: "Garam." Ia berkata; wahai Rasulullah, sesuatu apakah yang tidak boleh untuk dihalangi? Beliau bersabda: "Engkau melakukan kebaikan adalah lebih baik bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1669</td></tr><tr><td>Arabic No</td><td>1669</td></tr><tr><td>Reference</td><td>Book 9 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Женщина по имени Бухайса передаёт от своего отца: «Мой отец спросил у Пророка ﷺ разрешения и, вложив руку между его рубахой и телом, поцеловал его и приник к нему, после чего спросил: “О Посланник Аллаха, что нельзя удерживать?” Он ответил: “Воду”. Он спросил: “О пророк Аллаха, что ещё нельзя удерживать?” (Посланник Аллаха ﷺ) сказал: “Соль”. Он спросил: “О Посланник Аллаха, что ещё нельзя удерживать?” (Посланник Аллаха ﷺ) сказал: “Лучше тебе творить благое”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1669</td></tr><tr><td>Arabic No</td><td>1669</td></tr><tr><td>Reference</td><td>Book 9 Hadith 114</td></tr></tbody></table></div>
 

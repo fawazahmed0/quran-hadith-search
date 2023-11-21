@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that Umm Malik used to send clarified butter in a small skin to t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Salamah bin Syabib] Telah menceritakan kepada kami [Al Hasan bin A'yan] Telah menceritakan kepada kami [Ma'qil] dari [Abu Az Zubair] dari [Jabir radliallahu 'anhu] katanya: "Ummu Malik pernah memberikan minyak samin kepada Nabi shallallahu 'alaihi wasallam dalam sebuah bejana. Kemudian anak-anak Ummu Malik datang meminta lauk pauk karena mereka tidak mempunyai lauk pauk untuk makanannya. Lalu Ummu Malik mencari wadah yang pernah ia pergunakan untuk memberikan samin kepada Rasulullah shallallahu 'alaihi wasallam. Dan didapatinya di situ masih ada minyak seperti semula. Ummu Malik selalu membuat lauk dengan minyak itu di rumahnya setiap hari. Setelah tempat minyak itu dibersihkannya, dia datang kepada Nabi shallallahu 'alaihi wasallam, maka beliau bertanya: "Apakah kamu peras habis wadah itu?" Jawab Ummu Malik, "Ya." Sabda beliau: "Andaikata engkau tinggalkan sedikit, tentu engkau masih dapat mempergunakan seterusnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5945</td></tr><tr><td>Arabic No</td><td>2280</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5945</td></tr><tr><td>Arabic No</td><td>2280</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
 

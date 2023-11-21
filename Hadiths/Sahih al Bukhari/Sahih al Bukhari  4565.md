@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Anyone whom Allah has given 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku ['Abdullah bin Munir] dia mendengar [Abu An Nadlr] Telah menceritakan kepada kami ['Abdur Rahman] yaitu Ibnu 'Abdullah bin Dinar dari [Bapaknya] dari [Abu Shalih] dari [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang diberi harta oleh Allah -Azza wa Jalla-, lalu ia tidak menunaikan zakatnya, maka hartanya akan diubah pada hari Kiamat seperti seekor ular berkepala putih (karena banyak racunnya) serta memiliki dua titik hitam di atas matanya atau dua taring, memangsa dengan kedua tulang rahangnya pada hari Kiamat, lalu mengatakan, 'Akulah harta simpananmu, akulah harta simpananmu'." Kemudian beliau membaca ayat ini: 'Janganlah sekali-kali orang-orang yang bakhil dengan harta yang Allah berikan kepada mereka dari karunia-Nya menyangka.....' hingga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4565</td></tr><tr><td>Arabic No</td><td>4565</td></tr><tr><td>Reference</td><td>Book 65 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «В День воскресения богатство, дарованное Аллахом тому, кто не выплачивал с него закят, предстанет перед ним в образе плешивого ядовитого змея с двумя чёрными пятнами на глазах, который обовьётся вокруг него, вопьётся ему в щёки и скажет: “Я — твоё богатство, я — твоё сокровище”», а потом (Пророк ﷺ) прочитал (следующий аят): «И пусть скупящиеся на то, что даровал им Аллах по милости Своей, ни в коем случае не считают, что это лучше для них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4565</td></tr><tr><td>Arabic No</td><td>4565</td></tr><tr><td>Reference</td><td>Book 65 Hadith 87</td></tr></tbody></table></div>
 

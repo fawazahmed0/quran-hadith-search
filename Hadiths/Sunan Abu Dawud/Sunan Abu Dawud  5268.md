@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Shalih Mahbub bin Musa] berkata, telah mengabarkan kepada kami [Abu Ishaq Al Fazari] dari [Abu Ishaq Asy Syaibani] dari [Ibnu Sa'd] -Abu Dawud berkata; dia adalah Al Hasan bin Sa'd- dari ['Abdurrahman bin Abdullah] dari [Bapaknya] ia berkata, "Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, lalu beliau pergi untuk buang hajat. Kami lalu melihat seekor burung bersama dua anaknya, kami lantas mengambil dua anaknya hingga menjadikan burung tersebut terbang berputar-putar di atas kepala kami. Nabi shallallahu 'alaihi wasallam kemudian datang dan bertanya: "Siapa yang menyakiti burung ini dengan mengambil anaknya? Kembalikanlah anaknya kepadanya." Setelah itu beliau juga melihat sarang semut yang telah dibakar, beliau pun bertanya: "Siapa yang membakar sarang ini?" Kami menjawab, "Kami." Beliau bersabda: "Sesungguhnya tidak pantas bagi seseorang menyiksa dengan api kecuali pemilik api (Allah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5268</td></tr><tr><td>Arabic No</td><td>5268</td></tr><tr><td>Reference</td><td>Book 43 Hadith 496</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5268</td></tr><tr><td>Arabic No</td><td>5268</td></tr><tr><td>Reference</td><td>Book 43 Hadith 496</td></tr></tbody></table></div>
 

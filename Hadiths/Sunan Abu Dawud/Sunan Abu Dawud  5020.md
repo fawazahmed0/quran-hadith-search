@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuRazin: The Prophet (ﷺ) said: The vision flutters over a man as lon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Husyaim] berkata, telah mengabarkan kepada kami [Ya'la bin Atha] dari [Waki' bin Udus] dari pamannya [Abu Razin] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Mimpi itu akan tetap berada bersama kaki burung (mengambang) selama tidak diceritakan, jika diceritakan maka akan terjadi." Abu Razin berkata, "Aku mengira bahwa beliau mengatakan: "Janganlah kami ceritakan kecuali kepada orang yang terdekat, atau orang yang bisa memberi nasihat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5020</td></tr><tr><td>Arabic No</td><td>5020</td></tr><tr><td>Reference</td><td>Book 43 Hadith 248</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5020</td></tr><tr><td>Arabic No</td><td>5020</td></tr><tr><td>Reference</td><td>Book 43 Hadith 248</td></tr></tbody></table></div>
 

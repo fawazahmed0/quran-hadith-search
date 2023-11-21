@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Today a man came to me and asked me a question which I did no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Utsman bin Abi Syaibah] telah bercerita kepada kami [Jarir] dari [Manshur] dari [Abu Wa'il] berkata; ['Abdullah bin Mas'ud] berkata: "Pada hari ini ada seorang yang datang menemuiku lalu bertanya tentang sesuatu yang aku tidak tahu apa yang harus aku jawab. Dia berkata: "Bagaimana pendapatmu tentang seseorang yang bersemangat dan sungguh-sungguh, ia keluar bersama para pemimpin kita pada peperangan, lalu ia mengatakan kepada kita segala sesuatu yang kita tidak mampu menghitungnya?" aku jawab: "Demi Allah, aku tidak tahu apa yang harus aku katakan padamu, kecuali ketika kami bersama Nabi shallallahu 'alaihi wasallam, dimana Beliau tidak menginginkan kepada kami kecuali hanya sekali hingga kami melakukannya. (Kata Beliau): "Dan sesungguhnya ada orang diantara kalian yang akan senantiasa dalam kebaikan selama ia bertakwa kepada Allah. Jika ia ragu pada dirinya tentang sesuatu ia bertanya kepada orang lain lalu ia meyelesaikan perkaranya. Dan hampir-hampir kalian tidak akan menemuinya. Demi Dzat yang tidak ada ilah selain Dia, aku ingat bahwa tidak ada yang menyelimuti dunia kecuali seperti air keruh yang diminum bagian bersihnya dan tersisa keruhnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2964</td></tr><tr><td>Arabic No</td><td>2964</td></tr><tr><td>Reference</td><td>Book 56 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Ибн Мас‘уд, да будет доволен им Аллах, сказал: «Сегодня ко мне пришёл один человек и задал мне такой вопрос, ответа на который я не знал. Он сказал: “Скажи мне, а что если хорошо снаряжённый и энергичный человек отправится в военный поход вместе с нашими начальниками и станет приказывать нам то, выполнение чего окажется нам не под силу?” Я сказал: “Клянусь Аллахом, не знаю, что и сказать тебе, кроме того, что, когда мы были вместе с Пророком ﷺ ему стоило приказать что-нибудь лишь один раз, и мы выполняли это. Поистине, с любым из вас всё будет в порядке до тех пор, пока он будет бояться Аллаха, если же у кого-то возникнут сомнения относительно (законности) чего-либо, (пусть) спросит (об этом) того, кто (сможет дать ему такой ответ, который) избавит его (от сомнений), однако скоро уже настанет такое время, когда вы не сможете находить (таких людей). Клянусь Тем, помимо Кого нет истинного бога, поистине, (думая о) том, что в этой жизни уже прошло (и что осталось), я (могу сравнить это) лишь с прудом, чистая вода которого исчезла, а осталась одна только муть!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2964</td></tr><tr><td>Arabic No</td><td>2964</td></tr><tr><td>Reference</td><td>Book 56 Hadith 174</td></tr></tbody></table></div>
 

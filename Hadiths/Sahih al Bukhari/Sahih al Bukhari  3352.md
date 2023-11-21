@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When the Prophet (ﷺ) saw pictures in the Ka'ba, he did not
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] dari [Ma'mar] telah mengabarkan kepada kami [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam ketika melihat patung di dalam al-Bait (Ka'bah) Beliau tidak memasukinya hingga Beliau perintahkan agar dibersihkan. Dan Beliau melihat ada patung Nabi Ibrahim dan Isma'il yang pada tangan keduanya ada azlam (anak panah), maka Beliau bersabda: "Semoga Allah membinasakan mereka. Demi Allah keduanya sama sekali tidak pernah (mengajarkan) mengundi nasib (dengan melempar anak panah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3352</td></tr><tr><td>Arabic No</td><td>3352</td></tr><tr><td>Reference</td><td>Book 60 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Увидев внутри Каабы изображения, Пророк ﷺ не вошёл в неё до тех пор, пока их не стёрли. А увидев изображения Ибрахима и Исма‘иля, в руках которых были изображены гадальные стрелы, он сказал: “Да погубит их Аллах (курайшитов)! Клянусь Аллахом, они никогда не гадали на стрелах!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3352</td></tr><tr><td>Arabic No</td><td>3352</td></tr><tr><td>Reference</td><td>Book 60 Hadith 27</td></tr></tbody></table></div>
 

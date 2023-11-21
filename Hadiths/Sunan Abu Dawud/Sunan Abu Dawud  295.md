@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Sahlah daughter of Suhayl had a prolonged flow o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Yahya] telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq] dari [Abdurrahman bin Al-Qasim] dari [Ayahnya] dari [Aisyah] bahwasanya Sahlah binti Suhail mengeluarkan darah penyakit, lalu dia mendatangi Nabi shallallahu 'alaihi wasallam, maka beliau memerintahkannya untuk mandi pada setiap kali shalat. Tatkala hal itu dirasa berat baginya, beliau memerintahkannya untuk menjamak antara shalat Zhuhur dengan Ashar dan antara shalat Maghrib dan shalat Isya dengan satu kali mandi, dan satu kali mandi untuk shalat Shubuh. Abu Dawud berkata; Dan diriwayatkan oleh [Ibnu Uyaiynah] dari [Abdurrahman bin Al-Qasim] dari [Ayahnya] bahwasanya ada seorang wanita yang mengeluarkan darah penyakit, kemudian dia bertanya kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau memerintahkannya… dengan lafazh semakna dengan hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>295</td></tr><tr><td>Arabic No</td><td>295</td></tr><tr><td>Reference</td><td>Book 1 Hadith 295</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши: «У Сахлы бинт Сухайль было хроническое кровотечение, и она пришла (за советом) к Пророку ﷺ. Он велел ей, чтобы она купалась для каждой молитвы. Когда это для нее стало утомительным, он велел ей объединять полуденную и послеполуденную молитвы, искупавшись один раз, и тоже самое сделать с закатной и вечерней молитвами. А для утренней молитвы (он велел ей) купаться отдельно».Абу Дауд сказал: «Также хадис с таким же смыслом передал Ибн ‘Уйейна от ‘Абду-р-Рахмана ибн аль-Къасима, сообщившего со слов своего отца (в котором говорится), что некая женщина страдала хроническим кровотечением и она спросила об этом Посланника Аллаха ﷺ и он велел ей…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>295</td></tr><tr><td>Arabic No</td><td>295</td></tr><tr><td>Reference</td><td>Book 1 Hadith 295</td></tr></tbody></table></div>
 

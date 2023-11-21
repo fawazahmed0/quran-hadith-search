@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas Ibn Mâlik (que Dieu l'agrée) a dit : "Le Prophète (paix et bénédiction
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata; saya mendengar [Hisyam bin Zaid bin Anas bin Malik] dia berkata, "Saya bersama kakekku, [Anas bin Malik], datang ke rumah Al Hakam bin Ayyub, ternyata saya dapati kaum di sana menjadikan ayam sebagai sasaran memanah. Maka Anas berkata, "Rasulullah shallallahu 'alaihi wasallam telah melarang menjadikan binatang sebagai sasaran memanah." Dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] dan [Abdurrahman bin Mahdi]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Yahya bin Habib] telah menceritakan kepada kami [Khalid bin Al Harits]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Usamah] mereka semua dari [Syu'bah] dengan isnad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5057</td></tr><tr><td>Arabic No</td><td>1956.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5057</td></tr><tr><td>Arabic No</td><td>1956.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 86</td></tr></tbody></table></div>
 

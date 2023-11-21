@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] semuanya dari [Ismail bin Ja'far], [Ibnu Ayyub] berkata, telah menceritakan kepada kami [Ismail] dia berkata, telah mengabarkan kepadaku [al-Ala'] dari [bapaknya] dari [Abu Hurairah] bahwa Rasulullah melewati setumpuk makanan, lalu beliau memasukkan tangannya ke dalamnya, kemudian tangan beliau menyentuh sesuatu yang basah, maka pun beliau bertanya: "Apa ini wahai pemilik makanan?" sang pemiliknya menjawab, "Makanan tersebut terkena air hujan wahai Rasulullah." Beliau bersabda: "Mengapa kamu tidak meletakkannya di bagian makanan agar manusia dapat melihatnya. Barangsiapa menipu maka dia bukan dari golongan kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>284</td></tr><tr><td>Arabic No</td><td>102</td></tr><tr><td>Reference</td><td>Book 1 Hadith 190</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ, проходивший мимо (выставленной на продажу) кучи (пшеницы), погрузил руку внутрь (этой кучи), и его пальцы (ощутили) влажность. Он спросил: «Что это, о владелец пшеницы?» Тот ответил: «Её испортил (дождь, выпавший с) неба, о Посланник Аллаха». (Тогда Пророк ﷺ) воскликнул: «Так почему же ты не насыпал (подмоченное зерно) сверху, чтобы люди видели его?! Тот, кто обманывает, не имеет отношения ко мне!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>284</td></tr><tr><td>Arabic No</td><td>102</td></tr><tr><td>Reference</td><td>Book 1 Hadith 190</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Were it not for the fear tha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya bin Sa'id] dari [Yahya bin Sa'id Al Anshoriy] berkata telah bercerita kepadaku [Abu Shalih] berkata aku mendengar [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; "Seandainya tidak memberatkan ummatku aku tidak akan membiarkan (mereka) tidak ikut dalam sariyah (pasukan perang) sekalipun. Akan tetapi aku tidak mendapatkan perbekalan dan tidak pula aku dapatkan biaya yang dapat menyertakan mereka untuk berperang lalu menjadi berat bagiku dengan tidak berangkatnya mereka. Sungguh aku ingin berperang di jalan Allah lalu aku terbunuh kemudin aku dihidupkan kembali lalu aku berperang lagi kemudian terbunuh lagi lalu aku dihidupkan kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2972</td></tr><tr><td>Arabic No</td><td>2972</td></tr><tr><td>Reference</td><td>Book 56 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Если бы я не обременил (этим) мою общину, то я не остался бы позади ни одного отряда. Однако у меня нет верхового снаряжения и нет верховых животных, и мне тяжко то, что они остаются и не выходят со мной. И, поистине, хотел бы я сразиться на пути Аллаха, и быть убитым, а потом воскрешённым, потом снова убитым и снова воскрешённым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2972</td></tr><tr><td>Arabic No</td><td>2972</td></tr><tr><td>Reference</td><td>Book 56 Hadith 181</td></tr></tbody></table></div>
 

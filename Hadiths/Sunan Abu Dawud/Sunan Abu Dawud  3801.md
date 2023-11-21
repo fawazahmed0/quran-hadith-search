@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: I asked the Messenger of Allah (ﷺ) about the hyen
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah Al Khuza'i] telah menceritakan kepada kami [Jarir bin Hazim] dari [Abdullah bin 'Ubaid] dari [Abdurrahman bin Abu 'Ammar] dari [Jabir bin Abdullah] ia berkata, "Aku pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam mengenai biawak, beliau lalu menjawab: "Biawak adalah hewan buruan, dan dijadikan padanya denda satu ekor domba apabila orang yang berihram memburunya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3801</td></tr><tr><td>Arabic No</td><td>3801</td></tr><tr><td>Reference</td><td>Book 28 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что он спросил Посланника Аллаха ﷺ о гиене и (Посланник Аллаха ﷺ) сказал: «На неё можно охотиться, а если её убил паломник в состоянии ихрама, он должен принести в жертву барана в качестве искупления»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3801</td></tr><tr><td>Arabic No</td><td>3801</td></tr><tr><td>Reference</td><td>Book 28 Hadith 66</td></tr></tbody></table></div>
 

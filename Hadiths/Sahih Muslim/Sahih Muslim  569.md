@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim, the freed slave of Shaddad b. al-Had said:I was in the presence of 'A'ish
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>569</td></tr><tr><td>Arabic No</td><td>240.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Салим, вольноотпущенник Шаддада ибн аль-Хади сказал: «Я был вместе с ‘Аишей, да будет доволен ею Аллах…», далее он упомянул, что она передала от Пророка ﷺ хадис, подобный предыдущему
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>569</td></tr><tr><td>Arabic No</td><td>240.04</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
 

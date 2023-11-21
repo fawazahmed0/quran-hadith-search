@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: Amr ibn Aws and AbulSha'tha' reported that Bujalah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad], telah menceritakan kepada kami [Sufyan], dari ['Amr bin Dinar], ia mendengar [Bajalah], menceritakan kepada 'Amr bin Aus, serta Abu Asy Sya'tsa', ia berkata; dahulu aku adalah seorang sekretaris Jaz' bin Mu'awiyah paman Al Ahnaf bin Qais, tiba-tiba terdapat surat [Umar] datang kepada kami satu tahun sebelum ia meninggal, ia berkata; bunuhlah seluruh tukang sihir, dan pisahkan antara setiap orang yang memiliki mahram dari kalangan orang-orang majusi, dan laranglah mereka dari bersuara rendah yang hampir tidak terdengar suaranya. Maka kami dalam sehari telah membunuh tiga orang tukang sihir, dan memisahkan antara setiap laki-laki majusi dan mahramnya dalam kitab Allah. Dan Umar membuat makanan yang banyak kemudian mengundang mereka kemudian ia memperlihatkan pedang di atas pahanya. Kemudian mereka makan tanpa mengeluarkan suara samar yang tidak jelas dan mereka menjatuhkan bawaan seekor atau dua ekor bighal dari perak, dan Umar tidak mengambil jizyah dari orang-orang majusi hingga [Abdurrahman bin 'Auf] bersaksi bahwa Rasulullah shallallahu 'alaihi wasallam mengambilnya dari majusi Hajar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3156، 3157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3043</td></tr><tr><td>Arabic No</td><td>3043</td></tr><tr><td>Reference</td><td>Book 20 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Баджали: «Я был писарем Джаза ибн Му‘авии, дяди аль-Ахнафа ибн Кайса, когда мы получили письмо от ‘Умара (это было за год до его смерти), в котором было сказано: “Казните всех колдунов, расторгните все близкородственные браки между огнепоклонниками и запретите им бормотать”. В тот день мы казнили трёх колдуний и расторгли брак тех огнепоклонников, которые были женаты на близких родственницах, запрещённых им по Книге Аллаха. Затем он приготовил много еды и пригласил их. При этом он положил меч на своё бедро. Они поели и при этом не бормотали. И они достали серебряные приборы, нагруженные на одного или двух мулов. ‘Умар не взимал подушную подать /джизью/ с огнепоклонников до тех пор, пока ‘Абду-р-Рахман ибн ‘Ауф не засвидетельствовал, что Посланник Аллаха ﷺ взимал подушную подать /джизью/ с огнепоклонников Хаджара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3156، 3157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3043</td></tr><tr><td>Arabic No</td><td>3043</td></tr><tr><td>Reference</td><td>Book 20 Hadith 116</td></tr></tbody></table></div>
 

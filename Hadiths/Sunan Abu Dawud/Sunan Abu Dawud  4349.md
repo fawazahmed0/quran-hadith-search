@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Tha'labat al-Khushani: The Prophet (ﷺ) said: Allah will not fail 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Sahl] berkata, telah menceritakan kepada kami [Hajjaj bin Ibrahim] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah menceritakan kepadaku [Mu'awiyah bin Shalih] dari ['Abdurrahman bin Jubair] dari [Bapaknya] dari [Abu Tsa'labah Al Khusyani] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekali-kali Allah tidak akan melemahkan umat ini dari waktu setengah hari (pada hari kiamat)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4349</td></tr><tr><td>Arabic No</td><td>4349</td></tr><tr><td>Reference</td><td>Book 39 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘лябы аль-Хушани, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Аллаху нетрудно отложить срок этой общины на полдня (которое составляет пятьсот лет по нашим меркам)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4349</td></tr><tr><td>Arabic No</td><td>4349</td></tr><tr><td>Reference</td><td>Book 39 Hadith 59</td></tr></tbody></table></div>
 

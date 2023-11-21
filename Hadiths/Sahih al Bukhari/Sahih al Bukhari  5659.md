@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:I became seriously ill at Mecca and the Prophet (ﷺ) came to visi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Makki bin Ibrahim] telah mengabarkan kepada kami [Al Ju'aid] dari [Aisyah binti Sa'd] bahwa [Ayahnya] berkata; Aku pernah menderita rasa sakit yang amat berat ketika di Makkah, maka Nabi shallallahu 'alaihi wasallam datang menjengukku, lalu aku berkata kepada beliau; "Wahai Nabi Allah, aku akan meninggalkan banyak harta benda, namun aku tidak memiliki seorang pun (ahli warits) selain seorang puteri, oleh karena itu aku wasiatkan dua pertiga dari harta bendaku dan aku tinggalkan sepertiganya" beliau bersabda: "Jangan." Kataku; "Kalau begitu, aku wasiatkan setengahnya dan aku sisakan setengah." Beliau menjawab: "Jangan." Kataku selanjutnya; "Kalau begitu aku wasiatkan sepertiga dan aku sisakan yang dua pertiganya." Beliau bersabda: "Sepertiga, sepertiga pun masih banyak, " lalu beliau meletakkan tangan beliau di atas keningnya kemudian beliau mengusap wajah dan perutku sambil berdo'a: "ALLAHUMMASYFII SA'D WA ATMIM LAHU HIJRATAHU (Ya Allah, sembuhkanlah penyakit Sa'd dan sempurnakanlah hijrahnya)." Maka aku masih merasakan rasa sejuk di hatiku hingga saat ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5659</td></tr><tr><td>Arabic No</td><td>5659</td></tr><tr><td>Reference</td><td>Book 75 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши бинт Са‘д, что её отец сказал: «Когда, в Мекке я сильно заболел и Пророк ﷺ пришёл навестить меня, я сказал: “О Пророк Аллаха! Я оставлю после себя имущество, а моя наследница — моя единственная дочь, так не завещать ли мне две трети своих денег (бедным), оставив ей треть?” Он ответил: “Нет”. Я сказал: “Тогда может завещать половину, оставив ей половину?” Он ответил: “Нет”. Я сказал: “Тогда может завещать треть, а ей оставить две трети?” Он ответил: “Треть, но и трети будет много”. Затем он положил руку на лоб, провел ею по моему лицу и животу и сказал: “О Аллах, исцели Са‘да и помоги ему завершить переселение”. И мне кажется, что до сих пор я чувствую холод его руки на своей печени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5659</td></tr><tr><td>Arabic No</td><td>5659</td></tr><tr><td>Reference</td><td>Book 75 Hadith 19</td></tr></tbody></table></div>
 

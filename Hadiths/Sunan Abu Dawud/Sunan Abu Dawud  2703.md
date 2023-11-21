@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman ibn Samurah ibn Kabul: AbuLabid said: We were with AbdurRah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb], ia berkata; telah menceritakan kepada kami [Jarir bin Hazim] dari [Ya'la bin Hakim] dari [Abu Labid], ia berkata; kami pernah bersama [Abdurrahman bin Samurah] di Kabul, kemudian orang-orang mendapatkan rampasan perang, lalu mereka mengambilnya sebelum dibagi. Kemudian ia berkhutbah, ia berkata; saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam melarang dari mengambil rampasan perang sebelum dibagi. Lalu mereka mengembalikan apa yang telah mereka ambil, kemudian ia membaginya diantara mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2703</td></tr><tr><td>Arabic No</td><td>2703</td></tr><tr><td>Reference</td><td>Book 15 Hadith 227</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Лябид рассказывал: «Когда мы с ‘Абдуррахманом ибн Самурой были в Кабуле, людям достались военные трофеи, и они разобрали их (до их справедливого раздела). Тогда (‘Абдуррахман ибн Самура) встал и обратился (к людям) с проповедью, сказав: “Я слышал, как Посланник Аллаха ﷺ запрещал брать трофеи до их раздела”. (Услышав это), они вернули то, что забрали, (после чего) он разделил их между ними (согласно исламу)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2703</td></tr><tr><td>Arabic No</td><td>2703</td></tr><tr><td>Reference</td><td>Book 15 Hadith 227</td></tr></tbody></table></div>
 

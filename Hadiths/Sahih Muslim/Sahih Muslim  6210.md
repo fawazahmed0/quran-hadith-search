@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the wife of Allah's Apostle (mav peace be upon him), and Uthman both rep
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul Malik bin Syu'aib bin Al Laits bin Sa'ad]; Telah menceritakan kepadaku [Bapakku] dari [Kakekku]; Telah menceritakan kepadaku ['Uqail bin Khalid] dari [Ibnu Syihab] dari [Yahya bin Sa'id bin Al 'Ash] bahwa [Sa'id bin Al 'Ash] Telah mengabarkan kepadanya, ['Aisyah] istri Nabi shallallahu 'alaihi wasallam dan [Utsman] telah menceritakan kepadanya; Abu Bakar meminta izin untuk menemui Rasulullah shallallahu 'alaihi wasallam sedang saya bersama beliau dalam satu selimut, kemudian beliau mengizinkannya dan dia menyampaikan keperluannya kepada beliau sedang beliau masih bersamaku dalam selimut. Setelah itu Abu Bakar keluar. Kemudian Umar meminta izin kepada beliau dalam keadaan yang sama. lalu beliau mengizinkannya dan dia menyampaikan keperluannya kepada beliau, setelah itu Umar keluar. Utsman berkata; Kemudian aku meminta izin kepada beliau, lalu beliau segera duduk seraya berkata kepada Aisyah; 'Betulkan pakaianmu wahai Aisyah! Lalu aku menyampaikan keperluanku kepada beliau setelah itu aku keluar. Aisyah berkata; wahai Rasulullah! aku melihat sikapmu kepada Abu Bakar dan Umar ketika mereka meminta izin (menemuimu) tidak sama dengan sikapmu kepada Utsman ketika dia datang, kenapa demikian? Beliau bersabda: "Sesungguhnya Ustman adalah orang yang sangat pemalu dan jika aku mengizinkannya dalam keadaanku yang seperti itu, aku khawatir dia tidak mau menyampaikan keperluannya kepadaku." Dan telah menceritakannya kepada kami ['Amru An Naqid] dan [Al Hasan bin 'Ali Al Hulwani] dan ['Abad bin Humaid] seluruhnya dari [Ya'qub bin Ibrahim bin Sa'ad]; Telah menceritakan kepada kami [Bapakku] dari [Shalih bin Kaisan] dari [Ibnu Syihab] dia berkata; Telah mengabarkan kepadaku [Yahya bin Sa'd bin Al 'Ash] bahwa [Sa'd bin Al 'Ash] telah mengabarkan kepadanya; bahwanya ['Utsman] dan ['Aisyah] telah menceritakannya kepada kami; Abu Bakr Ash Shiddiq meminta izin untuk menemui Rasulullah shallallahu 'alaihi wasallam. -lalu perawi menyebutkan Hadits yang sama dengan Hadits Uqail dari Az Zuhri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6210</td></tr><tr><td>Arabic No</td><td>2402.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6210</td></tr><tr><td>Arabic No</td><td>2402.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 40</td></tr></tbody></table></div>
 

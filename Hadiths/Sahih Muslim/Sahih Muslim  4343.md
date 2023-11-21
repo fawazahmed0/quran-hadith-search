@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl. b. Abu Hathma and Rafi' b. Khadij reported that Muhayyisa b. Mas'ud and 'A
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepadaku ['Ubaidullah bin Umar Al Qawariri] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Busyair bin Yasar] dari [Sahl bin Abu Hatsmah] dan [Rafi' bin Khadij], bahwa Muhayishah bin Mas'ud dan Abdullah bin Sahal pergi ke arah Khaibar, kemudian keduanya berpisah di suatu kebun kurma, tiba-tiba Abdullah terbunuh dan mereka menyangkan orang Yahudi lah pembunuhnya. Lantas saudaranya, Abdurrahman dan kedua anak pamannya, Huwayishah dan Muhayishah, pergi menemui Nabi shallallahu 'alaihi wasallam. Abdurrahman lalu angkat bicara mengenai permasalahan saudaranya, padahal dia adalah orang yang paling muda di antara mereka, maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Hendaknya yang paling tua di antara kalian yang angkat bicara terlebih dahulu." Atau beliau bersabda: "Hendaknya yang paling tua yang mulai bicara." Lalu keduanya angkat bicara mengenai perkara saudaranya, lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Hendaknya lima puluh orang dari kalian bersumpah atas satu orang dari mereka (Yahudi), maka dia akan tertuduh." Mereka berkata, "Perkara ini sama sekali belum pernah kami alami, bagaimana kami akan bersumpah?" beliau bersabda: "Jika demikian, maka orang-orang Yahudi akan bebas dari tuduhan kalian dengan sumpah yang mereka lakukan." Mereka berkata, "Wahai Rasulullah, mereka adalah orang-orang kafir." Rafi' melanjutkan, "Kemudian Rasulullah shallallahu 'alaihi wasallam membayar diyat kepada mereka." Sahal berkata; "Suatu hari aku pernah masuk ke kandang unta mereka, tiba-tiba aku di tendang seekor unta dengan kaki. [Hammad] berkata, "Ini, atau seperti itu." Dan telah menceritakan kepada kami [Al Qawariri] telah menceritakan kepada kami [Bisyr bin Al Mufadlal] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Busyair bin Yasar] dari [Sahal bin Abu Khatsmah] dari Nabi shallallahu 'alaihi wasallam seperti itu. Dan dalam haditsnya ia menyebutkan, "Lalu Rasulullah shallallahu 'alaihi wasallam membayat diyatnya dengan menggunakan uang pribadinya. Dan dalam haditsnya ia tidak menyebutkan, "Kemudian aku ditendang oleh seekor unta." Telah menceritakan kepada kami ['Amru An Naqid] telah menceritakan kepada kami [Sufyan bin 'Uyainah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Mutsanna] telah menceritakan kepada kami [Abdul Wahab] -yaitu Ats Tsaqafi- semuanya dari [Yahya bin Sa'id] dari [Busyair bin Yasar] dari [Sahal bin Abu Khatsmah] seperti hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>1669.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>1669.02</td></tr><tr><td>Reference</td><td>Book 28 Hadith 2</td></tr></tbody></table></div>
 

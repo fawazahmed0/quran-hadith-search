@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "The example of a believer who recites
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya] dari [Syu'bah] dari [Qatadah] dari [Anas bin Malik] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Seorang mukmin yang membaca Al Qur'an dan beramal denganya adalah bagaikan buah utrujah, rasanya lezat dan baunya juga sedap. Dan orang mukmin yang tidak membaca Al Qur'an namun beramal dengannya adalah seperti buah kurma, rasanya manis, namun tidak ada baunya. Sedangkan perumpamaan orang munafik yang membaca Al Qur'an adalah seperti Ar Raihanah, aromanya sedap, tetapi rasanya pahit. Dan perumpamaan orang munafik yang tidak membaca Al Qur'an adalah seperti Al Hanzhalah, rasanya pahit dan baunya juga busuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5059</td></tr><tr><td>Arabic No</td><td>5059</td></tr><tr><td>Reference</td><td>Book 66 Hadith 84</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Верующий, который читает Коран и поступает в (соответствии с его установлениями), подобен сладкому лимону, обладающему приятным запахом и вкусом, а верующий, который не читает Коран, но поступает в (соответствии с его установлениями), подобен финику, приятному на вкус, но не обладающему запахом. Лицемер, который читает Коран, подобен рейхану, обладающему приятным запахом, но горькому на вкус, а лицемер, который Коран не читает, подобен колоквинту, горькому (или: отвратительному) на вкус и пахнущему горечью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5059</td></tr><tr><td>Arabic No</td><td>5059</td></tr><tr><td>Reference</td><td>Book 66 Hadith 84</td></tr></tbody></table></div>
 

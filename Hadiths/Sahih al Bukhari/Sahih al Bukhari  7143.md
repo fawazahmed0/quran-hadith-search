@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "If somebody sees his Muslim ruler d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin harb] telah menceritakan kepada kami [Hammad] dari [Al Ja'd] dari [Abu Raja'] dari [Ibnu 'Abbas] yang ia riwayatkan, mengatakan, Nabi shallallahu 'alaihi wasallam bersabda; "Siapa yang melihat dari amirnya sesuatu yang tidak disukainya, hendaklah ia bersabar, sebab tidaklah seseorang meninggalkan jama'ah sejauh sejengkal, lantas ia meninggal dunia, melainkan ia mati jahiliyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7143</td></tr><tr><td>Arabic No</td><td>7143</td></tr><tr><td>Reference</td><td>Book 93 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ сказал: “Кто увидит от своего правителя нечто такое, что ему не понравится, пусть проявляет терпение, ибо, поистине, любой, кто отошёл от остальных мусульман (джама‘а) хотя бы на пядь и умер, тот умер смертью времён доисламкого невежества (джахилийи)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7143</td></tr><tr><td>Arabic No</td><td>7143</td></tr><tr><td>Reference</td><td>Book 93 Hadith 7</td></tr></tbody></table></div>
 

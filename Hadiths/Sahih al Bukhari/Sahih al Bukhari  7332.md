@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Jews brought a man and a woman who had committed illegal 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7332</td></tr><tr><td>Arabic No</td><td>7332</td></tr><tr><td>Reference</td><td>Book 96 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что однажды к Пророку ﷺ пришли иудеи c мужчиной и женщиной (из их числа), которые совершили прелюбодеяние. И он повелел закидать их камнями возле места совершения молитвы джаназа, неподалеку от мечети
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7332</td></tr><tr><td>Arabic No</td><td>7332</td></tr><tr><td>Reference</td><td>Book 96 Hadith 61</td></tr></tbody></table></div>
 

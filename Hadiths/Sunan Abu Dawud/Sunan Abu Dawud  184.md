@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: The Messenger of Allah (ﷺ) was asked about perform
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Abdullah bin Abdillah Ar-Razi] dari [Abdurrahman bin Abu Laila] dari [Al-Bara' bin Azib] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang berwudhu karena makan daging unta. Maka beliau shallallahu 'alaihi wasallam bersabda: "Berwudhulah karenanya!" Dan beliau juga ditanya tentang berwudhu karena makan daging kambing. Maka beliau shallallahu 'alaihi wasallam bersabda: "Janganlah berwudhu karenanya!" Dan beliau juga ditanya tentang mengerjakan shalat di tempat tambatan unta, maka beliau shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mengerjakan shalat di tempat itu, karena sesungguhnya ia termasuk setan." Dan beliau juga ditanya tentang mengerjakan shalat di tempat tambatan kambing, maka beliau bersabda: "Shalatlah di dalamnya, karena sesungguhnya tempat itu mengandung barakah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>184</td></tr><tr><td>Arabic No</td><td>184</td></tr><tr><td>Reference</td><td>Book 1 Hadith 184</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ ибн ‘Азиб сказал: «Посланника Аллаха ﷺ спросили о совершении омовения после употребления в пищу мяса верблюда и он ответил: “Совершайте омовение от него”. Его спросили о баранине, и он ответил: “Не совершайте омовение после него”. Его спросили о совершении молитвы в загоне для верблюдов, и он ответил: “Не молитесь в загоне для верблюдов, ибо поистине, они (подобны) шайтанам” . Его спросили о молитве в загоне для овец, и он сказал: “Молитесь там, поскольку они благословенны”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>184</td></tr><tr><td>Arabic No</td><td>184</td></tr><tr><td>Reference</td><td>Book 1 Hadith 184</td></tr></tbody></table></div>
 

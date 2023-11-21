@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz al Anbari] telah menceritakan kepada kami [Bapakku] (dalam riwayat lain disebutkan), Dan telah menceritakan kepada kami [Muhammad bin al Mutsanna] telah menceritakan kepada kami [Abdurrahman bin Mahdi] keduanya berkata, telah menceritakan kepada kami [Syu'bah] dari [Khubaib bin Abdurrahman] dari [Hafsh bin Ashim] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Cukuplah seseorang (dianggap) berbohong apabila dia menceritakan semua yang dia dengarkan." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Hafsh] telah menceritakan kepada kami [Syu'bah] dari [Khubaib bin Abdurrahman] dari [Hafsh bin 'Ashim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7</td></tr><tr><td>Reference</td><td>Book 0 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Достаточно для человека лжи, если он рассказывает все, что услышит”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7</td></tr><tr><td>Reference</td><td>Book 0 Hadith 7</td></tr></tbody></table></div>
 

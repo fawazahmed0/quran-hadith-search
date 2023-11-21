@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha: Once the Prophet (ﷺ) came while a woman was sitting with me. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] berkata, telah menceritakan kepada kami [Yahya] dari [Hisyam] berkata, telah mengabarkan [bapakku] kepadaku dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam mendatanginya dan bersamanya ada seorang wanita lain, lalu Nabi shallallahu 'alaihi wasallam bertanya: "siapa ini?" Aisyah menjawab: "si fulanah", Lalu diceritakan tentang shalatnya. Maka Nabi shallallahu 'alaihi wasallam bersabda: "tinggalkanlah apa yang tidak kalian sanggupi, demi Allah, Allah tidak akan bosan hingga kalian sendiri yang menjadi bosan, dan agama yang paling dicintai-Nya adalah apa yang senantiasa dikerjakan secara rutin dan kontinyu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>43</td></tr><tr><td>Arabic No</td><td>43</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что однажды Пророк ﷺ вошедший к ней в то время, когда у неё находилась одна женщина, спросил её: «Кто это?» (‘Аиша) ответила: «Такая-то», и стала рассказывать о том, как она молится, что же касается Пророка ﷺ то он сказал: «Прекрати! Должны вы делать лишь то, что вам по силам! Клянусь Аллахом, Аллах не утомится, пока сами вы не утомитесь!»(‘Аиша, да будет доволен ею Аллах, сказала): «Больше всего он любил такие религиозные (дела), которые (человек,) совершавший их, совершал постоянно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>43</td></tr><tr><td>Arabic No</td><td>43</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
 

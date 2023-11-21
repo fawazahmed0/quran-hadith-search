@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying while the bier of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Az Zubair] bahwasannya Aku mendengar [Jabir bin 'Abdullah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda ketika jenazah Sa'ad bin Mu'adz berada dihadapan para sahabat: 'Arsy Allah bergetar atas kematian Sa'ad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6345</td></tr><tr><td>Arabic No</td><td>2466.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6345</td></tr><tr><td>Arabic No</td><td>2466.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 175</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar from Hafsa his sister:That the Prophet (ﷺ) had said to her,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Yahya bin Sulaiman] telah bercerita kepada kami [Ibnu Wahb] dari [Yunus] dari [Az Zuhriy] dari [Salim] dari [Ibnu 'Umar radliallahu 'anhuma] dari [saudara perempuannya, Hafshah] bahwa Nabi shallallahu 'alaihi wasallam berkata kepadanya bahwa 'Abdullah (bin 'Umar) adalah laki-laki yang shalih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3740</td></tr><tr><td>Arabic No</td><td>3740</td></tr><tr><td>Reference</td><td>Book 62 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах ими обоими, передал со слов своей сестры Хафсы, да будет доволен ею Аллах, что (однажды) Пророк ﷺ сказал ей: «Поистине, ‘Абдуллах — праведный человек»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3740</td></tr><tr><td>Arabic No</td><td>3740</td></tr><tr><td>Reference</td><td>Book 62 Hadith 86</td></tr></tbody></table></div>
 

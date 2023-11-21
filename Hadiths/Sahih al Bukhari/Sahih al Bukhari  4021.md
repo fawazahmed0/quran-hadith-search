@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:'Umar said, "When the Prophet (ﷺ) died I said to Abu Bakr,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4021</td></tr><tr><td>Arabic No</td><td>4021</td></tr><tr><td>Reference</td><td>Book 64 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что ‘Умар, да будет доволен ими Аллах, сказал: «Когда Пророк ﷺ умер, я сказал Абу Бакру: “Пойдём к нашим братьям ансарам”. Мы встретили двух благочестивых людей из них, которые сражались в битве при Бадре». Когда я упомянул об этом ‘Урве ибн аз-Зубайру, он сказал: “Ими были ‘Увайм ибн Са‘ида и Ма‘н ибн ‘Ади”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4021</td></tr><tr><td>Arabic No</td><td>4021</td></tr><tr><td>Reference</td><td>Book 64 Hadith 70</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Talha:On the day of Badr, the Prophet (ﷺ) ordered that the corpse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3976</td></tr><tr><td>Arabic No</td><td>3976</td></tr><tr><td>Reference</td><td>Book 64 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Тальха, да будет доволен им Аллах, сказал: «В день Бадра по приказу Пророка ﷺ тела двадцати четырёх человек из числа храбрейших предводителей курайшитов были брошены в один из загрязнённых (и высохших) колодцев. Одержав победу над кем-либо, (Пророк ﷺ) обычно оставался на поле боя в течение трёх дней. На третий день после битвы при Бадре он велел оседлать свою верблюдицу, что и было сделано, после чего двинулся в путь, а за ним последовали его сподвижники, которые говорили (друг другу): “Он едет не иначе как по необходимости”. Подъехав к краю колодца, он стал обращаться к ним, называя их имена и имена их отцов (и говоря): “О такой-то, сын такого-то, и такой-то, сын такого-то! Радовались ли бы вы (сейчас), если бы покорились Аллаху и Его посланнику? Поистине, мы (убедились), что обещанное нам Господом нашим — истина, а убедились ли вы, что обещанное Господом вашим — истина?!” ‘Умар спросил: “О Посланник Аллаха, почему ты обращаешься к телам, в которых нет душ?!” — (на что) Посланник Аллаха ﷺ ответил: “Клянусь Тем, в Чьей длани душа Мухаммада, они не хуже вас слышат то, что я говорю!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3976</td></tr><tr><td>Arabic No</td><td>3976</td></tr><tr><td>Reference</td><td>Book 64 Hadith 29</td></tr></tbody></table></div>
 

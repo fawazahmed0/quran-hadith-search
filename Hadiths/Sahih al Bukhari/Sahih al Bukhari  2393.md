@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) owed a camel of a certain age to a man wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] dari [Sufyan] dari [Salamah] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata; Ada seorang laki-laki pernah dijanjikan seekor anak unta oleh Nabi shallallahu 'alaihi wasallam lalu orang itu datang kepada Beliau untuk menagihnya. Maka Beliau shallallahu 'alaihi wasallam bersabda: "Berikanlah". Maka orang-orang mencari anak unta namun mereka tidak mendapatkannya kecuali anak unta yang lebih tua umurnya, maka Beliau bersabda: "Berikanlah kepadanya". Orang itu berkata: "Anda telah memberikannya kepadaku semoga Allah membalas anda". Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya yang terbaik diantara kalian adalah siapa yang paling baik menunaikan janji
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2393</td></tr><tr><td>Arabic No</td><td>2393</td></tr><tr><td>Reference</td><td>Book 43 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Как-то раз) один человек пришёл к Пророку ﷺ требовать у него верблюда (определённого возраста), которого он ему задолжал. Посланник Аллаха ﷺ сказал: «Отдайте ему (верблюда)!» И люди начали искать верблюда такого же возраста, но нашли только верблюда постарше. Пророк ﷺ сказал: «Отдайте ему (этого верблюда)!» Тот человек сказал: «Ты отдал мне моё право полностью. Да воздаст тебе Аллах сполна!» Пророк ﷺ сказал: «Лучшими из вас являются те, кто лучше всех отдаёт (должное другим)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2393</td></tr><tr><td>Arabic No</td><td>2393</td></tr><tr><td>Reference</td><td>Book 43 Hadith 9</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:Abu 'Amir was hit with an arrow in his knee, so I went to him 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Al 'Alaa'] telah bercerita kepada kami [Abu Usamah] dari [Buraid bin 'Abdullah] dari [Abu Burdah] dari [Abu Musa radliallahu 'anhu] berkata; Abu 'Amir terkena panah di atas hewan tunggangannya lalu aku menghampirinya maka dia berkata: "Cabutlah panah ini". Maka aku mencabutnya lalu keluarlah air memancar darinya. Kemudian aku menemui Nabi shallallahu 'alaihi wasallam lalu aku kabarkan tentang peristiwa tadi maka Beliau berdo'a: "Ya Allah ampunilah 'Ubaid bin 'Amir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2884</td></tr><tr><td>Arabic No</td><td>2884</td></tr><tr><td>Reference</td><td>Book 56 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал: «Когда Абу ‘Амир был ранен в колено (стрелой), я подошёл к нему и он сказал: “Вытащи эту стрелу”, и когда я вытащил её, из раны стала сочиться сукровица. Затем я зашёл к Пророку ﷺ и сообщил ему об этом, а он сказал: “О Аллах, прости ‘Убайда Абу ‘Амира!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2884</td></tr><tr><td>Arabic No</td><td>2884</td></tr><tr><td>Reference</td><td>Book 56 Hadith 99</td></tr></tbody></table></div>
 

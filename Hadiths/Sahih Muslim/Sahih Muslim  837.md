@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported:When the Muslims came to Medina, they gathered and sought to k
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim al-Hanzhali] telah menceritakan kepada kami [Muhammad bin Bakar] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] keduanya berkata, telah mengabarkan kepada kami [Ibnu Juraij] --lewat jalur periwayatan lain-- telah menceritakan kepada kami [Harun bin Abdullah] dan lafazh tersebut miliknya, dia berkata, telah menceritakan kepada kami [Hajjaj bin Muhammad] dia berkata, [Ibnu Juraij] berkata, telah mengabarkan kepadaku [Nafi' maula Ibnu Umar] dari [Abdullah bin Umar] bahwasanya dia berkata, "Dahulu kaum muslimin ketika tiba di Madinah, mereka berkumpul, lalu memperkirakan waktu shalat lima waktu, dan tidak ada seorang pun yang memanggil adzan untuk shalat. Lalu mereka membicarakan hal tersebut di suatu hari. Sebagian mereka berkata, 'Jadikanlah lonceng (sebagai alat pemanggil) sebagaimana lonceng orang-orang Nashrani.' Dan sebagian mereka berkata, 'Jadikanlah terompet (sebagai alat pemanggil) seperti terompet orang-orang Yahudi.' Lalu Umar berkata, 'Mengapa kalian tidak mengutus seorang laki-laki yang menyerukan shalat.' Rasulullah shallallahu 'alaihi wasallam bersabda, 'Berdirilah wahai Bilal, lalu serukanlah shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>837</td></tr><tr><td>Arabic No</td><td>377</td></tr><tr><td>Reference</td><td>Book 4 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Умар, да будет доволен Аллах ими обоими, говорил: «(В первое время после переселения) в Медину мусульмане, собиравшиеся на молитву, (старались) определить, когда им начинать его, так как никто к нему не призывал. Однажды они стали обсуждать этот вопрос, и некоторые сказали: “Заведите себе такой же колокол, как и у христиан”. Другие сказали: “Нет, (лучше) трубу наподобие рога иудеев”, что же касается ‘Умара, то он сказал: “А не поручить ли вам какому-нибудь человеку призывать (других) к молитве?” И тогда Посланник Аллаха ﷺ велел: “О Билял, встань и призови (людей) к молитве!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>837</td></tr><tr><td>Arabic No</td><td>377</td></tr><tr><td>Reference</td><td>Book 4 Hadith 1</td></tr></tbody></table></div>
 

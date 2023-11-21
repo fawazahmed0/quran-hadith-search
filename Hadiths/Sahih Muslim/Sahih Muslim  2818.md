@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubaid b. Juraij said to 'Ahdullah b. 'Umar (Allah be pleased with them):'Abd al-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Sa'id bin Abu Sa'id Al Maqburi] dari [Ubaid bin Juraij] bahwa ia berkata kepada [Abdullah bin Umar] radliallahu 'anhuma, "Wahai Abu Abdurrahman, saya melihat Anda melakukan empat hal yang tidak pernah dilakukan oleh teman-temanmu." Abdullah bin Umar bertanya, "Apakah empat hal itu wahai Ibnu Juraij?" Ibnu Juraij berkata, "Aku tidak melihat Anda menyentuh rukun-rukun di Ka'bah kecuali rukun (sudut) Yamani. Aku juga melihat Anda mengenakan terompah Sabtiyyah (terompah yang tidak berbulu). Dan aku melihat Anda menggunakan warna kuning. Kemudian ketika Anda berada di Makkah dan melihat orang-orang sudah berihram saat mereka melihat bulan sabit, tetapi Anda sendiri tidak berihram hingga tiba hari Tarwiyah." Abdullah bin Umar berkata; "Mengenai rukun-rukun di Ka'bah, sesungguhnya aku tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam menyentuh rukun-rukun tersebut kecuali rukun Yamani. Tentang sandal jenis sabtiyyah, sebab aku pernah melihat Rasulullah shallallahu 'alaihi wasallam memakai terompah yang tidak berbulu dan beliau berwudlu dengannya, sehingga aku pun senang memakainya. Mengenai warna kuning, karena aku pernah melihat Rasulullah shallallahu 'alaihi wasallam menggunakan warna tersebut, maka aku senang memakainya. Adapun tentang Ihram, karena aku tidak melihat Rasulullah shallallahu 'alaihi wasallam berihram kecuali setelah kendaraannya melaju cepat (yakni ketika hari Arafah hampir tiba)." Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Abu Shakhr] dari [Ibnu Qusaith] dari [Ubaid bin Juraij] ia berkata; Saya pernah menunaikan ibadah haji bersama [Abdullah bin Umar bin Al Khaththab] radliallahu 'anhuma kemudian antara haji dan umrah adalah sebanyak dua belas kali. Saya pun berkata, "Wahai Abu Abdurrahman, sungguh, saya telah melihat empat hal dari Anda." Maka ia pun menyebutkan hadits itu dengan makna di atas, kecuali mengenai kisah Ihlal, sebab ia menyelisihi riwayatnya Al Maqburi, maka ia pun menyebutkan makna yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2818</td></tr><tr><td>Arabic No</td><td>1187.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2818</td></tr><tr><td>Arabic No</td><td>1187.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 28</td></tr></tbody></table></div>
 

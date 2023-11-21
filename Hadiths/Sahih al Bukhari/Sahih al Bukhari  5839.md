@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) allowed Az-Zubair and 'Abdur-Rahman to wear silk
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Waki'] telah mengabarkan kepada kami [Syu'bah] dari [Qatadah] dari [Anas] dia berkata; Nabi shallallahu 'alaihi wasallam pernah memberi izin kepada Zubair dan Abdurrahman untuk memakai kain sutera karena penyakit gatal yang dideritanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5839</td></tr><tr><td>Arabic No</td><td>5839</td></tr><tr><td>Reference</td><td>Book 77 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Пророк ﷺ разрешил аз-Зубайру и ‘Абдуррахману носить шёлковую одежду по причине чесотки, которая была у них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5839</td></tr><tr><td>Arabic No</td><td>5839</td></tr><tr><td>Reference</td><td>Book 77 Hadith 56</td></tr></tbody></table></div>
 

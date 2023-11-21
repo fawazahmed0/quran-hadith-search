@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:I heard a man reciting a verse (of the Holy Qur'an) but I had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] berkata, ['Abdul Malik bin Maisarah] telah menceritakan kepadaku yang berkata, aku mendengar [An Nazzaal bin Sabrah] berkata, aku mendengar ['Abdullah] berkata; aku mendengar seseorang membaca satu ayat yang berbeda dengan apa yang aku dengar dari Nabi shallallahu 'alaihi wasallam. Maka orang itu aku pegang lalu aku bawa menghadap Rasulullah shallallahu 'alaihi wasallam. Maka Beliau bersabda: "Cara kalian membaca keduanya benar". Syu'bah berkata: Aku menduga Beliau bersabda: "Janganlah kalian berselisih karena orang-orang sebelum kalian berselisih hingga akhirnya mereka binasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах бин Мас‘уд, да будет доволен им Аллах, сказал: «(Как-то раз) я услышал, как один человек прочитал аят Корана, (а раньше) я слышал, как Пророк ﷺ (читал этот же аят) по-другому. Тогда я взял его за руку и привёл к Посланнику Аллаха ﷺ который сказал: “Каждый из вас (читает) правильно. Не впадайте в разногласия, ибо, поистине, жившие до вас стали расходиться во мнениях и погибли (из-за этого)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:(the wife of the Prophet) Allah's Messenger (ﷺ) said, "He w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik bin Anas] dari [Nafi'] dari [Zaid bin Abdullah bin Umar] dari [Abdullah bin Abdurrahman bin Abu Bakr As Siddik] dari [Ummu Salamah isteri Nabi shallallahu 'alaihi wasallam] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang minum dari bejana yang terbuat dari perak, hanyasanya ia menuangkan neraka Jahannam ke dalam perutnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5634</td></tr><tr><td>Arabic No</td><td>5634</td></tr><tr><td>Reference</td><td>Book 74 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов жены Пророка ﷺ Умм Салямы, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, в животе того, кто пьёт из серебряного сосуда, будет шуметь пламя Ада!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5634</td></tr><tr><td>Arabic No</td><td>5634</td></tr><tr><td>Reference</td><td>Book 74 Hadith 60</td></tr></tbody></table></div>
 

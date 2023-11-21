@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father:That he heard Allah's Messenger (ﷺ), when raising his 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Abdullah As Sulami] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] telah menceritakan kepadaku [Salim] dari [Ayahnya] bahwa dia mendengar saat Rasulullah shallallahu 'alaihi wasallam mengangkat kepalanya dari rukuk di rakaat terakhir shalat shubuh, beliau mengucapkan: "Ya Allah, laknatlah fulan, fulan dan fulan, " yaitu setelah beliau mengucapkan: "Sami'allahu liman hamidah, rabbanaa walakalhamdu." Setelah itu Allah menurunkan ayat: '(Tak ada sedikitpun campur tanganmu dalam urusan mereka itu -hingga firmanNya- Sesungguhnya mereka itu orang-orang yang zalim) ' (Qs. Ali Imran: 128). Dan dari [Hanzhalah bin Abu Sufyan] aku mendengar [Salim bin Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah mendo'akan (kejelekkan) kepada Shofwan bin Umayyah, Suhail bin 'Amru dan Harits bin Hisyam, lalu turunlah ayat: '(Tak ada sedikitpun campur tanganmu dalam urusan mereka itu -hingga firmanNya- Sesungguhnya mereka itu orang-orang yang zalim) ' (Qs. Ali Imran:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>4069</td></tr><tr><td>Reference</td><td>Book 64 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что раньше он слышал, как Посланник Аллаха ﷺ, выпрямлявшийся после поясного поклона и произнесения слов «Да услышит Аллах тех, кто воздал Ему хвалу. Господь наш, хвала Тебе! /Cами‘а- Ллаху ли-ман хамида-ху. Рабба-на, ва ля-кя-ль-хамд!/» во время совершения последнего рак‘ата утренней молитвы, говорил: «О Аллах, прокляни такого-то, такого-то и такого-то!» — а потом Аллах ниспослал (аят, в котором было сказано): «Не имеешь ты никакого отношения к тому, простит Он их или подвергнет наказанию. Поистине, они несправедливы!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>4069</td></tr><tr><td>Reference</td><td>Book 64 Hadith 114</td></tr></tbody></table></div>
 

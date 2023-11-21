@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha (Allah be pleased with her) reported:Allah's Messenger (ﷺ) used to kiss
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Abu Kuraib] -[Yahya] berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dan [Alqamah] dari [Aisyah] radliallahu 'anha, -dalam jalur lain- Dan telah menceritakan kepada kami [Syuja' bin Makhlad] telah menceritakan kepada kami [Yahya bin Abu Zaidah] telah menceritakan kepada kami [Al A'masy] dari [Muslim] dari [Masruq] dari [Aisyah] radliallahu 'anha, ia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah mencium dan mencumbuku mesra ketika beliau sedang berpuasa. Tetapi beliau memang seorang yang paling bisa mengendalikan nafsunya di antara kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2576</td></tr><tr><td>Arabic No</td><td>1106.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2576</td></tr><tr><td>Arabic No</td><td>1106.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 82</td></tr></tbody></table></div>
 

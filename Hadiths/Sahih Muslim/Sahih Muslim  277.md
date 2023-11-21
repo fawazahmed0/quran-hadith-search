@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ousâma Ibn Zayd (رضي الله عنهما) a dit : L'Envoyé de Dieu (paix et
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Khalid al-Ahmar]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Kuraib] dan [Ishaq bin Ibrahim] dari [Abu Mu'awiyah] keduanya dari [al-A'masy] dari [Abu Dlibyan] dari [Usamah bin Zaid] dan ini hadits Ibnu Abu Syaibah, dia berkata, "Rasulullah shallallahu 'alaihi wasallam mengutuskan kami dalam suatu pasukan. Suatu pagi kami sampai di al-Huruqat, yakni suatu tempat di daerah Juhainah. Kemudian aku berjumpa seorang lelaki, lelaki tersebut lalu mengucakan LAA ILAAHA ILLAALLAHU (Tidak ada tuhan yang berhak disembah selain Allah), namun aku tetap menikamnya. Lalu aku merasa ada ganjalan dalam diriku karena hal tersebut, sehingga kejadian tersebut aku ceritakan kepada Rasulullah. Rasulullah lalu bertanya: 'Kenapa kamu membunuh orang yang telah mengucapkan Laa Ilaaha Illaahu? ' Aku menjawab, "Wahai Rasulullah! Sesungguhnya lelaki itu mengucap demikian karena takutkan ayunan pedang." Rasulullah bertanya lagi: "Sudahkah kamu membelah dadanya sehingga kamu tahu dia benar-benar mengucapkan Kalimah Syahadat atau tidak?" Rasulullah terus mengulangi pertanyaan itu kepadaku hingga menyebabkan aku berandai-andai bahwa aku baru masuk Islam saat itu." Usamah menceritakan lagi, "Sa'd telah berkata, 'Demi Allah, aku tidak akan membunuh seorang muslim, hingga dia telah dibunuh oleh orang yang mempunyai perut yang kecil, yaitu Usamah.' Usamah berkata lagi, 'Seorang lelaki telah bertanya, 'Tidakkah Allah telah berfirman, '(Dan perangilah mereka, sehingga tiada lagi fitnah, dan jadikanlah agama itu semata-mata karena Allah) ' (Qs. Al Anfal: 38). Maka Sa'd menjawab, "Sesungguhnya kami memerangi mereka supaya tidak berlaku fitnah, tetapi kamu dan para Sahabat kamu memerangi mereka, untuk menimbulkan fitnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>277</td></tr><tr><td>Arabic No</td><td>96.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама ибн Зайд сказал: «(В своё время) Посланник Аллаха ﷺ отправил наш отряд в поход, и утром мы напали на Хуракат (где обитало племя) джухайна. Я настиг одного человека (из них), и он воскликнул: “Нет божества, достойного поклонения, кроме Аллаха!” я же пронзил его (копьём). Поскольку это не давало мне покоя, я обо всём рассказал Пророку ﷺ, и Посланник Аллаха ﷺ воскликнул: “Неужели же ты убил его (после того, как) он сказал: “Нет божества, достойного поклонения, кроме Аллаха”?!” (Усама) сказал: «Я сказал: “О Посланник Аллаха, (но ведь) он произнёс эти слова только из страха перед (моим) оружием!” (Тогда Пророк ﷺ) спросил: “Разве ты рассёк его сердце, чтобы узнать, сердцем он говорил это или нет?” и он не переставал повторять это, пока у меня не возникло желание принять ислам (только) в этот день». (Передатчик этого хадиса) сказал: Са‘д (ибн Аби Ваккас) сказал: «И клянусь Аллахом, я не убью мусульманина, которого не убил бы “обладатель маленького животика” /зу-ль-бутайн/», имея в виду Усаму. Какой-то человек спросил: «Разве не сказал Аллах: “И сражайтесь с ними, пока не (исчезнет) искушение и не станет религия полностью принадлежать Аллаху?” (сура “аль-Анфаль”, аят 39) (На это) Са‘д сказал: «Мы сражались, чтобы искушения не было, а ты и твои товарищи хотите сражаться, чтобы искушение появилось!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>277</td></tr><tr><td>Arabic No</td><td>96.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 183</td></tr></tbody></table></div>
 

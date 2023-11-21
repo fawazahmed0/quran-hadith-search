@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Mughaffal:I saw the Prophet (ﷺ) reciting (Qur'an) while
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam bin Abu Iyas] Telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepada kami [Abu Iyas] ia berkata, Aku mendengar [Abdullah bin Mughaffal] berkata; Aku pernah melihat Nabi shallallahu 'alaihi wasallam membaca saat beliau berada di atas Untanya yang berjalan, ketika itu beliau membaca surat Al Fath atau bagian dari surat Al Fath, yakni dengan bacaan yang pelan seraya mengulang-ngulangnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5047</td></tr><tr><td>Arabic No</td><td>5047</td></tr><tr><td>Reference</td><td>Book 66 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Мугаффаль сказал: «Я видел, как Пророк ﷺ читал суру “аль-Фатх” или её часть, сидя верхом на своей верблюдице или верблюде, а она шла. Он читал нараспев, украшая свой голос»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5047</td></tr><tr><td>Arabic No</td><td>5047</td></tr><tr><td>Reference</td><td>Book 66 Hadith 71</td></tr></tbody></table></div>
 

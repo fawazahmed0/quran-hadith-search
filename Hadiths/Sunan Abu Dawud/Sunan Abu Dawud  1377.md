@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah: The Messenger of Allah (ﷺ) came out and saw that the pe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id Al hamdani] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Muslim bin Khalid] dari [Al 'Ala' bin Abdurrahman] dari [ayahnya] dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam keluar, dan beliau melihat orang-orang tengah mengerjakan shalat di pojok-pojok masid, beliau bersabda: "Apa yang sedang di perbuat oleh mereka?" maka di jawab; "Beberapa orang yang tidak hafal Al Qur'an, sedangkan Ubay bin Ka'b tengah mengerjakan shalat yang di ikuti oleh mereka." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Mereka benar, alangkah baiknya amal perbuatan mereka." Abu Daud berkata; 'Hadits ini tidaklah kuat, sebab Muslim bin Khalid riwayatnya lemah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах: «Однажды в рамадане Посланник Аллаха ﷺ вышел и увидел людей, которые молились в одном из углов мечети. Он спросил: “Кто это?” Ему сказали: “Это люди, которые не знают ничего из Корана. Убайй ибн Ка‘б молится, и они совершают молитву под его руководством”. Пророк ﷺ сказал: “Они поступают правильно, и их деяние прекрасно”». Абу Дауд сказал, что хадис не является сильным, поскольку в иснаде его есть слабый передатчик Муслим ибн Халид
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
 

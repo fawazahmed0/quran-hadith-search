@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim Abu An-Nadr:The freed slave of 'Umar bin 'Ubaidullah who was 'Uma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Muhammad] telah bercerita kepada kami [Mu'awiyah bin 'Amru] telah bercerita kepada kami [Abu Ishaq] dari [Musa bin 'Uqbah] dari [Salim Abu An-Nadhar], mantan budak (yang telah dimerdekakan oleh) 'Umar bin 'Ubaidillah, dia adalah seorang juru tulisnya berkata; ['Abdullah bin Abi Aufaa] radliallahu 'anhuma menulis surat kepadanya lalu aku bacakan bahwa Rasulullah shallallahu 'alaihi wasallam pada hari-hari berhadapan dengan musuh Beliau menanti hingga terbenamnya matahari kemudian berdiri berkhothbah di hadapan manusia seraya berkata: "Wahai sekalian manusia, janganlah kalianmengharapkan bertemu dengan musuh tapi mintalah kepada Allah keselamatan. Dan bila kalian telah berjumpa dengan musuh bershabarlah dan ketahuilah bahwa sesungguhnya surga itu terletak di bawah naungan pedang-pedang". Kemudian Beliau berdoa: "Ya Allah Yang Menurunkan Kitab, Yang Menjalankan awan, hancurkanlah pasukan sekutu, binasakanlah mereka dan tolonglah kami menghadapi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2966</td></tr><tr><td>Arabic No</td><td>2966</td></tr><tr><td>Reference</td><td>Book 56 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха бин Абу Ауфа, да будет доволен Аллах ими обоими, что, когда в один из дней Посланник Аллаха ﷺ повстречал врагов, он ждал, пока солнце не стало клониться к закату, а потом встал среди людей и обратился (к ним с такими словами): «О люди, не желайте встречи с врагами и просите Аллаха об избавлении, но если уж вы встретились с ними, то проявляйте терпение и знайте, что рай находится в тени (ваших) мечей!» Затем (Пророк ﷺ) сказал: «О Аллах, ниспосылающий Книгу, приводящий в движение облака, победивший союзные племена, разбей их и приведи нас к победе над ними! /Аллахумма, мунзиля-ль-китаби, ва муджрийа-с-сахаби ва хазима-ль-ахзаби-хзим-хум ва-нсур-на ‘аляй-хим!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2966</td></tr><tr><td>Arabic No</td><td>2966</td></tr><tr><td>Reference</td><td>Book 56 Hadith 175</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated An-Nu'man bin Bashir:I heard the Prophet (ﷺ) saying, "The least punis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6562</td></tr><tr><td>Arabic No</td><td>6562</td></tr><tr><td>Reference</td><td>Book 81 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ан-Ну‘ман бин Башир, да будет доволен им Аллах, сказал: «Я слышал, как Пророк ﷺ сказал: “Поистине, в День воскресения самому лёгкому наказанию подвергнется тот человек из числа обитателей огня, на ступни которого (будут положены) два тлеющих уголька, из-за чего мозг его станет кипеть подобно тому, как кипит (содержимое) котла или сосуда с узким горлышком”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6562</td></tr><tr><td>Arabic No</td><td>6562</td></tr><tr><td>Reference</td><td>Book 81 Hadith 151</td></tr></tbody></table></div>
 

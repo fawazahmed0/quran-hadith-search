@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:that he was asked about the wages of the one who cups others. He s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Humaid Ath Thawil] dari [Anas] radliallahu 'anhu bahwa dia di tanya mengenai upah tukang bekam, dia menjawab; "Abu Thaibah pernah membekam Rasulullah shallallahu 'alaihi wasallam, lalu beliau memberinya dua sha' makanan dan meyarankan supaya meringankan beban hamba sahayanya, setelah itu beliau bersabda: "Sebaik-baik sesuatu yang kalian gunakan untuk obat adalah bekam dan terapi kayu gaharu", beliau juga bersabda: "Dan janganlah kalian sakiti anak kalian dengan memasukkan jari ke dalam mulut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>5696</td></tr><tr><td>Reference</td><td>Book 76 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, когда Анасу, да будет доволен им Аллах, задали вопрос о вознаграждении цирюльнику, он сказал: «Посланник Аллаха ﷺ делал себе кровопускания. (Однажды) Абу Тайба пустил ему кровь, и он велел дать ему (за это) два са‘ съестного и поговорил с его хозяевами, которые снизили (взимаемую) с него плату». И (Анас, да будет доволен им Аллах, передал, что Пророк ﷺ) сказал: «Лучшими средствами лечения для вас являются кровопускание и морской ладан».\nИ (Анас, да будет доволен им Аллах, передал также, что Пророк ﷺ) сказал: «Не мучайте своих детей, у которых воспаляются миндалины, надавливая на них (пальцами), а используйте курения ладана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>5696</td></tr><tr><td>Reference</td><td>Book 76 Hadith 18</td></tr></tbody></table></div>
 

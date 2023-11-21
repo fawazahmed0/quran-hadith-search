@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Once the sun eclipsed and Allah's Messenger (ﷺ) stood up for t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhriy] dari ['Urwah] berkata; Berkata, ['Aisyah radliallahu 'anha]: "Ketika terjadi gerhana matahari Nabi shallallahu 'alaihi wasallam berdiri melaksanakan shalat, Beliau membaca bacaan yang panjang lalu Beliau ruku' dengan ruku' yang panjang lalu mengangkat kepala lalu memulai membaca surat yang lain, lalu ruku' kembali sampai menyempurnakannya dan kemudian sujud. Kemudian Beliau melakukan seperti itu lagi pada raka'at kedua kemudian setelah selesai Beliau bersabda: "Keduanya adalah dua tanda dari tanda-tanda kebesaran Allah. Jika kalian melihat (gerhana) nya, maka dirikanlah shalat hingga menghilang gerhana itu dari kalian. Sungguh aku telah melihat segala sesuatu yang telah dijanjikan bagiku dengannya dari tempatku berdiri ini, sehingga aku ingin mengambil setandan anggur di dalam surga, itu terlihat saat kalian melihatku aku ingin bergerak ke depan. Dan sungguh aku melihat jahanam yang apinya saling membakar satu sama lain saat kalian melihatku aku bergerak mundur dan aku melihat didalamnya ada 'Amru bin Luhai dan dialah yang pertama-tama merumuskan saibah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1212</td></tr><tr><td>Arabic No</td><td>1212</td></tr><tr><td>Reference</td><td>Book 21 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Когда) произошло солнечное затмение, Пророк ﷺ встал на намаз и (сначала) прочитал одну длинную суру. Потом он совершил долгий поясной поклон, потом выпрямился, потом начал читать другую суру, закончив же чтение, совершил (ещё один) поясной поклон, (выпрямился, а потом) склонился в земном поклоне, после чего таким же образом совершил второй рак‘ат и сказал: “Поистине, они являются двумя знамениями из числа знамений Аллаха, и поэтому если вы увидите (подобное), то совершайте намаз, пока (затмение не закончится). Поистине, (находясь) на этом месте, я увидел всё то, что мне было обещано, и даже хотел взять (с собой) гроздь (винограда, растущего) в раю, (что произошло) в тот момент, когда вы увидели, как я начал двигаться вперёд. И, поистине, я увидел, как (разные) части ада сокрушают друг друга, что (произошло в тот момент), когда вы увидели, как я отошёл назад. И ещё я увидел в аду ‘Амра бин Лухаййа, который отпускал верблюдиц на волю, выполняя обет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1212</td></tr><tr><td>Arabic No</td><td>1212</td></tr><tr><td>Reference</td><td>Book 21 Hadith 16</td></tr></tbody></table></div>
 

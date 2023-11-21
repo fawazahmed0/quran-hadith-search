@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Salama:that once the Prophet (ﷺ) was in her house, and an effemina
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Malik bin Isma'il] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Hisyam bin 'Urwah] bahwa ['Urwah] telah mengabarkan kepadanya bahwa [Zainab binti Abu Salamah] telah mengabarkan kepadanya bahwa [Ummu Salamah] telah mengabarkan kepadanya bahwa Nabi shallallahu 'alaihi wasallam pernah berada di sisinya, sementara di rumah dia ada banci, maka beliau bersabda kepada Abdullah yaitu saudara laki-laki Ummu Salamah: "Wahai Abdullah, sekiranya esok hari Allah memenangkan Tha'if buat kalian, maka aku akan menunjukkan kepadamu anak perempuan Ghailan, karena dia menghadap dengan empat muka dan membelakangi dengan delapan." Nabi shallallahu 'alaihi wasallam melanjutkan: 'Maka jangan sampai mereka itu masuk ke rumah kalian.' Abu Abdullah mengatakan; 'Maksud dari menghadap dengan empat dan membelakangi dengan delapan adalah gerutan yang ada di perut karena terlalu gemuk, dan maksud dari membelakangi dengan delapan maksudnya adalah ujung dari empat gerutan tersebut, sebab hal itu akan terlihat bergerut apabila dari samping hingga melekat. Perawi mengatakan; 'Bitsamanin (dengan delapan) dan tidak mengatakan; 'Bitsamaniyah' karena mufradnya 'athraf' mudzakar, karena itu perawi tidak mengatakan 'Tsamaniyata athraf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5887</td></tr><tr><td>Arabic No</td><td>5887</td></tr><tr><td>Reference</td><td>Book 77 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Саляма рассказала, что (однажды) Пророк ﷺ зашёл к ней в то время, когда у неё находился один женоподобный мужчина /муханнас/. Женоподобный мужчина сказал брату Умм Салямы, ‘Абдуллаху ибн Аби Умаййе: “Если завтра Аллах поможет вам взять Таиф, то советую тебе взять (в жёны) дочь Гайляна, ибо, поистине, (эта девушка столь красива и полна, что, (когда) она поворачивается (к тебе) лицом (, видны) четыре (складки на её теле, когда же поворачивается спиной, то видны) восемь (складок)”. И (после этого) Пророк ﷺ сказал: “Пусть такие как он (больше) не заходит к вам!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5887</td></tr><tr><td>Arabic No</td><td>5887</td></tr><tr><td>Reference</td><td>Book 77 Hadith 104</td></tr></tbody></table></div>
 

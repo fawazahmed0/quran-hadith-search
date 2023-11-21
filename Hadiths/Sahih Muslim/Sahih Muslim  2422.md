@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported that the Messenger of Allah (ﷺ) had said:The most
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Abdullah bin Wahb] ia berkata, telah mengabarkan kepadaku [Malik bin Anas] dari [Zaid bin Aslam] dari [Atha' bin Yasar] dari [Abu Sa'id Al Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesuatu yang paling aku khawatirkan menimpa kalian adalah sesuatu yang akan dikeluarkan oleh Allah untuk kalian berupa keindahan dunia." Para sahabat bertanya, "Lantas apakah yang dimaksud dengan perhiasan dunia wahai Rasulullah?" Beliau menjawab: "Yaitu keberkahan dan kemakmuran bumi." Mereka bertanya lagi, "Wahai Rasulullah, apakah kebaikan dapat mendatangkan keburukan?" Beliau menjawab: "Sesungguhnya kebaikan tidak akan mendatangkan kecuali kebaikan dan kebaikan tidak akan mendatangkan kecuali kebaikan, kebaikan tidak akan mendatangkan kecuali kebaikan. Dan setiap apa yang tumbuh di musim hujan, kadang-kadang dapat membunuh atau menyakitkan. Kecuali bagi pemakan sayur-sayuran yang memakan hanya sampai kenyang, kemudian ia menghadap ke matahari, lalu buang air besar atau kecil, sesudah itu barulah ia makan kembali. Sesungguhnya harta benda dunia itu kelihatannya hijau dan manis. Barangsiapa yang memperoleh harta dengan jalan halal dan membelanjakannya pada jalan yang benar, maka itulah sebaik-baik pertolongan. Namun barangsiapa yang memperolehnya dengan jalan yang tidak halal, maka ia seperti halnya orang yang makan tapi tidak pernah merasa kenyang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2422</td></tr><tr><td>Arabic No</td><td>1052.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Са‘ида аль-Худри: «(Однажды) Посланник Аллаха ﷺ сказал: “Больше всего я боюсь для вас то, что Аллах выведет для вас из красот мира дольнего”. Люди спросили: “О Посланник Аллаха! А что за красоты мира дольнего?” Он ответил: “Благодать земли”. Его спросили: “О Посланник Аллаха, неужели благо (может) принести с собой зло?” Он ответил: “(Истинное) благо приносит с собой только благо, (истинное) благо приносит с собой только благо, (истинное) благо приносит с собой только благо. Поистине, всё, что (земля) порождает весной, убивает (или: почти губит) (животных, которые набили свои утробы, вызывая у них несварение желудка), кроме тех, что поедают зелень. (Такие животные) едят, пока бока их не раздуются, (после чего) поворачиваются к солнцу и испражняются (или: мочатся), потом пережёвывают то, что отрыгивают, и снова начинают есть. Это мирское богатство подобно сладкому плоду, и если человек зарабатывает его (богатство) законным путём и правильно расходует, то оно является прекрасным помощником, а кто зарабатывает его незаконным путём, тот уподобится тому, кто ест, но никогда не насыщается”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2422</td></tr><tr><td>Arabic No</td><td>1052.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 159</td></tr></tbody></table></div>
 

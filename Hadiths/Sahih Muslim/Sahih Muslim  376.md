@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Anas that the Messenger of Allah (ﷺ) said:"
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Tsabit] dari [Anas] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kiamat tidak akan terjadi pada seseorang yang (masih) mengucapkan, 'Allah, Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>376</td></tr><tr><td>Arabic No</td><td>148.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 283</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сабита, что Анас (да будет доволен им Аллах) сказал: Посланник Аллаха ﷺ сказал: «Не наступит Час, пока кто-либо будет произносить: “Аллах! Аллах!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>376</td></tr><tr><td>Arabic No</td><td>148.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 283</td></tr></tbody></table></div>
 

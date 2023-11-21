@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:If I had not heard the Prophet (ﷺ) saying, "You should not long 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hasan bin Rabi'] telah menceritakan kepada kami [Abul Ahwash] dari ['Ashim] dari [Nadhr bin Anas] mengatakan, [Anas] radliallahu 'anhu menuturkan; kalaulah aku tidak mendengar Rasulullah Shallallahu'alaihi wa sallam bersabda: "Janganlah kalian mengharap kematian, " niscya aku mengharapkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7233</td></tr><tr><td>Arabic No</td><td>7233</td></tr><tr><td>Reference</td><td>Book 94 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что он сказал: «Если бы я не слышал Пророка ﷺ который сказал: “(Ни в коем случае) не желайте себе смерти”, — я непременно пожелал бы ее»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7233</td></tr><tr><td>Arabic No</td><td>7233</td></tr><tr><td>Reference</td><td>Book 94 Hadith 8</td></tr></tbody></table></div>
 

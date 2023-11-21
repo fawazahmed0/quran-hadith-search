@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Rafi' bin Khadij:I said, "O Allah's Messenger (ﷺ)! We are going to fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Ali] berkata, telah menceritakan kepada kami [Yahya] berkata, telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepada kami [Bapakku] dari [Abayah bin Rifa'ah bin Rafi' bin Khadij] dari [Rafi' bin Khadij] ia berkata, "Aku bertanya kepada Rasulullah, besok kita akan bertemu dengan musuh dan kita tidak lagi mempunyai pisau tajam?" Beliau menjawab: "Sembelihlah dengan sesuatu yang dapat mengalirkan darah, sebutlah nama Allah lalu makanlah, kecuali dengan gigi dan kuku. Aku jelaskan kepada kalian; gigi itu sejenis tulang, sedangkan kuku adalah alat yang biasa digunakan oleh bangsa Habsyah (untuk menyembelih)." Kami lalu mendapatkan rampasan unta dan kambing, saat ada salah satu unta tersebut yang kabur, seorang laki-laki melemparnya dengan anak panah. Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Sesungguhnya di antara unta-unta ini ada yang beringas sebagaimana binatang buas, jika kalian merasa susah dibuatnya maka lakukanlah seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5509</td></tr><tr><td>Arabic No</td><td>5509</td></tr><tr><td>Reference</td><td>Book 72 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ ибн Хадидж, да будет доволен им Аллах, сказал: «Я сказал Пророку ﷺ: “Завтра мы столкнемся с врагом, и у нас нет ножей (для забоя)”. Он сказал: “Поторопись (с забоем животного, дабы оно не умерло от удушья). (Пользуйся) всем, с помощью чего можно выпустить кровь, и ешь всё то, над чем было произнесено имя Аллаха, но не (закалывай животных) клыками и когтями, и я скажу тебе (почему): что касается зубов, то это — кости, что же касается когтей, то они используются как ножи эфиопами”. (Потом) мы получили в добычу верблюдов и овец, из числа которых один верблюд убежал, и после чего человек пустил (в этого верблюда) стрелу, и (Аллах) остановил его. Посланник Аллаха ﷺ сказал: “Поистине, некоторые из этих верблюдов одичали и стали подобны диким зверям, и если какой-нибудь из них совершит подобное, поступайте с ним так же (т.е. пустите в него стрелу)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5509</td></tr><tr><td>Arabic No</td><td>5509</td></tr><tr><td>Reference</td><td>Book 72 Hadith 35</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Wahhab bin Najdah] berkata, telah menceritakan kepada kami [Baqiyyah]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musa bin Marwan Ar Raqqi] dan [Katsir bin Ubaid Al Madzhiji] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Harb] secara makna, dari [Muhammad bin Ziyad] dari [Abdullah bin Abu Qais] dari ['Aisyah] ia berkata, "Aku bertanya, "Wahai Rasulullah, bagaimana nasib anak-anak kecil yang orang tua mereka mukmin?" beliau menjawab: "Mereka bagian dari bapak-bapak mereka." Aku bertanya lagi, "Wahai Rasulullah, meskipun mereka tidak punya amal?" beliau menjawab: "Allah tahu dengan apa yang mereka lakukan." Aku bertanya lagi, "Wahai Rasulullah, bagaimana dengan nasib anak-anak kaum musyrikin?" beliau menjawab: "Mereka bagian dari bapak-bapak mereka." Aku bertanya lagi, "Wahai Rasulullah, meskipun mereka tidak punya amal?" beliau menjawab: "Allah tahu dengan apa yang mereka lakukan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4712</td></tr><tr><td>Arabic No</td><td>4712</td></tr><tr><td>Reference</td><td>Book 42 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах: «Я спросила: “О Посланник Аллаха ﷺ (что ты скажешь об умерших) детях верующих?” Он ответил: “Они от своих родителей”. Я спросила: “О Посланник Аллаха, без дел?” Он сказал: “Аллах знает о том, что они делали бы”. Я спросила: “О Посланник Аллаха, а дети многобожников?” Он сказал: “Они от своих отцов”. Я спросила: “Без дел?”» Он сказал: «Аллах знает о том, что они делали бы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4712</td></tr><tr><td>Arabic No</td><td>4712</td></tr><tr><td>Reference</td><td>Book 42 Hadith 117</td></tr></tbody></table></div>
 

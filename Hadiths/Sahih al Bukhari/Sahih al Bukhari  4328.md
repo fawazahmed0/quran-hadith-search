@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:Abu Musa said, "I was with the Prophet (ﷺ) when he was enca
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al'Ala'] Telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abdullah] dari [Abu Burdah] dari [Abu Musa] radliallahu 'anhu, katanya Aku disisi Nabi shallallahu 'alaihi wasallam yang ketika itu beliau singgah di Ji'ranah antara Makkah dan Madinah, beliau bersama Bilal. Rupanya ada seorang arab badui (pelosok) menemui beliau dan berujar; "Tidakkah engkau lunasi janjimu kepadaku? Jawab Nabi: "Bergembiralah! Si arab badui menjawab; "kamu berulang kali mengatakan; "bergembiralah! Kemudian beliau temui Abu musa dan Bilal seolah-olah beliau emosi. Kata beliau: "Orang arab itu telah menolak kabar gembira! Maka temuilah olehmu berdua! maka kami menemuinya. Selanjutnya Nabi meminta baskom berisi air, beliau cuci kedua tangannya, wajahnya dan beliau semprotkan air dari mulut beliau ke baskom, kemudian beliau bersabda: "Silahkan kalian berdua minum, dan guyurkan pada wajah kalian, dan tengkuk kalian dan bergembiralah! Keduanya lantas mengambil baskom dan keduanya melaksanakan perintah Nabi shallallahu 'alaihi wasallam. Ummu Salamah lantas berseru dibalik tabir "Tolong sisakan air itu untuk ibu kalian! Maka keduanya menyisakan air itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4328</td></tr><tr><td>Arabic No</td><td>4328</td></tr><tr><td>Reference</td><td>Book 64 Hadith 357</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Муса, да будет доволен им Аллах, сказал:\n— Я находился вместе с Пророком ﷺ, когда он стоял лагерем в Джи‘ране между Меккой и Мединой, и с ним был также Биляль. (Там) к Пророку ﷺ пришёл один бедуин и сказал: «Не выполнишь ли ты то обещание, которое дал мне?» — и (Пророк ﷺ) сказал: «Радуйся!» (Бедуин) сказал: «Ты (слишком) часто говорил мне: “Радуйся”!» Тогда (Пророк ﷺ) которого охватил гнев, повернулся к Абу Мусе и Билялю и сказал: «Он отверг благую весть, так примите же её вы!» — и они сказали: «Мы принимаем её!» А потом (Пророк ﷺ) велел принести себе сосуд с водой, омыл в нём руки и лицо (, после чего набрал в рот воды), выплюнул её в (этот сосуд) и сказал: «Отпейте этой воды, вылейте остаток себе на лица и грудь и радуйтесь благой вести!» И они взяли этот сосуд и сделали (это), что же касается Умм Салямы, сидевшей за занавеской, то она сказала: «Оставьте что-нибудь и для вашей матери!» — и они оставили ей (часть этой воды)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4328</td></tr><tr><td>Arabic No</td><td>4328</td></tr><tr><td>Reference</td><td>Book 64 Hadith 357</td></tr></tbody></table></div>
 

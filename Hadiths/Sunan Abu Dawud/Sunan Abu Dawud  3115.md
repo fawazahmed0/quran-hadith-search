@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umm Salamah:The Messenger of Allah (ﷺ): When you attend dying man, yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari [Al A'masy] dari [Abu Wail], dari [Ummu Salamah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila kalian menghadiri jenazah maka ucapkanlah kebaikan, karena sesungguhnya malaikat mengamini apa yang ia ucapkan." Kemudian tatkala Abu Salamah meninggal, aku katakan; wahai Rasulullah, apa yang harus aku ucapkan? Beliau berkata: "Ucapkanlah; ALLAAHUMMAGHRIR LAHU WA A'QIBNAA 'UQBAA SHAALIHAH (ya Allah ampunila dia dan gantilah untuk kami pengganti yang baik) " Ia berkata; kemudian Allah ta'ala menggantikan Muhammad shallallahu 'alaihi wasallam untukku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (919)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3115</td></tr><tr><td>Arabic No</td><td>3115</td></tr><tr><td>Reference</td><td>Book 21 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Умм Саляма, да будет доволен ею Аллах, передаёт: Посланник Аллаха ﷺ сказал: «Когда будете возле покойного, говорите благое, ибо, поистине, ангелы говорят “Амин”». Когда умер Абу Саляма, я спросила: «О Посланник Аллаха, что мне говорить?» Он ответил: «Говори: “О Аллах, прости ему и даруй нам прекрасную замену”». И Всевышний Аллах заменил мне его Мухаммадом, да будет доволен им Аллах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (919)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3115</td></tr><tr><td>Arabic No</td><td>3115</td></tr><tr><td>Reference</td><td>Book 21 Hadith 27</td></tr></tbody></table></div>
 

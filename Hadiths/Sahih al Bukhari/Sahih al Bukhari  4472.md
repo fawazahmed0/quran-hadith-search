@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:I fought fifteen Ghazawat in the company of the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Raja'] Telah menceritakan kepada kami [Israil] dari [Abu Ishaq] Telah menceritakan kepada kami [Al Bara' radliallahu 'anhu] dia berkata; Aku berperang bersama Rasulullah shallallahu 'alaihi wasallam sebanyak lima belas kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4472</td></tr><tr><td>Arabic No</td><td>4472</td></tr><tr><td>Reference</td><td>Book 64 Hadith 487</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Бара, да будет доволен им Аллаха, что он сказал: «Я участвовал вместе с Пророком ﷺ в пятнадцати военных походах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4472</td></tr><tr><td>Arabic No</td><td>4472</td></tr><tr><td>Reference</td><td>Book 64 Hadith 487</td></tr></tbody></table></div>
 

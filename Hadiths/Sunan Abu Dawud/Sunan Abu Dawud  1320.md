@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rab'iah b. Ka'b al-Aslami:I used to live with the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hisyam bin 'Ammar] telah menceritakan kepada kami [Al Hiql bin Ziyad As Saksaki] telah menceritakan kepada kami [Al Auza'i] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dia berkata; saya mendengar [Rabi'ah bin Ka'b Al Aslami] berkata; "Aku bermalam bersama Rasulullah shallallahu 'alaihi wasallam, aku juga pernah mengambilkan air wudlu' dan air untuk buang hajat untuk beliau. Lalu beliau bersabda: "Mohonlah kepadaku." Kataku; 'Aku memohon dapat bersama anda di surga'. Beliau menegaskan, 'Adakah yang lain? 'Aku menjawab, 'Itu saja'. Beliau bersabda: 'Bantu aku untuk dirimu sendiri dengan memperbanyak sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (489)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1320</td></tr><tr><td>Arabic No</td><td>1320</td></tr><tr><td>Reference</td><td>Book 5 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Раби‘и ибн Ка‘ба аль-Аслями, да будет доволен им Аллах: «Я ночевал у Посланника Аллаха ﷺ и приносил ему воду для омовения и всё, в чём он нуждался, и однажды он сказал: “Попроси меня (о чём хочешь)”. Я сказал: “Я хочу быть с тобой в Раю”. (Посланник Аллаха ﷺ) сказал: “Что-нибудь другое?” Я ответил: “Только это”. (Посланник Аллаха ﷺ) сказал: “Тогда помоги мне против души твоей частым совершением земных поклонов”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (489)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1320</td></tr><tr><td>Arabic No</td><td>1320</td></tr><tr><td>Reference</td><td>Book 5 Hadith 71</td></tr></tbody></table></div>
 

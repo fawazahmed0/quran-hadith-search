@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Warrad:(the clerk of Al-Mughira bin Shu'ba) Once Al-Mughira dictated to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yusuf] berkata, telah menceritakan kepada kami [Sufyan] dari ['Abdul Malik bin 'Umair] dari [Warrad] penulisnya Al Mughirah bin Syu'bah, berkata, " [Al Mughirah bin Syu'bah] meminta aku untuk menulis (hadits) buat dikirim kepada Mu'awiyyah bahwa Nabi shallallahu 'alaihi wasallam berdo'a setiap selesai dari shalat fardlu: 'LAA ILAAHA ILLALLAH WAHDAHU LAA SYARIIKA LAHU, LAHUL MULKU WA LAHUL HAMDU WA HUWA 'ALAA KULLI SYAI'IN QADIIR. ALLAHUMMA LAA MAANI'A LIMA A'THAITA WA LAA MU'THIYA LIMA MANA'TA WA LAA YANFA'U DZAL JADDI MINKAL JADDU (Tidak ada tuhan yang berhak disembah selain Allah, yang Tunggal dan tidak ada sekutu bagi-Nya. Milik-Nya segala kerajaan, dan milik-Nya segala pujian. Dan Dia Maha Kuasa atas segala sesuatu. Ya Allah, tidak ada yang dapat menahan dari apa yang Engkau berikan dan dan tidak ada yang dapat memberi dari apa yang Engkau tahan. Dan tidak bermanfaat kekayaan orang yang kaya di hadapan-Mu sedikitpun) '." [Syu'bah] berkata dari ['Abdul Malik bin 'Umair] dengan lafadz seperti ini. Dan dari [Al Hakam] dari [Al Qasim bin Mukhaimirah] dari [Warrad] dengan seperti ini juga. Al Hasan berkata, "Al Jaddu artinyaadalah kekayaan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>844</td></tr><tr><td>Arabic No</td><td>844</td></tr><tr><td>Reference</td><td>Book 10 Hadith 236</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугъира бин Шу‘ба, да будет доволен им Аллах, сказал: «После каждой обязательной молитвы Пророк ﷺ обычно говорил: “Нет истинного бога, кроме одного лишь Аллаха, у Которого нет сотоварища. Ему принадлежит владычество, Ему хвала, Он всё может! О Аллах, никто не лишит того, что Ты даровал, и никто не дарует того, чего Ты лишил, и бесполезным перед Тобой окажется богатство обладающего богатством /Ля иляха илля-Ллаху вахда-ху ля шарикя ля-ху, ля-ху-ль-мульку, ва ля-ху-ль-хамду ва хуа ‘аля кулли шаййин кадир! Аллахумма, ля мани‘а ли-ма а‘тайта, ва ля му‘тыйа ли-ма мана‘та ва ля йанфа‘у за-ль-джадди мин-кя-ль-джадд/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>844</td></tr><tr><td>Arabic No</td><td>844</td></tr><tr><td>Reference</td><td>Book 10 Hadith 236</td></tr></tbody></table></div>
 

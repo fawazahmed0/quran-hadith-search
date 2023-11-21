@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported:The Messenger of Allah (ﷺ) rode a horse and fell down from it an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>924</td></tr><tr><td>Arabic No</td><td>411.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса, что однажды Посланник Аллаха ﷺ ехал верхом на коне и упал с него и оцарапал правый бок. Далее подобно предыдущему хадису, и в этой версии говорится: «…если он совершает молитву стоя, то и вы молитесь стоя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>924</td></tr><tr><td>Arabic No</td><td>411.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 86</td></tr></tbody></table></div>
 

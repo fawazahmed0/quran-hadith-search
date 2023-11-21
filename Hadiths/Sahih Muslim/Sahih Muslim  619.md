@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:The Messenger of Allah (ﷺ) entered an enclosure while a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Khalid bin Abdullah] dari [Khalid] dari [Atha' bin Abu Maimunah] dari [Anas bin Malik] bahwa Rasulullah shallallahu 'alaihi wasallam masuk kebun, dan beliau diikuti seorang anak muda yang membawa air wudlu, anak muda adalah orang yang paling muda di antara kami. Lalu dia meletakkan air tersebut pada pokok bidara, Rasulullah shallallahu 'alaihi wasallam buang hajat lalu keluar menghampiri kami, dan beliau telah beristinja' dengan air tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>619</td></tr><tr><td>Arabic No</td><td>270</td></tr><tr><td>Reference</td><td>Book 2 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) Посланник Аллаха ﷺ вошёл в сад, а за ним последовал мальчик, который был самым младшим из нас. Он нёс с собой сосуд для омовения и положил его под (деревом) ююб, что же касается Посланника Аллаха ﷺ, то он вышел к нам, удовлетворив нужду и подмывшись водой (из этого сосуда)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>619</td></tr><tr><td>Arabic No</td><td>270</td></tr><tr><td>Reference</td><td>Book 2 Hadith 86</td></tr></tbody></table></div>
 

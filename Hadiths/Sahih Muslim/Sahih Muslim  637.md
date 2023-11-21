@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Muhammad bin al-Ala'] keduanya berkata, telah menceritakan kepada kami [Abu Muawiyah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Isa bin Yunus] keduanya dari [al-A'masy] dari [al-Hakam] dari [Abdurrahman bin Abu Laila] dari [Ka'ab bin Ujrah] dari [Bilal] bahwa Rasulullah shallallahu 'alaihi wasallam mengusap bagian atas kedua khuf dan penutup muka. Sedangkan dalam hadits [Isa]; telah menceritakan kepada kami [al-Hakam] telah menceritakan kepada kami [Bilal]. Dan telah menceritakannya kepada kami [Suwaid bin Sa'id] telah menceritakan kepada kami [Ali] -yaitu Ibnu Mushir- dari [al-A'masy] dengan sanad ini, dan dalam hadits tersebut ia menyebutkan, "Saya melihat Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>637</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Биляль рассказывал: «(Однажды, совершая омовение,) Посланник Аллаха ﷺ обтёр кожаные носки и платок /химар/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>637</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

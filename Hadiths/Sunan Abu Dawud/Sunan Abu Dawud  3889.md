@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas reported the Prophet (ﷺ) as saying :No spell is to be used except for the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud] telah menceritakan kepada kami [Syarik]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Al 'Abbas Al 'Anbari] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Syarik] dari [Al 'Abbas bin Dzarih] dari [Asy Sya'bi] [Al 'Abbas] menyebutkan dari [Anas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada jampi kecuali karena 'ain (pengaruh mata orang yang dengki), atau racun, atau darah yang terhenti." Al 'Abbas tidak menyebutkan 'ain, dan ini adalah lafazh Sulaiman bin Daud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3889</td></tr><tr><td>Arabic No</td><td>3889</td></tr><tr><td>Reference</td><td>Book 29 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Рукъю используют только в случае сглаза, укуса или когда кровь не останавливается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3889</td></tr><tr><td>Arabic No</td><td>3889</td></tr><tr><td>Reference</td><td>Book 29 Hadith 35</td></tr></tbody></table></div>
 

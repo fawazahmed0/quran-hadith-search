@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:regarding the Statement of Allah: "And whoever amongst the guardi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] Telah mengabarkan kepada kami ['Abdullah bin Numair] Telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari ['Aisyah radliallahu 'anha] mengenai firman Allah Ta'ala: "Barangsiapa (di antara pemelihara itu) mampu, maka hendaklah ia menahan diri (dari memakan harta anak yatim itu) dan barangsiapa yang miskin, maka bolehlah ia makan harta itu menurut yang patut." (An Nisaa': 6) Aisyah berkata: Diturunkan berkenaan dengan wali anak yatim, ia boleh menggunakan dari uangnya bila membutuhkan dikarenakan ia mengurusnya dengan cara yang patut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4575</td></tr><tr><td>Arabic No</td><td>4575</td></tr><tr><td>Reference</td><td>Book 65 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала относительно слов Всевышнего «А кто (из опекунов) богат, то пусть воздержится (и не берёт из имущества сироты ничего), а тот, кто беден, пусть ест согласно обычаям (по мере необходимости)»: «Это аят был ниспослан об имуществе сироты. Если его опекун является бедным, то он может есть из имущества сироты в соответсвии с обычаями в качестве платы за своё опекунство»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4575</td></tr><tr><td>Arabic No</td><td>4575</td></tr><tr><td>Reference</td><td>Book 65 Hadith 97</td></tr></tbody></table></div>
 

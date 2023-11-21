@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Harith ibn Jaz': One of the Companions of the Prophet (may
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin 'Amru bin As-Sarj] telah menceritakan kepada kami [Abdul Malik bin Abu Karimah] berkata Ibnu As-Sarj; Ibnu Abi Karimah dan termasuk orang Islam pilihan, dia berkata; Telah menceritakan kepada saya [Ubaid bin Tsumamah Al-Muradi] dia berkata; [Abdullah bin Harits bin Jaz'in] salah seorang sahabat Nabi shallallahu 'alaihi wasallam, datang kepada kami di Mesir. Saya mendengarnya menceritakan hadits di Masjid Mesir, dia berkata; Saya pernah menjadi orang yang ketujuh atau orang yang keenam bersama Nabi shallallahu 'alaihi wasallam di rumah seseorang, kemudian Bilal lewat dan mengumandangkan adzan untuk shalat. Maka kami keluar dan melewati seorang laki-laki yang periuknya sedang di atas api. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah periukmu bagus?" (Yakni apakah daging yang ada di dalam periukmu sudah masak dan siap untuk dimakan?) laki-laki itu menjawab; Ya, aku rela ayah dan ibumu menjadi tebusanmu. Lalu beliau mengambil sepotong daging darinya (kemudian memakannya) dan terus mengunyahnya hingga beliau masuk ke dalam shalat sedangkan saya melihat kepadanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>193</td></tr><tr><td>Arabic No</td><td>193</td></tr><tr><td>Reference</td><td>Book 1 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убайд ибн Сумама аль-Муради сказал: «Однажды к нам в Египет прибыл ‘Абдуллах ибн Харис ибн Джазъ – один из сподвижников Пророка ﷺ – и я слышал, как он в мечети Египта говорил: “Однажды мне довелось быть одним из семи или шести человек, которые были с посланником Аллаха ﷺ в доме какого-то человека. В это время рядом проходил Билал, и он попросил его призвать к молитве, а затем, когда мы вышли и проходили рядом с человеком, у которого на огне была кострюля, Посланник Аллаха ﷺ сказал ему: “Готова ли (еда) в твоей кострюле?” Он ответил: “Да, да будут мои родители выкупом за тебя”. Тогда он взял оттуда кусочек и продолжал жевать его, пока не произнес вступительный такбир молитвы, а я все это время смотрел на него“»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>193</td></tr><tr><td>Arabic No</td><td>193</td></tr><tr><td>Reference</td><td>Book 1 Hadith 193</td></tr></tbody></table></div>
 

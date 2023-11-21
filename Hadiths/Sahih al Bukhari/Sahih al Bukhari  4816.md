@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Mas'ud:(regarding) the Verse: 'And you have not been screening agai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [As Shalt bin Muhammad] Telah menceritakan kepada kami [Yazid bin Zura'i] dari [Rauh bin Al Qasim] dari [Manshur] dari [Mujahid] dari [Abu Ma'mar] dari [Ibnu Mas'ud] mengenai firman Allah: "Kamu sekali-sekali tidak dapat bersembunyi dari kesaksian pendengaran, penglihatan dan kulitmu kepadamu bahkan kamu mengira bahwa Allah tidak mengetahui kebanyakan dari apa yang kamu kerjakan." (Fushshilat: 22). Ada dua orang Quraisy salah dan seorang lagi dari Tsaqif, atau dua orang dari Tsaqif sedangkan satu lagi dari Quraisy disisi Ka'bah. Salah seorang mereka berkata kepada yang lainnya; Apakah menurut kalian Allah mendengar perkataan kita ini? Sebagian berkata: Dia mendengar sebagian saja. Sebagian yang lain berkata; Jika Dia mendengar sebagiannya pasti Dia mendengar semuanya. Maka turunlah ayat; "Kamu sekali-sekali tidak dapat bersembunyi dari kesaksian pendengaran, penglihatan dan kulitmu kepadamu bahkan kamu mengira bahwa Allah tidak mengetahui kebanyakan dari apa yang kamu kerjakan." (Fushshilat:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>4816</td></tr><tr><td>Reference</td><td>Book 65 Hadith 338</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Мас‘уд сказал об аяте «Вы не укрывались от свидетельств вашего слуха, ваших взоров…»: «Двое курайшитов и их зять из племени сакыф (или двое сакафитов и их зять из племени курайш), находились в одном доме и спросили друг друга: “Как вы думаете, Аллах слышит наш разговор?” Один их них сказал: “Слышит, но только часть его”. Другой же сказал: “Если он слышит часть его, то должен слышать его полностью”. И тогда был ниспослан аят: “Вы не укрывались от свидетельств вашего слуха, ваших взоров…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>4816</td></tr><tr><td>Reference</td><td>Book 65 Hadith 338</td></tr></tbody></table></div>
 

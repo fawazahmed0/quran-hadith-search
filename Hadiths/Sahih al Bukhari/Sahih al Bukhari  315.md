@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:An Ansari woman asked the Prophet (ﷺ) how to take a bath after
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Manshur] dari [Ibunya] dari ['Aisyah], "Seorang wanita Anshar bertanya kepada Nabi shallallahu 'alaihi wasallam, "Bagaimana caranya aku bersuci dari haid?" Beliau lalu menjawab: "Ambillah sepotong kapas yang diberi wewangian lalu bersihkanlah tiga kali." Kemudian Nabi shallallahu 'alaihi wasallam merasa malu lalu memalingkan mukanya, atau beliau mengatakan: "Berwudlulah dengan kapas itu." Aku lalu tarik wanita itu dan aku terangkan apa yang dimaksud oleh Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>315</td></tr><tr><td>Reference</td><td>Book 6 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, о том, что (однажды) какая-то женщина из числа ансаров сказала Пророку ﷺ: «Как мне следует совершать большое омовение после месячных?» Он сказал: «Возьми кусок шерсти, пропитанной мускусом, и очищайся этим трижды». Затем Пророк ﷺ постеснялся и отвернул своё лицо. Или он сказал: «Очищайся этим».\n(‘Аиша сказала): «Тогда я взяла и привлекла её (к себе) и рассказала ей то, чего хотел (сказать) Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>315</td></tr><tr><td>Reference</td><td>Book 6 Hadith 20</td></tr></tbody></table></div>
 

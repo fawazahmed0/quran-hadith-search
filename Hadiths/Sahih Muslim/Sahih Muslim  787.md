@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Zaid b Thabit reported:I heard the Messenger of Allah (ﷺ) say this: Ablution i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin al-Laits] dia berkata, telah menceritakan kepada kami [bapakku] dari [kakekku] telah menceritakan kepada kami [Uqail bin Khalid] dia berkata, telah berkata [Ibnu Syihab] telah mengabarkan kepadaku [Abdul Malik bin Abi Bakar bin Abdurrahman bin al-Harits bin Hisyam] bahwa [Kharijah bin Zaid al-Anshari] telah mengabarkan kepadanya bahwa [bapaknya, Zaid bin Tsabit] dia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda, 'Wudhu (diwajibkan) karena (memakan daging) yang dibakar api
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>787</td></tr><tr><td>Arabic No</td><td>351</td></tr><tr><td>Reference</td><td>Book 3 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Зейда ибн Сабита, что Посланник Аллаха ﷺ сказал: «(Необходимо совершить) малое омовение (после употребления в пищу) того, чего коснулся огонь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>787</td></tr><tr><td>Arabic No</td><td>351</td></tr><tr><td>Reference</td><td>Book 3 Hadith 109</td></tr></tbody></table></div>
 

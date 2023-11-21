@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that two women of the tribe of Hudhail fought with each oth
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu At Thahir] telah menceritakan kepada kami [Ibnu Wahb]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Harmalah bin Yahya At Tajibi] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] dari [Ibnu Musayyab] dan [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] berkata, "Dua wanita Bani Hudzail sedang berkelahi, yang satu melempar lawannya dengan batu sehingga menyebabkan kamatiannya dan kematian anak yang dikandungnya. Lalu mereka mengadukan peristiwa itu kepada Rasulullah shallallahu 'alaihi wasallam. Beliau lalu memberi putusan bahwa denda bagi janin tersebut adalah membebaskan seorang budak yang mahal, baik itu budak laki-laki atau perempuan. Sementara tebusan untuk wanita (terbunuh) dibebankan kepada kerabat terdekat wanita (si pembunuh). Dan menetapkan bahwa harta warisan (wanita yang membunuh) untuk anak-anaknya dan orang yang bersama mereka." Hamal bin Nabighah Al Hudzali berkata, "Ya Rasulullah, bagaimana aku harus menanggung orang yang belum bisa makan dan minum, bahkan belum bisa berbicara ataupun menjerit sama sekali? Bukankah itu sebuah kesia-siaan belaka?" Mendegar hal itu Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Hanyasanya ini seperti saudara-saudaranya setan, karena sajak yang ia ucapkan." Dan telah menceritakan kepada kami [Abd bin Humaid] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] dia berkata, "Dua wanita Yahudi sedang berkelahi…lalu dia menyebutkan redaksi haditsnya, namun dia tidak menyebutkan, "Dan menetapkan bahwa harta warisan (wanita yang membunuh) untuk anak-anaknya dan orang yang bersama mereka." Perawi berkata, "Maka ada seseorang yang bertanya, "Bagaimana mungkin kami bisa mengetahuinya padahal ia tidak dinamakan Haml bin Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4391</td></tr><tr><td>Arabic No</td><td>1681.03</td></tr><tr><td>Reference</td><td>Book 28 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4391</td></tr><tr><td>Arabic No</td><td>1681.03</td></tr><tr><td>Reference</td><td>Book 28 Hadith 50</td></tr></tbody></table></div>
 

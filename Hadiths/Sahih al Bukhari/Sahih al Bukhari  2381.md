@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) forbade the sales called Al-Mukha
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Ibnu Juraij] dari ['Atha'] dia mendengar [Jabir bin 'Abdullah radliallahu 'anhuma]; Nabi shallallahu 'alaihi wasallam melarang Al Mukhaobarah, Al Muhaaqalah, Al Muzaabanah dan jual beli buah-buahan (dari pohon) hingga telah nampak baiknya dan tidak boleh dijual sesuatupun darinya selain dengan dinar dan dirham kecuali 'ariyyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2381</td></tr><tr><td>Arabic No</td><td>2381</td></tr><tr><td>Reference</td><td>Book 42 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Пророк ﷺ запрещал возделывание земли в обмен на часть урожая (мухабара), обмен посевов в поле на уже собранное зерно (мухакаля), обмен свежих фиников на сушёные (музабана), продавать финики, пока они не созреют, и ничто из них не (должны были) продаваться иначе как за динары и дирхемы, кроме обмена (ограниченного количества) несобранного урожая (свежих фиников) на сушёные финики (‘арайа)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2381</td></tr><tr><td>Arabic No</td><td>2381</td></tr><tr><td>Reference</td><td>Book 42 Hadith 29</td></tr></tbody></table></div>
 

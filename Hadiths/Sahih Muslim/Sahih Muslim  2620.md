@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas (que Dieu l'agrée) fut interrogé sur le jeûne du ramadan pendant le voya
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Abu Khaitsamah] dari [Humaid] ia berkata; [Anas] pernah ditanya mengenai puasa Ramadhan saat berada dalam perjalanan, lalu ia menjawab, "Kami dulu pernah bepergian bersama Rasulullah shallallahu 'alaihi wasallam pada bulan Ramadhan, namun orang yang berpuasa tidaklah mencela orang yang berbuka, dan yang berbuka juga tidak mencela orang yang berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2620</td></tr><tr><td>Arabic No</td><td>1118.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2620</td></tr><tr><td>Arabic No</td><td>1118.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 126</td></tr></tbody></table></div>
 

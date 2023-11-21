@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Allah's Apostle (ﷺ) went out one morning wearing a blanke
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Suraij bin Yunus]; Telah menceritakan kepada kami [Yahya bin Zakaria bin Abu Zaidah] dari [Bapaknya]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Ibrahim bin Musa]; Telah menceritakan kepada kami [Ibnu Abu Zaidah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Ahmad bin Hanbal]; Telah menceritakan kepada kami [Yahya bin Zakaria]; Telah mengabarkan kepadaku [Bapakku] dari [Mush'ab bin Syaibah] dari [Shafiyah binti Syaibah] dari ['Aisyah] ia berkata; Pada suatu pagi Rasulullah shallallahu 'alaihi wasallam keluar dari rumah dengan mengenakan pakaian dari woll yang bermotifkan gambar kafilah unta dari bulu-bulu hitam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5445</td></tr><tr><td>Arabic No</td><td>2081</td></tr><tr><td>Reference</td><td>Book 37 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5445</td></tr><tr><td>Arabic No</td><td>2081</td></tr><tr><td>Reference</td><td>Book 37 Hadith 60</td></tr></tbody></table></div>
 

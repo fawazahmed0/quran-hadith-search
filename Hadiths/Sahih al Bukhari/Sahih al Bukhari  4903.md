@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Arqam:We went out with the Prophet (ﷺ) : on a journey and th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Khalid] Telah menceritakan kepada kami [Zuhair bin Mu'awiyah] Telah menceritakan kepada kami [Abu Ishaq] ia berkata; Aku mendengar [Zaid bin Arqam] ia berkata; Kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, saat itu orang-orang tertimpa kesulitan, lalu Abdullah bin Ubbay berkata kepada para sahabatnya, "Janganlah kalian memberikan perbekalan kepada orang-orang yang berada di sisi Rasulullah shallallahu 'alaihi wasallam hingga mereka lari daripadanya." Dan ia juga mengatakan, "Jika kita kembali ke Madinah, niscaya orang-orang mulia akan mengeluarkan orang-orang yang hina darinya." Maka aku pun segera menemui Nabi shallallahu 'alaihi wasallam dan mengabarkan kejadian itu. Kemudian Rasulullah shallallahu 'alaihi wasallam mengirim utusan kepada Abdullah bin Ubbay untuk menanyakan hal itu, namun ternyata mereka bersumpah dengan sungguh-sungguh bahwa mereka tidak mengatakannya. Mereka katakan, "Zaid telah mendustai Rasulullah shallallahu 'alaihi wasallam." Sejak itu, maka ungkapan mereka itu begitu menyakitkan hatiku hingga Allah 'azza wajalla membenarkanku dalam ayat, "IDZAA JAA'AKAL MUNAAFIQUUNA." Akhirnya Nabi shallallahu 'alaihi wasallam memanggil mereka agar beliau memintakan ampunan bagi mereka, namun mereka memalingkan muka. Firman Allah, "KHUSYUBUM MUSYANNADAH." Yakni, maknanya mereka adalah orang-orang yang paling tampan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4903</td></tr><tr><td>Arabic No</td><td>4903</td></tr><tr><td>Reference</td><td>Book 65 Hadith 423</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса, также передаваемой со слов Зейда бин Аркама, да будет доволен им Аллах,) сообщается, что он сказал: «И Пророк ﷺ призвал их к себе, чтобы попросить у Аллаха прощения для них, однако они отвернулись»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4903</td></tr><tr><td>Arabic No</td><td>4903</td></tr><tr><td>Reference</td><td>Book 65 Hadith 423</td></tr></tbody></table></div>
 

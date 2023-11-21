@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The verse "The punishment of those who wage war aga
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Tsabit] berkata, telah menceritakan kepada kami [Ali bin Husain] dari [Bapaknya] dari [Yazid An Nahwi] dari [Ikrimah] dari [Ibnu Abbas] ia berkata berkenaan dengan ayat: '(Sesungguhnya pembalasan terhadap orang-orang yang memerangi Allah dan Rasul-Nya dan membuat kerusakan di muka bumi, hanyalah mereka dibunuh atau disalib, atau dipotong tangan dan kaki mereka dengan bertimbal balik, atau dibuang dari negeri (tempat kediamannya). Hingga firman Allah: '(Allah Maha Pengampun lagi Maha Penyayang) ' ia mengatakan, "Ayat ini turun kepada orang-orang musyrik, jika salah seorang dari mereka bertaubat sebelum dilaksanakannya (hudud), ia tidak dapat terhindar dari hukuman hudud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4372</td></tr><tr><td>Arabic No</td><td>4372</td></tr><tr><td>Reference</td><td>Book 40 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал о словах Всевышнего «Воистину, те, которые воюют против Аллаха и Его посланника и стремятся сотворить на земле нечестие, в воздаяние должны быть убиты или распяты, или у них должны быть отсечены накрест руки и ноги, или они должны быть изгнаны из страны. Это будет для них позором в этом мире, а в Последней жизни для них уготованы великие мучения. Исключением являются те, которые раскаялись и вернулись до того, как вы получили власть над ними. Знайте же, что Аллах Прощающий, Милостивый» (сура “аль-Маида”, аяты)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4372</td></tr><tr><td>Arabic No</td><td>4372</td></tr><tr><td>Reference</td><td>Book 40 Hadith 22</td></tr></tbody></table></div>
 

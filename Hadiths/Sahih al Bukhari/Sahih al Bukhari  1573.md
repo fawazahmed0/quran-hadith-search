@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':On reaching the sanctuary of Mecca, Ibn 'Umar used to stop, recit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada sayai [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ibnu 'Ulayyah] telah mengabarkan kepada kami [Ayyub] dari [Nafi'] berkata,, bahwa ['Abdullah bin 'Umar radliallahu 'anhua] bila sudah mendekati tanah haram dia berhenti dari membaca talbiyah lalu bermalam di Dzu Thuwa lalu shalat Shubuh disana lalu mandi kemudian menceritakan bahwa Nabiyullah Shallallahu'alaihiwasallam melakukannya seperti itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1573</td></tr><tr><td>Arabic No</td><td>1573</td></tr><tr><td>Reference</td><td>Book 25 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Нафи‘ сказал: «Когда Ибн ‘Умар, да будет доволен Аллах им и его отцом, добирался до начала харама, он переставал произносить тальбию, затем он ночевал в месте под названием Зу-Туа, затем совершал там утреннюю молитву и большое омовение /гусль/, и он рассказывал, что пророк Аллаха ﷺ делал то же самое»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1573</td></tr><tr><td>Arabic No</td><td>1573</td></tr><tr><td>Reference</td><td>Book 25 Hadith 59</td></tr></tbody></table></div>
 

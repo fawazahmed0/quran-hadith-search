@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Awn said:I was a prisoner in Syria. A man called me from behind. I turned
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Sulaim] dari [Ibnu Aun] ia berkata, "Ketika aku berjalan menuju Syam, seseorang memanggilku dari belakang, saat aku menoleh ke belakang ternyata orang itu adalah Raja' bin Haiwah. Ia lalu berkata, "Wahai Abu Aun, apa yang diceritakan orang tentang Al Hasan?" Aku menjawab, "Mereka banyak mendustakan Al Hasan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4621</td></tr><tr><td>Arabic No</td><td>4621</td></tr><tr><td>Reference</td><td>Book 42 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Ауна: «Я был в Шаме, и (по пути куда-то) меня окликнул кто-то. Обернувшись, я увидел, что это Раджа ибн Хайва. Он сказал: “О Абу ‘Аун, что это говорят об аль-Хасане?” Я ответил: “Они часто возводят на него ложь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4621</td></tr><tr><td>Arabic No</td><td>4621</td></tr><tr><td>Reference</td><td>Book 42 Hadith 26</td></tr></tbody></table></div>
 

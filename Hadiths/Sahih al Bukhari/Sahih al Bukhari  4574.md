@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa bin Az-Zubair:That he asked 'Aisha regarding the Statement of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] Telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Shalih bin Kaisan] dari [Ibnu Syihab] dia berkata; Telah mengabarkan kepadaku ['Urwah bin Az Zubair] bahwasanya ia bertanya kepada ['Aisyah] mengenai firman Allah Azza wa Jalla: 'Jika kalian takut tidak berbuat adil kepada anak yatim.. (An Nisa: 3) Aisyah berkata; 'wahai anak saudariku, yang dimaksud adalah seorang gadis yatim yang berada di peliharaan walinya, ia membantu dalam mengurus hartanya, lalu walinya takjub dengan harta dan kecantikannya hingga ia ingin menikahinya namun tidak bisa berbuat adil dalam maharnya sehingga Ia memberinya seperti yang diberikan oleh orang selainnya. Maka mereka dilarang untuk menikahi gadis-gadis itu kecuali jika berbuat adil dan memberi sebaik-baik mahar kepada mereka, sehingga mereka bisa memperoleh setinggi-tinggi mahar seukuran kondisi yang berlaku. Akhirnya mereka diperintahkan untuk menikahi wanita yang baik selain anak-anak perempuan yatim itu. Urwah berkata; lalu 'Aisyah berkata; sesungguhnya orang-orang meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam setelah turun ayat tersebut, lalu Allah Azza wa Jalla menurunkan: dan mereka meminta fatwa kepadamu tentang wanita-wanita, katakanlah bahwa Allah memberi fatwa kepada kalian sampai firman Allah: dan kalian ingin menikahi mereka. 'Aisyah berkata; maksudnya, ketika terjadi ketidak senangan seseorang diantara kalian kepada anak yatim yang ia pelihara karena harta dan kecantikannya sedikit, maka mereka dilarang untuk menikahinya karena dorongan niyat untuk menguasai harta gadis-gadis yatim itu. Kecuali jika bisa menegakkan keadilan meskipun ada ketidak senangan kepada mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4574</td></tr><tr><td>Arabic No</td><td>4574</td></tr><tr><td>Reference</td><td>Book 65 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что, когда ‘Урва бин аз-Зубайр, да помилует его Аллах Всевышний, задал ‘Аише, да будет доволен ею Аллах, вопрос о словах Аллаха Всевышнего: «Если же вы боитесь, что не будете справедливы с сиротами…», она сказала: «О сын моей сестры! (Речь идёт о таком случае, когда) девушка-сирота находится на попечении своего опекуна и является совладелицей его имущества, а этот опекун, привлекаемый её имуществом и красотой, хочет жениться на ней, но не желает придерживаться справедливости (при выплате) махра и давать ей то, что дал бы ей любой другой. Вот почему таким было запрещено жениться на (сиротах), если только (опекуны) не будут придерживаться справедливости по отношению к ним и не станут выплачивать им наибольшего принятого в их среде махра, (в противном же случае) им было велено (Аллахом) жениться на других женщинах, которые им понравятся».\n‘Урва сказал:\n— (Кроме того,) ‘Аиша сказала: «После (ниспослания) этого аята, люди стали обращаться к Посланнику Аллаха ﷺ с просьбами о вынесении решений (по тем или или вопросам, касающимся женщин), и тогда Аллах ниспослал аят(, в котором говорится): “И они будут просить тебя вынести решение относительно женщин”». ‘Аиша также сказала: «А в другом (месте) этого же аята есть слова “не желая жениться на них”, (под чем подразумевается) нежелание кого-либо из вас жениться на сироте, (находящейся на) его (попечении,) если она недостаточно богата и красива». (‘Аиша, да будет доволен ею Аллах, также) сказала: «И (людям, отказывающимся) соблюдать справедливость, было запрещено жениться на тех сиротах, красота и богатство которых их привлекали, так как если бы (эти сироты) были недостаточно богаты и красивы, то они не пожелали бы жениться на них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4574</td></tr><tr><td>Arabic No</td><td>4574</td></tr><tr><td>Reference</td><td>Book 65 Hadith 96</td></tr></tbody></table></div>
 

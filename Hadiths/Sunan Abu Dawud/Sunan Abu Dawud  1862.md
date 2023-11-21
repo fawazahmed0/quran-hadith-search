@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al Hajjaj bin ‘Amr Al Ansari reported the Apostle of Allaah(ﷺ) as saying “
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Yahya] dari [Hajjaj Ash Shawwaf], telah menceritakan kepadaku [Yahya bin Abu Katsir] dari [Ikrimah], ia berkata; saya mendengar [Al Hajjaj bin 'Amr Al Anshari] berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang kakinya retak atau pincang maka ia telah bertahallul, dan ia wajib melakukan haji pada tahun yang akan datang." [Ikrimah] berkata; aku bertanya kepada [Ibnu Abbas] dan [Abu Hurairah] mengenai hal tersebut, kemudian mereka berkata; benar. Telah menceritakan kepada Kami [Muhammad bin Al Mutawakkil Al 'Asqalani] dan [Salamah], mereka berkata; telah menceritakan kepada Kami [Abdurrazzaq] dari [Ma'mar] dari [Yahya bin Abu Katsir] dari [Ikrimah] dari [Abdullah bin Rafi'] dari [Al Hajjaj bin 'Amr] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barang siapa yang tulangnya retak, atau pincang atau sakit….. kemudian ia menyebutkan hadits yang semakna denganya. Salamah bin Syabib telah berkata; telah memberitakan kepada Kami Ma'mar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 11 Hadith 142</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Хаджжаджа ибн ‘Амра аль-Ансари, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто сломал что-нибудь или охромел, тот выходит из состояния ихрама и должен восполнить хадж в следующем году». ‘Икрима сказал: «Я спросил об этом Ибн ‘Аббаса и Абу Хурайру, и они сказали: “Это правда”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 11 Hadith 142</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abi b. Hatim:I asked the Prophet (ﷺ) ,and said: I set off my trained
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Jarir], dari [Manshur?] dari [Ibrahim], dari [Hammam], dari [Adi bin Hatim], ia berkata; aku bertanya kepada Nabi shallallahu 'alaihi wasallam, aku katakan; sesungguhnya aku telah melepaskan anjing-anjingku yang terlatih kemudian anjing tersebut menangkap buruan untukku, apa aku boleh memakannya? Beliau berkata: "Apabila engkau melepas anjingmu yang terlatih dan engkau sebut nama Allah, maka makanlah apa yang mereka tangkap untukmu!" aku katakan; walaupun anjing-anjing tersebut telah membunuh buruan tersebut? Beliau berkata: "Walaupun mereka telah membunuh, selama tidak ada anjing lain yang menyertainya." Aku katakan; aku memanah menggunakan panah tumpul, kemudian aku mengenai buruan, apakah aku boleh memakannya? Beliau berkata: "Apabila engkau memanah menggunakan panah tumpul dan engkau sebut nama Allah kemudian mengenai dan menusuk (hewan sasaran), maka makanlah dan apabila mengenai dengan sisi lebarnya (bukan ujungnya), maka jangan engkau makan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5477) Sahih Muslim (1929)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2847</td></tr><tr><td>Arabic No</td><td>2847</td></tr><tr><td>Reference</td><td>Book 17 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Ади ибн Хатима, да будет доволен им Аллах: «Я спросил Пророка ﷺ: “Поистине, я посылаю обученных собак за дичью, и они хватают её для меня. Могу ли я есть её?” (Посланник Аллаха ﷺ) сказал: “Если ты посылаешь обученных собак, помянув над ними имя Аллаха, то можешь есть то, что они схватят для тебя”. Я спросил: “А если собаки убьют дичь?” (Посланник Аллаха ﷺ) сказал: “Даже если собаки убьют дичь, при условии, что с ними не будет других собак”. Я спросил: “А если я охочусь с помощью ми‘рада и поражаю животное, могу ли я есть его?” Он сказал: “Если ты бросишь ми‘рад, произнеся при этом имя Аллаха, и он поразит животное своим остриём, можешь есть его мясо. Если же ми‘рад ударил животное боком и убил его, то не ешь его мясо”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5477) Sahih Muslim (1929)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2847</td></tr><tr><td>Arabic No</td><td>2847</td></tr><tr><td>Reference</td><td>Book 17 Hadith 4</td></tr></tbody></table></div>
 

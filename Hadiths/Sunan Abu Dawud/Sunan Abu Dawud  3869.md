@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: I heard the Messenger of Allah (ﷺ) say: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Umar bin Maisarah] telah menceritakan kepada kami [Abdullah bin Yazid] telah menceritakan kepada kami [Sa'id bin Abu Ayyub] telah menceritakan kepada kami [Syurahbil bin Yazid Al Mu'afiri] dari [Abdurrahman bin Rafi' At Tanukhi] ia berkata; aku pernah mendengar [Abdullah bin 'Amru] berkata, "Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika aku minum tiryaq (penawar racun), aku tidak peduli dengan yang aku lakukan; menggantungkan jimat atau mengucapkan kata-kata syair dari diriku." Abu Daud berkata, "Ini khusus untuk Nabi shallallahu 'alaihi wasallam, namun sebagian orang memberikan keringanan dalam hal itu, yakni saat minum obat penghilang racun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3869</td></tr><tr><td>Arabic No</td><td>3869</td></tr><tr><td>Reference</td><td>Book 29 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Я слышал, как Посланник Аллаха ﷺ сказал: “Я поступлю (как тот), кому всё равно, (что он делает), если выпью противоядие, повешу талисман или произнесу стихи собственного сочинения”». Абу Дауд сказал: «Это касается именно Пророка ﷺ. Некоторые учёные разрешали использовать противоядие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3869</td></tr><tr><td>Arabic No</td><td>3869</td></tr><tr><td>Reference</td><td>Book 29 Hadith 15</td></tr></tbody></table></div>
 

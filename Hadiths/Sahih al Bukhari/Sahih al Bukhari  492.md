@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ See translation for hadith 484 above
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>492</td></tr><tr><td>Arabic No</td><td>492</td></tr><tr><td>Reference</td><td>Book 8 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И ‘Абдуллах (ибн ‘Умар) рассказывал, что Пророк ﷺ молился, обращаясь лицом в сторону двух горных проходов. И перед началом молитвы он становился так, что то место на краю холма, на котором впоследствии была построена мечеть, оставалось слева от него. Место молитвы Пророка ﷺ находилось ниже этой мечети на чёрном холме, а для того, чтобы добраться до него, нужно подняться на холм примерно на высоту десяти локтей, а потом приступать к молитве, обратившись лицом в сторону двух горных проходов, относящихся к той горе, что находится меж тобой и Каабой
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>492</td></tr><tr><td>Arabic No</td><td>492</td></tr><tr><td>Reference</td><td>Book 8 Hadith 139</td></tr></tbody></table></div>
 

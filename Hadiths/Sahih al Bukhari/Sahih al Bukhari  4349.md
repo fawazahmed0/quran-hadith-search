@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:Allah's Messenger (ﷺ) sent us to Yemen along with Khalid bin 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin 'Utsman] Telah menceritakan kepada kami [Syuraih bin Maslamah] Telah menceritakan kepada kami [Ibrahim bin Yusuf bin Ishaq bin Abu Ishaq] Telah menceritakan kepadaku [Bapakku] dari [Abu Ishaq] Aku mendengar [Al Bara'] berkata; Rasulullah shallallahu 'alaihi wasallam mengutus kami bersama Khalid bin Walid ke Yaman, Al Bara berkata; kemudian Nabi shallallahu 'alaihi wasallam mengutus Ali untuk mengganti kepemimpinanya. Beliau berkata kepada Ali; 'Suruhlah tentara Khalid untuk ikut bersama kamu ke Yaman, bagi siapa saja yang mau, dan siapa yang ingin pulang, silahkan!.' Dan aku termasuk orang yang ikut bersama Ali. Al Bara berkata; 'lalu aku mendapatkan ghanimah yang begitu banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4349</td></tr><tr><td>Arabic No</td><td>4349</td></tr><tr><td>Reference</td><td>Book 64 Hadith 376</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «(Сначала) Посланник Аллаха ﷺ отправил нас с Халидом ибн аль-Валидом в Йемен, а потом он послал на смену (Халиду) ‘Али, (которому) Пророк ﷺ сказал: “Скажи товарищам Халида, что, если кто-нибудь из них захочет остаться (в Йемене), пусть остается, а кто хочет, пусть приезжает (в Медину)”. И я был одним из тех, кто остался (с ‘Али), а потом мне в качестве военной добычи досталось несколько окий (золота)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4349</td></tr><tr><td>Arabic No</td><td>4349</td></tr><tr><td>Reference</td><td>Book 64 Hadith 376</td></tr></tbody></table></div>
 

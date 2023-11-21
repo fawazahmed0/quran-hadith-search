@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Burdah:I entered upon 'Aishah, and she brought a coarse lower garme
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musa] berkata, telah menceritakan kepada kami [Sulaiman] -yakni Ibnul Mughirah- secara makna, dari [Humaid bin Hilal] dari [Abu Burdah] ia berkata, "Aku masuk menemui ['Aisyah] radliallahu 'anha, lalu ia keluar dengan membawa kain sarung tebal buatan Yaman dan kain yang mereka namakan Al Mulabbadah. Kemudian ia bersumpah atas nama Allah, bahwa Rasulullah shallallahu 'alaihi wasallam meninggal saat mengenakan dua kain tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2080)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4036</td></tr><tr><td>Arabic No</td><td>4036</td></tr><tr><td>Reference</td><td>Book 34 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Бурды, да будет доволен им Аллах: «Я зашёл к ‘Аише, да будет доволен её Аллах, и она показала нам изар из плотной ткани, какие делают в Йемене, и накидку из тех, которые называют “муляббада”, и поклялась, что именно эта одежда была на посланнике Аллаха ﷺ когда он скончался»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2080)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4036</td></tr><tr><td>Arabic No</td><td>4036</td></tr><tr><td>Reference</td><td>Book 34 Hadith 17</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The Prophet (ﷺ) prayed facing Bait-ulMaqdis (i.e. Jerusalem) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] dia mendengar dari [Zuhair] dari [Abu Ishaq] dari [Al Bara' radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam shalat dengan menghadap ke baitul Maqdis selama enam belas atau tujuh belas bulan. Dan beliau menyukai jika kiblatnya menghadap ke arah ka'bah. Kemudian beliau pun shalat Ashar bersama sekelompok para sahabat dengan menghadap ke arab kiblat. Setelah itu salah seorang dari sahabat tersebut keluar dan melewati kaum muslimin di sebuah masjid yang pada waktu itu mereka sedang ruku. Sahabat tadi berkata; AKu bersaksi kepada Allah, sungguh aku telah shalat bersama Nabi shallallahu 'alaihi wasallam dengan menghadap kiblat. Mereka pun segera berputar dalam keadaan shalat menghadap ke arah kiblat. Ada beberapa orang yang telah meninggal dengan menghadap ke arah kiblat pertama yang kami tidak tahu apa yang harus kami katakan mengenai hukumnya bagi mereka tersebut. Maka Allah pun menurunkan ayat; "Dan Allah tidak akan menyia-nyiakan keimanan kalian, sesungguhnya Allah maha pengasih lagi maha penyayang kepada manusia." (Al Baqarah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4486</td></tr><tr><td>Arabic No</td><td>4486</td></tr><tr><td>Reference</td><td>Book 65 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал, что (сначала) Посланник Аллаха ﷺ в течение шестнадцати или семнадцати месяцев молился, обращаясь лицом в сторону Иерусалима, однако ему хотелось обращаться во время молитвы в сторону Каабы. И, что он совершил послеполуденную молитву (’аср) вместе с людьми, и один из тех, кто молился вместе с ним вышел, и, проходя мимо людей, которые находились в (другой) мечети, совершая поясной поклон, сказал: «Свидетельствую Аллахом о том, что я молился вместе с Посланником Аллаха ﷺ, и что он обращался в сторону Мекки. (И, услышав это,) люди тоже повернулись в сторону Каабы. Некоторые люди были убиты до того, как изменилось направление киблы, и мы не знали, что сказать о них, тогда Аллах ниспослал: «Аллах никогда не даст пропасть вашей вере. Воистину, Аллах сострадателен и милосерден к людям»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4486</td></tr><tr><td>Arabic No</td><td>4486</td></tr><tr><td>Reference</td><td>Book 65 Hadith 13</td></tr></tbody></table></div>
 

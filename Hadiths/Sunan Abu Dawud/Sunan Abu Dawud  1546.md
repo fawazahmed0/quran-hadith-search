@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Messenger of Allah (ﷺ) used to supplicate by saying:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami ['Amr bin Utsman], telah menceritakan kepada Kami [Baqiyyah], telah menceritakan kepada Kami [Dhubarah bin Abdullah bin Abu As Sulaik] dari [Duwaid bin Nafi'], telah menceritakan kepada Kami [Abu Shalih As Samman], ia berkata; [Abu Hurairah] radliallahu 'anhu berkata; sesungguhnya Rasulullah shallAllahu wa'alaihi wa sallam pernah berdo'a: "ALLAAHUMMA INNII A'UUDZU BIKA MINASY SYIQAAQI WAN NIFAAQI WA SUUIL AKHLAAQ" (Ya Allah aku berlindung kepadaMu dari perpecahan dan kemunafikan serta akhlak yang jelek)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>1546</td></tr><tr><td>Reference</td><td>Book 8 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ обращался к Аллаху с такой мольбой: «О Аллах, поистине, я прошу у Тебя защиты от разобщения, лицемерия и скверного нрава /Аллахумма инни а‘узу бика мина-ш-шикакы ва-н-нифакы ва суи-ль-ахляк/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>1546</td></tr><tr><td>Reference</td><td>Book 8 Hadith 131</td></tr></tbody></table></div>
 

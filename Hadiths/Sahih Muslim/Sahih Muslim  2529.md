@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu'l-Bakhtari reported:We went out to perform Umra and when we encamped in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Hushain] dari [Amru bin Murrah] dari [Abu Al Bakhtari] ia berkata; Suatu ketika, kami keluar untuk menunaikan umrah. Ketika kami singgah di Bathn Nakhlah, kami melihat hilal, maka sebagian dari rombongan pun berkata, "Itu adalah malam ketiga." Kemudian sebagian yang lain mengatakan, "Itu adalah malam kedua." Kemudian kami menemui Ibnu Abbas dan kami pun berkata padanya, "Kami telah melihat hilal, lalu sebagian orang mengatakan bahwa itu adalah malam ketiga, sedangkan yang lain mengatakan bahwa itu adalah malam kedua." Maka [Ibnu Abbas] bertanya, "Pada malam apakah kalian melihatnya?" kami menjawab, "Kami melihatnya pada ini dan ini…" ia pun berkata; Sungguh Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Sesungguhnya Allah telah membentangkannya untuk dapat dilihat. Karena itu, mulailah pada malam kamu melihatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2529</td></tr><tr><td>Arabic No</td><td>1088.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2529</td></tr><tr><td>Arabic No</td><td>1088.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 35</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A Jew crushed the head of a girl between two stones, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Anas bin Malik] radliallahu 'anhu, ada seorang yahudi menumbuk kepala seorang budak perempuan dengan dua batu. Maka budak perempuan tersebut ditanya; 'sebutkan siapa yang mencederaimu, apakah yang melakukannya fulan, fulan? ' hingga disebut nama seorang yahudi.' Maka orang yahudi itu lantas dihadapkan ke Nabi shallallahu 'alaihi wasallam. Nabi tiada henti menginterogasinya hingga ia mengakui, kemudian Nabi mengqisasnya dengan meretakkan kepalanya dengan batu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6876</td></tr><tr><td>Arabic No</td><td>6876</td></tr><tr><td>Reference</td><td>Book 87 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса ибн Малика, да будет доволен им Аллах, что (однажды) какой-то иудей разбил голову одной девушке (, поместив) её между двумя камнями. Люди спросил её: “Кто сделал это с тобой: такой-то (или) такой-то?” — и когда было названо имя этого иудея, (она кивнула головой). Тогда его привели к Пророку ﷺ, и он (во всём) признался, после чего его голову тоже разбили камнями»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6876</td></tr><tr><td>Arabic No</td><td>6876</td></tr><tr><td>Reference</td><td>Book 87 Hadith 15</td></tr></tbody></table></div>
 

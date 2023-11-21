@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of 'Umar b. Khattab that when it was the day of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Hasyim bin al-Qasim] telah menceritakan kepada kami [Ikrimah bin Ammar] dia berkata, telah menceritakan kepada kami [Simak al-Hanafi Abu Zumail] dia berkata, telah menceritakan kepada kami [Abdullah bin Abbas] dia berkata, telah menceritakan kepada kami [Umar bin al-Khaththab] dia berkata, "Ketika terjadi perang Khaibar, maka sejumlah sahabat menghadap Nabi shallallahu 'alaihi wasallam seraya berkata, 'Fulan mati syahid, fulan mati syahid', hingga mereka melewati seorang laki-laki lalu berkata, 'fulan mati syahid.' Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak demikian, sesungguhnya aku melihatnya di neraka dalam pakaian atau mantel yang dia ambil (sebelum dibagi).' Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda lagi: 'Wahai Ibnu al-Khaththab, pergi dan serukanlah kepada manusia bahwa tidak akan masuk surga kecuali orang-orang yang beriman.' Maka Umar berkata, 'Aku keluar seraya berseru, 'Ketahuilah, tidak akan masuk surga kecuali orang mukmin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>309</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 1 Hadith 216</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар ибн аль-Хаттаб сказал: «В день Хайбара к Пророку ﷺ явились несколько его сподвижников и стали говорить: “Такой-то шахид, такой-то шахид”, когда же они дошли до одного человека и сказали: “Такой-то шахид”, Посланник Аллаха ﷺ воскликнул: “Вовсе нет! Поистине, я видел его в Огне одетым в тот плащ /бурда/, который он присвоил (взял из военных трофеев до того, как они были поделены)!” Затем Посланник Аллаха ﷺ сказал: “О Ибн аль-Хаттаб, иди и воззови среди людей, что в Рай войдут только верующие”. Тогда я вышел и воззвал: “В Рай войдут лишь верующие!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>309</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 1 Hadith 216</td></tr></tbody></table></div>
 

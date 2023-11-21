@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Allah guarantees him who str
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il] berkata telah bercerita kepadaku [Malik] dari [Abu Az Zanad] dari [Al A'roj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah Shallallahu'alaiwasallam bersabda: "Allah menjamin bagi siapa yang berjihad di jalan-Nya, tak ada niyat bagi orang itu untuk berangkat selain untuk berjihad di jalan-Nya dan membenarkan kalimat-Nya, agar untuk memasukkannya ke dalam surga atau Allah mengembalikannya ke tempat tinggalnya yang ia tinggalkan dengan membawa pulang pahala atau ghanimah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3123</td></tr><tr><td>Arabic No</td><td>3123</td></tr><tr><td>Reference</td><td>Book 57 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Аллах поручился за того, кто сражается на Его пути и которого вывело (из дома) лишь борьба на Его пути и вера в Его слова, что Он либо введёт его в Рай, либо вернёт его домой, из которого он вышел с тем, что он приобрёл из награды или военной добычи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3123</td></tr><tr><td>Arabic No</td><td>3123</td></tr><tr><td>Reference</td><td>Book 57 Hadith 32</td></tr></tbody></table></div>
 

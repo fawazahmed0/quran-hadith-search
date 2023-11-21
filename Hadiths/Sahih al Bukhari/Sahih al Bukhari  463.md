@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:On the day of Al-Khandaq (battle of the Trench' the medial arm v
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zakaria bin Yahya] berkata, telah menceritakan kepada kami ['Abdullah bin Numair] berkata, telah menceritakan kepada kami [Hisyam] dari [Bapaknya] dari ['Aisyah] berkata, "Pada hari peperangan Khandaq, Sa'd terluka pada bagian lengannya. Nabi shallallahu 'alaihi wasallam kemudian mendirikan tenda untuk menjenguk Sa'd dari dekat, sementara di Masjid banyak juga tenda milik bani ghifar. Kemudian banyak darah yang mengalir ke arah mereka (orang-orang bani Ghifar), maka mereka pun berkata, 'Wahai penghuni tenda! Cairan apa yang mengenai kami ini? Ia muncul dari arah kalian? ' Dan ternyata cairan itu ada darah Sa'd yang keluar sehingga ia pun meninggal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>463</td></tr><tr><td>Arabic No</td><td>463</td></tr><tr><td>Reference</td><td>Book 8 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «В день битвы у рва Са‘д (ибн Му‘аз) был тяжело ранен в руку. Пророк ﷺ поставил (для него) палатку в мечети, чтобы навещать его(, не теряя времени на дорогу). В мечети стояла также и палатка людей из (племени) бану гъифар, которых ничто не тревожило, (когда же) кровь (Са‘да) начала стекать к ним, они закричали: “Эй, в палатке! Что это течёт от вас к нам?” — а дело было в том, что Са‘д истекал кровью в своей палатке, где он и умер»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>463</td></tr><tr><td>Arabic No</td><td>463</td></tr><tr><td>Reference</td><td>Book 8 Hadith 111</td></tr></tbody></table></div>
 

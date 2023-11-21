@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported Allah's Messenger (ﷺ) as saying:There would be before you a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Harmalah bin Yahya] Telah menceritakan kepada kami [Abdullah bin Wahab] Telah menceritakan kepadaku [Umar bin Muhammad] dari [Nafi'] dari [Abdullah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di hadapan kalian ada telaga, yang luasnya sebagaimana jarak antara Jarba dan Adzrah. Di dalamnya terdapat gelas-gelas bagaikan bintang-bintang di langit. Barang siapa yang mengambil dan meminum darinya maka setelah itu dia tidak akan pernah haus selamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5988</td></tr><tr><td>Arabic No</td><td>2299.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5988</td></tr><tr><td>Arabic No</td><td>2299.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 49</td></tr></tbody></table></div>
 

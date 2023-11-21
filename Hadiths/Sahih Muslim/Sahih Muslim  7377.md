@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:The Dajjal would 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Abdullah bin Qahzadz] salah satu penduduk Marw, telah menceritakan kepada kami [Abdullah bin Utsman] dari [Abu Hamzah] dari [Qais bin Wahab] dari [Abu Al Waddak] dari [Abu Sa'id Al Khudri] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Dajjal muncul lalu seseorang dari kalangan kaum mu'minin menuju ke arahnya lalu bala tentara Dajjal yang bersenjata menemuinya, mereka bertanya: 'Kau mau kemana? ' mu'min itu menjawab: 'Hendak ke orang yang muncul itu.' Mereka bertanya: 'Apa kau tidak beriman ada tuhan kami? ' mu'min itu menjawab: 'Rabb kami tidaklah samar.' Mereka berkata: 'Bunuh dia.' Lalu mereka saling berkata satu sama lain: 'Bukankah tuhan kita melarang kalian membunuh seorang pun selain dia.' Mereka membawanya menuju Dajjal. Saat orang mu'min melihatnya, ia berkata, 'Wahai sekalian manusia, inilah Dajjal yang disebut oleh Rasulullah Shallallahu 'alaihi wa Salam.' Lalu Dajjal memerintahkan agar dibelah. Ia berkata, 'Ambil dan belahlahlah dia.' Punggung dan perutnya dipenuhi pukulan lalu Dajjal bertanya: 'Apa kau tidak beriman padaku? ' mu'min itu menjawab: 'Kau adalah Al Masih pendusta? ' lalu Dajjal memerintahkannya digergaji dari ujung kepala hingga pertengahan antara kedua kaki. Setelah itu Dajjal berjalan di antara dua potongan tubuh itu lalu berkata: 'Berdirilah, ' tubuh itu pun berdiri. Selanjutnya Dajjal bertanya padanya: 'Apa kau beriman padaku? ' ia menjawab: 'Aku semakin mengetahuimu.' Setelah itu Dajjal berkata: 'Wahai sekalian manusia, sesungguhnya tidak ada seorang pun yang dilakukan seperti ini setelahku.' Lalu Dajjal mengambilnya untuk disembelih, kemudian antara leher dan tulang selangkanya diberi perak, tapi Dajjal tidak mampu membunuhnya. Kemudian kedua tangan dan kaki orang itu diambil lalu dilemparkan, orang-orang mengiranya dilempari ke neraka, tapi sesungguhnya ia dilemparkan ke surga." Setelah itu Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Dia adalah manusia yang kesaksiannya paling agung disisi Rabb seluruh alam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7377</td></tr><tr><td>Arabic No</td><td>2938.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7377</td></tr><tr><td>Arabic No</td><td>2938.03</td></tr><tr><td>Reference</td><td>Book 54 Hadith 138</td></tr></tbody></table></div>
 

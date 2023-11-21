@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted on the authority of Ibn Umar with a slight vari
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr]. [Yahya bin Yahya] berkata; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Isma'il bin Ja'far] dari ['Abdullah bin Dinar] bahwa dia mendengar [Ibnu Umar] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Semoga Allah Subhanahu wa Ta'ala mengampuni Bani Ghifar dan memberi kedamaian kepada Bani Aslam. Sedangkan 'Ushayyah, mereka telah durhaka kepada Allah dan Rasul-NYa." Telah menceritakan kepada kami [Ibnu Al Mutsanna]; Telah menceritakan kepada kami ['Abdul Wahhab]; Telah menceritakan kepada kami ['Ubaidullah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami ['Amru bin Sawwad]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Usamah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Zuhair bin Harb] dan [Al Hulwani] serta ['Abad bin Humaid] dari [Ya'qub bin Ibrahim bin Sa'ad]; Telah menceritakan kepada kami [Bapakku] dari [Shalih] seluruhnya dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa. Dan di dalam Hadits Shalih dan Usamah bahwa Rasulullah shallallahu 'alaihi wasallam mengatakan hal itu ketika beliau di atas mimbar. Dan telah menceritakannya kepadaku [Hajjaj bin Asy Sya'ir]; Telah menceritakan kepada kami [Abu Dawud Ath Thayalisi]; Telah menceritakan kepada kami [Harb bin Syaddad] dari [Yahya]; Telah menceritakan kepadaku [Abu Salamah]; Telah menceritakan kepadaku [Ibnu 'Umar] dia berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda seperti apa yang mereka riwayatkan dari Ibnu Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6436</td></tr><tr><td>Arabic No</td><td>2518.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 265</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6436</td></tr><tr><td>Arabic No</td><td>2518.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 265</td></tr></tbody></table></div>
 

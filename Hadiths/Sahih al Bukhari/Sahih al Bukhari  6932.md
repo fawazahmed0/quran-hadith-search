@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Regarding Al-Harauriyya: The Prophet (ﷺ) said, "T
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] telah menceritakan kepadaku [Ibnu Wahb] mengatakan, telah menceritakan kepadaku [Umar] bahwasanya [Ayahnya] menceritakan kepadanya dari [Abdullah bin Umar] dan ia menceritakan tentang al hariuriyah, kemudian dia menuturkan; Nabi shallallahu 'alaihi wasallam bersabda: "Mereka keluar dari Islam, sebagaimana anak panah keluar dari busurnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6932</td></tr><tr><td>Arabic No</td><td>6932</td></tr><tr><td>Reference</td><td>Book 88 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар упомянул харуритов и сказал: «Пророк ﷺ сказал: “Они вылетят из ислама подобно тому, как стрела вылетает через дичь (пробив её насквозь)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6932</td></tr><tr><td>Arabic No</td><td>6932</td></tr><tr><td>Reference</td><td>Book 88 Hadith 14</td></tr></tbody></table></div>
 

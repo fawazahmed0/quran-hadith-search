@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas: The Prophet (ﷺ) said, "Love for the Ansar is a sign of faith an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku [Abdullah bin Abdullah bin Jabar], berkata; aku mendengar [Anas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tanda iman adalah mencintai (kaum) Anshar dan tanda nifaq adalah membenci (kaum) Anshar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Arabic No</td><td>17</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «Признаком веры является любовь к ансарам, а признаком лицемерия — ненависть (по отношению к ним)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Arabic No</td><td>17</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
 

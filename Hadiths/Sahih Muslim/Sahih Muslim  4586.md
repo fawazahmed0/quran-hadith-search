@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Ibn Umar that the Messenger of Allah (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Kamil Fudlail bin Husain] keduanya dari [Sulaim], [Yahya] berkata; telah mengabarkan kepada kami [Sulaim bin Akhdlar] dari ['Ubaidullah bin umar] telah menceritakan kepada kami [Nafi'] dari [Abdullah bin Umar], bahwa Rasulullah shallallahu 'alaihi wasallam membagikan harta rampasan perang untuk tentara berkuda dua bagian, sedangkan untuk tentara pejalan kaki satu bagian." Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami ['Ubaidullah] dengan isnad seperti ini, namun dia tidak menyebutkan, "Nafl (harta rampasan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4586</td></tr><tr><td>Arabic No</td><td>1762.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4586</td></tr><tr><td>Arabic No</td><td>1762.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 67</td></tr></tbody></table></div>
 

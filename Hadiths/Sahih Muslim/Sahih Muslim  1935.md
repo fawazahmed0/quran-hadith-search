@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) did not abandon at all observing tw
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Jarir] -dalam jalur lain- Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [bapakku] semuanya dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] ia berkata; Menurutku, Rasulullah shallallahu 'alaihi wasallam sama sekali tidak pernah meninggalkan dua raka'at sesudah Ashar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>835.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 363</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Хишам ибн ‘Урва передал со слов своего отца, что ‘Аиша сказала: «Находясь у меня, Посланник Аллаха ﷺ никогда не оставлял молитву в два рак‘ата после послеполуденной молитвы /‘аср/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>835.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 363</td></tr></tbody></table></div>
 

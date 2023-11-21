@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hudhaifah said that he prayed along with the Prophet (ﷺ), and that he said whe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dia berkata; saya berkata kepada Sulaiman; apabila aku membaca ayat yang mengandung ketakutan apakah aku harus berdoa dalam shalat?" maka [Sulaiman] menceritakan kepadaku dari [Sa'd bin 'Ubaidah] dari [Mustaurid] dari [Shilah bin Zufar] dari [Hudzaifah] bahwa dia shalat bersama Nabi shallallahu 'alaihi wasallam, ketika ruku' beliau membaca: "Subhaana rabbiyal 'azhiimi (Maha suci Rabbku yang Maha Agung) " dan ketika sujud beliau membaca: "Subhaana Rabbiyal a'la (Maha suci Rabbku yang Maha Tinggi)." Dan beliau tidak melewati ayat tentang rahmat melainkan beliau akan berhenti pada ayat tersebut, lalu berdo'a. dan tidaklah beliau melewati ayat tentang adzab (siksa) melainkan beliau akan berhenti pada ayat tersebut lalu memohon perlindungan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (772)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>871</td></tr><tr><td>Arabic No</td><td>871</td></tr><tr><td>Reference</td><td>Book 2 Hadith 481</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Хузайфы, да будет доволен Аллах им и его отцом, что он молился вместе с Пророком ﷺ и тот говорил во время поясного поклона: «Пречист Господь мой Великий /Субхана Раббийа-ль-‘Азым/», а во время земного поклона он говорил: «Пречист Господь мой Высочайший /Субхана Раббийа-ль-А‘ля/». Прочитывая аят о милости, (Посланник Аллаха ﷺ) останавливался и просил у Аллаха милости, а прочитывая аят о наказании, он останавливался и просил у Аллаха защиты
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (772)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>871</td></tr><tr><td>Arabic No</td><td>871</td></tr><tr><td>Reference</td><td>Book 2 Hadith 481</td></tr></tbody></table></div>
 

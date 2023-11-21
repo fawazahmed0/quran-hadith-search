@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:I saw Allah's Messenger (ﷺ) pointing towards the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] dari [Malik] dari ['Abdullah bin Dinar] dari ['Abdullah bin 'Umar radliallahu 'anhuma] berkata; "Aku melihat Rasulullah shallallahu 'alaihi wasallam menunjuk ke arah timur lalu bersabda: "Fitnah itu akan timbul dari sana. Fitnah timbul dari tempat terbitnya tanduk setan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3279</td></tr><tr><td>Arabic No</td><td>3279</td></tr><tr><td>Reference</td><td>Book 59 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я видел, как (однажды) Посланник Аллаха ﷺ указал (рукой) на восток и сказал: “Вот где (возникнет) искушение, вот где (возникнет) искушение — там, где появляется край головы шайтана!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3279</td></tr><tr><td>Arabic No</td><td>3279</td></tr><tr><td>Reference</td><td>Book 59 Hadith 88</td></tr></tbody></table></div>
 

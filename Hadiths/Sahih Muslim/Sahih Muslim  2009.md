@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Wa'il reported:'Ammar delivered to us the sermon. It was short and eloquent.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Suraij bin Yunus] telah menceritakan kepada kami [Abdurrahman bin Abdul Malik bin Abjar] dari [bapaknya] dari [Washil bin Hayyan] ia berkata, [Abu Wa'il] berkata; [Ammar] pernah menyampaikan khutbah Jum'at kepada kami dengan bahasa yang singkat dan padat. Maka ketika ia turun dari mimbar, kami pun berkata kepadanya, "Wahai Abu Yaqzhan! Khutbah Anda begitu singkat dan padat. Alangkah baiknya kalau Anda panjangkan lagi." Ammar berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya lamanya shalat dan pendeknya khutbah seseorang itu menunjukkan tentang pemahaman ia tentang agamanya. Karena itu, panjangkanlah shalat dan pendekkanlah khutbah, karena sebagian dari bayan (penjelasan) adalah sihir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>869</td></tr><tr><td>Reference</td><td>Book 7 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Ваиль сказал: «(Однажды) ‘Аммар обратился к нам с проповедью, во время которой он говорил недолго, но довёл (до нашего сведения всё, что хотел сказать). Когда он спустился (с минбара), мы стали говорить: “О Абу аль-Якзан, ты довёл (до нас всё, что хотел сказать), но говорил (слишком) мало. (Как было бы хорошо), если бы ты (говорил) долго!” (В ответ нам) он сказал: “Поистине, я слышал, как Посланник Аллаха ﷺ сказал: ‹Поистине, продолжительность молитвы и краткость проповеди свидетельствуют о понимании человека, так удлиняйте же молитву и сокращайте хутбу, ибо (подчас) красноречие (бывает сродни) колдовству›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>869</td></tr><tr><td>Reference</td><td>Book 7 Hadith 59</td></tr></tbody></table></div>
 

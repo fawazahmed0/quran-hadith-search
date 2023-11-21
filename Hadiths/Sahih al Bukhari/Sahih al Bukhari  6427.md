@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "The thing I am afrai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] dia berkata; telah menceritakan kepadaku [Malik] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abu Sa'id Al khudri] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya sesuatu yang paling aku takutkan menimpa kalian adalah sesuatu yang Allah keluarkan untuk kalian dari berkahnya bumi." Beliau ditanya; 'Apa maksud dari berkahnya bumi? ' Beliau menjawab: 'Yaitu perhiasan dunia.' Maka seseorang bertanya kepada beliau; 'Wahai Rasulullah, apakah mungkin kebaikan akan mendatangkan keburukan? ' Rasulullah shallallahu 'alaihi wasallam diam beberapa saat, hingga kami mengira (wahyu) diturunkan kepada beliau, kemudian beliau mengusap keningnya lalu bersabda: 'Di manakah orang yang bertanya tadi? ' Laki-laki itu berkata; 'Saya.' Abu Sa'id berkata; 'Kami sempat memujinya ketika dia tiba-tiba muncul.' Beliau bersabda: 'Sesungguhnya kebaikan itu tidak mendatangkan kecuali kebaikan, sesungguhnya harta dunia ini adalah hijau dan manis, dan setiap sesuatu yang ditumbuhkan musim semi akan mematikan atau membinasakan, kecuali pemakan hijau-hijauan, dia makan sampai lambungnya telah melebar, kemudian menghadap matahari lalu berak, kencing dan kembali dan makan. Dan sesungguhnya harta itu terasa manis, maka barang siapa mendapatkan kekayaan dengan cara yang benar dan meletakkan dengan cara yang benar pula, maka alangkah beruntungnya dia dan barang siapa mendapatkan kekayaan dengan cara yang tidak benar, maka perumpamaannya ibarat orang yang makan dan tidak pernah merasa kenyang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6427</td></tr><tr><td>Arabic No</td><td>6427</td></tr><tr><td>Reference</td><td>Book 81 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, что Посланник Аллаха ﷺ сказал: «Поистине, больше всего, чего я боюсь для вас — это то, что Аллах выведет для вас благодать земли». Его спросили: «А что такое благодать земли? Он сказал: «Наслаждения этого мира». Тогда один человек сказал: «Может ли добро породить зло?» Пророк ﷺ, помолчав некоторое время, пока мы не посчитали, что ему ниспосылается божественное откровение. Затем он начал утирать пот со своего лба и сказал: «Где спрашивающий?» Тот человек ответил: «Я». (Абу Са‘ид добавил: «Мы поблагодарили его, когда он показался»). Пророк ﷺ сказал: «Добро не приносит ничего, кроме добра. Поистине, это имушество подобно зелёному и сладкому плоду, а вся растительность, которая растёт на берегу ручья, убивает (от вздутия живота) или почти убивает животное, которое съедает её слишком много, кроме животного, которое поедает аль-хадыру (вид растительности). Такое животное ест до тех пор, пока его бока не раздуваются, затем оно встаёт лицом к солнцу, срыгивает, пережевывает, а потом выделяет навоз и мочу, а затем снова идёт есть. Это мирское богатство подобно сладкому плоду, и если человек зарабатывает его (богатство) законным путём и правильно расходует, то оно является прекрасным помощником, а кто зарабатывает его незаконным путём, тот уподобится тому, кто ест, но никогда не насыщается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6427</td></tr><tr><td>Arabic No</td><td>6427</td></tr><tr><td>Reference</td><td>Book 81 Hadith 16</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Muhammad b. Muhmmad b. Khattab Abu 'Umar :We had a makkuk which was cal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muhammad bin Khallad Abu Umar], ia berkata; kami memiliki takaran yang disebut Makkuk Khalid, dan hal itu adalah (setara) dua kilo dengan kiloan Harun. Muhammad berkata sha' Khalid adalah (setara) sha' Hisyam bin Abdul Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3280</td></tr><tr><td>Arabic No</td><td>3280</td></tr><tr><td>Reference</td><td>Book 22 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал (передавая от Всевышнего Господа): «Поистине, обет не приносит сыну Адама того, что Я не предопределил ему, и обет просто приносит ему то, что предопределено ему… Посредством обета как будто вытягивают нечто из скупого: он начинает давать то, чего не давал раньше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3280</td></tr><tr><td>Arabic No</td><td>3280</td></tr><tr><td>Reference</td><td>Book 22 Hadith 39</td></tr></tbody></table></div>
 

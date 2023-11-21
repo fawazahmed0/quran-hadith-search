@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Dharr:I came to the Prophet (ﷺ) while he was wearing white clothe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami [Abdul Warits] dari [Al Husain] dari [Abdullah bin Buraidah] dari [Yahya bin Ya'mar] dia menceritakan kepadanya bahwa [Abu Aswad Ad Du'ali] telah menceritakan kepadanya bahwa [Abu Dzar] radliallahu 'anhu telah menceritakan kepadanya, dia berkata; "Saya pernah menemui Nabi shallallahu 'alaihi wasallam sementara beliau sedang tidur sambil mengenakan baju putih, lalu aku datang menemuinya dan beliau pun terbangun, beliau bersabda: "Tidaklah seorang hamba yang mengucapkan "LA ILAAHA ILLALLAH" kemudian mati karena itu melainkan ia akan masuk surga." Tanyaku selanjutnya; "Walaupun dia berzina dan mencuri?" beliau menimpali: "Walaupun dia pernah berzina dan mencuri." Tanyaku lagi; "Walaupun dia pernah berzina dan mencuri?" beliau menjawab: "Walaupun dia pernah berzina dan mencuri." Tanyaku lagi; 'Walaupun dia pernah berzina dan mencuri?" beliau menjawab: "Walaupun dia pernah berzina dan mencuri." -walaupun sepertinya Abu Dzar kurang puas- Apabila Abu Dzar menceritakan hal ini, maka dia akan mengatakan; "Walaupun" sepertinya Abu Dzar kurang puas. Abu Abdullah mengatakan; "Hal ini jika terjadi ketika seorang hamba itu meninggal atau sebelum dia meninggal lalu bertaubat dan menyesali perbuatannya serta mengucapkan "LAA ILAAHA ILLALLAH", maka dosa-dosanya akan terampuni
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5827</td></tr><tr><td>Arabic No</td><td>5827</td></tr><tr><td>Reference</td><td>Book 77 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Зарр, да будет доволен им Аллах, сказал:\n— (Однажды) я пришёл к Пророку ﷺ, на котором были белые одежды (в то время, когда) он спал. А потом я пришёл к нему, когда он уже проснулся, и он сказал: «Любой раб (Аллаха), который скажет: “Нет никого, достойного поклонения, кроме Аллаха”, а потом умрёт, не отступившись от этого, обязательно войдёт в Рай». Я спросил: «Даже если он прелюбодействовал, и даже если он воровал?!» (Пророк ﷺ) сказал: «Даже если он прелюбодействовал, и даже если он воровал!» Я (снова) спросил: «Даже если он прелюбодействовал, и даже если он воровал?» (Пророк ﷺ) сказал: «Даже если он прелюбодействовал, и даже если он воровал!» Я (снова) спросил: «Даже если он прелюбодействовал, и даже если он воровал?» — и (Пророк ﷺ в третий раз) сказал: «Даже если он прелюбодействовал, и даже если он воровал, несмотря на то, что это не нравится Абу Зарру!»\nИ когда Абу Зарр рассказывал об этом (впоследствии), он всегда говорил: «Несмотря на то, что это не нравится Абу Зарру!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5827</td></tr><tr><td>Arabic No</td><td>5827</td></tr><tr><td>Reference</td><td>Book 77 Hadith 44</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Usair b. Jabir reported that a delegation from Kufa came to 'Umar and there was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Hasyim bin Al Qasim]; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah]; Telah menceritakan kepadaku [Sa'id Al Jurairi] dari [Abu Nadhrah] dari [Usair bin Jabir] bahwa penduduk Kufah mengutus beberapa utusan kepada [Umar bin Khaththab], dan di antara mereka ada seseorang yang biasa mencela Uwais. Maka Umar berkata; "Apakah di sini ada yang berasal dari Qaran. Lalu orang itu menghadap Umar. Kemudian Umar berkata: 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Sesungguhnya akan datang kepadamu seorang laki-laki dari Yaman yang biasa dipanggil dengan Uwais. Dia tinggal di Yaman bersama Ibunya. Dahulu pada kulitnya ada penyakit belang (berwarna putih). Lalu dia berdo'a kepada Allah, dan Allahpun menghilangkan penyakit itu, kecuali tinggal sebesar uang dinar atau dirham saja. Barang siapa di antara kalian yang menemuinya, maka mintalah kepadanya untuk memohonkan ampun kepada Allah untuk kalian." Telah menceritakan kepada kami [Zuhair bin Harb] dan [Muhammad bin Al Mutsanna] keduanya berkata; Telah menceritakan kepada kami ['Affan bin Muslim]; Telah menceritakan kepada kami [Hammad] yaitu Ibnu Salamah dari [Sa'id Al Jurairi] melalui jalur ini dari ['Umar bin Al Khaththab] dia berkata; Sungguh aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik tabi'in, adalah seorang laki-laki yang dibiasa dipanggil Uwais, dia memiliki ibu, dan dulu dia memiliki penyakit belang ditubuhnya. Carilah ia, dan mintalah kepadanya agar memohonkan ampun untuk kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6490</td></tr><tr><td>Arabic No</td><td>2542.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 319</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6490</td></tr><tr><td>Arabic No</td><td>2542.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 319</td></tr></tbody></table></div>
 

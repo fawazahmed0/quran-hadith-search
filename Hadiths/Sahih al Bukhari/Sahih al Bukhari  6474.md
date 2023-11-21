@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:Allah's Messenger (ﷺ) said, "Whoever can guarantee (the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] telah menceritakan kepada kami [Umar bin Ali] dia mendengar [Abu Hazim] dari [Sahl bin Sa'd] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa dapat menjamin bagiku sesuatu yang berada di antara jenggotnya (mulut) dan di antara kedua kakinya (kemaluan), maka aku akan menjamin baginya surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6474</td></tr><tr><td>Arabic No</td><td>6474</td></tr><tr><td>Reference</td><td>Book 81 Hadith 63</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Сахля ибн Са‘да, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тому, кто поручится мне за то, что находится между его челюстей и между его ног, я поручусь за (то, что он войдёт в) Рай»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6474</td></tr><tr><td>Arabic No</td><td>6474</td></tr><tr><td>Reference</td><td>Book 81 Hadith 63</td></tr></tbody></table></div>
 

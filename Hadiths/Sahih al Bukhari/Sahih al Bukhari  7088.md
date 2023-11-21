@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "There will come a ti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Abdurrahman bin Abdullah bin Abi Sha'Sha'ah] dari [ayahnya] dari [Abu Sa'id Al Khudzri] radliallahu 'anhu, bahwasanya ia menuturkan, Rasulullah shallallahu 'alaihi wasallam bersabda: "tak lama lagi sebaik-baik harta seorang muslim adalah kambing yang ia gembalakan di lereng-lereng gunung dan tempat-tempat hujan turun, ia lari untuk menyelamatkan agamanya dari gelombang fitnah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7088</td></tr><tr><td>Arabic No</td><td>7088</td></tr><tr><td>Reference</td><td>Book 92 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Скоро наступит время, когда лучшим имуществом мусульманина будут овцы, за которыми он будет ходить по вершинам гор и местам выпадения дождя, убегая со своей религией от смут»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7088</td></tr><tr><td>Arabic No</td><td>7088</td></tr><tr><td>Reference</td><td>Book 92 Hadith 39</td></tr></tbody></table></div>
 

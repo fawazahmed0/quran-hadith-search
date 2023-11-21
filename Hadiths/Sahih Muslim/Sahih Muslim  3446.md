@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nubaih b. Wahb reported that 'Umar b. Ubaidullah intended to marry Talha b. 'Uma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; Saya membaca di hadapan [Malik] dari [Nafi'] dari [Nubaih bin Wahb] bahwa Umar bin Ubaidillah hendak menikahkan Thalhah bin Umar dengan putri Syaibah bin Jubair, lantas dia mengutus seseorang kepada Aban bin Utsman agar dia bisa hadir (dalam pernikahan), padahal dia sedang memimpin Haji, lantas [Aban] berkata; Saya pernah mendengar [Utsman bin Affan] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang yang sedang berihram tidak diperbolehkan untuk menikahkan, dinikahkan dan meminang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3446</td></tr><tr><td>Arabic No</td><td>1409.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3446</td></tr><tr><td>Arabic No</td><td>1409.01</td></tr><tr><td>Reference</td><td>Book 16 Hadith 49</td></tr></tbody></table></div>
 

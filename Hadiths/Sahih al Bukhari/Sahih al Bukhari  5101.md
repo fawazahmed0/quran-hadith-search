@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Habiba:(daughter of Abu Sufyan) I said, "O Allah's Messenger (ﷺ)! 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hakam bin Nafi'] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [Urwah bin Az Zubair] bahwa [Zainab binta Abu Salamah] Telah mengabarkan kepadanya bahwa [Ummu Habibah binti Abu Sufyan] Telah mengabarkan kepadanya bahwa ia pernah berkata, "Wahai Rasulullah nikahilah saudaraku binti Abu Sufyan." Maka beliau balik bertanya: "Apakah suka akan hal itu?" aku menjawab, "Ya. Namun aku tidak mau ditinggal oleh Anda. Hanya saja aku suka bila saudariku ikut serta denganku dalam kebaikan." Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Sesungguhnya hal itu tidaklah halal bagiku." Aku berkata, "Telah beredar berita, bahwa Anda ingin menikahi binti Abu Salamah." Beliau bertanya: "Anak wanita Ummu Salamah?" aku menjawab, "Ya." Maka beliau pun bersabda: "Meskipun ia bukan anak tiriku, ia tidaklah halal bagiku. Sesungguhnya ia adalah anak saudaraku sesusuan. Tsuwaibah telah menyusuiku dan juga Abu Salamah. Karena itu, janganlah kalian menawarkan anak-anak dan saudari-saudari kalian padaku." Urwah berkata; Tsuwaibah adalah bekas budak Abu Lahab. Waktu itu, Abu Lahab membebaskannya, lalu Tsuwaibah pun menyusui Nabi shallallahu 'alaihi wasallam. Dan ketika Abu Lahab meninggal, ia pun diperlihatkan kepada sebagian keluarganya di alam mimpi dengan keadaan yang memprihatinkan. Sang kerabat berkata padanya, "Apa yang telah kamu dapatkan?" Abu Lahab berkata."Setelah kalian, aku belum pernah mendapati sesuatu nikmat pun, kecuali aku diberi minum lantaran memerdekakan Tsuwaibah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5101</td></tr><tr><td>Arabic No</td><td>5101</td></tr><tr><td>Reference</td><td>Book 67 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм Хабиба бинт Абу Суфйан, да будет доволен Аллах ими обоими, сказала: «(Однажды) я сказала (Пророку ﷺ): “О Посланник Аллаха, возьми в жёны мою сестру, дочь Абу Суфйана”. Он спросил: “Ты хочешь этого?” Я сказала: “Да, ведь я не единственная твоя жена, и больше всего я хочу, чтобы (именно) моя сестра разделила со мной благо”. Тогда Пророк ﷺ сказал (мне): “Поистине, мне это не дозволено”. Я сказала: “Но нам говорят, что ты хочешь взять в жёны дочь Абу Саламы”. (Пророк ﷺ) спросил: “(Ты имеешь в виду) дочь Умм Саламы?” Я сказала: “Да”. Тогда (Пророк ﷺ) сказал: “Даже если бы она не была моей падчерицей, мне нельзя было бы (жениться) на ней, ибо она является дочерью моего молочного брата. Меня и Абу Саламу выкормила своим молоком Сувайба, и не предлагайте мне (в жёны) ни ваших дочерей, ни ваших сестёр”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5101</td></tr><tr><td>Arabic No</td><td>5101</td></tr><tr><td>Reference</td><td>Book 67 Hadith 39</td></tr></tbody></table></div>
 

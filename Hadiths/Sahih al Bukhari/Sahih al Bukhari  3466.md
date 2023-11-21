@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:That he heard Allah's Messenger (ﷺ) saying, "While a lady
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] telah bercerita kepada kami [Abu Az Zanad] dari ['Abdur Rahman] yang bercerita bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] yang katanya dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada seorang wanita dari kalangan Bani Isra'il yang ketika sedang menyusui bayinya lewat seorang laki-laki tampan dan gagah sambil menunggang tunggangannya di hadapan wanita itu. Wanita itu berkata; "Ya Allah, janganlah Engkau matikan anakku sebelum dia menjadi seperti pemuda itu". Maka spontan saja bayinya berkata; "Ya Allah, janganlah Engkau jadikan aku seperti dia". Lalu dia kembali mengisap puting susu ibunya". Kemudian keduanya lewat di hadapan seorang wanita yang sedang diseret dan dipermainkan lalu ibu sang bayi berkata: "Ya Allah, janganlah Engkau jadikan anakku seperti dia". Maka sang bayi berkata; "Ya Allah, jadikanlah aku seperti dia". Bayi itu selanjutya berkata; "Sesungguhnya pemuda penunggang itu adalah orang kafir sedangkan wanita tadi, orang-orang menuduhnya kamu telah berbuat zina namun dia berkata; "Cukuplah bagiku Allah (sebagai Pelindung) " dan orang-orang mengatakan kamu mencuri maka dia pun tetap berkata: "Cukuplah bagiku Allah (sebagai Pelindung)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3466</td></tr><tr><td>Arabic No</td><td>3466</td></tr><tr><td>Reference</td><td>Book 60 Hadith 133</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Как-то раз, когда одна женщина кормила грудью своего сына, мимо неё проехал (красивый) всадник, и она сказала: “О Аллах, не дай моему сыну умереть, пока он не станет таким же, как он!” — ребёнок же сказал: “О Аллах, не делай меня подобным ему!” — после чего снова принялся сосать грудь. Спустя некоторое время мимо провели какую-то женщину, которую тащили, издеваясь над ней, и (эта женщина) сказала: “О Аллах, не делай его подобным ей!” Тогда (ребёнок) сказал: “О Аллах, сделай меня подобным ей!” Затем ребёнок сказал: “Что касается всадника, то он неверующий, а что же касается женщины, то о ней говорят, что она совершила прелюбодеяние, а она говорит: “Достаточно мне Аллаха /хасбия-Ллаху/”, о ней говорят, что она украла, а она говорит: “Достаточно мне Аллаха /хасбия-Ллаху/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3466</td></tr><tr><td>Arabic No</td><td>3466</td></tr><tr><td>Reference</td><td>Book 60 Hadith 133</td></tr></tbody></table></div>
 

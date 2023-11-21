@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hakim bin Hizam:The Prophet (ﷺ) said, "Both the buyer and the seller 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] telah menceritakan kepada kami [Habban] telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Qatadah] dari [Abu Al Khalil] dari ['Abdullah bin Al Harits] dari [Hakim bin Hizam radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Dua orang yang melakukan jual beli boleh melakukan khiyar (pilihan untuk melangsungkan atau membatalkan jual beli) selama keduanya belum berpisah". Hammam berkata: "Aku dapatkan dalam catatanku (Beliau bersabda): "Dia boleh memilih dengan kesempatan hingga tiga kali. Jika keduanya jujur dan menampakkan cacat dagangannya maka keduanya diberkahi dalam jual belinya dan bila menyembunyikan cacat dan berdusta maka mungkin keduanya akan mendapatkan untung namun akan hilang keberkahan jual beli keduanya". Hibban berkata; Dan telah menceritakan kepada kami [Hammam] telah menceritakan kepada kami [Abu At-Tayyah] bahwa dia mendengar ['Abdullah bin Al Harits] menceritakan tentang hadits ini dari [Hakim bin Hizam radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2114</td></tr><tr><td>Arabic No</td><td>2114</td></tr><tr><td>Reference</td><td>Book 34 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Хакима ибн Хизама, да будет доволен им Аллах, что Пророк ﷺ сказал: «Продавец и покупатель имеют право выбора завершить или отменить сделку до тех пор, пока они не расстанутся. И если они будут правдивы и разъяснят, их сделка будет благодатной для них, а если они солгут и скроют, то может они и получат заработок, однако их сделка будет лишена благодати»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2114</td></tr><tr><td>Arabic No</td><td>2114</td></tr><tr><td>Reference</td><td>Book 34 Hadith 67</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "In Paradise there is a tree which 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] sampai kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Dalam surga terdapat sebatang pohon yang bilamana seorang yang berkendaraan berjalan di bawahnya selama seratus tahun, maka dia belum habis melewati bayangannya. Karena itu, bacalah jika kalian mau yaitu ayat, 'WA ZHILLIM MAMDUUD (Dan naungan -pohon- yang terbentang luas). (QS. Alwaqi'ah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4881</td></tr><tr><td>Arabic No</td><td>4881</td></tr><tr><td>Reference</td><td>Book 65 Hadith 401</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, есть в Раю дерево (таких размеров, что) всадник, который будет скакать в тени его в течение ста лет, не (сможет) преодолеть (всего пути). И, если пожелаете, прочтите (суру, где есть слова) “…в распростертой тени”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4881</td></tr><tr><td>Arabic No</td><td>4881</td></tr><tr><td>Reference</td><td>Book 65 Hadith 401</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id:Abu Huraira once said (to the people), "What will your state be w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3180</td></tr><tr><td>Arabic No</td><td>3180</td></tr><tr><td>Reference</td><td>Book 58 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Абу Хурайра, да будет доволен им Аллах, спросил (людей): «Что вы будете делать, если не (сможете) получить ни динара, ни дирхема?» Его спросили: «А почему ты считаешь, что это может произойти, о Абу Хурайра?» Он сказал: «Клянусь Тем, в Чьей длани душа Абу Хурайры, (я знаю об этом) со слов правдивого и достойного доверия!» (Люди) спросили: «А о чём (он говорил)?» (Абу Хурайра) сказал: «(Он говорил, что гарантии) защиты Аллаха и защиты Его посланника ﷺ будут нарушены, и Всемогущий и Великий Аллах укрепит сердца находящихся под защитой (настолько), что они откажутся отдавать то, чем будут владеть»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3180</td></tr><tr><td>Arabic No</td><td>3180</td></tr><tr><td>Reference</td><td>Book 58 Hadith 22</td></tr></tbody></table></div>
 

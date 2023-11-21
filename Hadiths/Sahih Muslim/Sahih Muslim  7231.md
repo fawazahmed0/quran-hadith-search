@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah al-Ansari reported:I heard Allah's Messenger (ﷺ) say three 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Dawud Sulaiman bin Ma'bad] telah menceritakan kepada kami [Abu An Nu'man Arim] telah menceritakan kepada kami [Mahdi bin Maimun] telah menceritakan kepada kami [Washil] dari [Abu Az Zubair] dari [Jabir bin Abdullah Al Anshari] berkata: Aku mendengar Rasulullah Shallallahu 'alaihi wa Salam bersabda tiga hari sebelum beliau wafat: "Jangalah salah seorang dari kalian meninggal dunia kecuali ia berbaik sangka kepada Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7231</td></tr><tr><td>Arabic No</td><td>2877.03</td></tr><tr><td>Reference</td><td>Book 53 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу аз-Зубайра, что Джабир ибн ‘Абдуллах аль-Ансари (да будет доволен Аллах ими обоими) сказал: «Я слышал, как за три дня до своей смерти Посланник Аллаха ﷺ говорил: “Пусть никто из вас не встречает смерть иначе, как ожидая от Всемогущего и Великого Аллаха (только) хорошего”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7231</td></tr><tr><td>Arabic No</td><td>2877.03</td></tr><tr><td>Reference</td><td>Book 53 Hadith 100</td></tr></tbody></table></div>
 

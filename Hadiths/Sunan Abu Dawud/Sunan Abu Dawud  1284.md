@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Tawus: Ibn 'Umar was asked about praying two rak'ahs before the Maghrib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Syu'aib] dari [Thawus] dia berkata; [Ibnu Umar] pernah di tanya mengenai dua raka'at sebelum Maghrib, dia menjawab; "Aku tidak pernah melihat seorang pun pada masa Rasulullah shallallahu 'alaihi wasallam yang melakukan dua raka'at tersebut, namun beliau memberi keringanan pada dua raka'at setelah Ashar." Abu Daud berkata; aku mendengar Yahya bin Ma'in berkata; "bahwa Perawi yang meriwayatkan hadits dari Thawus adalah Syu'aib (bukan Abu Syu'aib), Syu'bah ragu mengenai nama Syu'aib
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1284</td></tr><tr><td>Arabic No</td><td>1284</td></tr><tr><td>Reference</td><td>Book 5 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Тавуса, что однажды Ибн ‘Умара, да будет доволен Аллах им и его отцом, спросили о совершении двух рак‘атов перед закатной молитвой и он сказал: «Я не видел, чтобы кто-то совершал их при жизни Посланника Аллаха ﷺ, однако он разрешил совершать два рак‘ата после послеполуденной молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1284</td></tr><tr><td>Arabic No</td><td>1284</td></tr><tr><td>Reference</td><td>Book 5 Hadith 35</td></tr></tbody></table></div>
 

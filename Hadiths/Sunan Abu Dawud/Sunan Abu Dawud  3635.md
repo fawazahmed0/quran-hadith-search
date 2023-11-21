@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSirmah: The Prophet (ﷺ) said: If anyone harms (others), Allah will
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Yahya] dari [Muhammad bin Yahya bin Habban] dari [Luluah] dari [Abu Shirmah] -selain Qutaibah telah menyebutkan hadits ini dari Shirmah- sahabat Nabi shallallahu 'alaihi wasallam, dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Barangsiapa menimpakan madharat (keburukan) kepada orang lain maka Allah akan menimpakan madharat kepadanya, dan barangsiapa memperberat orang lain maka Allah akan memperberat dirinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3635</td></tr><tr><td>Arabic No</td><td>3635</td></tr><tr><td>Reference</td><td>Book 25 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сподвижник Пророка ﷺ Абу Сырма передаёт, что Пророк ﷺ сказал: «Кто причиняет вред (мусульманину), тому Аллах причинит вред, и кто создаёт затруднения другим, тому Аллах создаст затруднения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3635</td></tr><tr><td>Arabic No</td><td>3635</td></tr><tr><td>Reference</td><td>Book 25 Hadith 65</td></tr></tbody></table></div>
 

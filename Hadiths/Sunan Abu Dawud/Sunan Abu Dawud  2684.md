@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'id ibn Yarbu' al-Makhzumi: The Prophet (ﷺ) said: on the day of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'], ia berkata; telah menceritakan kepada kami [Zaid bin Al Hubab], ia berkata; telah mengabarkan kepada kami ['Amr bin Utsman bin Abdurrahman bin Sa'id bin Yarbu' Al Makhzumi], ia berkata; telah menceritakan kepadaku [kakekku], dari [ayahku] bahwa Rasulullah shallallahu wa'alaihi wa sallam berkata pada saat penaklukan Mekkah: "Ada empat orang yang tidak aku beri mereka jaminan baik di luar tanah haram maupun di tanah haram." Kemudian beliau menyebutkan mereka dan berkata: serta dua orang budak penyanyi milik Miqyas. Kemudian salah seorang diantara mereka dibunuh dan yang lainnya dilepaskan, kemudian ia masuk Islam. Abu Daud berkata; aku tidak faham sanadnya dari Ibnu Al 'Ala' sebagaimana yang aku inginkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2684</td></tr><tr><td>Arabic No</td><td>2684</td></tr><tr><td>Reference</td><td>Book 15 Hadith 208</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн ‘Усман ибн ‘Абду-р-Рахман ибн Са‘ид ибн Ярбу‘ аль-Махзумий сказал: «Рассказал мне мой дед со слов своего отца о том, что в день завоевания Мекки Посланник Аллаха ﷺ сказал: “Четверым я не дам защиту ни на запретной, ни на обычной территории”, и он назвал их имена». Он сказал: «(Среди этих людей были) две рабыни-певицы, которые принадлежали Макъийсу (ибн Сабабе), одна из которых была убита, а другая была освобождена (из рабства) и приняла ислам»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2684</td></tr><tr><td>Arabic No</td><td>2684</td></tr><tr><td>Reference</td><td>Book 15 Hadith 208</td></tr></tbody></table></div>
 

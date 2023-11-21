@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um 'Atiyya:When we washed the deceased daughter of the Prophet, he said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Khalid Al Hadza'i] dari [Hafshah binti Sirin] dari [Ummu 'Athiyyah radliallahu 'anhu] berkata; Telah bersabda Rasulullah shallallahu 'alaihi wasallam berkenaan pemandian puteri Beliau yang meninggal dunia: "Mulailah dengan anggota badan yang kanan dan anggota wudhu' dari badan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1256</td></tr><tr><td>Arabic No</td><td>1256</td></tr><tr><td>Reference</td><td>Book 23 Hadith 18</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыйя, да будет доволен ею Аллах, сказала: «Когда мы омывали тело дочери Пророка ﷺ он сказал нам: “Начинайте с правой стороны, с тех мест, которые омываются при совершении малого омовения”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1256</td></tr><tr><td>Arabic No</td><td>1256</td></tr><tr><td>Reference</td><td>Book 23 Hadith 18</td></tr></tbody></table></div>
 

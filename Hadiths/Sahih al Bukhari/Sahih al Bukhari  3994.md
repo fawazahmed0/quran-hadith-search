@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'adh:The one who asked (the Prophet) was Gabriel (refer to Hadith)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dari [Yahya] dari [Mu'adz bin Rifa'ah bin Rafi']. Rifa'ah adalah salah seorang Ahlu Badar sedangkan [Rafi'] adalah Ahlu (orang yang ikut dalam bai'at) al 'Aqabah. Dia (Rafi') pernah berkata kepada anaknya; "Tidaklah membahagiakan aku jika ikut perang Badar dijadikan sebagai ganti keikut-sertaan aku dalam bai'at al 'Aqabah. Dia berkata; "Jibril 'alaihis salam pernah bertanya kepada Nabi shallallahu 'alaihi wasallam tentang perkara ini". Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Yazid] telah mengabarkan kepada kami [Yahya] dia mendengar [Mu'adz bin Rifa'ah] bahwa; "Ada malaikat yang bertanya kepada Nabi shallallahu 'alaihi wasallam yang semisalnya" Dan dari [Yahya] bahwa [Yazid bin Al Hadi] mengabarkan kepadanya bahwa dia pernah bersamanya pada hari [Mu'adz] menceritakan hadits ini. Maka Yazid bercerita dimana Mu'adz berkata; "Yang bertanya adalah Jibril 'alaihis salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3994</td></tr><tr><td>Arabic No</td><td>3994</td></tr><tr><td>Reference</td><td>Book 64 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му’аз сказал: «Ангелом, который спросил был Джибриль, мир ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3994</td></tr><tr><td>Arabic No</td><td>3994</td></tr><tr><td>Reference</td><td>Book 64 Hadith 45</td></tr></tbody></table></div>
 

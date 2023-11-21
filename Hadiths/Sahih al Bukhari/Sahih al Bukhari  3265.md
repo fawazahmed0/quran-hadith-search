@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Your (ordinary) fire is one 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il bin Abi Ywais] berkata telah bercerita kepadaku [Malik] dari [Abu Az Zanad] dari [Al A'raj] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Api kalian (di dunia ini) merupakan bagian dari tujuh puluh bagian api neraka jahannam". Ditanyakan kepada Beliau; "Wahai Rasulullah, satu bagian itu saja sudah cukup (untuk menyiksa pelaku maksiat)?" Beliau bersabda: "Ditambahkan atasnya dengan enam puluh sembilan kali lipat yang sama panasnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3265</td></tr><tr><td>Arabic No</td><td>3265</td></tr><tr><td>Reference</td><td>Book 59 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «Ваш огонь составляет собой (только) одну семидесятую часть адского пламени». (Кто-то) сказал: «О Посланник Аллаха, но и этого достаточно!» (Пророк ﷺ) сказал: « (Тем не менее огня в Аду) на шестьдесят девять частей больше, и каждая из них столь же горяча, как и (земной огонь)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3265</td></tr><tr><td>Arabic No</td><td>3265</td></tr><tr><td>Reference</td><td>Book 59 Hadith 75</td></tr></tbody></table></div>
 

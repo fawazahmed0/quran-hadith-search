@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama:Once Allah's Messenger (ﷺ) got up for deliveri
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] berkata, telah mengabarkan kepadaku ['Ali bin Husain] dari [Al Miswar bin Makhramah] berkata, "Rasulullah shallallahu 'alaihi wasallam berdiri, lalu ketika beliau mengucapkan syahadat, aku mendengar beliau mengucapkan: 'Amma ba'du'." Hadits ini dikuatkan oleh [Az Zubaidi] dari [Az Zuhri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>926</td></tr><tr><td>Arabic No</td><td>926</td></tr><tr><td>Reference</td><td>Book 11 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мисвара бин Махрама сказал: «Посланник Аллаха ﷺ встал, и я слышал, как после того как он произнес слова свидетельства, он сказал: “А затем”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>926</td></tr><tr><td>Arabic No</td><td>926</td></tr><tr><td>Reference</td><td>Book 11 Hadith 50</td></tr></tbody></table></div>
 

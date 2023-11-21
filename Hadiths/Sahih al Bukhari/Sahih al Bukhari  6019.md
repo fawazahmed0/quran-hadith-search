@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Shuraih Al-Adawi:My ears heard and my eyes saw the Prophet (ﷺ) wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] dia berkata; telah menceritakan kepadaku [Sa'id Al Maqburi] dari [Abu Syuraih Al 'Adawi] dia berkata; "Saya telah mendengar dengan kedua telingaku dan melihat dengan kedua mataku ketika Rasulullah shallallahu 'alaihi wasallam mengucapkan sabdanya: "Barangsiapa beriman kepada Allah dan hari akhir hendaknya ia memuliakan tetangganya, dan barangsiapa beriman kepada Allah dan hari Akhir hendaknya ia memuliakan tamunya, dan menjamunya" dia bertanya; 'Apa yang dimaksud dengan menjamunya wahai Rasulullah?" beliau menjawab: "yaitu pada siang dan malam harinya, bertamu itu tiga hari, lebih dari itu adalah sedekah bagi tamu tersebut." Dan beliau bersabda: "Barang siapa beriman kepada Allah dan hari akhir, hendaknya dia berkata dengan baik atau diam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6019</td></tr><tr><td>Arabic No</td><td>6019</td></tr><tr><td>Reference</td><td>Book 78 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Шурайх аль-‘Адауи сказал: «Мои уши слышали, а глаза видели, когда Пророк ﷺ сказал: “Пусть тот, кто верует в Аллаха и в Последний день, оказывает почёт своему соседу. И пусть тот, кто верует в Аллаха и в Последний день, оказывает почёт своему гостю в качестве дара /джаиза/ ему”. Его спросили: “О Посланник Аллаха, а каков (размер) его дара?” (Пророк ﷺ) сказал: “День и ночь, (всего же) гостеприимство (следует оказывать) в течение трёх дней, а всё, что сверх этого, будет уже милостыней /садака/ для него. И пусть тот, кто верует в Аллаха и в Последний день, говорит благое или молчит”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6019</td></tr><tr><td>Arabic No</td><td>6019</td></tr><tr><td>Reference</td><td>Book 78 Hadith 50</td></tr></tbody></table></div>
 

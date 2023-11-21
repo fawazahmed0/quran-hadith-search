@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) informed about the news of the deat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah Shallallahu'alaihiwasallam mengumumkan kematian An-Najasyi, pada hari kematiannya lalu Beliau keluar bersama mereka menuju tanah lapang kemudian Beliau membariskan mereka dalam shaf lalu Beliau bertakbir empat kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1333</td></tr><tr><td>Arabic No</td><td>1333</td></tr><tr><td>Reference</td><td>Book 23 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сообщил о кончине негуса (ан-Наджаши) в день его смерти. Он вышел вместе с людьми в мусаллю, выстроил их в ряды и произнес четыре такбира»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1333</td></tr><tr><td>Arabic No</td><td>1333</td></tr><tr><td>Reference</td><td>Book 23 Hadith 88</td></tr></tbody></table></div>
 

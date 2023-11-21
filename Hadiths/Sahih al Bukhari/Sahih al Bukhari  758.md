@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin Samura:Sa'd said, "I used to pray with them a prayer similar 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Abu 'Awanah] dari ['Abdul Malik bin 'Umair] dari [Jabir bin Samrah] berkata, [Sa'd] berkata, "Aku pernah mengimami mereka di antara dua shalat pada malam hari (Maghrib atau Isya) sebagaimana shalatnya Rasulullah shallallahu 'alaihi wasallam, dan aku mengurangi sedikitpun. Aku memanjangkan bacaan pada dua rakaat pertama dan aku pendekkan pada dua rakaat yang akhir." 'Umar? radliallahu 'anhu lalu berkata, "Begitulah anggapan kami terhadapmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>758</td></tr><tr><td>Arabic No</td><td>758</td></tr><tr><td>Reference</td><td>Book 10 Hadith 152</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са‘д сказал: «Я совершал с ними полуденную и послеполуденную молитвы подобно молитве Посланника Аллаха ﷺ. В этих (молитвах) я не делал упущений: первые два рак‘ата я удлинял, а последние два — укорачивал». На что ‘Умар, да будет доволен им Аллах, ответил: «Я так и думал про тебя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>758</td></tr><tr><td>Arabic No</td><td>758</td></tr><tr><td>Reference</td><td>Book 10 Hadith 152</td></tr></tbody></table></div>
 

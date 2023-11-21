@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: I used to write everything which I heard f
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] dan [Abu Bakr bin Abu Syaibah] mereka berkata; telah menceritakan kepada kami [Yahya] dari ['Ubaidullah bin Al Akhnas] dari [Al Walid bin Abdullah bin Abu Mughits] dari [Yusuf bin Mahik] dari [Abdullah bin 'Amru] ia berkata, "Aku menulis segala sesuatu yang aku dengar dari Rasulullah shallallahu 'alaihi wasallam, agar aku bisa menghafalnya. Kemudian orang-orang Quraisy melarangku dan mereka berkata, 'Apakah engkau akan menulis segala sesuatu yang engkau dengar, sementara Rasulullah shallallahu 'alaihi wasallam adalah seorang manusia yang berbicara dalam keadaan marah dan senang? ' Aku pun tidak menulis lagi, kemudian hal itu aku ceritakan kepada Rasulullah shallallahu 'alaihi wasallam. Beliau lalu berisyarat dengan meletakkan jarinya pada mulut, lalu bersabda: "Tulislah, demi jiwaku yang ada di tangan-Nya, tidaklah keluar darinya (mulut) kecuali kebenaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3646</td></tr><tr><td>Arabic No</td><td>3646</td></tr><tr><td>Reference</td><td>Book 26 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Я записывал всё, что слышал от Посланника Аллаха ﷺ желая выучить это наизусть, а курайшиты запретили мне делать это, сказав: “Ты записываешь всё, что слышишь от Посланника Аллаха ﷺ? Но ведь он человек, который говорит и в гневе, и в довольстве”. После этого я перестал записывать. Я рассказал обо всём Посланнику Аллаха ﷺ и он указал рукой на свой рот и сказал: “Пиши, ибо, клянусь Тем, в Чьей руке душа моя, не выходит из него ничего, кроме истины”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3646</td></tr><tr><td>Arabic No</td><td>3646</td></tr><tr><td>Reference</td><td>Book 26 Hadith 6</td></tr></tbody></table></div>
 

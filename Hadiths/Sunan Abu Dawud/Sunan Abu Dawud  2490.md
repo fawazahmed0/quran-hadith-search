@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas bin Malik (may Allaah be pleased with him) said “Umm Haram, daughter of M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Daud Al 'Ataki], telah menceritakan kepada kami [Hammad bin Zaid], dari [Yahya bin Sa'id] dari [Muhammad bin Yahya bin Habban] dari [Anas bin Malik], ia berkata; telah menceritakan kepadaku [Ummu Haram binti Milhan], saudara Ummu Sulaim bahwa Rasulullah shallallahu 'alaihi wasallam tidur siang di rumah mereka, kemudian beliau terbangun dan tertawa, Ummu Haram berkata; lalu aku katakan; wahai Rasulullah, apakah yang membuat engkau tertawa? Beliau berkata: "Aku melihat sebuah kaum yang mengarungi laut ini seperti para raja di atas dipan-dipan." Ia berkata; aku katakan; wahai Rasulullah, doakan kepada Allah agar menjadikanku bagian dari mereka! Beliau berkata: "Sesungguhnya engkau bagian dari mereka." Ummu Haram berkata; kemudian beliau tidur lalu terbangun dan tertawa. Ummu Haram berkata; lalu aku katakan; wahai Rasulullah, apakah yang membuat engkau tertawa? Kemudian beliau mengatakan seperti apa yang telah beliau katakan. Ia berkata; aku katakan; wahai Rasulullah, doakan kepada Allah agar menjadikanku bagian dari mereka! Beliau berkata: "Sesungguhnya engkau bagian dari orang-orang yang pertama." Anas berkata; kemudian 'Ubadah bin Ash Shamit menikahi Ummu Haram, lalu ia berperang di laut dan membawa Ummu Haram bersamanya. Kemudian tatkala kembali di dekatkan kepada Ummu Haram seekor bighal untuk ia naiki. Lalu bighal tersebut menjatuhkan Ummu Haram sehingga lehernya patah dan ia pun meninggal. Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah], dari [Anas bin Malik], bahwa ia mendengarnya berkata; Rasulullah shallallahu 'alaihi wasallam apabila pergi ke Quba' beliau menemui Ummu Haram binti Milhan, ia adalah isteri 'Ubadah bin Ash Shamit. Kemudian ia menemuinya pada suatu hari lalu ia memberi makan beliau dan duduk serta mencari kutu pada rambut kepala beliau, …… Al Qa'nabi menyebutkan hadits ini. Abu Daud berkata; dan Bintu Milhan meninggal di Qubrush. Telah menceritakan kepada kami [Yahya bin Ma'in], telah menceritakan kepada kami [Hisyam bin Yusuf], dari [Ma'mar] dari [Zaid bin Aslam], dari ['Atha' bin Yasar], dari [Saudari Ummu Sulaim Ar Rumaisha'], ia berkata; Nabi shallallahu 'alaihi wasallam tidur kemudian terbangun -dan Saudari Ummu Sulaim Ar Rumaisha'sedang mencuci kepalanya- kemudian beliau terbangun dan tertawa. Lalu ia berkata; wahai Rasulullah, apakah anda mentertawakan rambut kepalaku? Ia berkata; tidak….. dan Yahya menyebutkan hadits ini, dengan menambah dan mengurangi. Abu Daud berkata; Ar Rumaisha' adalah saudari Ummu Sulaim sepersusuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2799، 2800) Sahih Muslim (1912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>2490</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2799، 2800) Sahih Muslim (1912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>2490</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aslam:While Allah's Messenger (ﷺ) was proceeding at night during one 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Zaid bin Aslam] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam pergi dalam salah satu perjalanannya. Dan Umar bin Khattab bersama beliau pada malam hari itu. Umar bertanya kepada beliau tentang suatu hal, namun beliau tidak menjawabnya. Dia bertanya lagi, namun beliau tetap tidak menjawab. Dia bertanya lagi, namun beliau tetap tidak menjawab. ' [Umar] berkata; "Huss kamu, 'Umar. Kamu telah memaksa Rasulullah shallallahu 'alaihi wasallam tiga kali namun semuanya itu tidak ada yang dijawabnya.' 'Umar berkata; "Saya gerakkan untaku, dan aku maju ke hadapan orang-orang, saya khawatir jika turun padaku Al qur'an. tidak berapa lama, saya mendengar orang yang berteriak ke arahku." ('Umar radliallahu 'anhu) berkata; "Saya berkata; "Saya khawatir jika ada ayat yang turun kepadaku, " 'Umar radliallahu 'anhu berkata; "Maka saya mendatangi Rasulullah shallallahu 'alaihi wasallam. Saya mengucapkan salam kepada beliau. Beliau bersabda: 'Telah turun padaku tadi malam satu surat, yang lebih saya cintai daripada matahari terbit'. Beliau membaca: 'INNAA FATAHNA LAKA FATHAN MUBINAA'." (QS. Alfath)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4833</td></tr><tr><td>Arabic No</td><td>4833</td></tr><tr><td>Reference</td><td>Book 65 Hadith 354</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах, что как-то раз, когда Посланник Аллаха ﷺ совершал одну из своих поездок, а ‘Умар, да будет доволен им Аллах, ехал вместе с ним ночью, ‘Умар ибн аль-Хаттаб спросил его о чем-то, но Посланник Аллаха ﷺ не ответил ему, после чего он ещё дважды задал вопрос (Пророку ﷺ), но он так и не ответил ему. Тогда ‘Умар ибн аль-Хаттаб сказал (себе): «Да лишится тебя твоя мать, о ‘Умар, ты (обращался) к Посланнику Аллаха ﷺ трижды, а он ни разу не ответил тебе!»\n‘Умар сказал: «Тогда я пустил своего верблюда вскачь, опередив (остальных) мусульман и опасаясь, что относительно меня ниспосылается (что-то) из (откровений) Корана, но уже скоро я услышал, как кто-то зовет меня, и сказал себе: “(Недаром) я боялся, что обо мне ниспосылаются (откровения) Корана!” И я явился к Посланнику Аллаха ﷺ и приветствовал его, а он сказал: “Сегодня ночью мне была ниспослана сура, и, поистине, она мне дороже всего того, над чем восходит солнце!” — после чего (Пророк ﷺ) прочел: “Поистине, Мы даровали тебе явную победу...”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4833</td></tr><tr><td>Arabic No</td><td>4833</td></tr><tr><td>Reference</td><td>Book 65 Hadith 354</td></tr></tbody></table></div>
 

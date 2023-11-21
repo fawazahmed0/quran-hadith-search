@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Abu Talha was the richest man in Medina amongst the Ansa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada saya [Yahya bin Yahya] berkata, aku membacakan kepada [Malik] dari [Ishaq bin 'Abdullah] bahwa dia mendengar [Anas bin Malik radliallahu 'anhu] berkata; Abu Tholhah adalah orang yang paling banyak hartanya dari kalangan Anshar di kota Madinah berupa dan harta yang paling dicintainya adalah Bairuha' (ladang berikut sumur yang ada di kebun itu) yang menghadap ke masjid dan Rasulullah shallallahu 'alaihi wasallam senantiasa mamemasuki kebun itu dan meminum airnya yang baik tersebut. Ketika turun firman Allah Ta'ala (QS Alu 'Imran: 92 yang artinya): "Kamu sekali-kali tidak akan sampai kepada kebajikan (yang sempurna), sebelum kamu menafkahkan sehahagian harta yang kamu cintai", Abu Tholhah mendatangi Rasulullah shallallahu 'alaihi wasallam lalu berkata; "Wahai Rasulullah, sesungguhnya Allah Ta'ala telah berfirman: "Kamu sekali-kali tidak akan sampai kepada kebajikan (yang sempurna), sebelum kamu menafkahkan sehahagian harta yang kamu cintai", dan sesungguhnya harta yang paling aku cintai adalah Bairuha' itu dan aku menshadaqahkannya di jalan Allah dengan berharap kebaikan dan simpanan pahala di sisiNya, maka ambillah wahai Rasulullah kapanpun baginda mau". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: Wah, inilah harta yang menguntungkan, inilah harta yang menguntungkan. Sungguh aku sudah mendengar apa yang kamu ucapkan dan aku berpendapat sebaiknya kamu shadaqahkan buat kerabatmu". Maka Abu Tholhah berkata: "Aku akan laksanakan wahai Rasululloloh. Maka Abu Tholhah membagi untuk kerabatnya dan anak-anak pamannya". Hadits ini juga diikuti oleh [Isma'il] dari [Malik]. Dan [Rauh] berkata dari [Malik]: "Pahalanya mengalir terus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2318</td></tr><tr><td>Arabic No</td><td>2318</td></tr><tr><td>Reference</td><td>Book 40 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Абу Тальха был самым богатым ансаром в Медине, а больше всего из того, что ему принадлежало, он любил находившуюся напротив мечети (рощу) Байруха, куда часто приходил Посланник Аллаха ﷺ, и где он пил хорошую воду». И после того как был ниспослан аят(, в котором говорится): «Вы не обретёте благочестия, пока не будете расходовать из того, что вы любите…» (сура «Али Имран», аят 92), Абу Тальха подошёл к Посланнику Аллаха ﷺ и сказал: «О Посланник Аллаха, поистине, Всевышний Аллах говорит: “Вы не обретете благочестия, пока не будете расходовать из того, что вы любите”, а больше всего из принадлежащего мне я люблю Байруху, так пусть же она станет милостыней ради Аллаха, а я надеюсь, что благодаря ей обрету благочестие и сделаю себе запас у Аллаха. Используй её, о Посланник Аллаха, как захочешь». Посланник Аллаха ﷺ воскликнул: «Прекрасно! Это имущество принесёт доход, обязательно принесёт! Я слышал твои слова и, поистине, я считаю, что тебе следует отдать её своим родственникам». Абу Тальха сказал: «Я сделаю это, о Посланник Аллаха», а потом он разделил её между своими родственниками и сыновьями своего дяди
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2318</td></tr><tr><td>Arabic No</td><td>2318</td></tr><tr><td>Reference</td><td>Book 40 Hadith 17</td></tr></tbody></table></div>
 

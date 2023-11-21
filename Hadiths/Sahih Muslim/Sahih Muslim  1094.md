@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Rabi'a b. Ka'b said:I was with Allah's Messenger (ﷺ) one night. and I brought 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [al-Hakam bin Musa Abu Shalih] telah menceritakan kepada kami [Hiql bin Ziyad] dia berkata, "Saya mendengar [al-Auza'i] berkata, telah menceritakan kepadaku [Yahya bin Abi Katsir] telah menceritakan kepadaku [Abu Salamah] telah menceritakan kepadaku [Rabi'ah bin Ka'ab al-Aslami] dia berkata, "Saya bermalam bersama Rasulullah Shallallahu'alaihiwasallam, lalu aku membawakan air wudhunya dan air untuk hajatnya, maka beliau bersabda kepadaku, 'Mintalah kepadaku.' Maka aku berkata, 'Aku meminta kepadamu agar aku menemanimu di surga -dia berkata, 'Atau dia selain itu'. Aku menjawab, 'Itulah yang dia katakan-maka beliau menjawab, 'Bantulah aku untuk mewujudkan keinginanmu dengan banyak melakukan sujud
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1094</td></tr><tr><td>Arabic No</td><td>489</td></tr><tr><td>Reference</td><td>Book 4 Hadith 256</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Раби‘а ибн Ка‘б аль-Аслями сказал: «Однажды я ночевал у Посланника Аллаха ﷺ и принёс ему воду, предназначенную для его омовения. Он сказал мне: “Проси!” Я сказал: “Я прошу у тебя того, чтобы быть твоим спутником в Раю”. Тогда Посланник Аллаха ﷺ сказал: “Может быть (ты попросишь) что-то другое?” Я сказал: “Только это”. Тогда он сказал: “Так помоги же мне в этом, совершая много земных поклонов”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1094</td></tr><tr><td>Arabic No</td><td>489</td></tr><tr><td>Reference</td><td>Book 4 Hadith 256</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah reported that when this verse was revealed:" There is no harm on person
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Minjab bin Al Harits At Tamimi] dan [Sahl bin 'Utsman] dan ['Abdullah bin 'Amir bin Zurarah Al Hadhrami] dan [Suwaid bin Sa'id] serta [Walid bin Syuja']. Berkata; [Sahl] dan [Minjab]; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami ['Ali bin Mushir] dari [Al A'masy] dari [Ibrahim] dari [Alqamah] dari [Abdullah] dia berkata; "ketika turun ayat; "Tidak ada dosa bagi orang-orang yang beriman dan mengerjakan amalan yang saleh karena memakan makanan yang telah mereka makan dahulu, apabila mereka bertakwa serta beriman, dan mengerjakan amalan-amalan yang saleh, Kemudian mereka tetap bertakwa dan beriman…" hingga akhir ayat (QS. ALmaidah 93), Rasulullah shallallahu 'alaihi wasallam berkata kepadaku: 'Kamu termasuk dari golongan mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6325</td></tr><tr><td>Arabic No</td><td>2459</td></tr><tr><td>Reference</td><td>Book 44 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6325</td></tr><tr><td>Arabic No</td><td>2459</td></tr><tr><td>Reference</td><td>Book 44 Hadith 155</td></tr></tbody></table></div>
 

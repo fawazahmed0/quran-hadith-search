@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:Between the time when the Messenger of Allah (ﷺ) finished the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdurrahman bin Ibrahim] dan [Nashr bin 'Ashim] dan ini lafadznya Nashr, keduanya berkata; telah menceritakan kepada kami [Al Walid] telah menceritakan kepada kami [Al Auza'i]. Nashr mengatakan; dari [Ibnu Abu Dzi'b] dan [Auza'i] dari [Az Zuhri] dari ['Urwah] dari [Aisyah] radliallahu 'anha, dia berkata; "Rasulullah shallallahu 'alaihi wasallam biasa mengerjakan shalat malam di antara setelah shalat Isya' hingga terbit fajar. Beliau biasa mengerjakan sebelas raka'at, beliau salam setiap satu raka'at, dan witir satu raka'at. lama beliau diam dalam sujudnya sekitar salah seorang dari kalian membaca lima puluh ayat, yaitu sebelum beliau mengangkat kepala. Apabila Mu'adzin selesai mengumandangkan adzan yang pertama untuk shalat subuh, beliau berdiri untuk mengerjakan shalat dua raka'at secara singkat, kemudian beliau berbaring di atas rusuk kanannya, sehingga Mu'adzin mengumandangkan adzan (kedua)." Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Ibnu Abu Dzi'b], ['Amru bin Al Harits] dan [Yunus bin Yazid], bahwa [Ibnu Syihab] telah mengabarkan kepada mereka, dengan sanad dan maksud yang sama, dia berkata; "…Beliau witir satu raka'at, dan bersujud sekali (sujud terakhir) yang lamanya sekitar seseorang dari kalian membaca lima puluh ayat, yaitu sebelum beliau mengangkat kepalanya. Dan apabila seorang Mu'adzin selesai mengumandangkan adzan untuk shalat subuh, dan fajar telah nampak…" kemudian dia melanjutkan maksud hadits tersebut." Perawi berkata; "Dan sebagian dari mereka saling melengkapi atas sebagian yang lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1336</td></tr><tr><td>Arabic No</td><td>1336</td></tr><tr><td>Reference</td><td>Book 5 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах: «Обычно Посланник Аллаха ﷺ совершал в период между вечерней молитвой /‘иша/ и рассветом по одиннадцать рак‘атов. Он произносил слова приветствия после каждых двух рак‘атов и завершал свою молитву одним рак‘атом. При этом каждый его земной поклон продолжался столько времени, что любому из вас его хватило бы на то, чтобы прочитать пятьдесят аятов, и только после этого он поднимал голову. Кроме того, после того, как муаззин заканчивал призыв на утреннюю молитву, он всегда совершал дополнительную молитву в два лёгких рак‘ата, после чего лежал на правом боку до тех пор, пока к нему не приходил муаззин, звавший его на молитву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1336</td></tr><tr><td>Arabic No</td><td>1336</td></tr><tr><td>Reference</td><td>Book 5 Hadith 87</td></tr></tbody></table></div>
 

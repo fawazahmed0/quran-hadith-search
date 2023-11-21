@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "The people will be thrown into the (Hell)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abu Al Aswad] Telah menceritakan kepada kami [Harami bin 'Umarah] Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Anas radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: orang-orang dilemparkan ke neraka hingga neraka itu berkata; 'Apakah ada tambahan lagi? Maka Allah meletakan kaki-Nya, dan neraka itu berkata; 'Cukup, cukup
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 65 Hadith 369</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Людей) станут бросать в огонь, который будет говорить: “Нет ли добавки?” — до тех пор, пока (Аллах) не наступит (на него) Своей ногой, и тогда он скажет: “Довольно, довольно!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 65 Hadith 369</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Wa'ala as-Saba'i (who was an Egyptian) asked 'Abdullah b. Abbas
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Suwaid bin Sa'id] telah menceritakan kepada kami [Hafsh bin Maisarah] dari [Zaid bin Aslam] dari [Abdurrahman bin Wa'lah] seorang laki-laki dari penduduk Mesir, bahwa dia menemui [Abdullah bin Abbas]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Abu At Thahir] dan ini adalah lafadznya, telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Malik bin Anas] dan yang lain, dari [Zaid bin Aslam] dari [Abdurrahman bin Wa'lah As Saba'i] dari penduduk Mesir, bahwa dia pernah bertanya kepada [Abdullah bin Abbas] tentang perasan anggur. Ibnu Abbas menjawab, "Suatu ketika seorang laki-laki menghadiahkan sekantong khamer kepada Rasulullah shallallahu 'alaihi wasallam, beliau pun bersabda kepadanya: "Belumtahukah kamu bahwa Rasulullah shallallahu 'alaihi wasallam telah mengharamkannya?" Laki-laki itu menjawab, "Belum." Kemudian dia berbisik kepada orang yang ada di sampingnya, maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Apa yang kamu bisikkan kepadanya?" dia menjawab, "Saya memerintahkan supaya menjualnya." Beliau bersabda: "Sesungguhnya Dzat yang mengharamkan untuk meminumnya juga mengharamkan untuk menjualnya." Abu Sa'id melanjutkan, "Kemudian laki-laki tersebut membuka kantung khamer dan menumpahkan isinya semua." Telah menceritakan kepadaku [Abu Thahir] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Sulaiman bin Bilal] dari [Yahya bin Sa'id] dari [Abdurrahman bin Wa'lah] dari [Abdullah bin Abbas] dari Rasulullah shallallahu 'alaihi wasallam seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4044</td></tr><tr><td>Arabic No</td><td>1579.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 83</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4044</td></tr><tr><td>Arabic No</td><td>1579.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 83</td></tr></tbody></table></div>
 

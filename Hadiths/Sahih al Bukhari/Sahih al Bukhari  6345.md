@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) used to invoke Allah at the time of distre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Qatadah] dari [Abu 'Aliyah] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; "Nabi shallallahu 'alaihi wasallam biasa berdo'a ketika dalam kesulitan, beliau mengucapkan: "LAA ILAAHA ILLALLAHUL 'ADZIIM AL HALIIM LAA ILAAHA ILLALLAH RABBUL 'ARSYIL 'AZHIIM (Tiada Ilah selain Allah Yang Maha Agung dan Maha Penyantun. Tiada ilah selain Allah, Tuhan langit dan bumi serta Tuhan arasy yang mulia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6345</td></tr><tr><td>Arabic No</td><td>6345</td></tr><tr><td>Reference</td><td>Book 80 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что когда Пророком ﷺ овладевала скорбь, он обращался к Аллаху с мольбой, говоря: «Нет божества достойного поклонения, кроме Аллаха Великого, Выдержанного, нет божества достойного поклонения, кроме Аллаха, Господа небес и земли, нет божества достойного поклонения, кроме Аллаха, Господа великого Трона!». \n/Ля иляха илля-Ллаху-ль-‘Азымуль-Халим, ля иляха илля-Ллаху, Раббу-с-самаввати, валь-ард, ля иляха илля-Ллаху, Раббуль-‘аршиль‘азым
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6345</td></tr><tr><td>Arabic No</td><td>6345</td></tr><tr><td>Reference</td><td>Book 80 Hadith 42</td></tr></tbody></table></div>
 

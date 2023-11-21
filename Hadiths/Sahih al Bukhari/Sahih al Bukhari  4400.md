@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated (Abdullah) bin 'Umar:The Prophet (ﷺ) arrived (at Mecca) in the year o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] Telah menceritakan kepada kami [Suraij bin An Nu'man] Telah menceritakan kepada kami [Fulaih] dari [Nafi'] dari [Ibnu 'Umar] radliallahu 'anhu ia berkata: Pada sa'at fathu Makkah Rasulullah shallallahu 'alaihi wasallam memasuki Baitullah dengan mengendarai onta Qushwa bersama Usamah bin Zaid. Turut pula bersama beliau Bilal dan Utsman bin Thalhah hingga onta tersebut berhenti di halaman Ka'bah. Kemudian beliau shallallahu 'alaihi wasallam meminta kunci Ka'bah kepada Utsman bin Thalhah, lalu dia pun memberikannya dan membukakannya. Rasul pun segera masuk diikuti Usamah, Bilal, dan Utsman bin Thalhah. Pintu itu segera ditutup, beliau tinggal lama di dalam hingga siang. Lalu mereka keluar lagi. Orang-orang pun segera berdatangan ingin ikut masuk. Abdullah berkata: Aku segera menemui orang-orang itu, dan aku mendapati [Bilal] sedang berdiri di depan pintu. Aku bertanya kepadanya: Dimana Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat? Dia menjawab; "Di antara dua tiang yang berada di depan. Karena Ka'bah terdiri dari enam tiang dan dua garis. Beliau shalat di antara dua tiang pada garis terdepan dengan menjadikan pintu ka'bah berada di belakang beliau. Beliau menghadapkan wajahnya ke arah ketika beliau menyambut anda saat anda masuk ke Ka'bah. Yaitu di antara kedua temboknya. Abdullah berkata: Tapi aku lupa tidak menanyakan kepadanya berapa raka'at beliau shalat?.' Sedangkan tempat yang beliau gunakan shalat adalah dekat dengan 'Marmarah Hamra' (batu marmer merah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4400</td></tr><tr><td>Arabic No</td><td>4400</td></tr><tr><td>Reference</td><td>Book 64 Hadith 423</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «В год (завоевания Мекки) Пророк ﷺ, посадивший позади себя Усаму, въехал (в город на своей верблюдице по кличке) аль-Касва, и вместе с ним были Биляль и ‘Усман ибн Тальха. (Пророк ﷺ) заставил верблюдицу опуститься на колени у Каабы, а потом велел ‘Усману: “Принеси нам ключ”. (‘Усман) принес ему ключ и открыл для него дверь, а потом Пророк ﷺ Усама, Биляль и ‘Усман вошли внутрь, и двери за ними были заперты. Проведя (там) значительную часть дня, (Пророк ﷺ) вышел наружу, и туда поспешили люди, которых я опередил. Увидев, стоявшего за дверью Биляля, я спросил его: “Где совершил молитву Посланник Аллаха ﷺ?” Он сказал: “Он молился между двумя этими передними столбами”, а тогда крыша Каабы покоилась на шести столбах, расположенных в два ряда. (Потом Биляль сказал): “Он молился между двумя столбами первого ряда, и при этом дверь Каабы была у него за спиной, а смотрел он в ту сторону, куда ты смотришь, когда входишь в Каабу, и (расстояние) между ним и стеной (равнялось трем локтям)”».\n(‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими,) сказал: «И я забыл спросить его, сколько (рак‘атов) молитвы совершил (Пророк ﷺ), который молился рядом с куском красного мрамора»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4400</td></tr><tr><td>Arabic No</td><td>4400</td></tr><tr><td>Reference</td><td>Book 64 Hadith 423</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Yusuf bin Mahik:I was in the house of 'Aisha, the mother of the Believe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] Telah menceritakan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] mengabarkan kepada mereka seraya berkata; Telah mengabarkan kepadaku [Yusuf bin Mahik] dia berkata; Sungguh aku berada di samping [Aisyah] ketika dia berkata; Sesungguhnya telah diturunkan kepada Muhammad shallallahu 'alaihi wasallam ketika beliau di Makkah, dan pada waktu itu aku bersama seorang budak sedang bermain-main. Ayat itu berbunyi: Sebenarnya hari kiamat itulah hari yang dijanjikan kepada mereka dan kiamat itu lebih dahsyat dan lebih pahit." (Al Qamar:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>4876</td></tr><tr><td>Reference</td><td>Book 65 Hadith 397</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда я была маленькой девочкой и играла (в детские игры), Мухаммаду ﷺ в Мекке был ниспослан (аят, в котором сказано): “…но Час этот, который является назначенным им сроком, окажется ещё ужаснее и горше!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>4876</td></tr><tr><td>Reference</td><td>Book 65 Hadith 397</td></tr></tbody></table></div>
 

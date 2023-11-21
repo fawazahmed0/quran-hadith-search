@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Messenger of Allah (ﷺ) used to observe the morning prayer,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Nashr bin Ali Al Jahdlami] dan [Ishaq bin Musa Al Anshari], keduanya berkata; telah menceritakan kepada kami [Ma'an] dari [Malik] dari [Yahya bin Said] dari ['Amarah] dari ['Aisyah] katanya; "Rasulullah shallallahu 'alaihi wasallam pernah shalat subuh, sementara para wanita pulang dengan mengerudungi kepala mereka dengan kain, hingga mereka tidak dikenal karena keadaan masih gelap gulita." Kata [Al Anshari] dalam periwayatannya; "Mereka lipatkan kain di kepalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1459</td></tr><tr><td>Arabic No</td><td>645.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 292</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Аиша, сказала: «Когда Посланник Аллаха ﷺ совершал утреннюю молитву, то женщины закончив (молитву) уходили, закутывавшись в свои покрывала, и никто их не узнавал в предрассветном сумраке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1459</td></tr><tr><td>Arabic No</td><td>645.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 292</td></tr></tbody></table></div>
 

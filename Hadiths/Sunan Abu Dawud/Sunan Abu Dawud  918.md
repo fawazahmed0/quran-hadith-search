@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuQatadah: We were sitting in the mosque when the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah yaitu Ibnu Sa'id] telah menceritakan kepada kami [Al Laits] dari [Sa'id bin Abu Sa'id] dari ['Amru bin Sulaim Az Zuraqi] bahwa dia mendengar [Abu Qatadah] berkata; "Ketika kami duduk-duduk di Masjid, Rasulullah shallallahu 'alaihi wasallam muncul menemui kami sambil menggendong Umamah binti Abu Al 'Ash bin Ar Rabi' -ibunya adalah Zainab binti Rasulullah shallallahu 'alaihi wasallam- ketika itu Umamah masih kacil, beliau menggendongnya di atas pundak, kemudian Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat, sedangkan Umamah masih di atas pundak beliau, apabila ruku' beliau meletakkan Umamah, jika berdiri, beliau menggendongnya kembali. beliau melakukan yang demikian itu hingga selesai shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5996) Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>918</td></tr><tr><td>Arabic No</td><td>918</td></tr><tr><td>Reference</td><td>Book 2 Hadith 529</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Катады, да будет доволен им Аллах: «Однажды, когда мы сидели в мечети, Посланник Аллаха ﷺ вышел к нам, держа на руках Умаму бинт Абу аль-‘Ас ибн ар-Раби‘, матерью которой была Зейнаб, дочь Посланника Аллаха ﷺ. Умама в то время была совсем маленькой девочкой, и он нёс её на руках. Посланник Аллаха ﷺ совершил молитву, всё так же держа её на руках. Он опускал её, когда совершал поясной поклон, а когда выпрямлялся, снова брал её на руки, и он делал это до конца молитвы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5996) Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>918</td></tr><tr><td>Arabic No</td><td>918</td></tr><tr><td>Reference</td><td>Book 2 Hadith 529</td></tr></tbody></table></div>
 

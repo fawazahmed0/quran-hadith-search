@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: "The Prophet (ﷺ) said, "Last night a big demon (afreet) 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] berkata, telah mengabarkan kepada kami [Rauh] dan [Muhammad bin Ja'far] dari [Syu'bah] dari [Muhammad bin Ziyad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya 'Ifrit dari bangsa Jin baru saja menggaguku untuk memutus shalatku tapi Allah memenangkan aku atasnya, dan aku berkehendak untuk mengikatnya di salah satu tiang masjid sampai waktu shubuh sehingga tiap orang dari dapat kalian dapat melihatnya. Namun aku teringat ucapan saudaraku Sulaiman Alaihis Salam ketika berdo'a: '(Ya Rabb, anugerahkanlah kepadaku kerajaan yang tidak akan dimiliki oleh seorangpun setelah aku) ' (QS. Shaad: 35). Rauh berkata, "Kemudian beliau mengusirnya dalan keadaan hina
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>461</td></tr><tr><td>Arabic No</td><td>461</td></tr><tr><td>Reference</td><td>Book 8 Hadith 109</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Пророк ﷺ сказал: «Поистине, вчера ко мне явился дух /ифрит/ из числа джиннов /или же он сказал что-то подобное/, чтобы прервать мою молитву, но Аллах помог мне справиться с ним. (Сначала) я хотел привязать его к одному из столбов мечети, чтобы утром все вы посмотрели на него, но (потом) вспомнил слова моего брата Сулеймана(, который сказал): “Господь мой! Прости меня и даруй мне (такую) власть, которой после меня не будет обладать уже никто”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>461</td></tr><tr><td>Arabic No</td><td>461</td></tr><tr><td>Reference</td><td>Book 8 Hadith 109</td></tr></tbody></table></div>
 

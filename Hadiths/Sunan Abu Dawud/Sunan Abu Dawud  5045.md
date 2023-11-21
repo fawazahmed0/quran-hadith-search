@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hafsah, Ummul Mu'minin: When the Messenger of Allah (ﷺ) wanted to go 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Aban] berkata, telah menceritakan kepada kami [Ashim] dari [Ma'bad bin Khalid] dari [Sawa] dari [Hafshah] isteri nabi shallallahu 'alaihi wasallam, ia berkata, "Rasulullah shallallahu 'alaihi wasallam jika ingin tidur, beliau meletakkan tangan kananya di bawah pipi. Kemudian beliau membaca doa: 'Ya Allah, lindungilah aku dari siksa-Mu pada hari Engkau bangkitkan semua makhluk. ' Sebanyak tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5045</td></tr><tr><td>Arabic No</td><td>5045</td></tr><tr><td>Reference</td><td>Book 43 Hadith 273</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хафсы, да будет доволен ею Аллах, жены Пророка ﷺ что когда Посланник Аллаха ﷺ хотел заснуть, он клал свою правую руку под голову, а потом говорил три раза: «О Аллах, упаси меня от Твоего наказания в тот День, когда Ты воскресишь Своих рабов! /Аллахумма, кы-ни ‘азаба-кя йаума таб‘асу ‘ибада-кя/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5045</td></tr><tr><td>Arabic No</td><td>5045</td></tr><tr><td>Reference</td><td>Book 43 Hadith 273</td></tr></tbody></table></div>
 

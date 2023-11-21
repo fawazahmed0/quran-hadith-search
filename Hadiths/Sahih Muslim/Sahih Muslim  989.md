@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar reported:I heard Allah's Messenger (ﷺ) say: Don't prevent you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata, telah mengabarkan kepadaku [Salim bin Abdullah] bahwa [Abdullah bin Umar] berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda, "Janganlah kalian menghalangi istri-istri kalian ke masjid apabila mereka meminta izin kepadanya." Perawi berkata, "Bilal bin Abdullah berkata, 'Demi Allah, sungguh kami akan melarang mereka'." Perawi berkata, "Maka Abdullah menghadapnya, lalu mencelanya dengan celaan yang jelek yang aku tidak pernah mendengarnya mencelanya seperti itu sama sekali, seraya dia berkata, 'Aku mengabarkan kepadamu dari Rasulullah Shallallahu'alaihiwasallam, tetapi kamu malah (menentang) dengan berkata, 'Demi Allah, kami akan menghalangi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>442.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Салима ибн ‘Абдуллаха, что ‘Абдуллах ибн ‘Умар сказал: «Не запрещайте вашим женщинам посещать мечети, если они испросят вашего разрешения». Тогда Биляль ибн ‘Абдуллах сказал: «Клянусь Аллахом, мы непременно будем им это запрещать!» Тогда ‘Абдуллах повернулся к нему и стал его бранить и ругать такими словами, которые я никогда от него не слышал, а затем сказал: «Я рассказываю тебе от Посланника Аллаха ﷺ, а ты говоришь: “Клянусь Аллахом, мы непременно будем им это запрещать!”?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>442.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 151</td></tr></tbody></table></div>
 

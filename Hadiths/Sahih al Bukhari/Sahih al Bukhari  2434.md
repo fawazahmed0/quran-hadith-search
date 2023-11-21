@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:When Allah gave victory to His Apostle over the people of M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepada kami [Al Awza'iy] berkata, telah menceritakan kepadaku [Yahya bin Abi Katsir] berkata, telah menceritakan kepadaku [Abu Salamah bin 'Abdurrahman] berkata, telah menceritakan kapadaku [Abu Hurairah radliallahu 'anhu] berkata; Ketika Allah subhanahu wata'ala membukakan kemenangan bagi RasulNya shallallahu 'alaihi wasallam atas Kota Makkah, Beliau berdiri di hadapan manusia, maka Beliau memuji Allah dan mensucikanNya kemudian bersabda: "Sesungguhnya Allah telah melarang menawan gajah di Makkah ini dan menyerahkan urusannya kepada RasulNya dan Kaum Mu'minin, karena di tanah Makkah ini tidaklah dihalalkan bagi seorangpun sebelumku dan sesungguhnya pernah dihalalkan buatku pada suatu masa di suatu hari dan juga tidak dihalalkan bagi seseorang setelah aku. Maka tidak boleh diburu binatang buruannya, tidak boleh dipotong durinya, dan tidak boleh diambil barang temuan disana kecuali untuk diumumkan dan dicari pemiliknya. Barangsiapa yang dibunuh maka keluarga korban memiliki dua pilihan apakah dia akan meminta tebusan uang atau meminta balasan dari keluarga korban". Maka berkatalah Al 'Abbas: "Kecuali pohon Idzhir, karena pohon itu kami gunakan sebagai wewangian di kuburan kami dan di rumah kami". Maka Rasulullah shallallahu 'alaihi wasallam bersabda; "Ya, kecuali pohon Idzhir". Lalu berdiri Abu Syah, seorang penduduk Yaman dan berkata: "Wahai Rasulullah, tuliskanlah buatku? Rasulullah shallallahu 'alaihi wasallam berkata: "Tuliskanlah buat Abu Syah". Berkata, Al Walid bin Muslim; Aku bertanya kepada Al Awza'iy: "Apa yang ia maksud dengan meminta tuliskanlah buatku wahai Rasulullah?" Dia berkata: "Isi khathbah tadi yang dia dengar dari Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2434</td></tr><tr><td>Arabic No</td><td>2434</td></tr><tr><td>Reference</td><td>Book 45 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Когда Всевышний Аллах даровал Своему Посланнику ﷺ победу (в день покорении Мекки), он встал среди людей, восхвалил и прославил Аллаха, затем сказал: “Поистине, Аллах не допустил к Мекке слона, однако Он дал власть над ней Своему Посланнику и верующим. Она не была дозволенной никому до меня, и для меня это (сражение в Мекке) стало дозволенным лишь на определённое время в течение дня, и она не будет дозволенной не для кого после меня. В Мекке нельзя вспугивать дичь, срезать кустарники, и поднимать найденное, если только (человек не делает это) для того, чтобы объявить о своей находке (людям). Тот, у кого убьют близкого родственника, имеет право выбрать одно из двух: либо получить компенсацию /дийа/ за убитого, либо воздать убийце равным”. В это время аль-‘Аббас, да будет доволен им Аллах, сказал: “Кроме изхира (душистый тростник), который мы используем для наших могил и домов?” Посланник Аллаха ﷺ сказал: “Кроме изхира”. После этого Абу Шах, человек из числа жителей Йемена, встал и сказал: “О Посланник Аллаха! Запишите для меня эти слова”, и Посланник Аллаха ﷺ сказал: “Запишите (эти слова) для Абу Шаха!”». Я (один из передатчиков) спросил аль-Ауза‘и: «Что он имел ввиду, говоря: “Запишите для меня эти слова?”» Он ответил: «Речь идёт о проповеди, которую (Абу Шах) слышал от Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2434</td></tr><tr><td>Arabic No</td><td>2434</td></tr><tr><td>Reference</td><td>Book 45 Hadith 9</td></tr></tbody></table></div>
 

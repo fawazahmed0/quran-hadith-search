@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, Allah divided Mercy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman Al Hakam bin Nafi' Al Bahrani] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] telah mengabarkan kepada kami [Sa'id bin Al Musayyib] bahwa [Abu Hurairah] berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah menjadikan rahmat (kasih sayang) seratus bagian, maka dipeganglah disisi-Nya sembilan puluh sembilan bagian dan diturunkan-Nya satu bagian ke bumi. Dari yang satu bagian inilah seluruh makhluk berkasih sayang sesamanya, sehingga seekor kuda mengangkat kakinya karena takut anaknya akan terinjak olehnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6000</td></tr><tr><td>Arabic No</td><td>6000</td></tr><tr><td>Reference</td><td>Book 78 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Аллах разделил милосердие на сто частей, оставив девяносто девять частей у Себя и ниспослав на землю одну часть, благодаря которой милосердие по отношению друг к другу проявляют все создания, (в том числе и) лошади, которые поднимают свои копыта (повыше и удаляют) их от своих детёнышей, опасаясь задеть их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6000</td></tr><tr><td>Arabic No</td><td>6000</td></tr><tr><td>Reference</td><td>Book 78 Hadith 31</td></tr></tbody></table></div>
 

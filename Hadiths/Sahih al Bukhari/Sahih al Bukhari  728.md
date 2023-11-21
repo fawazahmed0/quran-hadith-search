@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:One night I stood to the left of the Prophet (ﷺ) in the pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Tsabit bin Yazid] telah menceritakan kepada kami ['Ashim] dari [Asy Sya'bi] dari [Ibnu 'Abbas] radliallahu 'anhu berkata, "Pada suatu malam aku pernah shalat di samping kanan Nabi shallallahu 'alaihi wasallam, beliau lalu memegang tanganku atau bahuku kemudian memindahkan aku ke sebelah kirinya." Ibnu 'Abbas berkata, "Beliau memegangku dengan menggunakan tangannya dari arah belakangku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 10 Hadith 122</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аш-Ша‘би передал, что Ибн ‘Аббас, да будет Аллах доволен им и его отцом, сказал: «Однажды ночью, совершая намаз, я встал слева от Пророка ﷺ, но он взял меня за руку (или: предплечье) и поставил справа от себя. И он указал своей рукой сзади меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 10 Hadith 122</td></tr></tbody></table></div>
 

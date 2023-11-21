@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud al-Ansari:The Prophet (ﷺ) said, "If one recites the last t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Al A'masy] ia berkata; Telah menceritakan kepadaku [Ibrahim] dari ['Alqamah] dan [Abdurrahman bin Yazid] dari [Abu Mas'ud Al Anshar] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Dua ayat terakhir dari surat Al Baqarah, siapa yang membacanya pada suatu malam, niscaya kedua ayat itu akan mencukupinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5040</td></tr><tr><td>Arabic No</td><td>5040</td></tr><tr><td>Reference</td><td>Book 66 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Мас‘уда аль-Ансари, что Пророк ﷺ сказал: «Кто в течение ночи прочитает два последних аята из суры “аль-Бакара”, тому их будет достаточно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5040</td></tr><tr><td>Arabic No</td><td>5040</td></tr><tr><td>Reference</td><td>Book 66 Hadith 64</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Tawus:Ibn 'Abbas said, "Allah's Messenger (ﷺ) set out from Medina to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Manshur] dari [Mujahid] dari [Thowus] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; "Rasulullah shallallahu 'alaihi wasallam berangkat dari Madinah menuju Makkah dalam keadaan berpuasa sehingga ketika sampai di daerah 'Usfan, Beliau meminta air lalu Beliau mengangkat air itu dengan tangan Beliau agar dilihat oleh orang banyak, lalu Beliau berbuka hingga tiba di Makkah. Kejadian ini di bulan Ramadhan". Dan Ibnu 'Abbas radliallahu 'anhuma juga berkata: "Dan Rasulullah shallallahu 'alaihi wasallam juga pernah berpuasa dalam suatu perjalanan Beliau dan juga pernah berbuka. Maka siapa yang mau silakan berpuasa dan siapa yang mau silakan berbuka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1948</td></tr><tr><td>Arabic No</td><td>1948</td></tr><tr><td>Reference</td><td>Book 30 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Однажды Посланник Аллаха ﷺ отправился из Медины в Мекку. И он постился до тех пор, пока не достиг ‘Усфана, где он велел принести себе воду и поднял её, чтобы люди видели. Затем он прервал пост и не постился до тех пор, пока не достиг Мекки, а было это в рамадане». \nИбн ‘Аббас говорил: «Посланник Аллаха ﷺ постился и разговелся, и кто хотел, продолжил поститься, а кто хотел, разговелся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1948</td></tr><tr><td>Arabic No</td><td>1948</td></tr><tr><td>Reference</td><td>Book 30 Hadith 55</td></tr></tbody></table></div>
 

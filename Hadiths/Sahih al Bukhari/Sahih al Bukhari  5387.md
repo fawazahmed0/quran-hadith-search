@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) halted to consummate his marriage with Safiyya. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Maryam] Telah mengabarkan kepada kami [Muhammad bin Ja'far] Telah mengabarkan kepadaku [Humaid] bahwa ia mendengar [Anas] berkata; Nabi shallallahu 'alaihi wasallam bermukim guna menikahi Shafiyyah, lalu aku pun mengundang kaum muslimin untuk menghadiri walimahnya. Beliau memerintahkan untuk menghidangkan hamparan dari kulit yang diberi kurma, keju dan samin. Dan [Amru] berkata; dari [Anas]; Nabi shallallahu 'alaihi wasallam mengadakan walimah dengan makanan itu. Kemudian beliau membuat bubur yang terbuat dari gandum, kurma dan daging, dan meletakkannya dalam hamparan kulit
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5387</td></tr><tr><td>Arabic No</td><td>5387</td></tr><tr><td>Reference</td><td>Book 70 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Пророк ﷺ остановился, чтобы жениться на Сафие, и я приглашал мусульман на его свадебное торжество /валима/. (Пророк ﷺ) велел расстелить кожаные подстилки, на которые положили финики, сухой творог и масло».\nАнас сказал: «Пророк ﷺ женился на ней, а затем приготовил “хайс” (блюдо, которое готовится из фиников, масла и сушёного творога) на небольшой кожаной подстилке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5387</td></tr><tr><td>Arabic No</td><td>5387</td></tr><tr><td>Reference</td><td>Book 70 Hadith 15</td></tr></tbody></table></div>
 

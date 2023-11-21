@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has also been transmitted by 'Ata b. Abi Rabah on the authority o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Ibnu Numair] dari [Sa'd bin Sa'id] telah menceritakan kepadaku [Muhammad bin Ibrahim] dari [Qais bin 'Amru] dia berkata; "Suatu ketika Rasulullah shallallahu 'alaihi wasallam pernah melihat seorang laki-laki yang mengerjakan shalat dua raka'at setelah shalat shubuh, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat shubuh itu hanya dua raka'at." laki-laki itu menjawab; "Sesungguhnya aku belum mengerjakan shalat dua raka'at (sunnah fajar), karena itu aku mengerjakannya sekarang ini." Maka Rasulullah shallallahu 'alaihi wasallam diam.". Telah menceritakan kepada kami [Hamid bin Yahya Al Balakhi] dia berkata; telah berkata [Sufyan] bahwasanya [Atha' bin Abi Robbah] menceritakan hadits ini dari [Sa'ad bin Sa'id]. Abu Daud berkata; "dan telah di riwayatkan oleh 'Abdu Rabbihi dan Yahya keduanya adalah putra Sa'id. Hadits ini adalah hadits mursal, sebab dalam kisah ini, kakek mereka ikut shalat bersama Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1268</td></tr><tr><td>Arabic No</td><td>1268</td></tr><tr><td>Reference</td><td>Book 5 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Суфьян сказал: «Этот хадис передаёт ‘Ата ибн Абу Рабах от Са‘да ибн Са‘ида». Абу Дауд сказал: «И ‘Абд Раббихи и Яхья, сыновья Са‘ида, передавали этот хадис без упоминания первого передатчика /мурсаль/, и в их сообщении говорится, что их дед Зейд молился вместе с Пророком ﷺ… И они передали эту историю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1268</td></tr><tr><td>Arabic No</td><td>1268</td></tr><tr><td>Reference</td><td>Book 5 Hadith 19</td></tr></tbody></table></div>
 

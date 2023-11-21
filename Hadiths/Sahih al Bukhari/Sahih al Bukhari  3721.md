@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:On the day of the battle of Al-Yarmuk, the companions of the Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali bin Hafsh] telah bercerita kepada kami [Ibnu Al Mubarak] telah mengabarkan kepada kami [Hisyam bin 'Urwah] dari [bapaknya] bahwa para shahabat Nabi shallallahu 'alaihi wasallam berkata kepada Az Zubair pada peperangan Yarmuk; "Tidakkah kamu maju menyerang (Kaum Musyrikin) dan kami akan maju bersamamu?". Maka [Az Zubair] maju menghadapi mereka. Dan akhirnya musuh menusukkan dua kali tusukan pada pundaknya salah satu diantaranya mengenai luka tusukan yang pernah dialaminya pada perang Badar". 'Urwah berkata; "Ketika itu aku memasukkan jariku pada lubang tusukan itu untuk memain-mainkannya. Saat itu aku masih anak-anak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3721</td></tr><tr><td>Arabic No</td><td>3721</td></tr><tr><td>Reference</td><td>Book 62 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Урвы, что в день битвы при аль-Ярмуке сподвижники Пророка ﷺ сказали аз-Зубайру: «Почему бы тебе не начать атаку, а мы будем атаковать вместе с тобой?» Тогда аз-Зубайр начал атаковать их, а они нанесли ему два удара (мечом), ранив его плечо. Между этими двумя ранами был старый шрам, который он получил в день битвы при Бадре. ‘Урва также сказал: «Когда я был ребёнком, я обычно вставлял пальцы в эти шрамы во время игры»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3721</td></tr><tr><td>Arabic No</td><td>3721</td></tr><tr><td>Reference</td><td>Book 62 Hadith 69</td></tr></tbody></table></div>
 

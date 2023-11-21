@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Abbas:Allah's Messenger (ﷺ) said, "While I was sleepin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 telah menceritakan kepadaku [Sa'id bin Muhammad Abu Abdullah Al Jarmi] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [Ayahku] dari [Shalih] dari [Ibnu Ubaidah bin Nasyith] mengatakan, [Ubaidullah bin Abdullah] mengatakan; aku bertanya [Abdullah bin Abbas] radliallahu 'anhuma tentang mimpi Rasulullah Shallallahu'alaihiwasallam yang pernah beliau ceritakan. Ibnu Abbas mengatakan; aku pernah diceritai, bahwa Rasulullah Shallallahu'alaihiwasallam mengatakan; "Ketika aku tidur, aku bermimpi bahwa ditanganku diletakkan dua gelang emas. Aku merasa jijik dan tidak suka terhadap kedua benda itu, kemudian aku di izinkan untuk meniupnya sehingga keduanya beterbangan. Kedua gelang itu kutakwilkan, aka muncul dua pendusta." Ubaidullah menjelaskan; salah satunya Al Aswad al 'Ansi yang dibunuh oleh Fairuz ad Dailami di Yaman, dan satunya lagi Musailamah Alkadzdzab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7034</td></tr><tr><td>Arabic No</td><td>7034</td></tr><tr><td>Reference</td><td>Book 91 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Тогда Ибн ‘Аббас сказал: «Мне рассказали о том, что Посланник Аллаха ﷺ сказал: “Однажды во сне я увидел у себя на руках два золотых браслета, что обеспокоило меня и не понравилось мне, но мне разрешили (их одеть). После я подул на них, и они улетели, а я же истолковал два этих браслета как двух лжецов, которые появятся (после меня)”». ‘Убайдуллах сказал: «Одним из них стал аль-‘Анси, которого убил Файруз в Йемене, а другим — Мусайлима»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7034</td></tr><tr><td>Arabic No</td><td>7034</td></tr><tr><td>Reference</td><td>Book 91 Hadith 49</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) forbidding taking of vows, and said
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Mutsanna] dan [Ibnu Basysyar] keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dia berkata, saya mendengar [Al 'Ala'] menceritakan dari [Ayahnya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau melarang seseorang untuk bernadzar, beliau bersabda: "Hal itu tidak bisa mengubah takdir, hanyasanya nadzar itu untuk mengeluarkan sesuatu dari orang bakhil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4242</td></tr><tr><td>Arabic No</td><td>1640.02</td></tr><tr><td>Reference</td><td>Book 26 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4242</td></tr><tr><td>Arabic No</td><td>1640.02</td></tr><tr><td>Reference</td><td>Book 26 Hadith 8</td></tr></tbody></table></div>
 

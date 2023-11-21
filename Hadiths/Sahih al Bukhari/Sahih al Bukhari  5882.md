@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:A necklace belonging to Asma' was lost, and the Prophet (ﷺ) se
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah menceritakan kepada kami ['Abdah] telah menceritakan kepada kami [Hisyam bin Urwah] dari [Ayahnya] dari [Aisyah] radliallahu 'anha dia berkata; "Kalung Asma' pernah hilang, lalu Nabi shallallahu 'alaihi wasallam mengutus beberapa orang laki-laki untuk mencarinya, sementara waktu shalat telah tiba sedangkan mereka tidak ada yang membawa air untuk berwudlu', lantas mereka mengerjakan shalat tanpa berwudlu', setelah itu mereka memberitahukan peristiwa tersebut kepada Nabi shallallahu 'alaihi wasallam, maka Allah menurunkan ayat tayammum." [Ibnu Numair] menambahkan dari [Hisyam] dari [Ayahnya] dari [Aisyah] bahwa dialah yang meminjam kalungnya Asma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5882</td></tr><tr><td>Arabic No</td><td>5882</td></tr><tr><td>Reference</td><td>Book 77 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда потерялось ожерелье Асмы, Пророк ﷺ отправил несколько человек на его поиски. Тут их застало (время) молитвы, но у них не было воды, и они совершили молитву без омовения. Затем они рассказали об этом Пророку ﷺ, и Аллах ниспослал аят об очищении песком /таяммум/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5882</td></tr><tr><td>Arabic No</td><td>5882</td></tr><tr><td>Reference</td><td>Book 77 Hadith 99</td></tr></tbody></table></div>
 

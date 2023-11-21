@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sahl ibn Sa'd: A man came to the Prophet (ﷺ) and confessed before him
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Thalq bin Ghannam] berkata, telah menceritakan kepada kami [Abdussalam bin Hafsh] berkata, telah menceritakan kepada kami [Abu Hazim] dari [Sahl bin Sa'd] dari Nabi shallallahu 'alaihi wasallam, bahwa ada seorang laki-laki yang datang menemui beliau dan mengaku telah berzina dengan seorang wanita yang namanya ia sebutkan kepada beliau. Rasulullah shallallahu 'alaihi wasallam lalu memanggil wanita itu dan bertanya kepadanya tentang kebenaran dari pengakuan laki-laki itu. Namun wanita tersebut tidak mengakuinya, maka Nabi mendera laki-laki itu dan membiarkan wanita tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4437</td></tr><tr><td>Arabic No</td><td>4437</td></tr><tr><td>Reference</td><td>Book 40 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Сахля ибн Са‘да , что к Пророку ﷺ пришёл мужчина, который признался, что совершил прелюбодеяние с одной женщиной и назвал её имя. Посланник Аллаха ﷺ послал человека к названной женщине, однако она отрицала, что совершила прелюбодеяние, и (Посланник Аллаха ﷺ) велел нанести ему положенное число ударов в качестве наказания, а её оставил в покое (потому, что против неё не было четырёх свидетелей, а в прелюбодеянии она не призналась)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4437</td></tr><tr><td>Arabic No</td><td>4437</td></tr><tr><td>Reference</td><td>Book 40 Hadith 87</td></tr></tbody></table></div>
 

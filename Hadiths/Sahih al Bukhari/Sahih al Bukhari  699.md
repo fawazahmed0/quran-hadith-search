@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Once I passed the night in the house of my aunt Maimuna. The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepadaku [Isma'il bin Ibrahim] dari [Ayyub] dari ['Abdullah bin Sa'id bin Jubair] dari [Bapaknya] dari [Ibnu 'Abbas] ia berkata, "Aku pernah menginap di rumah bibiku. Kemudian Rasulullah shallallahu 'alaihi wasallam shalat malam. Maka aku datang untuk ikut shalat bersama beliau, aku berdiri di samping kirinya, lalu beliau memegang kepalaku dan menggeserku ke sebelah kanannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>699</td></tr><tr><td>Arabic No</td><td>699</td></tr><tr><td>Reference</td><td>Book 10 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) я заночевал у своей тётки (Маймуны, жены Пророка ﷺ) и, когда Пророк ﷺ встал на ночную молитву /кыям ал-лейль/, я встал на молитву слева от него, но он взял меня за голову и поставил справа от себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>699</td></tr><tr><td>Arabic No</td><td>699</td></tr><tr><td>Reference</td><td>Book 10 Hadith 94</td></tr></tbody></table></div>
 

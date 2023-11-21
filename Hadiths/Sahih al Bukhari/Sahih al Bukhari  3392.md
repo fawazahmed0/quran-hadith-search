@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) returned to Khadija while his heart was beatin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Yusuf] telah bercerita kepada kami [Al Laits] berkata telah bercerita kepadaku ['Uqail] dari [Ibnu Syihab] aku mendengar ['Urwah] berkata, ['Aisyah radliallahu 'anhu] berkata; "Maka Nabi shallallahu 'alaihi wasallam kembali kepada Khadijah dalam keadaan jiwa yang berguncang. Maka Khadijah membawa Beliau menemui Waraqah bin Naufal, seorang yang beragama Nashrani dan membaca Kitab Injil dalam bahasa 'Arab. Kemudian Waraqah berkata; "Apa yang kamu lihat?". Lalu Beliau menceritakannya. Waraqah berkata; "Ini adalah an-Namus, yang telah Allah turunkan kepada Musa 'Alaihissalam. Dan seandainya aku hidup hingga masa kamu, aku pasti akan menolongmu dengan pertolongan yang gigih". Dan istilah Namus adalah penyimpan rahasia yang mengungkapkan apa yang disembunyikannya dari orang lain. (Maksudnya adalah malaikat Jibril 'Alaihissalam)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3392</td></tr><tr><td>Arabic No</td><td>3392</td></tr><tr><td>Reference</td><td>Book 60 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Пророк ﷺ вернулся к Хадидже, его сердце сильно билось (от страха), и Хадиджа отправилась с ним к Вараке ибн Науфалю, который был человеком, принявшим христианство, и он читал Инджиль на арабском языке. Варака спросил его: “Что ты видишь?”, — и Пророк ﷺ сообщил ему (о том, что он видел). Тогда Варака сказал: “Это тот же ангел, которого Аллах направил к Мусе! И если я доживу до этого дня (когда ты получишь послание), то я непременно окажу тебе большую поддержку”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3392</td></tr><tr><td>Arabic No</td><td>3392</td></tr><tr><td>Reference</td><td>Book 60 Hadith 66</td></tr></tbody></table></div>
 

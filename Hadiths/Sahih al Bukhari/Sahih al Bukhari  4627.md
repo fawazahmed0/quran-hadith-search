@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:Allah's Messenger (ﷺ) said, "The key of the Unseen are five
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] Telah menceritakan kepada kami [Ibrahim bin Sa'ad] dari [Ibnu Syihab] dari [Salim bin 'Abdullah] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kunci-kunci hal yang ghaib itu ada lima, tidak ada yang mengetahuinya kecuali Allah Ta'ala: Sesungguhnya hanya Allah lah yang mengetahui datangnya hari kiamat, dan Dia lah Dzat yang menurunkan hujan, yang mengetahui janin yang ada dalam kandungan, dan jiwa manusia tidak mengetahui apa yang akan dapat diperbuatnya esok hari, dan ia juga tidak tahu di bumi mana dia akan mati, Sesungguhnya Allah adalah Dzat yang Maha Mengetahui
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4627</td></tr><tr><td>Arabic No</td><td>4627</td></tr><tr><td>Reference</td><td>Book 65 Hadith 149</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что Посланник Аллаха ﷺ сказал: «Ключами сокрытого являются пять вещей: “Воистину, только Аллах обладает знанием о Часе, ниспосылает дождь и знает о том, что в утробах. Ни один человек не знает, что он приобретет завтра, и ни один человек не знает, в какой земле он умрет. Воистину, Аллах — Знающий, Ведающий”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4627</td></tr><tr><td>Arabic No</td><td>4627</td></tr><tr><td>Reference</td><td>Book 65 Hadith 149</td></tr></tbody></table></div>
 

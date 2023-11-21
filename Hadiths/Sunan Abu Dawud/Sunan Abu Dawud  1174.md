@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The people of Medina had a drought during the time of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Hammad bin Zaid] dari [Abdul Aziz bin Shuhaib] dari [Anas bin Malik], dan [Yunus bin 'Ubaid] dari [Tsabit] dari [Anas] dia berkata; "Penduduk Madinah pernah di timpa bencana kekeringan pada masa Rasulullah shallallahu 'alaihi wasallam, ketika beliau tengah menyampaikan khutbah Jum'at, tiba-tiba seorang laki-laki berdiri seraya berkata; "Wahai Rasulullah, telah binasa kuda dan kambing, oleh karena itu, berdo'alah kepada Allah agar menurunkan hujan kepada kami." Lalu beliau merenggangkan kedua tangannya dan berdo'a." Anas berkata; "Saat itu, langit sangat cerah laksana kaca, lalu angin bertiaup yang membawa awan yang menggumpal, setelah itu langit menurunkan hujan, lalu kami keluar mencebur ke air hujan, sehingga kami tiba di rumah kami, dan hujan senantiasa turun hingga jum'at berikutnya, maka laki-laki itu atau laki-laki lain berdiri sambil berkata; "Wahai Rasulullah, rumah-rumah kami (hampir) roboh (karena hujan kebat), oleh karena itu, berdo'alah kepada Allah agar hujan di hentikan!." Maka Rasulullah shallallahu 'alaihi wasallam tersenyum kemudian bersabda: "Turunkanlah hujan ini di sekeliling kami, dan jangan sampai ia membawa petaka bagi kami." Lalu aku melihat awan tersebut terputus-putus di sekitar Madinah, seolah-olah bagaikan Mahkota (maksudnya hujan turun menyebar di seluruh Madinah)." Telah menceritakan kepada kami [Isa bin Hammad] telah mengabarkan kepada kami [Al Laits] dari [Sa'id Al Maqburi] dari [Syarik bin Abdullah bin Abu Namir] bahwa dia mendengar [Anas] berkata; …" kemudian dia menyebutkan sebagaimana hadits Abdul Aziz katanya; "Maka Rasulullah shallallahu 'alaihi wasallam mengangkat kedua tangannya sejajar dengan wajah beliau seraya mengucapkan: "Ya Allah turunkanlah hujan kepada kami…" kemudian dia melanjutkan hadits seperti di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (932)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1174</td></tr><tr><td>Arabic No</td><td>1174</td></tr><tr><td>Reference</td><td>Book 3 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Анас, да будет доволен им Аллах: «Однажды при жизни Посланника Аллаха ﷺ жителей Медины поразила засуха. И когда Посланник Аллаха ﷺ произносил пятничную проповедь, со своего места поднялся один человек и сказал: “О Посланник Аллаха! Наше имущество пропало и скот погиб, так обратись же к Аллаху с мольбой, чтобы Аллах напоил нас!” (Посланник Аллаха ﷺ) поднял руки и обратился к Аллаху с мольбой». Анас сказал: «И, хотя до этого небо было чистым как стекло, тут же поднялся ветер, который нагнал тучи, и дождь полил как из ведра так, что нам приходилось ступать по воде, чтобы добраться до своих домов. Дождь лил до следующей пятницы, и тогда поднялся тот же или другой человек и сказал: “О Посланник Аллаха! Дома разрушились, так обратись же к Аллаху с мольбой, чтобы Он удержал дождь!” Посланник Аллаха ﷺ улыбнулся, а потом сказал: “Вокруг нас, а не на нас!” И я посмотрел и увидел, как тучи образовали вокруг Медины подобие венца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (932)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1174</td></tr><tr><td>Arabic No</td><td>1174</td></tr><tr><td>Reference</td><td>Book 3 Hadith 14</td></tr></tbody></table></div>
 

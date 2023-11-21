@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported Allal's Messenger (ﷺ) as saying:There is no transitive disease,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus]; Telah menceritakan kepada kami [Zuhair]; Telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Az Zubair] dari [Jabir] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Tidak ada penyakit yang menular secara sendirian, tidak ada pengaruh atau tanda bahaya karena suara burung, dan tidak ada hantu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>2222.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>2222.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 147</td></tr></tbody></table></div>
 

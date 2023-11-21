@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Umama:Whenever the dining sheet of the Prophet (ﷺ) was taken away
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Sufyan] dari [Tsaur] dari [Khalid] dari [Abu Umamah] bahwa Nabi shallallahu 'alaihi wasallam jika mengangkat lambungnya (selesai makan), beliau membaca: 'ALHAMDULILLAHI KATSIIRAN THAYYIBAN MUBAARAKAN FIIHI GHAIRA MAKFIYIN WA LAA MUWADDA'IN WA LAA MUSTAGHNAN 'ANHU RABBANAA (Segala puji bagi Allah dengan pujian yang banyak, yang baik dan yang mengandung keberkahan di dalamnya, bukan pujian yang tidak dianggap dan tidak dibutuhkan oleh Tuhan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5458</td></tr><tr><td>Arabic No</td><td>5458</td></tr><tr><td>Reference</td><td>Book 70 Hadith 87</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От Абу Умамы передаётся, что Пророк ﷺ, закончив трапезу, говорил: «Хвала Аллаху, (хвала) многая, благая и благодатная, (хвала, которой никогда) не будет достаточно, (хвала, которую) не следует прерывать, (хвала, без которой нам) не обойтись! (Он) — Господь наш!\n/Аль-хамду ли-Лляхи кясиран, тайибан, мубаракян фи-хи, гайра макфиййин, уа ля мувадда‘ин уа ля мустагънан ‘ан-ху! Рабба-на!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5458</td></tr><tr><td>Arabic No</td><td>5458</td></tr><tr><td>Reference</td><td>Book 70 Hadith 87</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said:The Friday prayer first offered in Islam after the Friday pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syiabah] dan [Muhammad bin Abdullah Al Muharami] secara lafaadz, keduanya berkata; telah menceritakan kepada kami [Waki'] dari [Ibrahim bin Thahman] dari [Abu Jamrah] dari [Ibnu Abbas] dia berkata; "Shalat jum'at yang pertama kali dalam Islam setelah shalat Jum'at yang di laksanakan di masjid Rasulullah shallallahu 'alaihi wasallam di Madinah, adalah shalat Jum'at di desa Juwatsa, yaitu suatu desa yang terletak di daerah Bahrain." Utsman mengatakan; 'Yaitu suatu desa yang terletak di wilayah (Bani) Abdul Qais
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (892)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1068</td></tr><tr><td>Arabic No</td><td>1068</td></tr><tr><td>Reference</td><td>Book 2 Hadith 679</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что первой пятничной молитвой после совершённой в мечети Посланника Аллаха ﷺ в Медине была пятничная молитва, совершённая в Джувасе, одном из селений Бахрейна. (Передатчик) ‘Усман сказал: «Это одно из селений ‘Абду-ль-Кайса»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (892)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1068</td></tr><tr><td>Arabic No</td><td>1068</td></tr><tr><td>Reference</td><td>Book 2 Hadith 679</td></tr></tbody></table></div>
 

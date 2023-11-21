@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Sa'id (al-Khudri): The Prophet (ﷺ) said: If any Muslim clothes a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ali bin Al Husain bin Ibrahim bin Isykab], telah menceritakan kepada Kami [Abu Badr], telah menceritakan kepada Kami [Abu Khalid] yang pernah singgah di Bani Dalan, dari [Nubaih] dari [Abu Sa'id Al Khudri] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Siapapun seorang muslim yang memakaikan pakaian kepada muslim yang lainnya karena ia tidak berpakaian maka Allah akan memakaikan kepadanya pakaian dari pakaian yang hijau di Surga, dan siapapun seorang muslim yang memberikan makan kepada muslim lainnya yang dalam keadaan lapar maka Allah memberinya makanan dari buah-buahan di Surga, dan siapapun seorang muslim yang memberi minum muslim lainnya yang dalam keadaan haus maka Allah akan memberinya minum dari Ar Rahiq Al Makhtum (arak Surga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1682</td></tr><tr><td>Arabic No</td><td>1682</td></tr><tr><td>Reference</td><td>Book 9 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если какой-нибудь мусульманин подарит другому одежду, Аллах непременно оденет его в зелёные одежды Рая, и если мусульманин накормил другого мусульманина, страдающего от голода, Аллах непременно накормит его плодами Рая, и если мусульманин напоит другого, страдающего от жажды, Аллах непременно напоит его из райского источника (рахик аль-махтум)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1682</td></tr><tr><td>Arabic No</td><td>1682</td></tr><tr><td>Reference</td><td>Book 9 Hadith 127</td></tr></tbody></table></div>
 

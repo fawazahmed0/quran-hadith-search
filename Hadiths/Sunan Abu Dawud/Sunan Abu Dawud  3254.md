@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) said about the futi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Humaid bin Mas'adah As Sami], telah menceritakan kepada kami [Hassan bin Ibrahim], telah menceritakan kepada kami [Ibrahim Ash Shaigh] dari ['Atha'] mengenai laghwu yamin (sumpah palsu, main-main), ia berkata; [Aisyah] berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Laghwu yamin adalah perkataan seseorang yang ia ucapkan di rumahnya; tidak demi Allah, dan benar demi Allah." Abu Daud berkata; Ibrahim Ash Shaigh adalah orang shalih, ia dibunuh oleh Abu Muslim di 'Arandas. 'Atho' berkata; ia apabila mengangkat palu kemudian mendengar suara adzan maka ia meninggalkannya. Abu Daud berkata; hadits ini diriwayatkan oleh [Daud bin Abu Al Furat] dari [Ibrahim Ash Shaigh] secara mauquf kepada [Aisyah]. Begitu juga diriwayatkan oleh [Az Zuhri], [Abdul Malik bin Abu Sulaiman], dan [Malik bin Mighwal], seluruh mereka dari [Atha'] dari [Aisyah] secara mauquf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3254</td></tr><tr><td>Arabic No</td><td>3254</td></tr><tr><td>Reference</td><td>Book 22 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Толковать клятву, которую приносит человек, нужно исходя из того, что подразумевал тот, по чьему требованию он принёс эту клятву»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3254</td></tr><tr><td>Arabic No</td><td>3254</td></tr><tr><td>Reference</td><td>Book 22 Hadith 13</td></tr></tbody></table></div>
 

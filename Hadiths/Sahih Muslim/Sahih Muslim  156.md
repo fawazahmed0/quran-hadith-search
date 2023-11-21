@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon 'Imrân Ibn Husayn (que Dieu l'agrée), le Prophète (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Muhammad bin Basysyar] dan lafazh tersebut milik Ibnu al-Mutsanna, keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia berkata, "Saya mendengar [Abu as Sawwar] menceritakan, bahwa dia mendengar [Imran bin Hushain] menceritakan dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Malu itu tidak membawa kecuali kebaikan." Busyair bin Ka'ab berkata, "Itu tertulis dalam hikmah bahwa dari rasa malu itu timbul kewibawaan dan ketenangan." Maka [Imran] pun berkata, "Aku akan menceritakan kepadamu (hadits) dari Rasulullah shallallahu 'alaihi wasallam, dan kamu (silahkan) ceritakan kepadaku apa yang ada dalam lembaran-lemabaranmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>156</td></tr><tr><td>Arabic No</td><td>37.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Саввар слышал, как ‘Имран ибн Хусайн рассказывал, что Пророк ﷺ сказал: «Стыдливость не приносит ничего, кроме блага». (Услышав это), Бушайр ибн Ка‘б сказал: «В мудрых книгах написано, что (стыдливость способствует проявлению) достоинства и спокойствия». Тогда ‘Имран сказал: «Я рассказываю тебе (слова) Посланника Аллаха ﷺ, а ты мне рассказываешь из своих свитков?!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>156</td></tr><tr><td>Arabic No</td><td>37.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 64</td></tr></tbody></table></div>
 

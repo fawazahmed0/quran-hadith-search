@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umar b. Khattab reported Allah's Messenger (ﷺ) as saying:Should anyone fall as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] telah menceritakan kepada kami [Abdullah bin Wahb], (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Abu Thahir] dan [Harmalah], keduanya berkata; telah mengabarkan kepada kami [Ibnu Wahab] dari [Yunus bin Yazid] dari [Ibnu Syihab] dari [Sa'ib bin Yazid] dan ['Ubaidullah bin Abdillah], keduanya mengebarkan kepadanya, dari [Abdurrahman bin Abdul Qari'], katanya; aku mendengar [Umar bin Khattab] mengatakan; Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang ketiduran dari hizib (bacaan alquran) atau sesuatu daripadanya, lantas ia membacanya ketika diantara shalat fajar (subuh) dan shalat zhuhur, maka akan dicatat baginya sebagaimana ia membacanya ketika malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1745</td></tr><tr><td>Arabic No</td><td>747</td></tr><tr><td>Reference</td><td>Book 6 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Умара ибн аль-Хаттаба, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь заснёт, не прочитав (из Корана) того, что он обычно читает по ночам, или же части этого, после чего прочитает (пропущенное) между утренней и полуденной молитвами, это запишется ему так, будто он читал ночью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1745</td></tr><tr><td>Arabic No</td><td>747</td></tr><tr><td>Reference</td><td>Book 6 Hadith 174</td></tr></tbody></table></div>
 

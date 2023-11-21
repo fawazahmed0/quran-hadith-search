@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:'Abdullah bin Masud was mentioned before 'Abdullah bin 'Amr who 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Syu'bah] telah bercerita kepada kami ['Amru bin Murrah] dari [Ibrahim] dari [Masruq] berkata; Nama 'Abdullah bin Mas'ud disebut-sebut di hadapan ['Abdullah bin 'Amru] maka dia ('Abdullah bin 'Amru) berkata; "Dialah seorang yang senantiasa aku selalu mencintainya karena aku pernah mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Ambillah bacaan al-Qur'an dari empat orang. Yaitu dari 'Abdullah bin Mas'ud, beliau menyebutnya lebih dahulu, Salim, maula Abu Hudzaifah, Mu'adz bin Jabal dan Ubay bin Ka'ab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3808</td></tr><tr><td>Arabic No</td><td>3808</td></tr><tr><td>Reference</td><td>Book 63 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Масрука, что однажды в присутствие ‘Абдуллаха ибн ‘Амра упомянули 'Абдуллаха (ибн Мас‘уда), и он сказал: «Я не перестаю любить его с тех пор, как услышал, как Пророк ﷺ сказал: “Обучайтесь Корану у четверых: ‘Абдуллаха ибн Мас‘уда, Салима — вольноотпущенника Абу Хузейфы, Му‘аза ибн Джабаля и Убаййа ибн Ка‘ба”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3808</td></tr><tr><td>Arabic No</td><td>3808</td></tr><tr><td>Reference</td><td>Book 63 Hadith 33</td></tr></tbody></table></div>
 

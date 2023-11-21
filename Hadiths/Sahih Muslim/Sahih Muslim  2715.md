@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the Mother of the Believers (Allah be pleased with her), reported:The Ap
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Thalhah bin Yahya] dari [bibiknya] Aisyah binti Thalhah, dari [Aisyah] Ummul Mukminin, ia berkata; Pada suatu, Nabi shallallahu 'alaihi wasallam menemui dan bertanya, "Apakah kamu mempunyai makanan?" kami menjawab, "Tidak." Beliau bersabda: "Kalau begitu, saya akan berpuasa." Kemudian beliau datang lagi pada hari yang lain dan kami berkata, "Wahai Rasulullah, kita telah diberi hadiah berupa Hais (makanan yang terbuat dari kura, samin dan keju)." Maka beliau pun bersabda: "Bawalah kemari, sungguhnya dari tadi pagi tadi aku berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2715</td></tr><tr><td>Arabic No</td><td>1154.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 221</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что мать правоверных ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды Пророк ﷺ вошёл ко мне и спросил: “Есть ли у вас что-нибудь?” Мы ответили: “Нет”, и он сказал: “Тогда я буду поститься”. Затем он пришёл к нам в другой день, и мы сказали: “О Посланник Аллаха, нам подарили хайс” и он сказал: “Покажи мне его, ибо я с утра соблюдаю пост”, а потом поел»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2715</td></tr><tr><td>Arabic No</td><td>1154.02</td></tr><tr><td>Reference</td><td>Book 13 Hadith 221</td></tr></tbody></table></div>
 

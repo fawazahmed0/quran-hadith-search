@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas b. Malik reported the Messenger of Allah (ﷺ) assaying :What is the matter
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sa'id bin Abu 'Arubah] dari [Qatdah] bahwa [Anas bin Malik] telah menceritakan kepada mereka, katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Mengapa orang-orang masih saja mengangkat pandangan mereka (ke atas) pada waktu shalat?" dan ucapan beliau (terdengar) sangat mengecam perbuatan tersebut, lalu beliau bersabda: "Hendaklah mereka berhenti melakukan hal itu atau mereka ingin penglihatan mereka di hilangkan?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (750)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>913</td></tr><tr><td>Arabic No</td><td>913</td></tr><tr><td>Reference</td><td>Book 2 Hadith 524</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «О чём думают люди, которые поднимают взор к небу во время молитвы?» И он жёстко высказался по этому поводу, сказав: «Либо они прекратят делать это, либо лишатся зрения!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (750)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>913</td></tr><tr><td>Arabic No</td><td>913</td></tr><tr><td>Reference</td><td>Book 2 Hadith 524</td></tr></tbody></table></div>
 

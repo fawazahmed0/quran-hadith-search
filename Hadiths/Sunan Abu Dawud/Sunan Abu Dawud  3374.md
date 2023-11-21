@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Abdullah: The Prophet (ﷺ) forbade selling fruits years ahea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Yahya bin Ma'in], mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Humaid Al A'raj] dari [Sulaiman bin 'Atiq] dari [Jabir bin Abdullah] bahwa Nabi shallallahu 'alaihi wasallam melarang menjual sinin (menjual buah kurma untuk beberapa tahun sebelum nampak buahnya), dan beliau menggugurkan jual beli lantaran terdapat bencana yang menimpa tanaman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1554 After 1555)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3374</td></tr><tr><td>Arabic No</td><td>3374</td></tr><tr><td>Reference</td><td>Book 23 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ запретил продавать урожай пальм за несколько лет и велел не брать деньги за то, что погублено бедствием. Абу Давуд сказал: «Нет достоверных хадисов, передаваемых от Пророка ﷺ в которых оговаривалась бы треть урожая. Это только мнение жителей Медины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1554 After 1555)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3374</td></tr><tr><td>Arabic No</td><td>3374</td></tr><tr><td>Reference</td><td>Book 23 Hadith 49</td></tr></tbody></table></div>
 

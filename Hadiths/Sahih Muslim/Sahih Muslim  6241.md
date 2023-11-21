@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd reported:We were six men in the company of Allah's Messenger (, nay peace b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Muhammad bin 'Abdullah Al Asadi] dari [Israil] dari [Al Miqdam bin Syuraih] dari [Bapaknya] dari [Sa'ad] dia berkata; "Pada suatu hari, kami berenam menyertai Rasulullah shallallahu 'alaihi wasallam. Kemudian orang-orang musyrik berkata kepada Rasulullah; 'Usirlah orang-orang yang tidak akan berani melawan kami! ' orang-orang tersebut adalah saya (Sa'ad), lbnu Mas'ud, seorang laki-laki dari Hudzail, Bilal, dan dua orang laki-laki yang tidak saya kenal namanya. Tak lama kemudian terlintas sesuatu dalam benak Rasulullah dan mengatakannya dalam hati. Maka Allah pun menurunkan firman-Nya: "Janganlah kamu mengusir orang-orang yang menyeru Tuhannya di pagi dan petang hari, sedangkan mereka sangatlah mengharapkan keridhaan-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6241</td></tr><tr><td>Arabic No</td><td>2413.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6241</td></tr><tr><td>Arabic No</td><td>2413.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 71</td></tr></tbody></table></div>
 

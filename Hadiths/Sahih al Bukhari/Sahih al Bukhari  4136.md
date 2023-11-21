@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] ia berkata; telah menceritakan kepadaku [Saudaraku] dari [Sulaiman] dari [Muhammad bin Abu 'Atiq] dari [Ibnu Syihab] dari [Sinan bin Abu Sinan Ad Du'ali] dari [Jabir bin Abdullah radliallahu 'anhuma], dia mengabarkan kepadanya bahwa dia pernah ikut perang bersama Rasulullah shallallahu 'alaihi wasallam ke arah Najed. Ketika Rasulullah shallallahu 'alaihi wasallam kembali, dia ikut kembali. Sewaktu hari mulai siang, mereka tiba di dekat lembah yang banyak pepohonan berduri. Lalu Rasulullah shallallahu 'alaihi wasallam singgah, sementara para shahabat berpencar mencari pepohonan untuk berteduh. Rasulullah shallallahu 'alaihi wasallam sendiri singgah di bawah pohon sambil menggantungkan pedangnya di pohon tersebut. Jabir melanjutkan; "Maka kami tidur sejenak. Tidak lama kemudian Rasulullah shallallahu 'alaihi wasallam memanggil kami, ketika kami mnemui beliau, ternyata dihadapan beliau ada seorang Arab Badui sedang terduduk. Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang ini telah mengambil pedangku saat aku tidur, lalu aku bangun sedangkan tangannya telah memegang pedang yang terhunus, dia berkata kepadaku: "Siapa yang dapat melindungimu dariku?". Aku jawab: "Allah". Namun sekarang dia tengah terduduk lesu." Rasulullah Shallallhu 'alaihi wa salam tidak menghukum orang tersebut. [Aban] berkata; telah menceritakan kepada kami [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Jabir] ia berkata; "Kami pernah bersama Nabi shallallahu 'alaihi wasallam dalam perang Dzatur Riqa'. Ketika kami mendapatkan pohon sebagai tempat berteduh, kami peruntukkan pohon itu untuk istirahat Nabi shallallahu 'alaihi wasallam. Tiba-tiba seorang laki-laki musyrik datang, sementara pedang Nabi shallallahu 'alaihi wasallam tergantung di pohon tersebut. Laki-laki itu langsung mengambil pedang tersebut sambil berkata; "Apakah engkau tidak takut kepadaku?". Beliau menjawab: "Tidak". Orang i tu berkata lagi; "Siapa yang dapat melindungimu dariku?". Beliau menjawab: "Allah". Kemudian para shahabat mengancam orang itu. Tidak lama kemudian shalat didirikan, maka beliau shalat dengan satu kelompok sebanyak dua raka'at lalu kelompok ini mundur, Kemudian beliau melanjutkan shalat dua raka'at dengan nelompok lain, sehingga Nabi shallallahu 'alaihi wasallam melaksanakan shalat empat raka'at, sementara masing-masing kelompok shalat dua raka'at." Musaddad mengatakan dari Abu 'Awanah dari Abu Bisyir; "Nama laki-laki musyrik itu adalah Ghawrats bin Al Harits." Saat itu dia tengah mengikuti perang Khashafah." [Abu Az Zubair] mengatakan dari [Jabir]; "Kami bersama Nabi shallallahu 'alaihi wasallam di daerah Nakhl lalu beliau shalat khauf." Abu Hurairah mengatakan; "Aku shalat bersama Nabi shallallahu 'alaihi wasallam pada perang Najed yaitu shalat Khauf. Padahal Abu Hurairah datang kepada Nabi shallallahu 'alaihi wasallam (masuk Islam) pada saat perang Khaibar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4136</td></tr><tr><td>Arabic No</td><td>4136</td></tr><tr><td>Reference</td><td>Book 64 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир рассказал (следующее): «(В своё время) мы вместе с Посланником Аллаха ﷺ принимали участие в походе на Зат ар-Рика‘. Добравшись до дерева, отбрасывавшего густую тень, мы предоставили (это место) Пророку ﷺ, а потом (туда) явился какой-то человек из числа многобожников, (увидел, что меч Пророка ﷺ) висит на дереве, выхватил его из ножен и сказал: “Ты боишься меня?” (Пророк ﷺ) сказал: “Нет”. (Этот человек) спросил: “Кто же защитит тебя от меня?” — (на что он) ответил: “Аллах!” После этого сподвижники Пророка ﷺ испугали его, и было объявлено о начале молитвы. (Пророк ﷺ) совершил два рак’ата с одной группой людей, которые потом отошли назад, а (Пророк ﷺ) совершил ещё два рак’ата с другой группой. Таким образом Пророк ﷺ совершил четыре рак’ата молитвы, а остальные по два».\nАль-Мусаддад передал со слов Абу ‘Аваны, что Абу Бишр сказал: «Имя этого человека — Гаурас ибн аль-Харис»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4136</td></tr><tr><td>Arabic No</td><td>4136</td></tr><tr><td>Reference</td><td>Book 64 Hadith 180</td></tr></tbody></table></div>
 

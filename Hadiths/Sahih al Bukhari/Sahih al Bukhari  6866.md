@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miqdad bin 'Amr Al-Kindi:An ally of Bani Zuhra who took part in the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] telah menceritakan kepada kami ['Abdullah] telah menceritakan kepada kami [Yunus] dari [Az Zuhri] telah menceritakan kepada kami ['Atho' bin Yazid], bahwasanya [Ubaidullah bin Adi] menceritakan kepadanya, [Al Miqdad bin 'Amru Al Kindi] sekutu bani Zuhrah menceritakan kepadanya -ia termasuk orang yang ikut perang badar bersama Nabi shallallahu 'alaihi wasallam - ia berkata; 'ya Rasulullah, saya menjumpai orang kafir, kemudian terjadi duel antara kami. Ia berhasil menyabet tanganku dengan pedang sehingga tanganku putus. Ia kemudian bersembunyi dariku di sebuah pohon dan mengatakan; 'Saya telah masuk Islam karena Allah', bolehkah saya membunuhnya setelah ia mengucapkan kalimah laa-ilaaha-illallah? ' Rasulullah Shallallahu'alaihiwasallam menjawab: "kamu tidak boleh membunuhnya." Miqdad melanjutkan; 'ya Rasulullah, ia telah menghilangkan salah satu tanganku, kemudian ia mengucapkan kalimat itu setelah memutuskannya, bolehkah saya membunuhnya? ' Nabi menjawab; "kamu tidak boleh membunuhnya, jika kamu tetap membunuhnya berarti dia berada di posisimu ketika kamu belum membunuhnya, sedang kamu berada diposisi dia ketika sebelum ia mengucapkannya." Sedang Habib bin Abi 'Amrah mengatakan; dari Sa'id dari Ibn 'Abbas mengatakan, Nabi shallallahu 'alaihi wasallam berkata kepada Miqdad: "Jika seorang mukmin menyembunyikan keimanannya bersama komunitas orang kafir selanjutnya ia menyatakan terus terang keimanannya, dan engkau kemudian membunuhnya, kamu dahulu juga seperti itu, dahulu kamu menyembunyikan keimananmu di Makkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6866</td></tr><tr><td>Arabic No</td><td>6866</td></tr><tr><td>Reference</td><td>Book 87 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса (да будет доволен Аллах ими обоими), что (однажды) Пророк ﷺ сказал аль-Микъдаду (да будет доволен им Аллах): «Если верующий человек будет скрывать свою веру от неверных, (среди которых он живёт,) после чего объявит о ней, а ты убьёшь его(, ты совершишь грех). В таком же положении был и ты, когда прежде скрывал свою веру в Мекке»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6866</td></tr><tr><td>Arabic No</td><td>6866</td></tr><tr><td>Reference</td><td>Book 87 Hadith 5</td></tr></tbody></table></div>
 

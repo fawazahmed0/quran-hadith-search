@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather r
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin hakim] berkata, telah menceritakan kepada kami ['Abdurrahman bin Utsman] berkata, telah menceritakan kepada kami [Husain Al Muallim] dari [Amru bin Syu'aib] dari [Bapaknya] dari [kakeknya] ia berkata, "Pada masa Rasulullah shallallahu 'alaihi wasallam nilai tebusan diyat adalah delapan ratus dinar, atau delapan ribu dirham, sedangkan diyat bagi ahli kitab adalah setengah dari diyat kaum muslimin." Ia (perawi) berkata, "Hal itu terus berlangsung hingga Umar diangkat menjadi khalifah, dan saat berpidato ia berkata, "Ketahuilah, sesungguhnya harta unta telah naik." Perawi berkata lagi, "Maka Umar mewajibkan bagi pemilik emas untuk membayar diyat sebanyak seribu dinar, bagi pemilik perak dua belas ribu dirham, bagi pemilik sapi sebanyak dua ratus ekor sapi, bagi pemilik kambing sebanyak dua ribu kambing, dan bagi pemilik pakaian sebanyak dua ratus pasang baju." Ia (perawi) berkata, "Sementara diyat untuk ahli dzimmah tidak dinaikkan sebagaimana diyat yang lainnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4542</td></tr><tr><td>Arabic No</td><td>4542</td></tr><tr><td>Reference</td><td>Book 41 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что во времена Посланника Аллаха ﷺ компенсация /дийа/ за убитого составляла восемьсот динаров, или восемь тысяч дирхемов, а компенсация за убийство людей Писания составляла половину этой суммы. И так было до тех пор, пока к власти не пришёл ‘Умар (да помилует его Аллах). Он обратился к людям с речью, сказав: «Поистине, верблюды подорожали». И ‘Умар увеличил компенсацию до тысячи динаров, а для того, у кого есть серебро, до двенадцати тысяч дирхемов, для владельцев коров до двухсот коров, для владельцев овец до двух тысяч овец, а для владельцев одежды до двухсот комплектов одежды. А компенсацию за убийство людей Писания он оставил без изменений
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4542</td></tr><tr><td>Arabic No</td><td>4542</td></tr><tr><td>Reference</td><td>Book 41 Hadith 49</td></tr></tbody></table></div>
 

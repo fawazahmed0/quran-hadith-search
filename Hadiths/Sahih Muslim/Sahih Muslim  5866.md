@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Apostle (ﷺ) as saying:Do not curse Time, for it i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir] dari [Hisyam] dari [Ibnu Sirin] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah kalian mencela masa, Karena sesungguhnya Allahlah pencipta masa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5866</td></tr><tr><td>Arabic No</td><td>2246.05</td></tr><tr><td>Reference</td><td>Book 40 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5866</td></tr><tr><td>Arabic No</td><td>2246.05</td></tr><tr><td>Reference</td><td>Book 40 Hadith 5</td></tr></tbody></table></div>
 

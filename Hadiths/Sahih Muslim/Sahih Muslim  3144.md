@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit rapporté d'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما) : l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata, telah mengabarkan kepada kami [Laits] -dalam riwayat lain- Dan Telah menceritakan kepada kami [Qutaibah] Telah menceritakan kepada kami [Laits] dari [Nafi'] bahwa [Abdullah] berkata; "Rasulullah shallallahu 'alaihi wasallam mencukur rambut, lalu bercukur pula sebagian para sahabat, sedang yang sebagian yang lain hanya menggunting rambut saja." Abdullah selanjutnya berkata, "Rasulullah shallallahu 'alaihi wasallam mendo'akan satu atau dua kali orang yang mencukur rambut, kemudian beliau mendo'akan pula mereka yang sekedar menggunting rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3144</td></tr><tr><td>Arabic No</td><td>1301.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 348</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3144</td></tr><tr><td>Arabic No</td><td>1301.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 348</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Humaid:The Prophet (ﷺ) said, "The best of the Ansar families (hom
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Khalid bin Makhlad] telah bercerita kepada kami [Sulaiman] berkata, telah bercerita kepadaku ['Amru binYahya] dari ['Abbas binSahal] dari [Abu Humaid] dari Nabi shallallahu 'alaihi wasallam bersabda: " Tempat tinggal Anshar yang paling baik adalah kampung Bani Najjar kemudian Bani 'Abdil Asyhal kemudian Bani Al Harits bin Khazraj kemudian Bani Sa'idah. Dan setiap tempat tinggal seluruh kaum Anshar adalah baik". Kemudian Sa'ad bin 'Ubadah menjumpai kami. Berkata Abu Usaid (kepadanya); "Tidakkah kamu lihat bahwa Rasulullah shallallahu 'alaihi wasallam telah memilih kaum Anshar dan menjadikan kita urutan yang terakhir?". Maka Sa'ad menemui Nabi shallallahu 'alaihi wasallam dan berkata; "Wahai Rasulullah, tempat tinggal kaum Anshar telah dipilih dan menempatkan kami sebagai yang terakhir". Maka belaiu bersabda: "Apakah tidak cukup buat kalian menjadi bagian dari kalangan orang-orang yang terbaik?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3791</td></tr><tr><td>Arabic No</td><td>3791</td></tr><tr><td>Reference</td><td>Book 63 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хумайд, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ сказал: “Поистине, к числу лучших домов ансаров относятся дома бану наджар, потом бану ‘абд аль-ашхаль, потом дом бану аль-харис, а потом бану са‘ида, но благо есть во всех домах ансаров”. А потом мы подошли к Са‘ду ибн ‘Убаде, и Абу Усайд сказал (ему): “Разве ты не знаешь, что, сравнив между собой дома ансаров, Пророк ﷺ отвёл нам последнее место?” После этого Са‘д встретился с Пророком ﷺ и сказал: “О Посланник Аллаха, при сравнении между собой домов ансаров нам было отведено последнее место!” — (на что Пророк ﷺ) сказал: “Разве недостаточно вам быть в числе лучших?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3791</td></tr><tr><td>Arabic No</td><td>3791</td></tr><tr><td>Reference</td><td>Book 63 Hadith 16</td></tr></tbody></table></div>
 

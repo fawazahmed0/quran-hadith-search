@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Unais reported Allah's Messenger (ﷺ) as saying:I was shown Lailat-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Sa'id bin Amru bin Sahl bin Ishaq bin Muhammad bin Al Asy'ats bin Qais Al Kindi] dan [Ali bin Khasyram] keduanya berkata, Telah menceritakan kepada kami [Abu Dlamrah] telah menceritakan kepadaku [Adl Dlahak bin Utsman] - [Ibnu Khasyram] berkata- dari [Adl Dlahak bin Utsman] dari [Abu Nadlr] Maula Umar bin Ubaidullah, dari [Busr bin Sa'id] dari [Abdullah bin Unais] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku diperlihatkan Lailatul Qadr, kemudian aku lupa. Dan esok paginya aku sujud di tanah yang basah." Abdullah bin Unais berkata; "Kemudian turun hujan pada malam ke dua puluh tiga dan Rasulullah shallallahu 'alaihi wasallam shalat bersama kami. Kemudian beliau pulang dan terlihat bekas tanah basah di dahi dan hidung beliau." Abdullah bin Unais juga berkata, "Itu adalah malam kedua puluh tiga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2775</td></tr><tr><td>Arabic No</td><td>1168</td></tr><tr><td>Reference</td><td>Book 13 Hadith 281</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2775</td></tr><tr><td>Arabic No</td><td>1168</td></tr><tr><td>Reference</td><td>Book 13 Hadith 281</td></tr></tbody></table></div>
 

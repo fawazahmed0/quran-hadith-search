@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "When the people of Ash'ari tribe ran 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Alaa'] telah menceritakan kepada kami [Hammad bin Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang-orang Asya'ariy jika mereka berperang atau harta kebutuhan keluarga mereka di Madinah menipis maka mereka mengumpulkan apa saja milik mereka pada satu kain lalu mereka membagi rata diantara mereka pada tiap masing-masing, maka mereka adalah bagian dariku dan aku adalah bagian dari mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2486</td></tr><tr><td>Arabic No</td><td>2486</td></tr><tr><td>Reference</td><td>Book 47 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, когда у аш‘аритов возникали затруднения с едой во время военного похода или когда им не хватало еды для детей в городе, они складывали всё, что у них было, на один кусок ткани, а потом поровну делили (собранное) между собой(, отмеряя каждому его долю) одним и тем же сосудом. Они такие же, как я, а я такой же, как они»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2486</td></tr><tr><td>Arabic No</td><td>2486</td></tr><tr><td>Reference</td><td>Book 47 Hadith 4</td></tr></tbody></table></div>
 

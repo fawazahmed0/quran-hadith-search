@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Maymûna bint Al-Hârith (رضي الله عنها) a transmis qu' elle avait af
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin Sa'id Al Aili] Telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru] dari [Bukair] dari [Kuraib] dari [Maimunah binti Harits] bahwa ia memerdekakan seorang nenek di zaman Rasulullah shallallahu 'alaihi wasallam, lalu ia pun menuturkan hal itu kepada Rasulullah shallallahu 'alaihi wasallam. Maka beliau bersabda: "Sekiranya kamu memberikannya kepada bibi-bibimu, niscaya ganjaran pahalanya akan lebih besar bagimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2317</td></tr><tr><td>Arabic No</td><td>999</td></tr><tr><td>Reference</td><td>Book 12 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Курайба, что при жизни Посланника Аллаха ﷺ, Маймуна бинт аль-Харис освободила свою рабыню и сообщила об этом Посланнику Аллаха ﷺ, на что он сказал: «Если бы ты отдала её родственникам со стороны матери, твоя награда была бы больше»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2317</td></tr><tr><td>Arabic No</td><td>999</td></tr><tr><td>Reference</td><td>Book 12 Hadith 54</td></tr></tbody></table></div>
 

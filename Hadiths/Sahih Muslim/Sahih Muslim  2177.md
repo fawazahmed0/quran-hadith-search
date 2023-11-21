@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Khabbâb Ibn Al-'Arat (que Dieu l'agrée), Nous émigrâmes avec le Pro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Abu Bakar bin Abu Syaibah] dan [Muhammad bin Abdullah bin Numair] dan [Abu Kuraib] -lafazhnya milik Yahya- Yahya berkata, telah mengabarkan kepada kami -sementara yang lain berkata- Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] dari [Khabbab bin Al Arat] ia berkata; Kami berhijrah di jalan Allah bersama Rasulullah shallallahu 'alaihi wasallam hanya untuk menggapai wajah Allah, maka Allah akan memberikan ganjarannya kepada kami (termasuk di antara adalah harta ghanimah). Namun di antara kami ada yang belum pernah mencicipi ganjarannya sedikitpun, salah satunya adalah Mush'ab bin Umair, karena ia terbunuh pada saat perang Uhud. Saat itu, tidak ada sesuatu pun untuk mengkafaninya kecuali sehelai kain burdah, yang apabila kami letakkan di atas kepalanya, maka kedua kakinya akan tampak, namun jika kami meletakkannya di atas kedua kakinya, maka kepalanya akan tampak. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Letakkanlah tepat di bawah lehernya, dan letakkan Idzkhir (sejenis tumbuh-tumbuhan) di atas kedua kakinya." Maka di antara kami ada yang buah-buahannya telah masak dan ia memetiknya. Dan Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] -dalam jalur lain- Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Isa bin Yunus] -dalam jalur lain- Dan telah menceritakan kepada kami [Minjab bin Harits At Tamimi] telah mengabarkan kepada kami [Ali bin Mushir] -dalam jalur lain- dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Ibnu Abu Umar] semuanya dari [Ibnu Uyainah] dari [Al A'masy] dengan isnad ini semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2177</td></tr><tr><td>Arabic No</td><td>940.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб ибн аль-Аратт, да будет доволен им Аллах, сказал: «Мы переселились (из Мекки в Медину) вместе с Пророком ﷺ, стремясь к лику Аллаха, Который записал у Себя нашу награду. Некоторые из нас умерли, не получив никакой награды (в мире этом), и среди них был Мус‘аб ибн ‘Умайр, да будет доволен им Аллах. Он погиб в битве при Ухуде, оставив после себя (только) полосатую накидку, и когда мы покрывали ею его голову, неприкрытыми оставались ноги, когда же мы покрывали ею ноги, то неприкрытой оставалась голова, и тогда Посланник Аллаха ﷺ велел нам покрыть только голову, а на ноги набросать душистого тростника. Однако были среди нас и такие, плоды которых созрели, и (сейчас) они срывают их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2177</td></tr><tr><td>Arabic No</td><td>940.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 55</td></tr></tbody></table></div>
 

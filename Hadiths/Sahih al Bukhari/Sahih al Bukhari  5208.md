@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:We used to practice coitus interrupt us while the Qur'an was bein
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] dari [Atha'] dari [Jabir] ia berkta; "Pada masa Nabi shallallahu 'alaihi wasallam, kami pernah melakukan 'Azl (mencabut penis saat ejakulasi)." Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Sufyan] Telah berkata [Amru] Telah mengabarkan kepadaku [Atha'] Ia mendengar [Jabir] radliallahu 'anhu berkata; Kami melakukan 'Azl, sedangkan Al Qur'an juga turun. Dan dari [Amru] dari [Atha'] dari [Jabir] ia berkata; Kami melakukan 'Azl di masa Nabi shallallahu 'alaihi wasallam dan Al Qur'an juga turun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5208</td></tr><tr><td>Arabic No</td><td>5208</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Мы предохранялись, а Коран ниспосылался»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5208</td></tr><tr><td>Arabic No</td><td>5208</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

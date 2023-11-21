@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Qatada reported:As we were sitting in the mosque, the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu ath-Thahir] telah mengabarkan kepada kami [Ibnu Wahb] dari [Makhramah bin Bukair] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Makhramah] dari [Bapaknya] dari [Amru bin Sulaim az-Zuraqi] dia berkata, Saya mendengar [Abu Qatadah al-Anshari] berkata, "Saya melihat Rasulullah Shallallahu'alaihiwasallam mengimami shalat orang-orang, sedangkan Umamah binti Abu al-'Ash berada di atas pundaknya. Apabila beliau sujud, maka beliau meletakkannya." Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abu Bakar al-Hanafi] telah menceritakan kepada kami [Abdul Hamid bin Ja'far] semuanya meriwayatkan dari [Sa'id al-Maqburi] dari [Amru bin Sulaim az-Zuraqi] dia mendengar [Abu Qatadah] berkata, "Ketika kami di masjid duduk-duduk, maka Rasulullah Shallallahu'alaihiwasallam mengunjungi kami, " sebagaimana hadits mereka, hanya saja dia tidak menyebutkan bahwa dia mengimami orang-orang dalam shalat tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1215</td></tr><tr><td>Arabic No</td><td>543.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Катада сказал: «Однажды, когда мы сидели в мечети, к нам вышел Посланник Аллаха ﷺ…». Далее подобно предыдущим хадисам, но в этой версии нет упоминания того, что Пророк ﷺ проводил с людьми эту молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1215</td></tr><tr><td>Arabic No</td><td>543.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 55</td></tr></tbody></table></div>
 

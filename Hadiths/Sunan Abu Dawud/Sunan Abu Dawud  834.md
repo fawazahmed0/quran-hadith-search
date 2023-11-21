@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The above-mention tradition has also been transmitted through a different chain 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Taubah Ar Rabi' bin Nafi'] telah mengabarkan kepada kami [Abu Ishaq yaitu Al Fazari] dari [Humaid] dari [Al Hasan] dari [Jabir bin Abdullah] dia berkata: "Kami shalat sunnah dengan membaca do'a baik ketika berdiri ataupun duduk, dan kami mengucapkan tasbih pada waktu ruku' dan sujud." Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Humaid] seperti hadits tersebut dengan tidak menyebutkan shalat sunnah. Humiad berkata; "Al Hasan membaca Al Fatihah dalam shalat Zhuhur dan Ashar baik ketika menjadi Imam atau di belakang imam dan bertasbih, bertakbir, serta bertahlil sepanjang membaca surat Qaaf dan Adz Dzariyat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>834</td></tr><tr><td>Arabic No</td><td>834</td></tr><tr><td>Reference</td><td>Book 2 Hadith 444</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хумайд передаёт нечто подобное, не упомянув о дополнительной молитве, и сказал, что аль-Хасан читал в полуденной и послеполуденной молитвах «аль-Фатиху» и когда был имамом, и когда совершал молитву под руководством имама, а также восхвалял и возвеличивал Аллаха и свидетельствовал о Его единственности столько времени, сколько хватило бы, чтобы прочитать суру «Каф» и «аз-Зариййат»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>834</td></tr><tr><td>Arabic No</td><td>834</td></tr><tr><td>Reference</td><td>Book 2 Hadith 444</td></tr></tbody></table></div>
 

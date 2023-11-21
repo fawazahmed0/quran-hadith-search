@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated by Abu Huraira that the Prophet (may pceace be upon him) sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Furat Al Qazzaz] dari [Abu Hazim] dia berkata, "Saya pernah duduk (menjadi murid) [Abu Hurairah] selama lima tahun, saya pernah mendengar dia menceritakan dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Dahulu Bani Israil selalu dipimpin oleh para Nabi, setiap Nabi meninggal maka akan digantikan oleh Nabi yang lain sesudahnya. Dan sungguh, tidak akan ada Nabi lagi setelahku, namun yang ada adalah para khalifah (kepala pemerintahan) yang merekan akan banyak berbuat dosa." Para sahabat bertanya, "Apa yang anda perintahkan untuk kami jika itu terjadi?" beliau menjawab: "Tepatilah baiat yang pertama, kemudian yang sesudah itu. Dan penuhilah hak mereka, kerana Allah akan meminta pertanggung jawaban mereka tentang pemerintahan mereka." Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abdullah bin Barrad Al Asy'ari] keduanya berkata; telah menceritakan kepada kami [Abdullah bin Idris] dari [Al Hasan bin Furrat] dari [ayahnya] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4773</td></tr><tr><td>Arabic No</td><td>1842.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4773</td></tr><tr><td>Arabic No</td><td>1842.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 71</td></tr></tbody></table></div>
 

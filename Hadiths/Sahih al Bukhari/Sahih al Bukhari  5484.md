@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Adi bin Hatim:The Prophet (ﷺ) said, "If you let loose your hound afte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Ismail] berkata, telah menceritakan kepada kami [Tsabit bin Yazid] berkata, telah menceritakan kepada kami [Ashim] dari [Asy Sya'bi] dari [Adi bin Hatim] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika kamu lepas anjingmu dengan menyebut nama Allah, lalu ia menangkap (buruan) dan membunuhnya, maka makanlah. Jika anjing itu memakannya maka janganlah kamu makan, sebab ia menangkap untuk dirinya sendiri. Jika anjing tersebut bercampur dengan anjing lain yang belum disebut nama Allah saat melepasnya, maka janganlah kamu makan (hasil buruannya), sebab kamu tidak tahu anjing mana yang telah membunuhnya. Jika kamu memanah hewan buruan dan kamu baru menemukannya setelah lewat satu atau dua hari, sedang pada tubuh hewan buruan tersebut tidak ada bekas-bekas lain kecuali bekas panahmu, maka makanlah. Namun jika hewan buruan itu masuk ke dalam air maka janganlah kamu makan." Dan [Abdul A'la] menyebutkan dari [Dawud] dari [Amir] dari [Adi] Bahwasanya ia bertanya kepada Nabi shallallahu 'alaihi wasallam, "Seseorang memanah hewan buruan, lalu ia mengikuti jejaknya dalam dua atau tiga hari dan mendapatkannya telah mati, sementara pada tubuhnya hanya ada bekas panahnya?" Beliau menjawab: "Ia boleh makan jika mau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5484</td></tr><tr><td>Arabic No</td><td>5484</td></tr><tr><td>Reference</td><td>Book 72 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Ади бин Хатима, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если ты спустишь свою собаку и произнесёшь имя Аллаха, а она схватит (дичь) и убьёт её, (можешь) есть, а если она успеет съесть что-нибудь, то не ешь, ибо (это значит, что) она схватила её для себя. Если в (охоте будут участвовать) разные собаки, над которыми имя Аллаха произнесено не будет, и они схватят (дичь) и загрызут её, (тоже) не ешь, ибо ты не знаешь, какая из них её убила. Если ты поразишь дичь стрелой и найдёшь её через день или два дня, не обнаружив на ней ничего, кроме следа от своей стрелы, то (можешь) есть, если же она обнаружится (мёртвой) в воде, то не ешь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5484</td></tr><tr><td>Arabic No</td><td>5484</td></tr><tr><td>Reference</td><td>Book 72 Hadith 10</td></tr></tbody></table></div>
 

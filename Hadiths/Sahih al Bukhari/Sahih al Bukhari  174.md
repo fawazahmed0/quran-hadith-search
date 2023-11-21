@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ And narrated Hamza bin 'Abdullah:My father said. "During the lifetime of Allah's
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>174</td></tr><tr><td>Reference</td><td>Book 4 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Шихаб сказал: «Мне сообщил Хамза ибн ‘Абдуллах (ибн ‘Умар) со слов своего отца, который сказал: “При жизни Посланника Аллаха ﷺ собаки мочились (около мечети) и могли беспрепятственно заходить и входить в неё, и люди не поливали водой (те места, где они мочились)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>174</td></tr><tr><td>Reference</td><td>Book 4 Hadith 40</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin Al Ala'] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Antara dua tiupan sangkakala terdapat empat puluh." Mereka bertanya: Hai Abu Huraiarh? Empatpuluh harikah? Abu Hurairah berkata: Aku enggan menjawab. Mereka bertanya: Empatpuluh bulankah? Abu Hurairah berkata: Aku enggan menjawab. Mereka bertanya: Empatpuluh tahunkah? Abu Hurairah berkata: Aku enggan menjawab. Kemudian Allah menurunkan air dari langit lalu menumbuhkan seperti tumbuhnya tanaman. Ia berkata: Tidak ada seorang pun melainkan telah usang kecuali satu tulang, yaitu tulang ekor. Dari situlah manusia disusun pada hari kiamat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7414</td></tr><tr><td>Arabic No</td><td>2955.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды) Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Между двумя трубными гласами (пройдёт) сорок”».(Абу Хурайра, да будет доволен им Аллах, сказал): «(Люди) спросили: “О Абу Хурайра, сорок дней?” но я отказался (отвечать). Они (снова) спросили: “Сорок месяцев?” но я отказался (отвечать). Они (снова) спросили: “Сорок лет?” но я отказался (отвечать и на этот раз)».(Абу Хурайра, да будет доволен им Аллах, сказал): «А потом Аллах ниспошлёт с небес воду, и (тела людей) станут расти, как растёт трава, и истлеют все (части тела) человека, кроме одной кости, а именно копчика, с которого будет (воссоздан человек) в День воскрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7414</td></tr><tr><td>Arabic No</td><td>2955.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 175</td></tr></tbody></table></div>
 

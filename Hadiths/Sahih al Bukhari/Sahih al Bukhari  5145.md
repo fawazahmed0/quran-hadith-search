@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:"When Hafsa became a widow," 'Umar said, "I met Abu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Yaman] Telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata; Telah mengabarkan kepadaku [Salim bin Abdullah] bahwa ia mendengar [Abdullah bin Umar] radliallahu 'anhuma menceritakan bahwasanya; Ketika Hafshah binti Umar bin Al Khaththab menjadi janda, Umar berkata; Aku mendatangi Abu Bakar dan berkata padanya, "Jika kamu mau, maka aku akan menikahkanmu dengan Hafshah binti Umar." Sesudah itu, aku pun menunggu beberapa malam, hingga kemudian Rasulullah shallallahu 'alaihi wasallam meminang Hafshah. Setelah itu Abu Bakar menemuiku dan berkata, "Sesungguhnya tidak ada yang menghalangiku untuk kembali menemuimu dan menerima tawaranmu kecuali, selain karena aku tahu bahwa Rasulullah shallallahu 'alaihi wasallam pernah menyebutnya, dan aku tidak mau membuka rahasia dari Rasulullah shallallahu 'alaihi wasallam, kalau beliau meninggalkannya niscaya aku akan menerimanya sebagai isteri." Hadis ini diperkuat oleh [Yunus], [Musa bin Utbah] dan [Ibnu Abu 'Atiq], dari [Az Zuhri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5145</td></tr><tr><td>Arabic No</td><td>5145</td></tr><tr><td>Reference</td><td>Book 67 Hadith 80</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что ‘Умар ибн аль-Хаттаб сказал: «(Когда моя дочь) Хафса стала вдовой, я встретил Абу Бакра и сказал: “Если хочешь, я выдам за тебя Хафсу бинт ‘Умар”, а через несколько дней к ней посватался Посланник Аллаха ﷺ. А потом меня встретил Абу Бакр и сказал: “Принять твоё предложение помешало мне лишь моё знание о том, что о ней упоминал Посланник Аллаха ﷺ, выдать же тайну Посланника Аллаха ﷺ я не мог, а если бы он отказался, то я обязательно взял бы её сам!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5145</td></tr><tr><td>Arabic No</td><td>5145</td></tr><tr><td>Reference</td><td>Book 67 Hadith 80</td></tr></tbody></table></div>
 

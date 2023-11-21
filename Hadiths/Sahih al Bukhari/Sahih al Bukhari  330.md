@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A woman is allowed to leave (go back home) if she gets mense
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] berkata, telah menceritakan kepada kami [Wuhaib] dari ['Abdullah bin Thawus] dari [Bapaknya] dari [Ibnu 'Abbas] berkata, "Wanita yang haid diberi keringanan untuk nafar (meninggalkan Mina), dan pada mulanya [Ibnu Umar] melarang hal itu, namun kemudian aku mendengar ia mengatakan, 'Wanita haid boleh nafar karena Rasulullah shallallahu 'alaihi wasallam telah memberi keringanan buat mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>330</td></tr><tr><td>Arabic No</td><td>330</td></tr><tr><td>Reference</td><td>Book 6 Hadith 34</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И Ибн ‘Умар в начале говорил, что она не уезжает. Потом я слышал, как он говорил: «Она уезжает, ибо, Посланник Аллаха ﷺ позволил им (это)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>330</td></tr><tr><td>Arabic No</td><td>330</td></tr><tr><td>Reference</td><td>Book 6 Hadith 34</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Alaqah ibn Sahar at-Tamimi: We proceeded from the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3901</td></tr><tr><td>Arabic No</td><td>3901</td></tr><tr><td>Reference</td><td>Book 29 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хариджа ибн ас-Сальт ат-Тамими, да будет доволен им Аллах, передаёт от своего дяди: «Возвращаясь от Посланника Аллаха ﷺ мы проходили квартал, населённый арабами, и они сказали: “Нам сообщили, что вы пришли от этого человека с добром. Есть ли у вас какое-нибудь лекарство или заклинание, а то у нас здесь помешанный в цепях?” Мы ответили: “Есть”. Тогда они привели этого помешанного в цепях, и я читал над ним “аль-Фатиху” в течение трёх дней утром и вечером. Каждый раз, завершая чтение, я сплёвывал, и он как будто освободился от оков. Они предложили мне вознаграждение, однако я сказал, что не возьму ничего, пока не спрошу Посланника Аллаха ﷺ. (Посланник Аллаха ﷺ) сказал: “Ешь, ибо, поистине, ты из тех, кто приобрёл это имущество не путём ложного заклинания, а путём истинного заклинания”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3901</td></tr><tr><td>Arabic No</td><td>3901</td></tr><tr><td>Reference</td><td>Book 29 Hadith 47</td></tr></tbody></table></div>
 

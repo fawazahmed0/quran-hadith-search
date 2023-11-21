@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Uqbah bin al-Harith said:"I married Umm Yahya daughter of Abu Ihab. A black woma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Ibnu Abu Mulaikah] telah menceritakan kepadaku ['Uqbah bin Al Harits] dan telah menceritakannya kepadaku [sahabatku], dan aku lebih hafal terhadap hadits sahabatku, ia berkata, "Aku menikahi Ummu Yahya binti Abu Ihab, kemudian seorang wanita hitam datang kepadaku dan mengaku bahwa ia telah menyusui kami semua. Lalu aku datang kepada Nabi shallallahu 'alaihi wasallam dan menceritakan hal tersebut kepadanya. Beliau pun berpaling dariku, lalu aku katakan, "Wahai Rasulullah, sesungguhnya ia telah berdusta." Beliau bersabda: "Bagaimana engkau mengetahui, sementara ia telah mengatakan apa yang telah ia katakan. Tinggalkan wanita (isterimu) tersebut!" Telah menceritakan kepada kami [Ahmad bin Abu Syu'aib Al Harrani] telah menceritakan kepada kami [Al Harits bin 'Umair Al Bashri]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Isma'il bin 'Ulaiyyah] keduanya berasal dari [Ayyub] dari [Ibnu Abu Mulaikah] dari ['Ubaid bin Abu Maryam] dari ['Uqbah bin Al Harits] aku telah mendengarnya dari 'Uqbah, akan tetapi aku lebih hafal dengan hadits 'Ubaid…lalu ia menyebutkan maknanya." Abu Daud berkata; [Hammad bin Zaid] melihat kepada Al Harits bin 'Umair kemudian berkata, "Orang ini termasuk di antara sahabat-sahabat Ayyub yang tsiqah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5104)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3603</td></tr><tr><td>Arabic No</td><td>3603</td></tr><tr><td>Reference</td><td>Book 25 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Ибн Абу Муляйка передаёт: «Мне рассказывали сам ‘Укба ибн аль-Харис и один мой друг, передававший от него, причём рассказ своего друга я запомнил лучше: “Я женился на Умм Яхье бинт Абу Ихаб, а потом к нам зашла темнокожая женщина, которая сказала, что кормила грудью нас обоих. Я отправился к Пророку ﷺ и рассказал ему об этом. Он отвернулся от меня. Я сказал: “О Посланник Аллаха! Она лжёт!” (Посланник Аллаха ﷺ) сказал: “Откуда тебе известно это? Ведь она сказала то, что сказала… Покинь её””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5104)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3603</td></tr><tr><td>Arabic No</td><td>3603</td></tr><tr><td>Reference</td><td>Book 25 Hadith 33</td></tr></tbody></table></div>
 

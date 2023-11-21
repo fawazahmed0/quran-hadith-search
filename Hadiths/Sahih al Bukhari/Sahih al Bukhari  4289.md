@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullãh bin 'Umar (ra):Allah's Messenger (ﷺ) entered Makkah throug
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4289</td></tr><tr><td>Arabic No</td><td>4289</td></tr><tr><td>Reference</td><td>Book 64 Hadith 322</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что в день завоевания Мекки Посланник Аллаха ﷺ подъехал к городу со стороны его верхней части. Он ехал верхом на своей верблюдице, позади него сидел Усама ибн Зейд, а Биляль и ‘Усман ибн Тальха, один из служителей (Каабы), сопровождали его, пока он не опустил (свою верблюдицу) на колени на (территории) мечети, где велел (Тальхе) принести ключи (от Каабы). (Когда Тальха открыл двери,) Посланник Аллаха ﷺ вместе с Усамой ибн Зейдом, Билялем и ‘Усманом ибн Тальхой вошёл внутрь в дневное время и долго оставался там. Потом он вышел, после чего люди поспешили (к Каабе), и первым из вошедших туда был ‘Абдуллах ибн ‘Умар. За воротами он увидел стоявшего Биляля, которого спросил: «Где Посланник Аллаха ﷺ совершил молитву?» — и (Биляль) показал ему место, где Пророк ﷺ совершил молитву. \n‘Абдуллах сказал: «И я забыл спросить его, сколько земных поклонов он совершил»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4289</td></tr><tr><td>Arabic No</td><td>4289</td></tr><tr><td>Reference</td><td>Book 64 Hadith 322</td></tr></tbody></table></div>
 

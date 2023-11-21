@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:When Allah's Messenger (ﷺ) arrived in Mecca, he refused to
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ishaq] Telah menceritakan kepada kami [Abdush Shamad] katanya, telah menceritakan kepadaku [ayahku] Telah menceritakan kepada kami [Ayyub] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma, Rasulullah shallallahu 'alaihi wasallam ketika tiba di Makkah, beliau enggan masuk Baitullah (ka'bah) yang ketika itu banyak arca (patung), maka beliau perintahkan agar semua gambar-gambar dibuang, maka dikeluarkanlah gambar Ibrahim dan Ismail yang keduanya digambarkan mengundi nasib dengan anak panah. Lantas Nabi shallallahu 'alaihi wasallam berkomentar: "Kiranya Allah membinasakan mereka, mereka tahu bahwa Ibrahim dan Ismail sama sekali tak pernah mengundi nasib dengan anak panah." Kemudian beliau memasuki Ka'bah dan beliau bertakbir di seluruh penjuru baitullah, lalu beliau keluar dan tidak shalat di dalamnya. Hadist ini dikuatkan jalur perawinya oleh [Ma'mar] dari [Ayyub] dan [Wuhaib] mengatakan, Telah menceritakan kepada kami [Ayyub] dari [Ikrimah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4288</td></tr><tr><td>Arabic No</td><td>4288</td></tr><tr><td>Reference</td><td>Book 64 Hadith 321</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, что когда Посланник Аллаха ﷺ вступил в Мекку, он отказался входить в Каабу, в которой находились идолы, а потом по его велению их удалили (оттуда вместе) с изображением Ибрахима и Исма‘ила, в руках которых были изображены гадальные стрелы. Пророк ﷺ сказал: «Да погубит их Аллах (курайшитов)! Ведь им известно, что они никогда не гадали на стрелах!» А потом он вошёл в Каабу и произнёс слова «Аллах велик», повернувшись к каждой из (её) сторон, а затем вышел, не совершив (там) молитву
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4288</td></tr><tr><td>Arabic No</td><td>4288</td></tr><tr><td>Reference</td><td>Book 64 Hadith 321</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Jews and the Christians 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah bercerita kepadaku [Ibrahim bin Sa'ad] dari [Shalih] dari [Ibnu Syihab] berkata; [Abu Salamah bin 'Abdur Rahman] berkata bahwa [Abu Hurairah radliallahu 'anhu] berkata; bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang-orang Yahudi dan Nashrani tidak menyemir (mewarnai rambut atau jenggot), maka selisihilah mereka" (berbeda dengan mereka)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 60 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, иудеи и христиане не закрашивают (седые волосы), а вы поступайте наоборот»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 60 Hadith 129</td></tr></tbody></table></div>
 

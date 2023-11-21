@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Zaid bin Thabit added, "A verse from Surat Ahzab was missed by me when we copied
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4988</td></tr><tr><td>Arabic No</td><td>4988</td></tr><tr><td>Reference</td><td>Book 66 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Сабит, да будет доволен им Аллах, сказал: «Переписывая листы из (различных копий) Корана, я потерял один аят из суры “аль-Ахзаб”, который часто слышал от Посланника Аллаха ﷺ и смог найти его только у Хузаймы ибн Сабита аль-Ансари. (В этом аяте говорилось следующее): “Среди верующих есть люди, которые верны тому, что они обещали Аллаху” (сура “аль-Ахзаб”, аят 23). И мы добавили этот аят к суре в мусхаф»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4988</td></tr><tr><td>Arabic No</td><td>4988</td></tr><tr><td>Reference</td><td>Book 66 Hadith 10</td></tr></tbody></table></div>
 

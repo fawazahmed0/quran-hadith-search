@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:When Allah Apostle was in Ta'if (trying to conquer 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Abu 'Abbas] dari [Ibnu Umar] dia berkata; "Ketika Rasulullah shallallahu 'alaihi wasallam berada di Tha'if (mengepung penduduk Tha'if), beliau bersabda: "Insya Allah besok kita akan kembali pulang." Para sahabat bertanya; "Kami tidak akan berhenti (mengepung) atau kita akan menaklukkannya?" Maka Nabi shallallahu 'alaihi wasallam bersabda: "Kalau begitu, pergilah kalian besok pagi untuk memerangi mereka." Keesokan harinya mereka berangkat dan berperang dengan peperangan yang dahsyat sehingga mereka banyak yang terluka. Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Besok kita akan kembali pulang." Abdullah bin 'Amru berkata; "Merekapun diam dan Rasulullah shallallahu 'alaihi wasallam tertawa." [Al Humaidi] berkata; telah menceritakan kepada kami [Sufyan] dengan semua cerita hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6086</td></tr><tr><td>Arabic No</td><td>6086</td></tr><tr><td>Reference</td><td>Book 78 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Когда Посланник Аллаха ﷺ был в Таифе, (завоевать который не получилось,) он сказал: “Поистине, завтра мы уйдём, если пожелает Аллах”. И некоторые сподвижники Посланника Аллаха ﷺ сказали: “Мы не уйдём, пока не завоюем его”. Тогда Пророк ﷺ сказал: “(Тогда) идите в бой!” На следующий день они стали жестоко сражаться, но (многие) были ранены, и Пророк ﷺ сказал: “Поистине, завтра мы уйдём, если пожелает Аллах”, и (в этот раз) люди молчали, а Посланник Аллаха ﷺ рассмеялся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6086</td></tr><tr><td>Arabic No</td><td>6086</td></tr><tr><td>Reference</td><td>Book 78 Hadith 114</td></tr></tbody></table></div>
 

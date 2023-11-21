@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Fudalah bin 'Ubaid:We were with the Messenger of Allah (ﷺ) at the bat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Al Laits] dari [Ibnu Abu Ja'far], dari [Al Julah Abu Katsir], telah menceritakan kepadaku [Hanasy Ash Shan'ani], dari [Fadhlah bin 'Ubaid], ia berkata; kami pernah bersama Rasulullah shallallahu 'alaihi wasallam pada saat perang khaibar, kami menjual emas kepada orang-orang yahudi dengan dinar. Selain Qutaibah berkata; dengan dua dan tiga dinar. Kemudian lafazh mereka sama; kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian menjual emas dengan emas kecuali dengan timbangan yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1591)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3353</td></tr><tr><td>Arabic No</td><td>3353</td></tr><tr><td>Reference</td><td>Book 23 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Фадаля ибн ‘Убайд, да будет доволен им Аллах, передаёт: «После взятия Хайбара мы вместе с Посланником Аллаха ﷺ торговали с иудеями, причём за динар (или: за два или три динара) давалась окия (смешанного с чем-то другим) золота, и Посланник Аллаха ﷺ сказал: “Не продавайте золото за золото иначе как по весу”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1591)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3353</td></tr><tr><td>Arabic No</td><td>3353</td></tr><tr><td>Reference</td><td>Book 23 Hadith 28</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaifa:By chance I went to the Prophet (ﷺ) at noon while he was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3566</td></tr><tr><td>Arabic No</td><td>3566</td></tr><tr><td>Reference</td><td>Book 61 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Джухайфа, сказал: «Я пришёл к Пророку ﷺ в полуденную жару, когда он был в своей палатке в аль-Абтахе. Вышел Биляль (из палатки) и провозгласил о начале молитвы, затем зашёл (в палатку) и вынес оставшуюся (после его омовения) воду Посланника Аллаха ﷺ, и люди стали брать эту воду. Затем он снова зашёл и вынес палку с заострённым концом, Посланник Аллаха ﷺ тоже вышел, и как будто я и сейчас вижу белизну его голеней. Затем он совершил полуденную /зухр/ и послеполуденную /‘аср/ молитвы, каждая из которых состояла из двух рак‘атов, во время которых перед ним находилась палка с заострённым концом, а позади неё проходили ослы и женщины»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3566</td></tr><tr><td>Arabic No</td><td>3566</td></tr><tr><td>Reference</td><td>Book 61 Hadith 76</td></tr></tbody></table></div>
 

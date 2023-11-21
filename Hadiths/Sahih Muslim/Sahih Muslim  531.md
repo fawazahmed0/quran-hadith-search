@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b Mas'ud reported:The Messenger of Allah (ﷺ) addressed us and then su
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [bapakku] telah menceritakan kepada kami [Malik dan dia Ibnu Mighwal] dari [Abu Ishaq] dari [Amru bin Maimun] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam memberi khutbah kepada kami, lalu beliau menyandarkan punggungnya ke kubah yang terbuat dari kulit seraya bersabda: "Ketahuilah, tidak akan masuk surga melainkan jiwa yang berserah diri. Ya Allah, apakah aku telah menyampaikan, ya Allah persaksikanlah. Apakah kalian rela menjadi seperempat dari penduduk surga? ' Kami menjawab, 'Ya.' Lalu beliau bertanya lagi: 'Apakah kalian rela menjadi sepertiga dari penduduk surga? ' Kami menjawab, 'Ya.' Maka beliau bersabda: "Sesungguhnya aku mengharap kalian menjadi setengah dari penduduk surga. Dan tidaklah kalian berada pada ahli syirik melainkan seperti bulu putih pada kulit sapi hitam, atau seperti bulu hitam pada kulit sapi yang merah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>531</td></tr><tr><td>Arabic No</td><td>221.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 437</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Абдуллах сказал: «Однажды, прислонившись своей спиной к шатру из кожи, Посланник Аллаха ﷺ обратился к нам, сказав: “В Рай войдёт только покорившаяся душа! О Аллах, довёл ли я? О Аллах, засвидетельствуй! Хотели бы вы составить четверть обитателей Рая?” Люди ответили: “Да, о Посланник Аллаха!” Тогда он спросил: “А хотели бы вы составлять собой треть обитателей Рая?” Люди ответили: “Да, о Посланник Аллаха!” Он сказал: “Поистине, я надеюсь, что вы составите собой половину обитателей Рая. По сравнению с другими общинами вы подобны чёрному волоску на шкуре белого быка или белому волоску на шкуре чёрного быка”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>531</td></tr><tr><td>Arabic No</td><td>221.03</td></tr><tr><td>Reference</td><td>Book 1 Hadith 437</td></tr></tbody></table></div>
 

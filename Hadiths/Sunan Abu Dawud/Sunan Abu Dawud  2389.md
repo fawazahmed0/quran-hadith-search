@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah, wife of Prophet (ﷺ):A man said to Messenger of Allah (ﷺ): 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] dari [Malik] dari [Abdullah bin Abdurrahman bin Ma'mar Al Anshari] dari [Abu Yunus] mantan budak Aisyah, dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam bahwa seorang laki-laki berkata kepada Rasulullah shallallahu 'alaihi wasallam sementara beliau berdiri di depan pintu; wahai Rasulullah sesungguhnya saya pada suatu pagi dalam keadaan junub dan saya ingin berpuasa. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Dan aku pernah pada suatu pagi dalam keadaan junub dan ingin berpuasa, lalu aku mandi dan berpuasa." Kemudian orang tersebut berkata; wahai Rasulullah, sesungguhnya engkau tidak seperti kami, Allah telah mengampuni dosamu yang telah lalu dan yang akan datang. Kemudian Rasulullah shallallahu 'alaihi wasallam marah dan berkata: "Demi Allah aku berharap menjadi orang yang paling takut diantara kalian kepada Allah, dan orang yang paling mengerti apa yang aku ikuti
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (1110)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2389</td></tr><tr><td>Arabic No</td><td>2389</td></tr><tr><td>Reference</td><td>Book 14 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах, что однажды к дверям дома Посланника Аллаха ﷺ пришёл человек, который спросил: «О Посланник Аллаха, иногда с наступлением времени утренней молитвы я нахожусь в состоянии большого осквернения, но при этом я хочу соблюдать пост». Посланник Аллаха ﷺ сказал: «И со мной бывает так, что с наступлением времени утренней молитвы я нахожусь в состоянии большого осквернения, но при этом желаю соблюдать пост. И я совершаю полное омовение и пощусь». Этот человек сказал: «О Посланник Аллаха, ты не таков, как мы, ведь Аллах простил тебе все твои прошлые и будущие грехи!» Посланник Аллаха ﷺ разгневался и воскликнул: «Клянусь Аллахом, поистине, я надеюсь, что больше всех из вас боюсь Аллаха и лучше всех из вас знаю о том, чему следую!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (1110)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2389</td></tr><tr><td>Arabic No</td><td>2389</td></tr><tr><td>Reference</td><td>Book 14 Hadith 77</td></tr></tbody></table></div>
 

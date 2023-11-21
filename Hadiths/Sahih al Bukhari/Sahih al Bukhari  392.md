@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "I have been ordered to fi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>392</td></tr><tr><td>Arabic No</td><td>392</td></tr><tr><td>Reference</td><td>Book 8 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Мне было велено сражаться с этими людьми до тех пор, пока они не скажут Ля иляха илля-Ллах. И если они произнесут это, будут совершать молитву так же, как и мы, обращаться к нашей кибле, и закалывать жертву так, как это делаем мы, то для нас является запретным их кровь и имущество кроме, как по праву и (тогда) отчёта с них (вправе будет требовать только) Аллах»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>392</td></tr><tr><td>Arabic No</td><td>392</td></tr><tr><td>Reference</td><td>Book 8 Hadith 44</td></tr></tbody></table></div>
 

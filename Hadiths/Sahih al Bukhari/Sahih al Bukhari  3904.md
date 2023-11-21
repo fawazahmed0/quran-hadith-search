@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) sat on the pulpit and said,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah menceritakan kepadaku [Malik] dari [Abu an Nadlar] mantan budak 'Umar bin 'Ubaidullah, dari ['Ubaid], yaitu anak dari Hunain, dari [Abu Sa'id Al Khudri] radliallahu 'anhu, bahwa Rasulullah shallallahu 'alaihi wasallam duduk di atas mimbar lalu bersabda: "Sesungguhnya ada seorang hamba yang Allah telah ditawarkan kepadanya untuk memilih antara dunia dan apa yang ada di sisi-Nya, lalu hamba tersebut memilih apa yang ada di sisi Allah". Maka tiba-tiba Abu Bakar menangis lalu berkata; "Kami tebus anda dengan bapak-bapak dan ibu-ibu kami". Kami menjadi heran kepadanya. Orang-orang berkata;; "Perhatikanlah orang tua ini. Rasulullah shallallahu 'alaihi wasallam mengabarkan tentang seorang hamba yang Allah ditawarkan kepadanya perhiasan dunia dan apa yang ada di sisi-Nya lalu orang tua ini berkata; "Kami tebus anda dengan bapak-bapak dan ibu-ibu kami". Dan ternyata hamba yang diminta memilih itu adalah Rasulullah shallallahu 'alaihi wasallam. Dan Abu Bakar adalah orang yang paling memahami tentang beliau. Dan kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya manusia yang paling terpercaya di hadapanku dalam persahabatannya dan hartanya adalah Abu Bakar. Dan seandainya aku boleh mengambil kekasih selain Rabbku, tentulah Abu Bakar orangnya. Akan tetapi yang ada adalah persaudaraan Islam. Sungguh tidak ada satupun pintu di dalam masjid yang tersisa melainkan akan tertutup kecuali pintunya Abu Bakar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3904</td></tr><tr><td>Arabic No</td><td>3904</td></tr><tr><td>Reference</td><td>Book 63 Hadith 129</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Однажды Посланник Аллаха ﷺ сел на минбар и сказал: “Поистине, Аллах предоставил одному (из Своих) рабов возможность выбора между тем, чтобы получить из прелестей этого мира, что он захочет, и тем, что есть у Него, и (этот раб) выбрал то, что есть у Аллаха”. (Услышав эти слова,) Абу Бакр заплакал и сказал: “Да станут наши отцы и матеря выкупом за тебя!” Мы удивились этому, и люди стали говорить: “Посмотрите на этого старца: Посланник Аллаха ﷺ сообщает, что Аллах предоставил Своему рабу возможность выбора между любыми благами мира этого и тем, что есть у Него, а он говорит: “Да станут наши отцы и матери выкупом за тебя!” (Однако дело было в том, что) рабом этим являлся (не кто иной, как) Посланник Аллаха ﷺ, а Абу Бакр (понял смысл его слов, ибо) был самым сведущим среди нас о нём. Посланник Аллаха ﷺ сказал: “Поистине, из всех людей наибольшее количество благодеяний оказал мне Абу Бакр, который был моим соратником и не жалел для меня своего имущества, и если бы мне пришлось выбирать “халиля” (любимца) из числа (членов) моей общины, я непременно выбрал бы Абу Бакра, однако (между нами) братство и любовь в исламе! Так пусть же не останется в мечети незапертых дверей, кроме двери Абу Бакра!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3904</td></tr><tr><td>Arabic No</td><td>3904</td></tr><tr><td>Reference</td><td>Book 63 Hadith 129</td></tr></tbody></table></div>
 

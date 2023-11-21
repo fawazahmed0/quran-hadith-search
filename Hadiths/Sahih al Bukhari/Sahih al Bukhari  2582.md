@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Azra bin Thabit Al-Ansari:When I went to Thumama bin 'Abdullah, he gav
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami ['Azrah bin Tsabit Al Anshariy] berkata, telah menceritakan kepadaku [Tsumamah bin 'Abdullah] berkata; "Aku menemuinya lalu ia menyodorkan minyak wangi kepadaku seraya berkata; Anas radliallahu 'anhu tidak menolak minyak wangi". Dia berkata; "Dan [Anas] yakin bahwa Nabi shallallahu 'alaihi wasallam tidak menolak jika ditawarkan minyak wangi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2582</td></tr><tr><td>Arabic No</td><td>2582</td></tr><tr><td>Reference</td><td>Book 51 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ никогда не отвергал благовоний(, которые ему дарили)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2582</td></tr><tr><td>Arabic No</td><td>2582</td></tr><tr><td>Reference</td><td>Book 51 Hadith 17</td></tr></tbody></table></div>
 

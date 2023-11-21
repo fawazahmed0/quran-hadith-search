@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ash-Shaibani:I heard 'Abdullah bin Abi 'Aufa saying, "The Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami [As Syaibani] dia berkata; saya mendengar [Abdullah bin Abu Aufa] radliallahu 'anhuma berkata; Nabi shallallahu 'alaihi wasallam melarang al jar al ahdlar (tempat air minum yang terbuat dari tembikar yang dicat hijau), tanyaku; "apakah kami (diperbolehkan) dari yang berwarna putih? Dia menjawab; "Tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5596</td></tr><tr><td>Arabic No</td><td>5596</td></tr><tr><td>Reference</td><td>Book 74 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Аби ‘Ауфа, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ запретил использовать зелёные кувшины (“аль-джарр аль-ахдар” — глиняный сосуд, который использовался для изготовления опьяняющих напитков и имевший характерный зелёный цвет). Я спросил: “Можем ли мы пить из кувшинов белого цвета?” Он ответил: “Нет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5596</td></tr><tr><td>Arabic No</td><td>5596</td></tr><tr><td>Reference</td><td>Book 74 Hadith 22</td></tr></tbody></table></div>
 

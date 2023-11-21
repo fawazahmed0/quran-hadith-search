@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:The Messenger of Allah (ﷺ) used to commend prayer at nig
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] dan [Muhammad bin Al Mutawakkil] keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar]; Al Hasan berkata dalam haditsnya; Dan [Malik bin Anas] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam biasa memberi motivasi untuk selalu mengerjakan shalat pada malam bulan Ramadhan tanpa memerintahkan secara ketat kepada mereka, beliau bersabda: "Barangsiapa bangun (shalat) malam pada bulan Ramadhan dengan penuh keimanan dan mengharap (ridla Allah), maka dosa-dosanya yang telah lalu akan di ampuni." Lalu Rasulullah shallallahu 'alaihi wasallam wafat, sedangkan perkara itu masih tetap ada, kemudian perkara itu berlanjut hingga pemerintahan Abu Bakar radliallahu 'anhu dan di awal pemerintahan Umar radliallahu 'anhu. Abu Daud berkata; "Demikian pula yang di riwayatkan oleh ['Uqail], [Yunus] dan [Abu Uwais] yaitu; "Barangsiapa berpuasa pada bulan Ramadhan dan bangun (shalat) pada malamnya…
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (759)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 6 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах: «Посланник Аллаха ﷺ побуждал людей выстаивать дополнительную молитву в рамадане, однако не приказывал им делать это. Он говорил: “Кто выстаивал рамадан с верой и надеждой на награду от Аллаха, тому простятся его прошлые прегрешения”. Так всё оставалось до самой кончины Посланника Аллаха ﷺ, а также во время правления Абу Бакра, да будет доволен им Аллах, и в начале правления ‘Умара, да будет доволен им Аллах». Абу Дауд сказал: «‘Укайль, Юнус и Абу Увайс передавали: “Кто выстаивал рамадан…”, а ‘Укайль передавал: «Кто постился рамадан и выстаивал его…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (759)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 6 Hadith 1</td></tr></tbody></table></div>
 

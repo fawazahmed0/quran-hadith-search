@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ka'b:that a slave girl of theirs used to shepherd some sheep at Si'a (a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakar Al Muqaddami] berkata, telah menceritakan kepada kami [Mu'tamir] dari [Ubaidullah] dari [Nafi'] ia mendengar [Ibnu Ka'b bin Malik] mengabarkan kepada Ibnu Umar, bahwa [Bapaknya] mengabarkan kepadanya, bahwa budak perempuan mereka mengembala kambing di Sal' (nama tempat), budak wanita itu kemudian melihat bahwa di antara kambingnya ada yang akan mati, maka iapun memecah batu dan menyembelihnya dengan pecahan batu tersebut. Ka'b lalu berkata kepada keluarganya, "Kalian jangan memakannya hingga aku menemui Nabi shallallahu 'alaihi wasallam dan bertanya kepadanya, atau ia mengatakan, "hingga aku mengutus seseorang yang bisa menanyakannya kepada beliau. Ka'b kemudian mengutus seseorang menemui Nabi shallallahu 'alaihi wasallam, maka Nabi shallallahu 'alaihi wasallam pun memerintahkan untuk memakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5501</td></tr><tr><td>Arabic No</td><td>5501</td></tr><tr><td>Reference</td><td>Book 72 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается, что Ка‘б (ибн Малик), да будет доволен им Аллах, сообщил, что их рабыня раньше пасла овец в Саль‘а (гора недалеко от Медины). Увидев, что одна из ее овец находится при смерти, она разбила камень и зарезала им овцу. Ка‘б сказал своей семье: “Не ешьте (этого), пока я не пойду к Пророку (ﷺ) и не спрошу его, или пока я не пошлю кого-нибудь спросить его”. И когда он пошел к Пророку (ﷺ) или послал кого-то к нему, то Пророк (ﷺ) велел (им) съесть её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5501</td></tr><tr><td>Arabic No</td><td>5501</td></tr><tr><td>Reference</td><td>Book 72 Hadith 27</td></tr></tbody></table></div>
 

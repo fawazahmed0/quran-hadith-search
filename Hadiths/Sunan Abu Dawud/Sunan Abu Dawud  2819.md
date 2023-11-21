@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: The Jews came to the Prophet (ﷺ) and said: We eat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Imran bin 'Uyainah], dari ['Atha' bin As Saib], dari [Sa'id bin Jubair], dari [Ibnu Abbas], ia berkata; orang-orang yahudi telah datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; kami maka apa yang kami bunuh, dna kami tidak makan apa yang Allah bunuh. Kemudian Allah menurunkan ayat: "Dan jangan kalian makan apa yang yang belum disebutkan nama Allah padanya." Hinngga akhir ayat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2819</td></tr><tr><td>Arabic No</td><td>2819</td></tr><tr><td>Reference</td><td>Book 16 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «К Пророку ﷺ пришли иудеи и сказали: «Мы должны есть из того, что убили мы, и не есть из того, что убил Аллах?» Тогда Аллах ниспослал: «И не ешьте из того, над чем не было помянуто имя Аллаха, ибо это есть нечестие. Воистину, шайтаны внушают своим помощникам стремление препираться с вами. Если вы станете повиноваться им, то окажетесь многобожниками» (сура 6 «аль-Ан‘ам», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2819</td></tr><tr><td>Arabic No</td><td>2819</td></tr><tr><td>Reference</td><td>Book 16 Hadith 32</td></tr></tbody></table></div>
 

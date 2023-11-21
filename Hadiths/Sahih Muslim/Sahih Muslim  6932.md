@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Messenger (ﷺ) said:Allah is pleased with H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Ibnu Numair] -dan lafadh ini milik Ibnu Numair- mereka berkata; telah menceritakan kepada kami [Abu Usamah] dan [Muhammad bin Bisyr] dari [Zakariya bin Abu Zaidah] dari [Sa'id bin Abu Burdah] dari [Anas bin Malik] dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: 'Sesungguhnya Allah Ta'ala sangat suka kepada hamba-Nya yang mengucapkan tahmid (Alhamdulillah) sesudah makan dan minum." Dan telah menceritakannya kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Ishaq bin Yusuf Al Azraq] telah menceritakan kepada kami [Zakariya] dengan sanad ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6932</td></tr><tr><td>Arabic No</td><td>2734.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 123</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Воистину, Аллах доволен таким рабом, который, поев пищу, восхваляет Его за неё, или, попив питьё, восхваляет Его за неё»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6932</td></tr><tr><td>Arabic No</td><td>2734.01</td></tr><tr><td>Reference</td><td>Book 48 Hadith 123</td></tr></tbody></table></div>
 

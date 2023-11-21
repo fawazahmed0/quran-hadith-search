@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Tamim al-Dari reported the Prophet (May peace be upon him) as saying; Religion c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Suhail bin Abu Shalih] dari [Atha bin Yazid] dari [Tamim Ad Dari] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya agama itu adalah nasihat, sesungguhnya agama itu adalah nasihat, sesungguhnya agama itu adalah nasihat." Para sahabat bertanya, "Wahai Rasulullah, bagi siapa?" Beliau menjawab: "Bagi Allah, kitab-Nya, Rasul-Nya, pemimpin kaum mukminin dan orang-orang awam (rakyat) mereka, atau beliau mengatakan, "pemimpin kaum muslimin dan orang-orang awam (rakyat) mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (55)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>4944</td></tr><tr><td>Reference</td><td>Book 43 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Рукайа Тамим бин Аус ад-Дари, да будет доволен им Аллах, сказал: «(Однажды) Посланник Аллаха ﷺ сказал: «Религия есть проявление искренности. Религия есть проявление искренности. Религия есть проявление искренности». Мы спросили: «По отношению к кому?» Он сказал: «По отношению к Аллаху, и к Его Книге, и к Его посланнику, и к руководителям мусульман и ко всем мусульманам вообще»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (55)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>4944</td></tr><tr><td>Reference</td><td>Book 43 Hadith 172</td></tr></tbody></table></div>
 

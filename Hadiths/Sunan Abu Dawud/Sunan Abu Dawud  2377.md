@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ma'bad b. Hudhah: The Prophet (ﷺ) commanded to apply collyrium mixed 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili], telah menceritakan kepada kami [Ali bin Tsabit], telah menceritakan kepadaku [Abdurrahman bin An Nu'man bin Ma'bad bin Haudzah] dari [ayahnya], dari [kakeknya] dari Nabi shallallahu 'alaihi wasallam bahwa beliau memerintahkan untuk memakai Itsmid yang berminyak wangi ketika hendak tidur. Dan beliau berkata: "Dan orang yang berpuasa hendaknya menghindarinya." Abu Daud berkata; Yahya bin Ma'in telah mengatakan kepadaku; hadits tersebut adalah hadits munkar, yaitu hadits mengenai celak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>2377</td></tr><tr><td>Reference</td><td>Book 14 Hadith 65</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ма‘бада ибн Хаузы, что Пророк ﷺ велел использовать сурьму с благовонием перед сном, но сказал: «Пусть постящийся избегает её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>2377</td></tr><tr><td>Reference</td><td>Book 14 Hadith 65</td></tr></tbody></table></div>
 

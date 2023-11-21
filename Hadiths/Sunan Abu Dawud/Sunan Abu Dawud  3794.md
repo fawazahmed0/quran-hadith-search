@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Abbas said on the authority of Khalid b. al-Walid that he entered the hou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Abu Umamah bin Sahl bin Hunaif] dari [Abdullah bin Abbas] dari [Khalid bin Al Walid] bahwa ia bersama Rasulullah shallallahu 'alaihi wasallam pernah memasuki rumah Maimunah, kemudian didatangkan seekor biawak bakar. Rasulullah shallallahu 'alaihi wasallam berkeinginan untuk mengambilnya, lalu sebagian isteri yang berada di rumah Maimunah berkata, "Beritahukanlah kepada Nabi shallallahu 'alaihi wasallam apa yang hendak beliau makan!" Kemudian mereka berkata, "Itu daging biawak." Maka Rasulullah shallallahu 'alaihi wasallam pun mengangkat tangannya." Khalid berkata, "Lalu aku katakan, "Wahai Rasulullah, apakah daging itu haram?" Beliau menjawab: "Tidak, akan tetapi biawak tersebut tidak ada di negeri kaumku, maka aku dapati diriku tidak menyukainya." Khalid berkata, "Lalu aku mengambil dan memakannya, sementara Rasulullah shallallahu 'alaihi wasallam melihat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2537) Sahih Muslim (1945)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3794</td></tr><tr><td>Arabic No</td><td>3794</td></tr><tr><td>Reference</td><td>Book 28 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Халида ибн аль-Валида, да будет доволен им Аллах, что однажды он вместе с Посланником Аллаха ﷺ пришёл к жене Пророка ﷺ Маймуне. Им подали жареного шипохвоста. Когда Посланник Аллаха ﷺ протянул к нему руку, одна из находившихся там женщин сказала: «Скажите Посланнику Аллаха ﷺ что вы ему подали», и они сказали: «Это ящерица, о Посланник Аллаха». Тогда Посланник Аллаха ﷺ убрал руку, а Халид ибн аль-Валид спросил: «О Посланник Аллаха, разве мясо шипохвоста запретно?» Он сказал: «Нет, но в земле моего народа их нет, и я чувствую, что мне это претит». Халид сказал: «Тогда я подвинул к себе (шипохвоста) и съел его, и Посланник Аллаха ﷺ смотрел на меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2537) Sahih Muslim (1945)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3794</td></tr><tr><td>Arabic No</td><td>3794</td></tr><tr><td>Reference</td><td>Book 28 Hadith 59</td></tr></tbody></table></div>
 

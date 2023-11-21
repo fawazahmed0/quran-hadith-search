@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) said, "While a man was drag
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Ufair] dia berkata; telah menceritakan kepadaku [Al Laits] dia berkata; telah menceritakan kepadaku [Abdurrahman bin Khalid] dari [Ibnu Syihab] dari [Salim bin Abdullah] bahwa [Ayahnya] telah menceritakan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Katika ada seseorang yang menjulurkan kain sarungnya maka dia akan berguncang-guncang (diadzab) di perut bumi hingga datangnya hari Kiamat." Hadits ini juga diperkuat oleh riwayat [Yunus] dari [Az Zuhri] namun dia tidak merafa'kannya (sanadnya tersambung sampai kepada Nabi shallallahu 'alaihi wasallam) yaitu dari [Syu'aib] dari [Az Zuhri]. Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Wahb bin Jarir] telah mengabarkan kepada kami [Ayahku] dari pamannya [Jarir bin Zaid] dia berkata; saya pernah bersama [Salim bin Abdullah bin Umar] berada di depan pintunya, lalu dia berkata; saya mendengar bahwa [Abu Hurairah] mendengar Nabi shallallahu 'alaihi wasallam bersabda seperti hadits di atas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5790</td></tr><tr><td>Arabic No</td><td>5790</td></tr><tr><td>Reference</td><td>Book 77 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Салима ибн ‘Абдуллах о том, что его отец (‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими,) рассказывал ему, что Посланник Аллаха ﷺ сказал: «(Шёл куда-то) один человек, волоча за собой (по земле из кичливости) свой изар, (как вдруг) разверзлась под ним земля, и будет он погружаться в неё до самого Дня воскрешения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5790</td></tr><tr><td>Arabic No</td><td>5790</td></tr><tr><td>Reference</td><td>Book 77 Hadith 8</td></tr></tbody></table></div>
 

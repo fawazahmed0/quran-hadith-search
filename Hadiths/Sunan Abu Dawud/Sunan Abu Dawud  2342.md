@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The people looked for the moon, so I informed the Me
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid] serta [Abdullah bin Abdurrahman As Samarqandi], dan aku lebih yakin kepada haditsnya, mereka berkata; telah menceritakan kepada kami [Marwan bin Muhammad] dari [Abdullah bin Wahb] dari [Yahya bin Abdullah bin Salim] dari [Abu Bakr bin Nafi'] dari [ayahnya] dari [Ibnu Umar], ia berkata; orang-orang berusaha untuk melihat hilal, kemudian aku beritahukan kepada Rasulullah shallallahu 'alaihi wasallam bahwa aku telah melihatnya. Kemudian beliau berpuasa dan memerintahkan orang-orang agar berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2342</td></tr><tr><td>Arabic No</td><td>2342</td></tr><tr><td>Reference</td><td>Book 14 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «Люди собрались, чтобы постараться увидеть народившийся месяц, и я сообщил Посланнику Аллаха ﷺ что видел его, и он велел людям начать поститься»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2342</td></tr><tr><td>Arabic No</td><td>2342</td></tr><tr><td>Reference</td><td>Book 14 Hadith 30</td></tr></tbody></table></div>
 

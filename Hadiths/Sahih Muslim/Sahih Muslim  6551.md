@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Rabi' reported directly from Allah's Apostle (may peace upon him) as saying:
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Abu Ar Rabi Az Zahrani] keduanya berkata; Telah menceritakan kepada kami [Hammad] yaitu Ibnu Zaid dari [Ayyub] dari [Abu Qilabah] dari [Abu Asma'] dari [Tsauban]. Abu Ar Rabi' Rafa'ah berkata; dia telah menyandarkan Hadits ini kepada Nabi shallallahu 'alaihi wasallam. Sedangkan di dalam Hadits Sa'id dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang mengunjungi orang sakit, maka dia senantiasa berada dalam sebuah taman surga sampai dia pulang kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6551</td></tr><tr><td>Arabic No</td><td>2568.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6551</td></tr><tr><td>Arabic No</td><td>2568.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 49</td></tr></tbody></table></div>
 

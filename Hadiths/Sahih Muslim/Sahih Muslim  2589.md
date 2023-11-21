@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Bakr (he is Abu Bakr b. Abd al-Rahman b. Harith) reported:I heard Abu Hurair
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] -dalam jalur lain- Dan telah menceritakan kepadaku [Muhammad bin Rafi'] -lafazh juga miliknya- Telah menceritakan kepada kami [Abdurrazaq bin Hammam] telah mengabarkan kepada kami [Ibnu Juraij] telah mengabarkan kepadaku [Abdul Malik bin Abu Bakar bin Abdurrahman] dari [Abu Bakar] ia berkata, saya mendengar [Abu Hurairah] radliallahu 'anhu mengkisahkan. Di dalam kisahnya ia berkata, "Siapa yang junub di waktu fajar, maka janganlah ia berpuasa." Maka saya pun menyampaikan hal itu kepada Abdurrahman bin Al Harits dan ternyata ia mengingkarinya. Lalu ia pun segera pergi dan aku ikut bersamanya menemui [Aisyah] dan [Ummu Salamah] radliallahu 'anhuma. Kemudian Abdurrahman menanyakan hal itu kepada keduanya, maka keduanya menjawab, "Di suatu pagi, Nabi shallallahu 'alaihi wasallam junub bukan karena mimpi, kemudian setelah itu beliau tetap berpuasa." Sesudah itu, kami menemui Marwan, dan Abdurrahman menuturkan pula hal itu padanya. Maka Marwan berkata, "Aku aku berbuat sesuatu atas kalian, kecuali bila kalian segera menemui Abu Hurairah dan membantah apa yang telah didkatakannya." Akhirnya kami pun segera menemui Abu Hurairah sedangkan Abu Bakar juga hadir bersamanya. Abdurrahman kemudian menuturkan perkara tersebut. Maka Abu Hurairah pun bertanya, "Apakah keduanya memang telah mengatakannya kepadamu?" Abdurrahman menjawab: "Ya." Abu Hurairah berkata, "Mereka berdua lebih mengetahui." Kemudian Abu Hurairah mengembalikan ungkapan yang telah diucapkannya tersebut ke [Al Fadll bin Al Abbas], ia berkata, "Aku mendengar hal itu dari Al Fadll, memang aku tidak mendengarnya langsung dari Nabi shallallahu 'alaihi wasallam." Akhirnya Abdurrahman menarik kembali pendapatnya dalam permasalahan tersebut. Kemudian aku bertanya kepada Abdul Malik, "Apakah keduanya mengatakan: 'Di bulan Ramadlan? '" Ia menjawab, "Seperti itulah. Di suatu pagi, Nabi shallallahu 'alaihi wasallam junub bukan karena mimpi, kemudian setelah itu beliau tetap berpuasa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2589</td></tr><tr><td>Arabic No</td><td>1109.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2589</td></tr><tr><td>Arabic No</td><td>1109.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 95</td></tr></tbody></table></div>
 

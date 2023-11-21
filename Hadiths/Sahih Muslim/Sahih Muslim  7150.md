@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The first group of my Umm
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata: Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya golongan pertama dari ummatku yang masuk surga wujudnya seperti bulan di malam purnama, golongan selanjutnya wujudnya seperti bintang paling terang di langit, setelah itu mereka bertingkat-tingkat, mereka tidak kencing, tidak berak, dan tidak meludah, sisir mereka emas, tempat bara api mereka kayu wangi dan keringat mereka minyak kesturi, postur mereka sama seperti wujud ayah mereka, Adam, enampuluh dzira'." Ibnu Abi Syaibah menyebutkan dalam riwayatnya: Seperti postur satu orang. Abu Kuraib menyebutkan dalam riwayatnya: Seperti postur satu orang. Ibnu Abi Syaibah menyebutkan dalam riwayatnya: Seperti wujud ayah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7150</td></tr><tr><td>Arabic No</td><td>2834.04</td></tr><tr><td>Reference</td><td>Book 53 Hadith 19</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7150</td></tr><tr><td>Arabic No</td><td>2834.04</td></tr><tr><td>Reference</td><td>Book 53 Hadith 19</td></tr></tbody></table></div>
 

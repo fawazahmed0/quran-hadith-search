@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Mu'adh ibn Jabal: The Prophet (ﷺ) said: If a Muslim sleeps while reme
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah mengabarkan kepada kami [Ashim bin Bahdalah] dari [Syahr bin Hausyab] dari [Abu Zhabyah] dari [Mu'adz bin Jabal] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidaklah seorang mukmin tidur dalam keadaan telah berdzikir dan suci, lalu bangun disebagian malam dan meminta kepada Allah kebaikan di dunia dan di akhirat kecuali Allah akan memberinya." [Tsabit Al Bunani] berkata, " [Abu Zhabyah] datang kepada kami, lalu ia menceritakan hadits ini kepada kami, dari [Mu'adz bin Jabal], dari Nabi shallallahu 'alaihi wasallam." Tsabit berkata, "Fulan berkata, "Aku telah berusaha untuk mengatakannya saat bangun tidur, tetapi aku tidak mampu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5042</td></tr><tr><td>Arabic No</td><td>5042</td></tr><tr><td>Reference</td><td>Book 43 Hadith 270</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5042</td></tr><tr><td>Arabic No</td><td>5042</td></tr><tr><td>Reference</td><td>Book 43 Hadith 270</td></tr></tbody></table></div>
 

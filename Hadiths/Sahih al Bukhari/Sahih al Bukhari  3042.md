@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Is-haq:A man asked Al-Bara "O Abu ''Umara! Did you flee on the day
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ubaidullah] dari [Isro'il] dari [Abu Ishaq] berkata; Ada seorang bertanya kepada Al Baro' radliallahu 'anhu, katanya: "Wahai Abu 'Umaroh, apakah kalian kabur saat perang Hunain?". [Al Baro'] berkata dan aku mendengarnya: "Adapun Rasulullah Shallallahu'alaiwasallam tidak kabur pada peperangan itu. Ketika itu Abu Sufyan memegang tali (menuntun) baghol Beliau. Ketika Kaum Musyrikin mengepung beliau, Beliau turun dari bagholnya dan bersya'ir: "Aku Nabi yang tidak berdusta. Aku anak dari 'Abdul Muthollib". Al Baro' berkata: "Saat itu tidak ada orang yang paling tegar dibanding Beliau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3042</td></tr><tr><td>Arabic No</td><td>3042</td></tr><tr><td>Reference</td><td>Book 56 Hadith 248</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (как-то раз один) человек спросил аль-Бара, да будет доволен им Аллах: «О Абу ‘Умара! Правда ли, что в день (битвы при) Хунайне вы бежали?» Он сказал: «Что касается Посланника Аллаха ﷺ, то он не обратился в бегство в тот день. Абу Суфйан ибн аль-Харис держал под уздцы его мулицу, а когда многобожники окружили его, он спешился и стал произносить (такие слова): “Я пророк, и нет (в этом) лжи! Я Ибн ‘Абдульмутталиб!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3042</td></tr><tr><td>Arabic No</td><td>3042</td></tr><tr><td>Reference</td><td>Book 56 Hadith 248</td></tr></tbody></table></div>
 

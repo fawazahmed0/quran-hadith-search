@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Do you consider or see that 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah kalian lihat kiblatku disini? Demi Allah, tidaklah tersembunyi bagiku khusyuk dan rukuk kalian. Sungguh, aku dapat melihatnya dari belakang punggungku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>418</td></tr><tr><td>Arabic No</td><td>418</td></tr><tr><td>Reference</td><td>Book 8 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что (однажды) Посланник Аллаха ﷺ сказал: «Неужели вы считаете, что моя кибла находится (только) здесь? Клянусь Аллахом, не останется скрытой от меня ни (степень) вашего смирения, ни (то, как вы) кланяетесь, ибо, поистине, я вижу, что вы (делаете, находясь) у меня за спиной!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>418</td></tr><tr><td>Arabic No</td><td>418</td></tr><tr><td>Reference</td><td>Book 8 Hadith 68</td></tr></tbody></table></div>
 

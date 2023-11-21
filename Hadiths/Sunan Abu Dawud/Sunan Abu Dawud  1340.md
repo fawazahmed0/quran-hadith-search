@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Aishah:The Prophet (ﷺ) used to pray thirteen rak'ahs during the nigh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] dan [Muslim bin Ibrahim] keduanya berkata; telah menceritakan kepada kami [Aban] dari [Yahya] dari [Abu Salamah] dari [Aisyah] bahwa Nabi Allah shallallahu 'alaihi wasallam terkadang mengerjakan shalat malam tiga belas raka'at, dan terkadang beliau mengerjakan delapan belas raka'at, lalu witir satu raka'at, setelah itu beliau mengerjakan shalat (sunnah fajar -pent) -Muslim berkata; "Yaitu setelah witir"- kemudian hadits Muslim dan Musa sepakat pada kalimat- dua raka'at, beliau mengerjakannya sambil duduk. Apabila hendak ruku', beliau berdiri lalu ruku'. Beliau juga mengerjakan shalat dua raka'at antara adzan dan iqamah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (738)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1340</td></tr><tr><td>Arabic No</td><td>1340</td></tr><tr><td>Reference</td><td>Book 5 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что пророк Аллаха ﷺ совершал по ночам молитву в тринадцать рак‘атов. Он совершал восемь рак‘атов, потом один рак‘ат витра, потом совершал ещё два рак‘ата сидя. В версии Муслима говорится: «…после витра». А когда Посланник Аллаха ﷺ хотел совершить поясной поклон, он вставал и потом совершал его. А между азаном и икаматом утренней молитвы он совершал ещё два рак‘ата
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (738)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1340</td></tr><tr><td>Arabic No</td><td>1340</td></tr><tr><td>Reference</td><td>Book 5 Hadith 91</td></tr></tbody></table></div>
 

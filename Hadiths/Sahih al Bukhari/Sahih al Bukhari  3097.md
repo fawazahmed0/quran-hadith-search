@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Allah's Messenger (ﷺ) died, and there was nothing in my house t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Abi Syaibah] telah bercerita kepada kami [Abu Usamah] telah bercerita kepada kami [Hisyam] dari [bapaknya] dari ['Aisyah radliallahu 'anhu] berkata; "(Ketika) Rasulullah Shallallahu'alaiwasallam wafat tidak ada sesuatupun di rumahku yang dapat dimakan oleh makhluq yang punya nyawa (manusia atau hewan) kecuali sedikit gandum yang ada pada Rak makanan milikku, lalu aku memakannya sebagian hingga beberapa lama kemudian aku timbang lalu rusak (habis)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3097</td></tr><tr><td>Arabic No</td><td>3097</td></tr><tr><td>Reference</td><td>Book 57 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша сказала: «(Когда) Посланник Аллаха ﷺ скончался, в моём доме не было ничего съедобного, кроме небольшого количества ячменя, хранящегося на моей полке. Я ела его ещё долгое время, но когда я решила отмерить его (объём), он закончился»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3097</td></tr><tr><td>Arabic No</td><td>3097</td></tr><tr><td>Reference</td><td>Book 57 Hadith 6</td></tr></tbody></table></div>
 

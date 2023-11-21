@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ a rapporté qu'il avait dit à 'Aïcha : "Je crois qu'il n'y a pas de mal si un 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] radliallahu 'anha. Urwah berkata; Aku berkata kepada Aisyah, "Aku berpendapat, jika seseorang tidak sa'i antara Shafa dan Marwah tidak membatalkan hajinya." Tanya Aisyah, "Apa alasanmu?" Aku menjawab, "Yaitu firman Allah yang berbunyi: 'Sesugguhnya Shafa dan Marwa merupakan sebagian dari syi'ar-syi'ar agama Allah….'" (Al Baqarah: 158), Aisyah berkata, "Tidak sempurna haji dan umrah seseorang tanpa sa'i dan antara Shafa dan Marwa. Kalau benar apa yang kamu katakan, tentu firman Allah itu seharusnya berbunyi: 'Tidaklah berdosa orang yang tidak sa'i antara keduanya.' Tahukah kamu apa sebabnya? Sebabnya ialah; Di zaman Jahiliyah orang-orang Anshar menyembah dua berhala yang terletak di tepi pantai, yaitu berhala yang disebut Isaf dan Nailah. Sesudah mereka mendatangi kedua berhala tersebut, mereka sa'i antara Shafa dan Marwa dan sesudah itu, mereka bercukur. Setelah Islam datang, mereka enggan Sa'i antara keduanya, karena mereka tidak ingin mengingat perbuatan mereka semasa jahiliyah. Kemudian Allah menurunkan ayat: 'Sesungguhnya Shafa dan Marwa adalah sebagian dari syi'ar agama Allah….' (Al Baqarah: 158), Maka sejak itulah mereka sa'i antara keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3079</td></tr><tr><td>Arabic No</td><td>1277.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 285</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3079</td></tr><tr><td>Arabic No</td><td>1277.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 285</td></tr></tbody></table></div>
 

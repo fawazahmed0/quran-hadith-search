@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn ‘Umar said that he divorced his wife while she was menstruating. ‘Umar m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Muhammad bin Abdurrahman] mantan budak keluarga Thalhah, dari [Salim] dari [Ibnu Umar], bahwa ia telah menceraikan isterinya yang sedang haid. Kemudian Umar menceritakan hal tersebut kepada Nabi shallallahu 'alaihi wasallam. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Perintah dia agar kembali kepadanya, kemudian menceraikannya apabila ia telah suci atau dalam keadaan hamil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2181</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 13 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что он дал своей жене развод в период её менструации. ‘Умар рассказал об этом Пророку ﷺ. Посланник Аллаха ﷺ сказал: «Вели ему вернуть её, а потом дать ей развод в период чистоты или беременности»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2181</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 13 Hadith 7</td></tr></tbody></table></div>
 

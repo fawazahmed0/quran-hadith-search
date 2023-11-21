@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported:I served the Messenger of Allah (ﷺ) for ten years, and,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Abu Rabi'] keduanya berkata; Telah menceritakan kepada kami [Hammad bin Zaid] dari [Tsabit Al Bunani] dari [Anas bin Malik radliallahu 'anhu] dia berkata; "Aku menjadi pelayan Rasulullah shallallahu 'alaihi wasallam selama sepuluh tahun. Demi Allah, selama itu beliau tidak pernah berkata "Uff' (Husy) kepadaku, dan tidak pernah membentakku dengan perkataan: "Hai, kenapa engkau perbuat begitu!" Abu Rabi' menambahkan; 'Melakukan sesuatu yang tidak layak bagi seorang pembantu.' Dan dia tidak menyebutkan; 'Demi Allah.' Dan telah menceritakannya kepada kami [Syaiban bin Farukh] Telah menceritakan kepada kami [Salam bin Miskin] Telah menceritakan kepada kami [Tsabit Al Bunani] dari [Anas] dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6011</td></tr><tr><td>Arabic No</td><td>2309.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6011</td></tr><tr><td>Arabic No</td><td>2309.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 70</td></tr></tbody></table></div>
 

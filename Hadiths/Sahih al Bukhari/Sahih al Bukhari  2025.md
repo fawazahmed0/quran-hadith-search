@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) used to practice I'tikaf in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah menceritakan kepada saya [Ibnu Wahab] dari [Yunus] bahwa [Nafi'] mengabarkannya dari ['Abdullah bin 'Umar radliallahu 'anhua] berkata: " Rasulullah shallallahu 'alaihi wasallam beri'tikaf pada sepuluh hari yang akhir dari Ramadhan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2025</td></tr><tr><td>Arabic No</td><td>2025</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ совершал и‘тикяф в последние десять дней месяца рамадан»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2025</td></tr><tr><td>Arabic No</td><td>2025</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
 

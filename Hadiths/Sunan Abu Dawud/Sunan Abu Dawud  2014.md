@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Isa bin Thalhah bin 'Ubaidullah] dari [Abdullah bin 'Amr bin Al 'Ash] bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam berdiri pada waktu haji wada' di Mina, mereka bertanya kepada beliau, kemudian seorang laki-laki datang dan berkata; wahai Rasulullah, sesungguhnya aku tidak mengetahui, sehingga aku menyembelih sebelum melempar jumrah. Beliau berkata: "Lemparlah, tidak mengapa!" Abdullah bin 'Amr berkata; tidaklah beliau pada saat itu ditanya mengenai sesuatu yang didahulukan atau diakhirkan melainkan beliau mengatakan: "Lakukanlah, tidak mengapa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (83) Sahih Muslim (1306)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2014</td></tr><tr><td>Arabic No</td><td>2014</td></tr><tr><td>Reference</td><td>Book 11 Hadith 294</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Амр ибн аль-‘Аса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ в прощальном хадже стоял в Мине, люди задавали ему вопросы и один человек подошёл к нему и сказал: «О Посланник Аллаха! Я забыл и обрил голову прежде, чем совершить жертвоприношение…» Посланник Аллаха ﷺ сказал: «Совершай жертвоприношение. Ничего страшного». Тогда пришёл другой и сказал: «О Посланник Аллаха! Я не знал и совершил жертвоприношение до того, как бросить камешки…» и так далее. (Пророк ﷺ) сказал в ответ: «Бросай сейчас, ничего страшного». И о чём бы ни спросили его в тот день, он отвечал: «Делай так, ничего страшного»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (83) Sahih Muslim (1306)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2014</td></tr><tr><td>Arabic No</td><td>2014</td></tr><tr><td>Reference</td><td>Book 11 Hadith 294</td></tr></tbody></table></div>
 

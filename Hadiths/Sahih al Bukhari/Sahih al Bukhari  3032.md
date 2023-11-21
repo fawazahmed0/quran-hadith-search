@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:The Prophet (ﷺ) said, "Who is ready to kill Ka'b bin Ashraf (i.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami [Sufyan] dari ['Amru] dari [Jabir] dari Nabi Shallallahu'alaihiwasallam bersabda: "Siapa yang dapat menghadapi Ka'ab bin Al Asyrof. Muhammad bin Maslamah berkata: "Apakah Baginda suka bila aku membunuhnya, wahai Rasulullah?". Beliau menjawab: "Ya". Dia berkata: "Maka izinkanlah aku, sehingga akau bisa menyampaikan sesuatu". Kata Maslamah selanjutnya: "Aku sudah melaksanakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3032</td></tr><tr><td>Arabic No</td><td>3032</td></tr><tr><td>Reference</td><td>Book 56 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Джабира, что Пророк ﷺ сказал: «Кому (можно поручить убить) Ка‘ба ибн аль-Ашрафа?» Мухаммад ибн Масляма спросил: «Ты хочешь, чтобы я убил его?» Он ответил: «Да». Мухаммад ибн Масляма сказал: «Тогда разреши мне говорить (то, что я захочу)». Пророк ﷺ сказал: «Разрешаю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3032</td></tr><tr><td>Arabic No</td><td>3032</td></tr><tr><td>Reference</td><td>Book 56 Hadith 239</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Umm Bisham hint Haritha b. Nu'man said:Our oven and that of the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2014</td></tr><tr><td>Arabic No</td><td>873.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Бинт аль-Харис ибн ан-Ну’ман сказала: «Я научилась суре “Каф” только от Посланника Аллаха ﷺ, читавшего её (с минбара) каждую пятницу, когда он обращался к людям с проповедью. И мы с Посланником Аллаха ﷺ пользовались одной печью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2014</td></tr><tr><td>Arabic No</td><td>873.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 64</td></tr></tbody></table></div>
 

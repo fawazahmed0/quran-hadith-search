@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The Prophet (ﷺ) returned from a journey when I had hung a thick
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdullah bin Daud] dari [Hisyam] dari [ayahnya] dari [Aisyah] dia berkata; "Setibanya Nabi shallallahu 'alaihi wasallam dari safar (bepergian), saya menggantungkan satir pembatas yang bergambar, lalu beliau memerintahkanku melepas satir tersebut, maka aku pun melepasnya. Dan saya juga mandi bersama Nabi shallallahu 'alaihi wasallam dari satu wadah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5955</td></tr><tr><td>Arabic No</td><td>5955</td></tr><tr><td>Reference</td><td>Book 77 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша рассказывала: «Однажды Пророк ﷺ вернулся из (военного) похода, а я повесила на дверь плотную занавесь /дурнук/, на которой были изображения. (Увидев это), он приказал мне снять её и я сняла её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5955</td></tr><tr><td>Arabic No</td><td>5955</td></tr><tr><td>Reference</td><td>Book 77 Hadith 171</td></tr></tbody></table></div>
 

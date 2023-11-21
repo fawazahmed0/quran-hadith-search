@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "When the month of Ramadan st
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada saya [Al Laits] dari ['Uqail] dari [Ibnu Syihab] berkata, telah mengabarkan kepada saya [Ibnu Abu Anas, maulanya at-Taymiyyiin] bahwa [bapaknya] menceritakan kepadanya bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] berkata, Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila bulan Ramadhah datang, maka pintu-pintu langit dibuka sedangkan pintu-pintu jahannam ditutup dan syaitan-syaitan dibelenggu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1899</td></tr><tr><td>Arabic No</td><td>1899</td></tr><tr><td>Reference</td><td>Book 30 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Когда наступает месяц рамадан, врата небес открывают, врата Геенны закрывают, а шайтанов сковывают цепями”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1899</td></tr><tr><td>Arabic No</td><td>1899</td></tr><tr><td>Reference</td><td>Book 30 Hadith 9</td></tr></tbody></table></div>
 

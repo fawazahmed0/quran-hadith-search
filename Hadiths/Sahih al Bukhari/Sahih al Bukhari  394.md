@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Aiyub Al-Ansari:The Prophet (ﷺ) said, "While defecating, neither 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepada kami [Az Zuhri] dari ['Atha' bin Yazid Al Laitsi] dari [Abu Ayyub Al Anshari], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika kalian mendatangi masuk ke dalam WC, maka janganlah kalian menghadap ke arah kiblat dan jangan pula membelakanginya. Tetapi menghadaplah ke timurnya atau ke baratnya." Abu Ayyub berkata, "Ketika kami datang ke Syam, kami dapati WC rumah-rumah di sana dibangun menghadap kiblat. Maka kami alihkan dan kami memohon ampun kepada Allah Ta'ala." Dan dari [Az Zuhri] dari ['Atha] berkata, aku mendengar [Abu Ayyub] dari Nabi shallallahu 'alaihi wasallam seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>394</td></tr><tr><td>Arabic No</td><td>394</td></tr><tr><td>Reference</td><td>Book 8 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Аййюба аль-Ансари, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Если кто-нибудь из вас придёт на место справления нужды, пусть не обращается к кибле лицом и не поворачивается к ней спиной, однако, поворачивайтесь (лицом) к востоку или западу».\nАбу Аййюб, сказал: «Потом мы приехали в Шам и увидели, что отхожие места были построены в направлении киблы. Тогда мы стали поворачиваться (по-другому) и просить Всевышнего Аллаха о прощении»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>394</td></tr><tr><td>Arabic No</td><td>394</td></tr><tr><td>Reference</td><td>Book 8 Hadith 46</td></tr></tbody></table></div>
 

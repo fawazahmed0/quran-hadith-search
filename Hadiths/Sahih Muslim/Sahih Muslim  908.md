@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ka'b Ibn 'Ujra (que Dieu l'agrée), 'Abdallâh Ibn 'Abî Laylâ dit qu'
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin al-Mutsanna] dan [Muhammad bin Basysyar] dan lafazh tersebut milik al-Mutsanna, keduanya berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [al-Hakam] dia berkata, Saya mendengar [Ibnu Abi Laila] berkata, [Ka'ab bin Ujrah] menemuiku seraya berkata, "Maukah kalian aku beri hadiah ketika Rasululllah shallallahu 'alaihi wasallam keluar melewati kami, maka kami berkata, 'Sungguh kami telah mengetahui bagaimana mengucapkan selamat atasmu, dan bagaimana bershalawat atasmu.' Beliau bersabda, 'Kalian katakanlah, 'ALLOOHUMMA SHOLLI 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD, KAMAA SHOLLAITA 'ALAA AALI IBROOHIIMA INNAKA HAMIIDUN MAJIID, ALLOOHUMMA BAARIK 'ALAA MUHAMMADIN WA'ALAA AALI MUHAMMADIN KAMAA BAAROKTA 'ALAA AALI IBROOHIIMA INNAKA HAMIIDUN MAJIID "Ya Allah, berilah shalawat atas Muhammad dan keluarga Muhammad sebagaimana Engkau memberi shalawat atas keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji dan Maha Mulia. Ya Allah, berilah berkah atas Muhammad dan keluarga Muhammad sebagaimana Engkau memberi berkah kepada keluarga Ibrahim. Engkau Maha Terpuji dan Maha Mulia'." Telah menceritakan kepada kami [Zuhair bin Harb] dan [Abu Kuraib] keduanya berkata, telah menceritakan kepada kami [Waki'] dari [Syu'bah] dan [Mis'ar] dari [al-Hakam] dengan isnad ini yang semisalnya dan dalam hadits Mis'ar tidak ada, "Maukah kalian agar aku beri hadiah." Telah menceritakan kepada kami [Muhammad bin Bakkar] telah menceritakan kepada kami [Ismail bin Zakariya'] dari [al-A'masy] dari [Mis'ar] dan dari [Malik bin Mighwal] semuanya meriwayatkan dari [al-Hakam] dengan isnad ini yang semisalnya, hanya saja dia berkata, "Dan keberkahan atas Muhammad, " dan tidak mengatakan, "Allahumma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>908</td></tr><tr><td>Arabic No</td><td>406.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Ляйля сказал: «(Однажды) мне повстречался Ка‘б ибн ‘Уджра и сказал: “Не подарить ли тебе подарок? (Однажды) Посланник Аллаха ﷺ вышел к нам, и мы сказали: “Мы уже знаем, как приветствовать тебя, но как нам обращаться к Аллаху с мольбами за тебя?” (На это Пророк ﷺ) сказал: “Говорите: ‹О Аллах, благослови Мухаммада и семейство Мухаммада, как благословил Ты семейство Ибрахима, поистине, Ты Достойный похвалы, Славный! О Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как послал Ты их семейству Ибрахима, поистине, Ты Достойный похвалы, Славный!›”»./Аллахумма, салли ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма салляйта ‘аля али Ибрахима, инна-кя Хамидун, Маджидун! Аллахумма, барик ‘аля Мухаммадин ва ‘аля али Мухаммадин кя-ма баракта ‘аля али Ибрахима, инна-кя Хамидун, Маджидун
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>908</td></tr><tr><td>Arabic No</td><td>406.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 70</td></tr></tbody></table></div>
 

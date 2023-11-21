@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubai bin Ka'b:Allah's Messenger (ﷺ) said, "Some poetry contains wisdo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dia berkata; telah mengabarkan kepadaku [Abu Bakr bin Abdurrahman] bahwa [Marwan bin Hakam] telah mengabarkan kepadanya bahwa [Abdurrahman bin Al Aswad bin Abdu Yaghuts] telah mengabarkan kepadanya, bahwa [Ubay bin Ka'b] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya dalam sya'ir itu terkandung hikmah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6145</td></tr><tr><td>Arabic No</td><td>6145</td></tr><tr><td>Reference</td><td>Book 78 Hadith 171</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Убаййа ибн Ка‘ба, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, в (некоторых) стихах (заключена) мудрость»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6145</td></tr><tr><td>Arabic No</td><td>6145</td></tr><tr><td>Reference</td><td>Book 78 Hadith 171</td></tr></tbody></table></div>
 

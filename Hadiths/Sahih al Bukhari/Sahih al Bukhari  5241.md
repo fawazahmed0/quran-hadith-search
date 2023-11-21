@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) said, "A woman should not look at or touch 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Umar bin Hafsh bin Ghiyats] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Al A'masy] ia berkata; Telah menceritakan kepadaku [Syaqiq] ia berkata; Aku mendengar [Abdullah] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah seorang isteri menceritakan ciri-ciri wanita lain pada suaminya sehingga ia seolah-olah melihatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 67 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах (ибн Мас‘уд) сказал:«Пророк ﷺ сказал: “Не следует одной женщине прикасаться к другой женщине, а потом описывать её своему мужу(, чтобы получилось так), будто он сам на неё смотрит”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 67 Hadith 174</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabala bin Suhaim.:At the time of Ibn Az-Zubair, we were struck with fa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami [Jabalah bin Suhaim] ia berkata, "Kami mengalami kesulitan (paceklik) bersama Ibnu Zubair, Abdullah bin Umar lalu memberikan kami kurma. Saat kami makan [Abdullah bin Umar] lewat di hadapan kami, maka ia pun berkata; "Janganlah kalian berserikat (menggabungkan kurma saat makan). Sesungguhnya Nabi shallallahu 'alaihi wasallam melarang untuk berserikat." Kemudian ia mengatakan lagi, "Kecuali jika ia minta izin kepada temannya." Syu'bah berkata, "Lafadz 'izin' ini adalah ucapan Ibnu Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5446</td></tr><tr><td>Arabic No</td><td>5446</td></tr><tr><td>Reference</td><td>Book 70 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабаля, да помилует его Аллах Всевышний, сказал: «(Однажды) выдался голодный год, и Ибн аз-Зубайр снабжал нас финиками, что же касается Ибн ‘Умара, да будет доволен Аллах ими обоими, то, проходя мимо нас, он говорил: “Не берите по два финика сразу! Поистине, Пророк ﷺ запрещал брать по два финика сразу, если только (любой) из вас не спросит на это разрешения у своего брата”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5446</td></tr><tr><td>Arabic No</td><td>5446</td></tr><tr><td>Reference</td><td>Book 70 Hadith 75</td></tr></tbody></table></div>
 

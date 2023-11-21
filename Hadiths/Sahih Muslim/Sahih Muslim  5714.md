@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (que Dieu soit satisfait d'elle), Quand quelqu'un de sa famille
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Suraij bin Yunus] dan [Yahya bin Ayyub] keduanya berkata; Telah menceritakan kepada kami ['Abbad bin 'Abbad] dari [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] dia berkata; "Apabila salah seorang isteri Rasulullah shallallahu 'alaihi wasallam sakit, beliau tiupkan kepadanya surat-surat mu'awwidzaat. Maka tatkala beliau sakit hampir meninggal, kutiupkan pula kepadanya dan kusapukan tangannya ke tubuhnya, karena tangan beliau lebih besar barakahnya daripada tanganku." Dan di dalam riwayat Yahya bin Ayyub dengan lafazh 'Mu'awwidzat' tanpa alif lam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5714</td></tr><tr><td>Arabic No</td><td>2192.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5714</td></tr><tr><td>Arabic No</td><td>2192.01</td></tr><tr><td>Reference</td><td>Book 39 Hadith 68</td></tr></tbody></table></div>
 

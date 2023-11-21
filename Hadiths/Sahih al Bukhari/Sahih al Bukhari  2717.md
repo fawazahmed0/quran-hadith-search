@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa:Aisha told me that Barirah came to seek her help in writing for e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Abdullah bin Maslamah] telah bercerita kepada kami [Al Laits] dari [Ibnu Syihab] dari ['Urwah] bahwa ['Aisyah radliallahu 'anha] mengabarkan kepadanya bahwa Barirah datang menemui 'Aisyah untuk meminta bantuannya tentang perihal penebusan dirinya untuk merdeka sesuai waktu yang telah ditentukan namun waktunya belum habis maka 'Aisyah berkata kepadanya: "Kembalilah kepada tuanmu, jika mereka suka aku akan bayar untuk pembebasanmu dan perwalianmu menjadi hakku". Lalu Barirah menyampaikan hal ini kepada tuannya namun mereka menolaknya seraya berkata: "Jika dia mau untuk membayarmu silakan tapi perwalian tetap menjadi milik kami". Kemudian hal ini disampaikkan oleh 'Aisyah kepada Rasulullah shallallahu 'alaihi wasallam, maka Beliau bersabda: "Belilah dia lalu bebaskanlah karena perwalian menjadi hak orang yang membebaskannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2717</td></tr><tr><td>Arabic No</td><td>2717</td></tr><tr><td>Reference</td><td>Book 54 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала, что однажды к ней пришла Барира просить о помощи, чтобы расплатиться согласно договору о самовыкупе, за который она ничего ещё не заплатила. ‘Аиша сказала ей: «Иди к своим хозяевам, и если они согласятся, чтобы я выплатила за тебя необходимую сумму, и право на покровительство (уаля) будет принадлежать мне, то я сделаю это». Барира передала хозяевам её слова, но они отказались, сказав: «Если хочет пусть расплатится за тебя, но право на твоё покровительство (уаля) останется за нами». Тогда ‘Аиша рассказала об этом Посланнику Аллаха ﷺ, и он сказал ей: «Купи её и освободи, ведь покровителем может быть только тот, кто освободил раба»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2717</td></tr><tr><td>Arabic No</td><td>2717</td></tr><tr><td>Reference</td><td>Book 54 Hadith 6</td></tr></tbody></table></div>
 

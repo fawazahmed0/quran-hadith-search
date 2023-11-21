@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:Allah's Messenger (ﷺ) said, "No Zakat is imposed 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Muhammad bin 'Abdurrahman] dari [Abu Sha'sha'ah Al Maziniy] dari bapaknya dari [Abu Sa'id Al Khudriy] bahwa Nabi Shallallahu'alaihiwasallam telah bersabda: "Tidak ada zakat pada hasil tanaman kurma dibawah lima wasaq, tidak ada zakat harta dibawah lima wasaq dan tidak ada zakat pada unta dibawah lima ekor
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1459</td></tr><tr><td>Arabic No</td><td>1459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не следует выплачивать садаку (с имущества стоимостью) менее пяти окий (серебра), и не следует выплачивать садаку (с урожая) менее чем в пять васков, и не следует выплачивать садаку (со стада, состоящего) менее чем из пяти верблюдов»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1459</td></tr><tr><td>Arabic No</td><td>1459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 61</td></tr></tbody></table></div>
 

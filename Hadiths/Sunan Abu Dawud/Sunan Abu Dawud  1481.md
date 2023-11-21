@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Fudalah ibn Ubayd,: The Messenger of Allah (ﷺ) heard a person supplic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Abdullah bin Yazid], telah menceritakan kepada Kami [Haiwah], telah mengabarkan kepadaku [Abu Hani' Humaid bin Hani'] bahwa [Abu Ali 'Amr bin Malik] telah menceritakan kepadanya bahwa ia mendengar [Fadhalah bin 'Ubaid] seorang sahabat Rasulullah shallallahu 'alaihi wasallam berkata; Rasulullah shallAllahu wa'alaihi wa sallam mendengar seorang laki-laki berdoa dalam shalatnya dan tidak mengagungkan Allah ta'ala serta tidak bershalawat kepada Nabi shallallahu 'alaihi wasallam, kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang ini telah terburu-buru." Kemudian beliau memanggilnya dan berkata kepadanya atau kepada orang lain: "Apabila salah seorang diantara kalian melakukan shalat maka hendaknya memulai dengan mengagungkan Tuhannya yang Maha Agung dan Perkasa, serta dengan memuji kepadaNya, kemudian bershalawat kepada Nabi shallallahu 'alaihi wasallam kemudian berdoa setelah itu dengan apa yang ia kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1481</td></tr><tr><td>Arabic No</td><td>1481</td></tr><tr><td>Reference</td><td>Book 8 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Фадали ибн ‘Убайда, да будет доволен им Аллах, сподвижника Посланника Аллаха ﷺ что однажды Посланник Аллаха ﷺ услышал, как один человек взывает (к Аллаху) с мольбами, не восхвалив предварительно Всевышнего Аллаха и не призвав благословение на Пророка ﷺ. Посланник Аллаха ﷺ сказал: «Этот поторопился». Потом он позвал его и сказал ему или кому-то другому: «Когда один из вас совершает молитву, пусть он сначала воздаст хвалу его Всемогущему и Великому Господу, затем призовёт благословение на Пророка ﷺ, а после этого просит Аллаха, о чём пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1481</td></tr><tr><td>Arabic No</td><td>1481</td></tr><tr><td>Reference</td><td>Book 8 Hadith 66</td></tr></tbody></table></div>
 

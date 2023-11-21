@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Barza b. Aslami is reported to have said:The Messenger of Allah (ﷺ) delaye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Suwaid bin 'Amru Al Kalbi] dari [Hammad bin Salamah] dari [Sayyar bin Salamah Abu Al Minhal], katanya; aku menengar [Abu Barzah Al Aslami] berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengakhirkan shalat isya' hingga sepertiga malam, dan beliau tidak menyukai tidur sebelum isya' dan pembicaraan sesudahnya. Terkadang beliau membaca enampuluh hingga ayat dalam shalat shubuh, dan beliau beranjak ketika kami satu sama lain bisa mengenal wajahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1464</td></tr><tr><td>Arabic No</td><td>647.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 297</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Барза аль-Аслями сказал: «Посланник Аллаха ﷺ откладывал вечернюю молитву /‘иша/ до полуночи, и не любил спать до неё и разговаривать после неё. Совершая утреннюю молитву /фаджр/, он прочитывал от шестидесяти до ста (аятов), и он заканчивал её, когда мы могли узнать лица друг друга»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1464</td></tr><tr><td>Arabic No</td><td>647.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 297</td></tr></tbody></table></div>
 

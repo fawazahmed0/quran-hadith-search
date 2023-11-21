@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) said:This heat is from th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Abdul Aziz] dari [Al 'Ala'] dari [bapaknya] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya panas ini berasal dari uap jahannam, maka tangguhkanlah shalat hingga suhu agak dingin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1398</td></tr><tr><td>Arabic No</td><td>615.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Поистине, этот зной от дуновения Ада, поэтому отложите молитву на более прохладное время»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1398</td></tr><tr><td>Arabic No</td><td>615.04</td></tr><tr><td>Reference</td><td>Book 5 Hadith 232</td></tr></tbody></table></div>
 

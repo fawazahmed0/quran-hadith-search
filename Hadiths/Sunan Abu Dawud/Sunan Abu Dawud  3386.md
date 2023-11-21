@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Hakim ibn Hizam: The Messenger of Allah (ﷺ) sent with him a dinar to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir Al 'Abdi], telah mengabarkan kepada kami [Sufyan], telah menceritakan kepadaku [Abu Hushain], dari [seorang syekh dari penduduk Madinah] dari [Hakim bin Hizam] bahwa Rasulullah shallallahu 'alaihi wasallam telah mengutus dengan membawa uang satu dinar agar ia belikan satu ekor hewan kurban. Kemudian ia membelinya dengan harga satu dinar, dan ia menjualnya seharga dua dinar, lalu ia kembali dan membeli seekor hewan kurban dengan harga satu dinar. Dan ia datang dengan membawa satu uang dinar kepada Nabi shallallahu 'alaihi wasallam. kemudian Nabi shallallahu 'alaihi wasallam mensedekahkan uang tersebut dan mendoakannya agar diberi berkah dalam perdagangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3386</td></tr><tr><td>Arabic No</td><td>3386</td></tr><tr><td>Reference</td><td>Book 23 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Хакима ибн Хизама, да будет доволен им Аллах, что Посланник Аллаха ﷺ дал ему динар и послал его купить жертвенное животное. Он купил его за динар, а потом продал за два, а потому купил другое животное за динар и принёс оставшийся динар Пророку ﷺ. Пророк ﷺ отдал этот динар в качестве милостыни и обратился (к Всевышнему Аллаху) с мольбой за него, чтобы Он сделал благодатной для него его торговлю
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3386</td></tr><tr><td>Arabic No</td><td>3386</td></tr><tr><td>Reference</td><td>Book 23 Hadith 61</td></tr></tbody></table></div>
 

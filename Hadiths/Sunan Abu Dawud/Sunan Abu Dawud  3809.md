@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ghalib ibn Abjar: We faced a famine, and I had nothing from my property
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abu Ziyad] telah menceritakan kepada kami ['Ubaidullah] dari [Israil] dari [Manshur] dari ['Ubaid Abu Al Hasan] dari [Abdurrahman] dari [Ghalib bin Abhar] ia berkata, "Kami tertimpa kekeringan, dan di antara hartaku tidak ada sesuatu yang dapat aku gunakan untuk memberi makan keluargaku, kecuali lemak keledai. Sementara Rasulullah shallallahu 'alaihi wasallam telah mengharamkan daging keledai jinak. Lalu aku datang kepada Nabi shallallahu 'alaihi wasallam dan aku katakan, "Wahai Rasulullah, kami telah tertimpa musim kering, dan tidak ada di antara hartaku sesuatu yang dapat aku gunakan untuk memberi makan keluargaku kecuali lemak keledai, sementara anda telah mengharamkan daging keledai jinak. Kemudian beliau berkata: "Berilah makan keluargamu dari lemak keledaimu, hanysanya aku haramkan itu karena hewan-hewan yang suka berkeliling kampung (hewan yang suka makan kotoran)." Abu Daud berkata, "Abdurrahman ini adalah Ibnu Ma'qil." Abu Daud berkata, " [Syu'bah] meriwayatkan hadits ini dari ['Ubaid Abu Al Hasan] dari [Abdurrahman bin Ma'qil] dari [Abdurrahman bin Bisyr] dari [beberapa orang] yang berasal dari Muzainah, bahwa pemimpin Muzainah [Abjar atau anak Abjar] telah bertanya kepada Nabi shallallahu 'alaihi wasallam…." Telah menceritakan kepada kami [Muhammad bin Sulaiman] telah menceritakan kepada kami [Abu Nu'aim] dari [Mis'ar] dari ['Ubaid] dari [Abu Ma'qil] dari [dua orang laki-laki] yang berasal dari Muzainah, salah seorang dari mereka (meriwayatkan) dari yang lainnya. Salah seorang mereka adalah [Abdullah bin 'Amru bin 'Uwaim] sedangkan yang lainnya adalah [Ghalib bin Al Abjar] Mis'ar berkata, "Menurutku Ghalib lah yang datang kepada Nabi shallallahu 'alaihi wasallam, dengan hadits seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3809</td></tr><tr><td>Arabic No</td><td>3809</td></tr><tr><td>Reference</td><td>Book 28 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Этот хадис передаётся от двух человек из племени Музайна, которые передавали его друг от друга. Это ‘Абдуллах ибн ‘Амр ибн Увайм и Галиб ибн Абджар. Мис‘ар утверждал, что к Пророку ﷺ приходил Галиб ибн Абджар
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3809</td></tr><tr><td>Arabic No</td><td>3809</td></tr><tr><td>Reference</td><td>Book 28 Hadith 74</td></tr></tbody></table></div>
 

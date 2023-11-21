@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "No doubt, I intended to order some
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Abi 'Adiy] dari [Syu'bah] dari [Sa'ad bin Ibrahim] dari [Humaid bin 'Abdurrahman] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh aku bertekad untuk memerintahkan shalat agar ditegakkan, lalu akan aku datangi rumah-rumah orang-orang yang tidak ikut shalat berjama'ah lalu aku akan bakar rumah-rumah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2420</td></tr><tr><td>Arabic No</td><td>2420</td></tr><tr><td>Reference</td><td>Book 44 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Пророк ﷺ сказал: «(Бывало так, что) я хотел велеть призвать на молитву, а потом явиться к тем людям (, которые не пришли на молитву,) и сжечь (их дома)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2420</td></tr><tr><td>Arabic No</td><td>2420</td></tr><tr><td>Reference</td><td>Book 44 Hadith 10</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with him) reported:Allah's Apostle (ﷺ) an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim bin Maimun] telah menceritakan kepada kami [Hajjaj bin Muhammad] telah menceritakan kepada kami [Ibnu Juraij] dia berkata, telah mengabarkan kepadaku [Ibnu Al Munkadir] dari [Jabir bin Abdullah] dia berkata, "Saat aku sakit di kampung bani Salamah, Nabi shallallahu 'alaihi wasallam dan Abu Bakar menjengukku dengan berjalan kaki, dan beliau mendapatiku dalam keadaan pingsan. Kemudian beliau meminta air untuk berwudlu, lalu beliau memercikkannya kepadaku hingga aku pun tersadar. Aku lalu berkata, "Bagaimana seharusnya saya mengatur hartaku wahai Rasulullah?" maka turunlah ayat: '(Allah menetapkan bagimu tentang warisan untuk anak-anakmu, bagian satu anak laki-laki sama dengan bagian dua anak perempuan….) ' (Qs. An Nisaa;)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4146</td></tr><tr><td>Arabic No</td><td>1616.02</td></tr><tr><td>Reference</td><td>Book 23 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4146</td></tr><tr><td>Arabic No</td><td>1616.02</td></tr><tr><td>Reference</td><td>Book 23 Hadith 7</td></tr></tbody></table></div>
 

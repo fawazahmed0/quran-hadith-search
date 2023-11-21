@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Khabbab reported:We complained to the Messenger of Allah (ﷺ) (the difficulty o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abul Ahwash Salam bin Sulaim] dari [Abu Ishaq] dari [Said bin Wahb] dari [Khabbab] dia berkata; "Kami berkeluh kepada Rasulullah shallallahu 'alaihi wasallam perihal shalat diatas kerikil yang sangat panas, namun beliau tidak menggubris keluh kesah kami
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1405</td></tr><tr><td>Arabic No</td><td>619.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб сказал: «(Однажды) мы пожаловались Посланнику Аллаха ﷺ на (трудность совершения) молитвы на (пышущей) жаром раскалённой земле, но он оставил наши жалобы без внимания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1405</td></tr><tr><td>Arabic No</td><td>619.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 239</td></tr></tbody></table></div>
 

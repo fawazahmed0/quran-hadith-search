@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; saya bacakan di hadapan [Malik]; dari [Sumaiy] dari [Abu Shalih] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika laki-laki sedang berjalan dan menemukan ranting berduri di tengah jalan, kemudian dia menyingkirkan ranting tersebut hingga Allah pun bersyukur kepadanya lalu mengampuni dosa-dosanya." Lalu beliau bersabda: "Syuhada' itu ada lima macam; meninggal karena penyakit kolera, orang yang meninggal karena sakit perut, orang yang tenggelam, orang yang meninggal karena reruntuhan, dan orang yang syahid karena berjuang di jalan Allah 'azza wajalla
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4940</td></tr><tr><td>Arabic No</td><td>1914</td></tr><tr><td>Reference</td><td>Book 33 Hadith 235</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4940</td></tr><tr><td>Arabic No</td><td>1914</td></tr><tr><td>Reference</td><td>Book 33 Hadith 235</td></tr></tbody></table></div>
 

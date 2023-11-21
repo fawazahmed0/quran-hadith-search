@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported that the Messenger of Allah (ﷺ) said:I have been commanded 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Hatim] telah menceritakan kepada kami [Bahz] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Abdullah bin Thawus] dari [Thawus] dari [Ibnu Abbas] bahwa Rasulullah shallallahu'alaihiwasallam bersabda, "Aku diperintahkan untuk bersujud pada tujuh anggota badan: kening -dan beliau menunjuk dengan tangannya pada hidungnya-, kedua tangannya, dan kedua kakinya, serta ujung kedua kedua telapak kakinya. Dan kami tidak melipat baju dan tidak pula mengikat rambut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1098</td></tr><tr><td>Arabic No</td><td>490.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 260</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн ‘Аббаса, что однажды Посланник Аллаха ﷺ сказал: «Мне было велено совершать земные поклоны(, опираясь) на семь костей: на лоб, и при этом он указал рукой себе на нос ладони, колени и кончики пальцев ног и не подбирая волосы и одежду»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1098</td></tr><tr><td>Arabic No</td><td>490.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 260</td></tr></tbody></table></div>
 

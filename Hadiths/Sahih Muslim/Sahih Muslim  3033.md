@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Anas (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédiction de Dieu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Haddab bin Khalid] Telah menceritakan kepada kami [Hammam] Telah menceritakan kepada kami [Qatadah] bahwa [Anas] radliallahu 'anhu telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam melakukan umrah sebanyak empat kali, semuanya beliau lakukan di bukan Dzulqa'dah kecuali umrah yang beliau kerjakan bersamaan dengan hajinya, yaitu umrah dari Hudaibiyah atau Umrah pada zaman Hudaibiyah tepatnya pada bulan Dzulqa'dah, dan umrah pada tahun sesudah itu juga dalam bulan Dzulqa'dah. Kemudian umrah yang beliau lakukan dari Ji'ranah ketika membagi-bagikan harta rampasan perang Hunain, juga di bulan Dzulqa'dah, dan sesudah itu umrah yang beliau lakukan bersamaan dengan haji. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepadaku [Abdush Shamad] Telah menceritakan kepada kami [Hammam] Telah menceritakan kepada kami [Qatadah] ia berkata; Saya bertanya kepada [Anas], "Berapa kali Rasulullah shallallahu 'alaihi wasallam mengerjakan ibadah haji?" Anas menjawab, "Beliau mengerjakan haji hanya sekali, dan umrah sebanyak empat kali." Kemudian ia pun menyebutkan hadits sebagaimana hadits Haddab
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3033</td></tr><tr><td>Arabic No</td><td>1253.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 240</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3033</td></tr><tr><td>Arabic No</td><td>1253.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 240</td></tr></tbody></table></div>
 

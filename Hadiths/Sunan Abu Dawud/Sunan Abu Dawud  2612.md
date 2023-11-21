@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sulaiman bin Buraidah reported on the authority of his father. When the Apostle 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari], telah menceritakan kepada kami [Waki'] dari [Sufyan] dari ['Alqamah bin Murtsad] dari [Sulaiman bin Buraidah], dari [ayahnya], ia berkata; Rasulullah shallallahu wa'alaihi wa sallam apabila mengutus seorang pemimpin dalam sebuah satuan militer atau sebuah pasukan maka beliau berwasiat kepadanya agar bertakwa kepada Allah pada dirinya secara khusus dan berbuat baik kepada orang-orang muslim yang bersamanya. Dan beliau berkata: "Apabila engkau bertemu musuhmu dari kalangan orang-orang musyrik maka ajaklah ia kepada salah satu tiga perkara; apapun diantara ketiga perkara tersebut yang mereka penuhi untuk dilakukan maka terimalah dari mereka, dan tahanlah diri dari menyerang mereka, kemudian ajaklah mereka kepada Islam. Apabila mereka memenuhi seruanmu maka terimalah dari mereka dan tahanlah diri dari menyerang mereka, kemudian ajaklah mereka agar berpindah dari negeri mereka menuju negeri muhajirin, dan beritahukan kepada mereka apabila mereka melakukan hal tersebut maka bagi mereka apa yang menjadi hak orang-orang muhajirin dan kewajiban mereka adalah yang menjadi kewajiban orang-orang muhajirin. Kemudian apabila mereka menolak dan memilih negeri mereka maka beritahukan kepada mereka bahwa mereka seperti orang-orang badui muslim yang diberlakukan atas mereka hukum Allah sebagaimana yang berlaku terhadap orang-orang mukmin dan mereka tidak memiliki bagian fai' dan rampasan perang kecuali mereka berjihad bersama orang-orang muslim. Dan apabila mereka menolak untuk masuk Islam maka mintalah mereka untuk memberikan Jizyah dan apabila mereka melakukan hal tersebut maka terimalah dari mereka dan jangan menyerang mereka, kemudian apabila mereka menolak maka mintalah pertolongan kepada Allah dan perangilah mereka. Dan apabila engkau mengepung penghuni sebuah benteng kemudian mereka ingin agar engkau menempatkan mereka di atas hukum Allah ta'ala, maka janganlah engkau menempatkan mereka. Karena sesungguhnya engkau tidak mengetahui apa yang Allah putuskan terhadap mereka. Akan tetapi tempatkanlah di atas hukummu! Kemudian berilah keputusan terhadap mereka setelah itu sesuai apa yang engkau kehendaki." Sufyan bin 'Uyainah berkata; ['Alqamah] berkata; kemudian aku menceritakan hadits ini kepada [Muqatil bin Hayyan] lalu ia berkata; telah menceritakan kepadaku [Muslim] dari [An Nu'man bin Muqarrin] dari Nabi shallallahu 'alaihi wasallam seperti hadits Sulaiman bin Buraidah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1731)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2612</td></tr><tr><td>Arabic No</td><td>2612</td></tr><tr><td>Reference</td><td>Book 15 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1731)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2612</td></tr><tr><td>Arabic No</td><td>2612</td></tr><tr><td>Reference</td><td>Book 15 Hadith 136</td></tr></tbody></table></div>
 

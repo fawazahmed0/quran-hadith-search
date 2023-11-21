@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Urwah b. al-Zubair said the Fatimah daughter of Abu Hubaish had a prolonged flow
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al-Mutsanna] telah menceritakan kepada kami [Ibnu Abi Adi] dari [Muhammad bin Amru] telah menceritakan kepadaku [Ibnu Syihab] dari [Urwah bin Az-Zubair] dari [Fathimah binti Abi Hubaisy] bahwasanya dia pernah mustahadlah, maka Nabi shallallahu 'alaihi wasallam bersabda kepadanya: "Apabila darah haidl maka darah itu berwarna hitam, sebagaimana yang diketahui (oleh wanita). Apabila darah itu ternyata demikian, maka tinggalkanlah shalat. Apabila darah itu berwarna lain, maka berwudhulah dan shalatlah". Abu Dawud berkata; [Ibnu Al-Mutsanna] berkata; Telah menceritakan kepada kami dengannya [Ibnu Abi Adi] secara hafalan, dia berkata; Dari [Urwah] dari [Aisyah] bahwasanya Fathimah. Abu Dawud berkata; Dan diriwayatkan dari [Al-'Ala'bin Al-Musayyab] dan [Syu'bah] dari [Al-Hakam] dari [Abu Ja'far]. berkata Al-'Ala' dari Nabi shallallahu 'alaihi wasallam, dan dimauqufkan oleh Syu'bah pada Abu Ja'far; Hendaklah berwudhu untuk setiap kali shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>304</td></tr><tr><td>Arabic No</td><td>304</td></tr><tr><td>Reference</td><td>Book 1 Hadith 304</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что у Фатимы бинт Абу Хубайш было хроническое кровотечение и Пророк ﷺ сказал ей: «Если будет менструальная кровь, то она темная, и ее можно определить (без труда). И когда будет выделяться такая кровь, то воздерживайся от молитвы. А когда будет выделяться другая кровь, то совершай омовение и молись».Абу Дауд сказал: «Передается от Пророка ﷺ и Шу‘ба (при передаче этого хадиса) остановился на Абу Джа‘фаре (что он ﷺ сказал): “Совершай омовение для каждой молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>304</td></tr><tr><td>Arabic No</td><td>304</td></tr><tr><td>Reference</td><td>Book 1 Hadith 304</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir:Never was the Prophet (ﷺ) asked for a thing to be given for whi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Ibnu Al Munkadir] dia berkata; saya mendengar [Jabir] radliallahu 'anhu berkata; Nabi shallallahu 'alaihi wasallam tidak pernah dimintai sesuatu lalu beliau berkata; "Tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6034</td></tr><tr><td>Arabic No</td><td>6034</td></tr><tr><td>Reference</td><td>Book 78 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир, да будет доволен им Аллах, сказал: «О чём бы ни просили Пророка ﷺ, он ни разу не сказал: “Нет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6034</td></tr><tr><td>Arabic No</td><td>6034</td></tr><tr><td>Reference</td><td>Book 78 Hadith 64</td></tr></tbody></table></div>
 

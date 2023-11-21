@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salama (in another narration):I fought seven Ghazwat (i.e. battles) alo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4271</td></tr><tr><td>Arabic No</td><td>4271</td></tr><tr><td>Reference</td><td>Book 64 Hadith 305</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Саляма сказал: «Я принимал участие в семи военных походах вместе с Пророком ﷺ, а также в девяти других военных походах (в составе) направлявшихся (Пророком ﷺ) отрядов, которыми попеременно командовали Абу Бакр и Усама»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4271</td></tr><tr><td>Arabic No</td><td>4271</td></tr><tr><td>Reference</td><td>Book 64 Hadith 305</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa (que Dieu l'agrée) a dit : Une maison de Médine fut brûlé avec s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin 'Amru Al Asy'atsi] dan [Abu Bakr bin Syaibah] dan [Muhammad bin 'Abdullah bin Numair] dan [Abu 'Amir Al Asy'ari] dan [Abu Kuraib] dan lafazh ini milik Abu 'Amir, berkata; Telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] ia berkata; Pada suatu malam sebuah rumah penduduk Madinah terbakar. Ketika hal itu di ceritakan kepada Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya api ini adalah musuh kalian, karena itu apabila kalian hendak tidur, maka padamkanlah lebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5258</td></tr><tr><td>Arabic No</td><td>2016</td></tr><tr><td>Reference</td><td>Book 36 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5258</td></tr><tr><td>Arabic No</td><td>2016</td></tr><tr><td>Reference</td><td>Book 36 Hadith 132</td></tr></tbody></table></div>
 

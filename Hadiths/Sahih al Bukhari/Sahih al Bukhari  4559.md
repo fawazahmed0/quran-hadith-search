@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salim's father:That he heard Allah's Messenger (ﷺ) on raising his hea
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hibban bin Musa] Telah mengabarkan kepada kami ['Abdullah] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] berkata; Telah menceritakan kepadaku [Salim] dari [Bapaknya] bahwasanya dia mendengar Rasulullah shallallahu 'alaihi wasallam ketika beliau mengangkat kepalanya dari ruku pada raka'at terakhir dari shalat subuh beliau berdoa: "Ya Allah laknatlah fulan dan fulan." yaitu setelah beliau membaca; 'Sami'allah hu Liman Hamidah.' maka Allah menurunkan ayat; "Tak ada sedikitpun campur tanganmu dalam urusan mereka itu atau Allah menerima taubat mereka, atau mengazab mereka karena sesungguhnya mereka itu orang-orang yang zalim (Ali Imran: 128)." diriwayatkan oleh [Ishaq bin Rasyid] dari [Az Zuhri]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4559</td></tr><tr><td>Arabic No</td><td>4559</td></tr><tr><td>Reference</td><td>Book 65 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что он слышал, как подняв голову после совершения поясного поклона в последнем рак‘ате утренней молитвы, и после произнесения слов «Да услышит Аллах тех, кто воздал Ему хвалу. Господь наш, хвала Тебе! /Cами‘а- Ллаху ли-ман хамида-ху. Рабба-на, ва ля-кя-ль-хамд!/», Посланник Аллаха ﷺ говорил: «О Аллах, прокляни такого-то, такого-то и такого-то!» — а потом Аллах ниспослал (аят, в котором было сказано): «Ты не принимаешь никакого решения. Аллах же либо примет их покаяния, либо накажет их, ведь они являются беззаконниками»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4559</td></tr><tr><td>Arabic No</td><td>4559</td></tr><tr><td>Reference</td><td>Book 65 Hadith 81</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Urwa's father:Aisha said, "I borrowed a necklace from Asma' and it was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zakaria bin Yahya] berkata, telah menceritakan kepada kami ['Abdullah bin Numair] berkata, telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [Bapaknya] dari ['Aisyah] bahwa ia meminjam kalung kepada Asma' lalu hilang. Maka Rasulullah shallallahu 'alaihi wasallam mengutus seseorang untuk mencarinya hingga kalung itu pun ditemukan. Lalu datanglah waktu shalat sementara mereka tidak memiliki air, namun mereka tetap melaksanakannya. Setelah itu mereka mengadukan peristiwa itu kepada Rasulullah shallallahu 'alaihi wasallam, hingga turunlah ayat tayamum. Usaid bin Al Hudlair lalu berkata kepada 'Aisyah, "Semoga Allah membalasmu dengan segala kebaikan. Sungguh demi Allah, tidaklah terjadi suatu peristiwa menimpa anda yang anda tidak sukai kecuali Allah menjadikannya untuk anda dan Kaum Muslimin sebagai kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>336</td></tr><tr><td>Arabic No</td><td>336</td></tr><tr><td>Reference</td><td>Book 7 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши о том, что как то она позаимствовала у Асмы ожерелье, которое пропало. Посланник Аллаха ﷺ отправил одного человека, (чтобы поискать ожерелье), которое он нашёл и их застало (время) молитвы, но у них не было воды и они совершили молитву (без омовения). Они пожаловались из-за этого Посланнику Аллаха ﷺ и Аллах ниспослал аят об очищении песком.\nУсайд ибн Худайр сказал ‘Аише: «Да воздаст тебе Аллах добром! Клянусь Аллахом, не происходит с тобой что-то, что неприятно тебе, кроме, как Аллах делает тебе и мусульманам в этом благо»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>336</td></tr><tr><td>Arabic No</td><td>336</td></tr><tr><td>Reference</td><td>Book 7 Hadith 3</td></tr></tbody></table></div>
 

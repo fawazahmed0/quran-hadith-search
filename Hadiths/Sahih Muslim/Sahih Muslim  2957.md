@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Moûsa (que Dieu l'agrée) a dit : Je vins trouver le Prophète (paix et b�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Muhammad bin Basysyar] - [Ibnul Mutsanna] berkata- Telah menceritakan kepada kami [Muhammad bin Ja'far] telah mengabarkan kepada kami [Syu'bah] dari [Qais bin Muslim] dari [Thariq bin Syihab] dari [Abu Musa] ia berkata; Saya datang kepada Rasulullah shallallahu 'alaihi wasallam yang pada saat itu beliau berada di Bathha'. Maka beliau pun bertanya kepadaku: "Apakah kamu telah menunaikan haji?" saya menjawab, "Ya." Beliau bertanya lagi: "Dengan bacaan apa kamu berihlal (memulai ihram)?" saya menjawab, "LABBAIKA (Ya Allah, aku penuhi panggilan-Mu) yakni sebagaimana Ihlal Nabi shallallahu 'alaihi wasallam." beliau bersabda: "Bagus, kalau begitu, lakukanlah thawaf di Baitullah, dan antara Shafa dan Marwa, kemudian kamu bertahallul." Abu Musa berkata; "Maka aku pun melakukan thawaf di Baitullah, dan Sa'i antara Shafa dan Marwa. Kemudian aku mendatangi seorang wanita dari Bani Qais, lalu dia mengeramasi rambutku. Setelah itu, aku berihlal (memulai ihram) untuk haji. Dan aku senantiasa berfatwa (menjawab pertanyaan) kepada orang-orang dengan apa yang Rasulullah shallallahu 'alaihi wasallam perintahkan kepadaku, sampai pada masa kekhilafahan Umar radliallahu 'anhu." Kemudian seorang laki-laki berkata kepadanya, "Wahai Abu Musa, janganlah kamu terburu-buru dengan fatwamu, karena kamu tidak tahu kebijakan apa yang akan diambil oleh Amirul mukminin terkait Nusuk setelahmu." Maka Abu Musa pun berkata, "Wahai sekaliana manusia, siapa yang telah kami beri fatwa, hendaklah dia tangguhkan karena amirul mukminin datang untuk melaksanakan haji, maka sempurnakanlah haji kalian bersamanya." Lalu Umar radliallahu 'anhu datang, dan aku menuturkan hal itu padanya. Ia pun berkata, "Ya, kalau mengambil dari kitabullah, maka Kitabullah telah memerintahkan unutuk menyempurnakan haji. Dan jika kita mengambil dari sunnah Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam tidak tahallul hingga hadya (hewan kurban) sampai pada tempatnya." Dan Telah meceritakannya kepada kami [Ubaidullah bin Mu'adz] Telah menceritakan kepada kami [bapakku] Telah menceritakan kepada kami [Syu'bah] dalam isnad ini, semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2957</td></tr><tr><td>Arabic No</td><td>1221.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 166</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2957</td></tr><tr><td>Arabic No</td><td>1221.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 166</td></tr></tbody></table></div>
 

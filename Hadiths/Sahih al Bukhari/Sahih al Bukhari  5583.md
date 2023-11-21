@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:While I was waiting on my uncles and serving them with (wine prepa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mu'tamir] dari [Ayahnya] dia berkata; saya mendengar [Anas] berkata; "Aku pernah menjadi pelayan yang bertugas menuangkan minuman kepada paman-pamanku di suatu tempat, sementara diriku adalah yang paling muda di antara mereka, ketika itu aku menuangkan Fadlih (minuman keras dari perasan kurma muda) tiba-tiba ada yang berkata; "Sesungguhnya khamar telah di haramkan." Lantas mereka berkata; "Tumpahkanlah" maka aku pun menumpahkannya. Aku bertanya kepada Anas; "Apakah yang mereka minum waktu itu?" dia menjawab; "yaitu ruthab (minuman keras dari perasan kurma basah) dan busr (minuman keras dari perasan kurma muda atau masih pentil)." Abu Bakar bin Anas berkata; "Seperti itulah khamr mereka, sementara Anas tidak mengingkarinya." Dan sebagian sahabatku juga pernah menceritakan kepadaku bahwa dia pernah mendengar Anas bin Malik berkata; "Seperti itulah khmar mereka waktu itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5583</td></tr><tr><td>Arabic No</td><td>5583</td></tr><tr><td>Reference</td><td>Book 74 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас сказал: «Когда я поил своих дядей (вином, изготовленным из) фиников, будучи самым младшим из них, было сказано: “Опьяняющие напитки были запрещены”. Тогда мне сказали: “Вылей его (вино)”. И я вылил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5583</td></tr><tr><td>Arabic No</td><td>5583</td></tr><tr><td>Reference</td><td>Book 74 Hadith 9</td></tr></tbody></table></div>
 

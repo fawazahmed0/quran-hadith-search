@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Sa'id al-Khudri:The Messenger of Allah (ﷺ) as saying: Do not obse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] bahwa [Abu Bakr bin Mudhar] telah menceritakan kepada mereka, dari [Ibnu Al Had] dari [Abdullah bin Khabbab] dari [Abu Sa'id Al Khudri] bahwa ia telah mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Janganlah kalian melakukan puasa wishal, barangsiapa diantara kalian yang menghendaki untuk melakukan wishal maka hendaknya ia melakukannya hingga waktu sahur." Mereka berkata; anda melakukannya. Beliau berkata: "Sesungguhnya aku tidak seperti kalian, aku memiliki Pemberi makan dan Pemberi minum
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1963)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2361</td></tr><tr><td>Arabic No</td><td>2361</td></tr><tr><td>Reference</td><td>Book 14 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что он слышал, как Посланник Аллаха ﷺ сказал: «Не поститесь непрерывно, а кто из вас желает поститься без разговения, пусть делает это до рассвета». Люди сказали: «Но ведь ты постишься без разговения!» (Посланник Аллаха ﷺ) сказал: «Я не подобен вам. Поистине, у меня есть Тот, Кто кормит и поит меня»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1963)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2361</td></tr><tr><td>Arabic No</td><td>2361</td></tr><tr><td>Reference</td><td>Book 14 Hadith 49</td></tr></tbody></table></div>
 

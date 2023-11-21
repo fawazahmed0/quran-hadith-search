@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Sa'îd Al-Khoudri (que Dieu l'agrée) a dit : "Dinar contre dinar et dirham
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin 'Abbad] dan [Muhammad bin Hatim] dan [Ibnu Abu Umar] semuanya dari [Sufyan bin 'Uyainah] dan ini adalah lafadz Ibnu 'Abbad, dia berkata; telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Abu Shalih] dia berkata; saya mendengar [Abu Sa'id Al Khudri] berkata, "Dinar dengan dinar, dirham dengan dirham jika sama takarannya, barangsiapa menambahkan maka dia telah melakukan praktek riba." Lalu saya bertanya kepadanya, "Ibnu Abbas pernah berkata tidak seperti ini." Dia menjawab, "Sungguh saya telah bertemu dengan [Ibnu Abbas]." Maka saya berkata, "Apakah sesuatu yang kamu katakan ini pernah kamu dengar langsung dari Rasulullah shallallahu 'alaihi wasallam, atau mungkin kamu dapatkan di dalam kitabullah Azza wa Jalla?" dia menjawab, "Saya tidak mendengar langsung dari Rasulullah shallallahu 'alaihi wasallam dan tidak pula saya dapatkan didalam kitabullah, akan tetapi [Usamah bin Zaid] telah menceritakan kepadaku, bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Riba itu bisa terjadi dalam jual beli dengan pembayaran yang ditangguhkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4088</td></tr><tr><td>Arabic No</td><td>1596.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4088</td></tr><tr><td>Arabic No</td><td>1596.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 127</td></tr></tbody></table></div>
 

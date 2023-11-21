@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:That once he stayed overnight in the house of his aunt, the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] dari [Malik] dari [Makhramah bin Sulaiman] dari [Kuraib] -budak yang dimerdekakan- Ibnu 'Abbas bahwa [Ibnu 'Abbas radliallahu 'anhu] telah mengabarkan kepadanya bahwasannya dia pernah menginap di rumah Maimunah isteri Nabi shallallahu 'alaihi wasallam, yaitu bibinya. Ia berkata; Aku berbaring di bantal bagian sisi lebar, sedangkan Rasulullah shallallahu 'alaihi wasallam dan keluarganya tidur di bantal bagian sisi panjang. Rasulullah shallallahu 'alaihi wasallam tidur hingga pertengahan malam, mendekati atau melewati sedikit, kemudian bangun dan duduk seraya mengusap kantuk dari wajahnya dengan tangannya. Kemudian beliau membaca sepuluh ayat terakhir dari surat Ali Imran, lalu bangun menuju ke geriba yang tergantung, beliau berwudlu darinya dan menyempurnakan wudlunya kemudian beliau shalat. Ibnu 'Abbas berkata; Aku pun bangun dan melaksanakan seperti apa yang beliau kerjakan, kemudian aku berdiri di sampingnya, maka beliau meletakkan tangannya di kepalaku dan memegang telinga kananku lalu memilinnya. Beliau shalat dua raka'at, dua raka'at, dua raka'at, dua raka'at, dua raka'at, dua raka'at kemudian beliau melakukan witir, setelah selesai beliau tidur kembali hingga datang seruan mu'adzin. Kemudian beliau shalat dua raka'at ringan dan keluar untuk melakukan shalat Subuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4572</td></tr><tr><td>Arabic No</td><td>4572</td></tr><tr><td>Reference</td><td>Book 65 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, рассказал, что однажды он остался ночевать у жены Пророка ﷺ Маймуны, которая была тёткой Ибн ‘Аббаса со стороны матери. Он сказал: «Я улёгся поперёк постели, а Посланник Аллаха ﷺ со своей женой — вдоль неё. И Посланник Аллаха ﷺ спал примерно до середины ночи, а потом проснулся, сел и начал протирать лицо, чтобы разогнать сон. Затем он прочитал десять последних аятов суры “Али ‘Имран”, подошёл к старому бурдюку, подвешенному к потолку, совершил омовение должным образом, а потом встал на молитву». \n‘Абдуллах сказал: «И я тоже поднялся, сделал всё то, что сделал он, а потом встал рядом с ним. Он же положил свою правую руку мне на голову, взял меня за ухо и слегка потрепал его. Потом он совершил два рак‘ата молитвы, потом ещё два, потом ещё два, потом ещё два, потом ещё два, потом ещё два, затем он завершил молитву нечётным количеством рак‘атов. Затем он снова лёг и лежал, пока к нему не пришёл муаззин, и тогда он поднялся, совершил молитву в два лёгких рак‘ата, а потом вышел из дома и совершил утреннюю молитву (в мечети)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4572</td></tr><tr><td>Arabic No</td><td>4572</td></tr><tr><td>Reference</td><td>Book 65 Hadith 94</td></tr></tbody></table></div>
 

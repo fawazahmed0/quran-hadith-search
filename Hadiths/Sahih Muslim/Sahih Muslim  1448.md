@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Le récit de Anas (que Dieu l'agrée), transmis par Thâbit, on demanda à Anas 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Bakr bin Nafi' Al 'Abdi] telah menceritakan kepada kami [Bahz bin Asad Al 'Ammi] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] bahwa mereka bertanya kepada [Anas] tentang cincin Rasulullah shallallahu 'alaihi wasallam, lalu dia menjawab; "Suatu malam Rasulullah shallallahu 'alaihi wasallam pernah mengakhirkan shalat isya' hingga separah malam atau nyaris separah malam berlalu, lalu beliau datang dan bersabda: "Orang-orang telah shalat dan tidur, sementara kalian terus dihitung dalam shalat selama kalian menunggu shalat." Kata Anas; "Seolah-olah aku melihat mata cincinnya dari perak dan beliau angkat telunjuk kirinya dengan kelingking
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>640.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 281</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Сабита, что Анаса (ибн Малика) спросили о перстне Посланника Аллаха ﷺ. Он сказал: «(Однажды) ночью он отложил вечернюю молитву до середины ночи (или незадолго до половини ночи). Затем он пришёл и сказал: “Люди уже совершили молитву и заснули, а вы продолжали присутствовать на молитве с того времени, когда стали ожидать её (начала)”». (Анас) сказал: «И я будто и сейчас вижу, как блестел (той ночью) его серебряный перстень», и поднял мизинец левой руки
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>640.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 281</td></tr></tbody></table></div>
 

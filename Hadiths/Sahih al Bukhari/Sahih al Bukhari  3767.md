@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama:Allah's Messenger (ﷺ) said, "Fatima is a part 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Walid] telah bercerita kepada kami [Ibnu 'Uyainah] dari ['Amru bin Dinar] dari [Ibnu Abu Mulaikah] dari [Al Miswar bin Makhramah radliallahu 'anha] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Fathimah adalah bagian dari diriku. Barangsiapa yang menjadikannya marah berarti membangkitkan kemarahanku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3767</td></tr><tr><td>Arabic No</td><td>3767</td></tr><tr><td>Reference</td><td>Book 62 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Мисуара бин Махрама, да будет доволен ими обоими Аллах, что Посланник Аллаха ﷺ сказал: «Фатима является частицей меня самого, и кто разгневает её, вызовет и мой гнев»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3767</td></tr><tr><td>Arabic No</td><td>3767</td></tr><tr><td>Reference</td><td>Book 62 Hadith 112</td></tr></tbody></table></div>
 

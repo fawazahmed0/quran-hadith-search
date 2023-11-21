@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "Who ever sees me (in a dre
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] telah menceritakan kepadaku [Ibnul Al Had] dari [Abdullah bin Khabbab] dari [Abu Sa'id Al Khudzri], ia mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa melihatku, berarti ia telah melihat yang sebenarnya, sebab setan tak bisa menjelma sepertiku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6997</td></tr><tr><td>Arabic No</td><td>6997</td></tr><tr><td>Reference</td><td>Book 91 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт, что он слышал, как Пророк ﷺ сказал: «Кто увидел меня (во сне), тот увидел истину, ибо, поистине, шайтан не (может) представать в моём образе»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6997</td></tr><tr><td>Arabic No</td><td>6997</td></tr><tr><td>Reference</td><td>Book 91 Hadith 16</td></tr></tbody></table></div>
 

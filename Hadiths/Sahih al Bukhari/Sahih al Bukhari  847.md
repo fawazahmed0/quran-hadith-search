@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Once the Prophet (ﷺ) delayed the 'Isha' prayer until m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Munir] dia mendengar [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Humaid] dari [Anas bin Malik] berkata, "Pada suatu malam Rasulullah shallallahu 'alaihi wasallam pernah mengakhirkan shalat hingga pertengahan malam, lalu beliau keluar menemui kami (untuk melaksanakan shalat). Selesai shalat beliau menghadap ke arah kami dan bersabda: "Manusia sudah selesai melaksanakan shalat lalu mereka tidur. Dan kalian akan tetqap dalan hitungan shalat selama kalian masih menunggu (pelaksanaan) shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>847</td></tr><tr><td>Arabic No</td><td>847</td></tr><tr><td>Reference</td><td>Book 10 Hadith 239</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «(Однажды) Пророк ﷺ отложил вечерний намаз до середины ночи. Затем он помолился и сказал: “Люди уже совершили намаз и заснули, а вы присутствуете на намазе и тогда, когда ожидаете его (начала)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>847</td></tr><tr><td>Arabic No</td><td>847</td></tr><tr><td>Reference</td><td>Book 10 Hadith 239</td></tr></tbody></table></div>
 

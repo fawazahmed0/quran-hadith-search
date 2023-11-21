@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:When the Messenger of Allah (may peace be upom him) died, he was
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Hasan Al Hulwani] dan [Abdu bin Humaid] -Abdu berkata- telah mengabarkan kepadaku -dan dua orang yang lain berkata- telah menceritakan kepada kami [Ya'qub bin Ibrahim bin Sa'd] telah menceritakan kepada kami [bapakku] dari [Shalih] dari [Ibnu Syihab] bahwa [Abu Salamah bin Abdurrahman] telah mengabarkan kepadanya, bahwa [Aisyah] Ummul Mukminin berkata, "Saat meninggal, Rasulullah shallallahu 'alaihi wasallam ditutupi dengan kain Hibarah (yang terbuat dari kapas)." Dan telah menceritakannya kepada kami [Ishaq bin Ibrahim] dan [Abdu bin Humaid] keduanya berkata, telah mengabarkan kepada kami [Abdurrazaq] ia berkata, telah mengabarkan kepada kami [Ma'mar] -dalam jalur lain- Dan telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad Darimi] telah mengabarkan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] dengan isnad ini, dan dengan hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2183</td></tr><tr><td>Arabic No</td><td>942.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что мать правоверных ‘Аиша сказала: «Когда Посланник Аллаха ﷺ умер, (тело) его покрыли плащом /хибара/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2183</td></tr><tr><td>Arabic No</td><td>942.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 61</td></tr></tbody></table></div>
 

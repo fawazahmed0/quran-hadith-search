@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdur Rahman bin Abi Bakra:Abu Bakra wrote to his son who was in Sijis
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepada kami [Abdul Malik bin Umair], aku mendengar [Abdurrahman bin Abu Bakrah] mengatakan, [Abu Bakrah] menulis surat untuk anaknya yang ketika itu berada di Sijistan yang isinya; 'Jangan engkau mengadili diantara dua orang ketika engkau marah, sebab aku mendengar Rasulullah Shallallahu'alaihiwasallam bersabda: "Seorang hakim dilarang memutuskan antara dua orang ketika marah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7158</td></tr><tr><td>Arabic No</td><td>7158</td></tr><tr><td>Reference</td><td>Book 93 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуррахман ибн Абу Бакра сказал: «Однажды Абу Бакра, да будет доволен им Аллах, написал своему сыну (‘Убайдуллаху), который (занимал должность судьи) в Сиджистане, и (в нём было написано): “Не выноси решение между двумя, будучи в гневе, ибо я слышал как Пророк ﷺ сказал: “Пусть судья, охваченный гневом, ни в коем случае не (пытается) рассудить между собой двоих””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7158</td></tr><tr><td>Arabic No</td><td>7158</td></tr><tr><td>Reference</td><td>Book 93 Hadith 22</td></tr></tbody></table></div>
 

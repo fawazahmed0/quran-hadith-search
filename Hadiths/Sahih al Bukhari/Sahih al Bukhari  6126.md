@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Whenever Allah's Messenger (ﷺ) was given the choice of one of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Urwah] dari [Aisyah] radliallahu 'anha bahwa dia berkata; "Tidaklah Rasulullah shallallahu 'alaihi wasallam merasa bingung terhadap dua pilihan melainkan beliau akan memilih perkara yang lebih mudah (ringan) selama hal itu tidak mengandung dosa. Jika perkara itu mengandung dosa, maka beliau adalah orang yang paling menjauhkan diri dari padanya. Dan tidaklah Rasulullah shallallahu 'alaihi wasallam marah terhadap suatu perkara, melainkan bila beliau melihat larangan Allah dilanggar, maka beliau akan marah karena Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6126</td></tr><tr><td>Arabic No</td><td>6126</td></tr><tr><td>Reference</td><td>Book 78 Hadith 153</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда бы ни предлагали Посланнику Аллаха ﷺ на выбор одно из двух дел, он неизменно выбирал более лёгкое из них, если только не являлось оно греховным, если же было в этом что-то греховное, то он держался от (такого дела) дальше любого из людей. Кроме того, Посланник Аллаха ﷺ никогда не мстил за себя лично, и только если совершалось что-нибудь запрещённое Аллахом, он мстил за Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6126</td></tr><tr><td>Arabic No</td><td>6126</td></tr><tr><td>Reference</td><td>Book 78 Hadith 153</td></tr></tbody></table></div>
 

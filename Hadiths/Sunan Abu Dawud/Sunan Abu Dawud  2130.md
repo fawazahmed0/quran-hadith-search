@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: When the Prophet (ﷺ) congratulated a man on his marriage
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Suhail] dari [ayahnya], dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam apabila mengucapkan selamat kepada seseorang apabila ia menikah beliau mengucapkan: "BAARAKALLAAHU LAKA WA BAARAKA 'ALAIKA WA JAMA'A BAINAKUMAA FII KHAIRIN" (Semoga Allah memberkahimu dan senantiasa memberkahimu dan mengumpulkan kalian berdua dalam kebaikan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2130</td></tr><tr><td>Arabic No</td><td>2130</td></tr><tr><td>Reference</td><td>Book 12 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ поздравляя новобрачного, говорил: «Да благословит тебя Аллах, да ниспошлёт Он тебе Свои благословения и да соединит Он вас во благе /Барака-Ллаху ляка ва барака ‘аляйка ва джама‘а байнакума фи хайр/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2130</td></tr><tr><td>Arabic No</td><td>2130</td></tr><tr><td>Reference</td><td>Book 12 Hadith 85</td></tr></tbody></table></div>
 

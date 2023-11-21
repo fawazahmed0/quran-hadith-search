@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been reported on the authority of 'Adi b. 'Amira al-Kindi who said:I hear
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki' bin Jarrah] telah menceritakan kepada kami [Isma'il bin Abi Khalid] dari [Qais bin Abu Hazim] dari ['Adi bin Amirah Al Kindi] dia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa dari kalian yang aku angkat atas suatu amal, kemudian dia menyembunyikan dari kami (meskipun) sebuah jarum, atau sesuatu yang lebih kecil dari itu, maka itu adalah ghulul (pencurian) yang pada hari kiamat akan ia bawa." 'Adi bin 'Amirah berkata, "Kemudian seorang laki-laki hitam dari Anshar -sepertinya saya pernah melihatnya- berdiri sambil berkata, "Wahai Rasulullah, kalau begitu saya akan tarik kembali tugas yang pernah anda bebankan kepada saya!" Beliau balik bertanya: "Ada apa denganmu?" dia menjawab, "Saya telah mendengar bahwa Anda pernah bersabda seperti ini dan seperti ini." Beliau bersabda: "Sekarang saya sampaikan, bahwa barangsiapa dari kalian yang aku tugasi atas suatu amal hendaklah ia datang baik dengan sedikit atau banyaknya, apa yang memang diberikan untuknya ia boleh mengambilnya, dan apa yang memang dilarang untuknya, maka ia harus dapat menahan diri." Dan telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [ayahku] dan [Muhammad bin Bisyr]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abu Usamah] mereka berkata; telah menceritakan kepada kami [Isma'il] dengan isnad seperti ini." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim Al Handlali] telah mengabarkan kepada kami [Al Fadl bin Musa] telah menceritakan kepada kami [Isma'il bin Abu Khalid] telah mengabarkan kepada kami [Qais bin Abu Hazim] dia berkata, "Saya pernah mendengar ['Adi bin 'Amirah Al Kindi] berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda… seperti hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4743</td></tr><tr><td>Arabic No</td><td>1833.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4743</td></tr><tr><td>Arabic No</td><td>1833.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 42</td></tr></tbody></table></div>
 

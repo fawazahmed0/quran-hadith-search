@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr: When the Messenger of Allah (ﷺ) was travelling and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr bin Utsman], telah menceritakan kepada kami [Baqiyyah], telah menceritakan kepadaku [Shafwan], telah menceritakan kepadaku [Syuraih bin 'Ubaid], dari [Az Zubair bin Al Walid] dari [Abdullah bin Umar], ia berkata; Rasulullah shallallahu 'alaihi wasallam apabila bersafar kemudian datang waktu malam, beliau berkata: "YAA ARDHU, RABBII WA RABBUKALLAAH, A'UUDZU BILLAAHI MIN SYARIIKI WA SYARRI MAA FIIKI WA SYARRI MAA KHULIQA FIIKI, WA MIN SYARRI MAA YADIBBU 'ALAIKI, WA A'UUDZU BILLAAHI MIN ASADIN WA ASWAD, WA MINAL HAYYATI WAL 'AQRAB, WA MIN SAAKINIL BALADI WA MIN WAALIDIN WA MAA WALAD." (Wahai bumi, Tuhanku dan Tuhanmu adalah Allah, aku berlindung kepada Allah dari keburukanmu dan keburukan yang ada padamu, dan keburukan apa yang diciptakan padamu, dari keburukan apa yang merayap di atasmu. Dan aku berlindung kepada Allah dari Singa, dan sesuatu yang hitam, dari ular dan kalajengking, dan dari penghuni negeri serta dari orang yang melahirkan serta apa yang ia lahirkan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2603</td></tr><tr><td>Arabic No</td><td>2603</td></tr><tr><td>Reference</td><td>Book 15 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2603</td></tr><tr><td>Arabic No</td><td>2603</td></tr><tr><td>Reference</td><td>Book 15 Hadith 127</td></tr></tbody></table></div>
 

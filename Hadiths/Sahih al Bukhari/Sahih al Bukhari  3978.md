@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham's father:It was mentioned before 'Aisha that Ibn 'Umar attribute
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3978</td></tr><tr><td>Arabic No</td><td>3978</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что отец Хишама сказал: «Однажды в присутствие ‘Аиши, да будет доволен ею Аллах, было упомянуто, что Ибн ‘Умар передал, что Пророк ﷺ сказал: “Поистине, умершего подвергают мучениям за то, что родные оплакивают его”. Она сказала: “Он ошибается. Посланник Аллаха ﷺ только сказал: “Человек подвергается мучениям за свои прегрешения и грехи, в то время как его семья оплакивает его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3978</td></tr><tr><td>Arabic No</td><td>3978</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

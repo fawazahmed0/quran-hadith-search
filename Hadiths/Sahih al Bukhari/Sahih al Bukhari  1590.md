@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:On the Day of Nahr at Mina, the Prophet (ﷺ) said, "Tomorr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Al Walid] telah menceritakan kepada kami [Al Awza'iy] berkata, telah menceritakan kepada saya [Az Zuhriy] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam berkata, sehari setelah hari Nahar ketika Beliau masih di Mina: " Besok kita akan singgah di tempat peristirahatan Bani Kinanah saat mereka saling bersumpah setia diatas kekafiran". Tempat yang dimaksud adalah Al Muhashshab. Yang demikian itu karena Suku Quraisy dan Kinanah telah saling berjanji terhadap Bani 'Abdul Mutholib atau Bani Al Mutholib untuk tidak menikah dengan mereka, tidak berjual beli hingga mereka (Bani 'Abdul Mutholib) menyerahkan Nabi shallallahu 'alaihi wasallam kepada mereka (Suku Quraisy dan Kinanah) ". Dan berkata, [Salamah] dari ['Uqail] dan [Yahya bin Adh-Dhahhak] dari [Al Awza'iy] telah mengabarkan kepada saya [Ibnu Syihab] dan keduanya berkata: Bani Hasyim dan Bani Al Mutholib". Berkata, Abu 'Abdullah Al Bukhariy: "Bani Al Mutholib sama dengan Bani Hasyim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1590</td></tr><tr><td>Arabic No</td><td>1590</td></tr><tr><td>Reference</td><td>Book 25 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ утром в День жертвоприношения находясь в Мине сказал: «Завтра мы остановимся в долине бану кинана, где (курайшиты) поклялись друг другу в неверии». Он имел в виду долину Мухассаб, в которой курайшиты заключили союз с кинанитами против бану хашим и бану ‘абдуль-мутталиб (или: бану аль-мутталиб), договорившись не заключать с ними ни браков, ни торговых сделок до тех пор, пока они не выдадут им Пророка ﷺ.\nСаляма передал от ‘Укайля, а Яхья Ибн ад-Даххака от аль-Ауза‘и, который сказал: «Мне сообщил Ибн Шихаб». Саляма и Яхья сказали: «Бану хашим и бану аль-мутталиб».\nАбу ‘Абдуллах (аль-Бухари) сказал: «Бану аль-мутталиб больше похож на истину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1590</td></tr><tr><td>Arabic No</td><td>1590</td></tr><tr><td>Reference</td><td>Book 25 Hadith 76</td></tr></tbody></table></div>
 

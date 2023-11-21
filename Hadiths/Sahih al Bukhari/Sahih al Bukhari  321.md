@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'adha:A woman asked 'Aisha, "Should I offer the prayers that which I 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammam] berkata, telah menceritakan kepada kami [Qatadah] berkata, telah menceritakan kepadaku [Mu'adzah], bahwa ada seorang wanita bertanya kepada ['Aisyah], "Apakah seorang dari kita harus melaksanakan shalat yang ditinggalkannya bila sudah suci?" 'Aisyah menjawab, "Apakah kamu dari kelompok Khawarij! Sungguh kami pernah mengalami haid di sisi Nabi shallallahu 'alaihi wasallam, dan beliau tidak memerintahkan kami untuk itu." Atau Aisyah mengatakan, "Kami tidak melakukannya (mengqadla)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 6 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Му‘азы о том, что одна женщина спросила ‘Аишу, да будет доволен ею Аллах: «Следует ли кому-нибудь из нас после очищения совершать молитвы, пропущенные ею (во время месячных)?» (‘Аиша) сказала: «Ты что, из Харуры? При жизни Пророка ﷺ у нас тоже были месячные, однако он не повелевал нам делать этого!» Или она сказала: «Однако мы не делали этого!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 6 Hadith 26</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:While the Prophet (ﷺ) was praying, he saw sputum 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] dari [Abdullah] radliallahu 'anhu dia berkata; "Ketika Nabi shallallahu 'alaihi wasallam shalat, beliau melihat ludah di arah Qiblat Masjid, kemudian beliau mengeruknya dan menutupinya, lalu beliau bersabda: "Apabila salah seorang dari kalian sedang shalat, maka sesungguhnya Allah berada di hadapannya, karena itu janganlah ia meludah ke hadapannya ketika mengerjakan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6111</td></tr><tr><td>Arabic No</td><td>6111</td></tr><tr><td>Reference</td><td>Book 78 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «Однажды, совершая молитву, Пророк ﷺ увидел на стене мечети, направленной в сторону киблы плевок. Он разгневался, а затем, соскоблил его собственной рукой, а потом сказал: “Поистине, когда кто-нибудь совершает молитву, то поистине, Аллах находится перед ним, так пусть никто не плюет перед собой во время совершения молитвы”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6111</td></tr><tr><td>Arabic No</td><td>6111</td></tr><tr><td>Reference</td><td>Book 78 Hadith 138</td></tr></tbody></table></div>
 

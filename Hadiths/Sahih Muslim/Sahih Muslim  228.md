@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Jarir that he heard (the Holy Prophet) saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Hujr as-Sa'di] telah menceritakan kepada kami [Ismail] -yaitu Ibnu Ulayyah- dari [Manshur bin Abdurrahman] dari [asy-Sya'bi] dari [Jarir] bahwa dia mendengarnya berkata, "Budak mana saja yang melarikan diri dari tuannya, maka dia telah kafir hingga dia kembali kepada mereka." Manshur berkata, 'Demi Allah, ia diriwayatkan dari Nabi shallallahu 'alaihi wasallam, hanya saja saya benci untuk diriwayatkan suatu hadits dariku di sini, di Bashrah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>228</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 1 Hadith 134</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается Аш-Ша‘би передал, что он слышал, как Джарир сказал: «Любой раб, который сбежит от своих хозяев, впадёт в неверие, (и будет оставаться неверным) пока не вернётся к ним».Мансур (один из передатчиков) сказал: «Клянусь Аллахом, он передавал слова Пророка ﷺ, но я не хочу, чтобы это передавали с моих слов здесь, в Басре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>228</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 1 Hadith 134</td></tr></tbody></table></div>
 

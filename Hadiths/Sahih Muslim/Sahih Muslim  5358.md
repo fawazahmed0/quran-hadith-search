@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Aflah, the freed slave of Abu Ayyub Ansiri, reported:Allah's Messnger (ﷺ) had 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Hajjaj bin As Syaa'ir] dan [Ahmad bin Sa'id bin Shakhr] lafazh dari keduanya hampir mirip. Keduanya berkata; Telah menceritakan kepada kami [Abu An Nu'man], Telah menceritakan kepada kami [Tsabit] dalam riwayat Hajjaj bin Yazid Abu Zaid Al Ahwal, Telah menceritakan kepada kami ['Ashim bin Abdullah bin Al Harits] dari [Aflah] -budak- Abu Ayyub dari [Abu Ayyub] bahwa Nabi Shallallah 'Alaihi Wa Sallam singgah di rumahnya. Lalu Beliau bermalam dan tinggal di bagian bawah sementara Abu Ayyub Al Anshari berada diatas. Pada suatu malam Abu Ayyub Al Anshari terbangun, ia (Abu Ayyub Al Anshari) berkata; Kami berjalan diatas kepala Rasulullah Shallallahu 'alaihi wa Salam? Lalu dia pindah dan tidur bersama keluarganya disebelahnya. Abu Ayyub Al Anshari menyebutkan hal itu kepada Nabi Shallallahu 'alaihi wa Salam lalu Nabi shallallahu 'alaihi wasallam bersabda: "Di bawah lebih bermanfaat bagiku." Abu Ayyub Al Anshari berkata: Aku tidak akan tinggal di atas loteng sementara anda berada dibawahnya." Lalu Abu Ayyub Al Anshari pindah ke bawah sementara Nabi shallallahu 'alaihi wasallam pindah ke atas. Abu Ayyub Al Anshari juga membuatkan makanan untuk Nabi Shallallahu 'alaihi wa Salam. Bila tempat makanan di kembalikan Abu Ayyub Al Anshari bertanya dimanakah tempat jari-jari Nabi shallallahu 'alaihi wasallam, lalu ia makan pada bekas jari-jari Nabi Shallallahu 'alaihi wa Salam. Pernah juga dia membuatkan makanan yang di dalamnya ada bawang putihnya. Tatkala bekas piring beliau di kembalikan, dia bertanya bekas jari-jari Nabi shallallahu 'alaihi wasallam, dikatakan padanya; 'Rasulullah Shallallahu 'alaihi wa Salam tidak makan.' Abu Ayyub Al Anshari kaget dan segera naik ke atas, dia bertanya: 'Apakah makanan itu haram? Nabi shallallahu 'alaihi wasallam bersabda: 'Tidak, aku cuman tidak menyukainya.' Abu Ayyub Al Anshari berkata; 'Sesungguhnya aku juga membenci yang anda benci. (Dan Nabi Shallallahu 'alaihi wa Salam pada waktu itu sering di datangi malaikat dan wahyu)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5358</td></tr><tr><td>Arabic No</td><td>2053.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 232</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5358</td></tr><tr><td>Arabic No</td><td>2053.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 232</td></tr></tbody></table></div>
 

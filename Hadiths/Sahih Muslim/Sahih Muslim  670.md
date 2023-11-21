@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qutaiba b. Sa'id, Ishaq b. Ibrahim, Ibn Abi 'Aruba, Abu Ma'shar, Abu Bakr b. Abu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Umar bin Hafs bin Ghiyats] telah menceritakan kepada kami [bapakku] dari [al-A'masy] dari [Ibrahim] dari [al-Aswad], dan [Hammam] dari [Aisyah] tentang air mani, dia berkata, "Saya pernah mengerik mani dari baju Rasulullah shallallahu 'alaihi wasallam." Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Hammad] -yaitu Ibnu Zaid- dari [Hisyam bin Hassan]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami ['Abdah bin Sulaiman] telah menceritakan kepada kami [Ibnu Abu 'Arubah] semuanya (meriwayatkan) dari [Abu Ma'syar]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husyaim] dari [Mughirah]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Mahdi bin Maimun] dari [Wasil bin al-Ahdab]. (dalam riwayat lain disebutkan) telah menceritakan kepadaku [Ibnu Hatim] telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami [Israil] dari [Manshur] dan [Mughirah] mereka semuanya meriwayatkan dari [Ibrahim] dari [al-Aswad] dari [Aisyah] dalam hal memenggosok mani dari baju Rasulullah shallallahu 'alaihi wasallam, ' semisal hadits Khalid dari Abu Ma'syar." Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Ibnu Uyainah] dari [Manshur] dari [Ibrahim] dari [Hammam] dari [Aisyah] semisal hadits mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>670</td></tr><tr><td>Arabic No</td><td>288.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 136</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов аль-Асвада, что ‘Аиша рассказывала о том, что она соскабливала (засохшее) семя с одежды Посланника Аллаха ﷺ, подобно предыдущему хадису
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>670</td></tr><tr><td>Arabic No</td><td>288.03</td></tr><tr><td>Reference</td><td>Book 2 Hadith 136</td></tr></tbody></table></div>
 

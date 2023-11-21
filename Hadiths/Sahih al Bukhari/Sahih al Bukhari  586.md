@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:I heard Allah's Messenger (ﷺ) saying, "There is n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdul 'Aziz bin 'Abdullah] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] dari [Shalih] dari [Ibnu Syihab] berkata, telah mengabarkan kepadaku ['Atha bin Yazid Al Junda'i] bahwa dia mendengar [Abu Sa'id Al Khudri] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada shalat setelah Shubuh hingga matahari meninggi dan tidak ada shalat setelah 'Ashar hingga matahari menghilang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>586</td></tr><tr><td>Arabic No</td><td>586</td></tr><tr><td>Reference</td><td>Book 9 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Шихаб сказал:\n— Рассказал мне ‘Атаъ ибн Язид о том, что он слышал, как Абу Са‘ид аль-Худри, да будет доволен им Аллах, говорил, что он слышал, как Посланник Аллаха ﷺ сказал: «Не (следует совершать никаких) молитв после утренней (обязательной) молитвы до тех пор, пока не взойдёт солнце, и после (обязательной) послеполуденной молитвы до тех пор, пока не закатится солнце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>586</td></tr><tr><td>Arabic No</td><td>586</td></tr><tr><td>Reference</td><td>Book 9 Hadith 61</td></tr></tbody></table></div>
 

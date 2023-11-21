@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Muhammad b. Abu Rafi' narrated the hadith on the authority of Abu Dharr with a s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>251</td></tr><tr><td>Arabic No</td><td>84.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу Зарр передал от Пророка ﷺ хадис, подобный предыдущему, однако, в этой версии он сказал: «Тогда помоги человеку, занятому каким-либо делом, или сделай что-нибудь вместо неумелого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>251</td></tr><tr><td>Arabic No</td><td>84.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 157</td></tr></tbody></table></div>
 

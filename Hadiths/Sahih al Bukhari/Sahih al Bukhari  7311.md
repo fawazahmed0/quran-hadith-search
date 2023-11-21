@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira bin Shu'ba:The Prophet (ﷺ) said, "A group of my follower s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Ismail] dari [Qais] dari [Mughirah bin Syu'bah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Akan senantiasa ada sekelompok dari umatku yang tegar di jalan kebenaran hingga keputusan Allah datang kepada mereka, dan mereka selalu tegar dalam jalan kebenaran
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7311</td></tr><tr><td>Arabic No</td><td>7311</td></tr><tr><td>Reference</td><td>Book 96 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся со слов аль-Мугъиры ибн Шу‘ба, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не перестанет группа людей из моей общины открыто придерживаться истины, пока не придёт повеление Аллаха, и они будут явно (на этом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7311</td></tr><tr><td>Arabic No</td><td>7311</td></tr><tr><td>Reference</td><td>Book 96 Hadith 42</td></tr></tbody></table></div>
 

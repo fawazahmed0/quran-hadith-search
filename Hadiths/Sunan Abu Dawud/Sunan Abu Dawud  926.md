@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ jabir said:The prophet of Allah(ﷺ) sent me to Banu al-Mustaliq. When I returne
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir] dia berkata; Nabi Allah shallallahu 'alaihi wasallam pernah mengutusku menuju (perkampungan) Bani Mushthaliq, lalu aku menemui beliau, sedangkan beliau tengah mengerjakan shalat di atas kendaraannya, aku pun berbicara kepadanya, maka beliau memberi isyarat dengan tangannya seperti ini, aku berbicara lagi, namun beliau hanya memberi isyarat dengan tangannya seperti ini, sedangkan aku mendengar bacaan shalat beliau, dan beliau menganggukkan kepalanya. Seusai shalat, beliau bersabda: "Bagaimana dengan tugas yang telah aku tugaskan kepadamu? Sebenarnya tidak ada halangan buatku untuk membalas perkataanmu itu, hanya saja waktu itu aku sedang mengerjakan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (540)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>926</td></tr><tr><td>Arabic No</td><td>926</td></tr><tr><td>Reference</td><td>Book 2 Hadith 537</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом: «Однажды пророк Аллаха ﷺ послал меня к бану аль-Мусталяк. Когда я вернулся к нему, он молился, сидя верхом на своём верблюде, я заговорил с ним, и он сделал жест рукой, потом я снова заговорил с ним, и он ответил мне жестом, и при этом я слышал, как он читал аяты и видел, как он кивает головой. Завершив молитву, (Посланник Аллаха ﷺ) сказал: “Сделал ли ты то, для чего я послал тебя? Мне помешало поговорить с тобой только то, что я совершал молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (540)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>926</td></tr><tr><td>Arabic No</td><td>926</td></tr><tr><td>Reference</td><td>Book 2 Hadith 537</td></tr></tbody></table></div>
 

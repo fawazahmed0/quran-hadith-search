@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Umar reported:While we were sitting with the Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna Al 'Anazi] telah menceritakan kepada kami [Muhammad bin Jahdlam] Telah menceritakan kepada kami [Isma'i bin Ja'far] dari [Umarah, anak Ghaziyyah] dari [Sa'id bin Al Harits Al Mu'alla] dari [Abdullah bin Umar] bahwa ia berkata; Ketika kami sedang duduk-duduk bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba datang seorang sahabat Anshor menghampiri dan memberi salam kepada beliau. Kemudian ketika sahabat Anshar itu hendak pergi, Rasulullah shallallahu 'alaihi wasallam bertanya kepadanya: "Wahai saudaraku dari kaum anshor, bagaimana keadaan saudaraku Sa'ad bin Ubadah?" "Ia baik-baik saja." jawabnya. Lalu Rasulullah shallallahu 'alaihi wasallam menawarkan: "Siapakah di antara kalian yang mau menjenguknya?" Kemudian beliau berdiri dan kamipun juga berdiri bersama beliau, dan ketika itu kami berjumlah belasan orang, kami tidak memakai sandal, sepatu, peci dan juga gamis. Kami berjalan di atas tanah yang gembur hingga kami sampai pada tempatnya, kemudian ia meminta orang yang sedang mengelilinginya untuk mundur agar Rasulullah shallallahu 'alaihi wasallam beserta para sahabat yang bersama beliau saat itu bisa mendekat padanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2138</td></tr><tr><td>Arabic No</td><td>925</td></tr><tr><td>Reference</td><td>Book 11 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар сказал: «(Однажды, когда) мы сидели в обществе Посланника Аллаха ﷺ, к нему подошёл кто-то из ансаров, поприветствовал его и отошёл назад. Посланник Аллаха ﷺ спросил (его): “О брат ансаров, как чувствует себя брат мой Са‘д ибн ‘Убада?” (Этот человек) ответил: “Хорошо”. Тогда Посланник Аллаха ﷺ спросил: “Кто из вас навестит его?”, и мы поднялись со своих мест вместе с ним. Нас было больше десяти человек, и ни на ком не было ни сандалий, ни кожаных носков, ни головных уборов, ни рубах. Мы шли по солончакам (в чём были), пока не пришли к нему, (и тогда) люди, окружавшие (больного), отошли назад, а Посланник Аллаха ﷺ подошёл к нему вместе с теми, кто его сопровождал»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2138</td></tr><tr><td>Arabic No</td><td>925</td></tr><tr><td>Reference</td><td>Book 11 Hadith 16</td></tr></tbody></table></div>
 

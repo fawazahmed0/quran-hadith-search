@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that Allah's Apostle (ﷺ) used to come to our house and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Hasyim] yaitu Ibnu Al Qasim dari [Sulaiman] dari [Tsabit] dari [Anas bin Malik] dia berkata; Nabi shallallahu 'alaihi wasallam pernah berkunjung ke rumah kami. kemudian beliau tidur sebentar (Qailulah) di rumah kami hingga berkeringat. Lalu Ibu saya mengambil sebuah botol dan berupaya memasukkan keringat Rasulullah shallallahu 'alaihi wasallam itu ke dalam botol tersebut. Tiba-tiba Rasulullah terjaga sambil berkata kepada ibu saya; 'Hai Ummu Sulaim, apa yang kamu lakukan terhadap diriku? Ibu saya menjawab; 'Kami hanya mengambil keringat engkau untuk kami jadikan wewangian kami.' keringat beliau merupakan salah satu wewangian yang paling harum wanginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6055</td></tr><tr><td>Arabic No</td><td>2331.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас (да будет доволен им Аллах) сказал: «(Однажды), зайдя к нам днём, Пророк ﷺ лёг поспать и вспотел. (Тогда к нему) подошла моя мать с бутылочкой и стала собирать в неё (его) пот. Проснувшись, Пророк ﷺ спросил: “О Умм Сулейм, что это ты делаешь?” и она сказала: “Мы добавляем твой пот в наши благовония, (ибо) он является самым бла­гоуханным благовонием”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6055</td></tr><tr><td>Arabic No</td><td>2331.01</td></tr><tr><td>Reference</td><td>Book 43 Hadith 113</td></tr></tbody></table></div>
 

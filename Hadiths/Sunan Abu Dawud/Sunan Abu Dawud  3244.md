@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Ash'ath ibn Qays: A man of Kindah and a man of Hadramawt brought the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mahmud bin Khalid], telah menceritakan kepada kami [Al Firyabi], telah menceritakan kepada kami [Al Harits bin Sulaiman], telah menceritakan kepadaku [Kurdus] dari [Al Asy'ats bin Qais], bahwa seorang laki-laki dari Kindah dan seorang laki-laki dari Hadhramaut memperkarakan kepada Nabi shallallahu 'alaihi wasallam di negeri Yaman. Kemudian orang Hadhrami tersebut berkata; wahai Rasulullah, sesungguhnya tanahku di ambil bapak orang ini, dan tanah itu ada di tangannya. Beliau berkata: "Apakah engkau memiliki bukti?" ia berkata; tidak akan tetapi aku minta ia untuk bersumpah, dan Allah mengetahui bahwa tanah tersebut adalah tanahku yang diambil bapaknya. Kemudian orang Kindah tersebut bersiap-siap untuk bersumpah. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah seseorang mengambil harta dengan sumpah melainkan ia akan berjumpa dengan Allah dalam keadaan terpotong tangannya." Kemudian orang Kindi tersebut berkata; tanah tersebut adalah tanahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3244</td></tr><tr><td>Arabic No</td><td>3244</td></tr><tr><td>Reference</td><td>Book 22 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-Аш‘аса ибн Кайса, да будет доволен им Аллах, что один человек из племени Кинда вёл тяжбу с человеком из Хадрамаута из-за участка земли в Йемене, и они обратились на суд к Пророку ﷺ. Житель Хадрамаута сказал: «О Посланник Аллаха, отец этого человека отобрал у меня мою землю, и теперь она в его руках!» (Посланник Аллаха ﷺ) спросил: «Есть ли у тебя доказательство?» Тот ответил: «Нет, однако я хочу, чтобы он поклялся Аллахом, что ему не известно о том, что его отец отобрал у меня эту землю». И человек из племени Кинда приготовился поклясться. А Посланник Аллаха ﷺ сказал: «Любой человек, присвоивший чужое имущество с помощью клятвы, явится пред Аллахом с неполной частью тела». Тогда человек из племени Кинда сказал: «Это его земля»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3244</td></tr><tr><td>Arabic No</td><td>3244</td></tr><tr><td>Reference</td><td>Book 22 Hadith 3</td></tr></tbody></table></div>
 

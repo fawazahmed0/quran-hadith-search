@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Tha'laba Al-Khushani:The Prophet (ﷺ) forbade the eating of wild a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Abu Idris Al Khaulani] dari [Abu Tsa'labah Al Khusyani] radliallahu 'anhu dia berkata; Nabi Shallallahu 'alai wasallam melarang makan setiap binatang buas yang bertaring." Az Zuhri mengatakan; "Aku belum mendengar hadits tersebut hingga aku tiba di Syam, [Al Laits] menambahkan, katanya; telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] perawi berkata; lalu aku bertanya kepada Ibnu Syihab; "Apakah kita harus berwudlu' atau bolehkah kita meminum susu keledai betina atau memakan empedu binatang buas atau meminum kencing unta?" dia menjawab; "Orang-orang muslim banyak yang menjadikannya obat, dan mereka menganggap hal itu tidak mengapa, adapun susu keledai, maka telah sampai kepada kami bahwa Rasulullah shallallahu 'alaihi wasallam melarang memakan dagingnya sementara belum sampai kepada kami tentang larangan dan perintah meminum susunya, sedangkan empedu binatang buas. Ibnu Syihab mengatakan; telah mengabarkan kepadaku [Abu Idris Al Khaulani] bahwa [Abu Tsa'labah Al Khusani] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam melarang makan setiap binatang buas yang bertaring
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5781</td></tr><tr><td>Arabic No</td><td>5781</td></tr><tr><td>Reference</td><td>Book 76 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-Лейс сказал, что Юнус рассказал (следующее): «Я спросил Ибн Шихаба: “Можем ли мы совершать омовение молоком ослиц или пить его, или пить желчь диких животных или мочу верблюдов?” Он ответил: “Мусульмане лечились (верблюжьей мочой) и не видели в этом проблем. Что касается молока ослиц, то нас дошло, что Посланник Аллаха ﷺ запрещал есть их мясо, но об их молоке до нас не дошло ни приказа, ни запрета”. Что касается желчи диких животных, то Ибн Шихаб сказал: “Абу Идрис аль-Хауляний сказал мне, что Абу Са‘ляба аль-Хушаний сообщил ему, что Посланник Аллаха ﷺ запретил употреблять в пищу мясо любых хищников, имеющих клыки”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5781</td></tr><tr><td>Arabic No</td><td>5781</td></tr><tr><td>Reference</td><td>Book 76 Hadith 92</td></tr></tbody></table></div>
 

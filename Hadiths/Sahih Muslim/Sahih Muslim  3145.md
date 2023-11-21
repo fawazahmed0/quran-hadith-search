@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Umar (Allah be pleased with him) reported Allah's Messenger (ﷺ) as
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam berdo'a: "ALLAHUMMARHAM LILMUHALLIQIIN (Ya Allah, ampunilah mereka yang mencukur rambutnya)." Lalu mereka berkata, "Dan bagi orang-orang yang menggunting rambutnya ya Rasulullah." Beliau berdo'a lagi: "ALLAHUMMARHAM LILMUHALLIQIIN (Ya Allah, ampunilah mereka yang mencukur rambutnya)." Mereka berkata lagi, "Dan juga bagi mereka yang menggunting rambutnya ya Rasulullah." Kemudian beliau berdo'a: "WAL MUQASHSHIRIIN (Dan juga bagi mereka yang sekedar menggunting rambutnya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3145</td></tr><tr><td>Arabic No</td><td>1301.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 349</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3145</td></tr><tr><td>Arabic No</td><td>1301.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 349</td></tr></tbody></table></div>
 

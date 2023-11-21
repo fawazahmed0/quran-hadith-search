@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrarted on the authority of Abu Huraira that the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nab] dan [Qutaibah bin Sa'id] keduanya berkata; telah menceritakan kepada kami? [Al Mughirah] -yaitu Al Hizami-. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Zuhair bin Harb] dan ['Amru An Naqid] keduanya berkata; telah menceritakan kepada kami [Sufyan bin 'Uyainah] keduanya dari [Abu Az Zinnad] dari [Al A'raj] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda, dan dalam hadits Zuhair dan sampai kepada Nabi shallallahu 'alaihi wasallam. Dan 'Amru juag menyebutkan secara riwayat, "Manusia itu mengikuti Quraisy dalam permasalahan ini (kepemimpinan), Muslim mereka mengikuti Muslim (Quraisy), dan kafir mereka mengikuti kafir mereka (Quraisy)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4701</td></tr><tr><td>Arabic No</td><td>1818.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4701</td></tr><tr><td>Arabic No</td><td>1818.01</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
 

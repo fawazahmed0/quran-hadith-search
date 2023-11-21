@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Once Iqama was pronounced a man came to the Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ayyasy bin Al Walid] berkata, telah menceritakan kepada kami ['Abdul A'la] berkata, telah menceritakan kepada kami [Humaid] berkata, "Aku bertanya kepada [Tsabit Al Bunani] tentang seorang laki-laki yang berbincang-bincang setelah iqamat dikumandangan. Maka ia pun menceritakan kepadaku dari [Anas bin Malik] ia berkata, "Ketika iqamah telah dikumandangkan Nabi shallallahu 'alaihi wasallam dihampiri oleh seorang laki-laki hingga menghalanginya dari menunaikan shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>643</td></tr><tr><td>Arabic No</td><td>643</td></tr><tr><td>Reference</td><td>Book 10 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хумайд сказал: «(Однажды) я спросил Сабита аль-Бунани о человеке, который разговаривает после возглашения икамы к молитве, и он рассказал мне о том, что Анас ибн Малик сказал: “(Однажды), когда возвестили икаму к молитве, к Пророку ﷺ подошёл какой-то мужчина и задержал его после этого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>643</td></tr><tr><td>Arabic No</td><td>643</td></tr><tr><td>Reference</td><td>Book 10 Hadith 40</td></tr></tbody></table></div>
 

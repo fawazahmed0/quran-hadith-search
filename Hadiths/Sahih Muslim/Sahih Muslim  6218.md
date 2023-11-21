@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Sa'd Ibn 'Abî Waqqâs (que Dieu l'agrée), le Prophète a dit à 'Alî
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Ghundar] dari [Syu'bah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Mush'ab bin Sa'ad bin Abi Waqqash] dari [Sa'ad bin Abi Waqqash] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah menugasi Ali bin Abu Thalib ketika terjadi perang Tabuk." Ali berkata, "Ya Rasulullah, mengapa engkau hanya menugasi saya untuk menjaga kaum wanita dan anak-anak di rumah?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Tidak inginkah kamu hai Ali memperoleh posisi di sisiku seperti posisi Harun di sisi Musa, hanya sesudahku tidak akan ada nabi lagi?" Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz]; Telah menceritakan kepada kami [Bapakku]; Telah menceritakan kepada kami [Syu'bah] melalui jalur ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6218</td></tr><tr><td>Arabic No</td><td>2404.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6218</td></tr><tr><td>Arabic No</td><td>2404.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 48</td></tr></tbody></table></div>
 

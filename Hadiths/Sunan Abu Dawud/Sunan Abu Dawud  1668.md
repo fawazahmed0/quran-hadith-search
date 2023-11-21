@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Asma‘ said My mother came to me seeking some act of kindness from me during th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Abu Syu'aib Al Harrani], telah menceritakan kepada Kami [Isa bin Yunus], telah menceritakan kepada Kami [Hisyam bin 'Urwah] dari [ayahnya] dari [Asma'], ia berkata; ibuku datang menemuiku dalam keadaan mengharapkan baktiku, sementara ia membenci keislamanku dan ia adalah wanita musyrik. Lalu aku katakan; wahai Rasulullah, sesungguhnya ibuku datang menemuiku dalam keadaan mengharapkan baktiku, sementara ia membenci keislamanku dan ia adalah wanita musyrik. Apakah aku boleh berhubungan dengannya? Beliau berkata: "Ya, hubungilah ibumu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2620) Sahih Muslim (1003)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1668</td></tr><tr><td>Arabic No</td><td>1668</td></tr><tr><td>Reference</td><td>Book 9 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Асма [бинт Абу Бакр], да будет доволен Аллах ею и её отцом, сказала: «После заключения мирного договора мусульман с курайшитами ко мне приехала моя мать, которая чего-то желала и при этом была неверующей и питала отвращение к исламу. Я сказала: “О Посланник Аллаха! Ко мне приехала моя мать, питающая отвращение к исламу. Следует ли мне поддерживать с ней отношения?” Он ответил: “Да, поддерживай отношения со своей матерью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2620) Sahih Muslim (1003)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1668</td></tr><tr><td>Arabic No</td><td>1668</td></tr><tr><td>Reference</td><td>Book 9 Hadith 113</td></tr></tbody></table></div>
 

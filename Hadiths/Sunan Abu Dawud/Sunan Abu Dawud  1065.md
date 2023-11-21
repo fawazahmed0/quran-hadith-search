@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Jabir said:We were in the company of the Messenger of Allah (ﷺ) during a journ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Al Fadl bin Dukain] telah menceritakan kepada kami [Zuhair] dari [Abu Az Zubair] dari [Jabir] dia berkata; "Kami bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, lalu kami kehujanan, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Hendaknya seseorang shalat di persinggahannya bagi yang berkehendak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1065</td></tr><tr><td>Arabic No</td><td>1065</td></tr><tr><td>Reference</td><td>Book 2 Hadith 676</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Джабира, да будет доволен Аллах им и его отцом: «Мы были в пути с посланником Аллаха ﷺ прошёл дождь, и Посланник Аллаха ﷺ сказал: “Кто из вас хочет, может совершать молитву на своём месте”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1065</td></tr><tr><td>Arabic No</td><td>1065</td></tr><tr><td>Reference</td><td>Book 2 Hadith 676</td></tr></tbody></table></div>
 

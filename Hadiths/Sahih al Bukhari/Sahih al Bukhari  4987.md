@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Hudhaifa bin Al-Yaman came to 'Uthman at the time when t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] Telah menceritakan kepada kami [Ibrahim] Telah menceritakan kepada kami [Ibnu Syihab] bahwasanya [Anas bin Malik] telah menceritakan kepadanya, bahwasanya; Hudzaifah bin Al Yamani datang kepada Utsman setelah sebelumnya memerangi Ahlus Syam yakni pada saat penaklukan Armenia dan Azerbaijan bersama penduduk Irak. Dan ternyata perselisihan mereka dalam Qira'ah mengejutkan Hudzaifah. Maka Hudzaifah pun berkata kepada Utsman, "Rangkullah ummat ini sebelum mereka berselisih tentang Al Qur'an sebagaimana perselisihan yang telah terjadi pada kaum Yahudi dan Nasrani." Akhirnya, Utsman mengirim surat kepada Hafshah yang berisikan, "Tolong, kirimkanlah lembaran alquran kepada kami, agar kami dapat segera menyalinnya ke dalam lembaran yang lain, lalu kami akan segera mengembalikannya pada Anda." Maka Hafshah pun mengirimkannya kepada Utsman. Lalu Utsman memerintahkan kepada Zaid bin Tsabit, Abdullah bin Zubair, Sa'id bin Al Ash dan Abdurrahman bin Al Harits bin Hisyam, sehingga mereka pun menyalinnya ke dalam lembaran shuhuf yang lain. Utsman berkata kepada tiga orang Quraisy dari mereka, "Jika kalian berselisih dengan Zaid bin Tsabit terkait dengan Al Qur'an, maka tulislah dengan bahasa Quraisy, sebab Al Qur'an turun dengan bahasa mereka." Kemudian mereka mengindahkan perintah itu hingga penyalinan selesai dan Utsman pun mengembalikannya ke Hafshah. Setelah itu, Utsman mengirimkan sejumlah Shuhuf yang telah disalin ke berbagai penjuru negeri kaum muslimin, dan memerintahkan untuk membakar Al Qur'an yang terdapat pada selain Shuhuf tersebut. Ibnu Syihab berkata; [Kharijah bin Zaid] telah mengabarkan kepadaku bahwa ia mendengar [Zaid bin Tsabit] berkata, "Kami kehilangan satu ayat dari surat Al Ahzab saat kami menyalinnya, yang sungguh aku telah mendengarnya langsung dari Rasulullah shallallahu 'alaihi wasallam saat beliau membacanya. Lalu kami pun mencarinya, dan ternyata kami menemukannya pada Khuzaimah bin Tsabit Al Anshari. Yakni ayat, "MINAL MUKMINIINA RIJAALUN SHADAQUU MAA 'AAHADUU ALLAAHA 'ALAIHI." Maka kami pun menggabungkannya di dalam mushhaf
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4987</td></tr><tr><td>Arabic No</td><td>4987</td></tr><tr><td>Reference</td><td>Book 66 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик рассказал: «Хузейфа ибн аль-Яман прибыл к ‘Усману. В то время Хузейфа сражался на стороне жителей Шама вместе с воинами Ирака при завоевании Армении и Азербайджана и был напуган разногласиями между ними по поводу различных чтений Корана. Хузейфа сказал ‘Усману: “О Повелитель правоверных! Спаси эту общину, пока она не впала в разногласия относительно Книги Аллаха подобно тому, как разногласили иудеи и христиане!” Тогда ‘Усман отправил посланца к Хафсе, чтобы он сказал ей: “Отправь к нам свитки, (в которых записаны суры) Корана, мы перепишем их, а затем вернём тебе”. Она отправила их ‘Усману. Затем ‘Усман повелел Зейду ибн Сабиту, ‘Абдуллаху ибн Зубейру, Са‘иду ибн аль-‘Асу и ’Абдуррахману ибн аль-Харису ибн Хишаму переписать свитки в книгу /мусхаф/ в нескольких экземплярах. ‘Усман сказал этим троим курайшитам: “Если между вами и Зейдом ибн Сабитом произойдут разногласия относительно (того, на каком диалекте) арабского языка записывать Коран, то записывайте его на языке (диалекте) курайшитов, ведь он был ниспослан на их языке”. Они так и сделали, а затем ‘Усман вернул свитки Хафсе. После этого ‘Усман отправил в каждый уголок государства по одному экземпляру мусхафа и приказал сжечь все другие книги или свитки, содержащие записи Корана»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4987</td></tr><tr><td>Arabic No</td><td>4987</td></tr><tr><td>Reference</td><td>Book 66 Hadith 9</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah said 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abbad] dan [Ibnu Abu Umar] keduanya berkata, telah menceritakan kepada kami [Marwan] dari [Yazid] -yaitu Ibnu Kaisan- dari [Abu Hazim] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepada pamannya ketika dia menjelang wafat: 'Katakanlah, 'Tidak ada tuhan (yang berhak disembah selian Allah' niscaya aku akan bersaksi untukmu dengan kalimat tersebut pada hari kiamat." Namun dia menolaknya, lalu Allah menurunkan: '(Sesungguhnya kamu tidak akan dapat memberi petunjuk kepada orang yang kamu kasihi) ' (Qs. Al Qashash:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>134</td></tr><tr><td>Arabic No</td><td>25.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал своему дяде перед его смертью: «Произнеси слова: “Нет божества, достойного поклонения, кроме Аллаха”, посредством которых я (смогу) свидетельствовать за тебя в День воскресения». Но он отказался, и Аллах ниспослал: “Поистине, ты не (сможешь) повести правильным путём тех, кого любишь”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>134</td></tr><tr><td>Arabic No</td><td>25.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 41</td></tr></tbody></table></div>
 

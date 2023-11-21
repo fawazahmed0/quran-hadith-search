@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abou Sa'îd Al-Khoudri (que Dieu l'agrée) a dit : Nous versions comme aumône l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata, saya telah membacakan kepada [Malik] dari [Zaid bin Aslam] dari [Iyadl bin Abdullah bin Sa'd bin Abu Sarh] bahwa ia mendengar [Abu Sa'id Al Khudri] berkata; "Kami membayar zakat fithri berupa satu sha' gandum atau kurma atau satu sha' keju atau anggur kering
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2283</td></tr><tr><td>Arabic No</td><td>985.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Са‘ид аль-Худри сказал: «Обычно мы раздавали (в качестве) закят разговения /закятуль-фитр/один са‘ пшеницы, или один са‘ ячменя, или один са‘ фиников, или один са‘ сушенного творога, или один са‘ изюма (сушеного винограда)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2283</td></tr><tr><td>Arabic No</td><td>985.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 21</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ubaid bin 'Umar:I heard 'Aisha saying, "The Prophet (ﷺ) used to stay
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Hasan bin Muhammad bin Shabbah] Telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] ia berkata; [Atha'] berdalih bahwa ia mendengar [Ubaid bin Umair] berkata; Aku mendengar [Aisyah] radliallahu 'anha berkata; Bahwa Nabi shallallahu 'alaihi wasallam pernah singgah di rumah Zainab binti Jahsy dan beliau juga minum madu di situ. Lalu aku dan Hafshah saling berpesan, bahwa siapa saja di antara kita yang ditemu oleh Nabi shallallahu 'alaihi wasallam hendaklah ia berkata, "Sesungguhnya aku mendapatkan bau Maghafir. Apakah Anda habis makan maghafir?" akhirnya beliau pun masuk menemui salah seorang dari keduanya dan ia mengungkapkan kalimat itu pada beliau. Akhirnya beliau bersabda: "Tidak, akan tetapi aku hanya minum madu di tempat Zainab binti Jahsyin dan aku tidak akan mengulanginya lagi." Maka turunlah ayat: "Wahai Nabi, kenapa kamu mengharamkan sesuatu yang telah dihalalkan oleh Allah…" hingga firman-Nya: "Jika kalian berdua bertaubat.." yakni kepada Aisyah dan Hafshah.".. adapun kutipan ayat "Dan ketika Nabi berkata rahasia kepada sebagian isterinya..." yakni terkait dengan sabda beliau: "Bahkan aku hanya minum madu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5267</td></tr><tr><td>Arabic No</td><td>5267</td></tr><tr><td>Reference</td><td>Book 68 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ часто задерживался у Зейнаб бинт Джахш, у которой он пил мёд. И (однажды) я сговорилась с Хафсой, что к кому бы из нас он ни пришёл, мы будем говорить ему: “Ты ел камедь, поистине, я ощущаю от тебя её запах!” Когда Пророк ﷺ пришёл к одной из нас, она сказал ему это, а он сказал: “Нет, но я пил мёд у Зейнаб бинт Джахш, и я никогда больше не стану (пить его)!”». Тогда было ниспослано: «О Пророк! Почему ты запрещаешь себе то, что позволил тебе Аллах…» до слов: «Если вы обе покаетесь перед Аллахом…» (сура «ат-Тахрим», аяты 1-4), а об ’Аише и Хафсе слова: «Вот Пророк открыл тайну одной из своих жён» (сура «ат-Тахрим», аят 3). Речь идёт о словах Пророка ﷺ: «...но я пил мёд…»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5267</td></tr><tr><td>Arabic No</td><td>5267</td></tr><tr><td>Reference</td><td>Book 68 Hadith 17</td></tr></tbody></table></div>
 

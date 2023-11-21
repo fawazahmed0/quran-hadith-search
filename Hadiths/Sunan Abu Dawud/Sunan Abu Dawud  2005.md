@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: I put on ihram for umrah at at-Tan'im and I ente
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Khalid], dari [Aflah] dari [Al Qasim] dari [Aisyah] radliallahu 'anha, ia berkata; aku melakukan umrah dari Tan'im, aku memasukinya dan melakukan umrahku dan Rasulullah shallallahu 'alaihi wasallam menantiku di Al Abthah hingga selesai melakukan umrah, dan beliau memerintahkan orang-orang agar pergi (keluar dari Mekkah). Aisyah berkata; Rasulullah shallallahu 'alaihi wasallam datang ke Ka'bah dan melaksanakan thawaf, kemudian keluar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (1560) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2005</td></tr><tr><td>Arabic No</td><td>2005</td></tr><tr><td>Reference</td><td>Book 11 Hadith 285</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Я вошла в состояние ихрама в Тан‘име для совершения ‘умры. И я совершила ‘умру. А Посланник Аллаха ﷺ ждал меня в Абтахе и велел людям отправляться в обратный путь». Она сказала: «Посланник Аллаха ﷺ пришёл к Каабе, совершил таваф и только потом двинулся в обратный путь»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (1560) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2005</td></tr><tr><td>Arabic No</td><td>2005</td></tr><tr><td>Reference</td><td>Book 11 Hadith 285</td></tr></tbody></table></div>
 

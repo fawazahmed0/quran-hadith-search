@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "While a man was going on a w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] dari [Malik] dari [Sumayya] mantan budak Abu Bakar bin 'Abdurrahman, dari [Abu Shalih As Saman] dari [Abu Hurairah], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketika seorang laki-laki berjalan pada suatu jalan dan menemukan dahan berduri lalu ia membuangnya maka Allah menyanjungnya dan mengampuni dosanya." Kemudian beliau bersabda: "Orang yangmati syahid itu ada lima; orang yang mati karena penyakit kusta, orang yang mati karena sakit perut, orang yang mati kerena tenggelam, orang yang mati karena tertimpa reruntuhan dan orang yang terbunuh di jalan Allah." Beliau melanjutkan sabdanya: "Seandainya manusia mengetahui apa (kebaikan) yang terdapat pada adzan dan shaf awal, lalu mereka tidak dapat meraihnya kecuali dengan cara mengundi tentulah mereka akan mengundi. Dan seandainya mereka mengetahui apa yang terdapat pada bersegera menuju shalat, tentulah mereka akan berlomba-lomba. Dan seandainya mereka mengetahui kebaikan yang terdapat pada shalat 'Atamah (shalat 'Isya') dan Shubuh, tentulah mereka akan mendatanginya walaupun harus dengan merangkak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>652</td></tr><tr><td>Arabic No</td><td>652</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «(Как-то раз один) человек, шедший по дороге, увидел ветку с колючками и убрал её с пути, и Аллах воздал ему благодарностью, простив ему (его прегрешения)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>652</td></tr><tr><td>Arabic No</td><td>652</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

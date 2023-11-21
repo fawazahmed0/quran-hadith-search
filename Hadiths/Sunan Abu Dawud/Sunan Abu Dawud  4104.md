@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Asma, daughter of AbuBakr, entered upon the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ya'qub bin Ka'b Al Anthaki] dan [Muammal Ibnul Fadhl Al Harrani] keduanya berkata; telah menceritakan kepada kami [Al Walid] dari [Sa'id bin Basyir] dari [Qatadah] dari [Khalid] berkata; Ya'qub bin Duraik berkata dari ['Aisyah radliallahu 'anha], bahwa Asma binti Abu Bakr masuk menemui Rasulullah shallallahu 'alaihi wasallam dengan mengenakan kain yang tipis, maka Rasulullah shallallahu 'alaihi wasallam pun berpaling darinya. Beliau bersabda: "Wahai Asma', sesungguhnya seorang wanita jika telah baligh tidak boleh terlihat darinya kecuali ini dan ini -beliau menunjuk wajah dan kedua telapak tangannya-." Abu Dawud berkata, "Ini hadits mursal. Khalid bin Duraik belum pernah bertemu dengan 'Aisyah radliallahu 'anha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4104</td></tr><tr><td>Arabic No</td><td>4104</td></tr><tr><td>Reference</td><td>Book 34 Hadith 85</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Асма бинт Абу Бакр зашла к Посланнику Аллаха ﷺ, а на ней была тонкая одежда, и Посланник Аллаха ﷺ отвернулся от неё и сказал: «О Асма! Когда девушка становится совершеннолетней, у неё не должно быть видно ничего, кроме этого и этого» и он указал на своё лицо и руки до запястий
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4104</td></tr><tr><td>Arabic No</td><td>4104</td></tr><tr><td>Reference</td><td>Book 34 Hadith 85</td></tr></tbody></table></div>
 

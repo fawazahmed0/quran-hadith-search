@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn Umar ibn Husayn ibn Ali: The Messenger of Allah (ﷺ) as saying
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Al Laits] dari [Khalid bin Yazid] dari [Sa'id bin Abu Hilal] dari [Sa'id bin Ziyad] dari [Jabir bin Abdullah]. (Dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibrahim bin Marwan Ad Dimasyqi] berkata, telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Al Laits bin Sa'd] berkata, telah menceritakan kepada kami [Yazid bin Abdullah bin Al Had] dari [Ali bin Umar bin Husain bin Ali] dan selainnya. Keduanya berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kurangilah oleh kalian keluar di malam hari, karena sesungguhnya Allah mempunyai binatang-binatang yang Ia terbar di muka bumi, Ibnu Marwan menyebutkan, 'Pada waktu itu." Beliau lalu bersabda: "Sesungguhnya Allah mempunyai makhluk, kemudian perawi menyebutkan, "lolongan anjang, keledai dan lainnya." Lalu ia menambahkan dalam hadits, " [Ibnul Had] berkata; telah menceritakan kepadaku [Syurahbil Al Hajib] dari [Jabir bin Abdullah] dari Rasulullah shallallahu 'alaihi wasallam seperti dalam hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5104</td></tr><tr><td>Arabic No</td><td>5104</td></tr><tr><td>Reference</td><td>Book 43 Hadith 332</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах (да будет доволен Аллах ими обоими) и ‘Али ибн ‘Умар ибн Хусайн ибн ‘Али (да помилует его Аллах) сказали: «Посланник Аллаха ﷺ сказал: “После того, как (пройдёт часть ночи и) люди перестанут ходить (по улицам, постарайтесь) по меньше выходить (из своих домов), ибо, поистине, у Всевышнего Аллаха есть существа, которых Он рассеивает по земле”».Ибн Марван (в своей версии) сказал: «… в это время». Также он (Ибн Марван) сказал: «… ибо, поистине, у Аллаха есть творения», после чего он упомянул о лае собаки и рёве осла, (и передавая) похожий (хадис) он в своём хадисе добавил: «Ибн аль-Хад сказал: “И рассказал мне Шурахбиль аль-Хаджиб от Джабира ибн ‘Абдуллах, (передавшего) от Посланника Аллаха ﷺ такой же (хадис)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5104</td></tr><tr><td>Arabic No</td><td>5104</td></tr><tr><td>Reference</td><td>Book 43 Hadith 332</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Abu Mulaika:'Uqba bin Al-Harith said that a black woman c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] telah mengabarkan kepada kami ['Abdullah bin 'Abdurrahman bin Abu Husain] telah menceritakan kepada kami ['Abdullah bin Abu Mulaikah] dari ['Uqbah bin Al Harits radliallahu 'anhu] bahwa ada seorang wanita kulit hitam datang dan mengaku bahwa dia pernah menyusui keduanya. Kejadian ini kemudian diceritakan kepada Nabi shallallahu 'alaihi wasallam. Maka Beliau berpaling dan tersenyum kepadanya seraya berkata: "Bagaimana lagi, sedangkan dia sudah mengatakannya". Saat itu yang menjadi mempelai puteri adalah anak perempuan Abu Ihab At-Taymiy
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2052</td></tr><tr><td>Arabic No</td><td>2052</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Укбы ибн аль-Хариса, да будет доволен им Аллах, что (после того, как он же женился,) пришла темнокожая женщина, которая сказала, что вскормила грудью его и его жену. Он рассказал об этом Пророку ﷺ, но он отвернулся от него, улыбнулся и сказал: «Как же (она может оставаться твоей женой), если было сказано (что она твоя молочная сестра)?!» Его женой была дочь Абу Ихаба аль-Тамими
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2052</td></tr><tr><td>Arabic No</td><td>2052</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
 

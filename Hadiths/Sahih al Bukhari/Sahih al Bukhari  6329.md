@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The people said, "O Allah's Messenger (ﷺ)! The rich peopl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] ' telah mengabarkan kepada kami [Yazid] telah mengabarkan kepada kami [Warqa'] dari [Sumayy] dari [Abu Shalih] dari [Abu Hurairah] "Orang-orang berkata; 'Wahai Rasulullah, orang-orang kaya pergi dengan membawa derajat dan kenikmatan yang banyak.' Beliau bertanya; 'Mengapa bisa seperti itu? ' Mereka menjawab; 'Mereka melakukan shalat sebagaimana kami shalat, mereka berjihad sebagaimana kami berjihad, dan mereka memiliki kelebihan harta untuk bersedekah sedangkan kami tidak mempunyai harta yang lebih untuk bersedekah.' Maka beliau bersabda: 'Maukah kalian aku tunjukkan pada suatu perkara, yang tidak akan menyamai orang sebelum kalian dan tidak pula akan di dahului oleh orang-orang setelah kalian kecuali dan tidak akan terjangkau kecuali oleh orang yang melakukan hal yang sama seperti yang kalian lakukan? ' Yaitu; kalian bertasbih seusai shalat sebanyak sepuluh kali, bertahmid sebanyak sepuluh kali bertakbir sebanyak sepuluh kali.' Hadits ini juga diperkuat oleh ['Ubaidullah bin Umar] dari [Sumayy]. Dan diriwayatkan pula oleh [Ibnu 'Ajlan] dari [Sumayy] dan [Raja' bin Haiwah]. Dan diriwayatkan pula oleh [Jarir] dari [Abdul Aziz bin Rufai'] dari [Abu Shalih] dari [Abu Darda']. Dan diriwayatkan pula oleh [Suhail] dari [Ayahnya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6329</td></tr><tr><td>Arabic No</td><td>6329</td></tr><tr><td>Reference</td><td>Book 80 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, рассказывал: «(Однажды бедные мухаджиры) сказали: “О посланник Аллаха, богатые достигнут самого высокого положения и обретут вечное блаженство” Пророк ﷺ спросил: “Как это?” Они сказали: “Они молятся подобно нам, и принимают участие в джихаде подобно нам, но помимо этого у них есть излишек имущества, с которого они расходуют, а у нас нет имущество”. Пророк ﷺ сказал: “Так не указать ли вам на то, благодаря чему сможете вы догнать тех, кто был до вас, и опередите тех, кто будет после вас, и никто не совершит подобное тому, чего совершите вы, кроме того, кто совершит тоже самое?! Говорите после каждой молитвы: “CубханалЛах” десять раз, “Альхамду лиль-Лях” десять раз, и “Аллаху Акбар” десять раз»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6329</td></tr><tr><td>Arabic No</td><td>6329</td></tr><tr><td>Reference</td><td>Book 80 Hadith 26</td></tr></tbody></table></div>
 

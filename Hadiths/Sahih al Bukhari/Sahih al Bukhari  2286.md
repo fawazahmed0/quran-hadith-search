@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:"Allah's Messenger (ﷺ) gave the land of Khaibar t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Juwairiyah bin Asma'] dari [Nafi'] dari ['Abdullah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam mengadakan kerjasama kepada orang Yahudi dari tanah khaibar agar dimanfaatkan dan dijadikan ladang pertanian dan mereka mendapat separuh hasilnya. Dan bahwa [Ibnu'Umar radliallahu 'anhuma] menceritakan kepadanya bahwa ladang pertanian tersebut disewakan untuk sesuatu yang lain, yang disebutkan oleh Nafi', tapi aku lupa. Dan bahwa [Rafi' bin Khadij] menceritakan bahwa Nabi shallallahu 'alaihi wasallam melarang menyewakan ladang pertanian (untuk usaha selaian bercocok tanam). Dan berkata, ['Ubaidullah] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma]; Hingga akhirnya 'Umar mengusir mereka (orang Yahudi)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2286</td></tr><tr><td>Arabic No</td><td>2286</td></tr><tr><td>Reference</td><td>Book 37 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рафи‘ ибн Хадидж сказал: «Пророк ﷺ запретил издольщину (форма аренды земли, когда арендатор рассчитывается с хозяином частью урожая)». Ибн ‘Умар сказал: «Договор (с иудеями Хайбара) продолжался до тех пор, пока ‘Умар не выселил их»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2286</td></tr><tr><td>Arabic No</td><td>2286</td></tr><tr><td>Reference</td><td>Book 37 Hadith 25</td></tr></tbody></table></div>
 

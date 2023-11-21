@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Seereen:We went to receive Anas bin Malik when he returned fro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id] berkata, telah menceritakan kepada kami [Habban] berkata, [Hammam] berkata, telah menceritakan kepada kami [Anas bin Sirin] berkata: "Kami menemui [Anas bin Malik radliallahu 'anhu] sekembalinya dia dari negeri Syam di daerah 'Ainu Tamar. Aku melihat dia sedang shalat di atas keledai dan menghadap ke samping yaitu sebelah kiri arah qiblat. Maka aku tanyakan kepadanya: "Aku melihat anda shalat tidak menghadap qiblat?" Maka dia menjawab: "Seandainya aku tidak melihat Rasulullah shallallahu 'alaihi wasallam mengerjakan seperti itu pasti aku pun tidak akan mengerjakannya". Dan diriwayatkan oleh [Ibrahim bin Thahman] dari [Hajjaj] dari [Anas bin Sirin] dari [Anas bin Malik radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1100</td></tr><tr><td>Arabic No</td><td>1100</td></tr><tr><td>Reference</td><td>Book 18 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса, да будет доволен им Аллах, что однажды он совершил намаз, сидя верхом на осле и повернувшись лицом налево от киблы, а потом его спросили: «(Почему же) ты совершаешь намаз, не обращаясь лицом к кибле?» Он сказал: «Я бы не сделал этого, если бы не видел, что так поступал Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1100</td></tr><tr><td>Arabic No</td><td>1100</td></tr><tr><td>Reference</td><td>Book 18 Hadith 20</td></tr></tbody></table></div>
 

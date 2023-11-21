@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Zuhri with the same chain of transmitte
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Muhammad bin Rumh] keduanya berkata, telah mengabarkan kepada kami [Laits] -dalam jalur lain- Dan telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dari [Ubaidullah bin Abdulalh bin Utbah] dari [Ibnu Abbas] radliallahu 'anhuma, bahwa ia telah mengabarkan kepadanya, bahwasanya; Rasulullah shallallahu 'alaihi wasallam keluar pada tahun pembebasan kota Makkah di bulan Ramadlan, dan beliau berpuasa hingga sampai di Kadid, baru kemudian beliau berbuka. Ibnu Abbas berkata; Dan para sahabat Rasulullah shallallahu 'alaihi wasallam mengikuti segala perbuatan beliau kala itu. Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Bakar bin Abu Syaibah] dan [Amru An Naqid] dan [Ishaq bin Ibrahim] dari [Sufyan] dari [Az Zuhri] dengan isnad ini semisalnya. [Yahya] berkata, [Sufyan] berkata; "Saya tidak tahu, siapakah laki-laki itu." ungkapan itu diambil dari bagian akhir sabda Rasulullah shallallahu 'alaihi wasallam. Telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dengan isnad ini. Az Zuhri berkata; berbuka adalah yang terakhir dari dua perkara. Dan ia diambil dari perkara Rasulullah shallallahu 'alaihi wasallam yaitu dari yang terakhir secara berurutan. Az Zuhri berkata, "Maka Rasulullah shallallahu 'alaihi wasallam bermukim di Makkah selama tiga belas hari, hingga bulan Ramadlan pun berlalu." Dan telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dengan isnad ini, sebagaimana hadits Laits. Ibnu Syihab berkata; "Para sahabat mengikuti segala perbuatan beliau. Dan menurut mereka bahwa hal itu merupakan an nasikh al muhkam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2606</td></tr><tr><td>Arabic No</td><td>1113.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2606</td></tr><tr><td>Arabic No</td><td>1113.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 112</td></tr></tbody></table></div>
 

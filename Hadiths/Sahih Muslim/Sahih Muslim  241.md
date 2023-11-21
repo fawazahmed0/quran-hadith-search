@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abdoullâh Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah meriwayatkan [Muhammad bin Rumh bin al-Muhajir al-Mishri] telah mengabarkan kepada kami [al-Laits] dari [Ibnu al-Had] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Wahai kaum wanita! Bersedekahlah kamu dan perbanyakkanlah istighfar. Karena, aku melihat kaum wanitalah yang paling banyak menjadi penghuni Neraka." Seorang wanita yang pintar di antara mereka bertanya, "Wahai Rasulullah, kenapa kaum wanita yang paling banyak menjadi penghuni Neraka?" Rasulullah shallallahu 'alaihi wasallam. bersabda: "Kalian banyak mengutuk dan mengingkari (pemberian nikmat dari) suami. Aku tidak melihat mereka yang kekurangan akal dan agama yang lebih menguasai pemilik akal, daripada golongan kamu." Wanita itu bertanya lagi, "Wahai Rasulullah! Apakah maksud kekurangan akal dan agama itu?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Maksud kekurangan akal ialah persaksian dua orang wanita sama dengan persaksian seorang lelaki. Inilah yang dikatakan kekurangan akal. Begitu juga kaum wanita tidak mengerjakan shalat pada malam-malam yang dilaluinya kemudian berbuka pada bulan Ramadlan (karena haid). Maka inilah yang dikatakan kekurangan agama." Dan telah menceritakan tentangnya kepada kami [Abu ath-Thahir] telah mengabarkan kepada kami [Ibnu Wahab] dari [Bakar bin Mudlar] dari [Ibnu al-Had] dengan sanad ini semisalnya." Dan telah menceritakan kepadaku [al-Hasan bin Ali al-Hulwani] dan [Abu Bakar bin Ishaq] keduanya berkata, telah menceritakan kepada kami [Ibnu Abu Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far] dia berkata, telah mengabarkan kepada kami [Zaid bin Aslam] dari [Iyadl bin Abdullah] dari [Abu Sa'id al-Khudri] dari Nabi shallallahu 'alaihi wasallam. (dalam riwayat lain disebutkan) Dan telah mengabarkan kepada kami [Yahya bin Ayyub] dan [Qutaibah] serta [Ibnu Hujr] mereka bertanya, telah menceritakan kepada kami [Ismail] -yaitu Ibnu Ja'far- dari [Amru bin Abu Amru] dari [al-Maqburi] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, seperti hadits yang semisal dengan hadits Ibnu Umar, dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>241</td></tr><tr><td>Arabic No</td><td>79.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, что (однажды) Посланник Аллаха ﷺ сказал: «О женщины, подавайте милостыню и как можно чаще просите (Аллаха) о прощении, ибо, поистине, я видел, что вы составляете большинство обитателей Огня!» Одна разумная и рассудительная женщина из их числа спросила: «О Посланник Аллаха, почему же в Огне мы окажемся в большинстве?» (Пророк ﷺ) сказал: «(Потому, что) вы часто проклинаете (людей) и проявляете неблагодарность по отношению к (своим мужьям), а из тех, кому недостаёт ума и кто (не может полностью выполнять свои) религиозные (обязанности), не видел я никого, кто в большей мере, чем вы, был бы способен заставить благоразумного (мужчину лишиться разума)». (Эта женщина) спросила: «О посланник Аллаха, что же (указывает на) недостаток ума и несовершенство (женщин в делах) религии?» (Пророк ﷺ) сказал: «Если говорить о недостатке ума, то свидетельство двух женщин приравнивается к свидетельству одного мужчины (что и указывает на) недостаток ума (женщины). И она не (может, по причине месячных) по несколько дней молиться и поститься во время рамадана (а это указывает на её) несовершенство (в делах) религии»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>241</td></tr><tr><td>Arabic No</td><td>79.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 147</td></tr></tbody></table></div>
 

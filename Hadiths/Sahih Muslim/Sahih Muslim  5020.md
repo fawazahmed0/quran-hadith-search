@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Récit de Anas (que Dieu l'agrée) : Quand le Prophète conquit Khaybar, nous ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Ayyub] dari [Muhammad] dari [Anas] dia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam menaklukkan Khaibar, kami menangkap keledai di luar kota lalu kami memasaknya. Tiba-tiba datang pesuruh Rasulullah shallallahu 'alaihi wasallam berseru, 'Perhatian! Sesungguhnya Allah dan Rasul-Nya melarang kalian semua memasak daging keledai, karena daging keledai itu najis, sesungguhnya itu termasuk perbuatan setan.' Maka salah seorang menumpahkan periuk sehingga isinya tertumpah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5020</td></tr><tr><td>Arabic No</td><td>1940.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5020</td></tr><tr><td>Arabic No</td><td>1940.01</td></tr><tr><td>Reference</td><td>Book 34 Hadith 49</td></tr></tbody></table></div>
 

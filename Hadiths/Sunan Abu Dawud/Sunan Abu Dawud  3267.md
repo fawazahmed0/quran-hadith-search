@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: AbuBakr adjured the Prophet (ﷺ). The Prophet (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas], bahwa Abu Bakr telah bersumpah kepada Nabi shallallahu 'alaihi wasallam kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Jangan engkau bersumpah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7046) Sahih Muslim (2269)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3267</td></tr><tr><td>Arabic No</td><td>3267</td></tr><tr><td>Reference</td><td>Book 22 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абду-р-Рахмана ибн Самуры, да будет доволен им Аллах: «Пророк ﷺ сказал мне: “О ‘Абду-р-Рахман ибн Самура, если ты дашь клятву, а потом увидишь, что лучше поступить иначе, то сделай то, что лучше, и искупи свою клятву”». Абу Дауд сказал: «Я слышал, как Ахмад разрешал искупать клятву до её нарушения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7046) Sahih Muslim (2269)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3267</td></tr><tr><td>Arabic No</td><td>3267</td></tr><tr><td>Reference</td><td>Book 22 Hadith 26</td></tr></tbody></table></div>
 

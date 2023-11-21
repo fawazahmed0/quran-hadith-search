@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Fadala b. Ubaid al-Ansari reported:A necklace having gold and gems in it was bro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Thahir Ahmad bin Amru bin Sarj] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Abu Hani' Al Khaulani] bahwa dia mendengar ['Ulay bin Rabah Al Lakhmi] dia berkata; saya mendengar [Fadlalah bin 'Ubaid Al Anshari] berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam di Khaibar, beliau pernah ditawari orang sebuah kalung yang terbuat dari emas dan permata, yang berasal dari harta rampasan. Lalu Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk menjual emasnya saja, oleh karena itu permatanya dicabut, kemudian beliau bersabda: "Emas dibayar dengan emas jika sama timbangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4075</td></tr><tr><td>Arabic No</td><td>1591.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 114</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4075</td></tr><tr><td>Arabic No</td><td>1591.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 114</td></tr></tbody></table></div>
 

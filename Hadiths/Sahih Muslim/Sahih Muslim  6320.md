@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas reported that Allah's Apostle (ﷺ) said:I entered Paradise and heard the n
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Bisyr] yaitu Ibnu As Sarii; Telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Ketika aku masuk ke dalam surga, aku mendengar suara derapan kaki, maka aku pun Iangsung bertanya, 'Derapan kaki Siapa itu? ' Para penghuni surga menjawab; 'Itu adalah Ghumaisha' bin Milhan, ibu Anas bin Malik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6320</td></tr><tr><td>Arabic No</td><td>2456</td></tr><tr><td>Reference</td><td>Book 44 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6320</td></tr><tr><td>Arabic No</td><td>2456</td></tr><tr><td>Reference</td><td>Book 44 Hadith 150</td></tr></tbody></table></div>
 

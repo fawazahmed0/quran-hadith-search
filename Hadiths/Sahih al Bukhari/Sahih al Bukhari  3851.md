@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) was inspired Divinely at the age of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abu Raja'] telah menceritakan kepada kami [an Nadlar] dari [Hisyam] dari ['Ikrimah] dari [Ibnu 'Abbas] radliallahu 'anhuma berkata; "Wahyu diturunkan kepada Rasulullah shallallahu 'alaihi wasallam saat beliau berusia empat puluh tahun, lalu beliau tinggal di Makkah selama tiga belas tahun, kemudian berhijrah ke Madinah dan tinggal disana selama sepuluh tahun hingga shallallahu 'alaihi wasallam diwafatkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3851</td></tr><tr><td>Arabic No</td><td>3851</td></tr><tr><td>Reference</td><td>Book 63 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Посланнику Аллаха ﷺ стали ниспосылаться откровения, когда ему исполнилось сорок лет, после чего он в течение тринадцати лет оставался в Мекке, а потом ему было велено переселиться, и он переселился в Медину, где прожил десять лет, а потом скончался ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3851</td></tr><tr><td>Arabic No</td><td>3851</td></tr><tr><td>Reference</td><td>Book 63 Hadith 76</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Humaid bin Mas'adah], bahwa [Khalid bin Al Harits] telah menceritakan kepada mereka; telah menceritakan kepada kami [Husain Al Mu'allim] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya], bahwa seseorang datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; aku adalah orang fakir yang tidak memiliki sesuatupun, sementara aku memiliki anak yatim. Kemudian beliau bersabda: "Makanlah sebagian dari harta anak yatimmu, tetapi janganlah berlebihan, tidak menggunakannya secara mubadzir, dan tidak mengambi harta pokoknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2872</td></tr><tr><td>Arabic No</td><td>2872</td></tr><tr><td>Reference</td><td>Book 18 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что один человек пришёл к Пророку ﷺ и сказал: «Поистине, я бедняк, у меня ничего нет, и на моём попечении сирота». (Посланник Аллаха ﷺ) сказал: «Бери из имущества твоего сироты, не излишествуя, не расточая и не присваивая ничего из основного имущества»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2872</td></tr><tr><td>Arabic No</td><td>2872</td></tr><tr><td>Reference</td><td>Book 18 Hadith 11</td></tr></tbody></table></div>
 

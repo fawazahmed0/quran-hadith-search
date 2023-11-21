@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:That during the Hajj in which the Prophet (ﷺ) had made Ab
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Dawud Abu Ar Rabi'] Telah menceritakan kepada kami [Fulaih] dari [Az Zuhri] dari [Humaid bin 'Abdur Rahman] dari [Abu Hurairah] bahwa Abu Bakr Ash Shiddiq ditugaskan oleh Nabi shallallahu 'alaihi wasallam memimpin satu kaum pada hari Nahar sebelum haji Wada untuk memberitahukan kepada orang banyak bahwasannya; 'Sesudah tahun ini orang-orang musyrik tidak boleh lagi haji dan tidak boleh thawaf di ka'bah dalam keadaan telanjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4363</td></tr><tr><td>Arabic No</td><td>4363</td></tr><tr><td>Reference</td><td>Book 64 Hadith 389</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Хумайда ибн ‘Абдуррахмана, что во время предшествовавшего прощальному паломничеству хаджа, руководить которым Пророк ﷺ назначил Абу Бакра ас-Сыддика, да будет доволен им Аллах, в день жертвоприношения (Абу Бакр) послал Абу Хурайру в числе других возвестить людям, что со следующего года многобожникам не будет разрешаться совершать хадж, а обнажённым не будет разрешаться совершать обход Каабы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4363</td></tr><tr><td>Arabic No</td><td>4363</td></tr><tr><td>Reference</td><td>Book 64 Hadith 389</td></tr></tbody></table></div>
 

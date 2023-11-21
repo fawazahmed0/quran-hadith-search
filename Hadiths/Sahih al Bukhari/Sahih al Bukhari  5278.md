@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Miswar bin Makhrama Az-Zuhri:I heard the Prophet (ﷺ) saying, "Banu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abul Walid] Telah menceritakan kepada kami [Al Laits] dari [Abu Mulaikah] dari [Al Miswar bin Makhramah Az Zuhri] ia berkata; Aku mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Bani Al Mughirah meminta izin kepada Nabi shallallahu 'alaihi wasallam agar Ali dapat menikahi anak perempuan mereka, namun beliau tidak mengizinkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5278</td></tr><tr><td>Arabic No</td><td>5278</td></tr><tr><td>Reference</td><td>Book 68 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от аль-Мисвара ибн Махрама аз-Зухри, что он слышал, как Посланник Аллаха ﷺ сказал: «Сыновья Хишама ибн аль-Мугыйры попросили у меня разрешения выдать их дочь за ‘Али. (И вот что:) я им не разрешаю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5278</td></tr><tr><td>Arabic No</td><td>5278</td></tr><tr><td>Reference</td><td>Book 68 Hadith 27</td></tr></tbody></table></div>
 

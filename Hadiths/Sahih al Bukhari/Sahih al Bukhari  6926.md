@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A Jew passed by Allah's Messenger (ﷺ) and said, "As-Sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil Abul Hasan] Telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Syu'bah] dari [Hisyam bin Zaid bin Anas bin Malik] mengatakan, aku mendengar [Anas bin malik] mengatakan; seorang yahudi melewati Rasulullah Shallallahu'alaihiwasallam dan mengucapkan; 'Assaam 'alaikum (kiranya kalian tertimpa kematian).' Maka Rasulullah shallallahu 'alaihi wasallam menjawab: "wa'ailaika (Dan untukmu).' kemudian Rasulullah shallallahu 'alaihi wasallam bertanya; "tahukah kalian apa yang diucapkannya? dia telah mengatakan; 'alaikum (Semoga kalian tertimpa kematian)." Maka para sahabat menjawab; 'bagaimana kalau dia kami bunuh? ' Nabi menjawab; "jangan, jika ahlu kitab mengucapkan salam kepada kalian, jawablah; wa'alaikum (kepada kalian kematian)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6926</td></tr><tr><td>Arabic No</td><td>6926</td></tr><tr><td>Reference</td><td>Book 88 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик сказал: «(Однажды) какой-то иудей сказал, проходя мимо Посланника Аллаха ﷺ: “Смерть тебе /ас-саму ‘алейкя/!” А Посланник Аллаха ﷺ ответил: “И тебе /уа ‘алейкя/”. Затем Посланник Аллаха ﷺ сказал (сподвижникам): “Вы знаете, что он сказал ? Он сказал: “Смерть тебе /ас-саму ‘алейкя/”. Тогда они спросили: “О Посланник Аллаха, убить ли нам его?” Он ответил: “Нет, если люди Писания будут приветствовать вас “салямом”, отвечайте: “И вам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6926</td></tr><tr><td>Arabic No</td><td>6926</td></tr><tr><td>Reference</td><td>Book 88 Hadith 8</td></tr></tbody></table></div>
 

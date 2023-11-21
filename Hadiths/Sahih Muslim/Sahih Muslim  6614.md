@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that two persons visited Allah's Messenger (ﷺ) and both of the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb]; Telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Adh Dhuha] dari [Masruq] dari ['Aisyah] dia berkata; 'Pada suatu hari, ada dua orang yang bertamu kepada Rasulullah shallallahu 'alaihi wasallam. Kemudian kedua orang tersebut membicarakan sesuatu yang tidak saya ketahui kepada Rasulullah shallallahu 'alaihi wasallam, hingga membuat beliau marah. Tak lama kemudian, saya mendengar Rasulullah melaknat dan mencaci mereka. Setelah kedua laki-laki itu keluar, saya pun bertanya kepada beliau; 'Ya Rasululah, sepertinya dua orang laki-Iaki tadi tidak memperoleh kebaikan, sebagaimana yang diperoleh oleh orang lain. RasuluIIah balik bertanya: 'Apa maksudnya ya Aisyah? ' Aisyah menjawab; 'Maksud saya, engkau telah melaknat dan mencaci-maki kedua orang tersebut.' Lalu Rasulullah bersabda: 'Hai Aisyah, tidak tahukah kamu apa yang pernah saya syaratkan kepada Tuhanku? Sesungguhnya aku telah memohon: 'Ya Allah, aku hanyalah seorang manusia. Jika ada seorang muslim yang aku laknat atau aku maki, maka jadikanlah hal tersebut sebagai pelebur dosa dan pahala baginya.' Telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakannya kepada kami ['Ali bin Hujr As Sa'idi] dan [Ishaq bin Ibrahim] serta ['Ali bin Khasyram] -secara keseluruhan- dari ['Isa bin Yunus] keduanya dari [Al A'masy] melalui jalur ini yang serupa dengan Hadits Jarir dan dia berkata; di dalam Hadits 'Isa; keduanya lalu berpaling dari Rasulullah, hingga akhirnya beliau memakinya dan melaknatnya serta mengusir keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6614</td></tr><tr><td>Arabic No</td><td>2600.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 112</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6614</td></tr><tr><td>Arabic No</td><td>2600.01</td></tr><tr><td>Reference</td><td>Book 45 Hadith 112</td></tr></tbody></table></div>
 

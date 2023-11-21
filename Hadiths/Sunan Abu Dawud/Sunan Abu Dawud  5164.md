@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: A man came to the Prophet (ﷺ) and asked: Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani] dan [Ahmad bin Amru bin As Sarh] - dan ini adalah hadits Al Hamdani- dan hadits lebih sempurna, keduanya berkata; telah menceritakan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Abu Hani' Al Khaulani] dari [Al Abbas bin Julaid Al Hajari] ia berkata; Aku mendengar [Abdullah bin Umar] berkata, "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, berapa kali kami harus memberi maaf kepada seorang budak?" Beliau diam. Laki-laki itu kembali mengulangi pertanyaannya namun beliau tetap saja diam. Sehingga pada kali yang ketiga, beliau bersabda: "Berilah maaf kepadanya tujuh puluh kali dalam sehari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 43 Hadith 392</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 43 Hadith 392</td></tr></tbody></table></div>
 

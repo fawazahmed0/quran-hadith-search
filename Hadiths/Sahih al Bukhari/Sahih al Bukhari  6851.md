@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) forbade Al-Wisal (fasting continuou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibnu Syihab] telah menceritakan kepada kami [Abu Salamah] bahwasanya [Abu Hurairah] radliallahu 'anhu mengatakan; Rasulullah Shallallahu'alaihiwasallam melarang puasa wishal. Maka beberapa orang kaum muslimin bertanya; 'engkau sendiri ya Rasulullah melakukan puasa wishal.' Rasulullah Shallallahu'alaihiwasallam menjawab; "Siapa diantara kalian sanggup seperti aku, Rabbiku memberiku makan dan minum." Tatkala mereka masih enggan menyudahi puasa wishal, Nabi terus melakukan wishal bersama mereka hari demi hari, lantas mereka melihat bulan sabit muncul, maka Nabi bersabda: "Kalaulah bulan sabit itu terlambat, niscaya kutambah untuk kalian!" Seolah-olah beliau hendak menghukum mereka tatkala mereka enggan. hadits ini diperkuat oleh [Syu'aib] dan [Yahya bin Sa'id] dan [Yunus] dari [Az Zuhri], dan [Abdurrahman bin Khalid] mengatakan dari [Ibnu Syihab] dari [Sa'id] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6851</td></tr><tr><td>Arabic No</td><td>6851</td></tr><tr><td>Reference</td><td>Book 86 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ запретил соблюдать пост непрерывно. Некоторые люди из числа мусульман сказали ему: “Поистине, ты, о Посланник Аллаха, делаешь это!”, — на что Посланник Аллаха ﷺ ответил: “А кто из вас подобен мне? Поистине, по ночам Господь мой кормит и поит меня”. Когда же (некоторые люди) отказались прекратить поститься непрерывно, (Пророк ﷺ тоже) стал поститься непрерывно вместе с ними(, не разговляясь сначала) один день, потом ещё один, после чего они увидели молодой месяц. И тогда (Пророк ﷺ) сказал: “Если бы он появился позже, я бы добавил вам”, (имея в виду, что это) послужило бы им примерным наказанием за то, что они отказались (прекратить поститься)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6851</td></tr><tr><td>Arabic No</td><td>6851</td></tr><tr><td>Reference</td><td>Book 86 Hadith 73</td></tr></tbody></table></div>
 

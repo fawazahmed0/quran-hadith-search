@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu al-Darda:We went out along with the Messenger of Allah (ﷺ) for so
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muammal bin Al Fadhl], telah menceritakan kepada kami [Al Walid], telah menceritakan kepada kami [Sa'id bin Abdul Aziz], telah menceritakan kepadaku [Isma'il bin 'Ubaidullah], telah menceritakan kepadaku [Ummu Ad Darda'] dari [Abu Darda'], ia berkata; kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam dalam sebagian peperangan pada hari yang sangat panas hingga salah seorang diantara kami meletakkan tangannya atau telapak tangannya di atas kepalanya karena sangat panas. Tidak ada diantara kami yang berpuasa selain Rasulullah shallallahu 'alaihi wasallam, dan Abdullah bin Rawahah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1945) Sahih Muslim (1122)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2409</td></tr><tr><td>Arabic No</td><td>2409</td></tr><tr><td>Reference</td><td>Book 14 Hadith 97</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу ад-Дарда, да будет доволен им Аллах, сказал: «Однажды во время рамадана мы двинулись в путь вместе с посланником Аллаха ﷺ в такой жаркий день, что человек из-за сильной жары вынужден был прикрывать голову рукой, и среди нас не было постящихся, если не считать Посланника Аллаха ﷺ и Абдуллаха ибн Равахи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1945) Sahih Muslim (1122)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2409</td></tr><tr><td>Arabic No</td><td>2409</td></tr><tr><td>Reference</td><td>Book 14 Hadith 97</td></tr></tbody></table></div>
 

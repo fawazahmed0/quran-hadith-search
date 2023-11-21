@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbas (Allah be pleased with him) reported that Duba'a intended to perform 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah] Telah menceritakan kepada kami [Abu Dawud Ath Thiyalisi] Telah menceritakan kepada kami [Habib bin Yazid] dari [Amru bin Haram] dari [Sa'id bin Jubair] dan [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma, bahwa Dluba'ah ingin menunaikan haji, maka Nabi shallallahu 'alaihi wasallam pun memerintahkannya untuk menyaratkan (di dalam niatnya), lalu ia pun mengerjakan perintah Rasulullah shallallahu 'alaihi wasallam tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2906</td></tr><tr><td>Arabic No</td><td>1208.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2906</td></tr><tr><td>Arabic No</td><td>1208.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 115</td></tr></tbody></table></div>
 

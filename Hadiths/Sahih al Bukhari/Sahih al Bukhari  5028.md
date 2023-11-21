@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Uthman bin 'Affan:The Prophet (ﷺ) said, "The most superior among you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Alqamah bin Martsad] dari [Abu Abdurrahman As Sulami] dari [Utsman bin 'Affan] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Orang yang paling utama di antara kalian adalah seorang yang belajar Al Qur'an dan mengajarkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5028</td></tr><tr><td>Arabic No</td><td>5028</td></tr><tr><td>Reference</td><td>Book 66 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+В другой версии (этого хадиса, также передаваемой со слов ‘Усмана), да будет доволен им Аллах, сообщается, что Пророк ﷺ сказал: «Поистине, достойнейшим из вас является тот, кто изучает Коран и учит ему (других)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5028</td></tr><tr><td>Arabic No</td><td>5028</td></tr><tr><td>Reference</td><td>Book 66 Hadith 50</td></tr></tbody></table></div>
 

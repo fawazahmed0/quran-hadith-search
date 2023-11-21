@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Aswad:Aisha said, "I bought Barira and her masters stipulated that t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] radliallahu 'anha mengatakan; 'Aku membeli Barirah namun pemiliknya memberi syarat wala'nya tetap dimiliki mereka. Maka hal ini kusampaikan kepada Nabi shallallahu 'alaihi wasallam dan beliau bersabda: "Merdekakanlah ia, sebab wala' bagi yang menyerahkan perak." Kata Aisyah; lalu aku memerdekakannya, kemudian Rasulullah Shallallahu'alaihi wa sallam memanggilnya dan memberinya pilihan untuk tetap bersama suaminya (ataukah tidak). Maka Barirah menjawab: 'Kalaulah suamiku memberiku itu dan itu, aku tidak mau bermalam dengannya, ' dan ia memilih untuk berpisah. Kata Aswa; 'kondisi suaminya merdeka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6758</td></tr><tr><td>Arabic No</td><td>6758</td></tr><tr><td>Reference</td><td>Book 85 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) я захотела выкупить Бариру, (чтобы освободить её), однако её владельцы сделали условием её продажи то, что её право наследовать освобожденного /уаля/ останется за ними. Я рассказала об этом Пророку ﷺ, и он сказал: “Освободи её, ведь, поистине, “уаля” принадлежит тому, кто отдаёт стоимость”. И я освободила её. Затем Посланник Аллаха ﷺ позвал её и предоставил ей выбор (остаться с мужем или нет), и она ответила: “Я не желаю быть с ним, даже если бы он дал мне за это то-то и то-то!” И она выбрала себя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6758</td></tr><tr><td>Arabic No</td><td>6758</td></tr><tr><td>Reference</td><td>Book 85 Hadith 35</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Abbâs (رضي الله عنهما), J'ai entendu le Prophète (pa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Zuhair bin Harb] keduanya dari [Sufyan] - [Abu Bakr] berakata- Telah menceritakan kepada kami [Sufyan bin Uyainah] Telah menceritakan kepada kami [Amru bin Dinar] dari [Abu Ma'bad] ia berkata, saya mendengar [Ibnu Abbas] berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam berkhutbah seraya bersabda: "Janganlah sekali-kali seorang laki-laki berduaan dengan seorang wanita kecuali wanita itu disertai muhrimnya. Dan seorang wanita juga tidak boleh bepergian sendirian, kecuali ditemani oleh mahramnya." Tiba-tiba berdirilah seorang laki-laki dan bertanya, "Ya, Rasulullah, sesungguhnya isteriku hendak menunaikan ibadah haji, sedangkan aku ditugaskan pergi berperang ke sana dan ke situ; bagaimana itu?" Rasulullah shallallahu 'alaihi wasallam pun menjawab: "Pergilah kamu haji bersama isterimu." Dan Telah menceritakannya kepada kami [Abu Rabi' Az Zahrani] Telah menceritakan kepada kami [Hammad] dari [Amru] dengan isnad ini, semisalnya. Dan Telah menceritakan kepada kami [Ibnu Abu Umar] Telah menceritakan kepada kami [Hisyam bin Sulaiman Al Makhzumi] dari [Ibnu Juraij] dengan isnad ini, semisalnya. Dan ia tidak menyebutkan; "Janganlah sekali-kali seorang laki-laki berduaan dengan seorang wanita kecuali wanita itu disertai mahramnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>1341.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 476</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>1341.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 476</td></tr></tbody></table></div>
 

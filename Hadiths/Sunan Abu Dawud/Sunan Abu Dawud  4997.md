@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Asma’, daughter of Abu Bakr, told of a woman who said :Messenger of Allah! I h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Hisyam bin Urwah] dari [fatimah binti Al Mundzir] dari [Asma binti Abu Bakr] berkata, "Seorang wanita berkata, "Wahai Rasulullah, aku mempunyai tetangga (maksudnya adalah wanita yang manjadi madunya atau istri kedua suaminya), maka apakah aku berdosa jika aku berhias dengan sesuatu yang belum pernah diberikan oleh suamiku agar ia (wanita yang menjadi madunya) merasa iri?" beliau menjawab: "Orang yang mengada-ada dengan sesuatu yang belum pernah diberikan kepadanya, seperti orang yang mengenakan dua pakaian palsu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5219) Sahih Muslim (2130)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4997</td></tr><tr><td>Arabic No</td><td>4997</td></tr><tr><td>Reference</td><td>Book 43 Hadith 225</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Асма бинт Аби Бакр, да будет доволен ими обоими Аллах, сказала: Одна женщина сказала: «О Посланник Аллаха, у моего мужа есть ещё одна жена. Будет ли на мне грех, если я сделаю вид /ташабба‘ту/, что получила в подарок от мужа то, чего на самом деле он мне не дарил?» (В ответ на это) Пророк ﷺ сказал (ей): «Делающий вид /муташабби‘/, что он получил то, чего (на самом деле) ему не дарили, подобен надевшему два одеяния лжи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5219) Sahih Muslim (2130)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4997</td></tr><tr><td>Arabic No</td><td>4997</td></tr><tr><td>Reference</td><td>Book 43 Hadith 225</td></tr></tbody></table></div>
 

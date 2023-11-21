@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar reported that 'Umar b. al-Khattab (Allah be pleased with him) expelled 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Rafi'] dan [Ishaq bin Manshur] sedangkan lafazhnya dari Ibnu Rafi' keduanya berkata; Telah menceritakan kepada kami [Abdur Razzaq] telah mengabarkan kepada kami [Ibnu Juraij] telah menceritakan kepadaku [Musa bin 'Uqbah] dari [Nafi'] dari [Ibnu Umar] bahwa Umar bin Khaththab telah mengusir orang-orang Yahudi dan Nashrani dari tanah hijaz. Sesungguhnya setelah penaklukan Khaibar, Rasulullah shallallahu 'alaihi wasallam bermaksud mengusir orang-orang Yahudi dari negeri itu, sebab setelah dikuasai, negeri tersebut milik Allah dan Rasul-Nya serta milik kaum Muslimin seluruhnya. Karena itulah Rasulullah shallallahu 'alaihi wasallam bermaksud hendak mengusir orang-orang Yahudi dari negeri itu, tetapi orang-orang Yahudi memohon kepada Rasulullah shallallahu 'alaihi wasallam agar beliau membolehkan mereka tetap tinggal di sana untuk meneruskan usaha (pertanian) mereka, dengan ketentuan; bagi mereka seperdua dari hasil buah-buahan yang mereka kerjakan. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada mereka: "Kami izinkan kalian menetap dengan ketentuan seperti itu sampai batas waktu yang kami kehendaki." Maka mereka pun menetap di situ sampai datang waktunya Umar mengusir mereka ke Taima' dan Ariha
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3967</td></tr><tr><td>Arabic No</td><td>1551.06</td></tr><tr><td>Reference</td><td>Book 22 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3967</td></tr><tr><td>Arabic No</td><td>1551.06</td></tr><tr><td>Reference</td><td>Book 22 Hadith 6</td></tr></tbody></table></div>
 

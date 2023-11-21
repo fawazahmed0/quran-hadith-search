@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The Kanz (money, the Zakat o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hakam bin Nafi'] Telah mengabarkan kepada kami [Syu'aib] Telah menceritakan kepada kami [Abu Az Zinad] bahwa ['Abdur Rahman Al A'raj] Telah menceritakan kepadanya bahwasanya dia berkata; Telah menceritakan kepadaku [Abu Hurairah radliallahu 'anhu] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Pada hari kiamat harta simpanan kalian akan menjadi ular yang ganas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4659</td></tr><tr><td>Arabic No</td><td>4659</td></tr><tr><td>Reference</td><td>Book 65 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Сокровища ваши в День воскрешения будут в образе плешивой ядовитой змеи»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4659</td></tr><tr><td>Arabic No</td><td>4659</td></tr><tr><td>Reference</td><td>Book 65 Hadith 181</td></tr></tbody></table></div>
 

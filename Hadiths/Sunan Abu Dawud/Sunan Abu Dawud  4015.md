@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ali ibn AbuTalib: The Prophet (ﷺ) said: Do not uncover you thigh, and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ali bin Sahl Ar Ramli] telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] ia berkata; aku mendapat kabar dari [Habib bin Abu Tsabit] dari ['Ashim bin Dlamrah] dari [Ali] radliallahu 'anhu, ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah engkau buka pahamu, dan jangan engkau melihat kepada paha orang yang hidup maupun yang mati!" Abu Daud berkata, "Dalam hadits ini terdapat sesuatu yang diingkari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>4015</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Али, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не открывай своё бедро и не смотри на бёдра как живого, так и мёртвого». Абу Дауд сказал, что этот хадис отвергаемый
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>4015</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
 

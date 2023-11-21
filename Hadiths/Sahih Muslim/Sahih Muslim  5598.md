@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mughira b. Shu'ba reported:When I came to Najran, they (the Christians of Najran
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Muhammad bin 'Abdillah bin Numair] dan [Abu Sa'id Al Asyaj] dan [Muhammad bin Al Mutsanna Al 'Anazi]; Dan lafazh ini miliknya Numair ia berkata; Telah menceritakan kepada kami [Ibnu Idris] dari [Bapaknya] dari [Simak bin Harb] dari ['Alqamah bin Wail] dari [Al Mughirah bin Syu'bah] ia berkata; Ketika aku mendatangi kota Najran, para penduduknya bertanya kepadaku; Sesungguhnya kalian membaca "wahai saudara Harun", padahal Musa hidup sebelum Isa berjarak beberapa tahun.' Maka ketika aku datang kepada Rasulullah shallallahu 'alaihi wasallam, aku menanyakan hal itu kepada beliau, dan beliaupun menjawab: 'Dulu mereka memberi nama dengan nama-nama para Nabi mereka dan orang-orang shaleh dari kaum sebelum mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5598</td></tr><tr><td>Arabic No</td><td>2135</td></tr><tr><td>Reference</td><td>Book 38 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Мугъира ибн Шу‘ба сказал: Когда я приехал в Наджран, (люди Писания) стали спрашивать меня: «Почему вы, читаете (в Коране): “О сестра Харуна!” (сура «Марьям», аят 28), хотя Муса (жил) на столько-то и столько-то лет раньше ‘Исы?!» Приехав к Посланнику Аллаха ﷺ я спросил его об этом, и он сказал: «Поистине, они обращались (к людям) по именам своих пророков и праведников, которые жили до них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5598</td></tr><tr><td>Arabic No</td><td>2135</td></tr><tr><td>Reference</td><td>Book 38 Hadith 13</td></tr></tbody></table></div>
 

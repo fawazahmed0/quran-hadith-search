@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I was in the company of Jabir bin 'Abdullah on a journey and he us
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin 'Ar'arah] telah bercerita kepada kami [Syu'bah] dari [Yunus bin 'Ubaid] dari [Tsabit Al Bananiy] dari [Anas bin Malik radliallahu 'anhu] berkata: "Aku pernah menyertai Jarir bin 'Abdullah dan saat itu dia melayaniku". Jarir bin 'Abdullah lebih tua usianya dibanding Anas. Jarir berkata: "Sungguh aku melihat Kaum Anshor mengerjakan sesuatu (melayani Rasulullah shallallahu 'alaihi wasallam) dimana kemudian tidak aku temui seorangpun dari mereka kecuali aku memuliakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2888</td></tr><tr><td>Arabic No</td><td>2888</td></tr><tr><td>Reference</td><td>Book 56 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «(Однажды) я сопровождал (в пути) Джарира ибн ‘Абдуллах (аль-Баджали), который (во время этой поездки) всё время прислуживал мне», а он был старше Анаса.Джарир сказал: «Поистине, я видел, что ансары делали нечто, и если я найду любого из них, то обязательно буду почитать его!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2888</td></tr><tr><td>Arabic No</td><td>2888</td></tr><tr><td>Reference</td><td>Book 56 Hadith 103</td></tr></tbody></table></div>
 

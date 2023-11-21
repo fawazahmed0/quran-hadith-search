@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:The Prophet (ﷺ) was on a journey and recited in one of the fi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] berkata, telah menceritakan kepada kami [Syu'bah] dari ['Adi] berkata, "Aku mendengar [Al Bara'], bahwa Nabi shallallahu 'alaihi wasallam ketika safar (bepergian) pada shalat 'Isya membaca pada salah satu dari dua rakaatnya dengan 'WAT TIINI WAZ ZAITUUN
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>767</td></tr><tr><td>Arabic No</td><td>767</td></tr><tr><td>Reference</td><td>Book 10 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Адий (да помилует его Аллах) сказал: «Я слышал, (как) аль-Бараъ (ибн ‘Азиб, да будет доволен им Аллах, рассказывал), что (однажды), находясь в пути, Пророк ﷺ прочёл во время совершения одного из двух рак‘атов вечернего намаза: “Клянусь смоковницей и оливой…”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>767</td></tr><tr><td>Arabic No</td><td>767</td></tr><tr><td>Reference</td><td>Book 10 Hadith 161</td></tr></tbody></table></div>
 

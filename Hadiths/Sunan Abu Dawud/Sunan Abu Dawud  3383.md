@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Messenger of Allah (ﷺ) having said: Allah, Most High
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Mishshishi], telah menceritakan kepada kami [Muhammad bin Az Zibriqan], dari [Abu Hayyan At Taimi], dari [ayahnya] dari [Abu Hurairah] dan ia merafa'kannya. Ia berkata; sesungguhnya Allah berfirman: "Aku adalah pihak ketiga dari dua orang yang bersekutu, selama tidak ada salah seorang diantara mereka yang berkhianat kepada sahabatnya. Apabila ia telah mengkhianatinya, maka aku keluar dari keduanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3383</td></tr><tr><td>Arabic No</td><td>3383</td></tr><tr><td>Reference</td><td>Book 23 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, Аллах сказал: “Я являюсь третьим для двух компаньонов до тех пор, пока один из них не поступит с другим вероломно, а когда это происходит, Я покидаю их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3383</td></tr><tr><td>Arabic No</td><td>3383</td></tr><tr><td>Reference</td><td>Book 23 Hadith 58</td></tr></tbody></table></div>
 

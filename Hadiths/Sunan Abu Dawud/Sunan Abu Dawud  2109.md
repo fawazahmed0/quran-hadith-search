@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas:The Messenger of Allah (ﷺ) saw the trace of yellow on 'Abd al-Ra
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Hammad] dari [Tsabit Al Bunani], serta [Humaid] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam melihat Abdurrahman bin 'Auf padanya terdapat bekas minyak za'faran. Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Apakah ini?" Lalu ia berkata; wahai Rasulullah, aku telah menikahi seorang wanita. Beliau berkata: "Mahar apakah yang telah engkau berikan kepadanya?" Ia berkata; emas sebesar biji kurma. Beliau berkata: "Rayakanlah (adakanlah walimah) walaupun hanya dengan menyembelih satu ekor kambing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2109</td></tr><tr><td>Arabic No</td><td>2109</td></tr><tr><td>Reference</td><td>Book 12 Hadith 64</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Анаса, да будет доволен им Аллах, что, увидев на ‘Абду-р-Рахмане ибн ‘Ауфе жёлтые следы шафрана, Посланник Аллаха ﷺ спросил его: «Что это?» Тот сказал: «О Посланник Аллаха ﷺ я женился на одной женщине». (Посланник Аллаха ﷺ) спросил: «Что же ты дал ей в качестве брачного дара?» Он ответил: «Нуват золота». (Посланник Аллаха ﷺ) сказал: «Устрой угощение хотя бы из одной овцы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2109</td></tr><tr><td>Arabic No</td><td>2109</td></tr><tr><td>Reference</td><td>Book 12 Hadith 64</td></tr></tbody></table></div>
 

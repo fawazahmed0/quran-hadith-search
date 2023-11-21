@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aiman:I went to 'Aisha and she was wearing a coarse dress costing five 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami ['Abdul Wahid bin Aiman] berkata, telah menceritakan kepadaku [bapakku] berkata; Aku menemui ['Aisyah radliallahu 'anha] yang mengenakan kain yang tebal dengan harga lima dirham, ia berkata: "Tolong sorotkan pandanganmu kearah budakku, lihatlah padanya bahwa ia menyombongkan diri dengan memakainya di rumah, dan aku dulu memiliki pakaian pada masa Rasulullah shallallahu 'alaihi wasallam yang tidak ada seorang wanitapun di Madinah yang berhias diri kecuali mereka diberi saran menemuiku untuk meminjamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2628</td></tr><tr><td>Arabic No</td><td>2628</td></tr><tr><td>Reference</td><td>Book 51 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абд аль-Вахид бин Айман, да помилует его Аллах Всевышний, сказал:\n— Мой отец передал мне (следующее): «(Однажды) я зашёл к ‘Аише, да будет доволен ею Аллах, которая была одета в платье из грубой хлопчатобумажной ткани ценой в пять дирхемов, и она сказала (мне): “Подними глаза и посмотри на мою рабыню! Она отказывается носить (такое платье) дома, а при жизни Посланника Аллаха ﷺ у меня было такое же платье, и не было в Медине ни одной женщины, желавшей принарядиться (для мужа), которая не посылала бы ко мне (кого-либо), чтобы одолжить его (для себя)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2628</td></tr><tr><td>Arabic No</td><td>2628</td></tr><tr><td>Reference</td><td>Book 51 Hadith 60</td></tr></tbody></table></div>
 

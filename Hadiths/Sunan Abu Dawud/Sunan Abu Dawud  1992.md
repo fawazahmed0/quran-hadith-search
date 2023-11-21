@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mujahid said:Ibn 'Umar was asked: How many times did the Messenger of Allah (ﷺ
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili], telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Abu Ishaq] dari [Mujahid], ia berkata; [Ibnu Umar] ditanya; Berapa kali Rasulullah shallallahu 'alaihi wasallam melakukan umrah? Ia berkata; Dua kali. 'Aisyah berkata; Sungguh, Ibnu Umar mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam telah melaksanakan umrah sebanyak tiga kali selain umrah yang beliau laksanakan bersamaan dengan haji wada
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1992</td></tr><tr><td>Arabic No</td><td>1992</td></tr><tr><td>Reference</td><td>Book 11 Hadith 272</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Муджахид передаёт, что Ибн ‘Умара спросили: «Сколько раз совершал ‘умру Посланник Аллаха ﷺ?» Он ответил: «Два раза». ‘Аиша, узнав об этом, сказала: «Ибн ‘Умару известно, что Посланник Аллаха ﷺ совершил три ‘умры, не считая той, которую он совершил вместе с прощальным хаджем»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1992</td></tr><tr><td>Arabic No</td><td>1992</td></tr><tr><td>Reference</td><td>Book 11 Hadith 272</td></tr></tbody></table></div>
 

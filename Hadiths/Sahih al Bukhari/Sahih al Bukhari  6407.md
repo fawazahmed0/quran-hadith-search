@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:The Prophet (ﷺ) said, "The example of the one who celebrates
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin Abdullah] dari [Abu Burdah] dari [Abu Musa] radliallahu 'anhu dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Permisalan orang yang mengingat Rabbnya dengan orang yang tidak mengingat Rabbnya seperti orang yang hidup dengan yang mati
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6407</td></tr><tr><td>Arabic No</td><td>6407</td></tr><tr><td>Reference</td><td>Book 80 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поминающий своего Господа и не поминающий своего Господа подобны живому и мёртвому»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6407</td></tr><tr><td>Arabic No</td><td>6407</td></tr><tr><td>Reference</td><td>Book 80 Hadith 102</td></tr></tbody></table></div>
 

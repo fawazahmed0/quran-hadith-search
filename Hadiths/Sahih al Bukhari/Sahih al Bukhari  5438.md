@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) did not do that (i.e., forbade the storage of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kami [Sufyan] dari ['Abdurrahman bin Abis] dari [Bapaknya] dari [Aisyah] radliallahu 'anhuma, ia berkata, "Beliau tidak pernah melakukannya kecuali di saat paceklik yang manusia semuanya dalam keadaan lapar, beliau ingin orang kaya memberi makan kepada yang miskin. Dan sungguh, kami memakan kaki kambing setelah lima belas hari, dan keluarga Muhammad shallallahu 'alaihi wasallam tidak pernah merasa kenyang dengan roti gandum berkuah selama tiga hari terturut-turut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5438</td></tr><tr><td>Arabic No</td><td>5438</td></tr><tr><td>Reference</td><td>Book 70 Hadith 66</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Он (Пророк ﷺ) делал это (запрещал запасаться мясом жертвенных животных) только в тот год, когда голодали люди, желая, чтобы богатый накормил бедного. Но потом мы ели даже нижнюю часть бараньей голени, (после того, как она хранилась) пятнадцать дней. И семья Мухаммада ﷺ не ела пшеничного хлеба с приправой досыта на протяжении трёх дней (подряд)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5438</td></tr><tr><td>Arabic No</td><td>5438</td></tr><tr><td>Reference</td><td>Book 70 Hadith 66</td></tr></tbody></table></div>
 

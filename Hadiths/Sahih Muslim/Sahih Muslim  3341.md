@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sahl b. Hunif reported that Allah's Messenger (ﷺ) pointed with his hands towar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Ali bin Mushir] dari [Asy Syaibani] dari [Yusair bin Amru] dari [Sahl bin Hunaif] ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah menunjuk dengan tangannya ke Madinah seraya bersabda: "Sesungguhnya Madinah itu termasuk tanah haram yang aman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3341</td></tr><tr><td>Arabic No</td><td>1375</td></tr><tr><td>Reference</td><td>Book 15 Hadith 545</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3341</td></tr><tr><td>Arabic No</td><td>1375</td></tr><tr><td>Reference</td><td>Book 15 Hadith 545</td></tr></tbody></table></div>
 

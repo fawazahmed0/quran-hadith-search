@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Amir b. Sa'd reported oLi the authority of his father that Allah's Apostle (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abbad]; Telah menceritakan kepada kami [Hatim] yaitu Ibnu Isma'il dari [Bukair bin Mismar] dari ['Amir bin Sa'ad] dari [Bapaknya] bahwa Nabi shallallahu 'alaihi wasallam Rasulullah shallallahu 'alaihi wasallam telah menggabungkan kedua orang tuanya sebagai tebusan baginya pada perang Uhud." Saad bin Abi Waqqash berkata; "Seorang laki-laki musyrik telah memanas-manasi kaum muslimin." Kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepada Sa'ad: "Panahlah dia!" Sa'ad berkata; Lalu saya membidiknya dengan sebuah anak panah tanpa mata panah yang tajam hingga tepat mengenai Iambungnya. kemudian orang tersebut tersungkur dan terbukalah auratnya. Melihat itu, Rasulullah tersenyum puas hingga terlihat gigi rahamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6237</td></tr><tr><td>Arabic No</td><td>2412.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6237</td></tr><tr><td>Arabic No</td><td>2412.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 67</td></tr></tbody></table></div>
 

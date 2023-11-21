@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas reported :The Prophet (ﷺ) performed ablution with a vessel which containe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash Shabbah Al Bazzaz] telah menceritakan kepada kami [Syarik] dari [Abdullah bin Isa] dari [Abdullah bin Jabr] dari [Anas] dia berkata; "Rasulullah shallallahu 'alaihi wasallam berwudhu dengan bejana yang memuat dua ritl air dan mandi dengan satu sha'." Abu Dawud berkata; Diriwayatkan oleh [Yahya bin Adam] dari [Syarik] dia berkata; dari [Ibnu Jabr bin Atik] dia berkata; Diriwayatkan oleh [Sufyan] dari [Abdullah bin Isa] telah menceritakan kepada kami [Jabr bin Abdullah], Abu Dawud berkata; Dan diriwayatkan oleh [Syu'bah] dia berkata; telah menceritakan kepada kami [Abdullah bin Abdillah bin Jabr], saya pernah mendengar [Anas], hanya saja dia berkata; "Beliau shallallahu 'alaihi wasallam berwudhu dengan satu mud" dan tidak menyebutkan tentang dua ritl. Abu Dawud berkata; Saya pernah mendengar Ahmad bin Hanbal berkata; satu sha' adalah lima ritl, yaitu ukuran sha' milik Ibnu Abi Dzi'b, yaitu sha' Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>95</td></tr><tr><td>Arabic No</td><td>95</td></tr><tr><td>Reference</td><td>Book 1 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас (ибн Малик) сказал: «Пророк ﷺ совершал омовение из сосуда емкостью в два ратля, а купался с одним са‘а (воды)».Абу Дауд сказал: Этот хадис передал Яхйа ибн Адам от Шарийка, который сказал: От Ибн Джабра ибн ‘Атийк, который сказал: «Этот хадис передал Суфьян от ‘Абдуллаха ибн ‘Иса, который сказал: “Сообщил мне Джабр ибн ‘Абдуллах”».Абу Дауд сказал: Этот хадис также передал Шу‘ба, который сказал: Мне рассказал ‘Абдуллах ибн ‘Абдуллах ибн Джабр, который сказал: «Я слышал то же самое от Анаса, за исключением того, что он говорил: “… совершал омовение с одним маккуком”. И он не упомянул два ратля». Абу Дауд сказал: «Я слышал, как Ахмад ибн Ханбаль говорил: “Са‘ (равен) пяти ратлям, а это са‘ Ибн Абу Зиъба, и это са‘ Пророка ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>95</td></tr><tr><td>Arabic No</td><td>95</td></tr><tr><td>Reference</td><td>Book 1 Hadith 95</td></tr></tbody></table></div>
 

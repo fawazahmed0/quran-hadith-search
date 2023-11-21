@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Azib:The Prophet (ﷺ) forbade us to use the red Mayathir and to us
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Sufyan] dari [Asy'ats bin Abu Asy Sya'tsa'] telah menceritakan kepada kami [Mu'awiyah bin Suwaid bin Muqarrin] dari [Al Barra' bin 'Azib] dia berkata; "Nabi shallallahu 'alaihi wasallam melarang kami mengenakan tirai yang terbuat dari sutera dan Qasiy (sutera campuran)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5838</td></tr><tr><td>Arabic No</td><td>5838</td></tr><tr><td>Reference</td><td>Book 77 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бараъ ибн ‘Азиб сказал: «Пророк ﷺ запретил нам (использовать) красные подушки из шёлка /аль-маясир аль-хумр/ и льняную одежду, содержащую шёлк /кассия/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5838</td></tr><tr><td>Arabic No</td><td>5838</td></tr><tr><td>Reference</td><td>Book 77 Hadith 55</td></tr></tbody></table></div>
 

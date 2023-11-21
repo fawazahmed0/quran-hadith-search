@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ A man from the Ansar called Basrah said:I married a virgin woman in her veil. Wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Makhlad bin Khalid] serta [Al Hasan bin Ali] dan [Muhammad bin Abu As Sari] secara makna, mereka berkata; telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ibnu Juraij], dari [Shafwan bin Sulaim], dari [Sa'id bin Al Musayyab], dari seorang laki-laki anshar, [Ibnu Abu As Sari] berkata; yang merupakan sahabat Nabi shallallahu 'alaihi wasallam, tidak mengatakan; anshar. Kemudian mereka sepakat mengatakan; yang dipanggil Bashrah, ia berkata; aku menikahi seorang budak perawan dalam tabirnya, kemudian aku menemuinya dan ternyata ia sedang hamil. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Baginya mahar karena farji yang telah engkau halalkan, dan anaknya adalah budakmu apabila ia telah melahirkan." Al Hasan berkata; cambuklah dia. Ibnu Abu As Sari berkata; cambuklah dia. Atau mengatakan; hukumlah dia. Abu Daud berkata; hadits ini telah diriwayatkan oleh [Qatadah] dari [Sa'id bin Yazid] dari [Ibnu Al Musayyab], dan telah diriwayatkan oleh [Yahya bin Abu Katsir] dari [Yazid bin Nu'aim] dari [Sa'id bin Al Musayyab] serta ['Atha' Al Khurasani], dari [Sa'id bin Al Musayyab]. Mereka semua telah memursalkannya. Dan di dalam hadits Yahya bin Abu Katsir disebutkan bahwa [Bashrah bin Aktsam] menikahi seorang wanita, dan seluruh mereka mengatakan dalam haditsnya; ia menjadikan anak tersebut sebagai budaknya. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], telah menceritakan kepada kami [Utsman bin Umar], telah menceritakan kepada kami [Ali bin Al Mubarak], dari [Yahya] dari [Yazid bin Nu'aim] dari [Sa'id bin Al Musayyab] bahwa seorang laki-laki yang dipanggil [Bashrah bin Aktsam] telah menikahi seorang wanita…. Kemudian ia menyebutkan makna hadits dan menambahkan; dan beliau memisahkan diantara mereka berdua. Hadits Ibnu Juraij lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2131</td></tr><tr><td>Arabic No</td><td>2131</td></tr><tr><td>Reference</td><td>Book 12 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Са‘ид ибн аль-Мусайяб передаёт от одного человека из числа ансаров (Ибн Абу ас-Сарийй сказал: одного из сподвижников Пророка ﷺ, но не говорил: из ансаров) по имени Басра: «Я женился на девственнице, которая была в своих одеждах, а когда вошёл к ней, обнаружил, что она беременна. Пророк ﷺ сказал: “Ей полагается брачный дар за то, что ты сделал дозволенным для себя её лоно, её ребёнок твой раб, а когда она родит, подвергни (или: подвергните) её бичеванию (или: наказанию)”». Абу Дауд сказал: «Катада приводит этот хадис от Саида ибн Язида от Ибн аль-Мусайяба, и его приводит Яхья ибн Абу Касир от Язида ибн Нуайма от Саида ибн аль-Мусайяба, и его приводит Ата аль-Хурасани от Саида ибн аль-Мусайяба. И все они передают его без упоминания первого передатчика (мурсаль). В хадисе Яхьи ибн Абу Касира говорится, что Басра ибн Аксам женился на женщине… И все они сказали в его хадисе: «Он сделал ребёнка своим рабом»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2131</td></tr><tr><td>Arabic No</td><td>2131</td></tr><tr><td>Reference</td><td>Book 12 Hadith 86</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:That he heard the Prophet, after raising his head from the bo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibn Umar] ia mendengar nabi shallallahu 'alaihi wasallam berdoa ketika shalat fajar dan ketika mengangkat kepalanya dari rukuk: 'ALLAAHUMMA RABBANAA WALAKAL HAMDU (Ya Allah rabb kami, bagi-Mu segala puji) ', itu beliau ucapkan pada rukuk terakhir. Kemudian beliau berdoa: 'ALLAAHUMMA IL 'AN FULAANAN WAFULAANAN (Ya Allah, laknatlah si A dan si B) '. Lantas Allah menurunkan ayat: '(Sama sekali engkau tidak mempunyai wewenang terhadap urusan mereka itu, Allah mengampuni mereka atau menyiksa mereka, sebab mereka adalah orang-orang yang zhalim) ' (Qs. Ali'Imran:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7346</td></tr><tr><td>Arabic No</td><td>7346</td></tr><tr><td>Reference</td><td>Book 96 Hadith 74</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Умара, да будет доволен Аллах им и его отцом, что он слышал, как Посланник Аллаха ﷺ подняв голову после совершения поясного поклона в последнем рака‘ате утреннего намаза, сказал: «О Аллах, Господь наш, хвала Тебе!» — а затем произнёс: «О Аллах! Прокляни такого-то и такого-то!» И Аллах ниспослал откровение: «Ты не принимаешь никакого решения. Аллах же либо примет их покаяния, либо накажет их, ведь они являются беззаконниками». (Сура «Али Имран», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7346</td></tr><tr><td>Arabic No</td><td>7346</td></tr><tr><td>Reference</td><td>Book 96 Hadith 74</td></tr></tbody></table></div>
 

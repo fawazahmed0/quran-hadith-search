@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira: I went to Allah's Messenger (ﷺ) while he was at Khaibar 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami [Az Zuhriy] berkata telah bercerita kepadaku ['Anbasah bin Sa'id] dari [Abu Hurairah radliallahu 'anhu] berkata: "Aku menemui Rasulullah shallallahu 'alaihi wasallam saat Beliau berada di Khaibar setelah Kaum Muslimin menaklukannya. Aku berkata: 'Wahai Rasulullah, berilah aku bagian ghanimah". Lalu sebagian Bani Said bin Ash berkata: "Wahai Rasululloh, janganlah engkau beri bagian kepadanya". Lalu Abu Hurairah berkata: "Orang ini adalah pembunuh Ibnu Qouqol". Lalu Ibnu Sa'id bin Al 'Ash berkata: "Mengherankan sekali orang ini, tupai yang turun kepada kami dari Qodum Dho'ni (nama gunung tempat asal Abu Hurairah), mencelaku (menuduhku) atas terbunuhnya seorang muslim yang dimuliakan oleh Allah karena aku, sedangkan Dia tidak menghinakan aku di hadapannya (terbunuh sebagai seorang kafir) ". Ia (perawi) berkata: "Aku tidak tahu apakah ia diberi bagian atau tidak. [Sufyan] berkata [As-Sa'idiy] bercerita kepadaku dari [kakeknya] dari [Abu Hurairah] berkata: Abu 'Abdullah as-Sa'idiy adalah 'Amru bin Yahya bin Sa'id bin 'Amru bin Sa'id bin Al 'Ash
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2827</td></tr><tr><td>Arabic No</td><td>2827</td></tr><tr><td>Reference</td><td>Book 56 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Я пришёл к находившемуся в Хайбаре Посланнику Аллаха ﷺ после того как (мусульмане) завоевали его, и сказал: “О Посланник Аллаха, выдели мне долю (земли”. Услышав мои слова,) один из сыновей Са‘ида бин аль-‘Аса сказал: “О Посланник Аллаха, ничего не выделяй ему!” Абу Хурайра сказал: “Это же убийца Ибн Каукаля!” (На это) сын Са‘ида бин аль-‘Аса сказал: “Странно, что это животное, спустившееся к нам с горы Кадум, напоминает мне об убийстве мусульманина, которого Аллах почтил моими руками, не унизив меня его руками!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2827</td></tr><tr><td>Arabic No</td><td>2827</td></tr><tr><td>Reference</td><td>Book 56 Hadith 43</td></tr></tbody></table></div>
 

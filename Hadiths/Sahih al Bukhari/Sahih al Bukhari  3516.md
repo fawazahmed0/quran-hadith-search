@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Bakra:Al-Aqra' bin Habis said to the Prophet (ﷺ) "Nobody gave you
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Basysyar] telah bercerita kepada kami [Ghundar] telah bercerita kepada kami [Syu'bah] dari [Muhammad bin Abu Ya'qub] berkata, aku mendengar ['Abdur Rahman bin Abu Bakrah] dari [bapaknya] bahwa Al Aqra' bin Habis berkata kepada Nabi shallallahu 'alaihi wasallam; "Sesungguhnya orang-orang yang biasa mencuri perbekalan jama'ah hajji telah berbaiat kepada baginda, baik dari suku Aslam, Ghifar, Muzainah. (Syu'bah) berkata; "Aku kira dia juga berkata suku Juhainah, dalam hal ini Ibnu Abi Ya'qub ragu. Lalu Nabi shallallahu 'alaihi wasallam bersabda: "Bagaimana pendapatmu jika (ada yang beranggapan) bahwa suku Aslam, Ghifar, Muzainah., aku kira perawi (Ibnu Abu Ya'qub) juga menyebut Juhainah, lebih baik dari Bani Tamim, Bani 'Amir, Bani Asad, Bani Ghathafan?". (Ada yang mengatakan); "Mereka itu celaka dan rugi".Maka beliau bersabda: "Memang benar. Demi Dzat yang jiwaku berada ditangan-Nya, sungguh mereka lebih baik dari mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3516</td></tr><tr><td>Arabic No</td><td>3516</td></tr><tr><td>Reference</td><td>Book 61 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Бакры, что аль-Акра‘ ибн Хабис сказал Пророку ﷺ: «Никто не давал тебе клятву верности, кроме тех, кто грабил паломников из племен аслям, гифар, музаина». (Ибн абу Я‘куб добавил: «Думаю, что он также упомянул джухейна). Пророк ﷺ сказал: «Как думаешь племена аслям, гифар, музаина (и думаю, что он также упомянул джухайна) лучше, чем племена бану тамим, бану ‘амир, асад и гатафан? Они потерпели неудачу и убыток?» Аль-Акра’ сказал: «Да». Тогда Пророк ﷺ сказал: «Клянусь Тем, в Чьих Руках моя жизнь, они (т. е. первые) лучше них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3516</td></tr><tr><td>Arabic No</td><td>3516</td></tr><tr><td>Reference</td><td>Book 61 Hadith 26</td></tr></tbody></table></div>
 

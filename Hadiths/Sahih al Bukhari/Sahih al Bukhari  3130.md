@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:'Uthman did not join the Badr battle because he was married t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Musa] telah bercerita kepada kami [Abu 'Awanah] telah bercerita kepada kami ['Utsman bin Mawhab] dari [Ibnu 'Umar radliallahu 'anhuma] berkata; "Sesungguhnya alasan tidak ikut sertanya 'Utsman dalam perang Badar karena dia sedang menunggui putri Rasulullah Shallallahu'alaiwasallam yang sedang sakit. Nabi Shallallahu'alaihiwasallam berkata kepadanya: "Kamu mendapatkan pahala seperti orang yang ikut terlibat dalam perang Badar dan hak bagiannya (ghanimah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3130</td></tr><tr><td>Arabic No</td><td>3130</td></tr><tr><td>Reference</td><td>Book 57 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «‘Усман отсутствовал (во время битвы при) Бадре по причине того, что (в то время) он был женат на дочери Посланника Аллаха ﷺ, которая тогда была больна, и Пророк ﷺ сказал ему: “Поистине, тебе достанется такая же награда и такая же доля, как и любому из тех, кто примет участие в битве при Бадре”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3130</td></tr><tr><td>Arabic No</td><td>3130</td></tr><tr><td>Reference</td><td>Book 57 Hadith 39</td></tr></tbody></table></div>
 

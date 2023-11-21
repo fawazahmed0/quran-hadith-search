@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sahl bin Sa'd:Allah's Messenger (ﷺ) said, "Seventy thousand or seven 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami ['Abdul 'Aziz] dari [Abu Hazim] dari [Sahal bin Sa'd] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh dari umatku ada tujuh puluh ribu atau tujuh ratus ribu -Abu Hazim tak tahu kepastian diantara keduanya- dengan berhimpitan, sebagian menggandeng yang lain, yang pertama-tama mereka tidak masuk hingga yang terakhir masuk, wajah mereka bagaikan rembulan di malam purnama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6554</td></tr><tr><td>Arabic No</td><td>6554</td></tr><tr><td>Reference</td><td>Book 81 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Сахля ибн Са‘да, что Посланник Аллаха ﷺ сказал: «Войдёт в Рай из моей общины семьдесят тысяч (или семьсот тысяч), держась друг за друга, и не войдут первые из них, пока не войдут последние. Их лица будут подобны луне в ночь полнолуния»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6554</td></tr><tr><td>Arabic No</td><td>6554</td></tr><tr><td>Reference</td><td>Book 81 Hadith 143</td></tr></tbody></table></div>
 

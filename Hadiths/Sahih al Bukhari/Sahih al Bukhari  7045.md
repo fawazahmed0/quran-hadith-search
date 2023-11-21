@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:I heard Allah's Messenger (ﷺ) saying, "If anyone 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Hamzah] telah menceritakan kepadaku [Ibnu Abi Hazim] dan [Darawardi] dari [Yazid bin 'Abdullah bin Usamah bin Hadi Al Laitsi] dari [Abdullah bin Khabbab] dari [Abu Sa'id Al Khudzri], bahwasanya ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang diantara kalian bermimpi yang disukainya, maka itu berasal dari Allah, maka hendaklah ia memuji Allah karenanya, dan hendaklah menceritakannya, sebaliknya jika bermimpi selainnya ynag tidak disukainya, hanyasanya yang demikian itu berasal dari setan, maka hendaklah ia meminta perlindungan dari kejahatannya, dan jangan menceritakannya kepada seorang pun, sebab tidak akan membahayakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7045</td></tr><tr><td>Arabic No</td><td>7045</td></tr><tr><td>Reference</td><td>Book 91 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ид аль-Худри, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ сказал: «Если кто-нибудь из вас видит такие сны, которые ему нравятся, (это значит, что) они (приходят) только от Аллаха, так пусть же он воздаёт Аллаху хвалу за такие сны и пусть рассказывает их. Если же он видит нечто иное, что ему не нравится, то это — только от шайтана, пусть же он обращается за защитой к Аллаху от зла этого и никому не рассказывает (таких снов), и тогда это ему не повредит»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7045</td></tr><tr><td>Arabic No</td><td>7045</td></tr><tr><td>Reference</td><td>Book 91 Hadith 59</td></tr></tbody></table></div>
 

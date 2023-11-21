@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "Healing is in three things: cupping
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim] telah mengabarkan kepada kami [Suraij bin Yunus Abu Al Harits] telah menceritakan kepada kami [Marwan bin Suja'] dari [Salim Al Afthas] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Terapi pengobatan itu ada tiga cara, yaitu; berbekam, minum madu dan kay (menempelkan besi panas pada daerah yang terluka), sedangkan aku melarang ummatku berobat dengan kay
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5681</td></tr><tr><td>Arabic No</td><td>5681</td></tr><tr><td>Reference</td><td>Book 76 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что Пророк ﷺ сказал: «Исцеление (приносят) три (вещи): насечки лезвия (при кровопускании), глоток мёда и прижигание огнём, однако я запрещаю (членам) моей общины (делать) прижигания»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5681</td></tr><tr><td>Arabic No</td><td>5681</td></tr><tr><td>Reference</td><td>Book 76 Hadith 4</td></tr></tbody></table></div>
 

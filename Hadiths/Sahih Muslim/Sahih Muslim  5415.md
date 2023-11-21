@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Qatada reported:I heard Abe 'Uthman al-Nahdi as saying: There came to us a lette
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar] dan lafazh ini milik Ibnu Al Mutsanna keduanya berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] ia berkata; Aku mendengar [Abu Utsman An Nahdi] berkata; "Ketika kami sedang bersama Uthbah bin Farqad di Azerbeijan atau di Syam, tiba-tiba datang kepada kami surat dari [Umar] yang berisi sebagai berikut; Amma Ba'du, Sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang memakai sutera, kecuali hanya seukuran dua jari ini. Abu Utsman berkata; Maka kami pun memerlukan waktu sekian lama untuk mengerti bahwa maksudnya adalah sebagian kecil kain sutera. Dan telah menceritakan kepada kami [Abu Ghassan Al Misma'i] dan [Muhammad bin Al Mutsanna] ia berkata; Telah menceritakan kepada kami [Mu'adz]; yaitu Ibnu Hisyam; Telah menceritakan kepadaku [Bapakku] dari [Qatadah] melalui sanad ini dengan Hadits yang serupa, namun tidak menyebutkan perkataan Abu Utsman
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5415</td></tr><tr><td>Arabic No</td><td>2069.07</td></tr><tr><td>Reference</td><td>Book 37 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5415</td></tr><tr><td>Arabic No</td><td>2069.07</td></tr><tr><td>Reference</td><td>Book 37 Hadith 30</td></tr></tbody></table></div>
 

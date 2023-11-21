@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "While a man was walking on a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepadaku [Malik] dari [Sumayya] bekas budak Abu Bakr, dari [Abu Shalih As Samman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada suatu ketika ada seorang laki-laki sedang berjalan melalui suatu jalan, lalu dia merasa sangat kehausan. Kebetulan dia menemukan sebuah sumur, maka dia turun ke sumur itu untuk minum. Setelah keluar dari sumur, dia melihat seekor anjing menjulurkan lidahnya menjilat-jilat tanah karena kehausan. Orang itu berkata dalam hatinya; 'Alangkah hausnya anjing itu, seperti yang baru ku alami.' Lalu dia turun kembali ke sumur, kemudian dia menciduk air dengan sepatunya, dibawanya ke atas dan diminumkannya kepada anjing itu. Maka Allah berterima kasih kepada orang itu (diterima-Nya amalnya) dan diampuni-Nya dosanya.' Para sahabat bertanya; 'Ya, Rasulullah! Dapat pahalakah kami bila menyayangi hewan-hewan ini? ' Jawab beliau: 'Ya, setiap menyayangi makhluk hidup adalah berpahala
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6009</td></tr><tr><td>Arabic No</td><td>6009</td></tr><tr><td>Reference</td><td>Book 78 Hadith 40</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Как-то раз одного человека, шедшего (своей дорогой), стала мучить сильная жажда, и он обнаружил (по пути) колодец. Он спустился в него и напился оттуда, а когда выбрался наружу, увидел перед собой собаку, которая высунула язык и облизывала от жажды влажную землю. (При виде этого) человек сказал себе: “Эта собака испытывает такую же жажду, которую испытывал я”. После чего он спустился в колодец, наполнил водой свой кожаный носок, взял его в зубы и напоил собаку. Аллах отблагодарил его (за это) и простил ему (грехи)». (Люди) спросили: «О Посланник Аллаха, разве нам полагается награда и за животных?» — на что он ответил: «Награда полагается за каждого обладателя влажной печени (за всё живое)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6009</td></tr><tr><td>Arabic No</td><td>6009</td></tr><tr><td>Reference</td><td>Book 78 Hadith 40</td></tr></tbody></table></div>
 

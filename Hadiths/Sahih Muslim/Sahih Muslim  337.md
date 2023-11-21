@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Khalid al-Ahmar] dari [Hisyam] dari [Ibnu Sirin] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berkeinginan untuk kebaikan namun belum melakukannya maka dicatatlah untuknya sebagai satu kebaikan, dan barangsiapa berkeinginan untuk suatu kebaikan lalu melakukannya maka dicatatlah untuknya sebagai sepuluh kebaikan hingga tujuh ratus kali lipat. Dan barangsiapa berkeinginan untuk kejelekan namun belum mengerjakannya, maka tidak dicatat sebagai dosa, namun jika dia mengamalkannya maka ditulislah sebagai satu dosa untuknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>337</td></tr><tr><td>Arabic No</td><td>130</td></tr><tr><td>Reference</td><td>Book 1 Hadith 244</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Тому, кто вознамерится совершить благодеяние, но не совершит его, будет записано (одно) благодеяние. Тому же кто, вознамерится совершить благодеяние и совершит его, будет записано от десяти благодеяний до семисот. Тому, кто вознамерится совершить злодеяние, но не совершит его, оно записано не будет. Если же он совершит его, то оно будет записано»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>337</td></tr><tr><td>Arabic No</td><td>130</td></tr><tr><td>Reference</td><td>Book 1 Hadith 244</td></tr></tbody></table></div>
 

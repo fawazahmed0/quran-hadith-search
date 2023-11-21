@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zaid bin Aslam that his father said:"I saw 'Umar bin Al-Khattab kissing
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Sinan] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Warqa'] telah mengabarkan kepada kami [Zaid bin Aslam] dari [bapaknya] berkata; Aku melihat ['Umar bin Al Khaththob radliallahu 'anhu] mencium Al Hajar Al Aswad lalu berkata: "Kalau bukan karena aku melihat Rasulullah Shallallahu'alaihiwasallam menciummu tentu aku tidak akan menciummu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1610</td></tr><tr><td>Arabic No</td><td>1610</td></tr><tr><td>Reference</td><td>Book 25 Hadith 96</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зейд ибн Аслям передал, что его отец сказал: «Я видел, как ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, поцеловал Чёрный камень, сказав: “Если бы я не видел, как Посланник Аллаха ﷺ целовал тебя, я не стал бы целовать тебя!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1610</td></tr><tr><td>Arabic No</td><td>1610</td></tr><tr><td>Reference</td><td>Book 25 Hadith 96</td></tr></tbody></table></div>
 

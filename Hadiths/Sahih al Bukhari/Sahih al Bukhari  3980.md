@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) stood at the well of Badr (which contained 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3980</td></tr><tr><td>Arabic No</td><td>3980</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ встал над колодцем в Бадре и сказал: “(Теперь) вы поняли, что обещанное Господом вашим — истина?” Затем он сказал: “Поистине, сейчас они слышат то, что я говорю”. Когда эти слова дошли до ‘Аиши, она сказала: “Пророк ﷺ лишь сказал: “Поистине теперь они уже убедились в истинности того, что я говорил”. Затем она прочитала: “Воистину, ты не заставишь слышать мертвецов…” (сура “ан-Намль”, 80) до конца аята»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3980</td></tr><tr><td>Arabic No</td><td>3980</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

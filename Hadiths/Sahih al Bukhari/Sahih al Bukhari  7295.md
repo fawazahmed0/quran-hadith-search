@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:A man said, "O Allah's Prophet! Who is my father?" The P
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahim] Telah mengabarkan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Syu'bah] telah mengabarkan kepadaku [Musa bin Anas] berkata, "Aku mendengar [Anas bin Malik] berkata, "Seseorang bertanya 'Wahai nabiyullah, siapa ayahku?" Rasul menjawab: "Ayahmu si A." Lantas turunlah ayat: '(Wahai orang-orang yang beriman, janganlah kalian bertanya tentang sesuatu…). (Qs. Al Maidah:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7295</td></tr><tr><td>Arabic No</td><td>7295</td></tr><tr><td>Reference</td><td>Book 96 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Однажды один человек сказал: “О пророк Аллаха, кто мой отец?” Пророк ﷺ ответил: “Твой отец — такой-то”. А затем был ниспослан аят: “Не спрашивайте о вещах, которые огорчат вас, если станут вам известны” (сура “аль-Маида”, 101 аят)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7295</td></tr><tr><td>Arabic No</td><td>7295</td></tr><tr><td>Reference</td><td>Book 96 Hadith 26</td></tr></tbody></table></div>
 

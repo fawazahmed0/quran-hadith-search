@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Imran bin Husain:A man said, "O Allah's Messenger (ﷺ)! Can the peopl
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Yazid Ar Risyk] menuturkan; aku mendengar [Mutharrif bin Abdullah bin Syikhkhir] menceritakan dari [Imran bin Hushain] menuturkan; ada seorang laki-laki mengatakan; 'Wahai Rasulullah, apakah penghuni surga dan penghuni neraka telah diketahui? ' 'Iya' jawab Nabi shallallahu 'alaihi wasallam. Orang tadi bertanya lagi; 'lantas apa gunanya orang beramal? ' Nabi menjawab; "setiap orang mengamalkan sesuai dengan kehendak penciptannya, -atau- kepada yang dimudahkan baginya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6596</td></tr><tr><td>Arabic No</td><td>6596</td></tr><tr><td>Reference</td><td>Book 82 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Имран бин Хусайн, да будет доволен им Аллах, сказал: «Один человек спросил: “О Посланник Аллаха, можно ли отличить обитателей рая от обитателей огня?” (Пророк ﷺ) сказал: “Да”. (Человек) спросил: “Так ради чего же (люди стараются) делать (добрые дела)?” (Пророк ﷺ) ответил: “Каждый будет делать то, ради чего он создан (или: то, что было для него облегчено)”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6596</td></tr><tr><td>Arabic No</td><td>6596</td></tr><tr><td>Reference</td><td>Book 82 Hadith 3</td></tr></tbody></table></div>
 

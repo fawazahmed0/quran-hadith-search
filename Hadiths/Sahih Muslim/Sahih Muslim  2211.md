@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sha'bi reported that the Messenger of Allah (ﷺ) observed prayer over a grave a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hasan bin Rabi'] dan [Muhammad bin Abdullah bin Numair] keduanya berkata, telah menceritakan kepada kami [Abdullah bin Idris] dari [Asy Syaiban] dari [Asy Sya'bi] bahwa Rasulullah shallallahu 'alaihi wasallam pernah menshalatkan jenazah di atas kuburan setelah dikebumikannya mayit. Beliau bertakbir atasnya empat kali. [Asy Syaibani] berkata; Saya bertanya kepada [Asy Sya'bi], "Siapa yang menceritakanmu hadits ini?" ia menjawab, "Yaitu seorang yang tsiqqah (terpercaya), [Abdullah bin Abbas]. Dan ini adalah lafazh haditsnya Hasan." Dan dalam riwayat Ibnu Numair ia berkata; Rasulullah shallallahu 'alaihi wasallam sampai pada kuburan yang masih lembab, maka beliau pun menshalatinya, kemudian para sahabat berbaris di belakangnya. Lalu beliau bertakbir empat kali. Saya bertanya kepada [Amir], "Siapa yang menceritakan hadits ini kepadamu?" ia menjawab, "Dari seorang yang terpercaya yaitu [Ibnu Abbas]." Dan Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Husyaim] -dalam jalur lain- Dan telah menceritakan kepada kami [Hasan bin Rabi'] dan [Abu Kamil] keduanya berkata, telah menceritakan kepada kami [Abdul Wahid bin Ziyad] -dalam jalur lain- Telah menceritakan kepada kami [Abdul Wahid bin Ziyad] -dalam jalur lain- Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] -dalam jalur lain- Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Sufyan] -dalam jalur lain- Dan telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [bapakku] -dalam jalur lain- Dan telah menceritakan kepada kami [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Muhammad bin Ja'far] ia berkata, telah menceritakan kepada kami [Syu'bah] semuanya dari [Asy Syaibani] dari [Asy Sya'bi] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam dengan hadits semisalnya. Dan di antara hadits mereka itu, tidak ada satu pun yang menyatakan; Bahwa Nabi shallallahu 'alaihi wasallam bertakbir atasnya empat kali. Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan [Harun bin Abdullah] semuanya dari [Wahb bin Jarir] dari [Syu'bah] dari [Isma'il bin Abu Khalid] -dalam jalur lain- Dan telah menceritakan kepadaku [Abu Ghassan Muhammad bin Amr Ar Razi] telah menceritakan kepada kami [Yahya bin Adl Dlurais] telah menceritakan kepada kami [Ibrahim bin Thahman] dari [Abu Hashin] keduanya dari [Asy Sya'bi] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, mengenai shalat (jenazah) di kuburan, sebagaimana hadits Asy Syaibani, namun di dalam hadits mereka tidak tercantum; "Beliau bertakbir sebanyak empat kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2211</td></tr><tr><td>Arabic No</td><td>954.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 89</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Аш-Ша’би, что Посланник Аллаха ﷺ совершил молитву (заупокойную) молитву над могилой после того, как (покойник) был захоронен. И он произнёс (во время молитвы) четыре такбира.Аш-Шейбани сказал: «Я спросил аш-Ша’би: “Кто тебе это рассказал?”, он ответил: “Надёжный (рассказчик) ‘Абдуллах ибн ‘Аббас”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2211</td></tr><tr><td>Arabic No</td><td>954.01</td></tr><tr><td>Reference</td><td>Book 11 Hadith 89</td></tr></tbody></table></div>
 

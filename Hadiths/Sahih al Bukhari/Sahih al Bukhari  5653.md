@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:I heard Allah's Messenger (ﷺ) saying, "Allah said, 'If
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] telah menceritakan kepada kami [Al Laits] dia berkata; telah menceritakan kepadaku [Ibnu Al Hadi] dari ['Amru] bekas budak Al Mutthalib, dari [Anas bin Malik] radliallahu 'anhu dia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Allah berfirman; "Apabila Aku menguji hamba-Ku dengan penyakit pada kedua matanya, kemudian ia mampu bersabar, maka Aku akan menggantinya dengan surga." maksud (habibataihi) adalah kedua matanya. Hadits ini juga diperkuat oleh riwayat [Asy'ats bin Jabir] dan [Abu Dzilal bin Hilal] dari [Anas] dari Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5653</td></tr><tr><td>Arabic No</td><td>5653</td></tr><tr><td>Reference</td><td>Book 75 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что он слышал, как Пророк ﷺ сказал: «Поистине, Аллах сказал: “Если подвергну Я испытанию раба Моего(, лишив его) двух его любимых, а он станет проявлять терпение, то возмещением ему от Меня послужит рай”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5653</td></tr><tr><td>Arabic No</td><td>5653</td></tr><tr><td>Reference</td><td>Book 75 Hadith 13</td></tr></tbody></table></div>
 

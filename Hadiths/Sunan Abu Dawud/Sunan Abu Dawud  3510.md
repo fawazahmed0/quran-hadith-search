@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: A man bought a slave, and he remained with him a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Marwan] telah menceritakan kepada kami [Bapakku] dari [Muslim bin Khalid Az Zanji] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] radliallahu 'anhuma, bahwa seorang laki-laki membeli seorang budak kemudian budak tersebut tinggal bersamanya selama yang Allah kehendaki. Laki-laki itu kemudian mendapatkan aib pada budak tersebut. Beliau kemudian mengembalikan budak tersebut kepada orang yang penjualnya sehingga ia pun berkata, "Wahai Rasulullah, ia telah mengambil manfaat dari budakku!" Rasulullah shallallahu 'alaihi wasallam bersabda: "Pemanfaatan barang itu berbalas penjaminan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3510</td></tr><tr><td>Arabic No</td><td>3510</td></tr><tr><td>Reference</td><td>Book 24 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что один человек купил раба и тот пробыл у него столько, сколько пожелал Аллах, а затем он обнаружил в нём изъян и обратился к Пророку ﷺ и тот велел ему вернуть раба тому, у кого он купил его. Продавец сказал: «Но, Посланник Аллаха, он уже использовал моего раба!» Тогда Посланник Аллаха ﷺ сказал: «Выгода /харадж/ достаётся тому, кто возмещает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3510</td></tr><tr><td>Arabic No</td><td>3510</td></tr><tr><td>Reference</td><td>Book 24 Hadith 95</td></tr></tbody></table></div>
 

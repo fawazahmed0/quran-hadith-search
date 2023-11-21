@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:Allah's Messenger (ﷺ) ordered for a horse race; t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar], bahwa Rasulullah shallallahu 'alaihi wasallam pernah mempertandingkan antara kudan yang dipersiapkan untuk pacuan yang jaraknya dimulai dari Al Hafya' sampai Tsaniyatul Wada', dan kuda yang tidak disiapkanuntuk pacuan yang dimulai dari Al Hafya' hingga Masjid Bani Zuraiq." 'Abdullah bin 'Umar adalah termasuk orang yang mengikuti pacuan tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>420</td></tr><tr><td>Arabic No</td><td>420</td></tr><tr><td>Reference</td><td>Book 8 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах ими обоими, что(однажды) Посланник Аллаха ﷺ (велел устроить) скачки на подготовленных лошадях от аль-Хафйи до Санийат аль-вада‘, а также на неподготовленных — от этого же перевала до мечети бану зурайкъ
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>420</td></tr><tr><td>Arabic No</td><td>420</td></tr><tr><td>Reference</td><td>Book 8 Hadith 70</td></tr></tbody></table></div>
 

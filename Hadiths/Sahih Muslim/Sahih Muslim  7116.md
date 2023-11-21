@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:None amongst you can get.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Abu Abbad Yahya bin Abbad] telah menceritakan kepada kami [Ibrahim bin Sa'ad] telah menceritakan kepada kami [Ibnu Syihab] dari [Abu 'Ubaid] budak Abdurrahman bin Auf, dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Tidak ada seorang pun yang dimasukkan surga oleh amalnya." Dikatakan: Tidak juga Tuan, wahai Rasulullah? beliau menjawab: "Tidak juga aku, kecuali bila Rabbmu melimpahkan karunia dan rahmat padaku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7116</td></tr><tr><td>Arabic No</td><td>2816.06</td></tr><tr><td>Reference</td><td>Book 52 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7116</td></tr><tr><td>Arabic No</td><td>2816.06</td></tr><tr><td>Reference</td><td>Book 52 Hadith 69</td></tr></tbody></table></div>
 

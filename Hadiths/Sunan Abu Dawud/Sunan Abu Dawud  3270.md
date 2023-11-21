@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd al-Rahman b. Abi Bakr:Some guests visited us, and Abu Bakr was con
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muammal bin Hisyam], telah menceritakan kepada kami [Isma'il] dari [Al Jurairi], dan [Abu Utsman] atau dari [Abu As Salil], dari [Abdurrahman bin Abu Bakr], ia berkata; terdapat beberapa tamu yang singgah pada kami. Ia berkata; dan Abu Bakr sedang berbicara di rumah Rasulullah shallallahu 'alaihi wasallam pada malam tersebut. Ia berkata; sungguh aku tidak akan pulang hingga engkau selesai dari menjamu mereka dan memberi makan mereka. Para tamu tersebut berkata; kami tidak akan memakannya hingga Abu Bakr datang. Kemudian Abu Bakr bertanya kepada keluarganya; apa yang dilakukan para tamu kalian? Apakah kalian selesai dari memberi makan mereka? Mereka berkata; tidak. Aku katakan; aku telah datang kepada mereka dengan membawa makan untuk mereka. Kemudian mereka menolak dan berkata; demi Allah kami tidak akan memakannya hingga ia datang. Kemudian para tamu tersebut berkata; benar, ia telah datang kepada kami dengan membawanya kepada kami. Lalu kami menolak hingga engkau datang. Abu Bakr berkata; apa yang menghalangimuuntuk memakannya? Mereka berkata; kedudukannmu. Abu Bakr berkata; demi Allah aku tidak akan memakannya malam ini sama sekali. Kemudian mereka berkata; dan kami, demi Allah, tidak akan memakannya hingga engkau memakannya. Dekatkan makanan kalian. Abdurrahman berkata; kemudian ia mendekatkan makanan mereka dan berkata; bismillah. Lalu ia makan dan merekapun makan. Lalu aku diberitahu bahwa Abu Bakr pada pagi harinya pergi kepada Rasulullah shallallahu 'alaihi wasallam dan mengabarkan kepada beliau apa yang telah ia perbuat dan apa yang mereka perbuat. Beliau berkata: "Bahkan engkau adalah orang yang terbaik diantara mereka dan paling benar." Telah menceritakan kepada kami [Ibnu Al Mutsanna], telah menceritakan kepada kami [Salim bin Nuh] serta [Abdul A'la] dari [Al Jurairi], dari [Abu Utsman] dari [Abdurrahman bin Abu Bakr] dengan hadits ini seperti itu. Ia tambahkan dari Salim dalam haditsnya ia berkata; dan tidak sampai kepadaku kafarah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6140) Sahih Muslim (2057)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3270</td></tr><tr><td>Arabic No</td><td>3270</td></tr><tr><td>Reference</td><td>Book 22 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Абу Хурайра, да будет доволен им Аллах, рассказывал, что однажды к Посланнику Аллаха ﷺ пришёл человек, который сказал: «Поистине, сегодня ночью я видел во сне…» И он рассказал ему свой сон, и Абу Бакр истолковал его. Пророк ﷺ сказал: «В чём-то ты был прав, а в чём-то ошибся». Абу Бакр сказал: «Заклинаю тебя, ты должен сказать мне, в чём я ошибся!» Пророк ﷺ сказал: «Не заклинай»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6140) Sahih Muslim (2057)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3270</td></tr><tr><td>Arabic No</td><td>3270</td></tr><tr><td>Reference</td><td>Book 22 Hadith 29</td></tr></tbody></table></div>
 

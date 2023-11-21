@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu al-Rahman b. Yazid said:I and my uncle 'Alqama and al-Aswad went to 'Abdulla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Umarah bin Umair] dari [Abdurrahman bin Yazid] dari [Abdullah] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai para pemuda, siapa di antara kalian yang telah memperoleh kemampuan menghidupi kerumahtanggaan, kawinlah. Karena sesungguhnya, perhikahan itu lebih mampu menahan pandangan mata dan menjaga kemaluan. Dan, barangsiapa belum mampu melaksanakannya, hendaklah ia berpuasa karena puasa itu akan meredakan gejolak hasrat seksual." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Umarah bin Umair] dari [Abdurrahman bin Yazid] ia berkata; Aku bersama pamanku Alqamah pernah masuk menemui [Abdullah bin Mas'ud], yang pada saat itu aku adalah seorang pemuda. Maka ia pun menyebutkan suatu hadits yang menurutku, ia menuturkan hadits karena karena melihatku sebagai seorang pemuda. Ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda. Yakni sebagaimana haditsnya Abu Mu'awiyah. Dan menambahkan; "Maka tidak lama kemudian aku menikah." Telah menceritakan kepadaku [Abdullah bin Sa'id Al Asyajj] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Al A'masy] dari [Umarah bin Umair] dari [Abdurrahman bin Yazid] dari [Abdullah]; "Kami pernah menemuinya dan pada saat itu aku adalah yang paling muda usianya (belum menikah)." Yakni serupa dengan hadits mereka. Namun ia tidak menyebutkan; "Maka tidak lama kemudian aku menikah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3401</td></tr><tr><td>Arabic No</td><td>1400.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3401</td></tr><tr><td>Arabic No</td><td>1400.04</td></tr><tr><td>Reference</td><td>Book 16 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Wail:Somebody said to Usama, "Will you go to so-and-so (i.e. 'Uthma
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami ['Ali] telah bercerita kepada kami [Sufyan] dari [Al A'masy] dari [Abu Wa'il] berkata; "Dikatakan kepada [Usamah]; "Seandainya kamu temui fulan ('Utsman bin 'Affan radliallahu 'anhu) lalu kamu berbicara dengannya". Usamah berkata; "Sungguh jika kalian memandang aku tidak berbicara dengannya, selain bahkan kuperdengarkannya kepada kalian semua. Sungguh aku sudah berbicara kepadanya secara rahasia, dan aku tidak membuka suatu pembicaraan yang aku menjadi orang pertama yang membukanya. Aku juga tidak akan mengatakan kepada seseorang yang seandainya dia menjadi pemimpinklu, bahwa dia sebagai manusia yang lebih baik, setelah kudengar dari Rasulullah shallallahu 'alaihi wasallam". Mereka bertanya; "Apa yang kamu dengar dari sabda Beliau Shallallahu'alaihiwasallam ". Usamah berkata; "Aku mendengar Beliau bersabda: Pada hari qiyamat akan dihadirkan seseorang yang kemudian dia dilempar ke dalam neraka, isi perutnya keluar dan terburai hingga dia berputar-putar bagaikan seekor keledai yang berputar-putar menarik mesin gilingnya. Maka penduduk neraka berkumpul mengelilinginya seraya berkata; "Wahai fulan, apa yang terjadi denganmu?. Bukankah kamu dahulu orang yang memerintahkan kami berbuat ma'ruf dan melarang kami berbuat munkar?". Orang itu berkata; "Aku memang memerintahkan kalian agar berbuat ma'ruf tapi aku sendiri tidak melaksanakannya dan melarang kalian berbuat munkar, namun malah aku mengerjakannya". [Ghundar] meriwayatkannya dari [Syu'bah] dari [Al A'masy]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3267</td></tr><tr><td>Arabic No</td><td>3267</td></tr><tr><td>Reference</td><td>Book 59 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама ибн Зейд, да будет доволен Аллах ими обоими, сказал:\n— Я слышал, как Посланник Аллаха ﷺ сказал: «В День воскресения приведут человека, и ввергнут его в огонь, и вывалятся кишки его в огонь, и будет он крутиться (в них) подобно ослу, вращающему (жернова) мельницы, и соберутся около него оказавшиеся в Аду, которые станут говорить: “Что с тобой, о такой-то? Не побуждал ли ты нас к одобряемому и не удерживал ли от порицаемого?!” (На это) он скажет: “Да, я побуждал вас к одобряемому, но сам одобряемого не совершал, и я удерживал вас от порицаемого, а сам делал это!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3267</td></tr><tr><td>Arabic No</td><td>3267</td></tr><tr><td>Reference</td><td>Book 59 Hadith 77</td></tr></tbody></table></div>
 

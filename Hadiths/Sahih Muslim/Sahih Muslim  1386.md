@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr reported the Apostle (ﷺ) saying:The time of the noon prayer (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz Al 'Anbari] telah menceritakan kepada kami [Ayahku] telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Abu Ayyub] yang namanya adalah Yahya bin Malik Al Azadi dan dijuluki juga dengan Al Maraghi, -Maragh adalah suatu perkampungan di Azad- dari [Abdullah bin 'Amru] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Waktu shalat zhuhur selama belum tiba waktu shalat ashar, dan waktu shalat ashar selama matahari belum menguning, dan waktu shalat maghrib selama tebaran syafaq (mega merah) belum menghilang, dan waktu shalat isya' hingga tengah malam, dan waktu shalat fajar selama matahari belum terbit." Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Abu Amir Al 'Aqadi] dia berkata, (Dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Abu Bukair], keduanya dari [Syu'bah] dengan sanad ini dan dalam hadis keduanya, sesekali Syu'bah memarfu'kannya dan sesekali dia tidak memarfu'kannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1386</td></tr><tr><td>Arabic No</td><td>612.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся со слов ‘Абдуллаха ибн ‘Амра, да будет доволен им Аллах, о том, что Пророка ﷺ сказал: «Время полуденной молитвы продолжается, пока не начнётся время послеполуденной молитвы. Время послеполуденной молитвы продолжается, пока не пожелтеет солнце. Время закатной молитвы продолжается, пока не исчезнет вечерняя заря. Время вечерней молитвы продолжается до полуночи, а время утренней молитвы продолжается, пока не взойдёт солнце»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1386</td></tr><tr><td>Arabic No</td><td>612.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 220</td></tr></tbody></table></div>
 

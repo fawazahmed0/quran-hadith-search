@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas bin Malik:Al-Rubayyi', sister of Anas b. al-Nadr, broke (one of) t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Al Mu'tamir] dari [Humaid Ath Thawil] dari [Anas bin Malik] ia berkata, "Ruba' -saudara wanita Anas bin An Nadhr- memecahkan gigi seorang wanita, mereka lalu mendatangi Nabi shallallahu 'alaihi wasallam, lantas beliau memutuskan dengan kitab Allah, yakni qishas. Anas bin An Nadhr berkata, "Demi Dzat yang mengutusmu dengan kebenaran, hari ini giginya tidak akan dipecah (qishas)!" beliau bersabda: "Wahai Anas, ketentuan Kitabullah adalah qishas!" Kemudian mereka pun rela dengan mengambil diyatnya. Dengan ta'ajub Nabi shallallahu 'alaihi wasallam bersabda: "Sungguh, di antara hamba Allah ada seseorang yang jika ia bersumpah pasti akan dikabulkan." Abu Dawud berkata, "Aku mendengar Ahmad bin Hanbal ditanya, "Bagaimana mengqishas gigi?" Ia menjawab, "Dirampalkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2703)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4595</td></tr><tr><td>Arabic No</td><td>4595</td></tr><tr><td>Reference</td><td>Book 41 Hadith 102</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Если кто-то был убит неясным образом или в толпе, в которой люди бросали друг в друга камнями или били друг друга плетьми, его убийство считается неумышленным и за него должна быть выплачена компенсация /дийа/, как за неумышленное убийство. А за преднамеренное убийство полагается воздаяние равным. А кто помешал воздать убийце равным, на того ляжет проклятие Аллаха, ангелов и всех людей»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2703)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4595</td></tr><tr><td>Arabic No</td><td>4595</td></tr><tr><td>Reference</td><td>Book 41 Hadith 102</td></tr></tbody></table></div>
 

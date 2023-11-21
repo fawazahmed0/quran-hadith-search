@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Al-Barâ' Ibn 'Azib (que Dieu l'agrée), lorsque le Prophète (paix et 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim Al Hamzhali] dan [Ahmad bin Janab Al Mishishi] semuanya dari [Isa bin Yunus] sedangkan lafadznya dari Ishaq, telah mengabarkan kepada kami [Isa bin Yunus] telah mengabarkan kepada kami [Zakaria] dari [Abu Ishaq] dari [Al Barra'] dia berkata, "Ketika nabi shallallahu 'alaihi wasallam dilarang melaksanakn Haji, maka penduduk Makkah mengadakan perjanjian damai yaitu; supaya beliau masuk dan bermukim hanya tiga hari, tidak masuk (Makkah) melainkan dengan pedang yang masih diletakkan dalam sarungnya, setiap orang dari kaumnya tidak boleh keluar bersama beliau, namun sebaliknya mereka membolehkan sahabat beliau yang hendak ikut bersama mereka (tinggal di Makkah). Lantas beliau bersabda kepada Ali: "Tulislah syarat antara kami dengan mereka dengan Bismillahirrahmanirrahim, ini adalah hasil keputusan yang ditetapkan oleh Muhammad Rasulullah." Maka orang-orang Musyrik berkata kepada beliau, "Sekiranya kami mengetahui kalau kamu adalah Rasulullah, niscaya kami akan mengikutimu, akan tetapi tulislah Muhammad bin Abdullah." Lalu beliau menyuruh Ali supaya menghapusnya, namun Ali berkata, "Demi Allah, aku tidak akan menghapusnya." Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Beritahukanlah kepadaku tempat yang kamu tulis tadi." Maka Ali memberitahukan kepada beliau tempatnya, lalu beliau sendiri yang menghapusnya, dan diganti dengan Ibnu Abdullah. Beliau tinggal selama tiga hari, tatkala hari yang ke tiga, mereka (orang-orang Quraisy) berkata kepada Ali, "Ini adalah hari terakhir sebagaimana dalam syarat yang dibuat oleh saudaramu, maka suruhlah dia keluar (dari Makkah)." Lantas Ali memberitahukan kepada belau, akhirnya beliau keluar (dari Makkah)." Dan dalam riwayat Ibnu Janab disebutkan, "Niscaya kami akan mengikutimu dan berbaiat kepadamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>1783.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>1783.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 113</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Look at those who stand a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Jarir]. Telah menceritakan kepada kami [Abu Kuraib] telah menceritakan kepada kami [Abu Mu'awiyah]. Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] teks miliknya, telah menceritakan kepada kami [Abu Mu'awiyah] dan [Waki'] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Pandanglah orang yang berada dibawah kalian, jangan memandang yang ada di atas kalian, itu lebih laik membuat kalian tidak mengkufuri nikmat Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7430</td></tr><tr><td>Arabic No</td><td>2963.03</td></tr><tr><td>Reference</td><td>Book 55 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7430</td></tr><tr><td>Arabic No</td><td>2963.03</td></tr><tr><td>Reference</td><td>Book 55 Hadith 14</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated by another chain of transmitters
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari [Uqail] dari [az-Zuhri] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam minum susu, kemudian meminta air, lalu berkumur-kumur, seraya bersabda, " ia memiliki lemak." Dan telah menceritakan kepada kami [Ahmad bin Isa] telah menceritakan kepada kami [Ibnu Wahab] dan telah mengabarkan kepada kami [Amru] --lewat jalur periwayatan lain--, dan telah mengabarkan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yahya bin Sa'id] dari [al-Auza'i] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Harmalah bin Yahya] dan telah mengabarkan kepadaku [Ibnu Wahab] telah menceritakan kepada kami [Yunus] semuanya dari [Ibnu Syihab] dengan sanad Uqail dari az-Zuhari semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>799</td></tr><tr><td>Arabic No</td><td>358.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но с другим иснадом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>799</td></tr><tr><td>Arabic No</td><td>358.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 120</td></tr></tbody></table></div>
 

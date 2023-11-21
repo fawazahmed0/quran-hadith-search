@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Tufail 'Amir b. Withila reported:I was in the company of 'Ali b. Abi Talib, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] dan [Suraij bin Yunus] keduanya dari [Marwan], [Zuhair] berkata; telah menceritakan kepada kami [Marwan bin Mu'awiyah Al Fazari] telah menceritakan kepada kami [Manshur bin Hayyan] telah menceritakan kepada kami [Abu At Thufail 'Amir bin Wastilah] dia berkata, "Saya berada di samping [Ali bin Abu Thalib], tiba-tiba seorang laki-laki datang menemuinya seraya berkata, "Apakah Nabi shallallahu 'alaihi wasallam pernah menyampaikan suatu rahasia kepadamu (yang tidak diberitahukan kepada manusia)?" Abu Thufail berkata, "Ali pun marah seraya berkata, "Tidaklah Nabi shallallahu 'alaihi wasallam menyampaikan suatu rahasia kepadaku dan tidak menyampaikannya kepada manusia, kecuali bahwa beliau pernah menyampaikan empat hal kepadaku." Abu Thufail berkata, "Laki-laki tersebut bertanya, "Apakah empat perkara itu wahai Amirul Mukminin?" Abu Thufail melanjutkan, "Ali lalu menjawab, "Allah melaknat orang yang melaknat orang tuanya, melaknat orang yang menyembelih untuk selain Allah, melaknat orang yang menyembunyikan penjahat dan melaknat orang yang memindah batas tanah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>1978.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу ат-Туфайль ‘Амир ибн Вàсиля сказал: (Однажды, когда) я находился у ‘Али ибн Абу Талиба, к нему пришёл какой-то человек и спросил: «Что говорил тебе Пророк ﷺ втайне (от остальных)?» (‘Али) разгневался и сказал: «Пророк ﷺ ничего не говорил только мне, скрывая это от людей, однако он сказал мне четыре слова». (Этот человек) спросил: «Какие же, о повелитель пра­воверных?» (‘Али) сказал: «Он сказал: “Аллах проклял того, кто проклинает своего отца, и Аллах проклял того, кто приносит жертвы не Аллаху, и Аллах проклял того, кто предоставляет приют человеку, вно­сящему (в религию) нечто новое, и Аллах проклял того, кто изменяет межевые знаки”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>1978.01</td></tr><tr><td>Reference</td><td>Book 35 Hadith 60</td></tr></tbody></table></div>
 

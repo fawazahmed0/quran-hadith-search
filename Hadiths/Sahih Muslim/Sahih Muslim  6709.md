@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira narrated directly from Allah's Messenger (ﷺ) that he said:People a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Katsir bin Hisyam]; Telah menceritakan kepada kami [Ja'far bin Burqan]; Telah menceritakan kepada kami [Yazid bin Al Asham] dari [Abu Hurairah] -sebagai hadits marfu'- dia berkata; "Sesungguhnya manusia itu seperti tambang perak dan emas. Mereka yang terhormat pada masa masa jahiliah akan terhormat pula di masa lslam, jika mereka memahami (lslam). Roh-roh itu seperti prajurit yang berkelompok-kelompok, jika saling mengenal mereka akan menjadi akrab, dan jika saling bermusuhan maka mereka akan saling berselisih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6709</td></tr><tr><td>Arabic No</td><td>2638.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра, да будет доволен им Аллах, передавая слова Посланника Аллаха ﷺ сказал: «Люди являются рудниками, подобными золотым и серебряным рудникам. Те из них, что были лучшими во времена джахилийи, (остались) лучшими и в Исламе, если усвоили (установления) религии. (Что же касается) душ, то они (подобны) воинам, призванным (в войско): те из них, которые узнают друг друга, объединяются, те же, которые не узнают, противоречат друг другу»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6709</td></tr><tr><td>Arabic No</td><td>2638.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 205</td></tr></tbody></table></div>
 

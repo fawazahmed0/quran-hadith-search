@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:A man whose face was covered with an iron mask (i.e. clad in ar
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin 'Abdur Rohim] telah bercerita kepada kami [Syababah bin Sawwar Al Fazariy] telah bercerita kepada kami [Isra'il] dari [Abu Ishaq] berkata aku mendengar [Al Bara' radliallahu 'anhu] berkata; Ada seorang laki-laki bertopeng besi datang menemui Nabi shallallahu 'alaihi wasallam seraya berkata: "Apakah aku berperang atau masuk Islam lebih dulu?" Maka Beliau bersabda: "Kamu masuk Islam dulu kemudian berperang". Maka laki-laki itu masuk Islam lalu berperang hingga terbunuh. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang ini amalnya sedikit namun diberi pahala yang banyak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2808</td></tr><tr><td>Arabic No</td><td>2808</td></tr><tr><td>Reference</td><td>Book 56 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «(Однажды) к Пророку ﷺ подошёл какой-то человек, лицо которого было закрыто железной (маской), и спросил: “О Посланник Аллаха, (не следует ли мне сначала) сразиться, а потом принять ислам?” (Пророк ﷺ) сказал: “(Сначала) прими ислам, а потом сражайся.” И (этот человек) принял ислам, вступил в бой и был убит, после чего Посланник Аллаха ﷺ сказал: “Он сделал мало, а в награду получил много!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2808</td></tr><tr><td>Arabic No</td><td>2808</td></tr><tr><td>Reference</td><td>Book 56 Hadith 24</td></tr></tbody></table></div>
 

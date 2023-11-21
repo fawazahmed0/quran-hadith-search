@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Abbâs (رضي الله عنهما) a dit : Quand le Prophète arriva à M�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Amru An Naqid] dan ini adalah lafadz Yahya, Amru berkata; telah menceritakan kepada kami, dan Yahya berkata; telah mengabarkan kepada kami [Sufyan bin Uyainah] dari [Ibnu Abu Najih] dari [Abdullah bin Katsir] dari [Abu Al Minhal] dari [Ibnu Abbas] dia berkata, "Ketika Nabi shallallahu 'alaihi wasallam tiba di Madinah, penduduk Madinah menjual buah-buahan dengan pembayaran di muka, sedangkan buah-buahan yang dijualnya dijanjikan mereka dalam tempo setahun atau dua tahun kemudian. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang menjual kurma dengan berjanji, hendaklah dengan takaran tertentu, timbangan tertentu dan jangka waktu tertentu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4118</td></tr><tr><td>Arabic No</td><td>1604.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 157</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4118</td></tr><tr><td>Arabic No</td><td>1604.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 157</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah], ia berkata; telah menceritakan kepadaku [Nafi'], dari [Abdullah], ia berkata; Rasulullah shallallahu 'alaihi wasallam telah mengutus kami dalam sebuah kesatuan militer. Dan saham mereka mencapai dua belas unta. Dan Rasulullah shallallahu 'alaihi wasallam memberikan tambahan satu unta, satu unta. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Burd bin Sinan] dari [Nafi'] seperti hadits 'Ubaidullah. Dan telah diriwayatkan oleh [Ayyub] dari [Nafi'] seperti itu hanya saja ia berkata; dan kami diberi tambahan satu unta, satu unta. Dan ia tidak menyebutkan Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1749)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2745</td></tr><tr><td>Arabic No</td><td>2745</td></tr><tr><td>Reference</td><td>Book 15 Hadith 269</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1749)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2745</td></tr><tr><td>Arabic No</td><td>2745</td></tr><tr><td>Reference</td><td>Book 15 Hadith 269</td></tr></tbody></table></div>
 

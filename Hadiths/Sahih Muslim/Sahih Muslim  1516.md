@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubayy b. Ka'b reported:There was a person among the Ansar whose house was situat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abu Bakr Al Muqaddami] telah menceritakan kepada kami ['Abbad bin 'Abbad] telah menceritakan kepada kami ['Ashim] dari [Abu Utsman] dari [Ubay bin Ka'b], katanya; "Seorang laki-laki Anshar memiliki rumah yang paling jauh di Madinah, namun dirinya tidak pernah ketinggalan shalat bersama Rasulullah shallallahu 'alaihi wasallam. Ubay melanjutkan; "Kami pun merasa iba terhadapnya hingga aku berkata; "Alangkah baiknya sekiranya engkau membeli seekor keledai yang menjagamu dari sengatan panas dan serangga-serangga bumi yang membahayakan." laki-laki itu berkata; "Demi Allah, aku tidak ingin rumahku diikat dengan rumah Muhammad shallallahu 'alaihi wasallam." Ubay melanjutkan; "Akupun merasa tersinggung dengan kekasaran jawabannya, sehingga aku mendatangi Nabiyullah shallallahu 'alaihi wasallam dan aku beritahukan kepada beliau." Ubay berkata; Setelah itu beliau memanggilnya dan laki-laki itu memberi jawaban yang sama. Dia mengungkapkan, bahwa dengan langkah kakinya, dirinya sangat berharap memperoleh pahala. Maka Nabi shallallahu 'alaihi wasallam bersabda; "Bagimu apa yang engkau harapkan." Dan telah menceritakan kepada kami [Said bin 'Amru Al Asy'ats] dan [Muhammad bin Umar], keduanya dari [Ibnu Uyainah]. (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Said bin Azhar Al Wasithi] katanya; telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Ayahku], semuanya dari ['Ashim] dengan sanad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1516</td></tr><tr><td>Arabic No</td><td>663.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 349</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Убайй ибн Ка‘б сказал: «Дом одного человека из числа ансаров находился на самом краю Медины, однако он не пропускал ни одной молитвы, которую проводил Посланник Аллаха ﷺ. Мы сочувствовали (этому человеку), и (однажды) я сказал ему: “О такой-то, купил бы ты себе осла, который защитит твои (ноги) от раскалённой земли и насекомых, ползающих по земле”. (В ответ) он сказал мне: “Клянусь Аллахом, я не хотел бы, чтобы мой дом находился рядом с домом Мухаммада ﷺ”. Мне было так тяжело (слышать его слова), что я пришёл к Пророку Аллаха ﷺ и обо всём рассказал ему, после чего он позвал к себе (этого человека). Тот сказал ему нечто подобное и (объяснил, что говорит так, поскольку) надеется на получение награды за (каждый) свой шаг. (Выслушав его), Пророк ﷺ сказал ему: “Поистине, (будет) тебе то, на что ты надеялся!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1516</td></tr><tr><td>Arabic No</td><td>663.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 349</td></tr></tbody></table></div>
 

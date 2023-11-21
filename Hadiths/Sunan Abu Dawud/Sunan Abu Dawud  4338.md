@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Bakr: You people recite this verse "You who believe, care for yours
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Khalid]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Amru bin Aun] berkata, telah mengabarkan kepada kami [Husyaim] secara makna, dari [Isma'il] dari [Qais] ia berkata, "Setelah mengucapkan pujian dan mengagungkan-Nya, [Abu Bakar] berkata, "Wahai manusia sekalian, kalian telah membaca ayat ini, namun kalian tidak meletakkannya sebagaimana mestinya: '(.. jagalah dirimu; tidaklah orang yang sesat itu akan memberi madharat kepadamu apabila kamu telah mendapatkan petunjuk..) ' -Al Maidah: 105-. Wahb menyebutkan dari [Khalid], (Abu Bakar berkata;) "Kami mendengar Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang yang melihat kezhaliman kemudian tidak mencegah dengan tangannya, maka sangat dikawatirkan Allah akan menimpakan siksa kepada mereka secara merata." [Amru] menyebutkan dari [Husyaim], "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah kemaksiatan yang dilakukan pada suatu kaum, kemudian mereka mampu mencegahnya tetapi tidak mau mencegah, melainkan Allah akan meratakan siksa kepada mereka." Abu Dawud berkata; " [Abu Usamah] dan sekelompok orang juga meriwayatkannya sebagaimana yang dikatakan oleh Khalid". sedangkan Syu'bah meriwayatkan dengan lafadz di dalamnya, "Tidaklah suatu kemaksiatan dilakukan pada suatu kaum, sementara jumlah mereka lebih banyak dari orang-orang yang melakukannya (kemaksiatan), …
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4338</td></tr><tr><td>Arabic No</td><td>4338</td></tr><tr><td>Reference</td><td>Book 39 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Кайс передаёт, что однажды Абу Бакр, да будет доволен им Аллах, сказал после того, как восхвалил Аллаха и прославил Его: «Поистине, вы читаете аят: “О те, которые уверовали! Позаботьтесь о себе. Если вы последовали прямым путём, то вам не причинит вреда тот, кто впал в заблуждение”, однако вкладываете в него неправильный смысл!» Далее в версии Халида говорится: «Поистине, мы слышали, как Посланник Аллаха ﷺ сказал: “Поистине, когда люди видят притеснителя и не хватают его за руки, наказание Аллаха угрожает им всем”». А в версии от ‘Амра от Хушайма говорится: «И, поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Если среди каких-то людей есть такие, которые ослушиваются Аллаха, а остальные могут изменить это, но не делают этого, наказание Аллаха угрожает им всем”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4338</td></tr><tr><td>Arabic No</td><td>4338</td></tr><tr><td>Reference</td><td>Book 39 Hadith 48</td></tr></tbody></table></div>
 

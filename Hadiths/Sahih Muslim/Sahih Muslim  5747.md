@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdillah reported that on the day of Ahzab Ubayy received the wound of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Bisyr bin Khalid]; Telah menceritakan kepada kami [Muhammad] yaitu Ibnu Ja'far dari [Syu'bah] dia berkata; Aku mendengar [Sulaiman] berkata; Aku mendengar [Abu Sufyan] berkata; Aku mendengar [Jabir bin Abdullah] berkata; "Ubay kena panah pada urat nadinya dalam perang Ahzab. Lalu Rasulullah shallallahu 'alaihi wasallam menyundut lukanya dengan besi panas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5747</td></tr><tr><td>Arabic No</td><td>2207.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 101</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5747</td></tr><tr><td>Arabic No</td><td>2207.03</td></tr><tr><td>Reference</td><td>Book 39 Hadith 101</td></tr></tbody></table></div>
 

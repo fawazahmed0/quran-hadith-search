@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:I was the butler of the people in the house of Abu Talha, and in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdur Rahim Abu Yahya] telah mengabarkan kepada kami ['Affan] telah menceritakan kepada kami [Hammad bin Zaid] telah menceritakan kepada kami [Tsabit] dari [Anas radliallahu 'anhu]: "Aku pernah menjamu suatu kaum dengan minuman di rumah Abu Tholhah. Saat itu khamar (arak, minuman keras) mereka adalah Al Fadhikh (arak terbuat dari buah kurma). Kemudian Rasulullah shallallahu 'alaihi wasallam memerintahkan seorang penyeru untuk menyerukan bahwa khamar telah diharamkan". Anas berkata: "Maka Abu Tholhah berkata, kepadaku: "Keluar dan tumpahkanlah". Maka aku keluar lalu aku tumpahkan. Maka khamar mengalirdi jalan-jalan kota Madinah. Kemudian sebagian kaum berkata; "Telah wafat sebagian orang sedangkan di perut mereka masih ada khamar, maka Allah subhanahu wata'ala menurunkan firmanNya (QS Alu 'Imran ayat 93 yang artinya): (Tidak ada dosa bagi orang-orang yang beriman dan mengerjakan amalan yang saleh karena memakan makanan yang telah mereka makan dahulu…)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>2464</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Я поил людей (вином) в доме Абу Тальхи. В то время их вином был “аль-фадых” (вино из недозрелых фиников). Тут Посланник Аллаха ﷺ приказал глашатаю провозгласить: “Поистине, вино было запрещено!” Тогда Абу Тальха сказал мне: “Выйди и вылей его!” Я вышел и вылил его (вино), и оно потекло по улочкам Медины. Тогда некоторые люди сказали: “А ведь были люди, которые были убиты, когда оно находилось в их животах”. Тогда Аллах ниспослал аят: “На тех, которые уверовали и совершают праведные деяния, нет греха за то, чем они питались…” (сура “аль-Маида”, аят 93)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>2464</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
 

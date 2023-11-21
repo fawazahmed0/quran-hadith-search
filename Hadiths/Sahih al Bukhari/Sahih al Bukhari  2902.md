@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Abu Talha and the Prophet (ﷺ) used to shield themselve
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Al Auza'iy] dari [Ishaq bin 'Abdullah bin Abi Thalhah] dari [Anas bin Malik radliallahu 'anhu] berkata; Abu Thalhah pernah bertameng bersama Nabi shallallahu 'alaihi wasallam dalam satu perisai. Abu Thalhah adalah seorang yang ahli memanah. Apabila dia memanah, Nabi shallallahu 'alaihi wasallam memperhatikan dan melihat ke tempat sasaran anak panah itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2902</td></tr><tr><td>Arabic No</td><td>2902</td></tr><tr><td>Reference</td><td>Book 56 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас ибн Малик, да будет доволен им Аллах, сказал: «Абу Тальха прикрывался одним щитом вместе с Пророком ﷺ. Абу Тальха был хорошим лучником, и когда он метал (свои стрелы), Пророк ﷺ смотрел, куда они попадали»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2902</td></tr><tr><td>Arabic No</td><td>2902</td></tr><tr><td>Reference</td><td>Book 56 Hadith 116</td></tr></tbody></table></div>
 

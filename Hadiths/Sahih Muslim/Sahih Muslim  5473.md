@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn 'Omar (رضي الله عنهما), l'Envoyé de Dieu (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan [Muhammad bin Rumh] keduanya berkata; Telah mengabarkan kepada kami Al Laits; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepada kami [Qutaibah]; Telah menceritakan kepada kami [Laits] dari [Nafi'] dari ['Abdillah]; Bahwa Rasulullah shallallahu 'alaihi wasallam pernah meminta dibuatkan cincin dari emas. Apabila beliau memakainya, beliau selalu meletakkan mata cincin tersebut pada bagian dalam telapak tangan. Kemudian para sahabat pun meniru apa yang dilakukan oleh Rasulullah shallallahu 'alaihi wasallam. Pada suatu ketika, beliau duduk di atas mimbar dan langsung menanggalkan cincin itu sambil berkata: "Dulu aku selalu mengenakkan cincin ini dan meletakkan mata cincinnya di bagian dalam." Lalu Rasulullah shallallahu 'alaihi wasallam membuang cincin itu seraya berkata: 'Demi Allah saya tidak akan memakainya lagi.' Melihat hal itu, para sahabat pun ikut membuang cincin mereka. Lafazh Hadits ini milik Yahya. Dan telah menceritakannya kepada kami [Abu Bakr bin Abu Syaibah]; Telah menceritakan kepada kami [Muhammad bin Bisyr]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakannya kepadaku [Zuhair bin Harb]; Telah menceritakan kepada kami [Yahya bin Sa'id]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepada kami [Ibnu Al Mutsanna]; Telah menceritakan kepada kami [Khalid bin Al Harits]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepada kami [Sahl bin 'Utsman]; Telah menceritakan kepada kami ['Uqbah bin Khalid] seluruhnya Dari ['Ubaidillah] dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang serupa mengenai cincin emas, di dalam Hadits 'Uqbah bin Khalid ada sedikit tambahan, 'beliau memakainya di tangan sebelah kanan. Dan telah menceritakannya kepada kami [Ahmad bin 'Abdah]; Telah menceritakan kepada kami ['Abdul Warits]; Telah menceritakan kepada kami [Ayyub]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepada kami [Muhammad bin Ishaq Al Musayyabi]; Telah menceritakan kepada kami [Anas] yaitu Ibnu 'Iyadh dari [Musa bin 'Uqbah]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepada kami [Muhammad bin 'Abbad]; Telah menceritakan kepada kami [Hatim]; Demikian juga telah diriwayatkan dari jalur yang lain; Telah menceritakan kepada kami [Harun Al Ayli]; Telah menceritakan kepada kami [Ibnu Wahb] seluruhnya dari [Usamah], dari [Nafi'] dari [Ibnu 'Umar] dari Nabi shallallahu 'alaihi wasallam perihal cincin emas sebagaimana Hadits Al Laits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5473</td></tr><tr><td>Arabic No</td><td>2091.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 88</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5473</td></tr><tr><td>Arabic No</td><td>2091.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 88</td></tr></tbody></table></div>
 

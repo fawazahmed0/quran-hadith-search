@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Masruq:I came upon 'Abdullah and he said, "When Allah's Messenger (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] Telah menceritakan kepada kami [Jarir bin Hazim] dari [Al A'masy] dari [Abu Ad Dluha] dari [Masruq] dia berkata; Aku menemui [Abdullah] lalu ia berkata; Sesungguhnya Rasulullah shallallahu 'alaihi wasallam tatkala menyeru kaum Quraisy, mereka mendustakannya dan berbuat durhaka kepada beliau. Maka Nabi shallallahu 'alaihi wasallam berdo'a: "Ya Allah timpakan kepada mereka kelaparan seperti kaum Yusuf. Maka mereka tertimpa tahun kelaparan hingga mereka memakan bangkai. Salah seorang dari mereka berdiri melihat ke langit, ia melihat seperti wujud kabut antara dirinya dan langit karena kelaparan dan keletihan. Kemudian Abdullah membaca: "Maka tunggulah hari ketika langit membawa kabut yang nyata, yang meliputi manusia. inilah azab yang pedih." Hingga ayat: Sesungguhnya (kalau) Kami akan melenyapkan siksaan itu agak sedikit sesungguhnya kamu akan kembali (ingkar). Abdullah berkata; Maka bagaimana siksa itu akan dilenyapkan dari mereka pada hari kiamat? Dia juga berkata; 'Hantaman keras maksudnya adalah pada waktu perang Badar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 65 Hadith 345</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Масрук сказал: «(Однажды) я пришёл к ‘Абдуллаху, который сказал: “Когда Посланник Аллаха ﷺ призвал курайшитов к исламу, а они объявили его лжецом и ослушались, он сказал: “О Аллах, помоги мне (в борьбе) против них (, послав им) семь (голодных лет), подобных семи (годам) Йусуфа!” После этого их поразила такая засуха, что все (растения) пропали, и из-за голода они стали питаться падалью, а когда кто-нибудь из них поднимал глаза к небу, то от голода и изнеможения ему казалось, что он видит там дым. Затем он прочитал: “Жди же того дня, когда небо станет испускать ясно видимый дым, который окутает собой людей. Это (и будет) мучительное наказание”, пока не дошёл до слов: “Мы избавим вас от страданий ненадолго, но ведь вы вернетесь к неверию”». \n‘Абдуллах добавил: «Но разве будут они избавлены от наказания в мире вечном?! И Аллах схватил их величайшей хваткой в день Бадра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 65 Hadith 345</td></tr></tbody></table></div>
 

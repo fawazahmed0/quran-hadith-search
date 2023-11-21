@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:The Messenger of Allah (ﷺ) passed a man who was selling 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal], telah menceritakan kepada kami [Sufyan bin 'Uyainah], dari [Al 'Ala'] dari [ayahnya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam melewati seorang laki-laki yang membeli makanan, kemudian ia bertanya kepadanya; bagaimana engkau berjualan? Kemudian orang tersebut memberitahukan kepada beliau bagaimana ia berjualan. Kemudian Rasulullah shallallahu 'alaihi wasallam diberi wahyu; masukkan tanganmu ke dalam makanan tersebut! Kemudian beliau memasukkan tangannya ke dalamnya, dan ternyata makanan tersebut basah. Lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukan dari golongan kami orang yang menipu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3452</td></tr><tr><td>Arabic No</td><td>3452</td></tr><tr><td>Reference</td><td>Book 24 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ проходил мимо человека, который продавал зерно. Он спросил его: «Как ты продаёшь?» Он рассказал ему. А потом Аллах внушил ему погрузить руку в зерно и оказалось, что оно подмочено. Тогда Посланник Аллаха ﷺ сказал: «Кто обманывает, тот не из нас»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3452</td></tr><tr><td>Arabic No</td><td>3452</td></tr><tr><td>Reference</td><td>Book 24 Hadith 37</td></tr></tbody></table></div>
 

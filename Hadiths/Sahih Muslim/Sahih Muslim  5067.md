@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jundab Ibn Sufyân (que Dieu l'agrée), J'étais présent aux côtés d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Syu'bah] dari [Al Aswad] bahwa dia mendengar [Jundab Al Bajali] berkata, "Saya pernah ikut shalat Iedul Adlha bersama Rasulullah shallallahu 'alaihi wasallam, kemudian beliau berkhutbah: "Barangsiapa menyembelih sebelum shalat hendaknya ia mengulanginya, dan barangsiapa belum menyembelih hendaknya dengan menyebut nama Allah." Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basyar] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5067</td></tr><tr><td>Arabic No</td><td>1960.04</td></tr><tr><td>Reference</td><td>Book 35 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5067</td></tr><tr><td>Arabic No</td><td>1960.04</td></tr><tr><td>Reference</td><td>Book 35 Hadith 4</td></tr></tbody></table></div>
 

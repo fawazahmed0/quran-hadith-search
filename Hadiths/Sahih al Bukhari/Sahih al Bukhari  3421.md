@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahid:I asked Ibn 'Abbas, "Should we perform a prostration on recitin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad] telah bercerita kepada kami [Sahal bin Yusuf] berkata aku mendengar ['Al 'Awwam] dari [Mujahid] berkata; Aku bertanya kepada [Ibnu 'Abbas]; "Apakah kita perlu sujud ketika membaca surat Shad". Maka dia membaca firman Allah: ("…dan juga dari keturunannya (Nuh 'Alaihissalam) yaitu Daud dan Sulaiman…") hingga sampai pada ayat ("…maka ikutilah petenjuk mereka…"). (QS al-An'am ayat 84 - 90). Kemudian Ibnu 'Abbas radliallahu 'anhuma berkata; "Nabi kalian shallallahu 'alaihi wasallam adalah termasuk diantara orang yang diperintahkan untuk mengikuti petunjuk mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3421</td></tr><tr><td>Arabic No</td><td>3421</td></tr><tr><td>Reference</td><td>Book 60 Hadith 93</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджахид сказал: «Я спросил Ибн ‘Аббаса: “Должны ли мы совершать земной поклон, читая суру Сад?” И он прочитал: “…из его потомства — Давуда, Сулеймана…” пока не дошёл до слов: “…Следуй же их прямым путем” (сура “аль-Анам”, аят 90). И затем Ибн ‘Аббас сказал: “Ваш Пророк ﷺ — один из тех, за кем было приказано следовать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3421</td></tr><tr><td>Arabic No</td><td>3421</td></tr><tr><td>Reference</td><td>Book 60 Hadith 93</td></tr></tbody></table></div>
 

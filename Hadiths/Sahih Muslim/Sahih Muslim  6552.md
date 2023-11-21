@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Thauban, the freed slave of Allah's Messenger (ﷺ), reported that Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi]; Telah mengabarkan kepada kami [Husyaim] dari [Khalid] dari [Abu Qilabah] dari [Abu Asma'] dari [Tsauban] -budak- dari Rasulullah shallallahu 'alaihi wasallam dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang menjenguk orang sakit, maka dia senantiasa berada dalam sebuah taman surga sampai dia pulang kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6552</td></tr><tr><td>Arabic No</td><td>2568.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6552</td></tr><tr><td>Arabic No</td><td>2568.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 50</td></tr></tbody></table></div>
 

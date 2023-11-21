@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:I took part in a Ghazwa towards Najd along with Allah's Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri] ia berkata; telah mengabarkan kepadaku [Salim] bahwa [Ibnu Umar radliallahu 'anhuma] berkata; 'Aku pernah ikut perang bersama Rasulullah shallallahu 'alaihi wasallam ke arah Najed, ketika posisi kami berhadapan dengan musuh, kami mengerjakan shalat sambil menghadap ke arah musuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4132</td></tr><tr><td>Arabic No</td><td>4132</td></tr><tr><td>Reference</td><td>Book 64 Hadith 176</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «Я был участником военного похода (, когда мы) вместе с Посланником Аллаха ﷺ (направились) в сторону Неджда. Встретив врага, мы выстроились перед ним рядами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4132</td></tr><tr><td>Arabic No</td><td>4132</td></tr><tr><td>Reference</td><td>Book 64 Hadith 176</td></tr></tbody></table></div>
 

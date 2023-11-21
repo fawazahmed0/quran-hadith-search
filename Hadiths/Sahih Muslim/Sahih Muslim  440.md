@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Dawud reported on the same authorities the hadith as narrated above by Ibn 'Uliy
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>440</td></tr><tr><td>Arabic No</td><td>177.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 345</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) (В той версии этого хадиса, которую передал) Давуд, (сообщается, что ‘Аиша также) сказала: «Если бы Мухаммад ﷺ утаивал что-нибудь из того, что ему ниспосылалось, он непременно утаил бы и тот аят, (где сказано): «(Вспомни, как) говорил ты тому, кого облагодетельствовал Аллах и кому оказывал благодеяния ты: “Удержи свою жену при себе и бойся Аллаха” и таил в своей душе то, что Аллах (был готов) открыть, и страшился людей, тогда как больше подобает страшиться Аллаха» (сура «аль-Ахзаб», аят 37)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>440</td></tr><tr><td>Arabic No</td><td>177.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 345</td></tr></tbody></table></div>
 

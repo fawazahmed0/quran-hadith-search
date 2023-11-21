@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rafi' ibn Khadij: Rafi' had cultivated a land. The Prophet (ﷺ) passed
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Abdullah], telah menceritakan kepada kami [Al Fadhl bin Dukain], telah menceritakan kepada kami [Bukair bin Amir] dari [Ibnu Abu Nu'm], telah menceritakan kepadaku [Rafi' bin Khadij], bahwa ia menanami sebuah lahan, kemudian Nabi shallallahu 'alaihi wasallam melewatinya sementara ia sedang mengairi lahan tersebut. Kemudian beliau bertanya: "Milik siapakah tanaman dan milik siapa tanah itu?" Kemudian ia berkata; tanam saya dengan benih dan kerja saya, saya mendapatkan setengah bagian, dan Bani Fulan mendapatkan setengah. Kemudian beliau berkata: "Kalian telah melakukan riba, kembalikan tanah tersebut kepada pemiliknya dan ambillah pembiayaanmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3402</td></tr><tr><td>Arabic No</td><td>3402</td></tr><tr><td>Reference</td><td>Book 23 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рафи‘ ибн Хадидж, да будет доволен им Аллах, передаёт, что он возделывал чужую землю и однажды Пророк ﷺ проходил мимо него, когда он поливал посевы, и спросил: «Чьи это посевы и чья это земля?» Он ответил: «Семена были мои, и я работаю на этой земле с условием, что мне достанется половина урожая, а таким-то другая половина». Посланник Аллаха ﷺ сказал: «Вы занимались ростовщичеством. Верни землю её владельцам и возьми потраченное тобой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3402</td></tr><tr><td>Arabic No</td><td>3402</td></tr><tr><td>Reference</td><td>Book 23 Hadith 77</td></tr></tbody></table></div>
 

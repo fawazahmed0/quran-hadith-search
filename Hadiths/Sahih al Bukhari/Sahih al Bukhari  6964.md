@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:A man mentioned to the Prophet (ﷺ) that he had al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Malik] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] radliallahu 'anhuma; ada seorang laki-laki mengeluhkesahkan dirinya kepada Nabi shallallahu 'alaihi wasallam, karena dirinya sering ditipu dalam jual beli, maka beliau bersabda: "Jika kamu jual-beli, katakan; 'Namun dengan syarat tak ada penipuan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6964</td></tr><tr><td>Arabic No</td><td>6964</td></tr><tr><td>Reference</td><td>Book 90 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что один человек сказал Пророку ﷺ, что его обманывают в торговых делах, (и Пророк ﷺ) сказал (ему): «Когда будешь заключать сделки, говори: “Без обмана! /Ля хиляба!/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6964</td></tr><tr><td>Arabic No</td><td>6964</td></tr><tr><td>Reference</td><td>Book 90 Hadith 11</td></tr></tbody></table></div>
 

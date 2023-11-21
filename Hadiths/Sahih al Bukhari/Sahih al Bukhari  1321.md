@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) passed by a grave of a deceased who 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami [Asy-Syaibaniy] dari ['Amir] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata,: "Bahwa Rasulullah Shallallahu'alaihiwasallam melewati kubur yang telah dimakamkan malam hari. Maka Beliau bertanya: "Kapan dimakamkan jenazah ini?. Mereka menjawab: "Tadi malam". Beliau bertanya kembali: "Mengapa kalian tidak memberi tahu aku?". Mereka menjawab: "Kami memakamkannya pada malam yang gelap gulita dan kami sungkan untuk membangunkan anda". Maka Beliau berdiri dan membariskan kami di belakang Beliau. Ibnu 'Abbas radliallahu 'anhu berkata,: "Dan aku hadir bersama mereka, maka kemudian Beliau melaksanakan shalat untuknya (jenazah)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1321</td></tr><tr><td>Arabic No</td><td>1321</td></tr><tr><td>Reference</td><td>Book 23 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды Посланник Аллаха ﷺ проходил мимо могилы (умершего), который был похоронен ночью. Он спросил: «Когда он был похоронен?» Люди ответили: «Вчера ночью». Он спросил: «Почему вы не сообщили мне?» Они ответили: «Мы похоронили его в темноте ночи, поэтому мы не хотели будить тебя». Тогда он встал, и мы выстроились рядами за ним. \nИбн ‘Аббас сказал: «Я был среди них. И Пророк ﷺ совершил молитву джаназа»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1321</td></tr><tr><td>Arabic No</td><td>1321</td></tr><tr><td>Reference</td><td>Book 23 Hadith 78</td></tr></tbody></table></div>
 

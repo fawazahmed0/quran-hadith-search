@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:The wife of Rifa'a Al-Qurazi came to the Prophet (ﷺ) and said, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] dari [Az Zuhriy] dari ['Urwah] dari ['Aisyah radliallahu 'anha]; Isteri Rifa'ah Al Qurazhiy datang menemui Nabi shallallahu 'alaihi wasallam lalu berkata: "Aku hidup berkeluarga bersama Rifa'ah lalu dia menceraikan aku dengan tholaq tiga lalu aku menikah dengan 'Abdurrahman bin Az Zubair namun dia ternyata lebih mementingkan dirinya sendiri. Maka Beliau berkata: "Apakah kamu mau kembali dengan Rifa'ah sehingga kamu dapat merasakan kemesraannya dan dia dapat pula merasakan kemesraan darimu". Saat itu Abu Bakar sedang duduk di dekat Beliau sedangkan Khalid bin Sa'id bin Al 'Ash berada di pintu menunggu diizinkan masuk lalu dia berkata: "Wahai Abu Bakar, apakah kamu mendengar apa yang dikatakan perempuan ini di hadapan Nabi shallallahu 'alaihi wasallam?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2639</td></tr><tr><td>Arabic No</td><td>2639</td></tr><tr><td>Reference</td><td>Book 52 Hadith 3</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от ‘Аиши, да будет доволен ею Аллах: «Однажды к Пророку ﷺ пришла жена Рифа‘а аль-Куразы и сказала (ему): “Я была женой Рифа‘а, но он дал мне окончательный (безвозвратный) развод, и после этого я вышла замуж за ‘Абдуррахмана ибн аз-Зубайра, но то, что у него подобно бахроме одежды (он бессилен)…”. Пророк ﷺ спросил её: “Может быть, ты хочешь вернуться к Рифа‘а? Нет, (ты не можешь сделать этого,) пока ты не вкусишь сладость (нового мужа) и пока он не вкусит твою сладость”. В это время Абу Бакр находился у него, а Халид ибн Са‘ид ибн аль-‘Ас стоял у двери, ожидая разрешения войти. И Пророк ﷺ воскликнул: “О Абу Бакр! Разве ты не слышишь, что она открыто говорит при Пророке ﷺ?!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2639</td></tr><tr><td>Arabic No</td><td>2639</td></tr><tr><td>Reference</td><td>Book 52 Hadith 3</td></tr></tbody></table></div>
 

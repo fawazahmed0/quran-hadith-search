@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Anas said:When the Messenger of Allah (May peace be upon him) went to his bed, h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Yazid bin Harun] berkata, telah mengabarkan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam jika ingin berbaring di atas kasurnya beliau membaca: "ALHAMDULILLAHILLADZI ATH'AMANAA WA SAQAANAA WA KAFAANAA WA AAWAANAA FAKAM MIMMAN LAA KAAFIA LAHU WA LAA MU'WIYA (Segala puji bagi Allah yang telah memberi kami makan dan minum, yang mencukupkan dan melindungi kami, berapa banyak orang yang tidak mempunyai pemberi kecukupan dan perlindungan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2715)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 43 Hadith 281</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2715)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 43 Hadith 281</td></tr></tbody></table></div>
 

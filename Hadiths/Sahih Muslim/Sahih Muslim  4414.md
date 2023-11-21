@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubada b. as-Samit reported:Allah's Messenger (ﷺ) as saying: Receive (teaching)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] telah mengabarkan kepada kami [Husyaim] dari [Manshur] dari [Al Hasan] dari [Hitthan bin Abdullah Ar Raqasyi] dari ['Ubadah bin Shamit] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Ikutilah semua ajaranku, ikutilah semua ajaranku. Sungguh, Allah telah menetapkan hukuman bagi mereka (kaum wanita), perjaka dengan perawan hukumannya adalah cambuk seratus kali dan diasingkan selama setahun, sedangkan laki-laki dan wanita yang sudah menikah hukumannya adalah dera seratus kali dan dirajam." Dan telah menceritakan kepada kami ['Amru An Naqid] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Manshur] dengan isnad seperti ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>1690.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>1690.01</td></tr><tr><td>Reference</td><td>Book 29 Hadith 17</td></tr></tbody></table></div>
 

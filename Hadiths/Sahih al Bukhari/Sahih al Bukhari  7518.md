@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id Al-Khudri:The Prophet (ﷺ) said, "Allah will say to the peop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Sulaiman] telah menceritakan kepadaku [Ibn Wahb] berkata, telah menceritakan kepadaku [Malik] dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Abu Sa'id Al Khudzri] radliyallahu'anhu berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Allah memanggil penduduk surga, 'Hai penduduk surga! ' Mereka menjawab, 'Baik, kami penuhi panggilan-Mu, dan seluruh kebaikan berada di tangan-Mu! Allah meneruskan, 'Apakah kalian telah puas! ' Mereka menjawab, 'Bagaimanakah kami tidak puas wahai Rabb, sedang telah Engkau beri kami sesuatu yang belum pernah Engkau berikan kepada satu pun dari makhluk-Mu! Allah kembali berkata, 'Maukah Aku beri kalian suatu yang lebih utama daripada itu semua? ' Mereka balik bertanya, 'Ya Rabb, apalagi yang lebih utama daripada itu semua? ' Allah menjawab, 'Sekarang Aku halalkan untuk kalian keredlaan-Ku, sehingga Aku tidak marah terhadap kalian selama-lamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7518</td></tr><tr><td>Arabic No</td><td>7518</td></tr><tr><td>Reference</td><td>Book 97 Hadith 143</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Са‘ида ал-Худри, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Поистине, Аллах скажет обитателям Рая: “О обитатели рая!” Они ответят: “Мы здесь, Господь наш, и готовы служить Тебе, и благо — в Твоих руках”. Он спросит: “Вы довольны?” Они ответят: “Отчего нам не быть довольными, Господи, ведь Ты одарил нас тем, чего не дал никому из Твоих творений?!” Он скажет: “Не одарить ли вас тем, что лучше этого?” Они спросят: “Господи, что может быть лучше этого?” Он скажет: “Я ниспошлю вам Своё благоволение и после этого уже никогда не буду гневаться на вас!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7518</td></tr><tr><td>Arabic No</td><td>7518</td></tr><tr><td>Reference</td><td>Book 97 Hadith 143</td></tr></tbody></table></div>
 

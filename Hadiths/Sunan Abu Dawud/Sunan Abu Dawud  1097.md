@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: When the Messenger of Allah (ﷺ) addressed, he wo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Abu 'Ashim] telah menceritakan kepada kami ['Imran] dari [Qatadah] dari ['Abd Rabbihi] dari [Abu 'Iyadl] dari [Ibnu Mas'ud] bahwa apabila Rasulullah shallallahu 'alaihi wasallam bertasyahhud (memulai khutbahnya), beliau mengucapkan: "ALHAMDULILLAH NASTA'IINUHU WANASTAGHFIRUHU WANA'UDZU BILLAHI MIN SYURURI ANFUSINA MAN YAHDIHILLAHU FALA MUDHILLA LAHU WAMAN YUDHLIL FALA HADIYA LAHU. WAASYHADU ALLA ILAAHA ILLALLAH WAASYHADU ANNA MUHAMMADAN ABDUHU WA RASULUHU ARSALAHU BIL HUDA, BASYIRAW WANADZIRAN BAINA YADAYISSA'AH MAN YUTHI'ILLAHA WARASULAHU FAQAD RASYAD WAMAN YA'SHIHIMA FAINNAHU LA YADHURRU ILLA NAFSAHUWALA YADHURRU-LLAHA SYAIAN (segala puji bagi Allah, kita memohon ampun kepada-Nya dan memohon pertolongan kepada-Nya dan berlindung kepada Allah dari kejahatan-kejahatan diri kita, barang siapa yang di beri petunjuk oleh Allah, maka tidak ada seorangpun yang dapat menyesatkannya dan barangsiapa di sesatkan-Nya, maka tidak ada seorangpun yang dapat memberikannya petunjuk. Aku bersaksi bahwa tidak ada ilah yang berhak disembah kecuali Allah dan aku bersaksi bahwa Muhammad adalah hamba dan rasul-Nya yang diutus dengan kebenaran sebagai pamberi kabar gembira dan sekaligus pemberi peringatan sebelum datangnya hari Kiamat. Barangsiapa menaati Allah dan rasul-Nya, maka dia telah mendapatkan petunjuk dan barangsiapa bermaksiat kepada keduanya, maka sesungguhnya dia tidaklah mencelakakan kecuali dirinya sendiri dan Allah tidak rugi sedikitpun)." Telah menceritakan kepada kami [Muhammad bin Salamah Al Muradi] telah mengabarkan kepadaku [Ibnu Wahb] dari [Yunus] bahwa dia bertanya kepada [Ibnu Syihab] tentang tasyahhudnya Rasulullah shallallahu 'alaihi wasallam pada khutbah Jum'at, maka dia menyebutkan seperti diatas dengan tambahan; "WAMAN YA'SHIHIMA FAQAD GHAWA WANAS'ALULLAHA RABBANA AN YAJ'ALANA MIMMAN YUTHI'UHU WA YUTHI'I RASULAHU WA YATTABI' RIDHWANAHU WA YAJTANIB SAKHATHAHU FAINNAMA NAHNU BIHI WA LAHU" (Dan barangsiapa bermaksiat kepada keduanya, maka dia telah tersesat, kami memohon kepada Allah Rabb kami agar menjadikan kami termasuk orang-orang yang taat kepada-Nya dan taat kepada rasul-Nya dan termasuk orang yang mengikuti keridhaan-Nya serta menjauhi kamurkaan-Nya, sesungguhnya kami adalah orang-orang yang selalu merindukan keridhaan-Nya dan menjauhi kamurkaan-Nya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1097</td></tr><tr><td>Arabic No</td><td>1097</td></tr><tr><td>Reference</td><td>Book 2 Hadith 708</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ибн Мас‘уда, да будет доволен им Аллах, что Посланник Аллаха ﷺ начинал свою проповедь с таких слов: «Поистине, хвала принадлежит Аллаху, Его мы восхваляем и просим о помощи и наставлении на истинный путь. Мы просим у Него защиты от зла наших душ и от наших дурных дел. Кого ведёт Аллах прямым путём, того никто не введёт в заблуждение, а кого Он вводит в заблуждение, того никто не выведет на прямой путь. Я свидетельствую, что нет божества, кроме одного лишь Аллаха, у Которого нет сотоварищей. И я свидетельствую, что Мухаммад Его раб и Посланник, которого Он послал незадолго до Часа добрым вестником и предостерегающим увещевателем. Кто покорен Аллаху и Его Посланнику, тот следует прямым путём, а кто ослушивается их, тот не вредит никому, кроме себя, и это не причиняет Аллаху никакого вреда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1097</td></tr><tr><td>Arabic No</td><td>1097</td></tr><tr><td>Reference</td><td>Book 2 Hadith 708</td></tr></tbody></table></div>
 

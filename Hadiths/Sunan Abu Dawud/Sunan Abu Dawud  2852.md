@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuTha'labah al-Khushani: The Messenger of Allah (ﷺ) said about the g
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Husyaim], telah menceritakan kepada kami [Daud bin 'Amr], dari [Busr bin 'Ubaidullah], dari [Abu Idris Al Khaulani] dari [Abu Tsa'labah Al Khusyani], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda mengenai buruan anjing: "Apabila engkau melepas anjingmu dan engkau sebutkan nama Allah maka makanlah, dan walaupun ia makan sebagian darinya, dan makanlah apa yang dibawa kembali kedua tanganmu kepadamu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2852</td></tr><tr><td>Arabic No</td><td>2852</td></tr><tr><td>Reference</td><td>Book 17 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ляба аль-Хушани, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал об охоте с собаками: «Если ты послал свою собаку, помянув имя Аллаха, то ешь, даже если собака ела дичь. Ешь то, что попало в твои руки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2852</td></tr><tr><td>Arabic No</td><td>2852</td></tr><tr><td>Reference</td><td>Book 17 Hadith 9</td></tr></tbody></table></div>
 

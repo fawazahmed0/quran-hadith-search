@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar (ra) :The Prophet (ﷺ) said (about Ad-Dajjal) that he is one
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Ayyub] dari [Nafi'] dari [Ibnu 'Umar], seingatku dia dari Nabi shallallahu 'alaihi wasallam bersabda; "Dajjal buta matanya sebelah kanan, seolah-olah matanya buah anggur yang menjorok
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7123</td></tr><tr><td>Arabic No</td><td>7123</td></tr><tr><td>Reference</td><td>Book 92 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Пророк ﷺ сказал: «Он крив на правый глаз, и глаз его похож на выступающую виноградину»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7123</td></tr><tr><td>Arabic No</td><td>7123</td></tr><tr><td>Reference</td><td>Book 92 Hadith 70</td></tr></tbody></table></div>
 

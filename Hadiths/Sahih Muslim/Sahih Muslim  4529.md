@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Ibn 'Omar (رضي الله عنهما), le Prophète (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Bisyr] dan [Abu Usamah]. (dalam riwayat lain disebutkan) Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ubaidullah bin Sa'id] -yaitu Abu Qudamah As Sarahsi- keduanya berkata; telah menceritakan kepada kami [Yahya] -yaitu Al Qatthan- semuanya dari [Ubaidullah]. (dalam riwayat lain disebutkan) Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] sedangkan lafadznya dari dia, telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila Allah mengumpulkan orang-orang yang terdahulu dan orang-orang yang terakhir kelak di hari Kiamat, maka akan dikibarkan bendera bagi setiap pengkhianat, lalu dikatakan, 'Ini adalah bendera si fulan bin fulan'." Telah menceritakan kepada kami [Abu Ar Rabi' Aal 'Ataki] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Ayyub]. (dalam riwayat lain disebutkan) Telah menceritakan kepada kami [Abdullah bin Abdurrahman Ad darimi] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Shahr bin Juwairiyah] keduanya dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4529</td></tr><tr><td>Arabic No</td><td>1735.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ сказал: “В День воскресения, когда Аллах объединит первых и последних, у каждого вероломного водрузят знамя и будет сказано: “Это вероломство такого-то, сына такого-то”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4529</td></tr><tr><td>Arabic No</td><td>1735.01</td></tr><tr><td>Reference</td><td>Book 32 Hadith 10</td></tr></tbody></table></div>
 

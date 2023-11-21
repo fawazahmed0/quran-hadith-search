@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported:When the Messenger of Allah (ﷺ) raised his head after bowin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Husyaim bin Basyir] telah mengabarkan kepada kami [Hisyam bin Hassan] dari [Qais bin Sa'ad] dari ['Atha'] dari [Ibnu Abbas] "Bahwa Nabi shallallahu'alaihiwasallam dahulu apabila mengangkat kepalanya dari rukuk maka mengucapkan, 'ALLOOHUMMA ROBBANAA LAKAL HAMDU MIL"US SAMAAWAATI WA MIL"UL ARDHI WAMAA BAINAHUMAA, WAMIL"U MAA SYI"TA MIN SYAI"IN BA'DU, AHLATS TSANAA"I WAL MAJDI, LAA MAANI'A LIMAA A'THOITA, WALAA MU'THIYA LIMAA MANA'TA WALAA YANFA'U DZAL JADDI MINKAL JADDI"'Ya Allah, Rabb kami, segala puji bagimu sepenuh langit dan bumi serta sepenuh sesuatu yang Engkau kehendaki setelah itu, wahai Pemilik pujian dan kemulian. Ya Allah, tidak ada penghalang untuk sesuatu yang Engkau beri, dan tidak ada pemberi untuk sesuatu yang Engkau halangi. Tidaklah bermanfaat harta orang yang kaya dari adzabmu'." Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Hafsh] telah menceritakan kepada kami [Hisyam bin Hassan] telah menceritakan kepada kami [Qais bin Sa'ad] dari ['Atha'] dari [Ibnu Abbas] dari Nabi Shallallahu'alaihiwasallam hingga sabdanya, "Dan sepenuh sesuatu yang Engkau kehendaki setelah itu." Dan tidak menyebutkan kalimat setelahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1072</td></tr><tr><td>Arabic No</td><td>478.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 234</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что выпрямляясь после поясного поклона, Посланник Аллаха ﷺ обычно говорил: «“О Аллах, Господь наш, Тебе хвала, и пусть эта хвала наполнит собой небеса, землю, то, что между ними, и всё, что ещё будет угодно Тебе. Ты более всех достоин восхваления и прославления. Никто не лишит того, что Ты даровал. И никто не дарует того, чего Ты лишил. И бесполезным пред Тобой окажется богатство обладающего богатством /Аллахумма, Рабба-на, ля-ка-ль-хамду мильъа-с-самаъи, ва мильъа-ль-арды, ва ма байна-хума ва мильъа ма шиъта мин шайъин ба‘ду. Ахля-с-санаъи ва-ль-маджди. Ля мани‘а ли-ма а‘тайта, ва ля му‘тыйа ли-ма мана‘та ва ля йанфа‘у за-ль-джадди мин-ка-ль-джадд/”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1072</td></tr><tr><td>Arabic No</td><td>478.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 234</td></tr></tbody></table></div>
 

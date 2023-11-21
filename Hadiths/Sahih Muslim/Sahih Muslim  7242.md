@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Safwan reported that Hafsa told him that she had heard Allah's Apost
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru An Naqid] dan [Ibnu Abi Umar], teks milik Amru, keduanya berkata: Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Umaiyah bin Shafwan] ia mendengar [kakeknya, Abdullah bin Shawan] berkata: telah mengkhabarkan kepadaku [Hafshah] bahwa ia mendengar nabi Shallallahu 'alaihi wa Salam bersabda: "Baitullah ini akan dituju oleh suatu tentara untuk diperangi, saat mereka tiba disuatu padang pasir bumi, mereka dibenamkan dibagian tengah-tengahnya. Bagian depan memanggil bagian belakang lalu mereka semua dibenamkan, tidak ada yang tersisa selain seseorang yang melepaskan diri yang mengkhabarkan tentang mereka. Seseorang berkata: Aku bersaksi padamu bahwa kau tidak berdusta atas nama Hafshah dan aku bersaksi untuk Hafshah bahwa ia tidak berdusta nama nabi Shallallahu 'alaihi wa Salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7242</td></tr><tr><td>Arabic No</td><td>2883.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7242</td></tr><tr><td>Arabic No</td><td>2883.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 8</td></tr></tbody></table></div>
 

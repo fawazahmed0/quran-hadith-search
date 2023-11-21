@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Rafi' ibn Khadij: The Messenger of Allah (ﷺ) forbade muhaqalah and mu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu Al Ahwash], telah menceritakan kepada kami [Thariq bin Abdurrahman] dari [Sa'id bin Al Musayyab], dari [Rafi' bin Khadij], ia berkata; Rasulullah shallallahu 'alaihi wasallam melarang dari muhaqalah (menjual gandum dalam bulirnya dengan gandum yang bersih dalam timbangan tertentu), dan muzabanah (menjual kurma kering dengan ruthab, dan menjual anggur dengan kismis secara takaran). Sesungguhnya yang boleh menanam Abu Daud tiga, yaitu: seseorang yang memiliki tanah dan ia yang menanaminya, dan seseorang yang diberi tanah dan ia yang menanami apa yang ia diberikan kepadanya, serta seseorang yang menyewa tanah dengan upah emas atau perak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3400</td></tr><tr><td>Arabic No</td><td>3400</td></tr><tr><td>Reference</td><td>Book 23 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рафи‘ ибн Хадидж, да будет доволен им Аллах, передаёт, что Посланник Аллаха ﷺ запретил издольщину и обмен несобранного ещё урожая на собранный (музабана) и сказал: «Землю могут засевать трое: человек, у которого есть земля и который засевает её; человек, которому отдали землю в бесплатное пользование и который засевает её; и человек, который берёт внаём [и возделывает] чужую землю за золото или серебро»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3400</td></tr><tr><td>Arabic No</td><td>3400</td></tr><tr><td>Reference</td><td>Book 23 Hadith 75</td></tr></tbody></table></div>
 

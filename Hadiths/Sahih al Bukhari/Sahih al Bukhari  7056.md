@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Junada bin Abi Umaiya:We entered upon 'Ubada bin As-Samit while he was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepadaku [Ibnu Wahb] dari [Amru] dari [Bukair] dari [Busr bin Sa'id] dari [Junadah bin Umayyah] mengatakan, kami berkunjung ke [Ubadah bin Shamit] yang ketika itu sedang sakit. Kami menyapa; 'semoga Allah menyembuhkanmu, ceritakan kepada kami sebuah Hadits, yang kiranya Allah memberimu manfaat karenanya, yang engkau dengar dari Nabi shallallahu 'alaihi wasallam! ' Ia menjawab; 'Nabi shallallahu 'alaihi wasallam memanggil kami sehingga kami berbaiat kepada beliau.' Ubadah melanjutkan; diantara janji yang beliau ambil dari kami adalah, agar kami berbaiat kepada beliau untuk senantiasa mendengar dan ta'at, saat giat mapun malas, dan saat kesulitan maupun kesusahan, lebih mementingkan urusan bersama, serta agar kami tidak mencabut urusan dari ahlinya kecuali jika kalian melihat kekufuran yang terang-terangan, yang pada kalian mempunyai alasan yang jelas dari Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7056</td></tr><tr><td>Arabic No</td><td>7056</td></tr><tr><td>Reference</td><td>Book 92 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+И среди прочего он потребовал от нас присягнуть ему, что мы будем слушать и повиноваться ему в благополучные и трудные времена, в лёгком и трудном, даже если правитель нас будет обделять. (И мы поклялись, что) не будем пытаться лишить власти законного правителя, если только не увидим(, что он впал в) явное неверие, относительно чего будут у нас доказательства от Аллаха
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7056</td></tr><tr><td>Arabic No</td><td>7056</td></tr><tr><td>Reference</td><td>Book 92 Hadith 8</td></tr></tbody></table></div>
 

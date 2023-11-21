@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Adi bin Hatim:I asked the Prophet, "I send off (for a game) my trained
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] telah menceritakan kepada kami [Fudlail] dari [Manshur] dari [Ibrahim] dari [Hammam] dari [Adi bin Hatim] berkata, "Aku pernah bertanya Nabi shallallahu 'alaihi wasallam, aku katakan, 'Saya biasa melepas anjingku yang terlatih! Nabi menjawab: "Jika kau lepas anjingmu yang terlatih dengan kau sebut nama Allah, lantas anjingmu menerkam mangsanya, maka makanlah dari yang diterkamnya, dan jika kamu melempar dengan batang panah namun batang panah itu melukai (melukai kulit, atau mengalirkan darah,) maka makanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7397</td></tr><tr><td>Arabic No</td><td>7397</td></tr><tr><td>Reference</td><td>Book 97 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Ади ибн Хатим, да будет доволен им Аллах, передаёт: «Я спросил Пророка ﷺ: “Я посылаю обученных собак за дичью, (могу ли я есть её?)” (Посланник Аллаха ﷺ) сказал: “Если ты посылаешь обученных собак, помянув над ними имя Аллаха, то можешь есть то, что они схватят (для тебя). Если ты бросишь ми‘рад, произнеся при этом имя Аллаха, и он поразит животное своим остриём, можешь есть его мясо”».\nМи‘рад — стрела без оперения и без наконечника, но с заострённым концом древка
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7397</td></tr><tr><td>Arabic No</td><td>7397</td></tr><tr><td>Reference</td><td>Book 97 Hadith 26</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jaibir reported that a woman from the tribe of Makhzum committed theft. She was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'yan] telah menceritakan kepada kami [Ma'qil] dari [Abu Az Zubair] dari [Jabir], bahwa seorang wanita dari Bani Mahzum telah mencuri, lalu dia dihadapkan kepada Nabi shallallahu 'alaihi wasallam, namun wanita tersebut meminta perlindungan kepada Ummu Salamah isteri Nabi shallallahu 'alaihi wasallam, maka Nabi shallallahu 'alaihi wasallam bersabda: "Demi Allah, sekiranya yang melakukannya adalah Fatimah, sungguh aku akan memotong tangannya!" Maka dipotonglah tangan wanita tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4413</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 29 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4413</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 29 Hadith 16</td></tr></tbody></table></div>
 

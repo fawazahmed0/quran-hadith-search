@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Alqama and Aswad reported that they went to 'Abdullah. He said:Have (people) beh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Abdurrahman ad-Darimi] telah mengabarkan kepada kami [Ubaidullah bin Musa] dari [Israil] dari [Manshur] dari [Ibrahim] dari [Alqamah] dan [al-Aswad] bahwa keduanya datang kepada [Abdullah]. Lalu dia bertanya, "Sudah shalatkah orang yang di belakangmu?" Kami menjawab, "Sudah." Lalu dia berdiri shalat di antara kami berdua. Dia meletakkan salah seorang dari keduanya di sebelah kanannya dan yang lainnya di sebelah kiri. Kemudian kami rukuk, lalu kami meletakkan tangan di lutut kami, tetapi dia memukul tangan kami. Dia mempertemukan kedua tapak tangannya, lalu meletakkan keduanya di antara kedua pahanya. Setelah selesai shalat dia berkata, "Beginilah yang dilakukan Rasulullah Shallallahu'alaihiwasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>534.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что аль-Асвад и ‘Алькама передавали, что (когда) они пришли к ‘Абдуллаху, он спросил: «Молились ли те (люди), которые остались позади вас?» Они ответили: «Да». Тогда он встал между ними, поставив одного справа от себя, а другого слева. (Они сказали: «Затем мы совершили поясной поклон, положив руки на колени, но он ударил нас по рукам, соединил свои ладони и поместил их меж бёдер (около колен), а закончив молиться, он сказал: “Так поступал Посланник Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>534.03</td></tr><tr><td>Reference</td><td>Book 5 Hadith 33</td></tr></tbody></table></div>
 

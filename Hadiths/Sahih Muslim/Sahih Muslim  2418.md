@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Abbas reported Allah's Messenger (ﷺ) as saying:If there were for the son o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Harun bin Abdullah] keduanya berkata, Telah menceritakan kepada kami [Hajjaj bin Muhammad] dari [Ibnu Juraij] ia berkata, saya mendengar ['Atha'] berkata, saya mendengar [Ibnu Abbas] berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Andai kata manusia itu telah mempunyai harta benda sebanyak satu lembah, mereka masih ingin untuk mendapatkan satu lembah lagi. Tidak ada yang dapat memuakan nafsunya melainkan hanya tanah (maut). Dan Allah menerima taubat siapa yang bertaubat kepada-Nya." Ibnu Abbas berkata; "Saya tidak tahu, apakah hal itu dari Al Qur'an ataukah tidak." Sementara dalam riwayat Zuhair ia mengatakan; "Saya tidak tahu, apakah itu termasuk ayat Al Qur'an." Ia tidak menyebutkan Ibnu Abbas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2418</td></tr><tr><td>Arabic No</td><td>1049</td></tr><tr><td>Reference</td><td>Book 12 Hadith 155</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Аббаса, что Посланник Аллаха ﷺ сказал: «Если бы у потомка Адама была полная долина богатства, он непременно пожелал бы ещё одну. И не наполнит утробу потомка Адама ничего, кроме земли (могилы), а Аллах принимает покаяние того, кто покается».Ибн ‘Аббас сказал: «И я не знаю, из Корана эти (слова) или нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2418</td></tr><tr><td>Arabic No</td><td>1049</td></tr><tr><td>Reference</td><td>Book 12 Hadith 155</td></tr></tbody></table></div>
 

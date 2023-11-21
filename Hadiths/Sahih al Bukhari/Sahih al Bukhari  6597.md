@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) ; was asked about the offspring of the pag
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] radliyallahu'anhuma mengatakan, Nabi shallallahu 'alaihi wasallam ditanya tentang anak-anak musyrikin, maka beliau bersabda: "Allah lebih tahu apa yang mereka kerjakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6597</td></tr><tr><td>Arabic No</td><td>6597</td></tr><tr><td>Reference</td><td>Book 82 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Са‘ида ибн Джубайра, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Однажды Пророка ﷺ спросили о (умерших) детях многобожников, и он сказал: “Аллах лучше знает о том, что бы они совершили”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6597</td></tr><tr><td>Arabic No</td><td>6597</td></tr><tr><td>Reference</td><td>Book 82 Hadith 4</td></tr></tbody></table></div>
 

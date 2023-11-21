@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr: AbulJawza' said: A man who attended the company of th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1298</td></tr><tr><td>Arabic No</td><td>1298</td></tr><tr><td>Reference</td><td>Book 5 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от некого сподвижника, вероятнее всего, ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Пророк ﷺ сказал мне: “Приди ко мне завтра, и я одарю, вознагражу и наделю тебя”. И я подумал даже, что Посланник Аллаха ﷺ собирается подарить мне что-то. Потом Посланник Аллаха ﷺ сказал: “Когда день будет подходить к концу, соверши четыре рак‘ата…” И он упомянул нечто подобное предыдущему хадису, и далее говорится: “А потом подними голову после второго земного поклона и, выпрямившись, сядь и не вставай, пока не произнесёшь: “Пречист Аллах”, “Хвала Аллаху”, “Аллах Велик” и “Нет бога [заслуживающего поклонение], кроме Аллаха” по десять раз. И так поступай при совершении четырёх рак‘атов”. И он сказал: “И, поистине, тогда тебе простятся твои грехи, даже если ты окажешься самым грешным созданием на земле”. Я сказал: “А если я не смогу совершать эту молитву в это время?” (Посланник Аллаха ﷺ) сказал: “Совершай её днём или ночью”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1298</td></tr><tr><td>Arabic No</td><td>1298</td></tr><tr><td>Reference</td><td>Book 5 Hadith 49</td></tr></tbody></table></div>
 

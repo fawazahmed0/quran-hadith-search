@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) said, "On the Day of Resurrection, Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muqaddam bin Muhammad bin Yahya] berkata, telah menceritakan kepadaku pamanku [Alqasim bin Yahya] dari [Ubaidullah] dari [Nafi'] dari [Ibn Umar] radliyallahu'anhuma, dari Rasulullah Shallallahu'alaihiwasallam, beliau bersabda: "Pada hari kiamat Allah menggenggam bumi dan langit berada di tangan kanan-Nya, lantas Allah berfirman 'Aku lah sang raja'." [Sa'id] meriwayatkannya dari [Malik] dan [Umar bin Hamzah] berkata, 'Aku mendengar [Salim] aku mendengar [Ibn Umar] dari Nabi shallallahu 'alaihi wasallam dengan hadis ini." Dan [Abul Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Azzuhri] telah mengabarkan kepadaku [Abu Salamah] bahwa [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah menggenggam bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7412</td></tr><tr><td>Arabic No</td><td>7412</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Абдуллах) ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт, что Посланник Аллаха ﷺ сказал: «Поистине, Аллах схватит (всю) землю в День Воскресения, а небеса будут (свёрнуты) Его правой Рукой. А потом Он скажет: “Я — Царь!”».\nПередал этот хадис Са‘ид (ибн Абу Дауд) от Малика (ибн Анаса). А ‘Умар ибн Хамза сказал: «Я слышал Салима, (который сказал): “Я слышал как Ибн ‘Умар, передал этот хадис от Пророка ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7412</td></tr><tr><td>Arabic No</td><td>7412</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

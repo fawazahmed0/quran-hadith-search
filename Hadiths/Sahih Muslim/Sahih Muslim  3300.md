@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Al-" Ala' b. al-Hadrami reported Allah's Messenger (ﷺ) as saying:The stay at M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] dan ia telah mendiktekan kepada kami, telah mengabarkan kepadaku [Isma'il bin Muhammad bin Sa'dari] bahwa [Humaid bin Abdurrahman bin Auf] telah mengabarkan kepadanya bahwa [As Sa'ib bin Yazid] telah mengabarkan kepadanya bahwa [Al Ala' Al Hadlrami] telah mengabarkan kepadanya dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Bagi Muhajir, hendaklah bermukim selama tiga hari di Makkah setelah mengerjakan Manasiknya." Dan telah menceritakan kepadaku [Hajjaj bin Sya'ir] telah menceritakan kepada kami [Adl Dlahak bin Makhlad] telah mengabarkan kepada kami [Ibnu Juraij] dengan isnad ini, semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3300</td></tr><tr><td>Arabic No</td><td>1352.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 504</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3300</td></tr><tr><td>Arabic No</td><td>1352.04</td></tr><tr><td>Reference</td><td>Book 15 Hadith 504</td></tr></tbody></table></div>
 

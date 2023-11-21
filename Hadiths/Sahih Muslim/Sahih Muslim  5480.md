@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that when Allah's Messenger (ﷺ) decided to write letter
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] dan [Ibnu Basysyar], [Ibnu Al Mutsanna] berkata; Telah menceritakan kepada kami [Muhammad bin Ja'far]; Telah menceritakan kepada kami [Syu'bah] ia berkata; Aku telah mendengar [Qatadah] berkata; dari Anas bin Malik dia berkata; "Ketika Rasulullah shallallahu 'alaihi wasallam hendak mengirim surat kepada Raja Ramawi, [Anas] berkata; 'Para sahabat mengatakan bahwa mereka (orang-orang Ramawi) tidak mau membaca surat tanpa stempel. Anas berkata; 'Karena itu Rasulullah shallallahu 'alaihi wasallam membuat sebuah cincin dari perak.' Aku seolah-olah masih melihat bagaimana cemerlangnya cincin itu di tangan beliau, tulisannya adalah 'Muhammad Rasulullah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5480</td></tr><tr><td>Arabic No</td><td>2092.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 95</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5480</td></tr><tr><td>Arabic No</td><td>2092.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 95</td></tr></tbody></table></div>
 

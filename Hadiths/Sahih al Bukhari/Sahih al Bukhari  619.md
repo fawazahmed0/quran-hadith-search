@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) used to offer two light rak'at between the Adh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] berkata, telah menceritakan kepada kami [Syaiban] dari [Yahya] dari [Abu Salamah] dari ['Aisyah], bahwa Nabi shallallahu 'alaihi wasallam melaksanakan shalat sunnat dua rakaat ringan antara adzan dan iqamat dalam shalat Shubuh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>619</td></tr><tr><td>Arabic No</td><td>619</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, о том, что между призывом на утреннюю молитву и объявлением о её начале Пророк ﷺ всегда совершал (молитву в) два лёгких рак‘ата
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>619</td></tr><tr><td>Arabic No</td><td>619</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) used to say, "I seek refuge (with YOU) by 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Husain Al Mu'aliim] telah menceritakan kepadaku [Abdullah bin Buraidah] dari [Yahya bin Ya'mar] dari [Ibn Abbas] bahwa Nabi shallallahu 'alaihi wasallam pernah memanjatkan doa: 'AUUDZU BI'IZZATILLAHILLLADZII LAA ILAAHA ILLAA ANTAL LADZII LAA YAMUUTU WAL JINNU WAL INSU YAMUUTUUTUUNA (Saya berlindung dengan kekuasaan Allah yang tiada sesembahan yang hak selain Dia, yang tidak pernah mati sedang jin dan manusia akan mati)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7383</td></tr><tr><td>Arabic No</td><td>7383</td></tr><tr><td>Reference</td><td>Book 97 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуллах ибн ‘Аббас, да будет доволен им Аллах, передаёт, что Пророк ﷺ часто говорил: «Я прибегаю за защитой к Твоему могуществу, нет божества достойного поклонения, кроме Тебя, и Ты не умираешь, тогда как и джинны, и люди смертны /А‘узу би-‘иззатика-ллязи ля иляха илля анта-ллязи ля йамуту ва-л-джинну ва-ль-инсу йамутун»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7383</td></tr><tr><td>Arabic No</td><td>7383</td></tr><tr><td>Reference</td><td>Book 97 Hadith 13</td></tr></tbody></table></div>
 

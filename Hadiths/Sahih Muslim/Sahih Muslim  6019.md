@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been narrated on the authority of Jabir b. 'Abdullah through ano
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Amru An Naqid] keduanya berkata; Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Al Munkadir] dia mendengar [Jabir bin 'Abdullah radliallahu 'anhu] berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam dimintai sesuatu, beliau tidak pernah menjawab: 'Tidak'." Dan telah menceritakan kepada kami [Abu Kuraib] Telah menceritakan kepada kami [Al Asyja'i] Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepadaku [Muhammad bin Al Mutsanna] Telah menceritakan kepada kami [Abdurrahman] yaitu Ibnu Mahdi keduanya dari [Sufyan] dari [Muhammad bin Al Munkadir] dia berkata; Aku mendengar [Jabir bin Abdullah] berkata; -dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6019</td></tr><tr><td>Arabic No</td><td>2311.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6019</td></tr><tr><td>Arabic No</td><td>2311.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 77</td></tr></tbody></table></div>
 

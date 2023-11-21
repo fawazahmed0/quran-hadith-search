@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported:The Messenger of Allah (ﷺ) said: He who eats garlic or onion sh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Hatim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] dia berkata, telah mengabarkan kepadaku ['Atha'] dari [Jabir bin Abdullah] dari Nabi Shallallahu'alaihiwasallam beliau bersabda, "Barangsiapa yang makan sayur bawang putih ini, -dan pada kesempatan lain beliau bersabda, 'Barangsiapa makan bawang merah dan putih serta bawang bakung- janganlah dia mendekati masjid kami, karena malaikat merasa tersakiti dari bau yang juga manusia merasa tersakiti (disebabkan baunya) '." Dan telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Muhammad bin Bakar] dia berkata --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazzaq] semuanya mengatakan, telah mengabarkan kepada kami [Ibnu Juraij] dengan Isnad ini, "Barangsiapa makan dari pohon ini -maksudnya bawang putih- janganlah dia mengunjungi kami di masjid kami, ' dan dia tidak menyebutkan bawang merah dan bawang bakung
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1254</td></tr><tr><td>Arabic No</td><td>564.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 91</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Джабира ибн ‘Абдуллаха, что Пророк ﷺ сказал: «Пусть поевший лука, чеснока или лука-порея ни в коем случае не приближается к нашей мечети, ибо, поистине, ангелам причиняет страдания то же, что и сынам Адама!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1254</td></tr><tr><td>Arabic No</td><td>564.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 91</td></tr></tbody></table></div>
 

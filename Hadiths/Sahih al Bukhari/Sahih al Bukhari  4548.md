@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Musaiyab:Abu Huraira said, "The Prophet (ﷺ) said, 'No ch
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] Telah menceritakan kepada kami [Abdurrazaq] Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah radliallahu 'anhu] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah bayi yang dilahirkan kecuali setan akan menyentuhnya ketika ia lahir, sehingga mereka menangis keras karena sentuhan setan tersebut, kecuali Maryam dan putranya." Lalu Abu Hurairah berkata; "Jika kalian mau bacalah; "dan aku mohon perlindungan untuknya serta anak-anak keturunannya kepada (pemeliharaan) Engkau daripada syaitan yang terkutuk." (Ali Imran:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4548</td></tr><tr><td>Arabic No</td><td>4548</td></tr><tr><td>Reference</td><td>Book 65 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Пророк ﷺ сказал: «Каждого человека в момент его рождения касается шайтан, и от его прикосновения ребёнок начинает кричать, кроме Марьям, и её сына (‘Исы)». Затем Абу Хурайра прочитал: «И прошу Тебя защитить её и её потомство от изгнанного шайтана» (сура «Али ‘Имран», аят)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4548</td></tr><tr><td>Arabic No</td><td>4548</td></tr><tr><td>Reference</td><td>Book 65 Hadith 71</td></tr></tbody></table></div>
 

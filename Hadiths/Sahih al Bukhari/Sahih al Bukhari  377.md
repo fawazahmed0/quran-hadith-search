@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Hazim:Sahl bin Sa'd was asked about the (Prophet's) pulpit as to wh
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin 'Abdullah] berkata, telah menceritakan kepada kami [Sufyan] berkata, telah menceritakan kepada kami [Abu Hazim] berkata, "Orang-orang bertanya kepada [Sahal bin Sa'd] tentang terbuat dari apa mimbar Rasulullah? Maka dia berkata, "Tidak ada seorangpun yang masih hidup dari para sahabat yang lebih mengetahui masalah ini selain aku. Mimbar itu terbuat dari batang pohon hutan yang tak berduri, mimbar itu dibuat oleh seorang budak wanita untuk Rasulullah shallallahu 'alaihi wasallam. Ketika selesai dibuat dan diletakkan, Rasulullah shallallahu 'alaihi wasallam berdiri pada mimbar tersebut menghadap kiblat. Beliau bertakbir dan orang-orang pun ikut shalat dibelakangnya, beliau lalu membaca surat lalu rukuk, dan orang-orang pun ikut rukuk di belakangnya. Kemudian beliau mengangkat kepalanya, lalu mundur ke belakang turun dan sujud di atas tanah. Kemudian beliau kembali ke atas mimbar dan rukuk, kemudian mengangkat kepalnya lalu turun kembali ke tanah pada posisi sebelumnya dan sujud di tanah. Itulah keberadaan mimbar." Abu 'Abdullah berkata, 'Ali Al Madini berkata, Ahmad bin Hambal rahimahullah bertanya kepadaku tentang hadits ini. Ia katakan, "Yang aku maksudkan bahwa Nabi shallallahu 'alaihi wasallam posisinya lebih tinggi daripada orang-orang. Maka tidak mengapa seorang imam posisinya lebih tinggi daripada Makmum berdasarkan hadits ini." Sahl bin Sa'd berkata, "Aku katakan, "Sesungguhnya Sufyan bin 'Uyainah sering ditanya tentang masalah ini, 'Apakah kamu tidak pernah mendengarnya? ' Ahmad bin Hambal rahimahullah menjawab, "Tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>377</td></tr><tr><td>Arabic No</td><td>377</td></tr><tr><td>Reference</td><td>Book 8 Hadith 29</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хазима (ибн Динара) о том, что как-то раз Сахля ибн Са‘да, да будет доволен им Аллах, спросили: «Из чего был (сделан) минбар (Посланника Аллаха ﷺ )?» (Сахль) сказал: «Сейчас уже не осталось никого из людей, кто знал бы об этом лучше меня. Он был сделан из лесного тамариска, а изготовил его для Посланника Аллаха ﷺ такой-то, вольноотпущенник такой-то (женщины). И когда (этот минбар) был сделан и установлен (в мечети), Посланник Аллаха ﷺ поднялся на него, обратился лицом к кибле и сказал: “Аллах велик”, а люди встали позади него. (Затем) он стал читать (Коран), совершил поясной поклон, и люди cклонились вслед за ним. Затем он поднял голову, (спустился с минбара), пятясь назад, и совершил земной поклон внизу, после чего (снова) вернулся на минбар. Там он (снова) стал читать (Коран), потом совершил поясной поклон, потом поднял голову, а потом (снова) вернулся обратно и совершил земной поклон внизу. (Вот что мне известно) о минбаре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>377</td></tr><tr><td>Arabic No</td><td>377</td></tr><tr><td>Reference</td><td>Book 8 Hadith 29</td></tr></tbody></table></div>
 

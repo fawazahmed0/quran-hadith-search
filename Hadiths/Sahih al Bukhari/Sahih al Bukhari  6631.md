@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) said, "O followers of Muhammad! By Allah, if y
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad] Telah memberitakan kepada kami ['Abdah] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari ['Aisyah] radliyallahu'anhuma, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Wahai umat Muhammad, demi Allah, kalaulah kalian tahu yang aku tahu, niscaya kalian banyak menangis dan sedikit tertawa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6631</td></tr><tr><td>Arabic No</td><td>6631</td></tr><tr><td>Reference</td><td>Book 83 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ сказал: «О (члены) общины Мухаммада, клянусь Аллахом, если бы вы знали то, что известно мне, то, конечно же, плакали бы много, а смеялись мало!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6631</td></tr><tr><td>Arabic No</td><td>6631</td></tr><tr><td>Reference</td><td>Book 83 Hadith 11</td></tr></tbody></table></div>
 

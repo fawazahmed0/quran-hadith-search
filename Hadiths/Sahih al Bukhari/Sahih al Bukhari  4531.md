@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujahi:(regarding the Verse):-- "Those of you who die and leave wives b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq] Telah menceritakan kepada kami [Rauh] Telah menceritakan kepada kami [Syibl] dari [Ibnu Abu Najih] dari Mujahid mengenai firman Allah: Dan orang-orang yang mati di antara kamu serta meninggalkan istri-istri (Al Baqarah; 234). Ayat ini menerangkan wajibnya iddah di rumah keluarganya. Lalu Allah menurunkan ayat; Dan orang-orang yang akan mati di antara kami dan meninggalkan istri-istri, hendaklah membuat wasiat untuk istri-istrinya yaitu nafkah sampai setahun tanpa mengeluarkannya dari rumah. Tetapi jika mereka keluar sendiri, maka tidak ada dosa bagimu mengenai apa yang mereka lakukan terhadap diri mereka sendiri dalam hal-hal yang baik. Mujahid berkata; Allah telah menjadikannya sebagai penyempurna dalam hitungan setahun yaitu tujuh bulan dan dua puluh malam sebagai wasiat. Apabila dia ingin, maka dia menempati sesuai wasiat tersebut. Namun jika ia ingin keluar, maka itu sudah menjadi kehendaknya. Itulah yang dimaksud firman Allah Ta'ala: Tetapi jika mereka keluar sendiri, maka tidak ada dosa bagimu. Maka Iddah adalah perkara yang wajib. Perawi mengaku itu dari Mujahid. [Atha] berkata; [Ibnu Abbas] berkata; "Ayat ini telah menghapus 'iddah di rumah keluarganya sehingga ia ber'iddah di tempat yang ia kehendaki, yaitu firman Allah Azza wa Jalla: 'Tanpa keluar rumah.' Atha berkata; 'Jika dia berkehendak, maka dia beriddah di rumah keluarganya dan tinggal sesuai wasiatnya.' Namun jika dia berkehendak, ia keluar darinya. Sebagaimana firman Allah Ta'ala: "Maka tidak ada dosa bagimu mengenai apa yang mereka lakukan terhadap diri mereka senidiri." (QS. Albaqarah 240), Atha berkata; kemudian turun ayat mirats (mengenai warisan) yang menghapus mengenai tempat tinggal, maka dia boleh beriddah sesuai kehendaknya tanpa harus tinggal dirumahnya. Dan dari [Muhammad bin Yusuf] Telah menceritakan kepada kami [Warqa] dari [Ibnu Abu Najih] dari Mujahid dengan redaksi yang serupa. Dan dari Ibnu Abu Najih dari [Atha] dari [Ibnu Abbas] dia berkata; 'ayat ini telah menghapus 'iddahnya di rumah keluarganya sehingga ia ber'iddah di tempat yang ia kehendaki, yaitu firman Allah Azza wa Jalla: 'Tanpa keluar rumah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4531</td></tr><tr><td>Arabic No</td><td>4531</td></tr><tr><td>Reference</td><td>Book 65 Hadith 54</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Муджахид сказал относительно аята «Если кто-либо из вас скончается и оставит после себя жён» (сура «аль-Бакара», аят 234): «Это пребывание женщины в период ‘идды в доме родных мужа было обязательным, и Аллах ниспослал: “Если кто-либо из вас скончается и оставит после себя жён, то они должны завещать, чтобы их обеспечивали в течение одного года и не прогоняли. Если же они сами уйдут, то на вас не будет греха за то, что они распорядятся собой разумным образом”». Он сказал: «Аллах дал ей право воспользоваться завещанием и остаться в доме, оставшиеся (от года) семь месяцев и двадцать ночей, если же она пожелает, то может уйти. Это в словах Аллаха: “…и не прогоняли. Если же они сами уйдут, то на вас не будет греха” (сура “аль-Бакара”, аят 240)». Поэтому 'идда (четыре месяца и десять дней) является обязательным для неё, согласно мнению Муджахида.\nПередается от ‘Ата, что Ибн ‘Аббас сказал: «Этот аят отменил обязательное пребывание женщины в период ‘идды в доме родных мужа. Ей была предоставлена возможность проводить ‘идду там, где она сама желала, на что указывают слова Всевышнего Аллаха “…и не прогоняли” (сура “аль-Бакара”, аят 240)».\n‘Ата сказал: «Она могла проводить ‘идду в доме родных мужа, а если не желала, могла покинуть его. На это указывают слова Всевышнего: “…на вас не будет греха, если они распорядятся собой…” (сура “аль-Бакара”, аят 240). А потом было ниспослано постановление о наследстве и о том, что лишившейся мужа женщине не полагается жильё, и она могла проводить ‘идду, где пожелает»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4531</td></tr><tr><td>Arabic No</td><td>4531</td></tr><tr><td>Reference</td><td>Book 65 Hadith 54</td></tr></tbody></table></div>
 

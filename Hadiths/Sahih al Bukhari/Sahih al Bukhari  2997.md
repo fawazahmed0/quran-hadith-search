@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:On the day of the battle of the Trench, the Prophet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami [Muhammad bin Al Munkadir] berkata; aku mendengar [Jabir bin 'Abdullah radliallahu 'anhuma] berkata; Pada hari perang Khandaq, Nabi shallallahu 'alaihi wasallam meminta manusia untuk melakukan tugas tertentu maka Az Zubair yang mengambil tugas tersebut. Kemudian Beliau kembali meminta mereka membantu Beliau dalam tugas tertentu dan Az Zubairlah yang melaksanakannya lalu kembali Beliau meminta bantuan maka sekali lagi Az Zubairlah yang melaksanakannya. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Sesungguhnya setiap Nabi memiliki Hawariy, dan hawariyku adalah Az Zubair". Sufyan berkata: "al-Hawariy artinya an-Naashir (penolong)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2997</td></tr><tr><td>Arabic No</td><td>2997</td></tr><tr><td>Reference</td><td>Book 56 Hadith 206</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Мухаммад ибн аль-Мункадир сказал: Я слышал, как Джабир ибн ‘Абдуллах, да будет доволен ими обоими Аллах, говорил: «Во время битвы у рва Пророк ﷺ стал побуждать людей и отозвался на это аз-Зубайр (ибн аль-‘Аввам). Затем он (снова) стал побуждать их и (снова) отозвался аз-Зубайр. Затем он (снова) стал побуждать их и (снова) отозвался аз-Зубайр, (и тогда) Пророк ﷺ сказал: «Поистине, у каждого Пророка был свой апостол, а моим апостолом является аз-Зубайр!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2997</td></tr><tr><td>Arabic No</td><td>2997</td></tr><tr><td>Reference</td><td>Book 56 Hadith 206</td></tr></tbody></table></div>
 

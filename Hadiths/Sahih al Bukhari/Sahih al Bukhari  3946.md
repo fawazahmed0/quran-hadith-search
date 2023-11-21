@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Salman Al-Farisi:That he was sold (as a slave) by one master to another
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Al Hasan bin 'Umar bin Syaqiq] telah menceritakan kepada kami [Mu'tamir] berkata [bapakku], Dan telah menceritakan kepada kami [Abu 'Utsman] dari [Salman Al Farisiy] bahwa dia telah berpindah-pindah tidak kurang sepuluh kali dari satu tuan ke tuan lain
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3946</td></tr><tr><td>Arabic No</td><td>3946</td></tr><tr><td>Reference</td><td>Book 63 Hadith 170</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Сальман аль-Фариси сказал, что он был продан одним хозяином другому более десяти раз
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3946</td></tr><tr><td>Arabic No</td><td>3946</td></tr><tr><td>Reference</td><td>Book 63 Hadith 170</td></tr></tbody></table></div>
 

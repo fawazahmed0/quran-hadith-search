@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah (Allah be pleased with them) reported:My maternal aunt was di
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Muhammad bin Hatim bin Maimun] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ibnu Juraij] dan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdur Razzaq] telah mengabarkan kepada kami [Ibnu Juraij] dan dari jalur lain, telah menceritakan kepadaku [Harun bin Abdullah] sedangkan lafazhnya dari dia, telah menceritakan kepada kami [Hajjaj bin Muhammad] dia berkata; [Ibnu Juraij] berkata; Telah mengabarkan kepadaku [Abu Az Zubair] bahwa dia pernah mendengar [Jabir bin Abdullah] berkata; "Bibiku dicerai oleh suaminya, lalu dia ingin memetik buah kurma, namun dia dilarang oleh seorang laki-laki untuk keluar rumah." Setelah itu istriku mendatangi Rasulullah shallallahu 'alaihi wasallam untuk menanyakan hal itu, maka Rasulullah shallallahu 'alaihi wasallam menjawab; "Ya, boleh! Petiklah buah kurmamu, semoga kamu dapat bersedekah atau berbuat kebajikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3721</td></tr><tr><td>Arabic No</td><td>1483</td></tr><tr><td>Reference</td><td>Book 18 Hadith 69</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3721</td></tr><tr><td>Arabic No</td><td>1483</td></tr><tr><td>Reference</td><td>Book 18 Hadith 69</td></tr></tbody></table></div>
 

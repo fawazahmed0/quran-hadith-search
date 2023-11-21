@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais bin Abi Hazim:We went to pay a visit to Khabbab (who was sick) and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Isma'il bin Abu Khalid] dari [Qais bin Abu Hazim] dia berkata; Aku pernah menjenguk [Khubbab], sementara dirinya berobat dengan kay (terapi dengan menempelkan besi panas pada bagian tubuh yang sakit) sebanyak tujuh kali, lalu dia berkata; "Sesungguhnya para sahabat kami yang telah mendahului kami, mereka telah pergi sementara mereka tidak mendapatkan bagian sedikitpun dari kehidupan dunia melainkan hanya sepetak tanah, sekiranya Nabi shallallahu 'alaihi wasallam tidak melarang kami untuk mengharapkan kematian, niscaya kami akan mengharapkan kematian." Di kesempatan lain kami menemuinya lagi sementara dirinya sedang membangun rumahnya, lalu dia berkata; "Seseorang akan diberi balasan dalam semua yang ia belanjakan selain yang ia belanjakan untuk sebidang tanah ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5672</td></tr><tr><td>Arabic No</td><td>5672</td></tr><tr><td>Reference</td><td>Book 75 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (однажды, когда) Хаббабу, да будет доволен им Аллах, сделали прижигания тела в семи местах, он сказал: «У тех наших товарищей, которые ушли раньше нас, мир этот не (смог отнять ничего, что же касается нас), то, поистине, досталось нам (столько всего), что мы не можем найти для этого никакого иного места, кроме земли! Если бы Пророк ﷺ не запретил нам желать смерти, то, поистине, я пожелал бы её!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5672</td></tr><tr><td>Arabic No</td><td>5672</td></tr><tr><td>Reference</td><td>Book 75 Hadith 32</td></tr></tbody></table></div>
 

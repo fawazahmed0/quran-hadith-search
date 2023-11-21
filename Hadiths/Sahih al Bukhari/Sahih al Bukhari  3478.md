@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Sa'id:The Prophet (ﷺ) said, "Amongst the people preceding your ag
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3478</td></tr><tr><td>Arabic No</td><td>3478</td></tr><tr><td>Reference</td><td>Book 60 Hadith 145</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Са‘ида, да будет доволен им Аллах, что Пророк ﷺ рассказал об одном человеке из числа живших до вас и сказал: «Аллах даровал ему имущество, и когда к нему подступила смерть, он спросил своих сыновей: “Каким отцом я был для вас?” Они ответили: “Хорошим отцом!” Он сказал: “Я не совершил ни одного благого дела, поэтому, когда я умру, сожгите моё тело, затем истолките его в порошок, а затем развейте мой прах в ветреный день”. Они сделали (с ним это). Затем Всемогущий и Великий Аллах собрал его и спросил: “Что побудило тебя к тому, что ты сделал?” Он ответил: “Страх перед Тобой”. И Аллах одарил его Своей милостью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3478</td></tr><tr><td>Arabic No</td><td>3478</td></tr><tr><td>Reference</td><td>Book 60 Hadith 145</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar: The Prophet (ﷺ) met Zaid bin 'Amr bin Nufail in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku [Muhammad bin Abu Bakr] dari [Fudlail bin Sulaiman] telah bercerita kepada kami [Musa bin 'Uqbah] telah bercerita kepada kami [Salim bin Abdullah] dari ['Abdullah bin 'Umar radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam bertemu dengan Zaid bin 'Amru bin Nufail di suatu jalan di bawah lembah bernama Baldah sebelum Nabi shallallahu 'alaihi wasallam menerima wahyu. Kemudian Nabi shallallahu 'alaihi wasallam disuguhi hidangan makanan namun beliau enggan memakannya. Kata beliau; "Wahai Zaid, aku tidak memakan sesuatu yang kalian sembelih di atas nashab kalian (batu besar yang biasa digunakan untuk menyembelih hewan yang ditujukan untuk behala) dan aku tidak akan memakan sesuatu kecuali yang disembelih dengan menyebut nama Allah". Dan Zaid bin 'Amru pernah mencela Quraisy dalam perkara sembelihan mereka dengan berkata; "Kambing itu diciptakan oleh Allah dan Allah menurunkan air hujan dari langit untuknya, Allah juga menumbuhkan tumbuhan di muka bumi untuknya, kemudian kalian menyembelihnya tanpa menyebut nama Allah". Hal ini diungkapan oleh Zaid sebagai protes atas tindakan mereka sekaligus menganggapnya sebagai perkara yang tidak sepele
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3826</td></tr><tr><td>Arabic No</td><td>3826</td></tr><tr><td>Reference</td><td>Book 63 Hadith 51</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ повстречал Зейда ибн ‘Амра ибн Нуфайля в нижней части (вади) Бальдах ещё до того, как ему ﷺ стали ниспосылаться откровения. Пророку ﷺ было предложено угощение, но он отказался от него, а потом Зейд (, которому также предложили это угощение,) сказал: “Поистине, я не ем ничего из того, что вы приносите в жертву на камнях у ваших идолов, как не ем ничего, кроме того, над чем было произнесено имя Аллаха”. Кроме того, Зейд ибн ‘Амр порицал способ жертвоприношений, которым пользовались курайшиты, и говорил: “Аллах создал овцу, и ниспослал для неё воду с неба и вырастил для неё (траву) на земле, а потом вы забиваете её без произнесения имени Аллаха!” — выражая своё неодобрение (подобным поступкам) и считая это большим (грехом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3826</td></tr><tr><td>Arabic No</td><td>3826</td></tr><tr><td>Reference</td><td>Book 63 Hadith 51</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Humayd Ibn Abdourrahmân Ibn 'Awf rapporte qu'il a entendu Mu'âwiya Ibn Abî So
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] ia berkata; aku membaca Hadits [Malik] dari [Ibnu Syihab] dari [Humaid bin 'Abdur Rahman bin 'Auf] bahwa dia mendengar [Mu'awiyah bin Abu Sufyan] berpidato di atas mimbar pada tahun haji, seraya memegang jambul rambut yang semula berada di tangan pengawal dia berkata; "Hai penduduk Madinah, di manakah ulama kalian? Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam melarang hal semacam ini. Dan dia juga berkata; 'Sesungguhnya Bani Israil mengalami kebinasaan manakala perempuan mereka menggunakan jambul seperti ini. Telah menceritakan kepada kami [Ibnu Abu 'Umar]; Telah menceritakan kepada kami [Sufyan bin 'Uyainah]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepadaku [Harmalah bin Yahya]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku [Yunus]; Demikian juga telah diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami ['Abad bin Humaid]; Telah mengabarkan kepada kami ['Abdur Razaq]; Telah mengabarkan kepada kami [Ma'mar] seluruhnya dari [Az Zuhri] sebagaimana Hadits Malik, hanya saja pada Hadits Ma'mar menggunakan lafazh 'Sesungguhnya Bani Israil disiksa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5578</td></tr><tr><td>Arabic No</td><td>2127.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 186</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5578</td></tr><tr><td>Arabic No</td><td>2127.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 186</td></tr></tbody></table></div>
 

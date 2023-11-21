@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuMalik al-Ash'ari: Should I not tell you how the Messenger of Allah (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Syadzan] telah menceritakan kepada kami ['Ayyasy Ar-Raqqam] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Qurrah bin Khalid] telah menceritakan kepada kami [Budail] telah menceritakan kepada kami [Syahr bin Hausyab] dari [Abdurrahman bin Ghanm] dia berkata; [Abu Malik Al-Asy'ari] berkata; Maukah aku ceritakan kepada kalian tentang shalat Nabi shallallahu 'alaihi wasallam? Dia melanjutkan; Beliau shallallahu 'alaihi wasallam mendirikan shalat, beliau membariskan shaf laki-laki dewasa dan di belakang mereka anak-anak muda, lalu beliau shalat bersama mereka. Abu Malik kemudian menyebutkan shalat beliau, lalu beliau bersabda: "Inilah shalat." Abdul A'la berkata; Saya tidak menyangka Abu Malik kecuali dia menyebutkan sabda beliau: "Inilah shalat umatku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>677</td></tr><tr><td>Arabic No</td><td>677</td></tr><tr><td>Reference</td><td>Book 2 Hadith 287</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абду-р-Рахман ибн Гъанм сказал: «(Однажды) Абу Малик аль-Аш‘ари сказал: “Не рассказать ли мне вам о молитве Пророка ﷺ?”».(Абу Малик) сказал: «И он объявил о начале молитвы и поставил (в первые) ряды мужчин, за ними поставил мальчиков, после чего совершил с ними молитву».И он рассказал о молитве (Пророка ﷺ). Затем (Посланник Аллаха ﷺ) сказал: «Вот так (совершается) молитва».‘Абдуль-А‘ля сказал: «А я думаю, что (Абу Малик) сказал: “Молитва моей общины”».Также этот хадис передали Ахмад 5/343 и аль-Байхакъи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>677</td></tr><tr><td>Arabic No</td><td>677</td></tr><tr><td>Reference</td><td>Book 2 Hadith 287</td></tr></tbody></table></div>
 

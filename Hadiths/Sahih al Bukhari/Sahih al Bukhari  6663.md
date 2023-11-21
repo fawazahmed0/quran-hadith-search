@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:regarding: 'Allah will not call you to account for that which is
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari [Hisyam] mengabarkan, telah mengabarkan kepadaku [Ayahku] dari [Aisyah] radliallahu 'anhuma mengenai firman Allah: 'Allah tidak menghukum kalian karena sumpah kalian yang tak disengaja, ' QS.Albaqarah 225, kata 'Aisyah; ayat tersebut diturunkan tentang ucapan orang yang bersumpah; 'Tidak, demi Allah. Baik, demi Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6663</td></tr><tr><td>Arabic No</td><td>6663</td></tr><tr><td>Reference</td><td>Book 83 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Аят в котором сказано): “Аллах не станет взыскивать с вас за непреднамеренные клятвы …”, — был ниспослан в отношение тех слов, (кто часто говорит): “Нет, клянусь Аллахом!”, и: “Да, клянусь Аллахом!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6663</td></tr><tr><td>Arabic No</td><td>6663</td></tr><tr><td>Reference</td><td>Book 83 Hadith 41</td></tr></tbody></table></div>
 

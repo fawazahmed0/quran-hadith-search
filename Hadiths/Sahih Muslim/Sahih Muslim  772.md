@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir Ibn 'Abdillâh (رضي الله عنهما), alors que l'Envoyé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin harb] telah menceritakan kepada kami [Rauh bin Ubadah] telah menceritakan kepada kami [Zakariya' bin Ishaq] telah menceritakan kepada kami [Amru bin Dinar] dia berkata, "Saya mendengar [Jabir bin Abdullah] bercerita bahwa Rasulullah shallallahu 'alaihi wasallam memindahkan batu untuk Ka'bah bersama mereka, dan beliau dalam keadaan memakai sarung, maka al-Abbas, pamannya berkata kepadanya, 'Wahai anak saudaraku, kalau seandainya kamu berkenan melepas sarungmu dan meletakkannya di atas tengkukmu di bawah batu'." Perawi berkata, "Lalu beliau melepaskannya dan meletakkannya di atas bahunya. Lalu beliau jatuh pingsan. Dia berkata, "Setelah itu beliau tak pernah lagi tampak telanjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>772</td></tr><tr><td>Arabic No</td><td>340.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 94</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что ‘Амр ибн Динар сказал: «Я слышал, как Джабир ибн ‘Абдуллах рассказывал о том, что (когда) Посланник Аллаха ﷺ, одетый в свой изар, переносил вместе с ними камни для Каабы, его дядя аль-‘Аббас сказал ему: “О племянник, (лучше бы) ты развязал свой изар и подкладывал его под камни на плечи”».(Джабир) сказал: «Toгдa он развязал изар и положил его себе на плечи, однако (сразу же) лишился чувств, и после этого больше никто не видел его ﷺ обнажённым»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>772</td></tr><tr><td>Arabic No</td><td>340.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 94</td></tr></tbody></table></div>
 

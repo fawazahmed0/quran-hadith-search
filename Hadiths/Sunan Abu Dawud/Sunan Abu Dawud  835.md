@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Mutarrif said:I and ‘Imran b. Husain offered prayer behind ‘All b. AbI Talib
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad] dari [Ghailan bin Jarir] dari [Mutharif] dia berkata; "Aku dan Imran bin Hushain shalat di belakang Ali bin Abu Thalib radliallahu 'anhu, dia bertakbir ketika sujud, ruku' dan bangkit dari raka'at kedua. Ketika kami selesai melaksanakan shalat, [Imran bin Hushain] memegang tanganku dan berkata; "Sungguh sebelum ini, dia juga melaksanakan shalat seperti ini, -atau dia berkata- sungguh dia telah melaksanakan shalat bersama kami seperti ini sebelumnya, maksudnya seperti shalatnya Muhammad shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (786) Sahih Muslim (393)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>835</td></tr><tr><td>Arabic No</td><td>835</td></tr><tr><td>Reference</td><td>Book 2 Hadith 445</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Мутаррифа: «Мы с ‘Имраном ибн Хусайном совершали молитву под руководством ‘Али ибн Абу Талиба. Он произносил такбир перед земным поклоном, и перед поясным поклоном, и перед тем, как встать после совершения двух рак‘атов. Когда мы закончили, ‘Имран взял меня за руку и сказал: “Только что он совершил с нами молитву так, как совершал её Мухаммад ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (786) Sahih Muslim (393)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>835</td></tr><tr><td>Arabic No</td><td>835</td></tr><tr><td>Reference</td><td>Book 2 Hadith 445</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ubaidullah bin 'Abdullah bin 'Utba:Ibn 'Abbas said, Allah's Messenger (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah menceritakan kepada kami [Al Laits] katanya, Telah menceritakan kepadaku [Uqail] dari [Ibnu Syihab] katanya, telah menceritakan kepadaku [Ubaidullah bin Abdullah bin Utbah], bahwa Ibnu Abbas memberitakannya, Rasulullah shallallahu 'alaihi wasallam melakukan penaklukan Makkah pada bulan Ramadhan. Kata [Ibnu Abbas], kudengar Said bin Musayyab juga seperti itu. Dan dari Ubaidullah bin Abdullah ia mengabarinya, bahwsanya Ibnu Abbas radliallahu 'anhu mengatakan, Rasulullah shallallahu 'alaihi wasallam pernah berpuasa, hingga ketika beliau sampai Kadid, sebuah mata air antara Qudaid dan Usfan, beliau membatalkan puasanya dan terus beliau tidak puasa hingga bulan yang dijadikan beliau puasa selesai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4275</td></tr><tr><td>Arabic No</td><td>4275</td></tr><tr><td>Reference</td><td>Book 64 Hadith 309</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас сказал: «Посланник Аллаха ﷺ отправился на сражение “Завоевания Мекки” в месяце рамадан». Также он сказал: «Посланник Аллаха ﷺ постился до тех пор, пока не достиг аль-Кадида (место, где есть вода, находящиеся между Кудайдом и ‘Усфаном), где он разговелся. Затем он не постился до тех пор, пока не закончился месяц»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4275</td></tr><tr><td>Arabic No</td><td>4275</td></tr><tr><td>Reference</td><td>Book 64 Hadith 309</td></tr></tbody></table></div>
 

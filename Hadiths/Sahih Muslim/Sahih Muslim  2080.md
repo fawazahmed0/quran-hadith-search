@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported that while the Messenger of Allah (ﷺ) was delivering th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2080</td></tr><tr><td>Arabic No</td><td>897.03</td></tr><tr><td>Reference</td><td>Book 9 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Анас ибн Малик сказал: «(Однажды) в пятницу, когда Пророк ﷺ произносил хутбу, люди встали и закричали, говоря: “О Пророк Аллаха, дождя нет, деревья высохли и скот погиб…”. Далее он привёл хадис подобно предыдущему, но в этой версии также говорится: «…тогда небо над Мединой прояснилось, а дождь продолжал идти над её окраинами, и ни одна капля дождя не падала на Медину. Я посмотрел на Медину и увидел, (как тучи образовали) вокруг неё подобие венца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2080</td></tr><tr><td>Arabic No</td><td>897.03</td></tr><tr><td>Reference</td><td>Book 9 Hadith 11</td></tr></tbody></table></div>
 

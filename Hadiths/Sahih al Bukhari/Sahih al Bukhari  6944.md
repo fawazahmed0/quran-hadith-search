@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:While we were in the mosque, Allah's Messenger (ﷺ) came o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdul Aziz bin Abdullah] telah menceritakan kepada kami [Al Laits] dari [Sa'id Al Maqburi] dari [ayahnya] dari [Abu Hurairah] radliallahu 'anhu; ketika kami di masjid, tiba-tiba Rasulullah shallallahu 'alaihi wasallam menemui kami dan berujar: "Ayo kita pergi ke kaum yahudi, " maka kami berangkat bersama beliau, hingga kami tiba di Baitil Midras, Nabi shallallahu 'alaihi wasallam berdiri dan menyeru mereka; "Wahai sekalian kaum yahudi, masuklah ke dalam Islam, maka kalian akan selamat." 'Telah engkau sampaikan wahai Abul Qasim' Sambut mereka."Itulah yang kuinginkan sebenarnya" Kata Nabi. Nabi mengulang ajakannya dua kali dan mereka memberi jawaban sama; 'Telah engkau sampaikan wahai Abul qasim.' Nabi mengajak mereka untuk kali ketiga, dan berujar kepada mereka: "Ketahuilah, bahwasanya bumi ini adalah milik Allah dan rasul-NYA, dan saya ingin mengusir kalian, maka siapa diantara kalian yang mendapatkan sesuatu dengan hartanya, juallah, kalaulah tidak, ketahuilah bumi hanyalah milik Allah dan rasul-NYA
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6944</td></tr><tr><td>Arabic No</td><td>6944</td></tr><tr><td>Reference</td><td>Book 89 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра, да будет доволен им Аллах, передаёт: «Когда мы сидели в мечети, Посланник Аллаха ﷺ вышел и сказал: “Отправляйтесь к иудеям”. И мы отправились к ним вместе с ним пока не пришили в мидрас (место, в котором читали и изучали Тору). А затем Пророк ﷺ встал и сказал: “О иудеи! Примите ислам и вы спасётесь”. Они сказали: “Ты довёл до нашего сведения, о Абу аль-Касим”. Посланник Аллаха ﷺ сказал им: “Этого я и желал”. Затем он повторил эти слова, и они сказали: “Ты довёл до нашего сведения, о Абу аль-Касим”. Затем Посланник Аллаха ﷺ сказал им на третий раз, а потом сказал: “Знайте, что земля принадлежит Аллаху и Его Посланнику и, поистине, я желаю выселить вас с этой земли. У кого из вас есть здесь имущество, пусть продаст его, а в противном случае, то знайте, что земля принадлежит Аллаху и Его Посланнику”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6944</td></tr><tr><td>Arabic No</td><td>6944</td></tr><tr><td>Reference</td><td>Book 89 Hadith 5</td></tr></tbody></table></div>
 

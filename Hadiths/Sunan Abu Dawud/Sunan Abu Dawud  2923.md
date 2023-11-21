@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Dawud b. al-Husain: I used to learn the reading of the Qur'an from Umm 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Abdul Aziz bin Yahya] secara makna, Ahmad berkata; telah menceritakan kepada kami [Muhammad bin Salamah], dari [Ibnu Ishaq] dari [Daud bin Al Hushain], ia berkata; dahulu aku membacakan riwayat kepada [Ummu Sa'd binti Ar Rabi'] dan ia dahulu adalah seorang yatim di dalam asuhan Abu Bakr, kemudian aku membaca: WALLADZIINA 'AQADAT AIMAANUKUM "Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka……" Kemudian Ummu Sa'd berkata; janganlah engkau membaca; WALLADZIINA 'AQADAT AIMAANUKUM "Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka.." sesungguhnya ayat tersebut turun mengenai Abu Bakr dan anaknya yaitu Abdurrahman ketika ia menolak masuk Islam, kemudian Abu Bakr bersumpah bahwa ia tidak akan memberinya warisan. Kemudian tatkala Abdurrahman telah masuk Islam, maka Allah Ta'ala memerintahkan NabiNya shallallahu 'alaihi wasallam agar memberikan kepadanya bagiannya. Abdul Aziz menambahkan; tidaklah ia masuk Islam hingga ia didorong masuk Islam dengan acungan pedang. Abu Daud berkata; barangsiapa yang mengucapkan 'aqadat maka ia menjadikan sebuah sumpah, sedangkan orang yang mengatakan; 'aaqadat maka ia menjadikannya orang yang bersumpah. Ia berkata; dan yang benar adalah hadits Thalhah yaitu: 'aaqadat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2923</td></tr><tr><td>Arabic No</td><td>2923</td></tr><tr><td>Reference</td><td>Book 19 Hadith 39</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Дауд ибн аль-Хусайн передаёт: «Я читал Коран при Умм Са‘д бинт ар-Раби‘, которая была сиротой и воспитанницей Абу Бакра, и я прочитал: “Отдавайте тем, с кем вы связаны клятвами, их долю”. Она же сказала: “Не читай: “Отдавайте тем, с кем вы связаны клятвами, их долю” (сура 4 «ан-Ниса», аят 33) (с алифом, но читай без него). Поистине, это было ниспослано относительно Абу Бакра и его сына ‘Абду-р-Рахмана. ‘Абду-р-Рахман отказался принимать ислам, и Абу Бакр поклялся, что оставит его без наследства. А потом ‘Абду-р-Рахман принял ислам, и пророк Аллаха ﷺ повелел отдать ему его долю”». (Передатчик) Абду-ль-Азиз добавлял: «А он не принимал ислам до тех пор, пока его не вынудил к этому меч»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2923</td></tr><tr><td>Arabic No</td><td>2923</td></tr><tr><td>Reference</td><td>Book 19 Hadith 39</td></tr></tbody></table></div>
 

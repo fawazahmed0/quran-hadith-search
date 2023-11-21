@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I purchased a cushion with pictures on it. The Prophet (came and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Hajjaj bin Minhal] telah menceritakan kepada kami [Juwairiyah] dari [Nafi'] dari [Al Qasim] dari [Aisyah] radliallahu 'anha bahwa dia telah membeli numruqah (bantal yang digunakan untuk duduk) yang ada gambarnya. Nabi shallallahu 'alaihi wasallampun berdiri di depan pintu dan tidak masuk ke dalam rumah. maka saya bertanya; "Wahai Rasulullah, aku bertaubat kepada Allah, sebenarnya dosa apa yang telah aku perbuat?" beliau bersabda: "Bantal apakah ini?" Dia menjawab; "Aku telah membelinya agar anda duduk di atasnya atau anda jadikan sebagai bantal." Beliau bersabda: "Sesungguhnya orang yang menggambar gambar ini akan disiksa pada Hari Kiamat. Dikatakan kepada mereka; 'Hidupkan yang telah kalian buat, ' (beliau bersabda): "Sesungguhnya malaikat tidak akan masuk ke dalam rumah yang ada gambarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5957</td></tr><tr><td>Arabic No</td><td>5957</td></tr><tr><td>Reference</td><td>Book 77 Hadith 173</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, да будет доволен ею Аллах, что однажды она купила себе небольшую подушечку /нумрука/, на которой были изображения (живых существ). (‘Аиша сказала): «(Увидев эту подушку), Пророк ﷺ остановился у дверей, но не стал входить (в комнату), и я сказала: «Я раскаиваюсь перед Аллахом за своё прегрешение». Он спросил: «Что это за подушечка?» Я сказала: «(Я купила её для тебя,) чтобы ты сидел на ней и подкладывал её себе под голову». Тогда он сказал: «Поистине, создатели этих изображений в День воскресения будут подвергнуты мучениям и им скажут: “Оживите то, что вы создали!” И, поистине, ангелы не входят в дом, где есть изображения (живых существ)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5957</td></tr><tr><td>Arabic No</td><td>5957</td></tr><tr><td>Reference</td><td>Book 77 Hadith 173</td></tr></tbody></table></div>
 

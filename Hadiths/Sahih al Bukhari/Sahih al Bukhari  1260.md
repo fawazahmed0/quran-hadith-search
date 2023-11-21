@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hafsa bint Seereen:Um 'Atiyya said that they had entwined the hair of t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad] telah menceritakan kepada kami ['Abdullah bin Wahb] telah mengabarkan kepada kami [Ibnu Juraij] berkata, [Ayyub]; Aku mendengar [Hafshah binti Sirin] berkata, telah menceritakan kepada kami [Ummu 'Athiyyah radliallahu 'anha]; Bahwa mereka menjadikan (rambut) puteri Rasulullah shallallahu 'alaihi wasallam tiga ikatan kemudian mereka melepaskannya lalu aku membasuhnya kemudian mereka jadikan kembali menjadi tiga ikatan (kepang)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1260</td></tr><tr><td>Arabic No</td><td>1260</td></tr><tr><td>Reference</td><td>Book 23 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм ‘Атыйя, да будет доволен ею Аллах, сказала, что они заплели волосы дочери Посланника Аллаха ﷺ в три косы. Сначала они распустили ей волосы, вымыли и заплели в три косы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1260</td></tr><tr><td>Arabic No</td><td>1260</td></tr><tr><td>Reference</td><td>Book 23 Hadith 21</td></tr></tbody></table></div>
 

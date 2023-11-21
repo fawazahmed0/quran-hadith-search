@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that Allah's Messenger (ﷺ) was asked about the children o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ath Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Ibnu Abu Dzi'b] dan [Yunus] dari [Ibnu Syihab] dari ['Atha bin Yazid] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam ditanya tentang anak-anak kaum Musyrikin? lalu beliau bersabda: "Allah maha mengetahui terhadap apa yang mereka perbuat." Telah menceritakan kepada kami ['Abd bin Humaid] telah mengabarkan kepada kami ['Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami ['Abdullah bin 'Abdurrahman bin Bihram] telah mengabarkan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] Demikian juga diriwayatkan dari jalur lainnya, dan telah menceritakan kepada kami [Salamah bin Syabib] telah menceritakan kepada kami [Al Hasan bin A'yan] telah menceritakan kepada kami [Ma'qil bin 'Ubaidullah] semuanya dari [Az Zuhri] dengan sanad [Yunus] dan [Ibnu Abu Dzi'b] seperti hadits keduanya. Hanya saja pada hadits Syu'aib dan Ma'qil dengan menggunakan lafazh; 'Beliau ditanya mengenai keturunan orang-orang Musyrik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6763</td></tr><tr><td>Arabic No</td><td>2659.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6763</td></tr><tr><td>Arabic No</td><td>2659.02</td></tr><tr><td>Reference</td><td>Book 46 Hadith 41</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as sayi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub yaitu Ibnu Abdirrahman Al Qari] dari [Suhail] dari [ayahnya] dari [Abu Hurairah] bahwasannya Rasulullah Shallallu 'alaihi wa sallam bersabda: "Barangsiapa membeli kambing yang puting susunya diikat (agar terlihat berisi), maka ia berhak memilih selama tiga hari, jika ia berkenan menahannya maka ia boleh menahannya, dan jika ia berkenan mengembalikannya maka ia boleh mengembalikannya dengan menyertakan satu sha' kurma
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3831</td></tr><tr><td>Arabic No</td><td>1524.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3831</td></tr><tr><td>Arabic No</td><td>1524.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 31</td></tr></tbody></table></div>
 

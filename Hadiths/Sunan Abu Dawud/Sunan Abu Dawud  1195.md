@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated 'Abd al-Rahman b. Samurah :During the lifetime of the Messenger of Alla
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisr bin Al Mufadlal] telah menceritakan kepada kami [Al Jurairi] dari [Hayyan bin 'Umair] dari [Abdurrahman bin Samurah] dia berkata; "Ketika kami melepaskan anak panah di masa hidupnya Rasulullah shallallahu 'alaihi wasallam, tiba-tiba terjadi gerhana Matahari, lalu aku segera meletakkan anak panah tersebut dan berkata; "Sungguh aku akan melihat kejadian apa yang akan menimpa Rasulullah shallallahu 'alaihi wasallam pada hari terjadinya gerhana Matahari ini." lalu aku menemui beliau, ternyata beliau sedang mengangkat kedua tangannya sambil bertasbih, tahmid dan bertahlil serta berdo'a hingga gerhana hilang dari matahari. Beliau membaca dua surat dan shalat dua raka'at
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (913)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказывается от ‘Абдуррахмана ибн Самуры, да будет доволен им Аллах: «Однажды при жизни Посланника Аллаха ﷺ я упражнялся в стрельбе из лука и вдруг началось солнечное затмение. Бросив стрелы, я сказал себе: “Пойду посмотрю, что делает Посланник Аллаха ﷺ в связи с сегодняшним затмением”. Когда я пришёл к нему, он стоял, подняв руки, восхваляя Аллаха, прославляя Его, свидетельствуя о Его единственности и обращаясь к Нему с мольбами. Это продолжалось до тех пор, пока затмение не закончилось. Он прочитал две суры и совершил молитву в два рак‘ата»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (913)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
 

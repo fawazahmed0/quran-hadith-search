@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Aisha:Once Allah's Messenger (ﷺ) heard the loud voices of some oppone
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Isma'il bin Abi Uwais] berkata telah bercerita kepadaku [saudaraku] dari [Sulaiman] dari [Yahya bin Sa'id] dari [Abu ar-Rijal Muhammad bin 'Abdur Rahman] bahwa [ibunya, 'Amrah binti 'Abdur Rahman] berkata aku mendengar ['Aisyah radliallahu 'anha] berkata: "Rasulullah shallallahu 'alaihi wasallam mendengar suara pertengkaran di depan pintu, suara keduanya saling meninngi. Dan ternyata salah satu diantara keduanya meminta lawannya agar merendah dan berbuat baik kepadanya tentang sesuatu, sementara yang satu berkata: "Demi Allah aku tidak mau melakukannya". Maka kemudian Rasulullah shallallahu 'alaihi wasallam keluar menemui keduanya lalu berkata: "Siapa orangnya yang tadi bersumpah kepada Allah tidak akan berbuat baik?" Maka seorang darinya berkata: "Aku wahai Rasulullah, sekarang terserah baginya apa yang dia suka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2705</td></tr><tr><td>Arabic No</td><td>2705</td></tr><tr><td>Reference</td><td>Book 53 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ услышал громкие голоса (людей,) споривших у (его) дверей, и оказалось, что один из споривших просит другого простить ему часть (долга) и проявить доброту, другой же говорит: “Клянусь Аллахом, не сделаю!” Тогда Посланник Аллаха ﷺ вышел к ним и спросил: “Где тот, кто клянётся Аллахом, что не сделает одобряемого (шариатом?” Этот человек) сказал: “(Это) я, о Посланник Аллаха, а ему пусть достанется то, чего он хочет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2705</td></tr><tr><td>Arabic No</td><td>2705</td></tr><tr><td>Reference</td><td>Book 53 Hadith 15</td></tr></tbody></table></div>
 

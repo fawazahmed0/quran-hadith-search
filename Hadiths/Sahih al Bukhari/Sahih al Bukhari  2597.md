@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Humaid Al-Sa'idi:The Prophet (ﷺ) appointed a man from the tribe o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Muhammad] telah menceritakan kepada kami [Sufyan] dari [Az Zuhriy] dari ['Urwah bin Az Zubair] dari [Abu Humaid as-Sa'idiy radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam memperkerjakan seorang laki-laki dari suku Al azdiy sebagai pemungut zakat. Ketika datang dari tugasnya, dia berkata: "Ini untuk kalian sebagai zakat dan ini dihadiahkan untukku". Beliau berkata: "Biarkanlah dia tinggal di rumah ayahnya atau ibunya lalu dia lihat apakah benar itu dihadiahkan untuknya atau tidak. Dan demi Dzat yag jiwaku di tangan-Nya, tidak seoragpun yang mengambil sesuatu dari zakt kecuali dia akan datang pada hari qiyamat dengan dipikulkan di atas lehernya berupa unta yang berteriak, atau sapi yang melembuh atau kambing yang mengembik". Kemudia Beliau mengangkat tangan Beliau sehingga terlihatt oleh kami ketiak Beliau yang putih dan (berkata,): "Ya Allah bukankah aku sudah sampaikan, bukankah aku sudah sampaikan"…. sebanyak tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2597</td></tr><tr><td>Arabic No</td><td>2597</td></tr><tr><td>Reference</td><td>Book 51 Hadith 31</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хумайд ас-Са‘иди, да будет доволен им Аллах, сказал: «В своё время Пророк ﷺ поручил одному человеку из (племени) азд по имени Ибн аль-Утбийя заниматься сбором закята. Вернувшись, он сказал: “Это — вам, а это было подарено мне”. Тогда (Пророк ﷺ) сказал: “Почему не остался он сидеть в доме своего отца или своей матери, чтобы посмотреть, подарят ему это или нет?! Клянусь Тем, в Чьей руке душа моя, если кто-нибудь присвоит себе что-нибудь из этого, в День воскресения он обязательно придёт, влача это на своей шее! Если это был верблюд, то (он явится) с ревущим верблюдом, [и это может быть] мычащая корова или блеющая овца!” — после чего (Пророк ﷺ) воздел руки к небу, (подняв их так высоко,) что мы увидели белизну его подмышек, и сказал: “О Аллах, донёс ли я? О Аллах, донёс ли я?” — произнеся эти слова трижды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2597</td></tr><tr><td>Arabic No</td><td>2597</td></tr><tr><td>Reference</td><td>Book 51 Hadith 31</td></tr></tbody></table></div>
 

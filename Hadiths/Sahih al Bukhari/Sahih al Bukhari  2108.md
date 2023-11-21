@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hakim bin Hizam":The Prophet (ﷺ) said, "The buyer and the seller have
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hafsh bin 'Umar] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Abu Al Khalil] dari ['Abdullah bin Al Harits] dari [Hakim bin Hizam radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Dua orang yang melakukan jual beli boleh melakukan khiyar (pilihan untuk melangsungkan atau membatalkan) dalam jual beli selama keduanya belum berpisah". [Ahmad] menambahkan, telah menceritakan kepada kami [Bahaz] berkata,, [Hammam] berkata: "Kemudian hal ini aku ceritakan kepada [Abu At-Tayyah], maka dia berkata: "Aku pernah bersama [Abu Al Khalil] ketika ['Abdullah bin Al Harits] menceritakan kepadanya tentang hadits ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2108</td></tr><tr><td>Arabic No</td><td>2108</td></tr><tr><td>Reference</td><td>Book 34 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Хакима ибн Хизама, да будет доволен им Аллах, что Пророк ﷺ сказал: «Продавец и покупатель имеют право выбора завершить или отменить сделку до тех пор, пока не расстанутся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2108</td></tr><tr><td>Arabic No</td><td>2108</td></tr><tr><td>Reference</td><td>Book 34 Hadith 61</td></tr></tbody></table></div>
 

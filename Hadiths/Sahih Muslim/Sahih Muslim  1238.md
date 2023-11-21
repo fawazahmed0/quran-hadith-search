@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:The Apostle of Allah (ﷺ) prayed in a garment which had designs
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru an-Naqid] dan [Zuhair bin Harb] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Abu Bakar bin Abi Syaibah] dan lafazh tersebut milik Zuhair, mereka berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Urwah] dari [Aisyah] bahwa Nabi Shallallahu'alaihiwasallam pernah shalat memakai baju memiliki gambar tanda. Lalu beliau bersabda, 'Gambar corak tanda baju ini menggangguku (dalam hal khusyu') ketika sedang shalat, karena itu bawalah baju ini kepada Abu Jahm, dan bawakan untukku baju yang polos
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1238</td></tr><tr><td>Arabic No</td><td>556.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что однажды, Пророк ﷺ совершил молитву в одежде (украшенной) узорами, после чего сказал: «Эти узоры отвлекли меня (от моей молитвы). Отнесите её Абу Джахму и принесите мне его одежду /анбиджанийа/ (грубая одноцветная шерстяная накидка)!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1238</td></tr><tr><td>Arabic No</td><td>556.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 76</td></tr></tbody></table></div>
 

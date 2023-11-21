@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) used to pour water three times on
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basyar] berkata, telah menceritakan kepada kami [Ghundar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Mikhwal bin Rasyid] dari [Muhammad bin 'Ali] dari [Jabir bin 'Abdullah] berkata, "Nabi shallallahu 'alaihi wasallam menguyurkan air ke atas kepala sebanyak tiga kali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>255</td></tr><tr><td>Arabic No</td><td>255</td></tr><tr><td>Reference</td><td>Book 5 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Обычно, (при совершении полного омовения,) Пророк ﷺ наливал себе на голову три (пригоршни воды)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>255</td></tr><tr><td>Arabic No</td><td>255</td></tr><tr><td>Reference</td><td>Book 5 Hadith 8</td></tr></tbody></table></div>
 

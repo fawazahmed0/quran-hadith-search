@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When the verses of Surat "Al-Baqara"' about the usury Riba were 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdan] dari [Abu Hamzah] dari [Al A'masy] dari [Muslim] dari [Masruq] dari ['Aisyah] berkata, "Ketika turun ayat-ayat dalam Surah Al Baqarah tentang masalah riba, Nabi shallallahu 'alaihi wasallam keluar ke masjid lalu membacakan ayat-ayat tersebut kepada manusia. Kemudian beliau mengharamkan perdagangan khamer
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>459</td></tr><tr><td>Arabic No</td><td>459</td></tr><tr><td>Reference</td><td>Book 8 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «После того как были ниспосланы аяты о ростовщичестве из суры “аль-Бакъара”, Пророк ﷺ вышел (из дома) в мечеть и прочёл их людям, после чего запретил торговать вином»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>459</td></tr><tr><td>Arabic No</td><td>459</td></tr><tr><td>Reference</td><td>Book 8 Hadith 107</td></tr></tbody></table></div>
 

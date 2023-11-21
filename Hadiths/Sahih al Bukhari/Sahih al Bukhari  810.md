@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) said, "We have been ordered to prostrates 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Syu'bah] dari ['Amru] dari [Thawus] dari [Ibnu 'Abbas] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Kami diperintahkan untuk melaksanakan sujud dengan tujuh tulang (anggota sujud), dan dilarang menahan rambut atau pakaian (sehingga menghalangi anggota sujud)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>810</td></tr><tr><td>Arabic No</td><td>810</td></tr><tr><td>Reference</td><td>Book 10 Hadith 205</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Также от Ибн Аббаса, что Пророк ﷺ сказал: «Нам велено совершать земной поклон на семь костей, не засучивать одежду и не заплетать волосы»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>810</td></tr><tr><td>Arabic No</td><td>810</td></tr><tr><td>Reference</td><td>Book 10 Hadith 205</td></tr></tbody></table></div>
 

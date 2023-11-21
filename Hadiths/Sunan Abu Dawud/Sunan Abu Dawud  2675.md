@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Mas'ud: We were with the Messenger of Allah (ﷺ) during a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Shalih Mahbub bin Musa], telah mengabarkan kepada kami [Abu Ishaq Al Fazari], dari [Abu Ishaq Asy Syaibani], dari [Ibnu Sa'd], telah berkata selain Shalih, dari Al Hasan bin Sa'd dari [Abdurrahman bin Abdullah] dari [ayahnya], ia berkata; kami pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu perjalanan, kemudian beliau pergi untuk suatu keperluannya, kemudian kami melihat seekor burung bersama kedua anaknya. Lalu kami mengambil kedua anaknya, kemudian burung tersebut datang dan mengepak-ngepakkan sayapnya. Kemudian Nabi shallallahu 'alaihi wasallam datang dan berkata: "Siapakah yang menyakiti burung ini dengan mengambil anaknya? Kembalikan anaknya kepadanya." Dan Rasulullah shallallahu 'alaihi wasallam melihat kelompok semut yang telah kami bakar, kemudian beliau bersabda: "Siapakah yang telah membakar semut ini?" Kami katakan; kami. Beliau berkata: "Sesungguhnya tidak layak untuk menyiksa dengan api kecuali Tuhan Penguasa api
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2675</td></tr><tr><td>Arabic No</td><td>2675</td></tr><tr><td>Reference</td><td>Book 15 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2675</td></tr><tr><td>Arabic No</td><td>2675</td></tr><tr><td>Reference</td><td>Book 15 Hadith 199</td></tr></tbody></table></div>
 

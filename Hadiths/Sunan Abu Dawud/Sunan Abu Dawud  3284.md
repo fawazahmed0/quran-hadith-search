@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Hurairah:A man brought the Prophet (ﷺ) a black slave girl. He sai
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Ya'qub Al Jauzajani], telah menceritakan kepada kami [Yazid? bin Harun], ia berkata; telah mengabarkan kepadaku [Al Mas'udi] dari ['Aun bin Abdullah] dari [Abdullah bin 'Utbah] dari [Abu Hurairah] bahwa seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dengan membawa seorang budak wanita hitam, kemudian ia berkata; wahai Rasulullah, sesungguhnya saya berkewajiban membebaskan budak mukmin. Kemudian beliau bersabda: "Di manakah Allah?" kemudian ia mengisyaratkan ke langit dengan jari-jarinya. Kemudian beliau berkata kepadanya: "Siapakah aku?" kemudian ia menunjuk kepada Nabi shallallahu 'alaihi wasallam dan ke langit yang maksudnya adalah engkau adalah Rasulullah. Maka beliau berkata: "Bebaskan dia, sesungguhnya ia adalah wanita mukminah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3284</td></tr><tr><td>Arabic No</td><td>3284</td></tr><tr><td>Reference</td><td>Book 22 Hadith 43</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+От Ибн ас-Сарха от Ибн Вахба от Юнуса от Ибн Шихаба, передаётся хадис с таким же смыслом и иснадом. Ибн аль-Мубарак сказал об этом хадисе: «“Абу Саляма передал…” Это свидетельствует о том, что аз-Зухри не слышал его от Абу Салямы, и это подтверждает переданное Айюбом ибн Сулейманом». Абу Дауд передавал, что Ахмад ибн Ханбаль говорил: «Они испортили для нас этот хадис!» Его спросили: «Ты действительно так считаешь?» Он ответил: «А разве передал его кто-нибудь, кроме Абу Увайса?» Он сказал: «Айюб был примернее него (то есть Айюб ибн Сулейман ибн Биляль), а Айюб передал его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3284</td></tr><tr><td>Arabic No</td><td>3284</td></tr><tr><td>Reference</td><td>Book 22 Hadith 43</td></tr></tbody></table></div>
 

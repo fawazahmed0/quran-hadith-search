@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jundub:Once the Prophet (ﷺ) fell ill and did not offer the night pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Al Aswad bin Qais] ia berkata, Aku mendengar [Jundub] berkata; Rasulullah shallallahu 'alaihi wasallam pernah jatuh sakit hingga beliau tidak bisa bangun selama sehari atau dua hari, maka seorang wanita pun datang kepada beliau dan berkata, "Wahai Muhammad, tidaklah aku melihat syetanmu itu, kecuali ia telah meninggalkanmu." Maka Allah 'azza wajalla menurunkan ayat: "WADLDLUHAA WALLAILI IDZAA SAJAA MAA WADDA'AKA RABBUKA WAMAA QALAA (Demi waktu Dluha. Dan demi waktu malam ketika tiba. Sesungguhnya Tuhan-mu tidaklah meninggalkanmu). (QS. Adhdhuha)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4983</td></tr><tr><td>Arabic No</td><td>4983</td></tr><tr><td>Reference</td><td>Book 66 Hadith 5</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Джундуб рассказывал: «(Однажды) Пророк ﷺ заболел и не совершал (ночную) молитву одну или две ночи. Тогда к нему пришла некая женщина и сказала: “О Мухаммад! Я вижу, что твой шайтан покинул тебя”. После этого Всемогущий и Великий Аллах ниспослал: “Клянусь утром! Клянусь ночью, когда она успокаивается. Не покинул тебя твой Господь и не возненавидел” (сура “ат-Духа”, аяты 1-3)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4983</td></tr><tr><td>Arabic No</td><td>4983</td></tr><tr><td>Reference</td><td>Book 66 Hadith 5</td></tr></tbody></table></div>
 

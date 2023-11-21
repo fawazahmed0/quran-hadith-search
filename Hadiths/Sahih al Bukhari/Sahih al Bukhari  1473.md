@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar:Allah's Messenger (ﷺ) used to give me something but I would say
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Yunus] dari [Az Zuhriy] dari [Salim] bahwa ['Abdullah bin 'Umar radliallahu 'anhuma] berkata; Aku mendengar ['Umar] berkata,: "Rasulullah Shallallahu'alaihiwasallam pernah memberiku suatu pemberian lalu aku berkata kepada Beliau: "Berikanlah kepada orang yang lebih faqir dariku". Maka Beliau bersabda: "Ambillah. Jika telah datang kepadamu dari harta ini sedangkan kamu bukan orang yang akan menghambur-hamburkannya dan tidak pula meminta-mintanya, maka ambillah. Selain dari itu maka janganlah kamu menuruti nafsumu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>1473</td></tr><tr><td>Reference</td><td>Book 24 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар бин аль-Хаттаб, да будет доволен им Аллах, сказал: «Обычно Посланник Аллаха ﷺ всегда давал мне что-нибудь, а я говорил: “Отдай это тем, кто нуждается в этом больше меня”, (но однажды) он сказал: “Возьми это. Если достаётся тебе что-нибудь из этого имущества не по твоему собственному желанию и ты (ни о чём) не просишь, бери это, если же (тебе ничего не достанется,) то не стремись к этому!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1473</td></tr><tr><td>Arabic No</td><td>1473</td></tr><tr><td>Reference</td><td>Book 24 Hadith 75</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abd al-Rahman b. Yazid reported that 'Abdullah b. Mas'ud (Allah be pleased with 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib] keduanya berkata, Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim] dari [Abdurrahman bin Yazid] ia berkata; [Abdullah bin Mas'ud] melempar Jamrah Aqabah dari dalam lembah dengan tujuh butir kerikil. Dan setiap kali melempar satu kerikil diiringinya dengan tabkir. Kemudian dikatakanlah kepadanya, "Sesungguhnya orang-orang melempar Jamrah dari atas lembah." Maka Abdullah bin Mas'ud berkata, "Demi Dzat yang tidak ada Tuhan yang berhak disembah selain-Nya, inilah tempat berdirinya seorang yang diturunkan kepadanya surat Al Baqarah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3131</td></tr><tr><td>Arabic No</td><td>1296.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 335</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3131</td></tr><tr><td>Arabic No</td><td>1296.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 335</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdul-'Aziz:Anas said, "When Allah's Messenger (ﷺ) arrived at Medina
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Amru bin Zurarah] Telah mengabarkan kepada kami [Isma'il bin Ibrahim] dari ['Abdul 'Aziz] dari [Anas] mengatakan, dikala Rasulullah Shallallahu'alaihiwasallam datang ke Madinah, Abu Thalhah menggandeng tanganku dan mengajakku menemui Rasulullah shallallahu 'alaihi wasallam dan berujar; 'Wahai Rasulullah, Anas adalah anak belia yang terampil, baik sekali jika ia menjadi pembantumu! ' Kata Anas, maka aku membantu beliau baik ketika beliau di rumah maupun bepergian, dan demi Allah, beliau tidak pernah menggerutu terhadap yang kulakukan dengan mengatakan; 'mengapa kau lakukan seperti ini! ' Dan tidak pernah pula beliau menggerutu terhadapku karena pekerjaan yang tidak kulakukan dengan mengatakan; 'mengapa tidak kau kerjakan ini hah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6911</td></tr><tr><td>Arabic No</td><td>6911</td></tr><tr><td>Reference</td><td>Book 87 Hadith 49</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «Когда Посланник Аллаха ﷺ прибыл в Медину, Абу Тальха взял меня за руку, привёл к нему и сказал: “О Посланник Аллаха! Поистине, Анас смышлёный мальчик, так пусть же он прислуживает тебе”. Итак, я прислуживал Пророку ﷺ дома и в путешествиях, и клянусь Аллахом, если я делал что-то, он никогда не спрашивал меня: “Почему ты сделал это так?” И если я не делал чего-то, он не спрашивал меня: “Почему ты не сделал это так?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6911</td></tr><tr><td>Arabic No</td><td>6911</td></tr><tr><td>Reference</td><td>Book 87 Hadith 49</td></tr></tbody></table></div>
 

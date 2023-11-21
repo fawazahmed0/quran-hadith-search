@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported Allah's Messenger (ﷺ) as saying:A believer does not receive (t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dab [Abu Kuraib] dan lafazh ini milik mereka; Dan telah menceritakan kepada kami [Ishaq Al Hanzhali]. [Ishaq] berkata; Telah mengabarkan kepada kami. Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada satupun musibah (cobaan) yang menimpa seorang muslim berupa duri atau yang semisalnya, melainkan dengannya Allah akan mengangkat derajatnya atau menghapus kesalahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6562</td></tr><tr><td>Arabic No</td><td>2572.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 60</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6562</td></tr><tr><td>Arabic No</td><td>2572.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 60</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ The above-mentioned tradition has also been narrated by ‘A’ishah through a d
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu syaibah] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari ['Urwah] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengerjakan shalat dengan memakai pakaian bergambar, kemudian beliau bersabda: "Gambar-gambar pada pakaian ini telah mengganggu perhatianku, kembalikanlah ia kepada Abu Jahm dan tukarlah dengan pakaian bulu kasar yang tidak bergambar." Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Abdurrahman yaitu Ibnu Abu Az Zannad] dia berkata; saya mendengar [Hisyam] menceritakan dari [ayahnya] dari [Aisyah] dengan hadits seperti ini, katanya; "Dan beliau mengambil kain Kurdi milik Abu Jahm, lalu di katakan; "Wahai Rasulullah, kain yang bergambar tadi lebih bagus dari kain Kurdi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>915</td></tr><tr><td>Reference</td><td>Book 2 Hadith 526</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт эту историю, и в его версии говорится: «…и (Посланник Аллаха ﷺ) взял простую одежду (курди) Абу Джахма (отослав ему обратно подаренную им красивую одежду-хамису), и ему сказали: “О Посланник Аллаха, хамиса (которую он подарил тебе сначала) была лучше этой одежды!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>915</td></tr><tr><td>Reference</td><td>Book 2 Hadith 526</td></tr></tbody></table></div>
 

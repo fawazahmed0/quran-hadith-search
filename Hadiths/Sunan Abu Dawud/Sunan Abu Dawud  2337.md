@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: AbdulAziz ibn Muhammad said: Abbad ibn Kathir came to Medi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Abdul Aziz bin Muhammad], ia berkata; 'Abbad bin Katsir datang ke Madinah kemudian ia datang ke Majelis Al 'Ala' dan menggandeng tangannya dan mengajaknya berdiri, kemudian berkata; ya Allah, orang ini telah menceritakan dari [ayahnya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam berkata: "Apabila telah berlalu setengah dari bulan Sya'ban, maka janganlah kalian berpuasa!" kemudian [Al 'Ala'] berkata; ya Allah, sesungguhnya [ayahku] telah menceritakan kepadaku dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti itu. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Ats Tsuri], [Syibl bin Al 'Ala'], [Abu 'Umais], serta [Zuhair bin Muhammad], dari [Al 'Ala']. Abu Daud berkata; dan Abdurrahman tidak menceritakannya. Aku katakan kepada Ahmad; mengapa ia mengatakan menurutnya bahwa Nabi shallallahu 'alaihi wasallam menyambung Sya'ban dengan Ramadhan sementara Abu Hurairah mengatakan dari Nabi shallallahu 'alaihi wasallam sesuatu yang menyelisihinya? Abu Daud berkata; menurutku hal ini tidaklah menyelisihinya, dan tidak ada yang meriwayatkannya selain Al 'Ala' dari ayahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2337</td></tr><tr><td>Arabic No</td><td>2337</td></tr><tr><td>Reference</td><td>Book 14 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(Абу Дауд cказал): «Кутайба ибн Са‘ид рассказал нам то, что рассказал ему ‘Абду-ль-‘Азиз ибн Мухаммад: “Однажды ‘Аббад ибн Касир приехал в Медину и направился к собранию ‘Аля ибн ‘Абду-р-Рахмана. Там ‘Аббад взял ‘Аля за руку и, подняв её перед всеми, сказал: “О Аллах! Этот человек рассказывает со слов своего отца, а тот со слов Абу Хурайры, что Пророк ﷺ сказал: “Не соблюдайте пост по прошествии половины ша‘бана””. Тогда ‘Аля сказал: “О Аллах! Поистине, мой отец рассказал мне со слов Абу Хурайры, что Пророк ﷺ сказал именно такие слова””». Абу Дауд сказал: «‘Абду-р-Рахман не передавал его, и я спросил у Ахмада о причинах этого, и он ответил: “Потому что у него было сообщение о том, что Пророк ﷺ постился так, что его пост в ша‘бан переходил в пост в рамадан, а тут от Пророка ﷺ передаётся противоположное”». Абу Дауд сказал: «Я не считаю это чем-то противоположным. Это передавал только аль-‘Аля от своего отца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2337</td></tr><tr><td>Arabic No</td><td>2337</td></tr><tr><td>Reference</td><td>Book 14 Hadith 25</td></tr></tbody></table></div>
 

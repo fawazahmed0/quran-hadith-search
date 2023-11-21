@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) passed by two graves and said, "Both
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Waki'] dari [Al A'masy] dia berkata; saya mendengar [Mujahid] bercerita dari [Thawus] dari [Ibnu Abbas] radliallahu 'anhuma dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah melewati dua kuburan lalu beliau bersabda: "Kedua penghuni kubur ini tengah disiksa dan keduanya disiksa bukan karena dosa besar. Yang satu ini, tidak bersuci dari kencingnya, sedangkan yang ini disiksa karena selalu mengadu domba." Kemudian beliau meminta sepotong pelepah kurma yang masih basah. Beliau membelahnya menjadi dua dan menancapkannya pada dua kuburan tersebut. Beliau kemudian bersabda: 'Semoga ini bisa meringankan keduanya selagi belum kering
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6052</td></tr><tr><td>Arabic No</td><td>6052</td></tr><tr><td>Reference</td><td>Book 78 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Однажды) Посланник Аллаха ﷺ проходил мимо двух могил и сказал: “Поистине, они подвергаются мучениям, и их мучают не за что-то большое. Что касается этого, то он не укрывался от собственной мочи, а что касается этого (второго), то он разносил сплетни /намима/”. Затем он попросил принести ему свежую, голую пальмовую ветвь, разломал её пополам, после чего воткнул одну часть на одну могилу, а вторую на другую и сказал: “Возможно, это облегчит им наказание, пока эти ветки не высохнут”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6052</td></tr><tr><td>Arabic No</td><td>6052</td></tr><tr><td>Reference</td><td>Book 78 Hadith 82</td></tr></tbody></table></div>
 

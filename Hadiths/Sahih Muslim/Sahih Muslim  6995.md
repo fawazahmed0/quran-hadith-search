@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:Allah is self-respecting 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Amr An Naqid] telah menceritakan kepada kami [Isma'il bin Ibrahim bin 'Ulayyah] dari [Hajjaj bin Abu 'Utsman] dia berkata; [Yahya] berkata; dan telah menceritakan kepadaku [Abu Salamah] dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Sesungguhnya Allah memiliki kecemburuan dan orang mukmin juga memiliki kecemburuan. Kecemburuan Allah adalah apabila seorang mukmin mengerjakan apa yang di haramkan oleh Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6995</td></tr><tr><td>Arabic No</td><td>2761.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 41</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6995</td></tr><tr><td>Arabic No</td><td>2761.01</td></tr><tr><td>Reference</td><td>Book 50 Hadith 41</td></tr></tbody></table></div>
 

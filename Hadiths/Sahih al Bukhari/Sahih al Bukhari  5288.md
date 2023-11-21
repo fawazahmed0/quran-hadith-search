@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:(the wife of the Prophet) When believing women came to the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] Telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dan telah berkata; [Ibrahim Al Mundzir] Telah menceritakan kepadaku [Ibnu Wahab] Telah menceritakan kepadaku [Yunus] Telah berkata [Ibnu Syihab] Telah mengabarkan kepadaku [Urwah bin Zubair] bahwa [Aisyah] radliallahu 'anha isteri Nabi Shallallahu 'Alaihi wa Salla berkata; Ketika para wanita mukminah berhijrah kepada Nabi shallallahu 'alaihi wasallam, maka beliau akan menguji mereka dengan firman Allah Ta'ala: "Apabila wanita-wanita mukminat datang kepadamu untuk berhijrah, maka ujilah mereka.." hingga akhir ayat (QS. Almumtahanah 10). Aisyah berkata; Barangsiapa yang beliau tetapkan dari kaum mukminat dengan syarat ini, maka beliau menyatakan bahwa ia telah teruji. Dan biasa bila kaum wanita telah mengikrarkan syarat itu dengan ungkapan mereka, maka Rasulullah shallallahu 'alaihi wasallam akan bersabda kepada mereka: "Pergilah, sesungguhnya aku telah membai'at kalian dengan ungkapan ikrar." Demi Allah, tidaklah Rasulullah shallallahu 'alaihi wasallam berbuat sesuatu pun atas kaum wanita kecuali dengan sesuatu yang telah diperintahkan Allah. Bila beliau mengambil Bai'at dari mereka, maka beliau akan berkata: "Sesungguhnya aku telah memba'iat kalian dengan ungkapan kata-kata
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5288</td></tr><tr><td>Arabic No</td><td>5288</td></tr><tr><td>Reference</td><td>Book 68 Hadith 37</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Урвы, что ‘Аиша, да будет доволен ею Аллах, сказала: «Пророк ﷺ испытывал переселившихся к нему верующих женщин словами Всевышнего Аллаха: “О те, кто уверовал! Когда к вам приходят переселяющиеся верующие женщины, подвергайте их испытанию…” до конца аята (сура “аль-Мумтахана”, аят 10)». ‘Аиша сказала: «И те верующие женщины из них, кто соглашался с этим условием, Посланник Аллаха ﷺ принимал испытание. Он предлагал ей принести клятвы и, когда она приносила их, говорил: “Иди, я принял твою присягу”. И клянусь Аллахом, рука Посланника Аллаха ﷺ никогда не прикасалась к руке (чужой) женщины, он принимал их присягу только словами»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5288</td></tr><tr><td>Arabic No</td><td>5288</td></tr><tr><td>Reference</td><td>Book 68 Hadith 37</td></tr></tbody></table></div>
 

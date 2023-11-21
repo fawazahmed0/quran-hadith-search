@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Anas b. Malik that the Messenger of All
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farruh] telah menceritakan kepada kami [Hammad bin Salamah] telah menceritakan kepada kami [Tsabit] dari [Anas bin Malik] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memohon syahadah (mati dalam keadaan syahid) dengan sungguh-sungguh, maka sungguh ia akan diberi pahala seperti pahala mati syahid meskipun ia tidak mati syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4929</td></tr><tr><td>Arabic No</td><td>1908</td></tr><tr><td>Reference</td><td>Book 33 Hadith 224</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4929</td></tr><tr><td>Arabic No</td><td>1908</td></tr><tr><td>Reference</td><td>Book 33 Hadith 224</td></tr></tbody></table></div>
 

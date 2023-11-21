@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. 'Abdullah reported:I heard Allah's Messenger (ﷺ) as saying this one m
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harun bin 'Abdullah] dan [Hajjaj bin Asy Sya'ir] keduanya berkata; Telah menceritakan kepada kami [Hajjaj bin Muhammad] dia berkata; Berkata [Ibnu Juraij]; Telah mengabarkan kepadaku [Abu Az Zubair] bahwasannya dia mendengar [Jabir bin 'Abdullah] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda sebulan sebelum wafatnya: "Kalian menanyakan kepadaku tentang Hari Kiamat, ketahuilah bahwa ilmunya di sisi Allah. Saya bersumpah demi Allah, tidak akan ada manusia yang hidup pada hari ini di atas bumi, setelah seratus tahun yang akan datang." Dan telah menceritakannya kepada kami [Muhammad bin Hatim]; Telah menceritakan kepada kami [Muhammad bin Bakr]; Telah mengabarkan kepada kami [Ibnu Juraij] melalui jalur ini. Namun dia tidak menyebutkan perkataan; 'sebulan sebelum wafatnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>2538.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 310</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>2538.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 310</td></tr></tbody></table></div>
 

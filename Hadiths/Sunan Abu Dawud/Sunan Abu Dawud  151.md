@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Isa bin Yunus] telah menceritakan kepada saya [Ayahku] dari [Asy-Sya'bi] dia berkata; Saya pernah mendengar [Urwah bin Al-Mughirah bin Syu'bah] menyebutkan dari [Ayahnya], dia berkata; Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu rombongan, dan saya yang membawa tempat air. Lalu beliau pergi untuk buang hajat. Ketika beliau datang, saya menemui beliau sambil membawakan tempat air tersebut. Saya tuangkan tempat air itu untuk beliau, lalu beliau membasuh kedua telapak tangan dan muka. Kemudian beliau hendak mengeluarkan kedua kedua lengannya sementara ketika itu beliau memakai jubah wol dari Romawi yang sempit kedua lengannva, maka beliau melepaskan kedua lengan itu. Setelah itu aku menunduk ke arah kedua khuf beliau untuk melepasnya. Maka beliau bersabda kepadaku."Biarkanlah kedua khuf itu, karena saya memasukkan kedua kakiku ke dalam kedua khuf itu dalam keadaan suci kedua-duanya, beliau hanya mengusap bagian atas kedua khuf tersebut. Ayahku berkata; Asy-Sya'bi berkata; 'Urwah bersaksi padaku atas ayahnya, dan ayahnya bersaksi atas Rasulullah shallallahu 'alaihi wasallam, telah menceritakan kepada kami [Hubdah bin Khalid] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Al Hasan] dari [Zurarah bin Aufa] bahwasanya [Al-Mughirah bin Syu'bah] berkata; Rasulullah shallallahu 'alaihi wasallam pernah terlambat…, lalu dia menyebutkan kisah ini, dia berkata; Kemudian kami mendatangi orang-orang dan ternyata Abdurrahman bin 'Auf sedang Shalat Shubuh bersama mereka. Tatkala Abdurrahman melihat Nabi shallallahu 'alaihi wasallam dia hendak mundur, namun beliau memberi isyarat kepadanya agar meneruskan shalatnya. Dia berkata; Maka saya bersama Nabi shallallahu 'alaihi wasallam shalat satu rakaat di belakang Abdurrahman, tatkala dia salam, Nabi shallallahu 'alaihi wasallam berdiri untuk melakukan shalat yang tertinggal, dan dia tidak menambahkannya. Abu Dawud berkata; Abu Sa'id Al-Khudri, Ibnu Az-Zubair dan Ibnu Umar mengatakan bahwa barangsiapa yang mendapati shalat sendirian (setelah bersama imam), maka dia harus melakukan sujud sahwi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (206) Sahih Muslim (274)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>151</td></tr><tr><td>Arabic No</td><td>151</td></tr><tr><td>Reference</td><td>Book 1 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аш-Ша‘би сказал: «Я слышал, как ‘Урва ибн аль-Мугъира ибн Шу‘ба рассказывал о том, что его отец сказал: “Мы находились в караване Посланника Аллаха ﷺ и у меня с собой был сосуд из кожи. Он вышел справить нужду, а когда он вернулся, я встретил его с сосудом (с водой) и начал наливать ему воду. Он помыл кисти рук и лицо, и затем захотел вынуть свои руки, а одет он был в византийскую джуббу из шерсти, у которой были узкие рукава и он выташил свои руки из под джуббы. Затем я протянул руки, чтобы снять с него кожаные носки /хуффайн/, но он сказал мне: “Оставь их, поистине, я надел их на чистые ноги”, и он (просто) обтер их».(‘Иса ибн Йунус сказал:) «Мой отец сказал: “Аш-Ша‘би сказал: “(Об этом) засвидетельствовал мне ‘Урва (ибн Мугъира) сославшись на своего отца, а его отец - на Посланника Аллаха ﷺ”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (206) Sahih Muslim (274)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>151</td></tr><tr><td>Arabic No</td><td>151</td></tr><tr><td>Reference</td><td>Book 1 Hadith 151</td></tr></tbody></table></div>
 

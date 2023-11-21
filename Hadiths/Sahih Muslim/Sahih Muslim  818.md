@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Ammâr (que Dieu l'agrée), Chaqîq a dit : J'étais assis avec 'Abdal
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya], [Abu Bakar bin Abi Syaibah] dan [Ibnu Numair] semuanya meriwayatkan dari [Abu Muawiyah] [Abu Bakar] berkata, telah menceritakan kepada kami [Abu Muawiyah] dari [al-A'masy] dari [Syaqiq] dia berkata, dia berkata, "Aku duduk bersama Abdullah dan Abu Musa al-Asy'ari. Kemudian [Abu Musa] berkata kepada [Abdullah], 'Wahai ayah Abdurrahman, seandainya seorang lelaki berjunub lalu dia tidak mendapatkan air selama sebulan, bagaimanakah yang harus dia lakukan dengan shalatnya? ' Maka Abdullah berkata, 'Dia tidak boleh bertayamum, sekalipun dia tidak mendapati air selama sebulan'. Abu Musa berkata, 'Bagaimana dengan ayat di dalam surah al-Maidah, "Lalu kamu tidak mendapat air (untuk berwudhu dan mandi) maka hendaklah kamu bertayamum dengan tanah yang suci." (QS. Almaidah; 6), Abdullah berkata, 'Andai mereka diberi keringanan dengan ayat tersebut, niscaya apabila mereka merasakan air itu dingin maka mereka akan bertayamum dengan tanah.' Maka Abu Musa berkata kepada Abdullah, 'Tidakkah kamu telah mendengar kata-kata Ammar, 'Rasulullah Shallallahu'alaihiwasallam telah mengutusku untuk suatu keperluan kemudian aku berjunub, lalu aku tidak mendapati air, maka aku menggulingkan badan ke tanah sebagaimana binatang melata menggulingkan badannya?. Kemudian kutemui Nabi Shallallahu'alaihiwasallam dan kuceritakan perkara tersebut kepada beliau Shallallahu'alaihiwasallam. Maka Beliau bersabda, 'Sudah cukup memadai bagi kamu dengan kamu menepukkan tangan kamu begini, kemudian beliau menepukkan tangan beliau ke tanah dengan satu tepukan, kemudian beliau menyapu tangan kiri beliau pada tangan kanan dan belakang kedua tapak tangan serta wajah beliau." Abdullah berkata, "Apakah kamu tidak melihat bahwa Umar tidak puas dengan perkataan [Ammar]?." Dan telah menceritakan kepada kami [Abu Kamil al-Jahdari] telah menceritakan kepada kami [Abdu Wahid] telah menceritakan kepada kami [al-A'masy] dari [Syaqiq] dia berkata, [Abu Musa] berkata kepada Abdullah, dan ia menggiring hadits tersebut dengan kisahnya semisal hadits Abu Mu'awiyah, hanya saja dia berkata, "Maka Rasulullah shallallahu 'alaihi wasallam bersabda, 'Cukup memadai bagi kamu untuk mengatakan demikian, lalu beliau memukulkan kedua tangannya pada tanah, lalu mengibaskan kedua tangannya, lalu dia mengusap wajah dan kedua telapak tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>818</td></tr><tr><td>Arabic No</td><td>368.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Шакык сказал: «(Однажды, когда) я находился в обществе ‘Абдуллаха и Абу Мусы, Абу Муса сказал: “О Абу ‘Абдуррахман, скажи мне, что делать с молитвой человеку, если он окажется в состоянии большого осквернения и целый месяц не сможет найти воды?” ‘Абдуллах сказал: “Он не должен очищаться песком, даже если не сможет найти воды в течение месяца”. Тогда Абу Муса спросил: “А как же тот аят из суры “аль-Маида”, в котором сказано: “Если же вы не смогли найти воды, то очищайтесь чистой землёй” (аят 6)?” ‘Абдуллах сказал: “Если бы им это было разрешено в этом аяте, то возможно, что они стали бы совершать очищение песком даже из-за холодной воды!” (После этого) Абу Муса сказал ‘Абдуллаху: “А разве не слышал ты, как ‘Аммар сказал: “(Однажды) Посланник Аллаха ﷺ послал меня (куда-то для выполнения одного поручения). (В пути) я осквернился и, не имея возможности найти воду, катался по песку, как делают это верховые животные. Потом я вернулся к Пророку ﷺ и рассказал ему об этом, и он сказал: “Тебе достаточно было сделать рукой такое (движение)”. После этого он один раз ударил ладонями по земле, а затем протёр левой рукой правую, а также тыльные стороны кистей рук и лицо”».‘Абдуллах сказал: “А разве ты не знаешь, что ‘Умар не был удовлетворён словами ‘Аммара?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>818</td></tr><tr><td>Arabic No</td><td>368.01</td></tr><tr><td>Reference</td><td>Book 3 Hadith 139</td></tr></tbody></table></div>
 

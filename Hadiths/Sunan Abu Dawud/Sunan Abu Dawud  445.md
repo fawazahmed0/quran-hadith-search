@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Dhu Mikhbar al-Habashi, who used to serve the Prophet (ﷺ), reported a version 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abbas Al Anbari], (Demikian juga diriwayatkan dari jalur lain), Telah menceritakan kepada kami [Ahmad bin Shalih] dan ini adalah lafazh Abbas bahwasanya [Abdullah bin Yazid] telah menceritakan kepada mereka dari [Haiwah bin Syuraih] dari [Ayyasy bin Abbas Al Qitbani] bahwasanya [Kulaib bin Shubh] telah menceritakan kepada mereka bahwasanya [Az Zibriqan] telah menceritakan kepadanya, dari [pamannya, Amru bin Umayyah Adl Dlamri] dia berkata; Kami pernah bersama Rasulullah Shallallahu alaihi wasallam di sebagian safarnya. Suatu kali beliau tertidur dari shalat Shubuh hingga matahari terbit. Maka Rasulullah Shallallahu alaihi wasallam bangun dan bersabda kepada mereka; "Berpindahlah dari tempat ini." Dia melanjutkan; Kemudian beliau memerintahkan Bilal untuk mengumandangkan adzan, lalu mereka berwudlu dan shalat dua rakaat sunnah fajar. Kemudian beliau memerintahkan Bilal untuk mengumandangkan iqamat, dan beliau pun shalat Shubuh mengimami mereka. Telah menceritakan kepada kami [Ibrahim bin Al Hasan] telah menceritakan kepada kami [Hajjaj bin Muhammad] telah menceritakan kepada kami [Hariz]. (Demikian juga diriwayatkan dari jalur lain), Telah menceritakan kepada kami [Ubaid bin Abi Al Wazir] telah menceritakan kepada kami [Mubasysyir Al Halabi] telah menceritakan kepada kami [Hariz bin Utsman] telah menceritakan kepadaku [Yazid bin Shalih] dari [Dzu Mikhbar Al Habasyi], dia menjadi pelayan Nabi Shallallahu alaihi wasallam dalam khabar ini. Dia menyebutkan; Lalu beliau, yakni Nabi Shallallahu alaihi wasallam berwudlu dan tidak terkena debu sedikit pun. Kemudian memerintahkan Bilal untuk mengumandangkan adzan, lalu berdiri dan shalat sunnah dua rakaat fajar tanpa tergesa-gesa. Kemudian bersabda kepada Bilal: "Kumandangkanlah iqamat." Lalu beliau shalat fardhu (Shubuh) tanpa tergesa-gesa. Dia berkata dari [Hajjaj] dari [Yazid bin Shulaih] telah menceritakan kepadaku [Dzu Mikhbar] seorang lelaki dari Habasyah. Dan [Ubaid] berkata [Yazid bin Shalih] berkata; Telah menceritakan kepada kami [Mu'amal bin Al Fadll] telah menceritakan kepada kami [Al Walid] dari [Hariz bin Utsman] dari [Yazid bin Shalih] dari [Dzu Mikhbar, anak saudara lelaki An Najasyi] dalam hadits ini. Dia menyebutkan; Bilal mengumandangkan adzan tanpa tergesa-gesa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>445</td></tr><tr><td>Arabic No</td><td>445</td></tr><tr><td>Reference</td><td>Book 2 Hadith 55</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Зи-Михбар, который был слугой у Пророка ﷺ передавая эту же историю, сказал: «И он то есть Пророк ﷺ совершил омовение так, что песок не прилип к его телу. Затем он отдал распоряжение Билялю, который возвестил призыв на молитву /азан/, и затем Пророк ﷺ встал и не спеша совершил молитву в два рак‘ата. Затем он сказал Билялю: “Произнеси призыв к молитве (икама)”. И затем он (также) без спешки совершил обязательную молитву».Шейх аль-Альбани сказал: «Достоверный хадис /сахих/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>445</td></tr><tr><td>Arabic No</td><td>445</td></tr><tr><td>Reference</td><td>Book 2 Hadith 55</td></tr></tbody></table></div>
 

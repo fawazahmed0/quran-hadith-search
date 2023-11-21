@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "People will not stop aski
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Shabbah] telah menceritakan kepada kami [Syababah] telah menceritakan kepada kami [Warqa'] dari [Abdullah bin Abdurrahman] aku mendengar [Anas bin Malik] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia tidak henti-hentinya bertanya hingga saling bertanya 'Allah adalah pencipta segala sesuatu, lantas siapa yang menciptakan Allah?
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7296</td></tr><tr><td>Arabic No</td><td>7296</td></tr><tr><td>Reference</td><td>Book 96 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса бин Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Люди не перестанут задавать вопросы, пока не скажут: “Это — Аллах, Создатель всего. А кто создал Аллаха?”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7296</td></tr><tr><td>Arabic No</td><td>7296</td></tr><tr><td>Reference</td><td>Book 96 Hadith 27</td></tr></tbody></table></div>
 

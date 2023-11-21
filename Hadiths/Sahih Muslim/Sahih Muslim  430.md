@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Abou Hourayra (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédictio
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Hujain bin al-Mutsanna] telah menceritakan kepada kami [Abdul Aziz] -yaitu Ibnu Abu Salamah- dari [Abdullah bin al-Fadll] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku telah melihat diriku sendiri dalam sebuah mimpi ketika di hijr, orang-orang quraisy bertanya kepadaku mengenai perjalanan malamku (pada waktu isra' dan mi'raj, pent). Mereka menanyakan beberapa hal mengenai baitul maqdis yang belum aku ketahui dengan pasti sehingga aku pun merasakan kesusahan yang sama sekali belum pernah aku rasakan sebelumnya." Beliau bersabda lagi: "Maka Allah pun mengangkatnya untukku agar aku dapat melihatnya. Dan tidaklah mereka menanyakan kepadaku melainkan aku pasti akan menjawabnya. Aku telah melihat diriku bersama sekumpulan para Nabi. Dan tiba-tiba aku diperlihatkan Nabi Musa yang sedang berdiri melaksanakan shalat, ternyata dia adalah seorang lelaki yang kekar dan berambut keriting, seakan-akan orang bani Syanuah. Aku juga diperlihatkan Isa bin Maryam yang juga sedang berdiri melaksanakan shalat. Urwah bin Mas'ud Ats Tsaqafi adalah manusia yang paling mirip dengannya. Telah diperlihatkan pula kepadaku Nabi Ibrahim yang juga sedang berdiri melaksanakan shalat, orang yang paling mirip denganya adalah sahabat kalian ini; yakni diri beliau sendiri. Ketika waktu shalat telah masuk, akupun mengimami mereka semua. Dan seusai melaksanakan shalat, ada seseorang berkata, 'Wahai Muhammad, ini adalah malaikat penjaga api neraka, berilah salam kepadanya! ' Maka akupun menoleh kepadanya, namun ia segera mendahuluiku memberi salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>430</td></tr><tr><td>Arabic No</td><td>172</td></tr><tr><td>Reference</td><td>Book 1 Hadith 335</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Я находился в аль-Хиджре, а курайшиты спрашивали меня о моём ночном путешествии и задавали такие вопросы о том, что касалось Храма (в Иерусалиме) /байт аль-макдис/, чего я не помнил точно. (Из-за этого) меня охватила такая печаль, которой я никогда прежде не испытывал, и тогда Аллах поднял (Храм) для меня, а я стал смотреть на него, и о чём бы они ни спрашивали меня (после этого), я сообщал им об этом. (Во время ночного путешествия) я находился среди (других) пророков и (видел) молившегося Мусу, не тучного и не (слишком) худого человека крепкого телосложения (или: курчавый), будто (являвшегося одним) из людей (племени) шану’а. И (я видел) молившегося ‘Ису, сына Марьям, на которого больше всех из людей похож ‘Урва ибн Мас‘уд ас-Сакафи. И (я видел) молившегося Ибрахима да, на которого больше всех из людей похож тот, кто находится вместе с вами. Когда настало время молитвы, я стал для них имамом , когда же я закончил молиться, некто сказал мне: “О Мухаммад, это Малик, страж Огня, поприветствуй же его”, и я повернулся к нему, но он первым обратился ко мне с приветствием»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>430</td></tr><tr><td>Arabic No</td><td>172</td></tr><tr><td>Reference</td><td>Book 1 Hadith 335</td></tr></tbody></table></div>
 

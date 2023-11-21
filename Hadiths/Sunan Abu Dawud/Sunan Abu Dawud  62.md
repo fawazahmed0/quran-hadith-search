@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: AbuGhutayf al-Hudhali reported: I was in the company
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] telah menceritakan kepada kami [Abdullah bin Yazid Al Muqri']. Dan menurut jalur yang lain; telah menceritakan kepada kami [Musaddad] dan telah menceritakan kepada kami [Isa bin Yunus] mereka berdua berkata; telah menceritakan kepada kami [Abdurrahman bin Ziyad], Abu Dawud berkata; Saya lebih hafal hadits Ibnu Yahya dari [Ghuthaif], dan Muhammad berkata; dari Abu Ghuthaif Al Hudzali; Saya pernah bersama [Abdullah bin Umar], ketika adzan dzuhur dikumandangkan, dia berwudhu lalu shalat. Tatkala adzan Ashar dikumandangkan, dia berwudhu kembali, lalu aku bertanya kepadanya (tentang hal itu), maka dia menjawab bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang berwudhu dalam keadaan suci (masih memiliki wudhu), maka Allah menulis untuknya sepuluh kabaikan." Abu Dawud berkata; Ini adalah hadits Musaddad, dan ia lebih sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Arabic No</td><td>62</td></tr><tr><td>Reference</td><td>Book 1 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Гъутайфа аль-Хузали сказал: «(Однажды) я находился рядом с ‘Абдуллой ибн ‘Умаром, и когда прозвучал призыв/азан/ на полуденную молитву, он совершил омовение и помолился. Когда прозвучал призыв на послеполуденную молитву, он снова совершил омовение, и я спросил его (о причине совершения им омовения,) и он ответил: “Посланник Аллаха ﷺ говорил: “Тому, кто совершит омовение находясь в состоянии омовения, Аллах запишет десять благих дел/хасанат/”».Абу Дауд сказал: «Это хадис передал Мусаддад, и он более совершенен»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Arabic No</td><td>62</td></tr><tr><td>Reference</td><td>Book 1 Hadith 62</td></tr></tbody></table></div>
 

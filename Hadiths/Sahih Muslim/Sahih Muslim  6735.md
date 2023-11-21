@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported that Suriqa b. Malik b. Ju'shuin came and said:Allah's Messenger,
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus]; Telah menceritakan kepada kami [Zuhair]; Telah menceritakan kepada kami [Abu Az Zubair]; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Yahya bin Yahya]; Telah mengabarkan kepada kami [Abu Khaitsamah] dari [Abu Az Zubair] dari [Jabir] dia berkata; suatu ketika Suraqah bin Malik bin Ju'syam datang kepada Rasulullah seraya berkata; 'Ya Rasulullah, terangkanlah kepada kami agama ini, seolah-olah kami baru diciptakan! Apakah hakikat amalan hari ini? apakah karena telah tertulis oleh pena yang telah kering, dan taqdir yang pasti berlaku, ataukah amalan yang harus kita hadapi? Rasulullah shallallahu 'alaihi wasallam menjawab: "Tidak, tapi karena pena yang telah kering dan taqdir yang mesti berlaku." Suraqah Bin Malik berkata; 'lalu untuk apa kita beramal? Zuhair berkata; lalu Abu Az-Zubair berkata sesuatu yang tidak dapat aku pahami. Maka aku bertanya kepadanya tentang apa yang di ucapkan oleh beliau shallallahu 'alaihi wasallam, dia menjawab; "Beramallah, karena semuanya akan dipermudah". Telah menceritakan kepadaku [Abu Ath Thahir]; Telah mengabarkan kepada kami [Ibnu Wahb]; Telah mengabarkan kepadaku ['Amru bin Al Harits] dari [Abu Az Zubair] dari [Jabir bin 'Abdullah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang semakna. Di didalam disebutkan; Rasulullah shallallahu 'alaihi wasallam bersabda: 'Setiap orang yang beramal akan dipermudah untuk melaksanakan amalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6735</td></tr><tr><td>Arabic No</td><td>2648.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 13</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6735</td></tr><tr><td>Arabic No</td><td>2648.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 13</td></tr></tbody></table></div>
 

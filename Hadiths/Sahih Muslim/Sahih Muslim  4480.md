@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported that Hind, daughter of Utba h. Rabi', came to Allah's Messenger 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Ya'qub bin Ibrahim] telah menceritakan kepada kami [anak saudara Az Zuhri] dari [pamannya] telah mengabarkan kepadaku ['Urwah bin Zubair] bahwa ['Aisyah] berkata, "Suatu ketika Hindun binti 'Utbah bin Rabi'ah datang seraya berkata, "Wahai Rasulullah, dahulu tidak ada ahli bait di muka bumi ini yang paling aku sukai supaya Allah menghinakannya selain ahli baitmu, namun sekarang tidak ada ahli bait di muka bumi ini yang paling aku sukai supaya Allah memuliakannya selain dari ahli baitmu." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi dzat yang jiwaku berada di tangan-Nya, mungkin kamu hendak mengatakan sesuatu yang lain." Kemudian dia berkata, "Wahai Rasulullah, sesungguhnya Abu Sufyan adalah laki-laki yang bakhil, apakah aku berdosa jika aku memberi makan keluarganya dari hartanya?" beliau menjawab: "Tidak, jika kamu menggunakannya dengan baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4480</td></tr><tr><td>Arabic No</td><td>1714.04</td></tr><tr><td>Reference</td><td>Book 30 Hadith 11</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4480</td></tr><tr><td>Arabic No</td><td>1714.04</td></tr><tr><td>Reference</td><td>Book 30 Hadith 11</td></tr></tbody></table></div>
 

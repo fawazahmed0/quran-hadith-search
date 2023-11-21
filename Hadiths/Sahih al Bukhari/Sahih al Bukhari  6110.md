@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Mas'ud:A man came to the Prophet (ﷺ) and said "I keep away from t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Isma'il bin Abu Khalid] telah menceritakan kepada kami [Qais bin Abu Hazim] dari [Abu Mas'ud] radliallahu 'anhu dia berkata; "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam sambil berkata; "Sesungguhnya aku akan mengakhirkan shalat shubuh karena fulan yang memanjangkan (bacaannya)." Abu Mas'ud berkata; "Maka aku tidak pernah melihat Rasulullah shallallahu 'alaihi wasallam sangat marah dalam menyampaikan nasihatnya melebihi marahnya beliau pada hari itu, Abu Mas'ud melanjutkan; "Lalu beliau bersbada: "Wahai sekalian manusia, sesungguhnya di antara kalian ada yang menjadikan orang-orang lari (dari keta'atan), barangsiapa di antara kalian shalat dengan orang banyak, hendaklah ia memperingan shalatnya, sebab di antara mereka ada orang yang lemah, orang yang sudah lanjut usia dan orang yang mempunyai keperluan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6110</td></tr><tr><td>Arabic No</td><td>6110</td></tr><tr><td>Reference</td><td>Book 78 Hadith 137</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Мас‘уд, да будет доволен им Аллах, сказал: «Однажды какой-то человек пришёл к Пророку ﷺ и сказал: “Я пропускаю (коллективную) утреннюю молитву лишь потому, что такой-то проводит её с нами слишком долго”».(Абу Мас‘уд, да будет доволен им Аллах, сказал): «И я никогда не видел, чтобы Пророк ﷺ увещевая людей, гневался сильнее, чем в тот день. Он сказал: “О люди! Поистине, (некоторые из вас) отталкивают (других от молитв)! Пусть же тот, кто проводит её с людьми, облегчает, ведь среди них (могут) оказаться старые, слабые и те, у кого есть неотложные дела!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6110</td></tr><tr><td>Arabic No</td><td>6110</td></tr><tr><td>Reference</td><td>Book 78 Hadith 137</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said When the Prophet(ﷺ) entered Makkah he circumambulated the Ho
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muslim bin Ibrahim], telah menceritakan kepada Kami [Sallam bin Miskin], telah menceritakan kepada Kami [Tsabit Al Bunani] dari [Abdullah bin Rabah Al Anshari] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam tatkala memasuki Mekkah beliau berthowaf di Ka'bah dan melakukan shalat dua raka'at di belakang Maqam, yaitu pada saat penaklukan Mekkah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (1780)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1871</td></tr><tr><td>Arabic No</td><td>1871</td></tr><tr><td>Reference</td><td>Book 11 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ войдя в Мекку в день её покорения, совершил обход вокруг Каабы и молитву в два рак‘ата позади места стояния Ибрахима
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Muslim (1780)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1871</td></tr><tr><td>Arabic No</td><td>1871</td></tr><tr><td>Reference</td><td>Book 11 Hadith 151</td></tr></tbody></table></div>
 

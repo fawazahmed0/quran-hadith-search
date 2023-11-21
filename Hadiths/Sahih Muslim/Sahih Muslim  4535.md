@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ It has been narrated on the authority of Abdullah that the Messenger of Allah (ï
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Yahya bin Adam] dari [Yazid bin Abdul Aziz] dari [Al A'masy] dari [Syaqiq] dari [Abdullah] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Setiap pengkhianat akan membawa bendera yang mudah untuk dikenali, dikatakan, 'Ini adalah bendera pengkhianatan si fulan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4535</td></tr><tr><td>Arabic No</td><td>1736.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4535</td></tr><tr><td>Arabic No</td><td>1736.03</td></tr><tr><td>Reference</td><td>Book 32 Hadith 16</td></tr></tbody></table></div>
 

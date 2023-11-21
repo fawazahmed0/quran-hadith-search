@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Al-Musaiyab:That when his grandfather, Hazn visited the Proph
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah menceritakan kepada kami [Hisyam] bahwa [Ibnu Juraij] telah mengabarkan kepada orang-orang, katanya; telah mengabarkan kepadaku [Abdul Hamid bin Jubair bin Syaibah] dia berkata; saya duduk di hadapan [Sa'id bin Musayyab] maka dia menceritakan kepadaku, bahwa kakeknya datang kepada Nabi shallallahu 'alaihi wasallam dalam keadaan sedih, lalu beliau bertanya; "Siapakah namamu?" dia menjawab; "Namaku Hazn (sedih), " beliau bersabda: "Bahkan namamu adalah Sahl." Namun dia berkata; "Tidak, aku tidak akan merubah nama yang pernah di berikan oleh ayahku." Ibnu Musayyib berkata; "Maka dia masih saja terlihat sedih setelah peristiwa itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6193</td></tr><tr><td>Arabic No</td><td>6193</td></tr><tr><td>Reference</td><td>Book 78 Hadith 217</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Са’ид ибн аль-Мусаййиб рассказывал, что когда его дед по имени Хазн пришел к Пророку ﷺ , он спросил его: «Как тебя зовут?» Он ответил: «Меня зовут Хазн (трудный)». Пророк ﷺ сказал: «Нет, ты — Сахль (лёгкий)». Но он ответил: «Я не сменю имени, которым назвал меня мой отец». Затем Ибн аль-Мусаййиб сказал: «После этого не переставала присутствовать в нас трудность»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6193</td></tr><tr><td>Arabic No</td><td>6193</td></tr><tr><td>Reference</td><td>Book 78 Hadith 217</td></tr></tbody></table></div>
 

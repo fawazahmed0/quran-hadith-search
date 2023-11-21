@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:When Abu Bakr As-Siddiq was chosen Caliph, he said, "My people k
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin 'Abdullah] berkata, telah menceritakan kepada saya [Ibnu Wahab] dari [Yunus] dari [Ibnu Syihab] berkata, telah menceritakan kepada saya ['Urwah bin Az Zubair] bahwa ['Aisyah Radliallahu 'anha] berkata: Ketika Abu Bakar Sh-Shiddiq diangkat menjadi khalifah ia berkata: "Kaumku telah mengetahui bahwa pekerjaanku mencari nafkah tidak akan melemahkan urusanku terhadap keluargaku, semenrtara aku juga disibukkan dengan urusan kaum muslimin. Maka keluarga Abu Bakar akan makan dari harta yang aku usahakan ini sedangkan dia juga bersungguh bekerja untuk urusan Kaum Muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2070</td></tr><tr><td>Arabic No</td><td>2070</td></tr><tr><td>Reference</td><td>Book 34 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Абу Бакр ас-Сиддик стал халифом, он сказал: “Поистине, мой народ знает, что то, чем я зарабатывал себе на жизнь, было способно обеспечить содержание моей семьи. Но сейчас я стал занят делами мусульман, поэтому семья Абу Бакра будет питаться из этого имущества (т.е. из казны), а я буду заниматься делами мусульман”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2070</td></tr><tr><td>Arabic No</td><td>2070</td></tr><tr><td>Reference</td><td>Book 34 Hadith 23</td></tr></tbody></table></div>
 

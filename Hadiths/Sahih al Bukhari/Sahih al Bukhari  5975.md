@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Mughira:The Prophet (ﷺ) said, "Allah has forbidden you ( 1 ) to be
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'd bin Hafsh] telah menceritakan kepada kami [Syaiban] dari [Manshur] dari [Al Musayyib] dari [Warrad] dari [Al Mughirah bin Syu'bah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya Allah mengharamkan atas kalian durhaka kepada kedua orang tua, tidak suka memberi namun suka meminta-minta dan mengubur anak perempuan hidup-hidup. Dan membenci atas kalian tiga perkara, yaitu; suka desas-desus, banyak bertanya dan menyia-nyiakan harta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5975</td></tr><tr><td>Arabic No</td><td>5975</td></tr><tr><td>Reference</td><td>Book 78 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов аль-Мугыйры ибн Шу‘бы, что Пророк ﷺ сказал: «Поистине, Аллах запретил вам проявлять непочтительность по отношению к (вашим) матерям, отказывать и (говорить) “Дай!”, а также закапывать живьём (новорождённых) девочек. И Он не желает, чтобы вы (занимались) пересудами (бесполезной болтовнёй), обращались (к людям со) множеством просьб (или: задавали много лишних вопросов) и расточали попусту (своё) имущество»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5975</td></tr><tr><td>Arabic No</td><td>5975</td></tr><tr><td>Reference</td><td>Book 78 Hadith 6</td></tr></tbody></table></div>
 

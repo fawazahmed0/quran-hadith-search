@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Nadrah said:A man came to Prophet (ﷺ). He then mentioned a similar traditi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4432</td></tr><tr><td>Arabic No</td><td>4432</td></tr><tr><td>Reference</td><td>Book 40 Hadith 82</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Надры, что к Пророку ﷺ пришёл (совершивший прелюбодеяние) человек. Он передал нечто подобное предыдущему хадису, но не полностью, и сказал: «А потом люди начали поносить его, но (Посланник Аллаха ﷺ) запретил им. Тогда они начали просить у Аллаха прощения для него, однако (Посланник Аллаха ﷺ) запретил им и это, сказав: “Поистине, это человек, совершивший грех, и Аллах будет судить его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4432</td></tr><tr><td>Arabic No</td><td>4432</td></tr><tr><td>Reference</td><td>Book 40 Hadith 82</td></tr></tbody></table></div>
 

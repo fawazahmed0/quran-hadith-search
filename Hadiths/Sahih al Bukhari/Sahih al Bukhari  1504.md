@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:Allah's Messenger (ﷺ) made it incumbent on all the slave or
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Nafi'] dari [Ibnu 'Umar radliallahu 'anhuma] bahwa Rasulullah shallallahu 'alaihi wasallam mewajibkan zakat fithri satu sha' dari kurma atau sha' dari gandum bagi setiap orang yang merdeka maupun hamba sahaya (budak), laki-laki maupun perempuan dari kaum Muslimin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1504</td></tr><tr><td>Arabic No</td><td>1504</td></tr><tr><td>Reference</td><td>Book 24 Hadith 104</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ вменял в обязанность раздавать в День разговения закят аль-Фитр в размере одного са‘ фиников или ячменя, каждому свободному человеку и рабу, мужчине и женщине, из числа мусульман
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1504</td></tr><tr><td>Arabic No</td><td>1504</td></tr><tr><td>Reference</td><td>Book 24 Hadith 104</td></tr></tbody></table></div>
 

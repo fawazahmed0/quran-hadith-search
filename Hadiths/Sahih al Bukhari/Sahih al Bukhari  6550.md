@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas: Haritha was martyred on the day (of the battle) of Badr while he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abdullah bin Muhammad] telah menceritakan kepada kami [Mu'awiyah bin Amru] dan telah menceritakan kepada kami [Abu Ishaq] dari [Humaid] mengatakan, aku mendengar [Anas] mengatakan; Haritsah gugur di perang Badar sedang ia masih berusia muda. Kemudian ibunya mendatangi Nabi Shallallahu'alaihiwasallam dan berujar; "Ya Rasulullah, engkau telah tahu tempat tinggal Haritsah daripada aku, kalaulah dia di surga, maka aku akan bersabar dan mengharap pahala, dan jikalau ditempat lain, akan kau lihat apa yang kulakukan". Maka Nabi bersabda: "apakah kamu mengira bahwa surga hanyalah satu tingkatan, sungguh surga mempunyai sekian banyak tingkatan, dan sungguh dia berada di surga Firdaus
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6550</td></tr><tr><td>Arabic No</td><td>6550</td></tr><tr><td>Reference</td><td>Book 81 Hadith 139</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Хумайд рассказывал: «Я слышал, как Анас (ибн Малик) говорил: “Хариса (ибн Сурака) был убит в день (битвы при) Бадре, и он был юным парнем. И (вот) пришла его мать (Умм ар-Рубаййи‘ бинт аль-Бара) к Пророку ﷺ, сказав: “О посланник Аллаха, ты знаешь, какое значение Хариса имел для меня. Если он находится в Раю, то я буду терпеть и желать награды (от Аллаха), если же нет, то ты увидишь, что я буду делать (т.е. горько плакать о нём)!” (В ответ ей Пророк ﷺ) сказал: “Горе тебе! Ты сошла с ума? (Ты думаешь в Раю только) один сад? Поистине, райских садов много, и, поистине, он в (наивысшем) саду Фирдаус!””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6550</td></tr><tr><td>Arabic No</td><td>6550</td></tr><tr><td>Reference</td><td>Book 81 Hadith 139</td></tr></tbody></table></div>
 

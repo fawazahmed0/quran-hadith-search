@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) stayed for three rights between Khaibar and Medi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4213</td></tr><tr><td>Arabic No</td><td>4213</td></tr><tr><td>Reference</td><td>Book 64 Hadith 253</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал:«Пророк ﷺ остановился между Хайбаром и Мединой на три дня, чтобы жениться на Сафие, и я приглашал мусульман на его свадебное торжество, во время которого не было (подано) ни хлеба, ни мяса. (Пророк ﷺ) велел Билялю расстелить кожаные подстилки, на которые положили финики, сухой творог и масло, а мусульмане спрашивали (друг друга: “Станет ли она) одной из матерей правоверных или останется его невольницей?” И они говорили: “Если он (велит ей носить) покрывало, значит, она станет одной из матерей правоверных, а если нет, то останется невольницей”, а перед тем как двинуться в путь, (Пророк ﷺ) приготовил для неё место (на своей верблюдице) позади себя и закрыл (её от людей)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4213</td></tr><tr><td>Arabic No</td><td>4213</td></tr><tr><td>Reference</td><td>Book 64 Hadith 253</td></tr></tbody></table></div>
 

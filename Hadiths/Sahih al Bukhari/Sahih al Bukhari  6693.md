@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin 'Umar:The Prophet (ﷺ) forbade the making of vows and sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Khallad bin Yahya] telah menceritakan kepada kami [Sufyan] dari [Manshur] telah mengabarkan kepada kami [Abdullah bin Murrah] dari [Abdullah bin Umar], Nabi shallallahu 'alaihi wasallam melarang nadzar dan bersabda: "Nadzar tidak bisa menolak sesuatu, hanyasanya ia dikeluarkan dari orang bakhil
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6693</td></tr><tr><td>Arabic No</td><td>6693</td></tr><tr><td>Reference</td><td>Book 83 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ запретил обеты, сказав: «Поистине, обет ничего не меняет, однако посредством него вытягивают нечто из скупого»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6693</td></tr><tr><td>Arabic No</td><td>6693</td></tr><tr><td>Reference</td><td>Book 83 Hadith 70</td></tr></tbody></table></div>
 

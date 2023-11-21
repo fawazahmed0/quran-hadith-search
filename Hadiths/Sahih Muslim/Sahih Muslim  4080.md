@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ma'mar b. Abdullah reported that he sent his slave with a sa' of wheat and said 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Ma'ruf] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku ['Amru]. (dalam jalur lain disebutkan) Telah menceritakan kepadaku [Abu Thahir] telah mengabarkan kepada kami [Ibnu Wahb] dari ['Amru bin Harits] bahwa [Abu An Nadlr] menceritakan bahwa [Busr bin Sa'id] menceritakan dari [Ma'mar bin Abadullah], bahwa dia pernah menyuruh pelayannya dengan membawa satu sha' tepung ini, kemudian dia berkata, "Juallah ini lalu tukarlah dengan gandum yang masih kasar." Lalu pelayannya pergi dan mengambil lebih dari satu sha' gandum, ketika Ma'mar datang dia memberitahukan kepadanya, maka Ma'mar berkata, "Kenapa kamu lakukan hal itu! Pergilah dan kembalikan gandum itu, janganlah kamu mengambilnya kecuali dengan takaran yang sama. Sesungguhnya aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Makanan dengan makanan harus sebanding." Ma'mar berkata lagi, "Saat itu makanan kami adalah gandum." Lalu dikatakan kepadanya, "Hal itukan tidak sama jenisnya?" dia menjawab, "Sesungguhnya saya khawatir jika hal itu mendekati praktek ribawi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4080</td></tr><tr><td>Arabic No</td><td>1592</td></tr><tr><td>Reference</td><td>Book 22 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4080</td></tr><tr><td>Arabic No</td><td>1592</td></tr><tr><td>Reference</td><td>Book 22 Hadith 119</td></tr></tbody></table></div>
 

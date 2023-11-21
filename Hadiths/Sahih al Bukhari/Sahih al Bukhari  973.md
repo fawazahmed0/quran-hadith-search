@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) used to proceed to the Musalla and an 'Anaz
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Al Mundzir Al Hizami] berkata, telah menceritakan kepada kami [Al Walid] berkata, telah menceritakan kepada kami [Abu Amru Al Auza'i] berkata, telah mengabarkan kepadaku [Nafi'] dari [Ibnu 'Umar], bahwa Nabi shallallahu 'alaihi wasallam berangkat menuju tempat shalat sedang di tangan beliau ada sebuat tongkat, tongkat tersebut beliau tancapkan di depannya lalu shalat menhhadap ke arahnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>973</td></tr><tr><td>Arabic No</td><td>973</td></tr><tr><td>Reference</td><td>Book 13 Hadith 22</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар сказал: «Когда Пророк ﷺ шел к месту совершения праздничной молитвы, копье несли перед ним. Ее устанавливали перед ним на месте совершения праздничной молитвы, и он совершал молитву обращаясь в ее сторону»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>973</td></tr><tr><td>Arabic No</td><td>973</td></tr><tr><td>Reference</td><td>Book 13 Hadith 22</td></tr></tbody></table></div>
 

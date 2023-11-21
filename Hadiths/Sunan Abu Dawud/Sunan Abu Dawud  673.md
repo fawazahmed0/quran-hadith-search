@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdulHamid ibn Mahmud: I offered the Friday prayer along with Anas ibn 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abdurrahman] telah menceritakan kepada kami [Sufyan] dari [Yahya bin Hani'] dari [Abdul Hamid bin Mahmud] dia berkata; Saya pernah shalat di belakang Anas bin Malik pada Hari Jum'at, kami didorong untuk tidak shalat di antara kedua tiang hingga ada di antara kami yang maju ke depan dan ada yang mundur ke belakang. Lalu [Anas] berkata; Kami pada zaman Rasulullah Shallallahu alaihi wasallam dahulu menghindari tempat (tiang) tersebut ketika shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 2 Hadith 283</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуль-Хамид ибн Махмуд сказал: «(Однажды) я совершал пятничную молитву с Анасом ибн Маликом и нас оттеснили к столбам и поэтому мы стали продвигаться вперёд и (отодвигаться) назад, и тогда Анас сказал: “При жизни Посланника Аллаха ﷺ мы избегали этого”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 2 Hadith 283</td></tr></tbody></table></div>
 

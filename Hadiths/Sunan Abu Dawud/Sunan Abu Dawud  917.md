@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qatadah said:The Messenger of Allah (ﷺ) was leading the people in prayer w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] telah menceritakan kepada kami [Malik] dari ['Amir bin Abdullah bin Az Zubair] dari ['Amru bin Sulaim] dari [Abu Qatadah] bahwa Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat sambil menggendong Umamah binti Zainab binti Rasulullah shallallahu 'alaihi wasallam, apabila beliau sujud, beliau menaruh Umamah, dan apabila berdiri beliau menggendongnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (516) Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 2 Hadith 528</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Катады, да будет доволен им Аллах, что Посланник Аллаха ﷺ иногда совершал молитву, держа на руках Умаму, дочь Зейнаб, дочери Пророка ﷺ. Совершая земной поклон, он клал её, а поднимаясь, брал её на руки вновь
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (516) Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 2 Hadith 528</td></tr></tbody></table></div>
 

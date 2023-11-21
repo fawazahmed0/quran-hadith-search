@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "By Him in Whose Hands my soul is, 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Ziyad]; Aku mendengar [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada dalam genggamanNya, sungguh akan banyak laki-laki yang ditolak dari telagaku sebagaimana dihalaunya unta asing dari telaga (pemilik unta)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2367</td></tr><tr><td>Arabic No</td><td>2367</td></tr><tr><td>Reference</td><td>Book 42 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Клянусь Тем, в Чьей длани душа моя, я стану отгонять людей от моего водоёма подобно тому, как отгоняют от водоёма чужого верблюда!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2367</td></tr><tr><td>Arabic No</td><td>2367</td></tr><tr><td>Reference</td><td>Book 42 Hadith 15</td></tr></tbody></table></div>
 

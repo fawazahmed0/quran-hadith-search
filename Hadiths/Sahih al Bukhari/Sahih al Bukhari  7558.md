@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) said, "The painters of these pictures will 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'man] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Nafi'] dari [Ibn Umar] radliyallahu'anhuma, ia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Para pembuat gambar ini disiksa pada hari kiamat, lalu dikatakan, 'Cobalah hidupkan semua yang kalian cipta
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7558</td></tr><tr><td>Arabic No</td><td>7558</td></tr><tr><td>Reference</td><td>Book 97 Hadith 183</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Ибн ‘Умара, да будет доволен ими обоими Аллах, что Пророк ﷺ сказал: «Воистину, владельцы этих изображений будут подвергнуты мучениям в День Воскресения. Им будет сказано: “Оживите то, что вы создали!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7558</td></tr><tr><td>Arabic No</td><td>7558</td></tr><tr><td>Reference</td><td>Book 97 Hadith 183</td></tr></tbody></table></div>
 

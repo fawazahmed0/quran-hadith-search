@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Musa:A man came to the Prophet (ﷺ) and asked, "A man fights for w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Sulaiman bin Harb] telah bercerita kepada kami [Syu'bah] dari ['Amru] dari [Abu Wa'il] dari [Abu Musa radliallahu 'anhu] berkata; Datang seorang laki-laki kepada Nabi shallallahu 'alaihi wasallam lalu berkata: "Seseorang berperang untuk mendapatkan ghanimah, seseorang yang lain agar menjadi terkenal dan seseorang yang lain lagi untuk dilihat kedudukannya, manakah yang disebut fii sabilillah?" Maka Beliau bersabda: "Siapa yang berperang untuk meninggikan kalimat Allah dialah yang disebut fii sabilillah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2810</td></tr><tr><td>Arabic No</td><td>2810</td></tr><tr><td>Reference</td><td>Book 56 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Мусы, да будет доволен им Аллах, что (однажды) к Пророку ﷺ пришёл какой-то человек и сказал: «(Один) человек сражается ради военной добычи, (другой) сражается ради славы, (третий) же сражается напоказ, так кто (из них сражается) на пути Аллаха?» (Пророк ﷺ) сказал: «На пути Аллаха (сражается человек,) сражающийся ради того, чтобы превыше всего было слово Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2810</td></tr><tr><td>Arabic No</td><td>2810</td></tr><tr><td>Reference</td><td>Book 56 Hadith 26</td></tr></tbody></table></div>
 

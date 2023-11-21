@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Shu'ba narrated the hadith as reported by Jarir with the same chain of narrators
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>192</td></tr><tr><td>Arabic No</td><td>52.11</td></tr><tr><td>Reference</td><td>Book 1 Hadith 99</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис с тем же иснадом, что и хадис Джарира, но с добавкой: «…гордость и высокомерие присущи владельцам верблюдов, а спокойствием и степенностью отличаются владельцы овец»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>192</td></tr><tr><td>Arabic No</td><td>52.11</td></tr><tr><td>Reference</td><td>Book 1 Hadith 99</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: A woman came to the Prophet (ﷺ) while we were wit
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah], telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih], dari [Abu Sa'id], ia berkata; seorang wanita telah datang kepada Nabi shallallahu 'alaihi wasallam sementara kami berada di sisi beliau, kemudian wanita tersebut berkata; wahai Rasulullah, sesungguhnya suamiku yaitu Shafwan bin Al Mu'aththal memukulku apabila aku melakukan shalat dan ia memberiku makan untuk berbuka apabila aku berpuasa, dan ia tidak melakukan shalat Fajar hingga matahari terbit. Abu Said berkata; sedangkan Shafwan berada di sisinya. Kemudian dia menanyakan apa yang telah dikatakan wanita tersebut. Shafwan berkata; "Wahai Rasulullah, pengaduannya bahwa dia memukulku jika saya shalat, itu karena dia membaca dua surat yang telah saya larang. Jika saja dia mau membaca satu surat saja yaitu An Nas, maka cukuplah hal itu. Sedangkan dia menyuruhku berbuka, itu karena dia pergi dan berpuasa, padahal saya adalah seseorang yang masih muda, maka saya tidak akan bisa bersabar." Rasulullah shallallahu 'alaihi wasallam bersabda pada saat itu: "Janganlah seorang istri berpuasa kecuali dengan izin dari suaminya." "Sedangkan pengaduan bahwa dia tidak shalat sehingga matahari terbit, karena kami adalah para penghuni rumah, dan hal itu sudah dimaklum bahwa kami bangun pada saat mendekati matahari terbit." Beliau bersabda: "Jika kamu telah bangun maka shalatlah." Abu Daud berkata; dan telah meriwayatkan juga [Hammad] yaitu Ibnu Salamah, dari [Humaid] atau [Tsabit], dari [Abu Al Mutawakkil]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2459</td></tr><tr><td>Arabic No</td><td>2459</td></tr><tr><td>Reference</td><td>Book 14 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида, да будет доволен им Аллах: «Однажды, когда мы сидели у Пророка ﷺ к нему пришла женщина и сказала: “О Посланник Аллаха! Мой муж Сафван ибн аль-Му‘атталь бьёт меня, когда я молюсь, заставляет меня прервать пост, когда я пощусь, и совершает утреннюю молитву не иначе как после восхода солнца!” А Сафван в это время сидел у него. Посланник Аллаха ﷺ спросил его об этом, и Сафван сказал: “О Посланник Аллаха, что касается её слов “бьёт меня, когда я молюсь”, то она читает по две суры, хотя я запретил ей это”. Посланник Аллаха ﷺ сказал: “Достаточно людям и одной суры”. Сафван продолжил: “Что же касается её слов “заставляет меня прервать пост”, то она начинает поститься, а я молод и не в силах терпеть”. Посланник Аллаха ﷺ сказал: “Женщина не должна поститься без разрешения мужа”. Сафван продолжил: “Что же касается её слов “совершает утреннюю молитву не иначе как после восхода солнца”, то вся наша семья известна тем, что мы не просыпаемся до восхода солнца”. Посланник Аллаха ﷺ сказал: “Когда проснёшься, совершай молитву”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2459</td></tr><tr><td>Arabic No</td><td>2459</td></tr><tr><td>Reference</td><td>Book 14 Hadith 147</td></tr></tbody></table></div>
 

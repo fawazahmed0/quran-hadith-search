@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Humaid:Anas said, "Whenever Allah's Messenger (ﷺ) returned from a jou
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Abu Maryam] telah mengabarkan kepada kami [Muhammad bin Ja'far] berkata, telah mengabarkan kepada saya [Humaid], bahwa dia mendengar [Anas radliallahu 'anhu] berkata: " Rasulullah shallallahu 'alaihi wasallam bila pulang dari bepergian dan melihat dataran tinggi kota Madinah, Beliau mempercepat jalan unta Beliau dan bila menunggang hewan lain Beliau memacunya". Abu 'Abdullah Al Bukhariy berkata: [Al Harits bin 'Umair] dari [Humaid]: "Beliau memacunya karena kecintaannya (kepada Madinah). Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Isma'il] dari [Humaid] dari [Anas] berkata, "…. Beliau melihat dinding-dinding kota Madinah ….". Hadits ini diikuti pula oleh [Al Harits bin 'Umair]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>1802</td></tr><tr><td>Reference</td><td>Book 26 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Анас, да будет доволен им Аллах, сказал: «При виде возвышенностей Медины Посланник Аллаха ﷺ возвращавшийся после какой-нибудь поездки, начинал погонять свою верблюдицу, если же это было (другое верховое) животное, то он погонял и его».\nВ (одной из) версий (этого хадиса сказано также): «…из любви к ней»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>1802</td></tr><tr><td>Reference</td><td>Book 26 Hadith 27</td></tr></tbody></table></div>
 

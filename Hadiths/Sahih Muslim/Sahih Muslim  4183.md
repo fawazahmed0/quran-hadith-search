@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Nu'man b. Bashir, reported that Allah's Messenger (ﷺ) had said:Have you, besid
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepadaku [Ayahku] telah menceritakan kepada kami [Isma'il] dari [As Sya'bi] dari [An Nu'man bin Basyir], bahwa Rasulullah shallallahu 'alaihi wasallam pernah bersabda: "Apakah kamu memiliki anak selain dia?" Ayahku menjawab, "Ya." Beliau bertanya lagi: "Apakah kamu telah memberi mereka semua seperti ini?" Ayahku menjawab, "Tidak." Beliau bersabda: "Kalau begitu, saya tidak mau menjadi saksi atas pemberian yang kurang adil (zhalim) ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4183</td></tr><tr><td>Arabic No</td><td>1623.07</td></tr><tr><td>Reference</td><td>Book 24 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4183</td></tr><tr><td>Arabic No</td><td>1623.07</td></tr><tr><td>Reference</td><td>Book 24 Hadith 21</td></tr></tbody></table></div>
 

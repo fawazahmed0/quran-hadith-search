@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "The (Hell) Fire complained t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata telah bercerita kepadaku [Abu Salamah bin 'Abdur Rahman] bahwa dia mendengar [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Neraka mengadu kepada Rabbnya seraya berkata; "Wahai Tuhanku, sebagianku (api) saling memakan satu sama lain". Maka neraka diizinkan untuk berhembus dua kali. Satu kali pada saat musim dingin dan satu kali lagi pada saat musim panas. Maka hawa panas yang kamu rasakan merupakan hawa panas dari hembusan api neraka dan hawa dingin yang kamu rasakan merupakan hawa dingin dari zamharir (hawa dingin) jahannam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3260</td></tr><tr><td>Arabic No</td><td>3260</td></tr><tr><td>Reference</td><td>Book 59 Hadith 70</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Ад пожаловался своему Господу, сказав: “О Господь мой, одна часть меня пожирает другую!” И (Аллах) позволил ему делать два выдоха: один выдох зимой, а другой летом. (Это тогда, когда) вы ощущаете наиболее сильную жару и наиболее сильный холод”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3260</td></tr><tr><td>Arabic No</td><td>3260</td></tr><tr><td>Reference</td><td>Book 59 Hadith 70</td></tr></tbody></table></div>
 

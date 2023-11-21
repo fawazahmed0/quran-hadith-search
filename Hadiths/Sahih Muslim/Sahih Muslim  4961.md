@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ On the authority of Abu Huraira that the Prophet (ﷺ) said:Travelling is a tort
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah bin Qa'nab] dan [Isma'il bin Abu Uwais] dan [Abu Mus'ab Az Zuhri] dan [Manshur bin Abu Muzahim] dan [Qutaibah bin Sa'id], mereka berkata; telah menceritakan kepada kami [Malik]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] dan ini adalah lafadz dari dia, dia berkata; saya pernah bertanya kepada [Malik], "Apakah [Sumaiy] pernah menceritakan kepadamu dari [Abu Shalih] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Perjalanan itu setengah dari siksaan, sebab ia dapat mencegah salah seorang kalian dari tidurnya, makannya dan minumnya, oleh karena itu jika urusan kalian telah selesai, segeralah kembali kepada keluargamu." Malik menjawab, "Betul
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4961</td></tr><tr><td>Arabic No</td><td>1927</td></tr><tr><td>Reference</td><td>Book 33 Hadith 256</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4961</td></tr><tr><td>Arabic No</td><td>1927</td></tr><tr><td>Reference</td><td>Book 33 Hadith 256</td></tr></tbody></table></div>
 

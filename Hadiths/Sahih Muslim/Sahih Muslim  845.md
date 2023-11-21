@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Ibn Umm Maktum used to pronounce Adhan at the behest of the Mess
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Kuraib Muhammad bin al-Ala' al-Hamdani] telah menceritakan kepada kami [Khalid, yaitu Ibnu Makhlad] dari [Muhammad bin Ja'far] telah menceritakan kepada kami [Hisyam] dari [bapaknya] dari [Aisyah] dia berkata, "Dahulu Ibnu Ummi Maktum mengumandangkan adzan untuk Rasulullah Shallallahu'alaihiwasallam, sedangkan dia buta." Dan telah menceritakan kepada kami [Muhammad bin Salamah al-Muradi] telah menceritakan kepada kami [Abdullah bin Wahab] dari [Yahya bin Abdullah] dan [Sa'id bin Abdurrahman] dari [Hisyam] dengan isnad ini semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>845</td></tr><tr><td>Arabic No</td><td>381.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша рассказала: «Ибн Умм Мактум, будучи слепым, возвещал азан для Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>845</td></tr><tr><td>Arabic No</td><td>381.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 9</td></tr></tbody></table></div>
 

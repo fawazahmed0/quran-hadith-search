@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Miqdam ibn Ma'dikarib ; AbuUmamah: The Prophet (ﷺ) said: When a ruler
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sa'id bin Amru Al Hadhrami] berkata, telah menceritakan kepada kami [Isma'il bin Ayyasy] berkata, telah menceritakan kepada kami [Dhamdham bin Zur'ah] dari [Syuraih bin Ubaid] dari [Jubair bin Nufair] dan [Katsir bin Murrah] dan [Amru Ibnul Aswad] dan [Al Miqdam bin Makdi Karib] dan [Abu Umamah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya jika seorang penguasa telah berburuk sangka kepada manusia (rakyatnya), maka itu akan merusak mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Aisha added:The Prophet (ﷺ) and I used to take a bath from one container (of w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>5956</td></tr><tr><td>Reference</td><td>Book 77 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(‘Аиша также сказала): «Обычно я совершала полное омовение вместе с Пророком ﷺ (и мы брали воду) из одного и того же сосуда»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>5956</td></tr><tr><td>Reference</td><td>Book 77 Hadith 172</td></tr></tbody></table></div>
 

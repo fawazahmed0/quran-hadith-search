@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Zayd: The Messenger of Allah (ﷺ) came upon us. We brough
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Hasan bin Ali] telah menceritakan kepada kami [Abu Al Walid] dan [Sahl bin Hammad] mereka berdua berkata; Telah menceritakan kepada kami [Abdul Aziz bin Abdullah bin Abu Salamah] dari [Amru bin Yahya] dari [Ayahnya] dari [Abdullah bin Zaid], dia berkata; Rasulullah shallallahu 'alaihi wasallam datang kepada kami, maka kami mengeluarkan untuk beliau air di dalam bejana yang terbuat dari kuningan, lalu beliau berwudhu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (191، 197) Sahih Muslim (235)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>100</td></tr><tr><td>Arabic No</td><td>100</td></tr><tr><td>Reference</td><td>Book 1 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах ибн Зейд сказал: «(Однажды, когда) Посланник Аллаха ﷺ пришёл к нам, мы вынесли ему воду в сосуде из меди, и он совершил омовение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (191، 197) Sahih Muslim (235)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>100</td></tr><tr><td>Arabic No</td><td>100</td></tr><tr><td>Reference</td><td>Book 1 Hadith 100</td></tr></tbody></table></div>
 

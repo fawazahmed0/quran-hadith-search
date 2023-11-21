@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported Allah's Apostle (ﷺ) as saying:He who gives up his share in 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami ['Abd bin Humaid] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu Umar], bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa memerdekakan bagiannya atas seorang budak, hendaklah ia membebaskan sisa bagian yang lainnya jika ia memiliki uang yang mencukupinya (harganya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>1501.08</td></tr><tr><td>Reference</td><td>Book 27 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>1501.08</td></tr><tr><td>Reference</td><td>Book 27 Hadith 77</td></tr></tbody></table></div>
 

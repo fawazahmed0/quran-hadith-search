@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: Aflah ibn AbulQu'ays entered upon me. I hid myse
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Katsir Al 'Abdi], telah mengabarkan kepada kami [Sufyan] dari [Hisyam bin 'Urwah] dari ['Urwah] dari [Aisyah] radliallahu 'anha, ia berkata; Aflah bin Abu Al Qu'ais menemuiku, kemudian aku menutup diri darinya. Ia berkata; apakah engkau menutup diri dariku? Aku adalah pamanmu. Aisyah berkata; aku katakan; dari mana? Ia berkata; engkau telah disusui isteri saudaraku. Aisyah berkata; sesungguhnya aku disusui oleh seorang wanita dan tidak disusui oleh seorang laki-laki. Kemudian Rasulullah shallallahu 'alaihi wasallam menemuiku dan aku menceritakannya kepada beliau. Lalu beliau berkata: "Sesungguhnya ia adalah pamanmu, maka silahkan ia menemuimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5239) Sahih Muslim (1445)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2057</td></tr><tr><td>Arabic No</td><td>2057</td></tr><tr><td>Reference</td><td>Book 12 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Аиши, да будет доволен ею Аллах: «Ко мне зашёл Афлях ибн Абу аль-Куайс, и я закрылась от него. Он сказал: “Ты закрываешься от меня? Ведь я твой дядя по отцу”. Я спросила: “Как же это?” Он сказал: “Тебя выкармливала жена моего брата”. Я сказала: “Меня выкармливала женщина, а не мужчина”. В это время вошёл Посланник Аллаха ﷺ. Он сказал: “Поистине, он твой дядя, пусть же он зайдёт к тебе”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5239) Sahih Muslim (1445)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2057</td></tr><tr><td>Arabic No</td><td>2057</td></tr><tr><td>Reference</td><td>Book 12 Hadith 12</td></tr></tbody></table></div>
 

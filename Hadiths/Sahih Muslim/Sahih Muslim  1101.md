@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Abbas reported that he saw 'Abdullah b. al-Harith observing the pray
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Amru bin Sawwad al-Amiri] telah mengabarkan kepada kami [Abdullah bin Wahb] telah mengabarkan kepada kami [Amru bin al-Harits] bahwa [Bukair] telah menceritakan kepadanya bahwa [Kuraib, maula Ibnu Abbas] telah menceritakan kepadanya dari [Abdullah bin Abbas] bahwa dia melihat Abdullah bin al-Harits shalat sedangkan kepalanya terikat dari belakangnya, maka dia berdiri, lalu mulai melepaskannya. Ketika dia berpaling, maka dia menghadap pada Ibnu Abbas seraya berkata, "Mengapa kamu memperlakukan kepalaku demikian?" Dia menjawab, "Aku mendengar Rasulullah Shallallahu'alaihiwasallam bersabda, 'Permisalan ini adalah sebagaimana permisalan orang yang shalat dalam keadaan tangannya terikat di tengkuk
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1101</td></tr><tr><td>Arabic No</td><td>492</td></tr><tr><td>Reference</td><td>Book 4 Hadith 263</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Курайба, что (однажды), заметив, что волосы молящегося ‘Абдуллаха ибн аль-Хариса заплетены в косу сзади, ‘Абдуллах ибн ‘Аббас встал и начал распускать их. Закончив молиться, (‘Абдуллах ибн аль-Харис) подошёл к Ибн ‘Аббасу и спросил его: «Что тебе до моей головы?» (В ответ ему Ибн ‘Аббас) сказал: «Поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Такой (человек) подобен тому, кто молится связанным”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1101</td></tr><tr><td>Arabic No</td><td>492</td></tr><tr><td>Reference</td><td>Book 4 Hadith 263</td></tr></tbody></table></div>
 

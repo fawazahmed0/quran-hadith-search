@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée), J'ai servi à boire au Prophète (paix et bé
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] keduanya berkata; telah menceritakan kepada kami ['Affan] telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] dia berkata, "Sungguh saya pernah menuangkan minuman apa saja ke dalam gelasku (mangkuk) untuk Rasulullah shallallahu 'alaihi wasallam; madu, perasan nabidz (semacam arak), air dan susu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 36 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 36 Hadith 111</td></tr></tbody></table></div>
 

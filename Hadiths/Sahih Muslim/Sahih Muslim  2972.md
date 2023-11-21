@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Mutarrif reported:'Imran b. Husain said to me: Should I not narrate to you a had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah meceritakan kepada kami [Zuhair bin Harb] Telah menceritakan kepada kami [Isma'il bin Ibrahim] Telah menceritakan kepada kami [Al Jurairi] dari [Abul 'Ala'] dari [Mutharrif] ia berkata; [Imran bin Hushain] berkata kepadaku; "Pada hari ini saya akan menceritakan hadits kepadamu dan semoga Allah memberikan manfaat kepadamu setelah hari ini. Ketahuilah bahwa Rasulullah shallallahu 'alaihi wasallam telah membolehkan sekelompok dari keluarganya berihram untuk umrah dan tidak ada satu ayat pun yang turun untuk menghapuskannya, dan belau juga tidak pernah melarangnya hingga beliau wafat. Dan setelah itu, setiap orang dapat mengusulkan apa saja yang ingin mereka usulkan." Dan Telah meceritakannya kepada kami [Ishaq bin Ibarahim] dan [Muhammad bin Hatim] keduanya dari [Waki'] Telah menceritakan kepada kami [Sufyan] dari [Al Jurairi] di dalam isnad ini. Dan Ibnu Hatim berkata dalam riwayatnya; Seorang dapat mengusulkan apa saja yang menjadi pendapatnya, yakni Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2972</td></tr><tr><td>Arabic No</td><td>1226.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 181</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2972</td></tr><tr><td>Arabic No</td><td>1226.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 181</td></tr></tbody></table></div>
 

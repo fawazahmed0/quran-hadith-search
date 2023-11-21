@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abu Rafi':I offered the night prayer behind Abu Hurairah. He recited Su
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Al Mu'tamir] dia berkata; saya mendengar [ayahku], telah menceritakan kepada kami [Bakr] dari [Abu Rafi'] dia berkata; "Aku pernah shalat Isya' bersama [Abu Hurairah], lalu dia membaca; "Idzas samaa'un syaqqat" kemudian dia sujud." Aku pun bertanya; "Sujud apakah ini?" dia menjawab; "Aku juga pernah sujud seperti ini di belakang Abu Qasim shallallahu 'alaihi wasallam, dan aku akan senantiasa sujud pada bacaan ini sehingga aku bertemu dengan-Nya (meninggal dunia)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1078) Sahih Muslim (578)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1408</td></tr><tr><td>Arabic No</td><td>1408</td></tr><tr><td>Reference</td><td>Book 7 Hadith 8</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Рафи‘, да будет доволен им Аллах: «Однажды я совершал с Абу Хурайрой вечернюю молитву /‘иша/ и он прочитал суру “Когда небеса расколются…” и совершил земной поклон. Я спросил: “Что это за земной поклон?” Он ответил: “Я совершал его, молясь за Абу аль-Касимом ﷺ и буду совершать его до тех пор, пока не встречу его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1078) Sahih Muslim (578)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1408</td></tr><tr><td>Arabic No</td><td>1408</td></tr><tr><td>Reference</td><td>Book 7 Hadith 8</td></tr></tbody></table></div>
 

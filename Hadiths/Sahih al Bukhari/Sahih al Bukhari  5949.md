@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Talha:The Prophet (ﷺ) said, "Angels do not enter a house in which
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah bin 'Utbah] dari [Ibnu Abbas] dari [Abu Thalhah] radliallahu 'anhum dia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Malaikat tidak akan masuk ke rumah yang di dalamnya terdapat anjing dan patung." [Al Laits] berkata; telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku ['Ubaidullah] dia mendengar [Ibnu Abbas] bahwa saya mendengar [Abu Thalhah] bahwa saya mendengar Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5949</td></tr><tr><td>Arabic No</td><td>5949</td></tr><tr><td>Reference</td><td>Book 77 Hadith 165</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Тальхи, да будет доволен им Аллах, что Пророк ﷺ сказал: «Ангелы не входят в дом, в котором есть собака или изображения (живых существ)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5949</td></tr><tr><td>Arabic No</td><td>5949</td></tr><tr><td>Reference</td><td>Book 77 Hadith 165</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Aïcha (raa), l'Envoyé de Dieu (paix et bénédiction de Dieu sur lui
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] dan [Amru an-Naqid] keduanya berkata, telah menceritakan kepada kami [Hasyim bin al-Qasim] telah menceritakan kepada kami [Syaiban] dari [Hilal bin Abi Humaid] dari [Urwah bin az-Zubair] dari [Aisyah radhiyallahu'anhu] dia berkata, "Rasulullah Shallallahu'alaihiwasallam bersabda dalam sakitnya yang menyebabkan beliau tidak bisa bangkit lagi, 'Allah melaknat kaum Yahudi dan Nashrani yang menjadikan kuburan para nabi mereka sebagai masjid'." Aisyah berkata, "Kalau bukan karena itu, niscaya kuburan beliau dipertontonkan, padahal tindakan itu dikhawatirkan akan dijadikannya kuburan beliau sebagai masjid." Dan dalam riwayat Ibnu Abi Syaibah, "Kalau bukan karena itu niscaya dia tidak menyebutkan sesuatu yang Aisyah katakan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1184</td></tr><tr><td>Arabic No</td><td>529</td></tr><tr><td>Reference</td><td>Book 5 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что во время болезни, от которой он уже не оправился, Посланник Аллаха ﷺ сказал: «Аллах проклял (или: да проклянет Аллах) иудеев и христиан за то, что они сделали могилы своих пророков местами для поклонения».‘Аиша добавила: «И если бы не это, то его бы захоронили на открытой местности. Однако было опасение, что его могилу превратят в место поклонения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1184</td></tr><tr><td>Arabic No</td><td>529</td></tr><tr><td>Reference</td><td>Book 5 Hadith 24</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Zainab bint Abi Salama:I went to Um Habiba, the wife of Prophet, who sa
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada saya [Malik] dari ['Abdullah bin Abu Bakar bin Muhammad bin 'Amru bin Hazm] dari [Humaid bin Nafi'] dari [Zainab binti Abu Salamah] bahwa dia mengabarkannya, katanya; Aku pernah menemui [Ummu Habibah] radliallahu 'anha, isteri Nabi Shallallahu'alaihiwasallam. Lalu dia berkata; Aku mendengar Rasulullah Shallallahu'alaihiwasallam bersabda: "Tidak halal bagi wanita yang beriman kepada Allah dan Hari Akhir untuk berkabung melebihi tiga hari kecuali bila ditinggal mati suaminya yang saat itu dia boleh berkabung sampai empat bulan sepuluh hari". Lalu aku menemui [Zainab binti Jahsy] ketika saudara laki-lakinya meninggal dunia. Saat itu dia meminta minyak wangi lalu memakainya kemudian berkata, "Aku sebenarnya tidak memerlukan minyak wangi seandainya aku tidak mendengar Rasulullah Shallallahu'alaihiwasallam bersabda dari atas mimbar: tidak halal bagi seorang wanita yang beriman kepada Allah dan hari akhir berkabung atas mayit melebihi tiga hari selain karena kematian suaminya, boleh hingga empat bulan sepuluh hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1282</td></tr><tr><td>Arabic No</td><td>1282</td></tr><tr><td>Reference</td><td>Book 23 Hadith 42</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+«А потом я зашла к Зейнаб бинт Джахш, когда умер её брат, и она тоже велела принести себе благовония, умастилась ими, а потом сказала: “Нет мне нужды в этих благовониях, однако я слышала, как Посланник Аллаха ﷺ сказал, стоя на минбаре: “Не дозволено женщине, верующей в Аллаха и в Последний день, соблюдать траур по покойному свыше трёх дней, и только по мужу она должна соблюдать траур четыре месяца и десять дней”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1282</td></tr><tr><td>Arabic No</td><td>1282</td></tr><tr><td>Reference</td><td>Book 23 Hadith 42</td></tr></tbody></table></div>
 

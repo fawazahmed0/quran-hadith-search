@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: AbdurRahman ibn Samurah said: I was holding the hand
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Raqabah bin Mashqalah] dari [Aun bin Abu Juhaifah] dari ['Abdurrahman] -maksudnya Abdur Rahman bin Samurah- ia berkata, "Aku meraih tangan [Ibnu Umar] saat berada di jalanan kota Madinah; yakni saat mendatangi kepala yang ditancapkan (kepala Abdullah bin Az Zubair), ia berkata, "Calakalah orang yang telah membunuh orang ini!" Ketika telah berlalu ia berkata lagi, "Aku tidak melihat kecuali orang ini telah celaka. Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mendatangi seorang laki-laki dari umatku untuk membunuhnya, hendaklah ia mengatakan begini 'orang yang membunuh dineraka dan yang dibunuh disurga." Abu Daud berkata; [At Tsauri] telah meriwayatkannya dari [Aun] dari [Abdur Rahman bin Sumair atau Sumairah] serta [Laits bin Abu Sulaim] meriwayatkannya dari [Aun] dari [Abdur Rahman bin Sumairah], Abu Daud berkata; " [Al Hasan bin Ali] berkata kepadaku, telah menceritakan kepadaku [Abu Walid] -maksudnya menceritakan hadits ini-; dari [Abu Awanah] dan ia (Abu Walid) berkata; "dia (Abdur Rahman) di dalam kitab saya (bernama Abdur Rahman) bin Sabarah, dan mereka berkata; Samurah, dan mereka juga berkata; Sumairah, ini adalah perkataannya Abu Walid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4260</td></tr><tr><td>Arabic No</td><td>4260</td></tr><tr><td>Reference</td><td>Book 37 Hadith 21</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн Самура, да будет доволен им Аллах, передаёт: «Я шёл с Ибн ‘Умаром по одной из дорог Медины, держа его за руку, и он увидел выставленную на всеобщее обозрение голову (возможно, это была голова убитого ‘Абдуллаха ибн аз-Зубайра) и воскликнул: “Несчастен его убийца!” Мы пошли дальше, и он сказал: “Я думаю, что его ожидает скверная участь, потому что я слышал, как Посланник Аллаха ﷺ сказал: ‹Если кто-то подойдёт к человеку из моей общины, чтобы убить его, то пусть тот подставит ему шею, ибо убийца окажется в Огне, а убитый в Раю›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4260</td></tr><tr><td>Arabic No</td><td>4260</td></tr><tr><td>Reference</td><td>Book 37 Hadith 21</td></tr></tbody></table></div>
 

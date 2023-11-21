@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported Allah's Messenger (ﷺ) as saying:If there were two valle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Anas bin Malik] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Andai kata anak itu memiliki emas satu lembah, niscaya ingin memiliki satu lembah lagi. Tidak ada yang dapat mengisi mulut (hawa nafsu) -nya melainkan tanah (maut). Dan Allah menerima taubat siapa saja yang bertaubat kepada-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2417</td></tr><tr><td>Arabic No</td><td>1048.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 154</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Анаса ибн Малика, что Посланник Аллаха ﷺ сказал: «Если бы у потомка Адама была долина золота, он пожелал бы, чтобы у него были две другие долины. И не наполнит его утробу ничего, кроме земли (могилы), а Аллах принимает покаяние того, кто покается»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2417</td></tr><tr><td>Arabic No</td><td>1048.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 154</td></tr></tbody></table></div>
 

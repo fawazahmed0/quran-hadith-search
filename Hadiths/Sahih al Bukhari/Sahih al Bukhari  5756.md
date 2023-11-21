@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "No 'Adwa (no contagious disease is convey
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Qatadah] dari [Anas] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Tidak ada 'adwa (keyakinan adanya penularan penyakit), tidak ada thiyarah (menganggap sial sesuatu hingga tidak jadi beramal), dan yang menakjubkanku adalah al fa'lu yang baik yaitu kalimat yang baik
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5756</td></tr><tr><td>Arabic No</td><td>5756</td></tr><tr><td>Reference</td><td>Book 76 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, да будет доволен им Аллах, что Пророк ﷺ сказал: «Не (передаётся) зараза (иначе как по воле Аллаха), и не (является дурным предзнаменованием полёт) птиц, и нравится мне благое предзнаменование, то есть доброе слово»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5756</td></tr><tr><td>Arabic No</td><td>5756</td></tr><tr><td>Reference</td><td>Book 76 Hadith 71</td></tr></tbody></table></div>
 

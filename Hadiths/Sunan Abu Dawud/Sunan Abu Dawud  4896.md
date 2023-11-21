@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Sa'id ibn al-Musayyab: While the Messenger of Allah (ﷺ) was sitting w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isa bin Hammad] berkata, telah mengabarkan kepada kami [Al Laits] dari [Sa'id Al Maqburi] dari [Basyir Ibnul Muharrar] dari [Sa'id bin Al Musayyab] ia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam sedang duduk-duduk bersama para sahabat sahabatnya, tiba-tiba ada seorang laki-laki mencela Abu Bakar, namun Abu Bakar diam saja. Laki-laki itu kembali mencacinya untuk yang kedua kalinya, namun Abu Bakar tetap diam. Dan ketika laki-laki itu mencacinya untuk yang ketiga kalinya, Abu Bakar membela diri dan membalas caciannya. Maka ketika Abu Bakar membela diri, Rasulullah shallallahu 'alaihi wasallam bangkit. Hal itu menjadikan Abu Bakar bertanya, "Wahai Rasulullah, apakah engkau marah kepadaku?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Malaikat telah turun dari langit mendustakan apa yang ia katakan kepadamu, saat engkau membela diri setan telah mengalahkanmu. Maka tidak mungkin aku ikut duduk jika setan sudah berperan." Telah menceritakan kepada kami [Abdul A'la bin Hammad] telah menceritakan kepada kami [Sufyan] dari [Ibnu Ajlan] dari [Said bin Abi Said] dari [Abu Hurairah] bahwasanya ada seorang laki-laki yang mencela Abu Bakar…-maka ia menceritakan seperti hadits di atas-, Abu Daud berkata; "begitu juga [Shafwan bin Isa] meriwayatkannya dari [Ibnu Ajlan] sebagaimana yang telah disebutkan oleh Sufyan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4896</td></tr><tr><td>Arabic No</td><td>4896</td></tr><tr><td>Reference</td><td>Book 43 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4896</td></tr><tr><td>Arabic No</td><td>4896</td></tr><tr><td>Reference</td><td>Book 43 Hadith 124</td></tr></tbody></table></div>
 

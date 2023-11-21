@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abbas bin Tamim:that his uncle said: "The Prophet (ﷺ) was asked: If 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Az Zuhriy] dari ['Abbad bin Tamim] dari [pamannya] berkata; Nabi shallallahu 'alaihi wasallam diadukan tentang seorang laki-laki yang mendapatkan sesuatu yang nggak beres ketika sedang shalat, apakah aku harus memutuskan shalat atau melanjutkannya?" Maka Beliau bersabda: "Tidak, hingga dia mendengar suara atau tercium baunya". Dan berkata, [Ibnu Abu Hafshah] dari [Az Zuhriy]: "Tidak ada kewajiban berwudhu' kecuali bila engkau mencium bau atau mendengar suara
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>2056</td></tr><tr><td>Reference</td><td>Book 34 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аббада ибн Тамима, что его дядя сказал: «Пророку ﷺ рассказали о жалобе одного человека, который что-то чувствует во время молитвы, должен ли он прерывать молитву (по причине этого)? Он ответил: “Нет, (пусть не прерывает до тех пор,) пока не услышит звук или не почувствует запах”». \nАз-Зухри сказал: «Нет необходимости совершать омовение, если ты не почувствуешь запаха или не услышишь звука»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>2056</td></tr><tr><td>Reference</td><td>Book 34 Hadith 10</td></tr></tbody></table></div>
 

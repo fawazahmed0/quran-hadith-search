@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir b. Abdullah reported that a person happened to come to the mosque with arr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Abu Ar Rabi']; Telah menceritakan kepada kami dan berkata [Yahya]; dan lafazh ini miliknya; Telah mengabarkan kepada kami [Hammad bin Zaid] dari ['Amru bin Dinar] dari [Jabir bin 'Abdullah] bahwa suatu ketika seorang laki-laki lewat di dalam masjid dengan membawa beberapa panah dengan menampakkan mata panah-panah tersebut. Maka orang tersebut disuruh untuk memegang mata panahnya agar tidak melukai seorang muslim
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6662</td></tr><tr><td>Arabic No</td><td>2614.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 159</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6662</td></tr><tr><td>Arabic No</td><td>2614.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 159</td></tr></tbody></table></div>
 

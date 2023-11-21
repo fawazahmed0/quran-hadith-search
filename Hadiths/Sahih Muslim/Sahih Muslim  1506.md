@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:A man's prayer in congreg
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu Kuraib], semuanya dari [Abu Muawiyah]. [Abu Kuraib] mengatakan; telah menceritakan kepada kami [Abu Muawiyah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] katanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat seseorang dengan berjama'ah melebihi dua puluh sembilan derajat dari shalat seseorang yang dikerjakan di rumahnya dan di pasarnya, demikian itu karena bila salah seorang diantara mereka berwudhu' dengan menyempurnakan wudlu'nya, lalu mendatangi masjid, dan tidak ada yang mendorongnya kecuali untuk shalat, maka tidaklah ia melangkah satu langkah, kecuali akan ditinggikan derajatnya dan dihapus kesalahannya, hingga ia masuk masjid, jika ia telah masuk masjid, maka ia dihitung dalam shalat selama ia tertahan oleh shalat, dan malaikat terus mendoakan salah seorang diantara kalian selama ia dalam majlisnya yang ia pergunakan untuk shalat, malaikat akan berdoa; "Ya Allah, rahmatilah dia, Ya Allah, ampunilah dia, Ya Allah maafkanlah dia, " selama ia tidak melakukan gangguan dan belum berhadats." Telah menceritakan kepada kami [Said bin 'Amru] dan [Al Asy'ats] telah mengabarkan kepada kami [Abtsar] (dan diriwayatkan dari jalur lain) telah menceritakan kepadaku [Muhammad bin Bukkar bin Rayyan] katanya; telah menceritakan kepada kami [Ismail bin Zakariya] (dan diriwayatkan dari jalur lain) telah menceritakan kepada kami [Ibnu Al Mutsanna] katanya; telah menceritakan kepada kami [Ibnu Adi] dari [Syu'bah] semuanya dari [Al A'masy] tentang sanad dan maksud yang sama
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1506</td></tr><tr><td>Arabic No</td><td>649.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 339</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Коллективная молитва, (в которой принимает участие) человек, превосходит молитву, (совершаемую) им у себя дома или на рынке, более чем на двадцать ступеней. Объясняется это тем, что если любой (из мусульман) совершит омовение должным образом, а затем явится в мечеть, стремясь только к совершению молитвы и не желая ничего иного, кроме молитвы, то за каждый шаг он непременно будет возвышаться на одну ступень, и с него будет сниматься одно прегрешение, пока он не войдёт в мечеть. Когда же (человек) войдёт в мечеть, (будет считаться, что он занят) молитвой всё то время, пока (лишь) молитва будет удерживать его (там). (Кроме того), ангелы будут возносить за него мольбы и говорить: “О Аллах, окажи ему милость, о Аллах, прости его, о Аллах, прими его покаяние”, пока (человек) будет оставаться на месте (совершения) молитвы, (при том условии,) что он (никому) не причинит обиды и не осквернится”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1506</td></tr><tr><td>Arabic No</td><td>649.06</td></tr><tr><td>Reference</td><td>Book 5 Hadith 339</td></tr></tbody></table></div>
 

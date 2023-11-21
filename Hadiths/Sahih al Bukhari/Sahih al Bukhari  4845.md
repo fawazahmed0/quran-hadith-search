@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn Abi Mulaika:The two righteous persons were about to be ruined. They
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yasarah bin Shafwan bin Jamil Al Lakhmi] Telah menceritakan kepada kami [Nafi' bin Umar] dari [Ibnu Abu Mulaikah] dia berkata; hampir saja dua orang terbaik binasa, yaitu Abu Bakar dan 'Umar radliallahu 'anhuma, keduanya mengangkat suara mereka di hadapan Nabi shallallahu 'alaihi wasallam. Yaitu tatkala datang kepada Nabi shallallahu 'alaihi wasallam utusan Bani Tamim. salah satu dari keduanya menunjuk Al Aqra' bin Habis Al Hanzhali, saudara Bani Mujasyi', dan yang lain menunjuk pada yang lainnya. Abu Bakar berkata kepada 'Umar, sesungguhnya kamu hanya ingin menyelisihiku. 'Umar berkata, saya tidak menginginkannya, lalu kedua suaranya meninggi di sisi Nabi shallallahu 'alaihi wasallam maka turunlah ayat; Hai orang-orang yang beriman, janganlah kamu meninggikan suaramu melebihi suara nabi, [Ibnu Az Zubair] berkata, 'Maka Umar setelah turun ayat itu tidaklah mendengar perkataan Rasulullah shallallahu 'alaihi wasallam hingga ia betul-betul memahaminnya. Dan Ibnu Az Zubair tidak menyebutkan hal itu dari Bapaknya (kakeknya) yaitu Abu Bakr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4845</td></tr><tr><td>Arabic No</td><td>4845</td></tr><tr><td>Reference</td><td>Book 65 Hadith 366</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн Аби Мулейка, сказал: «Двое наилучших, Абу Бакр и ’Умар, да будет доволен Аллах ими обоими, чуть не погибли, повысив свои голоса в присутствие Пророка ﷺ, когда к нему прибыла делегация из племени бану тамим. Один из них рекомендовал (назначить старшим) аль-Акра‘ ибн Хабиса, члена племени муджаши‘, а второй посоветовал другого человека. Тогда Абу Бакр сказал ‘Умару: “Ты просто хочешь перечить мне!” ‘Умар ответил ему: “Я не собирался перечить тебе!” Так они повысили свои голоса, и тогда был ниспослан аят: “О вы, которые уверовали! Не поднимайте ваши голоса выше голоса Пророка и не обращайтесь к нему так же громко, как вы обращаетесь друг к другу, а не то ваши деяния окажутся тщетными, и вы даже не почувствуете этого”». Ибн аз-Зубайр сказал, что после (ниспослания этого аята) ‘Умар разговаривал с Посланником Аллаха ﷺ так тихо, что тот переспрашивал его и Ибн Зубайр не упомянул о том, что его дед, то есть Абу Бакр, поступал так же
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4845</td></tr><tr><td>Arabic No</td><td>4845</td></tr><tr><td>Reference</td><td>Book 65 Hadith 366</td></tr></tbody></table></div>
 

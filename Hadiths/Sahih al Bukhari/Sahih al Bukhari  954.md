@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) said, "Whoever slaughtered (his sacrifice) befor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Muhammad bin Sirin] dari [Anas] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa menyembelih sebelum shalat hendaklah dia mengulanginya." Lalu berdirilah seorang laki-laki seraya berkata, "Ini adalah hari yang daging sangat diharap." Laki-laki itu kemudian menyebut-nyebut tentang tetangga-tetangganya, dan seakan Nabi shallallahu 'alaihi wasallam membenarkan orang itu. Lelaki itu berkata, "Sungguh aku berkurban dengan seekor jadza'ah lebih aku sukai dari dua ekor kambing." Maka Nabi shallallahu 'alaihi wasallam memberikan keringanan buat orang tersebut. Aku (Anas) tidak tahu apakah keringanan itu juga berlaku untuk yang lain atau tidak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>954</td></tr><tr><td>Arabic No</td><td>954</td></tr><tr><td>Reference</td><td>Book 13 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса, что Пророк ﷺ сказал: «Пусть тот, кто принес жертву до праздничной молитвы, повторит жертвоприношение!» И тут поднялся (один) мужчина и сказал: «В этот день люди желают мяса», и упомянул (нужду его) соседей, и как будто Пророк ﷺ поверил ему. Затем он сказал: «У меня есть годовалая коза, которая любимей для меня, чем мясо двух баранов». И Пророк ﷺ разрешил ему (совершить жертвоприношение этой козой), и я не знаю, касается ли это разрешение других людей помимо него или нет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>954</td></tr><tr><td>Arabic No</td><td>954</td></tr><tr><td>Reference</td><td>Book 13 Hadith 6</td></tr></tbody></table></div>
 

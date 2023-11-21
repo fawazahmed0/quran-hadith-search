@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Jarir bin 'Abdullah:The Prophet (ﷺ) said, "You will definitely see yo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami ['Ashim bin Yusuf Al Yarbu'i] telah menceritakan kepada kami [Abu Syihab] dari [Ismail bin Abu Khalid] dari [Qais bin Abu Hazim] dari [Jarir bin Abdullah] berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Kalian akan melihat Rabb kalian dengan mata telanjang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7435</td></tr><tr><td>Arabic No</td><td>7435</td></tr><tr><td>Reference</td><td>Book 97 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Джарир ибн ‘Абдуллах, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Поистине, вы увидите Господа вашего воочию»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7435</td></tr><tr><td>Arabic No</td><td>7435</td></tr><tr><td>Reference</td><td>Book 97 Hadith 62</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik that Abu Dhar said:Allah's Messenger (ﷺ) said, "The ro
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 25 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Анаса ибн Малика, что Абу Зарр, да будет доволен им Аллах рассказывал, что Посланник Аллаха ﷺ сказал: «Когда я находился в Мекке, крыша моего дома раскрылась, и сверху спустился Джибрил, который открыл мне грудь и омыл её изнутри водой Замзама. Затем он принёс золотой таз, наполненный мудростью и верой, вылил (его содержимое) мне в грудь и закрыл её, а затем взял меня за руку и вознёсся со мной к ближайшему небу. Джибрил сказал хранителю его (врат): “Открывай!” (Хранитель) спросил: “Кто это?” (Джибрил) ответил: “Это Джибрил”
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1636</td></tr><tr><td>Arabic No</td><td>1636</td></tr><tr><td>Reference</td><td>Book 25 Hadith 119</td></tr></tbody></table></div>
 

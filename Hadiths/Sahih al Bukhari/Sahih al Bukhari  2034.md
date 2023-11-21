@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:The Prophet (ﷺ) intended to practice I'tikaf and when he reach
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti 'Abdurrahman] dari ['Aisyah radliallahu 'anha] berkata: "Nabi shallallahu 'alaihi wasallam hendak beri'tikaf. Ketika Beliau menuju tempat khusus untuk i'tikaf Beliau, Beliau melihat ada tenda-tenda, yaitu tendanya 'Aisyah, Hafshah dan Zainab. Maka Beliau berkata: "Apakah kalian melihat kebaikan ada padanya (dengan membuat tenda-tenda ini)?" Akhirnya Beliau pergi dan tidak jadi i'tikaf. Kemudian Beliau ber'tikaf sepuluh hari pada bulan Syawal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2034</td></tr><tr><td>Arabic No</td><td>2034</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Аиши, да будет доволен ею Аллах, что однажды Пророк ﷺ решил провести определённое время в мечети, а когда он подошёл к тому месту, где хотел находиться, оказалось, что там уже было (несколько) палаток(, а именно): палатка ‘Аиши, палатка Хафсы и палатка Зайнаб. (Увидев их, Пророк ﷺ) сказал: «Считаете ли вы, что они сделали это из благочестия?» — после чего ушёл и не стал оставаться в мечети (в рамадане), но провёл там десять (дней) в шаввале
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2034</td></tr><tr><td>Arabic No</td><td>2034</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
 

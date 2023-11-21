@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:The Prophet (ﷺ) recited Surat An-Najam and prostrated, and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] dari [Abdullah] radliallahu 'anhu berkata; Nabi shallallahu 'alaihi wasallam membaca surah an Najm lalu sujud (tilawah) dan tidak ada seorangpun melainkan ikut sujud kecuali seseorang yang aku lihat dia mengambil segenggam kerikil lalu mengangkatnya lalu sujud (menempelkannya ke keningnya) sambil berkata; "Bagiku ini sudah cukup". Sungguh aku melihat orang itu (di kemudian hari) terbunuh dalam keadaan kufur kepada Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3853</td></tr><tr><td>Arabic No</td><td>3853</td></tr><tr><td>Reference</td><td>Book 63 Hadith 78</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «(Как-то раз) Пророк ﷺ, читавший суру “ан-Наджм”, совершил во время чтения земной поклон. Вместе с ним поклонились и все присутствовавшие, за исключением одного старца, который поднял с пола горсть мелких камешков или земли, поднёс их ко лбу и сказал: “Довольно с меня и этого”, а потом я видел, что его убили как неверного Аллаху»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3853</td></tr><tr><td>Arabic No</td><td>3853</td></tr><tr><td>Reference</td><td>Book 63 Hadith 78</td></tr></tbody></table></div>
 

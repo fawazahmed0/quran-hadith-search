@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada Al-Ansari:(a companion of the Prophet (ﷺ) and one of his c
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Uqail] dari [Ibnu Syihab] dari [Abu Salamah], bahwasanya [Qatadah Al Anshari] dan dia termasuk dari kalangan sahabat Nabi shallallahu 'alaihi wasallam dan pejuang penunggang kudanya, mengatakan; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Mimpi yang baik adalah berasal dari Allah, sedang mimpi yang buruk berasal dari setan, maka jika salah seorang diantara kalian bermimpi yang tidak disukainya, hendaklah meludah ke sebelah kirinya dan meminta perlindungan kepada Allah, niscaya yang sedemikian itu tidak membahayaknnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7005</td></tr><tr><td>Arabic No</td><td>7005</td></tr><tr><td>Reference</td><td>Book 91 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Катада, да будет доволен им Аллах, который являлся из числа сподвижников Пророка ﷺ и его рыцарей, сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “(Благое) сновидение — от Аллаха, а дурное — от шайтана. И если кто-нибудь из вас увидит плохой сон, который ему не понравится, то пусть же он сплюнет налево и обратится к Аллаху с мольбой о защите от (зла) этого сна, и тогда оно никак не повредит ему!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7005</td></tr><tr><td>Arabic No</td><td>7005</td></tr><tr><td>Reference</td><td>Book 91 Hadith 23</td></tr></tbody></table></div>
 

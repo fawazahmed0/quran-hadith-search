@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Hafsah, wife of the Prophet (ﷺ) said Apostle of Allaah(ﷺ), how is it that th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Al Qa'nabi] dari [Malik] dari [Nafi'] dari [Abdullah bin Umar], dari [Hafshah] isteri Nabi shallallahu 'alaihi wasallam bahwa ia berkata; wahai Rasulullah, kenapa orang-orang telah bertahalul sementara anda belum bertahalul dari umrahmu? Beliau berkata; sesungguhnya aku telah mencelup rambut kepalaku dan mengalungi hewan kurbanku, maka aku tidak bertahalul hingga menyembelih kurban
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1566) Sahih Muslim (1229)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1806</td></tr><tr><td>Arabic No</td><td>1806</td></tr><tr><td>Reference</td><td>Book 11 Hadith 86</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от жены Пророка ﷺ Хафсы, да будет доволен ею Аллах, что она спросила: «О Посланник Аллаха! Почему люди вышли из состояния ихрама после ‘умры, а ты нет?» Посланник Аллаха ﷺ сказал: «Я склеил волосы камедью и пометил жертвенный скот, и я не выйду из состояния ихрама, пока не совершу жертвоприношение»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1566) Sahih Muslim (1229)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1806</td></tr><tr><td>Arabic No</td><td>1806</td></tr><tr><td>Reference</td><td>Book 11 Hadith 86</td></tr></tbody></table></div>
 

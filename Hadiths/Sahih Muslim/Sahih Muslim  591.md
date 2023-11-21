@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha reported:Whenever Allah's Messenger (ﷺ) entered his house, he used toot
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Abu Bakar bin Nafi' al-Abdi] telah menceritakan kepada kami [Abdurrahman] dari [Sufyan] dari [al-Miqdam bin Syuraih] dari [bapaknya] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam apabila masuk rumahnya, maka beliau memulainya dengan bersiwak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>253.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Аиши, что Пророк ﷺ (брал в руки) зубочистку /сивак/, как только заходил в свой дом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>253.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 58</td></tr></tbody></table></div>
 

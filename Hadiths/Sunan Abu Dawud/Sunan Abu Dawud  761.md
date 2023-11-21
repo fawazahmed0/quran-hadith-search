@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>761</td></tr><tr><td>Arabic No</td><td>761</td></tr><tr><td>Reference</td><td>Book 2 Hadith 371</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Али ибн Абу Талиба о том, что когда Посланник Аллаха ﷺ становился на предписанную молитву, он произносил слова Аллаху акбар и поднимал руки на уровень плеч. То же самое он делал, когда завершал чтение (Корана), когда хотел совершить поясной поклон, когда выпрямлялся с поясного поклона, и вообще не поднимал руки, когда сидел, совершая молитву. Когда же он вставал после совершения двух земных поклонов (рак‘атов), он поднимал руки таким же образом и произносил слова Аллаху акбар и обращался с подобной мольбой, (о которой сказано в предыдущем) хадисе ‘Абдуль-‘Азиза, добавив и убавив кое-что в этой мольбе, но он не упомянул (слова): «Всё благо находится в руках Твоих, а зло от Тебя не исходит». И он добавил в нём: «И он говорил, завершая молитву: “О Аллах, прости мне то, что я совершил прежде и что отложил, то, что совершил тайно и явно, Ты мой бог, и нет божества, достойного поклонения, кроме Тебя!” /Аллахумма-гъфир ли ма къаддамту ва аххарту, ва асрарту ва а‘лянту, Анта иляхи, ля иляха илля Анта!/»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>761</td></tr><tr><td>Arabic No</td><td>761</td></tr><tr><td>Reference</td><td>Book 2 Hadith 371</td></tr></tbody></table></div>
 

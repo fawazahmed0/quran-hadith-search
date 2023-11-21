@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: Salih ibn Muhammad ibn Za'idah (AbuDawud said: Thi
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [An Nufaili] dan [Sa'id bin Manshur], mereka berkata; telah menceritakan kepada kami [Abdul Aziz bin Muhammad], telah berkata An Nufaili Al Andarawardi, dari [Shalih bin Muhammad bin Zaidah], Abu Daud berkata; Shalih ini adalah Abu Waqid. Ia berkata; aku masuk bersama Maslamah ke negeri Romawi, kemudian terdapat seorang laki-laki yang dihadapkan, ia telah berbuat khianat, kemudian ia bertanya kepada Salim mengenai orang tersebut, lalu [Salim] berkata; saya pernah mendengar [ayahku] menceritakan dari [Umar bin Al Khathab] dari Nabi shallallahu 'alaihi wasallam, beliau berkata: "Apabila kalian mendapatkan seorang laki-laki yang telah berkhianat, maka bakarlah barangnya dan cambuklah dia!" Abu Waqid berkata; kemudian kami mendapati sebuah Mushhaf pada barangnya. Kemudian Maslamah bertanya kepada Salim mengenai hal tersebut, kemudian ia berkata; juallah mushaf tersebut dan sedekahkan uang hasil penjualannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2713</td></tr><tr><td>Arabic No</td><td>2713</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2713</td></tr><tr><td>Arabic No</td><td>2713</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
 

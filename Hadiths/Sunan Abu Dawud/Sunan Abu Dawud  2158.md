@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ruwayfi' ibn Thabit al-Ansari: Should I tell you what I heard the Messe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2158</td></tr><tr><td>Arabic No</td><td>2158</td></tr><tr><td>Reference</td><td>Book 12 Hadith 113</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ханаша ас-Сан‘ани: «Рувайфи ибн Сабит аль-Ансари, да будет доволен им Аллах, обратился к нам с речью и сказал: “Я скажу вам лишь то, что я слышал от Посланника Аллаха ﷺ в день битвы при Хунайне: “Не дозволено мужчине, который верует в Аллаха и в Последний день, орошать своей водой чужие посевы. То есть запрещается совокупляться с беременной (от бывшего мужа). Посланник Аллаха ﷺ также сказал: «И не дозволено мужчине, который верует в Аллаха и в Последний день, вступать в половые отношения с женщиной из числа пленных до тех пор, пока к ней не придёт и не закончится очередная менструация. И не дозволено мужчине, который верует в Аллаха и в Последний день, продавать что-либо из военной добычи до её раздела›”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2158</td></tr><tr><td>Arabic No</td><td>2158</td></tr><tr><td>Reference</td><td>Book 12 Hadith 113</td></tr></tbody></table></div>
 

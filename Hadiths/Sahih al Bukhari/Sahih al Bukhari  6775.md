@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated' 'Uqba bin Al-Harith:An-Nu'man or the son of An-Nu'man was brought to t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Wuhaib bin Khalid] dari [Ayyub] dari [Abdullah bin Abi Mulaikah] dari [Uqbah bin Al Harits] bahwasanya Nabi Shallallahu'alaihiwasallam pernah diserahi Nu'aiman atau Ibnu Nu'aiman yang ketika itu dalam keadaan mabuk, beliau merasa keberatan, sehingga beliau menyuruh orang-orang yang berada dirumah untuk memukulinya, dan mereka memukulinya dengan pelepah kurma, sandal dan aku diantara yang memukulinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6775</td></tr><tr><td>Arabic No</td><td>6775</td></tr><tr><td>Reference</td><td>Book 86 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Укба ибн аль-Харис сказал: «(Однажды, когда) к Пророку ﷺ привели пьяного ан-Ну‘мана (или: сына ан-Ну’мана) от чего ему стало тяжело, он велел находившимся (у него) дома (людям) побить его, и они били его голыми пальмовыми ветвями и сандалиями, и я был одним из тех, кто бил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6775</td></tr><tr><td>Arabic No</td><td>6775</td></tr><tr><td>Reference</td><td>Book 86 Hadith 4</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: If I were in front of the Prophet (ﷺ), I would see his a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Mu'adz] telah menceritakan kepada kami [ayahku], dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Musa bin Marwan] telah menceritakan kepada kami [Syu'aib yaitu Ibnu Ishaq] sedangkan ma'na haditsnya dari ['Imran] dari [Lahiq] dari [Basyir bin Nahik] dia berkata; [Abu Hurairah] berkata; "Sekiranya aku berada di depan Nabi shallallahu 'alaihi wasallam (sewaktu mengangkat kedua tangan), niscaya ketiak beliau akan terlihat olehku." 'Ubaidullah bin Mu'adz menambahkan; Lahiq berkata; "Tidakkah kamu tahu bahwa dia itu sedang shalat, oleh karena itu dia tidak bisa berada di depan Rasulullah shallallahu 'alaihi wasallam?." Marwan bin Ar Raqi menambahkan; "yang di maksud ketika beliau bertakbir dan mengangkat kedua tangannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>746</td></tr><tr><td>Reference</td><td>Book 2 Hadith 356</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Башир ибн Нахийк сказал: «Абу Хурайра сказал: “Если бы я находился перед Пророком ﷺ то смог бы увидеть его подмышки”».Ибн Му‘аз (в своём риваяте) привёл дополнение и сказал: «Лахикъ говорит: “А разве ты не видишь, что он находится на молитве и не мог стоять перед посланником Аллаха ﷺ?!”»Муса (ибн Марван) привёл дополнение: «Имеется в виду, что произнося слова возвеличивания Аллаха /такбир/, он поднимал руки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>746</td></tr><tr><td>Reference</td><td>Book 2 Hadith 356</td></tr></tbody></table></div>
 

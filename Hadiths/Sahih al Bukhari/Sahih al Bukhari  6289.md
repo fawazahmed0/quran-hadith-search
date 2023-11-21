@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:The Prophet (ﷺ) confided to me a secret which I did no
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Shabah] telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dia berkata; saya mendengar [Ayahku] dia berkata; saya mendengar [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam pernah membisikkan suatu perkara rahasia kepadaku, maka hal itu aku tidak akan kuceritakan kepada siapapun. Dan sungguh Ummu Sulaim pun pernah bertanya tentang rahasia tersebut, namun aku tidak menceritakannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6289</td></tr><tr><td>Arabic No</td><td>6289</td></tr><tr><td>Reference</td><td>Book 79 Hadith 61</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Му‘тамир ибн Сулейман сказал:\n— Я слышал, как мой отец сказал: «Я слышал, как Анас (рассказывал): “Пророк ﷺ сообщил мне (кое-что) по секрету и я не расскажу об этом после него никому. Умм Сулейм спросила меня, но я не рассказал ей об этом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6289</td></tr><tr><td>Arabic No</td><td>6289</td></tr><tr><td>Reference</td><td>Book 79 Hadith 61</td></tr></tbody></table></div>
 

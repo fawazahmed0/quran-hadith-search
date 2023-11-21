@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Harmalah bin Yahya bin Abdullah bin Harmalah bin Imran at-Tujibi] dia telah berkata, telah menceritakan kepada kami [Ibnu Wahb] dia berkata, telah menceritakan kepada kami [Abu Syuraih] bahwa dia mendengar [Syarahil bin Yazid] berkata, telah mengabarkan kepadaku [Muslim bin Yasar] bahwa dia mendengar [Abu Hurairah] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan ada di akhir zaman para Dajjal Pendusta membawa hadits-hadits kepada kalian yang mana kalian tidak pernah mendengarnya dan bapak-bapak kalian juga belum pernah mendengarnya. Maka kalian jauhilah dan mereka jauhilah. Mereka tidak bisa menyesatkan kalian dan tidak bisa memfitnah kalian
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>16</td></tr><tr><td>Reference</td><td>Book 0 Hadith 16</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “В последние времена появятся обманщики-лжецы, которые придут к вам с такими рассказами, о которых не слышали ни вы, ни ваши отцы. Вам следует остерегаться их, чтобы они не ввели вас в заблуждение и в смуту”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>16</td></tr><tr><td>Reference</td><td>Book 0 Hadith 16</td></tr></tbody></table></div>
 

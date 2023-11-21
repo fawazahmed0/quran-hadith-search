@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ibn 'Abbas:Maimunah, wife of the Prophet (ﷺ) reported him as saying: 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Ibnu As Sabbaq] dari [Ibnu Abbas] ia berkata; telah menceritakan kepadaku [Maimunah] isteri Nabi shallallahu 'alaihi wasallam, bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jibril Alaihis Salam pernah berjanji untuk menemuiku pada waktu malam, tetapi ia tidak datang." Kemudian beliau teringat bahwa ada anak anjing berada di bawah permadani milik kami, beliau memerintahkan (agar anjing itu dikeluarkan). Anak anjing itu lalu dikeluarkan, kemudian beliau mengambil air dengan tangannya seraya memercikkan pada bekasnya. Ketika Jibril Alaihis Salam menemui beliau, ia berkata, "Sesungguhnya kami tidak akan masuk ke dalam rumah yang di dalamnya terdapat anjing atau gambar." Setelah itu Nabi shallallahu 'alaihi wasallam memerintahkan untuk membunuh anjing-anjing hingga beliau juga memerintahkan untuk membunuh anjing penjaga kebun yang masih kecil, dan membiarkan anjing penjaga kebun yang sudah besar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2105)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4157</td></tr><tr><td>Arabic No</td><td>4157</td></tr><tr><td>Reference</td><td>Book 34 Hadith 138</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Жена Пророка ﷺ Маймуна, да будет доволен ею Аллах, передаёт, что Пророк ﷺ сказал: «Поистине, Джибриль, мир ему, обещал мне, что встретится со мной вечером, однако он так и не появился». Потом он заметил щенка, который забрался под нашу постель, и велел вывести его, что и было сделано. Затем он зачерпнул рукой воды и обрызгал то место, где был щенок. А когда Джибриль, мир ему, встретился с ним в следующий раз, он сказал ему: «Поистине, мы не входим в дома, в которых есть изображения или собаки». После этого Пророк ﷺ велел убивать собак (, но вскоре это веление было отменено), причём он велел убивать даже собаку, живущую при маленьком саде (потому, что для охраны такого сада не требуется собака), и оставлять собаку, живущую при большом саде (потому, что такой сад трудно охранять без собаки)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2105)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4157</td></tr><tr><td>Arabic No</td><td>4157</td></tr><tr><td>Reference</td><td>Book 34 Hadith 138</td></tr></tbody></table></div>
 

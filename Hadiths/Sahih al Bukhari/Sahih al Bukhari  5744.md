@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) used to treat with a Ruqya saying, "O th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ahmad bin Abu Raja'] telah menceritakan kepada kami [An Nadlr] dari [Hisyam bin 'Urwah] dia berkata; telah mengabarkan kepadaku [Ayahku] dari ['Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam ketika meruqyah beliau berdo'a: "Hilangkanlah rasa sakit wahai Rabb manusia, di tangan-Mu lah segala kesembuhan, dan tidak ada yang dapat menyingkap penyakit tersebut melainkan Engkau
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5744</td></tr><tr><td>Arabic No</td><td>5744</td></tr><tr><td>Reference</td><td>Book 76 Hadith 59</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Аиши, что, читая заговор /рукъйа/, Посланник Аллаха ﷺ говорил: «Сотри болезнь, о Господь людей, в Твоей длани исцеление, и никто не дарует его, Кроме Тебя!»\n/Имсахи-ль-баъса, Рабба-н-наси, би-йади-кя-ш-шифаъу, ля кашифа ляху илля Анта
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5744</td></tr><tr><td>Arabic No</td><td>5744</td></tr><tr><td>Reference</td><td>Book 76 Hadith 59</td></tr></tbody></table></div>
 

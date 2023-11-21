@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'id bin Jubair:Ibn 'Abbas said: Um Hufaid, Ibn 'Abbas's aunt sent som
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Ja'far bin Iyas] berkata, aku mendengar [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Ummu Hufaid, bibi dari Ibnu 'Abbas menghadiahkan kepada Nabi shallallahu 'alaihi wasallam keju, minyak samin dan daging biawak. Maka Nabi shallallahu 'alaihi wasallam memakan keju dan minyak samin tapi membiarkan daging biawak karena tidak menyukainya". Ibnu 'Abbas berkata: "Semua itu dihidangkan pada makanan Rasulullah shallallahu 'alaihi wasallam, seandainya diharamkan tentu tidak akan dihidangkan pada makanan Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 51 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что (однажды) Умм Хуфайд, тётка Ибн ‘Аббаса со стороны матери прислала в подарок Пророку ﷺ сушёный творог, топлёное масло и песчаных ящериц, и Пророк ﷺ поел творога и масла, но не притронулся к ящерицам(, так как не любил их). Ибн ‘Аббас сказал: «(Однако другие) ели их за столом Посланника Аллаха ﷺ, а если бы (употреблять ящериц в пищу) было запретно, то их бы не ели за столом Посланника Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 51 Hadith 10</td></tr></tbody></table></div>
 

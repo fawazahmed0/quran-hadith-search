@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Jabir ibn Samurah: A man alighted at Harrah with his wife and children.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Simak bin Harb] dari [Jabir bin Samurah] bahwa seorang laki-laki singgah di Harrah bersama dengan anak dan isterinya. Kemudian seorang laki-laki berkata, "Sesungguhnya untaku telah hilang, apabila engkau mendapatkannya maka tangkaplah!" Laki-laki itu kemudian mendapatkannya dan tidak mendapati pemiliknya, lalu unta tersebut sakit. Lantas isterinya berkata, "Sembelihlah unta tersebut!" Namun suaminya menolak, hingga unta itu pun mati. Isterinya kemudian berkata, "Kulitilah unta tersebut hingga kita jadikan lemak dan dagingnya menjadi dendeng hingga kita bisa memakannya." Suaminya berkata, "Tidak, hingga aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam." Lalu ia datang kepada beliau dan beliau bertanya: "Apakah engkau memiliki sesuatu yang memberikan kecukupan bagimu?" Ia berkata, "Tidak." Beliau lalu bersabda: "Makanlah!" Jabir bin Samurah berkata, "Kemudian pemiliknya datang hingga ia pun mengabarkan perihal unta tersebut. Sang pemilik unta lalu berkata, "Kenapa tidak kamu sembelih?" laki-laki itu menjawab, "Aku malu darimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3816</td></tr><tr><td>Arabic No</td><td>3816</td></tr><tr><td>Reference</td><td>Book 28 Hadith 81</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Джабира ибн Самуры, да будет доволен им Аллах, что один человек остановился на пустыре вместе со свой семьёй и другой человек сказал ему: «Моя верблюдица потерялась, и если найдёшь её, задержи её у себя». И он действительно нашёл её, но не нашёл её хозяина. Вскоре верблюдица заболела. Жена сказала ему: «Зарежь её». Однако он отказался. Вскоре верблюдица издохла. Тогда жена сказал ему: «Сними с неё шкуру, и мы заготовим её жир и мясо и будем питаться им». Тот человек сказал: «Я не стану ничего делать, пока не спрошу у Посланника Аллаха ﷺ». И он пошёл к нему и спросил его об этом. Посланник Аллаха ﷺ спросил: «Состоятелен ли ты?» Тот ответил: «Нет». Посланник Аллаха ﷺ сказал: «Тогда ешьте её». А потом вернулся хозяин верблюдицы, и тот человек рассказал ему обо всём. Он воскликнул: «Почему же ты не заколол её?» Тот ответил: «Мне стало стыдно перед тобой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3816</td></tr><tr><td>Arabic No</td><td>3816</td></tr><tr><td>Reference</td><td>Book 28 Hadith 81</td></tr></tbody></table></div>
 

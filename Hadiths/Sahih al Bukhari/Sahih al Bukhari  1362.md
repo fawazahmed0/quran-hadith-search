@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali:" We were accompanying a funeral procession in Baqi-I-Gharqad. The
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Utsman] telah menceritakan kepada saya [Jarir] dari [Manshur] dari [Sa'ad bin 'Ubaidah] dari [Abu 'Abdurrahman] dari ['Ali radliallahu 'anhu] berkata,: Kami pernah berada di dekat kuburan Baqi' Al Ghorqad yang kemudian Nabi Shallallahu'alaihiwasallam mendatangi kami, lalu Beliau duduk maka kami pun ikut duduk dekat Beliau. Beliau membawa sebuah tongkat kecil yang dengan tongkat itu Beliau memukul-mukul permukaan tanah dan mengorek-ngoreknya seraya berkata,: "Tidak ada seorangpun dari kalian dan juga tidak satupun jiwa yang bernafas melainkan telah ditentukan tempatnya di surga atau di neraka dan melainkan sudah ditentukan jalan sengsaranya atau bahagianya". Kemudian ada seorang yang berkata,: "Wahai Rasulullah, dengan begitu apakah kita tidak pasrah saja menunggu apa yang sudah ditentukan buat kita dan kita tidak perlu beramal?. Karena barangsiapa diantara kita yang telah ditentukan sebagai orang yang berbahagia, maka pasti dia sampai kepada amalan orang yang berbahagia, sebaliknya siapa diantara kita yang telah ditentukan sebagai orang yang sengsara maka pasti dia akan sampai kepada amalan orang yang sengsara". Maka Beliau bersabda: "(Tidak begitu). Akan tetapi siapa yang telah ditetapkan sebagai orang yang berbahagia, dia akan dimudahkan untuk beramal amalan orang yang berbahagia dan sebaliknya orang yang telah ditetapkan sebagai orang yang akan sengsara maka dia pasti akan dimudahkan beramal amalan orang yang sengsara". Kemudian Beliau membaca firman Allah subhanahu wata'ala QS Al Lail ayat 5 - 6 yang artinya: ("Adapun orang yang memberikan (hartanya di jalan Allah) dan bertakwa serta membenarkan adanya pahala yang terbaik (syurga)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1362</td></tr><tr><td>Arabic No</td><td>1362</td></tr><tr><td>Reference</td><td>Book 23 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али, да будет доволен им Аллах, сказал: «(Однажды,) когда мы присутствовали на похоронах в Баки‘ аль-Гаркад, к нам подошёл Пророк ﷺ державший в руке небольшую палку. Он сел, опустил голову и стал разбрасывать этой палкой землю, мы же уселись вокруг него, а (через некоторое время) он сказал: “Нет никого среди вас, как нет и вообще ни одной живой души, место которой в раю или в аду уже не было бы определено, и определено также, злосчастной она является или счастливой”. Один человек сказал: “О Посланник Аллаха, так не положиться ли нам на то, что уже предопределено нам, и не отказаться ли от дел, ведь тот из нас, кто относится к числу счастливых, (всё равно) придёт к делам счастливых, а относящийся к числу злосчастных (всё равно) придёт к делам злосчастных?” (В ответ на это Пророк ﷺ) сказал: “Что касается счастливых, то для них будет облегчено совершение дел счастливых, что же касается злосчастных, то для них будет облегчено совершение дел злосчастных”, после чего прочитал (нижеследующие аяты): “Что касается того, кто отдавал, и был богобоязненным, и признавал наилучшее, то Мы облегчим ему (путь) к легчайшему”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1362</td></tr><tr><td>Arabic No</td><td>1362</td></tr><tr><td>Reference</td><td>Book 23 Hadith 115</td></tr></tbody></table></div>
 

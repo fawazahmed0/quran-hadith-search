@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The wife of Thabit bin Qais bin Shammas came to the Prophet 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Al Mubarak Al Mukharrimi] Telah menceritakan kepada kami [Qurad Abu Nuh] Telah menceritakan kepada kami [Jarir bin Hazim] dari [Ayyub] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma, ia berkata; Suatu ketika, isteri Tsabit bin Qais bin Syammas kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, tidaklah aku mencela Tsabit atas agama atau pun akhlaknya, akan tetapi aku khawatirkan akan terjerumus dalam kekufuran." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalau begitu, kembalikanlah kebun miliknya." Ia berkata, "Ya." Maka ia pun mengembalikan kebun itu pada Tsabit, sehingga Tsabit meninggalkan wanita itu. Telah menceritakan kami [Sulaiman] Telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Ikrimah] bahwasanya Jamilah..lalu ia pun menyebutkan hadits
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5276</td></tr><tr><td>Arabic No</td><td>5276</td></tr><tr><td>Reference</td><td>Book 68 Hadith 25</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ’Аббас, да будет доволен Аллах им и его отцом, сказал: «Однажды жена Сабита ибн Кайса ибн Шаммаса пришла к Пророку ﷺ и сказала: “О Посланник Аллаха, я не упрекаю Сабита в недостатке религиозности или благонравия, однако я боюсь стать неблагодарной (женой)”. Посланник Аллаха ﷺ спросил (её): “Вернёшь ли ты ему его сад?” Она ответила: “Да”. После чего она вернула его Сабиту, а Пророк ﷺ приказал ему развести её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5276</td></tr><tr><td>Arabic No</td><td>5276</td></tr><tr><td>Reference</td><td>Book 68 Hadith 25</td></tr></tbody></table></div>
 

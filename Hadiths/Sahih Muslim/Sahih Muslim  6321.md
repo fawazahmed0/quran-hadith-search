@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Jâbir Ibn 'Abdoullâh (رضي الله عنهما), l'Envoyé de Dieu 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ja'far Muhammad bin Al Faraj]; Telah menceritakan kepada kami [Zaid bin Al Hubab]; Telah mengabarkan kepadaku ['Abdul 'Aziz bin Abu Salamah]; Telah mengabarkan kepada kami [Muhammad bin Al Munkadir] dari [Jabir bin 'Abdillah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Surga pernah di perlihatkan kepadaku, lalu aku melihat istri Abu Thalhah. Kemudian aku mendengar suara gesekan sandal di depanku yang ternyata adalah langkah Bilal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6321</td></tr><tr><td>Arabic No</td><td>2457</td></tr><tr><td>Reference</td><td>Book 44 Hadith 151</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+– Передают со слов Джабира ибн ‘Абдуллах о том, что Посланник Аллаха ﷺ сказал: «Мне показали рай и я увидел там жену Абу Тальхи. Затем я услышал перед собой какое-то шуршание и оказалось, что это был Билял»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6321</td></tr><tr><td>Arabic No</td><td>2457</td></tr><tr><td>Reference</td><td>Book 44 Hadith 151</td></tr></tbody></table></div>
 

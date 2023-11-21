@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported:Allah's Messenger (ﷺ) was upon the mountain of Hira, ' an
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami ['Abdul 'Aziz] yaitu Ibnu Muhammad dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] bahwa ketika Rasulullah shallallahu 'alaihi wasallam berada di gua hira' bersama Abu Bakar, Umar, Utsman, Ali, Thalhah dan Zubair, tiba-tiba batu besar (yang mereka injak) bergetar, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Tenanglah, tidaklah bersamamu kecuali seorang Nabi, atau Ash Shiddiq, atau Syahid
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6247</td></tr><tr><td>Arabic No</td><td>2417.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6247</td></tr><tr><td>Arabic No</td><td>2417.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 77</td></tr></tbody></table></div>
 

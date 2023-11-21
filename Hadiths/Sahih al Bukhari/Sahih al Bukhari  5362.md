@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ali bin Abi Talib:Fatima came to the Prophet (ﷺ) asking for a servan
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] Telah menceritakan kepada kami [Sufyan] Telah menceritakan kepada kami [Ubaidulah bin Abu Yazid] bahwa ia mendengar [Mujahid] berkata; Aku mendengar [Abdurrahman bin Abu Laila] menceritakan dari [Ali bin Abu Thalib] bahwasanya; Fathimah Alaihas Salam datang kepada Nabi shallallahu 'alaihi wasallam untuk meminta Khadim (seorang pembantu), maka beliau bersabda: "Maukah kamu aku beritahukan sesuatu yang lebih baik darinya? Bertasbihlah kepada Allah saat kamu hendak tidur sebanyak tiga puluh tiga kali, kemudian bertahmid tiga puluh tiga kali dan bertakbir sebanyak tiga puluh empat kali." Sufyan berkata; "Satu diantaranya adalah sebanyak tiga puluh empat kali, maka setelah itu aku tidak pernah meninggalkannya." Di tanyakan kepadanya, "Meskipun pada malam perang Shiffin?" Ia menjawab, "Meskipun pada malam perang Shiffin
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5362</td></tr><tr><td>Arabic No</td><td>5362</td></tr><tr><td>Reference</td><td>Book 69 Hadith 12</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Али ибн Аби Талиба, что, когда Фатыма, да будет доволен ею Аллах, пришла к Пророку ﷺ, чтобы попросить у него слугу (для себя), он сказал (ей): «Не сообщить ли мне тебе, что для тебя лучше него? Когда ложишься в кровать произноси слова “Пречист Аллах /Субхана-Ллахи/” по тридцать три раза, “хвала Аллаху” /аль-хамду ли-Лляхи/ по тридцать три раза, и “Аллах велик /Аллаху акбар/” по тридцать четыре раза».\n‘Али сказал: «С тех пор я не оставлял (эти слова)». Один из присутствующих спросил: «(Не оставил) даже в ночь перед битвой при Сыффине?» ‘Али ответил: «Даже в ночь перед битвой при Сыффине!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5362</td></tr><tr><td>Arabic No</td><td>5362</td></tr><tr><td>Reference</td><td>Book 69 Hadith 12</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Husain bin 'Ali:'Ali bin Abi Talib said: "I got a she-camel as my share
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Hisyam] bahwa [Ibnu Juraij] mengabarkan kepada mereka berkata, telah menceritakan kepadaku [Ibnu Syihab] dari ['Ali bin Husain bin 'Ali] dari [Bapaknya, Husain bin 'Ali] dari ['Ali bin Abi Tholib] radliallahu 'anhum bahwasanya dia berkata, "Aku memiliki anak unta yang bagus bersama Rasulullah shallallahu 'alaihi wasallam dari harta ghonimah perang Badar". Dia berkata: "Dan Rasulullah shallallahu 'alaihi wasallam memberiku lagi anak unta yang lain. Suatu hari aku ikat dua anak unta itu di depan pintu rumah seseorang Kaum Anshar saat aku hendak mencarikan rerumputan untuk kedua unta tersebut. Bersamaku ada seorang tukang emas dari suku Qainuqa' yang kepadanya aku meminta tolong untuk walimah (resepsi pernikahan) Fathimah dan Hamzah bin 'Abdul Muthollib yang dia minum di rumah itu. Ketika itu bersama dia seorang budak penyanyi yang bersyair: "Siapakah orang yang kuat untuk menghadapi anak unta ini"? Maka Hamzah tampil dengan menghunus pedang lalu memotong punuk kedua anak unta itu lalu membelah peruknya dan mengambil hatinya". Aku bertanya kepada Ibnu Syihab; "Apakah dipotong dari punduknya?" Dia berkata: Dia telah memotong punuknya dan membawanya". Berkata Ibnu Syihab, berkata 'Ali radliallahu 'anhu: "Maka aku melihat ke suatu penglihatan yang mengerikan aku lalu aku temui Nabi shallallahu 'alaihi wasallam yang saat itu bersama Beliau ada Zaid bin Haritsah maka aku kabarkan kejadian tadi. Maka Beliau keluar bersama Zaid dan akupun turut serta lalu Beliau menemui Hamzah dan Beliau marah kepadanya. Hamzah membuka matanya dan berkata: "Tidaklah kalian selain budak-budak orangtuaku". Maka Rasulullah shallallahu 'alaihi wasallam kembali ke belakang hingga meninggalkan mereka. Kejadian ini sebelum diharamkannya khamar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2375</td></tr><tr><td>Arabic No</td><td>2375</td></tr><tr><td>Reference</td><td>Book 42 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Али бин Абу Талиб, да будет доволен им Аллах, сказал: «В день (битвы при) Бадре(, в которой я участвовал) вместе с Посланником Аллаха ﷺ (в качестве) военной добычи мне досталась старая верблюдица, а (кроме того,) Посланник Аллаха ﷺ дал мне ещё одну старую верблюдицу. Как-то раз я заставил (этих верблюдиц) опуститься на колени у дверей одного из ансаров, желая нагрузить на них душистый тростник, чтобы продать его и устроить (на вырученные деньги) угощение по случаю женитьбы на Фатиме, а со мной был один ювелир из (племени) бану кайнука. (В это время) в доме находился Хамза ибн ‘Абдульмутталиб, пивший (вино) вместе с какой-то певицей. (Она пела песню, в которой были такие слова): “О Хамза, (заколи) старых верблюдиц!” — и Хамза направился к (этим верблюдицам) со (своим) мечом, отрезал им горбы, разрезал им бока и достал (часть) их печени». Я спросил Ибн Шихаба: «И он (отрезал часть) горба?» Он ответил: «Он отрезал оба горба и унёс их».\n‘Али, да будет доволен им Аллах, сказал: «Увидев (это), я пришёл в ужас, отправился к Пророку Аллаха ﷺ, у которого находился Зейд ибн Хариса, и рассказал ему обо всём. (Выслушав меня, Пророк ﷺ) вместе с Зейдом вышел (из дома), и я (тоже) пошёл вместе с ним. Он вошёл к Хамзе и (стал порицать его), охваченный гневом; что же касается Хамзы, то он посмотрел на него и сказал: “Разве не являетесь вы только рабами моих предков?” Тогда Посланник Аллаха ﷺ стал пятиться назад и покинул их, и всё это случилось ещё до того, как вино было запрещено»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2375</td></tr><tr><td>Arabic No</td><td>2375</td></tr><tr><td>Reference</td><td>Book 42 Hadith 23</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Salama reported:I heard 'A'isha (Allah be pleased with her) as saying: I had
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Abdullah bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Abu Salamah] ia berkata; Saya mendengar [Aisyah] radliallahu 'anhu berkata; "Aku masih punya hutang puasa Ramadlan. Tetapi aku belum membayarnya sehingga tiba bulan Sya'ban, barulah kubayar, berhubungan dengan kesibukanku bersama Rasulullah shallallahu 'alaihi wasallam." Dan Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Bisyr bin Umar Az Zahrani] telah menceritakan kepadaku [Sulaiman bin Bilal] telah menceritakan kepada kami [Yahya bin Sa'id] dengan isnad ini, hanya saja ia mengatakan; Hal itu, karena kesibukan Rasulullah shallallahu 'alaihi wasallam. Dan telah menceritakannya kepadaku [Muhammad bin Rafi'] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ibnu Juraij] telah menceritakan kepadaku [Yahya bin Sa'id] dengan isnad ini, dan ia berkata; "Saya menduga bahwa sebab hal itu adalah, karena posisinya bersama Rasulullah shallallahu 'alaihi wasallam." Yang mengatakannya adalah Yahya. Dan Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abdul Wahab] dari jalur lain, telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Sufyan] keduanya dari [Yahya] dengan isnad ini, namun keduanya tidak menyebutkan di dalam hadits; "Kesibukan bersama Rasulullah shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2687</td></tr><tr><td>Arabic No</td><td>1146.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 193</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2687</td></tr><tr><td>Arabic No</td><td>1146.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 193</td></tr></tbody></table></div>
 

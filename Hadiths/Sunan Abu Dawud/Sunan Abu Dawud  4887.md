@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] dari [Tsabit] dari ['Abdurrahman bin 'Ajlan] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Apakah kalian merasa lemah untuk bisa seperti Abu Dhamdham?" para sahabat bertanya, "Siapakah Abu Dhamdham itu?" beliau menjawab: "Seorang laki-laki yang hidup sebelum kalian -atau kurang lebih maknanya demikian-, ia berkata, "Kehormatanku bagai orang yang mencelaku." Abu Dawud berkata, "Hadits ini diriwayatkan oleh [Hasyim Ibnul Qasim]. Ia berkata; dari [Muhammad bin Abdullah Al 'Ammi] dari [Tsabit] ia berkata; telah menceritakan kepada kami [Anas] dari Nabi shallallahu 'alaihi wasallam, dengan makna yang sama." Abu Dawud berkata, "Hadits Hammad lebih shahih
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4887</td></tr><tr><td>Arabic No</td><td>4887</td></tr><tr><td>Reference</td><td>Book 43 Hadith 115</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4887</td></tr><tr><td>Arabic No</td><td>4887</td></tr><tr><td>Reference</td><td>Book 43 Hadith 115</td></tr></tbody></table></div>
 

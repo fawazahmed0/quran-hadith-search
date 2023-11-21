@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Qais:Bilal said to Abu Bakr, "If you have bought me for yourself then k
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ibnu Numair] dari [Muhammad bin 'Ubaid] telah bercerita kepada kami [Isma'il] dari [Qais] bahwa [Bilal] berkata kepada Abu Bakr; "Jika kamu dhulu membebaskan aku untuk kepentingan dirimu sediri maka tahanlah aku (untuk mengikuti kemauanmu), namun seandainya kamu membebaskan aku karena Allah, maka biarkanlah aku pergi untuk beramal karena Allah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3755</td></tr><tr><td>Arabic No</td><td>3755</td></tr><tr><td>Reference</td><td>Book 62 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Кайса, что Биляль сказал Абу Бакру: «Если ты купил меня для себя, то оставь меня (для себя), но если ты купил меня ради Аллаха, то оставь меня для совершения дел на пути Аллаха»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3755</td></tr><tr><td>Arabic No</td><td>3755</td></tr><tr><td>Reference</td><td>Book 62 Hadith 100</td></tr></tbody></table></div>
 

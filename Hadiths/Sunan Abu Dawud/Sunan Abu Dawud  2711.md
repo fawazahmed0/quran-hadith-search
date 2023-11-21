@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah said “We went out along with the Apostle of Allaah(ﷺ) in the ye
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Tsaur bin Zaid Ad Dili] dari [Abu Al Ghaits] mantan budak Ibnu Muthi', dari [Abu Hurairah] bahwa ia berkata; kami pernah keluar bersama Rasulullah shallallahu 'alaihi wasallam pada tahun terjadinya perang Khaibar. Kami tidak memperoleh rampasan emas dan perak, kecuali pakaian dan barang, serta harta. Abu Hurairah berkata; kemudian Rasulullah shallallahu 'alaihi wasallam mengarahkan ke arah bukit Qura. Sungguh Rasulullah shallallahu 'alaihi wasallam telah diberi hadiah seorang budak hitam yang bernama Mid'am, hingga ketika mereka berada Bukit Qura. Kemudian tatkala Mid'am menurunkan pelana Rasulullah shallallahu 'alaihi wasallam tiba-tiba ia terkena anak panah dan membunuhnya. Kemudian orang-orang berkata; betapa enaknya dia mendapatkan surga. Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Tidak, demi Dzat yang jiwaku ada di tanganNya, sesungguhnya pakaian yang telah ia ambil pada saat perang Khaibar dari rampasan perang yang belum dibagi telah membakarnya." Kemudian tatkala mereka mendengar hal tersebut, terdapat seorang laki-laki yang datang dengan membawa satu atau dua tali sandal kepada Rasulullah shallallahu 'alaihi wasallam. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Ini adalah tali sandal dari neraka" -atau beliau mengatakan: "Dua tali sandal dari neraka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6707) Sahih Muslim (115)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2711</td></tr><tr><td>Arabic No</td><td>2711</td></tr><tr><td>Reference</td><td>Book 15 Hadith 235</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6707) Sahih Muslim (115)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2711</td></tr><tr><td>Arabic No</td><td>2711</td></tr><tr><td>Reference</td><td>Book 15 Hadith 235</td></tr></tbody></table></div>
 

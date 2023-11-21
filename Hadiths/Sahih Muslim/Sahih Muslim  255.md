@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ This hadith has been transmitted by Muhammad b. Bashshar, Muhammad b. Ja'far Shu
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>255</td></tr><tr><td>Arabic No</td><td>85.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 161</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Рассказал нам Мухаммад ибн Башшар, (который сказал): Рассказал нам Мухаммад ибн Джа‘фар, (который сказал): Рассказал нам Шу‘ба с этим иснадом такой же хадис, дополнив: «И он указал на дом ‘Абдуллаха, но не назвал его нам по имени»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>255</td></tr><tr><td>Arabic No</td><td>85.04</td></tr><tr><td>Reference</td><td>Book 1 Hadith 161</td></tr></tbody></table></div>
 

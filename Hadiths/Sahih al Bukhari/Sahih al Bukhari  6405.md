@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "Whoever says, 'Subhan Allah 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Sumay] dari [Abu Shalih] dari [Abu Hurairah] radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengucapkan 'Subhanallah wabihamdihi Maha suci Allah dan segala pujian hanya untuk-Nya' sehari seratus kali, maka kesalahan-kesalahannya akan terampuni walaupun sebanyak buih di lautan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6405</td></tr><tr><td>Arabic No</td><td>6405</td></tr><tr><td>Reference</td><td>Book 80 Hadith 100</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «С того, кто по сто раз в день будет говорить: “Пречист Аллах и хвала Ему /Субхана-Ллахи ва би-хамди-хи/”, будет снято (бремя всех) его грехов, даже если окажутся они подобны пене морской»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6405</td></tr><tr><td>Arabic No</td><td>6405</td></tr><tr><td>Reference</td><td>Book 80 Hadith 100</td></tr></tbody></table></div>
 

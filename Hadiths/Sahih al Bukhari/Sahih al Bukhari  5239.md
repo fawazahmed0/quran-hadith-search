@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:My foster uncle came and asked permission (to enter) but I refus
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Yusuf] Telah mengabarkan kepada kami [Malik] dari [Hisyam bin Urwah] dari [bapaknya] dari [Aisyah] radliallahu 'anha, bahwa ia berkata; Suatu ketika pamanku sesusuan datang dan meminta izin kepadaku, namun aku tidak memperkenankan untuk memberinya izin hingga aku bertanya kepada Rasulullah shallallahu 'alaihi wasallam. Kemudian datanglah Rasulullah shallallahu 'alaihi wasallam dan aku pun bertanya mengenai hal itu, maka beliau bersabda: "Sesungguhnya ia adalah pamanmu, karena itu izinkanlah ia." Aku berkata, "Wahai Rasulullah, sesunggunguhnya yang menyusuiku hanyalah seorang wanita dan bukan laki-laki." Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya ia adalah pamanmu, silahkan ia masuk." Aisyah berkata, "Peristiwa itu terjadi setelah turunnya perintah hijab." Aisyah berkata, "Penyusuan itu mengharamkan apa yang diharamkan karena hubungan darah (kekerabatan)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5239</td></tr><tr><td>Arabic No</td><td>5239</td></tr><tr><td>Reference</td><td>Book 67 Hadith 172</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Как-то раз) ко мне пришёл мой молочный дядя и попросил разрешения войти, но я отказалась впустить его, пока не спрошу об этом Посланника Аллаха ﷺ. Когда пришёл Посланник Аллаха ﷺ, и я спросила его об этом, он сказал: “Поистине, он — твой дядя, так позволь же ему войти”. Я сказала: “О Посланник Аллаха, но ведь меня выкармливала женщина, а не мужчина”. Тогда Посланник Аллаха ﷺ сказал: “Поистине, он — твой дядя, так пусть же войдёт”. Это было после того, как нам был приказан хиджаб».\n‘Аиша также сказала: «Молочное родство делает запретным то же, что и кровное»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5239</td></tr><tr><td>Arabic No</td><td>5239</td></tr><tr><td>Reference</td><td>Book 67 Hadith 172</td></tr></tbody></table></div>
 

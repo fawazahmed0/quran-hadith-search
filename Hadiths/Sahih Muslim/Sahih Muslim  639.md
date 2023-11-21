@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Shuraih b. Hani said:I came to 'A'isha to ask her about wiping over the socks. S
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Ishaq bin Ibrahim al-Hanzhali] telah mengabarkan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [ats-Tsauri] dari [Amru bin Qais al-Mula'i] dari [al-Hakam bin Utaibah] dari [al-Qasim bin Mukhaimirah] dari [Syuraih bin Hani'] dia berkata, "Saya mendatangi Aisyah untuk menanyakan kepadanya tentang mengusap bagian atas dua khuf. Maka dia menjawab, 'Hendaklah kamu menanyakannya kepada [Ibnu Abu Thalib], karena dia pernah bepergian bersama Rasulullah shallallahu 'alaihi wasallam.' Lalu kami bertanya kepadanya, maka dia menjawab, 'Rasulullah shallallahu 'alaihi wasallam telah menjadikan waktu tiga hari dan malamnya bagi musafir (untuk mengusap khuf) dan sehari semalam bagi orang yang menetap (muqim)." Syuraih berkata, "Jika [Sufyan] menyebutkan nama [Amru] niscaya dia memujinya." Dan telah menceritakan kepada kami [Ishaq] telah mengabarkan kepada kami [Zakariya' bin Adi] dari [Ubaidullah bin Amru] dari [Zaid bin Abu Unaisah] dari [al-Hakam] dengan sanad ini semisalnya." Dan telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Abu Mu'awiyah] dari [al-A'masy] dari [al-Hakam] dari [al-Qasim bin Mukhaimirah] dari [Syuraih bin Hani'] dia berkata, "Aku bertanya kepada Aisyah tentang mengusap bagian atas dua khuf, maka dia berkata, 'Datanglah kepada [Ali], karena dia lebih mengetahui tentang hal tersebut daripadaku. Maka aku mendatangi Ali, lalu dia menyebutkan dari Nabi shallallahu 'alaihi wasallam seperti hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>639</td></tr><tr><td>Arabic No</td><td>276.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 105</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Шурайх ибн Хани сказал: «(Однажды) я пришёл к ‘Аише, чтобы задать ей вопрос о (времени действительности) обтирания кожаных носков, и она сказала: “Тебе следует обратиться к (‘Али) ибн Абу Талибу. Спроси его, ибо ему приходилось бывать в пути вместе с Посланником Аллаха ﷺ”. Тогда мы задали этот вопрос ему, и он сказал: “Посланник Аллаха ﷺ установил для путника срок в три дня и три ночи, а для живущего на одном месте в день и ночь”». (‘Абдурраззак) сказал: «И упоминая ‘Амра, Суфьян отзывался о нём с похвалой»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>639</td></tr><tr><td>Arabic No</td><td>276.01</td></tr><tr><td>Reference</td><td>Book 2 Hadith 105</td></tr></tbody></table></div>
 

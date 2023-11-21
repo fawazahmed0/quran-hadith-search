@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Um Al-Fadl:The people doubted whether Allah's Messenger (ﷺ) was fasti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] dia mendengar [Sufyan] telah mengabarkan kepada kami [Salim Abu Nadlr] bahwa dia mendengar ['Umair] bekas budak Ummu Fadl menceritakan dari [Ummu Fadl] dia berkata; Orang-orang ragu mengenai puasa 'Arafah Rasulullah shallallahu 'alaihi wasallam, oleh karena itu aku mengirim semangkuk susu kepada beliau, lalu beliau meminumnya." Sedangkan Sufyan sepertinya mengatakan; "Orang-orang ragu akan puasanya Rasulullah shallallahu 'alaihi wasallam pada hari 'Arafah, maka Ummu Fadl akan mengirim orang kepadanya. Namun Sufyan meriwayatkan Hadits itu secara mursal, apabila ditanya dari siapakah riwayat itu? Ia akan mengatakan; "(riwayat) Itu dari Ummu Fadl
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5604</td></tr><tr><td>Arabic No</td><td>5604</td></tr><tr><td>Reference</td><td>Book 74 Hadith 30</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Умм аль-Фадль сказала: «В день (стояния на) ‘Арафате у людей возникли сомнения относительно того, постится Посланник Аллаха ﷺ или нет, и тогда я послала ему сосуд с молоком, а он выпил его»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5604</td></tr><tr><td>Arabic No</td><td>5604</td></tr><tr><td>Reference</td><td>Book 74 Hadith 30</td></tr></tbody></table></div>
 

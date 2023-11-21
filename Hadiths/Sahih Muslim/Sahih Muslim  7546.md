@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ubaidullah b. 'Abdullah b. 'Utba reported:Ibn Abbas said to me: Do you know-and 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7546</td></tr><tr><td>Arabic No</td><td>3024.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Убайдуллах ибн ‘Абдуллах ибн ‘Утба сказал: Однажды Ибн ‘Аббас сказал мне: «Знаешь ли ты Харун (в своей версии) сказал: Известна ли тебе последняя сура Корана, которая была ниспослана полностью?» Я сказал: «Да, “Когда придёт помощь Аллаха и настанет победа…” (Сура 110, ан-Наср)». (Ибн ‘Аббас) сказал: «Ты сказал правду».В версии Ибн Абу Шейбы сказано: «Знаешь ли ты какая сура…», и он не сказал: «...последняя»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7546</td></tr><tr><td>Arabic No</td><td>3024.01</td></tr><tr><td>Reference</td><td>Book 56 Hadith 24</td></tr></tbody></table></div>
 

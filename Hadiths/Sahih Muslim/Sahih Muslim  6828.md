@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Musa reported Allah's Apostle (ﷺ) as saying:He who loves to meet Allah, Al
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] dan [Abu 'Amir Al Asy'ari] dan [Abu Kuraib] mereka berkata; telah menceritakan kepada kami [Abu Usamah] dari [Buraid] dari [Abu Burdah] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: 'Siapa senang berjumpa dengan Allah, Allah pun senang berjumpa dengannya dan barangsiapa benci berjumpa dengan Allah, Allah pun benci berjumpa dengannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6828</td></tr><tr><td>Arabic No</td><td>2686</td></tr><tr><td>Reference</td><td>Book 48 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6828</td></tr><tr><td>Arabic No</td><td>2686</td></tr><tr><td>Reference</td><td>Book 48 Hadith 24</td></tr></tbody></table></div>
 

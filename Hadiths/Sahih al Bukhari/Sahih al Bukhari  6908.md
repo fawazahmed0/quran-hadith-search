@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -76,6 +78,20 @@ Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Hisyam] dari [ayahnya
 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6908.2</td></tr><tr><td>Arabic No</td><td>6908.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 46</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хишам ибн ‘Урва передал от своего отца, что он слышал, как аль-Мугыйра ибн Шу‘ба рассказывал о том, что однажды ‘Умар посоветовался (с людьми) относительно того случая, когда кто-то ударил по животу женщины, и это стало причиной выкидыша
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6908</td></tr><tr><td>Arabic No</td><td>6908</td></tr><tr><td>Reference</td><td>Book 87 Hadith 45</td></tr></tbody></table></div>
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6908.2</td></tr><tr><td>Arabic No</td><td>6908.2</td></tr><tr><td>Reference</td><td>Book 87 Hadith 46</td></tr></tbody></table></div>

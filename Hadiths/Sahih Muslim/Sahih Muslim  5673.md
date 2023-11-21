@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Jabir reported Allah's Messenger (ﷺ) as saying:Behold, no person should spend 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan ['Ali bin Hujr] berkata [Yahya]; Telah mengabarkan kepada kami. Dan berkata [Ibnu Hujr]; Telah menceritakan kepada kami [Husyaim] dari [Abu Az Zubair] dari [Jabir]; Demikian juga diriwayatkan dari jalur yang lain; Dan telah menceritakan kepada kami [Muhammad bin Ash Shabbah] dan [Zuhair bin Harb] keduanya berkata; Telah menceritakan kepada kami [Husyaim]; Telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ketahuilah! Seorang laki-laki bukan muhrim tidak boleh bermalam di rumah perempuan janda, kecuali jika dia telah menikah, atau ada muhrimnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5673</td></tr><tr><td>Arabic No</td><td>2171</td></tr><tr><td>Reference</td><td>Book 39 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5673</td></tr><tr><td>Arabic No</td><td>2171</td></tr><tr><td>Reference</td><td>Book 39 Hadith 27</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Salim, the freed slave of Nasriyyin, said:I heard Abu Huraira as saying that he 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Qutaibah bin Sa'id]; Telah menceritakan kepada kami [Laits] dari [Sa'id bin Abu Sa'id] dari [Salim] -budak- dari suku Nashr dia berkata; Aku mendengar [Abu Hurairah] berkata; Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Allah, aku hanyalah Muhammad, seorang manusia yang bisa marah sebagaimana manusia yang lain. Sesungguhnya aku telah membuat perjanjian dengan-Mu yang Engkau tidak akan menyelisihinya. Maka mukmin mana saja yang pernah aku sakiti, atau aku cela, atau aku cambuk, hendaklah hal itu Engkau gantikan untuknya sebagai penghapus dosa dan pengorbanan yang dengannya mereka bisa mendekatkan diri kepada-Mu pada hari kiamat kelak
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6622</td></tr><tr><td>Arabic No</td><td>2601.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 120</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6622</td></tr><tr><td>Arabic No</td><td>2601.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 120</td></tr></tbody></table></div>
 

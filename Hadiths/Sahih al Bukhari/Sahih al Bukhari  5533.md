@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "None is wounded in Allah's C
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Wahid] telah menceritakan kepada kami ['Umarah bin Al Qa'qa'] dari [Abu Zur'ah bin 'Amru bin Jarir] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah setiap luka yang terluka (karena berjuang) di jalan Allah, kecuali akan datang pada hari kiamat dengan keadaan lukanya seperti hari ia terluka, warnanya warna darah dan baunya bau kesturi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5533</td></tr><tr><td>Arabic No</td><td>5533</td></tr><tr><td>Reference</td><td>Book 72 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Любой (человек,) получивший ранение на пути Аллаха, обязательно явится в День воскресения со своей кровоточащей раной, которая будет цвета крови, а аромат (её) будет ароматом мускуса»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5533</td></tr><tr><td>Arabic No</td><td>5533</td></tr><tr><td>Reference</td><td>Book 72 Hadith 58</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuRimthah: I and my father came to the Prophet (ﷺ). He said to a man
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Basysyar] berkata, telah menceritakan kepada kami ['Abdurrahman] berkata, telah menceritakan kepada kami [Sufyan] dari [Iyad bin Laqith] dari [Abu Rimtsah] ia berkata, "Aku dan bapakku mendatangi Nabi shallallahu 'alaihi wasallam, lalu beliau bertanya kepada seorang laki-laki, atau kepada bapaknya: "Siapa ini?" orang itu menjawab, "Anakku." Beliau bersabda: "Jangan engkau berlaku jahat kepadanya." Dan saat itu ia sedang mewarnai janggutnya dengan pacar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4208</td></tr><tr><td>Arabic No</td><td>4208</td></tr><tr><td>Reference</td><td>Book 35 Hadith 50</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Римса передаёт: «Я пришёл к Пророку ﷺ вместе с отцом, и он сказал одному человеку (или: моему отцу): “Кто это?” Он ответил: “Мой сын”. Тогда Пророк ﷺ сказал: “Он не отвечает за то, в чём виноват ты”. А его борода была окрашена хной»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4208</td></tr><tr><td>Arabic No</td><td>4208</td></tr><tr><td>Reference</td><td>Book 35 Hadith 50</td></tr></tbody></table></div>
 

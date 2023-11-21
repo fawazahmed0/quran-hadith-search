@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Burda reported:I visited A'isha and she brought out for us the coarse lower 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Syaiban bin Farrukh]; Telah menceritakan kepada kami [Sulaiman bin Al Mughirah]; Telah menceritakan kepada kami [Humaid] dari [Abu Burdah] ia berkata; "Aku pernah menemui [Aisyah] di rumahnya. Setelah itu dia mengeluarkan kain kasar buatan Yaman dan baju dari bahan yang kasar pula. Kemudian Aisyah bersumpah atas nama Allah bahwasannya Rasulullah shallallahu 'alaihi wasallam meninggal dunia dengan mengenakan dua potong pakaian ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5442</td></tr><tr><td>Arabic No</td><td>2080.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 57</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5442</td></tr><tr><td>Arabic No</td><td>2080.01</td></tr><tr><td>Reference</td><td>Book 37 Hadith 57</td></tr></tbody></table></div>
 

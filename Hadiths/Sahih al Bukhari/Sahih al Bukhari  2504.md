@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever manumits his share of a jo
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami [Jarir bin HAzim] dari [Qatadah] dari [An-Nadhar bin Anas] dari [Basyir bin Nahik] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang membebaskan bagiannya dari budak yang dimiliki secara berserikat, maka wajib baginya untuk membebaskan seluruhnya seandainya dia memiliki harta sebanyak harga budaknya, dan jika tidak, maka si budak wajib tetap berusaha untuk membebaskan sisa status kebudakannya dengan tidak menyusahkan orang yang telah memerdekkan sebagiannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2504</td></tr><tr><td>Arabic No</td><td>2504</td></tr><tr><td>Reference</td><td>Book 47 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Абу Хурайры, что Пророк ﷺ сказал: «Тот, кто освободил свою долю раба, он освободил его полностью, если у него хватило средств, в противном случае он должен найти для него посильную работу (, чтобы он мог выплатить остаток)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2504</td></tr><tr><td>Arabic No</td><td>2504</td></tr><tr><td>Reference</td><td>Book 47 Hadith 20</td></tr></tbody></table></div>
 

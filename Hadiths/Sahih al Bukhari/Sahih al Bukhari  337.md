@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Juhaim Al-Ansari:The Prophet (ﷺ) came from the direction of Bir J
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Bukair] berkata, telah menceritakan kepada kami [Al Laits] dari [Ja'far bin Rabi'ah] dari [Al A'raj] ia berkata, "Aku mendengar [Umair] mantan budak Ibnu Abbas, ia berkata, "Aku dan Abdullah bin Yasar, mantan budak Maimunah, isteri Nabi shallallahu 'alaihi wasallam berangkat pergi, hingga ketika kami sampai kepada [Abu Juhaim Ibnul Harits bin Ash Shimmah Al Anshari], ia berkata, "Nabi shallallahu 'alaihi wasallam kembali dari Bi'ar Jamal (nama tempat), lalu ada seorang laki-laki menemui beliau seraya memberi salam, namun beliau tidak membalasnya. Beliau kemudian menghadap ke arah dinding, lalu mengusap muka dan kedua telapak tangannya. baru kemudian membalas salam kepada orang itu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>337</td></tr><tr><td>Arabic No</td><td>337</td></tr><tr><td>Reference</td><td>Book 7 Hadith 4</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-А‘радж сказал:\n— Я слышал, как ‘Умайр — вольноотпущенник Ибн ‘Аббаса сказал:\n— Однажды я и ‘Абдуллах ибн Ясар — вольноотпущенник Маймуны, жены Пророка ﷺ отправились, чтобы зайти к Абу Джухайму ибн Харису ибн Симма аль-Ансарий и Абу Джухайм сказал: «Как-то Пророка ﷺ шедшего со стороны Биър Джамаль, встретил какой-то человек, который поприветствовал его. Однако Пророк ﷺ не ответил ему (сразу), а (сначала) подошёл к стене, обтёр (пылью) лицо и руки и затем ответил на его приветствие»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>337</td></tr><tr><td>Arabic No</td><td>337</td></tr><tr><td>Reference</td><td>Book 7 Hadith 4</td></tr></tbody></table></div>
 

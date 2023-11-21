@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara bin Azib:The first people who came to us (in Medina) were Mus'a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] ia berkata; aku mendengar [Al Bara' bin 'Azib] radliallahu 'anhu berkata; "Orang yang pertama datang kepada kami (dari kaum Muhajirin) adalah Mush'ab bin 'Umair dan Ibnu Ummi Maktum. Keduanya membacakan al-Qur'an kepada orang-orang. Kemudian Bilal, Sa'ad dan 'Ammar bin Yasir. Setelah itu datang pula 'Umar bin Al Khaththab dalam rombongan berjumlah sepuluh orang dari shahabat Nabi shallallahu 'alaihi wasallam. Setelah itu datang Nabi shallallahu 'alaihi wasallam. Aku tidak pernah melihat penduduk Madinah bergembira sebagaimana gembiranya mereka dengan kedatangan Rasulullah shallallahu 'alaihi wasallam, hingga para budak wanita berseru; "Rasulullah shallallahu 'alaihi wasallam telah datang." Dan tidaklah beliau tiba melainkan aku telah membaca (menghafal) "Sabbihismaa Robbikal a'laa, " yang termasuk dalam surat-surah Al Mufashshal (surat-surat pendek)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>3925</td></tr><tr><td>Reference</td><td>Book 63 Hadith 150</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Первыми из тех, кто приехал к нам, были Мус‘аб ибн ‘Умайр и Ибн Умм Мактум, которые учили людей чтению (Корана). Потом (к нам) приехали Билял, Са‘д и ‘Аммар ибн Йасир, потом приехал ‘Умар ибн аль-Хаттаб с двадцатью другими сподвижниками Пророка ﷺ, а потом приехал и сам Пророк ﷺ и я не видел, чтобы жители Медины радовались чему-нибудь больше, чем (приезду) Посланника Аллаха ﷺ, потому что даже девочки-рабыни говорили: “Приехал Посланник Аллаха!” И прежде чем он приехал, я уже читал “Славь имя Господа твоего Высочайшего...” и (некоторые) другие суры “муфассаля”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>3925</td></tr><tr><td>Reference</td><td>Book 63 Hadith 150</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:The Prophet (ﷺ) forbade the mixing of ripe and unripe date
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muslim] telah menceritakan kepada kami [Hisyam] telah mengabarkan kepada kami [Yahya bin Abu Katsir] dari [Abdullah bin Abu Qatadah] dari [ayahnya] dia berkata; Nabi shallallahu 'alaihi wasallam melarang mencampur antara perasan kurma kering dengan zahw (kurma muda), antara tamr (kurma kering) dengan kismis, lalu setiap dari keduanya di rendam dalam satu wadah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5602</td></tr><tr><td>Arabic No</td><td>5602</td></tr><tr><td>Reference</td><td>Book 74 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада, да будет доволен им Аллах, сказал: «Пророк ﷺ запретил смешивать между собой спелые и неспелые финики, как запретил он смешивать финики с изюмом(, указав, что) напиток из каждого вида должен готовиться отдельно»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5602</td></tr><tr><td>Arabic No</td><td>5602</td></tr><tr><td>Reference</td><td>Book 74 Hadith 28</td></tr></tbody></table></div>
 

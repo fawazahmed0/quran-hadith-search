@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:The Prophet (ﷺ) cursed effeminate men (those men who are i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'adz bin Fadlalah] telah menceritakan kepada kami [Hisyam] dari [Yahya] dari [Ikrimah] dari [Ibnu Abbas] dia berkata; Nabi shallallahu 'alaihi wasallam melaknat para laki-laki yang menyerupai wanita dan para wanita yang menyerupai laki-laki, sabdanya: "Keluarkanlah mereka dari rumah kalian."Ibnu Abbas melanjutkan; 'Maka Nabi shallallahu 'alaihi wasallam pernah mengeluarkan seorang fulan begitu juga dengan Umar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5886</td></tr><tr><td>Arabic No</td><td>5886</td></tr><tr><td>Reference</td><td>Book 77 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Пророк ﷺ проклял мужчин, уподобляющихся женщинам, и женщин, уподобляющихся мужчинам, и сказал: “Изгоняйте их из ваших домов!” И Пророк ﷺ выгнал (из своего дома) такого-то, а ‘Умар выгнал такого-то»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5886</td></tr><tr><td>Arabic No</td><td>5886</td></tr><tr><td>Reference</td><td>Book 77 Hadith 103</td></tr></tbody></table></div>
 

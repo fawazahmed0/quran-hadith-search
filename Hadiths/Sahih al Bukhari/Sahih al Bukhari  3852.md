@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Khabbaba:I came to the Prophet (ﷺ) while he was leaning against his s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Bayan] dan [Isma'il] keduanya berkata, kami mendengar [Qais] berkata, aku mendengar [Khabab] berkata; Aku menemui Nabi shallallahu 'alaihi wasallam ketika beliau sedang duduk beralaskan selendang di bawah naungan Ka'bah, saat itu kami sedang mengalami siksaan yang sangat keras dari orang-orang Musyrikin. Aku berkata; "Wahai Rasulullah, tidakkah tuan memohon pertolongan?" Seketika itu pula beliau bangun dengan muka merah lalu bersabda: "Sungguh diantara orang-orang sebelum kalian ada yang disisir dengan sisir besi lalu dagingnya terkupas dari tulangnya atau uratnya namun hal itu tidak memalingkannya dari agamanya, dan ada juga yang diletakkan gergaji ditengah kepalanya lalu kepalanya itu digergaji hingga terbelah menjadi dua bagian, namun siksaan itu tidak menyurutkan dia dari agamanya. Sungguh, Allah akan menyempurnakan urusan (Islam) ini hingga ada seorang yang mengendarai tunggangannya berjalan dari Shan'a menuju Hadlramaut tidak ada yang ditakutinya melainkan Allah". Bayan menambahkan; "atau (tidak ada) kekhawatiran kepada serigala atas kambingnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3852</td></tr><tr><td>Arabic No</td><td>3852</td></tr><tr><td>Reference</td><td>Book 63 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Хаббаб, да будет доволен им Аллах, сказал: «(Однажды,) когда Пророк ﷺ лежал в тени Каабы, положив себе под голову свой плащ, (а в это время) мы уже претерпели (многие) мучения от многобожников, я сказал: “О Посланник Аллаха, не обратишься ли ты к Аллаху с мольбой за нас?” Тогда Пророк ﷺ сел, а лицо его покраснело, и сказал: “Среди живших до вас бывало так, что человека раздирали железными гребнями, отделявшими мясо от костей (или: нервов), но и это не (могло заставить) его отречься от своей религии! А также клали человеку на голову пилу и распиливали его надвое, (однако и) это не (могло заставить) его отречься от своей религии! Аллах непременно приведёт это дело к завершению, и (будет так, что) всадник, направляющийся из Сан’ы в Хадрамаут, не станет бояться никого, кроме Аллаха или (нападения) волка на своих овец!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3852</td></tr><tr><td>Arabic No</td><td>3852</td></tr><tr><td>Reference</td><td>Book 63 Hadith 77</td></tr></tbody></table></div>
 

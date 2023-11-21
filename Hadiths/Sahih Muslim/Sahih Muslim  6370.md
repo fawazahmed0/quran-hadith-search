@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that when a person saw anything in sleep during the lifetime 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dan ['Abad bin Humaid] dan lafazh ini milik 'Abad dia berkata; Telah mengabarkan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Salim] dari [Ibnu 'Umar] dia berkata; 'Apabila ada seseorang yang bermimpi, pada masa Rasulullah shallallahu 'alaihi wasallam, maka ia pun akan menceritakan mimpi itu kepada Rasulullah, hingga saya juga ingin sekali bermimpi dan menceritakannya kepada beliau. Ketika remaja, pada masa Rasulullah, saya pernah tertidur di masjid. Dalam tidur itu saya bermimpi bahwa ada dua malaikat yang menangkap saya dan membawa saya ke neraka yang tepinya berdinding seperti sumur dengan dua tali seperti tali sumur. Ternyata di dalam sumur tersebut ada beberapa orang yang saya kenal dan segera saya ucapkan: 'Aku berlindung kepada Allah dari siksa neraka. Aku berlindung kepada Allah dari siksa neraka. Aku berlindung kepada Allah dari siksa neraka.' Tak lama kemudian, kedua malaikat tersebut ditemui oleh satu malaikat lain dan ia berkata kepada saya; 'Kamu akan aman.' Lalu saya ceritakan mimpi saya itu kepada Hafshah dan Hafshah menceritakannya kepada Rasulullah. Kemudian Rasulullah bersabda: 'Sebaik-baik orang adalah Abdullah bin 'Amru, jika ia berkenan melaksanakan shalat di sebagian malam.' Salim berkata; 'Setelah itu Abdullah bin 'Amru tidak pernah tidur di malam hari kecuali sebentar.' Telah menceritakan kepada kami ['Abdullah bin 'Abdur Rahman Ad Darimi]; Telah mengabarkan kepada kami [Musa bin Khalid Khatan Al Firyabi] dari [Abu Ishaq Al Fazari] dari ['Ubaidillah bin 'Umar] dari [Nafi'] dari [Ibnu 'Umar] dia berkata; Aku bermalam di masjid, waktu itu aku tidak mempunyai keluarga yang dapat aku tempati. Lalu aku bermimpi seakan-akan aku di bawa ke sebuah sumur…-lalu dia menyebutkan Hadits dari Nabi shallallahu 'alaihi wasallam yang semakna dengan Hadits Az Zuhri dari Salim dari Bapaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6370</td></tr><tr><td>Arabic No</td><td>2479.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 200</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6370</td></tr><tr><td>Arabic No</td><td>2479.01</td></tr><tr><td>Reference</td><td>Book 44 Hadith 200</td></tr></tbody></table></div>
 

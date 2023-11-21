@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Wa'il ibn Hujr: I saw the Messenger of Allah (ﷺ) raising his thumbs i
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdullah bin Daud] dari [Fithr] dari [Abdul Jabbar bin Wa'il] dari [ayahnya] dia berkata; saya melihat Rasulullah shallallahu 'alaihi wasallam mengangkat kedua jempol jarinya sejajar dengan kedua telinga ketika shalat
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>737</td></tr><tr><td>Arabic No</td><td>737</td></tr><tr><td>Reference</td><td>Book 2 Hadith 347</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Абдуль-Джаббара ибн Уаиля о том, что его отец (Уаиль ибн Худжра) сказал: «Я видел, как во время молитвы Посланник Аллаха ﷺ поднимал большие пальцы (рук) до мочек своих ушей».Также этот хадис передали Ахмад 4/316 и ан-Насаи
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>737</td></tr><tr><td>Arabic No</td><td>737</td></tr><tr><td>Reference</td><td>Book 2 Hadith 347</td></tr></tbody></table></div>
 

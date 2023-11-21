@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Messenger of Allah (ﷺ) as saying; When one of you st
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian tengah mengerjakan shalat, maka syetan akan datang kepadanya kemudian ia mengacaukan (pikiran) hingga tidak tahu berapa kali dia shalat, apabila salah seorang dari kalian mendapati yang demikian itu, hendaknya ia sujud dua kali ketika masih duduk (tasyahud)." Abu Daud mengatakan; "Demikianlah yang di riwayatkan oleh [Ibnu 'Uyainah], [Ma'mar], [Al Laits]. Telah menceritakan kepada kami [Hajjaj bin Abu Ya'qub] telah menceritakan kepada kami [Ya'qub] telah menceritakan kepada kami [sepupunya Az Zuhri] dari [Muhammad bin Muslim] seperti isnad hadits ini, dia menambahkan; "…ketika masih duduk sebelum salam." Telah menceritakan kepada kami [Hajjaj] telah menceritakan kepada kami [Ya'qub] telah mengabarkan kepada kami [ayahku] dari [Ibnu Ishaq] telah menceritakan kepadaku [Muhammad bin Muslim Az Zuhri] dengan isnad dan maknanya, dia berkata; "…Kemudian dia sujud dua kali sebelum salam, lalu salam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1232) Sahih Muslim (389 After 569)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>1030</td></tr><tr><td>Reference</td><td>Book 2 Hadith 641</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если во время молитвы любого из вас к нему придёт шайтан и запутает его так, что он не будет знать, сколько рак‘атов совершил, если любой из вас обнаружит это, пусть он совершит два земных поклона во время сидения»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1232) Sahih Muslim (389 After 569)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>1030</td></tr><tr><td>Reference</td><td>Book 2 Hadith 641</td></tr></tbody></table></div>
 

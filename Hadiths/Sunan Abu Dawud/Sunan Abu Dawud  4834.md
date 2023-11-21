@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah reported the Prophet (ﷺ) as saying:The spirits are in marshaled h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Harun bin Zaid bin Abu Az Zarqa] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Ja'far] -maksudnya Ja'far bin Burqan- dari [Yazid] -maksudnya Yazid bin Al Asham- dari [Abu Hurairah] dan ia memarfu'kannya, ia berkata, "Ruh-ruh itu seperti tentara yang bersenjata, mereka yang saling mengenal maka akan bersatu, dan yang bertentangan maka akan bercerai-berai
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2638)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4834</td></tr><tr><td>Arabic No</td><td>4834</td></tr><tr><td>Reference</td><td>Book 43 Hadith 62</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Пророк ﷺ сказал: «Души подобны воинам. Если они находят что-то общее – они объединяются, а если не находят общего они расходятся»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2638)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4834</td></tr><tr><td>Arabic No</td><td>4834</td></tr><tr><td>Reference</td><td>Book 43 Hadith 62</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Anas (que Dieu l'agrée) : Au cours du ramadan, le Prophète (paix et b
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Abu Nadlr, Hasyim bin Qasim] telah menceritakan kepada kami [Sulaiman] dari [Tsabit] dari [Anas] radliallahu 'anhu ia berkata; pada suatu malam di bulan Ramadlan, Rasulullah shallallahu 'alaihi wasallam shalat. Kemudian aku datang dan berdiri di samping beliau. Lalu datang pula sahabat yang lain dan berdiri pula, sehingga akhirnya kami menjadi satu rombongan. Tatkala Nabi shallallahu 'alaihi wasallam merasa bahwa kami shalat di belakang beliau, maka beliau pendekkan shalatnya, kemudian beliau masuk ke rumahnya, dan di sana beliau shalat sendirian. Anas berkata; Pagi-pagi kami bertanya kepada beliau, "Apakah Anda tahu apa yang kami perbuat semalam?" Beliau menjawab: "Ya, aku tahu. Itulah yang menyebabkan aku masuk ke rumah dan di sana aku shalat sendirian." Anas berkata; Beberapa hari di akhir bulan Ramadlan, Rasulullah shallallahu 'alaihi wasallam melakukan puasa wishal. Karena itu, beberapa orang sahabat melakukannya, maka beliau pun bersabda: "Kenapa orang-orang ini ikut-ikutan puasa wishal? Sesungguhnya kalian tidaklah sebagaimana aku. Demi Allah, sekiranya bulan ini bertambah panjang, aku akan terus berpuasa wishal sehingga orang-orang yang memberati dirinya (dengan puasa wishal) akan kewalahan sendiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2570</td></tr><tr><td>Arabic No</td><td>1104.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2570</td></tr><tr><td>Arabic No</td><td>1104.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 76</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Sa'd b. Yazid Abu Mas'ama reported:I said to Anas like (that mentioned above)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Bisyr bin al-Mufadhdhal] dari [Abu Maslamah Sa'id bin Yazid] dia berkata, "Saya bertanya kepada [Anas bin Malik], 'Apakah Rasulullah Shallallahu'alaihiwasallam shalat dengan memakai sandal? ' Anas menjawab, 'Ya'." Telah menceritakan kepada kami [Abu ar-Rabi' az-Zahrani] telah menceritakan kepada kami ['Abbad bin al-'Awwam] telah menceritakan kepada kami [Sa'id bin Yazid Abu Maslamah] dia berkata, "Saya bertanya kepada [Anas], " dengan yang semisalnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1237</td></tr><tr><td>Arabic No</td><td>555.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 75</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Этот хадис подобен предыдущему, но с другим иснадом
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1237</td></tr><tr><td>Arabic No</td><td>555.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 75</td></tr></tbody></table></div>
 

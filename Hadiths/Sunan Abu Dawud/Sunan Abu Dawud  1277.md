@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Amr ibn Anbasah as-Sulami: I asked: Messenger of Allah, in which part o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ar Rabi' bin Nafi'] telah menceritakan kepada kami [Muhammad bin Al Muhajir] dari [Al 'Abbas bin Salim] dari [Abu Salam] dari [Abu Umamah] dari ['Amru bin 'Abasah As Sulami] bahwa dia berkata; aku bertanya; "Wahai Rasulullah, pada malam hari yang manakah yang paling di dengar (mustajab)?" beliau bersabda: "Di tengah malam yang terakhir, maka shalatlah kamu dengan shalat apa saja yang kamu kehendaki, karena sesungguhnya shalat (pada waktu itu) di saksikan (oleh para malaikat) dan di catat (pahalanya) sampai kamu shalat shubuh, setelah itu, berhentilah sampai matahari terbit dan meninggi sampai seukuran satu atau dua tombak, karena sesungguhnya (antara waktu itu) bertepatan dengan keluarnya tanduk setan dan orang-orang kafir sembahyang kepadanya. Setelah itu, shalatlah kamu dengan shalat apa saja yang kamu kehendaki, karena pada waktu itu, shalat di saksikan (oleh para Malaikat) dan di catat (pahalanya), sehingga tombak sama lurus dengan bayangannya, kemudian berhentilah (sejenak) karena sesungguhnya neraka Jahannam di nyalakan dan semua pintu-pintunya di buka, dan apabila matahari mulai condong (ke barat), Setelah itu, shalatlah kamu dengan shalat apa saja yang kamu kehendaki, karena pada waktu itu, shalat di saksikan (oleh para Malaikat) dan di catat (pahalanya), sampai kamu mengerjakan shalat Ashar, setelah itu berhentilah sampai matahari terbenam, karena (waktu itu) bertepatan dengan terbenamnya kedua tanduk syetan dan orang-orang kafir sembahyang kepadanya…" selanjutnya Perawi menceritakan hadits yang panjang." Abbas berkata; Demikianlah Abu Salam menuturkan haditsnya kepadaku dari Abu Umamah, kecuali kalau ada kesalahan sedikit yang tidak aku sengaja, maka aku meminta ampun kepada Allah dan bertaubat kepada-Nya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>1277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от ‘Амра ибн ‘Абасы ас-Сулями, да будет доволен им Аллах: «Я сказал: “О Посланник Аллаха, в какую часть ночи больше надежды получить ответ на мольбу?” Он сказал: “В последнюю её часть. Молись, сколько хочешь, и у молитвы твоей будут свидетели, и она будет записываться до утренней молитвы, а потом не молись до тех пор, пока солнце не взойдёт и не поднимется над горизонтом на высоту копья или двух копий, ибо, поистине, восходит оно между рогов шайтана, и в это время (солнцу) молятся неверующие. А после этого можешь молиться и у молитвы твоей будут свидетели, и она будет записываться до тех пор, пока тень от копья не станет равна длине самого копья. С этого момента воздерживайся от молитвы, ибо в это время в Геенне разжигают пламя и открывают её врата. А когда солнце отклонится от точки зенита, можешь молиться снова и у молитвы твоей будут свидетели, и она будет записываться до тех пор, пока не совершишь послеполуденную молитву. А после неё снова воздержись от молитв до тех пор, пока не зайдёт солнце, ибо, поистине, садится оно между рогов шайтана, и в это время (солнцу) молятся неверующие”». И он передал длинный хадис. Аль-‘Аббас сказал: «Так передал его мне Абу Саллям от Абу Умамы, за исключением того, в чём я невольно ошибся, и я прошу у Аллаха прощения за это и приношу Ему покаяние»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>1277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
 

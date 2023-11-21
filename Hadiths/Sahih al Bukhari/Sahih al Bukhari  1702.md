@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:I used to make the garlands for (the Hadis of) the Prophet (ﷺ)
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An-Nu'man] telah menceritakan kepada kami ['Abdul Wahid] telah menceritakan kepada kami [Al A'masy] telah menceritakan kepada kami [Ibrahim] dari [Al Aswad] dari ['Aisyah radliallahu 'anha] berkata: "Aku telah mengikatkan kalung (sebagai tanda) pada hewan qurban Nabi Shallallahu'alaihiwasallam lalu Beliau mengikat kambingnya kemudian tingal bersama keluarganya secara halal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 25 Hadith 180</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Также сообщается, что (‘Аиша, да будет доволен ею Аллах,) сказала: «Я свивала верёвки для Пророка ﷺ, а он надел их на шеи овец, после чего жил у себя дома (подобно любому из тех, кто не находился в состоянии ихрама)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 25 Hadith 180</td></tr></tbody></table></div>
 

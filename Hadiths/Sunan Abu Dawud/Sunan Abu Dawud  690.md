@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ This tradition has also been reported by Abu Hurairah through a different chain 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyr bin Al-Mufadldlal] telah menceritakan kepada kami [Isma'il bin Umayyah] telah menceritakan kepadaku [Abu Amru bin Muhammad bin Huraits] bahwasanya dia telah mendengar [Kakeknya, Huraits] menceritakan kepadanya dari [Abu Hurairah] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang di antara kalian mengerjakan shalat, maka hendaklah dia meletakkan sesuatu di depannya. Jika dia tidak menemukan, hendaklah dia menancapkan sebuah tongkat. Jika dia tidak membawa tongkat, hendaklah dia membuat garis, kemudian tidak memudharatkannya sekalipun ada yang lewat depannya." Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] telah menceritakan kepada kami [Ali bin Al-Madini] dari [Sufyan] dari [Isma'il bin Umayyah] dari [Abu Muhammad bin Amru bin Huraits] dari [Kakeknya, Huraits] seorang laki-laki dari Bani 'Udzrah, dari [Abu Hurairah] dari Abul Qasim shallallahu 'alaihi wasallam, beliau bersabda: kemudian dia menyebutkan hadits tentang garis untuk sutrah. Sufyan berkata; Kami tidak mendapat satu riwayat pun yang dapat menguatkan hadits ini, dan ia tidak diriwayatkan kecuali dari sanad ini. dia berkata; Saya berkata kepada Sufyan; Sesungguhnya mereka berselisih tentangnya. Maka dia berpikir sesaat, kemudian berkata; Saya tidak hafal kecuali Abu Muhammad bin Amru. Sufyan berkata; Ada seorang laki-laki datang ke sini setelah Isma'il bin Umayyah meninggal dunia. Syaikh ini mencari Abu Muhammad hingga dia menemukannya, maka dia bertanya kepadanya tentang hadits ini, namuan hadits ini rancu atasnya. Abu Dawud berkata; Saya mendengar Ahmad bin Hanbal pernah ditanya tentang garis untuk sutrah shalat tidak hanya sekali, maka dia menjawab; Begini, dengan memanjang seperti bentuk hilal (bulan sabit). Abu Dawud berkata; Dan saya telah mendengar Musaddad berkata; Ibnu Dawud berkata; Garis untuk sutrah shalat itu memanjang. Abu Dawud berkata; Dan saya telah mendengar Ahmad bin Hanbal menyifati garis tersebut lebih dari sekali, dia berkata; Begini, yakni dengan memanjang melengkung seperti hilal
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>690</td></tr><tr><td>Reference</td><td>Book 2 Hadith 300</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры о том, что Абуль-Къасим ﷺ сказал "..." и он передал хадис о линии.Суфьян (ибн ‘Уейна) сказал: «Мы не нашли ничего, чем смогли бы усилить этот хадис и он был передан только по этому пути».Абу Дауд сказал: «Я слышал, как Ахмада ибн Ханбаля не один раз просили описать (как начертить) линию и он сказал: “Вот так”, и начертил линию похожую на полумесяц»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>690</td></tr><tr><td>Reference</td><td>Book 2 Hadith 300</td></tr></tbody></table></div>
 

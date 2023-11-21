@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) went out on the day of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Abdullah bin Wahb], telah menceritakan kepada kami [Huyai] dari [Abu Abdurrahman Al Hubuli], dari [Abdullah bin 'Amr], bahwa Rasulullah shallallahu 'alaihi wasallam keluar pada saat perang Badr bersama tiga ratus lima belas orang. Rasulullah shallallahu 'alaihi wasallam berdoa: "Ya Allah, mereka adalah orang-orang yang tidak beralas kaki maka berilah mereka tunggangan, mereka adalah orang-orang yang telanjang maka berilah mereka pakaian, sesungguhnya mereka adalah orang-orang yang lapar maka kenyangkanlah mereka." Kemudian Allah memberi beliau kemenangan pada perang Badr. Sehingga mereka berbalik kondisi mereka, tidak ada seorangpun diantara mereka melainkan ia telah pulang dengan membawa satu atau dua ekor unta, dan mereka berpakaian serta merasa kenyang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2747</td></tr><tr><td>Arabic No</td><td>2747</td></tr><tr><td>Reference</td><td>Book 15 Hadith 271</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2747</td></tr><tr><td>Arabic No</td><td>2747</td></tr><tr><td>Reference</td><td>Book 15 Hadith 271</td></tr></tbody></table></div>
 

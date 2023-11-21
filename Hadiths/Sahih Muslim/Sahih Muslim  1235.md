@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Shakhkhir narrated it on the authority of his father that he said pr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [al-Jurairi] dari [Abu al-'Ala' Yazid bin Abdullah bin asy-Syikhkhir] dari [Bapaknya] "Bahwanya dia shalat bersama-sama dengan Nabi Shallallahu'alaihiwasallam. Tiba-tiba Nabi meludah, lalu menggosok-gosoknya dengan sandalnya yang kiri
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>554.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается, что Абу аль-‘Аля Язид ибн ‘Абдуллах ибн аш-Шиххир рассказал, что, когда его отец молился вместе с Пророком ﷺ, он сплюнул и растёр плевок левой сандалией
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>554.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
 

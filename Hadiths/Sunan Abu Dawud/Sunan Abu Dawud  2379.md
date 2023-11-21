@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-A'mash said:I did not see any of our companions who abominated the use of col
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah Al Mukharrimi] dan [Yahya bin Musa Al Balkhi], mereka berdua mengatakan; telah menceritakan kepada kami [Yahya bin Isa] dari [Al A'masy], ia berkata; aku tidak melihat seorang pun dari para sahabat kita yang membenci celak bagi orang yang berpuasa. Dan Ibrahim memberikan keringanan agar orang yang berpuasa bercelak menggunakan shabir
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2379</td></tr><tr><td>Arabic No</td><td>2379</td></tr><tr><td>Reference</td><td>Book 14 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Аль-А‘маш сказал: «Я не видел среди наших товарищей никого, кто считал бы пользование сурьмой запретным для постящегося, а Ибрахим считал, что постящемуся разрешается использовать для глаз и сок алоэ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Maqtu</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2379</td></tr><tr><td>Arabic No</td><td>2379</td></tr><tr><td>Reference</td><td>Book 14 Hadith 67</td></tr></tbody></table></div>
 

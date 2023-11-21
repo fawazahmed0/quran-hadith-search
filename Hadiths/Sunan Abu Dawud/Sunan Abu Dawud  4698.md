@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuDharr and AbuHurayrah: The Messenger of Allah (ﷺ) used to sit amon
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Jarir] dari [Abu Farwah Al Hamdani] dari [Abu Zur'ah bin Amru bin Jarir] dari [Abu Dzar] dan [Abu Hurairah] keduanya berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam duduk bersama para sahabatnya, tiba-tiba datang orang asing dan tidak seorang pun dari kami yang mengenalnya, hingga ia minta untuk bertemu (beliau). Lalu kami minta izin kepada beliau untuk membuat tempat duduk, hingga orang-orang asing dapat berjumpa dengannya. Kemudian kami membuatkan beliau tempat duduk dari tanah liat yang agak tinggi, lalu beliau duduk di atasnya sementara kami duduk di sampingnya… Lalu ia menyebutkan sebagaimana hadits tersebut. Kemudian datanglah seorang laki-laki…lalu ia menyebutkan keadaan laki-laki itu hingga ia pun mengucapkan salam dari ujung para jama'ah, ia mengucapkan, "Semoga keselamatan atas kamu wahai Muhammad." Ia (perawi) berkata, "Nabi shallallahu 'alaihi wasallam lalu manjawab salamnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4698</td></tr><tr><td>Arabic No</td><td>4698</td></tr><tr><td>Reference</td><td>Book 42 Hadith 103</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Зарр и Абу Хурайра (да будет доволен Аллах ими обоими) передают: «Когда Посланник Аллаха ﷺ сидел со своими сподвижниками и приходил чужеземец, он не знал, который из сидящих Мухаммад, и вынужден был спрашивать. И мы предложили Посланнику Аллаха ﷺ сделать для него особое место для сидения, чтобы любой чужеземец сразу узнавал его. И мы сделали для него возвышение из глины, и он садился на него. А мы садились с двух сторон от него. И вот однажды пришёл человек (передатчик описал его внешность) и поприветствовал его с одного края сидящих, сказав: “Мир тебе, о Мухаммад!” И Пророк ﷺ ответил ему»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4698</td></tr><tr><td>Arabic No</td><td>4698</td></tr><tr><td>Reference</td><td>Book 42 Hadith 103</td></tr></tbody></table></div>
 

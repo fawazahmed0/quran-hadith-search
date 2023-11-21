@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira and Zaid bin Khalid:While we were with the Prophet (ﷺ) , 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Ali bin Abdullah] telah menceritakan kepada kami [Sufyan] mengatakan, kami menghapalnya dari orang yang berada di majlis [Az Zuhri] mengatakan, telah mengabarkan kepadaku [Ubaidullah] ia mendengar [Abu Hurairah] dan [Zaid bin Khalid] mengatakan; Kami disisi Nabi shallallahu 'alaihi wasallam, tiba-tiba seorang laki-laki datang dan berujar; 'Saya bersumpah atas nama Allah kepadamu, putuskanlah perkara diantara kami dengan kitabullah.' Lantas berdirilah lawan sengketanya yang lebih faqih dari dia dan berkata; 'Putuskanlah diantara kami dengan kitabullah, dan izinkanlah aku untuk bicara." Nabi berkata; "bicaralah". Lanjutnya; 'Anakku menjadi pekerja laki-laki ini, kemudian anakku berzina dengan isterinya, maka aku menebusnya dengan seratus ekor kambing dan satu pembantu, kemudian aku bertanya kepada beberapa ahli ilmu, mereka mengabariku bahwa anakku berkewajiban didera seratus kali dan diasingkan selama setahun, sedang isterinya harus dirajam.' Maka Nabi shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada di Tangan-Nya, aku akan memutuskan diantara kalian dengan kitabullah yang agung sebutan-Nya. seratus ekor unta dan pembantu dikembalikan kepadamu, anakmu di cambuk sebanyak seratus kali dan disaingkan selama setahun, dan pergilah Unais Al Aslami ke istri orang ini, jikau dia mengakuinya, maka rajamilah dia." Unais akhirnya pergi menemui istri orang tersebut, dan dia mengakuinya, maka ia merajamnya.' Saya bertanya kepada Sufyan; apakah dia tidak berkata; 'mereka mengabariku bahwa anakku terkena rajam? ' Sufyan menjawab; 'keraguanku itu berasal dari Az Zuhri, maka terkadang saya katakan dan terkadang saya tinggalkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6827</td></tr><tr><td>Arabic No</td><td>6827</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Хурайра и Зейд ибн Халид аль-Джухани, да будет доволен Аллах ими обоими, передают: «(Как-то раз) мы находились рядом с Пророком ﷺ, тогда встал один человек и сказал: “Я заклинаю тебя Аллахом, чтобы ты рассудил нас согласно Книге Аллаха!” Человек же, с которым у него была тяжба и который был более просвещённым в вопросах религии, поднялся и сказал: “Рассуди нас согласно Книге Аллаха и позволь мне (высказаться)”. Тогда (Пророк ﷺ сказал ему): “Говори”. Тот сказал: “Поистине, мой сын был наёмным работником у этого человека и совершил прелюбодеяние с его женой. И я отдал сто овец и раба в качестве выкупа за него. А потом я спросил (об этом) людей из числа обладающих знанием и они сказали мне, что мой сын должен получить сто ударов и отправиться в изгнание на год, а его жену следует побить камнями”. Тогда Пророк ﷺ сказал: “Клянусь Тем, в Чьей руке моя душа, я обязательно рассужу вас согласно Книге Аллаха! Раб и овцы должны быть возвращены, а что касается твоего сына, то ему необходимо нанести сто ударов и отправить его в изгнание на год. О Унайс, отправляйся к жене этого (человека) и если она признается, то побей её камнями”. Он пошёл к ней, она призналась, и он побил её камнями».\nЯ (‘Али аль-Мадиний) спросил Суфьяна (ибн ‘Уейна): «Почему (этот человек) не сказал: «Мне сказали, что за это моего сына следует подвергнуть побиванию камнями»? На что он ответил: «Я сомневаюсь в том, (слышал ли я эти слова) от аз-Зухри, поэтому иногда я их произношу, а иногда оставляю»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6827</td></tr><tr><td>Arabic No</td><td>6827</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

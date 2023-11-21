@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn 'Umar reported that a person asked the Messenger of Allah (ﷺ) about the ni
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1748</td></tr><tr><td>Arabic No</td><td>749.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 177</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, что один человек спросил Посланника Аллаха ﷺ, (как следует совершать добровольную) ночную молитву. (В ответ ему) Посланник Аллаха ﷺ сказал: «Ночная молитва (состоит из) парных (рак‘атов), если же кто-нибудь из вас станет опасаться, (что скоро наступит) утро, пусть совершит молитву в один рак‘ат, что сделает (общее количество совершённых им рак‘атов) нечётным»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1748</td></tr><tr><td>Arabic No</td><td>749.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 177</td></tr></tbody></table></div>
 

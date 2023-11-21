@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mu'adh bin Rifa'a bin Rafi':Rifa'a was one of the warriors of Badr whil
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3993</td></tr><tr><td>Arabic No</td><td>3993</td></tr><tr><td>Reference</td><td>Book 64 Hadith 44</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Му’аза Рифа‘а ибн Рафи‘, отец которого был участником битвы при Бадре, что Рафи‘, который был одним из участников присяги в ‘Акаба, говорил своему сыну: «Я не променял бы присягу в ‘Акаба на участие битвы при Бадре»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3993</td></tr><tr><td>Arabic No</td><td>3993</td></tr><tr><td>Reference</td><td>Book 64 Hadith 44</td></tr></tbody></table></div>
 

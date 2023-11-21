@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Thabit bin Ad-Dahhak:The Prophet (p.b.u.h) said, "Whoever intentionally
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Khalid] dari [Abu Qalabah] dari [Tsabit bin Adh-Dhahhak radliallahu 'anhu] dari Nabi Shallallahu'alaihiwasallam bersabda: "Barangsiapa yang bersumpah setia dengan agama selain Islam secara dusta dan sengaja, maka dia seperti apa yang dikatakannya, dan barangsiapa membunuh dirinya sendiri dengan besi, maka dia akan disiksa di dalam nereka Jahanam". Dan berkata, Hajjaj bin Minhal telah menceritakan kepada kami Jarir bin Hazim dari Al Hasan telah menceritakan kepada kami Jundab radliallahu 'anhu: "Didalam masjid ini tidak akan kami lupakan dan kami tidak takut bahwa Jundab akan berdusta atas nama Nabi Shallallahu'alaihiwasallam, dia berkata,: "Pernah ada seorang yang terluka lalu dia bunuh diri maka Allah Shallallahu'alaihiwasallam berfirman: "HambaKu mendahului aku dalam hal nyawanya sehingga aku haramkan baginya surga
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1364</td></tr><tr><td>Arabic No</td><td>1364</td></tr><tr><td>Reference</td><td>Book 23 Hadith 116</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов аль-Хасана:\n— Рассказал нам Джундаб, да будет доволен им Аллах, в этой мечети и мы не забыли (об этом) и не боимся, что Джундаб лжёт. (Он сообщил,) что Пророк ﷺ сказал: «Один человек, у которого было (множество) ран, сам лишил себя жизни, и тогда Аллах сказал: “Раб Мой опередил Меня по собственной воле, ( и поэтому) Я сделал рай запретным для него”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1364</td></tr><tr><td>Arabic No</td><td>1364</td></tr><tr><td>Reference</td><td>Book 23 Hadith 116</td></tr></tbody></table></div>
 

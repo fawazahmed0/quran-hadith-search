@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Al-Aliyah, daughter of Subay', said:I had some sheep at Uhud, and they began to 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Amru] -yaitu Ibnul Harits- dari [Katsir bin Farqad] dari [Abdullah bin Malik bin Hudzafah] ia menceritakan kepadanya dari [ibunya yaitu Al 'Aliyah binti Subai'] Bahwasanya ia berkata, "Aku mempunyai seekor kambing di gunung uhud, namun tiba-tiba ia mati. Lalu aku menemui [Maimunah] isteri Nabi shallallahu 'alaihi wasallam dan menceritakan hal itu kepadanya. Maimunah lantas berkata kepadaku, "Kenapa tidak engkau ambil kulitnya hingga engkau bisa memanfaatkannya?" Ia bertanya, "Apakah itu boleh?" Maimunah menjawab, "Boleh. Suatu ketika beberapa laki-laki Quraisy melewati Rasulullah shallallahu 'alaihi wasallam dengan menyeret kambing mereka seperti keledai. Rasulullah shallallahu 'alaihi wasallam lalu berkata kepada mereka: "Sekiranya kalian ambil kulitnya." Mereka berkata, "Kambing itu telah mati." Rasulullah shallallahu 'alaihi wasallam bersabda: "Air dan Al Qarazh (daun dari jenis pohon yang biasa digunakan untuk menyamak) akan mensucikannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4126</td></tr><tr><td>Arabic No</td><td>4126</td></tr><tr><td>Reference</td><td>Book 34 Hadith 107</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от аль-‘Алии бинт Субай‘: «У меня были овцы, и среди них начался падёж, и я зашла к Маймуне, жене Пророка ﷺ и рассказала ей об этом. Маймуна сказала мне: “Ах, если бы ты взяла их шкуры и использовала их”». Она спросила: «А это разрешается?» (Маймуна) ответила: «Да. Однажды мимо Посланника Аллаха ﷺ проходили курайшиты, которые тащили овечью тушу, словно ослиную. Посланник Аллаха ﷺ сказал им: “Вы бы взяли её шкуру”. Ему сказали: “Это мертвечина”. Посланник Аллаха ﷺ сказал: “Её очистит вода и караз”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4126</td></tr><tr><td>Arabic No</td><td>4126</td></tr><tr><td>Reference</td><td>Book 34 Hadith 107</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Hurairah and Zaid b. Khalid al-Juhani said:The Messenger of Allah (ﷺ) was 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah] dari [Abu Hurairah] dan [Zaid bin Khalid Al Juhani] bahwa Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang seorang budak wanita yang berzina, tetapi ia belum menikah? Beliau menjawab: "Jika ia melakukan zina maka cambuklah, jika melakukan zina lagi maka cambuklah, jika melakukan zina lagi maka cambuklah, kemudian jika ia melakukan zina lagi maka juallah meskipun dengan seharga tali pengikat rambut." Ibnu Syihab berkata, "Aku tidak tahu, itu berlaku pada kali ketiga atau keempat. Sementara Adh dhafir adalah tali (rambut)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2153، 2154) Sahih Muslim (1703)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4469</td></tr><tr><td>Arabic No</td><td>4469</td></tr><tr><td>Reference</td><td>Book 40 Hadith 119</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Хурайры и Зейда ибн Халида аль-Джухани, да будет доволен Аллах ими обоими, что однажды Посланника Аллаха ﷺ спросили, как следует поступить с не состоявшей в браке рабыней, если она совершит прелюбодеяние. Он ответил: «Если она совершит прелюбодеяние, подвергните её бичеванию, если она опять совершит прелюбодеяние, подвергните её бичеванию, если она опять совершит прелюбодеяние, подвергните её бичеванию, а потом, если она совершит прелюбодеяние, продайте её, пусть даже по цене верёвки». Ибн Шихаб (один из передатчиков этого хадиса) сказал: «Я не знаю, когда следует продать такую рабыню, после третьего или после четвёртого раза»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2153، 2154) Sahih Muslim (1703)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4469</td></tr><tr><td>Arabic No</td><td>4469</td></tr><tr><td>Reference</td><td>Book 40 Hadith 119</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Sa'd:Allah's Messenger (ﷺ) came to visit me during my ailment which h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abdul Aziz bin Abdullah bin Abu Salamah] telah mengabarkan kepada kami [Az Zuhri] dari ['Amir bin Sa'd] dari [Ayahnya] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah datang menjengukku ketika aku sedang menderita sakit keras yaitu ketika Haji Wada', maka aku berkata; "Wahai Rasulullah, keadaan saya semakin parah, seperti yang telah anda lihat saat ini, sedangkan saya adalah orang yang memiliki banyak harta, sementara saya hanya memiliki seorang anak perempuan yang akan mewarisi harta peninggalan saya, maka bolehkah saya menyedekahkan dua pertiga dari harta saya?" beliau bersabda: "Jangan." Saya bertanya lagi; "Kalau begitu, bagaimana jika separuhnya?" beliau menjawab: "Jangan, " Tanyaku lagi; "Kalau begitu bagaimana kalau sepertiganya? Beliau menjawab: Sepertiga pun sudah banyak, sebenarnya jika kamu meninggalkan ahli warismu dalam keadaan kaya, itu lebih baik daripada kamu meninggalkan mereka dalam keadaan yang serba kekurangan dan meminta-minta kepada orang lain. Tidakkah Kamu menafkahkan suatu nafkah dengan tujuan untuk mencari ridla Allah, melainkan kamu akan mendapatkan pahala lantaran dari nafkah pemberianmu itu, hingga sesuap makanan yang kamu suguhkan ke mulut istrimu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5668</td></tr><tr><td>Arabic No</td><td>5668</td></tr><tr><td>Reference</td><td>Book 75 Hadith 28</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ’Амира ибн Са‘да, что его отец сказал: «Когда во время Прощального паломничества я сильно заболел, Посланник Аллаха ﷺ пришёл навестить меня, и я сказал: “Болезнь уже довела меня до состояния, которое ты видишь! Я богат, и нет у меня наследников, кроме единственной дочери, так не отдать ли мне две трети имущества в качестве милостыни?” Он сказал: “Нет”. Я спросил: “А половину?” Он сказал: “Нет”. Я спросил: “А треть?” Он сказал: “(Но и) трети будет много, ведь лучше тебе оставить своих наследников состоятельными, чем нуждающимися и вынужденными просить у людей! И, поистине, ты обязательно получишь награду за всё то, что потратишь ради лика Аллаха, и даже за кусок еды, который ты положишь в рот своей жены”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5668</td></tr><tr><td>Arabic No</td><td>5668</td></tr><tr><td>Reference</td><td>Book 75 Hadith 28</td></tr></tbody></table></div>
 

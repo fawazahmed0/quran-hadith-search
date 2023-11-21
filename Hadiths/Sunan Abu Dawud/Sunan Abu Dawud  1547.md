@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Messenger of Allah (ﷺ) used to say: "O Allah, I seek
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Al 'Ala'] dari [Ibnu Idris] dari [Ibnu 'Ajlan] dari [Al Maqburi] dari [Abu Hurairah] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam berdo'a: "ALLAAHUMMA INNII A'UUDZU BIKA MINAL JUU'I, FAINNAHU BI'SADH DHAJII'U, WA A'UUDZU BIKA MINAL KHIYAANATI FAINNAHAA BI'SATIL BITHAANAH" (Ya Allah sesungguhnya aku berlindung kepadaMu dari kelaparan, karena itu adalah seburuk-buruk teman tidur. Dan aku berlindung kepadaMu dari khianat karena itu adalah seburuk-buruk teman)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1547</td></tr><tr><td>Arabic No</td><td>1547</td></tr><tr><td>Reference</td><td>Book 8 Hadith 132</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Хурайра да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ часто говорил: “О Аллах, поистине, я прибегаю к Твоей защите от голода сколь плохо делить с ним постель! и я прибегаю к твоей защите от вероломства сколь плохое это качество!”/ Аллахумма, инни а‘узу бика миналь-джу‘и, фа-иннаху биъса-д-даджи‘у, ва а‘узу бика миналь-хыйанати, фа иннаху биъсатиль-битанату
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1547</td></tr><tr><td>Arabic No</td><td>1547</td></tr><tr><td>Reference</td><td>Book 8 Hadith 132</td></tr></tbody></table></div>
 

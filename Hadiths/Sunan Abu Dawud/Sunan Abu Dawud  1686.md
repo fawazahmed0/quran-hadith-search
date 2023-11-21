@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa’d said When the Messenger of Allah (SWAS) took the oath of allegiance from 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Sawwar Al Mishri], Telah menceritakan kepada Kami [Abdussalam bin Harb] dari [Yunus bin 'Ubaid] dari [Ziyad bin Jubair bin Hayyah] dari [Sa'd], ia berkata; tatkala para wanita berbaiat kepada Rasulullah shallallahu 'alaihi wasallam, terdapat seorang wanita yang bertubuh besar sepertinya dia termasuk wanita dari kabilah Mudhar, ia berkata; wahai Nabi Allah, sesungguhnya Kami adalah beban bagi bapak-bapak Kami dan anak laki-laki Kami -Abu Daud berkata; aku menganggap ada kata: dan suami Kami- maka apakah yang halal bagi Kami untuk Kami dari harta mereka? Beliau menjawab: makanan basah yang kalian makan dan kalian hadiahkan. Abu Daud berkata; makanan basah adalah roti dan sayur-sayuran serta ruthab, AbuDaud berkata; seperti inilah yang diriwayatkan [Ats Tsauri] dari [Yunus]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1686</td></tr><tr><td>Arabic No</td><td>1686</td></tr><tr><td>Reference</td><td>Book 9 Hadith 131</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Са‘да, да будет доволен им Аллах, что когда женщины присягали Посланнику Аллаха ﷺ поднялась одна достойная [или: высокая] женщина, похожая на женщин племени мудар, и сказала: «О Пророк Аллаха! Мы живём за счёт отцов, детей (и Абу Дауд сказал: “Мне кажется, что ещё было сказано: “и за счёт мужей””), так что же является дозволенным для нас из их имущества?» Он сказал: «Всё свежее. Вы можете есть такую еду и дарить её»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1686</td></tr><tr><td>Arabic No</td><td>1686</td></tr><tr><td>Reference</td><td>Book 9 Hadith 131</td></tr></tbody></table></div>
 

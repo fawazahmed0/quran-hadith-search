@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Aisha, Ummul Mu'minin: I said: Messenger of Allah, should we not build 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abdurrahman bin Mahdi], telah menceritakan kepada kami [Israil] dari [Ibrahim bin Muhajir] dari [Yusuf bin Mahik] dari [ibunya] dari [Aisyah], ia berkata; aku katakan; wahai Rasulullah, tidakkah kami bangun untukmu sebuah rumah atau bangunan yang dapat menaungimu dari matahari di Mina? Kemudian beliau berkata; sesungguhnya Mina adalah tempat berhenti bagi orang yang datang lebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2019</td></tr><tr><td>Arabic No</td><td>2019</td></tr><tr><td>Reference</td><td>Book 11 Hadith 299</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Аиша, да будет доволен ею Аллах, передаёт: «Я сказала: “О Посланник Аллаха, может, нам построить для тебя дом или строение, которое скрывало бы тебя от солнца?” Он ответил: “Нет. Поистине, она для того, кто первым добрался до неё”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2019</td></tr><tr><td>Arabic No</td><td>2019</td></tr><tr><td>Reference</td><td>Book 11 Hadith 299</td></tr></tbody></table></div>
 

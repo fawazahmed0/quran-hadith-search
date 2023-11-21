@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ash-Shaibani:Ash-Shu'bi said, "Somebody who passed along with your Prop
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepada kami [Asy-Syaibaniy] dari [Asy-Sya'biy] berkata, telah mengabarkan kepada saya seorang yang bersama Nabi kalian Shallallahu'alaihiwasallam, ia berjalan melewati kuburan yang terpisah (dari kuburan lain). Lalu Beliau membariskan kami di belakang Beliau. Kami bertanya: "Wahai Abu "Amru, siapakah yang menceritakan ini kepadamu?". Dia menjawab: " [Ibnu 'Abbas radliallahu 'anhu]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1322</td></tr><tr><td>Arabic No</td><td>1322</td></tr><tr><td>Reference</td><td>Book 23 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Аш-Ша‘би сказал: «Мне сообщил тот, кто однажды проходил вместе с вашим Пророком ﷺ мимо могилы, находившейся отдельно от других могил. Он совершил с нами молитву, встав имамом, а мы выстроились в ряды позади него». Передатчик сказал: «Мы спросили: “О, Абу ‘Амр! Кто рассказал тебе это?” Он ответил: “Ибн ‘Аббас, да будет доволен Аллах им и его отцом”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1322</td></tr><tr><td>Arabic No</td><td>1322</td></tr><tr><td>Reference</td><td>Book 23 Hadith 79</td></tr></tbody></table></div>
 

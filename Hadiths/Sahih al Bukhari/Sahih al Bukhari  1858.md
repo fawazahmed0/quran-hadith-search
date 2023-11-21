@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated As-Sa'ib bin Yazid:(While in the company of my parents) I was made to p
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami ['Abdurrahman bin Yunus] telah menceritakan kepada kami [Hatim bin Isma'il] dari [Muhammad bin Yusuf] dari [As-Sa'ib bin Yazid] berkata: "Aku diajak menunaikan haji bersama Rasulullah shallallahu 'alaihi wasallam padahal saat itu usiaku baru tujuh tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1858</td></tr><tr><td>Arabic No</td><td>1858</td></tr><tr><td>Reference</td><td>Book 28 Hadith 38</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ас-Са‘иб бин Йазид, да будет доволен им Аллах, сказал: «(Родители взяли меня с собой) для совершения хаджа вместе с посланником Аллаха ﷺ когда мне было семь лет»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1858</td></tr><tr><td>Arabic No</td><td>1858</td></tr><tr><td>Reference</td><td>Book 28 Hadith 38</td></tr></tbody></table></div>
 

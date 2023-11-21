@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas bin Malik:In the year of the conquest of Mecca the Prophet (ﷺ) e
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Malik] dari [Az Zuhri] dari [Anas] radliallahu 'anhu bahwa Nabi shallallahu 'alaihi wasallam masuk kota Makkah ketika penaklukan kota Makkah dengan mengenakan topi baju besi di kepalanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5808</td></tr><tr><td>Arabic No</td><td>5808</td></tr><tr><td>Reference</td><td>Book 77 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, со слов Анаса, да будет доволен им Аллах, что, когда в год завоевания (Мекки) Пророк ﷺ вступил (в город), на голове его был шлем
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5808</td></tr><tr><td>Arabic No</td><td>5808</td></tr><tr><td>Reference</td><td>Book 77 Hadith 26</td></tr></tbody></table></div>
 

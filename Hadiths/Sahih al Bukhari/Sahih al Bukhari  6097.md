@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hudhaifa:From among the people, Ibn Um 'Abd greatly resembled Allah's M
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Ibrahim] dia berkata; saya berkata kepada [Abu Usamah]; Apakah [Al A'masy] pernah menceritakan kepada kalian? Yaitu; saya mendengar [Syaqiq] dia berkata; saya mendengar [Hudzaifah] berkata; "Orang yang paling mirip Rasulullah shallallahu 'alaihi wasallam dari perilaku dan sifatnya adalah Ibnu Ummi 'Abd (Ibnu Mas'ud), semenjak dia keluar dari rumahnya sampai dia kembali (ke rumahnya) hingga kami tidak mengetahui apa yang diperbuat bersama isterinya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6097</td></tr><tr><td>Arabic No</td><td>6097</td></tr><tr><td>Reference</td><td>Book 78 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Шакыка, что Хузейфа сказал: «Поистине, больше всех на Пророка ﷺ похож внешностью, нравами и поведением Ибн Умм ‘Абд. (Он похож на него) с того момента, как он выходит из дома и до тех пор, пока он не вернётся обратно, однако мы не знаем как он ведёт себя со своей семьёй, когда остаётся с ними наедине»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6097</td></tr><tr><td>Arabic No</td><td>6097</td></tr><tr><td>Reference</td><td>Book 78 Hadith 124</td></tr></tbody></table></div>
 

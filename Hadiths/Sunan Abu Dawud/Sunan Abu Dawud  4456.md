@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Al-Bara' ibn Azib: while I was wandering in search of my camels which h
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Khalid bin Abdullah] berkata, telah menceritakan kepada kami [Mutharrif] dari [Abul Jahm] dari [Al Bara bin Azib] ia berkata, "Ketika aku sedang berkeliling mencari untaku yang hilang, aku berpapasan dengan sekelompok penunggang kuda, dan mereka membawa bendera. Lalu orang-orang itu mengajakku untuk ikut serta karena kedekatanku dengan nabi shallallahu 'alaihi wasallam. saat mereka mendatangi sebuah qubah (rumah), mereka mengeluarkan seorang laki-laki darinya dengan paksa dan membunuhnya. Aku lantas bertanya (tentang hal itu), mereka lalu menyebutkan bahwasanya ia telah menikahi isteri bapaknya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4456</td></tr><tr><td>Arabic No</td><td>4456</td></tr><tr><td>Reference</td><td>Book 40 Hadith 106</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от аль-Бара ибн ‘Азиба: «Однажды, когда я искал своих убежавших верблюдов, я увидел нескольких всадников, которые несли знамя. Бедуины собрались вокруг меня из-за того положения, которое я занимал при Пророке ﷺ. Эти люди тем временем подъехали к одной палатке, вывели оттуда мужчину и отрубили ему голову. Я спросил о причине казни, и они сказали, что он женился на вдове своего отца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4456</td></tr><tr><td>Arabic No</td><td>4456</td></tr><tr><td>Reference</td><td>Book 40 Hadith 106</td></tr></tbody></table></div>
 

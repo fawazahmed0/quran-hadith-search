@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:The Prophet (ﷺ) cut off the hands and feet of the men belonging 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Shalt Abu Ya'la] telah menceritakan kepada kami [Al Walid] telah menceritakan kepadaku [Al Auza'i] dari [Yahya] dari [Abu Qilabah] dari [Anas], bahwasanya Nabi shallallahu 'alaihi wasallam pernah memotong tangan orang-orang bani 'Urainah dan tidak menghentikan penghukuman atas mereka, hingga mereka tewas
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6803</td></tr><tr><td>Arabic No</td><td>6803</td></tr><tr><td>Reference</td><td>Book 86 Hadith 32</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Анаса, что Пророк ﷺ приказал отрубить (кисти рук и ступни) людям из племени ‘урана и не прижигать (кровоточащие раны), пока они не умерли»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6803</td></tr><tr><td>Arabic No</td><td>6803</td></tr><tr><td>Reference</td><td>Book 86 Hadith 32</td></tr></tbody></table></div>
 

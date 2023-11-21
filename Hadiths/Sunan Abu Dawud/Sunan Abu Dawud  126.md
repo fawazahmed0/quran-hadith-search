@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Ar-Rubayyi' daughter of Mu'awwidh ibn Afra': The Messenger of Allah (�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>126</td></tr><tr><td>Reference</td><td>Book 1 Hadith 126</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Рубаййи‘ бинт Му‘аввиз ибн ‘Афраъ (да будет доволен ею Аллах) сказала: «Посланник Аллаха ﷺ (иногда) приходил к нам».И она сообщила нам, что он ﷺ сказал: «Налейте мне воды для омовения!» И она, рассказывая об омовении Посланника Аллаха ﷺ сказала в (своём хадисе): «И он три раза помыл свои руки до запястий, три раза вымыл лицо, один раз прополоскал рот и нос, три раза вымыл руки до локтей и дважды обтёр голову, (начав) с задней части, а затем спереди, (протёр) уши снаружи и изнутри, и три раза помыл каждую ногу».Абу Дауд сказал: «Это смысл хадиса Мусаддада»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>126</td></tr><tr><td>Reference</td><td>Book 1 Hadith 126</td></tr></tbody></table></div>
 

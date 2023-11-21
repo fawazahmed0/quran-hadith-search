@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Anas b. Malik reported the Messenger of Allah (ﷺ) saying:When the supper is br
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepadaku [Amru an-Naqid] dan [Zuhair bin Harb] serta [Abu Bakar bin Abi Syaibah] mereka berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [az-Zuhri] dari [Anas bin Malik] dari Nabi Shallallahu'alaihiwasallam beliau bersabda, "Apabila makan malam telah dihidangkan, sedangkan shalat telah diiqamahkan maka mulailah dengan makan malam terlebih dahulu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1241</td></tr><tr><td>Arabic No</td><td>557.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Анаса ибн Малика о том, что Пророк ﷺ сказал: «Если принесут ужин и (в это время) объявят о начале молитвы, начинайте ужинать»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1241</td></tr><tr><td>Arabic No</td><td>557.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 79</td></tr></tbody></table></div>
 

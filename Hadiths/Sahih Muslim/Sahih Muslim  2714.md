@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'isha, the Mother of the Believers (Allah be pleased with her), reported that o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan Telah menceritakan kepada kami [Abu Kamil Fudlail bin Husain] telah menceritakan kepada kami [Abdul Wahid bin Ziyad] telah menceritakan kepada kami [Thalhah bin Yahya bin Ubaidullah] telah menceritakan kepadaku [Aisyah binti Thalhah] dari [Aisyah] radliallahu 'anha, ia berkata; Pada suatu hari, Rasulullah shallallahu 'alaihi wasallam bertanya kepadaku: "Wahai Aisyah, apakah kamu mempunyai makanan?" Aisyah menjawab, "Tidak, ya Rasulullah." Beliau bersabda: "Kalau begitu, aku akan berpuasa." Kemudian Rasulullah shallallahu 'alaihi wasallam pun keluar. Tak lama kemudian, saya diberi hadiah berupa makanan -atau dengan redaksi seorang tamu mengunjungi kami--. Aisyah berkata; Maka ketika Rasulullah shallallahu 'alaihi wasallam kembali saya pun berkata, "Ya Rasulullah, tadi ada orang datang memberi kita makanan dan kusimpan untuk Anda." Beliau bertanya: "Makanan apa itu?" saya menjawab, "Kuwe hais (yakni terbuat dari kurma, minyak samin dan keju)." Beliau bersabda: "Bawalah kemari." Maka kuwe itu pun aku sajikan untuk beliau, lalu beliau makan, kemudian berkata, "Sungguh dari pagi tadi aku puasa." Thalhah berkata; Saya menceritakan hadits ini kepada Mujahid, lalu ia berkata, "Hal itu seperti halnya seorang laki-laki yang mengeluarkan sedekah. Jika ingin, ia akan mengeluarkannya, dan jika tidak, maka ia akan menahannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2714</td></tr><tr><td>Arabic No</td><td>1154.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 220</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что мать правоверных ‘Аиша, да будет доволен ею Аллах, сказала: «Однажды днём Посланник Аллаха ﷺ спросил меня: “О ‘Аиша, есть ли у вас что-нибудь (поесть)?” Я ответила: “О Посланник Аллаха, у нас нет ничего”. Он сказал: “Тогда буду поститься”».‘Аиша сказала: «И Посланник Аллаха ﷺ вышел, а нам преподнесли подарок (или: к нам пришли гости)».‘Аиша сказала: «Когда Посланник Аллаха ﷺ вернулся, я сказала: “О Посланник Аллаха, нам преподнесли подарок (или: к нам пришли гости) и я для тебя кое-что припрятала”. Он спросил: “А что это?” Я сказала: “Хайс”. Он сказал: “Принеси его”. Я принесла его и он поел, после чего он сказал: “Я с утра постился”».Тальха сказал: «Я пересказал этот хадис Муджахиду, и он сказал: “Это подобно милостыне, которую выделяет человек из своего имущества: если захочет, он может подать её, а может и удержать”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2714</td></tr><tr><td>Arabic No</td><td>1154.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 220</td></tr></tbody></table></div>
 

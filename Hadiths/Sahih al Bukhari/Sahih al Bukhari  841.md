@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Ma'bad:(the freed slave of Ibn 'Abbas) Ibn 'Abbas told me, "In the 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ishaq bin Nashir] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepadaku ['Amru] bahwa [Abu Ma'bad] mantan budak Ibnu 'Abbas, mengabarkan kepadanya bahwa [Ibnu 'Abbas] radliallahu 'anhuma mengabarkan kepadanya, bahwa mengeraskan suara dalam berdzikir setelah orang selesai menunaikah shalat fardlu terjadi di zaman Nabi shallallahu 'alaihi wasallam. Ibnu 'Abbas mengatakan, "Aku mengetahui bahwa mereka telah selesai dari shalat itu karena aku mendengarnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>841</td></tr><tr><td>Arabic No</td><td>841</td></tr><tr><td>Reference</td><td>Book 10 Hadith 233</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что, когда при жизни Пророка ﷺ люди завершали обязательную молитву, они обычно громко поминали Аллаха. Ибн ‘Аббас сказал: «И по (словам этого поминания) я узнавал о (том, что молитву закончилась)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>841</td></tr><tr><td>Arabic No</td><td>841</td></tr><tr><td>Reference</td><td>Book 10 Hadith 233</td></tr></tbody></table></div>
 

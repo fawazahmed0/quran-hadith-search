@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Mas'ud reported that a person came to Allah's Messenger (ﷺ) and told him t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya bin Yahya] dan [Qutaibah bin Sa'id] dan [Abu Bakr bin Abu Syaibah] -dan lafadh ini milik Yahya- Yahya berkata; telah mengabarkan kepada kami, dan yang lain berkata; telah menceritakan kepada kami [Abul Ahwash] dari [Simak] dari [Ibrahim] dari ['Alqamah] dan [Al Aswad] dari ['Abdullah] dia berkata; dari Abdullah, dia berkata; "Seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam lalu dia berkata; 'Ya Rasulullah! Aku telah berdosa, karena aku bermesraan dengan seorang perempuan di pinggir kota Madinah. Aku telah berbuat dosa dengannya selain bersetubuh. Maka hukumlah aku dengan hukuman apa saja yang anda hendaki. Maka Umar bin Khaththab berkata kepadanya; 'Seandainya engkau menutup rahasia dirimu, niscaya Allah telah menutupi kesalahanmu itu.' Kata Abdullah; 'Nabi shallallahu 'alaihi wasallam tidak membantah sedikitpun ucapan Umar tersebut.' Maka berdirilah laki-laki itu kemudian pergi. Lalu Nabi shallallahu 'alaihi wasallam menyuruh seseorang menyusul dan memanggilnya kembali. Kemudian beliau bacakan kepadanya ayat ini: 'Dan dirikanlah shalat pada kedua tepi siang (pagi dan petang) dan pada bahagian permulaan daripada malam. Sesungguhnya segala perbuatan yang baik menghapuskan (dosa) segala perbuatan yang buruk. Itulah peringatan bagi orang-orang yang ingat.' (QS Hud: 114). Maka bertanyalah seseorang dari suatu kaum yang hadir; 'Ya Nabiyullah! Apakah ayat itu ditujukan khusus baginya? ' Jawab Nabi shallallahu 'alaihi wasallam: 'Bahkan untuk seluruh umat manusia.' Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Abu An Nu'man Al Hakim bin 'Abdullah Al 'Ijli] telah menceritakan kepada kami [Syu'bah] dari [Simak bin Harb] dia berkata; aku mendengar [Ibrahim] bercerita dari pamannya [Al Aswad] dari ['Abdullah] dari Nabi shallallahu 'alaihi wasallam yang semakna dengan hadits Abul Ahwash dia berkata di dalam Haditsnya; Mu'adz berkata; Ya Rasulullah, apakah ayat ini khusus untuk orang itu atau untuk kita semua? Beliau menjawab: 'Bahkan untuk kalian semua
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7004</td></tr><tr><td>Arabic No</td><td>2763.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 48</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7004</td></tr><tr><td>Arabic No</td><td>2763.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 48</td></tr></tbody></table></div>
 

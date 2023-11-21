@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Az-Zuhri:Anas bin Malik said, that once a domestic sheep was milked for
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah menceritakan kepadaku [Anas bin Malik radliallahu 'anhu] bahwa kepada Rasulullah shallallahu 'alaihi wasallam disiapkan susu hasil perasan kambing peliharaan yang ada di rumah Anas bin Malik dan susu tersebut dicampur dengan air sumur yang ada di rumah Anas, lalu disuguhkan kepada Rasulullah shallallahu 'alaihi wasallam segelas minuman tersebut, lalu Beliau meminumnya hingga ketika Beliau sudah melepas gelas tersebut dari mulut Beliau, sementara di samping kiri Beliau ada Abu Bakar sedangkan di sebelah kanannya ada seorang Baduy, maka 'Umar berkata dalam keadaan khawatir kalau-kalau gelas tersebut diberikan kepada orang Baduy tersebut: "Berikanlah kepada Abu Bakar wahai Rasulullah yang ada disamping anda". Namun Beliau memberikannya kepada orang Baduy yang berada di samping kanan Beliau itu seraya bersabda: "Hendaknya minuman diperuntukkan ke sebelah kanan dan ke kanan seterusnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2352</td></tr><tr><td>Arabic No</td><td>2352</td></tr><tr><td>Reference</td><td>Book 42 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аз-Зухри, да помилует его Аллах Всевышний, сказал: «Анас бин Малик, да будет доволен им Аллах, рассказал мне, что (однажды, когда) Посланник Аллаха ﷺ находился у него дома, для него надоили молока от домашней овцы и это молоко разбавили водой из колодца, имевшегося во дворе (дома) Анаса. Потом Посланнику Аллаха ﷺ подали кубок, и он отпил из него, а затем отвёл (руку, в которой был) этот кубок, ото рта. (В это время) слева от него (сидел) Абу Бакр, а справа — какой-то бедуин. ‘Умар, побоявшийся, что он передаст кубок этому бедуину, сказал: “О Посланник Аллаха, передай (это) Абу Бакру(, сидящему) рядом с тобой!” — (однако Пророк ﷺ) передал (кубок сидевшему) справа от него бедуину и сказал: “(Следует передавать сидящим) справа”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2352</td></tr><tr><td>Arabic No</td><td>2352</td></tr><tr><td>Reference</td><td>Book 42 Hadith 2</td></tr></tbody></table></div>
 

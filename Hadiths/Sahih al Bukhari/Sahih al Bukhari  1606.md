@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar. said, "I have never missed the touching of these two s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu'Umar radliallahu 'anhuma] berkata: "Tidak pernah aku meninggalkan dari menyentuh (mengusap) dua rukun ini (yang ada Al Hajar Al Aswad) baik dalam keadaan sulit maupun mudah semenjak aku melihat Nabi Shallallahu'alaihiwasallam mengusap keduanya". Aku bertanya klepada Nafi': "Apakah Ibnu 'Umar radliallahu 'anhuma berjalan diantara dua rukun itu?". Dia berkata: "Dia berjalan agar dapat lebih mudah untuk mengusapnya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>1606</td></tr><tr><td>Reference</td><td>Book 25 Hadith 92</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Ибн ‘Умар, да будет доволен Аллах ими обоими, сказал: «Я всегда прикасался к двум этим углам (независимо от того), трудно это было делать или легко, после того, как увидел, что прикасается к ним Пророк ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>1606</td></tr><tr><td>Reference</td><td>Book 25 Hadith 92</td></tr></tbody></table></div>
 

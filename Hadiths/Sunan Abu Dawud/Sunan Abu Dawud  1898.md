@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbdurRahman ibn Safwan: When the Messenger of Allah (ﷺ) conquered Mec
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Jarir bin Abdul Hamid], dari [Yazid bin Abu Ziyad] dari [Mujahid] dari [Abdurrahman bin Shafwan], ia berkata; tatkala Rasulullah shallAllahu wa'alaihi wa sallam menaklukkan Kota Mekkah aku katakan; sungguh aku akan memakai pakaianku -dan rumahku berada di jalan-, kemudian aku akan melihat bagaimana Rasulullah shallAllahu wa'alaihi wa sallam berbuat. Kemudian aku pergi dan melihat Nabi shallallahu 'alaihi wasallam telah keluar dari Ka'bah bersama para sahabatnya. Dan mereka telah mengusap Ka'bah dari pintu hingga Al Hathim (bagian antara pintu dan rukun). Dan mereka telah meletakkan pipi mereka pada Ka'bah sementara shallallahu 'alaihi wasallam berada di tengah mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1898</td></tr><tr><td>Arabic No</td><td>1898</td></tr><tr><td>Reference</td><td>Book 11 Hadith 178</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+‘Абдуррахман ибн Сафван передаёт: «Когда Посланник Аллаха ﷺ покорил Мекку, я решил надеть свою одежду а дом мой был как раз по пути и посмотреть, как поступит Посланник Аллаха ﷺ. И я пошёл и увидел Пророка ﷺ и его сподвижников, которые отошли от Каабы после того, как приложились к ней от двери до Хатыма. Они прижались щекой к Каабе, и Посланник Аллаха ﷺ был среди них»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1898</td></tr><tr><td>Arabic No</td><td>1898</td></tr><tr><td>Reference</td><td>Book 11 Hadith 178</td></tr></tbody></table></div>
 

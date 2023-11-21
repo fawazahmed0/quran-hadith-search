@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuSa'id al-Khudri: I was sitting in the company of the poor members of
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Ja'far bin Sulaiman] dari [Al Mu'allim bin Ziyad] dari [Al 'Ala bin Basyir Al Muzni] dari [Abu Ash Shiddiq An Nahi] dari [Abu Sa'id Al Khudri] ia berkata, "Aku duduk di antara beberapa orang lemah dari kalangan orang-orang muhajirin, dan sebagian mereka menutupi sebagian aurat sementara sebagian yang lain membacakan Al Qur'an kepada kami, tiba-tiba Rasulullah shallallahu 'alaihi wasallam datang dan berdiri di sisi kami. Tatkala Rasulullah shallallahu 'alaihi wasallam berdiri orang-orang yang membaca Al Qur'an diam. Lalu beliau mengucapkan salam dan bertanya: "Apakah yang kalian lakukan?" Kami menjawab, "Wahai Rasulullah, dia adalah orang yang pandai membaca Al-Qur'an di antara kami, ia membacakan kepada kami dan yang mendengarnya." Abu Sa'id berkata, "Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Segala puji bagi Allah Yang telah menjadikan di antara umatku, seseorang yang aku diperintahkan untuk bersabar bersama mereka." Abu Sa'id berkata, "Kemudian Rasulullah shallallahu 'alaihi wasallam duduk di tengah-tengah kami agar bisa bersama kami." Kemudian bersabda dengan isyarat tangannya seperti ini -mereka lalu melingkar dan wajah-wajah mereka nampak bagi beliau-." Abu Sa'id berkata, "Aku tidak melihat Rasulullah shallallahu 'alaihi wasallam mengetahui seorangpun di antara mereka selain diriku. Kemudian beliau bersabda: "Bergembiralah kalian wahai orang-orang fakir muhajirin dengan mendapatkan cahaya sempurna pada Hari Kiamat, kalian akan masuk Surga setengah hari sebelum orang-orang kaya, dan setengah hari itu adalah lima ratus ribu tahun
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах: «Однажды я сидел с группой бедных мухаджиров, и некоторые из них прятались за другими, потому что на них почти не было одежды. Кто-то читал нам Коран, и к нам подошёл Посланник Аллаха ﷺ и встал возле нас. Тогда чтец замолчал, и Посланник Аллаха ﷺ поприветствовал нас и спросил: “Что вы делали?” Мы сказали: “О Посланник Аллаха, этот человек читал нам Коран, и мы слушали Книгу Аллаха”. Тогда Посланник Аллаха ﷺ сказал: “Хвала Аллаху, Который включил в мою общину тех, вместе с кем мне велено проявлять терпение”. С этими словами Посланник Аллаха ﷺ сел среди нас как один из нас, а потом сделал нам знак рукой, чтобы мы сели кругом и он мог видеть лица сидящих. Я думаю, что из всех сидящих там он не знал никого, кроме меня. Посланник Аллаха ﷺ сказал: “Радуйтесь, о бедняки из числа мухаджиров, совершенному свету в Судный день. Вы войдёте в Рай на полдня раньше богатых, а это пятьсот лет”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
 

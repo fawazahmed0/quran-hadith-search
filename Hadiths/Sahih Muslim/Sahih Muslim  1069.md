@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. Abu Aufa reported that the Messenger of Allah (ﷺ) used to recite (
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin al-Mutsanna] dan [Ibnu Basysyar] [Ibnu al-Mutsanna] berkata, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Majza'ah bin Zahir] dia berkata, saya mendengar [Abdullah bin Abi Aufa] bercerita dari Nabi shallallahu'alaihiwasallam bahwa beliau dahulu membaca doa, "Ya Allah, Rabb kami, segala puji bagimu sepenuh langit dan bumi serta sepenuh sesuatu yang Engkau kehendaki setelah itu. Ya Allah bersihkanlah aku dengan es, embun, dan air yang dingin. Ya Allah bersihkanlah aku dari dosa dan kesalahan sebagaimana baju yang putih dibersihkan dari kotoran." Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] telah menceritakan kepada kami [Bapakku] dia berkata, --Lewat jalur periwayatan lain-- dan telah menceritakan kepadaku [Zuhair bin Harb] telah menceritakan kepada kami [Yazid bin Harun] keduanya meriwayatkan dari [Syu'bah] dengan isnad ini, dalam riwayat Muadz, "Sebagaimana baju yang putih dibersihkan dari kotoran (daran)." Sedangkan riwayat Yazid, "Dari kotoran (danas)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1069</td></tr><tr><td>Arabic No</td><td>476.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 231</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов ‘Абдуллаха ибн Аби Ауфа, что Пророк ﷺ говорил: «О Аллах, хвала Тебе, и пусть (эта хвала) наполнит собой небо, землю и то, что ещё Ты пожелаешь после этого. О Аллах очисть меня снегом, градом и холодной водой! О Аллах очисть меня прегрешений и грехов как очищают белую одежду от грязи!”» /Аллахумма лякяль-хамду, мильъа-с-самаъи, ва мильъа-ль-арды, ва мильъа ма шиъта мин шайъин ба’ду. Аллахумма таххирни бис-сальджи ва-ль-баради ва-ль-маъи-ль-барид! Аллахумма таххирни мин аз-зунуби ва-ль-хатайа кама йунаккъа-с-саубу-ль-абйаду мин аль-васах
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1069</td></tr><tr><td>Arabic No</td><td>476.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 231</td></tr></tbody></table></div>
 

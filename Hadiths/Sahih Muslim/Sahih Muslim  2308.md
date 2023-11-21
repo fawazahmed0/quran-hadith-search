@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Selon Abou Hourayra (que Dieu l'agrée), le Prophète (paix et bénédiction de 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Muhammad bin Abdullah bin Numair] keduanya berkata, Telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Abu Zinad] dari [Al A'raj] dari [Abu Hurairah] hingga sampai kepada Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Allah Tabaraka wa Ta'ala berfirman: 'Wahai anak Adam, berinfaklah kamu niscaya Aku akan memberikan ganti kepadamu.'" Beliau juga bersabda: "Pemberian Allah selalu melimpah." Ibnu Numair berkata, "Suatu pemberian yang tidak pernah berkurang meskipun mengalir siang dan malam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2308</td></tr><tr><td>Arabic No</td><td>993.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 45</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «Благой и Всевышний Аллах сказал: “О сын Адама! Расходуй, и Я буду расходовать на тебя”. И Он сказал: “Десница Аллаха, (из которой) ночью и днём обильно изливаются (милости), полна, и ничто из неё не исчезает”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2308</td></tr><tr><td>Arabic No</td><td>993.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 45</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "While I was sleeping, a group (of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>6587</td></tr><tr><td>Reference</td><td>Book 81 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(Однажды) я увидел во сне(, что ко мне подвели) толпу (людей), когда же я узнал их, между ними и мной встал какой-то человек и сказал: “Поспешите!” Я спросил: “Куда?” Он сказал: “Клянусь Аллахом, в огонь!” Я спросил: “А в чём дело с ними?” Он сказал: “После твоей (смерти) они отступились (от твоей религии)!” А потом (ко мне подвели) другую толпу (людей), когда же я узнал их, между ними и мной встал какой-то человек и сказал: “Поспешите!” Я спросил: “Куда?” Он сказал: “Клянусь Аллахом, в огонь!” Я спросил: “А в чём дело с ними?” Он сказал: “После твоей (смерти) они отступились (от твоей религии)!” — и не видел я, чтобы кто-нибудь из них спасся, за исключением тех из них, что были подобны верблюдам, пасущимся без присмотра»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>6587</td></tr><tr><td>Reference</td><td>Book 81 Hadith 175</td></tr></tbody></table></div>
 

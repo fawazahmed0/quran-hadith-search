@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Burda:My father said, "I came to the Prophet (ﷺ) and saw him carr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu An Nu'man] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ghailan bin Jarir] dari [Abu Burdah] dari [Bapaknya] ia berkata, "Aku datang menemui Nabi shallallahu 'alaihi wasallam dan aku dapati beliau sedang menggosok gigi dengan siwak di tangannya. Beliau mengeluarkan suara, "U' U'." sementara kayu siwak berada di mulutnya seolah ingin muntah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>244</td></tr><tr><td>Arabic No</td><td>244</td></tr><tr><td>Reference</td><td>Book 4 Hadith 110</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Абу Бурда передал, что его отец (Абу Муса аль-Аш‘ари, да будет доволен им Аллах,) сказал:«(Однажды) я пришёл к Пророку ﷺ и увидел, что он чистит зубы зубочисткой, держа её в руке и издавая звуки: “У‘, у‘”. При этом зубочистка находилась у него во рту, и (казалось), что его тошнило»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>244</td></tr><tr><td>Arabic No</td><td>244</td></tr><tr><td>Reference</td><td>Book 4 Hadith 110</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah:While the Prophet (ﷺ) was prostrating, surrounded by some o
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari ['Amru bin Maimun] dari [Abdullah] radliallahu 'anhu berkata; "Ketika Nabi shallallahu 'alaihi wasallam sedang sujud dan di sekeliling beliau ada orang-orang Musyrikin Quraisy, datang 'Uqbah bin Mu'ayth dengan membawa jeroan (isi perut) hewan sembilihan lalu meletakkannya di punggung Nabi shallallahu 'alaihi wasallam, dan beliau tidak mengangkat kepala beliau hingga akhirnya datang Fathimah 'Alaihis Salam menyingkirkannya dari punggung beliau dan mengumpat orang yang telah melakukan perbuatan itu. Kemudian Nabi shallallahu 'alaihi wasallam berdo'a: "Ya Allah, aku serahkan (urusan) para pembesar Quraisy kepada-Mu. Yaitu, Abu Jahal bin Hisyam, 'Utbah bin Rabi'ah, Syaibah bin Rabi'ah, Umayyah bin Khalaf atau Ubay bin Khalaf". Dalam hal ini Syu'bah ragu. Dan kemudian aku melihat mereka terbantai dalam perang Badar, mereka dilempar di sumur kecuali Umayyah atau Ubay yang anggota badannya terputus-putus dan tidak dilempar kedalam sumur
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3854</td></tr><tr><td>Arabic No</td><td>3854</td></tr><tr><td>Reference</td><td>Book 63 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Абдуллах, да будет доволен им Аллах, сказал: «(Однажды, когда) Пророк ﷺ находился в земном поклоне, а недалеко от него сидели люди из числа курайшитов, ‘Укъба ибн Аби Му‘айт принёс внутренности верблюда и положил их на спину Пророка ﷺ. Не успел он поднять голову, как пришла Фатыма, мир ей, убрала их с его спины и обратилась к Аллаху против тех, кто совершил это. Пророк ﷺ сказал: “О Аллах, покарай курайшитскую знать: Абу Джахля ибн Хишама, и ‘Утбу ибн Раби‘а, и Шейбу ибн Раби‘а, и Умаййу ибн Халяфа, или Убаййя ибн Халяфа!”». \n(‘Абдуллах) сказал: «Я видел их всех убитыми в день битвы при Бадре, и их тела были брошены в колодец, за исключением тела Умаййи ибн Убаййя, части его тела отделились, и он не был брошен в колодец»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3854</td></tr><tr><td>Arabic No</td><td>3854</td></tr><tr><td>Reference</td><td>Book 63 Hadith 79</td></tr></tbody></table></div>
 

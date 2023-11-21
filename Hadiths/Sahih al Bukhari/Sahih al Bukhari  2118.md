@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Aisha:Allah's Messenger (ﷺ) said, "An army will invade the Ka'ba and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Ash-Shabbah] telah menceritakan kepada kami [Ima'il bin Zakariya] dari [Muhammad bin Suqah] dari [Nafi' bin Jubair bin Muth'im] berkata, telah menceritakan kepada saya ['Aisyah radliallahu 'anha] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Akan ada sepasukan tentara yang akan menyerang Ka'bah. Ketika mereka sampai di Baida' di suatu bumi, mereka ditenggelamkan seluruhnya mulai orang yang pertama hingga yang terakhir". 'Aisyah radliallahu 'anha berkata; Aku bertanya: "Wahai Rasulullah, bagaimana mereka ditenggelamkan seluruhnya mulai orang yang pertama hingga yang terakhir sedangkan didalamnya ada pasukan perang mereka dan yang bukan dari golongan mereka (yang tidak punya maksud sama)?" Beliau menjawab: "Mereka akan ditenggelamkan seluruhnya mulai orang yang pertama hingga yang terakhir kemudian mereka akan dibangkitkan pada hari qiyamat sesuai dengan niat mereka masing-masing
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2118</td></tr><tr><td>Arabic No</td><td>2118</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(Однажды) Посланник Аллаха ﷺ сказал: “Двинется на Каабу войско, а когда (воины) достигнут пустынной части земли, она поглотит их (всех) от первого до последнего”. Я спросила: “О Посланник Аллаха, как же она поглотит их от первого до последнего, ведь будут среди них и люди простые, и те, кто к ним не относится?” Он сказал: “Они будут поглощены от первого до последнего, а потом воскрешены(, и воздастся им) по намерениям их”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2118</td></tr><tr><td>Arabic No</td><td>2118</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
 

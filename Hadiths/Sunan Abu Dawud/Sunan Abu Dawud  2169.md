@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Abbas: If a man has sexual intercourse (with menstruating 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abdus Salam bin Muthahhar], telah menceritakan kepada kami [Ja'far bin Sulaiman] dari [Ali bin Al Hakam Al Bunani] dari [Abu Al Hasan Al Hazari] dari [Miqsam] dari [Ibnu Abbas], ia berkata; apabila menggaulinya ketika sedang haid makan ia bersedekah satu dinar, dan apabila menggaulinya ketika telah terhentinya darah haid (sebelum bersuci) maka ia bersedekah setengah dinar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2169</td></tr><tr><td>Arabic No</td><td>2169</td></tr><tr><td>Reference</td><td>Book 12 Hadith 124</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сказал Ибн ‘Аббас, да будет доволен Аллах им и его отцом: «Если мужчина вступил с ней в половую близость в начале менструации, он обязан отдать динар, если же это случилось в конце менструации, он должен отдать пол динара»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2169</td></tr><tr><td>Arabic No</td><td>2169</td></tr><tr><td>Reference</td><td>Book 12 Hadith 124</td></tr></tbody></table></div>
 

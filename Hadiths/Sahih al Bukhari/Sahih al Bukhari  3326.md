@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "Allah created Adam, making him 60 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepadaku ['Abdullah bin Muhammad] telah bercerita kepada kami ['Abdur Razaq] dari [Ma'mar] dari [Hammam] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Dahulu Allah mencipta Adam 'alaihissalam yang tingginya enam puluh hasta (tangan kalian) kemudian berfirman: "Pergilah kamu dan berilah salam kepada mereka para malaikat dan dengarkanlah bagaimana mereka menjawab salam penghormatan kepadamu dan juga salam penghormatan dari anak keturunanmu". Maka Adam menyampaikan salam: "As-Salaamu 'alaikum" (salam sejahtera untuk kalian). Mereka menjawab; "as-salaamu 'alaika wa rahmatullah" (salam sejahtera dan rahmat Allah buat kamu) Mereka menambahkan kalimat wa rahmatullah". Nanti setiap orang yang masuk surga bentuknya seperti Adam alaihissalam dan manusia terus saja berkurang (tingginya) sampai sekarang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3326</td></tr><tr><td>Arabic No</td><td>3326</td></tr><tr><td>Reference</td><td>Book 60 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Аллах создал Адама, рост которого равнялся шестидесяти локтям, а потом Он сказал (ему): “Иди, поприветствуй этих ангелов и послушай, как они поприветствуют тебя, (и отныне это будет) твоим приветствием и приветствием твоих потомков”. И (Адам) сказал: “Мир вам /Ас-саляму ‘аляй-кум/”, они же ответили (ему): “Мир тебе и милость Аллаха /Ас-саляму ‘аляй-кя ва рахмату-Ллах/”, добавив (к его приветствию слова) “и милость Аллаха”. Каждый из тех, кто войдёт в Рай, будет напоминать (своим обличьем) Адама, что же касается людей, то (со времени сотворения Адама) и до сих пор они продолжают уменьшаться (в размерах)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3326</td></tr><tr><td>Arabic No</td><td>3326</td></tr><tr><td>Reference</td><td>Book 60 Hadith 1</td></tr></tbody></table></div>
 

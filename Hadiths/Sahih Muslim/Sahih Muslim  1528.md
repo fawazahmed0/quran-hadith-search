@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported that the Messenger of Allah (ﷺ) said:The parts of land de
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepada kami [Harun bin Ma'ruf] dan [Ishaq bin musa Al Anshari] keduanya berkata; telah menceritakan kepada kami [Anas bin Iyadl] telah menceritakan kepadaku [Ibnu Abu Dzubab] dalam periwayatan Harun dan dalam hadis Al Anshari, telah menceritakan kepadaku [Al Harits] dari [Abdurrahman bin Mihran], mantan budak [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Lokasi yang paling Allah cintai adalah masjid, dan Lokasi yang paling Allah benci adalah pasar
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1528</td></tr><tr><td>Arabic No</td><td>671</td></tr><tr><td>Reference</td><td>Book 5 Hadith 361</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Самыми любимыми (местами) Аллаха являются мечети, а самыми ненавистными рынки»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1528</td></tr><tr><td>Arabic No</td><td>671</td></tr><tr><td>Reference</td><td>Book 5 Hadith 361</td></tr></tbody></table></div>
 

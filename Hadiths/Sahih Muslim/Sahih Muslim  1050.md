@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), le Prophète de Dieu (paix et béné
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdullah bin Numair] telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Amru bin Utsman] telah menceritakan kepada kami [Musa bin Thalhah] telah menceritakan kepadaku [Utsman bin Abi al-'Ash ats-Tsaqafi] bahwa Nabi shallallahu'alaihiwasallam bersabda kepadanya, "Imamilah kaummu." Dia berkata, "Aku berkata, 'Wahai Rasulullah, kudapatkan pada diriku sesuatu yang kurang beres'. Beliau bersabda, 'Mendekatlah.' Lalu beliau mendudukkanku di hadapannya, kemudian meletakkan telapak tangannya pada di dadaku di antara dua puting susuku. Kemudian beliau bersabda, 'Berbaliklah.' Lalu beliau meletakkannya di punggungku di antara dua pundakku. Kemudian beliau bersabda, 'Imamilah umatmu, barangsiapa mengimami suatu kaum, hendaklah dia meringankannya, karena di antara mereka ada orang tua, dan di antara mereka ada orang sakit, dan di antara mereka ada orang lemah, dan di antara mereka ada orang yang memiliki hajat. Dan jika salah seorang di antara kalian shalat sendirian, maka hendaklah dia shalat sebagaimana dia kehendaki
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1050</td></tr><tr><td>Arabic No</td><td>468.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 212</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Усмана ибн Абуль-‘Аса о том, что Пророк ﷺ сказал ему: «Возглавляй людей своего племени в молитве».(‘Усман) сказал: «Я сказал: “О Посланник Аллаха, я что-то чувствую в душе!” Пророк ﷺ сказал: “Подойди”. И он усадил меня перед собой и затем поставил свою руку мне на середину груди, после чего сказал: “Повернись!”, и поставив её у меня на спине между лопатками, он сказал: “Возглавляй людей своего племени в молитве, а тот, кто возглавляет людей в молитве, пусть облегчает её, ибо, поистине, среди них могут быть старые, больные, слабые, и те, у кого есть какие-то дела. А когда кто-нибудь из вас будет молиться в одиночку, пусть совершает молитву (так долго,) как пожелает”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1050</td></tr><tr><td>Arabic No</td><td>468.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 212</td></tr></tbody></table></div>
 

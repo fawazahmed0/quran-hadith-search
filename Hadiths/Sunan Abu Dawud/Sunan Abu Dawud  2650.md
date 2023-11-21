@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Sufyan] dari ['Amr], telah menceritakan kepadanya [Al Hasan bin Muhammad bin Ali], telah mengabarkan kepadanya ['Ubaidullah bin Abu Rafi'], dan dahulu ia adalah sekretaris Ali bin Abu Thalib, ia berkata; saya telah mendengar [Ali] berkata; Rasulullah shallallahu 'alaihi wasallam telah mengirimku bersama dengan Az Zubair dan Al Miqdad, kemudian beliau berkata: "Pergilah kalian ke taman Khakh, sesungguhnya di sana terdapat seorang wanita yang membawa surat. Ambillah surat tersebut darinya." Kemudian kami pergi dan kuda kami berlari kencang hingga sampai taman tersebut. Tiba-tiba kami mendapati seorang wanita, lalu kami katakan; serahkan surat tersebut! Wanita tersebut berkata; aku tidak memiliki surat. Lalu aku katakan; sungguh engkau keluarkan surat tersebut atau kami akan melucuti pakaianmu! Kemudian wanita tersebut mengeluarkannya dari bawah sanggulnya. Kemudian kami membawanya kepada Nabi shallallahu 'alaihi wasallam, ternyata surat tersebut berasal dari Hathib bin Abu Balta'ah kepada beberapa orang musyriki, ia memberitahukan kepada mereka sebagian urusan Rasulullah shallallahu 'alaihi wasallam. Kemudian beliau berkata: "Apa ini wahai Hathib?" Hathib berkata; jangan terburu menghukumku wahai Rasulullah! Sesungguhnya dahulu aku adalah orang yang tinggal di antara orang-orang Quraisy dan bukan dari mereka, sementara orang-orang Quraisy memiliki kerabat di sana, yang dengan kekerabatan tersebut mereka melindungi keluarga mereka di Mekkah. Dan disaat aku tidak memiliki hal itu aku ingin untuk memberikan suatu pemberian yang dengannya mereka dapat melindungi kerabatku di sana. Demi Allah wahai Rasulullah, aku melakukan hal itu bukan lantaran aku kafir serta keluar dari agamaku. Kemudian Nabi shallallahu 'alaihi wasallam berkata: ia benar. Lalu Umar bin Al Khathab radliallahu 'anhu berkata; biarkan aku memenggal leher orang munafik ini wahai Rasulullah! Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Sesungguhnya ia telah mengikuti perang Badr, tahukah kamu sungguh Allah telah melihat kepada Ahli Badr dan berkata: "Lakukan sesuka kalian, sungguh Aku telah mengampuni dosa kalian." Telah menceritakan kepada kami [Wahb bin Baqiyyah], dari [Khalid] dari [Hushain], dari [Sa'd bin 'Ubaidah], dari [Abu Abdurrahman As Sulami], dari [Ali] dengan kisah ini. Ia berkata; Hathib pergi dan menulis surat kepada penduduk Mekkah bahwa Muhammad shallallahu 'alaihi wasallam telah berjalan menuju kepada kalian. Wahb berkata dalam hadits tersebut; wanita tersebut berkata; aku tidak memiliki surat. Kemudian kami memeriksanya dan kami tidak mendapatkan surat bersamanya. Kemudian Ali berkata; demi Dzat yang dengan dilakukan sumpah, sungguh aku akan membunuhmu atau engkau keluarkan surat tersebut. Dan Wahb menyebutkan hadits tersebut
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3007) Sahih Muslim (2494)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2650</td></tr><tr><td>Arabic No</td><td>2650</td></tr><tr><td>Reference</td><td>Book 15 Hadith 174</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3007) Sahih Muslim (2494)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2650</td></tr><tr><td>Arabic No</td><td>2650</td></tr><tr><td>Reference</td><td>Book 15 Hadith 174</td></tr></tbody></table></div>
 

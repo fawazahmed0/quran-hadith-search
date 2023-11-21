@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), l'Envoyé de Dieu (paix et 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Abdurrahman bin Sahm] telah menceritakan kepada kami [Abdullah bin Al Mubarak] telah mengkhabarkan kepada kami [Malik bin Anas]. Telah menceritakan kepada kami [Harun bin Sa'id Al Aili], teks hadits miliknya, telah menceritakan kepada kami [Abdullah bin Wahb] telah menceritakan kepadaku [Malik bin Anas] dari [Zaid bin Aslam] dari [Atha' bin Yasar] dari [Abu Sa'id Al Khudri] nabi Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya Allah bertanya kepada penduduk surga: 'Hai penduduk surga? ' mereka menjawab: Baik Rabb kami dan kebaikan ada ditanganMu.' Allah bertanya: 'Apa kalian ridha? ' mereka menjawab: 'Kenapa kami tidak ridha wahai Rabb, Kau telah memberi kami sesuatu yang tidak Kau berikan pada seorangpun dari makhlukMu.' Allah berfirman: 'Maukan kalian Aku beri yang lebih baik darinya? ' mereka bertanya: 'Wahai Rabb, apa yang lebih darinya? ' Allah berfirman: 'Aku halalkan keridhaanKu untuk kalian, Aku tidak akan murka pada kalian setelah itu selamanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7140</td></tr><tr><td>Arabic No</td><td>2829</td></tr><tr><td>Reference</td><td>Book 53 Hadith 10</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7140</td></tr><tr><td>Arabic No</td><td>2829</td></tr><tr><td>Reference</td><td>Book 53 Hadith 10</td></tr></tbody></table></div>
 

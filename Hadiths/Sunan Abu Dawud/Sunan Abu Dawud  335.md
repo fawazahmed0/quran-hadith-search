@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Abu Qais, the freed slave of 'Amr b. al-'As, said 'Amr b. al-'As was in a battle
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>335</td></tr><tr><td>Arabic No</td><td>335</td></tr><tr><td>Reference</td><td>Book 1 Hadith 335</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Кайса, вольноотпущенника ‘Амра ибн аль-‘Аса о том, что ‘Амр ибн аль-‘Ас был во (главе) отряда, и далее он передал похожий хадис. Он сказал: «И он помыл подмышки, совершил омовение, которое совершается для молитвы /вудуъ/, после чего помолился с ними». И он передал такой же (хадис) не упомянув о таяммуме.Абу Дауд сказал: «Эта история передается также и от Ауза‘и со слов Хасана ибн ‘Атиййа, который сказал в ней: “И он совершил таяммум”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>335</td></tr><tr><td>Arabic No</td><td>335</td></tr><tr><td>Reference</td><td>Book 1 Hadith 335</td></tr></tbody></table></div>
 

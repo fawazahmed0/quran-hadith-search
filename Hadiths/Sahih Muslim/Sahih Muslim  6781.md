@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), le Prophète (paix et bén�
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Suwaid bin Sa'id] telah menceritakan kepada kami [Hafsh bin Maisarah] telah menceritakan kepadaku [Zaid bin Aslam] dari ['Atha bin Yasar] dari [Abu Sa'id Al Khudri] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sungguh, kalian benar-benar akan mengikuti kebiasaan orang-orang sebelum kalian sejengkal demi sejengkal dan sehasta demi sehasta, sehingga sekiranya mereka masuk ke dalam lubang biawak pun kalian pasti kalian akan mengikuti mereka." Kami bertanya; "Wahai Rasulullah, apakah mereka itu yahudi dan Nasrani?" Beliau menjawab: "Siapa lagi kalau bukan mereka." Dan telah menceritakan kepada kami [beberapa orang] dari sahabat kami dari [Sa'id bin Abu Maryam] Telah mengabarkan kepada kami [Abu Gassan] yaitu Muhammad bin Mutharrif dari [Zaid bin Aslam] melalui sanad ini dengan Hadits yang serupa. Abu Ishaq Ibrahim bin Muhammad berkata; Telah menceritakan kepada kami Muhammad bin Yahya Telah menceritakan kepada kami Ibnu Abu Maryam Telah menceritakan kepada kami Abu Gassan Telah menceritakan kepada kami Zaid bin Aslam dari Atha' bin Yasar -lalu dia menyebutkan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6781</td></tr><tr><td>Arabic No</td><td>2669.01</td></tr><tr><td>Reference</td><td>Book 47 Hadith 7</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6781</td></tr><tr><td>Arabic No</td><td>2669.01</td></tr><tr><td>Reference</td><td>Book 47 Hadith 7</td></tr></tbody></table></div>
 

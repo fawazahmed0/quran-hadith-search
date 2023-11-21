@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "If Allah loves a person, He calls 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Muhammad bin Salam] telah mengabarkan kepada kami [Makhlad] telah mengabarkan kepada kami [Ibnu Juraij] berkata telah mengabarkan kepadaku [Musa bin 'Uqbah] dari [Nafi'] berkata, [Abu Hurairah radliallahu 'anhu] berkata dari Nabi shallallahu 'alaihi wasallam. Dan hadits ini dikuatkan periwayatannya oleh [Abu 'Ashim] dari [Ibnu Juraij] berkata telah mengabarkan kepadaku [Musa bin 'Uqbah] dari [Nafi'] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Apabila Allah mencintai seorang hamba-Nya, Dia memanggil Jibril: "Sesungguhnya Allah mencintai si anu maka cintailah dia". Maka jibril mencintai hamba itu lalu Jibril berseru kepada penduduk langit;; "Sesungguhnya Allah mencintai si anu, maka cintailah dia". Maka seluruh penduduk langit mencintai hamba itu, kemudian orang itu pun dijadikan bisa diterima oleh penduduk bumi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3209</td></tr><tr><td>Arabic No</td><td>3209</td></tr><tr><td>Reference</td><td>Book 59 Hadith 20</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если Аллах испытывает любовь к рабу, Он обращается к Джибрилю (и говорит): “Поистине, Аллах любит такого-то, полюби же его и ты”, (после чего) Джибриль (начинает) любить его, и Джибриль обращается к обитателям небес (со словами): “Поистине, Аллах любит такого-то, полюбите же его и вы”, и обитатели небес (начинают) любить его, а потом ему оказывают хороший приём и на земле»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3209</td></tr><tr><td>Arabic No</td><td>3209</td></tr><tr><td>Reference</td><td>Book 59 Hadith 20</td></tr></tbody></table></div>
 

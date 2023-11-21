@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ The above tradition has been narrated on the authority of Khalid al- Juhani who 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Ar Rabi' Az Zahrani] telah menceritakan kepada kami [Yazid] -yaitu Ibnu Zurai'- telah menceritakan kepada kami [Husain Al Mu'allim] telah menceritakan kepada kami [Yahya bin Abu Katsir] dari [Abu Salamah bin Abdurrahman] dari [Busr bin Sa'id] dari [Zaid bin Khalid Al Juhani] dia berkata, "Nabi Allah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mempersiapkan perlengkapan seseorang yang hendak berperang berarti dia ikut berperang, dan barangsiapa mengurusi keluarga orang yang berperang berarti dia telah ikut berperang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4903</td></tr><tr><td>Arabic No</td><td>1895.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 199</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4903</td></tr><tr><td>Arabic No</td><td>1895.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 199</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Al-Bara:Allah's Messenger (ﷺ) was the handsomest of all the people, a
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ahmad bin Sa'id Abu 'Abdullah] telah bercerita kepada kami [Ishaq bin Manshur] telah bercerita kepada kami [Ibrahim bin Yusuf] dari [bapaknya] dari [Abu Ishaq] berkata; Aku mendengar [Al Bara'] berkata; "Rasulullah shallallahu 'alaihi wasallam adalah manusia yang paling tampan wajahnya, paling baik akhlaqnya. Beliau tidak berbadan terlalu tinggi dan juga tidak pendek
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3549</td></tr><tr><td>Arabic No</td><td>3549</td></tr><tr><td>Reference</td><td>Book 61 Hadith 58</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что аль-Бара, да будет доволен им Аллах, сказал: «Из всех людей самое приятное лицо было у Посланника Аллаха ﷺ, который отличался наилучшим нравом и не был ни слишком высок, ни мал (ростом)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3549</td></tr><tr><td>Arabic No</td><td>3549</td></tr><tr><td>Reference</td><td>Book 61 Hadith 58</td></tr></tbody></table></div>
 

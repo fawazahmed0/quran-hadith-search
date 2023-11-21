@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Anas:It is the Prophet's tradition that if someone marries a virgin and
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yusuf bin Rasyid] Telah menceritakan kepada kami [Abu Usamah] dari [Sufyan] Telah menceritakan kepada kami [Ayyub] dan [Khalid] dari [Abu Qilabah] dari [Anas] ia berkata; Termasuk perbuatan sunnah apabilah seseorang menikahi seorang gadis adalah bermukim di tempatnya selama tujuh hari, baru kemudian ia membagi hari-harinya. Dan bila ia menikahi seorang janda atas gadis, maka ia boleh tinggal di tempat wanita itu selama tiga hari, baru kemudian ia membagi-bagi harinya." Abu Qilabah berkata; Jika aku mau, niscaya aku akan mengatakan bahwa Anas telah memarfu'kannya kepada Nabi shallallahu 'alaihi wasallam. [Abdurrazzaq] berkata; Telah mengabarkan kepada kami [Sufyan] dari [Ayyub] dan [Khalid] ia berkata; Khalid berkata; Jika aku mau, aku akan mengatakan; Ia memarfu'kannya kepada Nabi shallallahu 'alaihi wasallam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5214</td></tr><tr><td>Arabic No</td><td>5214</td></tr><tr><td>Reference</td><td>Book 67 Hadith 147</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Анас ибн Малик, да будет доволен им Аллах, рассказывал: «Если человек берёт себе в жёны девственницу [второй, третьей или четвёртой женой], то Сунной является находиться у неё семь ночей, а затем уже делить [справедливо другие ночи между всеми жёнами]. Если же он берёт в жёны женщину, побывавшую замужем, то он находится у неё три ночи, а затем делит [другие ночи между всеми жёнами]». \nАбу Кыляба [таби‘ин] сказал: «Если хочешь, то я могу сказать, что Анас передал слова Пророка ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5214</td></tr><tr><td>Arabic No</td><td>5214</td></tr><tr><td>Reference</td><td>Book 67 Hadith 147</td></tr></tbody></table></div>
 

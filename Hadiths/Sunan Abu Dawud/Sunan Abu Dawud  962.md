@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ It was reported from Ibrahim that he said:"When the Prophet (ﷺ) would sit in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hannad bin As Sarri] dari [Waki'] dari [Sufyan] dari [Az Zubair bin 'Adi] dari [Ibrahim] dia berkata; "Apabila Nabi shallallahu 'alaihi wasallam duduk pada waktu shalat, maka telapak kaki kirinya beliau duduki hingga bagian atas kakinya menjadi hitam
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 2 Hadith 573</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Ибрахима, что Пророк ﷺ садясь во время молитвы, простирал левую ногу так, что внешняя часть его ступни потемнела
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 2 Hadith 573</td></tr></tbody></table></div>
 

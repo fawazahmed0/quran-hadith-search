@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Hisham from his father:In the year of the conquest of Mecca, the Prophe
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Wuhaib] telah menceritakan kepada kami [Hisyam] dari [bapaknya]; bahwa Nabi shallallahu 'alaihi wasallam memasuki (kota Makkah) pada tahun pembebasan dari Kada'. Dan 'Urwah memasukinya melalui keduanya dan kebanyakan dia memasukinya dari Kada' karena ini tempat yang paling dekat dengan rumahnya. Abu 'Abdullah Al Bukhariy berkata: "Kuda' dan Kadan adalah dua tempat yang berbeda
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1581</td></tr><tr><td>Arabic No</td><td>1581</td></tr><tr><td>Reference</td><td>Book 25 Hadith 67</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается от Хишама, что его отец сказал: «В год покорения Мекки Пророк ﷺ вошёл через Кяда. А ‘Урва входил как с Кяда, так и с Куда, но чаще входил со стороны Када, потому что она находилась ближе к его дому»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1581</td></tr><tr><td>Arabic No</td><td>1581</td></tr><tr><td>Reference</td><td>Book 25 Hadith 67</td></tr></tbody></table></div>
 

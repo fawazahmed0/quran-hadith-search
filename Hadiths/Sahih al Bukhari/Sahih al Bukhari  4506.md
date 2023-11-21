@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Nafi':Ibn 'Umar recited: "They had a choice, either fast or feed a poor
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ayyas bin Al Walid] Telah menceritakan kepada kami [Abdul A'la] Telah menceritakan kepada kami [Ubaidullah] dari [Nafi] dari [Ibnu Umar radliallahu 'anhuma] bahwa dia membaca ayat: 'wajib membayar fidyah dengan memberi maka kepada orang miskin'. Ibnu Umar berkata; Ayat ini telah dimanshukh
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4506</td></tr><tr><td>Arabic No</td><td>4506</td></tr><tr><td>Reference</td><td>Book 65 Hadith 33</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Нафи‘а, что, прочитав аят, в котором говорится: «…следует в искупление накормить бедняка», Ибн ’Умар, да будет доволен Аллах им и его отцом, сказал: «Этот аят отменённый»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4506</td></tr><tr><td>Arabic No</td><td>4506</td></tr><tr><td>Reference</td><td>Book 65 Hadith 33</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ibn 'Abbas said:Duba'ah, daughter of al-Zubair bin 'Abd al-Muttalib, came to the
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami ['Abbad bin Al 'Awwam] dari [Hilal bin Khabbab] dari [Ikrimah] dari [Ibnu Abbas] bahwa Dhuba'ah binti Az Zubair bin Abdul Muththalib, ia datang kepada Rasulullah shallAllahu wa'alaihi wa sallam dan berkata; wahai Rasulullah, aku inggin berhaji, apakah boleh aku mengucapkan syarat? Beliau bersabda: "Ya." Ia berkata; bagaimana saya mengucapkan? Beliau bersabda: "Ucapkan; LABBAIKALLAAHUMMA LABBAIK WA MAHALLII MINAL ARDHI HAITSU HABASTANII (Ya Allah, aku memenuhi seruanMu, dan tempatku adalah dimana Engkau menahanku)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1776</td></tr><tr><td>Arabic No</td><td>1776</td></tr><tr><td>Reference</td><td>Book 11 Hadith 56</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Дуба‘а бинт аз-Зубайр ибн ‘Абдуль-Мутталиб пришла к Посланнику Аллаха ﷺ и сказала: «О Посланник Аллаха! Я хочу совершить хадж. Мне сделать оговорку?» Он сказал: «Да». Она спросила: «Что мне сказать?» Он сказал: «Скажи: “Вот я перед Тобой, о Аллах, вот я перед Тобой, и я сниму ихрам там, где Ты задержишь меня”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1776</td></tr><tr><td>Arabic No</td><td>1776</td></tr><tr><td>Reference</td><td>Book 11 Hadith 56</td></tr></tbody></table></div>
 

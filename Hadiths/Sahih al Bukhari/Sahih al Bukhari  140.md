@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Ata' bin Yasar:Ibn 'Abbas performed ablution and washed his face (in t
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdurrahman] berkata, telah mengabarkan kepada kami [Abu Salamah Al Khaza'i Manshur bin Salamah] berkata, telah mengabarkan kepada kami [Ibnu Bilal] -yaitu Sulaiman- dari [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Ibnu 'Abbas], bahwa dia berwudlu', ia mencuci wajahnya, lalu mengambil air satu cidukan tangan dan menggunakannya untuk berkumur dan istintsaq, lalu ia kembali mengambil satu cidukan tangannya dan menjadikannya begini -menuangkan pada tangannya yang lain-, lalu dengan kedua tangannya ia membasuh wajahnya, lalu mengambil air satu cidukan dan membasuh tangan kanannya, lalu kembali mengambil air satu cidukan dan membasuh tangannya yang sebelah kiri. Kemudian mengusap kepala, lalu mengambil air satu cidukan dan menyela-nyela kaki kanannya hingga membasuhnya, lalu mengambil air satu cidukan lagi dan membasuh kaki kirinya. Setelah itu ia berkata, "Seperti inilah aku lihat Rasulullah shallallahu 'alaihi wasallam berwudlu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>140</td></tr><tr><td>Arabic No</td><td>140</td></tr><tr><td>Reference</td><td>Book 4 Hadith 6</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов ‘Атаъ ибн Ясара, что (однажды) Ибн ‘Аббас, да будет доволен Аллах ими обоими, совершил омовение, омыв своё лицо (следующим образом): он набрал (одной рукой) пригоршню воды, прополоскал рот и промыл нос, затем набрал пригоршню воды уже двумя руками и омыл лицо. Затем он набрал пригоршню воды и омыл правое предплечье, затем снова набрал пригоршню воды и омыл левое предплечье, затем провёл (влажными руками) по голове, затем набрал пригоршню воды и стал поливать свою правую ногу (до щиколотки), пока не омыл её, затем набрал пригоршню воды и омыл ею левую ногу; (сделав же это,) он сказал: «Я видел, что так совершал омовение Посланник Аллаха ﷺ»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>140</td></tr><tr><td>Arabic No</td><td>140</td></tr><tr><td>Reference</td><td>Book 4 Hadith 6</td></tr></tbody></table></div>
 

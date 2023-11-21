@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:The supplication of the s
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Abu Ath Thahir] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Mu'awiyah bin Shalih] dari [Rabi'ah bin Yazid] dari [Abu Idris Al Khaulani] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Doa seseorang senantiasa akan dikabulkan selama ia tidak berdoa untuk perbuatan dosa ataupun untuk memutuskan tali silaturahim dan tidak tergesa-gesa." Seorang sahabat bertanya; 'Ya Rasulullah, apakah yang dimaksud dengan tergesa-gesa? ' Rasulullah shallallahu 'alaihi wasallam menjawab: 'Yang dimaksud dengan tergesa-gesa adalah apabila orang yang berdoa itu mengatakan; 'Aku telah berdoa dan terus berdoa tetapi belum juga dikabulkan'. Setelah itu, ia merasa putus asa dan tidak pernah berdoa lagi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6936</td></tr><tr><td>Arabic No</td><td>2735.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 127</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6936</td></tr><tr><td>Arabic No</td><td>2735.03</td></tr><tr><td>Reference</td><td>Book 48 Hadith 127</td></tr></tbody></table></div>
 

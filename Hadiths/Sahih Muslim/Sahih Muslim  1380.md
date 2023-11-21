@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Shihab reported:Umar b. 'Abd al-'Aziz one day deferred the prayer. 'Urwa b. 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah mengabarkan kepada kami [Yahya bin Yahya At Tamimi] dia berkata; aku pernah membacakan dihadapan [Malik] dari [Ibnu Syihab] bahwa suatu hari Umar bin Abdul Aziz mengakhirkan salah satu shalatnya, kemudian 'Urwah bin Zubair menemuinya dan mengabarkan kepadanya bahwa suatu hari Mughirah bin Syu'bah pernah mengakhirkan salah satu shalatnya ketika masih berada di Kufah, kemudian [Abu Mas'ud Al Anshari] menemuinya seraya berkata; "Shalat apa ini wahai Mughirah? -maksudnya shalat tidak tepat waktunya- bukankah engkau tahu bahwa Jibril pernah turun lantas shalat dan Rasululah shallallahu 'alaihi wasallam pun shalat bersamanya, kemudian Jibril shalat dan Rasulullah shallallahu 'alaihi wasallam pun shalat bersamanya, kemudian Jibril shalat dan Rasulullah shallallahu 'alaihi wasallam pun shalat bersamanya, kemudian Jibril shalat dan Rasulullah shallallahu 'alaihi wasallam shalat bersamanya, kemudian Jibril shalat dan Rasulullah shallallahu 'alaihi wasallam shalat bersamanya, kemudian beliau bersabda: "Dengan inilah aku diperintah." Setelah itu Umar berkata kepada 'Urwah; "Maka cermatilah apa yang kamu katakan wahai Urwah, bukankah Jibril 'alaihissalam yang mengiqamati waktu shalat untuk Rasulullah shallallahu 'alaihi wasallam?" Jawab ['Urwah]; "Begitulah [Basyir bin Abu Mas'ud] menceritakan dari [Ayahnya]. ['Urwah] juga berkata; ['Aisyah isteri Nabi] shallallahu 'alaihi wasallam telah menceritakan kepadaku, bahwa Nabi shallallahu 'alaihi wasallam pernah shalat ashar di kamarnya ketika sinar matahari belum nampak di kamarnya." (maksudnya mengawalkan shalat ashar sehingga sinar matahari belum menerobos kamarnya karena masih agak tinggi -pent)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1380</td></tr><tr><td>Arabic No</td><td>610.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) Сообщается со слов Ибн Шихаба о том, что однажды, когда ‘Умар ибн ‘Абдуль’азиз задержал молитву, к нему зашёл ‘Урва ибн аз-Зубайр и сообщил ему, что однажды, когда аль-Мугыра ибн Шу’ба, находившийся в то время в Куфе, совершил молитву позже (начала установленного времени), к нему явился Абу Мас‘уд аль-Ансари, и сказал: «О Мугыра, что же это?! Разве ты не знаешь, что, спустившись (на землю), Джибриль совершил молитву, и Посланник Аллаха ﷺ совершил молитву, потом он (снова) совершил молитву, и Посланник Аллаха ﷺ совершил молитву, потом он (снова) совершил молитву, и Посланник Аллаха ﷺ совершил молитву, потом он (снова) совершил молитву, и Посланник Аллаха ﷺ совершил молитву, потом он (снова) совершил молитву, и Посланник Аллаха ﷺ совершил молитву, а потом он сказал: “Это было велено мне”».‘Умар (ибн ‘Абдуль’азиз) сказал ‘Урве: «Подумай о том, что ты рассказываешь, о ‘Урва! Точно ли Джибриль был тем, кто установил для Посланника Аллаха время молитвы?» ‘Урва ответил: «Так об этом рассказывал Башир ибн Аби Maс‘уд со слов своего отца»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1380</td></tr><tr><td>Arabic No</td><td>610.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 214</td></tr></tbody></table></div>
 

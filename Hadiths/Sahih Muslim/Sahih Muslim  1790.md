@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Makhrama b. Sulaiman narrated it with the same chain of narrators and he made th
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1790</td></tr><tr><td>Arabic No</td><td>763.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 218</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса с другим хадиса он добавил: «…затем он подошёл к бурдюку с водой, почистил зубы сиваком и совершил омовение должным образом, используя лишь небольшое количество воды. Затем он разбудил меня, и я встал». Далее подобно предыдущему хадису
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1790</td></tr><tr><td>Arabic No</td><td>763.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 218</td></tr></tbody></table></div>
 

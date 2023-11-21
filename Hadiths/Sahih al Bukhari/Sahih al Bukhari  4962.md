@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:Allah's Messenger (ﷺ) said, " Horses are kept for one of 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Isma'il bin Abdullah] Telah menceritakan kepada kami [Malik] dari [Zaid bin Aslam] dari [Abu Shalih Asy Syamman] dari [Abu Hurairah] radliallahu 'anhu, bahwasanya; Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang memiliki kuda itu ada tiga kelompok. Yaitu; Bagi seorang yang dengannya ia mendapatkan ganjaran pahala kebaikan. Kedua, seorang yang kudanya sebagai penjaga kehormatan (solusi, penyelesaian). Sedangkan yang terakhir, adalah seorang yang memiliki kuda, namun yang ia dapatkan hanyalah dosa. Bagi yang mendapatkan pahala adalah seseorang yang menggunakannya di jalan Allah, lalu ia meletakkannya di dalam pinggiran kolam atau kebun, maka apa yang ia makan atau minum di sutu adalah bernilai kebaikan untuknya. Atau ia meninggalkannya ditempat, lalu kuda itu pun menaiki satu bukit atau dua bukit, maka bekas kaki atau kotorannya adalah bernilai kebaikan untuknya. Dan bila kuda itu melewati aliran sungai lalu meminum air darinya, meskipun pemiliknya tidak bermaksud untuk memberinya minum, maka itu merupakan kebaikan baginya. Karena itulah, pemiliknya akan mendapatkan kebaikan yang banyak. Kemudian seorang yang memiliki kuda sebagai alat untuk mencari kekayaan dan menjaga kehormatan diri, namun ia juga tidak melupakan hal Allah pada leher dan punggung kudanya, maka kuda itu akan menjadi penyelesai kebutuhannya. Kemudian yang ketiga, adalah seorang yang memelihara kuda dengan maksud kebanggaan, dan riya', maka karena itulah ia mendapatkan dosa." Kemudian Rasulullah shallallahu 'alaihi wasallam ditanya tentang Himar. Maka beliau pun bersabda: "Allah tidak menurunkan ayat berkenaan dengannya kecuali ayat yang maknanya luas dan mencakup, 'FAMAN YA'MAL MITSQAALA DZARRAH KHAIRAN YARAH, WA MAN YA'MAL MITSQAALA DZARRATIN SYARRAN YARAH (Barangsiapa yang melakukan kebaikan sekecil biji Dzarrah, maka ia akan melihat pahalanya, dan siapa yang melakukan keburukan sekecil biji Dzarrah, niscaya juga akan melihat dampak buruknya)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4962</td></tr><tr><td>Arabic No</td><td>4962</td></tr><tr><td>Reference</td><td>Book 65 Hadith 484</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Коней (держат) для трёх (целей): (За содержание) лошадей один (человек может получить) награду, для другого они (могут стать) защитой, а для третьего — бременем. Что касается того, кто получит (за них) награду, то им является человек, который содержит лошадей на пути Аллаха, привязывая их (длинными верёвками) на пастбище или в саду, а (количество) добрых дел, которые запишутся такому человеку, будет соответствовать длине тех верёвок(, за которые он станет привязывать лошадей) на пастбище или в саду. Если оборвут они свою привязь и перейдут через один или два холма, то их владельцу (запишется) столько добрых дел, сколько следов и навоза они оставят, если же они пройдут мимо реки и напьются из неё, это также будет записано ему как добрые дела, даже если он и не намеревался поить (их), и за это он получит награду. И такая лошадь будет приносить такому человеку награду. (Другим) человеком является тот, кто содержит лошадей, обходясь тем, что он имеет, воздерживаясь (от обращений с просьбами к другим) и не забывая (отдавать) должное Аллаху в том, что касается их шей и спин. Для такого они послужат защитой. (Третьим является такой) человек, который держит лошадей только из гордости, напоказ другим или для борьбы: для такого они станут бременем». А затем Посланнику Аллаха ﷺ задали вопрос об ослах(, на что) он (дал такой ответ): «Мне не было ниспослано о них ничего (особого), если не считать этого всеобъемлющего и исключительного аята, (в котором сказано): “Тот, кто сделал добро весом в мельчайшую частицу, увидит его. И тот, кто сделал зло весом в мельчайшую частицу, увидит его”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4962</td></tr><tr><td>Arabic No</td><td>4962</td></tr><tr><td>Reference</td><td>Book 65 Hadith 484</td></tr></tbody></table></div>
 

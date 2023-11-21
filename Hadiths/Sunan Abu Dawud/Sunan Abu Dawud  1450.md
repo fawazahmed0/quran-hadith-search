@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated AbuHurayrah: The Prophet (ﷺ) said: May Allah show mercy to a man who 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada Kami [Muhammad bin Basysyar] telah menceritakan kepada Kami [Yahya] dari [Ibnu 'Ajlan], telah menceritakan kepada Kami [Al Qa'qa' bin Hakim] dari [Abu Shalih] dari [Abu Hurairah] ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Semoga Allah merahmati orang yang bangun malam hari kemudian melakukan shalat dan membangunkan isterinya lalu iapun melakukan shalat, apabila isterinya enggan maka ia memperciki wajahnya dengan air, dan semoga Allah merahmati seorang wanita yang bangun malam hari kemudian melakukan shalat, dan membangunkan suaminya. Apabila suaminya enggan maka ia memerciki wajahnya dengan air
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1450</td></tr><tr><td>Arabic No</td><td>1450</td></tr><tr><td>Reference</td><td>Book 8 Hadith 35</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Абу Хурайры, да будет доволен им Аллах, что однажды Посланник Аллаха ﷺ сказал: «Да помилует Аллах человека, который поднимается ночью, совершает молитву и будит свою жену, чтобы она помолилась, а если она отказывается вставать, брызгает ей в лицо водой! Да помилует Аллах женщину, которая поднимается ночью, совершает молитву и будит своего мужа, а если он отказывается вставать, брызгает ему в лицо водой!»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1450</td></tr><tr><td>Arabic No</td><td>1450</td></tr><tr><td>Reference</td><td>Book 8 Hadith 35</td></tr></tbody></table></div>
 

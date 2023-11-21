@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Moûsa (que Dieu l'agrée), l'Envoyé de Dieu (paix et bénédicti
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin 'Abdullah bin Numair]; Telah menceritakan kepada kami [Abu Mu'awiyah]; Telah menceritakan kepada kami [Buraid bin Abu Burdah] dari [Bapaknya] dari [Abu Musa] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya Allah Subhanahu wa Ta 'ala akan menangguhkan siksaan bagi orang yang berbuat zhalim. Apabila Allah telah menghukumnya, maka Dia tidak akan pernah melepaskannya." Kemudian Rasulullah membaca ayat yang berbunyi: 'Begitulah adzab Tuhanmu, apabila Dia mengadzab penduduk negeri-negeri yang berbuat zhalim. Sesungguhnya adzab-Nya itu sangat pedih dan keras.' (Qs. Huud (11):
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6581</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 45 Hadith 79</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6581</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 45 Hadith 79</td></tr></tbody></table></div>
 

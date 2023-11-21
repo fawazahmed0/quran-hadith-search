@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu Huraira reported Allah's Messenger (ﷺ) as saying:There was an argument bet
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Zuhair bin Harb] dan [Ibnu Hatim] keduanya berkata; Telah menceritakan kepada kami [Ya'qub bin Ibrahim]; Telah menceritakan kepada kami [Bapakku] dari [Ibnu Syihab] dari [Humaid bin 'Abdur Rahman] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: Adam dan Musa alaihima salam pernah melakukan perdebatan. Musa berkata; 'Kamulah Adam yang karena kesalahanmu kamu dikeluarkan dari Surga. Adam menjawab; 'Kamulah Musa yang telah dipilih Allah dengan risalah dan firman-Nya. Tapi kenapa kamu mencelaku karena suatu perbuatan yang telah ditetapkan Allah Azza wa Jalla. Rasulullah shallallahu 'alaihi wasallam bersabda: 'Akhirnya Adam dapat memberikan jawaban kepada Musa.' Telah menceritakan kepadaku ['Amru An Naqid]; Telah menceritakan kepada kami [Ayyub bin An Najjar Al Yamami]; Telah menceritakan kepada kami [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam; Demikian juga diriwayatkan dari jalur lainnya, Dan telah menceritakan kepada kami [Ibnu Rafi']; Telah menceritakan kepada kami ['Abdur Razzaq]; Telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam dengan Hadits yang semakna. Dan telah menceritakan kepada kami [Muhammad bin Minhal Adh Dharir]; Telah menceritakan kepada kami [Yazid bin Zurai']; Telah menceritakan kepada kami [Hisyam bin Hassan] dari [Muhammad bin Sirin] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam dengan Hadits yang serupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6745</td></tr><tr><td>Arabic No</td><td>2652.04</td></tr><tr><td>Reference</td><td>Book 46 Hadith 23</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6745</td></tr><tr><td>Arabic No</td><td>2652.04</td></tr><tr><td>Reference</td><td>Book 46 Hadith 23</td></tr></tbody></table></div>
 

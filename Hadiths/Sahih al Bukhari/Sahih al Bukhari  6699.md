@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Abbas:A man came to the Prophet (ﷺ) and said to him, "My sister 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Adam] telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] mengatakan, aku mendengar [Sa'id bin Jubair] dari [Ibnu 'Abbas] radliallahu 'anhuma mengatakan; Seorang laki-laki mendatangi Nabi shallallahu 'alaihi wasallam dan berujar; "Saudariku bernadzar untuk menunaikan haji, namun terburu meninggal." Maka Nabi shallallahu 'alaihi wasallam bertanya: "Kalaulah dia mempunyai hutang, apakah kamu berkewajiban melunasinya?" 'iya' jawabnya. Nabi shallallahu 'alaihi wasallam melanjutkan: "maka Lunasilah (hutang) kepada Allah, karena ia lebih berhak untuk dipenuhi
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6699</td></tr><tr><td>Arabic No</td><td>6699</td></tr><tr><td>Reference</td><td>Book 83 Hadith 76</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что (‘Абдуллах) ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «(Однажды) к Пророку ﷺ пришёл какой-то человек и сказал ему: “Поистине, моя сестра дала обет совершить хадж, но она умерла”. Пророк ﷺ сказал: “Если бы у неё остался долг, разве ты не заплатила бы его?” Он сказал: “Да”. (Тогда Пророк ﷺ) сказал: “Платите же долги Аллаху, ибо Он больше всех достоин (того, чтобы с Ним) рассчитывались сполна!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6699</td></tr><tr><td>Arabic No</td><td>6699</td></tr><tr><td>Reference</td><td>Book 83 Hadith 76</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Sa'id said:Umar passed by Hassan when he was reciting verses in the mosque. He l
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ibnu Abu Khalaf] dan [Ahmad bin Abdah] secara makna, keduanya berkata; telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Sa'id] ia berkata, "Umar melewati [Hassan] yang waktu itu sedang berada di dalam masjid sambil melantunkan syair, umar kemudian melihat ke arahnya dengan tatapan mata yang tajam. Hassan lalu berkata, "Aku pernah membaca syair, sementara di sana ada orang yang lebih baik darimu." Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Sa'id Ibnul Musayyab] dari [Abu Hurairah] dengan makna yang sama. Namun ia memberi tambahan, "Umar takut jika Hassan membantahnya dengan rekomendasi dari Rasulullah shallallahu 'alaihi wasallam, maka ia pun membolehkannya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5013</td></tr><tr><td>Arabic No</td><td>5013</td></tr><tr><td>Reference</td><td>Book 43 Hadith 241</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5013</td></tr><tr><td>Arabic No</td><td>5013</td></tr><tr><td>Reference</td><td>Book 43 Hadith 241</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après 'Abdoullâh Ibn Qays (que Dieu l'agrée), le Prophète (paix et bénéd
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ubaidullah bin Sa'id] telah menceritakan kepada kami [Abu Usamah] dari [Al A'masy] telah menceritakan kepada kami [Sa'id bin Jubair] dari [Abu Abdurrahman As Sulami] berkata: [Abdullah bin Qais] berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: " Tidak ada siapa pun yang lebih bersabar atas gangguan yang ia dengar melebihi Allah Ta'ala, mereka membuat tandingan untuknya dan menganggapNya punya anak, meski demikian Ia memberi mereka rizki, memaafkan dan memberi mereka
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7082</td></tr><tr><td>Arabic No</td><td>2804.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 36</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7082</td></tr><tr><td>Arabic No</td><td>2804.03</td></tr><tr><td>Reference</td><td>Book 52 Hadith 36</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Nashr bin Ali] telah mengabarkan kepada kami [Jarir]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami [Jarir] dan ini adalah hadits Yusuf dari [Al Hasan bin 'Ubaidullah] dari [Ibrahim bin Suwaid] dari ['Alqamah] dia berkata; [Abdullah] berkata; "Rasulullah shallallahu 'alaihi wasallam shalat lima raka'at bersama kami, setelah beliau selesai shalat, orang-orang orang-orang pada berbisik di antara mereka, maka beliau bersabda: "Ada apa dengan kalian?" mereka berkata; "Wahai Rasulullah, apakah (raka'at) shalat di tambah?" beliau menjawab: "Tidak." Mereka berkata; "Sesungguhnya anda shalat lima raka'at1." Setelah selesai, beliau melakukan dua kali sujud, lalu salam. Setelah itu beliau bersabda: "Sesungguhnya aku adalah manusia biasa yang terkadang lupa sebagaimana kalian lupa
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (572)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1022</td></tr><tr><td>Arabic No</td><td>1022</td></tr><tr><td>Reference</td><td>Book 2 Hadith 633</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха, да будет доволен им Аллах: «Однажды Посланник Аллаха ﷺ совершил с нами пять рак‘атов (вместо четырёх), после чего люди начали перешёптываться. Заметив это, Посланник Аллаха ﷺа, спросил: “Что с вами случилось?” Ему сказали: “О Посланник Аллаха, молитва стала длиннее?” Он ответил: “Нет”. Ему сказали: “Но ведь ты совершил пять рак‘атов”. (Посланник Аллаха ﷺ) повернулся, совершил два земных поклона и произнёс слова таслима, после чего сказал: “Поистине, я тоже человек, и забываю подобно вам”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (572)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1022</td></tr><tr><td>Arabic No</td><td>1022</td></tr><tr><td>Reference</td><td>Book 2 Hadith 633</td></tr></tbody></table></div>
 

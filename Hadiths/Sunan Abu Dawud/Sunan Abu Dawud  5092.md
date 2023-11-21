@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Qatadah: When the Prophet of Allah (ﷺ) saw the new moon, he said: "a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Aban] berkata, telah menceritakan kepada kami [Qatadah] Bahwasanya telah sampai kepadanya bahwa Nabi shallallahu 'alaihi wasallam jika melihat Hilal beliau membaca: "HILLAALU KHAIRIN WARUSYDIN HILAALU KHAIRIN WARUSYDIN HILAALU KHAIRIN WARUSYDIN AAMANTU DILLADZII KHALAQAKA (Hilal itu baik dan lurus, hilal itu baik dan lurus, hilal itu baik dan lurus. Aku beriman kepada Dzat yang menciptakanmu) -beliau ulangi hingga tiga kali-." Setelah itu beliau mengatakan: "Segala puji bagi Allah yang telah pergi dengan bulan ini dan datang dengan bulan ini
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5092</td></tr><tr><td>Arabic No</td><td>5092</td></tr><tr><td>Reference</td><td>Book 43 Hadith 320</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5092</td></tr><tr><td>Arabic No</td><td>5092</td></tr><tr><td>Reference</td><td>Book 43 Hadith 320</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu 'Uthman:Usama bin Zaid said that while he. Sa'd and Ubai bin Ka'b w
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Hajjaj bin Minhal] telah menceritakan kepada kami [Syu'bah] dia berkata; telah mengabarkan kepadaku ['Ashim] dia berkata; saya mendengar [Abu Utsman] dari [Usamah bin Zaid] radliallahu 'anhuma, seorang puteri Nabi shallallahu 'alaihi wasallam mengirim seorang utusan kepada Nabi yang ketika itu Usamah, Sa'd dan Ubbay, bersama Nabi shallallahu 'alaihi wasallam, (seingatku) utusan itu menyampaikan pesan yang isinya; "Anakku telah menjelang wafat, maka tolong engkau (nabi) datang! Namun Nabi (tak sempat datang) dan hanya mengutusnya seraya menyampaikan pesan; "Tolong sampaikan salam kepadanya dan katakanlah; "Milik Allah lah segala yang diambil-Nya dan segala yang diberikan-Nya, dan segala sesuatu mempunyai batasan waktu tertentu disisi-Nya, maka hendaklah dia hanya mengharap ganjaran dan bersabar." (Merasa tidak puas), puteri nabi mengirim utusan untuk kedua kalinya sambil menyumpahinya (agar bisa membujuk nabi). Spontan nabi beranjak, dan kami pun berdiri. (ketika sampai), cucu nabi diletakkan di pangkuan Nabi shallallahu 'alaihi wasallam sedang nafasnya sudah tersengal-sengal karena tinggal sisa-sisa nyawanya. Kedua mata Nabi shallallahu 'alaihi wasallam pun berlinang, sehingga Sa'd bertanya; "Kenapa anda menangis ya Rasulullah?" Beliau menjawab: "Ini adalah pertanda kasih sayang yang Allah letakkan di hati hamba sesuai yang di kehendaki-Nya, dan Allah tidak akan meletakkan rasa kasih sayang pada para hamba-Nya kecuali terhadap orang-orang yang mempunyai rasa kasih sayang
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5655</td></tr><tr><td>Arabic No</td><td>5655</td></tr><tr><td>Reference</td><td>Book 75 Hadith 15</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Усама ибн Зейд, да будет доволен Аллах им и его отцом, рассказал о том, что (однажды), когда он Са‘д и Убай были с Пророком ﷺ, дочь Пророка ﷺ послала к нему (человека, чтобы пригласить его к себе, так как) её сын находился при смерти. Однако (Пророк ﷺ) отослал (этого человека обратно, велев ему) приветствовать её и сказать: “Поистине, Аллаху принадлежит то, что Он забрал, и то, что Он даровал, и для всего определил Он свой срок, так пусть же она надеется на награду Аллаха и проявляет терпение”. Однако (через некоторое время) она снова послала за ним, заклиная его прийти к ней, и тогда Пророк ﷺ пошёл (к ней), и мы пошли вместе с ним. (В доме дочери) Пророку ﷺ передали мальчика, который уже начал хрипеть, и тогда глаза Пророка ﷺ наполнились слезами. (Увидев это,) Са‘д спросил: “О Посланник Аллаха, что это?” Он ответил: “Это — милосердие, вложенное Аллахом в сердца Его рабов, и Аллах помилует только милосердных из числа рабов Своих”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5655</td></tr><tr><td>Arabic No</td><td>5655</td></tr><tr><td>Reference</td><td>Book 75 Hadith 15</td></tr></tbody></table></div>
 

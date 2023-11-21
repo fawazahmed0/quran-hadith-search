@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Qatada:The Prophet (ﷺ) came out towards us, while carrying Umamah
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Al Laits] telah menceritakan kepada kami [Sa'id Al Maqburi] telah menceritakan kepada kami ['Amru bin Sulaim] telah menceritakan kepada kami [Abu Qatadah] dia berkata; "Nabi shallallahu 'alaihi wasallam keluar menemui kami, sementara Umamah binti Abu Al 'Ash berada dipundak beliau, kemudian beliau mengerjakan shalat, apabila hendak ruku' beliau meletakkannya dan apabila bangkit dari ruku beliau pun mengangkatnya kembali
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5996</td></tr><tr><td>Arabic No</td><td>5996</td></tr><tr><td>Reference</td><td>Book 78 Hadith 27</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абу Катада сказал: «Однажды Пророк ﷺ вышел к нам с Умамой бинт Аби аль-‘Ас на плечах и совершил молитву. Он опускал её, когда совершал поясной поклон, а когда поднимался, брал её (на руки)»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5996</td></tr><tr><td>Arabic No</td><td>5996</td></tr><tr><td>Reference</td><td>Book 78 Hadith 27</td></tr></tbody></table></div>
 

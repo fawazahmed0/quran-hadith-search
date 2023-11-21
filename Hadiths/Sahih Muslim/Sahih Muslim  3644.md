@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ D'après Abou Hourayra (que Dieu l'agrée), L'Envoyé de Dieu (paix et bénédic
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Husain bin Ali] dari [Za'idah] dari [Maisarah] dari [Abu Hazim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa yang beriman kepada Allah dan Hari Akhir, kemudian dia menyaksikan suatu peristiwa, hendaklah dia berbicara dengan baik atau diam, dan berwasiatlah kepada wanita dengan kebaikan, karena sesungguhnya dia diciptakan dari tulang rusuk, dan bagian yang paling bengkok adalah tulang rusuk yang paling atas, jika kamu berusaha untuk meluruskannya, niscaya akan patah, jika kamu membiarkannya, dia akan senantiasa bengkok, maka berwasiatlah terhadap wanita dengan kebaikan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3644</td></tr><tr><td>Arabic No</td><td>715.12</td></tr><tr><td>Reference</td><td>Book 17 Hadith 77</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3644</td></tr><tr><td>Arabic No</td><td>715.12</td></tr><tr><td>Reference</td><td>Book 17 Hadith 77</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Umar bin Al-Khattab:Once I gave a horse (for riding) in Allah's Cause.
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Al Humaidiy] telah mengabarkan kepada kami [Sufyan] berkata, aku mendengar Malik bertanya kepada [Zaid bin Aslam] berkata, aku mendengar [Bapakku] berkata; ['Umar radliallahu 'anhu] berkata: "Aku membawa (menghibahkan) kuda di jalan Allah kemudian aku melihat kuda itu dijual. Aku tanyakan hal ini kepada Rasulullah shallallahu 'alaihi wasallam maka Beliau bersabda: "Jangan kamu beli dan jangan pula kamu minta kembali shadaqahmu
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2636</td></tr><tr><td>Arabic No</td><td>2636</td></tr><tr><td>Reference</td><td>Book 51 Hadith 68</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что ‘Умар, да будет доволен им Аллах, сказал: «(В своё время) я отдал (одному человеку, намеревавшемуся принять участие в войне) на пути Аллаха, коня, однако увидев, что он продаётся, я захотел купить его, и спросил совета у Посланника Аллаха ﷺ, который сказал: “Не покупай его и не бери назад свою милостыню (садака)!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2636</td></tr><tr><td>Arabic No</td><td>2636</td></tr><tr><td>Reference</td><td>Book 51 Hadith 68</td></tr></tbody></table></div>
 

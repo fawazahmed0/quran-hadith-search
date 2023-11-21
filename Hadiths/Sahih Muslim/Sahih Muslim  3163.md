@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abdullah b. 'Amr b. al-As (Allah be pleased with them) said:As Allah's Messenger
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Muhammad bin Abdullah bin Quhzadz] Telah menceritakan kepada kami [Ali bin Hasan] dari [Abdullah bin Mubarak] telah mengabarkan kepada kami [Muhammad bin Hafshah] dari [Az Zuhri] dari [Isa bin Thalhah] dari [Abdullah bin Amru bin Ash] ia berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam ketika beliau didatangi oleh seseorang pada hari Nahr (kurban) dan saat itu beliau sedang berada di tempat melontar jumrah. Orang tersebut bertanya, "Wahai Rasulullah, sungguh saya telah mencukur rambut sebelum melontar jumrah?" beliau bersabda: "Tidak apa-apa, sekarang melontarlah." Kemudian datanglah yang lain lagi dan bertanya, "Sungguh, saya telah beranjak ke Baitullah sebelum melontar?" beliau bersabda: "Tidak apa-apa, sekarang melontarlah." Abdullah bin Amru berkata; Pada hari itu, aku tidak melihat beliau ditanya tentang sesuatu melainkan beliau menjawab: "Tidak apa-apa, sekarang lakukanlah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3163</td></tr><tr><td>Arabic No</td><td>1306.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 367</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3163</td></tr><tr><td>Arabic No</td><td>1306.08</td></tr><tr><td>Reference</td><td>Book 15 Hadith 367</td></tr></tbody></table></div>
 

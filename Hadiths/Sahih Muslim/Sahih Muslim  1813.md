@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ A'raj reported that when the Messenger of Allah (ﷺ) would start the prayer, he
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>771.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 241</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+(…) В этой версии хадиса говорится, что, приступив к молитве, Посланник Аллаха ﷺ сначала произносил слова «Аллаху Акбар», а потом говорил: «Я обратился лицом...» /Ваджжахту ваджхи…/. Также он говорил: «И я являюсь первым из мусульман». /Ва ана авалю ль-муслимин/. А когда поднимал голову после поясного поклона, говорил: «Да услышит Аллах тех, кто воздал Ему хвалу, Господь наш, а Тебе хвала» /Сами‘а Алаху ли-ман хамида-ху Рабба-на, ва ля-ка ль-хамд/. И (Пророк ﷺ) говорил: «…и придал ему образ и наилучший вид» /Ва саввараху, фа ахсана суараху/. А когда Пророк ﷺ произносил слова приветствия, (завершая молитву, то) говорил: «О Аллах, прости мне то, что я совершил прежде…» /Аллахумма-гъфир ли ма къаддамту
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>771.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 241</td></tr></tbody></table></div>
 

@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ar-Rubayyi' bint Mu'awwidh Ibn 'Afrâ' (رضي الله عنها) a dit : Au mat
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Bakr bin Nafi' Al Abdi] telah menceritakan kepada kami [Bisyr Al Mufadldlal bin Lahiq] telah menceritakan kepada kami [Khalid bin Dzakwan] dari [Rabi' binti Mu'awwidz bin Afran] ia berkata; Suatu pagi di hari 'Asyura', Rasulullah shallallahu 'alaihi wasallam mengirim petugas ke perkampungan orang Anshar yang berada di sekitar Madinah, untuk menyampaikan pengumuman; "Siapa yang berpuasa sejak pagi hari, hendaklah ia menyempurnakan puasanya, dan siapa yang tidak berpuasa hendaklah ia puasa sejak mendengar pengumuman ini." Semenjak itu, kami berpuasa di hari 'Asyura', dan kami suruh pula anak-anak kecil kami, insya Allah. Kami bawa mereka ke Masjid dan kami buatkan mereka main-mainan dari bulu. Apabila ada yang menangis minta makan, kami berikan setelah waktu berbuka tiba. Dan Telah meceritakannya kepada kami [Yahya bin Yahya] dan [Abu Ma'syar Al 'Aththar] dari [Khalid bin Dzakwan] ia berkata, saya bertanya kepada [Rabi' binti Mu'awwidz] tentang puasa di hari 'Asyura', maka ia menjawab: "Rasulullah shallallahu 'alaihi wasallam mengirim petugas ke perkampungan orang Anshar." Ia pun menyebutkan hadits sebagaimana hadits Bisyr, hanya saja ia menyebutkan; "Dan kami membuatkan mereka main-mainan dari bulu, kemudian kami membawa mereka. Dan apabila mereka meminta makanan kepada kami, maka kami memberi mereka main-mainan untuk melalaikan mereka (dari rasa lapar) hingga puasa mereka sempurna
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2669</td></tr><tr><td>Arabic No</td><td>1136.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 175</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2669</td></tr><tr><td>Arabic No</td><td>1136.01</td></tr><tr><td>Reference</td><td>Book 13 Hadith 175</td></tr></tbody></table></div>
 

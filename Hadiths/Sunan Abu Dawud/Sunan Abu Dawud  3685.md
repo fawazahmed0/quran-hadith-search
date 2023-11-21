@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) forbade wine (khamr), ga
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Muhammad bin Ishaq] dari [Yazid bin Abu Habib] dari [Al Walid bin 'Abdah] dari [Abdullah bin 'Amru] bahwa Nabi shallallahu 'alaihi wasallam melarang khamer, judi, gendang kecil, Al Ghubaira' (jenis minuman yang terbuat dari jagung). Dan beliau bersabda: "Segala yang memabukkan adalah haram." Abu Daud berkata, "Ibnu Salam Abu 'Ubaid berkata, "Al Ghubaira' adalah sukrukah yang terbuat dari jagung, yaitu minuman yang dibuat oleh orang-orang Habasyah
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3685</td></tr><tr><td>Arabic No</td><td>3685</td></tr><tr><td>Reference</td><td>Book 27 Hadith 17</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом, что пророк Аллаха ﷺ запретил вино, мейсир (азартные игры), кубу и губайру и сказал: «Всё опьяняющее запретно». Абу Дауд упомянул, что Ибн Саллям Абу ‘Убайд сказал, что губайра это опьяняющий напиток из сорго, который изготавливали эфиопы
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3685</td></tr><tr><td>Arabic No</td><td>3685</td></tr><tr><td>Reference</td><td>Book 27 Hadith 17</td></tr></tbody></table></div>
 

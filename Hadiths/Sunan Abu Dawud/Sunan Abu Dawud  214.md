@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Ubayy b. Ka’b reported :The Messenger of Allah (May peace be upon him) made a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada saya ['Amru bin Al Harits] dari [Ibnu Syihab] telah menceritakan kepada saya [beberapa orang yang kupercayai] bahwasanya [Sahl bin Sa'd As-Sa'idi] telah mengabarkan kepadanya bahwa [Ubay bin Ka'b] telah mengabarkan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya hal itu (yakni tidak diwajibkan mandi karena tidak keluar mani ketika senggama) hanyalah suatu keringanan untuk orang-orang pada masa permulaan Islam, karena waktu itu pakaian masih kurang." Kemudian setelah itu beliau memerintahkan untuk mandi. Abu Dawud berkata; Yakni, air (mandi janabat) itu disebabkan karena keluarnya air (mani)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>214</td></tr><tr><td>Arabic No</td><td>214</td></tr><tr><td>Reference</td><td>Book 1 Hadith 214</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Ибн Шихаба: «Расказали мне некоторые из тех, кем я доволен о том, что Сахль ибн Са‘д ас-Са‘иди рассказывал, что Убай ибн Ка‘б сообщил ему о том, что Посланник Аллаха ﷺ разрешал это людям в первые годы распространения Ислама из-за того, что (у людей) был недостаток в одежде, но позже он велел купаться и запретил это».Абу Дауд сказал: «То есть: (следует искупаться) водой от воды»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>214</td></tr><tr><td>Arabic No</td><td>214</td></tr><tr><td>Reference</td><td>Book 1 Hadith 214</td></tr></tbody></table></div>
 

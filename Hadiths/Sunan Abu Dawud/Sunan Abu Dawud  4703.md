@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umar ibn al-Khattab: Muslim ibn Yasar al-Juhani said: When Umar ibn al-
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4703</td></tr><tr><td>Arabic No</td><td>4703</td></tr><tr><td>Reference</td><td>Book 42 Hadith 108</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передаётся от Муслима ибн Ясара аль-Джухани, что однажды ‘Умара ибн аль-Хаттаба спросили об аяте «Вот твой Господь вынул из поясниц сынов Адама их потомство и заставил их засвидетельствовать против самих себя: “Разве Я не ваш Господь?” Они сказали: “Да, мы свидетельствуем”. Это для того, чтобы в День воскресения вы не говорили: “Мы не знали этого”» (сура “аль-А‘раф”, аят 172). И ‘Умар сказал: «Я слышал, как Посланника Аллаха ﷺ спросили об этом и он сказал: «Поистине, Всемогущий и Великий Аллах сотворил Адама, затем провёл по его спине Своей Правой Рукой, вынул из неё часть его потомства и сказал: “Я сотворил этих для Рая, и они будут совершать дела обитателей Рая”. Затем Он снова провёл по его спине, извлёк из неё другую часть его потомства и сказал: “Я сотворил этих для Огня, и они будут совершать дела обитателей Огня”». Один человек спросил: «О Посланник Аллаха, для чего же тогда что-то делать?» Посланник Аллаха ﷺ сказал: «Поистине, Всемогущий и Великий Аллах, сотворив человека для Рая, помогает ему совершать дела обитателей Рая, пока тот не умрёт, совершая одно из таких дел, и тогда вводит Его в Рай за это. А сотворив человека для Огня, Он даёт ему возможность совершать дела обитателей Огня до тех пор, пока тот не умрёт, совершая одно из таких дел, и тогда Он вводит его в Ад за это»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4703</td></tr><tr><td>Arabic No</td><td>4703</td></tr><tr><td>Reference</td><td>Book 42 Hadith 108</td></tr></tbody></table></div>
 

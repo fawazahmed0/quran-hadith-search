@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Kathir ibn Qays: Kathir ibn Qays said: I was sitting with AbudDarda' in
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musaddad bin Musarhad] telah menceritakan kepada kami [Abdullah bin Daud] aku mendengar ['Ashim bin Raja bin Haiwah] menceritakan dari [Daud bin Jamil] dari [Katsir bin Qais] ia berkata, "Aku pernah duduk bersama Abu Ad Darda di masjid Damaskus, lalu datanglah seorang laki-laki kepadanya dan berkata, "Wahai Abu Ad Darda, sesungguhnya aku datang kepadamu dari kota Rasulullah shallallahu 'alaihi wasallam karena sebuah hadits yang sampai kepadaku bahwa engkau meriwayatannya dari Rasulullah shallallahu 'alaihi wasallam. Dan tidaklah aku datang kecuali untuk itu." Abu Ad Darda lalu berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa meniti jalan untuk menuntut ilmu, maka Allah akan mempermudahnya jalan ke surga. Sungguh, para Malaikat merendahkan sayapnya sebagai keridlaan kepada penuntut ilmu. Orang yang berilmu akan dimintakan maaf oleh penduduk langit dan bumi hingga ikan yang ada di dasar laut. Kelebihan serang alim dibanding ahli ibadah seperti keutamaan rembulan pada malam purnama atas seluruh bintang. Para ulama adalah pewaris para nabi, dan para nabi tidak mewariskan dinar dan dirham, mereka hanyalah mewariskan ilmu. Barangsiapa mengambilnya maka ia telah mengambil bagian yang banyak." Telah menceritakan kepada kami [Muhammad bin Al Wazir Ad Dimasyqi] telah menceritakan kepada kami [Al Walid] ia berkata; aku berjumpa dengan [Syabib bin Syaibah] lalu ia menceritakannya kepadaku dari [Utsman bin Abu Saudah] dari [Abu Ad Darda] dari Nabi shallallahu 'alaihi wasallam dengan maknanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3641</td></tr><tr><td>Arabic No</td><td>3641</td></tr><tr><td>Reference</td><td>Book 26 Hadith 1</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передается от Касира ибн Кайcа: «Я сидел с Абу ад-Дардой в мечети Дамаска, и к нему подошёл какой-то человек и сказал: “О Абу ад-Дарда! Я прибыл к тебе из города Посланника ﷺ ради хадиса, который, как мне сказали, ты передаёшь от Посланника Аллаха ﷺ никакой иной потребности у меня нет”. Абу ад-Дарда сказал: “Поистине, я слышал, как Посланник Аллаха ﷺ сказал: “Тому, кто отправился в путь, желая приобрести знания, Аллах облегчит один из путей, ведущих в Рай. Поистине, ангелы непременно будут простирать свои крылья над ищущим знания, выражая своё удовлетворение тем, что он делает. И, поистине, прощения для знающего непременно станут просить обитатели небес и земли, и даже рыбы в толще воды! И превосходство обладателя знания над простым поклоняющимся подобно превосходству луны в ночь полнолуния над прочими небесными светилами, и, поистине, обладающие знанием наследники пророков, а пророки не оставляют в наследство ни динаров, ни дирхемов. Они оставляют в наследство знание, а кто приобрёл его, тот приобрёл великий удел””»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3641</td></tr><tr><td>Arabic No</td><td>3641</td></tr><tr><td>Reference</td><td>Book 26 Hadith 1</td></tr></tbody></table></div>
 

@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Anas ibn Malik: The Messenger of Allah (ﷺ) came out, and on seeing a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Utsman bin Hakim] ia berkata; telah mengabarkan kepadaku [Ibrahim bin Muhammad bin Hathib Al Qurasyi] dari [Abu Thalhah Al Asadi] dari [Anas bin Malik] berkata, "Rasulullah shallallahu 'alaihi wasallam keluar rumah, lalu beliau melihat bangunan yang tinggi. Beliau lalu bertanya: "Apa ini?" para sahabat menjawab, "Ini adalah bangunan milik si fulan, seorang laki-laki Anshar." Anas berkata, "Rasulullah shallallahu 'alaihi wasallam diam dan hanya memendam dalam hatinya, hingga ketika pemilik bangunan itu datang dan memberi salam kepada Rasulullah shallallahu 'alaihi wasallam di depan orang-orang beliau berpaling darinya. Beliau melakukan hal itu berulang-ulang hingga laki-laki paham bahwa Rasulullah sedang marah dan menghindar darinya. Maka laki-laki itu pun mengeluh kepada para sahabat Rasulullah. Laki-laki itu berkata, "Demi Allah, aku telah mengingkari Rasulullah shallallahu 'alaihi wasallam." Para sahabat berkata, "Rasulullah keluar dan melihat bangunan milikmu." Anas berkata, "Lalu laki-laki pulang dan menghancurkan rumahnya hingga rata dengan tanah. Ketika suatu hari Rasulullah shallallahu 'alaihi wasallam keluar dan melihat bangunan tersebut telah hilang, beliau pun bertanya: "Apa yang terjadi dengan bangunan tersebut?" para sahabat menjawab, "Pemilik banguan itu pernah mengeluh kepada kami tentang berpalingnya baginda kepadanya, maka kami pun mengabarkan kepadanya. Lalu ia pulang dan menghancurkan rumah miliknya. Rasulullah bersabda: "Ketahuilah, sesungguhnya setiap bangunan itu akan membawa bencana bagi pemiliknya, kecuali yang tidak, kecuali yang tidak." Maksudnya sesuatu yang memang dibutuhkan
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>5237</td></tr><tr><td>Reference</td><td>Book 43 Hadith 465</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>5237</td></tr><tr><td>Reference</td><td>Book 43 Hadith 465</td></tr></tbody></table></div>
 

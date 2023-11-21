@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Mujashi:My brother and I came to the Prophet (ﷺ) and I requested him 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah bercerita kepada kami [Ishaq bin Ibrahim] dia mendengar [Muhammad bin Fudhail] dari ['Ashim] dari [Abu 'Utsman] dari [Mujasyi' radliallahu 'anhu] berkata; Aku menemui Nabi shallallahu 'alaihi wasallam bersama saudaraku lalu aku berkata: "Bai'atlah kami atas hijrah". Maka Beliau berkata: "Hijrah sudah berlalu bagi para penduduknya (Makkah) ". Lalu aku tanyakan: "Lalu atas apa Tuan membai'at kami?" Beliau berkata: "Atas Islam dan jihad
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2962</td></tr><tr><td>Arabic No</td><td>2962</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2962</td></tr><tr><td>Arabic No</td><td>2962</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 

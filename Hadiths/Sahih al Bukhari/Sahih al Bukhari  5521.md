@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Ibn 'Umar:The Prophet (ﷺ) made the meat of donkeys unlawful on the da
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Shadaqah] berkata, telah mengabarkan kepada kami [Abdah] dari [Ubaidullah] dari [Salim] dan [Nafi'] dari [Ibnu Umar] radliallahu 'anhuma, bahwa pada saat penaklukan Khaibar Nabi shallallahu 'alaihi wasallam melarang makan daging keledai jinak." Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Ubaidullah] berkata, telah menceritakan kepadaku [Nafi'] dari [Abdullah] ia berkata, "Nabi shallallahu 'alaihi wasallam melarang makan daging keledai jinak." Hadits ini dikuatkan oleh [Ibnul Mubarak] dari [Ubaidullah] dari [Nafi'], dan [Abu Usamah] menyebutkan dari [Ubaidullah] dari [Salim]
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5521</td></tr><tr><td>Arabic No</td><td>5521</td></tr><tr><td>Reference</td><td>Book 72 Hadith 47</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов Ибн ‘Умара, да будет доволен им Аллах, что Пророк ﷺ запретил есть мясо домашнего осла в день битвы при Хайбаре
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5521</td></tr><tr><td>Arabic No</td><td>5521</td></tr><tr><td>Reference</td><td>Book 72 Hadith 47</td></tr></tbody></table></div>
 

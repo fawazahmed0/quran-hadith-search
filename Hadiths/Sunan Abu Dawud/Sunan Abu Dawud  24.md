@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Umaymah daughter of Ruqayqah: The Prophet (ﷺ) had a wooden vessel und
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] dari [Hukaimah binti Umaimah binti Ruqaiqah] dari [Ibunya] bahwasanya dia berkata; Nabi shallallahu 'alaihi wasallam memiliki bejana dari pelepah kurma (yang beliau letakkan) di bawah ranjangnya, yang beliau gunakan untuk buang air kecil pada waktu malam hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 1 Hadith 24</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Хукаймы бинт Умаймы бинт Рукъаййи о том, что ее мать сказала: «У Пророка ﷺ под кроватью находился деревянный сосуд, в который он мочился ночью»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 1 Hadith 24</td></tr></tbody></table></div>
 

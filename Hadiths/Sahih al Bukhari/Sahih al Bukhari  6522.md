@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated Abu Huraira:The Prophet (ﷺ) said, "The people will be gathered in thr
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Mu'alla bin Asad] telah menceritakan kepada kami [Wuhaib] dari [Ibnu Thawus] dari [ayahnya] dari [Abu Hurairah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam, bersabda: "Manusia dikumpulkan di hari kiamat dengan tiga jalan, untuk manusia yang harap-harap cemas, dua jalan untuk mereka yang menunggang unta, tiga jalan lagi untuk mereka yang menunggang unta, empat jalan lagi untuk mereka yang menunggang unta, dan sepuluh jalan lagi untuk mereka yang menunggang unta, sedang sisanya disatukan oleh neraka, neraka itu selalu menyertai mereka ketika mereka tidur siang, tidur malam, berpagi hari, dan bersore hari
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6522</td></tr><tr><td>Arabic No</td><td>6522</td></tr><tr><td>Reference</td><td>Book 81 Hadith 111</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «(В День воскресения) люди будут собраны тремя способами: (первым из них будут собраны) желающие и боящиеся, (вторым способом будут собраны те, кого посадят) на верблюдов по двое, по трое, по четверо и по десять человек, что же касается остальных, то их соберёт огонь, который останется вместе с ними там, где они остановятся на полуденный отдых, и там, где они будут ночевать, и там, где они встретят утро, и там, где их застанет вечер»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6522</td></tr><tr><td>Arabic No</td><td>6522</td></tr><tr><td>Reference</td><td>Book 81 Hadith 111</td></tr></tbody></table></div>
 

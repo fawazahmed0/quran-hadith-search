@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Asma' daughter of Yazid: She heard the Prophet (ﷺ) read the verse: "H
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Tsabit] dari [Syahr bin Hausyab] dari [Asma' binti Yazid], bahwa ia pernah mendengar Nabi shallallahu 'alaihi wasallam membaca: 'INNAHUU 'AMILA GHAIRA SHAALIH (Sesungguhnya ia telah melakukan perbuatan yang tidak baik) '. (Qs. Huud:)
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3982</td></tr><tr><td>Arabic No</td><td>3982</td></tr><tr><td>Reference</td><td>Book 32 Hadith 14</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Асма бинт Язид, да будет доволен ею Аллах, передаёт, что она слышала, как Пророк ﷺ читал аят: «Поистине, он (сын Нуха, отказавшийся уверовать) совершил неправедный поступок» (сура«Худ», аят 46) (а не «Поистине, это неправедный поступок /‘амалюн/»)
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3982</td></tr><tr><td>Arabic No</td><td>3982</td></tr><tr><td>Reference</td><td>Book 32 Hadith 14</td></tr></tbody></table></div>
 

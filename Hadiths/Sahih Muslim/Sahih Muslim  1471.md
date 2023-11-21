@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Abu'l-'Aliyat al-Bara' reported:I said to 'Abdullah b. Samit: We say our Jumu'a 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan telah menceritakan kepadaku [Abu Ghassan Al Misma'i] telah menceritakan kepada kami [Mu'adz] yaitu Ibnu Hisyam, telah menceritakan kepadaku [Ayahku] dari [Mathar] dari [Abul 'Aliyah Al Barra'] katanya; aku berkata kepada [Abdullah bin Shamit]; "Kami pernah shalat Jum'at di belakang para penguasa yang mengakhirkan shalat." Abul Aliyah mengatakan; Maka Abdullah menepuk pahaku dengan tepukan yang menjadikanku lumayan sakit. Abdullah bin Shamit berkata; "Aku pernah bertanya kepada [Abu Dzar] tentang hal itu, dan dia menepuk pahaku, lalu dia berkata; "Aku pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang hal itu, lalu beliau menjawab: "Tunaikanlah shalat tepat pada waktunya, bila kalian mampu, tunaikanlah shalat kalian bersama mereka sebagai shalat sunnah." Al Barra' mengatakan; Abdullah berkata; "Aku pernah mendapatkan cerita bahwa Nabiyullah shallallahu 'alaihi wasallam pernah menepuk paha Abu Dzarr
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1471</td></tr><tr><td>Arabic No</td><td>648.07</td></tr><tr><td>Reference</td><td>Book 5 Hadith 304</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается, что Абуль-‘Алия аль-Барраъ сказал: (Однажды) я сказал ‘Абдуллаху ибн ас-Самиту: «Мы будем в пятницу молиться (стоя) за правителями, которые откладывают молитву?»(Абуль-‘Алия) сказал: И он ударив меня по бедру так, что мне стало больно, сказал: (Однажды) я спросил Абу Зарра об этом, и он ударил меня по бедру и сказал: (Однажды) я спросил об этом Посланника Аллаха ﷺ и он сказал: «Совершайте молитву в положенное (для) неё время, а свою молитву с ними совершайте как дополнительную».(Абуль-‘Алия) сказал: «‘Абдуллах сказал: “И мне рассказали, что Пророк ﷺ ударил по бедру Абу Зарра”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1471</td></tr><tr><td>Arabic No</td><td>648.07</td></tr><tr><td>Reference</td><td>Book 5 Hadith 304</td></tr></tbody></table></div>
 

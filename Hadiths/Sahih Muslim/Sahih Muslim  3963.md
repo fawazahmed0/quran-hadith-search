@@ -8,6 +8,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -57,6 +59,14 @@ Ibn Umar (Allah be pleased with them) reported:Allah's Messenger (ﷺ) handed ov
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepadaku [Ali bin Hujr As Sa'di] telah menceritakan kepada kami [Ali yaitu Ibnu Mushir] telah mengabarkan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah memberi (upah) kepada penduduk Khaibar dengan sebagian dari tumbuh-tumbuhan atau tanam-tanaman yang dihasilkan mereka. Kemudian beliau bagi-bagikan setiap tahunnya kepada para isterinya sebanyak seratus wasaq yaitu berupa delapan puluh wasaq dan dua puluh gandum. Ketika Umar bin Khaththab berkuasa, maka tanah Khaibar tersebut mulai dibagi-bagikan. Umar memberikan pilihan kepada para istri Nabi shallallahu 'alaihi wasallam apakah mereka menghendaki menerima tanah dan air atau akan tetap menerima jatah pangan beberapa wasaq seperti biasa setiap tahunnya. Di antara mereka ada yang memilih pembagian tanah dan air, sedangkan yang lainnya ada yang memilih jatah seperti biasa setiap tahun. Dalam hal ini, Aisyah dan Hafshah memilih pembagian tanah dan air." Telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [ayahku] telah menceritakan kepada kami [Ubaidullah] telah menceritakan kepadaku [Nafi'] dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam pernah mempekerjakan penduduk Khaibar dengan upah dari sebagian hasil tanaman yang mereka tanam atau buah yang mereka tanam…" kemudian ia meneruskan hadits sebagaimana hadits Ali bin Mushir, dan tidak menyebutkan lafazh; Sedangkan 'Aisyah dan Hafshah termasuk yang memilih pembagian tanah dan air. Dan telah menceritakan kepadaku [Abu Thahir] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Usamah bin Zaid Al Laitsi] dari [Nafi'] dari [Abdullah bin Umar] dia berkata; "Tatkala Khaibar dapat ditaklukkan, orang-orang yahudi memohon kepada Rasulullah shallallahu 'alaihi wasallam supaya merka diperbolehkan tetap tinggal di sana untuk mengerjakan sawah dan ladang dengan upah seperdua dari tanaman atau buah-buahan yang dihasilkan." Rasulullah shallallahu 'alaihi wasallam menjawab: "Kami bolehkan kalian menetap sampai batas waktu yang kami tentukan." Kemudian dia meneruskan hadits tersebut seperti hadits Ibnu Numair dan Ibnu Mushir dari Ubaidullah dengan tambahan lafazh; Dan setengah buah-buahan dari hasil ghanimah Khaibar telah di bagi-bagikan, Rasulullah shallallahu 'alaihi wasallam mengambil seperlimanya
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3963</td></tr><tr><td>Arabic No</td><td>1551.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 2</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3963</td></tr><tr><td>Arabic No</td><td>1551.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 2</td></tr></tbody></table></div>
 

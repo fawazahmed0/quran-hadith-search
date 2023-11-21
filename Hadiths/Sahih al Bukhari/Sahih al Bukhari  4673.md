@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Tamil](#tamil)
 
 [Turkish](#turkish)
@@ -47,6 +49,14 @@ Narrated 'Abdullah bin Ka'b:I heard Ka'b bin Malik at the time he remained behin
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Yahya] Telah menceritakan kepada kami [Al Laits] dari ['Uqail] dari [Ibnu Syihab] dari ['Abdur Rahman bin 'Abdullah] sesungguhnya [Abdullah bin Ka'ab bin Malik] berkata; Aku mendengar [Ka'ab bin Malik] ketika dia tertinggal dari perang Tabuk; 'Demi Allah, tidak ada nikmat yang telah di berikan Allah kepada saya, setelah Allah menunjukan kepada saya Islam, yang saya anggap lebih besar daripada kejujuranku kepada Rasulullah shallallahu 'alaihi wasallam, Seandainya saya berdusta kepada beliau, maka saya akan celaka sebagaimana orang-orang yang telah berdusta ketika diturunkan wahyu yang berbunyi: 'Kelak mereka akan bersumpah kepadamu dengan nama Allah apabila kamu kembali kepada mereka supaya kamu berpaling dari mereka. Maka berpalinglah kamu dari mereka, karena sesungguhnya mereka itu najis dan tempat mereka adalah jahannam sebagai balasan dari apa yang telah mereka kerjakan. Mereka akan bersumpah kepadamu supaya kamu ridla kepada mereka, maka sesungguhnya Allah tidak ridla kepada orang-orang yang fasik itu.' (Qs. At-taubah (9):
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4673</td></tr><tr><td>Arabic No</td><td>4673</td></tr><tr><td>Reference</td><td>Book 65 Hadith 195</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+Сообщается со слов ‘Абдуллаха ибн Ка‘ба ибн Малика, что, рассказывая о своём отсутствии в походе на Табук, Ка‘б ибн Малик сказал: «Клянусь Аллахом, после того как Аллах указал мне путь к исламу, наибольшим благодеянием, которое Он оказал мне, стало то, что я был правдив с Посланником Аллаха ﷺ и не солгал ему, (поскольку в таком случае) я бы погиб, как погибли те, которые солгали, когда было ниспослано откровение: “Они станут клясться вам Аллахом, когда вы вернетесь к ним, чтобы вы отступились от них, так отступитесь же от них, ведь, поистине, они — скверна, а убежищем для них в качестве воздаяния за то, что они совершали, послужит ад. Они станут клясться вам, чтобы вы остались довольны ими, но если даже вы и останетесь довольны ими, то Аллах, поистине, не будет доволен людьми нечестивыми!”»
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4673</td></tr><tr><td>Arabic No</td><td>4673</td></tr><tr><td>Reference</td><td>Book 65 Hadith 195</td></tr></tbody></table></div>
 

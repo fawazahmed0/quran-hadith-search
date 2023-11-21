@@ -6,6 +6,8 @@
 
 [Indonesian](#indonesian)
 
+[Russian](#russian)
+
 [Turkish](#turkish)
 
 [Urdu](#urdu)
@@ -45,6 +47,14 @@ Narrated Buraydah ibn al-Hasib: The Messenger of Allah (ﷺ) delivered a speech 
 
 <div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Telah menceritakan kepada kami [Muhammad bin Al 'Ala'] bahwa [Zaid bin Al Hubab] telah menceritakan kepada mereka, katanya; telah menceritakan kepada kami [Husain bin Waqid] telah menceritakan kepadaku [Abdullah bin Buraidah] dari [ayahnya] dia berkata; Rasulullah shallallahu 'alaihi wasallam tengah berkhutbah di tengah-tengah kami, tiba-tiba Hasan dan Husain radliallahu 'anhuma membawakan dua baju yang berwarna merah. Keduanya lalu terjatuh, Rasulullah shallallahu 'alaihi wasallam turun dari mimbar dan menggendong keduanya lalu kembali ke mimbar dengan bersabda: "Maha benar Allah atas firman-Nya: 'Sesungguhnya hartamu dan anak-anakmu hanyalah sebagai cobaan'. (Qs. Al-Anfaal (8): 28). Aku melihat kedua anak ini terjatuh dalam kedua bajunya, maka aku tidak sabar hingga aku mempersingkat khutbahku
+</div>
+<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1109</td></tr><tr><td>Arabic No</td><td>1109</td></tr><tr><td>Reference</td><td>Book 2 Hadith 720</td></tr></tbody></table></div>
+
+## Russian
+
+
+<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+
 </div>
 <div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1109</td></tr><tr><td>Arabic No</td><td>1109</td></tr><tr><td>Reference</td><td>Book 2 Hadith 720</td></tr></tbody></table></div>
 
